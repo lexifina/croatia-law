@@ -1,0 +1,1 @@
+Rev-1271/1992-2, Vrhovni sud Republike Hrvatske, 23.9.1992.
