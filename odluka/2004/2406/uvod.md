@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Uredbe o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2004. godinu (»Narodne novine«, broj 88/2004), Vlada Republike Hrvatske je na sjednici održanoj 30. rujna 2004. godine, donijela
