@@ -1,0 +1,1 @@
+Na temelju člana 211. Statuta Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja samostalnih zanatlija, ugostitelja i prijevoznika Hrvatske ("Narodne novine", br. 43/83), Skupština Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja samostalnih zanatlija, ugostitelja i prijevoznika Hrvatske, na sjednici od 21. prosinca 1989. donosi
