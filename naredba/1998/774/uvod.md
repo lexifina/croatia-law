@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. Zakona o zaštiti vojnih i civilnih invalida rata ("Narodne novine", 86/92 - pročišćeni tekst, 58/93, 2/94 i 76/94), sukladno članku 5. i 14. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija ("Narodne novine", broj 131/97) ministar hrvatskih branitelja iz Domovinskog rata donosi
