@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda i sudaca Zdravka Bartovčaka, dr. Nikole Filipovića, mr. Vojislava Kučekovića, Ante Jelavića, mr. Hrvoja Momčinovića, Ivana Marijana Severinca i Mladena Žuvele, u povodu prijedloga Ðorđa Totovića iz Zagreba za ocjenu ustavnosti zakona na sjednici održanoj 1. lipnja 1994. godine donio je ovo
