@@ -1,0 +1,7 @@
+# Članak 10.
+Članovi posade jedne ugovorne stranke u posjedu osobnih dokumenata prema članku 9. ovog Ugovora:
+1. moći će izaći na obalu bez vize tijekom vremena dok je brod u luci druge ugovorne stranke, ukoliko kapetan broda nadležnim vlastima dostavi popis posade u skladu sa pozitivnim propisima te ugovorne stranke;
+2. članovima posade jedne ugovorne stranke bit će dopušteno da kao putnici u bilo kojem prijevoznom sredstvu stupe na teritorij druge ugovorne stranke ili ga prijeđu u tranzitu kako bi se ukrcali na brod, prešli na drugi brod ili se vratili u svoju zemlju, ili da poduzmu bilo koje drugo putovanje koje je odobrila druga ugovorna stranka;
+3. u slučaju bolesti ili ozljede, članovima posade će biti dopušteno boraviti na teritoriju druge ugovorne stranke tijekom vremena potrebnog za oporavak sukladno zakonima i propisima odnosne ugovorne stranke.
+Osobe sa osobnim dokumentima prema članku 9. ovog Ugovora uključene u popis članova posade broda, mogu stupiti na teritorij i putovati kroz teritorij druge ugovorne stranke u slučaju pomorske nezgode ili neke druge katastrofe, kako bi se pridružile brodovima u cilju povratka u domovinu, ili nekog drugog razloga koji je prihvatljiv za nadležne vlasti druge ugovorne stranke, a u skladu sa pozitivnim zakonskim i drugim propisima te ugovorne stranke.
+U takvim slučajevima, ukoliko zakonodavstvo odnosne zemlje predviđa izdavanje vize, vlasti te ugovorne stranke izdat će vizu u najkraćem mogućem vremenu.

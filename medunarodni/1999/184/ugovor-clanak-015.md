@@ -1,0 +1,2 @@
+# Članak 15.
+Obje ugovorne stranke su suglasne da će pitanje oporezivanja zarade ostvarene korištenjem brodova u međunarodnom prijevozu biti uređeno ugovorom između Republike Hrvatske i Republike Indije o izbjegavanju dvostrukog oporezivanja i sprečavanju izbjegavanja porezne obveze u svezi s porezom na prihod i kapital, a koji će biti zaključen i ratificiran od vlada ugovornih stranaka u najskorijem mogućem vremenu.

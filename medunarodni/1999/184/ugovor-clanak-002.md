@@ -1,0 +1,5 @@
+# Članak 2.
+Obje ugovorne stranke će, sukladno svojim zakonskim i drugim propisima, nastojati promicati odnose između nadležnih vlasti koje su zadužene za pomorski prijevoz u objema zemljama, dati svoj doprinos u uzajamnom savjetovanju, te razmjeni informacija između gore navedenih vlasti, te promicati kontakte i suradnju između brodarskih organizacija i pomorskih gospodarstava u svojim zemljama.
+Brodari jedne ugovorne stranke mogu sklapati ugovore i sporazume s odgovarajućim društvima druge ugovorne stranke o pomorskom prijevozu, a koji su tehničke ili komercijalne prirode.
+Ugovorne stranke će poticati brodare u svojim zemljama da uspostavljaju, uz uvjete ekonomske opravdanosti, redovite brodske linije između luka dvije zemlje na kojima će ploviti brodovi ugovornih stranaka, a sa ciljem promicanja pomorske trgovine između njih.
+Ugovorne stranke će poticati korištenje modernih tehnologija u pomorskom prijevozu, uključujući razvoj kontejnerskog prijevoza, između luka dviju ugovornih stranaka.
