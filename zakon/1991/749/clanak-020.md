@@ -1,0 +1,2 @@
+# Članak 20.
+Danom stupanja na snagu Zakona o izmjenama i dopunama Zakona o boravišnoj pristojbi ("Narodne novine", br. 109/93.) prestaje važiti Uredba o izmjeni Zakona o boravišnoj pristojbi ("Narodne novine", br. 53/93.) i Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi ("Narodne novine", br 73/93 ) te se stavlja izvan snage točka 26. i 27. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", br. 109/93.).

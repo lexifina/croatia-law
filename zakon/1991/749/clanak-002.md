@@ -1,9 +1,6 @@
 # Članak 2.
-Boravišnu pristojbu ne plaćaju:
-1. djeca do dvanaest godina starosti,
-2. slijepe i gluhe osobe, te osobe sa tjelesnim invaliditetom,
-3. sudionici školskih ekskurzija,
-4. osobe na liječenju u lječilištima,
-5. strani državljani koji su po medunarodnim propisima i sporazumima oslobođeni plaćanja pristojbi,
-6. vlasnik smještajnog objekta, te njegovi: bračni drug, djeca, roditelji, brača i sestre,
-7. turisti koji u istom mjestu provode odinor 10 i više godina.
+Boravišnu pristojbu plaća vlasnik kuće ili stana za odmor u turističkom mjestu i sve osobe koje borave u toj kuć ili stanu.
+Osobe iz stavka 1. ovoga članka boravišnu pristojbu plaćaju kada u kući i stanu za odmor u turističkom mjestu borave u razdoblju od 15. lipnja do 15. rujna.
+Boravišnu pristojbu plaća i vlasnik plovila koje se nalazi na vezu u luci nautičkog turizma kada boravi na plovilu te sve osobe koje borave na tom plovilu
+Kućom ili stanom za odmor, iz stavka 1. ovoga članka, smatra se svaka zgrada ili stan, koji se koriste sezonski ili povremeno.
+Kućom za odmor, u smislu ovoga Zakona, ne smatraju se gospodarske zgrade koje služe za smještaj poljodjelskih strojeva, alata i slično.

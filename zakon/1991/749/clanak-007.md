@@ -1,2 +1,2 @@
 # Članak 7.
-Pravne ili fizičke osobe koje pružaju usluge smještaja odnosno korištenja veza u luci nautičkog turizma naplaćuju boravišnu pristojbu istovremeno s naplatom usluge noćenja, odnosno korištenja veza. U računu za uslugu noćenja, odnosno korištenja veza, posebno se označuje iznos naplaćene boravišne pristojbe, a u slučaju iz članka 2. ili 3. ovoga zakona, navodi se osnova oslobađanja od plaćanja boravišne pristojbe.
+Osobe iz članka 3. točke 1., 2., 3., 4., 6., 7., 8. i 9. ovoga Zakona dokazuju pravo na oslobađanje od plaćanja boravišne pristojbe, a osobe iz članka 4. i 5. dokazuju pravo na plaćanje umanjenog iznosa boravišne pristojbe potvrdama odgovarajućih ustanova, liječničkim svjedodžbama i sličnim ispravama te iskaznicom udruženja građana.

@@ -1,2 +1,4 @@
 # Članak 6.
-Boravišna pristojba je prihod turističkih zajednica. Hrvatskoj turističkoj zajednici pripada 15% prikupljenih sredstava boravišne pristojbe. Turističkoj zajednici općine pripada 20% prikupljenih sredstava boravišne pristojbe, a ako u općini nema turističkih zajednica mjesta, pripada joj 85% sredstava. Turističkoj zajednici mjesta pripada 65% prikupljenih sredstava boravišne pristojbe. U općinama na čijem području nema turističkih zajednica općina turističkim zajednicama mjesta pripada 85% prikupljenih sredstava boravišne pristojbe. Prihodi boravišne pristojbe koriste se za poboljšanje uvjeta boravka turista i promicanje turizma, za redovitu djelatnost, odnosno funkcioniranje turističke zajednice. Visina sredstava za navedene namjene odreduje se Statutom turističke zaj- ednice.
+Boravišna pristojba plaća se po svakom ostvarenom noćenju, ako ovim Zakonom nije drukčije određeno.
+Boravišnu pristojbu pod jednakim uvjetima plaćaju i strani državljani.
+Na strane državljane ne primjenjuju se odredbe članka 5. i 12. ovoga Zakona.

@@ -1,3 +1,4 @@
-## o boravišnoj pristojbi
+## O BORAVIŠNOJ PRlSTOJBI
 # Članak 1.
-Građani koji izvan svoga prebivališta koriste usluge noćenja u smještajnom objektu registriranom za primanje gostiju na noćenje, plaćaju boravišnu pristojbu. Obvezi plaćanja boravišne pristojbe podliježu pod jednakim uvjetima i strani državljani. Smještajnim objektima, u smislu ovoga zakona smatraju se: hoteli, moteli, pansioni, prenoćišta, gostionice, turistička naselja, lječilišta, planinarski domovi, odmarališta, objekti za ljetovanje i rekreaciju mladeži, kampovi, sobe i obiteljski apartmani koje građani izdaju turistinia i putnicima, vezovi u lukama nautičkog turizma i svi drugi objekti u kojima se turistima i putnicima pružaju usluge smještaja.
+Građanin koji u turističkom mjestu izvan svog prebivališta koristi uslugu nočenja u smještajnom objektu u kojem se obavlja ugostiteljska ili turistička djelatnost (u daljnjerr tekstu: smještajni objekt) plaća boravišnu pristojbu.
+Smještajnim objektom u smislu ovoga Zakona razumijeva se: hotel, pansion motel, turistički apartman, odmaralište, odmaralište za djecu i mladež kamp kuća i stan za odmor, soba za iznajmljivanje, lječilište, planinarski dom prenoćište, vez u luci nautičkog turizma (sidrištu, privezištu, turističkoj luci, marini i nautičkom centru) i svi drug objekti u kojima se građanima pružaju usluge noćenja.
