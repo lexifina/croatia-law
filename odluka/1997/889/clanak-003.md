@@ -1,0 +1,2 @@
+# Članak 3.
+Stupanjem na snagu ove Odluke prestaje vrijediti Odluka o utvrđivanju Liste lijekova koji se osiguranim osobama mogu propisivati u bolnicama na teret Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" br. 31/95) i Odluka o Listi lijekova koji se mogu propisivati osiguranim osobama na teret Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" br. 51/93, 94/93, 96/94 i 31/95).
