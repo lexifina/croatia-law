@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka (2), članka 13. stavak (2), članak 17. stavka (2) i članka 23. stavka (4) Zakona o normizaciji (»Narodne novine«, broj 55/96), ravnatelj Državnog zavoda za normizaciju i mjeriteljstvo donosi

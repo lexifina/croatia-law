@@ -1,0 +1,4 @@
+# Članak 1.
+U Naredbi o obaveznom atestiranju cementa (»Službeni list SFRJ«, broj 34/1985, 67/1986) točka 18. mijenja se i glasi:
+»18. Proizvod za koji je izdana potvrda o sukladnosti dobavljač mora označiti potvrdbenim znakom prema Pravilniku o izgledu i upotrebi potvrdbenog (certifikacijskog) znaka (»Narodne novine«, broj 88/98, 165/98 i 8/99).
+Ako je potvrdbeni znak otiskan na vrećama, visina B znaka iznosi 125 mm, a ako se nanosi naljepnicom ili žigom na vreće - može iznositi 50 mm. Za cement koji se isporučuje u rasutom stanju potvrdbenim se znakom označavaju popratni dokumenti pri čemu visina B znaka može iznositi 20 mm. Osim potvrdbenog znaka uvozni cement na svakoj vreći odnosno na svakom popratnom dokumentu mora sadržati podatke o vrsti, klasi i masi prema hrvatskim normama iz točke 3. ove naredbe.«
