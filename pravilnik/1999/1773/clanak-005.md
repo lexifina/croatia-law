@@ -1,0 +1,2 @@
+# Članak 5.
+Nekretninu, koja je činila dio imovine oduzetog poduzeća, a nije procijenjena kao dio društvenog kapitala u postupku pretvorbe društvenih poduzeća, sukladno Zakonu o pretvorbi društvenih poduzeća (»Narodne novine« br. 19/91, 83/92, 84/92, 94/93, 2/94, 9/95 i 21/96, dalje: Zakon o pretvorbi), Hrvatski fond za privatizaciju procijenit će, sukladno Uputama za provedbu članka 11. Zakona o pretvorbi društvenih poduzeća, ovom Pravilniku, te drugim mjerilima iz članka 63. Zakona o naknadi.

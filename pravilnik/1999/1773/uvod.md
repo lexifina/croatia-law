@@ -1,0 +1,1 @@
+Na temelju članka 63. stavak 4. Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine« br. 92/96 i 33/99, dalje: Zakon o naknadi) predsjednik Hrvatskog fonda za privatizaciju donosi
