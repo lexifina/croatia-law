@@ -1,0 +1,1 @@
+Na temelju članka 27. stavak 1. točka 3. i 4. i članka 32. Carinskog zakona (»Narodne novine«, br. 53A/91, 33/92, 106/93, 92/94 i 30/99), i točke IV. Odluke o predmetima koji se uvoze, unose ili primaju u carinsko područje Republike Hrvatske, a ne smatraju se carinskom robom (»Narodne novine«, br. 142/97), ministar financija donosi
