@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu korištenja sredstava naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta (»Narodne novine« br. 22/01) u članku 2. dodaje se stavak 2. koji glasi: »Iznimno, pravo korištenja sredstava naknade za nabavu tifona imaju korisnici poljoprivrednog zemljišta koji se bave poljoprivrednom proizvodnjom, a zemljište imaju u zakupu na rok od najmanje 7 godina od dana zaprimanja zahtjeva za kredit.«
