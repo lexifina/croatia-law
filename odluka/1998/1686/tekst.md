@@ -1,0 +1,36 @@
+I.
+Na temelju prijave u skladu s člankom 65. Zakona o morskim lukama ("Narodne novine", broj 108/95) i mišljenja Stručnog tijela za ocjenu koncesija osnovanog sukladno članku 63. stavku 2. Pomorskog zakonika, prihvaća se prijava postojećeg korisnika luke posebne namjene, Adriatic Croatia International Club d.d. Split (u daljnjem tekstu: Ovlaštenik), te se daje ovlaštenje za daljnje gospodarsko korištenje luke posebne namjene - luke nautičkog turizma Split.
+Prijavi korištenja luke posebne namjene sukladno članku 11. Uredbe o postupku dodjele koncesije i načinu određivanja granice za luke posebne namjene ("Narodne novine", broj 108/96) priložena je propisana dokumentacija koja čini sastavni dio ove Odluke kao Prilog 1., a ne objavljuje se u "Narodnim novinama".
+Pomorsko dobro koje je predmet ove Odluke u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Split, obuhvaća:
+Kopnena granica započinje od morske obale - granice katastarskih parcela 13936/1 i 14114/1 - točke br. 1 i ide zapadnom granicom parcele 14114/1 na jug oko 12.80 m do točke br. 2; dalje granicom iste parcele na jugoistok oko 47.50 m do točke br. 3; odatle u smjeru juga zapadnom granicom parcele 14114/1 oko 60.05 m do loma - točka br. 4 i dalje na jug oko 74.40 m do točke br. 5; od točke br. 1 do točke br. 5 posjed ACY-a je ograđen željeznom ogradom; od točke br. 5 na jug oko 4.00 m zapadnom granicom 14114/1 (željezna vrata) do točke br. 6 - tromeđa parcela 14114/1, 19396/1 i 13936/2; odatle sjevernom granicom parcele 14141 - rubom podzide oko 1.65 m do loma - točka br. 7 i dalje na zapad oko 8.90 m do točke br. 8 tj. željeznih pomičnih vrata; od točke br. 8 na jug oko 15.15 m zapadnim granicama parcela 9514/17, 9513/2 i 14114/1 do zida - točka br. 9; južnom stranom zida od točke br. 10 na zapad oko 4.20 m sjevernom granicom parcela 14114/1 i 13956/3 do sjeveroistočnog kuta kućice sistema toplovoda odnosno točke br. 11; dalje na zapad sjevernom granicom parcele 13956/3 oko 3.40 m do sjeverozapadnog kuta kućice - točke broj 12 i dalje na zapad oko 1.40 m do točke br. 13; od točke br. 13 oko 0.80 m na jug zapadnom granicom parcele 13956/3 do točke br. 14 i dalje na jug zidom oko 3.45 m do kuta zida - točka br. 15; od točke br. 15 južnom stranom zida na istok oko 4.10 m do kraja zida, odnosno korita kanala sistema toplovoda, tj. do točke br. 16; od točke br. 16 na jug oko 5.70 m zapadnom granicom parcele 13956/3 do morske obale na granici parcela 13956/3 i 13956/1 - točka br. 17; od točke br. 17 morskom obalom na istok do početne točke br. 1.
+Opisano područje obuhvaća sljedeće parcele:
+Opisano područje obuhvaća sljedeće parcele: katastarski broj sudski broj površina 14114/1 10397/1 14923 14115 10403/11 180 14116 10404/11 150 14117 10405/11 140 14141 10428/11 7 13936/2 10357/2 13 9514/17 10354/9 13 9513/2 8260/11 84 13956/3 8260/13 195 _________________________________________________ Ukupna površina 15705 m2 Koordinate lomnih točaka kopnene granice: Y X 1 73361.0 18749.0 2 73368.7 18738.15 3 73413.2 18722.05 4 73411.9 18662.2 5 73400.71 18588.52 6 73399.93 18584.65 7 73398.55 18585.48 8 73389.85 18583.69 9 73394.89 18569.32 10 73395.04 18568.90 11 73391.21 18567.42 12 73387.95 18566.28 13 73386.49 18565.84 14 73386.68 18565.07 15 73387.52 18561.71 16 73391.48 18562.77 17 73391.16 18557.24
+Morska granica:
+Granica počinje od morske obale - granice katastarskih parcela 13936/1 i 14114/1 - točke br. 1 kopnene granice - i ide prema sjeveroistoku oko 210 m do zapadnog kuta Glave unutarnjeg lukobrana (lučko svjetlo CY) - točka br. 18; Glavom lukobrana na sjeveroistok oko 7 m do sjevernog kuta Glave unutarnjeg lukobrana - točka br. 19 - a odatle na jugoistok oko 200 m do sjeverne točke Glave lukobrana (lučko svjetlo Sustipan) - točka br. 20; od točke 20 na zapad obalom do početne točke br. 1.
+Opisana površina mora iznosi 39667 m2.
+Koordinate lomnih točaka morske granice:
+Y X 1 73361.0 18749.0 18 73497.7 18909.4 19 73503.8 18913.6 20 73656.7 18784.8
+Pomorsko dobro lučko područje iz prethodnog stavka ucrtano je na kopiji katastarskog plana k.o. Split Detaljni list 74 u mjerilu 1:1000 koji čini sastavni dio ove Odluke kao Prilog 2., a ne objavljuje se u "Narodnim novinama".
+II.
+Koncesija se daje u svrhu gospodarskog korištenja postojeće luke posebne namjene - luke nautičkog turizma.
+Ovlaštenik se obvezuje da pomorsko dobro koje ovom Odlukom dobija na gospodarsko korištenje koristi isključivo za svoje posebne potrebe, odnosno da koristi zemljište - pomorsko dobro i sve objekte podgradnje i nadgradnje navedene u popisu objekata podgradnje i nadgradnje koji čini sastavni dio ove Odluke kao Prilog 3., a ne objavljuje se u "Narodnim novinama", za obavljanje djelatnosti za koje je registriran.
+Ovlaštenik ne može bez izričitog odobrenja davatelja koncesije prenositi na drugog bilo koje pravo koje stječe koncesijom.
+III.
+Ovlaštenik je dužan gospodarski koristiti luku u skladu sa hrvatskim zakonima i podzakonskim aktima, te je dužan za svaku eventualnu gradnju ili rekonstrukciju na lučkom području u redovnoj proceduri ishoditi suglasnost davatelja koncesije te lokacijsku, i građevinsku dozvolu.
+IV.
+Davatelj koncesije daje na korištenje pomorsko dobro navedeno u točki I. ove Odluke Ovlašteniku na vremensko razdoblje od 32 godine računajući od dana potpisa Ugovora o koncesiji.
+V.
+Za korištenje pomorskog dobra navedenog u točki I. ove Odluke Ovlaštenik se obvezuje da će uredno plaćati davatelju koncesije godišnju naknadu.
+Godišnja naknada koju Ovlaštenik plaća za korištenje pomorskog dobra sastoji se iz dva dijela:
+a) stalni dio u iznosu od 0,70 kuna po m2 zauzete površine godišnje,
+b) promjenjivi dio naknade u iznosu od 2,5% od prihoda luke godišnje.
+Navedena naknada plaća se na sljedeći način:
+- stalni dio naknade plaća se od trenutka zaključivanja Ugovora o koncesiji, u roku od 45 dana. Za sljedeće godine naknada se plaća uvijek za tekuću godinu unaprijed do 1. ožujka. Za godinu u kojoj je dana koncesija i za godinu u kojoj koncesija ističe, razmjerno preostalim mjesecima korištenja;
+- promjenjivi dio naknade plaća se u dva obroka i to prema prihodu u prvih šest mjeseci do 1. rujna, a za ostvareni prihod drugih šest mjeseci do 1. ožujka u narednoj godini.
+VI.
+Na temelju ove Odluke ovlašćuje se ministar pomorstva, prometa i veza da sklopi Ugovor o koncesiji pomorskog dobra iz točke I. ove Odluke, kojim će se detaljno urediti ovlaštenja Davatelja koncesije, te prava i obveze Ovlaštenika, posebice u odnosu na zaštitu okoliša, održavanje i osiguranje luke.
+VII.
+Obvezuje se koncesionar da sukladno članku 6. i članku 7. stavak 1. Pravilnika o evidenciji i obilježavanju pojasa pomorskog dobra dostavi Povjerenstvu za granice nadležne županije u roku od 4 mjeseca, od dana donošenja ove Odluke, izrađeni geodetski elaborat radi razgraničenja pomorskog dobra i/ili dovođenja u sklad katastra zemljišta i/ili zemljišnih knjiga sa stvarnim stanjem na terenu, te provedbe članka 1038. Pomorskog zakonika.
+Ako Ovlaštenik u roku 30 dana od dana donošenja ove Odluke ne potpiše Ugovor o koncesiji pomorskog dobra, gubi sva prava određena ovom Odlukom.
+VIII.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u "Narodnim novinama".
