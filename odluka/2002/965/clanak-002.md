@@ -1,0 +1,2 @@
+# Članak 2.
+Hrvatski zavod za zdravstveno osiguranje (u daljnjem tekstu: Zavod) u okviru dopunskog zdravstvenog osiguranja osiguranicima osigurava u cijelosti plaćanje razlike do pune vrijednosti prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja propisanih člankom 17. stavkom 2. točkama 2. - 6. Zakona o zdravstvenom osiguranju (u daljnjem tekstu: Zakon) i točkom I. Odluke o opsegu prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja, osnovom police koja nosi oznaku PC01.
