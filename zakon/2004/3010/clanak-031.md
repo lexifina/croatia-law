@@ -1,0 +1,10 @@
+## Najniža mirovina
+# Članak 31.
+(1) Korisniku invalidske ili obiteljske mirovine koji je dijelom ili u cijelosti ostvario mirovinu prema odredbama ovoga Zakona, a mirovina je manja od najniže mirovine odredit će se najniža mirovina prema stavku 4. ovoga članka.
+(2) Korisniku starosne ili invalidske mirovine, hrvatskom branitelju iz Domovinskog rata kao i korisniku obiteljske mirovine iza smrti hrvatskog branitelja iz Domovinskog rata koji je ostvario mirovinu prema općem propisu, a mirovina je manja od najniže mirovine odredit će se najniža mirovina prema stavku 4. ovoga članka.
+(3) Hrvatskom branitelju iz Domovinskog rata koji je navršio 65 godina starosti (muškarac), odnosno 60 godina starosti (žena), a ne ispunjava uvjete mirovinskog staža za stjecanje prava na starosnu mirovinu prema Zakonu o mirovinskom osiguranju, izuzetno od odredbi stavka 1. i 2. ovoga članka, pripada pravo na mirovinu u visini najniže mirovine određene prema odredbi stavka 4. ovoga članka.
+(4) Najniža mirovina određuje se od osnovice koja iznosi 45% prosječne neto plaće svih zaposlenih u Republici Hrvatskoj, u godini koja prethodi godini ostvarivanja prava, a prema podacima Državnog zavoda za statistiku.
+(5) Najniža mirovina određena prema stavku 1. ovoga članka korisnika invalidske mirovine zbog profesionalne nesposobnosti priznate prema članku 15. ovoga Zakona određuje se uz primjenu mirovinskog faktora iz članka 80. Zakona o mirovinskom osiguranju.
+(6) Najniža mirovina određena prema stavku 2. ovoga članka određuje se uz primjenu polaznog faktora iz članka 78. i mirovinskog faktora iz članka 80. Zakona o mirovinskom osiguranju.
+(7) Najniža mirovina prema stavku 1. i 2. ovoga članka kao i mirovina priznata prema stavku 3. ovoga članka usklađuje se početkom svake kalendarske godine s promjenom prosječne neto plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini.
+(8) Najniža mirovina određena prema stavku 1. i 2. ovoga članka kao i mirovina priznata prema stavku 3. ovoga članka ne pripada korisniku mirovine za vrijeme zaposlenja ili obavljanja samostalne djelatnosti.

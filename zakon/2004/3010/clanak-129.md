@@ -1,0 +1,6 @@
+# Članak 129.
+(1) Rješenje donijeto u prvom stupnju kojim se utvrđuje status člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu, pravo na povećanu obiteljsku invalidninu, pravo na uvećanu obiteljsku invalidninu, status člana obitelji nestaloga ili zatočenoga hrvatskog branitelja iz Domovinskog rata i novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine, status HRVI iz Domovinskog rata i pravo na osobnu invalidninu, doplatak za njegu i pomoć druge osobe, ortopedski doplatak, posebni doplatak, opskrbninu, doplatak za pripomoć u kući i rješenje kojim se dodjeljuje osobni automobil HRVI iz Domovinskog rata I. skupine podliježe reviziji.
+(2) Reviziju obavlja po službenoj dužnosti Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti kao drugostupanjsko tijelo.
+(3) Ako je protiv rješenja prvostupanjskog tijela izjavljena žalba, o reviziji i žalbi rješava se istim rješenjem.
+(4) Ako protiv rješenja iz stavka 1. ovoga članka nije izjavljena žalba, tijelo koje je donijelo rješenje u prvostupanjskom postupku dostavit će ga zajedno sa spisima predmeta tijelu nadležnom za reviziju u roku osam dana od isteka roka za žalbu.
+(5) Revizija odgađa izvršenje rješenja.

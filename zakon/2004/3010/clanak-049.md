@@ -1,0 +1,2 @@
+# Članak 49.
+Vlada Republike Hrvatske uredbom će prenijeti pravo upravljanja stanovima i kućama u vlasništvu Republike Hrvatske, a na upravljanju - Ministarstva unutarnjih poslova, Ministarstva obrane Republike Hrvatske, Ministarstva pravosuđa, Agencije za pravni promet i posredovanje nekretninama, Ureda za državnu imovinu Republike Hrvatske, a na koje se ne odnose odredbe Zakona o prodaji stanova na kojima postoji stanarsko pravo, te ih koriste osobe iz ovoga Zakona, na Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti.

@@ -1,0 +1,2 @@
+# Članak 126.
+Oštećenje organizma, pravo na doplatak za njegu i pomoć druge osobe, pravo na ortopedski doplatak, pravo za pripomoć u kući, nesposobnost za privređivanje, činjenica je li smrt ili samoubojstvo hrvatskog branitelja iz Domovinskog rata u uzročno posljedičnoj vezi s izravnim sudjelovanjem hrvatskog branitelja u obrani suvereniteta Republike Hrvatske utvrđuju se na temelju nalaza i mišljenja liječničkog povjerenstva.

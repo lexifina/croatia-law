@@ -1,0 +1,4 @@
+# Članak 41.
+(1) Sredstva za stambeno zbrinjavanje osoba koje ostvaruju prava na dodjelu stambenog kredita osigurat će se u državnom proračunu i proračunima jedinica lokalne samouprave ili u vrijednosti kuća i stanova u vlasništvu Republike Hrvatske.
+(2) Sredstva ostvarena otplatom kredita i obročnom prodajom kuća i stanova uplaćivat će se na račun Ministarstva obitelji, branitelja i međugeneracijske solidarnosti do završetka provođenja programa stambenog zbrinjavanja prema ovom Zakonu.
+(3) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti dužno je voditi cjelokupnu evidenciju prodanih stanova i drugih nekretnina, pratiti obročnu otplatu i naplatu dodijeljenih stambenih kredita, voditi evidenciju o naplati, uplaćenim sredstvima te prispjelim financijskim i drugim obvezama u vezi sa stambenim zbrinjavanjem prema ovom Zakonu ili je dio tih poslova dužno povjeriti poslovnoj banci na temelju Ugovora o poslovnoj suradnji.

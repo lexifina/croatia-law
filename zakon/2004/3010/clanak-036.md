@@ -1,0 +1,14 @@
+## 5. PRAVO NA STAMBENO ZBRINJAVANJE
+# Članak 36.
+(1) Pravo na stambeno zbrinjavanje, prednost pri stambenom zbrinjavanju te mogućnost kupnje stanova uz obročnu otplatu pod pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate, imaju osobe utvrđene ovim Zakonom ako nemaju riješeno stambeno pitanje ili je riješeno na neodgovarajući način, odnosno ako 10 godina neprekidno prebivaju u obiteljskoj kući ili stanu u državnom vlasništvu ili vlasništvu jedinica lokalne samouprave.
+(2) Pravo na stambeno zbrinjavanje ostvaruje se dodjelom stambenog kredita za kupnju stana ili kuće, odnosno izgradnju kuće ili stana, za razliku u površini, za nadogradnju, nastavak izgradnje i dovršenje obiteljske kuće, za poboljšanje uvjeta stanovanja, te mogućnošću kupnje stanova uz obročnu otplatu po pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate.
+(3) Pravo na stambeno zbrinjavanje dodjelom stambenog kredita, odnosno mogućnost kupnje stana uz obročnu otplatu po pristupačnijim uvjetima od tržišnih u pogledu kamata i rokova otplate imaju:
+1. članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata,
+2. članovi obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata,
+3. HRVI iz Domovinskog rata od I. do X. skupine.
+(4) HRVI iz Domovinskog rata 100% I. skupine koji se kreću isključivo u invalidskim kolicima stambeno se zbrinjavaju po posebnom Programu Vlade Republike Hrvatske izgradnjom kuće s posebnom prilagodbom.
+(5) Prednost pri ostvarivanju prava na stambeno zbrinjavanje između članova obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata utvrđuje se prema propisima o nasljeđivanju, na način da članovi obitelji istoga nasljednog reda ostvaruju pravo prema međusobnom sporazumu, s time da to pravo može ostvariti samo jedan član obitelji. Ako se sporazum ne postigne pravo na stambeno zbrinjavanje ima član obitelji koji je imao zajedničko prebivalište sa smrtno stradalim u vrijeme stradavanja.
+(6) Iznimno od odredbe stavka 5. ovoga članka ako je u pitanju roditelj smrtno stradaloga hrvatskog branitelja iz Domovinskog rata koji nije stambeno zbrinut može mu se dati stan u najam s pravom na zaštićenu najamninu do njegove smrti, ali bez prava otkupa.
+(7) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ostvaruju pravo na stambeno zbrinjavanje prema ovom Zakonu ako su u trenutku podnošenja zahtjeva bili mlađi od 15 godina, odnosno ne stariji od 26 godina i ako su na redovitom školovanju.
+(8) Pravo na stambeno zbrinjavanje imaju i članovi uže obitelji u slučaju smrti HRVI iz Domovinskog rata, ako su imali zajedničko prebivalište s umrlim u trenutku njegove smrti, s time da to pravo ostvaruju zajedno.
+(9) Pravo na stambeno zbrinjavanje korisnici prava ostvaruju na temelju pravomoćnog rješenja o trajno utvrđenom statusu.

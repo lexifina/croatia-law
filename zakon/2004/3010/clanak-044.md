@@ -1,0 +1,2 @@
+# Članak 44.
+Iznos kredita korisne stambene površine kuće ili stana za kupnju stana ili kuće, izgradnju kuće i razliku površine, nadogradnju, odnosno nastavak izgradnje te poboljšanje stambenih uvjeta kao i vrijednost kredita po m2 neto korisne stambene površine kuće ili stana za osobe iz članka 36. stavka 3. ovoga Zakona regulirat će se uredbom Vlade Republike Hrvatske iz članka 47. ovoga Zakona.

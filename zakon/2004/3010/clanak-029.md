@@ -1,0 +1,6 @@
+# Članak 29.
+(1) Udovica, odnosno majka hrvatskog branitelja iz Domovinskog rata stječe pravo na obiteljsku mirovinu ako je uzrok smrti u svezi s obranom suvereniteta Republike Hrvatske kada navrši 40 godina života. Udovac, odnosno otac hrvatskog branitelja iz Domovinskog rata isto pravo stječe kad navrši 50 godina života.
+(2) Osobe iz stavka 1. ovoga članka pravo na mirovinu stječu bez obzira na godine života, ako kod njih nastane opća nesposobnost za rad prije ispunjenja uvjeta iz stavka 1. ovoga članka.
+(3) Djeca, posvojenici i pastorčad smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ostvaruju pravo na obiteljsku mirovinu i nakon završetka ili prekida redovitog školovanja ako su nezaposlena, a najduže 12 mjeseci nakon završetka ili prekida redovnog školovanja.
+(4) Odredbe ovoga članka primjenjuju se i na maćehu, očuha i posvojitelja hrvatskog branitelja iz Domovinskog rata.
+(5) Osobama iz stavka 1., 3. i 4. ovoga članka obiteljska mirovina određuje se primjenom osobnog boda korisnika obiteljske mirovine priznate članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata prema ranijim zakonima, uz primjenu mirovinskog faktora iz članka 28. ovoga Zakona.

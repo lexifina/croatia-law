@@ -1,0 +1,4 @@
+# Članak 134.
+(1) Ako nakon donošenja konačnog rješenja o pravima iz ovoga Zakona kod HRVI iz Domovinskog rata nastupe promjene koje su od utjecaja na postotak oštećenja organizma utvrđenog konačnim rješenjem, HRVI iz Domovinskog rata može, nakon isteka dviju godina od dana donošenja konačnog rješenja, podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma.
+(2) Propisom iz članka 108. stavka 1. točke 5. ovoga Zakona kojim se uređuje utvrđivanje postotka oštećenja organizma utvrdit će se oštećenja na osnovi kojih se može podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma i prije isteka roka od dvije godine.
+(3) Odredbe stavka 1. ovoga članka primjenjuju se i na osobu kojoj nije priznat status HRVI iz Domovinskog rata zbog neudovoljavanja uvjeta propisanih ovim Zakonom za stjecanje tog statusa u pogledu postotka oštećenja organizma.

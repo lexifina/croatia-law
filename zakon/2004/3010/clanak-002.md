@@ -1,0 +1,8 @@
+# Članak 2.
+(1) Hrvatski branitelj iz Domovinskog rata je osoba koja je kao dragovoljac i pripadnik Oružanih snaga Republike Hrvatske (ZNG, Hrvatske vojske, Ministarstva obrane, Policije, Ministarstva unutarnjih poslova, Hrvatskih obrambenih snaga (HOS-a) te pripadnik naoružanih odreda Narodne zaštite koji je u njima proveo najmanje 5 mjeseci do 24. prosinca 1991. godine), organizirano sudjelovala u obrani neovisnosti, teritorijalne cjelovitosti, odnosno suvereniteta Republike Hrvatske u bilo kojem razdoblju Domovinskog rata (u daljnjem tekstu: hrvatski branitelj iz Domovinskog rata).
+(2) Pod sudjelovanjem u obrani neovisnosti, teritorijalne cjelovitosti, suvereniteta Republike Hrvatske, odnosno vrijeme neposredne ugroženosti suvereniteta Republike Hrvatske (u daljnjem tekstu: obrana suvereniteta Republike Hrvatske), u smislu stavka 1. ovoga članka, podrazumijeva se oružani otpor agresoru i djelovanje u izravnoj svezi s tim otporom (odlazak u postrojbu, na borbeni položaj i povratak te obuka i priprema za odlazak na bojište) u vremenu od 5. kolovoza 1990. do 30. lipnja 1996.
+(3) Dragovoljac iz Domovinskog rata je hrvatski branitelj iz Domovinskog rata koji je sudjelovao u obrani njezina suvereniteta najmanje 100 dana u razdoblju od 5. kolovoza 1990. do 15. siječnja 1992.
+(4) Dragovoljac iz Domovinskog rata je i hrvatski branitelj iz Domovinskog rata koji je sudjelovao u obrani njezina suvereniteta najmanje 30 dana u razdoblju od 5. kolovoza 1990. do 15. siječnja 1992. ukoliko:
+- nije imao obvezu sudjelovanja u pričuvnom sastavu ili
+- nije regulirao obvezu služenja vojnog roka.
+(5) Status hrvatskog branitelja iz Domovinskog rata iz stavka 1. ovoga članka dokazuje se potvrdom Ministarstva obrane, odnosno Ministarstva unutarnjih poslova.

@@ -1,0 +1,4 @@
+## PRAVO NA BESPLATNE UDŽBENIKE
+# Članak 57.
+(1) Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i njihova djeca i hrvatski branitelji iz Domovinskog rata imaju pravo na besplatne obvezatne udžbenike za potrebe redovitoga ili izvanrednog školovanja u osnovnim i srednjim školama, te na visokim učilištima ili veleučilištima pod uvjetom da to pravo ne mogu ostvariti po drugim propisima i ako im redoviti prihodi mjesečno po članu kućanstva ne prelaze dvostruki iznos cenzusa redovitih novčanih prihoda iz članka 88. stavka 1. točke 5. ovoga Zakona.
+(2) Iznos sredstava potrebnih za kupnju udžbenika iz stavka 1. ovoga članka osigurava Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti, a ministar pravilnikom utvrđuje način i postupak dodjele.

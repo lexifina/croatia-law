@@ -1,0 +1,7 @@
+# Članak 6.
+(1) Članovima obitelji smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja iz Domovinskog rata, prema ovom Zakonu, smatraju se bračni drug, djeca rođena u braku ili izvan braka, posvojena djeca i pastorčad (članovi uže obitelji), roditelji, očuh, maćeha i posvojitelj.
+(2) Članom uže obitelji smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja prema ovome Zakonu smatra se i izvanbračni drug koji je s hrvatskim braniteljem iz Domovinskog rata do njegove smrti, zatočenja ili nestanka živio u zajedničkom kućanstvu najmanje tri godine.
+(3) Status izvanbračne zajednice iz stavka 2. ovoga članka utvrđuje se u izvanparničnome sudskom postupku.
+(4) Prednost u ostvarivanju prava između članova obitelji iz stavka 1. i 2. ovoga članka utvrđuje se prema propisima o nasljeđivanju. Članovi obitelji iz istoga nasljednog reda ostvaruju pravo prema međusobnom sporazumu. Ako se sporazum ne postigne, prednost u ostvarivanju prava ima član obitelji iz istoga nasljednog reda koji je s hrvatskim braniteljem iz Domovinskog rata živio u zajedničkom kućanstvu.
+(5) Očuh i maćeha ostvaruju prava prema ovom Zakonu ako su hrvatskog branitelja iz Domovinskog rata uzdržavali ili je hrvatski branitelj njih uzdržavao najmanje pet godina prije smrti.
+(6) Pastorak je osoba koja nema živoga jednog od roditelja ili su roditelju oduzeta roditeljska prava pravomoćnom presudom suda, a hrvatski branitelj iz Domovinskog rata ga je uzdržavao najmanje godinu dana prije smrtnog stradavanja, zatočenja ili nestanka.

@@ -1,0 +1,3 @@
+# Članak 48.
+(1) Članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata od I. do IV. skupine ostvaruju pravo na stambeno zbrinjavanje osim na način propisan člankom 36. stavkom 2. ovoga Zakona i dodjelom te otkupom stana.
+(2) Članovi obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata koji koriste stanove u vlasništvu Republike Hrvatske ostvaruju pravo na dodjelu i otkup tih stanova ako su isti izgrađeni u građevinama starijim od 15 godina, i ako nemaju zapreka za ostvarenje prava koje propisuje članak 37. ovoga Zakona.

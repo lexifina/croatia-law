@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Osobni bod za određivanje invalidske mirovine hrvatskom branitelju iz Domovinskog rata za invalidnost (opća ili profesionalna nesposobnost za rad) koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske dobiva se tako da se prosječan vrijednosni bod iz članka 16. ovoga Zakona pomnoži s polaznim faktorom i mirovinskim stažem od 40 godina.
+(2) Ova mirovina se određuje na temelju osobnih bodova iz stavka 1. ovoga članka povećanih za 45%.

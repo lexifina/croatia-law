@@ -1,0 +1,2 @@
+# Članak 154.
+Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih prava na naknadu plaće hrvatskih branitelja iz Domovinskog rata u iznosu razlike plaće između plaće koju prima kao zaposlenik i plaće koju bi primao kao pripadnik djelatnog sastava Oružanih snaga Republike Hrvatske, a koji su zaposleni na temelju preostale radne sposobnosti, na invalidsku mirovinu zbog profesionalne nesposobnosti za rad prema odredbama ovoga Zakona.

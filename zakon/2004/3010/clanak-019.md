@@ -1,0 +1,2 @@
+# Članak 19.
+Mirovinski faktor za invalidsku mirovinu zbog profesionalne nesposobnosti za rad koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske koja se isplaćuje hrvatskom branitelju iz Domovinskog rata za vrijeme zaposlenja ili obavljanja samostalne djelatnosti je 0,5.

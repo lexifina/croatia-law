@@ -1,0 +1,4 @@
+## PRAVO NA STIPENDIJU
+# Članak 54.
+(1) Hrvatski branitelji iz Domovinskog rata, djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, djeca zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i djeca HRVI iz Domovinskog rata, dragovoljac i djeca dragovoljca iz Domovinskog rata imaju pravo na stipendiju tijekom redovitoga srednjoškolskog obrazovanja, redovitoga dodiplomskog studija te pravo na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima jer im redoviti prihodi mjesečno po članu kućanstva ne prelaze dvostruki iznos cenzusa iz članka 88. stavka 1. točke 5. ovoga Zakona.
+(2) Uvjeti i mjerila za ostvarivanje prava iz stavka 1. ovoga članka propisuje ministar znanosti, obrazovanja i športa uz suglasnost ministra obitelji, branitelja i međugeneracijske solidarnosti.

@@ -1,0 +1,4 @@
+# Članak 124.
+(1) Zahtjev za priznavanje statusa i prava na obiteljsku invalidninu iza hrvatskog branitelja iz Domovinskog rata koji je zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske, umro može se podnijeti u roku 12 mjeseci od smrti te osobe.
+(2) Zahtjev za priznavanje statusa i prava na obiteljsku invalidninu iza hrvatskog branitelja iz Domovinskog rata koji je zbog bolesti, a bolest, pogoršanje bolesti, odnosno pojava bolesti neposredna je posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske, umro prije stupanja na snagu ovoga Zakona može se podnijeti u roku 12 mjeseci od stupanja na snagu ovoga Zakona.
+(3) Rokovi iz stavka 1. i 2. ovoga članka ne odnose se na podnošenje zahtjeva za obiteljsku invalidninu iza hrvatskog branitelja iz Domovinskog rata koji je izvršio samoubojstvo.

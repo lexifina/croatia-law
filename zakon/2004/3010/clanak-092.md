@@ -1,0 +1,4 @@
+# Članak 92.
+(1) Sukorisnicima opskrbnine koji žive u zajedničkom kućanstvu opskrbnina, određena po članku 91. stavku 4. ovoga Zakona, pripada na jednake dijelove.
+(2) Ako obiteljsku invalidninu koristi više osoba koje žive odvojeno (razvedeni roditelji, djeca rođena u braku i djeca rođena izvan braka i dr.), a prihodi im ne potječu iz zajedničkih izvora, opskrbnina pripada samo onim sukorisnicima koji ispunjavaju uvjete za stjecanje prava na opskrbninu.
+(3) Ako dva ili više sukorisnika obiteljske invalidnine iz stavka 2. ovoga članka ispunjavaju uvjete za stjecanje prava na opskrbninu, svakome od njih pripada iznos koji bi mu pripadao kao samostalnom korisniku, s time da zbroj tih iznosa ne može biti veći od osnovice za određivanje opskrbnine povećane po članku 91. stavku 4. ovoga Zakona. Ako je zbroj tih iznosa veći, opskrbnina pripada svakom od sukorisnika u omjeru s iznosima koji bi im pripadali kao samostalnim korisnicima.

@@ -1,0 +1,2 @@
+# Članak 100.
+Promjene u iznosu prihoda i broju članova kućanstva, o kojima ovisi pravo na opskrbninu i iznos opskrbnine, utječu na opskrbninu tako da se promjene koje uvjetuju gubitak ili smanjenje opskrbnine uzimaju u obzir od prvog dana sljedećeg mjeseca poslije nastanka, a promjene koje uvjetuju stjecanje ili povećanje opskrbnine uzimaju se u obzir od prvog dana sljedećeg mjeseca nakon podnošenja odgovarajućeg zahtjeva.

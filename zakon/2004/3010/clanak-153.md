@@ -1,0 +1,2 @@
+# Članak 153.
+Stupanjem na snagu ovoga Zakona izvršit će se prevođenje svih prava na naknadu plaće zbog nezaposlenosti hrvatskih branitelja iz Domovinskog rata, koji na temelju preostale radne sposobnosti primaju naknadu plaće zbog nezaposlenosti do zaposlenja na radnom mjestu koje odgovara njihovoj preostaloj radnoj sposobnosti na teret Hrvatskog zavoda za mirovinsko osiguranje, a prevest će se na invalidsku mirovinu zbog opće nesposobnosti prema odredbama ovoga Zakona.

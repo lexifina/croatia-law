@@ -1,0 +1,11 @@
+## CARINSKE I POREZNE OLAKŠICE
+# Članak 60.
+(1) HRVI iz Domovinskog rata s oštećenjem organizma od 100% I. skupine ima pravo na osobni automobil s ugrađenim odgovarajućim prilagodbama koji mu u vlasništvo dodjeljuje Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti svakih 7 godina.
+(2) Bračni drug, punoljetna djeca i roditelji smrtno stradalih, zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata imaju pravo na uvoz osobnog automobila bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost jednokratno, ako to pravo do sada nisu iskoristili.
+(3) HRVI iz Domovinskog rata od II. do IV. skupine čije utvrđeno oštećenje organizma ima za posljedicu oštećenje funkcije ekstremiteta ili oštećenje vida, ima pravo na uvoz osobnog automobila bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost u iznosu utvrđenog postotka oštećenja organizma svakih 5 godina.
+(4) Prava iz stavka 1., 2. i 3. ovoga članka međusobno se isključuju.
+(5) Pravo na povlastice iz stavka 2. ovoga članka ako su roditelji razvedeni, ima roditelj s kojim je smrtno stradali ili zatočeni ili nestali hrvatski branitelj iz Domovinskog rata živio u zajedničkom kućanstvu najmanje 5 godina prije smrtnog stradavanja, odnosno od dana utvrđivanja da je osoba zatočena ili nestala.
+(6) Ako korisnik povlastice iz stavka 2. i 3. ovoga članka osobni automobil proda, daruje ili u cijelosti otuđi u roku od dvije godine od nabave obvezan je platiti carinu, posebni porez i porez na dodanu vrijednost kojih je bio oslobođen pri uvozu.
+(7) Ako HRVI iz Domovinskog rata ili član obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata umre prije isteka roka od 2 godine od nabave automobila, zakonski nasljednici mogu prodati automobil koji su naslijedili bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost.
+(8) Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti obvezno je osigurati automobile iz stavka 1. ovoga članka u roku od 6 mjeseci od podnošenja zahtjeva.
+(9) Vlada Republike Hrvatske utvrdit će uredbom uvjete i postupak ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.

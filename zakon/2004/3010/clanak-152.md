@@ -1,0 +1,2 @@
+# Članak 152.
+Stupanjem na snagu ovoga Zakona izvršit će se prevođenje prava na obiteljsku mirovinu, novčanu naknadu u iznosu obiteljske mirovine i invalidsku mirovinu, a koja su ostvarena prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji i drugim propisima koji su bili na snazi do stupanja na snagu ovoga Zakona na odredbe ovoga Zakona, ako je to za njih povoljnije.
