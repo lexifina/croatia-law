@@ -1,0 +1,3 @@
+# Članak 18.
+UKIDANJE
+Bilo koja ugovorna stranka može u bilo koje doba dojaviti drugoj ugovornoj stranki svoju odluku o ukidanju ovog Sporazuma; takva obavijest će biti istovremeno dojavljena Međunarodnoj organizaciji civilnog zrakoplovstva. U takvom slučaju Sporazum će se ukinuti dvanaest (12) mjeseci nakon datuma primitka obavijesti od druge ugovorne stranke ukoliko se obavijest o ukidanju ne povuće dogovorom prije isteka tog perioda. U nedostatku potvrde primitka od strane druge ugovorne stranke, uzet će se da je dojava primljena četrnaest (14) dana nakon primitka iste od strane Međunarodne organizacije civilnog zrakoplovstva.
