@@ -1,0 +1,1 @@
+Na osnovi članka 27. stavak 1. točka 2., 3., 4. i 5. i članka 28. stavak 1. točka 12. 12a., 13 i 14 Carinskog zakona ("Narodne novine", broj 53a/91, 33/92 i 40/92) Vlada Republike Hrvatske na sjednici od 26. lipnja 1992. godine, donijela je
