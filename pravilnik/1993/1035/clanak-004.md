@@ -1,0 +1,3 @@
+## II. UVJETI ZA IZVOĐENJE POSEBNIH PROGRAMA UMJETNIČKOG ŠKOLOVANJA
+# Članak 4.
+Obvezni dio programa osnovnog glazbenog školovanja iz članka 1. stavka 1. ovoga pravilnika sadrži: temeljni predmet (glazbalo), solfeggio i skupno muziciranje. Izborni dio programa može biti: drugo glazbalo, teorija glazbe, muziciranje u ansamblu. Obvezni dio programa Funkcionalne muzičke pedagogije sadrži: temeljni predmet (glazbalo), solfeggio i teoriju glazbe, a izborni dio programa drugo glazbalo i skupno muziciranje. Obvezni dio programa plesnog školovanja iz članka 1. stavak 1. ovoga pravilnika sadrži: ritmiku i ples, odnosno balet, glazbenu kulturu i glasovir. Izborni dio programa može sadržavati druge predmete struke.
