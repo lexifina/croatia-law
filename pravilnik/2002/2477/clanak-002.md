@@ -1,0 +1,4 @@
+# Članak 2.
+Iza članka 2. dodaje se novi članak 2a., koji glasi:
+»Pravne osobe koje se bave proizvodnjom, uporabom ili zbrinjavanjem otrova skupine I i II te proizvodnjom otrova skupine III moraju imati zaposlenike sa završenim agronomskim, farmaceutsko-biokemijskim, medicinskim, prehrambeno-tehnološkim, prirodoslovno-matematičkim (kemijski smjer), šumarskim, tehnološkim, veterinarskim fakultetom ili završen studij za diplomiranog sanitarnog inženjera, a pod čijim se neposrednim nadzorom otrovi proizvode, skladište, rabe ili zbrinjavaju.
+Pravne i fizičke osobe koje rabe ili se bave maloprodajom otrova skupine III moraju imati zaposlenike koji imaju potrebna znanja o zaštiti otrova s kojima rade te koji su osposobljeni kod maloprodaje dati korisniku upute o bezopasnom rukovanju i primjeni otrova.«
