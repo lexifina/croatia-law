@@ -1,0 +1,50 @@
+IZMJENA I DOPUNA PLANA PRIHODA I RASHODA ZA 2002. GODINU IZMJENA I DOPUNA PLANA PRIHODA I RASHODA ZA 2002. GODINU HRVATSKOG ZAVODA ZA ZAPOŠLJAVANJE
+- u kunama -
+Plan
+Povećanje/
+Novi plan
+za 2002.
+smanjenje
+za 2002.
+1
+2
+3
+4
+PRIHODI
+1. Prihod iz Proračuna
+110.000.000
+0
+110.000.000
+1.1. Rashodi za zaposlene
+100.000.000
+359.000
+100.359.000
+1.2. Nabava nefinancijske imovine
+10.000.000
+-359.000
+9.641.000
+2. Ostali prihodi
+20.000.000
+0
+20.000.000
+UKUPNI PRIHODI
+130.000.000
+0
+130.000.000
+RASHODI
+1. Rashodi za zaposlene
+90.000.000
+-2.500.000
+87.500.000
+2. Materijalni rashodi
+26.000.000
+6.859.000
+32.859.000
+3. Nabava nefinancijske imovine
+14.000.000
+-4.359.000
+9.641.000
+UKUPNI RASHODI
+130.000.000
+0
+130.000.000
