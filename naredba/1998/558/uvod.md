@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 3. Zakona o pravima hrvatskih branitelja iz domovinskog rata i članova njihovih obitelji ("Narodne novine", 108/96), sukladno članku 5. i 14. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija ("Narodne novine", broj 131/97) ministar hrvatskih branitelja iz Domovinskog rata donosi
