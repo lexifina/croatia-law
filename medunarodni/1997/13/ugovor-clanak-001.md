@@ -1,0 +1,2 @@
+# Članak 1.
+Konvencija čije se odredbe mijenjaju ovim Protokolom je Međunarodna konvencija o osnivanju Međunarodnog fonda za naknadu štete zbog onečišćenja uljem, iz 1971. godine, u daljnjem tekstu "Konvencija o Fondu iz 1971. godine" Za države stranke Protokola, iz 1976. godine na Konvenciju o Fondu iz 1971. godine smatrat će se da ovaj Protokol uključuje Konvenciju o Fondu iz 1971. godine izmijenjenu tim Protokolom.

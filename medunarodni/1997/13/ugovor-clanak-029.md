@@ -1,0 +1,4 @@
+# Članak 29.
+Podatak o količini ulja koja podliježe doprinosu
+1. Prije nego što ovaj Protokol stupi na snagu za državu, pri polaganju instrumenata spomenutih u članku 28. stavku 5., a nakon toga svake godine na dan koji odredi glavni tajnik Organizacije, država će dostavljati glavnom tajniku Organizacije ime i adresu svake osobe koju je ta država zadužila da uplaćuje doprinos Fondu prema članku 10. Konvencije o Fondu iz 1971. godine izmijenjene ovim Protokolom, kao i podatke u svezi s odnosnim količinama ulja koje podliježu doprinosu, a koju je primila osoba na području te države tijekom protekle kalendarske godine.
+2. Tijekom prijelaznog perioda direktor će godišnje, u ime stranaka, glavnom tajniku Organizacije priopćiti podatke o primljenim količinama ulja koje podliježu doprinosu od osoba obveznih na uplaćivanje doprinosa Fondu prema članku 10. Konvencije o Fondu iz 1971. godine izmijenjene ovim Protokolom.

@@ -1,0 +1,9 @@
+# Članak 34.
+Otkazivanje
+1. Svaka stranka može otkazati ovaj Protokol u bilo koje vrijeme nakon što je on za nju stupio na snagu.
+2. Otkazivanje se obavlja polaganjem instrumenta kod glavnog tajnika Organizacije.
+3. Otkazivanje stupa na snagu 12 mjeseci nakon polaganja instrumenta kod glavnog tajnika Organizacije ili poslije proteka svakog duljeg razdoblja koje bi moglo biti naznačeno u instrumentu o otkazivanju.
+4. Otkazivanje Konvencije o odgovornosti, iz 1992. godine smatrat će se otkazivanjem ovoga Protokola. Takvo će otkazivanje imati učinak od dana otkazivanja Protokola, iz 1992. godine na Konvenciju o odgovornosti, iz 1969. godine u skladu s člankom 16. toga Protokola.
+5. Smatrat će se da je država ugovornica ovoga Protokola, koja nije otkazala Konvenciju o Fondu iz 1971. godine i Konvenciju o odgovornosti, iz 1969. godine kako je to traženo u članku 31., otkazala ovaj Protokol, pa će otkaz imati učinak 12 mjeseci nakon isteka šestomjesečnog roka naznačenog u spomenutom članku. Od dana kad je otkaz, predviđen po članku 31., proizveo učinak, svaka stranka ovoga Protokola koja položi instrument o potvrđivanju, prihvaćanju, odobrenju ili pristupanju Konvenciji o odgovornosti, iz 1969. godine smatrat će se da je otkazala ovaj Protokol s učinkom istoga dana kao i za taj instrument.
+6. Između stranaka ovoga Protokola, otkazivanje Konvencije o Fondu iz 1971. godine prema članku 41. te Konvencije od bilo koje stranke, neće se ni u kojem slučaju smatrati otkazom Konvencije o Fondu iz 1971. godine izmijenjene ovim Protokolom.
+7. Bez obzira na otkazivanje ovoga Protokola od strane neke stranke prema ovom članku, svaka odredba ovoga Protokola koja se odnosi na obvezu davanja doprinosa prema članku 10. Konvencije o Fondu iz 1971. godine izmijenjene ovim Protokolom, u svezi s nezgodom spomenutom u članku 12. stavku 2. točki (b) izmijenjene Konvencije, koja se dogodila prije nego što je otkaz imao učinak, i nadalje će se primjenjivati.
