@@ -1,0 +1,1 @@
+Na temelju članka 19j. Zakona o plovidbi unutarnjim vodama (»Narodne novine« broj 19/98 i 151/03), Upravno vijeće Agencije za plovne putove unutarnjih voda, na sjednici održanoj 17. prosinca 2004. donijelo je
