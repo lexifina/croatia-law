@@ -1,0 +1,1 @@
+Odluka o visini posebne takse koja se naplačuje pri izdavanju odobrenja za jednokratno organiziranje prigodne lutrije, tombole ili klađenja na sportskim priredbama i robno-novčane lutrije, koji se org
