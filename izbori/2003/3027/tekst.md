@@ -1,0 +1,123 @@
+Državno izborno povjerenstvo Republike Hrvatske sastavljeno od Ivice Crnića kao predsjednika i članova Alemke Brkljačić-Radančević, Andrije Erakovića, Miljenke Pajalić i Mladena Turkalja te članova proširenog sastava dr. Hrvoja Kraljevića, Miše Zorenića, Mirana Škerla, mr. sc. Milana Škugora, Ane Gregović i Bojane Pejkić, na temelju članka 81. stavka 2. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 69/03 - pročišćeni tekst), objavljuje službene rezultate izbora zastupnika u Hrvatski sabor provedenih dana 22. i 23. studenoga 2003. godine.
+IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA
+U IV. IZBORNOJ JEDINICI
+I. Od ukupno 328.076 birača, glasovalo je (prema listićima) 214.859 birača, odnosno 65,49 %.
+Važećih glasačkih listića utvrđeno je 209.670, odnosno 97,58 %.
+Nevažećih je bilo 5.189 glasačkih listića, odnosno 2,42 %.
+II. Pojedine liste dobile su sljedeći broj glasova:
+1. HRVATSKA DEMOKRATSKA
+ZAJEDNICA - HDZ 74.900 glasova 35,72 %
+2. SOCIJALDEMOKRATSKA
+PARTIJA HRVATSKE - SDP
+LIBERALNA STRANKA - LS
+LIBRA-STRANKA LIBERALNIH
+DEMOKRATA - LIBRA 38.508 glasova 18,37 %
+3. HRVATSKA STRANKA PRAVA
+- HSP 18.972 glasa 9,05 %
+4. HRVATSKA SELJAČKA STRANKA
+- HSS 17.820 glasova 8,50 %
+5. HRVATSKA NARODNA STRANKA
+- HNS
+SLAVONSKO-BARANJSKA
+HRVATSKA STRANKA - SBHS 13.561 glas 6,47 %
+6. HRVATSKA STRANKA
+UMIROVLJENIKA - HSU 11.895 glasova 5,67 %
+7. HRVATSKA SOCIJALNO
+LIBERALNA STRANKA - HSLS
+DEMOKRATSKI CENTAR - DC 9.477 glasova 4,52 %
+8. HRVATSKA DEMOKRATSKA
+SELJAČKA STRANKA - HDSS
+HRVATSKI DEMOKRATSKI
+CENTAR - HDC
+DEMOKRATSKA PRIGORSKO-
+ZAGREBAČKA STRANKA - DPS 2.939 glasova 1,40 %
+9. STRANKA HRVATSKE RAVNICE
+- SHR 2.430 glasova 1,16 %
+10.HRVATSKI DEMOKRŠĆANI -
+DEMOKRŠĆANI
+HRVATSKA KRŠĆANSKA
+DEMOKRATSKA STRANKA - HKDS
+HRVATSKA GRAĐANSKO-
+-SELJAČKA STRANKA - HGSS 1.846 glasova 0,88 %
+11.ZELENI HRVATSKE - ZELENI HR 1.778 glasova 0,85 %
+12.NEOVISNA LISTA - MATIJA ŠKULAC 1.729 glasova 0,82 %
+13.HRVATSKI BLOK - POKRET ZA
+MODERNU HRVATSKU -
+HRVATSKI BLOK
+HRVATSKI ISTINSKI PREPOROD
+- HIP 1.692 glasa 0,81 %
+14.NEOVISNA LISTA -
+FRANJO HOCENSKI 1.526 glasova 0,73 %
+15.HRVATSKA STRANKA PRAVA-1861
+- HSP-1861 1.447 glasova 0,69 %
+16.SOCIJALISTIČKA RADNIČKA
+PARTIJA HRVATSKE - SRP 1.078 glasova 0,51 %
+17.DEMOKRATSKA SOCIJALNA UNIJA
+- SNAGA NARODA - DSU - SN 1.020 glasova 0,49 %
+18.HRVATSKA PUČKA STRANKA - HPS 1.004 glasa 0,48 %
+19.HRVATSKA ČISTA STRANKA
+PRAVA - HČSP
+HRVATSKA KRŠĆANSKA
+DEMOKRATSKA UNIJA - HKDU 966 glasova 0,46 %
+20.BEBIĆ VLADIMIR
+- TREĆI HRVATSKI BLOK
+- BV -TREĆI BLOK 907 glasova 0,43 %
+21.ALIJANSA ZA PRAVNU DRŽAVU
+- ALIJANSA 657 glasova 0,31 %
+22.NEOVISNA LISTA -
+ĐULA RUŠINOVIĆ-SUNARA 612 glasova 0,29 %
+23.STRANKA HRVATSKIH
+BRANITELJA - SHB 603 glasa 0,29 %
+24.HRVATSKA RADNIČKA STRANKA
+- HRS 472 glasa 0,23 %
+25.HRVATSKA REPUBLIKANSKA
+ZAJEDNICA - HRZ 408 glasova 0,19 %
+26.POKRET ZA LJUDSKA PRAVA-
+STRANKA EKOLOŠKI SVJESNIH
+GRAĐANA - POL 370 glasova 0,18 %
+ISTARSKA NEZAVISNA STRANKA
+27.NEOVISNA LISTA -
+MIROSLAV LEVAKOVIĆ 368 glasova 0,18 %
+28.HRVATSKI NEZAVISNI
+DEMOKRATI - HND 362 glasa 0,17 %
+29.HRVATSKI PRAVAŠI - HP 169 glasova 0,08 %
+30.HRVATSKI REPUBLIKANCI - HR 154 glasa 0,07 %
+III. Na temelju članka 38. Zakona o izborima zastupnika u Hrvatski sabor, liste koje sudjeluju u diobi zastupničkih mjesta su:
+1. HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+2. SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+LIBERALNA STRANKA - LS
+LIBRA - STRANKA LIBERALNIH DEMOKRATA - LIBRA
+3. HRVATSKA STRANKA PRAVA - HSP
+4. HRVATSKA SELJAČKA STRANKA - HSS
+5. HRVATSKA NARODNA STRANKA - HNS SLAVONSKO-BARANJSKA HRVATSKA STRANKA - SBHS
+6. HRVATSKA STRANKA UMIROVLJENIKA - HSU
+IV. Na temelju članka 37. Zakona o izborima zastupnika u Hrvatski sabor, pojedine liste dobile su sljedeći broj zastupničkih mjesta i zastupnike u Hrvatskom saboru:
+1. HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+dobila je 7 mjesta, te su s te liste izabrani zastupnici:
+1. VLADIMIR ŠEKS
+2. BRANIMIR GLAVAŠ
+3. MATO ŠTIMAC
+4. IVICA BUCONJIĆ
+5. VLADIMIR ŠIŠLJAGIĆ
+6. IVAN DRMIĆ
+7. JOSIP ĐAKIĆ
+2. SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+LIBERALNA STRANKA - LS
+LIBRA - STRANKA LIBERALNIH DEMOKRATA - LIBRA
+dobila je 3 mjesta, te su s te liste izabrani zastupnici:
+1. ŽELJKA ANTUNOVIĆ
+2. ZLATKO KRAMARIĆ
+3. VILIM HERMAN
+3. HRVATSKA STRANKA PRAVA - HSP
+dobila je 1 mjesto, te je s te liste izabran zastupnik:
+1. ANTO ĐAPIĆ
+4. HRVATSKA SELJAČKA STRANKA - HSS
+dobila je 1 mjesto, te je s te liste izabran zastupnik:
+1. ŽELJKO PECEK
+5. HRVATSKA NARODNA STRANKA - HNS
+SLAVONSKO-BARANJSKA HRVATSKA STRANKA - SBHS
+dobila je 1 mjesto, te je s te liste izabran zastupnik:
+1. ANTUN KAPRALJEVIĆ, ing.
+6. HRVATSKA STRANKA UMIROVLJENIKA - HSU
+dobila je 1 mjesto, te je s te liste izabran zastupnik:
+1. DRAGUTIN PUKLEŠ
