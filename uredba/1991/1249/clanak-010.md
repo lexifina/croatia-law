@@ -1,0 +1,21 @@
+# Članak 10.
+Na promet slijedećih proizvoda osnovni porez na promet plaća se po stopi od 5%i to na promet:
+- upotrebljavanih osobnih automobila, ostalih motornih vozila i plovnih objekata, a koji se obavlja između građana neposredno ili preko trgovinskih poduzeća i drugih pravnih i fizičkih osoba kao posrednika (komisiona prodaja);
+- poljoprivredne mehanizacije. uređaja i druge opreme. poljoprivrednog alata za primarnu obradu zemljišta. kao i rezervne dijelove za tu opremu i uređaje;
+- organskog i mineralnog gnojiva i sredstava za zaštitu bilja;
+- osnovnih proizvoda poljoprivrede i ribarstva;
+- proizvoda koji služe za ljudsku prehranu i prehranu životinja, osim proizvoda iz članka 19. ovog zakona ili proizvoda koji su navedeni u drugim tar. brojevima ove tarife;
+- originalnih umjetničkih djela s područja slikarstva, kiparstva, arhitekture, grafike i ostalih likovnih djelatnosti i unikata primijenjene umjetnosti i industrijskog oblikovanja za koje se autorima plaća autorski honorar, a koja prodaje sam autor. Na ostala umjetnička djela iz stavka 1. ovog zakona plaća se porez po ovom tarifnom broju - ukoliko ta djela u prometu prati uvjerenje ovlaštenog strukovnog udruženja ili ovlaštenog republičkog organa s područja prosvjete i kulture:
+- kompjutere te kompjuterskih štampača i džepnih kalkulatora;
+- elektrićne energije, lignita, mrkog ugljena. kamenog i drvenog ugljena, briketa od ugljena, plina dobivenog destilacijom ugljena. ogrjevnog drveta, prirodnog zemnog plina i tehničkih plinova; - ekološki prihvatljive ambalaže za krajnju potrošnju u trgovini i ugostiteljstvu;
+- kataloga muzeja, likovnih galerija i izložbi, kataloga kulturnih, umjetničkih, znanstvenih, obrazovnih, stručnih i drugih izložbi, te filmova, video i audio-kazeta, gramofonskih ploča, magnetofonskih i magnetskih vrpci, kompakt-diskova na kojima su snimljena naprijed navedena djela ili dramska. operna, simfonijska, komorna, orkestarska, etno-muziološka djela. djela klasične i ozbiljne glazbe, govorna djela, djela i programi namijenjeni učenju stranih jezika, priče i pjesme zabavne i narodne glazbe. Mišljenje o tome da se radi o proizvodima iz stavka 1. ovoga odlomka; daje ovlašteni republički organ za prosvjetu i kulturu. Izdavač odnosno uvoznik. dužan je prije stavljanja u promet otisnuti pripomenu na proizvode iz stavka 1. ovoga odlomka s naznakom da je riječ o tim proizvodima na koje se plaća porez na promet po povlaštenoj stopi od 5%, s pozivom na broj i datum mišljenja ovlaštenog organa, - kakaa i čokolade i drugih prerađevina za hranu koje sadrže kakao;
+- soli (NaCl) za prehranu; - proizvoda od šećera (bomboni, žvakaće gume i dr.);
+- aparata za mjerenje šećera u krvi;
+- saćnih osnova (umjetnog saća) od voska te opremu, pribor i materijale što se isključivo upotrebljavaju u pčelarstvu;
+- školskog pisaćeg i crtaćeg pribora;
+- turističkog, propagandnog i informativnog materijala. te propagandnog i informativnog materijala za zdravstvene, odgojne i humanitarne svrhe do visine sredstava koja se za te namjene osiguravaju u republičkom proračunu; - kopije odljeva razglednica i suvenira izrađenih prema originalnim predmetima iz muzeja i galerija što ih te ustanove izravno prodaju ili ih daju na prodaju drugim organizacijama i poduzećima odnosno trgovinama;
+- novorođenačke opreme;
+- slikarskog i kiparskog materijala i pribora;
+- dječje muške ili dječje ženske odjeće do broja 14 zaključno;
+- dječje muške ili dječje ženske obuće do broja 34 zaključno;
+- zastava i grbova. kao simbola hrvatske državnosti, osim ako su izrađeni od materijala iz tarifnog broja 7. točke 1, 2. i 5. Tarife osnovnog poreza na promet.

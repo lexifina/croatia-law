@@ -1,0 +1,2 @@
+# Članak 12.
+Osnovni porez na promet usluga prometa robe na veliko i vanjskotrgovinskih usluga plaća se po stopi od 3%. Napomena: Pod obavljanjem prometa na veliko razumijeva se kupnja proizvoda i prodaja proizvoda u nepromijenjenom stanju sa stovarišta (skladišta i sl.) ili tranzitno, osim prodaje za gotov novac drugoj pravnoj osobi na temelju njezine pismene narudžbenice i uz obvezno izdavanje fakture.
