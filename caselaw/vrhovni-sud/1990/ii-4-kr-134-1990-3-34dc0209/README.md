@@ -1,0 +1,11 @@
+# II-4 Kr-134/1990-3, Vrhovni sud Republike Hrvatske, 15.5.1990.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=34dc0209-3cc7-4cc3-8834-7bb918768b0c
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1990-05-15
+- Publication date on source: 2007-01-10
+- ECLI: ECLI:HR:VSRH:1990:2180
+- Decision type: Rješenje
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
