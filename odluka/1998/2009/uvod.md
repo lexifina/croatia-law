@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 11. Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća ("Narodne novine", broj 42/90, 61/91 i 109/93), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 1998. godine, donijela
