@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Pravo na naknadu štete nemaju oštećenici koji su uzrokovali štetu sudjelovanjem u organiziranju, izvršenju, poticanju, pomaganju ili pripremanju štetne radnje, oštećenici koji su neovisno o konkretnoj štetnoj radnji pripadnici terorističke organizacije, odnosno skupine koja je uzrokovala štetu, niti osobe koje su neopravdano uskratile obavijesti važne za sprječavanje i uhićenje počinitelja.
+(2) Osobe koje su po službenoj ili radnoj dužnosti sudjelovale u sprječavanju ili otklanjanju posljedica štetne radnje, ako im je šteta nastala uslijed sprječavanja ili otklanjanja štetne radnje, imaju pravo na naknadu štete po općim propisima.
