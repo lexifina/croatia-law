@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, b r. 101/98, 15/2000 i 117/2001) i članka 21. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 30/94, 72/94 i 107/2003), Vlada Republike Hrvatske je na sjednici održanoj 23. listopada 2003. godine, donijela
