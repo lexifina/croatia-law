@@ -1,0 +1,1 @@
+Na temelju čl. 96. stava 1. pod a/ i stava 3. Zakona o pomorskom i vodnom dobru, lukama i pristaništima ("Narodne novine", br.19/74, 39/75, 17/77 i 18/81), Republički komitet za pomorstvo, saobraćaj i veze, na sjednici održanoj 18. travnja 1990. godine, donio je
