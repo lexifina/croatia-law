@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o mjeriteljskim zahtjevima za pakovine (»Narodne novine« br. 23/97, 29/97, 93/97, 159/98, 77/01) u tablici iz Priloga 1, Obvezatne vrijednosti nazivnih količina punjenja za pakovine s prehrambenim proizvodima, stupac 1, Prehrambeni proizvodi, redni broj 16. Maslac (tar. br. CT 04.05), namazi na bazi mliječne masti u stupcu 4 Dodatne nacionalne vrijednosti, dodaju se brojke: 50, 70, 100
