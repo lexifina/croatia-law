@@ -1,0 +1,8 @@
+# Članak 3.
+Na području borbe protiv nezakonitog uzgajanja narkotičkih droga, nezakonite proizvodnje, nabave, držanja, distribucije, uvoza, izvoza i prijevoza narkotičkih droga, psihotropnih tvari i njihovih prekursora, nezakonite trgovine istih, kao i svake vrste pružanja pomoći u tome, ugovorne će stranke, sukladno nacionalnom zakonodavstvu:
+a) jedna drugu izvješćivati o saznanjima i podacima vezanima uz osobe uključene u nezakonito nabavljanje narkotičkih droga, psihotropnih tvari i njihovih prekursora; nezakonite trgovine istih, o njihovim skrovištima, rutama, korištenim prijevoznim sredstvima i načinima djelovanja; o mjestima s kojih potječu i odredištu narkotičkih droga, psihotropnih tvari i njihovih prekursora, kao i o svim ostalim posebnim pojedinostima u svezi s takvim kaznenim djelima, i to u onoj mjeri u kojoj su one nužne za otkrivanje istih,
+b) uzajamno razmjenjivati saznanja i podatke o metodama nezakonite trgovine narkotičkih droga, psihotropnih tvari i njihovih prekursora, kao i o svim ostalim saznanjima i podacima u svezi s istim,
+c) poduzeti koordinirane mjere u svrhu suzbijanja nezakonite proizvodnje i prijevoza narkotičkih droga, psihotropnih tvari i njihova prekursora,
+d) razmjenjivati iskustva u nadzoru zakonite trgovine narkotičkim drogama, psihotropnim tvarima i njihovim prekursorima, s osobitim naglaskom na moguću zlouporabu,
+e) jedna drugoj staviti na raspolaganje uzorke narkotičkih droga i psihotropnih tvari prirodnoga i sintetičkoga podrijetla, koje je moguće zlouporabiti,
+f) razmjenjivati analitičke materijale i prijedloge mjera koje se odnose na nezakonitu trgovinu narkotičkih droga i psihotropnih tvari.
