@@ -1,0 +1,9 @@
+I.
+U Odluci o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Kremik (»Narodne novine«, broj 101/2002), u točki I. stavku 2. tekst alineje mijenja se i glasi:
+» - koje počinje u točki 1 (kraj žičane ograde) i prateći žičanu ogradu luke posebne namjene kroz točke 2 i 3, ide do točke 4. Iz točke 4 granica dalje ide do točke 5, u naravi južni početni ugao poljskog puta, te prateći južnu ivicu puta prolazi kroz točke 6 i 7, u naravi presjek poljskog puta i asfaltne ceste, ide do točke 8. Iz točke 8 granica, prateći žičanu ogradu i betonski zid, prolazeći kroz točke 9, 10 i 11, dolazi do točke 12 i dalje do točke 13 (u naravi ulazna rampa). Iz točke 13 granica dalje prati žičanu ogradu točkama 14, 15, 16 i 17, te iz točke 17 ide u točku 18 (dodirna točka kopna i mora). Iz točke 18 (dodaju se točke 19, 20, 21, 22, 23, 24) prateći obalnu crtu prolazi kroz točke 19, 20, 21 i 22, te iz točke 22, ide u točku 23 (dodirna točka kopna i mora). Iz točke 23 ide u točku 24 (u naravi kraj suhozida) iz koje se vraća u početnu točku gdje i završava.«.
+Stavak 3. mijenja se i glasi:
+»Ovako opisana granica pomorskog dobra prostire se na 93 250 m˛ akvatorija i 42 123 m˛ kopna. Ukupna površina kopnenog i morskog dijela iznosi 135 373 m˛ i obuhvaća sljedeće čestice: dio čestice zemlje 19710, dio čestice zemlje 4165, dio čestice zemlje 4134/1, česticu zemlje 4134/2, česticu zgrade 1465, česticu zgrade 1317, česticu zgrade 1318, česticu zgrade 1319, česticu zgrade 1230, česticu zgrade 1231/1, česticu zgrade 1231/2 i česticu zemlje 1232, sve k.o. Primošten, što je označeno na kopiji stvarnog stanja u mjerilu 1:2000, koja čini sastavni dio ove Odluke kao Prilog 1, a ne objavljuje se u »Narodnim novinama«.«
+II.
+Na temelju ove Odluke ovlašćuje se ministar pomorstva, prometa i veza da potpiše aneks Ugovora o koncesiji.
+III.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
