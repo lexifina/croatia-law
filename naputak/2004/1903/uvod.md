@@ -1,0 +1,1 @@
+Na temelju članka 33. stavak 5. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2004. godinu (»Narodne novine«, br. 31/04), Ministarstvo financija, u suglasnosti s Ministarstvom znanosti, obrazovanja i športa, donosi
