@@ -1,0 +1,10 @@
+I.
+Odluka o obvezi dostavljanja izvješća »Neto potraživanja banke od opće države i garancije« (»Narodne novine«, br. 155/2004 i 189/2004) mijenja se i dopunjuje, i to:
+U Uputi za popunjavanje izvješća »Neto potraživanja banke od opće države i garancije« u dijelu Sadržaj i priprema Izvješća u sedmom odlomku mijenja se druga rečenica i sad glasi: »Na ovoj stranici banka prikazuje razradu potraživanja banke prema komitentima osiguranih bezuvjetnim garancijama Ministarstva financija, Hrvatske agencije za malo gospodarstvo, Republike Hrvatske (osim potraživanja osiguranih bezuvjetnim garancijama Ministarstva financija i potraživanja osiguranih bezuvjetnim garancijama Hrvatske agencije za malo gospodarstvo), republičkih fondova, Hrvatske banke za obnovu i razvitak te jedinica lokalne države.«
+U točki 3. Formiranje i sadržaj slogova Upute za dostavljanje podataka Neto potraživanja banke od opće države i garancije u zadnjem odlomku tekst »GRH - Potraživanja osigurana bezuvjetnim garancijama Republike Hrvatske (uključujući i garancije Hrvatske agencije za malo gospodarstvo)« zamjenjuje se sa sljedećim tekstom: »GMF - Potraživanja osigurana bezuvjetnim garancijama Ministarstva financija; GHMG - Potraživanja osigurana bezuvjetnim garancijama Hrvatske agencije za malo gospodarstvo; GRHD - Potraživanja osigurana bezuvjetnim garancijama Republike Hrvatske (osim potraživanja osiguranih bezuvjetnim garancijama Ministarstva financija i potraživanja osiguranih bezuvjetnim garancijama Hrvatske agencije za malo gospodarstvo)«.
+U tablici 1 Ulazni slog podataka za Neto potraživanja banke od opće države i garancije pod brojem 13. Sektor u Sadržaj polja briše se oznaka GRH, a dodaju se sljedeće oznake GMF, GHMG i GRHD.
+II.
+Prvo Izvješće prema ovoj Odluci banke i stambene štedionice trebaju dostaviti u Hrvatsku narodnu banku za izvještajno razdoblje koje završava 28. veljače 2005. godine.
+III.
+Ova odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+O. br. 60-020/03-02-05/ŽR
