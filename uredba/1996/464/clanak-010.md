@@ -1,0 +1,11 @@
+## NADMETANJE PRIKUPLJANJEM PONUDA PO POZIVU ZA USLUGE
+# Članak 10.
+(1) Korisnik će za svaku potrebu prirediti upute i procjene troškova. Upute sadržavaju ciljeve i opseg usluga kao i očekivane rezultate usluga.
+(2) Korisnik će pozvati najmanje tri iskusna ponuditelja i dostaviti im pozivno pismo s opisom traženih usluga prema stavku 1. ovoga članka.
+(3) Pozivno pismo sadrži kratak opis zadatka, način ocjenjivanja, vrijeme predviđeno za podnošenje ponuda, rok važenja ponuda, vrijeme predviđeno za pregovaranje i ustupanje zadatka. Uz pozivno pismo moraju biti priložene upute i nacrt ugovora.
+(4) Pozivno pismo sa svim prilozima treba poslati ponuditeljima s popisa od kojih se traži da dostave svoje ponude u dvjema odvojenim omotnicama. U jednu omotnicu treba staviti ponudu s tehničkim podacima, a u drugu cijenu ponuđenih usluga.
+(5) Nakon isteka roka za podnošenje prijedloga, koji je naveden u pozivnom pismu, korisnik će osnovati komisiju, koja će otvoriti prijedlog s tehničkim podacima, ocijeniti ih pomoću skale raspona od 100 bodova kako bi ih se moglo rangirati.
+Nakon ocjene i rangiranja otvaraju se ponude sa cijenama, a korisnik će započeti pregovore sa ciljem sklapanja ugovora s onim ponuditeljem, koji je za obavljanje zadatka ponudio najnižu cijenu i nalazi se unutar 20% najviše ocijenjenih ponuda s tehničkim podacima.
+(6) Pregovori se odnose na poboljšanje traženih uvjeta, ako je ponuditelj podnio takav prijedlog, predloženi plan rada koji je dio tehničkog dijela ponude, vremenski raspored, plan putovanja i financijski dio ponude.
+(7) Odredbe stavaka 2. do 6. ovoga članka ne primjenjuju se na usluge pojedinačnih stručnjaka. Za njih treba prirediti popis tri kvalificirane osobe. Tako izabranim pojedincima treba poslati pozivno pismo s uputama. Oni će na poziv odgovoriti tako da predoče svoj radni životopis s preporukama. Korisnik će zatim ocijeniti njihove kvalifikacije, iskustvo, znanje jezika itd., koristeći sustav bodova, a ugovor će sklopiti s osobom, koja postigne najveći broj bodova.
+(8) U slučaju da se potrebno znanje ne nudi ili ne postoji na domaćem tržištu, korisnik će, nakon konzultacija s Ministarstvom financija, pozvati inozemne ponuditelje usluga u skladu sa stavcima 2. do 6. ovoga članka naročito kada se radi o velikim poslovima, ili u skladu sa stavkom 7. kad se radi o stručnjacima/pojedincima.
