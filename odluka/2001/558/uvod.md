@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 3. i članka 11. Zakona o sanaciji određenih poduzeća (»Narodne novine«, br. 56/95, 106/99), Vlada Republike Hrvatske je na sjednici održanoj 30. ožujka 2001. godine donijela
