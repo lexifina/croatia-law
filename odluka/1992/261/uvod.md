@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", broj 53/90 i 61/91), a u svezi prijedloga "Vodovoda" Poduzeča za vodoopskrbu s p. o. Zagreb, Vlada Republike Hrvatske na sjednici održanoj 6. ožujka 1992. donijela je
