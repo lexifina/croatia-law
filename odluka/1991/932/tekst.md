@@ -1,0 +1,6 @@
+o usklađivanju novčanih naknada za tjelesno oštečenje i osnovici za određivanje tih naknada od 1. svibnja 1991.
+1. Novčane naknade za tjelesno oštećenje ostvarene do 1. svibnja 1991. i koje su povećane od 1. ožujka 1991. za 5.01% prema Odluci o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. ožujka 1991. ("Narodne novine", br. 22/91) povećavaju se od 1. svibnja 1991. za 10.2%.
+2. Novčane naknade za tjelesno oštećenje ostvarene 1. svibnja 1991. ili poslije toga dana povećavaju se od 1. svibnja 1991. odnosno na dan stjecanja prava za 15.72%.
+3. Kao osnovica za usklađivanje novčanih naknada za tjelesno oštećenje prema točki 1. ove odluke služi svota novčane naknade koja je korisniku pripadala na dan 1. svibnja 1991, a kao osnovica za usklađivanje novčanih naknada za tjelesno oštećenje prema točki 2. ove odluke služi svota novčane naknade određene od osnovice za određivanje novčanih naknada koja je na dan 1. siječnja 1991. iznosila 965,30 dinara.
+4. Usklađivanje novčanih naknada za tjelesno oštećenje prema točki 1. i 2. ove odluke obavit će se po službenoj dužnosti i bez donošenja rješenja.
+5. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama". a primjenjuje se od 1. svibnja 1991.
