@@ -1,0 +1,2 @@
+# Članak 8.
+Škola će naplaćivati školarinu koju utvrdi Školski odbor. Školski odbor može odobriti izuzeće od plaćanja školarine ili smanjenje iznosa školarine za neke učenike na temelju financijske potrebe. Školski odbor je ovlašten izraditi programe stipendiranja. Školarina će biti obračunata u američkim dolarima, osim za hrvatske državljane i strance koji imaju trjano nastanjenje u Hrvatskoj, a koji će plaćati školarinu u kunama, prema važećem tečaju.
