@@ -1,0 +1,2 @@
+# Članak 2.
+Cilj zahtjeva iz članka 1. ovog Pravilnika je tehničko-tehnološko izvođenje rudarskih radova na siguran način u skladu s odredbama Zakona o rudarstvu (»Narodne novine«, br. 35/95. i 114/01.), Pomorskog zakonika (»Narodne novine«, br. 17/94., 74/94. i 43/96), važećim normama i pravilima rudarske struke kojima se osigurava sigurnost i zaštita zdravlja ljudi, sprječava zagađivanje mora, morskog dna, podzemlja i zraka, sprječava neopravdano ometanje pomorskog i zračnog prometa, neopravdani ribolov, kao i sprječava uništavanje morske flore i faune.
