@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 2. Zakona o poljoprivredi (»Narodne novine«, broj 66/2001 i 83/2002), članka 4. Zakona o carinskoj tarifi (»Narodne novine«, br. 61/2000 i 117/2000) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 17. srpnja 2003. godine donijela
