@@ -1,0 +1,2 @@
+# Članak 22.
+Doprinos za obvezno zdravstveno osiguranje osiguranih osoba koje su neopravdano izostale s posla, plaća pravna ili fizička osoba pri kojoj je zaposlenik uposlen prema stopi od 18% na osnovicu koju čini plaća iz ugovora o radu u odgovarajućem dijelu prema broju dana neopravdanog izostanka na način i prema postupku propisanom za uposlene pri pravnoj ili fizičkoj osobi, a najkasnije do 15. u mjesecu za prethodni mjesec.

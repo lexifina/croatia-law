@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici uplaćivanja doprinosa za obvezno zdravstveno osiguranje obvezni su doprinos propisan Zakonom i ovom Odlukom, a sukladno članku 40. Statuta Hrvatskog zavoda za zdravstveno osiguranje uplaćivati na prihodne račune Hrvatskog zavoda za zdravstveno osiguranje propisane, Naredbom o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova, te prihoda za financiranje drugih javnih potreba ("Narodne novine", br. 137/97.).
