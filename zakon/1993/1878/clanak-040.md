@@ -1,0 +1,3 @@
+# Članak 40.
+Upis činjenica rođenja, zaključenja braka ili smrti hrvatskih državljana nastalih u inozemstvu obavlja se na temelju izvatka iz državne matice inozemnog tijela. Ovaj izvadak dužna je podnijeti stranka ako međunarodnim ugovorom nije predviđena obveza inozemnog tijela da izvatke iz državnih matica dostavlja nadležnom tijelu u Republici Hrvatskoj.
+Iznimno, činjenica rođenja nastala u inozemstvu upisuje se u maticu rođenih na temelju rješenja nadležnog županijskog odnosno gradskog ureda, ako se izvadak iz državne matice rođenih koju vodi inozemno tijelo nije mogao pribaviti na način uređen u stavku 1. ovoga članka. Nadležni županijski, odnosno gradski ured donosi rješenje po zahtjevu stranke, a na temelju dokaza koje predloži stranka.

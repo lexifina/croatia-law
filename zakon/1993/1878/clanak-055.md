@@ -1,0 +1,2 @@
+# Članak 55.
+Do 31. prosinca 1993. godine primjenjivat će se odredbe Uputstva o vođenju matičnih knjiga i načinu upisa usvojenja ("Narodne novine", br. 47/75. i 46/79.), Pravilnika o obrascima mati;nih knjiga, registra matičnih knjiga, izvoda iz mati;nih knjiga i uvjerenja koja se izdaju na osnovi mati;nih knjiga ("Narodne novine", br. 45/75. i 42/8I.), Pravilnika o obrascima za dostavljanje statističkih podataka organima statisti;ke službe ("Narodne novine, br 31/75., 50/81. i 12/83.) i Pravilnika o obrascu potvrde o smrti ("Narodne novine", br. 28/75.).

@@ -1,0 +1,4 @@
+# Članak 21.
+Činjenicu smrti dužni su prijaviti članovi obitelji s kojima je umrli živio. Ako nema članova obitelji ili oni to ne mogu učiniti, činjenicu smrti dužne su prijaviti druge osobe s kojima je umrli živioili drugi članovi obitelji koji su saznali za smrt, odnosno osobe u čijem je stanu osoba umrla. Ako nema ni tih osoba, činjenicu smrti dužna je prijaviti osoba koja je prva saznala za smrt.
+Činjenicu smrti za osobu koja je umrla u zdravstvenoj ustanovi, na službi u oružanim snagama Republike Hrvatske, kazneno-popravnoj ustanovi, hotelu, internatu ili drugoj ustanovi ili organizaciji dužna je prijaviti ustanova, nadležno zapovjedništvo oružanih snaga Republike Hrvatske ili organizacija u kojoj je osoba umrla.
+Ako se činjenica smrti utvrđuje oćevidom, tijelo koje provodi oćevid dužno je činjenicu smrti prijaviti nadležnom matičaru.

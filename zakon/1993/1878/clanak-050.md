@@ -1,0 +1,2 @@
+# Članak 50.
+Ako uslijed domovinskog rata u državnim maticama nisu upisane pojedine činjenice rođenja i smrti, na zahtjev zainteresirane osobe izvršit će se upis ovih činjenica u državne matice, ako su one utvrđene potvrdom državnog tijela Republike Hrvatske, nadležnog zapovjedništva oružanih snaga Republike Hrvatske ili javne ustanove (crvenog križa, bolnice i sl.), koje su oni izdali na temelju svojih knjiga i evidencija. Upis će se izvršiti na temelju rješenja nadležnog županijskog odnosno gradskog ureda.

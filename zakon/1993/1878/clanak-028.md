@@ -1,0 +1,5 @@
+# Članak 28.
+Ako državnu maticu u kojoj treba izvršiti naknadni upis vodi drugi matičar, matičar koji je izvršio upis dužan je u roku od til dana od dana izvršenja upisa dostaviti izvadak iz državne matice o izvršenom upisu matičaru koji vodi državnu maticu u kojoj treba izvršiti naknadni upis.
+Ako se državna matica u kojoj treba izvršiti naknadni upis vodi u inozemstvu, matičar koji je izvršio upis dužan je u roku iz stavka 1. ovoga članka dostaviti izvadak iz državne matice o izvršenom upisu Ministarstvu vanjskih poslova.
+O svakom naknadnom upisu ili ispravku u izvorniku zakljućene držvne matice, matičar je dužan u roku od tri dana od izvršenog upisa, odnosno ispravka dostaviti županijskom odnosno gradskom uredu koji čuva drugi primjerak državne matice, izvadak o izvršenom naknadnom upisu, odnosno ispravku radi unošenja u drugi primjerak državne matice.
+O upisu rođenja, zakljućenja braka ili smrti, te o promjeni podataka koji se sukladno propisima upisuju u evidenciju prebivališta, matičar je dužan u roku od tri dana od dana izvršenog upisa izvijestiti tijelo državne uprave koje vodi tu evidenciju.
