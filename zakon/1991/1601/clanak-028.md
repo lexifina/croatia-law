@@ -1,0 +1,4 @@
+# Članak 28.
+Proizvodnju kontrolnih uređaja za zaštićeno registriranje broja odigranih igara na automatu i drugu kontrolu koji se trebaju ugraditi u automate. a koji nemaju već ugrađene takve uređaje radi osiguranja uvjeta rada automata iz članka 26. ovoga zakona, ustupit će ugovorom Ministarstvo financija proizvođaču koji je osposobljen za takvu proizvodnju.
+Ovlašteni proizvođač kontrolnih uređaja je dužan pod istim uvjetima, uz proizvodnju kontrolnih uređaja, proizvoditi i pločice za označavanje i registraciju automata te potrebne žigove za plombiranje i drugo.
+O proizvodnji kontrolnih uređaja. pločica,za označavanje automata. žigova i drugog. proizvođač je dužan voditi evidenciju, te o proizvodnji i plasmanu izvještavati Ministarstvo financija i omogućiti Ministarstvu financija kontrolu proizvodnje.

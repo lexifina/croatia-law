@@ -1,0 +1,3 @@
+# Članak 27.
+Nakon izvršenog tehničkog pregleda i plombiranja kontrolnog uređaja te stavljanja pločice za označavanje i registraciju automata za igre na sreću i zabavne igre. ovlaštene pravne osobe za obavljanje tehničkog pregleda izdaju atest iz članka 25. ovoga zakona.
+Pločice za označavanje i registraciju moraju imati svi automati za igre na sreću i zabavne igre kao i stolovi za igre s kuglicama, kockama ili kartama u upotrebi. Evidenciju i registar izdanih pločica za označavanje i registraciju vodi Ministarstvo financija. Način vođenja evidencije i registra utvrdit će propisom ministar financija iz članka 25. stavka 3. ovoga zakona.

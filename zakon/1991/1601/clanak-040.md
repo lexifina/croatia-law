@@ -1,0 +1,4 @@
+# Članak 40.
+Podnosilac zahtjeva za izdavanje odobrenja za otvaranje zabavnog kluba iz članka 23. ovoga zakona dužan je prije izdavanja odobrenja platiti posebnu taksu koja je prihod proračuna općine u kojoj se izdaje odobrenje. Plaćanje posebne takse vrši se i prilikom promjena utvrđenih u članku 39. ovoga zakona, osim kod putujućih zabavnih radnja kada mijenjaju mjesto privremenog boravišta putujućeg zabavnog kluba.
+Za postavljanje automata za igre na sreću s jednostrukim ulogom. kao i automata za zabavu u ugostiteljskim objektima iz članka 23. ovoga zakona, plaća se posebna taksa koja je prihod proračuna općine gdje se postavljaju automati.
+Posebna taksa za postavljanje automata se plaća za godinu dana unaprijed prilikom postavljanja zahtjeva za plombiranje automata u općini u kojoj se postavlja i važi za taj automat na području Republike Hrvatske do isteka roka važenja takse ili do uništenja automata.

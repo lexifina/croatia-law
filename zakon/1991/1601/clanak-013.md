@@ -1,0 +1,2 @@
+# Članak 13.
+Igračnicu ili automat klub može organizirati pravna osoba koja obavlja djelatnost priredivanja igara na sreću ili ugostiteljsku djelatnost ili turističku djelatnost u posebno uređenim prostorijama hotela "L" ili "A" kategorije. ili u posebnim za tu namjenu izgradenim ili tradicionalno korištenim zgradama. te na, za to, posebno uredenim turističkim brodovima. U ostalim prostorima, koji za te namjene ispunjavaju ovim zakonom utvrđene uvjete, igračnicu ili automat klub može organizirati samo pravna osoba koja ima koncesiju iz članka 5. stavka 1 ovoga zakona.

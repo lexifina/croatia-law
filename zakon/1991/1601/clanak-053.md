@@ -1,0 +1,2 @@
+# Članak 53.
+Ugovori o davanju koncesije za priređivanje igara na sreću od interesa za Republiku i ugovori o proizvodnji kontrolnih uređaja, pločica za označavanje automata i žigova za plombiranje sklopljeni, te ovlaštenja za vršenje tehničkih pregleda automata za igre na sreću izdana na osnovi propisa koji prestaju danom stupanja na snagu ovoga zakona, ostaju pravosnažni, time da će se uskladiti s odredbama ovoga zakona u roku od 60 dana od njegovog slupanja na snagu.

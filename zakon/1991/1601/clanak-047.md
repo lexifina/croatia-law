@@ -1,0 +1,3 @@
+# Članak 47.
+Sredstva iz članka 46. stavka 2. ovoga zakona izdvajaju se u posebnu zakladu pri Ministarstvu rada, socijalne skrbi i obitelji.
+Sredstvima iz stavka 1. ovoga članka raspolaže Komisija koju čine potpredsjednik Vlade Republike Hrvatske zadužen za društvene djelatnosti, kao predsjednik Komisije. i četiri člana koje, na prijedlog ministara nadležnih za financije, obrazovanje, kulturu i šport, rad, socijalnu skrb i obitelj i zdravstvo imenuje Vlada Republike Hrvatske. Raspored sredstava vrši se u skladu s pravilima koja donosi Vlada Republike Hrvatske na prijedlog Ministra rada i socijalne skrbi.
