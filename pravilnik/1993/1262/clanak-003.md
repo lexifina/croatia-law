@@ -1,0 +1,2 @@
+# Članak 3.
+Nastavna se godina organizira u tri obrazovna razdoblja Prvo obrazovno razdoblje počinje 6. rujna i završava 23. prosinca 1993. godine. Drugo obrazovno razdoblje počinje 17. siječnja i završava 25. ožujka 1994. u petodnevnom, odnosno 26. ožujka 1994 u šestodnevnom nastavnom radnom tjednu. Treće obrazovno razdoblje počinje 5. travnja i završava 17. lipnja 1994. u petodnevnom, odnosno 18. lipnja 1994. u šestodnevnom nastavnom radnom tjednu.
