@@ -1,0 +1,2 @@
+# Članak 42.
+Odjel za regionalni razvitak prati i analizira osnovne pokazatelje o gospodarskim kretanjima po pojedinim regijama; predlaže i sudjeluje u predlaganju mjera regionalnog razvitka; prati pokazatelje o kretanjima u pojedinim industrijskim granama; izrađuje redovite prikaze tih kretanja; prati i izvješćuje o gospodarskim kretanjima po pojedinim županijama odnosno regijama iz svog djelokruga.

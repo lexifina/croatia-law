@@ -1,0 +1,2 @@
+# Članak 23.
+Odjel za međunarodne ugovore i konvencije u svezi s nadzorom trgovine određeno robom prati sklapanje i po potrebi sudjeluje u pripremama i zaključivanju međunarodnih ugovora i konvencija kojima se uspostavljaju zabrane i provodi poseban nadzor nad prekograničnim prometom i trgovinom određenom robom; predlaže mjere za provedbu tih ugovora i konvencija u Republici Hrvatskoj uključivo donošenje zakona i propisa kojima se osigurava njihova primjena, edukacija i osposobljavanje određenih subjekata za njihovu provedbu; obavlja druge poslove iz svog djelokruga.

@@ -1,0 +1,2 @@
+# Članak 39.
+Odjel za pravne poslove u privatizaciji obavlja upravne i stručne poslove u svezi s pravnim pitanjima privatizacije dionica, udjela, stvari i prava u vlasništvu Republike Hrvatske, izradom prijedloga za izuzimanje od prodaje stvari i prava određenih pravnih osoba, te načinom njihova korištenja, provođenjem upravnog nadzora odnosno nadzora zakonitosti rada Hrvatskog fonda za privatizaciju, davanjem mišljenja i uputa u primjeni i provođenju zakona i drugih propisa s područja privatizacije, te obavlja i druge poslove iz svog djelokruga.

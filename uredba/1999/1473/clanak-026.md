@@ -1,0 +1,2 @@
+# Članak 26.
+Odjel za slobodne zone obavlja stručne i upravne poslove u svezi s osnivanjem slobodnih zona; provodi postupak oko pripreme odluka o davanju koncesije i suglasnosti za osnivanje slobodnih zona; provodi i usklađuje poslove u svezi s utvrđivanjem uvjeta za početak rada slobodnih zona; prikuplja podatke o korisnicima zona i djelatnostima koje se obavljaju u zonama, izrađuje izvješća o radu i poslovanju slobodnih zona te obavlja druge poslove iz svoga djelokruga.

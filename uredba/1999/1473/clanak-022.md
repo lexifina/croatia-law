@@ -1,0 +1,6 @@
+# Članak 22.
+Odjel za dvostrane međunarodne gospodarske odnose predlaže, priprema i provodi gospodarsku suradnju s pojedinim državama; predlaže, priprema i vodi sklapanje ugovora o trgovinskoj i gospodarskoj suradnji s pojedinim državama; osniva, priprema, usklađuje i vodi rad mješovitih odbora za gospodarsku suradnju s pojedinim državama; predlaže nadležnim državnim tijelima potrebne gospodarske aktivnosti u svezi suradnje s pojedinim državama ili skupinama država; prati i analizira stanje i kretanje bilance razmjene i ukupnih gospodarskih odnosa s pojedinim državama; promiče gospodarske i trgovinske interese Republike Hrvatske; predlaže, priprema i provodi sklapanje međunarodnih ugovora o poticanju i zaštiti ulaganja, surađuje i usuglašava aktivnosti u međunarodnoj gospodarskoj suradnji s nadležnim državnim tijelima i drugim institucijama, te obavlja i druge poslove iz svojega djelokruga.
+Za obavljanje poslova Odjela za dvostrane međunarodne gospodarske odnose ustrojavaju se sljedeći odsjeci:
+- Odsjek za dvostrane međunarodne gospodarske odnose
+- Odsjek za ugovore o gospodarskoj suradnji i poticanju i zaštiti ulaganja
+4. Odjel za međunarodne ugovore i konvencije u svezi s nadzorom trgovine određenom robom

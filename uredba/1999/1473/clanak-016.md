@@ -1,0 +1,3 @@
+# Članak 16.
+Odjel za trgovinu obavlja poslove u svezi s promicanjem i razvojem trgovine, te stvaranjem organizacijskih ili drugih uvjeta za uspostavu burze i dražbe roba; prati privatizaciju u trgovini; prati razvoj trgovine, oblike povezivanja u trgovini, predlaže mjere za povećanje razine kvalitete obavljanja trgovine i uvođenja novih oblika trgovine te povećanje učinkovitosti rada trgovine, a osobito primjenu normi kvalitete; prati utjecaj carinskih, financijskih i drugih propisa na položaj trgovine, prati i analizira položaj i ulogu trgovine u društvenom bruto proizvodu zemlje, izrađuje analize iz područja trgovine i obavlja druge poslove iz svog djelokruga.
+3. Odjel za zaštitu potrošača
