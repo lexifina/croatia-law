@@ -1,0 +1,5 @@
+# Članak 3.
+Civilna služba obavlja se u pravnim osobama koje obavljaju znanstvenu, obrazovnu, odgojnu, kulturnu, športsku, socijalnu, zdravstvenu, sanitarnu ili humanitarnu djelatnost u Republici Hrvatskoj te u državnim tijelima i tijelima jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: pravne osobe i tijela).
+Pravne osobe i tijela iz stavka 1. ovoga članka odredit će pravilnikom ministar nadležan za poslove socijalne skrbi.
+Pri određivanju pravnih osoba i tijela iz stavka 2. ovoga članka vodit će se računa da je pravna osoba i tijelo u mogućnosti osigurati obavljanje poslova civilnom obvezniku u skladu s odredbama ovoga Zakona, da se obavljanjem poslova civilnih obveznika ne ugrožavaju postojeća radna mjesta ili da se obavljanjem poslova civilnih obveznika ne otežava ili onemogućava pronalaženje radnih mjesta nezaposlenim osobama.
+Civilni obveznik će u pravilu obavljati civilnu službu u mjestu u kojem boravi, a ako to nije moguće, u mjestu koje je što bliže njegovom boravištu.

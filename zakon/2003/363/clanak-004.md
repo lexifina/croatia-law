@@ -1,0 +1,5 @@
+# Članak 4.
+Civilni se obveznik za vrijeme obavljanja civilne službe upućuje, u pravilu, na poslove koji odgovaraju njegovom znanju, stručnoj spremi i sklonostima ukoliko za takve poslove postoji potreba u pravnoj osobi ili tijelu kamo se upućuje na obavljanje civilne službe.
+Civilnog obveznika ne smije se uputiti u pravnu osobu ili tijelo gdje je u vrijeme upućivanja bio zaposlen ili gdje je radio godinu dana prije upućivanja u civilnu službu.
+Civilni obveznici za vrijeme obavljanja civilne službe obavljaju sve poslove iz djelatnosti pravne osobe ili tijela gdje su na civilnoj službi koje im odlukom odredi ovlaštena osoba u toj pravnoj osobi ili čelnik u tom tijelu, s tim da im se ne može odrediti obavljanje poslova za čije se obavljanje traži viša stručna sprema i dulje radno iskustvo od onog koje civilni obveznik ima.
+Civilni obveznik dužan je za vrijeme civilne službe obavljati poslove prema rasporedu obavljanja poslova u toj pravnoj osobi ili tijelu (rad u smjenama, noćni rad i sl.).
