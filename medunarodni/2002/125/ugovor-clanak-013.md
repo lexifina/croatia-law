@@ -1,0 +1,4 @@
+# Članak 13.
+TRAJANJE I OTKAZ
+1. Ovaj Sporazum ostaje na snazi za razdoblje od pet (5) godina te se automatski produžava za naredna jednogodišnja razdoblja i ostaje na snazi dok ga jedna od stranaka ne otkaže u pisanom obliku diplomatskim putem. U tom slučaju ovaj Sporazum prestaje nakon isteka roka od devedeset (90) dana od dana obavijesti o otkazu.
+2. Ukoliko se postupcima predviđenim u člancima XI. i XII ne riješe sporovi i ne izvrše izmjene i dopune Sporazuma svaka stranka može odustati od Sporazuma diplomatskim putem slanjem pisane izjave drugoj stranci. Odustajanje će proizvoditi pravne učinke nakon isteka roka od devedeset (90) dana od dana prijama izjave. Međutim otkaz neće utjecati na završetak bilo kojeg projekta programa, ili ugovora ostvarenog prema ovom Sporazumu, ukoliko stranke ne odluče drugačije.
