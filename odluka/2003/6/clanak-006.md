@@ -1,0 +1,2 @@
+# Članak 6.
+Mjerila za ugovaranje hitne medicinske pomoći, koja nisu obuhvaćena »korektivnim faktorima« iz Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2003. godinu, u svezi s rješavanjem posebitosti pružanja hitne medicinske pomoći na području Republike Hrvatske, utvrđuje posebno povjerenstvo koje imenuje direktor Zavoda. Jednog člana povjerenstva imenuje Ministarstvo zdravstva.
