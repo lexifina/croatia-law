@@ -1,0 +1,4 @@
+# Članak 15.
+Za fizikalno-kemijske analize uzimaju se dvije boce uzorka zapremnine minimalno 0,75 l ili odgovarajući broj boca iste zapremnine od kojih jedna služi za fizikalno-kemijsku analizu, a drugu je ovlaštena pravna osoba dužna čuvati najmanje 6 mjeseci ako se radi o stolnom vinu bez oznake zemljopisnog podrijetla, odnosno 12 mjeseci za sva druga vina i voćna vina od dana izvršene analize.
+Za organoleptičko ocjenjivanje također se uzimaju dvije boce uzorka zapremnine minimalno 0,75 l ili odgovarajući broj boca iste zapremnine od kojih jedna služi za organoleptičko ocjenjivanje, a drugu je ovlaštena pravna osoba dužna čuvati najmanje 6 mjeseci ako se radi o stolnom vinu bez oznake zemljopisnog podrijetla, odnosno 12 mjeseci za sva druga vina i voćna vina od dana izvršene analize.
+Podnositelj zahtjeva ima pravo tražiti još jednu bocu uzorka koja ostaje kod njega.
