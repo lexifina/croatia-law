@@ -1,0 +1,3 @@
+# Članak 7.
+Radnici iz članaka 5. i 6. ovoga pravilnika moraju imati VSS tehničkog i prirodoslovno-matematičkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila, ili VŠS tehničkog smjera i najmanje 2 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila, ili SSS tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila, ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila.
+Radnici iz stavka 1. ovog članka moraju poznavati propise kojima su utvrđeni postupci i metode ispitivanja mjerila.
