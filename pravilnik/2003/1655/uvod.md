@@ -1,0 +1,1 @@
+Na temelju odredbe članka 22. stavka 7. i članka 96. stavka 2. Zakona o tržištu vrijednosnih papira (»Narodne novine« br. 84/02) Komisija za vrijednosne papire Republike Hrvatske (u daljnjem tekstu: Komisija) je na sjednici održanoj 10. srpnja 2003. godine donijela
