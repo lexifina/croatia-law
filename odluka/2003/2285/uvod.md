@@ -1,0 +1,1 @@
+Na osnovi članka 100. stavke 4. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01., 88/02., 149/02. i 117/03.) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 30. sjednici održanoj 24. rujna 2003. godine donijelo je
