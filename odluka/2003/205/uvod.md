@@ -1,0 +1,1 @@
+Na temelju članka 58. stavka 1. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99 i 63/00) i članka 2. Pravilnika o načinu izračuna referentnog prinosa (»Narodne novine« br. 115/01), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 16. siječnja 2003., donio je
