@@ -1,0 +1,3 @@
+# Članak 20.
+Najveća dopuštena pogreška mjerila duljine s ljestvicom označenom u zakonitim mjernim jedinicama obujma i najveća dopuštena pogreška vrijednosti u tablici obujma, mogu se mijenjati ovisno o mjernoj nesigurnosti pri određivanju obujma spremnika.
+Mjerna nesigurnost iz stavka 1. ovog članka mora biti takva da pogreške pri određivanju obujma budu manje od 0,5% mjernog obujma, a pogreške pri određivanju obujma koji je jednak ili manji od najmanjeg obujma, budu manje od 0,5% toga najmanjeg obujma, pri čemu je najmanji obujam određen kao umnožak ploštine najvećeg vodoravnog presjeka spremnika i razine tekućine od 200 mm.
