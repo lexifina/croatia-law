@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Buduće obveze iz članka 11. stavka 3. ove Uredbe mogu se utvrđivati odnosno ugovarati ili na drugi način preuzimati samo uz odobrenje Sabora Republike Hrvatske (u daljnjem tekstu : Sabor), odluku Vlade Republike Hrvatske (u daljnjem tekstu: Vlada) ili uz pisanu suglasnost ministra financija, ako je takvu ovlast ministar financija dobio od Sabora odnosno od Vlade i po postupku utvrđenom ovom Uredbom.
+(2) Ministar financija može, prema uvjetima iz stavka 1. ovoga članka, sukladno stajalištima Vlade, utvrditi ograničenja glede preuzimanja budućih obveza iz članka 11. stavka 3. ove Uredbe.
