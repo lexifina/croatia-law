@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. i članka 49. stavka 1. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, broj 105/97) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93 i 29/97), Vlada Republike Hrvatske je na sjednici održanoj 30. rujna 1999. godine donijela
