@@ -1,0 +1,1 @@
+Sukladno odredbi članka 4. i 11. Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka ("Narodne novine", br. 44/94, 79/98, 19/99, 35/00) i članka 16. Statuta Agencije, Uprava Državne agencije za osiguranje štednih uloga i sanaciju banaka na svojoj 54. sjednici održanoj 12. srpnja 2000. godine donijela je
