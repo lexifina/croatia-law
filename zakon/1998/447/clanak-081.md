@@ -1,9 +1,3 @@
 # Članak 81.
-Za dobivanje odobrenja iz članka 80. stavka 2. ovoga Zakona moraju biti ispunjeni sljedeći uvjeti:
-- najmanje dva perona,
-- osvijetljene i zagrijane prostorije za boravak putnika,
-- sanitarne prostorije,
-- prometni ured,
-- mjesto za prodaju voznih karata,
-- istaknut izvod iz voznog reda,
-- javna telefonska govornica.
+Prijevoznik mora obavijestiti autobusni kolodvor gdje započinje prijevoz po voznom redu, o nemogućnosti održavanja polaska linije, odnosno o zakašnjenju duljem od 30 minuta.
+U slučaju iz stavka 1. ovoga članka autobusni koldovor mora izvijestiti sljedeće autobusne kolodvore po voznom redu.

@@ -1,7 +1,4 @@
 # Članak 46.
-Domaći prijevoznik mora obaviti prijevoz na najmanje pola od ukupnog broja godišnjih polazaka na odobrenim međunarodnim linijama, ako su linije odobrene u suradnji sa stranim prijevoznikom.
-Ako jedan od ugovornih prijevoznika suprotno stavku 1. ovoga članka ne obavlja prijevoz na odobrenoj liniji, ministarstvo će, ako se radi o:
-- domaćem prijevozniku, donijeti rješenje o poništenju dopusnice i zatražiti od stranog prijevoznika, posredstvom nadležnog tijela, zaključenje ugovora o suradnji u međunarodnom prijevozu sa drugim hrvatskim prijevoznikom;
-- stranom prijevozniku, donijeti rješenje o poništavanju dopusnice i tražiti od nadležnog tijela druge države, prijedlog novog prijevoznika koji će zaključiti ugovor o suradnji u međunarodnom prijevozu sa hrvatskim prijevoznikom.
-Domaći prijevoznik je dužan za svako tromjesečje dostavljati Ministarstvu podatke o broju obavljenih vožnji i prevezenih putnika u jednom i drugom smjeru, najkasnije u roku od 15 dana od dana isteka tromjesečja za koje se izvješće podnosi.
-2. Slobodni prijevoz putnika
+Slobodni prijevoz putnika u unutarnjem i međunarodnom prometu je prijevoz unaprijed poznate grupe putnika, bez usputnog ulaska i izlaska putnika, za koji se relacija, cijena prijevoza i drugi uvjeti utvrđuju ugovorom između prijevoznika i naručitelja prijevoza.
+Prijevoz iz stavka 1. ovoga članka može se obavljati kao povremeni i naizmjenični.
+Slobodni prijevoz putnika je i taksi prijevoz, prijevoz cestovnim vlakom i zaprežnim vozilima u turističke svrhe.

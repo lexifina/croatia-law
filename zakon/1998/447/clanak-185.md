@@ -1,3 +1,0 @@
-# Članak 185.
-Pravne i fizičke osobe kojima je obavljanje javnog cestovnog prijevoza u unutarnjem cestovnom prometu odobreno do stupanja na snagu ovoga Zakona, uskladit će poslovanje s odredbama ovoga Zakona i propisa donijetih na temelju njega u roku od jedne godine od dana stupanja na snagu ovoga Zakona.
-Pravne i fizičke osobe koje u roku iz stavka 1. ovoga članka ne usklade poslovanje s odredbama ovoga Zakona, prestaju s obavljanjem javnog cestovnog prijevoza u unutarnjem cestovnom prometu istekom roka iz stavka 1. ovoga članka, što će rješenjem utvrditi nadležno tijelo uprave iz članka 6. ovoga Zakona, ovisno o vrsti djelatnosti.

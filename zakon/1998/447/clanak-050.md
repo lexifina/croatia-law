@@ -1,4 +1,3 @@
 # Članak 50.
-Pri obavljanju slobodnog prijevoza putnika u autobusu se mora nalaziti ispravno i točno popunjen putni list potpisan od prijevoznika.
-Ako se radi o međunarodnom prijevozu, prijevoznik mora imati putni list ovjerovljen i od nadležne carinske službe Republike Hrvatske (u daljnjem tekstu: Carinska uprava).
-Obrazac putnog lista i način vođenja propisuje ministar, osim ako međunarodnim ugovorom nije drukčije utvrđeno.
+Slobodni prijevoz putnika u međunarodnom cestovnom prometu (povremeni i naizmjenični) iz članka 47. točke c. i d. i članka 48. ovoga Zakona, strani prijevoznik može obavljati na temelju dozvole za slobodni prijevoz putnika u cestovnom prometu, a prijevoz iz članka 47. točke a. i b. ovoga Zakona može obavljati bez dozvole, ako međunarodnim ugovorom nije drukčije određeno.
+Dozvole iz stavka 1. ovoga članka izdaje Ministarstvo.

@@ -1,4 +1,3 @@
 # Članak 99.
-Putnik ima pravo odustati od ugovora prije nego što započne njegova provedba.
-Prijevoznik je dužan vratiti putniku naknadu za prijevoz ako putnik odustane od putovanja i to u unutarnjem prijevozu najkasnije dva sata prije početka putovanja, a u međunarodnom prijevozu najkasnije šest sati prije početka putovanja.
-Odustane li putnik od putovanja uz uvjete iz stavka 1. ovoga članka, prijevoznik može zadržati najviše 10% od naknade za prijevoz.
+Pravne i fizičke osobe kojima je obavljanje javnog cestovnog prijevoza u unutarnjem cestovnom prometu odobreno do stupanja na snagu Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 36/98.), uskladit će poslovanje s odredbama toga Zakona i propisa donijetih na temelju njega u roku od jedne godine od dana stupanja na snagu Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 36/98.).
+Pravne i fizičke osobe koje u roku iz stavka 1. ovoga članka ne usklade poslovanje s odredbama Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 36/98.), prestaju s obavljanjem javnog cestovnog prijevoza u unutarnjem cestovnom prometu istekom roka iz stavka 1. ovoga članka, što će rješenjem utvrditi nadležno tijelo uprave iz članka 6. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 36/98.), ovisno o vrsti djelatnosti.

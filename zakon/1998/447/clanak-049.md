@@ -1,3 +1,4 @@
 # Članak 49.
-Naizmjenični prijevoz u smislu ovoga Zakona je prijevoz prethodno organiziranih grupa putnika u više putovanja, s istog polazišta do istog odredišta.
-Svaka grupa putnika koja je obavila putovanje u odlasku vraća se na polazište nekom kasnijom vožnjom. Prva vožnja u povratku i posljednja u odlasku obavlja se praznim vozilom.
+Pri obavljanju slobodnog prijevoza putnika u autobusu se mora nalaziti ispravno i točno popunjen putni list potpisan od prijevoznika.
+Ako se radi o međunarodnom prijevozu, prijevoznik mora imati putni list ovjerovljen i od nadležne carinske službe Republike Hrvatske (u daljnjem tekstu: Carinska uprava).
+Obrazac putnog lista i način vođenja propisuje ministar, osim ako međunarodnim ugovorom nije drukčije utvrđeno.

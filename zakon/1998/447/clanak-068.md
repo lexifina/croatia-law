@@ -1,5 +1,3 @@
 # Članak 68.
-Međunarodni slobodni prijevoz tereta obavlja se na temelju dopusnice za međunarodni slobodni prijevoz tereta, ukoliko međunarodnim ugovorom nije određeno da se prijevoz obavlja bez dopusnice.
-Ministarstvo utvrđuje i razmjenjuje potrebni broj dopusnica za jednu godinu, s nadležnim tijelima drugih država.
-Raspodjelu stranih dopusnica domaćim prijevoznicima obavlja Ministarstvo.
-Mjerila i način raspodjele dopusnica iz stavka 1. ovoga članka, propisuje ministar.
+Prilikom obavljanja prijevoza osoba za vlastite potrebe autobusom, osobe koje se prevoze moraju imati identifikacijske isprave, izdane od strane onoga koji obavlja prijevoz za vlastite potrebe, odnosno dokaz o uplati turističke usluge u koji je uračunata naknada za prijevoz, kad se prijevoz obavlja poradi uslužnih potreba u okviru djelatnosti.
+Prilikom međunarodnog prijevoza osoba za vlastite potrebe, osim identifikacijskih isprava ili dokaza o uplati turističke usluge, u vozilu se mora nalaziti putni list iz članka 49. stavka 1. ovoga Zakona.

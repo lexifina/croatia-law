@@ -1,2 +1,2 @@
 # Članak 104.
-Za štetu koja nastane zbog zakašnjenja, prekida ili neizvršenja prijevoza, prijevoznik nije odgovoran, ako dokaže da do zakašnjenja, prekida odnosno neizvršenja, nije došlo namjerno ili grubom nepažnjom.
+Od dana pristupanja Republike Hrvatske u članstvo Svjetske trgovinske organizacije, neće se primjenjivati načelo uzajamnosti iz članka 19. ovoga Zakona na zemlje članice Svjetske trgovinske organizacije.

@@ -1,2 +1,2 @@
 # Članak 78.
-Za strano vozilo registrirano u državi u kojoj visina naknade za ceste nije odgovarajuća visini naknade za ceste utvrđene propisom iz članka 76. stavka 4. ovoga Zakona, Ministarstvo može uskladiti naknadu do odgovarajućeg iznosa.
+Autobusni kolodvor može prihvaćati i otpremati autobuse u javnom slobodnom prijevozu u skladu s raspoloživim brojem posebnih perona za ovu namjenu, koji moraju biti posebno označeni.

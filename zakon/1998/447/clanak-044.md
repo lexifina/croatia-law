@@ -1,3 +1,4 @@
 # Članak 44.
-Međunarodni linijski prijevoz između Republike Hrvatske i drugih država i tranzitni linijski prijevoz preko teritorija Republike Hrvatske uspostavlja se u skladu s međunarodnim ugovorima, a na temelju prethodne suglasnosti ministarstva i nadležnih tijela drugih država.
-Prijevoz iz stavka 1. ovoga članka obavlja se na temelju dopusnice koju izdaje Ministarstvo.
+Dozvola iz članka 43. ovoga Zakona izdaje se na zahtjev zainteresiranoga domaćeg ili stranog prijevoznika.
+Zahtjev iz stavka 1. ovoga članka podnosi se Ministarstvu. Uz zahtjev se prilažu vozni red i drugi prilozi predviđeni međunarodnim ugovorom.
+Strani prijevoznik podnosi zahtjev za izdavanje dozvole putem nadležnog tijela države u kojoj je vozilo registrirano.

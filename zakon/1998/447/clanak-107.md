@@ -1,3 +1,4 @@
 # Članak 107.
-Prijevoznik mora na zahtjev putnika primiti na prijevoz najviše dva komada prtljage i uz naknadu je prevesti.
-Za primljenu prtljagu prijevoznik mora putniku ispostaviti pisanu potvrdu.
+Pravne i fizičke osobe koje obavljaju djelatnosti iz članka 1. ovoga Zakona uskladit će svoje poslovanje s odredbama Zakona o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 83/02.) u roku od dvije godine od dana stupanja na snagu toga Zakona.
+Pravne i fizičke osobe koje ne usklade svoje poslovanje sukladno stavku 1. ovoga članka prestaju s obavljanjem djelatnosti, što će rješenjem utvrditi Ministarstvo, odnosno ured državne uprave u županiji, odnosno upravno tijelo Grada Zagreba nadležni za poslove prometa.
+Prijevoznici koji na dan stupanja na snagu Zakona o izmjenama i dopunama Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 83/02.) obavljaju najmanje pet godina djelatnosti javnog cestovnog prijevoza, ne moraju ispunjavati uvjet iz članka 13. stavka 1. točke 1. ovoga Zakona.

@@ -1,3 +1,2 @@
 # Članak 59.
-Za vrijeme obavljanja prijevoza tereta prijevoznik mora u vozilu imati teretni list.
-1. Linijski prijevoz tereta
+Slobodni prijevoz tereta (u daljnjem tekstu: slobodni prijevoz) je prijevoz tereta za koji se relacija, cijena prijevoza i drugi uvjeti utvrđuju ugovorom između prijevoznika i naručitelja prijevoza.

@@ -1,3 +1,4 @@
 # Članak 69.
-Ako je strani prijevoznik iz države s kojom Republika Hrvatska nije sklopila ugovor o međunarodnom prijevozu, Carinska uprava izdaje mu posebnu dopusnicu za prijevoz tereta.
-Izvješće o izdanim dopusnicama iz stavka 1. ovoga članka, Carinska uprava dostavlja Ministarstvu do desetoga u mjesecu, za protekli mjesec.
+Prilikom obavljanja prijevoza tereta za vlastite potrebe vozilom iznad 3,5 tona najveće dopuštene mase u vozilu se mora nalaziti:
+- teretni list i
+- dokaz iz kojeg se može utvrditi da se radi o prijevozu iz članka 67. stavka 1. ovoga Zakona.

@@ -1,2 +1,4 @@
+## V. PRIJEVOZ ZA VLASTITE POTREBE
 # Članak 67.
-Slobodni prijevoz tereta (u daljnjem tekstu: slobodni prijevoz) je prijevoz tereta za koji se relacija, cijena prijevoza i drugi uvjeti utvrđuju ugovorom između prijevoznika i naručitelja prijevoza.
+Pravne ili fizičke osobe moraju obavljati prijevoz vozilima koja udovoljavaju propisu iz članka 8. stavka 1. ovoga Zakona.
+Vozila koja se koriste za prijevoz za vlastite potrebe moraju biti u vlasništvu ili zakupu pravne ili fizičke osobe koja obavlja prijevoz za vlastite potrebe.

@@ -1,6 +1,3 @@
 # Članak 48.
-Povremeni prijevoz u smislu ovoga Zakona je:
-a) "kružna vožnja" zatvorenih vrata (izletnička vožnja, turističko putovanje i sl.), koje počinje i završava u mjestu polaska, pri čemu se ista grupa putnika prevozi istim autobusom na cijelom putu,
-b) prijevoz koji se sastoji od putovanja punog vozila u odlasku i putovanja praznog vozila u povratku,
-c) prijevoz koji se sastoji od putovanja praznog vozila u odlasku i putovanja punog vozila u povratku,
-d) ostali povremeni prijevozi.
+Naizmjenični prijevoz u smislu ovoga Zakona je prijevoz prethodno organiziranih grupa putnika u više putovanja, s istog polazišta do istog odredišta.
+Svaka grupa putnika koja je obavila putovanje u odlasku vraća se na polazište nekom kasnijom vožnjom. Prva vožnja u povratku i posljednja u odlasku obavlja se praznim vozilom.

@@ -1,3 +1,7 @@
+## VI. NAKNADA ZA CESTE
 # Članak 70.
-Ako strani prijevoznik obavlja međunarodni prijevoz tereta vučnim i priključnim vozilom (skup vozila), različitih država registracije, za svako od tih vozila mora imati dopusnicu iz članka 68. ovoga Zakona.
-Dopusnicu za prijevoz tereta, ispravno popunjenu i ovjerovljenu od Carinske uprave, strani prijevoznik mora imati u vozilu za vrijeme prijevoza te za vrijeme prazne vožnje koja je u svezi s prijevozom.
+Za strano vozilo koje koristi ceste u Republici Hrvatskoj, osim za vozilo kojim se obavlja izvanredni prijevoz, plaća se naknada za ceste, ako međunarodnim ugovorom nije drukčije određeno.
+Za strano vozilo kojim se obavlja izvanredni prijevoz, umjesto naknade iz stavka 1. ovoga članka, plaća se naknada prema posebnom propisu.
+Naknadu za ceste iz stavka 1. ovoga članka uplaćuje se na račun državnog proračuna.
+Naknadu za ceste iz stavka 1. ovoga članka naplaćuje Carinska uprava.
+Ministar propisuje visinu i način plaćanja te povrat više naplaćene naknade iz stavka 1. ovoga članka.

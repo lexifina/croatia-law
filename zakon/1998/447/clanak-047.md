@@ -1,4 +1,6 @@
 # Članak 47.
-Slobodni prijevoz putnika u unutarnjem i međunarodnom prometu je prijevoz unaprijed poznate grupe putnika, bez usputnog ulaska i izlaska putnika, za koji se ralacija, cijena prijevoza i drugi uvjeti utvrđuju ugovorom između prijevoznika i naručitelja prijevoza.
-Prijevoz iz stavka 1. ovoga članka može se obavljati kao povremeni i naizmjenični.
-Slobodni prijevoz putnika je i taksi prijevoz, prijevoz cestovnim vlakom i zaprečnim vozilima u turističke svrhe.
+Povremeni prijevoz u smislu ovoga Zakona je:
+a) »kružna vožnja« zatvorenih vrata (izletnička vožnja, turističko putovanje i sl.), koje počinje i završava u mjestu polaska, pri čemu se ista grupa putnika prevozi istim autobusom na cijelom putu,
+b) prijevoz koji se sastoji od putovanja punog vozila u odlasku i putovanja praznog vozila u povratku,
+c) prijevoz koji se sastoji od putovanja praznog vozila u odlasku i putovanja punog vozila u povratku,
+d) ostali povremeni prijevozi.

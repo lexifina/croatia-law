@@ -1,3 +1,3 @@
 # Članak 55.
-Autotaksi prijevoz obavlja se unutar područja i sa područja one jedinice lokalne samouprave gdje autotaksi prijevoznik ima sjedište.
-Propisom iz članka 54. stavka 1., može se urediti pod kojim uvjetima je autotaksi prijevoz dozvoljen prijevoznicima sa sjedištem izvan područja jedinice lokalne samouprave.
+Vozač autotaksi vozila mora imati položen ispit o poznavanju osnovnih podataka o kulturnim, gospodarskim, turističkim, prometnim i drugim značajnim objektima i znamenitostima na području na kojem obavlja prijevoz.
+Program ispita i način provjere znanja propisuje nadležno tijelo iz članka 53. stavka 1. ovoga Zakona.

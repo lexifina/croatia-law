@@ -1,2 +1,4 @@
 # Članak 62.
-Obavijest o odobrenoj liniji, te promjenama na liniji, prijevoznik je dužan dostaviti teretnim kolodvorima koje koristi na liniji, najkasnije 8 dana prije početka prijevoza.
+Za raspodjelu stranih dozvola prijevoznik plaća naknadu.
+Visinu naknade iz stavka 1. ovoga članka utvrđuje ministar.
+Komore imaju pravo na naknadu troškova postupka raspodjele stranih dozvola iz članka 60. stavka 3. ovoga Zakona. Visinu naknade troškova utvrđuju komore uz prethodnu suglasnost ministra.

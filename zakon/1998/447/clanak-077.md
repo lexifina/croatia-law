@@ -1,2 +1,3 @@
 # Članak 77.
-Naknada za ceste iz članka 76. stavka 1. ovoga Zakona, za motorno vozilo i priključno vozilo koja imaju registarske oznake različitih država, naplaćuje se u iznosima koji važe za državu u kojoj je svako od tih vozila registrirano.
+Prihvat i otprema putnika obavlja se na autobusnim kolodvorima i autobusnim stajalištima koji su u tu svrhu izgrađeni i označeni, a predviđeni su u voznom redu prijevoznika koji obavlja javni linijski prijevoz.
+U mjestu u kojem postoji kolodvor, prijevoznik koji obavlja javni linijski prijevoz dužan je koristiti se tim kolodvorom.

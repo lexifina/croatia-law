@@ -1,2 +1,3 @@
+## XI. NADZOR I INSPEKCIJA CESTOVNOG PRIJEVOZA
 # Članak 91.
-Teretni kolodvor mora biti opremljen i osposobljen za prihvat, otpremu i carinjenje svih vrsta tereta.
+Upravni nadzor nad provedbom ovoga Zakona i propisa donijetih na temelju njega, obavlja Ministarstvo.

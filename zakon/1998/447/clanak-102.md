@@ -1,3 +1,2 @@
 # Članak 102.
-Prijevoznik odgovara za štetu koja nastane zbog smrti, tjelesne ozljede ili duševne boli putnika, prouzrokovane nezgodom od početka do završetka prijevoza, te za štetu nastalu zbog kašnjenja, prekida ili neizvršenja prijevoza.
-Prijevoznik odgovara za štetu koju uzrokuju osobe koje po njegovu nalogu rade na prijevozu.
+Licence i dozvole izdane na temelju Zakona o prijevozu u međunarodnom cestovnom prometu (»Narodne novine«, br. 53/91., 26/93. i 29/94.) i propisima donesenim na temelju toga Zakona, važit će do isteka roka njihova važenja.
