@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu ("Narodne novine", broj 18/92, 33/92 i 83/92), Vlada Republike Hrvatske je na sjednici održanoj 5. ožujka 1993. godine, donijela
