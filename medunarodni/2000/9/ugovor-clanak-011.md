@@ -1,0 +1,9 @@
+# Članak 11.
+1) Postojat će pravedna i jednaka prilika za svakog određenog zračnog prijevoznika svake ugovorne stranke, da obavlja zračni promet na navedenim linijama između teritorija ugovornih stranaka. Zračni promet kojeg će obavljati određeni zračni prijevoznici ugovornih stranaka uzimat će u obzir potrebe javnosti za prijevozom na navedenim linijama između njihovih teritorija. Da bi se postiglo pravedno i jednako postupanje, ugovorne stranke će se pravodobno dogovoriti o učestalosti njihovih planiranih letova, vrsti zrakoplova koji će se koristiti, te o redovima letenja.
+2) Dogovoreni redovi letenja dostavit će se na odobrenje obim zrakoplovnim vlastima najmanje 45 dana prije namjeravanog datuma njihove primjene. Ova odredba jednako će se primijeniti i na kasnije izmjene. Za dodatne letove izvan odobrenih redova letenja, određeni zračni prijevoznik će zatražiti prethodnu dozvolu od zrakoplovnih vlasti druge ugovorne stranke najmanje dva radna dana prije obavljanja takvih letova.
+3) Ako određeni zračni prijevoznici ne bi mogli u razumnom roku postići sporazum glede gore navedenih redova letenja, obje zrakoplovne vlasti će nastojati riješiti nesuglasicu. Redovi letenja utvrđeni za jednu sezonu prema ovom članku, ostat će na snazi za tu sezonu, dok se ne utvrde novi redovi letenja prema ovom članku.
+4) Prijevoz putnika i/ili tereta, uključivši poštu, koji su ukrcani i iskrcani na točkama navedenih linija koje su locirane na teritoriju trećih zemalja vršit će se u skladu sa općim načelima na takav način da je kapacitet vezan uz:
+a) potrebe prometa u i iz teritorija ugovorne stranke koja je odredila zračnog prijevoznika,
+b) potrebe prometa koje postoje u područjima kroz koja prolazi zračna linija, uzevši u obzir lokalne i regionalne letove,
+c) zahtjeve cjelokupnog zračnog prometa.
+CODE SHARING

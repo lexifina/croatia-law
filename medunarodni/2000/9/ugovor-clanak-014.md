@@ -1,0 +1,4 @@
+# Članak 14.
+1) Određeni zračni prijevoznik jedne ugovorne stranke imat će pravo kao i zračni prijevoznik druge ugovorne stranke, da u skladu sa zakonima i pravnim propisima koji su na snazi na teritoriju druge ugovorne stranke zaposli svoje administrativno, komercijalno i tehničko osoblje koje je potrebito za pružanje usluga u zračnom prometu.
+2) Ovisno o ovlaštenjima u skladu sa zakonima i pravnim propisima koji se primjenjuju na teritoriju jedne ugovorne stranke, određeni zračni prijevoznik druge ugovorne stranke moći će vršiti prodaju svojih usluga prijevoza na teritoriju prve ugovorne stranke i to ili neposredno ili putem predstavnika, u lokalnoj valuti ili bilo kojoj drugoj konvertibilnoj valuti koju prihvaćaju banke na tom teritoriju, te reklamirati prodaju na teritoriju druge ugovorne stranke.
+DOZNAKA PRIHODA
