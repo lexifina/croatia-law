@@ -1,0 +1,10 @@
+# Članak 15.
+(1) Ukoliko se na temelju ovog Sporazuma prema mjerilu nacionalnog prava priopćuju podaci koji se odnose na osobe, vrijede sljedeće odredbe:
+1. Uporaba podataka je primatelju dopuštena samo u navedenu svrhu i prema uvjetima koje je propisala ugovorna stranka koja ih priopćuje.
+2. Primatelj izvješćuje ugovornu stranku koja priopćuje na molbu o korištenju priopćenih podataka i o rezultatima koji su time postignuti.
+3. Podaci koji se odnose na osobe smiju se priopćiti isključivo nadležnim tijelima. Daljnje priopćavanje na druga mjesta smije uslijediti samo uz prethodnu suglasnost tijela koje priopćuje.
+4. Ugovorna stranka koja priopćuje obavezna je paziti na točnost podataka koje treba priopćiti i na nužnost i razmjernost u odnosu na cilj koji se želi ostvariti tim priopćavanjem. Pri tome treba paziti na zabrane priopćavanja koje vrijede prema dotičnom nacionalnom pravu. Ako se pokaže, da su bili priopćeni netočni podaci ili podaci koji se nisu smjeli priopćiti, treba to neodložno javiti primatelju. On je dužan obaviti ispravak ili poništenje.
+5. Osobi o kojoj se radi treba pružiti obavijest na njen zahtjev o podacima koji postoje o njenoj osobi te o predviđenoj svrsi korištenja. Ne postoji obaveza davanja obavijesti, ukoliko dođe do prosudbe da javni interes da se obavijest ne pruži preteže nad interesom dotične osobe da dobije obavijest. U ostalim slučajevima se pravo dotične osobe da dobije obavijest o podacima koji postoje o njenoj osobi ravna prema nacionalnom pravu ugovorne stranke na čijem teritoriju je obavijest zatražena.
+6. Ugovorna stranka koja priopćuje ukazuje pri priopćavanju na rokove brisanja koji vrijede prema njegovom pravu. Neovisno o tim rokovima treba, nakon što nestane potreba, izbrisati priopćene podatke koji se odnose na osobu.
+7. Ugovorne stranke su dužne priopćavanje i prijem podataka koji se odnose na osobu obaviti uz službeni protokol.
+8. Ugovorne stranke su dužne djelotvorno čuvati priopćene podatke koji se odnose na osobu od neovlaštenog pristupa, neovlaštenog mijenjanja i neovlaštenog objavljivanja.

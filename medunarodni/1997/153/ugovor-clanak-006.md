@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Dozvole izdane prema članku 3. stavku 3., članku 4. stavku 3., te članku 5. stavku 3. i 4. može upotrebljavati samo onaj prijevoznik kojemu su izdane. Dozvola se ne smije prenositi niti na nekog drugog prijevoznika, niti, u slučaju povremene vožnje, koristiti za druga motorna vozila osim onih koja su navedena u dozvoli. U okviru linijskog prijevoza može prijevoznik kojemu je izdana dozvola angažirati ugovorne prijevoznike iz država ugovornih stranaka. Ovi ne trebaju biti navedeni u dozvoli, ali moraju sa sobom nositi original dozvole ili njezinu kopiju koju je ovjerilo nadležno tijelo ugovorne stranke koja ju je izdala.
+(2) Dozvole, kontrolne isprave ili ostale prijevozne dokumente koji su potrebni prema ovom Sporazumu treba nositi sa sobom u vozilu kod svih vožnji koje su regulirane ovim Sporazumom, te ih na zahtjev predstavnika nadležnih nadzornih tijela treba pokazati.
+Prijevoz stvari
