@@ -1,0 +1,2 @@
+# Članak 49.
+Predujam poreza na dohodak po osnovi povrata doprinosa prema članku 33. ovoga Zakona obračunava, obustavlja i uplaćuje Porezna uprava nadležna prema mjestu prebivališta ili uobičajenog boravišta poreznog obveznika, kao porez po odbitku i to iz iznosa vraćenih doprinosa za obvezno mirovinsko osiguranje na temelju generacijske solidarnosti prema Zakonu o doprinosima za obvezna osiguranja, po stopi od 45% bez priznavanja osobnog odbitka iz članka 36. ovoga Zakona.

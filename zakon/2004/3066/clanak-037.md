@@ -1,0 +1,9 @@
+# Članak 37.
+(1) Porez na dohodak za koji se podnosi godišnja porezna prijava obračunava se godišnje.
+(2) Porez na dohodak obračunava se po stopi od 15% od godišnje porezne osnovice do visine dvostrukog iznosa osnovnoga osobnog odbitka, po stopi od 25% na razliku godišnje porezne osnovice između dvostrukog i peterostrukog iznosa osnovnog osobnoga odbitka, po stopi od 35% na razliku godišnje porezne osnovice između peterostrukog i 14-erostrukog iznosa osnovnoga osobnog odbitka i po stopi od 45% na iznos porezne osnovice koji prelazi iznos 14-erostrukog osnovnoga osobnog odbitka.
+(3) Godišnji porez na dohodak utvrđuje se prema poreznoj osnovici iz članka 6. ovoga Zakona, a od utvrđenoga godišnjeg poreza odbijaju se iznosi plaćenog predujma poreza po svim iskazanim dohocima prema članku 5. ovoga Zakona te utvrđuje razlika za uplatu ili povrat poreza.
+(4) Ako je rezident ostvario dohodak u inozemstvu (inozemni dohodak) i ako je taj dohodak oporezivan u inozemstvu porezom koji odgovara tuzemnom porezu na dohodak, porez plaćen u inozemstvu uračunava se na propisani način u tuzemni porez na dohodak.
+(5) Obveznicima poreza na dohodak porez se utvrđuje poreznim rješenjem.
+(6) Porez na dohodak po godišnjoj poreznoj prijavi plaća se u roku od 15 dana od dana dostave rješenja poreznom obvezniku.
+(7) Ako je porezni obveznik tijekom poreznog razdoblja platio veći predujam od poreza na dohodak utvrđenog rješenjem, više plaćeni porez vraća se poreznom obvezniku. Iznimno, poreznim obveznicima koji ostvaruju dohodak od samostalne djelatnosti iz članka 18. ovoga Zakona i poreznim obveznicima koji dohodak utvrđuju na način propisan za samostalne djelatnosti prema člancima 19. - 24. ovoga Zakona, više plaćeni porez vraća se na njihov zahtjev ili im se uračunava u predujam za iduće razdoblje.
+1.2. Utvrđivanje godišnjeg poreza na dohodak od nesamostalnog rada

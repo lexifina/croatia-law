@@ -1,0 +1,8 @@
+# Članak 54.
+(1) Rezidentima koji imaju prebivalište i borave na područjima posebne državne skrbi i brdsko-planinskim područjima utvrđenim posebnim zakonima, iznimno od članka 36. stavka 1. ovoga Zakona, osnovni osobni odbitak utvrđuje se u visini:
+1. 3.840,00 kuna mjesečno, za porezne obveznike koji imaju prebivalište i borave na području posebne državne skrbi prve skupine,
+2. 3.200,00 kuna mjesečno, za porezne obveznike koji imaju prebivalište i borave na području posebne državne skrbi druge skupine,
+3. 2.400,00 kuna mjesečno, za porezne obveznike koji imaju prebivalište i borave na području posebne državne skrbi treće skupine i brdsko-planinskim područjima.
+(2) Rezidentima se osobni odbitak za uzdržavane članove uže obitelji i djecu utvrđuje prema osnovnom osobnom odbitku iz stavka 1. ovoga članka primjenom faktora iz članka 36. stavka 2. točke 1. i 2. ovoga članka, ako ti članovi uže obitelji i djeca imaju prebivalište i borave na područjima posebne državne skrbi ili imaju prebivalište i borave na brdsko-planinskim područjima.
+(3) Rezidentima se osobni odbitak za vlastitu invalidnost i/ili invalidnost uzdržavanih članova uže obitelji i/ili djece, ako imaju prebivalište i borave na područjima posebne državne skrbi ili ako imaju prebivalište i borave na brdsko-planinskim područjima, utvrđuje prema osnovnom osobnom odbitku iz stavka 1. ovoga članka primjenom faktora iz članka 36. stavka 2. točke 3. i 4. ovoga Zakona.
+(4) Osobni odbitak prema stavku 1., 2. i 3. ovoga članka priznaje se u godišnjem obračunu poreza na dohodak na temelju podnesene godišnje porezne prijave, a tijekom poreznog razdoblja pri utvrđivanju predujma dohotka od nesamostalnog rada priznaje se osobni odbitak iz članka 36. stavka 1. i 2. ovoga Zakona.
