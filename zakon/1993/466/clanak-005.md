@@ -1,0 +1,2 @@
+# Članak 5.
+Članak 88. mijenja se i glasi: "Sredstva za financiranje javnih potreba iz članka 87. stavka 2. ovoga Zakona izdvajaju se iz državnog proračuna na račun Ministarstva kulture i prosvjete koje raspolaže tim sredstvima za srednje školstvo. U državnom proračunu osiguravaju se i dodatna sredstva za javne potrebe srednjeg školovanja pripadnika etničkih i nacionalnih zajednica ili manjina, te sredstva za dodatne troškove srednjeg školstva županijama koje na svom području imaju kotareve s posebnim samoupravnim položajem".
