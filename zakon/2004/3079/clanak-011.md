@@ -1,0 +1,28 @@
+# Članak 11.
+Članak 15. mijenja se i glasi:
+»Energetske djelatnosti, u smislu ovoga Zakona, su:
+1. proizvodnja električne energije,
+2. prijenos električne energije,
+3. distribucija električne energije,
+4. opskrba električnom energijom,
+5. organiziranje tržišta električnom energijom,
+6. dobava prirodnog plina,
+7. skladištenje prirodnog plina,
+8. transport prirodnog plina,
+9. distribucija prirodnog plina,
+10. opskrba prirodnim plinom,
+11. proizvodnja naftnih derivata,
+12. proizvodnja biogoriva,
+13. transport nafte, naftovodima i drugim nespomenutim oblicima transporta iz točke 15. ovoga članka,
+14. transport naftnih derivata produktovodima i drugim nespomenutim oblicima transporta iz točke 15. ovoga članka,
+15. transport nafte, naftnih derivata i biogoriva cestovnim vozilom,
+16. trgovina na veliko naftnim derivatima,
+17. trgovina na malo naftnim derivatima,
+18. skladištenje nafte i naftnih derivata,
+19. proizvodnja toplinske energije,
+20. distribucija toplinske energije,
+21. opskrba toplinskom energijom,
+22. trgovanje, posredovanje i zastupanje na tržištu energije,
+23. transport i skladištenje ukapljenoga prirodnog plina (UPP),
+24. trgovina na veliko i malo ukapljenim naftnim plinom (UNP),
+25. trgovina na veliko ukapljenim prirodnim plinom.«
