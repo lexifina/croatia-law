@@ -1,0 +1,1 @@
+Uredba o ovlaštenju Upravnom odboru Službe društvenog knjigovodstva Hrvatske da donese Zaključni račun Službe društvenog knjigovodstva Hrvatske nakon prestanka važenja Zakona o Službi društvenog knjig
