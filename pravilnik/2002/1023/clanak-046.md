@@ -1,0 +1,3 @@
+# Članak 46.
+Davatelj usluga certificiranja koji izdaje kvalificirane certifikate mora sustav certificiranja i informacijski sustav uskladiti sa zahtjevima sigurnosti djelovanja informacijskih sustava sukladno obrascu ISO/IEC 17799:2000 (Code of Practice for Information Security Management) te BS 7799-2:1999 (British Standard for Information Security Management - Specification for Information Security Mnagement System).
+Sustav certificiranja mora sadržavati odvojene radne skupine pri čemu osoblje koje radi na poslovima upravljanja računalnim sustavom ne može raditi poslove izdavanja i opoziva certifikata.

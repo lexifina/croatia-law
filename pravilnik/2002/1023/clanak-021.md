@@ -1,0 +1,3 @@
+# Članak 21.
+Davatelj usluga certificiranja koji izdaje kvalificirane certifikate mora opremu za ovjeru i djelovanje sustava certificiranja uskladiti s tehničkim standardom FIPS 140-1 (gornje razine) odnosno s utvrđenim zajedničkim obrascem zaštite programsko-tehničke i informatičke opreme i sustava »Common Criteria 2.1« temeljenom na ISO 15408-1:1999 normi.
+Davatelj usluga certificiranja koji izdaje kvalificirane certifikate mora postupke i oblike zaštite sustava za cijelo vrijeme pružanja usluga certificiranja usklađivati s trenutno važećim preporukama i normama u području zaštite i sigurnosti djelovanja informatičkih sredstava i sustava.

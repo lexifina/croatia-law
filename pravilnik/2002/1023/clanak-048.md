@@ -1,0 +1,3 @@
+# Članak 48.
+Davatelj usluga certificiranja mora podatke za izradu svog elektroničkog potpisa čuvati u najmanje dva primjerka na odvojenim lokacijama u za to namjenski uređenom prostoru zaštićenom od oštećivanja u slučaju požara, poplave i drugih štetnih utjecaja, te osigurati razdvajanje osnovnog skupa podataka za izradu elektroničkog potpisa u najmanje dva dijela.
+Raspoloživost podataka za izradu naprednog elektroničkog potpisa davatelja usluga certificiran ja koji izdaje kvalificirane certifikate mora biti jednokratna i to za vrijeme izrade elektroničkog potpisa i mora prestati nakon svake izrade elektroničkog potpisa.

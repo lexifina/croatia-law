@@ -1,0 +1,4 @@
+# Članak 7.
+Kod izrade naprednog elektroničkog potpisa kada se primjenjuje sustav dva (par) kriptografska ključa, dužina ključa za izradu naprednog elektroničkog potpisa mora biti dužine najmanje 1024 bita, uz primjenu kriptografskih algoritama iz klase RSA/DSA i usklađeno s međunarodnim standardom PKCS#1 (Verzija 2.1 na više).
+Kriptografski moduli moraju se temeljiti na algoritmima i parametrima koji tvore radno okruženje izrade naprednog elektroničkog potpisa sukladno trenutno važećim obrascima ugrađenim u dokument Algorithms and Paramaters for Secure Electronic Signatures (verzija 2.1, 2001-10) kojega za potrebe Europske unije izrađuje EESSI/SG (European Electronic Signatures Standardisation Inititiative/Steering Group).
+Kod ugrađivanja kriptografskih algoritama u sredstvo za izradu naprednog elektroničkog potpisa potrebno je osigurati modularnost kojom se omogućava naknadna ugradnja novih algoritama.

@@ -1,0 +1,3 @@
+# Članak 40.
+Davatelj usluga certificiranja ne smije pružati povjerljive podatke osim u slučajevima kada to traži sud ili državno odvjetništvo.
+Osoba koja kod davatelja usluga certificiranja provodi provjeru rada sustava certificiranja ima pravo uvida u povjerljive podatke izuzev u kriptografske podatke (podaci za izradu i ovjeru elektroničkog potpisa davatelja usluga certificiranja) ali ih ne smije iznositi izvan sustava niti objavljivati u izvješćima. Ugovorom se dodatno obvezuje na držanje u potpunoj tajnosti povjerljivih podataka u koje je imao uvid za vrijeme postupaka provjere rada sustava certificiranja.
