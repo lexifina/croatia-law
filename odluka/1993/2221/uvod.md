@@ -1,0 +1,1 @@
+Na temelju članka 58. stavak 1. Zakona o bankama i štedionicama ("Narodne novine", br. 94/93.) i članka 67. stavak 1. točka 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine", broj 74/92, 26/93. i 79/93.), Savjet Narodne banke Hrvatske donosi
