@@ -1,0 +1,2 @@
+# Članak 4.
+Pravne i fizičke osobe koje proizvode ili stavljaju u promet namirnice i sredstva za održavanje osobne higijene dužne su osigurati dostatan broj kompleta radne odjeće i obuće za sve uposlene osobe. Za svaku uposlenu osobu koja sudjeluje u proizvodnji i prometu namirnica ili sredstava iz stavka 1. ovog članka potrebno je osigurati najmanje 3 kompleta radne odjeće i obuće izrađene po mjeri osobe koja će je nositi i to prilagođene godišnjem dobu.
