@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za t993. godinu ("Narodne novirne", br 25/93), Odbor za izbor, imenovanja i administrativne poslove Zastupničkog doma Sabora Republike Hrvatske, na sjednici 5. listopada 1993, donio je
