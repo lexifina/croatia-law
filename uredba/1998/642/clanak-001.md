@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom propisuje postupak utvrđivanja sukladnosti odluka donesenih u predmetima sudbene naravi na područjima Republike Hrvatske koja su bila pod zaštitom ili upravom Ujedinjenih naroda i postupak za utvrđivanje da su odluke u predmetima sudbene naravi protivne Ustavu Republike Hrvatske, Ustavnom zakonu o ljudskim pravima i slobodama i o pravima etničkih i nacionalnih zajednica ili manjina u Republici Hrvatskoj ili zakonima Republike Hrvatske (u daljnjem tekstu: Ustav, Ustavni zakon, zakon).
