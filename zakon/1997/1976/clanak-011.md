@@ -1,4 +1,4 @@
 ## X. POSTUPOVNE ODREDBE
 # Članak 11.
-(1) Glede žalbenog postupka, obnove postupka, zastare, obračunavanja, naplate i povrata poreza te vođenja prekršajnog postupka primjenjuju se odredbe Zakona o porezu na dohodak ("Narodne novine", br. 109/93., 95/94., 25/95. - pročišćeni tekst, 52/95. i 106/96.).
-(2) Iznimno, od odredbi stavka 1. ovoga članka, u postupku naknadnog obračuna posebnog poreza na proizvode iz članka 1. stavka 1. ovoga Zakona, carinarnica će postupiti u skladu s odredbama Carinskog zakona koje propisuju postupak naknadnog obračuna carine i donošenja rješenja o naplati i vraćanju carine koja nije bila obračunata ili je obračunata u manjoj ili većoj svoti od propisane.
+(1) Glede žalbenog postupka, obnove postupka, zastare, obračunavanja, naplate i povrata poreza te vođenja prekršajnog postupka primjenjuju se odredbe Općega poreznog zakona.
+(2) Iznimno od odredbe stavka 1. ovoga članka na proizvode iz članka 1. stavka 1. ovoga Zakona koji su uvezeni te su bili predmet carinjenja primjenjuju se odredbe Carinskog zakona.
