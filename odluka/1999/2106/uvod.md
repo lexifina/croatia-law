@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96) i članaka 3. i 8. Zakona o fondu za naknadu oduzete imovine (»Narodne novine«, br. 69/97), Upravni odbor Fonda za naknadu oduzete imovine je na sjednici održanoj 9. prosinca 1999. godine donio
