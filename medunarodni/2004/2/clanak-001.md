@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Ugovor o osnivanju i radu Međunarodnog središta za razvoj migracijske politike, iz 1993., izmijenjen i produljen 1996., između Republike Austrije, koju zastupa Savezno ministarstvo unutarnjih poslova, Republike Mađarske, koju zastupa Ministarstvo unutarnjih poslova, Švicarske Konfederacije, koju zastupa Savezni ured za izbjeglice, Republike Slovenije, koju zastupa Ministarstvo unutarnjih poslova i Češke Republike, koju zastupa Ministarstvo unutarnjih poslova, sastavljen na engleskom jeziku.

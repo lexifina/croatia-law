@@ -1,0 +1,4 @@
+# Članak 1.
+Ciljevi Ugovora
+Posljednjih se godina nezakonit priliv ljudi s juga na sjever povećao pa se stanje još pogoršalo nedavnom pojavom pritjecanja ljudi s istoka na zapad. Mada u cijelosti potrebne, nacionalne mjere nadzora ulaska, nisu dovoljne da održe opseg i sastav imigracijskih tokova na razinama koje odgovaraju željama stranaka. Stoga je potrebno dati prioritet izradi i primjeni dugoročnih strategija rješavanja fenomena migracija ljudi. Te strategije imaju za cilj olakšati pravovremeno upozorenje, borbu s glavnim uzrocima, usklađivanje mjera nadzora ulaska u zemlju i usklađivanje njihovih politika prema strancima, azilantima i izbjeglicama.
+Ovaj Ugovor ima za cilj promicanje međunarodne suradnje na području migracijske politike kao i odgovarajućeg istraživanja na tom području.
