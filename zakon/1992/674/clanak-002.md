@@ -1,0 +1,2 @@
+# Članak 2.
+Devize po osnovi evidencijske devizne pozicije iz članka 4., 5., 6. i 7. Uredbe o uvjetima i načinu utvrđivanja evidencijske devizne pozicije za određene zajedničke potrebe ("Narodne novine", br. 41/91. i 63/91.) neiskorištene za plaćanje u inozemstvo do dana stupanja na snagu ovoga zakona, banke ovlaštene za poslove s inozemstvom dužne su prodati korisnicima iz članka 3. iste uredbe najkasnije do 30. lipnja 1992. godine, po tečaju Narodne banke Hrvatske na dan stupanja na snagu ovoga zakona.
