@@ -1,0 +1,1 @@
+Na temelju člana 14. stava 1. točke b) Zakona o lučkim kapetanijama i kapetanijama pristaništa ("Narodne novine", br. 24/87) i člana 67. stava 1. točke 9. Zakona o sigurnosti plovidbe na moru i unutrašnjim vodama ("Narodne novine", br. 40/78, 28/83 i 24/87), Republički komitet za pomorstvo, saobraćaj i veze, na sjednici održanoj 9. veljače 1990. godine donio je
