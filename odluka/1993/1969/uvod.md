@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 1. točaka 2. 3. 4 i.5 i članka 28 stavka 1. točaka 12., l3. i 14. Carinskog zakona ("Narodne novine", br. 53A/91, 33/92, 26/93, 60/93 i 89/93), Vlada Republlke Hrvatske je na sjednici održanoj 9. studenoga 1993. donijela
