@@ -1,0 +1,1 @@
+Na temelju članka 6. Ustavnog zakona za provedbu Ustava Republike Hrvatske, člana 35. Poslovnika Sabora Republike Hrvatske i člana 23. Zakona o utvrđivanju katastarskog prihoda ("Narodne novine", br. 44/73 i l3/88), Sabor Republike Hrvatske na sjednici Vijeća udruženog rada, 21. ožujka 1991, Vijeća općina 21. ožujka 1991. i Društveno-političkog vijeća 21 ožujka 1991, donio je
