@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom uređuju uvjeti i postupak za stjecanje prava na dopust trudnice ili žene koja doji dijete ako radi na poslovima koji ugrožavaju njezin život ili zdravlje, odnosno djetetov život ili zdravlje ili ako to zahtijeva njezino zdravstveno stanje, te način obračuna i isplate naknade plaće za korištenje tog prava.
+(2) Poslovima koji ugrožavaju život ili zdravlje trudnice smatraju se poslovi utvrđeni člankom 4. Pravilnika o poslovima na kojima ne smije raditi žena ("Narodne novine" br. 44/96), a poslovima koji ugrožavaju život ili zdravlje žene koja doji dijete, odnosno djetetov život ili zdravlje smatraju se poslovi utvrđeni člankom 5. narečenog Pravilnika.

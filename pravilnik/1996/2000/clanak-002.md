@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Trudnica ili žena koja doji dijete, a koja radi na poslovima iz članka 1. stavka 2. ovoga Pravilnika ne smije raditi na tim poslovima od dana kada poslodavcu dostavi potvrdu ovlaštenog doktora medicine specijaliste ginekologa da je trudna, odnosno specijaliste pedijatra da doji dijete.
+(2) Trudnica ili žena koja doji dijete iz stavka 1. ovog članka koja radi kod poslodavca koji zapošljava pet ili manje od pet zaposlenika, a kojoj on nije u mogućnosti osigurati raspored na druge odgovarajuće poslove, ima pravo na dopust uz naknadu plaće.
+(3) U slučaju iz stavka 2. ovoga članka poslodavac je dužan u roku od tri dana od dana primitka potvrde ovlaštenog doktora medicine iz stavka 1. ovog članka, trudnici ili ženi koja doji dijete izdati potvrdu o postojanju uvjeta za ostvarivanje prava na dopust uz naknadu plaće.
