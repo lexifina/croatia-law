@@ -1,0 +1,1 @@
+Na temelju člana 1. Uredbe o naknadama za putne i druge troškove koji se republičkim organima uprave priznaju u materijalne troškove ("Narodne novine", br. 31/85, 55/86, 14/87 i 43/87), Izvršno vijeće Sabora na sjednici održanoj 27. veljače 1990. donijelo je
