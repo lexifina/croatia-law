@@ -1,0 +1,13 @@
+# Članak 9.
+Uvozi li ili unosi korisnik carinske povlastice iz članka 27. stavak 1. točke 3. i 4. Carinskog zakona predmete gospodarskog inventara namijenjene obavljanju gospodarske ili slične djelatnosti, pored isprava iz članka 7. ovoga Pravilnika, ovlaštenoj carinarnici podnosi :
+1) po Ministarstvu financija ovjerenu listu predmeta gospodarskog inventara namijenjenih obavljanju gospodarske ili slične djelatnosti,
+2) izvodak iz sudskog registra za trgovačko društvo u koje se gospodarski inventar ulaže, odnosno akt ovlaštenog upravnog tijela o registraciji iIi odobrenju obavljanja djelatnosti za koju se predmeti toga inventara uvoze ili unose ili potvrdu Područnoga ureda Porezne uprave iz koje je vidljivo da je prihod ostvaren obavljanjem poljoprivredne djelatnosti jedini ili pretežni izvor prihoda kućanstva korisnika povlastice.
+Predmeti gospodarskoga inventara mogu se uložiti u trgovačko društvo koje je u cijelosti u vlasništvu korisnika povlastice, odnosno u dijelu ne manjem od udjela vrijednosti gospodarskoga inventara koji se uvozi uz carinsku povlasticu u temeljenonk kapitalu toga trgovačkoga društva.
+Listu predmeta gospodarskog inventara i elaborat o gospodarskoj utemeljenosti ulaganja u gospodarski inventar, koje korisnik carinske povlastice iz članka 27. stavak 1. točka 3. i 4. Carinskog zakona namjerava uvesti ili unijeti ovjerava Ministarstvo financija, po prethodno pribavljenoj suglasnosti Ministarstva gospodarstva.
+Elaborat o gospodarskoj utemeljenosti ulaganja u gospodarski inventar koji se namjerava uvesti ili unijeti uz carinsku povlasticu sadrži :
+- podatke o korisniku carinske povlastice i trgovačkome društvu ili drugom obliku obavljanja gospodarske djelatnosti,
+- okvirnu procjenu potražnje za robama koje će se proizvoditi ili uslugama koje će se obavljati, te financijskih, poreznihi drugih uvjeta poslovanja,
+- svodni tehnološki i gospodarstveni opis procesa proizvodnje odnosno poslovanja,
+- očekivani gospodarski efekti i doprinos tehnologijskom razvitku hrvatskoga gospodarstva i zapošljavanju radne snage,
+- listu predmeta gospodarskoga inventara koji se uvozi ili unosi, s naznakom njihova tarifnoga stavka prema Carinskckj tarifi, te njihove kvalitete, količine i vrijednosti.
+Ne može li se obavljanje određenih djelatnosti otpočeti prije izvršenog uvoza odnosno unosa predmeta gospodarskog inventara, korisnik povlastice podnijet će potvrdu ovlaštenog upravnog tijela o ispunjavanju propisima utvrđenih uvjeta za obavljanje određene djelatnosti, a u roku šest mjeseci od dana izvršenog uvoza dužan je podnijeti i ispravu o početku obavljanja odnosne djelatnosti.

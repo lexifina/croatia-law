@@ -1,0 +1,4 @@
+# Članak 30.
+Povlastica iz članka 28. stavak 1. točka 13. odlomak prvi Carinskog zakona primjenjuje se na predmete koji se radi zamjene dotrajalog ili uništenog dijela ugrađuju u putničko motorno vozilo dok se ono nalazi u inozemstvu, ako njihova ukupna vrijednost ne premašuje svotu propisanu za ostvarivanje te carinske povlastice.
+Povlastica iz članka 28. stavka 1 . točka 13. odlomak drugi Carinskog zakona, primjenjuje se na predmete koji se radi zamjene dotrajalog ili uništenog dijela ugraduju u cestovno motorno vozilo u javnom prometu dok se ono nalazi u inozemstvu, ako njihova ukupna vrijednost ne premašuje svotu propisanu za ostvarivanje ove carinske povlastice.
+Zamjenu dotrajalog ili uništenog dijela prema stavku 1. i 2. ovoga članka korisnik povlastice prijavljuje carinarnici usmeno. Na zahtjev uredujućega carinskoga službenika prijava se podnosi i u pisanome obliku, uz prilaganje isprava o vrsti, količini i vrijednosti ugradenih dijelova.
