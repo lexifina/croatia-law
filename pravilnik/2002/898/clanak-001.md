@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o radu i strukovnoj izobrazbi, popisu i opisu poslova zatvorenika, te naknadi za rad i nagradi (»Narodne novine«, broj 24/02.) u članku 1. iza riječi: »isplate naknade za rad i nagrade« stavlja se zarez a riječ: »te« briše se, a iza riječi: »strukovne izobrazbe« dodaju se riječi: »te o trajanju godišnjeg odmora ovisno o duljini rada za vrijeme izdržavanja kazne, uvjetima rada i složenosti poslova radnog mjesta.«.
