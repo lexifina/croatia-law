@@ -1,0 +1,2 @@
+# Članak 8.
+Kada je povreda zračnog prostora Republike Hrvatske izvršena skretanjem zrakoplova sa određenog zračnog puta ili graničnog koridora, državno tijelo nadležno za kontrolu letenja i vođenja zrakoplova će, odmah nakon saznanja za povredu, utvrditi činjenice u svezi s povredom i o tome izvijestiti Ministarstvo unutarnjih poslova te Ministarstvo vanjskih poslova. Ako je povreda zračnog prostora Republike Hrvatske izvršena na drugi način, Ministarstvo će utvrditi činjenice u svezi s povredom i o tome Izvijestiti komisiju iz članka 3. stavka 1. ovog pravilnika.

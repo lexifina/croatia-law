@@ -1,0 +1,2 @@
+# Članak 20.
+Kao da predstavnici susjedne države najave da je izvršena povreda državne granice susjedne države ili se na drugi način sazna o povredi, Ministarstvo u suradnji s hrvatskim predstavnicima u lokalnoj mješovitoj komisiji, nakon provjere najave ili saznanja, izvijestit će bez odlaganja Ministarstvo vanjskih poslova. Ministarstvo vanjskih poslova najavljuje povredu nadležnom tijelu susjedne države, kada je povreda državne granice Republike Hrvatske izvršena sa teritorija susjedne države.

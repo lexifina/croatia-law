@@ -1,0 +1,2 @@
+# Članak 6.
+Postupak za utvrđivanje povreda državne granice provodi se poradi utvrđivanja okolnosti i uzroka zbog kojih došlo do povrede državne granice i posljedica koje su pri tome nastale. Postupak za utvrđivanje povrede državne grani obuhvaća: izlazak na mjesto povrede državne granice, osguranje tragova i materijalnih dokaza značajnih za utvrđvanje povrede državne granice, sastavljanje zapisnika očevidu i poduzimanje drugih mjera potrebnih za utvrđivanje činjeničnog stanja.

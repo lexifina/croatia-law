@@ -1,0 +1,2 @@
+# Članak 17.
+Mješovite komisije rješavaju povrede državne granice na način određen međudržavnim ugovorom o utvrđivanju i rješavanju graničnih povreda. Ako međudržavnim ugovorom nije predviđeno osnivanje mješovite komisije, povrede državne granice rješava diplomatskim putem Ministarstvo vanjskih poslova, na prijedlog Ministarstva unutarnjih poslova. O rezultatu rješavanja povreda državne granice Ministarstvo vanjskih poslova izvještava Ministarstvo unutarnjih poslova.

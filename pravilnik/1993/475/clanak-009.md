@@ -1,0 +1,2 @@
+# Članak 9.
+Ministarstvo prikuplja dokaze o povredi državne granice i o posljedicama koje su nastupile, te obavlja, u suradnji s komisijom iz članlta 3. stavka 1. ovog pravilnika, očevid na mjestu na kojem je učinjena povreda državne granice, odnosno nastupila posljedica povrede državne granice. Očevid se mora obaviti kada je povodom povrede državne granice nastupila smrt ili tjelesna ozljeda osobe ili kada je nastala znatnija šteta na imovini.

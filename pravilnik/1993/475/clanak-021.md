@@ -1,0 +1,2 @@
+# Članak 21.
+Kada je međunarodnim ugovorom predviđeno osnivanje mješovite komisije za rješavanje povrede državne granice, Ministarstvo će dostaviti dokumentaciju koja je prikupljena tijekom postupka, hrvatskim predstavnicima u mješovitoj komisiji. Nakon okončanja postupka hrvatski predstavnici u mješovitoj komisiji će dokumentaciju o povredi državne granice dostaviti Ministarstvu unutarnjih poslova.

@@ -1,0 +1,2 @@
+# Članak 13.
+U slučaju potrebe naknadnog utvrđivanja činjenica i okolnosti izvršenja povrede državne granice ili ako to traži predstavnik druge države u mješovitoj komisiji, može se izvršiti rekonstrukcija povrede državne granice. Zapisnik o rekonstrukciji sadržava podatak o okolnostima pod kojima je izvršena povreda državne granice. Zapisnik potpisuje ovlaštena osoba koja rukovodi rekonstrukcijom događaja.

@@ -1,0 +1,2 @@
+# Članak 3.
+Mješevite komisije za rješavanje povreda državne granice (u daljem tekstu: mješovite komisije) mogu biti lokalne i glavne. Predstavnike Republike Hrvatske u lokalnim mješovtim komisijahla imenuje ministar unutarnjih poslova suglasnosti s ministrom vanjskih poslova. Predstavnike Republike Hrvatske u glavnim mješovtim komisijama imenuje ministar vanjskih poslova na prijedlog ministra unutarnjih poslova.

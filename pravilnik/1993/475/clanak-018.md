@@ -1,0 +1,2 @@
+# Članak 18.
+Kada je povodom povrede državne granice nastala materijalna šteta, visina i naknada štete utvrđuje se i rješava na način utvrđen međudržavnim ugovorom. Ako međudržavnim ugovorom nije utvrđen način utvrđivanja i rješavanja visine i naknade štete, prikupljenu dokumentaciju o nastaloj materijalnoj šteti Ministarstvo unutarnjih poslova dostavlja Ministarstvu vanjskih poslova, radi reguliranja naknade štete diplomatskim putem.
