@@ -1,0 +1,5 @@
+# Članak 3.
+Naknadu na opterećivanje okoliša otpadom plaćaju obveznici plaćanja na temelju rješenja Fonda za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond).
+Fond svojim rješenjem, kojeg donosi do 30. travnja za tekuću godinu, određuje privremeni obračun (akontaciju) naknade za tekuću kalendarsku godinu na temelju podataka o količini odloženoga neopasnoga industrijskog otpada, odnosno o količini proizvedenog a neobrađenog ili neizvezenoga opasnog otpada iz prethodne godine.
+Rješenje o konačnom obračunu za prethodnu godinu Fond donosi najkasnije do 30. travnja tekuće godine na temelju utvrđenih podataka o količinama odloženoga neopasnog industrijskog otpada, odnosno proizvedenog a neobrađenog ili neizvezenoga opasnog otpada u prethodnoj godini.
+Za privremeni i konačni obračun naknade odloženoga neopasnoga industrijskog otpada, odnosno proizvedenog a neobrađenog ili neizvezenoga opasnog otpada koriste se podaci iz propisanog katastra i drugih upisnika, podaci utvrđeni u inspekcijskom nadzoru inspektora zaštite okoliša i podaci utvrđeni u nadzoru od ovlaštene službene osobe Fonda.
