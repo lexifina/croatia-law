@@ -1,2 +1,2 @@
 # Članak 10.
-Provedbu ovoga Zakona nadziru Porezna uprava i Financijska policija.
+Pravilnost primjene ovoga Zakona nadzire Carinska uprava.

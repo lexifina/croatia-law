@@ -1,3 +1,5 @@
-## VI. NASTANAK POREZNE OBVEZE I PLAĆANJE POSEBNOG POREZA
+## VI. NASTANAK POREZNE OBVEZE
+## I PLAĆANJE POSEBNOG POREZA
 # Članak 7.
-Obveza obračuna posebnog poreza na kavu nastaje u trenutku carinjenja, odnosno nastanka obveze plaćanja carine i drugih carinskih davanja, a obračun, naplatu i povrat posebnog poreza na kavu obavlja ovlaštena carinarnica u skladu s propisima o postupku obračuna i naplate carine.
+(1) Porezna obveza posebnog poreza na kavu pri uvozu nastaje s danom nastanka carinskoga duga.
+(2) Posebni porez na kavu obračunava i naplaćuje carinarnica koja provodi carinski postupak zajedno s obračunom i naplatom carinskog duga, prema propisima o obračunu i naplati carinskog duga.

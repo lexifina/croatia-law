@@ -1,3 +1,3 @@
 # Članak 11.
-(1) Glede žalbenog postupka, obnove postupka, zastare, obračunavanja, naplate i povrata poreza te vođenja prekršajnog postupka primjenjuju se odredbe Zakona o porezu na dohodak ("Narodne novine", br. 109/93., 95/94., 25/95. - pročišćeni tekst, 52/95. i 106/96.).
-(2) Iznimno, od odredbi stavka 1. ovoga članka, u postupku naknadnog obračuna posebnog poreza na kavu, carinarnica će postupiti u skladu s odredbama Carinskog zakona koje propisuju postupak naknadnog obračuna carine i donošenja rješenja o naplati i vraćanju carine koja nije bila obračunata ili je obračunata u manjoj ili većoj svoti od propisane.
+(1) Glede žalbenog postupka, obnove postupka, zastare, obračunavanja, naplate i povrata posebnog poreza na kavu te vođenja prekršajnog postupka, primjenjuju se odredbe Općega poreznog zakona.
+(2) Iznimno od odredbe stavka 1. ovoga članka, u postupku naknadnog obračuna posebnog poreza na kavu postupa se prema odredbama Carinskog zakona.
