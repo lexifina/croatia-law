@@ -1,0 +1,1 @@
+Na temelju člana 9. Zakona o formiranju i korištenju sredstava solidarnosti za poticanje zapošljavanja ("Narodne novine", broj 33/89 i 42/90) Vlada Republike Hrvatske na sjednici održanoj 27. studenoga 1990. donijela je
