@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za utvrđivanje naknade određenim povjerenicima i pomoćnicima povjerenika na izvršavanju kaznenopravnih sankcija uvjetne osude sa zaštitnim nadzo
