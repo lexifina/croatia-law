@@ -1,0 +1,2 @@
+# Članak 21.
+Ispit iz nastavnog predmeta Upravljanje vozilom na motorni pogon polaže se individualno u prometu na cesti. Ispit iz nastavnog predmeta Upravljanje vozilom na motorni pogon A, B, C, D i E kategorije, i traktorom i tramvajem traje dok ovlašteni ispitivač ne procijeni da li je kandidat osposobljen za sigurno i saniostalno upravljanje vozilom u prometu na cesti, ali u pravilu, ne dulje od 30 minuta.

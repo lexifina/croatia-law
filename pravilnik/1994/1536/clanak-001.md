@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim pravilnikom utvrđuju se: uvjeti i način polaganja vozačkog ispita; program vozačkog ispita; uvjeti koje mora ispunjavati član komisije koja provođi vozački ispit (u daljnjem tekstu: ovlašteni ispitivač); sadržaj, oblik te način izdavanja i oduzimanja dopuštenja (licence) ovlaštenom ispitivaču; prigovori i žalbe; evidencija i dokumentacija o vozačkim ispitima, način financiranja polaganja vozačkih ispita, te novčane kazne za prekršaje utvrđene ovim pravilnikom.

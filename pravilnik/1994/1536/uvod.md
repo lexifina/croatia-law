@@ -1,0 +1,1 @@
+Na temelju članka 316. stavka 3. i članka 324. stavka 2. Zakona o sigurnosti prometa na cestama ("Narodne novine", br. 84/92, 5/93 i 26/93) ministar prosvjete i športa u suglasnosti s ministrom pomorstva, prometa i veza i ministrom zdravstva, donio je

@@ -1,0 +1,3 @@
+# Članak 16.
+Kandidat koji u testu postigne manje od 50% bodova ili ne zadovolji na tri uzastopna ispita iz nastavnog predmeta: Prometna i sigurnosna pravila upučuje se u dopunski program osposobljavanja iz tog nastavnog predmeta u trajanju od 6 nastavnih sati. Kandidat, koji ni nakon dopunskog osposobljavanja ne zadovolji na ispitu, uputit će se na ponovno osposobljavanje iz nastavnog predmeta Prometna i sigurnosna pravila u cijelosti, ovisno o vrsti ili kategoriji motornog vozila za koju se osposobljavao.
+2. Ispit iz nastavnog predmeta Pružanje prve pomoći osobama ozlijedenim u prometnoj nezgodi
