@@ -1,0 +1,3 @@
+## o dopuni Zakona o trgovini
+# Članak 1.
+U Zakonu o trgovini ("Narodne novine", br. 53/91.) u članku 32. dodaju se stavci 3. i 4. koji glase: "Ne smatra se špekulacijom u smislu stavka 1. i 2. ovoga članka aho se kupac, u kupoprodajnom ugovoru o kupnji stana, stambene zgrade. poslovnog prostora ili poslovne zgrade, sklopljenim sa građevinskim poduzećem, svojom voljom odrekne kamata na unaprijed uplaćena sredstva a prodavatelj mu istim ugovorom garantira konačnu cijenu utvrđenu tim ugovorom." Kupac iz stavka 3. ovoga članka ima pravo na zatezne kamate u skladu sa posebnim zakonom, u slučaju prekoračenja roka utvrđenog ugovorom."
