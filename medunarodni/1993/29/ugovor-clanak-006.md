@@ -1,0 +1,3 @@
+# Članak 6.
+(1) U slučaju da se po mišljenju jedne od ugovornih stranaka stvori takva situacija koja ugrožava međunarodni mir i sigurnost, u cilju što bržeg saniranja takve situacije, prema načelima Povelje UN, Helsinškog završnog akta i Pariške povelje o novoj Europi, ugovorne stranke će obaviti konzultacije i koordinirat će svoje aktivnosti.
+(2) U slučaju procjene jedne od ugovornih stranaka da je nastala takva situacija ili opasnost koja ugrožava ili narušava njezin suverenitet, teritorijalnu cjelovitost ili vitalne interese sigurnosti, ugovorne stranke će bez odlaganja pristupiti konzultacijama sa ciljem iznalaženja najpovoljnijeg načina da se otkloni opasnost, te ćim prije nade prihvatljivo rješenje u duhu Povelje UN i naćela KESS-a.
