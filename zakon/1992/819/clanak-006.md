@@ -1,0 +1,6 @@
+# Članak 6.
+Pored općih uvjeta za zasnivanje radnog odnosa u organima uprave utvrđenim propisima o državnoj upravi, ovlaštene osobe Deviznog inspektorata moraju udovoljavati i sljedećim uvjetima:
+a) Na mjesto Glavnog deviznog inspektora može biti imenovana osoba s visokom stručnom spremom (VII/I) ekonomskog ili pravnog smjera, položenim stručnim ispitom, s pet godina radnog iskustva na poslovima deviznog poslovanja i poznavanjem jednog svjetskog jezika, koja se naročito ističe svojim stručnim radom, te pokazuje potrebne sposobnosti u rukovođenju.
+b) Na mjesto višeg inspektora može biti imenovana osoba visoke stručne spreme (VII/I) ekonomskog ili pravnog smjera, s pet godina radnog iskustva u struci i položenim stručnim ispitom, te poznavanjem jednog svjetskog jezika, koja se posebno ističe stručnošću.
+c) Na mjesto inspektora može biti imenovana osoba visoke stručne spreme (VII/I) ekonomskog ili pravnog smjera, s tri godine radnog iskustva u struci i položenim stručnim ispitom, te poznavanjem jednog svjetskog jezika.
+d) Na mjesto inspektora suradnika može biti imenovana osoba visoke stručne spreme (VII/I) ekonomskog ili pravnog smjera, s jednom godinom radnog iskustva u struci i položenim stručnim ispitom, te poznavanjem jednog svjetskog jezika.

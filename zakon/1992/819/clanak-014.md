@@ -1,0 +1,2 @@
+# Članak 14.
+Rješenje iz članka 12., stavka 1. ovoga Zakona protiv kojeg u roku nije izjavljena žalba, te rješenje kojim Ministarstvo financija odluči povodom žalbe iz članka 12, stavka 2. ovoga Zakona konačno je, te se dostavlja putem Deviznog inspektorata na izvršenje. Devizni inspektorat ovlašten je tražiti informacije o izvršenju Pravna osoba ili državni organ koji je bio dužan provesti izvršenje, dužan je o izvršenju izvijestiti Devizni inspektorat.

@@ -1,0 +1,2 @@
+# Članak 2.
+Inspekciji Deviznog inspektorata podliježu: državni organi i tijela jedinica lokalne uprave i samouprave, ovlaštene banke i druge financijske organizacije, poduzeća i druge pravne osobe koje se bave deviznim i vanjskotrgovinskim poslovanjem, diplomatska i druga predstavništva Republike Hrvatske, radne jedinice i sl. koje su pravne osobe sa sjedištem u Republici Hrvatskoj osnovale u inozemstvu, inozemne pravne osobe koje svoju gospodarsku ili drugu djelatnost obavljaju na teritoriju Republike Hrvatske, kao i fizičke osobe u pogledu propisa o deviznom poslovanju.

@@ -1,0 +1,3 @@
+## OVLAŠTENJA DEVIZNOG INSPEKTORATA
+# Članak 7.
+U obavljanju inspekcijskog nadzora ovlaštene osobe Deviznog inspektorata ovlaštene su: pregledati financijsku dokumentaciju, ugovore, poslovne knjige i druge isprave koje im daju uvid u poslovanje subjekata koji podliježu inspekcijskom nadzoru; pregledati poslovne prostoraje, robu, uređaje i opremu; utvrditi identitet osoba koje rade na poslovima deviznog i vanjskotrgovinskog poslovanja i poslovima kreditnih odnosa s inozemstvom, identitet odgovornih osoba u pravnoj osobi koja podliježe inspekcijskom nadzoru, kao i uzimati izjave od osoba koje imaju saznanja od interesa za inspekcijski nadzor.
