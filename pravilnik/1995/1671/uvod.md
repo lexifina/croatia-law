@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. Zakona o obrtu ("Narodne novine", br.77/93), ministar gospodarstva po prethodno pribavljenom mišljenju Hrvatske obrtničke komore i uz suglasnost Ministarstva pomorstva, prometa i veza, Ministarstva kulture i Ministarstva poljoprivrede i šumarstva, donosi
