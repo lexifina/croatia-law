@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda, te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, u postupku ocjene ustavnosti i zakonitosti, na sjednici održanoj 12. travnja 1995. godine, donio je ovu
