@@ -1,0 +1,2 @@
+# Članak 9.
+Stupanjem na snagu ove uredbe u Republici Hrvatskoj prestaje vrijediti Zakon o načinu i uvjetima izvršavanja obveza po kreditima međunarodnih financijskih organizacija za koje je federacija dala garanciju ili supergaranciju i kreditima iz međudržavnih sporazuma ("Službeni list", br. 43/86), koji je preuzet odredbom članka 1. točke 11. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91).
