@@ -1,0 +1,4 @@
+# Članak 44.
+Pravo nositelja na naknadu štete od trećih osoba
+(1) Ako osoba koja prema pravnim propisima jedne ugovorne stranke prima davanje zbog neke štete koja je nastala na području druge ugovorne stranke, ima prema njezinim pravnim propisima pravo na naknadu štete od treće osobe, tada pravo na naknadu štete prelazi na nositelja prve ugovorne stranke, prema pravnim propisima koji za njega vrijede.
+(2) Ako pravo na naknadu štete zbog istovrsnih davanja iz istog slučaja štete pripada nositelju jedne i druge ugovorne stranke, nositelj prve ugovorne stranke, na zahtjev nositelja druge ugovorne stranke, podnosi za njega isti takav zahtjev za naknadu štete. Treća osoba može ovo pravo, koje prema stavku 1. ovoga članka prelazi na oba nositelja, namiriti uplatom jednom ili drugom nositelju. U internom odnosu nositelji su se obvezni razmjerno namiriti, prema davanjima koja isplaćuju.

@@ -1,0 +1,4 @@
+# Članak 3.
+Osobe na koje se ugovor primjenjuje
+(1) Ovaj se ugovor primjenjuje na hrvatske i makedonske državljane na koje su se primjenjivali ili primjenjuju pravni propisi jedne ili obiju ugovornih stranaka navedenima u članku 2. ovoga ugovora, kao i na članove njihovih obitelji ili drugih osoba, ako njihova prava potječu od prava tih osoba.
+(2) Ovaj se ugovor primjenjuje i na izbjeglice u smislu Konvencije o pravnom položaju izbjeglica od 28. srpnja 1951. i Protokola od 31. siječnja 1967. kao i na osobe bez državljanstva u smislu Konvencije o pravnom položaju osoba bez državljanstva od 28. rujna 1954. ako su se na njih promjenjivali ili se primjenjuju pravni propisi jedne ili obiju ugovornih stranaka i ako je njihovo prebivalište na području jedne od ugovornih stranaka, kao i na članove njihovih obitelji.

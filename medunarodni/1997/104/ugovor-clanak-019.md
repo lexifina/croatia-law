@@ -1,0 +1,3 @@
+# Članak 19.
+Ostvarivanje prava bez zbrajanja razdoblja osiguranja
+Ako su ispunjeni uvjeti predviđeni prema pravnim propisima jedne ugovorne stranke za stjecanje prava na davanja, bez potrebe zbrajanja razdoblja osiguranja, prema članku 7. i 18. ovoga ugovora, mjerodavni nositelj te ugovorne stranke odobrava svotu davanja obračunatu isključivo na osnovi razdoblja osiguranja navršenih u sklopu pravnih propisa koje on primjenjuje. Ova odredba primjenjuje se i u slučaju kada osiguranik, prema pravnim propisima druge ugovorne stranke, ima pravo na davanje prema članku 7. i 18. ovoga ugovora, obračunata u smislu članka 20. ovoga ugovora.

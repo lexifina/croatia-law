@@ -1,0 +1,3 @@
+# Članak 22.
+Razdoblje osiguranja manje od 12 mjeseci
+Bez obzira na odredbe iz članka 7. i 18. ovoga ugovora ako ukupno trajanje razdoblja osiguranja, navršeno u smislu pravnih propisa jedne ugovorne stranke, ne ispunjava bar 12 mjeseci i ako, uzimajući u obzir samo ta razdoblja, ne proizlazi nikakvo pravo na davanja u smislu navedenih pravnih propisa, nositelj ove ugovorne stranke nije dužan pružiti davanja za ta razdoblja. Ova će razdoblja osiguranja uzeti u obzir mjerodavni nositelj druge ugovorne stranke kako zbog stjecanja prava na davanja u smislu pravnih propisa te ugovorne stranke, tako i za njihovo obračunavanje, kao da je to razdoblje navršeno prema njezinim pravnim propisima.
