@@ -1,0 +1,5 @@
+## NATJEČAJ ZA PODJELU DRŽAVNE NAGRADE
+# Članak 6.
+Postupak za podjelu Državne nagrade pokreće Ministarstvo prosvjete i športa (u daljem tekstu: Ministarstvo) raspisivanjem javnog Natječaja za dodjelu Državne nagrade športa »Franjo Bučar« (u daljnjem tekstu: Natječaj). Natječaj se objavljuje svake godine polovinom rujna u dnevnom tisku i Prosvjetnom vjesniku Ministarstva, a traje 30 dana od dana objave u dnevnom tisku.
+Natječajem se utvrđuje postupak predlaganja športaša i drugih pojedinaca odnosno skupina te fizičkih i pravnih osoba i drugih organizacija koje obavljaju športsku djelatnost (u daljem tekstu: predložnici) i rok za podnošenje poticaja za podjelu nagrade (u daljem tekstu: poticaj).
+Poticaj mogu dati: športske udruge, športski savezi, zajednice športskih udruga i saveza, školski i studentski športski klubovi, škole, fakulteti i druge pravne osobe koje obavljaju športsku djelatnost i imaju sjedište u Republici Hrvatskoj, zatim pojedinci i skupine uglednih športaša i športskih djelatnika, pedagozi tjelesne i zdravstvene kulture, treneri i drugi stručni djelatnici u športu i pojedinci, građani Republike Hrvatske.
