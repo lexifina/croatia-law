@@ -1,0 +1,1 @@
+Na osnovi čl. 335. st. 2. Zakona o izvršenju sankcija izrečenih za krivično djelo, privredne prijestupe i prekršaje (»Narodne novine« br. 21/74, 59/74, 55/88, 19/90, 26/93, 66/93, 29/94 i 73/00) i čl. 11. Zakona o sudovima za mladež (»Narodne novine«, br. 111/1997) ministar rada i socijalne skrbi donosi

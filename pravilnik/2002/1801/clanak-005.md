@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 6. st. 2. riječi »organizaciji udruženog rada socijalne zaštite, odgoja i obrazovanja ili zdravstva« zamijeniti riječima: »posebnoj organizacionoj jedinici centra za socijalnu skrb, doma socijalne skrbi i odgojno obrazovnoj ili zdravstvenoj ustanovi te udruzi građana koja se bavi pitanjima odgoja mladih, a ima odgovarajuće stručne radnike sukladno propisanim normativima«, a riječ »tih« zamjenjuje se riječju »njih«, a na kraju rečenice riječ »organizacija« se briše.
+U st. 3. istog članka riječi: »Organizacija udruženog rada« zamjenjuje se riječima »posebna organizaciona jedinica centra za socijalnu skrb i doma socijalne skrbi te prosvjete ili zdravstva i udruga građana«.
