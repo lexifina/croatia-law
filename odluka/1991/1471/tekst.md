@@ -1,0 +1,5 @@
+o preferencijalnim carinskim stopama i neplaćanju drugih uvoznih pristojbi za uvoz robe iz određenih zemalja u razvoju
+I.
+Za robu koja se u Republiku Hrvatsku uvozi s područja republika Bosne i Hercegovine, Makedonije i Slovenije, ako je porijeklom iz tih republika, te uz poštovanje načela reciprociteta u odnosu na robu hrvatskog porijekla, primjenjuće se pri obračunavanju carine carinska stopa "slobodno". Za robu iz stavka 1. ove točke na koju se primjenjuje carinska stopa "slobodno", ne obračunavaju se ni posebna taksa na uvezenu robu ni posebna pristojba za izravnanje poreskog opterećenja uvezene robe. Smatrat će se da je roba porijeklom iz jedne od republika iz stavka 1. ove točke, ako je na području jedne od tih republika u cijelosti proizvedena ili je vrijednost navedene robe industrijskom i drugom obradom uvećana za najmanje 51%, što se dokazuje uvjerenjem o porijeklu robe izdatim od ovlaštenog organa republike iz koje se roba izvozi, u skladu s Naredbom o načinu utvrđivanja porijekla robe ("Službeni list SFRJ", br. 41/79) ili na drugi odgovarajući način.
+II.
+Ova odluka stupa na snagu danom objave u "Narodnim novinama".

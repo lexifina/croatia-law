@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 3. Carinskog zakona ("Narodne novine", br. 53/A/91) i članka 1. Zakona o preuzimanju saveznih propisa iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakon ("Narodne novine", br. 53/91), Vlada Republike Hrvatske na sjednici održanoj 13. listopada 1991. godine, donijela je
