@@ -1,0 +1,2 @@
+# Članak 1.
+Republika Hrvatska prihvaća izmjenu Priloga I. Aneksa A. Konvencije o privremenom uvozu (»Narodne novine - Međunarodni ugovori«, broj 16/98), donesenu na Trećem sastanku Administrativnog odbora Konvencije o privremenom uvozu i Konvencije ATA, održanom 1. listopada 2001. godine u sjedištu Svjetske carinske organizacije u Bruxellesu, na engleskom i francuskom jeziku, s veličinom ATA karneta 297 ¤ 210 mm.
