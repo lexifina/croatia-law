@@ -1,0 +1,4 @@
+# Članak 7.
+Godišnji program donosi se u skladu sa srednjoročnim programom. Godišnjim programom utvrđuju se osobito: vrsta, naziv, količina i vrijednost robe koja se formira i obnavlja kao robne zalihe, teritorijalni razmještaj robnih zaliha, kapacitet skladišnog prostora za smještaj i čuvanje robnih zaliha, uvjeti uz koje se određene vrste i količine robnih zaliha dugoročno povjeravaju na obnavljanje pravnim osobama te potreban iznos sredstava za izvršenje programa.
+Godišnjim programom utvrđuju se i uvjeti uz koje Ravnateljstvo može kreditirati pravne i fizičke osobe na temelju članka 15. ovoga Zakona kao i druga pitanja vezana uz formiranje, korištenje i obnavljanje robnih zaliha.
+Godišnjim programom posebno se utvrđuje dio robnih zaliha koje će se, prema potrebi formirati u novčanim sredstvima u domaćoj i stranoj valuti.

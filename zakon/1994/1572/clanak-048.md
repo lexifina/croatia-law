@@ -1,0 +1,2 @@
+# Članak 48.
+Pravne osobe i drugi subjekti (članak 27.) kojima je ugovorom povjereno obavljanje poslova u svezi s robnim zalihama, dužni su omogućiti ovlaštenim službenicima Ravnateljstva iz članka 46. ovoga Zakona pregled robe, skladišta i objekata u kojima se proizvodi ili nalazi roba robnih zaliha, kao i tržišnim inspektorima u obavljanju poslova inspekcijskog nadzora iz članka 47. ovoga Zakona.

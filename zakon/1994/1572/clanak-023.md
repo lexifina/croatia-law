@@ -1,0 +1,2 @@
+# Članak 23.
+Kada Vlada intervenira sredstvima posebne namjene (šatori, kamp-kućice, sanitetska sredstva i oprema i sl.) koja su uslijed upotrebe postala neprikladna za daljnje držanje i obnavljanje u robnim zalihama, može ta sredstva na prijedlog ravnatelja dati sa ili bez naknade određenim organima i organizacijama (postrojbama i stožerima civilne zaštite, Crvenom križu, humanitarnim organizacijama i udrugama).

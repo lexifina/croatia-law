@@ -1,0 +1,3 @@
+# Članak 5.
+Formiranje, obnavljanje i korištenje robnih zaliha te osiguravanje skladišnog prostora za smještaj i čuvanje tih zaliha provodi se na temelju srednjoročnog i godišnjeg programa formiranja, korištenja i obnavljanja robnih zaliha te osiguravanja skladišnog prostora za smještaj i čuvanje tih zaliha
+Osiguravanjem skladišnog prostora, prema ovom Zakonu razumijeva se korištenje postojećeg skladišnog prostora za potrebe robnih zaliha, povjerenje smještaja i čuvanja robnih zaliha pravnim osobama i postrojbama i ustanovama oružanih snaga Republike Hrvatske, te izgradnja, kreditiranje izgradnje i osiguravanje skladišnog prostora na drugi način
