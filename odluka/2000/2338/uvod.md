@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 3. stavka 2. Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 60/92, 26/93 i 29/94), Vlada Republike Hrvatske je na sjednici održanoj 7. prosinca 2000. godine donijela
