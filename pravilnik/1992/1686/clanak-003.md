@@ -1,0 +1,2 @@
+# Članak 3.
+Kao strani putnik u smislu ovog pravilnika smatra se stranac s prebivalištem u inozemstvu, ako dolazi na privremeni boravak, produženi boravak ili boravak s poslovnom vizom u Republiku Hrvatsku, na temelju redovne putne isprave radi turizma, odmora, sporta, zdravstvenih i obiteljskih razloga, studija ili drugih poslova, stranac koji prolazi preko carinskog područja Republike Hrvatske, kao i član posade i voznog osoblja inozemnog prijevoznog sredstva, koje prometuje s inozemstvom.

@@ -1,0 +1,4 @@
+# Članak 26.
+Hrvatski državljani i stranci koji privremeno unose rezervne dijelove za putnička motorna vozila za koje nemaju triptik za rezervne dijelove - radi popravka privremeno uvezenog motornog vozila sa stranom registracijom ispunit će popis na Obrascu 3 i dokazati svrhu uvoza.
+Privremeno unošenje dijelova i opreme radi zamjene, ugradnje ili opremanja plovnog objekta za sport i razonodu evidentira se na popisu inventara plovnog objekta ovjerenom od carinarnice, na potvrdi o čuvanju plovnog objekta ovjerenoj od carinarnice, na odobrenju za krstarenje i ostavljanje ovjerenoj od carinarnice ili putem Obrasca 3.
+Osobe iz stavka 1. i 2. ovog članka prijavit će zamijenjene dijelove carinarnici koja odlučuje kako će postupiti sa zamijenjenim dijelovima (vratiti u inozemstvo. predati carinarnici, uništiti pod carinskim nadzorom i dr.).

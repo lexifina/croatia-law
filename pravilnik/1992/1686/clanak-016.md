@@ -1,0 +1,5 @@
+# Članak 16.
+Ako strani putnik koji dolazi na privremeni boravak u Republiku Hrvatsku, privremeno unosi u Republiku Hrvatsku predmete koji ne predstavljaju osobnu prtljagu u smislu članka 12. ovog pravilnika, a namijenjeni su njegovim osobnim potrebama dok je na putovanju, pismeno ih prijavljuje upisivanjem u spisak stvari koje putnik privremeno unosi (Obrazac 3).
+Ako su predmeti iz stavka 1. ovog članka namijenjeni da budu zadržani u Republici Hrvatskoj kao poklon ili za druge potrebe, osim prodaje, carinarnica će izvršiti carinjenje takve robe i naplatiti carinu obračunatu po stopama iz Carinske tarife i druge uvozne pristojbe shodno odredbama članaka 7. do 11. ovog pravilnika ako posebnim propisima nije drugačije određeno.
+Ako strani putnik koji prolazi kroz Republiku Hrvatsku nosi sobom predmete svog domaćinstva s tim predmetima postupa se shodno članku 14. i 15. ovog pravilnika.
+Uvjeti pod kojima strani putnici mogu unositi i vraćati u inozemstvo radio-stanice uređuju se posebnim propisima.

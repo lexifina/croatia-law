@@ -1,0 +1,2 @@
+# Članak 13.
+Ako hrvatski državljanin na radu u inozemstvu i hrvatski državljanin koji boravi u inozemstvu radi školovanja, specijalizacije i slično prilikom privremenog dolaska u Republiku Hrvatsku radi korištenja godišnjeg odmora, posjete obitelji i dr. privremeno unosi predmete prema članku 12. ovog pravilnika carinarnica na temelju bilješke u putnoj ispravi ili na temelju prijave boravka u inozemstvu odnosno ugovora o radu i sl. utvrđuje da se ta osoba nalazi na privremenom radu, odnosno školovanju, specijalizaciji i sl. u inozemstvu.
