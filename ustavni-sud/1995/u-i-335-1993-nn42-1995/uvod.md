@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu predsjednik Jadranko Cmić; te suci Zdravko. Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović; mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčnović; Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela u predmetu ocjene ustavnosti Zakona o prekršajima na sjednici održanoj 1. lipnja 1995. godine; donio je slijedeće
