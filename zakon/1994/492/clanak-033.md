@@ -1,0 +1,2 @@
+# Članak 33.
+Kamate prema Zakonu o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj ("Narodne novine", br. 27/91.), obračunavaju se 28. veljače 1994. i 31. kolovoza 1994. godine, a isplaćuju se 1. travnja 1994. godine za proračun 28. veljače 1994. i 1. listopada 1994. za obraćun 31. kolovoza 1994. godine. U razdoblju od obraćuna do isplate kamate iz stavka 1. ovoga članka banke nemaju pravo obraćunavati kamate na obraćunate kamate.

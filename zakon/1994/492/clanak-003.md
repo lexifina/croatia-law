@@ -1,0 +1,2 @@
+# Članak 3.
+Proračun se sastoji od bilance prihoda i rashoda te računa financiranja. U bilanci prihoda i rashoda iskazuju se prihodi od poreza, carine, drugih davanja i prihodi od državne imovine te rashodi predviđeni za financiranje javnih potreba na razini države na temelju zakonskih i drugih propisa. U računu financiranja iskazuju se zaduživanja i povrati sredstava po zaduženju Proraćuna, što je povezano s financiranjem salda bilance prihoda i rashoda.

@@ -1,0 +1,2 @@
+# Članak 16.
+Korisnici ugovaraju kamate na novćana sredstva po viđenju o depozitu banaka najmanje u visini 80% eskontne stope Narodne banke Hrvatske. U opravdanim slućajevima korisnici mogu kratkoroćno (do mjesec dana) oroćiti sredstva samo u bankama u Republici Hrvatskoj i kamate na oroćena sredstva ugovoriti najmanje u visini eskontne stope Narodne banke Hrvatske uvećane za 10%. Kamate iz stavka 1. i 2. ovoga članka prihod su Proraćuna i banke su ih obvezne obračunati i uplaćivati u ostale proraćunske prihode najkasnije do 10. u mjesecu za prethodni mjesec.

@@ -1,0 +1,2 @@
+# Članak 23.
+Sredstva raspoređena u Posebnom dijelu Proračuna za materijalne troškove, negospodarske investicije i subvencije u gospodarstvu, sredstva za udruženja građana i političke stranke, invalidnine, socijalnu skrb, obranu, stalne novćane nadoknade i minimalne plaće koja ne budu utrošena do 31. prosinca 1994. godine prenijet će se u iduću godinu i koristiti za iste namjene. Ostala sredstva raspoređena u Posebnom dijelu Proračuna, nakon podmirenja obveza dospjelih do 31. prosinca 1994. goidne, vratit će se u Proraćun.

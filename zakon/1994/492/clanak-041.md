@@ -1,0 +1,2 @@
+# Članak 41.
+Novčanom kaznom u dinarskoj protuvrijednosti od 2.000 do 10.000 DEM kaznit će se Zavod za platni promet ako naknadu naplati protivno odredbi članka 34. ovoga Zakona. Novčanom kaznom u dinarskoj protuvrijednosti od 500 do 2.000 DEM kaznit će se odgovorna osoba u Zavodu za platni promet za prekršaj iz stavka 1. ovoga članka. Imovinska korist pribavljena prekršajem iz stavka 1. ovoga članka bit će oduzeta na temelju rješenja o prekršaju.

@@ -1,0 +1,2 @@
+# Članak 31.
+Obveze Proračuna prema Republičkom fondu mirovinskog i invalidskog osiguranja radnika Hrvatske, Republićkom fondu mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske i Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske neće se izvršavati u 1994. godini. Obveze iz stavka 1. ovoga članka spomenuti fondovi podmirivat će iz svojih izvornih prihoda.

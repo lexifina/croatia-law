@@ -1,0 +1,2 @@
+# Članak 4.
+Ovlašćuje se Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) da se može zadužiti kod Svjetske banke, Europske banke te drugih međunarodnih financijskih institucija i komercijalnih banaka u inozemstvu do svote u protuvrijednosti hrvatskih dinara od 750.000.000 DEM. Sredstva iz stavka 1. ovoga članka koristit će se pod uvjetima, na način i za namjene koje utvrdi Vlada na temeIju pribavljenog stajališta Zastupničkog doma Sabora Republike Hrvatske.

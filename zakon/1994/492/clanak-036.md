@@ -1,0 +1,2 @@
+# Članak 36.
+Za opremu, glede koje je člankom 19. stavkom 1. točkom 5. Zakona o porezu na promet proizvoda i usluga propisano da se ne plaća porez na promet, pri uvozu se u 1994. godini ne plaćaju ni carina ni posebna pristojba. Specifikaciju opreme iz stavka 1. ovoga članka, na temelju zahtjeva nadležnog ministarstva, ovjerava Carinska uprava Republike Hrvatske, a nadležna carinarnica obvezna je sastaviti obračun neplaćene carine i posebne pristojbe na uvezenu robu te razdužiti korisnika od obveze njihova plaćanja.

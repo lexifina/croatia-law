@@ -1,0 +1,2 @@
+# Članak 32.
+Dospjele a nepodmirene obveze Proračuna na dan 31. prosinca 1993. godine utvrđene Zakonom o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi ("Narodne novine", br. 27/91., 26/93. i 43/93.), bit će podmirene do rujna 1994. godine, tako da se pripadna svota premija i regresa na dan 31. prosinca 1993. godine uvećava za kamate u visini eskontne stope Narodne banke Hrvatske uvećane za 10%.

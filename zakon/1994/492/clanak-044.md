@@ -1,0 +1,2 @@
+# Članak 44.
+Rješenja o prekršajima iz kaznenih odredbi ovoga Zakona donose Financijska policija ili Porezna uprava Ministarstva financija. Postupak o prekršaju pokreće ovlašteni djelatnik Porezne uprave odnosno Financijske policije. Protiv rješenja može se izjaviti žalba Središnjem uredu Porezne uprave, odnosno glavnom inspektoru Financijske policije, u skladu s odredbama Zakona o porezu na dohodak i Zakona o financijskoj policiji.

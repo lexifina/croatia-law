@@ -1,0 +1,2 @@
+# Članak 20.
+Ako službenicima, namještenicima i dužnosnicima kojima se sredstva za plaću osiguravaju u Proraćunu prestane radni odnos radi odlaska u mirovinu, imaju pravo na otpremninu. Visina otpremnine iz stavka 1. ovoga članka iznosi tri prosjećne mjesečne plaće isplaćene po djelatniku u gospodarstvu Republike u prethodna tri mjeseca prije umirovljenja, prema podacima o visini tih plaća koji su objavljeni u "Narodnim novinama".

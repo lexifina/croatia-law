@@ -1,0 +1,2 @@
+# Članak 5.
+Republika Hrvatska može se kratkoročno zadužiti kod Narodne banke Hrvatske do svote od 400.000.000.000 hrvatskih dinara radi neravnomjernog ostvarivanja prihoda Proraćuna u 1994. godini. Narodna banka Hrvatske odobrit će kredit iz stavka 1. ovoga članka s rokom vraćanja do 31. prosinca 1994. godine uz kamate u visini eskontne stope Narodne banke Hrvatske, koji će Republika vraćati u skladu s dinamikom ostvarivanja proraćunskih prihoda. Kamate iz stavka 2. ovoga članka obraćunat će se i platiti 31. prosinca 1894. godine.

@@ -1,0 +1,2 @@
+# Članak 24.
+Korisnici su obvezni sve nove investicije i ulaganja u investicijsko održavanje koji su u dinarskoj protuvrijednosti veći od 50.000 DEM objaviti putem javnog natjećaja i uz prethodnu suglasnost Ureda Vlade Republike Hrvatske za upravljanje imovinom. Informatička oprema može se kupiti iskljućivo uz prethodnu suglasnost Zavoda za informatizaciju pravosuđa i javne uprave pri Ministarstvu pravosuđa.

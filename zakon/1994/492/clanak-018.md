@@ -1,0 +1,2 @@
+# Članak 18.
+Radi pravovremenog obraćunavanja i doznaćivanja proračunskih sredstava za 1994. godinu za plaće i druge namjene, korisnici su obvezni Ministarstvu financija dostaviti rješenje o zasnivanju i prestanku radnog odnosa službenika, namještenika i dužnosnika koji se financiraju iz Proraćuna. Rješenje iz štavka 1. ovoga članka valja dostaviti u roku od osam dana od dana zasnivanja i prestanka radnog odnosa službenika, namještenika i dužnosnika.

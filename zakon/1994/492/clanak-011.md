@@ -1,0 +1,2 @@
+# Članak 11.
+Ako pojedini korisnik ne bude mogao nepredviđene rashode podmiriti iz vlastitih ušteda, Vlada može, na prijedlog Ministarstva financije, odlućiti da se ti rashodi podmire iz ušteda drugih korisnika ili smanjenjem sredstava na njihovim pozicijama ako se ti korisnici suglase sa spomenutim prijedlogom. O podmirenju rashoda iz prethodnoga stavka, Vlada izvješćuje Sabor Republike Hrvatske.

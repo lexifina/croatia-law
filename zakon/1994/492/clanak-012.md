@@ -1,0 +1,2 @@
+# Članak 12.
+Ako se tijekom godine, na temelju propisa, poveća djelokrug ili nadležnost korisnika što zahtijeva i povećana sredstva, ili se osnuje novi korisnik, sredstva za njegove troškove osiguravaju se iz Tekuće proraćunske rezerve. Ako se tijekom godine, na temelju propisa, smanji djelokrug ili nadležnost korisnika, što zahtijeva smanjena sredstva, ili se korisnik ukine, neutrošena sredstva za njegove troškove prenose se u Tekuću proraćunsku rezervu ili na korisnika koji preuzme njegove poslove.
