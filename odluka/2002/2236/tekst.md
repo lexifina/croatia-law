@@ -1,0 +1,4 @@
+I.
+Društvu Remontno brodogradilište Šibenik d.o.o., Šibenik oduzima se koncesija dodijeljena Odlukom o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Šibenik (»Narodne novine«, broj 86/2000), zbog neizvršavanja obveze plaćanja koncesijske naknade sukladno članku 64. Pomorskog zakonika i članku 7. Ugovora o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Šibenik, od 29. rujna 2000. godine, a čime su se stekli uvjeti za primjenu članka 69. stavka 1. točke e) Pomorskog zakonika i članka 10. stavka 1. točke d) Ugovora o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta Šibenik, od 29. rujna 2000. godine.
+II.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
