@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 35. stavka 2. Zakona o vlasništvu i drugim stvarnim pravima ("Narodne novine", broj 91/96), Vlada Republike Hrvatske je na sjednici održanoj 14. listopada 1999. godine, donijela

@@ -1,0 +1,1 @@
+Odluka o dopuni Odluke o prodaji poslovnih prostora u vlasništvu Republike Hrvatske u zgradama namijenjenim stambenom zbrinjavanju hrvatskih ratnih vojnih invalida Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskog branitelja
