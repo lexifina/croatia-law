@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 1. Zakona o poljoprivrednom zemljištu ("Narodne novine", br. 54/94 - pročišćeni tekst, 48/95 i 19/98) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 101/98), Vlada Republike Hrvatske je na sjednici održanoj godine, donijela

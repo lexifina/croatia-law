@@ -1,0 +1,1546 @@
+I.
+Javni natječaj za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države raspisuje se za poljoprivredno zemljište koje se nalazi u Bjelovarsko-bilogorskoj županiji, a prema Izvatku iz zemljišne knjige Općinskog suda u Daruvaru i Ureda za katastarsko-geodetske poslove Bjelovarsko-bilogorske županije, Ispostava Daruvar, označeno je kao:
+k.o. Imsovac
+- k.č.br. 1506/133, livada 5. klase, 22 a 87 m˛, upisane u Zk. ul. br. 432
+- k.č.br. 1506/175, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 506
+- k.č.br. 1506/137, oranica 5. klase, 70 a 85 m˛, upisane u Zk. ul. br. 99
+- k.č.br. 1506/138, oranica 5. klase, 70 a 85 m˛, upisane u Zk. ul. br. 99
+- k.č.br. 1506/139, oranica 5. klase, 70 a 85 m˛, upisane u Zk. ul. br. 99
+- k.č.br. 1506/229, oranica 4. klase, 03 a 63 m˛, upisane u Zk. ul. br. 432
+- k.č.br. 1464/1, livada 4. klase, 12 a 70 m˛, upisane u Zk. ul. br. 199
+- k.č.br. 1474/1, livada 4. klase, 29 a 96 m˛, upisane u Zk. ul. br. 652
+- k.č.br. 1474/4, livada 4. klase, 30 a 93 m˛, upisane u Zk. ul. br. 652
+- k.č.br. 1506/183, livada 5. klase, 49 a 06 m˛, upisane u Zk. ul. br. 267
+- k.č.br. 1510/64, livada 4. klase, 62 a 01 m˛, upisane u Zk. ul. br. 552
+- k.č.br. 1510/104, oranica 4. klase, 16 a 40 m˛, upisane u Zk. ul. br. 422
+- k.č.br. 1510/113, oranica 5. klase, 14 a 82 m˛, upisane u Zk. ul. br. 422
+- k.č.br. 1511/2, oranica 4. klase, 20 a 14 m˛, upisane u Zk. ul. br. 199
+- k.č.br. 1519/27, livada 4. klase, 02 a 16 m˛, upisane u Zk. ul. br. 22
+- k.č.br. 1120/5, oranica 4. klase, 25 a 90 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1120/12, livada 4. klase, 02 a 88 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1452/2, livada 4. klase, 33 a 27 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1452/3, livada 4. klase, 37 a 94 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1453, livada 4. klase, 66 a 18 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1455/3, livada 4. klase, 12 a 41 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1459/4, livada 4. klase, 15 a 79 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1461/3, livada 4. klase, 10 a 07 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1461/5, livada 4. klase, 18 a 41 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1461/7, livada 4. klase, 42 a 98 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1461/10, livada 4. klase, 43 a 52 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1463/1, livada 4. klase, 20 a 46 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1463/2, livada 4. klase, 20 a 14 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1463/3, livada 4. klase, 19 a 89 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1464/2, livada 4. klase, 13 a 74 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1464/3, livada 4. klase, 10 a 54 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1467/1, livada 4. klase, 59 a 78 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1467/2, livada 4. klase, 37 a 51 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1468/1, livada 4. klase, 43 a 99 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1468/2, livada 4. klase, 41 a 33 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1472, livada 4. klase, 11 a 80 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1473, livada 4. klase, 71 a 79 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1474/2, livada 4. klase, 28 a 81 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1474/3, livada 4. klase, 30 a 93 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1477/2, livada 4. klase, 01 a 73 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1483/2, livada 4. klase, 61 a 54 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1483/3, livada 4. klase, 63 a 95 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1484/1, livada 4. klase, 00 a 36 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1484/2, livada 4. klase, 03 a 20 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1489/3, livada 4. klase, 1 ha 36 a 03 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1491/1, livada 4. klase, 63 a 95 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1492/1, oranica 4. klase, 67 a 04 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1493/1, livada 4. klase, 1 ha 19 a 30 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1493/2, livada 4. klase, 1 ha 23 a 48 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1493/3, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/5, oranica 4. klase, 17 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/9, oranica 4. klase, 17 a 98 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/11, oranica 4. klase, 34 a 13 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/12, oranica 4. klase, 73 a 30 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/13, oranica 4. klase, 1 ha 61 a 53 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/21, oranica 4. klase, 1 ha 57 a 50 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/22, oranica 4. klase, 15 a 14 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/24, oranica 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/25, oranica 4. klase, 1 ha 32 a 79 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/27, oranica 4. klase, 35 a 07 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/52, oranica 4. klase, 1 ha 32 a 75 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/55, oranica 4. klase, 32 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/56, oranica 4. klase, 27 a 48 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/57, oranica 4. klase, 1 ha 33 a 62 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/58, oranica 4. klase, 83 a 80 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1495/60, oranica 4. klase, 77 a 15 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1497/1, livada 4. klase, 53 a 81 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1497/2, livada 5. klase, 56 a 43 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1498/1, livada 5. klase, 72 a 40 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1498/2, livada 5. klase, 33 a 74 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1498/3, livada 5. klase, 33 a 16 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1498/4, livada 5. klase, 07 a 70 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1498/5, livada 5. klase, 08 a 27 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1498/6, livada 5. klase, 10 a 43 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1499/2, livada 5. klase, 56 a 65 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1499/3, livada 5. klase, 24 a 67 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1500/2, livada 5. klase, 03 a 38 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1503/2, livada 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/7, livada 4. klase, 23 a 27 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/8, livada 4. klase, 19 a 67 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/9, livada 4. klase, 28 a 88 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/22, livada 5. klase, 59 a 16 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/23, livada 5. klase, 32 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/25, livada 5. klase, 56 a 36 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/26, livada 5. klase, 54 a 99 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/27, livada 5. klase, 63 a 70 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/28, livada 5. klase, 65 a 03 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/29, livada 5. klase, 64 a 16 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/30, livada 5. klase, 65 a 39 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/31, livada 5. klase, 66 a 14 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/33, livada 5. klase, 54 a 99 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/34, livada 5. klase, 67 a 22 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/238, livada 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/239, oranica 6. klase, 63 a 73 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/240, oranica 6. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/241, oranica 6. klase, 88 a 73 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/242, livada 5. klase, 54 a 56 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/243, oranica 6. klase, 54 a 56 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/244, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/245, oranica 6. klase, 67 a 90 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/246, livada 5. klase, 52 a 19 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/248, livada 5. klase, 32 a 37 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/250, livada 5. klase, 32 a 37 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/252, oranica 4. klase, 29 a 13 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/257, livada 5. klase, 54 a 53 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/258, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/9, livada 4. klase, 73 a 98 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/10, livada 4. klase, 08 a 16 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/11, livada 4. klase, 61 a 61 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/12, livada 4. klase, 63 a 30 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/20, livada 5. klase, 58 a 09 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/22, livada 5. klase, 58 a 45 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/23, livada 5. klase, 59 a 02 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/24, livada 5. klase, 1 ha 23 a 01 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/25, livada 5. klase, 1 ha 19 a 52 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/26, livada 5. klase, 2 ha 27 a 49 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/28, livada 4. klase, 2 ha 74 a 93 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/38, livada 4. klase, 62 a 87 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/39, livada 4. klase, 1 ha 17 a 87 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/43, oranica 4. klase, 1 ha 33 a 44 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/46, oranica 4. klase, 1 ha 18 a 47 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/47, oranica 4. klase, 1 ha 19 a 91 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/48, oranica 4. klase, 64 a 27 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/49, oranica 4. klase, 1 ha 68 a 83 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/50, oranica 4. klase, 97 a 94 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/51, oranica 5. klase, 1 ha 43 a 04 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/53, oranica 4. klase, 51 a 94 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/54, oranica 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/59, livada 5. klase, 39 a 13 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/60, livada 5. klase, 58 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/64, livada 4. klase, 62 a 01 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/68, livada 4. klase, 43 a 12 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/69, livada 4. klase, 43 a 12 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/73, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/74, livada 5. klase, 44 a 99 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/75, livada 5. klase, 45 a 03 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/76, livada 5. klase, 44 a 99 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/77, livada 5. klase, 45 a 03 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/81, livada 5. klase, 27 a 12 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/83, livada 5. klase, 27 a 15 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/85, oranica 4. klase, 29 a 13 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/86, oranica 4. klase, 31 a 22 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/87, oranica 4. klase, 88 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/89, oranica 4. klase, 88 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/97, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/101, oranica 4. klase, 1 ha 04 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/102, oranica 4. klase, 1 ha 04 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1510/111, oranica 4. klase, 03 a 96 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1511/1, oranica 4. klase, 24 a 28 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1511/3, livada 5. klase, 24 a 64 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1514, livada 5. klase, 94 a 88 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1515/1, livada 5. klase, 49 a 06 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1515/2, livada 5. klase, 24 a 60 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1515/3, livada 5. klase, 24 a 64 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1517/1, livada 4. klase, 02 a 48 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1517/2, livada 4. klase, 39 a 28 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/1, livada 4. klase, 00 a 72 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/2, livada 4. klase, 08 a 63 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/3, livada 4. klase, 10 a 90 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/4, livada 4. klase, 33 a 45 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/5, livada 4. klase, 20 a 43 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/6, livada 4. klase, 18 a 31 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/7, livada 4. klase, 07 a 73 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/8, livada 4. klase, 07 a 41 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1518/9, livada 4. klase, 02 a 81 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/6, oranica 4. klase, 64 a 02 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/6, oranica 4. klase, 64 a 02 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/23, livada 4. klase, 00 a 29 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/24, livada 4. klase, 11 a 22 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/26, oranica 4. klase, 26 a 87 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/28, livada 4. klase, 07 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/29, livada 4. klase, 15 a 36 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/30, livada 4. klase, 18 a 34 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/31, livada 4. klase, 28 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/32, oranica 4. klase, 28 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/41, livada 4. klase, 51 a 25 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/43, livada 4. klase, 1 ha 04 a 30 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1519/44, livada 4. klase, 53 a 59 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/15, livada 4. klase, 56 a 83 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/16, livada 4. klase, 56 a 86 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/19, livada 4. klase, 06 a 94 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/20, livada 4. klase, 18 a 63 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/23, livada 4. klase, 41 a 87 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/24, livada 4. klase, 75 a 35 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/30, livada 4. klase, 99 a 56 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/31, livada 4. klase, 96 a 53 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/32, oranica 4. klase, 58 a 84 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/34, livada 4. klase, 28 a 31 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/35, livada 4. klase, 28 a 27 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/41, livada 4. klase, 20 a 07 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/42, livada 4. klase, 47 a 58 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1521/43, livada 4. klase, 56 a 83 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/36, livada 5. klase, 64 a 38 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/39, livada 5. klase, 45 a 64 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/40, livada 5. klase, 58 a 12 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/42, livada 5. klase, 27 a 44 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/43, livada 5. klase, 99 a 45 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/45, livada 5. klase, 90 a 24 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/53, livada 5. klase, 29 a 49 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/55, livada 5. klase, 29 a 38 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/56, livada 5. klase, 28 a 45 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/58, livada 5. klase, 54 a 49 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/59, livada 5. klase, 51 a 79 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/63, oranica 6. klase, 81 a 25 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/65, livada 4. klase, 03 a 38 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/68, livada 5. klase, 50 a 93 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/69, livada 5. klase, 50 a 93 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/70, livada 5. klase, 1 ha 15 a 52 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/74, oranica 6. klase, 44 a 74 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/75, oranica 6. klase, 44 a 74 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/79, oranica 5. klase, 81 a 28 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/81, livada 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/83, oranica 6. klase, 2 ha 70 a 76 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/85, oranica 6. klase, 1 ha 07 a 18 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/86, oranica 6. klase, 94 a 02 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/87, livada 5. klase, 54 a 88 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/88, livada 5. klase, 50 a 93 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/89, livada 5. klase, 74 a 38 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/92, livada 5. klase, 29 a 53 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/97, livada 5. klase, 52 a 19 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/98, livada 5. klase, 13 a 31 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/106, oranica 4. klase, 55 a 28 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/107, oranica 4. klase, 55 a 32 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/108, oranica 4. klase, 55 a 28 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/120, oranica 4. klase, 86 a 75 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/122, livada 5. klase, 83 a 05 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/123, livada 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/124, livada 5. klase, 95 a 92 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/125, livada 5. klase, 50 a 35 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/126, oranica 5. klase, 92 a 18 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/129, livada 5. klase, 30 a 25 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/134, oranica 5. klase, 11 a 83 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/135, oranica 5. klase, 16 a 33 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/173, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/174, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/176, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/177, oranica 5. klase, 1 ha 23 a 22 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/178, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/181, livada 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/186, oranica 5. klase, 27 a 84 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/187, oranica 5. klase, 27 a 84 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/202, oranica 5. klase, 64 a 20 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/203, oranica 5. klase, 82 a 58 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/204, oranica 5. klase, 58 a 77 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/205, livada 5. klase, 42 a 80 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/206, oranica 6. klase, 94 a 34 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/207, oranica 5. klase, 57 a 04 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/208, oranica 5. klase, 65 a 75 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/209, oranica 5. klase, 96 a 64 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/210, oranica 5. klase, 57 a 91 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/211, oranica 5. klase, 55 a 75 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/212, oranica 5. klase, 32 a 30 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/214, livada 4. klase, 30 a 25 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/215, oranica 5. klase, 02 a 73 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/216, oranica 6. klase, 62 a 87 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/217, oranica 6. klase, 48 a 48 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/218, oranica 6. klase, 27 a 84 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/219, livada 6. klase, 60 a 89 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/221, oranica 5. klase, 20 a 36 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/222, oranica 4. klase, 66 a 36 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/223, oranica 4. klase, 1 ha 77 a 78 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/224, oranica 4. klase,57 a 55 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/225, oranica 4. klase, 33 a 95 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/231, livada 5. klase, 53 a 41 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/232, livada 5. klase, 1 ha 04 a 66 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/233, livada 5. klase, 54 a 02 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/234, livada 5. klase, 52 a 22 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/235, livada 5. klase, 1 ha 01 a 17 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/236, livada 5. klase, 56 a 72 m˛, upisane u Zk. ul. br. 653
+- k.č.br. 1506/237, livada 5. klase, 81 a 21 m˛, upisane u Zk. ul. br. 653
+Ukupna površina: 148 ha 32 a 39 m˛
+k.o. Sokolovac
+- k.č.br. 570/9, livada 4. klase, 47 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 576/3, livada 4. klase, 47 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 576/11, livada 4. klase, 47 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 576/12, livada 4. klase, 47 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 579/2, livada 4. klase, 42 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 593, livada 4. klase, 13 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 594, livada 4. klase, 09 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 598, livada 4. klase, 25 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 599, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 600, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 600/1, livada 4. klase, 16 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 600/2, livada 4. klase, 16 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 616, oranica 5. klase, 22 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 620/2, livada 4. klase, 02 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 621/2, livada 4. klase, 06 a 76 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 622, livada 4. klase, 15 a 93 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 623, livada 4. klase, 06 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 628/1, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 630, oranica 5. klase, 79 a 13 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 632/1, livada 4. klase, 41 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 634, livada 4. klase, 59 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 635, oranica 5. klase, 22 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 670, livada 4. klase, 27 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 671, oranica 5. klase, 72 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 692, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 693, livada 4. klase, 19 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 694, livada 4. klase, 13 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 695, livada 4. klase, 18 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 696, livada 4. klase, 09 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 708, oranica 5. klase, 28 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 709, oranica 5. klase, 18 a 24 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 710/2, livada 3. klase, 43 a 59 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 713/2, livada 4. klase, 49 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 716, oranica 5. klase, 22 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 717, livada 4. klase, 77 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 723, oranica 5. klase, 70 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 724, oranica 5. klase, 25 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 729/2, oranica 4. klase, 39 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 734/1, oranica 5. klase, 14 a 13 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 734/2, oranica 5. klase, 29 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 735/1, oranica 5. klase, 29 a 17 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 735/2, oranica 5. klase, 31 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 748, oranica 5. klase, 23 a 70 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 786/1, oranica 4. klase, 51 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 786/2, livada 4. klase, 34 a 02 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 815/2, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 823/2, oranica 5. klase, 13 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 824/1, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 827, oranica 5. klase, 16 a 94 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 828, oranica 5. klase, 40 a 61 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 830, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 831/1, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1683/1, oranica 5. klase, 57 a 58 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1658/3, oranica 5. klase, 27 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1659/3, oranica 5. klase, 30 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1658/1, oranica 5. klase, 11 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1659/1, oranica 5. klase, 45 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1659/2, oranica 5. klase, 49 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1658/2, oranica 5. klase, 07 a 70 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1396, livada 4. klase, 46 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1777, oranica 5. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1806/1, oranica 5. klase, 33 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1427/4, oranica 5. klase, 32 a 19 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1427/6, oranica 5. klase, 16 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1587/1, oranica 6. klase, 29 a 24 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1588/1, oranica 6. klase, 51 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1667/2, oranica 5. klase, 50 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1668/2, oranica 5. klase, 35 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1711/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1672, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1616, oranica 5. klase, 23 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1617, oranica 5. klase, 06 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1618, oranica 5. klase, 25 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1619, oranica 5. klase, 43 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1674, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1474/2, livada 5. klase, 03 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1453/2, oranica 5. klase, 56 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1722/3, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1405, oranica 5. klase, 64 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1406, oranica 5. klase, 38 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1407, livada 4. klase, 36 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1633/1, oranica 5. klase, 1 ha 11 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1469/4, livada 5. klase, 11 a 37 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1470/4, livada 5. klase, 16 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1684/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1602/1, oranica 5. klase, 33 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1603/1, oranica 5. klase, 37 a 73 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1605/1, oranica 5. klase, 29 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1604/1, oranica 5. klase, 1 ha 10 a 06 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1568/3, oranica 5. klase, 35 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1782, oranica 5. klase, 28 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1792, oranica 5. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1703, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1227, livada 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1471, livada 5. klase, 49 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1472, livada 5. klase, 61 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1350/2, oranica 5. klase, 63 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1314/2, oranica 6. klase, 79 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1315/2, oranica 6. klase, 43 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1337/1, oranica 5. klase, 63 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1398/1, oranica 5. klase, 12 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1399/1, oranica 5. klase, 29 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1398/2, oranica 5. klase, 17 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1399/2, oranica 5. klase, 26 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 846/1, oranica 6. klase, 12 a 66 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1469/1, livada 5. klase, 06 a 76 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1470/1, livada 5. klase, 20 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1739, oranica 5. klase, 76 a 72 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1229, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1201/1, livada 4. klase, 44 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1201/3, livada 4. klase, 26 a 22 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1795, oranica 5. klase, 89 a 02 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1709/2, oranica 5. klase, 42 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1708/2, oranica 5. klase, 15 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1707, oranica 5. klase, 24 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1706, oranica 5. klase, 32 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1569/1, oranica 5. klase, 1 ha 12 a 50 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1590, oranica 6. klase, 57 a 98 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1592, oranica 6. klase, 42 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1593, oranica 6. klase, 1 ha 42 50 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1683/2, oranica 5. klase, 57 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1804, oranica 5. klase, 67 a 65 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1600/2, oranica 5. klase, 33 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1601/2, oranica 5. klase, 09 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1599/2, oranica 5. klase, 15 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1608/2, oranica 5. klase, 12 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1609/2, oranica 5. klase, 29 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1610/2, oranica 5. klase, 17 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1611/2, oranica 5. klase, 65 a 17 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 579/1, livada 4. klase, 42 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 579/3, livada 4. klase, 42 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 604, livada 4. klase, 24 a 74 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 620/1, livada 4. klase, 02 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 621/1, livada 4. klase, 06 a 80 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 645, livada 4. klase, 21 a 76 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 660, oranica 4. klase, 41 a 72 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 661, kanal, 05 a 93 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 662, oranica 4. klase, 32 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 676, livada 5. klase, 61 a 21 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 677, oranica 5. klase, 35 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 702, oranica 5. klase, 24 a 71 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 714/1, livada 4. klase, 45 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 714/2, livada 6. klase, 48 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 715/1, livada 4. klase, 04 a 57 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 715/2, livada 4. klase, 00 a 83 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 721, oranica 5. klase, 05 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 722, oranica 5. klase, 88 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 725/1, oranica 5. klase, 11 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 726/1, oranica 5. klase, 13 a 99 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 727/3, oranica 5. klase, 04 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 728/3, oranica 5. klase, 51 a 22 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 731, oranica 4. klase, 68 a 62 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 732, oranica 5. klase, 45 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 778, oranica 5. klase, 59 a 42 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 779, oranica 5. klase, 28 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 780, oranica 5. klase, 53 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 781/3, oranica 5. klase, 18 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 782/1, oranica 5. klase, 20 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 782/2, oranica 5. klase, 26 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 783/1, oranica 5. klase, 09 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 783/3, oranica 5. klase, 07 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 788/1, oranica 5. klase, 60 a 42 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 789/1, livada 4. klase, 52 a 94 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 812/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 813, oranica 5. klase, 16 a 26 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 814/1, oranica 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 832, livada 4. klase, 17 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 833, livada 4. klase, 40 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1628/2, oranica 5. klase, 70 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1629/2, oranica 5. klase, 09 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1401/2, livada 4. klase, 10 a 50 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1402/2, livada 4. klase, 26 a 58 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1634/2, oranica 5. klase, 82 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 867, oranica 6. klase, 18 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 868, oranica 6. klase, 31 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1364, oranica 5. klase, 71 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1612, oranica 5. klase, 41 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1613, oranica 5. klase, 21 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1614, oranica 5. klase, 09 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1615, oranica 5. klase, 17 a 05 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1760, oranica 5. klase, 32 a 84 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1761, oranica 5. klase, 36 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1771, oranica 5. klase, 47 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1356/1, oranica 5. klase, 02 a 73 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1357/1, oranica 5. klase, 61 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1391, livada 4. klase, 37 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 850, oranica 6. klase, 75 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1562/2, oranica 5. klase, 32 a 37 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1563/2, oranica 5. klase, 03 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1564/2, oranica 5. klase, 43 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1480/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1429, livada 4. klase, 1 ha 56 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1665/2, oranica 5. klase, 45 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1666/2, oranica 5. klase, 69 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1809, oranica 5. klase, 26 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1770, oranica 5. klase, 74 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1643/2, oranica 5. klase, 43 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1679, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 582, livada 4. klase, 20 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 583, livada 4. klase, 34 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 584, livada 4. klase, 30 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 595, livada 4. klase, 10 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 596, livada 4. klase, 13 a 02 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 597, livada 4. klase, 23 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 603, livada 4. klase, 31 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 618, livada 4. klase, 52 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 619, livada 4. klase, 05 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 624, livada 4. klase, 13 a 60 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 626, livada 4. klase, 37 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 627, livada 4. klase, 22 a 73 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 633/1, livada 4. klase, 43 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 633/2, livada 4. klase, 43 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 640/2, livada 4. klase, 11 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 641/2, livada 4. klase, 07 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 644, livada 4. klase, 37 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 649, oranica 5. klase, 20 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 651/1, oranica 5. klase, 11 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 659, oranica 4. klase, 19 a 78 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 668, oranica 4. klase, 58 a 73 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 669, oranica 5. klase, 08 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 672, livada 4. klase, 43 a 95 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 673, oranica 5. klase, 52 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 674, oranica 5. klase, 47 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 675, livada 5. klase, 45 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 678, oranica 5. klase, 18 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 679, livada 4. klase, 21 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 680, livada 4. klase, 20 a 39 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 681, oranica 5. klase, 19 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 713/1, livada 4. klase, 49 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 725/4, oranica 5. klase, 25 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 726/2, oranica 5. klase, 24 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 794, oranica 5. klase, 19 a 93 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 810/1, livada 4. klase, 47 a 19 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 815/1, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 816, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 819, oranica 5. klase, 48 a 91 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 820/1, oranica 5. klase, 40 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 820/2, oranica 5. klase, 45 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 821/1, oranica 5. klase, 12 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 821/2, oranica 5. klase, 07 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 823/1, oranica 5. klase, 66 a 54 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 831/2, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 607, oranica 5. klase, 08 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 608, oranica 5. klase, 02 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 609, oranica 5. klase, 08 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 610, oranica 5. klase, 15 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 631, livada 4. klase, 08 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 632/2, livada 4. klase, 32 a 80 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 640/1, livada 4. klase, 04 a 50 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 641/1, oranica 5. klase, 13 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 655, oranica 4. klase, 16 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 657, oranica 4. klase, 18 a 24 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 663, oranica 4. klase, 16 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 664, oranica 4. klase, 15 a 57 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 666, oranica 4. klase, 21 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 667, oranica 4. klase, 27 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 682, oranica 5. klase, 30 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 683, livada 4. klase, 53 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 684, livada 4. klase, 85 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 685, livada 4. klase, 88 a 91 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 686, livada 4. klase, 04 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 687, livada 4. klase, 14 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 688, livada 4. klase, 84 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 690, livada 4. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 712, livada 4. klase, 05 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 718, livada 4. klase, 56 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 719, oranica 5. klase, 32 a 91 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 720, oranica 5. klase, 03 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 744, oranica 5. klase, 13 a 31 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 745, livada 4. klase, 03 a 78 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 751, oranica 5. klase, 34 a 53 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 764, oranica 5. klase, 05 a 61 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 765, oranica 5. klase, 17 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 766, oranica 5. klase, 48 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 767, oranica 5. klase, 47 a 37 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 768, oranica 5. klase, 18 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 769, oranica 5. klase, 05 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 774/1, oranica 5. klase, 50 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 774/2, oranica 5. klase, 40 a 39 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 774/3, oranica 5. klase, 04 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 775/1, oranica 5. klase, 06 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 775/2, oranica 5. klase, 12 a 62 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 785/3, oranica 4. klase, 53 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 786/3, livada 4. klase, 34 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 787, oranica 4. klase, 50 a 50 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 788/2, oranica 5. klase, 20 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 789/2, livada 4. klase, 37 a 37 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 790/1, livada 4. klase, 45 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 790/2, livada 4. klase, 57 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 790/3, livada 4. klase, 57 a 26 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 791, livada 4. klase, 10 a 61 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 792/2, oranica 5. klase, 34 a 13 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 792/3, oranica 5. klase, 33 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 793/2, livada 4. klase, 22 a 59 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 793/3, livada 4. klase, 23 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 811/1, livada 4. klase, 40 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 811/2, livada 4. klase, 16 a 94 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 811/3, livada 4. klase, 82 a 11 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 811/4, livada 4. klase, 33 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 817/2, oranica 5. klase, 52 a 69 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 822/3, oranica 5. klase, 25 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 823/3, oranica 5. klase, 11 a 98 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 826, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 829, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 834, oranica 6. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1742/2, oranica 5. klase, 54 a 13 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1577, oranica 5. klase, 26 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1578/2, oranica 5. klase, 15 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1578/1, oranica 5. klase, 40 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1680/2, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1669, oranica 5. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1794, oranica 5. klase, 71 a 21 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1728, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1412/1, livada 4. klase, 61 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1413/1, livada 4. klase, 08 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1359/2, oranica 5. klase, 49 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1360/2, livada 4. klase, 13 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1764, oranica 5. klase, 17 a 95 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1340/2, oranica 5. klase, 12 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1339/2, oranica 6. klase, 44 a 78 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1693, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 869, oranica 6. klase, 07 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 870, oranica 6. klase, 41 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1204/2, livada 4. klase, 1 ha 10 a 99 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1423, oranica 5. klase, 1 ha 40 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1857/2, oranica 5. klase, 38 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/3, oranica 5. klase, 02 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1738/1, oranica 5. klase, 38 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1425/1, oranica 5. klase, 30 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1426/1, oranica 5. klase, 41 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1390, livada 4. klase, 16 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1389, oranica 5. klase, 1 ha 22 a 57 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1646, oranica 5. klase, 86 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1482/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1736, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 903, oranica 6. klase, 37 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 904, oranica 6. klase, 20 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1805, oranica 5. klase, 64 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1630, oranica 5. klase, 91 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1631, oranica 5. klase, 53 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1650, oranica 5. klase, 81 a 57 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1597, oranica 5. klase, 99 a 05 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1598, oranica 5. klase, 20 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1802, oranica 5. klase, 79 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1410/3, livada 4. klase, 11 a 58 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1411/3, livada 4. klase, 23 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1594/1, oranica 6. klase, 63 a 73 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1647, oranica 5. klase, 86 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1793, oranica 5. klase, 99 a 70 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1853, oranica 5. klase, 67 a 22 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1381/1, livada 4. klase, 28 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1343/2, oranica 5. klase, 39 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1381/2, livada 4. klase, 18 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1344/2, oranica 5. klase, 24 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1594/2, oranica 6. klase, 63 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1789, oranica 5. klase, 37 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1790, oranica 5. klase, 19 a 10 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1723, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1803, oranica 5. klase, 84 a 74 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1643/1, oranica 5. klase, 86 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1678, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1722/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1632, oranica 5. klase, 1 ha 69 a 19 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1408, livada 4. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1719, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1644, oranica 5. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1480/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 758, oranica 5. klase, 59 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 759, oranica 5. klase, 05 a 07 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1218/3, oranica 5. klase, 08 a 60 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1218/1, oranica 5. klase, 07 a 84 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1218/2, oranica 5. klase, 10 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1729, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1663/1, oranica 5. klase, 42 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1664/1, oranica 5. klase, 15 a 07 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1587/2, oranica 6. klase, 43 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1588/2, oranica 6. klase, 35 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1721, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1691, oranica 5. klase, 07 a 19 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1692, oranica 5. klase, 50 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1700/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1638/1, oranica 5. klase, 28 a 13 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1638/2, oranica 5. klase, 28 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1216, oranica 5. klase, 26 a 62 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1339/1, oranica 5. klase, 58 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1340/1, oranica 5. klase, 11 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1428/1, oranica 5. klase, 48 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1332, oranica 5. klase, 10 a 07 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1341, oranica 5. klase, 40 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1342, oranica 5. klase, 86 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1484, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 807/2, oranica 5. klase, 51 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1394, oranica 5. klase, 51 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1395, livada 4. klase, 41 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1463, livada 5. klase, 78 a 59 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1464, oranica 5. klase, 47 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1460/1, oranica 5. klase, 13 a 42 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1305/1, oranica 5. klase, 48 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1304, oranica 5. klase, 09 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1306/1, oranica 5. klase, 08 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1351, oranica 5. klase, 1 ha 18 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1352, oranica 5. klase, 09 a 60 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1397/2, livada 4. klase, 24 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1349/1, oranica 5. klase, 63 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 907, oranica 6. klase, 33 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 908, livada 4. klase, 23 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 909, livada 4. klase, 15 a 68 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1009, livada 6. klase, 15 a 39 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 990/2, livada 4. klase, 28 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 975, oranica 5. klase, 66 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1097, livada 4. klase, 57 a 19 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1166, oranica 5. klase, 1 ha 22 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 911, oranica 6. klase, 85 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 912, livada 4. klase, 29 a 60 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1737, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1392, oranica 5. klase, 47 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1393, oranica 5. klase, 53 a 59 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1564/1, oranica 5. klase, 45 a 61 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1563/1, oranica 5. klase, 18 a 95 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1562/1, oranica 5. klase, 13 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1412/2, livada 4. klase, 57 a 11 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1413/2, livada 4. klase, 12 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1485/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1388, oranica 5. klase, 1 ha 43 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1454, oranica 5. klase, 1 ha 12 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1312, oranica 6. klase, 35 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1313, oranica 6. klase, 30 a 00 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1787, oranica 5. klase, 20 a 11 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1788, oranica 5. klase, 36 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 886, livada 4. klase, 29 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1557/1, oranica 4. klase, 1 ha 11 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1131/2, livada 4. klase, 55 a 93 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1060/2, livada 4. klase, 05 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1800, oranica 5. klase, 71 a 21 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1382/1, livada 4. klase, 28 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1382/2, livada 4. klase, 35 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1353, oranica 5. klase, 47 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1354, oranica 5. klase, 80 a 71 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1478, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 650, livada 4. klase, 05 a 61 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1422, oranica 5. klase, 1 ha 42 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1566/1, oranica 5. klase, 23 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1565/2, oranica 5. klase, 50 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1566/2, oranica 5. klase, 02 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1425/2, oranica 5. klase, 36 a 72 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1426/2, oranica 5. klase, 36 a 11 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1307, oranica 5. klase, 11 a 69 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1308, oranica 5. klase, 1 ha 12 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1359/1, oranica 5. klase, 49 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1780, oranica 5. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1424/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1424/2, oranica 5. klase, 83 a 59 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1735, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1578/3, oranica 5. klase, 70 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1579, oranica 6. klase, 05 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1670, oranica 5. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 923/2, oranica 5. klase, 43 a 66 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 923/1, oranica 5. klase, 03 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 925/1, oranica 3. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1095, livada 4. klase, 21 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1129, livada 4. klase, 12 a 95 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 905, livada 4. klase, 23 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 906, oranica 6. klase, 34 a 31 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 988/1, livada 4. klase, 56 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1020/2, livada 4. klase, 48 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1021/2, oranica 5. klase, 09 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1019/1, livada 4. klase, 21 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1019/2, oranica 5. klase, 06 a 91 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 901, livada 4. klase, 44 a 02 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1011/2, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1190, oranica 5. klase, 64 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1126, livada 4. klase, 1 ha 05 a 78 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1125, livada 4. klase, 78 a 05 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 989/1, livada 4. klase, 75 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 989/2, livada 4. klase, 37 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 983/2, oranica 4. klase, 04 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 984, oranica 5. klase, 44 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 985/2, oranica 5. klase, 50 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 986/2, oranica 5. klase, 05 a 22 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1238/1, livada 4. klase, 34 a 38 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1239/1, oranica 5. klase, 21 a 69 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1123, livada 4. klase, 22 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1124, livada 4. klase, 51 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1158/2, livada 4. klase, 34 a 71 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1193, livada 4. klase, 1 ha 28 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1225/1, livada 4. klase, 47 a 80 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1201/2, livada 4. klase, 30 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1366, livada 4. klase, 26 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1369, oranica 5. klase, 65 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1368, livada 4. klase, 13 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1370, oranica 5. klase, 43 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1371, oranica 5. klase, 29 a 10 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1372, oranica 5. klase, 07 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1373, livada 4. klase, 47 a 66 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1192/2, livada 4. klase, 64 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1279, oranica 5. klase, 1 ha 08 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1280, oranica 5. klase, 18 a 31 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1288/2, oranica 5. klase, 29 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1289/2, oranica 5. klase, 31 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1292, oranica 5. klase, 41 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1293, oranica 5. klase, 58 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1298/1, oranica 5. klase, 13 a 92 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1299/1, oranica 5. klase, 33 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1284, oranica 5. klase, 52 a 58 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1285, oranica 5. klase, 75 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1278/2, oranica 5. klase, 64 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1140/1, oranica 5. klase, 38 a 56 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1139/1, oranica 5. klase, 01 a 83 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 941, oranica 5. klase, 76 a 00 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1135/2, oranica 5. klase, 30 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 982/1, oranica 4. klase, 1 ha 05 a 06 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1734/1, oranica 5. klase, 20 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1734/2, oranica 5. klase, 47 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1722/2, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/9, oranica 5. klase, 01 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1747, oranica 5. klase, 58 a 70 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1748, oranica 5. klase, 36 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1749, oranica 5. klase, 28 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1750, oranica 5. klase, 08 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1361, livada 4. klase, 29 a 53 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1362, oranica 5. klase, 98 a 22 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1568/2, oranica 5. klase, 35 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1599/1, oranica 5. klase, 09 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1600/1, oranica 5. klase, 38 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1601/1, oranica 5. klase, 10 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 857/2, oranica 6. klase, 33 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1584/2, oranica 6. klase, 26 a 65 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1585/2, oranica 6. klase, 27 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1585/1, oranica 6. klase, 57 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1662/1, oranica 5. klase, 86 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1700/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1699, oranica 5. klase, 1 ha 22 a 72 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1740, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1664/2, oranica 5. klase, 15 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1663/2, oranica 5. klase, 42 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1702, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1420/2, livada 4. klase, 40 a 68 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1479, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 897, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 898, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 990/1, livada 4. klase, 28 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1349/2, oranica 5. klase, 63 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1377, oranica 5. klase, 1 ha 18 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1378, livada 4. klase, 06 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1569/2, oranica 5. klase, 55 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1732, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1718/2, oranica 5. klase, 23 a 74 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1731/4, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1801/2, oranica 5. klase, 21 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1718/1, oranica 5. klase, 20 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1731/5, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1801/1, oranica 5. klase, 21 a 47 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 857/1, oranica 6. klase, 33 a 63 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 894, livada 4. klase, 39 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 895, livada 4. klase, 39 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1421/1, livada 4. klase, 40 a 68 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1582, oranica 6. klase, 33 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1583, oranica 6. klase, 56 a 76 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1661, oranica 5. klase, 61 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1337/2, oranica 6. klase, 26 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1338, oranica 6. klase, 36 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1350/1, oranica 5. klase, 63 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1662/2, oranica 5. klase, 25 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1638/3, oranica 5. klase, 20 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1682, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1842, oranica 5. klase, 49 a 60 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1641, oranica 5. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1690, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1379, livada 4. klase, 33 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1380, oranica 5. klase, 89 a 66 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1806/2, oranica 5. klase, 33 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1559, oranica 5. klase, 1 ha 81 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 896/1, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1013, livada 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1001/1, livada 4. klase, 39 a 10 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1132, oranica 5. klase, 39 a 74 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1133, oranica 5. klase, 71 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1059/1, livada 4. klase, 39 a 71 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1060/1, oranica 5. klase, 17 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1400/1, oranica 5. klase, 35 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1401/1, livada 4. klase, 10 a 21 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1402/1, livada 4. klase, 23 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1309/1, oranica 5. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1297/2, livada 4. klase, 14 a 71 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1298/2, oranica 5. klase, 15 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1299/2, oranica 5. klase, 32 a 87 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1403, livada 4. klase, 37 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1404, oranica 5. klase, 1 ha 01 a 57 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 934, livada 4. klase, 13 a 60 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 935, oranica 5. klase, 1 ha 50 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 936, oranica 5. klase, 08 a 52 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1186/3, oranica 5. klase, 60 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 979/1, oranica 5. klase, 31 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1022, oranica 5. klase, 51 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1028, oranica 5. klase, 17 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1026, oranica 4. klase, 26 a 90 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1798, oranica 5. klase, 85 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1714, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1685/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1574, oranica 5. klase, 1 ha 77 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 994/1, livada 4. klase, 56 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1568/4, oranica 5. klase, 35 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1751, oranica 5. klase, 28 a 05 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1752, oranica 5. klase, 17 a 98 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1753, oranica 5. klase, 24 a 10 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/8, oranica 5. klase, 02 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1223/2, oranica 5. klase, 77 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 917, oranica 4. klase, 55 a 75 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 918, livada 4. klase, 59 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 896/2, livada 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 892, livada 4. klase, 43 a 74 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 893, livada 4. klase, 13 a 81 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1215, oranica 5. klase, 47 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1019/3, livada 4. klase, 65 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1019/4, oranica 5. klase, 20 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1017, oranica 5. klase, 10 a 07 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1018, livada 4. klase, 1 ha 05 a 02 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1092, livada 4. klase, 28 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1049/2, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1015, livada 4. klase, 52 a 91 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1300, oranica 5. klase, 26 a 22 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1301, oranica 5. klase, 57 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1302, oranica 5. klase, 35 a 10 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1303, oranica 5. klase, 05 a 29 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1233, livada 4. klase, 32 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1483/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1225/2, livada 4. klase, 08 a 88 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1225/3, livada 4. klase, 04 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1224/2, livada 4. klase, 43 a 99 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1283, oranica 5. klase, 88 a 08 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1282, oranica 5. klase, 35 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1286, oranica 5. klase, 65 a 57 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1287, oranica 5. klase, 61 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1234, livada 4. klase, 57 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1235, oranica 5. klase, 55 a 46 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 888, livada 4. klase, 29 a 13 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 889, livada 4. klase, 28 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1288/1, oranica 5. klase, 29 a 17 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1289/1, oranica 5. klase, 32 a 23 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1290/1, oranica 5. klase, 02 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1255/1, oranica 5. klase, 64 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1094, livada 4. klase, 11 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 890, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1488, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 926, oranica 4. klase, 18 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 925/2, oranica 4. klase, 51 a 54 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1182/4, oranica 5. klase, 08 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1076/1, oranica 4. klase, 10 a 39 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 981/1, oranica 4. klase, 92 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1182/6, oranica 5. klase, 10 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 929, oranica 5. klase, 13 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 930, oranica 4. klase, 53 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 931, oranica 5. klase, 09 a 03 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 933, oranica 4. klase, 71 a 65 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 932, oranica 5. klase, 14 a 67 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1038/1, oranica 5. klase, 27 a 05 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1489, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1029/2, oranica 5. klase, 11 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1030/2, oranica 5. klase, 17 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1029/1, oranica 5. klase, 09 a 42 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1030/1, oranica 5. klase, 20 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1031/1, oranica 5. klase, 20 a 82 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1494/7, livada 4. klase, 47 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1494/27, livada 3. klase, 23 a 95 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1494/32, livada 4. klase, 23 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1628/1, oranica 5. klase, 66 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1629/1, oranica 5. klase, 13 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1343/1, oranica 5. klase, 46 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1344/1, oranica 5. klase, 17 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1664/3, oranica 5. klase, 15 a 11 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1673/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1738/2, oranica 5. klase, 76 a 72 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1684/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1741, oranica 5. klase, 55 a 89 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1734/3, oranica 5. klase, 47 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1768, oranica 5. klase, 36 a 36 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/1, oranica 5. klase, 02 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/2, oranica 5. klase, 02 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1762, oranica 5. klase, 22 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1763, oranica 5. klase, 28 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1766, oranica 5. klase, 22 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1776, oranica 5. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1726, oranica 5. klase, 10 a 54 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1727, oranica 5. klase, 47 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1715, oranica 5. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1717, oranica 5. klase, 46 a 50 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 992, livada 4. klase, 56 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1694, oranica 5. klase, 69 a 06 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1490/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1697, oranica 5. klase, 43 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1014, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1224/1, livada 4. klase, 09 a 96 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1695, oranica 5. klase, 21 a 00 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1595, oranica 5. klase, 21 a 04 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1596, oranica 5. klase, 72 a 76 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1633/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1649, oranica 5. klase, 86 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1846, oranica 5. klase, 42 a 98 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1653, oranica 5. klase, 78 a 91 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1456, livada 4. klase, 54 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1457, livada 4. klase, 27 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1458, oranica 5. klase, 31 a 00 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 865, livada 4. klase, 42 a 33 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 866, livada 4. klase, 10 a 83 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 996/2, livada 4. klase, 56 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1091, livada 4. klase, 27 a 62 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1011/1, livada 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 913, livada 4. klase, 13 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 914, livada 4. klase, 44 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 996/1, livada 4. klase, 56 a 40 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 987, livada 4. klase, 1 ha 12 a 79 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 846/3, oranica 6. klase, 12 a 34 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1202, livada 4. klase, 1 ha 07 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 887, livada 4. klase, 56 a 86 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1192/1, livada 4. klase, 64 a 45 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1020/1, livada 4. klase, 38 a 30 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 822/1, oranica 5. klase, 08 a 99 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 823/1, oranica 5. klase, 66 a 54 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1035, oranica 5. klase, 24 a 74 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1134/3, oranica 5. klase, 1 ha 00 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1135/1, oranica 5. klase, 39 a 35 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1141/1, oranica 5. klase, 12 a 01 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1142/1, oranica 5. klase, 02 a 16 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1034/1, oranica 5. klase, 19 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1034/2, kanal, 18 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1127, livada 4. klase, 1 ha 11 a 64 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1081/2, oranica 4. klase, 27 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1081/1, oranica 4. klase, 11 a 11 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 985/1, oranica 5. klase, 36 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 986/1, oranica 5. klase, 18 a 41 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 983/1, oranica 4. klase, 49 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1024, livada 4. klase, 38 a 84 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1025, oranica 5. klase, 75 a 10 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 980/1, oranica 5. klase, 37 a 12 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1483/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1100, livada 4. klase, 37 a 73 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 991, livada 4. klase, 28 a 20 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 940/3, oranica 5. klase, 25 a 18 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 940/2, livada 4. klase, 28 a 70 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1711/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1754, oranica 5. klase, 67 a 98 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1420/3, livada 4. klase, 40 a 68 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1421/2, livada 4. klase, 40 a 71 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1837, oranica 5. klase, 22 a 48 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1705, oranica 5. klase, 58 a 19 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1838, oranica 5. klase, 61 a 32 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1786, oranica 5. klase, 56 a 97 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1756, oranica 5. klase, 61 a 68 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1757, oranica 5. klase, 18 a 70 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/5, oranica 5. klase, 03 a 24 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1730/1, oranica 5. klase, 09 a 28 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1731/1, oranica 5. klase, 19 a 49 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1772, oranica 5. klase, 51 a 54 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1773, oranica 5. klase, 05 a 43 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1356/2, oranica 5. klase, 08 a 85 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1357/2, oranica 5. klase, 55 a 14 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1568/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1854, oranica 5. klase, 64 a 24 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1704/2, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1807, oranica 5. klase, 61 a 25 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1746/6, oranica 5. klase, 03 a 17 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1755, oranica 5. klase, 77 a 44 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1687, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1685/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1415/2, livada 4. klase, 06 a 51 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1416/2, livada 4. klase, 64 a 27 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1849, oranica 5. klase, 42 a 15 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1850, oranica 5. klase, 58 a 77 m˛, upisane u Zk. ul. br. 706
+- k.č.br. 1733/1, oranica 5. klase, 57 a 55 m˛, upisane u Zk. ul. br. 706
+Ukupna površina: 332 ha 33 a 86 m2
+k.o. Blagorodovac
+- k.č.br. 161/1, oranica 4. klase, 1 ha 46 a 38 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 161/2, oranica 4. klase, 1 ha 46 a 38 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 162/2, oranica 4. klase, 63 a 66 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 162/1, oranica 4. klase, 1 ha 71 a 42 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 162/3, oranica 4. klase, 60 a 24 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 169, oranica 3. klase, 60 a 17 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 170, livada 3. klase, 56 a 47 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 171, oranica 4. klase, 29 a 20 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 172, livada 3. klase, 22 a 95 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 173, livada 3. klase, 36 a 36 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 174, oranica 3. klase, 87 a 11 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 175, oranica 3. klase, 89 a 66 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 176, livada 3. klase, 57 a 76 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 177, livada 3. klase, 57 a 80 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 178, oranica 3. klase, 89 a 66 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 189, oranica 3. klase, 1 ha 06 a 25 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 190, livada 3. klase, 09 a 64 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 191, oranica 4. klase, 58 a 12 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 193/1, oranica 3. klase, 1 ha 32 a 72 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 193/2, livada 3. klase, 14 a 24 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 205/1, oranica 4. klase, 2 ha 30 a 40 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 230, oranica 4. klase, 2 ha 99 a 71 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 232/2, oranica 4. klase, 99 a 95 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 259/2, oranica 3. klase, 95 a 89 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 260/1, oranica 3. klase, 1 ha 08 a 65 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 260/2, oranica 3. klase, 1 ha 83 a 39 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 264/1, oranica 3. klase, 1 ha 46 a 02 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 264/2, oranica 3. klase, 1 ha 46 a 02 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 265/1, oranica 3. klase, 1 ha 60 a 05 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 258/2, oranica 4. klase, 1 ha 10 a 27 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 241, oranica 4. klase, 2 ha 92 a 08 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 250, oranica 4. klase, 1 ha 43 a 58 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 256, oranica 4. klase, 2 ha 92 a 05 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 258/1, oranica 4. klase, 1 ha 81 a 77 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 160, oranica 5. klase, 3 ha 02 a 19 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 164/2, oranica 4. klase, 71 a 93 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 168, oranica 3. klase, 2 ha 91 a 80 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 179, oranica 3. klase, 93 a 87 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 180, livada 3. klase, 51 a 97 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 183, oranica 3. klase, 1 ha 83 a 36 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 184, livada 3. klase, 71 a 00 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 185, oranica 4. klase, 37 a 94 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 186, livada 4. klase, 17 a 48 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 187, livada 4. klase, 39 a 17 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 194, livada 3. klase, 11 a 44 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 195, oranica 3. klase, 1 ha 40 a 23 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 234, oranica 4. klase, 1 ha 43 a 76 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 237, oranica 4. klase, 2 ha 92 a 08 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 262, oranica 3. klase, 1 ha 46 a 02 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 263, oranica 3. klase, 1 ha 46 a 02 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 181, livada 3. klase, 53 a 12 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 182, oranica 3. klase, 89 a 63 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 188, oranica 3. klase, 89 a 20 m˛, upisane u Zk. ul. br. 206
+- k.č.br. 202, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 204/1, oranica 4. klase, 1 ha 51 a 24 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 204/2, oranica 4. klase, 1 ha 51 a 24 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 206, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 207/1, oranica 4. klase, 54 a 35 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 207/2, oranica 4. klase, 60 a 10 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 207/3, oranica 4. klase, 1 ha 25 a 81 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 207/4, oranica 4. klase, 62 a 22 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 208, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 209, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 210/1, oranica 4. klase, 1 ha 51 a 24 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 210/2, oranica 4. klase, 1 ha 51 a 24 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 217, oranica 4. klase, 2 ha 99 a 74 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 218, oranica 4. klase, 1 ha 49 a 87 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 219, oranica 4. klase, 1 ha 49 a 87 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 220, oranica 4. klase, 2 ha 99 a 74 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 221, oranica 4. klase, 1 ha 49 a 87 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 224, oranica 4. klase, 2 ha 99 a 71 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 226, oranica 4. klase, 1 ha 49 a 87 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 229, oranica 4. klase, 2 ha 99 a 71 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 232/1, oranica 4. klase, 99 a 88 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 232/3, oranica 4. klase, 99 a 88 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 235/1, oranica 4. klase, 1 ha 72 a 60 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 235/2, oranica 4. klase, 1 ha 27 a 11 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 239/1, oranica 4. klase, 2 ha 03 a 17 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 239/2, oranica 4. klase, 88 a 91 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 243/2, oranica 4. klase, 1 ha 45 a 99 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 244/1, oranica 4. klase, 1 ha 16 a 71 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 244/2, oranica 4. klase, 1 ha 75 a 37 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 245, oranica 4. klase, 1 ha 46 a 02 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 247, oranica 4. klase, 2 ha 92 a 08 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 249, oranica 4. klase, 1 ha 48 a 51 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 252, oranica 4. klase, 1 ha 47 a 03 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 253, oranica 4. klase, 3 ha 47 a 04 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 257, oranica 4. klase, 2 ha 92 a 05 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 213, oranica 5. klase, 3 ha 06 a 94 m˛, upisane u Zk. ul. br. 186
+- k.č.br. 196, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 197, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 198, oranica 4. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 203, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 211/1, oranica 4. klase, 1 ha 51 a 20 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 211/2, oranica 4. klase, 1 ha 51 a 28 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 212/1, oranica 5. klase, 1 ha 18 a 47 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 212/2, oranica 5. klase, 1 ha 21 a 57 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 215/1, oranica 4. klase, 2 ha 99 a 74 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 215/2, oranica 4. klase, 1 ha 43 a 87 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 216/1, oranica 4. klase, 1 ha 43 a 87 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 223, oranica 4. klase, 2 ha 99 a 74 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 225/1, oranica 4. klase, 2 ha 42 a 05 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 225/2, oranica 4. klase, 57 a 65 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 228, oranica 4. klase, 2 ha 99 a 71 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 236, oranica 4. klase, 2 ha 78 a 70 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 238, oranica 4. klase, 2 ha 92 a 08 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 240, oranica 4. klase, 2 ha 92 a 08 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 243/1, oranica 4. klase, 1 ha 46 a 10 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 251, oranica 4. klase, 1 ha 45 a 05 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 254/1, oranica 4. klase, 1 ha 90 a 41 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 254/2, oranica 4. klase, 09 a 28 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 254/3, oranica 4. klase, 56 a 25 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 255, oranica 4. klase, 2 ha 96 a 18 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 259/1, oranica 3. klase, 1 ha 96 a 16 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 231, oranica 4. klase, 2 ha 99 a 71 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 248, oranica 4. klase, 2 ha 92 a 08 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 233, oranica 4. klase, 1 ha 55 a 95 m˛, upisane u Zk. ul. br. 134
+- k.č.br. 199, oranica 4. klase, 1 ha 29 a 84 m˛, upisane u Zk. ul. br. 186
+- k.č.br. 200, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 186
+- k.č.br. 201, oranica 4. klase, 3 ha 02 a 48 m˛, upisane u Zk. ul. br. 186
+- k.č.br. 205/2, oranica 4. klase, 72 a 08 m˛, upisane u Zk. ul. br. 186
+- k.č.br. 212/3, oranica 5. klase, 69 a 34 m˛, upisane u Zk. ul. br. 186
+- k.č.br. 214, oranica 4. klase, 1 ha 96 a 66 m˛, upisane u Zk. ul. br. 186
+Ukupna površina: 199 ha 19 a 00 m˛
+k.o. Kreštelovac
+- k.č.br. 630/1/c/1, oranica 5. klase, 73 a 41 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/1/c/5, oranica 4. klase, 44 a 35 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/17, oranica 5. klase, 45 a 17 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/13, oranica 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/14, oranica 4. klase, 1 ha 41 a 89 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/12, oranica 4. klase, 45 a 32 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 707/4, oranica 4. klase, 42 a 30 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 707/5, oranica 4. klase, 26 a 36 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 858/40, oranica 4. klase, 63 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 707/4, oranica 4. klase, 42 a 30 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/18, oranica 4. klase, 28 a 05 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 858/21, oranica 4. klase, 60 a 35 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/10, oranica 4. klase, 34 a 42 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 858/22, oranica 4. klase, 52 a 30 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/8, oranica 4. klase, 1 ha 43 a 87 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/5a, oranica 4. klase, 02 a 01 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 503/171, oranica 4. klase, 06 a 33 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 503/172, oranica 4. klase, 05 a 47 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 503/173, oranica 4. klase, 05 a 47 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 505/21, oranica 4. klase, 62 a 55 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/24, oranica 4. klase, 62 a 22 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/25, oranica 4. klase, 59 a 74 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/27, oranica 4. klase, 60 a 96 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/30, oranica 4. klase, 54 a 63 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/31, oranica 4. klase, 62 a 19 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/33, oranica 4. klase, 72 a 22 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 505/38, oranica 4. klase, 67 a 94 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 506, oranica 4. klase, 11 a 51 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 508/4, oranica 4. klase, 1 ha 43 a 87 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 508/36, oranica 4. klase, 58 a 52 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 508/43, oranica 4. klase, 1 ha 64 a 08 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 508/4a, oranica 4. klase, 63 a 23 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 510/1, oranica 4. klase, 26 a 94 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 510/2, oranica 4. klase, 03 a 60 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 511, oranica 4. klase, 18 a 77 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 524/3, oranica 4. klase, 06 a 44 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 524/4, oranica 4. klase, 06 a 80 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 524/15, oranica 4. klase, 04 a 24 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 525/5, oranica 4. klase, 21 a 69 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 525/6, oranica 4. klase, 20 a 00 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 525/17, oranica 4. klase, 16 a 47 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 532/3, oranica 4. klase, 32 a 12 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 532/4, oranica 4. klase, 35 a 18 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 532/15, oranica 4. klase, 35 a 53 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 517/2, oranica 5. klase, 31 a 36 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 513/3, oranica 4. klase, 3 ha 16 a 36 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 513/5, oranica 4. klase, 2 ha 89 a 67 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 513/6, oranica 4. klase, 86 a 75 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 513/11, oranica 4. klase, 57 a 76 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 516/9, livada 3. klase, 25 a 82 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 517/6, oranica 5. klase, 2 ha 07 a 38 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 522/1, oranica 5. klase, 38 a 63 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 578/1/3, livada 4. klase, 13 a 56 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 585/2/a, livada 4. klase, 1 ha 10 a 24 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 525/2, oranica 4. klase, 60 a 96 m˛, upisane u Zk. ul. br. 806
+- k.č.br. 585/4, livada 4. klase, 68 a 41 m˛, upisane u Zk. ul. br. 831
+- k.č.br. 833/5, oranica 4. klase, 45 a 07 m˛, upisane u Zk. ul. br. 920
+- k.č.br. 520/2, oranica 5. klase, 01 a 33 m˛, upisane u Zk. ul. br. 920
+- k.č.br. 885/16, oranica 4. klase, 25 a 57 m˛, upisane u Zk. ul. br. 464
+- k.č.br. 860/17, oranica 4. klase, 30 a 00 m˛, upisane u Zk. ul. br. 464
+- k.č.br. 885/15, oranica 4. klase, 31 a 41 m˛, upisane u Zk. ul. br. 464
+- k.č.br. 513/8, oranica 4. klase, 97 a 25 m˛, upisane u Zk. ul. br. 857
+- k.č.br. 513/2, oranica 4. klase, 5 ha 81 a 22 m˛, upisane u Zk. ul. br. 857
+- k.č.br. 512/5, oranica 4. klase, 1 ha 01 a 39 m˛, upisane u Zk. ul. br. 857
+- k.č.br. 517/2/d/1, oranica 5. klase, 64 a 38 m˛, upisane u Zk. ul. br. 857
+- k.č.br. 519/2/a, oranica 5. klase, 50 a 71 m˛, upisane u Zk. ul. br. 857
+- k.č.br. 512/1, oranica 4. klase, 2 ha 87 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 512/4, oranica 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 512/6, oranica 4. klase, 4 ha 06 a 42 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 512/2/b, oranica 4. klase, 84 a 34 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/4, oranica 4. klase, 2 ha 42 a 63 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/10, oranica 4. klase, 1 ha 33 a 90 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/12, oranica 4. klase, 57 a 94 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/16, oranica 4. klase, 58 a 16 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/17, oranica 4. klase, 57 a 76 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/18, oranica 4. klase, 57 a 94 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/19, oranica 4. klase, 1 ha 25 a 70 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/1/b, oranica 4. klase, 1 ha 46 a 92 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 520/1, oranica 5. klase, 08 a 02 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 516/3, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 516/5, oranica 4. klase, 20 a 64 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 517/3, oranica 5. klase, 63 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 517/5, oranica 5. klase, 58 a 88 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 517/1/c, oranica 5. klase, 2 ha 30 a 19 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 517/1/b/1, oranica 5. klase, 2 ha 42 a 70 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 519/3, oranica 5. klase, 30 ha 93 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 522/2, oranica 4. klase, 28 a 77 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 524/16, oranica 4. klase, 04 a 06 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 532/16, oranica 4. klase, 52 a 12 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 532/17, oranica 4. klase, 58 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 532/18, oranica 4. klase, 62 a 19 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 551/2, livada 3. klase, 13 a 81 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 552, livada 5. klase, 32 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 553/1/1, livada 5. klase, 33 a 99 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 553/1/2, livada 5. klase, 13 a 34 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 553/1/5, livada 5. klase, 10 a 79 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 553/1/6, livada 5. klase, 11 a 01 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 555/1, livada 5. klase, 34 a 02 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 555/2, livada 5. klase, 34 a 02 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 559/1, livada 3. klase, 83 a 08 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 565, livada 3. klase, 40 a 61 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 569, oranica 4. klase, 44 a 89 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 570, oranica 4. klase, 02 a 19 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 573/1, oranica 4. klase, 07 a 84 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 573/2, oranica 4. klase, 35 a 07 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 574, livada 5. klase, 47 a 04 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 575/3/b, oranica 4. klase, 28 a 63 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 575/4/b, livada 5. klase, 55 a 42 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 575/1/a/3, livada 3. klase, 54 a 71 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 575/4/a/1, livada 5. klase, 55 a 39 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 575/4/a/2, livada 5. klase, 55 a 39 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 578/6, livada 4. klase, 44 a 24 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 578/1/1, livada 4. klase, 27 a 51 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 582/2, livada 3. klase, 07 a 98 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 582/3, livada 3. klase, 07 a 59 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 583/2, livada 3. klase, 06 a 51 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 583/4, livada 3. klase, 06 a 47 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 584/10, livada 3. klase, 31 a 18 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 601/1, oranica 5. klase, 77 a 72 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 601/2, oranica 5. klase, 77 a 69 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 601/3, oranica 5. klase, 77 a 69 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/1, oranica 5. klase, 1 ha 18 a 33 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/3, oranica 5. klase, 52 a 44 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/6, oranica 5. klase, 43 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/7, oranica 5. klase, 43 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/8, oranica 5. klase, 26 a 08 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/9, oranica 5. klase, 26 a 08 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/2/2, oranica 5. klase, 43 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/2/3, oranica 5. klase, 43 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/4/2, oranica 4. klase, 27 a 33 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/4/3, oranica 4. klase, 58 a 41 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 603/4/4, oranica 4. klase, 31 a 08 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 604/1, oranica 5. klase, 51 a 32 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 605/2, oranica 5. klase, 68 a 66 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 606/1/a, oranica 4. klase, 29 a 02 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 606/1/b, oranica 4. klase, 63 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 606/2/a, oranica 4. klase, 46 a 36 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 606/2/b, oranica 4. klase, 46 a 40 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 609, oranica 4. klase, 1 ha 46 a 56 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 611/1, oranica 5. klase, 1 ha 70 a 84 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 611/2, oranica 5. klase, 35 a 28 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 613/1, oranica 5. klase, 71 a 39 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 613/2, oranica 5. klase, 75 a 93 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 613/3, oranica 5. klase, 04 a 60 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 615/1, oranica 5. klase, 43 a 70 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 615/2, oranica 5. klase, 45 a 50 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 615/3, oranica 5. klase, 12 a 70 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 616, oranica 5. klase, 25 a 25 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 619, oranica 4. klase, 63 a 12 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 620/3, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 620/1/a, oranica 4. klase, 22 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 620/1/b, oranica 4. klase, 22 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 620/1/c, oranica 4. klase, 22 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 624/2/1, oranica 4. klase, 86 a 32 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 624/2/2, oranica 4. klase, 85 a 53 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 625/2/1, trstik 4. klase, 06 a 04 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 625/2/2, trstik 4. klase, 06 a 83 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 626/1, oranica 4. klase, 00 a 90 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 626/2, oranica 4. klase, 17 a 08 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 628/4, oranica 4. klase, 02 a 66 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 628/7, oranica 4. klase, 04 a 03 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 629/3, oranica 5. klase, 02 a 63 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/2, oranica 4. klase, 59 a 13 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/3, oranica 4. klase, 2 ha 20 a 83 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/5, oranica 4. klase, 47 a 69 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/8, oranica 5. klase, 05 a 11 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/10, oranica 5. klase, 90 a 49 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/11, oranica 5. klase, 54 a 45 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 630/1/a, oranica 5. klase, 34 a 46 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/3, oranica 4. klase, 95 a 96 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/6, oranica 4. klase, 51 a 54 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/9, oranica 4. klase, 98 a 30 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/c, oranica 4. klase, 59 a 70 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/g, oranica 4. klase, 68 a 77 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/k, oranica 4. klase, 1 ha 17 a 97 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/n, oranica 4. klase, 60 a 93 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/u, oranica 4. klase, 20 a 21 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/v, oranica 4. klase, 23 a 16 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/z, oranica 4. klase, 24 a 10 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 699/1, oranica 4. klase, 10 a 68 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 699/2, oranica 4. klase, 49 a 96 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 699/3, oranica 4. klase, 37 a 26 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 699/4, oranica 4. klase, 24 a 74 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 699/5, oranica 4. klase, 32 a 15 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 702/1, oranica 4. klase, 1 ha 03 a 94 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 702/2, oranica 4. klase, 1 ha 39 a 05 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 702/3, oranica 4. klase, 03 a 17 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 708/9/a, oranica 4. klase, 01 a 44 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 709/2, oranica 4. klase, 82 a 94 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 709/3, oranica 4. klase, 55 a 96 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 709/4, oranica 4. klase, 85 a 85 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 713/2, oranica 4. klase, 24 a 39 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 713/3, oranica 4. klase, 11 a 62 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 833/1/b, oranica 4. klase, 45 a 07 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 833/1/c, oranica 4. klase, 45 a 10 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 836/1, oranica 4. klase, 48 a 63 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 836/2, oranica 4. klase, 52 a 15 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 836/3, oranica 4. klase, 24 a 89 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 840/2, oranica 4. klase, 1 ha 06 a 82 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 840/3, oranica 4. klase, 1 ha 07 a 36 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 840/1/a, oranica 4. klase, 1 ha 06 a 96 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 840/1/b, oranica 4. klase, 1 ha 06 a 96 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 841/1, oranica 4. klase, 24 a 82 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 841/3, oranica 4. klase, 36 a 11 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 841/2/a, oranica 4. klase, 24 a 64 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 841/2/b, oranica 4. klase, 12 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 846, oranica 4. klase, 1 ha 64 a 01 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 847/1, oranica 4. klase, 1 ha 40 a 23 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 847/2, oranica 4. klase, 1 ha 05 a 60 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 847/3, oranica 4. klase, 1 ha 04 a 19 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 847/4, oranica 4. klase, 1 ha 00 a 71 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 848, oranica 4. klase, 41 a 04 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 849/1, oranica 4. klase, 09 a 42 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 849/2, oranica 4. klase, 05 a 72 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 850/1, oranica 4. klase, 62 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 850/2, oranica 4. klase, 59 a 42 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 850/3, oranica 4. klase, 04 a 14 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 851, oranica 4. klase, 23 a 38 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 852/1, oranica 4. klase, 54 a 17 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 852/2, oranica 4. klase, 54 a 17 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 853, oranica 4. klase, 32 a 51 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 854/1, oranica 4. klase, 43 a 77 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 854/2, oranica 4. klase, 46 a 18 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 854/3/b, oranica 4. klase, 49 a 56 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 854/4/b, oranica 4. klase, 03 a 88 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 855/1, oranica 4. klase, 33 a 05 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 855/2/b, oranica 4. klase, 25 a 79 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 856/1, oranica 4. klase, 35 a 79 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 856/2, oranica 4. klase, 28 a 95 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 856/3, oranica 4. klase, 35 a 82 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 860/15, oranica 4. klase, 44 a 71 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 860/16, oranica 4. klase, 49 a 56 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 860/1/d/6, oranica 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 860/1/d/7, oranica 4. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/25, oranica 4. klase, 28 a 95 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/59, oranica 4. klase,19 a 71 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/61, oranica 4. klase, 91 a 46 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/64, oranica 4. klase, 18 a 02 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/66, oranica 4. klase, 17 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/74, oranica 4. klase, 36 a 97 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/76, oranica 4. klase, 1 ha 71 a 92 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/1/c/2, oranica 4. klase, 1 ha 16 a 60 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/1/c/3, oranica 4. klase, 1 ha 00 a 74 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/1/c/6, oranica 4. klase, 22 a 87 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 872/1/c/7, oranica 4. klase, 58 a 77 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/2, oranica 4. klase, 67 a 19 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/3, oranica 4. klase, 1 ha 51 a 89 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/5, oranica 4. klase, 15 a 32 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/9, oranica 4. klase, 1 ha 23 a 22 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/10, oranica 4. klase, 1 ha 51 a 28 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/11, oranica 4. klase, 1 ha 72 a 64 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/12, oranica 4. klase, 1 ha 45 a 52 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/13, oranica 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/14, oranica 4. klase, 89 a 63 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/15, oranica 4. klase, 86 a 32 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/16, oranica 4. klase, 1 ha 15 a 09 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/17, oranica 4. klase, 89 a 88 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/18, oranica 4. klase, 1 ha 18 a 08 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/19, oranica 4. klase, 1 ha 75 a 88 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/20, oranica 4. klase, 1 ha 80 a 66 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 885/13, oranica 4. klase, 60 a 64 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 885/14, oranica 4. klase, 62 a 69 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/6, oranica 4. klase, 69 a 85 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 517/2/a/2, oranica 5. klase, 96 a 46 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 584/12, livada 3. klase, 31 a 18 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 623, oranica 4. klase, 1 ha 39 a 01 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/10, oranica 4. klase, 57 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/1/f, oranica 4. klase, 28 a 20 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 708/9/b, oranica 4. klase, 01 a 62 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 553/2, livada 5. klase, 58 a 16 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 605/1, oranica 5. klase, 33 a 99 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 855/2/a, oranica 4. klase, 51 a 54 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 513/15, oranica 4. klase, 57 a 58 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 683/6, oranica 4. klase, 51 a 54 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 874/7, oranica 4. klase, 26 a 33 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 549/1, oranica 4. klase, 58 a 73 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 551/1, oranica 4. klase, 60 a 35 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 557/2, livada 4. klase, 34 a 17 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 562, livada 3. klase, 47 a 26 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 563, livada 3. klase, 44 a 02 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 575/6, livada 5. klase, 54 a 53 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 575/8, livada 3. klase, 20 a 18 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 585/2/a, livada 4. klase, 1 ha 10 a 24 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 585/3/a, livada 4. klase, 81 a 68 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 576/2, livada 4. klase, 23 a 16 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 576/5, livada 5. klase, 61 a 39 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 576/6, livada 5. klase, 66 a 79 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 586/3, livada 3. klase, 11 a 73 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 586/4, livada 3. klase, 15 a 25 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 586/2/a, livada 3. klase, 14 a 13 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 586/19/a, livada 3. klase, 11 a 73 m˛, upisane u Zk. ul. br. 944
+- k.č.br. 532/12, oranica 4. klase, 35 a 46 m˛, upisane u Zk. ul. br. 354
+- k.č.br. 525/14, oranica 4. klase, 14 a 71 m˛, upisane u Zk. ul. br. 354
+- k.č.br. 524/12, oranica 4. klase, 03 a 99 m˛, upisane u Zk. ul. br. 354
+- k.č.br. 513/14, oranica 4. klase, 1 ha 10 a 67 m˛, upisane u Zk. ul. br. 299
+- k.č.br. 532/9, oranica 4. klase, 37 a 87 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 532/10, oranica 4. klase, 41 a 36 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 525/11, oranica 4. klase, 14 a 31 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 525/12, oranica 4. klase, 12 a 55 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 524/9, oranica 4. klase, 06 a 01 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 524/10, oranica 4. klase, 04 a 64 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 507/39, ribnjak, 1 ha 26 a 13 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 505/39, oranica 4. klase, 62 a 55 m˛, upisane u Zk. ul. br. 358
+- k.č.br. 524/6, oranica 4. klase, 06 a 87 m˛, upisane u Zk. ul. br. 382
+- k.č.br. 532/6, oranica 4. klase, 34 a 67 m˛, upisane u Zk. ul. br. 382
+- k.č.br. 525/8, oranica 4. klase, 12 a 44 m˛, upisane u Zk. ul. br. 382
+- k.č.br. 519/2, oranica 5. klase, 20 a 14 m˛, upisane u Zk. ul. br. 920
+- k.č.br. 872/68, oranica 4. klase, 17 a 59 m˛, upisane u Zk. ul. br. 311
+- k.č.br. 872/67, oranica 4. klase, 94 a 59 m˛, upisane u Zk. ul. br. 311
+- k.č.br. 508/24, oranica 4. klase, 21 a 26 m˛, upisane u Zk. ul. br. 360
+- k.č.br. 683/4, oranica 4. klase, 94 a 56 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 683/5, oranica 4. klase, 94 a 12 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 388, oranica 3. klase, 51 a 47 m˛, upisane u Zk. ul. br. 895
+- k.č.br. 419/1/a, oranica 3. klase, 77 a 83 m˛, upisane u Zk. ul. br. 895
+- k.č.br. 432/1, oranica 4. klase, 1 ha 06 a 60 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 396, oranica 3. klase, 1 ha 18 a 91 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 426, oranica 4. klase, 54 a 56 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 430/2, oranica 4. klase, 93 a 15 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 414/1/a, oranica 4. klase, 66 a 11 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 414/1/b/2, oranica 4. klase, 46 a 65 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 418/4, oranica 4. klase, 05 a 47 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 418/2, oranica 4. klase, 73 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 424/2, oranica 3. klase, 05 a 83 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 425/2, oranica 3. klase, 11 a 55 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 420/3, oranica 3. klase, 56 a 58 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 424/1, oranica 3. klase, 03 a 85 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 424/3, oranica 3. klase, 02 a 45 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 420/1, oranica 3. klase, 01 a 22 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 420/4, oranica 3. klase, 04 a 06 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 425/1/a, oranica 3. klase, 55 a 46 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 427/3, oranica 3. klase, 06 a 73 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 435/2, oranica 3. klase, 80 a 49 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 437/4/b, oranica 4. klase, 16 a 01 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 389, oranica 3. klase, 48 a 77 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 415, oranica 4. klase, 71 a 93 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 416/1, oranica 4. klase, 14 a 13 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 416/2, oranica 4. klase, 46 a 97 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 416/3, oranica 4. klase, 70 a 39 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 416/4, oranica 4. klase, 05 a 93 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 417, oranica 4. klase, 1 ha 01 a 68 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 414/1/b/1, oranica 4. klase, 19 a 46 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 402/1/a, oranica 4. klase, 30 a 21 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 402/2/a, oranica 4. klase, 08 a 81 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 398/1, oranica 4. klase, 07 a 19 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 413/2, oranica 4. klase, 44 a 42 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 413/1/1, oranica 4. klase, 33 a 27 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 413/6, oranica 4. klase, 13 a 38 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 413/4, oranica 4. klase, 26 a 76 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 414/2/a, oranica 4. klase, 66 a 11 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 393/3, oranica 3. klase, 73 a 26 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 411/2, oranica 4. klase, 46 a 40 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 411/3, oranica 4. klase, 33 a 81 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 413/5, oranica 4. klase, 13 a 38 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 418/1, oranica 4. klase, 21 a 33 m˛, upisane u Zk. ul. br. 253
+- k.č.br. 420/2, oranica 3. klase, 61 a 11 m˛, upisane u Zk. ul. br. 284
+- k.č.br. 427/2, oranica 3. klase, 62 a 62 m˛, upisane u Zk. ul. br. 673
+- k.č.br. 429/2, oranica 3. klase, 00 a 29 m˛, upisane u Zk. ul. br. 276
+- k.č.br. 430/3, oranica 3. klase, 04 a 10 m˛, upisane u Zk. ul. br. 276
+- k.č.br. 433/3, oranica 3. klase, 34 a 71 m˛, upisane u Zk. ul. br. 276
+- k.č.br. 434/2, oranica 3. klase, 01 a 11 m˛, upisane u Zk. ul. br. 276
+- k.č.br. 436/2, oranica 3. klase, 32 a 01 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 436/1/a, oranica 3. klase, 09 a 57 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 437/2, oranica 3. klase, 20 a 50 m˛, upisane u Zk. ul. br. 902
+- k.č.br. 427/4, oranica 3. klase, 12 a 91 m˛, upisane u Zk. ul. br. 936
+- k.č.br. 427/1, oranica 3. klase, 06 a 15 m˛, upisane u Zk. ul. br. 936
+- k.č.br. 428, oranica 3. klase, 01 a 58 m˛, upisane u Zk. ul. br. 936
+- k.č.br. 430/1/c, oranica 3. klase, 62 a 15 m˛, upisane u Zk. ul. br. 936
+Ukupna površina: 211 ha 27 a 15 m˛
+Sveukupna površina: 891 ha 12 a 40 m˛
+II.
+Koncesija za korištenje poljoprivrednog zemljišta iz točke I. ove Odluke može se dati domaćoj i stranoj pravnoj i fizičkoj osobi u svrhu biljne i stočarske proizvodnje na vrijeme od 20 godina, koja priloži dokaze o ispunjavanju uvjeta propisanih člankom 31. stavkom 4. Zakona o poljoprivrednom zemljištu.
+III.
+Postupak natječaja pema ovoj Odluci provest će Povjerenstvo za dodjelu koncesija za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske, uz objavu zakonom propisanih natječajnih uvjeta.
+IV.
+Ova Odluka stupa na snagu danom donošenja i objavit će se u "Narodnim novinama".
