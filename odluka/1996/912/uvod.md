@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91,14/91, 53A/91, 9/92, 55/92 i 29/94) i članka 3. stavka 2. Zakona o privatizaciji ("Narodne novine", broj 21/96), Vlada Republike Hrvatske je na sjednici održanoj 6. lipnja 1996. godine, donijela
