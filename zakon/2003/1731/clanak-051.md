@@ -1,0 +1,11 @@
+## VII. TRŽIŠNO NATJECANJE
+## Operateri ili davatelji usluga sa znatnijom tržišnom snagom
+# Članak 51.
+(1) Operator ili davatelj usluga ima znatniju tržišnu snagu na mjerodavnom tržištu:
+- ako je neznatno izložen ili uopće nije izložen tržišnom natjecanju, ili
+- ako ima nadmoćan položaj na tržištu prema ostalim sudionicima zbog svoje sposobnosti da utječe na tržišne uvjete, zbog veličine prihoda u odnosu na veličinu tržišta, te zbog nadzora nad pristupom krajnjim korisnicima, zbog pristupa financijskim izvorima ili zbog iskustva u ponudi proizvoda i usluga.
+(2) Vijeće Agencije može, po službenoj dužnosti ili na zahtjev operatora ili davatelja usluga, rješenjem utvrditi da operator ili davatelj usluga ima na određenom tržištu znatniju tržišnu snagu ako je njegov udjel na mjerodavnom tržištu veći od 25% ukupnoga tržišnog udjela na tom tržištu, uzimajući u obzir mjerila utvrđena u stavku 1. ovoga članka.
+(3) Vijeće Agencije može, po službenoj dužnosti ili na zahtjev operatora ili davatelja usluga, rješenjem utvrditi da operator ili davatelj usluga ima na određenom tržištu znatniju tržišnu snagu ako je njegov udjel na mjerodavnom tržištu manji od 25%, a može utvrditi i da operator ili davatelj usluga nema znatniju tržišnu snagu iako je njegov udjel veći od 25%, uzimajući u obzir mjerila utvrđena u stavku 1. ovoga članka.
+(4) U postupku donošenja rješenja o utvrđivanju operatora ili davatelja usluga sa znatnijom tržišnom snagom na mjerodavnom tržištu, Agencija je obvezna provesti postupak utvrđivanja i analize mjerodavnih tržišta, na način koji se pobliže propisuje pravilnikom koji donosi ministar.
+(5) Agencija jedanput godišnje objavljuje u »Narodnim novinama« i na drugi prikladan način mjerodavna tržišta te popis operatora i davatelja usluga koji na mjerodavnom tržištu imaju znatniju tržišnu snagu u skladu sa stavkom 1. ovoga članka i na temelju rješenja iz stavka 2. i 3. ovoga članka.
+(6) Operatori ili davatelji usluga iz stavka 1. ovoga članka, u skladu s načelom nediskriminacije, moraju svim sudionicima na tržištu pružati usluge pod usporedivim okolnostima, jednakim uvjetima i na istoj razini na kojoj obavljaju te usluge za vlastite potrebe ili za potrebe povezanih društava.

@@ -1,0 +1,5 @@
+## Naknada za koncesije, dozvole, prijave i ovlasti za obavljanje telekomunikacijskih usluga i djelatnosti
+# Članak 36.
+(1) Za koncesiju za frekvenciju za obavljanje telekomunikacijskih usluga iz članka 24. stavka 1. i 2., za dozvolu iz članka 25. stavka 1., za prijavu iz članka 27. stavka 1. te za ovlast iz članka 35. stavka 1. ovoga Zakona plaća se naknada na način i u visini propisanoj Pravilnikom o plaćanju naknade za obavljanje telekomunikacijskih usluga i djelatnosti, koji donosi ministar, pri čemu visina naknade ne smije narušavati slobodno tržišno natjecanje.
+(2) Pravilnikom iz stavka 1. ovoga članka propisuje se i način i visina naknade koja se plaća za sudjelovanje u postupku javnog natječaja i za preuzimanje natječajne dokumentacije iz članka 24. stavka 1. ovoga Zakona, za podnošenje zahtjeva za dozvolu iz članka 25. stavka 3. ovoga Zakona i za podnošenje pisane prijave iz članka 27. ovoga Zakona.
+(3) Naknade iz stavka 1. i 2. ovoga članka plaćaju se u korist državnog proračuna Republike Hrvatske, na temelju izdanog računa Agencije.

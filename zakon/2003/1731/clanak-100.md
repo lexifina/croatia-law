@@ -1,0 +1,6 @@
+## Stavljanje u pogon i pravo priključenja na mrežu
+# Članak 100.
+(1) RiTT oprema može se staviti u pogon u skladu s odredbama iz članka 17. stavka 1. i 2. ovoga Zakona.
+(2) Stavljanje u pogon RiTT opreme, koja udovoljava uvjetima stavljanja na tržište iz članka 97., 98. i 99. ovoga Zakona, može se ograničiti u slučaju da ta RiTT oprema uzrokuje štetne smetnje ili je štetna za zdravlje ljudi, ili ne omogućuje djelotvornu uporabu radiofrekvencijskog spektra.
+(3) Ako se utvrdi da RiTT oprema, koja ima propisanu izjavu o sukladnosti s bitnim zahtjevima iz članka 98. stavka 3. ovoga Zakona, uzrokuje ozbiljna oštećenja telekomunikacijske ili radijske mreže, ili štetne smetnje, ili smetnje u funkcioniranju te mreže, operator ima pravo uskratiti priključenje te RiTT opreme na svoju mrežu, isključiti već priključenu RiTT opremu ili je povući iz pogona. Operator o poduzetim mjerama mora bez odgode izvijestiti u pisanom obliku Agenciju.
+(4) RiTT oprema, koja iz bilo kojeg razloga ne udovoljava bitnim zahtjevima iz članka 98. stavka 3. ovoga Zakona, može biti javno izlagana i predstavljena na području Republike Hrvatske, uz jasno i razvidno istaknutu oznaku da uporaba takve RiTT opreme nije dopuštena u Republici Hrvatskoj.

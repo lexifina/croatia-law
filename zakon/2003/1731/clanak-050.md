@@ -1,0 +1,8 @@
+## Vijeće korisnika telekomunikacijskih usluga
+# Članak 50.
+(1) Vijeće korisnika telekomunikacijskih usluga osniva se pri Agenciji kao savjetodavno tijelo koje sudjeluje u rješavanju sporova između davatelja i korisnika javnih telekomunikacijskih usluga.
+(2) Članove Vijeća korisnika telekomunikacijskih usluga imenuje Vijeće Agencije iz reda predstavnika korisnika i davatelja javnih telekomunikacijskih usluga, nadležnih tijela državne uprave te uglednih stručnjaka iz područja telekomunikacija i zaštite potrošača, pri čemu jednu trećinu članova Vijeća korisnika telekomunikacijskih usluga moraju činiti predstavnici udruga za zaštitu potrošača.
+(3) Vijeće korisnika telekomunikacijskih usluga prati i analizira stanje u području javnih telekomunikacijskih usluga, a osobito razinu kakvoće usluga i cijene usluga, te u vezi s tim ima pravo tražiti putem Agencije od davatelja javnih telekomunikacijskih usluga potrebne podatke i dokumentaciju. Vijeće korisnika telekomunikacijskih usluga obvezno je o svojim mišljenjima, ocjenama i zaključcima redovito, a najmanje jedanput godišnje, izvješćivati Ministarstvo, Agenciju i druga nadležna tijela, te davati prijedloge za poduzimanje mjera u skladu sa zakonom.
+(4) Broj članova Vijeća korisnika telekomunikacijskih usluga, razdoblje na koje se imenuju te način i postupak rješavanja sporova iz stavka 1. ovoga članka utvrđuju se Statutom koji donosi Agencija.
+(5) Rad Vijeća korisnika telekomunikacijskih usluga je javan. Vijeće korisnika telekomunikacijskih usluga donosi poslovnik o svom radu.
+(6) Stručne, administrativne i tehničke poslove za potrebe Vijeća korisnika telekomunikacijskih usluga obavlja Agencija.

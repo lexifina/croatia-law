@@ -1,0 +1,5 @@
+## Uporaba javnog dobra i nekretnina drugih
+# Članak 21.
+(1) Koncesionari radiodifuzijskih usluga i operatori imaju pravo, uz pribavljenu suglasnost nadležnog tijela državne uprave koje upravlja javnim dobrima, koristiti se, u svrhu obavljanja svoje djelatnosti, javnim dobrima u općoj uporabi u vlasništvu Republike Hrvatske, te šumskim i drugim zemljištem u vlasništvu Republike Hrvatske, kao i zračnim prostorom iznad njih, za postavljanje i održavanje svoje telekomunikacijske infrastrukture i opreme.
+(2) U slučaju da nije dobivena suglasnost iz stavka 1. ovoga članka, koncesionari radiodifuzijskih usluga i operatori mogu, kad je to potrebno radi izgradnje objekata ili izvođenja radova koji su prema ovom Zakonu od interesa za Republiku Hrvatsku, steći vlasništvo ili steći služnost na nekretninama iz stavka 1. ovoga članka, kao i na nekretninama drugih pravnih i fizičkih osoba, u skladu s odredbama Zakona o izvlaštenju.
+(3) Prava koncesionara radiodifuzijskih usluga i operatora iz stavka 1. i 2. ovoga članka može ostvariti i Agencija u svrhu izgradnje sustava središta i postaja iz članka 83. ovoga Zakona.

@@ -1,0 +1,10 @@
+## Minimalni zahtjevi za iznajmljene telekomunikacijske vodove
+# Članak 55.
+(1) Operatori sa znatnijom tržišnom snagom, koji pružaju uslugu iznajmljenih telekomunikacijskih vodova, obvezni su objaviti minimalnu ponudu telekomunikacijskih vodova za iznajmljivanje s ujednačenim tehničkim značajkama, te moraju odrediti opće uvjete poslovanja i troškovno usmjerene cijene.
+(2) Operatori iz stavka 1. ovoga članka moraju na tržištu ponuditi uslugu iznajmljenih telekomunikacijskih vodova poštujući načela nediskriminacije, transparentnosti, objektivnosti i troškovne usmjerenosti. Kakvoća usluge iznajmljenih telekomunikacijskih vodova mora biti utvrđena unutar ponude iz stavka 1. ovoga članka.
+(3) Ako Vijeće Agencije procijeni da minimalna ponuda iz stavka 1. ovoga članka nije u skladu s načelima nediskriminacije, transparentnosti, objektivnosti i troškovne usmjerenosti, da ne omogućuje tržišno natjecanje, te nije u skladu s drugim odredbama ovoga Zakona ili s preuzetim međunarodnim propisima, rješenjem će odrediti operatoru promjenu njegove ponude.
+(4) Vijeće Agencije može kontrolirati cijene usluga iznajmljenih telekomunikacijskih vodova, nametnuti obvezu troškovne usmjerenosti cijena i obvezu strukturnog odvajanja i zasebnog obračunavanja, u slučaju nedostatka djelotvornog tržišnog natjecanja unutar tržišta, u slučaju kad operator određuje previsoke cijene ili određuje cijene na način koji ograničuje tržišno natjecanje.
+(5) U slučaju iz stavka 4. ovoga članka Vijeće Agencije donijet će rješenje o promjeni cijena iznajmljenih telekomunikacijskih vodova, uz obvezno obrazloženje razloga te promjene.
+(6) Operatori iz stavka 1. ovoga članka moraju, ako postoje tehničke mogućnosti, u roku od 60 dana od dana primitka zahtjeva za iznajmljivanje telekomunikacijskih vodova, priključiti te vodove.
+(7) Ako operator iz stavka 1. ne postupi u skladu s odredbom iz stavka 6. ovoga članka, Vijeće Agencije donijet će rješenje kojim će mu naložiti priključenje iznajmljenih telekomunikacijskih vodova.
+(8) Postojanje tehničkih mogućnosti iz stavka 6. ovoga članka utvrđuje Vijeće Agencije.

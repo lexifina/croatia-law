@@ -1,0 +1,5 @@
+## Prijelazne odredbe o koncesijama za radio i televiziju
+# Članak 120.
+(1) Vijeće za radio i televiziju, osnovano prema Zakonu o telekomunikacijama (»Narodne novine«, br. 76/99., 128/99., 68/01. i 109/01.), nastavlja radom prema odredbama toga Zakona do imenovanja Vijeća za elektroničke medije sukladno Zakonu o elektroničkim medijima.
+(2) Vijeće za radio i televiziju dovršit će postupke za davanje koncesije, odnosno produljenje koncesija za obavljanje djelatnosti radija i televizije, te postupke za promjene vlasničke strukture, promjenu programske sheme i po drugim zahtjevima, koji su započeti prema propisima koji su važili do dana početka primjene ovoga Zakona, prema propisima koji su važili do dana početka primjene Zakona o elektroničkim medijima.
+(3) Koncesionar radija i televizije, koji na dan početka primjene ovoga Zakona obavlja djelatnost radija i televizije na temelju koncesije i sklopljenog ugovora o koncesiji prema propisima koji su važili do dana početka primjene ovoga Zakona, nastavlja obavljati svoju djelatnost u skladu s odredbama posebnog zakona kojim je uređeno područje elektroničkih medija do isteka vremena na koje je dana koncesija.

@@ -1,0 +1,8 @@
+## Nadležna državna tijela
+# Članak 3.
+(1) Hrvatski sabor na prijedlog Vlade Republike Hrvatske donosi Strategiju razvoja telekomunikacija i informacijske tehnologije Republike Hrvatske za razdbolje od četiri godine, koja predstavlja temeljni dokument kojim se dugoročno uređuje osnovna načela i smjernice razvoja telekomunikacija, informacijske tehnologije, te određuje nacionalni prioritet u planiranju telekomunikacijskih i informatičkih djelatnosti.
+(2) Strategiju iz stavka 1. ovoga članka izrađuje ministarstvo nadležno za telekomunikacije (u daljnjem tekstu: Ministarstvo) u suradnji s ministarstvom nadležnim za informatičku djelatnost, Uredom za strategiju razvitka i Uredom za internetizaciju Vlade Republike Hrvatske, te Hrvatskom agencijom za telekomunikacije.
+(3) U slučaju velikih prirodnih nepogoda te prekida u obavljanju osnovnih telekomunikacijskih usluga Vlada Republike Hrvatske će u svrhu osiguranja obavljanja tih usluga ovlastiti Ministarstvo za poduzimanje odgovarajućih mjera.
+(4) Ministarstvo predstavlja Republiku Hrvatsku u međunarodnim telekomunikacijskim organizacijama i institucijama te je odgovorno za provedbu međunarodnih ugovora, sporazuma i konvencija iz područja telekomunikacija. Ministarstvo sudjeluje u radu tijela i stručnih skupina tih međunarodnih organizacija i institucija, a za sudjelovanje u njihovu radu može ovlastiti i Hrvatsku agenciju za telekomunikacije ili druga nadležna tijela.
+(5) Ministarstvo obavlja inspekcijski nadzor u području telekomunikacija u skladu s odredbama ovoga Zakona.
+(6) Ministarstvo obavlja upravni nadzor nad Hrvatskom agencijom za telekomunikacije.

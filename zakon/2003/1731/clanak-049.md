@@ -1,0 +1,10 @@
+## Prigovor i traženje naknade
+# Članak 49.
+(1) Korisnik javnih telekomunikacijskih usluga može davatelju usluga podnijeti prigovor na iznos kojim je zadužen za obavljenu telekomunikacijsku uslugu, te prigovor na kakvoću obavljene telekomunikacijske usluge.
+(2) Prigovor iz stavka 1. ovoga članka podnosi se u pisanom obliku, u roku od 30 dana od dana izdavanja računa za obavljene telekomunikacijske usluge, odnosno od dana obavljanja telekomunikacijske usluge na kakvoću koje se podnosi prigovor.
+(3) U slučaju podnošenja prigovora iz stavka 1. ovoga članka, davatelj usluga mora provjeriti iznos zaduženja za obavljenu telekomunikacijsku uslugu, odnosno kakvoću obavljene telekomunikacijske usluge, i na temelju izvršene provjere potvrditi iznos zaduženja ili ga prilagoditi točnom iznosu.
+(4) Pretplatnik koji je davatelju usluga podnio prigovor na iznos kojim je zadužen za obavljenu telekomunikacijsku uslugu, plaća, do rješenja prigovora, prosječni iznos kojim je bio zadužen u razdoblju od tri mjeseca prije razdoblja na koje se odnosi prigovor.
+(5) Pretplatnik ili korisnik javnih telekomunikacijskih usluga, koji je davatelju usluga podnio prigovor na kakvoću obavljene telekomunikacijske usluge, može tražiti naknadu štete od davatelja usluga, ako je razina kakvoće obavljene telekomunikacijske usluge manja od razine kakvoće propisane odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona.
+(6) Davatelj usluga nije obvezan platiti naknadu štete iz stavka 5. ovoga članka ako je razina kakvoće obavljene telekomunikacijske usluge manja od propisane razine kakvoće zbog objektivnih uzroka koji se nisu mogli predvidjeti niti izbjeći ili ukloniti (viša sila).
+(7) U slučaju spora u vezi s iznosom zaduženja iz stavka 3. ovoga članka ili u vezi s iznosom naknade štete iz stavka 5. ovoga članka, pretplatnik ili korisnik javnih telekomunikacijskih usluga može, prije podnošenja tužbe pred nadležnim sudom, podnijeti zahtjev za rješavanje spora Vijeću korisnika telekomunikacijskih usluga.
+(8) Na pitanja u vezi s potraživanjem i rokovima zastare potraživanja iz stavka 5. ovoga članka primjenjuju se odredbe općih propisa o obveznopravnim odnosima.

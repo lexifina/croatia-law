@@ -1,0 +1,6 @@
+## Podroban ispis računa
+# Članak 44.
+(1) Davatelji javnih telekomunikacijskih usluga moraju automatski bilježiti podatke o obavljenim telekomunikacijskim uslugama za svoje korisnike usluga u svrhu obračuna troškova obavljanja tih usluga, te moraju omogućiti korisnicima usluga, bez naknade, uvid i kontrolu podataka o učinjenim troškovima i podroban ispis računa za obavljene telekomunikacijske usluge.
+(2) Podroban ispis računa iz stavka 1. ovoga članka mora sadržavati sve potrebne podatke koji korisnicima usluga omogućuju jednostavnu provjeru i kontrolu troškova učinjenih obavljanjem tih usluga, odnosno uporabom nepokretne telekomunikacijske mreže, osim podataka o besplatnim pozivima i pozivima na telefonske brojeve za slučaj pomoći, te podataka koji su nespojivi s odredbama posebnih propisa o zaštiti osobnih podataka.
+(3) Vijeće Agencije može svojom odlukom utvrditi i dodatne podatke, osim podataka iz stavka 2. ovoga članka, koje su davatelji javnih telekomunikacijskih usluga obvezni, bez naknade, uključiti u podroban ispis računa.
+(4) Podroban ispis računa iz stavka 1. ovoga članka dostavlja se bez naknade svim korisnicima usluga. Korisnici usluga imaju pravo, na temelju zahtjeva podnesenog davatelju javnih telekomunikacijskih usluga, primati račun za obavljene telekomunikacijske usluge bez podrobnog ispisa podataka.

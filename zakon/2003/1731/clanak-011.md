@@ -1,0 +1,9 @@
+## Stručna služba Agencije
+# Članak 11.
+(1) Agencija ima stručnu službu ustrojenu u skladu s općim aktima Agencije, koja obavlja stručne, administrativne i tehničke poslove za potrebe Agencije. Za obavljanje pojedinih stručnih i tehničkih poslova Agencija može, prema potrebi, sklopiti ugovor s domaćim ili stranim pravnim ili fizičkim osobama, u skladu sa Statutom Agencije.
+(2) Stručnom službom Agencije rukovodi upravitelj Agencije koji za svoj rad odgovara Vijeću Agencije. Upravitelj Agencije organizira i vodi rad stručne službe Agencije te obavlja druge poslove određene Statutom Agencije. Predsjednik Vijeća Agencije može dio svojih ovlasti, utvrđenih ovim Zakonom i Statutom Agencije, prenijeti na upravitelja Agencije u skladu sa Statutom Agencije.
+(3) Upravitelja Agencije imenuje Vijeće Agencije na prijedlog ministra, na razdoblje od četiri godine, nakon kojeg može biti ponovno imenovan. U postupku predlaganja upravitelja Agencije ministar može prethodno objaviti i javni poziv za predlaganje kandidata za upravitelja Agencije.
+(4) Upraviteljem Agencije može biti imenovan hrvatski državljanin s prebivalištem u Republici Hrvatskoj, koji ima visoku stručnu spremu iz područja elektrotehničkih, pravnih ili ekonomskih znanosti i najmanje pet godina radnog iskustva u području telekomunikacija, te aktivno poslovno znanje barem jednoga stranog jezika (engleskog, njemačkog ili francuskog), a u svojoj se struci osobito istaknuo organizacijskim sposobnostima.
+(5) Upravitelj Agencije može biti razriješen dužnosti prije isteka razdoblja na koje je imenovan uz uvjete utvrđene Statutom Agencije.
+(6) Prava iz radnog odnosa upravitelja Agencije i radnika stručne službe Agencije uredit će se Pravilnikom o radu Agencije, u skladu s općim propisima o radu.
+(7) Na ostala pitanja u vezi s osnivanjem i radom Agencije, koja nisu uređena ovim Zakonom, primjenjuju se odredbe Zakona o ustanovama.

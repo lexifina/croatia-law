@@ -1,0 +1,6 @@
+## Zajednička uporaba izgrađene telekomunikacijske infrastrukture
+# Članak 22.
+(1) Agencija će poticati zajedničku uporabu izgrađene telekomunikacijske infrastrukture, i to osobito u svrhu zaštite zdravlja ljudi, zaštite okoliša i potreba primjerenijeg prostornog uređenja.
+(2) Koncesionari radiodifuzijskih usluga i operatori imaju pravo, ako postoje tehnički uvjeti, koristiti se izgrađenom telekomunikacijskom infrastrukturom u vlasništvu drugih pravnih i fizičkih osoba uz naknadu stvarnih troškova, na temelju sklopljenog ugovora.
+(3) Ako vlasnik telekomunikacijske infrastrukture odbije sklopiti ugovor iz stavka 2. ovoga članka, Vijeće Agencije će, na zahtjev koncesionara radiodifuzijskih usluga ili operatora, u roku od 60 dana od dana podnošenja tog zahtjeva utvrditi postoje li odgovarajući tehnički uvjeti, te u slučaju postojanja odgovarajućih tehničkih uvjeta donijeti rješenje koje u cijelosti zamjenjuje taj ugovor.
+(4) Ako vlasnik telekomunikacijske infrastrukture iz stavka 3. ovoga članka ne odgovori na zahtjev koncesionara radiodifuzijskih usluga ili operatora u roku od 30 dana od dana dostave tog zahtjeva, smatra se da je odbio sklopiti ugovor u smislu odredbe iz stavka 3. ovoga članka.

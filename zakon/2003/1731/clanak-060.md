@@ -1,0 +1,13 @@
+## Pristup izdvojenoj lokalnoj petlji
+# Članak 60.
+(1) Operatori nepokretnih javnih telefonskih mreža, koje je Vijeće Agencije odredilo operatorima sa znatnijom tržišnom snagom u pružanju nepokretnih javnih telefonskih mreža i usluga, i to javne govorne usluge, prijenosa podataka, zvuka, slika i drugog telekomunikacijskim kapacitetima u nepokretnoj mreži, moraju, na zahtjev drugih operatora, omogućiti pristup svojoj izdvojenoj lokalnoj petlji.
+(2) Operatori imaju obvezu pregovaranja u vezi sa zahtjevom za pristup izdvojenoj lokalnoj petlji. Ako se ne može postići dogovor o pristupu izdvojenoj lokalnoj petlji između operatora u roku od 45 dana od dana zaprimanja zahtjeva za pristup izdvojenoj lokalnoj petlji, operatori uključeni u pregovore o pristupu izdvojenoj lokalnoj petlji mogu se s tim zahtjevom obratiti Agenciji.
+(3) Troškovi i cijene za lokalne petlje i pripadajuću opremu moraju biti nediskriminirajući i objektivni te objavljeni na prikladan način. Cijene moraju biti troškovno usmjerene, odnosno moraju osigurati davatelju lokalne petlje pokrivanje stvarnih troškova, uključujući i razumnu stopu povrata na ulaganja.
+(4) Operatori iz stavka 1. ovoga članka moraju omogućiti pristup svojoj izdvojenoj lokalnoj petlji pod istim uvjetima pod kojima tu uslugu koriste sami ili s njima povezana društva.
+(5) Operatori iz stavka 1. ovoga članka moraju, na zahtjev Vijeća Agencije, na prikladan način objaviti i redovito obnavljati standardne ponude pristupa svojim izdvojenim lokalnim petljama i pripadajućoj opremi. Te ponude moraju sadržavati uvjete pristupa lokalnoj petlji, što posebno uključuje stvarne troškove i cijenu te usluge, u koju ne smiju biti uključeni troškovi mrežnih elemenata ili opreme koja korisniku nije potrebna za uporabu ponuđene usluge.
+(6) Agencija će osigurati da se određivanjem cijena pristupa izdvojenoj lokalnoj petlji potiče tržišno natjecanje.
+(7) Vijeće Agencije ima pravo, ako je to potrebno u svrhu osiguranja nediskriminacije, poticanja tržišnog natjecanja, gospodarske djelotvornosti i boljih uvjeta za korisnike usluga:
+- izvršiti promjenu standardne ponude za pristup izdvojenoj lokalnoj petlji i pripadajućoj opremi, uključujući i cijene,
+- zahtijevati od operatora iz stavka 1. ovoga članka davanje potrebnih podataka o ponudi za pristup izdvojenoj lokalnoj petlji i pripadajućoj opremi.
+(8) Ako Vijeće Agencije utvrdi da je tržište pristupa izdvojenoj lokalnoj petlji dovoljno razvijeno, oslobodit će operatore iz stavka 1. ovoga članka od obveze propisane ovim člankom, koja se odnosi na utvrđivanje cijena na temelju troškovne usmjerenosti.
+(9) Vijeće Agencije će sporove, koji se odnose na pristup izdvojenoj lokalnoj petlji, rješavati u skladu s člankom 56. stavkom 12. ovoga Zakona.

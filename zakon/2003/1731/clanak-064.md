@@ -1,0 +1,7 @@
+## Ustupanje telekomunikacijske infrastrukture
+# Članak 64.
+(1) Ako operator ustupi svoju telekomunikacijsku infrastrukturu ili slobodne telekomunikacijske kapacitete drugom operatoru, i ako taj operator kasnije obavlja telekomunikacijske usluge, troškovi na kojima se temelji ustupanje ne smiju biti subvencionirani iz područja djelatnosti s posebnim ili isključivim pravima.
+(2) Operator, koji ustupa telekomunikacijsku infrastrukturu ili slobodne telekomunikacijske kapacitete u skladu sa stavkom 1. ovoga članka, mora izvijestiti Agenciju prije početka obavljanja telekomunikacijskih usluga, te dostaviti dokaz o ispunjenju obveze iz stavka 1. ovoga članka. Vijeće Agencije može uložiti prigovor na ustupanje telekomunikacijske infrastrukture ili slobodnih telekomunikacijskih kapaciteta u roku od 60 dana od dana primitka obavijesti operatora, ako smatra da se radi o subvencioniranju.
+(3) U slučaju ulaganja prigovora iz stavka 2. ovoga članka ustupljena telekomunikacijska infrastruktura ili slobodni kapaciteti za telekomunikacijske usluge mogu se upotrebljavati uz uvjet da je prestalo subvencioniranje.
+(4) Prigovor iz stavka 2. ovoga članka mora sadržavati uvjete i zahtjeve u vezi sa subvencioniranjem, koje valja ispuniti retroaktivno, te primjeren rok u kojem se mora udovoljiti tim uvjetima i zahtjevima.
+(5) Na zajedničku uporabu telekomunikacijske infrastrukture i slobodnih telekomunikacijskih kapaciteta na odgovarajući se način primjenjuju odredbe iz članka 22. stavka 2., 3. i 4. ovoga Zakona.
