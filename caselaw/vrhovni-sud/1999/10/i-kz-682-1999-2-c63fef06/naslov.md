@@ -1,0 +1,1 @@
+I Kž-682/1999-2, Vrhovni sud Republike Hrvatske, 12.10.1999.
