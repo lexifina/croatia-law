@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine",broj 41/90, 8/91, 14/91, 53A/91) Vlada Republike Hrvatske na sjednici održanoj 11. prosinca 1991.godine, odnijela je
