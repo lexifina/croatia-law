@@ -1,0 +1,3 @@
+# Članak 5.
+Ovlaštena stručna organizacija mora imati odgovarajuću informatičku i tehničku opremu za obavljanje povjerenih poslova, koja omogućuje povezanost svih stanica za tehnički pregled vozila u jedinstveni informatički sustav, jedinstvenu bazu podataka te informatičku povezanost s drugim subjektima (nadležnim državnim tijelima i dr.).
+Ovlaštena stručna organizacija mora imati razvijeno jedinstveno programsko rješenje za automatsku obradu podataka o tehničkim pregledima vozila, obavljenoj registraciji vozila i ovjerenom produženju valjanosti prometne dozvole, uz osiguravanje točnosti i tajnosti prikupljenih podataka.
