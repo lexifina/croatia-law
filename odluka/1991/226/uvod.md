@@ -1,0 +1,1 @@
+Na temelju članka 36. Zakona o izvršenju Proračuna Republike Hrvatske za 1991. godinu ("Narodne novine", br. 58/90), Administrativna komisija Sabora Republike Hrvatske, na 9. sjednici, održanoj 22. veljače 1991. godine, donijela je
