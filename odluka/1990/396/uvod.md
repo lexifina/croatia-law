@@ -1,0 +1,1 @@
+Na temelju Amandmana XV točke 1. alineje 2. na Ustav Socijalističke Republike Hrvatske i člana 3. stava 3. Zakona o Spomen-području Jasenovac, Sabor Socijalističke Republike Hrvatske. na sjednici Vijeća udruženog rada 25. travnja 1990. i na sjednici Vijeća općina 25. travnja 1990, donio je
