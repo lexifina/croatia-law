@@ -1,0 +1,1 @@
+Na osnovi članka 146. stavka 4. Zakona o mirovinskom osiguranju ("Narodne novine", broj 102/98.) i članka 20. točke 15. Statuta Hrvatskog zavoda za mirovinsko osiguranje ("Narodne novine", broj 163/98.), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje na sjednici održanoj 4. listopada 1999. donosi
