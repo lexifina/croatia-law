@@ -1,0 +1,17 @@
+# Članak 81.
+Novčanom kaznom od 500,00 do 5.000,00 kn kaznit će se za prekršaj fizička osoba ako:
+1. obavlja ispašu i dopusti kretanje stoke bez nadzora pastira (članak 16. stavak 2.),
+2. dopusti kretanje stoke asfaltiranim prometnicama (članak 16. stavak 4.),
+3. drži pčele bez dopuštenja Ustanove (članak 16. stavak 7.),
+4. obavlja istraživanja bez suglasnosti Ustanove (članak 21. stavak 2.),
+5. o dopuštenom znanstvenom istraživanju ne podnese izvješće (članak 21. stavak 5. i 6.),
+6. ulazi u Park prirode na mjestima gdje to nije određeno ili ne plati propisanu naknadu (članak 25. stavak 1. i 2.),
+7. se kreće izvan dopuštenih područja i staza (članak 26. stavak 1. i 2. i članak 27.),
+8. dopusti slobodno kretanje pasa, ili pse ne drži vezane, u ograđenom prostoru ili ih ne vodi na uzici (članak 29.),
+9. prekorači dopuštenu brzinu (članak 31. stavak 1.),
+10. parkira i zaustavlja vozila na prometnicama i na mjestima koja nisu za tu svrhu posebno određena i obilježena (članak 33. stavak 4.),
+11. boravi i noći izvan predviđenih mjesta (članak 36.),
+12. obavlja nedopušteno grebensko krstarenje (članak 39. stavak 5.),
+13. kampira odnosno logoruje na mjestima koja nisu uređena za tu namjenu, ili bez dopuštenja Ustanove (članak 37.),
+14. se kreću Parkom prirode bez pribavljenog dopuštenja (članak 46. stavak 2. i 3.),
+15. prometuje bez usmenog odobrenja (članak 47. stavak 2.),
