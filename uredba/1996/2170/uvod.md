@@ -1,0 +1,1 @@
+Na temelju članka 79. Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine ("Narodne novine", broj 92/96), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1996. godine donijela

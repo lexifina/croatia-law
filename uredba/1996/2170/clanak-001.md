@@ -1,0 +1,2 @@
+# Članak 1.
+Do ustrojavanja Fonda za naknadu oduzete imovine, osobe koje su pravo na otkup stana stekle na temelju Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (u daljnjem tekstu: Zakon o naknadi) zahtjev za otkup stana podnose Fondu u stambenom gospodarstvu, odnosno pravnoj osobi koja obavlja poslove iz nadležnosti Fonda (u daljnjem tekstu: Fond), općine, odnosno grada prema mjestu gdje se stan nalazi.
