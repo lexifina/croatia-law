@@ -1,0 +1,6 @@
+# Članak 20.
+PROFESORI I STUDENTI
+(1) Plaćanja koja student ili vježbenik, koji je državljanin države ugovornice i koji boravi u drugoj državi ugovornici isključivo u svrhu njegovog obrazovanja ili pripravljanja, prima u svrhu njegovog uzdržavanja, obrazovanja ili pripravljanja, pod uvjetom da takva plaćanja nastaju iz izvora izvan te države, ne oporezuju se u to državi.
+(2) Plaćanja što ih prima profesor koji je državljanin države ugovornice i koji se nalazi u drugoj državi ugovornici sa svrhom podučavanja ili sudjelovanja u znanstvenim istraživanjima za period ili periode koji ne prelaze dvije godine, bit će izuzet od oporezivanja na primitke od pružanja usluga podučavanja ili istraživanja u toj drugoj državi pod uvjetom da takva primanja nastaju iz izvora izvan te države.
+(3) Naknade što ih student ili vježbenik, koji je državljanin države ugovornice, ostvari od nesamostalnog rada u drugoj državi ugovornici u vremenskom trajanju ne duljem od 183 dana u kalendarskoj godini s namjerom da stekne praktična iskustva primjerena svojoj naobrazbi ili zvanju, neće biti oporezivan u toj drugoj državi.
+(4) U svrhu stavka 2. ovog članka, izraz učitelj također uključuje instruktore, profesore i sve druge osobe sličnog akademskog zvanja.
