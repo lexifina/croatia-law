@@ -1,0 +1,3 @@
+# Članak 40.
+Odsjek za izgradnju i opremanje obavlja upravne i stručne poslove vezane za: pripremu izrade programa kapitalnih ulaganja u djelatnosti socijalne skrbi; pripremu i provođenje postupka pribavljanja ponuda za izvođenje radova i opremanje ustanova, te kontrolu postupka izvršenja ugovorenih radova; ocjenu opravdanosti ulaganja, te opravdanosti možebitnih prekoračenja ulaganja; računsku kontrolu pristiglih situacija za plaćanje, te pripreme podloga za donošenje odluka za plaćanje ugovorenih radova; računsku kontrolu pristiglih situacija za plaćanje, te pripremu donošenja odluka o plaćanju ugovorenih radova - opremanja.
+b) Odsjek pravnih poslova gospodarenja i upravljanja imovinom

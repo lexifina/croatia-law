@@ -1,0 +1,4 @@
+# Članak 35.
+U Odjeljku likvidature i platnog prometa obavljaju se poslovi vezani za:
+- formalnu, računsku i suštinsku kontrolu ulaznih računa; evidentiranje u knjigu ulaznih računa; kontiranje računa; unošenje kroz aplikacije; ispis virmanskih naloga, obrazaca, rekapitulacija i sl.; pripremu dokumentacije za plaćanje, te praćenje dužničko-vjerovničkih odnosa; praćenje tekuće likvidnosti, dospijeća plaćanja i plaćanja obveza; praćenje propisa vezanih uz plaćanje; evidenciju svih isplaćenih sredstava dnevno po namjenama; dostavljanje dokumentacije knjigovodstvu; praćenje stanja nepodmirenih obveza (konsolidirano izvješće); kontrolu blagajničkog poslovanja; kontrolu rješenja političkih zatvorenika i isplatu naknada za dane provedene u zatvoru; blagajničko poslovanje; obračun putnih naloga i kontrolu računa za isplatu preko blagajne.
+2. Pododsjek za knjigovodstvo

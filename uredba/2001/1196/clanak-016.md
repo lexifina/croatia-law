@@ -1,0 +1,3 @@
+# Članak 16.
+Odsjek radnog prava obavlja poslove vezane za: normativno uređivanje radnih odnosa; praćenje domaćih i stranih propisa, konvencija Međunarodne organizacije rada, smjernica Europske unije, te stajališta sudske prakse s područja radnih odnosa; praćenje ostvarivanja prava iz radnih odnosa; izradu pravnih tumačenja glede primjene propisa iz radnih odnosa; upravno postupanje u vezi primjene propisa iz radnog odnosa; pružanje stručne pomoći tijelima, trgovačkim društvima i radnicima; izradu izvješća, studija i analiza o primjeni propisa i položaju radnika; te drugi poslovi koje odredi ministar.
+b) Odsjek za mirovinsko osiguranje

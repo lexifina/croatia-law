@@ -1,0 +1,8 @@
+## 4. UPRAVA ZA RAD I MIROVINSKO OSIGURANJE
+# Članak 13.
+U Upravi za rad i mirovinsko osiguranje obavljaju se upravni i drugi stručni poslovi koji se odnose na radne odnose, tržište rada i zapošljavanje, te mirovinsko osiguranje, i to:
+- normativno uređivanje radnih odnosa, tržišta rada i zapošljavanja, kao i mirovinskog osiguranja; poticanje i praćenje aktivne politike u zapošljavanju; materijalno pravna zaštita nezaposlenih osoba i praćenje materijalnog položaja korisnika mirovine; upravni nadzor na području zapošljavanja i mirovinskog osiguranja; radnopravni status hrvatskih državljana privremeno zaposlenih u inozemstvu, te njihov povratak i zapošljavanje u zemlji; radno pravni status stranih državljana privremeno zaposlenih u Republici Hrvatskoj; ostvarivanje prava iz radnog odnosa i mirovinskog osiguranja; upravno postupanje u vezi primjene propisa iz radnog odnosa, zapošljavanja i mirovinskog osiguranja; promicanje trostrane suradnje socijalnih partnera; praćenje stanja i odnosa unutar obveznog i dobrovoljnog mirovinskog osiguranja na temelju individualne kapitalizirane štednje; evidencija i praćenje primjene kolektivnih ugovora; odnosi sa sindikatima i poslodavcima; registracija udruga; provedba postupka u vezi s utvrđivanjem odnosno ukidanjem radnih mjesta na kojima se staž osiguranja računa s povećanim trajanjem, te drugi poslovi koje odredi ministar.
+U Upravi za rad i mirovinsko osiguranje, ustrojavaju se:
+4.1. Odjel za tržište rada, kolektivne ugovore i udruge
+4.2. Odjel radnog prava i mirovinskog osiguranja
+4.1. Odjel za tržište rada, kolektivne ugovore i udruge
