@@ -1,0 +1,3 @@
+# Članak 3.
+Duljina brodice ili jahte iz članka 2. ove Naredbe jest duljina kako je navedeno u ispravama brodice ili jahte izdanim u skladu s nacionalnim propisima države čiju zastavu brodica ili jahta ovlašteno vije.
+Ukoliko brodica ili jahta iz članka 2. ove Naredbe nema valjane isprave iz kojih je vidljiva njihova duljina, tada se duljinom brodice ili jahte smatra duljina trupa brodice ili jahte odnosno duljina od krajnje krmene do krajnje pramčane točke integralnog dijela trupa plovila mjerena paralelno s vodenom linijom koja odgovara plovilu nakrcanom punim zalihama i s najvećim dopuštenim opterećenjem plovila.
