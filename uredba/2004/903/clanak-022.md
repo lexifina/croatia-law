@@ -1,0 +1,3 @@
+# Članak 22.
+Odjel za kaznene propise obavlja upravne i stručne poslove vezane za: izradu nacrta prijedloga zakona i podzakonskih akata, provođenje zakona i drugih propisa iz područja kazneno-materijalnog, kazneno-postupovnog i prekršajnog prava, prijedloge i mišljenja na nacrte propisa iz drugih oblasti prava u odnosu na kaznene odredbe, te obavlja i druge poslove iz područja kaznenog prava koja mu povjeri ministar, upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i podzakonskih akata, te obavlja i druge poslove iz ovog područja koje mu povjeri ministar.
+b) Odjel za pomilovanja

@@ -1,0 +1,2 @@
+# Članak 12.
+Odjel za unutarnji nadzor i nadzor pravosudnih i kaznenih tijela obavlja poslove nadzora financijskog i materijalnog poslovanja unutar Ministarstva, sudova, državnih odvjetništava i kaznenih tijela, zakonitost u njihovom postupanju i namjensko trošenje osiguranih sredstava za rad te predlaže mjere za racionalno korištenje tih sredstava. Obavlja i druge poslove koje mu povjeri ministar, državni tajnik i tajnik Ministarstva.

@@ -1,0 +1,2 @@
+# Članak 132.
+Odjel obavlja pravne i stručne poslove vezane za pripremu i organizaciju stalnog stručnog usavršavanja pravosudnih dužnosnika, savjetnika te sudačkih i državnoodvjetničkih vježbenika, organizira razne oblike stručnog usavršavanja sudaca i drugih pravosudnih dužnosnika te službenika u pravosudnim tijelima, brine se za osiguranje uvjeta za stalno stručno usavršavanje, obavlja stručne i uredske poslove za Pravosudnu akademiju.

@@ -1,0 +1,4 @@
+# Članak 18.
+Odjel za posebne imovinskopravne poslove obavlja upravne i stručne poslove vezane za: izradu nacrta prijedloga zakona, podzakonskih akata i drugih propisa kojima se uređuju imovinsko-
+-pravni odnosi vezani za građevinsko i poljoprivredno zemljište, šume i šumsko zemljište, komasaciju, izvlaštenje i druga ograničenja vlasništva, dio agrarnih operacija koji nisu u djelokrugu drugog tijela državne uprave, naknadu za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine; provodi upravni nadzor nad radom tijela državne uprave u županijama i upravnim tijelima u Gradu Zagrebu nadležnim za imovinskopravne poslove; u okviru djelokruga Ministarstva provodi i druge propise ako pojedini od tih propisa nisu u djelokrugu drugog odjela, te daje stručna mišljenja.
+d) Odjel za drugostupanjske upravne postupke

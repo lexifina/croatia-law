@@ -1,0 +1,3 @@
+# Članak 17.
+Odsjek za zemljišnoknjižno pravo izrađuje nacrte prijedloga zakona i podzakonskih akata kojima se uređuju zemljišne knjige, unutarnji ustroj, vođenje zemljišnih knjiga i zemljišnoknjižni postupak, sudjeluje u ostvarivanju programa razvoja EOP-zemljišnih knjiga kao i u drugim programima i poslovima uređenja posjedovne i vlasničke evidencije proizašlim iz posebnih propisa, pruža stručnu pomoć i nadzire rad zemljišnoknjižnih odjela u sudovima, sudjeluje u izradi programa i stručnog osposobljavanja zemljišnoknjižnih službenika, te obavlja druge poslove u svezi zemljišnih knjiga.
+c) Odjel za posebne imovinskopravne poslove

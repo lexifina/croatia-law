@@ -1,0 +1,4 @@
+# Članak 76.
+Odsjek prijama i otpusta zatvorenika ustrojenog u Odjelu tretmana Kaznionice u Lepoglavi obavlja poslove upoznavanja s osobnim i kriminološkim osobinama zatvorenika, izrade konačnog prijedloga pojedinačnog programa izvršavanja kazne zatvora, utvrđivanja potrebe za posebnim programima postupanja i njihovo provođenje, upoznavanja zatvorenika s pojedinačnim programom izvršavanja i kućnim redom, pravima i obvezama zatvorenika, izrade programa prihvata poslije otpusta, otpuštanja zatvorenika i vođenje matične evidencije.
+Poslove iz stavka 1. ovoga članka u Kaznionici u Požegi u odnosu na zatvorenice obavlja Odjel tretmana zatvorenica, u odnosu na zatvorenike Odjel tretmana zatvorenika, a u odnosu na maloljetnički zatvor Odjel tretmana maloljetničkog zatvora.
+2. Odsjek provedbe programa izvrŠavanja kazne zatvora

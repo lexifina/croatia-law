@@ -1,0 +1,2 @@
+# Članak 129.
+Odjel prati sukladnost domaćih propisa s Europskom konvencijom za zaštitu ljudskih prava i temeljnih sloboda i njenih protokola, sudskom praksom Europskog suda, te ukoliko povodom određenog slučaja koji je razmatrao Europski sud utvrdi da domaći propis nije u skladu s Europskom konvencijom i praksom Europskog suda daje poticaj nadležnim tijelima u Republici Hrvatskoj za usklađivanje; obavlja i druge poslove po nalogu ministra pravosuđa i pomoćnika ministra.

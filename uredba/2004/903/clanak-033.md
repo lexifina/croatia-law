@@ -1,0 +1,3 @@
+# Članak 33.
+Odsjek za međunarodnu pravnu pomoć u građanskim stvarima obavlja stručne i upravne poslove pripreme međunarodnih ugovora u pitanjima pravne pomoći u građanskim stvarima; izrađuje nacrte prijedloga zakona i podzakonskih akata i obavlja poslove provođenja međunarodnih ugovora i konvencija iz područja međunarodne pravne pomoći u građanskim stvarima; daje mišljenja u svezi legalizacije isprava za upotrebu u inozemstvu; pruža pravnu pomoć pravosudnim tijelima u postupcima utvrđivanja uzajamnosti, izdavanje potvrde o uzajamnosti u skladu sa zakonom; pribavlja obavijesti o mjerodavnom stranom pravu za pravosudna tijela te obavlja i druge poslove iz ovog područja po nalogu načelnika Odjela.
+b) Odjel za međunarodnu suradnju

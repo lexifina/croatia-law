@@ -1,0 +1,2 @@
+# Članak 127.
+Odjel prikuplja potrebne obavijesti uvidom u spise predmeta i na drugi odgovarajući način, utvrđuje činjenice na temelju kojih su donesene odluke u postupcima pred upravnim ili sudbenim tijelima u Republici Hrvatskoj protiv kojih je pokrenut postupak pred Europskim sudom za ljudska prava; izrađuje očitovanja Europskom sudu za ljudska prava, obavlja i druge poslove po nalogu ministra pravosuđa i pomoćnika ministra.

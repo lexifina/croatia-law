@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 48/99, 15/2000, 127/2000, 59/2001 i 199/2003) i članka 34. stavka 1. Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave (»Narodne novine«, br. 43/2001 i 8/2004), Vlada Republike Hrvatske je na sjednici održanoj 12. ožujka 2004. godine donijela
