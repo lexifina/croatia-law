@@ -1,0 +1,1 @@
+Na temelju članka 74. točka 11. Zakona o Narodnoj banci Hrvatske ("Narodne novine" br. 74/92, 26/93, 79/93) u svezi sa člankom 25b. stavak 1. Zakona o platnom prometu u zemlji ("Narodne novine" broj 27/93, 13/94 i 69/94) guverner Narodne banke Hrvatske donio je
