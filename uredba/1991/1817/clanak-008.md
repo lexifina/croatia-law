@@ -1,0 +1,4 @@
+# Članak 8.
+Ako tajni podatak obrane nestane ili bude otkriven, čelnik tijela državne uprave odnosno pravne osobe u kojoj je tajni podatak nestao ili je otkriven odmah pokreće postupak za utvrdivanje okolnosti uz koje je došlo do nestanka odnosno otkrivanja tajnog podatka, osigurava očuvanje tragova te poduzima mjere potrebne za uklanjanje mogućih štetnih posljedica, i o tome nejhitnije obavještava Ministarstvo obrane, Ministarstvo unutarnjih poslova i tijelo državne uprave odnosno pravne osobe od koje podatak potjeće.
+Tijelo državne uprave i pravne osobe iz stavka 1. ovog članka vode posebnu evidenciju o nestalim ili otkrivenim tajnim podacima obrane.
+Evidencija podataka iz stavka 2. ovog članka sadržava: vrstu podataka, okolnosti uz koje je podatak nestao odnosno otkriven, poduzete mjere, koja su tijela obaviještena o nestanku odnosno otkrivanju i kratku procjenu posljedica nestanka odnosno otkrivanja podataka.

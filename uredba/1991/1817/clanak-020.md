@@ -1,0 +1,2 @@
+# Članak 20.
+Obvezne mjere zaštite tajnih borbenih i drugih materijalnih sredstava i objekata, osim mjera predvidenih u čl.18. i 19. ove uredbe, obuhvačaju osobito: zaštitu tajnosti mjesta gdje se nalaze, njihove namjene, njihovih tehničkih i borbenih karakteristika, dijelova uredađa osjetljivih na razaranje i vatru, pa način maskiranja, vođenje evidencije o takvim sredstvima i objektima, posjetima tim objektima i sredstvima te o tome koja su sredstva i objekti pokazani, kome i po čijoj naredbi.
