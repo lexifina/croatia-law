@@ -1,0 +1,2 @@
+# Članak 4.
+Komisija je dužna osigurati evidentiranje stanja, nastalih šteta i ugroženosti prostora u ratnom stanju te donositi mjere iz oblasti uređivanja prostora za sprečavanje, smanjivanje i otklajanje posljedica ratnih razaranja(u nastavku: mjere), osiguravati i nadzirati njihovo provođenje. O donesenim mjerama i njihovoj provedbi komisija obavještava Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva.
