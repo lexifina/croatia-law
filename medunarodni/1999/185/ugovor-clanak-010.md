@@ -1,0 +1,2 @@
+# Članak 10.
+Priznavanje isprava o obrazovanju u svrhu zapošljavanja kao i priznavanje isprava o obrazovanju u svrhu nastavka naobrazbe koje ne proizlaze iz popisa visokoškolskih programa sukladno članku 9. stavak 2. točka b) ovog Ugovora koje su izdala visoka učilišta u Republici Hrvatskoj i Slovačkoj Republici, provodi se u postupku i na način predviđen nacionalnim zakonodavstvom ugovornih stranaka.

@@ -1,0 +1,2 @@
+# Članak 7.
+Diplomama koje izdaju visoka učilišta u Republici Hrvatskoj po završetku poslijediplomskog znanstvenog studija kojima se stječe akademski stupanj »doktora znanosti« (kratica dr. sc.) i diplomama koje izdaju visoka učilišta u Slovačkoj Republici po završetku doktorskog studija kojim se stječe znanstveno-akademski stupanj »philosophiae doctor« (kratica PhD) ili umjetničko-akademski stupanj »artis doctor« (kratica ArtD) priznaje istovrijednost.

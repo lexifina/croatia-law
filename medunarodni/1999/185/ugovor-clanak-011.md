@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Ovaj Ugovor stupa na snagu prvog dana po isteku (3) tri mjeseca nakon mjeseca u kojem su ugovorne stranke međusobno razmijenile diplomatskim putem pisane obavijesti o ispunjavanju svih uvjeta potrebnih za stupanje na snagu ovog Ugovora, predviđenih nacionalnim zakonodavstvom ugovornih stranaka.
+(2) Stupanjem na snagu ovog Ugovora između ugovornih stranaka prestaje važiti Ugovor između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Socijalističke Republike Čehoslovačke o uzajamnom priznavanju istovrijednosti diploma i dokumenata kojima se dodjeljuju znanstveni stupnjevi i nazivi izdani u Socijalističkoj Federativnoj Republici Jugoslaviji i Socijalističkoj Republici Čehoslovačkoj, potpisan u Beogradu, 12. rujna 1989. godine.
