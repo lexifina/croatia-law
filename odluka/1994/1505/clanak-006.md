@@ -1,0 +1,2 @@
+# Članak 6.
+Predsjednik Republike, pored dužnosnika iz članka 3. i 4. ove Odluke, imenuje i razrješava dužnosti savjetnike Predsjednike Republike, pročelnika Kabineta Predsjednika Republike, pročelnika Vojnog kabineta, pročelnik odjela i povjerenstava. Ostale dužnosnike, državne službenike i namještenike u Uredu imenuje i razrješava, odnosno postavlja i raspoređuje na radna mjesta predstojnik Ureda.

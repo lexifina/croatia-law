@@ -1,0 +1,2 @@
+# Članak 2.
+Ured obnaša savjetodavne, stručne i druge poslove u pripremi i skrbi oko priprema i provođenja odluka i akata koje donosi Predsjednik Republike Hrvatske (u daljnjem tekstu: Predsjednik Republike), te u obavljanju drugih njegovih Ustavom utvrđenih ovlasti. Ured je vlastan pojedine poslove iz svog djelokruga obnašati u suradnji ili povjeravanjem odgovarajućim upravnim, stručno-znanstvenim i drugim ustanovama, službama, organizacijama, te tijelima ili postrojbama.

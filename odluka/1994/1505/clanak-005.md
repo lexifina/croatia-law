@@ -1,0 +1,2 @@
+# Članak 5.
+Za obnašanje poslova iz članka 2. ove odluke u Uredu se ustrojavaju odgovarajući kabineti, odjeli, odsjeci, povjerenstva i druge unutarnje ustrojstvene jedinice. Ustrojstvo, način rada i druga pitanja od važnosti ze rad Ureda, uređuju se Pravilnikom o unutarnjem redu Ureda, koji donosi predstojnik Ureda uz prethodnu suglasnost Predsjednika Republike. Sastavni dio Pravilnika o unutarnjem redu Ureda je sistematizacija radnih mjesta u Uredu.
