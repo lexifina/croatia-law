@@ -1,0 +1,15 @@
+Obrazloženje
+Klub zastupnika Socijaldemokratske partije Hrvatske
+- Stranke demokratskih promjena, podnio je ovom sudu prijedlog za ocjenu ustavnosti donošenja zakona navedenog u izreci ovog rješenja. U prijedlogu se navodi da je taj zakon formalno nesuglasan s Ustavom Republike Hrvatske, jer da nije donesen po Ustavom propisanom postupku (članak 83. st. 2) predviđenom za zakone iz oblasti izbornog sustava.
+Ustavni sud Republike Hrvatske utvrdio je da prijedlog nije osnovan.
+Odredba članka 83. st. 2. Ustava Republike Hrvatske odreduje da zakone kojima se razrađuje, između ostaloga, i izborni sustav donosi Zastupnički dom većinom glasova svih zastupnika.
+Primjena ove ustavne odredbe, međutim, odgođena je do konstituiranja novog Sabora Republike Hrvatske s dvodomnom strukturom: Zastupnički dom i Županijski dom.
+Stoga, za donošenje Zakona o izborima zastupnika u Sabor Republike Hrvatske nije relevantna spomenuta ustavna odredba, nego odredbe članka 6. Ustavnog zakona za provedbu Ustava Republike Hrvatske ("Narodne novine", br. 58/90, 8/91, 31/91. 59/91).
+Ta odredba određuje da do konstituiranja novoizabranog Sabora Republike Hrvatske - vijeća Sabora u sadašnjem sastavu donose zakone i druge akte u djelokrugu, na način i prema postupku utvrđenom Ustavom Republike Hrvatske iz 1974. godine ili Poslovnikom Sabora.
+Dakle, ova odredba izravno upućuje na primjenu Poslovnika Sabora Republike Hrvatske kad se radi o donošenju zakona i drugih akata vijeća Sabora u sadašnjem sastavu.
+Stoga, za donošenje spomenutog zakona nedvojbeno dolazi u obzir primjena odredaba Poslovnika Sabora Republike Hrvatske ("Narodne novine", br. 17/92).
+Budući da u odredbi članka 234. st. 4. tog Poslovnika, među materijama o kojima se glasa većinom glasova svih zastupnika nije naveden izborni sustav, relevantna odredba za odlučivanje o donošenju spomenutog zakona je odredba članka 234. st.1. Poslovnika. Prema toj odredbi, zastupnici na skupnoj sjednici svih vijeća odlučuju većinom glasova nazočnih zastupnika.
+Prilikom donošenja navedenog zakona postupljeno je upravo tako zakon je donesen na skupnoj sjednici sva tri vijeća; 9. travnja 1992. godine, većinom glasova nazočnih zastupnika.
+Navod iz prijedloga da bi se "teško mogla naći pravna osnova da se odgodi primjena onih ustavnih odredaba koje se mogu neposredno primijeniti", nije osnovan u odnosu na konkretni zakon. Naime, prema odredbi članka 2. Ustavnog zakona za provedbu Ustava Republike Hrvatske, samo se one odredbe Ustava mogu primjenjivati od dana proglašenja Ustava za primjenu kojih se ne mora donijeti ustavni zakon ili zakon.
+Ta odredba ne odnosi se na članak 83. st. 2. Ustava Republike Hrvatske. Već sama činjenica - kada i ne bi bilo članka 6. Ustavnog zakona za provedbu Ustava Republike Hrvatske (obaveza donošenja zakona na način i prema postupku utvrđenom Poslovnikom) - što je za primjenu ustavne odredbe članka 83. st. 2. potrebno donijeti izborni zakon temeljem kojeg će se izabrati zastupnici u Zastupnički dom o kojem se govori u toj ustavnoj odredbi, dakle konstituirati Zastupnički dom, dovoljan je razlog za odgodu njezine primjene.
+Iz ovih razloga riješeno je kao u izreci.
