@@ -1,0 +1,5 @@
+# Članak 23.
+(1) Zahtjev za kupnju stana zainteresirane osobe podnose jedinici lokalne samouprave.
+(2) Upravno tijelo jedinice lokalne samouprave nadležno za poslove stanovanja dužno je voditi cjelovitu evidenciju pristiglih zahtjeva za kupnju stana i o tome izvješćivati Agenciju najmanje jedanput godišnje.
+(3) Uvjete, mjerila i postupak za određivanje reda prvenstva na kupnju stana, u skladu s uvjetima iz članka 21. i 22. ovoga Zakona, utvrđuje poglavarstvo jedinice lokalne samouprave ovisno o lokalnim potrebama i prilikama. Red prvenstva određuje jedinica lokalne samouprave, u skladu s kojim redoslijedom Agencija prodaje stanove.
+(4) U slučaju kada za izgradnju određenih stanova jedinica lokalne samouprave nije osigurala sredstva, za stanove čija prodaja nije obuhvaćena ugovorom iz članka 17. stavka 4. ovoga Zakona, red prvenstva na kupnju određuje se prema uvjetima i mjerilima koje utvrđuje Agencija u skladu s odredbom članka 21. i 22. ovoga Zakona. U tom slučaju se zahtjev za kupnju stana, iznimno od odredbe stavka 1. ovoga članka, podnosi u skladu s pozivom koji Agencija objavljuje u javnim glasilima.

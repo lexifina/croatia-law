@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Ukupna vrijednost građevinskog zemljišta, uređenja komunalne infrastrukture i priključaka na infrastrukturu, odnosno vrijednost tih sredstava jedinice lokalne samouprave sadržana u prodajnoj cijeni m2 stana ne može biti više od 30% etalonske cijene građenja.
+(2) Uređenjem komunalne infrastrukture iz članka 6. stavka 2. ovoga Zakona razumijeva se uređenje pristupne ceste, javnih površina i javne rasvjete, potrebne za korištenje građevine izgrađene na određenom zemljištu.
+(3) Priključcima na infrastrukturu iz članka 6. stavka 2. ovoga Zakona razumijeva se izvedba priključaka građevine na infrastrukturu za opskrbu pitkom vodom, odvodnju otpadnih i oborinskih voda, opskrbu plinom, toplinskom energijom ili drugim energetskim medijem ovisno o lokalnim prilikama, te priključenje građevine na električnu energiju i distributivnu telekomunikacijsku mrežu.

@@ -1,0 +1,2 @@
+# Članak 24.
+U slučaju kada u roku od 6 mjeseci od početka gradnje određene građevine nisu sklopljeni predugovori o kupoprodaji svih stanova u toj zgradi u skladu s utvrđenim uvjetima i mjerilima iz članka 23. ovoga Zakona, Agencija prodaje stanove neovisno o tim uvjetima. U tom slučaju stan mogu kupiti sve osobe koje prema važećim propisima mogu stjecati pravo vlasništva nekretnina u Republici Hrvatskoj, time da prednost na kupnju ima osoba koja cijenu stana plaća jednokratno.

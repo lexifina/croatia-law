@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Agencija u izgradnji stanova posluje javnim sredstvima i sredstvima koja se pribavljaju na tržištu kapitala od poslovnih banaka i drugih financijskih institucija, od građana - kupaca stanova, te drugih osoba koje prema odredbama ovoga Zakona mogu sudjelovati u osiguranju sredstava za izgradnju stanova.
+(2) Financijsko poslovanje u vezi s izgradnjom svake pojedine građevine Agencija vodi odvojeno na posebnom podračunu.
+(3) Agencija je dužna iz financijskih sredstava Republike Hrvatske osnovati rezervni fond radi osiguranja financiranja izgradnje građevine do potpune dovršenosti, u slučaju ako pojedini sudionici u izgradnji nisu izvršili svoje ugovorne obveze ili dio zgrade nije pravovremeno prodan i zbog drugih nepredvidivih okolnosti. Visinu sredstava rezervnog fonda utvrđuje Upravno vijeće Agencije.

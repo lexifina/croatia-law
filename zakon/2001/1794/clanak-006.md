@@ -1,0 +1,4 @@
+# Članak 6.
+(1) U cilju provođenja mjera za zadovoljavanje stambenih potreba građana i poboljšanja kvalitete stanovanja, jedinica lokalne samouprave utvrđuje stambene potrebe i interes za kupnju stanova na svom području, te u skladu s tim potrebama i svojim mogućnostima osigurava sredstva namijenjena za poticanje stanogradnje prema ovome Zakonu.
+(2) Jedinica lokalne samouprave za izgradnju stanova osigurava odgovarajuće građevinsko zemljište, uređenje komunalne infrastrukture i priključke na infrastrukturu, odnosno podmiruje troškove koji se odnose na infrastrukturu i priključke.
+(3) Jedinica lokalne samouprave može osigurati i financijska sredstva za pokriće dijela troškova građenja, posebice kada su ti troškovi povećani zbog posebnih uvjeta gradnje na određenoj lokaciji u kojem slučaju ta sredstva mogu biti i bespovratna.
