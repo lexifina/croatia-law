@@ -1,0 +1,26 @@
+# Članak 2.
+Osnovni dijelovi odore jesu:
+1. beretka,
+2. vjetrovka,
+3. jakna,
+4. zimske hlače (muške/ženske),
+5. ljetne hlače (muške/ženske),
+6. zimska suknja,
+7. ljetna suknja,
+8. zimska košulja (muška/ženska),
+9. ljetna košulja (muška/ženska),
+10. visoke cipele (muške/ženske),
+11. ženske čizme,
+12. niske cipele (muške/ženske),
+13. zimske čarape,
+14. zimske čarape s gaćicama ženske,
+15. ljetne čarape,
+16. ljetne čarape s gaćicama ženske,
+17. prsluk,
+18. pulover,
+19. majica kratkih rukava,
+20. kravata,
+21. kožne rukavice (muške/ženske),
+22. kišni ogrtač (muški/ženski),
+23. komplet za nošenje oružja i opreme.
+Pripadajući dijelovi odore jesu: oznaka pravosudne policije, oznaka zvanja, te oznake radnog mjesta načelnika odjela osiguranja i dežurstva u kaznionici, odnosno zatvoru.

@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 7. Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99, 55/2000, 59/2000, 129/2000, 59/2001 i 67/2001), Vlada Republike Hrvatske je na sjednici održanoj 22. svibnja 2003. godine donijela
