@@ -1,0 +1,1 @@
+Na temelju članka 13, 30a, 32, 33, 36, 38c, 38i, 38m i 42. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave i uprave (»Narodne novine« 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 27. Statuta Općine Brestovac, Općinsko vijeće Općine Brestovac, na 8. sjednici održanoj 20. prosinca 2001. godine donijelo je
