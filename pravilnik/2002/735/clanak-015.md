@@ -1,0 +1,2 @@
+# Članak 15.
+Stupanjem na snagu ovog Pravilnika prestaju važiti Pravilnik o vrstama službenog oružja i opremi ovlaštenih službenih osoba Ministarstva unutarnjih poslova Republike Hrvatske broj 511-01-64-38758/1-96. od 3. ožujka 1997. godine i Pravilnik o postupanju sa službenim osobnim naoružanjem i ubojnom opremom br. 511-01-64-9511/1-95. od 22. siječnja 1996. godine, u dijelu koji se odnosi na način nošenja oružja i streljiva.
