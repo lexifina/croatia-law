@@ -1,0 +1,1 @@
+Odluka o kriterijima i načinu raspodjele radnih dozvola prema kriterijima sporazuma o zapošljavanju radnika tvrtki, sa sjedištem u Republici Hrvatskoj, u SR Njemačkoj na temelju ugovora o izvođenju radova
