@@ -1,0 +1,19 @@
+O b r a z l o ž e n j e
+1. Borko Šamija iz Zagreba podnio je 30. siječnja 2004. godine prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 2. stavka 1. točki 1. i 2. Zakona o privatizaciji hrvatskih telekomunikacija d.d. ("Narodne novine", broj 65/99. i 68/01.), smatrajući te odredbe nesuglasnim s člancima 3. i 14. stavkom 2. Ustava Republike Hrvatske.
+Osporene odredbe glase:
+Članak 2.
+(1) Privatizacija HT-a prema članku 1. stavku 2. ovoga Zakona provest će se na sljedeći način:
+1. prijenosom bez naplate 7% dionica HT-a hrvatskim braniteljima i članovima njihovih obitelji,
+2. prodajom 7% dionica HT-a zaposlenicima i ranije zaposlenima u HT-u i Hrvatskim poštama d.d. (u daljnjem tekstu: HP) te ranije zaposlenima u Javnom poduzeću poštanskog i telekomunikacijskog prometa HPT - Hrvatska pošta i telekomunikacije (u daljnjem tekstu: zaposlenici i raniji zaposlenici), pod posebnim pogodnostima koje će propisati Vlada Republike Hrvatske, (...)
+2. Predlagatelj u bitnome smatra da se osporenim odredbama pojedine kategorije građana (branitelji, članovi njihovih obitelji i radnici HT-a) neosnovano stavljaju u povoljniji položaj u odnosu na druge, što je u suprotnosti s odredbom članka 14. stavka 2. Ustava.
+Prijedlog nije osnovan.
+3. Ovlaštenje je Hrvatskog sabora da samostalno odlučuje o uređivanju gospodarskih, pravnih i političkih odnosa u Republici Hrvatskoj u skladu s Ustavom i zakonom (članak 2. stavak 4. alineja 1. Ustava). Pri uređivanju tih odnosa zakonodavac je dužan uvažavati zahtjeve koje pred njega postavlja Ustav, a osobito one koji proizlaze iz načela vladavine prava i one kojima se štite određena ustavna dobra i vrednote. Pitanje privatizacije i modela privatizacije koji će se primijeniti gospodarsko je i političko pitanje te je u okviru navedene samostalnosti u nadležnosti zakonodavca.
+Stoga, u okviru njegove samostalnosti i Ustavom mu utvrđene nadležnosti treba tumačiti i pravo zakonodavca da propiše postupak privatizacije i odredi kategorije građana kojima će se određeni postotak dionica prenijeti bez naplate ili prodati pod posebnim pogodnostima.
+Polazeći od navedenog, a imajući u vidu činjenicu da je poduzeće HTP osnovano Zakonom o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća ("Narodne novine", broj 42/90., 61/91. i 109/93.) kao javno poduzeće s potpunom odgovornošću u vlasništvu Republike Hrvatske, Ustavni sud utvrđuje da je zakonodavac, propisujući pravo hrvatskim braniteljima, članovima njihove obitelji i radnicima HT stjecanja dionica HT pod povoljnijim uvjetima, uredio ovaj pravni odnos u granicama ovlasti propisane Ustavom. Ove odredbe nisu u nesuglasju s člancima 3. i 14. stavkom 2. Ustava.
+4. Prema odredbi članka 54. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 49/02 - pročišćeni tekst), Ustavni sud može ocjenjivati suglasnost zakona s Ustavom i u slučaju kad je taj zakon već bio predmetom ustavnosudske ocjene.
+Zakon o privatizaciji hrvatskih telekomunikacija d.d. bio je predmetom ustavnosudskog postupka u kojemu je Ustavni sud Republike Hrvatske donio rješenje broj: U-I-628/1999 i dr. od 12. srpnja 2001. godine (neobjavljeno) o neprihvaćanju prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom tog Zakona.
+Imajući u vidu činjenicu da predlagateljevi razlozi nisu istovjetni razlozima koje je Sud razmatrao u navedenom postupku te da se temelje na stajalištu predlagatelja da je cilj osporenih odredbi omogućavanje "nekom da lako dođe do te imovine", Ustavni sud je, ocjenjujući suglasnost s Ustavom odredbi osporenih u ovom ustavnosudskom postupku, u smislu prijedloga, ocijenio da navodi predlagatelja nisu osnovani.
+5. Iz navedenih razloga je, temeljem članka 43. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-I-323/2004
+Zagreb, 9. lipnja 2004.
