@@ -1,0 +1,3 @@
+# Članak 2.
+Postupak za donošenje rješenja o određivanju privremenog graničnog prijelaza, radi održavanja kratkotrajnih djelatnosti, sukladno članku 13. stavku 1. Zakona o nadzoru državne granice, pokreće pravna ili fizička osoba koja za to ima opravdan interes podnošenjem zahtjeva za određivanje privremenoga graničnog prijelaza (u daljnjem tekstu: zahtjev).
+Zahtjev iz stavka 1. ovog članka podnosi se nadležnoj policijskoj upravi, najkasnije 30 dana prije dana predviđenog za početak rada privremenoga graničnog prijelaza, osim u slučajevima potrebe određivanja privremenoga graničnog prijelaza radi preusmjeravanja prometa uvjetovanog posljedicama elementarne nepogode ili drugoga težeg štetnog događaja.
