@@ -1,0 +1,2 @@
+# Članak 45.
+Prometovanje na cestama Nacionalnog parka unutar temeljnog fenomena dopušteno je, uz uvjete utvrđene ovim Pravilnikom, samo za vozila Ustanove, Hrvatske vojske, policije i javnih službi, te stanovnika, odnosno vlasnika i ovlaštenika prava na nekretninama u Nacionalnom parku, a iznimno vozilima drugih pravnih i fizičkih osoba koje uz odobrenje Ustanove obavljaju odgovarajuće poslove na zaštiti i očuvanju prirodnih i kulturnih dobara, odnosno obavljaju druge djelatnosti na području Nacionalnog parka za koje imaju dopuštenje Ustanove ili Ministarstva.

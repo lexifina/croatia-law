@@ -1,0 +1,5 @@
+# Članak 95.
+Pored zabrane loženja vatre na području Nacionalnog parka, osim na za to posebno određenim mjestima, u Nacionalnom parku zabranjeno je skladištenje i manipuliranje zapaljivim i eksplozivnim tvarima i sredstvima bez dopuštenja Ustanove i poduzimanja preventivnih sigurnosnih mjera zaštite.
+Odredbe stavka 1. ovoga članka ne odnose se na Hrvatsku vojsku.
+Ustanova je dužna izgraditi spremnik za gorivo na lokalitetu Tatinica za svoje potrebe kao i za potrebe stanovnika Nacionalnog parka, te dugih pravnih i fizičkih osoba koje obavljaju dopuštenu djelatnost na području Nacionalnog parka.
+Do izgradnje spremnika za gorivo na lokalitetu Tatinice stanovnicima, odnosno vlasnicima i ovlaštenicima prava na nekretninama prava u Nacionalnom parku dopušteno je skladištenje i manipuliranje gorivom kao i do sada uz uvjet da podatke o mjestu gdje se nalazi gorivo dostave Ustanovi, te da prilikom manipuliranja gorivom osiguraju i provedu propisane i uobičajne preventivne, sigurnosne mjere zaštite.
