@@ -1,0 +1,2 @@
+# Članak 8.
+Naslov glave ispred članka 15. mijenja se i glasi: "VI. TEHNIČKI NADZOR IZVOĐENJA ELEKTRIČNIH INSTALACIJA, POPRAVKA, OBNOVE I PREGRADNJE POSEBNE OPREME".
