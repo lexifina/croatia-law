@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00, 59/01) i članka 19. Statuta Općine Žakanje (»Službeni glasnik Općine Žakanje« br. 7/01), Općinsko vijeće Općine Žakanje, na 9. sjednici održanoj dana 26. rujna 2002. godine, donijelo je
