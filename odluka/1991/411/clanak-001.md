@@ -1,0 +1,3 @@
+## o izmjeni i dopuni Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu
+# Članak 1.
+Mijenja se i dopunjuje članak e. Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja za 1991. godinu ("Narodne novine". br 5/91) i glasi: "lznimno od odredbe Članka 7. ove odluke osiguranici usobe, koje obavljaju crkveno-vjerske poslove u vjerskim zajednicama, doprinos za zdravstveno osiguranje obraćunavaju i plaćaju po stopi od l0% od osnovice osiguranja, koju čini zajamčeni osobni dohodak važeći za odnosni mjesec, umanjen za 10% bez obzira na dužinu staža osiguranja i stupnja stručne spreme osiguranika. Stavak 2. briše se.
