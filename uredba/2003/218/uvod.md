@@ -1,0 +1,1 @@
+Na temelju članka 170. stavka 3. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 33/2002 i 58/2002), Vlada Republike Hrvatske je na sjednici održanoj 30. siječnja 2003. godine donijela
