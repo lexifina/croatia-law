@@ -1,0 +1,5 @@
+# Članak 27.
+Svi brojevi na pojedinom kotačiću ili brojčaniku, ovisno o njihovu položaju, moraju označivati kubne metre ili dekadne umnoške ili decimalne dijelove kubnog metra.
+Očitavanje s pokaznog uređaja mora biti u kubnim metrima. Radi toga na ploči pokaznog uređaja mora postojati oznaka mł.
+Ako pokazni uređaj ima kotačić (ili kotačiće odnosno brojčanik) koji označuje decimalne dijelove kubnog metra, očitavanje u kubnim metrima ostvaruje se tako što se na ploči pokaznog uređaja taj kotačić (ili kotačići odnosno brojčanik) jasno vidljivim zarezom odvaja od kotačića koji označuje kubne metre i njihove dekadne umnoške i što se taj kotačić (ili kotačići odnosno brojčanik) jasno razlikuju (npr. bojom polja na ploči pokaznog uređaja) od kotačića koji su ispred zareza.
+Ako posljednji kotačić ili brojčanik pokaznog uređaja označuje dekadne umnoške kubnog metra, očitavanje u kubnim metrima ostvaruje se tako što se na ploči pokaznog uređaja iza zadnjeg kotačića ili brojčanika ispisuje jedna ništica, dvije ništice ili više ništica.

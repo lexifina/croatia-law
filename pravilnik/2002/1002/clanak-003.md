@@ -1,0 +1,2 @@
+# Članak 3.
+Plinomjerom s tekućinom mjeri se obujam proteklog plina pomoću komora kojima jednu stranu zatvara tekućina kojom je plinomjer napunjen do određene visine. Komore i mehanizam na koji su one vezane, giblju se pod utjecajem tlaka plina, prebacujući plin s ulazne strane na izlaznu stranu plinomjera. Obujam proteklog plina mjeri se brojem okretaja mehanizma na koji su vezane komore. Okretanje tog mehanizma na prikladan se način prenosi na glavnu osovinu posrednog prijenosa što pogoni pokazni uređaj plinomjera.

@@ -1,0 +1,2 @@
+# Članak 9.
+Krivulja pogrešaka uzduž čitava radnog područja mjerila od Qmin do Qmax utvrđena pri ispitivanju tipa plinomjera s tekućinom i plinomjera s mjehovima, mora biti takva da apsolutna vrijednost odstupanja maksimuma od minimuma krivulje pogrešaka ne bude veća od 3% za plinomjere s mjehovima, odnosno 1,5% za plinomjere s tekućinom, a da istovremeno padovi tlaka u plinomjerima s mjehovima ne budu veći od padova utvrđenih u članku 15. ovog Pravilnika.
