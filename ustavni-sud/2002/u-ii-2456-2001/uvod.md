@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sustavu Smiljko Sokol, predsjednik Suda te suci Marijan Hranjski, Petar Klarić, Mario Kos, Ivan Mrkonjić, Jasna Omejec, Željko Potočnjak, Agata Račan, Emilija Rajić, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, odlučujući o zahtjevu za ocjenu suglasnosti sa zakonima drugog propisa, na sjednici održanoj 18. rujna 2002., donio je sljedeću

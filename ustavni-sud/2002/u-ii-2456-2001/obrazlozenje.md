@@ -1,0 +1,22 @@
+Obrazloženje
+1. Na temelju odredbe članka 35. alineje 4. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 49/02 - pročišćeni tekst, dalje: Ustavni zakon), Vlada Republike Hrvatske (dalje: Vlada), podnijela je zahtjev za ocjenu suglasnosti odredaba članka 37. stavaka 2. i 3. Statuta Općine Lanišće (»Službene novine Općine Lanišće, broj 6/01 - dalje: Statut) sa Zakonom o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, broj 33/01 - dalje: ZOLS), Zakonom o vlasništvu i drugim stvarnim pravima (»Narodne novine«, broj 91/96, 68/98, 137/99, 22/00 i 73/00 - dalje: ZV) i Zakonom o poljoprivrednom zemljištu (»Narodne novine«, broj 66/01).
+Naime, Ministarstvo pravosuđa, uprave i lokalne samouprave je odlukom, klasa: 023-01/01-01/0630, urbroj: 514-11-2-3 od 20. studenoga 2001., temeljem odredbe članka 79. stavka 1. i članka 80. stavka 2. ZOLS-a, obustavilo od primjene naprijed navedene odredbe Statuta te je u skladu s odredbom članka 82. stavka 1. ZOLS-a podnijelo Vladi prijedlog da pokrene postupak za ocjenu ustavnosti i zakonitosti tih odredaba Statuta, nakon čega je Vlada podnijela predmetni zahtjev.
+2. Temeljem odredbe članka 40. stavka 1. Ustavnog zakona, zahtjev je dostavljen Općinskom vijeću Općine Lanišće (dalje: općinsko vijeće) na odgovor, no u određenom roku to Općinsko vijeće nije Ustavnom sudu dostavilo odgovor.
+Nakon toga, dopisom od 28. ožujka 2002. zatražena je od Općinskog suda u Buzetu, dostava izvadaka iz zemljišnih knjiga s podacima o vlasnicima seoskih dobara (komunela) s područja općine Lanišće za naselja Brest, Brgudac, Dane, Jelovice, Klenovščak, Kropinjak, Lanišće Podgaće, Prapoće, Račja Vas, Rašpor, Slum, Trstenik i Vodice, za koja su osnovani i mjesni odbori. Općinski sud u Buzetu, Zemljišno-knjižni odjel, udovoljio je tom zahtjevu uz svoj dopis od 4. travnja 2002.
+3. Osporene odredbe članka 37. stavaka 2. i 3. Statuta, glase:
+»Mjesni odbor je pravna osoba i upravlja seoskim dobrom, zajedničkom imovinom sela (komunelama).
+Način upravljanja seoskim dobrom utvrđuje se posebnim aktom.«.
+4. Vlada smatra da navedene odredbe nisu utemeljene na odredbi članka 35. stavka 2. ZV, koja glasi:
+»(2) Stvarima u vlasništvu Republike Hrvatske raspolaže, i upravlja i koristi se Vlada Republike Hrvatske ili od nje ovlašteno tijelo ako posebnim zakonom nije drukčije određeno. Stvarima u vlasništvu jedinica lokalne samouprave i jedinica lokalne samouprave i uprave raspolaže, upravlja i koristi se njezino poglavarstvo, ako posebnim zakonom nije drukčije određeno.«.
+Nadalje, Vlada smatra da osporavane odredbe nisu utemeljene ni na odredbama članka 391. ZV, koje glase:
+»(1) Nekretninu u vlasništvu jedinica lokalne samouprave i jedinica lokalne uprave i samouprave poglavarstva tih jedinica mogu otuđiti ili njom na drugi način raspolagati samo na osnovu javnog natječaja i uz naknadu utvrđenu po tržnoj cijeni, ako zakonom nije drukčije određeno.
+(2) Pravni poslovi sklopljeni protivno odredbama ovoga članka ništavi su.«.
+Također, Vlada smatra da osporavane odredbe nisu utemeljene na odredbi članka 48. stavka 1. točke 4. ZOLS-a, koja glasi:
+»Poglavarstvo: …
+4. upravlja i raspolaže nekretninama i pokretninama u vlasništvu jedinica lokalne odnosno područne (regionalne) samouprave kao i njezinim prihodima i rashodima u skladu sa zakonom i statutom,«.
+Konačno, Vlada drži osporavane odredbe nezakonitima u smislu odredbe članka 22. stavka 1. Zakona o poljoprivrednom zemljištu, koja glasi:
+»Poljoprivrednim zemljištem čiji je vlasnik, izuzev onoga koje se vraća ranijim vlasnicima po posebnom zakonu, Republika Hrvatska raspolaže prema općim propisima o raspolaganju nekretninama, ako ovim Zakonom nije drugačije određeno.«.
+Dakle, u bitnom, Vlada smatra da su seoska dobra (komunele), kao poljoprivredno zemljište, u vlasništvu Republike Hrvatske, zbog čega jedinice lokalne samouprave nisu ovlaštene donositi akte glede upravljanja tim zemljištem, niti mogu upravljanje tim zemljištem prepustiti mjesnim odborima.
+Zahtjev je osnovan.
+5. Prema odredbi članka 8. stavka 2. ZOLS-a, ovlasti jedinice lokalne, odnosno područne (regionalne) samouprave podrobnije se uređuju njezinim statutom, pa i pravo upravljanja nekretninama može za tu jedinicu biti određeno statutom samo glede zemljišta koje je nedvojbeno i samo u njezinu vlasništvu. Iz dostavljenih zemljišnoknjižnih izvadaka ne proizlazi da su to zemljišta u vlasništvu Općine Lanišće.
+6. Stoga je temeljem odredbe članka 55. stavka 1. Ustavnog zakona odlučeno kao u izreci.
