@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ministarstvo vodi jedinstvenu evidenciju humanitarnih organizacija i programa pomoći koje provode na temelju izdanih suglasnosti za pružanje humanitarne pomoći iz članka 4. stavka 1. ovoga Zakona, podataka iz službenih evidencija koje vode nadležna tijela državne vlasti i na temelju podataka pribavljenih od humanitarnih organizacija sukladno članku 5. ovoga Zakona.
+(2) Tijela nadležna za registraciju pravnih osoba koje su pribavile suglasnost za pružanje humanitarne pomoći, dužna su upravnom tijelu jedinice lokalne samouprave nadležnom za poslove socijalne skrbi i Ministarstvu dostavljati rješenja koja se odnose na upis statusnih promjena u registar.
