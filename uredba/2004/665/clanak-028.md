@@ -1,0 +1,3 @@
+# Članak 28.
+Iznimno, prilikom podnošenja zahtjeva za ishođenje koncesije za posebnu upotrebu, iz članka 24. stavka 2. ove Uredbe, zahtjev mora sadržavati ime, prezime i prebivalište podnositelja zahtjeva, suglasnost lučke kapetanije na dostavljeni idejni projekt koja se daje s naslova sigurnosti plovidbe i očitovanje o usklađenosti idejnog rješenja s prostorno-planskom dokumentacijom;
+Ukoliko je zahtjev iz stavka 1. ovog članka potpun i suglasnost lučke kapetanije pozitivna, tijelo nadležno za provođenje postupka koncesija, u roku od 15 dana od dana zaprimanja zahtjeva, izraditi će prijedlog odluke o koncesiji za posebnu upotrebu i dostaviti ga davatelju koncesije na donošenje.

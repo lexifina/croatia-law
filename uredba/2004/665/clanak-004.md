@@ -1,0 +1,4 @@
+# Članak 4.
+Ovlaštenik koncesije podnosi davatelju koncesije pisani obrazloženi prijedlog za prijenos koncesije na drugu pravnu osobu ili fizičku osobu registriranu za obavljanje obrta, u slučaju da iz gospodarskih, organizacijskih, financijskih ili dugih opravdanih razloga više nije u mogućnosti izvršavati obveze iz ugovora o koncesiji, u obimu i na način utvrđen odlukom i ugovorom o koncesiji.
+U prijedlogu mora biti naveden razlog prijedloga da se koncesija prenese upravo na tu osobu.
+Uz prijedlog za prijenos prilaže se i pisana izjava osobe na koju bi se prenijela koncesija, ovjerena kod javnog bilježnika, kojom ona pristaje na prijenos, kao i svi dokazi iz članka 17. stavka 3. Zakona, koji se odnose na tu osobu, radi ocjene da li ta osoba udovoljava uvjetima potrebnim za davanje koncesije.

@@ -1,0 +1,3 @@
+# Članak 27.
+Kada nadležno tijelo za provođenje postupka koncesije zaprimi pisani zahtjev, iz članka 26. ove Uredbe, dužno je u roku od 30 dana provjeriti da li je područje određeno i upisano kao pomorsko dobro.
+Tijelo nadležno za provođenje postupka koncesije dužno je, u daljnjem roku od 8 dana, izvijestiti podnositelja zahtjeva o nemogućnosti davanja koncesije za posebnu upotrebu uz obrazloženje ili ovlastiti podnositelja zahtjeva da podnese zahtjev za izdavanjem lokacijske dozvole ili pokrene postupak izrade detaljnog plana. Nakon ishođenja lokacijske dozvole ili izrade detaljnog plana nadležno tijelo za provođenje postupka koncesije izradit će prijedlog odluke o dodjeli koncesije i dostaviti je davatelju koncesije.
