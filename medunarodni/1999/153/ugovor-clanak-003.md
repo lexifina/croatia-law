@@ -1,0 +1,5 @@
+# Članak 3.
+NAČELA I KRITERIJI SURADNJE
+Ugovorne stranke će djelovati u tom pravcu da će suradnja željeznica i pojačano promicanje kombiniranog prometa između država ugovornih stranaka, kao i preko suverenog područja ugovornih stranaka u neku treću zemlju uslijediti prema sljedećim načelima i kriterijima:
+1. Ugovorne stranke su suglasne da poduzmu sve potrebne i gospodarstveno prihvatljive mjere kako bi se osigurao što je moguće veći tržišni udio željezničkog prometa kod međunarodnog prijevoza stvari, kao i kod prijevoza za treće zemlje kroz jednu ili obje države ugovornih stranaka. U tu svrhu ugovorne stranke će poticati bolju opremljenost željezničkih poduzeća koja će kroz bolju kvalitetu prijevoza, veću brzinu prijevoza i diferencirane tarife biti konkurentna u odnosu na druge nositelje prijevoza.
+2. Ugovorne stranke su suglasne da će poduzeti sve mjere kako bi se osiguralo da se praktično upotrebljivi željeznički kapaciteti potpuno iskorištavaju u konvencionalnom željezničkom prometu i u kombiniranom prometu.
