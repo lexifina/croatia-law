@@ -1,0 +1,16 @@
+Obrazloženje
+Krešimir Panjaković podnio je, temeljem članka 15. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br. 13/91), prijedlog za ocjenu ustavnosti odredbe citirane u izreci rješenja, navodeći da je isti protivan članku 27. i članku 54. stavku 1. Ustava Republike Hrvatske.
+Prijedlog nije osnovan.
+Osporena odredba, koja određuje pretpostavke za osnivanje društva s ograničenom odgovornošću glasi:
+stavak 1.
+"Društvo se osniva na temelju ugovora kojeg sklapaju osnivači (društveni ugovor). Svi osnivači moraju potpisati društveni ugovor koji se sklapa u obliku javnobilježničke isprave."
+stavak 2.
+"Ako društvo osniva jedan osnivač, društveni ugovor zamjenjuje izjava osnivača, o osnivanju društva s ograničenom odgovornošću, dana kod javnog bilježnika."
+Članak 27. Ustava određuje odvjetništvo kao samostalnu i neovisnu službu, koja osigurava pravnu pomoć građanima u skladu sa zakonom, a članak 54. stavak 1. Ustava određuje pravo svakoga na rad i slobodu rada.
+Osporenom odredbom niti jedan od ta dva ustavna principa nije doveden u pitanje.
+Za razliku od odvjetništva, koje je samostalna i neovisna služba i pruža pravnu pomoć građanima, a koja prema članku 3. Zakona o odvjetništvu ("Narodne novine", br. 9/94) obuhvaća sve oblike pravne pomoći građanima, javno bilježništvo je javna služba (članak 1. Zakona o javnom bilježništvu "Narodne novine", br. 78/93 i 29/94).
+Prema stavku 2. i 3. članka 3. Zakona o javnom bilježništvu, javnobilježničke isprave i njihovi otpravci, po tom zakonu, imaju snagu javnih isprava ako su prilikom njihovog sastavljanja i izdavanja ispunjene bitne formalnosti propisane tim zakonom, a osim toga javnobilježnički akt može u zakonom propisanim slučajevima biti izvršna isprava, za razliku od odvjetničkih podnesaka, koji imaju karakter privatnih isprava.
+Radi toga, određivanjem da se društveni dogovor radi osnivanja društva s ograničenom odgovornošću sklapa u obliku javnobilježničke isprave, radi postizavanja određenih pravnih učinaka, ne onemogućava pravo građanima da traže pravnu pomoć odvjetnika, kako tvrdi predlagatelj. Naime, kod javnog bilježnika građani imaju pravo da ih prilikom sastava javnobilježničke isprave zastupa odvjetnik. Dapače, i sam društveni dogovor iz članka 387. stavka 1. Zakona o trgovačkim društvima može sačiniti odvjetnik, a u kojem slučaju će javni bilježnik provesti postupak solemnizacije društvenog ugovora, u skladu s člankom 59. stavkom 1. Zakona o javnom bilježništvu.
+Prema tome, osporenom odredbom nije povrijeđena odredba članka 27. Ustava. Također, osporena odredba nije niti u suprotnosti s člankom 54. Ustava jer odvjetnicima se tom odredbom ne onemogućava pravo na rad i sloboda rada, već se samo za pravovaljanost društvenog ugovora traži određena zakonska forma. Sigurno je da time što neke ugovore može, pored odvjetnika, u okviru svoje nadležnosti, sastaviti i bilježnik, predstavlja određenu konkurenciju odvjetnicima, međutim, ne i povredu iz članka 54. Ustava.
+Zbog naprijed iznesenog, Sud je, u skladu s člankom 45. Poslovnika Ustavnog suda Republike Hrvatske ("Narodne novine", br. 29/94), odlučio da ne prihvati prijedlog za ocjenu ustavnosti članka 387. stavka 1. i 2. Zakona o trgovačkim društvima.
+Objava rješenja temelji se na odredbi članka 20. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
