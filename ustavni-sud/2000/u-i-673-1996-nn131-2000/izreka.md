@@ -1,0 +1,2 @@
+ODLUKU
+Produljuje se rok odgode prestanka važenja odredbi Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96), ukinutih odlukom Ustavnog suda, broj: U-I-673/1996 i dr. od 21. travnja 1999., objavljenom u »Narodnim novinama«, br. 39/99, koji rok je određen istom odlukom pod točkom 3. tako da se ovom odlukom on određuje s danom 31. ožujka 2001. godine
