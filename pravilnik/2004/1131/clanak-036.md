@@ -1,0 +1,2 @@
+# Članak 36.
+Koncesionari iz članka 35. ovoga Pravilnika obvezni su osigurati nacionalni roaming novom koncesionaru u trajanju od najmanje tri godine od dana sklapanja ugovora o koncesiji novoga koncesionara, uz uvjet da novi koncesionar ostvari pokrivenost od najmanje 20% stanovništva Republike Hrvatske vlastitom izgrađenom telekomunikacijskom infrastrukturom u prvoj godini ostvarivanja koncesije.

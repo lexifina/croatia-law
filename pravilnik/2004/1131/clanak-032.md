@@ -1,0 +1,6 @@
+# Članak 32.
+(1) Koncesionar javnih telekomunikacijskih usluga uz uporabu radiofrekvencijskog spektra u sustavu pokretne mreže druge generacije (GSM 900, GSM/DCS-1800) mora osigurati osnovne zahtjeve kakvoće usluge i raspoloživosti telekomunikacijske mreže na temelju sljedeće pokrivenosti:
+1. za sustav GSM 900 - najmanje 75% stanovništva ili 60% područja Republike Hrvatske, u razdoblju od dvije godine od dana dobivanja koncesije,
+2. za sustav GSM/DCS-1800 - najmanje 40% stanovništva ili 50% područja Republike Hrvatske, u razdoblju od tri godine od dana dobivanja koncesije.
+(2) Radiofrekvencijski spektar, koji se dodjeljuje koncesionarima javnih telekomunikacijskih usluga uz uporabu radiofrekvencijskog spektra u sustavu pokretne mreže druge generacije GSM/DCS-1800, obuhvaća upareno frekvencijsko područje u tri frekvencijska bloka širine po 25 MHz (po 125 radijskih kanala).
+(3) Postojećim koncesionarima javnih telekomunikacijskih usluga uz uporabu radiofrekvencijskog spektra u sustavu pokretne mreže druge generacije (GSM 900), koji sudjeluju u postupku natječaja, može se, u sklopu koncesije u sustavu pokretne mreže druge generacije GSM/DCS-1800, dodijeliti frekvencijsko područje koje obuhvaća najmanje 60 radijskih kanala.

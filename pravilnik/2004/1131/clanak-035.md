@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Koncesionari javnih telekomunikacijskih usluga uz uporabu radiofrekvencijskog spektra u sustavu pokretne mreže druge generacije (GSM 900, GSM/DCS-1800) i u sustavu pokretne mreže treće generacije (UMTS) obvezni su, na zahtjev novoga koncesionara, uz uvjete iz članka 36. ovoga Pravilnika, osigurati nacionalni roaming.
+(2) Nacionalni roaming koncesionara iz stavka 1. ovoga članka može se ostvariti samo ako pokretne mreže druge generacije (GSM/DCS-1800) i treće generacije (UMTS), u kojima je obvezno osigurati nacionalni roaming, imaju pokrivanje od najmanje 20% stanovništva Republike Hrvatske, uz zadovoljavajuću kakvoću usluge i brzinu prijenosa digitalnog signala (bit/s), što se utvrđuje u natječajnoj dokumentaciji i ugovoru o koncesiji.
+(3) Ispunjavanje uvjeta iz stavka 2. ovoga članka utvrđuje Vijeće Agencije.
