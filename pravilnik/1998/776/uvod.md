@@ -1,0 +1,1 @@
+Na temelju članaka 10., 13. i 15. Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu ("Narodne novine" br. 46/97 - pročišćen tekst, 142/97, i 47/98,) ministar poljoprivrede i šumarstva donosi
