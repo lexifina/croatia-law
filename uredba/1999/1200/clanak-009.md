@@ -1,0 +1,32 @@
+# Članak 9.
+Uprava za inspekcijske poslove obavlja poslove inspekcijskog nadzora u području prostornog uređenja i gradnje nad poslovnima koje obavljaju nadležna tijela državne uprave i tijela jedinica lokalne samouprave, uvjetima i načinu rada nadziranih pravnih i fizičkih osoba, obavlja nadzor gradnje prema posebnim ovlastima Zakona o gradnji te poduzima mjere propisane zakonima i propisima donesenim na osnovi tih zakona iz tih područja, rješava u inspekcijskom postupku upravne stvari drugog stupnja, priprema odgovore na predstavke i pritužbe građana u odnosu na rad i postupanje inspekcije, obavlja poslove u svezi s izvršenjem inspekcijskih rješenja, prati i nadzire provedbu mjera za unapređenje zakonitosti iz djelokruga Ministarstva, priprema izvješća Vladi Republike Hrvatske i Hrvatskom državnom saboru s prijedlogom mjera za unapređenje stanja, daje stručna mišljenja, tumačenja i upute u svezi s primjenom propisa, izrađuje stručne podloge i sudjeluje u izradi zakona, tehničkih i drugih propisa iz područja prostornog uređenja i gradnje, obavlja poslove informatizacije inspekcijskog nadzora, sudjeluje u ostvarivanju poslova međunarodne suradnje, te obavlja i druge poslove koje odredi ministar.
+Za koordinaciju i obavljanje inspekcijskih poslova iz djelokruga Uprave za inspekcijske poslove ustrojavaju se službenička mjesta glavni građevni inspektor i glavni urbanistički inspektor, a razvrstavaju se u platni razred glavnog inspektora u Ministarstvu.
+U Upravi za inspekcijske poslove ustrojavaju se:
+7.1. Odjel inspekcijskog nadzora za državne građevine
+7.2. Odjel inspekcijskog nadzora, Područna jedinica u Zagrebu
+7.3. Odjel inspekcijskog nadzora, Područna jedinica u Rijeci
+7.4. Odjel inspekcijskog nadzora, Područna jedinica u Zadru
+7.5. Odjel inspekcijskog nadzora, Područna jedinica u Splitu
+7.6. Odjel inspekcijskog nadzora, Područna jedinica u Varaždinu
+7.7. Odjel inspekcijskog nadzora, Područna jedinica u Požegi
+7.8. Odjel inspekcijskog nadzora, Područna jedinica u Osijeku
+7.9. Odjel inspekcijskog nadzora programsko prostornih dokumenata
+7.10. Odjel inspekcijskog nadzora provedbenih dokumenata
+7.11. Odjel za praćenje stanja i dokumentacijske poslove
+7.12. Odjel za pravne poslove i postupak drugog stupnja
+7.13. Odjel za izvršni postupak .
+7.1. Odjel inspekcijskog nadzora za državne građevine
+Odjel inspekcijskog nadzora za državne građevine obavlja poslove inspekcijskog nadzora nad građevinama za koje građevnu dozvolu izdaje Ministarstvo, nadzire primjenu tehničkih i drugih propisa koji uređuju gradnju i postupanje s građevinama te nadzire kakvoću građevnih proizvoda koji se upotrebljavaju u gradnji, priprema nacrte prijedloga zakona i prijedloge drugih propisa iz područja gradnje, prati izvršavanje mjera koje se poduzimaju u inspekcijskom nadzoru, priprema izvješća i programe za unapređenje zakonitosti u području gradnje, priprema odgovore na predstavke i pritužbe građana u odnosu na rad i postupanje inspekcije, sudjeluje u međunarodnoj suradnji.
+7.2.-7.8. Odjeli inspekcijskog nadzora - područne jedinice
+Odjeli inspekcijskog nadzora - područne jedinice u Zagrebu, Rijeci, Zadru, Splitu, Varaždinu, Požegi i Osijeku obavljaju poslove inspekcijskog nadzora nad građevinama za koje građevnu dozvolu izdaje nadležni županijski ured, nadziru primjenu tehničkih i drugih propisa koji uređuju gradnju i postupanje s građevinama te nadziru kakvoću građevnih proizvoda koji se upotrebljavaju u gradnji, obavljaju nadzor gradnje obiteljskih kuća prema posebnim ovlastima Zakona o gradnji, sudjeluju u izradi propisa iz područja gradnje, prate izvršavanje mjera koje se poduzimaju u inspekcijskom nadzoru, pripremaju izvješća i programe za unapređenje zakonitosti u području gradnje, pripremaju odgovore na predstavke i pritužbe građana u odnosu na rad i postupanje inspekcije.
+7.9. Odjel inspekcijskog nadzora programsko prostornih dokumenata
+Odjel inspekcijskog nadzora programsko prostornih dokumenata obavlja poslove inspekcijskog nadzora u izradi i donošenju općih akata prostornog uređenja (izvješća o stanju u prostoru i programi mjera za unapređenje stanja u prostoru te prostorni planovi) i nad radom pravnih i fizičkih osoba koje obavljaju stručne poslove prostornog uređenja, nadzire primjenu propisa koji uređuju područje prostornog uređenja, sudjeluje u izradi propisa iz područja prostornog uređenja, prati izvršavanje mjera koje se poduzimaju u inspekcijskom nadzoru, priprema izvješća i programe za unapređenje zakonitosti u području prostornog uređenja, priprema odgovore na predstavke i pritužbe građana u odnosu na rad i postupanje inspekcije, sudjeluje u međunarodnoj suradnji.
+7.10. Odjel inspekcijskog nadzora provedbenih dokumenata
+Odjel inspekcijskog nadzora provedbenih dokumenata obavlja poslove inspekcijskog nadzora lokacijskih dozvola i drugih upravnih akata u skladu s ovlastima Zakona o prostornom uređenju, nadzire primjenu propisa koji uređuju područje prostornog uređenja, sudjeluje u izradi propisa iz područja prostornog uređenja, prati izvršavanje mjera koje se poduzimaju u inspekcijskom nadzoru, priprema izvješća i programe za unapređenje zakonitosti u području prostornog uređenja, priprema odgovore na predstavke i pritužbe građana u odnosu na rad i postupanje inspekcije, sudjeluje u međunarodnoj suradnji.
+7.11. Odjel za praćenje stanja i dokumentacijske poslove
+Odjel za praćenje stanja i dokumentacijske poslove prati rad i postupanje u inspekcijskom nadzoru iz djelokruga Ministarstva, vodi propisane evidencije iz područja prostornog uređenja i gradnje, priprema podloge za izvješća i programe za unapređenje provedbe inspekcijskog nadzora, prati stanje u sanaciji i sprječavanju bespravne gradnje, obavlja poslove informatizacije inspekcijskog nadzora.
+7.12. Odjel za pravne poslove i postupak drugog stupnja
+Odjel za pravne poslove i postupak drugog stupnja obavlja poslove u svezi s izradom i primjenom zakona i propisa o inspekcijskom nadzoru u području prostornog uređenja i gradnje, rješava inspekcijske upravne stvari drugog stupnja, priprema odgovore na predstavke i pritužbe građana u odnosu na rad i postupanje inspekcije.
+7.13. Odjel za izvršni postupak
+Odjel za izvršni postupak obavlja poslove organizacije i osiguranja uvjeta za izvršavanje inspekcijskih rješenja, sudjeluje i nadzire izvršenja inspekcijskih rješenja, prati provedbu inspekcijskih mjera i priprema odgovore na pritužbe izvršenika inspekcijskih rješenja.
+8. Uprava za državnu imovinu
