@@ -1,0 +1,1 @@
+Na temelju članka 97. stavka 1. Zakona o zdravstvenoj zaštiti (»Narodne novine« br. 1/97 - pročišćeni tekst, 111/97, 95/00 i 129/00) ministar zdravstva uz suglasnost ministra znanosti i tehnologije donosi
