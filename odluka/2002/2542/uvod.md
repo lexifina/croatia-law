@@ -1,0 +1,1 @@
+Na temelju članka 88. Zakona o srednjem školstvu (»Narodne novine«, br. 19/92, 26/93, 27/93, 50/95, 59/2001 i 114/2001), Vlada Republike Hrvatske je na sjednici održanoj 19. prosinca 2002. godine donijela
