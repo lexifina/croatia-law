@@ -1,0 +1,1 @@
+Na osnovi članka 132. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01., 88/02., 149/02., 117/03., 30/04. i 177/04.) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 16. sjednici održanoj 22. veljače 2005. godine donijelo je

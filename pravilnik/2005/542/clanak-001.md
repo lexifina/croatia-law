@@ -1,0 +1,4 @@
+## o izmjenama Pravilnika o pravima, uvjetima i naČinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja (»Narodne novine« broj 93/03., 158/03., 198/03., 81/04. i 174/04.) u članku 46. stavak 1. mijenja se i glasi:
+»Pravo na smještaj uz dijete, koje se nalazi na bolničkom liječenju u smislu članka 42., 44., i 45. ovog Pravilnika, ovisno o odgovarajućim smještajnim kapacitetima ugovorne zdravstvene ustanove u kojoj se dijete liječi, ostvaruje osigurana osoba - majka djeteta pod uvjetom da dijete nije starije od 6 mjeseci i da postoji potreba dojenja djeteta, što utvrđuje izabrani doktor majke na prijedlog izabranog doktora djeteta i odjelnog doktora zdravstvene ustanove u kojoj se dijete liječi«
