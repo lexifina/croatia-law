@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 1. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98., 15/2000., 117/2001. i 199/2003.), Vlada Republike Hrvatske je na sjednici održanoj 1. travnja 2004. godine donijela
