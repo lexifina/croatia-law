@@ -1,0 +1,1 @@
+Na temelju članka 53. Zakona o državnim maticama (»Narodne novine«, broj 96/93) i članka 365. stavak 1. Obiteljskog zakona (»Narodne novine«, broj 116/03), ministrica pravosuđa, uprave i lokalne samouprave donosi
