@@ -1,0 +1,1 @@
+Na temelju člana 30. Statuta Privredne komore Zagreb i prijedloga Predsjedništva Privredne komore Zagreb sa sjednice od 12. ožujka I991, Skupština Komore na sjednici održanoj 13. ožujka 1991. utvrđuje
