@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim pravilnikom utvrđuju se stručni kriteriji koje moraju ispunjavati organizacije autora i drugih nositelja autorskih prava i druge specijalizirane organizacije za ostvarivanje autorskih prava iz članka 91. stavak 1. Zakona o autorskom pravu te organizacije umjetnika izvođača i druge specijalizirane organizacije za ostvarivanje prava umjetnika izvođača iz članka 99r. stavak 1. Zakona o autorskom pravu.

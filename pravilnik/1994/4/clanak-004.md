@@ -1,0 +1,2 @@
+# Članak 4.
+Ako organizacija umjetnika izvođača nema specijalizirane stručne službe za djelatnost ostvarivanja prava umjetnika izvodača navedene u članku 2. ovoga pravilnika, može dio svoje djelatnosti koji se odnosi na ostvarivanja prava umjetnika izvođača obavljati putem specijalizirane organizacije za ostvarivanje autorskih prava navedenih u članku 1. ovoga pravilnika. Sva prava i obveze između organizacije umjetnika izvodača i specijalizirane organizacije za ostvarivanje autorskih prava utvrđuju se ugovorom.
