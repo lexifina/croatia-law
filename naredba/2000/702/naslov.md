@@ -1,0 +1,1 @@
+Naredbu o određivanju terminalnih i sličnih uređaja iz područja telekomunikacija te uređaja koji se na njih priključuju koji se mogu stavljati u promet samo ako su opskrbljeni jamstvenim listom i tehn
