@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 48/95., 20/97., 46/97. - pročišćeni tekst, 68/98., 45/99., 76/99. i 92/01.) u članku 4. u stavku 1. i 3. riječi: »Pravne i fizičke osobe« zamjenjuju se riječju: »Ugostitelj«, a u stavku 3. riječi: »županijskom uredu odnosno Uredu Grada Zagreba« zamjenjuju se riječima: »uredu državne uprave u županiji, odnosno upravnom tijelu Grada Zagreba«.
