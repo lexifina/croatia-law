@@ -1,0 +1,2 @@
+# Članak 6.
+Općinske i posebne komisije osnivaju potrebit broj stručnih komisija za popis i procjenu ratne štete. Stručne komisije prikupljaju podatke i dokaze, popisuju i procjenjuju ratnu štetu na području za koje su osnovane, utvrđuju počinitelja i oštećenika, te podnose izvješće o svom radu komisiji koja ih je osnovala sa cjelokupnom dokumentacijom. U stručne komisije imenuju se stručnjaci odgovarajućih oblasti. Stručna komisija ima najmanje tri člana.

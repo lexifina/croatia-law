@@ -1,0 +1,2 @@
+# Članak 7.
+Općinske i posebne komisije objedinjuju rad stručnih komisija koje su osnovale, određuju područje za koje će vršiti prikupljanje podataka i dokaza, popis i procjenu, rok u kojem posao trebaju obaviti, te im pružaju svu ostalu pomoć. Općinske i posebne komisije obrađuju i kontroliraju dostavljena izvješća, te ih po potrebi vraćaju stručnoj komisiji radi ispravke i dopune. Općinska i posebne komisije izrađuju zbrojno izvješće za područje za koje su osnovane, te ga dostavljaju Republičkoj komisiji.
