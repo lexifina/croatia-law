@@ -1,0 +1,2 @@
+# Članak 67.
+Ovaj pravilnik stupa na snagu osmog dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. travnja 1993. godine.
