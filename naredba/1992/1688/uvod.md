@@ -1,0 +1,1 @@
+Na temelju članka 205. stavak 5. i članka 230 stavak 2. Carinskog zakona ("Narodne novine", br. 53A/91, 33/92, 40/92 i 61/92) direktor Carinske uprave Republike Hrvatske u suglasnosti s ministrom financija donosi
