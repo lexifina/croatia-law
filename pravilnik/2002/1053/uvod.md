@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. Zakona o morskom ribarstvu (»Narodne novine«, br. 46/97 - pročišćeni tekst) ministar poljoprivrede i šumarstva uz suglasnost ministra zaštite okoliša i prostornog uređenja Klasa: 351-01/02-03/13, Urbroj: 525-02-2 od 2. svibnja 2002. donosi
