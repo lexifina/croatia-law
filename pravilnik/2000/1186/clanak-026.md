@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Korisnik novčanog poticaja iz članka 24. stavaka 1. i 2. ovoga Pravilnika dužan je grlo za koje je ostvario novčani poticaj držati u tovu do završne težine od najmanje 450 kg i isporučiti ga na klanje u suglasju sa člankom 25. stavcima 1. i 2.
+(2) Ako se zbog nastalih zdravstvenih ili drugih objektivnih poremećaja grlo ranije izluči, korisnik mora posjedovati zapisnik o izlučenju grla koji je sastavila ovlaštena osoba koja obavlja zdravstvenu zaštitu stoke odnosno ovlašteno tijelo za nastale štete. Korisnik je dužan čuvati zapisnik godinu dana od dana izlučenja grla iz tova.
+(3) Ako korisnik izluči iz tova grlo za koje je ostvario pravo na poticaj iz članka 24. stavaka 1. i 2. ovoga Pravilnika suprotno odredbi stavaka 1. i 2. ovog članka, dužan je, u roku 15 dana od dana izlučenja grla, naplaćeni iznos novčanog poticaja vratiti u korist žiroračuna Ministarstva 30102-789-2229.

@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Korisnik novčanog poticaja iz članaka 8. i 9. ovog Pravilnika dužan je grlo za koje je ostvario novčani poticaj držati u uzgoju godinu dana od dana isplate novčanog poticaja.
+(2) U slučaju ranijeg izlučenja grla zbog nastalih zdravstvenih ili reproduktivnih poremećaja odnosno drugih objektivnih razloga, korisnik mora posjedovati zapisnik o izlučenju grla koji je sastavila ovlaštena osoba koja obavlja zdravstvenu zaštitu stoke odnosno ovlašteno tijelo za nastale štete. Korisnik je dužan čuvati zapisnik do isteka roka iz stavka 1. ovoga članka.
+(3) Ako korisnik izluči iz uzgoja grlo za koje je ostvario pravo na poticaj iz članaka 10. i 11. suprotno odredbi stavaka 1. i 2. ovog članka, dužan je, u roku 15 dana od dana izlučenja grla, naplaćeni iznos novčanog poticaja vratiti u korist žiroračuna Ministarstva 30102-789-2229.

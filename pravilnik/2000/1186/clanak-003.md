@@ -1,0 +1,12 @@
+## II. OSTVARIVANJE NOVČANOG POTICAJA ZA KRAVLJE, OVČJE I KOZJE MLIJEKO
+# Članak 3.
+(1) Uz zahtjev za isplatu novčanog poticaja, pravna osoba korisnik novčanog poticaja za kravlje, ovčje i kozje mlijeko prilaže:
+1. mjesečni obračun novčanog poticaja, posebno za svaku vrstu mlijeka, za strateška i ostala područja u kojem su navedeni: količina mlijeka u litrama sa stvarnim postotnim udjelom mliječne masti i preračunatim udjelom na 3,2 % mliječne masti za kravlje i kozje mlijeko odnosno 5,0 % mliječne masti za ovčje mlijeko, iznos novčanog poticaja po litri mlijeka, ukupan iznos novčanog poticaja te podatke o nazivu i adresi korisnika;
+2. račun za prodane i isporučene količine mlijeka;
+3. izjavu da se zahtjev za isplatu novčanog poticaja podnosi prvi put te da su navedeni podaci i obračun iznosa novčanog poticaja u suglasju s odredbama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu ( u daljnjem tekstu: Zakon) i ovog Pravilnika;
+4. ispisani nalog za naplatu, obrazac broj 43. Zavoda za platni promet (u daljnjem tekstu: ZAP), bez upisanog nadnevka izvršenja naloga i potpisa.
+(2) Uz zahtjev za isplatu novčanog poticaja fizičkim osobama za kravlje, ovčje i kozje mlijeko osoba koja otkupljuje mlijeko i podnosi zahtjev prilaže:
+1. mjesečni obračun novčanog poticaja posebno za svaku vrstu mlijeka, za strateška i ostala područja, u kojem su navedeni: ime i prezime svakog korisnika, njegov jedinstveni matični broj građana (JMBG), adresa stanovanja, općina i županija, isporučena količina mlijeka sa stvarnim postotnim udjelom mliječne masti i preračunatim udjelom na 3,2 % mliječne masti za kravlje i kozje mlijeko odnosno 5,0 % mliječne masti za ovčje mlijeko, iznos novčanog poticaja po litri mlijeka, ukupni iznos novčanog poticaja po svakom korisniku i sveukupni iznos te naziv banke, njezin žiroračun i broj računa svakog korisnika novčanog poticaja (tekući, štedni ili žiroračun);
+2. izjavu da se zahtjev za isplatu novčanog poticaja podnosi prvi put za obračunate količine mlijeka te da su navedeni podaci i obračun iznosa novčanog poticaja za svakog korisnika u suglasju s odredbama Zakona i ovog Pravilnika.
+(3) Pravna osoba koja otkupljuje mlijeko za daljnju isporuku pravnoj ili fizičkoj osobi koja ima registrirani objekt upisan u Upisnik iz članka 7. Zakona dužna je osim podataka iz stavka 2. točke 1. ovoga članka priložiti račun za isporučene količine mlijeka.
+(4) Zahtjev za isplatu novčanog poticaja iz stavaka 1, 2. i 3. ovog članka podnosi se u roku 30 dana od zadnjeg dana u obračunskom mjesecu.

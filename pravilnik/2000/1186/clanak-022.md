@@ -1,0 +1,5 @@
+# Članak 22.
+(1) Korisnik novčanog poticaja iz članka 21. ovoga Pravilnika dužan je grlo za koje je ostvario novčani poticaj držati u uzgoju godinu dana od dana isplate novčanog poticaja.
+(2) Nastale zdravstvene ili reproduktivne poremećaje grla za koja je ostvareno pravo na poticaj iz članka 21. ovoga Pravilnika utvrđuje ovlaštena osoba koja obavlja poslove zdravstvene zaštite stoke, nezadovoljavajuću proizvodnu sposobnost grla djelatnici HSSC-a za grla koja su upisana u Središnji popis matičnih grla, a ostale objektivne razloge izlučenja ovlaštena tijela za nastale štete.
+(3) O utvrđenim razlozima za izlučivanje iz uzgoja rasplodnih grla iz stavka 2. ovoga članka sastavlja se zapisnik, kojeg je korisnik dužan čuvati do isteka roka iz stavka 1. ovoga članka.
+(4) Ako korisnik izluči iz uzgoja rasplodno grlo za koje je ostvario pravo na poticaj iz članka 21. ovoga Pravilnika suprotno odredbi stavaka 1., 2. i 3. ovoga članka, dužan je, u roku 15 dana od dana izlučenja grla, naplaćeni iznos novčanog poticaja vratiti u korist žiroračuna Ministarstva 30102-789-2229.
