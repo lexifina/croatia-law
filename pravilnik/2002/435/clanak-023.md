@@ -1,0 +1,2 @@
+# Članak 23.
+Tajnik liječničkog povjerenstva obavlja za liječničko povjerenstvo sve administrativne poslove za to povjerenstvo, a naročito: poziva osobu na pregled, vodi zapisnik o sjednicama liječničkog povjerenstva, u pismenom obliku zatražuje nadopunu medicinske dokumentacije od odgovarajuće službe ili medicinske ustanove, a na temelju mišljenja liječničkog povjerenstva. Vodi knjigu nalaza i mišljenja, popunjava obrazac »nalaz i mišljenje« i obavlja i druge poslove po nalogu povjerenstva.

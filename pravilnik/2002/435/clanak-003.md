@@ -1,0 +1,2 @@
+# Članak 3.
+Liječnička povjerenstva daju nalaz i mišljenje da li je smrt ili suicid hrvatskog branitelja iz Domovinskog rata u uzročno posljedičnoj vezi sa bolesti, pogoršanjem bolesti, odnosno pojavom bolesti u izravnom sudjelovanju hrvatskog branitelja u obrani suvereniteta Republike Hrvatske, na temelju Pravilnika o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata i prema načelima medicinske znanosti, a uzimajući u obzir trajanje i vrste tegoba kojima je hrvatski branitelj bio izložen prema navodima nadležne postrojbe u opisu ratnog puta.

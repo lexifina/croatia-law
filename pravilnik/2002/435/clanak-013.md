@@ -1,0 +1,3 @@
+# Članak 13.
+Prvostupanjsko liječničko povjerenstvo daje nalaz i mišljenje na pismeni zahtjev nadležnog tijela koji rješava o pravima po Zakonu u prvom stupnju, a Drugostupanjsko liječničko povjerenstvo na pismeni zahtjev nadležnog tijela koji rješava o pravima po Zakonu u drugom stupnju.
+U nalazu i mišljenju, u svezi sa zahtjevom iz stavka 1. ovog članka, liječničko povjerenstvo dužno je izjasniti se o svim činjenicama i okolnostima spomenutim u tom zahtjevu, uzimajući u obzir i svu dokumentaciju priloženu uz zahtjev, ali samo onu dokumentaciju koja se odnosi na oštećenje organizma koje je predmet postupka.
