@@ -1,0 +1,3 @@
+# Članak 22.
+Pokazni uređaj mehaničkih korektora mora imati dovoljno kotačića da osigura očitavanje obujma plina, kojemu su tlak i temperatura takvi da korekcijski faktor ima najveću vrijednost što protekne kroz plinomjer (na koji je priključen korektor) za vrijeme od 1000 sati rada pri najvećem protoku kroz plinomjer (Qmax).
+Pokazni uređaj elektroničkih korektora mora imati dovoljan broj digita da osigura očitavanje obujma plina, kojemu su tlak i temperatura takvi da korekcijski faktor ima najveću vrijednost što protekne kroz plinomjer (na koji je priključen korektor) za vrijeme od 1000 sati rada pri najvećem proteku kroz plinomjer (Qmax).
