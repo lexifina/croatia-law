@@ -1,0 +1,22 @@
+# Članak 2.
+Županije na području Republike Hrvatske su:
+I. Zagrebačka županija sa sjedištem u Gradu Zagrebu,
+II. Krapinsko-zagorska županija sa sjedištem u Krapini,
+III. Sisačko-moslavačka županija sa sjedištem u Sisku,
+IV. Karlovačka županija sa sjedištem u Karlovcu,
+V. Varaždinska županija sa sjedištem u Varaždinu,
+VI. Koprivničko-križevačka županija sa sjedištem u Koprivnici,
+VII. Bjelovarsko-bilogorska županija sa sjedištem u Bjelovaru,
+VIII. Primorsko-goranska županija sa sjedištem u Rijeci,
+IX. Ličko-senjska županija sa sjedištem u Gospiću,
+X. Virovitičko-podravska županija sa sjedištem u Virovitici,
+XI. Požeško-slavonska županija sa sjedištem u Požegi,
+XII. Brodsko-posavska županija sa sjedištem u Slavonskom Brodu,
+XIII. Zadarska županija sa sjedištem u Zadru,
+XIV. Osječko-baranjska županija sa sjedištem u Osijeku,
+XV. Šibensko-kninska županija sa sjedištem u Šibeniku,
+XVI. Vukovarsko-srijemska županija sa sjedištem u Vukovaru,
+XVII. Splitsko-dalmatinska županija sa sjedištem u Splitu,
+XVIII. Istarska županija sa sjedištem u Pazinu,
+XIX. Dubrovačko-neretvanska županija sa sjedištem u Dubrovniku,
+XX. Međimurska županija sa sjedištem u Čakovcu.
