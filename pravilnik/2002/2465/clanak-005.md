@@ -1,0 +1,3 @@
+# Članak 5.
+1. Predsjedništvo Sudišta vodi opći nadzor nad radom Sudišta, brine se o pravilnoj primjeni pravilnika i drugih općih akata Sudišta, sudjeluje u odlučivanju o nadležnosti Sudišta, odlučuje o korištenju i raspoređivanju financijskih sredstava Sudišta, razmatra i odobrava godišnje izvještaje Sudišta i plan rada Sudišta za sljedeću godinu te obavlja druge poslove određene Pravilnikom i drugim aktima Sudišta.
+2. Kad Predsjedništvo Sudišta na temelju odredaba ovog pravilnika samostalno odlučuje o određenoj stvari, za pravovaljano odlučivanje potrebno je da sjednici predsjedništva prisustvuju predsjednik ili potpredsjednik i četiri člana predsjedništva.
