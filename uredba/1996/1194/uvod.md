@@ -1,0 +1,1 @@
+Na temelju članka 150. stavka 4. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", br. 74/94, 86/94 i 7/95), Vlada Republike Hrvatske je na sjednici održanoj 12. srpnja 1996. godine, donijela
