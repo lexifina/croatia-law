@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 2. Zakona o obrani (»Narodne novine«, br. 74/93 - pročišćeni tekst i 57/96), Vlada Republike Hrvatske je, na prijedlog ministra obrane, na sjednici održanoj 17. lipnja 1999. godine, donijela
