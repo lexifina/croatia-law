@@ -1,0 +1,23 @@
+Polazeći od značenja kulturne baštine, kao neprocjenjivo vrijedne sastavnice duhovnog i materijalnog bogatstva naroda i - pored prirode - najznačajnijeg dijela nasljeđa u čovjekovom okolišu, ukazujući na činjenicu, da je kulturna baština od pamtivijeka predstavljala jednu od temeljnih odrednica identiteta hrvatskog naroda i njegove opstojnosti na svojoj zemlji, uzimajući u obzir da je od 15. kolovoza 1990. godine ta izuzetno vrijedna kulturna baština Republike Hrvatske postala predmetom svjesnog i sustavnog uništavanja od strane Jugoslavenske armije, Republike Srbije i Crne Gore,
+utvrđujući da su štete nanesene kulturnoj baštini Hrvatske ogromne, a proces obnove dugotrajan, uvažavajući obveze iz međunarodnih konvencija o zaštiti kulturne baštine kao dio međunarodnih obveza Republike Hrvatske, Sabor Republike Hrvatske na temelju članka 52. Ustava Republike Hrvatske i članka 138. Poslovnika Sabora Republike Hrvatske, na Skupnoj sjednici svih vijeća 5. lipnja 1992., donio je
+REZOLUCIJU
+o obnovi Hrvatske kulturne baštine
+I.
+1. Sabor Republike Hrvatske svjestan šteta koje su nanesene kulturnim dobrima hrvatskog naroda, koje predstavljaju istovremeno i štetu nanesenu kulturnoj baštini cijelog čovječanstva, odlučuje se za potpunu i sveobuhvatnu obnovu i sanaciju spomenika kulture koji su uništeni ili oštećeni barbarskom agresijom protiv Hrvatske.
+2. Sabor Republike Hrvatske osigurat će da u politici državnog proračuna obnova spomenika kulture dobije jedno od prioritetnih mjesta i odgovarajućom politikom stvorit će povoljne financijske i kreditne uvjete u svrhuobnove spomeničkog fonda kao i svrhu daljnjeg istraživanja zaštite, prezentacije i korištenja spomenika kulture, bilo da je u pitanju privatno ili državnog vlasništvo.
+3. Sabor Republike Hrvatske podržavat će i poticati statusni i stručni razvoj službe zaštite spomenika kulture, njezino odgovarajuće ustrojavanje i osposobljavanje, te će poticati i skrbiti o svim projektima u svezi s obnovom kulturne i spomeničke baštine.
+II.
+1. Sabor Republike Hrvatske obvezuje Vladu Republike Hrvatske da osigura djelotvornu; pravnu, stručnu, administrativnu i svekoliku drugu pomoć svim čimbenicima u obnovi i sanaciji kulturne baštine.
+2. Sabor Republike Hrvatske obvezuje Vladu Republike Hrvatske da predloži donošenje propisa iz područja poreza, carinske i financijsko-kreditne regulative, koji će stimulirati i omogućiti što bržu obnovu i sanaciju spomenika kulture.
+3. Sabor Republike Hrvatske obvezuje Vladu Republike Hrvatske da inicira, podrži i provodi kadrovsko jačanje i osposobljavanje svih znanstvenih i stručnih institucija koje rade na obnovi i sanaciji kulturne baštine.
+4. Sabor Republike Hrvatske nalaže Vladi i svim resornim ministarstvima da prilikom izrade zakonskih i podzakonskih akata u njih ugraduju pogodnosti u svezi s obnovom i sanacijom spomenika kulture, vodeći računa o tome da će i reprivatizacija nekretnina koje su proglašene spomenicima kulture imati posebno značenje za dotok i domaćeg i inozemnog kapitala u obnovi.
+5. Sabor Republike Hrvatske obvezuje Vladu Republike Hrvatske i druge znanstvene i stručne institucije da pokrenu inicijativu za uključivanje međunarodnih organizacija, vlada prijateljskih zemalja i njihovih znanstvenih institucija i drugih zainteresiranih u svijetu u projekt obnove Hrvatske kulturne baštine.
+III.
+1. Sabor Republike Hrvatske obvezuje državne organe na svim razinama, službu zaštite spomenika kulture, prostorno-planske institucije, projektne biroe, građevinske organizacije i druge službe da maksimalnom suradnjom pridonesu svrhovitoj i najracionalnijoj sanaciji i obnovi kulturne baštine.
+2. Sabor Republike Hrvatske obvezuje državne organe na svim razinama da osiguraju privremeni smještaj stanovnika i obavljanje djelatnosti u slučajevima neophodne duže stručne intervencije prilikom obnove ili sanacije oštećenih dijelova kulturne baštine, uz strogo kontrolirani status i rokove privremenih smještajnih rješenja.
+IV.
+1. Za provedbu ove Rezolucije obvezuje se Vlada Republike Hrvatske.
+2. Vlada Republike Hrvatske godišnje će izvještavati Sabor Republike Hrvatske o ostvarivanju ove Rezolucije.
+3. Dinamiku i intenzitet provođenja pojedinih mjera iz Rezolucije odredivat će materijalne mogućnosti Republike Hrvatske.
+4. Vlada Republike Hrvatske vodit će brigu i organizirati poslove u svezi s osiguranjem sredstava na međunarodnoj razini namijenjenih obnovi Hrvatske kulturne baštine.
+5. Ova Rezolucija stupa na snagu danom objave u "Narodnim novinama", i primjenjivat će se izravno, kao i kroz zakonodavstvo s područja zaštite spomenika kulture, zaštite okoliša, prostornog uređenja i graditeljstva.
