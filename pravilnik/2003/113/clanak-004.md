@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 10. stavku 1. riječi: »Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta (»Narodne novine« br. 6/96, 29/97, 1/98, 45/99, 121/99 i 112/00)« zamjenjuju se riječima: » Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta (»Narodne novine« br. 6/96, 29/97, 1/98, 45/99, 121/99, 112/00, 87/02 i 150/02), osim ordinacija medicine rada«.
