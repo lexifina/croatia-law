@@ -1,0 +1,3 @@
+# Članak 27.
+Doktorima medicine specijalistima, istaknutim stručnjacima koji se bave određenom propisanom užom specijalnošću 10 godina do dana stupanja na snagu ovoga Pravilnika, koji imaju znanstveno-nastavno zvanje profesora ili docenta i kontinuirano publicirane stručne i znanstvene radove iz uže specijalnosti kroz tih 10 godina te pozitivno mišljenje stručnog vijeća zdravstvene ustanove o njihovom radu, može se priznati stutus specijaliste iz uže specijalnosti.
+Zahtjev za priznanje statusa užeg specijaliste podnosi Ministarstvu zdravstva ravnatelj zdravstvene ustanove u kojoj je specijalist zaposlen uz predočenje pismenih dokaza iz stavka 1. ovog članka.

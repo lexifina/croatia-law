@@ -1,0 +1,5 @@
+# Članak 8.
+Specijalizacija se može odobriti zdravstvenom djelatniku VSS s položenim državnim ispitom koji je u radnom odnosu u zdravstvenoj ustanovi te specijalizira za njene potrebe, ima privatnu praksu ili radi kod zdravstvenog djelatnika privatne prakse, a mlađi je od 35 godina.
+Zdravstvenom djelatniku iz stavka 1. koji predoči dokaze o sudjelovanju tijekom 1991. godine u domovinskom ratu ili zdravstvenom djelatniku koji se upućuje na specijalističko usavršavanje i nekirurških grana specijatizacija odobrit će se specijalizacija ako su i stariji od 35 godina.
+Prijedlog za odobrenje specijalizacije podnosi zdravstvena ustanova kod koje je zdravstveni djelatnik u radnom odnosu odnosu zdravstveni djelatnik koji ima privalnu praksu.
+Ministarstvu zdravstva obvezno je prilikom prijedloga za odobrenje specijalizacije uz pravovremenu odluku o izboru kandidata ovjerenu fotokopiju diplome, ovjerenu fotokopiju uvjerenja o položenom državnom ispitu proslijediti i dokaz o sudjelovanju u domovinskom ratu.
