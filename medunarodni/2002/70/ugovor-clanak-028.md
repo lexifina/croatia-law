@@ -1,0 +1,4 @@
+# Članak 28.
+Teškoće vezane uz bilancu plaćanja
+1. Stranke će nastojati izbjeći nametanje restriktivnih mjera, uključujući mjere koje se odnose na uvoz radi bilance plaćanja.
+2. Kada se jedna od stranaka nalazi u ozbiljnim teškoćama vezanim uz bilancu plaćanja ili joj takve teškoće prijete, ona može u skladu s uvjetima utvrđenim u GATT-u 1994. i WTO Sporazumu usvojiti restriktivne mjere, uključujući mjere koje se odnose na uvoz, koje će biti ograničenoga trajanja, a koje ne mogu prekoračiti ono što je strogo potrebno da bi se popravila bilanca plaćanja. Te mjere postupno će se ublažavati s poboljšanjem stanja platne bilance te će se ukinuti kad stanje više ne bude opravdavalo njihovo postojanje. Stranka će odmah o njihovu uvođenju i, gdje je to moguće, o vremenskom rasporedu njihova ukidanja izvijestiti drugu stranku.

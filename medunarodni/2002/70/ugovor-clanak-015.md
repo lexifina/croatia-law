@@ -1,0 +1,3 @@
+# Članak 15.
+Opće iznimke
+Ovim se Ugovorom ne onemogućuju zabrane ili ograničenja uvoza, izvoza ili provoza roba opravdane iz razloga javnog morala, javnog reda ili javne sigurnosti; zaštite života i zdravlja ljudi, životinja ili biljaka; zaštite okoliša, zaštite nacionalnog blaga umjetničke, povijesne ili arheološke vrijednosti; zaštite intelektualnog vlasništva ili propisa koji se odnose na zlato i srebro ili očuvanje neobnovljivih prirodnih izvora, ako se takve mjere provode zajedno s ograničenjima domaće proizvodnje ili potrošnje. Takve zabrane ili ograničenja neće, međutim, biti sredstvo proizvoljne diskriminacije ili prikrivenoga ograničavanja trgovine između stranaka.
