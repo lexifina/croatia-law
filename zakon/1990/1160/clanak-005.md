@@ -1,0 +1,5 @@
+# Članak 5.
+U smislu ovog zakona:
+- Tjelesno i zdravstveno odgojno-obrazovno područje osnova je cjelokupnog razvoja športa, a obuhvaća: programe tjelesne i zdravstvene kulture u sustavu predškolskog odgoja, osnovnog obrazovanja, usmjerenog obrazovanja, izvannastavne i izvanškolske aktivnosti učenika i studenata i dio aktivnosti športskih organizacija i poduzeća u području športa.
+- Športska rekreacija obuhvaća aktivnosti građana koje omagućavaju podizanje radnih sposobnosti, očuvanje i unapređenje zdravlja, osmišljeno korištenje odmora i slobodnog vremena i predstavlja oblik djelovanja športskih organizacija, poduzeća u području športa, drugih organizacija i poduzeća i osoba koje samostalno obavljaju djelatnosti športa osobnim radom.
+- Trening i natjecanja športaša, uključujući razvoj vrhunskog športa, obuhvaća amaterske i profesionalne športske aktivnosti koje provode športske organizacije, poduzeća u području športa, vrhunski športaši i osobe koje samostalno obavljaju djelatnosti športa osobnim radom.
