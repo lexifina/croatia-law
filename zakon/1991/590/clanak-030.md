@@ -1,0 +1,3 @@
+# Članak 30.
+Na temelju dionica odnosno udjela iz prethodnog članka ovoga zakona Hrvatski fond za razvoj sudjeluje u odlućivanju u dioničkom društvu i u društvu s ograničenom odgovornošću samo o donošenju i izmjeni statuta, podjeli, pripajanju, spajanju i prestanku društva te o povećanju i smanjenju osnovne glavnice.
+Iz društva u kojemu ima dionice odnosno udio Hrvatski fond za razvoj može povući samo 5% od onog dijela godišnje dobiti društva na koji bi temeljem odluke skupštine društva imao pravo. Preostali dio dobiti, koji bi mu inače pripao, ulaže se u društvu u kojem je dobit ostvarena, tako da Hrvatski fond za razvoj na temelju toga dobije dionice odnosno da se poveća udio Hrvatskog fonda za razvoj u društvu.
