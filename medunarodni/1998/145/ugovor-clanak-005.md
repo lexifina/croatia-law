@@ -1,0 +1,4 @@
+# Članak 5.
+PRIMJENA ZAKONA I PROPISA
+1. Zakoni i propisi jedne ugovorne stranke koji se odnose na ulazak, boravak ili izlazak iz njenog teritorija zrakoplova koji obavlja međunarodni zračni promet ili na letenje i plovidbu tog zrakoplova dok je na njezinom teritoriju, primjenjivat će se na zrakoplove obiju ugovornih stranaka bez razlike glede njihove državne pripadnosti, te će ih takvi zrakoplovi poštivati po ulasku ili izlasku ili tijekom boravka na teritoriju te stranke.
+2. Zakoni i propisi jedne ugovorne stranke koji se odnose na ulazak, boravak ili izlazak iz njenog teritorija putnika, posade, robe i pošte prevezene zrakoplovom, kao što su propisi koji se odnose na ulazak, sređivanje dokumenata, useljenje, putovnice, carinsku i sanitarnu kontrolu, moraju se poštivati od strane i u korist takvih putnika, posade, robe i pošte po ulasku ili izlasku ili tijekom boravka na teritoriju te stranke.
