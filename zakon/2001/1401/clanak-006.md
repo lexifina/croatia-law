@@ -1,0 +1,2 @@
+# Članak 6.
+Osiguranik koji je prije stupanja na snagu ovoga Zakona otpočeo koristiti pravo na porodiljni dopust do tri godine života djeteta i pravo na rad sa skraćenim radnim vremenom do tri godine života djeteta iz članka 59. stavka 1. Zakona o radu te nezaposlena majka koja je prije stupanja na snagu ovoga Zakona otpočela koristiti pravo na porodiljni dopust za blizance, treće i svako sljedeće dijete do treće godine djetetova života može nastaviti koristiti to pravo najduže 60 dana od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,2 @@
+# Članak 5.
+Postupci za ostvarivanje prava na nadokandu plaće za vrijeme korištenja porodiljnog dopusta do tri godine života djeteta, prava na nadoknadu plaće za vrijeme rada sa skraćenim radnim vremenom do treće godine djetetova života iz članka 59. stavka 1. Zakona o radu te prava na novčanu nadoknadu nezaposlenih majki za blizance, treće i svako sljedeće dijete do treće godine djetetova života započeti prije dana stupanja na snagu ovoga Zakona dovršit će se po odredbama ovoga Zakona.
