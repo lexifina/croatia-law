@@ -1,0 +1,5 @@
+## II. OSPOSOBLJAVANJE ZA SAMOSTALAN RAD
+# Članak 2.
+(1) Pravo na osposobljavanje za samostalan rad ima tjelesno ili mentalno oštećeno ili psihički bolesno dijete i mlađa punoljetna osoba koja ovo pravo ne ostvaruje po drugoj osnovi ako se, s obzirom na vrstu, stupanj i težinu oštećenja, odnosno obzirom na vrstu i težinu psihičke bolesti, može osposobiti za samostalan rad na odgovarajućem poslu s punim radnim vremenom.
+(2) Osposobljavanje za samostalan rad provodi se na način i pod uvjetima utvrđenim propisima Ministarstva prosvjete i športa.
+(3) Ako je radi provođenja osposobljavanja za samostalan rad potrebno tjelesno ili mentalno oštećeno ili psihički bolesno dijete i mlađu punoljetnu osobu smjestiti u dom socijalne skrbi ili udomiteljsku obitelj, odluku o smještaju, na temelju nalaza i mišljenja tijela vještačenja iz stavka 3. članka 147. Zakona o socijalnoj skrbi (u daljnjem tekstu: tijelo vještačenja), a u skladu s rješenjem nadležnog županijskog ureda kojim je korisnik ostvario pravo na posebne oblike odgoja i obrazovanja, donosi nadležni centar za socijalnu skrb.

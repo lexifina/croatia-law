@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Odrasla tjelesno ili mentalno oštećena ili psihički bolesna osoba kod koje je oštećenje nastalo prije navršenih 45 (muškarac) odnosno 40 (žena) godina života, te koja pravo na osposobljavanje za samostalan rad ne ostvaruje po drugoj osnovi, može ostvariti ovo pravo ako se, s obzirom na preostalu radnu sposobnost može osposobiti za rad na drugom odgovarajućem poslu s punim radnim vremenom.
+(2) Osposobljavanje za samostalan rad odrasle tjelesno ili mentalno oštećene ili psihički bolesne osobe provodi se na način i pod uvjetima utvrđenim propisima Ministarstva prosvjete i športa koji uređuju područje srednjoškolskog obrazovanja odraslih.

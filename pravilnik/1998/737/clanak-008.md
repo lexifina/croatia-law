@@ -1,0 +1,2 @@
+# Članak 8.
+Ako je radi zapošljavanja korisnika socijalne skrbi koji je uspješno završio osposobljavanje za samostalan rad, potrebno adaptirati prostorije, strojeve, druge uređaje i sredstva za rad, ministarstvo nadležno za poslove socijalne skrbi može sudjelovati u osiguravanju sredstava za te potrebe u visini utvrđenoj ugovorom sa zainteresiranom pravnom ili fizičkom osobom. Ovim ugovorom utvrđuje se namjena i korištenje sredstava.
