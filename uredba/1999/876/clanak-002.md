@@ -1,0 +1,2 @@
+# Članak 2.
+Pravne i fizičke osobe, te službe iz članka 4. stavka 1. Zakona o komunalnom gospodarstvu (»Narodne novine«, broj 36/95 i 70/97) koje obavljaju određene komunalne djelatnosti (u daljnjem tekstu: isporučitelji usluga) dužne su pri svakoj promjeni cijena svojih usluga prijaviti cjenike, odnosno tarife jedinici lokalne samouprave na čijem području se nalazi njihovo sjedište najkasnije 30 dana prije promjene cijena.
