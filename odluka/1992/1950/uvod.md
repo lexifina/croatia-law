@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 5. i članka 87. stavka 1. točke 8) Uredbe o Narodnoj banci Hrvatske ("Narodne novine", br. 71/91), Savjet Narodne banke Hrvatske na svojoj sjednici održanoj 30. listopada 1992. godine, donio je
