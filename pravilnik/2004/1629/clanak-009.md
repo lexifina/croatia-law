@@ -1,0 +1,5 @@
+# Članak 9.
+Članak 24. mijenja se i glasi:
+»Trokut preglednosti na cestovnom i pješačkom prijelazu, za redovnu brzinu prema voznom redu, mora se osigurati prema prioritetnosti, a najkasnije do kraja 2008. godine.
+Na cestovnom i pješačkom prijelazu iz prethodnog stavka, za kojeg HŽ-Hrvatske željeznice ocijene da je s obzirom na reljefne, tehničke, prometne i druge lokalne, specifičnosti te uvjete odvijanja željezničkog prometa na poseban način ugrožena sigurnost prometa, potrebno je dopuštenu brzinu na pruzi odrediti prema stvarnom trokutu preglednosti.
+Na temelju ocjene HŽ-Hrvatskih željeznica stupanj ugroženosti željezničkog, cestovnog i pješačkog prometa na takovom cestovnom i pješačkom prijelazu te primjereni rok za provedbu mjere iz prethodnog stavka, a koji ne može biti duži od dana stupanja na snagu voznog reda 2005./06., utvrđuje povjerenstvo sastavljeno od predstavnika HŽ-Hrvatskih željeznica d.o.o., pravnog subjekta nadležnog za predmetnu kategoriju ceste, te predstavnika jedinice lokalne samouprave.«
