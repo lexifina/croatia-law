@@ -1,0 +1,2 @@
+# Članak 4.
+Za strance koji se nalaze na školovanju, specijalizaciji ili znanstvenom istraživanju u Republici Hrvatskoj, a stipendisti su tijela državne vlasti Republike Hrvatske ili određene pravne osobe ako ugovorom o stipendiji nije određeno da stranci osobno plaćaju doprinos (članak 4. stavka 1. Zakona), doprinos za obvezno zdravstveno osiguranje plaća davalac stipendije prema stopi od 18% na osnovicu od 1.370,00 kuna.
