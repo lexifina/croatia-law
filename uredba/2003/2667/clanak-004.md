@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 100. dodaje se stavak 2. koji glasi: »Odjel obavlja i medicinska vještačenja ocjene sposobnosti za djelatnu vojnu službu u prvom stupnju, obavlja zadaće drugostupanjske komisije u žalbenom postupku za ocjenu zdravstvene sposobnosti pri prijmu u Ministarstvo i Oružane snage, obavlja medicinska vještačenja po odštetnim zahtjevima djelatnih vojnih osoba, kadeta i ročnika, obavlja medicinska vještačenja za potrebe vojnostegovnog postupka, te ostale zadaće po nalogu načelnika Službe.«
