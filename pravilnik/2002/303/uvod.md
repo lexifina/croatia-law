@@ -1,0 +1,1 @@
+Na temelju članka 38. točke 2. Zakona o platnom prometu u zemlji (»Narodne novine« broj 27/93., 97/00.) i čl. 23. Zakona o financijskoj agenciji (»Narodne novine« broj 117/01.), Uprava Financijske agencije donosi
