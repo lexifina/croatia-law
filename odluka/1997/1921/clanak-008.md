@@ -1,0 +1,2 @@
+# Članak 8.
+Radi korištenja bespovratne potpore odnosno povrata dijela plaćene savjetodavne usluge članu HMK, poduzetnik će natječajnoj komisiji županije/JLS dostaviti zahtjev za dodjelu potpore iz članka 7. ove Odluke. Uz zahtjev za potporu poduzetnik dostavlja presliku virmana o plaćenoj cijeni savjetodavne usluge članu HMK, presliku ugovora između člana HMK i poduzetnika, te jedan primjerak projekta/elaborata.

@@ -1,0 +1,2 @@
+# Članak 5.
+Na natječaj za potporu iz članka 4. ove Odluke mogu se javiti poduzetnici koji najmanje jednu godinu obavljaju djelatnost, a koji će, radi realizacije poduzetničkog pothvata, koristiti savjetodavne usluge članova HMK, te koji natječajnoj komisiji županije/JLS dostave kratak opis i predviđenu vrijednost aktivnosti u svezi s razvojem i rastom, te kratak opis i predračun cijene savjetodavne usluge.
