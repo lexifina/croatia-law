@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« broj 117/93) i članka 24. Zakona o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« broj 59/01), te članka 28. Statuta Općine Trpanj, Općinsko vijeće Općine Trpanj na sjednici održanoj 20. prosinca 2001. godine, donijelo je
