@@ -1,0 +1,2 @@
+# Članak 10.
+Nakon dobivanja odobrenja nositelj odobrenja obvezan je obavijestiti ministra zdravstva o bilo kojem ograničenju ili zabrani koja se odnosi na taj medicinski proizvod, a koje je dano u bilo kojoj zemlji u kojoj je isti odobren za promet, te je obvezan dostaviti svaku obavijest koja ima utjecaja na ocjenu neškodljivosti, odnosno prikladnosti za određenu namjenu pri primjeni medicinskoga proizvoda na propisani način.
