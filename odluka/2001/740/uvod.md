@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 27. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93 i 29/97), Vlada Republike Hrvatske je na sjednici održanoj 10. svibnja 2001. godine donijela
