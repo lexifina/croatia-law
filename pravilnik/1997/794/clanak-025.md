@@ -1,0 +1,2 @@
+# Članak 25.
+Ako je količina osnovne sirovine (kukuruzne krupice, krumpirove granule, lomljene riže, bezmasne soje i sl., posebice kod direktno ekspandiranog flipsa) ili smjese osnovnih i dodatnih sirovina veća od 50% (m/m) gotovog proizvoda takvi proizvodi mogu u prometu nositi ime prema toj sirovini ili smjesi sirovina (npr. kukuruzni flips, flips od punih žita, krumpirov flips, sojin flips i sl.).

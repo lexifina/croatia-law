@@ -1,0 +1,2 @@
+# Članak 33.
+Prženi plodovi, sjemenke i srodni proizvodi su, u smislu ovog pravilnika, snack-proizvodi dobiveni suhim prženjem i/ili prženjem u ulju, soljenjem i/ili aromatiziranjem čistih, zrelih, normalno razvijenih, probranih i zdravih jezgri kikirikija, lješnjaka, badema, indijskog oraha i drugih jezgrastih plodova; oljušetnih sjemenki suncokreta i bundevskih koštica, te posebnim tehnološkim postupkom obrađenih plodova soje, nahuta i srodnih sirovina.

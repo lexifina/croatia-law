@@ -1,0 +1,5 @@
+# Članak 23.
+Flips-proizvodi (flips) su, u smislu ovog pravilnika, potpuno ekspandirani, suhi i hruskavi proizvodi različita oblika i senzorskih svojstava, dobiveni odgovarajućim tehnološkim postupcima direktne ili indirektne ekspanzije škrobnih i srodnih sirovina za neposrednu ljudsku potrošnju.
+Dijele se na:
+1) neposredno ekspandirane flips-proizvode koji se dobivaju od jedne ili više škrobnih i srodnih sirovina odgovarajuće kakvoće i vlažnosti, koje mogu ekspandirati (kukuruzna krupica, rižin lom, žitne prekrupe, krumpirove granule, odmašćena soja i sl.), termoekstruzijom, ekspanzijom (eksplozijom), oblikovanjem, sušenjem, oplemenjivanjem različitim dodacima i punjenjima (slatkim i slanim) te pakiranjem gotovih proizvoda, i
+2) posredno ekspandirane flips-proizvode koji se dobivaju miješanjem s vodom ili drugim odgovarajućim prehrambenim tekućinama osnovnih i dodatnih škrobnih sirovina, dodataka, začina i aditiva dopuštenih ovim pravilnikom, termoekstruzijom, hlađenjem i oblikovanjem poluproizvoda (peleta), njihovim sušenjem, prženjem u ulju ili drugim tehnološkim postupcima, soljenjem i/ili aromatiziranjem, te pakiranjem gotovih proizvoda.
