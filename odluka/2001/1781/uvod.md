@@ -1,0 +1,1 @@
+Na temelju članaka 3. i 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93., 69/97., 73/00., 33/00., 127/00. i 59/01.) i članka 20. Statuta Općine Karojba (Službene novine Grada Pazina broj 17/01), Općinsko vijeće Općine Karojba na svojoj sjednici održanoj 23. studenoga 2001. godine donijelo je
