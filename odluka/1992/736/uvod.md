@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91,14/91, 53A/91 i 9/92), Vlada Republike Hrvatske, na sjednici održanoj 14. svibnja 1992. godine, donijela je
