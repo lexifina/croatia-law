@@ -1,0 +1,1 @@
+Na temelju članka l. stavka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske ("Narodne novine", broj 72/95), Vlada Republike Hrvatske jc na sjednici održanoj 21. prosinca 1995. donijela
