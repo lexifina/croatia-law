@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Sudionik u klasičnoj igri na sreću jest osoba koja ispunjava uvjete za sudjelovanje u pojedinoj igri na sreću (kolu ili seriji), što dokazuje pojedinačnom kartom, listićem, odnosno drugom potvrdom o uplati ovisno o vrsti igre u kojoj sudjeluje (u daljnjem tekstu: srećke), sukladno pravilima pojedine igre na sreću.
+(2) Sudionikom u klasičnim igrama na sreću gdje se sudjelovanje dokazuje posjedovanjem listića (loto, toto), smatra se imatelj čiji je listić snimljen na mikrofilm ili magnetni medij, ili je pohranjen kod priređivača, a što je u skladu s pravilima pojedinih igara na koje je Ministarstvo financija dalo suglasnost.

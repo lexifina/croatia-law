@@ -1,0 +1,8 @@
+## XI. PRIJELAZNE I ZAKLJUČNE ODREDBE
+# Članak 79.
+(1) Trgovačka društva, koja igre na sreću priređuju u igračnicama i automat klubovima na osnovi odobrenja danih do stupanja na snagu ovoga Zakona, nastavljaju radom do isteka roka važenja odobrenja, a u slučaju da rok važenja odobrenja nije određen, najdulje šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Trgovačka društva kojima odobrenje za priređivanje igara na sreću u igračnicama i automat klubovima važi do 31. prosinca 1997. mogu nastaviti rad pod uvjetom da u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona usklade svoj rad, akte i poslovanje s odredbama ovoga Zakona.
+(3) "Hrvatska lutrija" d.o.o. nastavlja radom pod uvjetom da najkasnije u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona sklopi ugovor o priređivanju klasičnih igara na sreću, a u svezi s priređivanjem posebnih igara na sreću u igračnicama i automat klubovima dužna je uskladiti svoj rad i poslovanje s odredbama ovoga Zakona najkasnije do 30. rujna 1998.
+(4) Trgovačka društva registrirana za obavljanje djelatnosti priređivanja igara na sreću u igračnicama, ili automat klubovima, i imaju odobrenje, a prestala su s priređivanjem igara, osim u slučaju privremenog prekida rada u trajanju do 40 dana, prije ponovnog početka rada dužna su uskladiti svoje akte, rad i poslovanje s odredbama ovoga Zakona.
+(5) Svi postupci započeti radi davanja odobrenja za priređivanje posebnih igara na sreću u igračnicama i autom klubovima u kojima nije donijeto konačno rješenje dovršit će se po odredbama ovoga Zakona.
+(6) Priređivači posebnih igara na sreću (igračnice, automat klubovi i klađenja) oslobođeni su plaćanja poreza na dodanu vrijednost (PDV), bez prava na odbitak pretporeza.

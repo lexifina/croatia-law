@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Igrom na sreću, u smislu ovoga Zakona, smatra se igra u kojoj se sudionicima pruža mogućnost stjecanja dobitka u novcu, stvarima ili pravima, pri čemu krajnji ishod igre ne ovisi o znanju ili umješnosti sudionika u igri, već o slučaju.
+(2) Igre na sreću jesu: jednostavna i složena (klasna) lutrija, robno-novčana i robna lutrija, ekspres lutrija, instant lutrija, loto, toto (športska prognoza) dodatne igre na lotu i totu, bingo, keno, tombola, veldo i slične igre s izvlačenjem, raznovrsna klađenja, igre na stolovima za igru s kuglicama, kockama ili kartama kao i igre na sreću kada se organiziraju pomoću automata i drugih naprava koji samostalno odlučuju putem mehaničkog ili elektroničkog uređaja o isplati dobitka u novcu, žetonima, pravima ili stvarima.
