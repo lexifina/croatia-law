@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o obaveznom potvrđivanju elemenata tipnih građevinskih konstrukcija na otpornost prema požaru te o uvjetima kojima moraju udovoljavati pravne osobe ovlaštene za atestiranje tih proizvoda

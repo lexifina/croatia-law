@@ -1,0 +1,2 @@
+# Članak 8.
+U cijelom tekstu Pravilnika riječ "atestiranje" zamjenjuje se riječju "potvrđivanje", riječ "atest" zamjenjuje se riječima "potvrda o sukladnosti", riječi "organizacija udruženog rada ovlaštena za atestiranje proizvoda" i "organizacija ovlaštena za obvezno atestiranje" zamjenjuje se riječima "ovlaštena pravna osoba", a riječ "standard" zamjenjuje se riječju "norma", u odgovarajućem rodu, broju i padežu.
