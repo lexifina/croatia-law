@@ -1,0 +1,2 @@
+# Članak 6.
+Za uvoz robe koja se u Republici Hrvatskoj ne proizvodi ili se ne proizvodi u količini dovoljnoj za podmirivanje potreba industrije ili stanovništva, odnosno nastane li tijekom godine potreba za uvozom određene robe radi poremećaja u domaćoj proizvodnji, Vlada Republike Hrvatske može propisati niže carinske stope od stopa utvrđenih u Carinskoj tarifi ili primjenu carinske stope slobodno, o čemu podnosi izvješće Saboru Republike Hrvatske.
