@@ -1,0 +1,4 @@
+# Članak 8.
+Domaće osobe dužne su naplatiti izvezenu robu robavljene usluge u roku od 60 dana od dana kada je roba izvezena, odnosno kada je usluga obavljena.
+Narodna banka Hrvatske može jednokratno odobriti da se naplata izvezene robe i usluga obavi i u roku dužem od 60 dana, ovisno o području na koje se izvozi roba, odnosno pruža usluge uz uvjete i rokove što ih odredi Savjet Narodne banke Hrvatske. Rješenje Narodne banke Hrvatske je konačno u upravnom postupku i protiv njega se ne može voditi upravni spor.
+Odredbe stavka 1. i 2. ovog članka ne primjenjuju se na sklopljene ugovore sa stranim osobama do 23. prosinca 1991. godine, pod uvjetom da su Narodnoj banci Hrvatske u propisanom roku poslani izvještaji o sklopljenim poslovima u skladu sa propisom iz članka 160. Zakona o deviznom poslovanju.
