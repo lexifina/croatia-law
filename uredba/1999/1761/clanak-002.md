@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 3. dodaju se novi stavci 3., 4. i 5., koji glase:
+»Vjerovničko vijeće imenovano u skladu sa stavkom 1. ovog članka ima ista ovlaštenja i prema poduzećima odnosno društvima koja su u pretežitom vlasništvu odnosno čije udjele odnosno dionice pretežito drži poduzeće odnosno društvo koje je u postupku sanacije.
+U svim poduzećima odnosno društvima koja se nalaze u sanaciji temeljem ovog Zakona i Odluke donijete na temelju članka 2. ovog Zakona, gdje su skupštine dioničara do dana stupanja na snagu ove Uredbe donijele odluke o provođenju programa sanacije donijetog temeljem članka 7. stavka 1. ovog Zakona i u kojima su imenovani novi nadzorni odnosno upravni odbori, novoizabrani odbori ovih poduzeća odnosno društava obavljat će i funkciju vjerovničkih vijeća sve do trenutka dok Vlada Republike Hrvatske svojom odlukom za svako od ovih poduzeća odnosno društava ne donese odluku o prestanku sanacije.
+Odredba stavka 4. ovog članka primjenjuje se i na ona poduzeća odnosno društva u sanaciji koja će nakon stupanja na snagu ove Uredbe održati svoje skupštine dioničara na kojima će donijeti odluke o provođenju sanacijskih planova«.
