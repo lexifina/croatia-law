@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o poljoprivrednom zemljištu ("Narodne novine", br 54/94 - pročiščeni tekst) članak 38. mijenja se i glasi: "Sredstva ostvarena od zakupnine i prodaje poljoprivrednog zemljišta u vlasništvu države prihod su državnog proračuna i proračuna županija, općine, odnosno grada na čijem se području stječe pravo gospodarskog korištenja poljoprivrednog zemljišta. Sredstva iz stavka 1. ovoga članka raspodjeljuju se tako da 50%, pripada državnom proračunu a 35% proračunu županije dok 15% pripada proračunu općine odnosno grada na čijem se području poljoprivredno zemljište nalazi, a koristit će se za provedbu programa u poljoprivrednoj proizvodnji.
+Ministar poljoprivrede i šumarstva propisat će uvjete i način korištenja sredstava iz stavka 2. ovoga članka".
