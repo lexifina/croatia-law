@@ -1,0 +1,5 @@
+# Članak 3.
+ZAŠTITA I TRETMAN ULAGANJA
+1. Svaka će Ugovorna stranka zaštititi na svom teritoriju ulaganja ulagatelja druge Ugovorne stranke izvršena u skladu sa njenim zakonima i propisima, te neće neopravdanim i diskriminacijskim mjerama utjecati na upravljanje, održavanje, upotrebu, uživanje, proširenje, prodaju ili, u krajnjem slučaju, likvidacije takvog ulaganja.
+2. Svaka Ugovorna stranka osigurat će pošten i pravičan tretman ulaganja ulagatelja druge Ugovorne stranke na svom teritoriju. Ovakav tretman neće biti manje povoljan od onog kojeg Ugovorna stranka odobrava ulaganjima ulagatelja najpovlaštenije nacije na svom teritoriju, ako je takav tretman povoljniji. U slučaju zajedničkih ulaganja, ona će uživati gore navedeni status kao pravna osoba.
+3. Tretman najpovlaštenije nacije neće se primjenjivati na pogodnosti koje jedna Ugovorna stranka odobrava ulagateljima treće države temeljem njegovog članstva ili udruživanja, u zonu slobodne trgovine, carinsku uniju, zajedničko tržište, ili u postojeće ili buduće konvencije o izbjegavanju dvostrukog oporezivanja, ili konvencije o ostalim poreznim pitanjima.
