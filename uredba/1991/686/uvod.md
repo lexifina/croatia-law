@@ -1,0 +1,1 @@
+Na temelju članka 110. Ustava Republike Hrvatske ("Narodne novine", broj 56/90) i članka 23. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 41/90) Vlada Republike Hrvatske, na sjednici održanoj 14. svibnja 1991. godine donijela je
