@@ -1,0 +1,4 @@
+# Članak 8.
+Prognanici ili izbjeglice iz hrvatskog Podunavlja koji su, prema propisima iz točke 2. i 3. stavka 2. članka 1. ove Uredbe, dobili privremeno u posjed i na korištenje obiteljsku kuću ili stan ili u najam stan zadržavaju prava po osnovi Zakona o statusu prognanika i izbjeglica osim prava na nužni smještaj i organiziranu prehranu, te imaju prava po osnovi Zakona o obnovi.
+Prognanici iz hrvatskog Podunavlja, koji su u organiziranom smještaju u određenom hotelskom objektu, mogu ostvariti pravo na naknadu u visini od 50% mjesečne naknade koja se po osobi plaća za smještaj prognanika u hotelu "B" kategorije, i to u slučaju kada se na prijedlog Ureda za prognanike i izbjeglice Vlade Republike Hrvatske dragovoljno isele iz hotelskog objekta.
+Pravo na naknadu iz stavka 2. ovog članka prognanici ostvaruju kada nadležni regionalni ured za prognanike i izbjeglice izda ispravu da su prognanici napustili hotelski objekt.
