@@ -1,0 +1,3 @@
+# Članak 9.
+Punoljetnom djetetu koje živi u zajednićkom domaćinstvu s roditeljima koji su nositelji prava na diplomatsku ili službenu putovnicu može se izdati odgovarajuća putovnica kada putuje zajedno s roditeljima u slučajevima predviđenim ovim pravilnikom. Diplomatska ili službena putovnica u ovim slučajevima može se izdati do navršene 27. godine djeteta.
+Djeci koja žive u zajednićkom domaćinstvu s roditeljima koji su nositelji prava na diplomatsku ili službenu putovnicu. a koja su nesposobna za rad i nisu zasnovali bračnu zajednicu, izdat će se, u slučajevima predviđenim ovim pravilnikom, odgovarajuća putovnica neovisno o godinama starosti.
