@@ -1,0 +1,27 @@
+# Članak 4.
+Sredstva zajedničke pričuve koriste se za održavanje zajedničkih dijelova i uređaja zgrade u graditeljskom i funkcionalnom stanju i to:
+- ličenje i bojanje zidova, stropova, vanjske i unutarnje stolarije i tapetarski radovi,
+- ličenje bravarije, radijatora, drugih grijaćih tijela i drugih odgovarajućih elemenata u zgradi,
+- premazivanje zidova i stropova vapnom,
+- premazivanje dimnjaka,
+- zamjena pokrova
+- keramičarski i drugi radovi na završnim oblogama podova i zidova,
+- zamjena podnih obloga i premazivanje podova,
+- popravak pročelja,
+- zamjena i popravak stolarije uključujući i elemente zaštite od vanjskih utjecaja (kapci, žaluzine, grilje i sl.),
+- popravak pokrova i ravnog krova,
+- održavanje rasvjete i drugih električnih uređaja (zamjena žarulja, prekidača, utičnica, zvonca, svjetiljki, internog govornog uređaja i sl.) kao i održavanje vanjske rasvjete koja pripada zgradi,
+- zamjena i popravak brava i drugih elemenata koji pripadaju zgradi,
+- održavanje nasada, staza, opreme i drugih elemenata na zemljištu koji pripadaju zgradi (ograde, sprave za igru djece, okviri za čišćenje tepiha, klupe i sl.),
+- redoviti servisi na uređajima za grijanje i pripremu tople vode (kotlovnica i toplinska podstanica i dr.),
+- redoviti servisi dizala,
+- redoviti servisi protupožarne instalacije i protupožarnih aparata u zgradi,
+- redoviti servisi agregata za rasvjetu, hidroforskih postrojenja i prepumpnih stanica za otpadnu vodu i pumpnih stanica za vodu,
+- redoviti servisi na antenskim uređajima, uređajima za prijam televizijskog programa uključujući i uređaje za kabelsku i satelitsku TV,
+- redoviti servisi na instalacijama vodovoda, kanalizacije, elektrike, plina i dr.
+- redoviti servisi ostalih aparata i uređaja u zgradi prema naputku proizvođača,
+- čišćenje dimnjaka i dimovodnih kanala (dimnjačarske usluge),
+- dezinsekcija i deratizacija zajedničkih prostora zgrade i posebnih dijelova zgrade kada se obavlja u cijeloj zgradi u cilju trajnog otklanjanja štetočina i gamadi,
+- čišćenje kanala za smeće,
+- čišćenje septičkih jama,
+- čišćenje odvodnih rešetaka, vodovodnih grla i oluka.
