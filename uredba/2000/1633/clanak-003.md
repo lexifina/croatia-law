@@ -1,0 +1,4 @@
+## III. DJELOKRUG UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET RAVNATELJA
+# Članak 3.
+U Kabinetu ravnatelja obavljaju se za ravnatelja i njegovog zamjenika stručni poslovi koji se odnose na protokolarne poslove; poslove vezane uz ostvarivanje plana i programa aktivnosti ravnatelja i njegovog zamjenika; poslovi u vezi sa sredstvima javnog priopćavanja; odnosima s Vladom Republike Hrvatske i Hrvatskim državnim saborom, te drugim tijelima središnje upravne vlasti; poslovi osiguranja pravodobnog upućivanja Vladi Republike Hrvatske i Hrvatskom državnom saboru materijala i drugih dokumenata iz djelokruga Državnog zavoda; poslovi prevođenja; poslovi u vezi međunarodne suradnje, te koordinativnom sudjelovanju u međunarodnim projektima; čuvanje zapisnika sa stručnog kolegija i drugih sastanaka, te praćenje izvršenja obveza utvrđenih na Kolegiju ravnatelja i drugi stručni i administrativni poslovi.

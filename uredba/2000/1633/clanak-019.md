@@ -1,0 +1,2 @@
+# Članak 19.
+Odjel za opća pitanja doplatka za djecu obavlja imovinskopravne poslove u vezi doplatka za djecu; prati i koordinira rad informatičkog sustava doplatka za djecu; osigurava mjere za osiguranje pravilnog i pravodobnog ostvarivanja doplatka za djecu; analizira podatke očevidnika korisnika doplatka za djecu i djece za koju pripada doplatak; razmatra položaj korisnika i predlaže mjere za poboljšanje sustava doplatka za djecu; izrađuje izvješća o doplatku za djecu, te obavlja ostale poslove u vezi doplatka za djecu.

@@ -1,0 +1,3 @@
+# Članak 7.
+Odsjek za opće, pomoćne i tehničke poslove obavlja poslove tehničke koordinacije rada unutarnjih ustrojstvenih jedinica; obavlja poslove u vezi prijema i dostave pošte; raspoređivanja akata, arhiviranja i čuvanja građe Državnog zavoda; nabavlja uredski i drugi materijal za Državni zavod; provodi javne natječaje u vezi nabavke sredstava; priprema interne akte u vezi rada i uvjeta rada u Državnom zavodu; obavlja poslove u vezi korištenja prometnih sredstava, te se brine o načinu održavanja sredstava i opreme Državnog zavoda; obavlja poslove u vezi osobne dostave pošiljaka i poslove dostave za potrebe Državnog zavoda; poslove sitnog popravka inventara; te osiguranja i održavanja prostora Državnog zavoda.
+2. Odsjek za kadrovske poslove
