@@ -1,5 +1,5 @@
-## Obveza objave presude
+## VI. OBJAVLJIVANJE PRIOPĆENJA I ISPRAVKA
+## Objavljivanje priopćenja
 # Članak 29.
-Nakladnik je dužan u prvome sljedećem broju novina ili druge povremene
-tiskovine, odnosno u prvoj emisiji radija ili televizije objaviti bez komentara
-cijelu pravomoćnu presudu kojom je osuđen na naknadu štete.
+(1) Novine i druga povremena izdanja te radijske i televizijske postaje obvezne su na zahtjev tijela javne vlasti objaviti, bez naknade, priopćenje o izvanrednim okolnostima, a osobito o opasnostima za život i zdravlje ljudi, sigurnost zemlje, javni red i mir.
+(2) Obveza iz stavka 1. ovoga članka odgovarajuće se primjenjuje i na programe novinskih agencija.

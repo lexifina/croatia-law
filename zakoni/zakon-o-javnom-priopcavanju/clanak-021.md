@@ -1,6 +1,10 @@
-## Obveza dostavljanja tiska
+## V. ODGOVORNOST ZA ŠTETU
+## Odgovornost za štetu
 # Članak 21.
-Tiskar, odnosno nakladnik ako tisak, tiskano djelo i druga javna glasila,
-nisu tiskana na području Republike Hrvatske, dužan je četiri primjerka
-tiska, tiskanog djela i drugoga javnog glasila, dostaviti Nacionalnoj i
-sveučilišnoj knjižnici.
+(1) Nakladnik koji informacijom objavljenom u javnome glasilu prouzroči drugome štetu dužan ju je naknaditi.
+(2) Šteta je umanjenje nečije imovine ili spriječavanje njezina povećanja (materijalna šteta) te nanošenje drugome fizičkoga ili psihičkoga bola ili straha (nematerijalna šteta).
+(3) Materijalna šteta naknađuje se uspostavom stanja koje je bilo prije nego je šteta nastala, odnosno isplatom naknade u novcu ako uspostava prijašnjega stanja nije moguća ili ne otklanja štetu potpuno, sukladno općim propisima obveznoga prava.
+(4) Nematerijalna šteta naknađuje se ispravljanjem netočne informacije, objavljivanjem ispravka informacije i isprikom te isplatom pravične novčane naknade za pretrpljene bolove i strah, ako jakost i trajanje bolova i straha to opravdavaju, sukladno općim propisima obveznoga prava.
+(5) Nematerijalnu štetu dužan je naknaditi nakladnik koji informacijom o osobnom ili obiteljskom životu, ili nekom drugom informacijom objavljenom u javnome glasilu povrijedi privatnost, dostojanstvo, ugled, čast ili koje drugo Ustavom ili zakonom zaštićeno pravo osobe.
+(6) Ako osoba na koju se informacija odnosi nije živa, sud može dosuditi naknadu štete djeci, posvojeniku, bračnom drugu ili roditeljima za njihove duševne bolove i strah, a braći i sestrama ako je između njih i umrloga postojala trajnija životna zajednica.
+(7) Pri odlučivanju o visini naknade nematerijalne štete sud će voditi računa o stupnju odgovornosti nakladnika, značenju povrijeđenoga dobra i jakosti pretrpljene boli ili straha, cilju koji se naknadom želi postići, nakladi, odnosno broju slušatelja ili gledatelja na području koje svojim programom pokriva radijska ili televizijska postaja koja je objavila informaciju kojom je šteta učinjena, nastojanju nakladnika da drugim sredstvima naknadi učinjenu štetu te drugim okolnostima slučaja ali i o tome da se njome ne pogoduje težnjama koje nisu spojive s njezinom prirodom i društvenom svrhom.

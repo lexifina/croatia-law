@@ -1,21 +1,5 @@
-## Kad glavni urednik nije dužan objaviti ispravak
+## Način i rokovi objavljivanja ispravka
 # Članak 34.
-Glavni urednik nije dužan objaviti ispravak informacije:
-1) ako je informacija istinita,
-2) ako podnositelj ispravka nije naveo, a nije očito na koju se informaciju
-ispravak odnosi,
-3) ako ispravak nije potpisala ovlaštena osoba,
-4) ako je ispravak podnesen nakon trideset dana od dana objavljivanja
-informacije na koju se ispravak odnosi,
-5) ako je druga ovlaštena osoba ranije podnijela ispravak istoga sadržaja
-na istu informaciju, koji nije objavljen, a spor pred sudom radi objavljivanja
-toga ispravka nije dovršen,
-6) ako je objavljen ispravak istoga sadržaja na istu informaciju koji
-je podnijela druga ovlaštena osoba,
-7) ako bi objavljivanje ispravka prouzročilo odgovornost nakladnika
-za štetu,
-8) ako je ispravak duži od informacije na koju se odnosi, a podnositelj
-ispravka nije pristao da se skrati u roku od 3 dana od dana kada je glavni
-urednik predložio skraćivanje,
-9) ako postoji koja od pretpostavki za oslobođenje nakladnika od odgovornosti
-za naknadu štete iz članka 23. ovoga Zakona.
+(1) Ako ne postoji razlog da se odbije objavljivanje, ispravak se mora objaviti bez izmjena i dopuna u prvome sljedećem broju novina ili drugoga povremenog izdanja, na istome mjestu, istom veličinom slova naslova i teksta kojima je objavljena informacija na koju se ispravak odnosi, odnosno u prvoj sljedećoj emisiji radija ili televizije koja odgovara mjestu, vremenu i načinu objavljivanja informacije.
+(2) Ispravak se može objaviti u izmijenjenom obliku samo ako na to pristane podnositelj ispravka.
+(3) Nije dopušteno istodobno objaviti komentar ispravka.

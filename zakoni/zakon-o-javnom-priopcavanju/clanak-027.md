@@ -1,12 +1,4 @@
-## Odgovornost izvora informacije za štetu
+## Odgovornost autora i glavnoga urednika za naknadu isplaćenoga iznosa
 # Članak 27.
-(1) Ako je izvor informacije kojom je učinjena šteta iz članka 22. ovoga
-Zakona novinska agencija, drugo javno glasilo ili tijelo javne vlasti,
-a smisao dobivene informacije nije promijenjen uredničkom obradom, za štetu
-su solidarno odgovorni nakladnik i izvor informacije.
-(2) Nakladnik ima pravo od izvora informacije zahtijevati naknadu isplaćenoga
-iznosa.
-(3) Pravo iz stavka 2. ovoga članka zastarijeva u roku od šest mjeseci
-od dana isplaćene naknade štete.
-Odgovornost autora i glavnoga urednika za naknadu isplaćenoga
-iznosa
+(1) Ako je štetu iz članka 21. ovoga Zakona autor informacije ili glavni urednik prouzročio namjerno ili zbog grube nepažnje, nakladnik ima pravo od autora, odnosno glavnoga urednika zahtijevati naknadu isplaćenoga iznosa.
+(2) Pravo iz stavka 1. ovoga članka zastarijeva u roku od šest mjeseci od dana isplaćene naknade štete.

@@ -1,4 +1,3 @@
-## Čuvanje tonskih i videozapisa
+## Obveza podnositelja ispravka
 # Članak 32.
-Radijske i televizisjke postaje dužne su čuvati tonske i video-zapise
-sukladno odredbama posebnoga zakona.
+Podnositelj ispravka dužan je u ispravku navesti podatke o informaciji na koju se ispravak odnosi.

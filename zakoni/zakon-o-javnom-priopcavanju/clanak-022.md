@@ -1,32 +1,13 @@
-## V. ODGOVORNOST ZA ŠTETU
-## Odgovornost za štetu
+## Oslobođenje nakladnika od odgovornosti za naknadu štete
 # Članak 22.
-(1) Nakladnik koji informacijom objavljenom u javnome glasilu prouzroči
-drugome štetu dužan ju je naknaditi.
-(2) Šteta je umanjenje nečije imovine ili spriječavanje njezina povećanja
-(materijalna šteta) te nanošenje drugome fizičkoga ili psihičkoga bola
-ili straha (nematerijalna šteta).
-(3) Materijalna šteta naknađuje se uspostavom stanja koje je bilo prije
-nego je šteta nastala, odnosno isplatom naknade u novcu ako uspostava prijašnjega
-stanja nije moguća ili ne otklanja štetu potpuno, sukladno općim propisima
-obveznoga prava.
-(4) Nematerijalna šteta naknađuje se ispravljanjem netočne informacije,
-objavljivanjem ispravka informacije i isprikom te isplatom pravične novčane
-naknade za pretrpljene bolove i strah, ako jakost i trajanje bolova i straha
-to opravdavaju, sukladno općim propisima obveznoga prava.
-(5) Nematerijalnu štetu dužan je naknaditi nakladnik koji informacijom
-o osobnom ili obiteljskom životu, ili nekom drugom informacijom objavljenom
-u javnome glasilu povrijedi privatnost, dostojanstvo, ugled, čast ili koje
-drugo Ustavom ili zakonom zaštićeno pravo osobe.
-(6) Ako osoba na koju se informacija odnosi nije živa, sud može dosuditi
-naknadu štete djeci, posvojeniku, bračnom drugu ili roditeljima za njihove
-duševne bolove i strah, a braći i sestrama ako je između njih i umrloga
-postojala trajnija životna zajednica.
-(7) Pri odlučivanju o visini naknade nematerijalne štete sud će voditi
-računa o stupnju odgovornosti nakladnika, značenju povrijeđenoga dobra
-i jakosti pretrpljene boli ili straha, cilju koji se naknadom želi postići,
-nakladi, odnosno broju slušatelja ili gledatelja na području koje svojim
-programom pokriva radijska ili televizijska postaja koja je objavila informaciju
-kojom je šteta učinjena, nastojanju nakladnika da drugim sredstvima naknadi
-učinjenu štetu te drugim okolnostima slučaja ali i o tome da se njome ne
-pogoduje težnjama koje nisu spojive s njezinom prirodom i društvenom svrhom.
+(1) Nakladnik se oslobađa odgovornosti za naknadu štete:
+1. ako je informacija kojom je šteta učinjena točno i potpuno izvješće s rasprave na sjednici tijela javne vlasti ili javnome skupu, ili je prenesena iz isprave pribavljene od tijela javne vlasti, a njezin smisao nije promijenjen uredničkom obradom,
+2. ako je informacija kojom je šteta učinjena autorizirani intervju,
+3. - ako se informacija kojom je šteta učinjena temelji na istinitim činjenicama, ili
+- na činjenicama za koje je autor imao osnovani razlog povjerovati da su istinite i poduzeo je sve potrebite mjere za provjeru njihove istinitosti a postojalo je opravdano zanimanje javnosti za objavu te informacije i ako je postupano u dobroj vjeri,
+4. ako je informacija kojom je šteta učinjena fotografija oštećenika snimljena na javnome mjestu ili fotografija oštećenika snimljena uz njegovo znanje i pristanak radi objavljivanja, a oštećenik nije zabranio objavljivanje, odnosno ograničio pravo autora fotografije na iskorištavanje djela,
+5. ako je informacija kojom je šteta učinjena istinita, a iz okolnosti slučaja proizlazi da je novinar sa sigurnošću mogao zaključiti da se oštećenik slaže s njezinim objavljivanjem,
+6. ako se sporne informacije odnose na vrijednosne sudove autora čije je objavljivanje bilo u javnom interesu i ako su te informacije dane u dobroj vjeri.
+(2) Postojanje pretpostavki odgovornosti za štetu iz članka 21. ovoga Zakona dokazuje tužitelj, a postojanje pretpostavki za oslobođenje od odgovornosti za štetu iz stavka 1. ovoga članka, dokazuje tuženik.
+(3) Ako je informacija autorizirana, a pojedini dijelovi sadrže očevidne uvrede ili klevete, autorizacija ne isključuje i solidarnu odgovornost nakladnika i glavnoga urednika javnoga glasila, ako nisu postupali u dobroj vjeri.
+(4) Stavak 1. ovoga članka ne odnosi se na osobne podatke tajnost kojih je propisana zakonom, informacije o maloljetnim osobama te informacije prikupljene na nezakonit način.

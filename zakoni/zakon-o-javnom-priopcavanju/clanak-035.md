@@ -1,11 +1,7 @@
-## Način i rokovi objavljivanja ispravka
+## Tužba radi objavljivanja ispravka
 # Članak 35.
-(1) Ako ne postoji razlog da se odbije objavljivanje, ispravak se mora
-objaviti bez izmjena i dopuna u prvome sljedećem broju novina ili drugoga
-povremenog izdanja, na istome mjestu, istom veličinom slova naslova i teksta
-kojima je objavljena informacija na koju se ispravak odnosi, odnosno u
-prvoj sljedećoj emisiji radija ili televizije koja odgovara mjestu, vremenu
-i načinu objavljivanja informacije.
-(2) Ispravak se može objaviti u izmijenjenom obliku samo ako na to pristane
-podnositelj ispravka.
-(3) Nije dopušteno istodobno objaviti komentar ispravka.
+(1) Ako glavni urednik odbije objaviti ispravak ili ga ne objavi na način i u roku iz članka 34. ovoga Zakona, podnositelj ispravka ima pravo podnijeti tužbu protiv glavnoga urednika radi objavljivanja ispravka.
+(2) Tužba iz stavka 1. ovoga članka podnosi se općinskom sudu na području kojega je sjedište, odnosno prebivalište nakladnika ili sjedište, odnosno prebivalište ili boravište tužitelja.
+(3) U parnici povodom tužbe iz stavka 1. ovoga članka sudi sudac pojedinac.
+(4) Uz tužbu se prilaže prijepis objavljene informacije i ispravak.
+(5) Tužba se podnosi u roku od trideset dana od isteka roka za objavljivanje ispravka.
