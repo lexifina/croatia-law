@@ -1,0 +1,2 @@
+# Članak 11.
+Standard u specijalističko-konzilijarnoj, odnosno dijagnostičkoj zdravstvenoj zaštiti utvrđen je kadrovskim i vremenskim normativima iz Popisa postupaka, a iskazuje se po djelatnostima specijalističko-konzilijarne, odnosno dijagnostičke zdravstvene zaštite, te provodi u specijalističkim ordinacijama u polikliničkim i bolničkim ustanovama, državnim zdravstvenim zavodima, županijskim zavodima za javno zdravstvo, Zavodu za javno zdravstvo grada Zagreba, domovima zdravlja i kod privatnih zdravstvenih radnika koji su u ugovornom odnosu sa Zavodom.
