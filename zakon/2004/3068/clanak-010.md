@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Kad sredstva u Fondu za osiguranje depozita koji se vodi kod Agencije prijeđu iznos od 2,5 % od ukupne visine osiguranih depozita kod svih banaka, računajući na dan 31. prosinca prethodne godine, visina godišnje premije za tekuću godinu može biti određena i u nižem iznosu od iznosa utvrđenog u članku 9. stavku 1. ovoga Zakona o čemu odluku donosi Uprava Agencije uz prethodnu suglasnost Hrvatske narodne banke.
+(2) U slučaju potrebe koju utvrđuje Uprava Agencije uz prethodnu suglasnost Hrvatske narodne banke premija za osigurane depozite može za pojedino razdoblje za pojedine banke ili za sve banke biti određena i u visini većoj nego je to propisano u članku 9. stavku 1. ovoga Zakona o čemu odluku donosi Uprava Agencije uz prethodnu suglasnost Hrvatske narodne banke.
+(3) Premija za osigurane depozite iz stavka 2. ovoga članka plaća se po posebnom pozivu i u roku od 15 dana od dana izdavanja računa.
