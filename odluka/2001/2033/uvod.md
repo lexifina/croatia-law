@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 15., stavka 1., točke 2. Statuta Općine Medulin (»Službene novine Općine Medulin«, br. 4/01), Općinsko vijeće Općine Medulin, na sjednici održanoj 17. prosinca 2001. godine, donijelo je
