@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici plaćanja doprinosa su fizičke i pravne osobe, članovi Hrvatske obrtničke komore, koji obavljaju obrt (gospodarsku djelatnost) u skladu sa Zakonom o obrtu. Fizičke osobe postaju obveznici plaćanja doprinosa upisom u obrtni registar a pravne osobe postaju obveznici plaćanja doprinosa danom izdavanja rješenja iz članka 8. stavka 2. Zakona o obrtu ("Narodne novine" br. 77/93 i 90/96). Članovi Hrvatske obrtničke komore prestaju biti obveznici plaćanja komorskog doprinosa s danom trajnog prestanka obavljanja obrta.

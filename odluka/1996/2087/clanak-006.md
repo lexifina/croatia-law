@@ -1,0 +1,2 @@
+# Članak 6.
+Za neuplaćene doprinose u roku dospjelosti zaračunavaju se zatezne kamate prema Zakonu o zateznim kamatama ("Narodne novine", br. 28/96) i Uredbama o visini stope zatezne kamate koje donosi Vlada Republike Hrvatske. Za preplaćenu svotu doprinosa obveznici imaju pravo zatražiti povrat preplaćene svote zajedno sa pripadajućom kamatom kako je regulirano spomenutim propisima odnosno mogu izjaviti da se preplaćena svota doprinosa smatra kao predujam za naredno razdoblje.
