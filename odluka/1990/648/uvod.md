@@ -1,0 +1,1 @@
+Na temelju člana 9a. Zakona o premijama za kvalitetni rasplodni podmladak i regresu za umjetno osjemenjivanje stoke ("Narodne novine", br. 42/88, 13/89, 46/89 i 2/90) Izvršno vijeće Sabora na sjednici održanoj 23. srpnja 1990. godine donijelo je
