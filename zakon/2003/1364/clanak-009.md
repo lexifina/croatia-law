@@ -1,0 +1,5 @@
+# Članak 9.
+Prije prikupljanja bilo kojih osobnih podataka, voditelj zbirke osobnih podataka ili izvršitelj obrade dužan je informirati ispitanika čiji se podaci prikupljaju o identitetu voditelja zbirke osobnih podataka, o svrsi obrade u koju su podaci namijenjeni, o korisnicima ili kategorijama korisnika osobnih podataka te da li se radi o dobrovoljnom ili obveznom davanju podataka i o mogućim posljedicama uskrate davanja podataka. U slučaju obveznog davanja osobnih podataka navodi se i zakonska osnova za obradu osobnih podataka.
+Prije davanja osobnih podataka na korištenje drugim korisnicima voditelj zbirke osobnih podataka dužan je o tome informirati ispitanika.
+Informacije iz stavka 1. i 2. ovoga članka daju se ispitaniku neovisno o tome prikupljaju li se osobni podaci neposredno od ispitanika ili iz drugih izvora.
+Iznimno, informacije iz stavka 1. i 2. ovoga članka ne moraju se dati ispitaniku ako se za potrebe obrade u statističke svrhe ili u svrhe povijesnog ili znanstvenog istraživanja osobni podaci daju na korištenje ili se prikupljaju iz postojećih zbirki osobnih podataka, ili ako je obrada osobnih podataka izričito određena zakonom.
