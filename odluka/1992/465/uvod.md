@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/91), a povodom prijedloga Zlatka Andročeca iz Umaga, 43. istarske divizije 17, sada Komunela niz 56, Vlada Republike Hrvatske, na sjednici održanoj 2. travnja 1992. godine, donijela je
