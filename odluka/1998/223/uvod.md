@@ -1,0 +1,1 @@
+Na temelju prijedloga ministra pravosuđa za rješavanje statusa hrvatskih branitelja djelatnicima Ministarstva pravosuđa iz sustava izvršenja sankcija dragovoljcima Domovinskog rata, ministar obrane i ministar pravosuđa donose
