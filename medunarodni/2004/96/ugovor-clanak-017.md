@@ -1,0 +1,4 @@
+# Članak 17.
+UMJETNICI I SPORTAŠI
+1. Neovisno o odredbama članka 14. i 15., dohodak koji ostvari rezident države ugovornice kao izvođač, primjerice kao kazališni, filmski, radijski ili televizijski umjetnik, ili glazbenik ili sportaš od svoje samostalne djelatnosti u drugoj državi ugovornici može se oporezivati u toj drugoj državi. Dohodak na koji se odnosi ovaj stavak uključuje također svaki dohodak koji proizlazi iz bilo kakve osobne djelatnosti koju osoba obavlja u drugoj državi, vezane uz status osobe kao umjetnika ili sportaša.
+2. Ako dohodak od osobne djelatnosti u svojstvu izvođača ili sportaša ne pripada samom izvođaču ili sportašu, nego nekoj drugoj osobi, taj se dohodak, neovisno o odredbama članka 7., 14. i 15., može oporezivati u državi ugovornici u kojoj izvođač ili sportaš obavlja svoju djelatnost.
