@@ -1,0 +1,2 @@
+# Članak 8.
+Izgradnja novih odnosno modernizacija, rekonstrukcija i održavanje postojećih kapaciteta za proizvodnju naoružanja i vojne opreme vrši se, na temelju planova obrane, planova razvoja izgradnje i opremanja oružanih snaga Republike Hrvatske i drugiti potreba obrane. Sredstva za financiranje proizvodnje naoružnja i vojne opreme iz prethodnog članka osiguravaju poduzeća iz vlastitih sredstava, kredita i drugih izvora i sredstava proračuna Republike, namijenjenih za financiranje obrane.

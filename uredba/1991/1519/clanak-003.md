@@ -1,0 +1,2 @@
+# Članak 3.
+U slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike statusne i druge promjene poduzeća koje proizvode naoružanja i.vojnu opremu mogu se vršiti isključivo uz suglasnost Ministarstva energetike i industrije Republike Hrvatske. Iznimno od odredbe iz stavka 1. ovog članka, ako to zahtijevaju posebne okolnosti i neodgodive potrebe izazvane ratnim djelovanjem poduzeća mogu izvršiti nužne promjene i bez prethodne suglasnosti Ministarstva energetike i industrije, osim promjene djelatnosti.

@@ -1,0 +1,1 @@
+Uredba o proizvodnji naoružanja i vojne opreme, te o gospodarskim i drugim odnosima u proizvodnji i prometu naoružanja i vojne opreme u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i j
