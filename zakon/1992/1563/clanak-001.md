@@ -1,0 +1,3 @@
+## o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske
+# Članak 1.
+Protiv počinitelja krivičnih djela u oružanim sukobima, ratu protiv Republike Hrvatske ili u svezi s tim sukobima, odnosno ratom, počinjenih u razdoblju od 17. kolovoza 1990. do dana stupanja na snagu ovoga zakona, obustavlja se krivični progon odnosno krivični postupak. Za ta djela krivični progon neće se poduzimati, a krivični se postupak neće pokretati. Ako je krIvični postupak pokrenut, sud će postupak obustaviti po službenoj dužnosti. Ako je osoba na koju se odnosi oprost iz stavka 1. ovoga članka lišena slobode, sud će odrediti da se pusti na slobodu.
