@@ -1,0 +1,1 @@
+Na osnovi članka 22. Statuta Republičkog fonda zdravstvenog osiguranja i. zdravstva Hrvatske ("Narodne novine" broj 48/80), a sukladno odredbi članka 9. stavke 2 Pravilnika o ortopedskim i drugim pomagalima ("Narodne novine" broj 13/93 i 17/93) Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 11. sjednici održanoj 31. ožujka 1993. godine, donijela je
