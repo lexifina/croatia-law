@@ -1,0 +1,1 @@
+Na temelju članka 9. i 41. Zakona o turističkim zajednicama i promicanju hrvatskog turizma ("Narodne novine", broj 27/91) Glavni turistički sabor po prethodnoj suglasnosti ministra turizma na sjednici održanoj 30. lipnja, 1992. godine donosi
