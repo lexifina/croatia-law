@@ -1,0 +1,2 @@
+# Članak 2.
+Ured obavlja protokolarne, savjetodavne, analitičke i druge stručne i administrativne poslove za potrebe predsjednika Vlade, a osobito: pripremu stručnih i analitičkih materijala za potrebe predsjednika Vlade; stručnu obradu materijala za sudjelovanje predsjednika Vlade u radu Vlade, Užeg kabineta i radu Hrvatskoga sabora; koordinaciju odnosa između Vlade Republike Hrvatske i Hrvatskoga sabora, sazivanje i pripremu sjednica Užeg kabineta Vlade, te sastanaka predsjednika Vlade i izradu bilješki s tih sastanaka, te druge poslove po nalogu predsjednika Vlade.
