@@ -1,0 +1,2 @@
+# Članak 7.
+Za razdoblje koje prethodi mjesecu u kojem je pokrenut postupak za utvrđivanje svojstva osiguranika, doprinos za mirovinsko i invalidsko osiguranje obračunava se i plaća prema osnovici iz članka 1. ove odluke i prema stopi doprinosa koja vrijedi za vrijeme pokretanja postupka.
