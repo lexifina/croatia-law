@@ -1,0 +1,2 @@
+# Članak 21.
+Popis rudarskih poduzeća I samostalnih poduzetnika kojima su izdanaodobrenja za istraživanje ili eksploataciju mineralnih sirovina vode seu registru u koji se abecednim redom upisuju nazivi rudarskih poduzećaili samostalnih poduzetnika, kojima su izdana odobrenja za istraživanjeodnosno odobrenja za eksploataciju mineralnih sirovina. Kod svakog nazivarudarskog poduzeća ili samostalnog poduzetnika označuju se broj knjigeI lista katastra istražnih prostora odnosno katastra eksploatacionih poljana kojemu je upisano pravo istraživanja ili eksploatacije.

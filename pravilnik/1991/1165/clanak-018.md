@@ -1,0 +1,2 @@
+# Članak 18.
+Ako je na cijelom eksploatacionom polju potpuno ili trajno obustavljenaeksploatacija zbog toga što je iscrpljena određena mineralna sirovina,u katastru eksploatacionih polja precrtat će se unakrsnim linijama crvenomtintom ili crvenom kemijskom olovkom obadvije strane lista na kojemu jeupisano odnosno eksploataciono polje I upisat će se u kolonu 9. da je prestalovažiti odobrenje za eksploataciju mineralnih sirovina na tom eksploatacionompolju.

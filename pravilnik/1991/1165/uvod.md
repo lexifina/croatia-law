@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o rudarstvu ("Narodne novine",br. 27/91), te članaka 91. Zakona o upravi ("Narodne novine",br. 16/78, 50/79, 29/85, 48/85, 41/90 i 47/90) ministar energetike i industrijedonosi
