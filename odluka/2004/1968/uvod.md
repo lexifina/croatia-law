@@ -1,0 +1,1 @@
+Na temelju članka 23. Statuta Hrvatske obrtničke komore (»Narodne novine« br. 116/02 - pročišćeni tekst i 158/02), a u vezi s člankom 71. i 73. Zakona o obrtu (»Narodne novine« br. 49/03 - pročišćeni tekst), Skupština Hrvatske obrtničke komore na sjednici održanoj 30. lipnja 2004. godine donosi
