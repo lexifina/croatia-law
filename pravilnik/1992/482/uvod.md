@@ -1,0 +1,1 @@
+Na temelju Članka 35. stavka 5. Zakona o carinskoj službi Republike Hrvatske ("Narodne novine", broj 53/91) i članka 91. Zakona o upravi ("Narodne novine". broj 16/78. 50/78, 29/85, 48/85, 41/90, 47/90 i 53A/91), direktor Carinske uprave Republike Hrvatske donosi
