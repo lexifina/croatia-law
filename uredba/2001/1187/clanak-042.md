@@ -1,0 +1,6 @@
+# Članak 42.
+Odjel za međunarodnu sigurnost analizira podatke, informacije i saznanja diplomatskih i drugih izvora te priprema prijedloge i sudjeluje u procesu oblikovanja odluka, brine o primjeni, provedbi i usklađenosti aktivnosti s propisima, odlukama i smjernicama, surađuje s drugim organizacijskim jedinicama Ministarstva, tijelima državne uprave Republike Hrvatske, organizacijama, udrugama i drugim subjektima u cilju usklađivanja, poticanja i praćenja rada aktivnosti na provedbi vanjske politike prema NATO-u i OESS-u, a posebno u pitanjima razoružanja i kontrole naoružanja, u suradnji s diplomatskim misijama i konzularnim uredima Republike Hrvatske i s drugim odjelima unutar Uprave, prati i proučava sve aktivnosti na polju međunarodne sigurnosti, sudjeluje na međunarodnim skupovima iz sva tri područja djelovanja Odjela, prati rad III Radnog stola Pakta o stabilnosti o sigurnosnim pitanjima, te obavlja ostale poslove i zadatke po potrebi.
+Za obavljanje poslova i zadaća u Odjelu za međunarodnu sigurnost ustrojavaju se:
+1. Odsjek za NATO i Partnerstvo za mir;
+2. Odsjek za kooperativnu sigurnost, kontrolu oružja i razoružanje - razminiravanje.
+1.1. Odsjek za NATO i Partnerstvo za mir

@@ -1,0 +1,3 @@
+# Članak 24.
+Odjel za Sjevernu i Zapadnu Europu prati, proučava i stručno obrađuje politička zbivanja i problematiku bilateralnih odnosa Republike Hrvatske i pojedinih zemalja Sjeverne i Zapadne Europe te surađuje s diplomatskim misijama i konzularnim uredima Republike Hrvatske u tim zemljama, pokreće i koordinira pregovore sa zemljama Sjeverne i Zapadne Europe s ciljem zaključivanja međunarodnih sporazuma, te ih usklađuje s ostalim tijelima državne uprave, komunicira sa stranim diplomatskim misijama i konzularnim uredima u Republici Hrvatskoj, obavlja druge poslove iz svog djelokruga.
+2. Odjel za Srednju, Istočnu i Jugoistočnu Europu

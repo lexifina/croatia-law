@@ -1,0 +1,3 @@
+# Članak 15.
+Odsjek za podršku službi vanjskih poslova obavlja poslove standardizacije pokretne i nepokretne imovine i opremljenosti Ministarstva i diplomatskih misija i konzularnih ureda, poslove racionalizacije korištenja financijsko materijalne imovine službe vanjskih poslova, poslove planiranja i projekcije godišnjih projekata, poslove godišnjih natječaja i natječaja po pozivu, knjigu ugovora, rješava po zahtjevima diplomatskih misija i konzularnih ureda i drugih ustrojstvenih jedinica Ministarstva, priprema podloge za donošenje odluka tajnika Ministarstva, te obavlja i druge poslove iz svog djelokruga.
+3.2. Odsjek za investicije

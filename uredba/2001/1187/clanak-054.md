@@ -1,0 +1,3 @@
+# Članak 54.
+Odsjek za putne isprave obavlja poslove koji se odnose na: obradu zahtjeva za izdavanje putovnica po zahtjevima zaprimljenim u diplomatskim misijama i konzularnim uredima u okviru centralizirane izrade putovnica, vođenje evidencija na informacijskom sustavu Ministarstva unutarnjih poslova o izdanim putnim ispravama hrvatskih državljana u diplomatskim misijama i konzularnim uredima Republike Hrvatske, izdavanje službenih i diplomatskih putovnica i vođenje o tome odgovarajućih evidencija, posredovanje i koordinaciju obavljanja upravnih poslova u vezi s izdavanjem putovnica u diplomatskim misijama i konzularnim uredima u inozemstvu.
+1.2. Odsjek za vize i državljanstvo

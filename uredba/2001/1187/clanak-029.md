@@ -1,0 +1,3 @@
+# Članak 29.
+Odjel za Sjevernu Ameriku prati, proučava i stručno obrađuje politička zbivanja i problematiku bilateralnih odnosa Republike Hrvatske i pojedinih zemalja Sjeverne Amerike te surađuje s diplomatskim misijama i konzularnim uredima Republike Hrvatske u tim zemljama, te stranim diplomatskim misijama i konzularnim uredima tih zemalja u Republici Hrvatskoj, sudjeluje u izradi nacrta i daje mišljenja o potrebi sklapanja bilateralnih ugovora izmađu Republike Hrvatske i SAD, te Republike Hrvatske i Kanade, te obavlja druge poslove iz svog djelokruga.
+5. Odjel za gospodarsku bilateralu - europsku i sjevernoameričku

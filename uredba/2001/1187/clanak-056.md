@@ -1,0 +1,3 @@
+# Članak 56.
+Odsjek za imovinska i radno pravna pitanja obavlja upravne i stručne poslove koji se odnose na: posredovanje i koordinaciju obavljanja poslova u diplomatskim misijama i konzularnim uredima u svezi nasljeđivanja, pružanja pravne pomoći hrvatskim državljanima koji žive ili borave u inozemstvu u svezi ostvarivanja prava i zaštite interesa iz područja socijalne skrbi, mirovinskog i socijalnog osiguranja, ostvarivanja carinskih i poreznih povlastica prigodom povratka u Republiku Hrvatsku; poslove u svezi stjecanja prava vlasništva nekretnina u Republici Hrvatskoj stranih pravnih i fizičkih osoba, te obavlja i druge poslove iz svog djelokruga.
+1.4. Odsjek za međunarodnopravnu pomoć i matičarske poslove

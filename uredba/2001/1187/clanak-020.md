@@ -1,0 +1,3 @@
+# Članak 20.
+Odsjek za financijsko poslovanje, plan i analizu obavlja poslove financijskog i računovodstvenog poslovanja, pribavlja i izrađuje izvješća o financijskom poslovanju, obavlja poslove računovodstva i knjigovodstva za službu vanjskih poslova, obavlja poslove izrade godišnjeg, kvartalnih i mjesečnih planova, proračuna tekućih i kapitalnih izdataka za službu vanjskih poslova, izvješćuje o izvršenju Proračuna i poslovanju za prethodnu godinu, prosljeđuje mjesečne zahtjeve Ministarstvu financija za plaće djelatnika i tekuće izdatke, izvješćuje o doznačenim sredstvima iz Ministarstva financija, te obavlja druge poslove iz svog djelokruga.
+4.2. Odsjek za devizno poslovanje
