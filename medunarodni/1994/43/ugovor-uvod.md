@@ -1,0 +1,2 @@
+UGOVOR O LINIJSKOM PRIJEVOZU USOBA AUTOBUSOM U MEĐUNARODNOM CESTOVNOM PROMETU, IZMEĐU REPUBLIKE HRVATSKE I VLADE REPUBLIKE AUSTRIJE PREAMBULA
+Vlada Republike Hrvatske i Vlada Republike Austrije, u nastavku ugovorne stranke, u nastojanju da reguliraju linijski prijevoz osoba autobusom u međunarodnom cestovnom prometu između svojih dviju država, suglasili su se da će pri izvršavanju svojih obveza u području međunarodnog autobusnog linijskog cestovnog prometa postupati prema navedenim odredbama kako slijedi:
