@@ -1,0 +1,2 @@
+# Članak 3.
+Radom Zavoda rukovodi Ravnateljstvo od sedam članova na čelu s glavnina ravnateljem, koji je i glavni urednik Hrvatske enciklopedije. Glavnog ravnatelja i tri člana Ravnateljstva imenuje Vlada Republike Hrvatske, dva člana bira Znanstveno vijeće Zavoda, dok je ravnatelj Zavoda član Ravnateljstva po položaju. Glavni ravnatelj i članovi Ravnateljstva imenuju se odnosno biraju na četiri godine.

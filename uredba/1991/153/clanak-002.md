@@ -1,0 +1,2 @@
+# Članak 2.
+Zavod prikuplja i obrađuje dokumentaciju i leksikografsku građu za sastavljanje i izdavanje Hr-vatske enciklopedije, enciklopedijskih, leksikografskih, bibliografskih, kartografskih, monografskih i drugih djela, koje tiska i pohranjuje ili umnožava na konvencionalnim i kompjuterski čitljivim medijima, te ih raspačava. U ostvarivanju zadataka iz stavka 1. ovog članka Zavod surađuje sa stručnjacima, ustanovama i poduzećima u zemlji i inozemstvu.
