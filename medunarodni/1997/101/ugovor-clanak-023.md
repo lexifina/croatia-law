@@ -1,0 +1,4 @@
+# Članak 23.
+Zbrajanje razdoblja osiguranja
+(1) Razdoblja osiguranja tijekom zaposlenja koje podliježe obvezi plaćanja doprinosa, navršena prema pravnim propisima jedne države ugovornice, uzimaju se u obzir za stjecanje prava na davanja u slučaju nezaposlenosti prema pravnim propisima druge države ugovornice, ukoliko je nezaposlena osoba u državi u kojoj ostvaruje pravo na takvo davanje u posljednjih dvanaest mjeseci prije podnošenja zahtjeva bila osigurana kao zaposlenik ukupno najmanje 26 tjedana bez povrede propisa o zapošljavanju stranaca.
+(2) Uvjet minimalnog razdoblja zaposlenja od 26 tjedana, utvrđen u stavku 1. ne vrijedi za nezaposlene osobe čije je zaposlenje bilo predviđeno za duži rok, ali je bez njihove krivnje okončano prije isteka 26 tjedana, ili za austrijske državljane koji podnose zahtjev za davanja u Austriji.

@@ -1,0 +1,6 @@
+# Članak 28.
+Predavanje pisanih podnesaka
+(1) Zahtijevi, izjave ili pravna sredstva, koja se primjenom ovog ugovora ili pravnih propisa jedne države ugovornice predaju tijelu, nositelju ili drugoj nadležnoj ustanovi jedne države ugovornice, smatraju se zahtjevima, ili pravnim sredstvima podnesenima tijelu, nositelju ili nekoj drugoj nadležnoj ustanovi druge države ugovornice.
+(2) Zahtjev za davanje, podnesen prema pravnim propisima jedne države ugovornice, smatra se također zahtjevom za odgovarajuće davanje prema pravnim propisima druge države ugovornice, koje dolazi u obzir pri primjeni ovog ugovora. To ne vrijedi ako podnositelj zahtjeva izričito zahtjeva odgodu utvrđivanja stečenog prava na davanje zbog starosti prema pravnim propisima jedne države ugovornice.
+(3) Zahtjevi, izjave ili pravna sredstva, koja se u primjeni pravnih propisa jedne države ugovornice trebaju u određenom roku predati tijelu, nositelju ili nekoj drugoj nadležnoj ustanovi te države ugovornice, mogu se u tom istom roku predati odgovarajućoj službi druge države ugovornice.
+(4) U slučajevima iz stavka 1. do 3. dotična služba prosljeđuje te zahtjeve, izjave ili pravna sredstva, bilo izravno ili putem tijela za vezu država ugovornica, odgovarajućoj nadležnoj službi druge države ugovornice.
