@@ -1,0 +1,1 @@
+Na temelju članaka 50. stavka 1. točke 1. Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabae ("Narodne novine2, br. 1/97- pročišćeni tekst) ministar zdravstva donosi
