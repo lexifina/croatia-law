@@ -1,0 +1,1 @@
+Na temelju članka 4. stavaka 1. i 2. Bečke konvencije o konzularnim odnosima od 24. travnja 1983. ("Službeni list Međunarodni ugovori", 1966, broj 5.) i članka 3. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91,14/91, 53A/91, 9/92, 55/92 i 29/94), Vlada Republike Hrvatske je na sjednici održanoj 26. svibnja 1994. godine donijela
