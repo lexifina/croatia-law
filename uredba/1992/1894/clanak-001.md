@@ -1,0 +1,3 @@
+## o izmjenama Zakona o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon
+# Članak 1.
+U Zakonu o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon ("Narodne novine", broj 53/91, 73/91 i 18/92), u članku 3b. stavku 1. riječi "akontacije na ta primanja" zamjenjuju se riječima "tih primanja." Stavak 2. mijenja se i glasi: "Mirovina određena prema stavku 1. ovoga članka isplaćivat će se u visini 63,22% od pripadajuće svote mirovine u mjesecu prosincu 1991. godine."
