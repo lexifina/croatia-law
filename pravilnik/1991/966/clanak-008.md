@@ -1,0 +1,3 @@
+# Članak 8.
+Ako zahtjev za izdavanje odobrenja za istraživanje iste mineralne sirovine na istom prostoru za istraživanje podnesu dva ili više rudarskih poduzeća ili samostalna poduzetnika odobrenje će se izdati onom poduzeću ili samostalom poduzetniku za koga se ocijeni da osigurava uspješnije istraživanje.
+Ako zahtjev za izdavanje odobrenja za istraživanje mineralnih sirovina, na prostorima za istraživanje koji graniče s njihovim eksploatacionim poljem, podnese rudarsko poduzeće ili samostalni poduzetnik radi obnavljanja i održavanja rezervi tih sirovina, odobrenje će se izdati tom rudarskom poduzeću odnosno samostalnom poduzetniku.
