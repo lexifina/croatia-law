@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske ("Narodne novine", broj 72/95), a u svezi sa člankom 40. Zakona o sudskom registru ("Narodne novine", broj 1/95), Vlada Republike Hrvatske je na sjednici održanoj 2. prosinca 1995. donijela slijedeću
