@@ -1,0 +1,2 @@
+# Članak 4.
+U postupcima za upis u imenike odvjetnika i odvjetničkih vježbenika, za obnovu postupka upisa te u drugim slučajevima u kojima odlučuju o pravima i obvezama odvjetnika, odvjetničkih vježbenika i odvjetničkih društava, osim ako zakonom, ovim statutom ili drugim općim aktom Komore nije drugačije određeno, ovlaštena tijela Komore odlučuju primjenjujući na odgovarajući način pravila Zakona o općem upravnom postupku.

@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Ploča s nazivom odvjetničkog ureda može biti istaknuta samo pored ulaza u zgradu u kojoj je on smješten te pored ulaza u stan ili poslovne prostorije u zgradi u kojoj se ured nalazi. Ako ovim statutom nije drugačije određeno, ploča smije sadržavati oznaku "odvjetnica" ili "odvjetnik", te ime i prezime odvjetnika, odnosno skraćenu tvrtku odvjetničkog društva ili oznaku da je riječ o zajedničkom odvjetničkorn uredu, i specijalizaciju.
+(2) Odvjetnićki uredi na području jedinica lokalne samouprave u kojima je pored hrvatskog u službenoj uporabi i koji drugi jezik smiju na svojoj ploči imati i prijevod riječi "odvjetnica" odnosno "advjetnik" na taj jezik.
+(3) Ako odvjetnički ured ima više pisarnica, na svakoj zgradi u kojoj se nalazi pisarnica može biti istaknuto ime odvjetničkog ureda uz oznaku njegova sjedišta i sjedišta pisarnice (npr.: Odvjetnički ured Marko Marković i dr., Zagreh, Pisarnica Rijeka/
+(4) Ploča s imenom odvjetničkog ureda po svojem izgledu, veličini ili obliku ne smije imati reklamno obilježje.
