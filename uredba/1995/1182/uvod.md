@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94) i članka 12. stavka 2. Zakona o ustanovama ("Narodne novine", broj 76/93), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 1995. godine donijela
