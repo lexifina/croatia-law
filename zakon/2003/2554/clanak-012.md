@@ -1,0 +1,5 @@
+## NadleŽnost sudova za voĐenje kaznenog postupka
+# Članak 12.
+(1) Za vođenje kaznenog postupka za kaznena djela iz članka 1. ovoga Zakona, uz sudove mjesno nadležne prema općim propisima, mjesno su nadležni i županijski sudovi u Osijeku, Rijeci, Splitu i Zagrebu.
+(2) Postupak se vodi pred onim stvarno i mjesno nadležnim sudom iz stavka 1. ovoga članka pred kojim državni odvjetnik pokrene postupak. Prije pokretanja postupka pred županijskim sudom iz stavka 1. ovoga članka koji nije mjesno nadležan prema općim propisima, Glavni državni odvjetnik zatražit će suglasnost predsjednika Vrhovnog suda Republike Hrvatske. Predsjednik Vrhovnog suda Republike Hrvatske dat će takvu suglasnost kada je to primjereno okolnostima kaznenog djela i potrebama vođenja postupka.
+(3) Na obrazloženi prijedlog Glavnoga državnog odvjetnika, predsjednik Vrhovnog suda Republike Hrvatske može odobriti da se vođenje postupka, kada je to primjereno okolnostima kaznenog djela i potrebama vođenja postupka, premjesti s jednog u drugi stvarno nadležni sud.

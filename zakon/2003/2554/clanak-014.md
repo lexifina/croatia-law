@@ -1,0 +1,6 @@
+## NadleŽnost drŽavnog odvjetnika
+# Članak 14.
+(1) Glavni državni odvjetnik Republike Hrvatske uz prethodno mišljenje ministra nadležnog za poslove pravosuđa te kolegija Državnog odvjetništva Republike Hrvatske imenuje jednog od svojih zamjenika na dužnost Državnog odvjetnika za progon kaznenih djela iz članka 1. ovoga Zakona (u daljnjem tekstu: Državni odvjetnik za progon ratnih zločina) na vrijeme od četiri godine koji koordinira i usmjerava kazneni progon počinitelja te rad nadležnih državnih odvjetnika i odjela nadležnog za ratne zločine Ministarstva unutarnjih poslova.
+(2) U postupku za kaznena djela iz članka 1. ovoga Zakona nadležan je državni odvjetnik koji prema općim propisima postupa pred mjesno nadležnim županijskim sudom, ako Glavni državni odvjetnik Republike Hrvatske ili Državni odvjetnik za progon ranih zločina za postupanje ne odredi drugoga državnog odvjetnika.
+(3) Državni odvjetnik za progon ratnih zločina može u svakom slučaju za kaznena djela iz članka 1. ovoga Zakona sam poduzeti sve potrebne radnje koje poduzima državni odvjetnik prema Zakonu o kaznenom postupku.
+(4) Nadležni državni odvjetnik usmjerava rad redarstvenih vlasti koje rade na predmetima koji prema ovom Zakonu spadaju u njegovu nadležnost.

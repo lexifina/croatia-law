@@ -1,0 +1,7 @@
+## II. KAZNENI PROGON U REPUBLICI HRVATSKOJ
+## NadleŽnost hrvatskih sudova i drugih tijela
+# Članak 10.
+(1) Počinitelje kaznenih djela iz članka 1. ovoga Zakona počinjenih u Republici Hrvatskoj, počinitelje koji su državljani Republike Hrvatske i počinitelje čije su žrtve državljani Republike Hrvatske progonit će se u Republici Hrvatskoj te će im suditi nadležni hrvatski sud.
+(2) Osim počinitelja iz stavka 1. ovoga članka, u Republici Hrvatskoj progonit će se i drugi počinitelji kaznenih djela iz članka 1. ovoga Zakona, bez obzira na mjesto počinjenja i državljanstvo počinitelja ako je počinitelj uhićen u Republici Hrvatskoj ili joj je izručen, a kazneni progon nije proveden pred Međunarodnim kaznenim sudom ili pred sudom druge države, ili ne postoje uvjeti da se počinitelju sudi pred Međunarodnim kaznenim sudom, sudom države u kojoj je kazneno djelo počinjeno, sudom države čiji je počinitelj državljanin ili drugim sudom koji je nadležan za suđenje i pred kojim se može očekivati provođenje pravična postupka.
+(3) U slučajevima iz stavka 2. ovoga članka ili ako je postupak proveden u drugoj državi suprotno međunarodno priznatim standardima pravičnog suđenja protiv počinitelja može se pokrenuti kazneni postupak uz odobrenje Glavnoga državnog odvjetnika.
+(4) Iznimno od stavka 1. ovoga članka u Republici Hrvatskoj neće se poduzimati kazneni progon kada se postupak već vodi pred Međunarodnim kaznim sudom. U tom slučaju Republika Hrvatska će ustupiti kazneni progon Međunarodnom kaznenom sudu sukladno Statutu i ovom Zakonu.

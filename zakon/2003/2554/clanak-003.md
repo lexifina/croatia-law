@@ -1,0 +1,7 @@
+## NadleŽnost za obavljanje poslova suradnje i izvrŠenje odluka MeĐunarodnoga kaznenog suda
+# Članak 3.
+(1) Ako ovim Zakonom nije određeno drukčije, poslove suradnje i izvršenja odluka Međunarodnoga kaznenog suda provodi i koordinira Vlada Republike Hrvatske (u daljnjem tekstu: Vlada).
+(2) Ako prema Ustavu i zakonu za obavljanje određenih poslova postoji isključiva nadležnost nekog državnog tijela ili ako je očito da će neko državno tijelo lakše obaviti određene poslove suradnje, Vlada će tom tijelu proslijediti zahtjev za suradnju, odnosno odluku Međunarodnoga kaznenog suda radi izvršenja.
+(3) Nadležna državna tijela će postupajući u poslovima suradnje i izvršenja odluka Međunarodnoga kaznenog suda postupati žurno i bez odlaganja, te o tim poslovima izvijestiti Vladu. Zahtjev Međunarodnoga kaznenog suda za obavljanjem određenih poslova suradnje može se odbiti samo iz razloga predviđenih Statutom (članak 93. stavak 3., članak 94. stavak 4. i članak 98. stavak 1. Statuta).
+(4) Vlada može uredbom osnovati tijela za obavljanje poslova suradnje i izvršenja odluka iz svoje nadležnosti ili pojedine radnje u postupku suradnje ili izvršenja odluka poduzimati putem državnog odvjetništva.
+(5) Stvarna i mjesna nadležnost sudova i drugih državnih tijela koja postupaju u poslovima suradnje i izvršenja odluka Međunarodnoga kaznenog suda određuje se prema pravilima koja vrijede za određivanje nadležnosti u kaznenom postupku, odnosno u drugom postupku u kojem se obavlja radnja, ako ovim Zakonom nije određeno drukčije.
