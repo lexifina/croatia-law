@@ -1,0 +1,3 @@
+o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991.
+1. U skladu s odredbom članka 37d. Zakona o osnovnim pravima iz mirovinskog i invalidskog osiguranja ("Službeni list SFRJ", br. 23/82, 75/85, 8/87, 65/87, 87/89, 44/90 i 11/91 ), najniža svota naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. iznosi 3.703,20 dinara.
+2. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1991.
