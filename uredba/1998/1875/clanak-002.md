@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra prolazi sjevernim dijelom č.z. 1226/2, 1076/1, 1075/1, 915/1, 919/1, nastavlja istočnim dijelom č.z. 911/1, 905/1, 904/2, 898/1, jugoistočnim dijelom č.z. 848/5, te nastavlja sjeveroistočnim dijelom č.z. 848/27, jugozapadnim dijelovima č.zgr. 385 i č.z. 1226/4 i 1286 k.o. Gruž, sve kako je označeno u grafičkom prilogu na kopiji katastarskog plana broj lista 11. i 19.
