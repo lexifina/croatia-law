@@ -1,0 +1,2 @@
+# Članak 6.
+Financfjska prava i obveze koja su po Zakonu o osnovnim pravima iz mirovinskog i invalidskog osiguranja ("Službeni list SFRJa', br. 23/82, 77/82, 75/85, 8/87, 65/87, 76/88, 74/88, 74/89, 87/89, 44/90 i 87/90) i Zakonu o obvezama federacije za mirovine boraca ("Službeni list SFRJ", br. 39/74, 46/74, 68/81, 57/83 i 9/86) pripadala federaciji postaju prava i obveze proračuna Republike Hrvatske.
