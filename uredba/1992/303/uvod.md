@@ -1,0 +1,1 @@
+Na temelju članka l. Zakona o ovlaštenju Vlade Republike Hrvatske za donošenje uredbi kojima će uređivati pojedina pitanja iz djelokruga Sabora Republike Hrvatske ("Narodne novine", broj 39/91 i 53A/91) Vlada Republike Hrvatske na sjednici održanoj 18. ožujka 1992. godine, donijela je
