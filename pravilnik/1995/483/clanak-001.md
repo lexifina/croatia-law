@@ -1,0 +1,210 @@
+# Članak 1.
+Civilnu službu može se obavljati u sljedećim pravnim osobama u Republici Hrvatskoj:
+1. Iz područja gospodarstva:
+- Holding "Željezara" Sisak
+- "3. maj" d.d. Rijeka - "Uljanik" Pula
+- "Ina-petrokemija" d.d. Kutina
+- "MTČ" d.o.o. Čakovec
+- "Univerzal" d.d. Bjelovar
+2. Iz područja pomorstva, prometa i veza:
+- HŽ - Hrvatske željeznice
+- Zračna luka Zagreb
+3. Iz područja rade i socijalne skrbi:
+- Dom za djecu i omladinu Zagreb
+- RJ dječji dom "Ivan Goran Kovačić" Zagreb
+- RJ dječji dom "Antun Gustav Matoš" Zagreb
+- RJ dječji dom "Josipovac" Zagreb
+-RJ dječji dom "Laduč" Laduč
+- Centar za odgoj djece i omladine "Dugave" Zagreb
+- Prihvatna stanica za djecu i omladinu Zagreb
+- Dom za djecu i omladinu Zagreb
+- Centar za odgoj, obrazovanja i osposobljavanje djece i omladine Zagreb
+- Centar za odgoj i obrazovanje djece i omladine Velika Gorica
+- Centar za odgoj, obrazovanje i osposobljavanje omladine Bregane
+- Centar za rehabilitaciju "Zagreb" Zagreb
+- Centar za odgoj, obrazovanje i osposobljavanje djece i omladine Zagreb
+- Centar za odgoj i obrazovanje "Slava Raškaj" Zagreb
+- Centar za odgoj i obrazovanje "Vinko Bek" Zagreb
+- Dom umirovljenika "Sv. Josip" Zagreb
+- Dom umivoljenika "Ksaver" Zagreb
+- Dom umirovljenika "Trnje" Zagreb
+- Centar za društ. brigu o starijim osobama "Božidar Adžija" Zagreb
+- Dom umirovljenika "Dubrava" Zagreb
+- Centar društvene brige o starijim osobama "Trešnjevka" Zagreb
+- Dom umirovljenika "Sveta Ana" Zagreb
+- Dom umirovljenika "Maksimir" Zagreb - Dom umirovljenika "Centar" Zagreb
+- Dom za djecu i omladinu Koprivnica
+- Dom za djecu i omladinu "Vladimir Nazor" Karlovac
+- Dom za djecu i mladež "Klasje" Osijek
+- Dom za djecu i omladinu "Jovica Marković" Lipik
+- Dom za djecu i omladinu "lvan Senjug-ujak" S1. Brod
+- Dom za djecu i omladinu "Laura Klajn" Vinkovci - Dom za djecu i omladinu "Zagreb" Selce
+- Dom za djecu i omladinu "I. B. Mažuranić" Lovran
+- Dom za djecu i omladinu "Ruža Petrović" Pula
+- Dom za djecu i omladinu "Anka Pađen" Vinodolski
+- Dom za djecu i omladinu "Ante Savin" Kaštel Lukšić
+- Dom za djecu i omladinu "Mileva Tomić" Split
+- Dom za djecu i omladinu "Ivo Vukšić" Dubrovnik
+- Dječji dom "Franjo Ogulinac-Seljo" Sisak
+- Centar za odgoj omladine Osijek
+- Centar za odgoj djece i omladine Karlovac
+- Centar za odgoj Rijeka
+- Odgojni dom za mušku omladinu Lošinj
+- Centar za odgoj Split
+- Centar za odgoj djece i omladine Pula
+- Dom za odgoj djece Cres
+- Centar za odgoj Zadar
+- Odgojni dom za mušku omladinu "Pahinsko" Ivanec
+- Odgojni dom za djecu i omladinu Bedekovčina
+- Zavod za socijalno-zdravstvenu zaštitu odraslih osoba Zagreb
+- Zavod za djecu invalida Kraljevica - Ostro
+- Centar za odgoj i obrazovanje "Slava Raškaj" Rijeka
+- Centar za odgoj i obrazovanje "Slava Raškaj" Split
+- Centar za odgoj i obrazovanje djece i omladine Šibenik
+- Zavod za smještaj i rehabilitaciju djece i omladine "Vrlika" Vrlika - Sinj
+- Zavod za smještaj i rehabilitaciju Filip Jakov
+- Centar za odgoj i obrazovanje "Juraj Bonaći" Split
+- Centar za smještaj i rehabilitaciju Dugo Selo
+- Centar za radno proizvodne i okupacijske aktivnosti "Vodnjan" Vodnjan
+- Zavod za profesionalnu rehabilitaciju Budišćina
+- Centar za odgoj i obrazovanje "Ozalj" Mali Erjavec
+- Centar "Rudolf Steiner" Daruvar
+- Centar za radno proizvodne i okupacijske aktivnosti invalidnih osoba Rijeka
+- Dom umirovljenika i boraca Nor-a "Petar Biškup-Veno" Bjelovar
+- Dom umirovljenika i odraslih nemoćnih osoba Bjelovar
+- Dom umirovljenika Čakovec
+- Dom za odrasle osobe Blato - Korčula
+- Dom za društvenu zaštitu odraslih osoba Dubrovnik
+- Dom umirovljenika Dubrovnik
+- Centar za društvenu brigu o starijim osobama "Gabro Hes" Đakovo
+- Dom umirovljenika Gospić
+- Dom umirovljenika Karlovac
+- Dom starih i nemoćnih Korčula
+- Dom umirovljenika "Mali Kartec" Krk
+- Dom za odrasle osobe Makarska - Dom umirovljenika Motovun
+- Dom za odrasle osobe Nedešćina
+- Dom umirovljenika Novigrad Istarski
+- Centar za društvenu brigu o starijim osobama "Volosko" Opatija
+- Centar za društvenu brigu o starijim osobama Osijek
+- Dom umirovljenika Osijek
+- Centar za društvenu brigu o odraslim osobama Pula
+- Dom umirovljenika "Josip Petračić" Raša
+- Centar za društvenu brigu o starijim osobama Rijeka
+- Dom umirovljenika "Domenico Pergolis" Rovinj
+- Dom umirovljenika Sisak
+- Dom umirovljenika S1. Brod
+- Dom umirovljenika Split
+- Dom umirovljenika "Cvjetni dom" Šibenik
+- Don1 za odrasle osobe Trogir
+- Dom umirovljenika "Slavko Lončarić" Varaždin
+- Dom umirovljenika "Korčula" Vela Luka Korčula
+- Dom umirovljenika Velika
+- Dom za odrasle i penzionere Veli Lošinj
+-Dom umirovljenika Vis
+- Centar za društvenu brigu o starijim osobama Zadar
+- Dom umirovljenika Zadar
+- Dom umirovljenika Požega
+- Dom umirovljenika Koprivnica
+- Zavod za socijalno-zdravstvenu zaštitu Čaglin
+- Zavod za socijalno-zdravstvenu zaštitu "Loborgrad" Lobor
+- Zavod za socijalno-zdravstvenu zaštitu odraslih osoba Jalžabet
+- Zavod za socijalno-zdravstvenu zaštitu odraslih osoba Prelog
+- Zavod za socijalno-zdravstvenu zaštitu Suhopolje
+4. Iz područja zdravstva:
+- Klinički bolnički centar Zagreb
+- Opća bolnica "Sveti Duh" - Zagreb
+- Klinička bolnica "Merkur" - Zagreb
+- Klinika za traumatologiju Zagreb
+- Opća bolnica Zagreb - Infektivna bolnica "Fran Mihaljević" - Zagreb
+- Klinička bolnica "Sestre Milosrdnice" - Zagreb
+- Središnji institut za tumore i slične bolesti - Zagreb
+- Klinička bolnica za plućne bolesti - Zagreb
+- Psihijatrijska bolnica Vrapče - Zagreb
+- Opća bolnica Karlovac
+- Opća bolnica Varaždin
+- Opća bolnica "Dr. Tomislav Bardek"
+- Koprivnica - Opća bolnica Bjelovar
+- Klinički bolnički centar Rijeka
+- Opća bolnica Gospić
+- Opća bolnica Virovitica
+- Kllnička bolnica Osijek
+- Opća bolnica Šibenik
+- Opća bolnica Vinkovci
+- Opća bolnica Vukovar
+- Opća županijska bolnica Požega
+- Opća bolnica Nova Gradiška
+- Opća bolnica "Dr. Josip Benčević" - Slavonski Brod
+- Opća bolnica Zadar
+- Klinička bolnica Split
+- Opća bolnica Pula
+- Medicinski centar Dubrovnik - Opća bolnica "Dr. Ivo Pedišić" - Sisak - Županijska bolnica Čakovec
+- Medicinski centar Zabok 5.
+Iz područja pravosuđa:
+-Vrhovni sud Republike Hrvatske, Zagreb
+- Upravni sud Republike Hrvatske Zagreb
+- Visoki trgovački sud Republike Hrvatske, Zagreb
+- Državno odvjetništvo Republike Hrvatske, Zagreb
+- Republičko vijeće za prekršaje, Zagreb
+- Županijski sud u Bjelovaru,
+- Općinski sud u Bjelovaru,
+- Okružno državno odvjetnistvo u Bjelovaru,
+- Županijski sud u Dubrovniku,
+- Općinski sud u Dubrovniku,
+- Okružno državno odvjetništvo u Dubrovniku,
+- Županijski sud u Karlovcu,
+- Trgovački sud u Karlovcu,
+- Općinski sud u Karlovcu,
+- Okružno državno odvjetništvo u Karlovcu,
+- Općinski sudac za prekršaje u Karlovcu, ,
+- Županijski sud u Osijeku,
+- Trgovački sud u Osijeku,
+- Općinski sud u Osijeku,
+- Okružno državno odvjetništvo u Osijeku,
+- Općinski sudac za prekršaje u Osijeku,
+- Županijski sud u Požegi,
+- Općinski sud u Požegi,
+- Općinski sud u Slavonskom Brodu,
+- Trgovački sud u Slavonskom Brodu,
+- Okružno državno odvjetništvo u Požegi,
+- Općinski sudac za prekršaje u Požegi,
+-Općinski sudac za prekršaje u Slavonskom Brodu,
+- Županijski sud u Puli,
+- Općinski sud u Puli,
+- Okružno državno odvjetništvo u Puli,
+- Općinski sudac za prekršaje u Puli,
+- Županijski sud u Rijeci,
+- Općinski sud u Rijeci,
+- Okružno državno odvjetništvo u Rijeci,
+- Općinski sudac za prekršaje u Rijeci,
+- Županijski sud u Sisku,
+- Općinski sud u Sisku,
+- Okružno državno odvjetništvo u Sisku,
+- Sudac za prekršaje u Sisku,
+- Županijski sud u Splitu,
+- Trgovački sud u Splitu,
+- Općinski sud u Splitu,
+- Okružno driavno odvjetništvo u Splitu,
+- Općinski sudac za prekršaje u Splitu,
+- Županijski sud u Šibeniku,
+- Općinski sud u Šibeniku,
+- Okružno državno odvjetništvo u Šibeniku,
+- Općinski sudac ža prekršaje u Šibeniku,
+- Županijski sud u Varaždinu,
+- Trgovački sud u Varaždinu,
+- Općinski sud u Varaždinu,
+- Općinski sud u Čakovcu,
+- Okružno državno odvjetništvo u Varaždinu,
+- Općinski sudac za prekršaje u Varaždinu,
+- Općinski sudac za prekršaje u Čakovcu,
+- Županijski sud u Zadru,
+- Općinski sud u Zadru,
+- Qkružno državno odvjetništvo u Zadru,
+- Županijski sud u Gradu Zagrebu,
+- Trgovački sud u Zagrebu,
+- Općinski sud u Zagrebu,
+- Okružno državno odvjetništvo u Zagrebu,
+- Općinsko državno odvjetništvo u Zagrebu,
+- Općinski sudac za prekršaje u Zagrebu.
+6. Iz područja uprave:
+- Ministarstvo uprave
+- Županijski uredi i njihove ispostave.
