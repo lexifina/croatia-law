@@ -1,0 +1,2 @@
+# Članak 4.
+Zona slobodne trgovine uspostavit će se kroz prijelazno razdoblje koje završava 31. prosinca 2004. godine; u skladu s Ugovorom o slobodnoj trgovini između Republike Hrvatske i Republike Makedonije od 9. svibnja 1997. (u daljnjem tekstu: Ugovor o slobodnoj trgovini) i Ugovorom o izmjenama i dopunama Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Makedonije od 11. lipnja 2002. Zona slobodne trgovine sukladna je odredbama Općeg sporazuma o carinama i trgovini 1994. (GATT 1994) i Svjetske trgovinske organizacije.

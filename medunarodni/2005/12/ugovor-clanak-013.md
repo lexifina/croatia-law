@@ -1,0 +1,5 @@
+# Članak 13.
+Ugovorne stranke su suglasne surađivati:
+- u području azila, kako bi unaprijedile zakonske i administrativne standarde u skladu s međunarodnim obvezama, posebice Konvencijom o pravnom položaju izbjeglica iz 1951., njenom Protokolu o pravnom položaju izbjeglica iz 1967. te Europskom konvencijom o zaštiti ljudskih prava. Suradnja će također uključivati periodičku razmjenu podataka o statistici tražitelja azila,
+- na području upravljanja migracijama, kako bi nastavile s postupnim usklađivanjem svojeg zakonodavstva s aquis communautaireom. Ugovorne stranke će osobito dijeliti informacije o zakonodavnoj reformi i redovito razmjenjivati informacije o zakonitim migracijama kao i podatke koji se odnose na nezakonitu migraciju uključujući nezakonito zapošljavanje i tranzitnu migraciju,
+- na području sprečavanja i kontrole nezakonite imigracije, ugovorne stranke nastavit će se pridržavati odredaba Ugovora između Vlade Republike Hrvatske i Vlade Republike Makedonije o predaji i prihvatu osoba kojih je boravak protuzakonit.
