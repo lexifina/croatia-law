@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora (aNarodne novinea, br: 53/91 i 73/91), Vlada Republike Hrvatske je na sjednici održanoj 8. veljače 1995. godine, donijela

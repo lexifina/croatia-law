@@ -1,0 +1,8 @@
+# Članak 10.
+ZASTUPANJE
+(1) Svaka ugovorna stranka daje određenom prijevozniku ugovorne stranke, na osnovama uzajamnosti, pravo uspostave i održavanja na njenom teritoriju predstavništva sa vlastitim ili lokalnim komercijalnim, tehničkim, operativnim i administrativnim osobljem, koje je potrebno u svezi s obavljanjem ugovorenog prometa na utvrđenim linijama. Uspostava takvih predstavništva i zaposlenje njegovog osoblja bit će predmet zakona i drugih propisa ugovorne stranke koja daje pravo spomenuto u ovom stavku.
+(2) Određeni prijevoznik svake ugovorne stranke će imati neograničeno pravo da izdaje vlastite prijevozne dokumente na svojem međunarodnom prometu i da oglašava i promiče svoju prodaju na teritoriju druge ugovorne stranke. Prodaja se može obavljati bilo direktno putem svojih vlastitih ureda ili putem prodajnih i/ili putničkih agencija, bilo kojoj osobi, organizaciji ili tijelu, u skladu sa zakonima i drugim propisima na snazi kod te ugovorne stranke.
+(3) Prodaja prijevoznih dokumenata na terioriju druge ugovorne stranke, navedenih u stavku (2), može se obavljati u bilo kojoj novčanoj valuti ili kreditnim karticama.
+(4) Međutim, prodaja zraćnog prijevoza za mjesta dalje iza teritorija ugovornih stranaka može se obavljati samo u konvertibilnoj valuti, na osnovama uzajamnosti.
+(5) Oporezivanje prihoda koji se smatra dohotkom osoblja navedenog u stavku (1), koji su državljani ugovorne stranke koja je odredila prijevoznika, bit će provedeno u skladu s unutarnjim zakonadavstvom ugovorne stranke koja je odredila prijevoznika.
+Ako postoji ugovor o izbjegavanju dvostrukog oporezivanja između ugovornih stranaka, primjenjivat će se njegove odredbe.
