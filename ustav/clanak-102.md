@@ -1,3 +1,3 @@
 # Članak 102.
-Predsjednik Republike može sazvati sjednicu Vlade Republike Hrvatske i stavljati na njezin dnevni red pitanja za koja smatra da ih treba razmotriti.
-Predsjednik Republike predsjedava sjednici Vlade na kojoj je nazočan.
+Predsjednik Republike može predložiti Vladi da održi sjednicu i razmotri određena pitanja.
+Predsjednik Republike može biti nazočan sjednici Vlade i sudjelovati u raspravi.

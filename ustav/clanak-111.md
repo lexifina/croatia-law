@@ -1,3 +1,3 @@
 # Članak 111.
-Vlada je odgovorna predsjedniku Republike i Zastupničkomu domu Hrvatskog državnog sabora.
-Predsjednik, potpredsjednici i članovi Vlade zajednički su odgovorni za odluke koje Vlada donosi, a osobno su odgovorni za svoje područje rada.
+Ako mandatar ne sastavi Vladu u roku od 30 dana od dana prihvaćanja mandata, Predsjednik Republike mu može produžiti mandat za najviše još 30 dana.
+Ako ni u tom roku mandatar ne uspije sastaviti Vladu ili ako predložena Vlada ne dobije povjerenje Zastupničkog doma, Predsjednik Republike povjerit će mandat za sastav Vlade drugoj osobi.

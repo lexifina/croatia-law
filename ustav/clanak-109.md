@@ -1,3 +1,3 @@
 # Članak 109.
-Ustrojstvo i način rada i odlučivanja Vlade propisuje se zakonom i njenim poslovnikom.
-Unutarnje ustrojstvo ministarstva, Vlada uređuje uredbama, a za obavljanje svojih poslova osniva službe.
+Vladu Republike Hrvatske čine predsjednik, jedan ili više potpredsjednika i ministri.
+Bez odobrenja Vlade predsjednik i članovi Vlade ne mogu obavljati nijednu drugu javnu ili profesionalnu dužnost.

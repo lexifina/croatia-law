@@ -1,3 +1,4 @@
 # Članak 117.
-Sudske su rasprave javne i presude se izriču javno, u ime Republike Hrvatske.
-Javnost se može isključiti iz cijele rasprave ili njezina dijela ako se sudi malodobnicima, ili radi zaštite privatnog života stranaka, ili u bračnim sporovima i postupcima u svezi sa skrbništvom i usvojenjem, ili radi čuvanja vojne, službene ili poslovne tajne i zaštite sigurnosti i obrane Republike Hrvatske.
+Ustrojstvo i poslovi državne uprave i način njihovog obavljanja uređuju se zakonom.
+Određeni poslovi državne uprave mogu se zakonom povjeriti tijelima jedinica lokalne i područne (regionalne) samouprave i pravnim osobama koje imaju javne ovlasti.
+Zakonom i drugim propisima uređuje se status državnih službenika te radno-pravni status namještenika.

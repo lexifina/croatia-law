@@ -1,2 +1,2 @@
 # Članak 8.
-Granice se Republike Hrvatske mogu mijenjati samo odlukom Hrvatskog državnog sabora.
+Granice se Republike Hrvatske mogu mijenjati samo odlukom Hrvatskoga sabora.

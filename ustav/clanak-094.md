@@ -1,4 +1,5 @@
-## 2. Predsjednik Republike Hrvatske
+## 2. PREDSJEDNIK REPUBLIKE HRVATSKE
 # Članak 94.
-Predsjednik Republike Hrvatske državni je poglavar.
-Predsjednik Republike zastupa Republiku Hrvatsku u zemlji i inozemstvu, brine se za poštivanje Ustava, osigurava opstojnost i jedinstvenost Republike Hrvatske i redovno djelovanje državne vlasti.
+Predsjednik Republike Hrvatske predstavlja i zastupa Republiku Hrvatsku u zemlji i inozemstvu.
+Predsjednik Republike brine se za redovito i usklađeno djelovanje te za stabilnost državne vlasti.
+Predsjednik Republike odgovara za obranu neovisnosti i teritorijalne cjelovitosti Republike Hrvatske.

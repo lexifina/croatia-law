@@ -1,3 +1,2 @@
 # Članak 137.
-Zastupnički dom uz prethodno mišljenje Županijskog doma odlučuje da li će pristupiti promjeni Ustava većinom glasova svih zastupnika.
-Nacrt promjene Ustava Zastupnički dom utvrđuje većinom glasova svih zastupnika.
+U obavljanju poslova iz svojeg djelokruga tijela jedinica lokalne i područne (regionalne) samouprave samostalna su i podliježu samo nadzoru ustavnosti i zakonitosti ovlaštenih državnih tijela.

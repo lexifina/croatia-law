@@ -1,4 +1,4 @@
-## V. USTAVNI SUD REPUBLIKE HRVATSKE
 # Članak 122.
-Ustavni sud Republike Hrvatske čini jedanaest sudaca koje bira Zastupnički dom na prijedlog Županijskog doma, na vrijeme od osam godina iz reda istaknutih pravnika, osobito sudaca, državnih odvjetnika, odvjetnika i sveučilišnih profesora pravnih znanosti.
-Ustavni sud Republike Hrvatske bira predsjednika suda na vrijeme od četiri godine.
+Suci imaju imunitet u skladu sa zakonom.
+Suci i suci porotnici koji sudjeluju u suđenju ne mogu biti pozvani na odgovornost za izraženo mišljenje ili glasovanje pri donošenju sudbene odluke, osim ako se ne radi o kršenju zakona od strane suca.
+Sudac ne može u postupku pokrenutom zbog kaznenog djela učinjenog u obavljanju sudačke dužnosti biti pritvoren bez odobrenja Državnoga sudbenog vijeća.

@@ -1,3 +1,2 @@
-## VIII. PROMJENA USTAVA
 # Članak 136.
-Pravo da predloži promjenu Ustava Republike Hrvatske ima najmanje jedna petina zastupnika u Zastupničkom domu Hrvatskog državnog sabora, predsjednik Republike i Vlada Republike Hrvatske.
+Jedinice lokalne i područne (regionalne) samouprave imaju pravo u okviru zakona, svojim statutima samostalno urediti unutarnje ustrojstvo i djelokrug svojih tijela te ih prilagoditi lokalnim potrebama i mogućnostima.

@@ -1,2 +1,2 @@
 # Članak 66.
-Uz uvjete određene zakonom, građani mogu osnivati privatne škole i učilišta.
+Uz uvjete propisane zakonom mogu se osnivati privatne škole i učilišta.

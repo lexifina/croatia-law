@@ -1,2 +1,5 @@
+## 4. SUDBENA VLAST
 # Članak 118.
-U suđenju sudjeluju i suci porotnici, u skladu sa zakonom.
+Sudbenu vlast obavljaju sudovi.
+Sudbena vlast je samostalna i neovisna.
+Sudovi sude na temelju Ustava i zakona.

@@ -1,2 +1,3 @@
+## 3. VLADA REPUBLIKE HRVATSKE
 # Članak 108.
-Vladu Republike Hrvatske čine predsjednik, potpredsjednici, ministri i drugi njezini članovi.
+Vlada Republike Hrvatske obavlja izvršnu vlast u skladu s Ustavom i zakonom.

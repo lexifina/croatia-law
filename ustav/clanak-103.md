@@ -1,2 +1,3 @@
 # Članak 103.
-Predsjednik Republike može Hrvatskom državnom saboru upućivati poslanice, a jednom godišnje podnosi mu izvješće o stanju hrvatske države i nacije.
+Predsjednik Republike i Vlada Republike Hrvatske, u skladu s Ustavom i zakonom, surađuju u usmjeravanju rada sigurnosnih službi.
+Imenovanje čelnika sigurnosnih službi, uz prethodno pribavljeno mišljenje mjerodavnog odbora Zastupničkog doma Hrvatskoga sabora, supotpisuju Predsjednik Republike i predsjednik Vlade Republike Hrvatske.

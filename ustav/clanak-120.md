@@ -1,10 +1,3 @@
 # Članak 120.
-Sudačka dužnost je stalna.
-Sudac će biti razriješen sudačke dužnosti:
-- ako to sam zatraži;
-- ako trajno izgubi sposobnost obavljati svoju dužnost;
-- ako bude osuđen za kazneno djelo koje ga čini nedostojnim obavljanja sudačke dužnosti;
-- ako u skladu sa zakonom, zbog počinjenog teškog disciplinskog djela, tako odluči, Državno sudbeno vijeće.
-Protiv odluke o razrješenju od sudačke dužnosti sudac ima pravo podnijeti zahtjev za zaštitu Županijskomu domu Sabora.
-Sudac ne može biti premješten protivno njegovoj volji.
-Sudac ne može obavljati službu ili posao koje je zakon odredio kao nespojive sa sudačkom dužnošću.
+Sudske su rasprave javne i presude se izriču javno, u ime Republike Hrvatske.
+Javnost se može isključiti iz cijele rasprave ili njezina dijela zbog razloga koji su nužni u demokratskom društvu radi interesa morala, javnog reda ili državne sigurnosti, posebno ako se sudi maloljetnicima, ili radi zaštite privatnog života stranaka, ili u bračnim sporovima i postupcima u svezi sa skrbništvom i posvojenjem, ili radi čuvanja vojne, službene ili poslovne tajne i zaštite sigurnosti i obrane Republike Hrvatske, ali samo u opsegu koji je po mišljenju suda bezuvjetno potreban u posebnim okolnostima u kojima bi javnost mogla biti štetna za interese pravde.

@@ -1,3 +1,2 @@
 # Članak 114.
-Ustrojstvo državne uprave uređuje se zakonom.
-Službenici u državnoj upravi imenuju se na temelju natječaja, ako zakonom nije drukčije određeno.
+Ustrojstvo, način rada, odlučivanje i vrste akata koje Vlada donosi propisuju se zakonom i poslovnikom.

@@ -1,3 +1,4 @@
 # Članak 119.
-Suci i suci porotnici koji sudjeluju u suđenju ne mogu biti pozvani na odgovornost za mišljenje dano pri donošenju sudbene odluke.
-Suci imaju, u skladu sa zakonom, imunitet kao i zastupnici u Hrvatskom državnom saboru.
+Vrhovni sud Republike Hrvatske, kao najviši sud, osigurava jedinstvenu primjenu zakona i ravnopravnost građana.
+Predsjednika Vrhovnog suda Republike Hrvatske, uz prethodno mišljenje Opće sjednice Vrhovnog suda Republike Hrvatske i mjerodavnog odbora Zastupničkog doma Hrvatskoga sabora, na prijedlog Predsjednika Republike bira i razrješuje Zastupnički dom Hrvatskoga sabora. Predsjednik Vrhovnog suda Republike Hrvatske bira se na četiri godine.
+Ustanovljavanje, djelokrug, sastav i ustrojstvo sudova te postupak pred sudovima uređuje se zakonom.

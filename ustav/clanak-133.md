@@ -1,3 +1,5 @@
+## VI. MJESNA, LOKALNA I PODRUČNA (REGIONALNA) SAMOUPRAVA
 # Članak 133.
-Zastupnički dom Hrvatskog državnog sabora potvrđuje međunarodne ugovore koji traže donošenje ili izmjenu zakona, međunarodne ugovore vojne i političke naravi i međunarodne ugovore koji financijski obvezuju Republiku Hrvatsku.
-Međunarodne ugovore kojima se međunarodnoj organizaciji ili savezu daju ovlasti izvedene iz Ustava Republike Hrvatske, Zastupnički dom Sabora potvrđuje dvotrećinskom većinom glasova svih zastupnika.
+Građanima se jamči pravo na lokalnu i područnu (regionalnu) samoupravu.
+Pravo na samoupravu ostvaruje se preko lokalnih, odnosno područnih (regionalnih) predstavničkih tijela koja su sastavljena od članova izabranih na slobodnim i tajnim izborima na temelju neposrednog, jednakog i općega biračkog prava.
+Građani mogu neposredno sudjelovati u upravljanju lokalnim poslovima, putem zborova, referenduma i drugih oblika neposrednog odlučivanja u skladu sa zakonom i statutom.

@@ -1,5 +1,5 @@
 # Članak 100.
 Predsjednik Republike vrhovni je zapovjednik oružanih snaga Republike Hrvatske.
-Predsjednik Republike imenuje i razrješuje vojne dužnosnike, u skladu sa zakonom.
-Predsjednik Republike imenuje članove Vijeća obrane i nacionalne sigurnosti i predsjedava Vijeću.
-Na temelju odluke Zastupničkog doma Hrvatskog državnog sabora predsjednik Republike objavljuje rat i zaključuje mir.
+Predsjednik Republike imenuje i razrješuje vojne zapovjednike, u skladu sa zakonom.
+Na temelju odluke Zastupničkog doma Hrvatskoga sabora Predsjednik Republike objavljuje rat i zaključuje mir.
+U slučaju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti države Predsjednik Republike može, uz supotpis predsjednika Vlade, narediti uporabu oružanih snaga iako nije proglašeno ratno stanje.

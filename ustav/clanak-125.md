@@ -1,10 +1,9 @@
+## 5. DRŽAVNO ODVJETNIŠTVO
 # Članak 125.
-Ustavni sud Republike Hrvatske:
-- odlučuje o suglasnosti zakona s Ustavom;
-- odlučuje o suglasnosti drugih propisa s Ustavom i zakonom;
-- štiti ustavne slobode i prava čovjeka i građanina;
-- rješava sukob nadležnosti između tijela zakonodavne, izvršne i sudbene vlasti;
-- odlučuje, u skladu s Ustavom, o odgovornosti predsjednika Republike;
-- nadzire ustavnost programa i djelovanja političkih stranaka i može, u skladu s Ustavom, zabraniti njihov rad;
-- nadzire ustavnost i zakonitost izbora i državnog referenduma i rješava izborne sporove koji nisu u djelokrugu sudova;
-- obavlja druge poslove određene Ustavom.
+Državno odvjetništvo je samostalno i neovisno pravosudno tijelo ovlašteno i dužno postupati protiv počinitelja kaznenih i drugih kažnjivih djela, poduzimati pravne radnje radi zaštite imovine Republike Hrvatske te podnositi pravna sredstva za zaštitu Ustava i zakona.
+Glavnoga državnog odvjetnika Republike Hrvatske imenuje na vrijeme od četiri godine Zastupnički dom Hrvatskoga sabora na prijedlog Vlade Republike Hrvatske, uz prethodno mišljenje mjerodavnog odbora Zastupničkog doma.
+Prigodom prvog stupanja na državnoodvjetničku dužnost zamjenici državnog odvjetnika će se imenovati na vrijeme od pet godina. Nakon ponovnog imenovanja zamjenik državnog odvjetnika obavlja svoju dužnost stalno.
+Zamjenike državnih odvjetnika u skladu s Ustavom i zakonom imenuje, razrješuje i o njihovoj stegovnoj odgovornosti odlučuje Državnoodvjetničko vijeće. Državnoodvjetničko vijeće bira Zastupnički dom Sabora na način i u postupku određenim zakonom. Većina od ukupnog broja članova Državnoodvjetničkog vijeća mora biti iz reda zamjenika državnih odvjetnika.
+Čelnici državnih odvjetništava ne mogu biti birani za članove Državnoodvjetničkog vijeća.
+Djelokrug, ustrojstvo i način rada Državnoodvjetničkog vijeća uređuje se zakonom.
+Ustanovljavanje, ustrojstvo, djelokrug i nadležnost državnog odvjetništva uređuje se zakonom.

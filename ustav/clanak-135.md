@@ -1,8 +1,5 @@
-## 2. Udruživanje i odcjepljenje
 # Članak 135.
-Pravo da pokrenu postupak udruživanja Republike Hrvatske u saveze s drugim državama ima najmanje jedna trećina zastupnika u Zastupničkom domu Sabora, predsjednik Republike i Vlada Republike Hrvatske.
-Zabranjuje se pokretanje postupka udruživanja Republike Hrvatske u saveze s drugim državama u kojem bi udruživanje dovelo, ili moglo dovesti do obnavljanja jugoslavenskoga državnog zajedništva, odnosno neke balkanske državne sveze u bilo kojem obliku.
-O udruživanju Republike Hrvatske prethodno odlučuje Zastupnički dom Sabora dvotrećinskom većinom glasova svih zastupnika.
-Odluka o udruživanju Republike Hrvatske donosi se na referendumu većinom glasova ukupnog broja birača u državi.
-Referendum se mora održati u roku od 30 dana od dana donošenja odluke Zastupničkog doma Sabora.
-Odredbe ovoga članka o udruživanju odnose se i na uvjete i postupak razdruživanja Republike Hrvatske.
+Jedinice lokalne samouprave obavljaju poslove iz lokalnog djelokruga kojima se neposredno ostvaruju potrebe građana, a osobito poslove koji se odnose na uređenje naselja i stanovanja, prostorno i urbanističko planiranje, komunalne djelatnosti, brigu o djeci, socijalnu skrb, primarnu zdravstvenu zaštitu, odgoj i osnovno obrazovanje, kulturu, tjelesnu kulturu i šport, zaštitu potrošača, zaštitu i unaprjeđenje prirodnog okoliša, protupožarnu i civilnu zaštitu.
+Jedinice područne (regionalne) samouprave obavljaju poslove od područnog (regionalnog) značenja, a osobito poslove koji se odnose na školstvo, zdravstvo, prostorno i urbanističko planiranje, gospodarski razvoj, promet i prometnu infrastrukturu te planiranje i razvoj mreže obrazovnih, zdravstvenih, socijalnih i kulturnih ustanova.
+Poslovi lokalnog i područnog (regionalnog) djelokruga uređuju se zakonom. Prilikom dodjeljivanja tih poslova prednost će imati ona tijela koja su najbliža građanima.
+Prilikom određivanja djelokruga jedinica lokalne i područne (regionalne) samouprave mora se voditi računa o širini i prirodi poslova i o zahtjevima učinkovitosti i ekonomičnosti.

@@ -1,2 +1,5 @@
 # Članak 134.
-Međunarodni ugovori koji su sklopljeni i potvrđeni u skladu s Ustavom i objavljeni, a koji su na snazi, čine dio unutarnjega pravnog poretka Republike Hrvatske, a po pravnoj su snazi iznad zakona. Njihove se odredbe mogu mijenjati ili ukidati samo uz uvjete i na način koji su u njima utvrđeni, ili suglasno općim pravilima međunarodnog prava.
+Jedinice lokalne samouprave su općine i gradovi i njihovo područje određuje se na način propisan zakonom. Zakonom se mogu ustanoviti i druge jedinice lokalne samouprave.
+Jedinice područne (regionalne) samouprave su županije. Područje županije određuje se na način propisan zakonom.
+Zakonom se može glavnom gradu Zagrebu utvrditi položaj županije. Većim gradovima u Republici Hrvatskoj zakonom se mogu dati ovlasti županije.
+U naselju ili dijelu naselja mogu se, u skladu sa zakonom, osnivati oblici mjesne samouprave.

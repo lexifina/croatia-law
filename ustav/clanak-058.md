@@ -1,2 +1,2 @@
 # Članak 58.
-Svakomu se građaninu jamči pravo na zdravstvenu zaštitu.
+Svakom se građaninu jamči pravo na zdravstvenu zaštitu.

@@ -1,5 +1,3 @@
-## 4. Sudbena vlast
 # Članak 115.
-Sudbenu vlast obavljaju sudovi.
-Sudbena vlast je samostalna i neovisna.
-Sudovi sude na temelju Ustava i zakona.
+Vlada je odgovorna Zastupničkom domu Hrvatskoga sabora.
+Predsjednik i članovi Vlade zajednički su odgovorni za odluke koje donosi Vlada, a osobno su odgovorni za svoje područje rada.

@@ -1,3 +1,6 @@
 # Članak 97.
-U slučaju smrti, ostavke ili trajne spriječenosti predsjednika Republike da obavlja svoju dužnost, nastup koje utvrđuje Ustavni sud Republike Hrvatske na prijedlog Vlade Republike Hrvatske, dužnost predsjednika Republike privremeno preuzima predsjednik Hrvatskog državnog sabora.
-Izbor novog predsjednika Republike mora se obaviti u roku 60 dana od dana kada je bivši predsjednik prestao obavljati dužnost.
+U slučaju kraće spriječenosti uslijed odsutnosti, bolesti ili korištenja godišnjeg odmora, Predsjednik Republike može povjeriti predsjedniku Hrvatskoga sabora da ga zamjenjuje. O povratku na dužnost odlučuje Predsjednik Republike.
+U slučaju duže spriječenosti uslijed bolesti ili nesposobnosti, a posebno ako Predsjednik Republike nije u stanju odlučiti o povjeravanju dužnosti privremenom zamjeniku, predsjednik Hrvatskoga sabora preuzima dužnost privremenog predsjednika Republike na temelju odluke Ustavnog suda. Ustavni sud o tome odlučuje na prijedlog Vlade.
+U slučaju smrti, ostavke koja se podnosi predsjedniku Ustavnog suda Republike Hrvatske i o kojoj se obavještava predsjednik Hrvatskoga sabora, ili kada Ustavni sud utvrdi razloge za prestanak mandata Predsjednika Republike, dužnost privremenog predsjednika Republike po sili Ustava preuzima predsjednik Hrvatskoga sabora.
+Kada predsjednik Hrvatskoga sabora kao privremeni predsjednik Republike donosi akt o proglašenju zakona, akt supotpisuje predsjednik Vlade Republike Hrvatske.
+Izbori za novog Predsjednika Republike moraju se održati u roku od 60 dana od dana preuzimanja dužnosti privremenog Predsjednika Republike sukladno stavku 3. ovoga članka.
