@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku zanimanja obavljaju profesionalnu djelatnost za osiguranike-vrhunske športaše koji amaterski obavljaju športsku djelatnost
