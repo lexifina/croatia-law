@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 2. Zakona o neposrednim porezima ("Narodne novine", broj 19/90, 28/90, 14/91, 73/91 i 25/93), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 1993. godine donijela
