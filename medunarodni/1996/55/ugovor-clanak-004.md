@@ -1,0 +1,5 @@
+# Članak 4.
+PRIVREMENO OBNAŠANJE FUNKCIJA ŠEFA KONZULARNOG PREDSTAVNIŠTVA
+1. Ako iz bilo kojeg razloga šef konzularnog predstavništva nije u mogućnosti obavljati svoje funkcije ili ako je njegovo mjesto privremeno upražnjeno, država imenovanja može odrediti nekog konzularnog dužnosnika dotičnog konzularnog predstavništva ili nekog drugog konzularnog predstavništva u državi primateljici ili pak nekog diplomatskog dužnosnika svojeg veleposlanstva u državi primateljici kao vršitelja dužnosti šefa konzularnog predstavništva. Država imenovanja dužna je unaprijed obavijestiti državu primateljicu o punom imenu i prvotnom rangu vršitelja dužnosti šefa konzularnog predstavništva.
+2. Vršitelj dužnosti šefa konzularnog predstavništva uživa ista prava, pogodnosti, povlastice i imunitete kakve uživa šef konzularnog predstavništva po ovoj Konvenciji.
+3. Diplomatski dužnosnik koji je određen za vršitelja dužnosti šefa konzularnog predstavništva i dalje uživa diplomatske povlastice i imunitete koje mu pripadaju.

@@ -1,0 +1,3 @@
+# Članak 41.
+POVLASTICE I IMUNITETI ČLANOVA OBITELJI
+Članovi obitelji konzularnog dužnosnika i članovi obitelji člana administrativnog i tehničkog osoblja konzularnog predstavništva uživaju povlastice i imunitete na koje prema odredbama ove konvencije imaju pravo konzularni dužnosnik odnosno član administrativnog i tehničkog osoblja; članovi obitelji člana poslužnog osoblja konzularnog zastupstva uživaju povlastice i imunitete na koje prema stavku 1. članka 37. ove konvencije ima pravo član pomoslužnog osoblja, osim onih koji su državljani države primateljice ili u njoj imaju prebivalište ili koji obavljaju plaćenu privatnu djelatnost u državi primateljici.

@@ -1,0 +1,6 @@
+# Članak 3.
+IMENOVANJE I PRIHVAĆANJE ŠEFA KONZULARNOG PREDSTAVNIŠTVA
+1. Država imenovanja dužna je diplomatskim putem uputiti notu državi primateljici o imenovanju šefa konzularnog predstavništva. U toj se noti navodi puno ime i rang šefa konzularnog predstavništva, sjedište i klasifikacija konzularnog predstavništva i konzularno područje.
+2. Po primitku note o imenovanju šefa konzularnog predstavništva država primateljica svojom notom što prije potvrđuje to imenovanje. Ako država primateljica odbije potvrditi imenovanje, ona nije dužna priopćiti razloge svoje odluke.
+3. Šef konzularnog predstavništva može vršiti svoje konzularne funkcije nakon što država primateljica izda potvrdnu notu. Prije te note šef konzularnog predstavništva može uz pristanak države primateljice privremeno obnašati svoje funkcije.
+4. Nakon potvrde imenovanja šefa konzularnog predstavništva ili dozvole za privremeno obnašanje njegove funkcije država primateljica dužna je odmah izvijestiti nadležne vlasti konzularnog područja i poduzeti sve potrebne mjere kako bi se omogućilo šefu konzularnog predstavništva obnašanje njegove funkcije i uživanje prava, pogodnosti, povlastica i imuniteta predviđenih ovom Konvencijom.

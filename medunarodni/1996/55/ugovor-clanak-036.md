@@ -1,0 +1,6 @@
+# Članak 36.
+OBVEZA SVJEDOČENJA
+1. Konzularni dužnosnik može biti pozvan da svjedoči u sudskom i upravnom postupku države primateljice, ali nije obvezan dati iskaz u svojstvu svjedoka. Ako konzularni dužnosnik odbije svjedočiti, ne može se protiv njega primijeniti nikakva prisilna mjera ili neka druga sankcija.
+2. Član administrativnog i tehničkog osoblja ili poslužnog osoblja konzularnog predstavništva može biti pozvati da svjedoči u sudskom ili upravnom postupku države primateljice. On ne smije, osim u slučaju iz stavka 3. ovoga članka, odbiti svjedočiti.
+3. Član administrativnog i tehničkog osoblja ili poslužnog osoblja konzularnog predstavništva nije obvezan svjedočiti o pitanjima vezanim uz obavljanje svojih dužnosti niti predočiti bilo kakve službene dopise ili dokumente s tim u vezi. Ima pravo odbiti svjedočiti u svojstvu vještaka u odnosu na pravo države imenovanja.
+4. Nadležna tijela države primateljice, koja od člana administrativnog i tehničkog osoblja ili poslužnog osoblja konzularnog predstavništva traže da svjedoči, dužne su nastojati ne ometati ga u obavljanju dužnosti. Ako je to moguće, mogu saslušati njegovo svjedočenje u njegovoj rezidenciji ili u konzularnim prostorijama ili od njega primiti pismenu izjavu.

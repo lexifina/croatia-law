@@ -1,0 +1,6 @@
+# Članak 20.
+POMOĆ NASTRADALIM BRODOVIMA DRŽAVE IMENOVANJA
+1. Ako plovilo države imenovanja pretrpi nezgodu u unutarnjim ili teritorijalnim vodama države primateljice, nadležna tijela države primateljice pismeno će bez odgađanja obavijestiti konzularno predstavništvo te ga izvijestiti o poduzetim mjerama za spašavanje ljudi na brodu, samog broda i njegova tereta te druge imovine.
+2. Konzularni dužnosnik ima pravo poduzimati mjere pomoći bilo kojemu nastradalom brodu države imenovanja i njegovoj posadi i putnicima te u svezi s time zatražiti pomoć tijela države primateljice.
+3. Ako nastradali brod države imenovanja ili predmeti s njega ili pak njegov teret budu nađeni blizu obale ili doneseni u luku države primateljice, a niti zapovjednik niti vlasnik broda ni bilo koji zastupnik brodarske tvrtke ili njezina osiguravatelja nije nazočan ili u mogućnosti poduzeti mjere za očuvanje ili spremanje spomenutih stvari, nadležna tijela države primateljice izvijestit će o tome bez odgađanja prije konzularno predstavništvo. Konzularni dužnosnik može poduzimati odgovarajuće mjere u ime vlasnika broda.
+4. Stradali brod države imenovanja i njegov teret te predmeti s njega ne podliježu carinskim pristojbama i drugim sličnim nametima od strane države primateljice, ukoliko se ne dopremaju za prodaju ili korištenje u državi primateljici.
