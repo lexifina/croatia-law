@@ -1,0 +1,2 @@
+# Članak 17.
+Uvjeti rada u radnim, pomoćnim i ostalim prostorijama u objektu stanice u pogledu dimenzija, volumena, osvjetljenja, zagrijavanja, te posebno u odnosu na mikroklimu i intenzivno strujanje zraka uslijed propuha, moraju zadovoljavati propise o zaštiti na radu za radne i pomoćne prostorije, kao i ostale propise (protupožarna zaštita, građevinski propisi, ekološki propisi i sl.) za ovakve objekte.

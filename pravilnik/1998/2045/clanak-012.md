@@ -1,0 +1,5 @@
+# Članak 12.
+Ovisno o kapacitetu stanice i uvjetima rada potrebno je predvidjeti pomoćne prostorije i to:
+- prostoriju za korisnike usluge predviđenu za smještaj očekivanog broja korisnika usluga stanice, s tim da to ne mora biti posebno izdvojena prostorija, uz uvjet da taj prostor bude dovoljno odvojen od prostora za obavljanje tehničkih pregleda vozila kako ne bi došlo do nalijetanja vozila na stranke, odnosno da su stranke dovoljno zaštićene od hladnoće, buke, plinova i ostalih negativnih utjecaja,
+- arhive za odlaganje i čuvanje dokumentacije o pregledanim vozilima (ukoliko se ne može smjestiti u ormare u administrativnim prostorijama)
+- ostale odvojene prostorije predviđene za specifične potrebe funkcije stanica (skladište rezervnih dijelova i uređaja, radna mjesta za dodatna ispitivanja, manje popravke vozila, pomoćni prostor za odmor i prehranu djelatnika i dr.), a stanica mora osigurati grijanje administrativnih prostorija, higijensko-sanitarnih prostorija i prostorija za korisnike usluga.

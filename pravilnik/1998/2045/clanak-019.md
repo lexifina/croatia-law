@@ -1,0 +1,4 @@
+# Članak 19.
+Na poslovima tehničkih pregleda, registracije vozila i poslovima koji su s tim povezani, moraju se zapošljavati djelatnici odgovornog odnosa prema radu i korektnog odnosa prema strankama.
+Referenti u stanicama moraju biti osposobljeni za sve vrste poslova koji su vezani za tehnički pregled, registraciju vozila i uslugu registracije vozila, da bi se u slučaju odsutnosti (bolovanja i sl.) spriječilo nepotrebno čekanje i zadržavanje stranaka.
+Djelatnici koji u stanicama rade na stručnim poslovima tehničkih pregleda, registracije i usluga registracije vozila, uključujući eventualno djelatnike drugih organizacija (osiguranje i sl.) dužni su se stručno osposobljavati u skladu sa Zakonom o sigurnosti prometa na cestama, odnosno u skladu s uvjetima i načinom jedinstvenog stručnog usavršavanja i provjere stručnosti utvrđenih posebnim pravilnikom.
