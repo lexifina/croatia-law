@@ -1,0 +1,17 @@
+o izmjenama Odluke o visini premije za određene proizvode u poljoprivredi
+I.
+U Odluci o visini premije za određene proizvode u poljoprlvredi ("Narodne novine", broj 37/91) u točki II. u stavku 1. riječ "dinara" zamjenjuje se riječima "hrvatskih dinara".
+II.
+U točki III. u stavku 1. podtočki 1. alineji prvoj riječi "1,00 din/l" zamjenjuju se riječima "4 hrvatska dinara/l" i u alineji drugoj rieči "0,75 din/l". zamjenjuju se riječima "3 hrvatska dinara/1".
+U podtočki 2. alineji prvoj i drugoj riječi "dinara" zamjenjuje se riječima "hrvatskih dinara".
+U podtočki 3. alineji prvoj riječi "2.400 dinara" zamjenjuju se riječima "5.500 hrvatskih dinara", u alineji drugoj riječi "750 dinara" zamjenjuju se riječima "1.275 hrvatskih dinara", u alineji trećoj riječi "520 dinara" zamjenjuju se riječima "800 hrvatskih dinara", u alineji četvrtoj riječi "7.500 dinara" zamjenjuju se riječima "15.000 hrvatskih dinara" i u alineji petoj riječi "20 dinara" zamjenjuju se riječima "50 hrvatskih dinara".
+U podtočki 4. alineji prvoj riječi "2,20 dinara" zamjenjuju se riječima "6 hrvatskih dinara", u alineji drugoj riječi "2,00 dinara" zamjenjuju se riječima "6 hrvatskih dinara", u alineji trećoj "1,80 dinara" zamjenjuju se riječima "5 hrvatskih dinara", u alineji četvrtoj riječi "1,80 dinara" zamjenjuju se riječima "5 hrvatskih dinara", u alineji petoj riječi "1,40 dinara" zamjenjuju se riječima "4 hrvatska dinara", u alineji šestoj riječi "1,20 dinara" zamjenjuju se riječima "4 hrvatska dinara", u alineji sedmoj riječi "1,00 dinara" zamjenjuju se riječima "3 hrvatska dinara", u alineji osmoj riječi "0,90 dinara" zamjenjuju se riječima "3 hrvatska dinara", u alineji devetoj riječi "0,80 dinara" zamjenjuju se riječima "2 hrvatska dinara" i u alineji desetoj riječi "0,70 dinara" zamjenjuju se riječima "2 hrvatska dinara".
+U podtočki 5. alineji prvoj riječi "60.000 dinara" zamjenjuju se riječima "80.000 hrvatskih dinara" i u alineji drugoj riječi "12.000 dinara" zamjenjuju se riječima "30.000 hrvatskih dinara".
+U podtočki 6. alineji prvoj riječi "24,00 dinara" zamjenjuju se riječima "60 hrvatskih dinara".
+U podtočki 7. alineji prvoj riječi "69,00 dinara" zamjenjuju se riječima "130 hrvatskih dinara", u alineji drugoj riječi "30,00 dinara" zamjenjuju se riječima "70 hrvatskih dinara", u alineji trećoj riječi "21,00 dinara" zamjenjuju se riječima "46 hrvatskih dinara" i u alineji četvrtoj riječi "9,00 dinara" zamjenjuju se riječima "20 hrvatskih dinara".
+U podtočki 8. alineji prvoj riječi "35.000 dinara" zamjenjuju se riječima "50.000 hrvatskih dinara" i u alineji drugoj riječi "20.000 dinara" zamjenjuju se riječima "30.000 hrvatskih dinara".
+U podtočki 9. alineji prvoj riječi "55,00 dinara" zamjenjuju se riječima "120 hrvatskih dinara", u alineji drugoj riječi "23,00 dinara" zamjenjuju se riječima "60 hrvatskih dinara", u alineji trećoj riječi "23,00 dinara" zamjenjuju se riječima "80 hrvatskih dinara" i u alineji četvrtoj riječi "80,00 dinara" zamjenjuju se riječima "150 hrvatskih dinara".
+III.
+U točki IV. u stavku 1. alineji prvoj riječi "30 dinara/1.000 litara" zamjenjuju se riječima "80 hrvatskih dinara/1.000 litara", u alineji drugoj riječi "5 dinara/1.000 litara" zamjenjuju se riječima "16 hrvatskih dinara/1.000 litara" i u alineji trećoj riječi "25 dinara/1.000 litara" zamjenjuju se riječima "80 hrvatskih dinara/1.000 litara".
+IV.
+Ova odluka stupa na snagu danom objave u "Narodnim novinama", a primjenjuje se od 1. veljače 1992. godine.
