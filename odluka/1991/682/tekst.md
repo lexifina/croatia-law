@@ -1,0 +1,5 @@
+o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. ožujka 1991.
+1. Naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje (članak 52. stavak 1. točka 1, 2. i 3. Zakona o mirovinskom i invalidskom osiguranju), kojima osnovica za određivanje naknade nije utvrđena na temelju osnovice osiguranja iz 1991. usklađuju se od 1. ožujka 1991. tako da se povećavaju za 5.01%
+2. Kao osnovica za povećanje naknade prema točki 1. ove odluke služi svota naknade koja je invalidu rada pripadala na dan 31. prosinca 1990. povećana prema Odluci o usklađivanju mirovina od 1. siječnja 1991. za 5,064%, odnosno na dan stjecanja prava ako je pravo priznato nakon 31. prosinca 1990.
+3. Povećanje naknada iz točke 1. ove odluke obavit će se po službenoj dužnosti, bez donošenja rješenja.
+4. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. ožujka 1991.
