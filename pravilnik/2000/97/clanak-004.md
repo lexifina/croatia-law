@@ -1,0 +1,5 @@
+# Članak 4.
+Poslove samostalnog rukovanja eksplozivnim sredstvima iz članka 2. točka 3. ovoga pravilnika (u daljem tekstu palitelj mina) mogu obavljati kvalificirani radnici rudarske ili odgovarajuće struke, koji imaju dvije godine radnog iskustva na eksploataciji mineralnih sirovina i položen ispit iz poznavanja propisa primjene i praktičnog rukovanja eksplozivnim sredstvima.
+Prije pristupanja ispitu za palitelja mina radnici su obvezni, najmanje tri mjeseca raditi na poslovima miniranja uz palitelja mina.
+Ispit za palitelja mina radnici mogu polagati pred povjerenstvom rudarskog trgovačkog društva, povjerenstvom rudarskog obrtnika, odnosno ovlaštene obrazovne ustanove, uz obvezu nazočnosti rudarskog inspektora. Osobama koje su položile ispit osnivač povjerenstva izdaje uvjerenje o osposobljenosti za obavljanje poslova palitelja mina.
+Povjerenstva, pred kojim se polažu ispiti za palitelje mina sastoje se od tri člana: rudarskog inspektora i dva diplomirana inženjera rudarstva s položenim stručnim ispitom.

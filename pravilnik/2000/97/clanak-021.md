@@ -1,0 +1,4 @@
+# Članak 21.
+Stručni ispiti iz članka 9., 10., 15., 16., 17. i 18. ovoga Pravilnika za djelatnike rudarske struke polažu se pred ispitnim povjerenstvom koje osniva ministar gospodarstva.
+Stručni ispiti za djelatnike ostalih struka, navedenih u člancima iz stavka 1. ovoga članka (geodetska, geološka, strojarska i elektro struka) polažu se pred povjerenstvom državnih tijela uprave nadležnih za navedene struke; s tim što jednog člana ovih povjerenstava imenuje Ministarstvo gospodarstva.
+Stručnom ispitu mogu pristupiti djelatnici koji imaju odgovarajuću stručnu spremu i najmanje dvije godine stručne prakse za djelatnike više ili visoke stručne spreme, odnosno najmanje četiri godine stručne prakse ili dvije godine stručne prakse i položen stručni ispit iz članka 18. ovoga Pravilnika za djelatnike srednje stručne spreme.

@@ -1,0 +1,3 @@
+# Članak 16.
+Član povjerenstva za utvrđivanje rezervi mineralnih sirovina iz članka 59. Zakona o rudarstvu može biti diplomirani inženjeri rudarstva, odnosno naftnog rudarstva ili geologije s položenim stručnim ispitom i s najmanje tri godine radnog iskustva na poslovima istraživanja i eksploatacije mineralnih sirovina nakon položenog stručnog ispita.
+Pored odredbe iz stavka 1. ovog članka, jedan član povjerenstva za utvrđivanje rezervi mineralnih sirovina mora biti diplomirani ekonomist ili diplomirani inženjer rudarstva, odnosno naftnog rudarstva, koji ima najmanje pet godina radnog iskustva na računovodstveno-gospodarskim poslovima u rudarstvu.

@@ -1,0 +1,3 @@
+# Članak 17.
+Voditelj izrade rudarskog projekta (odgovorni projektant) ili voditelj izrade dijela rudarskog projekta (projektant) iz članka 2. točka 10. ovoga Pravilnika može biti diplomirani inženjer rudarstva, odnosno naftnog rudarstva s položenim stručnim ispitom i s najmanje jednom godinom radnog iskustva na poslovima istraživanja i eksploatacije mineralnih sirovina nakon položenog stručnog ispita.
+Izradu dijelova rudarskog projekta iz drugih stručnih područja (strojarstvo, elektrika, graditeljstvo i dr.) mogu voditi djelatnici koji imaju visoku stručnu spremu odgovarajuće struke, položeni stručni ispit i najmanje jednu godinu radnog iskustva u toj struci nakon položenog stručnog ispita.

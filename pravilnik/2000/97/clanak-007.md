@@ -1,0 +1,8 @@
+# Članak 7.
+Poslove neposrednog nadzora (nadzornici) kod izvođenja rudarskih radova iz članka 2. točka 4. ovog pravilnika, mogu obavljati:
+1. Kod podzemnih i površinskih rudarskih radova, radnici koji imaju najmanje srednju stručnu spremu rudarske struke, dvije godine radnog iskustva na odgovarajućim rudarskim radovima nakon stečene stručne spreme, te položen stručni ispit.
+2. Na pogonima i objektima za oplemenjivanje mineralnih sirovina (postrojenja za sitnjenje i klasiranje, separacije, flotacije), radnici koji imaju najmanje srednju stručnu spremu rudarske ili odgovarajuće struke, dvije godine radnog iskustva na navedenim poslovima nakon stečene stručne spreme, te položen stručni ispit.
+3. Na radovima istraživanja mineralnih sirovina, radnici koji imaju najmanje srednju stručnu spremu rudarske ili geološke struke, dvije godine radnog iskustva na tim poslovima nakon stečene stručne spreme, te položen stručni ispit.
+4. Na elektro i strojarskom održavanju rudarskih strojeva i postrojenja, radnici koji imaju najmanje IV. stupanj stručne spreme elektro ili strojarske struke, dvije godine radnog iskustva na tim poslovima nakon stečene stručne spreme, te položen stručni ispit.
+Poslove iz stavka 1. ovog članka pri istraživanju, eksploataciji i oplemenjivanju nafte i prirodnog plina mogu obavljati i radnici koji imaju najmanje srednju stručnu spremu odgovarajuće struke, dodatno osposobljavanje u rudarsko-naftnoj struci, dvije godine radnog iskustva na tim poslovima, te položen stručni ispit.
+Dodatno osposobljavanje obavlja se prema programu ustanove, koja obavlja osposobljavanje, odobrenom od strane Ministarstva gospodarstva.
