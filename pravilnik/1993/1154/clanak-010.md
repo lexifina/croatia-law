@@ -1,0 +1,2 @@
+# Članak 10.
+Učitelji i stručni suradnici koji su stekli odgovarajući stupanj stručne spreme na području SFRJ prije 8. listopada 1991. godine, a čija vrsta nije utvrđena ovim pravilnikom, mogu obavljati poslove učitelja i stručnih suradnika u osnovnoj školi pod uvjetom da je vrsta njihove stručne spreme utvrđena Pravilnikom o vrsti stručne spreme koju moraju imati odgajatelj, nastavnik, stručni suradnik i suradnik u odgojno-obrazovnom radu ("Narodne novine", broj 1 /84.).
