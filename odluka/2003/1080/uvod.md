@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30a. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 75/00 i 59/01) i članka 27. Statuta Općine Bedenica (»Glasnik Općine Bedenica« br. 2/01), Općinsko vijeće Općine Bedenica na 21. sjednici održanoj 16. svibnja 2003. donijelo je
