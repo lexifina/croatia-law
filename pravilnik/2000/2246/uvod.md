@@ -1,0 +1,1 @@
+Na temelju članka 120a. Zakona o autorskom pravu (»Narodne novine 9/99), utvrđenog člankom 19. Zakona o izmjenama i dopunama Zakona o autorskom pravu (»Narodne novine« 76/99), Upravni odbor Hrvatske diskografske udruge (u nastavku: HDU) na svojoj sjednici od 4. veljače 2000. donio je

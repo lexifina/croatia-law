@@ -1,0 +1,4 @@
+# Članak 1.
+Za emitiranje, priopćavanje javnosti i druge oblike iskorištavanja (u nastavku. iskorištavanje) fonograma koje štiti HDU, osim iskorištavanja od korisnika s kojima HDU ima sklopljen poseban ugovor kojim se dozvoljava iskorištavanje i uređuje plaćanje naknada, plaća se naknada po Tarifi naknada za emitiranje, priopćavanje javnosti i druge oblike iskorištavanja fonograma (u nastavku: Tarifa) koja je sastavni dio ovog pravilnika.
+Naknadu iz stavka 1. ovog članka naplaćuje HDU.
+Naknadu naplaćenu na dobrotvornim priredbama organiziranim u humanitarne svrhe na kojima se koriste fonogrami HDU će uplatiti na račun humanitarne organizacije u čiju je korist priredba organizirana, bez odbitka troškova naplate, uz uvjet da izvođači nastupaju besplatno, da su ispunjene sve pretpostavke da bi se priredba smatrala dobrovoljnom i humanitarnom te da organizator u službenom programu navede HDU kao sudionika na tim priredbama.
