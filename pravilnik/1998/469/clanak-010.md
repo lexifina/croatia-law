@@ -1,0 +1,2 @@
+# Članak 10.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti Pravilnik o uvjetima i načinu obavljanja obvezatne dezinfekcije, dezinsekcije i deratizacije i o uvjetima koje moraju ispunjavati organizacije udruženog rada koje provode ove mjere ("Narodne novine", br. 4/81., 12/88.) i Pravilnik o uvjetima za obavljanje dezinfekcije, dezinsekcije i deratizacije radi sprječavanja i suzbijanja zaraznih bolesti ("Narodne novine", br. 53/91.).
