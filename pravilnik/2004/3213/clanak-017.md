@@ -1,0 +1,2 @@
+# Članak 17.
+Djelatnicima autoškola kojima je do stupanja na snagu ovoga Pravilnika prestala važiti dozvola instruktora vožnje i kojima će nakon stupanja na snagu ovoga Pravilnika važenje dozvole instruktora vožnje prestati tijekom razdoblja od četiri godine, važenje te dozvole produžit će se na temelju položene provjere stručne osposobljenosti, polaganjem testa znanja ili održavanjem oglednoga nastavnog sata iz pojedinoga nastavnog predmeta.
