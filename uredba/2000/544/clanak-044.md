@@ -1,0 +1,3 @@
+# Članak 44.
+Odsjek razvrstavanja i programiranog postupanja obavlja upravne i stručne poslove koji se odnose na razvrstavanje kaznenika, kaznenika mlađih punoljetnika i maloljetnika; razvijanje i preispitivanje različitih programa postupanja, upućivanje i premještanje kaznenika; nadziranje pojedinačnih programa postupanja, postupanje po pritužbama; izradu stručnih mišljenja u svezi s primjenom penoloških instituta i izvanrednih pravnih lijekova; sudjelovanje u izradi i provedbi programa izobrazbe zaposlenika, prikupljanje i obradu kvantitativnih i kvalitativnih pokazatelja o zatvorenicima, upravni i inspekcijski nadzor, te izradu nacrta propisa iz svojega djelokruga.
+2. Odsjek programiranog izvršavanja zaštitnog nadzora i rada za opće dobro na slobodi

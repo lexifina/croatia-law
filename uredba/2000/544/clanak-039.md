@@ -1,0 +1,3 @@
+# Članak 39.
+Odsjek pravnih i organizacijskih poslova obavlja upravne i stručne poslove koji se odnose na organiziranje i nadziranje zakonitog postupanja sa zatvorenicima, osiguranje uvjeta smještaja i boravka zatvorenika u kaznionicama, zatvorima i odgojnim zavodima; prava zatvorenika i nadziranje ostvarivanja njihovih prava, posjete zatvorima, kaznionicama i odgojnim zavodima; provedbu preuzimanja ili ustupanja izvršavanja kazne zatvora (međunarodna suradnja), postupanje po pritužbama zatvorenika; sudjelovanje u izradi i provedbi programa izobrazbe zaposlenika; upravni i inspekcijski nadzor, izradu nacrta propisa, te vođenje svih evidencija zatvorenika i osuđenika iz nadležnosti Uprave propisane zakonima.
+2. Odsjek zapošljavanja zatvorenika

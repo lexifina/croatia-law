@@ -1,0 +1,3 @@
+# Članak 34.
+Odsjek računovodstvenih poslova obavlja upravne i stručne poslove vezane za: izradu obračuna, analitičkih kontnih planova, kontiranje, knjiženje i kontroliranje knjigovodstvene dokumentacije, obračun plaća i ostalih primanja dužnosnika, državnih službenika i namještenika; obavljanje gotovinskih i bezgotovinskih plaćanja svih obveza; vođenje svih potrebnih knjigovodstvenih evidencija i statistika iz financijskog i materijalnog poslovanja; sudjelovanje u provođenju nadzora kod svih korisnika iz djelokruga računovodstvenog poslovanja, te obavlja i druge poslove iz ovog područja koje mu povjeri ministar.
+b) Odjel materijalnog poslovanja i nabave

@@ -1,0 +1,3 @@
+# Članak 22.
+Odsjek za međunarodnu pravnu pomoć u građanskim stvarima obavlja upravne i stručne poslove vezane za: izradu nacrta prijedloga zakona i podzakonskih akata i provođenje međunarodnih ugovora i konvencija iz područja međunarodne pravne pomoći u građanskim stvarima; davanje mišljenja u svezi legalizacije isprava za upotrebu u inozemstvu; pružanje pravne pomoći pravosudnim tijelima u postupcima utvrđivanja uzajamnosti, izdavanje potvrde o uzajamnosti u skladu sa zakonom; pribavljanje obavijesti o mjerodavnom stranom pravu za pravosudna tijela te obavlja i druge poslove iz ovog područja koje mu povjeri ministar.
+b) Odjel za međunarodnu suradnju

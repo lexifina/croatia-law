@@ -1,0 +1,2 @@
+# Članak 29.
+Odjel za javno bilježništvo i odvjetništvo obavlja upravne i stručne poslove vezane za: izradu nacrta prijedloga zakona i podzakonskih akata i provođenje zakona i drugih propisa koje uređuju javnobilježničku službu i odvjetničku službu; pregled prostora i opreme javnih bilježnika, raspisivanja natječaja i imenovanja javnih bilježnika, nadzor nad radom javnobilježničke službe; suradnju s Hrvatskom javnobilježničkom komorom i Hrvatskom odvjetničkom komorom, te obavlja i druge poslove iz područja javnog bilježništva i odvjetništva koje mu povjeri ministar.

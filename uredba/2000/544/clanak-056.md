@@ -1,0 +1,3 @@
+# Članak 56.
+Odsjek za inspekciju lokalne samouprave obavlja inspekcijske poslove koji se odnose na primjenu zakona i drugih propisa kojima se uređuje sustav lokalne samouprave i uprave, ustrojstvo i rad tijela jedinica lokalne samouprave, odnosno jedinica lokalne uprave i samouprave; radne odnose zaposlenih u tim tijelima, na nadzor u provedbi općega upravnog postupka i posebnih postupaka, te uredskog poslovanja u tijelima jedinica lokalne samouprave, odnosno tijelima jedinica lokalne uprave i samouprave, te pravnih osoba s javnim ovlastima.
+d) Odjel za upravne poslove, organizaciju i nadzor matičarstva

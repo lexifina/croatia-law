@@ -1,0 +1,3 @@
+## 2. TAJNIŠTVO MINISTARSTVA
+# Članak 5.
+Tajništvo Ministarstva je posebna ustrojstvena jedinica koja obavlja administrativne i stručne poslove za potrebe Ministarstva, a osobito; poduzima mjere za osiguranje učinkovitosti u radu, te tehnički usklađuje rad unutarnjih ustrojstvenih jedinica Ministarstva i upravnih organizacija u sastavu Ministarstva; brine o stručnom osposobljavanju i usavršavanju državnih službenika i namještenika u tijeku službe i o urednom i pravilnom korištenju imovine i sredstava za rad; nadzire rad državnih službenika i namještenika, te obavlja i druge poslove koje mu povjeri ministar.

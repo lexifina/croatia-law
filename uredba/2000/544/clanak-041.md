@@ -1,0 +1,3 @@
+# Članak 41.
+Odsjek kadrovskih poslova obavlja upravne i stručne poslove iz nadležnosti ministra koji se odnose na zaposlenike zatvorskog sustava, vođenje središnjeg popisa zaposlenika zatvorskog sustava, vođenje popisa ovlaštenih službenih osoba, službenih iskaznica i značaka; utvrđivanje potrebe za stručnim usavršavanjem i izobrazbom zaposlenika uz sudjelovanje u izradi i provedbi programa izobrazbe zaposlenika; nadziranje obavljanja kadrovskih poslova iz nadležnosti upravitelja; upravni i inspekcijski nadzor, te izradu nacrta propisa iz svojega djelokruga.
+4. Odsjek za poslove civilne službe

@@ -1,0 +1,3 @@
+# Članak 13.
+Odjel za posebne imovinskopravne poslove obavlja upravne i stručne poslove vezane za: izradu nacrta prijedloga zakona i podzakonskih akata i drugih propisa kojima se uređuju imovinskopravni odnosi vezani za poljoprivredno zemljište, šume i šumsko zemljište i komasaciju te izvlaštenje i naknadu za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine; provodi u okviru djelokruga Ministarstva ove zakone i udruge propise ako pojedini od ovih poslova nisu u djelokrugu drugog odjela, te daje stručna mišljenja. Ovaj Odjel obavlja prethodni nadzor nad prvostupanjskim rješenjima o naknadi/vraćanju oduzete imovine.
+d) Odjel za drugostupanjske upravne postupke

@@ -1,0 +1,2 @@
+# Članak 24.
+Odjel za ljudska i manjinska prava obavlja stručne poslove vezane za: izradu nacrta prijedloga zakona i podzakonskih akata o zaštiti ljudskih, odnosno, manjinskih prava; prati stanje ljud- skih, odnosno manjinskih prava u Republici Hrvatskoj; sudjeluje u radu odgovarajućih međunarodnih tijela, izrađuje izvješća, osigurava usklađenost zakonodavstva s međunarodnim ugovorima iz područja zaštite ljudskih i manjinskih prava, te obavlja druge poslove koje mu povjeri ministar.

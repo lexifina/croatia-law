@@ -1,0 +1,3 @@
+# Članak 69.
+Odjel za suradnju i nadzor lokalne samouprave obavlja upravne i stručne poslove koji se odnose na sustav i djelokrug lokalne samouprave, unaprjeđivanje sustava lokalne samouprave, nadzor nad primjenom propisa o lokalnoj samoupravi, nadzor zakonitosti rada i akata jedinica lokalne samouprave i jedinica lokalne uprave i samouprave; izrada nacrta prijedloga zakona i drugih propisa iz svojega djelokruga; sudjelovanje u radu međunarodnih organizacija, usklađivanje međunarodne suradnje jedinica lokalne samouprave i jedinica lokalne uprave i samouprave, te obavlja i druge poslove koje mu povjeri ministar.
+c) Odjel za financiranje lokalne samouprave

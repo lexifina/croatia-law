@@ -1,0 +1,3 @@
+# Članak 32.
+Odsjek financijsko-planskih poslova i nadzora za pravosudna i kaznena tijela obavlja upravne i stručne poslove vezane za: izradu i izvršavanje državnog proračuna za sve korisnike u pravosuđu i kaznenim tijelima; izradu nacrta financijskih planova i programa svih namjena i njihovo praćenje; organiziranje i provođenje kontrole i nadzora nad zakonitim i namjenskim trošenjem sredstava svih korisnika državnog proračuna; nadziranje i praćenje rada proizvodnih i uslužnih djelatnosti kaznenih tijela; praćenje plaća nositelja pravosudnih dužnosti, službenika i namještenika u pravosudnim i kaznenim tijelima, te obavlja i druge poslove iz ovog područja koje mu povjeri ministar.
+2. Odsjek financijsko-planskih poslova i nadzora za županijske urede

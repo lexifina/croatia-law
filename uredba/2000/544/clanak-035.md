@@ -1,0 +1,3 @@
+# Članak 35.
+Odjel materijalnog poslovanja i nabave obavlja upravne i stručne poslove vezane za: planiranje potreba i organiziranje nabave i skladištenja opreme i materijala za potrebe Ministarstva, pravosudnih i kaznenih tijela i županijskih ureda, kontrolu i nadzor nad propisanom i namjenskom uporabom i smještajem opreme; sudjelovanje u izradi državnog proračuna, financijskih planova i programa po korisnicima i namjenama, ispitivanje tržišta, prikupljanje i obrada ponuda, vođenje potrebne dokumentacije, usklađivanje stanja s materijalnim knjigovodstvom, te obavlja i druge poslove koje mu povjeri ministar.
+c) Odjel investicijskih poslova

@@ -1,0 +1,3 @@
+# Članak 60.
+Odjel za sustav i ustrojstvo državne uprave obavlja upravne i druge stručne poslove koji se odnose na sustav, ustrojstvo i razvitak državne uprave i načine povećanja učinkovitog djelovanja tijela državne uprave i svrhovitost njihovog ustrojstva; primjenu i izvršavanje zakona i drugih propisa koji se odnose na sustav i ustrojstvo tijela državne uprave; upravni nadzor nad zakonitošću rada i postupanja tijela državne uprave, tijela jedinica lokalne samouprave te drugih tijela koja imaju javne ovlasti; nadzor pravilne primjene zakona i drugih propisa u vezi sustava državne uprave, izradu nacrta prijedloga zakona i drugih propisa, davanje mišljenja na prijedloge propisa kojima se uređuje unutarnje ustrojstvo tijela državne uprave.
+b) Odjel za službeničke odnose
