@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) a u svezi s poglavljem 6.11. točka 1. Strategije razvitka hrvatske poljoprivrede, Vlada Republike Hrvatske je na sjednici održanoj 22. travnja 1999. godine donijela
