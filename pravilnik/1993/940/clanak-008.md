@@ -1,0 +1,2 @@
+# Članak 8.
+U članku 32. stavak 2. mijenja se i glasi: "Ako stranke drukčije ne ugovore, arbitar pojedinac raspravlja i odlučuje u sporovima u kojima devizna protuvrijednost predmeta spora ne prelazi 50.000 DEM, a arbitražno vijeće u sporovima u kojima devizna protuvrijednost predmeta spora prelazi 50.000 DEM. Devizna protuvrijdnost izračunava se primjenom srednjeg tečaja Narodne Banke Hrvatske koji vrijedi na dan podnošenja tužbe Sudištu." U članku 32., stavak 3. riječ "suda" zamjenjuje se riječju "sudišta".

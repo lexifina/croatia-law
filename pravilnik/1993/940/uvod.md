@@ -1,0 +1,1 @@
+Na temelju članka 19. stavak 4. Zakona o Hrvatskoj gospodarskoj komori ("Narodne novine", broj 66/91 i 73/91), Skupština Hrvatske gospodarske komore na svojoj 4. sjednici održanoj 12. svibnja. 1993 godine donijela je
