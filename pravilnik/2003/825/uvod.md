@@ -1,0 +1,1 @@
+Na temelju članka 145. stavka 2. Zakona o visokim učilištima (»Narodne novine« br. 59/96 - pročišćeni tekst, 14/00, 67/00, 94/00 i 129/00), a u svezi s člankom 40. Zakona o studentskom zboru (»Narodne novine« br. 139/97), ministar znanosti i tehnologije donosi
