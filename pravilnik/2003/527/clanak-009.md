@@ -1,0 +1,2 @@
+# Članak 9.
+Personalna uprava Glavnog stožera Oružanih snaga Republike Hrvatske izradit će popis službenika i namještenika koji ispunjavaju uvjete iz članka 2. ovog Pravilnika i koji su uspješno obnašali srodnu skupinu poslova odnosno radnih zadaća, te će u suradnji s Personalnom službom Ministarstva obrane izraditi Plan preobuke za stjecanje odgovarajućih vojno-stručnih specijalnosti potrebnih za popunu upražnjenih ustrojbenih službeničkih odnosno namješteničkih mjesta u Oružanim snagama Republike Hrvatske.
