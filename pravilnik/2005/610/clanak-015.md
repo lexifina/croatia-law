@@ -1,0 +1,4 @@
+# Članak 15.
+Spisi predmeta osoba pod skrbništvom i osoba pod roditeljskom skrbi nakon punoljetnosti označuju se tako da se na prvoj vanjskoj stranici omota iza klasifikacijske oznake predmeta upravnog postupka stavi crtica i doda temeljni broj skrbničkog predmeta koji se sastoji od slova »S« za osobe pod skrbništvom ili »RS« za osobe pod roditeljskom skrbi nakon punoljetnosti i rednog broja u Glavnoj knjizi osoba pod skrbništvom iza kojega se stavlja kosa crta i godina u kojoj je osoba stavljena pod skrbništvo, a za osobe pod roditeljskom skrbi nakon punoljetnosti, iza »RS« stavi se samo godina u kojoj je osoba stavljena pod roditeljsku skrb nakon punoljetnosti.
+Kasniji akti i prilozi označavaju se odgovarajućom klasifikacijskom oznakom predmeta upravnog postupka i temeljnim brojem predmeta te svojim podbrojem.
+Podbroj je onaj broj koji kasniji akti odnosno podnesci i prilozi dobivaju po redu kojim su zaprimljeni i kojim se ulažu u predmet.

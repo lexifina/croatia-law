@@ -1,0 +1,2 @@
+# Članak 20.
+Riješeni skrbnički predmeti slažu se u fascikle na način na koji se čuvaju skrbnički predmeti u postupku sukladno članku 19. ovoga Pravilnika. Fascikl se označava punim nazivom centra za socijalnu skrb, oznakom godine klasifikacijskom oznakom. Fascikl riješenih skrbničkih predmeta čuva se odvojeno od drugih skrbničkih predmeta 15 godina nakon čega centar za socijalnu skrb upućuje nadležnom arhivu zahtjev za predaju registraturne građe, odnosno za odabiranje i izlučivanje.
