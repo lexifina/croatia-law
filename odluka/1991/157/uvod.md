@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o elektroprivredi ("Narodne novine", broj 31/90 i 47/90) te članova 6. i 7. Zajedničkih kriterija za formiranje cijena električne energije, Vlada Republike Hrvatske na sjednici održanoj 6. veljače 1991. godine, donijela je
