@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Obveznici koji plaćaju posebni porez podnose Središnjem uredu zahtjev za tiskanje markica koji mora imati podatke o količini markica, tehnićkim elementima za izradu markica, slovnoj oznaci serije. vrsti, a za cigarete namijenjene prodaji na carinskomu podrueju Republike Hrvatske i maloprodajnu cijenu.
+(2) Zahtjev za tiskanje podnosi se jednom mjesečno i to do 20. u tekučem mjesecu za slijedeći mjesec, a ako se radi o prvom tiskanju markica ili o većim količinama od uobičajenih u ranijim mjesecima najmanje 30 dana prije preuzimanja.
+(3) Uz zahtjev proizvodaći su dužni dati i podatke za koje duhanske prerađevine narućuju markice, a isto tako i izjavu o udjelu domaćeg i uvoznog duhana u svakoj vrsti cigareta. Ako se tijekom godine promijeni udio domaćeg i uvoznog duhana u pojedinoj vrsti cigareta, porezni obveznik dužan je o tome obavijestiti Središnji ured, odmah nakon promjene tog udjela.
