@@ -1,0 +1,3 @@
+## o izmjenama i dopunama Zakona o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički zakoni
+# Članak 1.
+U Zakonu o preuzimanju saveznih zakona iz oblasti mirovinskog i invalidskog osiguranja i doplatka za djecu vojnih osiguranika koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91.), naziv zakona mijenja se i glasi: "Zakon o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon."
