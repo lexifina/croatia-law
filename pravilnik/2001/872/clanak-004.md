@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Iznimno od odredbe članka 3. ovoga Pravilnika rashodom amortizacije smatra se i dodatni, djelomični ili potpuni otpis opreme i poslovnih objekta koji su nabavljeni ili izgrađeni u poreznom razdoblju. Smatra se da su oprema i poslovni objekti nabavljeni odnosno izgrađeni u poreznom razdoblju u kojem su stavljeni u uporabu.
+(2) Opremom iz stavka 1. ovoga članka smatraju se postrojenja i strojevi, alati, pogonski i uredski inventar, informatička oprema, uključujući i software, namještaj, transportni uređaji i sredstva, osim osobnih automobila i drugih sredstava za prijevoz poslovodnih, rukovodnih i drugih zaposlenih osoba, a poslovnim objektima smatraju se građevinski objekti koji služe za obavljanje poslovne djelatnosti.
+(3) Ako porezni obveznik dodatno djelomično otpiše dugotrajnu imovinu iz stavka 1. ovoga članka, preostali neotpisani dio dugotrajne imovine otpisuje se na način propisan u članku 3. ovoga Pravilnika.
