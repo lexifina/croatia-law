@@ -1,0 +1,2 @@
+# Članak 3.
+Osobama iz članka 1. i 2. ove uredbe pripadaju prava utvrđena odredbama članka 22. i 23. Zakona o osnovnim pravima vojnih invalida i obitelji palih boraca. Prava iz stavka 1. ovog članka ostvaruju se pod uvjetima i na način predviđen odredbama Zakona o osnovnim pravima vojnih invalida i obitelji palih boraca, po kojima prava predviđena tim zakonom ostvaruju ratni vojni invalidi i članovi obitelji palih boraca, ako nisu u suprotnosti s Ustavom, zakonima Republike Hrvatske i ovom uredbom.

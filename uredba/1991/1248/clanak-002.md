@@ -1,0 +1,2 @@
+# Članak 2.
+Članovima obitelji osoba poginulih, nestalih ili umrlih uslijed rana, povreda, ozljeda, ili bolesti zadobivenih pod okolnostima iz članka 1. ove Uredbe smatraju se osobe koje se smatraju članovima obitelji prema odredbama članka 20. i 21. stavak 1. Zakona o osnovnim pravima vojnih invalida i obitelji palih boraca ("Službeni list SFRJ", br. 68/81, 41/83, 75/85, 44/89, 87/89, 20/90 i 42/90).
