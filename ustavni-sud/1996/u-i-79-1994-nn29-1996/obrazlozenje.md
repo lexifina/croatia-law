@@ -1,0 +1,7 @@
+Obrazloženje
+Poduzeće "PISMORAD" iz Zagreba podnijelo je prijedlog za pokretanje postupka ocjene ustavnosti odredbe članka 3. Zakona o izmjenama i dopunama Zakona o pretvorbi društvenih poduzeća ("Narodne novine" broj 2/94) dakle, odredbe članka 21b. stavka 4. Zakona o pretvorbi društvenih poduzeća ("Narodne novine" broj 19/91, 83/92, 94/93, 2/94 i 9/95). Ujedno je u skladu s odredbom članka 18. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 13/91) predložena privremena obustava izvršenja pojedinačnog akta ili radnji koje se poduzimaju na osnovi odredbe čija se ustavnost ocjenjuje.
+Predlagatelj je smatrao da je osporena odredba u suprotnosti s odredbama članaka 48. stavak 1. i 49. stavci 1. i 4. Ustava Republike Hrvatske.
+Rješenjem ovog Suda od 17. lipnja 1994. godine, broj U-I-79/94 pokrenut je postupak za ocjenu ustavnosti osporene odredbe, a nije prihvaćen prijedlog za donošenje rješenja u skladu s člankom 18. navedenog Ustavnog zakona.
+Rješenje o pokretanju postupka objavljeno je u "Narodnim novinama" broj 49/94 od 24. lipnja 1994. godine.
+Kako je u članku 49. Zakona o privatizaciji ("Narodne novine", broj 21/96), koji je stupio na snagu 22. ožujka 1996. godine, utvrđeno da članak 21b. stavak 3. alineja 4. i stavak 4. Zakona o pretvorbi prestaje važiti, to je na osnovi članka 27. Ustavnog zakona o Ustavnom sudu Republike Hrvatske riješeno kao u točki 1. izreke.
+Objava ovog rješenja (točka 2. izreke) temelji se na odredbi stavka 1. članka 20. navedenog Ustavnog Zakona.

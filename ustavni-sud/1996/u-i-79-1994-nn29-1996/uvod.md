@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu dopredsjednik Zdravko Bartovčak, te suci dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, u povodu prijedloga Poduzeća "PISMORAD" iz Zagreba, na sjednici održanoj dana 3. travnja 1996. godine, donio je
