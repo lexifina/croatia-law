@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o eksplozivnim tvarima za gospodarsku uporabu (»Narodne novine«, broj 12/94.) ministar unutarnjih poslova, uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo, donosi
