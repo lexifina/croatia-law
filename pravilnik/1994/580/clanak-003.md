@@ -1,0 +1,2 @@
+# Članak 3.
+Nastava u srednjim školama planira se na temelju 35, a za završne razrede na temelju 32 nastavna tjedna. Nastava u srednjim školama organizira se u petodnevnom ili šestodnevnom radnom tjednu, što se utvrđuje godišnjim planom i programom rada škole. Ako se nastava nije organizirala sukladno stavku 2. ovoga članka, odluku o tome da li će se nastava organizirati u petodnevnom ili šestodnevnom radnom tjednu donosi županijski ured odnosno ured Grada Zagreba nadležan za poslove školstva uz prethodnu suglasnost ministra kulture i prosvjete.
