@@ -1,0 +1,3 @@
+# Članak 7.
+Godišnja nagrada sastoji se od srebrne dvostrane medalje koja na aversu nosi portret Franje Bučara, a na reversu grb Republike Hrvatske ispod kojega je natpis "Nagrada Franjo Bučar" i pet olimpijskih krugova, te posebnog priznanja u obliku povelje u kožnom ovitku s odgovarajućim tekstom i novčanog iznosa koji se godišnje utvrdi proračunom Republike Hrvatske.
+Nagrada za životno djelo sastoji se od zlatne dvostrane medalje koja na aversu nosi portret Franje Bučara, a na reversu grb Republike Hrvatske ispod kojega je natpis "Nagrada Franjo Bučar" i pet olimpijskih krugova, te posebnog priznanja u obliku povelje u kožnom ovitku s odgovarajućim tekstom i novčanog iznosa koji se godišnje utvrdi proračunom Republike Hrvatske.
