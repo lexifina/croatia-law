@@ -1,0 +1,1 @@
+Na temelju članka 46. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2003. godinu (»Narodne novine«, br. 154/2002 i 147/2003) i članka 30. stavak 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 4. prosinca 2003. godine, donijela
