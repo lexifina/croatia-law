@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 46/97 - pročišćeni tekst), te sukladno odredbi članka 14. Zakona o otocima (»Narodne novine«, br. 34/99) ministar poljoprivrede i šumarstva donosi
