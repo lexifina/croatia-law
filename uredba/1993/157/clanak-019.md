@@ -1,0 +1,2 @@
+# Članak 19.
+Pravne osobe i službe iz članka 5., te nadležni državni organi i druge pravne osobe iz članka 6. ove Uredbe na priobalnom području dužni su centrima za obavješćivanje dostavljati pored podataka iz članka 18. i 31. ove Uredbe i podatke o: boravku stranih ratnih plovila u našem moru; izvođenju vježbi stranih ratnih plovila i letjelica; plovilima u nedozvoljenom ribolovu; vađenju predmeta privrednih, povijesnih i arheoloških predmeta iz mora; polaganje predmeta i uređaja u more i uz obalu, te drugim štetnim pojavama i djelovanjima.
