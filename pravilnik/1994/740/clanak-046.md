@@ -1,0 +1,7 @@
+# Članak 46.
+Obrasci od I. do XII. XLV. do XVIII. i XXVI. i šifrarnici otiskani su uz ovaj Pravilnik i njegov su sastavni dio.
+Obrasci I., I/1., II., III., IV., IV/1., V., V/1.. VI., VI/1·., VII.. VIII., VIII/1., IX., X., X/1, XI, XI/1., XII., XII/I.. XIV., XV.. XVI.. XVI/1., XVII. i XVIII. prilagođeni su elektronskoj obradi podataka. osim obrasca XXVI.
+Ako podatak koji se unosi u neki od obrazaca iz stavka 2. ovog članka ima manje brojki od broja mjesta u odgovarajućem šifarskom polju, s lijeve strane šifarskog polja ostat će slobodno onoliko mjesta za koliko podataka ima manje brojki od broja mjesta u šifarskom polju.
+Ako podatak koji se unosi u neki od obrazaea iz stavka 2. ovog članka ima više brojki od broja mjesta u odgovarajućem šifarskom polju, takav podatak mora se podnijeti i prijaviti pod dva redna broja imenovanja.
+Carinarnica će svakodnevno obrazac iz stavka 2. ovog članka dostavljati Računskom centru za automatsku obradu podataka na obradu.
+Ako se u obrascima iz stavka 2. ovoga članka pri obradi u Raćunskom centru za automatsku obradu podataka utvrdi da neki od njih nije popunjen prema odredbama ovoga Pravilnika, bit će vraćen nadležnoj carinskoj ispostavi radi ispravka. Carinska ispostava obvezna je ispraviti pogrešne podatke na svim primjercima deklaracije i slijedećeg dana ispravljeni dokument vratiti Računskom centru na obradu. O ispravku obvezna je izvjestiti podnositelja dokumenta i nadležnu Narodnu banku kojoj je dostavljen dokument.

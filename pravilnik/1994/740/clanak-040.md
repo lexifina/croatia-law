@@ -1,0 +1,3 @@
+# Članak 40.
+Podnositelj deklaracije, uz deklaraciju podnosi originalni račun i prijevoznu ispravu s fotokopijom te policu i obračun troškova osiguranja ako ti obračuni nisu uneseni u prijevoznu ispravu odnosno račun. Fotokopiju prijevozne isprave i original računa carinska ispostava zadržava uz original carinske deklaracije.
+Ovisno o vrsti robe i uvjetima uvoza odnosno izvoza, uz deklaraciju podnosi se uvjerenje o podrijetlu robe, uvjerenje o kvaliteti robe, veterinarsko, fitopatološko uvjerenje te druge isprave kojih je podnošenje predviđeno posebnim propisima ili su potrebne za ispravno vođenje carinskoga postupka.

@@ -1,0 +1,3 @@
+## VIII. ZAVRŠNE ODREDBE
+# Članak 45.
+Poduzeće koje je registrirano za obavljanje vanjskotrgovačkog prometa i koje u carinskom postupku sudjeluje kao carinski obveznik, podnositelj deklaracije ili držatelj konsignacijskog skladišta podnosi zahtjev Carinskoj upravi Republike Hrvatske - Elektronskom računskom centru radi upisa u Registar carinskih obveznika. Uz zahtjev se podnosi rješenje nadležnog trgovačkog suda o upisu poduzeća u registar ili ispravu ovlaštenog upravnog tijela o registraciji, odgovarajuću ispravu Državnog zavoda za statistiku o razvrst"avanju poduzeća po gospodarskim djelatnostima i matičnom broju, rješenje Zavoda za platni promet o otvorenom stalnom dinarskom žiro-računu.
