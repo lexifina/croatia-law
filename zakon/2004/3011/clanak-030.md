@@ -1,0 +1,7 @@
+# Članak 30.
+U slučaju neposredne prijetnje od nastanka katastrofe ili veće nesreće na području jedne općine/grada, općinski načelnik, gradonačelnik, odnosno predsjednik predstavničkog tijela u jedinicama lokalne samouprave u kojima se na temelju posebnog zakona ne bira općinski načelnik/gradonačelnik, ima pravo i obvezu mobilizirati sveukupne ljudske i materijalno-tehničke potencijale s područja te jedinice lokalne samouprave, sukladno planu zaštite i spašavanja.
+Kada je općinski načelnik, gradonačelnik, odnosno predsjednik predstavničkog tijela u jedinicama lokalne samouprave u kojima se na temelju posebnog zakona ne bira općinski načelnik/gradonačelnik, uposlio sve kapacitete i mogućnosti s područja jedinice lokalne samouprave, upućuje županu zahtjev za dopunsku pomoć s područja županije.
+U slučaju neposredne prijetnje od nastanka katastrofe ili veće nesreće na području jedne županije, župan ima pravo i obvezu mobilizirati sveukupne ljudske i materijalno-tehničke potencijale s područja te jedinice područne (regionalne) samouprave, sukladno planu zaštite i spašavanja.
+Svi mobilizirani sukladno stavku 1. ovoga članka imaju pravo na naknadu stvarnih troškova iz proračuna jedinice lokalne samouprave, a svi mobilizirani sukladno stavku 3. ovoga članka imaju pravo na naknadu stvarnih troškova iz proračuna jedinice područne (regionalne) samouprave.
+Kada su uposleni svi kapaciteti i ukupne mogućnosti jedinice područne (regionalne) samouprave, župan upućuje ravnatelju Uprave zahtjev za dopunsku pomoć.
+4. Obveze središnjih tijela državne uprave
