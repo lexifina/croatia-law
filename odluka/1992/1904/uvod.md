@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu ("Narodne novine". broj 18/92), Vlada Republike Hrvatske na sjednici održanoj 27. listopada 1992. godine donijela je
