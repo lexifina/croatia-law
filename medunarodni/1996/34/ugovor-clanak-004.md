@@ -1,0 +1,7 @@
+# Članak 4.
+IMENOVANJE I OVLAŠĆIVANJE PRIJEVOZNIKA
+(1) Svaka ugovorna stranka imat će pravo pismeno imenovati drugoj ugovornoj stranci jednog ili više zračnih prijevoznika u svrhu obavljanja ugovorenog prometa na utvrđenim linijama i da povuče ili promijeni takvo imenovanje.
+(2) Po primitku takvog imenovanja, druga ugovorna stranka će, sukladno odredbama stavaka (3) i (4) ovog članka, bez otezanja dodijeliti određenom zračnom prijevozniku ili prijevoznicima odgovarajuće operativne ovlasti.
+(3) Zrakoplovne vlasti jedne ugovorne stranke mogu od zračnog prijevoznika koji je imenovala druga ugovorna stranka zahtijevati da ih uvjeri u to da je kvalificiran da ispuni uvjete propisane po zakonima i propisima koji se obično i razumno primjenjuju na letenje u međunarodnom zračnom prijevozu od strane tih vlasti u skladu s odredbama Čikaške Konvencije.
+(4) Svaka ugovorna stranka imat će pravo odbiti izdati operativnu ovlast iz stavka (2) ovog članka ili nametnuti takve uvjete koje smatra neophodnim za izvršenje od određenog prijevoznika koji koristi prava navedena u članku 3. stavka (2) ovog Sporazuma, u bilo kojem slučaju kada rečena ugovorna stranka nije uvjerena da se pretežno vlasništvo i stvarna kontrola tog zračnog prijevoznika nalaze u rukama ugovorne stranke koja je imenovala zračnog prijevoznika ili njenih državljana.
+(5) Kada je zračni prijevoznik tako imenovan i ovlašten on može započeti obavljati ugovoreni promet, uz uvjet da se zračni prijevoznik pridržava primjenjivih odredbi ovog Sporazuma.
