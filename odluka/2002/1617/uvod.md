@@ -1,0 +1,1 @@
+Na temelju članka 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 17. i 36. Statuta Općine Kloštar Ivanić (»Glasnik Zagrebačke županije«, broj 20/01), Općinsko vijeće Općine Kloštar Ivanić na 15. sjednici održanoj 30. srpnja 2002. g. donijelo je
