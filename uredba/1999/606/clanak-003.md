@@ -1,0 +1,2 @@
+# Članak 3.
+Odredbe ove Uredbe ne primjenjuju se na zajmove koje odobravaju pravne osobe iz članka 1. ove Uredbe izravno ili putem sindikalnih podružnica svojim zaposlenicima te na pravne osobe iz članka 1. ove Uredbe, ako odobravaju zajmove putem Tržišta novca i kratkoročnih vrijednosnica d.d. Zagreb, kao i na društva za osiguranje i društva za reosiguranje u pretežito državnom vlasništvu koja, sukladno Zakonu o osiguranju, mogu odobravati zajmove i ulagati slobodna novčana sredstva i na Hrvatski zavod za zapošljavanje.
