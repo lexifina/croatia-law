@@ -1,0 +1,2 @@
+# Članak 4.
+Vlasnici ili korisnici građevina i prostora koji temeljem kategorizacije propisane ovim Pravilnikom moraju imati profesionalnu vatrngasnu postrojbu, mogu u opravdanim slućajevima, temeljem odgovarajućeg ugovora, takvu obvezu prenijeti na postojeću vatrogasnu postrojbu Ministarstva unutarnjith poslova ili profesionalnu vatrogasnu postrojbu u gospodarstvu uz suglasnost Ministarstva unutarnjih poslova.

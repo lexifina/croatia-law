@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuju se uvjeti, osnove i kriteriji za razvrstavaraje građevina, građevinskih dijelova i prostora (u daljnjem tekstu: građevine i prostori) u kategorije ugroženosti od požara i najmanji broj vatrogasaca u vatrogasnoj postrojbi te djelatnika zaduženih za poslove zaštite od požara koje moraju imati pravne osobe vlasnici odnosno korisnici građevina ili prostora razvrstanih u prvu (I) i drugik (II) kategoriju ugroženosti.
