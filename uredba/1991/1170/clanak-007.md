@@ -1,0 +1,2 @@
+# Članak 7.
+Ured osniva regionalne urede za izbjeglice za područja više općina. Članovi regionalnog ureda su predstavnici kriznog štaba područja, organa sigurnosti (obrane i unutarnjih poslova) i obvezno humanitarnih organizacija područja za koje se regionalni ured formira, kao i stručnjaka s područja zdravstva, psihologije i dr. Na čelu regionalnog ureda je direktor centra za socijalni rad u općini u kojem je sjedište regionalnog ureda.
