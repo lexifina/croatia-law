@@ -1,0 +1,1 @@
+Na temelju članka 72. Zakona o državnoj izmjeri i katastru nekretnina ("Narodne novine" br. 128/99) i članka 48.stavka 3. Zakona o sustavu državne uprave ("Narodne novine" br. 75/93, 92/96,48/99 i 15/00) ravnatelj Državne geodetske uprave u suglasnosti s ravnateljem Državnog zavoda za statistiku, donosi
