@@ -1,0 +1,3 @@
+# Članak 21.
+Pri prosudbi ugroženosti svakog pojedinog objekta u kojem se nalazi pravosudno tijelo potrebno je posebno voditi računa o vrsti pravosudnog tijela, broju zaposlenika i dužnosnika, broju stranaka i posjetitelja, lokaciji, okruženju te građevinskim i ostalim svojstvima objekta kao i radnom vremenu pravosudnog tijela, o ispravama koje se u objektu nalaze te stupnju rizika od njihovog otuđenja ili uništenja.
+Priznata pravila u provedbi tehničke zaštite, u smislu ovog Pravilnika, su pravila iz domaćih i stranih propisa ili u praksi provjereni načini pomoću kojih se sprječavaju protupravne radnje usmjerene prema štićenim osobama ili imovini, odnosno smanjuje ili otklanja opasnost od poduzimanja takvih radnji.

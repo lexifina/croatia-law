@@ -1,0 +1,4 @@
+# Članak 10.
+Osobu koja je zatečena u činjenju kaznenog djela službenik pravosudne policije ovlašten je zadržati do dolaska policije.
+Službenik pravosudne policije obavit će pregled zadržane osobe iz stavka 1. ovog članka radi utvrđivanja posjeduje li oružje, eksplozivne naprave, opasno oruđe ili druge opasne tvari, ili predmeta koji služi kao dokaz o počinjenom kaznenom djelu.
+Oružje i predmete iz stavka 2. ovog članka službenik pravosudne policije privremeno će oduzeti i predati policiji, a o zadržanoj osobi će sastaviti izvješće koje sadrži: osobne podatke, mjesto i razlog zadržavanja, način postupanja prigodom provedbe zadržavanja, vrijeme izvješćivanja policije, izdane zapovijedi ovlaštene službene osobe i vrijeme izdavanja zapovijedi, vrijeme predaje zadržane osobe ovlaštenim službenim osobama ministarstva nadležnog za unutarnje poslove i potpis službenika pravo-sudne policije.

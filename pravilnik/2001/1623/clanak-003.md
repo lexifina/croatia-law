@@ -1,0 +1,3 @@
+# Članak 3.
+Službenik pravosudne policije je u obavljanju službe ovlašten, nakon utvrđenja razloga ulaska i odobrenja ovlaštene osobe, ukoliko je potrebno, utvrđivati identitet i obaviti pregled osoba koje ulaze i izlaze iz prostora pravosudnog tijela, ili se nalaze u prostoru pravosudnog tijela, zabraniti unošenje oružja, eksplozivnih naprava i opasnog oruđa te iste oduzeti, udaljiti osobe koje narušavaju propisani red te zadržati i predati policiji osobe koje je zatekao u činjenju kaznenog djela.
+U obavljanju službe i primjeni ovlasti iz prethodnog stavka službenik pravosudne policije ovlašten je uporabiti vatreno oružje i druga sredstva prisile (tjelesnu snagu obrane, sredstva za vezivanje i gumenu palicu) pod uvjetima propisanim ovim Pravilnikom.
