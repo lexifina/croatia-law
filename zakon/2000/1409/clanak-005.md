@@ -1,0 +1,9 @@
+# Članak 5.
+Članak 16. mijenja se i glasi:
+»Novčanom kaznom od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba koja pruža usluge noćenja u smještajnom objektu, ako:
+1. ne dostavi podatke o zaključenim ugovorima o zakupu veza u luci nautičkog turizma turističkoj zajednici općine, grada ili turističkoj zajednici mjesta sukladno članku 5b. stavku 1. ovoga Zakona, ili ne prijavi turističkoj zajednici općine, grada ili turističkoj zajednici mjesta svaku promjenu podataka glede ugovora o korištenju stalnog veza u luci nautičkog turizma, te svaki novi ugovor o korištenju stalnog veza, u roku od 15 dana od dana nastale promjene, odnosno od dana potpisivanja ugovora, uskladno članku 5b. stavku 2. ovoga Zakona,
+2. u svakom pojedinačnom slučaju ne naplati boravišnu pristojbu istodobno s naplatom usluge noćenja u smještajnom objektu i iznos boravišne pristojbe posebno ne označi na računu, ili ako boravišnu pristojbu ne naplati sukladno odredbama članka 11. stavka 1., 2. i 3. ovoga Zakona,
+3. iznos boravišne pristojbe ne uplati uroku od pet dana po isteku svakog tjedna, ili ako iznos boravišne pristojbe ne uplati najkasnije do 30. lipnja tekuće godine za sva plovila na stalnom vezu u luci nautičkog turizma, ili ako iznos boravišne pristojbe ne uplati u roku od tri dana nakon naplate računa za pruženu uslugu, a najkasnije u roku od trideset dana po pruženoj usluzi, na uplatni račun turističke zajednice općine, grada ili turističke zajednice mjesta (članak 13. stavak 1., 2. i 3.),
+4. ne prijavi boravak građanina koji koristi uslugu noćenja u smještajnom objektu sukladno članku 14. stavku 1. ovoga Zakona.
+Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 1.500,00 do 3.000,00 kuna.
+Za prekršaje iz stavka 1. ovoga članka, gospodarski inspektor Državnog inspektorata može naplatiti novčanu kaznu na mjestu izvršenja prekršaja, u iznosu od 2.000,00 kuna.«.
