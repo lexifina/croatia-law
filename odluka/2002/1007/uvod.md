@@ -1,0 +1,1 @@
+Na temelju članka 56. Pomorskog zakonika (»Narodne novine«, br. 17/94, 76/94 i 74/96) i članka 8. stavka 1. Zakona o morskim lukama (»Narodne novine«, br. 108/95 i 97/2000), Vlada Republike Hrvatske je, na sjednici održanoj 9. svibnja 2002. godine, donijela
