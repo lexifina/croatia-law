@@ -1,0 +1,4 @@
+# Članak 3.
+OBVEZA MIROLJUBIVOG KORIŠTENJA I GARANCIJE
+1. Vlada se obvezuje da će tehničku pomoć koju primi prema ovom Sporazumu koristiti samo za miroljubivu primjenu atomske energije i, naročito, da takvu , pomoć ne bude korištena za proizvodnju nukleamog oružja, za unapredenje bilo kakvog vojnog cilja i korištenja koja bi mogla doprinijeti širenju nuklearnog oružja, kao što su istraživanja, razvoj, ispitivanja ili proizvodnja nukleamih eksplozivnih sredstava.
+2. U tu svrhu i u granicama koje je postavilo Vijeće guvernera Agencije, prava i odgovornosti Agencije glede garancija navedeni u stavku A. članka XII njenog Statuta, bit će provedenii održavani glede projekta na koji se primjenjuje ovaj Sporazum, u skladu s Ugovorom o garancijama koji je na snazi izmedu Vlade i Agencije ili, u nedostatku takvog spotžazuma, u skladu sa Sporazumom o garancijama izmedu Vlade i žAgencije, zakIjučenom prije provedbe pomoći odobrene za projekt.
