@@ -1,0 +1,2 @@
+# Članak 4.
+Domaće fizičke osobe koje su na privremenom radu u inozemstvu provele najmanje dvije godine neprekidno odnosno boravile najmanje četiri godine po bilo kojoj osnovi, kao i strani državljani koji su dobili odobrenje za trajno nastanjenje u Hrvatsku, mogu u roku od jedne godine od dana povratka iz inozemstva, odnosno dana dobijanja odobrenja,. slobodno uvoziti robu iz članka 1. i 3. ove uredbe, uključujući i motorna vozila i plovila.

@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91), Vlada Republike Hrvatske, na sjednici 30. travnja 1992., donijela je
