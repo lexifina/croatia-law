@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", broj 53/91) I članka 45b. Zakona o vrijednosnim papirima ("Službeni list SFRJ", broj 64/89 I 29/90), Vlada Republike Hrvatske na sjednici održanoj 22. studenoga 1991. donijela je
