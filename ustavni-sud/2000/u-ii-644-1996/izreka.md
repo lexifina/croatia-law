@@ -1,0 +1,3 @@
+R J E Š E N J E
+1. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom odredaba članaka 18., 60. stavka 1., 70. stavka 1. točke 1. i 103. stavka 3. Pravilnika o porezu na dodanu vrijednost (“Narodne novine”, br. 60/96, 113/97, 7/99, 112/99, 119/99, 44/00, 63/00 i 80/00) te Pravilnika o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost (“Narodne novine”, br. 113/97).
+2. Obustavlja se postupak u povodu prijedloga za pokretanje postupka ocjene suglasnosti s Ustavom i zakonom odredaba članka 82. stavaka 2. i 3. Pravilnika o porezu na dodanu vrijednost (“Narodne novine”, br. 60/96,113/97, 7/99, 112/99, 119/99, 44/00, 63/00 i 80/00).
