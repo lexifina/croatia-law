@@ -1,0 +1,2 @@
+# Članak 26.
+Sve što magistar farmacije pri obavljanju ljekarničke djelatnosti sazna o korisniku, a u vezi s njegovim zdravstvenim stanjem, mora čuvati kao ljekarničku tajnu i može je otkriti, ako posebnim zakonom nije drukčije propisano, samo uz odobrenje korisnika, roditelja ili skrbnika za malodobne osobe, a u slučaju njegove psihičke nesposobnosti ili smrti, uz odobrenje uže obitelji, skrbnika ili zakonskoga zastupnika.

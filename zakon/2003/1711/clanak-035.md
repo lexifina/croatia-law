@@ -1,0 +1,20 @@
+# Članak 35.
+Komora obavlja sljedeće poslove:
+1. donosi Kodeks ljekarničke etike i deontologije,
+2. donosi Pravila dobre ljekarničke prakse,
+3. prati i nadzire provođenje pravila ljekarničke etike i deontologije i dobre prakse u ljekarničkoj djelatnosti i poduzima odgovarajuće mjere u slučaju njihovog kršenja,
+4. daje stručna mišljenja i sudjeluje kod pripreme propisa iz područja ljekarničke djelatnosti,
+5. daje prijedlog plana potrebnih kadrova ministru nadležnom za zdravstvo,
+6. sudjeluje pri utvrđivanju standarda i normativa ljekarničkih usluga,
+7. pruža zaštitu građanima u ostvarivanju prava s obzirom na kakvoću, sadržaj i vrstu ljekarničke usluge koja im se pruža,
+8. organizira dodatno usavršavanje za proširenje djelatnosti unutar struke s obzirom na nove metode ljekarništva,
+9. organizira trajno stručno usavršavanje za magistre farmacije i provodi provjeru stručnosti,
+10. zastupa interese svojih članova kod sklapanja ugovora s Hrvatskim zavodom za zdravstveno osiguranje i drugim osiguravateljima,
+11. propisuje način oglašavanja i način isticanja naziva privatne prakse,
+12. utvrđuje način oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja sa Hrvatskim zavodom za zdravstveno osiguranje,
+13. daje suglasnost na oblikovanje cijena lijekova i drugih sredstava iz dobrovoljnog osiguranja koje određuje ugovorom društvo za osiguranje,
+14. daje prethodno mišljenje na akt Hrvatskoga zavoda za zdravstveno osiguranje kojim se utvrđuje način provođenja plana i programa mjera zdravstvene zaštite, formiranje cijena zdravstvene zaštite i drugih osnova za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima koji čine mrežu zdravstvene djelatnosti,
+15. brine za pravnu pomoć svojim članovima,
+16. brine se o materijalnim i drugim interesima svojih članova,
+17. koordinira odnose među članovima te sudjeluje u rješavanju eventualno nastalih sporova,
+18. obavlja i druge poslove određene zakonom.
