@@ -1,0 +1,1 @@
+Na temelju članka 23. Zakona o Vladi Republike Hrvatske ("Narodne novine". br. 41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92), a u svezi sa člankom 16. Zakona o platnom prometu u zemlji ("Narodne novine", broj 27/93), Vlada Republike Hrvatske je na sjednici održanoj 2. prosinca 1993. donijela
