@@ -1,0 +1,2 @@
+ODLUKU
+1. Odbija se prijedlog Hotelsko-turističkog poduzeća "Rivijera" iz Šibenika i Šumskog gospodarstva "Dalmacija" Split, Osnovne organizacije udruženog rada "Šumarija" Šibenik iz Šibenika da se ukinu točka 27. stav 6. i točka 37. stav 2. provedbenih odredbi Odluke o donošenju Prostornog plana Nacionalnog parka "Krka" ("Narodne novine", br. 1 /90). 2. Ova će se odluka objaviti u "Narodnim novinama".
