@@ -1,0 +1,4 @@
+# Članak 53.
+(1) Priređivanje igara na sreću na automatima u automat-klubovima sezonski može obavljati koncesionar igara na sreću u casinima i automat-klubovima najdulje šest mjeseci i to najviše u dva automat kluba.
+(2) Koncesionar igara na sreću u automat-klubu mora u sudskom registru imati upisan temeljni kapital u vrijednosti od 1.000.000,00 kuna, a ako ima pravo priređivanja neke druge igre na sreću iz članka 3. ovoga Zakona, mora imati upisan i temeljni kapital za tu drugu igru na sreću.
+(3) Radi osiguranja isplata dobitaka igračima i podmirenja obveza, priređivač igara na sreću u automat-klubu, osim Hrvatske lutrije d.o.o., mora za svaki automat-klub, u razdoblju za koje je koncesija dana, te 30 dana nakon isteka koncesije, imati neprekidno u banci sa sjedištem u Republici Hrvatskoj jamstveni polog u iznosu najmanje 20% vrijednosti utvrđene u stavku 2. ovoga članka. Jamstveni polog može se osigurati i jamstvom banke.

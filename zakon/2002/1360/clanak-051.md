@@ -1,0 +1,6 @@
+# Članak 51.
+(1) Opis klađenja i uvjete za sudjelovanje u klađenju priređivač je dužan propisati pravilima klađenja u skladu s odredbama članka 13. i 16. ovoga Zakona. Pravila klađenja moraju biti istaknuta na uplatnom mjestu kladionice.
+(2) Trgovačko društvo, osim Hrvatske lutrije d.o.o., kojemu se daje koncesija za priređivanje klađenja, mora imati upisan temeljni kapital najmanje u vrijednosti 3.000.000,00 kuna. Ako društvo ima pravo priređivanja neke druge igre na sreću iz članka 3. ovoga Zakona, mora imati upisan propisani temeljni kapital i za drugu igru na sreću koju priređuje.
+(3) Radi osiguranja isplate dobitaka igračima i podmirenja obveza, priređivač, osim Hrvatske lutrije d.o.o., mora za dobivenu koncesiju imati u banci sa sjedištem u Republici Hrvatskoj jamstveni polog u iznosu 5.000.000,00 kuna. Jamstveni polog za svakih 50 uplatnih mjesta povećava se za 1.000.000,00 kuna. Jamstveni polog može se osigurati i jamstvom banke.
+(4) Uplate za klađenje primaju se na uplatnim mjestima kladionica i putem terminala za klađenje.
+(5) Ostale uvjete koje mora ispuniti priređivač igara na sreću u sjedištu kladionica, te uvjete za dobivanje odobrenja za primanje uplata za klađenje propisat će ministar financija.

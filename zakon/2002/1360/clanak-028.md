@@ -1,0 +1,2 @@
+# Članak 28.
+Zahtjevu za izdavanje odobrenja priređivač iz članka 25. ovoga Zakona mora priložiti izvadak iz općeg akta iz kojega je vidljiva djelatnost priređivača, odluku ovlaštenog tijela priređivača o priređivanju igre na sreću s navođenjem odgovorne osobe, pravila lutrijske igre na sreću, te financijski izračun iz kojeg je vidljivo koliko se najmanje srećaka mora prodati da bi se osigurala isplata dobitaka i plaćanje proračunskih prihoda.

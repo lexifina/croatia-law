@@ -1,0 +1,25 @@
+# Članak 72.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. ako pravila lutrijske igre na sreću ne objavi prije početka prodaje srećaka (članak 18.),
+2. ako promjenu mjesta ili odgodu dana izvlačenja dobitaka ne objavi na jednak način na koji su objavljena pravila o priređivanju igre na sreću (članak 20. stavak 2.),
+3. ako otkaže priređivanje igre na sreću, kolo ili seriju pojedine igre za koju je počela prodavati srećke, a ne vrati primljeni novac od prodaje srećaka (članak 20. stavak 4.),
+4. ako zapisnik o tijeku izvlačenja ne dostavi nadležnom tijelu u roku (članak 21. stavak 2.),
+5. ako izvješće o rezultatima izvlačenja ili utvrđivanja dobitka ne objavi u roku ili na propisani način (članak 22.),
+6. ako nadležnom tijelu ne omogući odlučivanje o namjeni dobitka nakon nastanka zastare, u propisanom roku (članak 24. stavak 2., 3. i 4.),
+7. ako naknade za priređivanje igara na sreću netočno obračuna ili ne plati u propisanom roku (članak 38., 49., i 56.),
+8. ako na propisanim obrascima ne osigura podatke o dnevnim osnovicama naknade i napojnica te ako podatke iz evidencije s dokazima o uplati ne dostavlja u propisanom roku (članak 39.),
+9. ako ne vodi dnevno izvješće o radu odvojeno za svaku napravu (članak 39. stavak 1.),
+10. ako ne osigura nadzor i recepcijsku službu ili ne vodi posebnu evidenciju o igračima (članak 42.),
+11. ako trajno ne osigura prikladnu provedbu nadzora audio-video uređajima i drugim sličnim tehničkim sredstvima nad priređivanjem pojedinih igara na sreću u casinu te nad blagajničkim poslovanjem i dnevnim obračunom (članak 42. stavak 1. i 2.),
+12. ako pravila igre na sreću u casinu, na uplatnom mjestu kladionice ili u automat-klubu nisu igračima na raspolaganju (članak 44. stavak 3., članak 51. stavak 1. i članak 58. stavak 3.),
+13. ako se u prostoru casina ili automat-kluba zatekne osoba mlađa od 18 godina (članak 45.),
+14. ako ne donese akte o pravima i obvezama zaposlenika u svezi s vođenjem pojedinih igara (članak 46.),
+15. ako zaposli osobu koja nema potvrdu o stručnoj osposobljenosti za rad u casinu (članak 46. stavak 1.),
+16. ako uplate za klađenje prima na uplatnom mjestu za koje nema odobrenje Ministarstva financija (članak 48. točka 3.),
+17. ako u uporabu stavi tehnički neispravan automat za igre na sreću ili ako igračima ne isplaćuje najmanje 80% od vrijednosti uplata (članak 59. stavak 1. i 2. i članak 63.),
+18. ako stavi u uporabu automate za igre na sreću kojima kontrolni uređaji uplate, isplate i igre te dijelovi koji utječu na rezultat igre nisu plombirani ili automate za igre na sreću bez total-registra za upis i osiguranje podataka o sveukupnom radu ili bez ugrađena elektroničkoga kontrolnog uređaja (članak 59. stavak 3. i 4.),
+19. ako ovlaštenim službenicima Ministarstva financija onemogućuje plombiranje programskih ploča, zapis podataka o sveukupnom radu te obavljanje drugih poslova (članak 60. stavak 7.),
+20. ako uporabi automat ili stol za igre na sreću na kojima na vidnom mjestu nije istaknuta posebna markica (članak 61. stavak 1.),
+21. ako nadležnom tijelu ne prijavi u propisanom roku svaki stol ili automat za igre na sreću (članak 62.),
+22. ako postupa protivno zabrani u svezi s inozemnim igrama na sreću (članak 68.).
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5.000,00 do 50.000,00 kuna.

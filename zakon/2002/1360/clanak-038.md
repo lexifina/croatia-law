@@ -1,0 +1,10 @@
+# Članak 38.
+(1) Za priređivanje igara na sreću u casinima plaća se koncesijska naknada.
+(2) Naknada za priređivanje igara na sreću u casinima obračunava se mjesečno od prihoda igara na sreću za svaku igru posebno, a osnovica za obračun koncesijske naknade predstavlja zbroj dnevnih obračuna za pojedinu vrstu igre (kumulativno). Koncesionar podnosi mjesečno izvješće po vrstama igre. Mjesečni obračun je konačan.
+(3) Dnevni obračun po pojedinom stolu za igru na sreću vrši se na način da se završno stanje vrijednosti žetona na stolu uveća za svotu novca zamijenjenog za žetone na stolu, koji se sprema u posebne kutije (drop), i iznosa visine kredita, te umanji za dopunu u žetonima (dotaciju) za vrijeme rada stola i vrijednost početnog stanja žetona na stolu (završno stanje + drop + krediti - dotacije - početno stanje = dnevni obračun stola). Zbroj dnevnih obračuna svih istovrsnih stolova i svih aparata predstavlja dnevni obračun za pojedinu vrstu igre.
+(4) Dnevni obračun pojedinog automata za igre na sreću utvrđuje se tako da se iznos svih uplata umanji za iznos isplaćenih dobitaka igračima, a razlika predstavlja dnevni obračun za pojedini automat za igre na sreću. Zbroj dnevnih obračuna svih istovrsnih stolova i svih automata predstavlja dnevni obračun za pojedinu vrstu igre.
+(5) U osnovicu za obračun koncesijske naknade ne ulazi vrijednost ulaznica, napojnica i promidžbenih žetona koje izdaje casino uz odobrenje Ministarstva financija. Vrijednost promidžbenog žetona ne može biti viša od vrijednosti najnižeg iznosa žetona propisanog pravilima igre casina.
+(6) Ulaznica iz stavka 5. ovoga članka smatra se računom koji se ne može zamijeniti na stolovima za vrijednosne žetone, niti za novac u casinu.
+(7) Koncesijska naknada za priređivanje igara u casinima iznosi 15% od osnovice za obračun naknade iz stavka 2. ovoga članka.
+(8) Naknada za priređivanje igara na sreću u casinu dospijeva petnaestog dana kalendarskog mjeseca za prethodni mjesec.
+(9) Naknada za priređivanje igara na sreću u casinu prihod je državnog proračuna.

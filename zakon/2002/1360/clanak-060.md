@@ -1,0 +1,8 @@
+# Članak 60.
+(1) Prije stavljanja automata za igre na sreću u uporabu obavlja se tehnički pregled, o čemu se izdaje potvrda. Način obavljanja tehničkog pregleda automata za igre na sreću i uvjete koje moraju ispunjavati pravne osobe ovlaštene za tehnički pregled propisat će ministar financija.
+(2) Pravna osoba koja u uporabu stavlja automate koji se prvi put stavljaju u uporabu obvezna je osobi ovlaštenoj za tehnički pregled dati na uvid potvrdu i jamstvo proizvođača automata.
+(3) Pravna osoba ovlaštena za tehnički pregled ne smije obaviti tehnički pregled automata ako joj se ne stave na uvid isprave navedene u stavku 2. ovoga članka.
+(4) Tehnički pregled automata za igre na sreću mogu obavljati pravne osobe koje se ne bave djelatnošću priređivanja igara na sreću i iznajmljivanje automata, i to na temelju posebne ovlasti koju daje Ministarstvo financija.
+(5) Potvrda o ispravnosti automata za igre na sreću vrijedi godinu dana i mora se obnoviti prije isteka toga roka.
+(6) Potvrda o ispravnosti automata mora se obnoviti nakon zamjene programske ploče automata, popravka automata i ponovnog stavljanja u uporabu.
+(7) Plombiranje kontrolnih uređaja uplate, isplate, igre i dijelova koji utječu na rezultat igre, programske ploče, zapis početnih i završnih podataka te podataka o sveukupnom radu automata iz kontrolnog uređaja, odnosno total-registra automata za igre na sreću za potrebe nadzora rada priređivača, zapise u slučaju zamjene programske ploče automata, popravaka, privremenog ili trajnog prestanka priređivanja igara na sreću pri promjeni lokacije i u drugim slučajevima obavljaju ovlašteni službenici Ministarstva financija.
