@@ -1,0 +1,2 @@
+# Članak 7.
+Prijedlog za dodjelu Nagrade mora biti pismeno obrazložen. Obrazloženje prijedloga mora sadržavati osnovne podatke o pojedincu, o grupi pojedinaca ili o organizaciji koji se predlažu za Nagradu, te iscrpan opis i prosudbu njihove djelatnosti i postignutih rezultata, kao i druge dokaze i razloge za dodjelu Nagrade. Ako pojedini prijedlog za dodjelu Nagrade nije obrazložen ili obrazloženje ne sadrži dovoljno elemenata za odlučivanje, Odbor može zatražiti od predlagača da dopuni svoj prijedlog.

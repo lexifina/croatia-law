@@ -1,0 +1,3 @@
+# Članak 10.
+Odbor radi i odlučuje u sjednicama.
+Predsjednik Odbora priprema i saziva sjednice Odbora i rukovodi radom na sjednicama. Predsjedniku Odbora u pripremi sjednica i obnašanju stručnih i administrativno-tehničkih poslova pomaže načelnik Odjela za tehničku kulturu Ministarstva kulture i prosvjete, koji sudjeluje u radu Odbora bez prava odlučivanja. U slučaju odsutnosti predsjednika, radom Odbora rukovodi član Odbora kojeg odredi predsjednik ili kojeg, ako predsjednik to ne učini, članovi Odbora nazočni na sjednici biraju izmedu sebe. Odbor o dodjeli Nagrade odlučuje tajnim glasovanjem.

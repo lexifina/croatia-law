@@ -1,0 +1,3 @@
+## II. KRITERIJI ZA DODJELU NAGRADE
+# Članak 3.
+Nagrada za životno djelo dodjeljuje se istaknutim pojedincima za trajan doprinos i ukupnu djelatnost u razvoju tehničke kulture, kao i za izuzetne rezultate trajne vrijednosti na unapređivanju i razvoju znanstvenog i tehničkog opismenjivanja. te u razvitku tehnologije i tehničkog stvaralaštva u Republici Hrvatskoj i svijetu. Temelj za dodjelu nagrade za životno djelo, pored navedenoga, jest djelovanje u tehničkoj kulturi u duljem vremenskom razdoblju - tijekom profesionalne karijere ili drugog dobrovoljnog sudjelovanja u udrugama tehničke kulture, te javna prepoznatljivost i priznatost prinosa.

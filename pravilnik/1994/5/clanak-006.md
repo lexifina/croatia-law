@@ -1,0 +1,2 @@
+# Članak 6.
+Prijedloge za dodjelu Nagrade mogu podnositi građani Republike Hrvatske, javni i drugi djelatnici u tehničkoj kulturi, udruge i druge pravne osobe u tehničkoj kulturi, znanstvene ustanove i ostale pravne osobe koje imaju sjedište u Republici Hrvatskoj. Prijedlog za dodjelu Nagrade iznimno može dati upravno tijelo svjetske ili europske asocijacije tehničke kulture i sam Odbor za dodjelu nagrade tehničke kulture.

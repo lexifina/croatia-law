@@ -1,0 +1,2 @@
+# Članak 2.
+Nagrada se dodjeljuje kao godišnja nagrada i kao nagrada za životno djelo. Godišnje se dodjeljuje jedna nagrada za životno djelo, do deset godišnjih nagrada pojedincima i do pet godišnjih nagrada udrugama tehničke kulture, poduzećima i drugim pravnim osobama. Odbor za dodjelu Nagrade može odlučiti da se godišnje nagrade dodjeljuju za određena područja sukladno članku 4. stavak 1. ovoga Pravilnika.
