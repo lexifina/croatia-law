@@ -1,2 +1,2 @@
 # Članak 6.
-Osoba iz članka 2. ovoga zakona može zahtjev za priznanje prava iz mirovinsko-invalidskog osiguranja i zahtjev za naknadu štete podnijeti Vladi Republike Hrvatske u roku od 2 godine dana od dana stupanja na snagu ovoga zakona.
+Zahtjev za priznavanje prava, prema ovom Zakonu, osoba iz članka 2. ovoga Zakona može podnijeti u roku od 4 godine od stupanja na snagu Zakona o izmjenama i dopunama Zakona o pravima političkih zatvorenika ("Narodne novine" br. 76/93).
