@@ -1,0 +1,2 @@
+# Članak 5.
+Ostvarivanje prava na jednokratnu novčanu pomoć po odredbama ovoga Pravilnika ne isključuje pravo na naknade materijalne i nematerijalne štete pripadnicima Oružanih snaga koji u miru u obavljanju službe ili u svezi sa službom bez svoje krivnje zadobiju ranu ili ozljedu odnosno obitelji pripadnika Oružanih snaga koji pogine ili umre od zadobivene rane ili ozljede, ali se na odgovarajući način uzima u obzir prilikom određivanja iznosa materijalne štete u postupku sklapanja izvansudske nagodbe odnosno u parničnom postupku pred nadležnim redovnim sudom.
