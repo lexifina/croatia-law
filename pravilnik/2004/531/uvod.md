@@ -1,0 +1,1 @@
+Na temelju članka 84. stavka 1. točka 1. i članka 84. stavak 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj: 94/01 i 122/02) uz suglasnost ministra zdravstva i socijalne skrbi Republike Hrvatske, ministrica obitelji, branitelja i međugeneracijske solidarnosti, donosi
