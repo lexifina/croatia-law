@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 1. Ustava Republike Hrvatske, članka 64. stavka 2. Zakona o obrani ("Narodne novine", br. 74/93. - pročišćeni tekst i br. 57/96.) i članka 105. stavka 2. Zakona o službi u oružanim snagama Republike Hrvatske ("Narodne novine" broj 23/95. i 33/95.) donosim
