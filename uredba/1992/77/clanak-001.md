@@ -1,0 +1,3 @@
+## o dopuni Uredbe o davanju posebnih kredita individualnim poljoprivrednim proizvođačima
+# Članak 1.
+U Uredbi o davanju posebnih kredita individualnim poljoprivrednim proizvođačima ("Narodne novine", broj 58/91), u članku 6. iza stavka 2. dodaje se novi stavak 3. koji glasi : "Ako banka ne odobrava kredite individualnim poljoprivrednim proizvođačima iz korištenih sredstava primarne emisije Narodne banke Hrvatske, već odobrava iz vlastitih sredstava, banci se osiguravaju sredstva iz proračuna Republike Hrvatske za nadoknadu razlike u kamatama i to u visini razlike između kamata od 30% eskontne stope Narodne banke Hrvatske i bančine kamate, ali najviše u visini zatezne kamate". Dosadašnji stavci 2. do 6. postaju stavci 3. do 7.
