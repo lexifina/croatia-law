@@ -1,0 +1,5 @@
+# Članak 17.
+Ugovorne stranke osigurat će, svaka na svom teritoriju, zaštitu i ostvarivanje prava za osobe koje pripadaju hrvatskoj nacionalnoj manjini u Rumunjskoj i za osobe koje pripadaju rumunjskoj nacionalnoj manjini u Republici Hrvatskoj, a u skladu s dokumentima Konferencije o europskoj sigurnosti i suradnji, međunarodnim sporazumima potvrđenim od obje ugovorne stranke i općeprihvaćenim pravilima međunarodnog prava.
+Pripadnost nacionalnoj manjini ne oslobađa osobe predviđene u prethodnom stavku od dužnosti lojalnosti državi čiji su građani i poštivanju njenog nacionalnog zakonodavstva pod jednakim uvjetima koji vrijede i za druge građane svake ugovorne stranke.
+Ugovorne stranke obvezuju se u dobroj vjeri primjenjivati međunarodne strandarde koji se odnose na zaštitu etničkog, kulturnog, jezičnog i vjerskog identiteta osoba koje pripadaju nacionalnim manjinama i ne poduzimati djelatnosti koje bi mogle biti u suprotnosti s duhom i slovom ovog Ugovora.
+Svaka ugovorna stranka obvezuje se da neće dopustiti da se izražavanje prava na udruživanje za osobe pripadnike nacionalne manjine koristi protiv interesa druge ugovorne stranke.

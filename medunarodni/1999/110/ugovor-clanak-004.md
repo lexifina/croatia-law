@@ -1,0 +1,3 @@
+# Članak 4.
+Ukoliko jedna od ugovornih stranaka ocijeni da je nastupila situacija koja ugrožava njenu suverenost, teritorijalnu cjelovitost ili bitne interese sigurnosti, ugovorne stranke će odmah pristupiti savjetovanju kako bi pronašle prihvatljivo rješenje u duhu Povelje Ujedinjenih naroda i načela Konferencije o europskoj sigurnosti i suradnji.
+U slučaju nastanka takve situacije koja bi po mišljenju jedne od ugovornih stranaka predstavljala prijetnju međunarodnom miru i sigurnosti u regiji, one će se savjetovati i uskladiti aktivnosti kako bi pridonijele prihvatljivom rješenju sukladno načelima Povelje Ujedinjenih naroda, Završnog akta helsinške konferencije i Pariške povelje o novoj Europi.
