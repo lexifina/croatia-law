@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Radijske postaje za emitiranje televizijskog i radijskog programa spadaju u složene sustave jer rade na osnovi planski određenih elemenata koji određuju pokrivanje svake radijske postaje. Za te postaje se izdaje dozvola za postavljanje radijske postaje.
+(2) Iznimno, za radijske postaje iz stavka 1. ovoga članka, čija je efektivna izračena snaga-ERP (u daljnjem tekstu: ERP) manja od 5 W i to u slučaju kada nema posebno navedenog ograničenja ERP-a, te kada se radijska postaja nalazi izvan zone međunarodnog usklađivanja, izdavat će se samo dozvola za radijsku postaju, t.j. neće se, prije toga, izdavati i dozvola za postavljanje.
