@@ -1,0 +1,3 @@
+RJEŠENJE
+1. Obustavlja se postupak za ocjenu ustavnosti i zakonitosti odredaba članka 8. Odluke o morskom ribarstvu ("Službeni glasnik" Općine Ploče, broi 6/1989. 2/1990) pokrenut rješenjem ovog Suda broj U-II-62/1992. na sjednici Suda 7. srpnja 1993.
+2. Pokreće se postupak za ocjenu ustavnosti i zakonitosti - članka 1. stavak 1. Odluke o izmjeni i dopuni Odluke o morskom ribarstvu ("Službeni glasnik" Grada Ploče, broj 3/1993) i - Odluke o vađenju školjkaša i davanju na korištenje ribolovnog rriora na području Grada Ploče ("Službeni glasnik" Grada Ploče, broj 3/1993). 3. Ovo će se rješenje objaviti u "Narodnim novinama" i u "Službenom glasniku" Grada Ploče.
