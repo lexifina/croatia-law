@@ -1,0 +1,1 @@
+Na temelju članka 30a. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« broj 117/93., 69/97., 33/00., 127/00., 59/01. i 107/01.) i članka 21. Statuta Općine Sv. Lovreč (»Službeni glasnik Grada Poreča« broj 8/01), Općinsko vijeće Općine Sv. Lovreč na sjednici održanoj 6. svibnja 2004. godine donosi
