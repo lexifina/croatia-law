@@ -1,0 +1,3 @@
+# Članak 4.
+Iznimno, sjeme iz članka 2. stavka 1. ovog Pravilnika koje se uvozi, može biti tretirano i sredstvom za zaštitu bilja one djelatne tvari, koja ima dozvolu za tu namjenu u zemljama Europske unije ili OECED-a.
+Za sjeme iz stavka 1. ovog članka, uvoznik mora podnijeti zahtjev Ministarstvu poljoprivrede i šumarstva, radi dozvole uvoza. Uvoznik je dužan u zahtjevu priložiti dokaz da je sredstvo za zaštitu bilja kojim je tretirano sjeme registrirano za tu namjenu u zemlji izvoznici sukladno stavku 1. ovog članka i stručno mišljenje o opravdanosti primjene toga sredstva od Zavoda za zaštitu bilja u poljoprivredi i šumarstvu Republike Hrvatske.
