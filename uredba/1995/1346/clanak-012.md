@@ -1,0 +1,2 @@
+# Članak 12.
+Povratnik ili izbjeglica koji se vratio u svoj stan iti obiteljsku kuću, kao i povratnik ili izbjeglica koji je temeljem rješenja nadležne komisije dobio privremeno u posjed i na korištenje napuštenu stambenu zgradu ili stan ili u najam stan na oslobođenom teritoriju, dužan se javiti nadležnom centru za socijalni rad ili regionalnom uredu za prognanike i izbjeglice u roku 3 dana ako želi koristiti prava iz članka 8. ove Uredbe.

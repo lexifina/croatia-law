@@ -1,0 +1,5 @@
+# Članak 2.
+Prognanicima i izbjeglicama, kojima je stan ili obiteljska kuća u mjestu prebivališta neoštećena, a nalazi se u naselju za koje je Vlada Republike Hrvatske na prijedlog odgovarajuće županije utvrdila da su ispunjeni uvjeti za povratak, i koji se ne vrate u stan ili kuću u mjestu prebivališta do 30. studenoga 1995. godine, prestaje status prognanika i izbjeglica stečen na temelju Zakona o statnsu prognanika i izbjeglica ("Narodne novine", br. 96/93 i 39/95).
+Prognanici i izbjeglice kojima je stan ili obiteljska kuća I., II., III. i IV. te stan V. ili VI. stupnja oštećenja, imaju pravo, u smislu ove Uredbe, podnijeti zahtjev za kredit za obnovu do 30. studenoga 1995. godine. Uz zahtjev dužni su prijaviti štetu.
+Prognanici i izbjeglice kojima je obiteljska kuća V. ili VI. stupnja oštećenja, imaju pravo, u smislu ove Uredbe, podnijeti zahtjev za obnovu i s Ministarstvom razvitka i obnove sklopiti ugovor o obnovi obiteljske kuće do 31. prosinca 1995. godine.
+Prognanicima i izbjeglicama koji ne postupe u smislu stavaka 2. i 3. ovoga članka prestaje status prognanika ili izbjeglice istekom navedenih rokova.
