@@ -1,0 +1,2 @@
+# Članak 51.
+Ako nadzornik utvrdi da je povredom propisa učinjen prekršaj odnosno privredni prijestup ili kazneno djelo, uz rješenje za čije donošenje je ovlašten, odnosno uz zapisnik, ako ne postoji ovlaštenje za donošenje rješenja, dužan je bez odgađanja, a najkasnije u roku 8 dana od dana sastavljanja zapisnika, podnijeti prekršajnu prijavu Ministarstvu ili drugom nadležnom tijelu, odnosno prijavu za privredni prijestup ili kaznenu prijavu nadležnom tijelu.

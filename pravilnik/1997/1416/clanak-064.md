@@ -1,0 +1,11 @@
+# Članak 64.
+Novčanom kaznom od 500,00 kn kaznit će se na mjestu izvršenja prekršaja osoba ako:
+1. obavlja podvodne aktivnosti bez odobrenja Ministarstva (članak 10.);
+2. lovi školjkaše i druge vodene organizme bez dopuštenja Ministarstva (članak 15.);
+3. nosi vatreno oružje odnosno drugo oružje pogodno za lov (članak 17. stavak 1.);
+4. loži vatru izvan naselja i mjesta koja su posebno označena i određena za tu namijenu (članak 21. stavak 1.);
+5. odlaže građevinski otpadni materijal, industrijski kućni otpad, te ispušta tekućine i upotrebljava kemijska sredstva kojima se može ugroziti biljni i životinjski svijet, te čistoća vode (članak 23.);
+6. obavlja djelatnost na području Nacionalnog parka bez odobrenja (članak 31. stavak 2.);
+7. snima ili fotografira u komercijalne svrhe bez odobrenja Ustanove (članak 32. stavak 1.);
+8. obavlja ribolov (članak 11. stavak 1.);
+9. uđe plovilom u vode Nacionalnog parka bez odobrenja Ustanove (članak 4. stavak 1.).

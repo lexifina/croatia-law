@@ -1,0 +1,2 @@
+# Članak 45.
+Nadzornik je u obavljanju nadzora odgovoran ravnatelju Ustanove i Ministarstvu ako propusti poduzeti, odnosno odrediti mjere ili radnje, koje je po zakonu ili ovom Pravilniku bio dužan poduzeti, odnosno odrediti, ako prekorači svoje zakonom i ovim Pravilnikom utvrđene ovlasti, ako ne podnese prijavu, odnosno ne obavijesti ravnatelja odnosno Ministarstvo, a po potrebi i drugo tijelo, o nedostacima koje je utvrdio u provođenju nadzora u Nacionalnom parku.
