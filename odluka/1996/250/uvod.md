@@ -1,0 +1,1 @@
+Na temelju članka 1. stavka 2. Zakona o zaštitnim pristojbama pri uvozu poljoprivrednih i prehrambenih proizvoda ("Narodne novine", broj 36/95), Vlada Republike Hrvatske je na sjednici održanoj 22. veljače 1996. godine donijela
