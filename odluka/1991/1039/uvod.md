@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi ("Narodne novine", br. 27/91) Vlada Republike Hrvatske na sjednici održanoj 29. srpnja 1991. donijela je
