@@ -1,0 +1,6 @@
+# Članak 23.
+METODE IZBJEGAVANJA DVOSTRUKOG OPOREZIVANJA
+1. Kad rezident Republike Hrvatske stječe dohodak koji se u skladu s odredbama ovog Ugovora može oporezivati u Kini, Republika Hrvatska će odobriti odbitak od poreza na dohodak tog rezidenta u iznosu koji je jednak porezu na dohodak plaćenom u Kini, bilo izravno bilo odbitkom. Takav odbitak ne smije, međutim, biti veći od iznosa poreza na dohodak (koji je utvrđen prije odbitka) koji se može pripisati dohotku koji je oporeziv u Kini.
+2. U Kini dvostruko oporezivanje bit će izbjegavano kao što slijedi:
+a) Kad rezident Kine ostvaruje dohodak iz Hrvatske iznos poreza plaćenog na taj dohodak u Hrvatskoj, u skladu s odredbama ovog Ugovora, može se izuzeti od kineskih poreza koji se primjenjuju na tog rezidenta. Iznos odbitka ne može prijeći iznos kineskog poreza na taj dohodak izračunatog u skladu s kineskim poreznim zakonima i propisima.
+b) Kad je prihod ostvaren u Hrvatskoj dividenda plaćena od poduzeća rezidenta Hrvatske, poduzeću rezidentu Kine i koje ima u svom vlasništvu najmanje 10% udjela u poduzeću koje plaća dividendu, kao odbitak će se uzeti porez plaćen u Hrvatskoj što je platilo poduzeće koje je isplatilo dividendu s obzirom na dobit iz koje je plaćena dividenda.
