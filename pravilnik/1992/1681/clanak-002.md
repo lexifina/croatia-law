@@ -1,0 +1,2 @@
+# Članak 2.
+Predmetima domaćinstva prema članku 1. ovog pravilnika smatraju se i drugi predmeti koje su korisnik povlastice i članovi njegovog domaćinstva koristili u svom domaćinstvu u inozemstvu, ako vjerodostojnim ispravama ili na drugi odgovarajući način dokažu da su ih u inozemstvukoristili najmanje godinu dana prije podnošenja zahtjeva za ostvarivanje prava na carinsku povlasticu po osnovi članka 27. stavak 1. točka 3. i 4. Carinskog zakona.

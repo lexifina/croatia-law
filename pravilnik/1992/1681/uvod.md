@@ -1,0 +1,1 @@
+Na temelju članka 27. stavak 1. točka 3. i 4. Carinskog zakona ("Narodne novine", br. 53A/91, 33/92, 40/92 i 61/92) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 41/90, 47/90 i 53A/91), ministar financija donosi

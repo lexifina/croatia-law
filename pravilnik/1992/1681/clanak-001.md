@@ -1,0 +1,54 @@
+## o vrsti i količini predmeta domaćinstva koji se mogu uvoziti temeljem carinske povlastice iz članka 27. stavak 1. točka 3. i 4. Carinskog zakona
+# Članak 1.
+1. Stranci koji su stekli hrvatsko državljanstvo, odnosno boravak po osnovi trajnog nastanjenja ili boravak po osnovi priznatog statusa izbjeglice u Republici Hrvatskoj, osim osoba koje su po propisima bivše SFRJ smatrane jugoslavenskim državljanima (članak 27. stavak 1. točka 3. Carinskog zakona) i hrvatski državljani - članovi posada brodova te hrvatski državljani i stranci koji su po propisima bivše SFRJ smatrani jugoslavenskim državljanima, a na dan 8. listopada 1991. godine su imali prebivalište u Republici Hrvatskoj, koji su po bilo kojem osnovu bili na radu u inozemstvu neprekidno najmanje dvije godine ili najmanje 24 mjeseca u razdoblju od četiri godine ili boravili u inozemstvu najmanje sedam godina (članak 27. stavak 1. točka 4. Carinskog zakona), mogu uz oslobađanje od plaćanja carine uvesti ili unijeti predmete svojega domaćinstva prema sljedećoj listi:
+1) 2 televizora, s pripadajućim uređajima;
+2) 1 prijenosni televizor, veličine ekrana do 51 cm;
+3) 1 video-rekorder i 1 video player, s pripadajućim uređajima i 50 video kazeta;
+4) 1 video-kameru;
+5) 1 radio-aparat, s pripadajućim uređajima;
+6) 2 prijenosna radio-prijemnika, s kazetofonom ili bez kazetofona;
+7) 1 magnetofon ili kazetofon s pripadajućim uredajima i 20 magnetofonshih traka ili 50 kazeta;
+8) 1 gramofon, s pripadajućim uređajima i 100 gramofonshih ploča;
+9) 1 muzički komplet - liniju koja se sastoji od jednog radio-prijemnika, jednog ili dva pojačala, jednog gramofona, jednog magnetofona, jednog ili dva kazetofona, jednog para slušalica i najviše četiri zvučnika;
+10) 2 fotografska aparata;
+11) 1 kino-kameru;
+12) 1 pisaći stroj;
+13) 2 hladnjaka za domaćinstvo, s odjeljkom ili bez odjeljka za zamrzavanje;
+14) 1 hladnjak za domaćinstvo, za duboko zamrzavanje;
+15) 1 uređaj za klimatizaciju stambenih prostorija;
+16) 2 električna, plinska, kombinirana ili druga štednjaka;
+17) 1 mikrovalnu pećnicu;
+18) 1 elektrićni roštilj;
+19) 2 električna ili plinska grijala, dva električna radijatora ili dvije peći na čvrsto ili tekuće gorivo;
+20) 1 kotao za centralno grijanje, uključujući i uređaj za zagrijavanje vode, s pripadajućom opremom za distribuciju topline i tople vode;
+21) 2 električna ili plinska uređaja za zagrijavanje vode (bojler);
+22) 1 usisivač prašine, s pripadajućim uređajima;
+23) 1 stroj za pranje tepiha;
+24) 1 stroj za pranje rublja, s pripadajućim uređajima;
+25) 1 stroj za sušenje rublja;
+26) 1 stroj za peglanje rublja;
+27) 1 stroj za pranje posuđa;
+28) 2 aparata za mljevenje i miješanje namirnica - kuhinjski mikseri (kompleti);
+29) 1 aparat za mljevenje kave;
+30) 1 šivaći stroj;
+31) 1 stroj za pletenje;
+32) 3 elektronična džepna računara;
+33) 1 kućni (osobni) računar, uključujući monitor, tiskaljku i druge pripadajućeuređaje;
+34) 1 osobni automobil ili drugo motorno vozilo uglavnom konstruirano za prijevoz osoba;
+35) 1 motocikl obujma cilindra preko 50 cm3 ili 2 motocikla obujma cilindra do 50 cm3;
+36) 1 kamp-prikolicu ili šator s pripadajućom opremom za njihovu uporabu u količini primjerenoj broju članova domaćinstva;
+37) 1 komplet strojeva i alata za uporabu u domaćinstvu u količini čija vrijednost ne premašuje HRD protuvrijednost 1.000.- US dolara;
+38) 3 kompleta sportskih rekvizita i sportske opreme za razne vrste sportova za osobnu uporabu svakog od članova domaćinstva;
+39) 1 jahtu ili drugi odgovarajući plovni objekt za odmor i rekreaciju;
+40) 2 bicikla bez motora i 1 bicikl s motorom;
+41) 2 servisa za najviše 12 osoba i drugi pribor za jelo, te odgovarajuću količinu posuda i drugih kuhinjskih predmeta;
+42) 5 tepiha;
+43) 1 klavir i dva druga muzička instrumenta;
+44) namještaj, posteljinu, zavjese, lustere ili druga rasvjetna tijela, u količini primjerenoj broju članova domaćinstva;
+45) slike i druge umjetničke predmete, koje su korisnik povlastice i članovi njegovog domaćinstva posjedovali u inozemstvu najmanje 30 dana prije carinjenja prvog predmeta koji se uvozi po osnovi predmetne povlastice;
+46) zbirke maraka, starog novca i slične zbirke koje su korisnik povlastice i članovi njegovog domaćinstva posjedovali najmanje 30 dana prije carinjenja prvog predmeta po osnovi predmetne povlastice;
+47) ukrasne predmete, ukljućujuči i folklorne predmete;
+48) šivane tekstilne, kožne i krznene predmete za osobnu uporabu, uporabu članova domaćinstva i kućnu uporabu ;
+49) 1 agregat za proizvodnju električne energije do 3 kW;
+50) instalacijski i gradevinski materijal, u količini čija ukupna vrijednost ne premašuje HRD protuvrijednost 1.000. - US dolara;
+51) ostali predmeti domaćinstva, u kolićini čija ukupna vrijednost ne premašuje HRD protuvrijednost 1.000.- US dolara.
