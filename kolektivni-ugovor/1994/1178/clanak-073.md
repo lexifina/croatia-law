@@ -1,0 +1,3 @@
+## UVJETI ZA RAD SINDIKATA
+# Članak 73.
+Poslodavac je dužan sindikatu osigurati informacije o prijedlozima odluka koje će razmatrati odgovarajući organ upravljanja ili će ih poslodavac donijeti, a koje su od značaja za ekonomski i socijalni položaj radnika. Stavove sindikata o prijedlozima odluka organ upravljanja odnosno poslodavac dužan je razmotriti i o njima se očitovati prije donošenja odluke. Sindikatu se dostavljaju pozivi s materijalima za sjednice odgovarajućih organa i omogućava sudjelovanje njegovih predstavnika na tim sjednicama kad se odlučuje o pravima radnika, te o njihovom materijalnom položaju. Poslodavac je dužan primiti i saslušati sindikalnog povjerenika kad on to zatraži ili po dogovoru.

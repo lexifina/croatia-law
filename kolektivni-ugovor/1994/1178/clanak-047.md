@@ -1,0 +1,3 @@
+# Članak 47.
+Za vrijeme rada izvan sjedišta poslodavca i izvan mjesta njegovog stalnog boravka, radnik ima pravo na terenski dodatak u visini koja mu pokriva povećane troškove života zbog boravka na terenu. Visina terenskog dodatka ovisi o tome da li su radniku osigurani smještaj, prehrana i drugi uvjeti boravka na terenu. Puni iznos terenskog dodatka dnevno ne može biti manji od 6 posto prosječne mjesečne plaće isplaćene po radniku u gospodarstvu Republike u prethodna tri mjeseca.
+Terenski dodatak se isplaćuje radniku najkasnije posljednji radni dan u mjesecu za slijedeći mjesec. Dnevnica i terenski dodatak međusobno se isključuju.

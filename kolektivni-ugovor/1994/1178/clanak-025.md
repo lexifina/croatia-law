@@ -1,0 +1,3 @@
+# Članak 25.
+Posebnim kolektivnim ugovorom, općim aktom poslodavca i ugovorom o zapošljavanju između radnika i poslodavca, utvrdit će se mjerila za vrednovanje ostvarenih rezultata i stimulacija radnika za ostvarenje većih rezultata rada.
+Radnik mora biti unaprijed upoznat s kriterijima i mjerilima za vrednovanje rezultata rada za stimulativni dio plaće koji mu po toj osnovi pripada. Na zahtjev radnika, poslodavca ili sindikata može se izvršiti stručna arbitraža normi ili drugih mjerila vrednovanja rezultata rada, a do završetka arbitražnog postupka radnik ostvaruje stimulativni dio plaće po tada važećim mjerilima.
