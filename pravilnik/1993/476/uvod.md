@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 41 /90, 47/90 i 53A/91 ), a za provedbu članka 32. Zakona o prijevozu u međunarodnom cestovnom prometu ("Narodne novine", br. 53/91) ministar pomorstva, prometa i veza donosi
