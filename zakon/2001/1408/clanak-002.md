@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Korisnicima mirovine koji su mirovinu ostvarili do dana primjene ovoga Zakona i kojima je mirovina određena prema zakonima iz članka 1.a stavka 1. ovoga Zakona ili prema drugim propisima na temelju kojih su bili izuzeti od primjene odredbi o ograničenju mirovine do propisane svote najviše mirovine, ponovno će se odrediti mirovina prema odredbi članka 1.a stavka 2. ovoga Zakona.
+(2) Hrvatski zavod za mirovinsko osiguranje, po službenoj dužnosti, donijet će novo rješenje o određivanju mirovine, prema odredbama ovoga Zakona, najkasnije u roku od 60 dana od dana početka primjene ovoga Zakona.
