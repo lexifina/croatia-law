@@ -1,0 +1,1 @@
+Na temelju odredbe članka 18. stavak 6. Zakona o prijevozu u cestovnom prometu (»Narodne novine« br. 36/98 i 83/02) Skupština Hrvatske obrtničke komore na sjednici održanoj 9. prosinca 2002. i Upravni odbor Hrvatske gospodarske komore, na sjednici održanoj 15. travnja 2003. godine, donijeli su
