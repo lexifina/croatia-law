@@ -1,0 +1,1 @@
+Odluka o stavljanju izvan snage Odluke o kriterijima i načinu raspodjele radnih dozvola prema kriterijima sporazuma o zapošljavanju radnika tvrtki, sa sjedištem u Republici Hrvatskoj, u SR Njemačkoj n
