@@ -1,0 +1,1 @@
+Na temelju članaka 54., 40. i 38. Zakona o proračunu ("Narodne novine", br. 92/94.), i na temelju članaka 7. i 16. Uredbe o računovodstvu proračuna ("Narodne novine" br. 96/94. i 108/96.), ministar financija donosi
