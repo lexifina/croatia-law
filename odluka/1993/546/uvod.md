@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o formiranju i korištenju sredstava solidarnosti za osiguravanje zaštite životnog standarda socijalno ugroženog stanovništva (" Narodne novine", br. 18/89), Vlada Republike Hrvatske je, na sjednici održanoj 9. travnja 1993. godine. donijela
