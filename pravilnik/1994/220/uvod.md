@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 7., članka 8. stavka 1. i članka 16. stavka 2. Zakona o zaštiti bilja od bolesti i štetočina koje ugrožavaju cijelu zemlju ("Narodne novine", br. 53/91), ministar poljoprivrede i šumarstva donosi
