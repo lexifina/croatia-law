@@ -1,0 +1,5 @@
+o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991.
+1. Naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u svezi s pravom na zaposlenje (članak 52. stavak 1. točka 1. i 2. Zakona o mirovinskom i invalidskom osiguranju), koje isplaćuje Republički fond mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, koje su ostvarene do 31. prosinca 1990. i povećane prema Odluci o usklađivanju naknada osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. studenog 1990. ("Narodne novine", br. 8/91) povećavaju se od 1. siječnja 1991. za 5,064%.
+2. Kao osnovica za povećanje naknada prema točki 1. ove Odluke služi svota naknada koja je invalidu rada pripadala na dan 31. prosinca 1990.
+3. Povećanje naknada iz točke 1. ove odluke obavit će se po službenoj dužnosti bez donošenja rješenja.
+4. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1991. godine.
