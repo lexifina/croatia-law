@@ -1,0 +1,6 @@
+# Članak 4.
+Prihod od prodanih doplatnih maraka iz članka 3. ovoga Zakona,
+uplaćuju se na poseban račun korisnika prihoda iz članka
+3. ovoga Zakona, isključivo je namjenski i ne ulazi u ukupan prihod
+ostvaren od sredstava koje korisnik prihoda iz članka 3. ovoga Zakona,
+stječe za obavljanje svoje djelatnosti.
