@@ -1,0 +1,3 @@
+# Članak 6.
+Za područja u kojima je postojeća razina rezidualne buke jednaka ili viša od dopuštene razine prema Tablici 1. iz članka 5. ovoga Pravilnika, imisija buke koja bi nastala od novoprojektiranih, izgrađenih ili rekonstruiranih odnosno adaptiranih građevina sa pripadnim izvorima buke ne smije prelaziti dopuštene razine iz Tablice 1. članka 5. ovoga Pravilnika, umanjene za 5 dB(A).
+Za područja u kojima je postojeća razina rezidualne buke niža od dopuštene razine prema Tablici 1. članka 5. ovoga Pravilnika, imisija buke koja bi nastala od novoprojektiranih izgrađenih, rekonstruiranih ili adaptiranih građevina sa pripadnim izvorima buke ne smije povećati postojeće razine buke za više od 1 dB(A).
