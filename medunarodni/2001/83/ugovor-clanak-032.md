@@ -1,0 +1,4 @@
+# Članak 32.
+POTEŠKOĆE U SVEZI S PLATNOM BILANCOM
+1. Ugovorne stranke će nastojati izbjeći uvođenje mjera ograničenja, uključujući mjere koje se odnose na uvoz zbog poteškoća u svezi s platnom bilancom.
+2. Kad jedna od ugovornih stranaka ima ozbiljnih teškoća s platnom bilancom ili joj to neposredno prijeti, ista može sukladno odgovarajućim odredbama GATT-a 1994. i WTO-a uvesti restriktivne mjere, uključujući mjere koje se odnose na uvoz, koje će biti ograničenog trajanja i neće prelaziti ono što je nužno za poboljšanje stanja platne bilance. Te mjere postupno će se ublažavati s poboljšanjem stanja platne bilance te će se ukinuti kad stanje više ne bude opravdavalo njihovo postojanje. Odnosna ugovorna stranka odmah će o njihovu uvođenju i, gdje je to moguće, o vremenskom rasporedu njihova postupnog ukidanja izvijestiti drugu ugovornu stranku.

@@ -1,0 +1,3 @@
+# Članak 18.
+OPĆA IZUZEĆA
+Ovaj Ugovor ne isključuje zabrane ili ograničenja uvoza, izvoza ili prometa robe u tranzitu iz razloga javnog morala, javnog reda ili javne sigurnosti, zaštite života i zdravlja ljudi, životinja ili biljaka; zaštite nacionalnog blaga umjetničke, povijesne ili arheološke vrijednosti; zaštite intelektualnog vlasništva ili propisa koji se odnose na zlato i srebro, zaštitu okoliša ili očuvanje ograničenih prirodnih izvora, ako se takve mjere provode zajedno s ograničenjima domaće proizvodnje ili potrošnje. Takve zabrane ili ograničenja neće, međutim, biti sredstvo za samovoljnu diskriminaciju ili prikriveno ograničavanje trgovine između ugovornih stranaka.
