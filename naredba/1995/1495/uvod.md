@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1. točke 2. i članka 53. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 52/91, 26/93 i 29/94), a u vezi točke IV. podtočke 2. Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 1995. godini ("Narodne novine", br. 94/94), ministar poljoprivrede i šumarstva donosi
