@@ -1,0 +1,4 @@
+# Članak 30.
+1) Ispitivanje načina pakiranja i kvalitete jediničnog pakiranja pirotehničkog sredstva obavlja se tako da se kontrolira otpornost u transportu i to dvosatnim tresenjem (jedan podizaj u sekundi) jednog jedi-ničnog pakiranja pirotehničkog sedstva na kojem za vrijeme testiranja ne smije doći do bitne promjene funkcije pirotehničkog sredstva (aktiviranja ili uništenja);
+2) Osim kontrole iz stavka 1. ovoga članka, jedi-nično pakiranje kontrolira se glede sigurnosti od namjernog zapaljenja pirotehničkog sredstva tako da se pirotehničko sredstvo izloži plamenu šibice na osiguranom mjestu u trajanju gorenja jedne šibice, pritiskanjem žareće cigarete na osiguranom mjestu jediničnog pakiranja u trajanju tri minute te padu 10 kg teškog utega s visine od jedan m na jedinično pakiranje pirotehničkog sredstva.
+3) Za vrijeme ispitivanja iz stavka 2. ovoga članka ne smije doći do zapaljenja pirotehničkih sredstava u jediničnom pakiranju.

@@ -1,0 +1,5 @@
+# Članak 13.
+1) Eksplozivne smjese namijenjene za tehničke, znanstvene, analitičke, medicinske i druge svrhe kao i tvari koje se koriste kao pomoćne tvari pri proizvodnji kemijskih proizvoda moraju zadovoljiti slijedeće zahtjeve:
+1. Mješavine moraju biti homogene, dok se tekući sastojci smiju koristiti samo ako ravnomjerno ovlažuju čvrsto tijelo;
+2. Ove tvari ne smiju biti sklone samozapaljenju. Za vrijeme sedmodnevnog uskladištenja pri temperaturi od 500C pod uvjetima gomilanja topline, čiji stupanj utjecaja na tvar odgovara utjecaju koji se vrši prilikom rukovanja ili prijevoza, u us-kladišenom probnom uzorku ne smije doći do samozagrijavanja većeg od 30C. Ukoliko se tvari podvrgavaju oštrijim uvjetima, onda se pokusni uvjeti u svezi s temperaturom uskladištenja ili vremenom uskladištenja moraju odgovarajuće odabrati;
+3. Ako eksplozivna tvar ne zadovoljava zahtjeve iz točke 2. ovog članka, onda se prilikom rukovanja i prijevoza mora osigurati održanje temperature pri kojoj nije moguće doći do samozapaljenja.
