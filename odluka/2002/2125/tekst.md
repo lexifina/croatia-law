@@ -1,0 +1,19 @@
+I.
+Ovlašćuju se Hrvatske vode da iznos od 87,5 milijuna kuna koje su podmirile do 31. prosinca 2001. godine i sredstva u iznosu 28,9 milijuna kuna koja će uplatiti u 2002. godini Hrvatskoj banci za obnovu i razvitak, na ime otplate iskorištenih sredstava zajma Svjetske banke, temeljem dugovanja 31 županijskih i gradskih komunalnih poduzeća (krajnjih korisnika), ugovorima s krajnjim korisnicima u primjerenom roku (do kraja 2002. godine) reguliraju, sukladno Zakonu o financiranju vodnog gospodarstva (»Narodne novine«, br. 107/95, 19/96 i 88/98), na način da tako uplaćena sredstva upišu kao svoje udjele u vlasništvu tih pojedinih poduzeća - sekundarnih dužnika (krajnjih korisnika) ili komunalnih poduzeća gradova ili općina koje su se zadužile kao sekundarni dužnik (Tablica 1.).
+II.
+Za neotplaćeni dio utrošenih sredstava zajma (glavnice i kamate) Svjetske banke od 1. siječnja 2003. godine do kraja otplate zajma u iznosu 162,3 milijuna kuna oslobađaju se daljnje otplate prema Hrvatskoj banci za obnovu i razvitak Hrvatske vode i sekundarni dužnici (krajnji korisnici) zajma Svjetske banke iz točke I. ove Odluke, budući da se radi o obnovi ratom nastalih šteta i što otplatu predmetnog zajma u cijelosti inače, prema međunarodnom ugovoru sa Svjetskom bankom, podmiruje državni proračun Republike Hrvatske. Hrvatske vode se ovlašćuju da u svojim poslovnim evidencijama, zaključno s 31. prosincem 2002. godine, isključe iz dugoročnih obveza neotplaćeni iznos zajma Svjetske banke i kredita Hrvatske banke za obnovu i razvitak, vezanih uz Projekt hitne obnove.
+III.
+Zadužuje se Ministarstvo financija da s Hrvatskom bankom za obnovu i razvitak, Hrvatskim vodama i poslovnim bankama dopunskim ugovorom regulira promjene iz točke I. i II. ove Odluke, na način da Hrvatska banka za obnovu i razvitak i Hrvatske vode zatvore svoja potraživanja po ugovorima o kreditu PHO-40000-1, PHO-40000-2, PHO-40000-3, PHO-40000-4 (Tablica 3.), te Hrvatska banka za obnovu i razvitak i poslovne banke zatvore potraživanja po ugovorima o kreditu broj PHO-50400-01, PHO-50400-02, PHO-50400-03, PHO-50400-05, PHO-50400-06, PHO-50400-07, PHO-50400-08, PHO-50400-10, PHO-50400-11 (Tablica 2.), te da zatvore potraživanja po ugovorima između Hrvatskih voda i krajnjih korisnika i po ugovorima između poslovnih banaka i lokalnih komunalnih poduzeća.
+IV.
+Zadužuju se Ministarstvo financija i Fond za regionalni razvoj da u proračunu Fonda za regionalni razvoj za 2003. godinu, i ostale godine do konačne otplate planiraju preuzimanje otplate kredita iz vlastitih sredstava Hrvatska banka za obnovu i razvitak u stavci: Plaćanje po preuzetim obvezama za Hrvatske vode/HBOR PHO-4000-2-glavnica i u stavci: Plaćanje po preuzetim obvezama za Hrvatske vode/HBOR PHO-4000-2-kamate.
+V.
+Zadužuju se Hrvatske vode da otplate anuiteta po zajmu Svjetske banke i Hrvatske banke za obnovu i razvitak koje dospijevaju na naplatu zaključno s 31. prosincem 2002. godine, podmire iz svojih sredstava, a da nenaplaćena potraživanja od krajnjih korisnika po istom osnovu kao i u točki I. ove Odluke reguliraju i međusobno razriješe u primjerenom roku, upisom svog udjela u vlasništvu tih pojedinih poduzeća ili komunalnih poduzeća, gradova ili općina koji su se zadužili kao sekundarni dužnik.
+VI.
+U svrhu provedbe ove Odluke, kao njezin sastavni dio prilažu se:
+- Tablica 1. Pregled zajma Svjetske banke na dan 31. prosinca 2001. godine, IBRD-3760 HR
+- Tablica 2. Pregled uplata - lokalna komunalna poduzeća (poslovne banke)
+- Tablica 3. Pregled kredita HBOR-IBRD na dan 31. prosinca 2001. godine, IBRD-3760 HR.
+VII.
+Zadužuje se Ministarstvo financija za nadzor provedbe ove Odluke, te da o njezinoj provedbi izvijesti Vladu Republike Hrvatske do 31. ožujka 2003. godine.
+VIII.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.

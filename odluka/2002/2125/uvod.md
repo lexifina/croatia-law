@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98, 15/2000 i 117/2001) i članka 28. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu (»Narodne novine«, broj 116/2001), Vlada Republike Hrvatske je na sjednici održanoj 31. listopada 2002. godine donijela sljedeću
