@@ -1,0 +1,1 @@
+Na temelju članka 6. točke 10. i članka 28. Statuta republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske (" Narodne novine ", br. 58/90 i 21/92), Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske, na sjednici održanoj 20. rujna 1993, donosi
