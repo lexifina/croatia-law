@@ -1,0 +1,1 @@
+Na temelju članka 233. stavak 5. i članka 324. Carinskog zahona ("Narodne novine", br. 53A/91, 33/92 40/92, i 61/92) po prethodno pribavljenom mišljenju "HPT-Hrvatska pošta i telekomunikacije", direktor Carinske uprave Republike Hrvatske donosi
