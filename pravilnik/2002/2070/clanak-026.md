@@ -1,0 +1,2 @@
+# Članak 26.
+Kada vojnik odnosno dočasnik koji ispunjava uvjete za mirovinu iz članka 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba podnese pisanu zamolbu za prestanak djelatne vojne službe s pravom na invalidsku mirovinu zbog osobnog stava o neperspektivnosti i nemogućnosti svog daljnjeg profesionalnog razvoja u vojnoj službi Povjerenstvo će donijeti zaključak o nemogućnosti daljnjeg profesionalnog razvoja.

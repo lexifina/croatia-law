@@ -1,0 +1,2 @@
+# Članak 21.
+Kada Povjerenstvo utvrdi da vojnik nema odgovarajuću stručnu spremu odnosno da dočasnik nema odgovarajuću stručnu spremu potrebnu za promicanje te da ne ispunjava uvjet od 20 godina staža osiguranja iz članka 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba, donijet će zaključak o nemogućnosti njegovog daljnjeg profesionalnog razvoja ako u kalendarskoj godini navršava 35 godina života.

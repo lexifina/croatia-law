@@ -1,0 +1,4 @@
+# Članak 29.
+Zadržavanje u službi dočasnika kojima je utvrđena nemogućnost daljnjeg profesionalnog razvoja ne smije predstavljati zapreku za promicanje dočasnika istog roda ili struke čiji je profesionalni razvoj u okviru propisanih standarda odnosno koji ima utvrđenu mogućnost daljnjeg profesionalnog razvoja.
+Djelatni dočasnik koji je u okviru standarda profesionalnog razvoja odnosno kojemu je utvrđena mogućnost daljnjeg profesionalnog razvoja stječe uvjete za raspored na dužnost neposredno višeg čina u smislu odredbe stavka 1. ovoga članka najkasnije godinu dana prije ispunjavanja zakonskih uvjeta za redivno promaknuće u činu.
+Svi dočasnici kojima se utvrdi nemogućnost daljnjeg profesionalnog razvoja, a ne budu zadržani u službi sukladno članku 28. stavku 1. ovoga Pravilnika bit će otpušteni iz Oružanih snaga Republike Hrvatske sukladno Zakonu.

@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. Zakona o obrani (»Narodne novine«, broj 33/02. i 58/02.) i članka 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba (»Narodne novine«, broj 128/99, 129/00, 16/01 i 22/02), ministar obrane donosi
