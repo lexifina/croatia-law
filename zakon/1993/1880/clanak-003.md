@@ -1,0 +1,2 @@
+# Članak 3.
+Zavodi za zaštitu spomenika kulture i restauratorske ustanove u svom radu i izvršavanju zakonom određenih zadaća, obvezni su provoditi naputke koje im u obavljanju stručnog nadzora nad njihovim radom izdaje Zavod za zaštitu spomenika kulture Ministarstva kulture i prosvjete. Za obavljanje stručnog nadzora, ustanove iz stavka 1. ovoga članka dužne su Zavodu za zaštitu spomenika kulture Ministarstva kulture i prosvjete dostavljati podatke i izvješća o svom radu, te na drugi način omogućavati uvid u rad.
