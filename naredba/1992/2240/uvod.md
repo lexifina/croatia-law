@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78., 50/78.,29/85.,48/86.,41/90.,47/90 i 53A/91), a u svezi s člankom 11. Zakona o ustrojstvu i djelokrugu ministarstva i drugih organa državne uprave ("Narodne novine", br. 55/92), ministar kulture i prosvjete donosi
