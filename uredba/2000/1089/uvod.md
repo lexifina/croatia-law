@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, broj 131/97) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, broj 76/93), Vlada Republike Hrvatske je na sjednici održanoj 5. svibnja 2000. godine, donijela
