@@ -1,0 +1,2 @@
+# Članak 9.
+REGOS mora ovlaštenoj osobi osigurati uvjete za obavljanje nadzora te na njezin zahtjev uručiti računalne ispise, preslike poslovnih knjiga, poslovne dokumentacije, administrativne ili poslovne evidencije u papirnatom obliku ili elektroničkom zapisu. Također mora osigurati standardno sučelje za pristup sustavu za upravljanje bazama podataka koje koristi i omogućiti uvid u evidencije uz potrebna objašnjenja za provedbu nadzora.

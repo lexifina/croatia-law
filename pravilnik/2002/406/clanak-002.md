@@ -1,0 +1,2 @@
+# Članak 2.
+Nadzor prema ovom Pravilniku čine postupci kojima se ispituje i utvrđuje pravilnost primjene Zakona o obveznim i dobrovoljnim mirovinskim fondovima, Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje i drugih propisa, općih i pojedinačnih akata, radnih postupaka, točnost evidencija, kao i drugih radnji iz djelatnosti REGOS-a u cilju zaštite interesa osiguranika i korisnika prava iz mirovinskog osiguranja na temelju individualne kapitalizirane štednje.
