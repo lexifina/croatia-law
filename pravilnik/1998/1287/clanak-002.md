@@ -1,0 +1,2 @@
+# Članak 2.
+Pod arheološkim istraživanjem u smislu ovog Pravilnika razumijeva se istraživanje na morskom dnu ili morskom podzemlju, arheološko iskopavanje i istraživanje, te arheološko rekognosciranje morskog dna usmjereno na sakupljanje, ispitivanje i izučavanje podataka što se odnose na istraživanje spomenika kulture, kao i na paleontološke i geološke komponente uz njih povezane (u daljnjem tekstu: arheološko istraživanje).

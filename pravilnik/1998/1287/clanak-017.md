@@ -1,0 +1,2 @@
+# Članak 17.
+Ovaj Pravilnik stupa na snagu danom objavljivanja u "Narodnim novinama".
