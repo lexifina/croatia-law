@@ -1,0 +1,6 @@
+o utvrđivanju kalkulativnih prosjeka osobnih dohodaka radnika zaposlenih u Upravi kontrole letenja, Ministarstva prometa i veza
+I.
+Koeficijenti, u smislu točke IV. Odluke o utvrđivanju kalkulativnih prosjeka osobnih dohodaka radnika zaposlenih u organima kojima se sredstva za rad osiguravaju u Proračunu Republike Hrvatske ("Narodne novine", br. 42/90 i 8/91), utvrđuju se, za radnike posebnih specijalnosti na operativnim poslovima Uprave kontrole letenja Ministarstva prometa i veza u slijedećim vrijednostima:
+_______________________________________________________________________________ Položajno zvanje Koeficijent _______________________________________________________________________________ 1. Kontrolor letenja (zrakoplovni kontrolor) i instruktor zrakoplovne kontrole 3,0-3,6 2. Zrakoplovnotehnički savjetnik i zrakoplovnotehnički instruktor 3,0-3,6 3. Zrakoplovni meteorolog i zrakoplovni sinoptičar 3,0-3,6 4. Viši zrakoplovnotehnički specijalist 2,4-3,0 5. Pomoćnfk kontrolora letenja (stručni suradnik zrakoplovne kontrole) 2,4-3,0 6. Zrakoplovnotehnički specijalista 2,4-3,0 _______________________________________________________________________________
+II.
+Ova odluka stupa na snagu 1. kolovoza 1992., a objavtt će se u "Narodnim novinama"
