@@ -1,0 +1,1 @@
+Temeljem članka 46. stavak 2. Zakona o financiranju jedinica lokalne samouprave i uprave ("Narodne novine" br. 117/93.) i članka 20. Statuta Grada Osijeka ("Službeni glasnik" Grada Osijeka br. 5/97 - pročišćeni tekst) Gradsko vijeće Grada Osijeka na 6. sjednici održanoj 17. prosinca 1997. godine donijelo je
