@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Korisnicima mirovine kojima je mirovina određena do 31. prosinca 2001. prema propisima o mirovinskom i invalidskom osiguranju djelatnih vojnih osoba i ovlaštenih službenih osoba unutarnjih poslova i pravosuđa, za koje se sredstva osiguravaju u državnom proračunu, svota mirovine koja im je pripadala na dan 30. rujna 2001. smanjuje se prema članku 6. ovoga Zakona. Tako smanjena svota mirovine ne može iznositi manje od svote mirovine određene prema općim propisima o mirovinskom osiguranju.
+(2) Svota mirovine određena prema stavku 1. ovoga članka pripada korisniku od 1. siječnja 2002.
