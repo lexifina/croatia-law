@@ -1,0 +1,3 @@
+# Članak 5.
+Ustanovama upravlja upravno vijeće.
+Upravno vijeće donosi program rada i razvoja ustanove i nadzire njihovo izvršavanje, odlučuje o financijskom planu u okviru raspoloživih sredstava osiguranih iz Proračuna Republike Hrvatske za institucionalne i izvaninstitucionalne oblike socijalne skrbi, te obavljanje djelatnosti koja služi obavljanju osnovne djelatnosti, donosi godišnji obračun, predlaže osnivaču promjenu ili proširenje djelatnosti, daje osnivaču i ravnatelju prijedloge i mišljenje o pojedinim pitanjima, donosi statut uz suglasnost osnivača, donosi druge opće akte ustanove, donosi odluke u drugom stupnju u svezi s pravima zaposlenika, raspravlja i odlučuje o izvješćima ravnatelja, obavlja i druge, statutom propisane poslove.
