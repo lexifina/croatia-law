@@ -1,0 +1,3 @@
+# Članak 57.
+1. Stranke neće poduzimati mjere ni radnje koje bi uvjete pod kojima usluge pružaju državljani ili trgovačka društva Zajednice i Hrvatske s poslovnim nastanom na teritoriju stranke, kojoj ne pripada osoba kojoj su te usluge namijenjene, bitno ograničile u odnosu na stanje zatečeno na dan koji prethodi danu stupanja na snagu ovoga Sporazuma.
+2. Ako jedna stranka smatra da mjere koje je druga stranka uvela nakon stupanja Sporazuma na snagu dovode do stanja koje je u pogledu pružanja usluga bitno restriktivnije od stanja zatečenoga na dan stupanja Sporazuma na snagu, ona može od druge stranke zahtijevati da započne konzultacije.

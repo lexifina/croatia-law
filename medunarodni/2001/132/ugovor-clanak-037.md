@@ -1,0 +1,4 @@
+# Članak 37.
+DAMPING
+1. Ako jedna od stranaka ustanovi da se u trgovini s drugom strankom provodi damping u smislu članka VI. Općega sporazuma o carinama i trgovini 1994., ona protiv takva postupka može poduzeti odgovarajuće mjere u skladu sa Sporazumom o provedbi članka VI. Općega sporazuma o carinama i trgovini 1994. te sa svojim domaćim zakonodavstvom koje se odnosi na to područje.
+2. U vezi sa stavkom 1. ovoga članka Vijeće za stabilizaciju i pridruživanje bit će obaviješteno u slučaju dampinga čim nadležna tijela stranke uvoznice pokrenu istragu. Ako se damping u smislu članka VI. Općega sporazuma o carinama i trgovini ne okonča, odnosno ako se ne nađe nikakvo drugo zadovoljavajuće rješenje u roku od 30 dana od upućivanja toga predmeta Vijeću za stabilizaciju i pridruživanje, stranka uvoznica može usvojiti odgovarajuće mjere.

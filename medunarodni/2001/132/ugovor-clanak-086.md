@@ -1,0 +1,4 @@
+# Članak 86.
+INDUSTRIJSKA SURADNJA
+1. Cilj je suradnje promicanje modernizacije i restrukturiranja hrvatske industrije i pojedinih sektora, te industrijske suradnje između gospodarskih čimbenika obiju strana, posebice jačanja privatnoga sektora pod uvjetima koji jamče zaštitu okoliša.
+2. Inicijative za industrijsku suradnju odražavat će prioritete koje su utvrdile obje stranke. One će uzeti u obzir regionalne aspekte industrijskoga razvoja, pri čemu će se, gdje je to bitno, promicati međudržavna partnerstva. Te će inicijative posebice nastojati uspostaviti odgovarajući okvir za poduzetništvo, poboljšati upravljanje tvrtkama i tehnološko znanje i iskustvo (know-how) te promicati tržište, tržišnu transparentnost i poslovno okruženje. Posebna će se pozornost posvetiti uspostavi učinkovitih aktivnosti u Hrvatskoj radi promicanja izvoza.

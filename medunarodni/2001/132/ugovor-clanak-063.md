@@ -1,0 +1,2 @@
+# Članak 63.
+Prema ovoj glavi ništa iz ovoga Sporazuma ne sprječava stranke da primjenjuju svoje zakone i ostale propise koji se odnose na ulazak i boravak, zapošljavanje, radne uvjete, poslovni nastan fizičkih osoba i pružanje usluga pod uvjetom da ih pritom ne primjenjuju na takav način da poništavaju ili umanjuju koristi koje ima bilo koja od stranaka na temelju uvjeta iz određene odredbe ovoga Sporazuma. Ova odredba ne utječe na primjenu članka 62.

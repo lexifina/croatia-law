@@ -1,0 +1,17 @@
+# Članak 58.
+U pružanju prometnih usluga između Zajednice i Hrvatske primjenjuju se ove odredbe:
+1. S obzirom na kopneni promet Protokolom 6. utvrđena su pravila koja su primjenjiva na odnos između stranaka, posebice radi osiguranja neograničenoga cestovnoga tranzitnoga prometa preko Hrvatske i Zajednice u cjelini, učinkovite primjene načela nediskriminacije i postupnoga usklađivanja hrvatskoga zakonodavstva na području prometa sa zakonodavstvom Zajednice.
+2. S obzirom na međunarodni pomorski promet stranke se obvezuju na učinkovitu primjenu načela neograničenoga pristupa tržištu i prometu na komercijalnoj osnovi.
+(a) Prethodna odredba ne utječe na prava i obveze prema Kodeksu Ujedinjenih naroda o poslovanju linijskih konferencija na način kako ga primjenjuje jedna ili druga stranka ovoga Sporazuma. Nekonferencijski linijski brodari mogu se slobodno natjecati s konferencijskim brodarom sve dok se pridržavaju načela poštenoga tržišnoga natjecanja na komercijalnoj osnovi.
+(b) Stranke potvrđuju svoje opredjeljenje za okružje slobodnoga tržišnoga natjecanja kao osnovne značajke prometa krutoga i tekućega rasutoga tereta.
+3. U primjeni načela iz stavka 2. stranke:
+(a) neće uvrštavati klauzule o podjeli tereta u buduće dvostrane sporazume s trećim zemljama, osim u iznimnim okolnostima u kojima linijski brodari s teritorija jedne ili druge stranke ovoga Sporazuma u protivnom ne bi imali stvarnu priliku prometovati u treću zemlju ili iz nje radi obavljanja trgovine.
+(b) zabranit će rješenja vezana uz podjelu tereta u budućim dvostranim sporazumima koja se odnose na promet krutoga i tekućega rasutoga tereta;
+(c) nakon stupanja na snagu ovoga Sporazuma ukinut će se jednostrane mjere te upravne, tehničke i druge prepreke koje bi mogle imati ograničavajući ili diskriminirajući učinak na slobodno pružanje usluga u međunarodnom pomorskom prometu.
+(d) Svaka će od stranaka, inter alia, postupati s brodovima kojima upravljaju državljani ili društva druge stranke na način koji nije manje povoljan od načina na koji postupaju prema vlastitim brodovima, a u odnosu na pristup lukama koje su otvorene za međunarodni promet, uporabu infrastrukture i pomoćnih pomorskih usluga u lukama, te na naknade i pristojbe, carinske pogodnosti, dodjeljivanje vezova i mogućnost utovara i istovara robe.
+4. Kako bi se zajamčio usklađeni razvoj i postupna liberalizacija prometa između stranaka, a u skladu s njihovim uzajamnim komercijalnim potrebama, uvjeti obostranoga pristupa tržištu u zračnom prometu uređuje se posebnim sporazumima, o kojima će stranke pregovarati nakon stupanja na snagu ovoga Sporazuma.
+5. Prije sklapanja sporazuma iz stavke 4. stranke ne smiju poduzimati bilo kakve mjere ili radnje koje više ograničavaju ili diskriminiraju u odnosu na stanje zatečeno prije stupanja na snagu ovoga Sporazuma.
+6. Hrvatska će svoje zakonodavstvo, uključujući upravne, tehničke i druge propise, prilagoditi zakonodavstvu Zajendice koje se u određenom trenutku primjenjuje u zračnom i kopnenom prometu, i to u onoj mjeri u kojoj to služi liberalizaciji i obostranom pristupu tržištima obiju stranaka te omogućuje kretanje putnika i roba.
+7. Usporedo sa zajedničkim napretkom u ostvarivanju ciljeva postavljenih u ovom poglavlju Vijeće za stabilizaciju i pridruživanje ispitat će načine stvaranja uvjeta koji su prijeko potrebni za unapređivanje slobode pružanja usluga u zračnom i kopnenom prometu.
+POGLAVLJE IV.
+TEKUĆA PLAĆANJA I KRETANJE KAPITALA

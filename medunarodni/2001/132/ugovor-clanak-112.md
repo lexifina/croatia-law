@@ -1,0 +1,2 @@
+# Članak 112.
+Vijeće za stabilizaciju i pridruživanje je radi postizanja ciljeva ovoga Sporazuma ovlašteno donositi odluke unutar dosega ovoga Sporazuma, u slučajevima koji su u njemu utvrđeni. Donesene odluke obvezuju stranke, koje moraju poduzimati mjere nužne za provedbu tih odluka. Vijeće za stabilizaciju i pridruživanje također može davati odgovarajuće preporuke. Vijeće svoje odluke i preporuke sastavlja na temelju dogovora stranaka.

@@ -1,0 +1,5 @@
+# Članak 45.
+1. Podložno uvjetima i načinima primjenjivim u pojedinim državama članicama:
+- u postupanju prema radnicima koji su hrvatski državljani i koji su zakonito zaposleni na teritoriju neke države članice, ne smije biti nikakve diskriminacije na temelju državljanstva u pogledu radnih uvjeta, naknade za rad ili otpuštanja s radnoga mjesta u usporedbi s državljanima te države;
+- supružnik i djeca radnika, koji je zakonito zaposlen na teritoriju neke države članice, koji zakonito borave na njezinu teritoriju, isključujući sezonske radnike i radnike koji dolaze na temelju dvostranih sporazuma u smislu članka 46., osim ako takvim sporazumima nije drukčije predviđeno, imaju pristup tržištu rada te države članice tijekom razdoblja zaposlenja koje je odobreno tomu radniku.
+2. Ovisno o uvjetima i načinima koji su primjenjivi na nezinu teritoriju, Hrvatska će prema radnicima koji su državljani neke države članice i koji su zakonito zaposleni na njezinu teritoriju, te prema njihovim supružnicima i djeci koji na tom teritoriju zakonito borave, postupati u skladu sa stavkom 1.

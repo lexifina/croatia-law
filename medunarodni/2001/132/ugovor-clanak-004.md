@@ -1,0 +1,2 @@
+# Članak 4.
+Hrvatska se obvezuje nastaviti i promicati suradnju i dobrosusjedske odnose s drugim zemljama regije, uključujući i odgovarajuću razinu uzajamnih koncesija glede kretanja osoba, roba, kapitala i usluga, te razvoj projekata od zajedničkoga interesa, poglavito projekata koji se odnose na povratak izbjeglica i borbu protiv organiziranoga kriminala, korupcije, pranja novca, ilegalnih migracija i krijumčarenja. Ta je obveza ključni čimbenik u razvoju odnosa i suradnje između stranaka i time pridonosi regionalnoj stabilnosti.

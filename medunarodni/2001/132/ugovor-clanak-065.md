@@ -1,0 +1,4 @@
+# Članak 65.
+1. Tretman najpovlaštenije države, dodijeljen u skladu s odredbama ove glave, neće se primjenjivati na porezne povlastice koje stranke pružaju ili će pružati u budućnosti na temelju sporazuma čija je svrha izbjeći dvostruko oporezivanje ili druge porezne dogovore.
+2. Nijedna odredba ove glave neće se tumačiti kao sprječavanje stranaka da usvoje ili provedu bilo koju mjeru čiji je cilj sprječavanje izbjegavanja ili utaje poreza u skladu s poreznim odredbama sporazuma o izbjegavanju dvostrukoga oporezivanja i drugih poreznih dogovora ili domaćega fiskalnoga zakonodavstva.
+3. Nijedna od odredaba ove glave neće se tumačiti kao sprječavanje država članica ili Hrvatske da u primjeni relevantnih odredaba svoga fiskalnoga zakonodavstva razlikuju porezne obveznike koji nisu u istoj situaciji, posebice s obzirom na njihovo prebivalište.

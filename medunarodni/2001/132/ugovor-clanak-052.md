@@ -1,0 +1,3 @@
+# Članak 52.
+1. Odredbe članka 49. i 50. ne sprečavaju bilo koju od stranaka da primjenjuje posebna pravila koja se odnose na osnivanje i djelovanje na njezinu teritoriju podružnica trgovačkih društava druge stranke koje nisu osnovane na teritoriju prve stranke, pod uvjetom da su ta pravila opravdana pravnim ili tehničkim razlikama između tih podružnica i podružnica trgovačkih društava osnovanih na njezinu teritoriju ili, iz opreza, u pogledu financijskih usluga.
+2. Razlika u tretmanu neće izlaziti izvan onoga što je strogo potrebno zbog takvih pravnih ili tehničkih razlika ili, iz opreza, u pogledu financijskih usluga.

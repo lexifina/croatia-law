@@ -1,0 +1,2 @@
+# Članak 2.
+Poštovanje demokratskih načela i ljudskih prava, proglašenih u Općoj deklaraciji o ljudskim pravima i definiranih u Helsinškom završnom aktu i Pariškoj povelji za novu Europu, poštovanje načela međunarodnoga prava i vladavine prava te načela tržišnoga gospodarstva, sukladno Dokumentu Bonske konferencije o gospodarskoj suradnji Konferencije o europskoj sigurnosti i suradnji, čine temelj unutarnje i vanjske politike stranaka te tvore ključne elemente ovoga Sporazuma.

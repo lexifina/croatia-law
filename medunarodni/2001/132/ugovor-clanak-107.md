@@ -1,0 +1,3 @@
+# Članak 107.
+Financijska pomoć u obliku potpore bit će pokrivena operativnim mjerama koje su utvrđene u odgovarajućoj uredbi Vijeća unutar višegodišnjega indikativnoga okvira koji Zajednica utvrđuje nakon savjetovanja s Hrvatskom.
+Cjelokupni ciljevi pomoći, u obliku izgradnje institucija i ulaganja, pridonosit će demokratskim, gospodarskim i institucionalnim reformama u Hrvatskoj, u skladu s procesom stabilizacije i pridruživanja. Financijska pomoć može obuhvatiti sva područja usklađivanja zakonodavstva i sve politike suradnje iz ovoga Sporazuma, uključujući pravosuđe i unutarnje poslove. Trebalo bi razmotriti potpunu provedbu projekata od zajedničkoga interesa koji se odnose na infrastrukturu i koji su utvrđeni u Protokolu 6.

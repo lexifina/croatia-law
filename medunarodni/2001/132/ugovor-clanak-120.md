@@ -1,0 +1,4 @@
+# Članak 120.
+1. Stranke će poduzeti sve opće ili posebne mjere koje su potrebne za ispunjavanje svojih obveza prema ovomu Sporazumu. One će se pobrinuti da se postignu ciljevi utvrđeni ovim Sporazumom.
+2. Ako jedna od stranaka smatra da je druga stranka propustila ispuniti neku obvezu iz ovoga Sporazuma, ona može poduzeti odgovarajuće mjere. Prije toga, osim u slučajevima od osobite žurnosti, dostavit će Vijeću za stabilizaciju i pridruživanje sve relevantne informacije koje su potrebne za temeljito ispitivanje situacije radi pronalaženja rješenja koje je prihvatljivo strankama.
+3. Pri odabiru mjera prednost se mora dati onim mjerama koje najmanje narušavaju provedbu ovoga Sporazuma. O tim se mjerama odmah obavještava Vijeće za stabilizaciju i pridruživanje i one će biti predmetom konzultacija unutar Vijeća za stabilizaciju i pridruživanje, ako to druga stranka zatraži.

@@ -1,0 +1,4 @@
+# Članak 81.
+1. Zajednica i Hrvatska će uspostaviti tijesnu suradnju čiji je cilj doprinos razvoju i rastu Hrvatske. Takva će suradnja ojačati postojeće gospodarske veze na najširim mogućim temeljima u korist obiju stranaka.
+2. Politike i druge mjere bit će oblikovane kako bi omogućile gospodarski i društveni razvoj Hrvatske. Te bi politike trebale osigurati da se i pitanja okoliša od samoga početka u potpunosti uključe i poveću sa zahtjevima za harmoničan društveni razvoj.
+3. Politike će suradnje biti integrirane u regionalni okvir suradnje. Posebna će se pozornost posvetiti mjerama koje mogu poticati suradnju između Hrvatske i susjednih zemalja, uključujući države članice, čime će se pridonijeti regionalnoj stabilnosti. Vijeće za stabilizaciju i pridruživanje može odrediti prioritete među politikama suradnje, opisanima u daljnjem tekstu, i unutar njih.
