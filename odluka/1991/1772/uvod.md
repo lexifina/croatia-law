@@ -1,0 +1,1 @@
+Na osnovi članka 27. stavka 1. točke 2, 3. 4. i 5. i članka 28. stavka 1. točke 12,13. i 14. Carinskog zakona ("Narodn novine", broj 53/A/91). Vlada Republike Hrvatske na sjednici održanoj 11. prosinca 1991. godine. donijela je
