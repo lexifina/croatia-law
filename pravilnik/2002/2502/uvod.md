@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. i 3. Zakona o trgovini (»Narodne novine«, br. 11/96, 75/99, 62/01 i 109/01), ministar gospodarstva uz suglasnost ministra zaštite okoliša i prostornog uređenja, ministra rada i socijalne skrbi i ministra zdravstva donosi
