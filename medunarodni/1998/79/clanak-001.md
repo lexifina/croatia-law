@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o uspostavljanju Medudržavnog vijeća za suradnju između Republike Hrvatske i Bosne i Hercegovine kojeg su u Zagrebu 30. ožujka 1998. godine potpisali ministar vanjskih poslova Republike Hrvatske dr. Mate Granić i ministar vanjskih poslova Bosne i Hercegovine Jadranko Prlić, u izvorniku na hrvatskom jeziku i jezicima triju konstitutivnih naroda Bosne i Hercegovine.
