@@ -1,4 +1,3 @@
 # Članak 13.
-Glede žalbenog postupka, obnove postupka, zastare, obračunavanja, naplate
-i povrata poreza te vođenja prekršajnog postupka, shodno se primjenjuju
-odredbe Zakona o porezu na dohodak ("Narodne novine", br. 109/93.).
+(1) Glede žalbenog postupka, postupka obnove, zastare, obračunavanja, naplate i povrata poreza te vođenja prekršajnog postupka primjenjuje se Opći porezni zakon.
+(2) Iznimno od odredbe stavka 1. ovoga članka, u postupku naknadanog obračuna posebnog poreza na pivo postupa se prema odredbama Carinskog zakona.

@@ -1,3 +1,2 @@
 # Članak 11.
-Pivo ne smiju isporučivati pivovare ili pivari prije nego što je spremno
-za potrošnju, prema svojim općim svojstvima i pravilnoj vrsti vrenja.
+Pivo mora odgovarati proizvođačkoj specifikaciji i deklaraciji otisnutoj na etiketi te uvjetima propisanim Pravilnikom o temeljnim zahtjevima za pivo i pivu sličnim proizvodima.

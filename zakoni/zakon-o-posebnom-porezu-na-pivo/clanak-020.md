@@ -1,3 +1,2 @@
 # Članak 20.
-Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o posebnom
-porezu na pivo ("Narodne novine", br. 47/94.).
+Pravne i fizičke osobe koje nisu obveznici posebnog poreza na pivo u smislu članka 4. ovoga Zakona, a prodaju pivo koje se oporezuje posebnim porezom na pivo, obvezne su popisati zalihe piva na dan stupanja na snagu Zakona o izmjenama i dopunama Zakona o posebnom porezu na pivo (»Narodne novine«, br. 55/00.) i o tome sastaviti zapisnik po vrstama i količinama, obračunati razliku (povećanje) posebnog poreza na utvrđene zalihe, te ga uplatiti u roku od 30 dana od dana popisa na propisane račune. Izvješće o obavljenom popisu zaliha piva treba dostaviti nadležnoj ispostavi Porezne uprave prema sjedištu pravne ili fizičke osobe u roku od 8 dana od dana obavljenog popisa.

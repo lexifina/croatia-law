@@ -1,3 +1,2 @@
 # Članak 21.
-Ovaj Zakon stupa na snagu danom objave u "Narodnim novinama",
-a primjenjuje se od 1. srpnja 1994. godine.
+Danom stupanja na snagu Zakona o posebnom porezu na pivo (»Narodne novine«, br. 51/94.) prestaje važiti Uredba o posebnom porezu na pivo (»Narodne novine«, br. 47/94.).
