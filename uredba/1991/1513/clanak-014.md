@@ -1,0 +1,2 @@
+# Članak 14.
+Financiranje znanstveno-istraživačke djelatnosti i rada znanstveno-istraživačkih organizacija i znanstveno-istraživačkih radnika na određenim znanstveno-istraživačkim projektima od interesa za obranu Republike Hrvatske obavlja se na način utvrđen Zakonom o znanstveno-istraživačkoj djelatnosti ("Narodne novine", broj 14/86, 40/90. i 9/91). Ukoliko su sredstva iz stavka 1. ovoga članka nedostatna, Vlada Republike Hrvatske osigurava dodatna sredstva u ratnom budžetu Republike Hrvatske na prijedlog ministra znanosti, tehnologije i informatike.

@@ -1,0 +1,2 @@
+# Članak 2.
+Ministarstvu znanosti, tehnologije i informatike u obavljanju svojih funkcija i nadležnosti ostvaruje stalnu suradnju s Ministarstvom obrane i drugim ministarstvima, a osobito o pitanjima u svezi s procjenom nastale situacije, neophodnosti poduzimanja odgovarajućih mjera u izvršavanju utvrđenih obveza znanstveno-istraživačkih organizacija i pojedinaca u obrambenom sustavu Republike Hrvatske, kao i o drugim pitanjima u svezi organiziranja znanstveno-istraživačke djelatnosti u takvim uvjetima.

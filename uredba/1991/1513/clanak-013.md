@@ -1,0 +1,2 @@
+# Članak 13.
+U osiguranju interesa obrane Republike Hrvatske, Ministarstvo znanosti, tehnologije i informatike usmjerava i koordinira rad znanstveno-istraživačkih organizacija i ukupne znanstveno-istraživačke djelatnosti. Ministarstvo znanosti, tehnologije i informatike ovlašteno je izravno naređivati organiziranje i obavljanje znanstveno-istraživačke djelatnosti, odnosno izvršenje određenih projekata od interesa za obranu Republike Hrvatske znanstveno-istraživačkim organizacijama i drugim subjektima u znanstveno-istraživačkoj oblasti.
