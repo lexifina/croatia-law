@@ -1,0 +1,1 @@
+Na temelju članka 127. Zakona o visokim učilištima (»Narodne novine« br. 59/96 - pročišćeni tekst) Rektorski zbor visokih učilišta Republike Hrvatske na 4. sjednici u akademskoj 2000./2001. godini održanoj 2. travnja 2001. godine pod točkom 2. dnevnog reda donosi
