@@ -1,0 +1,1 @@
+Na temelju članka 48. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 1/97 - pročišćeni tekst, 111/97, 95/2000 i 129/2000), Vlada Republike Hrvatske je na sjednici održanoj 19. prosinca 2002. godine donijela
