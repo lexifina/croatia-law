@@ -1,0 +1,4 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog ŽeljezniČkog graniČnog prijelaza II. kategorije Buzet
+# Članak 1.
+Područje stalnog međunarodnog željezničkog graničnog prijelaza II. kategorije Buzet smješteno je na Željezničkom kolodvoru u Buzetu, na željezničkoj pruzi broj 3b Pula-Lupoglav-Buzet-državna granica, obuhvaća k.č. zgr. 583/1, zgr. 583/2 i 7019/1 - želj. pruga, k.o. Buzet, u pravcu izlaza iz Republike Hrvatske, proteže se od ulaznog do izlaznog signala u dužini od 890 metara, s prosječnom širinom od 40 metara, gdje se nalaze tri kolosjeka za putnički i teretni promet, zidani objekt zgrade željezničkog kolodvora s čekaonicom, u čijem se sklopu nalaze i prostorije carine, zidani objekt zgrade HŽ-a u čijem se sklopu nalaze prostorije policije i skladište, zidani objekt sanitarnog čvora, dva pomoćna zidana objekta HŽ-a, Sekcije za održavanje pruge, te parkirališni prostor za osobna vozila.
+Ukupna površina područja graničnog prijelaza iznosi 35 600 m2.
