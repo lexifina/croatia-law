@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom uređuje postupak dostave ugovora o mirovini Središnjem registru osiguranika, način vođenja evidencije ugovora o mirovini, postupanje za slučaj nepostojanja ili izostanka ugovora o mirovini ili njegove dostave nakon propisanog roka, kao i sadržaj naloga o doznaci sredstava s računa člana obveznog mirovinskog fonda te izvršenje doznake mirovinskom osiguravajućem društvu.

@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Ukoliko budući korisnik mirovine ne sklopi ugovor o mirovini iz stavka 1. članka 3. ovoga pravilnika, do dana umirovljenja odnosno propusti ili ga zakasni dostaviti REGOS-u, REGOS je obvezan u roku 5 dana od dana umirovljenja obavijestiti budućeg korisnika mirovine o obvezi sklapanja ugovora o mirovini i time ostvarenju prava na isplatu mirovine na osnovu individualne kapitalizirane štednje u sustavu obveznog mirovinskog osiguranja.
+(2) U slučaju iz stavka 1. ovoga članka sredstva na osobnom računu ostaju u izabranom OMF sve do sklapanja ugovora o mirovini i izdavanju naloga REGOS-a za prijenos sredstava na račun izabranog MOD-a.

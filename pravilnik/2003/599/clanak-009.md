@@ -1,0 +1,4 @@
+# Članak 9.
+(1) REGOS izdaje nalog obveznom mirovinskom društvu za doznaku sredstava s osobnog računa člana obveznog mirovinskog fonda na račun izabranoga MOD-a.
+(2) Ako na dan umirovljenja postoji ugovor o mirovini dostavljen na način propisan ovim pravilnikom, REGOS obračunava iznos sredstava za koje izdaje nalog za doznaku MOD-u na način da broj obračunskih jedinica na osobnom računu člana obveznog mirovinskog fonda na zadnji radni dan prije dana umirovljenja množi s vrijednošću obračunske jedinice na zadnji radni dan prije dana umirovljenja člana tog OMF.
+(3) Ako ne postoji ugovor o mirovini iz stavka 2. ovoga članka, zatvaranje osobnog računa člana obveznog mirovinskog fonda i obračun iznosa sredstava za koje se izdaje nalog izvršit će se na način iz stavka 2. ovoga članka, zadnji radni dan prije dana predaje ugovora o mirovini.
