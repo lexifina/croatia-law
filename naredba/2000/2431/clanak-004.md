@@ -1,0 +1,5 @@
+# Članak 4.
+Iza točke 14. dodaju se nove točke 14.a i 14.b koje glase:
+»14.a Rješenja o ovlaštenju pravnih osoba za potvrđivanje proizvoda, donesena prije stupanja na snagu ove naredbe ostaju na snazi dvanaest mjeseci od dana stupanja na snagu ove naredbe.
+Ovlaštene pravne osobe moraju u roku iz stavka 1. ove točke zadovoljiti sve uvjete iz točke 13. naredbe.
+14.b U cijelome tekstu Naredbe o obaveznom atestiranju užadi za izvozna postrojenja u rudarstvu, riječ »atestiranje« zamjenjuje se riječju »potvrđivanje«, riječ »atest« zamjenjuje se riječima »potvrda o sukladnosti«, riječ »standard« zamjenjuje se riječju »norma«, riječi »jugoslavenski standard« zamjenjuju se riječima »hrvatska norma«, oznaku »JUS« zamjenjuje oznaka »HRN«, riječi »organizacija udruženog rada ovlaštena za atestiranje« zamjenjuju se riječima »ovlaštena pravna osoba za potvrđivanje«, a riječi »Savezni zavod za standardizaciju« zamjenjuju se riječima »Državni zavod za normizaciju i mjeriteljstvo«, u odgovarajućem rodu i padežu.«
