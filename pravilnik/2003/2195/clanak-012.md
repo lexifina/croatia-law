@@ -1,0 +1,7 @@
+# Članak 12.
+Iznimno, u roku od godine dana od dana stupanja na snagu ovoga Pravilnika, omogućit će se:
+- liječnicima specijalistima interne medicine i pedijatrije koji su do dana stupanja na snagu ovoga Pravilnika dulje od šest mjeseci radili u centrima za dijalizu, pristupanje ispitu pred povjerenstvom koje imenuje ministar zdravstva, bez dodatnog osposobljavanja. Za pristupanje ispitu, kandidat je dužan predočiti pisani dokaz o vremenu koje je proveo radeći na dijalizi, službeno ovjeren od strane matične ustanove,
+- liječnicima specijalistima interne medicine ili pedijatrije koji su do dana stupanja na snagu ovoga Pravilnika dulje od pet godina radili u centrima za dijalizu, izdavanje uvjerenja o osposobljenosti za samostalan rad na dijalizi bez pristupanja ispitu, na njihov osobni zahtjev i uz predočenje pisanog dokaza o vremenu provedenom na radu u centru za dijalizu,
+- liječnicima specijalistima drugih specijalnosti koji su do dana stupanja na snagu ovoga Pravilnika dulje od 10 godina radili na dijalizi, na njihov osobni zahtjev ministar zdravstva može izdati uvjerenje o osposobljenosti za samostalan rad na dijalizi bez pristupanja ispitu.
+Liječnici zaposleni u jedinicama dijaliznoga liječenja moraju se trajno educirati sukladno uvjetima koje propisuje Hrvatska liječnička komora.
+Specijalist interne medicine ili pedijatrije koji pet godina radi samostalno na odjelu za dijalizu, može se postaviti za voditelja djelatnosti dijalize.

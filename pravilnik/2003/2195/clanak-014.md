@@ -1,0 +1,2 @@
+# Članak 14.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti članci 1. - 10. i članak 39a. Pravilnika o uvjetima u pogledu prostora, kadrova i medicinsko-tehničke opreme za organizacije udruženog rada u djelatnosti zdravstva (»Narodne novine« br. 14/81, 23/85 i 32/89) u dijelu koji se odnosi na hemodijalizu te članak 30. stavak 3. Pravilnika o uvjetima u pogledu prostora, djelatnika i medicinsko-tehničke opreme za obavljanje privatne prakse (»Narodne novine« br. 71/94).
