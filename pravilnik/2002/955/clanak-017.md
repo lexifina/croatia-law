@@ -1,0 +1,15 @@
+# Članak 17.
+U osobni list korisnika upisuju se:
+1. osobni podaci (prezime i ime, ime i djevojačko prezime majke i ime oca, datum, mjesto i država rođenja, jedinstveni matični broj - JMBG, prebivalište/boravište roditelja/skrbnika i adresa stanovanja),
+2. bračni status roditelja,
+3. pravni temelj smještaja (Zakon o socijalnoj skrbi, Obiteljski zakon, Zakon o sudovima za mladež),
+4. klasa, urudžbeni broj i datum izdavanja rješenja o smještaju, nadležnog centra za socijalnu skrb odnosno suda,
+5. nadležni centar za socijalnu skrb (naziv, sjedište),
+6. stručni radnik centra za socijalnu skrb zadužen za korisnika (ime i prezime),
+7. klasa, urudžbeni broj i datum izdavanja rješenja o skrbništvu,
+8. datum prijama,
+9. škola i razred koji pohađa - vrsta programa,
+10. razlog prijama,
+11. datum prestanka smještaja,
+12. kuda se korisnik upućuje,
+13. list zapažanja ponašanja korisnika (bjegovi, liječenje u bolnici i druga izbivanja, od kada do kada),

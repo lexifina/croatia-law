@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Domovi vode evidenciju zaprimljenih zahtjeva za stalni smještaj, u koju se upisuje redni broj, ime i prezime korisnika, datum primitka svakog pojedinog zahtjeva, dan saziva i odluka komisije za prijam i otpust korisnika, vrsta smještaja, datum prijama u dom i posebna napomena glede bitnih promjena od podnošenja zahtjeva.
+(2) Domovi vode evidenciju zaprimljenih zahtjeva za cjelodnevni i poludnevni boravak i za pomoć i njegu u kući u koju se upisuje redni broj, ime i prezime korisnika, datum primitka svakog pojedinog zahtjeva, vrsta usluge koja se traži, posebna napomena glede bitnih promjena od podnošenja zahtjeva, datum početka pružanja usluge.
