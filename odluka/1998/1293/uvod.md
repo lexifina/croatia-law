@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o obrtu ("Narodne novine", broj 77/93 i 90/96) i članka 25. stavak 1. točka 1. i 5. Statuta Hrvatske obrtničke komore ("Narodne novine", broj 56/94 i 2/95), Skupština Hrvatske obrtničke komore na Sjednici održanoj 1. srpnja 1998. donijela je
