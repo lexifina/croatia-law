@@ -1,0 +1,1 @@
+Odluka o prestanku rada gospodarskih jedinica "Ivančica", Kaznionice u Lepoglavi, "Odra", Kaznionice u Turopolju, "Valtura", Kaznionice u Valturi, te dijelova gospodarskih jedinica "Orljava" u Kaznion
