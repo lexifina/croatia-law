@@ -1,0 +1,7 @@
+# Članak 31.
+U članku 85. dodaju se novi stavci 2., 3., 4. i 5. koji glase:
+"(2) Porezni obveznik koji porez na dodanu vrijednost plaća prema primljenim (naplaćenim) naknadama pri prijelazu na oporezivanje prema izdanim računima, mora iskazati poreznu obvezu za sve isporuke dobara i usluga koje nisu naplaćene do dana prijelaza (31. prosinca protekle godine), budući se smatra da je danom prijelaza na oporezivanje prema izdanim računima došlo do isporuke dobara ili usluge, a porezna obveza nastaje istekom obračunskog razdoblja u kojem je dan prijelaza (1. siječnja tekuće godine).
+(3) Za predujmove koje je porezni obveznik koji porez na dodanu vrijednost plaća prema naplaćenim (primljenim) naknadama, primio prije prijelaza na oporezivanje prema izdanim računima, pri isporuci dobara ili usluga poslije prijelaza na oporezivanje prema izdanim računima, ne nastaje porezna obveza do visine primljenog predujma.
+(4) Porezni obveznik koji porez na dodanu vrijednost plaća prema izdanim računima pri prijelazu na oporezivanje prema naplaćenim računima, za isporučena dobra i usluge obavljene prije prijelaza, a naplaćene poslije promjene načina obračunavanja poreza, ne iskazuje poreznu obvezu.
+(5) Porezni obveznik koji porez na dodanu vrijednost plaća prema izdanim računima, pri prijelazu na oporezivanje prema naplaćenim računima, za primljene predujmove prije promjene načina obračunavanja poreza, za isporuke obavljene poslije promjene načina oporezivanja, ne iskazuje poreznu obvezu do visine primljenog predujma."
+Dosadašnji stavak 2. postaje stavak 6.

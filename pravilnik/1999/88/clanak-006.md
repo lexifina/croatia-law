@@ -1,0 +1,7 @@
+# Članak 6.
+Članak 25. mijenja se i glasi:
+"Članak 25.
+(1) Vlastita potrošnja poduzetnika - poreznog obveznika utvrđuje se na temelju računa, obračuna, knjigovodstvenih i drugih vjerodostojnih isprava.
+(2) Kod poduzetnika - poreznog obveznika manjkovi dobara za koje se ne tereti odgovorna osoba smatraju se vlastitom potrošnjom poduzetnika i podliježu oporezivanju, osim kala, rastepa, kvara i loma, a najviše do visine utvrđene odlukom Gospodarske i Obrtničke komore i manjkova dobara nastalih djelovanjem više sile. Manjkovima uslijed više sile u smislu ovoga Pravilnika, razumijevaju se manjkovi (štete) od elementarnih nepogoda (poplava, požar, potres i dr.), ratnih razaranja i provalnih krađa, do visine utvrđene temeljem očevidnika nadležnog tijela za procjenu šteta.
+(3) Tehnološki manjak nastao u procesu proizvodnje smatra se porezno priznatim manjkom do visine utvrđene normativima prema vrsti djelatnosti odnosno do visine utvrđene zakonima o posebnim porezima za proizvode koji podliježu plaćanju posebnih poreza. Normativi mogu biti utvrđeni od strane poduzetnika ili strukovne grupacije, a ako ih nema utvrđuje ih Porezna uprava procjenom na temelju međuovisnosti između prihoda i rashoda (primitaka i izdataka) putem normativa utroška materijala, energije, rada i drugih proizvodnih čimbenika.
+(4) Manjak dobara zbog neodgovarajuće kvalitete, proteka roka trajanja, kala, rastepa, loma i kvara iznad visine utvrđene prema stavku 2. ovoga članka, može se priznati, ako je pri utvrđivanju činjeničnog stanja prisutan ovlašteni djelatnik Porezne uprave."

@@ -1,0 +1,13 @@
+# Članak 23.
+Članak 70. mijenja se i glasi:
+"Članak 70.
+(1) Poreza na dodanu vrijednost oslobođen je:
+1. privremeni uvoz dobara koji je oslobođen carine i konačni uvoz humanitarne pomoći osim nafte i naftnih derivata, duhana i duhanskih prerađevina, alkohola i alkoholnih pića. Humanitarnom pomoći u smislu ove točke smatra se uvoz dobara za koje primatelj - humanitarna organizacija registrirana u Republici Hrvatskoj po propisima o humanitarnim organizacijama, nema plaćanja u inozemstvo, a uvoz dobara je namijenjen za potrebe humanitarne organizacije (oprema, potrošni materijal) ili za programe pomoći koje provodi.
+2. uvoz zlatnih poluga koji obavlja Hrvatska narodna banka, domaćih i stranih zakonskih sredstava plaćanja, vrijednosnica i udjela u poduzećima.
+3. uvoz dobara osobne prtljage bez ograničenja vrijednosti, te ostalih dobara za osobnu uporabu do ukupne vrijednosti od 300,00 kuna, što ih uvoze domaći i strani putnici pri dolasku iz inozemstva, ako ta dobra nisu namijenjena preprodaji. Ovo porezno oslobođenje može se koristiti samo neposredno pri dolasku iz inozemstva.
+4. uvoz predmeta koje hrvatski i strani državljani prime iz inozemstva u poštanskim i drugim pošiljkama do ukupne vrijednosti od 300,00 kuna. Pošiljke čija vrijednost prelazi iznos od 300,00 kuna nisu obuhvaćene ovim oslobođenjem.
+5. uvoz reklamnog materijala i uzoraka koje besplatno iz inozemstva prime državna tijela, trgovačka društva, ustanove te druge pravne i fizičke osobe, čija pojedinačna vrijednost ne prelazi 60,00 kuna, prema Odluci i vrsti, količini i vrijednosti predmeta koji se uvoze uz primjenu carinskih povlastica ("Narodne novine", broj 91/95 i 142/97).
+6. uvoz upotrebljavanih dobara kućanstva i osobnih stvari u količini i vrsti primjerenoj potrebama kućanstva, što ih uvoze, unose ili primaju useljenici i povratnici koji se useljavaju ili vraćaju u Republiku Hrvatsku, a prema Odluci o predmetima koji se uvoze, unose ili primaju u carinsko područje Republike Hrvatske, a ne smatraju se carinskom robom ("Narodne novine", broj 142/97) i Pravilniku o vrsti i količini predmeta kućanstva i osobnih stvari koje se mogu uvoziti temeljem carinskih i poreznih povlastica useljenika i povratnika ("Narodne novine", broj 22/98).
+7. usluge u svezi s uvozom dobara, kada je vrijednost tih usluga uključena u poreznu osnovicu u skladu s odredbom članka 9. stavak 1. Zakona. Porezni obveznik je dužan pružiti dokaze o tome da je vrijednost usluge uključena u poreznu osnovicu u skladu s odredbom članka 9. stavak 1. Zakona.
+8. usluge prijevoza što ih u tuzemstvu pri uvozu dobara obave Hrvatske željeznice.
+9. dobra u provozu kroz carinsko područje Republike Hrvatske uključujući prijevozne i otpremne usluge vezane uz provoz."

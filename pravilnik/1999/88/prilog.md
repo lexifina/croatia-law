@@ -1,0 +1,63 @@
+Obrazac ZP-PDV
+Broj inozemnog poreznog Datum primitka
+obveznika u Područnom uredu
+Porezne uprave nadležnom
+za povrat poreza
+inozemnim poduzetnicima
+___________________
+Ako je ovo prvi zahtjev
+___________________
+POREZNA UPRAVA - PODRUČNI URED
+ZAGREB
+Odjel za povrat poreza inozemnim
+poduzetnicima
+ZAHTJEV ZA POVRAT POREZA
+____________________________________________________________________________
+1. IME I PREZIME ILI TVRTKA PODUZETNIKA
+____________________________________________________________________________
+ULICA I KUĆNI BROJ
+____________________________________________________________________________
+POŠTANSKI BROJ, GRAD, ZEMLJA
+____________________________________________________________________________
+2. VRSTA DJELATNOSTI ILI OBRTA
+____________________________________________________________________________
+3. POREZNA SLUŽBA I BROJ POD KOJIM SE PODNOSITELJ ZAHTJEVA VODI U DRŽAVI
+U KOJOJ IMA SJEDIŠTE ILI PREBIVALIŠTE
+____________________________________________________________________________
+OD DO
+4. RAZDOBLJE ZA POVRAT MJ. GOD. MJ. GOD.
+____________________________________________________________________________
+KUNE I LIPE
+5. UKUPAN IZNOS POVRATA PREMA
+SPECIFIKACIJI U PRILOGU
+____________________________________________________________________________
+6. POVRAT POREZA IZVRŠITI NA
+RAČUN
+Broj računa
+____________________________________________________________________________
+7. BROJ PRILOGA
+____________________________________________________________________________
+8. PODUZETNIK IZJAVLJUJE:
+a) da su usluge za koje se traži povrat obavljene u poduzetničke svrhe,
+b) da poduzetnik u razdoblju za koje podnosi zahtjev za povrat poreza nije na području Republike
+Hrvatske obavio nikakve isporuke dobara i ostale usluge,
+- da je obavio samo određene prijevozne usluge u zračnom, riječnom i pomorskom prijevozu
+c) pod materijalnom i krivičnom odgovornošću da su navodi u zahtjevu točni. Poduzetnik je obvezan vratiti svaki nezakonito primljeni iznos.
+____________________________________________________________________________
+Mjesto i datum, Potpis i žig poduzetnika
+______________________ ______________________
+Zastupnik tražitelja povrata
+ime i prezime, tvrtka
+______________________
+Adresa, telefonski broj
+______________________
+Poleđina obrasca - ZP-PDV
+________________________________________________________________________________________
+Popis pojedinačnih računa za koje se traži povrat poreza
+________________________________________________________________________________________
+Red. Vrsta Naziv i porezni broj Datum i broj Porez na dodanu
+broj usluge isporučitelja usluge računa vrijednost
+________________________________________________________________________________________
+________________________________________________________________________________________
+UKUPNO:
+________________________________________________________________________________________
