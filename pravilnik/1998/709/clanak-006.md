@@ -1,0 +1,3 @@
+# Članak 6.
+Kod namirnica i predmeta opće uporabe koji se nalaze u rasutom stanju, a koji nisu homogeni, uzorci se uzimaju s više mjesta miješanjem (postupkom četvrtanja) tako da se dobe prosječni uzorci za obavljanje analize, odnosno superanalize.
+Postupak četvrtanja iz stavka 1. ovoga članka provodi se tako da se izdvojena količina namirnica, odnosno predmeta opće uporabe rasporedi u obliku kvadrata na ravnoj i čistoj površini, dijagonalno razdijeli na četiri jednaka dijela, te se od svakog dijela uzimaju uzorci sa suprotnih strana. Četvrtanje se ponavlja sve dok se ne dobije najmanja količina uzorka za obavljanje analiza, odnosno superanaliza utvrđenih ovim Pravilnikom.

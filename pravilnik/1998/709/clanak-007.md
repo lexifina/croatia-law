@@ -1,0 +1,2 @@
+# Članak 7.
+Kod namirnica i predmeta opće uporabe koji se nalaze u vrećama, bačvama, kovčezima ili drugim sličnim velikim posudama, uzorci se uzimaju s vrha, iz sredine i s dna ambalaže jedinice u kojoj se nalaze. Ako su te namirnice, odnosno predmeti opće uporabe nehomogeni, uzimaju se posebni uzorci od svakog homogenog dijela i postupkom četvrtanja dobiva prosječan uzorak, za obavljanje analiza, odnosno superanaliza.
