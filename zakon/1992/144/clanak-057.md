@@ -1,0 +1,2 @@
+# Članak 57.
+Ovlašćuje se ministar unutarnjih poslova da u provedbenim propisima o načinu nadzora i o kontroli prelaženja državne granice, o kretanju i zadržavanju na području graničnog prijelaza, o obvezama i odgovornostima organizatora zračnog prijevoza u međunarodnom prometu o uvjetima za ulazak, odnosno prelazak preko teritorija Republike Hrvatske, o vođenju evidencija i izvješćivanju te o oznakama na državnoj granici i graničnim prijelazima, propisuje prekršaje i određuje novčane kazne za te prekršaje.

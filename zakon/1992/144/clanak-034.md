@@ -1,2 +1,2 @@
 # Članak 34.
-Granićna policijs oduzet će i pohraniti do okončanja postupka oružje i streljivo hrvatskom državljaninu ili strancu koje prilikom prelaska državne granice ne prijavi na graničnom prijelazu.
+Pravne osobe koje se bave organiziranjem turističkih ili poslovnih putovanja u Republiku Hrvatsku, obvezne su prije organiziranog dolaska grupe stranaca ili pojedinaca u Republiku Hrvatsku jamstvenim pismom preuzeti obvezu podmirenja troškova njihovog boravka u Republici Hrvatskoj te troškova deportacije, odnosno repatrijacije iz Republike Hrvatske, ukoliko te troškove ne može podmiriti osoba prema kojoj se poduzimaju navedene mjere.

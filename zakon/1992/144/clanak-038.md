@@ -1,2 +1,8 @@
 # Članak 38.
-Stranac koji ima odobren produženi boravak, trajno nastajanje ili boravak s poslovnom vizom, odnosno kojem je priznat status izbjeglice, može prenositi oružje i streljivo preko državne granice pod uvjetima propisanim ovim zakonom.
+Hrvatski državljanin (u daljnjem tekstu: državljanin) i pravna osoba mogu u zemlju unijeti oružje i streljivo na temelju odobrenja nadležnog tijela.
+Oružje i streljivo koje se prema propisima o oružju može nabaviti bez odobrenja, može se unijeti u zemlju pod uvjetima za nabavu takvog oružja i streljiva predvidenim tim propisima.
+Granična policija na odobrenju iz stavka 1. ovoga članka, a za oružje koje se može nabaviti bez odobrenja, na odgovarajućoj ispravi o nabavci oružja i streljiva (račun i slično), potvrđuje unos oružja i streljiva i o tome izvješćuje nadležno tijelo.
+Vlasnik oružja dužan je u roku od 8 dana od unosa oružja u zemlju kod nadležnog tijela podnijeti zahtjev za registraciju oružja.
+Ako za oružje i streljivo iz stavka 1. ovoga članka državljanin s odobrenim boravkom u inozemstvu nema odobrenja nadležnoga tijela, isto će se oduzeti i o njegovom trošku dostaviti nadležnom tijelu prema mjestu prebivališta odnosno prema posljednjem prebivalištu prije odlaska na stalni boravak u inozemstvo.
+Ako državljanin s boravkom u inozemstvu ne zatraži izdavanje isprave za nabavljanje oružja i streljiva ili ako nadležno tijelo odbije zahtjev za nabavljanje oružja i streljiva, odredit će se rok za vraćanje oružja i streljiva u inozemstvo.
+Ako državljanin s boravkom u inozemstvu u roku određenom u aktu nadležnog tijela iz stavka 6. ovoga članka ne vrati oružje i streljivo u inozemstvo, predat će se pravnoj ili fizičkoj osobi ovlaštenoj za promet oružja i streljiva poradi prodaje. Novčani iznos dobiven prodajom, a umanjen za troškove prodaje uručit će se vlasniku oružja i streljiva.

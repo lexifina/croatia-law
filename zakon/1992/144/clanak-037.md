@@ -1,2 +1,2 @@
 # Članak 37.
-Državljanin koji ima prebivalište u Republici Hrvatskoj smije prenositi preko državne granice oružje za koje ima oružni list s pravom na nošenje oružja i pripadajućeg streljiva.
+Granična policija oduzet će i pohraniti do okončanja postupka oružje i streljivo hrvatskom državljaninu ili strancu koje prilikom prelaska državne granice ne prijavi na graničnom prijelazu.
