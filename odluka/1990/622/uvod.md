@@ -1,0 +1,1 @@
+Na temelju Amandmana LXII. stava 1. točke 1. na Ustav Republike Hrvatske, Sabor Republike Hrvatske, na sjednici Vijeća udruženog rada 26. srpnja 1990., Vijeća općina 26 srpnja 1990. i Društveno-političkog vijeća 26. srpnja 1990. donio je
