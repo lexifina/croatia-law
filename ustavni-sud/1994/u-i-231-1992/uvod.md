@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda i suci Zdravko Bartovčak, dr. Nikola Filipović, Ante Jelavić, mr. Vojislav Kučeković:, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, na sjednici održanoj 7. lipnja 1994. godine donio je
