@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ukupna dozvoljena godišnja količina ulova po povlasticama za gospodarski ribolov određuje se tako da se ukupna dozvoljena godišnja količina ulova za ribolovno područje podijeli s brojem povlastica za to ribolovno područje.
+(2) Nakon što Ministarstvo poljoprivrede i šumarstva temeljem dostavljenih podataka o ulovu utvrdi da je na ribolovnom području izlovljena dozvoljena godišnja količina ulova za pojedinu vrstu ribe ili ukupna dozvoljena godišnja količina ulova za to ribolovno područje, donijet će rješenje o zabrani izlova pojedine vrste ribe ili svih vrsta riba iz članka 3. ove Naredbe.
