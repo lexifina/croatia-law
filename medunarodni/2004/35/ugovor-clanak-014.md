@@ -1,0 +1,7 @@
+# Članak 14.
+1. Ova (revidirana) Konvencija otvorena je za potpisivanje članicama Vijeća Europe i drugim državama strankama Europske kulturne konvencije.
+Konvencija podliježe ratifikaciji, prihvaćanju ili odobrenju. Instrumenti ratifikacije, prihvaćanja ili odobrenja pohranjuju se kod Glavnog tajnika Vijeća Europe.
+2. Ni jedna država stranka Europske konvencije o zaštiti arheološke baštine, potpisane u Londonu, 6. svibnja 1969., ne može položiti instrumente ratifikacije, prihvaćanja ili odobrenja, ako nije istovremeno ili naknadno otkazala navedenu Konvenciju.
+3. Ova (revidirana) Konvencija stupa na snagu šest mjeseci od dana kada su četiri države, uključujući najmanje tri države članice Vijeća Europe, izrazile suglasnost o prihvaćanju obveza iz ove (revidirane) Konvencije sukladno odredbama prethodnih stavaka.
+4. U slučaju da u primjeni prethodnih dvaju stavaka otkazivanje Konvencije od 6. svibnja 1969. ne stupi na snagu istovremeno sa stupanjem na snagu ove (revidirane) Konvencije, ugovorna strana se može, prilikom polaganja instrumenta ratifikacije, prihvaćanja ili odobrenja, očitovati da će nastaviti primjenjivati Konvenciju od 6. svibnja 1969. do stupanja na snagu ove (revidirane) Konvencije.
+5. U odnosu na svaku državu potpisnicu koja naknadno izrazi svoju suglasnost o prihvaćanju obveza, (revidirana) Konvencija stupa na snagu šest mjeseci od dana polaganja instrumenta ratifikacije, prihvaćanja ili odobrenja.

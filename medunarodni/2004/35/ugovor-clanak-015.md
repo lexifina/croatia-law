@@ -1,0 +1,3 @@
+# Članak 15.
+1. Nakon stupanja na snagu ove (revidirane) Konvencije, Odbor ministara Vijeća Europe može pozvati bilo koju državu nečlanicu Vijeća i Europsku ekonomsku zajednicu da pristupi (revidiranoj) Konvenciji na temelju odluke koju donosi većina sukladno članku 20. točki d Statuta Vijeća Europe, te jednoglasnim glasovanjem predstavnika ugovornih strana ovlaštenih da budu u Vijeću.
+2. U odnosu na sve države koje pristupaju, ili koje bi trebale pristupati, Europskoj ekonomskoj zajednici, (revidirana) Konvencija stupa na snagu šest mjeseci od dana polaganja instrumenta pristupanja kod Glavnog tajnika Vijeća Europe.
