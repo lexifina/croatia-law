@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, broj 107/2003), Vlada Republike Hrvatske je na sjednici održanoj 27. svibnja 2004. godine, donijela
