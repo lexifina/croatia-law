@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu (»Narodne novine«, broj 16/2002), u članku 1. riječi »271092510 za ex. petrolej za motore (kerozin)« zamjenjuju se riječima »2710192510 za ex. za ostale motore«, riječi »2710196110 za ex. ekstra lako i lako specijalno« zamjenjuju se riječima »2710194110 za ex. plinska loživa ulja, 2710194510 za ex. plinska loživa ulja, 2710194910 za ex. plinska loživa ulja«.
