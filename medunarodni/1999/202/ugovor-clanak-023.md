@@ -1,0 +1,2 @@
+# Članak 23.
+Ova Konvencija pohranjuje se kod glavnog tajnika Ujedinjenih naroda. Otvorena je za potpisivanje do 30. lipnja 1962. svim državama pozvanim na Diplomatsku konferenciju o međunarodnoj zaštiti umjetnika izvođača, proizvođača fonograma i organizacija za radiodifuziju, koje su stranke Univerzalne konvencije o autorskom pravu ili članice Međunarodne unije za zaštitu književnih i umjetničkih djela.

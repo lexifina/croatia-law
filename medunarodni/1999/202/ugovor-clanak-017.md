@@ -1,0 +1,2 @@
+# Članak 17.
+Svaka država koja na dan 26. listopada 1961. priznaje proizvođačima fonograma zaštitu samo na temelju mjerila fiksiranja može, notifikacijom položenom kod glavnog tajnika Ujedinjenih naroda, izjaviti u vrijeme ratifikacije, prihvata ili pristupa da će za potrebe članka 5. primjenjivati samo mjerilo fiksiranja, a za potrebe stavka 1., točke a) iii) i iv) iz članka 16. mjerilo fiksiranja umjesto mjerila državljanstva.

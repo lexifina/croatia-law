@@ -1,0 +1,3 @@
+# Članak 27.
+1. Svaka država može, u vrijeme ratifikacije, prihvata ili pristupa ili bilo kada nakon toga notifikacijom izjaviti glavnom tajniku Ujedinjenih naroda da će ovu Konvenciju protegnuti na sve ili na neke od teritorija za čije je međunarodne odnose ona odgovorna, pod pretpostavkom da se na dotičnom teritoriju ili teritorijima primjenjuje Univerzalna konvencija o autorskom pravu ili Međunarodna konvencija za zaštitu književnih i umjetničkih djela. Ta će notifikacija stupiti na snagu tri mjeseca nakon datuma njezina primitka.
+2. Notifikacije navedene u stavku 3. iz članka 5., u stavku 2. iz članka 6., u stavku 1. iz članka 16. i u člancima 17. i 18. mogu se proširiti na sve ili na bilo koji od teritorija navedenih u stavku 1. ovoga članka.
