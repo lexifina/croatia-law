@@ -1,0 +1,1 @@
+Na osnovi članka 23. stavka 4. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90. 8/91,14/91; 53A/91 i 9/92) i članka 11. Uredbe o upravljanju nacionalnim parkovima ("Narodne novine". broj 59/91), Vlada Republike Hrvatske je na sjednici odrianoj 11. ožujka 1992, donijela
