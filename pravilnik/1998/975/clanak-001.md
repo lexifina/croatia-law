@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se pravilnikom propisuje postupak izdavanja dozvole za promet i primjenu sredstava za zaštitu bilja, metodologija po kojoj se obavlja kemijsko, fizikalno i biološko istraživanje sredstava za zaštitu bilja, kriteriji za ocjenu uspješnosti sredstava za zaštitu bilja, podaci koje mora sadržavati dozvola za promet i primjenu sredstva za zaštitu bilja, sadržaj zahtjeva za dobivanje dozvole za promet i primjenu sredstva za zaštitu bilja, sadržaj zahtjeva za izdavanje suglasnosti za uvoz uzoraka sredstava za zaštitu bilja, način deklariranja sredstava za zaštitu bilja i sadržaj upute o primjeni sredstva za zaštitu bilja.

@@ -1,0 +1,2 @@
+# Članak 5.
+Uz zahtjev iz članka 3. ovog pravilnika, podnositelj zahtjeva obvezan je dostaviti Zavodu potrebnu količinu sredstva u izvornoj ambalaži, deklaraciju za sredstvo iz zemlje proizvodnje ili neke od zemalja Europske unije (u daljnjem tekstu: »EU«) ili Organizacije za ekonomsku suradnju i razvoj (u daljnjem tekstu: »OECD«), uzorak čiste djelatne tvari (standarda poznate čistoće) mase 0,3-1 g i uzorak tehničke djelatne tvari mase 20-100 g.
