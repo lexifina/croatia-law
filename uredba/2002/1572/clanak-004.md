@@ -1,0 +1,2 @@
+# Članak 4.
+Metodologijom se utvrđuje jedinstveni pristup izradi programa, te određuje postupak i način njihove izrade, koji uključuje metode prikupljanja, obrade i rangiranja podataka, metode ocjene nosivog kapaciteta otočnog ekosustava, metode demografske analize, mikroekonomske analitičke metode, metode ocjene ulagačkih pothvata, participativne metode određivanja razvojnih stavova i SWOT analizu (analiza snage, slabosti, prilika i prijetnji).
