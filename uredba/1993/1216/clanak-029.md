@@ -1,0 +1,6 @@
+# Članak 29.
+Iza članka 363. dodaju se dva nova članka, koji glase:
+" Članak 363a.
+Vrijednost robe prema kojoj se, sukladno odredbama ovoga zakona, utvrđuje visina novčane kazne ili naplaćuje protuvrijednost robe, valutna je vrijednost te robe u njemačkim markama (DEM) na dan izvršenja prekršaja, iskazana u dinarskoj protuvrijednosti po srednjem tečaju Narodne banke Hrvatske na dan donošenja odgovarajućeg rješenja o izricanju novčane kazne odnosno o naplati protuvrijednosti robe. Svota novčane kazne odnosno svota protuvrijednosti robe utvrđena rješenjem iz stavka (1) ovoga članka, revalorizira se prema srednjem tečaju njemačke marke (DEM) Narodne banke Hrvatske na dan njihovog plaćanja.
+Članak 363b.
+Za prekršaje iz članka 344. stavak (1) točka 2) i članka 348. stavak (1) točka 1), 2) i 3) predsjedniku konsignacijskog skladišta, specijaliziranog skladišta i slobodne carinske prodavaonice, uz novčanu kaznu za učinjeni prekršaj obvezatno se izriče i zaštitna mjera zabrane obavljanja djelatnosti vođenja konsignacijskog skladišta, specijaliziranog skladišta, odnosno slobodne carinske prodavaonice, u trajanju od šest mjeseci do tri godine, a za ponovljeni prekršaj zabrana obavljanja takve djelatnosti do pet godina."

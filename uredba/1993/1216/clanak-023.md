@@ -1,0 +1,3 @@
+# Članak 23.
+U članku 351. stavak (1) mijenja se i glasi:
+"(1)Poduzeće ili druga pravna osoba što robu kupi, proda ili primi na dar, prikrije, primi na čuvanje, uporabi ili primi po ma kojoj drugoj osnovi, a za koju zna ili je mogla znati da je njome izvršen prekršaj iz članka 343. stavak (1), članka 344. stavak (1) točka 1), 2) i 3), članka 345. stavak (1) točka 3), članka 352. stavak (1) točka 2), 3), 6), 7) i 8) i članka 355. ili ako je učinitelj izvršio neku od radnji iz članka 343. stavak (1), članka 344. stavak (1) točka 1) i članka 345. stavak (1) točka 3) Carinskog zakona, kaznit će se kaznom propisanom za izvršitelja prekršaja.".
