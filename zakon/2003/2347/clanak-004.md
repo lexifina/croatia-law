@@ -1,0 +1,4 @@
+# Članak 4.
+U članku 8. dodaju se stavci 2. i 3. koji glase:
+»(2) Dobit iz članka 3. ovoga Zakona umanjuje se za darovanja u naravi ili novcu doznačenom na račun, u kulturne, znanstvene, odgojno-obrazovne, zdravstvene, humanitarne, športske, vjerske i druge svrhe, udrugama i drugim osobama koje navedene djelatnosti obavljaju u skladu s posebnim propisima. Vrijednost darovanja za koje se umanjuje porezna osnovica može biti do 2% prihoda ostvarenog u prethodnoj godini. Iznimno, svota može biti i veća od 2% prihoda prethodne godine ako je dana prema odlukama nadležnih ministarstva o provedbi financiranja posebnih programa i akcija, ali ne i za redovnu djelatnost primatelja dara.
+(3) Umanjenje iz stavka 3. ovoga članka priznaje se najviše do visine svote koja preostane nakon umanjenja iz stavka 1. ovoga članka.«
