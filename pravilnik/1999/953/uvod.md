@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 3., članka 47. stavka 2., članka 49. stavka 2. i članka 50. stavaka 2. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja ("Narodne novine", broj 131/97.), ministar poljoprivrede i šumarstva donosi
