@@ -1,0 +1,2 @@
+# Članak 2.
+Policijske uprave odnosno policijske stanice privremeno će od građana oduzeti sve vrste lovačkog oružja s užlijebljenim cijevima i vojničko oružje (dugo oružje) kao i pripadajuće streljivo. Po potrebi oduzet će se i lovačko oružje s neužlijebljenim cijevima s pripadajućim streljivom. U slučaju potrebe oružje i streljivo iz stavka 1. ovog članka oduzet će se i od poduzeća i radnji koje se bave prometom oružja i streljiva kao i od lovačkih i streljačkih organizacija.
