@@ -1,0 +1,8 @@
+# Članak 7.
+(1) Glavni državni odvjetnik Republike Hrvatske (u daljnjem tekstu: Glavni državni odvjetnik), državni odvjetnik te zamjenik Glavnoga državnog odvjetnika ili zamjenik državnog odvjetnika (u daljnjem tekstu: zamjenik državnog odvjetnika) ne smije biti pozvan na odgovornost, uhićen ili pritvoren ili kažnjen za izraženo pravno mišljenje u predmetu koji mu je dodijeljen u rad.
+(2) Državni odvjetnik ili zamjenik državnog odvjetnika ne može u postupku pokrenutom zbog kaznenog djela počinjenog u obavljanju državnoodvjetničke dužnosti biti pritvoren bez odobrenja Državnoodvjetničkog vijeća.
+(3) Kad je državni odvjetnik ili zamjenik državnog odvjetnika pritvoren ili je protiv njega poduzet kazneni progon nadležno državno tijelo je dužno odmah o tome izvijestiti Glavnoga državnog odvjetnika.
+(4) Glavni državni odvjetnik ne smije biti pritvoren niti se protiv njega smije pokrenuti kazneni postupak bez odobrenja Hrvatskoga sabora.
+(5) Glavni državni odvjetnik može biti pritvoren bez odobrenja Hrvatskoga sabora samo ako je zatečen u počinjenju kaznenog djela za koje je propisana kazna zatvora u trajanju dužem od 5 godina. O takvom se slučaju, izvješćuje predsjednika Hrvatskoga sabora.
+(6) Ako Hrvatski sabor ne zasjeda, odobrenje da se Glavni državni odvjetnik pritvori, ili da se protiv njega pokrene kazneni postupak odlučuje Mandatno‑imunitetno povjerenstvo Hrvatskoga sabora, s time što njegovu odluku naknadno potvrđuje Hrvatski sabor.
+(7) Ako Državnoodvjetničko vijeće nije na okupu, odobrenje za pritvor državnog odvjetnika ili zamjenika državnog odvjetnika daje predsjednik Državnoodvjetničkog vijeća. Odluku predsjednika u roku od osam dana potvrđuje Državnoodvjetničko vijeće.

@@ -1,0 +1,4 @@
+# Članak 117.
+(1) Zahtjev za razrješenje zamjenika državnog odvjetnika može podnijeti državni odvjetnik u državnom odvjetništvu u kojemu zamjenik državnog odvjetnika radi, viši državni odvjetnik i Glavni državni odvjetnik.
+(2) Zamjenik državnog odvjetnika može postaviti zahtjev za svoje razrješenje putem državnog odvjetnika kojemu je zamjenik.
+(3) Zahtjev za razrješenje zamjenika državnog odvjetnika zbog trajnog gubitka sposobnosti za obavljanje dužnosti može se temeljiti samo na pravomoćnoj odluci suda o oduzimanju poslovne sposobnosti ili pravomoćnoj odluci nadležnog tijela da su tjelesna ili duševna svojstva zamjenika državnog odvjetnika takva da onemogućuju obavljanje državnoodvjetničke dužnosti. Ako se zamjenik državnog odvjetnika odbije podvrći odgovarajućem medicinskom pregledu, Vijeće će mu, na prijedlog podnositelja zahtjeva za razrješenje, naložiti da pristupi odgovarajućim pregledima, a ako on to ne učini, razriješit će se dužnosti.

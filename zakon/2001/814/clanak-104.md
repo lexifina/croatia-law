@@ -1,0 +1,14 @@
+# Članak 104.
+(1) Nakon proteka roka iz članka 103. stavka 3. ovoga Zakona Glavni državni odvjetnik zatražit će mišljenje o svim kandidatima za zamjenike državnog odvjetnika od nadležnih županijskih državnih odvjetnika i kolegija. Uz poziv na davanje mišljenja, Glavni državni odvjetnik će dostaviti prijave s dokazima i podacima koje su kandidati priložili, te podatke o kandidatima kojima Državno odvjetništvo Republike Hrvatske raspolaže po službenoj dužnosti.
+(2) Mišljenje o kandidatima daje:
+- za zamjenika općinskoga državnog odvjetnika državni odvjetnik tog državnog odvjetništva, županijski državni odvjetnik i kolegij općinskoga državnog odvjetništva u kojem je oglašeno slobodno mjesto zamjenika,
+- za zamjenika županijskoga državnog odvjetnika državni odvjetnik tog državnog odvjetništva, Glavni državni odvjetnik i kolegij županijskoga državnog odvjetništva u kojem je oglašeno slobodno mjesto zamjenika,
+- za zamjenika Glavnoga državnog odvjetnika Glavni državni odvjetnik i Kolegij Državnog odvjetništva Republike Hrvatske.
+(3) U postupku davanja mišljenja može se zatražiti i podatke o kandidatima:
+- od predsjednika suda, ako je kandidat već obavljao dužnost suca, sudskog savjetnika ili sudačkog vježbenika, odnosno drugu dužnost u pravosuđu,
+- od drugih tijela i organizacija koje mogu dati podatke relevantne za ispunjavanje općih i posebnih uvjeta za imenovanje zamjenika državnog odvjetnika odgovarajućega državnog odvjetništva.
+(4) Ako su za kandidata već bile dane ocjene obnašanja dužnosti, Vijeće će uzeti takve ocjene u obzir pri izradi mišljenja, a ako njima ne raspolaže, pribavit će ih od Državnog odvjetništva Republike Hrvatske ili ministarstva nadležnog za poslove pravosuđa.
+(5) Mišljenje županijskoga državnog odvjetnika i kolegija o kandidatima za državnoodvjetničku dužnost, izrađuje se u pisanom obliku i sadrži obrazloženje o ispunjavanju općih i posebnih uvjeta za imenovanje zamjenika državnog odvjetnika odgovarajućeg državnog odvjetništva. U izradi obrazloženja županijski državni odvjetnik i kolegij cijenit će na odgovarajući način kriterije iz odredbe članka 65. ovoga Zakona.
+(6) Državni odvjetnik i kolegij dužni su svoje mišljenje dostaviti najkasnije u roku od 60 dana. Ako mišljenje ne bude dostavljeno, Glavni državni odvjetnik podnijet će Vijeću listu svih kandidata koji ispunjavaju uvjete za zamjenika državnog odvjetnika, sa svojim mišljenjem i podacima kojima raspolaže po službenoj dužnosti.
+(7) Vijeće u postupku imenovanja može o kandidatima samo zatražiti podatke iz stavka 3. ovoga članka od odgovarajućih tijela i organizacija.
+(8) Glavni državni odvjetnik dostavit će Vijeću listu kandidata koji ispunjavaju uvjete za imenovanje s mišljenjima iz stavka 2. ovoga članka. Uz listu kandidata koji ispunjavaju uvjete Vijeće će se izvijestiti o svim prijavljenim kandidatima, a dostavit će mu se i prijave kandidata sa svim relevantnim podacima prikupljenima u postupku davanja mišljenja.

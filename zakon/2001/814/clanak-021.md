@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Sud ili drugo nadležno tijelo će svojom odlukom odgoditi ili prekinuti ovrhu odnosno izvršenje te odluke na zahtjev nadležnoga državnog odvjetništva kada ono namjerava podnijeti odgovarajuće pravno sredstvo protiv pravomoćne odluke kojom je završen sudski ili upravni postupak zbog povrede zakona ili međunarodnog ugovora, ili kada su se stekli drugi zakonom propisani uvjeti.
+(2) Odgoda ili prekid ovrhe, odnosno izvršenja iz stavka 1. ovoga članka traje do završetka postupka o pravnom sredstvu, ili istekom 15 dana od dana dostave rješenja o odgodi ili prekidu, ako državno odvjetništvo u tom roku ne podnese odgovarajuće pravno sredstvo.

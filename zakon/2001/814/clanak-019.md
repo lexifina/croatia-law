@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Državno odvjetništvo Republike Hrvatske zastupa Republiku Hrvatsku u imovinskim sporovima pred inozemnim sudovima, ustanovama i drugim tijelima.
+(2) U postupcima koji se vode pred međunarodnim ili stranim sudovima ili drugim tijelima ako prema mjerodavnom pravu Državno odvjetništvo Republike Hrvatske ne može zastupati, Glavni državni odvjetnik može ovlastiti odgovarajućega stranog stručnjaka uz suglasnost Vlade Republike Hrvatske.
+(3) U postupcima koji se vode pred međunarodnim ili stranim sudovima ili drugim tijelima u kojima je stranka Republika Hrvatska, Vlada Republike Hrvatske može odlučiti da je zastupa odgovarajući hrvatski ili strani stručnjak, uz ili bez sudjelovanja Državnog odvjetništva Republike Hrvatske u postupku.
+(4) U predmetima iz stavka 1. ovoga članka u kojima se zahtijeva posebno specijalističko znanje, Glavni državni odvjetnik može angažirati istaknutog stručnjaka da u postupku sudjeluje na strani Državnog odvjetništva Republike Hrvatske kao savjetnik.

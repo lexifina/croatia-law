@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Slobodno mjesto županijskog, odnosno općinskoga državnog odvjetnika objavljuje Državno odvjetništvo Republike Hrvatske. Oglas o slobodnim mjestima objavljuje se u »Narodnim novinama«, a po potrebi i na drugi način, a sadrži poziv kandidatima da u roku, koji ne smije biti kraći od 15 dana a niti dulji od 30 dana, podnesu prijavu s dokazima o ispunjavanju uvjeta propisanih za imenovanje državnog odvjetnika kao i podatke o svom radu.
+(2) Glavni državni odvjetnik dužan je 90 dana prije isteka roka iz članka 49. stavak 1. i 2. ovoga Zakona pokrenuti postupak ponovnog imenovanja državnog odvjetnika. Odluku o objavi oglasa o slobodnim mjestima iz stavka 1. ovoga članka, kao i odluku o poništenju objavljenog oglasa, donosi Glavni državni odvjetnik.

@@ -1,0 +1,4 @@
+# Članak 148.
+(1) Ministar nadležan za poslove pravosuđa će u roku od godinu dana od dana stupanja na snagu ovoga Zakona donijeti odluku o ispostavama županijskih državnih pravobraniteljstava, ustrojenim prema propisima koji su bili na snazi do stupanja na snagu ovoga Zakona, čija su sjedišta u drugim mjestima u odnosu na sjedišta nadležnih državnih odvjetništava u koja se preuzimaju dužnosnici iz članka 145. ovoga Zakona.
+(2) Broj zamjenika državnog odvjetnika u pojedinom državnom odvjetništvu određuje ministar nadležan za poslove pravosuđa na prijedlog Glavnoga državnog odvjetnika sukladno okvirnim mjerilima za rad državnih odvjetništava.
+(3) Okvirna mjerila na prijedlog Glavnoga državnog odvjetnika propisat će ministar nadležan za poslove pravosuđa u roku od godine dana od dana stupanja na snagu ovoga Zakona.

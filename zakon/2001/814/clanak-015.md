@@ -1,0 +1,7 @@
+# Članak 15.
+(1) Nadležno državno odvjetništvo u kaznenim predmetima poduzima progon i zastupa optužbu protiv počinitelja kaznenih djela za koja se progoni po službenoj dužnosti ili po prijedlogu, te obavlja druge radnje propisane zakonom.
+(2) Nadležno državno odvjetništvo poduzima progon i zastupa optužbu u prijestupovnom i prekršajnom postupku sukladno ovlastima određenim zakonom.
+(3) Nadležno državno odvjetništvo u građanskom i upravnom postupku zastupa Republiku Hrvatsku u zaštiti imovinskih i drugih prava, ako zakonom ili na njemu utemeljenom odlukom nadležnoga državnog tijela nije određeno drukčije.
+(4) Općinska državna odvjetništva zastupaju Republiku Hrvatsku u postupcima pred općinskim sudom i pred upravnim tijelima, ako zakonom ili na njemu utemeljenom odlukom nadležnoga državnog tijela nije određeno drukčije.
+(5) Županijska državna odvjetništva zastupaju Republiku Hrvatsku u postupcima pred županijskim sudom i trgovačkim sudom, ako zakonom ili na njemu utemeljenom odlukom nadležnoga državnog tijela nije određeno drukčije.
+(6) Državno odvjetništvo Republike Hrvatske zastupa Republiku Hrvatsku, poduzima pravne radnje iz svoje nadležnosti radi zaštite Ustava i zakonitosti pred Ustavnim sudom Republike Hrvatske, poduzima radnje iz svoje nadležnosti pred Vrhovnim sudom Republike Hrvatske, Upravnim sudom Republike Hrvatske, Visokim trgovačkim sudom Republike Hrvatske, Visokim prekršajnim sudom Republike Hrvatske, međunarodnim te stranim sudskim i drugim tijelima.
