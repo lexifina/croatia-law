@@ -1,0 +1,1 @@
+Na osnovi članka 28. alineje 4. Statuta Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske ("Narodne novine", broj 48/90). Izvršni odbor Skupštine Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, na 16. sjednici održanoj 19. svibnja 1992. godine, donio je
