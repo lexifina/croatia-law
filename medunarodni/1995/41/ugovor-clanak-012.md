@@ -1,0 +1,5 @@
+# Članak 12.
+Komercijalna djelatnost
+1. određenom zračnom prijevozniku jedne stranke Sporazuma dopušta se držati odgovarajuće predstavništvo na teritoriju druge stranke Sporazuma. Ta predstavništva mogu imati komercijalno, operativno i tehničko osoblje, koje se može sastaviti od dovedenih ili lokalno angažiranih osoba.
+2. Za komercijalnu djelatnost primjenjivat će se načelo uzajamnosti. Mjerodavne vlasti svake stranke Sporazuma poduzet će sve potrebne korake da omoguće predstavništvu određenoga zračnoga prijevoznika druge stranke Sporazuma, redovito obavIjanje njezine djelatnosti.
+3. Posebno, svaka stranka Sporazuma daje pravo određenom zračnom prijevozniku druge stranke Sporazuma, da se angažira u prodaji prijevoznih dokumenata na njezinom teritoriju, izravno i po nahodenju zračnoga prijevoznika, preko svojih agenata. Svaki zračni prijevoznik će imati pravo prodati takve prijevozne dokumente, a svaka osoba će slobodno kupiti prijevozne dokumente, u valuti tog teritorija ili u slobodnim konvertibilnim valutama drugih zemalja.

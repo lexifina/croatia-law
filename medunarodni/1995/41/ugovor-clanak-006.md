@@ -1,0 +1,7 @@
+# Članak 6.
+Dezignacija i odobrenje za letenje
+1. Svaka stranka Sporazuma će imati pravo odrediti jednoga zračnoga prijevoznika za obavljanje ugovorenoga prometa. Takva dezignacija će se dati temeljem pismene obavijesti između zrakoplovnih vlasti obiju stranaka Sporazuma.
+2. Zrakoplovne vlasti koje prime obavijest o dezignaciji, podredno odredbama stavaka 3. i 4. ovoga članka, bez odlaganja će izdati određenom zračnom prijevozniku druge stranke Sporazuma potrebno odobrenje za letenje.
+3. Zrakoplovne vlasti jedne stranke Sporazuma, mogu zahtijevati od određenoga zračnoga prijevoznika druge stranke Sporazuma, da dokaže da je sposoban ispunjavati uvjete propisane zakonima i propisima koje uobičajeno primjenjuju u međunarodnom zračnom prometu vlasti, u skladu s odredbama Konvencije.
+4. Svaka stranka Sporazuma, imat će pravo ne dati odobrenje za letenje, pozivom na stavak 2. ovoga članka, ili postaviti takve uvjete koje može smatrati potrebnim za izvršavanje prava određenih u članku 2. ovoga Sporazuma, kad god spomenuta stranka Sporazuma nema dokaza da većinski dio vlasničkih prava i stvarna kontrola toga zračnoga prijevoznika pripada stranci Sporazuma koja odreduje zračnoga prijevoznika ili njezinim državljanima.
+5. Primivši odobrenje za letenje, predviđeno u stavku 2. ovoga članka, određeni zračni prijevoznik može u svako doba obavljati ugovoreni promet, pod uvjetom da su na snazi tarife utvrdene u skladu s odredbama članka 14. ovoga Sporazuma.
