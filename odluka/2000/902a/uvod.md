@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 143. stavka 2. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98), Vlada Republike Hrvatske je na sjednici održanoj 13. travnja 2000. godine, donijela
