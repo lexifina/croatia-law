@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja (»Narodne novine« broj 93/03., 158/03. i 198/03.), članak 69. mijenja se i glasi:
+»Članak 69.
+Osiguraniku koji je upućen na rad u inozemstvo naknada plaće pripada u skladu s odredbama Zakona i ovog Pravilnika s time da se isplaćuje na teret sredstava Zavoda samo za vrijeme njegovog boravka u Republici Hrvatskoj, osim u slučajevima: korištenja obveznog rodiljnog dopusta, rodiljnog dopusta do jedne, odnosno tri godine života djeteta, rodiljnog dopusta iz članka 23. točke 11.a. Zakona, posvojiteljskog dopusta, prava na rad u skraćenom radnom vremenu do jedne, odnosno tri godine života djeteta iz članka 23. točke 8. Zakona, dopusta iz članka 23. točke 9. Zakona, te stanke za dojenje djeteta iz članka 23. točke 10. Zakona.«

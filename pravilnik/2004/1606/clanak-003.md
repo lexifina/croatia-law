@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 114. stavak 2. mijenja se i glasi:
+»Iznimno od stavka 1. ovog članka kada se bolovanje koristi zbog rodiljnog dopusta od 6 mjeseci do jedne, odnosno tri godine života djeteta, rodiljnog dopusta iz članka 23. točke 11.a. Zakona, posvojiteljskog dopusta, prava na rad u skraćenom radnom vremenu do jedne, odnosno tri godine života djeteta iz članka 23. točke 8. Zakona, dopusta iz članka 23. točke 9. Zakona, stanke za dojenje djeteta iz članka 23. točke 10. Zakona, te privremene nesposobnosti za rad zbog rane, ozljede ili bolesti koja je neposredna posljedica sudjelovanja u Domovinskom ratu iz članka 23. točke 12. Zakona, o pravu na naknadu plaće odlučuje se pisanim rješenjem, a na osnovi zahtjeva osiguranika.«
