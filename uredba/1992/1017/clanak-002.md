@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 3. u stavku 1. riječi: "za konačan iznos zajma utvrđuje se na temelju konačnog obračuna amortizacije po završnom računu za 1992. godinu" zamjenjuju se riječima: "a konačan iznos zajma utvrđuje se na temelju obračuna amortizacije po periodičnom obračunu za razdoblje siječanj-lipanj 1992. godine", u stavku 2. riječi: "jedne petine" zamjenjuju se riječima "10%", a riječi: "u dva obroka od kojih prvi dospijeva 30. lipnja, a drugi 30. rujna 1992. godine" zamjenjuju se riječima: "u jednom obroku koji dospijeva 30. lipnja 1992. godine".
