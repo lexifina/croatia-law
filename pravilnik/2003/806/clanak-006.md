@@ -1,0 +1,3 @@
+# Članak 6.
+Aktivnoga pričuvnika kojemu je utvrđena mogućnost daljnjega profesionalnog razvoja uz stjecanje potrebne razine stručne spreme odnosno vojne izobrazbe, može se rasporediti na djelatno vojno mjesto u Oružane snage Republike Hrvatske kada stekne potrebnu razinu stručne spreme odnosno vojne izobrazbe i kada za to postoji potreba službe.
+Smatra se da postoji potreba službe u smislu odredbe stavka 1. ovoga članka kada je nepopunjeno ustrojbeno mjesto istoga ili neposredno višega čina u rodu odnosno struci aktivnog pričuvnika ili kada je na odgovarajuće ustrojbeno mjesto privremeno raspoređena djelatna vojna osoba kojoj je utvrđena nemogućnost daljnjega profesionalnog razvoja.
