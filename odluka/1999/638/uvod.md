@@ -1,0 +1,1 @@
+Na temelju članka 92. Ustava Republike Hrvatske i članka 3. Zakona o istražnim povjerenstvima ("Narodne novine", br. 24/96.), Zastupnički dom Hrvatskoga državnog sabora na sjednici 26. ožujka 1999., donio je

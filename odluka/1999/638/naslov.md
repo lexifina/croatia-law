@@ -1,0 +1,1 @@
+Odluka o osnivanju Istražnog povjerenstva radi utvrđivanja okolnosti i krivnje državnih i političkih tijela Socijalističke Republike Hrvatske za oduzimanje oružja od Teritorijalne obrane Hrvatske do 30. svibnja 1990.
