@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine," br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), i članka 22. Zakona o šumama ("Narodne novine", br. 52/90, 5/91, 9/91 i 76/93), Vlada Republike Hrvatske je na sjednici održanoj 20. studenoga 1997. godine donijela
