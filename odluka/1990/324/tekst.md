@@ -1,0 +1,8 @@
+o konačnom usklađivanju doplatka za pomoć i njegu od 1. siječnja 1989. godine
+1. Puni iznos doplatka za pomoć i njegu utvrđen na dan 1. siječnja 1989. u visini od 15,50 dinara mjesečno usklađuje se od 1. siječnja 1989. za 1499,6% i iznosi 248,20 dinara mjesečno.
+2. Smanjeni iznos doplatka za pomoć i njegu utvrđen na dan 1. siječnja 1989. u visini od 11,60 dinara mjesečno usklađuje se od 1. siječnja 1989. godine za 1499,6% i iznosi 186,10 dinara mjesečno.
+3. Slijepom korisniku porodične mirovine doplatak za pomoć i njegu pripada u punom iznosu.
+4. Za korisnika doplatka za pomoć i njegu iz člana 76. stava 1. točke 3. Zakona o mirovinskom i invalidskom osiguranju te korisniku invalidske mirovine ili starosne mirovine koji je pravo na taj doplatak stekao zbog sljepoće, doplatak za pomoć i njegu utvrđen na dan 1. siječnja 1989. godine u visini od 193.940.- dinara, usklađuje se od 1. siječnja 1989. za 1499,6% i iznosi 310,20 dinara mjesečno.
+5. U skladu s odredbama točke 1. do 4. ove Odluke, Stručna služba Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja samostalnih zanatlija, ugostitelja i prijevoznika Hrvatske, po službenoj dužnosti, bez donošenja rješenja, odredit će pripadajući novi iznos doplatka za pomoć i njegu svim korisnicima koji imaju pravo na taj doplatak na dan 1. siječnja 1989. ili su to pravo ostvarili nakon toga dana.
+6. S danom stupanja na snagu ove Odluke prestaje važiti Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1989. ("Narodne novine", br. 8/90).
+7. Ova Odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1989. godine.
