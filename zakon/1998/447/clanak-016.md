@@ -1,0 +1,3 @@
+# Članak 16.
+Za obavljanje djelatnosti javnoga cestovnog prijevoza za koju se traži stručna osposobljenost prema odredbi članka 13. ovoga Zakona, polaže se ispit o stručnoj osposobljenosti prema programu kojeg utvrđuje ministar na prijedlog komora.
+Ispit o stručnoj osposobljenosti nisu dužne polagati osobe koje imaju: za obavljanje unutarnjega cestovnog prijevoza najmanje srednju stručnu spremu prometnoga, ekonomskog ili upravnog smjera i dvije godine radnog iskustva u djelatnosti javnoga cestovnog prijevoza; za obavljanje međunarodnoga cestovnog prijevoza visoku stručnu spremu prometnoga, ekonomskog ili pravnog smjera i dvije godine radnog iskustva u djelatnosti javnoga cestovnog prijevoza.
