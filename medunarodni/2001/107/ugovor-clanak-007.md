@@ -1,0 +1,2 @@
+# Članak 7.
+Ugovorne stranke sporazumne su da stručnjaci organizacija naznačenih u članku 5. ovog Sporazuma ili njihovi ovlaštenici u tijeku pripremnih, izvedbenih radova u garantnom roku kontinuirano usuglašavaju njihov napredak i izvješćuju jedni druge o poduzetim radnjama. Izvođenje radova održavanja i korištenja, te način obračuna troškova između organizacija iz članka 5. ovog Sporazuma regulirat će se posebnim sporazumom. Radove održavanja treba obavljati sukladno važećim propisima ugovorenih stranaka.
