@@ -1,0 +1,2 @@
+# Članak 17.
+Odjel investicijskih poslova obavlja stručne poslove koji se odnose na realizaciju i izgradnju novih objekata, adaptaciju i investicijsko održavanje postojećih objekata, izradu godišnjih planova, pripremne radnje za odabir projektanata i izvođača radova, prikupljanje i obrađivanje ponuda, suradnju s građevinskim poduzećima i drugim tehničkim izvođačima radova, nadziranje provedbe radova, ocjenjivanje, ovjeravanje računa i situacija izvedenih radova i vođenje potrebnih evidencija.

@@ -1,0 +1,3 @@
+# Članak 15.
+Odsjek računovodstvenih poslova obavlja stručne poslove koji se odnose na izradu periodičnih obračuna i zaključnih računa, stručne podloge iz područja računovodstva za potrebe Ravnateljstva, godišnji popis materijalnih sredstava u Ravnateljstvu, prikupljanje dokumentacije svih roba i usluga i obavljanje plaćanja dospjelih obveza iz djelokruga Ravnateljstva, provedbu, kontiranje i izrađivanje kontnog plana, poslove knjiženja, gotovinskih uplata i isplata, likvidaciju i obračun plaća i drugih primanja, vođenje potrebnih evidencija.
+2.2. Odjel materijalnog poslovanja i nabave te praćenja sredstava rada i metoda rada u državnoj upravi

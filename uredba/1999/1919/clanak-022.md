@@ -1,0 +1,3 @@
+# Članak 22.
+Odsjek za radnopravna i statusna pitanja službenika, namještenika i zaposlenika u lokalnoj samoupravi obavlja upravne i druge stručne poslove koji se odnose na radnopravna i statusna pitanja državnih službenika i namještenika, te zaposlenika u lokalnoj samoupravi odnosno lokalnoj samoupravi i upravi, nadzor nad pravilnicima o unutarnjem redu tijela državne uprave, stegovne postupke nad državnim službenicima, raspoređivanje državnih službenika koji su stavljeni na raspolaganje, prijam vježbenika i stranih državljana na rad u tijela državne uprave.
+3.3. Odjel za stručno usavršavanje i organizaciju državnih stručnih ispita

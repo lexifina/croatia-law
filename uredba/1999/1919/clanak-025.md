@@ -1,0 +1,2 @@
+# Članak 25.
+Odsjek za pripremu i organizaciju državnih stručnih ispita obavlja upravne i druge stručne poslove koji se odnose na postupak odobravanja polaganja odnosno oslobađanja od polaganja državnog stručnog ispita, organiziranje državnih stručnih ispita, programe savjetovanja u svezi osposobljavanja za polaganje državnih stručnih ispita, praćenje provedbe i izvršavanja obveza u svezi polaganja državnih stručnih ispita, predlaganje mjera i obavljanje administrativno-tehničkih poslova za Državnu ispitnu komisiju.
