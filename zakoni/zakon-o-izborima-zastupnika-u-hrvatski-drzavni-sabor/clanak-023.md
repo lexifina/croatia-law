@@ -1,0 +1,17 @@
+# Članak 23.
+Državno izborno povjerenstvo će u roku od 48 sati od predaje lista izbornih
+jedinica za izbor zastupnika u Zastupnički dom Sabora, prihvatiti i u svim
+dnevnim novinama u Republici Hrvat-skoj i na Hrvatskoj radioteleviziji
+objaviti sve pravovaljano pred-ložene liste za svaku izbornu jedinicu.
+Državno izborno povjerenstvo objavit će za svaku izbornu jedinicu zbirnu
+listu svih pravovaljanih predloženih lista.
+Zbirna lista sadrži naziv svake liste izborne jedinice, te ime i prezime
+nositelja svake liste. Na zbirnu listu izborne jedinice, stranačke, odnosno
+neovisne liste se unose prema abecednom redu punog naziva političke stranke,
+odnosno koalicije političkih stranaka koja je listu predložila. Ako je
+više političkih stranaka predložilo zajedničku listu, ona će se unijeti
+na zbirnu listu prema nazivu prve po redu političke stranke u prijedlogu.
+Državno izborno povjerenstvo će u roku od 48 sati dostaviti hrvatskim
+diplomatskokonzularnim predstavništvima sve prih-vaćene liste za svaku
+izbornu jedinicu, kao i zbirnu listu izbornih lista svake izborne jedinice
+radi njihove javne objave.

@@ -1,0 +1,10 @@
+# Članak 44.
+Broj zastupnika koji će izabrati birači koji nemaju prebi-valište u
+Republici Hrvatskoj u posebnoj izbornoj jedinici utvrđuje se na sljedeći
+način:
+Ukupni broj važećih glasova birača u deset izbornih jedinica u Republici
+Hrvatskoj dijeli se sa 140 koliko se ukupno zastupnika bira u tim izbornim
+jedinicama. Dobivenim rezultatom (količnikom) dijeli se broj važećih glasova
+u posebnoj izbornoj jedinici. Rezultat koji se dobije jest broj zastupnika
+koji je izabran u posebnoj izbornoj jedinici. Ako rezultat nije cijeli
+broj, zaokružuje se na cijeli broj od 0,5 na više, a ispod 0,5 na niže.
