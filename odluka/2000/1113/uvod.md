@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), a u vezi Zaključka Zastupničkoga doma Hrvatskoga državnog sabora, donijetog na 35. sjednici, 27. studenoga 1998. godine, Vlada Republike Hrvatske je na sjednici održanoj 11. svibnja 2000. godine donijela
