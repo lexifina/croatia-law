@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o Hrvatskome crvenome križu ("Narodne novine", broj 61/91) i članka 23. stavka Zakona o Vladi Republike Hrvatske ("Narodne novine", broj.41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92), Vlada Republike Hrvatske je na sjednici održanoj 19. travnja 1993. godine donijela
