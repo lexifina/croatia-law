@@ -1,0 +1,5 @@
+## Radijske postaje vojske, policije, diplomacije, te financijske policije i carine
+# Članak 66.
+(1) Vojska, policija, diplomacija, te financijska policija i carina prigodom izgradnje i uporabe svojih radijskih komunikacija pridržavaju se odredaba ovoga Zakona i propisa donesenih na temelju ovoga Zakona, koji se odnose na namjenu radiofrekvencijskog spektra i vrste emisija, te na poduzimanje mjera za sprječavanje štetnih smetnji i na pružanje pomoći u slučaju opasnosti.
+(2) Kad radijska postaja vojske, policije, diplomacije, te financijske policije i carine sudjeluje u radijskim službama drugih sustava, njezina se uporaba mora prilagoditi odredbama ovoga Zakona i propisima donesenim na temelju ovoga Zakona.
+(3) Uvjete za postavljanje, uporabu, održavanje i kontrolu emisija i nadzor radijskih postaja vojske, policije, diplomacije, te financijske policije i carine, te istraživanje i otklanjanje štetnih smetnji između tih i drugih radijskih postaja, utvrđuje ministar obrane, ministar unutarnjih poslova ili ministar vanjskih poslova u sporazumu s ravnateljem Zavoda.

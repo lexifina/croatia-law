@@ -1,0 +1,5 @@
+## Planovi numeriranja
+# Članak 44.
+(1) Prigodom izradbe planova numeriranja Zavod će uzeti u obzir međunarodne propise, poglavito glede njihove strukture. Poduzet će prikladne mjere radi osiguranja dostupnosti prikladnog broja adresa. U planovima numeriranja valja ostaviti prostor, koliko je tehnički izvedivo, za nove unutarnje i međunarodne usluge i za prenosivost broja.
+(2) Struktura plana numeriranja i propisi koji određuju namjenu brojeva trebaju jamčiti jednaku mogućnost i jednaki postupak za sve davatelje telekomunikacijskih usluga.
+(3) Zavod će osigurati da se pokrenu potrebne mjere za pripremu uvođenja prenosivosti broja za telefonske brojeve u obliku prenosivosti operatora mreže bez odgađanja i svrhovito, tako da je prenosivost broja u Republici Hrvatskoj dostupna kad se ukaže prva prigoda. Zavod će propisati raspored i dinamiku uvođenja prenosivosti broja, uzimajući u obzir raspored koji se primjenjuje u Europskoj zajednici na način da ne čini zaprjeku tržišnom natjecanju na pojedinim tržištima i da nije suprotna interesima korisnika usluga.

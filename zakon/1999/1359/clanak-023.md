@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Zavod objavljuje u "Narodnim novinama" popis na kojim se relevantnim tržištima usluga osnovna telekomunikacijska usluga ne obavlja na prikladan i odgovarajući način odnosno da postoji sumnja da će se takva usluga pružiti, pod uvjetom da operator u roku od mjesec dana od prijama obavijesti Zavoda o namjeri objave popisa, ne izjavi pisanim putem da je spreman u potpunosti obavljati navedene usluge.
+(2) Ako na relevantnom tržištu iz stavka 1. ovoga članka postoji više operatora Zavod može na obavljanje osnovne telekomunikacijske usluge obvezati jednog ili više operatora ili na temelju prikupljenih ponuda po oglasu objavljenom u "Narodnim novinama" obavljanje tih usluga povjeriti ponuditelju koji uz ispunjavanje ostalih uvjeta nudi najnižu cijenu.

@@ -1,0 +1,3 @@
+# Članak 47.
+(1) Zavod je mjerodavan za djelotvorno upravljanje planovima numeriranja, poglavito za osmišljenje uporabe i dodjelu elemenata za adresiranje davateljima usluga, kojima se može prenijeti pravo samostalnog upravljanja podređenim elementima za adresiranje.
+(2) Zavod će, u skladu sa zahtjevima, dodijeliti elemente adresiranja davateljima telekomunikacijskih usluga za njihovu uporabu. Dodjela će slijediti objektivna, nediskriminirajuća i razumljiva načela, poglavito načela jednakih mogućnosti. Davateljima usluga može se prenijeti pravo samostalne dodjele podređenih elemenata adresiranja.

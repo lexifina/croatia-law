@@ -1,0 +1,5 @@
+# Članak 91.
+(1) Zajednički antenski sustav i instalacija za distribuciju radijskih i televizijskih programa u stambenoj, poslovnoj ili drugoj građevini do korisnika radijskog ili televizijskog prijamnika u toj građevini (kabelska televizija) mora se izgrađivati u skladu s propisanim tehničkim uvjetima i normama iz članka 6. stavka 1. ovoga Zakona.
+(2) Za izgrađeni sustav i instalacije iz stavka 1. ovoga članka investitor mora obaviti tehnički pregled.
+(3) Tehnički pregled iz stavka 2. ovoga članka obavlja Zavod ili pravna osoba koju on ovlasti. Za ovlast se plaća naknada u korist Zavoda prema propisu iz članka 29. stavka 6. ovoga Zakona, a za obavljanje tehničkog pregleda plaćaju se troškovi povjerenstva koje obavlja taj pregled. Zavod može oduzeti izdanu ovlast ako se tehnički pregled ne obavlja u skladu s propisima, normama i preporukama.
+(4) Korisnik ili vlasnik građevine iz stavka 1. ovoga članka mora održavati sustav i instalacije iz stavka 1. ovoga članka u ispravnom stanju, te mora pravodobno poduzimati mjere za otklanjanje smetnji i poremećaja u funkcioniranju tih sustava i instalacija.

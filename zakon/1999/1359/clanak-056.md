@@ -1,0 +1,8 @@
+## Zahtjev za izdavanje dozvole
+# Članak 56.
+(1) Zahtjev za izdavanje dozvole za radijsku postaju, privremene dozvole za radijsku postaju i dozvole za postavljanje radijske postaje, te za izdavanje posebnog odobrenja iz članka 53. stavka 1. ovoga Zakona podnosi se na propisanom obrascu.
+(2) Ako se radijska postaja treba upotrebljavati u određenoj radijskoj mreži, uz zahtjev za izdavanje dozvole ili dozvole za postavljanje, treba priložiti kratki tehnički opis te mreže s naznakom položaja pojedinih radijskih postaja u mreži i kratkim opisom načina uporabe mreže.
+(3) Zavod može zahtijevati da se prije izdavanja dozvole obave određena radijska mjerenja i druga ispitivanja kako bi se utvrdili tehnički, zemljopisni i drugi uvjeti za djelotvoran i nesmetan rad radijske postaje, te da svojim radom neće ometati rad drugih radijskih postaja.
+(4) Zavod će obaviti, prema potrebi, prije izdavanja dozvole za radijsku postaju ili dozvole za postavljanje radijske postaje, međunarodno usklađivanje uporabe radijske frekvencije. Stvarne troškove međunarodnog usklađivanja, a najviše do 10.000,00 kuna plaća podnositelj zahtjeva.
+(5) Zavod može odbiti zahtjev za izdavanje dozvole za radijsku postaju u skladu s pravilnikom iz članka 54. stavka 1. ovoga Zakona, ako bi uporaba te radijske postaje bila nesvrhovita s obzirom na upotrijebljenu radijsku frekvenciju kao ograničeno prirodno dobro ili ako je tehnički i gospodarski opravdano komunikaciju putem te radijske postaje nadomjestiti telekomunikacijskom uslugom odgovarajuće kakvoće iz ponude na tržištu.
+(6) Zavod propisuje izgled i sadržaj obrazaca iz stavka 1. ovoga članka.

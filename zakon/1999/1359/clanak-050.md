@@ -1,0 +1,6 @@
+## Izdavanje dozvola
+# Članak 50.
+(1) Dozvolu za radijsku postaju, privremenu dozvolu za radijsku postaju i dozvolu za postavljanje radijske postaje izdaje Zavod.
+(2) Za sve radijske postaje na zrakoplovu, plovilu, lokomotivi, u sustavu za pozivanje osoba (paging), u sustavu za simultano prevođenje i za sve radijske postaje koje upotrebljava radioamater (pojedinac), kao i za sve radijske postaje u drugim sustavima ili radijskim službama, prema odluci Zavoda, sukladno međunarodnim pravilima i propisima, izdaje se jedna dozvola.
+(3) Zavod vodi popis izdanih dozvola iz stavka 1. i 2. ovoga članka.
+(4) Stranac, za vrijeme privremenog boravka u Republici Hrvatskoj do tri mjeseca ili prijelaza preko teritorija Republike Hrvatske, na temelju valjane dozvole izdane u njegovoj državi i prevedene na jedan od jezika na kojem se izdaju dokumenti CEPT-a, poštujući odredbe ovoga Zakona i upotrebljavajući radijske frekvencije koje su međunarodno usklađene i predviđene za određenu namjenu, može upotrebljavati amatersku i građansku radijsku postaju, radijske postaje na zrakoplovu ili plovilu, te drugu pokretnu radijsku postaju prema odluci Zavoda na načelu uzajamnosti i prema preporukama CEPT-a i drugu radijsku opremu za koju je Zavod donio odluku o slobodnom kolanju, sukladno međunarodnoj praksi.

@@ -1,0 +1,19 @@
+## XVI. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Prijelazne odredbe o obavljanju djelatnosti telekomunikacija i uporabi radijskih postaja
+# Članak 98.
+(1) Osoba koja je na dan stupanja na snagu ovoga Zakona obavljala djelatnost javnih telekomunikacija na temelju koncesije ili ovlasti dane prema propisima koji su važili do dana stupanja na snagu ovoga Zakona nastavlja obavljati tu djelatnost prema odredbama ovoga Zakona do isteka roka važenja te koncesije ili ovlasti.
+(2) Odobrenje ili dozvola za radijsku postaju dana prema propisima koji su važili do dana stupanja na snagu ovoga Zakona do isteka roka na koji je izdana, a ta radijska postaja može se upotrebljavati do isteka navedenoga roka uz uvjete utvrđene u odobrenju ili dozvoli, prema odredbama ovoga Zakona.
+(3) Pravna osoba koja obavlja djelatnost u javnim telekomunikacijama na dan stupanja na snagu ovoga Zakona bez koncesije, prema propisima koji su važili do dana stupanja na snagu ovoga Zakona mora uskladiti obavljanje te djelatnosti s odredbama ovoga Zakona najkasnije do 1. siječnja 2000., osim usklađenja s odredbom iz članka 40. stavka 3. i 4. ovoga Zakona, za što je krajnji rok 31. prosinca 2000., te mora, najkasnije do 1. siječnja 2001. pribaviti propisanu koncesiju, te sklopiti propisani ugovor o koncesiji.
+(4) HT - Hrvatske telekomunikacije d.d. (u daljnjem tekstu: HT d.d.) ima sljedeća isključiva prava do 31. prosinca 2002. godine:
+1. pravo biti operator nepokretne javne telekomunikacijske mreže,
+2. pravo pružati javne govorne usluge putem nepokretne mreže,
+3. pravo pružati međunarodne telekomunikacijske usluge.
+(5) Vlada Republike Hrvatske dodijelit će koncesiju i sklopiti ugovor o koncesiji s HT d.d.-om. Takav ugovor o koncesiji mora:
+1. utvrditi isključivo pravo HT d.d.-a da bude operator nepokretne javne telekomunikacijske mreže do 31. prosinca 2002.,
+2. utvrditi isključivo pravo HT d.d.-a da pruža javne govorne usluge putem nepokretne mreže do 31. prosinca 2002.,
+3. utvrditi isključivo pravo HT d.d.-a da pruža međunarodne telekomunikacijske usluge do 31. prosinca 2002.,
+4. utvrditi prava i obveze glede međusobnog povezivanja te zahtjeve glede pružanja osnovnih usluga, osuvremenjivanja mreže, izgradnje mreže, kakvoće usluga i zaštite korisnika, uzimajući u obzir isključiva prava iz točke 1., 2. i 3. ovoga stavka,
+5. utvrditi postupak određivanja najviše razine cijena koji se temelji na objavljenom cjeniku za korisnike telekomunikacijskih usluga koje se pružaju u skladu s isključivim pravima iz točke 1., 2. i 3. ovoga stavka, u onome opsegu koji je potreban u svrhu osiguranja troškovne orijentiranosti cijena, te zaštite korisnika. Takav postupak zamjenjuje bilo kakvo pojedinačno odobrenje cijena ili potrebe određivanja cijena utvrđene ovim Zakonom.
+(6) Osim ako je to predviđeno ugovorom o koncesiji, tijekom razdoblja trajanja isključivih prava, ugovor o koncesiji iz stavka 5. ovoga članka neće biti izmijenjen bilo kojim podzakonskim propisom, uključujući pravilnike, osim onih podzakonskih propisa koji su usvojeni u svrhu udovoljavanja Republike Hrvatske međunarodnim obvezama.
+(7) Ugovor o koncesiji iz stavka 5. ovoga članka uskladit će se s odredbama ovoga Zakona s učinkom od 1. siječnja 2003. na način da će bilo koja posebna prava i obveze iz ugovora o koncesiji navedena u točki 4. i 5. stavka 5., te u stavku 6. ovoga članka prestati važiti.
+(8) Vlada Republike Hrvatske dodijelit će koncesije i sklopiti ugovore o koncesiji s HT d.d.-om za obavljanje telekomunikacijskih usluga koje je HT d.d. obavljao, odnosno imao pravo obavljati bez koncesije prema propisima koji su važili do stupanja na snagu ovoga Zakona. Posebno, Vlada Republike Hrvatske dodijelit će koncesiju HT d.d.-u za izgradnju i uporabu javnih telekomunikacija u globalnom sustavu pokretne mreže GSM, pod jednakim i nediskriminirajućim uvjetima.
