@@ -1,0 +1,1 @@
+Na temelju točke III. Odluke o ukidanju akta "Podatak o građevinskoj vrijednosti etalonskog objekta i pripadajućem indeksu promjene vrijednosti kn prema DEM na dan 12. prosinca 1994. godine" kojeg je donio ministar prostornog uređenja, graditeljstva i stanovanja
