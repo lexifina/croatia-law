@@ -1,0 +1,5 @@
+# Članak 13.
+OLAKŠICE
+1. Svaka će ugovorna stranka dozvoliti da se nametnu ra-zumne naknade za korištenje zračnih luka i druge zrakoplovne opreme, osiguravajući da te naknade neće biti skuplje nego one koje plaćaju i drugi zrakoplovni prijevoznici uključeni u međunarodnom zračnom prometu.
+2. Svaka će ugovorna stranka podržavati savjetovanja između njezinih naplatnih organizacija i imenovanih zrakoplovnih prijevoznika koji koriste usluge i sredstva ako je to praktično putem predstavnika zrakoplovnih organizacija. Prikladna izvješća će se dati korisnicima o svakom prijedlogu za izmjene naknada kako bi im se omogućilo izražavanje svog stava prije nego se izmjena uradi.
+3. Niti jedna od ugovornih stranaka neće pružati prednost vlastitom ili drugom zrakoplovnom prijevozniku angažiranom u međunarodnom zračnom prometu prilikom primjene svojih carinskih, imigracionih, karantenskih i drugih sličnih propisa kao i u korištenju zračnih luka, zračnih putova, kontrole leta i drugih sredstava kojima upravlja.

@@ -1,0 +1,4 @@
+# Članak 8.
+PRIMJENA ZAKONA I PROPISA
+1. Zakoni i propisi svake ugovorne stranke koji reguliraju ulazak ili odlazak sa njezinog teritorija zrakoplova korištenih u međunarodnim letovima, odnosno na letovima takvog zrakoplova unutar njihovog teritorija primijenit će se i na zrakoplove imenovanog prijevoznika druge ugovorne stranke od momenta ulaska u, odlaska iz i za vrijeme boravka na navedenom teritoriju ugovorne stranke.
+2. Zakoni i propisi svake ugovorne stranke koji se odnose na ulaz, boravak, prolaz kroz i odlazak sa njezinog teritorija putnika, posade, prtljage, robe i pošte zrakoplovom, uključujući i propise koji se odnose na ulaz i izlaz, imigraciju i emigraciju, putovnice, carine, plaćevna sredstva i sanitarne mjere, bit će usuglašeni sa zrakoplovnim prijevoznikom svake ugovorne stranke od momenta ulaska u ili odlaska iz kao i za vrijeme boravka na teritoriju druge ugovorne stranke.
