@@ -1,0 +1,2 @@
+# Članak 31.
+Nisu dopuštena znanstvena istraživanja koja bi ugrozila izvornost prirode u Nacionalnom parku, ili bi dovela do promjene staništa i izgleda krajobraza ili znatnog uništavanja geoloških, hidroloških, geomorfoloških i drugih vrijednosti, ili znatnog ugrožavanja biljnih vrsta, ili rastjerivanja, uznemiravanja, hvatanja, ozljeđivanja i ubijanja životinjskih vrsta.
