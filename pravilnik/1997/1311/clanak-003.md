@@ -1,0 +1,2 @@
+# Članak 3.
+U odobrenim objektima za klanje životinja, obradbu i preradbu te uskladištenje proizvoda životinjskog podrijetla, a u svezi članaka 1. i 2. ovog Pravilnika, radi smanjenja mogućih mikrobioloških i drugih onečišćenja mesa, mesnih proizvoda i ostalih proizvoda životinjskoga podrijetla mora se uspostaviti kontrola procesa proizvodnje na temelju primjene sustava "analize opasnosti i kontrole kritičnih točaka" (u daljnjem tekstu HACCP - od engl. - Hazard Analysis and Critical Control Points).

@@ -1,0 +1,1 @@
+Pravilnik o provedbi obvezatnih mjera u odobrenim objektima radi smanjenja mikrobioloških i drugih onečišćenja mesa, mesnih proizvoda i ostalih proizvoda životinjskoga podrijetla namijenjenih prehrani

@@ -1,0 +1,4 @@
+# Članak 9.
+Početnu provjeru ispravnosti i verifikaciju HACCP-planova, koje su odgovorne osobe (voditelji) iz člana 8. ovoga Pravilnika dužne dostaviti Ministarstvu poljoprivrede i šumarstva - Upravi za veterinarstvo prije roka propisanog za njihovu primjenu, obavlja Povjerenstvo za reviziju HACCP-planova kao sastavni dio Središnjeg povjerenstva, koje rješenjem osniva ministar poljoprivrede i šumarstva.
+Povjerenstvo za reviziju i verifikaciju HACCP-planova, sukladno strukturi povjerenstva za izradbu HACCP-planova iz članka 8. stavka 2. ovog Pravilnika, dužno je sačiniti Poslovnik o svome radu.
+Daljnju verifikaciju HACCP-planova, tijekom njihove primjene u proizvodnim procesima, u cilju učinkovitosti sustava HACCP, obvezna su provoditi povjerenstva za HACCP-planove i to po postupku za verifikaciju utvrđenom HACCP-planom u dotičnom objektu.

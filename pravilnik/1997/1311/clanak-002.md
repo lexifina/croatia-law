@@ -1,0 +1,2 @@
+# Članak 2.
+U svezi s člankom 1. ovoga Pravilnika, a u svrhu poboljšanja sustava veterinarsko-javnozdravstvenog nadzora, kontrole i pregleda životinja za klanje i namirnica životinjskog podrijetla te radi zaštite zdravlja ljudi, uspostavlja se novi sustav kontrole onečišćenja, osobito s patogenim mikroorganizmima, koji su glavni izvor onečišćenja u tehnološkim precesima proizvodnje i preradbe mesa i ostalih proizvoda životinjskoga podrijetla (namirnica životinjskog podrijetla) namijenjenih za prehranu ljudi.

@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se provedba obvezatnih mjera u odobrenim objektima za klanje životinja, obradbu, preradbu i uskladištenje proizvoda životinjskoga podrijetla u cilju smanjenja mikrobioloških i drugih onečišćenja mesa, mesnih proizvoda i ostalih proizvoda životinjskoga podrijetla, radi zaštite ljudskoga zdravlja i izjednačivanja veterinarsko-zdravstvenih uvjeta propisanih u Republici Hrvatskoj sa uvjetima koje su propisale Sjedinjene Američke Države (SAD) i Vijeće Europske Unije (EU).
+Svrha propisanih mjera je poboljšanje učinkovitosti veterinarsko-javnozdravstvenog sustava kontrole namirnica životinjskoga podrijetla u očuvanju zdravlja ljudi; uklanjanje prepreka u međunarodnoj trgovini životinjama i proizvodima životinjskog podrijetla, te zadržavanje prava na izvoz mesa, mesnih proizvoda i ostalih proizvoda životinjskoga podrijetla iz Republike Hrvatske u SAD i EU.

@@ -1,0 +1,4 @@
+# Članak 8.
+Odgovorne osobe u odobrenim objektima koji su svrstani u kategoriju izvoznih objekata obvezni su u cilju dosljedne provedbe mjera sustava HACCP iz članka 6. ovog Pravilnika, osnovati u svojim objektima povjerenstva za izradbu HACCP planova.
+Povjerenstva iz stavka 1. ovog članka, moraju biti sastavljena od stručnjaka različitih struka, i to iz: higijene namirnica animalnog podrijetla, prehrambene tehnologije, mikrobiologije, procesnog inženjerstva, toksikologije, sanitacije, veterinarskog javnog zdravstva i sl., koji posjeduju posebno znanje i stručnost u svezi zaštite zdravlja ljudi tijekom proizvodnje, pohrane, prijevoza, rukovanja i prometa namirnicama životinjskog podrijetla.
+Stručno povjerenstvo, iz stavka 2. ovoga članka, mora biti sastavljeno od najmanje pet članova djelatnika izravno uključenih u rad proizvodnih procesa objekta.

@@ -1,0 +1,2 @@
+# Članak 7.
+Osim izradbe sustava HACCP prema odredbama članaka 5. i 6. ovoga Pravilnika, odgovorne osobe dužne su organizirati izradbu i provedbu standardnih sanitacijskih operativnih postupaka (SSOP) i provedbu sustavnog laboratorijskog ispitivanja na nalaz E. coli, (Biotip I), koji zajedno sa odredbama članka 6., točaka 1. do 7. ovoga Pravilnika, čine sustav kontrole procesa sa zadaćom smanjenja mikrobioloških i drugih onečišćenja namirnica (proizvoda).

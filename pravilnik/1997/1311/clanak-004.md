@@ -1,0 +1,3 @@
+## II. NAČIN I OBVEZA PROVEDBE MJERA
+# Članak 4.
+Klaonička obradba životinja od kojih je meso namijenjeno javnoj potrošnji ili izvozu te obradba i preradba mesa, ribe, mlijeka, jaja i ostalih proizvoda životinjskog podrijetla (u daljnjem tekstu namirnice životinjskog podrijetla) dopušteni su samo u odobrenim objektima, koji u pogledu načina rada uz primjenu općih pravila higijene primjenjuju i sustav analize opasnosti, prosudbe rizika, utvrđivanje te kontrolu i sustavno praćenje kritičnih točaka u proizvodnim procesima (sustav HACCP) s ciljem smanjenja mikrobioloških i drugih onečišćenja namirnica životinjskog podrijetla namijenjenih za prehranu ljudi.
