@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o obvezama i pravima državnih dužnosnika ("Narodne novine", br. 101/98. i 135/98.), Zastupnički dom Hrvatskoga državnog sabora na sjednici 23. listopada 1998., donio je
