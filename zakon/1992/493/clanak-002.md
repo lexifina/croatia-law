@@ -1,0 +1,2 @@
+# Članak 2.
+Iza članka 102. dodaje se novi članak 102a. koji glasi "Članak 102a Stanarsko pravo prestaje onima koji su sudjelovali ili sudjeluju u neprijateljskaj djelatnosti protiv Republike Hrvatske. Vlasnik stana, nakon sudske odluke o otkazu ugovora o korištenju stana, odlučit će o davanju na korištenje dotičnog stana članovima porodičnog domaćinstva ili drugog odgovarajućeg stambenog prostora".
