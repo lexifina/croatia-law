@@ -1,0 +1,1 @@
+Na temelju Amandmana LXII na Ustav Socijalističke Republike Hrvatske i člana 28. Zakona o zaključivanju i izvršavanju međunarodnih ugovora ("Službeni list SFRJ", br. 55/78) Sabor Socijalističke Republike Hrvatske, na sjednici Vijeća udruženog rada 28. lipnja 1990, Vijeća općina 28. lipnja 1990. i Društveno-političkog vijeća 28. lipnja 1990, donio je
