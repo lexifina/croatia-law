@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/07, 33/00, 73/00, 127/00 i 59/01) i članka 37. Statuta Općine Vodnjan (»Službene novine Općine Vodnjan« broj 4/02 - pročišćeni tekst) Općinsko vijeće Općine Vodnjan, na sjednici održanoj dana 14. prosinca 2002. godine, donosi
