@@ -1,0 +1,2 @@
+# Članak 3.
+Dodatak uz mirovinu ponovno se određuje 1. travnja svake kalendarske godine i čini razliku između iznosa utvrđenog u postotku od osnovice za dodatak, a u kojem je postotku određena svota mirovine prema navršenom mirovinskom stažu i prosječne mjesečne mirovine isplaćene korisniku u protekloj kalendarskoj godini, odnosno u visini 30% od osnovice za dodatak ako u protekloj kalendarskoj godini strani nositelj mirovinskog osiguranja nije isplatio mirovinu niti za jedan mjesec.
