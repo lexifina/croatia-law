@@ -1,0 +1,2 @@
+# Članak 4.
+(1) Neprofitna organizacija odgovorna je za sastavljanje knjigovodstvenih isprava. Zakonski predstavnik neprofitne organizacije ili osoba na koju je prenesena ovlast potpisom na ispravi jamči da je isprava istinita i da realno pokazuje poslovni događaj. Isprava sastavljena elektroničkim računalom može umjesto potpisa imati faksimil ili drugu prepoznatljivu oznaku osobe koja je sastavila ispravu.
