@@ -1,0 +1,1 @@
+Na temelju člana 19. stava 3. i člana 20. stava 4. Zakona o poljoprivrednom sjemenu i poljoprivrednom sadnom materijalu ("Narodne novine", br. 50/88), Republički komitet za poljoprivredu i šumarstvo na sjednici od 18. travnja 1990. donio je
