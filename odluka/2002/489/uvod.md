@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 4. i članka 31. stavaka 1. i 2. Zakona o morskim lukama (»Narodne novine«, br. 108/95 i 97/2000), Vlada Republike Hrvatske je na sjednici održanoj 28. veljače 2002. godine donijela
