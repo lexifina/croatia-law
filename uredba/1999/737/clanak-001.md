@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o izmjenama i dopunama Zakona o prostornom uređenju ("Narodne novine", broj 68/98), u članku 49. stavak 2. mijenja se i glasi:
+"Iznimno od članka 57. stavka 1. Zakona o prostornom uređenju ("Narodne novine", broj 30/94) prostorni plan općine i Grada Zagreba i odluka o građevinskom području, te generalni urbanistički plan koji provedbene odredbe ima objavljene u glasilu jedinice lokalne samouprave i uprave i svi prostorni planovi doneseni nakon 30. travnja 1986. godine koji provedbene odredbe imaju objavljene u glasilu jedinice lokalne samouprave i uprave, ostaju na snazi do donošenja odgovarajućih prostornih planova prema ovom Zakonu".

@@ -1,0 +1,1 @@
+Na temelju članka 1. stavka 3. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnoga sabora ("Narodne novine", broj 131/98), Vlada Republike Hrvatske je na sjednici održanoj 8. travnja 1999. godine donijela
