@@ -1,0 +1,2 @@
+# Članak 10.
+Pri utvrđivanju oporezivih dohodaka odredbe ugovora o izbjegavanju dvostrukog oporezivanja i višestranih sporazuma imaju prednost pred odredbama Zakona. Ako se pravo na oporezivanje inozemnih dohodaka tuzemnog poreznog obveznika ili tuzemnih dohodaka inozemnog poreznog obveznika prema ugovoru o izbjegavanju dvostrukog oporezivanja prenese na neku drugu državu, taj se dohodak ne uzima u obzir.
