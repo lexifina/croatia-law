@@ -1,0 +1,2 @@
+# Članak 2.
+Državna tijela, tijela jedinica lokalne samouprave i uprave te pravne i fizičke osobe iz stavka 1. članka 1. ove Uredbe, umjesto 12. rujna 1994. godine, dužna su najkasnije do 31. prosinca 1994. godine preraspodjelom radnog vremena raditi jednog od slobodnih dana ili jednog dana od tjednog odmora. Toga dana neće raditi tijela iz osobe i stavka 2. članka 1. i radnici iz stavka 3. članka 1. ove Uredbe, osim ako z.a neke od njih ne bi bilo nužno zbog prirode ili organizacije posla.
