@@ -1,0 +1,2 @@
+# Članak 21.
+Statutom društva određuje se osobito način utvrđivanja, uvjeti i rokovi uplate doprinosa (uloga); pravo na naknadu štete, odredbe o neograničenom, odnosno ograničenom doprinosu (ulogu); obveza uplate dodatnog doprinosa (uloga) za pokriće gubitka ili mogućnost da se gubitak društva pokrije smanjenjem naknade svim članovima; uvjeti i način raspodjele dobiti (vraćanje dijela doprinosa ili njegovog prijenosa u narednu godinu, odnosno u rezerve sigurnosti); odredbe o početku i prestanku članstva u društvu, prava i obveze članova koji istupe iz članstva.

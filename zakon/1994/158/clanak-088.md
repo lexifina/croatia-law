@@ -1,0 +1,2 @@
+# Članak 88.
+Isplaćene štete od neosiguranih vozila iz članka 86., štete od nepoznatih vozila iz članka 87., štete iz članka 100. stavka 1. ovoga Zakona kao i štete koje oštećena osoba nije mogla naplatiti zbog prestanka društva, snose sva društva za osiguranje koja obavljaju poslove osiguranja od automobilske odgovornosti razmjerno premiji u toj vrsti osiguranja. Međusobni obračun svih isplaćenih šteta obavlja se putem fonda za naknadu šteta pri Hrvatskom uredu za osiguranje.

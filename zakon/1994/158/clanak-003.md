@@ -1,0 +1,2 @@
+# Članak 3.
+Drugi poslovi osiguranja su: posredovanje u ugovaranju osiguranja, zastupanje u osiguranju, snimanje rizika snimanje i procjena šteta, prodaja ostataka osiguranih uništenih stvari, pružanje pravne pomoći i drugih intelektualnih i tehničkih usluga u svezi s poslovima osiguranja. Poslove iz stavka 1. ovoga članka obavljaju pravne i fizičke osobe za društvo za osiguranje ili za osiguranika na temelju ugovora.

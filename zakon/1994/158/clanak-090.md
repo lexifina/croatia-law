@@ -1,0 +1,2 @@
+# Članak 90.
+Međunarodnim ispravama i dokazima iz članka 89. stavka 1. ovoga Zakona smatraju se oni dokumenti čiju valjanost priznaje Hrvatski ured za osiguranje. Priznavanje valjanosti međunarodnih isprava i dokaza Hrvatski ured za osiguranje priznaje unaprijed, obavješćivanjem Ministarstva unutrašnjih poslova i Uprave carine. Priznavanje valjanosti međunarodnih isprava i dokaza uključuje i garantiranje Hrvatskog ureda za osiguranje za obveze utemeljene tim ispravama i dokazima, do iznosa iz članka 80. stavka 1. ovoga Zakona.

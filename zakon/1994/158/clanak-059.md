@@ -1,0 +1,2 @@
+# Članak 59.
+Direktor rukovodi Direkcijom, zastupa je, predstavlja i odgovara za njezin rad te u sklopu prava i dužnosti utvrđenih zakonom organizira i osigurava zakonito i učinkovito obavljanje poslova iz djelokruga Direkcije, predlaže Upravnom odboru donošenje akata iz njegove nadležnosti i izvršava odluke odbora, te obavlja druge poslove koji su mu ovim Zakonom, statutom ili drugim aktom Direkcije stavljeni u nadležnost.

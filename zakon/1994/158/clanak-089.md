@@ -1,0 +1,2 @@
+# Članak 89.
+Osoba koja motornim vozilom inozemne registracije ulazi na teritorij Republike Hrvatske mora imati valjanu međunarodnu ispravu o osiguranju od automobilske odgovornosti koja vrijedi za teritorij Republike Hrvatske ili neki drugi dokaz o postojanju takvog osiguranja, koja pokriva štete najmanje do iznosa iz članka 80. stavka 1. ovoga Zakona. Granična policija i carina dužni su kontrolirati je li udovoljeno uvjetima iz stavka 1. ovoga članka.

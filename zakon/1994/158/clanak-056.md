@@ -1,0 +1,2 @@
+# Članak 56.
+Upravni odbor Direkcije donosi statut kojeg potvrđuje Vlada Republike Hrvatske, donosi godišnji program rada Direkcije i prati njegovo izvršavanje, donosi proračun prihoda i rashoda Direkcije, utvrđuje visinu sredstava koja izdvajaju društva za osiguranje za financiranje Direkcije, potvrđuje izvješća koja Direkcija podnosi Vladi Republike Hrvatske i odlučuje o drugim pitanjima utvrđenim statutom Direkcije.

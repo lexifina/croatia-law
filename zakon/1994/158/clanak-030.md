@@ -1,0 +1,2 @@
+# Članak 30.
+Dva ili više dioničkih društava za osiguranje iz članka 11. ovoga Zakona mogu radi zajedničkog preuzimanja izvanrednih rizika osnovati društvo s ograničenom odgovornošću za suosiguranje i reosiguranje tih rizika (POOL). Društvo iz stavka 1. ovoga članka posluje u svoje ime i za račun osnivača, a za njegove obveze odgovaraju osnivači uz uvjete i na način utvrđen ugovorom o osnivanju i statutom. Odredbe članka 12. ovoga Zakona o iznosu temeljnog kapitala ne primjenjuju se na osnivanje društva iz stavka 1. ovoga članka.

@@ -1,0 +1,2 @@
+# Članak 77.
+Vlasnik, odnosno korisnik motornog vozila i priključnog vozila dužan je sklopiti ugovor o osiguranju od odgovornosti za štetu koju uporabom motornog vozila (u daljem tekstu osiguranje od automobilske odgovornosti) nanese trećim osobama zbog smrti, tjelesne ozljede, narušavanja zdravlja, uništenja ili oštećenja stvari. Štetom koja je nanesena uporabom motornog vozila smatra se i šteta koja je trećoj osobi prouzročena padom stvari s motornog ili priključnog vozila.

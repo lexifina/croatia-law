@@ -1,0 +1,3 @@
+## V. NADZOR NAD POSLOVANJEM DRUŠTVA ZA OSIGURANJE
+# Članak 55.
+Direkcija za nadzor društava za osiguranje iz članka 8. ovoga Zakona izdaje odobrenja za rad i nadzire posluju li društva za osiguranje po ekonomskim načelima i pravilima struke osiguranja. Direkcija za nadzor društava za osiguranje ima svojstvo pravne osobe. Sjedište Direkcije je u Zagrebu. U obavljanju poslova utvrđenih ovim Zakonom Direkcija je samostalna i odgovara Vladi Republike Hrvatske. Sredstva za pokriće troškova financiranja Direkcije u visini 10% osiguravaju se u državnom proračunu, a 90% sredstava izdvajaju društva za osiguranje, time da izdvajanje tih sredstava ne može iznositi više od 0,8 0/00 (tisućinki) od fakturirane premije osiguranja.

@@ -1,0 +1,2 @@
+# Članak 16.
+Društvo za uzajamno osiguranje je društvo u kojem članovi uplatom uloga (doprinosa) međusobno jamče da će se na načelima uzajamnosti i solidarnosti pokriti štete nastale ostvarenjem ugovorenih rizika. Društvo za uzajamno osiguranje ne posluje radi stjecanja dobiti, nego se sredstva prikupljaju doprinosom samo u onom opsegu koji je potreban za ispunjenje obveza prema osiguranicima i za stvaranje rezervi sigurnosti. O sredstvima društva odlučuju osiguranici koji sami upravljaju društvom.

@@ -1,0 +1,2 @@
+# Članak 61.
+O aktima iz članka 60. ovoga Zakona društvo za osiguranje dužno je tražiti mišljenje Direkcije za nadzor društava za osiguranje prilikom osnivanja društva, te prilikom svake izmjene akata. O primjeni ovih akata, o dovoljnosti vlastitih sredstava i njihovu ulaganju te o cjelovitoj ispravnosti obračuna, Direkcija za nadzor društava za osiguranje daje mišljenje uz svaki godišnji obračun.

@@ -1,0 +1,2 @@
+# Članak 63.
+Direkcija za nadzor društava za osiguranje može prenijeti pojedine poslove nadzora na za to ovlaštene institucije i stručne osobe (ovlašteni aktuar, ovlašteni revizor ili druga stručna osoba). Potanje uvjete za dobivanje ovlaštenja za obavljanje aktuarskih poslova propisuje ministar financija. Potvrdu o ispunjavanju uvjeta iz stavka 2. ovoga članka i dozvolu za rad ovlaštenog aktuara izdaje Ministarstvo financija.

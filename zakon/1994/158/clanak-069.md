@@ -1,0 +1,2 @@
+# Članak 69.
+U slučaju likvidacije društva za osiguranje, vlasnici i korisnici polica imaju preferencijalno pravo i to: - u slučaju svih osobnih osiguranja njihovo pravo na sredstva raspoređena u tehničku rezervu ima prednost pred pravima svih drugih vjerovnika, - u drugim vrstama osiguranja dio prijenosne premije (što znači dio koji se odnosi na razdoblje nakon što su ugovori zbog insolventnosti društva prekinuti) i sva potraživanja koja potječu iz razdoblja prije proglašenja insolventnosti predstavljaju dugove prvog reda.
