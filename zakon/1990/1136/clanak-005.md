@@ -1,0 +1,2 @@
+# Članak 5.
+Javni prihodi za financiranje javnih potreba jesu porezi na promet, porez na dobit pravnih i fizičkih osoba, porezi iz osobnog dohotka, na prihode i na stjecanje imovine, doprinosi iz osobnih dohodaka, doprinosi na osobne dohotke za mirovinsko i invalidsko osiguranje te zdravstvenu zaštitu i zdravstveno osiguranje, takse, novčane kazne, naknade i druga davanja koja se plaćaju u skladu s posebnim zakonom.

@@ -1,0 +1,6 @@
+# Članak 2.
+Javne potrebe koje se financiraju iz javnih prihoda jesu:
+1) zakonom utvrđeni zadaci organa društveno-političke zajednice, obrane i samozaštite, obveze Republike za javne potrebe koje se financiraju iz budžeta federacije, obveze iz međunarodnih odnosa i druge potrebe od interesa za ostvarivanje prava i dužnosti društveno-političke zajednice utvrđene zakonom;
+2) zakonom utvrđena obvezna prava i obvezni standardi ili programi javnih potreba u oblasti odgoja i obrazovanja, znanosti, kulture, zdravstva, socijalne zaštite, zaštite boraca, vojnih invalida i žrtava rata, zaštite nezaposlenih, mirovinskog i invalidskog osiguranja, tjelesne kulture, tehničke kulture i društvene brige o djeci;
+3) zakonom utvrđene potrebe zaštite i unapređivanja čovjekove okoline, sprečavanja i uklanjanja posljedica elementarnih nepogoda, protupožarne zaštite, robnih rezervi, bržeg razvoja privredno nedovoljno razvijenih krajeva, političkih i društvenih organizacija, udruženja građana, te mjesnih zajednica;
+4) zakonom utvrđene obveze prema javnim poduzećima i intervencije u privredi od interesa za društveno-političke zajednice. Razina i način financiranja javnih potreba iz stavka 1. ovoga članka utvrđuju se posebnim zakonima.

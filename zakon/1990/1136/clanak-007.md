@@ -1,0 +1,2 @@
+# Članak 7.
+Republika može pojedine svoje prihode koji joj pripadaju u cjelini ili djelomićno ustupiti užoj društveno-političkoj zajednici za financiranje stanovitih javnih potreba. Ako Republika dio svojih prihoda ili prihod u cjelini, ustupi užoj društveno-političkoj zajednici, taj se prihod iskazuje u budžetu društveno-političke zajednice kojoj se ustupaju sredstva. Republika može odrediti i uvjete pod kojima se ustupljeni prihodi mogu koristiti.
