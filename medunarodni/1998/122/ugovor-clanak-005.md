@@ -1,0 +1,2 @@
+# Članak 5.
+Ugovorne stranke promicat će razvoj kontakata između istraživača dviju zemalja u području zaštite i očuvanja kulturne baštine (spomenika i povijesnih građevina) i pokretne kulturne imovine. Radi zaštite nacionalne baštine svake od zemalja, obje će stranke poduzeti sve prikladne mjere kako bi se spriječio nezakonit izvoz pokretnih kulturnih dobara te osiguralo njihovo vraćanje u zemlju podrijetla u slučaju nezakonitog izvoza.
