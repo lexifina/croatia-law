@@ -1,0 +1,2 @@
+# Članak 1.
+Pravilnikom o službenoj iskaznici državnog pravobranitelja i zamjenika državnog pravobranitelja (u daljnjem tekstu: Pravilnik) propisuje se obrazac službene iskaznice državnog pravobranitelja Republike Hrvatske, zamjenika državnog pravobranitelja Republike Hrvatske, državnog pravobranitelja Grada Zagreba, zamjenika državnog pravobranitelja Grada Zagreba, državnog pravobranitelja županije i zamjenika državnog pravobranitelja županije (u daljnjem tekstu: dužnosnik) i način njihovog izdavanja.
