@@ -1,0 +1,5 @@
+# Članak 33.
+(1) Nadoknada plaće za vrijeme korištenja porodnog dopusta od šest mjeseci do jedne godine djetetova života, posvojiteljskog dopusta i skraćenog radnog vremena do jedne godine djetetova života iznosi od 1.600,00 kuna do najviše 2.500,00 kuna ovisno o prosječnom iznosu plaće koja je korisniku isplaćena u posljednjih šest mjeseci prije korištenja prava na porodni dopust.
+(2) Nadoknadu plaće za vrijeme korištenja porodnog dopusta od jedne do tri godine djetetova života, posvojiteljskog dopusta, skraćenog radnog vremena od jedne do tri godine djetetova života, dopusta iz članka 57. Zakona o radu te novčana nadoknada za vrijeme korištenja porodnog dopusta nezaposlene majke iznosi 1.600,00 kuna. Ta je svota osnovica za obračun nadoknade plaće za vrijeme stanke za dojenje djeteta iz članka 60. Zakona o radu.
+(3) Nadoknadu plaće iz stavka 1. i 2. ovoga članka Ministarstvo doznačivat će Hrvatskom zavodu za zdravstveno osiguranje.
+(4) Nadoknada za opremu novorođenog djeteta iznosi 1.360,00 kuna.

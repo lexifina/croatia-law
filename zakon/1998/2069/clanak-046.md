@@ -1,0 +1,3 @@
+# Članak 46.
+(1) Pravne osobe u pretežito državnom vlasništvu, jedinice lokalne samouprave i jedinice lokalne uprave i samouprave mogu sklapati ugovore o kreditima na tuzemnom i inozemnom tržištu kapitala isključivo za financiranje programa i projekata obnove i razvitka, u skladu sa zakonskim propisima, uz prethodnu suglasnost Ministarstva te u skladu s uvjetima o davanju jamstva koje propisuje Vlada.
+(2) Ukupne godišnje obveze jedinice lokalne samouprave i jedinice lokalne uprave i samouprave za kredite iz stavka 1. ovoga članka mogu iznositi najviše do 20% od njihovih vlastitih proračunskih prihoda bez potpora iz prethodne godine.
