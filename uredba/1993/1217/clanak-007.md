@@ -1,0 +1,2 @@
+# Članak 7.
+Nepodmirene obveze iz evidencije o redoslijedu plaćanja koju vodi ovlaštena organizacija za obavljanje platnoga prometa prema Uredbi o financijskom poslovanju ("Narodne novine", broj 40/92 i 28/93) izvršavat će se do njihova potpunoga podmirenja. Ako se između dužnika i vjerovnika postigne sporazum ili nagodba u svezi s nepodmirenim obvezama iz stavka 1. ovoga članka, ovlaštena organizacija za obavljanje platnoga prometa, odnosne nepodmirene obveze brisat će iz evidencije o redoslijedu plaćanja.

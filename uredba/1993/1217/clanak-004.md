@@ -1,0 +1,2 @@
+# Članak 4.
+Novčanom kaznom za privredni prijestup u protuvrijednosti 5.000 DEM do 10.000 DEM u hrvatskim dinarima, kaznit će se pravna osoba ako naloge za plaćanje dospjelih nepodmirenih obveza iz članka 2. stavka 1. ove Uredbe ne podnese ovlaštenoj organizaciji za platni promet do dana njihova dospijeća. Za radnje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba pravne osobe za privredni prijestup novčanom kaznom u protuvrijednosti 150 DEM do 300 DEM, u hrvatskim dinarima.
