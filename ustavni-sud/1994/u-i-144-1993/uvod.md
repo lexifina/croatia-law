@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, povodom prijedloga "Inženjerski biro" d.d. iz Zagreba za ocjenu suglasnosti odredbi čl. 6. st. 2. Zakona o reviziji s Ustavom Republike Hrvatske na sjednici održanoj 5. siječnja 1994. godine, donio je
