@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Ministarstvo nadležno za poslove socijalne skrbi u roku 30 dana od dana stupanja na snagu ovoga Zakona imenovat će upravno vijeće koje je dužno u roku od 60 dana od dana imenovanja uskladiti statut i opće akte centra za socijalnu skrb i započeti postupak za imenovanje ravnatelja u skladu sa zakonom, statutom i općim aktima centra, te razrješenje ravnatelja iz stavka 2. ovoga članka.
+(2) Do konstituiranja upravnog vijeća poslove ravnatelja i tijela upravljanja centrom za socijalnu skrb nastavit će obavljati osoba koja je obnašala dužnost ravnatelja na dan primjene ovoga Zakona.
