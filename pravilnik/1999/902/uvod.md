@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 4., članka 29., stavka 5., članka 30., stavka 6., članka 31. stavka 4., članka 32. stavka 4., članka 35. stavka 4., članka 36. stavka 4. i članka 37. stavka 3. Zakona o zaštiti bilja (»Narodne novine«, br. 10/94 i 19/94), ministar poljoprivrede i šumarstva donosi
