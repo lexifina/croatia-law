@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe polazi od točke A (rub obale), nastavlja do točke B, tu se lomi i slijedi pravac udaljen 6 metara od južne međe koji presijeca k.č. 1560 i k.č. 1561 do točke C, tu se lomi i nastavlja do točke D (rub obale), gdje za predmetno područje i završava, a sve kako je ucrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Novigrad, broj lista katastarskog plana 28, 29, 32 i 33, u mjerilu 1:1000.
