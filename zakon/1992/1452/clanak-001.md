@@ -1,0 +1,3 @@
+## o izmjenama i dopunama Zakona o Vladi Republike Hrvatske
+# Članak 1.
+U Zakonu o Vladi Republike Hrvatske ("Narodne novine" broj 41/90., 8/91., 14/91., 53A/91. i 9/92.) članak 7. mijenja se i glasi: "Članak 7. Predsjednik i članovi Vlade daju svečanu prisegu pred predsjednihom Republike i pred Saborom. Tekst svečane prisege glasi: "Prisežem da ću dužnost člana Vlade savjesno obnašati i držati se Ustava i zakona i poštivati pravni poredak, te da ću se zalagati za svekoliki napredak Republike Hrvatske." Način polaganja prisege pred predsjednikom Republike Hrvatske propisuje predsjednik, a način polaganja prisege pred Saborom propisuje se Poslovnikom Sabora.
