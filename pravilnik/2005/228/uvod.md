@@ -1,0 +1,1 @@
+Na temelju članka 64. Zakona o porezu na dohodak (»Narodne novine« broj 177/04) i članka 96. stavka 2. Zakona o doprinosima za obvezna osiguranja (»Narodne novine« broj 147/02, 175/03 i 177/04) donosim
