@@ -1,0 +1,4 @@
+1.
+U skladu s odredbom članka 37d Zakona o osnovnim pravima iz mirovinskog i invalidskog osiguranja ("Narodne novine", broj 53/91.), najniža svota naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. siječnja 1994. iznosi 614.044.- HRD.
+2.
+Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1994.
