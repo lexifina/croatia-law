@@ -1,0 +1,4 @@
+# Članak 11.
+Listice opasnosti kojima se označuju pojedinačna i skupna pakovanja opasnih tvari moraju biti postavljene na vidljivu mjestu obje bočne i stražne strane motornog vozila, prikolice, poluprikolice i autocisterne kojima se prevoze opasne tvari.
+Ako se u višedijelnoj cisterni prevoze različite klase opasnih tvari, na objema bočnim stranama svakog dijela mora biti postavljen znak kojim se označava motorno vozilo koje prevoz opasnu tvar s brojevima stupnja opasnosti i identifikacijskim brojem tvari koja se prevozi, a na prednjoj i stražnjoj strani vozila mora biti postavljen znak za označavanje motornog vozila koje prevozi opasne tvari, bez brojeva stupnja opasnosti i identifikacijskog broja tvari.
+Ako se u motornom ili priključnom vozilu, koje nije cisterna, istodobno prevozi više različitih klasa opasnih tvari, na znaku kojim se označava vozilo koje prevozi opasne tvari, mora biti ispisan broj stupnja opasnosti i identifikacijski broj najopasnijih tvari.
