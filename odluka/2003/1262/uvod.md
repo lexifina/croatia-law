@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 86. stavka 1. točke 1. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/2001 i 60/2001), Vlada Republike Hrvatske je na sjednici održanoj 12. lipnja 2003. godine donijela
