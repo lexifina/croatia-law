@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Ministarstvo pravosuđa neposredno poduzima mjere za poboljšanje izvršavanja zaštitnog nadzora i rada za opće dobro, pruža stručnu pomoć, prikuplja i obrađuje statističke podatke, te obavlja i druge poslove propisane ovim Zakonom i drugim propisima.
+(2) Ministarstvo pravosuđa surađuje s drugim tijelima državne vlasti, znanstvenim i drugim ustanovama, strukovnim udrugama, drugim pravnim osobama i pojedincima radi poboljšavanja uvjeta izvršavanja zaštitnog nadzora i rada za opće dobro te pomoći osuđenicima.
+(3) Ministarstvo pravosuđa putem sredstava javnog priopćavanja izvješćuje javnost o uvjetima i stanju izvršavanja zaštitnog nadzora i rada za opće dobro radi uključivanja društvene zajednice u postupke izvršavanja.
+(4) Za sudsko postupanje po ovom Zakonu nadležan je općinski sud prema mjestu prebivališta, odnosno boravišta osuđenika. Za postupanje u prvom stupnju nadležan je sudac pojedinac, a u drugom stupnju sudsko vijeće iz članka 18. stavka 3. Zakona o kaznenom postupku (»Narodne novine«, br. 110/97., 27/98., 58/99. i 112/99.).
