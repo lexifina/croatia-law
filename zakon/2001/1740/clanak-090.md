@@ -1,0 +1,3 @@
+# Članak 90.
+(1) U roku od godine dana nakon početka primjene ovoga Zakona, fizičke ili pravne osobe koje obavljaju gospodarski ribolov moraju pribaviti povlasticu sukladno odredbi članka 10. ovoga Zakona, jer im u protivnom prestaje pravo na obavljanje gospodarskog ribolova, što će rješenjem utvrditi Ministarstvo.
+(2) Fizičke ili pravne osobe koje obavljaju gospodarski ribolov obvezuju se u roku od godine dana od dana primjene ovoga Zakona uskladiti svoj rad i poslovanje s odredbama ovoga Zakona, jer im u protivnom prestaje pravo na obavljanje gospodarskog ribolova, što će rješenjem utvrditi Ministarstvo.
