@@ -1,0 +1,2 @@
+# Članak 7.
+Ovlašteni službenici iz članka 6. imaju službenu iskaznicu veličine 7,0 ¤ 10,0 cm, koja na prednjoj strani sadrži grb Republike Hrvatske i oznaku »Vlada Republike Hrvatske - Ured za unutarnji nadzor«, a na stražnjoj strani sadrži ime i prezime inspektora nadzora, njegov JMBG i tekst »Nositelj ove iskaznice je ovlašten obaviti provjeru materijalnog i financijskog poslovanja tijela državne uprave i stručnih službi Vlade Republike Hrvatske.«, zatim datum izdavanja iskaznice i pečat Vlade Republike Hrvatske.
