@@ -1,0 +1,4 @@
+# Članak 10.
+Kupaonica mora imati kadu ili polukadu ili tuš kadu i umivaonik. U kupaonici mora biti polica ili ormarić za toaletni papir, vješalica za odlaganje odjeće, ogledalo s pogodnom rasvjetom, utičnica za električne aparate ukoliko je objekt priključen na električnu mrežu, prostirač za pod i dva nosača za ručnike.
+Vlastitom kupaonicom sobe, prema odredbama ovoga Pravilnika, smatra se odvojeni prostor u koji ima pristup gost korisnik sobe a u nju se ulazi iz pretprostora ili iz sobe. Vlastita kupaonica, osim sadržaja iz stavka 1. ovoga članka mora imati i zahod, ako zahod nije u odvojenom prostoru sa ulazom iz pretprostora sobe.
+U kupaonici odnosno vlastitoj kupaonici mora biti tekuća topla i hladna voda, koja se može koristiti u toku čitavog dana i noći. Ako kupaonica ima tuškadu, ona mora biti zaštićena odgovarajućim zastorom ili na drugi pogodan način.
