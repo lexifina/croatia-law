@@ -1,0 +1,6 @@
+# Članak 11.
+ČLANOVI DIPLOMATSKIH MISIJA I KONZULARNIH UREDA
+(1) Članovi diplomatskih misija i konzularnih ureda, izuzeti su, s obzirom na službu koju obavljaju za državu šiljateljicu, od zakonodavstva koje je na snazi u državi primateljici. Isto vrijedi i za članove njihovih obitelji koji s njima žive u zajedničkom kućanstvu, ako nisu državljani države primateljice.
+(2) Izuzeće navedeno u odredbi stavka 1. ovoga članka primjenjuje se i na privatnu poslugu koja je isključivo u službi nekog člana diplomatske misije ili konzularnog ureda, uz uvjet da te osobe nisu državljani države primateljice niti imaju prebivalište u toj državi, te da se na njih primjenjuje zakonodavstvo koje je na snazi u državi šiljateljici ili u nekoj trećoj državi.
+(3) Članovi diplomatske misije i konzularnog ureda, koji zapošljavaju osobe na koje se ne primjenjuje izuzeće predviđeno u stavku 2. ovoga članka, dužni su poštovati obveze koje poslodavcu nameće zakonodavstvo države primateljice.
+(4) Osobe zaposlene u diplomatskoj misiji i konzularnom uredu koje su državljani države šiljateljice, a koje imaju prebivalište u državi primateljici mogu, u roku od tri mjeseca od dana zapošljavanja, odnosno za one koje su već zaposlene, u roku od tri mjeseca od dana stupanja na snagu ovog Ugovora, izabrati primjenu zakonodavstva države šiljateljice.

@@ -1,0 +1,4 @@
+# Članak 7.
+ODREDBE O NEKUMULIRANJU
+(1) Odredbe ovog Ugovora ne mogu dodijeliti niti održavati pravo korištenja, u skladu sa zakonodavstvom dviju ugovornih stranaka više istovrsnih davanja ili više davanja koja se odnose na isto razdoblje osiguranja ili isto izjednačeno razdoblje. Međutim, ova odredba se ne primjenjuje na davanja zbog invalidnosti, starosti i smrti koja su priznata u skladu s odredbama poglavlja 2. odjeljka III. ovog Ugovora.
+(2) Odredbe o smanjenju, obustavi ili ukidanju, predviđene zakonodavstvom jedne ugovorne stranke, u slučaju kumuliranja davanja s drugim davanjima iz socijalnog osiguranja ili s drugim prihodima, ili zbog obavljanja profesionalne aktivnosti, mogu se primijeniti na korisnika, iako su davanja stečena prema zakonodavstvu druge ugovorne stranke ili ako se radi o stečenim prihodima ili profesionalnoj aktivnosti koja se obavlja na teritoriju druge ugovorne stranke.

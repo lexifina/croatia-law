@@ -1,0 +1,5 @@
+# Članak 15.
+PRAVO NA DAVANJE ČLANOVIMA OBITELJI
+(1) Članovi obitelji, osobe osigurane kod nositelja jedne od ugovornih stranaka, koriste davanja u naravi, kada prebivaju na teritoriju druge ugovorne stranke, kao da je ta osoba osigurana kod nositelja mjesta njihovog prebivališta. Opseg, trajanje i način pružanja navedenih davanja, utvrđuje se prema odredbama zakonodavstva koje taj nositelj primjenjuje.
+(2) Ako članovi obitelji borave ili promijene svoje prebivalište na teritorij nadležne ugovorne stranke, oni koriste davanja u skladu s odredbama zakonodavstva te ugovorne stranke. Ovo se pravilo također primjenjuje kada su članovi obitelji već koristili za isti slučaj bolesti ili majčinstva, davanja koja im je pružao nositelj ugovorne stranke na čijem su teritoriju prije prebivali.
+(3) Ako članovi obitelji, navedeni u stavku 1. ovoga članka, obavljaju profesionalnu aktivnost ili koriste mirovinu ili rentu koja im daje pravo na davanja u naravi prema zakonodavstvu ugovorne stranke u kojoj prebivaju, odredbe ovoga članka na njih se ne primjenjuju.

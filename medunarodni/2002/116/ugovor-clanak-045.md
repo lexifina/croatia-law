@@ -1,0 +1,4 @@
+# Članak 45.
+ROKOVI
+(1) Zahtjevi, izjave ili žalbe koje su trebale biti podnesene, za primjenu zakonodavstva jedne od ugovornih stranaka, u određenom roku tijelu, nositelju ili sudu te ugovorne stranke, priznaju se ako su podneseni u istom roku odgovarajućem tijelu, nositelju ili sudu druge ugovorne stranke. U tom slučaju, navedeni nositelj, bez odgađanja, prosljeđuje te zahtjeve, izjave ili žalbe tijelu, nositelju ili sudu prve ugovorne stranke, ili neposredno ili putem tijela za vezu obiju ugovornih stranaka.
+(2) Zahtjev za davanje podnesen prema zakonodavstvu jedne ugovorne stranke, smatra se zahtjevom za odgovarajuće davanje prema zakonodavstvu druge ugovorne stranke, osim ako podnositelj izričito traži odgodu priznanja prava na davanje s naslova zakonodavstva jedne od ugovornih stranaka.

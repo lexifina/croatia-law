@@ -1,0 +1,8 @@
+# Članak 13.
+PRAVO NA DAVANJA U SLUČAJU BORAVKA NA TERITORIJU DRUGE UGOVORNE STRANKE
+(1) Osoba koja ima pravo na davanja u naravi u skladu sa zakonodavstvom jedne od ugovornih stranaka, koristi davanja u naravi za vrijeme privremenog boravka na teritoriju druge ugovorne stranke, kada njeno stanje zahtijeva hitne zdravstvene usluge.
+(2) Osobe navedene u članku 9. točki c) i d), članku 10. i 11. ovog Ugovora i osobe na školovanju ili stručnom usavršavanju, koriste davanja u naravi za vrijeme privremenog boravka na teritoriju druge ugovorne stranke kada njihovo zdravstveno stanje zahtijeva potrebne zdravstvene usluge koje se ne mogu odgoditi do namjeravanog povratka na teritorij nadležne ugovorne stranke. Isto vrijedi i za članove obitelji čiji je opseg prava određen zakonodavstvom koje primjenjuje nadležni nositelj.
+(3) Osoba koja nakon nastanka osiguranog slučaja privremeno ode na teritorij druge ugovorne stranke, zadržava pravo na davanja u naravi, ako je pribavila prethodnu suglasnost nadležnog nositelja.
+(4) Davanja u naravi iz stavka 1. do 3. ovoga članka pruža nositelj mjesta boravka, prema odredbama zakonodavstva koje on primjenjuje, posebno što se tiče opsega i načina pružanja davanja u naravi; međutim, trajanje pružanja tih davanja određuje zakonodavstvo nadležne ugovorne stranke.
+(5) Za odobrenje proteza i pomagala velike vrijednosti i drugih davanja u naravi velike vrijednosti, potrebna je suglasnost nadležnog nositelja, osim u slučaju apsolutne hitnosti koja se uređuje administrativnim sporazumom predviđenim člankom 41. ovog Ugovora.
+(6) Davanja u novcu, u slučaju bolesti ili majčinstva, pruža neposredno nadležni nositelj kojem pripada korisnik, prema odredbama zakonodavstva koje on primjenjuje.

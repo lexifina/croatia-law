@@ -1,0 +1,4 @@
+# Članak 53.
+REVIZIJA PRAVA
+(1) Svako davanje koje nije bilo priznato ili je obustavljeno zbog državljanstva zainteresirane osobe ili zbog njenog prebivališta na teritoriju ugovorne stranke različite od one gdje se nalazi nositelj dužnik ili zbog neke druge smetnje koja je otklonjena ovim Ugovorom, priznaje se ili ponovno stavlja u tečaj na zahtjev zainteresirane osobe, od dana stupanja na snagu ovog Ugovora, osim ako prije priznata prava nisu dovela do paušalne isplate ili ako su vraćeni doprinosi doveli do gubitka prava na davanja.
+(2) Prava zainteresiranih osoba koje su prije stupanja na snagu ovog Ugovora ostvarile pravo na mirovinu ili rentu revidirat će se na njihov zahtjev, uzimajući u obzir odredbe ovog Ugovora. Ova prava mogu također biti revidirana po službenoj dužnosti. Ni u jednom slučaju, takva revizija ne može imati učinak smanjenja prije priznatih prava zainteresiranim osobama.
