@@ -1,0 +1,3 @@
+# Članak 9.
+ZAŠTITA OKOLIŠA
+U realizaciji ovoga Sporazuma, Ugovorne su strane suglasne razvijati tijesnu međuvladinu suradnju s namjerom da se osnuju zajedničke institucije koje će djelovati u skladu s međunarodnim pravilima, kao što su oni koji su proglašeni u Protokolu iz Kyota uz Okvirnu povelju Ujedinjenih naroda o klimatskim promjenama i u Protokolu o energetskoj učinkovitosti i pripadajućim problemima okoliša, uzimajući u obzir lokalne ekološke uvjete, a također su suglasne provoditi zajedničke postupke, koji će jamčiti zaštitu okoliša od bilo kakve štetne posljedice projektiranja, izgradnje, sanacije, održavanja i rada jednog ili više međudržavnih sustava za transport nafte i plina uspostavljenih sukladno ovom Sporazumu.

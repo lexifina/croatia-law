@@ -1,0 +1,4 @@
+# Članak 5.
+ODRŽAVANJE
+1. Odredbe iz članka 4. slično se primjenjuju i na održavanje saniranih i novoizgrađenih dijelova jednog ili više međudržavnih sustava za transport nafte i plina uspostavljenih sukladno ovom Sporazumu.
+2. Sukladno odredbama iz članka 3. stavka 1., kad zajednički pogonski subjekt upravlja nekim međudržavnim sustavom za transport nafte i plina, utemeljen sukladno ovom Sporazumu, te ako održavanje takvog sustava bude ustupljeno nekom pravnom subjektu ili skupini pravnih subjekata, koji nisu zajednički pogonski subjekt kako je opisano u članku 3., pravni subjekt, ili skupina pravnih subjekata, odgovoran za održavanje takvoga transportnog sustava ima poštovati pod kontrolom i nadzorom zajedničkoga pogonskog subjekta, kao što će Sporazum o održavanju, koji će se zaključiti na temelju ovoga članka i zajednički Sporazum o poslovanju predviđen u članku 3. stavku 2. to izričito osigurati.
