@@ -1,0 +1,1 @@
+Na temelju članka 11. Zakona o Hrvatskom fondu za privatizaciju (»Narodne novine«, br. 84/92, 52/94 i 87/96) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj 8. lipnja 2000. godine donijela
