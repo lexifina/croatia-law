@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe započinje u točki A (rub obale), do točke B (južna međa k.č. 818/1) gdje se lomi i nastavlja međom k.č. 818/1 do točke C. Od točke C granica prati rub pokosa pomaknuta za 6 metara u kopno presijecajući k.č. 812/1, 817, 816/2, 815, 814, 813, 777 i 776/1 do točke D. U točki D granica se lomi i pravolinijski nastavlja do točke E (rub obale) gdje i završava, a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Umag, broj lista plana 11 i 13, u mjerilu 1 : 1000.
