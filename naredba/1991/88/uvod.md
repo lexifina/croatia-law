@@ -1,0 +1,1 @@
+Na temelju članka 26. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 11/79, 31/86 i 32/87) i članka 81. Zakona o upravi ("Narodne novine", br. 16/78, 50/79, 29/85, 48/85 i 41/90), ministar poljoprivrede i šumarstva izdaje
