@@ -1,0 +1,3 @@
+# Članak 57.
+Kada vojnostegovni tužitelj iz stegovne prijave odnosno iz predmeta ne može ocijeniti vjerodostojnost navoda prijave odnosno kada podaci u prijavi ne daju dovoljno osnova za ocjenu o tome je li stegovni prijestup počinjen, te ako je do vojnostegovnog tužitelja dopro glas da je stegovni prijestup počinjen, vojnostegovni tužitelj će, ukoliko to ne može poduzeti sam ili preko drugih tijela, od Vojne policije zahtijevati da prikupi potrebne obavijesti odnosno poduzme druge radnje radi otkrivanja stegovnog prijestupa i počinitelja.
+Vojnostegovni tužitelj može pozvati odnosno zatražiti podnositelja stegovne prijave pojašnjenja sadržaja prijave ili je dopuniti odnosno zatražiti potrebne podatke od tijela državne uprave i pravnih osoba.

@@ -1,0 +1,2 @@
+# Članak 26.
+Kada nadređena osoba na dužnosti zapovjednika brigade, njemu ravne ili više dužnosti ocijeni da je podređeni počinio stegovnu pogrešku za čije je izricanje nadležno vojnostegovno vijeće odnosno kada ocijeni da se radi o stegovnom prijestupu ročnika, kadeta ili pričuvnog vojnika ustupit će vojnostegovnom vijeću spis predmeta uz prijedlog za raspravljanje i odlučivanje o stegovnoj odgovornosti pred vojnostegovnim vijećem.
