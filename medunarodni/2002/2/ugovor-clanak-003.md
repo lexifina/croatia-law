@@ -1,0 +1,6 @@
+# Članak 3.
+ODREĐIVANJE ZRAČNOG PRIJEVOZNIKA
+1. Svaka ugovorna stranka imat će pravo odrediti i u pismenom obliku to saopćiti drugoj ugovornoj stranci jednog ili više zračnih prijevoznika koji će obavljati dogovorene letove na navedenim linijama.
+2. Po primitku obavijesti o određivanju zračnih prijevoznika, zrakoplovne vlasti druge ugovorne stranke će, ovisno o odredbama ovog članka i člana 4, bez odgađanja dati zračnom prijevozniku/prijevoznicima određenim u skladu sa stavkom 1 ovog članka, odgovarajuća ovlaštenja za rad.
+3. Za svrhe davanja odgovarajućih ovlaštenja za rad sukladno stavku 2 ovog članka, zrakoplovne vlasti jedne ugovorne stranke mogu zatražiti od zračnog prijevoznika kojega je odredila druga ugovorna stranka, da pruži dokaz da je kvalificiran za ispunjenje uvjeta propisanih zakonom i pravnim propisima koji te vlasti uobičajeno primjenjuju na međunarodni zračni promet sukladno odredbama Konvencije.
+4. Nakon što je zračni prijevoznik određen i ovlašten u skladu s ovim člankom, on može obavljati ugovoreni zračni promet za koji je određen, pod uvjetom da su tarife utvrđene u skladu sa odredbama članka 5 (Odobrenje redova letenja) i 10 (Tarife) ovog Sporazuma na snazi glede tog prometa, te da će ih se određeni zračni prijevoznik pridržavati za svo vrijeme važenja Sporazuma.

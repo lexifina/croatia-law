@@ -1,0 +1,3 @@
+# Članak 21.
+PRESTANAK VAŽENJA SPORAZUMA
+Svaka ugovorna stranka može bilo kada pisanim putem obavijestiti drugu ugovornu stranku o svojoj odluci da okonča ovaj Sporazum. Istovremeno će se kopija te obavijesti poslati Međunarodnoj organizaciji civilnog zrakoplovstva. U takvom slučaju ovaj Sporazum prestaje važiti dvanaest (12) mjeseci nakon datuma kad je druga ugovorna stranka primila obavijest, osim ako obavijest ne bude sporazumno povučena prije isteka tog razdoblja. Ako druga ugovorna stranka ne potvrdi primitak, smatrat će se da je obavijest primljena četrnaest (14) dana nakon datuma primitka obavijesti od strane Međunarodne organizacije civilnog zrakoplovstva.

@@ -1,0 +1,5 @@
+# Članak 15.
+PRODAJA, PRIHODI I DOZNAKA PRIMANJA
+1. Svaki određeni zračni prijevoznik ima pravo vršiti direktnu prodaju zrakoplovnih, putničkih karata na teritoriju druge ugovorne stranke i - ako želi - putem posredništva svojih predstavnika. Te prodaje moraju se vršiti u lokalnoj valuti.
+2. Svaka ugovorna stranka daje određenom zračnom prijevozniku druge ugovorne stranke da pretvori i slobodno doznači višak prihoda iznad rashoda, koji je određeni zračni prijevoznik ostvario na teritoriju te ugovorne stranke kroz prijevoz putnika, prtljage, tereta i pošte, kao i kroz sve druge djelatnosti u svezi zračnog prijevoza koje je dozvoljen sukladno nacionalnim zakonskim propisima. Takove doznake vršit će se po deviznom tečaju u skladu sa nacionalnim zakonima i pravnim propisima koji su na snazi i reguliraju tekuća plaćanja, no tamo gdje ne postoje službeni devizni tečajevi, te doznake vršit će se po tržišnom deviznom tečaju koji prevladava za tekuća plaćanja.
+3. U slučaju ako oblik plaćanja između ugovornih stranaka reguliraju posebni ugovori, primjenjivat će se takovi ugovori.
