@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1., 2. i 4. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01), ministar poljoprivrede i šumarstva, uz suglasnost Hrvatskog športsko ribolovnog saveza i ministra zaštite okoliša i prostornog uređenja, donosi
