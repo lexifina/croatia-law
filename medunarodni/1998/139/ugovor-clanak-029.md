@@ -1,0 +1,5 @@
+# Članak 29.
+1. Konzularni službenici i članovi poslužnog osoblja koji su državljani države primateljice ili u njoj imaju stalno boravište, ili koji u državi primateljici obavljaju privatnu djelatnost lukrativnog karaktera, ne uživaju povlastice, olakšice i imunitete predviđene ovom Konvencijom, s izuzetkom odredbi stavaka 3. i 4. članka 22. ove Konvencije.
+2. Članovi obitelji konzularnog službenika ili člana poslužnog osoblja koji je državljanin države primateljice ili ima stalni boravak u toj državi, te članovi obitelji člana konzularnog ureda koji su državljani države primateljice ili imaju stalni boravak u toj državi, ne uživaju olakšice, privilegije i imunitete predviđene ovom konvencijom, osim onih predviđenih stavkom 3. članka 22. ove Konvencije.
+3. Članovi privatne posluge, ne uživaju nikakve povlastice i imunitete navedene u ovoj Konvenciji, osim onih predviđenih stavkom 3. člankom 22. ove Konvencije.
+4. Država primateljica vršit će svoju jurisdikciju nad tim osobama tako da neopravdano ne priječi obavljanje funkcija konzularnog ureda.

@@ -1,0 +1,2 @@
+# Članak 43.
+Konzularni dužnosnik ima pravo zastupati, u skladu sa zakonima i propisima države primateljice, državljanina države imenovanja pred vlastima države primateljice, ukoliko ta osoba, zbog odsutnosti ili iz drugih važnih razloga, ne može u odgovarajuće vrijeme preuzeti obranu svojih prava i interesa. Takvo se zastupanje produžuje sve dok dotična osoba ne imenuje svog zastupnika ili osobno ne preuzme obranu svojih prava i interesa.
