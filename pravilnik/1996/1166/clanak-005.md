@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Obveznici poreza na dobit iz članka 3. i 4. ovoga Pravilnika mogu na temelju godišnje prijave ostvariti pravo na zaštitnu kamatu iz članka 11. Zakona, ako su imali najmanje tri osobe zaposlene na neodređeno vrijeme s prebivalištem na području posebne državne skrbi, koje su bile u radnom odnosu najmanje devet mjeseci u kalendarskoj godini.
+(2) Prebivalište za zaposlene osobe utvrđuje se prema odredbama Pravilnika o porezu na dohodak. Davanje netočnih podataka o prebivalištu zaposlenih osoba radi korištenja porezne povlastice je kažnjivo.
+(3) Zaštitna kamata se obračunava na vlastiti kapital uložen u objekte i opremu poduzetnika na području posebne državne skrbi od 1. lipnja 1996. godine za obveznike koji posluju na dan stupanja na snagu Zakona, a za obveznike koji počinju poslovati od početka mjeseca u kojem su počeli poslovati.

@@ -1,0 +1,5 @@
+## 3. POVLASTICE PRI OPOREZIVANJU PROMETA NEKRETNINAMA
+# Članak 14.
+(1) Porez na promet nekretnina ne plaća se u smislu članka 15. stavka 1. Zakona kada fizička osoba kupuje nekretnine koje se nalaze na području posebne državne skrbi ako ima prebivalište na području posebne državne skrbi ili ako prijavljuje prebivalište na to područje.
+(2) Porez na promet nekretnina ne plaćaju u smislu članka 15. stavka 2. Zakona pravne osobe kada prodaju nekretnine na području posebne državne skrbi pod uvjetom da te nekretnine i dalje služe za obavljanje djelatnosti na području posebne državne skrbi bez obzira na to da li nekretnine kupuju pravne ili fizičke osobe.
+(3) Povlastice pri oporezivanju prometa nekretnina priznaju se strankama koje zaključe ugovor o prijenosu vlasništva na nekretninama poslije stupanja na snagu Zakona. Ako su stranke raskinule ugovor o prijenosu vlasništva na nekretnini prijavljen radi utvrđivanja poreza na promet nekretnina do stupanja na snagu Zakona te ponovno prijave promet tih nekretnina nakon stupanja na snagu Zakona, porez na promet nekretnina utvrdit će se po propisima koji su bili na snazi u trenutku prijavljivanja raskinutog ugovora.
