@@ -1,0 +1,2 @@
+# Članak 9.
+Osnivanjem javne ustanove za upravljanje zaštićenim dijelovima prirode na području grada ili općine sukladno članku 1. ovoga Zakona prestaje pravo upravljanja na tim zaštićenim dijelovima prirode javne ustanove koju je osnovala županijska skupština na temelju članka 17. stavka 3. Zakona o zaštiti prirode, (»Narodne novine«, br. 30/94. i 72/94.), a pravo upravljanja stječe javna ustanova koju je osnovao grad ili općina.
