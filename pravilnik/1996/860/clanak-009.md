@@ -1,0 +1,4 @@
+# Članak 9.
+Kad vlagomjer pokazuje količinu vlage različitih vrsta zrnja žitarica i sjemenki uljarica izravno, bez uporabe pretvorbenih tablica, a opremljen je uređajem za odabir vrsta zrnja žitarica i sjemenki uljarica na kojima se obavlja mjerenje, mora taj uređaj biti tako konstruiran da njegov rad bude jasno vidljiv svima nazočnima te mora jasno pokazivati naziv odabrane vrste.
+Kad vlagomjer pokazuje količinu vlage neizravno, mora biti opremljen potrebnim pretvorbenim tablicama da se može dobiti količina vlage svake pojedinačne vrste.
+Zahtjevi koji se odnose na raspon ljestvice propisani u članku 5. stavak 1. ovoga pravilnika i najveće dopuštene pogreške propisane u članku 32. ovoga pravilnika primjenjuju se na rezultate količine vlage očitane u pretvorbenim tablicama i izražene kao maseni postotak (maseni %), a ne primjenjuju se na rezultate dobivene "dogovornom ljestvicom" vlagomjera.

@@ -1,0 +1,2 @@
+# Članak 12.
+Raspon ljestvice pokaznog uređaja vlagomjera mora se odabrati od ovih vrijednosti: 0,1 maseni %, 0,2 maseni % ili 0,5 maseni %, i to tako da bez obzira koju vrijednost količine vlage pokazuje vlagomjer izravno ili neizravno, taj broj ostaje manji ili jednak polovici najveće dopuštene pogreške propisane člankom 32. ovoga pravilnika tijekom tipnog ispitivanja za vlagomjere razreda točnosti I.
