@@ -1,0 +1,3 @@
+# Članak 31.
+Ako zbog ratnih uvjeta ili uvjeta nastalih zbog neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske proizvođači ne mogu raspolagati sredstvima za proizvodnju, sirovinama i reprodukcijskim tvarima ili drugim sredstvima za rad, Ministarstvo obrane uz suglasnost Ministarstva gospodarstva može u skladu s planovima razvoja i uporabe Oružanih snaga donijeti odluku da se ta sredstva stave na raspolaganje i premjeste u drugu pravnu osobu koja proizvodi NVO prema odredbama ovoga Zakona.
+Odredba stavka 1. ovoga članka odnosi se i na druge pravne osobe čija se sredstva za proizvodnju, sirovine, reprodukcijske tvari i druga sredstva za rad mogu rabiti za proizvodnju NVO-a.
