@@ -1,0 +1,2 @@
+# Članak 1.
+Odlukom o dopuštenoj visini kala, rastepa, kvara i loma u ugostiteljstvu (u daljnjem tekstu: Odluka) utvrđuje se na temelju iskustava struke dopuštena visina kala, rastepa, kvara i loma do koje fizičke i pravne osobe koje obavljaju ugostiteljsku djelatnost na temelju Zakona o obrtu (»Narodne novine br. 49/03 - pročišćeni tekst) i posebnih propisa koji uređuju ugostiteljsku djelatnost mogu navedene rashode knjižiti kao troškove poslovanja.
