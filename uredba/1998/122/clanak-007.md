@@ -1,0 +1,3 @@
+# Članak 7.
+U roku od petnaest dana od dana isteka roka utvrđenog u članku 5. ove Uredbe, Ministarstvo prostornog uređenja, graditeljstva i stanovanja dostavit će Ministarstvu razvitka i obnove podatke o stanovima u vlasništvu Republike Hrvatske za koje nije podnesen zahtjev za sklapanje ugovora o najmu.
+Stanove iz stavka 1. ovoga članka daje u najam rješenjem ministar razvitka i obnove i to prema uvjetima i mjerilima utvrđenim Zakonom o područjima posebne državne skrbi ("Narodne novine", br. 44/96, 57/96 i 124/97), a ugovore o najmu tih stanova sklapa ministar prostornog uređenja, graditeljstva i stanovanja.
