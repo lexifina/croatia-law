@@ -1,0 +1,3 @@
+# Članak 82.
+Studenti koji su započeli studij na Visokoj policijskoj školi u sastavu Policijske akademije Ministarstva unutarnjih poslova prije početka školske godine 1996/97. imaju pravo završiti studij na javnoj Visokoj policijskoj školi po programima i uvjetima koji su bili na snazi kad su upisali prvu godinu studija.
+Diplome i potvrdnice stečene na Visokoj policijskoj školi u sastavu Policijske akademije Ministarstva unutarnjih poslova, do dana stupanja na snagu ovoga Zakona, izjednačavaju se s diplomama i potvrdnicama iz članka 54. stavka 1. Zakona o visokim učilištima ("Narodne novine", br. 96/93., 34/94., 21/95. i 48/95.).
