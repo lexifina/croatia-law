@@ -1,0 +1,2 @@
+# Članak 9.
+Radi formiranja deviznih rezervi Republike Hrvatske i održavanja opće likvidnosti u plaćanjima prema inozemstvu ovlaštene banke dužne su prodati Narodnoj banci Hrvatske devize ostvarene prema Uredbi o izdavanju obveznica za prikupljanje sredstava za obnovu Republike Hrvatske ("Narodne novine", broj 65/91) i prema Uredbi o dodatnom osobnom popustu kod kupnje stana u devizama ("Narodne novine", broj 65/91) prema nalogu Ministarstva financija Republike Hrvatske.
