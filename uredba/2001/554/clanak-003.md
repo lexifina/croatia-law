@@ -1,0 +1,2 @@
+# Članak 3.
+Troškove ustroja i vođenja Registra javnih cesta snosit će 40% od ukupnih troškova Hrvatske ceste d.o.o., 30% od ukupnih troškova Hrvatske autoceste d.o.o. i koncesijska društva za javne ceste u koncesiji, te 30% od ukupnih troškova županijske uprave za ceste, razmjerno udjelu mreže županijskih i lokalnih cesta kojima upravljaju, iz sredstava koja su prema članku 59. Zakona o javnim cestama izvori financiranja, građenja i održavanja javnih cesta.
