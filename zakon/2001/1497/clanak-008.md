@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Slobodno mjesto zamjenika ravnatelja oglašava se na način dostupan državnim odvjetnicima i zamjenicima. Kandidati se mogu javiti na oglas u roku od trideset dana od dana objave.
+(2) Zamjenika ravnatelja raspoređuje na rad u Ured Glavni državni odvjetnik na prijedlog Ravnatelja iz reda državnih odvjetnika i zamjenika državnih odvjetnika na vrijeme od četiri godine, nakon isteka tog razdoblja zamjenik ravnatelja može biti ponovno raspoređen na rad u Ured. U odluci o raspoređivanju Glavni državni odvjetnik će cijeniti podatke iz članka 7. stavka 3. ovoga Zakona, a osobito podatke o obnašanju državnoodvjetničke dužnosti kandidata.
+(3) Ako Ravnatelj ne bude ponovno imenovan ili zamjenik ravnatelja ne bude ponovno raspoređen na rad u Ured nastavlja raditi kao zamjenik državnog odvjetnika u državnom odvjetništvu u kojem je radio prije dolaska u Ured.
+(4) U postupku raspoređivanja zamjenika ravnatelja na odgovarajući način primjenjuju se odredbe članka 3. stavka 4. - 8. ovoga Zakona.

@@ -1,0 +1,5 @@
+# Članak 29.
+(1) Glavni državni odvjetnik može od suda iz članka 24. stavka 1. ovoga Zakona zahtijevati donošenje rješenja o ispitivanju kao svjedoka osobe koja je postala pripadnik zločinačke organizacije:
+1. protiv koje je podnesena kaznena prijava ili se vodi kazneni postupak za kazneno djelo iz članka 21. ovoga Zakona počinjeno u okvirima zločinačke organizacije i ako postoje okolnosti na temelju kojih se prema kaznenom zakonu pripadnik zločinačke organizacije može osloboditi kazne ili olakotne okolnosti na temelju kojih se kazna može ublažiti,
+2. ako je iskaz te osobe razmjeran težini počinjenoga kaznenog djela i važnosti iskaza te osobe za otkrivanje i dokazivanje kaznenih djela počinjenih u okvirima zločinačke organizacije ili njihovih počinitelja, odnosno za otkrivanje i sprječavanje kaznenih djela zločinačke organizacije.
+(2) Zahtjev iz stavka 1. ovoga članka Glavni državni odvjetnik može podnijeti na obrazloženi prijedlog Ravnatelja do zakazivanja glavne rasprave u kaznenom predmetu protiv pripadnika zločinačke organizacije iz stavka 1. ovoga članka.

@@ -1,0 +1,2 @@
+# Članak 40.
+Ako su redarstvene vlasti po službenoj dužnosti pokrenule izvide kaznenih djela iz članka 21. ovoga Zakona, o tome će odmah izvijestiti Ured koji može postupiti prema odredbi članka 39. stavka 1. i 3. ovoga Zakona. Ako nakon završenih izvida Ured vrati podnesenu kaznenu prijavu redarstvenim vlastima na dopunu, naznačit će mjere i radnje koje će redarstvene vlasti u tom cilju poduzeti i u kojem roku. Neizvršenje zatražene mjere i prekoračenje toga roka redarstvene vlasti će posebno obrazložiti.
