@@ -1,0 +1,4 @@
+## Izložbeno pravo prvenstva
+# Članak 13.
+(1) Ako je podnositelj prijave žiga izlagao proizvode ili usluge obilježene određenim znakom na službenoj ili službeno priznatoj međunarodnoj izložbi u Republici Hrvatskoj ili u nekoj od država članica Pariške unije, može zahtijevati da mu se kao datum prve prijave prizna datum prvoga dana izlaganja proizvoda ili pružanja usluga, pod uvjetom da prijavu u Republici Hrvatskoj podnese u roku od šest mjeseci od toga datuma.
+(2) Podnositelj prijave koji se poziva na izložbeno pravo prvenstva dužan je uz prijavu koju podnosi Zavodu podnijeti potvrdu izdanu od strane nadležnoga tijela države članice Pariške unije iz koje su vidljivi podaci o vrsti izložbe, mjestu njezina održavanja, datumu otvaranja i zatvaranja i prvom danu izlaganja proizvoda ili usluga navedenih u prijavi.

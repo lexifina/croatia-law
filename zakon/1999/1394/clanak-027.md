@@ -1,0 +1,4 @@
+## Ograničenje prava
+# Članak 27.
+(1) Žig ne daje nositelju pravo zabraniti trećim osobama uporabu u gospodarskom prometu njihova imena, prezimena, znaka ili trgovačkoga imena, adrese prebivališta, podatka koji se odnosi na vrstu, kakvoću, količinu, namjenu, vrijednost, zemljopisno podrijetlo, datum proizvodnje proizvoda ili pružanja usluga ili bilo kojega drugoga obilježja proizvoda, bez obzira na činjenicu što su ti podaci istovjetni sa žigom ili slični žigu, ili čine dijelove žiga, ali pod uvjetom da se oni koriste u skladu s ustaljenom trgovačkom praksom i poštenom tržišnom utakmicom.
+(2) Žig ne daje nositelju pravo zabraniti trećim osobama uporabu u gospodarskom prometu znaka koji je istovjetan sa žigom ili sličan žigu ako je to potrebno radi naznake ili obilježavanja namjene proizvoda, posebice njegovih pribora ili rezervnih dijelova ili vrste usluga koje se pružaju u skladu s ustaljenom trgovačkom praksom i poštenom tržišnom utakmicom.
