@@ -1,0 +1,3 @@
+# Članak 13.
+Posrednici koji se bave poslovima posredovanja pri zapošljavanju, u bilo kojem obliku, dužni su u roku od 30 dana od dana stupanja na snagu ovog Pravilnika podnijeti Ministarstvu rada i socijalne skrbi zahtjev za izdavanje suglasnosti za obavljanje poslova posredovanja pri zapošljavanju.
+Posrednici iz stavka 1. ovoga članka koji u roku od 30 dana ne podnesu zahtjev za izdavanje suglasnosti ili im zahtjev za izdavanje suglasnosti bude odbijen, ne mogu više obavljati poslove posredovanja pri zapošljavanju. Na zahtjev Ministarstva rada i socijalne skrbi briše se djelatnost posredovanja pri zapošljavanju iz registra, kod kojega su takvi posrednici registrirani.
