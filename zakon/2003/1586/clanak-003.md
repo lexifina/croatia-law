@@ -1,0 +1,2 @@
+# Članak 3.
+U smislu ovoga Zakona obitelj čine: muž i žena u bračnoj ili izvanbračnoj zajednici, srodnici po krvi u ravnoj lozi bez ograničenja, srodnici po krvi u pobočnoj lozi zaključno s četvrtim stupnjem, srodnici po tazbini zaključno s drugim stupnjem, osobe koje su živjele zajedno u obiteljskoj ili izvanbračnoj zajednici i njihova djeca, te osobe koje imaju zajedničku djecu, posvojitelj i posvojenik, skrbnik i štićenik.
