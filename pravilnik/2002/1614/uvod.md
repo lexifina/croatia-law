@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 4. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 32/02.) ministar rada i socijalne skrbi, uz prethodno mišljenje ministra zdravstva, donosi
