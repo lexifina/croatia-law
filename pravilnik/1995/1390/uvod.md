@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", broj 74/94, 86/94 i 7/95) članka 12. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika ("Narodne novine", broj 75/95) i članka 17. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93) ministar uprave donosi
