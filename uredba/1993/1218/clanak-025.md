@@ -1,0 +1,3 @@
+# Članak 25.
+Izuzetno od odredbi članka 19. ove Uredbe, u 1993. godini, pristojbe plaćene u gotovom novcu za spise i radnje, osim pred republičkim organima, diplomatskim, konzularnim i drugim predstavništvima Republike Hrvatske u inozemstvu, prihod su proračuna dosadašnje općine na području koje je sjedište organa za čiji je rad plaćena pristojba.
+Izuzetno od odredbe članka 19. ove Uredbe, u 1993. godini, prihod od pristojbi koji je ostvaren prodajom upravnih biljega, pripada dosadašnjoj općini na području koje izvršena prodaja upravnih biljega i Proračunu Republike Hrvatske u jednakim dijelovima, bez obzira kod kojeg s organa upotrijebljeni biljezi.

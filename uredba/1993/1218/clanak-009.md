@@ -1,0 +1,28 @@
+# Članak 9.
+Pristojbe ne plaćaju se za sljedeće spise i radnje:
+1. Prijedloge, prijave i druge podneske i druge predstavke u općem interesu,
+2. Molbe za pomilovanja i rješenja o tim molbama,
+3. Spise i radnje u postupku pribavljanja dokaza o slabom imovnom stanju radi oslobađanja od plaćanja pristojbe,
+4. Spise i radnje u postupku za povrat više plaćenih obveza,
+5. Spise i radnje u postupku za ispravljanje grešaka u rješenjima, ispravama i službenim evidencijama,
+6. Spise i radnje u postupku sastavljanja i ispravljanja biračkih spiskova,
+7. Spise i radnje za upis u knjigu državljana i matične knjige,
+8. Spise i radnje u postupku usvojenja i postavljanja staratelja,
+9. Sve prijave i prilozi za razrez poreza, pristojba,ovjeru poslovnih knjiga i računa i sličnih obveza te poreznih oslobođenja i olakšica,
+10. Spise i radnje u postupku denacionalizacije imovine i komasacije,
+11. Sve spise i radnje za ostvarivanje prava iz mirovinskog, invalidskog i zdravstvenog osiguranja te socijalne skrbi,
+12. Spise i radnje u svezi sa školovanjem učenika i studenata, osim taksa za svjedodžbu po završenom školovanju ili diplomu,
+13. Spise i radnje u svezi sa zasnivanjem radnog odnosa i ostvarivanjem prava u svezi s radnim odnosom,
+14. Spise i radnje u svezi s pomorskim i brodarskim knjižicama i sve upise u njih,
+15. Spise i radnje u svezi s primanjem poklon-paketa i darova od dobrotvornih organizacija iz inozemstva,
+16. Spise i radnje u svezi s reguliranjem prava i dužnosti iz oblasti obrane,
+17. Spise i radnje u postupku izdavanja osobne iskaznice hrvatskih državljana i osobne karte za stranca koja se izdaje strancu s trajnim nastanjenjem,
+18. Spise i radnje u svezi sa zaštitom spomenika kulture,
+19. Podnesci upućeni organima za predstavke i pritužbe i državnom odvjetništvu.
+20. Spise i radnje u postupku za pogreb umrlih osoba,
+21. Spise i radnje u svezi s popravkom i održavanjem stambenih zgrada i stanova,
+22. Spise i radnje u neposrednoj svezi s radom novinara, fotoreportera i snimatelja,
+23. Spise i radnje koji se vode po službenoj dužnosti,
+24. Spise i radnje u postupku za ostvarivanje prava na doplatak za djecu,
+25. Prijave i odjave prebivališta osoba, boravišta i adrese stanovanja osoba,
+26. Spise i radnje u postupku prodaje stanova na kojima postoji stanarsko pravo.
