@@ -1,0 +1,4 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti i način osposobljavanja kandidata za vozače iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nezgodi, nastavni plan i program tog nastavnog predmeta, prostorni uvjeti, nastavna sredstva, pomagala i oprema koja omogućuje izvođenje tog nastavnog predmeta, razlozi, uvjeti i postupak utvrđivanja privremene ili trajne zabrane izvođenja tog nastavnog predmeta, evidencija i dokumentacija koju vode organizacije koje osposobljavaju kandidate za vozače iz tog nastavnog predmeta, te novčane kazne za prekršaje utvrđene ovim Pravilnikom.
+I. UVJETI I NAČIN OSPOSOBLJAVANJA KANDIDATA ZA VOZAČE IZ NASTAVNOG PREDMETA PRUŽANJE PRVE POMOĆI OSOBAMA OZLIJEĐENIM U PROMETNOJ NEZGODI
+1. Uvjeti za osposobljavanje kandidata za vozače iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nezgodi
