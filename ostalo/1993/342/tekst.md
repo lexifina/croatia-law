@@ -1,0 +1,1643 @@
+REPUBLIČKI FONDOVI MIROVINSKOG I INVALIDSKOG OSIGURANJA
+
+RADNIKA, INDIVIDUALNIH POLJOPRIVREDNIKA I SAMOSTALNIH PRIVREDNIKA HRVATSKE
+
+Na temelju članka 213. stavka 6. Zakona o mirovinskom i invalidskom
+
+osiguranju ("Narodne novine", br. 26/83, 5/86, 42/87, 34/89,
+
+57/89, 40/90 i 9/91) i članka 94. stavka 5. Zakona o mirovinskom i invalidskom
+
+osiguranju individualnih poljoprivrednika ("Narodne novine",
+
+br. 26/83, 48/83, 57/83, 47/8B i 40/90), po prethodno pribavljenom mišljenju
+
+Ministarstva financija Republike Hrvatske, K1. 140-01/93-01/04 od 25. veljače
+
+1993., Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja
+
+radnika Hrvatske, Upravni odbor Republičkog fonda mirovinskog i invalidskog
+
+osiguranja individualnih poljoprivrednika Hrvatske i Upravni odbor Republičkog
+
+fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske,
+
+na zajedničkoj sjednici održanoj 26. veljače 1993. dollijeli su
+
+TABLICE
+
+aktuarske matematike
+
+I.
+
+Tablice aktuarske matematike donose se radi: programiranja (srednjoročnog
+
+i dugoročnog), utvrđivanja i određivanja postotka doprinosa, obračuna jednokratne
+
+naknade štete, dokupa staža osiguranja i drugih potreba u mirovinskom i
+
+invalidskom osiguranju u Republici Hrvatskoj.
+
+II.
+
+Tablice aktuarske matematike izrađene su prema tablicama financijske
+
+matematike i tablicama mortaliteta ženskag i muškog stanovništva Republike
+
+Hrvatske za razdoblje 1980. -1982. godine.
+
+III.
+
+Diskontirani kamatni postotak za izračunavanje komutativnih (pomoćnih)
+
+brojeva u Tablicama aktuarske matematike određen je od 1/8% i 5%. Glavni
+
+kriterij za određivanje tih postotaka jest mogućnost ostvarivanja realne
+
+kamate na oročena financijska sredstva mirovinskoga i invalidskog osiguranja.
+
+Mogućnost ostvarivanja realne kamate od 5% na oročena financijska sredstva
+
+odnosi se na dobrovoljno i dodatno mirovinsko i invalidsko osignranje,
+
+a mogućnost ostvarivanja realne kamate od 1/8 % na obvezatno mirovinsko
+
+i invalidsko osiguranje.
+
+IV.
+
+Brojevi označeni u Tablicama aktuarske matematike znakovima x, y, lx,
+
+ly dx, dy, ex i ey," preuzeti su iz Tablica mortaliteta muškog i ženskog
+
+stanovništva Republike Hrvatske za razdoblje 1980.-1982. godine, a označavaju:
+
+x dob muške osobe,
+
+y_____ dob ženske osobe,
+
+lx broj živih muških osoba starih x godina,
+
+ly broj živih ženskih osoba starih y godina,
+
+dx broj smrtnih slučajeva muških osoba,
+
+dy broj smrtnih slučajeva ženskih osoba,
+
+ex____ srednje trajanje života muških osoba,
+
+ey srednje trajanje života ženskih osoba.
+
+V
+
+Komutativni brojevi ozrlačeni su u Tablicama aktuaske matematike znakovima
+
+px, py, Dx, Dy, Nx, Ny , Nx(12) I Ny(12) I zamjenjuju složene izraze aktuarske
+
+matematike, a označavaju:
+
+px__ . vjerojatno trajanje života muških osoba,
+
+py__. vjerojatno trajanje života ženskih osoba,
+
+Dx i Dy. . . . . diskontirane brojeve živih osoba,
+
+Nx i Ny. . . . sume diskontiranih brojeva živih osoba.
+
+Nx(12) i Ny(12). . sume diskontiranih brojeva živih osoba s korekturom
+
+za mjesečno plaćanje,
+
+Svote naknada koje se isplaćuju mjesečno unaprijed
+
+označavaju: ax(12) i ay(12)
+
+Svote naknada koje se isplačuju mjesećno unatrag oz-
+
+načavaju: (x(12) i (y(12).
+
+VI.
+
+a) Ulazni podaci za izračunavanje komutativnih broje-
+
+va,koji zamjenjuju veoma složene izraze aktuarske mate-
+
+matike, jesu:
+
+REPUBLIKA HRVATSKA ŽENE (y)
+
+y ly dy ey px
+
+0 100000 1717 74,15 78,02
+
+1 98283 106 74,44 77,24
+
+2 98177 58 73,52 76,25
+
+3 98119 56 72,56 75,26
+
+4 98063 50 71,60 74,27
+
+5 98013 45 70,64 73,27
+
+6 97968 37 69,69 72,28
+
+7 97931 35 68,70 71,28
+
+8 97896 34 67,72 70,29
+
+9 97862 36 66,74 69,24
+
+10 97825 34 65,77 68,30
+
+11 97791 35 64,79 67,30
+
+12 97757 31 63,81 66,31
+
+13 97726 32 62,83 65,31
+
+14 97694 38 61,85 64,31
+
+15 97656 40 60,88 63,32
+
+16 97616 43 59,90 62,32
+
+17 97574 48 58,93 61,33
+
+18 97526 49 57,96 60,33
+
+19 97477 48 56,99 59,34
+
+20 97428 51 56,01 58,35
+
+21 97377 51 55,04 57,35
+
+22 97326 52 54,07 56,36
+
+23 97274 52 52,10 55,37
+
+24 97222 49 52,13 54,37
+
+25 97173 52 51,16 53,38
+
+26 97121 52 50,18 52,39
+
+27 97069 56 49,21 51,39
+
+28 97013 56 48,24 50,40
+
+29 96957 59 47,26 49,41
+
+30 96897 66 46,29 48,41
+
+31 96831 67 45,32 47,42
+
+32 96764 79 44,36 46,43
+
+33 96685 90 43,39 45,44
+
+34 96595 98 42,43 44,45
+
+35 96497 105 41,47 43,46
+
+36 96392 98 40,52 42,48
+
+37 96294 104 39,56 41,49
+
+38 96191 130 38,60 40,50
+
+39 96060 141 37,56 39,52
+
+40 95919 163 36,71 38,54
+
+41 95756 173 35,77 37,56
+
+42 95582 207 34,83 36,58
+
+43 95375 209 33,91 35,61
+
+44 95167 221 32,98 34,63
+
+45 94946 250 32,06 33,66
+
+46 94696 264 31,14 32,69
+
+47 94432 297 30,23 31,72
+
+48 94135 329 29,32 30,76
+
+49 93805 375 28,42 29,80
+
+50 93430 396 27,53 28,85
+
+51 93034 437 26,65 27,90
+
+52 92597 470 25,77 26,95
+
+53 92127 514 24,90 26,01
+
+54 91614 563 24,04 25,08
+
+55 91051 599 23,18 24,15
+
+56 90452 659 22,33 23,23
+
+57 89793 709 21,49 22,31
+
+58 89084 780 20,66 21,40
+
+59 88305 843 19,84 20,50
+
+60 87462 906 19,02 19,60
+
+61 86556 1014 18,22 18,72
+
+62 85542 1078 17,43 17,85
+
+63 84464 1131 16,64 16,98
+
+64 83333 1235 15,86 16,12
+
+65 82097 1316 15,09 15,28
+
+66 80781 1455 14,33 14,44
+
+67 79326 1653 13,59 13,63
+
+68 77673 1840 12,86 12,83
+
+69 75833 1983 12,16 12,06
+
+70 73850 2146 11,48 11,31
+
+71 71704 2389 10,81 10,57
+
+72 69315 2704 10,16 9,87
+
+73 66612 2950 9,55 9,20
+
+74 63661 3058 8,97 8,57
+
+75 60603 3289 8,40 7,95
+
+76 57314 3461 7,85 7,37
+
+77 53854 3760 7 ,35 6,81
+
+78 50094 3977 6,84 6,30
+
+79 46116 3950 6,39 5,82
+
+80 42166 4000 5,94 5,36
+
+81 38166 4049 5,51 5,91
+
+82 34118 4017 5,51 4,51
+
+83 30101 3933 5,72 4,12
+
+84 26168 3795 4,35 3,76
+
+85 22373 3601 4,00 3,43
+
+86 18772 3353 3,67 3,11
+
+87 15418 3057 3,36 2,82
+
+88 12362 2720 3,07 2,56
+
+89 9641 2355 2,80 2,31
+
+90 7287 1975 2,54 2,06
+
+91 5312 1598 2,30 1,85
+
+92 3714 1240 2,08 1,67
+
+93 2474 917 1,87 1,50
+
+94 1557 640 1,67 1,33
+
+95 917 419 1,49 1,16
+
+96 498 252 1,32 0,99
+
+97 246 138 1,15 0,89
+
+98 108 67 1,98 0,81
+
+99 40 28 0,80 0,71
+
+100 12 12 0,50 0,50
+
+REPUBLIKA HRVATSKA MUŠKARCI
+
+(x) lx dx ex px
+
+0 100000 2185 66,64 70,94
+
+1 97815 111 67,11 70,33
+
+2 97704 81 66,19 69,35
+
+3 97623 74 65,24 68,37
+
+4 97549 46 64,29 67,38
+
+5 97503 50 63,32 66,39
+
+6 97453 60 62,36 65,40
+
+7 97393 51 61,39 64,41
+
+8 97342 42 60,43 63,42
+
+9 97300 46 59,45 62,42
+
+10 97254 48 58,48 61,43
+
+11 97206 37 57,51 60,44
+
+12 97169 36 56,53 59,45
+
+13 97133 50 55,55 58,45
+
+14 97083 52 54,58 57,46
+
+15 97031 72 53,61 56,47
+
+16 96959 81 52,65 55,48
+
+17 96878 103 51,69 54,50
+
+18 96775 123 50,75 53,52
+
+19 96652 129 49,81 52,54
+
+20 96523 131 48,88 51,56
+
+21 96391 140 97,94 50,58
+
+22 96251 150 47,01 49,61
+
+23 96101 153 46,08 48,64
+
+24 95948 163 45,16 47,66
+
+25 95785 163 44,23 46,69
+
+26 95623 177 43,31 45,72
+
+27 95446 170 42,39 44,75
+
+28 95276 174 41,46 43,78
+
+29 95102 164 40,54 42,81
+
+30 94938 179 39,60 41,84
+
+31 94759 212 38,68 40,87
+
+32 94547 235 37,76 39,91
+
+33 94311 233 36,86 38,95
+
+34 94078 258 35,95 37,99
+
+35 93821 270 35,04 37,04
+
+36 93550 285 34,14 36,08
+
+37 93265 300 33,25 35,13
+
+38 92965 332 32,35 34,18
+
+39 92634 349 31,47 33,23
+
+40 92284 396 30,58 32,29
+
+41 91889 426 29,71 31,36
+
+42 91463 476 28,85 30,43
+
+43 90988 544 28,00 29,51
+
+44 90442 590 27,16 28,60
+
+45 89852 624 26,34 27,69
+
+46 89228 683 25,52 26,80
+
+47 88545 750 24,71 25,91
+
+48 87795 818 23,92 25,04
+
+49 86977 870 23,14 24,17
+
+50 86107 943 22,37 23,31
+
+51 85164 999 21,61 22,46
+
+52 84165 1106 20,86 21,62
+
+53 83058 1175 20,13 20,80
+
+54 81884 1186 19,41 19,99
+
+55 80698 1225 18,69 19,18
+
+56 79473 1339 17,97 18,37
+
+57 78133 1382 17,27 17,58
+
+58 76751 1498 16,57 16,80
+
+59 7 5253 1570 15,89 16,04
+
+60 73682 1704 15,22 15,28
+
+61 71978 1813 14,57 14,54
+
+62 70185 1975 13,93 13,82
+
+63 68190 1990 13,32 13,13
+
+64 66201 2059 12,71 12,44
+
+65 6 414 2125 12,10 11,76
+
+66 62017 2231 11,50 11,09
+
+67 59786 2310 10,91 10,43
+
+68 57476 2392 10,33 9,79
+
+69 5 5084 2588 9,75 9,17
+
+70 52496 2654 9,21 8,59
+
+71 49842 2821 8,67 8,01
+
+72 47021 3016 8,16 7,47
+
+73 44005 3085 7,69 6,96
+
+74 40921 3172 7,23 6,50
+
+75 37749 3243 6,80 6,05
+
+76 34506 3214 6,39 5,65
+
+77 31291 3214 5,99 5,26
+
+78 28077 3125 5,62 4,89
+
+79 24953 3061 5,26 4,54
+
+80 21891 2872 4,93 4,22
+
+81 19019 2722 4,60 3,90
+
+82 16297 2544 4,28 3,61
+
+83 13752 2342 3,98 3,32
+
+84 11410 2120 3,70 3,05
+
+85 9291 1883 3,42 2,81
+
+86 7408 1637 3,17 2,58
+
+87 5771 1391 2,92 2,37
+
+88 4379 1152 2,69 2,16
+
+89 3227 926 2,48 1,96
+
+90 2302 720 2,27 1,80
+
+91 1581 540 2,08 1,65
+
+92 1042 388 1,90 1,50
+
+93 654 266 1,73 1,35
+
+94 388 172 1,57 1,21
+
+95 216 104 1,42 1,07
+
+96 112 59 1,27 0,95
+
+97 53 30 1,12 0,90
+
+98 22 14 1,00 0,79
+
+99 8 5 0,88 0,80
+
+100 3 3 0,50 0,50
+
+b) Komutativni (engl. Commutation Simbols = simboli koji zamjenjuju) brojevi Dy, Ny Ny(12) I Dx', Nx', Nx(12)' POSTOTAK od 1/8 ili 0,125, te faktor korekture za mjesečno plaćanje od 0,45853894 (i = 0,00125) prema kojim su izračunati komutativni brojevi,
+
+REPUBLIKA HRVATSKA % = 1/8 ili 0,125 ŽENE (y)
+
+y Dy Ny Ny(12)
+
+0 100000,00 7115991,30 7070137,41
+
+1 98160,30 7015991,30 6970980,98
+
+2 97932,02 6917831,00 6872925,36
+
+3 97751,97 6819898,98 6775075,90
+
+4 97574,21 6722147,01 6677405,44
+
+5 97402,71 8824572,80 6579909,86
+
+6 97236,44 6527170,09 6482583,40
+
+7 97078,37 6429933,65 6385419,44
+
+8 96922,52 6332855,28 6288412,53
+
+9 96767,90 6235932,76 6191560,91
+
+10 96610,55 6139164,86 6094865,16
+
+11 96456,40 6042554,31 5998325,29
+
+12 96302,49 5946097,91 5901939,47
+
+13 96151,76 5849795,42 5805706,09
+
+14 96000,28 5753843,66 5709823,79
+
+15 95843,13 5657643,38 5613695,57
+
+16 95684,27 5581800,25 5517925,28
+
+17 95523,70 5466115,98 5422314,64
+
+18 95357,51 5370592,28 5326867,15
+
+19 95190,61 5275234,77 5231586,17
+
+20 95023,98 5180044,16 5136471,96
+
+21 94855,67 5085020,18 5041525,16
+
+22 94687,63 5990164,51 4946746,54
+
+23 94518,89 4895476,88 4852136,29
+
+24 94350,42 4800957,99 4757694,65
+
+25 94185,14 4706607,57 4663420,02
+
+26 94017,22 4612422,43 4569311,87
+
+27 93849,57 4518405,21 4475371,53
+
+28 93678,33 4424555,64 4381600,48
+
+29 93507,37 4330877,31 4288000,54
+
+30 93332,83 4237369,94 4194573,20
+
+31 93152,82 4144037,11 4101322,91
+
+32 92972,15 4050884,29 4008252,94
+
+33 92780,27 3957912,14 3915368,77
+
+34 92578,18 3865131,87 3822681,17
+
+35 92368,80 3772553,69 3730199,00
+
+36 92153,10 3680184,89 3637929,11
+
+37 91944,48 3588031,79 3545871,67
+
+38 91731,47 3496087,31 3454024,86
+
+39 91492,17 3404355,84 3362403,12
+
+40 91243,82 3312863,67 3271024,83
+
+41 90975,05 3221619,85 3179904,25
+
+42 90696,37 3130644,80 3089056,88
+
+43 90388,96 3039948,43 2998502,49
+
+44 90077,25 2949561,47 2908257,54
+
+45 89755,87 2859484,22 2818327,66
+
+46 89407,78 2769728,35 2728731,40
+
+47 89047,21 2680320,57 2839488,96
+
+48 88658,33 2591273,36 2550620,98
+
+49 88235,24 2502617,03 2462157,74
+
+50 87772,79 2414381,79 2374134,55
+
+51 87291,65 2326609,00 2288582,38
+
+52 86773,16 2239317,35 2199528,48
+
+53 86224,94 2152544,19 2113008,70
+
+54 85637,75 2066319,25 2027051,01
+
+55 85005,22 1980681,50 1941703,30
+
+56 84340,57 1895676,28 1857002,84
+
+57 83621,57 1811335,71 1772991,96
+
+58 82857,73 1727714,14 1689720,64
+
+59 82030,64 1844858,41 1607242,17
+
+60 81148,10 1582825,77 1525617,12
+
+61 80285,27 1481679,67 1444902,43
+
+62 79166,71 1401474,40 1365173,38
+
+63 78071,46 1322307,69 1286508,89
+
+64 76929,90 1244236,23 1208960,88
+
+65 75894,25 1167306,33 1132597,57
+
+66 74387,90 1091812,08 1057502,33
+
+67 72956,86 1017224,18 983770,62
+
+68 71347,39 944267,32 911551,76
+
+69 69570,28 872919,93 841019,25
+
+70 67666,46 8113349,65 772321,94
+
+71 65618,13 735883,19 705594,72
+
+72 83352,70 670085,06 641015,38
+
+73 80806,20 606712,36 578830,35
+
+74 58039,85 545906,16 519292,63
+
+75 55182,89 487868,31 462562,81
+
+76 52122,89 432683,42 408783,05
+
+77 48915,13 380560,53 358131,04
+
+78 45443,15 331645,40 310807,95
+
+79 41782,25 288202,25 287043,46
+
+80 38155,76 244420,00 226924,10
+
+81 34493,07 206264,24 190447,82
+
+82 30796,13 171771,17 157649,95
+
+83 27136,32 140975,04 128531,98
+
+84 23561,24 113838,72 103034,97
+
+85 20119,13 90277,48 81052,08
+
+86 16859,82 70158,35 62427,47
+
+87 13830,19 53298,53 46956,85
+
+88 11075,06 39468,34 34389,99
+
+89 8626,55 28393,28 24437,67
+
+90 6512,10 19766,73 16780,68
+
+91 4741,20 13254,63 11080,61
+
+92 3310,77 8513,43 6995,31
+
+93 2202,64 5202,66 4192,66
+
+94 1384,49 3000,02 2365,18
+
+95 814,38 1615,53 1242,11
+
+96 441,72 801,15 598,60
+
+97 217,93 359,43 259,50
+
+98 95,56 141,50 97,68
+
+99 3,35 45,94 29,73
+
+100 10,59 10,59 5,73
+
+REPUBLIKA HRVATSKA %=1/8 ili 0,125 MUŠKARCI (x)
+
+x Dx Nx Nx(12)
+
+0 100000,00 6424361,39 6378507,50
+
+1 97692,88 6324361,39 6279565,40
+
+2 97460,20 6226668,51 6181979,21
+
+3 97257,83 6129208,31 6084611,81
+
+4 97062,78 6031950,48 5887443,42
+
+5 96895,88 5934887,70 5890457,17
+
+6 96725,29 5837991,82 5793639,51
+
+7 98545,06 5741266,53 5695996,86
+
+8 96374,03 5844721,47 5600530,22
+
+9 98212,19 5548347,44 5504230,40
+
+10 96046,64 5452135,25 5408094,13
+
+11 95879,39 5356088,61 5312124,18
+
+12 95723,24 5260209,22 5216316,39
+
+13 95568,31 5164485,98 5120864,19
+
+14 95399,87 5068917,67 5025173,11
+
+15 95229,73 4973517,80 4929851,26
+
+16 95040,27 4878288,07 4834708,41
+
+17 94842,32 4783247,80 4739758,90
+
+18 94623,21 4888405,48 4645017,05
+
+19 94384,96 4593782,27 4550503,09
+
+20 94141,31 4499397,31 4456229,85
+
+21 93895,20 4405256,00 4362201,39
+
+22 93641,77 4311380,80 4288422,40
+
+23 93379,11 42177I9,03 4174901,07
+
+24 93114,05 4124339,92 4081643,50
+
+25 92839,82 4031225,87 3988655,20
+
+26 92587,09 3938386,05 3895940,43
+
+27 92280,40 3845818,96 3803504,80
+
+28 92001,03 3753538,56 3711352,51
+
+29 91718,37 3661537,53 3619481,09
+
+30 91445,89 3569819,16 3527887,66
+
+31 91159,53 3478373,27 3436573,08
+
+32 90842,03 3387213,74 3345559,13
+
+33 90502,15 3296371,71 3254872,95
+
+34 90165,85 3205869,56 3164525,01
+
+35 89807,28 3115703,71 3074523,58
+
+36 89436,08 3025896,43 2984886,50
+
+37 89052,30 2936460,35 2895626,40
+
+38 88655,03 2847408,05 2806756,27
+
+39 88229,09 2758753,02 2718296,55
+
+40 87786,00 2670523,93 2630270,63
+
+41 87301,12 2582737,93 2542706,97
+
+42 86787,91 2495436,81 2455641,17
+
+43 86227,50 2408648,90 2369110,23
+
+44 85604,95 2322421,40 2283168,20
+
+45 84940,33 2236816,45 2197868,00
+
+46 84245,13 2151876,12 2113246,45
+
+47 83495,90 2067630,99 2029344,87
+
+48 82685,32 1984135,09 1946220,65
+
+49 81812,66 1901449,77 1863935,48
+
+50 80893,20 1819637,11 1782544,43
+
+51 79907,41 1738743,91 1702103,25
+
+52 78871,48 1658836,50 1622670,86
+
+53 77736,94 1579965,02 1544319,61
+
+54 76542,47 1502228,08 1467130,38
+
+55 75339,66 1425685,61 1391139,44
+
+56 74103,37 1350345,95 1316366,67
+
+57 72762,96 1276242,58 1242877,93
+
+58 71386,71 1203479,62 1170746,03
+
+59 69906,02 1132092,91 1100038,28
+
+60 68361,20 1062186,89 1030840,62
+
+61 66696,88 993825,69 863252,57
+
+62 64935,73 927128,81 897353,25
+
+63 63029,14 862193,08 833291,76
+
+64 61114,28 799163,94 771140,66
+
+65 59139,56 738049,66 710931,87
+
+66 57108,91 678910,10 652723,44
+
+67 54985,74 621801,19 596588,09
+
+68 52795,21 566815,45 542606,79
+
+69 50534,85 514020,24 490848,04
+
+70 48100,45 463485,39 441429,46
+
+71 45611,66 415384,94 394470,22
+
+72 42976,37 369773,28 350066,94
+
+73 40169,59 326796,91 308377,59
+
+74 37307,75 286627,32 269520,26
+
+75 34372,87 249319,57 233558,27
+
+76 31380,68 214946,70 200557,44
+
+77 28421,35 183566,02 170533,72
+
+78 25470,26 155144,67 143465,56
+
+79 22608,04 129674,41 119307,74
+
+80 19809,03 107066,37 97983,16
+
+81 17188,69 87257,34 79375,66
+
+82 14710,26 70068,65 63323,42
+
+83 12397,55 55258,39 49673,63
+
+84 10273,38 42960,84 38250,10
+
+85 8355,02 32687,46 28856,36
+
+86 6653,40 24332,44 21281,60
+
+87 5176,68 17679,04 15305,33
+
+88 3923,13 12502,36 10703,45
+
+89 2887,45 8579,23 7255,22
+
+90 2057,21 5691,78 4748,47
+
+91 1411,11 3634,57 2987,52
+
+92 928,87 2223,46 1797,54
+
+93 582,27 1294,59 1027,60
+
+94 345,01 712,32 554,12
+
+95 191,83 367,31 279,35
+
+96 99,34 175,48 129,93
+
+97 46,95 76,14 54,61
+
+98 19,47 29,19 20,26
+
+99 7,07 9,72 6,48
+
+100 2,65 2,65 1,43
+
+c) Komutativni brojevi Dy, Ny, Ny(12) i Dx, Nx, Nx(12), POSTO-
+
+TAK od 5,te faktor korekture za mjesečno plaćanje od
+
+0,46640191(i=0,50) prema kojim su izračunati komutativni
+
+brojevi, jesu :
+
+REPUBLIKA HRVATSKA 5% ŽENE (y)
+
+y Dy Ny Ny(12)
+
+0 100000,00 1992622,16 1945981,97
+
+1 93602,86 1892622,16 1848965,61
+
+2 89049,43 1799019,30 1757486,48
+
+3 84758,88 1709969,87 1670438,17
+
+4 80676,67 1625210,99 1587583,24
+
+5 76795,75 1544534,32 1508716,64
+
+6 73105,23 1467738,57 1433642,15
+
+7 69597,73 1394633,34 1362172,83
+
+8 66259,87 1325035,61 129413 1,87
+
+9 63082,72 1258775,74 1229353,84
+
+10 60056,06 1195693,02 1167682,76
+
+11 57176,36 1135636,96 1108969,80
+
+12 54434,76 1078460,60 1053072,12
+
+13 51826,18 1024025,84 999854,01
+
+14 49342,11 972199,66 949186,41
+
+15 46974,21 922857,55 900948,69
+
+16 44719,01 875883,34 855026,31
+
+17 42571,21 831164,33 811309,04
+
+18 40524,07 788593,12 769692,62
+
+19 38574,96 748069,05 730077,61
+
+20 36719,59 709494,09 682368,00
+
+21 34952,73 672774,50 656472,48
+
+22 33270,88 637821,77 622304,17
+
+23 31669,62 604550,89 589780,12
+
+24 30145,42 572881,27 558821,39
+
+25 28695,46 542735,85 529352,23
+
+26 27314,38 514040,39 501300,91
+
+27 25999,77 486726,01 474599,67
+
+28 24747,40 460726,24 449184,01
+
+29 23555,35 435978,84 424992,58
+
+30 22419,78 412423,49 401966,86
+
+31 21337,63 390003,71 380051,80
+
+32 20307,49 368666,08 359194,63
+
+33 19324,68 348358,59 339345,52
+
+34 18387,32 329033,91 320458,03
+
+35 17493,97 310646,59 302487,37
+
+36 16642,79 293152,62 285390,39
+
+37 15834,16 276509,83 2691 24,75
+
+38 15064,03 260675,67 253649,76
+
+39 14327,15 245611,64 238928,43
+
+40 13624,88 231284,49 224929,82
+
+41 12954,02 217659,61 211617,83
+
+42 12314,75 204705,58 198961,97
+
+43 11702,93 192390,84 186932,57
+
+44 11121,34 180687,91 175500,90
+
+45 10567,16 169566,57 164638,03
+
+46 10037,46 158999,41 154317,92
+
+47 9532,84 148961,95 144515,82
+
+48 9050,34 139429,11 135208,01
+
+49 8589,15 130378,77 126372,77
+
+50 8147,44 121789,62 117989,64
+
+51 7726,58 113642,18 110038,49
+
+52 7324,08 105915,60 102499,64
+
+53 6939,91 98591,52 95354,73
+
+54 6572,64 91651,61 88586,12
+
+55 6221,19 85078,97 82177,40
+
+56 5885,96 78857,78 76112,56
+
+57 5564,84 72971,82 70378,37
+
+58 5258,00 67406,98 64954,64
+
+59 4963,83 62148,98 59833,84
+
+60 4682,32 57185,15 55001,31
+
+61 4413,16 52502,83 50444,52
+
+62 4153,77 48089,67 46152,34
+
+63 3906,12 43935,80 42114,08
+
+64 3670,30 40029,78 38317,95
+
+65 3443,68 36359,48 34753,34
+
+66 3227,12 32915,80 31410,67
+
+67 3018,09 29688,68 28281,04
+
+68 2814,48 26670,59 25357,91
+
+69 2616,96 23856,11 22635,55
+
+70 2427,17 21239,15 20107,11
+
+71 2244,4 18811,98 17785,18
+
+72 2066,32 16567,57 15603,83
+
+73 1891,18 14501,25 13619,20
+
+74 1721,33 12610,07 11817,24
+
+75 1560,62 10888,74 10160,86
+
+76 1405,64 9328,12 8672,53
+
+77 1257,89 7922,48 7335,80
+
+78 1114,35 6664,59 6144,86
+
+79 977,01 5550,24 5094,56
+
+80 850,78 4573,23 4176,42
+
+81 733,40 3722,45 3380,39
+
+82 624,40 2989,05 2897,83
+
+83 524,65 2364,65 2119,95
+
+84 434,38 1840,00 1637,40
+
+85 353,70 1405,62 1240,65
+
+86 282,64 1051,92 920,10
+
+87 221,08 769,28 666,17
+
+88 168,82 548,20 469,46
+
+89 125,39 379,38 320,90
+
+90 90,26 253,99 211,89
+
+91 62,67 163,73 134,50
+
+92 41,73 101,06 81,60
+
+93 26,47 59,33 46,98
+
+94 15,87 32,86 25,46
+
+95 8,90 16,99 12,84
+
+96 4,60 8,09 5,94
+
+97 2,17 3,49 2,48
+
+98 0,91 1,32 0,80
+
+99 0,32 0,41 0,26
+
+100 0,09 0,09 0,05
+
+REPUBLIKA HRVATSKA 5% MUŠKARCI (x)
+
+x Dx Nx Nx(12)
+
+0 100000,00 1948533,49 1901893,30
+
+1 93157,14 1848533,49 1805084,82
+
+2 88620,41 1755378,35 1714043,62
+
+3 84330,42 1666755,94 1627424,07
+
+4 80253,80 1582425,52 1544994,99
+
+5 76396,15 1502171,72 1466540,41
+
+6 72720,93 1425775,57 1391880,21
+
+7 69215,39 1353054,64 1320772,45
+
+8 65884,90 1283839,25 1253110,41
+
+9 62720,45 1217954,35 1188701,41
+
+10 59705,52 1155233,90 1127387,13
+
+11 56834,34 1095528,38 1069020,74
+
+12 54107,34 1038694,04 1013458,27
+
+13 51511,70 984588,70 960581,54
+
+14 49033,51 933075,00 910205,68
+
+15 46673,57 884041,49 862272,85
+
+16 44418,03 837387,92 818851,27
+
+17 42267,55 792949,89 773236,22
+
+18 40212,01 750682,34 731927,38
+
+19 38248,38 710470,33 692631,17
+
+20 36378,50 872221,85 655254,85
+
+21 34598,81 635843,35 619706,40
+
+22 32903,39 601244,54 585898,34
+
+23 31287,73 568341,15 553748,49
+
+24 29750,40 537053,42 523177,78
+
+25 28285,58 507303,02 494110,57
+
+26 26893,08 479017,44 466474,46
+
+27 25565,05 452124,36 440200,77
+
+28 24304,30 426559,31 415223,74
+
+29 23104,68 402255,01 391478,94
+
+30 21966,51 379150,33 368905,11
+
+31 20881,04 357182,82 347444,86
+
+32 19842,22 336302,78 327048,33
+
+33 18850,18 316460,56 307668,80
+
+34 17908,20 297610,38 287257,96
+
+35 17008,84 279702,18 271769,22
+
+36 15152,10 262693,34 255159,97
+
+37 15336,09 246541,24 239388,46
+
+38 14558,82 231205,15 224414,89
+
+39 13816,17 216646,33 210202,44
+
+40 13108,54 202830,16 19B716,31
+
+41 12430,89 189721,62 183923,83
+
+42 11784,06 177290,73 171794,62
+
+43 11164,38 165506,67 160299,58
+
+44 10569,17 154342,29 149412,81
+
+45 10000,21 143773,12 139109,00
+
+46 9457,87 133772,91 129361,74
+
+47 8938,55 124315,04 120146,08
+
+48 8440,80 115376,49 111439,68
+
+49 7963,95 106935,69 103221,29
+
+50 7508,85 98971,74 95469,60
+
+51 7072,97 91462,89 88164,04
+
+52 8657,14 84389,92 81285,02
+
+53 6256,75 77732,78 74814,62
+
+54 5874,58 71476,03 68736,11
+
+55 5513,80 65601,45 63029,80
+
+56 5171,53 60087,65 57675,64
+
+57 4842,22 54916,12 52657,70
+
+58 4530,07 50073,90 47961,07
+
+59 4230,14 45543,83 43570,88
+
+60 3944,60 41313,69 39473,82
+
+61 3669,89 37369,09 35657,45
+
+62 3407,09 33699,20 32110,13
+
+63 3153,51 40292,11 28821,31
+
+64 2915,74 27138,60 25778,69
+
+65 2690,53 24222,86 22967,99
+
+66 2477,52 21532,33 20376,81
+
+67 2274,66 19054,81 17993,90
+
+68 2082,64 16780,15 15808,80
+
+69 19110,82 14697,51 13810,92
+
+70 1725,34 12796,59 11991,89
+
+71 1560,11 11071,25 10343,61
+
+72 1401,72 9511,14 8857,38
+
+73 1249,35 8109,42 7526,72
+
+74 1106,47 6860,07 6344,01
+
+75 972,09 5753,60 5300,22
+
+76 846,27 4781,51 4386,81
+
+77 730,88 3935,24 3594,36
+
+78 624,58 3204,36 2913,05
+
+79 528,65 2579,78 2333,22
+
+80 441,68 2051,13 1848,12
+
+81 356,47 1609,44 1438,88
+
+82 298,25 1243,97 1104,87
+
+83 239,69 945,72 833,93
+
+84 189,40 706,03 617,69
+
+85 146,88 516,63 448,12
+
+86 111,54 369,75 317,73
+
+87 82,75 258,21 219,62
+
+88 59,80 175,46 147,57
+
+89 41,97 115,66 96,09
+
+90 28,51 73,69 60,39
+
+91 18,65 45,18 36,48
+
+92 11,71 26,53 21,07
+
+93 7,00 14,82 11,56
+
+94 3,95 7,82 5,98
+
+95 2,10 3,87 2,89
+
+96 1,04 1,77 1,28
+
+97 0,47 0,73 0,51
+
+98 0,18 0,26 0,18
+
+99 0,06 0,08 0,05
+
+100 0,02 0,02 0,01
+
+VII.
+
+Tablice aktuarske matematike namijenjene su, prvenstveno, potrebama
+
+mirovinskoga i invalidskog osiguranja (obvezatnog, dodatnog ili dobrovoljnog),
+
+i to za programiranje (godišnje i višegodišnje), obračun jednokratne naknade
+
+štete, dokup staža osiguranja i za druge potrebe socifalnih osiguranja
+
+u Republici Hrvatskoj.
+
+Sastavni dio tablica aktuarske matematike su sljedeće upute (primjeri)
+
+za njihovu primjenu:
+
+1. Programiranje
+
+Osnovna i bitna pitanja programiranja razvoja mirovinskoga i invalidskog
+
+osiguranja jesu što egzaktnije i objektivnije predviđanje očekivanog kretanja
+
+broja osoba obuhvaćenih mirovinskim i invalidskim osiguranjem prema dobi,
+
+spolu i drugim demografskim strukturama, kao i predviđanje sredstava potrebnih
+
+za ostvarivanje odrđedenih prava iz mirovinskoga i invalidskog osiguranja.
+
+a) Pri programiranju očekivanog kretanja broja osoba osiguranih mirovinskim
+
+i invalidskim osiguranjem potrebno je odgovoriti, izmedu ostalog i na pitanje:
+
+koliko će dugo živjeti osiguranik određene dobi.
+
+Odgovor na to pitanje dobije se tako što se za dužinu života uzima ono
+
+trajanje koje je najvjerojatnije.
+
+Primjeri: kolika je vjerojatnost da će x (muškarac) ili y (žena) doživjeti
+
+x + n - tu godina ili y + n - tu godinu:
+
+- formula :. . . . npx = lx +n / lx ili npy = ly+n/ly
+
+b) Odgovor na pitanje odgovaraju li današnja davanja osoba osiguranih
+
+mirovinskim i invalidskim osiguranjem budućim primanjima, odnosno kakvi
+
+se i koliki doprinosi moraju uplačivati za vrijeme trajanja mirovinskoga
+
+i invalidskog osiguranja, kako bi se time osigurala sredstva potrebna za
+
+buduće mirovine i drugo, dobije se na temelju slijedeče formule:
+
+-b/1. . . ako se mirovinska primanja isplaćuju mjesečnounaprijed,
+
+nax(12)= Nx+n(12)/ ( Nx(12)-Nx+n(12) ) ili nay(12)= Ny+n(12)/ ( Ny(12)
+
+- Ny+n(12) )
+
+-b/2. _. ako se mirovinska primanja isplaćuju mjesečnounatrag,
+
+n(x(12)=(Nx+n(12) - Dx)/(Nx(12) - Nx+n(12) ) ili
+
+n(y(12)=(Ny+n(12)-D)/(Ny(12)-Ny+n(12))
+
+2. Naknada štete zbog nesposobnosti za rad i smrti osobe osigurane mirovinskim
+
+i invalidskim osiguranjem
+
+Za štetu koja se sastoji od trajnih novčanih davanja osiguraniku ili
+
+osiguranoj osobi, služba mirovinskoga i invalidskoga osiguranja može tražiti
+
+naknadu za tu štetu u jednoj ukupnoj svoti - jednokratna naknada štete.
+
+Ta se svota obračunava prema svoti invalidske ili obiteljske mirovine,
+
+zatim prema svoti novčane naknade za tjelesno oštećenje, kao i prema svoti
+
+za pomoć i njegu od druge osobe, s odgovarajućim doprinosima koji se plaćaju
+
+na ta novčana davanja i s odgovarajućim troškovima za provedbu mirovinskoga
+
+i invalidskoga osiguranja.
+
+Primjer:
+
+2/1. . . . služba mirovinskoga i invalidskog osiguranja odredila je
+
+osiguraniku, zbog nesreće na poslu, doživotnu, invalidsku mirovinu. S obzirom
+
+na to da krivicu za tu nesreću snosi poslodavac te osobe, mirovinsko i
+
+invalidsko osiguranje tražit će jednokratnu naknadu štete za doživotnu
+
+invalidsku mirovinu, obračunatu prema sljedećoj formuli:
+
+- ako se invalidska mirovina isplaćuje mjesečno unaprijed
+
+ax(12) = Nx(12) / Dx ili ay(12) = Ny(12) / Dy
+
+- ako se invaliđska mtrovina isplaćuje mjesećno unatrag
+
+(x(12)= (Nx(12)-Dx)/Dx
+
+(y(12)=(Ny(12)-Dy)/Dy
+
+2/2. . . . osoba osigurana mirovinskim i invalidskim osiguranjem ostvarila
+
+je pravo na novčanu naknadu zbog tjelesnog oštećenja. U provedenom je postupku
+
+utvrdeno da je odgovoran za to tjelesno oštećenje poslodavac tog osiguranika.
+
+Služba mirovinskoga i invalidskog osiguranja tražit će jednokratnu naknadu
+
+štete za tu novčanu naknada, obračunatu prems sljedećoj formuli:
+
+ako se novčana naknada isplaćuje mjesečno unaprijed
+
+ax(12) = Nx(12) / Dx ili ay(12) = Ny(12) / Dy
+
+- ako se novčana naknada isplaćuje mjesečno
+
+unatrag
+
+(x(12)=(Nx(12) -Dx)/Dx
+
+(y(12)=(Ny(12) -Dy)/Dy
+
+2/3. . . . osoba osigurana mirovinskim i invalidskim osiguranjem smrtno
+
+je stradala na poslu. Služba mirovinskoga i invalidskog osiguranja odredila
+
+je obitelji osiguranika (majci, supruzi i djeci) obiteljsku mirovinu_ Za
+
+tu je smrt kriv vozač pntničkog automobila. Služba mirovinskog i invalidskog
+
+osiguranja tražit će jednokratnu naknadu štete za obiteljsku mirovinu obračunatu
+
+prema sljedečoj formuli:
+
+- ako se obiteljska mirovina isplaćuje mjesečno u n a p r i j e d, ali
+
+privremeno,
+
+a) - za majku - ay(12)/n'=( Ny(12)-Ny+n(12))/Dy
+
+b) - za suprugu - ay(12)/n'=( Ny(12)-Ny+n(12))/Dy
+
+c) - za djecu mušku - ax(12)/n'=( Nx(12)-Nx+n(12))/Dx
+
+d) - za djecu žensku - ay(12)/n'=( Ny(12)-Ny+n(12))/Dy
+
+- ako se obiteljska mirovina isplačuje mjesećno u n a p r i j e d ,
+
+ali doživotno,
+
+a) - za majku - ay(12)= Ny(12)/Dy
+
+b) - za suprugu - ay(12)= Ny(12)/Dy
+
+c) - za djecu mušku - ax(12)= Nx(12)/Dx
+
+d) - za djecu žensku - ay(12)= Ny(12)/Dy
+
+- ako se obiteljska mirovina isplaćuje mjesečno u nat r a g, ali,privremeno,
+
+a) za majku - (y(12)/n'= ((Ny(12)-Dy) - Ny+n(12) ) / Dy
+
+b) - za suprugu - (y(12)/n'= ((Ny(12)-Dy) - Ny+n(12) ) / Dy
+
+c) - za djecu mušku - (x(12)/n'= ((Nx(12)-Dx) - Nx+n(12) ) / Dx
+
+d) - za djecu žensku - (y(12)/n'= ((Ny(12)-Dy) - Ny+n(12) ) / Dy
+
+- ako se obiteljska mirovina isplaćuje mjesečno u n a t r a g, ali doživotno,
+
+a) za majku - (y(12) = ( Ny(12) - Dy ) / Dy
+
+b) za suprugu - (y(12) = ( Ny(12) - Dy ) / Dy
+
+c) za djecu mušku - (x(12) = ( Nx(12) - Dx ) / Dx
+
+d) - za djecu žensku - (y(12) = ( Ny(12) - Dy ) / Dy
+
+Na obračunate svote jednokratne naknade štete za invalidsku ili obiteljsku
+
+mirovinu, kao i za novčanu naknadu za tjelesno oštećenje, treba pribrojiti
+
+(dadati) sve doprinose koji se plaćaju na ta davanja, kao i odgovarajuće
+
+troškove
+
+- izdatke - za provedbu mirovinskog i invalidskog osiguranja.
+
+Nadalje, u rekapitulaciji jednokratne naknade štete treba posebno ukazati
+
+svotu za svaku od navedenih isplata, odnosno strukturu jednokratne naknade
+
+štete prema vrsti izdataka.
+
+3. Dokup staža osiguranja
+
+Za pnmjenu Tablica aktuarske matematike pri izračunavanju doprinosa
+
+za dokup potrebnih godina staža osiguranja radi stjecanja određenih uvjeta
+
+za ostvarivanje,prava iz mirovinskog i invalidskog osiguranja polazi se
+
+od temeljnog načela tog osiguranja, a to je: da sadasnja davenja odgovaraju
+
+budućim primanjima,odnosno da buduća primanja koja se ostvare dokupom potrebnih
+
+godina staža osiguranja budu pokrivena odgovarajućim doprinosima. Zbog
+
+toga bi izračunavanje i plaćanje doprinosa za dokupljene godine staža osiguranja
+
+trebalo provoditi nakon nastanka osiguranog slučaja, odnosno s danom stjecanja
+
+i određivanja svote mirovine, i to prema sljedećoj formuli:
+
+D = GM /MS npx ·* N ili D = GM/MS npy * N
+
+D = doprinos za dokup staža osiguranja
+
+GM = godišnja mirovina
+
+MS = mirovinski staž
+
+npx = vjerojatnost da će osoba od x godina (muškarac) živjeti još n
+
+godina
+
+npy = vjerojatnost da će osoba od y godina (žena) živjeti još n godina
+
+N = broj godina staža osiguranja koje se dokupljuju
+
+Pri utvrđivanju određenih elemenata za izračunavanje
+
+doprinosa za dokup staža osiguranja moraju se uzeti u obzir sve zakonske
+
+i ugovorne obveze koje se plaćaju na mirovinska i invalidska primanja-isplate.
+
+Ovaj način izračunavanja doprinosa za dokupljene godine staža osiguranja,
+
+može se uspješno primijeniti i na druge slične potrebe u mirovinskom i
+
+invalidskom osiguranju.
+
+VIII.
+
+Stupanjem na snagu ovih Tablica aktuarske matematike prestaju vrijediti
+
+Tablice aktuarske matematike ("Narodne novine", broj 24/1989.).
+
+IX.
+
+Tablice aktuarske matematike stupaju na snagu sljedećeg dana nakon objave
+
+u "Narodnim novinama".
+
+Klasa:140-13/93-01/850
+
+Urbroj : 341-93-01 /93
+
+Zagreb, 26. veljače 1993.
+
+Predsjedatelj Zajedničke sjednice upravnih odbora
+
+dr. Stjepan Blažinkov, v. r.
