@@ -1,0 +1,2 @@
+# Članak 2.
+Područja iz članka 1. ove uredbe jesu područja sljedećih općina: Drniš, Dubrovnik, Duga Resa, Gospić, Karlovac, Kostajnica, Metković, Nova Gradiška, Novska; Osijek, Otočac, Pakrac, Petrinja, Podravska Slatina, Šibenik, Sinj, Sisak, Slavonska Orahovica, Slavonski Brod, Slunj, Valpovo, Vinkovci, Vukovar, Zadar, Beli Manastir, Benkovac, Daruvar, Dvor, Glina, Gračac, Grubišno Polje, Knin, Obrovac, Titova Korenica, Vojnić, Vrginmost i Županja.
