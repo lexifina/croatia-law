@@ -1,0 +1,4 @@
+# Članak 5.
+Ugovorne stranke su suglasne da će nadležna središnjica za usklađivanje spašavanja u Republici Hrvatskoj koordinirati operacije traganja i spašavanja i pomoć brodovima u opasnosti unutar područja odgovornosti Republike Hrvatske, te da će usklađivanje operacija traganja i spašavanja i pomoć brodovima u opasnosti unutar područja odgovornosti Talijanske Republike provoditi nadležni centar u Talijanskoj Republici.
+Ugovorne stranke ovlašćuju nadležne središnjice za usklađivanje spašavanja za izravne kontakte s nadležnim osobama u drugoj središnjici za usklađivanje spašavanja u svezi s traganjem i spašavanjem na moru.
+Ugovorne stranke su s ovim suglasne i ovlašćuju nadležne središnjice za usklađivanje spašavanja za izravno ugovaranje u svrhu osiguranja koordinacije onih operacija traganja i spašavanja koje se vrše u predmetnim teritorijalnim vodama, ukoliko to zahtijevaju okolnosti, kako bi se osigurala uspješna pomoć osobama u opasnosti.
