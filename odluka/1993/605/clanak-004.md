@@ -1,0 +1,2 @@
+# Članak 4.
+Bilanca prihoda i rashoda i Posebni dio Proračuna Općine Donji Miholjac za 1993. godinu sastavni su dio ove Odluke i objavljuju se u Službenom Glasniku Općine Donji Miholjac. Zajedno s Bilancom prihoda i rashoda i Posebnim dijelom Proračuna Općine Donji Miholjac objavljuje se i Opči dio Proračuna iz članka 1. ove Odluke. Danom početka primjenjivanja ove Odluke primjenjuju se i Bilanca prihoda i rashoda i Posebni dio Proračuna Općine Donji Miholjac.
