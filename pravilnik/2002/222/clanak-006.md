@@ -1,0 +1,4 @@
+# Članak 6.
+Jedan radnik iz članak 5. ovoga pravilnika mora imati VSS tehničkog smjera ili prirodoslovno-matematičkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja ili proizvodnje areometara i alkoholometara, ili VŠS tehničkog smjera i najmanje 2 godine radnog iskustva na poslovima ispitivanja ili proizvodnje areometara i alkoholometara, ili SSS tehničkog smjera i najmanje 3 godine radnog iskustva na poslovima ispitivanja, ili proizvodnje areometara i alkoholometara, ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja ili proizvodnje areometara i alkoholometara.
+Drugi radnik iz članka 5. ovog pravilnika mora biti najmanje KV tehničke struke i mora imati najmanje 2 godine radnog iskustva na poslovima ispitivanja ili proizvodnje areometara i alkoholometara.
+Radnik iz stavka 1. ovoga članka mora poznavati propise kojima su utvrđeni postupci i metode ispitivanja areometara i alkoholometara.
