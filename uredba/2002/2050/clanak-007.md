@@ -1,0 +1,3 @@
+# Članak 7.
+Upravno vijeće donosi statut, akt o unutarnjem ustrojstvu i načinu rada, akt o plaćama i naknadama zaposlenika, program rada i razvoja Zavoda, nadzire njihovo izvršavanje, odlučuje o financijskom i godišnjem obračunu, predlaže promjenu djelatnosti i statusne promjene Zavoda, daje Vladi i Ministarstvu zaštite okoliša i prostornog uređenja (u daljnjem tekstu: Ministarstvo) informacije, prijedloge i mišljenja o pojedinim pitanjima iz djelatnosti Zavoda, donosi odluke i obavlja druge poslove određene ovom Uredbom i statutom Zavoda.
+Upravno vijeće Zavoda donosi statut uz suglasnost Vlade.

@@ -1,0 +1,2 @@
+# Članak 9.
+Ravnatelj predstavlja i zastupa Zavod, organizira i vodi njegovo poslovanje, poduzima sve pravne radnje u ime i za račun Zavoda, zastupa Zavod u svim postupcima pred sudovima, upravnim i drugim državnim tijelima, te pravnim osobama s javnim ovlastima, izvršava odluku Upravnog vijeća, odgovara za zakonitost rada Zavoda, te obavlja i druge poslove koji su mu statutom ili drugim aktom Zavoda stavljeni u nadležnost.
