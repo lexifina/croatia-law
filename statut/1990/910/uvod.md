@@ -1,0 +1,1 @@
+Na temelju odredaba člana 139. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine", broj 8/89, 33/89, 57/89, 8/90 i 31 /90), Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, na konstituirajućoj sjednici održanoj dana 10. listopada 1990. godine donosi
