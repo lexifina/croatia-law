@@ -1,0 +1,1 @@
+II Rev-45/1992-2, Vrhovni sud Republike Hrvatske, 1.3.1995.
