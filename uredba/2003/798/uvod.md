@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 5. Zakona o prostornom uređenju (»Narodne novine«, br. 30/94, 68/98, 61/2000 i 32/2002), Vlada Republike Hrvatske je na sjednici održanoj 17. travnja 2003. godine donijela
