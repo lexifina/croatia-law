@@ -1,0 +1,3 @@
+# Članak 33.
+Fond je dužan osigurati racionalno i efikasno korištenje sredstava kojima raspolaže i u tu je svrhu dužan cijenama usluga i na drugi način poticati restrukturiranje postojećiti kapaciteta u djelatnošti socijalne zaštite, kao i objedinjavanje poslova nabave opreme, živežnih namirnica i potrošnog materijala i organizirati i obavljati druge poslove u vezi s unapređivanjem i proširenjem materijalne osnove rada djelatnosti socijalne.zaštite.
+Fond je dužan poduzimati mjere za zaštitu sredstava i imovine kojom raspolaže i za osiguranje prava (zabilježba potraživanja u zemljišnim knjigama, postavljanje zahtjeva za naknadu štete odnosno za povrat sredstava isplaćenih korisnicima socijalne zaštite i drugo).
