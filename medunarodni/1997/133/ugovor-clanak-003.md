@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Ugovorne stranke će na zasjedanju Mješovitog odbora za kombinirani promet utvrditi kontingente nagradnih dozvola za obje strane. Te dozvole se mogu dobiti za cestovna vozila registrirana u zemlji jedne ugovorne stranke koja su koristila Ro-La ili Ro-Ro prijevoz u ili iz jedne od zemalja ugovornih stranaka ili u tranzitu preko teritorije jedne ugovorne stranke.
+(2) Omjer odnosno veličina Ro-La i Ro-Ro prijevoza za koji se može izdati nagradna dozvola ugovorne stranke utvrđuju prema mogućnostima i zahtjevima.
+(3) Ugovorne stranke će recipročno u duhu odredaba ovog Ugovora, prethodni i naknadni prijevoz, koji je dio Ro-La i Ro-Ro prijevoza stvari, a obavlja se između najbližeg kombiterminala, Ro-Ro luke i Ro-Ro pristaništa i mjesta utovara ili istovara, oslobađati od plaćanja svih naknada na cestovna vozila. Za te prijevoze nije potrebno koristiti dozvolu za međunarodni prijevoz cestom.
+(4) Ugovorne stranke će, kod nadležnih tijela u svojoj zemlji, poduzeti mjere da vrijeme zadržavanja Ro-La vlaka na državnoj granici ne prelazi preporučeno vrijeme u AGTC sporazumu (Europski sporazum o glavnim međunarodnim linijama kombiniranog prijevoza i potrebnim uređajima).
+Prijelaz državne granice
