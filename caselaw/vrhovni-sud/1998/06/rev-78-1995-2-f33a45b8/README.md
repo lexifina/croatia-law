@@ -1,0 +1,11 @@
+# Rev-78/1995-2, Vrhovni sud Republike Hrvatske, 25.6.1998.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=f33a45b8-90d6-4352-a3c6-b191f234c193
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1998-06-25
+- Publication date on source: 2003-08-22
+- ECLI: ECLI:HR:VSRH:1998:763
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
