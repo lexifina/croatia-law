@@ -1,0 +1,2 @@
+# Članak 36.
+Odjel akvakulture obavlja upravne i druge stručne poslove koji se odnose na proizvodnju riblje mlađi, uzgoj riba i drugih akvatičkih organizama, prikuplja i analizira podatke o uzgoju, predlaže normativna rješenja za poticanje uzgoja, prometa i prerade uzgojene ribe i drugih akvatičnih organizama, vodi brigu o prilagodbi propisa i općih akata iz akvakulture; daje inicijativu za rješavanje pojedinih pitanja razvoja, obavlja i ostale poslove iz svoje nadležnosti.
