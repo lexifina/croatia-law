@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe slijedi postojeću granicu pomorskog dobra do točke A, tu se lomi i nastavlja zapadnom međom k.č. 5124/1 do točke B. U točki B granica se lomi i nastavlja sjeverno - istočnom međom k.č. 5124/1 do točke C, gdje i završava, što ujedno predstavlja nastavak postojeće granice, a sve kako je ucrtano i označeno u grafičkom prilogu na kopiji katastarskog plana k.o. Pula, broj lista plana 73, u mjerilu 1:1250.
