@@ -1,0 +1,7 @@
+## Usklađivanje statuta
+# Članak 37.
+(1) Udruge iz članka 36. ovoga Zakona, dosadašnja udruženja građana i udruženja stranaca dužna su uskladiti svoje statute s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona i u tome roku podnijeti prijavu tijelu nadležnom za registraciju radi upisa u registar udruga.
+(2) Društvene organizacije i udruženja građana čiji organizacijski oblici (podružnice, ogranci, klubovi) imaju svojstvo pravne osobe dužni su se u roku iz stavka 1. ovoga članka ustrojiti kao jedinstvena pravna osoba s ustrojstvenim oblicima koji nemaju svojstvo pravne osobe ili kao savez ili drugi oblik udruživanja udruga (članak 8.).
+(3) Ako udruge ne postupe u skladu s odredbom stavka 1. i 2. ovog članka tijelo državne uprave nadležno za registraciju donijet će rješenje o prestanku i brisanju udruge iz registra.
+(4) Strane udruge iz članka 9. stavka 2. ovoga Zakona, kao i strane udruge koje su do dana stupanja na snagu ovoga Zakona upisane u registar pri Ministarstvu gospodarstva, dužne su zatražiti upis u registar stranih udruga u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(5) Ako strane udruge ne postupe u skladu s odredbom stavka 4. ovoga članka, gube pravo na djelovanje na području Republike Hrvatske i brisat će se iz registra koji se vodio pri Ministarstvu gospodarstva te iz Registra međunarodnih organizacija Republike Hrvatske.

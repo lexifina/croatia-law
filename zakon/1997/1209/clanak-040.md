@@ -1,0 +1,4 @@
+## Propisi koji prestaju važiti
+# Članak 40.
+(1) Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o društvenim organizacijama i udruženjima građana ("Narodne novine", br. 7/82., 5/85., 47/89. i 2/90.) te točka 3. stavka 1. članka 1. Zakona o preuzimanju saveznih zakona iz oblasti unutarnjih poslova koji se u Republici Hrvatskoj primjenjuju kao republički propisi ("Narodne novine", broj 53/91.).
+(2) Do donošenja propisa iz članka 15. stavka 3. ovoga Zakona ostaju na snazi Pravilnik o obrascima i načinu vođenja registra društvenih organizacija ("Narodne novine", broj 34/82.), Pravilnik o registru udruženja građana ("Narodne novine", broj 27/82.) i Pravilnik o obrascima i načinu vođenja registra međunarodnih organizacija i organa međunarodnih organizacija ("Narodne novine", broj 49/83.).

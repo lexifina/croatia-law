@@ -1,0 +1,7 @@
+## Postupci koji nisu okončani
+# Članak 41.
+(1) Postupci pokrenuti na temelju Zakona o društvenim organizacijama i udruženjima građana ("Narodne novine", br. 7/82., 5/85., 47/89. i 2/90.) koji nisu okončani do stupanja na snagu ovoga Zakona, bit će okončani po odredbama ovoga Zakona.
+(2) Odredba članka 36. stavka 1. ovoga Zakona ne odnosi se na sindikate i udruge poslodavaca registrirane kao društvene organizacije do dana početka primjene Zakona o radu ako ovim Zakonom nije drukčije određeno.
+(3) Sindikati i udruge poslodavaca, registrirani kao društvene organizacije do početka primjene Zakona o radu, čiji su članovi zaposlenici, odnosno poslodavci i koji mogu sudjelovati u kolektivnom pregovaranju, dužni su, u roku od 30 dana od dana stupanja na snagu ovoga Zakona, zatražiti, u skladu s odredbama Zakona o radu, upis u registar udruga pri Ministarstvu rada i socijalne skrbi, odnosno nadležnom županijskom uredu za rad, zdravstvo i socijalnu skrb.
+(4) Sindikati i udruge poslodavaca registrirani kao društvene organizacije do početka primjene Zakona o radu, koji ne ispunjavaju uvjete iz stavka 3. ovoga članka, dužni su, u roku od 30 dana od dana stupanja na snagu ovoga Zakona, zatražiti, u skladu s odredbama ovoga Zakona, upis u registar udruga pri Ministarstvu uprave, odnosno nadležnom županijskom uredu za opću upravu.
+(5) Za sindikate i udruge poslodavaca, koji ne postupe sukladno odredbama stavka 3. ili 4. ovoga članka donijet će se po službenoj dužnosti rješenje kojim će utvrditi njihov prestanak rada.
