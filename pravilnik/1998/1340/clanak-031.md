@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Ohlađeno, smrznuto i duboko smrznuto meso u trupovima, polovicama i četvrtinama utovaruje se u prijevozno sredstvo obješeno na viseću cijevnu tračnicu (kolosijek) ili na drugu opremu (kuke i dr.), a smrznuto konfekcionirano meso iz članka 30., stavak 1. ovog Pravilnika utovaruje se tako da se slaže na palete ili na drugi odgovarajući način, s tim da se u prijevoznom sredstvu tijekom utovara i prijevoza osigura temperatura od najviše -120C, tj. najviše -180C ako se prevozi duboko smrznuto meso.
+(2) Smrznuto konfekcionirano meso i drugi smrznuti jestivi dijelovi, koji se prevoze, moraju biti pakirani u plastične folije i odgovarajuću kartonsku ili drugu ambalažu.

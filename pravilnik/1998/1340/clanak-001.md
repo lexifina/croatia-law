@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim pravilnikom propisuje se način utovara, pretovara i istovara pošiljaka životinja, proizvoda, sirovina i otpadaka životinjskog podrijetla, sjemena za umjetno osjemenjivanje i oplođenih jajnih stanica za oplodnju životinja u unutarnjem prometu, pri izvozu, uvozu i provozu, uvjeti kojima mora udovoljavati prijevozno sredstvo i veterinarsko-zdravstveni uvjeti kojima mora udovoljavati pošiljka.

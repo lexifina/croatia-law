@@ -1,0 +1,5 @@
+# Članak 26.
+(1) Lešine životinja uginulih za vrijeme prijevoza istovarit će se u stanici ili pristaništu iz članka 25. stavka 1. ovog Pravilnika i otpremiti na mjesto za neštetno uklanjanje lešina, na kojem će se, ako je potrebno, obaviti razudba i uzeti materijal za laboratorijske pretrage, radi utvrđivanja uzroka uginuća. Ako se sumnja na zaraznu bolest prijevozno sredstvo zadržat će se na stanici, prisitaništu ili mjestu na kojem je lešina istovarena.
+(2) Za vrijeme vožnje nije dopušteno izbacivati lešine uginulih životinja na usputnim stanicama i pristaništima.
+(3) Ako od trenutka uginuća životinje prijevoz morskim plovilom do pristaništa iz članka 25., stavka 1. ovog Pravilnika, traje dulje od 12 sati, lešina će se neštetno ukloniti bacanjem u more, zapakirana tako da sigurno potone, a o uginuću životinje sastavit će se zapisnik u kojem će se navesti: vrsta životinje, spol i druge oznake, te okolnosti u kojima je životinja uginula.
+(4) Zapisnik iz stavka 3. ovog članka predaje se nadležnom Veterinarskom uredu u pristaništu iz čl. 25., st. 1.
