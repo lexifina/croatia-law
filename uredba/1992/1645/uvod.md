@@ -1,0 +1,1 @@
+Na temelju članka 73c. stavka 1. Zakona o postupku za upis u sudski registar ("Službeni list", broj 18/83 i 17/90) koji se temeljem članka 1. Zakona o preuzimanju Zakona o postupku za upis u sudski registar ("Narodne novine", broj 53A/91) primjenjuje kao republički zakon, Vlada Republihe Hrvatske, na sjednici održanoj 2. listopada 1992. godine, donijela je
