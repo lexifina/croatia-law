@@ -1,0 +1,1 @@
+Na temelju člana 24, 65, 66. i 67. Statuta Osnovnog zadružnog saveza Zajednice općina Bjelovar, Skupština Osnovnog zadružnog saveza Zajednice općina Bjelovar na sjednici održanoj 25. travnja 1990. godine donosi
