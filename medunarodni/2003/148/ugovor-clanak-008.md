@@ -1,0 +1,5 @@
+# Članak 8.
+1. Dokumenti koji potvrđuju državnu pripadnost broda, kao i svi drugi brodski dokumenti izdani ili priznati od jedne ugovorne stranke, bit će priznati od druge ugovorne stranke. Što se tiče područja sigurnosti, ugovorne stranke će priznati važeće svjedodžbe svojih brodova koje su izdale svojim brodovima, u skladu s važećim međunarodnim konvencijama.
+2. Brodovi ugovornih stranaka koji imaju Svjedodžbu o baždarenju neće biti podložni ponovnom baždarenju u lukama druge ugovorne stranke, a veličine naznačene u Svjedodžbi bit će uzete kao osnova za obračun lučkih naknada bilo koje vrste, pod uvjetom da su gore navedeni dokumenti izdani u skladu sa međunarodnim standardima.
+3. Svjedodžba o baždarenju brodova ispod 24 metra izdana u skladu s nacionalnim propisima bit će uzajamno priznata.
+4. Osim u slučaju prisilne prodaje koja proizlazi iz odluke sudova, brod jedne ugovorne stranke ne može biti upisan u Upisnik brodova druge ugovorne stranke bez podnošenja svjedodžbe, izdane od nadležnih vlasti od kojih brod potječe, a koja potvrđuje da je brod brisan iz upisnika te ugovorne stranke.

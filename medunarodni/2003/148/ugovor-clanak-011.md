@@ -1,0 +1,2 @@
+# Članak 11.
+Nositeljima identifikacijskih isprava navedenih u članku 9. ovog Ugovora, dozvoljen je ulazak ili napuštanje teritorija druge ugovorne stranke kao putnika u bilo kojem prijevoznom sredstvu u svrhu dolaska na svoj brod ili prelaska na drugi brod, prolaska u tranzitu radi dolaska na brod u drugoj državi, radi repatrijacije, u hitnom slučaju, ili iz bilo kojeg razloga koji odobre vlasti te druge ugovorne stranke.

@@ -1,0 +1,2 @@
+# Članak 7.
+Ugovorne stranke će donijeti, u okvirima svojih zakonodavstava i lučkih propisa, kao i u okvirima svojih obveza prema međunarodnom pravu, sve potrebne mjere kako bi olakšale i ubrzale pomorski prijevoz, spriječile nepotrebna kašnjenja brodova i ubrzale i pojednostavile, koliko je to moguće, provođenje carinskih, sanitarnih, policijskih i lučkih formalnosti kao i ostalih formalnosti koje se odnose na luke.
