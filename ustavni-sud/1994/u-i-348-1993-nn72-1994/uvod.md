@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu predsjednik Jadranko Crnić, te suci Zdravko Bartovčak, dr Velimir Belajec, dr. Nikola Filipović, Ante Jelavić, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, u postupku ocjene suglasnosti zakona s Ustavom, na sjednici Suda održanoj 5. listopada 1994. godine, donio je ovu
