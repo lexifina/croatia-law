@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza II. kategorije Brod na Kupi
+# Članak 1.
+Stalni međunarodni cestovni granični prijelaz II. kategorije Brod na Kupi nalazi se u mjestu Brod na Kupi, Grad Delnice, na k.č. 89, 119/1 i 119/2 k.o. Brod na Kupi, a obuhvaća otvoreni prostor na državnoj cesti 203 koja presijeca državnu granicu s Republikom Slovenijom, od granične crte južno 48 m do područja obavljanja granične kontrole i 18 m od područja obavljanja granične kontrole u dubinu teritorija Republike Hrvatske, u ukupnoj dužini od 66 m, gdje se nalazi jedna ulazna i jedna izlazna prometna traka s nadstrešnicom, a ispod koje se nalaze jedna kontrolna kućica granične policije i jedna kontrolna kućica carine.
+Područje graničnog prijelaza obuhvaća i prostor hrvatskog dijela mosta preko rijeke Kupe do granične crte, ukupne dužine 32 m i širine 8,4 m te prostor s desne strane državne ceste 203 gledano u pravcu granične crte na kojem se nalazi zajednički objekt granične policije, carine i pratećih službi te pripadajuće prilazne ceste i parkiralište, ukupne površine 760 m2.
+Ukupna površina graničnog prijelaza je 1 400 m2.
