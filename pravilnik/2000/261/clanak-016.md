@@ -1,0 +1,3 @@
+# Članak 16.
+Termometar mora biti otporan na mehaničke udare koji se mogu pojaviti pri normalnoj uporabi.
+Ispitivanje otpornosti termometra na mehaničke udare provodi se tako da se termometar pusti da s visine od 1 m slobodno padne na površinu tvrdoga drva gustoće veće od 700 kg/m³ i prikladne veličine, položenog na ravnu i čvrstu podlogu. Pad se obavlja jednom za dužinu, jednom za širinu i jednom za visinu cijeloga termometra. Nakon toga ispituje se pogreška termometra na temperaturi mjerenja od (37±1)°C. Pogreška termometra pri tome ispitivanju ne smije biti veća od NDP propisane u članku 7. stavku 1. ovoga pravilnika.
