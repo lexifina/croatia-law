@@ -1,0 +1,1 @@
+Na temelju odredbi članka 26. stavak 2. Zakona o zaštiti okoliša (»Narodne novine«, br. 82/94 i 128/99) i članka 10. stavka 1. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (»Narodne novine«, br. 15/2000) ministar Ministarstva zaštite okoliša i prostornog uređenja donosi
