@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske, članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske i članka 23. Zakona o utvrđivanju katastarskog prihoda ("Narodne novine", br. 44/73. i 13/88.), Zastupnički dom Sabora Republike Hrvatske na sjednici 29. prosinca 1994., donio je
