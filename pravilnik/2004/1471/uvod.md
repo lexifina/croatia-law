@@ -1,0 +1,1 @@
+Na temelju članka 83. Zakona o žigu (»Narodne novine« broj 173/03), ministar nadležan za rad Državnoga zavoda za intelektualno vlasništvo (u daljnjem tekstu: Zavod), na prijedlog ravnatelja Zavoda donosi
