@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 21. stavka 2. Zakona o zaštiti prirode ("Narodne novine", br. 30/94 i 72/94), Vlada Republike Hrvatske je na sjednici održanoj 17. rujna 1998. godine donijela
