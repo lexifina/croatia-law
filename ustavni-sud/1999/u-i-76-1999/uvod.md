@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Mladen Žuvela, dopredsjednik Suda te suci Zdravko Bartovčak, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Milan Vuković, odlučujući o prijedlogu za ocjenu ustavnosti zakona, na sjednici održanoj 9. lipnja 1999., donio je
