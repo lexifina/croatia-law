@@ -1,0 +1,4 @@
+# Članak 5.
+Nazivne količine zapakiranih proizvoda (pakovina), nazivni obujmovi mjernih spremnika, dopuštena odstupanja punjenja pakovina, dopuštena odstupanja obujmova mjernih spremnika, označavanje količina, natpisi na pakovinama i postupci provjere pakovina koje se stavljaju na tržište propisani su Pravilnikom o mjeriteljskim zahtjevima za pakovine.
+U proizvodnji hrane za posebne prehrambene potrebe mogu se koristiti aditivi i sirovine kako je propisano Pravilnikom o prehrambenim aditivima i provedbenim propisima o kvaliteti pojedinih sastojaka kao i provedbenim propisima o zdravstvenoj ispravnosti hrane.
+Hrana za posebne prehrambene potrebe, izuzev dječje hrane za koju su ovim Pravilnikom propisani mikrobiološki standardi i dopuštena količina kontaminanata i rezidua, mora odgovarati uvjetima o zdravstvenoj ispravnosti hrane propisanim za sličnu hranu, odnosno hranu uobičajenog sastava.

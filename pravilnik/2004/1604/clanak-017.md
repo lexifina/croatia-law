@@ -1,0 +1,2 @@
+# Članak 17.
+Dječja hrana namijenjena prehrani dojenčadi i male djece koja je pripremljena od mlijeka ili je mlijeko osnovni sastojak ili je izrađena od žitarica i proizvoda od žitarica s dodatkom voća, povrća ili mesa, može se stavljati u promet samo ako ostaci pesticida računato za obrok u kojem se daju djeci ne premašuje 1/10 količine dopuštene propisima o zdravstvenoj ispravnosti za istovrsne ili srodne namirnice uobičajenog sastava, ali ne smije biti veća od 0,01 mg/kg proizvoda pripremljenog za konzumaciju prema uputi proizvođača.

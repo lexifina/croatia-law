@@ -1,0 +1,4 @@
+# Članak 18.
+Hrana koja služi za prehranu dojenčadi mlađe od 3 mjeseca ne smije sadržavati nitrata više od 50 mg (izraženo kao nitratni ion), a udio nitrita ne smije biti veći od 0,1 mg (izraženo kao nitritni ion) računato na jedan kilogram gotovog obroka pripremljenog za uporabu.
+Hrana koja služi za prehranu dojenčadi iznad 3 mjeseca, kao i za malu djecu do tri godine starosti, ne smije sadržavati triptične inhibitore (iz uljarica i leguminoza), udio nitrata ne smije biti veći od 100 mg (izraženo kao nitratni ion), a udio nitrita (izraženo kao nitritni ion), ne smije biti veći od 0,2 mg računato na kilogram gotovog obroka pripremljenog za uporabu.
+Hrana za djecu stariju od 3 mjeseca proizvedena od povrća smije sadržavati najviše 250 mg nitrata (izraženo kao nitratni ion), odnosno 2 mg nitrita (izraženo kao nitritni ion), računato na kilogram gotovog obroka pripremljenog za uporabu.

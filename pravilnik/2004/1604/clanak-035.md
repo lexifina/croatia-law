@@ -1,0 +1,9 @@
+# Članak 35.
+Udio proteina u ukupnoj energetskoj vrijednosti hrane za redukciju tjelesne mase pripremljenih za uporabu mora biti najmanje 25 % i najviše 50 %. Ukupna količina proteina ne smije biti veća od 125 g dnevno u obrocima koji zamjenjuju cjelodnevnu prehranu. Za poboljšanje kvalitete proteina mogu se dodavati esencijalne aminokiseline samo u količinama koje su neophodne za određene dijete.
+Prethodni stavak odnosi se na proteine čiji je kemijski indeks definiran u Prilogu V. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio. Kemijski indeks proteina predstavlja najniži odnos između količine svake pojedine esencijalne aminokiseline u proteinu i količine te aminokiseline u standardu proteina definiranom u Tablici 1. Ako je kemijski indeks niži od 100 % od standarda prikazanog u Tablici 1., minimalna količina proteina mora biti povećana u skladu sa indeksom. Kemijski indeks proteina mora biti najmanje 80% od standarda.
+Udio energije koja potječe od masti ne smije biti viši od 30 % od ukupne energetske vrijednosti hrane.
+Hrana za redukciju tjelesne mase koja zamjenjuje cjelodnevnu prehranu ne smije sadržavati linolne kiseline (u obliku glicerida) manje od 4,5 g.
+Hrana za redukciju tjelesne mase koja zamjenjuje jedan ili više obroka linolne kiseline ne smije sadržavati (u obliku glicerida) manje od 1 g.
+Sadržaj dijetalnih vlakana za proizvode pod a) ne smije biti manji od 10 g ni veći od 30 g po danu.
+Količina vitamina i minerala u hrani za redukciju tjelesne mase za kompletnu dnevnu prehranu mora iznositi najmanje 100 % dnevnog unosa vitamina i minerala definiranih u Tablici 2. iz Priloga V. koja je tiskana uz ovaj Pravilnik i njegov je sastavni dio.
+U hrani za redukciju tjelesne mase koja je zamjena za jedan ili više obroka količina vitamina i minerala mora iznositi najmanje 30 % dnevnog unosa za vitamine i minerale definirane u Tablici 2. po obroku, a količina kalija po obroku mora biti najmanje 500 mg.
