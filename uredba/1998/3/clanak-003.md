@@ -1,0 +1,3 @@
+# Članak 3.
+Uredom za suradnju s Organizacijom za europsku sigurnost i suradnju (OESS) rukovodi predstojnik Ureda kojeg imenuje i razrješava Vlada Republike Hrvatske. Predstojnik Ureda odgovoran je Vladi Republike Hrvatske za svoj rad i rad Ureda i ima prava i dužnosti dužnosnika tijela državne uprave u odnosu na Ured.
+Predstojnik Ureda ima zamjenika kojeg imenuje i razrješava Vlada Republike Hrvatske. Zamjenik predstojnika Ureda zamjenjuje predstojnika Ureda u slučaju njegovog izbivanja ili spriječenosti za rad te obavlja i druge poslove koje mu povjeri predstojnik Ureda. Zamjenik predstojnika Ureda za svoj rad odgovoran je predstojniku Ureda.
