@@ -1,0 +1,18 @@
+O b r a z l o ž e n j e
+Srpska narodna stranka podnijela je Ustavnom sudu Republike Hrvatske (u daljnjem tekstu: Sud) dana 7. lipnja 1993. godine prijedlog za pokretanje postupka za ocjenu ustavnosti i zakonitosti Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske (u daljnjem tekstu: Uredba).
+Kao osnov svog prijedloga Srpska narodna stranka navodi da prema članku 17. stavku 1. kao i članku 88. stavku 1. Ustava, Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) nije nadležna za donošenje navedene Uredbe.
+U prilog toga Srpska narodna stranka ističe da se, po njihovoj ocjeni, spornom Uredbom uređuju pojedina pitanja koja su suprotna sa Ustavom utvrđenim slobodama i pravima čovjeka i građanina.
+Dakle, da se sporna Uredba dotiče područja o kojima mogu odlučivati samo Sabor i predsjednik Republike Hrvatske, pa je Uredba donijeta od formalno nenadležnog tijela.
+Ustavni sud Republike Hrvatske utvrdio je da prijedlog nije osnovan.
+Uredba o raspolaganju nekretninama na teritoriju Republike Hrvatske donesena je na temelju članka 140. stavka 2. Ustava Republike Hrvatske te članka 9c. Ustavnog zakona za provedbu Ustava Republike Hrvatske ("Narodne novine", broj 56/1990, 8/1991 i 31/1991 na sjednici 17. srpnja 1991. godine, prije 8. listopada 1991. godine kada je Sabor Republike Hrvatske donio Odluku kojom Republika Hrvatska raskida državno-pravne sveze na temelju kojih je zajedno sa ostalim republikama i pokrajinama tvorila SFRJ ("Narodne novine", broj 53/1991), a poslije 25. lipnja 1991. godine kada je Sabor Republike Hrvatske donio Ustavnu odluku o suverenosti i samostalnosti Republike Hrvatske ("Narodne novine", broj 31/1991).
+Iz sadržaja Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske proizlazi da je ona privremenog karaktera i da će biti na snazi do okončanja postupka razdruživanja tadašnje SFRJ.
+Uredbom se zabranjuje raspolaganje i opterećenje (prodaja, zamjena, darovanje, prijenos prava korištenja i raspolaganja, davanje u zakup i privremenu upotrebu, osnivanje hipoteke i sl.) nekretninama na teritoriju Republike Hrvatske koje su u vlasništvu, posjedu, na korištenju ili upravljanju organa i institucija federacije republika i pokrajina Kosova i Vojvodine. Ta zabrana se odnosi i na poduzeća kao i druge pravne osobe sa sjedištem izvan Republike Hrvatske.
+Iz iznijetog proizlazi da prava i slobode građana ni u jednom obliku nisu dovedena u pitanje jer je upravo tim propisom zaštićena određena imovina na teritoriju Republike Hrvatske, u korist svih državljana, neovisno o njihovim različitostima (članak 14. Ustava) pa dakle i nacionalnim i vjerskim razlikama.
+Prema odredbi članka 140. stavak 2. Ustava Republike Hrvatske ako se aktom ili postupkom tijela federacije ili tijela druge republike ili pokrajine članice federacije naruši teritorijalna cjelovitost Republike Hrvatske ili ako bude dovedena u neravnopravni položaj u federaciji ili joj budu ugroženi interesi, republički organi će na temelju prava na samoodređenje Ustavom utvrđenog suvereniteta Republike Hrvatske donijeti potrebne odluke radi zaštite suvereniteta i interesa Republike Hrvatske.
+U tijeku spomenutog razdruživanja moglo je doći do takvih procesa na štetu Republike Hrvatske i upravo je članak 140. Ustava nalagao obvezu zaštite njezinog interesa pa je to pravovaljani temelj za donošenje osporene Uredbe.
+Stoga je Vlada bila nadležna za donošenje spomenute Uredbe, te su navodi predlagatelja koji tvrdi suprotno, potpuno neosnovani.
+S obzirom da članak 88. Ustava nije bio temelj donošenja osporene uredbe isti propis nije bio pravno relevantan u ovom slučaju.
+Iz navedenih razloga rješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-212/1993
+Zagreb, 7. srpnja 1993.
