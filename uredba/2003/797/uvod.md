@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. Zakona o priređivanju igara na sreću i nagradnih igara (»Narodne novine«, broj 83/2002), Vlada Republike Hrvatske je na sjednici održanoj 17. travnja 2003. godine donijela
