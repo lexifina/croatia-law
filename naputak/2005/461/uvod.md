@@ -1,0 +1,1 @@
+Na temelju članka 18. i članka 38. Zakona o sustavu državne uprave (pročišćeni tekst), (»Narodne novine« br. 190/03 i 199/03) i članka 112. Zakona o proračunu (»Narodne novine« br. 96/03) a sukladno članku 59. Uredbe o državnim potporama (»Narodne novine« br. 121/03), Ministar mora, turizma, prometa i razvitka donosi
