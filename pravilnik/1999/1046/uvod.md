@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 5. Zakona o stočarstvu (»Narodne novine« br. 70/97. i 36/98.), uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo i članka 24. stavak 4. Zakona o veterinarstvu (»Narodne novine« br. 70/97), ministar poljoprivrede i šumarstva donosi
