@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj: 117/93, 69/79, 33/00, 73/00, 127/00 i 59/01) i članka 20. i 52. Statuta Općine Dubrava (»Glasnik Zagrebačke županije« broj: 17/01), Općinsko vijeće Općine Dubrava na 9. sjednici održanoj 3. rujna 2002. godine, donijelo je
