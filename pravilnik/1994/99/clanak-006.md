@@ -1,0 +1,2 @@
+# Članak 6.
+Prodaja, zamjena i povlačenje iz upotrebe upravnih biljega povjerava se Zavodu za platni promet, o čemu on sklapa ugovor s Narodnom bankom Hrvatske u skladu s ugovorom iz članka 5. ovoga Pravilnika. Zavod za platni promet može prodavati upravne biljege pravnim i fizičkim osobama ovlaštenim za prodaju upravnih biljega te upravnim tijelima, kojima za obavljanje tih poslova pripada provizija u jedinstvenom iznosu od 8% nominalne vrijednosti kupljenih upravnih biljega.
