@@ -1,0 +1,4 @@
+# Članak 44.
+1. Ugovorne stranke će međusobno omogućiti nesmetanu opskrbu pograničnog stanovništva zdravstveno ispravnom vodom za piće, plinom i strujom te poštanskim i telekomunikacijskim uslugama u svim onim slučajevima, kada vodovodni, odnosno električni izvori ili plinovod odnosno poštanski i telekomunikacijski vodovi iz jedne ugovorne stranke napajaju, odnosno opskrbljuju stanovništvo u drugoj ugovornoj stranci.
+2. Isporuka električne energije, plina i vode te obavljanje poštanskih i telekomunikacijskih usluga u slučaju da se isporuka ili usluga nudi iz sekundarnih vodova i mreža na pograničnom području oslobađa se plaćanja svih uvoznih davanja i taksi i tretira se jednako kao isporuka domaćim korisnicima.
+3. Plaćanje isporučene električne energije, vode i plina te poštanskih i telekomunikacijskih usluga u skladu s ovim Sporazumom uređuje se ugovorom među odgovarajućim gospodarskim subjektima ugovornih stranaka.

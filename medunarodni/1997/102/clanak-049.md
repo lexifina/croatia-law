@@ -1,0 +1,2 @@
+# Članak 49.
+Broj ribarskih brodova i brodica utvrđuju ugovorne stranke po načelu uzajamnosti i to: pet ribarskih brodova ili brodica koje obavljaju ribolov pridnenom povlačnom mrežom kočom i dvadeset brodica koje obavljaju ribolov uz uporabu mreža stajačica za svaku ugovornu stranku. Taj broj brodova i brodica može dnevno obavljati ribolov na pograničnom području druge ugovorne stranke, s time da su upisani u registar ribarskih brodova i brodica u pristaništima na pograničnom području ugovornih stranaka.
