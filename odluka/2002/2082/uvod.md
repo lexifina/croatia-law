@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 3. Zakona o morskim lukama (»Narodne novine«, br. 108/95 i 97/2000) i točke II. stavka 3. Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Hramina (»Narodne novine«, broj 18/99), Vlada Republike Hrvatske je na sjednici održanoj 24. listopada 2002. godine, donijela
