@@ -1,0 +1,2 @@
+# Članak 5.
+Osnivanjem HIDRA-e prestaje s radom Institut informacijskih znanosti u Zagrebu, koji je danom stupanja na snagu Zakona o ustanovama postao jatrnom ustanovom. Djelatnici Instituta informacijskih znanosti u Zagrebu, zatečeni u radnom odnosu na dan stupanja na snagu ove Uredbe na poslovima iz članka 1. ove Uredbe nastavljaju s radom u HIDRA-i. Konačni raspored djelatnika iz prethodnog stavka izvršit će se Pravilnikom iz članka 4. ove Uredbe.
