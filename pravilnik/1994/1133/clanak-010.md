@@ -1,0 +1,2 @@
+# Članak 10.
+Predmetni nastavnici vode evidenciju o realizaciji nastavnog programa tečaja. Rukovoditelj tečaja vodi evidenciju i analizu izostanka, brine o ukupnoj realizaciji nastavnog programa, podnosi izvješća upravitelju Uprave za izvršenje kaznenih i prekršajnih sankcija pri Ministarstvu pravosuđa. Rukovoditelj tečaja imenuje se između rukovodnih djelatnika pravosudne policije, koji su najmanje u zvanju stariji nadzornik pravosudne policije ili djelatnika Uprave za izvršenje kaznenih i prekršajnih sankcija - Odjela za sigurnost.

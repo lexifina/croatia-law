@@ -1,0 +1,2 @@
+# Članak 8.
+Polaznik tečaja koji s nastave izostane opravdano 1/6 od ukupno predviđenog fonda nastavnih sati, ponovit će tečaj. Protiv polaznika tečaja koji neopravdano izostane s nastave pokrenut će se stegovni postupak, a svaki sat izostanka će se odbiti od osobnog dohotka. Protiv polaznika tečaja koji neopravdano izostane više od 40 sati s nastave ili samovoljno napusti tečaj primijenit će se odredbe članka 58. stavka 2. Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje ("Narodne novine" broj 21 i 39/74, 55/08, 19/90 i 66/93).
