@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu propisivanja, izdavanja i naplaćivanja lijekova (»Narodne novine« broj 135/02. i 158/03 - u daljnjem tekstu: Pravilnika) u članku 9. stavak 2 mijenja se i glasi:
+»Za lijekove koji su u Listi lijekova označeni slovima »RS«, kao i za druge lijekove koji se propisuju na prijedlog doktora specijalista, doktor koji je propisao lijek, obvezno na poleđini recepta upisuje: ime, prezime i šifru doktora specijalista koji je lijek preporučio, datum preporuke i broj nalaza doktora specijalista, te naziv i šifru ugovorne zdravstvene ustanove, odnosno ugovorne ordinacije privatne prakse.«.
