@@ -1,0 +1,3 @@
+# Članak 18.
+IZMJENE
+Ukoliko bilo koja od ugovornih stranaka smatra poželjnim bilo koju odredbu ovog Sporazuma promijeniti, ona može zatražiti dogovor između zrakoplovnih vlasti obje ugovorne stranke u pogledu predložene izmjene. Dogovori će započeti u roku od šezdeset (60) dana od dana zahtjeva, osim ako zrakoplovne vlasti ugovornih stranaka ne dogovore produljenje tog perioda. Svaka takva izmjena stupit će na snagu kada bude potvrđena razmjenom nota diplomatskim putem između ugovornih stranaka o završetku njihovih unutarnjih postupaka. Izmjene Dodatka mogu biti napravljene dogovorom između zrakoplovnih vlasti ugovornih stranaka.

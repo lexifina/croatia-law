@@ -1,0 +1,7 @@
+# Članak 3.
+OPERATIVNE OVLASTI
+1. Svaka ugovorna strana imat će pravo imenovati pismenim putem drugoj ugovornoj stranci zračnog prijevoznika ili zračne prijevoznike u svrhu obavljanja zračnog prometa na utvrđenim linijama.
+2. Po primitku takvog imenovanja, druga ugovorna stranka će, sukladno odredbama stavaka 3. i 4. ovog članka, bez odgađanja dodijeliti određenom zračnom prijevozniku odgovarajuće operativne ovlasti.
+3. Zrakoplovne vlasti jedne ugovorne stranke mogu do zračnog prijevoznika kojeg je imenovala i druga ugovorna stranka zahtijevati da ih uvjeri u to, da je kvalificiran za ispunjenje uvjeta propisanih zakonima i propisima koje te vlasti uobičajeno i razumno primjenjuju na letenje u međunarodnom zračnom prijevozu.
+4. Svaka ugovorna stranka ima pravo odbiti izdati ovlasti za letenje zračnom prijevozniku iz stavka 2. ovog članka ili mu utvrditi takve uvjete koje smatra nužnim, kada nije uvjerena da većinsko vlasništvo i stvarna kontrola tog zračnog prijevoznika pripadaju ugovornoj stranki koja je imenovala zračnog prijevoznika ili njenim državljanima.
+5. Kada je zračni prijevoznik tako imenovan i ovlašten, on može u bilo koje doba započeti sa zračnim prometom, uz uvjet da su redove letenja utvrđene između određenih zračnih prijevoznika odobrile zrakoplovne vlasti ugovornih stranaka i da su tarife utvrđene u skladu sa propisima članka 11. ovog Sporazuma na snazi u odnosu na taj promet.
