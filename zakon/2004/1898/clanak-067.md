@@ -1,0 +1,2 @@
+# Članak 67.
+Naslov ispred članka 189.: »POVREDA SLUŽBENE DUŽNOSTI OSOBE OVLAŠTENE ZA VOĐENJE POSTUPKA IZDAVANJA DOZVOLA« i članak 189. brišu se.

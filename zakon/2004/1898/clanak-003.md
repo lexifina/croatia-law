@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 5. riječi: »Ministarstvo zaštite okoliša i prostornog uređenja« zamjenjuju se riječima: »Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva«, a riječi: »Uprava za graditeljstvo« zamjenjuju se riječima: »Uprava za stanovanje, komunalno gospodarstvo i graditeljstvo«.
+Iza stavka 1. dodaju se stavci 2., 3. i 4. koji glase:
+»U svrhu razrade bitnih zahtjeva, odnosno propisivanja drugih uvjeta koje mora ispunjavati građevina, te tehničkih svojstava, dokazivanja uporabljivosti i prometa građevnih proizvoda, kao i uređivanja drugih tehničkih pitanja u vezi s projektiranjem, građenjem, uporabom i uklanjanjem građevine, a u cilju provedbe ovoga Zakona, osniva se Odbor za graditeljstvo (u daljnjem tekstu: Odbor).
+Odbor ministru nadležnom za poslove graditeljstva (u daljnjem tekstu: ministar) daje mišljenja, prijedloge i preporuke glede pitanja iz stavka 2. ovoga članka, te obavlja druge poslove po nalogu ministra.
+Članove i tajnika Odbora imenuje ministar. Radom Odbora predsjedava predstavnik Ministarstva, a za članove Odbora imenuju se predstavnici Ministarstva i osobe koje imaju radno i stručno iskustvo u području koje je u djelokrugu rada Odbora. Članovi i tajnik Odbora imaju pravo na naknadu za rad u Odboru koju odredi ministar. Odbor uz suglasnost ministra donosi poslovnik o svojemu radu.«.

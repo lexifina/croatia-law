@@ -1,0 +1,8 @@
+# Članak 26.
+Članak 90. mijenja se i glasi:
+»U postupku izdavanja građevinske dozvole utvrđuje se da je glavni projekt izrađen u skladu s lokacijskim uvjetima, da su pribavljene potvrde iz članka 82. stavak 2., odnosno stavka 3. ovoga Zakona, da su uz zahtjev za izdavanje građevinske dozvole priloženi dokumenti iz članka 88. stavka 2. ovoga Zakona, da je do građevne čestice osiguran pristup s javno-prometne površine, te da je izvršena uplata komunalnog doprinosa prema posebnom zakonu.
+Ako je na građevnoj čestici započeta izgradnja građevine ili je građevina izgrađena bez građevinske dozvole, u postupku izdavanja građevinske dozvole, osim činjenica iz stavka 1. ovoga članka utvrđuje se i usklađenost izvedenih radova, odnosno građevine s glavnim projektom.
+U slučaju iz stavka 2. ovoga članka investitor je dužan prije izdavanja građevinske dozvole za tu građevinu, osim upravne pristojbe određene za izdavanje građevinske dozvole, platiti i posebnu upravnu pristojbu u iznosu određenom posebnim propisom.
+Ako se u slučaju iz stavka 2. ovoga članka utvrdi da izvedeni radovi, odnosno građevina nisu u skladu s glavnim projektom, tijelo graditeljstva odbit će zahtjev za izdavanje građevinske dozvole bez prethodnog donošenja zaključka iz članka 103. stavka 1. ovoga Zakona.
+U svrhu utvrđivanja činjenica iz stavka 1. i 2. ovoga članka i članka 93. stavka 1. ovoga Zakona, tijelo graditeljstva dužno je provesti očevid na građevnoj čestici.
+Glavni projekt je prilog i sastavni dio građevinske dozvole, što na projektu mora biti naznačeno i ovjerovljeno potpisom službenika i pečatom tijela koje izdaje dozvolu.«
