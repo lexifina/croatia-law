@@ -1,0 +1,1 @@
+Na temelju odredbe članka 22. stavka 1. Zakona o prostornom uređenju (»Narodne novine«, br. 30/94., 68/98. i 61/00.) i članka 28. Zakona o zaštiti prirode (»Narodne novine«, br. 30/94. i 72/94.), Zastupnički dom Hrvatskoga sabora na sjednici 8. ožujka 2001., donio je
