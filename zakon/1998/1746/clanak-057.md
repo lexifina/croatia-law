@@ -1,0 +1,3 @@
+# Članak 57.
+Muzejska građa i muzejska dokumentacija, koja je imala status društvenog vlasništva, a na dan stupanja na snagu Zakona o ustanovama ("Narodne novine", br. 76/93. i 29/97.) zatečena je u javnim ustanovama muzejima i galerijama, te muzejima, galerijama i zbirkama unutar javnih ustanova, danom stupanja na snagu ovoga Zakona postaje državno vlasništvo.
+Vlada Republike Hrvatske može vlasništvo nad muzejskom građom i muzejskom dokumentacijom iz stavka 1. ovoga članka prenijeti na županije, Grad Zagreb, gradove i općine, koji su osnivači muzeja i galerija, odnosno osnivači ustanova i drugih pravnih osoba unutar kojih su muzeji, galerije i zbirke kod kojih se ta muzejska građa i muzejska dokumentacija nalazi.

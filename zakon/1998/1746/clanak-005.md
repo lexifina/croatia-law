@@ -1,0 +1,2 @@
+# Članak 5.
+Muzejska djelatnost obuhvaća: skupljanje, čuvanje i istraživanje civilizacijskih, kulturnih i prirodnih dobara te njihovu stručnu i znanstvenu obradu i sistematizaciju u zbirke, trajno zaštićivanje muzejske građe, muzejske dokumentacije, muzejskih lokaliteta i nalazišta, njihovo neposredno i posredno predočavanje javnosti putem stalnih i povremenih izložaba, te objavljivanje podataka i spoznaja o muzejskoj građi i muzejskoj dokumentaciji putem stručnih, znanstvenih i drugih obavijesnih sredstava.

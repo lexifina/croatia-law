@@ -1,0 +1,2 @@
+# Članak 35.
+Ako tijelo državne uprave iz članka 34. stavka 1. i 2. ovoga članka u obavljanju nadzora nad zakonitošću rada utvrdi da muzej, odnosno muzej, galerija i zbirka unutar ustanove i druge pravne osobe, ne ispunjava koji od uvjeta iz članka 15. i 17. stavka 1. ovoga Zakona, odredit će osnivaču rok u kojem je dužan otkloniti uočene nedostatke. Ne otkloni li osnivač uočene nedostatke u ostavljenom roku, upravno tijelo donijet će rješenje o zabrani rada muzeja, odnosno muzeja, galerije i zbirke unutar ustanove i druge pravne osobe.

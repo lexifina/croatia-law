@@ -1,0 +1,2 @@
+# Članak 58.
+Osnivači otvorenih i pučkih učilišta i drugih organizacija za naobrazbu odraslih koje obavljaju i muzejsku djelatnost, dužni su u roku od dvije godine od stupanja na snagu ovoga Zakona donijeti odluke kojima će sredstvima, prostorom i opremom što tim pravnim osobama služi za obavljanje muzejske djelatnosti, te njihovom muzejskom građom i muzejskom dokumentacijom, osnovati muzeje kao ustanove, odnosno osigurati obavljanje muzejske djelatnosti prema odredbama ovoga Zakona.

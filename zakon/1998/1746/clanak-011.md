@@ -1,0 +1,4 @@
+# Članak 11.
+Muzeji, te muzeji, galerije i zbirke unutar ustanova i drugih pravnih osoba, mogu skupljati muzejsku građu i muzejsku dokumentaciju i terenskim istraživanjem. Terensko istraživanje obavlja se u skladu sa zakonom i drugim propisima o zaštiti kulturnih dobara.
+Ako istraživanje iz stavka 1. ovoga članka provode druge pravne i fizičke osobe, dužne su materijalne nalaze i dokumentaciju o istraživanju dostaviti muzeju, te muzeju, galeriji i zbirki unutar ustanove i druge pravne osobe koje djeluju na području na kojem je obavljeno terensko istraživanje ukoliko ispunjavaju uvjete za njihov smještaj i izlaganje.
+Ako na području na kojem je obavljeno terensko istraživanje ne postoji muzej, odnosno muzej, galerija i zbirka unutar ustanove i druge pravne osobe ili one ne ispunjavaju uvjete iz stavka 2. ovoga članka, o smještaju materijalnih nalaza i dokumentacije o istraživanju odlučuje tijelo nadležno za zaštitu kulturnih dobara.

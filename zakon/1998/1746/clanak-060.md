@@ -1,0 +1,4 @@
+# Članak 60.
+Hrvatski povijesni muzej, Hrvatski muzej naivne umjetnosti, kao i muzejska ustanova Muzeji Hrvatskog zagorja, Gornja Stubica, osnovana Uredbom o "Muzejima Hrvatskog zagorja" ("Narodne novine", br. 49/92.), nastavljaju s radom po odredbama ovoga Zakona kao javne ustanove kojima je osnivač Republika Hrvatska osim Muzeja evolucije i nalazišta pračovjeka s lokalitetima Josipovac i Hušnjakovo u Krapini nad kojem se osnivačka prava prenose na Grad Krapinu.
+Hrvatski povijesni muzej, Hrvatski muzej naivne umjetnosti i Muzeji Hrvatskog zagorja dužni su u roku od šest mjeseci od stupanja na snagu ovoga Zakona uskladiti svoje ustrojstvo, rad i akte s njegovim odredbama.
+Vlada Republike Hrvatske dužna je svojom uredbom urediti pitanja podjele objekata, imovine, sredstava, opreme, prava i obveza te rasporeda djelatnika između Muzeja Hrvatskog zagorja i Muzeja evolucije i nalazišta pračovjeka s lokalitetima Josipovac i Hušnjakovo u Krapini.
