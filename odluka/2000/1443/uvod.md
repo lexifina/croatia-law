@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 1. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 54/94 - pročišćeni tekst, 48/95, 19/98 i 105/99), Vlada Republike Hrvatske je na sjednici održanoj 4. srpnja 2000. godine, donijela
