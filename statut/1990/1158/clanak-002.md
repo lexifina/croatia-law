@@ -1,0 +1,2 @@
+# Članak 2.
+Republički fond osnovan je Zakonom o mirovinskom i invalidskom osiguranju ("Narodne novine" br. 26/83, 5/86, 42/87, 34/89, 57/89 i 40/90) radi ostvarivanja ustavom i zakonom zajamčenih prava osiguranika - radnih ljudi koji samostalno obavljaju djelatnost osobnim radom sredstvima u vlasništvu gradana i korisnika prava iz mirovinskog i invalidskog osiguranja te radi ostvarivanja potreba i interesa društva na području mirovinskog i invalidskog osiguranja.

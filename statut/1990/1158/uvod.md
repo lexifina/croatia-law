@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 1. Zakona o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju ("Narodne novine", broj 40/90), Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, na sjednici održanoj 28. studenoga 1990. donosi
