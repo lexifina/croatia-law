@@ -1,0 +1,1 @@
+Na temelju točke I. i II. Odluke o povjeravanju poslova upravljanja i raspolaganja imovinom Republike Hrvatske Povjerenstvu Vlade za upravljanje imovinom Republike Hrvatske (»Narodne novine«, 126/2000 i 87/2003), Povjerenstvo je na sjednici održanoj 29. rujna 2003. godine, donijelo
