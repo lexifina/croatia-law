@@ -1,0 +1,1 @@
+Na temelju članka 91. podstavka 7. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 71/00, 129/00, 9/01 - pročišćeni tekst, 117/01, 6/02 - pročišćeni tekst i 41/02., u daljnjem tekstu: Poslovnik), Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora je na 42. sjednici održanoj 23. siječnja 2003., donio
