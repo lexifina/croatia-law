@@ -1,0 +1,4 @@
+# Članak 176.
+Članak 458. mijenja se i glasi:
+»(1) Osim u slučajevima kada se prema ovom Zakonu može odrediti pritvor protiv okrivljenika, pritvor će se odrediti i ako postoji vjerojatnost da bi okrivljenik za kojeg je državni odvjetnik postavio zahtjev iz članka 456. stavka 2. ovoga Zakona mogao zbog težih duševnih smetnji počiniti teže kazneno djelo. Prije određivanja pritvora pribavit će se mišljenje vještaka psihijatra o ovoj opasnosti okrivljenika. O određivanju pritvora po ovom osnovu izvijestit će se uprava zatvora radi upućivanja okrivljenika u zdravstvenu ustanovu u smislu odredbe članka 111. stavka 3. ovoga Zakona.
+(2) Pritvor iz stavka 1. ovoga članka može trajati dok opasnost traje, ali ne dulje od rokova predviđenih člancima 106., 107. i 109. ovoga Zakona.«

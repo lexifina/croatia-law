@@ -1,0 +1,3 @@
+# Članak 102.
+U članku 219. stavku 3. u drugoj rečenici riječi: »postoje osnove sumnje« zamjenjuju se riječima: »postoji vjerojatnost«, a riječi: »protuzakonitom trgovinom opojnim drogama ili sudjelovanjem u kaznenim djelima koje je počinila grupa ili zločinačka organizacija za koja zakon predviđa kaznu zatvora preko tri godine« zamjenjuju se riječima: »sudjelovanjem u kaznenim djelima koje je počinila grupa (članak 89. stavak 22. Kaznenog zakona) ili zločinačka organizacija (članak 89. stavak 23. Kaznenog zakona) ili kaznenim djelom zlouporabe opojnih droga (članak 173. Kaznenog zakona) i za koja je propisana kazna zatvora više od tri godine.«
+U stavku 4. riječ: »zakonite« zamjenjuje se riječju: »zakonske«.

@@ -1,0 +1,4 @@
+# Članak 44.
+Iza članka 107. dodaje se članak 107.a koji glasi:
+»Članak 107.a
+Nakon predaje optužnice ili optužnog prijedloga, a do pravomoćnosti presude okrivljenik i njegov branitelj mogu sudu predložiti ukidanje pritvora kad nastupe okolnosti zbog kojih pritvor više nije neophodan. Protiv rješenja vijeća kojim se odbija prijedlog za ukidanje pritvora žalba nije dopuštena. U svakom slučaju pritvor će se ukinuti i pritvorenik pustiti na slobodu kad sud izrekne presudu kojom se okrivljenik oslobađa od optužbe ili se optužba odbija ili je okrivljeniku izrečena novčana kazna, uvjetna osuda ili sudska opomena.«

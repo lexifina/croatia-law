@@ -1,0 +1,5 @@
+# Članak 135.
+U članku 320. stavak 4. mijenja se i glasi:
+»(4) Optuženika koji se očitovao da se u odnosu na sve točke optužbe smatra krivim, predsjednik vijeća uputit će da može iskazivati o svim okolnostima koje ga terete i iznijeti sve činjenice koje mu idu u korist. Nakon toga prelazi se na ispitivanje optuženika. Optuženik će u slobodnom izlaganju iznijeti svoj iskaz, nakon čega mu se mogu postavljati pitanja. Pitanja prvi postavlja branitelj, a zatim tužitelj. Nakon njih predsjednik vijeća i članovi vijeća mogu postavljati pitanja optuženiku radi otklanjanja praznina, proturječnosti i nejasnoća u iskazu. Oštećenik, njegov zakonski zastupnik ili punomoćnik, suoptuženici i vještaci mogu neposredno postavljati pitanja optuženiku uz odobrenje predsjednika vijeća.«
+U stavku 6. druga rečenica briše se, a u trećoj rečenici riječ: »izvedenim« zamjenjuje se riječju: »pribavljenim«.
+U stavku 7. riječi: »postupak se nastavlja izvođenjem dokaza« zamjenjuju se riječima: »ispitat će se na završetku dokaznog postupka, osim ako optuženik drugačije ne zahtijeva«.

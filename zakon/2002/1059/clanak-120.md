@@ -1,0 +1,4 @@
+# Članak 120.
+U članku 265. stavku 1. u drugoj rečenici ispred riječi: »tijelu« riječ: »njihovu« zamjenjuje se riječju: »njegovu«.
+U stavku 3. riječi: »1. i 2. ovoga članka« zamjenjuju se riječima: »1., 2. i 5. ovoga članka«.
+U stavku 5. u prvoj rečenici riječ: »temeljno« zamjenjuje se riječju: »temeljnog«. U drugoj rečenici riječi: »koji je pod stalnim nadzorom Ministarstva zdravstva« zamjenjuju se riječima: »koji propisuje i nadzire Ministarstvo zdravstva«. U zadnjoj rečenici iza riječi: »protiv života i tijela« dodaju se riječi u zagradi: »(Glava X. Kaznenog zakona)«, iza riječi: »spolne slobode i spolnog čudoređa« dodaju se riječi u zagradi: »(Glava XIV. Kaznenog zakona)« stavlja se zarez, brišu se riječi: »ili sigurnosti osoba« a dodaju riječi: »braka, obitelji i mladeži (Glava XVI. Kaznenog zakona) i zdravlja ljudi (Glava XVIII. Kaznenog zakona)«.

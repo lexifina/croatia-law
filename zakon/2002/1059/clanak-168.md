@@ -1,0 +1,9 @@
+# Članak 168.
+Iza članka 442. dodaje se članak 442.a koji glasi:
+»Članak 442.a
+(1) Protiv presude žalba se može podnijeti u roku od osam dana od dana dostave prijepisa presude.
+(2) Ako državni odvjetnik nije bio nazočan glavnoj raspravi (članak 441. stavak 1.) oštećenik ima pravo u svojstvu tužitelja podnijeti žalbu protiv presude, bez obzira na to žali li se i državni odvjetnik.
+(3) Stranke i oštećenik odnosno oštećenik koji u svojstvu tužitelja ima pravo žalbe protiv presude zato što državni odvjetnik nije bio nazočan glavnoj raspravi (članak 441. stavak 1.) mogu se odreći prava na žalbu odmah nakon objave presude. U takvom slučaju dostavit će im se u roku od tri dana prijepis presude bez obrazloženja. Ako je presudom izrečena kazna zatvora prijepis presude uvijek mora sadržavati podatke iz članka 359. stavka 8. ovoga Zakona.
+(4) Ako je tijek glavne rasprave snimljen u smislu čanka 440.a ovoga Zakona, stranke i oštećenik, odnosno oštećenik iz stavka 2. ovoga članka mogu u roku od tri dana od dana dostave prijepisa presude iz članka 442. stavka 9. ovoga Zakona najaviti žalbu. U takvom slučaju, rok za žalbu iz stavka 1. ovoga članka žaliteljima započinje teći od dostave prijepisa zvučne snimke.
+(5) Najava žalbe podnesena sudu nakon proteka roka od tri dana iz stavka 4. ovoga članka smatra se žalbom protiv presude.
+(6) Bitna povreda odredaba kaznenog postupka na koju drugostupanjski sud pazi po službenoj dužnosti postoji ako prijepis presude nije napisan i otpremljen u rokovima iz članka 442. stavka 7. ovoga Zakona ili ako protivno odredbi članka 442. stavka 9. nije prepisana zvučna snimka glavne rasprave.«

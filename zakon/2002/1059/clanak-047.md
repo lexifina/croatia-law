@@ -1,0 +1,3 @@
+# Članak 47.
+U članku 110. stavak 1. mijenja se i glasi:
+»(1) Žalbu protiv rješenja kojim se određuje, produljuje ili ukida pritvor mogu podnijeti okrivljenik, njegov branitelj i državni odvjetnik u roku od dva dana. Protiv rješenja vijeća Vrhovnog suda Republike Hrvatske kojim se određuje, produljuje ili ukida pritvor žalba nije dopuštena, osim kad vijeće Vrhovnoga suda odlučujući prema članku 104. stavku 4. i 5. ovoga Zakona odredi pritvor okrivljeniku protiv kojega nije bio određen pritvor. Žalba protiv tog rješenja ne zadržava njegovo izvršenje. O žalbi odlučuje vijeće Vrhovnoga suda sastavljeno od petero sudaca. U vijeću koje odlučuje o žalbi ne mogu sudjelovati suci koji su donijeli odluku o određivanju pritvora.«

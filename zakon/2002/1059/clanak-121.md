@@ -1,0 +1,2 @@
+# Članak 121.
+U članku 274. stavku 2. u prvoj rečenici iza riječi: »u samom postupku« dodaje se zarez i riječi: »ili da činjenični opis radnje kaznenog djela ne proizlazi iz ranije pribavljenih dokaza«. Iza pete rečenice dodaje se nova rečenica koja glasi: »Tužitelj će u slučaju ako je optužnica bila vraćena radi uklanjanja nedostataka dopunjenu ili ispravljenu optužnicu vratiti vijeću na odluku o njezinoj osnovanosti.«

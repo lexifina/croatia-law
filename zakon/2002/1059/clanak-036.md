@@ -1,0 +1,3 @@
+# Članak 36.
+Članak 100. mijenja se i glasi:
+»Ako je državni odvjetnik podnio istražni zahtjev, neposrednu optužnicu ili optužni prijedlog i zatražio određivanje pritvora, izvijestit će odmah o tome istražnog suca koji je odredio zadržavanje. Istražni sudac će uhićenika zadržati do donošenja odluke nadležnog suda o istražnom zahtjevu i pritvoru, odnosno o pritvoru nakon podignute neposredne optužnice ili optužnog prijedloga. Ako nadležna sudbena vlast ne odredi pritvor u roku od sedamdeset dva sata od kada je istekao rok iz članka 98. stavka 1. i 2. ovoga Zakona na kojega je zadržavanje određeno, uhićenik se mora odmah pustiti na slobodu.«
