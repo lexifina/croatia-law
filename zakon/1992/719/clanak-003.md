@@ -1,0 +1,2 @@
+# Članak 3.
+Članak 3. Zakona mijenja se i glasi: "Poduzeća mogu cijene odnosno tarife za prodaju električne energije, nafte i prirodnog plina, osnovnih naftnih derivata (laka, srednja i teška lož ulja, primarni benzini, mlazno gorivo, tekući naftni plin, bitumen i bazno ulje), usluga prijevoza putnika i stvari u unutarnjem željezničkom prometu, pisama, dopisnica i telefonskog impulsa u unutarnjem poštanskom i telefonskom prometu mijenjati uz suglasnost Vlade Republike Hrvatske".
