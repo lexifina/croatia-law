@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93., 69/97., 33/00., 73/00., 127/00. i 59/01.) i članka 16. Statuta Općine Cerovlje (»Službene novine Grada Pazina« broj 19/01), Općinsko vijeće Općine Cerovlje na sjednici održanoj 1. kolovoza 2002. godine donijelo je
