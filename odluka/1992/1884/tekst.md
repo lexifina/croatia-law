@@ -1,0 +1,19 @@
+o usvajanju Plana potrebnog broja bolesničkih ležaja u stacionarnim ustanovama za liječenje akutnih i kroničnih bolesti osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske
+I.
+Sukladno odredbama Pravilnika o zdravstvenom standardu u Republici Hrvatskoj ("Narodne novine", br. 3/82), Odluke o utvrđivanju broja bolesničkih ležaja u stacionarnoj zdravstvenoj zaštiti ("Narodne novine", br. 32/92) i Odluke o utvrđivanju broja bolesničkih ležaja u stacionarnoj zdravstvenoj zaštiti za liječenje kroničnih bolesti ("Narodne novine", br. 49/92), usvaja se Plan broja bolesničkih ležaja u stacionarnim ustanovama za liječenje akutnih i kroničnih bolesti osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske (u daljnjem tekstu: Republički fond).
+II.
+Planirano zdravstveno zbrinjavanje akutnih i kroničnih bolesti osiguranika Republičkog fonda ostvaruje se na području četiri slijedeće regije u Republici Hrvatskoj : Osijek, Rijeka, Split i Zagreb.
+1. Za potrebe liječenja akutnih bolesti utvrđuje se Plan broja bolesničkih ležaja u stacionarnim ustanovama za osiguranike Republičkog fonda po regijama kako slijedi:
+a) Za regiju Osijek osigurava se u postojećim bolnicama 3200 bolešničkih ležaja za potrebe osnovnog zbrinjavanja bolesnika i 167 bolesničkih ležaja za potrebe zbrinjava nja složenijih dijagnostičkih i terapijskih postupaka u Općoj bolnici Osijek.
+b) Za regiju Rijeka osigurava se u postojećim bolnicama 2.557 bolesničkih ležaja za potrebe osnovnog zbrinjava nja bolesnika i 128 bolesničkih ležaja za potrebe zbrinjavanja složenijih dijagnostičkih i terapijskih postupaka u Kliničkom bolnićkom centru Rijeka,
+c) Za regiju Split osigurava se u postojećim bolnicama 3.880 bolesničkih ležaja za potrebe osnovnog zbrinjavanja bolesnika i 194 bolesnička ležaja za potrebe zbrinjavanja složenijih dijagnostičkih i terapijskih postupaka u Kliničkom bolničkom centru Split,
+d) Za regiju Zagreb osigurava se u postojećim bolnicama 9.499 bolesničkih ležaja za potrebe osnovnog zbrinjavanja bolesnika i 474 bolesnička ležaja za potrebe zbrinjavanja složenijih dijagnostičkih i terapijskih postupaka u kliničkim bolnicama grada Zagreba.
+Za cjelokupnu populaciju osiguranika Republičkog fonda sveukupno se osigurava 20.576 ležaja za liječenje akutnih bolesti, od čega 19.136 ležaja za potrebe osnovnog zbrinjavanja bolesnika, 963 ležaja u regionalnim centrima za potrebe zbrinjavanja složenijih dijagnostičkih i terapijskih postupaka i daljnjih 477 ležaja u kliničkim bolnicama Zagreba za najsloženije dijagnostičke i terapijske postupke.
+2. Za potrebe liječenja kroničnih bolesti utvrđuje se Plan broja bolesničkih ležaja u stacionarnim ustanovama, za osiguranike Republičkog fonda po regijama kako slijedi:
+a) Za regiju Osijek osigurava se 582 bolesnička ležaja za djelatnost psihijatrije, 732 bolesnička ležaja za djelatnost medicinske rehabilitacije i 333 bolesnička ležaja za djelatnost gerijatrije na području Republike Hrvatske,
+b) Za regiju Rijeka osigurava se 447 bolesničkih ležaja za djelatnost psihijatrije, 563 bolesnička ležaja za djelatnost medicinske rehabilitacije i 256 bolesnićkih ležaja za djelatnost gerijatrije na području Republike Hrvatske,
+c) Za regiju Split osigurava se 679 bolesničkih ležeja ze djelatnost psihijstrije, 854 bolesnička ležaja za djelatnost medicinske rehabilitacije i 388 bolesničkih ležaja za djelatnost gerijatrije na području Republike Hrvatske,
+d) Za regiju Zagreb osigurava se 1.662 bolesnička ležaja za djelatnost psihijatrije, 2.090 bolesničkih ležaja za djelatnost medicinske rehabilitacije i 950 bolesničkih ležaja za djelatnost gerijatrije na području Republike Hrvatske.
+Za cjelokupnu populaciju osiguranika Republike Hrvatske Republički fond sveukupno osigurava 9.536 ležaja za liječenje kroničnih bolesti.
+III.
+Ova odluka stupa na snagu danom objave u "Narodnim novinama".
