@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 2. Zakona o unutarnjim poslovima ("Narodne novine", br. 29/91 - pročišćeni tekst, 73/91, 19/92, 33/92 i 76/94), na prijedlog ministra unutarnjih poslova, Vlada Republike Hrvatske je na sjednici održanoj 3. srpnja 1997. godine donijela
