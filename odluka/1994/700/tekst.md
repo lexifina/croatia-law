@@ -1,0 +1,2 @@
+U Odluci o kriterijima za određivanje koeficijenata za utvrđivanje plaće sucima i drugim nositeljima pravosudnih dužnosti kojima je koeficijent utvrđen u rasponu ("Narodne novine", br. 10/93). riječi "okružni" i "okružni privredni", te "javno tužiteljstvo" i "javni tužitelj" zamjenjujik se u odgovarajućem padežu riječima "županijski" i "trgovački" te "državno odvjetništvo" i "državni odvjetnik".
+Ova Odluka stupa na snagu danom objave u "Narodnim novinama".

@@ -1,0 +1,1 @@
+Na temelju točke 1. stavka 3 Odluke o mjerilima za određivanje plaće i drugih primanja sudaca i drugih nosilelja pravosudnih dužnosti ("Narodne novine", br. 9/93 i 28/94), Odbor za izbor, imenovanja i administrativne poslove Zastupničkog doma Sabora Republike Hrvatske, na sjednici 17 svibnja 1994. donio je
