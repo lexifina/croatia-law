@@ -1,0 +1,1 @@
+Na temelju članka 30. i 95. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 67/97, 33/00, 127/00 i 59/01) te članka 26. Statuta Grada Duge Rese (»Službeni glasnik Grada Duge Rese« broj 5/01) Gradsko vijeće Grada Duge Rese na sjednici održanoj dana 22. studenoga 2001. godine donijelo je
