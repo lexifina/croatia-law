@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe slijedi granicu područja luke javnog prometa Dajla do točke A, dalje nastavlja sjevernom međom k.č. 922 do točke B, te dalje nastavlja istočnom međom k.č. 327 do točke C, tu se lomi i pravolinijski ide do točke D, gdje i završava (rub obale), a sve kako je ucrtano i označeno u grafičkom prilogu na kopiji katastarskog plana k.o. Novigrad, broj lista katastarskog plana 6 i 9, u mjerilu 1:1000.
