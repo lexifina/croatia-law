@@ -1,0 +1,1 @@
+Na temelju članka 316. stavak 1. točka 2. Zakona o sigurnosti prometa na cestama ("Narodne novine", broj 84/92 i 5/93) i članka 91. Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 41/90, 47/90, i 53A/91), ministar unutarnjih poslova, u suglasnosti s ministrom pomorstva, prometa i veza donosi

@@ -1,0 +1,2 @@
+# Članak 18.
+Tehnički podaci o vozilu utvrđuju se uvidom u dokument o vozilu ili potvrdu o ispitivanju ili prometnu dozvolu i knjižicu vozila ili priznati katalog vozila. Vozilima koja ne odgovaraju propisanim uvjetima glede dimenzija, najveće dopuštene mase i dopuštenog osovinskog opterećenja ovjerit će se tehnička ispravnost s tim da se u gornjem desnom uglu prednje stranice registracijskog lista upiše tekst "PLOČICE S CRVENIM BROJKAMA I SLOVIMA".
