@@ -1,0 +1,3 @@
+# Članak 2.
+Udžbenik za osnovnu ili srednju školu (u daljnjem tekstu: udžbenik) je izvor znanja i didaktički oblikovano nastavno sredstvo čija uporaba omogućuje postizanje odgojno-obrazovnih ciljeva i standarda znanja utvrđenih nastavnim programom, odnosno katalogom znanja.
+Sukladno nastavnom programu, odnosno katalogu znanja, udžbenik može biti cjelovit (samostalan) ili razgranat (u više dijelova, s radnom bilježnicom, zbirkom zadataka, odnosno vježbi ili drugim nastavnim sredstvima bez obzira na medij), a obvezno ga prati metodički priručnik za učitelje ili nastavnike (u daljnjem tekstu: priručnik).
