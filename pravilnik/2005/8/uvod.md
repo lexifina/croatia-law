@@ -1,0 +1,1 @@
+Na temelju članka 86. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99, 63/00, 103/03 ) i članaka 1. i 2. Zakona o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 177/04), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj dana 3. siječnja 2005., donio je

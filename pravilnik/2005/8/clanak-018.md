@@ -1,0 +1,6 @@
+# Članak 18.
+(1) REGOS za zahtijevani iznos povrata, za koji je ispunjen uvjet za povrat, utvrđuje broj obračunskih jedinica za sredstva proslijeđenog doprinosa knjiženog na osobnom računu osiguranika.
+(2) Broj obračunskih jedinica za zahtijevani iznos povrata REGOS utvrđuje prema vrijednosti obračunske jedinice obveznog mirovinskog fonda u kojem je osiguranik bio član na dan izvršenog prijenosa sredstava na osobni račun.
+(3) REGOS iznos povrata izračunava množenjem utvrđenog broja obračunskih jedinica osiguranika za zahtijevani povrat iz stavka 2. ovoga članka, s vrijednošću obračunske jedinice obveznog mirovinskog fonda čiji je osiguranik član na dan donošenja odluke o opravdanosti zahtjeva.
+(4) Ukoliko je osiguranik, od dana izvršene uplate obveznika do dana donošenja odluke o opravdanosti zahtjeva, mijenjao obvezni mirovinski fond, REGOS je dužan utvrđeni broj obračunskih jedinica iz stavka 3. ovoga članka, ispraviti sukladno odnosima vrijednosti obračunskih jedinica obveznih mirovinskih fondova u kojima je osiguranik bio član uključivši i obvezni mirovinski fond u kojem je član na dan donošenja odluke o opravdanosti zahtjeva.
+(5) REGOS je dužan obavijestiti obvezno mirovinsko društvo, da sljedeći radni dan od dana primitka obavijesti, doznači izračunati iznos povrata u korist prolaznog računa.

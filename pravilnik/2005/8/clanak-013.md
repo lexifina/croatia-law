@@ -1,0 +1,3 @@
+# Članak 13.
+(1) U slučajevima oduzimanja odobrenja za rad obveznom mirovinskom društvu i raspuštanja obveznog mirovinskog fonda propisanih Zakonom o obveznim i dobrovoljnim mirovinskim fondovima, REGOS je dužan s uplaćenim sredstvima doprinosa postupati na način i u roku iz rješenja Agencije za nadzor mirovinskih fondova i osiguranja (u daljnjem tekstu: HAGENA).
+(2) REGOS je dužan sredstva doprinosa uplaćena nakon zatvaranja osobnih računa proslijediti u korist odabranog mirovinskog osiguravajućeg društva, Hrvatskog zavoda za mirovinsko osiguranje ili zakonskom nasljedniku, o čemu obavještava primatelja sredstava i Hagenu.

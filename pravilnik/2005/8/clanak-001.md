@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se način plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje, način postupanja sa sredstvima doprinosa na uplatnom računu za doprinos za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje, način postupanja sa sredstvima doprinosa na privremenom računu Agencije za nadzor mirovinskih fondova i osiguranja, te prosljeđivanje sredstava doprinosa u obvezni mirovinski fond, obvezno mirovinsko društvo i zakonom propisanim primateljima.
