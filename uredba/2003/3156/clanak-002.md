@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 9. stavku 4. u točki 7.2. iza prve rečenice dodaje se nova rečenica koja glasi: »Rješava u drugom stupnju o žalbama protiv rješenja inspekcije u prvom stupnju iz područja zaštite okoliša«.
+U podtočki 7.2.1. u prvoj rečenici iza riječi: »postupanja s otpadom« stavlja se zarez i dodaju se riječi: »rješava u drugom stupnju o žalbama protiv rješenja inspekcije u prvom stupnju iz područja zaštite okoliša«.
+U podtočki 7.3.2. - 7.3.12. u prvoj rečenici iza riječi: »obavljaju poslove« dodaju se riječi: »inspekcijskog nadzora nad općim i pojedinačnim aktima, uvjete i način rada nadležnih tijela državne uprave, tijela jedinica lokalne i područne (regionalne) samouprave, pravne i fizičke osobe te poduzimanje mjera predviđenih Zakonom o prostornom uređenju,«, a iza riječi: »u izradi propisa iz područja« dodaju se riječi: »prostornog uređenja i«.
+U podtočkama 7.3.2.1., 7.3.2.2., 7.3.2.3., 7.3.4.1., 7.3.4.2., 7.3.8.1., 7.3.8.2., 7.3.10.1., 7.3.10.2., 7.3.11.1., 7.3.11.2., 7.3.12.1. i 7.3.12.2. iza riječi: »Odsjek inspekcijskog nadzora« dodaje se riječ: »gradnje«.
