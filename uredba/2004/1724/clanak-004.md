@@ -1,0 +1,5 @@
+# Članak 4.
+U podnaslovu ispred članka 22. riječ »Pododsjek« zamjenjuje se riječju »Odjeljak«, a članak 22. mijenja se i glasi:
+»Odjeljak za računovodstvene poslove obavlja poslove evidencije financijskih promjena u Glavnoj knjizi i pomoćnim knjigama, odnosno analitičke evidencije, knjigu nefinancijske imovine, vrši financijsku i računovodstvenu kontrolu, likvidaciju računa, obračun plaća, bolovanja i ostalih naknada za zaposlene, izrađuje statistička i financijska izvješća, usklađuje inventuru s knjigovodstvenim stanjem i obavlja druge poslove.
+Vodi financijsko i računovodstveno poslovanje; prati i izučava zakone i druge propise vezane za financijsko i računovodstveno poslovanje, izrađuje periodične, polugodišnje i godišnje završne račune po pojedinim žiroračunima, te ih onda konsolidira za izvještajna razdoblja.
+Sudjeluje u izradi financijskog plana i vodi računa o namjenskom trošenju sredstava u skladu s planiranim aktivnostima i projektima sukladno ekonomskoj klasifikaciji prema Pravilniku o proračunskom računskom planu. Obavlja i druge poslove sukladno posebnim propisima«.
