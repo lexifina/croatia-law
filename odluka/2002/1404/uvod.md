@@ -1,0 +1,1 @@
+Na osnovi članka 94. stavke 1. podstavke 13. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01.), članka 11. stavke 1. podstavke 1. i članka 18. podstavke 13. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« br. 16/02. i 24/02.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 11. sjednici održanoj 10. srpnja 2002. godine donijelo je
