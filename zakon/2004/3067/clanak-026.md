@@ -1,0 +1,12 @@
+# Članak 26.
+(1) Na dobit ostvarenu od ulaganja u iznosu najmanje 4 milijuna kuna, porez na dobit plaćat će se po stopi od 10% deset godina od godine početka ulaganja, uz uvjet da se u tom razdoblju osigura zapošljavanje najmanje 10 zaposlenika, počevši od isteka prve godine ulaganja.
+(2) Na dobit ostvarenu od ulaganja u iznosu najmanje 10 milijuna kuna, porez na dobit plaćat će se po stopi od 7% deset godina od godine početka ulaganja, uz uvjet da se u tom razdoblju osigura zapošljavanje najmanje 30 zaposlenika, počevši od isteka prve godine ulaganja.
+(3) Na dobit ostvarenu od ulaganja u iznosu najmanje 20 milijuna kuna, porez na dobit plaćat će se po stopi od 3% deset godina od godine početka ulaganja, uz uvjet da se u tom razdoblju osigura zapošljavanje najmanje 50 zaposlenika, počevši od isteka prve godine ulaganja.
+(4) Na dobit ostvarenu od ulaganja u iznosu najmanje 60 milijuna kuna, porez na dobit plaćat će se po stopi od 0% deset godina od godine početka ulaganja, uz uvjet da se u tom razdoblju osigura zapošljavanje najmanje 75 zaposlenika, počevši od prve godine ulaganja.
+(5) Ukupna porezna povlastica koju ulagatelj može iskoristiti tijekom trajanja roka plaćanja povlaštene stope poreza na dobit, ne može prelaziti iznos samog ulaganja. Iznos porezne povlastice utvrđuje se kao razlika poreza na dobit izračunana primjenom propisane stope i stopa iz ovoga članka.
+(6) Ako porezni obveznik nositelj poreznih povlastica smanji broj zaposlenika utvrđen odredbama ovoga članka, prestaje mu pravo korištenja tih povlastica za cijelo razdoblje za koje su odobrene, uz obvezu povrata sredstava ostvarenih korištenjem odobrenih povlastica uvećanih za svotu zakonske zatezne kamate.
+(7) Poreznom obvezniku nositelju poreznih povlastica kojemu je ukinuto pravo njihova korištenja, ne mogu se ponovo odobriti porezne povlastice.
+(8) U iznos ulaganja iz stavka 1., 2., 3. i 4. ovoga članka ne uračunava se vrijednost zemljišta i građevina starijih od jedne godine te ranije korištena oprema, unesena kao ulog.
+(9) Porezne povlastice mogu koristiti samo nositelji poticajnih mjera iz Zakona o poticanju ulaganja.
+(10) Trgovačka društva koja su registrirana i obavljaju brodarsku djelatnost, ne plaćaju porez na dobit koju ostvare od iskorištavanja brodova u međunarodnoj plovidbi.
+7. Poticaj poreznim obveznicima osnovanima u svrhu profesionalne rehabilitacije i zapošljavanja osoba s invaliditetom

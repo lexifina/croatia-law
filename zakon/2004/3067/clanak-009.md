@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Vrijednosna usklađenja po osnovi ispravka vrijednosti potraživanja od kupaca za isporučena dobra i obavljene usluge, priznaju se kao rashod ako je od dospijeća potraživanja do kraja poreznog razdoblja proteklo više od 120 dana, a ista nisu naplaćena do petnaestog dana prije dana podnošenja porezne prijave. Svote vrijednosnih usklađenja potraživanja od kupaca iskazane u prethodnim poreznim razdobljima kao porezno priznati rashod uključuju se u prihode, ako do trenutka nastupa zastare prava na naplatu nije postupljeno na način propisan u stavku 2. ovoga članka.
+(2) Vrijednosno usklađenje potraživanja priznaje se ako je potraživanje evidentirano u poslovnim knjigama kao prihod i ako su obavljene sve radnje za osiguranje naplate duga, pažnjom dobroga gospodarstvenika.
+(3) Smatra se da su obavljene radnje iz stavka 2. ovoga članka ako su potraživanja utužena ili se zbog njih vodi ovršni postupak, ako su prijavljena u stečajnom postupku nad dužnikom ili ako je postignuta nagodba s dužnikom, koji nije fizička osoba ili povezana osoba, u postupku sanacije ili stečaja.
+(4) Iznimno od odredbe stavka 3. ovoga članka, priznaje se otpis potraživanja, koja su zastarjela i koja u svakom pojedinom poreznom razdoblju ne prelaze 5.000,00 kuna po pojedinom dužniku koji nije fizička osoba.
+4.3. Vrijednosno usklađenje zaliha i financijske imovine
