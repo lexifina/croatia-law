@@ -1,0 +1,1 @@
+Na temelju članka 3. i članka 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92 55/92 i 29/94), te članka 40. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1996. godinu ("Narodne novine", broj 9/96), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 1996. godine donijela
