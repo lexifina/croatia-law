@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 15. stavka 2. Uredbe o osnivanju Hrvatske knjižnice za slijepe (»Narodne novine«, broj 115/99), Vlada Republike Hrvatske je na sjednici održanoj 1. veljače 2001. godine donijela
