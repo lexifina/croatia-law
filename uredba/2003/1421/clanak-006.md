@@ -1,0 +1,6 @@
+# Članak 6.
+U Tajništvu ministarstva ustrojavaju se:
+3.1. Odjel za kadrovske i informatičke poslove
+3.2. Odjel za opće poslove.
+3.1. Odjel za kadrovske i informatičke poslove sudjeluje u izradi nacrta propisa o unutarnjem ustrojstvu i unutarnjem redu ministarstva, obavlja za potrebe ministarstva sve stručne i administrativne poslove u vezi s prijamom, raspoređivanjem i prestankom službe državnih službenika i namještenika, obavlja poslove koji se odnose na stručno obrazovanje i osposobljavanje službenika i namještenika, informatičke poslove za potrebe ministarstva, vodi osobne očevidnike, dosjee i ostale evidencije iz radnih odnosa, te ostale poslove koje odredi tajnik Ministarstva.
+3.2. Odjel za opće poslove priprema i objedinjuje prijedloge plana rada Ministarstva zaprimljenih od upravnih organizacija i unutarnjih ustrojstvenih jedinica i izvješća o njegovu ostvarivanju, obavlja prijam i dostavu pošte, urudžbiranje i raspoređivanje akata, otpremu i arhiviranje, poslove prijepisa i umnožavanje materijala, pripremu i posluživanje toplih i hladnih napitaka, poslove prijevoza službenim vozilima i njihova održavanja, poslove telefonista i ekonomata, te ostale poslove koje odredi tajnik Ministarstva.
