@@ -1,0 +1,4 @@
+o osnovicama za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa za godinu 1991.
+1. Osnovica za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje privremeno izvan radnog odnosa (članak 18. i 19.) jest prosječni osobni dohodak što ga je osiguranik ostvario u protekloj godini. Za osiguranike koji su u godini 1990. bili privremeno izvan radnog odnosa osnovica za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje u godini 1991. povećava se za 481,53%.
+2. Doprinos za mirovinsko i invalidsko osiguranje obračunava se i plaća prema Zakonom utvrđenoj stopi za osiguranike koji su sami obveznici plaćanja doprinosa.
+3. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od l. siječnja 1991.
