@@ -1,0 +1,1 @@
+Na temelju odredbi članka 8. stavka 3. i članka 20. Zakona o izmjenama i dopunama Zakona o visokim učilištima (»Narodne novine«, br. 129/2000.) Rektorski zbor visokih učilišta Republike Hrvatske na 3. sjednici u akademskoj 2000/2001. godini održanoj 19. veljače 2001. godine pod točkom 4. dnevnog reda donio je
