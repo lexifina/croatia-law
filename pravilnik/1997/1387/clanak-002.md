@@ -1,0 +1,4 @@
+# Članak 2.
+Poslovi koje obavljaju ovlašteni laboratoriji, ovlašteni znanstveni laboratoriji, Glavni ovlašteni vodnogospodarski laboratorij i Referentni laboratorij znače osobito: ispitivanje i ocjenjivanje sastava i kakvoće lokalnih, državnih, te međudržavnih voda, ocjenjivanja toksičnosti i drugih štetnih svojstava opasnih tvari, saznanja o pojavi, rasprostranjenosti i posljedicama po vode prisutnih zagađivala i njihovih procesa.
+Poslove iz članka 1. mogu obavljati ovlašteni laboratoriji, koji su registrirani kod trgovačkog suda u skladu s Nacionalnom klasifikacijom djelatnosti ili su u sastavu pravne osobe registrirane za obavljanje takve djelatnosti, a ispunjavaju i ostale uvjete propisane ovim Pravilnikom.
+Laboratoriji iz članka 1. moraju ispunjavati prostorne uvjete smještaja, uvjete minimalno tehničke opremljenosti i stručne osposobljenosti zaposlenika propisane ovim Pravilnikom i Općim kriterijima za rad ispitnih laboratorija (HRN EN 45001:1996).
