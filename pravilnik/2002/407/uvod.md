@@ -1,0 +1,1 @@
+Na temelju članka 27. stavak 3. Zakona o mirovinskim osiguravajućim društvima i isplati mirovine na temelju individualne kapitalizirane štednje (»Narodne novine« broj 106/99 i 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 14. veljače 2002. donio je
