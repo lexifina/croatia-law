@@ -1,0 +1,2 @@
+# Članak 18.
+Smatrat će se da je svaka ugovorna stranka pristupila ili prihvatila sve odredbe Konvencije ili Priloga, osim ako u vrijeme pristupanja Konvenciji ili odvojenog prihvaćanja nekog Priloga ili u bilo koje vrijeme nakon toga, ne obavijesti glavnog tajnika Vijeća o bilo kakvim rezervama u pogledu odredaba sa kojima se ne može suglasiti. Svaka ugovorna stranka se obvezuje da će periodično preispitivati odredbe u pogledu kojih je stavila rezerve i da će glavnog tajnika Vijeća obavijestiti u slučaju povlačenja rezervi.
