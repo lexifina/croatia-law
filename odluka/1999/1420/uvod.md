@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 5. Zakona o mirovinskom osiguranju ("Narodne novine", broj 102/98) i članka 33. toč. 3. Statuta Hrvatskog zavoda za mirovinsko osiguranje ("Narodne novine", broj 163/98), donosim
