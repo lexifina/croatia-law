@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o Hrvatskoj gospodarskoj komori ("Narodne novine" broj 66 i 73/91) i članka 40. stavak 1. Statuta Hrvatske gospodarske komore ("Narodne novine" broj 56/91 i 10 i 115/93), Skupština Hrvatske gospodarske komore na 5. sjednici 22. prosinca 1993. donosi
