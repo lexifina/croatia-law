@@ -1,0 +1,2 @@
+# Članak 40.
+Odjel inspekcije pošte i telekomunikacija obavlja poslove inspekcijskog nadzora nad provedbom propisa koji se odnose na telekomunikacijsku infrastrukturu, telekomunikacijsku opremu i pružanje telekomunikacijskih usluga, te na izgradnju poštanskih objekata i opreme, pružanje poštanskih usluga i funkcioniranje poštanskog prometa, poduzima mjere utvrđene propisima o pošti i telekomunikacijama, vodi očevidnik nadziranih objekata i subjekata, te očevidnik poduzetih mjera.

@@ -1,0 +1,8 @@
+## 5. UPRAVA UNUTARNJE PLOVIDBE
+# Članak 26.
+Uprava unutarnje plovidbe obavlja upravno pravne i međunarodne poslove, stručno tehničke poslove vezane za razvoj, organizaciju građenja, održavanja i obilježavanja plovnih putova, poslove nadzora i sigurnosti plovidbe, te druge stručne poslove vezane za djelatnost unutarnje plovidbe. Osigurava neposrednu suradnju u obavljanju funkcija i objedinjava rad Odjela ustrojenih u njenom sastavu kao i rad Odjeljaka koji obavljaju poslove iz djelokruga Unutarnje plovidbe u kapetanijama (Sisak, Slavonski Brod, Osijek, Vukovar), osigurava i provodi utvrđenu politiku i izvršava zakone i druge propise iz područja sigurnosti plovidbe unutarnjim vodama, brodarstva na unutarnjim vodama, luka na unutarnjim vodama, plovnih putova na unutarnjim vodama, prometa na unutarnjim vodama, materijalno pravnih odnosa glede plovila koja sudjeluju u plovidbi unutarnjim vodama, prijevoza i plovidbenih poslova, te plovidbenih nesreća, obavlja poslove upravnog postupka i upravnog nadzora iz djelokruga unutarnje plovidbe, obavlja nadzor nad radom Hrvatskog registra brodova u dijelu koji se odnosi na sigurnost plovidbe, sudjeluje u radu međunarodnih organizacija, komisija, surađuje u izradi nacrta prijedloga sporazuma i drugih međunarodnih akata, predlaže politiku i mjere glede gospodarskog razvitka i razvitka prometa na unutarnjim vodama, obavlja i druge poslove koji su zakonom ili drugim propisima stavljeni u nadležnost Ministarstva, a odnose se na promet i plovidbu unutarnjim vodama.
+Za obavljanje poslova Uprave unutarnje plovidbe ustrojavaju se sljedeći odjeli:
+a) Odjel pravnih i međunarodnih poslova
+b) Odjel stručno-tehničkih poslova i gospodarstva
+c) Odjel nadzora i sigurnosti prometa
+a) Odjel pravnih i međunarodnih poslova

@@ -1,0 +1,4 @@
+# Članak 9.
+Odsjek stručno-tehničkih poslova sudjeluje u pripremi stručnih podloga za planiranje poslovanja lučkih kapetanija, planira i provodi tehničko ostvarenje izgradnje i održavanje zgrada, plovila, uređaja i opreme za sigurnost plovidbe lučkih kapetanija, planira i koordinira investicije u održavanju pomorskih plovnih putova i radio službe sigurnosti plovidbe, provodi oblikovanje tiskanica i dokumenata za Upravu pomorstva, planira i koordinira tekuće održavanje imovine lučkih kapetanija, obavlja stručno-
+-tehničke poslove u vezi nautičkog turizma, obavlja druge stručno--tehničke poslove u nadležnosti Uprave, obavlja poslove razvoja, uvođenja i održavanja informacijskog sustava pomorskog prometa.
+d/2 Odsjek sigurnosti plovidbe
