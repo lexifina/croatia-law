@@ -1,0 +1,2 @@
+# Članak 4.
+Prostorije iz članka 3. ovoga Pravilnika, osim prostorije voditelja laboratorija moraju biti priključene na vodovod i kanalizaciju. Prema namjeni, ove prostorije moraju imati osiguranu zdravstveno ispravnu vodu toplu i hladnu, električnu i plinsku instalaciju. Podovi moraju biti izvedeni od čvrstog, neklizajućeg i za tekućinu nepropusnog materijala, otpornog na kemikalije, koji se lako pere i održava. Zidovi ovih prostorija moraju biti obloženi keramičkim pločicama visine najmanje 1,80 m.
