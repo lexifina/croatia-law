@@ -1,0 +1,9 @@
+# Članak 40.
+Članak 115. mijenja se i glasi:
+»(1) Prvi saziv Nacionalnog vijeća za visoko obrazovanje i Nacionalnog vijeća za znanost imenovat će se najkasnije do 31. prosinca 2004.
+(2) Iznimno od odredaba članka 9. stavka 2., članka 10. stavka 2. i članka 11. stavka 3. ovoga Zakona, prilikom imenovanja prvog saziva Nacionalnog vijeća za znanost, odnosno Nacionalnog vijeća za visoko obrazovanje, Hrvatski sabor imenovat će svih dvanaest članova, a ždrijebom će se odlučiti o tome kojih će šest članova imati mandat od dvije, dok će preostalih šest imati mandat od četiri godine.
+(3) Do imenovanja iz stavka 1. ovoga članka Nacionalno vijeće za visoku naobrazbu osnovano prema Zakonu o visokim učilištima i Nacionalno znanstveno vijeće osnovano prema Zakonu o znanstvenoistraživačkoj djelatnosti nastavljaju s radom i obavljaju poslove iz svoje nadležnosti prema odredbama ovoga Zakona.
+(4) Imenovanjem prvog saziva Nacionalnog vijeća za visoko obrazovanje i Nacionalnog vijeća za znanost, navedena tijela preuzet će sve poslove iz stavka 3. ovoga članka, a postojeće Nacionalno vijeće za visoko obrazovanje i Nacionalno znanstveno vijeće prestat će s radom.
+(5) Nacionalno vijeće za znanost će donijeti pravilnik kojim se utvrđuju znanstvena područja, polja i grane, utvrditi uvjete za izbor u znanstvena zvanja te izabrati područna vijeća i matične odbore, najkasnije do 1. srpnja 2005.
+(6) Vlada Republike Hrvatske Uredbom osniva Agenciju za znanost i visoko obrazovanje najkasnije do 31. prosinca 2004. Agencija će započeti djelovati najkasnije 1. ožujka 2005. Do početka djelovanja Agencije poslove iz njene nadležnosti obavljat će tijela sveučilišta i Ministarstvo.
+(7) Sva ostala tijela predviđena ovim Zakonom ustrojit će se najkasnije do roka iz stavka 5. ovoga članka. Do tada će tijela izabrana prema dosadašnjim propisima nastaviti svoj rad.«
