@@ -1,0 +1,8 @@
+# Članak 2.
+Izrazi koji se rabe u ovom Pravilniku imaju sljedeće značenje:
+1. Ozračivanje u medicini i stomatologiji (u daljnjem tekstu: medicinsko ozračivanje) je namjerno ozračivanje pojedinaca u svrhu dijagnostike, liječenja i biomedicinskih istraživanja, uključujući i svjesno dragovoljno ozračivanje osoba koje nisu djelatnici s ionizirajućim zračenjima, ali skrbe, pomažu ili njeguju bolesnika tijekom dijagnostičkog postupka ili liječenja.
+2. Etaloniranje (umjeravanje) je skup postupaka kojima se u određenim uvjetima uspostavlja odnos između vrijednosti veli-čina koje pokazuje neko mjerilo ili mjerni sustav ili vrijednosti koje prikazuje neka tvarna mjera ili neka referencijska tvar i odgovarajućih vrijednosti ostvarenih etalonima.
+3. Etalon je tvarna mjera, mjerilo, referencijska tvar ili mjerni sustav namijenjen za određivanje, ostvarivanje, čuvanje ili obnavljanje jedinice jedne ili više vrijednosti kakve veličine da bi mogli poslužiti kao referencija.
+4. Osiguranje kakvoće jesu sve planirane i sustavno provođene aktivnosti potrebne za osiguranje visokog stupnja pouzdanosti da sustav, sustavnica sustava ili proces udovoljava uvjetima propisanim odgovarajućim normama.
+5. Provjera kakvoće je sastavni dio osiguranja kakvoće. To je skup postupaka (programiranje, usklađivanje, provedba) u svrhu održanja i unapređenja kakvoće. Provjera kakvoće obuhvaća ispitivanje, ocjenu i održanje svih provjerljivih i mjerljivih zna-čajki sustava ili uređaja na propisanoj razini.
+6. Medicinski fizičar je diplomirani inženjer fizike koji je tijekom dodiplomskog ili poslijediplomskog studija ili posebnim specijaliziranim tečajem osposobljen za poslove radioterapije i zaštite od ionizirajućih zračenja.

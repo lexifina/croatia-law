@@ -1,0 +1,5 @@
+# Članak 33.
+(1) Ispitivanje kakvoće rendgenskog uređaja za dijagnostiku u cilju osiguranja što manjeg ozračenja bolesnika provodi ovlaštena pravna osoba na zahtjev isporučitelja obvezno prije predaje rendgenskog uređaja krajnjem korisniku, poslije zamjene rendgenske cijevi ili drugih promjena na rendgenskom uređaju koje utječu na kakvoću dijagnostičke informacije.
+(2) Rezultate ispitivanja iz stavka 1. ovog članka isporučitelj rendgenskog uređaja obvezan je uz ostalu dokumentaciju predati krajnjem korisniku koji će priložiti zahtjevu za dobivanje uporabne dozvole. Ti rezultati služe kao referalne vrijednosti za periodička ispitivanja.
+(3) Periodičko ispitivanje kakvoće rendgenskog uređaja i sustava za razvijanje filmova obvezan je osigurati krajnji korisnik u propisanim rokovima.
+(4) Značajke, granice odstupanja pojedinih veličina i zna-čajki koje se ispituju, način i rokovi ispitivanja određeni su Pravilnikom o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s rendgenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuća zračenja.

@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Provjeru bitnih značajki uređaja koji se rabe za mjerenja aktivnosti, doza zračenja i drugih veličina bitnih za dobivanje dijagnostičke informacije ili terapijskog učinka, te odgovarajućih procedura u obavljanju djelatnosti s otvorenim radioaktivnim izvorima sukladno uspostavljenom programu osiguranja kakvoće u cilju postizanja što manjeg ozračenja bolesnika dužna je osigurati zdravstvena ustanova ili ordinacija koja ima odobrenje ministra zdravstva za obavljanje djelatnosti s otvorenim radioaktivnim izvorima.
+(2) Značajke, granice odstupanja pojedinih veličina koje se ispituju i uvjeti ispitivanja određeni su Pravilnikom o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s radioaktivnim tvarima.
