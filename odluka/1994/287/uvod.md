@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o sanaciji i restrukturiranju banaka ("Narodne novine", broj 27/91.), članka 27. stavak 2. Zakona o bankama i štedionicama ("Narodne novine", broj 94/93.) i članka 67. stavak 1. točka 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine", broj 74/92., 26/93. i 79/93.) Savjet Narodne banke Hrvatske na sjednici održanoj 28. veljače 1994. godine donio je
