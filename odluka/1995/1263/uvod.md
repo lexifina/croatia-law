@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 3. Zakona o izborima zastupnika u Sabor Republike Hrvatske ("Narodne novine", br. 22/92, 1/93, 11/94. i 68/95.), Vlada Republike Hrvatske je na sjednici održanoj 28. rujna 1995, godine, donijela
