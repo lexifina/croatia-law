@@ -1,0 +1,1 @@
+Temeljem članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine" broj 36/91), a povodom prijedloga Poduzeća "TEP" - Tvornice elektrotehničkih proizvoda, Zagreb, Medarska 69, Vlada Republike Hrvatske na sjednici održanoj 21. siječnja 1992. donijela je
