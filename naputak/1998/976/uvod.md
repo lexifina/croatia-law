@@ -1,0 +1,1 @@
+Na temelju članka 101. st. 3. Zakona o zdravstvenoj zaštiti ("Narodne novine", br. 1/97. - pročišćeni tekst), a po prethodno pribavljenom mišljenju Nacionalnog zdravstvenog vijeća Ministarstva zdravstva, ministar zdravstva donosi
