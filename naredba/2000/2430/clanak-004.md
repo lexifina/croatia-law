@@ -1,0 +1,3 @@
+# Članak 4.
+Iza točke 13.a dodaje se nova točka 13.b koja glasi:
+»13.b U cijelome tekstu Naredbe o obaveznom atestiranju čeličnih boca s ventilom za plinove propan-butan, riječ »atestiranje« zamjenjuje se riječju »potvrđivanje«, riječ »atest« zamjenjuju se riječima »potvrda o sukladnosti«, riječ »standard« zamjenjuje se riječju »norma«, riječi »jugoslavenski standard« zamjenjuju riječi »hrvatska norma«, oznaku »JUS« zamjenjuje oznaka »HRN«, riječi »organizacija udruženog rada ovlaštena za atestiranje« zamjenjuje se riječima »ovlaštena pravna osoba za potvrđivanje«, a riječi »Savezni zavod za standardizaciju« zamjenjuje se riječima »Državni zavod za normizaciju i mjeriteljstvo«, u odgovarajućemu rodu i padežu«.
