@@ -1,0 +1,1 @@
+Na temelju člana 2. stava 2. Odluke o visini naknada za zaštitu voda na vodnom području dalmatinskih slivova ("Narodne novine", br. 18/89) Izvršni odbor Skupštine Samoupravne vodoprivredne interesne zajednice za vodno područje dalmatinskih slivova u Splitu, na sjednici održanoj 27. prosinca 1989. donio je
