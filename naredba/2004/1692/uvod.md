@@ -1,0 +1,1 @@
+Na temelju članaka 17. i 18. Zakona o sustavu državne uprave (»Narodne novine« br. 190/03 i 199/03) i članaka 20. i 21. Zakona o izmjenama i dopunama Zakona o plovidbi unutarnjim vodama (»Narodne novine« br. 151/03) ministar mora, turizma, prometa i razvitka donosi
