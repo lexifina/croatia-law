@@ -1,0 +1,1 @@
+Zakon o privremenom uređenju organizacije upravljanja u Republičkoj samoupravnoj interesnoj zajednici usmjerenog obrazovanja Socijalističke Republike Hrvatske
