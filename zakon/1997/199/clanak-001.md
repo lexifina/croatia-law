@@ -1,0 +1,5 @@
+## NACIONALNOM PARKU "KORNATI"
+# Članak 1.
+U Zakonu o Nacionalnom parku "Kornati" ("Narodne novine", br. 31/80. i 14/88.) članak 2. mijenja se i glasi:
+"Granica Nacionalnog parka "Kornati" počinje od točke koja je udaljena jednu morsku milju prema jugozapadu od otočića Purare, odakle skreće prema jugoistoku obuhvaćajući otočne skupine Puh i Samograd na udaljenosti od 500 m, dalje ide prema sjeverozapadu na istoj udaljenosti od obalnih crta, obuhvaćajući otoke Mrtovnjak, Velu i Malu Smokvicu, Kornat, Malu i Velu Svršatu, te sredinom prolaza Vela Proversa, obuhvaćajući otok Donju Abu sredinom prolaza između Donje Abe i rta Vidilica na Dugom otoku, dalje skreće prema jugoistoku sredinom prolaza između Donje Abe i Abice, te skreće prema jugozapadu, prolazeći sredinom prolaza između Male Sestrice i Malog Obručana, idući u istom pravcu do udaljenosti jedne morske milje od otočića Mali Obručan, odakle skreće prema jugoistoku na istoj udaljenosti od vanjskog otočnog niza prema početnoj točki kod otočića Purare.
+Granice Nacionalnog parka "Kornati" ucrtane su na topografskoj karti mjerila 1:50.000, koja se čuva u Ministarstvu kulture i sastavni je dio ovoga Zakona."
