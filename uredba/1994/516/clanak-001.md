@@ -1,0 +1,2 @@
+# Članak 1.
+Ured za opće poslove Vlade i Sabora Republike Hrvatske (u daljnjem tekstu: Ured) je zajednička stručna služba koja obavlja odgovarajuće stručne, tehničke i pomoćne poslove za Vladu Republike Hrvatske i njene urede i Sabor Republike Hrvatske, a na zahtjev i po potrebi određene poslove iz svog djelokruga obavlja i za Ured Predsjednika Republike Hrvatske, te za druga državna tijela (u daljnjem tekstu: državna tijela).
