@@ -1,0 +1,4 @@
+# Članak 6.
+Učenici srednjih škola i redovni studenti visokih učilišta imaju, za vrijeme redovnog školovanja, pravo na povlasticu na željeznici i brodu od 20% od redovne cijene vozne karte za dnevna putovanja od mjesta prebivališta do mjesta u kojem se obavlja nastava i natrag.
+Osobe iz stavka 1. ovog članka imaju, za vrijeme školovanja, pravo na povlasticu od 25% od redovne cijene vozne karte u željezničkom i pomorskom putničkom prometu za dva pojedinačna putovanja u toku školske godine od mjesta prebivališta do mjesta u kojem se obavlja nastava i to dva putovanja u odlasku i dva putovanja u povratku, ako stanuju u mjestu sjedišta obrazovne ustanove koja nije u mjestu njihovog prebivališta.
+Povlastice iz stavka 1. i 2. ovog članka koriste se uz potvrdu srednje škole, odnosno visokog učilišta, da je korisnik povlastice učenik odnosno student.
