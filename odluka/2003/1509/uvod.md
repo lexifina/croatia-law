@@ -1,0 +1,1 @@
+Na temelju Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine« br. 155/ 2002.), članka 35. stavka 4. i članka 36., stavaka 11., Savjet za nacionalne manjine na sjednici održanoj 27. lipnja 2003. godine donio je
