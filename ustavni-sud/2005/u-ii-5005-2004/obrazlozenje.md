@@ -1,0 +1,13 @@
+O b r a z l o ž e n j e
+1. Teniski savez Splitsko-dalmatinske županije iz Stobreča, kojeg zastupa punomoćnik Zdravko Mišurac, odvjetnik iz Splita, podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Statuta Hrvatskog teniskog saveza od 31. siječnja 2004. godine, ovjerenog od Gradskog ureda za opću upravu Grada Zagreba, rješenjem Klasa: UP/I-230-02/2004-02/195, Urbroj: 251-02-02/2-04-12 od 27. srpnja 2004. godine.
+Predlagatelj smatra da su odredbe Statuta Hrvatskog teniskog saveza u nesuglasju s odredbom članka 24. Zakona o športu ("Narodne novine", broj 111/97,13/98,127/00 i 24/01).
+Ustavni sud nije nadležan za odlučivanje.
+2. Člankom 128. točkama 1. i 2. Ustava propisano je da Ustavni sud odlučuje o suglasnosti zakona s Ustavom, te o suglasnosti drugih propisa s Ustavom i zakonom.
+Pod drugim propisom u smislu navedene ustavne odredbe podrazumijeva se općenormativni akt donesen unutar zakonskog ovlaštenja od strane nadležnog tijela državne vlasti, odnosno propis kojega tijela jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe s javnim ovlastima donose unutar svog djelokruga poslova utvrđenog Ustavom i zakonom, a koji uređuje odnose na općenit način i koji se odnosi u pravilu na neodređeni krug adresata.
+3. Iz odredaba Statuta Hrvatskog teniskog saveza utemeljenih na odredbama Zakona o udrugama i Zakona o športu, proizlazi da je Hrvatski teniski savez oblik dobrovoljnog udruživanja pravnih osoba i pojedinaca koje se udružuju radi zaštite i promicanja zajedničkih športskih interesa i ciljeva, a svojim se dobrovoljnim pristupom obvezuju provoditi odluke i zaključke nadležnih tijela Hrvatskog teniskog saveza i odgovorni su za njihovu primjenu.
+Slijedom navedenog, a s obzirom na tijelo koje je donijelo osporeni akt, način njegova donošenja i predmet njegova uređenja, Ustavni sud ocjenjuje da se u konkretnom slučaju ne radi o drugom propisu, u smislu odredbe članka 128. alineje 2. Ustava, koji bi mogao biti predmetom ocjene ustavnosti i zakonitosti pred Ustavnim sudom Republike Hrvatske.
+4. Prema odredbi članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 49/02 - pročišćen tekst), Ustavni sud će rješenjem odbaciti prijedlog za ocjenu suglasnosti drugog propisa s Ustavom i zakonom u slučaju kad nije nadležan za odlučivanje i u drugim slučajevima kada ne postoje pretpostavke za odlučivanje o biti stvari.
+Predlagatelj osporava akt koji Ustavni sud nije nadležan ocjenjivati, jer se ne radi o aktu iz članka 128. alineje 2. Ustava, pa je na temelju članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-5005/2004
+Zagreb, 19. siječnja 2005.
