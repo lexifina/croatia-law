@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE DRŽAVE IZRAEL O UKIDANJU VIZA ZA NOSITELJE SLUŽBENIH I OBIČNIH NACIONALNIH PUTOVNICA
+Vlada Republike Hrvatske i Vlada Države Izrael (u daljnjem tekstu "ugovorne stranke"), s obzirom na interes obiju zemalja u promicanju prijateljskih odnosa koji već postoje među njima, pozivajući se na razmjenu nota što tvore Sporazum između Vlade Republike Hrvatske i Vlade Države Izrael o ukidanju viza za diplomatske putovnice, u želji pojednostavljenja putnih formalnosti za državljane obiju zemalja, sporazumjele su se kako slijedi:

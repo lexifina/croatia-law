@@ -1,0 +1,4 @@
+# Članak 3.
+1. Državljani ugovornih stranaka, nositelji valjanih običnih nacionalnih putovnica mogu putovati na državno područje druge ugovorne stranke bez vize na razdoblje ne dulje od devedeset (90) dana.
+2. Državljani ugovornih stranaka, nositelji valjanih običnih nacionalnih putovnica koji namjeravaju boraviti više od devedeset (90) dana na državnom području druge ugovorne stranke dužni su unaprijed pribaviti vizu.
+3. Ovisno o gornjim odredbama, nositelji valjanih običnih nacionalnih putovnica koji uživaju pogodnosti temeljem ovog Sporazuma dužni su, tijekom boravka u Hrvatskoj odnosno u Izraelu, pridržavati se zakona i propisa primjenjivih na strance glede ulaska u zemlju i boravka, privremenog ili stalnog, te ne smiju prihvatiti nikakvo zaposlenje, plaćeno ili neplaćeno, niti obavljati bilo kakvu profesionalnu ili poslovnu djelatnost radi osobne dobiti ukoliko nisu dobili odgovarajuće odobrenje dotične Vlade.

@@ -1,0 +1,2 @@
+# Članak 4.
+Državljani ugovornih stranaka, nositelji valjanih nacionalnih putovnica koji, dok su na državnom području druge ugovorne stranke, izgube valjanu ispravu kojom se dopušta prijelaz državnih granica, dužni su o tome odmah obavijestiti odgovarajuća tijela u dotičnoj državi. Ta su tijela dužna bez naplate izdati potvrdu kojom se potvrđuje obavijest o gubitku. Diplomatska misija ili konzularni ured dotične države izdat će novu ispravu kojom se dopušta prijelaz državnih granica temeljem takve potvrde.
