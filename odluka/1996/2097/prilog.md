@@ -1,0 +1,272 @@
+TABLICA RASPODJELE SREDSTAVA ZA UBLAŽAVANJE ŠTETA OD ELEMENTARNIH NEPOGODA U 1996. GODINI
+Red.
+broj
+Županija-grad,
+općina
+I
+II
+| -u kunama-
+iznos
+pomoći
+za prvih
+devet mj.
+1996.
+iznos
+pomoći za
+10. i 11.
+mj. 1996.
+ukupno
+I+II
+A Pomoć za štete u poljoprivredi
+I ZAGREBAČKA
+1. Grad Samobor 57.312 57.312
+Općine:
+2. Pisarovina 38.731 38.731
+3. Dubravica 21.216 21.216
+4. Farkaševac 49.839 49.839
+5. Krašić 53.760 53.760
+6. Klinča Sela 61.025 61.025
+7. Sveta Nedjelja 107.637 107.637
+8. Farkaševac 59.866 59.866
+ukupno I 389.521 59.866 449.386
+II KRAPINSKO-ZAGORSKA
+Gradovi:
+9. Krapina 9.883 9.883
+10. Zabok 5.032 5.032
+11. Zlatar 24.113 24.113
+Općine:
+12. Kraljevec na Sutli 199.040 199.040
+13. Klanjec 170.281 170.281
+14. Budinšćina 9.395 9.395
+15. Desinić 5.398 5.398
+16. Donja Stubica 8.498 8.498
+17. Đurmanec 5.855 5.855
+18. Hrašćina 7.358 7.358
+19. Hum na Sutli 6.372 6.372
+20. Konjščina 9.561 9.561
+21. Krapinske Toplice 7.412 7.412
+22. Lobor 10.434 10.434
+23. Marija Bistrica 15.638 15.638
+24. Mihovljan 10.128 10.128
+25. Petrovsko 8.968 8.968
+26. Pregrada 14.067 14.067
+27. Radoboj 6.922 6.922
+28. Stubičke Toplice 5.359 5.359
+29. Sv. Križ Začretje 7.635 7.635
+30. Zagorska Sela 14.733 14.733
+ukupno II 562.081 562.081
+III KARLOVAČKA
+31. Grad Karlovac 25.599 111.710 137.309
+Općine:
+32. Draganići 177.008 177.008
+33. Ozalj 80.205 80.205
+ukupno III 282.812 111.709,60 394.522
+IV KOPRIVNIČKO-KRIŽEVAČKA
+34. Grad Križevci 16.436 16.436
+35. Općine:
+36. Sv. Petar Orehovec 48.298 48.298
+37. Sv. Ivan Žabno 2.860 2.860
+ukupno IV 67.593 67.593
+V BJELOVARSKO-BILOGORSKA
+Općine:
+38. Končanica 228.389 228.389
+39. Čazma 68.390 68.390
+40. Rovišće 36.495,00 36.495,00
+ukupno V 296.780 36.495,00 333.275
+VI LIČKO-SENJSKA
+41. Općina Perušić 154.320 154.320
+ukupno VI 154.320 154.320
+VII VIROVITIČKO-PODRAVSKA
+Gradovi:
+42. Slatina 500.000 500.000
+43. Virovitica 156.743 156.743
+Općine:
+44. Orahovica 328.626 328.626
+45. Zdenci 285.886 285.886
+46. Čačinci 197.041 197.041
+47. Crnac 500.000 500.000
+48. Čađavica 500.000 500.000
+49. Mikleuš 119.206 119.206
+50. Voćin 104.108 104.108
+51. Suhopolje 250.571 250.571
+52. Sopje 201.993 201.993
+53. Nova Bukovica 309.322 309.322
+ukupno VIII 3.453.496 3.453.496
+VIII POŽEŠKO-SLAVONSKA
+54. Grad Našice 500.000 500.000
+Općine:
+55. Feričanci 75.020 75.020
+56. Podgorač 500.000 500.000
+57. Đurđenovac 120.347 120.347
+ukupno VIII 1.195.367 1.195.367
+IX BRODSKO-POSAVSKA
+58. Grad Nova Gradiška 21.116 21.116
+Općine:
+59. Podcrkavlje 89.727 89.727
+60. Cernik 116.096 116.096
+61. Davor 297.211 297.211
+62. Nova Kapela 171.016 171.016
+63. St. Petrovo Selo 309.551 309.551
+64. Oriovac 2.087 2.087
+65. Bebrina 181 181
+66. Klakar 3.184 3.184
+67. Oprisavci 8.899 8.899
+68. Garčin 24.632 24.632
+69. D. Andrijevci 8.373 8.373
+70. Vrpolje 8.321 8.321
+71. Gundinci 560 560
+ukupno IX 89.727 971.229 1.060.956
+X ZADARSKO-KNINSKA
+Općine:
+72. Ražanac 101.792 101.792
+73. Posedarje 108.379 108.379
+74. Poličnik 59.646 59.646
+75. Smilčić 78.638 78.638
+76. Novigrad 16.957 16.957
+77. Nin 81.325 81.325
+78. Lisičić 108.107 108.107
+ukupno X 446.735 108.107 554.842
+XI OSJEČKO-BARANJSKA
+Gradovi:
+79. Valpovo 99.984 99.984
+80. Đakovo 336.781 336.781
+Općine:
+81. Moslavina Podravska 150.619 170.442 321.061
+82. Koška 255.580 255.580
+83. Gorjani 364.750 364.750
+84. Satnica Đakovačka 83.931 83.931
+85. Viškovci 238.785 238.785
+86. Semeljci 500.000 500.000
+87. Čepin 104.005 104.005
+88. Strizivojna 12.185 12.185
+89. Bizovac 204.384 204.384
+90. Punitovci 100.718 100.718
+91. Trnava 14.937 14.937
+92. Drenje 125.329 125.329
+93. Vuka 242.075 242.075
+94. Antunovac 29.301 29.301
+95. Petrijevci 53.163 53.163
+96. Donji Miholjac 74.857 74.857
+97. Marijanci 29.882 29.882
+98. Šljivoševci 52.906 52.906
+99. Viljevo 79.517 79.517
+100. Belišće 48.321 48.321
+ukupno XI 1.593.665 1.778.785 3.372.450,21
+XII ŠIBENSKA
+Gradovi:
+101. Šibenik 191.364 191.364
+102. Drniš 256.384 256.384
+Općine:
+103. Skradin 24.718 24.718
+104. Oklaj 9.065 9.065
+105. Ružić 16.394 16.394
+106. Unešić 9.808 9.808
+107. Vodice 2.095 2.095
+108. Primošten 12.760 12.760
+109. Tisno 189 189
+ukupno XII 522.777 522.777
+XIII VUKOVARSKO-SRIJEMSKA
+Gradovi:
+110. Vinkovci 27.882 83.988 111.870
+111. Županja 95.713 20.743 116.456
+Općine:
+112. Drenovci 145.951 149.297 295.248
+113. Ivankovo 148.114 33.363 181.477
+114. Stari Mikanovci 24.715 89.935 114.650
+115. Nijemci 30.574 62.374 92.948
+116. Gradište 452.864 50.044 502.908
+117. Babina Greda 19.372 5.802 25.175
+118. Cerna 443.262 29.301 472.563
+119. Gunja 69.679 69.679
+120. Andrijaševci 57.696 57.696
+121. Jarmina 58.893 58.893
+122. Tordinci 15.086 15.086
+123. Otok 550.048 550.048
+124. Nuštar 18.422 18.422
+125. Bošnjaci 23.499 23.499
+126. Vrbanja 93.706 93.706
+ukupno XIII 1.458.125 1.342.199 2.800.323,47
+XIV SPLITSKO-DALMATINSKA
+Gradovi:
+127. Trogir 500.000 500.000
+128. Kaštela 500.000 500.000
+129. Omiš 29.127 6.994 36.122
+130. Sinj 517.655 517.655
+Općine:
+131. Proložac 340.230 340.230
+132. Zmijavci-Runović 212.294 212.294
+133. Hrvace 42.189 42.189
+134. Stari Grad 49.479 49.479
+135. Bol 16.606 16.606
+136. Jelsa 21.803 21.803
+137. Seget 157.925 157.925
+138. Šestanovac 26.008 26.008
+139. Kaštelanska Zagora 188.731 188.731
+140. Vrgorac 367.738 367.738
+141. Muć 14.378 14.378
+142. Vrlika 361.788 361.788
+ukupno XIV 1.895.662 1.457.284 3.352.947
+XV ISTARSKA
+Gradovi:
+143. Rovinj 246.798 246.798
+144. Buzet 216.796 216.796
+145. Pazin 333.626 333.626
+146. Poreč 500.000 500.000
+Općine:
+147. Umag 151.755 151.755
+148. Vižinada 339.760 339.760
+149. Višnjan 249.844 249.844
+150. Vrsar 188.984 188.984
+151. Sv. Lovreč 185.376 185.376
+152. Gračišće 7.092 7.092
+153. Lupoglav 15.735 15.735
+154. Tinjan 267.678 267.678
+155. Cerovlje 478.990 478.990
+156. Brtonigla 92.106 92.106
+157. Žminj 36.110 36.110
+158. Pićan 20.069 20.069
+159. Kanfanar 2.006 2.006
+160. Vodnjan 2.169 2.169
+ukupno XV 3.334.892 3.334.892
+XVI DUBROVAČKO-NERETVANSKA
+161. Grad Ploče 77.792 77.792
+162. Općine:
+163. Kula Norinska 328.941 328.941
+164. Pojezerje 442.073 442.073
+165. Blato 61.260 61.260
+166. Slivno 134.326 134.326
+ukupno XVI 910.067 134.326 1.044.392
+XVII MEĐIMURSKA
+167. Općina Prelog 27.952 27.952
+ukupno XVII 27.952 27.952
+UKUPNO A 16.681.573 6.000.000 22.681.573
+B Pomoć za ostale štete
+I POTRES
+1 DUBROVAČKO-NERETVANSKA
+168. Grad Dubrovnik i Općina
+Ston potres-rujan 1996. 3.018.427 2.437.831 5.456.258
+ukupno 1 3.018.427 2.437.831 5.456.258
+II OSTALO
+2 ZADARSKO-KNINSKA
+169. Općina Obrovac-poplava 100.000 100.000
+ukupno 2 100.000 100.000
+3 VARAŽDINSKA
+Općine:
+170. Bednja, Lepoglava, Visoko, Jalžabet, Cestica, Vinica,
+179. Ljubešćica, Ivanec,
+Donja Voća 100.000 100.000
+ukupno 3 100.000 100.000
+4 ZAGREBAČKA
+180. Općina Dubrava 100.000 100.000
+ukupno 4 100.000 100.000
+UKUPNO B 3.318.427 2.437.831 5.756.258
+C Eksplozija-požar
+5 BRODSKO-POSAVSKA
+181. Grad Slavonski Brod 3.166.097 3.166.097
+ukupno 5 3.166.097 3.166.097
+UKUPNO C 3.166.097 3.166.097
+D Hitna pomoć u
+u tijeku 1996. g. 5.396.072 5.396.072
+UKUPNO D 5.396.072 5.396.072
+SVEUKUPNO
+A+B+C+D 20.000.000 17.000.000 37.000.000
