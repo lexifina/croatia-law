@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 6. mijenja se i glasi:
+"Uvjerenje (atest) o tehničkom pregledu pravna osoba ovlaštena za obavljanje tehničkog pregleda može izdati ako se prilikom tehničkog pregleda utvrdi da je automat tehnički ispravan u pogledu sigurnosti rada, da ima sve propisane i ispravne uređaje za igranje, da ispunjava propisane uvjete iz čl.13,14.15,16, 22. i 23. Zakona o igrama na sreću i zabavnim igrama, odnosno da ima ugrađen uređaj za kontrolu rada automata za igre na sreću i zabavne igre."
