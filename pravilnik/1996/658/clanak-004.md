@@ -1,0 +1,2 @@
+# Članak 4.
+Spis kaznene evidencije sadrži: osobne podatke o počinitelju kaznenog djela; podatke o izrečenim kaznama, mjerama sigurnosti, uvjetnim osudama, sudskim opomenama i presudama kojima je počinitelj kaznenog djela oslobođen kazne i o pravnim posljedicama osude; naknadne promjene podataka o osudama koje su unesene u kaznenu evidenciju (djelovanje izvanrednih pravnih lijekova, amnestija i pomilovanje), te podatke o izvršenoj kazni i o poništenju upisa neopravdane osude.
