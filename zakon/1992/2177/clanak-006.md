@@ -1,0 +1,2 @@
+# Članak 6.
+U odredbama Zakona o javnom pravobranilaštvu riječ i: "javno pravobranilaštvo" zamjenjuju se riječima: "javno pravobraniteljstvo", riječi: "javni pravobranilac i zamjenik javnog pravobranioca" zamjenjuju se riječima: "javni pravobranitelj i zamjenik javnog pravobranitelja., riječi: "gradska zajednica općina, društveno-politička zajednica", zamjenjuju se riječima: "općina, grad, odnosno Republika" u odgovarajućim padežima. Riječi "samoupravnih organizacija i zajednica, brišu se.
