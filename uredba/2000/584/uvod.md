@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. Ustavnog zakona o suradnji Republike Hrvatske s Međunarodnim kaznenim sudom (»Narodne novine«, broj 32/96) i članka 26. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj 24. veljače 2000. godine donijela
