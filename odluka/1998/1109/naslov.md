@@ -1,0 +1,1 @@
+Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Bayerische Vereinsbank, Munchen, koji će se koristiti za kreditiranje isporuke traktora tvrtke "Astra Industrija-Progres" d.o.o., Jastrebarsko
