@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, predsjednik Suda, te suci Marijan Hranjski, Mario Kos, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Željko Potočnjak, Agata Račan, Smiljko Sokol, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, rješavajući u postupku za ocjenu suglasnosti s Ustavom zakona, na sjednici održanoj dana 11. svibnja 2004. godine, donio je
