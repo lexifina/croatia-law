@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz domovinskog rata ("Narodne novine" broj 36/95) i članka 17. Zakona o sustavu državne uprave ("Narodne novine" broj 75/95) ministar obrane, uz suglasnost ministra zdravstva, donosi

@@ -1,0 +1,4 @@
+# Članak 19.
+U slučaju nezadovoljstva HRVI-a 100% I grupe s njegovateljem ili s njegovim uslugama njege i pomoći, HRVI može usmeno ili pismeno izvijestiti voditelja referade za skrb u referadi za skrb mjesno nadležnog ureda za obranu da uskraćuje danu suglasnost za pružanje njege i pomoći.
+Ako se radi o usmenoj uskrati, voditelj referade za skrb o tome sačinjava zapisnik. Izvješće o usmenom ili pismenom uskraćivanju suglasnosti referada za skrb ureda za obranu dostavlja Stručnoj komisiji za davanje mišljenja o izboru njegovatelja Ministarstva obrane.
+U slučaju da osobi koja pruža njegu i pomoć otpadne koji uvjet iz članka 10. ovog Pravilnika ili HRVI 100% I grupe uskrati svoju suglasnost za pružanje njege i pomoći, mjesno nadležan ured za obranu donosi rješenje toj osobi o prestanku statusa njegovatelja i prava iz članka 12. stavak 1. ovog Pravilnika.

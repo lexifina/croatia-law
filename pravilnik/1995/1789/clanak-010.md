@@ -1,0 +1,3 @@
+## KRITERIJ ZA IZBOR NJEGOVATELJA
+# Članak 10.
+Njegovateljem postaje ona osoba koja ispunjava sljedeće uvjete: punoljetnost, opća psihofizička i zdravstvena sposobnost za pružanje njege i pomoći; da nije zaposlena, odnosno da nije osigurana u mirovinskom osiguranju; da nije osuđena niti se protiv nje vodi krivični postupak za kazneno djelo protiv Republike Hrvatske; da joj nije oduzeta poslovna sposobnost; da joj nije oduzeto roditeljsko pravo; da je s uspjehom završila tečaj osposobljavanja za pružanje njege i pomoći; da ima suglasnost invalida kojem će pružati uslugu njege i pomoći; da ima pozitivno mišljenje Stručne komisije za davanje mišljenja o izboru njegovatelja.
