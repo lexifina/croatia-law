@@ -1,0 +1,1 @@
+Na temelju članka 22. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu ("Narodne novine", br. 28/94), Odbor za izbor, imenovanja i administrativne poslove Zastupničkog doma Sabora Republike Hrvatske, na sjednici 14. studenoga 1994. donio je
