@@ -1,0 +1,3 @@
+# Članak 2.
+Izvaci iz državnih matica namijenjeni inozemstvu (u nastavku teksta: izvaci), izdaju se na obrascima A, B i C, tiskanim u Prilogu 1 i 2 uz ovaj pravilnik i čine njegov sastavni dio. Obrasci iz Priloga 1 namijenjeni su uporabi u državama koje su pristupile Konvenciji o izdavanju izvadaka matičnih knjiga na više jezika (Bečka konvencija).
+Obrasci iz Priloga 2 namijenjeni su uporabi u državama koje su pristupile Kovenciji o izdavanju određenih izvadaka iz matičnih knjiga namijenjenih inozemstvu (Pariška konvencija), a nisu pristupile Konvenciji o izdavanju izvadaka iz državnih matica na više jezika (Bečka konvencija).

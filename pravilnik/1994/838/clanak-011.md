@@ -1,0 +1,2 @@
+# Članak 11.
+O izdanim izvacima vodi se evidencija. Evidencija iz stavka 1. ovog članka sadrži: redni broj, naziv izvatka, serijski broj, ime i prezime odnosno naziv podnositelja zahtjeva, ime i prezime osobe za koju se izvadak izdaje, redni broj i godina upisa u državnu maticu, datum izdavanja izvatka i potpis matičara. Evidencija se zaključuje svake kalendarske godine i ovjerava pečatom nadležnog tijela državne uprave i potpisom matičara.

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se pravilnikom propisuju obrasci izvadaka i načini izdavanja iz državnih matica namijenjenih inozemstvu, sukladno Konvenciji o izdavanju određenih izvadaka iz matičnih knjiga namijenjenih inozemstvu, potpisanoj 27. rujna 1956. godine u Parizu (Pariška konvencija) i Konvenciji o izdavanju izvadaka iz matičnih knjiga na više jezika, potpisanoj 8. rujna 1976. godine u Beču (Bečka konvencija).
