@@ -1,0 +1,3 @@
+# Članak 3.
+Podatke o pojavi i rasprostranjenosti novootkrivenih karantenskih štetočinja bilja, nakon provedenog postupka determinacije iz članka 2. ovog pravilnika, mogu objavljivati znanstveni djelatnici koji se bave proučavanjem štetočinja bilja, znanstvene ustanove za proučavanje štetočinja bilja i tijela državne uprave nadležna za poslove zaštite bilja nakon pribavljene sugfasnosti Ministarstva.
+Ministarstvo izdaje suglasnost iz stavka 1. ovog članka na temelju dostavljenih podataka o pojavi i rasprostranjenosti novootkrivenih karantenskih biljnih štetočinja i dokumentacije s potvrdom o determinaciji.
