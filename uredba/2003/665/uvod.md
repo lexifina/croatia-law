@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 26/97 i 47/99) i članka 10. stavaka 1. i 6. i članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 27. ožujka 2003. godine, donijela
