@@ -1,0 +1,2 @@
+# Članak 6.
+Ministarstvo obrane dužno je u roku od 90 dana od dana primitka prijave patenta koju je ustupio Zavod, rukovodeći se kriterijima iz članka 3. ove Uredbe, provesti upravni postupak za ocjenu priznanja patenta za povjerljivi izum u skladu s odredbama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme i Zakona o patentu, te o rezultatu ispitivanja obavijestiti podnositelja prijave i Zavod.

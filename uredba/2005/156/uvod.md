@@ -1,0 +1,1 @@
+Na temelju članka 38. Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, br. 33/2002 i 173/2003), Vlada Republike Hrvatske je na sjednici održanoj 13. siječnja 2005. donijela
