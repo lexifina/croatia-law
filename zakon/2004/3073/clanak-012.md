@@ -1,0 +1,6 @@
+## V. REGISTAR
+# Članak 12.
+(1) REGOS vodi registar o podacima iz članka 2. i članka 11. stavka 2. ovoga Zakona.
+(2) REGOS prema podacima iz registra vodi jedinstveno računovodstvo osobnih računa članova mirovinskih fondova, koje obuhvaća: zaprimanje ukupnog iznosa uplate za individualnu kapitaliziranu štednju, njezino povezivanje s podacima pripadajućeg Obrasca R-Sm, prosljeđivanje sredstava u OMF i OMD, obavljanje konverzije u obračunske jedinice te evidentiranje na osobnim računima članova mirovinskih fondova; vođenje evidencije o osobnim računima članova mirovinskih fondova; prijenos sredstava iz jednog u drugi mirovinski fond, zatvaranje osobnih računa i prosljeđivanje sredstava zakonskim primateljima; prosljeđivanje nepovezanih uplata na privremeni račun te uplata za osiguranike koji u zakonskom roku nisu odabrali OMF; povlačenje naknadno povezanih uplata s privremenog računa; povlačenje sredstava iz OMF na temelju podnesenih korektivnih Obrazaca R-Sm i uspostavljanje sustava tokova podataka potrebnih za vođenje jedinstvenog računovodstva osobnih računa.
+(3) Način i postupak vođenja registra, te ispravak podataka u registru propisuje pravilnikom Upravno vijeće REGOS-a.
+(4) U obavljanju poslova iz stavka 1. i 3. ovoga članka REGOS ima javne ovlasti.
