@@ -1,0 +1,1 @@
+Na temelju članka 73. stavak 3. Carinskog zakona (»Narodne novine«, br. 78/99, 94/99, 179/99, 73/00, 92/01 i 47/03) i članka 91. stavak 8., članka 120. i članka 221. stavak 3. Uredbe za provedbu Carinskog zakona (»Narodne novine«, br. 161/03), ministar financija donosi
