@@ -1,0 +1,8 @@
+# Članak 5.
+1. Svaka od ugovornih stranaka treba poduzeti sve neophodne mjere da bi se sačuvala tajnost podataka koje je dobila od druge ugovorne stranke, ako su oni tajn~g karaktera ili ako ugovorna stranka koja ih dostavlja smatra nepoželjnim davanje u javnost njihovog sadriaja. Ugovorna stranka koja dostavlja podatke odreduje stupanj njihove tajnosti.
+2. Ugovorna stranka koja je dobila podatke koji se odnose na prava i slobode gradana moie ih koristiti samo u one svrhe i uz one uvjete koje je naznačila ugovorna stranka koja ih je dala.
+3. Podaci o Građanima predaju se samo sluibama za borbu protiv zloćina, terorizma, nezakonite trgovine opojnim sredstvima i organiziranog zločina.
+4. U slučajevima kada gradanin o kojemu su predani podaci moli da ga se o tome informira, ugovorne stranke su duine izvijestiti ga o sadriaju i svrsi njihovog korištenja. Ova informacija se ne daje ako je tako predviđeno zakonodavstvom države ugovorne stranke.
+5. Ugovorne stranke osiguravaju tajnost podataka od neovlaštenog korištenja, a također ne dopuštaju njihovu promjenu ili objavu. Ugovorne stranke osiguravaju kontrolu i registraciju primanja, prijenosa i uništavanja poda taka o Građanima na način, utvrden zakonodavstvom države ugovorne stranke.
+e. Na zahtjev ugovorne stranke koja je dala podatke, ugovorna stranka koja ih je dobila obvezna je dati informaciju kako ih je koristila i koje je rezultate zahvaljujući njima postigla.
+7. Materijali, informacije, tehnička i ina sredstva dobivena u skladu s ovim Ugovorom mogu se predati trećoj Strani samo uz suglasnost ugovorne stranke koje ih je predala.
