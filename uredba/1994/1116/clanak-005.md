@@ -1,0 +1,2 @@
+# Članak 5.
+Upravno vijeće Centra donosi statut koji potvrđuje Vlada Republike Hrvatske. odnosno godišnji program Centra i prati njegovo izvršenje. donosi proračun prihoda i rashoda Centra, odlučuje o svim bitnim pitanjima vezanim uz poslovnu politiku i ostvarivanje ciljeva Centra. određuje bitna pitanja vezana uz poslovnu politiku i ciljeve Centra, donosi poslovnik o svom radu. odlučuje o unapređivanju rada i učinkovitosti poslovanja, kupnji, prodaji ili terećenju nekretnina u vlasništvu Centra, zaduživanju Centra i odlučuje o drugina pitanjima utvrdenim statutom Centra.

@@ -1,0 +1,2 @@
+# Članak 7.
+Ravnatelj Centra rukovodi Centrom, zastupa i predstavlja Centar i odgovoran je za njegov rad te u sklopu prava i dužnosti utvrđenih ovom Uredbom organizira i osigurava zakonito i učinkovito obavljanje poslova iz djelokruga rada Centra, predlaže Upravnom vijeću Centra donošenje akata iz njegove nadležnosti i izvršava odluke Upravnog vijeća Centra, te obavlja druge poslove koji su mu statutom ili drugim aktom Centra stavljeni u nadležnost.
