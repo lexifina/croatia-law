@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog graniČnog prijelaza za meĐunarodni promet I. kategorije u rijeČnoj luci Osijek
+# Članak 1.
+Područje stalnog graničnog prijelaza za međunarodni riječni promet I. kategorije u riječnoj luci Osijek, nalazi se u Osijeku, na k.č. 6286, 6290, 6679/16, 2402, k.o. Osijek, te obuhvaća: desnu obalu rijeke Drave, od 18,610 rkm do 17,940 rkm rijeke Drave u dužini od 670 metara, prostor od obale rijeke Drave do zida spojenih objekata koji se protežu cijelom dužinom graničnog prijelaza, ukupne širine 41 m. Područje graničnog prijelaza nalazi se u krugu poduzeća »Luka i skladišta - Tranzit« Osijek, Donjodravska obala 6, a s istočne i zapadne strane ograđeno je žicom.
+Područje graničnog prijelaza obuhvaća sljedeće objekte i uređaje: službene prostorije granične policije, carine, špedicije, skladišta poduzeća »Luka i skladišta - Tranzit«, pet željezničkih kolosijeka, terminala za rasute terete, pristaništa za teretne brodove, te uređaje za rasvjetu graničnog prijelaza.
+Ukupna površina područja graničnog prijelaza za međunarodni riječni promet iznosi 27 470 m2.
