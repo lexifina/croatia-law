@@ -1,0 +1,1 @@
+Na temelju članka 49. stavak 3. i članka 54. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003.), članka 105. stavak 1. točka 2. Zakona o bankama (»Narodne novine«, br. 84/2002.) te članka 39. stavak 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) guverner Hrvatske narodne banke donio je 17. prosinca 2003.
