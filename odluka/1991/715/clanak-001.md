@@ -1,0 +1,3 @@
+## o izmjeni Odluke o visini naknade za ceste što se plaćaju na cestovna motorna vozila s pogonom na plin
+# Članak 1.
+U Odluci o visini naknade za ceste što se plaćaju na cestovna motorna vozila s pogonom na plin ("Narodne novine", br. 5/91) članak 2. mijenja se i glasi: "Godišnja naknada za ceste što se plaća na cestovna motorna vozila s pogonom na plin (propan, butan i sl.) iznosi 2.400,00 dinara po vozilu. Korisnici vozila koja imaju ugrađeni pogon na plin plaćaju, uz godišnju naknadu iz stavka 1. ovog članka prilikom registracije i produženja registracije vozila i godišnju naknadu prema radnom obujmu motora prema odredbama Odluke o visini godišnje naknade za upotrebu cesta što se plaća za cestovna motorna i priključna vozila".
