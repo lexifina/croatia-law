@@ -1,0 +1,73 @@
+REPUBLIKA HRVATSKA
+
+VRHOVNI SUD REPUBLIKE HRVATSKE
+
+Z A G R E B
+
+Broj: Rev-1143/1998-2
+
+U I M E R E P U B L I K E H R V A T S K E
+
+P R E S U D A I R J E Š E N J E
+
+Vrhovni sud Republike Hrvatske u Zagrebu u vijeću sastavljenom od sudaca dr. Ive Grbina kao predsjednika vijeća, te Miroslave Vekić, Tome Gložinića, Jakoba Miletića i Katarine Buljan kao članova vijeća, u pravnoj stvari tužitelja J. J. iz S., kojeg zastupa punomoćnik A. M., odvjetnik iz S. protiv tuženice Osnovne škole "Sućidar" iz Splita, radi utvrđenja i isplate, rješavajući reviziju izjavljenu od tužitelja protiv pravomoćne presude Županijskog suda u Splitu od 10. srpnja 1997. godine broj Gž-1220/97, kojim je djelomično potvrđena i djelomično ukinuta presuda i odbačena tužba u predmetu Općinskog suda u Splitu od 29. siječnja 1997. godine broj P-927/96, u sjednici održanoj dana 9. srpnja 1998. godine,
+
+presudio i riješio je:
+
+Revizija tužitelja J.J. odbija se kao neosnovana.
+
+Obrazloženje
+
+Presudom Općinskog suda u Splitu od 29. siječnja 1997. godine broj P-927/96 suđeno je: "I. Utvrđuje se da je tužitelj J.J., temeljem navršenih 30 godina radnog staža i radnog odnosa kod tuženika 1994. godine stekao pravo na jubilarnu nagradu za navršenih 30 godina radnog staža.
+
+II. Dužna je tužena isplatiti tužitelju jubilarnu nagradu za navršenih 30 godina radnog staža u iznosu od 1.600,00 kn sa zateznom kamatom koja teče od 20. travnja 1996. godine do isplate, te naknaditi tužitelju troškove ovog spora, sve u roku od 15 dana i pod prijetnjom ovrhe."
+
+Presudom i rješenjem Županijskog suda u Splita od 10. srpnja 1997. godine broj Gž-1220/97 odlučeno je:
+
+" p r e s u d i o j e :
+
+Odbija se žalba tužitelja kao neosnovana i presuda suda prvog stupnja potvrđuje u dijelu kojim je odbijen zahtjev tužitelja za isplatu jubilarne nagrade u iznosu od 1.600,00 kn sa zateznim kamatama od 20. travnja 1996. godine do isplate.
+
+r i j e š i o j e :
+
+Povodom žalbe tužitelja ukida se pobijana presuda i odbacuje tužba sa tužbenim zahtjevom kojim je traženo utvrđenje da je tužitelj temeljem radnog odnosa kod tužene i ostvarenih 30 godina radnog staža u 1994. godini stekao pravo na jubilarnu nagradu prema odredbi članka 55. Općeg kolektivnog ugovora."
+
+Protiv ove pravomoćne presude i rješenja reviziju je izjavio tužitelj zbog bitne povrede odredaba parničnog postupka i pogrešne primjene materijalnog prava te predložio da sud reviziju prihvati i pobijanu presudu preinači tako da tužbeni zahtjev tužitelja u cijelosti prihvati i da tuženici naloži plaćanje parničnog troška uključujući i trošak revizijske faze postupka.
+
+Pravovremenu, potpunu i dopuštenu reviziju tužitelja sud prvog stupnja dostavio je, pozivom na odredbu čl. 390. st. 1. Zakona o parničnom postupku ("Narodne novine", broj 53/91 i 91/92 - dalje ZPP), na odgovor tuženici i na izjašnjenje nadležnom državnom odvjetniku.
+
+Tuženica nije odgovorila na izjavljenu reviziju tužitelja niti se o istoj izjasnio Državni odvjetnik Republike Hrvatske.
+
+Revizija nije osnovana.
+
+Ispitujući pobijanu presudu ovaj sud nalazi da ne postoji bitna povreda iz čl. 354. st. 2. toč. 10. ZPP na koju bitnu povredu revizijski sud pazi, pozivom na odredbu čl. 386. spomenutog Zakona, po službenoj dužnosti.
+
+Neosnovana je i tvrdnja revidenta o postojanju bitne povrede iz čl. 354. st. 2. toč. 13. ZPP. Ovo iz razloga što pobijana presuda i rješenje sadrže valjane razloge o svim pravno odlučnim okolnostima slijedom čega je ovaj sud u mogućnosti ispitati pravilnost i zakonitost pobijane presude i rješenja. Nije počinjena ni bitna povreda iz odredbe čl. 354. st. 1. u svezi sa čl. 375. st. 1. ZPP jer je drugostupanjski sud u obrazloženju presude i rješenja ocijenio one žalbene navode koji su od odlučnog značenja.
+
+Zbog navedenih se razloga u ovoj pravnoj stvari nije ostvario revizijski razlog bitne povrede odredaba parničnog postupka.
+
+Neosnovana je tvrdnja revidenta da su pobijana presuda i rješenja zasnovani na pogrešnoj primjeni materijalnog prava te da se zato ostvario revizijski razlog propisan čl. 385. st. 1. toč. 3. ZPP.
+
+Sud prvog stupnja je utvrdio, a sud drugog stupnja ocijenio pravilnima utvrđenja suda prvog stupnja iz kojih proizlazi:
+
+- da je tužitelj zaposlen kod tuženika te da je navršio 30 godina radnog staža 1994. godine,
+
+- da nije sporno da se tuženica financira iz sredstava državnog proračuna te da u proračunima grada S. za 1993., 1994. i 1995. godinu nisu osigurana sredstva za isplatu jubilarne nagrade u osnovnim školama.
+
+Na takvo utvrđeno činjenično stanje sud drugog stupnja je pravilno primijenio materijalno pravo kad je ocijenio tužbeni zahtjev tužitelja za isplatu jubilarne nagrade neosnovanim.
+
+Tužitelj svoj tužbeni zahtjev zasniva na čl. 55. Kolektivnog ugovora za javne djelatnosti i javna poduzeća ("Narodne novine", broj 66/92) koji uređuje određena prava iz radnog odnosa na temelju izričitog zakonskog ovlaštenja iz čl. 92. i 93. Zakona o radnim odnosima ("Narodne novine", broj 25/92).
+
+Pravilna je ocjena drugostupanjskog suda da ne postoji obveza tuženice za isplatu jubilarne nagrade jer za to nisu bila osigurana sredstva u državnom proračunu. Naime, odredbom čl. 19. Zakona o izvršavanju državnog proračuna Republike Hrvatske ("Narodne novine", broj 28/94), korisnici državnog proračuna nisu mogli isplaćivati sredstva za ostala materijalna prava osim za naknadu troškova prehrane, troškova prijevoza na posao i s posla, otpremnine, dnevnice, terenskog dodatka i pomoći u slučaju smrti. Ovaj članak, dakle, navodi taksativno materijalna prava za čiju isplatu su osigurana sredstva korisnicima državnog proračuna.
+
+Sredstva za isplatu jubilarnih nagrada nisu bila osigurana ni u proračunu jedinice lokalne uprave i samouprave u smislu čl. 11. st. 6. Zakona o osnovnom školstvu ("Narodne novine", broj 59/90 i 27/93). Prema tome, navedenom odredbom stečeno pravo tužitelja na jubilarnu nagradu je uvjetovano osiguranjem sredstava za tu namjenu u državnom proračunu.
+
+U odnosu na dio pobijane odluke suda drugog stupnja kojom je djelomično prvostupanjska presuda i tužba odbačena valja navesti da čak kad u ovoj pravnoj stvari i ne bi bilo mjesta odbacivanju tužbe s deklaratornim tužbenim zahtjevom, deklaratorni tužbeni zahtjev s obzirom na spomenuti čl. 19. st. 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu bi trebalo odbiti kao što je to učinio sud prvog stupnja. Dakle, odluka drugostupanjskog suda je s pozicije procesnog stajališta za tužitelja povoljnija od odluke prvostupanjskog suda.
+
+Iz navedenih je razloga odlučeno kao u izreci ove presude i rješenja.
+
+U Zagrebu, 9. srpnja 1998. godine.
+
+Predsjednik vijeća:
+
+dr. Ivo Grbin, v.r.
