@@ -1,0 +1,2 @@
+UGOVOR O TURISTIČKOJ SURADNJI, IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE BUGARSKE
+Vlada Republike Hrvatske i Vlada Republike Bugarske, u daljnjem tekstu »ugovorne strane«, vođene zajedničkom željom za produbljivanjem tradicionalno prijateljskih odnosa i potrebom za razvitkom sveobuhvatne i višestruke uzajamne suradnje na području turizma, svjesni povećanog značaja turizma, ne samo za ekonomiku dviju država, već i za razumijevanje između dva naroda, s namjerom da suradnja na području turizma služi dobrobiti dvaju naroda, dogovorili su sljedeće:
