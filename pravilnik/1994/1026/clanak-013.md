@@ -1,0 +1,3 @@
+## Stupanje pravilnika na snagu
+# Članak 13.
+(1) Ovaj pravilnik stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
