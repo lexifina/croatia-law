@@ -1,0 +1,6 @@
+# Članak 9.
+Vlada Republike Hrvatske će, u roku od 60 dana od dana stupanja na snagu ovoga Zakona uredbama urediti unutarnje ustrojstvo Ministarstva vanjskih poslova i europskih integracija i Državnog zavoda za mjeriteljstvo.
+Čelnici tijela iz stavka 1. ovoga članka donijet će pravilnike o unutarnjem redu prema odredbama ovoga Zakona, u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovog članka.
+Unutarnje ustrojstvene jedinice Ministarstva vanjskih poslova i Ministarstva europskih integracija, nastavljaju s radom kao unutarnje ustrojstvene jedinice Ministarstva vanjskih poslova i europskih integracija, do stupanja na snagu uredbe iz stavka 1. ovog članka.
+Državni službenici i namještenici središnjih tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug nastavljaju s radom na poslovima na kojima su zatečeni u trenutku stupanja na snagu ovoga Zakona i zadržavaju plaće prema dosadašnjim propisima, do donošenja rješenja o rasporedu na radna mjesta prema pravilniku iz stavka 2. ovog članka.
+Državni službenici i namještenici Državnog zavoda za normizaciju i mjeriteljstvo koji obavljaju poslove normizacije i akreditacije nastavljaju s radom u Državnom zavodu za mjeriteljstvo, do početka rada Hrvatske akreditacijske agencije i Hrvatskog zavoda za norme.
