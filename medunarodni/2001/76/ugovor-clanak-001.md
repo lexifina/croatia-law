@@ -1,0 +1,2 @@
+# Članak 1.
+Svaka će ugovorna stranka na zahtjev druge ugovorne stranke prihvatiti na teritorij svoje države svaku osobu koja ne ispunjava ili više ne ispunjava važeće uvjete ulaska ili boravka koji se primjenjuju na teritoriju države ugovorne stranke koja zahtijeva prihvat, ukoliko se utvrdi ili se može opravdano pretpostaviti da je osoba državljanin države ugovorne stranke kojoj je zahtjev upućen.

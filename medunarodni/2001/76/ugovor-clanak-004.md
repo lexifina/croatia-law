@@ -1,0 +1,2 @@
+# Članak 4.
+Svaka će ugovorna stranka, na zahtjev druge ugovorne stranke, prihvatiti na teritorij vlastite države državljanina treće države ili osobu bez državljanstva (u daljnjem tekstu: »državljanin treće države«) koji ne ispunjava ili više ne ispunjava važeće uvjete ulaska ili boravka koji se primjenjuju na teritoriju države ugovorne stranke koja podnosi zahtjev, ukoliko se utvrdi ili se opravdano pretpostavi da je taj državljanin treće države ušao na teritorij njezine države, nakon što je boravio na teritoriju države ugovorne stranke od koje se zahtijeva prihvat.
