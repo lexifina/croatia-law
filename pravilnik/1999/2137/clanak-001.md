@@ -1,0 +1,2 @@
+# Članak 1.
+Rudarsko trgovačko društvo i rudarski obrtnik podnose, tijelu državne uprave, koje je izdalo odobrenje za istraživanje mineralnih sirovina, odnosno koje je odobrilo eksploatacijsko polje, zahtjev za provjeru rudarskog projekta po kojem se planiraju izvoditi rudarski radovi, te graditi objekti i postrojenja izravno vezana za istraživanja i eksploataciju mineralnih sirovina podzemnim rudarskim radovima, kao i za objekte i postrojenja izravno vezana za istraživanje i eksploataciju nafte i prirodnog plina.

@@ -1,0 +1,6 @@
+# Članak 12.
+Kada se provjerom utvrdi i na sjednici Stručnog povjerenstva zaključi da pojedina rješenja predviđena rudarskim projektom nisu u skladu s propisanim mjerama i normativima glede kojih se obavlja provjera, rudarsko trgovačko društvo odnosno rudarski obrtnik dužan je obaviti ispravke i dopune u roku i sukladno primjedbama iz zapisnika sa sjednice Stručnog povjerenstva za provjeru rudarskog projekta.
+Rok u kojem je potrebno obaviti ispravke i dopune rudarskog projekta sukladno zapisniku sa sjednice Stručnog povjerenstva za provjeru rudarskog projekta, iznosi najviše tri mjeseca od dana održane sjednice i uručenog zapisnika o provjeri rudarskog projekta.
+Iznimno od odredbe iz stavka 2. ovog članka, tijelo državne uprave koje je osnovalo Stručno povjerenstvo, ako za to postoje opravdani razlozi, može produžiti rok za obavljanje ispravaka i dopuna u rudarskom projektu sukladno zapisniku sa sjednice Stručnog povjerenstva za provjeru rudarskog projekta.
+Obavljene ispravke i dopune u rudarskom projektu provjerava Stručno povjerenstvo u cijelom sastavu ili putem pojedinog člana ovlaštenog na sjednici Stručnog povjerenstva za provjeru rudarskog projekta.
+Kada je u cijelosti udovoljeno primjedbama Stručnog povjerenstva, na rudarski projekt bit će stavljena izjava iz članka 10. stavak 2. ovog Pravilnika.
