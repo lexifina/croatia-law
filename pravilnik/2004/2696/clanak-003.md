@@ -1,0 +1,2 @@
+# Članak 3.
+Priprema mjernih transformatora za ovjeravanje, u smislu ovoga pravilnika podrazumijeva pregled i, po potrebi, popravak mjernih transformatora (servisiranje), pripremu mjernih transformatora, pripremu opreme za ispitivanje mjernih transformatora, ispitivanje mjernih transformatora, tj. provjeru mjeriteljskih značajka mjernih transformatora te pisanje izvješća o ispitivanju mjernih transformatora.

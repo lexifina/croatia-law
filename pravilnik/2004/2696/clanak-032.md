@@ -1,0 +1,2 @@
+# Članak 32.
+Otpor priključenih vodiča između ispitivanoga mjernog transformatora i uređaja za mjerenje pogrešaka mora biti što manji, tako da napon na priključcima ispitivanoga mjernog transformatora ne odstupa više od 0,01 % od napona na priključcima uređaja za mjerenje pogrešaka. Teret i uređaj za mjerenje pogreške moraju se priključiti posebnim vodičima na priključke ispitivanoga mjernog transformatora.
