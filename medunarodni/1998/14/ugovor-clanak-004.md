@@ -1,0 +1,11 @@
+# Članak 4.
+Zahtjev
+1. Zahtjev mora sadržavati:
+i) molbu da se međunarodna prijava obradi u skladu s ovim Ugovorom,
+ii) naznaku države ugovornice ili država ugovornica u kojima se zaštita izuma zahtijeva na temelju međunarodne prijave (»naznačene države«); ako se za bilo koju naznačenu državu može dobiti regionalni patent i ako podnositelj prijave želi dobiti regionalni, a ne nacionalni patent, mora to u zahtjevu navesti; ako, prema ugovoru o regionalnom patentu, podnositelj prijave ne može ograničiti svoju prijavu na neke od država članica tog ugovora, naznaka jedne od tih država te naznaka da se želi dobiti regionalni patent smatrat će se naznakom svih država članica tog ugovora: ako, prema nacionalnom zakonu naznačene države, naznaka te države ima učinak prijave regionalnog patenta, naznaka dotične dražave smatrat će se izražavanjem želje za dobivanjem regionalnog patenta.
+iii) ime i ostale propisane podatke koji se odnose na podnositelja prijave i zastupnika (ako postoji),
+iv) naziv izuma,
+v) ime i ostale propisane podatke koji se odnose na izumitelja, ako nacionalni zakon najmanje jedne od naznačenih država zahtijeva da se ti podaci dostave prilikom podnošenja nacionalne prijave. Inače ti se podaci mogu dostaviti u zahtjevu ili u zasebnim obavijestima koje se upućuju svakom naznačenom uredu čiji nacionalni zakon zahtijeva dostavu tih podataka, ali dopušta da se oni dostave i nakon podnošenja nacionalne prijave
+2. Svaka naznaka podliježe plaćanju propisane pristojbe u propisanom roku.
+3. Ako podnositelj prijave ne traži nijednu od ostalih vrsta zaštite navedenih u članku 43., naznaka će značiti da se željena zaštita sastoji od dodjele patenta od strane naznačene države ili za tu državu. Za potrebe ovog stavka, članak 2., točka ii) neprimjenjuje se.
+4. Izostanak navođenja u zahtjevu imena izumitelja i ostalih propisanih podataka o izumitelju neće imati posljedica ni u jednoj naznačenoj državi čiji nacionalni zakon zahtijeva dostavu navedenih podataka, ali dopušta da se oni dostave i nakon podnošenja nacionalne prijave. Izostanak dostave navedenih podataka u zasebnoj obavijesti neće imati posljedica ni u jednoj naznačenoj državi čiji nacionalni zakon ne zahtijeva dostavu tih podataka.

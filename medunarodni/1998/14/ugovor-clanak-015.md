@@ -1,0 +1,9 @@
+# Članak 15.
+Međunarodno pretraživanje
+1. Svaka međunarodna prijava predmet je međunarodnog pretraživanja.
+2. Cilj je međunarodnog pretraživanja utvrditi relevantno prethodno stanje tehnike.
+3. Međunarodno se pretraživanje provodi na temelju patentnih zahtjeva, s dužnim obzirom na opis i crteže (ako postoje).
+4. Ovlašteno tijelo za međunarodno pretraživanje navedeno u članku 16. nastoji utvrditi relevantno prethodno stanje tehnike u mjeri u kojoj mu to dopuštaju njegove mogućnosti, a u svakom slučaju mora konzultirati dokumentaciju određenu Pravilnikom.
+5. a) Ako nacionalni zakon države ugovornice to dopušta, podnositelj prijave koji podnosi nacionalnu prijavu nacionalnom uredu te države ili uredu koji radi za tu državu može, držeći se uvjeta koje predviđa taj zakon, zatražiti da se u pogledu te prijave provede pretraživanje slično međunarodnom pretraživanju (pretraživanje međunarodnog tipa).
+b) Ako nacionalni zakon države ugovornice to dopušta, nacionalni ured te države ili nacionalni ured koji radi za tu državu može u pogledu svake podnesene mu nacionalne prijave provesti pretraživanje međunarodnog tipa.
+c) Pretraživanje međunarodnog tipa provodi Ovlašteno tijelo za međunarodno pretraživanje navedeno u članku 16., koje bi bilo nadležno za međunarodno pretraživanje, da je nacionalna prijava međunarodna prijava i da je podnesena uredu navedenom u točkama a) i b). Ako je međunarodna prijava sastavljena na jeziku za koji Ovlašteno tijelo za međunarodno pretraživanje smatra da se njime ne može služiti, pretraživanje međunarodnog tipa provodi se na temelju prijevoda pripremljenog od strane podnositelja prijave na jezik koji je propisan za međunarodne prijave i za koji se Ovlašteno tijelo za međunarodno pretraživanje obvezalo da će ga prihvaćati za međunarodne prijave. Nacionalna prijava i prijevod, ako se zahtijeva, podnose se u obliku propisanom za međunarodne prijave.

@@ -1,0 +1,4 @@
+# Članak 38.
+Povjerljiva priroda međunarodnog prethodnog ispitivanja
+1) Međunarodni ured kao ni Ovlašteno tijelo za međunarodno prethodno ispitivanje ne smiju nikada, osim na zahtjev ili uz ovlaštenje podnositelja prijave, dopustiti pristup u smislu i uz uvjet iz članka 30., stavka 4. dosjeu međunarodnog prethodnog ispitivanja nijednoj osobi ili tijelu, osim izabranim uredima nakon sastavljanja izvješća o međunarodnom prethodnom ispitivanju.
+2) Uz iznimku odredbi iz stavka 1. te članka 36., stavaka od 1. do 3. i članka 37. stavka 3. točke b), Međunarodni ured kao ni Ovlašteno tijelo za međunarodno prethodno ispitivanje ne smije, osim na zahtjev ili uz ovlaštenje podnositelja prijave, dati informaciju o izdavanju ili neizdavanju izvješća o međunarodnom prethodnom ispitivanju ili informaciju o povlačenju ili nepovlačenju zahtjeva ili izbora.

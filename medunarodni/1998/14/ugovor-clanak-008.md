@@ -1,0 +1,5 @@
+# Članak 8.
+Zahtijevanje prvenstva
+1. Međunarodna prijave može sadržavati izjavu, kako je propisano Pravilnikom, kojom se zahtijeva prvenstvo jedne ili više ranijih prijava podnesenih u bilo kojoj zemlji ili za bilo koju zemlju potpisnicu Pariške konvencije za zaštitu industrijskog vlasništva.
+2. a) Uz iznimku odredbi iz točke b), uvjeti i učinci svakog zahtjeva za priznavanje prvenstva sadržanog u izajvi iz stavka 1., moraju biti u skladu sa člankom 4. Stockholmskog dokumenta Pariške konvencije za zaštitu industrijskog vlasništva.
+b) Međunarodna prijava za koju se zahtijeva prvenstvo jedne ili više ranijih prijava podnesenih u državi ugovornici ili za državu ugovornicu, može sadražvati naznaku te države. Ako se u međunarodnoj prijavi zahtijeva prvenstvo jedne ili više nacionalnih prijava podnesenih u naznačenoj državi ili za tu državu ili ako se zahtijeva prvenstvo međunarodne prijave u kojoj je naznačena samo jedna država, uvjeti za podnošenje zahtjeva za priznavanje prvenstva i njegovi učinci u toj državi, određeni su nacionalnim zakonom te države.
