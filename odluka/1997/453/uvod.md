@@ -1,0 +1,1 @@
+Temeljem Odluke Udruge hrvatskih liječnika dragovoljaca 1990/1991. godine od 3. 12. 1996. godine i prijedloga ministra zdravstva za rješavanje statusa "Hrvatskih branitelja" zdravstvenim djelatnicima i djelatnicima u zdravstvu dragovoljcima Domovinskog rata, ministar obrane i ministar zdravstva donose
