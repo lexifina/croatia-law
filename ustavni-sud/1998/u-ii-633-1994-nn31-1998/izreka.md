@@ -1,0 +1,4 @@
+ODLUKU
+I. Ukida se odredba članka 7. Odluke o javnom redu i miru ("Službene novine", broj 8/1992) što ju je donijela Skupština općine Cres-Lošinj, a u Općini Mali Lošinj na snazi je temeljem Odluke o preuzimanju odluka i drugih općih akata dosadašnje općine Cres-Lošinj ("Službene novine", broj 5/1993), odnosno temeljem Odluke o preuzimanju odluka i drugih općih akata dosadašnje Općine Mali Lošinj ("Službene novine", broj 14/1997).
+II. Pokreće se postupak za ocjenu ustavnosti i zakonitosti odredbe članka 4. Odluke o komunalnom redu ("Službene novine" Županije primorsko-goranske, broj 15/1996), što ju je donijelo Općinsko vijeće Općine Mali Lošinj dana 10. lipnja 1996. godine, i ta se odredba ukida.
+III. Ova će se odluka objaviti u "Narodnim novinama", službenom listu Republike Hrvatske, i u "Službenim novinama" Primorsko-goranske županije.
