@@ -1,0 +1,5 @@
+## o utvrđivanju visine naknade za dežurstvo i stalnu pripravnost
+# Članak 1.
+Za organizacije zdravstva primarne zdravstvene zaštite koje imaju organizirana dežurstva i stalnu pripravnost u skladu s odredbama članka 158. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine". broj 12/91 - pročišćeni tekst), utvrđuje se visina naknade na način:
+1. Za dežurstvo - liječnika - na osnovi osobnog dohotka mjesećno neto 12.000 dinara - med. sestre ili tehničara - na osnovi osobnog dohotka mjesečno neto 8.000 dinara - vozaća - na osnovi osobnog dohotka mjesečno neto 7.000 dinara s time. da se svaki iznos dijli s mjesečnom satnicom od 182 sata i na tako dobivenu vrljednost pojedinog sata dežurstva dodaje se 50% povećanja vrijednosti za nedjelje i praznike, odnosno 30%; za noćni rad i doprinosi na osobni dohodak.
+2. Za pripravnost - po liječniku - mjesečno neto 5.000 dinara - po osobi srednje spreme - mjesečno neto 2.800 dinara na svaki iznos dodaju se doprinosi na osobne dohotke.
