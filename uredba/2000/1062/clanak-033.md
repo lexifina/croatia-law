@@ -1,0 +1,12 @@
+# Članak 33.
+Radi učinkovitog i neposrednog obavljanja poslova i zadaća područnih jedinica Inspektorata iz članka 32. ove Uredbe u područnim jedinicama ustrojavaju se:
+- Odsjek za nadzor u prometu robe i usluga
+- Odsjek za nadzor kakvoće proizvoda s uvjerenjem
+- Odsjek za nadzor u području poljoprivrede i šumarstva
+- Odsjek za nadzor u području radnih odnosa
+- Odsjek za nadzor u području zaštite na radu, elektroenergetike, rudarstva i posuda pod tlakom.
+Odsjek za nadzor u prometu robe i usluga obavlja inspekcijske poslove koji se odnose na promjenu i provođenje zakona u području prometa robe, obrta, ugostiteljstva i turizma, cijena, mjeriteljstva i mjernih jedinica, kakvoću proizvoda u proizvodnji i prometu glede ispunjavanja temeljnih zahtjeva, normi s obveznom primjenom, sustava ocjenjivanja sukladnosti proizvoda s temeljnim zahtjevima i normama, isprava koje moraju imati proizvodi u prometu, deklariranje, označavanje, obilježavanje i pakiranje proizvoda te zaštite znakova razlikovanja proizvoda u proizvodnji i prometu. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.
+Odsjek za nadzor kakvoće proizvoda s uvjerenjem obavlja inspekcijske poslove koji se odnose na primjenu zakona i drugih propisa kojima se uređuje kakvoća proizvoda iz uvoza i domaće proizvodnje glede temeljnih zahtjeva, normi čija je primjena obvezna, sustava ocjenjivanja sukladnosti proizvoda s temeljnim zahtjevima i normama, isprava koje moraju imati proizvodi, deklariranja, označavanja, obilježavanja i pakiranja. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.
+Odsjek za nadzor u području poljoprivrede i šumarstva obavlja poslove koji se odnose na primjenu i provedbu zakona i drugih propisa koji se odnose na upravna područja vinogradarstva, ribarstva, stočarstva, šumarstva i lovstva. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.
+Odsjek za nadzor u području radnih odnosa obavlja poslove koji se odnose na nadzor provedbe propisa kojima se uređuju odnosi između zaposlenika i poslodavaca i posredovanja pri zapošljavanju. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.
+Odsjek za nadzor u području zaštite na radu, elektroenergetike, rudarstva i posuda pod tlakom obavlja poslove koji se odnose na nadzor provedbe i primjene propisa kojima se uređuju odnosi između zaposlenika i poslodavca u području zaštite na radu, koji se odnose na nadzor u području elektroenergetike, rudarstva i posuda pod tlakom. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.

@@ -1,0 +1,5 @@
+# Članak 34.
+Osim odsjeka iz članka 33. ove Uredbe, u područnim jedinicama Inspektorata sa sjedištem u Rijeci, Splitu i Zagrebu ustrojava se Odsjek za nadzor u ugostiteljstvu i turizmu.
+Odsjek za nadzor u ugostiteljstvu i turizmu obavlja poslove koji se odnose na područje ugostiteljstva i turizma. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.
+U Područnoj jedinici sa sjedištem u Zagrebu, osim odsjeka iz članka 33. i članka 34. stavak 1. ove Uredbe, ustrojava se i Odsjek za nadzor u području kakvoće.
+Odsjek za nadzor u području kakvoće obavlja poslove koji se odnose na primjenu i provođenje zakona i drugih propisa u području kakvoće proizvoda i usluga u odnosu na ispunjavanja temeljnih zahtjeva, normi s obveznom primjenom, sustava ocjenjivanja sukladnosti proizvoda s temeljnim zahtjevima i normama, isprava koje moraju imati proizvodi u prometu, deklariranje, označavanje, obilježavanje i pakiranje proizvoda te zaštite znakova razlikovanja proizvoda u proizvodnji i prometu. Obavlja i druge poslove koje mu odredi pročelnik područne jedinice.
