@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. i članka 4. Zakona o izboru predsjednika Republike Hrvatske (»Narodne novine«, br. 22/92, 42/92 i 71/97), Vlada Republike Hrvatske je na sjednici održanoj 21. prosinca 1999. godine donijela
