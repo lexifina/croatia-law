@@ -1,0 +1,2 @@
+# Članak 1.
+Stranke produbljuju svoje međusobno poznavanje sektora malih i srednjih poduzeća i razvijaju suradnju u ovom području. One potiču navedenu suradnju između svojih država, osobito između Ministarstva za obrt, malo i srednje poduzetništvo Republike Hrvatske i Državnog tajništva za malo i srednje poduzetništvo, trgovinu, obrtništvo, slobodna zanimanja i potrošnju, te opunomoćenog Ministarstva za vanjsku trgovinu, pri Ministarstvu gospodarstva, financija i industrije Francuske Republike.

@@ -1,0 +1,2 @@
+# Članak 3.
+Stranke osnivaju mješoviti odbor koji je zadužen pokrenuti suradnju za potporu razvitku malih i srednjih poduzeća između dviju država. Osobita je zadaća ovog odbora izrada kratkoročnih i srednjoročnih programa, s pobližim određenjem vrste akcija koje će se voditi u određenom razdoblju. Odbor prati i ocjenjuje odabrane projekte i, ako je potrebno, daje prijedloge za njihovo preusmjeravanje. Ovaj se odbor sastaje svake godine, naizmjence u Hrvatskoj i u Francuskoj ili pak na poticaj jedne ili druge stranke.
