@@ -1,0 +1,5 @@
+# Članak 26.
+2. ODJEL ZA RAZVOJAČENE HRVATSKE
+BRANITELJE
+Odjel za razvojačene hrvatske branitelje obavlja upravne i stručne poslove koji se odnose na skrb o razvojačenim hrvatskim braniteljima i stvaranje uvjeta za njihovo uključivanje u društveni i gospodarski život u Republici Hrvatskoj, ostvaruje kontinuiranu informiranost i suradnju s Ministarstvom obrane Republike Hrvatske u području pravne zaštite i skrbi o razvojačenim hrvatskim braniteljima, surađuje sa Zavodom za zapošljavanje glede zapošljavanja i školovanja razvojačenih hrvatskih branitelja, te usko surađuje sa svim udrugama branitelja, dragovoljaca i veterana iz Domovinskog rata glede poboljšanja skrbi o razvojačenim hrvatskim braniteljima, te obavlja sve ostale poslove po odluci ministra i pomoćnika ministra.
+Odjel obavlja stručne poslove vezane za izradu i provođenje zakona i drugih propisa vezanih za poboljšanje skrbi o razvojačenim hrvatskim braniteljima, te pruža pravnu pomoć razvojačenim hrvatskim braniteljima i njihovim obiteljima glede ostvarivanja njihovih prava.

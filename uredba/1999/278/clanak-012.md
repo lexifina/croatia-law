@@ -1,0 +1,3 @@
+# Članak 12.
+2. DRUGOSTUPANJSKA LIJEČNIČKA POVJERENSTVA
+Drugostupanjska liječnička povjerenstva po službenoj dužnosti donose nalaz i mišljenje o oštećenju organizma u II. stupnju radi ostvarivanja prava s osnova oštećenja organizma na temelju članka 5. podstavka 1. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, obavljaju stručne poslove u postupku revizije ocjene invalidnosti te usklađuju rad prvostupanjskih liječničkih povjerenstava, sudjeluju u izradi odgovora na tužbe Upravnom sudu Republike Hrvatske te u II. stupnju donose nalaz i mišljenje o oštećenju organizma za mirnodopske vojne invalide.

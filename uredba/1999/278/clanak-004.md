@@ -1,0 +1,3 @@
+# Članak 4.
+Kabinet ministra obavlja administrativne i stručne poslove za ministra i njegova zamjenika, protokolarne poslove, poslove iz područja odnosa sa sredstvima javnog priopćavanja, poslove u svezi s kontaktima i komunikacijom sa Hrvatskim državnim Saborom Republike Hrvatske, Vladom Republike Hrvatske i drugim tijelima državne uprave, pribavlja dokumentaciju i materijale od uprava i drugih unutarnjih ustrojstvenih jedinica Ministarstva za potrebe ministra i njegova zamjenika, zaprima i rješava poštu upućenu ministru i njegovu zamjeniku, vodi evidenciju povjerljive pošte i pohranjuje ju, te obavlja druge stručne i administrativne poslove iz programa rada ministra i njegova zamjenika.
+2. Ured tajnika ministarstva
