@@ -1,0 +1,7 @@
+# Članak 6.
+U članku 14. točki 6. na kraju rečenice briše se točkazarez i dodaju rijeći: "kao i bračni drug osiguranika". Točka 7. briše se. Dosadašnje točke 8. i 9. postaju točke 7. i 8. Iza točke 8. dodaju se nove točke od 9. do 13. koje glase:
+"9. osiguranici - slijepe osobe,
+10. osiguranici - osobe kojima je sudskom odlukom dosuđeno izdržavanje i temeljem čega su i zdravstveno osigurane (članak 60. stavak 2. Zakona),
+11. osiguranici - korisnici stalne novčane pomoći prema odredbama Zakona o socijalnoj pomoći,
+12. osiguranici djeca ometena u psihičkom ili fizičkom razvoju, korisnici novčane naknade prema propisima o mirovinskom i invalidskom osiguranju,
+13. osiguranici i članovi njihove porodice, ako su zdravstveno osigurani kao članovi porodice, kada prihod iz radnog odnosa ili od obavljanja samostalne privredne ili neprivredne djelatnosti te iznos mirovine (u daljnjem tekstu: prihod iz radnog odnosa) po članu te porodice u času rješavanja zahtjeva, ne prelazi iznos od 2.500,00 dinara mjesečno, ili kada katastarski prihod i prihod ostvaren od sporednih djelatnosti, ne prelazi po članu poljoprivrednog domaćinstva iznos od 67,00 dinara mjesečno. Ako član porodice iz ove točke, osim prihoda iz radnog odnosa ima i katastarski prihod, prihod iz radnog odnosa dijeli se sa 25,00, a katastarski i drugi prihodi sa 0,67, pa ako zbroj oba količnika ne prelazi 100, smatra se da član porodice ispunjava uvjet da bude oslobođen od učešća u smislu odredbe ovog članka."
