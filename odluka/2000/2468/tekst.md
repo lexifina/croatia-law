@@ -1,0 +1,7 @@
+O UTVRĐIVANJU INTERESA REPUBLIKE HRVATSKE ZA FORMIRANJE EKSPLOATACIJSKOG POLJA MINERALNIH SIROVINA, VAPNENCA I DOLOMITA »GUSTI RASTIK« SIRAČ U k.o. BIJELA
+I.
+Formiranje eksploatacijskog polja mineralnih sirovina vapnenca i dolomita »Gusti rastik« Sirač u k.o. Bijela, na k.č.br. 470/1, k.č.br. 472/13, k.č.br. 472/3, k.č.br. 472/52, k.č.br. 472/53 i k.č.br. 472/54, upisanim u z.k. ul. br. 194, vlasništvo Republike Hrvatske, k.č.br. 472/40, k.č.br. 472/55 i k.č.br. 472/56, upisanim u z.k.ul. br. 262, vlasništvo Republike Hrvatske i na k.č.br. 472/5, upisanoj u z.k.ul. br. 201, suvlasništvo Svetozara Glodića u 1/4 dijela, Mladena Glodića u 1/4 dijela i Smilje Glodić u 2/4 dijela, a sve u posjedu »Hrvatskih šuma«, javnog poduzeća za gospodarenje šumama i šumskim zemljištem u Republici Hrvatskoj p.o., Zagreb i »Kamena Sirač« d.d., Sirač, u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju Plana izvlaštenja, lokacijske dozvole (klase: Up/I-350-05/95-01/14, urbroja: 2103-04/2-95-2), od 31. siječnja 1995. godine i uvjerenja da je lokacijska dozvola još na snazi (klasa: 350-01/99-01/14, urbroj: 2103-04/2-01-99-2), od 15. ožujka 1999. godine, sve izdano od strane Bjelovarsko-bilogorske županije, Ureda za prostorno uređenje, stambeno-komunalne poslove, graditeljstvo i zaštitu okoliša Bjelovar, Ispostava Daruvar, te grafičkih priloga izrađenih u mjerilu 1 : 5000 i 1 : 2880.
+III.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
