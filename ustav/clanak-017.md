@@ -1,0 +1,4 @@
+# Članak 17.
+U doba ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike, te velikih prirodnih nepogoda pojedine slobode i prava zajamčena Ustavom mogu se ograničiti. O tome odlučuje Sabor Republike Hrvatske dvotrećinskom većinom svih zastupnika, a ako se Sabor ne može sastati, predsjednik Republike.
+Opseg ograničenja mora biti primjeren naravi pogibelji, a za posljedicu ne može imati nejednakost građana s obzirom na rasu, boju kože, spol, jezik, vjeru, nacionalno ili socijalno podrijetlo.
+Niti u slučaju neposredne opasnosti za opstanak države ne može se ograničiti primjena odredbi ovoga Ustava o pravu na život, zabrani mučenja, surovog ili ponižavajućeg postupanja ili kažnjavanja, o pravnoj određenosti kažnjivih djela i kazni, te o slobodi misli, savjesti i vjeroispovijedi.

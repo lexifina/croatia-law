@@ -1,0 +1,3 @@
+# Članak 56.
+Pravo zaposlenih i članova njihovih obitelji na socijalnu sigurnost i socijalno osiguranje ureduje se zakonom i kolektivnim ugovorom.
+Prava u svezi s porođajem, materinstvom i njegom djece uređuju se zakonom.

@@ -1,0 +1,4 @@
+# Članak 88.
+Zastupnički dom može, najviše na vrijeme od godinu dana, ovlastiti Vladu Republike Hrvatske da uredbama uređuje pojedina pitanja iz njegova djelokruga, osim onih koja se odnose na razradu Ustavom utvrđenih sloboda i prava čovjeka i građanina, nacionalna prava, izborni sustav, ustrojstvo, djelokrug i način rada državnih tijela i lokalne samouprave.
+Uredbe na temelju zakonske ovlasti ne mogu djelovati unatrag.
+Uredbe donesene na temelju zakonske ovlasti prestaju vrijediti istekom roka od godinu dana od dana dobivene ovlasti, ako Zastupnički dom ne odluči drukčije.

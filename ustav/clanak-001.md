@@ -1,0 +1,5 @@
+## II. TEMELJNE ODREDBE
+# Članak 1.
+Republika Hrvatska jedinstvena je i nedjeljiva demokratska i socijalna država.
+U Republici Hrvatskoj vlast proizlazi iz naroda i pripada narodu kao zajednici slobodnih i ravnopravnih državljana.
+Narod ostvaruje vlast izborom svojih predstavnika i neposrednim odlučivanjem.
