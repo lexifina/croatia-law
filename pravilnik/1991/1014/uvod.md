@@ -1,0 +1,1 @@
+Na temelju članka 32. Zakona o javnim cestama ("Narodne novineč. br. 42/90) i članka 52. Statuta Poduzeća -Hrvatske ceste" ("Narodne novine". br. 57/90) Upravni odbor Poduzeća "Hrvatske ceste", na sjednici održanoj 1. srpnja 1991. godine, uz suglasnost ministra za promet i veze donosi
