@@ -1,0 +1,17 @@
+# Članak 90.
+KONKURENTNI ZAHTJEVI
+(1) Država stranka koja je od Suca primila zahtjev za predajom osobe na temelju članka 89. a zaprimi i zahtjev od neke druge države za izručenjem zbog istog djela zbog kojeg je Sud zatražio predaju, o tome izvješćuje Sud i državu koja je zatražila izručenje.
+(2) Ako je država moliteljica izručenja država stranka, zamoljena država dat će prednost zahtjevu za predajom koji je podnio Sud ako:
+(a) je Sud temeljem članka 18. i 19. već odlučio da je u predmetu u kojem se traži predaja dopušteno pokretanje ili vođenje postupka i ako je pri donošenju te odluke uzeo u obzir da se u državi koja traži izručenje vodi istraga ili kazneni progon glede toga zahtjeva;
+(b) je Sud donio odluku predviđenu u točki (a) nakon izvješća zamoljene države prema odredbama stavka 1.
+(3) Ako odluka prema stavku 2(a) nije donesena, zamoljena država može po vlastitoj prosudbi nastaviti postupak pokrenut na temelju zahtjeva za izručenjem kojeg je podnijela druga država sve dok Sud ne odluči sukladno odredbi stavka 2(b) ovoga članka ali ne smije izručiti osobu sve do donošenja odluke Suda da je pokretanje ili vođenje postupka u tom predmetu nedopušteno. Sud takvu odluku mora donijeti po hitnom postupku.
+(4) Ako država moliteljica izručenja nije stranka ovoga Statuta, zamoljena država, u slučaju kada nema obveze izručenja tražene osobe prema odredbama međunarodnog prava, mora dati prednost zahtjevu za predajom kojeg je podnio Sud, ukoliko je Sud odlučio da je u predmetu pokretanje ili vođenje postupka dopušteno.
+(5) Ako Sud nije odlučio da je u predmetu spomenutom u stavku 4. pokretanje ili vođenje postupka dopušteno, zamoljena država može, prema svojoj prosudbi, nastaviti postupak po zahtjevu za izručenjem koji joj je uputila druga država.
+(6) U slučajevima u kojima se primjenjuju odredbe stavka 4. a zamoljena država nema, prema odredbama međunarodnog prava, obveze izručenja državi moliteljici koja nije stranka ovoga Statuta, zamoljena država će odlučiti da li će traženu osobu predati Sudu ili izručiti državi moliteljici. Pri donošenju odluke zamoljena država će razmotriti sve bitne okolnosti, uključujući ali i ne ograničavajući se na sljedeće:
+(a) nadnevke oba zahtjeva;
+(b) interese države moliteljice, uključujući, kada je to važno, okolnost da je kazneno djelo počinjeno na njezinom teritoriju, državljanstvo žrtava i osobe čije se izručenje traži;
+(c) mogućnost naknadne predaje tražene osobe Sudu od strane države moliteljice.
+(7) Kada država stranka primi zahtjev Suda za predajom osobe ali primi i zahtjev za izručenjem iste osobe od strane bilo koje države radi kaznenog djela koje nije predmetom zahtjeva Suda za predajom te osobe:
+(a) zamoljena država, ako prema odredbama međunarodnog prava nema obveze izručenja državi moliteljici, mora dati prednost zahtjevu Suda za predajom;
+(b) zamoljena država, ako prema odredbama međunarodnog prava ima obvezu izručenja državi moliteljici, mora odlučiti hoće li predati osobu Sudu ili je izručiti državi moliteljici. Pri donošenju te odluke zamoljena će država razmotriti sve bitne okolnosti, uključujući ali ne i ograničavajući se na one propisane stavkom 6, vodeći posebno računa o prirodi i težini kaznenog djela o kojem se radi.
+(8) Ako je na temelju obavijesti propisane ovim člankom Sud odlučio da u predmetu nema mjesta pokretanju ili vođenju postupka a zamoljena država naknadno odbije zahtjev za izručenjem, o toj svojoj odluci ona će izvijestiti Sud.

@@ -1,0 +1,9 @@
+# Članak 121.
+IZMJENE I DOPUNE STATUTA
+(1) Nakon isteka sedam godina od stupanja ovoga Statuta na snagu, svaka država stranka može predložiti njegove izmjene. Tekst svake predložene izmjene podnosi se glavnom tajniku Ujedinjenih naroda a on ga odmah dostavlja svim državama strankama.
+(2) Odluku o tome da li će prijedlog izmjene uzeti u razmatranje donosi, ne prije isteka roka od tri mjeseca od dana notifikacije, sljedeća Skupština država stranaka većinom prisutnih koji glasuju. Skupština može o prijedlogu odlučivati izravno ili može sazvati Konferenciju za izmjene ako pitanje o kojem je riječ tako traži.
+(3) Za usvajanje izmjene o kojoj ne postoji suglasnost na sastanku Skupštine država stranaka ili na Konferenciji za izmjene potrebna je dvotrećinska većina država stranaka.
+(4) Osim temeljem stavka 5., izmjena stupa na snagu za sve države stranke godinu dana nakon što isprave o ratifikaciji ili prihvatu sedam osmina tih država budu položene kod glavnog tajnika Ujedinjenih naroda.
+(5) Sve izmjene članka 5. ovoga Statuta stupaju na snagu za one države stranke koje su ih prihvatile godinu dana nakon polaganja njihove isprave o ratifikaciji ili prihvatu. Za državu stranku koja nije prihvatila izmjenu, Sud neće biti nadležan u pogledu kaznenih djela na koja se izmjena odnosi i koja su počinili njezini državljani ili koja su počinjena na njezinom teritoriju.
+(6) Ako neku izmjenu prihvati sedam osmina država stranaka sukladno stavku 4. ovoga Statuta, svaka država stranka koja nije prihvatila izmjenu može se, temeljem obavijesti s neposrednim učinkom o tome, učinjene u roku od godine dana nakon stupanja izmjene na snagu, povući iz ovoga Statuta, bez obzira na članak 127. stavak 1. ali sukladno članku 127. stavak 2.
+(7) Glavni tajnik Ujedinjenih naroda dostavit će svim državama strankama sve izmjene prihvaćene na Skupštini država stranaka odnosno na Konferenciji za izmjene.

@@ -1,0 +1,4 @@
+# Članak 122.
+IZMJENE I DOPUNE ODREDABA ORGANIZACIJSKE NARAVI
+(1) Izmjene i dopune odredaba ovoga Statuta koje su isključivo organizacijske naravi, poput članka 35., 36. stavak 8. i 9., 37., 38., 39. stavak 1. (prve dvije rečenice), stavak 2. i 4., članka 42. stavaka 4. do 9., članka 43. te članaka 44., 46., 47. i 49. država stranka može predložiti u bilo koje doba, bez obzira na članak 121. stavak 1. Tekst prijedloga izmjena predaje se glavnom tajniku Ujedinjenih naroda ili osobi koju odredi Skupština država stranaka, a ta osoba mora ga odmah dostaviti svim državama strankama te ostalim članovima Skupštine.
+(2) Izmjene na temelju ovoga članka o kojima se ne može postići suglasnost mora dvotrećinskom većinom država stranaka prihvatiti Skupština država stranaka ili Konferencija za izmjene. Takve izmjene ili dopune stupaju na snagu za sve države stranke nakon što ih prihvati Skupština ili Konferencija.

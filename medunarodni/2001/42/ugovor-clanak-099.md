@@ -1,0 +1,10 @@
+# Članak 99.
+IZVRŠENJE ZAHTJEVA TEMELJEM ČLANAKA
+93. I 96.
+(1) Zahtjevi za pružanjem pomoći izvršavaju se sukladno postupku propisanim pravom zamoljene države i, osim ako to nije tim pravom zabranjeno, na način označen u zahtjevu uključujući svaku radnju koja je u njemu opisana ili koji dopušta osobama navedenim u zahtjevu da prisustvuju i pomažu u izvršenju zahtjeva.
+(2) U slučaju hitnog zahtjeva, zamoljena država će isprave ili dokaze koje podnosi u izvršenju zahtjeva, dostaviti hitno.
+(3) Odgovori zamoljene države dostavljaju se u njihovom izvornom jeziku i obliku.
+(4) Kada je to potrebno za njegovo uspješno izvršenje, Tužitelj može, izravno na teritoriju države, izvršiti zahtjev koji ne traži primjenu prisilnih mjera a osobito razgovor s nekom osobom ili uzimanje njezinog iskaza na dragovoljnoj osnovi bez nazočnosti vlasti zamoljene države ako je to bitno za izvršenje ili očevid javnog mjesta ili javne lokacije bez mijenjanja njezinog izgleda. Bez obzira na ostale članke ovoga dijela Statuta, Tužitelj takav zahtjev smije izvršiti na sljedeći način:
+(a) ako je zamoljena država ujedno država za koju se smatra da je na njezinom teritoriju počinjeno kazneno djelo i već je donesena odluka o dopuštenosti pokretanja ili provođenja postupka sukladno člancima 18. ili 19. Tužitelj može izravno izvršiti takav zahtjev nakon svih mogućih konzultacija sa zamoljenom državom;
+(b) u ostalim slučajevima, Tužitelj može izvršiti takav zahtjev nakon konzultacija sa zamoljenom državom uz poštivanje razboritih uvjeta ili okolnosti na koje je ta država upozorila. Ukoliko je ona utvrdila pitanja vezana uz izvršenje zahtjeva sukladno ovoj točki, bez odgode će se o tome posavjetovati sa Sudom u cilju njihovih rješenja.
+(5) Odredbe koje osobi ispitivanoj pred Sudom temeljem članka 72. dopuštaju pozivanje na ograničenja ustanovljena radi sprečavanja otkrivanja povjerljivih obavijesti povezanih s nacionalnom obranom ili sigurnosti primjenjuju se i na izvršenje zahtjeva za pružanjem pomoći na temelju ovoga članka.

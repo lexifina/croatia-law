@@ -1,0 +1,4 @@
+# Članak 127.
+POVLAČENJE
+(1) Država stranka može se putem pisane notifikacije glavnom tajniku Ujedinjenih naroda povući iz ovoga Statuta. Povlačenje stupa na snagu godinu dana nakon prijma notifikacije osim ako u notifikaciji nije za nj naznačen kasniji nadnevak.
+(2) Povlačenje ne oslobađa državu obveza nastalih temeljem Statuta u vrijeme dok je bila strankom Statuta, uključujući i sve njezine eventualne financijske obveze. Povlačenje ne smije utjecati na njezinu suradnju sa Sudom u vezi s kaznenim istragama i postupcima glede kojih država koja se povlači ima dužnost surađivati i koji su započeli prije datuma od kojeg povlačenje proizvodi pravni učinak. Ono ne smije na bilo koji način niti utjecati na nastavak raspravljanja o bilo kojoj stvari o kojoj je Sud raspravljao prije datuma od kojeg je povlačenje proizvelo pravni učinak.

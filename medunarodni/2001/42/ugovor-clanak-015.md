@@ -1,0 +1,8 @@
+# Članak 15.
+TUŽITELJ
+(1) Tužitelj može pokrenuti istragu proprio motu (na vlastiti zahtjev), na temelju obavijesti o kaznenim djelima iz nadležnosti Suda.
+(2) Tužitelj mora prosuditi utemeljenost obavijesti koje je primio. U svrhu te prosudbe on/a može od država, tijela Ujedinjenih naroda, međuvladinih ili nevladinih organizacija ili drugih pouzdanih izvora koje smatra prikladnima, zatražiti dodatne obavijesti a u sjedištu Suda može primati pisane ili usmene izjave.
+(3) Ako Tužitelj odluči da postoji razborita osnova za nastavak istrage, podnijet će Predraspravnom vijeću zahtjev za odobrenje istrage popraćen svim prikupljenim potkrepljujućim materijalom. Predraspravnom vijeću mogu podneske dostavljati i žrtve kaznenih djela, sukladno Pravilima o postupku i dokazima.
+(4) Ako Predraspravno vijeće nakon razmatranja zahtjeva i materijala zaključi da postoji razborita osnova za nastavak istrage te da je slučaj u nadležnosti Suda, odobrit će početak istrage. Ta odluka nema utjecaja na kasnije odluke Suda glede nadležnosti i dopustivosti vođenja postupka.
+(5) Odluka Predraspravnog vijeća da odbije zahtjev Tužitelja za odobrenjem istrage ne sprečava Tužitelja da podnese naknadni zahtjev, utemeljen na novim činjenicama ili dokazima u istom slučaju.
+(6) Ako nakon prethodnog razmatranja opisanog u stavku 1. i 2. ovoga članka Tužitelj prosudi da dostavljene obavijesti ne predstavljaju razboritu osnovu za istragu, o tome će obavijestiti osobe koje su te obavijesti dostavile. To ga međutim, ne sprečava u razmatranju daljnjih obavijesti koje su mu podnesene u odnosu na isti slučaj u svjetlu novih činjenica ili dokaza.

@@ -1,0 +1,4 @@
+# Članak 98.
+SURADNJA U SLUČAJU ODRICANJA OD IMUNITETA I POSTIZANJE SUGLASNOSTI NA PREDAJU
+(1) Sud ne može postaviti zahtjev za predajom ili za pružanjem pomoći čije bi izvršenje zahtijevalo od zamoljene države da postupa suprotno svojim obvezama na temelju međunarodnog prava glede državnog ili diplomatskog imuniteta osobe ili imovine treće države, osim ako prije toga, putem suradnje s tom trećom državom, Sud ne ishodi njezino odricanje od imuniteta.
+(2) Sud ne može postaviti zahtjev za predajom čije bi izvršenje zahtijevalo od zamoljene države postupanje suprotno njezinim obvezama na temelju međunarodnih ugovora prema kojima je za predaju osobe te države Sudu potrebna suglasnost države koja tu osobu šalje, osim ako prije toga Sud ne uspostavi suradnju s državom koja tu osobu šalje i ishodi njezinu suglasnost za predaju.
