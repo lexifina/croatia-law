@@ -1,0 +1,1 @@
+Na temelju članka 13b. stavka 2. Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98, 135/98, 105/99, 25/2000, 73/2000, 131/2000, 30/2001, 59/2001 i 114/2001) i članka 10. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 14. veljače 2002. godine donijela
