@@ -1,0 +1,28 @@
+o obrascima i načinu vođenja registra političkih organizacija
+Član 1.
+Ovim pravilnikom propisuje se oblik i sadržaj obrazaca registra političkih organizacija, izvoda iz registra, zahtjeva za upis u registar, prijave osnivanja i djelovanja organizacionih oblika političkih organizacija, kao i način popunjavanja obrazaca te vođenja registra i zbirke isprava.
+Registar političkih organizacija
+Član 2.
+Upis u registar političkih organizacija vrši se na Obrascu broj 1, koji je sastavni dio ovoga pravilnika. Organ uprave nadležan za vođenje registra političkih organizacija (u daljem tekstu: organ nadležan za registraciju) dužan je izdati izvod iz registra kojeg vodi na Obrascu broj 2, koji je sastavni dio ovoga pravilnika.
+Član 3.
+Registar političkih organizacija vodi se u obliku tvrdo ukoričene knjige čije su stranice numerirane. Ovlaštena služba osoba prije početka upisivanja subjekata upisa ovjerava registar na prvoj strani svojim potpisom i pečatom organa nadležnog za registraciju, tako da tekst ovjere glasi: "Ovaj registar sadrži ________ukupno numeriranih stranica".
+Član 4.
+Na obrascu registra političkih organizacija, u desnom gornjem uglu u rubriku: "registarski broj" upisuje se redni broj pod kojim se vrši upis. Rubrika: "prijenos registracije" popunjava se samo u slučaju kada su odgovarajuće rubrike obrasca do kraja popunjene, pa se upisi moraju nastaviti na novom slobodnom listu. Tom prilikom na novom slobodnom listu prenosi se redni broj prethodnog upisa nakon čega se prethodni list precrtava kosom crvenom crtom.
+Član 5.
+Popunjavanje rubrika u registru vrši se upisivanjem odgovarajućih podataka koji su naznačeni u produžetku broja rubrike. Rubrike se popunjavaju čitljivo, tintom, na način da se upisivanje vrši od početka slobodne rubrike. Upisani tekst u registru ne smije se brisati i ispravljati. Iznimno, manje pogreške ispravljaju se precrtavanjem vodoravnom crtom i stavljanjem parafa voditelja registra i datuma ispravka. Ako se radi o većim pogreškama, cijeli se upis poništava precrtavanjem registarskog lista crvenom kosom crtom i upis se vrši na prvom slobodnom listu.
+Član 6.
+Izmjene koje su nastale nakon prvog upisa u registar, upisuju se u rubriku koja se odnosi na izmjene odgovarajućih podataka. Nakon upisa novih podataka, rubrika koja sadrži stare podatke precrtava se kosom crvenom crtom. Iznimno, kad subjekt upisa mijenja svoj naziv, upis tog podatka vrši se na novom prvom slobodnom registarskom listu. Na tom listu prenose se svi ostali podaci iz odgovarajućih rubrika s prethodnog registarskog lista. Nakon što se izvrši prijenos svih podataka iz prethodnog registarskog lista, taj list se precrtava kosom crvenom crtom. U tom slučaju na novom registarskom listu popunjava se također i rubrika "prijenos registracije", s podatkom o registarskom broju prethodnog upisa. U slučaju prestanka rada subjekta, činjenica prestanka upisuje se u odgovarajuću rubriku, a nakon toga registarski list koji se odnosi na taj subjekt upisa precrtava se s dvije kose crvene crte.
+Član 7.
+Registar i zbirke isprava propisani ovim pravilnikom smatraju se knjigama odnosno ispravama trajne vrijednosti. Ovlaštena službena osoba zadužena za vođenje registra dužna je čuvati registar i zbirke isprava na način da se zaštite od zloupotrebe, uništenja i oštećenja. Svaka osoba ima pravo uvida u podatke upisane u registar i zbirke isprava propisane ovim pravilnikom. Uvid u registar i zbirke isprava vrši se uz obavezno prisustvo voditelja registra.
+Član 8.
+Zbirka isprava vodi se za svaki subjekt upisa u registar. Na omotu zbirke isprava uspisuje se naziv subjekta upisa i registarski broj pod kojim je izvršen upis. U zbirku isprava odlaže se: jedan primjerak zahtjeva za upis u registar, programa, statuta, izmjena i dopuna programa i statuta, te svih priloga za zahtjev odnosno isprava temeljem kojih je izvršen upis odnosno promjena podataka u registar i primjerak rješenja o upisu. Obrasci zahtjeva za upis u registar i prijave osnivanja i djelovanja organizacionih oblika političkih organizacija
+Član 9.
+Politička organizacija u postupku registracije podnosi organu nadležnom za registraciju zahtjev za upis u registar političkih organizacija na Obrascu broj 3, koji je sastavni dio ovoga pravilnika. Prijava osnivanja i djelovanja političke organizacije podnosi se organu nadležnom za registraciju i organu nadležnom za poslove opće uprave općine prema sjedištu organizacionog oblika na Obrascu broj 4, koji je sastavni dio ovoga pravilnika.
+Član 10.
+Zahtjev i prijava propisani na obrascima iz člana 9. ovoga pravilnika podnose se u dva primjerka. Obrasci se popunjavaju pisaćim strojem ili štampanim slovima. Podaci koji se upisuju u rubrike obrazaca moraju biti potpuno identični s odredbama statuta, odluke odnosno zaključkom organa upravljanja na koje se ti podaci odnose.
+Član 11.
+Zahtjev za prvi upis u registar potpisuje osoba koju ovlaste osnivači na osnivačkoj skupštini. Ukoliko se na osnivačkoj skupštini ne ovlasti osoba za potpisivanje, ovlaštenom osobom smatra se osnivač palitičke organizacije koji je na popisu osnivača naveden pod rednim brojem 1.
+Član 12.
+Podnosilac zahtjeva dužan je uz zahtjev priložiti sve dokaze koji su navedeni ispod odgovarajuće rubrike zahtjeva. Prilozi se podnose u izvorniku, prijepisu ili fotokopiji. Ako se podnesu u prijepisu ili fotnkopiji koja nije ovjerena, službena osoba će utvrditi da li su prijepis ili fotokopija vjerni izvorniku. Popis osnivača i članova organa upravljanja političkih organizacija treba da sadrži slijedeće podatke: ime i prezime, adresu i jedinstveni matični broj osnivača odnosno člana organa upravljanja.
+Član 13.
+Ovaj pravilnik stupa na snagu danom objave u "Narodnim novinama".
