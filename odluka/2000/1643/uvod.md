@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 1. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), a u svezi Sporazuma o sigurnosti Republike Hrvatske i Organizacije Sjevernoatlantskog ugovora (u daljnjem tekstu: NATO savez) potpisanog 21. lipnja 2000. godine, Vlada Republike Hrvatske je na sjednici održanoj 26. srpnja 2000. godine, donijela
