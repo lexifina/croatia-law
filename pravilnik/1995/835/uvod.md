@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 1. Zakona o ugostiteljskoj i turističkoj djelatnosti ("Narodne novine", broj: 28/88., 38/88., 47/89.; 16/90.,19/90., 25/93. i 44/93.), ministar turizma, uz mišljenje Hrvatske udruge hotelijera i Kamping udruge Hrvatske, donosi
