@@ -1,0 +1,3 @@
+# Članak 18.
+Smjernice programiranja definiraju tehniku i postupke formiranja prijedloga programa na razini Ministarstva obrane i Oružanih snaga, suradnju nositelja programa, nositelja aktivnosti, projektnih timova, programskih elemenata, način objedinjavanja prijedloga programa, financijske okvire, rokove, načine dostavljanja i oblik izrađenih prijedloga te druge parametre koji imaju utjecaj na način oblikovanja prijedloga programa. Odnose se na šestogodišnje razdoblje.
+Smjernice programiranja izrađuje Uprava za financije i proračun u suradnji s Upravom za programe, financije i proračun Glavnog stožera i Upravom za obrambenu politiku do 20. rujna.

@@ -1,0 +1,2 @@
+# Članak 26.
+Vijeće raspravlja i usuglašava prijedloge programa iz dokumenta Prijedlog Obrambenog programa Ministarstva obrane pri tome koristeći rezultate analiza koje je izradila Uprava za financije i proračun. Ukoliko se ukaže potreba, Vijeće poziva nositelje programa, aktivnosti i čelnike projektnih timova da dodatno obrazlože prijedloge. Prijedlog Obrambenog programa Ministarstva obrane zajedno s preporukama, primjedbama i prijedlozima Vijeće do 20. ožujka dostavlja nositeljima programa na razradu i doradu.

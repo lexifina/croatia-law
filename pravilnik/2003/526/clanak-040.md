@@ -1,0 +1,2 @@
+# Članak 40.
+Programski elementi više razine usklađuju i objedinjuju prijedloge proračuna podređenih programskih elemenata za sljedeću proračunsku godinu i projekcije proračuna za naredne dvije godine, te objedinjeni prijedlog proračuna dostavljaju svojom uspravnicom Upravi za financije i proračun najkasnije do 15. lipnja. U objedinjenom prijedlogu proračuna moraju biti vidljivi rashodi programskih elemenata po odobrenim programima, aktivnostima, projektima i stavkama Računskog plana Ministarstva obrane.

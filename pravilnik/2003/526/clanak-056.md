@@ -1,0 +1,4 @@
+# Članak 56.
+Svi nositelji aktivnosti i projektni timovi dužni su do 20. lipnja pripremiti procjenu razine realizacije aktivnosti i projekata iz tekuće godine, te predložiti odgovarajuće mjere za eventualnu preraspodjelu sredstava i promjenu razine financiranja pojedine aktivnosti ili projekta ako se pokaže da je to neophodno kako bi se realizirali postavljeni obrambeni ciljevi. Ove procjene šalju nadležnom nositelju programa.
+Nositelji programa do 10. srpnja raspravljaju i usuglašavaju procjene te ih sa svojim primjedbama i prijedlozima prosljeđuju Vijeću.
+Vijeće raspravlja i usuglašava procjene realizacije programa do 20. srpnja i priprema preporuke ministru obrane za pokretanjem procesa preraspodjele odobrenih financijskih sredstava za tekuću godinu ili za zahtijevanje dodatnih sredstava od Vlade Republike Hrvatske.

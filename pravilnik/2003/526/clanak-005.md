@@ -1,0 +1,6 @@
+# Članak 5.
+Strategijski pregled stanja vojnih sposobnosti predstavlja ocjenu godišnje realizacije dugoročnih strategijskih dokumenata obrambenog planiranja sa stajališta primjerenosti konceptualnih rješenja promjenama u sigurnosnom okruženju. U slučaju potrebe, temeljem ovog dokumenta ministar obrane predlaže Vladi Republike Hrvatske izmjene odnosno dopune strategijskih dokumenata iz kojih se izvode pojedine obrambene sposobnosti ili obrambeni koncept u cjelini. Nakon formalne verifikacije strategijskih dokumenata pokreće se postupak prilagođivanja svih dokumenata u SPPP-u.
+Nositelj izrade dokumenta iz stavka 1. ovoga članka je Uprava za obrambenu politiku u suradnji s Vojnom-sigurnosnom agencijom, Glavnim stožerom Oružanih snaga Republike Hrvatske (u daljnjem tekstu: Glavni Stožer) i drugim tijelima državne uprave.
+Strategijski pregled vojnih sposobnosti provodi se do 20. veljače. Odobrava ga ministar obrane do kraja veljače.
+Pored redovnih, mogu se provoditi i izvanredni strategijski pregledi u slučajevima velikih promjena u užem ili širem sigurnosnom okruženju, te unutarnjih promjena koje bitno utječu na obrambene interese i ciljeve odnosno obrambeni koncept, veličinu, sastav i strukturu vojnih sposobnosti, a što će zahtijevati promjene u dokumentima SPPP-a.
+2. Razvojno planiranje

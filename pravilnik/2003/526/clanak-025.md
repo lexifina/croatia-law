@@ -1,0 +1,4 @@
+# Članak 25.
+Prijedlog Obrambenog programa Ministarstva obrane objedinjava sve Prijedloge programa, te donosi prosudbu posljedica financiranja predloženih aktivnosti i projekata i ukupnih programa s obzirom na ciljeve i zadaće koji proizlaze iz dokumenata razvojnog i operativnog planiranja. Također sadrži analizu mogućnosti realizacije u odnosu na procjenu dostupnih sredstava. Odnosi se na naredno šestogodišnje razdoblje, pri čemu se svake godine usklađuju ranije izrađeni prijedlozi te se dodaje nova programska godina.
+Procjene utjecaja financiranja predloženih programa, kao i objedinjavanje svih prijedloga vrši Uprava za financije i proračun u suradnji s Upravom za programe, financije i proračun Glavnog stožera i s nositeljima programa.
+Prijedlog Obrambenog programa Ministarstva obrane dostavlja se na raspravu Vijeću do 10. ožujka.
