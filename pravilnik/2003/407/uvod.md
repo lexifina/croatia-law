@@ -1,0 +1,1 @@
+Na temelju članka 144. Zakona o kaznenom postupku (»Narodne novine« broj 110/97., 27/98., 58/99., 112/99., i 58/02) i članka 122. Zakona o prekršajima (»Narodne novine« broj 88/02) ministrica pravosuđa, uprave i lokalne samouprave donosi

@@ -1,0 +1,2 @@
+# Članak 6.
+Postupak davanja posebnog dopuštenja za obavljanje poslova dostave u kaznenom i prekršajnom postupku od strane ministra nadležnog za poslove pravosuđa, pokreće se u Ministarstvu nadležnom za poslove pravosuđa podnošenjem zahtjeva trgovačkog društva ili obrtnika, kojem zahtjevu treba priložiti ponudu s cjenikom usluga dostave i dokumentaciju kojom se dokazuje ispunjenje uvjeta iz članka 2. i članka 3. ovoga Pravilnika.

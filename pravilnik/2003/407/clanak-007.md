@@ -1,0 +1,2 @@
+# Članak 7.
+Ministar nadležan za poslove pravosuđa, nakon što razmotri zahtjev, ponudu s cjenikom usluga dostave i svu podnesenu dokumentaciju trgovačkog društva ili obrtnika, te utvrdi da trgovačko društvo ili obrtnik ima prihvatljivu ponudu, ispunjava uvjete iz članka 2. i članka 3. ovoga Pravilnika, donijet će pisano rješenje o posebnom dopuštenju za obavljanje poslova dostave u kaznenom i prekršajnom postupku u roku od 30 dana od dana podnošenja zahtjeva.
