@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata ("Narodne novine", broj 91A/93) i članka 51. stavka 4. Zakona o bankama i štedionicama ("Narodne novine", broj 46/97 - pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 8. siječnja 1998. godine, donijela
