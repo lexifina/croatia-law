@@ -1,0 +1,1 @@
+Na temelju članka 31. Statuta Hrvatske obrtničke komore i na prijedlog Odbora za strukovnu izobrazbu Hrvatske obrtničke komore Upravni odbor Hrvatske obrtničke komore na 19. sjednici održanoj 19. 1. 2001. godine donio je
