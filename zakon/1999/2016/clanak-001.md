@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine«, br. 10/97., 124/97., 68/98. i 22/99.) u članku 11., VI. KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA u općini pod točkom »19. Sveti Petar Orehovec« u popisu naselja brišu se naselja: »Barlabaševac, Deklešanec, Donja Rijeka, Dropkovec, Fajerovec, Fodrovec Riječki, Gornja Rijeka, Kolarec, Kostanjevec Riječki, Lukačevec, Nemčevec, Pofuki, Štrigovec i Vukšinec Riječki.«
