@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 17. stavak 4. mijenja se i glasi:
+"Porezna osnovica poreza na promet za prerađevine od duhana - cigarete, je maloprodajna cijena cigareta s uračunatim porezom na promet proizvoda koju utvrđuje proizvođač, odnosno uvoznik cigareta. Proizvođač, odnosno uvoznik cigareta dužan je o utvrđenim maloprodajnim cijenama cigareta obavijestiti Ministarstvo financija Republike Hrvatske. Prijavljena maloprodajna cijena cigareta ne može se mijenjati bez prethodne prijave Ministarstvu financija Republike Hrvatske. Za ostale prerađevine od duhana (cigarilosi, duhan za lulu i dr.) porezna osnovica je prodajna cijena u koju nije uračunat porez na promet proizvoda."
