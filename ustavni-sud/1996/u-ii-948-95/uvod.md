@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u Vijeću sastavljenom od dopredsjednika Suda mr. Hrvoja Momčinovića, kao predsjednika Vijeća i sudaca mr. Vojislava Kučekovića i Mladena Žuvele, kao članova Vijeća u postupku povodom prijedloga I. Š. iz P. za povrat u prijašnje stanje, na sjednici održanoj dana 20. prosinca 1995. godine jednoglasno je donio slijedeće
