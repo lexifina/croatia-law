@@ -1,0 +1,1 @@
+Naredba o homologaciji halogenih glavnih svjetala koja sa svjetlosnim izvorom čine nerastavljivu cjelinu ("HSB svjetla") za motorna vozila s asimetričnim kratkim i/ili s dugim svjetlosnim snopom moraju biti homologirana sukladno ovoj naredbi
