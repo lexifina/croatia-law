@@ -1,0 +1,3 @@
+## o izmjeni Uredbe o naČinu izraČuna iznosa pomoĆi izravnanja za decentralizirane funkcije jedinica lokalne i podruČne (regionalne) samouprave za 2003. godinu
+# Članak 1.
+U Uredbi o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2003. godinu (»Narodne novine«, br. 155/2002 i 154/2003), u Tablici 0 - Zbirni pregled sredstava za decentralizirane funkcije za 2003. godinu po županijama, mijenjaju se iznosi u stupcu 5 - Domovi za starije i nemoćne, te iznosi u stupcu - Sveukupne obveze za decentralizirane funkcije, na način kako je to navedeno u izmijenjenoj Tablici 0 - Zbirni pregled sredstva za decentralizirane funkcije za 2003. godinu po županijama, koja je sastavni dio ove Uredbe.
