@@ -1,0 +1,1 @@
+Na temelju članka 9. stavak 3. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, br. 68/2001 i 109/2001) Vlada Republike Hrvatske je na sjednici održanoj 16. svibnja 2002. godine, donijela
