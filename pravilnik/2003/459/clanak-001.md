@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog ŽeljezniČkog graniČnog prijelaza I. kategorije Koprivnica
+# Članak 1.
+Područje stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Koprivnica smješteno je na željezničkom kolodvoru Koprivnica i obuhvaća prostor od skretničarskog bloka I. do skretničarskog bloka II. u dužini od 905 m i širini 100 m, na k.č. 3112/1 i 3123 k.o. Koprivnica, gdje se nalazi 17 kolosijeka za putnički i teretni promet, i zgrada željezničkog kolodvora s čekaonicom i parkirališnim prostorom, te prometni i ostali uredi koje koriste djelatnici Hrvatskih željeznica i policije.
+Područje graničnog prijelaza Koprivnica smješteno je i na željezničkom kolodvoru Đekenješ u Republici Mađarskoj, a obuhvaća 15 kolosijeka za putnički i teretni promet i zgradu željezničkog kolodvora u kojoj se nalaze uredi koje koriste djelatnici hrvatske granične policije, carine, veterinarske i fitosanitarne službe te djelatnici hrvatskih i mađarskih željeznica.
+Ukupna površina područja graničnog prijelaza iznosi 76 342 m2.
