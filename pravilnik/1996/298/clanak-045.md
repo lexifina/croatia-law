@@ -1,0 +1,2 @@
+# Članak 45.
+Ribarski brodovi i ribarske brodice ne smiju u lukama ribati pomoću svjetala, a u ostalim predjelima navedenim u članku 41. ovoga pravilnika mogu se upotrebljavati samo zaklonjena svjetla, tako da ne ometaju dobru i slobodnu vidljivost brodovima koji plove u tim predjelima. Ako ribarski brodovi ili ribarske brodice svojim svjetlima ometaju vidljivost, dužni su na dani signal broda, što se sastoji od jednog dugog zvuka zviždaljkom, ugasiti ili zakloniti svoja svjetla.
