@@ -1,0 +1,1 @@
+Na temelju člana 171. točke 1. Statuta Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja radnika Hrvatske ("Narodne novine", br. 31/83, 47/83, 53/85, 23/86, 52/86, 32/89, 48/89 i 57/89) Skupština Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja radnika Hrvatske, na sjednici održanoj 28. ožujka 1990. donosi
