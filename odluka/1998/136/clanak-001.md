@@ -1,0 +1,7 @@
+# Članak 1.
+Osnovice za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike iz članka 15. Zakona o mirovinskom i invalidskom osiguranju - pomorci na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom, određuju se prema stupnju stručne spreme i to:
+1) za radnike zaposlene na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom - u daljnjem tekstu hrvatski brodovi, u svojstvu kapetana duge plovidbe ili strojara I. klase (visoka stručna sprema) u svoti od 4.348,00 kn;
+2) za radnike zaposlene na hrvatskim brodovima u svojstvu kapetana obalne plovidbe, poručnika trgovačke mornarice, strojara II. klase, strojara III. klase ili radio telegrafiste (viša stručna sprema) u svoti od 4.162,00 kn;
+3) za radnike zaposlene na hrvatskim brodovima u svojstvu vođe palube, vođe stroja, kormilara, ložača, mazača, I. kuhara, I. konobara, tesara, mehaničara, električara, motoriste, brodovođe ili radiofoniste (srednja stručna sprema) u svoti od 3.162,00 kn;
+4) za radnike zaposlene na hrvatskim brodovima u svojstvu mornara, II. kuhara, II. konobara, ugljenara, pripravnika palube (kadeta), asistenta stroja ili asistenta radiofonije (niža stručna sprema) u svoti od 2.369,00 kn;
+5) za radnike zaposlene na hrvatskim brodovima u svojstvu mladića palube, mladića sobe, mladića kuhinje i čistača (poslovi za koje se ne traži stručna sprema) u svoti od 1.994,00 kn.
