@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o obaveznome zdravstvenom pregledu usjeva i objekata, sjemena i sadnog materijala poljoprivrednog i šumskog bilja (»Narodne novine«, broj 53/91., 11/94., 11/95. i 9/99.), u Mjerilima za utvrđivanje zdravstvenog stanja usjeva i objekata, sjemena i sadnog materijala, u glavi I. Poljoprivredno bilje, u točki I. Ratarske, krmne i industrijske kulture, pod rednim brojem 1. a) strna žita: pšenica (Triticum), ječam (Hordeum), raž (Secale cereale), zob (Avena sativa), tritikale (Triticale) i trave (Gramineae), pod Fusarium spp., mjerilo u stupcu 6. mijenja se i glasi:
+Stupac 6.: »10%«.
