@@ -1,0 +1,4 @@
+# Članak 2.
+Pod tehnološkim manjkom u smislu ove Odluke razumijevaju se gubici nastali u procesima proizvodnje nafte i prirodnog plina, te prerade nafte i plina, u normalnom radu, kao posljedica tehnologija procesa, svojstava proizvoda i prirodnih utjecaja.
+Tehnološki manjak iskazuje se prema ulaznoj sirovini koja predstavlja naftu, prirodni plin i druge nedovršene proizvode prerade nafte (komponente za namješavanje i sirovine za procesne jedinice), te sredstva za poboljšanje fizičko-primjenskih svojstava.
+Tehnološki manjak nastaje uslijed isparavanja, radnji izvršenih tijekom punjenja, pražnjenja i dreniranja spremnika i plinovoda, pri transportu proizvoda, radom sigurnosnog sustava, uslijed kretanja i zaustavljanja postrojenja, tijekom čišćenja spremnika i sustava za obradu otpadnih voda, uslijed prividnog manjka kao posljedica sadržaja neugljikovodika u nafti, te pri ispiranju linija punjenja u proizvodnim jednicama.
