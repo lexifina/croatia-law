@@ -1,0 +1,1 @@
+Na temelju članka 39. stavak 2. pod j) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2000.) i točke I. Odluke o načinu dostave i sadržaju podataka koji se dostavljaju Međunarodnom monetarnom fondu (»Narodne novine«, br. 116/1993. i 112/2001.) donosim
