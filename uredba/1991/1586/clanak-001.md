@@ -1,0 +1,3 @@
+## o izmjeni Uredbe o osnivanju i radu Komisije za postupanje s osobama zarobljenim u oružanim sukobima u Republici Hrvatskoj
+# Članak 1.
+U Uredbi o osnivanju i radu Komisije za postupanje s osobama zarobljenim u oružanim sukobima u Republici Hrvatskoj ("Narodne novine", broj 39/91 i 53/A/91) u članku 3. stavak 2. mijenja se i glasi: "Predsjednika, zamjenika predsjednika i članove Komisije imenuje odlukom Vlada Republike Hrvatske, između predstavnika Vlade Republlke Hrvatske, ministarstava pravosuđa i uprave, obrane, unutarnjih poslova, zdravstva i rada, socijalne skrbi i obitelji te predstavnika znanstvenih i stručnih institucija".
