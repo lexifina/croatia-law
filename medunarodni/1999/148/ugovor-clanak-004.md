@@ -1,0 +1,8 @@
+# Članak 4.
+1.a) Ugovorne se stranke obvezuju ne ometati slobodno kretanje i putovanje osoba navedenih u stavku 1. članka 1. ovoga Sporazuma koje je poduzeto u svezi sa sudjelovanjem u postupku pred Sudom.
+b) Kretanje i putovanje navedenih osoba ne smije se ograničiti, osim ako nije zakonom određeno i nužno u demokratskom društvu u interesu nacionalne ili javne sigurnosti, za održavanje javnog reda, za sprječavanje kaznenog djela, za zaštitu zdravlja ili morala ili za zaštitu prava ili sloboda drugih.
+2.a) Takve se osobe, u tranzitnim zemljama ili u zemlji gdje se provodi postupak, ne smiju progoniti ili pritvoriti niti biti izložene bilo kojem drugom ograničenju osobne slobode, a u svezi svojih djelovanja ili izraženih uvjerenja koja su prethodila početku putovanja.
+b) Svaka ugovorna stranka može u vrijeme potpisivanja, ratifikacije, prihvata ili odobrenja ovoga Sporazuma izjaviti da se odredbe ovoga stavka neće primjenjivati na njene državljane. Takva izjava se može u bilo koje vrijeme povući putem izjave upućene glavnom tajniku Vijeća Europe.
+3. Ugovorne se stranke obvezuju da će dopustiti povratak na svoje područje svakoj osobi koja je započela putovanje na tom području.
+4. Odredbe stavka 1. i 2. ovoga članka prestaju važiti ako je navedena osoba imala mogućnost vraćanja u državu u kojoj je započela svoje putovanje u roku od petnaest uzastopnih dana od datuma kada njena nazočnost na Sudu nije više potrebna.
+5. U slučaju sukoba između obveza ugovorne stranke koje proizlaze iz stavka 2. ovoga članka i onih iz neke konvencije Vijeća Europe ili sporazuma o izručenju ili drugog sporazuma o uzajamnoj pomoći u kaznenim stvarima koje su na snazi u odnosu na druge ugovorne stranke, primijenit će se odredbe stavka 2. ovoga članka.

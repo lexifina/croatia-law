@@ -1,0 +1,3 @@
+# Članak 8.
+1. Ovaj Sporazum stupa na snagu prvog dana u mjesecu koji slijedi nakon isteka razdoblja od mjesec dana od dana kad je deset država čalnica Vijeća Europe izrazilo svoju suglasnost da budu vezane Sporazumom sukladno odredbama članka 7. ili danom stupanja na snagu Protokola 11. uz Konvenciju, ovisno o tomu koji je kasniji.
+2. U odnosu na države članice koje naknadno izraze svoju suglasnost da budu vezane ovim Sporazumom, on stupa na snagu prvim danom mjeseca koji slijedi nakon isteka razdoblja od mjesec dana od dana potpisivanja ili polaganja isprava o ratifikaciji, prihvatu ili odobrenju.
