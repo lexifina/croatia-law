@@ -1,0 +1,4 @@
+# Članak 7.
+Obrazac broj 2. nosi naziv "Evidencija i izvješće o kategorijama korisnika humanitarne pomoći".
+Ispod naziva obrasca upisuje se mjesec i godina, a s gornje desne strane svaka humanitarna organizacija unosi svoj naziv i sjedište i datum popunjavanja obrasca. U tabelarni dio upisuje se broj korisnika po pojedinim kategorijama, vrsta primljene humanitarne pomoći (materijalna iskazana u dinarskoj i deviznoj vrijednosti u DEM, te novčana iskazana u dinarskoj i deviznoj vrijednosti u DEM). S donje desne strane stavlja se štambilj humanitarne organizacije, kao i poptis odgovorne osobe u organizaciji.
+Ovaj obrazac popunjava se u dva istovjetna primjerka time da je jedan primjerak zadržava humanitarna organizacija, a drugi primjerak dostavlja Ministarstvu rada i socijalne skrbi u razdoblju od 1. do 10. u mjesecu, za svaki prethodni mjesec.

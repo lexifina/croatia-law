@@ -1,0 +1,4 @@
+# Članak 5.
+Obrazac broj 1. nosi naziv "Evidencija i izvješće o prikupljenoj i raspodijeljenoj humanitarnoj pomoći".
+Ispod naziva popunjava se mjesec i godina prikupljene i raspodijeljene humanitarne pomoći, a s gornje desne strane svaka humanitarna organizacija unosi svoj naziv, sjedište i datum popunjavanja obrašca. U tabelarni dio upisuje se vrsta humanitarne pomoći, mjerna jedinica za pomoć, dinarska i devizna vrijednost, te konačno stanje nakon prikupljanja i raspodjele humanitarne pomoći. S donje desne strane stavlja se štambilj humanitarne organizacije i potpis odgovorne osobe u organizaciji.
+Obrazac se popunjava u dva istovjetna primjerka, time da jedan primjerak zadržava humanitarna organizacija, a drugi primjerak dostavlja Ministarstvu rada i socijalne skrbi Republike Hrvatske u razdoblju od 1. do 10. u mjesecu, za svaki prethodni mjesec.
