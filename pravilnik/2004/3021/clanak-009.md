@@ -1,0 +1,6 @@
+# Članak 9.
+Rukavice su bijele boje s odvojenim prstima a izrađuju se od sintetičkog prediva.
+Zimske cipele crne su boje a izrađuju se od boks kože, iznutra s lastikom preko rista ili vezicama izvana, kožnim međuoplatom i umetkom za stopala.
+Ljetne cipele bijele su boje, a izrađene su kao i zimske cipele.
+Čarape za zimsku odoru plave su boje a za ljetnu bijele boje. Izrađuju se od pamučnog ili sintetičkog prediva.
+Ženske su čarape svijetlo smeđe boje.
