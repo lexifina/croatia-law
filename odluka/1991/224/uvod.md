@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 4. Ustava Republike Hrvatske, članka 6. Ustavnog zakona za provedbu Ustava Republike Hrvatske i člana 32. Poslovnika Sabora Republike Hrvatske, Sabor Republike Hrvatske, na sjednici Društveno-političkog vijeća 22. veljače 1991, donio je
