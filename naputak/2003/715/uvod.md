@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99, 15/00, 127/00 i 59/01), te članka 60. stavka 2. Pravilnika o načinu i uvjetima provedbe modela poticanja proizvodnje, modela potpore dohotku i programa očuvanja hrvatskih izvornih zaštićenih pasmina (»Narodne novine«, broj 11/03), ministar poljoprivrede i šumarstva donosi
