@@ -1,0 +1,87 @@
+REPUBLIKA HRVATSKA
+
+VRHOVNI SUD REPUBLIKE HRVATSKE
+
+Z A G R E B
+
+Broj: I Kž 1009/1994-3
+
+P R E S U D A
+
+U IME REPUBLIKE HRVATSKE!
+
+Vrhovni sud Republike Hrvatske u Zagrebu u vijeću sastavljenom od sudaca Vrhovnog suda Milana Gudelja, kao predsjednika vijeća, te mr. Branka Zmajevića, Milana Petranovića, Ane Garačić i Senke Klarić-Baranović, kao članova vijeća i savjetnice Vinje Ileane, kao zapisničara u krivičnom predmetu protiv opt. B.D., zbog krivičnog djela iz čl. 34. st. 1. KZRH, rješavajući žalbe državnog odvjetnika i optuženika podnesene protiv presude Županijskog suda u Zagrebu od 10. studenog 1994., br. K 132/94, u sjednici održanoj 9. svibnja 1995., u prisutnosti zamjenika državnog odvjetnika Republike Hrvatske M.V.
+
+p r e s u d i o j e:
+
+Odbijaju se kao neosnovane žalbe državnog odvjetnika i opt. B.D. te se potvrđuje presuda suda prvog stupnja.
+
+O b r a z l o ž e n j e
+
+Županijski sud sud u Zagrebu proglasio je krivim opt. B.D. zbog krivičnog djela iz čl. 34. st. 1. KZRH, pobliže činjenično i pravno opisanog u izreci te presude te mu izrekao kaznu zatvora u trajanju od 10 godine.
+
+Protiv te presude žale se državni odvjetnik i optuženik.
+
+Okružni državni odvjetnik žali se zbog odluke suda o kazni u kojoj žalbi predlaže da se presuda preinači i optuženiku izreče kazna zatvora u dužem trajanju.
+
+Optuženik se žali zbog bitne povrede odredaba krivično postupka, povrede krivičnog zakona, pogrešno i nepotpuno utvrđenog činjeničnog stanja i odluke o kazni, te predlaže da se presuda ukine i predmet vrati sudu prvog stupnja na ponovno suđenje, odnosno da se presuda preinači, optuženik oslobodi od optužbe ili da mu se izrekne blaža kazna.
+
+Vračajući spis, državni odvjetnik Republike Hrvatske, temeljem čl. 360. st. 2. ZKP predložio je da se žalba okružnog državnog odvjetnika uvaži, dok da se žalba optuženika odbije kao neosnovana.
+
+Iako je u smislu čl. 361. st. 1. ZKP optuženik u žalbi stavio zahtjev da o sjednici vijeća budu obaviješteni on i njegov branitelj, sjednica vijeća održana u njihovoj odsutnosti na temelju odredbe čl. 20. Uredbe o primjeni Zakona o krivičnom postupku u slučaju ratnog stanja ili neposredne ugroženosti, neovisnosti i jedinstvenosti Republike Hrvatske, prema kojoj se u postupku o žalbi ne primjenjuju odredbe Zakona o krivičnom postupku o obvezi obavješćivanja stranaka o sjednici vijeća (čl. 360. st. 1., 2. i 4. ZKP).
+
+Žalbe nisu osnovane.
+
+Nije u pravu optuženik kada se žali zbog bitne povrede odredaba krivičnog postupka.
+
+Pod tim žalbenim osnovom žalitelj tvrdi da pobijana presuda zbog šturog obrazloženja se ne može ispitati, vjerojatno žalitelj drži, ali neprecizno ističe, da je počinjena apsolutno bitna povreda odredaba krivičnog postupka u sastavu presude, jer nisu navedeni razlozi o odlučnim činjenicama ili da su oni potpuno nejasni (čl. 354. st. 1. toč. 11.). U obrazloženju tog žalbenog osnova tvrdi se da je sud otklonio prihvatiti obranu optuženika da se radi o nužnoj obrani, ali da taj stav suda nije dovoljno jasan, pa se tek može nagađati, koji je razlog tome što je sud otklonio takovu obranu optuženika. Suprotno toj nejasnoj i paušalnoj tvrdnji žalitelja sud prvog stupnja naveo je razloge o svim odlučnim činjenicama na kojima se neposredno temelji primjena zakona. U odnosu na navode obrane da se radilo o nužnoj obrani "pa makar i putativnoj" sud je dao svoje razloge zbog čega takovu obranu otklanja (str. 9 presude), pobijana presuda dakle nema nedostataka u odnosu na tu odlučnu činjenicu koja je u presudi utvrđena, a i razlozi presude za nju su jasni. Dakle, sud je potpuno jasno iznio svoje razloge, tako da se iz njih može pouzdano shvatiti i zaključiti na što se oni odnose, odnosno što je sa njima odlučeno.
+
+Prema tome optuženik nije u pravu kada se žali zbog bitne povrede odredaba krivičnog postupka.
+
+Optuženik nije u pravu niti kada se žali zbog pogrešno i nepotpuno utvrđenog činjeničnog stanja.
+
+Na temelju rezultata glavne rasprave sud prvog stupnja izveo je pravilan zaključak da je optuženik počinio djelo koje mu se stavlja na teret optužnicom i da je krivično odgovoran. Za svoja činjenična utvrđenja sud je naveo iscrpne i razumljive razloge, koje kao valjane i potkrepljene izvedenim dokazima u svemu prihvaća i ovaj sud drugoga stupnja. Žalbenim navodima protiv presude suda prvog stupnja optuženik ne dovodi u pitanje pravilnost utvrđenih činjenica odlučnih za donošenje zakonite i valjane presude.
+
+U odnosu na ovaj žalbeni osnov optuženik tvrdi kako je nesporno da je do tragičnog događaja došlo nakon sukoba, prepirke i naguravanja između oštećenika i optuženika. Optuženik se zbog psihičkog stanja u kojem se nalazio događaja ne sjeća detaljno, a u svojoj obrani navodi svoj subjektivni osjećaj da je bio napadnut. Kada mu je oštećenik pokazao policijsku značku, kod optuženika je to, a kako on ističe, izazvalo osjećaj straha od zavjere. To je bi njegov subjektivni osjećaj, koji je moguć kada se cijeni nalaz i mišljenje vještaka dr. M.G.. Iz iskaza svjedoka L.B. proizlazi da je optuženik bio taj koji je prvi napustio mjesto konflikta i prešao na drugu stranu ulice. Oštećenik se je "zaletio" za njim preko ceste, sustigao ga, desnom rukom uhvatio za rame i snažno okrenuo. Postupci oštećenika, smatra žalitelj, su upućivali da on - oštećenik optuženika kani fizički napasti.
+
+U odnosu na tu tvrdnju žalitelja treba reći, prije svega, da do fizičkog sukoba nije uopće došlo već samo do verbalne prepirke i napada optuženika. Osnovano sud iz iskaza svjedoka utvrđuje da je do kontakta između oštećenika i optuženika došlo posve slučajno u prolazu (svjedok B.L. ), te da je optuženik bio taj koji je nakon toga udario oštećenika i tada dolazi do verbalne prepirke. Što se tiče navoda žalbe da je optuženik imao osjećaj da će biti napadnut, pravilno sud zaključuje, da postojanje napada treba ocjenjivati prema smislu, koju kategoriju napada i kategoriju opasnosti, imaju u običnom životu. Za ocijenu da li je postojao napad mjerodavno je objektivno stanje stvari, a ne shvaćanje preosvetljive osobe, koja je napadnuta. Prema objektivnom stanju stvari oštećenik je nakon što je udaren, i nakon što se je predstavio kao policajac pošao za oštećenikom koji je prešao ulicu, te ga primio za rame. Osnovano zaključuje sud da se ne radi o stvarnom napadu, ne radi se o postupku koji predstavlja aktivni napad, oštećenik je samo želio zaustaviti optuženika time što ga je uhvatio za rame. Okolnost da je eventualno optuženik shvatio da predstoji napad i "braneći se" od toga započeo pucati u oštećenika, ne lišava tu radnju protupravnosti. S pravom sud prvog stupnja utvrđuje na strani optuženika postojanje krivnje, jer kad se obrana optuženika cijeni u smislu odrebe čl. 14. OKZRH, mora se poći do zaključka, da okolnost što je oštećenik, koji se je prethodno predstavio kao policajac, pošao za optuženikom primio ga za rame, ne čini objektivno materijalnu pretpostavku, činjeničnu osnovu za isključenje protupravnosti, a u ovom slučaju za nužnu obranu.
+
+Nadalje žalitelj drži da je propust suda u tome, što optuženik nije mogao provjeriti nalaz medicinskog vještaka u dijelu u kojem vještak tvrdi da je optuženik ispalio tri hica, dva u prednji dio tijela, a jedan u leđa. Naime, nema fotografije mrtvog tijela oštećenika, pa je sud nekritički prihvatio takav nalaz vještaka.
+
+Protivno tome nema nikakvog razloga da se sumnja u nalaz medicinskog vještaka o povredama oštećenika jer postoji obdukcioni zapisnik, strijelne rane jasno su i detaljno opisane i to dvije ulazne strijelne rane sa prednje strane tijela u predjelu lijeve trbušne stijenke i jedna na lijevoj strani leđa. Ova posljednja rana bila je smrtonosna i zadobivena je u trenutku kada je oštećenik već bio na koljenima.
+
+U svojoj žalbi optuženik nadalje tvrdi da liječnik psihijatar u svome nalazu nije odgovorio na sva pitanja vezana za optuženikovu sposobnost rasuđivanja i mogućnost da upravlja postupcima u vrijeme izvršenja djela. Uz tu tvrdnju žalitelj prilaže i izvatke članaka u kojima se razmatraju posljedice posttraumatskog sidroma od kojeg boluje, kako navodi žalitelj, znatan dio boraca domovinskog rata, a među njima i optuženik. To su su pravilu osobe koje u kritičnim trenucima imadu rekacije neuračunljivih osoba ili barem bitno smanjeno uračunljivih. Zbog toga se u žalbi predlaže novo vještačenje jer je objavljeno vještačenje manjkavo, a nalaz i mišljenje neuvjerljivi.
+
+Međutim, sud prvog stupnja pravilno je cijenio nalaz i mišljenje liječnika psihijatra dr. M.G.. Naime, vještak je u svome nalazu ustvrdio da se kod optuženika radi o trajnim poremećajima ličnosti, kao i posttraumatskim tegobama uvjetovanim iskustvom sa ratišta, te nizom frustrirajućih situacija koje je preživljavao nakon dolaska sa bojišta. Svi elemetni psihičkog stanja optuženika ipak po mišljenju vještaka ne dostižu razinu sumanutih bolesnih ideja. Vještak nalazi da nisu kod optuženika registrirani takovi psihopatološki elementi koji bi opravdavali ocjenu bitne redukcije shvaćanja vlasititih postupaka i upravljanja njima. Usprkos toga što optuženik imade ozbiljne adaptacijske teškoće, te pokazuje značajnu razinu nekritičnosti, on imade, smatra vještak, očuvano testiranje realiteta i jasna mu je njegova pozicija u postupku. Imajući u vidu strukturu ličnosti optuženika, te konfliktnu situaciju u kojoj se našao, vještak smatra, da su sposobnosti optuženika da shvati svoje postupke i upravlja njima bile smanjene, ali ne i bitno. Na temelju nalaza vještaka sud opravdano utvrđuje da je smanjena uračunljivost optuženika sasvim na području uračunljivosti. Radi se o učiniocu djela koji je u stanju da spozna značenje toga svoga djela, ali koji mora, da bi u datoj situaciji dostigao zakonom određeni stupanj sposobnosti potreban za uračunljivost, uložiti veće napore. Put do spoznaje kod njega je teži nego kod posve uračunljivih osoba, ali mu je dostupan. Pravilno sud prvog stupnja utvrđuje da obzirom na navedeno bio - psihološko stanje optuženika, koje utječe na sposobnost rasuđivanja ili odlučivanja je takovo da se optuženiku može, poštujući teškoće koje imade, ali potvrđujući i njegov stupnj uračunljivosti, priznati smanjeni stupanj tih sposobnosti.
+
+U svojoj žalbi optuženik nadalje tvrdi da su iskazi svjedoka na koje se oslanja prvostupanjska presuda međusobno proturječni i neuvjerljivi, kao i da sud ispušta neke iskaze svjedoka koji idu u prilog optuženiku. Tako se sud oslanja na iskaz svjedokinje L.B. i svjedoka B.B.. Iskaz svjedokinje u istrazi i na glavnoj raspravi se razlikuje, dok iskazu svjedoka B. su suprotni navodi drugih svjedoka (svjedok N.S.N. ). Svjedokinja B., tvrdi žalitelj, potpuno različito iskazuje u pogledu svoje udaljenosti od optuženika i oštećenika u trenutku događaja, a to je bitno da bi se mogao provjeriti njezin iskaz. Iskaz te svjedokinje je i suprotan kazivanju svjedokinje N.S. u dijelu koji se odnosi na prelaženje kolnika, također žalitelj drži da se njenom iskazu u pogledu pokazivanja policijske značke se ne može vjerovati. Nadalje, žalitelj tvrdi, ne može se niti prihvatiti iskaz svjedoka B., da oštećenik nije bio konfliktna osoba jer njegovi postupci govore suprotno, prema iskazima svjedoka, oštećenik je taj koji trči za optuženikom hvata ga za rame i okreće prema sebi, te na taj način izaziva optuženika.
+
+U odnosu na te navode žalbe, treba istaknuti, da je sud pravilno ocijenio iskaz svjedoka, a posebno iskaz svjedokinje B. i to dio iskaza se odnosi na udaljenosti od optuženika i oštećenika što je bez odlučnog značaja za provjeru valjanosti njihovog iskaza. Udaljenosti koje je ona navela, toliko su male, da je sa tih udaljenosti svjedokinja potpuno jasno mogla pratiti čitav događaj. Što se tiče njenog poznavanja policijske značke, bitno je, da je svjedokinja iskazala kako je oštećenik pokazao optuženiku značku, a to da li je ona takovu značku ranije vidjela nevažno je za ovaj postupak. Nadalje osnovano sud prihvaća iskaz svjedoka B. koji je svjedočio o karakternim osobinama oštećenika. Taj svjedok je osoba, koja od svih svjedoka najbolje je poznavao oštećenika i znao da je isti bio miran i povučene naravi. Činjenica da je oštećenik - policajac pošao za optuženikom primio ga za rame i okrenuo, po ničemu ne upućuje da je bio osoba sklona konfliktu, odnosno da bi takvim postupkom izazivao optuženika. Opravdano dakle sud nije prihvatio obranu optuženika da ga je oštećenik svojim agresivnim ponašanjem izazvao.
+
+Iz svega izloženog proizlazi da je sud prvog stupnja u potpunosti pravilno utvrdio sve činjenice koje su od značaja za ocjenu jeli učinjeno predmetno krivično djelo i jeli optuženik krivično odgovoran. Stoga nije osnovana optuženikova žalba zbog pogrešno i nepotpuno utvrđenog činjeničnog stanja.
+
+Nije u pravu optuženik niti kada se žali zbog povrede krivičnog zakona.
+
+Po tim žalbenim osnovom žalitelj tvrdi da je zbog pogrešno i nepotpuno utvrđenog činjeničnog stanja došlo do povrede zakona budući sud nije primjenio odredbe o nužnoj obrani, odnosno što djelo nije pravno kvalificirao kao krivično djelo izvršeno na mah. Iako se radi o prigovoru koji je u suštini činjenične naravi, jer se primarno prigovara pravilnosti odnosno potpunosti utvrđenog činjeničnog stanja, valja dodati da u radnji optuženika prije svega nisu ostvareni elementi bića krivičnog djela ubojstva na mah. Naime, ničime nije utvrđeno da bi optuženik učinio djelo u stanju jake razrdraženosti, da je bio optuženik bio i razdražen potpuno bi bilo neosnovano tvrditi da je u to stanje došao bez svoje krivnje i na kraju osim slučajnog kontakta tijela u prolazu između optuženika i oštećenika, nikakve provokacije od oštećenika nije bilo koja bi se sastojala u napadu, zlostavljanju ili teškom vrijeđanju optuženika.
+
+Nadalje pod istim žalbenim osnovom žalitelj tvrdi da je sud pogrješio u prosudbi da li se optuženik nalazio u zabludi u pogledu nužne obrane. Pri tome je sud pošao od ponašanja zdravog čovjeka, a morao je poći od ponašanja smanjeno uračunljive osobe. Optuženik je bio, navodi žalitelj, uvjeren da mu je život u opasnosti i on se je branio. Žalitelj time tvrdi, da optuženik obzirom na svoja lična svojstva bio u zabludi o činjeničnim pretpostavkama za isključenje protupravnosti. Iako se ponovno u suštini radi o prigovoru činjenične naravi, treba reći, da je sud prvog stupnja pravilno utvrdio da je optuženik bio potpuno svjestan da lišava života oštećenika pucajući u njegu tri hica iz blizine. Dakle bio je potpuno svjestan svih okolnosti koje ulaze u zakonsko biće krivičnog djela ubojstva. Optuženik usprkos svojoj smanjenoj uračunljivosti, nije pogrešno mislio da postoji napad na njega odnosno da postoje okolnosti pod kojima je njegovo djelo opravdano. Točno je da se zabluda temelji na uvažavanju krivnje određene osobe, koja je uvijek osobna, dakle konkretno optuženika sa svim njegovim senzibilitetom, međutim, u konkretnom slučaju prema nalazu liječnika psihijatra kod optuženika je usprkos njegove smanjene uračunljivosti ostao očuvan osjećaj za realitet, dakle za objektivno stanje stvari.
+
+Nisu u pravu državni odvjetnik niti optuženik kada se žale zbog odluke suda o kazni.
+
+Državni odvjetnik prigovara pobijanoj presudi da je kazna preblago odmjerena budući se radi o odioznom krivičnom djelu, jer je u centru grada ubijen mlad čovjek učesnik domovinskog rata. Potpuno nepotrebno usmrćen je oštećenik, što je tragedija za njega i njegovu obitelj. Ovakova djela imadu takovu društvenu opasnost da zahtjevaju, po mišljenju državnog odvjetnika, znatno strožu kaznu. Optuženik je osoba koja je neodgovorno nosila oružje i upotrijebila ga u beznačajnoj konfliktnoj situaciji, očito je da je sud morao strožom kaznom preventivno djelovati.
+
+Optuženik u svojoj žalbi ističe svoj doprinos u stvaranju hrvatske države. U tom ratu okrivljenik je doživljavao najveće strahote, koje su kod njega ostavile trajne posljedice, patnje koje svakodnevno proživljava. Nadalje, optuženik navodi, da mu se oblik krivnje ne može uzeti kao otegotna okolnost, dok olakotne okolnosti sud nije vrednovao onako kako je trebao. Optuženik je potpuno zdrav krenuo u obranu domovine, a vratio se sa takovim smetnjama koje mu zagorčuju život. Postao je smanjeno uračunljiv zato što je kao rodoljub i idealist branio Hrvatsku.
+
+Po utvrđenju ovog suda drugog stupnja sve navedene, kako olakotne, tako i otegotne okolnosti, pravilno je ocijenio sud prvog stupnja. Pri tome je imao u vidu da je optuženik djelo počinio u stanju smanjene uračunljivosti, da do sada nije osuđivan, kao i činjenicu da je oštećenik ipak u manjoj mjeri doprinio nastalnoj tragičnoj posljedici jer je pošao za optuženikom preko ceste onako isprovociran, iako je mogao uočiti, o kakvoj se osobi kod optuženika radi. Sud je pravilno kao olakotno uzeo optuženiku u obzir i njegov doprinos u stvaranju Republike Hrvatske, jer se je od prvih dana angažirao u tome, kako na političkom tako i na vojnom polju. Svojom odlukom o kazni sud je cijenio i činjenicu da je djelo počinjeno na javnom mjestu u prisustvu velikog broja ljudi i da je način izvršenja djela bio odiozan. Imajući u vidu sve navedene okolnosti ovaj sud drugog stupnja smatra da je izrečena kazna zatvora primjerena društvenoj opasnosti djela i ličnosti samog optuženika te će ta kazna po uvjerenju i ovog suda ostvariti svrhu kažnjavanja iz čl. 31. i čl. 5. st. 2. OKZRH.
+
+Zbog sveg navedenog trebalo je temeljem odredbe čl. 374. ZKP odbiti žalbe kao neosnovane i potvrditi presudu suda prvog stupnja.
+
+U Zagrebu, 9. svibnja 1995.
+
+Zapisničar:
+
+Predsjednik vijeća:
+
+Ileana Vinja, v.r.
+
+Milan Gudelj, v.r.
