@@ -1,0 +1,2 @@
+# Članak 22.
+Članak 43. mijenja se i glasi: "Porez na promet proizvoda i usluga plaća se na uplatne račune otvorene na razini ispostave Porezne uprave prema sjedištu odnosno prebivalištu poreznog obveznika. Porez na promet proizvoda i usluga - pravna osoba koja posluje preko svojih dijelova koje je ovlastila da utvrđuju i plaćaju porez na promet preko računa dijela pravne osobe, plaćaju porez na račune otvorene na razini ispostave Porezne uprave prema sjedištu dijela Poreznog obveznika".

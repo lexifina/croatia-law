@@ -1,0 +1,2 @@
+# Članak 25.
+U članku 47. stavak 1. mijenja se i glasi: "Porezni obveznih dužan je u svom knjigovodstvu osigurati podatke o poreznim osnovicama po tarifnim brojevima i istim poreznim stopama na osnovi kojih se utvrđuje i plaća porez Analitičko evidentiranje poreznih osnovica na koje se primjenjuju različite porezne stope iz istog tarifnog broja ili drugih tarifnih brojeva, porezni obveznik može osigurati i izvaknjigovodstvenom evidencijom". Stavak 2. briše se. Dosadašnji stavci 3. i 4. postaju stavci 2. i 3".

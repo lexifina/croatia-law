@@ -1,0 +1,2 @@
+# Članak 15.
+U članku 28. u stavku 3. točka 5. briše se. U istom stavku u točki 7. riječ "Privredne" zamjenjuje se riječiju "Gospodarske". Iza točke 7. dodaje se nova točka 8. koja glasi: "8. u času preuzimanja nadzornih markica za duhanshe prerađevine u smislu propisa o posebnom porezu na duhanske prerađevine". U stavku 8. riječi "općinski organ uprave nadležan za poslove društvenih prihoda" zamjenjuju se riječima "ispostava Porezne uprave" a riječ "općinski organi uprave za poslove društvenih prihoda" zamjenjuju se riječima "ispostava Porezne uprave".
