@@ -1,0 +1,4 @@
+# Članak 3.
+1. Belgijska, luksemburška ili nizozemska vlada prihvatit će na zahtjev hrvatske Vlade bez formalnosti svaku osobu koja ne ispunjava ili više ne ispunjava uvjete ulaska ili boravka koji se primjenjuju na teritoriju Republike Hrvatske, ukoliko je utvrđeno ili se pretpostavlja da osoba ima belgijsko, luksemburško ili nizozemsko državljanstvo.
+2. Posjedovanje državljanstva jedne od zemalja Beneluxa može se utvrditi ili pretpostaviti na temelju isprava navedenih u Prilogu 2 ovoga Ugovora.
+3. Vlada Republike Hrvatske prihvatit će natrag osobu iz stavka 1. ovog članka pod istim uvjetima ako se naknadnom provjerom utvrdi da u trenutku njezina udaljavanja s teritorija Republike Hrvatske nije imala belgijsko, luksemburško ili nizozemsko državljanstvo te ukoliko je belgijska, luksemburška ili nizozemska vlada nije obvezna prihvatiti temeljem članka 5. ovog Ugovora.
