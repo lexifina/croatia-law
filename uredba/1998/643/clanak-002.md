@@ -1,0 +1,2 @@
+# Članak 2.
+Zainteresirana stranka ili osoba koja ima pravni interes može podnijeti zahtjev nadležnom tijelu da donese novi akt kojim se zamjenjuje konvalidirani akt te utvrdi da su pojedinačni akt i odluka na temelju kojih je ostvarila neko od prava iz članka 1. ove Uredbe, sukladni ili protivni Ustavu Republike Hrvatske, Ustavnom zakonu o ljudskim pravima i slobodama i o pravima etničkih i nacionalnih zajednica ili manjina u Republici Hrvatskoj ili zakonima Republike Hrvatske.
