@@ -1,0 +1,1 @@
+Naredba o poduzimanju mjera radi sprečavanja širenja i iskorjenjivanja zlatne krumpirove cistolike nematode - Globodera rostochiensis Woll i sprječavanja pojave blijedožute krumpirove cistolike nematode Globodera pallida Stone

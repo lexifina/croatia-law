@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ukoliko se analizom iz članka 7. stavka 2. ove Naredbe potvrdi da se radi o zarazi krumpirovim cistolikim nematodama, nadležna inspekcija zaštite bilja rješenjem će zabraniti uporabu krumpira proizvedenog na zaraženom zemljištu za sadnju i razmnožavanje.
+(2) Nadležna inspekcija zaštite bilja može dozvoliti uporabu krumpira iz stavka 1. ove Naredbe u konzumne svrhe. Takav krumpir mora se prethodno u cijelosti očistiti od tla (uređajima za četkanje ili uređajima za pranje gomolja vodom). Navedeni krumpir može se pustiti u promet pakiran isključivo u novu, neupotrebljavanu ambalažu.
