@@ -1,0 +1,1 @@
+Na temelju člana 123. stava 1. i člana 141. stava 3. Zakona o ugostiteljskoj i turističkoj djelatnosti ("Narodne novine", br. 28/88) Zavod za unapređivanje odgoja i obrazovanja SR Hrvatske na sjednici Savjeta održanoj 14. prosinca 1989. u suglasnosti s Turističkim savezom Hrvatske, donio je
