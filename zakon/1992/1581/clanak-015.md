@@ -1,0 +1,2 @@
+# Članak 15.
+Pučki pravobranitelj može u svako doba pregledati kazneno-popravne domove i druge ustanove u kojima se ograničava sloboda kretanja. Pučki pravobranitelj ima pravo pristupa i pregleda svih prostorija u tim ustanovama. Nakon obavljenog pregleda, pučki pravobranitelj po potrebi sačinjava izvješće koje dostavlja organu koji obavlja nadzor nad tim ustanovama. Ukoliko u izvješču ima primjedbi na rad ustanova, nadzorni organ obavijestit će odmah, a najkasnije u roku od 30 dana, pučkog pravobranitelja o tome što je učinio u svezi s njegovim izvješćem.
