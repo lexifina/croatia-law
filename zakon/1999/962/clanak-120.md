@@ -1,0 +1,2 @@
+# Članak 120.
+Rješenja o zadržavanju objekta u prostoru donesena na temelju Zakona o postupanju s objektima građenim protivno prostornim planovima i bez odobrenja za gradnju ("Narodne novine", br. 33/92.) smatraju se lokacijskom dozvolom u postupku ishođenja građevne dozvole, ako je zahtjev za izdavanje građevne dozvole podnesen u roku od pet godina od dana konačnosti rješenja o zadržavanju objekta u prostoru.

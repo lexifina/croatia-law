@@ -1,0 +1,2 @@
+# Članak 114.
+Za prekršaj iz članka 105. stavka 1. podstavka 2., članka 107. stavka 1. podstavka 2., članka 110. stavka 1. podstavka 4. i 9. ovoga Zakona počinjen drugi put uz novčanu kaznu izreći će se mjera oduzimanja dozvole za obavljanje djelatnosti u trajanju od šest mjeseci, a za prekršaj počinjen treći put uz novčanu kaznu izreći će se i mjera oduzimanja dozvole za obavljanje djelatnosti u trajanju od tri od pet godina.

@@ -1,0 +1,9 @@
+# Članak 82.
+(1) Viši građevni inspektor nadzire rad sudionika u gradnji, održavanju i uklanjanju građevine za koju građevnu dozvolu, uporabnu dozvolu, odnosno dozvolu za uklanjanje izdaje Ministarstvo te nadzor kvalitete građevnih proizvoda, prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona te drugih propisa ako posebnim zakonom nije drukčije određeno.
+(2) Građevni inspektor nadzire rad sudionika u gradnji, održavanju, odnosno uklanjanju građevine za koju građevnu dozvolu, uporabnu dozvolu, odnosno dozvolu za uklanjanje izdaje županijski odnosno ured Grada Zagreba te nadzor kvalitete građevnih proizvoda, prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona te drugih propisa ako posebnim zakonom nije drugačije određeno.
+(3) Građevni nadzornik nadzire rad sudionika u gradnji, održavanju odnosno uklanjanju građevina i radova iz članka 21. stavka 5. i članka 56. stavka 1. ovoga Zakona, prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona te drugih propisa ako posebnim zakonom nije drugačije određeno.
+(4) Viši građevni inspektor u Upravi za inspekcijske poslove može neposredno postupati u predmetima iz djelokruga područne jedinice.
+(5) Provedba inspekcijskog nadzora nad gradnjom pojedinačne građevine iz članka 46. stavka 1. ovoga Zakona može se prenijeti na građevnog inspektora u područnoj jedinici Ministarstva.
+(6) Ministar može radi hitne potrebe ili ekonomičnijeg obavljanja inspekcijskog nadzora pisano narediti građevnom inspektoru i građevnom nadzorniku iz jedne područne jedinice da privremeno, a najduže do 30 dana neprekidno, provodi nadzor na području druge područne jedinice.
+(7) Način obavljanja inspekcijskog nadzora propisat će ministar.
+(8) Popis građevnih proizvoda koji se upotrebljavaju u gradnji čiju kakvoću nadzire viši građevni inspektor i građevni inspektor utvrdit će ministar.
