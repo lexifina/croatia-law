@@ -1,0 +1,5 @@
+# Članak 12.
+Ovlaštena organizacija će zatvoriti račun poslovnom subjektu sukladno odredbama ugovora iz članka 3. ove odluke ili po službenoj dužnosti.
+Račun poslovnog subjekta za redovno poslovanje na teret kojeg su evidentirani neizvršeni nalozi za plaćanje zakonskih obveza i javnih prihoda; nalozi za naplatu vrijednosnih papira i instrumenata osiguranja plaćanja i nalozi s naslova izvršenja sudskih odluka i drugih ovršnih isprava ne može se zatvoriti dok se neizvršeni nalozi ne evidentiraju na teret drugog računa za redovno poslovanje poslovnog subjekta, koji je otvoren u toj ili u drugoj ovlaštenoj organizaciji.
+Ako se račun poslovnog subjekta za redovno poslovanje zatvara po službenoj dužnosti, nalozi za plaćanje iz stavka 2. ovog članka evidentiraju se na račun pravnog slijednika ili se vraćaju nalogodavcu.
+Istodobno sa zatvaranjem računa za redovno poslovanje poslovnog subjekta, ovlaštena organizacija zatvara račune organizacijskih dijelova poslovnog subjekta i druge račune otvorene temeljem zakona odnosno drugog propisa u toj ovlaštenoj organizaciji.
