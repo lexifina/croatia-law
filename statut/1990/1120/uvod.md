@@ -1,0 +1,1 @@
+Na temelju člana 13. Zakona o javnim cestama ("Narodne novine", br. 42/90), Upravni odbor Poduzeća "Hrvatske ceste" - poduzeće za održavanje, zaštitu, rekonstrukciju i gradnju cesta u Hrvatskoj na sjednici održanoj 16. studenog 1990, donio je
