@@ -1,0 +1,1 @@
+Na temelju članka 21. točka 1. alineja 6. Statuta Hrvatske gospodarske komore ("Narodne novine", broj 56/91, 10 i 115/93), Skupština Hrvatske gospodarske komore na 5. sjednici održanoj 22. prosinca 1993. donosi
