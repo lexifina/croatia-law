@@ -1,0 +1,2 @@
+# Članak 23.
+U cijelom tekstu Zakona, riječi: "javni tužioc" i "javni tužilac" zamjenjuju se riječima: "javni tužitelj", riječi: "javno tužilaštvo" zamjenjuju se riječima: "javno tužiteljstvo", riječi: "javni pravobranilac" zamjenjuju se riječima: "javni pravobranitelj", riječi: "javno pravobranilaštvo" zamjenjuju se riječima: "javno pravobraniteljstvo", riječ: "stepen" zamjenjuje se riječju: "stupanj", riječ: "tok" zamjenjuje se riječju: "tijek" i riječ: "organ" zamjenjuje se riječju: "tijelo", sve u odgovarajućim padežima
