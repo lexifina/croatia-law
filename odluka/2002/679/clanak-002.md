@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici plaćanja doprinosa za osnovno zdravstveno osiguranje stranaca u Republici Hrvatskoj obvezni su doprinos propisan ovom Odlukom, u skladu s člankom 61. Zakona o zdravstvenom osiguranju i Naredbom o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2002. godini (»Narodne novine« broj 23/02.), uplaćivati u korist Jedinstvenog računa Državne riznice.

@@ -1,0 +1,2 @@
+# Članak 7.
+Stranac koji se nalazi na školovanju u Republici Hrvatskoj, ako je ugovorom o stipendiji određeno da sam plaća doprinos za osnovno zdravstveno osiguranje (članak 5. stavka 1. Zakona) i stranac koji se nalazi na školovanju u Republici Hrvatskoj, a koji nije stipendist (članak 5. stavka 2. Zakona) sam plaća doprinos za osnovno zdravstveno osiguranje po stopi od 16% na osnovicu od 1.800,00 kuna, ako nije osiguran po drugoj osnovi.

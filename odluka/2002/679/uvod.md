@@ -1,0 +1,1 @@
+Na osnovi članka 2. stavke 5., članka 4. i članka 5. Zakona o zdravstvenoj zaštiti stranaca u Republici Hrvatskoj (»Narodne novine« broj114/97.) te članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« 16/02. i 24/02.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 5. sjednici održanoj 20. ožujka 2002. godine, donijelo je
