@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, broj 76/93) i članka 86. stavka 4. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 49/99), Vlada Republike Hrvatske je na sjednici održanoj 30. rujna 1999. godine donijela

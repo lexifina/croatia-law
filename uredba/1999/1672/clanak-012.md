@@ -1,0 +1,4 @@
+# Članak 12.
+Ravnatelj REGOS-a ne može bez prethodne suglasnosti Upravnog vijeća poduzimati pravne poslove o stjecanju, otuđenju i opterećenju nekretnina, kao ni pravne poslove o stjecanju, opterećenju ili otuđenju druge imovine čija je vrijednost veća od 500.000,00 kuna.
+Pravne poslove o stjecanju, opterećenju ili otuđenju imovine čija je vrijednost veća od 3.000.000,00 kuna ravnatelj može poduzimati samo uz prethodnu suglasnost Upravnog vijeća i Vlade Republike Hrvatske.
+Ravnatelj može dati, u granicama svojih ovlasti utvrđenih ovom Uredbom i Statutom, punomoć drugoj osobi da zastupaju REGOS u postupcima pred sudovima, upravnim i drugim državnim tijelima i pravnim osobama s javnim ovlastima, te u pravnom prometu, kao i za obavljanje pojedinih poslova iz svog djelokruga sukladno zakonu i Statutu.
