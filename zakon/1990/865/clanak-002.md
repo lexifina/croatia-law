@@ -1,0 +1,3 @@
+# Članak 2.
+Radi tiskanja i izdavanja službenog glasila i tiskanja i izdavanja službenih obrazaca iz članka 1. ovoga zakona, te radi obavljanja i drugih poslova. u okviru grafičke, izdavačke i trgovinske djelatnosti, te prometa robe na malo i drugih djelatnosti, kojima se pridonosi potpunijem iskorištavanju kapaciteta i materijala za obavljanje djelatnosti iz članka 1. ovoga zakona, Sabor Republike Hrvatske osniva Javno poduzeće "Narodne novine" sa sjedištem u Zagrebu.
+Djelatnost Javnog poduzeća "Narodne novine" iz članka 1. ovoga zakona, izuzev tiskanja i izdavanja službenih obrazaca čija je upotreba, sadržaj i oblik propisana saveznim zakonima i drugim propisima i općim aktima saveznih organa, ne mogu obavljati druga javna poduzeća i druge pravne osobe i građani.

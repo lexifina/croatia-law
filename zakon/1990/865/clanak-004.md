@@ -1,0 +1,3 @@
+# Članak 4.
+Dio dobiti ostvaren obavljanjem djelatnosti Javnog poduzeća "Narodne novine", a najmanje u visini jedne četvrtine ukupne dobiti, prihod je Republike Hrvatske i unosi se u Fond Republike Hrvatske za razvoj. Ostatak dobiti ostvarene obavljanjem djelatnosti ostaje Javnom poduzeću "Narodne novine". Republika Hrvatska putem Fonda Republike Hrvatske za razvoj snaša gubitke koji u poslovanju Javnog poduzeća "Narodne novine" nastanu obavljanjem djelatnosti iz članka 1. ovoga zakona.
+Radi utvrdenja dobiti iz stavka 1 ovoga člana i gubitaka iz stavka 2. ovoga članka, Javno poduzeće "Narodne novine" vodi odgovarajuće financijske i računovodstvene evidencije.
