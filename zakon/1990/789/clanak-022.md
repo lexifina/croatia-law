@@ -1,0 +1,2 @@
+# Članak 22.
+Ministarstvo zdravstva obavlja upravne i druge stručne poslove koji se odnose na: organizaciju praćenja zdravstvenog stanja i zdravstvenih potreba stanovništva; korištenje zdravstvenih potencijala; osnivanje organizacija zdravstva; izgradnju i investiranje u zdravstvu; stručno usavršavanje zdravstvenih radnika; uspostavljanje i koordinaciju bitnih funkcija zdravstvenog osiguranja; stručnu kontrolu i nadzor nad stručnim radom u zdravstvu; poslove sanitarne inspekcije; obavljanje i drugih poslova koji su mu stavljeni u nadležnost.

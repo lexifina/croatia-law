@@ -1,0 +1,22 @@
+# Članak 38.
+Danom stupanja na snagu ovoga zakona nastavljaju raditi s položajem i djelokrugom utvrđenim ovim zakonom:
+1. Ministarstvo za energetiku, industriju, rudarstvo i zanatstvo - kao Ministarstvo energetike i industrije,
+2. Ministarstvo za financije - kao Ministarstvo financija,
+3. Ministarstvo za informiranje - kao Ministarstvo informiranja,
+4. Ministarstvo za odnose s inozemstvom - kao Ministarstvo inozemnih poslova,
+5. Ministarstvo za iseljeništvo - kao Ministarstvo iseIjeništva,
+6. Ministarstvo za narodnu obranu - kao Ministarstvo obrane,
+7. Ministarstvo za pravosuđe i upravu - kao Ministarstvo pravosuđa i uprave,
+8. Ministarstvo za saobraćaj i veze - kao Ministarstvo prometa i veza,
+9. Ministarstvo za pomorstvo - kao Ministarstvo pomorstva,
+10. Ministarstvo za poljoprivredu i šumarstvo - kao Ministarstvo poljoprivrede i šumarstva,
+11. Ministarstvo za prosvjetu, kulturu, fizičku i tehničku kulturu - kao Ministarstvo prosvjete i kulture,
+12. Ministarstvo za rad i zapošljavanje - kao Ministarstvo rada i socijalne skrbi,
+13. Ministarstvo za robni promet - kao Ministarstvo trgovine,
+14. Ministarstvo za turizam - kao Ministarstvo turizma,
+15. Ministarstvo za unutrašnje poslove - kao Ministarstvo unutarnjih poslova,
+16. Ministarstvo za vodoprivredu - kao Ministarstvo vodoprivrede,
+17. Ministarstvo za građevinarstvo, stambene i komunalne poslove i zaštitu čovjekove okoline - kao Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva,
+18. Ministarstvo za zdravstvenu i socijalnu zaštitu - kao Ministarstvo zdravstva,
+19. Ministarstvo za znanost, tehnologiju i informatiku - kao Ministarstvo znanosti, tehnologije i informatike,
+20. Republički zavod za društveno planiranje - kao Republički zavod za plan i analize i prognoze.

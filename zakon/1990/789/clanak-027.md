@@ -1,0 +1,2 @@
+# Članak 27.
+Republički zavod za statistiku obavlja statistička istraživanja u Republici, a osobito prikuplja, obrađuje, analizira i objavljuje statističke podatke na osnovu jedinstvenog statističkog sistema i programa statističkih istraživanja za cijelu zemlju i programa statističkih istraživanja za Republiku; unapređuje statističke metode; izrađuje statistički informacioni sistem kao dio društvenog sistema informiranja; daje metodološke i druge stručne upute za statistička istraživanja i nadzire njihovo provođenje; obavlja i druge poslove koji su mu stavljeni u nadležnost.

@@ -1,0 +1,2 @@
+# Članak 20.
+Ministarstvo vodoprivrede obavlja upravne i druge stručne poslove koji se odnose na: uređenje vodotoka i zaštitu od poplava, odvodnjavanje i navodnjavanje zemljišta; snabdjevanje naselja i industrije vodom i zaštitu voda od zagađivanja: inspekcijske poslove u vodoprivredi; osiguravanje financijskih i materijalnih uvjeta za vodoprivredu; inspekcijske poslove u oblasti vodoprivrede; obavljanje i drugih poslova koji su mu stavljeni u nadležnost.

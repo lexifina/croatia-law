@@ -1,0 +1,2 @@
+# Članak 5.
+Ministarstvo energetike i industrije obavlja upravne i druge stručne poslove koji se odnose na: energetiku, industriju (osim prehrambene industrije i prerade drveta); rudarstvo; zanatstvo; izdavanje odobrenja za istraživanje i eksploataciju mineralnih sirovina; vođenje katastra i izdavanje građevinskih i uporabnih dozvola za naftu, plin; inspekcijske poslove koji se odnose na elektroenergiju, rudarstvo i parne kotlove; obavljanje i drugih poslova koji su mu stavljeni u nadležnost zakonom.

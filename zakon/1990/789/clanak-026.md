@@ -1,0 +1,2 @@
+# Članak 26.
+Republički zavod za plan, analize i prognoze obavlja stručne i druge poslove koji se odnose na: izradu odgovarajućih stručnih priloga, podloga i analiza za potrebe izrade dokumenata makroekonomske politike; izradu dokumenata dugoročne i srednjoročne razvojne politike Republike; izradu analiza i informacija o tekućim gospodarskim kretanjima i učincima mjera makroekonomske politike; obavljanje i drugih poslova koji su mu stavljeni u nadležnost.
