@@ -1,0 +1,27 @@
+PRILOG 1.
+PRIJAVA ZA UVOZ SJEMENSKOG KRUMPIRA
+I. Ispunjava uvoznik (otpremnik)
+Naziv i adresa proizvođača: ___________________________________________________________________________________
+Naziv i adresa izvoznika ______________________________________________________________________________________
+Naziv i adresa uvoznika ______________________________________________________________________________________
+Red.
+br. | Sorta | Sjemenska
+kategorija | Oznaka partije | Količina (kg) | Vrsta i broj pakiranja
+II. Ispunjava uvoznik
+Navedena pošiljka sjemenskog krumpira bit će istovarena dana __________________________________, u (mjesto skladištenja i adresa)
+__________________________________________________________________________________________________________.
+U __________________________, dana ________________________.
+__________________________________
+(Žig i potpis uvoznika)
+III. Ispunjava granična inspekcija zaštite bilja
+Granična inspekcija zaštite bilja - Granični prijelaz ___________________________________________________________________
+Oznaka i broj fitocertifikata zemlje izvoznice _______________________________________________________________________
+Redni broj prijave uvoza ______________________________________________________________________________________
+Uvoz dopušten dana ________________________ u _________sati.
+_______________________________________
+(Granični inspektor zaštite bilja)
+IV. Ispunjava Zavod za zaštitu bilja
+Potvrđuje se zdravstvena ispravnost pošiljke sjemenskog krumpira
+U ________________________, dana _______________.
+________________________________________
+(Žig i potpis Zavoda za zaštitu bilja)
