@@ -1,0 +1,2 @@
+1. Pokreće se revizija poslova, odnosno radnih zadataka iz članka 3. i 4. Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem ("Narodne novine", br. 19/84., 24/85., 24/86., 35/86., 28/87., 15/88., 10/89., 32/89., 57/89., 25/90., 30/90., 7/91., 11/91., 15/91., 33/91., 16/92. i 4/96.).
+2. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama".
