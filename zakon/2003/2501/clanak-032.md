@@ -1,0 +1,4 @@
+## PopuŠtanje u reŽimu graniČne kontrole
+# Članak 32.
+Kada iz posebnih razloga nije moguće obaviti graničnu kontrolu u cijelosti i kada unatoč tome što su iskorištene sve kadrovske i organizacijske mogućnosti, dođe do neprihvatljivo dugih razdoblja čekanja na prelazak granice ili drugih većih smetnji pri odvijanju prometa preko graničnog prijelaza, policijski službenik nadležan za organizaciju i vođenje granične kontrole smije privremeno odrediti popuštanje u graničnoj kontroli. Pritom, policijski službenik odgovoran za organizaciju i vođenje granične kontrole određuje prioritetne ciljeve granične kontrole koji trebaju biti prilagođeni konkretnim uvjetima tako da granična kontrola bude što učinkovitija.
+Pri određivanju prioritetnih ciljeva granične kontrole, kontrola ulaska u državu, u pravilu, ima prednost pred kontrolom izlaska iz države.
