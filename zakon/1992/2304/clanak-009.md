@@ -1,0 +1,2 @@
+# Članak 9.
+U obavljanju poslova iz djelokruga Financijske policije inspektori Financijske policije mogu privremeno oduzeti do donošenja rješenja o izvršenom prekršaju, odnosno presude o izvršenom privrednom prijestupu ili krivičnom djelu, novac, vrijednosne papire, predmete i dokumentaciju koji su poslužili ili mogu poslužiti za izvršenje krivičnog djela, privrednog prijestupa ili prekršaja, a mogu u prekršajnom ili sudskom postupku poslužiti kao dokaz. O privremenom oduzimanju predmeta izdaje se potvrda.

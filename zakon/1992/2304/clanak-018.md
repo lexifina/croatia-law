@@ -1,0 +1,2 @@
+# Članak 18.
+Uvjeti za zasnivanje radnog odnosa inspektora u Financijskoj policiji propisuju se aktom o unutarnjem ustrojstvu i načinu rada Ministarstva financija. Ostali djelatnici koji obavljaju stručne, upravne, tehničke i druge poslove za potrebe Financijske policije zasnivaju radni odnos putem natječaja ili putem oglašavanja slobodnih radnih mjesta u skladu s propisima o prijemu djelatnika na rad u tijelima državne uprave.

@@ -1,0 +1,3 @@
+# Članak 13.
+U obavljanju poslova inspektori Financijske policije sačinjavaju zapisnik čiji se primjerak dostavlja pravnoj ili fizičkoj osobi koja je bila podvrgnuta kontroli. Na osnovi zapisnika ukoliko postoje elementi prekršaja, privremenog prijestupa ili krivičnog djela, podnosi se prijava. Inspektori Financijske policije ovlašteni su izdati rješenje da se vrši obračun i plaćanje javnih prihoda za koje je kontrolom utvrđeno da nisu obračunati i uplaćeni u skladu sa zakonom.
+Na izdato rješenje iz stavka 3. ovoga članka može se izjaviti žalba u roku od 15 dana od dana primitka rješenja Ministarstvu financija. Žalba ne odgađa izvršenje rješenja.

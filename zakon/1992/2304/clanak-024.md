@@ -1,0 +1,2 @@
+# Članak 24.
+Ministar financija uskladit će akt o unutarnjem ustrojstvu i načinu rada Ministarstva financija s odredbama ovoga Zakona do 1. veljače 1993. Vlada Republike Hrvatske imenovat će Glavnog inspektora Financijske policije do 15. siječnja 1993. Ministar financija imenovat će rukovoditelje postaja Financijske policije do 1. veljače 1993., a inspektore Financijske policije najkasnije do 1. ožujka 1993.

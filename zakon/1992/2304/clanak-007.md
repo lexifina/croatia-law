@@ -1,0 +1,2 @@
+# Članak 7.
+U obavljanju poslova iz svog djelokruga inspektori Financijske policije ovlašteni su: pregledati financijsku dokumentaciju, poslovne knjige i druge isprave koje mogu dati uvid u poslovanje pravne i fizičke osobe i pregledati poslovne prostorije, robu, uređaje i opremu te prijevozna sredstva, utvrditi identitet osoba koje samostalnim osobnim radom obavljaju gospodarsku ili drugu djelatnost, odnosno osoba koja u pravnoj osobi ili kod fizičke osobe obavlja poslovodne, financijske ili računovodstvene poslove te uzimati od njih izjave u svezi s njihovim radom.

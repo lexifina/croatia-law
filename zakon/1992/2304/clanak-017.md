@@ -1,0 +1,4 @@
+# Članak 17.
+Inspektori Financijske policije mogu nositi vatreno oružje, a mogu ga upotrijebiti pri obavljanju službenih poslova, ako drugačije ne mogu:
+1. odbiti od sebe neposredni napad kojim se ugrožava njegov život;
+2. spriječiti bijeg prijevoznog sredstva u slučaju iz članka 10. ovoga Zakona. Prije upotrebe vatrenog oružja inspektori Financijske policije dužni su na to upozoriti osobu protiv koje namjeravaju upotrijebiti i zastrašiti je pucanjem u zrak, ako je to u datoj situaciji moguće. Pri upotrebi vatrenog oružja inspektori Financijske policije dužni su čuvati život drugih osoba. Kada inspektori Financijske policije izvršavaju službeni zadatak pod neposrednim rukovodstvom, sredstva prinude mogu upotrijebiti samo po naređenju rukovoditelja. Kada su sredstva prinude upotrijebljena u granicama ovlaštenja isključena je odgovornost inspektora Financijske policije koji ih je upotrijebio.

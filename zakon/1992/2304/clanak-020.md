@@ -1,0 +1,2 @@
+# Članak 20.
+Djelatnici Financijske policije dužni su obavljati poslove utvrđene ovim Zakonom u svakoj pralici bez obzira da li se nalaze na službenoj dužnosti ili da li im je to posebno stavljeno u zadatak. Glavni inspektor Financijske policije, odnosno rukovoditelj postaje Financijske policije dužan je osigurati da se poslovi iz stavka 1. ovoga članka obavljaju svakog dana bez ograničenja radnog vremena s tim da se djelatnicima Financijske policije osigura dnevni, tjedni i godišnji odmor u skladu s propisima kojima je reguliran radni odnos.
