@@ -1,0 +1,2 @@
+# Članak 3.
+Željezničku prugu, u smislu ove uredbe, čine donji i gornji stroj pruga, objekti, telekomunikacijska, signalno-sigurnosna, elektrovučna, etektroenergetska i ostala postrojenja i uređaji na pruzi, oprema pruge, poslovne zgrade željeznice na pruzi sa zemljištem koje služi tim zgradama, pružni pojas s obiju strana pruge i zračni prostor iznad pruge u visini od 12 m odnosno 14 m kod dalekovoda napona više od 220 kV, računajući iznad gornjeg ruba tračnice.
