@@ -1,0 +1,1 @@
+Na temelju članka 37. i 38. Pravilnika o Sudu časti pri Hrvatskoj gospodarskoj komori ("Narodne novine", broj: 15/89 i 69/91), Upravni odbor Hrvatske gospodarske komore na 9. sjednici, 1. srpnja 1999. donosi
