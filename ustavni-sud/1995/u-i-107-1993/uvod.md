@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić predsjednik Suda, te suci Zdravko Bartovčak, dr. Velimir Belaec, dr. Nikola Fllipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović Ivan Marijan Severinac i Mladen Žuvela, odlučujući o prijedlogu za ocjenu ustavnosti zakona, na sjednici održanoj dana 16. svibnja 1995. godine, donio je
