@@ -1,0 +1,2 @@
+# Članak 8.
+Radi potpunije korištenosti ljudskih i materijalnih potencijala, potrebnih za obavljanje poslova iz članka 5. ovoga zakona, Registar može obavljati i slijedeće poslove: - poslove iz članka 5. ovoga zakona u ime stranih nadležnih organa i organizacija od kojih je valjano ovlašten. - klasifikaciju brodova te drugih plovećih i plutajućih objekata, - stručno-tehničke poslove u svezi s projektiranjem, gradnjom, preinakom, popravcima i korištenjem brodova, drugih plovećih i plutajućih objekata, kontejnera, te objekata na kopnu, - izdavačko-tiskarske poslove.

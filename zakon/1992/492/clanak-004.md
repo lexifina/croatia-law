@@ -1,0 +1,2 @@
+# Članak 4.
+Status ulagača ponudit će se domaćim i stranim pravnim osobama na način da ulog Republike Hrvatske ne može pasti ispod 51% od ukupnog iznosa uloženih sredstava. Društvo može pribavljati dodatna sredstva, potrebna za rad društva, upisivanjem novih uloga u skladu sa Statutom. Sredstva, ostvarena prodajom udjela, postaju vlasništvo Registra i s te se osnove povećava vrijednost udjela Republike Hrvatske u vlasništvu Registra. Ulagači mogu udjele prenositi trećim osobama i međusobno uz suglasnost Vlade Republike Hrvatske.

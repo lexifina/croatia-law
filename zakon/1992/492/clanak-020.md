@@ -1,0 +1,2 @@
+# Članak 20.
+Registar počinje raditi danom upisa u sudski registar, kada prestaje djelatnost Jugoslavenskog registra brodova. Sredstva za rad Registra osiguravaju se iz sredstava Jugoslavenskog registra brodova koja se nalaze u Republici Hrvatskoj i koja su postala vlasništvo Republike Hrvatske na temelju Uredbe o preuzimanju sredstava bivše SFRJ u vlasništvo Republike Hrvatske ("Narodne novine", br. 68/91.) i drugih izvora u skladu s propisima.

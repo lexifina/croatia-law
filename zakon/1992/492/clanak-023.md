@@ -1,0 +1,2 @@
+# Članak 23.
+Vlada Republike Hrvatske imenovat će, u roku od 15 dana nakon stupanja na snagu ovoga zakona tri člana Upravnog odbora. Najznačajniji korisnici iz oblasti brodarstva, brodogradnje te osiguranja i reosiguranja brodova, u istom roku imenovat će tri člana Upravnog odbora. Delegati Radničkog savjeta Jugoslavenskog registra brodova u istom roku izabrat će, iz svojih redova, tri člana Upravnog odbora, koji će privremeno obavljati ovu funkciju do izbora članova Upravnog odbora, po postupku utvrđenom Statutom.
