@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 22. Statuta Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske ("Narodne novine", broj 48/90), Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, na 8. sjednici održanoj 2. listopada 1992. godine, donijela je
