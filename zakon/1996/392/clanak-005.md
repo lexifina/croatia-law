@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Zaposleni i ranije zaposleni u pravnim osobama čije su dionice na temelju vlastite odluke u cijelosti prenesene u Fond po knjigovodstvenoj vrijednosti, a čije se sjedište nalazi na sada ili prije ratom okupiranom području, imaju pravo na kupnju dionica s popustom i uz obročnu otplatu prema odredbama Zakona o pretvorbi i ovoga Zakona.
+(2) Zaposleni i ranije zaposleni u ostalim pravnim osobama koje su upisane u sudski registar s temeljnom glavnicom po knjigovodstvenoj vrijednosti i čije su dionice prenesene Fondu, mogu ostvariti pravo na kupnju dionica prema odredbama Zakona o pretvorbi ako tako odluči Fond.

@@ -1,0 +1,2 @@
+# Članak 22.
+Ratni vojni invalidi domovinskog rata iz članka 5. stavka 1. točke 1. i stavka 2. Zakona o zaštiti vojnih i civilnih invalida rata ("Narodne novine", br. 33/92., 57/92., 77/92., 86/92., 58/93., 2/94. i 76/94.) imaju pravo na dodjelu dionica bez naplate, ovisno o stupnju invalidnosti, u visini utvrđenoj člankom 11. stavkom 1. Zakona o izmjenama i dopunama Zakona o pretvorbi društvenih poduzeća ("Narodne novine", br. 83/92.).
