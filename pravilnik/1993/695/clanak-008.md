@@ -1,0 +1,2 @@
+# Članak 8.
+Prodavaocu se refundira iznos vraćenog poreza na promet proizvoda tako što prodavalac pri uplati poreza za određeno razdoblje umanjuje taj iznos za vraćeni porez na promet u tom razdoblju. Uplata poreza na promet za određeno razdoblje umanjuje se na temelju specifikacija ovjerenih originala - Obrasca P i Obrasca FP, tako što se utvrđeni iznos poreza na promet za određeno razdoblje umanjuje za iznos vraćenog poreza na promet iz specifikacije.
