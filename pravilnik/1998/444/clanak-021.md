@@ -1,0 +1,2 @@
+# Članak 21.
+Tumaču koji je istog dana ili u više uzastopnih dana obavio prevođenje u više različitih predmeta pripada naknada u visini jednostrukog iznosa putnih izdataka, dnevnice i neostvarene plaće odnosno neostvarene zarade. Ta će se naknada podijeliti na sve predmete razmjerno vremenu provedenom radi tumačenja u svakom pojedinom predmetu, a ako se to ne može, podijelit će se na jednake dijelove.
