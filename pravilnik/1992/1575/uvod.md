@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 4. i članka 70. stavka 2. točke 2. Zakona o sigurnosti prometa na cestama ("Narodne novine", broj 20/90 i 9/91) ministar kulture i prosvjete u suglasnosti s ministrom prometa i veza donio je
