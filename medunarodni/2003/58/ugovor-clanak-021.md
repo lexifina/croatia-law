@@ -1,0 +1,8 @@
+# Članak 21.
+Pravila konkurencije u poduzetništvu
+1. Niže navedeno je u suprotnosti s pravilnom provedbom ovoga Ugovora ukoliko može utjecati na trgovinu između ugovornih stranaka:
+- svi ugovori između pravnih osoba i poduzetnika (u daljnjem tekstu: »poduzetnici«), odluke udruga poduzetnika ili dogovorno djelovanje poduzetnika kojemu je cilj ili učinak sprječavanje, ograničavanje ili narušavanje konkurencije;
+- zlouporaba dominantnog položaja od strane jednog ili više poduzetnika na cijelom teritoriju jedna od ugovornih stranaka ili na njegovu većem dijelu.
+2. Odredbe stavka 1. ovog članka primjenjuju se na aktivnosti svih poduzetnika, uključujući i javna poduzeća te poduzetnike kojima ugovorne stranke odobre posebna ili ekskluzivna prava. Poduzeća kojima su povjerene uslužne djelatnosti od općeg gospodarskog interesa ili ona koja su po svojoj naravi monopol koji ostvaruje prihod, podliježu odredbama stavka 1. ovog članka ukoliko primjena tih odredbi ne sprječava provedbu odgovarajućih javnih ovlasti koje su im dodijeljene, pravno ili stvarno.
+3. Za proizvode iz Glave II. ovog Ugovora odredbe iz prve alineje stavka 1. ovog članka neće se primjenjivati na one ugovore, odluke i praksu koje čine sastavni dio ustroja nacionalnog tržišta.
+4. Ako neka od ugovornih stranaka smatra da je određena aktivnost u neskladu sa stavcima 1., 2. i 3. ovog članka te ako takva aktivnost nanosi ili prijeti nanošenjem ozbiljne štete za interese te ugovorne stranke ili materijalne štete za njezinu domaću industriju, ista može poduzeti odgovarajuće mjere pod uvjetima i u skladu s postupkom utvrđenim u članku 29. ovog Ugovora.

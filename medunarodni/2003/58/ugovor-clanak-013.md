@@ -1,0 +1,3 @@
+# Članak 13.
+Posebne zaštitne mjere
+Bez obzira na ostale odredbe ovoga Ugovora, osobito članka 26. ovoga Ugovora te s obzirom na posebnu osjetljivost poljoprivrednih proizvoda, ako uvoz proizvoda podrijetlom iz jedne ugovorne stranke za koje vrijede koncesije odobrene ovim Ugovorom, prouzroči ozbiljan poremećaj na tržištu druge ugovorne stranke, pogođena stranka će odmah započeti konzultacije radi pronalaženja odgovarajućeg rješenja. U očekivanju takvog rješenja, pogođena stranka može poduzimati mjere koje smatra potrebnima. Vrsta i trajanje mjera mora se ograničiti na one potrebne kako bi se stanje popravilo.
