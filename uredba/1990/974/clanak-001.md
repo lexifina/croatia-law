@@ -1,0 +1,5 @@
+## o Uredu za odnose s republikama i pokrajinama
+# Članak 1.
+Ured za odnose s republikama i pokrajinama su daljnjem tekstu: Ured) obavlja, u okviru djelokruga Vlade Republike Hrvatske (u daljnjem tekstu: Vlada) stručno-analitičke i druge poslove u vezi s usuglašavanjem stavova Vlade s nadležnim organima drugih republika odnosno pokrajina o pitanjima o kojima odlućuje Skupština SFRJ odnosno Savezno izvršno vijeće.
+Ured u suradnji s nadležnim republičkim organima i institucijama osobito prati donošenje zakona i drugih propisa i općih akata i prati mjere koje u provođenju gospodarske i druge politike donose odnosno poduzimaju nadležni organi drugih republika i pokrajina, a koji bi mogli utjecati na gospodarsku i socijalnu politiku Republike Hrvatske.
+U okviru djelokruga utvrđenog stavkom 1. i 2. ovog članka, Ured daje mišljenja i prijedloge u vezi s utvrđivanjem i provođenjem politike Vlade u odnosima s drugim republikama i pokrajinama odnosno s organima savezne vlasti, osobito u pogledu donošenja te izvršavanja saveznih propisa i drugih akata te obavlja i druge poslove za potrebe Vlade.
