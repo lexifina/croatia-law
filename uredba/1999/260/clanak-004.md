@@ -1,0 +1,3 @@
+# Članak 4.
+Prava i obveze koje su do dana stupanja na snagu Zakona o muzejima nastale poslovanjem Muzeja Hrvatskoga zagorja, Gornja Stubica, dijele se tako da Muzej evolucije i nalazišta pračovjeka s lokalitetima Josipovac i Hušnjakovo u Krapini preuzima sva prava stečena odnosno obveze preuzete za ustrojbenu jedinicu "Muzeji Hrvatskoga zagorja - Muzej evolucije i nalazište pračovjeka "Hušnjakovo", Krapina.
+Muzej evolucije i nalazišta pračovjeka s lokalitetima Josipovac i Hušnjakovo u Krapini stječe pravo vlasništva na nekretninama koje koristi prema članku 2. stavak 1. ove Uredbe, a na kojima je Javna ustanova Muzeji Hrvatskog zagorja, Gornja Stubica, imala pravo vlasništva.
