@@ -1,0 +1,2 @@
+# Članak 10.
+Vlada Republike Hrvatske će, na prijedlog ministra znanosti, obrazovanja i športa, imenovati privremenog ravnatelja Agencije u roku od 30 dana od dana stupanja na snagu ove Uredbe, koji će obaviti poslove u vezi s upisom Agencije u sudski registar i organizirati početak rada Agencije. Mandat privremenog ravnatelja Agencije traje do imenovanja ravnatelja Agencije, a ne dulje od šest mjeseci.
