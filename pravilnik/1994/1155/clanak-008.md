@@ -1,0 +1,2 @@
+# Članak 8.
+Vatrogasnu intervenciju na građevinama. građevinskim dijelovima i prostorima pravne osobe, koja ima dobrovoljnu vatrogasnu postrojbu, vodi voditelj te postrojbe do dolaska na intervenciju dobrovoljne vatrogasne postrojbe koja je predviđena Planom zaštite od požara grade odnosno općine. Ako na intervenciju iz stavka 1. ovoga članka izade vatrogasna postrojba Ministarstva, vođenje vatrogasne intervencije preuzima voditelj te postrojbe.
