@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 1. Zakona o zaštiti od elementarnih nepogoda ("Narodne novine", br. 14/78., 31/80. i 53/84.), Zastupnički dom Sabora Republike Hrvatske na sjednici 27. lipnja 1997., donio je
