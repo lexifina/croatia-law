@@ -1,0 +1,1 @@
+Na temelju odredbe članka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine". br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 28/94) i odredbe članka 69, 79. stavak 3. i 80. stavak 1. Zakona o ustanovama ("Narodne novine" broj 76/93) Vlada Republike Hrvatske je na sjednici održanoj 5 svibnja 1994, godine donijela

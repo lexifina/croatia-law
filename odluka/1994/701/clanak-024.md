@@ -1,0 +1,2 @@
+# Članak 24.
+Za vršitelja dužnosti ravnatelja Doma -Lovret" imenuje se s. Ljiljana Todorić iz Splita, Lovretska 9. V. d. ravnateljica s. Ljiljana Todorić ima prava i dužnosti ravnatelja iz članka 11. ove Odluke i to do imenovanja ravnatelja Doma "Lovret" u skladu sa zakonom, ovom Odlukom i statutom. V. d. ravnateljica s. Ljiljana Todorić dužna je, u roku od 30 dana od dana stupanja na snagu ove Odluke, pribaviti odgovarajuću dozvolu Ministarstva rada i socijalne skrbi o ispunjavanju uvjeta za rad, te ishoditi upis Doma "Lovret" u sudski registar ustanova.

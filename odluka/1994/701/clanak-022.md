@@ -1,0 +1,2 @@
+# Članak 22.
+Za vršitelja dužnosti ravnatelja Doma "Split" imenuje se mr. Antun Vućica iz Splita. V. d. ravnatelj Antun Vućica ima prava i dužnosti ravnatelja iz članka 9. ove Odluke i to do imenovanja ravnatelja Doma "Split" u skladu sa zakonom, ovom Odlukom i statutom. V. d. ravnatelj Antun Vućica dužan je u roku od 30 dana od dana stupanja na snagu ove Odluke pribaviti odgovarajuću dozvolu Ministarstva rada i socijalne skrbi o ispunjavanju uvjeta za rad te ishoditi upis Doma "Split" u sudski registar ustanova.

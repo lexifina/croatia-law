@@ -1,0 +1,2 @@
+# Članak 20.
+Djelatnike uposlene na lokaciji Starčevićeva 19, Split preuzet će Dom "Lovret". Korisnike smještene na lokaciji iz stavka 1. ovoga članka preuzet će Dom -Lovret". O preuzimanju iz stavaka 1. i 2. ovoga članka sačinit će se zapisnik. Nakon upisa u sudski registar ustanova Dom -Lovret" zaključit će nove ugovore o smještaju sa korisnicima, a za preuzete djelatnike donijet će odluke o zasnivanju radnog odnosa.

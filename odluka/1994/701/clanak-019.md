@@ -1,0 +1,2 @@
+# Članak 19.
+Djelatnike uposlene na lokacijama Balkanska 79, Split i Ivana pl. Zajca 2, Split, preuzet će Dom "Split". Korisnike smještene na lokacijama iz stavka 1. ovoga članka preuzet će Dom "Split". O preuzimanju iz stavaka 1. i 2. ovoga članka sačinit će se zapisnik. Nakon upisa u sudski registar ustanova novoosnovani Dom "Split" zaključit će nove ugovore o smještaju sa korisnicima, a za preuzete djelatnike donijet će odluke o zasnivanju radnog odnosa.

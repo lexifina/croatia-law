@@ -1,0 +1,2 @@
+# Članak 14.
+Domu "Split" osiguravaju se sredstva za rad i to - objekat na lokaciji Balkanska 79, Split i na lokaciji Ivana pl. Zajca br. 2, Split, sa opremom. Vrijednost ovih sredstava utvrdit će se kod konačnog preuzimanja objekta kojom prilikom će se sačiniti primo predajni zapisnik. Sredstva za rad pribavljena od osnivača, te sredstva stećena pružanjem usluga ili sredstava prikupljena iz drugih izvora čine imovinu Doma "Split".

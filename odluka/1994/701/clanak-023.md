@@ -1,0 +1,3 @@
+# Članak 23.
+Za Dom "Lovret" imenuje se privremeni Upravni odbor u sastavu: 1. Mira Donadini, socijalna radnica u domu -Lovret", predsjednik, 2. Jasminka Biliškov, dipl. prav. u Ministarstvu obrane, Uprava za obranu Split, Odsjek za skrb, član, 3. Nediljka s. Mirja Tabak, dip. cnveni glazbenik, provincijalna predstojnica Provincije Presvetog Srca Isusova Školskih sestara franjevki u Splitu, član. Upravni odbor iz stavka 1. ovoga članka dužan je u roku od tri mjeseca od imenovanja donijeti statut i druge opće akte Doma "Lovret" i započeti postupak za izbor, odnosno imenovanje članova upravnog vijeća, ravnatelja i drugih organa u skladu sa ovom Odlukom i statutom.
+Upravni odbor iz stavka 1. ovoga članka ima prava i dužnosti upravnog vijeća iz članaka 7. i 8. ove Odluke.
