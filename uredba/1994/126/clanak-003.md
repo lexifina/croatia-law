@@ -1,0 +1,2 @@
+# Članak 3.
+Danom stupanja na snagu ove uredbe prestaje važiti Zakon o visini stope zatezne kamate ("Narodne novine", broj 53/91.), Uredba o visini stope zatezne kamate ("Narodne novine", broj 95/93.) i stavlja se izvan snage točka 44. Uredbe o nastavljanju važenja pravnog sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", br. 100/93, 102/93 i 108/93.).
