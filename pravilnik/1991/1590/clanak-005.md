@@ -1,0 +1,2 @@
+# Članak 5.
+Za pregled dokumentacije o rezervama predsjednik Komisije određuje jednog ili više izvjestitelja koji o obavljenom pregledu izrađuju pismena izvješća. Izvješća o pregledu dokumentacije razmatraju se na sjednici Komisije na koju se poziva predstavnik rudarskog poduzeća odnosno samostalni poduzetnik koji je podnio zahtjev za utvrđivanje i ovjeru rezervi mineralnih sirovina. Izvjestitelji iz stavka 1. ovoga članka određuju se iz sastava Komisije ili iz redova stručnih radnika koji ispunjavaju uvjete iz članka 2. stavka 3. ovoga pravilnika.

@@ -1,0 +1,2 @@
+# Članak 2.
+Komisija iz članka 1. ovoga pravilnika ima predsjednika, četiri člana i tajnika. Predsjednik i tajnik Komisije su radnici Ministarstva energetike i industrije. Članovi Komisije mogu biti osobe rudarske, geološke i ekonomske struke VII/1 stupnja stručne spreme s položenim stručnim ispitom i s najmanje 5 godina radnog iskustva na poslovima istraživanja i eksploatacije mineralnih sirovina nakon stečene stručne spreme.
