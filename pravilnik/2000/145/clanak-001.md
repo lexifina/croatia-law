@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom, a u svezi s Privremenim financijskim planom Hrvatskog zavoda za zdravstveno osiguranje za I. - III. 2000. godine (u daljnjem tekstu: Financijski plan), utvrđuju se standardi i normativi prava iz obveznog zdravstvenog osiguranja koja se osiguranim osobama Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) osiguravaju osnovom Zakona o zdravstvenom osiguranju (u daljnjem tekstu: Zakon) i općih akata Zavoda u razdoblju od 1. siječnja do 31. ožujka 2000. godine.
+Prava iz obveznog zdravstvenog osiguranja, sukladno stavci 1. ovog članka, obuhvaćaju: pravo na primarnu zdravstvenu zaštitu, pravo na specijalističko-konzilijarnu zdravstvenu zaštitu, pravo na bolničku zdravstvenu zaštitu, pravo na korištenje ortopedskih i drugih pomagala, pravo na lijekove i pravo na novčane nadoknade i pomoći.
