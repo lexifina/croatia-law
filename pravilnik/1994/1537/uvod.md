@@ -1,0 +1,1 @@
+Na temelju članka 316. stavka 3. točke 1. Zakona o sigurnosti prometa na cestama ("Narodne novine", broj 84/92, 5/93 i 16/93) ministar prosvjete i športa u suglasnosti s ministrom pomorstva, prometa i veza donio je
