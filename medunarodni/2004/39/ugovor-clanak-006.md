@@ -1,0 +1,2 @@
+# Članak 6.
+Stranke će pružati podršku nadležnim tijelima po pitanjima uzajamne pomoći prilikom obuke stručnih kadrova za turističku djelatnost, u razmjeni znanstvenih djelatnika, stručnjaka i novinara koji su specijalizirani za pitanja turizma i putovanja, kao i podupirati kontakte i zajedničke akcije organizacija koje u Republici Hrvatskoj i Ruskoj Federaciji vrše istraživanja na području turizma.
