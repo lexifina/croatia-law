@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 3. Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (»Narodne novine«, br. 128/99, 129/2000, 16/2001 i 22/2002), Vlada Republike Hrvatske je na sjednici održanoj 13. ožujka 2003. godine donijela
