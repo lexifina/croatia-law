@@ -1,0 +1,3 @@
+# Članak 10.
+U postupku priznavanja razdoblja studija primjenjuju se odredbe ovoga Zakona, osim ako postoji prethodni sporazum između, s jedne strane, visokoškolske ustanove ili nadležnog tijela odgovornog za relevantno razdoblje studija i, s druge strane, visokoškolske ustanove ili nadležnog tijela odgovornog za traženo priznavanje te ako visokoškolska ustanova u kojoj je završeno razdoblje studija izda svjedodžbu ili prijepis ocjena, potvrđujući da je student uspješno ispunio propisane zahtjeve za to razdoblje studija.
+U slučaju iz stavka 1. ovoga članka zahtjev za priznavanje razdoblja studija upućuje se ustanovi u kojoj se želi nastaviti visokoškolsko obrazovanje.
