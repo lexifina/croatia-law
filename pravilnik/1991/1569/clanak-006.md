@@ -1,0 +1,2 @@
+# Članak 6.
+U općinama u kojima postoji opasnost od zračnih i drugih oružanih napada, o početku, dnevnom trajanju i višednevnim prekidima nastave, te pomicanju razdoblja zimskog i proljetnog odmora učenika odlučuje krizni štab općine odnosno Grada Zagreba. u skladu s procjenom sigurnosne situacije i o tome izvješćuje Zavod za školstvo. O skraćivanju trajanja nastavnih sati odlučuje ravnatelj škole u skladu s ratnim nastavnim planom i programom
