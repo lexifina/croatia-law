@@ -1,0 +1,1 @@
+Na temelju članka 3. stavak 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), a u svezi s člankom 34. Zakona o građenju ("Narodne novine", broj 77/92) Vlada Riepublike Hrvatske je na sjednici održanoj 26. svibnja 1994. donijela
