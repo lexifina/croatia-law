@@ -1,0 +1,7 @@
+# Članak 2.
+U članku 8. stavak 1. mijenja se i glasi:
+»(1) Osobu s duševnim smetnjama koja može razumjeti prirodu, posljedice i opasnost predloženoga liječničkog postupka i koja na osnovi toga može donijeti odluku i izraziti svoju volju može se pregledati ili podvrgnuti liječničkom postupku samo uz njezin usmeni pristanak ako postoje medicinski razlozi da se takav pregled ili liječnički postupak obavi.«
+Stavak 2. mijenja se i glasi:
+»(2) Sposobnost osobe dati pristanak utvrđuje doktor medicine ili psihijatar u vrijeme kad ta osoba donosi odluku. Pregled kojim se utvrđuje sposobnost davanja pristanka dopušten je u svim slučajevima u kojima osoba ne pokazuje otvoreno protivljenje obavljanju tog pregleda. U slučaju protivljenja pregledu za ocjenu sposobnosti za davanje pristanka, pregled osobe može se obaviti i protiv njene volje samo ukoliko su ispunjeni uvjeti iz članka 22. ovoga Zakona. Usmeni pristanak osobe iz stavka 1. ovoga članka upisuje se u liječničku dokumentaciju. Osoba iz stavka 1. ovoga članka može zahtijevati da postupku davanja pristanka bude nazočna osoba od njenog povjerenja.«
+Stavak 5. mijenja se i glasi:
+»(5) Punoljetna osoba s duševnim smetnjama, koja nije sposobna dati pristanak, može se podvrgnuti pregledu ili drugom liječničkom postupku samo uz pristanak njenog zakonskog zastupnika, a ako ga nema, pregled se može obaviti prema mjerilima stavka 2. i 3. ovoga članka.«
