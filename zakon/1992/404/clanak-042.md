@@ -1,0 +1,2 @@
+# Članak 42.
+Ako se kontrolom utvrdi da su poduzeća i druge pravne i fizičke osobe, na osnovi netočne dokumentacije, iz Proračuna naplatili sredstva namijenjena za naknadu razlike u cijeni, premije i povlastice u prometu, tako naplaćena sredstva vratit će se Proračunu zajedno s kamatama po stopi koja odgovara visini eskontne stope koju mjesečno utvrđuje Narodna banka Htvatske uvećanoj za 20%, i oduzeti eventualna imovinska korist.

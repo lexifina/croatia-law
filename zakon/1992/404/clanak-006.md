@@ -1,0 +1,2 @@
+# Članak 6.
+Devizna sredstva koja se ostvare od naknada za prelijetanje preko teritorija Republike Hrvatske i slijetanje inozemnih zrakoplova na njene zračne luke, konzularnih taksa koje ostvare diplomatsko-konzularna predstavnistva Republike Hrvatske u inozemstvu i drugi devizni prihodi Republike uplačivat će se na poseban račun kod poslovnih banaka u Republici Hrvatskoj. Radi efikasnijeg korištenja deviznih sredstava; Ministarstvo financija odredit će poslovnu banku i devizni račun na koji će se uplačivati ta sredstva.
