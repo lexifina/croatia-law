@@ -1,0 +1,1 @@
+Na temelju članka 89. stavak 2. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata ("Narodne novine" br. 91/A i 36/98) i članka 67. stavka 1. točke 23. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" br. 35/95 - pročišćeni tekst) Savjet Hrvatske narodne banke, na sjednici održanoj 19. svibnja 1999. godine, donio je
