@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 1. stavak 1. iza podtočke c) dodaju se novi stavci 2., 3. i 4. koji glase:
+»Dizala s novim tehničkim rješenjima (sa strojarnicom ili beznje) mogu se upotrebljavati nakon provedenoga postupka tipnog ispitivanja modela (prototipa), koje obavlja ovlaštena pravna osoba.
+Za dizala bez posebno izgrađene strojarnice (npr. pogonski i upravljački uređaji ugrađeni su unutar voznog okna) ne primjenjuju se odredbe članka 1. stavka 1. podtočke a), b) i c) Pravilnika o obveznom atestiranju dizala na električni pogon za vertikalni prijevoz osoba i tereta te o uvjetima kojima moraju udovoljavati organizacije ovlaštene za atestiranje tih proizvoda (»Službeni list« broj 27/90) koje utvrđuju da prostor za strojarnicu mora biti posebno izgrađen. Sve ostale odredbe o strojarnici primjenjuju se ovisno o mjestu ugradnje pogonskih i upravljačkih uređaja dizala.
+Za dizala s novim tehničkim rješenjima (npr. novi sustavi ovješavanja i sl.) primjenjuju se odredbe članka 1. stavak 1. podtočke a), b) i c) Pravilnika o obveznom atestiranju dizala na električni pogon za vertikalni prijevoz osoba i tereta te o uvjetima kojima moraju udovoljavati organizacije ovlaštene za atestiranje tih proizvoda (»Službeni list« broj 27/90)«.
+Dosadašnji stavak 2. postaje stavak 5.

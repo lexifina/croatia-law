@@ -1,0 +1,2 @@
+# Članak 5.
+U cijelome tekstu Pravilnika riječ »atestiranje« zamjenjuje se riječju »potvrđivanje«, riječ »atest« zamjenjuje se riječima »potvrda o sukladnosti«, riječi »organizacija udruženog rada ovlaštena za atestiranje proizvoda« zamjenjuje se riječima »ovlaštena pravna osoba«, riječ »standard« zamjenjuje se riječju »norma« a riječi »Savezni zavod za standardizaciju« zamjenjuje se riječima »Državni zavod za normizaciju i mjeriteljstvo«, u odgovarajućemu rodu, broju i padežu.
