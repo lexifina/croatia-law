@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Mjesečna osnovica - poduzetnička plaća, prema članku 14. stavku 1. Zakona, za obračun doprinosa za osiguranika po osnovi obavljanja samostalne djelatnosti obrt, slobodno zanimanje te djelatnost poljoprivrede i šumarstva, a od tih djelatnosti plaća porez na dobit, ne može biti niža od umnoška prosječne plaće i koeficijenta 1,1 odnosno niža od 6.539,50 kuna.
+(2) Mjesečna osnovica, prema članku 14. stavku 2. Zakona, za obračun doprinosa za osiguranika po osnovi obavljanja samostalne djelatnosti obrt, slobodno zanimanje te djelatnost poljoprivrede i šumarstva, a od tih djelatnosti plaća porez na dobit ako si osiguranik ne isplaćuje poduzetničku plaću, umnožak je prosječne plaće i koeficijenta 1,1 te iznosi 6.539,50 kuna.

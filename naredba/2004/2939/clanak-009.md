@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Mjesečna osnovica, prema članku 15. točki 1. Zakona, za obračun doprinosa za osiguranika po osnovi poljoprivreda kao jedino ili glavno zanimanje, a od te djelatnosti ne plaća porez na dohodak, umnožak je prosječne plaće i koeficijenta 0,4 te iznosi 2.378,00 kuna.
+(2) Mjesečna osnovica, prema članku 15. točki 2. Zakona, za obračun doprinosa za osiguranika po osnovi samostalna djelatnost poljoprivrede i šumarstva, a dohodak od te djelatnosti utvrđuje se u paušalnom iznosu, umnožak je prosječne plaće i koeficijenta 0,4 te iznosi 2.378,00 kuna.
+(3) Mjesečna osnovica, prema članku 15. točki 3. Zakona, za obračun doprinosa za osiguranika po osnovi samostalna djelatnost poljoprivrede i šumarstva, a od te djelatnosti dohodak se utvrđuje prema poslovnim knjigama, umnožak je prosječne plaće i koeficijenta 0,5 te iznosi 2.972,50 kuna.

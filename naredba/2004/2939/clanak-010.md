@@ -1,0 +1,2 @@
+# Članak 10.
+Mjesečna osnovica, prema članku 16. Zakona, za obračun doprinosa za osiguranika po osnovi samostalna djelatnost novinara, sportaša te samostalni umjetnik iz članka 10. Zakona o pravima samostalnih umjetnika i poticanju kulturnog i umjetničkog stvaralaštva, a od te djelatnosti porez na dohodak se utvrđuje po odbitku, umnožak je prosječne plaće i koeficijenta 1,0 te iznosi 5.945,00 kuna.
