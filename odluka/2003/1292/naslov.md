@@ -1,0 +1,1 @@
+Odluka o davanju ovlaštenja Ministarstvu za javne radove, obnovu i graditeljstvo za kupnju stanova za stambeno zbrinjavanje povratnika koji nisu vlasnici kuće ili stana, a živjeli su u stanovima u društvenom vlasništvu (bivši nositelji stanarskog prava) na područjima Republike Hrvatske, koja su izvan područja posebne državne skrbi

@@ -1,0 +1,12 @@
+o davanju ovlaŠtenja Ministarstvu za javne radove, obnovu i graditeljstvo za kupnju stanova za stambeno zbrinjavanje povratnika koji nisu vlasnici kuĆe ili stana, a Živjeli su u stanovima u druŠtvenom vlasniŠtvu (bivŠi nositelji stanarskog prava) na podruČjima Republike Hrvatske, koja su izvan podruČja posebne drŽavne skrbi
+I.
+Vlada Republike Hrvatske ovlašćuje Ministarstvo za javne radove, obnovu i graditeljstvo da, u ime Republike Hrvatske, kupi od Agencije za pravni promet i posredovanje nekretninama određeni broj novoizgrađenih stanova na obročnu otplatu, prema odredbama Zakona o društveno poticanoj stanogradnji (»Narodne novine«, broj 109/2001), koji stanovi su namijenjeni za davanje u najam povratnicima koji nisu vlasnici stana ili kuće, a koji su živjeli u stanovima u društvenom vlasništvu na područjima Republike Hrvatske koja su izvan područja posebne državne skrbi.
+Za potrebe stambenog zbrinjavanja povratnika na onim područjima koja su izvan područja posebne državne skrbi, a na kojima se neće graditi stanovi prema Zakonu o društveno poticanoj stanogradnji, Ministarstvo za javne radove, obnovu i graditeljstvo ovlašćuje se da u skladu s iskazanim potrebama i raspoloživim sredstvima kupi od fizičkih ili pravnih osoba određeni broj stanova.
+II.
+Za sklapanje kupoprodajnih ugovora u skladu s točkom I. ove Odluke, ovlašćuju se ministar za javne radove, obnovu i graditeljstvo te njegov pomoćnik za pitanja prognanika, povratnika i izbjeglica.
+III.
+Za upravljanje, korištenje i raspolaganje kupljenim stanovima u skladu s namjenom iz točke I. ove Odluke, odnosno za davanje tih stanova u najam povratnicima, Vlada Republike Hrvatske ovlašćuje Ministarstvo za javne radove, obnovu i graditeljstvo, koje će s korisnikom stana sklopiti ugovor o najmu u skladu s odredbama Zakona o najmu stanova, time da se najamnina za te stanove utvrđuje u visini najamnine koju se plaća prema odredbi članka 7. stavka 4. Zakona o područjima posebne državne skrbi (»Narodne novine«, broj 26/2003 - pročišćeni tekst).
+IV.
+Sredstva za kupnju stanova iz točke I. ove Odluke osigurat će se u okviru proračunskih pozicija Ministarstva za javne radove, obnovu i graditeljstvo u državnom proračunu, počevši od 2004. godine. U državnom proračunu za 2004. godinu sredstva će se osigurati u skladu s obrađenim zahtjevima za stambeno zbrinjavanje podnesenim Ministarstvu za javne radove, obnovu i graditeljstvo, do kraja rujna 2003.
+V.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
