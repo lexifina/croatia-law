@@ -1,0 +1,1 @@
+Odluka o osnovicama osiguranja samostalnih privrednika za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja
