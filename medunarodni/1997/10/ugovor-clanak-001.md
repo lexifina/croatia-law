@@ -1,0 +1,3 @@
+# Članak 1.
+1. Republika Hrvatska, u svijetlu načela o vjerskoj slobodi, poštuje temeljno pravo roditelja na vjerski odgoj djece te se obvezuje da će, u sklopu školskoga plana i programa i u skladu s voljom roditelja ili skrbnika, jamčiti nastavu katoličkoga vjeronauka u svim javnim osnovnim i srednjim školama i u predškolskim ustanovama, kao obveznoga predmeta za one koji ga izaberu, pod istim uvjetima pod kojima se izvodi nastava ostalih obveznih predmeta.
+2. Odgojno-obrazovni sustav u javnim predškolskim ustanovama i školama, uključujući i visoka učilišta, uzimat će u obzir vrijednosti kršćanske etike.
