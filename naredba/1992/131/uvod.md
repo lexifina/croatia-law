@@ -1,0 +1,1 @@
+Na temelju članka 4. Uredbe o djelatnosti odgoja, obrazovanja, kulture, tehničke kulture i športa za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske ("Narodne novine", br. 55/91 ), donosim
