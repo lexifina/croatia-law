@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe obuhvaća područje omeđeno unutrašnjim rubom šetnice do ruba morske obale u krugu cijeloga otoka, čime su obuhvaćene k.č. 874, 875, 876, 877 i 878, te dijelovi k.č. 864 i 868 k.o. Rovinj, a sve kako je ucrtano i označeno u grafičkom prilogu na kopiji katastarskog plana k.o. Rovinj, broj lista katastarskog plana 66, 67 i 68, u mjerilu 1:1000.
