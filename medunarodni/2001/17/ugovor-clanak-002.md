@@ -1,0 +1,2 @@
+# Članak 2.
+Podneske mogu podnositi pojedinci ili skupine pojedinaca, pod sudbenošću države stranke, koji tvrde da su žrtve povrede nekog od prava utvrđenih Konvencijom od strane te države stranke, izravno ili posredstvom drugih koji to čine u njihovo ime. Ako se podnesak podnosi u ime pojedinaca ili skupina pojedinaca, to se mora učiniti uz njihov pristanak, osim ako podnositelj može opravdati postupanje u njihovo ime bez takvog pristanka.
