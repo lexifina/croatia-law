@@ -1,0 +1,2 @@
+# Članak 26.
+Poslove Državne uprave za vode preuzima Ministarstvo poljoprivrede, šumarstva i vodnoga gospodarstva, poslove Državnog zavoda za zaštitu obitelji, materinstva i mladeži preuzima Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti, poslove Državnog zavoda za intelektualno vlasništvo i Državnog zavoda za normizaciju i mjeriteljstvo preuzima Državni zavod za intelektualno vlasništvo, normizaciju i mjeriteljstvo.

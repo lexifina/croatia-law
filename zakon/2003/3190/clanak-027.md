@@ -1,0 +1,5 @@
+# Članak 27.
+Vlada Republike Hrvatske će u roku od 60 dana uredbama urediti unutarnje ustrojstvo tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug, ukoliko posebnim zakonom nije drukčije propisano.
+Čelnici tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug, dužni su donijeti, odnosno uskladiti pravilnike o unutarnjem redu prema odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovoga članka.
+Unutarnje ustrojstvene jedinice tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug, nastavljaju s radom u sastavu ministarstava i državnih upravnih organizacija u kojima su ustrojeni do stupanja na snagu ovoga Zakona, do stupanja na snagu akata iz stavka 2. ovoga članka.
+Državni službenici i namještenici tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug nastavljaju s radom na poslovima na kojima su zatečeni u trenutku stupanja na snagu ovoga Zakona, nastavljaju s radom na svojim dosadašnjim službeničkim, odnosno radnim mjestima i zadržavaju plaće prema dosadašnjim propisima, do donošenja rješenja o rasporedu na radna mjesta prema pravilniku o unutarnjem redu iz stavka 2. ovoga članka.
