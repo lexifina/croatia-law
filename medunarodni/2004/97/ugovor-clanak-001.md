@@ -1,0 +1,2 @@
+# Članak 1.
+Ovaj sporazum tiče se postaja instaliranih ili održavanih na brodovima, zrakoplovima ili bilo kojim drugim plovnim ili zrakoplovnim objektima i koji, izvan državnih područja, emitiraju program namijenjen za prijam ili koji je moguće primati, u cijelosti ili djelomično, unutar područja bilo koje ugovorne stranke, ili koji uzrokuje štetne smetnje bilo kojoj radio-komunikacijskoj usluzi koja djeluje u nadležnosti ugovorne stranke u skladu s Radijskim propisima.
