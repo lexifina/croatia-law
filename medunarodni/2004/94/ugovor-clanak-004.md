@@ -1,0 +1,7 @@
+# Članak 4.
+Zamjenski prijevoznik
+1. Ugovor sukladan definiciji iz članka 1. stavka 1. zaključen između jednog prijevoznika i jednoga zamjenskog prijevoznika čini ugovor o prijevozu u smislu ove Konvencije. U okviru tog ugovora, sve odredbe ove Konvencije koje se odnose na naručitelja, primjenjuju se na prijevoznika i one koje se odnose na prijevoznika na zamjenskog prijevoznika.
+2. Kada je prijevoznik povjerio izvršenje prijevoza ili dijela prijevoza zamjenskom prijevozniku, bez obzira je li to u službi prava koje mu se priznaje u ugovoru o prijevozu, prijevoznik ostaje odgovoran za cjelovitost prijevoza, sukladno odredbama ove Konvencije. Sve odredbe ove Konvencije koje određuju odgovornost prijevoznika primjenjuju se također na odgovornost zamjenskog prijevoznika za prijevoz koji je izvršio.
+3. Prijevoznik je dužan, u svim slučajevima, informirati naručitelja kada povjeri izvršenje prijevoza ili dijela prijevoza zamjenskom prijevozniku.
+4. Svaki dogovor s naručiteljem ili pošiljateljem kojim se proširuje odgovornost prijevoznika u skladu s odredbama ove Konvencije vezuje zamjenskog prijevoznika samo u mjeri u kojoj je on taj dogovor i prihvatio izričito i pismeno. Zamjenski prijevoznik može iskoristiti sve prigovore na koje se ima pravo pozvati prijevoznik u duhu ugovora o prijevozu.
+5. Ako i do koje mjere su odgovorni oboje, prijevoznik i zamjenski prijevoznik, njihova odgovornost je zajednička i pojedinačna. Niti jedna odredba ovoga članka ne utječe na pravo na odštetu između njih.

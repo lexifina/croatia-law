@@ -1,0 +1,3 @@
+# Članak 28.
+Obračunska jedinica
+Obračunska jedinica navedena u članku 20. ove Konvencije je posebno pravo vučenja utvrđeno od Međunarodnoga monetarnog fonda. Vrijednosti navedene u članku 20. moraju se preračunati u nacionalnu valutu neke države prema vrijednosti te valute na dan donošenja pravorijeka ili na dan koji su stranke ugovorile. Vrijednost, u odnosu na posebna prava vučenja, nacionalne valute jedne ugovorne stranke, obračunata je prema metodi procjene koja se primjenjuje efektivno od Međunarodnoga monetarnog fonda na gore navedeni dan za poslove i transakcije Međunarodnoga monetarnog fonda.
