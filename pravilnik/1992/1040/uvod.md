@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 6. i članka 21. stavka 1. Zakona o carinskoj službi Republike Hrvatske ("Narodne novine" broj 53/91) i članka 40. stavka 3. Uredbe o jedinstvenim nazivima zadataka i poslova te o stručnom osposobljavanju i usavršavanju djelatnika u organima uprave ("Narodne novine", broj 12/84 i 60/91), direktor Carinske uprave Republike Hrvatske, donosi ovaj
