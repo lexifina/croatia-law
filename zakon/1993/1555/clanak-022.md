@@ -1,0 +1,2 @@
+# Članak 22.
+Šume i šumska zemljišta u državnom vlasništvu kojima iznimno gospodare pravne osobe nastale pretvorbom društvenih poduzeća, općine koje te šume i šumska zemljišta do stupanja na snagu ovoga Zakona nisu predale na gospodarenje Poduzeću za šume i druge pravne osobe,preuzima Poduzeće za šume u roku 60 dana od dana od stupanja na snagu ovoga Zakona, odnosno od dana pretvorbe pravne osobe, sa stanjem na dan 30. lipnja tekuće godine odnosno 31. prosinca protekle godine.

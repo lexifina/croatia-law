@@ -1,0 +1,7 @@
+# Članak 21.
+U članku 5. stavku 4. točki 3. riječi: "vojnim potrebama Jugoslavenske narodne armije i drugim potrebama općenarodne obrane", članku 15. stavku 1. točki 2. riječi: "vojnim potrebama Jugoslavenske narodne armije ili drugim potrebama općenarodne obrane" i članku 48. stavku 2. riječi: "Jugoslavenske narodne armije i općenarodne obrane" u različitim padežima, zamjenjuju se riječima: "potrebe obrane Republike Hrvatske" u odgovarajućim padežima.
+U članku 27. i članku 79. riječ: "društvena" u jednini i množini u različitim padežima briše se.
+U članku 11., članku 13 stavku 3., članku 41. stavku 6., članku 48. stavku 3. i članku 61. stavku 3. riječi: "općinski organ uprave nadležan za poslove šumarstva" u jednini i množini u različitim padežima i u članku 51. stavku 1. riječi: "organ općinske uprave nadležan za poslove šumarstva" zamjenjuju se riječima: "županijski ured, odnosno gradski ured Grada Zagreba nadležan za poslove šumarstva" u jednini i množini u odgovarajućim padežima.
+U članku 15. stavku 1. točki 1. i članku 48. stavku 1., 2. i 3. riječ: "općine" briše se.
+U članku 41. stavku 7, članku 45. stavcima 4. i 5, članku 47. stavcima 2. i 3., članku 53. stavcima 3. i 4. i članku 63. stavku 1. riječi: "općinska skupština" u različitim padežima i u članku 49. stavku 2. riječi: "općinska skupština ili organ koji ona odredi" zamjenjuju se riječima: "županijska skupština, odnosno Gradska skupština Grada Zagreba" u odgovarajućim padežima.
+U članku 65. i članku 66. riječi: "arondacija i" u različitim padežima brišu se.
