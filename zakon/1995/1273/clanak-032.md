@@ -1,0 +1,4 @@
+# Članak 32.
+Ministar pravosuđa donosi pravilnik o unutarnjem poslovanju državnim odvjetništvima na prijedlog državnog odvjetnika Republike Hrvatske.
+Pravilnik o nutarnjem poslovanju propisuju se pravila o uredskom poslovanju, vođenju upisnika i pomoćnih knjiga, o vođenju evidencija, obrascima za rad pravila o pripćenjima za javnost, provedbena pravila o vođenju postupka i dostavljanju odluka na jeziku i pismu etničke i nacionalne zajednice ili manjine, pravila o nadzoru materijalnog i financijskog poslovanja i redvitog obavljanja poslova u državnim odvjetništvima, rasporedu radnog vremena u toku radnog dana ili tjedna, pravila o vođenju statistika, standardi poslovnog prostora i oprame i druga pitanja od značaja za unutarnje poslovanje državnih odvjetništva.
+Pravilnikom o unutarnjem poslovanju propisuje se i način obavljanja zajedničkih poslova za više državnih odvjetništva, kao i s drugim tijelima ako imaju sjedište u istoj zgradi.

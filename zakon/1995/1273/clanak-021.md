@@ -1,0 +1,4 @@
+## IV. UNUTARNJE USTROJSTVO DRŽAVNIH ODVJETNIŠTAVA
+## I. POSLOVI UPRAVE
+# Članak 21.
+Poslovi uprave obuhvaćaju osiguranje uvjeta za pravilan rad i poslovanje državnog odvjetništva, a posebice: ustrojstvo unutarnjeg poslovanja u državnom odvjetništvu, skrb o urednom i pravodobnom obavljanju poslova u državnom odvjetništvu, poslove u svezi s predstavkama i pritužbama na rad državnog odvjetništva, stručne poslove u svezi s ostvarivanjem dužnosti i prava službenika i namještenika u državnom odvjetništvu, skrb o stručnom usavršavanju državnih odvjetnika, zamjenika državnih odvjetnika, savjetnika, vježbenika i drugih službenika i namještenika u državnom odvjetništvu, vođenje statistike, financijsko i materijalno poslovanje državnog odvjetništva te druge poslove propisane zakonom i pravilnikom o unutarnjem poslovanju državnih odvjetništava.

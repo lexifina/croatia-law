@@ -1,0 +1,2 @@
+# Članak 6.
+Svatko ima pravo Ministarstvu pravosuđa slati predstavke i pritužbe na rad državnog odvjetništva ili državnog odvjetnika zbog odugovlačenja u davanju ocjene o osnovanosti podnesene kaznene prijave ako ima pravni interes, odnosno na ponašanje i rad državnog odvjetnika, zamjenika državnog odvjetnika ili drugog službenika, odnosno namještenika u državnom odvjetništvu u službenim odnosima sa strankom, kao i dobiti odgovor na njih u primjernom roku.

@@ -1,0 +1,5 @@
+# Članak 18.
+Državni je odvjetnik ovlašten zamjeniku državnog odvjetnika istog državnog odvjetništva ili nižem državnom odvjetništvu davati obvezatne naputke za rad i postupanje u pojedinačnom predmetu.
+Državni je odvjetnik ovlašten preuzeti obavljanje svih ili pojedinih poslova zamjenika državnog odvjetnika istog državnog odvjetništva ili od nižeg državnog odvjetništva. Iz opravdanih razloga državni odvjetnik može povjeriti postupanje u pojedinačnom predmetu drugom zamjeniku državnog odvjetnika istog državnog odvjetništva ili drugom nižem državnom odvjetništvu.
+Obvezatni naputak nižem državnom odvjetništvu u pojedinačnom predmetu ili odluka o preuzimanju pojedinačnog predmeta od nižeg državnog odvjetništva ili o njegovom povjeravanju drugom nižem državnom odvjetništvu, daje se u pisanom obliku s obrazloženjem.
+Ako obvezatni naputak ili odluka iz stavka 3. ovoga članka iz posebnih razloga, a naročito uslijed opasnosti od odgode, odmah nije bilo moguće dati u pisanom obliku, takav usmeni naputak mora se naknadno potvrditi u pisanom obliku.

@@ -1,0 +1,4 @@
+# Članak 15.
+Državno odvjetništvo Republike Hrvatske kad utvrdi da zbog povrede zakona ili međunarodnog ugovora postoji potreba za uporabu pravnog lijeka protiv izvršne sudske odluke ili odluke donesene u upravnom ili drugom postupku, može zahtijevati da se odgodi, odnosno prekine postupak za izvršenje te odluke.
+Zahtjev za odgodu, odnosno prekid izvršenja odluke iz stavka 1. ovoga članka podnosi državno odvjetništvo koje je ovlašteno podnijeti pravni lijek protiv te odluke. Zahtjev se podnosi tijelu koje odlučuje o izvršenju, a ako je izvršenje u tijeku, tijelu koje provodi izvršenje. Na zahtjev državnog odvjetništva odgovarajuće tijelo odgodit će, odnosno prekinuti postupak za izvršenje do donošenja odluke o pravnom lijeku državnog odvjetništva.
+Odluka o odgodi, odnosno prekidu izvršenja odluke prestaje vrijediti ako državno odvjetništvo u roku 15 dana nakon dostave odluke ne upotrijebi pravno sredstvo.

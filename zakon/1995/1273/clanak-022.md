@@ -1,0 +1,5 @@
+# Članak 22.
+Državni odvjetnik obavlja poslove uprave sukladno zakonu i pravilniku u unutarnjem poslovanju.
+Državnog odvjetnika u slučaju njegove spriječenosti ili odsutnosti u obavljanju poslova uprave i drugih poslova koje povjeri zamjenjuje zamjenik državnog odvjetnika određen godišnjim rasporedom poslova.
+U slučaju odsutnosti ili spriječenosti državnog odvjetnika u državnom odvjetništvu u kojem nema zamjenika državnog odvjetnika kao i kad državni odvjetnik nije imenovan, državni odvjetnik neposredno višeg državnog odvjetništva može odrediti zamjenika državnog odvjetnika iz toga državnog odvjetništva ili državnog odvjetnika, odnosno zamjenika državnog odvjetnika područnog državnog odvjetništva, da privremeno ali najdulje šest mjeseci u jednoj godini obavlja poslove državnog odvjetnika, odnosno zamjenika državnog odvjetnika.
+Državnom odvjetniku Republike Hrvatske u poslovima uprave pomažu zamjenici - voditelji odjela i tajnik državnog odvjetništva, a u drugim državnim odvjetništvima državnom odvjetniku pomažu zamjenici - voditelji odjela, tajnik državnog odvjetništva ili službenik kojeg odredi državni odvjetnik.
