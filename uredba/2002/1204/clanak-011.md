@@ -1,0 +1,5 @@
+## III. ZAŠTITNE MJERE
+# Članak 11.
+Zaštitne mjere od prekomjernog uvoza u smislu ove Uredbe su povećanje carine za određenu robu ili količinska ograničenja uvoza određene robe (u daljnjem tekstu: kontingent).
+Ako je donesena zaštitna mjera u obliku kontingenta, opseg tog kontingenta za određenu robu ne smije biti manji od prosječnoga godišnjeg uvoza te robe ostvarenog u proteklom trogodišnjem razdoblju, osim u slučaju potrebe otklanjanja ili sprječavanja nastanka ozbiljne štete.
+U okviru kontingenta iz stavka 2. ovog članka, ako se raspodjela utvrđenog kontingenta obavlja između više zemalja, Vlada može, sa zemljama članicama Svjetske trgovinske organizacije, osobito zainteresiranih za izvoz te robe na carinsko područje Republike Hrvatske, usuglasiti način raspodjele kontingenta i njihove udjele u toj raspodjeli. Ako utvrdi da takav način raspodjele kontingenta nije prikladan, utvrđeni opseg kontingenta raspodijelit će se razmjerno udjelima zemalja izvoznica u ukupnom uvozu određene robe u Republiku Hrvatsku u promatranom razdoblju, vodeći pritom računa i o drugim bitnim čimbenicima, koji su utjecali ili mogu utjecati na uvoz te robe.

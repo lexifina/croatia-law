@@ -1,0 +1,5 @@
+# Članak 17.
+Ako je u kasnijem prethodnom postupku provedenom u skladu sa člankom 5. ove Uredbe, utvrđeno da prekomjernim uvozom domaćoj proizvodnji nije nanesena ozbiljna šteta ili prijetnja nastajanja ozbiljne štete, Vlada će na prijedlog Ministarstva donijeti odluku o prestanku važenja privremene zaštitne mjere.
+U slučaju iz stavka 1. ovoga članka, zaštitne pristojbe koje su plaćene i obračunane temeljem privremene zaštitne mjere bit će vraćene. Pisani zahtjev za povrat carinskog duga nastalog na temelju povećane carine, carinski deklarant podnosi Ministarstvu financija - Carinskoj upravi zajedno sa dokumentom na osnovi kojega je carinski dug i originalni dokaz o plaćanju carine.
+Povrat carinskog duga nastalog na temelju povećane carine iz stavka 1. ovoga članka će Ministarstvo financija - Carinska uprava će izvršiti po službenoj dužnosti, bilo prebijanjem s nenamirenim svotama carinskog duga ili ako zainteresirana stranka nema takvih dugovanja, Ministarstvo financija - Carinska uprava će izvršiti povrat preplaćene carine u roku od 30 dana od dana izdavanja odluke o povratu novca.
+Pri povratu carinskog duga iz stavka 2. ovoga članka ne obračunava se kamata.
