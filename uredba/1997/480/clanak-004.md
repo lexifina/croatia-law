@@ -1,0 +1,7 @@
+# Članak 4.
+Status povratnika stječu oni prognanici i izbjeglice koji prema odredbama Zakona o obnovi ("Narodne novine", broj 24/96) ostvare pravo na obnovu svojih ratom oštećenih ili uništenih stambenih objekata u koje se vrate i u njima prebivaju i prestaje im status prognanika ili izbjeglice, i to najduže do isteka roka iz Programa povratka prognanika koji je Zastupnički dom Sabore Republike Hrvatske donio na 4. sjednici održanoj 1. ožujka 1996. godine:
+1. svi prognanici s područja oslobođenih u vojnoredarstvenoj akciji "Bljesak" i prije nje, čiji su objekti od I. do VI. stupnja oštećenja, do 31. svibnja 1996. godine;
+2. svi prognanici s područja oslobođenih u vojnoredarstvenoj akciji "Oluja" čiji su objekti I., II. i III. stupnja oštećenja, do 30. lipnja 1996. godine;
+3. svi prognanici s područja oslobođenih u vojnoredarstvenoj akciji "Oluja", čiji su objekti IV., V. i VI. stupnja oštećenja na kojima je obnova započela u jesen 1995. godine, do 1. rujna 1996. godine;
+4. svi prognanici s područja oslobođenih u vojnoredarstvenoj akciji "Oluja", čiji su objekti IV., V. i VI. stupnja oštećenja na kojima je obnova započela do dana stupanja na snagu ove Uredbe, do 31. prosinca 1996. godine.
+Iznimno od odredbe stavka 1. ovoga članka, status prognanika ne prestaje onim osobama za koje Ministarstvo razvitka i obnove dostavi uredu za prognanike i izbjeglice Vlade Republike Hrvatske obavijest da na njihovim stambenim objektima nisu dovršeni radovi obnove. Status prognanika traje ovim osobama do dovršenja radova obnove na njihovim stambenim objektima.
