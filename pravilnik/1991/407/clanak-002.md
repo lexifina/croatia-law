@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 24. stavak 1. mljenja se i glasi: "O žalbi izjavljenoj protiv rješenja u prvom stupnju iz članka 23. stavka 4. ovog pravilnika, direktor Republičkog fonda donosi rješenje koje je konačno u upravnom postupku. U postupku donošenja ovog rješenja, direktor obvezatno pribavlja ocjenu više liječničke komisije Direkcije Republičkog fonda:" Iza stavka 2. dodaje se novi stavak, koji glasi: "Protiv rješenja iz stavka 1. ovog članka, osiguranik ima pravo tužbe Upravnom sudu Hrvatske. Tužba se podnosi u roku od 8 dana od dana primitka rješenja."
