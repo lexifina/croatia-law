@@ -1,0 +1,1 @@
+Na temelju članka 22. stavak 2. Pravilnika o odobravanju pomoći za uzdržavanje u obliku zajma, mjerila i obilježja stana potrebnog za zadovoljavanje osnovnih stambenih potreba samca ili obitelji i odobravanju pomoći iz socijalne skrbi (»Narodne novine«, broj 29/98 i 117/00), ministar rada i socijalne skrbi donosi
