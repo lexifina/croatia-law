@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe ide međom k.č. 3843/1 i k.č. 3842/1 do točke A, što u naravi predstavlja rub kamenog zida, gdje se lomi i dalje pravolinijski proteže presjecajući k.č. 3842/1, k.č. 3842/2, k.č. 3842/3, k.č. 3841, k.č. 3840/1, k.č. 3840/2, k.č. 3840/3 sve do točke B, te dalje rubom k.č. 3840/3 do točke C, što u naravi predstavlja rub kamenog zida, sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Umag, broj lista plana 71, u mjerilu 1:1000.
