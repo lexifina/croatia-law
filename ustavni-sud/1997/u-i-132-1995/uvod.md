@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, povodom prijedloga Velimira Šoštarića iz Rovinja, na sjednici održanoj dana 5. veljače 1997. godine, donio je sljedeće
