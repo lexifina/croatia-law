@@ -1,0 +1,1 @@
+Na temelju članka 129. stavka 2. podstavka 19. Zakona o policiji (»Narodne novine« br. 129/2000) i članka 13. i 14. Zakona o zaštiti tajnosti podataka (»Narodne novine« br. 108/96) ministar unutarnjih poslova donosi
