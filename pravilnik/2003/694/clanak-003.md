@@ -1,0 +1,6 @@
+## PROGRAM RONJENJA
+# Članak 3.
+Ministar kulture na prijedlog Uprave za zaštitu kulturne baštine donosi petogodišnji program ronjenja u zaštićenim područjima - zonama (u daljnjem tekstu: Program).
+Programom se utvrđuju zaštićena područja - zone za koja će se pokrenuti postupak izdavanja dopuštenja, visina minimalne godišnje naknade kao i posebni uvjeti i obveze nositelja dopuštenja.
+Programom se može predvidjeti da nadležni Konzervatorski odjel može izdati posebno dopuštenje za obavljanje jednokratnih preglednih, promotivnih, memorijalnih ili edukativnih ronilačkih aktivnosti, a uz prethodnu suglasnost Odjela za zaštitu arheološke baštine Uprave za zaštitu kulturne baštine Ministarstva kulture.
+Programom se može predvidjeti mogućnost izdavanja dopuštenja za ronilačke klubove, ukoliko nadležni Konzervatorski odjel i Odjel za zaštitu arheološke baštine Uprave za zaštitu kulturne baštine Ministarstva kulture ocijene da posebni program izrađen od strane ronilačkog kluba vezan uz zaštitu podmorja (pregledi podmorja, izrada skice dna itd.) doprinosi zaštiti i očuvanju kulturnih dobara, te ukoliko su u zahtjevu navedeni voditelji ronjenja, odnosno članovi kluba koji posjeduju iskaznicu ronilačkog kluba te iskaznicu Hrvatskog ronilačkog saveza.
