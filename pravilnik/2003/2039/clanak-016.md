@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Izdacima koji se oduzimaju prilikom utvrđivanja dohotka od nesamostalnog rada smatraju se doprinosi za obvezna osiguranja iz plaće propisani posebnim zakonom.
+(2) Izdacima koji umanjuju dohodak od nesamostalnog rada smatraju se i premije životnog osiguranja koje imaju obilježja štednje, dopunskoga i privatnoga zdravstvenog i dobrovoljnoga mirovinskog osiguranja koje posloprimci uplaćuju na svoj teret, a poslodavac ih obustavlja i uplaćuje pri obračunu i isplati plaće. Ovi izdaci mogu umanjiti dohodak od nesamostalnog rada prilikom utvrđivanja predujma poreza tijekom poreznog razdoblja, najviše do 0,7 mjesečnoga osnovnog osobnog odbitka za svaki mjesec poreznog razdoblja.
+(3) Ako izdatke iz stavka 2. ovoga članka poslodavac nije uzimao u obzir prilikom utvrđivanja predujma poreza na dohodak, može ih pod uvjetima propisanima člankom 26. stavak 5. ovoga Pravilnika uzeti u obzir u obračunu godišnjeg poreza. Ako ti izdaci nisu iskorišteni ni u tom godišnjem obračunu poreza, priznat će se posloprimcima u obračunu godišnjeg poreza po podnesenoj godišnjoj poreznoj prijavi.
+7. UtvrĐivanje i plaĆanje predujma poreza

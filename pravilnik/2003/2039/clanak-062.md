@@ -1,0 +1,17 @@
+# Članak 62.
+(1) Godišnji porez na dohodak i prirez utvrđuje se prema odredbama članka 3. Zakona i članka 3. ovoga Pravilnika.
+(2) Pri utvrđivanju godišnjeg poreza na dohodak i prireza porezu na dohodak umirovljenika, na osnovi podnesene godišnje porezne prijave, godišnji iznos osobnog odbitka (neoporezivog dijela dohotka) prema članku 29. stavak 1. Zakona izračunava se tako da se osobni odbitak za samog umirovljenika utvrđuje u visini isplaćene mirovine (primitka), najmanje 1.500,00 kuna, a najviše 2.550,00 kuna mjesečno, i tom se iznosu dodaje apsolutni iznos osobnog odbitka za invalidnost umirovljenika i osobnog odbitka za uzdržavane članove uže obitelji i njihovu invalidnost prema članku 29. stavak 2. Zakona, te dio osobnog odbitka prema članku 29. stavci od 9. do 14. Zakona.
+(3) Ako je mirovina ostvarivana samo u dijelu poreznog razdoblja (kalendarske godine), osobni odbitak prema članku 29. stavci 1. i 2. Zakona priznaje se za razmjerni dio godine na način propisan stavkom 2. ovoga članka.
+(4) Pri utvrđivanju godišnjeg poreza i prireza na osnovi godišnje porezne prijave, poreznim obveznicima koji imaju prebivalište i borave na području posebne državne skrbi godišnji se iznos osobnog odbitka iz članka 29. stavci 1. i 2. Zakona izračunava prema odredbama članka 40. Zakona i članka 29. stavci od 9. do 14. Zakona.
+(5) Od utvrđenog godišnjeg poreza i prireza odbijaju se tijekom poreznog razdoblja, za koje se podnosi godišnja porezna prijava, uplaćeni predujmovi po osnovi:
+1. dohotka od nesamostalnog rada koje je obračunao i uplatio poslodavac ili sam porezni obveznik ako je taj dohodak ostvaren neposredno iz inozemstva ili od organizacija iz članka 33. stavci 8. i 9. Zakona ili isplatitelj mirovine odnosno primitaka koji se smatraju mirovinom, te dohotka od druge samostalne djelatnosti članova predstavničkih i izvršnih tijela javne vlasti,
+2. dohotka od samostalne djelatnosti, odnosno dohotka koji se oporezuje na način propisan za samostalne djelatnosti obrta, osim dohotka koji se paušalno oporezuje,
+3. dohotka od drugih samostalnih djelatnosti,
+4. dohotka od imovinskih prava,
+5. dohotka od kapitala,
+6. dohotka od osiguranja i
+7. plaćeni porezi u inozemstvu koji se mogu uračunati prema članku 63. ovoga Pravilnika.
+(6) Ako nakon odbitka plaćenih predujmova poreza na dohodak i prireza iz stavka 5. ovoga članka preostane razlika poreza za uplatu, porezni je obveznik tu razliku obvezan platiti u roku petnaest (15) dana od dana dostave rješenja o utvrđenom godišnjem porezu i prirezu porezu na dohodak.
+(7) Ako nakon odbitka plaćenih predujmova poreza na dohodak i prireza od utvrđene godišnje obveze toga poreza i prireza preostane razlika više plaćenog poreza i prireza, iznos više plaćenog poreza i prireza koristit će se za izmirivanje poreznih obveza tekućeg razdoblja, osim ako porezni obveznik ne zahtijeva povrat. Pisani zahtjev za povrat podnosi se u roku 15 dana od dana dostave rješenja o utvrđenom porezu. Izmirivanje obveze poreza na dohodak tekućeg razdoblja, odnosno povrat, izvršit će se samo ako porezni obveznik nema istodobno dospjele a neplaćene druge poreze ili druga javna davanja (članak 113. stavak 6. Općeg poreznog zakona).
+(8) Iznimno od odredaba stavka 7. ovoga članka, preplaćeni porez po odbitku vraća se poreznom obvezniku bez posebnog zahtjeva, pod uvjetima iz članka 113. stavak 6. Općeg poreznog zakona.
+3.3. Uračunavanje inozemnog poreza
