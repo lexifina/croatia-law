@@ -1,0 +1,3 @@
+# Članak 6.
+Hrvatski autoklub obvezan je pismeno izvijestiti pravnu osobu koja obavlja poslove tehničkih pregleda vozila o pojavama i radnjama ustanovljenim u provođenju stručnog nadzora i učiniti joj dostupnim zapisnik o obavljenom stručnom nadzoru.
+Hrvatski autoklub obvezan je sve prijave građana ili zaposlenika koji obavljaju poslove u stanicama za tehnički pregled vozila, a koje se odnose na nestručno ili nesavjesno obavljanje poslova u pravnim osobama koje obavljaju poslove tehničkih pregleda vozila, provjeriti i poduzeti odgovarajuće mjere, a njihove podnositelje obavijestiti o poduzetim mjerama.
