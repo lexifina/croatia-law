@@ -1,0 +1,1 @@
+Na temelju člana 56. stava 1. Zakona o sigurnosti prometa na cestama ("Narodne novine", br. 20/90) u suglasnosti s Republičkim komitetom za pomorstvo, saobraćaj i veze, Republički sekretarijat za unutrašnje poslove izdaje
