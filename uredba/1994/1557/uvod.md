@@ -1,0 +1,1 @@
+Na temelju članka 4. i članka 5., stavka 3. Zakona o plaćama službenčka i namještenika u javnim službama (Narodne novine, broj 74/94), Vlada Republike Hrvatske je na šjednici održanoj 6. prosinca 1994. godine, donijela
