@@ -1,0 +1,5 @@
+# Članak 47.
+Turistički inspektor donijet će rješenje kojim će zabraniti obavljanje ugostiteljske djelatnosti ili pružanje pojedine ugostiteljske usluge, ako:
+1. pravna i fizička osoba obavlja ugostiteljsku djelatnost ili pruža pojedine ugostiteljske usluge, a da nije upisana u propisani registar, odnosno u upisnik iz članka 4. stavka 3. i članka 42. stavka 1. ovoga Zakona, izuzev u slučaju iz članka 40. stavka 2. ovoga Zakona,
+2. ako pravna ili fizička osoba obavlja ugostiteljsku djelatnost ili pruža pojedine ugostiteljske usluge, a da nije pribavila rješenja da objekt u kojem pruža te usluge udovoljava uvjetima propisanim ovim Zakonom, propisima donesenim na temelju ovoga Zakona i drugim uvjetima propisanim posebnim propisima, izuzev u slučaju iz članka 24. stavka 1. ovoga Zakona,
+3. pravna i fizička osoba iz članka 4. stavka 1, ovoga Zakona pruža ugostiteljsku uslugu osobama koje nisu njihovi djelatnici, članovi, umirovljenici te članovi uže obitelji njihovih djelatnika i umirovljenika s prebivalištem u Republici Hrvatskoj.

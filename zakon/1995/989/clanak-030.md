@@ -1,0 +1,2 @@
+# Članak 30.
+Minimalni uvjeti utvrđeni rješenjem iz članka 23. stavka 2 ovoga Zakona i minimalni uvjeti i uvjeti za kategoriju utvrdeni rješenjem iz članka 25. stavka 3. i članka 26. stavka 2. ovoga Zakona, smatra se da su prestali postojati, ako ugostitelj ne započne s radom u ugostiteljskom objektu u roku od šest mjeseci od dana pravomoćnosti rješenja ili prestankom poslovanja ugostitela u ugostiteljskom objektu.
