@@ -1,0 +1,43 @@
+# Članak 4.
+Članak 5. mijenja se i glasi:
+»Drugu skupinu čine:
+1) općine i gradovi:
+Benkovac, Biskupija, Đulovac, Ervenik, Glina, Gračac, Jasenice, Kistanje, Knin, Konavle, Krnjak, Lasinja, Lišane Ostrovičke, Lovinac, Novigrad, Obrovac, Okučani, Plaški, Polača, Promina, Saborsko, Udbina, Voćin, Vrhovine.
+2) naselja u općinama i gradovima:
+- Barilović - naselja: Donja Perjasica, Donji Skrad, Gaćeško Selo, Gornji Poloj, Kastenak, Koranska Strana, Koranski Brijeg, Koransko Selo, Kosijersko Selo, Mala Kosa, Mali Kozinac, Marlovac, Maurovići, Miloševac, Mrežnica, Novi Dol, Novo Selo, Perjasičko, Orijevac, Perjasica, Ponorac Perjasički, Potplaninsko, Srednji Poloj, Svojić, Štirikovac, Točak Perjasički, Veliki Kozinac, Zinajevac,
+- Brestovac - naselja: Amatovci, Bogdašić, Crljinci, Čečavac, Jaminovac, Kamenski Šeovci, Kamenska, Kamenski Vučjak, Koprivna, Kruševo, Kujnik, Mihajlije, Mijači, Mrkoplje, Novo Zvečevo, Orljevac, Pasikovci, Podsreće, Rasna, Ruževac, Sažije, Sloboština, Striježevica, Snjegavić, Šušnjari, Vranić, Vučjak,
+- Čačinci - naselja: Krasković, Prekoračani, Slatinski Drenovac,
+- Daruvar - naselja: Markovac, Vrbovac,
+- Drniš - naselja: Badanj, Biočić, Bogatić, Brištane, Drinovci Drniš, Kadina, Glavica Kanjane, Kaočine, Karalić, Ključ, Kričke, Lišnjak, Miočić, Parčić, Siverić, Širitovci, Štikovo, Tepljuh, Trbounje, Velušić, Žinić,
+- Dubrovnik - naselja: Bosanka, Brsećine, Dubravica, Donje Obuljeno, Čajkovica, Čajkovići Gornje Obuljeno, Gromača, Kliševo, Knežica Komolac, Ljubač, Mokošica, Mravinjac, Mrčevo, Nova Mokošica, Orašac, Osojnik, Petrovo Selo, Prijevoj, Pobrežje, Rožat, Šumet, Trsteno, Zaton,
+- Gornji Bogićevci - naselja: Dubovac, Gornji Bogićevci, Kosovac, Ratkovac, Smrtić, Trnava,
+- Gospić - naselja: Barlete, Brzik, Divoselo, Drenovac Radučki, Kruškovac, Kukljić, Lički Čitluk, Lički Osik, Medak, Mogorić, Ostrvica, Pavlovac Vrebački, Počitelj, Raduč, Široka Kula, Vrebac, Zavođe,
+- Grubišno polje - naselja: Brđani Dapčivečki, Diakovac, Donja Rašenica, Gornja Rašenica, Lončarica, Mala Brana, Mala Dapčevica, Mala Jasenovača, Mala Peratovica, Munije, Rastovac, Treglava, Turčević Polje, Velika Barna, Velika Dapčevica, Velika Peratovica,
+- Hrvace - naselja: Dabar, Laktac, Maljkovo, Potravlje, Satrić, Vučipolje, Zasiok, Bitelić, Rumin,
+- Josipdol - naselja: Istočni Trojvrh, Trojvrh, Vajin Vrh, Vojnovac,
+- Karlovac - naselja: Banska Selnica, Banski Moravci, Blatnica Pokupska, Brezova Glava, Brežani, Brođani, Cerovac Vukmanički, Donja Trebinja, Donji Sjeničak, Gornja Trebinja, Gornji Sjeničak, Ivanković Sela, Ivošević Selo, Kablar, Klipino Brdo, Kljaić Brdo, Knez Gorica, Lipje, Manjerovići, Popović Brdo, Ribari, Skakavac, Slunjska Selnica, Slunjski Moravci, Tušilović, Udbinja, Utinja, Vukmanić, Gornje Mekušje, Kamensko, Sajevac, Turanj,
+- Lipik - naselja: Bjelanovac, Bujavica, Bukovčani, Dobrovac, Donji Čaglić, Filipovac, Gornji Čaglić, Jagma, Japaga, Klisa, Korita, Kovačevac, Kukunjevac, Lipik, Livađani, Skenderovci, Subocka, Šeovica,
+- Mikleuš - naselja: Balinci, Četekovac, Čojlug,
+- Novska - naselja: Bajir, Borovac, Brezovac, Jazavica, Kričke, Lovska, Novi Grabovac, Paklenica, Popovac, Rađenovci, Rajčići, Rajić, Roždanik, Stari Grabovac, Voćarica,
+- Otočac - naselja: Dabar, Doljani, Glavace, Podum, Škare,
+- Pakrac - naselja: Batinjani, Bjelajci, Branešci, Brusnik, Bučje, Cicvare, Cikote, Dereza, Donja Šumetlica, Donji Grahovljani, Dragović, Glavica, Gornja Šumetlica, Gornji Grahovljani, Gornji Obrež, Jakovci, Koturić, Kraguj, Kričke, Kusonje, Lipovac, Mali Budići, Novi Majur, Španovica, Omanovac, Ožegovci, Pakrac, Popovci, Prekopakra, Prgomelje, Rogulje, Srednji Grahovljani, Stari Majur, Tisovac, Toranj,
+- Petrinja - naselja: Begovići, Bjelnik, Blinja, Cepeliš, Čuntić, Deanovići, Dodoši, Donja Bačuga, Donja Budičina, Donja Mlinoga, Donja Pastuša, Dragotinci, Gora, Gornja Bačuga, Gornja Mlinoga, Gornja Pastuša, Graberje, Grabovac Banski, Hrastovica, Hrvatski Čuntić, Jabukovac, Jošavica, Klinac, Kraljevčani, Križ Hrastovački, Luščani, Mačkovo Selo, Miočinovići, Moštanica, Nova Drenčina, Novo Selište, Pecki, Petkovac, Petrinja, Prnjavor, Čuntićki, Sibić, Strašnik, Stražbenica, Taborište, Tremušnjak, Veliki Šušnjar, Župić,
+- Poličnik - naselje: Murvica,
+- Posedarje - naselja: Islam Latinski, Podgradina,
+- Ružić - naselja: Baljci, Gradac, Otavice, Ružić,
+- Sirač - naselja: Barica, Bjela, Donji Borki, Gornji Borki, Srednji Borki, Pakreni, Zaile,
+- Sisak - naselja: Blinjski Kut, Klobučak, Letovanci, Madžari, Staro Selo,
+- Skradin - naselja: Bratiškovci, Bribir, Cicvare, Gorica, Gračac, Ićevo, Krković, Lađevci, Međare, Piramatovci, Plastovo, Rupe, Sonković, Vačani, Velika Glava, Žažvić, Ždrapanj,
+- Slatina - naselja: Golenić, Ivanbrijeg, Lukavac,
+- Stankovci - naselje: Morpolača,
+- Ston - naselja: Zaton Doli, Zamaslina,
+- Škabrnje - naselje: Škabrnje,
+- Sunja - naselja: Bestrma, Blinjska Greda, Brđani Cesta, Brđani Kosa, Crkveni Bok, Čapljani, Četvrtkovac, Donji Hrastovac, Drljače, Ivanjski Bok, Jasenovačani, Kladari, Kinjačka, Kostreši Šaški, Mala Gradusa, Mala Paukova, Novoselci, Papići, Petrinjci, Pobrđani, Radonja Luka, Sjeverovac, Slovinci, Staza, Strmen, Sunja, Šaš, Timarci, Vedro Polje, Velika Gradusa, Vukoševac,
+- Tounj - naselja: Kamenica Skradnička, Tržić Tounjski,
+- Velika - naselja: Bratuljevci, Gornji Vrhovci, Kantrovci, Klisa, Markovac, Milivojevci, Nježić, Ozdakovci, Smoljanovci,
+- Veliki Grđevac - naselja: Cremušina, Gornja Kovačica, Mali Grđevac, Sibenik, Topolovica, Zrinska,
+- Velika Pisanica - naselja: Bačkovica, Čađavac,
+- Virovitica - naselje: Jasenaš,
+- Vodice - naselja: Čista Mala, Čista Velika, Grabovci,
+- Zadar - naselja: Babindub, Crno,
+- Zemunik Donji - naselja: Smoković, Zemunik Gornji.«
