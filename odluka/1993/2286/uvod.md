@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske, članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske i članka 70. stavka 1. Zakona o zaštiti od ele- mentarnih nepogoda ("Narodne novine", br. 14/78., 31/80. i 53/84.), Zastupnički dom Sabora Republike Hrvatske na sjednici 30. prosinca 1993., donio je
