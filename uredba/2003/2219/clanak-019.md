@@ -1,0 +1,5 @@
+# Članak 19.
+Predmeti kućanstva odnosno gospodarskog inventara uz carinsku povlasticu iz članka 17. ove Uredbe mogu se uvoziti u roku 12 mjeseci od dana preseljenja.
+Na zahtjev korisnika povlastice, koji ispunjava ili će do dana preseljenja ispuniti uvjete za ostvarivanje povlastice, carinarnica može odobriti uvoz predmeta iz stavka 1. ovoga članka i prije dana naznačenoga za preseljenje u Republiku Hrvatsku, ako iskaže namjeru preseljenja u roku šest mjeseci od dana podnošenja toga zahtjeva, te položi jamstvo za namirenje carinskog duga koji bi mogao nastati, ako do preseljenja u odobrenome roku ne dođe.
+Iznimno, uvjet prethodnog posjedovanja i korištenja predmeta kućanstva iz članka 17. stavak 1. točka c), alineja prva, ove Uredbe, mora biti ispunjen do dana podnošenja zahtjeva iz stavka 2. ovoga članka.
+Uvoz predmeta iz stavka 1. ovoga članka može se obaviti i u više navrata, s tim da se rok za ostvarivanje povlastice računa od dana preseljenja, odnosno od dana početka korištenja povlastice sukladno stavku 2. ovoga članka.

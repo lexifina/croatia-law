@@ -1,0 +1,4 @@
+# Članak 34.
+Korisnici povlastice iz članka 20. stavka 1. ove Uredbe, koji u Republiku Hrvatsku preseljavaju radi školovanja, mogu bez plaćanja carine uvoziti pomagala za učenje (predmete i instrumente), namijenjene svojoj osobnoj upotrebi tijekom školovanja ili studiranja. Pri tome se dozvoljava unos pomagala za učenje za cijelo vrijeme školovanja.
+Oslobođenje od plaćanja carine ostvaruje se uz podnošenje nadležnoj carinarnici, isprava iz članka 20. stavka 2. ove Uredbe, potvrde odnosno obrazovne ustanove o pohađanju studija, te mišljenja Ministarstva prosvjete i športa odnosno Ministarstva znanosti i tehnologije, kojom se identificira korisnik, vrsta, količina i vrijednost pomagala, te njena neophodnost za odnosnu vrstu školovanja odnosno studija.
+21) OSLOBOĐENJE ROBE ZA PROMIDŽBU TRGOVINE
