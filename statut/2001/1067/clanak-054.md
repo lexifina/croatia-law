@@ -1,0 +1,4 @@
+# Članak 54.
+1. Osim protekom vremena na koje su izabrani, mandat nositeljima pojedinih dužnosti u HPS prestaje od trenutka kada su prestali biti članovi HPS, kada su podnijeli ostavke, ili kada su razriješeni dužnosti.
+2. Nositelj dužnosti i članovi središnjih i ostalih tijela HPS mogu svoj mandat staviti na raspolaganje (uvjetna ostavka) pismenom ili usmenom izjavom. U tom slučaju, tijelo kojemu je podnesena uvjetna ostavka, raspravlja o povjerenju nositelju dužnosti koji je stavio mandat na raspolaganje. Tijelo kojemu je podnesena uvjetna ostavka može odbiti glasovati o povjerenju nositelju dužnosti koji je tu ostavku podnio, nakon čega on može ili nastaviti obnašati dužnost, ili podnijeti ostavku.
+3. Predsjedništvo HPS može imenovati drugoga člana HPS na mjesto člana nekoga tijela HPS kojemu je iz bilo kojega razloga prestao mandat, ali ne više od 1/3 članova odnosnoga tijela.

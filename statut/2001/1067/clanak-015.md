@@ -1,0 +1,2 @@
+# Članak 15.
+Predsjedništvo županijske podružnice, gradskog, općinskog ogranka i mjesnog ogranka imaju zadaću odlučivati o provođenju Statuta i Programa i neposrednom provođenju politike HPS na svome području te o drugim zadaćama od značaja za područje na kojem djeluju temeljem smjernica i odluka središnjih organa HPS, ili odluka Predsjedništva podružnica. Predsjedništvo županijske podružnice, gradskog (općinskog) ogranka i mjesnog ogranka mogu svojom odlukom kooptirati ili promijeniti do 1/3 broja članova u svom sastavu.
