@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Radi obavljanja poslova izdavanja dozvola za obavljanje energetskih djelatnosti, poslova osiguravanja preglednog i nepristranog djelovanja tržišta energije, poslova osiguravanja preglednog i nepristranog obavljanja energetskih djelatnosti koje se obavljaju kao javne usluge, obavljanja poslova u vezi s reguliranjem cijena energije koje se obračunavaju na podlozi tarifnih sustava, te obavljanja i drugih poslova koji su mu stavljeni u djelokrug Zakonom o energiji i zakonima kojima se uređuje obavljanje energetskih djelatnosti na tržištu ili kao javnih usluga, ovim se Zakonom osniva Vijeće za regulaciju energetskih djelatnosti (u daljnjem tekstu: Vijeće za regulaciju) neovisna pravna osoba sa sjedištem u Zagrebu.
+(2) Pravna osoba iz stavka 1. ovoga članka upisuje se u Sudski registar.
+(3) Na pitanja koja nisu uređena ovim Zakonom primjenjuju se odredbe Zakona o ustanovama.
