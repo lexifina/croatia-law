@@ -1,0 +1,2 @@
+# Članak 6.
+U nadležnosti organizacijske jedinice BZP-a je izgradnja, održavanje i unaprjeđivanje tehničko-tehnološkog/informatičkog sustava BZP-a, izgradnja, održavanje i unaprjeđivanje telekomunikacijske opreme i pristupa sustavu BZP-a kroz javnu telekomunikacijsku mrežu, ugradnja, održavanje i unaprjeđivanje upravljačkog i programskog rješenja rada sustava BZP-a te pohranjivanje, zaštita i dostupnost podataka BZP-a.
