@@ -1,0 +1,4 @@
+# Članak 5.
+Županija može ostvariti pravo na dotaciju iz državnog proračuna, ako broj zaposlenih, visina plaća i naknada na dan 1. siječnja 1998. godine, ne prelazi mjerila utvrđena ovom Uredbom, te ako:
+- plaće župana i podžupana nisu uvećane u odnosu na plaće propisane Odlukom o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, dužnosnika Republike Hrvatske i drugih dužnosnika koje imenuje i razrješava Vlada Republike Hrvatske ("Narodne novine", br. 90/94 i 4/97),
+- masa sredstava za plaće zaposlenih ne prelazi masu sredstava koju čini umnožak broja zaposlenih na dan 1. siječnja 1998. godine i prosječne plaće ostvarene u državnoj upravi za 1997. godinu, prema podacima Državnog zavoda za statistiku, uvećane za planirani postotak porasta plaća u 1998. godini.
