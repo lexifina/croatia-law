@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002 i 153/2002), Vlada Republike Hrvatske je na sjednici održanoj 6. veljače 2003. godine donijela
