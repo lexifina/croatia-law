@@ -1,0 +1,1 @@
+Na temelju članka 149. stavka 2. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", broj 74/94), te članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 18. veljače 1999. godine, donijela
