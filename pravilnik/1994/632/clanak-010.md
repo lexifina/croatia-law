@@ -1,0 +1,2 @@
+# Članak 10.
+O kandidatima koji su položili stručni ispit Ministarstvo unutarnjih poslova vodi evidenciju. Evidencija sadrži podatke: ime i prezime kandidata, datum i mjesto rođenja, jedinstveni matični broj građana, stupanj i smjer završenog obrazovanja, tvrtku poduzeća u kojem je kacldidat u radnom odnosu, datum polaganja ispita, ocjenu komisije, datum ponovnog polaganja ispita, ocjenu i napomene.
