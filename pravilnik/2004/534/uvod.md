@@ -1,0 +1,1 @@
+Na temelju članka 321. stavak 2. točka 3. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 59/96. - pročišćeni tekst), ministar mora, turizma, prometa i razvitka uz suglasnost ministra unutarnjih poslova i ministra gospodarstva, rada i poduzetništva donosi
