@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. i članka 32. stavka 1. Zakona o rudarstvu ("Narodne novine", broj 35/95 - pročišćeni tekst), a povodom zahtjeva INA - Industrije nafte d.d., Zagreb, pod brojem: 556/22604 NB, od 20. listopada 1997. godine, Vlada Republike Hrvatske je na sjednici održanoj 2. travnja 1998. godine, donijela
