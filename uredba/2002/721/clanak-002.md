@@ -1,0 +1,10 @@
+## II. SADRŽAJ NATPISNE PLOČE I ZAGLAVLJA AKTA
+## A) Ministarstva i državne upravne organizacije
+# Članak 2.
+Natpisna ploča ministarstva sadrži: grb Republike Hrvatske, naziv: »Republika Hrvatska« i naziv ministarstva. Naziv ministarstva ispisuje se većim slovima u odnosu na ostali tekst.
+Natpisna ploča upravne organizacije u sastavu ministarstva koja je osnovana posebnim zakonom, osim dijelova iz stavka 1. ovoga članka, iza naziva ministarstva u čijem je sastavu, sadrži naziv upravne organizacije. Naziv upravne organizacije u sastavu ispisuje se većim slovima u odnosu na ostali tekst.
+Unutarnja ustrojstvena jedinica ministarstva, odnosno upravne organizacije u sastavu ministarstva, koja nije smještena u zgradi s ministarstvom, odnosno sa upravnom organizacijom u sastavu ministarstva, ističe natpisnu ploču, koja osim dijelova iz stavka 1., odnosno stavka 2. ovoga članka, iza naziva ministarstva, odnosno upravne organizacije u sastavu ministarstva, kojoj pripada, sadrži i naziv unutarnje ustrojstvene jedinice, a ukoliko ima sjedište u drugom mjestu, uz naziv unutarnje ustrojstvene jedinice, sadrži i mjesto sjedišta. Naziv i sjedište unutarnje ustrojstvene jedinice ispisuje se većim slovima u odnosu na ostali tekst.
+Natpisna ploča diplomatske misije i konzularnog ureda Republike Hrvatske u inozemstvu (veleposlanstvo, generalni konzulat, konzulat, stalna misija, misija) sadrži: grb Republike Hrvatske i naziv: »Veleposlanstvo Republike Hrvatske«, odnosno naziv diplomatske misije ili konzularnog ureda.
+Natpisna ploča državne upravne organizacije sadrži: grb Republike Hrvatske, naziv: »Republika Hrvatska« i naziv državne upravne organizacije. Naziv državne upravne organizacije ispisuje se većim slovima u odnosu na ostali tekst.
+Na sadržaj natpisne ploče unutarnje ustrojstvene jedinice državne upravne organizacije, na odgovarajući način primjenjuje se odredba stavka 3. ovoga članka.
+Grb Republike Hrvatske u natpisnoj ploči propisanoj stavkom 1., 2., 3. i 5. ovoga članka stavlja se na sredini iznad naziva: »Republika Hrvatska«.

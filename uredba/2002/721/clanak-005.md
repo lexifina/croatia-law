@@ -1,0 +1,5 @@
+# Članak 5.
+Zaglavlje akta ureda državne uprave u jedinici područne (regionalne) samouprave sadrži: grb Republike Hrvatske, naziv: »Republika Hrvatska«, riječi: »Ured državne uprave u -------- (naziv županije)«, naziv osnovne unutarnje ustrojstvene jedinice, odnosno unutarnje ustrojstvene jedinice osnovane posebnim propisom, klasifikacijsku oznaku, urudžbeni broj, mjesto i datum izrade akta.
+Zaglavlje akta ispostave ureda državne uprave u jedinici područne (regionalne) samouprave sadrži: grb Republike Hrvatske, naziv: »Republika Hrvatska«, riječi: »Ured državne uprave u ---------------- (naziv županije)«, naziv osnovne unutarnje ustrojstvene jedinice ureda na čije se poslove odnosi akt, riječ: »Ispostava« i sjedište ispostave, klasifikacijsku oznaku, urudžbeni broj, mjesto i datum izrade akta.
+Iznimno, zaglavlje akta iz stavka 1. i 2. ovoga članka ne sadrži grb Republike Hrvatske kada je grb Republike Hrvatske otisnut na propisanom obrascu akta.
+c) Tijela jedinica lokalne i područne (regionalne) samouprave
