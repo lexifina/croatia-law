@@ -1,0 +1,1 @@
+Na temelju članka 21. Zakona o unutarnjim poslovima ("Narodne novine", broj 29/91 - pročišćeni tekst, 79/91, 18/92 i 33/92) na prijedlog ministra unutarnjih poslova, Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 1993. godine donijela
