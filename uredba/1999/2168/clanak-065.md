@@ -1,0 +1,2 @@
+# Članak 65.
+Osim u slučajevima iz članka 67. Carinskog zakona ili u slučaju primjene propisa o prodaji robe, osoba koja je podnijela skraćenu deklaraciju mora poštivati mjere carinarnice koje je odredila sukladno članku 65. stavku 1. Carinskog zakona i mora snositi nastale troškove. Ako skraćena deklaracija nije podnesena, za provedbu mjera koje je odredila carinarnica odgovorna je osoba koja bi u skladu s člankom 56. stavkom 2. Carinskog zakona morala podnijeti skraćenu deklaraciju.

@@ -1,0 +1,5 @@
+# Članak 69.
+Sve kontrole i carinske formalnosti koje se odnose na:
+a) ručnu i predanu prtljagu onih osoba koje počinju putovanje zrakoplovom pristiglim iz strane zračne luke koji nakon pristajanja u domaćoj zračnoj luci nastavlja put do druge domaće zračne luke, obavljaju se u zadnjoj zračnoj luci pod uvjetom da je to zračna luka za međunarodni promet; u tom se slučaju na prtljagu primjenjuju propisi koji važe za prtljagu osoba pristiglih iz inozemstva ako ne mogu dokazati carinarnici da je roba u prtljazi domaća roba,
+b) ručnu i predanu prtljagu osoba koje počinju putovanje zrakoplovom koji će pristajati u drugoj domaćoj zračnoj luci prije nastavka puta u inozemstvo, obavljaju se u polaznoj zračnoj luci, pod uvjetom da je to zračna luka za međunarodni promet; u tom slučaju kontrola ručne prtljage može se obaviti i u zračnoj luci u kojoj je zrakoplov pristao prije nastavka puta u inozemstvo, te
+c) prtljagu osoba koje koriste usluge pomorskoga plovila za promet s inozemstvom, obavlja se u luci za međunarodni promet gdje se ta prtljaga ukrcava ili iskrcava.

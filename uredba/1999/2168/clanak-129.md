@@ -1,0 +1,6 @@
+## Poglavlje 5. Naknadna provjera deklaracije
+# Članak 129.
+Carinarnica može provesti postupak provjere deklaracije i nakon puštanja robe deklarantu kako bi pregledom trgovačke i druge dokumentacije kod deklaranta ili druge osobe koja raspolaže potrebnim podacima, a po mogućnosti također i pregledom robe, ustanovila da li je bio ispravno utvrđen carinski dug, da li su bile ispravno primijenjene trgovinske i druge mjere i da li se poštivaju obveze koje proizlaze iz odobrenog carinskog postupka. Naknadna provjera može se izvršiti također na zahtjev drugih carinskih tijela u okvirima međunarodne suradnje.
+Ako carinarnica na osnovi rezultata naknadne provjere ustanovi da je carinski dug bio krivo obračunat, poduzet će sve potrebne mjere za naknadnu naplatu, povrat, ili otpust duga. U slučaju kršenja odredbi trgovinskih ili drugih mjera carinarnica o svojim nalazima izvještava nadležna državna tijela. Na osnovi međunarodne suradnje moguće je kontrolne nalaze dostaviti carinskim tijelima drugih država.
+U naknadnoj provjeri odgovarajuće se primjenjuju prvo, drugo i treće potpoglavlje ovog poglavlja. Carinarnica sastavlja zapisnik o rezultatima naknadne provjere.
+Ako se pri naknadnoj provjeri uzimaju uzorci, to se navodi u zapisniku o naknadnoj provjeri deklaracije.

@@ -1,0 +1,10 @@
+# Članak 42.
+Za određivanje carinske vrijednosti sukladno člancima 32. i 33. Carinskog zakona koristi se transakcijska vrijednost istovjetne ili slične robe iz kupoprodajnog posla na istoj komercijalnoj razini i u približno jednakoj količini robe kao što je količina robe koja se procjenjuje. Ako takvog kupoprodajnog posla nema uzima se transakcijska vrijednost za istovjetnu ili sličnu robu koja je bila prodana na drugoj komercijalnoj razini i/ili za drugačije količine, poštujući sljedeći redoslijed:
+a) jednaka komercijalna razina, ali drugačija količina,
+b) drugačija komercijalna razina ali približno jednaka količina, te
+c) različita komercijalna razina i različite količine.
+Takvu transakcijsku vrijednost treba ispraviti za razlike nastale zbog različitih komercijalnih razina kupoprodaje i/ili količina, kad podnesene isprave to omogućavaju, bez obzira na to da li utječu na povećanje ili umanjenje vrijednosti.
+Ako su u transakcijsku vrijednost uključeni troškovi sukladno članku 38. stavku 1. točke a) podtočkama 4., 5. i 6. Carinskog zakona pri prilagodbi se moraju uzeti u obzir bitne razlike u tim troškovima za uvezenu robu i odgovarajuću istovjetnu ili sličnu robu koji proizlaze iz razlike u udaljenosti i vrsti prijevoza.
+Ako se u skladu s ovim člankom utvrdi više transakcijskih vrijednosti istovjetne ili slične robe, za utvrđivanje carinske vrijednosti uvezene robe upotrijebit će se najniža između tih vrijednosti.
+U primjeni ovog članka uzet će se u obzir transakcijska vrijednost robe koju je proizvela treća osoba, samo u onim slučajevima kad carinarnica ne raspolaže transakcijskim vrijednostima za istovjetnu ili sličnu robu koju je proizvela ista osoba kao robu koja se procjenjuje.
+Transakcijska vrijednost uvezene istovjetne ili slične robe je carinska vrijednost koja je bila sukladno članku 31. Carinskog zakona već prije prihvaćena i koja je usklađena sukladno članku 38. stavku 1. točki a) podtočkama 4., 5. i 6. Carinskoga zakona kao i sa člankom 32. stavkom 3. Carinskog zakona.

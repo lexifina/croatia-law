@@ -1,0 +1,3 @@
+# Članak 43.
+Za određivanje jedinične vrijednosti u skladu s člankom 35. stavkom 2. Carinskog zakona ne smiju se koristiti slučajevi prodaje u Republici Hrvatskoj osobama koje neposredno ili posredno, besplatno ili po sniženim cijenama dobavljaju robu ili obavljaju usluge iz članka 38. stavka 1. točke b) podtočke 4. Carinskog zakona u svezi sa proizvodnjom ili prodajom uvezene robe.
+Trenutak prve prodaje poslije uvoza u smislu članka 35. stavka 2. Carinskog zakona smatra se dan obavljene prodaje uvezene robe ili uvezene istovjetne ili slične robe u dovoljno velikoj količini za određivanje jedinične cijene.

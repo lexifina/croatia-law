@@ -1,0 +1,2 @@
+# Članak 79.
+Carinarnica može dopustiti ili zahtijevati da se ispravak podataka u carinskoj deklaraciji sukladno članku 77. Carinskoga zakona izvrši tako da se podnese nova carinska deklaracija koja će nadomjestiti prvotno podnesenu. U tom slučaju se kao datum prihvaćanja carinske deklaracije koji je mjerodavan za utvrđivanje carinskog duga i primjenu drugih propisa o dotičnom carinskom postupku, smatra datum prihvaćanja prve deklaracije.
