@@ -1,0 +1,2 @@
+# Članak 11.
+Stručne poslove u svezi rada Komisije obavlja tajnik kojeg imenuje ministar zdravstva iz redova djelatnika Stručne službe Ministarstva zdravstva. Tajnik se brine o pribavljanju i pripremanju dokumenata i podataka potrebnih za rad Komisije, pripremanju i organiziranju sjednica kao i o rokovima predviđenim Pravilnikom, te vodi zapisnik o radu sjednice te registar specijalista kojima je dodijeljen naziv primarijus. Administrativne poslove u svezi rada Komisije obavlja Stručna služba Ministarstva.

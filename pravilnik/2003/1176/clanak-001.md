@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom utvrđuju se mjerila za priznavanje naziva primarijus doktorima medicine - specijalistima i doktorima stomatologije - specijalistima, sastav Komisije za priznavanje naziva primarijus (u daljnjem tekstu: Komisija), način njenoga rada te postupak za priznavanje naziva primarijus. Članove Komisije na razdoblje od četiri (4) godine imenuje ministar zdravstva iz redova nastavnika medicinskih i stomatoloških fakulteta i istaknutih medicinskih i stomatoloških stručnjaka s nazivom primarijus.
