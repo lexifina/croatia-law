@@ -1,0 +1,5 @@
+# Članak 12.
+1. Računi i plaćanja između određenih prijevoznika bit će izvršavani u skladu s odredbama platnog sporazuma koji je na snazi između dviju ugovornih stranaka i u skladu s valutnim propisima na snazi na njihovim teritorijama.
+2. Svaki određeni prijevoznik imat će pravo promijeniti i doznačiti u svoju zemlju na zahtjev, po službenom stečaju, višak prihoda u odnosu na troškove ostvaren od prijevoza putnika, robe i pošte u skladu s deviznim propisima na snazi u svakoj ugovornoj stranki.
+3. U nedostatku odgovarajućih odredbi sporazuma o plaćanju između ugovornih stranaka, gore navedeni prijenos bit će izvršen u konvertibilnoj valuti i u skladu s nacionalnim zakonima i deviznim propisima koji su na snazi.
+4. Podložno principu uzajamnosti i odnosnih nacionalnih propisa obiju ugovornih stranaka, svaki određeni prijevoznik imat će pravo prodavati i izdavati vlastite prijevozne dokumente na teritoriju druge ugovorne stranke direktno i, po vlastitom izboru, putem svojih zastupnika. Takvi zračni prijevoznici imat će pravo prodavati takav prijevoz i bilo koja osoba bit će slobodna kupiti takav prijevoz u lokalnoj i konvertibilnoj valuti.

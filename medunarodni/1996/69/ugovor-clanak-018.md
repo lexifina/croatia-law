@@ -1,0 +1,2 @@
+# Članak 18.
+Zrakoplovne vlasti svake ugovorne stranke pružit će zrakoplovnim vlastima druge ugovorne stranke, na njihov zahtjev, takve periodične ili ostale statističke podatke koji se uobičajeno traže u svrhu pregleda i praćenja kapaciteta pruženog u zračnom prometu od strane određenih prijevoznika prve ugovorne stranke. Takvi podaci sadržavat će sve informacije potrebne za utvrđivanje obima prometa koji ti zračni prijevoznici prevoze u zračnom prometu.

@@ -1,0 +1,3 @@
+# Članak 10.
+1. Zakoni i propisi svake ugovorne stranke koji se odnose na ulazak, boravak ili izlazak iz njenog teritorija zrakoplova koji obavlja međunarodni zračni promet ili na letenje i plovidbu tog zrakoplova dok je na njezinom teritoriju, primjenjivat će se na zrakoplov određenog prijevoznika druge ugovorne stranke.
+2. Zakoni i propisi svake ugovorne stranke koji se odnose na ulazak, boravak, ili izlazak iz njenog teritorija putnika, posada, pošte i robe prevožene zrakoplovom, a posebno oni koji se odnose na graničnu, carinsku i sanitarnu kontrolu, bit će primjenjivani na putnike, posade, poštu i robu ukrcanu na zrakoplov određenog prijevoznika druge ugovorne stranke.

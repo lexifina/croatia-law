@@ -1,0 +1,2 @@
+# Članak 9.
+Pristojbe i naknade primjenjive na teritoriju svake ugovorne stranke na prometovanje zračnog prijevoznika druge ugovorne stranke za upotrebu zračnih luka otvorenih za javnu upotrebu i drugih zrakoplovnih sredstava na teritoriju prve ugovorne stranke, bit će pravedne i razumne te ubirane u skladu s jedinstvenim uvjetima primjenjivanim bez diskriminacije u odnosu na državnu pripadnost dotičnog zrakoplova.
