@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 1. Zakona o utvrđivanju plaće i drugih primanja dužnosnika ("Narodne novine", br. 60/92. i 75/92.), Zastupnički dom Sabora Republike Hrvatske na sjednici 30. studenog 1992. donio je
