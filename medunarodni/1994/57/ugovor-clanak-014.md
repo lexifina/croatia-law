@@ -1,0 +1,7 @@
+# Članak 14.
+PRAVILO SPECIJALNOSTI
+1. Protiv osobe koja se izrući neće se voditi postupak, ona neće biti osudena niti pritvorena s ciljem izvršenja kazne ili sigurnosne mjere za kazneno djelo poćinjeno prije njezinog izručenja, osim u odnosu na ono djelo zbog kojeg je ta osoba izručena. Istoj se neće iz bilo kojeg razloga ogranićiti njezina osobna sloboda, osim u sljedećim slućajevima:
+(a) kada strana koja vrši izručenje dade svoju suglasnost. Zahtjev za suglasnost će se dostaviti, zajedno s dokumentima navedenim u Članku 12, te zapisnikom iskaza izrućene osobe u svezi s počinjenim kaznenim djelom. Suglasnost će se dati kada je za kazneno djelo za koje se ista traži predviđeno izručenje u skladu sa odredbama ove Konvencije;
+(b) kada ta osoba, iako je imala mogućnost napustiti teritorij strane kojoj je bila izrućena, to ne ućini u roku od 45 dana njezinog puštanja na slobodu, ili se pak vrati na taj teritorij nakon što ga je napustila.
+2. Strana koja traži izručenje može poduzeti potrebne mjere za odstranjenje te osobe sa svojeg teritorija, ili druge potrebne mjere u skladu sa svojim zakonima, ukljućujući donošenje presude u odsutnosti, kako bi spriječila nastupanje pravnih posljedica zastare.
+3. Kada se opis kaznenog djela kojim se osoba tereti izmijeni tijekom postupka, protiv izručene osobe vodit će se postupak i donijeti presuda, samo u slučaju ako je za kazneno djelo s novim opisom, glede njegovih sastavnih dijelova, predviđeno izručenje.

@@ -1,0 +1,7 @@
+# Članak 16.
+PRIVREMENO UHIĆENJE
+1. U slućaju hitnosti, nadležni organi strane koja traži izručenje mogu zahtijevati da se osoba koja se traži privremeno uhiti. Nadležni organi strane od koje se izručenje traži donijeti će odluku u skladu sa svojim zakonom.
+2. U zahtjevu za privremeno uhićenje navesti će se da postoji jedan od dokumenata koji su navedeni u Članku 12, stavak 2 (a), te da se namjerava dostaviti zahtjev za izručenje. U istom će se navesti i za koje se kazneno djelo izručenje traži, kada i gdje je to kazneno djelo počinjeno, te će se isto tako dati što toćniji opis osobe koja se traži.
+3. Zahtjev za privremeno uhićenje će se dostaviti nadležnim organima strane od koje se uhićenje traži, bilo diplomatskim putem, bilo direktno putem pošte ili telegrafa, bilo putem Interpola, bilo putem drugog sredstva koje isto tako pruža pismeni dokaz ili ga prihvaća strana od koje se izručenje traži. Organ koji je dostavio zahtjev će biti odmah obaviješten o odluci u svezi s istim.
+4. Privremeno uhićenje se može prekinuti ako u roku od 18 dana nakon uhićenja, strana od koje se isto traži, ne primi zahtjev za izručenje te dokumente navedene u Članku 12. Uhićenje neće nikako trajati više od 40 dana nakon dana uhićenja. Mogućnosti privremenog puštanja na slobodu se ne isključuje, no strana od koje se traži da izvrši uhićenje će poduzeti mjere za koje smatra da su potrebne kako bi se spriječilo bijeg osobe koja se traži.
+5. Puštanje na slobodu ne prejudicira nemogućnost ponovnog uhićenja i izručenja ako se naknadno primi zahtjev za izručenje.
