@@ -1,0 +1,1 @@
+Na temelju članka 48. stavak 1. Zakona o platnom prometu u zemlji ("Narodne novine" broj 27/93, 13/94, 69/94, 73/94, 24/96, 29/96 i 50/96) i članka 67. stavak 1. točka 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine" broj 35/95), Savjet Narodne banke Hrvatske na sjednici održanoj 7. svibnja 1997. godine, donio je
