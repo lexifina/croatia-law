@@ -1,0 +1,1 @@
+Na temelju članka 12. stavak 1. točka 1. i članka 36. stavak 2. Zakona o izdavanju i prometu vrijednosnim papirima (»Narodne novine« 107/95, 142/98 i 87/00), Komisija za vrijednosne papire Republike Hrvatske (dalje: Komisija za vrijednosne papire) donosi
