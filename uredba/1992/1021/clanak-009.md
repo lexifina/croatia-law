@@ -1,0 +1,2 @@
+# Članak 9.
+Pravne osobe mogu koristiti sredstva za neposrednu zajedničku potrošnju po zaposlenom radniku najviše do iznosa prosječne mjesečne neto plaće isplaćene za prethodno tromjesečje u privredi Republike. Ovo ograničenje se ne primjenjuje za isplatu otpremnina za odlazak radnika u mirovinu i pomoć radnicima, odnosno njihovim obiteljima u slučaju dulje i teže bolesti, smrti ili elementarnih nepogoda

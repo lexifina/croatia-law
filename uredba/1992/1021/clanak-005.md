@@ -1,0 +1,2 @@
+# Članak 5.
+Pravne osobe koje nisu obuhvaćene člancima 2., 3. i 4. ove Uredbe (društveni sektor privrede) mogu isplaćivati neto plaće za lipanj najviše do 15% veće u odnosu na prosječnu plaću isplaćene za travanj uvećanu za 18%. Pravne osobe iz stavka 1. čije su prosječne plaće prema posljednjim raspoloživim mjesečnim podacima za 10 ili više posto manje od prosječne plaće u privredi mogu utvrđivati neto plaće za lipanj i naredne mjesece u skladu s općim aktom i kolektivnim ugovorom.
