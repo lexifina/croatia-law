@@ -1,0 +1,2 @@
+# Članak 3.
+Vlada Republike Hrvatske podnijet će Hrvatskome državnom saboru izvješće o donošenju uredbe odmah nakon njenog donošenja, a na svaku od sjednica njegovih domova izvješće o uredbama koje je na temelju ovlasti iz članka 1. ovoga Zakona donijela između dviju sjednica svakog od domova Hrvatskoga državnog sabora, odnosno na prvo zasjedanje novoizabranog Zastupničkog doma Hrvatskoga državnog sabora izvješće o uredbama koje je donijela od dana podnošenja posljednjeg izvješća.
