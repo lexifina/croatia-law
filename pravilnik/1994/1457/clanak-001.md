@@ -1,0 +1,3 @@
+## o načinu vođenja očevidnika o obavljenom nadzoru ili kontroli državnog inspektora telekomunikcija i državnog djelatnika koji obavlja poslove kontrole radio-frekvencijskog spektra
+# Članak 1.
+(1) Ovim pravilnikom propisuje se način na koji državni inspektor telekomunikacija (u daljnjem štivu: državni inspektor) i državni djelatnik koji obavlja poslove kontrole radio-frekvencijskog spektra (u daljnjem štivu: državni djelatnik) vode očevidnike o obavljenom nadzoru telekomunikacijskih objekata i opreme te radijskih postaja vlasnika telekomunikacija, funkcioniranja telekomunikacijskog prometa, pružanja telekomunikacijskih usluga, te kontroli radio-frekvencijskog spektra i radijskih postaja vlasnika telekomunikacija.
