@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu (»Narodne novine«, broj 130/2000), Vlada Republike Hrvatske je na sjednici održanoj 22. veljače 2001. godine, donijela
