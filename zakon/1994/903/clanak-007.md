@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Proizvodačima alkohola ili alkoholnih pića smatraju se i fizičke osobe - vlasnici ili korisnici poljoprivrednog zemljišta te vlasnici tvari za proizvodnju alkohola ili alkoholnih pića koji alkohol ili alkoholna pića proizvode za vlastite potrebe i to za količine koje prelaze 40 litara apsolutnog alkohola godišnje po poljoprivrednom domaćinstvu ili domaćinstvu.
+(2) Osobe iz stavka 1. ovoga članka obvezne su voditi evidenciju te nadležnoj ispostavi Porezne uprave podnijeti godišnju prijavu o proizvedenoj količini alkohola ili alkoholnih pića do 31. siječnja tekuće godine za proteklu godinu.
