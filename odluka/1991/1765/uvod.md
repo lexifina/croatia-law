@@ -1,0 +1,1 @@
+Na temelju članka 6. točke 12. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske ("Narodne novine". br. 58/90) Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske. na sjednici održanoj 4. prosinca 1991. donosi
