@@ -1,0 +1,4 @@
+# Članak 4.
+U slučaju potrebe financiranja interventnih mjera u poljoprivredi koje poduzimaju Vlada Republike Hrvatske i Ministarstvo poljoprivrede i šumarstva (u daljnjem tekstu: Ministarstvo), na prijedlog ministra poljoprivrede i šumarstva može se do 20% raspoloživih neiskorištenih sredstava Fonda usmjeriti za financiranje tih mjera u obliku kratkoročnih posudbi. Kratkoročna posudba mora biti osigurana solidarnim i neopozivim jamstvom poslovne banke s izjavom »na prvi poziv« u korist Ministarstva koja važi do konačne otplate kredita zajedno sa sporednim potraživanjima ili založnim pravom na nekretnine.
+Kratkoročna posudba iz stavka 1. ovoga članka mora biti vraćena u istoj kalendarskoj godini.
+Kamatna stopa za kratkoročnu posudbu iz stavka 1. ovog članka utvrđuje se u visini eskontne stope uvećane za dva postotna poena.
