@@ -1,0 +1,4 @@
+ODLUKU
+1. Ukida se odredba člana 7. Programa subvencioniranja dijela stanarine određenim kategorijama stanara za 1989. godinu, što ga je Skupština Samoupravne interesne zajednice stambeno-komunalne djelatnosti općine Vinkovci donijela 29. ožujka 1985. godine, i ujedno utvrđuje da je odredba člana 7. istoimenog programa za 1988. godinu, u vrijeme dok je bila na snazi, bila suprotna zakonu.
+2. Utvrđuje se da su suprotne zakonu odredbe članova 19. 20. i 21. Samoupravnog sporazuma o ostvarivanju solidarnosti u izgradnji i korištenju stanova i o udruživanju sredstava za izgradnju stambene infrastrukture na području općine Vinkovci ("Službeni vjesnik" općine Vinkovci. br. 5/81) u dijelu kojim se pod nosiocima prava na subvenciju podrazumijevaju samo stanari, a ne i podstanari.
+3. Ova će se odluka Objaviti u "Narodnim novinama" i u "službenom vjesniku" općine Vinkovci.
