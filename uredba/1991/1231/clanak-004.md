@@ -1,0 +1,2 @@
+# Članak 4.
+Zadatak Komisije je da primjenom odredaba Ženevske konvencije o postupanju s ratnim zarobljenicima od 12. kolovoza 1949. godine ("Službeni list FNRJ", broj 24/ 1950) provodi repatriranje i razmjenu zarobljenika iz članka 2. ove uredbe. . Komisija nadzire provođenje odredaba Konvencije iz stavka 1. ovog članka u vezi postupanja prema zarobljenicima, te uvjetima njihovog smještaja na određenim lokacijama.
