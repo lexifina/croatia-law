@@ -1,0 +1,1 @@
+Na osnovi člana 80. stava 2. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine", broj 8/89 - pročišćeni tekst) i člana 22. Statuta Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, na drugoj sjednici održanoj 4. prosinca 1990. g. donijela je
