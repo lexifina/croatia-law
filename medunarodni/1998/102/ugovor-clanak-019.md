@@ -1,0 +1,3 @@
+# Članak 19.
+OTKAZIVANJE
+Ugovorna stranka može u svako vrijeme dati obavijest diplomatskim putem u pisanom obliku drugoj ugovornoj stranki o svojoj odluci da otkaže ovaj Sporazum; takva obavijest istovremeno će biti dostavljena Međunarodnoj organizaciji civilnog zrakoplovstva. Sporazum će prestati važiti istekom roka od dvanaest (12) mjeseci od dana primitka obavijesti od strane druge ugovorne strane, ukoliko odluka o otkazivanju nije povučena sporazumom prije isteka ovog razdoblja. U slučaju nedostatka potvrde primitka od strane druge ugovorne stranke, uzet će se da je obavijest primljena četrnaest (14) dana nakon primitka iste od strane Međunarodne organizacije civilnog zrakoplovstva.

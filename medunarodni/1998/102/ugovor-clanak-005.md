@@ -1,0 +1,6 @@
+# Članak 5.
+PRIMJENA ZAKONA I PROPISA
+1. Zakoni, propisi i procedure jedne ugovorne stranke koji se odnose na ulazak, boravak ili izlazak sa njenog teritorija zrakoplova koji obavlja međunarodni zračni promet ili na letenje i plovidbu tog zrakoplova, bit će poštivani od određenog ili određenih prijevoznika druge ugovorne stranke po ulasku ili izlasku ili tijekom boravka na teritoriju te stranke.
+2. Zakoni, propisi i procedure jedne ugovorne stranke koji se odnose na ulazak, ulazne dozvole, tranzit, graničnu kontrolu, putovnice, carinu i sanitarnu kontrolu, bit će poštivani od prijevoznika druge ugovorne stranke i od ili u ime njihovih posada, putnika, robe i pošte po tranzitu, ulasku u, izlasku iz ili za vrijeme boravka na teritoriju rečene ugovorne stranke.
+3. Nijedna ugovorna stranka neće davati prednost svojem ili bilo kojem drugom zračnom prijevozniku u odnosu na zračnog prijevoznika druge ugovorne stranke, koji obavlja sličan međunarodni zračni promet, u primjeni svojih carinskih, graničnih, sanitarnih i sličnih propisa.
+4. Putnici, prtljaga i roba u direktnom tranzitu preko teritorija jedne ugovorne stranke, koji ne napuštaju područje zračne luke rezervirano u tu svrhu, podlijegat će samo pojednostavljenoj kontroli. Prtljaga i roba u direktnom tranzitu bit će izuzeta od carinskih davanja i ostalih sličnih naknada.
