@@ -1,0 +1,3 @@
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Principovac kota 208-II smješteno je 100 metara od granične crte u dubini Republike Hrvatske, na lokalnoj cesti 46040 (Ilok - Ljuba) i obuhvaća prostor s lijeve i s desne strane ceste, dužine 100 metara i širine 16 metara na k.č. 10095 k.o. Ilok, gdje se nalazi jedna ulazna i jedna izlazna prometna traka širine 6 metara. Područje graničnog prijelaza obuhvaća dva kontejnera koje koriste djelatnici granične policije i djelatnici carine, ulazno-izlaznu rampu, nadstrešnicu dužine 8 metara i širine 7 metara s rasvjetnim tijelima te šljunčani parkirališni prostor.
+Ukupna površina područja graničnog prijelaza iznosi 1600 m2.
