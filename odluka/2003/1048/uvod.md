@@ -1,0 +1,1 @@
+Na temelju članka 128. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98., 127/00., 59/01., 109/01. i 147/02.) Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje na sjednici održanoj 19. ožujka 2003. donijelo je
