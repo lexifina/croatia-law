@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 84h. Zakona o lokalnoj samoupravi i upravi (»Narodne novine«, br. 90/92, 94/93, 117/93 i 128/99), Vlada Republike Hrvatske je na sjednici održanoj 6. travnja 2000. godine donijela
