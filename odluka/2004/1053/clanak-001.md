@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom propisuje se način i rok za usklađivanje sredstava jamstvenog pologa koje je mirovinsko društvo bilo obvezno uplatiti u 2003. u skladu s odredbom članka 56. stavka 1. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 49/99 i 63/00) i članka 15. Zakona o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima («Narodne novine», broj 103/03 - u daljnjem tekstu: Zakon) kao i obavijest mirovinskog društva o izvršenom usklađenju.
