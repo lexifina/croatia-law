@@ -1,0 +1,1 @@
+Na osnovi odredbe čl. 105. Zakona o zdravstvenom osiguranju ("Narodne novine" broj 75/93) i točke Vlll. Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite u 1993. godini ("Narodne novine" broj 13/93, 29/93, 51/93 i 65/93), Izvršni odbor Skupštine Republičkog fonda na 26. sjednici, održanoj 2. rujna 1993 godine, donio je
