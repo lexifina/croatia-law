@@ -1,0 +1,2 @@
+# Članak 16.
+Najniža mjesečna osnovica, prema članku 14. Zakona, za obračun doprinosa za osiguranika po osnovi obavljanja samostalne djelatnosti obrta, slobodnog zanimanja te djelatnosti poljoprivrede i šumarstva kada se od tih djelatnosti plaća porez na dobit obvezniku doprinosa koji si ne isplaćuje poduzetničku plaću ili si poduzetničku plaću isplaćuje u iznosu manjem od najniže osnovice propisane ovim člankom iznosi 6.132,50 kuna.
