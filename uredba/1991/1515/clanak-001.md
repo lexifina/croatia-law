@@ -1,0 +1,3 @@
+## o poljoprivredi i šumarstvu za vrijeme ratnog stanja ili u slučaju ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske
+# Članak 1.
+Propisi kojima se uređuje oblast poljoprivrede, prerade poljoprivrednih proizvoda, slatkovodnog ribarstva i prerade ribe, šumarstva, zaštite bilja od bolesti i štetočina, prerade drveta, lovstva i veterinarske djelatnosti koji vrijede na dan stupanja na snagu ove uredbe primjenjivat će se i za vrijeme ratnog stanja ili u slučaju ugroženosti neovisnosti ili jedinstvenosti Republike Hrvatske, ako ovom uredbom ili drugom uredbom sa zakonskom snagom nije drukčije odredeno.

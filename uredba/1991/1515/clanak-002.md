@@ -1,0 +1,2 @@
+# Članak 2.
+Vlada Republike Hrvatske može odrediti općinama odnosno gradu Zagrebu (u daljnjem tekstu: općina) i poduzećima na teritoriju Republike Hrvatske, proizvodne zadatke, zadatke pružanje usluga i druge mjere u oblasti i djelatnostima iz članka 1. ove uredbe. O neposredno određenim zadacima i drugim mjerama iz stavka 1. ovoga članka Vlade Republike Hrvatske obavještava izvršno vijeće skupštine općine.

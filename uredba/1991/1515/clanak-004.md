@@ -1,0 +1,2 @@
+# Članak 4.
+Držaoci sredstava za poljoprivrednu i šumarsku proizvodnju, sredstava za uzgoj i ulov ribe, sredstava za preradu poljoprivrednih proizvoda, duhana, ribe i drveta dužni su obavljati proizvodnju odnosno preradu i iskorištavati sredstva na način i u skladu s planovima ratne proizvodnje i proizvodnim zadacima određenim prema članku 3. i 4. ove uredbe. Ako se sredstvo za proizvodnju ili preradu navedeno u stavku 1. ovoga članka, ne koristi odnosno ne koristi prema svojoj namjeni, izvršno vijeće skupštine općine odredit će način njegovog korištenja.

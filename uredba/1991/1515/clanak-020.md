@@ -1,0 +1,2 @@
+# Članak 20.
+Ministar poljoprivrede i šumarstva može, neovisno od propisanih uvjeta i postupaka, razriješiti organ upravljanja i direktora odnosno drugi poslovodni organ poduzeća koja obavljaju djelatnosti u oblasti iz članka 1. ove uredbe i imenovati novi organ upravljanja odnosno drugi poslovodni organ, izuzev u poduzećima na kojima postoji vlasništvo. U poduzećima iz stavka 1. ovoga članka organ upravljanja donosi sve opće akte.

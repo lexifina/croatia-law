@@ -1,0 +1,2 @@
+# Članak 12.
+Pojavi li se opasnost od neke opasne zarazne bolesti koja se brzo širi (epizootija) i koja može ugroziti cijelu Republiku, a koja nije predviđena zakonom kao zarazna bolest, Ministarstvo poljoprivrede i šumarstva može odrediti da se za zaštitu od takve zarazne bolesti primjenjuju odredbe za sprečavanje, suzbijanje i iskorjenjivanje zaraznih bolesti životinja i druge odredbe predviđene važećim zakonima

@@ -1,0 +1,2 @@
+# Članak 7.
+Izvršno vijeće skupštine općine može odlućiti da se osim postojećih ratarskih površina, za ratarsku proizvodnju koriste i pašnjaci, livade, utrine, voćnjaci, maslinici, vinogradi, šumska zemljišta, neizgrađena građevinska zemljišta i druge površine, vodeći računa da se korištenjem ovih površina ne dovodi u pitanje zaštita od erozije i bujica, odnosno očuvanje nasada u voćnjacima, maslinicima i vinogradima.
