@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Zakonom uređuje postupak primopredaje vlasti, utvrđuju ograničenja ovlasti Vlade Republike Hrvatske (u daljnjem tekstu: Vlada) od dana raspisivanja parlamentarnih izbora do stupanja na dužnost Vlade nakon provedenih parlamentarnih izbora, status određenih državnih dužnosnika i drugih imenovanih osoba, te se propisuju obveze, rokovi i postupanja vezano uz postupak primopredaje vlasti.
