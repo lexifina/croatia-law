@@ -1,0 +1,2 @@
+# Članak 6.
+Ugovorne stranke pomagat će jedna drugoj u nastojanjima za širenjem znanja o kulturi zemlje u drugoj i to: razmjenom posjeta kulturnih djelatnika, pisaca i umjetnika; razmjenom knjiga, časopisa i drugih publikacija; predavanjima i koncertima; umjetničkim i drugim izložbama; dramskim predstavama; uzajamnim prevođenjem književnih djela te razmjenama filmova, gramofonskih pldća i drugih sredstava reprodukcije.

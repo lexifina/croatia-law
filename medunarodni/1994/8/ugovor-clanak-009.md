@@ -1,0 +1,3 @@
+# Članak 9.
+Ugovorne stranke poticat će i promicati suradnju između nacionalnih športskih asocijacija, športskih i drugih organizacija dviju država, posebice u dijelu športa djece i mladeži, natjecateljskog športa i športske rekreacije.
+Suradnja će se ostvarivati preko službenih posjeta športskih delegacija, razmjenom športskih stručnjaka i trenera, organiziranim pripremama i susretima športaša i športskih momčadi na športskim priredbama i susretima u dvjema državama, suradnjom u oblasti stručnog i znanstvenoistraživačkog rada i školovanja kadrova, problematike športskih objekata i poduzetništva u športu.
