@@ -1,0 +1,1 @@
+Na temelju članka 41. Zakona o obrtu (»Narodne novine«, broj 77/93, 90/96. i 64/01.) ministar za obrt, malo i srednje poduzetništvo, nakon prethodno pribavljena mišljenja Hrvatske obrtničke komore i uz suglasnost ministra prosvjete i športa, donosi
