@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se obrazac iskaznice koju nose inspektori zaštite okoliša u Državnoj upravi za zaštitu prirode i okoliša, inspektori zaštite okoliša u županijskom uredu i uredu Grada Zagreba nadležnim za poslove zaštite okoliša i obrazac iskaznice koju nose službenici Državne uprave za zaštitu prirode i okoliša koje za poslove inspekcije zaštite okoliša ovlasti ravnatelj Državne uprave za zaštitu prirode i okoliša, način izdavanja i zamjene iskaznice i vođenje evidencije o izdanim i vraćenim iskaznicama.
