@@ -1,0 +1,1 @@
+Na temelju odredbe članka 11. Zakona o sanaciji i restrukturiranju banaka ("Narodne novine", broj 44/94), članka 90. Zakona o bankama ("Narodne novine", broj 161/98), Vlada Republike Hrvatske je na sjednici održanoj 28. siječnja 1999. godine, donijela
