@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Kontingenti utvrđeni u članku 2. stavku 1. prilagođuju se daljnjem razvoju stanja na tržištu radne snage na sljedeći način:
+U slučaju poboljšanja stanja na tržištu radne snage, kontingenti utvrđeni prilikom stupanja na snagu ovog Sporazuma povećavaju se za po 5% za svaki puni postotak, za koji se u zadnjih dvanaest mjeseci smanjila stopa nezaposlenosti. U slučaju pogoršanja stanja na tržištu radne snage ti se kontingenti razmjerno smanjuju. U svrhu usklađivanja uspoređuju se stope nezaposlenosti 30. lipnja tekuće godine i prethodne godine. Izmjene će vrijediti od 1. listopada tekuće godine. Nove se brojke zaokružuju tako da su djeljive s brojem deset bez ostatka.
+(2) Savezno ministarstvo za rad i socijalni poredak Savezne Republike Njemačke dostavit će Ministarstvu rada i socijalne skrbi Republike Hrvatske kontingente utvrđene sukladno stavku 1. najkasnije do 31. kolovoza tekuće godine.

@@ -1,0 +1,2 @@
+# Članak 7.
+Izaslanom radniku koji se ponovno treba zaposliti po ugovoru o izvođenju radova, može se izdati radna dozvola, ukoliko razdoblje od izlaska iz zemlje i ponovnog ulaska u zemlju nije kraće od ukupnog roka valjanosti ranije dozvole boravka. Radoblje navedeno u rečenici 1. iznosi najviše dvije godine; ono iznosi tri mjeseca, ukoliko izaslani radnik u Saveznoj Republici Njemačkoj nije bio zaposlen duže od devet mjeseci.

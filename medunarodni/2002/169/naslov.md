@@ -1,0 +1,1 @@
+Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o zapošljavanju radnika trgovačkih društava sa sjedištem u Republici Hrvatskoj radi izvršavanja ugovora o izvođenju radova

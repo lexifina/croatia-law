@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Hrvatskim radnicima, koji se na osnovi ugovora o izvođenju radova između nekog trgovačkog društva sa sjedištem u Republici Hrvatskoj i nekog trgovačkog društva sa sjedištem u Saveznoj Republici Njemačkoj upućuju na privremeni rad (izaslani radnici), izdaje se radna dozvola, neovisno o stanju i razvoju na tržištu radne snage u Saveznoj Republici Njemačkoj. Odredbe članka 3. stavka 3. i članka 4. stavka 1. ovog Sporazuma pri tom ostaju nepromijenjene.
+(2) Ovaj Sporazum ne primjenjuje se na izaslane radnike koji se temeljem nekog ugovora o izvođenju radova upućuju u Saveznu Republiku Njemačku radi izvođenja pripremnih radova za njemačko-hrvatske zajedničke poslove u trećim zemljama, kao niti za izaslane radnike na izgradnji vatrostalnih objekata i dimnjaka.
