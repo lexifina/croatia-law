@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1. Zakona o sanaciji i restrukturiranju banaka ("Narodne novine", broj 44/94), na prijedlog Narodne banke Hrvatske od 24. srpnja 1995. godine, Vlada Republike Hrvatske je na sjednici održanoj 19. listopada 1995. godine donijela
