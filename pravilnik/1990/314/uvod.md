@@ -1,0 +1,1 @@
+Na temelju člana 73. stava 2. Zakona o invalidskom dodatku i drugim pravima vojnih invalida ("Narodne novine", br. 57/85, 55/86 i 57/89) Republički komitet za boračka i invalidska pitanja, na sjednici održanoj 15. ožujka 1990. godine, donio je
