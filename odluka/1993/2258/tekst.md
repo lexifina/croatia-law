@@ -1,0 +1,5 @@
+o graničnoj svoti najnižega mirovinskog primanja od 1. prosinca 1993.
+1. U skladu s Uredbom o utvrdivanju najviših iznosa mase sredstava za isplatu mirovina ("Narodne novine", broj 93/93) kao granična svota najnižega mirovinskog primanja, radi određivanja zaštitnog dodatka uz mirovinu, određuje se od 1. prosinca 1993. svota od 392.266.- HRD.
+2. Kao granična svota najnižega mirovinskog primanja, radi određivanja zaštitnog dodatka uz mirovinu, ostvarenu prema Zakonu o posebnim uvjetima za stjecanje mirovine radnika zaposlenih u rudnicima ugljena ("Narodne novine", broj 41/68 i 20/70) i Zakona o posebnim uvjetima za stjecanje mirovine radnika zaposlenih u rudnicima ugljena na području Republike Hrvatske ("Narodne novine", broj 40/73), određuje se od 1. prosinca 1993. svota od 515.495.- HRD.
+3. Prema graničnoj svoti najnižega mirovinskog primanja iz toč. 1. i 2. ove odluke, odredit će se nova svota zaštitnog dodatka svim korisnicima mirovine koji imaju pravo na taj dodatak, po službenoj dužnosti, bez donošenja rješenja.
+4. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. prosinca 1993.
