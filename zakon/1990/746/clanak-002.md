@@ -1,0 +1,2 @@
+# Članak 2.
+Članovi 13. i 14. mijenjaju se i glase: Članak 13. Sredstva za financiranje Ustavom i zakonom utvrđenih potreba i interesa društva u oblasti znanosti osiguravaju se u budžetu Republike Hrvatske. Članak 14. Sredstva iz članka 13. ovoga zakona raspoređuje ministar znanosti, tehnologije i informatike na način i prema kriterijima propisanim podzakonskim aktom. Za cjelovit uvid, nadzor i odlučivanje o sredstvima ministar znanosti, tehnologije i informatike osniva savjetodavna i radna tijela i nadzomu službu.

@@ -1,0 +1,2 @@
+# Članak 10.
+U članku 57. u stavku 1. brišu se riječi "Socijalističke", "Socijalističkoj" i "i Samoupravne interesne zajednice znanosti". U stavku 3 brišu se riječi "Socijalističke" i "Socijalističkoj" U stavku 4. briše se riječ "Socijalističke". Stavak 5. mijenja se i glasi: "Sredstva za rad matičnih komisija osiguravaju se iz sredstava za financiranje znanosti i sredstava za financiranje usmjerenog obrazovanja".
