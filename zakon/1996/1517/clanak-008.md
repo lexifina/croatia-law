@@ -1,0 +1,6 @@
+# Članak 8.
+Obračun izvršenih plaćanja prema Uredbi o podmirivanju dospjelih neizmirenih obveza prema inozemnim vjerovnicima ("Narodne novine", br. 25/96.) u razdoblju od 1. siječnja 1995. do dana zamjene priprema Narodna banka Hrvatske sa svakim hrvatskim dužnikom prema ovom Zakonu; pri obračunu uzima u obzir mjerila za utvrđivanje obveza iz stavka 2. prethodnog članka.
+Za iznos obračunatih izvršenih plaćanja hrvatskim se dužnicima smanjuje njihova obveza prema Republici Hrvatskoj koju utvrđuje Ministarstvo financija.
+Obveze hrvatskih dužnika po ovom Zakonu prema Republici Hrvatskoj na dan zamjene preračunavaju se u američke dolare na isti način kao što je utvrđeno u Informativnom memorandumu za dug koji Republika Hrvatska zamjenjuje.
+Hrvatski dužnici po ovom Zakonu otplaćuju svoju obvezu prema Republici Hrvatskoj po dinamici, koja je jednaka dinamici u Informativnom memorandumu s time da su dužni svaki put osigurati pokriće u rokovima i na način kojeg rješenjem utvrđuje Ministarstvo financija, a izvršava je Privredna banka Zagreb d. d. koja je platni agent Republike Hrvatske.
+Obveze hrvatskih dužnika po ovom Zakonu, prema Republici Hrvatskoj utvrđuju se po uvjetima koji su jednaki uvjetima iz Informativnog memoranduma.

@@ -1,0 +1,3 @@
+# Članak 1.
+Ovim Zakonom utvrđuje se preuzimanje dijela duga od strane Republike Hrvatske i izdavanje obveznica radi zamjene toga duga koji za Republiku Hrvatsku proizlazi iz Novog financijskog Sporazuma o trgovinskoj i depozitnoj olakšici iz 1988. godine sukladno odredbama i uvjetima Informativnog memoranduma, te Obavijesti o ponudi Republike Hrvatske sudjelujućim bankama vjerovnicima i koji se objavljuju kao dodatak ovoga Zakona u služenom prijevodu na hrvatski jezik.
+Ovim Zakonom uređuju se i unutarnji odnosi između Republike Hrvatske kao preuzimatelja duga i hrvatskih dužnika, odnosno krajnjih korisnika po ovom Zakonu.
