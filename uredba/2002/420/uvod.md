@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99) i članka 35. stavka 1. Zakona o suzbijanju zlouporabe opojnih droga (»Narodne novine«, broj 107/2001), Vlada Republike Hrvatske je na sjednici održanoj 21. veljače 2002. godine donijela
