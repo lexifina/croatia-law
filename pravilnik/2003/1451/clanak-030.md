@@ -1,0 +1,3 @@
+# Članak 30.
+Svi energetski subjekti u svezi s proizvodnjom, prijenosom, distribucijom, opskrbom, zastupanjem, posredovanjem i trgovanjem električnom energijom mogu dostaviti svoje mišljenje i komentar te podatke i informacije vezano za prijedlog naknade za prijenos električne energije koji dostavlja energetski subjekt za prijenos električne energije, a u dijelu svojih nadležnosti i operator sustava, odnosno prijedlog naknade za distribuciju električne energije koji dostavlja energetski subjekt za distribuciju električne energije.
+Energetski subjekti iz stavka 1. ovog članka nemaju pravo mijenjati niti obrađivati prijedloge naknada dostavljenih Vijeću za regulaciju.

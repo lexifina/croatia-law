@@ -1,0 +1,3 @@
+# Članak 13.
+Usluge sustava regulacije frekvencije i snage, odnosno regulacije napona i jalove snage, koje osigurava operator sustava i/ili energetski subjekt za distribuciju električne energije (operator distribucijske mreže) za potrebe stabilnog djelovanja elektroenergetskog sustava, mogu se kupiti od energetskog subjekta koji ima dozvolu za obavljanje energetske djelatnosti. Vrsta, količina i vrijeme osiguravanja usluga sustava određuju se odgovarajućim ugovorom, koji se dostavlja na uvid Vijeću za regulaciju.
+Iznos naknade za pokriće troškova usluga sustava osiguravanja regulacije frekvencije i snage, odnosno regulacije napona i jalove snage iskazuje se u cjeniku iz članka 10. stavak 3.

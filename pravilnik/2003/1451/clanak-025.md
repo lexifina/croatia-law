@@ -1,0 +1,2 @@
+# Članak 25.
+Planovi razvoja i izgradnje prijenosne i distribucijske mreže trebali bi se izraditi na način da prekogranični promet električne energije podržava sustav prijenosa dok usluge korisnicima u Republici Hrvatskoj podržava sustav distribucije. Distribucijska mreža ne bi se trebala koristiti za uvoz ili izvoz energije, osim u slučajevima kad sustav prijenosa ne može zadovoljiti potrebe za uvozom ili izvozom energije. U tim slučajevima, energetski subjekt za distribuciju može biti suvlasnik mjernih uređaja ili drugih objekata koji se nalaze na hrvatskoj granici.

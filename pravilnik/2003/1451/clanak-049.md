@@ -1,0 +1,3 @@
+# Članak 49.
+Operator sustava i energetski subjekt za prijenos električne energije dužni su procijeniti tehničke gubitke u prijenosnoj mreži u MWh za sljedeću obračunsku godinu.
+Operator sustava i energetski subjekt za prijenos električne energije dužni su na temelju podataka i analiza procijeniti prosječnu cijenu električne energije za pokrivanje gubitaka električne energije u prijenosnoj mreži (u kuna/MWh). Za procjenu prosječne cijene (u EUR/MWh) mogu se koristiti podaci o prosječnoj cijeni dobave električne energije u zadnjih 12 mjeseci. Navesti devizni tečaj korišten za konvertiranje cijena iz eura u kune.

@@ -1,0 +1,3 @@
+# Članak 39.
+Za svaku kategoriju imovine definirane u članku 38. potrebno je dostaviti podatke o nabavnoj vrijednosti i vrijednosti akumulirane amortizacije imovine energetskog subjekta za prijenos električne energije na kraju prethodnog obračunskog razdoblja.
+Kao kraj prethodnog obračunskog razdoblja smatra se 31. 12. u godini koja prethodi tekućoj godini, odnosno godini u kojoj se podnosi prijedlog naknade za sljedeće obračunsko razdoblje. Npr. za utvrđivanje naknada za 2004. godinu kao kraj prethodnog obračunskog razdoblja smatra se 31. 12. 2002. godine, dok je tekuće obračunsko razdoblje, odnosno godina u kojoj se podnosi prijedlog naknade za sljedeće obračunsko razdoblje 2003. godina.

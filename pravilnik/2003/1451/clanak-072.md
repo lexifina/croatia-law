@@ -1,0 +1,3 @@
+# Članak 72.
+Operator sustava, odnosno energetski subjekt za distribuciju električne energije, dužan je Vijeću za regulaciju dostaviti prijedloge naknada za pokriće troškova osiguranja usluga sustava koje će vrijediti u 2003. godini najkasnije 30 dana od datuma stupanja na snagu ovog Pravilnika. Naknade za 2003. godinu prestaju vrijediti 31. prosinca 2003. godine.
+Prijedloge naknada za pokriće troškova osiguranja usluga sustava za svaku sljedeću godinu operator sustava, odnosno energetski subjekt za distribuciju električne energije, dostavljat će Vijeću za regulaciju jednom godišnje, najkasnije do 1. listopada u godini koja prethodi godini za koju se utvrđuju naknade.

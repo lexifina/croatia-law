@@ -1,0 +1,2 @@
+# Članak 22.
+Inter-TSO/SO kompenzacijski mehanizmi i aranžmani koje uspostavlja Europska udruga operatera prijenosnih mreža mogu se odnositi na korištenje i vrednovanje određenog dijela imovine energetskog subjekta za prijenos električne energije u Republici Hrvatskoj, koji u njima može sudjelovati. Energetski subjekt za prijenos električne energije treba izvijestiti Vijeće za regulaciju o svim takvim mehanizmima i aranžmanima.

@@ -1,0 +1,3 @@
+# Članak 2.
+Svrha je ovog Pravilnika utvrditi podatke i izračune koje su operator sustava, energetski subjekt za prijenos električne energije i energetski subjekt za distribuciju električne energije obvezni dostaviti Vijeću za regulaciju prilikom podnošenja prijedloga za utvrđivanje naknade za korištenje prijenosne odnosno distribucijske mreže te naknada za pokriće troškova osiguranja usluga sustava.
+Također, svrha je Pravilnika operatoru sustava, energetskom subjektu za prijenos električne energije i energetskom subjektu za distribuciju električne energije propisati način (metodologiju) utvrđivanja te strukturu naknada za korištenje prijenosne i distribucijske mreže te naknada za pokriće troškova osiguranja usluga sustava.

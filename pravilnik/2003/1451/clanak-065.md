@@ -1,0 +1,3 @@
+# Članak 65.
+Energetski subjekt za distribuciju električne energije dužan je procijeniti tehničke gubitke u distribucijskoj mreži u MWh za sljedeću obračunsku godinu.
+Energetski subjekt za distribuciju električne energije dužan je na temelju podataka i analiza procijeniti prosječnu cijenu električne energije za pokrivanje gubitaka električne energije u distribucijskoj mreži (u kuna/MWh). Za procjenu prosječne cijene (u EUR/MWh) mogu se koristiti podaci o prosječnoj cijeni dobave električne energije u zadnjih 12 mjeseci uvećani za dio naknade za korištenje prijenosne mreže. Navesti devizni tečaj korišten za konvertiranje cijena iz eura u kune.

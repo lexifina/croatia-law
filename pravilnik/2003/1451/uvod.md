@@ -1,0 +1,1 @@
+Na temelju članka 1. stavak 1. Zakona o regulaciji energetskih djelatnosti (»Narodne novine« br. 68/01, 109/01) i članka 25. stavak 2. Statuta Vijeća za regulaciju energetskih djelatnosti (»Narodne novine« br. 62/02) Vijeće za regulaciju energetskih djelatnosti (u daljnjem tekstu: Vijeće za regulaciju) na 16. sjednici održanoj 26. lipnja 2003. donijelo je
