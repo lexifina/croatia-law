@@ -1,0 +1,4 @@
+# Članak 6.
+Prilikom donošenja odluke o raspisivanju natječaja za dodjelu sredstava Fonda utvrđuju se ciljane skupine projekata, programa i sličnih aktivnosti te korisnika sredstava u okviru prioriteta utvrđenih sukladno članku 5. ovoga Pravilnika.
+Ciljane skupine projekata, programa i sličnih aktivnosti te korisnika sredstava u okviru prioriteta utvrđuju se posebno za zaštitu okoliša a posebno za energetsku učinkovitost i korištenje obnovljivih izvora energije imajući u vidu područja ulaganja, te vrste projekata, programa i sličnih aktivnosti u koja se ulažu sredstva Fonda.
+Natječajem za dodjelu sredstava Fonda pobliže se utvrđuju projekti, programi i slične aktivnosti za koje se dodjeljuju sredstva, mogući korisnici tih sredstava, te kriteriji i mjerila po kojim će se ta sredstva dodjeljivati.
