@@ -1,0 +1,5 @@
+# Članak 9.
+Željeznička pruga mora se projektirati, graditi i održavati tako da udovoljava utvrđenoj prijevoznoj i propusnoj moći pruge, brzini vlakova, osovinskom opterećenju i opterećenju po dužinskom metru, zahtjevima sigurnosti željezničkog prometa i drugim uvjetima što su propisani za određenu željezničku prugu, a željeznička pruga namijenjena međunarodnom tranzitnom prometu mora udovoljavati i posebnim tehničkim uvjetima utvrđenim međunarodnim ugovorima i medunarodnim željezničkim propisima.
+Pri projektiranju, građenju i održavanju željezničke pruge moraju se, glede zahtjeva sigurnosti željezničkog prometa, primijeniti uvjeti utvrđeni ovim Zakonom, tehnički uvjeti za sigurnost željezničkog prometa, hrvatske i strukovne norme, posebni tehnički uvjeti i drugi propisani uvjeti.
+Tehnički uvjeti za sigurnost željezničkog prometa kojima moraju udovoljavati željezničke pruge utvrđuju se propisom što ga donosi ministar pomorstva, prometa i veza.
+Posebni tehnički uvjeti kojima moraju udovoljavati željezničke pruge utvrđuju se opčim aktom što ga donosi javno poduzeće.

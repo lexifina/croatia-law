@@ -1,0 +1,4 @@
+# Članak 56.
+Na cestovnom i pješačkom prijelazu i križanju industrijskog kolosijeka s prugom gradske željeznice, sigurnost prometa mora se osigurati na propisani način i moraju se poduzeti i druge propisane mjere.
+Cestovni i pješački prijelaz i križanje industrijskog kolosijeka s prugom gradske željeznice, mora se održavati u stanju za siguran tijek prometa.
+Način osiguravanja sigurnosti prometa na cestovnim i pješačkim prijelazima i križanjima industrijskog kolosijeka s prugom gradske željeznice, uvjeti kojima moraju udovoljavati mimoilazne zaštitne ograde, propisana preglednost na željezničku prugu odnosno industrijski kolosijek i druge mjere koje se moraju poduzeti za siguran tijek prometa, ovisno o značaju i vrsti željezničke pruge i ceste, gustini prometa, brzini vožnje i drugim uvjetima značajnim za sigurnost prometa utvrđuje se propisom što ga donosi ministar pomorstva, prometa i veza.

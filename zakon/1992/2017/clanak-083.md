@@ -1,0 +1,3 @@
+# Članak 83.
+Radi obavljanja inspekcijskog nadzora, inspektor je ovlašten pregledati željezničke pruge, željeznička vozila, obavljanje željezničkog prometa i izvođenje radova na željezničkim prugama, željezničkim vozilima i u zaštitnom pružnom pojasu, te pregledati tehničku i drugu dokumentaciju koja se odnosi na željezničke pruge, željeznička vozila, sposobnost izvršnih djelatnika, izvođenje radova na željezničkim prugama i željezničkim vozilima i obavljanje željezničkog prometa.
+Javno poduzeće, industrijska željeznica i druge pravne osobe, dužni su inspektoru ornogućiti i osigurati nesmetano obavljanje inspekcijskog nadzora.

@@ -1,0 +1,2 @@
+# Članak 70.
+Javno poduzeće dužno je na mjestima odrona, bujica i na mjestima izloženim vijavicama i jakim vjetrovima, na kojima može doći do ometanja ili ugrožavanja željezničkog prometa, samostalno ili zajedno s drugom pravnom osobom, pravovremeno poduzimati potrebne mjere tehničke i fizičke zaštite željezničke pruge i objekata na pruzi od elementarnih nepogoda radi osiguravanja sigurnog tijeka željezničkog prometa.
