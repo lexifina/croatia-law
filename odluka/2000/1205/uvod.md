@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu (»Narodne novine«, broj 33/2000), Vlada Republike Hrvatske je na sjednici održanoj 25. svibnja 2000, godine, donijela

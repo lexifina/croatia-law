@@ -1,0 +1,9 @@
+I.
+Sredstva koja su sukladno članku 63. stavku 2. Zakona o javnim cestama (»Narodne novine«, br. 100/96 i 76/98) osigurana u Državnom proračunu Republike Hrvatske za 2000. godinu (»Narodne novine«, broj 33/2000), u Posebnom dijelu proračuna, u razdjelu: 065, u glavi: 05 na poziciji broj 112826 »Održavanje županijskih i lokalnih cesta« u iznosu od 100.000.000,00 kuna, raspoređuju se županijskim upravama za ceste kako slijedi:
+ŽUPANIJSKA UPRAVA | ZA ODRŽAVANJE ZA CESTE ŽUPANIJE | ŽUPANIJSKIH I LOKALNIH |  |  | CESTA Zagrebačke |  | 6.223.000,00 Krapinsko-zagorske | 3.759.000,00 Sisačko-moslavačke | 11.751.000,00 Karlovačke |  | 8.492.000,00 Varaždinske |  | 2.772.000,00 Koprivničko-križevačke | 5.195.000,00 Bjelovarsko-bilogorske | 7.064.000,00 Primorsko-goranske | 2.807.000,00 Ličko-se-njske |  | 12.345.000,00 Virovitičko-podravske | 5.589.000,00 Požeško-slavonske | 3.706.000,00 Brodsko-posavske | 2.669.000,00 Zadarske |  | 4.317.000,00 Osječko-bara-njske | 4.751.000,00 Šibensko-kninske | 5.470.000,00 Vukovarsko-srijemske | 3.806.000,00 Splitsko-dalmatinske | 2.543.000,00 Istarske |  | 3.312.000,00 Dubrovačko-neretvanske | 1.661.000,00 Međimurske |  | 1.768.000,00 SVE UKUPNO |  | 100.000.000,00
+II.
+Županijske uprave za ceste dužne su Ministarstvu pomorstva, prometa i veza, do 30. lipnja 2000. godine dostaviti izvješće o utrošku sredstava po privremenom financiranju, mjesečna izvješća o utrošku sredstava iz točke I. ove Odluke dužne su dostavljati do 15. u mjesecu za protekli mjesec, a godišnje izvješće o utrošku sredstava iz točke I. ove Odluke dužne su dostaviti do 15. siječnja 2001. godine.
+III.
+Nadzor nad namjenskom uporabom sredstava raspoređenih prema ovoj Odluci provode Ministarstvo pomorstva, prometa i veza i Ministarstvo financija.
+IV.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama.«
