@@ -1,0 +1,3 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Državni proračun, proračuni jedinica lokalne samouprave i uprave, izvanproračunski fondovi, tijela državne uprave i državne vlasti, tijela jedinica lokalne samouprave i uprave, kao i druge pravne osobe kojima se sredstva za plaće ili izdaci osiguravaju u državnom proračunu i proračunima jedinica lokalne samouprave i uprave (u daljnjem tekstu: proračun i proračunski korisnici), iskazuju podatke na računima na kojima se tijekom tekuće godine pojave računovodstvene promjene odnosno transakcije a prema sadržaju računa propisanih Pravilnikom o računskom planu proračuna koji se odnosi na Glavnu knjigu I (Knjiga prihoda, primitaka i izdataka).
