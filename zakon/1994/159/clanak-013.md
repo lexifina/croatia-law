@@ -1,0 +1,2 @@
+# Članak 13.
+U prijedlogu za odobrenje obavljanja pripremnih radnji mora se naznačiti svrha radi koje se namjerava predložiti izvlaštenje, nekretnina na kojoj vlasnik izvlaštenja namjerava obavljati pripremne radnje, vlasnik te nekretnine, priroda, opseg i svrha radnji, kao i vrijeme njihova trajanja. O prijedlogu za odobrenje obavljanja pripremnih radnji rješava županijski ured, odnosno ured Grada Zagreba, nadležan za imovinsko-pravne poslove (u daljnjem tekstu: nadležno tijelo).

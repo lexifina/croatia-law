@@ -1,0 +1,2 @@
+# Članak 40.
+Ako je riječ o nekretnini izvlaštenjem koje bi se znatan broj stanovnika morao iseliti iz područja u kojem se izvlaštene nekretnine nalaze, posebnim će se zakonom urediti posebni oblici i uvjeti naknade, kao i uređenje svih odnosa vezanih uz preseljenje prijašnjih vlasnika i njihovih obitelji. Korisniku izvlaštenja ne može se izvlaštena nekretnina predati u posjed dok prema prijašnjim vlasnicima ne ispuni obveze određene na temelju posebnog zakona iz stavka 1. ovoga članka.

@@ -1,0 +1,4 @@
+## GLAVA I.
+## OSNOVNE ODREDBE
+# Članak 1.
+Nekretnina se može izvlastiti, ako posebnim zakonom nije drukčije određeno, kada je to potrebno radi izgradnje objekata ili izvođenja radova u interesu Republike Hrvatske i kada se ocijeni da će se korištenjem nekretnine, za koju se namjerava predložiti izvlaštenje, u novoj namjeni postići veća korist od one koja se postizala korištenjem te nekretnine na dosadašnji način. Nekretnina se u smislu stavka 1. ovoga članka može izvlastiti radi izvođenja radova ili izgradnje objekata gospodarske infrastrukture (prometna, telekomunikacijska, vodoprivredna, energetska), zdravstvenih, prosvjetnih i kulturnih objekata, industrijskih, energetskih, prometnih i telekomunikacijskih objekata, objekata za potrebe hrvatskog pravosuđa, vojske i policije te istraživanja i eksploatacije rudnog i drugog blaga.

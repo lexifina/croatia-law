@@ -1,0 +1,2 @@
+# Članak 42.
+Uknjižba prava vlasništva i drugih stvarnih prava na izvlaštenoj nekretnini, kao i na nekretnini koja je data na ime naknade prijašnjem vlasniku, izvršit će se na temelju pravomoćnog rješenja o izvlaštenju i dokaza o isplaćenoj naknadi ukoliko je tim rješenjem određena naknada u novcu odnosno dokaza o stjecanju prava vlasništva prijašnjeg vlasnika na drugoj odgovarajućoj nekretnini, a na zahtjev korisnika izvlaštenja ili prijašnjeg vlasnika izvlaštene nekretnine.

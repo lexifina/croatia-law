@@ -1,0 +1,2 @@
+# Članak 29.
+Ako je korisnik izvlaštenja stupio u posjed izvlaštene nekretnine prije pravomoćnosti rješenja o izvlaštenju, a prijedlog za izvlaštenje bude u daljnjem postupku odbijen, korisnik izvlaštenja dužan je nadoknaditi štetu koju je vlasniku nanio stupanjem u posjed nekretnine. Rješenje o odbijanju prijedloga za izvlaštenje sadrži i obvezu korisnika izvlaštenja za vraćanje nekretnine u posjed vlasniku u roku 15 dana od dana pravomoćnosti rješenja.

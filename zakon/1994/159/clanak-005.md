@@ -1,0 +1,2 @@
+# Članak 5.
+Susjedno zemljište koje je potrebito za smještaj radnika, materijala, strojeva i drugog radi izgradnje objekata ili izvođenja radova od interesa za Republiku može se privremeno uzeti u posjed. Privremeno uzimanje u posjed ukinut će se čim prestane potreba zbog koje je određeno, odnosno do završetka radova na glavnom objektu. Odredbe ovoga Zakona koje se odnose na izvlaštenje nekretnina primjenjuju se i na privremeno uzimanje u posjed zemljišta, ako pojedinim odredbama ovoga Zakona nije drugačije određeno.

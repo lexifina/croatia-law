@@ -1,0 +1,2 @@
+# Članak 36.
+Prijašnji vlasnik izvlaštenog zemljišta ima pravo sabrati usjeve i skupiti plodove koji su sazreli u vrijeme stupanja u posjed korisnika izvlaštenog zemljišta. Ako stupanjem u posjed korisnika izvlaštenja prijašnji vlasnik neće biti u mogućnosti sabrati usjeve i skupiti plodove, pripada mu pravo na naknadu za usjeve po odbitku potrebitih troškova koje bi imao do žetve ili berbe. O naknadi iz stavka 2. ovoga članka odlučit će nadležno tijelo, ukoliko o tome već nije odlučio u rješenju o izvlaštenju nekretnine.

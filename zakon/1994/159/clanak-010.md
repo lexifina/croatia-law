@@ -1,0 +1,2 @@
+# Članak 10.
+Prije podnošenja prijedloga za utvrđivanje interesa Republike Hrvatske korisnik izvlaštenja dužan je u skladu s prostornim planom izraditi plan izvlaštenja. Ukoliko za područje na kojem se namjerava predložiti izvlaštenje postoji provedbeni urbanistički plan, plan izvlaštenja nije potrebno izraditi. Korisnik izvlaštenja dužan je uz prijedlog za utvrđivanje interesa Republike Hrvatske priložiti plan izvlaštenja i uvjete uređenja prostora.

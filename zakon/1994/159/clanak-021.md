@@ -1,0 +1,2 @@
+# Članak 21.
+Na osnovi prijedloga za izvlaštenje izvršit će se po službenoj dužnosti zabilježba postupka izvlaštenja u zemljišnim ili drugim javnim knjigama o čemu će nadležno tijelo pismeno izvijestiti vlasnika nekretnine. Otuđenje nekretnine glede koje je stavljena zabilježba postupka izvlaštenja, kao i promjena drugih odnosa na nekretnini koja može biti od utjecaja na obveze korisnika izvlaštenja, nema pravnog učinka prema korisniku izvlaštenja.

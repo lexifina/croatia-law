@@ -1,0 +1,2 @@
+# Članak 33.
+Ako vlasnik nekretnine koja se izvlašćuje, ne prihvati na ime naknade drugu odgovarajuću nekretninu ili ako korisnik izvlaštenja ne može osigurati takvu nekretninu, naknada se određuje u novcu u visini tržišne vrijednosti nekretnine koja se izvlašćuje u vrijeme donošenja prvostupanjskog rješenja o izvlaštenju, odnosno u vrijeme sklapanja nagodbe. Tržišna vrajednost je vrijednost izražena u cijeni koja se za određenu nekretninu može postići na tržištu i koja ovisi o odnosu ponude i potražnje u vrijeme njezinog utvrđivanja.
