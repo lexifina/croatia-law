@@ -1,0 +1,11 @@
+# Članak 2.
+Stavak 5. članka 4. ukida se i zamjenjuje tekstom.
+"a) Osim u slučaju ako je krcatelj naznačio vrstu i vrijednost robe prije njenog ukrcaja, pa je ta izjava unesena u teretnicu, vozar ni brod neće ni u kojem slučaju biti odgovorni za gubitak ili oštećenje robe ili u vezi s tom robom za iznos veći od 10.000 franaka po koletu ili jedinici tereta ili 30 franaka po kilogramu bruto-težine (mase) izgubljene ili oštećene robe, s tim da se primjenjuje granični iznos koji je viši.
+b) Ukupan iznos koji se duguje izračunat će se prema vrljednosti robe u mjestu i u vrijeme kad je roba iskrcana suglasno ugovoru ili u mjestu i u vrijeme kada je trebalo da bude iskrcana.
+Vrljednost robe odreduje se prema burzovnoj cijeni, a ako takve nema, prema tekućoj tržnoj cijeni; ako nema ni jedne ni druge, prema uobičajenoj vrijednosti robe iste vrste i kvalitete.
+c) Kada se upotrijebi kontejner, paleta ili koje drugo slično sredstvo za grupiranje robe, svako koleto ili jedinica za koje je u teretnici nazna,čeno da su uključeni u to sredstvo za prijevoz smatrat će se kao jedno koleto ili jedna jedinica. u smislu ovoga stavka. Osim u navedenom slučaju, to će se sredstvo za prijevoz smatrati kao jedno koleto ili jedna jedinica.
+d) Kao franak uzima se jedinica koja se sastoji od 65,5 miligrama zlata finoće 900/1000. Dan zamjene dosudenog iznosa u nacionalnu valutu određuje se po zakonu suda pred kojim se vodi spor.
+e) Ni vozar ni brod ne mogu se koristiti povlasticom ograničenja odgovornosti iz ovog stavka ako se dokaže da je šteta uzrokovana djelom ili propustom vozara počinjenim bilo u namjeri da se izazove šteta, bilo bezobzirno i sa sviješću (znanjem) da bi iz toga vjerojatno mogla proizaći šteta.
+f) Izjava spomenuta u točki a) ovoga članka, unesena u teretnicu, stvara pretpostavku dok se ne dokaže protivno, ali ona ne obvezuje vozara koji ju može pobijati.
+g) Sporazumom između vozara, zapovjednika broda ili agenta vozara i krca,telja mogu se odrediti i drugi najviši iznosi, različiti od iznosa određenih u točki a) ovoga članka, pod uvjetom da taj ugovoreni najviši iznos ne bude manji od odgovarajućeg najvišeg iznosa iz te točke.
+h) Ni vozar ni brod neće ni u kojem slučaju odgovarati za gubitak ili oštećenje počinjeno robi ili koje se na nju odnosi, ako je krcatelj u teretnici svjesno dao lažnu izjavu o vrsti i vrijednosti robe."

@@ -1,0 +1,2 @@
+# Članak 8.
+Svaki spor između ugovornih stranaka u vezi s tumačenjem ili primjenom Kovencije, koji se ne može riješiti pregovorima, podvrgava se arbitraži na zahtjev jedne od njih. Ako se u roku od šest mjeseci, od dana kada je postavljen zahtjev za arbitražno rješavanje, stranke nisu mogle složiti o organizaciji arbitraie, svaka od njih može spor podvrći Međunarodnom sudu ako podnese zahtjev suglasno Statutu Suda.

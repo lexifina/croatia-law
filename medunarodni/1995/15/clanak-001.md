@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Protokol o izmjeni Međunarodne konvencije za izjednačavanje nekih pravila o teretnici, 25. kolovoza 1924., potpisan u Bruxellesu 23. veljače 1968. u izvorniku na engleskom i francuskom jeziku i Protokol o izmjenama Međunarodne konvencije za izjednačavanje nekih pravila o teretnici, 25. kolovoza 1924., kako je izmijenjena Protokolom od 23. veljače 1968., potpisan u Bruxellesu 21. prosinca 1979. u izvorniku na engleskom i francuskom jeziku.
