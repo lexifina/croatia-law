@@ -1,0 +1,1 @@
+Na temelju člana 63. Zakona o prijevozu u cestovnom prometu ("Narodne novine", broj 44/89 i 47/89) i člana 57. stavka 1. Zakona o javnim cestama ("Narodne novine",broj 42/90) ministar za promet i veze donosi
