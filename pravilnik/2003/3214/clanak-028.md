@@ -1,0 +1,4 @@
+## 6. RAD STRANACA
+# Članak 28.
+Obrazac zahtjeva za izdavanje radne dozvole za stranca (u daljnjem tekstu: Obrazac 9a), bijele je boje, veličine 21 ´ 29,7 cm.
+Obrazac 9a sadrži prostor za upis sljedećih podataka: naziv, sjedište i adresa poslodavca, registarski broj u Hrvatskom zavodu za zdravstveno osiguranje, šifru djelatnosti, razdoblje za koje se zahtijeva radna dozvola, naziv radnog mjesta, godišnja kvota, sezonsko zapošljavanje, dnevna migracija, podatke o strancu - prezime, ime, ime jednog od roditelja, datum rođenja, spol, mjesto i država rođenja, državljanstvo, adresa boravka u Republici Hrvatskoj, šifra i naziv zanimanja, stručna sprema, podatak o radnom odnosu te prostor za upis podataka o vrsti isprave, broju, datumu izdavanja, roku važenja, nadležnom tijelu koje je ispravu izdalo, mjestu i državi izdavanja, mjestu i datumu podnošenja zahtjeva, potpis podnositelja zahtjeva i pečat.

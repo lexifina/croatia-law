@@ -1,0 +1,6 @@
+## 2. PRIVREMENI BORAVAK, POSLOVNA DOZVOLA I STALNI BORAVAK
+# Članak 4.
+Obrazac zahtjeva za izdavanje odobrenja za privremeni boravak, poslovnu dozvolu i stalni boravak (u daljnjem tekstu: Obrazac 1a) bijele je boje, pravokutnog oblika, veličine 21 ´ 29,7 cm.
+Obrazac 1a sadrži prostor za upis sljedećih podataka: oznaka vrste boravka, prezime, bivše odnosno rođeno prezime, ime, spol, ime oca i majke, datum, mjesto i država rođenja, državljanstvo, bračno stanje, adresa u Republici Hrvatskoj, adresa u inozemstvu, svrha boravka, podatak o statusu osobe na temelju kojeg se traži odobrenje boravka, podatak o putnoj ispravi, rok važenja odobrenog boravka, rok važenja osobne iskaznice za stranca, podatke o ulasku u Republiku Hrvatsku, podatak o sredstvima za uzdržavanje, zdravstvenom osiguranju, zakonskoj obvezi uzdržavanja druge osobe, osiguranom stanovanju, stupnju naobrazbe, predviđeno trajanje boravka, razlozi podnošenja zahtjeva, napomena, mjesto i datum podnošenja zahtjeva i potpis podnositelja zahtjeva, prostor za fotografiju i potpis službene osobe.
+Obrazac 1a sadrži i prostor za upis sljedećih podataka: ishod postupka po zahtjevu, broj i vrstu odobrenja, datum izdavanja odobrenja, rok važenja i potpis službene osobe.
+Podatke iz stavka 3. ovog članka popunjava službena osoba tijela kojem je zahtjev podnesen.
