@@ -1,0 +1,4 @@
+# Članak 17.
+Korisnici mirovina i invalidnina s prebivalištem ili trajnim nastanjenjem u Republici Hrvatskoj, koji mirovinu i invalidninu ostvaruju isključivo od stranog nositelja mirovinskog i invalidskog osiguranja, ako državnim ugovorom nije drukčije određeno (članak 5. točka 11. Zakona), doprinos za obvezno zdravstveno osiguranje plaćaju na osnovicu koju čini njihova mirovina, odnosno invalidnina, prema stopi od 25%, s tim da tako utvrđena osnovica ne može biti manja od iznosa minimalne mirovine, odnosno veća od iznosa najviše mjesečne plaće u Republici Hrvatskoj.
+Korisnicima mirovina i invalidnina iz stavke 1. ovog članka koji mirovinu, odnosno invalidninu primaju u stranoj valuti, osnovica osiguranja preračunava se u hrvatsku valutu po srednjem tečaju Narodne banke Hrvatske, vrijedećem 1. dana mjeseca u kojem doprinos dospijeva.
+Doprinos iz stavke 1. ovog članka uplaćuje se do 10. u mjesecu za prethodni mjesec.

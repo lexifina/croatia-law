@@ -1,0 +1,3 @@
+# Članak 8.
+Za osobe s prebivalištem u Republici Hrvatskoj koje su nesposobne za samostalan život i rad i nemaju sredstava za izdržavanje sukladno propisima o socijalnoj skrbi (članak 11. Zakona), doprinos za zdravstvenu zaštitu plaća nadležno tijelo socijalne skrbi na teret sredstava proračuna županije, odnosno Grada Zagreba, po stopi od 15% na osnovicu koju čini najniža osnovna plaća vrijedeća za mjesec za koji se plaća doprinos, mjesečno po osobi.
+Doprinos iz stavke 1. ovog članka obračunava Zavod, a obveznik uplate doprinosa dužan ga je uplatiti do 10. dana tekućeg mjeseca za prethodni mjesec.

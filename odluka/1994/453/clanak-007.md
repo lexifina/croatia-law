@@ -1,0 +1,3 @@
+# Članak 7.
+Osobe koje su vlasnici privatnih poduzeća sa sjedištem u Republici Hrvatskoj (članak 5. točka 8. Zakona) ako nisu zdravstveno osigurani po drugoj osnovi, plaćaju doprinos za obvezno zdravstveno osiguranje na osnovicu koja se određuje od dvostrukog iznosa minimalne plaće vrijedeće za mjesec za koji se plaća doprinos, uvećane za koeficijent složenosti poslova u visini 5,50, po stopi propisanoj za djelatnike koji su u radnom odnosu kod pravne ili fizičke osobe.
+Obračun i plaćanje doprinosa iz stavke 1. ovog članka, obveznik uplate doprinosa dužan je obračunati i uplatiti do 10. dana tekućeg mjeseca za prethodni mjesec.

@@ -1,0 +1,2 @@
+# Članak 22.
+Doprinos za obvezno zdravstveno osiguranje osiguranih osoba koje na osnovi rješenja pravne ili fizičke osobe koriste neplaćeni dopust, odnosno koje su neopravdano izostale s posla, plaća pravna ili fizička osoba u kojoj je djelatnik uposlen, po stopi od 15% na osnovicu koju čini dvostruki iznos najniže osnovne plaće vrijedeće za mjesec za koji se plaća doprinos, na način i po postupku propisanom za uposlene kod pravne ili fizičke osobe, a najkasnije do 15. u mjesecu za prethodni mjesec.
