@@ -1,5 +1,11 @@
 # Članak 12.
-Na zahtjev kupca utvrđuje se visina vlastitih sredstava stanara koja je uložio u stan i to:
-- sredstva kojima je povećao vrijednost stana a koja vrijednost je izražena u propisanim elementima za bodovanje stana, umanjena za iznos amortizacije;
-- nevračena sredstva koja je uložio kao vlastiti udjel radi stjecanja stanarskog prava;
-- sredstva koja stanaru radi stjecanja stanarskog prava nisu isplaćena na ime naknade za eksproprirane nekretnine. U slučaju iz alineje 1. stavka 1. ovoga članka kupac uz zahtjev prilaže i izračun sudskog vještaka o visini uloženih sredstava. Sudski vještak svoj izračun temelji na elementima cijena objavljenim u Biltenu o standardnoj kalkulaciji radova u visokogradnji koji objavljuje Fakultet građevinskih znanosti. Visina uloženih sredstava priznaje se kupcu najviše do 10% vrijednosti novoizgrađenog stana.
+Građevinska vrijednost stana iz članka 11., stavka 1., točke 1., ovoga Zakona određuje se vrijednošću novoizgrađenog stana iste opremljenosti i kvalitete, umanjene za iznos amortizacije.
+Vrijednost novoizgrađenog stana utvrđuje se prema građevinskoj vrijednosti etalonskog objekta, koja je izražena u novčanom iznosu po jedinici površine stana (din/m(2[I1]).
+Minstar zaštite okoliša, prostornog uređenja i stambeno-komunalne djelatnosti objavit će podatke o građevinskoj vrijednosti etalonskog objekta i pripadajući indeks promjene nominalnih osobnih dohodaka u gospodarstvu Republike Hrvatske na dan kada se utvrđuje vrijednost etalonskog objekta.
+Vrijednost stana koja proizlazi iz položajne pogodnosti stana izračunava se na temelju:
+- veličine naselja,
+- zone naselja u kojoj se stan nalazi i
+- položaja stana u zgradi.
+Korektivni faktor položajne pogodnosti iznosi 0,7 a obračunava se na cijenu utvrđenu prema članku 11., stavku 1., točkama 1. - 5. ovoga Zakona.
+Zone u naselju propisuje skupština općine, odnosno grada prema kriterijima za određivanje ovih zona koje propisuje Vlada Republike Hrvatske.
+Cijena garaže utvrđuje se na način utvrđen propisom iz članka 11., stavka 2., ovoga Zakona, time da kupac nema pravo na popuste, osim kod plaćanja u konvertibilnim devizama, a cijenu garaže dužan je platiti odjednom i u slučaju kada stan kupuje na otplatu.

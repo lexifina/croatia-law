@@ -1,0 +1,2 @@
+# Članak 50.
+Stanovi koji su postali vlasništvo Republike Hrvatske na temelju Uredbe o preuzimanju sredstava JNA i SSN0 na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske ("Narodne novine", br. 52/91.) i Uredbe o preuzimanju sredstava bivše SFRJ u vlasništvo Republike Hrvatske ("Narodne novine", br. 68/91.) neće se prodavati do donošenja zakona kojim će se utvrditi posebni kriteriji za prodaju tih stanova.

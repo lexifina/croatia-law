@@ -1,2 +1,2 @@
 # Članak 15.
-Za provedbu revalorizacije u smislu odredaba ovoga zakona primjenjuju se indeksi promjena nominalnih osobnih dohodaka u gospodarstvu Republike Hrvatske koje objavljuje Republički zavod za statistiku.
+Opći popust koji se priznaje kupcu iznosi 30% cijene utvrđene prema članku 11., stavku 1., točkama 1. - 4. ovoga Zakona.

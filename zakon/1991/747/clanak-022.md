@@ -1,2 +1,3 @@
 # Članak 22.
-Hipoteka se stječe uknjižbom u zemljišnu knjigu. Na području za koje se ne vodi zemljišna knjiga hipoteka se stječe upisom u intabulacijsku ili drugu knjigu u koju se upisuje založno pravo na nekretnini. Ako nekretnina nije upisana u zemljišne knjige, hipoteka se stječe polaganjem ugovora u zemljišno-knjižnoj službi suda na čijem se području stan nalazi i upisom u knjigu koju taj sud vodi o položenim ugovorima.
+Ugovorne stranke su dužne ovjeriti svoje potpise.
+Organ nadležan za ovjeru potpisa ovjerit će potpise stranaka nakon što utvrdi da je ugovor podnesen na mišljenje nadležnom javnom pravobranitelju, što se potvrđuje na poleđini ugovora.

@@ -1,4 +1,3 @@
 # Članak 34.
-Vlada Republike Hrvatske donijet će u roku 30 dana od dana stupanja na snagu ovoga zakona propise iz stavka 2. članka l0, stavka 5. članka 11. i stavka 4. članka 17. ovoga zakona.
-Ministar pravosuđa i uprave donijet će u roku 60 dana od dana stupanja na snagu ovoga zakona pravilnik iz stavka 3. članka 20. ovoga zakona.
-Skupština općine odnosno skupština grada donijet će propis iz stavka 5. članka 11. ovoga zakona u roku 45 dana od dana donošenja propisa o kriterijima za utvrđivanje zona u naselju.
+Vlasnik stana u kojem stanuje stanar, može u roku dvije godine od dana stupanja na snagu ovoga Zakona, prodati općini odnosno gradu taj stan po cijeni koja se utvrđuje suglasno odredbi članka 11., stavka 1., točke 1. i 2. ovoga Zakona, umanjenoj za visinu vlastitih sredstava stanara koja je uložio u stan prema odredbi članka 12., stavka 1. , alineje 1., ovoga Zakona.
+U slučaju iz stavka 1. ovoga članka općina, odnosno grad je dužna kupiti stan ako se stanar ugovorom obavezao na kupnju toga stana od općine, odnosno grada pod uvjetima utvrđenim ovim Zakonom, a vlasniku isplatiti u roku pet godina od dana sklapanja kupoprodajnog ugovora i to u jednakim godišnjim obrocima uz primjenu elemenata revalorizacije prema ovom Zakonu.

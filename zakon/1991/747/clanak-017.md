@@ -1,2 +1,3 @@
 # Članak 17.
-Rok obročne otplate ne može biti duži od 25 godina, a visina godišnjeg obroka ne može biti manja od 3% novoizgrađene vrijednosti stana. Broj mjesečnih obroka otplate ovisi o cijeni stana i starosti zgrade. Iznos prvog obroka ne može biti niži od 3% od ugovorene cijene stana, a isplaćuje se u roku 15 dana od dana sklapanja ugovora. Na preostali dio cijene obračunava se unaprijed kamata u visini od l% godišnje. Vlada Republike Hrvatske propisat će način odredivanja broja obročnih otplata iz ovoga članka.
+Vrijednost iz članka 11., stavka 1., točke 1., 2. i 3. ovoga Zakona sadrži elemente revalorizacije.
+Svi neisplaćeni obroci iz ugovora revaloriziraju se u času dospijeća, ako nastupi uvećanje ili umanjenje nominalnih osobnih dohodaka u gospodarstvu Republike Hrvatske za najmanje 10% u odnosu na dan sklapanja ugovora.

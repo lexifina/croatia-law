@@ -1,2 +1,3 @@
 # Članak 9.
-Stanar koji je vlasnik stana na kojem postoji stanarsko pravo ako je pokrenuo zakonom propisani postupak za useljenje u stan u svojem vlasništvu, nema pravo kupiti stan u kojem stanuje pod uvjetima ovoga zakona.
+Prodavatelj je dužan sklopiti ugovor s kupcem najkasnije u roku 60 dana od dana podnošenja zahtjeva za sklapanje ugovora.
+Ako prodavatelj na zahtjev kupca ne sklopi ugovor u roku iz stavka 1. ovoga članka, kupac ima pravo pokrenuti postupak i zatražiti od suda presudu koja u cijelosti nadomješta ugovor.

@@ -1,6 +1,2 @@
 # Članak 10.
-Cijena stana utvrđuje se ugovorom ovisno o:
-1. građevinskoj vrijednosti stana u kojoj je sadržana vrijednost zajedničkih dijelova i uređaja zgrade;
-2. vrijednosti pripadajućeg zemljišta;
-3. visini vlastitih sredstava stanara koja je uložio u stan;
-4. osobnom popustu koji se priznaje kupcu, Vlada Republike Hrvatske propisuje način utvrđivanja cijene stana.
+Stanar koji je vlasnik stana na kojem postoji stanarsko pravo ako je pokrenuo zakonom propisani postupak za useljenje u stan u svojem vlasništvu, nema pravo kupiti stan u kojem stanuje pod uvjetima ovoga Zakona.

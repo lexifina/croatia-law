@@ -1,2 +1,2 @@
 # Članak 19.
-Ugovorne stranke su dužne ovjeriti svoje potpise. Organ nadležan za ovjeru potpisa ovjerit će potpise stranaka nakon što utvrdi da je ugovor podnesen na mišljenje nadležnom javnom pravobranitelju, što se potvrđuje na poleđini ugovora.
+Plaćanje cijene stana može se ugovoriti odjednom ili obročnom otplatom prema izboru kupca. Kada se plaćanje cijene stana ugovori odjednom rok isplate ne može biti duži od 8 dana od dana sklapanja ugovora.

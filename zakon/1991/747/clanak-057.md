@@ -1,0 +1,2 @@
+# Članak 57.
+Danom stupanja na snagu Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 27/91.), neće se primjenjivati odredbe članka 1., 9.,12.,17., 21., 24., 25., 49. i 53. Zakona o prometu zemljišta i zgrada ("Službeni list SFRJ", br. 43/65., 57/65., 17/67. i 11/74. i "Narodne novine", br. 52/73.) u odnosu na stanove čija prodaja je uređena po odredbama Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 27/91. i 33/92.).

@@ -1,2 +1,9 @@
 # Članak 11.
-Građevinska vrijednsot stana iz točke 1. stavka 1. članka 10. ovoga zakona određuje se vrijednošću novoizgrađenog stana iste opremljenosti i kvalitete, umanjene za iznos amortizacije. Vrijednost novoizgradenog stana utvrđuje se prema građevinskoj vrijednosti etalonskog objekta, koja je izražena u novčanom iznosu po jedinici površine stana (din/m2). Ministar zaštite okoliša, prostornog uređenja i graditeljstva objavit će podatke o građevinskoj vrijednosti etalonskog objekta i važeći indeks promjene nominalnih osobnih dohodaka u gospodarstvu Republike Hrvatske na dan kada se utvrđuje vrijednost etalonskog objekta, kao i svako povećanje ili smanjenje građevinske vrijednosti etalonskog objekta za 25%. Vrijednost pripadajućeg zemljišta u sklopu cijene pojedinog stana obračunava se tako da se vrijednost građevinske parcele podijeli s brojem četvornih metara izgrađene površine objekta pomnoženom sa brojem četvornih metara stambene površine stana koji se prodaje, ovisno o zoni naselja u kojoj se stan nalazi. Zone u naselju propisuje skupština općine odnosno grada prema kriterijima za određivanje ovih zona koje propisuje Vlada Republike Hrvatske.
+Cijena stana utvrđuje se ugovorom ovisno o:
+1. građevinskoj vrijednosti stana u kojoj je sadržana vrijednost zajedničkih dijelova i uređaja zgrade;
+2. položajnoj pogodnosti stana;
+3. visini vlastitih sredstava stanara koja je uložio u stan;
+4. osobnom popustu koji se priznaje kupcu;
+5. općem popustu;
+6. korektivnom faktoru položajne pogodnosti.
+Vlada Republike Hrvatske propisuje način utvrđivanja cijene stana.

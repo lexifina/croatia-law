@@ -1,3 +1,6 @@
 # Članak 28.
-Vlasnik stana u kojem stanuje stanar, može u roku jedne godine od dana stupanja na snagu ovoga zakona, prodati općini odnosno gradu taj stan po cijeni koja se utvrđuje suglasno odredbi točke 1. i 2. stavka 1. članka l0. ovoga zakona, umanjenoj za visinu vlastitih sredstava stanara koja je uložio u stan prema odredbi alineje 1. stavka 1. članka 12. ovoga zakona.
-U slučaju iz stavka 1. ovoga članka općina, odnosno grad je dužna kupiti stan ako se stanar ugovorom obavezao na kupnju toga stana od općine odnosno grada pod uvjetima utvrđenim ovim zakonom, a vlasniku isplatiti u roku pet godina od dana sklapanja kupoprodajnog ugovora i to u jednakim godišnjim obrocima uz primjenu elemenata revalorizacije prema ovom zakonu.
+Novac ostvaren prodajom stanova u vlasništvu Republike Hrvatske koristi se:
+- 20% za rješavanje stambenih potreba zaposlenih u republičkim tijelima;
+- 40% za namjene utvrđene proračunom Republike Hrvatske ;
+- 40% za izgradnju i popravak građevinskih objekata srušenih ili oštećenih u oružanoj agresiji.
+Novac iz stavka 1., alineje 3., ovoga članka doznačuje se u roku 15 dana od primitka uplate Fondu iz članka 27., stavka 3., ovoga Zakona.
