@@ -1,0 +1,1 @@
+Na temelju članka 316. stavak 2. točka 3. Zakona o sigurnosti prometa na cestama ("Narodne novine", br. 84/92 i 5/93) ministar pomorstva, prometa i veza u suglasnosti s ministrom unutarnjih poslova i ministrom industrije, brodogradnje i energetike donosi

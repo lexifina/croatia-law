@@ -1,0 +1,2 @@
+# Članak 26.
+Pokretno svjetlo (reflektor) smije se postaviti samo na vozilu organa unutarnjih poslova, vozilu namijenjenom za hitnu medicinsku pomoć, vozilu prometne inspekcije, vatrogasnom vozilu, vozilu namijenjenom za održavanje cesta i instalacija te na vozilu namijenjenom za pružanje pomoči na cesti i mora biti ugrađen i izveden tako da daje svjetlost bijele ili žute boje te da se može uključiti samo ako su uključena i pozicijska svjetla.

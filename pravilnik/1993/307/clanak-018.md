@@ -1,0 +1,3 @@
+# Članak 18.
+Uređaji za osvjetljavanje ceste i za davanje svjetlosnih znakova postavljeni na prednjoj strani motornoga i priključnog vozila ne smiju davati svjetlost crvene boje vidljivu prednje strane vozila ni svjetlost bijele boje od svjetala i reflektirajućih tvari postavljenih na stražnjoj strani vozila, odnosno vidljivih sa stražnje strane vozila.
+Odredba stavka 1, ovog članka ne odnosi se na svjetla za osvjetljavanje ceste pri vožnji unatrag, pokretno svjetlo za istraživan)e (reflektor), svjetla za osvjetljavanje stražnje registarske pločice i registarsku pločicu prevućenu bijelom reflektirajučom tvari, a ni na crveno treptavo svjetlo na posebnim motornim vozilima koja prate vozila pod pratnjom.

@@ -1,0 +1,2 @@
+# Članak 108.
+Iznimno od odredbe članka 93, stavka 1. točke 2. ovog Pravilnika, za vozila koja su proizvedena i uključena u promet prije 1. siječnja 1980. koeficijent apsorpcije svjetlosti može iznositi najviše K = 3,52 m-1 ili da pri radu opterečenog motora ne proizvodi ispušne plinove tamnije od boje koja je obilježena brojem 2 Ringelmanove ljestvice ili brojem 5,5 Boschove ljestvice ili odgovarajućim vrijednostima dobivenim mjerenjem drugim aparatima.
