@@ -1,0 +1,11 @@
+# Rev-2189/1994-2, Vrhovni sud Republike Hrvatske, 29.5.1996.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=ba81f359-775c-47fa-9408-cffd56d1f2e0
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1996-05-29
+- Publication date on source: 2003-08-21
+- ECLI: ECLI:HR:VSRH:1996:3958
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
