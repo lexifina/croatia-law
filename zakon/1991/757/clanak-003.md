@@ -1,0 +1,2 @@
+# Članak 3.
+Godišnja nagrada dodjeljuje se umjetnicima koji su državljani Republike Hrvatske za najbolja umjetnička ostvarenja koja su bila objavljena, izložena, prikazana ili izvedena tijekom protekle godine, kao i grupi umjetnika za kolektivna umjetnička ostvarenja. Nagrada za životno djelo dodjeljuje se istaknutim umjetnicima koji su svojim stvaralaštvom obilježili vrijeme u kojem su djelovali i čiji je stvaralački put zaokružen, a djela i ostvarenja ostaju trajno dobro Republike Hrvatske.

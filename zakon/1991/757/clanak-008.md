@@ -1,0 +1,2 @@
+# Članak 8.
+Sredstva za dodjeljivanje Nagrade i za materijalne troškove osiguravaju se svake godine u proračunu Republike Hrvatske. Sredstva za Nagrade vode se na posebnom računu pri Ministarstvu prosvjete i kulture. Financijski plan donosi Odbor uz suglasnost ministra prosvjete i kulture. Neutrošena sredstva u jednoj godini prenose se u iduću godinu. Naredbodavac za izvršenje financijskog plana je ministar prosvjete i kulture.
