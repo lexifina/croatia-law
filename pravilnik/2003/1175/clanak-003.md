@@ -1,0 +1,3 @@
+# Članak 3.
+1. Pravo na dopust za njegu djeteta i pravo na rad s polovicom punog radnog vremena može ostvariti jedan od roditelja djeteta s težim smetnjama u razvoju koji je u radnom odnosu s punim radnim vremenom pod uvjetom da drugi roditelj nije nezaposlen prema propisima o zapošljavanju, odnosno roditelj koji je u radnom odnosu s punim radnim vremenom, a koji sam živi s djetetom.
+2. Izuzetno od stavka 1. ovoga članka jedan od roditelja može ostvariti jedno od prava iz stavka 1. ovoga članka ako drugi roditelj koji je nezaposlen nije u mogućnosti zbog svog psihofizičkog stanja pružati potrebnu njegu djetetu s težim smetnjama u razvoju, ako je na odsluženju vojnog roka ili se nalazi u pritvoru ili na izdržavanju kazne zatvora duže od 30 dana.

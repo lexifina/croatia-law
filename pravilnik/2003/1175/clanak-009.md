@@ -1,0 +1,6 @@
+# Članak 9.
+1. Roditelj koji radi polovicu punog radnog vremena ima pravo na naknadu plaće za preostalo vrijeme do punog radnog vremena u visini razlike između plaće koju ostvaruje radeći polovicu punog radnog vremena i plaće koju bi ostvario da radi u punom radnom vremenu.
+2. U slučajevima iz članka 4. stavka 1. podstavka 2. roditelj ima pravo na novčanu naknadu u visini polovice osnovice na koju je osiguran na mirovinsko osiguranje.
+3. Naknadu iz stavka 1. i 2. ovoga članka roditelju isplaćuje centar za socijalnu skrb na temelju potvrde poslodavca o isplaćenoj plaći, odnosno plaći koja je trebala biti isplaćena roditelju za rad u polovici punog radnog vremena ili potvrde nadležne službe mirovinskog osiguranja.
+4. Potvrdu iz stavka 3. ovoga članka poslodavac je dužan dostaviti centru za socijalnu skrb svakog mjeseca u roku od dva dana od dana isplate plaće odnosno najkasnije do 20-tog u mjesecu u slučaju kada plaća nije isplaćena, a nadležna služba mirovinskog osiguranja u roku od 8 dana od dana kada joj je dostavljeno rješenje iz članka 6. stavka 5. ovoga Pravilnika i u svim slučajevima promjene visine osnovice.
+5. Ako roditelj za vrijeme rada s polovicom punog radnog vremena koristi godišnji odmor ili je na bolovanju, pripada mu odgovarajući iznos naknade plaće sukladno stavku 1. i 2. ovoga članka.

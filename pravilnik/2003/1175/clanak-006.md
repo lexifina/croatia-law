@@ -1,0 +1,4 @@
+# Članak 6.
+1. Jedno od prava iz članka 3. ovog Pravilnika roditelj ne može ostvariti dok koristi pravo na rad s polovicom punog radnog vremena po drugoj osnovi.
+2. Jedno od prava iz članka 3. ovoga Pravilnika ne može ostvariti roditelj djeteta s težim smetnjama u razvoju, odnosno prestaje mu to pravo za vrijeme dok je dijete stalno ili tjedno smješteno u ustanovi socijalne skrbi, zdravstva ili prosvjete, odnosno ako dijete boravi u ustanovi socijalne skrbi, zdravstva ili prosvjete svakodnevno duže od osam sati.
+3. Izuzetno od stavka 2. ovoga članka roditelj koji sam živi s djetetom, a koji je obavezan raditi drugu smjenu, ima pravo na rad s polovicom punog radnog vremena, odnosno ne prestaje mu to pravo, iako dijete boravi u ustanovi socijalne skrbi, zdravstva ili prosvjete svakodnevno duže od osam sati.
