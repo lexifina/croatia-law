@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 17/93, 69/97, 33/00, 73/00, 127/00, 59/01. i 10//01), te članka 29. Statuta Grada Petrinje (»Službeni vjesnik« broj 19/01, 5/03. i 41/03.) Gradsko vijeće Grada Petrinje na svojoj 21. sjednici održanoj 27. svibnja 2004. godine, donijelo je
