@@ -1,0 +1,2 @@
+# Članak 4.
+Pravna osoba je dužna svoje obveze iz članka 2. prijaviti Službi kod koje vodi žiro-račun do 26. ožujka 1991. godine za drugi ciklus, do 16 travnja 1991. godine za treći ciklus, do 14. svibnja 1991 godine za četvrti ciklus, do 11. lipnja I99I. godine za peti ciklus i do 16. srpnja 1991. godine za šesti ciklus obvezne multilateralne kompenzacije. Prijava se podnosi na obrascu "Prijava za sudjelovanje u multilateralnoj kompenzaciji" koji je sastavni dio ove Uredbe.

@@ -1,0 +1,3 @@
+## o obveznim prebijanjima obveza i potraživanja pravnih osoba u Republici Hrvatskoj
+# Članak 1.
+Služba društvenog knjigovodstva u Republici Hrvatskoj (u daljem tekstu Služba) provest će drugi, treći, četvrti, peti i šesti ciklus prebijanja obveza i potraživanja pravnih osoba sa sjedištem u Republici Hrvatskoj iz oblasti 1 do 11 Jedinstvene klasifikacije djelatnosti (u daljem tekstu pravne osobe). Pojedine cikluse prebijanja obveza i potraživanja Služba će provesti na dane: 30 ožujka 1991 godine, 20. travnja 1991 godine, 18 svibnja 1991. godine, 15. lipnja i 20. srpnja 1991 godine. Prebijanje obveza i potraživanja (multilateralna kompenzacija) obvezno je za sve pravne osobe iz stavka 1. ovog članka
