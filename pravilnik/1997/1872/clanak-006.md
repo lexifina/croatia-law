@@ -1,0 +1,2 @@
+# Članak 6.
+Veterinarska bolnica, klinika i privatna praksa moraju raspolagati s mogućnošću primjerenog vođenja propisane dokumentacije i evidencije cijepljenih pasa, kao i s posebnim upisnikom cijepljenih i označenih pasa s mogućnošću žurnog pretraživanja i pronalaženja podataka prema vlasnicima i brojevima izdanih markica za cijepljene pse, a u obliku posebne kartoteke, odnosno prikladnog programa za računalnu (informatičku) obradu i vođenje podataka.

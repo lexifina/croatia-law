@@ -1,0 +1,1 @@
+Pravilnik o posebnim uvjetima kojima moraju udovoljavati veterinarske bolnice, veterinarske klinike i veterinarska privatna praksa za obavljanje pojedinih poslova javnih ovlasti u provedbi mjera za ot

@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Veterinarska bolnica, veterinarska klinika i privatna praksa, pri provedbi cijepljenja pasa protiv bjesnoće, kao poslova javnih ovlasti u provedbi mjera za otkrivanje i suzbijanje zaraznih bolesti životinja, dužne su pridržavati se jedinstvenih cijena za ove veterinarske usluge.
+(2) Privatna veterinarska praksa dužna je za troškove upisa pasa, vođenja upisnika pasa i izdavanje službene dokumentacije, po svakom cijepljenom psu platiti naknadu u korist Fonda za zdravstvenu zaštitu životinja, u skladu sa u ove svrhe, predviđenim dijelom ukupno propisane naknade za cijepljenje pasa protiv bjesnoće i sukladno dostavljenom iskazu o cijepljenju iz članka 10. točke 3. ovoga Pravilnika.
