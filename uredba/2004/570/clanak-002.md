@@ -1,0 +1,37 @@
+# Članak 2.
+U točki b) Radna mjesta VSS, u rednom broju 10. dodaje se:
+NAZIV RADNOG MJESTA
+NAZIV
+ZVANJA
+KOEFICI-
+JENT SLO-
+ŽENOSTI
+DODACI
+POLICIJSKI SLUŽBENIK ZA OPERATIVNU ZAŠTITU
+glavni policij-
+ski inspektor
+1,55
+20
+POLICIJSKI SLUŽBENIK ZA
+POSLOVE OPERATIVNE PRIPREME
+glavni policij-
+ski inspektor
+1,55
+20
+POLICIJSKI SLUŽBENIK ZA POSLOVE MEĐUNARODNE SURADNJE
+glavni policij-
+ski inspektor
+1,55
+20
+POLICIJSKI SLUŽBENIK ZA
+INFORMATIČKO-TEHNIČKE POSLOVE
+glavni policij-
+ski inspektor
+1,55
+20
+POLICIJSKI SLUŽBENIK ZA
+FINANCIJSKE POSLOVE
+glavni policij-
+ski inspektor
+1,55
+20

@@ -1,0 +1,33 @@
+# Članak 4.
+U točki e) Radna mjesta SSS, u rednom broju 3. dodaje se:
+NAZIV RADNOG MJESTA
+NAZIV
+ZVANJA
+KOEFICI-
+JENT SLO-
+ŽENOSTI
+DODACI
+DETEKTIV ZA OPERA-
+TIVNU ZAŠTITU
+policijski
+narednik
+0,99
+40
+DETEKTIV ZA POSLOVE
+OPERATIVNE PRIPREME
+policijski
+narednik
+0,99
+40
+DETEKTIV ZA INFORMA-
+TIČKO-TEHNIČ. POSLOVE
+policijski
+narednik
+0,99
+20
+DETEKTIV ZA FINANCIJ-
+SKE POSLOVE
+policijski
+narednik
+0,99
+20
