@@ -1,0 +1,1 @@
+Na temelju članka 141. točke 3. Zakona o mirovinskom osiguranju ("Narodne novine", broj 102/98) i članka 20. točke 11. Statuta Hrvatskog zavoda za mirovinsko osiguranje ("Narodne novine", broj 196/98), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 29. prosinca 1998. donosi
