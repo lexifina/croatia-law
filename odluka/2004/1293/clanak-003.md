@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 180. stavak 2. i 3. mijenjaju se i glase:
+»Aktualno prijepodne« održava se na početku svake sjednice Sabora prije prelaska na prvu točku dnevnog reda. U »Aktualnom prijepodnevu« zastupnici organizirani u klubove zastupnika mogu postaviti ukupno 40 pitanja, a nezavisni zastupnici koji nisu izabrani na listi političke stranke, zastupnici nacionalnih manjina koji nisu organizirani u klub zastupnika te po jedan zastupnik političkih stranaka koji nemaju klub zastupnika mogu postaviti pitanje na svakoj drugoj sjednici.
+Broj pitanja koja mogu postaviti zastupnici pojedinog kluba zastupnika određuje se razmjerno broju članova pojedinog kluba u odnosu na ukupni broj zastupnika na način da se broj članova pojedinog kluba podijeli s četiri s time da se pri izračunu rezultat 0,50 i više korigira na više.«
