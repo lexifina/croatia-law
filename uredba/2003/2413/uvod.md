@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99) i članka 210. stavka 1. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 121/2003), Vlada Republike Hrvatske je na sjednici održanoj 16. listopada 2003. godine donijela
