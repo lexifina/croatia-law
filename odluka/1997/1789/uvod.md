@@ -1,0 +1,1 @@
+Na temelju članka 83. stavka 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometa zlata ("Narodne novine" br. 91A/93.) i članka 67. stavka 1. točka 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine" br. 35/95. - pročišćeni tekst) Savjet Narodne banke Hrvatske na sjednici održanoj 5. studenoga 1997. godine, donio je
