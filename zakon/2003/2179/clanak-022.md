@@ -1,0 +1,5 @@
+# Članak 22.
+(1) Pravna ili fizička osoba može početi obavljati djelatnost postupanja s opasnim otpadom, nakon što Ministarstvo zaštite okoliša i prostornog uređenja (u daljnjem tekstu: Ministarstvo) rješenjem utvrdi da ispunjava uvjete iz članka 21. ovoga Zakona.
+(2) Rješenje iz stavka 1. ovoga članka dostavlja se nadležnim inspekcijama, nadležnom tijelu za poslove financija, Ministarstvu unutarnjih poslova i Državnom inspektoratu.
+(3) Pravna ili fizička osoba može početi obavljati djelatnost postupanja s industrijskim, ambalažnim, građevnim, električkim i elektroničkim otpadom, otpadnim vozilima i otpadnim gumama, nakon što ured državne uprave u jedinici područne (regionalne) samouprave, odnosno upravno tijelo Grada Zagreba nadležno za zaštitu okoliša rješenjem utvrdi da ispunjava uvjete iz članka 21. ovoga Zakona.
+(4) Ured državne uprave u jedinici područne (regionalne) samouprave, odnosno upravno tijelo Grada Zagreba nadležno za poslove zaštite okoliša dužno je primjerak rješenja dostaviti Ministarstvu, nadležnim inspekcijama i nadležnom tijelu za poslove financija.

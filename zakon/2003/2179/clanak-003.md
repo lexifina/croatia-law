@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Vrste otpada, ovisno o svojstvima i mjestu nastanka, popis oznaka i obilježja opasnih svojstava otpada, djelatnosti obrađivanja, ponovne uporabe, oporabe, recikliranja, odlaganja i kojega drugog oblika trajnog zbrinjavanja otpada te rokove provedbe, uredbom propisuje Vlada Republike Hrvatske (u daljnjem tekstu: Vlada).
+(2) Način postupanja s pojedinim vrstama otpada ovisno o svojstvu i mjestu nastanka, način dostave podataka o postupanju s otpadom, sadržaj i izgled obrazaca pratećih i prijavnih listova, sadržaj i izgled obrasca izjave o sastavu i izvješća o ispitivanju fizikalnih i kemijskih svojstava otpada, pravilnikom propisuje ministar zaštite okoliša i prostornog uređenja (u daljnjem tekstu: ministar).

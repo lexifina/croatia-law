@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Ured državne uprave u jedinici područne (regionalne) samouprave odnosno upravno tijelo Grada Zagreba nadležno za graditeljstvo, dužno je prije izdavanja građevne dozvole za gradnju ili rekonstrukciju građevine za privremeno skladištenje otpada, građevine za obrađivanje otpada, građevine za odlaganje otpada utvrditi ispunjavanje tehničko-tehnoloških uvjeta, propisanih ovim Zakonom.
+(2) Ministarstvo je dužno prije izdavanja građevne dozvole za gradnju ili rekonstrukciju građevine za privremeno skladištenje opasnog otpada, građevine za obrađivanje opasnog otpada i građevine za odlaganje opasnog otpada utvrditi ispunjavanje tehničko-tehnoloških uvjeta propisanih ovim Zakonom.

@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Tehničko-tehnološke uvjete za privremeno skladištenje opasnog otpada te stručnu spremu radnika za rukovanje s opasnim otpadom unutar poslovnog prostora proizvođača, pravilnikom propisuje ministar zaštite okoliša i prostornog uređenja uz mišljenje ministra zdravstva i ministra unutarnjih poslova.
+(2) Tehničko-tehnološke uvjete za privremeno skladištenje industrijskoga, ambalažnoga, građevnoga, električkog i elektroničkog otpada, otpadnih vozila i otpadnih guma te stručnu spremu radnika za rukovanje s otpadom unutar poslovnog prostora proizvođača, pravilnikom propisuje ministar.

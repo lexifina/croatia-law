@@ -1,0 +1,3 @@
+# Članak 75.
+(1) Provedbeni propisi iz članka 3. stavka 1. i 2., članka 20. stavka 1. i 2., članka 21. stavka 2., članka 28. stavka 2., članka 35. stavka 4., članka 43. stavka 4., te naputak iz članka 53. ovoga Zakona donijet će se u roku od četiri mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Pravilnik o vrstama otpada (»Narodne novine«, br. 27/96.), i Pravilnik o postupanju s ambalažnim otpadom (»Narodne novine«, br. 53/96.), Pravilnik o uvjetima za postupanje s otpadom (»Narodne novine«, br. 123/97. i 112/01.) i Uredba o uvjetima za postupanje s opasnim otpadom (»Narodne novine«, br. 32/98.) primjenjuju se do stupanja na snagu propisa iz stavka 1. ovoga članka.

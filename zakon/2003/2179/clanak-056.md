@@ -1,0 +1,3 @@
+# Članak 56.
+(1) Ako ne postupi po rješenju inspektora zaštite okoliša, pravna osoba prisilit će se na izvršenje prisilnom novčanom kaznom u iznosu od 30.000,00 kuna, a fizička osoba, prisilno novčanom kaznom u iznosu od 5.000,00 kuna. Svaka kasnija prisilna novčana kazna može biti ponovno izrečena u istoj svoti.
+(2) Novčani iznos upravne mjere uplaćuje se u proračun općine, odnosno grada na čijem području je utvrđen nedostatak, odnosno nepravilnost u postupanju s otpadom. Općina ili grad mora imati poseban račun otvoren za uplatu novčanog iznosa upravne mjere, koji se koristi za mjere postupanja s otpadom, sukladno s Programom zaštite okoliša - mjere postupanja s otpadom.

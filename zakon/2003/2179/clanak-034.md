@@ -1,0 +1,4 @@
+# Članak 34.
+(1) Proizvođač opasnog otpada i industrijskoga, ambalažnoga, građevnoga, električkog i elektroničkog otpada, otpadnih vozila i otpadnih guma koji sam nije osigurao postupanje s otpadom, dužan je Burzi otpada pri Hrvatskoj gospodarskoj komori prijavljivati podatke o količinama i vrstama otpada, čija se vrijedna svojstva mogu iskoristiti.
+(2) Proizvođač opasnog otpada podatke iz stavka 1. ovoga članka dostavlja dvomjesečno i to do: 15. ožujka, 15. svibnja, 15. srpnja, 15. rujna, 15. studenoga i 15. siječnja tekuće godine, za zadnje dvomjesečje protekle godine.
+(3) Proizvođač industrijskoga, ambalažnoga, građevnoga, električkog i elektroničkog otpada, otpadnih vozila i otpadnih guma podatke iz stavka 1. ovoga članka dostavlja tromjesečno i to do: 15. travnja, 15. srpnja, 15. listopada i 15. siječnja tekuće godine, za zadnje tromjesečje protekle godine.

@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Ured državne uprave u jedinici područne (regionalne) samouprave, odnosno upravno tijelo Grada Zagreba nadležno za poslove zaštite okoliša na osnovi podataka iz članka 32. ovoga Zakona vodi katastar o vrstama otpada i načinu njegova skladištenja, obrađivanja i odlaganja, a koji je sastavni dio katastra onečišćavanja okoliša.
+(2) Ured državne uprave u jedinici područne (regionalne) samouprave, odnosno upravno tijelo Grada Zagreba nadležno za poslove zaštite okoliša dostavlja Ministarstvu do 1. lipnja tekuće godine za proteklu kalendarsku godinu podatke o postupanju s opasnim otpadom.
