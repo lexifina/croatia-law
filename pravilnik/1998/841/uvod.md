@@ -1,0 +1,1 @@
+Na temelju članka 127. stavka 1. podstavka 2. a sukladno članku 80. stavku 4. Zakona o visokim učilištima ("Narodne novine", br. 59/96. - pročišćeni tekst), Rektorski zbor visokih učilišta Republike Hrvatske na 6. sjednici u akademskoj 1997/98. godini održanoj 12. prosinca 1997. donio je

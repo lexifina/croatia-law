@@ -1,0 +1,2 @@
+# Članak 16.
+Obrana habilitacijskog rada predloženika ima sljedeći tijek: predsjednik stručnog povjerenstva pozdravlja sve nazočne, daje uvodni prikaz o predloženiku, temi i sadržaju habilitacijskog rada. Nakon toga predloženik pristupa obrani habilitacijskog rada. Nakon obrane habilitacijskog rada, predsjednik stručnog povjerenstva prepušta članovima povjerenstva da postavljaju pitanja i poziva sve nazočne da mogu postavljati pitanja predloženiku u vezi s izloženom temom.
