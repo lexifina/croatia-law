@@ -1,0 +1,1 @@
+Na temelju članka 41. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu ("Narodne novlne", br.18/92) i članka 86. Poslovnika Zastupničkog doma Sabora Republike Hrvatske ("Narodne novine", br. 59/92), Odbor za izbor, imenovanja i administrativne poslove Zastupničkog doma Sabora Republike Hrvatske, na sjednici održanoj 21. prosinca 1992, donio je
