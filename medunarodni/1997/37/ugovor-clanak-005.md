@@ -1,0 +1,6 @@
+# Članak 5.
+NAKNADA GUBITAKA
+1. Ulagatelji jedne ugovorne stranke čija ulaganja na teritoriju druge ugovorne stranke pretrpe gubitke zbog rata ili drugog oružanog sukoba, izvanrednog stanja, građanskih nemira ili drugih sličnih događaja na teritoriju druge ugovorne stranke, imaju pravo na uvjete od strane druge ugovorne stranke, glede restitucije, odštete, naknade ili drugog namirenja, ne manje povoljne od onih koje ta druga ugovorna stranka odobrava vlastitim ulagateljima ili ulagateljima neke treće države, prema tome što je povoljnije. Rezultirajući plaćanja moraju se izvršiti bez odlaganja i moraju biti slobodno prenosiva u slobodno konvertibilnoj valuti.
+2. Bez prejudiciranja stavka 1. ovog Članka, ulagatelji jedne ugovorne stranke koji, u bilo kojoj od situacija navedenih u tom stavku, pretrpe gubitke na teritoriju druge ugovorene stranke uslijed:
+a) rekviriranja njihovih ulaganja ili dijela istih od strane snaga ili organa vlasti te druge stranke, ili
+b) uništenja njihovih ulaganja ili dijela istih od strane snaga ili organa vlasti te druge stranke, koje nije bilo neophodno u određenoj situaciji, imat će pravo na restituciju ili naknadu, koja u jednom ili drugom slučaju mora biti promptna, odgovarajuća i efektivna.
