@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 2. Zakona o unutarnjim poslovima ("Narodne novine", broj 29/91), na prijedlog ministra unutarnjih poslova, Vlada Republike Hrvalske na sjednici održanoj 28. kolovoza 1991. godine donijela je
