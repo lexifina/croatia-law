@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom utvrđuju posebni uvjeti koje moraju ispunjavati pravne osobe koje kao predmet svog poslovanja obavljanju vodoopskrbnu djelatnost, a koju djelatnost u smislu članka 34. a u svezi s člankom 172. stavkom 1. točkom 5. Zakona o vodama ("Narodne novine" broj 107/95.) čine poslovi od osobitog značaja za upravljanje vodama.
+(2) Poslovi iz stavka 1. ovoga članka su zahvaćanje i crpljenje površinskih i podzemnih voda za piće i druge potrebe i njihovo pročišćavanje do stupnja zdravstvene ispravnosti, dovođenje do mjesta potrošnje i raspodjele korisnicima, a koji poslovi su označeni u Nacionalnoj klasifikaciji djelatnosti (Narodne novine, br. 6/95) kao 41.00 skupljanje, pročišćavanje i distribucija vode.
