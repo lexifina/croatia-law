@@ -1,0 +1,7 @@
+# Članak 1.
+U Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 108/96) članak 39. mijenja se i glasi:
+»(1) HRVI iz Domovinskog rata s oštećenjem organizma od 100% I. skupine ima pravo na osobni automobil koji mu u vlasništvo dodjeljuje Ministarstvo hrvatskih branitelja iz Domovinskog rata svakih sedam godina.
+(2) HRVI iz Domovinskog rata od II. do IV. skupine čije utvrđeno oštećenje organizma ima za posljedicu oštećenje funkcije donjih ekstremiteta, ima pravo na uvoz osobnog automobila bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost uz popust u visini utvrđenog postotka oštećenja organizma svakih sedam godina.
+(3) Ako HRVI iz Domovinskog rata korisnik povlastice iz stavka 1. i 2. ovoga članka osobni automobil proda, daruje ili otuđi po drugoj osnovi u roku od sedam godina od dana dodjele, odnosno nabave, obvezan je naknadno platiti carinu, posebni porez i porez na dodanu vrijednost kojih je bio oslobođen pri uvozu, prema odredbama Carinskog zakona.
+(4) Ako HRVI iz Domovinskog rata iz stavka 1. i 2. ovoga članka umre prije isteka roka od sedam godina od dana dodjele, odnosno nabave osobnog automobila, zakonski nasljednici mogu prodati automobil koji su naslijedili bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost.
+(5) Bračni drug, djeca i roditelji poginuloga, umrloga, zatočenog ili nestaloga hrvatskog branitelja imaju jednokratno pravo uvoza osobnog automobila za vlastite potrebe bez plaćanja carine, posebnog poreza i poreza na dodanu vrijednost.«
