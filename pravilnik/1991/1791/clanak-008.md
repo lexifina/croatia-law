@@ -1,0 +1,2 @@
+# Članak 8.
+U mjestima u kojima se laboratorijski utvrdi bedrenica, a izvor se zaraze ne može utvrditi i učiniti bezopasnim za daljnje širenje zaraze, organ nadležan za poslove veterinarske inspekcije u općini utvrdit će područja i narediti cijepljenje goveda, ovaca i konja protiv bedrenice na tim područjima. Obveznom cijepljenju protiv bedrenice podliježu goveda, ovce, koze i kopitari kojima se daje hrana s područja gdje je utvrđena bedrenica.

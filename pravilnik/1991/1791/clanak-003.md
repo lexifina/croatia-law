@@ -1,0 +1,2 @@
+# Članak 3.
+Kad se utvrdi pojedinačni slučaj bedrenice, zabranit će se puštanje životinja iz zaraženog dvorišta za vrijeme dok traje zaraza odnosno dok traje opasnost od zaraze. Kad se utvrdi bedrenica u više od tri slučaja i s večim brojem žarišta ovisno o epizootiološkoj situaciji, veterinarski inspektor zabranit će izdavanje svjedodžbe o zdravstvenom stanju za zaražene životinje i ograničiti njihovo kretanje u naseljenom mjestu 14 dana od dana posljednjeg uginuča ili prezdravljenja oboljele životinje i završene posljednje dezinfekcije.

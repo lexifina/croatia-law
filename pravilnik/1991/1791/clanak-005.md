@@ -1,0 +1,2 @@
+# Članak 5.
+Leševi životinja uginulih od bedrenice, a i meso i dijelovi zaklanih životinja kod kojih se bedrenica utvrdi nakon klanja moraju se čuvati da ne dodu u doticaj s ljudima i životinjama i učiniti neškodljivima - zajedno s kožom, unutarnjim organima i otpacima Trupla životinja za koje se sumnja da su oboljele od bedrenice prevoze se isključivo sredstvima i u posudama iz kojih ne mogu ispadati otpaci i dijelovi u krutom ili tekučem stanju.

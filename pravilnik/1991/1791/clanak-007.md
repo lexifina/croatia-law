@@ -1,0 +1,2 @@
+# Članak 7.
+Bedrenica se utvrđuje: 1. epizootiološki i klinički: 2. patomorfološkim pregledom leševa uginulih životinja: 3. laboratorijškim pregledom (bakteriološkim i serološkim) Za svaki utvrđeni slučaj bedrenice organ nadležan za poslove veterinarske inspekcije u općini dužan je ispitati izvor zaraze i poduzeti mjere za sprečevanje daljnjeg širenja zaraze, a područje bedrenice uvesti u epizootiološku knjigu općine.
