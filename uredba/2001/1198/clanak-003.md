@@ -1,0 +1,5 @@
+## II. DJELOKRUG UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET MINISTRA
+# Članak 3.
+U Kabinetu ministra obavljaju se: protokolarni poslovi za ministra i njegovog zamjenika; poslovi ostvarivanja programa aktivnosti ministra i njegovog zamjenika; poslovi odnosa sa sredstvima javnog priopćavanja i internog informiranja; poslovi osiguranja pravodobne dostave materijala i drugih dokumenata iz djelokruga Ministarstva Vladi i Hrvatskom saboru; te drugi stručni i administrativni poslovi.
+U Kabinetu ministra obavljaju se poslovi vezani za unutarnji nadzor financijsko-računovodstvenih i drugih stručnih poslova vezanih uz provedbu propisa iz djelokruga Ministarstva; nadzire se i kontrolira utrošak proračunskih sredstava Ministarstva, njihova raspodjela korisnicima izvan Ministarstva i ispravnost namjenskog trošenja; sudjelovanje u izradi i kontrola financijskih i drugih izviješća; preventivno i savjetodavno djelovanje; spriječavanje eventualne zlouporabe; mjesečna izvješća, te se ministru ukazuje na nepravilnosti.

@@ -1,0 +1,6 @@
+# Članak 7.
+Odsjek za za zdravstvene ustanove obavlja upravne i stručne poslove vezane za: organizaciju rada sustava zdravstvene zaštite na primarnoj razini; djelokrug rada zdravstvenih ustanova i privatnih praksi, te sudjelovanje u pripremi stručnih podloga za izradu prijedloga propisa na području primarne zdravstvene zaštite, praćenja i unapređenje rada hitne medicinske pomoći; organizaciju pružanja hitne medicinske pomoći u prometu te planiranje, organiziranje i usklađivanje priprema zdravstvenih ustanova za rad u kriznim i akcidentalnim situacijama, organizaciju rada sustava zdravstvene zaštite na sekundarnoj razini; djelokrug rada zdravstvenih ustanova na sekundarnoj razini, te sudjelovanje u pripremi stručnih podloga za izradu prijedloga propisa na području sekundarne zdravstvene zaštite, organizaciju rada sustava zdravstvene zaštite na tercijarnoj razini; djelokrug rada zdravstvenih ustanova na tercijarnoj razini, te sudjelovanje u pripremi stručnih podloga za izradu prijedloga propisa na području tercijarne zdravstvene zaštite.
+Za obavljanje poslova Odsjeka za zdravstvene ustanove ustrojavaju se sljedeći pododsjeci:
+1. Pododsjek za zdravstvene djelatnike,
+2. Pododsjek za lijekove, medicinske proizvode i farmaceutsku inspekciju
+1. Pododsjek za zdravstvene djelatnike
