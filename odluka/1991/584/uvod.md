@@ -1,0 +1,1 @@
+Na temelju člana 48. Zakona o udruživanju u privredne komore člana 32. Statuta Privredne komore Slavonije i Baranje. Skupština Privredne komore Slavonije i Baranje na sjednici održanoj dana 27. ožujka 1991. donijela je
