@@ -1,0 +1,1 @@
+Na temelju članka 71. stavka 2. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 1/97 - pročišćeni tekst) ministar zdravstva po prethodno pribavljenom mišljenju Hrvatskog zavoda za zdravstveno osiguranje i Hrvatske ljekarničke komore donosi
