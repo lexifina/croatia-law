@@ -1,0 +1,5 @@
+# Članak 23.
+(1) Osiguravajuće društvo ne smije ponuditi bilo kakve dodatne isplate, odnosno povlastice nekoj osobi u svrhu nagovaranja te osobe da sklopi ugovor o mirovini.
+(2) Osiguravajuće društvo ne smije ponuditi bilo kakve dodatne isplate poslodavcu ili povezanoj osobi tog poslodavca u svrhu poticanja ili nagrađivanja tog poslodavca da nagovori bilo kojeg svog zaposlenika na sklapanje ugovora o mirovini s osiguravajućim društvom.
+(3) Osiguravajuće društvo ne smije ponuditi bilo kakve dodatne isplate sindikatu ili drugoj pravnoj osobi ili povezanoj osobi tog sindikata ili pravne osobe u svrhu poticanja ili nagrađivanja tog subjekta da nagovori ili zahtijeva od svojih članova da sklope ugovor o mirovini s osiguravajućim društvom.
+(4) Povlastice, odnosno dodatne isplate znače bilo kakve isplate poput dodatnih naknada, plaćanja naknade radi raskida s drugim osiguravajućim društvom ili poklanjanje fizičkih predmeta, osim isplata koje prirodno i izravno proizlaze iz statusa korisnika mirovine.

@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Ako je osiguravajuće društvo dužno isplatiti mirovinu ili zajamčene isplate, a osoba koja ima pravo na primitak tih isplata ne može se pronaći na adresi koja je dostavljena osiguravajućem društvu, ili ako osiguravajuće društvo nema podatke o bankovnom računu te osobe, osiguravajuće društvo će odmah od Središnjeg registra osiguranika, bez plaćanja naknade, zatražiti podatke o prebivalištu te osobe i/ili o njezinom bankovnom računu.
+(2) Ako imenovani korisnik nije pronađen u roku od jedne godine od kada je prvi put stekao pravo na isplate, već je pronađen nakon toga, ta osoba nema pravo na bilo kakve zaostale isplate, već samo ima pravo na isplate obračunate od dana kada je pronađena, ili od kada su utvrđeni točni podaci o njezinom bankovnom računu.

@@ -1,0 +1,30 @@
+# Članak 4.
+Izrazi u ovom Zakonu imaju sljedeća značenja:
+1. mirovinsko osiguravajuće društvo - znači dioničko druš-
+tvo ili društvo s ograničenom odgovornošću koje na tržištu mirovina nudi mirovinske programe i isplaćuje mirovine članovima obveznih, odnosno dobrovoljnih mirovinskih fondova,
+2. dobrovoljni mirovinski program - znači izjava osiguravatelja kojom se obvezuje da će članovima dobrovoljnoga mirovinskog fonda osigurati mirovine i druge vrste mirovinskih davanja dobrovoljnoga mirovinskog osiguranja, a ta izjava mora sadržavati postupak za određivanje mirovinske isplate, učestalost i trajnost isplata, naknadu za prekid članstva u mirovinskom programu, te ostale informacije o mirovinskom programu koje su važne za donošenje odluke pojedinaca o pristupanju dobrovoljnom mirovinskom programu,
+3. mirovinsko društvo - znači obvezno mirovinsko društvo ili dobrovoljno mirovinsko društvo,
+4. obvezno mirovinsko društvo - znači dioničko društvo ili društvo s ograničenom odgovornošću koje upravlja obveznim mirovinskim fondom,
+5. dobrovoljno mirovinsko društvo - znači dioničko društvo ili društvo s ograničenom odgovornošću koje upravlja dobrovoljnim mirovinskim fondom,
+6. mirovinski fond - znači obvezni mirovinski fond ili dobrovoljni mirovinski fond,
+7. obvezni fond - znači obvezni mirovinski fond kojeg osniva i kojim upravlja obvezno mirovinsko društvo,
+8. dobrovoljni fond - znači dobrovoljni mirovinski fond kojeg osniva i kojim upravlja dobrovoljno mirovinsko društvo,
+9. član fonda - znači osiguranik koji je prijavljen obveznom fondu ili osoba koja je pristupila dobrovoljnom fondu na temelju sklopljenog ugovora,
+10. mirovina - znači doživotnu mjesečnu, odnosno privremenu isplatu u novcu koju mirovinsko osiguravajuće društvo isplaćuje osobi koja ima pravo na nju na osnovi ugovora o mirovini,
+11. promjenjiva mirovina - znači doživotnu mjesečnu, odnosno privremenu isplatu u novcu koju mirovinsko osiguravajuće društvo isplaćuje osobi koja ima pravo na nju na osnovi ugovora o mirovini, a koja se mijenja sukladno kretanju vrijednosti sredstava tehničkih pričuva namijenjenih isplati ovih mirovina,
+12. zajamčena isplata - znači isplatu mirovine u zajamčenom razdoblju koju mirovinsko osiguravajuće društvo isplaćuje nekom korisniku na osnovi ugovora o mirovini,
+13. korisnik mirovine - znači osobu koja prima mirovinu od mirovinskog osiguravajućeg društva na osnovi ugovora o mirovini,
+14. ugovor o mirovini - znači ugovor o isplati mirovine koji sklapaju mirovinsko osiguravajuće društvo i član mirovinskog fonda,
+15. doznaka - znači doznaku iznosa s osobnog računa člana mirovinskog fonda na račun mirovinskoga osiguravajućeg društva,
+16. imenovani korisnik - znači osobu koja ima pravo na primanje isplata u zajamčenom razdoblju prema ugovoru o mirovini,
+17. datum umirovljenja - znači dan na koji član obveznoga mirovinskog fonda ostvaruje pravo na mirovinu prema Zakonu o mirovinskom osiguranju,
+18. u odnosu na određenu pravnu ili fizičku osobu prema ovome Zakonu (u daljnjem tekstu: subjekt), povezana osoba je:
+- dioničar ili grupa dioničara koji posjeduju više od 5% dionica, odnosno vlasničkih udjela, ili koji, iako posjeduju manji postotak od ovoga, mogu utjecati, izravno ili neizravno, na odluke koje donosi takav subjekt,
+- svaki subjekt u kojem prvi subjekt posjeduje, izravno ili neizravno, više od 5% dionica, odnosno vlasničkih udjela ili, koji, iako posjeduje manji postotak od ovoga, može utjecati izravno ili neizravno na odluke koje donosi takvo tijelo,
+- svaki drugi subjekt u kojem dioničar ili vlasnik udjela izravno ili neizravno posjeduje više od 5% dionica, odnosno vlasničkih udjela, ako u isto vrijeme isti dioničar ili vlasnik udjela posjeduje, također izravno ili neizravno, više od 5% dionica, odnosno vlasničkih udjela u prvom subjektu,
+- svaka fizička osoba ili osobe koje mogu, izravno ili neizravno utjecati na odluke subjekta,
+- svaki član uprave, nadzornog odbora ili drugog tijela subjekta, koje donosi odluke ili provodi nadzor,
+- u odnosu na svaku gore navedenu osobu, bračni drug ili srodnik do, uključujući, drugog koljena,
+19. sredstva tehničkih pričuva - znači odvojena sredstva koja su nastala uplatom doznaka koje je mirovinsko osiguravajuće društvo primilo, umanjenih za iznose koji služe u svrhu pokrivanja troškova u svezi s aktivnostima koje provodi mirovinsko osiguravajuće društvo,
+20. Središnji registar osiguranika - znači ustanovu osnovanu prema Zakonu o obveznim i dobrovoljnim mirovinskim fondovima,
+21. Agencija - znači Agencija za nadzor mirovinskih fondova i osiguranja, osnovana prema Zakonu o obveznim i dobrovoljnim mirovinskim fondovima.

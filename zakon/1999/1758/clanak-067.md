@@ -1,0 +1,6 @@
+# Članak 67.
+(1) Ako aktuar osiguravajućeg društva potvrdi u godišnjem financijskom izvješću da vrijednost sredstava tehničkih pričuva u obveznom mirovinskom osiguranju prelazi 110% vrijednosti svih tekućih i budućih obveza prema ugovorima o mirovinama koje je osiguravajuće društvo sklopilo, iznos koji prelazi tu vrijednost osiguravajuće društvo može raspodijeliti u skladu sa stavkom 3. i 4. ovoga članka.
+(2) Ako vrijednost sredstava tehničke pričuve u obveznom mirovinskom osiguranju prelazi 115% vrijednosti svih tekućih i budućih obveza prema ugovorima o mirovinama koje je osiguravajuće društvo sklopilo iznos koji prelazi tu vrijednost, osiguravajuće društvo je obvezno raspodijeliti u skladu sa stavkom 3. i 4. ovoga članka.
+(3) Osiguravajuće društvo će raspodijeliti višak sredstava utvrđenih u stavku 1. i 2. ovog članka tako da za jednu četvrtinu tog viška poveća interventne pričuve, a ostatak raspodijeli za pokriće obveza iz članka 41. stavak 1. ovoga Zakona.
+(4) Dio iznosa viška određen za isplate, raspodijelit će se korisnicima mirovina razmjerno iznosu doživotne mirovine.
+(5) Osiguravajuće društvo isplaćuje korisnicima mirovina višak u roku od 60 dana od dana prihvaćanja godišnjega financijskog izvješća od strane skupštine osiguravajućeg društva.

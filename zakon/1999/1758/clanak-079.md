@@ -1,0 +1,6 @@
+# Članak 79.
+(1) Kada rješenje o oduzimanju odobrenja za rad postane pravomoćno, Agencija se u roku od 15 dana javnim pozivom obraća postojećim osiguravajućim društvima da u roku od 15 dana podnesu ponudu o preuzimanju korisnika mirovina prema ugovorima o mirovini po osnovi obveznog mirovinskog osiguranja.
+(2) Agencija će u javnom pozivu naznačiti na koji način će se podmiriti manjak sredstava tehničke pričuve i izvore pokrića toga manjka, te iznos pripadajuće naknade osiguravajućem društvu.
+(3) Nakon podnijete ponude iz stavka 1. ovoga članka Agencija će izvršiti izbor osiguravajućeg društva kojemu će sva raspoloživa sredstva prenijeti rješenjem. Osiguravajuće društvo preuzima sve ugovore i nastavlja isplatu mirovina dotadašnjim korisnicima.
+(4) Ako na javni poziv iz stavka 1. ovoga članka niti jedno osiguravajuće društvo ne podnese ponudu o preuzimanju korisnika mirovina, Agencija će izvršiti izbor osiguravajućeg društva kojemu će, u smislu odredbe stavka 2. ovoga članka, podmiriti manjak sredstava tehničke pričuve i iznos pripadajuće naknade te sva raspoloživa sredstva prenijeti rješenjem.
+(5) Osiguravajuće društvo iz stavka 3. i 4. ovoga članka može preuzeti stare ugovore ili sklopiti nove ugovore o mirovini s tim da novo ugovoreni uvjeti ne mogu biti nepovoljniji.

@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Osiguravajuće društvo dostavlja Agenciji podatke o predloženim jediničnim iznosima mirovina i zajamčenim isplatama imenovanim korisnicima najkasnije jedan dan prije nego što su uvedene. Ti podaci moraju biti potanko obrazloženi sa navodima gospodarskih i aktuarskih parametara na kojima se temelje predloženi jedinični iznosi.
+(2) Podaci dostavljeni u skladu sa stavkom 1. ovoga članka sadrže mjesečne (godišnje) jedinične iznose mirovina i zajamčenih isplata za 1.000,00 kuna prenesenih u osiguravajuće društvo. Mjesečni (godišnji) jedinični iznosi mirovina i zajamčenih isplata korisnicima naznačuju se odvojeno za različite vrste i oblike mirovina i različite dobne skupine.
+(3) Odredba stavka 1. ovoga članka odnosi se i na bilo kakvu promjenu jediničnih iznosa mirovina ili zajamčenih isplata.

@@ -1,0 +1,5 @@
+# Članak 36.
+(1) Korisnik mirovine mora odabrati isplatu mirovine u sklopu obveznog mirovinskog osiguranja u obliku iz članka 30. stavka 1. točke 1. ili 3. ovoga Zakona, ako u vrijeme umirovljenja nema bračnog druga.
+(2) Ako na dan sklapanja ugovora o mirovini bračni drug korisnika mirovine ima manje od 50 godina života, ne može se ugovoriti isplata mirovine prema članku 30. stavku 1. točki 2. i 4. ovoga Zakona.
+(3) U slučajevima iz stavka 2. ovoga članka korisnik mirovine dužan je izabrati pojedinačnu mirovinu sa zajamčenim razdobljem iz članka 30. stavka 1. točke 3. ovoga Zakona pri čemu za imenovanog korisnika mora imenovati svog bračnog druga.
+(4) Korisnik mirovine mora odabrati isplatu mirovine u obliku iz članka 30. stavka 1. točke 2. ili 4. ovoga Zakona ako u vrijeme umirovljenja ima bračnog druga koji je stariji od 50 godina života, koji nije zaposlen i ne ostvaruje druge redovite prihode. Ako je bračni drug zaposlen ili ostvaruje druge redovite prihode, korisnik mirovine može odabrati isplatu mirovine u obliku iz članka 30. stavka 1. točke 1. ili 3. ovoga Zakona samo uz suglasnost bračnog druga.
