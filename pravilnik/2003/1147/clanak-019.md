@@ -1,0 +1,7 @@
+# Članak 19.
+(1) Kada su sredstva više uplaćenog doprinosa knjižena na osobnom računu osiguranika i ispunjeni su uvjeti za povrat, REGOS utvrđuje broj obračunskih jedinica za zahtijevani iznos povrata.
+(2) Broj obračunskih jedinica za zahtijevani iznos povrata REGOS utvrđuje prema vrijednosti obračunske jedinice obveznog mirovinskog fonda u kojem je osiguranik bio član na dan izvršenog prijenosa sredstava na osobni račun.
+(3) REGOS iznos povrata izračunava množenjem utvrđenog broja obračunskih jedinica osiguranika za zahtijevani povrat iz stavka 2. ovoga članka, s vrijednošću obračunske jedinice obveznog mirovinskog fonda čiji je osiguranik član na dan donošenja odluke o opravdanosti zahtjeva.
+(4) Ukoliko je osiguranik, od dana izvršene uplate obveznika do dana donošenja odluke o opravdanosti zahtjeva, mijenjao obvezni mirovinski fond, REGOS je dužan utvrđeni broj obračunskih jedinica iz stavka 3. ovoga članka, ispraviti sukladno odnosima vrijednosti obračunskih jedinica obveznih mirovinskih fondova u kojima je osiguranik bio član uključivši i obvezni mirovinski fond u kojem je član na dan donošenja odluke o opravdanosti zahtjeva.
+(5) REGOS je dužan obavijestiti obvezno mirovinsko društvo, da u roku od tri (3) radna dana od dana primitka obavijesti, doznači izračunati iznos povrata u korist prolaznog računa.
+(6) REGOS je dužan izvršiti povrat više uplaćenog doprinosa sljedeći radni dan od dana doznake sredstava iz stavka 5. ovoga članka prema zahtjevu obveznika, uz objašnjenje vrijednosnog odstupanja vraćenog iznosa u odnosu na zahtijevani iznos.
