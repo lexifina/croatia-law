@@ -1,0 +1,1 @@
+Na osnovi članka 85. Zakona o zdravstvenom osiguranju (»Narodne novine«, broj 94/01. i 98/02.) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 16/02. i 24/02.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 15. sjednici održanoj 23. rujna 2002. godine, donijelo je
