@@ -1,0 +1,2 @@
+# Članak 17.
+Pravne i fizičke osobe koje obavljaju poslove socijalne skrbi pod uvjetima i na način propisan Zakonom o socijalnoj skrbi i ispunjavaju propisane uvjete za prijam vježbenika sukladno članku 11.-13. Pravilnika o vježbeničkom stažu stručnih djelatnika u ustanovama socijalne skrbi, mogu primiti na vježbenički staž po jednog vježbenika na jednog zaposlenog stručnog djelatnika istog usmjerenja.
