@@ -1,0 +1,8 @@
+## Zasnivanje pretplatničkog odnosa
+# Članak 26.
+(1) Pretplatnikom može postati pravna ili fizička osoba ako postoje tehničke mogućnosti za priključenje pretplatničke terminalne opreme na telekomunikacijsku mrežu. Pravna ili fizička osoba dužna je osigurati ispravnu pretplatničku instalaciju i nabaviti pretplatničku terminalnu opremu koja zadovoljava tehničke uvjete i norme za tu instalaciju i opremu i ima odgovarajuči certifikat.
+(2) Davatelj usluga, kada prihvati zahtjev za priključenje terminalne opreme, mora odmah a najkasnije za osam dana, izvijestiti pretplatnika kako će unutar propisanog roka, od 30 dana, obaviti priključenje terminalne opreme.
+(3) Priključenje pretplatničke terminalnc opreme na telekomunikacijsku mrežu obavlja ovlašteni djelatnik vlasnika telekomunikacijske mreže koji ujedno kontrolom kvalitete zapisnički konstatira da je instalacija kao dio pretplatničke terminalne opreme i ternlinalnog uređaja u skladu s tehničkim propisima.
+(4) Prava i obveze iz pretplatničkog odnosa počinju teći kada davatelj usluga priključi pretplatničku terminalnu opremu na telekomunikacijsku mrežu.
+(5) Pretplatnička terminalna oprema treba, u pravilu, biti priključena na najbliži komutacijski čvor u mjestu na čijem se području nalazi. U opravdanim slučajevima, davatelj usluga, na zahtjev pretplatnika može dopustiti priključenje pretplatničke terminalne opreme na drugi komutacijski čvor, a ne na najbliži komutacijski čvor u mjestu gdje se pretplatnička terminalna oprema nalazi.
+(6) Ako pretplatnik ne osigura uvjete za priključenje pretplatničke terminalne opreme (instalacija u zgradi, telekomunikacijski uređaj) u roku od 30 dana od dana primitka obavijesti da je njegov zahtjev prihvaćen, smatrat će se da pretplatnički odnos nije zasnovan.
