@@ -1,0 +1,1 @@
+Temeljem članka 2. stavak 1. Uredbe o načinu utvrđivanja likvidnosti u plaćanjima s inozemstvom ("Narodne novine", br. 71/91 i 6/92) i članka 67. pod 26) Uredbe o Narodnoj banci Hrvatske ("Narodne novine", br. 71/91) Savjet Narodne banke Hrvatske, na sjednici odrianoj 5. ožujka 1992. , godine, donio je
