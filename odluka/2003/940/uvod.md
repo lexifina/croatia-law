@@ -1,0 +1,1 @@
+Na temelju članka 80. stavka 1. Ustava Republike Hrvatske i članka 80. Zakona o sigurnosnim službama Republike Hrvatske (»Narodne novine«, br. 32/02. i 38/02.), Hrvatski sabor na sjednici 7. svibnja 2003., donio je
