@@ -1,0 +1,6 @@
+# Članak 26.
+POSEBNOSTI KOJE SE ODNOSE NA NJEMAČKOG NOSITELJA
+(1) Osnova za utvrđivanje osobnih podataka o plaći jesu podaci o plaći koji proizlaze iz njemačkih pravnih propisa.
+(2) Ako je pravo na davanje prema njemačkim pravnim propisima uvjetovano činjenicom da su određena razdoblja osiguranja navršena u određenom vremenskom razdoblju, te ako ti propisi nadalje predviđaju da se to vremensko razdoblje produžava na osnovi određenih činjeničnih stanja ili razdoblja osiguranja, za produženje će se uzeti u obzir i razdoblja osiguranja navršena prema pravnim propisima druge države ugovornice ili usporediva činjenična stanja u drugoj državi ugovornici. Usporediva činjenična stanja jesu razdoblja primanja invalidske ili starosne mirovine, davanja za slučaj bolesti, nezaposlenosti ili nesreće na poslu (s izuzetkom renti), prema pravnim propisima Republike Hrvatske, kao i razdoblja odgoja djece u Republici Hrvatskoj.
+(3) Razdoblja osiguranja koja se uzimaju u obzir prema odredbi o zbrajanju razdoblja osiguranja (članak 25. stavak 1.) uračunat će se samo u stvarnom trajanju.
+(4) Ako oslobađanje od obveze osiguranja ovisi o određenom broju uplaćenih doprinosa, pri donošenju odluke o oslobađanju od obveze osiguranja uzet će se u obzir i razdoblja uplaćenih doprinosa, priznata prema hrvatskim pravnim propisima.

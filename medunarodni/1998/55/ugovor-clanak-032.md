@@ -1,0 +1,4 @@
+# Članak 32.
+DOSTAVA PISANIH PODNESAKA I SLUŽBENI JEZICI
+(1) Nositelji, udruženja nositelja, tijela i sudovi država ugovornica mogu pri provedbi ovog ugovora i pravnih propisa na koje se Ugovor odnosi (članak 2. stavak 1.), međusobno i sa zainteresiranim osobama i njihovim zastupnicima komunicirati izravno na svojim službenim jezicima. Pravni propisi o korištenju prevoditelja vrijede i dalje. Presude, rješenja i ostali pisani podnesci mogu se osobi koja boravi na području druge države ugovornice dostavljati izravno preporučenim pismom s povratnicom. Treća rečenica vrijedi i za presude, rješenja i ostale pisane podneske koji se trebaju dostaviti, a koji se odnose u primjeni pravnih propisa o zbrinjavanju žrtava rata i drugih propisa prema kojima se ti propisi trebaju primjenjivati.
+(2) Nositelji, udruženja nositelja, tijela i sudovi država ugovornica ne smiju odbiti podneske i isprave zato što su napisani na službenom jeziku druge države ugovornice.

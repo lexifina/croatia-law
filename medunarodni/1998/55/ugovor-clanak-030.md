@@ -1,0 +1,6 @@
+# Članak 30.
+PRAVA NA NADOKNADU ŠTETE OD TREĆIH OSOBA
+(1) Ima li osoba, koja prema pravnim propisima jedne države ugovornice treba dobiti nadoknadu za štetu nastalu na području suvereniteta druge države ugovornice, prema njenim propisima pravo na nadoknadu štete od treće osobe, tada pravo na nadoknadu prelazi na nositelja prve države ugovornice, prema pravnim propisima koji za njega vrijede; druga država ugovornica priznaje taj prijelaz.
+(2) Ima li nositelj jedne države ugovornice, prema njenim pravnim propisima, izvorno pravo na nadoknadu štete od treće osobe, druga država ugovornica to priznaje.
+(3) Ako pravo na nadoknadu u pogledu istovrsnih davanja za isti slučaj štete ima nositelj i jedne i druge države ugovornice, tada nositelj jedne države ugovornice na traženje nositelja druge države ugovornice podnosi i za njega zahtjev za nadoknadu štete. Treća osoba može potraživanja obaju nositelja namiriti plaćanjem s oslobađajućim učinkom jednom ili drugom nositelju. U međusobnom odnosu nositelji su se dužni namiriti razmjerno davanjima koja moraju pružiti.
+(4) Obuhvaća li pravo neke osobe na nadoknadu štete i pravo na nadoknadu doprinosa za osiguranje nositelja davanja, tada i to pravo na nadoknadu štete prelazi na nositelja davanja prve države ugovornice, prema pravnim propisima koji za njega vrijede.

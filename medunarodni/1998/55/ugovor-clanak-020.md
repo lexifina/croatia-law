@@ -1,0 +1,4 @@
+# Članak 20.
+PRIZNAVANJE NESREĆE NA POSLU (PROFESIONALNE BOLESTI)
+(1) Predviđaju li pravni propisi jedne države ugovornice da se pri utvrđivanju stupnja smanjenja sposobnosti za privređivanje ili pri utvrđivanju prava na davanje zbog nesreće na poslu (profesionalne bolesti) u smislu tih pravnih propisa uzmu u obzir i druge nesreće na poslu (profesionalne bolesti), tada to vrijedi i za nesreće na poslu (profesionalne bolesti) koje spadaju pod pravne propise druge države ugovornice, kao da spadaju pod pravne propise prve države ugovornice. S nesrećama na poslu koje se uzimaju u obzir izjednačavaju se one, koje se prema drugim propisima uračunavaju kao nesreće ili drugi slučajevi za nadoknadu štete.
+(2) Nositelj nadležan za nadoknadu štete za nastali osigurani slučaj utvrđuje svoje davanje prema stupnju smanjenja sposobnosti za privređivanje uslijed nesreće na poslu (profesionalne bolesti), koje mora uzeti u obzir prema pravnim propisima koji za njega vrijede.

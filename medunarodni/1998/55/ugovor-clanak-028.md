@@ -1,0 +1,4 @@
+# Članak 28.
+ADMINISTRATIVNA I PRAVNA POMOĆ I LIJEČNIČKI PREGLEDI
+(1) Nositelji, udruženja nositelja i tijela država ugovornica pružaju si uzajamnu pomoć pri provedbi ovog ugovora i pravnih propisa na koje se Ugovor odnosi (članak 2. stavak 1.), kao da primjenjuju vlastite pravne propise. Prva rečenica jednako vrijedi i za uzajamnu administrativnu i pravnu pomoć sudova država ugovornica. Ta je pomoć besplatna. Nadoknađuju se jedino izdaci u novcu, s izuzetkom poštarine.
+(2) Stavak 1. rečenica 1. vrijedi i za liječničke preglede. Troškove pregleda, putne troškove, gubitak zarade, troškove smještaja radi promatranja i ostale troškove u novcu, osim poštarine, nadoknađuje služba koja je tražila pregled. Troškovi se ne nadoknađuju ako je liječnički pregled u interesu nadležnih nositelja obiju država ugovornica.
