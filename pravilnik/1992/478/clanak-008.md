@@ -1,0 +1,2 @@
+# Članak 8.
+Utvrdivanje pripadajućeg kontingenta prema kriterijima iz prethodnog članka vršit će se za one vrste dozvola čiji broj ne zadovoljava potrebe za prijevozima (u daljem tekstu: "kritične" dozvole). Spisak dozvola iz prethodnog stavka utvrđuje Komisija krajem godine za narednu godinu, a tokom godine ga, po potrebi, može mijenjati. Podjela dozvola kojih ima dovoljno vršit će se slobodno, prema zahtjevu domaćeg prijevoznika.

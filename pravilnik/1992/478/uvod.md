@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 3. i članka 42. stavka 2. Zakona o prijevozu u međunarodnom cestovnom prometu ("Narodne novine", br. 53/91) i članka 91. Zakona o upravi ("Narodne novine", br. 1B/78, 50/78, 29/85, 48/85, 41/90. i 47/90) ministar prometa i veza donosi

@@ -1,0 +1,2 @@
+# Članak 9.
+Za svaku vrstu "kritičnih" dozvola utvrđuje se rezerva koja iznosi najmanje 5% od ukupnog broja dozvola odnosne vrste i služi za intervenciju u izvanrednim okolnostima kao što su: podmirenje potreba domaćih prijevoznika koji su dobili licencu nakon zadnje podjele dozvola, sezonski utjecaji, promjene na tržištu usluga prijevoza i sl. Rezervu iz stavka 1. ovoga članka rasporeduje Hrvatska gospodarska komora uz suglasnost Ministarstva prometa i veza.
