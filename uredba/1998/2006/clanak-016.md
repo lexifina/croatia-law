@@ -1,0 +1,2 @@
+# Članak 16.
+3.2. Odjel za odnose s međunarodnim turističkim organizacijama i udruženjima sudjeluje u radu međunarodnih organizacija i udruženja (Svjetska turistička organizacija, Svjetska trgovinska organizacija, Intergrupa za turizam Europskog Parlamenta, Srednjeeuropska inicijativa i druge međunarodne organizacije); prati i analizira utjecaj svjetskih turističkih organizacija na razvoj turizma u Hrvatskoj; izrađuje analize i izvješća o kretanjima kod međunarodnih turističkih organizacija i udruženja.

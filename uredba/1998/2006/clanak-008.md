@@ -1,0 +1,2 @@
+# Članak 8.
+1.4. Odjel za malo poduzetništvo u turizmu sustavno definira mjere za poticanje malog poduzetništva u turizmu; pruža svakovrsne informacije i savjetodavne usluge važne za razvoj i unapređenje malog poduzetništva u turizmu; prati stanje i kretanje u području malog poduzetništva u turizmu; surađuje s odgovarajućim udruženjima, savezima i drugim institucijama u svezi s razvojem malog poduzetništva u turizmu; prati propise, predlaže mjere te daje prijedloge prilikom izmjena propisa vezanih za malo poduzetništvo u turizmu.

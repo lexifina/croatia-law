@@ -1,0 +1,2 @@
+# Članak 15.
+3.1. Odjel za međunarodnu turističku suradnju predlaže politiku razvoja bilateralne suradnje i vodi brigu o njezinom provođenju; obavlja sve potrebne radnje iz svoje nadležnosti u svezi sklapanja ugovora o turističkoj suradnji na bilateralnoj osnovi; analitički prati provođenje svakog bilateralnog ugovora; priprema i provodi sve potrebne radnje na pripremi međunarodnih posjeta; izrađuje prijedloge, mišljenja i izvješća glede međunarodne turističke bilateralne suradnje i predlaže mjere za njeno unapređenje.

@@ -1,0 +1,2 @@
+# Članak 21.
+2.1.2. Odsjek za sustav turističkih zajednica prati postupak ustrojavanja turističkih zajednica na području Republike Hrvatske; sudjeluje u izradi nacrta zakona i podzakonskih akata vezanih za ustroj i rad turističkih zajednica; daje stručna mišljenja i objašnjenja u svezi s primjenom i provedbom zakona vezanih za rad turističkih zajednica; obavlja poslove vezane za upis turističkih zajednica u Upisnik turističkih zajednica; pregledava statute turističkih zajednica i obavlja nadzor nad radom turističkih zajednica; obavlja i druge poslove iz svog djelokruga.

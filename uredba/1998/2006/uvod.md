@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93) i Uredbe o načelima za unutarnje ustrojstvo i o radnom vremenu tijela državne uprave ("Narodne novine", br. 37/94 i 25/96.), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 1998. godine, donijela
