@@ -1,0 +1,9 @@
+## Dodatna ograniČenja na dozvoljena ulaganja mirovinskih fondova
+# Članak 2.
+(1) Dugoročni vrijednosni papiri izdani od strane Republike Hrvatske te jedinica lokalne i područne (regionalne) samouprave moraju biti uvršteni u službenu kotaciju (prvu kotaciju) na burzi u Republici Hrvatskoj odnosno na burzi ili uređenom javnom tržištu u državama OECD-a.
+(2) Vrijednosni papiri izdani od strane dioničkih društava i dionice zatvorenih investicijskih fondova registriranih u Republici Hrvatskoj moraju biti uvrštene u službenu kotaciju (prvu kotaciju) na burzi u Republici Hrvatskoj.
+(3) Imovinu mirovinskog fonda koja se ulaže u inozemstvo mogu činiti samo oni inozemni vrijednosni papiri, koji su izdani od strane državnih i nedržavnih subjekata zemalja OECD-a s time da ta zemlja ima dugoročni kreditni rejting za dug izdan u stranoj valuti najmanje A prema agenciji Standard & Pooržs i A2 prema agenciji Moodyžs.
+(4) U bankovne depozite u jednoj ili više međusobno povezanih banaka može biti uloženo najviše polovina zakonom dozvoljenog iznosa.
+(5) Vrijednosne papire jednog izdanja mirovinski fond može stjecati samo ako njihov ukupni nominalni iznos ne prelazi 5% od ukupnog nominalnog iznosa roda tog vrijednosnog papira, osim u slučaju dužničkih vrijednosnih papira, koji su izdani od strane Republike Hrvatske.
+(6) Vrijednosne papire istog izdavatelja mirovinski fond može stjecati samo ako njihov ukupni nominalni iznos ne prelazi 10% od ukupnog nominalnog iznosa svih vrijednosnih papira istog izdavatelja, osim u slučaju dužničkih vrijednosnih papira koji su izdani od strane Republike Hrvatske.
+(7) U dužničke vrijednosne papire izdane od strane jedinica lokalne i područne (regionalne) samouprave te dioničkih društava registriranih u Republici Hrvatskoj, a koje nemaju kreditni rejting ili garanciju banke, može biti uloženo najviše 10% imovine mirovinskog fonda.
