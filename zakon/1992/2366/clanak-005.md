@@ -1,0 +1,2 @@
+# Članak 5.
+Sredstva ostvarena prodajom društvenog kapitala poduzeća koja prema odredbi članka 2. i 3. ovoga Zakona podliježu pretvorbi prema Zakonu o pretvorbi društvenih poduzeća uključujući i sredstva koja Hrvatski fond za privatizaciju ostvari prodajom udjela odnosno dionica tih poduzeća, uplaćuju se na poseban račun Grada Zagreba, odnosno općine kojeg su u tu svrhu dužni osnovati Grad Zagreb odnosno općina i koriste se za razvoj djelatnosti iz članka 1. ovoga Zakona.

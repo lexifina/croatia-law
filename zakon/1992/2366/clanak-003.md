@@ -1,0 +1,2 @@
+# Članak 3.
+Ako poduzeće pored djelatnosti iz članka 1. ovoga Zakona obavlja i druge gospodarske djelatnosti a uelio kapitala na kojem se obavljaju te druge gospodarske djelatnosti čini više od pedeset posto vrijednosti ukupnog kapitala poduzeća izvršit će pretvorbu prema odredbama Zakona o pretvorbi društvenih poduzeća, a Grad Zagreb, odnosno općina postat će vlasnici udjela, odnosno dionica koje odgovaraju udjelu kapitala na kojem se obavljaju djelatnosti iz članka 1. ovoga Zakona.
