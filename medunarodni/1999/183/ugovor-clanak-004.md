@@ -1,0 +1,12 @@
+# Članak 4.
+Novi depozit
+1. a) Ako Ovlašteno tijelo za međunarodni depozit ne može dostavljati uzorke deponiranog mikroorganizma iz bilo kojeg razloga, a osobito:
+i) ako taj mikroorganizam više nije živ ili
+ii) ako dostava uzoraka zahtijeva da se oni pošalju u inozemstvo, a slanje uzoraka u inozemstvo ili njihov primitak u inozemstvo sprečavaju uvozna ili izvozna ograničenja, to tijelo mora, odmah nakon što utvrdi da ne može dostavljati uzorke, o toj nemogućnosti obavijestiti deponenta navodeći razlog zbog kojeg to ne može učiniti, a deponent ima pravo, uz iznimku odredbe iz stavka 2. i kako je predviđeno ovim stavkom, ponovno deponirati mikroorganizam koji je bio izvorno deponiran.
+b) Novi depozit obavlja se kod Ovlaštenog tijela za međunarodni depozit kod kojeg je bio obavljen izvorni depozit, s time:
+i) da se mora obaviti kod nekog drugog Ovlaštenog tijela za međunarodni depozit kad ustanovi kod koje je obavljen izvorni depozit prestaje status Ovlaštenog tijela za međunarodni depozit, u cijelosti ili u pogledu vrste mikroorganizma kojoj pripada deponirani mikroorganizam ili, kad Ovlašteno tijelo za međunarodni depozit kod kojeg je obavljen izvorni depozit prekida, privremeno ili trajno, s obavljanjem svoje funkcije u pogledu deponiranih mikroorganizama;
+ii) da se može obaviti kod nekog drugog Ovlaštenog tijela za međunarodni depozit u slučaju navedenom u točki a) ii).
+c) Svaki novi depozit mora biti popraćen izjavom potpisanom od strane deponenta u kojoj se navodi da je novodeponirani mikroorganizam isti kao i izvorno deponirani mikroorganizam. Ako je navod deponenta sporan, teret dokazivanja utvrđuje se na temelju mjerodavnog prava.
+d) Uz iznimku odredaba iz točaka od a) do c) i točke e), novi depozit tretira se kao depozit koji je bio obavljen na datum izvornog depozita ako je u svim prethodnim izjavama o životnoj sposobnosti izvorno deponiranog mikroorganizma bilo navedeno da je mikroorganizam živ i ako je novi depozit objavljen u roku od tri mjeseca od datuma na koji je deponent primio notifikaciju navedenu u točki a).
+e) Ako se primjenjuje točka b) i), a deponent ne primi notifikaciju navedenu u točki a) u roku od šest mjeseci od datuma na koji je Međunarodni ured objavio prestanak, ograničenje ili prekid iz točke b) i), tromjesečni rok naveden u točki d) računa se od datuma te objave.
+2. Pravo navedeno u stavku 1., točki a) ne postoji, kad je deponirani mikroorganizam prenesen nekom drugom Ovlaštenom tijelu za međunarodni depozit, tako dugo dok to Ovlašteno tijelo može dostavljati uzorke takva mikroorganizma.
