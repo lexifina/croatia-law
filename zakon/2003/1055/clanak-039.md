@@ -1,0 +1,3 @@
+# Članak 39.
+Novčanom kaznom od 2.000,00 do 10.000,00 kuna kaznit će se za prekršaj poslovni subjekt i dijelovi poslovnih subjekata koji obavljaju poljoprivrednu proizvodnju, u slučaju da se radi o fizičkoj osobi, ako ne dostavi podatke koji se od njega traže ili ne dostavi podatke u određenom roku, ako dade netočne ili nepotpune podatke ili onemogući provjeru podataka koji se prikupljaju u skladu s ovim Zakonom (članak 12.).
+Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u poslovnom subjektu i dijelu poslovnog subjekta koji obavlja poljoprivrednu proizvodnju iz stavka 1. ovoga članka novčanom kaznom od 1.000,00 do 5.000,00 kuna.

@@ -1,0 +1,3 @@
+# Članak 2.
+Svrha je ovoga Zakona prikupljanje, obrada i diseminacija statističkih podataka o poljoprivrednoj proizvodnji u Republici Hrvatskoj.
+Popis obuhvaća prikupljanje podataka o zemljišnom fondu, načinu korištenja poljoprivrednog zemljišta, površini voćnjaka i vinograda, voćnih stabala i trsova vinove loze, navodnjavanju, gnojidbi, korištenju sredstava za zaštitu bilja, poljoprivrednim strojevima i objektima, stočnom fondu, radnoj snazi u poljoprivredi, dopunskim djelatnostima u poljoprivrednim kućanstvima, prodaji poljoprivrednih proizvoda te o prilagodbi na ekološku poljoprivrednu proizvodnju i aspektima zaštite okoliša.
