@@ -1,0 +1,2 @@
+# Članak 3.
+Državljani ugovornih stranaka koji su nositelji važećih diplomatskih, službenih ili posebnih putovnica, a koji su na teritoriju druge ugovorne stranke djelatnici diplomatske misije, konzularnog ureda ili međunarodne organizacije, kao i članovi njihove obitelji koji s njima žive u zajedničkom domaćinstvu i koji su nositelji diplomatskih, službenih ili posebnih putovnica, mogu tijekom obavljanja službene dužnosti ući, boraviti i napustiti teritorij druge ugovorne stranke bez vize.

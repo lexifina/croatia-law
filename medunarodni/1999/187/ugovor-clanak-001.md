@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Državljani Republike Hrvatske koji su nositelji važećih diplomatskih ili službenih putovnica izdanih od Vlade Republike Hrvatske, mogu ući, tranzitirati i boraviti na teritoriju Kraljevine Maroko do devedeset (90) dana, računajući od dana ulaska.
+(2) Državljani Kraljevine Maroko koji su nositelji važećih diplomatskih, službenih ili posebnih putovnica izdanih od Vlade Kraljevine Maroko, mogu ući, tranzitirati i boraviti na teritoriju Republike Hrvatske do devedeset (90) dana, računajući od dana ulaska.
+(3) Po okončanju ovog razdoblja, državljani ugovornih stranaka koji su nositelji putovnica naznačenih u prethodnim stavcima koji žele produžiti svoj boravak u drugoj ugovornoj stranci, dužni su pribaviti odgovarajuću vizu ili dozvolu boravka od nadležnih tijela te ugovorne stranke, u skladu s važećim propisima u odnosnoj ugovornoj stranci.
