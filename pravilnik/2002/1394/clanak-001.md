@@ -1,0 +1,3 @@
+## Sadržaj Pravilnika
+# Članak 1.
+Ovim se Pravilnikom uređuje osnivanje i upravljanje Fondom za telekomunikacijske usluge (u daljnjem tekstu: Fond) te se propisuju način određivanja i visina nadoknade troškova iz sredstava Fonda davateljima osnovnih telekomunikacijskih usluga, koji na tržištu tih usluga nemaju znatniju tržišnu snagu, način i uvjeti podnošenja i rješavanja zahtjeva za nadoknadu troškova, kao i mjerila za korištenje sredstava Fonda u svrhu sustavnog poticanja i potpore istraživanja i razvoja novih telekomunikacijskih usluga, tehnologija i projekata od interesa za Republiku Hrvatsku, koji još nemaju potpunu komercijalnu primjenu.
