@@ -1,0 +1,3 @@
+## II. RJEŠENJA O ODOBRENJU ZA PREKOMJERNU UPORABU JAVNE CESTE
+# Članak 4.
+Ako je javna cesta izložena povećanom prometnom opterećenju iz članka 2. stavak 2. ovoga Pravilnika, pravne ili fizičke osobe u vezi s čijim djelatnostima dolazi do njene prekomjerne uporabe (u daljnjem tekstu: korisnici), dužne su podnijeti zahtjev Hrvatskoj upravi za ceste ili županijskoj upravi za ceste odnosno korisniku koncesije (u daljnjem tekstu: nadležna uprava za ceste), za dobivanje rješenja o odobrenju za prekomjernu uporabu javne ceste te platiti naknadu za prekomjernu uporabu javne ceste (u daljnjem tekstu: naknada).
