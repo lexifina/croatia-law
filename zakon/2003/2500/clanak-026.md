@@ -1,0 +1,2 @@
+# Članak 26.
+U postupku ocjenjivanja na temelju podataka, koje sukladno s ovim Zakonom predlaže predlagatelj/podnositelj, te na temelju najnovijih potvrđenih znanstvenih spoznaja, dolazi se do saznanja o opasnostima djelovanja i ponašanja kemikalije u okolišu, ocjeni izloženosti ljudi, imovine ili okoliša, te se po potrebi izrađuju procjene rizika koji kemikalija predstavlja za zdravlje ljudi, imovinu i okoliš i predlažu mjere kojima se smanjuju ili snižavaju štetni učinci kemikalije na prihvatljivu razinu.

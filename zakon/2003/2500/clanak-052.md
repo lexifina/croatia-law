@@ -1,0 +1,4 @@
+## IX. ZAŠTITA ZDRAVLJA LJUDI, GOSPODARSKIH DOBARA I OKOLIŠA
+# Članak 52.
+Ministar u suglasnosti s ministrima nadležnim za zdravstvo, rad i socijalnu skrb, zaštitu okoliša i prostornog uređenja, poljoprivredu i šumarstvo i unutarnje poslove može zabraniti ili ograničiti promet ili uporabu opasnih kemikalija u Republici Hrvatskoj, čiji promet i uporabu uređuju propisi drugih država ili neki drugi međunarodni sporazumi.
+Ako kemikalije, njihovi sastojci ili produkti razgradnje nepovoljno utječu na zdravlje ljudi, gospodarska dobra ili okoliš, neovisno jesu li zbog navedenih učinaka svrstane u skladu s člankom 2. točkom 8. ovoga Zakona kao opasne ili ne, ministar u suglasnosti s ministrima nadležnim za zdravstvo, zaštitu okoliša i prostornog uređenja, poljoprivredu i šumarstvo, unutarnje poslove i obranu, može odlučiti da li se takve kemikalije, ili proizvodi, koji ih sadrže, smiju stavljati u promet, odnosno pod kojim uvjetima ih se smije koristiti.

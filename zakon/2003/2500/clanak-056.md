@@ -1,0 +1,3 @@
+# Članak 56.
+Radi provođenja mjera, donesenih na temelju članka 52., 54. i 55. ovoga Zakona redovito se prati promet i uporaba kemikalija, kao i njihovih produkata razgradnje te njihov put u okolišu i živim organizmima (u daljnjem tekstu: monitoring). Monitoring koordinira Ured, provode ga ovlašteni zavodi, na temelju godišnjeg programa i plana, koji se radi u suglasnosti s ministrom.
+Uvjete glede stručno-tehničke osposobljenosti zavoda za provođenje monitoringa iz prijašnjeg stavka propisuje ministar u suglasnosti s ministrima nadležnim za zdravstvo, rad i socijalnu skrb, zaštitu okoliša i prostornog uređenja, poljoprivredu i šumarstvo i unutarnje poslove.

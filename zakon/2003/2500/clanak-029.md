@@ -1,0 +1,5 @@
+# Članak 29.
+Pri odabiru ambalaže u kojoj se opasna kemikalija stavlja u promet, mora se voditi računa o svojstvima kemikalije, te njenoj namjeni i načinu uporabe. Opasne kemikalije moraju biti tako označene da omogućavaju uočavanje opasnosti i osobama s posebnim potrebama. Takve opasne kemikalije moraju biti pakirane u ambalaži, koja je opremljena posebnim zatvaračima, koji onemogućavaju otvaranje djeci. Prikladnost ambalaže provjeravaju ovlašteni laboratoriji, koji ispunjavaju uvjete u odnosu na opremljenost, osposobljenost osoblja i garanciju kvalitete. Detaljnije uvjete propisuje ministar.
+Pakiranje i označavanje moraju biti nedvojbeni.
+Opasne kemikalije moraju biti opremljene natpisima na hrvatskom jeziku.
+Uputstvo za uporabu opasnih kemikalija, koje su razvrstane u neku od skupina (f) do (n) iz članka 2. točke 8. ovoga Zakona, a koje su namijenjene za opću uporabu, treba sadržavati napomenu korisniku da od prodavača zahtijeva informacije za sigurno rukovanje kemikalijom te o postupcima za pružanje prve pomoći u slučaju nesreće (sigurnosni list).

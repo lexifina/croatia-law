@@ -1,0 +1,5 @@
+# Članak 36.
+Ako količina prijavljene tvari, koju podnositelj prijave stavlja u promet, godišnje ili ukupno od početka stavljanja u promet, prijeđe granične količine, podnositelj prijave dužan je priložiti Uredu rezultate dodatnih ispitivanja.
+Ured može uzeti u obzir ranije rezultate pokusa rađenih na kralježnjacima, za istu kemikaliju, ako se podnositelj prijave, koji je obavio pokuse za istu kemikaliju s time slaže.
+Ukoliko podnositelj prijave ne priloži rezultate dodatnih ispitivanja iz stavka 1. ovoga članka, Ured može privremeno zabraniti stavljanje tvari u promet.
+Propise o graničnim količinama nove tvari, kojima se zahtijevaju dodatna ispitivanja, o vrsti, opsegu ispitivanja i o metodama za ispitivanje te uvjetima, pod kojim se mogu uporabiti podaci, izrađeni za istu svrhu od drugog podnositelja zahtjeva, donosi ministar u suglasnosti s ministrima nadležnim za zdravstvo, rad i socijalnu skrb, zaštitu okoliša i prostornog uređenja, poljoprivrede i šumarstva, i unutarnjih poslova i obrane.
