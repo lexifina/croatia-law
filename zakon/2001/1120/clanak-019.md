@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Kada je nužno osigurati redovitu i sigurnu opskrbu energijom, kako bi se spriječile ili otklonile veće štete u poslovanju pravnih osoba i životu i radu fizičkih osoba a osobito opasnost koja može nastati za život i zdravlje građana, Vijeće za regulaciju može rješenjem naložiti energetskom subjektu kome je oduzeta dozvola za obavljanje energetske djelatnosti ili koji je prestao obavljati djelatnost, da svoje objekte, uređaje, mrežu, odnosno sustav preda na korištenje drugom energetskom subjektu, osim ako je dozvola za obavljanje djelatnosti oduzeta zbog sigurnosnih nedostataka objekata, uređaja, mreže, odnosno sustava.
+(2) Rješenjem iz stavka 1. ovoga članka određuje se naknada koju će platiti energetski subjekt kome su dani na korištenje objekti, uređaji, mreža odnosno sustav. Naknada se uplaćuje na poseban račun Ministarstva.
+(3) Rješenjem iz stavka 1. ovoga članka određuje se naknada koju će Ministarstvo iz sredstava ostvarenih prema odredbi stavka 2. ovoga članka plaćati energetskom subjektu iz stavka 1. ovoga članka.
+(4) Protiv rješenja iz stavka 1. ovoga članka može se podnijeti žalba Ministarstvu.

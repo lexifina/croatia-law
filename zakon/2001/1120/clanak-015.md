@@ -1,0 +1,25 @@
+## V. OBAVLJANJE ENERGETSKIH DJELATNOSTI
+# Članak 15.
+Energetske djelatnosti, u smislu ovoga Zakona, su:
+1. proizvodnja električne energije,
+2. prijenos električne energije,
+3. distribucija električne energije,
+4. opskrba električnom energijom,
+5. vođenje elektroenergetskog sustava,
+6. organiziranje tržišta električnom energijom,
+7. dobava plina,
+8. transport plina,
+9. distribucija plina,
+10. proizvodnja naftnih derivata,
+11. transport nafte naftovodima i drugim oblicima transporta,
+12. transport naftnih derivata produktovodima i drugim oblicima transporta,
+13. trgovina na veliko naftnim derivatima,
+14. trgovina na malo naftnim derivatima,
+15. skladištenje nafte i naftnih derivata,
+16. proizvodnja toplinske energije,
+17. distribucija toplinske energije,
+18. opskrba toplinskom energijom,
+19. trgovanje, posredovanje i zastupanje na tržištu energije,
+20. transport i skladištenje ukapljenoga prirodnog plina (UPP),
+21. trgovina na veliko i malo ukapljenim naftnim plinom (UNP),
+22. trgovina na veliko ukapljenim prirodnim plinom (UPP).

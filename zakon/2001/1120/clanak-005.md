@@ -1,0 +1,6 @@
+## II. ENERGETSKA POLITIKA I PLANIRANJE ENERGETSKOG RAZVITKA
+# Članak 5.
+(1) Osnovni akt kojim se utvrđuje energetska politika i planira energetski razvitak je Strategija energetskog razvitka.
+(2) Strategijom energetskog razvitka se radi: osiguranja sigurne i pouzdane opskrbe energijom i njene učinkovite proizvodnje i učinkovitog korištenja, osobito radi korištenja različitih i obnovljivih izvora energije, osiguranja zaštite okoliša u svim područjima energetskih djelatnosti; poticanja konkurentnosti na tržištu energije na načelima nepristranosti i razvidnosti; zaštite kupaca energije, te povezivanja hrvatskoga energetskog sustava ili njegovih dijelova s europskim energetskim sustavom ili energetskim sustavom drugih zemalja, polazeći od gospodarskog razvitka i energetskih potreba; utvrđuju nacionalni energetski programi, potrebna ulaganja u energetiku, poticaji za ulaganja u obnovljive izvore i za postizanje energetske učinkovitosti te mjere zaštite okoliša.
+(3) Strategiju energetskog razvitka donosi Hrvatski sabor na prijedlog Vlade Republike Hrvatske za razdoblje od deset godina.
+(4) Strategija energetskog razvitka mora biti u skladu s Programom prostornog uređenja Republike Hrvatske i Planom razvitka Republike Hrvatske.

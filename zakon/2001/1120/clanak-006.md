@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Na temelju Strategije energetskog razvitka Vlada Republike Hrvatske donosi Program provedbe Strategije energetskog razvitka, kojim se utvrđuju mjere, nositelji aktivnosti i dinamika realizacije energetske politike i provođenja nacionalnih energetskih programa, način ostvarivanja suradnje s tijelima lokalne i područne (regionalne) samouprave na području planiranja razvitka energetskog sektora i suradnje s energetskim subjektima, te s međunarodnim organizacijama.
+(2) Program provedbe Strategije energetskog razvitka donosi se za razdoblje od najmanje tri godine.
+(3) Nakon isteka razdoblja za koje je donesen Program provedbe Strategije energetskog razvitka, Vlada Republike Hrvatske podnosi Hrvatskom saboru izvješće o provedbi Strategije energetskog razvitka s prijedlogom potrebnih promjena.
