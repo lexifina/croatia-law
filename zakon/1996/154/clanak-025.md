@@ -1,0 +1,5 @@
+# Članak 25.
+Kada je ugovorom sa stranom osobom, propisima strane države, međunarodnim sporazumom ili propisom Republike Hrvatske predviđeno da robu pri izvozu i uvozu mora pratiti potvrda o podrijetlu robe ili druge potvrde, odnosno određene ovjerene isprave, takve potvrde izdaje ili ovjerava ministarstvo nadležno za trgovinu.
+Iznimno od stavka 1. ovoga članka, potvrde o hrvatskom podrijetlu robe izdaje ili ovjerava Hrvatska gospodarska komora.
+Vlada donosi propis kojim se određuje što se smatra robom hrvatskog podrijetla, što se smatra robom uvoznog podrijetla, propisuje način izdavanja potvrda i ovjere isprava koje prate robu pri izvozu ili uvozu te propisuje u kojim je slučajevima potrebno pribaviti potvrde o podrijetlu robe koja se izvozi ili uvozi.
+Propisom iz stavka 3. ovoga članka Vlada može odrediti da potvrde ili druge ovjerene isprave, osim potvrda iz stavka 2. ovoga članka, izdaje, odnosno, ovjerava drugo tijelo državne uprave, lokalne samouprave i uprave ili Hrvatska gospodarska komora.

@@ -1,0 +1,12 @@
+# Članak 38.
+Ako se u kratkom razdoblju povećava uvoz određene robe, količinski ili u odnosu na domaću proizvodnju, i taj se uvoz obavlja uz uvjete koji nanose štetu ili prijete nanošenjem ozbiljne štete domaćoj proizvodnji iste, slične ili izravno konkurentne robe, vlada će poduzeti odgovarajuće zaštitne mjere (u daljnjem tekstu: mjere) s ciljem otklanjanja šteta i poremećaja nastalih takvim uvozom.
+Mjere iz ovoga članka primjenjivat će se na svu robu koja se uvozi, neovisno o zemlji podrijetla ili zemlji uvoza.
+Mjere iz ovoga članka mogu se poduzeti nakon ispitnog postupka koji provodi ministarstvo nadležno za trgovinu, s ciljem utvrđivanja štete koju trpi domaća proizvodnja ili štete koja bi mogla nastati radi povećanog uvoza kao i utvrđivanja javnog interesa za poduzimanje tih mjera.
+Ispitni postupak iz stavka 3. ovoga članka uključuje i odgovarajuću javnu obavijest o namjeri poduzimanja mjera kako bi zainteresirane strane mogle iznijeti svoja stajališta glede opravdanosti poduzimanja tih mjera.
+Prijedlog za donošenje mjera iz stavka 1. ovoga članka mogu podnijeti domaći proizvođači iste, slične ili izravno konkurentne robe u zemlji, odnosno proizvođači čija zajednička proizvodnja iste, slične ili izravno konkurentne robe čini pretežan dio ukupne domaće proizvodnje te robe.
+Prijedlog iz stavka 4. ovoga članka, pored ostalih dokaza mora sadržavati podatke o ukupnom porastu uvoza određene robe u apsolutnom i relativnom iznosu, udio domaćeg tržišta preuzet povećanim uvozom, kao i promjene u opsegu prodaje, proizvodnje, proizvodnosti, iskorištenju proizvodnih kapaciteta, dobiti i gubitaka, te zaposlenosti radi povećanog uvoza.
+Nakon provedenoga ispitnog postupka i utvrđenih dokaza o stvarnoj šteti ili šteti koja bi mogla nastati radi povećanog uvoza, ministarstvo nadležno za trgovinu, predlaže Vladi poduzimanje mjera.
+Prilikom predlaganja mjera iz stavka 1. ovoga članka vodit će se računa da te mjere budu samo u onom opsegu koji je potreban da bi se spriječila ili popravila ozbiljna šteta i da bi se domaćoj proizvodnji olakšalo prilagođavanje.
+Ako se kao mjera iz ovoga članka poduzima uvođenje kontingenata iz članka 40. ovoga Zakona, opseg uvoznoga kontingenta za određenu robu za jednogodišnje razdoblje ne smije biti niži od prosječnoga godišnjeg uvoza te robe ostvarenog u proteklom trogodišnjem razdoblju.
+Mjere iz ovoga članka mogu trajati dok traju razlozi za njihovo uvođenje, a najduže osam godina od trenutka uvođenja.
+Vlada će posebnim propisom pobliže urediti provođenje postupka i uvođenje mjera iz ovoga članka.

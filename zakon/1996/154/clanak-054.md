@@ -1,0 +1,7 @@
+## PRAVA FIZIČKIH OSOBA PRI UVOZU I
+## IZVOZU
+# Članak 54.
+Domaće i strane fizičke osobe mogu slobodno u-nositi i primati iz inozemstva, odnosno iznositi i slati u inozemstvo predmete osobne prtljage, namirnice i predmete za osobne potrebe i potrebe članova svoje obitelji, predmete za potrebe svog domaćinstva i životinje, u količinama koje nisu namijenjene preprodaji. Predmeti naslijeđeni u inozemstvu mogu se slobodno unositi, a iznositi - uz uvjete uzajamnosti. Predmeti predviđeni međudržavnim ugovorima mogu se slobodno unositi i iznositi u skladu s tim ugovorima.
+Domaće i strane fizičke osobe mogu iznositi i slati u inozemstvo robu, odnosno predmete što imaju povijesnu, umjetničku ili kulturnu vrijednost samo na temelju suglasnosti ministarstva nadležnog za kulturu.
+Domaće fizičke osobe, koje su po bilo kojem osnovu bile na radu u inozemstvu najmanje dvije godine neprekidno ili najmanje 24 mjeseca u posljednje četiri godine ili boravili u inozemstvu najmanje sedam godina, mogu u roku od šest mjeseci od dana povratka iz inozemstva slobodno uvoziti opremu namijenjenu za obavljanje djelatnosti.
+Stranci koji su stekli hrvatsko državljanstvo, odnosno pravo trajnog nastanjenja ili boravak na temelju priznatog statusa izbjeglice u Republici Hrvatskoj, osim osoba koje se po propisima bivše SFRJ smatraju jugoslavenskim državljanima, mogu u roku od 6 mjeseci od dana stjecanja hrvatskog državljanstva, trajnog nastanjenja ili stjecanja statusa izbjeglice u Republici Hrvatskoj, slobodno uvoziti opremu iz stavka 3. ovoga članka.
