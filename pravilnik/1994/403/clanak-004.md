@@ -1,0 +1,2 @@
+# Članak 4.
+Za provedbu zdravstvenog odgoja osoba koje rade u proizvodnji ili prometu namirnica, zdravstvena ustanova mora imati najmanje slijedeće prostorije: 1. prostoriju za održavanje nastave koja udovoljava u pogledu higijensko-tehničkih uvjeta prostorija namijenjenih za učionice, opremljenu s prikladnim namještajem (stolovi i stolice) i samostalno osvijetljenom školskom tablom, 2. dva sanitarna čvora odvojeno za potrebe ženskih i muških polaznika.
