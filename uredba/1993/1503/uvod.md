@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da donosiuredbe kojima se uređuju pojedina pitanja iz djelokruga Sabora Republike Hrvatske ("Narodne novine", broj 74/92), Vlada Republike Hrvatske je na sjednici održanoj 29. srpnja 1993. godine donijela
