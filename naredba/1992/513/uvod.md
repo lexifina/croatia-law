@@ -1,0 +1,1 @@
+Na osnovi članka 26. stavak 2. i članka 41. stavak 1. Zakona o mjernim jedinicama i mjerilima ("Službeni list SFRJ", br. 9/84., 59/86, 20/89 i 9/90) Zakona o preuzimanju Zakona o mjernim jedinicama i mjerilima, koji se u Republici Hrvatskoj primjenjuje kao Republički zakon ("Narodne novine", br. 53/91), te zaključka Vlade Republike Hrvatske od 11. prosinca 1991. godine, donosi se
