@@ -1,0 +1,11 @@
+# Članak 20.
+PROFESORI, NASTAVNICI, STUDENTI
+I PRIPRAVNICI
+1. Primanja što ih prima profesor ili nastavnik koji jest ili je bio neposredno prije posjeta državi ugovornici rezident druge države ugovornice i koji boravi u prvospomenutoj državi u razdoblju koje nije duže od dvije godine, radi specijalizacije ili istraživanja ili održavanja predavanja na sveučilištu, višoj školi, školi ili drugoj sličnoj obrazovnoj ustanovi za takvu djelatnost ne oporezuju se u prvospomenutoj državi, pod uvjetom da takva primanja nastaju iz izvora koji se nalaze izvan te države.
+2. Fizička osoba koja jest ili je bila neposredno prije posjeta državi ugovornici rezident druge države ugovornice i koja se privremeno nalazi u prvospomenutoj državi isključivo kao student na sveučilištu, višoj školi, školi ili drugoj sličnoj obrazovnoj ustanovi ili kao pripravnik bit će, od dana njezinog prvog dolaska u tu državu u svezi s tim posjetom, izuzeta od poreza u toj državi
+a) za sve isplate koje prima u svrhu njezinog uzdržavanja, obrazovanja ili pripravljanja, pod uvjetom da takva plaćanja nastaju iz izvora izvan te države i
+b) za razdoblje koje nije duže od tri godine, za sva primanja koja ne prelaze 1.500 $ po kalendarskoj godini za nesamostalni rad kojeg obavlja u toj državi radi ostvarivanja dodatnih sredstava za te svrhe.
+3. Fizička osoba koja jest ili je bila neposredno prije posjeta državi ugovornici rezident druge države ugovornice i koja se privremeno nalazi u prvospomenutoj državi isključivo u svrhu studija, istraživanja ili pripravljanja kao primatelj pripomoći, priloga za uzdržavanje ili stipendija od znanstvene, obrazovne, vjerske ili dobrotvorne organizacije ili u okviru programa tehničke pomoći, u kojem sudjeluje Vlada države ugovornice, bit će, za razdoblje koje nije duže od dvije godine od dana njezinog prvog dolaska u prvospomenutu državu u svezi s tom posjetom, izuzeta od poreza u toj državi za
+a) iznos takvih pripomoći, priloga za uzdržavanje ili stipendija;
+b) sve isplate koje prima u svrhu njezinog uzdržavanja, obrazovanja ili pripravljanja, pod uvjetom da takva plaćanja nastaju iz izvora izvan te države i
+c) sva primanja za nesamostalni rad kojeg obavlja u toj državi, pod uvjetom da takav rad čini dio njezinog studija, istraživanja ili pripravljanja.
