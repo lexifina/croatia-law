@@ -1,0 +1,4 @@
+# Članak 6.
+NAKNADA GUBITAKA
+(1) Ulagateljima jedne Ugovorne stranke čija ulaganja na teritoriju druge Ugovorne stranke pretrpe gubitke uslijed rata ili drugog oružanog sukoba, izvanrednog stanja u državi ili javnih nereda na teritoriju potonje Ugovorne stranke, potonja će Ugovorna stranka odobriti tretman glede restitucije, odštete, naknade ili inog rješenja ne manje povoljan od onog koji potonja Ugovorna stranka odobrava svojim vlastitim ulagateljima ili ulagateljima bilo koje treće države, što god je povoljnije za ulagatelja. Proizašla plaćanja bit će ostvarena u slobodno konvertibilnoj valuti bez nerazumnog odlaganja.
+(2) Ulagatelj čija ulaganja pretrpe štetu ili gubitak sukladno stavku 1. ovog članka imat će pravo na reviziju slučaja od strane sudskog tijela te Ugovorne stranke, kao i vrednovanje ulaganja i plaćanja naknade.
