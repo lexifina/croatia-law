@@ -1,0 +1,2 @@
+# Članak 8.
+Radnik primalac zajamčenog osobnog dohotka temeljem odredaba ove uredbe dužan je raditi u drugom poduzeću i drugoj organizaciji odnosno kod drugog poslodavca ako ga uputi područna služba Zavoda za zapošljavanje. U slučaju takvog rada, radniku miruju prava i obveze iz radnog odnosa na koji se primjenjuje ova uredba, a radnik ostvaruje sva prava i obveze iz radnog odnosa u poduzeću ili drugoj organizaciji odnosno kod poslodavca kome je upućen na rad.

@@ -1,0 +1,2 @@
+# Članak 5.
+Zajamčeni osobni dohodak iz članka 2. ove uredbe radniku se isplaćuje putem područne službe Zavoda za zapošljavanje. Zajamčeni osobni dohodak radniku isplaćuje područna služba Zavoda za zapošljavanje nadležna prema sjedištu poduzeća i druge organizacije odnosno poslodavca ili prema mjestu prebivališta ili boravišta radnika. Isplata Zajamčenih osobnih dohodaka se obavlja u zadnjoj dekadi tekućeg mjeseca za prethodni mjesec

@@ -1,0 +1,2 @@
+# Članak 3.
+Okolnosti iz članka 2. ove uredbe utvrđuje krizni štab općine i područna služba Zavoda za zapošljavanje na čijem se sjedištu nalazi poduzeće i druga organizacija odnosno poslodavac, na zahtjev i uz suradnju poslovodnog organa poduzeća i druge organizacije odnosno poslodavca. Kontrolu rada kriznog štaba općine obavlja ministarstvo nadležno prema djelatnosti poduzeća i druge organizacije odnosno poslodavca.
