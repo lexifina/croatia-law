@@ -1,0 +1,2 @@
+# Članak 4.
+Ako je dužnosnik, odnosno službenik obavljao poslove u prethodnom kaznenom postupku kraće vrijeme od 12 sati radnim danom, odnosno od 24 sata neradnim danom, paušalna se naknada izračunava dijeljenjem bruto iznosa iz članka 3. ovoga Pravilnika s ukupnim brojem sati radnim danom, odnosno neradnim danom, i tako dobiveni iznos pomnoži brojem sati koje je dužnosnik odnosno službenik proveo u obavljanju navedenih poslova.

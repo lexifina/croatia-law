@@ -1,0 +1,2 @@
+# Članak 2.
+Sucima županijskih i vojnih sudova, županijskim državnim odvjetnicima i vojnim odvjetnicima, odnosno njihovim zamjenicima (u daljem tekstu: dužnosnik), te službenicima i namještenicima (u daljem tekstu: službenik) u navedenim sudovima i državnim odvjetništvima paušalna naknada za obavljanje poslova u prethodnom kaznenom postupku izvan redovitog radnog vremena, utvrđuje se ovisno o tome je li te poslove obavlja u zgradi suda, državnog odvjetništva odnosno vojnog odvjetništva ili je u stalnoj pripravnosti kod kuće, odnosno u stanu.

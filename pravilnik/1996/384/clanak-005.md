@@ -1,0 +1,2 @@
+# Članak 5.
+Paušalna naknada za obavljanje poslova u prethodnom kaznenom postupku isplaćivat će se sucima, državnim odvjetnicima, vojnim odvjetnicima i njihovim zamjenicima, službenicima ili namještenicima na teret sredstava za posebne namjene koje se sudu osiguravaju prema odredbi članka 95. stavka 1. točke 3. alineje 6. Zakona o sudovima, a državnom odvjetništvu prema odredbi članka 70. stavak 1. točke 3. Zakona o državnom odvjetništvu.
