@@ -1,0 +1,1 @@
+Odluka o utvrđivanju plače predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, ministara, drugih članova Vlade te dužnosnika koje imenuje i razrješava Vlada Republike Hrva
