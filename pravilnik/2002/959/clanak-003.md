@@ -1,0 +1,2 @@
+# Članak 3.
+Priprema mjerila toplinske energije za ovjeravanje u smislu ovog pravilnika podrazumijeva: ispiranje mjerila protoka, čišćenje mjerila toplinske energije i postavljanje mjerila toplinske energije na uređaj za ispitivanje mjerila toplinske energije, pripremu uređaja za ispitivanje mjerila toplinske energije, ispitivanje mjerila toplinske energije to jest provjeru mjeriteljskih značajki mjerila toplinske energije i pisanje izvješća o ispitivanju mjerila toplinske energije.

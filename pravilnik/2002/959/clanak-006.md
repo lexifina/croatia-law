@@ -1,0 +1,4 @@
+# Članak 6.
+Jedan radnik iz članka 5. ovoga pravilnika mora imati VSS tehničkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila toplinske energije, VŠS tehničkog smjera i najmanje 5 godina radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila toplinske energije ili SSS tehničke struke i najmanje 10 godina radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjerila toplinske energije.
+Drugi radnik iz članka 5. ovog pravilnika, koji obavlja poslove servisiranja i pripremanja mjerila toplinske energije za ovjeravanje, mora imati najmanje KV tehničke struke te mora biti stručno osposobljen za obavljanje tih poslova.
+Radnici iz stavka 1. i stavka 2. ovoga članka moraju poznavati propise kojima su utvrđeni postupci i metode ispitivanja mjerila toplinske energije.
