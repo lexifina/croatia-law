@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 1. točke 2. Zakona o kreditnim poslovima s inozemstvom ("Narodne novine" broj 43/96) i članka 67. stavak 1. točka 6. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" broj 35/95 - pročišćeni tekst), Savjet Hrvatske narodne banke na svojoj sjednici održanoj 14. listopada 1998. godine, donio je
