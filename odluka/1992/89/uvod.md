@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Uredbe o načinu održavanja likvidnosti u plaćanjima prema inozemstvu i članka 90. stavka 3. Uredbe o Narodnoj banci Hrvatske ("Narodne novine", br. 71/91), guverner Narodne banke Hrvatske donio je
