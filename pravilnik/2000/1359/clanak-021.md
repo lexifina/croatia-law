@@ -1,0 +1,2 @@
+# Članak 21.
+U slučajevima kada opskrbno skladište nabavlja robu iz drugog carinskog skladišta, roba se iz tog carinskog skladišta premješta u opskrbno skladište sukladno članku 121. Carinskog zakona, članku 209. Uredbe za provedbu Carinskog zakona i članku 29. do 31. Pravilnika o obrascima za provedbu Carinskog zakona, bez prekidanja postupka carinskog skladištenja. Osim odgovarajućih primjeraka JCD-e, robu prati i jedna od isprava iz članka 22. stavka 2. ovog Pravilnika.

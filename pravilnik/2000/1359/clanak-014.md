@@ -1,0 +1,4 @@
+# Članak 14.
+Ako se carinskom provjerom utvrdi da na brodu ima namirnica i druge robe namijenjene potrebama broda, brodske posade i/ili putnika u količinama većim nego što je potrebno za potrošnju tijekom boravka broda u carinskom području Republike Hrvatske, carinarnica može višak takve robe staviti pod carinski nadzor (plombirati i sl.).
+U slučajevima iz stavka 1. ovog članka kad se radi o brodovima iz članka 9. stavka 1. ovog Pravilnika uz bilješku u brodskoj knjizi (članak 8. stavak 2.), carinarnica će upisati i vrstu i broj carinskih obilježja stavljenih na prostorije koje je stavila pod carinski nadzor, te bilješku u ovjeri rekapitulacije robe iz članka 20. stavka 5. ovog Pravilnika, koja služi za evidenciju i kontrolu za vrijeme domaće plovidbe.
+c) Carinski postupak s putničkom prtljagom
