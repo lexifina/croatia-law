@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točke 5. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 11/79 i 32/87) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/90 i 47/90) ministar poljoprivrede i šumarstva donosi
