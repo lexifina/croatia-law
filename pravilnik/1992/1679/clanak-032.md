@@ -1,0 +1,5 @@
+# Članak 32.
+Carinska osnovica robe koja se privremeno uvozi po osnovi najma utvrđuje se sukladno članku 38. i 39. Carinshog zahona.
+Ne može li se carinska osnovica robe iz stavka 1. ovog članka utvrditi sukladno odredbama članka 38. i 39. Carinskog zakona, utvrđuje se na temelju članka 40. Carinskog zakona, na slijedeći način:
+1) ako je u ugovoru o najmu predviđena mogućnost kupnje robe koja je predmet najma, prihvatit će se ponuđena kupoprodajna cijena iz ugovora, pod uvjetom da odgovara odredbama Carinskog zakona koje se odnose na ugovorenu cijenu;
+2) za robu koja se ne pojavljuje u prometu kao predmet kupoprodaje carinsku osnovicu ćini svota najamnine obračunata za petogodišnje razdoblje. Tako utvrđena svota umanjuje se za svotu troškova iz članka 38. stavak 3. točka2. Carinskog zakona te za svotu troškova kamata i troškova osiguranja novčanih sredstava iz članka 45. stavak 1. točka 2. Carinskog zakona, za koje se u postupku carinjenja utvrdi da se ne uračunavaju u carinsku osnovicu.

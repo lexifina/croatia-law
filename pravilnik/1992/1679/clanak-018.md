@@ -1,0 +1,4 @@
+# Članak 18.
+Ako su troškovi prijevoza u dokumentima za carinjenje robe obračunati do mjesta predaje robe unutar carinskog područja Republike Hrvatske, troškovi prijevoza od mjesta ulaska u carinsko područje Republike Hrvatske do mjesta predaje ne uračunavaju se u carinsku osnovicu.
+Ako su troškovi prijevoza do mjesta predaje robe i obračunati na temelju posebne tarife prema kojoj troškovi prijevoza opadaju zavisno od dužine puta i težine robe, troškovi prijevoza od mjesta ulaska robe u carinsko područje Republike Hrvatske do mjesta predaje obračunavaju se prema toj tarifi.
+Ako su troškovi prijevoza ugovoreni do mjesta predaje robe i ako se visina tih troškova od mjesta ulaska u carinsko područje Republike Hrvatske do ugovorenog mjesta predaje iz ugovora i drugih podnijetih isprava ne može utvrditi, u carinsku osnovicu uračunava se ukupna svota troškova prijevoza.

@@ -1,0 +1,4 @@
+# Članak 13.
+Kao cijena po mjernoj jedinici po kojoj se uvezena roba, odnosno istovjetna ili slična uvezena roba prodaje u Republici Hrvatskoj u najvećoj ukupnoj količini, prema članku 39. stavak 1. točka 1. Carinskog zakona, smatra se cijena po kojoj se najveći ukupan broj jedinica robe prodaje osobama uzajamno nepovezanim s osobama od kojih takovu robu kupuju, pri prvoj kupoprodaji poslije obavljenog uvoza.
+Za utvrđivanje carinske osnovice, prema stavku 1. ovoga članka neće se uzeti u obzir cijena po mjernoj jedinici po kojoj je uvezena roba odnosno istovjetna ili slična roba ako kupac osigurava prodavatelju izravno ili neizravno, besplatno ili po sniženoj cijeni robu ili usluge navedene u članku 41. točka 6. do 8. i 11. Carinskog zakona.
+Kao prodaja istovjetne ili slične robe u smislu stavka 1. ovoga članka smatra se prodaja koja je obavljena u isto ili približno isto vrijeme kada se uvozi roba za koju se utvrđuje carinska osnovica.
