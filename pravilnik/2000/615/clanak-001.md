@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o utvrđivanju znanstvenih područja (»Narodne novine« broj 29/97. i 135/97) u članku 3., točci 5. iza riječi »5.08. Demografija« dodaju se riječi »5.09. Socijalna djelatnost«, a u članku 4. točci 5. iza riječi »5.08.02 demografija« dodaju se riječi »Polje 5.09. Socijalna djelatnost, grane: 5.09.01 socijalna politika, 5.09.02 socijalno planiranje, 5.09.03 teorija i metodologija socijalnog rada, 5.09.04 posebna područja socijalnog rada, 5.09.05 socijalna gerontologija.«
