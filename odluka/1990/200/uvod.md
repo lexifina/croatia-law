@@ -1,0 +1,1 @@
+Na temelju člana 3. stava 2. Odluke o visini naknada za zaštitu voda na vodnom području sliva Save ("Narodne novine", br.18/89) Izvršni odbor Skupštine Samoupravne vodoprivredne interesne zajednice za vodno područje sliva Save u Zagrebu, na sjednici održanoj 7. prosinca 1989, donio je
