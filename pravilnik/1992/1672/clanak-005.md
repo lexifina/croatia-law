@@ -1,0 +1,3 @@
+# Članak 5.
+Putnik može koristiti povlasticu iz članka 27. stavak 1. točka 1. Carinskog zakona kada dolazeći iz inozemstva prelazi carinsku crtu, neovisno o tome da li prtljagu nosi sa sobom ili je data na prijevoz istim prijevoznim sredstvom, poštom ili na koji drugi način, ako se nesumnjivo može utvrditi da je u pitanju prtljaga odnosnog putnika.
+Radi korištenja povlasticom iz članka 27. stavak 1. točka 1. Carinskog zakona za osobnu prtljagu datu na prijevoz drugim prijevoznim sredstvom, poštom ili na koji drugi način, korisnik podnosi odgovarajuće dokaze da je u pitanju njegova osobna prtljaga. Na temelju podnesenih dokaza, carinarnica izdaje osobnu prtljagu i stavlja odgovarajuću bilješku na prijavu za uvoz i provoz robe.

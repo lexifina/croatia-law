@@ -1,0 +1,4 @@
+# Članak 34.
+Povlastica iz članka 28. stavak 1. točka 13. alineja treća Carinskog zakona odnosi se na brodove u javnom međunarodnom prometu i dok plove u unutarnjim vodama.
+Radi korištenja povlasticom iz članka 28. stavak 1. točka 13. alineja treća, četvrta i peta Carinskog zakona, korisnik povlastice u roku 15 dana po isteku roka za predaju zaključnog računa podnosi carinarnici ovlaštenoj prema mjestu svojega sjedišta pisanu izjavu o količini i vrijednosti u inozemstvu kupljenog pogonskog i potrošnog materijala za rad i sigurnost plovidbe i dijelova brodova odnosno zrakoplova i njihovog inventara u prethodnoj godini, strukturno iskazanih prema tarifnom broju i tarifnoj oznaci iz Carinske tarife.
+Rješenje o oslobađanju od plaćanja carine carinarnica donosi u obliku bilješke na pisanoj izjavi korisnika povlastice iz stavka 2. ovoga članka.

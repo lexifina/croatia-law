@@ -1,0 +1,4 @@
+# Članak 33.
+Povlastica iz članka 28. stavak 1. točka 13. alineja prva Carinskog zakona primjenjuje se na predmete koji se radi zamjene dotrajalog ili uništenog dijela ugraduju u putničko motorno vozilo dok se ono nalazi u inozemstvu, ako njihova ukupna vrijednost ne premašuje svotu propisanu za ostvarivanje ove carinske povlastice.
+Povlastica iz članka 28. stavka 1. točka 13. alineja druga Carinskog zakona, primjenjuje se na predmete koji se radi zamjene dotrajalog ili uništenog dijela ugraduju u cestovno motorno vozilo u javnom saobraćaju dok se ono nalazi u inozemstvu, ako njihova ukupna vrijednost ne premašuje svotu propisanu za ostvarivanje ove carinske povlastice.
+Zamjenu dotrajalog ili uništenog dijela prema stavku 1. i 2. ovog članka korisnik povlastice carinarnici prfjavljuje usmeno.
