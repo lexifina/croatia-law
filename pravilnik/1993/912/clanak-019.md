@@ -1,0 +1,92 @@
+## Klasifikacija građevina
+# Članak 19.
+(1) Građevine se, ovisno o složenosti kostrukcije razvrstavaju u klase kako slijedi:
+Klasa I.
+- jednostavne statički određene ravninske konstrukcije iz drva, čelika, kamena ili nearmiranog betona s mirnim opterećenjima, s jednostavnim dokazom horizontalne stabilnosti;
+- statički određene ravninske konstrukcije koje se grade na uvriježen način bez prednapetih i spregnutih elemenata s pretežno mirnim opterećenjima;
+- stropne konstrukcije s pretežno mirnin" rasprostrtim opterećenjima, koje se mogu proračunati pomoću uobičajenih tabela;
+- zidane konstrukcije s nosećim zidovima od temelja s jednostavnim dokazom horizontalne stabilnosti;
+- plitke temeljne konstrukcije i jednostavni potporni zidovi;
+- nogostupi koji sadrže noseće konstrukcije, mostovi u pravcu jednostavnog načina građenja s jednim rasponom i propusti, obaloutvrde, obalni zidovi i obalno žmurje, jednostavne rive i lukobrani, potporne konstrukcije s prometnim opterećenjem i bez njega, zidovi za zaštitu od buke;
+- jednostavni dimnjaci, stupovi i tornjevi bez nadgradnje;
+- plitko temeljeni samostojeći silosi bez prigradnji ili nadograđene strojarnice;
+- jednostavna brodogradilišna postrojenja;
+- nasute brane visine do 5,0 m.
+Klasa II.
+- složene statički određene i statički neodređene ravninske konstrukcije koje se grade na uvriježen način bez prednapetih elemenata i bez analize stabilnosli;
+- jednostavne spregnute konstrukcije u zgradarstvu bez uzimanja u ozbir utjecaja puzanja i skupljanja;
+- konstrukcije zgrada s poduhvaćanjem nosećih zidova ili zidova za ukrućenje;
+- okvirne konstrukcije ukrućene zidovima;
+- temeljne roštiljne konstrukcije na pilotima;
+- jednostavni svodovi i lukovi;
+- jednostavne okvirne konstrukcije bez prednapetih elemenata i bez analize stabilnosti;
+- jednostavne skele;
+- jednostavni sidreni potporni zidovi;
+- mostovi s jednim rasponom, osim onih u klasi I ili III, jednostavni mostovi s više raspona, jednostavni lučni mostovi ;
+- potporne sidrene građevine, kejovi i lukobrani, ukoliko nisu spomenuti u klasi I. ili III;
+- dijafragme uključujući i one od bušenih pilota, osim onih u klasi I. i III;
+- složeni obalni zidovi i obalno žmurje;
+- konstrukcije za zaštitu od buke, osim onih u klasi I. ili III, jednostavni tuneli i galerije;
+- srednje složeni dimnjaci, stupovi i tornjevi s nadgradnjama, jednostavni rashladni tornjevi;
+- samostojeći silosi s jednostavnim prigradnjama, brodogradilišna postrojenja osim onih u klasi I. ili III, jednostavni dokovi;
+- jednostavne samostojeće podzemne garaže, jednostavne podzemne građevine, složene monolitne građevine za toplane, jednostavni podzemni kolodvori;
+- nasute brane visine od 5,0 do 20,0 m.
+Klasa III.
+- statički i konstruktivno složene konstrukcije koje se grade na uvriježen način;
+- konstrukcije za čiji se dokaz stabilnosti i nosivosti moraju uzeti u obzir utjecaji koji se teško određuju;
+statičko višestruko neodređeni sustavi;
+- statički određene prostorne rešetke;
+- jednostavne složenice po grednoj teoriji;
+- statički određene konstrukcije za čije je određivanje unutarnjih sila nužna teorija II. reda;
+- sklopovi od napete užadi koji se jednostavno proračunavaju:
+- konstrukcije unutar složenih okvirnih građevina;
+- tornjevi za koje dokaz stabilnosti i ukrućenja iziskuje primjenu osobitih proračunskih postupaka;
+- spregnuti sklopovi, osim onih u klasi II. ili izvan klasa,
+- jednosavni roštilji i jednostavne ortotropne ploče;
+- dinamički opterećeni jednokatni okviri i temeljne konstrukcije;
+- složena statički određena plitka temeljenja;
+- složena ravninska ili prostorna temeljenja na pilotima, osobiti postupci temeljenja:
+- kose ploče s jednim rasponom u inženjerskim građevinama;
+- tlocrtno kosi ili zakrivljeni nosači;
+- složeni svodovi ili nizovi svodova i lukova;
+- okvirne konstrukcije osim onih u klasi II. ili izvan klasa;
+- složene skele ;
+- složeni sidreni potporni zidovi;
+- složene zidane konstrukcije s horizontalnom armaturom u reškama,
+- složene zidane konstrukcije s vertikalnom armaturom u posebnim opekama;
+- složeni mostovi preko jednog ili više raspona te lučni mostovi;
+- složeni obalni zidovi i lukobrani;
+- zaštitne građevine za zaštitu od buke u urbanistički složenim okolnostima;
+- složeni tuneli i galerije;
+- složeni dimnjaci, stupovi i tornjevi s nadgradnjom i pogonskim katom;
+- rashladni tornjevi osim onih u klasi II. iIi izvan klasa;
+- opskrbni kanali s pripadnim oknima u složenim slučajevima za više medija;
+- silosi sa spojenim blokovima ćelija i strojarnicom;
+- složena brodogradilišna postrojenja, složeni dokovi;
+- samostalne podzemne garaže osim onih u klasi II;
+- složene podzemne građevine osim onih izvan klasa;
+- nasute brane visine 20,0 m i više;
+- gravitacijske brane.
+Klasa IV+
+- statički i konstruktivno neuobičajeno složene konstrukcije:
+- složene konstrukcije izvedene po novim postupcima građenja;
+- prostorni štapni sustavi i statički neodređene prostorne rešetke;
+- složeni roštilji i složene ortotropne ploče;
+- spregnuti nosači prednapeti kabelima ili i na drugi način;
+- plošne konstrukcije (ploče, visokostjeni nosači, složenice, ljuske) koje iziskuju primjenu teorije elastičnosti;
+- statički neodređene konstrukcije za analizu kojih je potrebna teorija II. reda;
+- konstrukcije za koje se dokaz stabilnosti može provesti jedino s pomoću ispitivanja na statičkim modelima ili proračunom s pomoću konačnih elemenata;
+- konstrukcije s analizom oscilacija osim onih u klasi III.;
+- sklopovi od napete užadi osim onih u klasi lll;
+- tlocrtno kose ploče preko više raspona;
+- tlocrtno koso poduprti i zakrivljeni nosači;
+- složene okvirne konstrukcije s prednapetim elementima i analizom stabilnosti;
+- jako složene skele, primjerice skele velikih raspona ili visoke skele;
+- osobito složeni veliki mostovi;
+- osobito složeni tuneli i galerije;
+- osobito složeni dimnjaci;
+- osobito složeni stupovi i tornjevi s nadgradnjom, pogonskim katom i prostorima za publiku, složeni rashladni tornjevi ;
+- Usobito složene podzemne građevine, podzemni raskrižni kolodvori;
+- sanacije klizišta;
+- lučne brane.
+(2) Ako su pojedini konstruktivni dijelovi građevine različite složenosti, građevina se u cijelosti svrstava u odgovarajuću klasu prema pretežitoj konstrukciji.
