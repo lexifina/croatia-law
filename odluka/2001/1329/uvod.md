@@ -1,0 +1,1 @@
+Na temelju članka 145. stavka 2. točke 2. i članka 144. stavka 1. Zakona o vodama (»Narodne novine«, broj 107/95), te prethodno provedenog javnog natječaja prema poglavlju 4.A. Uredbe o uvjetima i postupku za dodjelu koncesija na vodama i javnom vodnom dobru (»Narodne novine«, br. 99/96 i 11/98), Vlada Republike Hrvatske je na sjednici održanoj 6. rujna 2001. godine, donijela
