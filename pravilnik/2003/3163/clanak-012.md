@@ -1,0 +1,2 @@
+# Članak 12.
+Projekt sustava tehničke zaštite obavezno se izrađuje za objekte kategorizirane u kategoriju I. navedene u članka 5. Zakona o minimalnim mjerama zaštite u poslovanju s gotovim novcem i vrijednostima ("Narodne novine" br. 173/03) te za sve one objekte za koje je prosudbom ugroženosti i sigurnosnim elaboratom utvrđeno postojanje povećanih opasnosti od poduzimanja protupravnih radnji (objekti u kojima se stalno ili povremeno okuplja veći broj ljudi, pohranjuje i čuva imovina veće vrijednosti i sl.).
