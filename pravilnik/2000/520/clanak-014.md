@@ -1,0 +1,2 @@
+# Članak 14.
+Sadržaj evidencije su i zapisnici sastanaka mješovitih stručnih skupina, upute za rad stručnih skupina, zapisnici o postavljanju privremenih oznaka na graničnoj crti, zapisnici o postavljanju trajnih oznaka na graničnoj crti, podaci mjerenja, rezultati obrade podataka mjerenja, izmjene i dopune dokumenata državne granice, te podjela nadležnosti za obnovu i održavanje graničnih oznaka.
