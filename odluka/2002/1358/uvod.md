@@ -1,0 +1,1 @@
+Na temelju članka 30a. stavka 2. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01 i 117/01) i članka 31. Statuta Grada Županje (»Službeni vjesnik Grada Županje« broj 9/01), Gradsko vijeće Grada Županje na svojoj 11. sjednici, održanoj 3. srpnja 2002. godine donijelo je
