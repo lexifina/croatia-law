@@ -1,0 +1,3 @@
+# Članak 26.
+Državni zavod za zaštitu obitelji, materinstva i mladeži obavlja stručne i zakonom povjerene upravne poslove koji se odnose na: brigu o dobrobiti obitelji, provođenje mjera pronatalitetne populacijske politike, doplatka za djecu, poticanje osnivanja savjetovališta i obiteljskih centara, usklađivanje njihovih djelovanja, izdavanje popularne literature za roditelje i mladež, poticanje preventivnih djelovanja radi smanjivanja razvoda brakova i pobačaja, proučavanje i istraživanje suvremenih problema obitelji i mladeži, poduzimanje mjera za jačanje i učvršćivanje zdravih i skladnih obiteljskih odnosa.
+Državni zavod obavlja i druge poslove koji su mu stavljeni u nadležnost.

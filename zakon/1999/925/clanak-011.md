@@ -1,0 +1,4 @@
+# Članak 11.
+Ministarstvo hrvatskih branitelja iz Domovinskog rata obavlja upravne i druge poslove koji se odnose na pravni položaj, rješavanje pravnog položaja i drugih pitanja hrvatskih ratnih vojnih invalida iz Domovinskog rata i mirnodopskih vojnih invalida, razvojačenih branitelja i članova njihovih obitelji, te obitelji poginuloga, umrloga, zatočenog ili nestaloga hrvatskog branitelja, osim onih poslova koji ulaze u djelokrug drugih ministarstava.
+Ministarstvo hrvatskih branitelja iz Domovinskog rata obavlja upravne i druge poslove koji se odnose na pitanja posmrtne dodjele i promicanja, odnosno dodjele i promicanje u činove oružanih snaga Republike Hrvatske poginulih, umrlih, zatočenih ili nestalih hrvatskih branitelja, odnosno hrvatskih ratnih vojnih invalida iz Domovinskog rata, sukladno posebnim propisima.
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost.
