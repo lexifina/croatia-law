@@ -1,0 +1,3 @@
+o najnižoj svoti naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikacju i naknade osobnog dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993.
+1. U skladu s odredbama članka 37d. Zakona o osnovnim pravima iz mirovinskog i invalidskog osiguranja ("Narodne novine", broj 53/91) najniža svota naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnog dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993. iznosi 37.328.- HRD.
+2. Ova odluka stupa na snagu osmog dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja i993.
