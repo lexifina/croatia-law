@@ -1,0 +1,2 @@
+# Članak 5.
+Pravna osoba je dužna svoje obveze iz članka 3. prijaviti Službi kod koje vodi žiro-račun do 18. rujna 1991. godine za sedmi ciklus, do 9. listopada 1991. godine za osmi ciklus, do 6. studenoga 1991. za deveti ciklus i do 11. prosinca 1991. godine za deseti ciklus obvezne multilateralne kompenzacije. U istim rokovima Služba uključuje u obveznu multilateralnu kompenzaciju obveze pravnih osoba iz članka 4.
