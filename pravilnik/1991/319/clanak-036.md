@@ -1,0 +1,2 @@
+# Članak 36.
+Smještaj maloljetne osobe u organizaciju socijalne zaštite primijenit će se kao oblik socijalne zaštite prema maloljetnoj osobi čiji se povoljan psihofizički razvoj i odgoj ne ostvaruje u vlastitoj obitelji, a nema mogućnosti da joj se socijalno-zaštitne i druge socijalne potrebe podmire smještajem u drugu obitelj ili primjenom drugih oblika socijalne zaštite, ili ako je smještaj u organizaciju socijalne zaštite svrsishodniji od drugih oblika socijalne zaštite.

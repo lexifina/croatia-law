@@ -1,0 +1,3 @@
+# Članak 58.
+Odrasla i starija osoba koja je kao korisnik socijalne zaštite smještena u drugu obitelj, odnosno u organizaciju socijalne zaštite dužna je sudjelovati u plaćanju naknade hranitelju, odnosno cijene usluga organizacije socijalne zaštite svim svojim prihodima.
+Pri utvrđivanju prihoda kojima je korisnik socijalne zaštite dužan sudjelovati u plaćanju naknade hranitelju, odnosno cijene usluga organizacije socijalne zaštite prihod korisnika umanjuje se za obvezu korisnika za uzdržavanje (plaćanje alimentacije), kao i za iznos od 8% zajamčenog osobnog dohotka radnika u Republici, koji dio prihoda korisnik zadržava za osobne potrebe (džeparac).

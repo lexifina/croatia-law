@@ -1,0 +1,2 @@
+# Članak 64.
+Usluge za podmirivanje potreba korisnika socijalne zaštite podmirivanje kojih se osigurava oblicima socijalne zaštite mještaj u drugu obitelj, smještaj u organizaciju socijalne zaštite, pomoć i njega u kući i drugim oblicima mogu pod uvjetima i na način propisan zakonom i ovim pravilnikom pružiti poduzeća, građanske pravne osobe i socijalni i drugi stručni radnici i građani koji samostalno osobnim radom obavljaju poslove socijalne zaštite.

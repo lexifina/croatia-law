@@ -1,0 +1,2 @@
+# Članak 62.
+Ako je više osoba dužno prema članku 60. ovoga pravilnika sudjelovati u plaćanju naknade hranitelju, odnosno cijene usluga organizacije socijalne zaštite za korisnika toga oblika socijalne zaštite kojega su dužni uzdržavati, a zbog iznosa njihova doprinosa za uzdržavanje je veći od iznosa njihova sudjelovanja u plaćanju naknade hranitelju odnosno cijene usluga organizacije socijalne zaštite, iznosi njihova doprinosa za uzdržavanje razmjerno se umanjuju, osim ako obveznici uzdržavanja međusobnim sporazumom drugačije ne odluče.

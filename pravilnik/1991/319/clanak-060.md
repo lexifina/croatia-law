@@ -1,0 +1,3 @@
+# Članak 60.
+Osobe koje su dužne uzdržavati odraslu i stariju osobu koja je kao korisnik socijalne zaštite smještena u drugu obitelj, odnosno u organizaciju socijalne zaštite dužne su sudjelovati u plaćanju dijela naknade hranitelju odnosno cijene usluga organizacije i socijalne zaštite u iznosu koji čini razliku izmedu naknade hranitelju, odnosno cijene usluga organizaciji socijalne zaštite i iznosa kojim korisnik sudjeluje u plaćanju dijela tih troškova.
+Dosudeni iznos doprinosa za uzdržavanje korisnika iz stavka 1. ovoga članka obveznici uzdržavanja dužni su uplatiti na račun Republičkog fonda socijalne zaštite.
