@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 4. Zakona o zaštiti osobnih podataka (»Narodne novine« broj 103/2003.) Vlada Republike Hrvatske je uz prethodno mišljenje Agencije za zaštitu osobnih podataka, na sjednici održanoj 30. lipnja 2004. godine, donijela
