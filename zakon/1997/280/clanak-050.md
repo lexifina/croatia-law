@@ -1,0 +1,2 @@
+# Članak 50.
+Društva za osiguranje, odnosno društva za reosiguranje koja su osnovana do dana stupanja na snagu ovoga Zakona obvezna su u roku od dvije godine od dana njegova stupanja na snagu uskladiti s njime akte i poslovanje te strukturu i visinu temeljnog kapitala, vlasničke udjele u temeljnom kapitalu i iznos jamstvenog kapitala iz članka 50., koji ne može biti manji od iznosa utvrđenog u članku 52. ovoga Zakona.

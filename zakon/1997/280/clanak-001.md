@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o osiguranju ("Narodne novine", br. 9/94.) u članku 5. stavci 2. i 3. mijenjaju se i glase:
+"Poslovi životnih osiguranja razvrstavaju se na osiguranje života i rentna osiguranja.
+Poslovi neživotnih osiguranja razvrstavaju se na ove skupine osiguranja: osiguranje od nezgode, zdravstveno osiguranje, osiguranje cestovnih vozila - kasko, osiguranje tračnih vozila - kasko, osiguranje zračnih letjelica - kasko, osiguranje pomorskog, riječnog i jezerskog kaska, osiguranje robe u prijevozu, osiguranje imovine od požara i nekih drugih opasnosti, ostala osiguranja imovine, osiguranje od automobilske odgovornosti, osiguranje od odgovornosti u zračnom prometu, osiguranje od odgovornosti brodara, ostala osiguranja odgovornosti, osiguranje kredita, osiguranje jamstva, osiguranje različitih financijskih gubitaka, osiguranje pravne zaštite, osiguranje turističkih usluga.

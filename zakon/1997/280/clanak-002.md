@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 7. stavku 1. točka se na kraju rečenice zamjenjuje zarezom i dodaju riječi: "pridržavati se dobrih poslovnih običaja i poslovnog morala pri obavljanju poslova osiguranja". Stavci 2. i 3. mijenjaju se i glase:
+"Društvo za osiguranje obvezno je višak rizika koji prelazi njegovu sposobnost nošenja rizika za vlastiti račun podmiriti reosiguranjem kod društava koja obavljaju poslove aktivnih reosiguranja u zemlji.
+Društvo za osiguranje može se iznimno reosigurati u inozemstvu ako su uvjeti inozemnih reosiguravatelja ekonomski povoljniji od uvjeta domaćeg društva za osiguranje, ali je društvo za osiguranje obvezno domaćem društvu za reosiguranje ponuditi udio u višku rizika do visine njegove sposobnosti nošenja rizika za vlastiti račun pod uvjetima iz ponude inozemnog reosiguravatelja."

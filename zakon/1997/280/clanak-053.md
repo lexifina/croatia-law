@@ -1,0 +1,2 @@
+# Članak 53.
+U cijelom tekstu Zakona o osiguranju ("Narodne novine", br. 9/94.) riječi: "matematička rezerva" zamjenjuju se riječima: "matematička pričuva", riječi: "rezerve sigurnosti" zamjenjuju se riječima: "pričuve sigurnosti", riječi: "tehničke rezerve" zamjenjuju se riječima: "tehničke pričuve", riječ: "regres" zamjenjuje se riječju: "naknada" i riječi: "regres prema" zamjenjuju se riječima: "na naknadu od" u odgovarajućim padežima.
