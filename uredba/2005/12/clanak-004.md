@@ -1,0 +1,6 @@
+## Način ograničenja uporabe radijskih frekvencija
+# Članak 4.
+(1) Vremensko ograničenje uporabe dodijeljene radijske frekvencije ostvaruje se izdavanjem nove dozvole za radijsku postaju, s izmijenjenim rokom valjanosti dozvole.
+(2) Izmjena uvjeta uporabe dodijeljene radijske frekvencije i izmjena dodijeljene radijske frekvencije ostvaruju se izdavanjem nove dozvole za radijsku postaju, s izmijenjenim uvjetima uporabe, odnosno s izmijenjenom radijskom frekvencijom, pri čemu osobito treba voditi računa o troškovima te izmjene za korisnika radijske frekvencije.
+(3) Pravo uporabe radijske frekvencije uskraćuje se trajnom zabranom uporabe radijske postaje, o čemu se donosi rješenje o prestanku valjanosti dozvole za radijsku postaju iz članka 91. Zakona o telekomunikacijama.
+(4) Hrvatska agencija za telekomunikacije (u daljnjem tekstu: Agencija) pisanim će putem bez odgode izvijestiti vlasnika, odnosno korisnika radijske postaje o nastupanju okolnosti iz članka 5., 6. ili 7. ove Uredbe, pri čemu mora navesti primjereni krajnji rok u kojem će izdati novu dozvolu za radijsku postaju radi vremenskog ograničenja uporabe radijske frekvencije, izmjene uvjeta uporabe ili izmjene dodijeljene radijske frekvencije, odnosno primjereni krajnji rok u kojem će uskratiti pravo uporabe radijske frekvencije.

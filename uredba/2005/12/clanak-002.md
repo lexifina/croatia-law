@@ -1,0 +1,5 @@
+## Primjena Uredbe
+# Članak 2.
+(1) Ova se Uredba primjenjuje na radijsku postaju za koju je izdana dozvola za radijsku postaju iz članka 86. Zakona o telekomunikacijama, kojom se toj radijskoj postaji dodjeljuje na uporabu određena radijska frekvencija ili radiofrekvencijski kanal, uz točno utvrđene uvjete uporabe.
+(2) U slučaju vremenskog ograničenja uporabe radijske frekvencije ova se Uredba primjenjuje i prigodom izdavanja dozvole za radijsku postaju i prigodom produljenja roka valjanosti dozvole za radijsku postaju iz stavka 1. ovoga članka.
+(3) Iznimno od odredbe iz stavka 1. ovoga članka, ova se Uredba može primijeniti i na uvjete uporabe radijskih frekvencija koje se dodjeljuju izdavanjem dozvole za uporabu radijskih frekvencija iz članka 85., odnosno izdavanjem opće dozvole iz članka 87. Zakona o telekomunikacijama, ako je to nužno za provedbu međunarodnih ugovora, sporazuma i konvencija, odnosno odluka i preporuka međunarodnih telekomunikacijskih organizacija, koje obvezuju Republiku Hrvatsku, a kojima se usklađuje uporaba radijskih frekvencija na međunarodnoj razini.
