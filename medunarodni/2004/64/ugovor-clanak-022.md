@@ -1,0 +1,6 @@
+# Članak 22.
+Državna potpora
+1. Svaka državna potpora dobivena od stranke ili iz državnih sredstava u bilo kojem obliku koja narušava ili prijeti narušavanjem tržišnoga natjecanja davanjem prednosti nekim poduzetnicima ili proizvodnji određenih roba u suprotnosti je s odgovarajućom provedbom ovoga Ugovora ukoliko može utjecati na trgovinu između stranaka.
+2. Odredbe stavka 1. ne odnose se na proizvode iz glave II. ovoga Ugovora.
+3. Svaka će stranka osigurati transparentnost na području državne potpore, između ostalog, i putem godišnjih izvještaja Zajedničkom odboru o ukupnom iznosu državne potpore i njene raspodjele te će na zahtjev druge strane pružiti obavijest o programima potpore za pojedine slučajeve.
+4. Ako jedna od stranaka smatra da je određena praksa nespojiva s odredbama ovoga članka, ista može poduzeti odgovarajuće mjere za suzbijanje takve prakse, koje neće premašiti ukupno nanesenu štetu, a pod uvjetima i u skladu s postupcima utvrđenim u članku 30. ovoga Ugovora. Takve odgovarajuće mjere mogu se poduzeti u skladu s uvjetima i postupcima utvrđenim GATT-om 1994 i WTO i ostalim odgovarajućim instrumentima dogovorenim pod njegovim okriljem, koji se primjenjuju među strankama.
