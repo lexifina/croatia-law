@@ -1,0 +1,3 @@
+## NESAVJESNO POSTUPANJE U OBAVLlANJU SLUŽBE
+# Članak 5.
+Službena ili odgovorna osoba koja neizvršenjem ili odugovlačenjem povjerenih joj poslova ili na drugi način nesavjesno postupa u obavljanju službe, iako je bila svjesna ili mogla i morala biti svjesna da zbog toga može nastupiti poremećaj u pravilnom funkcioniranju službe, kaznit će se zatvorom od jedne godine do deset godina. Istom kaznom kaznit će se odgovorna osoba koja neizvršenjem ili odugovlačenjem izvršenja utvrđenih privrednih zadataka ili na drugi način nesavjesno postupa, iako je bila svjesna ili je mogla i morala biti svjesna da uslijed toga može nastupiti poremećaj u privrednoj djelatnosti.
