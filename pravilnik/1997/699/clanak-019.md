@@ -1,0 +1,4 @@
+# Članak 19.
+Ako je posjedovanje opreme koja se uvozi uvjet za ishođenje akta o obavljanju djelatnosti, korisnik carinske odnosno porezne olakšice uz zahtjev za ostvarivanje olakšice podnosi i potvrdu ovlaštenoga tijela o ispunjavanju uvjeta za obavljanje djelatnosti.
+Temeljem zahtjeva iz stavka 1. ovoga članka, ovlaštena carinarnica donijet će privremeno rješenje o ostvarivanju predmetne carinske odnosno porezne povlastice, uz naznaku roka za dostavu isprave o registraciji djelatnosti i izvješća o početku obavljanja djelatnosti.
+Ne dostavi li korisnik povlastice u privremenom rješenju određenom roku isprave iz stavka 2. ovoga članka, ovlaštena carinarnica će rješenjem odbiti zahtjev korisnika za ostvarivanje povlastice, ukinuti privremeno rješenje te provesti redoviti postupak carinjenja robe.

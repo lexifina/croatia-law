@@ -1,0 +1,3 @@
+# Članak 22.
+Rok za ponovno ostvarivanje carinske i poreznih olakšica pri uvozu osobnih automobila korisnicima predmetne carinske i poreznih povlastica, koji su tu povlasticu prvotno ostvarili prema Zakonu o pravima hrvatskih branitelja iz domovinskog rata ("Narodne novine", br. 2/94, 52/94 i 36/95), računa se od dana prvotnoga ostvarivanja povlastice.
+Iznimno, korisnici olakšice iz stavka 1. ovoga članka, koji su djelomice bili oslobođeni plaćanja carinskih i poreznih obveza, a te obveze namire prije isteka roka zabrane otuđenja, mogu koristiti poreznu i carinsku olakšicu po odredbama novoga zakona, s tim da im se novi rok zabrane otuđenja računa od dana ponovnoga ostvarivanja povlastice.

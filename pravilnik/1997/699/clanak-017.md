@@ -1,0 +1,4 @@
+# Članak 17.
+Carinarnica uvoznog carinjenja robe donosi skraćeno rješenje o oslobađanju od plaćanja carine glede robe za koju je korisnik olakšice podnio uvozne carinske deklaracije, a na izvorniku rješenja iz članka 16. ovoga pravilnika bilješkom naznačuje carinarnicu i carinsku ispostavu uvoznog carinjenja robe, broj i datum podnošenja uvozne carinske deklaracije, te vrijednost robe koja se uvozi.
+Kopija ili preslik rješenja i podnijete uvozne carinske deklaracije iz stavka 1. ovoga članka neposredno odlaže u spis, odnosno dostavlja carinarnici koja je donijela rješenje o ostvarivanju predmetne olakšice (članak 16).
+Carinarnica koja je donijela rješenje (članak 16.) vodi očevidnik o ostvarivanju olakšice putem odlaganja uvozne carinske deklaracije u predmetni spis, a u roku tri mjeseca po isteku rješenjem utvrđenog roka za ostvarivanje olakšice obvezatno provodi i reviziju cijeloga postupka, sukladno carinskim propisima.

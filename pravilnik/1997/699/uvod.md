@@ -1,0 +1,1 @@
+Na temelju članka 32. Carinskog zakona ("Narodne novine", br. 53A/91, 33/92, 106/93 i 92/94) i članka 55. Zakona o porezu na promet proizvoda i usluga ("Narodne novine", br. 95/94, 34/95 i 19/96), a u svezi s člankom 6. stavak 1. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine", br. 108/96), ministar financija donosi
