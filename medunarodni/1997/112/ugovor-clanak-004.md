@@ -1,0 +1,7 @@
+# Članak 4.
+1. Ugovorne stranke poduzet će sve potrebne mjere za poticanje tehničke suradnje između njih putem razmjene znanstvenih i tehnoloških podataka i stručnjaka, tehničara i nastavnika, kao i poticanje svih oblika tehničke suradnje između specijaliziranih ustanova obje ugovorne stranke.
+2. Ugovorne stranke su suglasne da će svako intelektualno vlasništvo koje proiziđe iz primjene ovog Ugovora biti njihovo zajedničko vlasništvo.
+a) Svakoj će ugovornoj stranci biti dozvoljeno da koristi takvo intelektualno vlasništvo u svrhu održavanja, prilagodbe i poboljšanja tog vlasništva;
+b) U slučaju da bilo koja od ugovornih stranki i/ili institucija u ime te ugovorne stranke koristi intelektualno vlasništvo za komercijalne svrhe, druga ugovorna stranka ima pravo na razumni i odgovarajući dio dobitka.
+3. Ugovorne stranke jamče jedna drugoj da prava intelektualnog vlasništva, koja jedna ugovorna stranka donese na teritorij druge ugovorne stranke u cilju primjene bilo kojeg sporazuma ili aktivnosti što se predviđaju u primjeni ovog Ugovora, ne proizlaze iz bilo kakve povrede legitimnih prava treće stranke.
+4. Za bilo kakav zahtjev treće strane glede vlasništva i zakonitosti korištenja bilo kojeg intelektualnog vlasništva koje je bilo koja od ugovornih stranki donijela u cilju primjene bilo kojeg projekta ili aktivnosti što se predviđaju u primjeni ovog Ugovora, bit će isključivo odgovorna ona ugovorna stranka koja donese takvo intelektualno vlasništvo.
