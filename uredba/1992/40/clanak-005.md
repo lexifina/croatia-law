@@ -1,0 +1,2 @@
+# Članak 5.
+Organ upravljanja Poduzećem je Upravni odbor. Upravno odbor ima pet članova od kojih tri imenuje Vlada Republike Hrvatske, a dva biraju radnici Poduzeća. Upravni odbor Poduzeća "Plovput" konstituirat će se najkasnije tijekom 30 dana nakon stupanja na snagu ove uredbe. Upravni odbor odlučuje većinom glasova svojih članova. Članovi Upravnog odbora imenuju se odnosno biraju na vrijeme od četiri godine.

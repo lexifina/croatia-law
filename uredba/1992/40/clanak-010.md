@@ -1,0 +1,2 @@
+# Članak 10.
+Upravni odbor dužan je u roku od tri mjeseca od dana stupanja na snagu ove uredbe uz suglasnost Vlade Republike Hrvatske, donijeti Statut Poduzeća, a ostale akte utvrđene ovom uredbom u roku od 6 mjeseci od dana stupanja na snagu ove uredbe. Do donošenja Statuta i drugih općih akata Poduzeća shodno će se primjenjivati statut i drugi opći akti postojeće Ustanove za održavanje pomorskih plovnih putova, ukoliko nisu u suprotnosti s ovom uredbom.
