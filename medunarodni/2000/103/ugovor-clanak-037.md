@@ -1,0 +1,6 @@
+# Članak 37.
+PRIDRŽANO PRAVO
+1. Svaka država može u vrijeme potpisivanja ili polaganja svojeg instrumenta ratifikacije, prihvaćanja, odobravanja ili pristupanja iskoristiti pravo da ne uvede, djelomično ili u cijelosti, u svom tuzemnom zakonu kazneni prekršaj koji proizlazi iz članaka 4., 6. do 8., 10. i 12. ili prekršaj pasivnog podmićivanja iz članka 5.
+2. Svaka država može u vrijeme potpisivanja ili polaganja svojeg instrumenta ratifikacije, prihvaćanja, odobravanja ili pristupanja izjaviti da će uporabiti pridržano pravo sukladno članku 17., stavku 2.
+3. Svaka država može u vrijeme potpisivanja ili polaganja svojeg instrumenta ratifikacije, prihvaćanja, odobravanja ili pristupanja izjaviti da može odbiti međusobnu pravnu pomoć prema članku 26., stavku 1., ako se zahtjev odnosi na prekršaj kojeg zemlja potpisnica, kojoj je poslan zahtjev, smatra političkim prekršajem.
+4. Niti jedna država ne smije prilikom primjene stavka 1., 2. i 3. ovog članka uporabiti pridržano pravo sa više od 5 ovdje spomenutih propisa. Ne smije se uporabiti nikakvo dodatno pridržano pravo. Pridržano pravo koje se odnosi na predmete iste prirode glede članaka 4., 6. i 10. smatrat će se pridržanim pravom za samo jedan predmet.

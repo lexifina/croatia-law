@@ -1,0 +1,3 @@
+# Članak 13.
+PRANJE NOVCA STEČENOG PREKRŠAJIMA VEZANIM UZ KORUPCIJU
+Svaka zemlja potpisnica donijet će one nužne pravne i druge mjere kojima se prema njenom tuzemnom zakonu, kaznenim djelom smatra čin naveden u Konvenciji Vijeća Europe o pranju, pretraživanju, zapljeni i konfiskaciji prihoda od kriminala (ETS Br. 141), članku 6., stavcima 1. i 2., pod ovdje navedenim uvjetima, kad se glavno kažnjivo djelo sastoji od bilo kojeg kaznenog djela utvrđenog sukladno člancima od 2. do 12. ove Konvencije, osim ako zemlja potpisnica nije primijenila pridržano pravo ili dala iskaz glede tih kaznenih djela ili ih u svojem zakonodavstvu vezanom za pranje novca ne smatra teškim kaznenim djelima.

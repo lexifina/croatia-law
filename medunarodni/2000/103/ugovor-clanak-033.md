@@ -1,0 +1,4 @@
+# Članak 33.
+PRISTUPANJE KONVENCIJI
+1. Nakon stupanja na snagu ove Konvencije, Odbor ministara Vijeća Europe može nakon konzultacija sa zemljama potpisnicama ove Konvencije pozvati Europsku zajednicu, kao i svaku državu koja nije članica Vijeća Europe i koja nije sudjelovala u sastavljanju ove Konvencije, da joj pristupi putem većinske odluke sukladno članku 20d. Statuta Vijeća Europe i putem jednoglasne odluke predstavnika zemalja članica koji sjede u Odboru ministara.
+2. Glede Europske zajednice i svake zemlje koja želi pristupiti Konvenciji sukladno gornjem stavku 1., Konvencija će stupiti na snagu prvog dana u mjesecu nakon isteka razdoblja od tri mjeseca od datuma polaganja instrumenta pristupanja generalnom tajniku Vijeća Europe. Europska zajednica i svaka zemlja koja pristupa ovoj Konvenciji, a koja nije članica GRECO zemalja u vrijeme pristupanja, na datum stupanja na snagu ove Konvencije automatski će postati članicom.

@@ -1,0 +1,3 @@
+# Članak 12.
+TRGOVANJE UTJECAJEM
+Svaka zemlja potpisnica donijet će one nužne pravne i druge mjere kojima se prema njenom tuzemnom zakonu, kaznenim djelom smatra namjerno obećavanje, davanje ili nuđenje, izravno ili neizravno, bilo koje nepripadajuće koristi bilo kojoj osobi koja tvrdi ili potvrdi da je sposobna neprimjereno utjecati na odluku bilo koje druge osobe navedene u člancima 2., 4. do 6. i 9. do 11., neovisno o tomu je li nepripadajuća korist namijenjena toj osobi ili nekom drugom, kao i potraživanje, primanje ili prihvaćanje ponude ili obećanja glede takve koristi, a u odnosu na vlastiti utjecaj, neovisno o tomu hoće li se takav utjecaj izvršiti i hoće li on dati željeni rezultat.
