@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 18. Statuta Općine Dragalić (»Službeni glasnik« 3/2001), Općinsko vijeće Općine Dragalić na svojoj 7. sjednici održanoj 26. studenoga 2001. godine, donijelo je
