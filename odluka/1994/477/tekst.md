@@ -1,0 +1,7 @@
+o valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1993.
+1. U slučajevima kada se mirovinska osnovica utvrđuje preračunavanjem osnovica osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1993. osnovice osiguranja i plaće ostvarene u godini od 1966. do 1992. koji se uzimaju za utvrđivanje mirovinske osnovice, preračunavaju se s odgovarajućim valorizacijskim koeficijentima, ovisno o godini u kojoj su ostvareni, i to:
+Osnovice osiguranja i Valorizacijski koeficijenti
+plaće ostvarene u godini
+1966. 7.266.484,9435 1967. 6.337.141,0193 1968. 5.822.158,9430 1969. 5.034.653,3752 1970. 4.197.564,7612 1971. 3.368.356,5365 1972. 2.860.405,3160 1973. 2.527.510,1007 1974. 2.007.314,8094 1975. 1.622.411,8366 1976. 1398.986,3410 1977. 1.177.500,6349 1978. 969.592,0184 1979. 801.325,6379 1980. 660.093,4397 1981. 486.008,2118 1982. 381.023,7950 1983. 303.921,9713 1984. 212.999,8803 1985. 121.229,3847 1986. 57.813,6067 1987. 28.167,3976 1988. 10.230,4077 1989. 639,5577 1990. 109,9792 1991. 65,4286 1992. 15,7880
+2. S danom stupanja na snagu ove odluke, prestaje važiti Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osnovica osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1993. ("Narodne novine", broj 112/93.).
+3 Ova odluka stupa na snagu idućeg dana nakon objave u "Narodnim novinama", a primjenjivat će se od 1. siječnja 1994.
