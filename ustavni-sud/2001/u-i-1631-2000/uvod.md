@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Smiljko Sokol, predsjednik Suda, te suci Marijan Hranjski, Petar Klarić, Jurica Malčić, Ivan Matija, Ivan Mrkonjić, Jasna Omejac, Emilija Rajić, Vice Vukojević i Milan Vuković, odlučujući u povodu prijedloga za ocjenu ustavnosti, na sjednici održanoj dana 28. ožujka 2001. godine, donio je sljedeće
