@@ -1,0 +1,4 @@
+# Članak 76.
+Za određivanje jedinične vrijednosti u skladu s člankom 35. Carinskog zakona ne smiju se koristiti slučajevi prodaje u Republici Hrvatskoj osobama koje neposredno ili posredno, besplatno ili po sniženim cijenama dobavljaju robu ili obavljaju usluge iz članka 38. stavka 1. točke b) Carinskog zakona u svezi sa proizvodnjom ili prodajom uvezene robe.
+U smislu članka 35. stavka 2. Carinskog zakona termin u najkraćem roku poslije uvoza smatra se onaj dan do kojeg je obavljen dostatan broj prodaja uvezene robe ili uvezene istovjetne ili slične robe u dovoljno velikoj količini za određivanje jedinične cijene.
+U smislu članka 35. Carinskog zakona jedinična cijena po kojoj se prodaje najveći mogući broj jedinica je cijena po kojoj je najveći broj jedinica prodan nepovezanim kupcima na prvoj trgovačkoj razini nakon uvoza na kojoj se takve prodaje ostvaruju.

@@ -1,0 +1,10 @@
+# Članak 106.
+Ako se prtljaga pristigla u domaću zračnu luku zrakoplovom iz inozemstva pretovara u zrakoplov koji nastavlja let u carinskom području:
+- sve se kontrole i formalnosti koje se odnose na predanu prtljagu izvode u domaćoj zračnoj luci u kojoj se putovanje završava, pod uvjetom da je to zračna luka za međunarodni promet,
+- sve kontrole ručne prtljage obavljaju se u prvoj domaćoj zračnoj luci za međunarodni promet; iznimno, ako se nakon kontrole predane prtljage pokaže potreba, može se obaviti dodatna kontrola ručne prtljage u domaćoj zračnoj luci za međunarodni promet u kojoj putovanje završava, te
+- iznimno kontrola predane prtljage može se obaviti u prvoj domaćoj zračnoj luci ako se nakon kontrole ručne prtljage to smatra potrebnim.
+Ako se u domaćoj zračnoj luci utovari prtljaga u zrakoplov koji leti u drugu domaću zračnu luku, pa se u drugoj domaćoj zračnoj luci pretovari u zrakoplov koji nastavlja put u inozemstvo:
+- sve kontrole i formalnosti, koje se odnose na predanu prtljagu, obavljaju se u domaćoj zračnoj luci gdje putovanje počinje pod uvjetom da je to domaća zračna luka za međunarodni promet,
+- sve kontrole ručne prtljage obavljaju se u zadnjoj domaćoj zračnoj luci za međunarodni promet; iznimno, kontrola prtljage može se obaviti u zračnoj luci gdje je putovanje započelo, ako se nakon kontrole predane prtljage to smatra potrebnim.
+Sve kontrole i formalnosti koje se odnose na prtljagu pristiglu u domaću zračnu luku redovnim ili čarter letom iz inozemstva i koja se u toj zračnoj luci pretovara u turistički ili poslovni zrakoplov namijenjen letu u carinskom području, obavljaju se u zračnoj luci u kojoj redovni ili čarter let završava.
+Sve kontrole i formalnosti oko prtljage utovarene u domaćoj zračnoj luci u turistički ili poslovni zrakoplov namijenjen letu u carinskom području radi pretovara u drugoj domaćoj zračnoj luci u zrakoplov na redovnom ili čarter letu u inozemstvo, obavlja se u domaćoj zračnoj luci u kojoj taj redovni ili čarter let počinje.

@@ -1,0 +1,6 @@
+## Poglavlje 4. Primjena sustava za analizu rizika u carinskom postupku
+# Članak 4.
+Radi stvaranja uvjeta za održavanje normalnoga toka prekograničnoga robnoga i putničkoga prometa u uvjetima osiguranja optimalnog stupnja zaštite interesa državnog proračuna, Carinska uprava ustrojava i razvija sustav analize i procjene rizika s obzirom na strukturu robnoga prometa prema vrstama roba i visini uvoznih opterećenja, strukturi sudionika u robnome i putničkome prometu, vrsti prijevoznih sredstava, prometnim putevima i drugim okolnostima mjerodavnim za procjenu stupnja rizičnosti pojedine robne pošiljke ili sudionika u carinsko pravnome prometu, kao osnovice za utvrđivanje kriterija i donošenje odluka o selektivnoj provedbi ili opsegu provedbe propisanih mjera carinskog nadzora ili carinske provjere.
+Osnove za izgradnju sustava analize i procjene rizika i kriterije za selektivnu provedbu mjera carinskoga nadzora i provjere utvrđuje ministar financija.
+Sustavom analize i procjene rizika upravlja ravnatelj Carinske uprave.
+Podaci sadržani u bazama podataka sustava za analizu i procjenu rizika ili proistekli iz toga sustava, kriteriji za selektivnu provedbu mjera carinskoga nadzora ili provjere, te nalozi za provedbu određenih mjera carinskoga nadzora ili provjere službena su tajna.

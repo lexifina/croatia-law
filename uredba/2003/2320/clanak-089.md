@@ -1,0 +1,4 @@
+# Članak 89.
+U slučaju sumnje da deklarirana vrijednost ne predstavalja stvarno plaćenu cijenu ili cijenu koju treba platiti, carinarnica može zahtijevati dodatna pojašnjenja uključujući prilaganje dodatnih isprava ili podataka iz kojih je vidljivo da je deklarirana vrijednost ukupna svota stvarno plaćena ili plativa za uvezenu robu, usklađena sukladno članku 38. i 39. Carinskog zakona.
+Ako deklarant nije pružio dodatna pojašnjenja, dodatne podatke ili isprave ili su oni nedostatni, carinarnica mora prije donošenja konačne odluke obavijestiti deklaranta, ako deklarant to zahtjeva carinarnica ga obavještava pisano, o razlozima za sumnju o istinitosti ili točnosti vrijednosti, te mu odrediti odgovarajući rok za podnošenje objašnjenja.
+O konačnoj odluci, te o razlozima za njezino donošenje carinarnica mora pisano obavijestiti deklaranta.

@@ -1,0 +1,3 @@
+# Članak 34.
+Obrascem FORM A dokazuje se hrvatsko podrijetlo robe radi stjecanja povlaštenog postupanja s robom na osnovu općih shema povlastica (Generalized System of Preferences - GSP), kojeg izdaje Hrvatska gospodarska komora, ako su ispunjeni propisani uvjeti, za primjenu u određenoj zemlji. Obrazac FORM A izdaje se na obrascu koji je u Prilogu 5. ove Uredbe i njezin je sastavni dio.
+Druge dokaze o hrvatskom podrijetlu robe koji se koriste radi stjecanja povlaštenog carinskog postupanja izdaju carinarnice, osim ako međunarodnim sporazumom koji propisuje povlašteno carinsko postupanje nije propisana nadležnost drugog tijela.

@@ -1,0 +1,3 @@
+# Članak 5.
+Kriteriji za selektivnu provedbu mjera carinskog nadzora ili provjere i nalozi za provedbu određenih mjera carinskoga nadzora ili provjere, kao sastavnim dijelom sustava analize i procjene rizika, utvrđuju se pisano ili putem sredstava za elektroničnu obradu podataka.
+Ovlašteni carinski službenici dužni su pri provedbi mjera carinskoga nadzora i carinske provjere postupati sukladno podacima proisteklim iz sustava analize i procjene rizika, te na njima zasnovanim kriterijima za provedbu pojedinih carinskih procedura i naloga za poduzimanje određenih mjera carinskoga nadzora ili provjere.

@@ -1,0 +1,6 @@
+# Članak 160.
+Puštanjem robe nastaje obveza knjiženja duga utvrđenog na osnovi podataka u carinskoj deklaraciji.
+Ako je vjerojatno da bi rezultati provjere carinske deklaracije mogli prouzročiti viši carinski dug od duga koji bi carinarnica obračunala na osnovi podataka navedenih u carinskoj deklaraciji, deklarant mora prije nego mu se roba pusti, bez obzira na rezultat provjere, položiti prikladan instrument osiguranja također i za moguću razliku u visini obračunatog carinskog duga.
+Ako carinarnica na osnovi provjere deklaracije ustanovi da iznos carinskog duga ne odgovara podatku koji je deklarant naveo u deklaraciji, robu može pustiti deklarantu ako je tako utvrđeni carinski dug plaćen ili za njega podnesen odgovarajući instrument osiguranja.
+Ako carinarnica uzima uzorke robe radi provjere točnosti i pravilnosti prihvaćene deklaracije, robu može pustiti deklarantu prije završetka ispitivanja uzorka, ako je nastali ili mogući carinski dug u svezi s tom robom prikladno osiguran i ako puštanje robe ne onemogućavaju drugi razlozi.
+Ako carinarnica do okončanja provjere carinske deklaracije ne može ustanoviti je li roba na koju se deklaracija odnosi predmet kakvih ograničenja ili zabrana, robu se ne može pustiti deklarantu sve dok nisu poznati rezultati provjere.

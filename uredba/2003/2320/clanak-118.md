@@ -1,0 +1,4 @@
+# Članak 118.
+Ako se za provođenje provoznog i prethodnog carinskog postupka upotrijebi jedan set JCD, sukladno članku 76. Carinskog zakona svaka je osoba odgovorna samo za one podatke koji se odnose na carinski postupak u kojem ona nastupa kao deklarant, glavni obveznik ili opunomoćenik jedne od njih.
+U skladu sa stavkom 1. ovog članka deklarant koji upotrebljava JCD izdan u svezi s prethodnim carinskim postupkom mora prije podnošenja svoje deklaracije provjeriti točnost postojećih podataka u poljima JCD za koje je on odgovoran, kao i upotrebljivost tih podataka za dotičnu robu i carinski postupak kojeg je zahtijevao. Po potrebi deklarant mora te podatke dopuniti.
+U slučajevima iz stavaka 1. i 2. ovog članka deklarant mora odmah izvijestiti carinarnicu kojoj je podnio deklaraciju da je uočio nesklad između robe i postojećih podataka. U tom slučaju deklarant mora svoju carinsku deklaraciju popuniti na novom obrascu JCD.

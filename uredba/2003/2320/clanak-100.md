@@ -1,0 +1,2 @@
+# Članak 100.
+Bez utjecaja na članak 67. Carinskog zakona i odredbi o primjeni propisa o prodaji robe koji su u nadležnosti carinske službe, osoba koja je podnijela skraćenu deklaraciju mora poštivati mjere koje je odredila carinarnica sukladno članku 65. stavku 1. Carinskog zakona i mora snositi nastale troškove. Ako skraćena deklaracija nije podnesena, za provedbu mjera koje je odredila carinarnica odgovorna je osoba koja bi u skladu s člankom 56. stavkom 2. Carinskog zakona morala podnijeti skraćenu deklaraciju.
