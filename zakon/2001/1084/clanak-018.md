@@ -1,0 +1,4 @@
+# Članak 18.
+Kad pravna ili fizička osoba s pravnom osnovom na temelju građevne dozvole ili drugog akta mijenja namjenu poljoprivrednog zemljišta tako da se ono više ne iskorištava za poljoprivrednu proizvodnju, plaća jednokratnu naknadu zbog umanjenja vrijednosti i površine poljoprivrednog zemljišta kao dobra od interesa za Republiku (u daljnjem tekstu: naknada).
+Zemljište iz članka 2. stavka 3. ovoga Zakona privodi se namjeni kao građevno u smislu ovoga Zakona danom konačnosti građevne dozvole ili drugog akta kojim se odobrava gradnja.
+Promjenom namjene poljoprivrednog zemljišta smatra se i eksploatacija pijeska, šljunka, kamena, ciglarske i lončarske gline, površinski kopovi te stvaranje odlagališta krutog i tekućeg otpada i drugih mineralnih sirovina izgradnja sportskih terena i objekata u smislu posebnog zakona.

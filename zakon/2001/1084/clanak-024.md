@@ -1,0 +1,2 @@
+# Članak 24.
+Ako se poljoprivredno zemljište u vlasništvu države iz članka 23. ovoga Zakona nalazi na području više jedinica lokalne samouprave, odluku o raspisivanju natječaja i odluku o izboru najpovoljnije ponude donosi općinsko vijeće, gradsko vijeće, odnosno skupština Grada Zagreba na čijem je području pretežni dio površine poljoprivrednog zemljišta u vlasništvu države, uz suglasnost Ministarstva.
