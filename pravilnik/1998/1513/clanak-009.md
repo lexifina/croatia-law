@@ -1,0 +1,3 @@
+# Članak 9.
+Korisnik koji je rješenjem centra za socijalnu skrb smješten u dom socijalne skrbi kojeg je osnivač Republika Hrvatska i njegovi obveznici uzdržavanja izvršavaju svoju obvezu sudjelovanja u plaćanju troškova smještaja na način utvrđen ugovorom o međusobnim pravima i obvezama između korisnika ili njegovog zakonskog zastupnika, obveznika uzdržavanja i ustanove socijalne skrbi.
+Dom socijalne skrbi dužan je voditi mjesečnu evidenciju i obračun plaćanja, te naplaćena sredstva od korisnika i njihovih obveznika uzdržavanja uplatiti na račun ministarstva nadležnog za poslove socijalne skrbi u roku 7 dana od dana naplate tih sredstava, a višak doznačenih sredstava isplatiti korisniku u roku 3 dana.
