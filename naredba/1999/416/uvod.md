@@ -1,0 +1,1 @@
+Na temelju članka 103. stavka 8. Zakona o zdravstvenoj zaštiti ("Narodne novine", broj 75/93, 11/94, 55/96, 1/97 - pročišćeni tekst) te članka 13. stavka 1. Pravilnika o radnom vremenu u zdravstvenim ustanovama ("Narodne novine" 38/97) ministar zdravstva donosi
