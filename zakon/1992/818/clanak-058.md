@@ -1,0 +1,10 @@
+## VII. KORIŠTENJE PRAVOM I PRESTANAK PRAVA
+# Članak 58.
+Osobna invalidnina, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak, obiteljska invalidnina i uvećana obiteljska invalidnina, pripadaju od prvog dana idućeg mjeseca od dana ispunjenja uvjeta ako je zahtjev za priznavanje tih prava podnijet u roku od tri mjeseca od dana ispunjenja uvjeta.
+Ako je zahtjev za priznavanje prava na osobnu invalidninu, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak, obiteljsku invalidninu i uvećanu obiteljsku invalidninu, podnijet po isteku roka od tri mjeseca od dana ispunjenja uvjeta, ta prava pripadaju od prvog dana idućeg mjeseca nakon podnošenja zahtjeva.
+Danom ispunjenja uvjeta za ostvarivanje prava po osnovi bolesti dobivene pod okolnostima iz članka 5., stavka 1., točke l. i članka 7., stavka 1. ovoga Zakona smatra se dan otpuštanja iz oružanih snaga.
+Opskrbnina i dodatak za pripomoć u kući pripadaju od prvog dana idućeg mjeseca nakon podnošenja zahtjeva,
+Ako je zahtjev za priznavanje prava na opskrbninu podnijet prije donošenja rješenja o priznavanju prava na invalidninu, opskrbnina pripada od prvog dana idućeg mjeseca nakon što je na rješenje o pravu na invalidninu data suglasnost u revizionom postupku.
+Ako je zahtjev za priznavanje prava na dodatak za pri pomoć u kući podnijet prije donošenja rješenja o priznanju prava na opskrbninu, dodatak za pripomoć u kući pripada od prvog dana idućeg mjeseca nakon donošenja rješenja o priznanju prava na opskrbninu.
+Iznimno od odredbe stavka 1. i 2. ovoga članka pravo na osobnu invalidninu, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak, obiteljsku invalidninu i uvećanu obiteljsku invalidninu - za oštećenje organizma nastalo, odnosno smrt osobe od koje se izvodi pravo nastupilo pod okolnoslima iz članka 5. stavka 1. točke 1 i stavka 2. ovoga Zakona pripada od prvog dana idućeg mjeseca po ispunjenju uvjeta.
+Doplatak za djecu pripada od dana određenog propisima o tome doplatku.

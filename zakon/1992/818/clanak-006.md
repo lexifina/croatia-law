@@ -1,0 +1,11 @@
+# Članak 6.
+Mirnodopski vojni invalid je osoba koja je u miru, bez svoje krivnje, ranjena, povrijeđena ili ozlijeđena, pa je zbog toga njezin organizam oštećen za najmanje 20% i to:
+1. kao djelatna vojna osoba u ·obavljanju specifičnih vojnih dužnosti u oružanim snagama Republike Hrvatske (bojeve vježbe, bojevo gađanje, služba straže, situacija bojeve gotovosti i sl.);
+2. kao vojna osoba u obavljanju obvezne vojne službe u oružanim snagama Republike Hrvatske ili u svezi s tom službom ili u obavljanju dužnosti u vojnoj školi u svojstvu kadeta koji se osposobljava za oružane snage Republike Hrvatske;
+3. kao aktivna vojna osoba u obavljanju specifičnih vojnih dužnosti u Jugoslavenskoj narodnoj armiji (bojeve vježbe bojevo gađanje, služba straže, situacija bojeve gotovosti i sl.) do 8. svibnja 1991;
+4. kao vojna osoba u obavljanju obvezne vojne službe u Jugoslavenskoj narodnoj armiji u koju ju je uputio nadležni organ Republike Hrvatske ili u svezi s tom službom, osim ako joj je organizam oštećen neposrednim aktivnim sudjelovanjem u oružanim akcijama protiv Republike Hrvatske. Ne smatra se da su neprijateljski djelovali protiv Republike Hrvatske oni hrvatski državljani koji su kao vojni obveznici upućeni na bojište u sastavu bivše JNA protiv vlastite volje i bez mogućnosti da budu otpušteni ili da pobjegnu iz te vojske;
+5. na vojnoj vježbi pričuvnog vojnog sastava Republike Hrvatske ili drugih službi i jedinica organiziranih od strane Ministarstva obrane;
+6. pri obavljanju ili u povodu obavljanja zadataka i poslova službe javne sigurnosti legalnih tijela Republike Hrvatske kod kojih je došlo do uporabe vatrenog ili hladnog aružja.
+Odredbe stavka 1. točke 1. i 2 ovoga članka primjenjuju se i na pripadnike Ministarstva unutarnjih poslova i Zbora narodne garde u pogledu oštećenja organizma nastalog u obavljanju stručne obuke u funkciji priprema za obranu Republike Hrvatske.
+Nehat se, ne smatra krivnjom u smislu stavka 1. ovoga članka.
+Odlazak na bojeve vježbe i bojevo gađanje i povratak s (takove vježbe i gađanja odnosno odlazak na vojnu vježbu i povratak s vojne vježbe ne smatra se obavljanjem specifičnih vojnih dužnosti odnosno vojnom vježbom pričuvnog vojnog sastava u smislu stavka 1. točke 1. i 3., odnosno točke 5. ovoga članka.

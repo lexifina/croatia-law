@@ -1,0 +1,2 @@
+# Članak 101.
+Žrtve fašističkog terora, građanska žrtva rata, odnosno žrtva neprijateljskog djelovanja kojoj je to svojstvo priznato, do stupanja na snagu ovoga Zakona, po Zakonu o zaštiti žrtava fašističkog terora i građanskih žrtava rata ("Narodne novine", br. 57/85., 55/86., 27/88. i 57/89.), odnosno po propisima koji su prethodili tome zakonu, smatra se civilnim invalidom rata i koristi se pravima u opsegu i uz uvjete to su ovim Zakonom propisani za civilne invalide rata, ako ispunjava uvjete iz članka 3. ovoga Zakona.

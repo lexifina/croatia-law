@@ -1,0 +1,3 @@
+# Članak 87.
+Rješenja kojima je, prema odredbama ovoga Zakona, priznato pravo na osobnu invalidninu, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak, obiteljsku invalidninu, uvećanu obiteljsku invalidninu, opskrbninu, dodatak za pripomoć u kući, doplatak za djecu i pravo na naknadu troškova prijevoza izvršava nadležni općinski organ uprave po službenoj dužnosti, ukoliko ministar rada, socijalne skrbi i obitelji drukčije ne odredi.
+Iznimno od odredbe iz stavka 1. ovoga članka novčana primanja po ovom Zakonu korisnicima s prebivalištem u inozemstvu isplaćuje Služba za računovodstvene poslove Ministarstva rada, socijalne skrbi i obitelji.

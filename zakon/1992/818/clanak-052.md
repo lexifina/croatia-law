@@ -1,0 +1,4 @@
+## VI. POSEBNE ODREDBE
+# Članak 52.
+Mjesečne svote osobne invalidnine, dodatka za njegu i pomoć druge osobe, ortopedskog dodatka, posebnog dodatka, obiteljske invalidnine, uvećane obiteljske invalidnine, dodatka za pripomoć u kući i svota osnovice za određivanje opskrbnine usklađuje se početkom svake kalendarske godine uzimajući u obzir kretanje prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini i materijalne mogućnosti Republike.
+Mjesečne svote osobne invalidnine, dodatka za njegu i pomoć druge osobe, ortopedskog dodatka, posebnog dodatka, obiteljske invalidnine, uvećane obiteljske invalidnine, dodatka za pripomoć u kući i svota osnovice za određivanje opskrbnine, usklađene po odredbi stavka 1. ovoga članka, mogu se uskladiti i početkom drugog polugodišta prema prosječnoj mjesečnoj plači svih zaposlenih u Republici Hrvatskoj iz prethodnog polugodišta azko se za to osiguraju sredstva.

@@ -1,0 +1,2 @@
+# Članak 73.
+Činjenica da je bolest nastala, pogoršala se odnosno pojavila pod okolnostima iz članka 5., stavka 1., točke 1., članka 7., stavka 1. i članka 8., stavka 2. ovoga Zakona utvrđuje se na temelju medicinske dokumentacije koja potječe iz vremena sudjelovanja u obrani Republike Hrvatske, službe u oružanim snagama odnosno trajanja neprijateljstava ili iz razdoblja 30 dana nakon prestanka sudjelovanja u obrani Republike Hrvatske, otpuštanja iz oružanih snaga, odnosno prestanka neprijateljstava.

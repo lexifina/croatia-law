@@ -1,0 +1,4 @@
+# Članak 65.
+Ako se korisnik mjesečnih novčanih primanja iz ovoga Zakona nalazi u pritvoru, članovima obitelji koje korisnik uzdržava isplaćuje se polovica tih primanja. Zadržana polovica primanja isplatit će se korisniku, ako krivični postupak bude pravomoćnom odlukom obustavljen, ili ako korisnik pravomoćnom presudom bude oslobođen optužbe,
+odnosno ako optužba protiv njega bude odbijena, ali ne zbog nenadležnosti suda.
+Ako se korisnik opskrbnine i dodatka za pripomoć u kući nalazi na izdržavanju kazne zatvora preko jednog do šest mjeseci, pripada mu za to vrijeme polovica tih primanja ako uzdržava članove obitelji u kućanstvu, a ako ne uzdržava takove članove obitelji ne pripadaju mu za to vrijeme ta primanja. Ako opskrbninu koriste dva ili više sukorisnika obiteljske invalidnine, ostalim sukorisnicima isplaćuje se dio opskrbnine koji njima pripada.

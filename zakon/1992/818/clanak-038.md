@@ -1,0 +1,4 @@
+# Članak 38.
+Sukorisnicima opskrbnine koji žive u zajedničkom kućanstvu, opskrbnina, određena po članku 37. stavku 4. ovoga Zakona, pripada na jednake dijelove.
+Ako obiteljsku invalidninu koristi više osoba koje iz opravdanih razloga žive odvojeno (razvedeni roditelji, djeca rođena u braku i djeca rodena izvan braka i dr.), a prihodi im ne potječu iz zajedničkih izvora opskrbnina pripada samo onim sukorisnicima koji ispunjavaju uvjete za stjecanje prava na opskrbninu.
+Ako dva ili više sukorisnika obiteljske invalidnine iz stavka 2. ovoga članka ispunjavaju uvjete za stjecanje prava na opskrbninu, svakome od njih pripada svota koja bi mu pripadala kao samostalnom korisniku, s time da zbroj tih svota ne može biti veći od osnovice za određivanje opskrbnine povećane po članku 37. stavku 4. ovoga Zakona. Ako je zbroj tih svota veći, opskrbnina pripada svakom od sukorisnika u omjeru sa svotama koje bi im pripadale kao samostalnim korisnicima.

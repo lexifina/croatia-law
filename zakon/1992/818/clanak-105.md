@@ -1,0 +1,2 @@
+# Članak 105.
+Strani držvljani, osim državljana drugih republika s teritorija bivše Socijalističke Federativne Republike Jugoslavije, koji su u svojstvu stranog državljana ostvarili svojstvo vojnog invalida po Zakonu o osnovnim pravima vojnih invalida i obitelji palih boraca ("Službeni list SFRJ", br 68/81., 41/83., 75/85., 44/89., 87/89., 20/90. i 42/90.), odnosno po propisima koji su prethodili tome zakonu, a koji imaju prebivalište na teritoriju Republike Hrvatske zadržavaju svojstvo vojnog invalida i koriste se pravima uz uvjete i u opsegu što su propisani ovim Zakonom.

@@ -1,0 +1,3 @@
+# Članak 30.
+Roditelj čije je jedno dijete izgubilo život pod okolnostima iz članka 5. ovoga Zakona te roditelj koji je imao više djece, pa je jedno izgubilo život pod istim okolnostima, a ostala su izgubila život pod okolnostima iz članka 8. ovoga Zakona, ima pravo na obiteljsku invalidninu iz članka 28. stavka 3. ovoga Zakona povećanu za 50% uz uvjet da nijedno od te djece nije ostavilo poroda i da taj roditelj kasnije nije imao druge djece.
+Ako se obiteljskom invalidninom po stavku 1. ovoga članka koriste oba roditelja kao sukorisnici svota obiteljske invalidnine određena po članku 28., stavku 3. ovoga Zakona uvećava se za 50%.

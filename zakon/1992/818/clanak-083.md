@@ -1,0 +1,4 @@
+# Članak 83.
+Ako nakon donošenja konačnog rješenja o pravima iz ovoga Zakona kod vojnog, odnosno civilnog invalida nastupe promjene, koje su od utjecaja na postotak oštećenja organizma utvrđenog konačnim rješenjem, vojni odnosno civilni invalid može, po isteku dvije godine od dana donošenja konačnog rješenja, podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma.
+Propisom iz članka 56., stavka 1. ovoga Zakona kojim se uređuje utvrđivanje postotka oštećenja organizma utvrdit će se oštećenja na osnovi kojih se može podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma i prije isteka roka od dvije godine.
+Odredbe stavka 1. i 2. ovoga članka primjenjuju se i na osobu kojoj nije priznato svojstvo vojnog odnosno civilnog invalida zbog neudovoljavanja uvjeta što je ovim Zakonom propisan za stjecanje tog svojstva u pogledu postotka oštećenja organizma.

@@ -1,0 +1,2 @@
+# Članak 24.
+Vojni i civilni invalid ima pravo na naknadu troškova bolničkog i rehabilitacijskog liječenja i troškova za proteze, ortopedska i druga pomagala, pomoćne i sanitarne sprave u visini u kojoj po propisima o zdravstvenoj zaštiti sudjelu je u tim troškovima, ako mu je liječenje odnosno pomagalo potrebno u ostvarivanju zdravstvene zaštite u svezi s oštećenjem organizma na osnovi kojeg je ostvario svojstvo invalida.

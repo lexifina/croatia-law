@@ -1,0 +1,2 @@
+# Članak 100.
+Mirnodopski vojni invalid kojemu je to svojstvo priznato, do stupanja na snagu ovoga Zakona, po Zakonu o osnovnim pravima vojnih invalida i obitelji palih boraca ("Službeni list SFRJ", br. 68/81., 41/83., 75/85., 44/88., 87/89., 20/90. i 42/90.), odnosno po propisima koji su prethodili tome zakonu, zadržava svojstvo mirnodopskog vojnog invalida i koristi se pravima u opsegu i uz uvjete što su propisani ovim Zakonom i u slučaju kada osnova za stjecanje tog svojstva nije predviđena ovim Zakonom, ako ispunjava uvjete iz članka 3. ovoga Zakona.
