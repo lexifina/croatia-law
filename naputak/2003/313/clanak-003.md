@@ -1,0 +1,6 @@
+# Članak 3.
+Pravo na reprogram kredita, prema uvjetima iz Odluke iz članka 1. ovoga Naputka, imaju sljedeći korisnici kredita:
+- svi korisnici kredita koji su aktivni samostalni poduzetnici ili obrtnici
+- korisnici kredita koji su bili samostalni poduzetnici ili obrtnici, ali su u međuvremenu odjavili poduzeće ili obrt te su nezaposleni
+- svi korisnici kredita kojima je namjena ulaganja bila poljoprivreda.
+Svi korisnici kredita navedeni u stavku 1. ovoga članka, da bi ostvarili pravo na reprogram moraju imati potvrdu od Podpovjerenstva na praćenje zapošljavanja razvojačenih nezaposlenih branitelja da su namjenski iskoristili kredit. Ukoliko je potvrdu o namjenskom korištenju županijsko podpovjerenstvo izdalo već ranije za potrebe ostvarivanja prava na reprogram sukladno odluci Vlade Republike Hrvatske o promjeni uvjeta i načina kreditiranja od 25. ožujka 1999. godine, podpovjerenstva ne moraju potvrde izdavati ponovo, nego će se koristiti one koje se već nalaze u poslovnim bankama. Kod korisnika koji ne posjeduju potvrdu da su namjenski utrošili kredit, a zainteresirani su za reprogram, podpovjerenstvo treba obaviti namjensku kontrolu te ukoliko utvrdi da je kredit namjenski utrošen izdati o tome potvrdu.

@@ -1,0 +1,3 @@
+# Članak 7.
+Nakon što zaprimi zahtjeve za reprogram, poslovna banka će sastaviti popis onih korisnika kredita koji su podnijeli zahtjev za reprogram kredita i koji su dostavili potvrdu navedenu u članku 5. ovoga Naputka te koji imaju pravo na reprogram sukladno Odluci iz članka 1. ovoga Naputka.
+Poslovna banka će popis iz stavka 1. ovoga članka izraditi u dva originalna primjerka te će ga dostaviti u Hrvatsku banku za obnovu i razvitak. Hrvatska banka za obnovu i razvitak donosi odluku o reprogramu, a poslovne banke će na temelju dostavljene odluke zaključiti dodatak ugovoru o kreditu, kojeg uz korisnike kredita, potpisuju i jamci.
