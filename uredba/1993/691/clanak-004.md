@@ -1,0 +1,3 @@
+# Članak 4.
+Zabranjuju se fizičkim i pravnim osobama sve gospodarske aktivnosti i poslovi čija je svrha poticanje izvoza i tranzita robe porijeklom iz tzv. SRJ (Srbije i Crne Gore), sve gospodarske aktivnosti čija je svrha nabava ili prodaja robe u tzv. SRJ (Srbiju i Crnu Goru), kao i poslovanje s fizičkim i pravnim osobama iz drugih zemalja koje posluju s osobama iz tzv. SRJ (Srbije i Crne Gore).
+Pod poslovima iz stavka 1. ovog članka podrazumijevaju se osobito: kupnja robe u tzv. SRJ (Srbiji i Crnoj Gori) radi prodaje u drugim zemljama odnosno kupnja robe u tim zemljama radi prodaje u tzv. SRJ (Srbiji i Crnoj Gori); reeksportni poslovi; obavljanje zastupničkih i posredničkih poslova za pravne i fizičke osobe u tzv. SRJ (Srbiji i Crnoj Gori); i sl.

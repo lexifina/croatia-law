@@ -1,0 +1,2 @@
+# Članak 6.
+Zabranjuje se ulaganje sredstava od strane pravnih i fizičkih osoba iz tzv. SRJ (Srbije i Crne Gore) i osoba iz drugih zemalja čiji su ulagači osobe iz tzv. SRJ (Srbije i Crne Gore) u poduzeća, druge pravne osobe i radnje u Republici Hrvatskoj, kao i osnivanje vlastitih poduzeća i radnji pravnih i fizičkih osoba iz tzv. SRJ (Srbije i Crne Gore) i osoba iz drugih zemalja čiji su osnivači osobe iz tzv. SRJ (Srbije i Crne Gore) u Republici Hrvatskoj.
