@@ -1,0 +1,1 @@
+Na temelju članka 17. i 39. Zakona o sustavu državne uprave (»Narodne novine« br. 75/93., 92/96., 48/99., 15/00., 127/00. i 59/01.), a u svezi sa člankom 19. stavkom 2. Zakona o otocima (»Narodne novine« br. 34/99. i 32/02) ministar za javne radove, obnovu i graditeljstvo, donosi
