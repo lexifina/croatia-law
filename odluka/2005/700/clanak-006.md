@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Banka može zadavati platne transakcije na teret svog računa za namiru s oznakom prioriteta (redoslijeda) izvršenja u rasponu od 1 do 98, gdje je 1 najviši, a 98 najniži prioritet izvršenja. Platne transakcije čiji je redoslijed izvršenja zakonski propisan, zadaju se s oznakom prioriteta izvršenja od 1 do 10. Oznaku prioriteta od 11 do 98 sudionik koristi prema svojim potrebama.
+(2) Hrvatska narodna banka može zadavati direktni transfer na teret računa za namiru sudionika s oznakom prioriteta izvršenja 0, što je najviši prioritet izvršenja. Hrvatska narodna banka zadaje direktni transfer s oznakom prioriteta 0 na temelju propisa.

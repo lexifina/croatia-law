@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 3. pod m) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, broj 36/2001.) i članka 44. stavka 1. točke 7. i 8. Zakona o platnom prometu u zemlji (»Narodne novine«, broj 117/2001.) Savjet Hrvatske narodne banke na sjednici održanoj 9. ožujka 2005. donio je
