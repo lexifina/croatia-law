@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2., članka 9. Zakona o športu (»Narodne novine«, br. 111/97., 13/98. i 24/01.), članka 3. stavka 2. članka 7. i članka 9. stavka 2. Zakona o tehničkoj kulturi (»Narodne novine«, br. 76/93. i 11/94.) donosim
