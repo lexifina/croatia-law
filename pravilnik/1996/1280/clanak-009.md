@@ -1,0 +1,3 @@
+## STUPANJE NA SNAGU
+# Članak 9.
+Ovaj pravilnik stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
