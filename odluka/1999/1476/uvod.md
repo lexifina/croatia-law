@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 9. točke 2. Zakona o nabavi roba, usluga i ustupanju radova (»Narodne novine«, broj 142/97), Vlada Republike Hrvatske je na sjednici održanoj 29. srpnja 1999. godine, donijela
