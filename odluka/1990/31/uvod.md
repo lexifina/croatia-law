@@ -1,0 +1,1 @@
+Na temelju člana 37 stava 1. toćke 1. Statuta Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske ("Narodne novine", br. 4/84, 6/86, 29/86 i 4/89), Skupština Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja. individualnih poljoprivrednika Hrvatske, na sjednici 28. prosinca l989. donosi
