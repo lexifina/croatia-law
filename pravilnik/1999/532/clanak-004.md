@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 27., stavku 1., iza postojećeg teksta: "Vrste i kategorije objekata u kojima se pružaju ugostiteljske usluge u seljačkom domaćinstvu, označavaju se...", dosadašnji se tekst zamjenjuje novim koji glasi:
+"... pločom od prirodnih materijala (drvo, kamen i sl.). Na ploči od izvornog prirodnog materijala mora biti ispisana oznaka "seljački turizam", vrsta objekta sa simbolom i kategorijom, ako se objekt kategorizira. Kategorija objekta označava se simbolom i to na način da se prva kategorija označava s tri jabuke, druga kategorija s dvije jabuke i treća kategorija jednom jabukom".
