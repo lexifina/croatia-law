@@ -1,0 +1,1 @@
+Na temelju članka 80. stavka 2. Zakona o deviznom poslovanju i članka 7. Zakona o preuzimanju saveznih zakona iz oblasti financija, koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91), Vlada Republike Hrvatske je na sjednici odžanoj 15. veljače 1993. godine, donijela
