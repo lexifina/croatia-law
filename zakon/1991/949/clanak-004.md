@@ -1,0 +1,3 @@
+# Članak 4.
+Osobi iz članka 2. ovoga zakona mirovina se određuje od prosječne plaće u kalendarskoj godini koja prethodi godini stjecanja prava na mirovinu, ili od mirovinske osnovice utvđene po propisima o mirovinskom i invalidskom osiguranju radnika, ako je to za nju povoljnije.
+Ako osoba iz članka 2. ovoga zakona nije ostvarila plaću u godini koja prethodi godini stjecanja prava na mirovinu, mirovina se određuje od prosječne mjesečne plaće svih uposlenih na teritoriju Republike Hrvatske u godini stjecanja prava na mirovinu uvećane za 40%, ili od mirovinske osnovice utvrđene po propisima o mirovinsko-invalidskom Osiguranju radnika ako je to za nju povoljnije.
