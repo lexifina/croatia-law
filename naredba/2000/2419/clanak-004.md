@@ -1,0 +1,3 @@
+# Članak 4.
+Iza točke 13.a dodaje se nova točka 13.b koja glasi:
+»13.b U cijelome tekstu Naredbe o obaveznom atestiranju pokretnih plinskih peći za grijanje bez priključka na dimnjak, riječ »atestiranje« zamjenjuje se riječju »potvrđivanje«, riječ »atest« zamjenjuje se riječima »potvrda o sukladnost riječi, »organizacija udruženog rada ovlaštena za atestiranje« zamjenjuju se riječima »ovlaštena pravna osoba za potvrđivanje«, riječ »standard« zamjenjuje riječ »norma«, oznaku »JUS« zamjenjuje oznaka »HRN«, riječi »jugoslavenski standard« zamjenjuju riječi »hrvatska norma«, a riječi »Savezni zavod za standardizaciju« zamjenjuju riječi »Državni zavod za normizaciju i mjeriteljstvo«, u odgovarajućemu rodu i padežu.«
