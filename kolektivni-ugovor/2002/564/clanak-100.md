@@ -1,0 +1,3 @@
+## Poslovno i osobno uvjetovani otkaz
+# Članak 100.
+Poslodavac koji zapošljava 11 i više radnika može otkazati ugovor o radu ako za to ima opravdani razlog tzv. poslovno uvjetovani otkaz - ako prestane potreba za obavljanjem određenog posla zbog gospodarskih, tehničkih ili organizacijskih razloga, ili osobno uvjetovani otkaz - ako radnik nije u mogućnosti uredno izvršavati svoje obveze iz radnog odnosa zbog određenih trajnih osobina ili sposobnosti ili otkaz uvjetovan skrivljenim ponašanjem radnika - ako radnik krši obveze iz radnog odnosa, na način i uz uvjete kako je propisano člankom 106. stavak 1-4. Zakona o radu.

@@ -1,0 +1,7 @@
+## Status poslodavca u svezi zaštite na radu
+# Članak 8.
+Poslodavci iz prethodnog članka razvrstavaju se u četiri grupe poslodavaca glede primjene njihovih obveza iz domene zaštite na radu i to:
+1. poslodavac, koji zapošljava više od 250 radnika, mora: ustrojiti službu za zaštitu na radu sukladno broju zaposlenih (uvjeti propisani Pravilnikom… »Narodne novine«, br. 127/98.), te stupnju opasnosti koji je utvrđen procjenom. Poslodavac donosi procjenu opasnosti u smislu članka 18. stavak 3. Zakona o zaštiti na radu »Narodne novine« br. 59/96. (u daljnjem tekstu: Zakon), na način, kako je propisano Pravilnikom…… »Narodne novine«, br. 48/97. i drugo, kako je utvrđeno istim Zakonom.
+2. poslodavac, koji zapošljava više od 50 radnika, a manje od 250 radnika mora: zaposliti jednog ili više stručnjaka za zaštitu na radu, izraditi procjenu opasnosti, kao što je navedeno za prethodnu točku i drugo utvrđeno Zakonom.
+3. poslodavac, koji zapošljava više od 20, a manje od 50 radnika mora: u pisanom obliku utvrditi organizaciju provedbe zaštite na radu, pravila zaštite, te prava, obveze i odgovornosti njegovih ovlaštenika i radnika, u dijelu u kojem ta pitanja nisu uređena Zakonom i propisima donesenim na temelju istog Zakona, te Kolektivnim ugovorom i Ugovorom o radu;
+4. poslodavac, koji zapošljava do 20 radnika - nije obvezan postupiti, kako je navedeno u prethodnoj točki.

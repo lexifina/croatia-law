@@ -1,0 +1,2 @@
+# Članak 126.
+Poslodavac, koji nije ugovorni zdravstveni radnik privatne prakse (fizička ili pravna osoba) obračunava plaću radniku prema mjerilima i kriterijima iz članka 119. i 120. ovog Kolektivnog ugovora, a njenu visinu za isplatu prilagođava svojoj ekonomskoj snazi primjenom istih mjerila iz članka 121. ili 123. istog Kolektivnog ugovora kako je propisano i za ugovornog zdravstvenog radnika privatne prakse.

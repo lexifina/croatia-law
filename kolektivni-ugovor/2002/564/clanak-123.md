@@ -1,0 +1,5 @@
+# Članak 123.
+Za poslodavce koji realiziraju primitke iz ugovornog odnosa sa HZZO-om sustavom drugih mjerila u odnosu na mjerila iz članka 121. ovog Kolektivnog ugovora, za ocjenu baznog iznosa svih primitaka za obračun i isplatu plaće/radnik, u smislu odredbi prethodnog članka ovog Kolektivnog ugovora, primjenjuju se mjerila iz tzv. »Plave knjige« i iz drugih općih akata HZZO-a, koji su relevantni za kalkulacije cijena zdravstvenih usluga, u smislu Zakona o zdravstvenom osiguranju.
+Sukladno iznijetom, poslodavac ljekarnik utvrđuje primjerenu plaću radniku primjenom mjerila i kriterija iz članaka 119. i 120. ovog Kolektivnog ugovora, da bi njenu visinu u isplati prilagodio svojoj ekonomskoj snazi.
+Ekonomska snaga poslodavca iz prethodnog stavka mjeri se razlikom ostvarenog prihoda u odnosu na nabavnu vrijednost roba iz asortimana ljekarne u tom prihodu, realiziran u poreznom razdoblju, svedeno na 1 mjesec.
+Bazni iznos za ocjenu ekonomske snage poslodavca iz prethodnog stavka dobije se množenjem broja bodova iz »Plave knjige« za radnika/godinu sa vrijednošću boda na dan 1. 5. 2001. g. (6,11 kn/bod), svedeno na 1 mjesec.

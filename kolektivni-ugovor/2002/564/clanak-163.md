@@ -1,0 +1,3 @@
+# Članak 163.
+Ako poslodavac promijeni statusni oblik svoje djelatnosti, na primjer iz statusa ordinacije u status poliklinike ili iz statusa ljekarne u ljekarničku ustanovu, tj. iz statusa fizičke osobe koja obavlja registriranu djelatnost u djelatnost zdravstvene ustanove - pravne osobe tako, da je pravna osoba sljednik njegovog prethodnog oblika registrirane djelatnosti, svi ugovori o radu njegovih radnika prenose se na novog poslodavca.
+Prava radnika utemeljena ovim Kolektivnim ugovorom za koja se obim prava veže za rad za istog poslodavca, u slučajevima kako ja opisano u prethodnom stavku, zaposlenici zadržavaju kontinuitet trajanja radnog staža bez prekida.
