@@ -1,0 +1,3 @@
+## I. OSNOVNE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se obveze, postupci i metode uzorkovanja sjemena, način utvrđivanja kakvoće sjemena, temeljni zahtjevi za kakvoću sjemena, uvjeti, način pakiranja i deklariranja sjemena, obveze, postupci i metode uzorkovanja sjemena, najveća dozvoljena količina partije, veličina sitnog pakiranja, izgled i sadržaj obrazaca deklaracija i drugih dokumenata koje vode dorađivači, uvoznici i proizvođači sjemena, način i obveze vođenja evidencija, uvjeti držanja i čuvanja sjemena u trgovini, način kontrole rada laboratorija i uzorkivača te način i program stručnog osposobljavanja uzorkivača.
