@@ -1,0 +1,9 @@
+# Članak 71.
+(1) Ako glede određene nekretnine u vrijeme otvaranja stečajnoga postupka nije uspostavljena pravna jedinstvenost nekretnine, odredbe o pravnim posljedicama povrede načela pravne jedinstvenosti nekretnine (članak 366. do 373. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 137/99., 22/00. i 73/00.) ne primjenjuju se na:
+1) unovčenje nekretnina stečajnoga dužnika u stečajnom postupku te u ovršnom postupku koji pokrene razlučni vjerovnik stečajnoga dužnika nakon otvaranja stečajnoga postupka (članak 164.),
+2) ostvarenje založnih prava i prava na namirenje stečajnoga dužnika na nekretninama drugih osoba,
+3) ostvarenje prava koja su treći stekli na nekretninama stečajnoga dužnika sudskim i javnobilježničkim osiguranjem tražbine prijenosom vlasništva na nekretnini (članak 81.a),
+4) ostvarenje prava koja je stečajni dužnik stekao na nekretninama trećih sudskim i javnobilježničkim osiguranjem tražbine prijenosom vlasništva na nekretnini.
+(2) Unovčenje nekretnina stečajnoga dužnika glede kojih nije uspostavljeno načelo pravne jedinstvenosti nekretnine te ostvarenje založnih i drugih prava iz stavka 1. ovoga članka stečajnoga dužnika na nekretninama drugih osoba mogu se provesti i po propisima koji su bili na snazi do stupanja na snagu Zakona o vlasništvu i drugim stvarnim pravima.
+(3) Kupac odnosno stjecatelj nekretnine iz stavka 2. ovoga članka stječe u odnosu na tu nekretninu prava i obveze stečajnoga dužnika, odnosno osobe na čijoj je nekretnini stečajni dužnik imao založno ili koje drugo pravo iz stavka 1. ovoga članka.
+(4) Na nekretninama stečajnoga dužnika i trećih osoba iz stavka 1. ovoga članka može se prije njihova unovčenja, odnosno ostvarenja na njima stečenih prava iz stavka 1. ovoga članka pokušati uspostaviti načelo pravne jedinstvenosti nekretnine i njihovo unovčenje odnosno ostvarenje na njima stečenih prava iz stavka 1. ovoga članka provesti u skladu s tim načelom.
