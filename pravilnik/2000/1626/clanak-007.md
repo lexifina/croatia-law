@@ -1,0 +1,5 @@
+# Članak 7.
+Program po kategoriziranim dionicama za sljedeću godinu »Hrvatske vode« dostavljaju Ministru pomorstva, prometa i veza do 1. listopada tekuće godine.
+Program sadrži podatke o opsegu i vrsti radova po pojedinim dionicama plovnog puta i objektima sigurnosti za poboljšanje uvjeta plovidbe, dinamiku obavljanja i rok završetka radova, procjenu potrebnih financijskih sredstava, te naznaku prioritetnih radova prema značaju u skladu s dinamikom priliva financijskih sredstava iz državnog proračuna.
+Programom se predviđaju i radovi za osposobljavanje postojećih plovnih putova i objekata sigurnosti za poboljšanje uvjeta plovidbe onesposobljenih zbog elementarnih nepogoda i drugih iznimnih događaja.
+Sredstava za radove iz stavka 3. ovog članka se osiguravaju prema Posebnom programu (članak 12. Zakona o plovidbi unutarnjim vodama), koji donosi ravnatelj Državne uprave za vode uz prethodnu suglasnost Ministra pomorstva, prometa i veza, a radovi se ustupaju izvoditelju s kojim je sklopljen ugovor o obavljanju tehničkog održavanja u tekućoj godini.
