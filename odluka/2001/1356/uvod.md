@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o elektroprivredi (»Narodne novine«, br. 31/90, 47/90, 61/91, 26/93, 78/94, 105/99 i 51/2001), Vlada Republike Hrvatske je na sjednici održanoj 13. rujna 2001. godine donijela
