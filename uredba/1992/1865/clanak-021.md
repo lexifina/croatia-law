@@ -1,0 +1,2 @@
+# Članak 21.
+Oznaka pravosudne policije je veličine 128 x 92 mm. Na gornjoj crnoj podlozi zlatnim slovima ispisano je "Pravosudna policija". Na lijevom i desnom obrubu je zlatni hrvatski pleter (dvoplet). U sredini na crnoj podlozi izvezen je grb Republike Hrvatske, a preko njega mač i vaga. Ručka mača zlatne je boje, a oštrica srebrne boje. Vaga je zlatne boje. Na gornjem dijelu grba upisana su slova "MPU", a ispod grba slova "RH". Slova su zlatne boje.

@@ -1,0 +1,1 @@
+Na temelju članka 59. stavak 1. Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje ("Narodne novine", broj 21/74, 39/74, 55/88 i 19/90), Vlada Republike Hrvatske, na sjednici održanoj 23. listopada 1992. godine, donijela je
