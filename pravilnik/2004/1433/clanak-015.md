@@ -1,0 +1,6 @@
+## Izuzeci
+# Članak 15.
+(1) Odredbe članka 4. stavka (5) o najmanjem raspoloživom neto kapitalu u iznosu od 80.000 ECU-a primjenjivat će se od 1. siječnja 2007., do kada zračni prijevoznik koji namjerava steći ili produžiti valjanost svjedodžbe, u svrhu ocjene financijske sposobnosti, mora predočiti dokaz o najmanje raspoloživom neto kapitalu u iznosu od 40.000 ECU-a ili jamstvo financijske institucije na isti iznos.
+(2) Odredba članka 4. stavka (5) o najmanjem raspoloživom neto kapitalu ne primjenjuju se pri stjecanju i produživanju valjanosti svjedodžbe za panoramsko i avio-taxi letenje što se obavlja isključivo u hrvatskom zračnom prostoru.
+(3) Iznimno od odredbe članka 9. točke (4) ovoga Pravilnika, Ministarstvo može, na zahtjev zračnog prijevoznika, odobriti upisivanje u svjedodžbu i aviona koji nije upisan u Hrvatski registar civilnih zrakoplova u skladu s rokovima iz članka 43. Zakona o zračnom prometu.
+(4) U razdoblju do godinu dana nakon stupanja na snagu ovoga Pravilnika, Ministarstvo može izdati ili produžiti valjanost svjedodžbe i zračnom prijevozniku koji ne ispunjava sve propisane uvjete iz Dodataka 1. ovoga Pravilnika ako procjeni da se u konkretnom slučaju ne odstupa od propisane minimalne razine sigurnosti.

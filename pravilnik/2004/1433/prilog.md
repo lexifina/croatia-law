@@ -1,0 +1,64 @@
+DODATAK 1
+Zajednički
+zrakoplovni
+zahtjevi
+JAR-OPS 1
+Javni zračni prijevoz
+(avioni)
+SEKCIJA 1
+JAR-OPS 1
+ODJELJAK 1 - ZAHTJEVI
+1 OPĆENITO
+Ovaj odjeljak sadržava zahtjeve za imaoce svjedodžbe o sposobnosti
+2 PRIKAZ
+2.1 Zahtjevi JAR-OPS su prikazani u dva stupca po stranici, pri čemu je svaka stranica označena datum izdavanja i/ili brojem amandmana pod kojim je izmijenjena ili ponovno izdana.]
+2.2 2.2 Podnaslovi su pisani u kurzivu (italic typeface).
+2.3 2.3 Napomene koje sadrže pojašnjenja prikazane su u manjem fontu i nisu dio zahtjeva.
+2.4 Novi, promijenjeni i ispravljeni tekstovi biti će ispisani unutar zadebljanih zagrada dok se ne izda slijedeći amandman.
+Amandman 2
+1-0-1
+01.07.00
+JAR-OPS 1
+SEKCIJA 1
+NAMJERNO OSTAVLJENO PRAZNO
+01.07.00
+1-0-2
+Amandman 2
+PODODJELJAK A
+PRIMJENJIVOST (PODRUČJE UPORABE)
+ODJELJAK B
+OPĆENITO
+ODJELJAK C
+IZDAVANJE SVJEDOŽBE I NADZOR ZRAČNOG PRIJEVOZNIKA
+ODJELJAK D
+OPERATIVNI POSTUPCI
+PODODJELJAK E
+OPERACIJE U SVIM VREMENSKIM UVJETIMA
+ODJELJAK F
+IZVOĐENJE OPĆENITO
+PODODJELJAK G
+IZVOĐENJE RAZRED A
+PODODJELJAK H
+IZVOĐENJE RAZRED B
+PODODJELJAK I
+IZVOĐENJE RAZRED C
+PODODJELJAK J
+MASA I RAVNOTEŽA
+PODODJELJAK K
+INSTRUMENTI I OPREMA
+ODJELJAK L
+KOMUNIKACIJSKA I NAVIGACIJSKA OPREMA
+ODJELJAK M
+ODRŽAVANJE ZRAKOPLOVA
+ODJELJAK N
+LETAČKA POSADA
+DIO O
+KABINSKA POSADA
+ODJELJAK P
+PRIRUČNICI, DNEVNICI I DOKUMENTACIJA
+PODODJELJAK Q
+OGRANIČENJA RADNOG VREMENA, VREMENA LETENJA I VREMENA ODMORA
+ODJELJAK R
+PRIJEVOZ OPASNIH VRSTA ROBA ZRAKOM
+ODJELJAK S
+SIGURNOST
