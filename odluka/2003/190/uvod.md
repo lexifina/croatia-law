@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru (»Narodne novine«, br. 55/00 i 107/01.) i članka 91. podstavka 6. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 6/02. - pročišćeni tekst i 41/02.), Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora, na 42. sjednici održanoj 23. siječnja 2003. donio je
