@@ -1,0 +1,1 @@
+Na osnovi članka 18. i 19. Zakona o odvjetništvu ("Narodne novine" broj 9/94.) i Tbr. 49. Tarife o nagradama i naknadi troškova za rad odvjetnika Hrvatske odvjetničke komore, Hrvatska odvjetnička komora je dana 26. 2. 1994. donijela
