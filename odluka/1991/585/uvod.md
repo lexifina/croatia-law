@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u privredne komore ("Narodne novine", br. 42/86) i člana 28. Statuta Osnovne privredne komore Sisak, Skupština 0snovne privredne komore Sisak na sjednici održanoj 28. ožujka 1991. godine donijela je
