@@ -1,0 +1,1 @@
+Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu
