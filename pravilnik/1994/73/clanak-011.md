@@ -1,0 +1,2 @@
+# Članak 11.
+Članak 33. mijenja se i glasi: Novak, ocijenjen privremeno nesposobnim za vojnu službu na vrijeme dulje od jedne godine po proteku najmanje dvije trečine vremena na koje je utvrđena privremena nesposobnost, može na svoj zahtjev biti upućen na ponovnu ocjenu sposobnosti za vojnu službu, ako uz zahtjev priloži zdravstvenu dokumentaciju iz koje je vidljivo da jc došlo do promjene zdravstvenog stanja koje utječe na poštoječu ocjenu sposobnosti."

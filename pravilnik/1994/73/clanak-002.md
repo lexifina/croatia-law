@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 6, stavak 1. i 2. mijenjaju se i glase:
+U evidenciju o osobi koja pohađa Policijsku školu ili Višu školu unutarnjih poslova unose se podaci o upisu, pohađanju, te o završenom školovanju temeljem uvjerenja o upisu i pohađanju, te svjedodžbe o završenom školovanju u Policijskoj školi ili Višoj školi unutarnjih poslova.
+U evidenciju o vojnom obvezniku koji je završio Policijsku školu ili Višu školu unutarnjih poslova, u trajanju od najmanje 2 godine i proveo na dužnosti ovlaštene osobe u unutarnjim poslovima ili stražara u kazneno-popravnim ustanovama najmanje 2 godine unose se podaci o završenom školovanju i zaposlenju temeljem svjedodžbe ili diplome Policijske škole ili Više škole unutarnjih poslova i uvjerenja ovlaštenog tijela unutarnjih poslova odnosno kazneno-popravne ustanove o vremenu provedenom na dužnosti ovlaštene osobe u unutarnjim poslovima ili stražara u kazneno-popravnoj ustanovi.
