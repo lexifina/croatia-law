@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 4. Zakona o veterinarstvu ("Narodne novine" broj 70/97), uz prethodno pribavljeno mišljenje ravnatelja Državne uprave za zaštitu prirode i okoliša, ministar poljoprivrede i šumarstva, donosi
