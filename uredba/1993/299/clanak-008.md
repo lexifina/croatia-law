@@ -1,0 +1,2 @@
+# Članak 8.
+U članku 30. iza točke e. dodaje se nova točka 9. koja glasi: "9. ako u roku ne uplati razliku poreza na promet duhanskih prerađevina (članak 22.)," U stavku 2. istog članka u točki 1. iza brojke 6. dodaje se zarez i briše slovo "i", a iza točke 7. dodaju se riječi "i 9.", a u točki 5. istog stavka iza brojke "3." stavlja se zarez i brlše slovo "i", a iza točke "4." dodaju se riječi "i 9.",

@@ -1,0 +1,1 @@
+Na temelju članka 1. Zako o ovlasti Vlade Republike Hrvatske da donosi Uredbe kojima se uređuju pojedina pitanja iz djelokruga Sabora Republike Hrvatske ("Narodne novine", br. 74/92), Vlada Republike Hivatske je na sjednici održanoj 5. ožujka 1993. godine, donijela

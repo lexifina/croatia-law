@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 28. stavku 1. iza točke 8. dodaje se nova točka 9. koja glasi: "9. ako ne plati porez na promet, netočno uplati ili ne plati u roku i kopiju virmana ne uruči ili ne dostavi ovlaštenom djelatniku Ministarstva financija (članak 14. stavak 5.)" U stavku 2. točki 2. istog članka umjesto riječi: "za prekršaj iz točke 2. stavka 1. ovog članka" stavljaju se riječi "za prekršaj iz točke 4, 5, 6. i 9. stavka 1. ovog članka" a u točki 6. istog stavka iza brojke 4. briše se zarez i slovo "i", a iza brojke 5. dodaju se riječi "i 8.",
