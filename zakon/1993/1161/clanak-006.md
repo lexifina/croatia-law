@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Radi utvrđivanja odgovarajuće organizacije i provođenja mjera zaštite od požara, građevine, građevinski dijelovi i prostori razvrstavaju se u četiri kategorije ugroženosti od požara, u ovisnosti o tehnološkom procesu koji se u njima odvija, vrsti materijala koji se u njima proizvodi, prerađuje ili uskladišćuje, vrsti biljnog pokrova, te vrsti materijala uporabljenog za izgradnju, i njena značaja.
+(2) Ministar unutarnjih poslova donijet će propise o uvjetima, osnovama i kriterijima za razvrstavanje građevina, građevinskih dijelova i prostora u odgovarajuće kategorije ugroženosti od požara.
+(3) Ministar unutarnjih poslova rješenjem će razvrstati građevine, građevinske dijelove i prostore u odgovarajuće kategorije ugroženosti sukladno uvjetima, osnovama i kriterijima iz propisa iz stavka 2. ovoga članka i odrediti rokove za izvršenje obveza koje iz toga proizlaze.

@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Pravne osobe registrirane za projektiranje dužne su, za građevine za koje je to traženo posebnim uvjetima građenja, mjere zaštite od požara, predviđene u glavnom projektu, prikazati tako da se na temelju grafičkih prikaza, proračuna i tekstualnih objašnjenja može ocijeniti predviđeni, odnosno odabrani sustav zaštite od požara te njegova učinkovitost.
+(2) Sastavni dio glavnog projekta iz stavka 1. ovoga članka, za izdavanje građevne dozvole, čini prikaz predviđenih mjera zaštite od požara. U tekstualnom objašnjenju moraju se navesti propisi, odnosno priznata pravila tehničke prakse na kojima se temelji predviđeni sustav zaštite od požara.
+(3) Pravna osoba registrirana za projektiranje, koja je izradila glavni projekt, obavit će provjeru istog na način utvrđen svojim općim aktom i nakon obavljene provjere izdati ispravu kojom se potvrđuje da su mjere zaštite od požara, primijenjene u glavnom projektu, izrađene sukladno s ovim Zakonom, uvjetima uređenja prostora, tehničkim normativima i normama.
+(4) Isprava iz stavka 3 ovoga članka sastavni je dio glavnog projekta.

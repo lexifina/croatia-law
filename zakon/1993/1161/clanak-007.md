@@ -1,0 +1,9 @@
+# Članak 7.
+(1) Vlasnici, odnosno korisnici građevina i prostora razvrstanih u prvu kategoriju ugroženosti dužni su donijeti plan zaštite od požara na osnovi izrađene procjene ugroženosti od požara, organizirati službu zaštite od požara s vatrogasnom postrojbom i odgovarajućim brojem djelatnika za obavljanje unutarnje kontrole nad provedbom mjera zaštite od požara.
+(3) Vlasnici, odnosno korisnici građevina i prostora razvrstanih u drugu kategoriju ugroženosti od požara dužni su donijeti plan zaštite od požara na osnovi izrađene procjene ugroženosti od požara, imati odgovarajući broj djelatnika radi obavljanja stalnoga vatrogasnog dežurstva, gašenja požara i provedbe preventivnih mjera zaštite od požara.
+(3) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i prostora razvrstanih u treću kategoriju ugroženosti od požara dužni su imati najmanje jednog djelatnika koji neposredno organizira i brine o provođenju preventivne mjere zaštite od požara.
+(4) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i prostora razvrstanih u četvrtu kategoriju ugroženosti od požara dužni su imati djelatnika zaduženog za poslove zaštite od požara.
+(5) Na radna mjesta djelatnika odgovornih za poslove zaštite od požara u pravnim osobama i stručnim službama mogu se zaposliti osobe koje imaju najmanje završenu školu za stručnog djelatnika vatrogasca ili srednju stručnu spremu tehničkog smjera i položen stručni ispit za
+obavljanje poslova zaštite od požara.
+(6) Ministar unutarnjih poslova propisuje program i način polaganja stručnog ispita za djelatnike iz stavka 5. ovoga članka.
+(7) Propisima iz članka 6. stavka 2. ovoga Zakona odredit će se minimalni broj vatrogasaca u vatrogasnoj postrojbi te djelatnika zaduženih za poslove zaštite od požara koje moraju imati pravne osobe vlasnici odnosno korisnici građevina ili prostora razvrstanih u prvu i drugu kategoriju ugroženosti.

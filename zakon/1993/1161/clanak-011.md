@@ -1,0 +1,2 @@
+# Članak 11.
+Radi otklanjanja uzroka zbog kojih može nastati požar ili koji olakšavaju njegovo širenje, društva za osiguranje dužna su pratiti i analizirati uzroke požara i, ovisno o predmetu osiguranja, pri utvrđivanju uvjeta osiguranja, odnosno zaključenja ugovora s osiguranicima, predvidjeti mjere kojima je svrha uklanjanje tih uzroka, a tijekom trajanja osiguranja kontrolirati njihovu provedbu.
