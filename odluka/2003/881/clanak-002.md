@@ -1,0 +1,4 @@
+# Članak 2.
+Primarnu zdravstvenu zaštitu grupnom praksom provode domovi zdravlja i zdravstveni radnici privatne prakse u djelatnosti opće medicine i zdravstvene zaštite predškolske djece.
+Dom zdravlja grupnu praksu provodi organizacijom svojih zaposlenika izabranih ugovornih doktora iz djelatnosti iz stavke 1. ovog članka na osnovi općeg akta upravnog vijeća doma zdravlja u kojem će se poimenično naznačiti koji timovi će s kojim timovima obavljati grupnu praksu. Opći akt upravnog vijeća doma zdravlja mora biti usklađen s odredbama propisanim ovom Odlukom.
+Zdravstveni radnici privatne prakse iz djelatnosti iz stavka 1. ovog članka, grupnu praksu provode osnovom rješenja Ministarstva zdravstva o osnivanju grupne prakse i ugovora sklopljenog između sudionika iste o međusobnim odnosima, tj. pravima i obvezama u svezi provođenja grupne prakse ovjerenog od strane javnog bilježnika.
