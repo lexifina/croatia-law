@@ -1,0 +1,2 @@
+# Članak 1.
+Odredbe članka 15. Priloga Odluci br. 5. Zajedničkog odbora iz Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Slovenije o izmjenama Protokola 3. Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Slovenije neće se primjenjivati u razdoblju od 1. siječnja 2003. godine do datuma stupanja na snagu Ugovora o pristupanju Republike Hrvatske Srednjoeuropskom ugovoru o slobodnoj trgovini.
