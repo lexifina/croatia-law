@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Odredbe ovog Pravilnika se odnose na državni proračun, proračune jedinica lokalne i područne (regionalne) samouprave, izvanproračunske fondove, tijela državne uprave i državne vlasti, tijela jedinica lokalne i područne (regionalne) samouprave, ustanove u djelatnosti zdravstva kao i druge pravne osobe koje se temeljem posebnih propisa financiraju iz proračuna (u daljnjem tekstu : proračun i proračunski korisnici).
+(2) Odredbe ovog Pravilnika primjenjuju se, u skladu s člankom 23. stavkom 3. Pravilnika i na druge pravne osobe koje se u konsolidaciji, za potrebe analiza, uključuju u središnju odnosno opću državu.
