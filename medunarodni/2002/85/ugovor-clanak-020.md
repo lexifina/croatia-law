@@ -1,0 +1,13 @@
+# Članak 20.
+RAZMJENA OBAVIJESTI I MEHANIZAM ZA RAZMJENU OBAVIJESTI O BIOLOŠKOJ SIGURNOSTI
+1. Ovime se osniva Mehanizam za razmjenu obavijesti o biološkoj sigurnosti kao dio Mehanizma za razmjenu obavijesti prema članku 18. stavku 3. Konvencije, kako bi se:
+(a) olakšala razmjena znanstvenih, tehničkih, ekoloških i pravnih obavijesti o modificiranim živim organizmima, te iskustava s istima; i
+(b) pomoglo strankama u provedbi Protokola, vodeći računa o posebnim potrebama stranaka zemalja u razvoju, a među njima posebno najnerazvijenih i malih otočkih zemalja u razvoju, te zemalja s privredama u tranziciji, kao i zemalja koja su središta porijekla i središta genetičke raznolikosti.
+2. Mehanizam za razmjenu obavijesti o biološkoj sigurnosti služit će kao sredstvo putem kojeg će se obavijesti stavljati na raspolaganje u svrhe iz stavka 1. gore. On će osigurati pristup informacijama koje su stranke stavile na raspolaganje, a odnose se na provedbu Protokola. Također će, gdje god je to moguće, osigurati pristup drugim mehanizmima međunarodne razmjene obavijesti o biološkoj sigurnosti.
+3. Bez da utječe na zaštitu povjerljivih obavijesti, svaka će stranka staviti na raspolaganje Mehanizmu za razmjenu obavijesti o biološkoj sigurnosti sve obavijesti koje je temeljem ovoga Protokola dužna staviti na raspolaganje Mehanizmu za razmjenu obavijesti o biološkoj sigurnosti, te:
+(a) sve postojeće zakone, propise i smjernice za provedbu Protokola, kao i sve obavijesti koje su strankama potrebne za postupak dobivanja suglasnosti na temelju prethodne obavijesti;
+(b) sve bilateralne, regionalne i multilateralne sporazume i dogovore;
+(c) sažetke svojih procjena opasnosti ili ekoloških pregleda modificiranih živih organizama nastalih u okviru zakonskog procesa i izvršenih u skladu sa člankom 15., uključujući, gdje je to prikladno, mjerodavne obavijesti koje se odnose na proizvode istih, tj. prerađenih materijala koji imaju porijeklo u modificiranim živim organizmima i sadrže nove utvrdive kombinacije genetskog materijala koji se može reproducirati, a dobiven je uporabom suvremene biotehnologije;
+(d) svoje konačne odluke u svezi s uvozom ili oslobađanjem modificiranih živih organizama; i
+(e) izvještaje koje je podnijela u skladu s člankom 33., uključujući one o provođenju postupaka dobivanja suglasnosti na temelju prethodne obavijesti.
+4. O načinima rada Mehanizma za razmjenu obavijesti o biološkoj sigurnosti, uključujući izvještaje o njegovim aktivnostima, raspravljat će i donositi odluke na svojem prvom sastanku Konferencija stranaka koja služi kao sastanak stranaka ovoga Protokola, te ih nakon toga nadzirati.

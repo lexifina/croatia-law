@@ -1,0 +1,7 @@
+# Članak 2.
+OPĆE ODREDBE
+1. Svaka stranka poduzet će neophodne i odgovarajuće zakonske, administrativne i druge mjere radi provedbe svojih obveza prema ovom Protokolu.
+2. Stranke će osigurati da se razvoj, rukovanje, prijevoz, uporaba, prijenos i oslobađanje svakog modificiranog živog organizma obavi na način kojim se sprječavaju ili umanjuju opasnosti za biološku raznolikost, vodeći rakođer računa o opasnostima po ljudsko zdravlje.
+3. Ništa iz ovog Protokola neće ni na koji način utjecati na suverenost država nad njihovim teritorijalnim morem koja je uspostavljena u skladu s međunarodnim pravom i na suverena prava i nadležnosti koje države imaju u svojim isključivim gospodarskim zonama i zonama kontinentskih podina u skladu s međunarodnim pravom, te na iskorištavanje prava i sloboda plovidbe stranih brodova i zrakoplova svih država kako je utvrđeno međunarodnim pravom i kako se odražava u mjerodavnim međunarodnim instrumentima.
+4. Ništa iz ovog Protokola neće se tumačiti kao ograničavanje prava stranke da poduzme mjere koje pružaju bolju zaštitu očuvanja i održivoj uporabi biološke raznolikosti od onih koje se traže ovim Protokolom, pod uvjetom da je takva aktivnost spojiva s ciljem i odredbama ovoga Protokola i da je u skladu s ostalim obvezama te stranke prema međunarodnom pravu.
+5. Stranke se potiču da, na odgovarajući način, vode računa o raspoloživim stručnim mišljenjima, instrumentima i radu koji se obavlja u međunarodnim forumima nadležnim u području opasnosti za ljudsko zdravlje.
