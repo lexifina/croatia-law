@@ -1,0 +1,3 @@
+# Članak 10.
+Predmeti dostavljeni ministarstvu nadležnom za poslove pravosuđa i državnom odvjetništvu radi postupanja po odredbi članka 70. Zakona o naknadi, a koji do stupanja na snagu ovoga Zakona nisu dovršeni vratit će se u roku 15 dana od dana stupanja na snagu ovoga Zakona nadležnim službama ureda državne uprave radi dostave prvostupanjskih rješenja strankama.
+Iznimno od odredbe stavka 1. ovoga članka o prijedlozima za poništenje prvostupanjskih rješenja koje je državno odvjetništvo podnijelo do stupanja na snagu ovoga Zakona, ministarstvo nadležno za poslove pravosuđa će riješiti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
