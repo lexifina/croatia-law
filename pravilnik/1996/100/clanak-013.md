@@ -1,0 +1,2 @@
+# Članak 13.
+U demograrfski ugroženim područjima (otoci, područja ugrožena specifičnim položajem) kao i u područjima bez orgnaizirane zdravstvene zaštite ili njezine slabije dostupnosti pučanstvu, zakupodavac se nije dužan pridržavati odredbe stavka 1. članka 11. ovoga pravilnika te iznimno u cilju stimuliranja kvalitete i dostupnosti primarne zdravstvene zaštite može dati prostorije i medicinsko-tehničku i drugu opremu u zakup i pod uvjetima povoljnijim za zakupca, uključujući i mogućnost oslobađanja od plaćanja zakupnine.

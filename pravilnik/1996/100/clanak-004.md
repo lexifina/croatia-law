@@ -1,0 +1,5 @@
+# Članak 4.
+Jedinica zakupa daje se u zakup samo zdravstvenom djelatniku visoke stručne spreme (u daljnjem tekstu: zakupac) koji je u radnom odnosu na neodređeno vrijeme u tom domu zdravlja, radi u toj jedinici zakupa najmanje posljednje tri godine te ispunjava uvjete propisane člankom 121. Zakona o zdravstvenoj zaštiti.
+Iznimno od stavka 1. ovog članka daje se u zakup zubotehnički laboratorij zdravstvenom djelatniku srednje stručne spreme zubnom tehničaru koji je u radnom odnosu na neodređeno vrijeme u tom domu zdravlja, radi u toj jedinici zakupa najmanje posljednje tri godine te ispunjava uvjete propisane člankom 121. i 122. Zakona o zdravstvenoj zaštiti.
+Ukoliko zdravstveni djelatnik iz stavka 1. i 2. ovoga članka ne uđe u zakup svojom voljom do utvrđenog roka ili se ugovor o zakupu prostorija i medicinsko-tehničke i druge opreme (u daljnjem tekstu: ugovor o zakupu) raskine jer zakupac nije ispunjavao ugovorne obveze, jedinica zakupa dat će se u zakup putem natječaja drugom zakupcu koji ispunjava uvjete iz članka 121, i 122. Zakona o zdravstvenoj zaštiti.
+Zakupodavac i zakupac zaključuju pismeni ugovor o zakupu.

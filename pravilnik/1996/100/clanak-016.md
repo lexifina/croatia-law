@@ -1,0 +1,4 @@
+# Članak 16.
+Za održavanje djelatnosti iz članka 15. ovoga pravilnika i održavanja zgrade doma zdravlja kao i za provođenje ugovornih obveza o zakupu, dom zdravlja ostaje s najmanjim brojem zdravstvenih kao i nezdravstvnih djelatnika u upravi (ravnatelj, administrativni tajnik, dipl. pravnik, 2 zaposlenika u računovodstvu, domar - ložać i spremačica).
+Dom zdravlja je obvezan osigurati pažnje hitne medicinske pomoći u čemu su obvezni sudjelovati svi zakupci.
+Sredstva za plaće zdravstvenih djelatnika doma zdravlja koji nisu skloni ugovor o zakupu kao i plaće nezdravstvenih djelatnika iz stavka 1. ovoga članka osiguravaju se ugovorom doma zdravlja s HZZO. Izuzetke od najmanjeg broja djelatnika iz stavka 1. ovog članka odredit će posebnim propisom HZZO u roku od 15 dana od dana stupanja na snagu ovog pravilnika.
