@@ -1,0 +1,9 @@
+# Članak 4.
+IZVLAŠTENJE I NAKNADA
+1. Nijedna Ugovorna stranka neće poduzeti mjere izvlaštenja, nacionalizacije ili druge mjere istog značaja prema ulaganjima ulagatelja druge Ugovorne stranke, osim u slučaju da su te mjere poduzete u javnom interesu, prema zakonskom postupku, te ako je predviđena odgovarajuća naknada za izvlašteno vlasništvo.
+Takva naknada mora odgovarati tržišnoj vrijednosti izvlaštenog ulaganja neposredno prije no što je postupak izvlaštenja bio objavljen, mora sadržavati i kamatu obračunatu na temelju šestomjesečnog LIBOR-a od dana kada je izvlaštenje izvršeno, te mora biti u potpunosti prenosiva.
+Iznos naknade odredit će se u slobodno prenosivoj konvertibilnoj valuti te će biti isplaćen bez odlaganja ovlaštenoj osobi bez obzira na njegovo prebivalište odnosno boravište.
+Isplata naknade mora se obaviti bez odlaganja, što podrazumijeva vremensko razdoblje koje je po redovnom tijeku stvari potrebno da bi se izvršio prijenos sredstava koje počinje teći od dana postavljanja zahtjeva za naknadu i ne smije prekoračiti rok od tri mjeseca.
+2. Ulagatelji obiju Ugovornih stranaka koji trpe štetu u ulaganjima na teritoriju druge Ugovorne stranke zbog rata, drugog oružanog sukoba, izvanrednog stanja u državi, pobune, ustanaka ili nemira imaju pravo na naknadu štete u obliku odštete, kompenzacije ili drugih vrsta naknade, prema uvjetima koji ne mogu biti nepovoljniji od onih koji se priznaju za vlastite ulagatelje odnosno ulagatelje trećih država.
+Isplata navedenih naknada izvršit će se, čim je to moguće, bez odlaganja u slobodnoj prenosivoj konvertibilnoj valuti.
+3. Ulagatelji iz članka 1. stavka 1. točke c) ovog Ugovora ne mogu podnijeti zahtjev za naknadu štete iz stavaka 1. i 2. ovog članka ako je naknada bila isplaćena prema odredbama iz drugog ugovora o zaštiti ulaganja kojeg je zaključila Ugovorna stranka na čijem je teritoriju ulaganje bilo izvršeno.

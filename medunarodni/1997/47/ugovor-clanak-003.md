@@ -1,0 +1,5 @@
+# Članak 3.
+ZAŠTITA I UVJETI ULAGANJA
+1. Svaka ugovorna stranka će zaštititi na svom teritoriju ulaganja ulagatelja druge Ugovorne stranke izvršena u skladu sa svojim zakonodavstvom, te neće diskriminacijskim ili protupravnim mjerama utjecati na upravljanje, održavanje, upotrebu, uživanje, proširenje, prodaju ili, u krajnjem slučaju, ukidanje takvog ulaganja.
+2. Svaka Ugovorna stranka osigurat će pravičnost uvjeta ulaganja ulagatelja druge Ugovorne stranke na svom teritoriju. Uvjeti ulaganja neće biti nepovoljniji od uvjeta koje svaka Ugovorna stranka primjenjuje na ulaganja domaćih ulagatelja odnosno na ulaganja ulagatelja bilo koje treće države, ako su ovi uvjeti povoljniji.
+3. Uvjeti najpovlaštenije nacije neće se primjenjivati na privilegije koje pruža sama Ugovorna stranka prema ulagateljima trećih država na temelju njihovog članstva ili udruženja u zoni slobodne trgovine, carinskoj uniji, zajednčikom tržištu ili na temelju drugih multilateralnih sporazuma, kojih druga Ugovorna stranka nije stranka.
