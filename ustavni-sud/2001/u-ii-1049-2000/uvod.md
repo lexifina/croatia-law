@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Smiljko Sokol, predsjednik Suda, te suci Marijan Hranjski, Petar Klarić, Jurica Malčić, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Emilija Rajić, Vice Vukojević i Milan Vuković, odlučujući o prijedlogu za pokretanje postupka ocjene suglasnosti s Ustavom i zakonom, na sjednici održanoj dana 17. siječnja 2001. godine, donio je sljedeće
