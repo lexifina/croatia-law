@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o izvršavanju Državnog proračuna Republike Hrvatske za 2003. godinu (»Narodne novine«, br. 154/02.) Članak 1. mijenja se i glasi:
+»Ovim se Zakonom uređuje struktura prihoda, primitaka, rashoda i izdataka Dražvnog proračuna Republike Hrvatske za 2003. godinu (u daljnjem tekstu: Proračun) i njegovo izvršavanje, opseg zaduživanja i jamstava države, upravljanje javnim dugom te financijskom i nefinancijskom imovinom, prava i obveze korisnika proračunskih sredstava, pojedine ovlasti Vlade Republike Hrvatske (u daljnjem tekstu: Vlada), predsjednika Vlade, Ministarstva financija i ministra financija u izvršavanju Proračuna, kazne za neispunjavanje obveza te druga pitanja u izvršavanju Proračuna.«
