@@ -1,0 +1,6 @@
+# Članak 41.
+DAVANJA PREMA RANIJIM PROPISIMA
+(1) Davanja u novcu koja je nadležni nositelj jedne države ugovornice priznao prema pravnim propisima bivše Socijalističke Federativne Republike Jugoslavije, prije 8. listopada 1991., uračunavanjem razdoblja osiguranja navršenih prema pravnim propisima druge države ugovornice, ostaju trajna obveza nadležnog nositelja države ugovornice koji je ta davanja priznao.
+(2) Mirovina koju je nadležni nositelj jedne države ugovornice priznao, u smislu stavka 1. ovog članka, se ne preračunava ni u slučaju kada je nadležni nositelj druge države ugovornice korisniku priznao pravo na mirovinu ili dio mirovine, primjenom ovog Ugovora, na temelju razdoblja osiguranja ostvarenih nakon 8. listopada 1991. ili naknadno priznatoga posebnog staža, prema svom unutarnjem zakonodavstvu.
+(3) U slučaju smrti korisnika mirovine iz stavka 1. ili 2. ovoga članka, poslije 8. listopada 1991., odredbe navedenih stavaka primjenjuju se i na ostvarivanje prava na obiteljsku mirovinu.
+(4) Danom stupanja na snagu ovog Ugovora, odredbe o zdravstvenoj zaštiti i korištenju prava na davanja u novcu, odgovarajuće se primjenjuju i na korisnike davanja iz stavka 1. do 3. ovoga članka.

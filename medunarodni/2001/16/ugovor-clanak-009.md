@@ -1,0 +1,6 @@
+# Članak 9.
+OBVEZNO OSIGURANJE OSOBA ZAPOSLENIH U DIPLOMATSKIM MISIJAMA I KONZULARNIM UREDIMA
+(1) Članovi diplomatskih misija i konzularnih ureda, izuzeti su, s obzirom na službu koju obavljaju za državu šiljateljicu, od primjene pravnih propisa koji vrijede u državi primateljici, uz iznimku odredbe stavka 3. ovoga članka. Isto vrijedi i za članove njihovih obitelji koji s njima žive u zajedničkom kućanstvu, ako nisu državljani države primateljice.
+(2) Odredba stavka 1. ovoga članka primjenjuje se na privatnu poslugu koja je isključivo u službi člana diplomatske misije ili konzularnog ureda, uz uvjet da te osobe nisu državljani države primateljice niti imaju prebivalište u toj državi, te da se na njih primjenjuju pravni propisi o socijalnom osiguranju koji su na snazi u državi šiljateljici ili u nekoj trećoj državi.
+(3) Član diplomatske misije ili konzularnog ureda u čijoj su službi osobe na koje se ne primjenjuje izuzeće predviđeno u stavku 2. ovoga članka, obvezan je poštovati obveze koje poslodavcu nameću pravni propisi o socijalnom osiguranju države primateljice.
+(4) Iznimno od odredbe stavka 1. i 2. ovoga članka, osobe koje su državljani države primateljice mogu, u roku od tri mjeseca od dana preuzimanja službe, odnosno u roku od tri mjeseca od dana stupanja na snagu ovog Ugovora, izabrati primjenu pravnih propisa države šiljateljice.

@@ -1,0 +1,5 @@
+# Članak 21.
+SMANJENJE, UKIDANJE I OBUSTAVA ISPLATE DAVANJA
+(1) Neovisno o pravnim propisima dviju država ugovornica o ukidanju, smanjenju ili obustavi isplate mirovine zbog stjecanja prava na dvije ili više mirovina, korištenje starosne ili invalidske ili obiteljske mirovine, ostvarene prema pravnim propisima jedne države ugovornice, ne utječe na pravo osobe da istodobno koristi bilo koju vrstu mirovine ostvarene prema pravnim propisima druge države ugovornice.
+(2) Ako obavljanje neke djelatnosti, koja donosi prihod ili određeno obvezno osiguranje, ima pravni učinak na određena davanja iz socijalnog osiguranja, prema pravnim propisima jedne države ugovornice, odgovarajuća djelatnost ili odgovarajuće obvezno osiguranje, u drugoj državi ugovornici ima isti pravni učinak.
+(3) Ako, prema pravnim propisima jedne države ugovornice, visina davanja iz socijalnog osiguranja ovisi o visini drugih prihoda dotične osobe, nadležni nositelj te države ugovornice uzima u obzir i visinu mirovine koja se osobi isplaćuje prema pravnim propisima druge države ugovornice.

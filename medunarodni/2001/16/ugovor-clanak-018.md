@@ -1,0 +1,4 @@
+# Članak 18.
+RAZDOBLJE OSIGURANJA KRAĆE OD 12 MJESECI
+(1) Ako je ukupno razdoblje osiguranja s obveznim plaćanjem doprinosa, koje se prema pravnim propisima jedne države ugovornice uzima u obzir za obračunavanje davanja u novcu, kraće od 12 mjeseci, nadležni nositelj te države ugovornice ne odobrava davanje u novcu, prema pravnim propisima te države ugovornice osim u slučaju kada, prema tim pravnim propisima, postoji pravo na davanje u novcu samo na osnovi toga razdoblja osiguranja.
+(2) Razdoblje osiguranja iz stavka 1. ovoga članka na osnovi kojega nadležni nositelj jedne države ugovornice ne odobrava davanje u novcu, uzima u obzir nadležni nositelj druge države ugovornice za stjecanje, očuvanje i ponovno priznavanje prava na davanje u novcu, kao i određivanje njegove visine, kao da je to razdoblje navršeno prema njegovim pravnim propisima.
