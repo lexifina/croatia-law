@@ -1,0 +1,1 @@
+Na temelju čl. 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/90, 47/90. 53A/91) i čl. 2. Uredbe o provođenju Rezolucije broj 757 Vijeća sigurnosti Ujedinjenih naroda ("Narodne novine", br. 32/92) donosim sljedeću
