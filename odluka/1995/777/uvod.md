@@ -1,0 +1,1 @@
+Na temelju članka 149. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", broj 74/94) Vlada Republike Hrvatske je na sjednici održanoj 7. lipnja 1995. donijela
