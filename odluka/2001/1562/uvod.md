@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave i uprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 21. Statuta grada Kaštela (»Službeni glasnik grada Kaštela«, broj 4/94 i 3/01, 5/01), Gradsko vijeće grada Kaštela na 3. sjednici, održanoj 2. listopada 2001. donosi
