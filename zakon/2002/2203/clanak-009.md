@@ -1,0 +1,4 @@
+# Članak 9.
+Članak 18. mijenja se i glasi:
+»Kad više osoba zajednički predaju podnesak i poduzimaju radnje u postupku, a jedna ili više njih oslobođene su plaćanja pristojbe, osoba koja nije oslobođena treba platiti pristojbu samo prema vrijednosti onog dijela predmeta spora koji otpada na nju.
+Ako je vrijednost predmeta spora određena primjenom odredaba članka 30. ovoga Zakona, vrijednost dijela predmeta spora koja otpada na osobu koja nije oslobođena plaćanja pristojbe utvrdit će se tako da se ukupna vrijednost predmeta spora podijeli brojem osoba koje zajednički nastupaju u postupku. Tako će se učiniti i kad je vrijednost predmeta spora određena primjenom odredaba članaka 21. do 29. ovoga Zakona, ali se drugačije ne može utvrditi vrijednost dijela predmeta spora koji otpada na osobu koja nije oslobođena plaćanja pristojbe.«

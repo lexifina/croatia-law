@@ -1,0 +1,2 @@
+# Članak 45.
+Korisnici mirovina koji su, pozivajući se na Odluku Ustavnog suda Republike Hrvatske broj U-I-283/97 od 12. svibnja 1998., Upravnom sudu Republike Hrvatske podnijeli tužbe protiv Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, Centralne službe u Zagrebu, zbog nedonošenja rješenja o zahtjevu za usklađivanje mirovina, i čije je tužbe taj sud odbio ili odbacio, oslobađaju se obveze da plate pristojbe iz Tar. br. 30. i Tar. br. 31.
