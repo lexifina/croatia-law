@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 3. Zakona o osiguranju (»Narodne novine«, br. 9/94, 20/97, 46/97 - pročišćeni tekst i 116/99), Vlada Republike Hrvatske je na sjednici održanoj 9. prosinca 1999. godine donijela
