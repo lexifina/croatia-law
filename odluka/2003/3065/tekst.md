@@ -1,0 +1,6 @@
+o utvrĐivanju interesa Republike Hrvatske za izgradnju industrijskog kolosijeka tvornice cementa NaŠicecemENT d.d., NaŠice, s pripadajuĆim graĐevinama i prikljuČcima, postrojenjima i ureĐajima, u k.o. Zoljan
+I.
+Izgradnja industrijskog kolosijeka tvornice cementa Našicecement d.d., Našice, s pripadajućim građevinama i priključcima, postrojenjima i uređajima, od postojeće željezničke pruge Nova Kapela - Batrina - Našice (u km 4+999,87) do tvornice cementa Našicecement d.d., Našice, u Zoljanu, Tajnovac 1, na k.č.br. 1593, k.č.br. 1594, k.č.br. 1595, k.č.br. 1596 i k.č.br. 1597, sve z.k.ul.br. 110, k.o. Zoljan, u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju lokacijske dozvole, klase: UP/I-350-05/99-01/79, urbroja: 2158-04/5-02/01-32, od 12. listopada 2001. godine, izdane od strane Ureda državne uprave u Osječko-baranjskoj županiji, Ureda za prostorno uređenje, stambeno-komunalne poslove, graditeljstvo i zaštitu okoliša, Ispostave Našice, programske skice broj 3467 iz listopada 1997. godine i dopune programske skice broj 3467 iz travnja 2001. godine, izrađenim u Željezničkom projektnom društvu d.d., Zagreb, kao sastavnim dijelom lokacijske dozvole i Plana izvlaštenja.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
