@@ -1,0 +1,2 @@
+# Članak 15.
+Osobe upisane u Popis znanstvenika i istraživača, a izabrane u zvanje stručnog suradnika temeljem članka 88. Zakona o visokim učilištima (»Narodne novine«, broj 59/96 - pročišćeni tekst, 14/00, 67/00, 94/00 i 129/00) i članka 41. stavka 1. Zakona o znanstvenoistraživačkoj djelatnosti (»Narodne novine«, broj 59/96 - pročišćeni tekst), brisat će se iz Upisnika ukoliko ne dostave dokaz o ispunjavanju jednog od uvjeta propisanog za upis u Upisnik temeljem ovog Pravilnika.
