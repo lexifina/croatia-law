@@ -1,0 +1,4 @@
+## IstoobliČnice (homonimi)
+# Članak 9.
+(1) Ako su nazivi dvaju ili više mjesta podrijetla proizvoda ili usluga jednaki ili gotovo jednaki u pisanom obliku (istoobličnice - homonimi), zaštita takvih naziva oznakom zemljopisnoga podrijetla ili oznakom izvornosti bit će odobrena svim osobama koje ispunjavaju uvjete propisane ovim Zakonom i na način propisan Pravilnikom o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga kojim se uređuje provedba ovoga Zakona (u daljnjem tekstu: Pravilnik), na načelima ravnopravnosti proizvođača na tržištu, istinitog obavješćivanja potrošača, te poslovanja u dobroj vjeri.
+(2) Korisnik istoobličnice u obvezi je dati dovoljno informacija na etiketi ili pakirnom materijalu o stvarnom podrijetlu proizvoda da bi se istoobličnice mogle što bolje razlikovati jedna od druge i da ne bi obmanjivale javnost.

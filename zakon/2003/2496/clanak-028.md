@@ -1,0 +1,7 @@
+## Supstancijalno ispitivanje
+# Članak 28.
+(1) Nakon okončanja postupka formalnog ispitivanja urednosti podnesene prijave iz članka 21. ili članka 25. ovoga Zakona i ako je ona uredna, Zavod provodi supstancijalno ispitivanje podnesene prijave.
+(2) Ako utvrdi da prijava ne ispunjava potrebne uvjete, Zavod dostavlja podnositelju prijave rezultat ispitivanja s navedenim razlozima zbog kojih se ne može ostvariti zaštita oznake zemljopisnog podrijetla ili oznake izvornosti, odnosno priznati pravo korištenja istih i poziva ga da se u određenom roku izjasni o navedenim razlozima.
+(3) Na obrazloženi zahtjev podnositelja prijave Zavod može produžiti rok iz stavka 2. ovoga članka, ali ne duže od ukupno šest mjeseci od poziva na izjašnjenje.
+(4) Ako se podnositelj prijave uopće ne izjasni ili ako se izjasni, a Zavod smatra da se prijavljena oznaka zemljopisnog podrijetla ili oznaka izvornosti ne može zaštiti, odnosno da se određenoj osobi ne može priznati pravo korištenja, Zavod će rješenjem odbiti zahtjev za zaštitu oznake zemljopisnog podrijetla ili oznake izvornosti, odnosno zahtjev za priznanje prava korištenja oznake zemljopisnog podrijetla ili oznake izvornosti.
+(5) Ako Zavod u provedenom postupku utvrdi da prijava za zaštitu oznake zemljopisnog podrijetla ili oznake izvornosti ispunjava formalne i supstancijalne uvjete za priznanje, objavit će ju i na taj način učiniti dostupnom javnosti.

@@ -1,0 +1,7 @@
+## OdreĐivanje privremene mjere
+# Članak 52.
+(1) Tužbom zbog povrede zaštićene oznake zemljopisnog podrijetla ili oznake izvornosti može se zahtijevati da sud odredi privremenu mjeru zabrane obavljanja radnji kojima se vrši povreda i mjeru privremenog oduzimanja proizvoda kojima se navodno vrši povreda oznake zemljopisnog podrijetla ili oznake izvornosti te očuvanje relevantnih dokaza o navodnoj povredi prava.
+(2) Privremena mjera može se tražiti i prije podnošenja tužbe, uz uvjet da tužba bude podnesena u roku od 20 radnih dana ili 31 kalendarskog dana, ovisno o tome koji je rok dulji, od dana podnošenja zahtjeva za određivanje privremene mjere.
+(3) Ako bi kasnije donošenje privremenih mjera moglo izazvati nepopravljivu štetu nositelju registracije ili ovlaštenim korisnicima oznake zemljopisnog podrijetla ili oznake izvornosti, ili kada postoji očita opasnost od uništenja dokaza, privremena se mjera donosi bez saslušanja tuženika. U takvu slučaju tuženik se obavješćuje bez odgode. Na zahtjev tuženika obavlja se preispitivanje, uključujući i pravo na saslušanje, kako bi se u razumnom roku nakon obavijesti o mjerama donijela odluka o tome hoće li se te mjere ukinuti, mijenjati ili potvrditi.
+(4) Žalba protiv rješenja kojim se određuje privremena mjera ne zadržava izvršenje rješenja.
+(5) Tužbu zbog povrede oznake zemljopisnog podrijetla ili oznake izvornosti sud mora hitno uzeti u postupak.
