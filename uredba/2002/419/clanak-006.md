@@ -1,0 +1,5 @@
+# Članak 6.
+Pri Uredu kao stručno tijelo djeluje Stručni savjet, koji čine stručnjaci za područje prevencije i suzbijanja zlouporabe opojnih droga, sa zadaćom pružanja stručne pomoći u odlučivanju o svim pitanjima suzbijanja zlouporabe opojnih droga.
+Stručni savjet proučava, prati i analizira čimbenike zlouporabe opojnih droga, prati kretanje te izvršenje mjera i aktivnosti suzbijanja zlouporabe opojnih droga, daje stručna mišljenja i predlaže mjere u svrhu otklanjanja uzroka i posljedica zlouporabe opojnih droga na kvalitetu života ljudi, prati i objedinjava te usmjerava aktivnosti koje se poduzimaju u cilju preventivnog djelovanja na području suzbijanja ovisnosti, te pruža stručnu pomoć nositeljima te aktivnosti na lokalnoj, područnoj (regionalnoj) i državnoj razini, daje stručno mišljenje, te prijedloge za donošenje propisa na području suzbijanja zlouporabe opojnih droga.
+Stručni savjet ima predsjednika i deset članova.
+Predsjednika i članove Stručnog savjeta na prijedlog predstojnika Ureda imenuje Vlada Republike Hrvatske.
