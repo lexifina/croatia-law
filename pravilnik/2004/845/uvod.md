@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 1. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92, 77/92, 58/93, 2/94, 108/95, 108/96, 82/01 i 103/03), a u svezi s člankom 13. Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (»Narodne novine«, br. 199/03), ministar zdravstva i socijalne skrbi, donosi
