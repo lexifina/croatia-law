@@ -1,0 +1,3 @@
+# Članak 11.
+Ukoliko se planira životinju podvrgnuti pokusu tijekom kojega će ona osjetiti ili trpjeti jaku bol ili će joj, radi svrhe pokusa, dugotrajno biti uskraćena voda i/ili hrana (dulje od fiziološkog razdoblja u kojem pojedine vrste treba hraniti i/ili napajati), takav pokus mora biti posebno najavljen, obrazložen i opravdan nadležnome tijelu i posebno odobren od strane tog tijela.
+Ukoliko nadležno tijelo procijeni da takav pokus nije nužan niti bitan za ispunjenje bitnih potreba čovjeka ili životinja, donijet će rješenje o odbijanju zahtjeva za odobrenje provođenja pokusa na životinjama.
