@@ -1,0 +1,1 @@
+Odluka o privremenom usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. kolovoza 1991.
