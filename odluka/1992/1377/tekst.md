@@ -1,0 +1,11 @@
+I.
+U roku od 30 dana od dana stupanja na snagu ove odluke :
+- ministri, čelnici državnih upravnih organizacija i čelnici stranačnih službi tijela državne vlasti,
+- čelnici javnih poduzeća, poduzeča i drugih pravnih osoba u vlasništvu ili u pretežnom vlasništvu Republike Hrvatske, Narodne banke Hrvatske, banaka i drugih financijskih organizacija, osiguravajućih društava, društvenih i proračunskih fondova, Službe društvenog knjigovodstva i drugih pravnih osoba koje se pretežno financiraju iz proračuna Republike,
+- čelnici tijela opčinske uprave i uprave Grada Zagreba, čelnici stručnih službi općinskih tijela i tijela Grada Zagreba, čelnici javnih poduzeća, poduzeča, ustanova (organizacija koje obavljaju društvene djelatnosti) i drugih pravnih osoba koje su u vlasništvu općine ili Grada Zagreba ili se pretežno financiraju iz sredstava proračuna općine odnosno Grada Zagreba, dužni su u skladu s važečim propisima, a u cilju racionalizacije poslovanja i djelovanja, te razrješavanja tromog, neučinkovitog i prekobrojnog naslijeđenog, a još uvijek prisutnog, aparata državne uprave i administracije uopće, ispitati i ocijeniti rad svakog pojedinog djelatnika te zadržati na radu samo one djelatnike koji zadovoljavaju i postižu rezultate rada primjerene modernoj upravi i gospodarstvu.
+II.
+Čelnici tijela i pravnih osoba iz točke I. alineje 1. ove odluke izvješće o sprovođenju ove odluke dostavit če predsjedniku Vlade Republike Hrvatske. Čelnici tijela, organizacija i pravnih osoba iz točke I. alineje 2. ove odluke izvješće o sprovođenju ove odluke dostavit će ministarstvu nadležnom za njihov djelokrug rada koje će zbirno izvješće s ocjenom stanja dostaviti predsjedniku Vlade Republike Hrvatske. Čelnici tijela i pravnih osoba i točke I. alineje 3. ove odluke izvješće o sprovođenju ove odluke dostavit će izvršnom vijeću općine odnosno Grada Zagreba na čijem području je njihovo sjedište, koje će sačiniti zbirna izvješća s ocjenom stanja i dostaviti ih nadležnim ministarstvima. Nadležna ministarstva dužna su ih, uz ocjenu stanja, proslijediti predsjedniku Vlade Republike Hrvatske.
+III.
+Ministarstvo rada, socijalne skrbi i obitelji odmah će sačiniti obvezatni uput za sprovedbu ove odluke.
+IV.
+Ova odluka stupa na snagu danom objave u "Narodnim novinama".
