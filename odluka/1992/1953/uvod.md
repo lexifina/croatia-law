@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. toćhe 1. i članka 67. stavka 1. točhe 11. Uredbe o Narodnoj banci Hrvatske ("Narodne novine", broj 71/91), Savjet Narodne banke Hrvatske na svojoj 17. sjednici od 30. listopada 1992: godine; donio je
