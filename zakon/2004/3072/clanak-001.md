@@ -1,0 +1,7 @@
+## ZAKONA O DRŽAVNOJ REVIZIJI
+# Članak 1.
+U Zakonu o državnoj reviziji (»Narodne novine«, br. 70/93., 48/95., 105/99. i 44/01.) u članku 1. stavak 1. mijenja se i glasi:
+»(1) Ovim se Zakonom uređuje revizija državnih prihoda i rashoda, revizija financijskih izvještaja i financijskih transakcija jedinica državnog sektora, jedinica lokalne i područne (regionalne) samouprave, pravnih osoba koje se djelomice ili u cijelosti financiraju iz proračuna, javnih poduzeća, društava i drugih pravnih osoba u kojima Republika Hrvatska, odnosno jedinice lokalne i područne (regionalne) samouprave imaju većinsko vlasništvo nad dionicama, odnosno udjelima, te korištenje sredstava Europske unije i drugih međunarodnih organizacija ili institucija za financiranje javnih potreba.«
+Stavci 3. i 4. mijenjaju se i glase:
+»(3) Pod državnim prihodima i rashodima, u smislu ovoga Zakona, podrazumijevaju se svi prihodi i primici te rashodi i izdaci koji se financiraju iz državnog proračuna ili odgovarajućih fondova na razini Republike Hrvatske te iz proračuna na razini jedinica lokalne i područne (regionalne) samouprave.
+(4) Pod jedinicama državnog sektora, u smislu ovoga Zakona, podrazumijevaju se sva tijela zakonodavne, izvršne i sudbene vlasti, kao i sve agencije, institucije i drugi subjekti na razini Republike Hrvatske i razini jedinica lokalne i područne (regionalne) samouprave, financirana iz državnog proračuna ili proračuna jedinica lokalne i područne (regionalne) samouprave.«
