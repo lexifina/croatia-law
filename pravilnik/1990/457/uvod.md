@@ -1,0 +1,1 @@
+Na temelju člana 92. stava 4. Zakona o ugostiteljskoj i turističkoj djelatnosti ("Narodne novine", br. 28/88). Republički komitet za turizam, uz prethodnu suglasnost Republičkog komiteta za pomorstvo, saboraćaj i veze, na sjednici održanoj 26. ožujka 1990. godine donio je
