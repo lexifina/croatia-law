@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom osniva se Direkcija za korištenje službenih zrakoplova, kao stručna služba Vlade Republike Hrvatske, radi obavljanja zračnog prijevoza zrakoplovima i helikopterima (u daljnjem tekstu: službeni zrakoplovi) za vlastite potrebe tijela državne vlasti Republike Hrvatske. Direkcija za korištenje službenih zrakoplova (u daljnjem tekstu: Direkcija) u obavljanju zračnog prijevoza za vlastite potrebe obavlja i prijevoz u zračnom prometu za potrebe pravnih osoba kojih je osnivač ili vlasnik Republika Hrvatska.
