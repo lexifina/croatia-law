@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", broj 53/90 i 61/91), a povodom prijedloga Medena Štelia Kanfanar 70, Rovinj, Vlada Republike Hrvatske je na sjednici održanoj 28. siječnja 1993., donijela
