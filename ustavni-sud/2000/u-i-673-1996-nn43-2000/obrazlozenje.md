@@ -1,0 +1,10 @@
+Obrazloženje
+Zastupnički dom Hrvatskoga državnog sabora podnio je prijedlog da se odgodi rok prestanka važenja odredbi Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine naznačenih u odluci Ustavnog suda, kako je to navedeno u izreci ove odluke.
+Predlagatelj navodi da je Vlada Republike Hrvatske ocijenila da bi uz obvezu dopune i izmjene navedenog Zakona, koja proizlazi iz odluke i rješenja Ustavnog suda Republike Hrvatske, trebalo otkloniti i druge pravne nedostatke i nedorečenosti koje proizlaze iz Zakona u cijelosti, a uočene su u njegovoj dvogodišnjoj praktičnoj primjeni.
+Vlada također ocjenjuje da, s obzirom da se radi o Zakonu koji je od velikog značenja za Republiku Hrvatsku, njegove izmjene i dopune zahtijevaju temeljite pripreme, koje se ne mogu na zadovoljavajući način obaviti u zadanom roku (23. travnja 2000.).
+Predlaže se produljenje roka stupanja na snagu odluke i rješenja Ustavnog suda do 31. prosinca 2000. godine.
+Prijedlog je osnovan.
+Ustavni sud Republike Hrvatske je odlukom označenom u izreci ukinuo pojedine odredbe Zakona, time da je u t. 3. odlučio da zakonske odredbe ukinute pod t. 1. a), b) i c) izreke prestaju važiti stupanjem na snagu zakona kojim će Hrvatski državni sabor donijeti nove odredbe umjesto ukinutih, a najkasnije istekom roka od jedne godine od dana objave ove odluke i rješenja u »Narodnim novinama«.
+Budući da se radi o složenim propisima, koji zahtijevaju temeljitu razradu problema na koje je Sud u obrazloženju svoje odluke ukazao, Ustavni sud smatra prijedlog osnovanim te produljenje roka opravdanim.
+Ovo naročito iz razloga što zbog održavanja izbora početkom 2000. godine i konstituiranja novog Zastupničkog doma Hrvatskoga državnog sabora nije bio moguć rad na donošenju izmjena i dopuna Zakona o naknadi u odnosu na ukinute odredbe.
+Iz navedenih razloga, temeljem članka 53. stavka 2. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, br. 99/99), Ustavni sud je odlučio kao u izreci.
