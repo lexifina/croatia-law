@@ -1,0 +1,3 @@
+## o organizaciji, radu i teritorijalnoj nadležnosti općinskih i okružnih javnih tužiteljstava u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske
+# Članak 1.
+Zakon o javnoni tužilaštvu ("Narodne novine", broj 34/89 - pročišćeni tekst,18/90, 41/90, i 14/91). Zakon o teritorijalnoj nadležnosti i sjedištima općinskih i okružnih javnih tužilaštava ("Narodne novine" broj 25/77, 50/78 i 3/81) i Zakon o javnom pravobranilaštvu ("Narodne novine" broj 17/77, 44/77, 17/86, 19/90. i 41/90) primjenjuju se i u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske ukoliko ovom uredbom nije drukčije određeno.
