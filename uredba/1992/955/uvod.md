@@ -1,0 +1,1 @@
+Na temelju članka 1. stavka 1. točke 19. i članka 7. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", broj 53/91) i članka 61. Zakona o vanjskotrgovinskom poslovanju ("Službeni list", broj 63/89), Vlada Republike Hrvatske na sjednici održanoj 24. lipnja 1992. godine donijela je
