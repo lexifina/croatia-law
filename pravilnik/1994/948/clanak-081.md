@@ -1,0 +1,2 @@
+# Članak 81.
+Danom primjene ovoga pravilnika prestaje vaižiti Pravilnik o načinu izrade šumskogospodarske osnove područja, osnova gospodarenja gospodarskim jedinicama i programa za gospodarenje šumama ("Narodne novine". br 42/85, 21/86 i 6/91), osim odredaba članka 42. stavke 12 i članka 54. koje se primjenjuju do stupanja na snagu propii sa normizacijskog sustava o šumskim znakovima za obilježavanje granica i gospodarskog razdjeljenja te o označavanju sadržaja karata.

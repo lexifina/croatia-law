@@ -1,0 +1,4 @@
+# Članak 4.
+Šume i šumska zemljišta, uz razvrstavanje po uređajnim razredima, mogu se razvrstavati i po ekološkogospodarskim tipovima.
+Pod ekološkogospodarskim tipom smatra se određena površina šume i šumskog zemljišta koja ima slične ekološke i gospodarske znčajke o kojima ovisi normalan način gospodarenja. Ekološkogospodarski tip šume i šumskog zemljišta utvrđuje se na temelju geološke podloge, šumske zajednice, vrste tla, klime, uzgojnih značajki proizvodnih mogućnosti i vrijednosti sastojina. Za svaki ekološkogospodarski tip šume i šumskog zemljišta utvrđuje se najpovoljniji sastojinski oblik, ophodnja, promjer sječive zrelosti, normatna proizvodnja i njezina vrijednost.
+Ako se kod izrade šumskogospodarske osnove, osnova i programa šume i šumska zemljišta razvrstavaju i po ekološkogospodarskim tipovima, na njihovo razvrstavanje odgovarajuće se primjenjuju odredbe članaka 18., 19., 27., 32., 35., 41., 48., 52., 55., 56., 60. i 63. ovoga pravilnika.
