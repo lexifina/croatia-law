@@ -1,0 +1,2 @@
+# Članak 59.
+Statutom općine, odnosno grada, u skladu sa zakonom, uredit će se postupak davanja inicijative i podnošenja prijedloga za osnivanje mjesnog odbora, djelokrug i ovlasti tijela mjesnog odbora, utvrđivanje programa rada mjesnog odbora, osnove pravila mjesnog odbora, način financiranja njihove djelatnosti, obavljanje administrativnih i drugih poslova za njihove potrebe te druga pitanja od važnosti za ostvarivanje njihovih prava i obveza utvrđenih zakonom, statutom i drugim općim aktom predstavničkog tijela.

@@ -1,0 +1,6 @@
+# Članak 16.
+Odluku o uspostavljanju suradnje, odnosno sklapanju sporazuma o suradnji s jedinicama lokalne, odnosno regionalne samouprave drugih država, zajedno s tekstom sporazuma o suradnji na hrvatskom jeziku i na jeziku države u kojoj se nalazi jedinica lokalne, odnosno regionalne samouprave s kojom se navedeni sporazum sklapa, općina, grad i županija dostavlja središnjem tijelu državne uprave nadležnom za lokalnu i područnu (regionalnu) samoupravu, koje obavlja nadzor nad zakonitošću ove odluke.
+Kada središnje tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu ocijeni da odluka iz stavka 1. ovoga članka nije u skladu sa zakonom, u roku od 8 dana od njenog primitka, predložit će Vladi Republike Hrvatske ukidanje odluke.
+Vlada Republike Hrvatske može, u roku od 30 dana od primitka prijedloga, odlukom, koja mora biti obrazložena, ukinuti odluku iz stavka 1. ovoga članka.
+Protiv odluke Vlade Republike Hrvatske o ukidanju odluke iz stavka 1. ovoga članka, jedinica lokalne, odnosno područne (regionalne) samouprave može podnijeti ustavnu tužbu radi zaštite prava na lokalnu i područnu (regionalnu) samoupravu.
+Ako Vlada Republike Hrvatske u roku iz stavka 3. ovoga članka ne donese odluku o ukidanju, smatra se da je odluka iz stavka 1. ovoga članka donijeta u skladu sa zakonom.

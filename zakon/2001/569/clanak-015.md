@@ -1,0 +1,2 @@
+# Članak 15.
+Odluku o uspostavljanju međusobne suradnje, odnosno sklapanju sporazuma (ugovora, povelje, memoranduma i sl. u daljnjem tekstu: sporazum) o suradnji gradova, općina i županija s odgovarajućim lokalnim i regionalnim jedinicama drugih država te sadržaju i oblicima te suradnje donosi predstavničko tijelo jedinice lokalne samouprave, odnosno jedinice područne (regionalne) samouprave, u skladu sa svojim općim aktima i ovim Zakonom.

@@ -1,0 +1,2 @@
+# Članak 100.
+Danom stupanja na snagu ovoga Zakona prestaju važiti Zakon o lokalnoj samoupravi i upravi (»Narodne novine«, br. 90/92., 94/93., 117/93., 5/97., 17/99., 128/99., 51/00. i 105/00.) i Zakon o određivanju poslova iz samoupravnog djelokruga jedinica lokalne samouprave i uprave (»Narodne novine«, br. 75/93., 103/93., 10/94., 17/94., 30/94., 36/95., 107/95., 43/96., 70/97., 105/97., 36/98., 142/98. i 69/99.).

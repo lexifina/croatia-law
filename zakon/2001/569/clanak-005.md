@@ -1,0 +1,3 @@
+# Članak 5.
+Grad je jedinica lokalne samouprave u kojoj je sjedište županije te svako mjesto koje ima više od 10.000 stanovnika, a predstavlja urbanu, povijesnu, prirodnu, gospodarsku i društvenu cjelinu. U sastav grada kao jedinice lokalne samouprave mogu biti uključena i prigradska naselja koja s gradskim naseljem čine gospodarsku i društvenu cjelinu te su s njim povezana dnevnim migracijskim kretanjima i svakodnevnim potrebama stanovništva od lokalnog značenja.
+Iznimno, gdje za to postoje posebni razlozi (povijesni, gospodarski, geoprometni), gradom se može utvrditi i mjesto koje ne zadovoljava uvjete iz stavka 1. ovoga članka.

@@ -1,0 +1,3 @@
+# Članak 7.
+Područje općine, grada i županije, njihov naziv, sjedište njihovih tijela, osnivanje novih te ukidanje ili spajanje postojećih općina, odnosno gradova, izdvajanje pojedinih naselja iz sastava jedne općine ili grada i uključivanje tih naselja u sastav druge općine ili grada, promjene granica kao i druga pitanja od važnosti za teritorijalne promjene jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj uređuju se posebnim zakonom.
+Pri svakoj promjeni područja jedinice lokalne i područne (regionalne) samouprave prethodno će se tražiti mišljenje stanovnika te jedinice.

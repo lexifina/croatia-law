@@ -1,0 +1,5 @@
+# Članak 42.
+Općinski načelnik, gradonačelnik, odnosno župan zastupa općinu, grad, odnosno županiju.
+Općinski načelnik, gradonačelnik, odnosno župan odgovoran je središnjim tijelima državne uprave za obavljanje poslova državne uprave prenijetih u djelokrug tijela općine, grada, odnosno županije.
+Općinski načelnik, gradonačelnik, odnosno župan, u obavljanju poslova iz samoupravnog djelokruga općine, grada, odnosno županije ima pravo obustaviti od primjene opći akt predstavničkog tijela ako ocijeni da je tim aktom povrijeđen zakon ili drugi propis te zatražiti od predstavničkog tijela da u roku od petnaest dana otkloni uočene nedostatke. Ako predstavničko tijelo to ne učini, općinski načelnik, gradonačelnik, odnosno župan dužan je u roku od osam dana o tome obavijestiti čelnika središnjeg tijela državne uprave ovlaštenog za nadzor nad zakonitošću rada tijela jedinica lokalne i područne (regionalne) samouprave.
+Općinski načelnik, gradonačelnik, odnosno župan obavlja poslove utvrđene statutom općine, grada, odnosno županije u skladu sa zakonom.

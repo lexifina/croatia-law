@@ -1,0 +1,3 @@
+# Članak 22.
+Odlukom predstavničkog tijela jedinice lokalne samouprave u skladu s njezinim statutom i statutom županije, mogu se pojedini poslovi iz samoupravnog djelokruga jedinice lokalne samouprave prenijeti na županiju, odnosno mjesnu samoupravu.
+Predstavničko tijelo jedinice lokalne samouprave može tražiti od županijske skupštine da joj, uz suglasnost središnjeg tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave, povjeri obavljanje određenih poslova iz samoupravnog djelokruga županije na području te jedinice, ako može osigurati dovoljno prihoda za njihovo obavljanje.

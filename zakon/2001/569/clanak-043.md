@@ -1,0 +1,3 @@
+# Članak 43.
+Općinskog načelnika, gradonačelnika, odnosno župana u slučaju duže odsutnosti ili drugih razloga spriječenosti u obavljanju svoje dužnosti, zamjenjuje jedan od zamjenika koje on odredi, u skladu sa statutom.
+Općinski načelnik, gradonačelnik i župan, u skladu sa statutom, može obavljanje određenih poslova iz svog djelokruga povjeriti jednom od svojih zamjenika. Pri obavljanju povjerenih poslova zamjenik je dužan pridržavati se uputa općinskog načelnika, gradonačelnika, odnosno župana. Povjeravanjem poslova iz svog djelokruga zamjeniku, ne prestaje odgovornost općinskog načelnika, gradonačelnika, odnosno župana za njihovo obavljanje.
