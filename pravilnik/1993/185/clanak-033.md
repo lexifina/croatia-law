@@ -1,0 +1,2 @@
+# Članak 33.
+Zamjena prometnih dozvola izdanih po dosadašnjim propisima i izdavanje knjižica vozila obavljat će se nakon proteka trideset dana od dana stupanja na snagu ovoga Pravilnika. Zamjenu prometnih dozvola i izdavanje knjižica vozila obavljat će stanice za tehničke preglede vozila prilikom ovjere tehničkih pregleda vozila. Do roka utvrđenog u stavku 1. ovoga članka izdavat će se prometne dozvole sukladno članku 13. Pravilnika o registraciji motornih i priključnih vozila, obrascu prometne i vozačke dozvole ("Narodne novine", broj 54/91., 6/92. i 35/92.).

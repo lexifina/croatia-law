@@ -1,0 +1,2 @@
+# Članak 14.
+Prometna dozvola izdaje se na obrascu 1, koji je pravokutnog oblika, trodjelan i kad je razvijen veličine je 222 x 105 mm, a kad je presavijen 74 x 105 mm i ima otiskanih šest stranica. Sastavni dio prometne dozvole je karton izvršenih tehničkih pregleda vozila koji se izdaje po ispunjavanju rubrika o izvršenim tehničkim pregledima vozila u prometnoj dozvoli. Obrazac je pravokutnog oblika dvodjelan i veličine je 148 x 105 mm (obrazac 2).

@@ -1,0 +1,2 @@
+# Članak 34.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o registraciji vozila ("Narodne novine", broj 46/84.) i Pravilnik o registraciji motornih i priključnih vozila, obrascu prometne i vozačke dozvole ("Narodne novine", broj 54/91., 6/92. i 35/92.), osim popisa registracijskih područja koja vrijede do isteka roka iz članka 322. stavak 1. Zakona o sigurnosti prometa na cestama.

@@ -1,0 +1,2 @@
+# Članak 28.
+O privremeno registriranim vozilima evidencija se vodi u registru. Registar privremeno registriranih vozila sadrži: redni broj, ime i prezime odnosno naziv imatelja vozila. vrstu i tip vozila, broj šasije, broj motora, registarski broj privremene registarske pločice, rok valjanosti privremene registracije, rubriku je li vozilo već bilo privremeno registrirano, kod kojeg organa i za koje vrijeme i napomenu.

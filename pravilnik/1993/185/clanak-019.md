@@ -1,0 +1,7 @@
+# Članak 19.
+Registarska pločica za vozila diplomatskih i konzularnih predstavništva, misija stranih država i predstavništva međunarodnih organizacija u Republici Hrvatskoj i njihova osoblja plave je boje, a otisnute brojke i slova su žute boje, te sadrži: brojčanu oznaku zemlje iz koje je predstavništvo, slovnu oznaku djelatnosti predstavništva, odnosno statusa osobe u tim predstavništvima i registarski broj vozila.
+Slovne oznake djelatnosti predstavništva odnosno statusa osobe u tim predstavništvima na registarskim pločicama su ove:
+1. "A" - za vozila u vlasništvu diplomatskih predstavništva, misija stranih država i predstavništva međunarodnih organizacija u Republici Hrvatskoj i njihova osoblja koja imaju diplomatski status (obrazac 8),
+2. "C" - za vozila u vlasništvu konzularnih predstavništava i njihova osoblja koja imaju konzularni status (obrazac 9),
+3. "M" - za vozila čiji su vlasnici stranci koji su zaposleni u diplomatskim i konzularnim predstavništvima, misijama stranih država i predstavništvima međunarodnih organizacija u Republici Hrvatskoj, a nemaju diplomatski status (obrazac 10).
+Za vozila iz stavka 2. točke 1. i točke 2. ovoga članka izdaje se, uz registarsku pločicu, i dopunska pločica elipsasta oblika crne boje sa slovima otisnutim žutom bojom: za vozila kojim se koristi šef diplomatskog predstavništva ili misije - pločica sa slovima "CMD", za vozila kojim se koristi osoba s diplomatskim statusom - pločica sa slovima "CD", a za vozilo kojim se koristi konzularni dužnosnik pločica sa slovima "CC" (obrazac 11).
