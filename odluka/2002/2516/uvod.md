@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00, 59/01 i 107/01), te članka 26. i 51. Statuta Općine Podgora (»Glasnik Općine Podgora«, br. 3/01) Općinsko vijeće Općine Podgora, na svojoj 13. sjednici održanoj 10. prosinca 2002. godine, donijelo je
