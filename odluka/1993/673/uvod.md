@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1983. godinu ("Narodne novine", br. 25/93), Odbor za izbor, imenovanja i administrativne poslove Zastupničkog dama Sabora Republike Hrvatske, na sjednici 28. travnja 1993. donio je
