@@ -1,0 +1,2 @@
+# Članak 15.
+Oružje i streljivo mogu se izlagati u poslovnim prostorijama samo tijekomradnog vremena. Izvan radnog vremena oružje i streljivo mora se čuvatiu zaključanim metalnim ormarima. Puške se mogu čuvati u poslovnim prostorijamaizvan metalnih ormara, ako su povezane čeličnim užetom ili lancem kojije provučen kroz branik obarača. Čelično uže ili lanac moraju biti pričvršćenina fiksnu podlogu (zid, pod ili prostorije za smještaj oružja) i žaključanina oba svoja kraja.

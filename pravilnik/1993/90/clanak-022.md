@@ -1,0 +1,2 @@
+# Članak 22.
+Bočna zaštita civilnog strelišta za malokalibarske puške kalibra 22I.r. može biti izvedena od zemljanog nasipa ili od zida građenog od tvrdogneprobojnog materijala. Bočna zaštita izvedena od zemljanog nasipa možeimati kut nagiba najviše do 450. Visina zemljanog nasipa mora biti izvedenau visini gornjih blendi te se na njega neposredno nastavljati. Bočna zaštitaod zida mora biti građena od materijala propisanih člankom 20. ovog Pravilnika,bez drvene obloge.

@@ -1,0 +1,2 @@
+# Članak 44.
+Unutar strelišta za vrijeme gađanja mora se osigurati odstranjivanjebarutnih plinova i olovne prašine pomoću uređaja za prozračivanje. Za vrijemegađanja barutne plinove i olovnu prašinu iz strelišta mora se uklanjatidvanaestostrukom izmjenom zraka na sat. Svježi zrak mora se dovoditi izastreljačkog mjesta sa stropa ili zida. Odvođenje zraka mora se obavljatina udaljenosti od 2 do 3 m ispred streljačkog mjesta i hvatača zrna.
