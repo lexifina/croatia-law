@@ -1,0 +1,3 @@
+## o načinu izdavanja i oduzimanja, sadržaju i obliku dopuštenja (licence) te o uvjetima koje mora ispunjavati stručna organizacija iz članka 277. Zakona o sigurnosti prometa na cestama
+# Članak 1.
+Ovim pravilnikom propisuje se način izdavanja i oduzimanja dopuštenja (licence) (u daljem tekstu: dopuštenje) kontrolorima tehničke ispravnosti vozila za obavljanje poslova kontrole tehničke ispravnosti vozila i osobama koje u stanici za tehnički pregled vozila obavljaju poslove regi stracije vozila, sadržaj i oblik dopuštenja, način vođenja evidencije o izdatim i oduzetim dopuštenjima te o uvjetima koja mora ispunjavati stručna organizacija iz članka 277. Zakona o sigurnosti prometa na cestama.
