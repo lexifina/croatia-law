@@ -1,0 +1,4 @@
+# Članak 13.
+PREDSTAVNIŠTVO ZRAČNOG PRIJEVOZNIKA I PRODAJA
+1. Određeni zračni prijevoznici svake od ugovornih stranaka imat će pravo, sukladno zakonima i pravnim propisima druge ugovorne stranke koji se odnose na ulazak, boravak i upošljavanje, dovesti i zadržati na području te druge ugovorne stranke upravno, tehničko, operativno i drugo stručno osoblje koje je potrebno u svrhu obavljanja zračnog prijevoza.
+2. Određeni zračni prijevoznici svake od ugovornih stranaka imat će se nadalje pravo baviti prodajom zračnog prijevoza na području druge ugovorne stranke i to izravno ili putem svojih zastupnika. Određeni zračni prijevoznici svake od ugovornih stranaka imat će pravo prodavati, a svaka će osoba biti slobodna kupovati, takav prijevoz u lokalnoj valuti ili u bilo kojoj drugoj konvertibilnoj valuti bez ograničenja.

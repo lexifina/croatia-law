@@ -1,0 +1,21 @@
+# Članak 9.
+IZBJEGAVANJE DVOSTRUKOG OPOREZIVANJA
+1. Prihod ili profit stečen letovima zrakoplova zračnog prijevoznika jedne ugovorne stranke u međunarodnom prometu, uključivši sudjelovanje u »pool« letovima, letovima u zajednički poduzetom zračnom prijevozu ili međunarodnoj zrakoplovnoj agenciji, koji se oporezuju na području te ugovorne stranke bit će izuzeti od plaćanja poreza na dohodak, poreza na profit i svih drugih davanja na dohodak ili profit koja su propisana na području druge ugovorne stranke.
+2. Kapital i imovina zračnog prijevoznika jedne ugovorne stranke koja se odnosi na letove zrakoplova u međunarodnom prometu bit će izuzeta od oporezivanja kapitala i imovine svake vrste i naravi koja se vrše na području druge ugovorne stranke.
+3. Zarada od ustupanja zrakoplova koji sudjeluje u međunarodnom prometu i pokretne imovine koja je u svezi s letovima takvog zrakoplova, a koju je stekao zračni prijevoznik jedne ugovorne stranke bit će izuzeta od plaćanja bilo kakvih poreza na zaradu koji su propisani na području druge ugovorne stranke.
+4. U ovom članku:
+(a) izraz »prihod ili profit« uključuje sveukupni prihod i bruto dohodak stečen letovima zrakoplova u svrhu prijevoza osoba, stoke, dobara, pošte ili trgovačke robe u međunarodnom prometu uključivši:
+(i) »charter« ili najamninu za zrakoplov;
+(ii) prodaju karata ili sličnih dokumenata, te pružanje usluga vezanih za takav prijevoz, bilo za samog zračnog prijevoznika ili za bilo kojeg drugog zračnog prijevoznika; i
+(iii) kamate na sredstva direktno vezana s letovima zrakoplova u međunarodnom prometu;
+(b) izraz »međunarodni promet« znači prijevoz zrakoplovom osim kada se takav prijevoz odvija isključivo između mjesta na području druge ugovorne stranke;
+(c) izraz »zračni prijevoznik jedne ugovorne stranke« znači, u slučaju Hong Konga (SAR) Posebnog Upravnog Područja, zračni prijevoznik koji ima svoju središnju upravu i glavno mjesto poslovanja u Hong Kongu (SAR) Posebnom Upravnom Području, a u slučaju Republike Hrvatske zračni prijevoznik čija je većina dionica u vlasništvu državljana ili Vlade Republike Hrvatske i koji je pod stvarnom kontrolom navedenih građana ili Vlade;
+(d) izraz »nadležne vlasti« znači, u slučaju Hong Konga (SAR) Posebnog Upravnog Područja, Povjerenik za unutarnje prihode ili njegov ovlašteni zastupnik, svaka osoba ili tijelo koje je ovlašteno vršiti bilo koju funkciju koja je u domeni nadležnosti Povjerenika ili sličnih funkcija, a u slučaju Republike Hrvatske, Ministarstvo financija ili njegov ovlašteni zastupnik.
+5. Nadležne vlasti ugovornih stranaka će konzultirajući se nastojati riješiti međusobnim dogovorom bilo kakve sporove glede tumačenja ili primjene ovog članka. Članak 16. (Rješavanje sporova) neće se primjenjivati niti na jedan od ovakvih sporova.
+6. Usprkos članku 20. (Stupanje na snagu) svaka će ugovorna stranka u pisanom obliku obavijestiti drugu stranku o završetku procedura koje propisuju njezini zakoni i koji su potrebni za stupanje ovog članka na snagu i ovaj će članak stupiti na snagu na datum posljednje obavijesti. Članak će se tada primijeniti:
+(a) u Republici Hrvatskoj, za svaku fiskalnu godinu koja počinje sa ili nakon 1. siječnja sljedeće kalendarske godine, nakon kalendarske godine u kojoj ovaj Sporazum ili ovaj članak stupa na snagu, koje god od navedenog bilo kasnije;
+(b) u Hong Kongu (SAR) Posebnom Upravnom Području, za svaku fiskalnu godinu koja počinje sa ili nakon 1. travnja sljedeće kalendarske godine, nakon kalendarske godine u kojoj ovaj Sporazum ili ovaj članak stupa na snagu, koje god od navedenog bilo kasnije.
+7. Usprkos članku 18. (Otkaz) gdje je dana obavijest o otkazu ovog Ugovora prema tom članku, ovaj će članak prestati vrijediti:
+(a) u Republici Hrvatskoj, za svaku fiskalnu godinu koja počinje sa ili nakon 1. siječnja sljedeće kalendarske godine nakon kalendarske godine u kojoj je dana obavijest;
+(b) u Hong Kongu (SAR) Posebnom Upravnom Području, za svaku fiskalnu godinu koja počinje sa ili nakon 1. travnja sljedeće kalendarske godine nakon kalendarske godine u kojoj je dana obavijest.
+8. Ovaj će članak prestati vrijediti u slučaju da između ugovornih stranaka stupi na snagu sporazum o izbjegavanju dvostrukog oporezivanja koji se odnosi na poreze na dohodak koji će propisivati izuzimanja od plaćanja poreza jednaka onima navedenim u ovom članku.

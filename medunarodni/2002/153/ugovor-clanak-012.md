@@ -1,0 +1,4 @@
+# Članak 12.
+KONVERZIJA I PRIJENOS PRIHODA
+1. Određeni zračni prijevoznici Hong Konga (SAR) Posebnog Upravnog Područja imat će pravo konvertirati i prenijeti u Hong Kong (SAR) Posebno Upravno Područje iz Republike Hrvatske, na zahtjev, lokalne prihode koji premašuju iznose koji su lokalno isplaćeni. Određeni zračni prijevoznici Republike Hrvatske imat će pravo konvertirati i prenijeti iz Hong Konga (SAR) Posebnog Upravnog Područja u Republiku Hrvatsku, na zahtjev, lokalne prihode koji premašuju iznose koji su lokalno isplaćeni.
+2. Konverzija i prijenos takvih prihoda bit će dozvoljena bez ograničenja prema deviznom tečaju koji se primjenjuje na promjenu valuta koji je na snazi u trenutku kada se takvi prihodi budu konvertirali i prenosili, te isti neće biti podložni nikakvim naplatama osim onih koje uobičajeno vrše banke za izvođenje takvih konverzija i prijenosa.
