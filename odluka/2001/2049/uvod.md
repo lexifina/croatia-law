@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01), te članka 23. Statuta Općine Milna, Općinsko vijeće općine Milna na sjednici održanoj 21. prosinca 2001. godine donijelo je
