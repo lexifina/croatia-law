@@ -1,0 +1,1 @@
+Na temelju članka 84. stavak 1. točka 9., i stavak 2., a u svezi s člankom 28. i 29. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj: 94/01, 122/02, 17/04 i 48/04), Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti uz suglasnost ministra zdravstva i socijalne skrbi, donosi
