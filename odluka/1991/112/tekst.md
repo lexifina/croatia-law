@@ -1,0 +1,7 @@
+o usklađivanju mirovina od 1. studenoga 199 0. i o najvišoj starosnoj i invalidskoj mirovini
+1. Mirovine korisnika mirovine koje su povećane za 405,35%, prema Odluci o usklađivanju mirovina od 1. siječnja 1990 ( " Narod ne novine", broj 1/9 I ), povećavaju se od 1.studenoga 1990. za 9,528%.
+2. Mirovine korisnika mirovine, koji su pravo na mirovinu ostvarili 1. studenoga 1990. i1i poslije toga dana povećavaju se od dana ostvarivanja prava na mirovinu za 453,50%.
+3. Privremene mirovine određene prema propisima Zakona o privremenoj mirovini jugoslavenskih državljana koji su stekli pravo kod inozemnog nosioca socijalnog osiguranja. usklađuju se prema točki 1. ove odluke. Tako povećana mirovina ne možc biti veća od granične svote najnižegn mirovinskog primanja.
+4 Kao osnovica za povećanje mirovina prema toč.1. i 3. ove odluke uzima se mirovina koja je korisniku pripadala na dan 1. studenoga 1990, a kao osnovica za povećanje mirovina prema točki 2. ove odluke uzima se mirovina koja korisniku pripada na dan ostvarivanja prava na mirovinu.
+5. Usklađivanje mirovina prema ovoj odluci obavit će područne službe Republičkog fonda mirovinskog i invalidskoh osiguranja radnika Hrvatske po službenoj dužnosti, bez donošenja rješenja. 6. Najviša starosna i invalidska mirovina od 1. studenoga 1990. iznosi 15.480,30 dinara.
+7. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. studenoga 1990.
