@@ -1,0 +1,2 @@
+# Članak 1.
+U obrascu zahtjeva za ostvarivanje prava na neisplaćena potraživanja u slučaju stečaja poslodavca (obrazac RPS-01) Pravilnika o sadržaju obrasca zahtjeva radnika za ostvarivanje prava u slučaju stečaja poslodavca (»Narodne novine« broj 126/03) Točka V dopunjuje se na način da se iza riječi Isplatu dodaje tekst »potraživanja, Fond za razvoj i zapošljavanje će putem žiroračuna poslodavca u stečaju ili putem depozitnog žiroračuna Trgovačkog suda nadležnog za stečajni postupak nad poslodavcem«.
