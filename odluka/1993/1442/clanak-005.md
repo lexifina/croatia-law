@@ -1,0 +1,2 @@
+# Članak 5.
+Iza članka 10. dodaje se novi članak 10a., koji glasi: "Članak 10a. Poreznom obvezniku koji u radnji obavlja više privrednih djelatnosti, godišnji paušalni iznos poreze utvrđuje se razmjerno ostvarenoj dobiti za svaku pojedinu djelatnost, s time da ukupan godišnji paušalni iznos poreza ne bude dva puta veći od najvećega paušalnog iznosa poreza utvrđenog ovom Odlukom. Ako se obveznik koristi stalno ili povremeno još jednom radnjom, prodajnim mjestom ili osnovnim sredstvima, paušalni iznos poreza povećava se za 70%."

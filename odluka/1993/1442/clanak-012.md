@@ -1,0 +1,2 @@
+# Članak 12.
+Iza članka 26. dodaje se novi članak 26a., koji glasi: "Članak 26a. Rješenje o povećanju razreza poreza na dobit u godišnjem paušalnom iznosu donijet će općinska Uprava društvenih prihoda, u slučaju značajnijega rasta cijena, a prema podacima Međuopćinskoga zvoda za statistiku Općine Rijeka. Akontacija poreza na dobit u godišnjem paušalnom iznosu za 1993. godinu utvrđuje se prema rješenju o razrezu poreza iz posljednje godine, uvećanom za prosječni porast cijena na malo, za razdoblje rujan - studeni 1992. godine."
