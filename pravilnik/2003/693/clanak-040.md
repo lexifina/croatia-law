@@ -1,0 +1,4 @@
+# Članak 40.
+Zaposlenici i fizičke osobe koje su stručno zvanje stekle temeljem odgovarajućih propisa koji su se primjenjivali do stupanja na snagu ovog Pravilnika ili oni koji na dan stupanja na snagu ovog Pravilnika imaju višegodišnje iskustvo na obavljanju konzervatorsko-restoratorskih poslova mogu podnijeti zahtjev nadležnom povjerenstvu za prevođenje u odgovarajuće stručno zvanje propisano ovim Pravilnikom.
+Iskustvo iz stavka 1. ovog članka dokazuje se potvrdom nadležne Uprave Ministarstva kulture ili Hrvatskog restauratorskog zavoda.
+Postupak prevođenja iz stavka 1. ovoga članka pokreće se pisanim zahtjevom zaposlenika ili fizičke osobe nadležnom povjerenstvu. Zahtjev za prevođenje temeljem ovoga članka Pravilnika može se podnijeti u roku od 1 godine od dana stupanja na snagu ovoga Pravilnika.

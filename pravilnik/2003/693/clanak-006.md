@@ -1,0 +1,3 @@
+# Članak 6.
+Za stjecanje stručnog zvanja viši restaurator tehničar uvjeti su: odgovarajuća viša stručna sprema, dvije godine radnog iskustva u struci i položen stručni ispit za višeg restauratora tehničara ili srednja stručna sprema, pet godina radnog iskustva u struci nakon položenog stručnog ispita za restauratora tehničara i položen stručni ispit za višeg restauratora tehničara.
+Za stjecanje stručnog zvanja viši konzervator tehničar uvjeti su: odgovarajuća viša stručna sprema, dvije godine radnog iskustva u struci i položen stručni ispit za višeg konzervatora tehničara ili srednja stručna sprema, pet godina radnog iskustva u struci nakon položenog stručnog ispita za konzervatora tehničara i položen stručni ispit za višeg konzervatora tehničara.
