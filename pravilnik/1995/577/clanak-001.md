@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se obrazac iskaznice koje nose ribarski inspektori za morsko ribarstvo Ministarstva poljoprivrede i šumarstva Republike Hrvatske i obrazac iskaznice koju nose drugi državni službenici koje za obavljanje inspekcijskog nadzora iz nadležnosti morskog ribarstva ovlasti ministar poljoprivrede i šumarstva, vođenje evidencije o izdanim i vraćenim iskaznicama, način izdavanja i zamjena iskaznica.
