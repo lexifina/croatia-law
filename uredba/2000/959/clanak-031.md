@@ -1,0 +1,2 @@
+# Članak 31.
+Odsjek za programe i projekte od nacionalnog interesa bavi se velikim informatičkim projektima gdje osim Ministarstva sudjeluju i druga ministarstva, manjim pilot-projektima koji pronalaze nove primjene informatičkih tehnologija u znanosti, visokoj naobrazbi, gospodarstvu i u sličnim slučajevima, brine se za promociju informatičkih tehnologija u hrvatskim medijima, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.

@@ -1,0 +1,7 @@
+## UPRAVA ZA ZNANOST
+# Članak 11.
+Uprava za znanost obavlja upravne i stručne poslove vezane za: izradu planova znanstvenoistraživačke djelatnosti; izvršavanje zakona i drugih propisa u vezi s financiranjem znanstvenoistraživačke djelatnosti iz sredstava državnog proračuna Republike Hrvatske; stručne poslove za Nacionalno znanstveno vijeće; provedbu postupka natječaja za financiranje projekata; utvrđivanje programskih i financijskih kriterija za ocjenjivanje znanstvenoistraživačkih projekata i njihovih rezultata; utvrđivanje kriterija za odabir, program usavršavanja i financiranje znanstvenih novaka; utvrđivanje kriterija za financiranje znanstvenoistraživačke infrastrukture; vođenje upisnika znanstvenoistraživačkih i drugih pravnih osoba i znanstvenih udruga popisa znanstvenika, znanstvenih novaka i istraživača, te provedbu postupka upisa i brisanja; evidentiranje ostvarenja znanstvenih istraživanja; poduzimanje mjera za ostvarenje rezultata znanstvenih istraživanja u skladu s potrebama društvenog i gospodarskog razvoja; stručne i administrativne poslove za rad Odbora za dodjelu hrvatskih državnih nagrada za znanost; organiziranje i provođenje znanstvenoistraživačkog rada za potrebe obrane Republike Hrvatske, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
+U Upravi za znanost ustrojavaju se sljedeći odjeli:
+1. Odjel za kadrove i znanstvenu opremu,
+2. Odjel za Nacionalni znanstvenoistraživački program,
+3. Odjel za izdavačku djelatnost, skupove i udruge.

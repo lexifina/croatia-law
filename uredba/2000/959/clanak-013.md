@@ -1,0 +1,2 @@
+# Članak 13.
+Odsjek za kadrove i znanstvene ustanove i znanstvene udruge obavlja stručne i administrativne poslove u vezi sa: utvrđivanjem uvjeta za upis u upisnik znanstvenoistraživačkih i drugih pravnih osoba i znanstvenih udruga; svih poslova u vezi s odobravanjem, financiranjem i praćenjem usavršavanja znanstvenih novaka; izvršavanjem i praćenjem materijalnih obveza Ministarstva: plaćama djelatnika u javnim institutima, hladnim pogonom - materijalnim troškovima instituta te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.

@@ -1,0 +1,2 @@
+# Članak 29.
+Odsjek za izgradnju informacijske infrastrukture daje podršku u izgradnji akademske i istraživačke računalne mreže CARNet i lokalnih mreža unutar ustanova znanosti i visoke naobrazbe, koordinira nabavku računalne opreme za ove ustanove, opremanje njihovih računalnih učionica, nabavku zajedničkih licenci za komercijalne programske pakete, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.

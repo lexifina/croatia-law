@@ -1,0 +1,2 @@
+# Članak 65.
+Odsjek za neposredni inspekcijski nadzor obavlja neposredni inspekcijski nadzor izravnim uvidom u opće i pojedinačne akte, uvjete i način rada ustanova visoke naobrazbe, znanstvenoistraživačke djelatnosti i znanstvenih udruga, ustanova studentskog standarda i studentskog zbora i u drugim slučajevima određenim posebnim propisima; poduzima zakonom i drugim propisom predviđene mjere da se ustanovljeno stanje i poslovanje uskladi sa zakonom i drugim propisom, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.

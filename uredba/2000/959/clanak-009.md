@@ -1,0 +1,2 @@
+# Članak 9.
+Odsjek za opće poslove obavlja administrativne i pomoćne poslove Ministarstva koji se odnose na pisarnicu, poslove prijepisa i umnožavanja materijala, prijama i dostave pošte, raspoređivanja akata, otpreme pošte, arhiviranja i čuvanja arhivske građe, poslove službenog prijevoza, telefonista, održavanja zgrade i tehničkih pomagala, čišćenja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.

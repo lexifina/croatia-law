@@ -1,0 +1,6 @@
+## URED TAJNIKA
+# Članak 4.
+Ured tajnika Ministarstva je posebna ustrojstvena jedinica koja obavlja upravne, administrativne i stručne poslove za potrebe Ministarstva u vezi sa: neposrednim usklađivanjem rada upravnih organizacija u sastavu Ministarstva i drugih unutarnjih ustrojstvenih jedinica; izradom prijedloga plana rada Ministarstva, temeljem nacrta planova rada odjela, upravnih organizacija u sastavu Ministarstva i drugih unutarnjih ustrojstvenih jedinica; ostvarivanjem plana rada Ministarstva; izdavanjem uputa za rad na ostvarivanju plana rada Ministarstva; brigom o stručnom usavršavanju i osposobljavanju državnih službenika i namještenika i o stanju kadrova u Ministarstvu; neposrednim upravljanjem radom drugih unutarnjih ustrojstvenih jedinica koje nisu u sastavu upravnih organizacija u sastavu Ministarstva; brigom o urednom i pravilnom korištenju imovine i sredstava za rad; nadzorom rada službenika i namještenika Ministarstva, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
+Za obavljanje poslova u Uredu tajnika Ministarstva ustrojavaju se sljedeće ustrojstvene jedinice:
+1. Odjel za financijsko-planske i računovodstvene poslove,
+2. Odjel za opće i kadrovske poslove.

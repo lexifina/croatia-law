@@ -1,0 +1,2 @@
+# Članak 56.
+Odjel za kadrove i ustanove visoke naobrazbe obavlja upravne i stručne poslove u vezi sa: obračunom plaća službenika i namještenika u ustanovama visoke naobrazbe i studentskih centara; obračunom materijalnih troškova; praćenjem namjenskog i zakonitog trošenja sredstava; izvršavanjem državnog proračuna u ustanovama visoke naobrazbe, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
