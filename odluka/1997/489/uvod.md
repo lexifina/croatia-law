@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 40. stavka 1. Zakona o zdravstvenoj zaštiti ("Narodne novine" br. 1/97 - pročišćeni tekst) i članka 13. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" br. 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 29. sjednici održanoj 10. ožujka 1997. godine donijelo je

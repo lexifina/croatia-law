@@ -1,0 +1,2 @@
+# Članak 1.
+Zdravstvene ustanove, koje su uključene u mrežu zdravstvene djelatnosti na području Republike Hrvatske, mogu započeti igradnju novih i rekonstrukciju, odnosno adaptaciju postojećih objekata, te nabavu nove, odnosno zamjenu postojeće medicinske ili nemedicinske opreme, pod uvjetom da pribave odobrenje ministra zdravstva uz prethodnu suglasnost direktora Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod).

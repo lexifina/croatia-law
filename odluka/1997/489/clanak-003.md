@@ -1,0 +1,2 @@
+# Članak 3.
+Izgradnja i rekonstrukcija u zdravstvenim ustanovama, te nabava nove ili zamjena postojeće medicinske i nemedicinske opreme sukladno ovoj Odluci obavlja se na način i prema postupku utvrđenim Zakonom o građenju ("Narodne novine" br. 77/92, 82/92, 26/93 i 33/95) i Uredbom o postupku nabave robe i usluga i ustupanja radova ("Narodne novine" br. 25/96, 26/96, 32/96 i 47/96), te odredbama posebnih zakona i propisa donesenih osnovom zakona.

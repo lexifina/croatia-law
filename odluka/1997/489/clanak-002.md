@@ -1,0 +1,2 @@
+# Članak 2.
+Dokumentacija potrebna za ishođenje suglasnosti iz čl. 1. ove Odluke mora sadržavati projektnu zadaću s idejnim rješenjem, na osnovi kojeg mjerodavno tijelo graditeljstva izdaje potrebne potvrde i dozvole za izradu glavnog projekta, te popis medicinske i nemedicinske opreme uključujući planiranu investicijsku vrijednost i izvore osiguranja novčanih sredstava s priloženim odgovarajućim Odlukama.
