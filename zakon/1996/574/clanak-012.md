@@ -1,0 +1,10 @@
+# Članak 12.
+Članak 43. mijenja se i glasi:
+"Za znanstvenog suradnika može biti, na vrijeme od pet godina, izabrana osoba koja ima stupanj doktora znanosti i objavljene znanstvene radove u časopisima i publikacijama (knjige, monografije i sl.) s međunarodno priznatom recenzijom i s njima po vrsnoći izjednačenim časopisima i publikacijama.
+Za višeg znanstvenog suradnika može biti, na vrijeme od pet godina, izabrana osoba koja ima stupanj doktora znanosti i objavljene značajne znanstvene radove u časopisima i publikacijama (knjige, monografije i sl.) s međunarodno priznatom recenzijom i s njima po vrsnoći izjednačenim časopisima i publikacijama, koji su pridonijeli razvoju znanstvenog područja, nove radove nakon izbora u prethodno zvanje te najmanje tri godine znanstvenostraživačkog rada u znanstvenom zvanju.
+Za znanstvenog savjetnika može biti, na vrijeme od pet godina, izabrana osoba koja ima stupanj doktora znanosti, najmanje tri godine znanstvenoistraživačkog rada u znanstvenom zvanju višega znanstvenog suradnika i veći broj objavljenih znanstvenih radova u časopisima i publikacijama (knjige, monografije i sl.) s međunarodno priznatom recenzijom, i s njima po vrsnoći izjednačenim časopisima i publikacijama, koji su značajnije utjecali na razvoj znanosti te ako je uspješno sudjelovao u znanstvenim projektima i programima i ima nove radove nakon izbora u prethodno zvanje.
+Znanstvenik iz stavka 1., 2. i 3. ovoga članka, može biti ponovno izabran u isto zvanje, ako ima radove objavljene nakon posljednjeg izbora.
+U smislu stavka 1., 2. i 3. ovoga članka, časopisima i publikacijama (knjige, monografije i sl.) s međunarodno priznatom recenzijom, smatrat će se recenzirani časopisi i publikacije (knjige, monografije i sl.) uvedeni u međunarodne indekse.
+Ministar će na prijedlog znanstvenoga područnog vijeća utvrditi mjerila vrednovanja ili popis časopisa i publikacija (knjige, monografije i sl.) s međunarodno priznatom recenzijom, kao i s njima po vrsnoći izjednačenih časopisa i publikacija (knjige, monografije i sl.).
+Znanstvenik po drugi put izabran u zvanje znanstvenog savjetnika
+zadržava to zvanje kao trajno."
