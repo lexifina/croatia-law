@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda i suci Zdravko Bartovčak, dr. Velimir Belajec, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, odlučujući o ustavnosti Zakona, na sjednici održanoj 30. studenoga 1994. godine donio je ovu
