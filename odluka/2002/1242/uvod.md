@@ -1,0 +1,1 @@
+Na osnovi članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« br. 16/02 i 24/02), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 10. sjednici, održanoj 26.lipnja 2002. godine, donijelo je
