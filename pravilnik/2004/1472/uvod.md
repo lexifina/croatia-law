@@ -1,0 +1,1 @@
+Na temelju članka 57. Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (»Narodne novine« broj 173/03 i 186/03) ministar znanosti, obrazovanja i športa na prijedlog ravnatelja Državnog zavoda za intelektualno vlasništvo donosi

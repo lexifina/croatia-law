@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Ako je podneseni prijedlog prema članku 20. ovoga Pravilnika uredan, Zavod ga dostavlja svim ovlaštenim korisnicima i poziva ih da u roku 30 dana od primitka poziva dostave svoje očitovanje. Ako se barem jedan od ovlaštenih korisnika, u slučaju da ih je više, očituje po pozivu, Zavod može zakazati usmenu raspravu i pozvati podnositelja prijedloga za proglašavanje rješenja ništavim i ovlaštene korisnike.
+(2) Nakon provedenog postupka u smislu stavka 1. ovoga članka, Zavod može donijeti rješenje o proglašavanju ništavim rješenja o zaštiti oznake zemljopisnoga podrijetla ili oznake izvornosti, odnosno o priznavanju svojstva ovlaštenog korisnika ili rješenje o odbijanju prijedloga.
