@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o registraciji i opremi te uvjetima za upravljanje vozilima Ministarstva unutarnjih poslova Republike Hrvatske ("Narodne novine", broj 55/94 ) u članku 16. stavak 1. mijenja se i glasi: "Policijska registarska pločica po obliku, dimenziji i boji kao i na njoj otisnute registarske oznake po obliku i dimenziji istovjetni su civilnoj registarskoj pločici i na njoj otisnutim registarskim oznakama koji su propisani Pravilnikom o registraciji vozila na motorni pogon s tim što su registarske oznake otisnute plavom bojom."
