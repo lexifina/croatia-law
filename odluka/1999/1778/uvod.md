@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 7. Zakona o platnom prometu u zemlji (»Narodne novine« broj 27/93 i 23/99) i članka 67. stavka 1. točka 23. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 35/95 - pročišćeni tekst) Savjet Hrvatske narodne banke na sjednici održanoj 13. listopada 1999. godine, donio je
