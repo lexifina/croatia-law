@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 111. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine" broj 12/91 - pročiščeni tekst, 19/91, 53A/91 i 18/92) i odredbi članka 22. Statuta Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 7. sjednici održanoj 24. srpnja 1992. godine donijela je
