@@ -1,0 +1,1 @@
+Na osnovi članka 25. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92), Vlada Republike Hrvatske, na sjednici održanoj 23. listopada 1992. godine, donijela je
