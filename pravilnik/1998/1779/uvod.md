@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 3. Zakona o zdravstvenoj zaštiti ("Narodne novine", broj 1/97 - pročišćeni tekst), članka 8. stavka 2. i članka 41. stavka 1. Zakona o lijekovima i medicinskim proizvodima ("Narodne novine", broj 124/97) ministar zdravstva donosi
