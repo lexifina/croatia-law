@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o pošiljkama proizvoda životinjskoga podrijetla za koje ne postoje veterinarsko-zdravstvene smetnje pri uvozu u Republiku Hrvatsku i provozu preko teritorija Republike Hrvatske (»Narodne novine« br. 93/98 i 159/98) u članku 3. točki 5. riječi »hrane za pse i mačke i druge kućne ljubimce« zamjenjuju se riječima »hrane za kućne ljubimce izuzev pasa i mačaka, hrane za životinje u zoološkim vrtovima«.
