@@ -1,0 +1,1 @@
+Na temelju članka 67. točke 23. Zakona o Hrvatskoj narodnoj banci (pročišćeni tekst - »Narodne novine«, br. 35/95) u svezi članka 24. stavak 2. Zakona o bankama (»Narodne novine«, br. 161/98) i članka 4. stavak 2. Pravilnika o stručnom bankarskom ispitu (»Narodne novine«, br. 32/99), Savjet Hrvatske narodne banke na sjednici održanoj 19. svibnja 1999. godine donio je sljedeću
