@@ -1,0 +1,1 @@
+»Republika Hrvatska pridržava pravo ne primijeniti stavak 1. članak 9. Konvencije budući da je unutarnjim zakonodavstvom Republike Hrvatske predviđeno pravo nadležnih tijela (centara za socijalni rad) da odlučuju o odvajanju djeteta od roditelja bez prethodnog sudskog uvida.«
