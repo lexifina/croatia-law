@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001 i 199/2003), a u vezi sa člankom 159. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 121/2003), Vlada Republike Hrvatske je na sjednici održanoj 5. siječnja 2004. godine donijela
