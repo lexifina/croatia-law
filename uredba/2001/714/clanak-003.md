@@ -1,0 +1,2 @@
+# Članak 3.
+Unutarnje ustrojstvo tijela državne uprave utvrđuje se sukladno njihovom djelokrugu i nadležnosti utvrđenim propisima kojima se uređuje ustrojstvo i djelokrug ministarstava i državnih upravnih organizacija te drugim posebnim propisima. U okviru njihovog djelokruga i nadležnosti, unutarnje ustrojstvo tijela državne uprave utvrđuje se sukladno vrsti, srodnosti, opsegu i međusobnoj povezanosti poslova državne uprave koji se u njima obavljaju.
