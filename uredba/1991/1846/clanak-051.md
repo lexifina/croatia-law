@@ -1,0 +1,3 @@
+# Članak 51.
+Ako Narodna banka Hrvatske, na temelju izvršene kontrole ocijeni da nstavljanje poslovanja banke odnosno druge financijske organizacije može dalje pogoršati njezino financijsko stanje i ugroziti mogućnost njezinog financijskog oporavka, može donijeti rješenje kojim se obustavljaju svi oblici poslovanja banke odnosno druge financijske organizacije, osim isplate po štednim ulozima i tekućim i deviznim računima građana, u trajanju od najviše 15 dana, i određuje službenika Narodne banke Hrvatske koji će kontrolirati provođenje ovog rješenja.
+Rješenjem iz stavka 1. ovog članka utvrđuju se i slučajevi u kojima službenik Narodne banke Hrvatske može izdavati naloge odgovornoj osobi u banci odnosno drugoj financijskoj organizaciji.
