@@ -1,0 +1,1 @@
+Odluka o dodjeli koncesije za obavljanje javnih govornih usluga u nepokretnoj mreži iz članka 12. Zakona o telekomunikacijama i tržišnih telekomunikacijskih usluga u nepokretnoj mreži iz članka 25. Zakona o telekomunikacijama
