@@ -1,0 +1,7 @@
+I.
+Visina svote carine po mjernoj jedinici pri uvozu poljoprivrednih proizvoda iz ovih tarifnih oznaka Carinske tarife iz Dodatka A mijenja se i iznosi:
+Tarifni Svota carine broj Ca- Tarifna Naziv Mjerna u kunama rinske oznaka jedinica po mjernoj tarife jedinici 07.01 Krumpir, svjež ili rashlađen: 0701.90 - ostali kg 0.80 07.02 0702.00 Rajčica svježa ili rashlađena kg 1.40 07.06 Mrkva, bijela repa, ci- kla, celer korjenaš, ro- tkivca i slično jestivo korjenasto povrće, svje- ži ili rashlađeni: 0706.10 - mrkva, bijela repa kg 0.80 07.09 Ostalo povrće, svježe ili rashlađeno: 0709.60 - paprike iz roda Cap- sicum ili roda Pimenta: 0709.601 --- sorte Kapija kg 1.60 0709.602 --- sorte Rotund, tehnološki zrela kg 1.60 0709.609 --- ostala kg 1.60 Tarifni Svota carine broj Ca- Tarifna Naziv Mjerna u kunama rinske oznaka jedinica po mjernoj tarife jedinici 08.05 Agrumi, svježi ili suhi: 0805.20 - mandarine (uk-ljuču- jući tangirske kg 1.40 satsumas mandarine); hibridi agruma (klementina, vilking i sl.) 08.07 Di-nje, lubenice i papaje, svježe: 0807.11 -- lubenice kg 0,60 08.08 Jabuke, kruške i du-nje, svježe: 0808.10 - jabuke kg 1.10 0808.20 - kruške i du-nje kg 1.40
+II.
+Danom stupanja na snagu ove Odluke prestaje važiti sadržaj Dodatka A - Svota carine po mjernoj jedinici robe za poljoprivredne i prehrambene proizvode - unutar Carinske tarife ("Narodne novine", broj 49/96), za tarifne oznake navedene u ovoj Odluci.
+III.
+Ova Odluka stupa na snagu osmog dana od dana objave u "Narodnim novinama".
