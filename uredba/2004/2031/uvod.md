@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o zaštiti osobnih podataka (»Narodne novine«, broj 103/2003), uz prethodno mišljenje Agencije za zaštitu osobnih podataka, broj: 02/2004 od 23. lipnja 2004. godine, Vlada Republike Hrvatske je na sjednici održanoj 22. srpnja 2004. godine, donijela
