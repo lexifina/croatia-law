@@ -1,0 +1,1 @@
+Na temelju člana 6. stava 4. u vezi s članom 9. stavom 5, članom 23. i članom 61. Zakona o lovstvu ("Narodne novine", br. 25/76 - pročišćeni tekst), Vlada Republike Hrvatske na sjednici održanoj 12. travnja 1991, donijela je
