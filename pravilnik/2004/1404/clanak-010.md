@@ -1,0 +1,5 @@
+# Članak 10.
+Arhivi koji obavljaju restauraciju i konzervaciju gradiva trebaju imati uređen i opremljen laboratorij za restauraciju i konzervaciju, s vlastitim spremištem repromaterijala i priručnim spremištem ili ormarom za sigurnu pohranu gradiva koje je primljeno na obradu. Prostorije laboratorija ne mogu se koristiti i za druge namjene.
+Arhivi koji obavljaju zaštitno ili sigurnosno snimanje gradiva trebaju imati prostoriju koja je primjereno uređena i opremljena, ovisno o tehnologiji snimanja s vlastitim spremištem repromaterijala i priručnim spremištem ili ormarom za sigurnu pohranu gradiva koje je primljeno na obradu. Prostorije u kojima se odvija snimanje ne mogu se koristiti i za druge namjene.
+Oprema laboratorija za konzervaciju i restauraciju, odnosno laboratorija za snimanje gradiva treba biti takova da omogućuje neometano i redovito odvijanje cjelokupnog predviđenog tehnološkog procesa. Ne može se koristiti neispravna oprema ili oprema i postupci koji mogu oštetiti ili uništiti gradivo.
+3. Prostor za korištenje gradiva

@@ -1,0 +1,5 @@
+# Članak 7.
+Spremišta se trebaju održavati čistim, urednim i prohodnim. U njima se ne smije gradivo držati na podu, stolovima ili drugim mjestima koja nisu namijenjena za njegovo odlaganje. Gradivo se ne smije držati izvan kutija ili drugih tehničkih jedinica u koje pripada ili na mjestima gdje je otežan pristup i rukovanje gradivom.
+U spremištu ne smiju bez nadzora boraviti ili njima prolaziti osobe koje nisu ovlaštene za rukovanje gradivom u njemu. U spremištima se ne smiju obavljati drugi poslovi osim odlaganja, razmještanja i označavanja tehničkih jedinica gradiva, nadzora i reguliranja uvjeta u spremištu, čišćenja i održavanja spremišta i opreme u njemu.
+Pri izvođenju radova u spremištu ili njihovoj blizini, čišćenju i održavanju spremišta i opreme u njemu, ne smiju se koristiti sredstva i postupci koji mogu biti štetni za arhivsko gradivo (upotreba otvorenog plamena, korištenje agresivnih kemijskih sredstava i zapaljivih tvari, stvaranje prašine i vibracija, pretjerano vlaženje), ako gradivo nije prethodno izmješteno na mjesto sigurno od posljedica primjene tih sredstava i postupaka.
+2. Radni prostor i oprema

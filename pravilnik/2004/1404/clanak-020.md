@@ -1,0 +1,5 @@
+# Članak 20.
+Arhivi koji samostalno obavljaju zaštitno snimanje gradiva trebaju imati barem dva stručna djelatnika za obavljanje odgovarajućih poslova. Arhivi koji ove poslove obavljaju u suradnji s drugom ustanovom ili organizacijom trebaju imati barem jednog odgovarajuće osposobljenog stručnog djelatnika.
+Arhivi koji samostalno obavljaju konzerviranje i restauriranje gradiva trebaju imati barem dva stručna djelatnika za obavljanje odgovarajućih poslova, od kojih jednoga visoke stručne spreme. Arhivi koji ove poslove obavljaju u suradnji s drugom ustanovom ili organizacijom trebaju imati barem jednog odgovarajuće osposobljenog stručnog djelatnika.
+Arhivi koji imaju knjigovežnicu ili radionicu za izradu zaštitne ambalaže trebaju imati barem jednog djelatnika osposobljenog za ove poslove.
+Arhivi koji u okviru vlastitog informatičkog sustava održavaju određene informacijske usluge i sadržaje trebaju imati barem jednog stručnog djelatnika, odnosno djelatnika informatičke struke, osposobljenog za ove poslove.

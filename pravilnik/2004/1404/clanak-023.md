@@ -1,0 +1,3 @@
+# Članak 23.
+Prilikom promjene nadležnosti ili djelatnosti arhiv je dužan izraditi studiju o utjecaju koji ta promjena ima na uvjete i sredstva za rad arhiva.
+U studiji iz stavka 1. ovoga članka obvezno se navodi: osnova i razlog za promjenu nadležnosti, odnosno djelatnosti, način i rokovi preuzimanja poslova i razgraničenja djelatnosti s drugim arhivima ili ustanovama, vrsta i količina sredstava i opreme te vrsta i broj stručnih i ostalih djelatnika koje je potrebno osigurati za obavljanje pojedinih poslova, izvor sredstava i procjena ukupnih troškova koji proizlaze iz promjene nadležnosti, odnosno djelatnosti.
