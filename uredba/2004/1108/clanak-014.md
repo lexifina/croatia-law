@@ -1,0 +1,5 @@
+# Članak 14.
+Županije, Grad Zagreb, gradovi i općine su dužni tromjesečno izvješćivati resorno ministarstvo o utrošenim sredstvima krajnjih korisnika (ustanova) u skladu s odredbama Pravilnika o financijskom izvještavanju u proračunskom računovodstvu.
+Nadležno ministarstvo dužno je izraditi konsolidirana izvješća o korištenju sredstava doznačenih za financiranje decentraliziranih funkcija te ih dostaviti Ministarstvu financija u roku i na način propisan Pravilnikom o financijskom izvještavanju u proračunskom računovodstvu.
+Nadležno ministarstvo dužno je pratiti izvršenje odluke o minimalnim financijskim standardima i po potrebi, a najkasnije do 30. rujna 2004. godine Vladi predložiti njene izmjene i dopune.
+Ako korisnik dodatnih sredstava izravnanja iz stavka 1. ovoga članka ne dostavi izvješće resornom ministarstvu iz stavka 1. na propisani način i u roku iz stavka 2., Ministarstvo financija će privremeno obustaviti doznaku tekućih pomoći iz dodatnih sredstava izravnanja iz Državnog proračuna Republike Hrvatske.

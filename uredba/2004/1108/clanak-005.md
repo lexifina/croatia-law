@@ -1,0 +1,4 @@
+# Članak 5.
+Korisnici pomoći izravnanja ostvaruju pravo na sredstva pomoći za centre za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva te za domove za starije i nemoćne osobe u visini koja se utvrđuje temeljem osnovice iz stavaka 2. i 3. ovog članka.
+Osnovica za utvrđivanje prenesene obveze županije i Grada Zagreba za 2004. godinu proizlazi iz Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2004. godini.
+Osnovica za utvrđivanje prenesene obveze županije i Grada Zagreba za 2004. godinu proizlazi iz Odluke o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2004. godini.
