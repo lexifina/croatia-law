@@ -1,0 +1,2 @@
+# Članak 4.
+Uz kaznu za privredni prijestup iz članka 3. ove uredbe izreći će se i mjera oduzimanja imovinske koristi. Imovinsku korist iz stavka 1. ovog članka čini dobit ostvarena prodajom proizvoda odnosno obavljanjem usluga po cijenama na koje Vlada Republike Hrvatske nije dala suglasnost, a koje su više od cijena formiranih u skladu s propisima. Oduzeta imovinska korist prihod je Proračuna Republike Hrvatske.

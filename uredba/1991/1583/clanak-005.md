@@ -1,0 +1,2 @@
+# Članak 5.
+Stupanjem na snagu ove uredbe neće se primjenjivati u cijelosti članak 3, 7, 8, 9. i 10, te članak 12, 19. i 21. u dijelu koji se odnose na proizvode i usluge iz članka 1. ove uredbe, Zakona o sistemu društvene kontrole cijena ("Službeni list", broj 84/89) koji je zakon preuzet kao republički, Zakonom o preuzimanju saveznih zakona iz područja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", broj 53/9t).
