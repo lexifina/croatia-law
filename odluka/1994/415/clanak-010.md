@@ -1,0 +1,2 @@
+# Članak 10.
+Danom stupanja na snagu ove Odluke, Državni protokol preuzima sredstva, prava i obveze Ureda za opće poslove i protokol Vlade Republike Hrvatske, koja su vezana uz djelokrug Državnog protokola, a preuzima i djelatnike tog Ureda na protokolarnim poslovima. Popis imovine iz stavka 1. ovog članka izvršit će zajednička komisija koju će osnovati zamjenik predstojnika Ureda predsjednika Republike i predstojnik Ureda za opće poslove i protokol Vlade Republike Hrvatske.

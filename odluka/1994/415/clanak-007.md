@@ -1,0 +1,2 @@
+# Članak 7.
+Ustrojstvo i djelokrug unutarnjih ustrojstvenih jedinica Državnog protokola, način rada i druga pitanja od značenja za rad Državnog protokola koja nisu uređena ovom odlukom, potanje se uređuju Pravilnikom o unutarnjem ustrojstvu i radu Državnog protokola, kojega donosi ravnatelj Državnog protokola uz suglasnost predstojnika Ureda predsjednika Republike. Ravnatelj Državnog protokola donijet će Pravilnik iz prednjeg stavka u roku 30 dana od dana stupanja na snagu ove odluke.

@@ -1,0 +1,2 @@
+# Članak 4.
+Ravnatelj Državnog protokola ima zamjenika. Zamjenika ravnatelja Državnog protokola imenuje i razrješava od dužnosti predstojnik Ureda predsjednika Republike na prijedlog ravnatelja. Zamjenik ravnatelja za svoj rad odgovara predstojniku Ureda a neposredno ravnatelju. Zamjenik zamjenjuje ravnatelja u okviru njegova djelokruga u poslovima koje mu povjeri, a u cijelosti u slučaju njegove izočnosti ili spriječenosti.
