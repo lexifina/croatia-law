@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. pod i) u svezi sa člankom 62. stavkom 4. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« br. 36/2001.) i članka 8. stavka 2. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata (»Narodne novine« br. 91A/1993., 36/1998., 32/2001.), guverner Hrvatske narodne banke donosi
