@@ -1,0 +1,3 @@
+## o utvrĐivanju mreŽe posebnih deŽurstava u domovima zdravlja za razdoblje od 1. srpnja do 31. prosinca 2002. godine
+# Članak 1.
+Poradi osiguranja zdravstvenog standarda osiguranim osobama Hrvatskog zavoda za zdravstveno osiguranje glede dostupnosti korištenja prava na zdravstvenu zaštitu obuhvaćenu obveznim zdravstvenim osiguranjem, iskazana je potreba za utvrđivanjem mreže posebnih dežurstava u domovima zdravlja koji ne ugovaraju djelatnost hitne medicinske pomoći u obliku dežurstva, pripravnosti, odnosno jedinice ili stanice hitne medicinske pomoći za djelatnost opće medicine i zdravstvene zaštite predškolske djece.
