@@ -1,0 +1,1 @@
+Na temelju članka 25. Statuta Hrvatske obrtničke komore ("Narodne novine", br. 56/94. i 2/95.), Skupština Hrvatske obrtničke komore na 7. redovnoj sjednici održanoj 12. prosinca 1997. godine, donijela je
