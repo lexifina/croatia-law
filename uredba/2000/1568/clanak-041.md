@@ -1,0 +1,2 @@
+# Članak 41.
+Odjel analiza i stručnog osposobljavanja obavlja statističku i ekonomsku analizu rezultata statističkih istraživanja, kontinuirano valorizira reprezentativnost primjenjenih metoda i daje ocjene kvalitete dobivenih podataka te predlaže mjere za njihovo poboljšanje. Obavlja i makroekonomske analize gospodarskih kretanja. Predlaže, prati program stručnog usavršavanja djelatnika prema potrebama statistike; statističko, ekonomsko, informatičko i ostalo stručno usavršavanje.

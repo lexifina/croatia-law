@@ -1,0 +1,5 @@
+# Članak 59.
+Odjel financijsko planskih i računovodstvenih poslova vodi financijsko i materijalno knjigovodstvo prema pozitivno-pravnim propisima, izrađuje temeljne financijske i periodične statističke izvještaje, organizira i vodi godišnji popis (inventuru), brine o naplati kunskih i deviznih izlaznih računa u svezi s poslovima vlastite djelatnosti, vodi devizni kontrolnik, sastavlja prijedlog plana proračuna Zavoda i plana vlastite djelatnosti, priprema proračun kroz sustav državne riznice, izrađuje financijske planove, prati izvršenje financijskog plana proračuna i vlastite djelatnosti, kontrolira racionalno i svrsishodno korištenje sredstava osiguranih u proračunu, kontrolira i likvidira knjigovodstvene isprave, provodi kunska i devizna plaćanja, obračunava plaće, naknade i ostala primanja, vodi glavnu kunsku i deviznu blagajnu, prati i primjenjuje zakonske i druge propise, te obavlja i ostale financijske i računovodstvene poslove.
+Za obavljanje dijela poslova iz stavka 1. ovog članka ustrojavaju se:
+10.2.1. Odsjek financijskog knjigovodstva i plana,
+10.2.2. Odsjek likvidature i obračuna.

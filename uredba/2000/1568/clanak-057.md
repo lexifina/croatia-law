@@ -1,0 +1,7 @@
+## B.10.Uprava pravnih, financijsko-računovodstvenih, općih poslova i nabave
+# Članak 57.
+Uprava pravnih, financijsko-računovodstvenih, općih poslova i nabave obavlja upravne, pravne i druge stručne poslove iz djelokruga Zavoda, a koji se odnose na pripremu i izradu nacrta zakonskih prijedloga, drugih propisa, pravilnika, naredba, naputaka i ostalih provedbenih akata, daje stručna mišljenja glede primjene i provedbe zakona i drugih propisa, obavlja poslove kadrovske politike, organizira i koordinira rad u obavljanju računovodstvenih poslova sukladno propisima, sastavlja glavne financijske i statističke periodične izvještaje, izrađuje proračun kroz sustav državne riznice, sastavlja bruto bilance i preglede izvršenja financijskog plana, brine o racionalnom i svrsishodnom korištenju sredstava osiguranih u državnom proračunu, vodi financijsko knjigovodstvo Zavoda prema pozitivno-pravnim propisima, obavlja i druge poslove u svezi s financiranjem i računovodstvenim poslovima, obavlja poslove centralizirane nabave roba, usluga i radova, poslove ekonomata, održavanje, poslove sigurnosti, zaštite, poslove centralizirane pisarnice, pismohrane, distribucije, te ostale zajedničke poslove.
+U Upravi pravnih, financijsko-računovodstvenih, općih poslova i nabave ustrojavaju se:
+10.1. Odjel pravnih i kadrovskih poslova,
+10.2. Odjel financijsko planskih i računovodstvenih poslova,
+10.3. Odjel općih poslova i nabave.

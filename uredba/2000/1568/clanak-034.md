@@ -1,0 +1,2 @@
+# Članak 34.
+Odjel kapitalnih računa, zaliha i bilanca obavlja sljedeće stručne poslove: izradu metodologije za statistička istraživanja o investicijama, izradu metodologije i obračun kapitalnih računa, računa zaliha i bilanca, izradu metodologije i obračun bruto investicija godišnje i tromjesečno, u tekućim i stalnim cijenama na temelju informacija koje pruža cjelokupni statistički sustav Hrvatske, te metodološka suradnja na izradi programa statističkih istraživanja kojim se prikupljaju podaci za izradu nacionalnih računa.

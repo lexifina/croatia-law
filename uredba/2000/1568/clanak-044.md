@@ -1,0 +1,2 @@
+# Članak 44.
+Odjel pismohrane i publikacija obavlja sljedeće poslove: odlaganje, sređivanje, izlučivanje i osiguravanje statističke pismohrane, pismohrane pravnih poslova, računovodstva i tekućeg poslovanja, osiguravanje i vođenje arhivskih knjiga i popisa građe, predavanje građe Državnom arhivu, skladištenje, dopremu i distribuciju publikacija u Zavodu, te pripremu za distribuciju vanjskim korisnicima prema adresaru korisnika, također surađuje i pruža stručnu pomoć pismohranama županijskih ureda za statistiku, obavlja fotokopiranje za potrebe Zavoda, te odvoz starog papira.

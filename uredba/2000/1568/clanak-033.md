@@ -1,0 +1,2 @@
+# Članak 33.
+Odjel bruto domaćeg proizvoda po potrošnoj metodi obavlja sljedeće stručne poslove: izradu metodologije i izračunavanje bruto domaćeg proizvoda godišnje i tromjesečno po potrošnoj metodi u tekućim i stalnim cijenama, izradu metodologije i izračun bruto nacionalnog dohotka, na temelju informacija koje pruža cjelokupni statistički sustav Hrvatske, te metodološka suradnja na izradi programa statističkih istraživanja kojim se prikupljaju podaci za izradu nacionalnih računa.

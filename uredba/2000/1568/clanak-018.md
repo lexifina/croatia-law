@@ -1,0 +1,2 @@
+# Članak 18.
+Odjel statistike poslovnih i ostalih usluga obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija i klasifikacija, provedbu i obradu statističkih istraživanja, publiciranje i disiminacija statističkih podataka i pokazatelja o poslovanju s nekretninama, iznajmljivanju, i poslovnim uslugama te ostalim uslužnim djelatnostima. Rezultati kratkoročnih i strukturalnih istraživanja osiguravaju podatke o prometu, zaposlenicima i drugim relevantnim pokazateljima iz područja usluga.

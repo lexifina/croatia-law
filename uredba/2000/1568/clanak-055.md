@@ -1,0 +1,2 @@
+# Članak 55.
+Odjel statističkog poslovnog registra obavlja sljedeće poslove: predlaganje i izradu propisa iz područja adminstrativnih registara, statističkog poslovnog registra na temelju europskih i svjetskih statističkih standarda, izradu metodoloških osnova za ustrojavanje, vođenje i ažuriranje statističkog poslovnog registra, te upotrebu i publiciranje podataka o jedinicama statističkog poslovnog registra, provođenje statističkih istraživanja i druge poslove potrebne za ustrojavanje, vođenje i ažuriranje statističkog poslovnog registra.

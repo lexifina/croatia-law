@@ -1,0 +1,2 @@
+# Članak 30.
+Odjel financijskih statistika obavlja sljedeće stručne poslove: sudjelovanje u izradi metodologija i provođenje dijela statističkih istraživanja kojim se prikupljaju potrebni podaci za izradu bruto domaćeg proizvoda i nacionalnih računa (elementi za obračun vrijednosti proizvodnje, podaci o investicijama i dr.) za poduzetnike, obrtnike, neprofitne organizacije, banke i financijske institucije, osiguravajuća društva, izvanproračunske fondove, proračune i proračunske korisnike.

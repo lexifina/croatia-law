@@ -1,0 +1,2 @@
+# Članak 60.
+Odsjek financijskog knjigovodstva i plana vodi glavne financijske knjige (Glavna knjiga I. Glavna knjiga II.), pomoćne financijsko računovodstvene knjige, vodi materijalno knjigovodstvo, godišnji popis, brine o naplati potraživanja od kupaca, sastavlja prijedlog plana proračuna i vlastite djelatnosti, izrađuje financijske planove, kontrolira trošenje proračunskih sredstava, izrađuje financijske i statističke izvještaje, obavlja poslove u sustavu državne riznice.

@@ -1,0 +1,2 @@
+# Članak 45.
+Odjel uredništva obavlja sljedeće poslove: uređivanje i objavljivanje publikacija Zavoda prema Programu publiciranja, uređivanje obrazaca za provođenje statističkih istraživanja prema Programu statističkih istraživanja, jezično uređivanje svih materijala Zavoda, prevođenje publikacija i ostalih materijala za potrebe Zavoda, praćenje i pružanje stručne pomoći u razvoju publicističke djelatnosti županijskim uredima za statistiku, praćenje publicističke djelatnosti u stranim zemljama, te vođenje evidencije o rokovima izlaska publikacija.

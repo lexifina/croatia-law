@@ -1,0 +1,2 @@
+# Članak 43.
+Odjel statističkih informacija i dokumentacija obavlja sljedeće stručne i informativne poslove: nabavu, obradu, posudbu, arhiviranje fonda specijalne knjižnice, rješavanje zahtjeva domaćih i stranih korisnika, rješavanje zahtjeva elektroničkom poštom, pisanje ponuda s cijenom usluga, rješavanje upitnika u suradnji sa stručnim odjelima DZS-a, prodaju publikacija, izradu adresara pretplatnika.

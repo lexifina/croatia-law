@@ -1,0 +1,2 @@
+# Članak 56.
+Odjel registra prostornih jedinica obavlja sljedeće poslove: izradu metodologije za vođenje registra prostornih jedinica, ažurno vođenje podataka o županijama, gradovima, općinama, naseljima, statističkim i popisnim krugovima te drugim jedinicama propisanim metodologijom; pripremanje i sređivanje tehničke dokumentacije kao prostorne podloge na izabranom području; u sklopu priprema za Popis pučanstva izrada i ažuriranje potrebnih datoteka prostornih jedinica; obavještavanje odjela Zavoda o nastalim promjenama u svezi s prostorniim jedinicama.

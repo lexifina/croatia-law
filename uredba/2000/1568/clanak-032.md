@@ -1,0 +1,2 @@
+# Članak 32.
+Odjel bruto domaćeg proizvoda po proizvodnoj i dohodovnoj metodi obavlja sljedeće stručne poslove: izradu metodologije i izračunavanje osnovnog makroekonomskog agregata bruto domaćeg proizvoda godišnje i tromjesečno, po proizvodnoj i dohodovnoj metodi u tekućim i stalnim cijenama na temelju statističkih istraživanja koja pruža cjelokupni statistički sustav Hrvatske, te metodološka suradnja na izradi programa statističkih istraživanja kojim se prikupljaju podaci za izradu nacionalnih računa.

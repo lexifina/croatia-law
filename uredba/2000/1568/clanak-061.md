@@ -1,0 +1,2 @@
+# Članak 61.
+Odsjek likvidature i obračuna obavlja financijsko računovodstvenu kontrolu knjigovodstvenih dokumenata, likvidira knjigovodstvene isprave, provodi plaćanja u zemlji i inozemstvu, vodi kunsko i devizno blagajničko poslovanje, obračunava plaće, bolovanja, naknade troškova i ostala primanja za djelatnike, te obavlja poslove likvidature i obračuna vanjskim suradnicima u svezi s izvršenjem Programa statističkih istraživanja.

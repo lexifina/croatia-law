@@ -1,0 +1,3 @@
+# Članak 16.
+Odjel statistike ugostiteljstva i turizma obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija i klasifikacija, provedbu i obradu statističkih istraživanja, publiciranje i diseminacija statističkih podataka i pokazatelja o hotelima, restoranima, lječilištima i turističkim agencijama.
+Rezultati kratkoročnih i strukturalnih istraživanja osiguravaju podatke o broju turista, noćenjima, izletnicima, smještajnim objektima, prometu, zaposlenicima u ugostiteljstvu, potom pokazatelje fizičkog obujma prometa u ugostiteljstvu i desezoniranim indeksima, ankete o domaćim i stranim turistima u smještajnim kapacitetima i periodične popise u ugostiteljstvu te osiguravaju podatke o turističkoj potrošnji i kapacitetima u ukupnoj turističkoj ponudi.

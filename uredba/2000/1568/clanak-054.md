@@ -1,0 +1,2 @@
+# Članak 54.
+Odjel adminstrativnog poslovnog registra obavlja sljedeće poslove: vođenje središnje baze podataka o poslovnim subjektima; razvrstavanje poslovnih subjekata i njihovih djelova temeljem prijave i prateće dokumentacije u pretežitu-glavnu djelatnost prema Nacionalnoj klasifikaciji djelatnosti, upisivanje podataka značajnih za statistička istraživanja kao i praćenje promjena; izdavanje Obavijesti o razvrstavanju; ustrojavanje Registra obrta i drugih fizičkih osoba koje obavljaju djelatnost u skladu s propisima preuzimanjem podataka od nadležnih tijela.
