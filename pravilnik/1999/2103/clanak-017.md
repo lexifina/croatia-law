@@ -1,0 +1,3 @@
+# Članak 17.
+O svakom pritvoreniku prilikom prijama u zatvor unose se podaci u maticu pritvorenika.
+U maticu pritvorenika upisuju se: matični broj, datum i sat zaprimanja u zatvor; prezime, očevo i rođeno ime; dan, mjesec i godina rođenja te JMBG; mjesto, općina i država rođenja; prebivalište ili boravište; narodnost i državljanstvo; zanimanje; podatak o zdravstvenom osiguranju i osnov; kazneno djelo (naziv i članak); naziv suda koji je odredio ili produžio pritvor (broj i datum rješenja); podaci o podignutoj optužnici; datum i sat otpuštanja iz zatvora; naziv suda koji je odobrio otpuštanje iz pritvora (broj i datum rješenja); datum upućivanja u drugo kazneno tijelo.
