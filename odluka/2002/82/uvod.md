@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93., 69/97., 33/00., 73/00., 127/00. i 59/01.) i članka 15. Statuta Općine Sv. Petar u Šumi (»Službene novine Grada Pazina« broj 23/01) Općinsko vijeće Općine Sv. Petar u Šumi na svojoj sjednici održanoj 28. prosinca 2001. godine, donijelo je
