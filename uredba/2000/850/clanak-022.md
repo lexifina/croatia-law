@@ -1,0 +1,2 @@
+# Članak 22.
+5.1.1. Odsjek za ulaganje i unapređenje poduzetništva pruža informacije o mogućnostima ulaganja u postojeća poduzeća ili u nove projekte u turizmu; potiče i prati razvoj pojedinih poduzetničkih projekata; prati i sudjeluje u uvođenju novih tehnologija i poduzetničkih znanja, te programa unapređenja poslovanja gospodarskih subjekata; izrađuje baze podataka o pojedinačnim poduzetničkim projektima iz svoga djelokruga; potiče i usmjerava razvoj maloga poduzetništva u turizmu; sudjeluje u pripremi sastanaka, posjeta, izrađuje analize i izvještaje iz svoga djelokruga.

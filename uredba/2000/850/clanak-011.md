@@ -1,0 +1,7 @@
+## 3. UPRAVA ZA NORMATIVNE I UPRAVNO-PRAVNE POSLOVE
+# Članak 11.
+Uprava za normativne i upravno-pravne poslove obavlja upravne i pravne poslove iz djelokruga Ministarstva, a poglavito: priprema i izrađuje koncepcijska rješenja za izradu zakona i drugih propisa; priprema nacrte prijedloga zakona i prijedloga drugih propisa; izrađuje nacrte, upute, pravna stajališta i mišljenja u svezi s provedbom zakona i drugih propisa; prati primjenu i izvršavanje zakona i drugih propisa iz područja ugostiteljstva i turizma; vodi upravni postupak, te provodi upravni nadzor u područjima iz svoga djelokruga; ostvaruje suradnju s tijelima jedinica lokalne samouprave i uprave glede primjene zakona i drugih propisa; daje objašnjenja za primjenu zakona i drugih propisa; izrađuje uvjerenja, potvrde i druge akte iz djelokruga Ministarstva; prati funkcioniranje sustava turističkih zajednica; obavlja nadzor nad radom turističkih zajednica; daje stručna mišljenja i objašnjenja u svezi s primjenom i provedbom zakona i podzakonskih akata vezanih za rad turističkih zajednica; obavlja poslove vezane za upis turističkih zajednica u Upisnik turističkih zajednica; izrađuje propisane suglasnosti turističkim zajednicama; obavlja poslove u skladu s naputcima ministra i druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Uprave, ustrojavaju se:
+3.1. Odjel za normativne poslove,
+3.2. Odjel za upravno-pravne poslove,
+3.3. Odjel za sustav turističkih zajednica.

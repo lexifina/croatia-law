@@ -1,0 +1,2 @@
+# Članak 9.
+2.1.3. Odsjek za internu reviziju prati pravilnosti u namjenskom trošenju sredstava proračuna, odobrenih Ministarstvu; kontrolira usklađenost nabave robe i usluga sukladno sa zakonskim propisima; surađuje u izradi financijskih i drugih izvješća za potrebe Državnog ureda za reviziju; kontrolira tehničku i financijsku obradu zahtjeva za dodjelu potpora i subvencija iz ovlasti Ministarstva; obavlja i druge poslove iz svoje nadležnosti.
