@@ -1,0 +1,4 @@
+# Članak 109.
+(1) Novoustrojena jedinica lokalne i područne (regionalne) samouprave ne smije se zaduživati, davati suglasnosti i jamstva za zaduživanje dok nisu uređeni međusobni imovinskopravni odnosi prema Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi.
+(2) Nakon uređenja međusobnih imovinskopravnih odnosa smije se zaduživati i davati jamstva samo jedinica lokalne i područne (regionalne) samouprave koja na dan 31. prosinca godine kada je prestala djelovati prijašnja jedinica lokalne i područne (regionalne) samouprave nije prekoračila granicu za zaduživanje i davanje jamstava prema odredbama članka 106. ovoga Zakona.
+(3) Ako se za novoustrojenu jedinicu lokalne i područne (regionalne) samouprave ne mogu ustanoviti ostvareni prihodi u godini koja prethodi godini zaduživanja, kao mjerilo koriste se procijenjeni prihodi u tekućoj godini.

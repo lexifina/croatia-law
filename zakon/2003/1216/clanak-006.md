@@ -1,0 +1,5 @@
+## Predmet zakona/odluka kojima se ureĐuje izvrŠavanje proraČuna za proraČunsku godinu
+# Članak 6.
+(1) Uz državni proračun donosi se zakon o izvršavanju državnog proračuna, a uz proračun jedinica lokalne i područne (regionalne) samouprave donosi se odluka o izvršavanju proračuna.
+(2) Propisima iz stavka 1. ovoga članka uređuje se struktura prihoda i primitaka te rashoda i izdataka proračuna i njegovo izvršavanje, opseg zaduživanja i jamstava države, odnosno jedinice lokalne i područne (regionalne) samouprave, upravljanje javnim dugom te financijskom i nefinancijskom imovinom, prava i obveze korisnika proračunskih sredstava, pojedine ovlasti Vlade i predsjednika Vlade, odnosno poglavarstva i predsjednika poglavarstva, Ministarstva financija i ministra financija u izvršavanju proračuna za pojedinu godinu, kazne za neispunjavanje obveza te druga pitanja u izvršavanju proračuna.
+(3) Propisi iz stavka 1. ovoga članka nakon donošenja objavljuju se u »Narodnim novinama«, odnosno u službenom glasilu jedinica lokalne i područne (regionalne) samouprave.

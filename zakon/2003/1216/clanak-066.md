@@ -1,0 +1,4 @@
+## Obveze pravnih osoba u vezi s izvjeŠtavanjem i revidiranjem raČunovodstvenih iskaza
+# Članak 66.
+(1) Pravne osobe u kojima Republika Hrvatska, odnosno jedinica lokalne i područne (regionalne) samouprave ima najmanje 25 posto udjela u kapitalu moraju najkasnije u roku od 9 mjeseci nakon isteka poslovne godine, ali najmanje 30 dana prije objave poziva za sjednicu skupštine, dostaviti Vladi, odnosno poglavarstvu dnevni red sjednice skupštine te podnijeti sve revizijske izvještaje i izvještaje nadzornih tijela za proteklu poslovnu godinu, ako ih ne sadrži dnevni red sjednice skupštine.
+(2) Vlada, odnosno poglavarstvo može podnijeti Saboru zahtjev za izvanrednu reviziju poslovanja pravnih osoba koje potpadaju pod nadležnost Državnog ureda za reviziju, a u kojima Republika Hrvatska, odnosno jedinica lokalne i područne (regionalne) samouprave ima najmanje 25 posto udjela u kapitalu.
