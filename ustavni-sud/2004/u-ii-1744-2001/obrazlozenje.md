@@ -1,0 +1,22 @@
+Obrazloženje
+1. Hrvatska kršćanska demokratska unija - HKDU, zastupana po predsjedniku dr. Anti Kovačeviću, podnijela je Ustavnom sudu prijedlog, pogrešno nazvan zahtjev, za pokretanje postupka za ocjenu ustavnosti Odluke o načinu rada Hrvatskoga sabora na sjednici bez nazočnosti javnosti (»Narodne novine«, broj 66/01, u daljnjem tekstu: Odluka). Pozivajući se na članak 83. Ustava, prema kojemu su sjednice Hrvatskoga sabora javne, predlagatelj smatra da osporena odluka »neposredno krši odredbu Ustava Republike Hrvatske i u suprotnosti je sa smislom i duhom parlamentarne demokracije«.
+2. Osporena Odluka glasi:
+»I. Hrvatski sabor može odlučiti da se sjednica ili dio sjednice održi bez nazočnosti javnosti.
+II. Održavanje sjednice ili dijela sjednice Hrvatskoga sabora bez nazočnosti javnosti može zatražiti Vlada Republike Hrvatske ili većina zastupnika.
+III. Na sjednici iz točke 1. ove Odluke Hrvatski sabor će odlučiti o načinu obavještavanja javnosti o odlukama donesenim na toj sjednici.
+IV. Ova Odluka postaje sastavni dio Poslovnika Hrvatskoga sabora.
+V. Ova odluka stupa na snagu danom donošenja.«
+3. Sukladno odredbama članka 42. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 49/02 - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon), prijedlog je dostavljen na odgovor Hrvatskom saboru, međutim, na prijedlog nije odgovoreno.
+Prijedlog je osnovan.
+4. Prema odredbi članka 5. stavka 1. Ustava, u Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom, a ostali propisi i s Ustavom i sa zakonom.
+Odredbom članka 128. točke 1. i 2. Ustava propisano je da Ustavni sud Republike Hrvatske odlučuje o suglasnosti zakona s Ustavom te suglasnosti drugih propisa s Ustavom i zakonom.
+Predmet ustavnosudske ocjene, u konkretnom slučaju, je propis koji mora biti u postupovnom i materijalnopravnom smislu suglasan s Ustavom i zakonom, odnosno poslovnikom Hrvatskoga sabora, koji, s obzirom na Ustavom propisani način donošenja i predmet uređenja, ima pravnu snagu zakona.
+5. Osporenu Odluku donio je Hrvatski sabor dana 13. srpnja 2001. godine, na temelju članka 79. Ustava i članka 125. Poslovnika Hrvatskog sabora (»Narodne novine«, broj 71/00, 129/00, 9/01 - pročišćen tekst, 117/01, 6/02 - pročišćeni tekst, 41/02 i 91/03, u daljnjem tekstu: Poslovnik).
+Odredbom članka 79. stavka 2. Ustava propisano je da se unutarnje ustrojstvo i način rada Hrvatskoga sabora uređuje poslovnikom, dok je člankom 125. Poslovnika, odnosno sada člankom 110. Poslovnika propisano da se akti kojima se uređuje unutarnje ustrojstvo, način rada i odnosi u Saboru .... donose u obliku odluke, poslovnika ili pravilnika.
+6. Za ocjenu suglasnosti osporene Odluke s Ustavom mjerodavna je odredba članka 83. Ustava, koja glasi: »Sjednice su Hrvatskoga sabora javne«.
+Ustavna odredba o javnosti sjednica Hrvatskoga sabora izraz je osobitog ustavnopravnog položaja Hrvatskoga sabora, kao predstavničkog tijela građana i nositelja zakonodavne vlasti u Republici Hrvatskoj (članak 70. Ustava).
+S obzirom da Ustavom nije propisana mogućnost održavanja sjednica Hrvatskoga sabora bez nazočnosti javnosti, Poslovnik, uvažavajući citiranu ustavnu odredbu, posebno ne uređuje pitanje javnosti sjednica Hrvatskoga sabora. U članku 255. Poslovnika predviđa se mogućnost da samo radna tijela Sabora mogu svoje sjednice ili pojedini dio sjednica, ako tako odluči radno tijelo, održati bez nazočnosti javnosti, što je u skladu s načelom javnosti rada Hrvatskoga sabora.
+Stoga, propisivanje načina rada Sabora na sjednicama bez nazočnosti javnosti nije u suglasnosti s člankom 83. Ustava, kao niti s Poslovnikom, koji ima pravnu snagu zakona.
+7. Ustavni sud smatra da se ne može poistovjetiti javnost sjednica Hrvatskoga sabora s javnošću rada Sabora. Odredbom članka 2. stavka 1. podstavka 11. Poslovnika propisano je da se Poslovnikom uređuje javnost rada Sabora, što je podrobnije razrađeno odredbama Glave XIV. (članci 250. do 259.) Poslovnika. Premda je odredbom članka 254. Poslovnika predviđeno donošenje posebnog Pravilnika o javnosti rada Sabora i njegovih radnih tijela, taj akt do dana donošenja ove Odluke nije donesen.
+8. Slijedom navedenog, Ustavni sud je ocijenio da osporena Odluka nije u suglasnosti s odredbom članka 83. Ustava, čime je povrijeđena i odredba članka 5. stavka 1. Ustava, pa je, na temelju odredbe članka 55. Ustavnog zakona, odlučeno kao u izreci (točka I.).
+Objava ove odluke (točka II. izreke) temelji se na odredbi članka 29. Ustavnog zakona.
