@@ -1,0 +1,6 @@
+# Članak 7.
+Domaći i strani teretni brodovi koji su u međunarodnom riječnom prometu mogu se opskrbiti živežnim namirnicama i drugim proizvodima namijenjenim brodu i posadi u količinama koje su potrebne za popunjavanje brodskih zaliha.
+Brodovi iz stavka 1. ovog članka mogu se opskrbiti cigaretama i drugim duhanskim prerađevinama i žestokim alkoholnim pićem samo u količinama koje su neophodne i ovise o broju članova posade i duljine putovanja. Brod se može opskrbiti cigaretama do 200 komada ili drugim duhanskim prerađevinama u odgovarajućoj količini i žestokim alkoholnim pićem do pola litre, po članu posade - za svaki dan zadržavanja u carinskom području Republike Hrvatske.
+Iz pristaništa iz koga napuštaju Republiku Hrvatsku, brodovi se mogu opskrbiti cigaretama ili drugim duhanskim prerađevinama i žestokim alkoholnim pićem u količinama koje su potrebne za popunjavanje brodskih zaliha.
+Podaci o cigaretama ili drugim duhanskim prerađevinama i žestokom alkoholnom piću kojima je brod opskrbljen, upisuju se u knjigu provijanta.
+Zalihe robe koje prelaze potrebe potrošnje na brodu do slijedećeg pristaništa u kome brod pristaje, odnosno do izlaska broda iz carinskog područja Republike Hrvatske, moraju se smjestiti u prostorije na brodu na koje carinarnica stavlja carinska obilježja.

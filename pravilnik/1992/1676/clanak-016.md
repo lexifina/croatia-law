@@ -1,0 +1,5 @@
+# Članak 16.
+Roba koja nije prodana za vrijeme leta u međunarodnom prometu može se vratiti u konsignacijsko skladište, odnosno specijalizirano skladište ili zadržati u zrakoplovu ako je zrakoplov pod neposrednim carinskim nadzorom ili ako nastavlja let u međunarodnom prometu.
+Za robu koja po završetku leta zrakoplova u međunarodnom prometu ostaje u zrakoplovu, odnosno u određenim prostorima zrakoplova, carinarnica u zrakoplovnoj luci u kojoj se završava međunarodni let sravnjuje podatke iz zaključenog obračunskog lista sa stvarnim stanjem robe i stavlja carinsko obilježje na prostorije u zrakoplovu gdje je roba smještena, s tim što se carinsko obilježje ne smije povrijediti prije polijetanja zrakoplova u inozemstvo. Podatak o stavljenom carinskom obilježju carinarnica upisuje u obračunski list.
+Iznimno od odredaba stavka 1. i 2. ovog članka, u slučajevima kružnih letova i letova kraćih od jednog sata, kad članovi posade ne napuštaju zrakoplov, obračunski listovi se mogu zaključiti i po završenom krugu (lancu).
+Domaća roba koja nije prodana za vrijeme leta u međunarodnom prometu vraća se dostavnicom.

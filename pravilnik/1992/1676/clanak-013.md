@@ -1,0 +1,3 @@
+# Članak 13.
+Ako se roba iz konsignacijskog skladišta upućuje na zrakoplov neposredno, posjednik konsignacijskog skladišta dužan je carinarnici ovlaštenoj prema sjedištu konsignacijskog skladišta podnijeti izlazni list konsignacijske robe.
+Carinarnica ovlaštena prema sjedištu konsignacijskog skladišta ovjerava sve primjerke izlaznog lista i dva primjerka zadržava, a jedan predaje posjedniku konsignacijskog skladišta radi razduženja evidencije. Ostale primjerke koji prate robu do zrakoplova ovjerava carinarnica u zrakoplovnoj luci, od kojih jedan primjerak predaju zapovjedniku zrakoplova, odnosno ovlaštenom članu posade, dva primjerka poduzeću koje vrši opskrbu zrakoplova, a jedan primjerak vraća, kao potvrdu primitka robe, carinarnici koja je robu uputila na zrakoplov.
