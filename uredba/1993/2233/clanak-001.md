@@ -1,0 +1,3 @@
+## o izmjeni Zakona o posebnim pristojbama pri uvozu poljoprivrednih i prehrambenih proizvoda
+# Članak 1.
+U Zakonu o posebnim pristojbama pri uvou poljoprivrednih i prehrambenih proizvoda ("Narodne novine", broj 53/91) članak 2. mijenja se i glasi: "Visinu posebne pristojbe udređuje ministar gospodarstva uz prethodno pribavljeno mišljenje ministra poljoprivrede i šumarstva. Visina posebne pristojbe određuje se u nominalnom iznosu u visini razlike između uvozne i domaće cijene. Uvozna cijena je najniža nabavna cijena na vanjskom tržištu, franco hrvatska granica, uvećana za iznos carina, drugih uvoznih pristojbi i priznatih uvoznih troškova. Domaća cijena je najniža cijena kojom se štiti domaća proizvodnja poljoprivrednih i prehrambenih proizvoda."
