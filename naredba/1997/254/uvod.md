@@ -1,0 +1,1 @@
+Na temelju točke III. Odluke o utvrđivanju visine novčanih primanja iz Zakona o zaštiti vojnih i civilnih invalida rata, te naknade za opremu novorođenog djeteta ("Narodne novine", broj 12/97), ministar rada i socijalne skrbi, donosi
