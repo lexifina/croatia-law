@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 3. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 44/96, 57/96, 124/97, 73/2000 i 87/2000), i članka 14. stavka 5. Zakona o izmjenama i dopunama Zakona o područjima posebne državne skrbi (»Narodne novine«, broj 73/2000), Vlada Republike Hrvatske je na sjednici održanoj 1. veljače 2001. godine, donijela
