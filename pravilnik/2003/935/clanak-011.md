@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Tehničkom pregledu podliježu i stolovi na kojima se priređuju igre propisane u članku 3. stavak 1. točka 2. Zakona o priređivanju igara na sreću i nagradnih igara.
+(2) Na stolovima rezultat igre mora ovisiti o mehaničkim i dimenzionalnim svojstvima, a svojom konstrukcijom i izvedbom moraju omogućavati slučajnost (npr. dimenzija i nivelacija cilindara na ruletu, udaljenost između brojeva na brojčaniku ruleta, visina i debljina graničnika između tih brojeva, ispravno izveden automat za određenu svrhu, dimenzije, masa, brzina i elastičnost kuglice, dimenzije otvora, raspored i balans težine rotirajućih dijelova i dr.).
