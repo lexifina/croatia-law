@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 1. točke 9. Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe (»Narodne novine« broj 1/97 - pročišćeni tekst), ministar zdravstva uz suglasnost ministra poljoprivrede i šumarstva donosi
