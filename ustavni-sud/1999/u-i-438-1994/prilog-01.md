@@ -1,0 +1,11 @@
+U-I-517/1995
+U-I-415/1996
+U-I-442/1996
+U-I-457/1996
+U-I-897/1997
+U-I-819/1998
+U-I-50/1999
+Zagreb, 27. listopada 1999.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Predsjednik
+dr. Jadranko Crnić, v. r.
