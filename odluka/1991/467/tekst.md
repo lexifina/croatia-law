@@ -1,0 +1,4 @@
+o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog domaćinstva bavljenje poljoprivredom jedino ili glavno zanimanje
+1. Smatra se, da je članu poljoprivrednog domaćinstva osobe, koja je obuhvaćena mirovinskim i invalidskim osiguranjem po drugoj osnovi (radnik, obrtnik, vojni osiguranik, rad u inozemstvu, korisnik mirovine i drugo), poljoprivreda jedino ili glavno zanimanje, ako osobni dohodak od samostalnog obavljanja poljoprivredne djelatnosti (katastarski prihod) u godini 1990. prelazi 70,00 dinara godišnje po članu domaćinstva.
+2. Danom stupanja na snagu ove odluke prestaje važiti Odluka o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog domaćinstva bavljenje poljoprivredom jedino ili glavno zanimanje ("Narodne novine", broj 24/89).
+3. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1991.
