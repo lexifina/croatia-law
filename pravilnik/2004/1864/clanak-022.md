@@ -1,0 +1,2 @@
+# Članak 22.
+Za časnika koji u kalendarskoj godini navršava ili je ranije navršio ovim Pravilnikom propisanih 6 odnosno 7 godina u činu, kao i za časnika koji u kalendarskoj godini navršava ili je ranije navršio propisane godine života donijet će se zaključak o nemogućnosti daljnjeg profesionalnog razvoja ako nije raspoređen na ustrojbeno mjesto višeg čina odnosno u kalendarskoj godini neće ispuniti uvjete za redovno promaknuće.

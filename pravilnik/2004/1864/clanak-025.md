@@ -1,0 +1,3 @@
+# Članak 25.
+Zadržavanje u službi časnika kojemu je utvrđena nemogućnost daljnjega profesionalnog razvoja ne smije predstavljati zapreku za raspored i promicanje časnika odgovarajućeg roda ili struke čiji je profesionalni razvoj u okviru propisanih standarda odnosno koji ima utvrđenu mogućnost daljnjeg profesionalnog razvoja.
+Časnik koji je u okviru standarda profesionalnog razvoja odnosno kojemu je utvrđena mogućnost daljnjeg profesionalnog razvoja stječe uvjete za raspored na dužnost neposredno višeg čina u smislu odredbe stavka 1. ovoga članka kada u osobnom činu provede propisano vrijeme potrebno za redovno promaknuće.
