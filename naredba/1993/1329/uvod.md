@@ -1,0 +1,1 @@
+Na temelju članka 2. Zakona o posebnim pristojbama pri uvozu poljoprivrednih i prehrambenih prozvoda ("Narodne novine", br. 53/91), u sporazumu s ministrom poljoprivrede i šumarstva, ministar gospodarstva izdaje
