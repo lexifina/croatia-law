@@ -1,0 +1,3 @@
+# Članak 40.
+Područje na kojem se nalazi izvorište ili drugo ležiše vode koja se koristi ili je rezervirano za javnu vodoopskrbu, kao i područje na kojem se za iste potrebe zahvaća voda iz rijeka, jezera, akumulacija i sl. (u daljnjem tekstu: izvorišta), mora biti zaštićeno od namjernog ili slučajnog zagađenja i od drugih utjecaja koji mogu nepovoljno djelovati na zdravstvenu ispravnost voda ili na njenu izdašnost (zone sanitarne zaštite).
+Zaštita iz stavka 1. ovoga članka provodi se u skladu s odlukom o zaštiti izvorišta kojom se, na temelju prethodnih vodoistražnih radova, određuje veličina i granice zona sanitarne zaštite, sanitarni i drugi uvjeti održavanja i druge zaštitne mjere, izvori i način njihova fnanciranja, te kazne za povredu odredaba te odluke.

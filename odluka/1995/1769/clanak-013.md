@@ -1,0 +1,2 @@
+# Članak 13.
+Tehničko i gospodarsko održavanje, snošenje dijela troškova održavanja i usklađivanje korištenja višenamjenskih akumulacija i drugih vodnih građevina koje se, osim za zaštitu od štetnog djelovanja voda, koriste i za druge namjene (proizvodnja električne energije, navodnjavanje, rekreacija i sl.), ostvaruje se u skladu s ugovorom koji zaključuju "Hrvatske vode" i drugi ovlaštenici prava na tim građevinama uz suglasnost Državne uprave za vode.

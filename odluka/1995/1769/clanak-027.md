@@ -1,0 +1,3 @@
+# Članak 27.
+Za svako korištenje voda koje prelazi opseg opće uporabe potrebna je vodopravna dozvola, osim kada je ovim Zakonom ili drugim propisom u skladu s ovim Zakonom određeno da se voda može koristiti bez vodopravne dozvole.
+Gradsko ili općinsko vijeće, odnosno Gradska skupština Grada Zagreb (u daljnjem tekstu: gradsko, odnosno općinsko vijeće) po prethodno pribavljenom mišljenju "Hrvatskih voda" može donijeti bliže propise o mjestu, načinu i opsegu opće uporabe voda, uz obvezu osiguravanja ravnopravnog i jednakog korištenja voda za sve, te uz uvjet da opća uporaba voda ne smije biti na štetu ostalih posebnih namjena voda određenih ovim Zakonom.

@@ -1,0 +1,8 @@
+# Članak 31.
+Grad, odnosno općina na čijem se području nalazi akumulacija ili retencija čijom namjenom pravne i fizičke osobe i području drugog grada, odnosno općine ostvaruju korist, ili pravo na rentu (naknada).
+Rentu iz stavka 1. ovoga članka plaća grad, odnosno općina na čijem se području ostvaruje korist od akumulacije ili retencije. Godišnji iznos rente sporazumno utvrđuju gradovi, odnosno općine iz stavka 1. ovoga članka u visini neostvarenog dijela poreza na dohodak i iznosa prireza od zemljišta koje se nalazi pod akumulacijom, odnosno retencijom. Iznos naknade utvrđuje se prema podacima o površini, kulturi i klasi zemljišta iz katastra zemljišta u vremenu prije nastanka akumulacije, odnosno retencije. Ako katastar ne raspolaže tim podacima, iznos naknade utvrđuje se na temelju usporedbe sa odgovarajućim zemljištem u okolišu akumulacije, odnosno retencije.
+U slučaju izostanka sporazuma iz stavka 2. ovoga članka, visinu naknade utvrđuje arbitražna komisija koju imenuje Vlada Republike Hrvatske na prijedlog ravnatelja.
+Grad, odnosno općina koja je prema odredbi ovoga članka obvezna plaćati rentu, ima pravo rasporediti i naplatiti utvrđeni iznos rente, uvođenjem posebne naknade od pravnih i fizičkih osoba koje ostvaruju neposrednu korist od akumulacije, odnosno retencije.
+Odredbe stavka 1. i 2. ovoga članka ne odnose se na akumulacije čija se voda prvenstveno koristi za proizvodnju električne energije.
+Vlada Republike Hrvatske donijet će bliže propise o osnovama i načinu utvrđivanja visine rente i rokovima njena plaćanja, postupku i načinu uvođenja posebne naknade, osnovama za uvođenje pojedinačnih obveza, plaćanja posebne naknade i načinu prikupljanja sredstava te naknade.
+a) Vodoopskrba

@@ -1,0 +1,3 @@
+# Članak 30.
+Pravna ili fizička osoba koja prilikom rudarskih radova, iskopa tunela, drugih iskopa i bušenja tla naiđe na podzemne vo de (izvorišta voda, tekuće i stajaće vode) dužna je to odmah, najkasnije u roku od 48 sati od nalaza prijaviti vodopravnom inspektoru odnosno "Hrvatskim vodama" ili najbližoj policijski upravi koja je dužna o tome odmah izvijestiti "Hrvatske vode".
+Pravna, odnosno fizička osoba iz stavka 1. ovoga članka dužna je vodopravnom inspektoru i ovlaštenoj osobi "Hrvatski voda" dopustiti uzimanje podataka i obavljanje potrebnih ispitivanja radi utvrđivanja ležišta, količine i kakvoće vode te poduzeti potrebne mjere osiguranja koje joj naloži ta osoba.

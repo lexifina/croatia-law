@@ -1,0 +1,3 @@
+# Članak 42.
+Kada su radi zaštite izvorišta, u zonama sanitarne zaštite, potrebna posebna povećana ulaganja u vodoopskrbni sustav i sustav javne odvodnje otpadnih voda, potrebna sredstva za takva ulaganja osiguravaju se u proračunima gradova i općina na čijem se području koristi voda iz toga izvorišta, razmjerno količini vode koja se isporučuje na području svake od navedenih jedinica lokalne samouprave.
+Gradovi, odnosno općine iz stavka 1. ovoga članka imaju pravo, radi podmirenja troškova navedenih ulaganja, uvesti posebnu naknadu, a koja se plaća u cijeni isporučene vode neposrednim korisnicima. Ova se naknada uvodi na određeno vrijeme potrebno za podmirenje stvarnih troškova ulaganja.

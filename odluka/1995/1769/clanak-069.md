@@ -1,0 +1,4 @@
+# Članak 69.
+Onečišćenje voda je promjena kakvoće voda koja nastaje unošenjem, ispuštanjem ili odlaganjem u vode hranjivih i drugih tvari; utjecajem energije ili drugih uzročnika; u količini kojom se mijenjaju korisna svojstva voda, pogoršava stanje vodenih ekosustava i ograničuje namjenska uporaba voda.
+Hranjive tvari iz stavka 1. ovoga članka su kemijski elementi, odnosno njihovi spojevi važni za rast i razvoj organizama (soli dušika, fosfora i sl.)
+Zagađenje voda je onećiščenje većeg intenziteta koje nastaje unošenjem, ispuštanjem ili odlaganjem u vode opasnih tvari energije ili drugih uzročnika u količinama,.odnosno koncentraciji iznad dozvoljenih graničnih vrijednosti, time se dovode u opasnost život i zdravlje ljudi i stanje okoliša ili uslijed kojeg mogu nastupiti poremećaji u gospodarstvu ili drugim područjima. Zagađenjem vode smatra se i svaka promjena kakvoće vode kojom se pogoršava vrsta vode određena klasifikacijom voda.

@@ -1,0 +1,3 @@
+# Članak 60.
+Javno vodno dobro čine zemljišne čestice iz članka 57. stavka 1. ovoga Zakona, koje su do dana stupanja na snagu ovoga Zakona bile upisane u zemljišnim knjigama kao javno dobro, vodno dobro, državno vlasništvo ili vlasništvo jednica lokalne samouprave, odnosno koje su na osnovi zakona postale vlasništvom Države.
+Javnim vodnim dobrom smatraju se, sve do dokaza suprotnog, i one zemljišne čestice iz članka 57. stavka 1. ovoga Zakona koje do dana njegova stupanja na snagu nisu bile upisane u zemljišnu knjigu, odnosno koje su upisane u zemljišnu knjigu ali nitko nije naveden kao njihov vlasnik.
