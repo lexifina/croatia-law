@@ -1,0 +1,1 @@
+Na temelju članka 76. stavak 2. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 49/99 i 63/00) Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 14. svibnja 2002. donio je
