@@ -1,0 +1,4 @@
+# Članak 114.
+(1) Nije dopušteno namjerno uvođenje GMO-a u okoliš u zaštićenim područjima i u područjima ekološke mreže, područjima namijenjenim ekološkoj proizvodnji poljoprivrednih proizvoda i ekološkim oblicima turizma te područjima koja predstavljaju zaštitne zone utjecaja.
+(2) Zaštitne zone utjecaja iz stavka 1. ovoga članka obuhvaćaju prostore koji sprječavaju širenje GMO-a na područja na kojima nije dopušteno namjerno uvođenje GMO-a u okoliš, koje se utvrđuju uvjetima zaštite prirode koji su sastavni dio dopuštenja o namjernom uvođenju GMO-a u okoliš.
+(3) Reprodukcijski biljni materijal koji sadrži GMO-e nije dopušteno namjerno uvoditi u okoliš, osim iznimno na površinama koje će, na prijedlog ministra nadležnog za poljoprivredu i šumarstvo i ministra nadležnog za zaštitu okoliša, uredbom utvrditi Vlada.

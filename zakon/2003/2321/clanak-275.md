@@ -1,0 +1,28 @@
+# Članak 275.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 25.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ako:
+- ne dopuste obilazak i pregled prirodnina (članak 9.),
+- ne prijavi otkriće speleološkog objekta ili njegovog dijela u propisanom roku (članak 35. stavak 5.),
+- oštećuje, uništava ili odnosi špiljski nakit i podzemni živi svijet speleološkog objekta (članak 36. stavak 1.),
+- uplovi plovilo u vode zaštićenih dijelova prirode koji nema posebne spremnike za prihvat onečišćenih odnosno fekalnih otpadnih voda (članak 44. stavak 3.),
+- namjerno hvata, ozljeđuje ili ubija divlje životinje (članak 58. stavak 1. podstavak 1.),
+- namjerno uklanja divlje biljke i gljive iz njihovih staništa, smanjuje njihove populacije ili ih uništava (članak 58. stavak 1. podstavak 2.),
+- drži u zatočeništvu u neprikladnim uvjetima i bez odgovarajuće skrbi, odnosno suprotno propisanim uvjetima životinje divljih svojti (članak 70. stavak 1.),
+- prikazuje u zoološkim vrtovima, akvarijima, terarijima ili sličnim prostorima životinje zavičajnih ili stranih divljih svojti bez dopuštenja Ministarstva (članak 71. stavak 1.),
+- uzgaja zavičajne i strane divlje svojte bez dopuštenja odnosno suglasnosti Ministarstva (članak 72. stavak 1. i 2.),
+- uzgojene životinje ne obilježi na propisani način (članak 73. stavak 1.),
+- ne onemogući da uzgojena životinja pobjegne u prirodu i prouzroči štetu (članak 73. stavak 2.),
+- namjerno bere, sakuplja, siječe ili iskopava samonikle strogo zaštićene biljke ili gljive (članak 79. stavak 1.),
+- drži strogo zaštićene biljke i gljive (članak 79. stavak 2.),
+- obavlja istraživanja strogo zaštićenih svojti bez dopuštenja Ministarstva (članak 83. stavak 1.),
+- obavlja djelatnosti na mjestu nalaza koje mogu dovesti do uništenja ili oštećivanja nalaza minerala ili fosila (članak 145. stavak 4.),
+- ne pribavi dopuštenje za istraživanje nalazišta minerala i fosila (članak 146. stavak 1.),
+- pri uzimanju minerala i fosila koristi strojeve ili druga nedopuštena sredstva (članak 148. stavak 1.),
+- ne provodi mjere zaštite propisane Zakonom dok je prirodna vrijednost pod privremenom zaštitom (članak 169.),
+- ne postupa sukladno planu upravljanja za zaštićeno područje (članak 181. stavak 4. i članak 182.),
+- organizira posjećivanje i razgledavanje zaštićene prirodne vrijednosti suprotno zabrani ili ograničenjima (članak 186.),
+- ne dopušta pristup zaštićenoj prirodnoj vrijednosti prema propisanim uvjetima (članak 187. stavak 1.),
+- ne sklopi ugovor o zaštiti neke prirodne vrijednosti, odnosno ne sklopi ugovor o skrbništvu nad nekom prirodnom vrijednošću prema propisanim uvjetima (članak 189. i članak 190.),
+- ne dostavi podatke o stanju i zaštiti prirode (članak 233. stavak 3.),
+- obavlja istraživanja bez suglasnosti Ministarstva ili (članak 234.),
+- ne izvješćuje javnost o stanju zaštite prirode u slučajevima propisanim Zakonom (članak 239.).
+(2) Za prekršaj iz stavka 1. ovoga članka kada ga počini pravna osoba, kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 20.000,00 kuna.

@@ -1,0 +1,2 @@
+# Članak 10.
+Radi sprječavanja nanošenja šteta na prirodi zabranjeno je na područjima izvan naselja i izvan svih vrsta cesta, poljskih puteva, uređenih staza i poligona za vožnju, voziti, parkirati ili organizirati vožnje vozilima na motorni pogon (test vožnje, cross vožnje, off-road vožnje, sportske, takmičarske i promidžbene vožnje, te njima slični oblici korištenja), osim u slučajevima obavljanja službene dužnosti, poljoprivrednih, šumarskih ili drugih dopuštenih djelatnosti, odnosno kada je to u skladu s ovim Zakonom i drugim propisima.

@@ -1,0 +1,3 @@
+# Članak 137.
+(1) Vlada može, sukladno principu predostrožnosti, uredbom propisati i strože mjere, uključujući i zabranu uporabe GMO-a, od onih koje su predviđene ovim Zakonom.
+(2) Vlada može, na prijedlog nadležnog tijela državne uprave i na temelju mišljenja Odbora za uvođenje GMO-a u okoliš, odnosno Odbora za novu hranu i hranu za životinje koja sadrži GMO, uvoz privremeno ili trajno ograničiti ili zabraniti u slučaju nedostatka znanstvenih informacija i znanja o mogućim razmjerima negativnih posljedica na biološku raznolikost, okoliš i zdravlje ljudi, ili ako postoje novi ili dodatni znanstveno utemeljeni podaci o tome da proizvod može izazvati opasnosti za biološku raznolikost, okoliš i zdravlje ljudi.

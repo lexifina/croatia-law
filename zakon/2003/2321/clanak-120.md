@@ -1,0 +1,5 @@
+# Članak 120.
+(1) Ministarstvo je dužno u postupku izdavanja dopuštenja iz članka 118. ovoga Zakona javnosti dati na uvid sadržaj tehničke dokumentacije i procjene rizika iz članka 117. stavka 1. ovoga Zakona te mišljenje Odbora za uvođenje GMO-a u okoliš o namjeravanom namjernom uvođenju u okoliš. U postupku za izdavanje dopuštenja prema članku 119. ovoga Zakona javnosti se mora omogućiti uvid u sadržaj prijave i mišljenje Odbora za uvođenje GMO-a u okoliš.
+(2) Javni poziv u kojem se navodi mjesto i vrijeme za uvid iz stavka 1. ovoga članka te način davanja mišljenja i primjedbi objavljuje se u sredstvima javnog priopćavanja.
+(3) Rok u kojem Ministarstvo omogućava uvid te davanje mišljenja i primjedbi ne može biti duži od trideset dana, i ne računa se u rok za izdavanje dopuštenja iz članaka 118. i 119. ovoga Zakona.
+(4) Ministarstvo je dužno u obrazloženje odluke o izdavanju dopuštenja iz stavka 3. ovoga članka unijeti i stajališta o danom mišljenju javnosti i istaknutim primjedbama.

@@ -1,0 +1,4 @@
+# Članak 262.
+(1) U provedbi inspekcijskog nadzora inspektor ima pravo i obvezu nadziranim osobama narediti da u primjerenom roku otklone utvrđene nedostatke i nepravilnosti u postupanju sa zaštićenim biljnim, gljivljim i životinjskim svojtama ili drugom zaštićenom prirodnom vrijednosti.
+(2) U provedbi inspekcijskog nadzora inspektor ima pravo i obvezu nadziranim osobama privremeno obustaviti djelatnosti, radnje i radove koji nisu u skladu s ovim Zakonom i propisima donesenim na temelju ovoga Zakona, zatražiti uspostavu prijašnjeg stanja, odnosno narediti mjere za sprječavanje i uklanjanje štetnih posljedica.
+(3) U slučaju iz stavka 2. ovoga članka inspektor može narediti i hitne mjere radi sprječavanja ili smanjivanja štete nastale zbog obavljanja radova, djelatnosti i radnji, ili daljnjeg sprječavanja nastanka štete.

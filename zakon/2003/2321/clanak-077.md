@@ -1,0 +1,4 @@
+# Članak 77.
+(1) Ugrožene divlje svojte koje se u smislu ovoga Zakona proglašavaju zaštićenim prirodnim vrijednostima mogu biti strogo zaštićene svojte i zaštićene svojte.
+(2) Strogo zaštićene svojte i zaštićene svojte proglašava ministar uz prethodno pribavljenu suglasnost ministra nadležnog za poljoprivredu, šumarstvo, lovstvo i ribarstvo, na temelju procjene ugroženosti pojedinih svojti i obveza koje proizlaze iz međunarodnih ugovora kojih je Republika Hrvatska stranka.
+(3) Ministar će ukinuti zaštitu divlje svojte koja više nije ugrožena, ili prebaciti pojedinu divlju svojtu iz jedne kategorije u drugu, ako se takva potreba ukaže na temelju procjene ugroženosti određene svojte ili obveza koje proizlaze iz međunarodnih ugovora kojih je Republika Hrvatska stranka, na način i u postupku propisanom stavkom 2. ovoga članka.

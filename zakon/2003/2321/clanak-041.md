@@ -1,0 +1,5 @@
+# Članak 41.
+(1) U vlažnim staništima nije dopušteno pregrađivanje vodotokova, isušivanje, zatrpavanje izvora, bara i dr. ako se time ugrožava opstanak prirodnih vrijednosti i očuvanje biološke raznolikosti.
+(2) Količinu vodnih zaliha u vlažnim staništima iz stavka 1. ovoga članka koja je nužna za opstanak prirodnih vrijednosti i očuvanje biološke raznolikosti, određuje ministar uz prethodno pribavljenu suglasnost tijela državne uprave nadležnog za vode, na temelju studije o potrebnim količinama vodnih zaliha u vlažnim staništima koju izrađuje Državni zavod za zaštitu prirode u suradnji s tijelom državne uprave nadležnim za vode.
+(3) Nadležna tijela u sklopu svoga djelokruga, te fizičke i pravne osobe u obavljanju djelatnosti, dužni su osigurati pročišćavanje gradskih i industrijskih otpadnih voda koje se ulijevaju u vode i vlažna staništa.
+(4) Vode se štite od onečišćenja odnosno zagađenja, a njihovu prirodnu sposobnost vlastitog čišćenja treba očuvati ili ponovno uspostavljati. Tijelo državne uprave nadležno za vode dužno je osigurati stalno praćenje onečišćenja voda.

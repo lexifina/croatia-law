@@ -1,0 +1,26 @@
+# Članak 276.
+(1) Novčanom kaznom u iznosu od 7.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ako:
+- ne provodi saniranje posljedica namjernog ili nenamjernog ispuštanja onečišćenih, odnosno otpadnih fekalnih voda na propisani način (članak 44. stavak 4.),
+- sakuplja biljke, gljive i njihove dijelove, te hvata ili ubija životinje u svrhu prerade, trgovine i drugog prometa bez suglasnosti vlasnika i ovlaštenika prava (članak 62. stavak 2.),
+- sakuplja biljke, gljive i njihove dijelove, te hvata ili ubija životinje radi znanstveno-istraživačkog rada i iznošenja iz Republike Hrvatske bez dopuštenja Ministarstva (članak 63. stavak 4.),
+- ne prijavi uvoz ili izvoz životinje, gljive ili biljke nadležnoj carinskoj službi (članak 68.),
+- ne izvijesti u propisanom roku Ministarstvo o stjecanju vlasništva nad zaštićenim životinjama (članak 70. stavak 2.),
+- ne izda novom vlasniku potvrdu o podrijetlu životinje (članak 74. stavak 5.),
+- ne prijavi Ministarstvu mrtve, bolesne ili ozlijeđene strogo zaštićene divlje svojte (članak 81. stavak 4.),
+- ne dostavi Ministarstvu podatke u propisanom roku o rezultatima istraživanja strogo zaštićenih svojti u svezi procjene ugroženosti utvrđene istraživanjem s prijedlogom zaštitnih mjera (članak 83. stavak 2.),
+- ne štiti i čuva minerale ili fosile na propisan način (članak 143. stavak 2.),
+- ne prijavi Ministarstvu u propisanom roku pronalazak minerala ili fosila ili ne poduzme nužne mjere zaštite od uništenja, oštećivanja ili krađe (članak 145. stavak 1.),
+- ne omogući istraživanje nalazišta minerala ili fosila u skladu s rješenjem Ministarstva (članak 145. stavak 5.),
+- obavlja istraživanja minerala i fosila bez dodatnog dopuštenja (članak 145. stavak 7.),
+- ne zatraži dopuštenje za obavljanje istraživanja nalazišta minerala i fosila u propisanom roku (članak 146. stavak 1.),
+- nastavi istraživanja pored zabrane ili izdanog dopuštenja (članak 146. stavak 2.),
+- ne dostavi izvješće o obavljenom istraživanju u propisanom roku (članak 146. stavak 3.),
+- uzima iz prirode minerale ili fosile radi istraživanja, obrazovanja i izložbenih namjena bez dopuštenja Ministarstva ili uzima minerale i fosile iz prirode za namjene koje nisu utvrđene ovim Zakonom (članak 147. stavak 2.),
+- uzima minerale i fosile iz prirode radi stavljanja u promet bez dopuštenja Ministarstva (članak 147. stavak 3.),
+- ne posjeduje dokaze o podrijetlu minerala i fosila, odnosno o dopuštenju za uzimanje iz prirode (članak 147. stavak 4.),
+- ne vodi evidenciju o stavljanju u promet minerala i fosila na propisan način (članak 147. stavak 5. i 6.),
+- izvozi minerale ili fosile bez dopuštenja Ministarstva (članak 149. stavak 1.),
+- istražuje i posjećuje strogi rezervat bez dopuštenja Ministarstva (članak 151. stavak 2.),
+- ne dostavi Ministarstvu izvješće o rezultatima istraživanja (članak 234.),
+- koristi znak zaštite prirode suprotno propisanom načinu (članak 245. stavak 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kada ga počini pravna osoba, kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 3.000,00 do 7.000,00 kuna.

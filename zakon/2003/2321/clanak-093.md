@@ -1,0 +1,4 @@
+# Članak 93.
+(1) Prekogranični prijenos, provoz, ograničena uporaba, namjerno uvođenje u okoliš i stavljanje GMO-a i proizvoda koji sadrže GMO na tržište, obavlja se na način kojim se sprječava ili na najmanju mjeru smanjuje opasnost za biološku raznolikost, vodeći računa o opasnostima po zdravlje ljudi i okoliš.
+(2) Način rada i mjere sigurnosti pri prekograničnom prijenosu, provozu, ograničenoj uporabi, namjernom uvođenju u okoliš i stavljanju GMO-a i proizvoda koji sadrže GMO na tržište, dopuštene tehnike i dopuštene genetske modifikacije, mjere uklanjanja štetnih posljedica od nekontroliranog korištenja GMO-a, te način neškodljivog uništavanja GMO-a i otpada koji sadrži GMO propisat će Vlada uredbom.
+(3) U slučaju nekontroliranog uvođenja u okoliš ministar će naredbom utvrditi odgovarajuće mjere sigurnosti i zaštite.

@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Za planirani zahvat u prirodu, koji sam ili s drugim zahvatima može imati bitan utjecaj na ekološki značajno područje ili zaštićenu prirodnu vrijednost, ocjenjuje se njegova prihvatljivost za prirodu u odnosu na ciljeve očuvanja tog ekološki značajnog područja ili zaštićene prirodne vrijednosti, sukladno ovom Zakonu i posebnim propisima.
+(2) Za planirane zahvate u prirodu iz stavka 1. ovoga članka za koje je posebnim propisom obvezna procjena utjecaja na okoliš, ocjena prihvatljivosti za prirodu obavlja se u sklopu procjene utjecaja na okoliš sukladno posebnom propisu.
+(3) Ocjenom prihvatljivosti zahvata za prirodu utvrđuju se moguće posljedice namjeravanog zahvata na zaštićenoj prirodnoj vrijednosti ili ekološki značajnom području u odnosu na ciljeve očuvanja staništa ili vrsta, odnosno propisane mjere zaštite.
+(4) Za više manjih zahvata istog cilja za koje pojedinačno nije obvezna ocjena prihvatljivosti za prirodu, ako se izvode na jednom staništu, odnosno području, izrađuje se jedinstvena ocjena prihvatljivosti zahvata za prirodu.
+(5) Ocjenu prihvatljivosti zahvata za prirodu, koja se ne utvrđuje u sklopu procjene utjecaja na okoliš, utvrđuje Ministarstvo na prijedlog Državnog zavoda za zaštitu prirode.

@@ -1,0 +1,7 @@
+# Članak 92.
+(1) Radi sprječavanja negativnog utjecaja na očuvanje i održivo korištenje biološke raznolikosti, vodeći računa o opasnostima po zdravlje ljudi i okoliš, osiguravaju se i provode odgovarajuće mjere zaštite u cilju sigurnoga prekograničnog prijenosa, provoza, ograničene uporabe, namjernog uvođenja u okoliš i stavljanja genetski modificiranih organizama (u daljnjem tekstu: GMO) ili proizvoda koji sadrže GMO na tržište.
+(2) Prekogranični prijenos, provoz, ograničena uporaba, namjerno uvođenje u okoliš, stavljanje GMO-a ili proizvoda koji sadrže GMO na tržište, dopušteni su uz uvjete i na način propisan ovim Zakonom i posebnim propisima.
+(3) Dopuštenje za uvoz, provoz, ograničenu uporabu, namjerno uvođenje u okoliš, stavljanje na tržište GMO-a ili proizvoda izdaje Ministarstvo ili drugo nadležno tijelo državne uprave na način i pod uvjetima utvrđenim ovim Zakonom i posebnim propisima.
+(4) Sadržaj i način podnošenja zahtjeva, način izdavanja dopuštenja za uvoz, ograničenu uporabu, namjerno uvođenje u okoliš, stavljanje na tržište GMO-a ili proizvoda koji sadrže GMO, te način zaštite tajnosti podataka navedenih u zahtjevu uređuje se ovim Zakonom i posebnim propisima.
+(5) Na pitanja uvoza, provoza, stavljanja na tržište, uporabe i proizvodnje hrane i hrane za životinje koja sadrži GMO, koja nisu uređena ovim Zakonom, primjenjuju se odredbe posebnih propisa.
+(6) Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju lijekova koji sadrže GMO, ne primjenjuju se odredbe ovoga Zakona ako posebnim propisom nije drugačije određeno.

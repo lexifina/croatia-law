@@ -1,0 +1,5 @@
+# Članak 293.
+(1) Vlada i ministar će u roku od godine dana od dana stupanja na snagu ovoga Zakona donijeti propise za koje su ovlašteni ovim Zakonom.
+(2) Do stupanja na snagu provedbenih propisa utvrđenih ovim Zakonom ostaju na snazi propisi doneseni na temelju Zakona o zaštiti prirode (»Narodne novine« br. 30/94. i 72/94.) u dijelu u kojem njihove odredbe nisu u suprotnosti s odredbama ovoga Zakona.
+(3) Zaštićeni dijelovi prirode proglašeni na temelju Zakona o zaštiti prirode (»Narodne novine« br. 30/94. i 72/94.) »zaštićenim krajolikom« postaju »značajni krajobrazi« u smislu ovoga Zakona.
+(4) Mjere zaštite koje su donijela poglavarstva županija i Poglavarstvo Grada Zagreba za zaštićene dijelove prirode na svom području, na temelju odredbi Zakona o zaštiti prirode (»Narodne novine«, br. 30/94. i 72/94.), ostaju na snazi do donošenja provedbenih propisa o mjerama zaštite tih zaštićenih prirodnih vrijednosti sukladno ovom Zakonu, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.

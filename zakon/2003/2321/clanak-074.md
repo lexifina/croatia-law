@@ -1,0 +1,8 @@
+# Članak 74.
+(1) Ovlaštena pravna ili fizička osoba može obavljati trgovinu životinja, gljiva i biljaka iz članka 72. stavka 1. ovoga Zakona, kao i drugih životinja, gljiva i biljaka sukladno međunarodnim ugovorima kojih je Republika Hrvatska stranka.
+(2) Trgovinom se smatra prodaja i kupovina, stjecanje u komercijalne svrhe, izlaganje javnosti radi stjecanja dobiti, korištenje u svrhu stjecanja dobiti, držanje radi prodaje, nuđenje na prodaju ili prijevoz radi prodaje, te najam i razmjena životinja, gljiva i biljaka iz stavka 1. ovoga članka. Trgovati se može samo primjercima uzgojenim u prijavljenom uzgoju ili koji imaju ispravu o dopuštenom porijeklu, uz uvjet da je primjerak ili pošiljka propisno obilježena sukladno pravilniku iz članka 67. stavka 7. ovoga Zakona.
+(3) Pravna i fizička osoba, koja obavlja trgovačku djelatnost živim životinjama zavičajnih ili stranih divljih svojti, dužna je osigurati odgovarajuće uvjete za držanje životinja sukladno pravilniku iz članka 70. stavka 4. ovoga Zakona, te voditi evidenciju o trgovini životinjama.
+(4) Životinjske svojte za koje je potrebno voditi evidenciju i način vođenja evidencije ministar će propisati pravilnikom.
+(5) Prilikom trgovine životinjama koje su zaštićene na temelju ovoga Zakona ili međunarodnih ugovora kojih je Republika Hrvatska stranka, prodavatelj, odnosno vlasnik dužan je novome vlasniku izdati potvrdu o podrijetlu životinje i/ili račun.
+(6) Pravne i fizičke osobe za obavljanje djelatnosti iz stavka 1. ovoga članka dužne su pribaviti dopuštenje, odnosno suglasnost Ministarstva. Uvjete i način izdavanja dopuštenja, odnosno suglasnosti ministar će propisati pravilnikom.
+(7) O izdanim dopuštenjima, odnosno suglasnostima iz stavka 6. ovoga članka Ministarstvo vodi očevidnik.

@@ -1,0 +1,4 @@
+# Članak 39.
+(1) Vlasnik ili ovlaštenik prava na zemljištu na kojemu se nalazi speleološki objekt ne smije ugroziti ili oštetiti speleološki objekt, zatrpati ulaz, priječiti njegovo korištenje na dopušten način, te je dužan omogućiti pristup i razgledavanje tog objekta u dopuštene svrhe.
+(2) Vlasnik i ovlaštenik prava na zemljištu na kojem se nalazi speleološki objekt ima pravo na naknadu za ograničenja kojima je podvrgnut zbog korištenja speleološkog objekta razmjerno umanjenom prihodu. Visina naknade određuje se sporazumno, a u slučaju spora o visini naknade odlučuje sud. Naknada se isplaćuje na teret sredstava državnog proračuna, odnosno proračuna županije ili Grada Zagreba.
+(3) Ako se za korištenje speleološkog objekta izda koncesija, vlasniku za ograničenja kojima je podvrgnut koncesionar plaća naknadu u visini koja se utvrđuje sukladno stavku 2. ovoga članka.

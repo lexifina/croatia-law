@@ -1,0 +1,8 @@
+# Članak 138.
+(1) Ako postoji sumnja da se uvozi, uvodi u okoliš, stavlja na tržište, uporabljuje ili odlaže u okoliš GMO ili proizvod koji sadrži GMO suprotno odredbama ovoga Zakona ili posebnog propisa, nadležni inspektor će zatražiti od uvoznika, odnosno korisnika vjerodostojnu ispravu, te odrediti rok u kojemu se isprava ima predočiti.
+(2) Ako uvoznik ili korisnik u određenom roku ne predoči vjerodostojnu ispravu, inspektor će privremeno zabraniti uvoz, ograničenu uporabu, uvođenje u okoliš, stavljanje na tržište, ili odlaganje u okoliš, a uzorak će dostaviti na analizu ovlaštenom laboratoriju.
+(3) Laboratorij za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadrže GMO sukladno međunarodnim standardima, osnovat će ministarstvo nadležno za poslove zdravstva, uz potporu ministarstva nadležnog za poslove poljoprivrede i šumarstva i ministarstva nadležnog za zaštitu prirode i okoliša.
+(4) Uvjete koje mora ispunjavati laboratorij iz stavka 3. ovoga članka propisat će pravilnikom ministar nadležan za zdravstvo uz suglasnost ministra nadležnog za zaštitu prirode i okoliša i ministra nadležnog za poljoprivredu i šumarstvo.
+(5) Ako se analizom utvrdi da se radi o nedopuštenom GMO-u ili proizvodu koji sadrži GMO inspektor će zabraniti uvoz, ograničenu uporabu, uvođenje u okoliš, stavljanje na tržište ili odlaganje u okoliš, a uzeti uzorci i/ili zaplijenjeni genetski modificirani organizmi i proizvodi trajno i neškodljivo će se uništiti.
+(6) Troškove analize i uništavanja, kao i privremene pohrane i čuvanja, ako se analizom utvrdi da se radi o nedopuštenom uvozu, ograničenoj uporabi, uvođenju u okoliš, stavljanju na tržište ili odlaganju u okoliš, snosi uvoznik, odnosno korisnik GMO-a ili proizvoda koji sadrži GMO.
+6.3.6. Upisnik GMO-a

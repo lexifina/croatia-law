@@ -1,0 +1,8 @@
+# Članak 109.
+(1) Podnositelj zahtjeva dužan je za svaku ograničenu uporabu GMO-a uvrštenu u 3. i 4. razinu opasnosti, koja će se obavljati u zatvorenom sustavu za koji je dobivena potvrda sukladno članku 102. ovoga Zakona, ishoditi dopuštenje Ministarstva.
+(2) Zahtjev za dobivanje dopuštenja mora sadržavati podatke navedene u članku 108. stavku 2. ovoga Zakona i opis opreme zatvorenog sustava. Zahtjev mora sadržavati i procjenu rizika za namjeravanu uporabu i plan mjera za slučaj nesreće.
+(3) Ministarstvo provjerava udovoljava li zahtjev propisanim uvjetima i nakon što je pribavilo mišljenje Odbora za ograničenu uporabu GMO-a u roku od četrdesetpet dana po podnošenju zahtjeva, izdaje dopuštenje ako će se radnje obavljati u zatvorenim sustavima za koji je već prije bila izdana dozvola za ograničenu uporabu iz 3. i 4. razine opasnosti, i ako su bile ispunjene sve propisane mjere nadzora.
+(4) Ako se ne radi o slučajevima iz stavka 3. ovoga članka Ministarstvo će provjeriti udovoljava li zahtjev propisanim uvjetima i nakon pribavljanja mišljenja Odbora za ograničenu uporabu GMO-a izdat će dopuštenje najkasnije devedeset dana po podnošenju zahtjeva.
+(5) Odbor za ograničenu uporabu GMO-a dužan je svoje pismeno mišljenje dati u roku od dvadesetjedan dan, odnosno u roku od četrdesetpet dana za slučajeve iz stavka 4. ovoga članka računajući od dana kada mu je dostavljena preslika zahtjeva.
+(6) Ministarstvo izdaje dopuštenje iz stavka 1. ovoga članka najduže za razdoblje koje je podnositelj naveo u svojem zahtjevu. Po proteku valjanosti dopuštenja podnositelj zahtjeva može zatražiti produženje dozvole ako ispunjava propisane uvjete.
+(7) Sadržaj zahtjeva za dobivanje dopuštenja za uporabu GMO-a u 3. i 4. razini opasnosti ministar će propisati pravilnikom.

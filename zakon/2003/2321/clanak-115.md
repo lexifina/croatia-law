@@ -1,0 +1,5 @@
+# Članak 115.
+(1) Podnositelj zahtjeva dužan je putem ovlaštene pravne osobe prije podnošenja zahtjeva za dobivanje dopuštenja za namjerno uvođenje GMO-a u okoliš izraditi procjenu rizika za namjeravano uvođenje.
+(2) U procjeni se utvrđuje, na temelju analize karakteristika GMO-a i njegovoga namjeravanog uvođenja u okoliš i ekološkog sustava u koji bi se GMO uveo te biološke raznolikosti koja bi mogla biti izložena rizicima, ocjena mogućih negativnih utjecaja i njihove moguće posljedice, stupanj opasnosti i potrebne mjere za nadzor, uzimajući u obzir i utjecaj na zdravlje ljudi.
+(3) Podnositelj zahtjeva može priložiti procjenu rizika koju je za jednako namjerno uvođenje istog GMO-a u okoliš izradio drugi podnositelj, te ako je za to dobio pismenu suglasnost podnositelja koji je izradio tu procjenu opasnosti.
+(4) Sadržaj i opseg procjene rizika za namjerno uvođenje GMO-a u okoliš, metodologiju za izradu procjene, te ovlaštene pravne osobe za izradu procjene propisat će ministar pravilnikom uz suglasnost ministra nadležnog za poljoprivredu i šumarstvo.

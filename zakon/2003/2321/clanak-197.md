@@ -1,0 +1,5 @@
+# Članak 197.
+(1) Republika Hrvatska je dužna na zahtjev vlasnika nekretnine u zaštićenom području kojega je proglasio Hrvatski sabor ili Vlada, za tržišnu cijenu otkupiti nekretninu ili ponuditi drugu jednakovrijednu nekretninu, koju radi ograničenja i zabrana iz ovoga Zakona nije moguće upotrebljavati za djelatnost za koju se upotrebljavala prije zaštite, ili se može upotrebljavati tek u neznatnoj mjeri.
+(2) Županija i Grad Zagreba dužni su na zahtjev vlasnika nekretnine u zaštićenom području, kojega su proglasili zaštićenim na temelju ovoga Zakona, za tržišnu cijenu otkupiti nekretninu ili ponuditi drugu jednakovrijednu nekretninu, koju radi ograničenja i zabrana iz ovoga Zakona nije moguće upotrebljavati za djelatnost za koju se upotrebljavala prije zaštite, ili se može upotrebljavati tek u neznatnoj mjeri.
+(3) Vlasnik nekretnine ima pravo ponuditi nekretninu na prodaju sukladno ovome članku u roku od dvije godine od dana stupanja na snagu akta koji je prouzročio ograničenja i zabrane na nekretnini.
+11. Naknada štete

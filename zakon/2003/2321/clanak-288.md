@@ -1,0 +1,5 @@
+# Članak 288.
+(1) Pravne osobe koje su dopuštenu proizvodnju i znanstvena istraživanja u području genetske modifikacije započele prije stupanja na snagu ovoga Zakona, dužne su tu proizvodnju ili istraživanja prijaviti Ministarstvu u roku od četrdeset pet dana od dana stupanja na snagu ovoga Zakona.
+(2) Ministarstvo je dužno u daljnjem roku od petnaest dana izvijestiti ministarstvo nadležno za poslove zdravstva, ministarstvo nadležno za poslove znanosti i tehnologije i ministarstvo nadležno za poslove poljoprivrede i šumarstva o započetoj dopuštenoj proizvodnji i projektima znanstvenih istraživanja u području genetske modifikacije.
+(3) Rješenje o dopuštenju nastavka dopuštene proizvodnje i projekata znanstvenih istraživanja iz stavka 1. ovoga članka donosi Ministarstvo uz suglasnost nadležnog ministarstva u roku od šezdeset dana od dana prijave dopuštene proizvodnje ili projekta znanstvenog istraživanja.
+(4) Ako se rješenje ne donese u roku iz stavka 3. ovoga članka smatra se da je dopuštenje izdano.
