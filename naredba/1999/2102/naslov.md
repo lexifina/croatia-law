@@ -1,0 +1,1 @@
+Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara (goveda, ovaca, koza i svinja) te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Republike Turske
