@@ -1,0 +1,5 @@
+# Članak 4.
+Naknada troškova arbitrima, posrednicima, savjetodavcima i zapisničaru obuhvaća naknadu putnih troškova, naknadu za hranu i prenoćište (dnevnicu) i naknadu za izgazbljeni osobni dohodak.
+Naknada troškova iz stavka 1. ovog članka pripada onim osobama koje imaju prebivalište izvan sjedišta Izbranog sudišta.
+Naknada troškova iz stavka 1. ovog članka pripada arbitrima, posrednicima, savjetodavcu, zapisničaru i tajniku Izbranog sudišta kad se raspravno ročište ili neka druga procesna radnja održava izvan sjedišta Izbranog sudišta.
+Naknada troškova iz stavka 1. ovog članka određuje se za arbitre, posrednika, savjetodavce i tajnika Izbranog sudišta uz odgovarajuću primjenu odredaba o naknadi putnih troškova za službena putovanja članova organa Hrvatske gospodarske komore, a zapisničaru uz odgovarajuću primjenu odredaba o tim troškovima za ostale radnike Hrvatske gospodarske komore.
