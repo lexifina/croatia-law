@@ -1,0 +1,7 @@
+# Članak 3.
+ORGANIZACIJA ŽELJEZNIČKOG PROMETA
+Člankom 3. stavkom 5. Sporazuma između Republike Hrvatske i Bosne i Hercegovine o uređenju graničnog željezničkog prometa određena je "razdjelna točka" željezničke pruge Bihać - Knin u km 119+444 bez obzira na to što se pojedini dijelovi odnosno pruge nalaze na području države druge ugovorne stranke.
+Temeljem stavka 1. ovog članka u nadležnosti željezničke uprave Republike Hrvatske bit će dio pruge od km 119+444 do km 155+842, a u nadležnosti željezničkih poduzeća iz Bosne i Hercegovine dio pruge od km 83+002 do km 119+444.
+Nadležna željeznička uprava, odnosno željezničko poduzeće, će svaka na pripadajućem dijelu pruge organizirati promet vlastitim osobljem i sredstvima, održavati prugu i pružna postrojenja kao i otklanjati smetnje i oštećenja na njima izazvane elementarnim nepogodama i izvanrednim događajima. Na ovim dijelovima pruge vrijedit će propisi države nadležne željezničke uprave, odnosno željezničkog poduzeća.
+Nadležna inspekcija za sigurnost željezničkog prometa Republike Hrvatske vršit će inspekcijski nadzor nad dijelom pruge od km 119+444 do km 155+842 na temelju unutarnjih propisa Republike Hrvatske, a nadležna inspekcija za sigurnost željezničkog prometa Bosne i Hercegovine od km 83+002 do km 119+444 na temelju unutarnjih propisa Bosne i Hercegovine.
+Na dijelovima pruge iz stavka 2. ovog članka nadležna željeznička uprava, odnosno željezničko poduzeće ima pravo ubirati prihode od prijevoza putnika i robe.

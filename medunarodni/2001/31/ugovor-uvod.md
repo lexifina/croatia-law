@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU REPUBLIKE HRVATSKE I BOSNE i HERCEGOVINE O NAČINU KORIŠTENJA I ODRŽAVANJA ŽELJEZNIČKE PRUGE BIHAĆ - KNIN I OBAVLJANJU NADZORA OD STRANE DRŽAVNIH GRANIČNIH TIJELA
+Republika Hrvatska i Bosna i Hercegovina (u daljnjem tekstu "ugovorne stranke") na temelju članka 3. stavka 5. Sporazuma između Republike Hrvatske i Bosne i Hercegovine o uređenju graničnog željezničkog prometa, sporazumjele su se o sljedećem:
