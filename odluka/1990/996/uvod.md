@@ -1,0 +1,1 @@
+Na temelju člana 60. Poslovnika Sabora Republike Hrvatske, Sabor Republike Hrvatske, na sjednici Vijeća udruženog rada 7. prosinca 1990, Vijeća općina 7. prosinca 1990. i Društveno-političkog vijeća 7. prosinca 1990, donio je

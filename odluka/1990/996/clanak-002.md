@@ -1,0 +1,3 @@
+# Članak 2.
+Odbor za zaštitu ljudskih prava ima predsjednika i 20 članova. Predsjednik i članovi Odbora biraju se među zastupnicima u Saboru Republike Hrvatske. Predsjednik i članovi Odbora biraju se na vrijeme od 4 godine. Predsjednika i članove Odbora biraju i razrješavaju vijeća Sabora Republike Hrvatske na zajedničkoj sjednici.
+Svaka stranka koja je sudjelovala na izborima i koja ima zastupnika u Saboru Republike Hrvatske, zastupljena je u Odboru sa po jednim članom. Stranke koje imaju više zastupnika sudjelovat će, u načelu, proporcionalno broju svojih zastupnika u Saboru Republike Hrvatske.
