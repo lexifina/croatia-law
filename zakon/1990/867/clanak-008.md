@@ -1,0 +1,3 @@
+# Članak 8.
+Odbornici u Skupštini Gradske zajednice Zagreb te zastupnici izabrani u Vijeće općina Sabora Republike Hrvatske u izbornim jedinicama koje su činila područja općina iz stavka 1. članka 1. ovoga zakona i zastupnik izabran u izbornoj jedinici koju je činilo područje Gradske zajednice Zagreb, nastavljaju mandat kao odbornici odnosno zastupnici Grada Zagreba.
+Ako odborniku odnosno zastupniku iz stavka 1. ovoga članka prestane mandat prije isteka mandatnog razdoblja na koje je biran, novi odbornik odnosno zastupnik birat će se u izbornoj jedinici koju čini područje izborne jedinice u kojoj je biran dotadašnji odbornik odnosno zastupnik.
