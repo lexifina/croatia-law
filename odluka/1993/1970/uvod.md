@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o teritorijalnoj nadležnosti i sjedištima općinskih, okružnih i okružnih privrednih sudova ("Narodne novine", broj 25/77, 50/78, 34/79, 46/79 i 3/9l), Vlada Republike Hrvatske je, na sjednici održanoj 9. studenoga 1993. donijela
