@@ -1,0 +1,8 @@
+# Članak 10.
+(1) Agencija izdaje dozvolu za uporabu radijskih frekvencija koncesionaru javnih telekomunikacijskih usluga u pokretnoj telekomunikacijskoj mreži uz uporabu radiofrekvencijskog spektra u skladu s člankom 85. Zakona o telekomunikacijama.
+(2) Koncesionar iz stavka 1. ovoga članka obvezan je, u roku od osam dana od dana postavljanja svake osnovne postaje u sklopu svoje pokretne telekomunikacijske mreže, prijaviti Agenciji podatke o zemljopisnoj lokaciji i tehničke podatke o toj osnovnoj postaji, koji moraju sadržavati i podatke iz članka 9. stavka 2. ovoga Pravilnika.
+(3) Agencija može, na temelju prijavljenih podataka iz stavka 2. ovoga članka, prema potrebi odrediti obavljanje dodatnih izračuna i mjerenja veličina elektromagnetskih polja koja osnovna postaja stvara na mjestu postavljanja.
+(4) Na temelju prijave koncesionara iz stavka 2. ovoga članka, te obavljenih izračuna i mjerenja iz stavka 3. ovoga članka, Agencija izdaje potvrdu o sigurnosti za svaku postavljenu osnovnu postaju u pokretnoj telekomunikacijskoj mreži, kojom se potvrđuje da ta osnovna postaja ne stvara elektromagnetska polja kojima razine prelaze vrijednosti propisane ovim Pravilnikom.
+(5) Potvrda o sigurnosti iz stavka 4. ovoga članka predstavlja uvjet za izdavanje uporabne dozvole za osnovnu postaju, koja se izdaje prema posebnom zakonu kojim je uređeno građenje.
+(6) Agencija vodi popis osnovnih postaja svih koncesionara iz stavka 1. ovoga članka, sa svim podacima iz stavka 2. ovoga članka.
+(7) Popis osnovnih postaja iz stavka 6. ovoga članka Agencija dostavlja ministarstvu nadležnom za zdravstvo, na njegov zahtjev, a najmanje jedanput godišnje.

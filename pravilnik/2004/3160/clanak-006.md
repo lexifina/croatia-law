@@ -1,0 +1,6 @@
+## Referentne razine veličina elektromagnetskog polja za RiTT opremu
+# Članak 6.
+(1) Referentne razine veličina elektromagnetskog polja izvedene su iz odgovarajućih temeljnih ograničenja i navedene u tablici 3. danoj u dodatku 2., koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio.
+(2) Vrijednosti izmjerenih veličina elektromagnetskog polja, koje stvara RiTT oprema, uspoređuje se s referentnim razinama iz stavka 1. ovoga članka u svrhu utvrđivanja prekoračenja temeljnih ograničenja. Ako su zadovoljene referentne razine, smatra se da su zadovoljena i temeljna ograničenja.
+(3) Ako vrijednosti izmjerenih veličina elektromagnetskog polja, koje stvara RiTT oprema, prelaze referentne razine iz stavka 1. ovoga članka, provest će se dodatni izračuni i/ili mjerenja veličina elektromagnetskog polja u svrhu utvrđivanja prekoračenja temeljnih ograničenja.
+(4) U slučaju izrazito lokaliziranog izlaganja djelovanju elektromagnetskih polja, kao npr. kod pokretnih radijskih postaja koje se prislanjaju uz glavu, vrijednosti izmjerenih veličina elektromagnetskog polja ne uspoređuju se s referentnim razinama iz stavka 1. ovoga članka, nego moraju zadovoljavati temeljna ograničenja iz članka 5. ovoga Pravilnika.
