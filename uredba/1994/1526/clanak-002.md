@@ -1,0 +1,2 @@
+# Članak 2.
+Sredstvima iz članka 1. ove Uredbe Republika Hrvatska otkupljuje od banaka dio obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj u revaloriziranoj vrijednosti sukladno članku 5. Zakona o izdavanju obveznica za restrukturiranje gospodarstva u Republici Hrvatskoj (Narodne novine, broj 27/91) sa stanjem 31. kolovoza 1994. godine. Ministar financija i guverner Narodne banke Hrvatske utvrdit će koji se iznos obveznica otkupljuje sredstvima iz članka 1. ove Uredbe.
