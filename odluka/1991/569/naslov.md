@@ -1,0 +1,1 @@
+Odluka o utvrđivanju općeg interesa za izgradnju Brze ceste kroz Karlovac - Splitski pravac, dionica od čvorišta Mostanje do priključka na postojeću cestu MC-11 prema Splitu i to od km 1 + 700 do km 7
