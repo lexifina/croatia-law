@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐudrŽavnog cestovnog graniČnog prijelaza II. kategorije Baranjsko Petrovo Selo
+# Članak 1.
+Područje stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Baranjsko Petrovo Selo, na državnoj granici s Republikom Mađarskom, nalazi se na k.č. 1483 i 1607/2, k.o. Baranjsko Petrovo Selo, te obuhvaća: prostor na kojem se nalazi državna cesta DC-211, koja se proteže od državne granice s Republikom Mađarskom, sjeverno 43,50 metara do mjesta obavljanja granične kontrole i od mjesta obavljanja granične kontrole u dubinu teritorija Republike Hrvatske 150 metara, a širine 8 metara. Uz državnu cestu s desne istočne strane nalazi se prostor za parkiranje osobnih vozila u dužini 23,50 metara i širini 5 metara.
+Područje graničnog prijelaza obuhvaća zgradu stalnog međudržavnog graničnog prijelaza s prostorijama granične policije i carine, na koju se nadovezuje nadstrešnica, kao i rampu koja pokriva ulazno-izlaznu traku dimenzija 28 x 8 metara.
+Ukupna površina područja graničnog prijelaza Baranjsko Petrovo Selo iznosi 1 902 m2.
