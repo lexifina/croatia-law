@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 4. Pomorskog zakonika (»Narodne novine«, br. 17/94, 74/94 i 43/96) i članka 28. stavka 3. Zakona o morskim lukama (»Narodne novine«, br. 108/95 i 97/2000), Vlada Republike Hrvatske je na sjednici održanoj 22. svibnja 2003. godine donijela
