@@ -1,0 +1,14 @@
+Prednja strana _________________________________________________________________________
+REPUBLIKA HRVATSKA MINISTARSTVO ENERGETIKE I INDUSTRIJE
+ISKAZNICA RUDARSKOG INSPEKTORA
+______________________________ (Ime i prezime inspektora)
+_________________________________________________________________________
+Poleđina _________________________________________________________________________
+OVLAŠTENJE
+OVLAŠTEN JE U OKVIRU SVOJE NADLEŽNOSTI UTVRĐENE ZAKONOM I DRUGIM PROPISIMA OBAVLJATI POSLOVE RUDARSKE INSPEKCIJE
+Ev. broj iskaznice:___________
+Datum izdavanja iskaznice ________________
+M.P.
+__________________________ (MINISTAR)
+ISKAZNICA VRIJEDI DO OPOZIVA
+_________________________________________________________________________
