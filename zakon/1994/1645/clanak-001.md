@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o zapošljavanju ("Narodne novine", br. 55/90. - pročišćeni tekst, 19/91, 26/93., 117/93. i 76/94.) u članku 71. stavku 1. alineji 1. riječi: "2%" zamjenjuje se rijećima: " 1,9%". Stavak 2. mijenja se i glasi: "Plaćom se u smislu ovoga Zakona smatra sve što poslodavac plaća ili deje posloprimcu na osnovi radnog odnosa, osim iznosa koji se ne smatraju dohotkom od nesamostalnog rada ili naknade, potpore i nagrade koje se ne oporezuju u smislu propisa o porezu na dohodak".
