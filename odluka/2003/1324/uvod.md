@@ -1,0 +1,1 @@
+Na osnovi članka 26. stavka 1. Zakona o izboru članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 33/01, 10/02 i 45/03), Državno izborno povjerenstvo Republike Hrvatske, na sjednici održanoj 18. lipnja 2003. godine, donijelo je
