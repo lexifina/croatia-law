@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Za ravnatelja javnih ustanova u kulturi mogu se imenovati osobe: koje imaju visoku stručnu spremu, položen stručni ispit ako je propisan za obavljanje djelatnosti ustanove, koje se odlikuju stručnim, radnim i organizacijskim sposobnostima te ispunjavaju ostale uvjete određene posebnim zakonom, aktom o osnivanju ustanove ili njezinim statutom.
+(2) Iznimno, za ravnatelja javnih ustanova u kulturi mogu se imenovati osobe koje, pored uvjeta iz stavka 1. ovoga članka, nemaju visoku stručnu spremu, ako su istaknuti i priznati stručnjaci na području kulture i s najmanje deset godina radnog staža.
