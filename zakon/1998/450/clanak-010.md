@@ -1,0 +1,5 @@
+## Rješenje kojim se utvrđuje prestanak radnog odnosa donosi državni odvjetnik."
+# Članak 10.
+U članku 74. dodaje se novi stavak 1. koji glasi:
+"Državnom odvjetniku, odnosno zamjeniku državnog odvjetnika koji ne bude ponovno imenovan po odredbama ovoga Zakona državnoodvjetnička dužnost prestaje danom donošenja odluke Državnog sudbenog vijeća o imenovanju državnog odvjetnika, odnosno zamjenika državnog odvjetnika u odgovarajućem državnom odvjetništvu, ako je podnio prijavu za imenovanje. Istoga dana državnoodvjetnička dužnost prestaje državnom odvjetniku, odnosno zamjeniku državnog odvjetnika koji nije podnio prijavu na oglas o slobodnom mjestu državnog odvjetnika, odnosno zamjenika državnog odvjetnika u državnom odvjetništvu u kojem je bio državni odvjetnik, odnosno zamjenik državnog odvjetnika po dosadašnjim propisima."
+U dosadašnjem stavku 1. koji postaje stavak 2. iza riječi: "odvjetnika" riječi: "koji ne bude ponovno imenovan za državnog odvjetnika odnosno zamjenika državnog odvjetnika po odredbama ovoga Zakona" zamjenjuju se riječima: "iz stavka 1. ovoga članka".
