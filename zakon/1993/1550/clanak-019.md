@@ -1,0 +1,6 @@
+# Članak 19.
+Dio sredstava za rad političkih stranaka čiji su kandidati na izborima izabrani za zastupnike u Sabor Republike Hrvatske, osiguravaju se godišnje u državnom proračunu.
+Sredstva za rad političke stranke iz stavka 1. ovoga članka osiguravaju se u iznosu od dvadesetčetiri prosječne bruto osnovice za obračun plaće djelatnika i dužnosnika zaposlenih u državnim tijelima Republike Hrvatske.
+Osim sredstava iz stavka 2. ovoga članka, političkim strankama osiguravaju se i sredstva razmjerno broju njihovih zastupnika u Saboru Republike Hrvatske, tako da se ukupan iznos sredstava predviđen po kriteriju iz stavka 2. ovoga članka trostruko uveća, podijeli ukupnim brojem zastupničkih mjesta u Saboru Republike Hrvatske te pomnoži s brojem zastupnika pojedine političke stranke.
+Ako je zastupnik izabran kao kandidat dvije ili više političkih stranaka, sredstva iz stavka 3. ovoga članka dijele se među tim političkim strankama na jednake dijelove, a ako politička stranka nema najmanje jednog kandidata izabranog za zastupnika u Sabor Republike Hrvatske u smislu ovoga članka, ne sudjeluje u raspodjeli sredstava iz stavka 2. ovoga članka.
+Sredstva za rad političkih stranaka raspoređuje Odbor za izbor, imenovanja i administrativne poslove Zastupničkog doma Sabora Republike Hrvatske
