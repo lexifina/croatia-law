@@ -1,0 +1,5 @@
+## IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 39.
+(1) Ovisna društva i Hrvatska elektroprivreda d.d. kao vladajuće društvo, unutar vertikalno integriranog poduzeća (HEP Grupa), nastavljaju obavljati regulirane djelatnosti kao javne usluge za električnu energiju u Republici Hrvatskoj, od dana stupanja na snagu ovoga Zakona.
+(2) Hrvatska elektroprivreda d.d. dužna je uskladiti organizaciju vertikalno integriranog poduzeća iz stavka 1. ovoga članka s odredbama Zakona o energiji i odredbama ovoga Zakona u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona, s time da operator distribucijskog sustava nastavlja s obavljanjem djelatnosti distribucije električne energije i opskrbe električnom energijom do 1. srpnja 2007.
+(3) Operator distribucijskog sustava, do roka iz stavka 2. ovoga članka, dužan je voditi odvojene poslovne knjige za djelatnost opskrbe povlaštenih kupaca i opskrbe tarifnih kupaca, kao i opskrbe kupaca električnom energijom koji ostanu bez opskrbljivača ili im opskrbljivač prestane s radom.

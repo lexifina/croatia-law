@@ -1,0 +1,10 @@
+## C. Opskrba električnom energijom
+# Članak 26.
+(1) Opskrba električnom energijom je energetska djelatnost neovisna od djelatnosti prijenosa i distribucije električne energije, a odnosi se na kupnju električne energije i prodaju električne energije kupcima. Postupak prodaje električne energije obuhvaća obradu obračunskih elemenata, obračun potrošnje električne energije, ispostavu računa i naplatu obračunate električne energije za svako mjerno mjesto, prema ugovorenim odnosima za povlaštene kupce ili reguliranim odnosima za tarifne kupce.
+(2) Opskrbljivač povlaštenih kupaca je svaki energetski subjekt koji pruža usluge opskrbe povlaštenim kupcima nakon što pribavi dozvolu za obavljanje djelatnosti opskrbe električnom energijom.
+(3) Opskrbljivač tarifnih kupaca je energetski subjekt koji ima dozvolu za obavljanje djelatnosti opskrbe električnom energijom i obvezu javne usluge opskrbe tarifnih kupaca električnom energijom.
+(4) Vlada Republike Hrvatske uredbom propisuje minimalni udjel električne energije proizvedene iz obnovljivih izvora energije i kogeneracije, koji je obvezan preuzeti svaki energetski subjekt za opskrbu električnom energijom, vodeći pri tomu računa o potencijalima pojedinoga obnovljivog izvora energije, kogeneracije i o zaštiti okoliša.
+(5) Opskrbljivač električne energije je obvezan da u računu ili u prilogu računa te u promocijskim materijalima koji su dostupni krajnjem kupcu navede barem jedanput godišnje:
+- udjel pojedinog izvora energije u izvorima koje je koristio za zadovoljavanje potreba kupaca
+- upućivanje na postojeće izvore informacija, primjerice internetske stranice, gdje su javnosti dostupne informacije o utjecaju na okoliš, u smislu ispuštanja ugljik-dioksida i radioaktivnog otpada kao posljedice proizvodnje električne energije iz svih goriva za cjelokupnu proizvodnju koje je koristio u prošloj godini.
+(6) Podaci iz stavka 5. ovoga članka moraju odgovarati podacima iz ostvarene energetske bilance Republike Hrvatske za prethodnu godinu.

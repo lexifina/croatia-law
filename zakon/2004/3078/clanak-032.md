@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Nakon stjecanja statusa, povlašteni kupac treba u roku od šest mjeseci izabrati svog opskrbljivača, a u tom razdoblju ima pravo na opskrbu električnom energijom putem nositelja obveze javne usluge opskrbe, prema tarifnom sustavu opskrbe električne energije s iznimkom povlaštenih kupaca.
+(2) Povlašteni kupac iz kategorije kućanstvo ili mali kupac koji ne želi koristiti pravo povlaštenog kupca ili ne uspije pronaći opskrbljivača, ugovara opskrbu električnom energijom s nositeljem obveze javne usluge opskrbe prema tarifnom sustavu opskrbe električne energije s iznimkom povlaštenih kupaca.
+(3) Povlašteni kupac čiji opskrbljivač prestane s radom mora u roku od 30 dana pronaći novog opskrbljivača, a u tom razdoblju ima pravo na opskrbu električnom energijom putem nositelja obveze javne usluge opskrbe, prema tarifnom sustavu opskrbe električne energije s iznimkom povlaštenih kupaca.
