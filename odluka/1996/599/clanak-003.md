@@ -1,0 +1,3 @@
+# Članak 3.
+Minimalni broj zaposlenika uprave pojedinog doma zdravlja iz članka 2. ove Odluke utvrđuje se sukladno kriterijima iz članka 2. ove Odluke ugovorom, koji dom zdravlja sklapa sa Zavodom za svaku kalendarsku godinu, do okončanja postupka zakupljivanja zdravstvenih ustanova primarne zdravstvene zaštite u vlasništvu županija propisanog Pravilnikom.
+Za ugovorom utvrđeni broj zaposlenika uprave doma zdravlja iz stavke 1. ovog članka Zavod će osigurati sredstva za plaće sukladno općem aktu Zavoda i odredbama Zakona o plaćama službenika i namještenika u javnim službama ("Narodne novine" broj 74/94), kolektivnom ugovoru za djelatnost zdravstva, odnosno općem aktu doma zdravlja.
