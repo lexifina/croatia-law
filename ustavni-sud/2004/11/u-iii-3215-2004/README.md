@@ -1,0 +1,9 @@
+# Odbačaj radi nenadležnosti Ustavnog suda Republike Hrvatske broj: U-III-3215/2004 od 26. studenoga 2004.
+
+- Case: `U-III-3215/2004`
+- Decision: Odbačaj radi nenadležnosti
+- Decision date: `2004-11-26`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C1256A25004A262AC1256F5B00385A3D>
+- Official database page SHA-256: `1c08300412c5ab665d09f8ee2d0058c6746833fd432a0f1a133156d4a0305d1d`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
