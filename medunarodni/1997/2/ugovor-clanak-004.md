@@ -1,0 +1,4 @@
+# Članak 4.
+1. Svaka Ugovorna stranka primjenjivat će na svojem teritoriju i u području mora prema ulagateljima druge Ugovorne stranke, kad se radi o njihovim ulaganjima i aktivnostima povezanim s tim ulaganjima, postupak ne manje povoljan od onog što ga jamči vlastitim ulagateljima ili ulagateljima prema kojima primjenjuje postupak najvećeg povlašćenja, ako je ovo posljednje povoljnije. U svezi s tim, državljani s dozvolom rada na teritoriju i u području mora jedne Ugovorne stranke uživat će materijalne pogodnosti koje su relevantne za izvršenje njihovih profesionalnih aktivnosti.
+2. Ovaj postupak međutim ne uključuje privilegije koje jedna Ugovorna stranka pruža ulagateljima neke treće države temeljem njihovog udjela ili udruženja u slobodnu trgovačku zonu, carinsku uniju, zajedničko tržište ili bilo koji drugi oblik regionalne gospodarske organizacije.
+3. Odredbe ovog članka se ne odnose na problematiku oporezivanja.
