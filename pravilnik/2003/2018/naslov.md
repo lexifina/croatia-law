@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o tipu zrakoplova i zrakoplovnog uređaja koji podliježu postupku homologacije i postupku utvrđivanja sukladnosti s tehničkim zahtjevima za plovidbenost zrak
