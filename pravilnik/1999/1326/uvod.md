@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 5. i članka 34. stavka 2. Zakona o veterinarskim lijekovima i veterinarsko-medicinskim proizvodima ("Narodne novine", broj 79/98.) i članka 83. stavka 7. Zakona o veterinarstvu ("Narodne novine", broj 70/97.), ministar poljoprivrede i šumarstva donosi
