@@ -1,0 +1,1 @@
+Na temelju članka 17. i 39. stavka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/93.), a u svezi sa Zakonom o Fondu za razvoj i zapošljavanje (»Narodne novine«, broj 107/01) ministrica turizma donosi
