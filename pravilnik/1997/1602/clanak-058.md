@@ -1,0 +1,3 @@
+# Članak 58.
+Obrazac dozvole iz članka 52. ovog pravilnika sadrži: grb Republike Hrvatske, naziv organa uprave koji izdaje dozvolu i naziv dozvole te rubrike u koje se unosi: registarski broj, ime, prezime i adresa imatelja dozvole, datum izdavanja dozvole te potpis ovlaštene osobe koja je izdala dozvolu. Na obrascu dozvole za rad postoji mjesto za fotografiju i potpis imatelja dozvole, mjesto za upisivanje produljenja roka važenja dozvole te upisivanje ovlasti za obavljanje posebnih stručnih poslova.
+Obrazac dozvole za rad je dvodjelan, formata 95x75 mm tiskan na hrvatskom jeziku i na engleskom jeziku.

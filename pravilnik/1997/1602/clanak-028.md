@@ -1,0 +1,2 @@
+# Članak 28.
+Poslove organiziranja i koordiniranja prihvata i otpreme zrakoplova, putnika i stvari može obavljati koordinator prometa koji ima najmanje diplomski studij zrakoplovnog smjera u trajanju od najmanje dvije godine, koji je najmanje jednu godinu samostalno radio na poslovima kontrolora opsluživanja zrakoplova, putnika i stvari, te koji je jednu godinu pod nadzorom obavljao poslove koordinatora prometa te ima položen ispit i potvrdu o obučenosti.

@@ -1,0 +1,2 @@
+# Članak 31.
+Poslove opterećenja i centraže zrakoplova može obavljati balanser zrakoplova koji ima najmanje srednju stručnu spremu zrakoplovnog smjera, koji je najmanje šest mjeseci obavljao te poslove pod nadzorom i koji ima položen ispit i dozvolu, odnosno osoba koja ima najmanje srednju stručnu spremu, koja je najmanje jednu godinu obavljala te poslove pod nadzorom i koja ima položen ispit i dozvolu.

@@ -1,0 +1,2 @@
+# Članak 9.
+Poslove instruktora protupožarne zaštite zrakoplova i aerodroma može obavljati osoba koja ima najmanje diplomski studij tehničkog smjera u trajanju od najmanje dvije godine, važeću dozvolu za rad i koja ima najmanje tri godine iskustva na poslovima organiziranja i koordiniranja protupožarne zaštite zrakoplova i aerodroma, koja je položila poseban ispit za instruktora i kojoj je u važeću dozvolu za rad upisano ovlaštenje za obavljanje tih poslova.

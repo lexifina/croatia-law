@@ -1,0 +1,2 @@
+# Članak 34.
+Poslove instruktora prihvata i otpreme zrakoplova, putnika i stvari može obavljati osoba koja ima najmanje diplomski studij zrakoplovnog smjera u trajanju od najmanje dvije godine, koja ima vežeću dozvolu kontrolora opsluživanja zrakoplova, koja ima najmanje tri godine iskustva na tim poslovima, koja je položila poseban ispit za instruktora i kojoj je u dozvolu upisano ovlaštenje za obavljanje tih poslova.
