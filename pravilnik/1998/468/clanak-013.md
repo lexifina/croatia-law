@@ -1,0 +1,2 @@
+# Članak 13.
+Svaka pravna osoba i osoba koja samostalno osobnim radom obavlja djelatnost DDD-a mora imati iskaznicu, izrađenu od tvrdog papira, dimenzija 105 ¤ 70 mm, prema obrascu koji je sastavni dio ovoga Pravilnika (obrazac broj 1). Iskaznica osobe kojoj je odobrena uporaba otrova I, II i III grupe označena je crvenom bojom, a iskaznica kojom je odobrena uporaba otrova II i III grupe označena je zelenom bojom.

@@ -1,0 +1,2 @@
+# Članak 3.
+Ako sanitarna inspekcija Ministarstva zdravstva u okviru svojih nadležnosti utvrdi da zdravstvene ustanove i druge pravne osobe, te osobe koje samostalno osobnim radom obavljaju djelatnost DDD, ne obavljaju mjeru dezinfekcije, dezinsekcije i deratizacije u skladu s dobivenim odobrenjem, odobrenje za obavljanje preventivne DDD oduzet će se i prije roka iz stavka 2. i 3. članka 2. ovoga Pravilnika.
