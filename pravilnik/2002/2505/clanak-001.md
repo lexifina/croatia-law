@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o Upisniku ugovora o zastupanju turističkih zastupnika (»Narodne novine«, broj 62/96.) članak 3. stavak 2. mijenja se i glasi:
+»U ugovoru o zastupanju, obvezno se navode podaci o turističkom zastupniku (ime i prezime, prebivalište, državljanstvo, broj osobne iskaznice, odnosno broj putovnice ako se radi o stranom turističkom zastupniku), tvrtka i sjedište organizatora putovanja/posrednika, datum sklapanja ugovora, vrijeme trajanja ugovora, turističko područje na kojem turistički zastupnik zastupa organizatora putovanja/posrednika i ugostiteljski objekt za smještaj, odnosno adresa boravka turističkog zastupnika za vrijeme trajanja ugovora o zastupanju.«
