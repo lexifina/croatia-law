@@ -1,0 +1,3 @@
+## o izmjeni i dopuni Zakona o neposrednim porezima
+# Članak 1.
+U Zakonu o neposrednim porezima ("Narodne novine", br. 19/90., 28/90.,14/91., 73/91. i 25/93.) u članku 36. točka 14. mijenja se i glasi: "14. plaća djelatnika zaposlenih u poduzećima za zapošljavanje invalida, kao ni iz nagrada osoba, koje se nalaze na profesionalnoj rehabilitaciji u tim poduzećima, ako ta poduzeća zapošljavaju više od 40 posto invalidnih osoba. Ako ova poduzeća zapošljavaju manje od 40 posto invalidnih osoba, porez iz plaća ne plaća se samo iz plaća invalidnih osoba i nagrada osoba, koje se nalaze na profesionalnoj rehabilitaciji u tim poduzećima."
