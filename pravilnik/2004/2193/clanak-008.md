@@ -1,0 +1,4 @@
+# Članak 8.
+Zavod će izdati certifikat o homologaciji za vozilo, sustav, sastavni dio ili zasebnu tehničku jedinicu ako ispunjavaju tehničke zahtjeve propisane posebnim pravilnicima.
+Zavod će odbiti zahtjev za izdavanje certifikata o homologaciji ako utvrdi da vozilo, sustav, sastavni dio ili zasebna tehnička jedinica, bez obzira na ispunjavanje svih propisanih tehničkih zahtjeva, predstavljaju opasnost za cestovni promet.
+Kod homologacije sastavnoga dijela ili zasebne tehničke jedinice koji mogu djelovati ili imati specifično svojstvo samo zajedno s drugim dijelovima vozila te je zato moguće provjeravati sukladnost samo u vezi s drugim dijelovima vozila, opseg homologacije sastavnog dijela ili zasebne tehničke jedinice treba odgovarajuće ograničiti. U certifikatu o homologaciji sastavnog dijela ili zasebne tehničke jedinice moraju biti navedena ograničenja za njihovu uporabu i uvjeti za ispravnu ugradbu.

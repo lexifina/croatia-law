@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovaj pravilnik uređuje homologaciju tipa (u daljnjemu tekstu: homologacija) motornih vozila na dva ili tri kotača (u daljnjemu tekstu: vozila), sa ili bez dvostrukih kotača, koja su namijenjena za vožnju po cesti, te homologaciju sustava, sastavnih dijelova i zasebnih tehničkih jedinica koje su namijenjene za uporabu na takvim vozilima.
+Ovaj pravilnik propisuje postupke homologacije i izdavanje potvrde o sukladnosti vozila koje provodi proizvođač. Homologacija i potvrda o sukladnosti vozila su uvjet za stavljanje na tržište, registraciju i početak uporabe novih vozila. Time se osigurava da u cestovnome prometu sudjeluju samo vozila koja, s obzirom na njihovu konstrukciju i djelovanje, ne ugrožavaju sigurnost njihovih vozača i suputnika te drugih sudionika u prometu, ne oštećuju cestu i ne onečišćuju okoliš izvan dopuštenih granica.

@@ -1,0 +1,3 @@
+# Članak 11.
+lznimno od odredbe iz stavka 1. članka 10., za potrebe registracije vozila ili oporezivanja, Zavod može u roku od tri mjeseca od obavijesti Komisije Europske unije (u daljnjemu tekstu: Komisija) i drugih država članica zahtijevati da se osim podataka iz priloga IV. A ovoga pravilnika navedu dodatni podaci u potvrdi o sukladnosti, ako su ti podaci navedeni u opisnoj dokumentaciji, ili se mogu posredno izvesti iz nje.
+Zavod može zahtijevati od proizvođača da se u potvrdi o sukladnosti iz priloga IV. A ovoga pravilnika posebno istaknu dodani podaci za potrebe oporezivanja i registracije.

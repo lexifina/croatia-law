@@ -1,0 +1,3 @@
+# Članak 20.
+Odstupanja pojedinih značajka vozila, sustava, sastavnog dijela ili zasebne tehničke jedinice od podataka u certifikatu o homologaciji ili u opisnoj dokumentaciji, koja nije odobrio Zavod smatraju se nesukladnošću s homologiranim tipom.
+Kad Zavod u postupku nadzora utvrdi nesukladnost iz stavka 1. ovoga članka za vozila, sustave, sastavne dijelove ili zasebne tehničke jedinice, iako imaju valjanu potvrdu o sukladnosti ili nose valjanu homologacijsku oznaku, privremeno će povući certifikat o homologaciji navodeći razlog nesukladnosti i rok u kojem treba otkloniti tu nesukladnost. Ako proizvođač ne otkloni nesukladnost u određenom roku, Zavod će ukinuti certifikat o homologaciji.

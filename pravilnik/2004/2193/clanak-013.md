@@ -1,0 +1,4 @@
+# Članak 13.
+Proizvođač mora svako vozilo koje je u skladu s homologiranim tipom označiti s homologacijskom oznakom koja se sastoji od 1., 3. i 4. dijela homologacijskog broja prikazanog u prilogu V. A ovoga pravilnika.
+Svaka zasebna tehnička jedinica i svaki sastavni dio, koji su u skladu s homologiranim tipom, moraju, ako je to propisano odgovarajućem posebnim pravilnikom, biti označeni homologacijskom oznakom iz priloga V. B ovoga pravilnika. Homologacijski broj iz točke 1.2 priloga V. B ovoga pravilnika mora uključivati 4. dio homologacijskog broja prikazanog u prilogu V. A ovoga pravilnika.
+Podaci koji su sadržani u homologacijskoj oznaci mogu se dopunjavati dodatnim podacima koji omogućavaju prepoznavanje određenih značajka koje su specifične za određeni sastavni dio ili zasebnu tehničku jedinicu. Ti podaci određeni su u odgovarajućim posebnim pravilnicima.
