@@ -1,0 +1,2 @@
+# Članak 10.
+Kada nadležno tijelo zamijeni osobnu iskaznicu koju je izdalo drugo nadležno tijelo ili na osobnu iskaznicu koju je idalo drugo nadležno tijelo upiše promijenjeni podatak o prebivalištu i adresi stanovanja, o tome je dužno u roku 15 dana izvijestiti nadležno tijelo koje je izdalo osobnu iskaznicu, uz naznaku serije i serijskog broja nove osobne iskaznice i drugih promijenjenih podataka na osobnoj iskaznici.
