@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 8. stavci 1. i 2. mijenjaju se i glase: "Osobe iz članka 7. stavka 1. ovoga Zakona dužne su uplatiti boravišnu pristojbu u roku od pet dana po isteku svakih deset dana u mjesecu, odnosno po isteku mjeseca, na poseban prijelazni račun turističke zajednice općine. Turistička zajednica općine tri dana od proteka roka za uplatu iz stavka 1. ovoga članka, doznačuje sredstva korisnicirna iz članka 6. ovoga Zakona."

@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 10. stavku 1. riječi: "od 10.000 do 100.000 dinara" zamjenjuju se riječima: "u dinarskoj protuvrijednosti od 200 dpo 1.600 DEM". Točka 2. rnijenja se i glasi: "2. boravišnu pristojbu ne uplati u roku od pet dana po isteku svakih deset dana, u mjesecu, odnosno po isteku mjeseca. na poseban prijelazni račun turističke zajednice općine (članak 8. stavak 1. i 3.)". U stavku 2. riječi: "od 5.000 do 20.000 dinara" zamjenjuju se riječima: "u dinarskoj protuvrijednosti od 100 do 500 DEM". U stavku 3. riječi: "od 5.000 do 50.000 dinara" zamjenjuju se riječima: "u dinarskoj protuvrijednosti od 100 do 500 DEM". Članak 4. Iza članka l0. dodaje se članak 10a. koji glasi: "Članak 10a. Iznosi novčanih kazni iz članka 10. ovoga Zakona revalorizirat će se po srednjem tečaju Narodne banke Hrvatske na dan naplate kazne. "
+Članak 5.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o izmjeni Zakona o boravišnoj pristojbi ("Narodne novine", br. 53/93.) i Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi ("Narodne novine", br. 73/93.) te se stavlja izvan snage točka 26. i 27. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", br. 100/93.).
+Članak 6.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama"
