@@ -1,0 +1,1 @@
+Na temelju članka 3. stavak 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 41/90, 9/91, 14/91, 53A/91, 9/92 i 55/92) u svezi sa člankom 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/91), Vlada Republike Hrvatske na sjednici održanoj 22. rujna 1992., donijela je
