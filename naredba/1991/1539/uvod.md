@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o preuzimanju saveznih zakona iz područja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine" 53/91) i članka 16. stavka 2. Zakona o sistemu društvene kontrole cijena ("Službeni list" 84/89), ministar trgovine donosi
