@@ -1,0 +1,2 @@
+# Članak 8.
+Ako korisnik sredstava dodijeljena sredstva ne koristi na način i za namjene utvrđene ugovorom o korištenju sredstava, odnosno ne izvršava ugovorene obveze, Fond će obustaviti dodjelu sredstava, a korisnik sredstava je dužan nenamjenski utrošena sredstva vratiti Fondu u roku od 15 dana od primitka pisanoga zahtjeva za povrat, zajedno sa zakonskom zateznom kamatom tekućom od dana primitka sredstava pa do dana povrata na račun Fonda.

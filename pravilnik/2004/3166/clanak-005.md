@@ -1,0 +1,5 @@
+# Članak 5.
+Fond ima pravo u svako doba putem svojih ovlaštenih osoba nadzirati namjensko korištenje sredstava Fonda i izvršenje prava i obveza korisnika sredstava iz ugovora o korištenju sredstava Fonda.
+Namjensko korištenje sredstava Fonda i izvršenje prava i obveza korisnika sredstava temeljem ugovora o korištenju sredstava Fonda za realizaciju programa i projekata zaštite okoliša i energetske učinkovitosti prati i nadziru nadležne službe Fonda.
+Ako se u postupku praćenja i nadzora nad namjenskim trošenjem sredstava Fonda i izvršenjem ugovorenih prava i obveza utvrdi potreba za posebnim stručnim znanjima i iskustvima kojima Fond ne raspolaže, direktor Fonda može obavljanje navedene zadaće povjeriti jednoj ili više stručnih osoba, odnosno stručnoj organizaciji.
+Kad ovlaštena osoba Fonda obavlja neposredni očevid na mjestu izvođenja programa, projekta, odnosno slične aktivnosti koja je predmet ugovora o korištenju sredstava Fonda, korisnik sredstava je dužan toj osobi omogućiti uvid u svu dokumentaciju u vezi s programom, projektom, odnosno aktivnošću koja se nadzire.

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se način praćenja namjenskog korištenja sredstava koja Fond za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond) odobrava za financiranje pripreme, provedbe i razvoja programa, projekata i sličnih aktivnosti u području očuvanja, održivog korištenja, zaštite i unaprjeđivanja okoliša i u području energetske učinkovitosti i korištenja obnovljivih izvora energije (u daljnjem tekstu: sredstva Fonda) te način praćenja ugovorenih prava i obveza korisnika.
