@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o službenim sjedištima javnih bilježnika ("Narodne novine", broj 38/94) u članku 9. prema kojem je Raspored javnobilježničkih službenih mjesta i sjedišta njegov sastavni dio u Rasporedu pod rednim brojem 3. u ŽUPANIJI SISAČlČKO-MOSLAVAČKOJ kod nadležnosti Opčinskog suda u Kutini u koloni "Broj javnobilježničkih mjesta" brojka "2" zamjenjuje se brojkom "3", a u koloni "Službeno sjedište javnog bilježnika" u ravnini mjesta Kutina brojka "1" zamjenjuje se brojkom "2".
