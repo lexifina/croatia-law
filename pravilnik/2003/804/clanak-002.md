@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 10. stavak 1. mijenja se i glasi:
+»U prijavi na natječaj obvezatno se naznačuje ponuđena svota naknade za obavljanje djelatnosti otpremničkog ureda na odnosnome graničnom prijelazu, određena mjesečnim iznosom u kunama, koja bi se u tom iznosu uredno mjesečno plaćala kroz cijelo petogodišnje razdoblje važenja odobrenja, iskazuje spremnost za otvaranje jednog ili više otpremničkih ureda (navodeći i broj takvih ureda) na graničnim prijelazima koje odredi Carinska uprava (članak 8. stavak 1. točka a) Zakona), te izjavljuje da djelatnici navedeni za rad na odnosnom graničnom prijelazu nisu prijavljeni i za neki drugi granični prijelaz u istom natječaju.«
