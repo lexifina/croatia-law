@@ -1,0 +1,1 @@
+Na temelju članka 37. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 32/02 i 86/02) i članka 14. Statuta Hrvatskog zavoda za zapošljavanje (»Narodne novine«, br. 118/99) Upravno vijeće Hrvatskog zavoda za zapošljavanje na sjednici od 22. svibnja 2003. godine donijelo je
