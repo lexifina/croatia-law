@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. i članka 143. stavka 3. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 121/03) uz prethodno pribavljeno mišljenje nadležnih komora te na temelju članka 11. stavka 4. i članka 12. stavka 4. Zakona o ljekarništvu (»Narodne novine«, br. 121/03) na prijedlog Hrvatske ljekarničke komore, ministar zdravstva i socijalne skrbi donosi

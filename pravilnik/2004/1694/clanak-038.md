@@ -1,0 +1,3 @@
+## Bolnica
+# Članak 38.
+Za osnivanje i početak rada bolnice odnosno bolničke djelatnosti mora biti osigurana odgovarajuća zgrada koja ispunjava propisane opće higijensko-tehničke uvjete (članak. 3 - 10. ovoga Pravilnika) i imati ovisno o vrsti bolnice najmanje tri bolesničke sobe po odjelu, prostorije za polikliničko-konzilijarnu djelatnost i posebno prostorije za zajedničke specijalističko-dijagnostičke i druge djelatnosti sukladno važećim propisima za te djelatnosti, prostoriju za obavljanje vjerskih obreda, kuhinju, skladišni prostor za hranu, garderobu za zaposlenike, te osigurati opskrbu čistim rubljem i sterilnim materijalom, lijekovima, prostoriju/e za pohranu medicinske dokumentacije i mrtvačnicu.
