@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o preuzimanju saveznih zakona u oblastima poljoprivrede i šumarstva koji se u Republici Hrvatskoj primjenjuju kao republički zakoni i članka 62. Zakona o zaštiti bilja od bolesti i štetočina koje ugrožavaju cijelu zemlju ("Narodne novine", broj 53/91), ministar poljoprivrede, šumarstva i vodoprivrede donosi

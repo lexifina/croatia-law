@@ -1,0 +1,27 @@
+OBRAZAC ISKAZNICE
+Prednja strana
+__________________________________________________________________________________
+REPUBLIKA HRVATSKA
+GRB REPUBLIKE MINISTARSTVO POLJOPRIVREDE,
+HRVATSKE ŠUMARSTVA I VODOPRIVREDE
+ISKAZNICA GRANIČNOG INSPEKTORA
+ZA ZAŠTITU BILJA
+_______________________________
+(ime)
+_______________________________
+(prezime)
+JMBG____________________ _______________________________
+(Granična stanica za zaštitu bilja)
+__________________________________________________________________________________
+Poleđina
+__________________________________________________________________________________
+Nositelj ove iskaznice ima pravo i dužnost provoditi zdravstvenu kontrolu bilja i kontrolu sredstava za zaštitu bilja u prometu preko granice Republike Hrvatske, kao i sva druga prava i dužnosti koja mu po Zakonu pripadaju.
+Datum izdavanja: M.P. ____________
+MINISTAR
+Stalno odobrenje za kretanje i zadržavanje vrijedi za granične prijelaze Granične stanice za zaštitu bilja
+_____________________________________________________________________________
+Odobrenje vrijedi do_____________ 19 ______
+Datum izdavanja: M.P. ____________
+(potpis)
+ISKAZNICA VRIJEDI DO OPOZIVA
+__________________________________________________________________________________
