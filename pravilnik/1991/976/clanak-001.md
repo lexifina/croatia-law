@@ -1,0 +1,3 @@
+## o obrascima službenih iskaznica i posebnoj oznaci ovlaštenih službenih osoba Ministarstva unutarnjih poslova
+# Članak 1.
+Ovim pravilnikom propisuju se obrasci službenih iskaznica i posebna oznaka koju nose ovlaštene službene osobe u Ministarstvu unutarnjih poslova (u daljnjem tekstu: Ministarstvo) i to: nositelji funkcija u Ministarstvu, pripadnici Službe za zaštitu ustavnog poretka, Policije i Zbora narodne garde, te obrasci službenih iskaznica (u daljnjem tekstu: obrasci iskaznica) ostalih ovlaštenih službenih osoba u Ministarstvu; kao i uvođenje evidencije o iskaznicama i posebnoj oznaci i način izdavanja i zamjene iskaznica i posebne oznake.

@@ -1,0 +1,2 @@
+# Članak 7.
+Posebna oznaka (u daljnjem tekstu: značka) veličine je 56 mm i sastoji se od tri koncentrična kruga. U središnjem krugu na zrakastoj podlozi ispisana su slova RH visine 9 mm. Srednji srebrni krug promjera je 41 mm i sadrži u gornjem dijelu plavim slovima ispisan natpis "POLICIJA". Vanjski krug žute je boje s reljefom hrvatskog pletera. Na donjem dijelu značke nalazi se metalna srebrna traka u koju se upisuje broj značke, odnosno naziv funkcije.
