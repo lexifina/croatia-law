@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi ("Narodne novine", broj 27/91) i članka 91. Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 48/85, 41/90 i 47/90). ministar poljoprivrede i šumarstva donosi
