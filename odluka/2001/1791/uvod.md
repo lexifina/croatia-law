@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave i uprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 31. Statuta Grada Novog Marofa (»Službeni vjesnik Varaždinske županije« br. 19/01), Gradsko vijeće Grada Novog Marofa na sjednici održanoj dana 30. studenog 2001. godine, donosi
