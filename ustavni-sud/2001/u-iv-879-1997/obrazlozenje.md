@@ -1,0 +1,14 @@
+O b r a z l o ž e n j e
+1. Zahtjev za rješavanje negativnog sukoba nadležnosti između Upravnog suda Republike Hrvatske i Vrhovnog suda Republike Hrvatske podnesen je u okviru ustavne tužbe, koju je Mehmedalija Omerović podnio protiv rješenja Upravnog suda Republike Hrvatske, broj: Us-8428/1996 od 23. prosinca 1996. godine. Tim je rješenjem u upravnom sporu odbačena tužba Mehmedalije Omerovića protiv rješenja tuženog, Izvršnog odbora Hrvatske odvjetničke komore, broj: 266/93 od 11. studenoga 1996. godine, kojim je odbijen njegov zahtjev za upis u Imenik odvjetnika Hrvatske odvjetničke komore sa sjedištem ureda u Slatini.
+Podnositelj zahtjeva ističe da je o njegovom zahtjevu za upis u Imenik odvjetnika odlučivalo nenadležno tijelo - Izvršni odbor Hrvatske odvjetničke komore, umjesto Upravni odbor. Zatim, da Upravni sud Republike Hrvatske u rješenju, broj: Us-8428/96 od 23. prosinca 1996. godine, zauzima stajalište da nije nadležan odlučivati o prijedlogu za određivanje privremene mjere, dok se Vrhovni sud Republike Hrvatske u predmetu broj: Ur-17/96 također oglasio nenadležnim za postupanje u njegovoj pravnoj stvari.
+Zahtjev nije dopušten.
+2. Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ako nije nadležan za odlučivanje, ako su nepravodobni i u drugim slučajevima kada ne postoje pretpostavke za odlučivanje o biti stvari (članak 31. Ustavnog zakona o Ustavnom sudu Republike Hrvatske - “Narodne novine”, br. 99/99, dalje: Ustavni zakon).
+U konkretnom je slučaju utvrđeno da Ustavni sud Republike Hrvatske nije nadležan za odlučivanje.
+3. Negativni sukob nadležnosti između tijela zakonodavne, izvršne ili sudbene vlasti postoji pod pretpostavkama propisanim člankom 78. stavkom 1. Ustavnog zakona, koji glasi:
+“(1) Ako dođe do sukoba nadležnosti između tijela zakonodavne i izvršne ili sudbene vlasti zato što određeno tijelo zakonodavne, izvršne ili sudbene vlasti odbija nadležnost u istom predmetu, zahtjev za rješavanje sukoba nadležnosti može se podnijeti po pravomoćnosti odluke suda, odnosno konačnosti odluke tijela izvršne vlasti ili odgovarajuće odluke zakonodavnog tijela, koje je prvo odlučilo o svojoj nadležnosti.”
+4. Prema citiranim zakonskim odredbama, za rješavanje negativnog sukoba nadležnosti potrebno je da su se tijela zakonodavne i izvršne ili sudbene vlasti oglasila nenadležnima u istoj pravnoj stvari.
+S obzirom da podnositelj zahtjeva ističe (ne prilažući odgovarajuće odluke) da su se dva sudbena tijela - Upravni sud i Vrhovni sud - u istom predmetu (izdavanje privremene mjere) oglasila nenadležnim, to nisu ispunjene formalne pretpostavke o sukobu nadležnosti iz članka 78. Ustavnog zakona.
+Stoga je, temeljem članka 31. Ustavnog zakona, riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-IV-879/1997
+Zagreb, 3. svibnja 2001.
