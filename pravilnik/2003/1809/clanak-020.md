@@ -1,0 +1,7 @@
+# Članak 20.
+Ugovor o najmu stana VDO u pravilu sklapa neposredno sa stanodavcem, te sama snosi sve troškove i rizike koji proizlaze iz toga ugovornog odnosa i korištenja stana koji je unajmio. Ugovor o najmu treba, ako se može postići, sadržati klauzulu o mogućnosti otkaza ugovora i prije redovnog isteka, u slučaju da se VDO prijevremeno povlači u Republiku Hrvatsku.
+Ukoliko je za vrijeme trajanja najma stana potrebno položiti depozit, sredstva za to osigurava nadležna služba. Po isteku ili otkazu ugovora VDO je dužna vratiti u punom iznosu sredstva posuđena za depozit na službeni račun VDP-a, na što se obvezuje pisanom izjavom prilikom posudbe novca za tu svrhu.
+Troškove agenta za najam stana snosi Ministarstvo obrane.
+VDO ima pravo na najam stana iz stavka 1. članka 19. ovoga Pravilnika, uz prethodnu pisanu suglasnost na ugovor o najmu načelnika nadležne službe, pri čemu se glede veličine, lokacije i cijene stana uzimaju u obzir polazni stambeni kriterij iz stavka 2. članka 19. ovoga Pravilnika, diplomatski rang, protokolarne potrebe i specifični uvjeti u zemlji primateljici.
+Iznimno od odredbe stavka 4. ovoga članka, čelnik VDP-a može iznajmiti stan za protokolarne potrebe, koji je za jednu sobu veći od dozvoljenog iz stavka 2. članka 19. ovoga Pravilnika.
+VDO koja ima protokolarne radne obveze davanja - primanja, dužna je unajmiti stambeni prostor u kojem može ispunjavati te obveze i to za organiziranje večere za ukupno 10 - 12 osoba.
