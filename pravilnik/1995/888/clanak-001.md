@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o obliku, sadržaju i uporabi obrazaca platnog prometa ("Narodne novine", broj 59/94., 63/94., 83/94., 2/95., 7/95. i 25/95.) u članku 88. točka 2 iza stavka 1. dodaje se novi stavak koji glasi;
+"lspred naziva sudionika na čiji teret se plaća (platitelja) i naziva sudionika u čiju korist se sredstva prenose (primatelja), nalogodavac može upisati vodeće brojeve depozitnih institucija za određena plaćanja propisanih zakonom i propisima donešenih na temelju zakona. Vodeći broj depozitne institucije sastoji se od sedam numeričkih znakova i upisuje se na prvu crtu prostora predviđenog za upisivanje naziva platitelja i primatelja sredstava na lijevoj strani obrasca."
