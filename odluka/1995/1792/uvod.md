@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. Zakona o Hrvatskoj gospodarskoj komori i članka 21. točka 1. alineja 6. Statuta Hrvatske gospodarske komore, Skupština Hrvatske gospodarse komore, na sjednici 20. prosinca 1995. donosi
