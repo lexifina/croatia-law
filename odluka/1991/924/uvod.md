@@ -1,0 +1,1 @@
+Na temelju članka 6. toćke 12. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske ("Narodne novine", broj 58/90). Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, na sjednici održanoj 25. lipnja 1991, donosi
