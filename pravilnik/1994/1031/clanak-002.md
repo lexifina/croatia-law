@@ -1,0 +1,4 @@
+# Članak 2.
+Djelatnicima carinske službe Republike Hrvatske koji obavljaju poslove osnovne djelatnosti, djelatnici Carinske uprave Republike Hrvatske (u daljnjem tekstu: Carinska uprava), koji obavljaju kontrolno-revizijske poslove i poslove suzbijanja krijumčarenja, te djelatnici carinarnica koji rade na carinskoupravnom i carinskoprekršajnom postupku; imaju pravo na službenu odoru i obvezni su je nositi.
+Pored djelatnika iz stavka 1. ovog članka službenu odoru moraju nositi i pomočnici ravnatelja i načelnici odjela, te drugi djelatnici carinske službe kada obavljaju poslove carinske kontrole i nadzora na granici.
+Pored službene odore, pravo na radnu odoru imaju djelatnici koji obavljaju poslove pregleda u prijevoznim i prijenosnim sredstvima, u carinskim stovarištima skladištima, smjestištima, carinskim laboratorijima, te djelatnici na drugim stručno-tehničkim poslovima, koje odredi ravnatelj
