@@ -1,0 +1,6 @@
+# Članak 9.
+1. Države stranke dužne su usvojiti ili ojačati, primjenjivati i objavljivati zakone, upravne mjere, socijalne strategije i programe za sprječavanje povreda navedenih u ovome Protokolu. Posebna će se pozornost obratiti zaštiti djece koja su posebno ranjiva na te postupke.
+2. Države stranke će poticati osvještavanje javnosti, uključujući djecu, informiranjem svim odgovarajućim sredstvima, naobrazbom i obukom, o preventivnim mjerama i štetnim utjecajima povreda navedenih u ovome Protokolu. U ispunjavanju svojih obveza na temelju ovoga članka, države stranke će poticati sudjelovanje zajednice, i posebice, djece i dječjih žrtava, kod takvih informacija i obrazovnih programa i programa obuke, uključujući na međunarodnoj razini.
+3. Države stranke dužne su poduzeti sve moguće mjere s ciljem osiguravanja odgovarajuće pomoći žrtvama takvih povreda, uključujući njihovu potpunu socijalnu integraciju i njihov cjeloviti tjelesni i psihološki oporavak.
+4. Države stranke dužne su osigurati da sva djeca žrtve povreda opisanih u ovome Protokolu imaju pristup odgovarajućim postupcima bez diskriminacije, za traženje naknade za štetu od pravno odgovornih osoba.
+5. Države stranke će poduzeti odgovarajuće mjere s ciljem učinkovite zabrane proizvodnje i širenja materijala koji oglašavaju povrede opisane u ovome Protokolu.

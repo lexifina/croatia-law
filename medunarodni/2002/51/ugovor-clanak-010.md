@@ -1,0 +1,5 @@
+# Članak 10.
+1. Države stranke dužne su poduzeti sve potrebne korake za jačanje međunarodne suradnje multilateralnim, regionalnim i bilateralnim sporazumima za sprječavanje, otkrivanje, istraživanje, sudsko gonjenje i kažnjavanje osoba odgovornih za djela koja uključuju prodaju djece, dječju prostituciju, dječju pornografiju i turizam u svrhe seksualnog iskorištavanja djece. Države stranke također su dužne promicati međunarodnu suradnju i koordinaciju između svojih tijela, državnih i međunarodnih nevladinih organizacija i međunarodnih organizacija.
+2. Države stranke dužne su promicati međunarodnu suradnju za pomaganje djeci žrtvama u njihovom tjelesnom i psihološkom oporavku, socijalnoj integraciji i repatrijaciji.
+3. Države stranke dužne su jačati međunarodnu suradnju kako bi se bavile glavnim uzrocima, kao što je siromaštvo i nerazvijenost koji pridonose ranjivosti djece kod prodaje djece, dječje prostitucije, dječje pornografije i turizma u svrhe seksualnog iskorištavanja djece.
+4. Države stranke koje to mogu učiniti, pružit će financijsku, tehničku ili drugu pomoć putem postojećih multilateralnih, regionalnih, bilateralnih ili drugih programa.

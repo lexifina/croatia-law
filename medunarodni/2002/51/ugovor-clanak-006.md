@@ -1,0 +1,3 @@
+# Članak 6.
+1. Države stranke će jedna drugoj pružiti mjere pomoći u istrazi ili kaznenom postupku ili postupku izručenja pokrenutom za povrede navedene u članku 3., stavak 1. uključujući pomoć u dobivanju dokaza koji su im na raspolaganju, potrebnih za postupak.
+2. Države stranke će ispuniti svoje obveze na temelju stavka 1. ovoga članka u skladu sa svim međunarodnim ugovorima ili drugim sporazumima o međusobnoj pravnoj pomoći koji postoje među njima. U odsustvu takvih međunarodnih ugovora ili sporazuma, države stranke će jedna drugoj pružiti pomoć u skladu s njihovim unutarnjim zakonodavstvom.

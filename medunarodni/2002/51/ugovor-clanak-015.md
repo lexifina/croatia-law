@@ -1,0 +1,3 @@
+# Članak 15.
+1. Svaka država stranka može otkazati ovaj Protokol u bilo kojem trenutku pisanom obaviješću upućenom glavnom tajniku Ujedinjenih naroda, koji će o tome izvijestiti druge države stranke Konvencije i sve države stranke koje su potpisale Konvenciju. Otkazivanje stupa na snagu godinu dana nakon što glavni tajnik Ujedinjenih naroda primi obavijest.
+2. Takvo otkazivanje neće imati učinak oslobađanja države stranke od njezinih obveza na temelju ovoga Protokola glede bilo koje povrede koja se dogodi prije dana kada je otkazivanje postalo učinkovito. Takvo otkazivanje neće ni na koji način dovesti u pitanje stalno razmatranje bilo kojeg predmeta koji Odbor već razmatra prije dana kada otkazivanje postaje učinkovito.
