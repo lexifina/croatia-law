@@ -1,0 +1,1 @@
+Na temelju članka 31. Zakona o vanjskotrgovinskom poslovanju ("Službeni list SFRJ", br. 63/89, 11/91) i članka 1. točke 19. Zakona o preuzimanju saveznih zakona iz oblasti flnancija koji se u Republici primjenjuju kao republički zakoni ("Narodne novine", broj 53/91), Vlada Republike Hrvatske na sjednici održanoj 2. travnja 1992. donijela je
