@@ -1,0 +1,1 @@
+Na temelju članka 40. stavka 6. i 8., članka 42. stavka 4., članka 48. stavka 3. i članka 49. stavka 5. Zakona o zaštiti bilja (»Narodne novine«, broj 10/94 i 117/03), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
