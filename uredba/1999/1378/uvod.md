@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave ("Narodne novine", br. 75/93, 92/96 i 48/99) i članka 77. stavka 1. Zakona o zaštiti i očuvanju kulturnih dobara ("Narodne novine", broj 69/99), Vlada Republike Hrvatske je na sjednici održanoj 15. srpnja 1999. godine, donijela
