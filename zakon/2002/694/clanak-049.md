@@ -1,0 +1,3 @@
+# Članak 49.
+(1) Hrvatski državljanin koji je bio zaposlen u inozemstvu ostvaruje pravo na novčanu naknadu za vrijeme nezaposlenosti u skladu s odredbama međunarodnog ugovora.
+(2) Hrvatski državljanin koji je radio u državi s kojom Republika Hrvatska nema zaključen ugovor kojim su regulirana prava za slučaj nezaposlenosti, odnosno u državi u kojoj nije bio osiguran za slučaj nezaposlenosti, može ostvariti novčanu naknadu prema odredbama ovoga Zakona, ako je doprinos za zapošljavanje plaćao Zavodu za vrijeme od najmanje 9 mjeseci u posljednjih 24 mjeseca prije prestanka zaposlenja u inozemstvu.
