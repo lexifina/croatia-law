@@ -1,0 +1,3 @@
+# Članak 18.
+Radnici su obvezni poslodavcu dostaviti sve osobne podatke utvrđene propisima o evidencijama u oblasti rada, a radi ostvarivanja prava i obveza iz radnog odnosa i podatke: za obračun iz dohotka i određivanje osobnih odbitaka, podatke o školovanju i određenim specijalističkim znanjima, zdravstvenom stanju i stupnju invalidnosti, o ugovornoj zabrani utakmice s prethodnim poslodavcem, podatke vezane uz zaštitu majčinstva.
+Izmijenjeni podaci moraju se pravodobno dostaviti ovlaštenoj osobi u kadrovskoj službi. Radnici koji ne dostave utvrđene podatke snose štetne posljedice tog propusta.

@@ -1,0 +1,2 @@
+# Članak 33.
+Žena koja nakon porodnog dopusta ili rada sa skraćenim radnim vremenom nastavi dojiti dijete, ima u tu svrhu tijekom rada pravo - u punom radnom vremenu - koristiti dva sata za dojenje djeteta prije početka rada ili dva sata povezati sa stankom za odmor te koristiti krajem radnog vremena. U takvim slučajevima moguće je dogovorno s poslodavcem utvrditi da će koristiti dva sata prije početka rada, a stanku za odmor na kraju radnog vremena, uvijek na način kako je za radnicu povoljnije.

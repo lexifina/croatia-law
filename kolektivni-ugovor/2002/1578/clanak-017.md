@@ -1,0 +1,4 @@
+# Članak 17.
+Poslodavac se obvezuje osigurati zaštitu zdravlja i sigurnosti radnika u svakom obliku povezanom s radom, a osobito: održavati postrojenja, uređaje, opremu, alate, mjesto rada i pristup mjestu rada, te prilagođavati promjenama okolnosti, primijeniti mjere zaštite zdravlja i sigurnosti radnika, sprječavati opasnost na radu, obavještavati radnike o opasnosti na radu i osposobljavati ih za rad na siguran način te provoditi mjere zaštite na radu.
+Svaki radnik odgovoran je za osobnu sigurnost i zdravlje, kao i sigurnost i zdravlje ostalih radnika na koje utječu njegovi postupci na poslu.
+Radnik je u provedbi mjera zaštite i sigurnosti obvezan pravilno upotrebljavati sredstva rada, osobnu zaštitnu opremu, odmah obavijestiti poslodavca o događaju koji predstavlja moguću opasnost, te provoditi druge propisane ili od poslodavca utvrđene mjere.
