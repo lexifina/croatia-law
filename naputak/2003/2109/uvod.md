@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o razminiranju (»Narodne novine« br. 19/96, 86/98 i 64/00), ravnatelj Hrvatskog centra za razminiranje, uz suglasnost Vlade Republike Hrvatske, 25. kolovoza 2003. godine donosi
