@@ -1,0 +1,6 @@
+# Članak 5.
+U skladu s domaćim pravnim sustavom i na osnovi uzajamnosti Ugovorne stranke pružit će državljanima druge Ugovorne stranke svu potrebnu pomoć u svezi ulaska, boravka i aktivnosti na teritoriju druge Ugovorne stranke u svrhu provedbe predmetnog Ugovora i olakšavanja obavljanja njihovih zadataka.
+Sukladno domaćem pravnom sustavu i na osnovi uzajamnosti gostujući stručnjaci, istraživači i tehničari u provedbi zajedničkih programa i projekata:
+1. izuzeti su od poreza na prihod na ime osiguranja i naknada koje će dobivati za svoje usluge u svezi rečenih programa;
+2. mogu uvesti, bez carine i drugih poreza, svoj namještaj i osobne stvari, uključujući jedno vozilo za svakog stručnjaka tijekom šest mjeseci od njihovog stupanja na dužnost u okviru projekata i programa, pod uvjetom da se svaki predmet nakon njihovog boravka ponovo izveze. Ukoliko se stručnjak, tehničar ili znanstvenik tijekom svog boravka ili po njihovom svršetku, riješi uvezenih predmeta, isti će biti predmetom uobičajenih lokalnih carinskih dadžbina, pristojbi i poreza.
+3. Ugovorne stranke će im dati identifikacijske isprave kojima se jamči potrebna suradnja nadležnih tijela radi obavljanja njihovih djelatnosti, a koju Vlada svake Ugovorne stranke uobičajeno pruža ili daje.

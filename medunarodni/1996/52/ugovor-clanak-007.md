@@ -1,0 +1,2 @@
+# Članak 7.
+Ugovorne stranke postaju zajednički vlasnici bilo kojih izuma, tehnika, postupaka i ostalih korisnih rezultata koji proizlaze iz djelatnosti ovog programa. Podliježući obostranom sporazumu, Ugovorne stranke mogu ih registrirati sukladno svojim patentnim zakonima i zakonima o zaštiti autorskih prava. Nijedna Ugovorna stranka neće proslijediti informacije o predmetnim djelatnostima trećim osobama bez prethodne suglasnosti druge Ugovorne stranke.
