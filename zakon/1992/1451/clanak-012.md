@@ -1,0 +1,3 @@
+# Članak 12.
+Ministarstvo poljoprivrede i šumarstva obavlja upravne i druge stručne poslove koji se odnose na: poljoprivredu, slatkovodno ribarstvo, prehrambenu i duhansku industriju; veterinarstvo, poljoprivredno i šumsko zemljište osim imovinskopravnih poslova; šumarstvo i lovstvo: uređenje vodotoka i zaštitu od poplava; odvodnjavanje i navodnjavanje zemljišta; opskrbu naselja i industrije vodom te zaštitu od štetnog djelovanja vode i zaštita voda i vodotoka; inspekcijske poslove koji se odnose na vodoprivredu, poljoprivredu, slatkovodno ribarstvo, veterinarstvo, šumarstvo, lovstvo i vodoprivredu; obavljanje i drugih poslova koji su mu stavljeni u nadležnost.
+U sastavu Ministarstva poljoprivrede su Uprava za vodoprivredu i Uprava za veterinarstvo.

@@ -1,0 +1,6 @@
+# Članak 18.
+Ministarstvo znanosti obavlja upravne i druge stručne poslove koji se odnose na: razvitak znanstveno-istraživaćke djelatnosti i znanstveno-tehničkih informacija i komunikacija; razvitak znanstvenih i istraživaćkih ustanova i drugih organizacija; razvitak znanosti i primjenu znanstvenih dostignuća u pojedinim područjima; planiranje; usklađivanje i provođenje razvitka informatičke djelatnosti i njeno povezivanje u cjeloviti informacijski sustav u Republici Hrvatskoj.
+Ministarstvo znanosti obavlja i poslove koji se odnose na: praćenje evidentiranje i realizaciju znanstvene, tehničke i tehnološke suradnje sa stranim zemljama i međunarodnim organizacijama u skladu s međunarodnim ugovorima; upućivanje naših stručnjaka u inozemstvo i angažiranje stranih stručnjaka u Republici Hrvatshoj; evidenciju i suradnju s našim stručnjacima u svijetu; obavljanje poslova u svezi sa stipendiranjem. specijalizacijom i praktičnom obukom naših i stranih stručnjaka na osnpvi međunarodnih, državnih, poslovnih i drugih sporazuma.
+Ministarstvo znanosti obavlja i druge poslove koji su mu stavljeni u nadležnost.
+U sastavu Ministarstva znanosti je Zavod te međunarodnu znanstveno-tehničku suradnju.
+3. Drugi samostalni organi državne uprave
