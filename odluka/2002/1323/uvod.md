@@ -1,0 +1,1 @@
+Na temelju članka 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01.) i članka 13. Statuta Općine Preseka (»Glasnik Zagrebačke županije«, broj 20/01.), Općinsko vijeće Općine Preseka na 10. sjednici održanoj 19. lipnja 2002. godine donijelo je
