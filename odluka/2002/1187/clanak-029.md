@@ -1,0 +1,4 @@
+# Članak 29.
+Za provođenje polivalentne stomatološke zdravstvene zaštite na primarnoj razini, uz cijene utvrđene u članku 28. ove Odluke, obračunavaju se i troškovi zubotehničara za izradu stomatološko-protetskog pomagala, posebice za svako naručeno i izrađeno stomatološko-protetsko pomagalo za osigurane osobe Zavoda u skladu s Pravilnikom o ortopedskim i drugim pomagalima.
+Troškovi zubotehničara nadokađuju se ugovornoj zdravstvenoj ustanovi i ugovornom privatnom zdravstvenom radniku na osnovi ugovora koji sklapaju sa zubotehničkim laboratorijem, odnosno zubotehničarem u privatnoj praksi, a prema mjesečnom izvješću o izvršenim stomatološko-protetskim radovima, ovjerenim potvrdama o potrebi izrade ili popravka stomatološkog pomagala i priloženim računima za izvršene radove.
+Iznos troškova iz ovog članka, kao i datum primjene utvrđuje se posebnom odlukom Zavoda.

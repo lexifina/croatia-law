@@ -1,0 +1,3 @@
+# Članak 28.
+Na razini primarne zdravstvene zaštite, a u skladu s odredbama Standarda iz Pravilnika, cijena se utvrđuje primjenom iznosa po osiguranoj osobi, osim za djelatnost hitne medicinske pomoći, zdravstvene njege u kući, patronažne zdravstvene skrbi, higijensko - epidemiološke zaštite i ljekarničke djelatnosti.
+Iznos po osiguranoj osobi iz stavka 1. ovog članka ne može biti veći od maksimalnog iznosa po timu za djelatnost utvrđenog u stupcu 5. Tablice 1. članka 27. stavka 1. ove Odluke, osim kada su timovi primarne zdravstvene zaštite ugovoreni sukladno članku 5. stavku 1. Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za razdoblje od 1. srpnja do 31. prosinca 2002. godine.

@@ -1,0 +1,2 @@
+# Članak 37.
+Radi provedbe postupaka povrata sredstava Zavodu ugovorne zdravstvene ustanove, odnosno ugovorni privatni zdravstveni radnici iznimno će, osnovom sklopljene cesije sa Zavodom za pruženu zdravstvenu zaštitu na svim razinama zdravstvene djelatnosti zbog posljedica ozljede na radu ili profesionalne bolesti, ispostavljati Zavodu pojedinačne račune primjenom cijene utvrđene prema odredbama članka 30., odnosno 35. ove Odluke.

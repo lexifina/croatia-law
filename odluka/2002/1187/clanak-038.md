@@ -1,0 +1,4 @@
+# Članak 38.
+Sudjelovanje osigurane osobe u ukupnom iznosu cijene zdravstvene zaštite za punu vrijednost prava iz osnovnog zdravstvenog osiguranja utvrđeno je u skladu s člankom 17. stavkom 2. točkom 2. - 6. i stavkom 3. istog članka Zakona, kao i točkom I. Odluke o opsegu prava na zdravstvenu zašititu iz osnovnog zdravstvenog osiguranja za 2002. godinu (»Narodne novine« broj 47/02. i 52/02.).
+Za izračun troškova sudjelovanja osigurane osobe u vrijednosti stomatološkog pomagala utvrđenog Pravilnikom o ortopedskim i drugim pomagalima, na razini primarne zdravstvene zaštite koristi se utvrđena vrijednost boda za specijalističko-konzilijarnu zdravstvenu zaštitu.
+Iznos naplaćenog sudjelovanja u dijelu troškova za pruženu zdravstvenu zaštitu od osigurane osobe, odnosno osiguravatelja dopunskog zdravstvenog osiguranja, čini prihod zdravstvene ustanove, odnosno privatnog zdravstvenog radnika.

@@ -1,0 +1,2 @@
+# Članak 15.
+Do sada ugovoreni izabrani doktori medicine i stomatologije, koji imaju veći maksimalni broj osiguranih osoba od maksimalnog broja osiguranih osoba utvrđenog u skladu s člankom 13. ove Odluke neće moći primati nove osigurane osobe za, odnosno u tijeku 2002. godine sve dok taj broj ne bude manji od utvrđenog maksimalnog broja osiguranih osoba iz rečenog članka, osim ugovornih izabranih doktora medicine i stomatologije na koje se primjenjuju odredbe odluke iz članka 14. ove Odluke.
