@@ -1,0 +1,2 @@
+# Članak 3.
+Mjesečna naknada u izvršavanju uvjetne osude sa zaštitnim nadzorom, odnosno u izvršavanju deset dana rada osuđenika za opće dobro na slobodi po jednom osuđeniku za povjerenika iznosi 20% u slučaju kad povjerenik u izvršavanje uvjetne osude sa zaštitnim nadzorom, odnosno rada za opće dobro na slobodi uključi pomoćnika povjerenika, a za pomoćnika povjerenika 10% utvrđene bruto osnovice za obračun plaće državnih službenika i namještenika.

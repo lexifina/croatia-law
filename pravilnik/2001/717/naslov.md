@@ -1,0 +1,1 @@
+Pravilnik o mjerilima za utvrđivanje naknade određenim povjerenicima i pomoćnicima povjerenika na izvršavanju kaznenopravnih sankcija uvjetne osude sa zaštitnim nadzorom i rada za opće dobro na slobod
