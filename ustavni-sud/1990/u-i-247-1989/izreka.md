@@ -1,0 +1,3 @@
+ODLUKU
+1. Odbija se prijedlog Osnovnog suda udruženog rada u Osijeku, Ured u Slavonskom Brodu da se utvrdi da su u suprotnosti sa zakonom odredbe člana 65. i člana 104. stava 3. i 4. Samoupravnog sporazuma o izdvajanju i usmjeravanju sredstava za stambenu izgradnju Vodoprivredne radne organizacije za vodno područje sliva Save Zagreb. Osnovne organizacije udruženog rada "Vodoprivreda - Slavonski Brod" iz Slavonskog Broda od 20. svibnja 1986. godine.
+2. Ova će se odluka objaviti u "Narodnim novinama" i u Osnovnoj organizaciji udruženog rada "Vodoprivreda - Slavonski Brod", na način na koji se objavljuju samoupravni opći akti.
