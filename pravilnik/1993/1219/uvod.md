@@ -1,0 +1,1 @@
+Na temelju članka 110, stavka 2. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 52/91 i 26/93) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/79, 29/85, 48/85, 41/90 i 53A/91), ministar poljoprivrede i šumarstva donosi
