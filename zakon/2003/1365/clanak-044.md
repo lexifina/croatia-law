@@ -1,0 +1,3 @@
+# Članak 44.
+U slučajevima kada je potrebno izvršiti procjenu metodologije ili kvalitetu izvora podataka koji se namjeravaju prikupljati statističkim istraživanjima, Državni zavod za statistiku i ostali nositelji službene statistike, uz ovlaštenje ravnatelja Državnog zavoda za statistiku, mogu provoditi pilot-istraživanja i u slučajevima kada istraživanja nisu predviđena Godišnjim provedbenim planom ili posebnim zakonom.
+Podaci prikupljeni provođenjem statističkih istraživanja iz stavka 1. ovoga članka nisu službeni statistički podaci i na njih se ne odnose odredbe ovoga Zakona o javnosti i diseminaciji podataka.
