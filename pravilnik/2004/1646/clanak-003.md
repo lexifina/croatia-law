@@ -1,0 +1,2 @@
+# Članak 3.
+Postupak za dobivanje odobrenja za stavljanje lijeka u promet u Republici Hrvatskoj koji ima odobrenje za stavljanje u promet u državama Europske unije, dano na temelju centraliziranog postupka, postupka međusobnog priznavanja ili nacionalnog postupka u državi iz članka 8. stavka 4. ovoga Pravilnika, pokreće se pisanim zahtjevom koji pravna osoba sa sjedištem u Republici Hrvatskoj podnosi Agenciji za lijekove i medicinske proizvode (u daljnjem tekstu: Agencija).
