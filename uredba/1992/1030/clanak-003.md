@@ -1,0 +1,3 @@
+# Članak 3.
+Sredstva poslovnih jedinica i drugih organizacijskih oblika pravnih osoba sa sjedištem na teritoriju republika Srbije i Crne Gore te autonomnih pokrajina Kosova i Vojvodine, a koje se do dana stupanja na snagu ove uredbe nisu organizirale temeljem Uredbi o zabrani raspolaganja i prijenosa sredstava određenih pravnih osoba na teritoriju Republike Hrvatske ("Narodne novine", br. 39/91, 44/91, 52/91 i 5/92) prenose se u vlasništvo Republike Hrvatske.
+Pravne osobe nastale organiziranjem po odredbama iz stavka 1. ovog članka provode pretvorbu po odredbama zakona o pretvorbi društvenih poduzeća ("Narodne novine", br. 19/91).

@@ -1,0 +1,2 @@
+# Članak 6.
+Sredstva društvenih organizacija što su osnovane za teritorij bivše Jugoslavije, a koja nisu odlukom Vlade Republike Hrvatske ili organa kojeg je ovlastila prenesena na društvene organizacije Republike Hrvatske koje su njihovi članovi prema odredbama Uredbe o zabrani raspolaganja i prijenosa sredstava određenih pravnih osoba na teritoriju Republike Hrvatske ("Narodne novine. br. 52/91) prenose se u vlasništvo Republike Hrvatske.

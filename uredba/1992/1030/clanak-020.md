@@ -1,0 +1,2 @@
+# Članak 20.
+Stupanjem na snagu ove uredbe prestaje vrijediti Uredba o zabrani raspolaganja i prijenosa sredstava određenih pravnih osoba na teritoriju Republike Hrvatski ("Narodne novine", br. 52/91 i 5/92), te Uredbe o preuzimanju u posjed i korištenju odmarališta, hotela i drugih hotelsko-turističkih objekata i pokretnina na kojima imaju pravo raspolaganja ili ih drže u svom posjedu pravne i fizičke osobe koje imaju sjedište izvan teritorija Republike Hrvatske ("Narodne novine", br. 43/91).

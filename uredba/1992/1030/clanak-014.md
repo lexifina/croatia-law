@@ -1,0 +1,4 @@
+# Članak 14.
+Dioničari banke i organizacije za osiguranje sa sjedištem na teritoriju Republike Srbije, Republike Crne Gore, autonomnih pokrajina Kosova i Vojvodine evidentirani u registru dionica ili u knjigama filijale ili druge odgovarajuće organizacijske jedinice te banke odnosno organizacijeza osiguranje na teritoriju Republike Hrvatske (u daljnjem tekstu jedinica) mogu stvarima koje koristi ili kojima raspolaže ta jedinica osnovati dioničko društvo (u daljnjem tekstu: društvo).
+Odluku o osnivanju društva donose dioničari iz stavka I ovog članka koji su u svojstvu dioničara evidentirani u registru dionica ili u knjigama jedinice na dan donošenja odluke i imaju sjedište u Republici Hrvatskoj.
+Odluka iz stavka 2. ovog članka donosi se većinom glasova dioničara iz stavka 1. računajući prema nominalnoj vrijednosti dionica banke odnosno organizacije za osiguranje temeljem kojih su upisani u registar ili u knjige jedinice.
