@@ -1,0 +1,1 @@
+Na temelju članka 6. točke 7. i 101. stavka 3., a u svezi sa člankom 43. st. 1. i 2. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske ("Narodne novine", broj 58/90, 21/92 i 116/93) Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske na sjednici održanoj 19. prosinca 1994. donosi
