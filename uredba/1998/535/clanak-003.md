@@ -1,0 +1,3 @@
+# Članak 3.
+Djelatnost Ustanove je zaštita, očuvanje i promicanje Parka prirode Velebit i posebno zaštićenih dijelova prirode na tom području - Strogog prirodnog rezervata Hajdučki i Rožanski kukovi, Posebnog rezervata šumske vegetacije "Štirovača", Posebnog botaničkog rezervata "Visibaba", Posebnog botaničkog rezervata "Zavižan - Balinovac - Zavižanska (Velika) Kosa", Velebitskog botaničkog vrta, Geomorfološkog spomenika prirode "Cerovačke pećine" i Zaštićenog krajolika "Zavratnica" kod Jablanca.
+Ustanova može obavljati i druge djelatnosti utvrđene statutom koje služe obavljanju djelatnosti iz stavka 1. ovoga članka.

@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Zakona o zaštiti prirode ("Narodne novine", br. 30/94 i 72/94) i članka 12. stavka 2. Zakona o ustanovama ("Narodne novine", broj 76/93), Vlada Republike Hrvatske je na sjednici održanoj 26. ožujka 1998. godine, donijela
