@@ -1,0 +1,1 @@
+Temeljem odredbi članka 42. stavka 2. Zakona o tržištu vrijednosnih papira (»Narodne novine« broj 84/02), Komisija za vrijednosne papire Republike Hrvatske na sjednici održanoj 28. studenoga 2002. godine donosi
