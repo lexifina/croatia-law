@@ -1,0 +1,4 @@
+o visini minimalne mirovine od 1. prosinca 1992.
+1. Minimalna mirovina od 1. prosinca 1992. iznosi 45.579. - HRD.
+2. Ova odluka stupa na snagu osmog dana od dana objave u,Narodnim novinama", a primjenjuje se od 1. prosinca 1992.
+Klase: 140-13/93-01/850
