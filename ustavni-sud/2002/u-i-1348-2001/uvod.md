@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, dopredsjednik Suda, te suci Marijan Hranjski, Mario Kos, Jurica Malčić, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Željko Potočnjak, Agata Račan, Emilija Rajić, Vice Vukojević i Milan Vuković, odlučujući o prijedlogu za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj dana 4. travnja 2002. godine, donio je sljedeće
