@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske, članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske i članka 12.stavka 2. Zakona o financiranju obnove ("Narodne novine", br. 33/92.) Zastupnički dom Sabora Republike Hrvatske na sjednici 22. prosinca 1992., donio je
