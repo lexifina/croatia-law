@@ -1,0 +1,7 @@
+# Članak 10.
+U članku 55. stavak 1. mijenja se i glasi:
+"(1) Porezni obveznici koji obavljaju samostalnu djelatnost iz članka 11. stavka 1., 2. i 3. Zakona utvrđuju dohodak temeljem poslovnih knjiga (članak 16. stavak 2. Zakona)."
+Stavak 4. mijenja se i glasi:
+"(4) Porezni obveznici koji vode knjige ulaznih i izlaznih računa prema primljenim i izdanim računima u skladu s propisima o porezu na dodanu vrijednost nisu obvezni osiguravati podatke o potraživanjima i obvezama iz stavka 3. ovoga članka. Porezni obveznici koji knjige ulaznih i izlaznih računa prema propisima o porezu na dodanu vrijednost vode prema plaćenim odnosno neplaćenim računima, obvezni su voditi i evidenciju o potraživanjima i obvezama iz stavka 3. ovoga članka."
+Stavak 5. mijenja se i glasi:
+"(5) Porezni obveznici koji obavljaju djelatnost iz članka 11. stavka 4. Zakona mogu radi utvrđivanja dohotka voditi poslovne knjige iz stavka 2. ovoga članka. Ako ovi porezni obveznici ne vode poslovne knjige dohodak utvrđuju na temelju iskaza (pregleda) ostvarenih poslovnih primitaka i nastalih poslovnih izdataka, sastavljenog na osnovi urednih i vjerodostojnih isprava. U pregledu primitaka i izdataka poreznih obveznika koji obavljaju djelatnosti iz članka 11. stavka 4. Zakona, koji za tu djelatnost ne vode propisane poslovne knjige, kao poslovni izdaci ne mogu biti iskazani izdaci otpisa i zaštite kapitala uloženog u dugotrajnu imovinu. Pregled primitaka i izdataka sastavlja se na način propisan za Knjigu primitaka i izdataka iz članka 56. stavka 2. ovoga Pravilnika."

@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 45. stavak 6. mijenja se i glasi:
+"(6) Poreznim obveznicima koji obavljaju samostalne djelatnosti iz članka 11. stavka 1., 2. i 3. Zakona priznaju se kao poslovni izdaci iznosi naknada, potpora i nagrada, isplate učenicima i studentima za vrijeme praktičnog rada i naukovanja, te učenicima i studentima na ime stipendije koja ima karakter potpore za vrijeme redovnog školovanja na srednjim, višim, visokim školama i fakultetima, prema članku 23. stavku 2. i 3. ovoga Pravilnika. Poslovnim izdacima obveznika poreza na dohodak od samostalne djelatnosti iz članka 11. stavka 4. Zakona priznaju se izdaci iz članka 23. stavka 2. točke 1., 2., 5., 12. i 13. ovoga Pravilnika."
