@@ -1,0 +1,3 @@
+# Članak 5.
+Fotografije koje se prilažu uz zahtjev za izdavanje dozvole prema članku 4. točka 3. ovoga Pravilnika moraju biti istovjetne i vjerno prikazivati osobu koja podnosi zahtjev.
+Osoba za koju se izdaje vozačka dozvola mora biti fotografirana s lica (enface), otkrivena čela, bez šešira, kape ili rupca (marame). Izuzetno osobe koje prema narodnom običaju nose rubac ili kapu kao sastavni dio nošnje mogu priložlti fotografije na kojima su pod rupcem ili kapom. Ako je osobi za koju se izdaje vožačka dozvola izdano uvjerenje o duševnoj i tjelesnoj sposobnosti za upravljanje vozilima pod uvjetom da za vrijeme upravljanja vozilima koristi naočale, uz zahtjev se prilažu fotografije na kojima je ta osoba fotografirana s naočalama.
