@@ -1,0 +1,2 @@
+# Članak 12.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o izmjenama i dopuni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu ("Narodne novine", br. 15/96.), Uredba o izmjenama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu ("Narodne novine", br. 25/96.) i Uredba o izmjeni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu ("Narodne novine", br. 33/96.).
