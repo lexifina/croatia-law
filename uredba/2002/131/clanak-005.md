@@ -1,0 +1,3 @@
+# Članak 5.
+Mjerenje pokazatelja onečišćenosti zraka na postajama iz članka 2., 3. i 4. ove Uredbe obavlja se prema propisanom programu mjerenja kakvoće zraka, načinu mjerenja i prikupljanja mjernih rezultata, te načinu provjere kakvoće mjerenja i mjernih rezultata, kao i načinu obrade i prikaza mjernih rezultata, sukladno Zakonu o zaštiti zraka.
+U cilju provođenja mjerenja, osiguranja prikupljenih mjernih rezultata te obrade i prikaza rezultata iz stavka 1. ovoga članka, postaje moraju biti opremljene mjernim instrumentima, informatičkom opremom za prikupljanje, obradu i prijenos mjernih rezultata, te ostalom potrebnom infrastrukturom.
