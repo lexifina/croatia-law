@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 29. Statuta Općine Ervenik (»Službeni vjesnik Šibensko-kninske županije«, broj 13/01), Općinsko vijeće Općine Ervenik na svojoj 3. sjednici održanoj 21. prosinca 2001., donijelo je
