@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Društvo je obvezno izrađivati i Komisiji za vrijednosne papire Republike Hrvatske (u daljnjem tekstu: Komisiji) dostavljati vlastita financijska izvješća i financijska izvješća svakog fonda kojim upravlja, i to tromjesečna, polugodišnja, devetomjesečna i godišnja financijska izvješća.
+(2) Društvo je obvezno Komisiji dostaviti tromjesečna i devetomjesečna financijska izvješća u roku od 30 dana od posljednjeg dana obračunskog perioda, polugodišnja financijska izvješća u roku od dva mjeseca od posljednjeg dana obračunskog perioda, a godišnja financijska izvješća u roku od tri mjeseca od posljednjeg dana poslovne godine.
