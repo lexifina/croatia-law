@@ -1,0 +1,5 @@
+1. U skladu s Uredbom o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina ("Narodne novine", broj 48/94) mirovine korisnika mirovine koji su mirovinu ostvarili 1. siječnja 1994. ili kasnije kao djelatne vojne osobe ili osobe na službi u oružanim snagama Republike Hrvatske na temelju članka 3a. Zakona o preuzimanju saveznog Zakona i oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao republički zakon i koje su Određene od mirovinske osnovice u smislu članka 18. stavak
+2. i mirovine koje su usklađene prema odredbi članka 64. stavka 2. Zakona o mirovinskom i invalidskom osiguranju vojnih osiguranika povećavaju se od 1. lipnja 1994. za 5,2%.
+2. Kao osnovica za povećanje mirovine od 1. lipnja 1994, uzima se mirovina koja je korisnicima pripadala na dan 1. lipnja 1994, odnosno na dan stjecanja prava, ako je pravo stećeno nakon toga dana.
+3. Usklađivanje mirovina prema ovoj odluci, obavit će se po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu idućeg dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. lipnja 1994. Klasa:140-13/94-01/2791
