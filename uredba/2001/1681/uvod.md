@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o poljoprivredi (»Narodne novine«, broj 66/2001), a u skladu sa člankom 34. Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu (»Narodne novine«, br. 29/99, 105/99, 46/2000, 101/2000 i 12/2001), Vlada Republike Hrvatske je na sjednici održanoj 15. studenoga 2001. godine, donijela
