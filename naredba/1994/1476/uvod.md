@@ -1,0 +1,1 @@
+Na temelju članka 55. stavak 2. Zakona o zaštiti vojnih i civilnih invalida rata ("Narodne novine", br. 33/92., 77/92., 58/93., 2/94. i 76/94.), ministar obrane i ministar rada i socijalne skrbi, donose
