@@ -1,0 +1,6 @@
+# Članak 13.
+KOMERCIJALNE AKTIVNOSTI
+1. U svrhu osiguranja obavljanja ugovorenog prometa određeni prijevoznici svake ugovorne stranke imat će pravo držanja svojeg predstavništva na teritoriju druge ugovorne stranke sa potrebnim administrativnim, komercijalnim i tehničkim osobljem.
+2. Određeni prijevoznik svake ugovorne stranke imat će pravo prodavati zračni prijevoz na svojim vlastitim prijevoznim dokumentima na teritoriju druge ugovorne stranke u lokalnoj valuti ili, po prethodnoj dozvoli danoj od strane nadležnih vlasti druge ugovorne stranke, u konvertibilnoj valuti, direktno ili putem zastupnika, u skladu s primjenjivim nacionalnim zakonima i propisima.
+3. Određeni prijevoznici ugovornih stranaka imat će, u skladu s primjenjivim zakonima i propisima ugovornih stranaka, pravo promijeniti i doznačiti sa teritorija prodaje u njihovu domovinu višak prihoda u odnosu na troškove ostvaren.
+4. Takav transfer bit će ostvaren sukladno odredbama sporazuma kojim se uređuju financijska pitanja ugovornih stranaka. U slučaju nepostojanja takvog sporazuma ili odgovarajućih odredbi u njemu, transfer će biti izvršen u čvrstoj konvertibilnoj valuti sukladno odredbama odnosnih financijskih zakona i propisa ugovornih stranaka.

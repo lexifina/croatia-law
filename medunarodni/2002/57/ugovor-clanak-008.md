@@ -1,0 +1,10 @@
+# Članak 8.
+CARINSKA DAVANJA I POSTUPCI
+1. Zrakoplovi u međunarodnom zračnom prometu određenog prijevoznika bilo koje ugovorne stranke, kao i njihova standardna oprema, rezerve goriva i maziva, kao i zalihe na zrakoplovu (uključujući hranu, napitke i duhan) bit će izuzeti od svih carinskih davanja, inspekcijskih pristojbi te ostalih pristojbi i poreza po dolasku na teritorij druge ugovorne stranke, pod uvjetom da takva oprema i zalihe ostanu u zrakoplovu do trena kada se izvezu.
+2. Izuzeti od istih davanja i poreza, uz izuzetak naknada koje se naplaćuju za pružene usluge, bit će:
+a) zalihe zrakoplova ukrcane na teritoriju druge ugovorne stranke u granicama utvrđenim od strane nadležnih vlasti rečene ugovorne stranke, i predviđenim za uporabu na zrakoplovu određenog prijevoznika angažiranog na međunarodnoj liniji druge ugovorne stranke;
+b) rezervni dijelovi i standardna oprema uvezena na teritorij bilo koje ugovorne stranke radi održavanja ili popravaka zrakoplova koji se koristi na međunarodnim linijama od strane određenog prijevoznika druge ugovorne stranke;
+c) gorivo i mazivo namijenjeno opskrbi zrakoplova kojim određeni prijevoznik druge ugovorne stranke leti na međunarodnim linijama čak i onda kada se te zalihe koriste na dijelu puta koji ide preko teritorija ugovorne stranke na kojemu su ukrcane.
+3. Standardna oprema zrakoplova kao i materijali i zalihe zadržane na zrakoplovu određenih prijevoznika bilo koje ugovorne stranke mogu biti istovareni na teritoriju druge ugovorne stranke samo uz odobrenje carinskih organa na tom području. U tom slučaju oni mogu biti stavljeni pod nadzor rečenih organa do vremena kada se izvezu ili se s njima drugačije postupi u skladu s carinskim propisima.
+4. Neophodni dokumenti određenog prijevoznika bilo koje ugovorne stranke uključujući prijevozne karte, tovarne listove kao i promotivne materijale bit će izuzeti od svih carinskih davanja i taksi na teritoriju druge ugovorne stranke.
+5. Prtljaga i teret u direktnom tranzitu bit će izuzeta od carinskih davanja i drugih sličnih taksi.
