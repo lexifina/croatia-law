@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 3. Zakona o unutarnjim poslovima ("Narodne novine", broj 29/91 - pročišćeni tekst, 73/91, 19/92 i 33/92), a u svezi sa člankom 16. stavkom 1. točkom 2. Zakona o vatrogastvu ("Narodne novine", broj 58/93.), ministar unutarnjih poslova donosi

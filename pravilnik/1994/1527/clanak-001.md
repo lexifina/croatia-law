@@ -1,0 +1,3 @@
+## o izmjenama i dopunama PraviInika o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršiteIji na posIovima ovlaštene sIužbene osobe Ministarstva unutarnjih poslova
+# Članak 1.
+Naziv Pravilnika o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršitelji na poslovima ovlaštene službene osobe Ministarstva unutarnjih poslova ("Narodne novine" broj 8/93.) mijenja se i glasi: "Pravilnik o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršitelji na poslovima ovlaštetle službene osobe i vatrogasci u Ministarstvu unutarnjih poslova"

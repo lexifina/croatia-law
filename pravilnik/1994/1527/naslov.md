@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama PraviInika o psihičkim, fizičkim i zdravstvenim sposobnostima koje moraju ispunjavati izvršiteIji na posIovima ovlaštene sIužbene osobe Ministarstva unutarnjih poslova
