@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4., članka 26., članka 37. stavka 3. i članka 40. stavka 1. točke 1., 2. i 5. Zakona o morskom ribarstvu ("Narodne novine", br. 74/94) i članka 12. Zakona o ustrojstvu i djelokrugu ministarstva i drugih upravnih organizacija ("Narodne novine", br. 72/84) ministar poljoprivrede i šumarstva donosi
