@@ -1,0 +1,9 @@
+# Članak 6.
+Iza članka 30. dodaju se članci 30a. i 30b. koji glase:
+»Članak 30a.
+(1) Zatečenim radnicima koji danom stupanja na snagu ovoga Pravilnika ne ispunjavaju propisane uvjete stručne spreme za poslove koje obavljaju, ravnatelj centra za socijalnu skrb dužan je u roku 30 dana od dana stupanja na snagu općeg akta centra za socijalnu skrb, ponuditi izmjenu ugovora o radu temeljem koje će radnik biti raspoređen na obavljanje drugih poslova za koje ispunjava propisane uvjete, ako takvih poslova ima.
+(2) Ako nema poslova na koje se radnik može rasporediti sukladno odredbi stavka 1. ovog članka, zatečeni radnici će i nadalje obavljati poslove koje su obavljali do primjene ovoga Pravilnika, dok im ravnatelj ne ponudi izmjenu ugovora o radu za poslove za koje ispunjavaju uvjete.
+(3) Ravnatelj centra za socijalnu skrb dužan je zatečenim radnicima iz stavka 2. ovoga članka, u slučaju nastanka potrebe za obavljanjem poslova za koje ispunjavaju uvjete, ponuditi izmjenu ugovora o radu u roku od osam dana od dana nastanka potrebe.
+Članak 30b.
+(1) Zatečeni radnici koji danom stupanja na snagu ovog Pravilnika nemaju propisanu stručnu spremu za poslove koje obavljaju, mogu se školovati ili doškolovati.
+(2) Osnivač može omogućiti financiranje školovanja do VII. stupnja stručnog obrazovanja s rokom završetka najdulje 6 godina, doškolovanja do VI. stupnja stručnog obrazovanja s rokom završetka najdulje 3 godine, školovanja do IV. stupnja stručnog obrazovanja s rokom završetka najdulje 4 godine i prekvalifikacije s rokom završetka najdulje godinu dana, uz obvezu rada u centru u dvostrukom trajanju godina školovanja, doškolovanja i prekvalifikacije, te obvezom vraćanja sredstava ukoliko radnik ne završi školovanje, doškolovanje ili prekvalifikaciju, o čemu će se sklopiti ugovor između radnika i centra«.
