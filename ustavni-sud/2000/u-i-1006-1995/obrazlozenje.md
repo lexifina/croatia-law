@@ -1,0 +1,10 @@
+Obrazloženje
+1. Ustavni sud Republike Hrvatske svojom odlukom broj: U-I-1006/1995, od 8. ožujka 2000. godine, ukinuo je u cijelosti Zakon o stambenim zadrugama (u nastavku: osporeni Zakon) utvrdivši njegovu neusklađenost i nesuglasje s Ustavom Republike Hrvatske. Točkom II. izreke navedene odluke utvrđeno je da osporeni Zakon prestaje važiti 1. listopada 2000. godine.
+2. Vlada Republike Hrvatske svojim podneskom, klasa: 362-02/89-01/02, urbroj: 5030115-00-1, od 14. rujna 2000. godine podnijela je prijedlog za odgodu roka prestanka važenja osporenog Zakona.
+U navedenom podnesku predlagatelj cijeni da bi prestankom važenja osporenog Zakona, na način utvrđen ukidnom odlukom ovog Suda, za fizičke i pravne osobe mogla nastupiti znatna šteta, jer materija stambenog zadrugarstva nije regulirana nekim drugim zakonom.
+Vlada Republike Hrvatske također navodi da je već sačinjen Prijedlog Zakona o izmjenama i dopunama Zakona o zadrugama, kojim će se urediti pitanje stambenog zadrugarstva. Nadalje se ističe da će cjelokupna zakonodavna procedura donošenja Zakona o izmjenama i dopunama Zakona o zadrugama biti dovršena do 1. listopada 2000. godine.
+3. Slijedom iznijetog Vlada Republike Hrvatske zaključno predlaže produljenje roka stupanja na snagu ukidne odluke ovog Suda, broj: U-I-1006/1995, do 31. prosinca 2000. godine.
+Prijedlog je osnovan.
+4. Postupajući po prijedlogu predlagatelja Sud je taj prijedlog ocijenio osnovanim. Polazište za ovakvo utvrđenje jest činjenica da bi nastupom posljedica ukidne odluke ovog Suda u materiji stambenog zadrugarstva nastala pravna praznina, te da bi za određene fizičke i pravne osobe uslijed toga mogla nastupiti znatnija šteta.
+Predloženi nadnevak produženja roka prestanka važenja osporenog Zakona Sud je ocijenio primjerenim, a poglavito s obzirom na tijek zakonodavne procedure donošenja Zakona o izmjenama i dopunama Zakona o zadrugama, kojim bi se trebala urediti materija stambenog zadrugarstva.
+5. Slijedom iznijetog, na temelju članka 53. stavka 2. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 99/99), odlučeno je kao u izreci.

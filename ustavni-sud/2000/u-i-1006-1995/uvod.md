@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Smiljko Sokol, predsjednik Suda te suci Velimir Belajec, Marijan Hranjski, Petar Klarić, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Vice Vukojević i Milan Vuković, odlučujući o prijedlogu Vlade Republike Hrvatske, na sjednici održanoj dana 21. rujna 2000. godine donio je sljedeću
