@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/1993), članka 29. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, broj 131/1997) i članka 12. st. 1. točke 12. Zakona o zaštiti bilja (»Narodne novine«, broj 10/1994 i 19/1994), ministar poljoprivrede i šumarstva donosi
