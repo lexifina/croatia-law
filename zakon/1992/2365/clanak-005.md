@@ -1,0 +1,4 @@
+# Članak 5.
+Nadležni organi u jedinicama lokalne samouprave, na čijem području se nalaze groblja i grobovi pripadnika stranih oružanih sila, dužni su o tim grobljima i grobovima voditi knjigu evidencije.
+Nadležni organi u jedinicama lokalne samouprave dužni su u roku od 60 dana od stupanja na snagu ovoga Zakona, dostaviti Ministarstvu podatke o grobljima i grobovima, spomenicima - kosturnicama, nadgrobnim spomenicima i drugim nadgrobnim spomen-obilježjima pripadnika stranih oružanih sila koji se nalaze na njihovom području.
+Ukoliko nadležni organi iz stavka 2. ovoga članka raspolažu saznanjima kojima bi se dopunila, odnosno mijenjala postojeća knjiga evidencije, dužni su knjigu evidencije dopuniti ili izmijeniti shodno odredbama propisanim Pravilnikom iz članka 2. ovoga Zakona te o takvoj dopuni odnosno izmjeni izvijestiti Ministarstvo.

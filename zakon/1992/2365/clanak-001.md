@@ -1,0 +1,4 @@
+## o obilježavanju i održavanju groblja i grobova poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika na području Republike Hrvatske u I. i II. svjetskom ratu
+# Članak 1.
+Grobljima i grobovima poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika (u daljnjem tekstu: "pripadnici stz'anih oružanih sila") na podrućju Republike Hrvatske smatraju se groblja, grobovi, spomenici - kosturnice, nadgrobni spomenici i druga nadgrobna spomen-obilježja pripadnika stranih oružanih sila poginulih u I. i IL svjetskom ratu.
+Groblja i grobovi poginulih i umrlih pripadnika stranih oružanill sila, na području Republike Hrvatske. odre vaju se u skladu s mjesnim običajima i moraju biti vidljivo označeni nadgrobnim obilježjima na kojima su ispisani podaci o pokopanima. ako medudržavnim sporazumom između strane države i Republike Hrvatske nije drukćije odredeno.

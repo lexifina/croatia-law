@@ -1,0 +1,2 @@
+# Članak 2.
+Nadležni organi u jedinicama lokalne samouprave na čijem području se nalaze groblja i grobovi pripadnika stranih oružanih sila dužni su groblja i grobove pripadnika stranih oružanih sila obilježavati i održavati pod uvjetima i na način propisan Pravilnikom o načinu i sadržaju vodenja evidencije i načinu obilježavanja i održavanja groblja i grobova pripadnika stranih oružanih sila (u daljnjem tekstu: "Pravilnik").
