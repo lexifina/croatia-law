@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o rudarstvu (»Narodne novine«, broj 35/95 - pročišćeni tekst), a povodom zahtjeva društva INA - Industrija nafte d.d., Zagreb, pod brojem: N-3042-BB/RM od 28. ožujka 2001. godine, Vlada Republike Hrvatske je na sjednici održanoj 13. prosinca 2001. godine, donijela
