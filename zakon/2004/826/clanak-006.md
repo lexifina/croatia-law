@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Ministar nadležan za obitelj uz prethodnu suglasnost ministra financija donijet će provedbeni propis o načinu ostvarivanja prava i isplate novčanih naknada prema ovom Zakonu, u roku 30 dana od dana stupanja na snagu ovoga Zakona.
+(2) Do donošenja propisa iz stavka 1. ovoga članka primjenjivat će se Pravilnik o načinu ostvarivanja prava na novčanu naknadu za rodiljni dopust nezaposlene majke koja je stekla pravo na naknadu pri Hrvatskom zavodu za zapošljavanje, nezaposlene majke koja ostvaruje pravo na invalidsku mirovinu zbog profesionalne nesposobnosti za rad i majke koja je korisnica mirovine (»Narodne novine«, br. 105/01.) u dijelu koji nije suprotan ovom Zakonu.
