@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o turističkim zajednicama i promicanju hrvatskog turizma ("Narodne novine", broj 30/94.) uz prethodno pribavljeno mišljenje zainteresiranih općina, gradova i županija, te članka 3. stavka 2. Zakona o članarinama u turističkim zajednicama ("Narodne novine", broj 35/95 - pročišćeni tekst), ministar turizma donosi
