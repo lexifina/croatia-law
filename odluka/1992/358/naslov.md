@@ -1,0 +1,1 @@
+Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1992.
