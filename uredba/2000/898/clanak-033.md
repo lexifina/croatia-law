@@ -1,0 +1,3 @@
+## 6. UPRAVA ZA GEODETSKU INSPEKCIJU
+# Članak 33.
+Uprava za geodetsku inspekciju obavlja inspekcijske i druge stručne poslove koji se odnose na nadzor provedbe propisa i način rada fizičkih i pravnih osoba koje su ovlaštene obavljati poslove državne izmjere i katastra nekretnina, nadzor nad obavljanjem geodetskih poslova lokalne samouprave, izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, izrađuje upute za rad geodetskih inspektora, pruža stručnu pomoć te priprema prijedloge za brisanje iz odgovarajućih registara djelatnosti za koje pravna ili fizička osoba ne ispunjava propisane uvjete.

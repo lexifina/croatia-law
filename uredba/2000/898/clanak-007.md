@@ -1,0 +1,3 @@
+# Članak 7.
+Odsjek pravnih i općih poslova izrađuje prijedloge nacrta zakona i drugih propisa iz djelokruga Državne uprave, u suradnji s drugim ovlaštenim ustrojstvenim jedinicama Državne uprave, obavlja sve pravne poslove po zahtjevima za izdavanje suglasnosti za obavljanje poslova, sudjeluje u pripremi i provođenju javnih natječaja, obavlja stručne i tehničke poslove koji se odnose na pisarnicu, pismohranu, umnožavanje i distribuciju materijala, obavlja poslove vezane uz korištenje prometnih sredstava, te brine o načinu održavanja sredstava i opreme Državne uprave.
+2.2. Odjel financijsko-računovodstvenih poslova

@@ -1,0 +1,3 @@
+# Članak 12.
+Odjel fotogrametrije i daljinskog pronicanja obavlja poslove planiranja, provedbe i dokumentiranja fotogrametrijskog snimanja, izdaje odobrenja za snimanje iz zraka, sudjeluje u pregledu zračnih snimaka, obavlja poslove prevođenja fotomaterijala u digitalnom obliku, arhivira i izdaje fotomaterijal, formira i vodi baze podataka, u suradnji s ostalim ustrojstvenim jedinicama sudjeluje u postupku nabave robe, usluga i radova iz djelokruga Odjela, ovjerava primljeni i pregledani foto-materijal, pribavlja satelitske scene, pohranjuje fotogrametrijske projektne podloge u arhiv, priprema i predlaže godišnje i višegodišnje programe, surađuje s drugim tijelima državne vlasti i međunarodnim udrugama.
+3.1.1. Odsjek aerofotogrametrije

@@ -1,0 +1,3 @@
+# Članak 15.
+Odjel kartografije obavlja poslove kartografske obrade i održavanja državnih kartografskih izvornika, izrađuje, uspostavlja i održava topografske i kartografske baze podataka, uspostavlja, vodi i pohranjuje kartografsku nakladu u svim oblicima uz gospodarenje istom, obavlja sve poslove vezane uz uspostavljanje, izradbu i vođenje preglednih zemljovida, poslove pripreme, obrade i distribucije istih, obavlja stručni nadzor nad radovima na izradbi zemljovida, u suradanji s drugim ustrojstvenim jedinicama sudjeluje u postupku nabave roba, usluga i radova iz djelokruga Odjela, priprema i predlaže višegodišnje i godišnje programe iz svog djelokruga, surađuje s drugim tijelima državne vlasti i međunarodnim udrugama.
+3.2.1. Odsjek topografske izmjere

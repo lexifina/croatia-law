@@ -1,0 +1,2 @@
+# Članak 37.
+U Odsjeku za katastarski sustav i informatičku potporu obavljaju se poslovi državne izmjere i katastra za područni ured, prati i koordinira obavljanje ovih poslova u ispostavama, osigurava jedinstveno postupanje u osnivanju i održavanju katastra nekretnina, obavljaju poslovi planiranja informatizacije i uspostavljanja informatičke potpore radu područnog ureda i njegovih ispostava, prikupljaju i održavaju podaci na razini županije i o njima obavješćuje Središnji ured, te pripremaju prijedlozi programa rada područnih ureda.
