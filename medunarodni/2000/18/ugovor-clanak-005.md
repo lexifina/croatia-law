@@ -1,0 +1,4 @@
+# Članak 5.
+NACIONALNI TRETMAN
+1. Robama s teritorija jedne Ugovorne stranke uvezenim na teritorij druge Ugovorne stranke bit će odobren tretman koji, glede unutarnjih poreza i drugih unutarnjih pristojbi te svih zakona, propisa i zahtjeva koji utječu na njihovu unutarnju prodaju, ponudu za prodaju, kupnju, prijevoz, distribuciju ili korištenje, nije manje povoljan od onog koji se odobrava istim robama domaćeg podrijetla.
+2. Niti jedna Ugovorna stranka neće uvesti ili provoditi nikakav unutrašnji količinski propis u svezi s miješanjem, preradom ili korištenjem proizvoda u određenim količinama ili omjerima kojim se zahtijeva, izravno ili neizravno, da bilo koja određena količina ili omjer nekog proizvoda koji je predmetom tog propisa mora biti iz domaćeg izvora. Štoviše, niti jedna Ugovorna stranka neće drukčije primjenjivati unutrašnje količinske propise na način koji je suprotan načelima iz stavka 1.
