@@ -1,0 +1,5 @@
+# Članak 16.
+Članak 46. mijenja se i glasi:
+"(1) Predujam poreza na dohodak od samostalne djelatnosti koji inozemni porezni obveznici ostvare obavljanjem umjetničke, artističke, športske, književne i likovne djelatnosti, uključujući i djelatnosti u svezi s tiskom, radiom i televizijom plaća se po odbitku po stopi od 20% bez prava na osobne odbitke iz članka 34. ovoga Zakona. Tako plaćeni predujmovi smatraju se konačno utvrđenim porezom na dohodak i za te dohotke porezni obveznik nije obvezan podnijeti godišnju poreznu prijavu.
+(2) Predujam poreza na dohodak od drugih samostalnih djelatnosti iz članka 11. stavka 4. ovoga Zakona plaća se po stopi od 35%, bez prava na osobne odbitke iz članka 34. ovoga Zakona, a plaćeni predujmovi smatraju se konačno utvrđenim porezom na dohodak i porezni obveznik za te dohotke nije obvezan podnijeti godišnju poreznu prijavu.
+(3) Predujam poreza na dohodak zastupnika u predstavni- čkim tijelima javne vlasti koji primaju za svoju samostalnu zastupničku djelatnost, ubire se po odbitku kao porez na plaću prema članku 41. stavku 1., 2., 3. i 4. ovoga Zakona."
