@@ -1,0 +1,1 @@
+Na temelju članka 19. točke 5. Zakona o porezu na promet proizvoda i usluga ("Narodne novine", broj 36/91, 73/91, 18/92, 40/92, 61/92, 65/92 i 78/92) Vlada Republike Hrvatske na sjednici održanoj 15. siječnja 1993. godine donijela je
