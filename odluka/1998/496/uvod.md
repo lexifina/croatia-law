@@ -1,0 +1,1 @@
+Na temelju članaka 41. i 42. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1998. godinu ("Narodne novine", broj 141/97), Vlada Republike Hrvatske je na sjednici održanoj 19. ožujka 1998. godine, donijela
