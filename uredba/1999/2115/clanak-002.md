@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 28. dodaju se stavci 8. i 9. koji glase:
+»Vlada Republike Hrvatske, na zahtjev ovlaštenika, može produžiti razdoblje koncesije iz članka 28. stavka 3. i članka 65. stavka 5. Zakona na ukupno 50 godina, te sukladno tome izmijeniti i ostale uvjete iz odluke i ugovora o koncesiji, ukoliko nove investicije to gospodarski opravdavaju ili ukoliko nastupi viša sila ili promijenjene okolnosti zbog kojih se u razdoblju koncesije ne mogu ostvariti koncesijski ciljevi.
+Poglavarstvo županije, na zahtjev ovlaštenika, iznimno, uz suglasnost Vlade Republike Hrvatske, može produžiti razdoblje koncesije iz članka 28. stavka 3. i članka 65. stavka 5. Zakona na ukupno 24 godine, te sukladno tome izmijeniti i ostale uvjete iz odluke i ugovora o koncesiji, ukoliko nove investicije to gospodarski opravdavaju ili ukoliko nastupi viša sila ili promijenjene okolnosti zbog kojih se u razdoblju koncesije ne mogu ostvariti koncesijski ciljevi.«
