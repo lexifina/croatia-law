@@ -1,0 +1,4 @@
+# Članak 49.
+(1) Svaku promjenu vlasničke strukture nakladnik elektroničkog medija mora pisanim putem prijaviti Vijeću za elektroničke medije i Agenciji za zaštitu tržišnog natjecanja.
+(2) Ako Agencija za zaštitu tržišnog natjecanja utvrdi da je nastalim promjenama vlasničke strukture ostvarena nedopuštena koncentracija u području medija, naložit će nakladniku da u određenom roku uskladi svoju vlasničku strukturu na način koji nije u suprotnosti s odredbama ovoga Zakona, te će o tome obavijestiti Vijeće za elektroničke medije.
+(3) Ako nakladnik elektroničkog medija ne postupi u skladu s nalogom Agencije za zaštitu tržišnog natjecanja, primijenit će se odredbe ovoga Zakona o prestanku važenja koncesije prije isteka roka na koji je dodijeljena, a odluku o oduzimanju koncesije donosi Vijeće za elektroničke medije.

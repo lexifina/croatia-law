@@ -1,0 +1,2 @@
+# Članak 47.
+Smatra se da postoji nedopuštena koncentracija u području medija i u slučajevima iz članka 46. ovoga Zakona, ako u kapitalu drugog nakladnika koji obavlja djelatnost radija i/ili televizije, novinskog nakladnika dnevnog tiska ili novinske agencije ima udjel iznad utvrđene visine kapitala fizička ili pravna osoba koja je osnivač nakladnika koji obavlja djelatnost radija i/ili televizije, odnosno osnivač, ili s njim povezane osobe u smislu članka 45. ovoga Zakona.

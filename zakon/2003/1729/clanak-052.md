@@ -1,0 +1,2 @@
+# Članak 52.
+Pravna osoba čija je djelatnost prikupljanje, oblikovanje i posredovanje oglasa, kao i fizička ili pravna osoba, te skupina povezanih osoba, koja u kapitalu, odnosno imovini te vrste ima više od 10 % vlasničkog udjela ili više od 10 % upravljačkih, odnosno glasačkih prava, ne može biti nakladnik i/ili osnivač nakladnika radijskoga, odnosno televizijskog programa, niti može imati vlasništvo dionica ili udjele u kapitalu nakladnika radijskog ili televizijskog programa.
