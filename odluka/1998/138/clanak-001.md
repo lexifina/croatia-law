@@ -1,0 +1,2 @@
+# Članak 1.
+Osnovica za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima Domovinskog rata s oštećenjem organizma 100% I. skupine (u daljnjem tekstu: HRVI Domovinskog rata 100% I. skupine) je svota novčane naknade koja se određuje u visini invalidnine HRVI Domovinskog rata I. skupine sa 100% tjelesnog oštećenja, uvećana za doprinos na plaću i iz plaće i isplaćuje se u mjesečnim svotama i to unazad.

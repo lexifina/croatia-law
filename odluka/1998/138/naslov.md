@@ -1,0 +1,1 @@
+Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima
