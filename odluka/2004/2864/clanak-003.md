@@ -1,0 +1,116 @@
+## Županija
+## OpĆina
+## Zagrebačka ORLE
+## Krapinsko-zagorska BUDINŠĆINA
+## HRAŠĆINA
+## MIHOVLJAN
+## ZAGORSKA SELA
+## Sisačko-moslavačka JASENOVAC
+## LIPOVLJANI
+## Karlovačka BARILOVIĆI
+## BOSILJEVO
+## CETINGRAD
+## DRAGANIĆ
+## GENERALSKI STOL
+## KAMANJE
+## NETRETIĆ
+## RIBNIK
+## SABORSKO
+## ŽAKANJE
+## Varaždinska BERETINEC
+## VIDOVEC
+## Koprivničko-križevačka DRNJE
+## ĐELEKOVAC
+## FERDINANDOVAC
+## GORNJA RIJEKA
+## HLEBINE
+## KALINOVAC
+## KOPRIVNIČKI BREGI
+## LEGRAD
+## NOVIGRAD PODRAVSKI
+## NOVO VIRJE
+## PETERANEC
+## RASINJA
+## SOKOLOVAC
+## SVETI PETAR OREHOVEC
+## VIRJE
+## Bjelovarsko-bilogorska BEREK
+## DEŽANOVAC
+## KAPELA
+## KONČANICA
+## NOVA RAČA
+## ROVIŠĆE
+## ŠANDROVAC
+## ŠTEFANJE
+## VELIKA TRNOVITICA
+## ZRINSKI TOPOLOVAC
+## Primorsko-goranska KLANA
+## Virovitičko-podravska CRNAC
+## ČAČINCI
+## ČAĐAVICA
+## GRADINA
+## MIKLEUŠ
+## NOVA BUKOVICA
+## SOPJE
+## VOĆIN
+## ZDENCI
+## Požeško-slavonska BRESTOVAC
+## ČAGLIN
+## JAKŠIĆ
+## KAPTOL
+## KUTJEVO
+## Brodsko-posavska GORNJI BOGIĆEVCI
+## VRBJE
+## Zadarska GRAČAC
+## Osječko-baranjska ČEPIN
+## DARDA
+## DRENJE
+## ERNESTINOVO
+## GORJANI
+## JAGODNJAK
+## KOŠKA
+## MOSLAVINA PODRAVSKA
+## PODGORAČ
+## PUNITOVCI
+## SATNICA ĐAKOVAČKA
+## STRIZIVOJNA
+## TRNAVA
+## VIŠKOVCI
+## VLADISLAVCI
+## VUKA
+## Šibensko-kninska CIVLJANE
+## ERVENIK
+## KISTANJE
+## PROMINA
+## Vukovarsko-srijemska ANDRIJAŠEVCI
+## CERNA
+## GUNJA
+## JARMINA
+## LOVAS
+## OTOK
+## PRIVLAKA
+## TRPINJA
+## VOĐINCI
+## Splitsko-dalmatinska CISTA PROVO
+## DICMO
+## HRVACE
+## LEĆEVICA
+## LOKVIČIĆI
+## LOVREČ
+## OTOK
+## PODBABLJE
+## PRGOMET
+## PRIMORSKI DOLAC
+## PROLOŽAC
+## RUNOVIĆI
+## ŠESTANOVAC
+## ZAGVOZD
+## ZMIJAVCI
+## Dubrovačko-neretvanska KULA NORINSKA
+## POJEZERJE
+## ZAŽABLJE
+## Međimurska OREHOVICA
+## SELNICA
+## SVETI MARTIN NA MURI
+# Članak 3.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
