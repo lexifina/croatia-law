@@ -1,0 +1,11 @@
+# Članak 10.
+UTVRĐIVANJE TARIFA
+1. Tarife koje će biti naplaćivane od određenih prijevoznika jedne ugovorne stranke za prijevoz na ili sa teritorija druge ugovorne stranke, bit će uspostavljene na razumnim razinama, uvažavajući relevantne faktore uključujući troškove prometovanja, razumni povrat uloženih sredstava i tarife drugih prijevoznika.
+2. Tarife iz stavka 1. ovog članka bit će, ako je moguće, dogovorene između određenih prijevoznika obiju ugovornih stranaka, nakon konzultacije sa drugim zračnim prijevoznicima koji prometuju na cijeloj ili dijelu linije, i takav dogovor će, kada je to moguće, biti postignut putem mehanizama Međunarodne udruge zračnog prometa za utvrđivanje tarifa.
+3. Tarife tako dogovorene bit će podnijete na odobrenje zrakoplovnim vlastima ugovornih stranaka najkasnije šezdeset (60) dana prije njihove predviđene primjene.
+U posebnim slučajevima, ovaj rok može biti skraćen ako se o tome dogovore rečene vlasti.
+4. Ovo odobrenje može biti dano izričito. Ako nijedna zrakoplovna vlast ne izrazi svoje neslaganje unutar trideset (30) dana od dana njihova podnošenja u skladu sa stavkom 3. ovog članka, ove tarife će se smatrati odobrenim. U slučaju kada je rok za njihovo podnošenje skraćen, kako je predviđeno stavkom 3., zrakoplovne vlasti se mogu sporazumjeti da rok unutar kojeg bilo koje neslaganje mora biti izraženo bude kraći.
+5. Ako tarife ne mogu biti dogovorene sukladno stavku 2. ovog članka, ili, za vrijeme razdoblja primjenjivog sukladno stavku 4. ovog članka, jedna zrakoplovna vlast obavijestit će drugu zrakoplovnu vlast o svojem neslaganju s bilo kojom dogovorenom tarifom sukladno odredbama stavka 2. Zrakoplovne vlasti ugovornih stranaka će, nakon konzultacija sa zrakoplovnim vlastima bilo koje druge države čiji savjet mogu smatrati korisnim, nastojati utvrditi tarifu međusobnim sporazumom.
+6. Ako se zrakoplovne vlasti ne mogu sporazumjeti oko bilo koje tarife njima podnijete sukladno stavku 3. ovog članka ili oko određivanja bilo koje tarife sukladno stavku 5. ovog članka, spor će biti riješen sukladno odredbama članka 19. ovog Sporazuma.
+7. Tarifa uspostavljena prema odredbama ovog članka ostat će na snazi dok nova tarifa ne bude uspostavljena.
+Međutim, tarifa neće biti produžena prema odredbama ovog stavka za vrijeme duže od dvanaest mjeseci nakon datuma od kojeg bi inače bila prestala važiti.

@@ -1,0 +1,7 @@
+# Članak 5.
+KAPACITET
+1. Postojat će pravične i jednake mogućnosti, u svakom pogledu, za određene prijevoznike svake ugovorne stranke za obavljanje međunarodnog prijevoza između i iza teritorija dviju stranaka.
+2. U obavljanju ugovorenog prometa, zračni prijevoznici svake ugovorne stranke uzet će u obzir interese zračnih prijevoznika druge ugovorne stranke kako se ne bi neopravdano štetilo prometu koji potonji obavlja na cijelom ili dijelu iste linije.
+3. Kapacitet koji će biti ponuđen, učestalost prometa koji će biti prometovan i priroda zračnog prometa, koji proizlazi kroz ili završava na teritoriju ugovorne stranke bit će dogovoren između zrakoplovnih vlasti sukladno principima utvrđenim u ovom članku.
+4. Povećanje kapaciteta koje će se ponuditi ili učestalost prometa koji će se obavljati od strane određenih prijevoznika druge ugovorne stranke bit će dogovoren između zrakoplovnih vlasti, na osnovama pretpostavljenih potreba prijevoza između teritorija dvije stranke i svaki drugi prijevoz bit će zajednički dogovoren i utvrđen. U očekivanju takvog sporazuma ili dogovora, odobreni kapacitet i učestalost koji su na snazi će prevladati.
+5. Kapacitet koji će biti ponuđen, učestalost prometa koji će biti prometovan i priroda zračnog prometa, koji proizlazi kroz ili završava na teritoriju ugovorne stranke i koji je dogovoren sukladno odredbama ovog članka, bit će određen razmjenom pisama između zrakoplovnih vlasti ugovornih stranaka.
