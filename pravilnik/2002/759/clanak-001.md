@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se djelokrug, sadržaj i postupak obavljanja nadzora koji provodi Agencije za nadzor mirovinskih fondova i osiguranja (u daljnjem tekstu: Agencija) nad poslovanjem mirovinskih društava i mirovinskih fondova te imovine fondova koja se nalazi na pohrani i čuvanju kod banke skrbnika (u daljnjem tekstu: subjekti nadzora), te ovlaštenja za obavljanje nadzora i mjere koje se poduzimaju radi otklanjanja nezakonitosti i nepravilnosti u njihovom radu.
