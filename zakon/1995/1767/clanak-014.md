@@ -1,0 +1,5 @@
+## UTVRĐIVANJE VRIJEDNOSTI IMOVINE FONDA
+# Članak 14.
+(1) Vrijednost imovine fonda izračunava i utvrđuje depozit na banka svakog burzovnog dana na temelju tečajnih vrijednosti njegovih vrijednosnih papira i depozita u financijskim institucijama te drugih imovinskih vrijednosti uz odbitak obveza. Depoizitna banka utvrđuje vrijednost vrijednosnih papira koji nisu uvršteni za prodaju na burzi. Metode procjene i utvrđivanja vrijednosti moraju odgovarati međunarodno priznatim standardima. Za poslove procjene i utvrđivanja vrijednosti imovine fonda depozitna banka može koristiti usluge drugih stručnih institucija i savjetnika.
+(2) Za procjenu nekretnina u imovini fonda društvo mora imenovati odbor od najmanje tri sudska vještaka. O imenovanju odbora i svakoj izmjeni članova odbora mora izvijestiti Komisiju. Pri izračunavanju vrijednosti nekretnina mjerodavna je njihova prometna, odnosno tržišna vrijednost. Vrijednost imovine fonda za nekretnine utvrđuje odbor sudskih vještaka.
+(3) Komisija može prema potrebi urediti ostale pojedinosti u svezi s procjenom i utvrđivanjem imovine fonda.

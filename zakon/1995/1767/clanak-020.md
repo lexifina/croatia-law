@@ -1,0 +1,6 @@
+## DJELATNOST DRUŠTVA ZA UPRAVLJANJE INVESTICIJSKIM FONDOVIMA
+# Članak 20.
+(1) Društvo je obvezno svoje poslovanje zasebnom imovinom voditi s pozornošću savjesnog gospodarstvenika, neovisno o depozitnoj banci i isključivo u interesu vlasnika udjela u fondu, na temelju statuta fonda, odredbi ovoga Zakona, uvažavajući načela iz članka 2. stavka 1. ovoga Zakona.
+(2) Članovi i dioničari društva, članovi uprave i nadzornih odbora društva te sve osobe koje su u njemu zaposlene ili za njega obavljaju stalne ili povremene poslove na temelju posebnog ugovora, moraju čuvati tajnu o poslovima društva. To se posebno odnosi na imena i adrese vlasnika udjela u otvorenom fondu i dioničara u zatvorenom fondu, veličinu i vrijednost udjela u fondu i isplaćenog udjela u dobitku fonda. Obveza čuvanja tajne postoji i nakon prestanka rada u društvu ili obavljanju poslova za društvo.
+(3) Podaci o vlasnicima udjela, njihovim udjelima, uplatama i isplatama poslovna su tajna društva i mogu se priopćavati samo na temelju sudskoga naloga.
+(4) Odredbe iz stavka 2. i 3. ovoga članka ne primjenjuju se glede obveze društva o davanju podataka i izvješćivanju Komisije radi obavljanja nadzora nad poslovanjem društva te davanja podataka središnjoj depozitnoj instituciji radi evidentiranja dionica.
