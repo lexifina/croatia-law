@@ -1,0 +1,3 @@
+## o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor
+# Članak 1.
+Iznimno od odredaba članka 19. stavka l., točke 2. Zakona o porezu na promet proizvoda i usluga ("Narodne novine", broj 36/91, 73/91, 18/92, 25/93, 57/93, 63/93, 73/93, 81/93., 89/93 i 90/93) izvoz i provoz nafte i naftnih derivata, duhana i duhanskih prerađevina, kave (sirove, pržene, mljevene, ekstrakt), alkohola (etanola), alkoholnih i bezalkohclnih pića, šećera i kozmetičkih proizvoda kroz carinskc pcdručje Republike Hrvatske, u zemlje za koje je potreban pojačani carinski nadzor, smatra se prometom proizvoda koji su namijenjeni krajnjoj osobnoj potrošnji.
