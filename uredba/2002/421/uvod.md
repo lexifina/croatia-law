@@ -1,0 +1,1 @@
+Na temelju članka 29. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), a u vezi s člankom 87. i člankom 90. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/2001 i 60/2001), Vlada Republike Hrvatske je na sjednici održanoj 21. veljače 2002. godine donijela
