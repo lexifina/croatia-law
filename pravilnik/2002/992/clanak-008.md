@@ -1,0 +1,6 @@
+# Članak 8.
+Kapilarna cijev živinog termometra jest ravna kapilarna cijev koja se nastavlja na spremnik. Unutarnji presjek kapilarne cijevi mora biti krug i mora biti jednak čitavom njezinom duljinom osim prelaska u komoru za stezanje ili ekspanzijsku komoru, ako takve komore živin termometar ima.
+Kapilarna cijev živinog termometra može imati proširenje - komoru za stezanje, koja može biti smještena ispod glavne ljestvice ili između glavne i pomoćne ljestvice. Komora za stezanje služi smanjenju duljine kapilarne cijevi.
+Gornji kraj kapilarne cijevi živinog termometra može imati proširenje - ekspanzijsku komoru takvog obujma, da se zagrijavanjem termometra i za 60°C iznad gornje granice mjernog područja, živin termometar ne ošteti. Prije prelaska u ekspanzijsku komoru, kapilarna cijev mora najmanje za 20 mm premašiti zadnju crtu na ljestvici.
+Kapilarna cijev živinog termometra mora biti vidljiva čitavom duljinom.
+Kapilarna cijev živinog termometra, čije mjerno područje prelazi 100°C, mora iznad žive biti napunjena zaštitnim plinom, koji mora biti suh i bez kisika. Plin mora biti pod tlakom, tako da spriječi odvajanja žive iznad meniska živinog stupca na bilo kojoj temperaturi iz mjernog područja.
