@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 21. dodaje se stavak 3. i 4. koji glase: .Nematerijalni troškovi koji se odnose na dnevnice za službena putovanja, naknade za troškove prijevoza na rad i s rada, naknada za smještaj i prehranu na terenu, troškovi za prehranu radnika u toku rada i ostale naknade radnicima, priznaju se pravnim i fizičkim osobama do iznosa utvrđenim kolektivnim ugovorima.
+Na iznose dnevnica za službena putovanja, naknade za troškove prijevoza na rad i s rada, naknade za smještaj i prehranu na terenu, troškove za prehranu radnika u toku rada i ostale naknade radnicima isplaćene iznad iznosa utvrđenih kolektivnim ugovorima plaća se posebni porez na dobit po stopi koja se utvrđuje zakonom."

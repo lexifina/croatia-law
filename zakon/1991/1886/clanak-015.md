@@ -1,0 +1,7 @@
+# Članak 15.
+Članak 105. mijenja se i glasi:
+"Obveznici poreza na dobit koji porez na dobit plaćaju prema ostvarenoj dobiti dužni su u roku propisanom za predaju periodičnog obračuna, odnosno završnog računa ili godišnjeg obračuna predati nadležnoj službi kod koje imaju žiro-račun, obračun poreza na dobit i uplatiti obračunati porez.
+Fizičke osobe koje plaćaju porez na dobit prema ostvarenoj dobiti dužne su obračun poreza dostaviti nadležnoj upravi prihoda i uplatiti obračunati porez.
+Ako porezni obveznik iz stavka 1. ovoga članka u propisanom roku za predaju periodičnog obračuna odnosno završnog računa ne dostavi obračun poreza i ne uplati obračunati porez, nadležna služba kod koje porezni obveznik ima žiro-račun dužna je u roku od osam dana od dana isteka roka za dostavu obračuna obavijestiti mjesno nadležnu upravu prihoda radi utvrđivanja poreznih obveza.
+Ako porezni obveznik iz stavka 2. ovoga članka u propisanom roku za predaju periodičnog obračuna, odnosno završnog računa ne dostavi obračun poreza i ne uplati obračunati porez, uprava prihoda utvrdit će rješenjem poreznu obvezu.
+Fizičke osobe koje porez na dobit plaćaju u paušalnom godišnjem iznosu dužne su upravi prihoda dostaviti izvještaj o ostvarenom ukupnom prihodu, troškovima poslovanja i isplaćenim osobnim dohocima za razdoblje siječanj - lipanj odnosno siječanj - prosinac do 15. srpnja, odnosno 15. siječnja na obrascu polugodišnjeg i godišnjeg obračuna.
