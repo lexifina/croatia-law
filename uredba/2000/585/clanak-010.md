@@ -1,0 +1,3 @@
+# Članak 10.
+2. ODJEL ZA SKRB O HRVI IZ DOMOVINSKOG RATA
+Odjel za skrb o HRVI iz Domovinskog rata obavlja upravne i stručne poslove u svezi s pravnim položajem i rješavanjem statusnih i drugih pitanja HRVI iz Domovinskog rata, prati stanje i pravni položaj HRVI, predlaže mjere za poboljšanje njihova statusa i ostvarivanje Zakonom zajamčenih prava HRVI iz Domovinskog rata radi ostvarivanja prava, provodi stručne poslove profesionalne rehabilitacije HRVI iz Domovinskog rata radi njihova stručna osposobljavanja za rad i život u civilnim strukturama društva, te obavlja i druge stručne poslove iz ovoga područja.
