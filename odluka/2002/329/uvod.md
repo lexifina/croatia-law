@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 21. Statuta Općine Dubravica (»Službeni glasnik Općine Dubravica« br. 3/01) Općinsko vijeće Općine Dubravica na 9. sjednici održanoj 24. siječnja 2002. godine donijelo je
