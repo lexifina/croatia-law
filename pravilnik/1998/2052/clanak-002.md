@@ -1,0 +1,3 @@
+# Članak 2.
+Stanice za tehnički pregled vozila (u daljnjem tekstu: stanice) i Centar za vozila Hrvatske i Hrvatski autoklub (u daljnjem tekstu: stručne organizacije) dužni su zajednički i u dobroj namjeri provoditi sve potrebne mjere i aktivnosti za ostvarivanje skladnog, stručnog i ravnomjernog vlastitog rada i razvoja, kao i rada i razvoja stanica u Republici Hrvatskoj.
+Provodeći odredbu stavka 1. ovog članka stručne organizacije i stanice dužne su pridržavati se odredaba ovog pravilnika, osigurati da se poslovi jedinstvenog sustava tehničkih pregleda i registracije vozila organiziraju kao jedinstveni sustav i to na način koji će doprinijeti pospješivanju sigurnosti prometa na cestama i ažurnom i profesionalnom zadovoljavanju potreba vlasnika vozila.

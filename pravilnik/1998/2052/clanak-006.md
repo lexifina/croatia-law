@@ -1,0 +1,5 @@
+# Članak 6.
+Naknada za poslove jedinstvenog sustava tehničkih pregleda i registracije vozila, koju plaća vlasnik vozila, utvrđuje se u jedinstvenom iznosu za Republiku Hrvatsku, a sastoji se od:
+1. dijela naknade za obavljanje poslova jedinstvenog sustava tehničkih pregleda i registracije vozila koji pripada stanicama koje obavljaju taj posao i služi za pokrivanje troškova poslovanja stanica (plaće zaposlenika, održavanje i amortizacija objekta, nabavka i održavanje uređaja i opreme za tehničke preglede vozila i druge poslove koji se obavljaju u stanicama i dr.);
+2. dijela naknade za obavljanje poslova jedinstvenog sustava tehničkih pregleda i registracije vozila koji pripada stručnim organizacijama (kako je to razrađeno u članku 11. stavak 2. ovog pravilnika).
+Naknada za propisane tiskanice (registracijski list, prometna dozvola, knjižica vozila, naljepnice i drugi propisani obrasci) pripada tijelu ili organizaciji nadležnoj za njihovo tiskanje i distribuciju, a u pravilu se ne uključuje u naknadu iz stavka 1. ovog članka.

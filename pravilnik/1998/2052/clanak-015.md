@@ -1,0 +1,2 @@
+# Članak 15.
+Stupanjem na snagu ovog pravilnika prestaje važiti Pravilnik o naknadama za tehnički pregled vozila i drugih poslova koji se obavljaju u stanicama za tehnički pregled vozila I/1, broj: 708-1/93, broj: 3210/3, od 8. prosinca 1993. godine i Pravilnik o izmjenama i dopunama Pravilnika o naknadama za tehnički pregled vozila i drugih poslova koji se obavljaju u stanicama za tehnički pregled vozila ("Narodne novine" broj 4/97 od 15. 1. 1997.).
