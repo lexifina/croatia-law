@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva iz članka 1. ove Uredbe kao i sredstva iz Državnog proračuna Republike Hrvatske za 1997. godinu - Razdjela 035, glava 05 - Ministarstvo razvitka i obnove dužno je koristiti za stambeno zbrinjavanje hrvatskih ratnih vojnih invalida iz Domovinskog rata i obitelji poginuloga, umrloga, zatočenoga i nestaloga hrvatskog branitelja sukladno odredbi članka 23. stavka 1. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, a prema planu i redu prvenstva iz članka 26. stavka 1. i popisu iz članka 67. stavka 1. istoga Zakona.
