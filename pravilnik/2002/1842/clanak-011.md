@@ -1,0 +1,2 @@
+# Članak 11.
+Nadzor nad provedbom osposobljavanja kod poslodavca, bez obzira da li osposobljavanje provodi sam poslodavac na temelju ovlaštenja ili osposobljavanje provodi ovlaštena ustanova odnosno trgovačko društvo, obavlja se neposrednim očevidom kako bi se utvrdila usklađenost programa osposobljavanja s procjenom opasnosti i stvarnim opasnostima i štetnostima kojima su radnici izloženi pri obavljanju poslova.
