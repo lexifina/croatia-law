@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o Hrivatskom Crvenom križu ("Narodne novine", broj 61/91) i članka 23. stavak 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), Vlada Republike Hrvatske je na sjednici održanoj 24. travnja 1995. godine donijela
