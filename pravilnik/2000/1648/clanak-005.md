@@ -1,0 +1,4 @@
+# Članak 5.
+Učitelji iz stavka 1. članka 4. ovoga pravilnika do pune tjedne obveze u neposrednome odgojno-obrazovnom radu s učenicima zadužuju se sukladno odredbama Pravilnika o obvezama.
+U slučajevima kada bi zaduživanje učitelja predmetne nastave sukladno stavku 1. ovoga članka izazvalo umanjenje radnog vremena drugom zaposleniku koji ima ugovor o radu na neodređeno vrijeme, učitelj predmetne nastave iz stavka 1. ovoga članka može iznimno do pune tjedne obveze u neposrednome odgojno-obrazovnom radu s učenicima biti zadužen oblicima neposrednoga odgojno-obrazovnog rada s učenicima utvrđenim odredbama stavka 2. i stavka 3. članka 20. Pravilnika o obvezama.
+Učitelji koji koriste pravo na manje tjedne obveze neposrednog odgojno-obrazovnog rada s učenicima ne mogu se zaduživati prekovremenim radom za poslove neposrednoga odgojno-obrazovnog rada s učenicima kojih su oslobođeni na temelju prava na manje tjedne obveze u neposrednom odgojno-obrazovnom radu s učenicima.
