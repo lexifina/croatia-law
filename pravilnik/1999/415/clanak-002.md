@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 64. stavak 4. mijenja se i glasi:
+"(4) Iznimno od odredbi stavka 1. i 2. ovoga članka, ugostiteljski objekti vrste: zdravljak, zalogajnica, pečenjarnica, pizzeria, slastičarnica, objekt brze prehrane tip I, caffebar, buffet, krčma, konoba i klet, kojima je prostorija za usluživanje površine do 50 m˛, a koji se razvrstavaju u novu vrstu, odnosno koji traže utvrđivanje minimalnih uvjeta nakon 15. ožujka 1999. godine, ili ako se nalaze u ugostiteljskom objektu za smještaj koji se kategorizira, moraju imati najmanje jedan zahod, predprostor s umivaonikom, te pisoar. Pisoar mora biti od zahoda ili umivaonika vizualno odijeljen pregradnim elementom ili zidom."
