@@ -1,0 +1,1 @@
+Na temelju članka 3. Uredbe o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežno državnom vlasništvu ("Narodne novine", br. 83/93), ministar financija donosi
