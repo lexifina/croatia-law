@@ -1,2 +1,2 @@
 # Članak 35.
-Svakomu se građaninu janmči štovanje i pravna zaštita njegova osobnog i obiteljskog života, dostojanstva, ugleda i časti.
+Svakomu se čovjeku i građaninu jamči štovanje i pravna zaštita njegova osobnog i obiteljskog života, dostojanstva, ugleda i časti.

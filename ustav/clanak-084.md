@@ -1,2 +1,2 @@
 # Članak 84.
-Sjednice su domova Sabora Republike Hrvatske javne.
+Sjednice su domova Hrvatskog državnog sabora javne.

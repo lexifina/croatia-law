@@ -1,2 +1,2 @@
 # Članak 76.
-Trajanje mandata zastupnicima u Saboru Republike Hrvatske može se zakonom produžiti samo u slučaju rata.
+Trajanje mandata zastupnicima u Hrvatskom državnom saboru može se zakonom produžiti samo u slučaju rata.
