@@ -1,0 +1,3 @@
+## A.1. KORIŠTENJE CESTOVNOG ZEMLJIŠTA U KOMERCIJALNE SVRHE za objekte trajnog karaktera (zidani,čvrsti objekti)
+# Članak 4.
+Kriterij za utvrđivanje visine naknade za korištenje, cestovnog zemljišta za objekte trajnog karaktera u kojima se obavljaju prateće uslužne djelatnosti (komercijalno korištenje) a) za pravne i fizičke osobe koje obavljaju ugostiteljsku, trgovačku, servisnu i sl. djelatnost je ostvareni promet od obavljanja djelatnosti b) za korisnike koji obavljaju djelatnost prodaje nafte i naftnih prerađevina ostvareni maloprodajni rabat (razlika u cijeni), odnosno maloprodajna cijena nafte i naftnih prerađevina.

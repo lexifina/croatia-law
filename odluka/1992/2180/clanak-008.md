@@ -1,0 +1,2 @@
+# Članak 8.
+Naknada za korištenje cestovnog zemljišta utvrđuje se temeljem kriterija i mjerila iz članka 7. ove odluke u visini od: a) -% od ostvarenog prometa od obavljanja ugostiteljskih, trgovačkih, ostalih usluga, za korisnike iz točke a) članka 4. b) -% od ostvarenog rabata (razlika u cijeni) nafte i naftnih prerađevina /% od maloprodajne cijene nafte i naftnih prerađevina iz točke b) članka 4. ove odluke.
