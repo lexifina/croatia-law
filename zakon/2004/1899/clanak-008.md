@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Pravilnike iz članka 2. i članka 6. ovoga Zakona kao i izmjene Pravilnika o sudskim službenicima i namještenicima donijet će ministar nadležan za poslove pravosuđa u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+(2) Uz ispunjenje uvjeta za imenovanje ovlaštenih zemljišnoknjižnih referenata predsjednik neposredno višeg suda može privremeno po prijedlogu predsjednika zemljišnoknjižnog suda zemljišnoknjižnim referentima izdati ovlast za postupanje i donošenje rješenja u zemljišnoknjižnom postupku u smislu ovoga Zakona na vrijeme od 2 godine od dana povjeravanja ovlasti službeniku.
+(3) Za vrijeme trajanja privremene ovlasti ovlašteni zemljišnoknjižni referent dužan je položiti poseban stručni ispit po odredbama ovoga Zakona. Ako službenik ne položi taj ispit u roku od 2 godine, tada gubi ovlast za samostalno obavljanje povjerenih mu poslova, a ukoliko položi ispit, tada mu se može izdati ovlaštenje za obavljanje poslova na daljnji period od 5 godina.
+(4) Nakon isteka navedenog roka od 5 godina ovlaštenom sudskom službeniku može se povjeriti obavljanje poslova u zemljišnoknjižnom postupku trajno.
+(5) Dosadašnji zemljišnoknjižni referenti koji ne dobiju privremenu ovlast za obavljanje poslova ovlaštenih zemljišnoknjižnih referenata nastavit će raditi u zemljišnoj knjizi na dosadašnji način.
