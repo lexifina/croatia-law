@@ -1,0 +1,1 @@
+Na temelju članka 11. stavak 2., članka 12. stavak 1. i članka 38. stavak 3. točka f) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.), Savjet Hrvatske narodne banke na sjednici održanoj 9. listopada 2002. donio je
