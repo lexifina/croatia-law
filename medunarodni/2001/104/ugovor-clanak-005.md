@@ -1,0 +1,6 @@
+# Članak 5.
+UTEMELJENJE POSEBNO ZAŠTIĆENIH PODRUČJA
+1. Svaka stranka može utemeljiti posebno zaštićena područja u morskim i obalnim zonama koje su u okviru njenog suvereniteta ili jurisdikcije.
+2. Ako jedna stranka namjerava utemeljiti posebno zaštićeno područje pod njenim suverenitetom ili nacionalnom jurisdikcijom, u pograničnom dijelu ili na samoj granici područja pod suverenitetom ili nacionalnom jurisdikcijom druge stranke, nadležna tijela vlasti jedne i druge stranke nastojat će surađivati, radi postizanja dogovora o poduzimanju mjera, inter alia, razmatrat će mogućnost da druga stranka utemelji odgovarajuće, posebno zaštićeno područje ili donese druge svrsishodne mjere.
+3. Ako bi jedna stranka željela utemeljiti, posebno zaštićeno područje pod njenim suverenitetom ili nacionalnom jurisdikcijom, u pograničnom dijelu ili na samoj granici područja pod suverenitetom ili nacionalnom jurisdikcijom države koja nije stranka ovoga Protokola, stranka će nastojati surađivati s tom državom, u smislu prethodnog stavka.
+4. Ako država koja nije stranka ovoga Protokola namjerava utemeljiti posebno zaštićeno područje, u pograničnom dijelu ili na samoj granici područja pod suverenitetom ili nacionalnom jurisdikcijom jedne stranke ovoga Protokola, stranka će nastojati surađivati s tom državom, u smislu stavka 2.
