@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 4. Zakona o stočarstvu (»Narodne novine« 70/97. i 36/98.) ministar poljoprivrede i šumarstva, uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo, donosi
