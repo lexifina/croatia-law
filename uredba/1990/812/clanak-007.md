@@ -1,0 +1,5 @@
+# Članak 7.
+Centar se osniva za obavljanje stručno-tehničkih i drugih poslova i zadataka (statistički, informativni, dokumentalistički i slično).
+lznimno od stavka 1. ovoga članka, u cilju efikasnog poslovanja i racionalnog korištenja sredstava, centar se može osnovati i kao organizacioni oblik suradnje organa za obavljanje poslova i zadataka organizacionih jedinica osnovanih izvan sjedišta tih organa.
+U okviru centra, u smislu stavka 2. ovoga članka, može se organizirati i obavljanje kancelarijskih, računovodstvenih, pomoćno-tehničkih i drugih sličnih poslova i zajedničkog korištenja uredske tehnike i druge opreme kojima se osigurava poslovanje organizacionih jedinica osnovanih u istom mjestu izvan sjedišta organa. Ove poslove može se povjeriti i odgovarajućoj službi koja te poslove obavlja za općinske organe uprave.
+Centrom rukovodi šef centra kojega odredi rukovoditelj organa i kojemu je neposredno odgovoran (stavak 1. ovoga članka), odnosno koordinator centra kojega imenuje Vlada Republike Hrvatske i kojoj je neposredno odgovoran (stavak 2. ovoga članka).

@@ -1,0 +1,4 @@
+# Članak 6.
+Sektor se osniva za obavljanje poslova državne uprave i drugih stručnih poslova za jednu ili više srodnih djelatnosti za koje je organ osnovan, a u okviru kojeg je za obavljanje poslova neophodno osigurati neposrednu suradnju u obavljanju funkcije i objediniti rad više unutarnjih organizacionih jedinica.
+U okviru sektora se obavljaju poslovi i zadaci koji se odnose posebice na: provođenje odnosno osiguravanje provođenja politike Vlade Republike Hrvatske, izvršavanje odnosno osiguravanje izvršavanja zakona i drugih propisa, rješavanje upravnih stvari, obavljanje upravnog nadzora i obavljanje drugih poslova državne uprave, te obavljanje stručnih poslova za potrebe Vlade Republike Hrvatske i Sabora Republike Hrvatske.
+Radom sektora rukovodi pomoćnik rukovoditelja organa kojega odredi rukovoditelj organa i kojem je neposredno odgovoran.
