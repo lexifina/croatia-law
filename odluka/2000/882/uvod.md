@@ -1,0 +1,1 @@
+Na temelju članka 13b. stavka 2. Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98, 135/98, 105/99 i 25/2000) i članka 10. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj 6. travnja 2000. godine, donijela
