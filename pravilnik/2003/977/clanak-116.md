@@ -1,0 +1,2 @@
+# Članak 116.
+Policijski službenik smije napustiti objekt, osobu ili prostor koji osigurava samo u situacijama kada se u neposrednoj blizini izvršava kazneno djelo koje se progoni po službenoj dužnosti i za koje se može izreći kazna zatvora od 5 godina ili više, ili kada je to nužno radi sprečavanja izravne opasnosti, osim u situacijama kada napuštanjem mogu biti ugroženi životi i sigurnost štićenih osoba, objekata i prostora.

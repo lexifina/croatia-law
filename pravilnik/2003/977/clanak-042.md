@@ -1,0 +1,5 @@
+# Članak 42.
+Ako okolnosti upućuju na postojanje uvjeta za zakonitu uporabu vatrenog oružja, policijski službenik pripremit će vatreno oružje za uporabu umetanjem streljiva u cijev prije upućivanja usmenih upozorenja propisanih člankom 62. stavkom 3. Zakona o policiji.
+Policijski službenik u okolnostima iz stavka 1. ovog članka postavit će se u položaj koji mu pruža optimalnu sigurnost i omogućuje sigurnu uporabu vatrenog oružja te će usmjeriti vatreno oružje prema osobi prema kojoj ga namjerava upotrijebiti.
+Policijski službenik iz stavka 2. ovog članka, nakon datih usmenih upozorenja (»stoj policija!«, »stoj pucat ću!«), a neposredno prije uporabe vatrenog oružja, ako to okolnosti dopuštaju, može pucanjem u zrak upozoriti osobu o namjeri uporabe vatrenog oružja kao sredstva prisile.
+Policijski službenik tijekom pripravnosti za uporabu vatrenog oružja ne smije vatreno oružje usmjeravati prema drugim osobama, a odmah po prestanku okolnosti iz stavka 1. ovog članka dužan je izvaditi streljivo iz cijevi.

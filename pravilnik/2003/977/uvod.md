@@ -1,0 +1,1 @@
+Na temelju članka 128. i 129. stavka 2. podstavka 3., 4., 5., 6., 7., 8., 9., 10., 11., 12. i 13. Zakona o policiji (»Narodne novine«, br. 129/00.) te članka 186. stavka 7. Zakona o kaznenom postupku - pročišćeni tekst (»Narodne novine«, br. 62/03.), ministar unutarnjih poslova donosi

@@ -1,0 +1,120 @@
+POPIS KAZNENIH DJELA ZA KOJE SE TEMELJEM ODREDBI ČLANKA 62. STAVKA 2. TOČAKA 2. I 3. ZAKONA O POLICIJI MOŽE UPORABITI VATRENO ORUŽJE KAO SREDSTVO PRISILE
+I. Policijski službenik ovlašten je uporabiti vatreno oružje kada na drugi način ne može spriječiti izvršenje kaznenog djela za koje se može izreći kazna zatvora u trajanju od 5 godina i više (članak 62. stavak 2. točka 2. Zakona o policiji):
+- Kaznena djela protiv života i tijela, Glava deseta (X.) Kaznenog zakona:
+• Ubojstvo (članak 90. Kaznenog zakona),
+• Teško ubojstvo (članak 91. Kaznenog zakona),
+• Ubojstvo na mah (članak 92. Kaznenog zakona),
+• Usmrćenje na zahtjev (članak 94. Kaznenog zakona),
+• Teška tjelesna ozljeda (članak 99. stavak 2. Kaznenog zakona),
+- Kaznena djela protiv slobode i prava čovjeka i građanina, Glava jedanaesta (XI.) Kaznenog zakona:
+• Protupravno oduzimanje slobode (članak 124. stavak 3. Kaznenog zakona),
+• Otmica (članak 125. stavak 2. Kaznenog zakona),
+• Iznuđivanje iskaza (članak 126. stavak 2. Kaznenog zakona),
+- Kaznena djela protiv Republike Hrvatske, Glava dvanaesta (XII.) Kaznenog zakona:
+• Veleizdaja (članak 135. Kaznenog zakona),
+• Ubojstvo najviših državnih dužnosnika (članak 138. Kaznenog zakona),
+• Otmica najviših državnih dužnosnika (članak 139. Kaznenog zakona),
+• Nasilje prema najvišim državnim dužnosnicima (članak 140. Kaznenog zakona),
+• Protudržavni terorizam (članak 141. Kaznenog zakona),
+• Oružana pobuna (članak 142. Kaznenog zakona),
+• Diverzija (članak 143. Kaznenog zakona),
+- Kaznena djela protiv vrijednosti zaštićenih međunarodnim pravom, Glava trinaesta (XIII.) Kaznenog zakona:
+• Protupravno ubijanje i ranjavanje neprijatelja (članak 161. Kaznenog zakona),
+• Međunarodni terorizam (članak 169. Kaznenog zakona),
+• Ugrožavanje sigurnosti osoba pod međunarodnom zaštitom (članak 170. Kaznenog zakona),
+• Uzimanje talaca (članak 171. Kaznenog zakona),
+• Zlouporaba nuklearne tvari (članak 172. stavak 4. Kaznenog zakona),
+• Uspostava ropstva i prijevoz robova (članak 175. Kaznenog zakona),
+• Mučenje i drugo okrutno, neljudsko ili ponižavajuće postupanje (članak 176. Kaznenog zakona),
+• Otmica zrakoplova ili broda (članak 179. Kaznenog zakona),
+• Morsko i zračno razbojništvo (članak 180. Kaznenog zakona),
+• Ugrožavanje sigurnosti međunarodnog zračnog prometa i međunarodne plovidbe (članak 181. Kaznenog zakona),
+- Kaznena djela protiv spolne slobode i spolnog ćudoređa, Glava četrnaesta (XIV.) Kaznenog zakona:
+• Silovanje (članak 188. Kaznenog zakona),
+• Spolni odnošaj s nemoćnom osobom (članak 189. stavci 2., 3. i 4. Kaznenog zakona),
+• Spolni odnošaj s djetetom (članak 192. Kaznenog zakona),
+- Kaznena djela protiv imovine, Glava sedamnaesta (XVII.) Kaznenog zakona:
+• Razbojništvo (članak 218. Kaznenog zakona),
+• Razbojnička krađa (članak 219. Kaznenog zakona),
+• Iznuda (članak 234. stavak 2. Kaznenog zakona),
+- Kaznena djela protiv opće sigurnosti ljudi i, imovine i sigurnosti prometa, Glava dvadeseta (XX.) Kaznenog zakona:
+• Dovođenje u opasnost života i imovine općeopasnom radnjom ili sredstvom (članak 263. stavci 1. i 3. Kaznenog zakona),
+- Kaznena djela protiv javnog reda, Glava dvadeset četvrta (XXIV.) Kaznenog zakona:
+• Sprječavanje službene osobe u obavljanju službene dužnosti (članak 317. stavak 2. Kaznenog zakona),
+• Napad na službenu osobu (članak 318. stavak 3. Kaznenog zakona),
+- Kaznena djela protiv oružanih snaga Republike Hrvatske, Glava dvadeset šesta (XXVI.) Kaznenog zakona:
+• Protivljenje nadređenome (članak 354. stavci 3., 4. i 5. Kaznenog zakona),
+• Napad na vojnu osobu u obavljanju službene dužnosti (članak 357. stavak 2. Kaznenog zakona),
+II. Policijski službenik ovlašten je uporabiti vatreno oružje kada na drugi način ne može spriječiti bijeg osobe zatečene u izvršenju kaznenog djela za koje se može izreći kazna zatvora u trajanju od 10 godina ili teža, ili osobe za kojom je raspisana potraga zbog izvršenja takvog kaznenog djela (članak 62. stavak 2. točka 3. Zakona o policiji):
+- Kaznena djela protiv života i tijela, Glava deseta (X.) Kaznenog zakona:
+• Ubojstvo (članak 90. Kaznenog zakona),
+• Teško ubojstvo (članak 91. Kaznenog zakona),
+• Ubojstvo na mah (članak 92. Kaznenog zakona),
+- Kaznena djela protiv slobode i prava čovjeka i građanina, Glava jedanaesta (XI.) Kaznenog zakona:
+• Protupravno oduzimanje slobode (članak 124. stavak 3. Kaznenog zakona),
+• Otmica (članak 125. stavak 2. Kaznenog zakona),
+• Iznuđivanje iskaza (članak 126. stavak 2. Kaznenog zakona),
+- Kaznena djela protiv Republike Hrvatske, Glava dvanaesta (XII.) Kaznenog zakona:
+• Veleizdaja (članak 135. Kaznenog zakona),
+• Ubojstvo najviših državnih dužnosnika (članak 138. Kaznenog zakona),
+• Otmica najviših državnih dužnosnika (članak 139. Kaznenog zakona),
+• Nasilje prema najvišim državnim dužnosnicima (članak 140. Kaznenog zakona),
+• Protudržavni terorizam (članak 141. Kaznenog zakona),
+• Oružana pobuna (članak 142. Kaznenog zakona),
+• Diverzija (članak 143. Kaznenog zakona),
+- Kaznena djela protiv vrijednosti zaštićenih međunarodnim pravom, Glava trinaesta (XIII.) Kaznenog zakona:
+• Genocid (članak 156. Kaznenog zakona),
+• Agresivni rat (članak 157. Kaznenog zakona),
+• Ratni zločin protiv civilnog pučanstva (članak 158. Kaznenog zakona),
+• Ratni zločin protiv ranjenika i bolesnika (članak 159. Kaznenog zakona),
+• Ratni zločin protiv ratnih zarobljenika (članak 160. Kaznenog zakona),
+• Protupravno ubijanje i ranjavanje neprijatelja (čanak 161. Kaznenog zakona),
+• Uništavanje kulturnih dobara i objekata u kojima se nalaze kulturna dobra (članak 167. stavak 2. Kaznenog zakona),
+• Međunarodni terorizam (članak 169. Kaznenog zakona),
+• Ugrožavanje sigurnosti osoba pod međunarodnom zaštitom (članak 170. Kaznenog zakona),
+• Uzimanje talaca (članak 171. Kaznenog zakona),
+• Zlouporaba nuklearne tvari (članak 172. stavci 4., 6. i 7. Kaznenog zakona),
+• Uspostava ropstva i prijevoz robova (članak 175. Kaznenog zakona),
+• Otmica zrakoplova ili broda (članak 179. Kaznenog zakona),
+• Morsko i zračno razbojništvo (članak 180. Kaznenog zakona),
+• Ugrožavanje sigurnosti međunarodnog zračnog prometa i međunarodne plovidbe (članak 181. Kaznenog zakona),
+- Kaznena djela protiv spolne slobode i spolnog ćudoređa, Glava četrnaesta (XIV.) Kaznenog zakona:
+• Silovanje (članak 188. Kaznenog zakona),
+• Spolni odnošaj s nemoćnom osobom (članak 189. stavci 2., 3. i 4. Kaznenog zakona),
+• Spolni odnošaj s djetetom (članak 192. stavci 2., 3., 4. i 5. Kaznenog zakona),
+- Kaznena djela protiv imovine, Glava sedamnaesta (XVII.) Kaznenog zakona:
+• Razbojništvo (članak 218. Kaznenog zakona),
+• Razbojnička krađa (članak 219. Kaznenog zakona),
+• Iznuda (članak 234. stavak 2. Kaznenog zakona),
+• Ucjena (članak 235. stavak 2. Kaznenog zakona),
+- Kaznena djela protiv zdravlja ljudi, Glava osamnaesta (XVIII.) Kaznenog zakona:
+• Nedozvoljeno presađivanje dijelova ljudskog tijela (članak 242. stavak 7. Kaznenog zakona),
+- Kaznena djela protiv opće sigurnosti ljudi i, imovine i sigurnosti prometa, Glava dvadeseta (XX.) Kaznenog zakona:
+• Teška djela protiv opće sigurnosti (članak 271. stavci 1. i 2. Kaznenog zakona),
+• Izazivanje prometne nesreće (članak 272. stavak 3. Kaznenog zakona),
+- Kaznena djela protiv sigurnosti platnog prometa i poslovanja, Glava dvadeset prva (XXI.) Kaznenog zakona:
+• Krivotvorenje novca (članak 274. stavak 1. Kaznenog zakona),
+• Krivotvorenje vrijednosnih papira (članak 275. stavak 1. Kaznenog zakona),
+• Prikrivanje protuzakonito dobivenog novca (članak 279. stavak 3. Kaznenog zakona),
+• Sklapanje štetnog ugovora (članak 294. stavak 2. Kaznenog zakona),
+• Izdavanje i neovlašteno pribavljanje poslovne tajne (članak 295. stavak 2. Kaznenog zakona),
+- Kaznena djela protiv službene dužnosti, Glava dvadeset peta (XXV.) Kaznenog zakona:
+• Zlouporaba položaja i ovlasti (članak 337. stavak 4. Kaznenog zakona),
+• Povreda čuvanja državne granice (članak 341. stavak 3. Kaznenog zakona),
+• Prijevara u službi (članak 344. stavak 3. Kaznenog zakona),
+- Kaznena djela protiv oružanih snaga Republike Hrvatske, Glava dvadeset šesta (XXVI.) Kaznenog zakona:
+• Neizvršenje i odbijanje izvršenja zapovjedi (članak 352. stavak 2. Kaznenog zakona),
+• Protivljenje nadređenome (članak 354. stavci 2., 3., 4. i 5. Kaznenog zakona),
+• Napad na vojnu osobu u obavljanju službene dužnosti (članak 357. stavak 3. i 4. Kaznenog zakona),
+• Povreda stražarske, ophodne ili druge slične službe (članak 360. stavak 4. Kaznenog zakona),
+• Nepoduzimanje mjera za zaštitu vojne postrojbe (članak 362. stavak 3. Kaznenog zakona),
+• Neosiguranje na vojnim vježbama (članak 363. stavak 3. Kaznenog zakona),
+• Neodazivanje pozivu i izbjegavanje vojne službe (članka 364. stavci 3. i 4. Kaznenog zakona),
+• Izbjegavanje vojne službe onesposobljenjem ili prijevarom (članak 365. stavak 2. Kaznenog zakona),
+• Samovoljno udaljenje i bijeg iz vojne postrojbe ili službe (članak 367. stavak 4. Kaznenog zakona),
+• Nepropisan i nesavjestan odnos prema povjerenom oružju (članak 371. stavak 3.),
+• Krađa oružja i dijela bojnog sredstva (članak 373. stavak 2. Kaznenog zakona),
+• Odavanje vojne tajne (članak 374. stavak 2. Kaznenog zakona),
+• Napuštanje oštećenog broda ili zrakoplova prije vremena (članak 381. stavak 2. Kaznenog zakona),
+• Slabljenje bojnog morala i bojne situacije (članak 383. stavak 2. Kaznenog zakona),
+• Neosiguranje vojne postrojbe (članak 384. stavak 3. Kaznenog zakona),

@@ -1,0 +1,5 @@
+# Članak 92.
+Policijski službenik primijenit će sredstva prisile po nalogu sudskog ovršitelja, ako se udaljenje osobe koja ometa ovrhu ne može izvršiti primjenom ovlasti upozorenja i zapovijedi.
+Policijski službenik upozorit će sudskog ovršitelja u slučaju kada nisu ispunjeni uvjeti za uporabu sredstava prisile i o tome izvijestiti nadležnog rukovoditelja.
+Prilikom pružanja pomoći policijski službenici, sukladno propisima koji uređuju uporabu sredstava prisile, smiju, ukoliko mjere upozorenja i zapovijedi ne jamče uspjeh, uporabiti samo ona sredstva prisile koja su nužna radi odbijanja napada od sebe, ovršitelja ili treće osobe, odnosno svladavanja otpora kojim se omogućava provedba izvršne odluke.
+Sukladno važećim propisima, poštujući opća načela policijske uporabe sredstava prisile, odluku o izboru, načinu i vremenu primjene određenog sredstva prisile, može donositi samo policijski službenik, odnosno neposredni rukovoditelj, konstantno i izravno procjenjujući okolnosti konkretne situacije.
