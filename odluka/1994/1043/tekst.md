@@ -1,0 +1,1 @@
+1. Daje se suglasnost za osnivanje Konzulata Perua u Republici Hrvatskoj, sa sjedištem u Zagrebu, s konzularnim područjem koje obuhvaća cjelokupno područje Republike Hrvatske. Ova Odluka stupa na snagu danom donošenja.
