@@ -1,0 +1,3 @@
+# Članak 65.
+(1) Novčanom kaznom od 50.000,00 do 200.000,00 kuna kaznit će se burza ili uređeno javno tržište vrijednosnih papira ako protivno ovome Zakonu uvrsti u kotaciju dionice stranih dioničkih društava za čiju prodaju na tržištu vrijednosnih papira u Republici Hrvatskoj strani izdavatelj nije ispunio uvjete propisane odlukom ministra financija ili ako uvrsti u kotaciju strane kratkoročne dužničke vrijednosne papire koji nemaju ocjenu boniteta propisanu odlukom Hrvatske narodne banke.
+(2) Član uprave ili druga odgovorna osoba koja je počinila prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od najmanje 15.000,00 kuna.

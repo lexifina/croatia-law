@@ -1,0 +1,12 @@
+## Izravna ulaganja
+# Članak 9.
+(1) Izravna ulaganja, u smislu ovoga Zakona, sva su ulaganja rezidenata u inozemstvu i nerezidenata u Republici Hrvatskoj koja ulagač obavi s namjerom uspostavljanja trajnih ekonomskih odnosa i ostvarivanja znatnog utjecaja na upravljanje pravnom osobom.
+(2) Namjera uspostavljanja trajnih ekonomskih odnosa i ostvarivanja znatnog utjecaja na upravljanje pravnom osobom iskazana je u slučajevima:
+1. osnivanja ili povećanja temeljnoga kapitala trgovačkog društva u potpunom vlasništvu ulagača, osnivanja podružnice ili stjecanja već postojećega trgovačkog društva u potpuno vlasništvo ulagača ili ulaganja radi obavljanja djelatnosti poduzetnika pojedinca,
+2. ulaganja u novo ili već postojeće trgovačko društvo ako ulagač time stječe ukupno 10% ili više udjela u temeljnom kapitalu trgovačkog društva, odnosno 10% ili više glasačkih prava nakon ispunjenja uvjeta iz stavka 1. ovoga članka,
+3. kredita na rok od pet godina ili duže radi uspostavljanja trajnih ekonomskih odnosa, ako krediti imaju obilježja podređenog ili hibridnog potraživanja.
+(3) Nakon uspostavljanja izravnog vlasničkog odnosa između rezidenata i nerezidenata u smislu stavka 1. i 2. ovoga članka, transakcijama izravnih ulaganja smatraju se također:
+1. reinvestirana dobit, odnosno udio izravnog ulagača u dobiti trgovačkog društva koja se ne raspodjeljuje u obliku dividendi ili drugih oblika raspodjele dobiti,
+2. dužničke transakcije između izravnog ulagača i trgovačkog društva u koje je već izvršeno izravno ulaganje. Ovo uključuje dužničke vrijednosne papire, komercijalne kredite, financijske kredite i ostale dužničko-vjerovničke odnose. Izravnim ulaganjem ne smatra se ulaganje financijskih institucija dužničkim transakcijama vezanima uz tekuće poslovanje, već se izravnim ulaganjem smatraju samo one transakcije motivirane trajnim interesom vezanim uz vlasnički odnos.
+(4) Izravnim ulaganjem ne smatra se ulaganje investicijskog fonda, brokerskog društva, mirovinskog fonda, društva za osiguranje, banke i druge osobe kojoj je status institucionalnog ulagača odobrila Komisija za vrijednosne papire Republike Hrvatske u skladu s posebnim zakonom niti ulaganje novčanih sredstava radi izdavanja depozitarnih zapisa.
+(5) Iznimno se izravnim ulaganjem smatra ulaganje banke u drugu banku ili financijsku instituciju čija je glavna djelatnost pružanje financijskih usluga te ulaganje društva za osiguranje u drugo društvo za osiguranje ako ulaganja ispunjavaju uvjete iz stavka 2. ovoga članka.

@@ -1,0 +1,2 @@
+# Članak 70.
+Devizni inspektorat i carinsko tijelo, kada obavljaju deviznu kontrolu, privremeno će, uz potvrdu, oduzeti gotovinu u kunama i stranu gotovinu te dokumentaciju i druge predmete kojima je izvršen prekršaj, koji su rezultat prekršaja ili koji mogu poslužiti kao dokaz u prekršajnom postupku, prema propisima koji vrijede za prekršajni postupak. Gotovinu u kunama i stranu gotovinu odmah će uplatiti na posebne račune Deviznog inspektorata Ministarstva financija.

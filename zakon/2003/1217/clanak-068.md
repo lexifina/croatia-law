@@ -1,0 +1,6 @@
+# Članak 68.
+(1) Novčanom kaznom od 2.000,00 do 20.000,00 kuna kaznit će se za prekršaj fizička osoba koja u putničkom prometu s inozemstvom, protivno ovome Zakonu, iznese ili pokuša iznijeti stranu gotovinu, čekove koji glase na stranu valutu ili gotovinu u kunama preko dopuštenog iznosa, odnosno bez odobrenja Hrvatske narodne banke, ako iznošenje strane gotovine, čekova ili gotovine u kunama nije prijavila cariniku, te ako unese ili pokuša unijeti kune preko dopuštenog iznosa, odnosno bez odobrenja Hrvatske narodne banke.
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se za prekršaj fizička osoba - putnik koji prijavi iznošenje gotovine u kunama ili strane gotovine preko dopuštene visine, ali odbije deponirati iznos koji prelazi dopuštenu visinu.
+(3) Strana gotovina, čekovi i gotovina u kunama koji su predmet prekršaja iz stavka 1. i 2. ovoga članka oduzet će se rješenjem o prekršaju u korist proračuna Republike Hrvatske.
+(4) Strana gotovina, čekovi i gotovina u kunama koji su predmet izvršenja prekršaja mogu se oduzeti i kad nisu vlasništvo počinitelja.
+(5) Iznimno, u posebno opravdanim slučajevima, prekršajno tijelo može odlučiti da se strana gotovina, čekovi i gotovina u kunama koji su predmet prekršaja iz stavka 1. i 2. ovoga članka ne oduzmu ili da se oduzmu samo djelomično.

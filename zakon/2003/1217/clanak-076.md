@@ -1,0 +1,2 @@
+# Članak 76.
+Odgovorna osoba koja sklapanjem ugovora, organiziranjem posla ili na drugi način ostvaruje za pravnu osobu kupnju, prodaju ili pozajmljivanje strane gotovine, posredovanje u kupnji, prodaji ili pozajmljivanju strane gotovine protivno ovom Zakonu, ili u pravnoj osobi organizira mjenjačke poslove bez ugovora s bankom, kaznit će se kaznom zatvora do pet godina ili novčanom kaznom do sto pedeset dnevnih dohodaka.

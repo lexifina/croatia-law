@@ -1,0 +1,6 @@
+## Postupak s prijavljenim iznosom gotovine u kunama, strane gotovine i čekova preko dopuštenih iznosa
+# Članak 37.
+(1) Carinik će putnika koji je prijavio iznošenje većeg iznosa gotovine u kunama, strane gotovine ili čekova nego što je dopušteno uputiti da iznos preko dopuštenog deponira u banci ili, ako je to moguće, u carinarnici.
+(2) Ako putnik iz stavka 1. ovoga članka odbije postupiti po uputi ovlaštenoga carinskog djelatnika, smatrat će se da protivno ovom Zakonu zakonu želi iznijeti gotovinu u kunama, stranu gotovinu ili čekove.
+(3) Gotovina u kunama, strana gotovina ili čekovi iz stavka 1. ovoga članka, deponirani u carinarnici, vratit će se putniku prilikom ili nakon povratka u Republiku Hrvatsku, uz naplatu manipulativnog troška u visini 1% deponiranog iznosa. Pri tome visina troška ne može biti veća od 350,00 kuna niti manja od 35,00 kuna, a naplaćuje se u kunama.
+(4) Ako putnik čija je gotovina u kunama ili strana gotovina deponirana u smislu stavka 1. ovoga članka, ili njegov opunomoćenik, ne podigne gotovinu u roku od 90 dana od dana deponiranja, smatrat će se da se odrekao gotovine u korist proračuna Republike Hrvatske, na što je bio upozoren u potvrdi o deponiranju koju izdaje carinarnica.

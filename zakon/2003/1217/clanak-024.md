@@ -1,0 +1,5 @@
+## Ulaganje nerezidenata u vrijednosne papire u Republici Hrvatskoj
+# Članak 24.
+(1) Nerezidenti mogu upisivati, uplaćivati, odnosno kupovati i prodavati vrijednosne papire u Republici Hrvatskoj u skladu s propisima koji uređuju poslovanje s vrijednosnim papirima u Republici Hrvatskoj.
+(2) Hrvatska narodna banka može posebnom odlukom propisati obvezu otvaranja i vođenja nerezidentnih skrbničkih i novčanih računa u bankama radi plaćanja i naplata pri prodaji vrijednosnih papira u Republici Hrvatskoj.
+(3) Odlukom iz stavka 2. ovoga članka može se pravo stjecanja vrijednosnog papira za nerezidenta uvjetovati sklapanjem ugovora o vođenju skrbničkog računa u kojem se nerezident obvezuje da stečene vrijednosne papire neće otuđiti niti dati u zalog rezidentu u roku jedne godine od upisa prava vlasništva te da pristaje da banka skrbnik u knjizi dioničara, knjizi vlasnika obveznica ili drugoj knjizi koju vodi izdavatelj vrijednosnih papira ili središnja depozitarna agencija ishodi upis zabrane prava raspolaganja, pri čemu nerezident zadržava svoja prava na isplatu dividende ili kamata.
