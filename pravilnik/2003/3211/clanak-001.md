@@ -1,0 +1,12 @@
+# Članak 1.
+(1) U Pravilniku o dodatnim kriterijima ulaganja i investicijskim ograničenjima mirovinskih fondova (»Narodne novine« broj 35/02, 128/02 i 144/03) u članku 2. stavku 2. riječ «registriranih u Republici Hrvatskoj» zamjenjuje se riječima »koji posluju u skladu sa zakonima Republike Hrvatske«, a nakon riječi »moraju biti« dodaju se riječi »u potpunosti otplaćene i«.
+(2) U stavku 4. nakon riječi «uloženo» dodaje se riječ »najviše«. Nakon toga dodaje se tekst koji glasi: »Ukoliko je imovina mirovinskog fonda manja od 100 milijuna kuna, u bankovne depozite u jednoj ili više međusobno povezanih banaka može biti uloženo najviše 5% imovine fonda.«.
+(3) U stavku 5. na kraju rečenice briše se točka te se dodaju riječi: »ili jedinica lokalne i područne (regionalne) samouprave.«
+(4) Dodaju se novi stavci 9. i 10. koji glase:
+»9. Terminskim ugovorima u smislu Zakona o obveznim i dobrovoljnim mirovinskim fondovima smatraju se isključivo:
+1. futures ugovori, uvršteni na nekoj od dozvoljenih terminskih burzi. Popis dozvoljenih terminskih burzi posebnim aktom propisuje ravnatelj Agencije;
+2. opcijski ugovori, uvršteni na nekoj od dozvoljenih terminskih burzi;
+3. devizni forward i swap ugovori; i
+4. strukturirani dužnički vrijednosni papiri.
+Terminske ugovore mirovinsko društvo smije sklapati samo radi zaštite portfelja mirovinskog fonda od promjene cijena volatilnosti) na tržištu. Mirovinsko društvo ne smije sklapati terminske ugovore zbog špekulacija. Terminski ugovori se moraju odnositi na dozvoljenu imovinu mirovinskog fonda i ne smiju stvoriti izloženost prema ulaganjima (na spot tržištu), koja su u suprotnosti s ograničenjima ulaganja koja se odnose na mirovinske fondove.
+10. Strukturiranim dužničkim vrijednosnim papirima smatraju se dužnički vrijednosni papiri čija vrijednost ovisi o vrijednosti jednog ili košarice drugih vrijednosnih papira, burzovnih indeksa ili neke druge imovine te se zbog toga smatraju terminskim ugovorima. Ulaganjem u strukturirane dužničke vrijednosne papire ne smije se steći izloženost prema ulaganjima koja nisu dozvoljena mirovinskim fondovima (na spot tržištu). Za održavanje likvidnosti svakoga strukturiranog dužničkog vrijednosnog papira moraju postojati najmanje dva sudionika koji su spremni kupiti i prodati predmetni vrijednosni papir (market makera). Pojedinačno ulaganje u strukturirane dužničke vrijednosne papire ne smije činiti više od 1% imovine fonda, dok ukupna ulaganja u strukturirane dužničke vrijednosne papire ne smiju činiti više od 5% imovine fonda.«
