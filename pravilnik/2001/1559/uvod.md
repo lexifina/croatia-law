@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 12/01), ministar poljoprivrede i šumarstva, uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo, donosi
