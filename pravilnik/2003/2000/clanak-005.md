@@ -1,0 +1,3 @@
+# Članak 5.
+Javnom bilježniku, u provođenju pojedinog ostavinskog postupka, pripada pravo na naknadu nastalog i predvidivog mu troška u punom iznosu, a trošak se određuje po pravilima važeće javnobilježničke tarife o trošku, ako odredbama ovog Pravilnika nije drugačije određeno.
+Radi nadoknađivanja troškova u ostavinskom postupku, u smislu ovog Pravilnika, troškom se ne smatra utrošak papira i drugog uredskog materijala radi izrade i umnožavanja dovoljnog broja primjeraka zapisnika, rješenja i drugih isprava u ostavinskom spisu radi uručivanja nasljednicima, dostave spisa sudu i zadržavanja prijepisa spisa u javnobilježničkom arhivu.

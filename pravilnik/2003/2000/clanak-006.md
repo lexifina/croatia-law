@@ -1,0 +1,3 @@
+# Članak 6.
+Javni bilježnik neposredno od nasljednika, tijekom ostavinskog postupka, naplaćuje pripadajuću mu nagradu i naknadu troškova.
+O obračunatim i naplaćenim nagradama i troškovima, kao i o možebitno naplaćenom predujmu ovih naknada, bez obzira jesu li isti u ostavinskom spisu zabilježeni na pojedinoj ispravi, javni bilježnik će u spisu voditi i poseban obračunski list kojem će kronološki bilježiti činjenice izvršenih mu uplata po pojedinom nasljedniku te plaćenih mu nagrada i naknada troškova, a po obavljenim radnjama obračunski list će zaključiti potvrđujući jesu li mu u cijelosti podmireni nagrada i troškovi.
