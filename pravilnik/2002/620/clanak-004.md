@@ -1,0 +1,5 @@
+# Članak 4.
+Zimski odmor učenika počinje 21. prosinca 2002. godine i završava 12. siječnja 2003. godine.
+Proljetni odmor učenika počinje 17. travnja, a završava 27. travnja 2003. godine.
+Ljetni odmor učenika počinje 19. lipnja 2003. godine, osim za učenike koji polažu razredni popravni ili završni ispit ili maturu i učenike koji u to vrijeme imaju praktičnu nastavu ili stručnu praksu, što se utvrđuje godišnjim planom i programom rada škole.
+Iznimno učenici u dvojnom sustavu izobrazbe i drugim programima strukovne izobrazbe s praktičnom nastavom i stručnom praksom mogu imati i drukčiji raspored odmora, s tim da im ukupni odmor tijekom školske godine ne može biti kraći od 45 radnih dana što se uređuje ugovorom na osnovi Pravilnika o načinu ostvarivanja programa naukovanja i stručnog osposobljavanja za vezane obrte te o pravima, obvezama, praćenju, vrednovanju i ocjenjivanju učenika, i Pravilnika o načinu organiziranja nastave u obrtničkim školama i praktične nastave u drugim strukovnim školama (»Narodne novine«, br. 18/94).
