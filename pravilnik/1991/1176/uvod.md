@@ -1,0 +1,1 @@
+Na temelju članka 65. stavak 2. Zakona o športu ("Narodne novine", br. 59/90) ministar prosvjete i kulture, po pribavljenom mišljenju Republičkih granskih športskih saveza, Hrvatskog športskog saveza i Fakulteta za fizičku kulturu donosi
