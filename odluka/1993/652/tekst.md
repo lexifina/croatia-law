@@ -1,0 +1,6 @@
+o usklađivanju novčanih naknada za tjelesno oštećenje od 1. veljače 1993.
+1. Novčane naknade za tjelesno oštećenje ostvarene od 1. veljače 1993. koje su određene od osnovice koja iznosi 6.726.- HRD i povećane su od 1. siječnja 1993. za 123,2% prema Odluci o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanje novčanih naknada, za tjelesno oštećenje od 1. siječnja 1993.("Narodne novine", broj 23/93), povećavaju se od 1. veljače 1993. za 26,l%.
+2. Novčane naknade za tjelesno oštećenje ostvarene 1. veljače 1993. ili nakon toga dana, a koje nisu povećane za 123,2% povećavaju se od dana ostvarivanja prava za 181,455%.
+3. Kao osnovica za usklađivanje novčanih naknada za tjelesno oštećenje prema točki 1. ove Odluke služi svota novčane naknade koja je korisniku pripadala na dan 1. veljače 1993. a kao osnovica za usklađivanje novčanih naknada za tjelesno oštećenje prema točki 2. ove Odluke, služi svota novčane naknade određena od osnovice za određivanje novčanih naknada koja je na dan 1. siječnja 1993. iznosila 6.726. HRD.
+4. Usklađivanje novčanih naknada za tjelesno oštećenje prema toč.1. i 2. ove odluke, obavit će se po službenoj dužnosti, bez donošenja rješenja
+5. Ova odluka stupa na snagu sljedećeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. veljače 1993.
