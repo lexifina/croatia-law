@@ -1,0 +1,1 @@
+Na temelju članka 58. stavka 1. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 49/99 i 63/00) te članka 16. Zakona o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 103/03), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 26. siječnja 2004., utvrdio je i donio
