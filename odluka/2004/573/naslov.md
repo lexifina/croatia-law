@@ -1,0 +1,1 @@
+Odluka o davanju ovlaštenja Središnjem državnom uredu za upravljanje državnom imovinom za raspolaganje imovinom u vlasništvu Republike Hrvatske do određenog iznosa odnosno za obavljanje određenih poslova vezanih uz imovinu u vlasništvu Republike Hrvatske
