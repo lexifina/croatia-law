@@ -1,0 +1,3 @@
+## UVOD
+# Članak 1.
+Ovim se Pravilnikom propisuje iznos kredita za stambeno zbrinjavanje članova obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, članova obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i članova uže obitelji umrloga HRVI iz Domovinskog rata, za iznos za koji polaznu osnovu čine karakteristike i vrijednost etalonskog stana i čiji se iznos određuje od izračunske cijene po m2 korisne površine etalonskog stana, način rada Stručne komisije te oblik i sadržaj obrasca zapisnika Stručne komisije i obrasca Tehničkog opisa građevine.
