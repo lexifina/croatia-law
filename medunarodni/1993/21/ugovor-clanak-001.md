@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Obje Ugovorne strane će, bez posebnih formalnosti prihvatiti sve osobe koje se nalaze na teritoriju druge Ugovorne strane, za koje se nepobitno može utvrditi da posjeduju državljanstvo države prihvata. Ukoliko će se poslije utvrditi da preuzeta osoba u trenutku preuzimanja nije posjedovala državljanstvo države prihvata, druga Ugovorna strana ju je dužna primiti natrag.
+(2) Ako se državljanstvo države prihvata. za osobu koja se preuzima, ne može nepobitno utvrditi, to pitanje, na molhu neudlužno rjPŠa,va dipomatsko ili konzularno predstavništvo države prihvata. U tom slućaju je odgovor Ugovorne strane prihvata mjerodavan.
+(3) Jedna Ugovorna strana prijavljuje diplomatskom ili konzularnom predstavništvu druge Ugovorne strane da želi predati one njihove državljane sa svog teritorija kojima je potrebna skrb glede bolesti ili starosti. U roku od 15 dana od prijave druga Ugovorna strana treba odgovoriti kada i gdje će se izvršiti primopredaja.

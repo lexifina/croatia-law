@@ -1,0 +1,9 @@
+# Članak 2.
+(1) Obje Ugovorne strane će preuzeti onog državljanina treće države:
+a) koji je prije bespravnog prijelaza mađarsko-hrvatske državne granice, ušao na teritorij države prihvata sa vizom, bez vize na temelju dogovora ili boravišne dozvole,
+b) ili na temelju Ugovora o preuzimanju osoba koji je sklopila jedna od Ugovornih strana sa trećom državom, koja je dužna tu osobu preuzeti.
+(2) Molba za preuzimanje osobe koja se bespravno našla na teritoriju jedne od Ugovornih strana se podnosi u roku 48 sati od službenog utvrđivanja prijestupa, ali najkasnije 90 dana od bespravnog ulaska državljanina treće države. Zahtjev treba sadržavati vjerodostojne dokaze o povredi zajedničke državne granice, kao i podatke o osobi koju se želi predati. Državljanina treće države prihvaća druga Ugovorna strana na temelju izjave o preuzimanju. U svezi preuzimanja, u roku od 72 sata od podnošenja zahtjeva za preuzimanje, treba se dati izjašnjenje o tome. U pitanjima oko primopredaje osobe neposredno će sudjelovati kompetentne službe Ugovornih strana.
+(3) Ne treba se podnijeti izjava o preuzimanju (iz st. 2.) kada je jedna od Ugovornih strana, u roku od 48 sati od prelaska granice, zatražila preuzimanje osobe. U tom slućaju, pogranična službe druge Ugovorne strane, jednostavnom procedurom preuzimaju osobu treće države koja je bespravno prešla zajedničku državnu granicu.
+(4) Ukoliko se naknadno utvrdi da državljanin treće države nije prešao granicu sa teritorija druge Ugovorne strane, isti se treba, 30 dana od dana njegova izručenja, ponovno primiti natrag.
+(5) Ukoliko osoba koja se izručuje nema dovoljno materijalnih sredstava, troškove njezinog prijevoza do zajedničke državne granice podmiruje ona Ugovorna strana na čijem se teritoriju osoba nalazi.
+(6) Primopredaja osoba se može izvršiti samo na onim pograničnim prijelazima zajedničke državne granice, koji su Ugovorne strane za to odredile.
