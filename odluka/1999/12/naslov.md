@@ -1,0 +1,1 @@
+Odluka o osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja hrvatskih državljana zaposlenih u inozemstvu kod međunarodnih organizacija i stranih poslodava
