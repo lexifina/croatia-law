@@ -1,0 +1,527 @@
+MINISTARSTVO FINANCIJA
+
+Na temelju članka 31. Zakona o pripadnosti javnih prihoda Republici
+
+Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza
+
+("Narodne novine", br 73/91., 18/92.,43/93. i 63/93.), ministar
+
+financija donosi
+
+NAPUTAK
+
+o obračunu i uplati poreza na dobit i o revalorizaciji
+
+kod pravnih osoba za 1983. godinu
+
+1. Pravne osobe koje na području Republike Hrvatske ostvaruju dobit
+
+obračunavaju i plaćaju porez na dobit prema Obrascu PD, koji je sastavni
+
+dio ovoga Naputka.
+
+2. Osnovicu za obračun poreza na dobit pravnih osoba čini iznos razlike
+
+između prihoda i rashoda utvrđenih u skladu s propisima o računovodstvu
+
+korigiran prema odredbama Zakona o neposrednim porezima ("Narodne
+
+novine", br. 19/90., 28/90., 14/91., 73/91., 25/83. i 109/93.).
+
+U Obrazac PD pod 1. treba unijeti iznos razlike između prihoda i rashoda.
+
+3. Osnovica za obračun poreza na dobit pod I. uvećava se za:
+
+- prihode u smislu članaka 4, 5, 6. i 7. Uredbe o revalorizaciji ("Narodne
+
+novine" br. 110/93) po osnovi revalorizacije dugotrajne materijalne
+
+i nematerijalne imovine, revalorizacije zaliha trgovačke robe, revalorizacije
+
+predujmova s ugovorenom fiksnom cijenom te za iznos revalorizacije udjela,
+
+dionica i sudjelujućih interesa (participacija), i to primjenom koeficijenata
+
+rasta proizvođačkih cijena industrijskih proizvoda. Revalorizacija predujmova
+
+s ugovorenom fiksnom cijenom na dan plaćanja predujma obavlja se na isti
+
+način kao i revalorizacija imovine za koju je dan predujam. Revalorizacija
+
+udjela, dionica i sudjelujućih interesa obavlja se koeficijentom rasta
+
+proizvođačkih cijena industrijskih proizvoda, i to do visine tržišnih cijena.
+
+Revalorizacija zaliha trgovačke robe zatečenih na dan 31. prosinca 1993.
+
+godine obavlja se primjenom metode zadnje ulazne cijene robe iste vrste
+
+i kvalitete. Razlika između revaloriziranih vrijednosti i vrijednosti iskazanih
+
+u knjigovodstvu predstavlja prihod u smislu Uredbe (ovaj se iznos iskazuje
+
+pod red. br. 1. Obrasca PD);
+
+- dio amortizacije obračunate po stopama iznad stopa propisanih Uredbom
+
+o otpisu dugotrajne imovine koji se kao amortizacija priznaje u porezni
+
+rashod ("Narodne novine" br. 56/93.), kao i za iznos amortizacije
+
+dugotrajne imovine koja je već amortizirana. Taj se iznos iskazuje pod
+
+red. br. 2. Obrasca PD;
+
+- troškove koji se odnose na dnevnice za službena putovanja, upotrebu
+
+privatnog automobila u službene svrhe, prehranu tijekom rada i prijevoz
+
+na rad i s rada, isplaćene iznad iznosa utvrđenih općim kolektivnim ugovorom,
+
+troškove koji se odnose na regres za korištenje godišnjeg odmora, otpremninu
+
+radi odlaska u mirovinu, na odvojeni život i nagrade učenicima i studentima
+
+za vrijeme prakse iznad najmanjih svota utvrđenih općim kolektivnim ugovorima,
+
+terenski dodatak iznad svota utvrđenih za dnevnice za službena putovanja
+
+i jubilarne nagrade isplaćene iznad svote utvrđene za otpremnine u skladu
+
+sa čl. 21. st. 3. Zakona o neposrednim porezima (ovaj se iznos iskazuje
+
+pod red. br. 3. Obrasca PD);
+
+- troškove dnevnica za službena putovanja i troškove prijevoza na rad
+
+i s rada za pravne osobe koje ne zapošljavaju ni jednog djelatnika u skladu
+
+sa čl. 21. st. 4. Zakona o neposrednim porezima (ovaj se iznos iskazuje
+
+pod red. br. 4. Obrasca PD);
+
+- troškove reprezentacije iznad 50% obračunatih troškova za 1993. godinu
+
+u skladu sa čl. 21. st. 5. Zakona o neposrednim porezima (ovaj se iznos
+
+iskazuje pod red. br. 5. Obrasca PD);
+
+- dugoročna rezerviranja materijalnih i nematerijalnih troškova u visini
+
+40% ukalkuliranih rezerviranja prema Uputi o priznavanju dugoročnih rezerviranja
+
+nematerijalnih i materijalnih troškova pravnih osoba u poslovne rashode
+
+("Narodne novine", br. 68/92.). Taj iznos iskazuje se pod red.
+
+br. 6. Obrasca PD.
+
+4. Osnovica za obračun poreza na dobit pod III. Obrasca PD umanjuje
+
+se za:
+
+- revalorizaciju vlastitoga kapitala prema Uredbi o revalorizaciji.
+
+Revalorizacija vlastitog kapitala obavlja se primjenom koeficijenata porasta
+
+proizvođačkih cijena industrijskih proizvoda na početno stanje vlastitoga
+
+kapitala i na povečanja odnosno smanjenja vlastitoga kapitala tijekom godine.
+
+Za utvrđivanje vlastitoga kapitala na početku godine koriste se knjigovodstveni
+
+podaci iz početne bilance 1. siječnja 1993. godine odnosno za novoosnovane
+
+pravne osobe početna bilanca pri osnivanju. Vlastiti kapital čini iznos
+
+neto vrijednosti imovine a utvrđuje se na početku razdoblja obračuna tako
+
+da se aktiva umanji za obveze. U obračunu revalorizacije preneseni gubitak
+
+uzima se kao negativno stanje kapitala, tj odbija se od revalorizacije
+
+ostalog vlastitog kapitala. Povećanjem vlastitoga kapitala tijekom godine
+
+smatra se samo ono povećanje koje je upisano u sudski registar. Svota revalorizacije
+
+vlastitoga kapitala na početku godine uvećava se za svotu revaloriziranog
+
+povećanja odnosno umanjuje za svotu revalorizacije smanjenja vlastitoga
+
+kapitala tijekom godine. Tako utvrđena ukupna svota revalorizacije vlastitog
+
+kapitala čini rashod koji umanjuje poreznu osnovicu (taj se iznos iskazuje
+
+pod red. br 7. Obrasca PD);
+
+- primljene dividende i naknade ulagačima na koje je kod pravne osobe
+
+isplatitelja plaćen porez na dobit u skladu sa čl. 21. st. 7. Zakona o
+
+neposrednim porezima (taj se iznos iskazuje pod red. br. 8 Obrasca PD):
+
+- dio dobiti koji je uložen u saniranje šteta izazvanih ratnim djelovanjem
+
+na području Republike Hrvatske, na temelju dokumentacije, a najviše do
+
+visine iznosa osnovice poreza na dobit pod V. Obrasca PD pod uvjetom da
+
+za iznos ulaganja nisu terećeni rashodi u skladu sa čl. 26. st. 1. Zakona
+
+o neposrednim porezima (Taj se iznos iskazuje pod red br. 9. Obrasca PD);
+
+- dio sredstava koja pravne osobe ulože u povećanje ili modernizaciju
+
+proizvodnih kapaciteta u vlastitom poduzeću, a najviše do ostvarene dobiti
+
+iskazane pod I. Obrasca PD u skladu sa čl. 28. st 1. i 2. Zakona o neposrednim
+
+porezima (Taj se iznos iskazuje pod red. br. 10. Obrasca PD);
+
+- za 5% od nominalne vrijednosti obveznica za obnovu Republike Hrvatske
+
+koje je pravna osoba kupila u 1993. godini. Nominalna vrijednost obveznice
+
+utvrđuje se u dinarskoj protuvrijednosti primjenom srednjeg tečaja Narodne
+
+banke Hrvatske na dan 31. prosinca 1993. godine, u skladu sa čl. 10. st.1.
+
+Zakona o izdavanju obveznica za prikupljanje sredstava zaobnovuRepublike
+
+Hrvatske ("Narodne novine", br. 69/92.). Taj se iznos iskazuje
+
+pod red. br. 11. Obrasca PD.
+
+5. Pod B. na redni broj 12. Obrasca PD iskazuje se iznos što se dobije
+
+primjenom ugovorenog udjela u dobiti koji pripada inozemnim ulagačima od
+
+osnovice za obračun poreza na dobit iskazane pod VI. Obrasca PD.
+
+6. Prema članku 26 stavak 2. Zakona o neposrednim porezima, novoosnovana
+
+poduzeća oslobađaju se od plaćanja poreza na dobit u cijelosti u prvoj
+
+godini, u drugoj godini rada 50% i trećoj godini rada 25% od obračunatog
+
+poreza.
+
+Ovo oslobađanje i olakšica prestaju i ranije ako novoosnovano poduzeće
+
+ostvari dobit u visini revaloriziranog osnivačkog kapitala odnosno ako
+
+je ostvarena dobit veća od revaloriziranog osnivačkog kapitala poduzeća
+
+na dan 31. prosinca 1993. godine. Osnivačkim se kapitalom smatra temeljna
+
+glavnica utvrđena na dan upisa u sudski reaistar.
+
+Novoosnovanim poduzećem smatra se prvo otvaranje poduzeća. Prvim otvaranjem
+
+poduzeća ne smatra se promjena vlasnika puduzeća, promjena djelatnosti
+
+i mjesta obavljanja djelatnosti, prelazak iz fizičke u pravnu osobu, prekid
+
+pa nastavljanje obavljanja djelatnosti unutar roka od pet godina, nastajanje
+
+poduzeća ili radnje podjelom, spajanjem ili pripojenjem drugom poduzeću
+
+ni osnivanje poduzeća na mjestu gdje se ranije obavljala djelatnost u poduzeću
+
+unutar roka od pet godina.
+
+Kao dokaz za korištenje navedene olakšice uzima se dan upisa u sudski
+
+registar Ako je upis u sudski registar obavljen u razdoblju od 11. svibnja
+
+1990. do 31. prosinca 1991., tada na temelju članka 195a. Zakona o neposrednim
+
+porezima pravne osobe započete olakšice mogu iskoristiti do isteka vremena
+
+za njihovo korištenje predviđeno po prijašnjim propisima. Pod godinom rada
+
+novoosnovanog poduzeća podrazumijeva se godina dana od dana upisa u sudski
+
+registar. Olakšice se računaju od prvog dana narednog mjeseca nakon upisa
+
+u sudski registar.
+
+Za iskazivanje olakšice pod rednim brojem 19. i 21. Obrasca PD pravna
+
+osoba pri predaji godišnjeg obračuna uz Obrazac PD dostavlja i izračun
+
+visine olakšica.
+
+Visina olakšica izračunava se tako da se ukupno obračunati porez pod
+
+rednim brojem 18. Obrasca PD podijeli sa 12 te pomnoži s brojem mjeseci
+
+poslovanja u kojima se olakšica nije mijenjala te pomnoži stopom olakšice.
+
+Novoosnovana poduzeća na otocima ne plaćaju obračunati porez na dobit
+
+u razdoblju od dvije godine u skladu sa čl. 26. st. 4. Zakona o neposrednim
+
+porezima.
+
+7. Porez na dobit ne plaćaju poduzeća i dijelovi poduzeća ako zapošljavaju
+
+više od 40% invalidnih osoba ili obavIjaju profesionalnu rehabilitaciju
+
+invalida prema čl. 27. st. 1. Zakona o neposrednim porezima (podatak se
+
+unosi pod redni broj 20. Obrasca PD).
+
+8. Pravne osobe koje iz proračuna ostvare više od 50% ukupnog prihoda
+
+oslobađaju se plaćanja poreza na dobit u skladu sa čl. 8. Zakona o pripadnosti
+
+javnih prihoda RepubIici Hrvatskoj i jedinicama lokalne samouprave i stopama
+
+republičkih poreza.
+
+- Jadrolinija Rijeka, Hrvatske željeznice, Hrvatska pošta i telekomunikacije
+
+Zagreb oslobađaju se plaćanja poreza na dobit ako ustupljeni porez namijene
+
+za razvojne programe koje odobri Ministarstvo gospodarstva u skladu sa
+
+čl. 9. Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama
+
+lokalne samouprave i stopama republičkih poreza.
+
+9. Mjesečni predujam poreza na dobit za siječanj, veljaču i ožujak 1994.
+
+godine pravne osobe plaćaju tako da predujam poreza na dobit utvrđen za
+
+prosinac 1993. godine uvećaju za eskontnu stopu Narodne banke Hrvatske
+
+u skladu sa čl. 32. Zakona o porezu na dobit ("Narodne novine",
+
+br. 109/93.).
+
+Pravne osobe kojima je prestalo pravo na oslobađanja i olakšice, u skladu
+
+sa čl. 26. st. 2, 3. i 4. i čl. 195a. Zakona o neposrednim porezima plaćaju
+
+pune mjesečne predujmove poreza na dobit. Pravnim osobama koje počinju
+
+obavljati djelatnost plaćanje predujma do prvog podnošenja obračuna - porezne
+
+prijave određuje Porezna uprava u skladu sa čl 17. Zakona o porezu na dobit
+
+("Narodne novine", br. 109/93).
+
+Pravne osobe koje su ulagale u saniranje ratnih šteta i pravne osobe
+
+koje su ulagale sredstva u povećanje ili modernizaciju proizvodnih kapaciteta
+
+u vlastitom poduzeću plačaju pune predujmove poreza na dobit u skladu sa
+
+čl. 26. st.1. i čl. 28. Zakona o neposrednim porezima.
+
+10. Pravne osobe obveznici plaćanja posebnog poreza na dobit po članku
+
+21a. Zakona o neposrednim porezima, posebni porez na dobit obračunavaju
+
+na Obrascu PD-1 prema Uputi o obračunu i uplati posebnog poreza na dobit
+
+pravnih i fizičkih osoba ("Narodne novine" br. 91/92.) i podnose
+
+ga Poreznoj upravi uz Obrazac PD).
+
+11. Pravne osobe obvezne su nadležnoj ispostavi Porezne uprave dostaviti
+
+Obrazac PD do kraja ožujka 1994. godine. S Obrascom PD valja dostaviti
+
+Bilancu i Račun dobiti i gubitka za 1993. godinu.
+
+12. Ovaj Naputak stupa na snagu od dana objave u "Narodnim novinama".
+
+Klasa:410-01/93-01/503
+
+Urbroj : 513-07/93-1
+
+Zagreb, 28. prosinca 1993.
+
+Ministar financija
+
+dr. Zoran Jašić, v. r.
+
+OBRAZAC PD
+
+ŠIFRA DJELATNOSTI______________________________________________________________
+
+NAZIV PRAVNE OSOBE___________________________________________________________
+
+__________________________________________________________________________________
+
+SJEDIŠTE PRAVNE OSOBE________________________________________________________
+
+OBRAČUN
+
+poreza na dobit pravnih osoba
+
+od.__________________do__________________19______.
+
+A. UTVRĐIVANJE OSNOVICE - u hrvatskim dinarima -
+
+Red. Elementi Iznos
+
+br.
+
+I. osnovica poreza na dobit (razlika između
+
+prihoda i rashoda)
+
+II. uvećanje osnovice poreza na dobit
+
+1. prihodi po osnovi revalorizacije imovine
+
+prema Uredbi o revalorizaciji ("Narodne
+
+novine",br.110/93.)
+
+2. dio amortizacije iznad propisanih stopa
+
+3. naknade djelatnicima isplaćene iznad iz-
+
+nosa utvrđenih općim kolektivnim ugovo-
+
+rima
+
+4. iznos dnevnica i prijevoza za pravne oso-
+
+be koje ne zapošljavaju niti jednog radni-
+
+ka
+
+5. iznos reprezentacije u 1993.
+
+6. dugoročna rezerviranja nematerijalnih i
+
+materijalnih troškova
+
+III. osnovica za obračun poreza na dobit (I.
+
+plus red.br.1,2,3,4,5,i 6)
+
+IV. umanjenje osnovice poreza na dobit
+
+7. revolarizacija vlastitog kapitala prema
+
+Uredbi o revalorizaciji ("Narodne novine",
+
+br.110/93.)
+
+8. primljene dividende i naknade ulagačima
+
+V. osnovica poreza na dobit prije uvjetova-
+
+nih oslobođenja (III.minus red.br.7.i 8.)
+
+9. dio dobiti uložen u saniranje šteta izazva-
+
+nih ratnim djelovanjem na području Re-
+
+publike Hrvatske
+
+10. dio sredstava koja pravne osobe ulože u
+
+povećanje ili modernizaciju proizvodnih
+
+kapaciteta u vlastitom poduzeću
+
+11. umanjenje za kupljene obveznice Repub-
+
+like Hrvatske (čl.10.st.1.Zakona o izdava-
+
+nju obveznica za prikupljanje sredstava
+
+za obnovu Republike Hrvatske,"Narodne
+
+novine",br.69/92.)
+
+B. OBRAČUN POREZA NA DOBIT
+
+VI. osnovica za obračun poreza na dobit (V.
+
+minus 9,10.i 11.)
+
+12. udio inozemnih ulagača
+
+13. stopa
+
+14. iznos poreza na udio inozemnih ulagača
+
+15. udio domaćih ulagača
+
+16. stopa
+
+17. iznos poreza za domaće ulagače
+
+18. ukupno obračunati porez na dobit (red.
+
+br.14 plus red.br.17)
+
+19. iznos olakšica po čl.26st.2.i 4.Zakona o
+
+neposrednim porezima
+
+20. oslobađanje po čl.27,Zakona o neposred-
+
+nim porezima
+
+21. oslobađanja i olakšice po čl.195a. Zakona
+
+o neposrednim porezima
+
+22. oslobađanja po čl.8. i 9.Zakona o pripad-
+
+nosti javnih prihoda Republici Hrvatskoj i
+
+jedinicama lokalne samouprave i stopa-
+
+ma republičkih poreza
+
+23. sveukupna oslobađanja i olakšice
+
+24. iznos za uplatu
+
+25. uplaćeni predujmovi
+
+26. razlika za uplatiti
+
+27. razlika za povrat
+
+28. mjesečni predujmovi za naredno razdob-
+
+lje
+
+NAPOMENA: Način utvrđivanja olakšica - čl. 26. st: 2.
+
+a) datum upisa u registar
+
+b) broj mjeseci poslovanja u
+
+- prvoj godini
+
+- drugoj godini
+
+- trećoj godini
+
+c) ukupno % olakšica (izračunava se kao ponderirani pro-
+
+sjek); kao ponder uzima se broj mjeseci u kojima se olakšica primjenjuje
+
+d) iznos olakšica (red. br.18. Obrasca puta ukupni postotak
+
+olakšica iskazan pod c)
+
+U_________________________19__________.
+
+Osoba odgovorna za RUKOVODITEIJ
+
+sastavljanje obrasca PRAVNE OSOBE
+
+_______________________________ M. P. ____________________________
