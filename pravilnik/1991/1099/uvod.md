@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi ("Narodne novine" br. 27/91) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/80 i 47/90), ministar poljoprivrede i šumarstva uz suglasnost ministra financija, donosi

@@ -1,0 +1,2 @@
+# Članak 2.
+Korisnici prava na regres (u daljnjem tekstu: korisnici regresa) iz članka 2. Zakona. radi ostvarivanja svojeg prava podnose zahtjev za isplatu regresa (u daljnjem tekstu: zahtjev za regres) organizacijskoj jedinici Službe društvenog knjigovodstva Hrvatske. kod koje se vodi njihov žiroračun, a korisnici regresa koji nemaju žiro-račun kod Službe društvenog knjigovodstva - organizacijskoj jedinici Službe društvenog knjigovodstva Hrvatske prema svojem prebivalištu odnosno sjedištu (u daljnjem tekstu: nadležna organizacijska jedinica SDK).

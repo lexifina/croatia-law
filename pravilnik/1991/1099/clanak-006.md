@@ -1,0 +1,3 @@
+# Članak 6.
+Po primitku zahtjeva za regres i izvršenoj kontroli njegove ispravnosti; nadležna organizacijska jedinica SDK jcdan ovjeren primjerak Obračuna regresa vraća korisniku, drugi zadržava, a treći zajedno s nalogom za isplatu, u roku od tri dana. dostavlja Službi, Sjedište 30102 u Zagrebu, Smičiklasova br.17, koja ga dostavlja Ministarstvu poljoprivrede i šumarstva istog dana kad izvrši isplatu s računa Ministarstva.
+Četvrti primjerak Obračuna regresa, za svakog korisnika, nadležna organizacijska jedinica SDK dostavlja Ministarstvu poljoprivrede i šumarstva u roku od tri dana od dana primitka zahtjeva za regres.
