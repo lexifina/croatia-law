@@ -1,0 +1,8 @@
+# Članak 17.
+Strukturna prilagodba
+1. Stranke mogu poduzeti iznimne mjere ograničenog trajanja koje odstupaju od odredbi članka 4. u obliku povišenih carinskih stopa.
+2. Ove se mjere mogu poduzimati samo u svezi s industrijama u razvoju te u nekim sektorima koji su u postupku restrukturiranja ili se suočavaju s ozbiljnim teškoćama, posebice ako te teškoće izazivaju značajne socijalne probleme.
+3. Uvozne carine koje stranka primjenjuje na proizvode podrijetlom iz druge stranke, a koje su uvedene ovim mjerama ne mogu biti više od 25% ad valorem te će one sadržavati element preferencije za proizvode podrijetlom iz druge stranke. Ukupna vrijednost uvoza proizvoda koji su predmetom ovih mjera ne može biti viša od 15% ukupnog uvoza industrijskih proizvoda iz druge stranke tijekom posljednje godine za koju postoje statistički podaci kako je to definirano u članku 3.
+4. Ove mjere primjenjivat će se najdulje tijekom razdoblja od pet godina osim ako Zajednički odbor odobri produženje njihovog trajanja.
+5. Ove se mjere neće uvoditi na proizvod ukoliko je proteklo više od tri godine od ukidanja svih carina i količinskih ograničenja ili mjera s jednakim učinkom za taj proizvod.
+6. Stranke će obavijestiti Zajednički odbor o svim iznimnim mjerama koje namjeravaju poduzeti te će na zahtjev bilo koje od stranaka održati konzultacije unutar Zajedničkog odbora o tim mjerama i sektorima na koje se te mjere primjenjuju prije njihove primjene. Kada poduzimaju takve mjere, stranke će dati Zajedničkom odboru raspored ukidanja carina uvedenih sukladno ovom članku. Rasporedom će se odrediti postupno ukidanje carina u jednakim godišnjim stopama, a koje će započeti najkasnije dvije godine nakon njihovog uvođenja. Zajednički odbor može odlučiti o drukčijem rasporedu.
