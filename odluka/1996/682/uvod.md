@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 1. točaka 1. i 5. Zakona o lokalnoj samoupravi i upravi ("Narodne novine", br. 90/92, 94/93 i 117/93), a u svezi s odredbom članka 4. stavka 1. Zakona o Zagrebačkoj županiji ("Narodne novine", broj 69/95), Vlada Republike Hrvatske je, na prijedlog Ministarstva uprave, na sjednici održanoj 30. travnja 1996. donijela
