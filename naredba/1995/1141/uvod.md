@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1. točke 1. i 9. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 52/91, 26/93 i 29/94), ministar poljoprivrede i šumarstva donosi
