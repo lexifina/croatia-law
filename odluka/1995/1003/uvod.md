@@ -1,0 +1,1 @@
+Na temelju članka 26. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu ("Narodne novine", br. 98/94. i 9/95), Vlada Republike Hrvatske je na sjednici održanoj 13. srpnja 1995. godine donijela
