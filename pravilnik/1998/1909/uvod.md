@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 4., članka 23. stavka 2., članka 24. stavka 6. i članka 25. stavka 2. Zakona o stočarstvu ("Narodne novine", br. 70/97 i 36/98) te članka 26. stavka 4, članka 27. stavka 5. i članka 92. stavka 2. Zakona o veterinarstvu ("Narodne novine", br. 70/97), ministar poljoprivrede i šumarstva donosi
