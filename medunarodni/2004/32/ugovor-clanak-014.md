@@ -1,0 +1,6 @@
+# Članak 14.
+Spisi, isprave i svjedoci
+1. Carinske službe ugovornih stranaka će, na zahtjev, pribaviti dokumente o prijevozu i otpremi robe iz kojih je vidljiva vrijednost, porijeklo, način raspolaganja i odredište robe.
+2. Originali spisa, dokumenata i ostalih materijala zahtijevat će se samo u slučajevima gdje kopije ne bi bile dovoljne. Na izričit zahtjev, kopije takvih spisa, dokumenata i ostalih materijala trebaju biti odgovarajuće ovjerene.
+3. Originali spisa, dokumenata i ostalih materijala koji su otpremljeni službi tražiteljici, bit će vraćeni čim prije. Prava zatražene službe ili trećih strana u vezi s njima ostat će nedirnuta. Na zahtjev zatražene službe, treba originale, potrebne za donošenje presuda ili slične svrhe, vratiti bez odgađanja.
+4. Na zahtjev carinske službe jedne ugovorne stranke, carinska služba druge ugovorne stranke će, prema svome nahođenju, ovlastiti svoje djelatnike, ako oni na to pristanu, da se pojave kao svjedoci u sudskim ili upravnim postupcima na području službe tražiteljice, te da podnesu spise, dokumente i ostale materijale ili njihove ovjerene prijepise, koji su potrebni u postupku. U takvom zahtjevu, treba navesti vrijeme, mjesto i vrstu postupka, te u kojem svojstvu će djelatnik svjedočiti.

@@ -1,0 +1,1 @@
+Na temelju članka 30., stavka 1., Zakona o sklapanju i izvršavanju međunarodnih ugovora (ŻNarodne novineŽ, broj 28/96), Vlada Republike Hrvatske je na sjednici održanoj 15. travnja 2004. godine donijela
