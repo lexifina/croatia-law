@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 2. i članka 46. stavka 6. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 52/91), ministar poljoprivrede, šumarstva i vodoprivrede donosi
