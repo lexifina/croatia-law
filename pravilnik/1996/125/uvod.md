@@ -1,0 +1,1 @@
+Na temelju članka 52. stavka 8. i članka 54. stavka 5. Zakona o radu ("Narodne novine" 38/95, 54/95 i 65/95) i članka 39. stvka 2. Zakona o sustavu državne uprave ("Narodne novine" br. 75/93) ministar rada i socijalne skrbi donosi
