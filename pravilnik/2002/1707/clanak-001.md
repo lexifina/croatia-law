@@ -1,0 +1,3 @@
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Ilok II smješteno je 700 metara od granične crte u dubini Republike Hrvatske na lokalnoj cesti 46039 (Ilok - Neštin) i obuhvaća prostor s lijeve i s desne strane ceste, dužine 150 metara i širine 18 metara na k.č. 10093 k.o. Ilok gdje se nalaze jedna ulazna i jedna izlazna prometna traka širine 6 metara. Područje graničnog prijelaza obuhvaća dva kontejnera koje koriste djelatnici policije i djelatnici carine, ulazno-izlaznu rampu, nadstrešnicu dužine 8 metara i širine 7 metara s rasvjetnim tijelima te šljunčani parkirališni prostor s lijeve strane gledano u pravcu granične crte.
+Ukupna površina područja graničnog prijelaza iznosi 2700 m2.
