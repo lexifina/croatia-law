@@ -1,0 +1,1 @@
+Na temelju članka 78. stavaka 1. i 2. i članka 109. Zakona o državnim sužbenicima i namještenicima (»Narodne novine«, broj 27/2001), Vlada Republike Hrvatske je na sjednici održanoj 3. veljače 2004. godine donijela
