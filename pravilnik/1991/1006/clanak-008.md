@@ -1,0 +1,8 @@
+## Komisiona prodaja proizvoda
+# Članak 8.
+Pri komisionoj prodaji proizvoda krajnjem potrošaču što je obavi pravna osoba u svoje ime a za račun komitenta (u nastavku teksta: komisionar) plaća se porez na promet bez obzira na to da li je riječ o novim ili upotrebljavanim proizvodima te da li je u ranijem prometu plaćen porez na promet proizvoda.
+Porezni obveznik za promet proizvoda iz stavka 1. ovog članka jest komisionar koji je prodao proizvode kranjem potrošaću. Poreznu osnovicu za obračun poreza na promet proizvoda čini prodajna cijena komisionara s uključenom komisionom provizijom
+Pri komisionoj prodaji proizvoda plaća se porez na promet po stopama iz odgovarajućih tar. brojeva Tarife ovisno o vrsti proizvoda.
+Pri komisionoj prodaji upotrebljavanih osobnih automobila, ostalih motornih vozila i plovnih objekata koii podliježu obvezi godišnje registracije a u vlasništvu su građana, drugom građaninu plaća se porez na promet proizvoda po stopi iz točke 1) tar. broja 8. Tarife. Ako su ti proizvodi u vlasništvu pravne osobe, a prodaju se građaninu, osnovni porez na promet proizvoda plaća se po stopi iz tar. br. l. ili 6 Tarife.
+Iznimno od odredbe stavka 4. ovog članka, pri komisionoj prodaji upotrebljavanih osobnih automobila u vlasništvu pravne osobe drugoj pravnoj osobi, plaća se osnovni porez na promet proizvoda po stopi iz tar. broja 5. Tarife. Pri komisionoj prodaji ostalih motornih vozila i plovnih objekata plaća se osnovni porez na promet proizvoda po stopi iz točke 1. tar. broja 8. Tarife ako je prodaja obavljena na način iz članka 9. Zakona.
+Pri komisionoj prodaji proizvoda porez na promet proizvoda plaća se prema mjestu sjedišta komisionara odnosno poslovnog objekta komisionara.

@@ -1,0 +1,5 @@
+## Davanje proizvoda bez naknade (ustupanje, poklon, zamjena i dr.)
+# Članak 6.
+Pravna osoba koja bez naknade ustupa vlastite proizvode ili proizvode što ih je nabavila ili uvezla, a na njih se plaća porez na promet (oprema i dr.), obračunava i plaća taj poret u trenutku davanja proizvoda primjenom propisanih stopa na osnovicu koju čini vrijednost koja bi se postigla prodajom tih proizvoda krajnjim potrošačima.
+Na motorno vozilo ili plovni objekt koji podliježe obvezi godišnje registracije, a građanin ga daje bez naknade (pokloni i sl.) drugom građaninu plaća se osnovni porez na promet po stopi od 3% (tar. br. 8 Tarife), a poreznu osnovicu čini vrijednost koja bi se postigla prodajom tih proizvoda krajnjem potrošaču. Osnovicu utvrđuje općinski organ nadležan za poslove društvenih prihoda u mjestu prebivališta davaoca.
+Ako građanin daje bez naknade pravnoj osobi motorno vozilo koje podliježe obvezi godišnje registracije. obveznik poreza na promet proizvoda je pravna osoba a porez se plaća po stopi iz tar. broja 6. Tarife.
