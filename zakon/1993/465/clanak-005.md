@@ -1,0 +1,2 @@
+# Članak 5.
+Članak 12. mijenja se i glasi: "Sredstva koja se u državnom proračunu osiguravaju za financiranje osnovnog školstva izdvajaju se na računr Ministarstva kulture i prosvjete koje raspolaže tim sredstvima. Sredstva koja se u proračunima županija i Grada Zagreba osiguravaju za financiranje osnovnog školstve izdvajaju se na račun upravnih tijela nadležnih za poslova školstva u županijama i Gradu Zagrebu koja raspolažu tim sredstvima."

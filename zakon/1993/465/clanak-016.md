@@ -1,0 +1,2 @@
+# Članak 16.
+U članku 44. stavku 1. i 2. riječi: "općinski, odnosno gradski organ uprave nadležan" zamjenjuju se riječima: "upravno tijelo županije, odnosno Grada Zagreba nadležno". Iza stavka 2. dodaje se novi stavak 3. koji glasi: " Upravno tijelo županije, odnosno Grada Zagreba nadležno za poslove školstva uskladuje planove upisa u osnovne škole na svom području." Dosadašnji stavci 3., 4. i 5. postaju stavci 4., 5. i 6.

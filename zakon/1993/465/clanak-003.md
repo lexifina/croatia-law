@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 10. stvak 2. mijenja se i glasi: "Državni pedagoški standard kao program javnih potreba u osnovnom školstvu donosi Sabor Republike Hrvatske na prijedlog Vlade Republike Hrvatske zajedno s državnim proračunom." U stavku 3. riječi: "Odlukom se utvrđuje" z,amjenjuju se riječima: "Državnim pedagoškim standardom se utvrđuje". Iza stavka 3. dodaje se stavak 4. koji glasi: "Ministar kulture i prosvjete posebnim aktom propisuje provedbu Državnog pedagoškog standarda iz stavka 3. ovoga članka".

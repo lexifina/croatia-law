@@ -1,0 +1,2 @@
+# Članak 7.
+Članak 15. mijenja se i glasi: "Županija, odnosno Grad Zagreb, uskladuje interese poduzima aktivnosti radi ravnomjernog razvitka osnovnog školstva, te uređuje druga pitanja od zajednićkog inte resa za osnovno školstvo na području županije, odnosno Grada Zagreba u skladu sa zakonom. Predstavničko tijelo županije, odnosno Grada Zagreba i jedinica lokalne samouprave mogu utvrditi javne potrebe u osnovnom školstvu šire od potreba utvrđenih Državnim pedagoškim standardom, za koje sredstva osiguravaju u svom proračunu."
