@@ -1,0 +1,1 @@
+Na temelju članka 2. stavak 2. Zakona o obrtu ("Narodne novine", br. 77/93), ministar gospodarstva u suglasnosti s ministrom pomorstva, prometa i veza, ministrom prostornog uređenja, graditeljstva i stanovanja, ministrom poljoprivrede i šumarstva i ministrom turizma donosi
