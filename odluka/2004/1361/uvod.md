@@ -1,0 +1,1 @@
+Na temelju članka 25. i članka 39. stavak 2. pod I) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i članka 53. stavak 2. Zakona o bankama (»Narodne novine«, br. 84/2002.) guverner Hrvatske narodne banke donio je
