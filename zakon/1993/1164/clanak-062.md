@@ -1,0 +1,2 @@
+# Članak 62.
+Članak 105a mijenja se i glasi: "Novčanom kaznom u dinarskoj protuvrijednosti 300 do 500 DEM kaznit će se za prekršaj organizacija, poslodavac ili pojedinac ako organizaciji za ostvarivanje prava umjetnika izvodača ne dostavi: 1) potpune podatke o korištenju izvedbe (članak 99s. stavak 1.), 2) primjerak izvođačkog ugovora (članak 99s. stavak 2. ). Za radnju iz stavka 1. ovoga članka kaznit će se za prekršaj i odgovorna osoba u organizaciji, odnosno kod poslodavca novčanom kaznom u dinarskoj protuvrijednosti 100 DEM."

@@ -1,0 +1,2 @@
+# Članak 50.
+U članku 99h. riječi: "plaća se doprinos" zamjenjuju se riječima: "korisnik plaća posebnu naknadu". Iza riječi "izvođača" zarez se zamjenjuje točkom, a ostale riječi brišu se. Iza stavka 1. dodaje se stavak 2. koji glasi "Posebnu naknadu iz prethodnog stavka korisnik plaća u visini koju utvrđuju organizacije umjetnika izvođača općim aktom. Ta visina ne može prelaziti 40% visine autorske naknade utvrđene za odnosna korištenja prema odredbi članka 91a. ovoga Zakona. "

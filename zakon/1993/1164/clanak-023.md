@@ -1,0 +1,2 @@
+# Članak 23.
+U članku 50. stavku 1. riječ: "štampe" zamjenjuje se riječju: "tisks", riječi: "skupštinama društveno-političkih zajednica" zamjenjuju se riječima: "Saboru Republike Hrvatske i tijelima lokalne uprave i samouprave", a riječi: "političkim sastancima" zamjenjuju se riječju: "skupovima". U stavku 2. riječ: "besjedama" briše se, a riječi: "dnevnoj i povremenoj štampi" zamjenjuju se riječima: "dnevnom i povremenom tisku".

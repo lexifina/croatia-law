@@ -1,0 +1,2 @@
+# Članak 59.
+. Iza članka 103a. dodaje se članak 103b., koji glasi "Članak 103b. Predmeti koji su upotrijebljeni ili su bili namijenjeni za izvršenje krivičnog djela iz članka 100. i članka 101 stavka 1. i 3. ovoga Zakona, ili koji su nastali izvršenjem krivičnog djela, odnosno predmeti koji su upotrijebljeni ili su bili namijenjeni za izvršenje prekršaja iz članka 101a i članka 103. stavka 1. ovoga Zakona, oduzet će se."

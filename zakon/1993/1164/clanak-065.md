@@ -1,0 +1,2 @@
+# Članak 65.
+U svim odredbama ovoga Zakona u kojima se navode riječi: "Socijalistička Federativna Republika Jugoslavija" u odgovarajućem padežu zamjenjuju se riječima: "Republika Hrvatska", riječi: "jezik naroda odnosno narodnosti Jugoslavije" u odgovarajućem padežu zamjenjuju se riječima: "hrvatski jezik", riječ: "član" zamjenjuje se riječju: "članak" a riječ: "stav" riječju: "stavak", riječ: "dozvola" zamjenjuje se riječju: "odobrenje".

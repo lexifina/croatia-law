@@ -1,0 +1,2 @@
+# Članak 41.
+Članak 91a. mijenja se i glasi: "Ako za javnu izvedbu nescenskih književnih i glazbenih dijela nije sklopljen autorski ugovor ili ugovorom nije utvrđena visina naknade, organizacije autora mogu ostvariti naknadu za autore tih dijela u visini što su je te organizacije utvrdile općim aktom. Ako se radi o emitiranju Hrvatske radio - televizije, za visinu autorske naknade utvrđene općim aktom organizacije autora potrebna je suglasnost ministarstva nadležnog za poslove kulture."
