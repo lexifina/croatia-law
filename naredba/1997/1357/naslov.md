@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske biljaka domaćina bakterijske paleži - Erwinia amylovora (Burill) Winslow et. al. iz Republike Makedonije, Bos
