@@ -1,0 +1,2 @@
+# Članak 15.
+Odredbe ovoga Pravilnika primjenjuju se i u slučaju stečaja ili likvidacije javnopravne osobe kada nije poznat ili ne postoji pravni sljednik. Pravna osoba koja provodi stečaj odnosno izvodi statusnu promjenu javnopravne osobe mora prije početka postupka o tome obavijestiti nadležni arhiv i pobrinuti se za odabiranje i predaju arhivskoga gradiva arhivu u skladu sa Zakonom i Pravilnikom o vrednovanju arhivskoga gradiva.
