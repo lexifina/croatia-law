@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih papkara, te proizvoda od navedenih životinja kao i životinjske hrane i stelje podrijetlom iz Turske
