@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine« broj 75/93, 92/96, 48/99, 15/00, 127/00, 59/01 i 199/03) Vlada Republike Hrvatske je na sjednici održanoj 22. srpnja 2004. godine donijela
