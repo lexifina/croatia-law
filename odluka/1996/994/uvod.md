@@ -1,0 +1,1 @@
+Na temelju članka 40a. stavka 7. Zakona o poljoprivrednom zemljištu ("Narodne novine", br. 54/94 - pročišćeni tekst i br. 48/95), Vlada Republike Hrvatske je na sjednici održanoj 28. lipnja 1996. godine donijela
