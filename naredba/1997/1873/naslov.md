@@ -1,0 +1,1 @@
+Naredba o zabrani uporabe tkiva i organa te strojno iskoštenog mesa preživača kao rizičnih sirovina, u kojima bi se mogao naći uzročnik goveđe spongiformne encefalopatije (BSE), u proizvodnji mesnih p
