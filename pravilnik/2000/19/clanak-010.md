@@ -1,0 +1,2 @@
+# Članak 10.
+Skladište rezanog duhana, koji se čuva u spremnicima ili u silosima, namijenjeno je za pohranu pripremljenog duhana do trenutka potrošnje na stroju za izradu cigareta, te mora biti klimatizirano. Temperatura i vlažnost zraka trebaju biti kontrolirani kako ne bi došlo do narušavanja tehnološke kakvoće već pripremljenog duhana. Kapacitet skladišta treba biti najmanje za jednodnevnu proizvodnju, kako bi duhan odležao barem 24 sata prije nego što se dozira na stroj izrade.
