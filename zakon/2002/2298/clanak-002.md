@@ -1,0 +1,5 @@
+## Invaliditet i smanjena radna sposobnost
+# Članak 2.
+(1) Osoba s invaliditetom je prema ovom Zakonu svaka osoba kod koje postoji tjelesno, osjetilno ili mentalno oštećenje koje za posljedicu ima trajnu ili na najmanje 12 mjeseci smanjenu mogućnost zadovoljavanja osobnih potreba u svakodnevnom životu.
+(2) Osoba s invaliditetom smanjenih radnih sposobnosti je osoba čiji invaliditet u odnosu na sposobnosti osobe bez invaliditeta jednake ili slične životne dobi, jednake ili slične naobrazbe, u jednakim ili sličnim uvjetima rada, na jednakim ili sličnim poslovima ima za posljedicu trajnu ili na najmanje 12 mjeseci smanjenu mogućnost radno se osposobiti, zaposliti i raditi na tržištu rada pod općim uvjetima.
+(3) Iznimno, osobom s invaliditetom smanjenih radnih sposobnosti može se smatrati i osoba s invaliditetom čiji je radni učinak u granicama očekivanog, ali se na temelju smanjenih stvarnih i procijenjenih općih sposobnosti takve osobe ocijeni da je to u interesu očuvanja njezinih tjelesnih, osjetilnih i mentalnih sposobnosti.

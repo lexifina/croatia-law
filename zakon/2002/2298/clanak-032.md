@@ -1,0 +1,6 @@
+## Samostalna djelatnost i obiteljsko gospodarstvo
+# Članak 32.
+(1) Pravo na porezna i carinska oslobođenja i olakšice predviđene carinskim i poreznim propisima, kao i prava i olakšice predviđene ovim Zakonom i drugim propisima pripadaju i osobama s invaliditetom koje obavljaju samostalnu djelatnost u smislu poreznih propisa te osobama koje obavljaju poljoprivrednu djelatnost kao jedino, glavno ili dopunsko zanimanje.
+(2) Prava iz stavka 1. ovoga članka pripadaju i roditelju, bračnom drugu ili djetetu osobe s invaliditetom koji s tom osobom zasnuje radni odnos u svojstvu obrtnika ili jedinog osnivača trgovačkog društva te koji prema toj osobi ispunjava obveze poslodavca iz radnog odnosa i u svezi s radnim odnosom.
+(3) Prava iz stavka 1. ovoga članka pripadaju i roditelju, bračnom drugu ili djetetu osobe s invaliditetom starije od 15 godina i mlađe od 65 godina (muškarac), odnosno 60 godina (žena) koji obavlja poljoprivrednu djelatnost kao jedino, glavno ili dopunsko zanimanje i koji za osobu s invaliditetom kao člana kućanstva plaća obvezne doprinose za zdravstveno osiguranje i za mirovinsko osiguranje.
+(4) Potvrdu o ispunjavanju uvjeta iz stavka 2. i 3. ovoga članka izdaje na zahtjev poslodavca i poljoprivrednika ured državne uprave nadležan za rad. Zahtjevu se prilažu isprave kojima se dokazuje ispunjavanje tih uvjeta.

@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom propisuju prava osoba s invaliditetom na profesionalnu rehabilitaciju, zapošljavanje i rad te uređuju pojmovi osobe s invaliditetom i smanjene radne sposobnosti, zapošljavanje i rad osoba s invaliditetom na otvorenom tržištu rada i pod posebnim uvjetima, osnivanje, djelatnost te upravna i stručna tijela u ustanovi za profesionalnu rehabilitaciju, zaštitnoj radionici i radnom centru, mjere za poticanje zapošljavanja i rada osoba s invaliditetom, osnivanje Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom te odgovornost za povrede odredaba ovoga Zakona.

@@ -1,0 +1,7 @@
+## NovČani poticaj
+# Članak 30.
+(1) Poslodavac koji zaposli nezaposlenu osobu s invaliditetom utvrđenim prema odredbama ovoga Zakona, osim poslodavca iz članka 10. stavka 1. ovoga Zakona, ima pravo na novčani poticaj.
+(2) Novčani poticaj se određuje u visini uplaćenog obveznog doprinosa na plaće utvrđenog po propisima o obveznom mirovinskom osiguranju na temelju generacijske solidarnosti, uplaćenog obveznog doprinosa na plaće utvrđenog po propisima o osnovnom zdravstvenom osiguranju te uplaćenog obveznog doprinosa na plaće utvrđenog prema zakonu koji uređuje posredovanje pri zapošljavanju i prava za vrijeme nezaposlenosti.
+(3) Zahtjev za isplatu novčanog poticaja poslodavac podnosi Fondu za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom. Zahtjevu se obvezno prilaže obračun novčanog poticaja s podacima o osobama s invaliditetom i o uplaćenim doprinosima na plaću za te osobe, zatim dokaz da su za sve radnike uplaćeni ti doprinosi, primjerci obračuna plaće osoba s invaliditetom, a prvi put i dokazi o zapošljavanju i o invaliditetu.
+(4) Poslodavac može zahtjev za isplatu novčanog poticaja podnijeti po isteku mjeseca ili tromjesečja. Novčani poticaj se isplaćuje u roku od 30 dana od dana podnošenja zahtjeva s obveznim prilozima.
+(5) Ovlašćuje se Fond za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom da javno objavi način ostvarivanja prava na novčani poticaj te da putem nadležnih upravnih tijela kod poslodavca nadzire pravilnost obračuna novčanog poticaja i vjerodostojnost priloženih dokaza.
