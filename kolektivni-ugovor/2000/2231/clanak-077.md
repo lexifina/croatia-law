@@ -1,0 +1,2 @@
+# Članak 77.
+Zaposlenik, koji smatra da mu je poslodavac, fizička osoba ili grupa fizičkih osoba (grupna privatna praksa), povrijedila neko pravo iz radnog odnosa, pa tako i u slučaju otkaza ugovora o radu, može u roku od 15 dana zahtijevati zaštitu povrijeđenog prava pred nadležnim sudom, sukladno članku 126. Zakona o radu, računajući od dana dostave rješenja ili Odluke u smislu članka 64. ovog Kolektivnog ugovora, kojom je povrijeđeno njegovo pravo, odnosno računajući od dana saznanja za povredu prava.

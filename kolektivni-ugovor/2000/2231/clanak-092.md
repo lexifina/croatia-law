@@ -1,0 +1,2 @@
+# Članak 92.
+Poslodavac, koji nije ugovorni zdravstveni djelatnik privatne prakse (fizička ili pravna osoba) obračunava plaću zaposleniku prema mjerilima i kriterijima iz članka 85. i 86. ovog Kolektivnog ugovora a njenu visinu za isplatu prilagođava svojoj ekonomskoj snazi primjenom istih mjerila iz članka 87. ili 89. istog Kolektivnog ugovora kako je propisano i za ugovornog zdravstvenog djelatnika privatne prakse.

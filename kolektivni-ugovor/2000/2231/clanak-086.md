@@ -1,0 +1,5 @@
+## Koeficijenti za izračun plaće
+# Članak 86.
+Koeficijenti za obračun plaće zaposleniku predstavljaju izraz relativnog odnosa vrijednosti svakog radnog mjesta u odnosu na prethodno ili sljedeće radno mjesto, i zbog toga su veći u odnosu na koeficijent za prethodno radno mjesto.
+Za radna mjesta u privatnoj praksi Hrvatske utvrđuju se koeficijenti i to kako slijedi:
+- doktora medicine ili stomatologije - specijalistui za ugovornog doktora medicine odnosnostomatologije 5,30 - doktora medicine odnosno dr. stomatologije,mr. farmacije ili dipl. ing. med. biokemije 5,00 - medicinske sestre - tehničara, farmac. tehničara, VŠS, zubnog tehničara VŠS, ing,. med. radiologije VŠS, i druge zaposlenikezdravstvenog usmjerenja VSS 3,50 - medicinske sestre SSS, zub. teh. SSS, farm.teh., SSS i druge zaposlenike zdravstvenogusmjerenja SSS 2,70 - referenta u administraciji i druge zaposlenikenezdravstvenog usmjerenja SSS 2,40 - KV zanimanja 2,20 - bolničara, dječje njegovateljice 1,70 - PK zanimanja 1,17 - NK zanimanja 1,00

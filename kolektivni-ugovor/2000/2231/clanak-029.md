@@ -1,0 +1,5 @@
+## Zaključenje ugovora o službi
+# Članak 29.
+Ako poslodavac - zdravstvena ustanova, zaposlenika s kojim je zasnovala radni odnos ugovorom o radu na neodređeno vrijeme za obavljanje poslova radnog mjesta iz općeg akta o sistematizaciji poslova i radnih zadaća imenuje da obavlja i poslove s posebnim ovlaštenjima u procesu rada u okviru punog radnog vremena njegovog rada, za obavljanje tih poslova, poslodavac i zaposlenik zaključuju ugovor o službi.
+Ugovor o službi iz prethodnog stavka sadrži odredbe o ovlaštenjima za rukovođenje većom ili manjom grupom zaposlenika, naznaku organizacijske forme takve jedinice, naznaku koordinacije rada zaposlenika i organizacijske jedinice kojom rukovodi sa drugim zaposlenicima i oganizacijskim jedinicama ustanove, naznaku subordinacije prema pretpostavljenima, trajanje mandata, mogućnosti opoziva ugovora o službi i prije isteka mandata; odredbe o plaći u svezi izvršenja ugovora o službi i dr.
+Opozivom ugovora o službi ne raskida se ugovor o radu, suprotno da.

@@ -1,0 +1,4 @@
+## Izvršenje poslova po ugovoru o djelu, kao zamjena za rad po ugovoru o radu
+# Članak 31.
+Ako poslodavac objavi potrebu za zasnivanje radnog odnosa na način kako je propisano člankom 57. Zakona o zapošljavanju ili na drugi način, pa se nakon proteka roka za dostavu ponuda utvrdi da nitko nije dostavio ponudu ili da je ponudu dostavila osoba koja ne ispunjava tražene uvjete, poslodavac može obavljanje poslova radnog mjesta iz prijave potrebe za radnikom, oglasa ili natječaja, povjeriti zaposleniku koji je zaposlen kod drugog poslodavca ili umirovljeniku i to po ugovoru o djelu.
+Namjeru zasnivanja radnog odnosa po ugovoru o radu sa nezaposlenom ili djelomično zaposlenom osobom traženih uvjeta poslodavac ponavlja - svakih 6 mjeseci, kako bi potrebu za radom zaposlenika konzumirao zaključenim ugovorom o radu, umjesto s ugovorom o djelu, kako je navedeno u prethodnom stavku.
