@@ -1,0 +1,4 @@
+# Članak 6.
+Jedan radnik iz članka 5. ovoga pravilnika mora imati VSS tehničkog smjera ili prirodoslovno-matematičkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja ili proizvodnje termometara, ili VŠS tehničkog smjera i najmanje 2 godine radnog iskustva na poslovima ispitivanja ili proizvodnje termometara, ili SSS tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja ili proizvodnje termometara, ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja ili proizvodnje termometara.
+Drugi radnik iz članka 5. ovoga pravilnika mora biti najmanje KV tehničke struke i imati najmanje 2 godine radnog iskustva na poslovima ispitivanja termometara.
+Radnik iz stavka 1. i 2. ovoga članka mora poznavati propise kojima su utvrđeni postupci i metode ispitivanja termometara.
