@@ -1,0 +1,7 @@
+## Konačne antidampinške i kompenzacijske pristojbe
+# Članak 33.
+Ako Ministarstvo utvrdi da je u razdoblju na koje se odnosi ispitni postupak postojao dampinški, odnosno subvencionirani uvoz, da je takvim uvozom nastala šteta, te da postoji uzročna veza između takvog uvoza i štete za domaću proizvodnju, predlaže Vladi Republike Hrvatske donošenje odluke o propisivanju konačnih antidampinških, odnosno kompenzacijskih pristojbi.
+Konačne antidampinške, odnosno kompenzacijske pristojbe propisuju se za robu koja je bila puštena u slobodni promet nakon utvrđivanja činjenica iz stavka 1. ovog članka.
+Ako je iznos propisanih privremenih antidampinških, odnosno kompenzacijskih pristojbi niži od konačnih antidampinških, odnosno kompenzacijskih pristojbi, razlika se ne naplaćuje.
+Ako je iznos propisanih privremenih antidampinških, odnosno kompenzacijskih pristojbi viši od konačnih antidampinških, odnosno kompenzacijskih pristojbi, razlika se vraća u skladu s propisima koji uređuju povrat carinskih i drugih uvoznih davanja.
+Ako Ministarstvo ustanovi da je u razdoblju na koje se odnosi ispitni postupak postojao dampinški, odnosno subvencionirani uvoz, a šteta još nije bila prouzročena, ali postoji opasnost nastajanja štete ili znatnog ometanja razvoja domaće proizvodnje, a nisu bile propisane privremene antidampinške, odnosno kompenzacijske pristojbe, mogu se propisati konačne antidampinške, odnosno kompenzacijske pristojbe.

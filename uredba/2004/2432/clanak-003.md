@@ -1,0 +1,5 @@
+# Članak 3.
+Antidampinška pristojba može se propisati zbog otklanjanja učinka dampinga za robu čije puštanje u slobodan promet na carinsko područje Republike Hrvatske uzrokuje štetu ili prijetnju štetom u smislu članka 46. Zakona o trgovini.
+Antidampinška pristojba propisuje se temeljem provedenog ispitnog postupka kojim se utvrđuje postojanje dampinškog uvoza, šteta nastala takvim uvozom, te uzročna veza između takvog uvoza i štete za domaću proizvodnju.
+Kompenzacijska pristojba može se propisati zbog otklanjanja učinka subvencije koja je odobrena izravno ili neizravno za proizvodnju, izvoz ili prijevoz robe čije puštanje u slobodan promet na carinsko područje Republike Hrvatske uzrokuje štetu ili prijetnju štetom u smislu članka 46. Zakona o trgovini.
+Kompenzacijska pristojba propisuje se temeljem provedenog ispitnog postupka, kojim se utvrđuje postojanje subvencije protiv koje je moguće poduzeti mjere, koristi koju je izvoznik ili proizvođač ostvario tom subvencijom, štete nastale uvozom takve robe, te uzročna veza između takvog uvoza i štete za domaću proizvodnju.

@@ -1,0 +1,2 @@
+# Članak 37.
+Ako je roba koja se ispituje uvezena na carinsko područje Republike Hrvatske iz više zemalja, antidampinška, odnosno kompenzacijska pristojba određuje se u primjerenoj visini, na nediskriminatornoj osnovi, za svu uvezenu robu za koju je utvrđeno postojanje dampinga, odnosno subvencioniranja, štete i uzročne veze između takvog uvoza i štete nastale takvim uvozom, osim za robu iz onih izvora koji su dogovorom prihvatili obvezu promjene cijena.

@@ -1,0 +1,3 @@
+# Članak 5.
+Stvarna vrijednost utvrđuje se na temelju prodaje iste robe za potrošnju na tržištu zemlje izvoznice ako je obujam prodaje te robe 5% ili veći od obujma uvoza robe koja se ispituje na carinsko područje Republike Hrvatske.
+Stvarna vrijednost se određuje temeljem troškova proizvodnje u zemlji izvoznici uvećanih za razuman iznos troškova prodaje, općih i administrativnih troškova i dobiti ili temeljem cijena izvoza u treću zemlju uz uobičajene trgovačke uvjete, ako se ista roba ne prodaje u dostatnim količinama uz uobičajene trgovačke uvjete ili ako zbog posebnih okolnosti na tržištu prodaja ne dopušta dobru usporedbu, pod uvjetom da tako dobivene cijene odražavaju stvarno stanje.
