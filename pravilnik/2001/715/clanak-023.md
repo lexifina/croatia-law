@@ -1,0 +1,2 @@
+# Članak 23.
+Svaka matična knjižnica izrađuje godišnji i višegodišnji program rada svoje matične djelatnosti na temelju zadataka i poslova utvrđenih ovim Pravilnikom, te zajedničkih smjernica iz Programa djelovanja matičnih službi što ga izrađuje Nacionalna i sveučilišna knjižnica u Zagrebu. Program rada iz st. 1. ovoga članka s odgovarajućim financijskim planom, matična knjižnica dostavlja Ministarstvu kulture, odnosno Ministarstvu znanosti i tehnologije i Ministarstvu prosvjete i športa i Nacionalnoj i sveučilišnoj knjižnici u Zagrebu.

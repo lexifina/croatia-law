@@ -1,0 +1,5 @@
+# Članak 10.
+Temeljnu matičnu djelatnost za visokoškolske i specijalne knjižnice u sastavu sveučilišta, kao i matičnu djelatnost za samostalne općeznanstvene knjižnice i specijalne knjižnice iz članka 3. stavak 2. ovoga Pravilnika obavljaju sveučilišne matične knjižnice Sveučilišta u Osijeku, Rijeci, Splitu i Zagrebu svaka za svoje područje djelovanja.
+Temeljnu matičnu djelatnost za visokoškolske i specijalne knjižnice u sastavu veleučilišta, obavljaju veleučilišne matične knji- žnice za područje svoga djelovanja. Ukoliko veleučilišne knjižnice nisu osposobljene za tu funkciju, matičnu djelatnost obavlja sveučilišna knjižnica matična za to područje djelovanja.
+Ministar kulture može na prijedlog Hrvatskoga knjižničnog vijeća, a uz suglasnost ministra znanosti i tehnologije, matičnu djelatnost veleučilišne matične knjižnice za veleučilišta u kojima ne postoji veleučilišna knjižnica privremeno povjeriti sveučilišnoj knjižnici.
+Uvjeti koje trebaju ispunjavati sveučilišne, odnosno veleučilišne knjižnice za obavljanje matične djelatnosti utvrđuju se standardima što ih sukladno čl. 8. st. 4. Zakona o knjižnicama propisuje ministar znanosti i tehnologije.

@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 3. Zakona o knjižnicama (»Narodne novine« broj 105/97, 5/98 i 104/00), a na prijedlog Hrvatskog knjižničnog vijeća i uz prethodnu suglasnost ministra prosvjete i športa i ministra znanosti i tehnologije, ministar kulture donosi
