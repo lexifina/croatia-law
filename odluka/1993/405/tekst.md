@@ -1,0 +1,7 @@
+o usklađvanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. siječnja 1993.
+1. Mirovine i druga novčana primanja korisnika iz članka 1. Uredbe o ostvarivanju prava iz mirovinskog i invalidskog osiguranja osoba kojima je prestalo svojstvo aktivne vojne osobe u bivšoj JNA do 31. prosinca 1991. ("Narodne novine", br. 46/92 i 71/92) i mirovine i druga novčana primanja korisnika iz članka 36. Zakona o preuzimanju saveznog zakona iz oblasti mirovinskog i invalidskog osiguranja vojnih osiguranika koji se u Republici Hrvatskoj primjenjuje kao Republički zakon ("Narodne novine", br. 53/91, 73/91, 18/92 i 71/92), povećavaju se od 1. siječnja 1993. za. 26,2%.
+2. Mirovine usklađene prema točki 1. ove odluke ne mogu iznositi više od 253.011.- HRD, niti manje od 40.933. HRD mjesečno.
+3. Doplatak za pomoć i njegu i novćane naknade za tjelesno oštećenje, uskladene po ovoj odluci, isplaćivat će se od 1. siječnja 1993. najviše u svoti koje od 1. siječnja 1993. pripadaju korisnicima tih prava u Republičkom fondu mirovinskog i invalidskog osiguranja radnika Hrvatske.
+4. Kao osnovica za povećanje mirovina i drugih novčanih primanja, prema ovoj Odluci. uzima se svota koja je kožisnicima pripadala na dan 1. siječnja 1993.
+5. Uskladivanje mirovina i drugih novčanih primanja, prema ovoj Odluci, obavit će se po službenoj dužnosti, bez donošenja rješenja.
+6. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1993.
