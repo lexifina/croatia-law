@@ -1,0 +1,1 @@
+Na temelju članka 169. stavka 7. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 33/2002 i 58/2002), Vlada Republike Hrvatske je na sjednici održanoj 28. studenoga 2002. godine, donijela
