@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 1. podstavka 4. Zakona o hrani (»Narodne novine« br. 117/03, 130/03 i 48/04) ministar zdravstva i socijalne skrbi uz suglasnost ministra poljoprivrede, šumarstva i vodnoga gospodarstva donosi
