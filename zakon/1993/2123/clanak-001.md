@@ -1,0 +1,5 @@
+## o dopunama Zakona o morskom ribarstvu
+# Članak 1.
+U Zakonu o morshom ribarstvu ("Narodne novine", br. 44/80., 41/84., 9/88., 9/91., 61/91. i 22/92.) iza članka 75a, dodaju se članci 75b. i 75c. koji glase: "Članak 75b. Radi zaštite riba i drugih morskih životinja, nadležna tijela državne uprave, do 31. prosinca 1994. godine, fizičkim osobama neće izdavati nova odobrenja niti dopunjavati postoječa za obavljanje privrednoga ribolova uz upotrebu slijedećih ribolovnih sredstava:
+- pridnene povlačne mreže-koče koju povlači plovilo čija je baždarska duljina do 12 metara, a registarski bruto obujam do 15 GT (u daljnjem tekstu: čamac-kočar), - trostruhih jednopodnih mreža stajaćica-popunica (u daljnjem tekstu: mreža popunica),
+- vrša za lov malih rakova-škampa (u daljnjem tekstu: vrša za lov škampa). Članak 75c. Radi zaštite riba i drugih morshih životinja, do 31. prozca 1994. godine, pravne osobe ne mogu započeti s obavljanjem privrednoga ribolova uz upotrebu čamaca-kočara mreža popunica i vrša za lov škampa".
