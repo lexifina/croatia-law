@@ -1,0 +1,4 @@
+# Članak 4.
+Prihodi od doprinosa iz osobnih dohodaka i dohotka, prihodi ostvareni vlastitom djelatnošću korisnika proračunskih fondova te drugi prihodi koji budu ostvareni po osnovi obveza iz 1990. godine prihod su proračunskog fonda ili organa ako fond nije osnovan i uplaćuju se na račun tog fonda u organu gdje je fond osnovan ili na račun organa ako fond niie osnovan.
+Sredstva koja budu ostvarena po osnovi doprinosa iz dohotka i osobnog dohotka na ime obveza prema dosadašnjim samoupravnim interesnim zajednicama za 1990. godinu treba uplatiti na račun svakog proračunskog fonda u organu gdje je fond osnovan ili na račun organa ako fond nije osnovan.
+Neizvršene, a prenesene obveze dosadašnjih samoupravnih interesnih zajednica iz 1990. podmirit će se sredstvima iz stavka 1. ovoga članka. Nedostatna sredstva za obveze iz stavka 2. ovoga članka osigurat će se iz ukupnih prihoda utvrđenih u skladu sa člankom 3. ovoga zakona.
