@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 1. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 54/94 - pročišćeni tekst, 48/95 i 19/98) i članka 23. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/91), Vlada Republike Hrvatske je na sjednici održanoj 30. travnja 1998. godine, donijela
