@@ -1,0 +1,2 @@
+# Članak 3.
+Prihod od prodanih doplatnih maraka iz članka 1. ovoga Zakona do iznosa od 160.000 DEM, izraženo u protuvrijednosti hrvatskih dinara, ria dan konačnog obračuna, javno poduzeće HPT - Hrvatska, pošta i telekomunikacije uplatit će na račun Fondacije za podizanje spomenika kardinalu Alojziju Stepincu i uređenje Krašića. Ukoliko prihod od prodanih doplatnih marka bude veći od iznosa iz stavka 1. ovoga članka, taj dio prihoda uplatit će se u proračun Republike Hrvatske.
