@@ -1,0 +1,1 @@
+Na temelju članka 43. Zakona o javnim cestama ("Narodne novine", broj 40/90. i 34/91.) i članka 22. Statuta Poduzeća "Hrvatske ceste" - poduzeće za održavanje, zaštitu, rekonstrukciju i izgradnju cesta u Hrvatskoj ("Narodne novine", broj 57/90.), Upravni odbor Poduzeća "Hrvatske ceste" na 17. sjednici od 12. rujna 199t. godine donio je
