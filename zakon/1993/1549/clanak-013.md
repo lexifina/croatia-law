@@ -1,0 +1,3 @@
+# Članak 13.
+Osoba koja namjerava obavljati samostalnu djelatnost dužna je prijaviti njezin početak s podacima o vrsti poslova, stručnoj spremi, odnosno stručnoj osposobljenosti, poslovnom prostoru, djelatnicima i njihovoj stručnoj spremi, odnosno stručnoj osposobljenosti i tvrtku pod kojom će se djelatnost obavljati, upravnom tijelu nadležnom za poslove tehničke kulture općine, odnosno grada na čijem će se području djelatnost obavljati, odnosno Grada Zagreba, a ako će djelatnost obavljati na području više općina odnosno gradova upravnom tijelu nadležnom za poslove tehničke kulture općine, odnosno grada u kojem ima prebivalište.
+Obavljanje samostalne djelatnosti može započeti tek nakon upisa u registar koji vodi upravno tijelo iz stavka 1. ovoga članka.

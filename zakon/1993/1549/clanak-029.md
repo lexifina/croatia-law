@@ -1,0 +1,2 @@
+# Članak 29.
+Zajednice i savezi tehničke kulture potiču i promiču ukupne aktivnosti tehničke kulture i odgovarajuća područja (grane) tehničke kulture na području županije, Grada Zagreba i grada, odnosno za područje Republike, usklađuju aktivnosti svojih članica, skrbe o unapređivanju stručnog rada i osposobljavanju stručnih djelatnika, te unapređenju dostignuća u tehničkoj kulturi, a mogu obavljali i gospodarske, društvene i druge izvangospodarske aktivnosti, koje u skladu sa zakonom mogu obavljati udruge tehničke kulture.
