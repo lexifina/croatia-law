@@ -1,0 +1,1 @@
+Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 2005. godini
