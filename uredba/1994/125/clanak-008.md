@@ -1,0 +1,2 @@
+# Članak 8.
+Ministar gospodarstva po prethodno pribavljenom mišljenju ministra financija i ministra pomorstva, prometa i veza će po potrebi donijeti propis kojim će se urediti način i postupak u svezi s odobravanjem izvoza i iznošenja roba i usluga u Libiju, kao i plaćanja roba i usluga u Libiju, te postupanje sa zrakoplovima i drugim prijevoznim sredstvima porijeklom iz Libije, u vlasništvu ili pod nadzorom osoba iz Libije.
