@@ -1,0 +1,2 @@
+# Članak 26.
+Pri pregledu ili pretrazi robe, prijevoznog sredstva ili osobe pronađeno oružje, druge opasne stvari, opojne droge ili druge stvari koje se neovlašteno prenose u ili iz carinskog područja Republike Hrvatske odmah će se oduzeti, a u slučaju kada je pronađeno oružje, druge opasne stvari ili opojne droge, osobama kod kojih su pronađeni i vozačima prijevoznih sredstava privremeno će se ograničiti sloboda kretanja i o tome će se odmah obavijestiti nadležna policijska uprava.

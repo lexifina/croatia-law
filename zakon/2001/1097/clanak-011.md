@@ -1,0 +1,22 @@
+# Članak 11.
+Carinarnica neposredno ili preko svojih ustrojstvenih jedinica obavlja sljedeće poslove:
+1. odobrava i provjerava provedbu carinski dopuštenog postupanja i uporabe robe,
+2. obračunava i naplaćuje carinu, porez na dodanu vrijednost, trošarine i druga davanja koja se naplaćuju kod uvoza, izvoza i provoza robe, te druga davanja u skladu s posebnim propisima,
+3. rješava o plaćanju povoljnije carine i oslobođenju od plaćanja carine, o odgodi plaćanja, povratu ili otpustu ili naknadnoj naplati carinskog duga, poreza na dodanu vrijednost, trošarina i drugih davanja koja se naplaćuju sukladno carinskim i posebnim propisima,
+4. nadzire i provjerava uporabu robe koja je bila oslobođena od plaćanja carine, poreza na dodanu vrijednost, trošarina i drugih davanja koja se naplaćuju sukladno carinskim i posebnim propisima,
+5. utvrđuje carinsku vrijednost i razvrstavanje robe u nomenklaturu Carinske tarife te utvrđuje podrijetlo robe u skladu s važećim propisima i međunarodnim sporazumima,
+6. obavlja reviziju i nadzor i provjeru rješenja iz točke 3. ovoga stavka te obračuna i naplatu carine, poreza na dodanu vrijednost, trošarina i drugih davanja koja se naplaćuju sukladno carinskim i posebnim propisima,
+7. obavlja naknadne provjere carinskih deklaracija i isprava koje se podnose uz deklaraciju i potvrda o podrijetlu robe,
+8. provodi postupak prisilne naplate carinskog duga, poreza na dodanu vrijednost i trošarina, te drugih davanja koja se naplaćuju prema posebnim propisima,
+9. na graničnim prijelazima, za koje to odluči Vlada Republike Hrvatske, obavlja poslove s područja kontrole prijelaza preko državne granice,
+10. obavlja nadzor i kontrolu unosa i iznosa domaćih i stranih sredstava plaćanja, te sprečava i otkriva kažnjiva djela s tim u vezi,
+11. sprečava i otkriva carinske i trošarinske prekršaje te druga kažnjiva djela,
+12. u prvom stupnju vodi carinske prekršajne postupke za prekršaje propisane ovim Zakonom i Carinskim zakonom, te drugim zakonom kada je provedba prekršajnog postupka stavljena u djelokrug Carinske uprave,
+13. rješava u predmetima iz nadležnosti Carinske uprave u upravnom postupku prvog stupnja, ako za određena upravna pitanja nije propisana nadležnost Središnjeg ureda,
+14. smješta i provodi postupak prodaje oduzete, ustupljene ili pronađene robe i proizvoda,
+15. daje obavijesti o primjeni carinskih propisa,
+16. surađuje s nadležnim tijelima Ministarstva unutarnjih poslova, drugim državnim i javnim tijelima i organizacijama, te drugim sudionicima u pograničnom prometu te stranim pograničnim tijelima, kako bi se poslovi na granici obavljali učinkovitije i kvalitetnije kao i u cilju sprečavanja i otkrivanja carinskih i trošarinskih prekršaja, te drugih kažnjivih djela,
+17. surađuje s nadležnim poreznim i inspekcijskim, te policijskim tijelima u vezi s obavljanjem poslova iz njihovog djelokruga,
+18. operativno provodi nadzor rada i poslovanja međunarodnih otpremnika u vezi s carinjenjem robe, odnosno poslova zastupanja u carinskom postupku,
+19. vodi poslove disciplinskog sudovanja u prvom stupnju,
+20. obavlja i druge poslove određene ovim Zakonom i drugim propisima.

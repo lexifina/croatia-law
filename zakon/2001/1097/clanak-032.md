@@ -1,0 +1,2 @@
+# Članak 32.
+Zapisnici o činjenicama utvrđenim pregledom osoba, prijevoznih sredstava i poslovnih prostora, isprave i drugi dokumenti te predmeti oduzeti u carinskom postupku, te izjave sudionika u carinskom postupku poduzetom i provedenom prema odredbama ovoga Zakona mogu služiti kao dokazno sredstvo u prekršajnom postupku i kaznenom postupku. Izjave sudionika u carinskom postupku mogu služiti kao dokazno sredstvo u kaznenom postupku ako su dane pod uvjetima propisanima i odredbama Zakona o kaznenom postupku.

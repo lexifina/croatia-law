@@ -1,0 +1,5 @@
+# Članak 27.
+Ovlašteni carinski službenici provjeravaju isprave podnesene u carinskom postupku i podatke iskazane u tim ispravama.
+Ovlašteni carinski službenici mogu zahtijevati od osobe koja je prema propisima dužna dati podatke ili ispuniti određenu obvezu da im u određenom roku i na određenom mjestu podnese bilo koju knjigovodstvenu ispravu, ugovor, poslovno dopisivanje, evidenciju ili neku drugu ispravu koju smatraju potrebnom za provedbu carinske i trošarinske provjere.
+Isprave, podaci ili ispunjenje određene obveze iz stavka 2. ovoga članka može se zahtijevati od carinskog deklaranta, trošarinskog obveznika, proizvođača ili druge osobe, koja je neposredno ili posredno sudjelovala u poslu, ali i od svake druge osobe koja raspolaže traženom dokumentacijom ili raspolaže podacima ili bi te isprave ili podatke trebala imati.
+Kad se poslovne knjige i propisane evidencije vode na elektronskom mediju, ovlašteni carinski službenici imaju pravo pregledati bazu podataka računarskog sustava, te zahtijevati izradu, odnosno predaju svakog dokumenta ili deklaracije, koja potvrđuje neki podatak, vođen na elektronskom mediju.

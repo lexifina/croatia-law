@@ -1,0 +1,10 @@
+# Članak 24.
+Ovlašteni carinski službenici mogu obavljati pregled i pretragu:
+1. prijevoznog sredstva za prijevoz osoba, u području graničnog prijelaza i ostalog prostora carinarnice,
+2. prijevoznog sredstva za prijevoz robe i stvari u prijevoznom sredstvu na cijelom carinskom području Republike Hrvatske.
+Ovlašteni carinski službenici mogu na cijelom carinskom području obavljati provjeru namjenske uporabe pogonskog goriva u prijevoznom sredstvu.
+Ovlašteni carinski službenici mogu na cijelom carinskom području obavljati pregled i pretragu poslovnih prostorija i drugoga poslovnog prostora u kojima se roba istovaruje ili utovaruje ili pretovaruje, te poslovnih prostorija i drugoga poslovnog prostora u kojima se obavlja djelatnost proizvodnje ili dorade robe, uključujući uredski prostor. Pregled ostalih prostorija i prostora moguće obaviti samo na temelju odobrenja tijela sudbene vlasti.
+U slučaju prisilnog zadržavanja prijevoznog sredstva radi obavljanja pregleda i pretrage na području graničnog prijelaza ili prostora carinarnice ili drugih uredovnih prostora duže od šest sati, odnosno u slučaju prisilnog zadržavanja prijevoznog sredstva za prijevoz robe radi obavljanja pregleda i pretrage na preostalom dijelu carinskog područja, odmah se o poduzetoj radnji obavještava nadležna policijska uprava.
+Vozač je dužan zaustaviti prijevozno sredstvo za prijevoz robe i uputiti ga na mjesto koje odredi carinski službenik koji uređuje u službenoj odori, dati sve potrebne isprave i podatke o prijevoznom sredstvu i robi koju prevozi, te mu pokazati robu koju prevozi.
+Radnje iz stavka 1. ovoga članka uključuju pravo pregleda svih dijelova prijevoznog sredstva i stvari u njemu pomoću tehničkih pomagala, te pravo rastavljanja pojedinih dijelova prijevoznog sredstva ako postoji osnovana sumnja o izvršenju ili pokušaju izvršenja prekršajnog ili kaznenog djela povredom carinskih ili trošarinskih propisa.
+Ukoliko se nakon pregleda i rastavljanja prijevoznog sredstva ustanovi da je sumnja o izvršenju ili pokušaju izvršenja prekršajnog ili kaznenog djela bila neosnovana, prijevozno sredstvo će se uz pomoć istih tehničkih pomagala vratiti u prvobitno stanje.

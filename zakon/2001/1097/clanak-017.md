@@ -1,0 +1,3 @@
+# Članak 17.
+Pri obavljanju službenih radnji ovlašteni carinski službenik dužan je postupati na način koji ne vrijeđa ugled, čast i dostojanstvo osobe na koju se radnja odnosi, vodeći računa o zaštiti Ustavom i zakonom zajamčenih ljudskih prava i temeljenih sloboda, odnosno dužan je svaku radnju poduzeti s mjerom i na način primjeren okolnostima slučaja.
+Odredba stavka 1. ovoga članka odgovarajuće se primjenjuje i na slučajeve ophođenja ovlaštenih carinskih službenika s pravnim osobama, te su isti dužni voditi računa da kod provođenja službenih radnji u što manjoj mjeri remete njihovo redovito poslovanje.

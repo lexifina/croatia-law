@@ -1,0 +1,4 @@
+# Članak 16.
+Ovlašteni carinski službenici obavljaju poslove carinske službe u službenoj ili civilnoj odjeći, u slučajevima i pod uvjetima koje utvrđuje ravnatelj Carinske uprave. Službena odjeća je carinska odora ili radna odjeća, s propisanim znakom Carinske uprave.
+Ovlašteni carinski službenici dužni su na traženje sudionika carinskog postupka legitimirati se službenom iskaznicom i značkom, a kada poslove obavljaju u civilnoj odjeći moraju se legitimirati službenom iskaznicom i značkom prije poduzimanja bilo koje službene radnje.
+Vlada Republike Hrvatske propisuje boju i oznake na službenoj odjeći, a ministar financija na prijedlog ravnatelja određuje radna mjesta na kojima ovlašteni i drugi carinski službenici moraju nositi službenu odjeću i vrstu službene odjeće, te propisuje izgled, trajanje i način njezine uporabe.

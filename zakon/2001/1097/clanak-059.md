@@ -1,0 +1,5 @@
+# Članak 59.
+Carinska uprava je dužna pridržavati se posebnih propisa kojima se uređuje zaštita i zdravlje službenika tijekom rada, a djelatnici su odgovorni da s najvećom mogućom pozornošću čuvaju svoju vlastitu sigurnost i zdravlje u radu kao i sigurnost i zdravlje ostalih osoba, ako je to ovisno o njihovim postupcima.
+Carinski službenici koji pregledaju prijevozna i prijenosna sredstva, te carinsku i drugu robu u carinskim i drugim skladištima i smjestištima, te carinski službenici koji obavljaju stručne i pomoćne poslove u carinskom laboratoriju, te namještenici koji obavljaju odgovarajuće stručne i tehničke poslove imaju pravo na radnu odjeću i druga zaštitna sredstva.
+Ministar financija donosi na prijedlog ravnatelja Pravilnik o zaštiti na radu, kojim detaljnije uređuje ustrojstvo i provedbu zaštitno - sigurnosnih mjera tijekom rada, međusobne obveze, te odgovorne osobe na pojedinim razinama.
+Ministar financija donosi pravilnik kojim se uređuju radna mjesta te uvjeti pod kojima službenici i namještenici Carinske uprave imaju pravo na radnu odjeću, vrstu materijala za njihovu izradu, te kroj, trajanje i način njihove uporabe.

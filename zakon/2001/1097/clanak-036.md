@@ -1,0 +1,22 @@
+# Članak 36.
+Pored zajedničkih osobnih i drugih podataka, sveukupna evidencija sadrži i sljedeće podatke:
+1. evidencija pisanih carinskih deklaracija; podaci iz pisanih carinskih deklaracija, utvrđeni carinskim propisima,
+2. evidencija izdanih carinskih odobrenja; broj, datum i izdavatelj odobrenja, vrsta odobrenja, važenje odobrenja, nepridržavanja uvjeta iz odobrenja, datum i razlozi, te trajanje oduzimanja odobrenja, produljenje važnosti odobrenja,
+3. evidencija posjednika trošarinskih odobrenja i oslobođenih korisnika; podaci o posjedniku odobrenja i oslobođenom korisniku, carinsko tijelo, vrsta i datum izdavanja odobrenja, lokacija i šifra skladišta, te datum početka poslovanja, vrsta trošarinskih proizvoda, podaci o obavljenim inventurama, podaci o predloženoj garanciji, datum i razlozi oduzimanja odobrenja,
+4. evidencija trošarinskih obveznika i posjednika uvozne robe; podaci o trošarinskom obvezniku i odgovornoj osobi, naziv i šifra djelatnosti obveznika, datum početka i kraja poslovanja, nadzorno tijelo, nadležni porezni ured, vrsta trošarinskih proizvoda, tip trošarinskog obveznika, podaci o vlasništvu uvozne robe,
+5. evidencija o prekršajima carinskih, trošarinskih i drugih propisa, za čije je provođenje nadležna Carinska uprava; podaci o utvrđenim prekršajima carinskih i trošarinskih propisa i drugih propisa te o prekršiteljima; podaci o mjerama protiv prekršitelja te svakako podaci o postojećim prijedlozima za vođenje prekršajnog postupka izrečenih kazni i drugih sankcija, podaci o ustupanju podataka drugim državnim tijelima nadležnim za poduzimanje mjera protiv prekršitelja za koje carinsko tijelo nije nadležno; podaci o kažnjavanju prekršitelja, kada o kazni ne odlučuje carinsko tijelo, već je dao prijedlog za kažnjavanje odnosno, odstupio podatke drugim tijelima, nadležnim za postupanje protiv prekršitelja,
+6. evidencija izvornih ili od drugih osoba posredovanih obavijesti; podaci o osobi na koju se odnose obavijesti, o prijevoznom sredstvu, robi i izvoru informacije, odnosno o osobi od koje su informacije dobivene,
+7. evidencija o carinskim i trošarinskim provjerama; datum, sat i mjesto carinske provjere (pregleda, odnosno pretrage), naznaku sudionika postupka, podaci o prijevoznom sredstvu (vrsta, tip, registracijska oznaka, vlasništvo), te tijek provjere,
+8. evidencija uporabe vatrenog oružja; podaci o ovlaštenom carinskom službeniku koji je upotrijebio vatreno oružje, podaci o osobi protiv koje je ono upotrijebljeno, podaci o događaju u kojem je bilo korišteno, te ocjena zakonitosti uporabe vatrenog oružja,
+9. evidencija o obračunu i prikupljanju te prinudne naplate carinskog i trošarinskog duga; podaci iz carinskih deklaracija i drugih upravnih akata i obračuna trošarina, koji se odnose na obračun duga; datum uručenja akta, podaci koje je dužna voditi Carinska uprava za knjiženje carina i trošarina, podaci o povratu, odgodi ili otpustu duga, podaci o plaćanju duga iz instrumenata osiguranja, podaci iz rješenja o prinudnoj naplati duga, te
+10. evidencija podnijetih pojedinačnih i zajedničkih instrumenata osiguranja carinskog i trošarinskog duga; podaci o predlagatelju i izdavatelju instrumenta osiguranja, visini jamstvene svote, roku važenja i roku unovčenja instrumenta osiguranja.
+Zainteresirana osoba ima pravo uvida u svoje podatke u evidencijama i to:
+1. u članku 35. stavku 1. iz točke 1., 2., 3., 4., 7., 8., 9. i 10. ovoga Zakona - odmah po upisu,
+2. u članku 35. stavka 1. iz točke 5. ovoga Zakona - po pravomoćnoj odluci o uvođenju kaznenog postupka ili prekršajnog postupka, a ako on još nije proveden, tada nakon zastare gonjenja, te
+3. u članku 35. stavka 1. iz točke 6. ovoga Zakona - po pohranjenju podataka.
+Podaci se obvezatno čuvaju:
+1. u evidencijama iz članka 35. stavka 1. točki 1., 2., 3., 4., 7., 9. i 10. ovoga Zakona - u skladu sa Carinskim zakonom i propisima o trošarinama,
+2. u evidencijama iz članka 35. stavka 1. točke 5. ovoga Zakona - do brisanja osude ili kazne, a ako nije izrečena, tada po zastari gonjenja, te
+3. u evidencijama iz članka 35. stavka 1. točke 6. ovoga Zakona - do pravomoćne odluke o provedenom kaznenom ili prekršajnom postupku, a ako taj nije proveden, tada do zastare gonjenja.
+4. u evidencijama iz članka 35. stavka 1. točke 8. ovoga Zakona - dvije godine nakon unosa podataka odnosno do pravomoćnog okončanja pravnih postupaka u vezi s korištenjem vatrenog oružja.
+Nakon isteka rokova iz stavka 3. ovoga članka, podaci se pohranjuju po propisima, kojima se uređuje postupanje s arhivskom i registraturnom građom.

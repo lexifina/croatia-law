@@ -1,0 +1,4 @@
+# Članak 28.
+Kod obavljanja carinske i trošarinske provjere ovlašteni carinski službenik ima pravo privremeno oduzeti ili zabraniti raspolaganje ispravama i nositeljima podataka iz članka 27. stavka 2. i 4. ovoga Zakona, te predmete i uzorke predmeta glede kojih se provodi odnosni carinski postupak za razdoblje ne duže od 15 dana, ako je to potrebno radi osiguranja dokaza istinitog utvrđenja neispravnosti ili ako je osoba te isprave, nositelje podataka, predmete i uzorke koristila za kršenje carinskih i trošarinskih propisa, odnosno ako je do njih došla prekršivši carinske, trošarinske i druge propise.
+Osoba može zahtijevati da joj se stvari pod zabranom iz stavka 1. ovoga članka vrate i prije isteka roka zabrane, ako dokaže da su joj nužno potrebne u poslovanju.
+O povratu stvari iz stavka 1. ovoga članka odlučuje se rješenjem u roku od tri dana od dana podnošenja zahtjeva.
