@@ -1,0 +1,1 @@
+Na temelju članka 46. Zakona o financiranju jedinica lokalne samouprave i uprave ("Narodne novine", broj 117/93) i članka 10. Odluke o privremenom ustrojstvu Grada Šibenika, Gradsko vijeće Grada Šibenika, na 4. sjednici od 28. veljače 1994. godine, donosi
