@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 4. Zakona o obveznim i dobrovoljnim mirovinskim fondovima («Narodne novine» br. 49/99 i 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 11. ožujka 2003., donio je
