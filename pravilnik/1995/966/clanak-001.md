@@ -1,0 +1,21 @@
+# Članak 1.
+Posebno zaštićenom životinjskom vrstom proglašavaju se slijedeći vodozemci:
+1. repaši (Caudata), i to:
+- šareni daždevnjak (Salamandra salamandra)
+- crni daždevnjak (Salamandra atra)
+- mali vodenjak (Triturus vulgaris)
+- planinski vodenjak (Titurus alpestris)
+- veliki vodenjak (Titurus carnifex)
+- podunavski vodenjak (Triturus dobrogicus)
+- čovječja ribica (Proteus anguinus)
+2. bezrepci (Anura)
+- crveni mukač (Bombina bombina)
+- žuti mukač (Bombina veriegata)
+- obična češnjača (Pelobates fuscus)
+- smeđa krastača (Bufo bufo)
+- zelena krastača (Bufo viridis)
+- gatalinka (Hyla arborea)
+- močvarna smeđa žaba (Rana arvalis)
+- šumska smeđa žaba (Rana dalmatina)
+- talijanska smeđa žaba (Rana latastei)
+- livadna smeđa žaba (Rana temporaria)
