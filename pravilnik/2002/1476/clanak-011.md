@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Posebni popis je popis gradiva s rokovima čuvanja koji sadržava sve vrste gradiva koje je nastalo ili nastaje djelovanjem određenoga stvaratelja, a izrađuje se sukladno razredbenom nacrtu.
+(2) Posebni popisi sadržavaju sve upravne i poslovne funkcije koje obavlja pojedini stvaratelj. Posebni popis se izrađuje na temelju Općega popisa i granskih popisa za područje djelatnosti svakoga pojedinoga stvaratelja. Za svaku pojedinu razredbu (klasu) u posebnom popisu treba biti vidljivo radi li se o gradivu primarno nadležnog ureda ili ureda koji to nije. Ako se rokovi čuvanja navedeni u posebnom popisu razlikuju od rokova čuvanja istovrsnoga gradiva u općem ili granskom popisu, u posebni popis se upisuje obrazloženje.
+(3) Izradba posebnog popisa s rokovima čuvanja sukladno razredbenom nacrtu obveza je svakog stvaratelja gradiva.
+(4) Stvaratelj gradiva obvezan je prijedlog posebnoga popisa s rokovima čuvanja, kao i svaki prijedlog za izmjenu popisa, dostaviti nadležnom arhivu na odobrenje. Nadležni arhiv obvezan je izdati rješenje o odobrenju posebnog popisa najdulje u roku od 60 dana od dana zaprimanja prijedloga popisa.
