@@ -1,0 +1,2 @@
+# Članak 15.
+Osnova i uvjet za sklapanje ugovora o provođenju primarne zdravstvene zaštite u patronažnoj zdravstvenoj skrbi, laboratorijskoj dijagnostici i hitnoj medicinskoj pomoći utvrđeni su Standardom za te djelatnosti. U Standardu iz stavke 1. ovog članka, uključen je ugovoreni broj osiguranih osoba pri domu zdravlja i kod doktora medicine na razini primarne zdravstvene zaštite u privatnoj praksi koji gravitiraju toj zdravstvenoj ustanovi.
