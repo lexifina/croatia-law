@@ -1,0 +1,1 @@
+Na temelju članka 37. Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 82/01), a sukladno odredbi članka 16c. Zakona o izvršavanju Državnog proračun Republike Hrvatske za 2001. godinu (»Narodne novine«, br. 130/00, 19/00, 59/01. i 82/01.), ministar rada i socijalne skrbi, donosi
