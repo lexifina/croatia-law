@@ -1,0 +1,2 @@
+# Članak 12.
+Danom stupanja na snagu ove Uredbe stavljaju se izvan snage: Zaključak Vlade Republike Hrvatske, klase: 216-03/93-01/01, urbroja: 5030107-98-1, od 28. svibnja 1998. godine, Zaključak Vlade Republike Hrvatske, klase: 216-03/00-02/01, urbroja: 5030118-01-1, od 17. svibnja 2001. godine, te Zaključak Vlade Republike Hrvatske, klase: 216-03/00-02/01, urbroja: 5030109-02-1, od 11. srpnja 2002. godine.
