@@ -1,0 +1,1 @@
+Na temelju člana 7a. Zakona o premijama za mlijeko, vunu, konopljinu stabljiku i stabljiku lana te o nadoknadi razlike u cijeni za prodane količine konzumnog mlijeka ("Narodne novine", br. 14/82, 12/85, 23/87, 44/87, 30/88, 13/89, 33/89, 46/89 i 2/90) Izvršno Vijeće Sabora na sjednici održanoj 8. svibnja 1990. godine donijelo je
