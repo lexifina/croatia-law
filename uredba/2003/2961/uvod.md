@@ -1,0 +1,1 @@
+Na temelju članka 21.a stavka 2. Stečajnog zakona (»Narodne novine«, br. 44/96, 161/98, 29/99, 129/2000 i 123/2003), Vlada Republike Hrvatske je na sjednici održanoj 27. studenoga 2003. godine donijela
