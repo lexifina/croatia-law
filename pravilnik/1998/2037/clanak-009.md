@@ -1,0 +1,2 @@
+# Članak 9.
+Zdravstvenu zaštitu u djelatnostima na sekundarnoj razini provode sukladno općim aktima Zavoda, klinički bolnički centri, kliničke bolnice, opće bolnice, specijalne bolnice, poliklinike, državni zdravstveni zavodi, i iznimno domovi zdravlja, privatni zdravstveni djelatnici u zakupu osnovom Pravilnika o zakupu i do sada ugovoreni privatni zdravstveni djelatnici - specijalisti u vlastitom prostoru.
