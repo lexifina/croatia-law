@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) te članka 30. Statuta Grada Garešnice (»Službeni glasnik Grada Garešnice«, broj 8/01), Gradsko vijeće Grada Garešnice na sjednici održanoj 19. travnja 2002. godine, donijelo je
