@@ -1,0 +1,39 @@
+REPUBLIKA HRVATSKA
+
+VRHOVNI SUD REPUBLIKE HRVATSKE
+
+Z A G R E B
+
+Broj: II-5 Kr-106/1994-2
+
+R J E Š E N J E
+
+Vrhovni sud Republike Hrvatske u Zagrebu u vijeću sastavljenom od sudaca Vrhovnog suda Horvatinović mr. Ružice, kao predsjednika vijeća, te Drakulić Milene i Primorac Vladimira, kao članova vijeća i stručnog suradnika V.I., kao zapisničara, u krivičnom predmetu protiv okr. B.I. i dr., zbog krivičnog djela iz čl. 34. st. 2. toč. 4. KZRH, odlučujući o prijedlogu istražnog suca Županijskog suda u Zagrebu za produljenje pritvora u istrazi preko pet mjeseci od 10. veljače 1994. br. Kio 298/93, u sjednici održanoj 11. veljače 1994.,
+
+r i j e š i o j e :
+
+Prihvaća se prijedlog istražnog suca, te se pritvor protiv okr. B.I. produljuje u istrazi preko pet mjeseci za daljnjih mjesec dana, tako da pritvor produljen ovim rješenjem može trajati najdulje do dana 14. ožujka 1994.
+
+O b r a z l o ž e n j e
+
+U tijeku istrage protiv okr. B.I. i dr. zbog krivičnog djela iz čl. 34. st. 2. toč. 4. KZRH, istražni je sudac podnio obrazloženi prijedlog za produljenje pritvora protiv okr. B.I. preko pet mjeseci.
+
+U prijedlogu se navodi da istraga do sada nije dovršena jer još nisu zamolbeno saslušani svjedoci kod Osnovnog suda u Tomislavgradu, a što bi u narednih mjesec dana trebalo biti provedeno. Kao razlog za pritvor navodi se zakonski osnov iz čl. 182. st. 1. ZKP.
+
+Prijedlog je osnovan.
+
+Uvidom u predmet utvrđeno je da istraga do sada nije mogla biti dovršena iz objektivnih razloga koje navodi istražni sudac u svom prijedlogu.
+
+Također, i dalje postoji zakonski osnov za pritvor iz čl. 182. st. 1. ZKP.
+
+Naime, kako je već istaknuto u ranijim rješenjima ovog suda, okrivljenik je osnovano sumnjiv da je počinio krivično djelo za koje je zakonom zaprijećena kazna zatvora od 20 godina, a kako prema činjeničnom i pravnom opisu tog djela zakon ne predviđa mogućnost blažeg kažnjavanja, a niti to, za sada, proizlazi iz drugih okolnosti konkretnog slučaja, to je pritvor protiv okrivljenika po zakonu obavezan. Budući da po ocjeni ovog Vrhovnog suda postoje važni razlozi za produljenje pritvora u vremenu od narednih mjesec dana, koliko će istraga predvidivo još trajati, trebalo je na temelju čl. 187. st. 2. ZKP odlučiti kao u izreci ovog rješenja.
+
+U Zagrebu, 11. veljače 1994.
+
+Zapisničar:
+
+Predsjednik vijeća:
+
+Vinja Ileana v.r.
+
+Horvatinović mr. Ružica v.r.
