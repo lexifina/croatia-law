@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Operator sustava i/ili energetski subjekt za distribuciju može odbiti pristup mreži zbog ograničenih tehničkih ili pogonskih mogućnosti mreže. Proizvođačima električne energije i povlaštenim kupcima električne energije kojima je odbijen pristup mreži moraju se priopćiti razlozi odbijanja pristupa mreži potkrijepljeni pisanim dokazima.
+(2) Proizvođač električne energije, odnosno povlašteni kupac električne energije kojima je odbijen pristup mreži ili su nezadovoljni uvjetima za pristup mogu izjaviti žalbu Vijeću za regulaciju. Rješenje Vijeća za regulaciju je konačno i protiv njega se može podnijeti tužba Upravnom sudu.

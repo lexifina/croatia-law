@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Energetske djelatnosti: proizvodnja električne energije i opskrba električnom energijom, za povlaštene kupce, obavljaju se prema pravilima kojima se uređuju tržišni odnosi, u kojima energetski subjekti slobodno dogovaraju količinu i cijenu isporučene električne energije, sklapanjem kratkoročnih i dugoročnih ugovora ili izravno na organiziranom tržištu.
+(2) Energetske djelatnosti: proizvodnja električne energije za tarifne kupce, prijenos električne energije, distribucija električne energije, opskrba električnom energijom za tarifne kupce, vođenje elektroenergetskog sustava i organiziranje tržišta električnom energijom obavljaju se kao javne usluge.
