@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01 , ministar poljoprivrede i šumarstva, uz suglasnost ministra zaštite okoliša i prostornog uređenja, donosi

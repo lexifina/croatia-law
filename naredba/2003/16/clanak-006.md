@@ -1,0 +1,2 @@
+# Članak 6.
+Danom stupanja na snagu ove Naredbe prestaje važiti Naredba o lovostaju za pojedine vrste riba i rakova (»Narodne novine«, br. 20/74), Naredba o izmjeni i dopuni naredbe o lovostaju za pojedine vrste riba i rakova (»Narodne novine«, br. 97/99), Naredba o najmanjoj veličini pojedinih vrsta riba, rakova i drugih vodenih organizama ispod koje se ne smiju loviti, prerađivati ni stavljati u promet (»Narodne novine«, br. 20/74) te Naredba o lovostaju na dijelu rijeke Gacke (»Narodne novine«, br.41/80).
