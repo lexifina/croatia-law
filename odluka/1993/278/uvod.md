@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. i članka 32. stavka 3. Zakona o osnovama sistema osiguranja imovine i osoba ("Narodne novine", broj 53791), Vlada Republike Hrvatske je na sjednici održanoj 24. veljače 1883., donijela
