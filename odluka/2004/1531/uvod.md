@@ -1,0 +1,1 @@
+Na temelju članka 1042. Pomorskog zakonika (»Narodne novine«, br. 157/03.), a u svezi s člankom 55. Konvencije Ujedinjenih naroda o pravu mora, Hrvatski sabor je na sjednici održanoj 3. lipnja 2004., donio
