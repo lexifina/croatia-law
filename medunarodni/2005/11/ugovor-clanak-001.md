@@ -1,0 +1,9 @@
+# Članak 1.
+(1) Vlada Savezne Republike Njemačke omogućava Vladi Republike Hrvatske i drugim primateljima, koje obje Vlade trebaju zajedno izabrati, primitak sljedećih iznosa od Kreditne banke za obnovu u Frankfurtu na Majni (Kreditanstalt für Wiederaufbau, Frankfurt am Main) za projekt »Lokalna opskrba vodom i zbrinjavanje otpadnih voda na južnoj obali Jadrana«:
+a) zajma u visini do 3.000.000,00 EUR (slovima: tri milijuna eura),
+b) doprinosa za financiranje potrebnih pratećih mjera za provedbu i brigu o gore navedenom projektu u visini do 1.000.000,00 EUR (slovima: jedan milijun eura),
+ukoliko se nakon ispitivanja utvrdi da ovaj projekt zaslužuje poticanje.
+(2) Osim toga, Vlada Savezne Republike Njemačke omogućava Vladi Republike Hrvatske ili drugom zajmoprimatelju, kojeg obje Vlade zajedno trebaju izabrati, da od Kreditne banke za obnovu u Frankfurtu na Majni primi za projekt »Lokalna opskrba vodom i zbrinjavanje otpadnih voda na južnoj obali Jadrana« zajam u visini do 12.000.000,00 EUR (slovima: dvanaest milijuna eura) po povoljnijim kamatnim stopama, koji se odobrava u sklopu javne suradnje u području razvitka, ukoliko se nakon ispitivanja utvrdi da ovaj projekt zaslužuje razvojno-političko poticanje i da Republika Hrvatska i dalje uživa dobar kreditni ugled.
+(3) Projekt iz stavka 1. ovoga članka se može uz suglasnost Vlade Savezne Republike Njemačke i Vlade Republike Hrvatske zamijeniti drugim projektima.
+(4) Ukoliko Vlada Savezne Republike Njemačke kasnije omogući Vladi Republike Hrvatske da od Kreditne banke za obnovu primi daljnje zajmove ili doprinose za financiranje pripreme projekta iz stavka 1. ovoga članka ili dodatne doprinose za financiranje pratećih mjera za provedbu i brigu o projektu iz stavka 1. ovog članka, primjenjuje se ovaj Ugovor.
+(5) Doprinosi za financiranje pripremnih i pratećih mjera prema stavku 1. slovo b) i stavku 4. ovoga članka pretvaraju se u zajmove ukoliko se ne koriste za takve mjere.
