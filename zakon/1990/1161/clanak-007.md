@@ -1,0 +1,2 @@
+# Članak 7.
+Skupština društveno-političke zajednice za čiji teritorij odnosno za čije područje je osnovana matica, odnosno skupština općine na čijem području je sjedište matice osnovane za područje više općina, može nakon pribavljanja mišljenja Hrvatske matice iseljenika i Ministarstva iseljeništva donijeti odluku o prestanku rada matice, ako utvrdi da ne postoje uvjeti određeni ovim zakonom za obavljanje nejzine djelatnosti. Nakon pravomoćnosti odluke o ukidanju matice provodi se postupak redovne likvidacije.

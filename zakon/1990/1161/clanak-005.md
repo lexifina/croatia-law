@@ -1,0 +1,2 @@
+# Članak 5.
+Sredstva za rad matice osiguravaju se iz prihoda koje matica ostvari vlastitom djelatnošću i iz budžeta društveno-političkih zajednica za čiji teritorij odnosno područje je matica osnovana, na osnovi njezina programa u dijelu koji je od interesa za društveno-političku zajednicu a kojeg prihvati skupština društveno-političke zajednice na prijedlog Vlade odnosno izvršnog vijeća, i iz drugih izvora.

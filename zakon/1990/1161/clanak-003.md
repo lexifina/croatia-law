@@ -1,0 +1,2 @@
+# Članak 3.
+Statut matice sadrži odredbe o djelatnostima matice i načinu njihova obavljanja, o sjedištu matice, o načinu ostvarivanja posebnog društvenog interesa u obavljanju djelatnosti, organima matice i djelokrugu njihova rada, o predstavljanju i zastupanju matice, o načinu obavljanja stručnih i administrativnih poslova za maticu, o korištenju i raspolaganju sredstvima, o ostvarivanju javnosti, o suradnji između Hrvatke matice iseljenika i matica iseljenika osnovanih za područje jedne ili više općina.

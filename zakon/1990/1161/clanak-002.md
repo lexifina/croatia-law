@@ -1,0 +1,6 @@
+# Članak 2.
+Matice obavljaju društvene i privredne djelatnosti od značaja za položaj hrvatskih iseljeničkih zajednica i za hrvatske etničke manjine u drugim državama, za iseljenike s teritorija Republike Hrvatske i Hrvate koji žive ili rade u inozemstvu iz drugih republika i pokrajina, i članove njihovih obitelji koji borave u inozemstvu te brinu o unapređivanju njihovih odnosa i veza s domovinom. U skladu s odredbom stavka 1. ovoga članka matice mogu :
+- izdavati časopise, knjige i druga sredstva informiranja i komuniciranja;
+- organizirati posjete iseljenika i članova hrvatskih etničkih grupa te njihovih potomaka i članova njihovih obitelji domovini, te posjete iseljenicima, iseljeničkim organizacijama i hrvatskim etničkim grupama;
+- organizirati kulturne, umjetničke i športske priredbe od značaja za iseljenike, članove hrvatskih etničkih grupa, i radnike na radu u inozemstvu, te njihove potomke i članove njihovih obitelji; odnosno vršiti nabavku nošnji i drugog materijala od interesa za očuvanje nacionalnog identiteta;
+- organizirati ekskurzije i znanstvena, stručna i popularna predavanja za iseljenike, članove hrvatskih etničkih grupa i radnike na radu u inozemstvu, te njihove potomke i članove njihovih obitelji, o pitanjima značajnim za iseljeništvo i hrvatske etničke grupe. Djelatnosti matice od posebnog su društvenog interesa.
