@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 26. Statuta Općine Marija Gorica (»Službeni glasnik Općine Marija Gorica« br. 18/01), Općinsko vijeće Općine Marija Gorica, na svojoj sjednici održanoj dana 13. prosinca 2001. donijelo je

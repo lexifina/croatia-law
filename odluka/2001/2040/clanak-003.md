@@ -1,0 +1,2 @@
+# Članak 3.
+Porez na potrošnju alkoholnih i bezalkoholnih pića i piva plaća se po stopi 3%.
