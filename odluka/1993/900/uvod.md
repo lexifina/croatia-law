@@ -1,0 +1,1 @@
+Na temelju članka 231. Zakona o obveznim i osnovnim materijalnopravnim odnosima u zračnoj plovidbi ("Narodne novine", broj 53/91), Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 1993. godine donijela
