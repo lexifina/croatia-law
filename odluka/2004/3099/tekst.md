@@ -1,0 +1,7 @@
+O UTVRĐIVANJU INTERESA REPUBLIKE HRVATSKE ZA IZGRADNJU RO-LA TERMINALA UZ ŽELJEZNIČKI KOLODVOR U SPAČVI, U k.o. VRBANJA
+I.
+Izgradnja RO-LA terminala uz željeznički kolodvor u Spačvi, u k.o. Vrbanja, na k.č. br. 3175/5, površine 14 m˛, upisane u z.k. ul. br. 1 i na k.č. br. 3139/6, površine 22403 m˛, upisane u z.k. ul. br. 2104, obje izvanknjižno vlasništvo Republike Hrvatske, kojima gospodare Hrvatske šume d.o.o., Zagreb, u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju Plana izvlaštenja, u kojem k.o. Vrbanja, na k.č. br. 3175/5 i k.č. br. 3139/6 (obje izvanknjižno vlasništvo Republike Hrvatske) i lokacijske dozvole izdane od strane Ureda državne uprave u Vukovarsko-srijemskoj županiji, Ureda za prostorno uređenje, stambeno-komunalne poslove, graditeljstvo i zaštitu okoliša u Županji, klase: UP/I-350-05/00-01/34, urbroja: 2188-04/2-01-00-18 EB, od 24. kolovoza 2000. godine, kao i Rješenja o produženju važenja iste, izdanog od strane Ureda državne uprave u Vukovarsko-srijemskoj županiji, Ureda za prostorno uređenje, stambeno-komunalne poslove, graditeljstvo i zaštitu okoliša, Ispostava Županja, klase: UPI-350-05/02-01/45, urbroja: 2196-03/2-03-2 EB, od 18. srpnja 2002. godine, te situacionim nacrtima sadržanim u Idejnom projektu izrađenom po Željezničkom projektnom društvu d.d. Zagreb, od veljače 2000. godine, tehnički broj: 3586, koji je sastavni dio lokacijske dozvole.
+III.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
