@@ -1,0 +1,23 @@
+# Članak 3.
+U Popisu iz članka 3. stavke 1. od rednog broja 643. do rednog broja 663., iznosi u stupcima 12 i 13 mijenjaju se i glase:
+- pod rednim brojem 643. u stupcu 12. broj: »0,21« zamjenjuje se brojem: »0,60«, a u stupcu 13. broj: »168,00« zamjenjuje se brojem: »480,00«
+- pod rednim brojem 644. u stupcu 12. broj: »0,14« zamjenjuje se brojem: »0,17«, a u stupcu 13. broj: »112,00« zamjenjuje se brojem: »136,00«
+- pod rednim brojem 645. u stupcu 12. broj: »0,30« zamjenjuje se brojem: »0,60«, a u stupcu 13. broj »111,00« zamjenjuje se brojem: »222,00«
+- pod rednim brojem 646. u stupcu 12. broj: »0,13« zamjenjuje se brojem: »0,17«, a u stupcu 13. broj »48,10« zamjenjuje se brojem: »62,90«
+- pod rednim brojem 647. u stupcu 12. broj: »0,60« zamjenjuje se brojem: »0,81«, a u stupcu 13. broj: »480,00« zamjenjuje se brojem: »648,00«
+- pod rednim brojem 648. u stupcu 12. broj: »0,60« zamjenjuje se brojem: »0,81«, a u stupcu 13. broj »222,00« zamjenjuje se brojem: »299,70«
+- pod rednim brojem 649. u stupcu 12. broj: »0,15« zamjenjuje se brojem: »0,17«, a u stupcu 13. broj »12,00« zamjenjuje se brojem: »13,60«
+- pod rednim brojem 650. u stupcu 12. broj: »0,00« zamjenjuje se brojem: »310,00«, a u stupcu 13. broj »0,00« zamjenjuje se brojem: »310,00«
+- pod rednim brojem 651. u stupcu 12. broj: »0,00« zamjenjuje se brojem: »1,08«, a u stupcu 13. broj »0,00« zamjenjuje se brojem: »108,00«
+- pod rednim brojem 652. u stupcu 12. broj: »0,65« zamjenjuje se brojem: »1,08«, a u stupcu 13. broj »572,00« zamjenjuje se brojem: »950,40«
+- pod rednim brojem 653. u stupcu 12. broj: »1,25« zamjenjuje se brojem: »1,26«, a u stupcu 13. broj »937,50« zamjenjuje se brojem: »945,00«
+- pod rednim brojem 654. u stupcu 12. broj: »1,25« zamjenjuje se brojem: »1,26«, a u stupcu 13. broj »500,00« zamjenjuje se brojem: »504,00«
+- pod rednim brojem 655. u stupcu 12. broj: »0,98« zamjenjuje se brojem: »1,18«, a u stupcu 13. broj »735,00« zamjenjuje se brojem: »885,00«
+- pod rednim brojem 656. u stupcu 12. broj: »0,98« zamjenjuje se brojem: »1,26«, a u stupcu 13. broj »392,00« zamjenjuje se brojem: »504,00«
+- pod rednim brojem 657. u stupcu 12. broj: »1,90« zamjenjuje se brojem: »2,97«, a u stupcu 13. broj »1.425,00« zamjenjuje se brojem: »2.227,50«
+- pod rednim brojem 658. u stupcu 12. broj: »1,90« zamjenjuje se brojem: »2,97«, a u stupcu 13. broj »760,00« zamjenjuje se brojem: »1.188,00«
+- pod rednim brojem 659. u stupcu 12. broj: »2,80« zamjenjuje se brojem: »5,20«, a u stupcu 13. broj »2.100,00« zamjenjuje se brojem: »3.900,00«
+- pod rednim brojem 660. u stupcu 12. broj: »2,80« zamjenjuje se brojem: »5,20«, a u stupcu 13. broj »1.120,00« zamjenjuje se brojem: »2.080,00«
+- pod rednim brojem 661. u stupcu 12. broj: »0,90« zamjenjuje se brojem: »1,83«, a u stupcu 13. broj »360,00« zamjenjuje se brojem: »732,00«
+- pod rednim brojem 662. u stupcu 12. broj: »0,90« zamjenjuje se brojem: »1,83«, a u stupcu 13. broj »720,00« zamjenjuje se brojem: »1.464,00«
+- pod rednim brojem 663. u stupcu 12. broj: »925,00« zamjenjuje se brojem: »840,00«, a u stupcu 13. broj »925,00« zamjenjuje se brojem: »840,00«.
