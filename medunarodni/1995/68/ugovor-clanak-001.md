@@ -1,0 +1,6 @@
+# Članak 1.
+PRIHVAT DRŽAVLJANA UGOVORNIH
+STRANAKA
+1. Ugovorne stranke na svoj će teritorij bez formalnosti, prihvatiti osobe, koje ne ispunjavaju ili više ne ispunjavaju uvjete ulaska ili boravka koji se primjenjuju na teritoriju ugovorne stranke koja zahtjeva prihvat, ukoliko je utvrdeno ili se pretpostavlja da imaju državljanstvo ugovorne stranke kojoj je zahtjev upućen. Isto će se primjeniti i na osobe kojima je oduzeto državljanstvo ugovorne stranke koja podnosi zahtjev, a kojima nije barem obećano državljanstvo ugovorne stranke koja traži prihvat.
+2. Na zahtjev ugovorne stranke koja traži prihvat, druga će ugovorna stranka, bez odgode izdati potrebne putne isprave za povrat osoba koje valja prihvatiti.
+3. Ugovorna stranka koja traži prihvat preuzet će natrag takve osobe pod istim uvjetima, ako provjera pokaže da nisu, u trenutku izlaska s teritorija ugovorne stranke koja traži prihvat, posjedovale državljanstvo ugovorne stranke od koje se prihvat zahtijeva. Ovo se neće primijeniti kad se obveza preuzimanja temelji na činjenici da je ugovorna sttanka od koje je zatražen prihvat lišila osobu svog državljanstva nakon što je takva osoba ušIa na teritorij ugovorne stranke koja je zatražila prihvat a da nije toj osobi barem obećala prijem u državljanstvo.
