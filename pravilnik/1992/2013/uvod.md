@@ -1,0 +1,1 @@
+Na temelju članka 71. stavka 1. točka 2, 3. i 4. Zakona o sigurnosti plovidbe na moru i unutarnjim vodama ("Narodne novine", br. 55/90 - pročišćeni tehst) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/90, 47/90 i 53A/91) ministar pomorstva, prometa i veza donosi

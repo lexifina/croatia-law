@@ -1,0 +1,2 @@
+# Članak 3.
+U cijelom tekstu Pravilnika riječi "Jugoslavenshi registar brodova" zamjenjuju se riječima "Hrvatshi registar brodova", riječi "Jugoslavije", "Socijalističke Federativne Republike Jugoslavije" i "SFRJ" zamjenjuju se riječima "Republika Hrvatska", rijeć "jugoslavenski", "jugoslavenskom", "jugoslavenskoj" i "jugoslavensku" zamjenjuju se riječima "hrvatski", riječ "Jugoslavenskoj" zamjenjuje se riječju "Hrvatskoj", sve u odgovarajućem rodu, broju i padežu.
