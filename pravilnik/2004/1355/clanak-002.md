@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 18. točki A 3 »Brod od 200 do 500 BT«, riječi: »jednog časnika plovidbene straže sa sljedećim svjedodžbama o osposobljenosti: - svjedodžba o osposobljenosti za časnika odgovornog za plovidbenu stražu na brodovima do 500 BT u maloj obalnoj plovidbi - svjedodžba o osposobljenosti za radiooperatera s ograničenom ovlasti« se brišu, a riječi »jednog člana posade koji čini dio plovidbene straže« zamjenjuju se riječima »dva člana posade koji čine dio plovidbene straže«.
