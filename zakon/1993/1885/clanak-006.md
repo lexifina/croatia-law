@@ -1,0 +1,4 @@
+# Članak 6.
+Mirovina iz članka 4. ovoga Zakona, a određena u svoti prema članku 5. ovoga Zakona, ne može biti manja od granićne svote najnižeg mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu niti može iznositi više od svote najviše starosne mirovine određene prema Zakonu i općem aktu Republi;kog fonda radnika.
+Osobi iz članka 4. ovoga Zakona koja nema dokaze prema kojima se može utvrditi mirovina u smislu stavka 1. ovoga članka, odredit će se mirovina u svoti utvrđenoj kao granićna svota najnižega mirovinskog primanja za određivanje zaštitnog dodatka po odredbama Zakona i općeg akta Republičkog fonda radnika.
+Druga novčana primanja odredit će se u svoti koja bi pripadala za mjesec prosinac 1991., ali najviše u svoti koja bi pripadala korisnicima tih prava u Republičkom fondu radnika.

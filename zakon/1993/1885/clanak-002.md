@@ -1,0 +1,6 @@
+# Članak 2.
+Korisniku koji je pravo na mirovinu i druga novčana primanja (doplatak za pomoć i njegu i novčana naknada za tjelesno oštećenje) ostvario u Zajednici socijalnog osiguranja vojnih osiguranika prije 8. listopada 1991. i kojemu je ta zajednica obustavila isplatu mirovine i drugih novčanih primanja, odredit će se ta prava u visini utvrđenoj na način propisan u članku 3. ovoga Zakona, ako ispunjava sljedeće uvjete :
+- da ima prebivalište na teritoriju Republike Hrvatske,
+- da je ostvario pravo na mirovinu u Zajednici socijalnog osiguranja vojnih osiguranika prije 8. listopada 1991.,
+- da je Zajednica socijalnog osiguranja vojnih osiguranika obustavila isplatu mirovine i drugih novčanih primanja,
+- da protiv njega nije nadležno tijelo državne vlasti pokrenulo postupak zbog poduzimanja ili pripremanja kažnjivih djela ili propuštene činidbe propisane u Glavi XIV., XV. i XVIII. Osnovnog krivičnog zakona Republike Hrvatske ("Narodne novine", br. 31/93. - pročišćeni tekst i 35/93.), Glavi XIX. Krivičnog zakona Republike Hrvatske ("Narodne novine", br. 32/93, - pro;išćeni tekst i 38/93.) i Zakona o kaznenim djelima podrivačke i terorističke djlatnosti protiv državnog suvereniteta i teritorijalne cjelovitosti Republike Hrvatske ("Narodne novine". br. 74/92.).

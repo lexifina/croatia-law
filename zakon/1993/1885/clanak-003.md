@@ -1,0 +1,4 @@
+# Članak 3.
+Mirovina iz članka 2. ovoga Zakona određuje se u visini 63,22% od pripadajuće svote mirovine u mjesecu prosincu 1991.
+Mirovina određena na način propisan u stavku 1. ovoga članka ne može biti manja od grani;ne svote najnižega mirovinskog primanja radi određivanja zaštitnog dodatka niti rnože iznositi više od svote najviše starosne mirovine određene prema Zakonu o mirovinskom i invalidskom osiguranju ("Narodne, novine", br. 26/83., 5/86., 42/87., 34/89., 57/89., 40/90., 9/91. i 26/93. - u daljnjem tekstu: Zakon) i općem aktu Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske (u daljnjem tekstu: Republički fond radnika).
+Druga novčana primanja (doplatak za pomoć i njegu i novčana naknada za tjelesno oštećenje) odredit će se u svoti koja bi pripadala za mjesec prosinac 1991., ali najviše u svoti koja bi pripadala korisnicima tih prava u Republičkom fondu radnika.

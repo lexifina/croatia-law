@@ -1,0 +1,5 @@
+# Članak 4.
+Osoba kojoj je na teritoriju Republike Hrvatske prestalo svojstvo aktivne vojne osobe u bivšoj JNA do 31. prosinca 1991., a do toga dana nije ostvarila prava iz mirovinskog i invalidskog osiguranja, može ta prava ostvariti ako ispunjava uvjete za stjecanje prava iz mirovinskog i invalidskog osiguranja prema odredbama Zakona o mirovinskom i invalidskom osiguranju vojnih osiguranika ("Narodne novine", br. 53/91., 73/91., 18/92. i 71/92.) i uz uvjete:
+- da ima prebivalište na teritoriju Republike Hrvatske,
+- da se stavila na raspolaganje oružanim snagama Republike Hrvatske do 31. prosinea 1991.,
+- da protiv nje nadležno tijelo državne vlasti nije pokrenulo postupak zbog poduzimanja ili pripremanja kažnjivih djela ili propuštene činidbe propisane u Glavi XIV., XV. i XVIII. Osnovnog krivičnog zakona Republike Hrvatske ("Narodne novine", br. 31/93. - pročišćeni tekst i 35/93), Glavi XIX. Krivičnog zakona Republike Hrvatske ("Narodne novine", br. 32/93. - pročišćeni tekst i 38/93,) i Zakona o kaznenim djelima podriva;ke i teroristi;ke djelatnosti protiv državnog suvereniteta i teritorijalne cjelovitosti Republike Hrvatske ("Narodne novine". br. 74/92.).
