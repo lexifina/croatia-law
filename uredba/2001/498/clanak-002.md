@@ -1,0 +1,3 @@
+# Članak 2.
+Stručna služba obavlja stručne, analitičke, upravnopravne, administrativne, opće, tehničke, pomoćne i informatičke poslove za potrebe Vlade, predsjednika Vlade, potpredsjednika, zamjenika predsjednika Vlade, te potpredsjednika i članova Vlade.
+Stručna služba obavlja poslove u skladu sa Zakonom o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i Poslovnikom Vlade Republike Hrvatske (»Narodne novine«, broj 107/2000 - pročišćeni tekst), u skladu sa zaključcima i drugim aktima Vlade Republike Hrvatske, te po uputama predsjednika, potpredsjednika, zamjenika predsjednika Vlade, te potpredsjednika i tajnika Vlade.
