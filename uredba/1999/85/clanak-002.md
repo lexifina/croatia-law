@@ -1,0 +1,3 @@
+# Članak 2.
+Tvari koje oštećuju ozonski omotač određene su Zakonom o potvrđivanju Montrealskog protokola o tvarima koje oštećuju ozonski omotač ("Narodne novine - Međunarodni ugovori", br. 11/93, 12/93 i 1/8/96, u daljnjem tekstu: Montrealski protokol), bilo da su same ili u mješavini, a obuhvaćeni su i izomeri bilo koje takve tvari. Popis tih tvari s pripadnom tarifnom oznakom dat je u Prilogu 1.
+Odredbe ove Uredbe ne odnose se na tvari iz stavka 1. ovoga članka koje se pojavljuju kao sporedni ili slučajni proizvod u proizvodnom procesu ili koje se pojavljuju kao nečistoće u drugim spojevima.

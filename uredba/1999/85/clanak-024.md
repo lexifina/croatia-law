@@ -1,0 +1,4 @@
+# Članak 24.
+Prilikom isključivanja iz uporabe proizvoda iz Priloga 2. skupina I.: rashladni i klima uređaji i skupina IV.: sredstva za gašenje požara, koji sadrže tvari koje oštećuju ozonski omotač, a koji se ne upotrebljavaju u kućanstvu, pravna ili fizička osoba vlasnik tih proizvoda, mora osigurati prikupljanje tih tvari.
+O prikupljenim tvarima iz stavka 1. ovoga članka, njihovim količinama i o postupanju s tim tvarima, pravna ili fizička osoba koja obavlja tu djelatnost mora voditi očevidnik. Očevidnik se čuva pet godina. Podaci iz očevidnika moraju se dostaviti tijelu državne uprave nadležnom za zaštitu okoliša do 31. siječnja tekuće godine za proteklu kalendarsku godinu na obrascu TOOO 5.
+Na uporabljene tvari koje oštećuju ozonski omotač, a koje se ne mogu uporabiti, primjenjuju se propisi o postupanju s opasnim otpadom.

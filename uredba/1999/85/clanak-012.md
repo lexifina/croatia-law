@@ -1,0 +1,3 @@
+# Članak 12.
+Izuzetno, od 1. siječnja 2006. godine do 31. prosinca 2010. godine, dopuštena je godišnja potrošnja tvari koje oštećuju ozonski omotač iz članaka 8., 9. i 11. ove Uredbe za posebne namjene do 10% od određene obračunske razine.
+Posebna namjena znači potrošnju tvari koje oštećuju ozonski omotač, ugrađenih u proizvode kojima je svrha očuvanje zdravlja ljudi, biljnog i životinjskog svijeta, obrana i sigurnost države, zaštita od požara, sigurnost prometa i znanstveno-istraživačka, kad te tvari i proizvode nije moguće zamijeniti drugim tehničkim ili gospodarskim rješenjima, prihvatljivima za okoliš.

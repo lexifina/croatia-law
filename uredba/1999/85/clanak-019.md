@@ -1,0 +1,3 @@
+# Članak 19.
+O uvozu/izvozu tvari koje oštećuju ozonski omotač određenih Montrealskim protokolom te krajnjem korisniku tih tvari pravna i fizička osoba mora voditi očevidnik. Očevidnik mora obuhvatiti podatke o vrsti i količini uvezenih/izvezenih tvari koje oštećuju ozonski omotač, količini prodanih uvezenih tvari koje oštećuju ozonski omotač i krajnjem korisniku prodanih tvari koje oštećuju ozonski omotač. Očevidnik se čuva pet godina.
+Podaci iz stavka 1. ovoga članka koji se unose u očevidnik moraju se dostaviti tijelu državne uprave nadležnom za zaštitu okoliša u roku od trideset dana od dana prestanka važenja odobrenja, na obrascu TOOO 3.

@@ -1,0 +1,5 @@
+# Članak 25.
+Prije odlaganja na odlagalište otpada proizvoda iz Priloga 2. skupina I.: rashladni i klima uređaji koji sadrže tvari koje oštećuju ozonski omotač, a koji se upotrebljavaju u kućanstvu, a najkasnije na odlagalištu otpada, moraju se iz tih proizvoda prikupiti tvari koje oštećuju ozonski omotač.
+O prikupljenim tvarima iz stavka 1. ovoga članka, njihovim količinama i o postupanju s tim tvarima, pravna ili fizička osoba koja obavlja tu djelatnost mora voditi očevidnik. Očevidnik se čuva pet godina. Podaci iz očevidnika moraju se dostaviti tijelu državne uprave nadležnom za zaštitu okoliša do 31. siječnja tekuće godine za proteklu kalendarsku godinu na obrascu TOOO 5.
+Ako se proizvod iz stavka 1. ovoga članka, koji je otpad, ne odlaže na odlagalište otpada, nego se s njime postupa na drukčiji način, mora se prethodno prikupiti tvar koja oštećuje ozonski omotač.
+Na uporabljene tvari koje oštećuju ozonski omotač, a koje se ne mogu uporabiti, primjenjuju se propisi o postupanju s opasnim otpadom.
