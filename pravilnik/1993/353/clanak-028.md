@@ -1,0 +1,3 @@
+# Članak 28.
+Trideset šesta stranica nosi naziv "Upute za uporabu socijalne iskaznice".
+Upute u socijalnoj iskaznici sadrže upozorenje da podatke u socijalnu iskaznicu može unositi samo službena osoba uz obveznu ovjeru, da je nositelj dužan u roku od 8 dana službi socijalne skrbi javiti svaku promjenu koja je od utjecaja za obilježja u socijalnoj iskaznici ili na njezino izdavanje, da socijalnu iskaznicu koristi u pravilu nositelj, a iznimno i član kućanstva samo za dobivanje humanitarne pomoći uz identifikacijsku ispravu nositelja i člana kućanstva i da se za zlouporabu socijalne iskaznice Odgovara krivično i materijalno.

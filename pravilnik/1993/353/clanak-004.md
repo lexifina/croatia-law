@@ -1,0 +1,2 @@
+# Članak 4.
+Socijalna iskaznica izdaje se korisnicima novčanih i naturalnih pomoći i naknada u socijalnoj skrbi i drugim socijalno ugroženim osobama (članovima kućanstva), za koje služba socijalne skrbi utvrdi, da im je zbog osobito teških materijalnih i socijalnih prilika u njikovom kućanstvu nužna, radi ostvarivanja određenih oblika humanitarne i druge socijalne pomoći kojom se podmiruju osnovne životne potrebe (paketi živežnih namirnica, prehrana u pučkoj kuhinji, pomoć u odjeći i obući i drugim materijalnim dobrima i drugo).

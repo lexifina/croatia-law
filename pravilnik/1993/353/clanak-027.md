@@ -1,0 +1,2 @@
+# Članak 27.
+Na stranicama trideset do trideset pet socijalne iskaznice, kojima nije određen naziv, služba socijalne skrbi i humanitarne organizacije, vjerske zajednice, druge pravne i fizičke osobe koje dodjeljuju pomoć, mogu unijeti bilješke i zapažanja o nositelju socijalne iskaznice i članovima kućanstva nositelja, koje nisu obuhvaćene prethodnim sadržajem socijalne iskaznice, a od značenja su za korištenje iskaznice.

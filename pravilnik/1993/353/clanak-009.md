@@ -1,0 +1,3 @@
+# Članak 9.
+Četvrta stranica i prva gornja polovica pete stranice nose naziv "Materijalno i socijalno stanje kućanstva".
+Na ove stranice služba socijalne skrbi upisuje vrste prihoda članova kućanstva, materijalne pomoći i naknade koje kućanstvo ostvaruje u službi socijalne skrbi (stalna novčana pomoć, privremena novčana pomoć, jednokratna novčana pomoć, naknada za socijalni minimum, doplatak za pomoć i njegu, pomoć samohranom nezaposlenom roditelju za opremu djeteta i dr.), imovinsko stanje (vlasništvo stana ili kuće, vlasništvo okućnice ili poljoprivrednog zemljišta, vlasništvo pokretnina veće vrijednosti i sl.) i druge podatke od značenja za izdavanje socijalne iskaznice.
