@@ -1,0 +1,2 @@
+# Članak 15.
+Članak 48. mijenja se i glasi: "Izborna komisija izborne jedinice odnosno županijska izborna komisija zbrojit će rezultate glasovanja na biračkim mjestima na svom području najkasnije u roku od 24 sata od sata zatvaranja birališta. Izborna komisija izborne jedinice, odnosno županijska izborna komisija dostavit će izborne rezultate na svom području Izbornoj komisiji Republike Hrvatske zajedno sa zapisnikom o svom radu na način i u roku koji joj ova odredi."

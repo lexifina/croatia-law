@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 12. stavku 2., članku 14. stavku 2., članku 17. stavku 2., članku 18., članku 21. stavku 1., članku 39. stavku 1. i 2., članku 40. stavku 1. i 2., članku 41. stavku 2., članku 44. stavku 2., članku 46. stavku 1., članku 51. stavku 1. t. 1., članku 54. stavku 1., 2. i 3. i članku 58. stavku 1. iza riječi: "državna lista" u odgovarajućem padežu u jednini ili množini dodaju se riječi: "odnosno županijska lista" u odgovarajućem padežu u jednini ili množini.
