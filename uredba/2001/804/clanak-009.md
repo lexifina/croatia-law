@@ -1,0 +1,3 @@
+# Članak 9.
+Na temelju podataka iskazanih u prihvaćenoj carinskoj deklaraciji za puštanje robe u slobodan promet uz primjenu propisa o hrvatskim braniteljima, nadležno ustrojstveno tijelo Ministarstva unutarnjih poslova u prometnu dozvolu osobnoga automobila uvezenoga uz predmetnu carinsku i porezne olakšice upisuje bilješku: »Zabrana otuđenja po propisima o HB, do **.**.**** godine.«.
+Pri izračunu i upisu datuma iz stavka 1. ove točke, mjerodavan je dan i mjesec prihvaćanja carinske deklaracije kojom se odnosni osobni automobil pušta u slobodan promet, a kao godina upisuje se godina iz rješenja uvećana za sedam.

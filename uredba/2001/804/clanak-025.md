@@ -1,0 +1,3 @@
+# Članak 25.
+Carinske i porezne olakšice hrvatskih branitelja i članova njihove obitelji ostvaruju se sukladno propisima koji važe na dan podnošenja carinske deklaracije.
+Iznimno, hrvatskim braniteljima i članovima njihove obitelji koji su do 31. svibnja 2001. godine zaključili pravni posao o kupoprodaji osobnoga automobila i ishodili ispravu o statusu korisnika carinske i poreznih olakšica, nadležna carinarnica će u roku 60 dana od dana stupanja ove Uredbe na snagu odobriti podnošenje carinske deklaracije za puštanje robe u slobodan promet, uz primjenu carinske i poreznih olakšica prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članovima njihove obitelji (»Narodne novine«, br. 108/96).

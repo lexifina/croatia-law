@@ -1,0 +1,7 @@
+# Članak 22.
+Korisnik carinske odnosno poreznih olakšica koji osobni automobil ili opremu za obavljanje djelatnosti, uvezene uz carinsku i poreznu olakšicu hrvatskih branitelja namjerava prodati, darovati ili na drugi način otuđiti prije isteka sedam godina od dana ostvarivanja olakšica, obvezan je prethodno od nadležne carinarnice zatražiti obračun i platiti carinu, posebni porez i porez na dodanu vrijednost, kojih je bio oslobođen pri uvozu.
+Naknadni obračun i plaćanje carine, posebnog poreza i poreza na dodanu vrijednost prema stavku 1. ovoga članka obavlja se prema carinskim propisima.
+Za razdoblje od donošenja rješenja o oslobođenju od plaćanja carine, posebnog poreza i poreza na dodanu vrijednost do donošenja rješenja nadležne carinarnice sukladno zahtjevu iz stavka 1. ovoga članka, ne obračunava se i ne plaća kamata.
+U slučaju prodaje, darovanja ili otuđenja na drugi način opreme kupljene u zemlji uz porezne olakšice hrvatskih branitelja, obračun posebnog poreza i poreza na dodanu vrijednost obavlja korisnik olakšice kao prodavatelj robe, sukladno propisima o posebnom porezu odnosno porezu na dodanu vrijednost.
+U slučaju smrti korisnika carinske i poreznih olakšica hrvatskih branitelja, članovi obitelji korisnika imaju pravo prodati ili na drugi način otuđiti osobni automobil ili strojeve i opremu za obavljanje gospodarske djelatnosti uvezene uz carinsku i porezne olakšice, kao da je rok iz stavka 1. ovoga članka već istekao.
+f) Evidencija o ostvarivanju olakŠica

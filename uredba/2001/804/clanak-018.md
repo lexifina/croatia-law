@@ -1,0 +1,4 @@
+# Članak 18.
+Ako je posjedovanje opreme koja se uvozi ili kupuje uvjet za ishođenje akta za obavljanje djelatnosti, korisnik carinske i poreznih olakšica uz zahtjev za ostvarivanje olakšice podnosi i potvrdu ovlaštenoga tijela o ispunjavanju drugih propisima utvrđenih uvjeta za obavljanje odnosne djelatnosti.
+Temeljem zahtjeva iz stavka 1. ovoga članka, ovlaštena carinarnica donijet će uvjetno rješenje o ostvarivanju predmetne carinske i poreznih olakšica, uz naznaku roka za dostavu isprave o registraciji djelatnosti i izvješća o početku obavljanja djelatnosti.
+Ne dostavi li korisnik olakšice u rješenju određenom roku isprave iz stavka 2. ovoga članka, nadležna carinarnica će poništiti odnosno rješenje o ostvarivanju carinske i poreznih olakšica, odbiti zahtjev korisnika za ostvarivanje tih olakšica, te izvršiti obračun i provesti naplatu carine, posebnog poreza i poreza na dodanu vrijednost.

@@ -1,0 +1,2 @@
+# Članak 24.
+Rok za ponovno ostvarivanje carinske i poreznih olakšica pri uvozu osobnih automobila iz članka 39. stavak 1. i 2. Zakona za korisnike koji su te olakšice ostvarili do dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 23/01) utvrđuje se prema propisima koji su važili na dan prihvata carinske deklaracije za puštanje robe u slobodan promet.
