@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 1. točke 3. i članka 67. stavka 1. točke 8. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" br. 35/95 - pročišćeni tekst), Savjet Hrvatske narodne banke na sjednici održanoj 29. VII. 1998. godine donio je
