@@ -1,0 +1,1 @@
+Na temelju članka 155. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti (»Narodne novine«, br. 74/94, 86/94 i 7/95), Vlada Republike Hrvatske je na sjednici održanoj 13. siječnja 2000. godine donijela
