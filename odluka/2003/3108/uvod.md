@@ -1,0 +1,1 @@
+Na temelju odredbe članka 97. alineje 1., a u svezi s odredbom članka 73. stavka 2. Ustava Republike Hrvatske i članka 5. stavka 1. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, broj 69/03), donosim
