@@ -1,0 +1,8 @@
+Obrazloženje
+Akcija socijaldemokrata Hrvatske - ASH podnijela je putem svog predsjednika Silvija Degena prijedlog za ocjenu zakonitosti "interventnih mjera" Vlade Republike Hrvatske glede posljedica primjene Zakona o porezu na dodanu vrijednost ("Narodne novine", br. 47/95) te za ocjenu "potrebe raspisivanja referenduma prije donošenja važnih promjena u sustavu oporezivanja".
+Ustavni sud Republike Hrvatske je prijedlog odbacio.
+Prema članku 125. al. 1. i 2. Ustava Republike Hrvatske, Ustavni sud odlučuje o suglasnosti zakona s Ustavom te suglasnosti drugih propisa s Ustavom i zakonom. Pod propisom se podrazumijeva određeni akt koji na općenit, apstraktan način uređuje pravne odnose za neodređen broj adresata.
+Ocjena zakonitosti tzv. interventnih ili drugih mjera, koje Vlada Republike Hrvatske poduzima radi osiguravanja provedbe određenog propisa ili gospodarske politike, nije u nadležnosti Ustavnog suda Republike Hrvatske.
+Iz navedenih ustavnih odredbi ne proizlazi niti ovlast Ustavnog suda da ocjenjuje potrebitost raspisivanja referenduma u slučaju promjena pravnog sustava koje u okviru svoje ustavne nadležnosti provodi zakonodavac donošenjem novih propisa.
+Kako se, temeljem članka 26. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br. 13/91), zahtjev, prijedlog ili ustavna tužba odbacuju u slučajevima kada Ustavni sud nije nadležan za odlučivanje, kada su nepravodobni, i u drugim slučajevima kada ne postoje pretpostavke za odlučivanje o biti stvari, riješeno je kao u t. 1. izreke.
+Objava rješenja temelji se na članku 20. stavku 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
