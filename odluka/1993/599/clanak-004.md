@@ -1,0 +1,2 @@
+# Članak 4.
+Bilanca prihoda i rashoda i Posebni dio Proračuna Općine Čakovec za 1893. godinu sastavni su dio ove Odluke i objavljuju se u Službenom Glasniku Općine Čakovec. Zajedno s Bilancom prihoda i rashoda i Posebnim dijelom Proračuna Općine Čakovec objavljuje se Opći dio Proračuna iz članka 1. ove Odluke. Danom početka primjenjivanja ove Odluke primjenjuje se i Bilanca prihoda i rashoda i Posebni dio Proračuna Općine Čakovec.
