@@ -1,0 +1,2 @@
+# Članak 4.
+Tijela državne vlasti, tijela jedinica lokalne sanaouprave i uprave i pravne osobe, osim onih iz članka 2. ove Uredbe, mogu isplatiti najvišu mjesečnu plaću u siječnju, koja ne može biti veća od 6 prosječnih mjesečnih plaća Republike Hrvatske prema posljednjem objavljenom podatku, što iznosi 10.821.522 HRD, ako odlukom Sabora Republike Hrvatske ili Vlade Republike Hrvatske nije drugačije određeno.
