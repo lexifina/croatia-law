@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91), a u svezi s člankom 77. Zakona o deviznom poslovanju ("Službeni list SFRJ", br. 66/85, 71/86, 3/88, 59/88 i 82/90) Vlada Republike Hrvatske, na sjednici održanoj 24. travnja 1992. godine, donijela je
