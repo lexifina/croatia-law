@@ -1,0 +1,3 @@
+## o izmjeni Zakona o prostornom planiranju i uređivanju prostora
+# Članak 1.
+U Zakonu o prostornom planiranju i uređivanju prostora ("Narodne novine", broj 54/80, 16/86, 18/89, 47/89, 34/91, 61/91) članak 32. mijenja se i glasi: "Obavljanje djelatnosti prostornog uređenja u svezi s izradom prostornih planova i prijedloga uvjeta uređenja prostora i druge prostorno planske dokumentacije može se povjeriti pravnoj osobi registriranoj za obavljanje tih poslova. Upis u sudski registar vrši se po prethodno pribavljenoj suglasnosti Ministarstva zaštite okoliša, prostornog uredenjs i stambeno-komunalne djelatnosti. Obavljanje djelatnosti iz stavka 1. ovog članka može se povjeriti organu uprave osnovanom za obavljanje poslova prostornog planiranja."
