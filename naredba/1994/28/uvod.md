@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 1. Zakona o posebnim pristojbama pri uvozu poljoprivrednih i prehrambenih proizvoda ("Narodne novine" broj 53/91 i 116/93) ministar gospodarstva uz prethodno pribavljeno mišljenje ministra poljoprivrede i šumarstva, donosi
