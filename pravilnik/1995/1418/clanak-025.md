@@ -1,0 +1,2 @@
+# Članak 25.
+Učitelj odnosno nastavnik koji je stekao zvanje mentora prema dosadašnjim pravilnicima (Pravilnik o utvđivanju zvanja učitelja i stručnih suradnika u osnovnim školama te postupku, načinu i uvjetima njihova stjecanja ("Narodne novine", broj 59/90. i 27/93.) i Pravilnik o postupku, načinu i uvjetima ocjenjivanja i napredovanja nastavnika srednjih škola i učeničkih domova ("Narodne novine", br. 19/92., 26/93., 27/93. i 11/94.) može i prije isteka 5 godina podnijeti zahtjev za napredovanje prema ovom pravilniku.
