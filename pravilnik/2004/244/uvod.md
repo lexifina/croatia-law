@@ -1,0 +1,1 @@
+Na temelju članka 49. Zakona o medicinsko-biokemijskoj djelatnosti (»Narodne novine« 121/03.) i članka 19. Statuta Hrvatske komore medicinskih biokemičara Izvršni odbor na 11. sjednici od 16. rujna 2003. godine, uz suglasnost ministra zdravstva, donio je
