@@ -1,0 +1,15 @@
+# Članak 3.
+KAMATE
+a) obračunavanje kamata
+kamate će se plaćati na neplaćeni dio ukupnoga duga. Kamate će se obračunavati od 1. siječnja (uključujući i 31. siječanj) 1995. za dugove iz članka 1. pod a), b)(i) i c) te od nadnevka dospijeća za dugove iz članka 1. pod b)(ii) za svaki istekli dan na osnovi godine od 360 dana.
+Kamate će se obračunavati svakih šest mjeseci i plaćati polugodišnje unatrag 31. siječnja i 31. srpnja svake godine. Međutim, prvo je kamatno obračunsko razdoblje od 1. siječnja 1995. do 31. ožujka (uključujući i 31. ožujak) 1998., drugo je kamatno razdoblje od 1. travnja 1998. do 31. srpnja (uključujući i 31. srpanj) 1998., a sljedeća kamatna razdoblja teku od 1. veljače i 1. kolovoza svake godine;
+b) kamatne stope
+dugovi navedeni u SEK
+za dugove koji su navedeni u švedskim krunama (SEK) kamatna stopa odredit će se odvojeno za svako kamatno razdoblje i odgovarat će stopi koja je za 0,5% veća od ponuđene šestmjesečne stope Stockholm Interbank Offered Rate stope (STIBOR) prema navodu Reuters Monitor Money Rates Servicea, stranica SIOR, stupac STIBOR FIXING (ili neka druga takva stranica koja bi mogla zamijeniti tu stranicu u tomu sustavu radi prikaza STIBOR stope) u ili oko 11 sati ujutro po štokholmskom vremenu dva bankarska dana prije početka odgovarajućeg kamatnog razdoblja;
+dugovi navedeni u USD
+za dugove navedene u američkim dolarima (USD) kamatna stopa odredit će se posebno za svako kamatno razdoblje i odgovarat će stopi koja je za 0,5% veća od ponuđene šestmjesečne stope London Interbank Offered Rate stope (LIBOR) za USD prema navodu Reuters Monitor Money Rates Servicea, stranica ISDA, stupac USD (ili neka druga takva stranica koja bi mogla zamijeniti tu stranicu u tomu sustavu radi prikaza LIBOR stope vodećih referentnih banaka) u ili oko 11 sati ujutro po londonskom vremenu na bankarski dan u Štokholmu kojemu dva bankarska dana u Londonu prethodi početak odgovarajućeg kamatnog razdoblja;
+c) zatezne kamate
+zatezne kamate iz članka 1. pod c) obračunavat će se od izvornih nadnevaka dospijeća do 31. prosinca (uključujući i 31. prosinac) 1994. za broj proteklih dana na osnovi 360 dana u godini.
+Za dugove navedene u švedskim krunama (SEK) stopa zateznih kamata iznosi 11,76% godišnje (što odgovara prosjeku mjesečnih prosjeka šestomjesečne STIBOR stope za razdoblje od lipnja 1990. do prosinca (uključujući i 31. prosinac) 1994. prema Sveriges Riskbank uvećanom za 1%.
+Za dugove navedene u američkim dolarima (USD) stopa zateznih kamata iznosi 6,08% godišnje (što odgovara prosjeku mjesečnih prosjeka šestomjesečne LIBOR stope za USD za razdoblje od lipnja 1990. do prosinca (uključujući i 31. prosinac) 1994. prema mjesečnoj publikaciji Međunarodnog monetarnog fonda (MMF) »International Financial Statistics« uvećanom za 1%;
+d) ako neki iznos koji je plativ prema ovom Ugovoru ne bude primljen na dan dospijeća, Vlada Republike Hrvatske platit će kamate na taj iznos od nadnevka dospijeća do dana stvarnog plaćanja (uključujući i taj dan) po stopi koja je za 1% veća od kamatne stope određene u članku 3. pod b.
