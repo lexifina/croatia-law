@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 110/98, 15/2000 i 117/2001) i članka 13. stavka 2. Zakona o Leksikografskom zavodu Miroslav Krleža (»Narodne novine«, broj 96/2003), Vlada Republike Hrvatske je na sjednici održanoj 27. studenoga 2003. godine donijela
