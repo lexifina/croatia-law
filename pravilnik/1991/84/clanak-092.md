@@ -1,0 +1,3 @@
+# Članak 92.
+Ministarstvo prosvjete i kulture zabranit će rad u ispitnoj komisiji osobama: koje u pogledu stručne spreme i radnog iskustva ne ispunjavaju uvjete iz članka 44. ovoga pravilnika; koje nisu položile poseban ispit iz članka 45. ovoga pravilnika, kojima je prestala valjanost uvjerenja o posebnom ispitu za člana ispitne komisije iz članka 46. ovoga pravilnika; koje se stručno ne usavršavaju prema odredbi članka 68. Zakona o sigurnosti prometa na cestama; koje poslove člana ispitne komisije obavljaju na način koji nije u skladu s člankom 47. ovoga pravilnika.
+Ministarstvo prosvjete i kulture zabranit će rad u komisiji za polaganje ispita iz prve pomoći osobama koje ne ispunjavaju uvjete iz članka 33. ovoga pravilnika.

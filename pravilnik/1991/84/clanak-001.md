@@ -1,0 +1,5 @@
+## o osposobljavanju osoba za vozače vozila na motorni pogon i polaganju vozačkog ispita
+# Članak 1.
+Ovim Pravilnikom:
+a) propisuju se: uvjeti i način osposobljavanja osoba za vozače vozila pojedine kategorije; prostor, nastavna sredstva i pomagala i oprema koja omogućuje nesmetano osposobljavanje osoba za vozače vozila pojedine kategorije; razlozi, uvjeti i postupak utvrđivanja privremene ili trajne zabrane obavljanja djelatnosti osposobljavanja vozača; prostorni, tehnički i materijalni uvjeti za rad ispitne komisiie; stupanj i profil stručne spreme predsjednika i članova ispitne komisije i drugi uvjeti za članove ispitne komisije; uvjeti i način polaganja vozačkog ispita; evidencija i dokumentacija koju vode organizacije za osposobljavanje kandidata za vozača i polaganje vozačkih ispita;
+b) utvrđuje se: nastavni plan i program osposobljavanja osoba za vozače vozila pojedinih kategorija; popis nastavnih sredstava i pomagala za realizaciju sadržaja programa osposobljavanja; program vozačkih ispita za pojedine kategorije vozila; program provjere poznavanja propisa i vještine upravljanja vozilom za osobe kojima je izrečena takva zaštitna mjera.

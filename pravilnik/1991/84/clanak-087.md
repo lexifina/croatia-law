@@ -1,0 +1,2 @@
+# Članak 87.
+Ministarstvo prosvjete i kulture zabranit će rad i podnijeti zahtjev nadležnom organu za pokretanje disciplinskog postupka za vozača - instruktora i nastavnika iz predmeta prometna, i sigurnosna pravila: koji poslove i zadatke obavlja suprotno odredbama općeg akta o organizaciji i izvođenju procesa osposobljavanja osoba za vozače (članak 14. stavak 2. točka 3. ovoga pravilnika); koji nastavu izvodi u alkoholiziranom stanju.

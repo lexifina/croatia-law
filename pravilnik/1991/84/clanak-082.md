@@ -1,0 +1,4 @@
+# Članak 82.
+Kada Ministarstvo prosvjete i kulture utvrdi da autoškola: prema osobama koje se žele osposobljavati ne postupi u skladu s člankom 17. ovoga pravilnika; za vježbe
+upravljanja vozilom koristi vozilo koje ne ispunjava uvjete iz članka 24. ovoga pravilnika; u svom općem aktu nije detaljno utvrdilo obavezu stručnog usavršavanja iz članka 68. Zakona o sigurnosti prometa na cestama; ne vodi dokumentaciju iz članka 28. Pravilnika; osobama u procesu osposobljavanja ne omogući polaganje vozačkog ispita u roku iz članka 18. ovoga pravilnika: nastavu organizira na način koji nije u skladu s odredbama članka 19, 20. 23. ovoga pravilnika odredit će rok u kojem je auto-škola dužna otkloniti utvrđene nedostatke.
+Ako auto-škola ne otkloni neodostatke iz stavka 1. ovoga članka u utvrđenom roku, Ministarstvo prosvjete i kulture donijet će rješenje o zabrani rada.

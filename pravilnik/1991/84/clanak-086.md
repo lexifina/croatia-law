@@ -1,0 +1,3 @@
+# Članak 86.
+Ministarstvo prosvjete i kulture zabranit će rad nastavniku iz predmeta prometna i sigurnosna pravila, odnosno vozaču - instruktoru: koji u pogledu stručne spreme ne ispunjava uvjete iz članka 62. Zakona o sigurnosti prometa na cestama koji nema dozvolu za vozača - instruktora iz članka 65. Zakona o sigurnosti prometa na cestama; koji ne zadovolji na provjeri stručne osposobljenosti iz članka 68. Zakona o sigurnosti prometa na cestama; koji nije zasnovao radni odnos u organizaciji u kojoj realizira program osposobljavanja.
+Ministarstvo prosvjete i kulture zabranit će rad predavaču iz pružanja prve pomoći ako ne ispunjava uvjete iz članka 62. stavka 3. Zakona o sigurnosti prometa na cestama.

@@ -1,0 +1,3 @@
+# Članak 23.
+Osposobljavanje iz predmeta upravljanje vozilom, u dijelu koji se izvodi na poligonu ili simulatoru, može započeti kada osoba koja se osposobljava pribavi od ovlaštene organizacije zdravstva uvjerenje o duševnoj i tjelesnoj sposobnosti za upravljanje vozilom na motorni pogon.
+Osposobljavanje iz dijela programa koji se izvodi na javnoj cesti može se izvoditi s osobom koja je u cijelosti odslušala propisani program iz predmeta poznavanja prometnih i sigurnosnih pravila, ili koja je na kontrolnim testovima pokazala da je usvojila sadržaje nastavnih cjelina "Prometni znakovi" i "Pravila prometa".

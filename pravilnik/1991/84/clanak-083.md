@@ -1,0 +1,3 @@
+# Članak 83.
+Kada Ministarstvo prosvjete i kulture utvrdi da organizacija Crvenog križa: organizira nastavu na način koji nije u skladu s odredbama članka 31. ovoga pravilnika, vodi evidenciju na način koji nije u skladu s odredbom članka 37. ovoga pravilnika, ispit iz pružanja prve pomoći provodi na način koji nije u skladu s odredbama članka 29. i 33. ovoga pravilnika odredit će rok u kojem je organizacija Crvenog križa dužna otkloniti utvrđene nedostatke.
+Ako organizacija Crvenog križa ne otkloni nedostatke iz stavka 1. ovoga članka u utvrđenom roku. Ministarstvo prosvjete i kulture donijet će rješenje o zabrani rada.

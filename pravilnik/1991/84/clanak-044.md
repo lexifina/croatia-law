@@ -1,0 +1,3 @@
+# Članak 44.
+Za predsjednika ispitne komisije može biti imenovan vozač - instruktor sa završenim VI ili VII stupnjem stručne spreme prometne, pravne, tehničke ili odgojno-obrazovne struke sa tri godine radnog iskustva na poslovima osposobljavanja osoba za vozače iz predmeta upravljanje vozilom ili na poslovima člana ispitne komisije i položenim posebnim ispitom.
+Za ispitivača ispitne komisije može biti imenovan vozač - instruktor odgovarajuće kategorije za koju provodi vozačke ispite, sa pet godina radnog iskustva na poslovima osposobljavanja osoba za vozače iz upravljanja vozilom, i položenim posebnim ispitom.

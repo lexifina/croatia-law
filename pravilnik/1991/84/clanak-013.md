@@ -1,0 +1,2 @@
+# Članak 13.
+Za osposobljavanje osoba za vozače auto-škola mora imati: propise iz oblasti prometa, priručnike iz programa osposobljavanja, odgovarajuću literaturu o djelovanju uređaja na vozilima koji su značajni za sigurnost u prometu, te djelovanju raznih nepovoljnih činilaca na odvijanje prometa, stručnu literaturu iz oblasti psihologije prometa, andragogije, metodike obuke vožnje i testove koji se koriste u toku i na kraju nastave.
