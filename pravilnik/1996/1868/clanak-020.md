@@ -1,0 +1,2 @@
+# Članak 20.
+Hrvat koji je prognan s područja Bosne i Hercegovine i to izvan Federacije, te se područja SR Jugoslavije (Srbija i Crna Gora), a koji je temeljem Zakona o privremenom preuzimanju i upravljanju imovinom dobio privremeno u posjed i na korištenje useljiv stan ili kuću, te ima boravište ili prebivalište na području posebne državne skrbi Republike Hrvatske, dobiva OSOBNI KARTON IZBJEGLICA - USELJENIK.
