@@ -1,0 +1,4 @@
+# Članak 2.
+Novčani poticaji iz članka 1. ovog Naputka utvrđuju se za vinovu lozu, a raspored površina dat je u tablici 1.
+Tablica 1. Novi nasadi vinograda u sustavu poticaja i njihov regionalni raspored (ha/županiji)
+________________________________________________ Županija Vinogradi (ha) ________________________________________________ Bjelovarsko-bilogorska 20 Međimurska 40 Dubrovačko-neretvanska 61 Ličko-senjska 5 Karlovačka 20 Koprivničko-križevačka 31 Krapinsko-zagorska 40 Osječko-baranjska 40 Istarska 61 Požeško-slavonska 40 Primorsko-goranska 31 Sisačko-moslavačka 31 Brodsko-posavska 31 Splitsko-dalmatinska 61 Šibensko-kninska 61 Varaždinska 40 Vukovarsko-srijemska 40 Virovitieko-podravska 20 Zadarska 61 Zagrebaeka 61 Grad Zagreb 5 ________________________________________________ Ukupno 800
