@@ -1,0 +1,2 @@
+# Članak 3.
+Za utvrđivanje sposobnosti radnika na poslovima iz članka 2. ovoga Pravilnika u prvom stupnju nadležna je Prvostupna zdravstvena komisija. Za rješavanje povodom žalbe podnesene protiv rješenja donesenog u prvom stupnju, nadležna je Drugostupna zdravstvena komisija. Predsjednike i članove zdravstvenih komisija iz stavka 1. i 2. ovoga članka imenuje ministar unutarnjih poslova uz suglasnost ministra pravosuđa i uprave.

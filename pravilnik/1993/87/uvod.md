@@ -1,0 +1,1 @@
+Na temelju članka 106. stavak 1. Zakona o mirovinskom i invalidskom osiguranju ("Narodne novine", br. 26/83, 5/86, 42/87, 34/89, 57/89, 40/90 i 9/91), ministar unutarnjih poslova u suglasnosti s ministrom pravosuđa i uprave donosi

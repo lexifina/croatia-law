@@ -1,0 +1,2 @@
+# Članak 16.
+Ukoliko je radnik oglašen nesposobnim ili je ocijenjeno da postoji preostala radna sposobnost za vršenje poslova ovlaštene službene osobe, postupak za utvrđivanje preostale radne sposobnosti pokreće policijska uprava, Ministarstvo unutarnjih poslova odnosno Uprava za izvršenje kaznenih i prekršajnih sankcija Ministarstva pravosuđa i uprave i Ministarstvo pravosuđa i uprave kod nadležne područne službe Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske.

@@ -1,0 +1,2 @@
+# Članak 2.
+Radnici na poslovima iz članka 1. ovoga Pravilnika su radnici iz članka 30. Zakona o unutarnjim poslovima ("Narodne novine", broj: 29/91 - pročišćeni tekst, 73/91, 19/92, 33/92), članka 69. Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje ("Narodne novine", br. 21/74, 39/74, 15/88 i 19/90) te radnici iz članka 103. Zakona o mirovinskom osiguranju ("Narodne novine", br. 26/83, 5/86, 42/87, 34/89, 57/89, 40/90 i 9/91).

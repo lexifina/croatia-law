@@ -1,0 +1,2 @@
+# Članak 9.
+Zahtjevu za utvrđivanje sposobnosti radnika, pored potrebne medicinske dokumentacije, prilažu se osobni podaci o radniku, njegovom stažu osiguranja i stažu osiguranja s povećanim trajanjem te stručnoj spremi za vršenje poslova koje obavlja kao i drugi potrebni podaci. Uz podatke iz stavka 1. ovoga članka, policijska uprava, odnosno organ u kojem radnik radi, obavezna je Zdravstvenoj komisiji dostaviti i svoje mišljenje o podnesenom zahtjevu, kao i drugim okolnostima koje su u svezi s radnom sposobnošću radnika.
