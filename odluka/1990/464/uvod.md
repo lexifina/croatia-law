@@ -1,0 +1,1 @@
+Na temelju člana 28. stava 3. Zakona o zadrugama ("Službeni list SFRJ", br. 3/90) i člana 62. i 63. Statuta Osnovnog zadružnog saveza Zajednice općina Varaždin, Skupština Osnovnog zadružnog saveza Zajednice općina Varaždin na svojoj sjednici održanoj 18. svibnja 1990. godine donosi
