@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 1., članka 37. stavka 2. i članka 26. stavka 4. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 60. stavka 2. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93), Vlada Republike Hrvatske je na sjednici održanoj 1. listopada 1998. godine donijela

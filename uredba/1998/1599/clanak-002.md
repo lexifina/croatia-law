@@ -1,0 +1,2 @@
+# Članak 2.
+Ured obavlja stručne i druge poslove u vezi s ostvarivanjem utvrđene politike ostvarivanja ravnopravnosti nacionalnih manjina koje žive na području Republike Hrvatske kao i njihovih prava utvrđenih Ustavom i zakonom, predlaže mjere za ostvarivanje tih prava, priprema prijedloge za osiguranje sredstava za ostvarivanje ustavnih prava pripadnika nacionalnih manjina, daje prijedloge i mišljenja za financiranje određenih potreba pripadnika nacionalnih manjina i njihovih udruga te obavlja i druge povjerene poslove.
