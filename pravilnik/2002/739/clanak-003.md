@@ -1,0 +1,3 @@
+# Članak 3.
+U smislu ovoga Pravilnika zaštićene su vrste samoniklih gljiva koje su ugrožene i vrlo rijetke i/ili čije su populacije znatno smanjene zbog uništenja staništa ili zbog prekomjernoga i nekontroliranoga sakupljanja, te prijeti opasnost njihovu nestanku, (u daljnjem tekstu: zaštićene vrste gljiva), stoga nije dopušteno njihovo sakupljanje.
+U smislu ovog Pravilnika određenu zaštitu uživaju i samonikle gljive koje nisu posebno zaštićene i koje se mogu sakupljati u svrhu prerade, trgovine i drugog prometa uz uvjete propisane ovim Pravilnikom, budući bi prekomjerno i nekontrolirano sakupljanje tih gljiva dovelo u pitanje njihov opstanak na području Republike Hrvatske (u daljnjem tekstu: ugrožene vrste gljiva).

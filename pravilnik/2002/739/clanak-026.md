@@ -1,0 +1,4 @@
+# Članak 26.
+Do izdavanja iskaznica sukladno ovom Pravilniku vrijede potvrde koje su sakupljači gljiva dobili temeljem Pravilnika o zaštiti gljiva (Fungi) - (»Narodne novine« , br. 115/98).
+Sakupljači gljiva koji posjeduju potvrde za sakupljanje gljiva izdane na temelju Pravilnika o zaštiti gljiva (Fungi) - (»Narodne novine« , br. 115/98) dužni su zatražiti od Ministarstva izdavanje iskaznica sukladno ovom Pravilniku u roku od 12 mjeseci od dana stupanja na snagu ovoga Pravilnika.
+Ako sakupljači koji posjeduju potvrde za sakupljenje gljiva ne zatraže i ne pribave iskaznice ovoga Ministarstva u roku propisanom stavkom 2. ovog članka prestaju im važiti potvrde o stručnoj osposobljenosti za sakupljanje gljiva izdane temeljem Pravilnika o zaštiti gljiva (Fungi) - (»Narodne novine« , br. 115/98).
