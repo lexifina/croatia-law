@@ -1,0 +1,3 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 12.
+U tiskanicama PN-1, PN-2a, PN-3 i PN-4, koje su sastavni dio Pravilnika o načinu i uvjetima napredovanja u struci i promicanju u položajna zvanja odgojitelja i stručnih suradnika u dječjim vrtićima (»Narodne novine, broj« 133/97), riječi »REPUBLIKA HRVATSKA, Ministarstvo prosvjete i športa, Zagreb, Trg burze 6« i riječi »Ministarstvu prosvjete i športa« zamjenjuju se riječima »Zavod za školstvo Republike Hrvatske« te riječi »Ovlaštena osoba Ministarstva prosvjete i športa« zamjenjuju se riječima »Ovlaštena osoba Zavoda za školstvo Republike Hrvatske«, u odgovarajućem padežu.
