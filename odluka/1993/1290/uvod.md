@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92) i članka 4. Uredbe o zabrani raspolaganja i preuzimanja sredstava određenih pravnih osoba na teritoriju Republike Hrvatske ("Narodne novine", br. 40/92) Vlada Republike Hrvatske je na sjednici održanoj 1. srpnja 1993. godine donijela
