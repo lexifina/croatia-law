@@ -1,0 +1,1 @@
+Na temelju članka 4. Uredbe o obračunavaju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor ("Narodne novine", br. 13/94.), ministar financija donosi
