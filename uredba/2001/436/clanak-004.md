@@ -1,0 +1,2 @@
+# Članak 4.
+Kabinet ravnatelja je posebna ustrojstvena jedinica Zavoda koja za ravnatelja i njegovog zamjenika obavlja: protokolarne, stručne i administrativne poslove; poslove unutarnjeg nadzora; obavješćivanja javnosti; pribavljanja dokumentacije i materijala od ustrojstvenih jedinica Zavoda te njihovog pravodobnog zaprimanja, rješavanja i dostavljanja, pohranu pošte označene određenim stupnjem tajnosti, izrađivanje i čuvanje zapisnika sa stručnih kolegija i drugih sastanaka.
