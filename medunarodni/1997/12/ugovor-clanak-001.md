@@ -1,0 +1,2 @@
+# Članak 1.
+Konvencija čije se odredbe mijenjaju ovim Protokolom je Međunarodna konvencija o građanskoj odgovornosti za štetu zbog onečišćenja uljem, iz 1969. godine, u daljnjem tekstu "Konvencija o odgovornosti iz 1969. godine" Za države stranke Protokola, iz 1976. godine uz Konvenciju o odgovornosti iz 1969. godine smatrat će se da ovaj Protokol uključuje Konvenciju o odgovornosti iz 1969. godine izmijenjenu tim Protokolom.
