@@ -1,0 +1,2 @@
+# Članak 32.
+Stezaljke brojila, ako su grupirane u priključnicu a nisu zaštićene na neki drugi način, imaju poseban poklopac koji se može zaštititi žigom neovisno o poklopcu brojila. Poklopac stezaljki poklapa same stezaljke, vijke za pričvršćenje vodiča te, ako drugačije nije određeno, potrebnu dužinu vanjskih vodiča i njihovu izolaciju tako da onemogućuje vanjske zahvate kojima bi se preko stezaljki moglo utjecati na rad brojila.

@@ -1,0 +1,2 @@
+# Članak 20.
+Kad se pri ispitivanju tipa brojila utvrdi da se pojedini i svi mjemi rezultati nalaze izvan granica postotnih pogrešaka je su dane u tablicama I i II iz članka 18. ovoga pravilnika, se pomak apscisne osi paralelno s njom za vrijednost 0,5 ako je riječ o brojilima razreda točnosti 1, a l% ako je rijeđ brojilima razreda točnosti 2. Ako svi mjerni rezultati pri ton ostanu u granicama postotnih pogrešaka koje su dane u tablic ma I i II iz članka 18. ovoga pravilnika, brojilo je ispravno.
