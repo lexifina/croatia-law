@@ -1,0 +1,2 @@
+# Članak 7.
+Ravnatelj Ergele rukovodi Ergelom, zastupa i predstavlja Ergelu i odgovaran je za njen rad te u sklopu prava i dužnosti utvrđenih ovom Uredbom organizira i osigurava zakonito i učinkovito obavljanje poslova iz djelokruga rada Ergele, predlaže Upravnom vijeću Ergele donošenje akata iz njegove nadležnosti i izvršava odluke Upravnog vijeća Ergele, te obavlja druge poslove koji su mu statutom ili drugim općim aktom Ergele stavljeni u nadležnost.
