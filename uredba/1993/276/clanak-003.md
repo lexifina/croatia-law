@@ -1,0 +1,2 @@
+# Članak 3.
+Pravne osobe, osim pravnih osoba iz članka 2. ove uredbe, te organi i organizacije koji se financiraju iz državnog, općinskih i gradskih proračuna ili društvenih fondova mogu isplaćivati akontacije neto plaća za veljaču 1993. u skladu s općim aktom i kolektivnim ugovorom, ali najviše do razine prosječne neto plaće isplaćene za siječanj 1993. uvećane za 0,90 indeksnih poena za svaki indeksni poen rasta cijena na malo u veljači 1993.

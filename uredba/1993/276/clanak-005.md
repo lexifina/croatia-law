@@ -1,0 +1,2 @@
+# Članak 5.
+Pravne osobe, te organi i organizacije iz članaka 2. i 3. ove uredbe mogu isplaćivati naknadu regresa za korištenje godišinjeg odmora za 1993. godinu do visine prosječne mjesečne isplaćene neto plaće u privredi Hrvatske, prema posljednjem objavljenom podafku. Regres za godišnji odmor ilćuje se jedanput godišnje i to u mjesecu koji prethodi mjesecu u kojem radnik prvi puta koristi godišnji odmor.
