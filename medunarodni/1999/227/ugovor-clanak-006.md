@@ -1,0 +1,3 @@
+# Članak 6.
+1. Carinska služba jedne ugovorne stranke će samoinicijativno, ili na zahtjev, dostaviti carinskoj službi druge ugovorne stranke izvješća, zapisnike o dokaznom materijalu ili ovjerene kopije dokumenata dajući sve raspoložive podatke o radnjama, otkrivenim ili planiranim, koje čine ili bi mogle činiti kršenje carinskih propisa koji su na snazi na teritoriju države te ugovorne stranke.
+2. Originalni spisi i dokumenti mogu se tražiti samo u slučajevima kada ovjerene kopije nisu dostatne. Originali koji su otpremljeni službi tražiteljici, bit će vraćeni bez odgađanja čim prestanu postojati razlozi zbog kojih su isti bili dostavljeni carinskoj službi druge ugovorne stranke.
