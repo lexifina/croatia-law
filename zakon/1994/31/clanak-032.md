@@ -1,0 +1,4 @@
+## IV. POSEBNE ODREDBE O UNUTARNJEM USTROJSTVU VRHOVNOG SUDA
+# Članak 32.
+Vrhovni sud Republike Hrvatske ima odjel za odlučivanje po redovnim pravnim lijekovima (apelacioni) i odjel za odlučivanje u izvanrednim pravnim lijekovima (kasacioni) u kaznenom postupku odnosno građanskom postupku, tajništvo suda i odjel za praćenje i proučavanje sudske prakse, te druge unutarnje ustrojstvene jedinice stručnih i pomočno - tehničkih službi.
+Građanski odjel obuhvaća područje građanskoga, trgovačkog i upravnog prava. Unutarnje ustrojstvo i poslovanje ustrojenih jedinica uređuju se Sudskim poslovnikom i Poslovnikom o radu Vrhovnog suda Republike Hrvatske, sukladno zakonu. Poslovnik o radu Vrhovnog suda Republike Hrvatske donosi predsjednik suda po prethodno pribavljenom,mišljenju opće sjednice. Raspored sudaca u odjele izvršit će se godišnjim rasporedom poslova.

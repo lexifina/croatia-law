@@ -1,0 +1,2 @@
+# Članak 26.
+Predsjednik suda obavlja poslove sudske uprave sukladno zakonu i sudskom poslovniku. Predsjednika suda u slučaju njegove spriječenosti ili odsutnosti u obavljanju poslova sudske uprave i drugih poslova koje povjeri zamjenjuje sudac određen godišnjim rasporedom poslova. Predsjedniku Vrhovnog suda Republike Hrvatske u poslovima sudske uprave pomažu predsjednici odjela i tajnik suda, a u drugim sudovima predsjedniku suda pomažu predsjednici odjela, tajnik suda ili službenik kojeg odredi predsjednik suda.

@@ -1,0 +1,2 @@
+# Članak 35.
+Predsjednik Vrhovnog suda Republike Hrvatske može sazvati i proširenu opću sjednicu Vrhovnog suda Republike Hrvatske. Proširenu opću sjednicu iz stavka 1. ovoga članka sačinjavaju svi suci Vrhovnog suda Republike Hrvatske, te po dva predstavnika Visokoga trgovačkog suda Republike Hrvatske, Upravnog suda Republike Hrvatske, te svakog od županijskih sudova. Na proširenoj općoj sjednici Vrhovnog suda Republike Hrvatske razmatraju se aktualna pitanja iz sudske prakse.

@@ -1,0 +1,2 @@
+# Članak 4.
+Svatko ima pravo da mu sudi sud u čiju nadležnost spada predmet u zakonom utvrdenom postupku bez neosnovanog odgađanja. U pravnim stvarima iz sudskog djelokruga ugovorom se može povjeriti odlučivanje o pojedinim pravnim stvarima izbranim sudovima sukladno zakonu. Svatko ima pravo slati predstavke na rad suda ili suca zbog odugovlačenja postupka u kojem je stranka ili ima pravni interes. odnosno zbog ponašanja suca ili drugog djelatnika u sudu u službenim odnosima sa strankom i dobiti na njih odgovor.

@@ -1,0 +1,3 @@
+# Članak 33.
+Opću sjednicu Vrhovnog suda Republike Hrvatske sačinjavaju predsjednik i svi suci toga suda. Opću sjednicu sazivlje i njoj predsjeda predsjednik suda. Opća sjednica mora se sazvati ako to zatraži odjel suda ili jedna četvrtina.svih sudaca. Predsjednik suda može, prema potrebi, pozvati na opću sjednicu i sjednicu odjela profesore pravnog fakulteta, istaknute znanstvenike ili stručnjake u određenoj oblasti prava. Za pravovaljano odlučivanje na općoj sjednici potrebna je prisutnost najmanje dvije trećine svih sudaca.
+Odluke se donose većinom glasova svih sudaca Vrhovnog suda Republike Hrvatske.

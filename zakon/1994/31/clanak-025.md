@@ -1,0 +1,4 @@
+## III. UNUTARNJE USTROJSTVO SUDOVA
+## 1. SUDSKA UPRAVA
+# Članak 25.
+Poslovi sudske uprave obuhvaćaju osiguranje uvjeta za pravilan rad i poslovanje suda, a posebice: ustrojstvo unutarnjeg poslovanja u sudu, skrb o urednom i pravodobnom obavljanju poslova u sudu, poslove izvršenja kaznenih sankcija i postupanje s pritvorenicima. poslove pozivanja i raspoređivanja sudaca porotnika, poslove u svezi sa stalnim sudskim prccjeniteljima, tumačima i vještacima, poslove ovjere isprava namijenjenih uporabi u inozemstvu, poslove u svezi s predstavkama i pritužbama stranaka na rad suda. stručne poslove u svezi s ostvarivanjem dužnosti i prava službenika i namještenika u sudu, skrb o stručnom usavršavanju sudaca, sudskih savjetnika, sudačkih vježbenika i drugih službenika i namještenika u sudu, vođenje statistike, financijsko-materijalno poslovanje suda i druge poslove propisane zakonom i pravilnikom o unutarnjem poslovanju sudova (u daljnjem tekstu: sudski poslovnik).
