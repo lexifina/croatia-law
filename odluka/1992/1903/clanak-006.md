@@ -1,0 +1,3 @@
+# Članak 6.
+Nema pravo na naknadu za socijalni minimum domaćinstvo, članovi kojeg obavljaju samostalnu gospodarsku ili profesionalnu djelatnost, kao i domaćinstvo koje ima u vlasništvu obradivo poljoprivredno zemljište u površini većoj od 2000 m2.
+Iznimno od stavka 1. ovoga članka pravo na naknadu za socijalni minimum može ostvariti poljoprivredno domaćinstvo koje prema utvrdenju nadležnog centra za socijalni rad, zbog starosti, invalidnosti ili bolesti svojih članova nije u mogučnosti obavljanjem poljoprivredne djelatnosti ostvariti prihode do razine socijalnog minimuma utvrdenog za odnosno domaćinstvo, a nije u mogućnosti davanjem zemljišta u zakup, ili drugim pravnim poslom ostvariti prihod do razine socijalnog minimuma.

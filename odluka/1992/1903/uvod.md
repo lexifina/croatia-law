@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o formiranju i korištenju sredstava solidarnosti za osiguravanje zaštite životnog standarda socijalno ugroženog stanovništva ("Narodne novine", broj 18/89), Vlada Republike Hrvatske na sjednici održanoj 27. listopada 1992. godine donijela je
