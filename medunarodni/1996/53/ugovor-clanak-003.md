@@ -1,0 +1,7 @@
+# Članak 3.
+ODREDBE O NAJVEĆEM POVLAŠTENJU
+1. Prema ulaganjima ulagatelja jedne ugovorne stranke na teritoriju druge ugovorne stranke postupat će se pravično i nepristrano i ne manje povoljno nego prema ulaganjima ulagatelja neke treće države.
+2. Prema ulagateljima jedne ugovorne stranke, čija ulaganja na teritoriju druge stranke pretrpe gubitke uslijed rata ili drugog oružanog sukoba, nereda, revolucije, izvanrednog stanja, ustanka ili pobune na teritoriju druge ugovorne stranke, ta druga ugovorna stranka dužna je postupati po pitanju restitucije, odštete, naknade ili druge nagodbe ne manje povoljno nego što se odnosi prema ulagateljima neke treće države.
+3. Odredba ovog ugovora koja se odnosi na primjenu postupka koji ne smije biti manje povoljan od onog koji se primjenjuje prema ulagateljima neke treće države, ne smije se tumačiti kao obveza jedne ugovorne stranke da pruži ulagateljima druge ugovorne stranke pogodnosti, prednosti ili povlastice koje proizlaze iz:
+(a) neke postojeće ili buduće carinske unije ili slobodne trgovačke zone ili zajedničkog tržišta ili monetarne unije ili sličnog međunarodnog sporazuma ili drugih oblika regionalne suradnje, kojih je jedna ugovorna stranka učesnica ili to može postati; ili prihvaćanjem sporazuma kojem je namjera da dovede do stvaranja ili proširenja takve unije ili zone u razumnom roku; ili
+(b) bilo kojeg međunarodnog sporazuma ili dogovora koji se odnosi u cijelosti ili pretežno na oporezivanje ili bilo kojeg domaćeg zakona koji se u cijelosti ili pretežno odnosi na oporezivanje.

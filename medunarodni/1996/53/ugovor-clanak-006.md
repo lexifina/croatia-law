@@ -1,0 +1,12 @@
+# Članak 6.
+RJEŠAVANJE INVESTICIJSKIH SPOROVA IZMEĐU JEDNE UGOVORNE STRANKE I ULAGATELJA DRUGE UGOVORNE STRANKE
+1. Ugovorne stranke pristaju podnijeti na rješavanje Međunarodnom centru za rješavanje investicijskih sporova (u daljnjem tekstu »Centar«), pomirenjem ili abritražom u skladu s Konvencijom o rješavanju investicijskih sporova između država i državljana drugih država, otvorene za potpisivanje u Washingtonu 18. ožujka 1965., svaki spor do kojeg dođe između ugovorne stranke i ulagatelja druge ugovorne stranke, a koji se tiče:
+(a) obveze koju je jedna ugovorna stranka preuzela prema ulagatelju druge ugovorne stranke u svezi ulaganja tog ulagatelja; ili
+(b) kršenja bilo kojeg prava datog ili stvorenog ovim Ugovorom, koje se odnosi na ulaganje tog ulagatelja.
+2. Kompanija koja je osnovana ili organizirana u skladu s važećim zakonima na teritoriju jedne ugovorne stranke i u kojoj je prije izbijanja spora većina dionica bila u vlasništvu ulagatelja druge ugovorne stranke, smatrat će se, u skladu s člankom 25 (2) (b) Konvencije, kompanijom druge ugovorne stranke.
+3. Ukoliko dođe do spora prema stavku 1., ugovorna stranka i zainteresirani ulagatelj nastojat će spor riješiti konzultacijama i pregovorima. Ako se spor na ovaj način ne riješi u roku od tri (3) mjeseca, stranka u sporu može pokrenuti postupak upućujući u tom smislu zahtjev generalnom tajniku Centra, kako je navedeno u člancima 28. i 36. Konvencije, pod uvjetom da zainteresirani ulagatelj nije podnio spor na rješavanje sudu ili upravnom sudu ili agencijama nadležne sudske vlasti ugovorne stranke koja je stranka u sporu.
+4. Arbitražna odluka konačna je i obvezujuća za obje stranke u sporu. Svaka ugovorna stranka dužna je izvršiti arbitražnu odluku prema propisima nacionalnog prava.
+5. Ugovorna stranka koja je stranka u sporu neće navesti kao prigovor, obranu ili pravo na protutražbinu, u bilo kojoj fazi postupka ili provedbene odluke, činjenicu da je ulagatelj koji je druga stranka u sporu, primio ili će primiti, na temelju ugovora o osiguranju ili garanciji, odštetu ili drugu naknadu za sve ili dio svojih gubitaka ili šteta.
+6. Nijedna ugovorna stranka neće voditi spor diplomatskim kanalima, ako je isti podnesen na rješavanje Centru, osim u slučaju da:
+(a) generalni tajnik Centra ili komisija za pomirenje ili arbitražni sud koji je osnovao Centar, odluči da spor ne spada pod sudsku nadležnost Centra; ili
+(b) druga ugovorna stranka ne prihvati ili ne provede presudu koju je donio arbitražni sud.
