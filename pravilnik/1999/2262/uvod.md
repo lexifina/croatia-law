@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 2. i članka 42. stavka 3. Zakona o veterinarskim lijekovima i veterinarsko-medicinskim proizvodima ("Narodne novine", broj 79/98), ministar poljoprivrede i šumarstva donosi
