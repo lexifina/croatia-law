@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Vlasnici ili korisnici poljoprivrednog zemljišta te vlasnici tvari za proizvodnju alkohola ili alkoholnih pića koji alkohol ili alkoholna pića proizvode za vlastite potrebe smatraju se prema odredbi članka 7. stavak 1. Zakona proizvođačima alkohola ili alkoholnih pića i to za količine koje prelaze 20 litara apsolutnog alkohola godišnje po poljoprivrednom domaćinstvu ili domaćinstvu.
+(2) Osobe iz stavka 1. ovoga članka dostavljaju nadležnoj carinarnici, godišnju prijavu o proizvedenoj količini alkohola ili alkoholnih pića do 31. siječnja tekuće godine za proteklu godinu na Obrascu GP-A koji je sastavni dio ovoga Pravilnika.
+(3) Fizičke osobe iz članka 7. stavka 1. Zakona, koje proizvode alkohol i alkoholna pića i stavljaju ga u promet, smatraju se poreznim obveznicima za sve isporučene količine alkohola i alkoholnih pića kao i za količine upotrijebljene za vlastitu potrošnju iznad količine propisane u stavku 1. ovoga članka.
+(4) Porezni obveznici - fizičke osobe iz stavka 3. ovoga članka dostavljaju podatke na obrascima iz članka 13., 14. i 15. ovoga Pravilnika.
