@@ -1,0 +1,3 @@
+# Članak 7.
+ODLUČIVANJE O LOKACIJI
+U okviru svoga pravnog sustava stranka porijekla će, s ciljem smanjenja rizika za stanovništvo i okoliš svih pogođenih stranaka, težiti utvrđivanju politike o smještaju novih opasnih djelatnosti i o značajnim izmjenama na postojećim opasnim djelatnostima. U okviru svojih pravnih sustava pogođene će stranke, s ciljem najvećeg mogućeg smanjenja rizika, težiti utvrđivanju politike glede razvoja događaja od značenja za područja koja mogu biti pogođena prekograničnim učincima industrijske nesreće koja je posljedica neke opasne djelatnosti. U izradi i utvrđivanju tih politika stranke će uzeti u obzir točke navedene u Dodatku V., stavku 2., podstavak (1) do (8) i Dodatku VI. ovom tekstu.

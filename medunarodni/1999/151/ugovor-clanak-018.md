@@ -1,0 +1,13 @@
+# Članak 18.
+KONFERENCIJA STRANAKA
+1. Predstavnici stranaka će sačinjavati Konferenciju stranaka ove Konvencije i redovito održavati sastanke. Prvi sastanak Konferencije stranaka bit će zakazan najkasnije godinu dana nakon stupanja ove Konvencije na snagu. Nakon toga će se sastanci Konferencije stranaka održavati najmanje jednom godišnje ili na pisani zahtjev neke stranke, pod uvjetom da, u roku od šest mjeseci nakon što tajništvo proslijedi zahtjev, isti podrži najmanje jedna trećina stranaka.
+2. Konferencija stranaka će:
+(a) pratiti provođenje ove Konvencije;
+(b) obavljati savjetodavnu funkciju s ciljem jačanja sposobnosti stranaka za sprječavanje, pripravnost i odgovaranje na prekogranične učinke industrijskih nesreća, te ostvarivanja mogućnosti za pružanje tehničke pomoći i savjeta strankama suočenim s industrijskim nesrećama;
+(c) uspostavljati, prema potrebi, radne skupine i ostale prikladne mehanizme za razmatranje problema vezanih uz provođenje i razvijanje ove Konvencije, te će u tu svrhu izraditi odgovarajuće studije i druge dokumente i dostaviti Konferenciji stranaka prijedloge na razmatranje;
+(d) obavljati ostale funkcije u skladu s odredbama ove Konvencije;
+(e) na prvom sastanku razmotriti i dogovorno usvojiti pravilnik za sastanke;
+3. U obavljanju svojih funkcija Konferencija će, kada bude smatrala potrebnim, također surađivati s ostalim odgovarajućim međunarodnim organizacijama.
+4. Konferencija stranaka će na svom prvom sastanku utvrditi program rada, posebice u svezi s točkama koje su sadržane u Dodatku XII. ovom tekstu. Konferencija stranaka će također odlučiti o metodi rada, uključujući korištenje državnih središta i suradnju s odgovarajućim međunarodnim organizacijama, te uspostavu sustava s ciljem olakšanja provedbe ove Konvencije, posebice glede međusobnoga pružanja pomoći u slučaju industrijske nesreće, oslanjajući se na pripadajuće postojeće djelatnosti u okviru odgovarajućih međunarodnih organizacija. Kao dio svog programa rada, Konferencija stranaka će razmatrati postojeća državna, regionalna i međunarodna središta te ostala tijela i programe namijenjene usuglašavanju informacija i napora u sprječavanju, pripravnosti i odgovaranju na industrijske nesreće, s ciljem da se utvrdi koje su dodatne međunarodne ustanove ili središta potrebna za provođenje zadataka navedenih u Dodatku XII.
+5. Konferencija stranaka će na svom prvom sastanku početi s razmatranjem postupaka za osiguranje povoljnijih uvjeta za razmjenu tehnologija namijenjenih sprječavanju, pripremanju i odgovaranju na učinke industrijskih nesreća.
+6. Konferencija stranaka će prihvatiti smjernice i mjerila kojima se olakšava prepoznavanje opasnih djelatnosti za potrebe ove Konvencije.

@@ -1,0 +1,7 @@
+# Članak 3.
+OPĆE ODREDBE
+1. Stranke će, uzimajući u obzir napore koji su već učinjeni na državnoj i međunarodnoj razini, poduzeti odgovarajuće mjere i surađivati u okviru ove Konvencije, kako bi ljude i okoliš zaštitile od industrijskih nesreća sprječavanjem tih nesreća u najvećoj mogućoj mjeri, smanjenjem njihove učestalosti i ozbiljnosti, te ublažavanjem njihovih posljedica. U tu svrhu primjenjivat će se mjere sprječavanja, pripravnosti i odgovaranja, uključujući i mjere obnove.
+2. Razmjenom informacija, pružanjem savjeta i ostalim mjerama suradnje stranke će, bez nepotrebnoga odugovlačenja, razvijati i provoditi politiku i strategiju smanjenja rizika od industrijskih nesreća i unapređenja mjera sprječavanja, pripravnosti i odgovaranja na iste, uključujući mjere obnove, uvažavajući napore koji su već učinjeni na državnoj i međunarodnoj razini, kako bi se izbjeglo nepotrebno podvostručavanje.
+3. Stranke trebaju osigurati obvezu operatera na poduzimanje svih mjera potrebnih za sigurno obavljanje opasne djelatnosti i sprječavanje industrijskih nesreća.
+4. U svrhu provođenja odredaba ove Konvencije, stranke će poduzeti odgovarajuće zakonodavne, upravne, izvršne i financijske mjere za sprječavanje, pripravnost i odgovaranje na industrijske nesreće.
+5. Odredbe ove Konvencije neće unaprijed utjecati ni na kakve obveze stranaka prema međunarodnom pravu, u svezi s industrijskim nesrećama i opasnim djelatnostima.

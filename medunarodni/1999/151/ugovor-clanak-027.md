@@ -1,0 +1,3 @@
+# Članak 27.
+POTPISIVANJE
+Ova Konvencija bit će otvorena za potpisivanje od 17. do zaključno 18. ožujka 1992. u Helsinkiju, a nakon toga u sjedištu Ujedinjenih naroda u New Yorku, do 18. rujna 1992. za države članice Gospodarske komisije za Europu, kao i za države koje imaju savjetodavni status pri Gospodarskoj komisiji za Europu, sukladno sa stavkom 8. Rezolucije br. 36 (IV.) Ekonomskog i socijalnog vijeća, od 28. ožujka 1947., te za organizacije regionalne gospodarske integracije koje sačinjavaju suverene države članice Gospodarske komisije za Europu i na koje su države članice prenijele ovalsti u svezi s pitanjima kojima se bavi ova Konvencija, uključujući i ovlasti za sklapanje ugovora u svezi s tim pitanjima.

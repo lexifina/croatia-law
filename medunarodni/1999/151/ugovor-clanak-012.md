@@ -1,0 +1,4 @@
+# Članak 12.
+MEĐUSOBNA POMOĆ
+1. Ako stranka zatreba pomoć u slučaju industrijske nesreće, ona može tu pomoć zatražiti od druge stranke, navodeći opseg i vrstu tražene pomoći. Stranka kojoj je zahtjev za pomoć upućen, treba odmah odlučiti i informirati stranku podnositelja zahtjeva je li u stanju pružiti traženu pomoć, te navesti opseg i uvjete pomoći koju može pružiti.
+2. Zainteresirane stranke će surađivati kako bi omogućile neposredno pružanje pomoći koja je dogovorena prema stavku 1. ovoga članka, uključujući, gdje je to prikladno, djelatnosti kojima se posljedice i utjecaji industrijske nesreće mogu svesti na najmanju mjeru, te kako bi pružile općenitu pomoć. Tamo gdje stranke nemaju dvostrane ili mnogostrane sporazume koji se odnose na dogovor o pružanju međusobne pomoći, pomoć će biti pružena u skladu s Dodakom X. ovom tekstu, ukoliko se stranke ne dogovore drugačije.

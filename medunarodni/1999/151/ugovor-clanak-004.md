@@ -1,0 +1,7 @@
+# Članak 4.
+PREPOZNAVANJE, KONZULTIRANJE I
+SAVJETOVANJE
+1. U svrhu poduzimanja mjera sprječavanja i uspostavljanja mjera pripravnosti, stranka porijekla će poduzeti mjere, kako je to prikladno, kojima će se prepoznati opasne djelatnosti unutar njezine jurisdikcije i osigurati da pogođene stranke budu obaviještene o svakoj takvoj predloženoj ili postojećoj djelatnosti.
+2. Zainteresirane stranke će, na inicijativu bilo koje od stranaka, sudjelovati u razgovorima o prepoznavanju takvih opasnih djelatnosti koje, u razumnoj mjeri, mogu izazvati prekogranične učinke. Ako se zainteresirane stranke ne slažu u tome je li neka djelatnost opasna, svaka od njih može, ukoliko se zainteresirane stranke ne dogovore o nekom drugom načinu rješavanja toga pitanja, proslijediti problem istražnom povjerenstvu, sukladno s odredbama iz Dodatka II. ovom tekstu, zbog savjeta.
+3. Stranke će, s obzirom na predložene ili postojeće opasne djelatnosti primjenjivati postupke utvrđene Dodatkom III. ovom tekstu.
+4. Kad opasna djelatnost podliježe procjeni utjecaja na okoliš, sukladno s Konvencijom o procjeni utjecaja na okoliš preko državnih granica, a rečena procjena obuhvaća prosudbu prekograničnih učinaka industrijskih nesreća uslijed neke opasne djelatnosti koja se obavlja sukladno s uvjetima ove Konvencije, konačna odluka koja se donosi u svrhu Konvencije o procjeni utjecaja na okoliš preko državnih granica, treba ispunjavati odgovarajuće zahtjeve ove Konvencije.
