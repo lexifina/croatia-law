@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 5. Pravilnika mijenja se i glasi:
+Kalkulativni normativ je realni normativ uvećan za vrijeme čekanja vozila (realna neiskoristivost kapaciteta), vrijeme zastoja u radu stanice i drugih uobičajenih, u pravilu vremenski odredivih elemenata koji su uključeni u rad i ne predstavljaju produktivno radno vrijeme, a izračunava se tako da se vrijednost teorijskog normativa za sve poslove koji se obavljaju u stanici za tehnički pregled vozila, izuzev poslova registracije vozila, ovjere prometne dozvole i poslova koji tome prethode, podijeli sa 0,65 (kalkulativni normativ = teorijski normativ/0,65).
+Za poslove registracije vozila, ovjere prometne dozvole i poslova koji tome prethode kalkulativni normativ izračunava se tako da se vrijednost teorijskog normativa podijeli sa 0,75 (kalkulativni normativ = teorijski normativ/0,75).«
