@@ -1,0 +1,1 @@
+Odluka o izmjenama Odluke o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. studenoga 1 990
