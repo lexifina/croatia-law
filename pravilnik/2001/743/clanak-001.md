@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu i uvjetima upisa u upisnike poljoprivrednog sjemena i poljoprivrednog sadnog materijala (»Narodne novine« br. 40/99 i 31/00), u članku 31. stavku 1. u točki 3. dodaju se nova rečenica koja glasi: »Laboratoriji koji utvrđuju kakvoću sjemena, odnosno zdravstveno stanje pšenice, ječma, raži, triticale i trava iz rodova Aegilops, Agropyron, Arrhenatherum, Bromus, Dactylis, Festuca, Lolium i Poa, a koji su domaćini smrdljive snijeti, moraju imati i dodatnu minimalnu opremu i to: centrifugu, mućkalicu i hemocitometar«.
