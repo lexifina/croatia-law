@@ -1,0 +1,5 @@
+# Članak 9.
+Odgovarajućom stručnom spremom prema odredbama ovoga pravilnika i propisa spomenutih u prethodnome članku smatra se završen odgovarajući jednopredmetni ili dvopredmetni studij ili smjer za stjecanje visoke stručne spreme.
+Odgovarajućom stručnom spremom za nadzor nad radom stručnih učitelja koji izvode teoretsku nastavu smatra se srednja ili viša stručna sprema samo ako je to najviši stupanj naobrazbe u tom stručnom ili umjetničkom području.
+Odgovarajućom stručnom spremom za nadzor nad radom odgojitelja u dječjem vrtiću odnosno učitelja razredne nastave u osnovnoj školi smatra se viša stručna sprema propisana za obavljanje poslova odgojitelja odnosno poslova učitelja razredne nastave, ako za nadzor nije moguće osigurati osobu koja ima visoku stručnu spremu utvrđenu u članku 2. odnosno članku 4. ovoga pravilnika i ako osoba s višom stručnom spremom ima zvanje odgojitelja mentora ili odgojitelja savjetnika, odnosno zvanje učitelja mentora ili učitelja savjetnika.
+Osobe sa stručnom spremom iz stavka 2. i 3. ovoga članka ovlašćuju se za nadzor bez prijama u državnu službu.
