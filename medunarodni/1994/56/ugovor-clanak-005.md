@@ -1,0 +1,4 @@
+# Članak 5.
+a) Agencija će poduzeti sve mjere opreza kako bi se zaštitile komercijalne i industrijske tajne i druge povjerljive informacije koje ona saznaje provedbom ovog Sporazuma.
+b) (i) Agencija neće objaviti ni dostaviti bilo kojoj državi, organizaciji ili osobi bilo koju informaciju do koje je došla provodeći ovaj Sporazum, osim što se specifične informacije koje se odnose na njegovu provedbu mogu dati Vijeću guvernera Agencije (u daljnjem tekstu: Vijeće) i onim članovima osoblja Agencije kojima je takvo saznanje potrebno zbog njihovih službenih dužnosti u vezi s garancijama, no i to samo u potrebnoj mjeri da Agencija ispuni svoje obveze u provedbi ovog Sporazuma.
+(ii) Sažete informacije o nuklearnom materijalu koji potpadaju pod garancije Agencije prema ovom Sporazumu mogu se objaviti na temelju odluke Vijeća, ako se neposredno zainteresirane države s time slože.

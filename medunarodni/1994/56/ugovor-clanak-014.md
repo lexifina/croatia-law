@@ -1,0 +1,9 @@
+# Članak 14.
+Ako se Hrvatska namjerava koristiti svojim diskrecionim pravom da upotrijebi nuklearni materijal za koji se traži primjena garancija prema ovom Sporazumu za nuklearnu djelatnost koja ne zahtijeva primjenu garancija prema ovom Sporazumu, primjenjivat će se ovaj postupak:
+(a) Hrvatska će izvijestiti Agenciju o toj djelatnosti uz jasnu napomenu:
+(i) da upotreba nuklearnog materijala za neku nezabranjenu vojnu djelatnost neće biti u sukobu s obvezom koju - je Hrvatska mogla dati, a u odnosu prema kojoj se primje
+njuju Agencijine garancije, da će se nuklearni materijal upotrijebiti samo za mirnodopsku nuklearnu djelatnost; (ii) da se tijekom neprimjenjivanja garancija nuklearni
+materijal neće upotrijebiti za proizvodnju nuklearnog oružja ili drugih nuklearnih eksplozivnih ur~daja.
+(b) Hrvatska i Agencija sporazumjet će se da se garancije predviđene ovim Sporazumom neće primjenjivati samo za vrijeme dok nuklearni materijal bude u takvoj upotrebi. Aranžmanom će se odrediti, u granicama mogućnosti, razdoblje ili okolnosti za vrijeme kojih se garancije neće primjenjivati. U svakom slučaju, garancije predviđene ovim Sporazumom primjenjivat će se odmah nakon što se nuklearni materijal ponovno uvede u mirnodopsku nuklearnu djelatnos1. Agencija će stalno biti obavještavana o ukupnoj kolićini i sastavu takvog nuklearnog materijala na koji se ne primjenjuju garancije u Hrvatskoj, i o svakom izvozu takvog materijala;
+(c) Svaki sporazum utvrdit će se u ugovoru s Agencijom. Takav ugovor će se sklopiti što je moguće prije i odnosit će se samo na takve stvari kao što su, inter alia, privremene i postupovne odredbe te aranžmani o izvješćivanju, ali neće zahtijevati bilo kakvo odobravanje ni povjerljive podatke o vojnoj djelatnosti i upotrebi nuklearnog materijala u njoj.
+FINANCIJE

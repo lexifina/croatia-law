@@ -1,0 +1,3 @@
+# Članak 12.
+Hrvatska će unaprijed obavijestiti Agenciju o namjeravanom iznošenju nuklearnog materijala koji potpada pod garancije prema ovom Sporazumu iz Hrvatske, u skladu s odredbama izloženima u Dijelu II. ovog Sporazuma. Agencija će okončati primjenu garancija na nuklearni materijal prema ovom Sporazumu kada Država primateljica, bude preuzela odgovornost za njega, kao što je predviđeno u Dijelu II. ovog Sporazuma. Agencija će voditi evidenciju o svakom prijenosu i, gdje bude odgovaralo, o ponovnoj primjeni garancija na preneseni nuklearni materijal.
+Odredbe o nuklearnom materijalu što ga treba upotrljebiti za nenuklearne djelatnosti
