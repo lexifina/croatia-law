@@ -1,0 +1,5 @@
+# Članak 27.
+Zapovjednik trgovačkog ili putničkog broda u medunarodnom prometu koji doplovi u obalno more Republike Hrvatske morskim ili riječnim putem dužan je uploviti u luku, odnosno riječno pristanište u kojem se nalazi pomorski ili riječni granični prijelaz najkraćim uobičajenim plovnim putem.
+Zapovjednik strane jahte ili stranog čamca namijenjenih razonodi ili športu koji doplovi morskim ili riječnim putem u obalno more Republike Hrvatske dužan je nakon uplovljavanja najkraćim plovnim putem uploviti u najbližu luku otvorenu za međunarodni promet, poradi obsvljanja, granične kontrole.
+Pristajanje plovila u međunarodnom prometu izvan pomorskog ili riječnog graničnog prijelaza, osim u slučaju više sile, odobrava nadležna lučka pristanišna kapetanija u sporazumu sa graničnom policijom.
+Zapovjednik domaćeg i stranog plovila po dolasku iz inozemstva i po odlasku u inozemstvo dužan je predati graničnoj policiji prijepis spiska članova posade i spisak putnika na plovilu ili na drugi prikladan način sačinjen pregled putnika i članova posade, te mu dati na uvid putne isprave članova posade i putnika.

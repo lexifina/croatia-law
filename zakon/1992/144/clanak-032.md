@@ -1,0 +1,3 @@
+# Članak 32.
+Pravne osobe koje koriste luke odnosno riječna ili zrakoplovna pristaništa, željeznička transportna poduzeća, te vlasnik odnosno korisnik prometnog sredstva ili osoba koja upravlja prijevoznim sredstvom dužni su za vrijeme obavljanja kontrole prelaska državne granice na graničnom prijelazu, odnosno u prometnom sredstvu osigurati uvjete za rad djelatnika koji obavljaju graničnu kontrolu.
+Pravna osoba koja pruža aerodromske usluge i željezničko-transportno poduzeće, odnosno zapovjednik plovila i vozač motornog vozila dužni su osigurati da putnici ne napuste granični prijelaz prije izvršene granične kontrole, odnosno da se nakon što se završi granična kontrola ne ukrcaju ili iskrcaju druge osobe bez odobrenja granične policije.

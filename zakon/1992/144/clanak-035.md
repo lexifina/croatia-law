@@ -1,0 +1,7 @@
+# Članak 35.
+Hrvatski državljanin (u daljnjem tekstu: državljanin) koji u Republici Hrvatskoj ima prebivalište može u zemlju unijeti oružje i streljivo ako za to ima odobrenje nadležnog tijela, osim oružja i streljiva koje se prema propisima o oružju može nabavljati i bez odobrenja.
+Granična policija na odobrenju iz stavka 1. ovoga članka potvrđuje unos oružja i streljiva i o tome izvješćuje nadležno tijelo.
+Vlasnik oružja dužan je u roku od 8 dana o unosa oružja u zemlju kod nadležnog tijela podnijeti zahtjev za registraciju oružja.
+Ako za oružje i streljivo iz stavka 1. ovoga članka državljanin s odobrenim boravkom u inozemstvu nema odobrenja nadležnoga tijela, isto će se oduzeti i o njegovom trošku dostaviti nadležnom tijelu prema mjestu prebivališta odnosno prema posljednjem prebivalištu prije odlaska na stalni boravak u inozemstvo:
+Ako državljanin s boravkom u inozemstvu ne zatraži izdavanje isprave za nabavljanje oružja i streljiva ili ako nadležno tijelo odbije zahtjev za nabavljanje oružja i streljiva, odredit će se rok za vraćanje oružja i streljiva u inozemstvo.
+Ako državljanin s boravkom u inozemstvu u roku određenom u aktu nadležnog tijela iz stavka 5. ovoga članka ne vrati oružje i streljivo u inozemstvo, predat će se pravnoj ili fizičkoj osobi ovlaštenoj za promet oružja i streljiva poradi prodaje. Novčani iznos dobiven prodajom, a umanjen za troškove prodaje uručit će se vlasniku oružja i streljiva.
