@@ -1,0 +1,2 @@
+# Članak 29.
+Iznimno od odredbe članka 12. stavka 1. i članka 99. stavak 1. Zakona o neposrednim porezima ("Narodne novine", br.19/90., 28/90. i 14/91.) za 1992. godinu porez na dobit u paušalnom iznosu, porez na prihod od poljoprivredne djelatnosti, porez na prihod od imovine prema ostvarenom prihodu i u paušalnom iznosu te porez na nasljedstva i darove razrezuje se po općinskoj odluci o neposrednim porezima koja će biti na snazi 29. veljače 1992. godine.
