@@ -1,0 +1,2 @@
+# Članak 8.
+Naredbodavca za izvršenje proračuna, odnosno odluka o financiranju javnih potreba prema ovoj Uredbi u korist raćuna općina, gradova, odnosno Grada Zagreba, sporazumno određuju općinski načelnici, odnosno gradonačelnici. Ako se sporazum iz stavka 1. ovoga članka ne postigne u roku od 8 dana, naredbodavca određuje župan. U slučaju nemogućnosti određivanja naredbodavca prema odredbama stavaka 1. i 2. ovoga članka, naredbodavca određuje ministar financija.

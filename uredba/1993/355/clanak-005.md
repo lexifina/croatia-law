@@ -1,0 +1,2 @@
+# Članak 5.
+Upravne poslove iz samoupravnoga djelokruga novih općina, gradova i Grada Zagreba obavljat će organi uprave i službe dosadašnjih,općina i Grada Zagreba do konačnog utvrđivanja nadležnosti I razgraničenja poslova državne uprave i lokalne samouprave. Sredstva za rad organa uprave i službi iz stavka 1. ovoga članka doznačivat će se preko računa novih općina, gradova i Grada Zagreba, u kojima ti organi uprave i službe imaju sjedište.

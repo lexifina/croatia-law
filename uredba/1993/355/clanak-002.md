@@ -1,0 +1,2 @@
+# Članak 2.
+Proračuni dosadašnjih općina doneseni za 1999., primjenjivat će se za sve opčine i gradove koji su nastali novim ustrojem na njihovu području. Ako dosadašnje skupštine općina ne donesu proračun za 1993. prije prestanka svoga rada, Vlada Republike Hrvatske donijet će odluku o privremenom financiranju te općine, na prijedlog izvršnoga vijeća te općine. Ako se ne donese odluka po postupku iz stavka 2. ovog članka, odluku donosi Vlada Republike Hrvatske na prijedlog župana.
