@@ -1,0 +1,7 @@
+# Članak 11.
+Naslov ispred članka 21. i članak 21. mijenjaju se i glase:
+»6. UPRAVA ZA INFORMIRANJE I OBRAZOVANJE
+Uprava za informiranje i obrazovanje priprema i provodi komunikacijsku strategiju za obavještavanje javnosti o raznim aspektima integracije Republike Hrvatske u Europsku uniju; obavlja poslove razmjene i prijenosa informacija unutar Ministarstva te između Ministarstva i radnih tijela Vlade, tijela državne uprave te tijela lokalne i područne (regionalne) samouprave kao i nevladinih organizacija; obavlja poslove upoznavanja i informiranja javnosti o Europskoj uniji i Vijeću Europe; u suradnji s drugim nadležnim tijelima državne uprave utvrđuje potrebe za obrazovanjem i usavršavanjem u području europskih integracija, organizira i koordinira programe obuke i usavršavanja za europske integracije (predavanja, seminari, konferencije, tečajevi, kraći stručni boravci u inozemnim institucijama); priprema i provodi program stipendiranja poslijediplomskih europskih studija u inozemstvu, te poslijediplomskih i specijalističkih studija u zemlji, a u suradnji s drugim tijelima državne uprave planira zapošljavanje stipendista Vlade Republike Hrvatske iz područja europskih integracija; potiče i podupire uvođenje predmeta koji se odnose na pitanja europskih integracija u programe hrvatskih škola, visokih učilišta i sveučilišta i osnivanje specijaliziranih poslijediplomskih europskih studija.
+U Upravi za informiranje i obrazovanje ustrojavaju se:
+1. Odjel za informiranje
+2. Odjel za obrazovanje.«

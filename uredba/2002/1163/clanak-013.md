@@ -1,0 +1,5 @@
+# Članak 13.
+Naslov ispred članka 23. i članak 23. mijenjaju se i glase:
+»Odjel za obrazovanje
+Članak 23.
+Odjel za obrazovanje u suradnji s ostalim tijelima državne uprave utvrđuje potrebe za usavršavanjem u području europskih integracija, što uključuje razvoj specifičnih znanja, vještina i sposobnosti, sve s ciljem što boljeg prilagođavanja i razvitka državne uprave Republike Hrvatske za procese integriranja Republike Hrvatske u Europsku uniju; izrađuje plan usavršavanja i organizira i koordinira programe obuke i usavršavanja za europske integracije (predavanja, seminari, konferencije, tečajevi, kraći stručni boravci u inozemnim institucijama); organizira dodjeljivanje stipendija za poslijediplomske europske studije u zemlji i inozemstvu kao i za specijalističke studije u zemlji, te potiče i podupire uvođenje predmeta koji se odnose na pitanja europskih integracija u programe hrvatskih škola, visokih učilišta i sveučilišta i osnivanje specijaliziranih poslijediplomskih europskih studija; u suradnji s drugim tijelima državne uprave planira zapošljavanje stipendista Vlade Republike Hrvatske iz područja europskih integracija.«

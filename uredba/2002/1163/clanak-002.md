@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 3. stavak 1. mijenja se i glasi:
+»Kabinet ministra je posebna ustrojstvena jedinica koja za ministra za europske integracije (u daljnjem tekstu: ministra) i njegovog zamjenika obavlja protokolarne poslove; poslove u svezi odnosa sa sredstvima javnog priopćavanja; poslove vezane za politička pitanja pridruživanja i pristupanja Republike Hrvatske Europskoj uniji, za europske integracije na županijskoj razini i odnose sa županijama, za odnose s Vladom Republike Hrvatske i Hrvatskim saborom, za organizaciju rada i unutarnju koordinaciju, informatizaciju, sustav kvalitete, unutarnju kontrolu, pravna i međunarodno-pravna pitanja; te druge stručne i administrativne poslove.«

@@ -1,0 +1,3 @@
+# Članak 8.
+Članak 13. mijenja se i glasi:
+»Odsjek za provođenje mjera za provedbu procesa, institucionalnu suradnju, dokumentaciju i stručne informacije prati napredak država kandidata za članstvo u Europskoj uniji u procesu zakonodavne prilagodbe i uključivanja u Europsku uniju; predlaže metodologiju usklađivanja zakonodavstva; daje stručnu pomoć radnim tijelima Vlade Republike Hrvatske, tijelima državne uprave i tijelima lokalne i područne (regionalne) samouprave u usklađivanju pravnog sustava Republike Hrvatske s pravnim sustavom Europske unije; surađuje s domaćim i inozemnim stručnim savjetnicima; vodi dokumentaciju propisa Europske unije, usklađenih propisa Republike Hrvatske te vodi baze podataka o usklađivanju pravnog sustava.«
