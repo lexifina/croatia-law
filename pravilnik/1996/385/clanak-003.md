@@ -1,0 +1,3 @@
+# Članak 3.
+Paušalna naknada iznosi 225,00 kuna bruto dnevno sucu, a 100,00 kuna bruto dnevno službeniku ili namješteniku u radne dane, odnosno 450,00 kuna bruto dnevno sucu, a 200,00 kuna bruto dnevno službeniku ili namješteniku u dane tjednog odmora, neradnog dana ili državnog blagdana, ako dežurstvo obavlja u zgradi prekršajnog suda.
+Paušalna naknada iznosi 115,00 kuna bruto dnevno sucu, a 50,00 kuna bruto dnevno službeniku ili namješteniku u radne dane, odnosno 230,00 kuna bruto dnevno sucu, a 100,00 kuna bruto dnevno službeniku ili namješteniku u dane tjednog odmora, neradnog dana ili državnog blagdana, ako se dežurstvo obavlja na način da se nalazi u stalnoj pripravnosti kod kuće odnosno u stanu.
