@@ -1,0 +1,14 @@
+1. Osnovice za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za produženo mirovinsko i invalidsko osiguranje iz članka 98. a u svezi s člankom 43. st.1. i 2. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, određuju se prema stupnju stručne spreme i to u dinarskoj protuvrijednosti DEM, prema srednjem tečaju Narodne banke Hrvatske, prvoga dana mjeseca u kojem i dospijeva uplata doprinosa i to:
+1) za osobe koje imaju stručnu spremu sedmog ili osmog stupnja (visoka stručna sprema) u dinarskoj protuvrijednosti od 120 DEM,
+2) za osobe koje imaju stručnu spremu petog ili šestog stupnja (viša stručna sprema odnosno VKV radnik), u dinarskoj protuvrijednosti 95 DEM,
+3) za osobe koje imaju stručnu spremu trećeg ili četvrtog stupnja (srednja stručna sprema, odnosno KV radnik), u dinarskoj protuvrijednosti od 75 DEM,
+4) za osobe koje imaju stručnu spremu prvog ili drugog stupnja (niža stručna sprema, odnosno PKV radnik), u dinarskoj protuvrijednosti od 60 DEM, 5) za osobe bez stručne spreme, u dinarskoj protvrijednosti od 50 DEM.
+2. Doprinos za mirovinsko i invalidsko osiguranj osoba iz točke 1. ove odluke obračunava se i plaća prema zakonom utvrđenoj stopi doprinosa za mirovinsko i invalidsko osiguranje za osiguranike koji su sami obveznici plaćanja doprinosa na pripadajuću osnovicu osiguranja.
+3. U staž osiguranja računaju se samo ona razdoblja produženog osiguranja za koje je plaćen odgovarajući doprinos za produženo mirovinsko i invalidsko osiguranje.
+4. Za razdoblje koje prethodi mjesecu u kojem je pokrenut postupak za utvrđivanje svojstva osiguranika, doprinos za mirovinsko i invalidsko osiguranje obračunava se i plaća prema stručnoj spremi, osnovici i stopi doprinosa u trenutku prijave osiguranika na produženo osiguranje.
+5. Osnovice za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba iz točke 4. ove odluke utvrđuje se u skladu s Odlukom s osnovicama osiguranja koje su se primjenjivale u razdobljima za koje se to osiguranje priznaje.
+6. Doprinos za produženo mirovinsko i invalidsko osiguranje plaća se Republičkom fondu mirovinskog i invalidskog osiguranja radnika Hrvatske na osnovi rješenja područne organizacijske jedinice Republičkog fonda kod koje je osiguranik bio posljednji put osiguran, prije prestanka obveznog osiguranja.
+7. Doprinos se plaća u roku od 15 dana od dostave rješenja.
+8. Obračunati doprinosi iskazani u dinarskoj protuvrijednosti DEM plaćaju se na dan dospijeća. Obveznik plaćanja doprinosa koji doprinose ne uplati u roku dospjelosti, dužan je platiti kaznene kamate na svotu doprinosa koju nije pravodobno uplatio.
+9. Usklađivanje svota iz točke 1. ove odluke obavljat će se tijekom godine po službenoj dužnosti, bez donošenja rješenja.
+10. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjivat će se od 1. siječnja 1994.
