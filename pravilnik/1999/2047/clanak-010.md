@@ -1,0 +1,4 @@
+## Prijenos odgovornosti
+# Članak 10.
+(1) Prijenos odgovornosti za kontrolu zrakoplova s jedne nadležne kontrole zračnog prometa na drugu, može se provoditi između dva centra oblasne kontrole, između centra oblasne kontrole i prilazne kontrole, između prilazne kontrole i aerodromskog kontrolnog tornja te između pojedinih radnih mjesta i/ili sektora unutar iste organizacijske jedinice na temelju odredbi ovoga Pravilnika, sporazuma o postupcima koordinacije i/ili operativnih uputa za rad.
+(2) Prijenos odgovornosti za kontrolu zrakoplova iz stavka 1. ovoga članka, ne smije se prenositi s jedne nadležne kontrole zračnog prometa na drugu bez pristanka nadležne kontrole zračnog prometa koja prihvaća prijenos odgovornosti, uzimajući u obzir utvrđene sporazume o postupcima koordinacije i druge operativne postupke.

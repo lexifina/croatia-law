@@ -1,0 +1,7 @@
+## Glava 4.
+## UZBUNJIVANJE
+## Opseg usluge
+# Članak 17.
+(1) Obavljanjem usluge uzbunjivanja izvještava se i pomaže nadležnim tijelima u pokretanju potrage i spašavanja zrakoplova. Uzbunjivanje se obavlja za sve zrakoplove koji podliježu kontroli zračnog prometa, ostale zrakoplove koji su predali plan leta ili su na drugi način poznati organizacijskim jedinicama HKZP koje pružaju operativne usluge kontrole zračnog prometa i zrakoplove kojima prijeti nezakonito ometanje ili su predmetom nezakonitog ometanja.
+(2) Centar oblasne kontrole zračnog prometa je središnja točka prikupljanja svih potrebnih informacija o zrakoplovu u nuždi koji leti u području letnih informacija ili u kontroliranom području u nadležnosti tog centra. Centar oblasne kontrole zračnog prometa dužan je te informacije prosljeđivati Središtu za koordinaciju potrage i spašavanja zrakoplova.
+(3) O zrakoplovu koji se nalazi u stanju nužde, a nalazi se pod kontrolom aerodromskog kontrolnog tornja ili nadležne kontrole koja obavlja poslove i zadaće prilazne kontrole zračnog prometa, mora se neodložno obavijestiti nadležni centar oblasne kontrole zračnog prometa, ako je priroda nužde takva da je izvješćivanje neophodno. Kad to zahtijeva hitnost situacije, aerodromski kontrolni toranj, odnosno nadležna kontrola koja obavlja poslove i zadaće prilazne kontrole zračnog prometa, mora prvo izvijestiti one nadležne aerodromske službe koje mogu neodložno pružiti potrebnu pomoć i poduzeti sve potrebne mjere za njihovo uzbunjivanje.
