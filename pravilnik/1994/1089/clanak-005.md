@@ -1,0 +1,6 @@
+# Članak 5.
+Za obavljanje stručnih, administrativno-financijskih i pomoćno-tehničkih poslova u Hrvatskoj zajednici tehničke kulture i nacionalnim savezima tehničke kulture (plaće djelatnika i materijalni troškovi) osiguravaju se sredstva u državnom proračunu u cjelokupnom iznosu u skladu s mjerilima i kriterijima koji vrijede za sve korisnike državnog proračuna a prema sistematizaciji radnih mjesta u Hrvatskoj zajednici tehničke kulture i nacionalnim savezima s kojom se suglasilo Ministarstvo kulture i prosvjete.
+Programski i materijalni troškovi Hrvatske zajednice tehničke kulture u obnašanju zadaća iz članka 31. stavka 2. Zakona o tehničkoj kulturi osiguravaju se u cijelosti iz sredstava proračuna.
+Programski troškovi obnašanja javnih ovlasti povjerenih Hrvatskoj zajednici tehničke kulture. Hrvatskom aeroklubu, Hrvatskom savezu inovatora, Hrvatskom radioamaterskom savezu i Hrvatskom ronilačkom savezu (su)financiraju se do 100% troškova iz sredstava proračuna..
+Programski troškovi posebnih programa za potrebe civilne zaštite i obrane (su)financiraju do 100% troškova iz sredstava proračuna.
+III. ROKOVI ZA UTVRĐIVANJE PROGRAMA ZA DOVOLJAVANJA JAVNIH POTREBA REPUBLIKE HRVATSKE U TEHNIČKOJ KULTURI, OSIGURAVANJE POTREBA REPUBLIKE HRVATSKE U TEHNIČKOJ KULTURI, OSIGURAVANJE SREDSTAVA, NAČIN NJIHOVA RASPOREĐIVANJA I DODJELE, TE NAČIN PRAČENJA NJIHOVA KORIŠTENJA

@@ -1,0 +1,3 @@
+# Članak 2.
+Javne potrebe Republike Hrvatske u tehničkoj kulturi za koje se sredstva osiguravaju i iz državnog proračuna jesu djelatnosti, aktivnosti i poslovi u svezi s djelovanjem Hrvatske zajednice tehničke kulture i nacionalnih saveza tehničke kulture, a utvrdene su člankom 18. Zakona o tehničkoj kulturi.
+Javne potrebe Republike Hrvatske u tehničkoj kulturi financiraju se sredstvima Hrvatske zajednice tehničke kulture i nacionalnih saveza ostvarenim vlastitom djelatnošću, prodajom usluga na tržištu, članarinom, donacijom i sredstvima iz državnog proračuna ili iz drugih izvora u skladu sa zakonom, temeljem kriterija utvrđenih ovim pravilnikom.

@@ -1,0 +1,2 @@
+# Članak 9.
+U cilju praćenja korištenja dodijeljenih sredstava Hrvatska zajednica tehničke kulture i nacionalni savezi tehničke kulture dužni su Ministarstvu kulture i prosvjete dostaviti polugodišnje (do 10. kolovoza) i godišnje (do 10. ožujka za prethodnu godinu) izvješće o ostvarenju programa javnih potreba Republike Hrvatske u tehničkoj kulturi i u drugim slučajevima kada to zatraži Ministarstvo.
