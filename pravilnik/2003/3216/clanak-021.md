@@ -1,0 +1,6 @@
+# Članak 21.
+Prije početka polaganja stručnog ispita, tajnik Ispitnog povjerenstva utvrđuje identitet pristupnika i provjerava jesu li u prijavi za polaganje stručnog ispita navedeni svi podaci iz članka 20. stavka 1. ovoga Pravilnika, odnosno da li je pristupnik prisustvovao izvedbi 90 % programa izobrazbe, te je li za preostali dio izobrazbe svoj izostanak opravdao.
+Pristupnik može iz opravdanih razloga odustati od polaganja stručnog ispita, ali je obavezan o tome izvijestiti predsjednika Ispitnog povjerenstva najmanje tri dana prije dana određenog za polaganje stručnog ispita.
+Opravdanim razlozima za odustajanje od stručnog ispita smatra se bolest pristupnika odnosno smrt ili teža bolest članova njegove uže obitelji kao i druge nepredviđene okolnosti zbog kojih pristupnik ne može pristupiti polaganju stručnog ispita.
+O opravdanosti razloga za odustajanje od stručnog ispita na zahtjev pristupnika odlučuje predsjednik Ispitnog povjerenstva. Ako pristupnik ne opravda odustanak od stručnog ispita ili ako ne pristupi polaganju stručnog ispita, smatrat će se da ispit nije položio.
+Iznimno, predsjednik Ispitnog povjerenstva može prihvatiti razlog za odustanak od stručnog ispita i u roku kraćem od tri dana ako se radi o posebnim okolnostima iz stavka 3. ovoga članka.

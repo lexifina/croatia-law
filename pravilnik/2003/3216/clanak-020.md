@@ -1,0 +1,8 @@
+# Članak 20.
+Prijava za polaganje stručnog ispita podnosi se ovlaštenoj ustanovi u kojoj je pristupnik prošao izobrazbu, a sadrži: ime i prezime pristupnika, dan i mjesto rođenja, adresu prebivališta, obavijest iz članka 14. ovoga Pravilnika te naznaku za koje poslove privatne zaštite pristupnik prijavljuje ispit.
+Osoba koja je temeljem članka 21. stavka 2. Zakona o privatnoj zaštiti (»Narodne novine«, broj: 68/03.) oslobođena izobrazbe za zaštitara i čuvara može prijaviti stručni ispit pod uvjetom da uz prijavu dostavi obavijest iz članka 14. ovoga Pravilnika.
+Osoba koja prijavi polaganje stručnog ispita za zaštitara, a ranije je položila stručni ispit za čuvara prema programu iz članka 11. stavka 5. ovoga Pravilnika, polazi izobrazbu i polaže stručni ispit prema programu iz članka 11. stavka 3. točke 5. i 6. ovoga Pravilnika.
+Ovlaštena ustanova o prijavi pristupnika za polaganje stručnog ispita obavještava predsjednika ispitnog Povjerenstva koji rješenjem određuje vrijeme provođenja stručnog ispita (praktičnog i teoretskog dijela), troškove provođenja ispita kao i sastav ispitnog Povjerenstva, o čemu pisano izvješćuje pristupnike i ovlaštenu ustanovu.
+Uz odobrenje Ministarstva pristupnik može pristupiti stručnom ispitu i u drugoj ovlaštenoj ustanovi, a uz zahtjev za odobrenje mora priložiti:
+1. potvrdu ustanove u kojoj je završio izobrazbu iz koje moraju biti vidljivi podaci iz članka 21. stavka 1. ovoga Pravilnika, koji se odnose na prisustvo izvedbi nastave i opravdanosti eventualnih izostanaka, odnosno o eventualno već započetom ili završenom praktičnom ili teoretskom dijelu stručnog ispita,
+2. obrazloženje zahtjeva.

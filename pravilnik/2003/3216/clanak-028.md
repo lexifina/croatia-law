@@ -1,0 +1,2 @@
+# Članak 28.
+Osobe koje su započele izobrazbu za čuvara-zaštitara prije stupanja na snagu ovoga Pravilnika, polažu stručni ispit po programu koji je propisan odredbama Pravilnika o izobrazbi, ispitima i provjeri znanja za čuvara (»Narodne novine«, broj: 5/97.) i Pravilnika o programu polaganja stručnog ispita za čuvara (»Narodne novine«, broj: 93/98.) i dobivaju dopuštenje za obavljanje poslova zaštitara.

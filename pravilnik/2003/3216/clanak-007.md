@@ -1,0 +1,9 @@
+# Članak 7.
+Ustanova za provedbu izobrazbe zaštitara i čuvara mora imati u stalnom radnom odnosu najmanje jednog radnika za obavljanje poslova izobrazbe (u daljnjem tekstu: predavač).
+Predavači koji obavljaju izobrazbu zaštitara i čuvara, moraju imati sljedeću stručnu spremu odnosno zvanje:
+1. Za programsku cjelinu zakonska regulativa i ovlasti: zvanje diplomirani kriminalist ili diplomirani pravnik s tri godine radnog iskustva ili visoku stručnu spremu politološkog smjera s najmanje pet godina radnog iskustva na poslovima koji su u vezi s područjima iz programske cjeline.
+2. Za programsku cjelinu upotreba sredstava i uređaja tehničke zaštite: visoka stručna sprema tehničkog smjera, s najmanje tri godine radnog iskustva na poslovima koji su u vezi područja iz programske cjeline.
+3. Za programsku cjelinu osnove kriminalistike i pravila postupanja: zvanje diplomirani kriminalist ili diplomirani pravnik s najmanje tri godine radnog iskustva na poslovima koji su u vezi s područjem programske cjeline.
+4. Za programsku cjelinu osnove komuniciranja: visoku školsku spremu pedagoško-psihološkog smjera s najmanje tri godine radnog iskustva na poslovima koji su u vezi s područjima iz programske cjeline.
+5. Za programsku cjelinu osposobljavanje u rukovanju i gađanju vatrenim oružjem: zvanje diplomirani kriminalist, završenu vojnu akademiju ili Fakultet političkih znanosti - smjer obrana i zaštita ili najmanje višu trenersku školu na Kineziološkom fakultetu - smjer streljaštvo, svi uz uvjet posjedovanja najmanje pet godina radnog iskustva na poslovima policijskog službenika ili djelatne vojne osobe.
+6. Za programsku cjelinu osposobljavanje u primjeni tjelesne snage - samoobrane: višu stručnu spremu - zvanje viši sportski trener - smjer borilački sportovi ili visoku stručnu spremu - zvanje profesor tjelesne kulture - smjer borilački sportovi.
