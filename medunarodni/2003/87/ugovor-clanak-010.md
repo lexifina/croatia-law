@@ -1,0 +1,3 @@
+# Članak 10.
+Opća skupština usvaja interni pravilnik O.I.V. kojime se, prema potrebi, propisuju uvjeti primjene ovoga Sporazuma. Do njegova usvajanja na O.I.V. primjenjuju se pravila Međunarodnog ureda za vinogradarstvo i vinarstvo. Pravilnikom se posebice utvrđuju pravila djelovanja tijela spomenutih u prethodnim člancima, uvjeti sudjelovanja promatrača, uvjeti razmatranja predloženih rezervi na ovaj Sporazum te odredbe o administrativnom i financijskom upravljanju O.I.V. Pravilnik također opisuje uvjete dostave dokumenata, posebice onih što se tiču financiranja, članicama opće skupštine i izvršnog odbora prije donošenja odluka.
+Glava IX. - Završne odredbe

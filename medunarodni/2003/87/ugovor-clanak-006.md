@@ -1,0 +1,4 @@
+# Članak 6.
+1. Svaka članica O.I.V. plaća novčani doprinos o kojem svake godine odlučuje opća skupština, a iznos se određuje primjenom odredbi Dodatka 1 i 2 ovom Sporazumu. Opća skupština odlučuje o novčanom doprinosu svake nove članice na temelju odredbi Dodatka 1 i 2 ovome Sporazumu.
+2. Financijska sredstva O.I.V. obuhvaćaju godišnji obvezni doprinos svake članice i promatrača te prihod od vlastitih aktivnosti. Obvezni doprinosi plaćaju se O.I.V. tijekom dotične kalendarske godine. Nakon toga uplate se smatraju zakašnjelima.
+3. Financijska sredstva O.I.V. mogu također obuhvatiti dobrovoljne doprinose članica, donacije, dotacije, subvencije i uplate svake vrste od međunarodnih i nacionalnih organizacija javne, polujavne ili privatne naravi, uz uvjet da su takve uplate u skladu sa smjernicama koje utvrdi opća skupština prema članku 5. stavku 3.a) a uvrste se u interni pravilnik.

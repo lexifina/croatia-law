@@ -1,0 +1,3 @@
+# Članak 4.
+Svaka članica određuje broj svojih izaslanika, ali ima samo dva osnovna glasa i još, gdje je to primjereno, dodatni broj glasova izračunat prema objektivnim kriterijima koji određuju relativni položaj svake države članice u sektoru vinogradarstva i vinarstva prema uvjetima izloženim u Dodacima 1 i 2 ovom Sporazumu, koji čine njegov sastavni dio. Zbroj ovih dviju brojki tvori broj ponderiranih glasova. Koeficijent koji određuje položaj svake države članice u okviru sektora vinogradarstva i vinarstva redovito će se ažurirati u skladu s odredbama u Dodatku 1.
+Glava IV. - Metode rada, proces odlučivanja
