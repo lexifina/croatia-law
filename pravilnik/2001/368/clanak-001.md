@@ -1,0 +1,148 @@
+# Članak 1.
+U Pravilniku o namjeni radio-frekvencijskog spektra i dodjeli radijskih frekvencija (»Narodne novine«, br. 14/95), u dodatku, Planu namjene radio-frekvencijskog spektra u Tablici namjene frekvencijskih područja u Republici Hrvatskoj 9 kHz - 400 GHz, mijenjaju se podaci od 862-1240 MHz, tako da glase:
+»
+862-1240 MHz
+NAMIJENJENO RADIJSKOJ SLUŽBI
+REGIJA 1
+REPUBLIKA HRVATSKA
+PLAN PROPIS UPORABA OPĆA BILJEŠKA
+862-890MHz
+NEPOKRETNA
+POKRETNA osim zrakoplov. pokret.
+S5.XXX
+RADIODIFUZIJA S5.322
+S5.319 S5.323
+862-870 MHz
+POKRETNA
+HR33 HR34 HR35
+PMR
+Socijal. uzb.
+RM-potr.
+SRD-audio
+civ.
+VA99
+ERC/DEC/(97)06
+ERC/REC70-03
+Annex 1, 7, 10, 13
+870-876 MHz
+POKRETNA
+TETRA
+UIC
+civ/
+voj.
+VA99
+ERC/DEC/(96)04
+876-880 MHz
+POKRETNA
+UIC
+Sustavi
+obrane
+civ/
+voj.
+VA99
+880-890 MHz
+POKRETNA HR37
+E-GSM
+Sustavi
+obrane
+civ/
+voj.
+VA99
+ERC-DEC/(97)02
+890-942 MHz
+NEPOKRETNA
+POKRETNA osim zrakoplov. pokret.
+S5.XXX
+RADIODIFUZIJA S5.322
+Radiolokacijska
+S5.323
+890-915 MHz
+POKRETNA HR36 S5.XXX
+Radiolokacijska
+GSM
+civ/
+voj
+VA99
+VA94
+ERC/DEC/(94)01
+915-921 MHz
+POKRETNA
+Radiolokacijska
+TETRA
+civ/
+voj.
+VA99
+ERC/DEC/(96)04
+921-925 MHz
+POKRETNA
+Radiolokacijska
+UIC.
+civ/
+voj.
+VA99
+925-935 MHz
+POKRETNA HR37
+Radiolokacijska
+E-GSM
+civ/
+voj.
+VA99
+ER/DEC/(97)02
+935-942 MHz
+POKRETNA
+Radiolokacijska
+GSM
+civ/
+voj.
+VA99
+VA94
+ERC/DEC/(94)01
+942-960 MHz
+NEPOKRETNA
+POKRETNA osim zrakoplov. pokret.
+S5.XXX
+RADIODIFUZIJA S5.322
+S5.323
+942-960 MHz
+POKRETNA HR36 S5.XXX
+GSM
+civ/
+voj.
+VA99
+VA94
+ERC/DEC/(94)01
+960-1215 MHz
+ZRAKOPLOVNA
+RADIONAVIGACIJA S5.328
+S5.328A
+960-1215 MHz
+ZRAKOPLOVNA
+RADIONAVIGACIJA S5.328
+S5.328A
+DME
+TACAN
+SSR
+MIDS
+civ/
+voj.
+1215-1240 MHz
+ISTRAŽIVANJE ZEMLJE-
+-SATELITSKA (aktivno)
+RADIONAVIGACIJSKA-
+-SATELITSKA (sv-Z) (sv-sv) S5.329A
+ISTRAŽIVANJE SVEMIRA (aktivno)
+S5.330 S5.331 S5.332
+1215-1240 MHz
+RADIONAVIGACIJSKA RADIOLOKACIJSKA
+-SATELITSKA (sv-Z)
+ISTRAŽIVANJE ZEMLJE-
+-SATELITSKA (aktivno)
+S5.331 S5.332
+GPS
+Radionavig.
+Aktivni
+senzori
+Radari
+voj/
+civ.
+«
