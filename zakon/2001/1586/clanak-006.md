@@ -1,0 +1,2 @@
+# Članak 6.
+HRVI iz Domovinskog rata je i stranac kojem je kao pripadniku oružanih snaga Republike Hrvatske u Domovinskom ratu (1991.-1995.) organizam oštećen najmanje 20% zbog rane ili ozljede koju je zadobio u obrani suvereniteta Republike Hrvatske ili kao zatočenik u neprijateljskom logoru ili zbog bolesti, a bolest je, pogoršanje bolesti, odnosno pojava bolesti neposredna posljedica sudjelovanja u obrani suvereniteta Republike Hrvatske, ili u razdoblju 30 dana od prestanka sudjelovanja u obrani suvereniteta Republike Hrvatske.
