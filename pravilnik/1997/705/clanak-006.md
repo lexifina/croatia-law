@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Opći podaci sadrže podatke o poslodavcu te objektu namijenjenom za rad s naznakom lokacije, voditelju i članovima radne skupine, vanjskim stručnjacima, ovlaštenicima, stručnjacima za zaštitu na radu i povjerenicima zaposlenika za zaštitu na radu koji su sudjelovali u radu na izradi procjene, načinu na koji je u izradi procjene sudjelovao odbor za zaštitu na radu te da li je o procjeni opasnosti i kada raspravljalo zaposleničko vijeće te nadnevak završetka rada na procjeni.
+(2) Ukoliko je procjenu opasnosti izradila ovlaštena ustanova odnosno trgovačko društvo za zaštitu na radu, procjena sadrži podatke o voditelju i članovima radne skupine iz ustanove odnosno društva uz odgovarajuće podatke iz stavka 1. ovoga članka.
