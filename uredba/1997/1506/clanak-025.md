@@ -1,0 +1,4 @@
+# Članak 25.
+Državne službenike i namještenike iz ispostava županijskih ureda Ivanić Grad, Vojnić, Donji Lapac, Korenica, Pag, Našice i Knin, koje su promjenom područja ušle u sastav županijskih ureda Zagrebačke, Karlovačke, Ličko-senjske, Zadarske, Osječko-baranjske i Šibensko-kninske županije, preuzet će županijski uredi tih županija, danom stupanja na snagu ove Uredbe.
+Preuzeti državni službenici i namještenici nastavljaju s radom na dosadašnjim poslovima u ispostavama do donošenja rješenja o rasporedu na odgovarajuća službenička odnosno radna mjesta, sukladno izmjenama i dopunama Pravilnika o unutarnjem redu županijskih ureda.
+Rješenja o rasporedu državnih službenika i namještenika iz prethodnog stavka ovoga članka župani su dužni donijeti najkasnije u roku 30 dana od dana stupanja na snagu izmjena i dopuna Pravilnika o unutarnjem redu županijskih ureda.
