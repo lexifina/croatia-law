@@ -1,0 +1,4 @@
+# Članak 17.
+U članku 56. stavci 1. i 2. mijenjaju se i glase:
+"(1) Ako se ovrhovoditelj u propisanom roku ne očituje o prigovoru ili ako se usprotivi prigovoru, sud će podnositelja prigovora uputiti da protiv stranaka u roku od petnaest dana pokrene parnicu radi proglašenja da ovrha na predmetu ovrhe nije dopuštena, osim ako podnositelj ne dokaže opravdanost svoga prigovora pravomoćnom presudom ili drugom javnom ispravom, ili javno ovjerovljenom privatnom ispravom, odnosno ako činjenice na kojima se temelji prigovor treće osobe nisu općepoznate ili se mogu utvrditi primjenom pravila o zakonskim predmnjevama.
+(2) Ako podnositelj prigovora dokaže njegovu opravdanost pravomoćnom presudom, javnom ili javno ovjerovljenom privatnom ispravom, odnosno ako su činjenice na kojima se temelji prigovor općepoznate ili se mogu utvrditi na temelju pravila o zakonskim predmnjevama, sud će o prigovoru odlučiti u ovršnom postupku."
