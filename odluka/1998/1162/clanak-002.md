@@ -1,0 +1,3 @@
+# Članak 2.
+Zdravstvenoj ustanovi, odnosno zdravstvenom djelatniku privatne prakse koji su pružili zdravstvene usluge strancu iz članka 2. stavke 3. Zakona o zdravstvenoj zaštiti stranaca u Republici Hrvatskoj (u daljnjem tekstu: Zakon) i članka 6. Zakona u slučaju pružanja hitne medicinske pomoći, a nisu po postupku utvrđenom Zakonom mogli naplatiti od stranca pružene zdravstvene usluge, troškovi pruženih zdravstvenih usluga podmirit će se iz sredstava Državnog proračuna.
+Zdravstvenoj ustanovi, odnosno zdravstvenom djelatniku privatne prakse, podmirit će se iz sredstava Državnog proračuna i troškovi pruženih zdravstvenih usluga maloljetnim strancima, koji se zateknu u Republici Hrvatskoj bez roditeljske skrbi (članak 3. podstavka 6. Zakona).
