@@ -1,0 +1,2 @@
+# Članak 4.
+Ukoliko pravna osoba, obrtnik i unutarnja čuvarska služba ili njihove podružnice imaju ustrojen centralni dojavni sustav, pored prostornih uvjeta propisanih člankom 3. ovoga Pravilnika, moraju za tu namjenu imati zasebnu prostoriju čija je površina najmanje 10 m2, u koju je pristup dozvoljen samo ovlaštenim osobama u skladu s općim aktom o razvrstavanju radnih mjesta s popisom odgovornih osoba i poslova te ovlastima zaposlenika za svako radno mjesto.
