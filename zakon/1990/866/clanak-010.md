@@ -1,0 +1,3 @@
+# Članak 10.
+Sredstvima općinskog odnosno gradskog fonda za kulturu općinski, odnosno gradski organ uprave nadležan za kulturu osigurava ostvarivanje onih potreba i interesa u kulturi što su utvrđene programom kulturnog razvitka općine, odnosno programom kulturnog razvitka gradske zajednice općina i posebnim zakonom.
+Ministar prosvjete i kulture odgovoran je Saboru a sekretar organa uprave nadležnog za poslove kulture općine odnosno gradske zajednice općina skupštini općine, odnosno skupštini gradske zajednice općina za provedbu i ostvarivanje programa kulturnog razvitka i trošenje novčanih sredstava.

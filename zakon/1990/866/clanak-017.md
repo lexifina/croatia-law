@@ -1,0 +1,5 @@
+# Članak 17.
+Samoupravne interesne zajednice kulture, koje su osnovane i djeluju prema odredbama Zakona o samoupravnim interesnim zajednicama kulture ("Narodne novirle", br. 33/83. i 55/88.) zaključit će poslovanje i prestati s radom 31. prosinca 1990. godine.
+Sredstva, prava i obveze općinskih samoupravnih interesnih zajednica kulture, odnosno Udružene samoupravne interesne zajednice kulture Grada Zagreba, preuzimaju organi uprave nadležni za kulturu općina, odnosno Gradske zajednice općina Zagreb, a sredstva, prava i obveze Republičke samoupravne interesne zajednice kulture, preuzima Ministarstvo prosvjete i kulture.
+Radnike općinskih samoupravnih interesnih zajednica kulture, odnosno Udružene samoupravne interesne zajednice kulture Grada Zagreba preuzimaju i raspoređuju organi uprave nadležni za kulturu općina, odnosno Gradske zajednice općina Zagreb, a radnike Republičke samoupravne interesne zajednice kulture preuzima i raspoređuje Ministarstvo prosvjete i kulture.
+Radnici koji ne budu raspoređeni prema stavku 3. ovoga članka imaju prava i obveze utvrđene odredbama članova 381. do 383. Zakona o upravi.
