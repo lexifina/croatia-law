@@ -1,0 +1,1 @@
+Na temelju članka 41. st. 4. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 49/99, 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 18. lipnja 2001. godine donio je
