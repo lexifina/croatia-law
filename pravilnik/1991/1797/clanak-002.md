@@ -1,0 +1,2 @@
+# Članak 2.
+Odlobađanje od plaćanja carine na uvoz sirovina, reprodukcijskih i drugih materijala za proizvodnju robe za izvoz ostvaruje se u skladu sa člankom 56. Carinskog zakona ako je vrijednost ostvarenog izvoza najmanje 30% veća od vrijednosti sirovina, reprodukcijskih i drugih materijala uvezenih za proizvodnju robe koja će se izvesti te ako se tako uvezena roba u cijelosti izveze i naplati u konvertibilnoj valuti, a ostvarena devizna sredstva u propisanom roku unesu u zemlju.

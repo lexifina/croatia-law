@@ -1,0 +1,2 @@
+# Članak 4.
+Pored isprava i druge dokumentacije koja se podnosi uz uvoznu carinsku deklaraciju, carinski obveznik koji uvozi robu oslobođenu od plaćanja carine u skladu sa člankom 56. Carinskog zakona, obvezan je podnijeti i pisanu izjavu korisnika da će se uvezena roba ucijelosti koristiti za proizvodnju određene robe, specificirane po Carinskoj tarifi s naznakom ukupne vrijednosti u valuti u kojoj se naplaćuje izvezena roba te da će njezina ukupna vrijednost biti najmanje 30% veća od vrijednosti uvezene robe (članak 2.).
