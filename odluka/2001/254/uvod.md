@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 1. i članka 67. stavka 1. točke 17. u vezi s člankom 35. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 35/95. - pročišćeni tekst) Savjet Hrvatske narodne banke na sjednici održanoj 7. veljače 2001. godine, donio je
