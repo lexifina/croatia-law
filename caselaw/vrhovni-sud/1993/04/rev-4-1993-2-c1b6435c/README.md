@@ -1,0 +1,11 @@
+# Rev-4/1993-2, Vrhovni sud Republike Hrvatske, 21.4.1993.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=c1b6435c-93a3-49c8-b054-934f1e125969
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1993-04-21
+- Publication date on source: 2003-08-22
+- ECLI: ECLI:HR:VSRH:1993:4146
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
