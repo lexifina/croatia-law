@@ -1,0 +1,1 @@
+Temeljem članka 25. i 48. Pravila Hrvatskog olimpijskog odbora te članka 51. Arbitražnih pravila Športske arbitraže pri HOO-u, Hrvatski olimpijski odbor je na 19. sjednici održanoj 25. svibnja 1999. godine donio
