@@ -1,0 +1,1 @@
+Na temelju članka 14., stavka 3. Zakona o poljoprivredi (»Narodne novine« br. 66/01. i 83/02.), a u vezi s člankom 35. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine« br. 28/96), Vlada Republike Hrvatske je na sjednici održanoj 28. studenoga 2002. godine donijela
