@@ -1,0 +1,1 @@
+Na temelju članka 16. stavak 2. Zakona o financiranju vodnog gospodarstva (»Narodne novine« br. 107/95, 19/96 i 88/98), Upravno vijeće Hrvatskih voda na 12. sjednici održanoj dana 17. srpnja 2002. godine, donosi
