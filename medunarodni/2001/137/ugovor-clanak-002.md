@@ -1,0 +1,4 @@
+# Članak 2.
+1. Tekstilni proizvodi iz odsjeka XI (poglavlje 50.-63.) Kombinirane nomenklature koji su podrijetlom iz Hrvatske, kako je određeno u Protokolu 4. ovoga Sporazuma, ulazit će u Zajednicu bez plaćanja carina danom stupanja na snagu ovoga Sporazuma.
+2. Carine koje se primjenjuju na izravan uvoz u Hrvatsku tekstilnih proizvoda iz odsjeka XI. (poglavlje 50.-63.) Kombinirane nomenklature koji su podrijetlom iz Zajednice, kako je određeno Protokolom 4. ovoga Sporazuma, bit će ukinute danom stupanja na snagu Sporazuma, osim proizvoda koji su navedeni u Dodacima I. i II. ovoga Protokola, za koje će carinske stope biti postupno snižene, kako je u njima navedeno.
+3. U skladu s ovim Protokolom odredbe Sporazuma, a posebno članaka 6. i 7. Sporazuma, primjenjivat će se na trgovinu tekstilnim proizvodima između stranaka.
