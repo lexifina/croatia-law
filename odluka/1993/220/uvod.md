@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53a/91, 9/92 i 55/92), a u svezi s člankom 21. Poslovnika Vlade Republike Hrvatske ("Narodne novine", br. 28/76), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 1993. godine, donijela
