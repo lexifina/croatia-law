@@ -1,0 +1,2 @@
+# Članak 61.
+Pri odabiru vrste i mjere stegovne sankcije uzima se u obzir: vrsta kršenja vojne stege, posljedice kršenja vojne stege, stupanj krivnje osobe protiv koje se vodi postupak, pobude iz kojih je prekršena vojna stega, okolnosti u kojima je prekršena vojna stega, dotadašnji rad i ponašanje osobe protiv koje se vodi postupak, narav njezina posla, njezin odnos prema oštećeniku i naknadi štete prouzročene kršenjem vojne stege, te druge olakotne i otegotne okolnosti.

@@ -1,0 +1,3 @@
+# Članak 7.
+Službenik je osoba visoke, više ili srednje stručne spreme koja kao redovito zanimanje obavlja poslove iz djelokruga Oružanih snaga te informatičke, opće i administrativne poslove, planske i upravno-pravne poslove, materijalno-financijske, računovodstvene i slične poslove.
+Namještenik je osoba srednje ili niže stručne spreme koja u Oružanim snagama radi na pomoćno-tehničkim i ostalim poslovima (vozač, grafičar, domar, elektromehaničar, telefonist, kuhar, portir, čistač radnih prostorija i sl.) koji su potrebni radi pravodobnog i vrsnog obavljanja poslova iz djelokruga Oružanih snaga.

@@ -1,0 +1,5 @@
+# Članak 67.
+Pokretanje stegovnog postupka zbog stegovne pogreške zastarijeva nakon proteka 3 mjeseca od dana kad je nadređena osoba postavljena na dužnost zapovjednika satnije, njoj ravne ili više razine saznala za izvršenu povredu i počinitelja, ali najkasnije u roku od 6 mjeseci od dana izvršenja povrede, a postupak se mora završiti u roku od 6 mjeseci od dana pokretanja.
+Pokretanje stegovnog postupka zbog stegovnog prijestupa zastarijeva nakon proteka 12 mjeseci od dana kad je nadređena osoba postavljena na dužnost zapovjednika brigade, njoj ravne ili više razine saznala za stegovni prijestup, ali najkasnije u roku od 2 godine od izvršenog prijestupa, a postupak se mora završiti u roku od 2 godine od dana pokretanja.
+Zastara pokretanja i vođenja stegovnog postupka zbog stegovnog prijestupa koji ima obilježja kaznenog djela za koje se postupak vodi po službenoj dužnosti te je u povodu istoga kaznenog djela u tijeku postupak pred nadležnim državnim odvjetništvom ili sudom ili je kazneni postupak već okončan pravomoćnom osuđujućom presudom, nastupa istodobno kad i zastara progona zbog kaznenog djela.
+5.2. Zastara izvršenja stegovne sankcije
