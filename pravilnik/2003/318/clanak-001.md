@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata (»Narodne novine«, broj: 57/95., 110/96., 24/97., 61/98., 137/98., 19/99., 39/99., 52/99., 43/00., 52/00., 57/00., 63/00., 18/01. i 33/01.), u članku 50. iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Iznimno od odredbi stavka 1. i 2. ovog članka, smještajni objekt (po ranije važećim odredbama zakona - ugostiteljski objekt za smještaj) koji se nalazi na mjestu nedostupnom za promet motornih vozila ili na mjestu sa zabranom prometovanja motornih vozila, ne mora imati osigurano parkiralište niti garažu.«

@@ -1,0 +1,1 @@
+Na temelju odredbi članka 7b. stavka 4., članka 13. stavka 3. i članka 16. stavka 2., Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj: 48/95., 20/97., 46/97. - pročišćeni tekst, 68/98., 45/99., 76/99., 92/01., 117/01. i 4/02.), ministrica turizma donosi
