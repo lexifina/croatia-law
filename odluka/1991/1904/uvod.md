@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 1., članka 67. stavka 1. točke 9 i u svezi s člankom 90. stavak 3. Uredbe o Narodnoj banci Hrvatske ("Narodne novine", broj 71/91.), guverner Narodne banke Hrvatske, donio je
