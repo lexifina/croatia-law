@@ -1,0 +1,9 @@
+# Odbačaj radi nenadležnosti Ustavnog suda Republike Hrvatske broj: U-III-596/2002 od 30. siječnja 2004.
+
+- Case: `U-III-596/2002`
+- Decision: Odbačaj radi nenadležnosti
+- Decision date: `2004-01-30`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C1256A25004A262AC1256E31002FB985>
+- Official database page SHA-256: `c9adf8049fe8311bed29f71b7bb08efb295b6a2511f1fd17b888329ddfc440cc`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
