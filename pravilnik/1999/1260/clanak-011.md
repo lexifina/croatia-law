@@ -1,0 +1,2 @@
+# Članak 11.
+Ukoliko znanstveni razlozi zahtijevaju korištenje arhivskoga gradiva prije isteka predviđenoga roka, ravnatelj arhiva može, uz prethodno pribavljeno mišljenje Hrvatskog arhivskog vijeća, odnosno njegova Povjerenstva za davanje mišljenja o prijevremenoj dostupnosti arhivskog gradiva (dalje: Povjerenstvo), odobriti korištenje arhivskoga gradiva, sukladno odredbama Zakona o arhivskom gradivu i arhivima, iako se nisu stekli uvjeti iz članaka 5. i 6. ovoga Pravilnika.

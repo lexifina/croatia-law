@@ -1,0 +1,4 @@
+# Članak 5.
+Javno arhivsko gradivo u pravilu je dostupno 30 godina nakon nastanka, a može biti dostupno i prije isteka navedenoga roka, ako je od nastanka namijenjeno javnosti ili ako je to stvaratelj izrijekom naveo u ispravi o predaji gradiva arhivu.
+Javno arhivsko gradivo koje sadrži podatke što se odnose na obranu, međunarodne odnose, gospodarske probitke države i na poslove nacionalne sigurnosti, a čijim bi objavljivanjem nastupile štetne posljedice za nacionalnu sigurnost ili nacionalni interes Republike Hrvatske, dostupno je na korištenje po isteku 50 godina od njegova nastanka, ako posebnim propisom nije drugačije određeno.
+Javno arhivsko gradivo koje se odnosi na osobne podatke (matice, liječnička dokumentacija, osobni dosijei, sudski, porezni financijski i sl.) dostupno je za korištenje 70 godina nakon svoga nastanka, odnosno 100 godina od rođenja osobe na koju se odnosi.
