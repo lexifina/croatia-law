@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93., 48/99., 15/00., 127/00., 59/01 i 199/03), te članka 7. stavka 3. Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava (»Narodne novine«, broj 128/02., 122/03., 189/03., i 2/05.), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
