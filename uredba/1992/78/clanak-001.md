@@ -1,0 +1,3 @@
+## o dopuni Uredbe o izdavanju obveznica Republike Hrvatske
+# Članak 1.
+U članku 3. Uredbe o izdavanju obveznica Republike Hrvatske ("Narodne novine", broj 41/91), dodaju se novi stavci 4. i 5. koji glase: "Bankama i drugim pravnim osobama koje posjeduju obveznice izdane za namjene iz Članka 1. točka 1) i 2). Uredbe, a dospijevaju 31. siječnja 1992. godine isplatit će se samo obračunate kamate, a isplata nominalne vrijednosti obveznica odgađa se do 30. lipnja 1992. godine. Za razdoblje od 1. veljače do 30. lipnja 1992. godine bankama i drugim pravnim osobama se priznaju kamate sukladno članku 3. stavak 3. Uredbe." Stavak 4. postaje stavak 6.
