@@ -1,0 +1,1 @@
+Na temelju članka 99f. i 99h. Zakona o autorskom pravu ("Narodne novine", 53/91 i 58/93) Upravni odbor Hrvatske udruge za zaštitu izvođačkih prava (u nastavku: HUZIP) na svojoj sjednici 9. rujna 1996. donio je
