@@ -1,0 +1,3 @@
+# Članak 7.
+Članak 107. stavak 2. mijenja se i glasi:
+»(2) Nakon podnošenja optužnice, optužnoga prijedloga ili prijedloga da se optužnica podigne bez istrage, pritvor može trajati do pravomoćnosti presude. Vijeće iz članka 18. stavka 3., odnosno članka 20. stavka 2. ovoga Zakona svaka će dva mjeseca, do izricanja nepravomoćne presude, računajući od dana dono-šenja prethodnog rješenja o pritvoru, ispitivati postoje li zakonski uvjeti za daljnju primjenu mjere pritvora, te ga rješenjem produljiti ili ukinuti. Žalba protiv ovog rješenja ne zadržava njegovo izvršenje. Ako se okrivljenik nalazi u pritvoru vijeće će u času donošenja nepravomoćne presude ispitati postoje li zakonski uvjeti za daljnju primjenu mjere pritvora.«
