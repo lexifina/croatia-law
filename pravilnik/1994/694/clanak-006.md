@@ -1,0 +1,2 @@
+# Članak 6.
+Svaki javnobilježnički ured mora imati vatrootporne ormare za smještaj predmeta u radu i javnobilježničkog arhiva u skladu s Javnobilježničkim poslovnikom. Ormari moraju imati brave koje će jamčiti sigurnost pohranjenih spisa, knjiga, pečata i štambilja. Svaki javnobilježnički ured mora imati sigurnosnu blagajnu radi pohrane primljenog novca, dragocjenosti, vrijednosnih papira i drugih vrijednih pologa te spisa koji se moraju posebno čuvati. Svaki javnobilježnički ured mora imati telefon i telefaks.

@@ -1,0 +1,6 @@
+# Članak 9.
+Osoba koja namjerava sudjelovati u natječaju za javnog bilježnika zatražit će od Ministarstva pravosuda da pregleda prostorije namijenjene za njegov budući ured. Ministar pravosuđa može od predsjednika općinskog suda zatražiti da obavi pregled iz stavka 1. ovoga članka. O utvrđenom činjeničnom stanju predsjednik suda sastavit će poseban zapisnik u kojemu će iznijeti i svoje mišljenje o tome odgovara li taj prostor zahtjevima Zakona o javnom bilježništvu, Javnobilježničkog poslovnika i ovoga Pravilnika. U slučaju negativnog mišljenja predsjednika suda, osoba iz stavka 1. ovoga članka može u roku od osam dana zatražiti da poslovni prostor pregleda Komisija Ministarstva pravosuđa. Zapisnik s mišljenjem predsjednika suda ili mišljenje Komisije iz prethodnog stavka ovoga članka pribavljen prije imenovanja javnog bilježnika ima značenje dokaza u smislu odredbe članka 13. stavak 1. točka 9. Zakona o javnom bilježništvu.
+Članak l0.
+Prije nego što odredi dan kada će imenovani javni bilježnik započeti s radom Komisija Ministarstva pravosuđa utvrdit će da su prostor i oprema pripremljeni za uporabu. Na pregled prostorija i opreme iz stavka 1. ovoga članka na odgovarajući način primijenit će se odredba stavka 2. članka 9. ovoga Pravilnika.
+Članak 11.
+Ovaj Pravilnik stupa na snagu osmoga dana od objave u "Narodnim novinama".
