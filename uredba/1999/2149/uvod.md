@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. i 2. Zakona o ustanovama (»Narodne novine«, broj 76/93) i članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 16. prosinca 1999. godine, donijela
