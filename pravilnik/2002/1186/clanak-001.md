@@ -1,0 +1,6 @@
+## o standardima i normativima prava na zdravstvenu zaŠtitu iz osnovnog zdravstvenog osiguranja za razdoblje od 1. srpnja do 31. prosinca 2002. godine
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom prema Zakonu o zdravstvenom osiguranju (u daljnjem tekstu: Zakon) i općim aktima Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod), utvrđuju se standardi i normativi prava na zdravstvenu zaštitu koja se osnovnim zdravstvenim osiguranjem osiguravaju osiguranim osobama Zavoda za razdoblje od 1. srpnja do 31. prosinca 2002. godine.
+Prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja prema stavku 1. ovog članka obuhvaćaju: pravo na primarnu zdravstvenu zaštitu, pravo na specijalističko-konzilijarnu zdravstvenu zaštitu, pravo na bolničku zdravstvenu zaštitu s odgovarajućom medicinskom rehabilitacijom, pravo na korištenje zdravstvene zaštite u inozemstvu, pravo na lijekove, pravo na stomatološko-protetsku pomoć i stomatološko-protetske nadomjestke i pravo na korištenje ortopedskih i drugih pomagala.
+Pravo osiguranih osoba na zdravstvenu zaštitu iz stavka 2. ovog članka osigurava se provedbom mjera zdravstvene zaštite iz osnovnog zdravstvenog osiguranja u skladu s Planom i programom mjera zdravstvene zaštite iz osnovnog zdravstvenog osiguranja (»Narodne novine« broj 30/02.) a u opsegu iz članka 4. ovog Pravilnika.
