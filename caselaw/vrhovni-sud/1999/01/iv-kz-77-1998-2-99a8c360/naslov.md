@@ -1,0 +1,1 @@
+IV Kž-77/1998-2, Vrhovni sud Republike Hrvatske, 27.1.1999.
