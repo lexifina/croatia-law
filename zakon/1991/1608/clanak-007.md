@@ -1,0 +1,2 @@
+# Članak 7.
+Ministarstva i republičke upravne organizacije koji preuzimaju poslove i zadatke saveznih organa i organizacija utvrđene ovim zakonom, kao i pojedinim saveznim zakonima koji su preuzeti i primjenjuju se u Republici Hrvatskoj kao republički zakoni, mogu preuzeti radnike koji su na dan stupanja na snagu ovoga zakona zatečeni na obavljanju preuzetih poslova saveznih organa i organizacija na teritoriju Republike Hrvatske.

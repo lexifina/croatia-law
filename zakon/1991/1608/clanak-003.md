@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 7. riječi "radio-difuzije" brišu se, a iza riječi "uvoz inozemnih javnih glasila i izvoz domaćih javnih glasila u inozemstvo", dodaju se riječi "registracija inozemnih dopisništava, stalnih inozemnih dopisnika i stalnih službenika inozemnih dopisništava; registracija inozemnih informativnih ustanova, rukovoditelja i ostalog osoblja inozemnih informativnih ustanova; nadzor nad radom inozemnih informativnih ustanova i predstavnika inozemnih sredstava priopćvanja".
