@@ -1,0 +1,10 @@
+# Us-628/1997, Visoki upravni sud Republike Hrvatske, 14.4.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=7e2c852d-60b6-4563-b756-52aa1284abc3
+- Court: Visoki upravni sud Republike Hrvatske
+- Decision date: 1999-04-14
+- Publication date on source: 2004-11-09
+- Decision type: Odluka
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
