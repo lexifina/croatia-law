@@ -1,0 +1,3 @@
+# Članak 67.
+Veterinarska klinika mora raspolagati sa posebno uređenom, zavisno od vrste životinja koje su predmet djelatnosti, prostorijom i uređajima za obavljanje kirurških zahvata uz opću parapulmonalnu i inhalacionu anesteziju. Za velike životinje mora se raspolagati sa prikladnom stojnicom i strunjačom za obaranje i operacione zahvate kod velikih životinja kao i sa opremom za odgovarajuće osvjetljenje operacionog mjesta.
+Za kirurške zahvate kod malih životinja mora se osigurati posebna prostorija opremljena u skladu sa odredbama članka 48. ovog pravilnika te uređajem za inhalacionu anesteziju.

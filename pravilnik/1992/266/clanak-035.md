@@ -1,0 +1,2 @@
+# Članak 35.
+Područna veterinarska ambulanta mora za obavljanje poslova veterinarske djelatnosti imati najmanje dva diplomirana veterinara ili jednog diplomiranog veterinara i jednog veterinarskog tehničara ili bolničara, ako je obavljanje poslova u veterinarskoj stanici (kao cjelini) organizirano tako, da je veterinarska stanica u mogućnosti obavljati sve poslove svoje djelatnosti svakodnevno na cijelom području veterinarske stanice.

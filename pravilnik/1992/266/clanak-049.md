@@ -1,0 +1,2 @@
+# Članak 49.
+Prostor za osnovne laboratorijske pretrage i prostor za čiščenje, pranje i sterilizaciju instrumenata i pribora može se urediti u zajedničkoj prostoriji te mora glede uređenja prostorija, opreme i pribora udovoljavati uvjetima propisanim stavkom 1. i točkama 1, 2, 3, 5, (izuzev pribora za pretrage buragovog soka i mlijeka), 6, 8. 11. i 12. stavka 2. članka 16., kao i uvjetima propisanim člankom 17. ovog pravilnika.

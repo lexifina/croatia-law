@@ -1,0 +1,3 @@
+# Članak 74.
+Veterinarski dijagnostički i analitički laboratoriji u obavljanju poslova laboratorijske i analitičke djelatnosti iz članka 71. pravilnika, moraju udovoljavati uvjetima za obavljanje osnovnih djelatnosti iz točaka 1., 3., 6., 7. i prostorijama iz točke 13.,14. i 15., stavka 2. članka 73. ovog pravilnika a mogu udovoljavati uvjetima i za obavljanje drugih osnovnih ili specijaliziranih djelatnosti u skladu sa unutarnjim ustrojstvom i razdiobom poslova zavoda.
+Glede uređenja prostorija, opreme i uređaja te kadrova, laboratoriji odnosno prostorije, moraju odgovarati općim i posebnim uvjetima propisanim ovim pravilnikom za pojedine osnovne ili specijalizirane djelatnosti.

@@ -1,0 +1,6 @@
+# Članak 90.
+Laboratorij za virusologiju u obavljanju osnovne djelatnosti mora raspolagati sa:
+1.prostorijom za prijem, čuvanje i primarnu obradu dijagnostičkog materijala, prostorijom za imunofluorescentnu dijagnostiku bjesnoće i drugih virusnih bolesti, prostorijom za serološke pretrage, prostorijom, kabinetom za obradu rezultata pretraga i pripremu izvještaja;
+2. sitnim laboratorijskim posudem i priborom, centrifugom, hladnjakom, zamrzivačem, termostatom, vodenom kupelji sa regulacijom temperature, aparatom za automatsko rastakanje i razrjeđivanje (diluter), aparatom za izvođenje imunoenzimatskog testa (ELISA), pH metrom, vagom laboratorijskom, vakuum sisaljkom, sterilizatorom suhim i vlažnim, autoklavom, mikroskopom svjetlosnim s imerzijom i mikroskopom fluorescentnim.
+Za obavljanje specijalizirane djelatnosti, uz prostorije, pribor i uredaje iz točke 1. i 2. stavka 1. ovog članka, laboratorij za virusologiju mora raspolagati sa:
+3. aparatom za usitnjavanje dijagnostičkog materijala, ultracentrifugom, kontajnerom s tekućim dušikom, termostatom s regulacijom atmosfere (vlaga, ugljični dioksid), termostatom, inkubatorom za embrioniranje jaja, mješalicom, mučkalicom, liofilizatorom, priborom za filtraciju, invertnim mikroskopom i personalnim računalom.

@@ -1,0 +1,3 @@
+# Članak 40.
+Prostor za osnovne laboratorijske pretrage ambulante veterinarske službe specijalizirane stočarske organizacije mora imati pod od čvrstog materijala, koji se lako pere i nije sklizak, a površine zidova, udaljene manje od jednog metra od radnog stola, moraju u visini od najmanje 1,80 metra, biti obložene keramičkim zidnim pločicama ili izvedene sa glatkom i na pranje i dezinfekciju otpornom površinom svijetle boje.
+U prostoru za osnovne laboratorijske pretrage mora se nalaziti oprema, pribor i uređaji propisani stavkom 2. članka 18. ovog pravilnika pod točkama 1, 2, 3, 6, 8, 11. i 12. te pod točkom 7. ukoliko se obavlja umjetno osjemenjivanje životinja.

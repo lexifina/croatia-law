@@ -1,0 +1,3 @@
+# Članak 84.
+Namještaj u prostorijama dijagnostičko-analitičkih laboratorija mora biti takve izvedbe da odgovara namjeni svake pojedine prostorije te stručno-tehničkim, higijenskim i estetskim zahtjevima i da se može lako održavati čistim i urednim.
+U svim prostorijama gdje se pretražuje infektivni dijagnostički materijal i obavljaju poslovi sa sterilnim priborom i hranjivim podlogama, zabranjeno je držanje namještaja, pribora i predmeta od nezaštićenog drva i drugih poroznih materija. Za koji ne pružaju mogućnosti sigurne dezinfekcije, kao i držanje ukrasnih biljaka lončanica i tkanenih zavjesa na prozorima.

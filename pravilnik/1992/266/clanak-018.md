@@ -1,0 +1,3 @@
+# Članak 18.
+Prostorija za držanje lijekova i drugog sanitetskog materijala mora biti opremljena odgovarajućim brojem ormara sa bravom za zaključavanje i policama za držanje lijekova i drugog sanitetskog materijala. U prostoriji se mora nalaziti kompresioni hladnjak od najmanje 120 1 korisne zapremnine opskrbljen sa kontrolinim termometrom. Prostorija mora biti opskrbljena zidnim termometrom. Prozori prostorije moraju biti zatamnjeni a vrata držana pod ključem.
+Otrovi, sredstva za deratizaciju, dezinsekciju i dezinfekciju moraju se čuvati u posebno namijenjenim i označenim ormarima pod ključem ili u zasebnoj prostoriji pod ključem.

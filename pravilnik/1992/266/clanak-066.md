@@ -1,0 +1,3 @@
+# Članak 66.
+Klinike za kopitare, goveda, mesojede i druge male životinje kućne ljubimce moraju osigurati mogućnost rentgenske i ultrazvučne dijagnostike za potrebe svojih pacijenata pomoću odgovarajućih vlastitih uređaja ili putem ugovora za obavljanje rentgenske dijagnostike kod drugih pravnih i fizičkih osoba na bližem području.
+Vlastiti stacionarni rentgenski aparat mora biti smješten u zasebnoj zaštićenoj prostoriji, sa svim propisanim zaštitnim sredstvima, opremom i priborom za razvijanje i očitovanje snimaka ili se mora raspolagati sa pokretnim, zaštićenim rentgenskim aparatom. Za stručno tehničke poslove mora se osigurati posebno educirani pomoćni djelatnik profila veterinarskog ili medicinskog tehničara.

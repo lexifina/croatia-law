@@ -1,0 +1,2 @@
+# Članak 72.
+Dijagnostički i analitički laboratoriji drugih pravnih i fizičkih osoba u obavljanju poslova dijagnostike i analitike u veterinarskoj djelatnosti na teritoriju Republike Hrvatske, u obliku osnovnih ili specijaliziranih laboratorija za vlastite potrebe ili kao usluge u stočarskoj proizvodnji odnosno veterinarskoj djelatnosti, moraju također udovoljavati uvjetima propisanim ovim pravilnikom.
