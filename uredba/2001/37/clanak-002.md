@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe polazi iz točke A (rub pristanišnog gata) do točke B (međa k.č. 803/3), gdje se lomi i nastavlja pravolinijski do točke C, presijecajući k.č. 803/3, 204/1, 204/2, 803/16, 803/4 i 803/5. U točki C granica se lomi i nastavlja međom k.č. 803/5, te presijeca k.č. 803/15 do točke D (rub obale) gdje i završava, a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Trget, broj lista plana 11, u mjerilu 1:1000.
