@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske povodom prijedloga Hrvatskog udruženja zdravstvenih djelatnika privatne prakse iz Zagreba, Savska c. br. 41/VII, na sjednici održanoj dana 6. travnja 1994. godine, donio je ovo
