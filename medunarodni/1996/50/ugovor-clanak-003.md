@@ -1,0 +1,2 @@
+# Članak 3.
+Svaka ugovorna stranka poticat će na svojem teritoriju osnivanje kulturenih i informacijskih centara druge ugovorne stranke radi organiziranja i obavljanja djelatnosti koje su svrha ovog ugovora i pružat će sve pogodnosti u granicama svojeg zakonodavstva i svojih mogućnosti u cilju pomaganja takvih centara. Izraz »kulturni i informacijski centri« obuhvaća škole, institucije za učenje jezika, knjižnice, dokumentacijske centre i druge institucije vezane uz ciljeve ovog ugovora.
