@@ -1,0 +1,6 @@
+# Članak 8.
+ZAPOSLENE OSOBE
+(1) Na osobu zaposlenu na području jedne ugovorne stranke, primjenjivat će se zakonodavstvo te ugovorne stranke čak i ako prebiva na području druge ugovorne stranke, ili ako se registrirani ured ili sjedište poduzeća, ili pojedinca koji tu osobu zapošljava, nalazi na području druge ugovorne stranke.
+(2) Na osobu zaposlenu na području obiju ugovornih stranaka, primjenjivat će se zakonodavstvo one ugovorne stranke na čijem području ta osoba prebiva. Ne prebiva li osoba na području nijedne od ugovornih stranaka, na nju će se primjenjivati zakonodavstvo one ugovorne stranke na čijem području poslodavac ima glavno sjedište.
+(3) Na prijevozno osoblje zaposleno u poduzeću, koje za najamninu, naknadu ili na vlastiti račun pruža usluge međunarodnog željezničkog, cestovnog ili zračnog prijevoza putnika ili robe primjenjivat će se zakonodavstvo ugovorne stranke na čijem području poduzeće ima sjedište, čak i onda ako ta zaposlena osoba prebiva na području druge ugovorne stranke.
+Međutim, ako je ta osoba zaposlena u podružnici ili stalnom zastupstvu koje to poduzeće ima na području druge ugovorne stranke, ili je zaposlena i prebiva na području te stranke, na nju će se primjenjivati zakonodavstvo te ugovorne stranke.

@@ -1,0 +1,8 @@
+# Članak 45.
+VALUTE
+(1) Ako je prema ovom Ugovoru, nositelj osiguranja jedne ugovorne stranke obvezan isplaćivati novčana davanja korisniku koji je na području druge ugovorne stranke, njegova će obveza biti izražena u valuti prve ugovorne stranke.
+(2) Ako je, prema ovom ugovoru, nositelj osiguranja jedne ugovorne stranke obvezan isplaćivati novac nositelju osiguranja druge ugovorne stranke, njegova će obveza biti izražena u valuti druge ugovorne stranke. Prvi nositelj osiguranja valjano će namiriti svoju obvezu u toj valuti, osim ako zainteresirani nositelji ne dogovore drugačije.
+(3) Novčane doznake na osnovi primjene ovog ugovora slat će se sukladno odgovarajućim sporazumima koji vrijede između ugovornih stranaka na dan doznačivanja.
+(4) U slučaju deviznih ograničenja koja uvede jedna od ugovornih stranaka, obje će se ugovorne stranke odmah sporazumjeti o mjerama osiguranja isplate svih svota koje duguju prema ovom ugovoru na područja obiju odgovornih stranaka.
+(5) U slučaju nepostojanja konvertibilnosti između nizozemske i hrvatske valute, svote koje nositelji međusobno isplaćuju primjenom članka 20. i 39. ovog ugovora izračunat će se na osnovi tečaja koji vrijedi na dan isplate, prema izvješću Nizozemske središnje banke, osim ako se zainteresirani nositelji ne dogovore drukčije.
+(6) U slučaju nepostojanja konvertibilnosti između nizozemske i hrvatske valute, svote bespravno isplaćenih davanja ili doprinosa primjenom članaka 46. i 47. izračunat će se prema tečaju koji objavi Nizozemska središnja banka na dan odluke o nadoknađivanju bespravno isplaćenih davanja i naplati doprinosa.

@@ -1,0 +1,5 @@
+# Članak 42.
+PODNOŠENJE ZAHTJEVA, ŽALBI I DRUGIH
+DOKUMENATA
+(1) Zahtjevi, žalbe i druge isprave koje se, sukladno zakonodavstvu jedne ugovorne stranke, podnose tijelu ili nositelju osiguranja u određenom roku, uzet će se u obzir ako su u istom roku podnijeti odgovarajućem tijelu ili nositelju osiguranja druge ugovorne stranke. Tijelo ili nositelj osiguranja druge ugovorne stranke dužan ih je, bez odgađanja, proslijediti tijelu ili nositelju osiguranja prve ugovorne stranke. Datum na koji su ti dokumenti predani tijelu ili nositelju osiguranja druge ugovorne stranke smatrat će se datumom njihovog podnošenja tijelu ili nositelju osiguranja prve ugovorne stranke.
+(2) Zahtjev za davanja podnijet u skladu sa zakonodavstvom jedne ugovorne stranke smatrat će se zahtjevom za odgovarajuće davanje, prema zakonodavstvu druge ugovorne stranke. Međutim, u slučaju starosnih mirovina, to ne vrijedi ako podnositelj zahtjeva izjavi, ili je očito, da se zahtjev odnosi isključivo na mirovinu prema zakonodavstvu prve ugovorne stranke.

@@ -1,0 +1,4 @@
+# Članak 9.
+IZASLANI DJELATNICI
+Članak 8. stavak 1. primjenjuje se sa sljedećim iznimkama i pod sljedećim uvjetima:
+na osobu zaposlenu na području jedne ugovorne stranke, koju poslodavac pri kojemu ona normalno radi pošalje na područje druge ugovorne stranke radi obavljanja određenog posla za tog poslodavca, za vrijeme dok traje plaćeno zaposlenje pri tom poslodavcu, i dalje će se za trajanja toga posla, primjenjivati zakonodavstvo prve ugovorne stranke, kao da je još uvijek zaposlena na području te ugovorne stranke, pod uvjetom da taj posao ne traje duže od dvije godine, i da je potvrda o detaširanju dostavljena u roku od prvih triju mjeseci toga razdoblja. Uzastopna detaširanja istog zaposlenika od strane istog poslodavca smatrat će se jednim detaširanjem, osim ako između njih prođe dvanaest ili više mjeseci.

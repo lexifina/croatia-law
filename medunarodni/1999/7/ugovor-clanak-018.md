@@ -1,0 +1,9 @@
+# Članak 18.
+BORAVAK IZVAN PODRUČJA NADLEŽNE DRŽAVE - POVRATAK ILI TRAJNO PRESELJENJE NA PODRUČJE DRUGE UGOVORNE STRANKE ZA VRIJEME BOLESTI ILI MAJČINSTVA - PRUŽANJE DAVANJA VEĆE VRIJEDNOSTI
+(1) Osoba koja ispunjava uvjete za pravo na davanje prema zakonodavstvu jedne od ugovornih stranaka ima pravo na takva davanja i za vrijeme privremenog boravka na području druge ugovorne stranke, ako njeno stanje zahtijeva hitno liječenje.
+(2) Osoba koja ima pravo na davanja na teret nositelja jedne od ugovornh stranaka, a prebiva na području te stranke, zadržava to pravo ako trajno preseli na područje druge ugovorne stranke. Međutim, prije preseljenja ta je osoba obvezna pribaviti dozvolu nadležnog nositelja. Takva se dozvola može uskratiti samo ako se ustanovi da bi preseljenje osobe bilo štetno za njeno zdravlje ili bi ugrozilo liječenje.
+(3) Osobi koja ima pravo na davanja sukladno odredbama prethodnih stavaka, davanja u naravi na teret nadležnog nositelja pružat će nositelj u mjestu privremenog boravka ili u prebivalištu, sukladno odredbama zakonodavstva koje primjenjuje potonji nositelj, kao da je ta osoba kod nje osigurana. Međutim, dužina razdoblja tijekom kojega će se davanja pružati odredit će se prema zakonodavstvu nadležne države.
+(4) U slučajevima navedenima u stavku 1. i 2. ovog članka za proteze, veća pomagala i druga značajnija davanja u naravi - osim u slučaju bezuvjetne hitnosti - potrebna je dozvola nadležnog nositelja.
+(5) U slučajevima navedenima u stavku 1. i 2. ovog članka nadležni će nositelj isplaćivati novčana davanja u skladu sa zakonodavstvom koje primjenjuje.
+(6) Odredbe ovog članka jednako će se primjenjivati na članove obitelji te osobe.
+(7) Odredbe stavka 1. i 6. ovog članka ne vrijede za osobe koje na područje ugovorne stranke, koja nije nadležna država, odlaze radi liječenja.
