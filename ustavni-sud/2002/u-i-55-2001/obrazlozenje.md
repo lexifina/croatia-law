@@ -1,0 +1,35 @@
+Obrazloženje
+1. Tonći Lučev (u daljnjem tekstu: predlagatelj) podnio je Ustavnom sudu prijedlog za ocjenu suglasnosti s Ustavom dijela članka 35. koji se odnosi na odredbe novog članka 67.a stavka 2. alineje 2. i stavka 3. Zakona o izmjenama i dopunama Zakona o sudovima (»Narodne novine«, broj 129/2000, u daljnjem tekstu: ZidZS), kao i prijedlog za ocjenu suglasnosti s Ustavom odredaba članka 64. Zakona o sudovima (»Narodne novine«, broj 3/94).
+Budući da se osporavaju i odredbe izvornog zakonskog teksta iz 1994. godine, prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 64. Zakona o sudovima (»Narodne novine«, broj 3/94) izdvojen je u zaseban predmet.
+U istom podnesku predlagatelj je, pozivajući se na odredbu članka 43. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 99/99, u daljnjem tekstu: Ustavni zakon), predložio i donošenje mjere privremene obustave izvršenja pojedinačnih akata ili radnji koje se poduzimaju na osnovi dijela članka 35. ZidZS-a, čija se suglasnost s Ustavom ocjenjuje.
+2. Odredbe članka 35. ZidZS-a u cijelosti glase:
+»Članak 35.
+U Glavi »VI. SUCI I SUCI POROTNICI« u odjeljku »2. DUŽNOSTI I PRAVA SUCA« iza naslova »e) Odgovornost za štetu« dodaje se novi naslov i članak 67.a koji glase:
+»f) Prestanak sudačke dužnosti
+Članak 67.a
+Sucu prestaje sudačka dužnost ako ga u skladu s Ustavom i zakonom te dužnosti razriješi Državno sudbeno vijeće.
+Sucu prestaje sudačka dužnost po sili zakona u sudu u koji je imenovan:
+- smrću,
+- kad sudac navrši 70 godina života,
+- danom stupanja na službu u drugom sudu, odnosno pravosudnom ili državnom tijelu.
+Rješenje kojim se utvrđuje nastupanje okolnosti iz stavka 2. ovoga članka donosi predsjednik suda u kojem je sudac obnašao dužnost i dostavlja ga Državnom sudbenom vijeću i ministarstvu nadležnom za poslove pravosuđa«.
+3. Predlagatelj navodi da je dio članka 35. koji se odnosi na odredbe novog članka 67.a stavka 2. alineje 2. i stavka 3. ZidZS-a u nesuglasnosti s odredbama članka 123. stavka 3. u vezi s člankom 124. stavkom 1. Ustava Republike Hrvatske (»Narodne novine«, pročišćeni tekst, broj 124/2000 od 11. studenoga 2001.). U važećem Ustavu Republike Hrvatske (»Narodne novine«, pročišćeni tekst, broj 41/2001) odredbe na koje se poziva predlagatelj nalaze se u članku 122. stavku 3. i članku 123. stavku 1. Ustava.
+Navedene odredbe Ustava propisuju pretpostavke za razrješenje suca, kao i nadležnost za donošenje odluke o razrješenju sudačke dužnosti. Pozivajući se na navedene ustavne odredbe, predlagatelj zaključuje da o razrješenju suca, kad navrši sedamdeset godina života, odlučuje Državno sudbeno vijeće. Napominje da se ostale pretpostavke propisane u novom članku 67.a stavku 2. (smrt suca, odnosno stupanje na službu u drugo državno tijelo) ne mogu poistovjetiti s okolnošću da je sudac navršio sedamdeset godina života, i to stoga što je navršenje sedamdesete godine života, za razliku od ostale dvije, ustavna osnova za razrješenje suca, a da po Ustavu suca može razriješiti samo Državno sudbeno vijeće.
+Osim toga, predlagatelj ističe da Ustav jamči sucu pravo na žalbu protiv odluke Državnog sudbenog vijeća o njegovu razrješenju za čije je rješavanje nadležan Ustavni sud, a da se osporavanim odredbama ZidZS-a protuustavno isključuje pravo suca na žalbu, koje je pravo sucu zajamčeno člankom 122. stavkom 4. Ustava.
+Prijedlog je djelomice osnovan.
+4. Neposredno mjerodavne za ocjenu ustavnosti osporenog dijela članka 35. koji se odnosi na odredbe novog članka 67.a stavka 2. alineje 2. i stavka 3. ZidZS-a jesu odredbe članka 122. stavka 3. alineje 5. i stavka 4., te članka 123. stavka 1. Ustava, koje glase:
+»Članak 122.
+(3) Sudac će biti razriješen sudačke dužnosti:
+(…)
+… kad navrši sedamdeset godina.
+(4) Protiv odluke o razrješenju sudačke dužnosti sudac ima pravo u roku od 15 dana od dana dostave odluke, podnijeti Ustavnom sudu Republike Hrvatske žalbu o kojoj Ustavni sud odlučuje na način i u sastavu određenom Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
+Članak 123.
+(1) Suce, u skladu s Ustavom i zakonom, imenuje i razrješuje te o njihovoj stegovnoj odgovornosti odlučuje Državno sudbeno vijeće«.
+Iz navedenih ustavnih odredaba nedvojbeno proizlazi da je navršavanje sedamdesete godine života ustavna osnova za razrješenje suca sudačke dužnosti. Iz tih odredaba također proizlazi da je za razrješenje suca uslijed navršenih sedamdeset godina života nadležno Državno sudbeno vijeće.
+To znači da navršavanjem sedamdesete godina života prestaje sudačka dužnost sucu po sili Ustava, a ujedno se ustanovljava ustavna obveza Državnog sudbenog vijeća da takvog suca i formalno razriješi sudačke dužnosti, i to s danom protekom kojega je sudac navršio sedamdeset godina života.
+Stoga je nesuglasan Ustavu dio članka 35. ZidZS-a kojim se, suprotno Ustavu, propisuje da predsjednik suda (u kojem je sudac obnašao dužnost) donosi rješenje kojim utvrđuje da je određeni sudac navršio sedamdeset godina života, te da mu je uslijed nastupa te činjenice po sili zakona prestala sudačka dužnost, koje rješenje predsjednik suda samo dostavlja Državnom sudbenom vijeću.
+Takvim zakonskim rješenjem zakonodavac je, protivno Ustavu, uskratio i Ustavom zajamčeno pravo suca na podnošenje žalbe Ustavnom sudu protiv odluke Državnog sudbenog vijeća o razrješenju suca uslijed navršenih sedamdesetih godina života (koje pravo bi sudac, primjerice, imao u slučaju pogrešnog utvrđenja njegovih godina života). To stoga što protiv rješenja predsjednika suda o prestanku sudačke dužnosti uslijed navršenih sedamdeset godina života sudac nema pravo žalbe Ustavnom sudu temeljem članka 122. stavka 4. Ustava.
+Iz navedenih je razloga Ustavni sud prihvatio prijedlog predlagatelja i ukinuo dio članka 35. ZidZS-a koji se odnosi na odredbu novog članka 67.a stavka 2. alineje 2., utvrđujući njezinu nesuglasnost s člankom 122. stavkom 3. alinejom 5. i stavkom 4. u vezi s člankom 123. stavkom 1. Ustava.
+5. Ustavni sud nije prihvatio prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom dijela članka 35. koji se odnosi na odredbu novog članka 67.a stavka 3. ZidZS-a. Nakon utvrđivanja nesuglasnosti s Ustavom i ukidanja dijela članka 35. koji se odnosi na odredbu novog članka 67.a stavka 2. alineje 2. ZidZS-a, odredba tog stavka sada se odnosi samo na preostala dva slučaja propisana zakonom (smrt suca, odnosno stupanje na službu u drugom sudu, pravosudnom ili državnom tijelu), što Ustavni sud ocjenjuje sukladnim Ustavu.
+6. Predlagatelj je Ustavnom sudu predložio da do donošenja konačne odluke privremeno obustavi izvršenje pojedinačnih akata ili radnji koje se poduzimaju na osnovi dijela članka 35. koji se odnosi na novi članak 67.a stavak 2. alineju 2. i stavak 3. ZidZS-a. Budući da je Ustavni sud ovom odlukom konačno odlučio o suglasnosti osporenih odredaba ZidZS-a s Ustavom, o tom prijedlogu predlagatelja nije posebno rješavano.
+7. Ova se odluka temelji na odredbi članka 53. stavka 1., a rješenje na odredbi članka 41. Ustavnog zakona.
