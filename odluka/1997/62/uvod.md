@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 2. Zakona o financiranju jedinica lokalne samouprave i uprave ("Narodne novine" broj 117/93.) i članka 36. Statuta Grada Varaždina ("Službeni vjesnik Grada Varaždina" broj 1/94., 4/95. i 6/96.), Gradsko vijeće Grada Varaždina na sjednici održanoj 12. prosinca 1996. godine, donosi
