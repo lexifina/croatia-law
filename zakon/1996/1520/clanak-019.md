@@ -1,0 +1,7 @@
+# Članak 19.
+U članku 48. stavci 4. do 8. mijenjaju se i glase:
+"Pokretnine u vlasništvu jedinica lokalne samouprave i uprave, na kojima je do stupanja na snagu Zakona o vatrogastvu ("Narodne novine", br. 58/93.) pravo raspolaganja imalo dobrovoljno vatrogasno društvo, odnosno vatrogasni savez, danom stupanja na snagu ovoga Zakona postaju vlasništvo udruge dobrovoljnih vatrogasaca, odnosno vatrogasne zajednice koja je pravni sljednik dobrovoljnoga vatrogasnog društva, odnosno vatrogasnog saveza koji je bio nositelj prava raspolaganja nad tim sredstvima.
+Pokretnine iz stavka 4. ovoga članka ne mogu se otuđiti, a mogu se koristiti isključivo za obavljanje vatrogasne djelatnosti.
+Financijska sredstva za održavanje pokretnina iz stavka 4. ovoga članka osiguravaju se u proračunu jedinice lokalne samouprave i uprave na području na kojem je sjedište vlasnika pokretnine.
+Nekretnine i pokretnine na kojima pravo vlasništva, odnosno pravo korištenja imaju udruge dobrovoljnih vatrogasaca, odnosno njihove zajednice koje prestaju s radom, privremeno preuzima Grad Zagreb, grad, odnosno općina prema sjedištu vatrogasnog društva, odnosno, udruge te saveza, odnosno zajednice.
+Nekretnine i pokretnine iz stavka 7. ovoga članka ne mogu se otuđiti, a na prijedlog Hrvatske vatrogasne zajednice, uz pisanu suglasnost glavnoga vatrogasnog zapovjednika, postaju vlasništvo udruga dobrovoljnih vatrogasaca, odnosno njihovih zajednica koje djeluju na području županije, Grada Zagreba, grada, odnosno općine."
