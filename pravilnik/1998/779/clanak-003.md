@@ -1,0 +1,4 @@
+# Članak 3.
+Pravo na rad s polovicom punog radnog vremena do tri godine djetetova života može ostvariti samo jedan od roditelja pod uvjetom da su oba roditelja u radnom odnosu s punim radnim vremenom, te roditelj koji sam brine i njeguje dijete iz članka 1. ovoga Pravilnika.
+Pravo iz stavka 1. ovoga članka može ostvariti i jedan zaposleni roditelj pod uvjetom da drugi roditelj koji nije zaposlen nije u mogućnosti zbog svog psihofizičkog stanja pružiti pojačanu brigu i njegu djetetu.
+Iznimno, jedan zaposleni roditelj može ostvariti pravo iz stavka 1. ovoga članka za vrijeme dok je drugi roditelj koji nije zaposlen na odsluženju vojnoga roka ili služi u pričuvnom sastavu ili se nalazi u pritvoru ili na izdržavanju kazne zatvora duže od 30 dana, odnosno ta prava može ostvariti otac dok je majka na obveznom porodnom dopustu.
