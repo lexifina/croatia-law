@@ -1,0 +1,1 @@
+Temeljem zaključka Vlade Republike Hrvatske klasa: 341-02/97-01/01; urbroj: 5030116-98-8 od 24. srpnja 1998. godine i sukladno članku 7. st. 2. Zakona o kreditnim poslovima s inozemstvom ("Narodne novine", br. 43 od 31. svibnja 1996. godine) Ministarstvo financija donosi sljedeću
