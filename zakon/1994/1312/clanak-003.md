@@ -1,0 +1,2 @@
+# Članak 3.
+Članak 6. mijenja se i glasi: "Proizvodnjom i distribucijom električne energije mogu se baviti trgovačka društva, trgovac pojedinac, obrtnici i građani (u daljnjem tekstu elektroprivredni subjekt) pod uvjetima iz ovoga Zakona i aktima donesenim na temelju ovoga Zakona. Prijenosom električne energije i upravljanjem elektroenergetskim sustavom može se baviti samo elektroprivredni subjekt u čijem temeljnom kapitalu s većinskim udjelom sudjeluje Republika Hrvatska."
