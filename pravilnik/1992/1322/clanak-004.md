@@ -1,0 +1,2 @@
+# Članak 4.
+Jedinstvene mjenične blankete tiska i pušta u upotrebu Ministarstvo financija Republike Hrvatske a distribuira Narodna banka Hrvatske putem Službe društvenog knjigovodstva Hrvatske. Za pokriće troškova distribucije jedinstvenih mjeničnih blanketa Narodnoj banci Hrvatske pripada naknada. Ministarstvo financija Republike Hrvatske sklopit će ugovor s Narodnom bankom Hrvatske kojim će regulirati tiskanje, puštanje u upotrebu i distribuciju jedinstvenih mjenićnih blanketa i naknadu iz stavka 2. ovog članka.

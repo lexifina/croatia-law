@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85. 41/90, 47/90 i 53A/91), rad. izvršenja Zakona o mjenici ("Službeni list FNRJ", br.104/46, "Službeni list SFRJ", br.12/65, 50/71 i 52/73 i "Narodne novine", br. 53/91), ministar financija donosi
