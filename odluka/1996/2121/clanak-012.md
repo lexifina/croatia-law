@@ -1,0 +1,2 @@
+# Članak 12.
+Danom stupanja na snagu ove odluke prestaje vrijediti Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom samostalno u obliku zanimanja obavljaju profesionalnu djelatnost i za osiguranike-vrhunske športaše koji amaterski obavljaju športsku djelatnost ("Narodne novine", broj 4/96).
