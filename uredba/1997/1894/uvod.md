@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. Ustavnog zakona o suradnji Republike Hrvatske s Međunarodnim kaznenim sudom ("Narodne novine", broj 32/96) i članka 25. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), Vlada Republike Hrvatske je na sjednici održanoj 4. prosinca 1997. godine, donijela
