@@ -1,0 +1,6 @@
+## ODLAGALIŠTE OTPADA
+# Članak 12.
+Odlagalište otpada razvrstava se u I. i II. kategoriju prema vrstama otpada.
+Komunalni otpad odlaže se na odlagalište I. kategorije.
+Tehnološki otpad odlaže se na odlagalište otpada I., odnosno II. kategorije ovisno o sastavu eluata prema sljedećoj tablici:
+Dopuštene masene koncentracije tvari i vrijednosti fizikalno- kemijskih veličina u eluatu za odlagalište I. i II. kategorije Kontrolirane tvari i fizi- Odlagalište I. Odlagalište II. kalno-kemijske veličine kategorije kategorije ukupni organski ugljik (TOC) do 200 mg/l do 20 mg/l arsen do 0,5 mg/l do 0,2 mg/l olovo do 1,0 mg/l do 0,2 mg/l kadmij do 0,1 mg/l do 0,05 mg/l krom6+ do 0,1 mg/l do 0,05 mg/l nikal do 1,0 mg/l do 0,2 mg/l cink do 5,0 mg/l do 2,0 mg/l bakar do 5,0 mg/l do 1,0 mg/l živa do 0,02 mg/l do 0,005 mg/l fenoli do 50 mg/l do 0,2 mg/l fluoridi do 25 mg/l do 5,0 mg/l amonij do 250 mg/l do 4,0 mg/l cijanid (lako oslobodivi) do 0,5 mg/l do 0,1 mg/l nitriti od 3 do 6 mg/l do 3,0 mg/l organski halogeni spojevi koji se daju ekstrahirati (AOX) do 1,5 mg/l do 0,3 mg/l isparni ostatak do 6% masenih do 3% masenih vodljivost do 50000 mS/cm do 10000 mS/cm pH vrijednost od 5,5 do 13 od 5,5 do 13
