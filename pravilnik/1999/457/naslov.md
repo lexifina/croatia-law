@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o postupku i uvjetima za priznavanje prava samostalnih umjetnika na uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava prora
