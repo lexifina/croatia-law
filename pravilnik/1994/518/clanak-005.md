@@ -1,0 +1,2 @@
+# Članak 5.
+Kalendar ispitnih rokova iz članka 4. stavka 1. ovoga pravilnika donosi ravnatelj škole nakon pribavljenog mišljenja nastavničkog vijeća, do 30. rujna tekuće školske godine Kalendar sadrži rokove za predaju maturalnog i završnog rada odnosno praktičnog rada, dane i sate za održavanje pismenih i usmenih ispita na maturi odnosno završnom ispitu, te dan uručivanja svjedodžbi o položenoj maturi, odnosno završnom ispitu. Škola je dužna izvijestiti učenike o kalendaru ispitnih rokova najkasnije 30 dana prije održavanja mature, odnosno završnog ispita.

@@ -1,0 +1,2 @@
+# Članak 10.
+Ispitna komisija sastoji se od predsjednika i dva do četiri člana, od kojih je jedan član nastavnik ispitnog predmeta. Ispitna komisija provodi ispite i odlučuje u punom sastavu. Ispitna komisija utvrđuje ocjene iz pojedinih dijelova mature, odnosno završnog ispita, na prijedlog ispitivača većinom glasova. Ako ocjena nije utvrđena većinom glasova članova ispitne komisije, konačnu odluku o ocjeni donosi ispitni odbor.
