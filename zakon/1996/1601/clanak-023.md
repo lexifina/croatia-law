@@ -1,0 +1,4 @@
+# Članak 23.
+Članak 31. mijenja se i glasi:
+"Državni zavod za statistiku obavlja stručne poslove koji se odnose na: pripremu i provedbu programa statističkih istraživanja Republike Hrvatske, a posebice prikuplja, obrađuje, čuva, analizira, objavljuje i daje na korištenje statističke podatke na temelju jedinstvene metodologije i jedinstvenih statističkih standarda; unapređivanje statističkih metoda; izgrađivanje statističkoga informacijskoga sustava kao dijela sustava informiranja; uvođenje i vođenje administrativnih i statističkih registara; davanje metodoloških i drugih stručnih uputa za statistička istraživanja i nadzor nad njihovim provođenjem, razmjenjivanje statističkih podataka s drugim državnim i međunarodnim organizacijama.
+Državni zavod za statistiku obavlja i stručne poslove koji se odnose na: analizu i prognozu makroekonomskih kretanja u nacionalnom gospodarstvu; obavlja i druge poslove koji su mu stavljeni u nadležnost."

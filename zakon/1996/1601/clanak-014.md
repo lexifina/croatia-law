@@ -1,0 +1,5 @@
+# Članak 14.
+Članak 17. mijenja se i glasi:
+"Ministarstvo prosvjete i športa obavlja upravne i druge stručne poslove u području prosvjete koji se odnose na: sustav predškolskog odgoja, osnovnoškolskog i srednjoškolskog odgoja i obrazovanja u zemlji i inozemstvu; nastavne planove i programe; udžbenike, normative i standarde te druge uvjete za odgojno-obrazovni rad; razvitak školstva; stručno obrazovanje i usavršavanje odgajatelja, učitelja i nastavnika; učenički standard; inspekcijski i stručno-pedagoški nadzor; osnivanje i nadzor nad zakonitošću rada ustanova te osiguravanje financijskih i materijalnih uvjeta za rad u odgoju i obrazovanju.
+Ministarstvo prosvjete i športa obavlja i upravne i druge stručne poslove na području športa i tjelesne kulture koji se odnose na: razvitak športa, zaštitu i podizanje zdravlja djece, mladeži i odraslih te na djelatnost udruga u ovom području.
+Ministarstvo prosvjete i športa obavlja i upravne i druge poslove koji se odnose na: osposobljavanje djece, mladeži i odraslih za stjecanje tehničkih znanja i vještina te djelatnost udruga u ovom području; obavljanje i drugih poslova koji su mu stavljeni u nadležnost."
