@@ -1,0 +1,1 @@
+Na temelju članka 170. stavka 2. Zakona o visokim učilištima - pročišćeni tekst (»Narodne novine« 59/96) i članka 32. stavak 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihove obitelji (»Narodne novine« 108/96), donosim
