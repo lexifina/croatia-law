@@ -1,0 +1,1 @@
+Na temelju članka 30a. stavka 2. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01 i članka 26. stavka 1. točke 2. Statuta Grada Bjelovara (»Službeni glasnik Grada Bjelovara« broj 8/01) Gradsko vijeće Grada Bjelovara na 11. sjednici održanoj 16. svibnja 2002. godine donijelo je
