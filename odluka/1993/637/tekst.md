@@ -1,0 +1,7 @@
+o osnovicama za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa za godinu 1993.
+1. Osnovica za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa (čl. 18. i 19.) jest prosječna plaća koju je osiguranik ostvario u godini 1992.
+Za osiguranike za koje se ne raspolaže podacima o prosječnoj plaći u godini 1992. za osnovicu za određivanje prava i za obračunavanje i plaćanje doprinosa, uzima se svota prosječne minimalne plaće iz godine 1992.
+Za osiguranike koji su u godini 1992. bili privremeno izvan radnog odnosa osnovica za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje u godini 1993. povećava se za 314,4%.
+2. Doprinos za mirovinsko i invalidsko osiguranje obračunava se i plaća prema Zakonom utvrdenoj stopi za osiguranike koji su sami obveznici plaćanja doprinosa, kada im se plaća utvrđuje u neto svoti.
+3. Na dan stupanja na snagu ove odluke prestaje vrijedit odluka o osnovicama za određivanje prava i za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike privremeno izvan radnog odnosa za godinu 1992. ("Narodne novine", broj 16/92.).
+4. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1993.
