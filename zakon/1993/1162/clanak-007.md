@@ -1,0 +1,2 @@
+# Članak 7.
+Ako na području Grada Zagreba, grada odnosno općine nema vatrogasne postrojbe udruga dobrovoljnih vatrogasaca (u daljnjem tekstu dobrovoljne vatrogasne postrojbe) ili nema onoliki broj dobrovoljnih vatrogasnih postrojbi koliki je određen planom zaštite od požara Grada Zagreba te gradskim odnosno, općinskim planom zaštite od požara, predstavničko tijelo Grada Zagreba te grada, odnosno općine poduzet će poticajne mjere za osnivanje i opremanje potrebnog broja dobrovoljnih vatrogasnih postrojbi.

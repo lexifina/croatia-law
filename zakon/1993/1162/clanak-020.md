@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Dobrovoljni vatrogasci koji su u radnom odnosu, kad sudjeluju u vatrogasnoj intervenciji za vrijeme radnog vremena, imaju pravo na naknadu plaće od Grada Zagreba, grada, odnosno općine na čijem području je obavljena vatrogasna intervencija.
+(2) Dobrovoljni vatrogasci koji su u radnom odnosu, a poslije radnog vremena sudjeluju u vatrogasnoj intervenciji, imaju pravo na neradni slijedeći dan, uz pravo na naknadu plaće za taj dan, od Grada Zagreba, grada, odnosno općine na čijem području je obavljena vatrogasna intervencija.
+(3) Dobrovoljni vatrogasci koji nisu u radnom odnosu, kad sudjeluju u vatrogasnim intervencijama, imaju pravo na naknadu od Grada Zagreba, grada, odnosno općine na čijem podrućju je obavljena vatrogasna intervencija.
+(4) Visinu naknade iz stavka 2. ovoga članka određuje Grad Zagreb, grad, odnosno općina, koja ne može biti manja od naknade za obavljanje poslova djelatnika srednje stručne spreme u organima kojima se sredstva za rad osiguravaju u državnom proračunu.

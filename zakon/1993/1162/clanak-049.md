@@ -1,0 +1,4 @@
+# Članak 49.
+(1) Sredstva za plaće djelatnika u stalnom radnom odnosu u dobrovoljnim vatrogasnim društvima na dan stupanja na snagu ovoga Zakona, osiguravaju se u proračunu Grada Zagreba ili grada odnosno općine na čijem području djeluje vatrogasno društvo, do donošenja plana zaštite od požara kojim će se utvrditi potrebe za takvim djelatnicima.
+(2) Sredstva za plaće djelatnika u stalnom radnom odnosu u Vatrogasnom savezu Hrvatske odnosno vatrogasnim savezima općina osiguravaju se u državnom proračunu odnosno proračunu općine do 31. 12 1993. godine.
+(3) Nakon isteka roka iz stavka 2. ovoga članka, plaće djelatnika iz stavka 2. ovoga članka osiguravaju se iz sredstava kojima se financira rad udruga građana sukladno zakonu koji regulira udruživanje građana u udruge građana i iz članarine članica.
