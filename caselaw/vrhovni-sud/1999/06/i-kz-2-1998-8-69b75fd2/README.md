@@ -1,0 +1,11 @@
+# I Kž-2/1998-8, Vrhovni sud Republike Hrvatske, 8.6.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=69b75fd2-a887-4f6d-a70a-e255548a8060
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-06-08
+- Publication date on source: 2003-08-21
+- ECLI: ECLI:HR:VSRH:1999:4891
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
