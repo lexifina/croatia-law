@@ -1,0 +1,4 @@
+# Članak 16.
+Kada koncesija prestane sukladno članku 14. i 15. ovoga Zakona, ovlaštenik koncesije nema pravo na odštetu.
+Ako je ovlaštenik koncesije izgradio štogod na lučkom području na osnovi koncesije, ima pravo uzeti prinove i građevine koje je izgradio ako je to moguće po prirodi stvari i bez veće štete za lučko područje. Ako to nije moguće, prinove i građevine smatraju se pripadnošću pomorskog dobra, ali davatelj koncesije može tražiti od ovlaštenika koncesije da ih o svom trošku ukloni u cijelosti ili djelomično i vrati lučko područje u prijašnje stanje.
+Ako ovlaštenik koncesije ne udovolji traženju davatelja koncesije da mu u određenom roku preda lučko područje na slobodno raspolaganje, odnosno da ukloni prinove i građevine, davatelj koncesije može prinove i građevine ukloniti na trošak ovlaštenika koncesijc.

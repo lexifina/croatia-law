@@ -1,0 +1,4 @@
+# Članak 6.
+Vlada Republike Hrvatske donosi odluku kojom propisuje mjerila za razvrstaj luka iz članka 5. stavak 1. ovoga Zakona i odluku o razvrstaju luka za posebne namjene prema značaju za Republiku Hrvatsku, sukladno članku 5. stavak 3. ovoga zakona.
+Kod utvrđivanja mjerila za razvrstaj luka, Vlada Republike Hrvatske uzet će u obzir ukupni promet svake luke u proteklom desetogodišnjem razdoblju i njegove osobine; operativni kapacitet svake luke; stanje lučke opreme i uređaja; kapacitet uređaja i usluga za opskrbu, održavanje i popravak plovila i luke; kakvoću i značaj prometnih veza sa zaleđem; prostorne i gospodarske mogućnosti daljnjeg razvoja luke i dr.
+Polazeći od općih smjernica za razvoj luka utvrđenih desetogodišnjim planom razvoja lučkog sustava, Vlada Republike Hrvatske može promijeniti mjerila iz stavka 1. ovoga članka, uzimajući u obzir objektivno predvidive mogućnosti razvoja pojedine luke.

@@ -1,0 +1,4 @@
+# Članak 34.
+Lučka uprava može u cilju obavljanja djelatnosti iz članka 33. stavka 1. točka 4. ovoga Zakona osnovati jedno ili više trgovačkih društava u svom vlasništvu radi obavljanja poslova djelatnosti čuvanja luke, protupožarne zaštite, rukovanja opasnim teretom i sl., uz prethodnu suglasnost Ministarstva i Ministarstva financija, ukoliko u ponovljenom postupku koncesije nije donesena odluka o dodjeli koncesije.
+Dionice, odnosno udjele u trgovačkim društvima osnovanim prema stavku 1. ovoga članka, lučka uprava dužna je staviti na prodaju najkasnije u roku od godinu dana od osnivanja trgovačkog društva do 49% vrijednosti temeljnog kapitala društva.
+Dobit trgovačkog društva iz stavka 1. ovoga članka koristi se namjenski isključivo za namjene predviđene u članku 46. stavku 1. ovoga Zakona.
