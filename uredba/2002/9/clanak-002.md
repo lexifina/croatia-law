@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe slijedi postojeću granicu pomorskog dobra, koja prolazi rubnim međama k.č. 3839, 3838, 3837, 3834/1 i 3834/2 do točke A. Od točke A granica pravolinijski nastavlja do točke B na udaljenosti 5,5 metara od ruba pokosa, odnosno južne međe k.č. 3833/1 gdje se lomi i nastavlja istočnom međom k.č. 3833/1 do točke C, te dalje nastavlja do točke D na morskoj obali gdje i završava, a sve kako je ucrtano i označeno u grafičkom prilogu na kopiji katastarskog plana k. o. Umag, broj lista katastarskog plana 71, u mjerilu 1:1000.
