@@ -1,0 +1,1 @@
+Na temelju članka 14. i 41. stavka 1. Zakona o morskom ribarstvu ("Narodne novine", br. 44/80., 41/84., 9/88., 8/91., 61/91. 22/92 i 26/93) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78., 50/78., 29/85., 48/85., 41/90., 47/90 i 53A/91) ministar pomorstva, prometa i veza donosi

@@ -1,0 +1,2 @@
+# Članak 18.
+Pravne i fizičke osobe koje obavljaju lov vršama za škampe moraju ispunjavati statistički listić ulova za svaki mjesec i tako ispunjen listić, najkasnije do 15. u slijedećem mjesecu, dostaviti Lučkoj kapetaniji Rijeka. Statistički listići iz stavka l. ovog članka mogu se dobiti u Lučkoj kapetaniji Rijeka i Zadar, kao i u Lučkim ispostavama Crikvenica, Novi Vinodolski, Senj, Sveti Juraj, Karlobag, Starigrad, Šilo, Baška, Rab, Novalja i Pag 7. Ribolov ludrom, zagonicom i fružatom

@@ -1,0 +1,4 @@
+# Članak 2.
+Područjem Velebitskog kanala (u daljnjem tekstu: Velebitski kanal) u smislu ovog Pravilnika smatra se područje koje je unutar spojnica između točaka odredenih na pomorskim kartama Državnog hidrografskoga instituta u Splitu A i B, te C i D, te E i F, te H i I i obale kopna i na području između obale o. Paga i obale kopna: točka A - Rt Bejavec na o. Krk točka B - svjetionik Ertak na kopnu točka C - RT Škuljica na o. Krk točka D - Rt Stražica na o. Prvić točka E - Rt Šilo na o. Prvić točka F - Rt Sajalo na o. Goli točka G - Rt Saramić na o. Rab točka H - Gornji rt na o. Dolin točka I - Zali rt (Koromačna) na o. Pag točka J - Ljubačka vrata točka K - U. Lisarica na kopnu točka L - Rt Baljenica na kopnu točka M - Rt Korotanja na kopnu.
+II OBAVLJANJE PRIVREDNOG RIBOLOVA
+1. Ribolov male plave ribe

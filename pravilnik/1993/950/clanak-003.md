@@ -1,0 +1,2 @@
+# Članak 3.
+Ribolov male plave ribe u Velebitskom kanalu je dozvoljen i mora se obavljati u skladu s odredbama Pravilnika o privrednom i športskom ribolovu, uzgoju riba i drugih morskih životinja, vađenju spužava, koralja, školjkaša i morskog bilja ("Narodne novine", br. 34/85, 35/86, 26/87, 9/89 i 26/90). Ribolov male plave ribe koji se obavlja uz pomoć osvjetljenja, izuzetno se u Velebitskom kanalu ne dozvoljava na udaljenosti manjoj od 0,1 Nm od obale. 2. Ribolov velike plave ribe
