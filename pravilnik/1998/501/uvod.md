@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 5. Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe ("Narodne novine" br. 1/97. - pročišćeni tekst), ministar zdravstva donosi
