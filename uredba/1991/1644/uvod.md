@@ -1,0 +1,1 @@
+Na osnovi članka 25. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91 i 53A/91), Vlada Republike Hrvatske na sjednici održanoj 22. studenoga 1991. godine donijela je

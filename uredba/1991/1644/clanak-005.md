@@ -1,0 +1,2 @@
+# Članak 5.
+Ured surađuje s Visokim komesarijatom za izbjeglice Ujedinjenih naroda (UNHCR), Uredbom za koordinaciju pomoći u katastrofama Ujedinjenih naroda (UNDRO), UNICEF-om, Caritasom, Međunarodnim komitetom Crvenog križa, Ligom društva Crvenog križa i Crvenog polumjeseca i drugim srodnim međunarodnim i nacionalnim organizacijama, tijelima republičke državne uprave i drugim državnim organima i organizacijama.

@@ -1,0 +1,3 @@
+# Članak 9.
+Pravilnikom o unutarnjem ustrojstvu i načinu rada Ureda uređuju se poslovi koje obavljaju organizacijske jedinice iz članka 6. ove uredbe, osnivaju regionalni uredi iz članka 7. ove uredbe i određuju poslovi koje obavljaju, te način njihova rada, osnivaju povjereništva iz članka 7. ove uredbe i određuju njihovi poslovi; utvrđuju ovlaštenja i odgovornosti radnika u obavljanju poslova; utvrđuje sistematizaciju radnih mjesta s brojem izvršitelja: uređuje način obavljanja poslova u vršenju javnih ovlasti koje su propisima povjerene Uredu i uređuju druga pitanja značajna za organizaciju i način rada Ureda.
+Pravilnik o unutarnjem ustrojstvu i načinu rada Ureda donosi predstojnik Ureda uz suglasnost Vlade Republike Hrvatske.
