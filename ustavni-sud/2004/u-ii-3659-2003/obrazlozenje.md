@@ -1,0 +1,13 @@
+O b r a z l o ž e n j e
+1. Silvano Zili iz Rovinja podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom točke 5. stavka 3. Obvezatnih uputa broj XII - Glasovanje u inozemstvu ("Narodne novine", broj 174/03).
+2. Predlagatelj navodi da je osporena odredba, u vezi s glasovanjem birača - pripadnika nacionalnih manjina koji trajnije borave u inozemstvu, a imaju prebivalište u Republici Hrvatskoj, suprotna odredbama članka 15. stavka 3. i članka 45. stavka 1. Ustava Republike Hrvatske, odredbi članka 19. stavka 1. Ustavnog zakona o pravima nacionalnih manjina ("Narodne novine", broj 155/02) i odredbama članka 4. stavka 1. i članka 15. Zakona o izborima zastupnika u Hrvatski sabor ("Narodne novine", broj 69/03).
+Ističe da je Promjenom Ustava Republike Hrvatske od 16. studenoga 2000. godine ("Narodne novine", broj 113/00, 124/00-pročišćeni tekst, u daljnjem tekstu: Promjena Ustava iz 2000. godine) dopunjen članak 15. Ustava koji uređuje ustavnopravni položaj nacionalnih manjina u Republici Hrvatskoj. Uspoređuje to s uređenjem biračkog prava pripadnika nacionalnih manjina do Promjena Ustava iz 2000. godine, kada se ono temeljilo samo na odredbi članka 45. stavka 1. Ustava koja je propisivala da svi hrvatski državljani (što znači i pripadnici nacionalnih manjina) imaju opće i jednako biračko pravo s navršenih 18 godina.
+Pretpostavke za vođenje ustavnosudskog postupka prestale su postojati.
+3. Obvezatne upute broj XII donijelo je Državno izborno povjerenstvo na temelju članka 48. točke 3. Zakona o izborima zastupnika u Hrvatski sabor ("Narodne novine", broj 69/03-pročišćeni tekst). Odnose se na birače koji nemaju prebivalište u Republici Hrvatskoj i birače koji imaju prebivalište u Republici Hrvatskoj, a na dan izbora se zateknu izvan granica Republike Hrvatske.
+Obvezatne upute broj XII donijete su radi provođenja izbora zastupnika u Hrvatski sabor koji su održani dana 22., 23. i 30. studenoga 2003. godine.
+Okončanjem konkretnih izbora prestale su važiti Obvezatne upute broj XII koje predlagatelj osporava.
+4. Odredbom članka 61. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (“Narodne novine”, broj 49/02-pročišćeni tekst; u daljnjem tekstu: Ustavni zakon), propisano ja da Ustavni sud može obustaviti postupak ako podnositelj zahtjeva, odnosno prijedloga odustane, a mora u slučajevima kad prestanu postojati pretpostavke za vođenje postupka.
+5. S obzirom da su se, u konkretnom slučaju, ispunile pretpostavke za primjenu odredbe članka 61. Ustavnog zakona, to je temeljem iste odredbe riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-3659/2003
+Zagreb, 28. travnja 2004.
