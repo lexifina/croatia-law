@@ -1,0 +1,1 @@
+Na temelju članka 81. Zakona o lokalnoj samoupravi i upravi ("Narodne novine", br. 90/92, 94/93 i 117/93) i članka 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), a na prijedlog Ministarstva uprave, Vlada Republike Hrvatske je na sjednici održanoj 20. travnja 1995. godine donijela
