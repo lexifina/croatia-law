@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, dopredsjednik Suda, te suci Marijan Hranjski, Mario Kos, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Željko Potočnjak, Agata Račan, Emilija Rajić, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, u povodu prijedloga za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj dana 12. ožujka 2003. godine, donio je
