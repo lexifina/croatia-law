@@ -1,0 +1,1 @@
+Naredba o obveznom trihineloskopskom pregledu mesa svinja kod klanja za potrebe vlastitog domaćinstva na području županija; Vukovarsko-srijemske, Osječko-baranjske, Brodsko-posavske i Virovitičko-podr

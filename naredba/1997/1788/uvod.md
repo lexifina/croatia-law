@@ -1,0 +1,1 @@
+Temeljem članka 11. stavka 1. točke 2. i članka 79. Zakona o veterinarstvu ("Narodne novine" broj 70/97), a u svezi točke IV. podtočke 2. Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 1997. godini ("Narodne novine" broj 109/96), ministar poljoprivrede i šumarstva donosi
