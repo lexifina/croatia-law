@@ -1,0 +1,5 @@
+# Članak 4.
+Članak 70. mijenja se i glasi:
+»(1) Poreza na dodanu vrijednost oslobođen je privremeni uvoz dobara koji je oslobođen carine i konačni uvoz humanitarne pomoći osim nafte i naftnih derivata, duhana i duhanskih proizvoda, alkohola i alkoholnih pića. Humanitarnom pomoći u smislu članka 12. točke 1. i 12. Zakona, smatra se uvoz dobara za potrebe humanitarnih organizacija (oprema, potrošni materijal) i za programe pomoći što ih te organizacije daju, te donacije dobara kada ih inozemni donatori poklanjaju zdravstvenim, obrazovnim, kulturnim, znanstvenim, vjerskim i socijalnim ustanovama, športskim amaterskim klubovima i tijelima državne, lokalne i područne (regionalne) samouprave kao i uvoz dobara od strane istih koja se plaćaju iz primljenih inozemnih novčanih donacija.
+(2) S humanitarnim organizacijama, u smislu Zakona i ovoga Pravilnika, izjednačene su neprofitne organizacije, ustanove i udruge.
+(3) Za ostvarenje poreznog oslobođenja pri uvozu potrebno je priložiti isprave prema carinskim propisima.«
