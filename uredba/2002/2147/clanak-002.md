@@ -1,0 +1,24 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+Y X
+TOČKA 1 5 617 797.13 4 781 253.00
+TOČKA 2 5 617 798.01 4 781 241.97
+TOČKA 3 5 617 802.58 4 781 241.68
+TOČKA 4 5 617 806.79 4 781 239.36
+TOČKA 5 5 617 811.14 4 781 227.31
+TOČKA 6 5 617 830.85 4 781 229.49
+TOČKA 7 5 617 831.13 4 781 228.60
+TOČKA 8 5 617 837.61 4 781 229.59
+TOČKA 9 5 617 837.34 4 781 232.17
+TOČKA 10 5 617 880.85 4 781 235.27
+TOČKA 11 5 617 902.65 4 781 237.97
+TOČKA 12 5 617 905.51 4 781 239.82
+TOČKA 13 5 617 907.18 4 781 245.42
+TOČKA 14 5 617 908.71 4 781 247.48
+TOČKA 15 5 617 910.04 4 781 258.64
+TOČKA 16 5 617 911.47 4 781 270.70
+TOČKA 17 5 617 911.45 4 781 283.11
+TOČKA 18 5 617 908.78 4 781 295.72
+TOČKA 19 5 617 898.56 4 781 312.24
+TOČKA 20 5 617 883.93 4 781 312.24
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Hvar, broj lista plana 20, u mjerilu 1:2880 i na snimci stvarnog stanja u mjerilu 1:500.
