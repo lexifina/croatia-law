@@ -1,0 +1,2 @@
+# Članak 3.
+Izvješće javnog dioničkog društva iz grupe financijskih institucija obvezno se podnosi ispunjavanjem obrasca »TFI-FIN« i to: »Tablica A. Opći podaci o financijskoj instituciji«, »Tablica B. Bilanca financijske institucije«, »Tablica C. Račun dobiti i gubitka«, »Tablica D. Izvještaj o novčanom tijeku financijske institucije«, »Tablica E. Izvještaj o promjenama temeljnog kapitala financijske institucije« i »Tablica F. Pojašnjenja i komentar uprave financijske institucije«.

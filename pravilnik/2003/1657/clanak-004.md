@@ -1,0 +1,2 @@
+# Članak 4.
+Izvješće javnog dioničkog društva iz grupe društava za osiguranje obvezno se podnosi ispunjavanjem obrasca »TFI-OSG« i to: »Tablica A. Opći podaci o osiguravajućem društvu«, »Tablica B. Bilanca osiguravajućeg društva«, »Tablica C. Račun dobiti i gubitka osiguravajućeg društva«, »Tablica D. Izvještaj o novčanom tijeku osiguravajućeg društva«, »Tablica E. Izvještaj o promjenama temeljnog kapitala osiguravajućeg društva«, i »Tablica F. Pojašnjenja i komentar uprave osiguravajućeg društva«.

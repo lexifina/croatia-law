@@ -1,0 +1,2 @@
+# Članak 5.
+Izvješće javnog dioničkog društva iz grupe ostalih dioničkih društava obvezno se podnosi ispunjavanjem obrasca »TFI-POD« i to: »Tablica A. Opći podaci o dioničkom društvu«, »Tablica B. Bilanca dioničkog društva«, »Tablica C. račun dobiti i gubitka dioničkog društva«, »Tablica D. Izvještaj o novčanom tijeku za dioničko društvo«, »Tablica E. Izvještaj o promjenama glavnice dioničkog društva« i »Tablica F. Pojašnjenja i komentar uprave dioničkog društva«.
