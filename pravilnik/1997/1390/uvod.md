@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 5. Zakona o znanstvenoistraživačkoj djelatnosti ("Narodne novine", broj 59/96. - pročišćeni tekst) ministar znanosti i tehnologije, uz suglasnost ministra zdravstva Republike Hrvatske, donosi
