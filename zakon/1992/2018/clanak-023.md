@@ -1,0 +1,8 @@
+# Članak 23.
+Javni linijski gradski prijevoz u cestovnom prometu je prijevoz koji se obavlja motornim i drugim vozilima na pojedinim linijama na području grada, odnosno naseljenoga mjesta, kao i prijevoz između područja grada odnosno naseljenoga mjesta i naseljenoga mjesta u neposrednoj okolici grada, odnosno naseljenoga mjesta.
+Javni linijski prigradski prijevoz u cestovnom prometu je prijevoz koji se obavlja motornim vozilima na području šire okolice grada, odnosno naselja kojemu gravitiraju stanovnici okolnih mjesta, sela ili naselja radi zadovoljavanja svakodnevnih gospodarslsih, kulturnih i drugih potreba.
+Područje na kojem se obavlja javni linijski gradski i prigradski prijevoz u cestovnom prometu, kao i organizacija i način obavljanja tog prijevoza uređuje se propisom koji donosi skupština općine, odnosno Skupština grada Zagreba.
+Propisom iz stavka 3. ovoga članka može se utvrditi obavljanje javnog linijskog gradskog i prigradskog prijevoza u cestovnom prometu na temeIju koncesije, te uvjeti za dobivanje koncesije kojima će se osigurati ostvarivanje gospodarske svrhe koncesije, polasci, vremenski interval zaštite polazaka, stajališta, postupak registracije voznih redova, postupak izdavanja koncesije, uvjete koje mora ispunjavati prijevoznik, odnosno samostalni privrednik za dobivanje koncesije i rok važenja koncesije.
+Koncesiju iz stavka 4. ovoga članka izdaje općinski, odnosno gradski organ uprave nadležan za cestomi promet.
+O koncesiji općinski, odnosno gradski organ uprave nadležan za cestovni promet i koncesionar zaključuju ugovor.
+2. Javni slobodni prijevoz stvari i osoba u cestovnom prometu

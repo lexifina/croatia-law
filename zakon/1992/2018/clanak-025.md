@@ -1,0 +1,4 @@
+# Članak 25.
+Prilikom obavljanja slobodnog prijevoza osoba u autobusu se mora nalaziti pismeni ugovor o prijevozu i spisak putnika potpisan od prijevoznika, odnosno samostalnog privrednika i naručitelja prijevoza.
+Iznimno, iz stavka 1. ovoga članka prilikom obavljanja kružne vožnje kada slobodni prijevoz osoba obavlja organizator putovanja koji je ujedno i prijevoznik, odnosno samostalni privrednik umjesto ugovora u autobusu, mora se kod putnika nalaziti dokaz o uplati aranžmana u kojem je sadržana i naknada za prijevoz u odlasku i povratku.
+Iznimno iz stavka 1. ovoga članka kod obavljanja prijevoza iz članka 24. stavka 4. alineja 4. umjesto spiska putnika, putnici moraju kod sebe imati identifikacijske iskaznice ovjerene od pravne ili fizičke osobe za koju se prijevoz obavlja ili ovjerene od prijevoznika, odnosno samostalnog privrednika.

@@ -1,0 +1,5 @@
+# Članak 21.
+Javni linijski međumjesni prijevoz osoba u cestovnom prometu za linije od interesa za Republiku Hrvatsku može se obavljati samo na temelju koncesije koju izdaje Ministarstvo pomorstva, prometa i veza na temelju javnog natječaja.
+Ministar pomorstva, prometa i veza donosi na prijedlog Hrvatske gospodarske komore propis kojim utvrđuje linije od interesa za Republiku Hrvatsku, polaske na tim linijama, vremenski interval zaštite tih polazaka, obvezatna stajališta, uvjete za dobivanje koncesija kojima će se osigurati ostvarivanje gospodarske svrhe koncesije, postupak registracije voznih redova za te linije, postupak izdavanja koncesije, uvjete koje mora ispunjavati prijevoznik, odnosno samostalni privrednik za dobivanje koncesije, rok važenja koncesije te prestanak važenja koncesije prije isteka roka njena važenja.
+O koncesiji Ministarstvo pomorstva, prometa i veza i koncesionar zaključuju ugovor.
+Ovlašćuje se ministar pomorstva, prometa i veza da u propisu iz stavka 2. ovoga članka propiše prekršaje te odredi novčane kazne za te prekršaje.
