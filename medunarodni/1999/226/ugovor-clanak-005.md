@@ -1,0 +1,3 @@
+# Članak 5.
+Odredbe članaka 6. do 11. ovog Ugovora odnose se na pravne osobe s društvenim kapitalom i na pravne osobe koje su imale društveni kapital i koje su dovršile postupak pretvorbe po Zakonu o pretvorbi društvenih poduzeća (»Narodne novine«, br. 19/91, 83/92, 94/93, 2/94 i 9/95) ili Zakonu o lastninskem preoblikovanju podjetij (»Uradni list RS«, br. 55/92, 7/93, 31/93 i 1/96) i Zakonu o zaključku lastninjenja in privatizaciji pravnih oseb vlasti Slovenske razvojne družbe (»Uradni list RS», broj 30/98).
+Društvenim kapitalom smatra se kapital propisan Zakonom o pretvorbi društvenih poduzeća i Zakonom o lastninskem preoblikovanju podjetij.

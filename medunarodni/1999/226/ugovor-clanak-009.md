@@ -1,0 +1,3 @@
+# Članak 9.
+Kod pravnih osoba registriranih na teritoriju jedne ugovorne stranke, a osnovanih od imovine poslovnih jedinica i drugih organizacijskih oblika bez svojstva pravne osobe (predstavništva, trgovine i sl.) pravnih osoba sa sjedištem na teritoriju druge ugovorne stranke, ugovorne stranke suglasne su da je riječ o kapitalu u vlasništvu osnivača, pravne osobe druge ugovorne stranke, osim kapitala iz stavka 2. ovog članka.
+Uložena sredstva pravne osobe druge ugovorne stranke u pravne osobe osnovane sukladno stavku 1. ovog članka određuju udio pravne osobe druge ugovorne stranke u kapitalu te pravne osobe.

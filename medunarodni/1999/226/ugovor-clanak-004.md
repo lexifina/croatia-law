@@ -1,0 +1,3 @@
+# Članak 4.
+Ugovorne stranke omogućit će stjecanje prava vlasništva i drugih stvarnih prava i upis u zemljišne knjige na svojem teritoriju fizičkim i pravnim osobama druge ugovorne stranke, ako je valjana pravna osnova stjecanja nastala do dana uspostave neovisnosti one ugovorne stranke na teritoriju koje se nekretnina nalazi, bez obzira na mjesto nastanka pravne osnove stjecanja.
+Ugovorne stranke omogućit će stjecanje prava vlasništva i drugih stvarnih prava fizičkim i pravnim osobama druge ugovorne stranke i nakon dana uspostave neovisnosti ugovornih stranaka, sukladno propisima svake od ugovornih stranaka o stjecanju prava vlasništva stranaca.

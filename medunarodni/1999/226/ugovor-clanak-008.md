@@ -1,0 +1,3 @@
+# Članak 8.
+U skladu s polaznim osnovama iz članka 6. ovog Ugovora, imovina pravnih osoba koje su imale status samostalne pravne osobe u jednoj od ugovornih stranaka i koje su se temeljem pozitivnih propisa pripojile pravnim osobama u drugoj ugovornoj stranci i tim pravnim osobama nenaplatno prenijele svoju imovinu (npr. bivše radne organizacije i osnovne organizacije udruženog rada), predstavlja kapital stečen i stvoren na teritoriju ugovorne stranke prije pripajanja, osim kapitala iz stavka 2. ovog članka.
+Uložena sredstva pravne osobe druge ugovorne stranke prije ili nakon pripajanja u pravnu osobu koja se pripojila određuju udio pravne osobe druge ugovorne stranke u kapitalu pravne osobe, sukladno članku 10. ovog Ugovora.
