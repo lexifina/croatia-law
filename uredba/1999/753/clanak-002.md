@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe polazi od točke A na kopnu iz pravca juga, te prati gornji rub pokosa obuhvaćajući dijelove k. č. 329/3 i 329/10 do lomne točke B, te dalje donjim rubom pokosa do točke C. Granica dalje prati donji rub ceste do točke D, obuhvaćajući dijelove k. č. 329/5 i 329/2 i nasuti dio kopna, sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k. o. Štinjan, broj lista plana 28, u mjerilu 1:2880.
