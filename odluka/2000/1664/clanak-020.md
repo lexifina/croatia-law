@@ -1,0 +1,2 @@
+# Članak 20.
+Doprinos za obvezno zdravstveno osiguranje zaposlenika koji su neopravdano izostali s posla plaća pravna ili fizička osoba pri kojoj je zaposlenik uposlen prema stopi od 16% na osnovicu koju čini plaća iz ugovora o radu, a prema broju dana neopravdanog izostanka, na način i prema postupku propisanom za plaćanje doprinosa za zaposlenike pri pravnoj ili fizičkoj osobi. Doprinos se plaća najkasnije do 15. dana u mjesecu za prethodni mjesec.
