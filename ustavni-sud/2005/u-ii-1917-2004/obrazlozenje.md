@@ -1,0 +1,28 @@
+Obrazloženje
+1. Vlada Republike Hrvatske podnijela je temeljem odredbe članka 35. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 49/02 - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon), zahtjev za ocjenu suglasnosti s Ustavom i zakonom Odluke o raspisivanju referenduma za naselje Slatinu na području Grada Oroslavja od 29. travnja 2004., objavljene u »Službenom glasniku Krapinsko-zagorske županije«, broj 6/04 (u daljnjem tekstu: Odluka).
+2. Osporena Odluka glasi:
+»Članak 1.
+Raspisuje se referendum za naselje Slatinu na području grada Oroslavja.
+Članak 2.
+Za dan referenduma određuje se 23. 5. 2004. godine.
+Članak 3.
+Referendum se provodi radi izjašnjavanja građana o namjeri MUP-a za organizaciju, prihvatilišta za tražitelje azila u Slatini u prostoru bivše vojarne.
+Članak 4.
+Odluka stupa na snagu danom objave u Službenom glasniku Krapinsko-zagorske županije.«
+3. Vlada Republike Hrvatske, u zahtjevu navodi da je Središnji državni ured za upravu, 11. svibnja 2004. godine zaprimio odluku Ureda državne uprave u Krapinsko-zagorskoj županiji, klasa: 040-01/04-01/90, urbroj: 2140-02-04-3 od 10. svibnja 2004. godine, kojom se na temelju članka 80. stavka 1. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/01 i 60/01), obustavlja od primjene osporena Odluka. Središnji državni ured za upravu temeljem odredaba članka 79. stavka 1. i članka 81. stavka 1. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi, odlukom klase: 023-01/04-01/0185, urbroj: 515-11-06-04-04 od 13. svibnja 2004. godine, ocijenio je osnovanom odluku Ureda državne uprave u Krapinsko-zagorskoj županiji od 10. svibnja 2004. godine.
+Vlada Republike Hrvatske smatra da je osporena Odluka u suprotnosti s odredbom članka 4. stavka 2. Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne samouprave i odredbom članka 24. stavka 2. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi.
+Vlada Republike Hrvatske u zahtjevu ističe da pitanje odnosno prijedlog o kojem se trebalo odlučivati na referendumu, ne spada u samoupravni djelokrug jedinice lokalne samouprave, a posebnim zakonom nije propisano da predstavničko tijelo jedinice lokalne samouprave odlučuje o organizaciji prihvatilišta za tražitelje azila, zbog čega osporena Odluka nije u skladu s navedenim zakonskim odredbama, a ni u skladu s odredbom članka 5. Statuta grada Oroslavja, prema kojoj samoupravni djelokrug obuhvaća uređenje naselja i stanovanje, prostorno i urbanističko planiranje, komunalne djelatnosti, brigu o djeci, socijalnu skrb, primarnu zdravstvenu zaštitu, odgoj i osnovno obrazovanje, kulturu, tjelesnu kulturu i šport, zaštitu potrošača, zaštitu i unapređenje prirodnog okoliša, protupožarnu i civilnu zaštitu, poticanje razvoja gospodarstva, a osobito malog i srednjeg poduzetništva, te osnivanje ustanova i drugih pravnih osoba sukladno zakonu i statutu. Uz to, Vlada Republike Hrvatske ističe da osporena Odluka ima i formalnih nedostataka, jer ne sadrži obrazloženje, a ni referendumsko pitanje nije formulirano na način da se građani o njemu mogu izjasniti odlučivanjem »za« ili »protiv«.
+Zahtjev je osnovan.
+4. Odredbe članka 4. Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne samouprave, glase:
+»Lokalni referendum može raspisati predstavničko tijelo jedinice lokalne samouprave i predstavničko tijelo jedinice područne (regionalne) samouprave.
+Predstavničko tijelo iz stavka 1. ovoga članka može pod uvjetima propisanim Zakonom o lokalnoj i područnoj (regionalnoj) samoupravi i statutom, raspisati referendum o pitanju iz svojega samoupravnog djelokruga o kojem predstavničko tijelo ima pravo donositi odluke.«
+Odredba članka 24. stavka 2. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi, glasi:
+»Referendum se može raspisati radi odlučivanja o prijedlogu o promjeni statuta, o prijedlogu općeg akta ili drugog pitanja iz djelokruga predstavničkog tijela kao i o drugim pitanjima određenim zakonom i statutom.«.
+Iz navedenih zakonskih odredaba nedvojbeno proizlazi da lokalni referendum može biti raspisan samo o pitanjima iz samoupravnog djelokruga o kojima predstavničko tijelo jedinice lokalne samouprave ima pravo donositi odluke.
+Ni jednim posebnim zakonom nije utvrđeno da u djelokrug jedinice lokalne samouprave ulazi pitanje organizacije Prihvatilišta za tražitelje azila u Republici Hrvatskoj.
+Prema odredbi članka 22. stavka 2. Zakona o azilu (»Narodne novine«, broj 103/03), ustrojstvo Prihvatilišta za tražitelje azila uređuje se Uredbom o unutarnjem ustrojstvu Ministarstva unutarnjih poslova.
+Zbog navedenog, Ustavni sud utvrđuje da osporena Odluka nije u suglasnosti s odredbom članka 4. stavka 2. Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne samouprave, ni s odredbom članka 24. stavka 2. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi.
+Također, Ustavni sud utvrđuje da osporena Odluka nije u suglasnosti ni s odredbom članka 132. stavka 3. Ustava, prema kojoj građani mogu neposredno sudjelovati u upravljanju lokalnim poslovima, putem zborova, referenduma i drugih oblika neposrednog odlučivanja u skladu sa zakonom i statutom.
+Naime, u konkretnom slučaju ne radi se o upravljanju lokalnim poslovima, već o osnivanju Prihvatilišta za tražitelje azila, što je prema navedenoj odredbi članka 22. stavka 2. Zakona o azilu, u djelokrugu Ministarstva unutarnjih poslova.
+5. Stoga je, temeljem odredbe članka 55. stavka 1. Ustavnog zakona, odlučeno kao u točki I. Izreke.
+Točka II. izreke temelji se na odredbi članka 29. stavka 1. Ustavnog zakona.
