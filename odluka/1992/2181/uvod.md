@@ -1,0 +1,1 @@
+Na temelju članka 45. stavak 2. Zakona o cestama pročišćeni tekst ("Narodne novine", br. 56/91, 61/91 i 40/92) te članka 22. stavka 1. Statuta Poduzeća "Hrvatske ceste", Upravni odbor Poduzeća "Hrvatske ceste" na 2. sjednici održanoj 10. studenoga 1992. godine donio je
