@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 1. alineje 2. i članka 56. alineje 2. Zakona o trgovini (»Narodne novine«, br. 11/96 i 75/99), Vlada Republike Hrvatske je na sjednici održanoj 8. veljače 2001. godine, donijela
