@@ -1,0 +1,2 @@
+# Članak 49.
+Posebne prostorije za uskladištenje poljoprivrednih proizvoda moraju biti opskrbljene rashladnim uređajima kao i uređajima za grijanje odnosno kondicioniranje zraka koji odgovaraju vrsti proizvoda i namjeni tržnice na veliko (ovisno o tome da li je distributivnog ili proizvodnog karaktera), a kojima se osigurava pravilno čuvanje proizvoda kroz duže razdoblje kao i dozrijevanje onih proizvoda koji taj proces zahtijevaju.

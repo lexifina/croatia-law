@@ -1,0 +1,2 @@
+# Članak 18.
+Prodavaonice korisne površine 600 m˛ i veće, moraju imati prostorije za zdravstveno-sanitarne potrebe kupaca, i to odvojeno dvije grupe prostorija, jedna grupa za muškarce (ista grupa treba sadržavati; najmanje jedan zahod s pisoarom, odvojeni pretprostor s umivaonikom s tekućom toplom i hladnom vodom), a jedna grupa za žene (ta grupa treba sadržavati; najmanje jedan zahod, odvojeni pretprostor s umivaonikom s tekućom toplom i hladnom vodom). Tehničko rješenje, oprema i uređenje tih prostorija treba biti sukladna s tehničkim propisima i tehničkim normama.
