@@ -1,0 +1,1 @@
+Na temelju članka 403. Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 48/85, 41/90, 47/90 i 53A/91), a u svezi članka 17. i 39. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinn ("Narodne novine", broj 18/92 i 33/92), Vlada Republike Hrvatske na sjednici održanoj 19. lipnja 1992. godine, donijela je
