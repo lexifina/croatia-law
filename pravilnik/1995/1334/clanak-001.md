@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o službenim sjedištima javnih bilježnika ("Narodne novine" br. 38/94, 82/94 i 50/95) u članku 9. prema kojem je Raspored javnobilježničkih službenih mjesta i sjedišta njegov sastavni dio u Rasporedu pod rednim brojem 8. u ŽUPANIJI PRIMORSKO-GORANSKOJ kod nadležnosti Općinskog suda u Rijeci u koloni "Službeno sjedište javnog bilježnika" u ravnini mjesta Rijeka brojka "7" zamjenjuje se brojkom "10" a u koloni "Broj javnobilježničkih mjesta" brojka "10" zamjenjuje se brojkom "13".
