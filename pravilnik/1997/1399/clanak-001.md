@@ -1,0 +1,2 @@
+# Članak 1.
+U Popisu bolesti, bolesnih stanja i posljedica ozljeda za odobravanje bolničke medicinske rehabilitacije, koji je sastavni dio Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom ("Narodne novine" broj 26/96), u dijelu "Bolesti dišnog sustava", pod šifrom prema MKB "J44" i "J45", u stupcu "Uvjeti odobravanja", broj: "15" zamjenjuje se brojem: "18".
