@@ -1,0 +1,20 @@
+REPUBLIKA HRVATSKA
+MINISTARSTVO KULTURE I PROSVJETE
+Zavod za školstvo
+Knjiga evidencije:_________________________
+Klasa:____________________________
+Urbroj :__________________________
+Na temelju članka 13. Pravilnika o stručnim ispitima u srednjem školstvu ("Narodne novine", br. ______/_________) izdaje se
+UVJERENJE
+o položenom stručnom ispitu
+_______________________________________________________________________________ (ime i prezime)
+_____________________________rođen-a____________________________ 19______________ (djevojačko prezime) (datum)
+u_________________________________općina-grad ____________________________________
+država ___________________________državljanin_______________________________________
+položi______ je na temelju članka _________ Zakona o srednjem školstvu
+("Narodne novine", br. _______) stručni ispit________________ 199___ u_____________________ (datum) (mjesto) za zvanje__________________________________________________________________________
+U Zagrebu, _______________199_______
+PREDSJEDNIK ISPITNE KOMISIJE
+______________________________
+DIREKTOR ZAVODA ZA ŠKOLSTVO
+________________________________
