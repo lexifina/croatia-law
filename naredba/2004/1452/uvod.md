@@ -1,0 +1,1 @@
+Na temelju članka 120. točke b), a u svezi s člankom 13. stavak 1. i stavak 4. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03), ministar mora, turizma, prometa i razvitka, uz suglasnost ministra financija, donosi
