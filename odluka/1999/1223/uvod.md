@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), a u svezi s Ugovorom o projektu za isporuku rješenja »Sustav državne riznice Republike Hrvatske«, Vlada Republike Hrvatske je na sjednici održanoj 24. lipnja 1999. godine donijela
