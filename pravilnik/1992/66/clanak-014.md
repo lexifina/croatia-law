@@ -1,0 +1,3 @@
+# Članak 14.
+Najveće količine parazitnih gljivica u stočnoj hrani mogu iznositi :
+_________________________________________________________________________________ mg/kg Vrsta parazitne gljivice Stočna hrana (ppm) _________________________________________________________________________________ Secale cornutum (Claviceps purpurea) Žita i žitne smjese 1000 _________________________________________________________________________________
