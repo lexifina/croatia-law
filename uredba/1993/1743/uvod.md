@@ -1,0 +1,1 @@
+Na temelju članka 1. slavka 1. Zakona o ovlasti Vlade Republike Hrvatske da, donosi uredbe kojima se uređuju pojedina pitanja iz djelokruga Sabora Reperblike Hrvatske ("Narodne novine", broj 74/92), Vlada Republike Hrvatske je na sjednici održanoj 3. listopaela l993. godine donijela
