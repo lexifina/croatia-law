@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 1. i 3. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, broj 87/02. i 117/03), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
