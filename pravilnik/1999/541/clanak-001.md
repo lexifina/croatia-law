@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim pravilnikom propisuje se način i postupak provođenja stručnog nadzora nad sjemenskim usjevom poljoprivrednog bilja, stupanj stručne spreme osobe koja obavlja stručni nadzor, kategorija sjemena do koje je dopušteno sjeme umnažati, jedinstvene metode za obavljanje stručnog nadzora za određene vrste poljoprivrednog bilja, kontrolno polje te obrasci prijave, evidencija zasijanih sjemenskih usjeva, zapisnika, uvjerenja, izvješća i knjiga evidencije o izdanim uvjerenjima, koji su sastavni dio ovog pravilnika.

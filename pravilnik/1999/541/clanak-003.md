@@ -1,0 +1,3 @@
+# Članak 3.
+Vrsta, sorta, kategorija, kvaliteta i podrijetlo sjemenskog materijala upotrebljenog za proizvodnju odnosno umnožavanje sjemena utvrđuje se na osnovi uvjerenja o priznavanju sjemenskog usjeva i deklaracije o kakvoći sjemena, uz otpremnicu.
+Za upotrijebljeni sjemenski materijal koji potječe iz uvoza, podrijetlo sorte, vrste i kategorije utvrđuje se na temelju certifikata o sortnosti izdanog od ovlaštene institucije zemlje izvoznice, kakvoće sjemena na temelju certifikata o kakvoći sjemena, a zdravstveno stanje na temelju certifikata o zdravstvenom stanju, uz otpremnicu i obvezan zdravstveni pregled na graničnom prijelazu sukladno odredbi članka 28. Zakona o zaštiti bilja.
