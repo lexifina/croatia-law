@@ -1,0 +1,7 @@
+# Članak 7.
+Ispunjavanje propisanih uvjeta utvrđuje povjerenstvo od dva člana koje imenuje Agencija. Jedan član komisije mora biti farmaceutski inspektor.
+O utvrđenom činjeničnom stanju sastavlja se zapisnik koji potpisuju članovi povjerenstva i podnositelj zahtjeva. Povjerenstvo daje mišljenje o ispunjavanju uvjeta u roku petnaest dana od pregleda.
+Zapisnik je sastavni dio mišljenja. Po primitku mišljenja povjerenstva o ispunjavanju uvjeta, Agencija u roku od 30 dana daje ili uskraćuje dozvolu za promet na veliko lijekovima odnosno dozvolu za obavljanje djelatnosti uvoza i izvoza.
+Rok za izdavanje ili uskraćivanje dozvole je 90 dana od dana zaprimanja potpunoga zahtjeva. Agencija prije izdavanja dozvole može zatražiti od podnositelja zahtjeva dodatna pojašnjenja ili dodatnu dokumentaciju ako postoje nedostaci koji se mogu otkloniti.
+Rok iz stavka 4. ovog članka ne teče za vrijeme odobreno podnositelju zahtjeva za davanje dodatnog pojašnjenja ili dostavu dodatne dokumentacije.
+Dozvola se daje ili uskraćuje za opseg djelatnosti prometa lijekova na veliko te za skupine lijekova s obzirom na način čuvanja i uvjete čuvanja.
