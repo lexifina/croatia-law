@@ -1,0 +1,2 @@
+# Članak 25.
+Pripravnicima (učiteljima i stručnim suradnicima), koji su zasnovali radni odnos u vremenu od dana stupanja na snagu Zakona o osnovnom školstvu ("Narodne novine", br. 59/90) do dana stupanja na snagu ovog pravilnika, vrijeme provedeno na radu u školi uračunava se u trajanje pripravničkog staža. O radu u tom razdoblju ravnatelj je škole dužan dati pismeno izvješće koje je sastavni dio dokumentacije u smislu članka 11. ovog pravilnika.
