@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 50. stavka 1. podstavka 1. Zakona o zdravstvenoj zaštiti ("Narodne novine", broj 1/97 - pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 15. srpnja 1999. godine, donijela
