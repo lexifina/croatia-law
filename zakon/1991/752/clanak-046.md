@@ -1,4 +1,3 @@
 # Članak 46.
-Rudarski objekti i postrojenja mogu se početi koristiti odnosno staviti u pogon nakon što nadležno tijelo državne uprave izda dozvolu za upotrebu.
-Dozvolu za upotrebu izdaje tijelo državne uprave koje je izdao građevinsku dozvolu za građenje rudarskih objekata i postrojenja.
-Izdavanje dozvole za upotrebu rudarskih objekata i postrojenja provodi se postupkom prema propisima o građenju.
+Za mikrolokaciju rudarskog objekta i postrojenja za eksploataciju mineralnih sirovina, za izgradnju kojeg nije potrebna građevna dozvola, treba ishoditi odobrenje ureda državne uprave u jedinici područne (regionalne) samouprave nadležnog za poslove rudarstva.
+Ministar gospodarstva donosi, uz prethodno pribavljenu suglasnost ministra nadležnog za zaštitu okoliša i prostorno uređenje, bliže propise o sadržaju zahtjeva za izdavanje odobrenja iz stavka 1. ovoga članka.

@@ -1,5 +1,3 @@
 # Članak 71.
-Ako za potrebe trgovačkog društva i obrtnika rudarske radove izvodi jedno ili više drugih trgovačkih društava i obrtnika, prije početka radova, radnici tih trgovačkih društava i obrtnika moraju se upoznati s propisima i mjerama zaštite na radu, te opasnostima koje mogu nastati tijekom izvođenja radova.
-Trgovačko društvo i obrtnik iz stavka 1. ovoga članka pri izvođenju rudarskih radova dužni su postupiti po odredbama ovoga zakona.
-Nadzor nad provođenjem propisanih tehničkih normativa i mjera zaštite na radu, pored odgovornih radnika trgovačkog društva i obrtnika koji izvode radove, obavljaju i za to posebno određeni radnici trgovačkog društva i obrtnika za čije potrebe se ti radovi izvode.
-Međusobni odnosi trgovačkih društava i obrtnika iz stavka 1. i 3. ovoga članka uređuju se ugovorom.
+Pri izvođenju rudarskih radova trgovačko društvo i obrtnik dužni su poduzeti i mjere potrebne za zaštitu života i zdravlja ljudi i zaštitu imovine prema važećim propisima.
+Ovlaštenici i vlasnici zemljišta i objekata na eksploatacijskom polju i ostali građani, pri kretanju i radu na eksploatacijskom polju, dužni su pridržavati se mjera zaštite i uputstava trgovačkog društva i obrtnika.

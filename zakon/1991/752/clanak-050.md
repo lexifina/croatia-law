@@ -1,3 +1,5 @@
 # Članak 50.
-Ako trgovačko društvo i obrtnik prestanu s radom, svi rudarski planovi i skice, mjeračke knjige i ostala dokumentacija o stanju rudarskih radova u vrijeme prestanka rada, predaju se na čuvanje tijelu državne uprave koje je izdalo odobrenje za eksploateciju.
-Tijelo državne uprave koje je izdalo odobrenje za eksploataciju dužno je dokumentaciju iz stavka 1. ovoga članka dati na uvid svakom trgovačkom društvu ili obrtniku koji je zainteresiran za obnovu radova na napuštenom eksploatacionom polju.
+Ako se rad u jamskim pogonima i površinskim kopovima ili u njihovim dijelovima, ili u pogonima za eksploataciju nafte ili prirodnog plina mora privremeno prekinuti zbog nepredviđenih okolnosti trgovačko društvo i obrtnik dužni su o tim okolnostima izvijestiti Državni inspektorat najkasnije u roku 24 sata nakon obustave radova.
+O privremenoj obustavi radova koja je unaprijed planirana, trgovačko društvo, odnosno obrtnik dužan je izvijestiti tijelo državne uprave iz stavka 1. ovoga članka 15 dana prije obustave radova.
+Prije obustave radova iz stavka 2. ovoga članka, koja će trajati duže od 15 dana, mora se izvršiti potrebno premjeravanje i moraju se dopuniti rudarski planovi te sastaviti zapisnik o uzrocima obustave radova i o opasnostima koje se mogu pojaviti prilikom ponovnog otvaranja jamskog pogona ili površinskog kopa, odnosno naftnog i plinskog polja.
+Za vrijeme privremene obustave radova glavni jamski prostori moraju se održavati u takvom stanju da se njima može prolaziti bez opasnosti.

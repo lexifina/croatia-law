@@ -1,5 +1,4 @@
 # Članak 48.
-Ako se rad u jamskim pogonima i površinskim kopovima ili u njihovim dijelovima, ili u pogonima za eksploataciju nafte ili prirodnog plina mora privremeno prekinuti zbog nepredviđenih okolnosti trgovačko društvo i obrtnik dužni su o tim okolnostima izvijestiti rudarsku inspekciju najkasnije u roku 24 sata nakon obustave radova.
-O privremenoj obustavi radova koja je unaprijed planirana, trgovačko društvo, odnosno obrtnik dužan je izvijestiti tijelo državne uprave iz stavka 1. ovoga članka 15 dana prije obustave radova.
-Prije obustave radova iz stavka 2. ovoga članka, koja će trajati duže od 15 dana, mora se izvršiti potrebno premjeravanje i moraju se dopuniti rudarski planovi, te sastaviti zapisnik o uzrocima obustave radova i o opasnostima koje se mogu pojaviti prilikom ponovnog otvaranja jamskog pogona ili površinskog kopa, odnosno naftnog i plinskog polja.
-Za vrijeme privremene obustave radova glavni jamski prostori moraju se održavati u takvom stanju da se njima može prolaziti bez opasnosti.
+Rudarski objekti i postrojenja mogu se početi koristiti, odnosno staviti u pogon nakon što nadležno tijelo državne uprave izda dozvolu za upotrebu.
+Dozvolu za upotrebu izdaje tijelo državne uprave koje je izdalo građevinsku dozvolu za građenje rudarskih objekata i postrojenja.
+Izdavanje dozvole za upotrebu rudarskih objekata i postrojenja provodi se postupkom prema propisima o građenju.

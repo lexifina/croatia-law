@@ -1,3 +1,2 @@
-## V. RUDARSKI PLANOVI I RUDARSKA MJERENJA
 # Članak 61.
-Trgovačko društvo i obrtnik koji se bave istraživanjem ili eksploatacijom mineralnih sirovina dužni su na osnovi mjerenja izradivati i dopunjavati planove odnosno karte iz kojih se može utvrditi stanje rudarskih radova i rudarskih objekata i njihov međusobni položaj, te položaj rudarskih radova i rudarskih objekata u odnosu na stare rudarske radove i objekte, kao i u odnosu na druge objekte i vode na površini.
+Trgovačko društvo i obrtnik dužni su prije traženja odobrenja za dodjelu eksploatacijskog polja i svake pete godine nakon dobivenog odobrenja, odnosno rješenja o potvrđivanju rezervi, dostaviti Povjerenstvu za utvrđivanje rezervi mineralnih sirovina podatke i dokumenataciju o rezervama mineralnih sirovina s prijedlogom za razvrstavanje u klase i kategorije.

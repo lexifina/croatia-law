@@ -1,3 +1,2 @@
-## XI. PRELAZNE I ZAVRŠNE ODREDBE
 # Članak 83.
-Mjesne zajednice koje su dobile odobrenje za eksploataciju određenih mineralnih sirovina po propisima koji su važili do stupanja na snagu Zakona o rudarstvu ("Narodne novine br. 27/91.), a po odredbama o ovoga zakona nemaju pravo da se bave eksploatacijom mineralnih sirovina, mogu se baviti eksploatacijom tih mineralnih sirovina do roka određenog u odobrenju, ali najduže godinu dana od stupanja na snagu Zakona o rudarstvu ("Narodne novine" br. 27/91.).
+Radnici, koji obavljaju poslove i zadatake nadzora ili rukovođenja u trgovačkim društvima koja se bave istraživanjem ili eksploatacijom mineralnih sirovina iz članka 3. točke 7. ovoga Zakona, a ne ispunjavaju uvjete iz članka 68. ovoga Zakona, mogu i nadalje obavljati poslove i zadatke na kojima su se zatekli na dan 1. lipnja 1983. godine, ako su imali najmanje 10 godina radnog iskustva na tim poslovima i zadacima.

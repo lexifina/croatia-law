@@ -1,7 +1,11 @@
+## X. KAZNENE ODREDBE
 # Članak 78.
-Novčanom kaznom od 200 do 500 kuna kaznit će se za prekršaj trgovačko društvo i druga pravna osoba:
-1. ako ne prijavi u određenom roku početak i završetak istražnih radova i početak izvođenja rudarskih radova odnosno građenja rudarskih objekata i postrojenja (članak 21. i 45.);·
-2. ako za mikrolokaciju rudarskog objekta i postrojenja ne ishodi odobrenje (članak 22. i 44.);·
-3. ako najkasnije u roku 24 sata nakon obustave radova ne izvijesti rudarsku inspekciju da se rad u jamskim pogonima ili površinskim kopovima ili u njihovim dijelovima ili u pogonima za eksploataciju nafte ili prirodnog plina, mora privremeno prekinuti zbog nepredviđenih okolnosti, ili ako u roku 15 dana prije privremene obustave radova koja je unaprijed planirana ne izvijesti rudarsku inspekciju o obustavi radova, ili ako najkasnije 15 dana prije potpune i trajne obustave eksploatacije u pojedinim jamskim pogonima ili površinskim kopovima o tome ne izvijesti tijelo državne uprave koje je izdalo odobrenje za eksploataciju i rudarsku inspekciju te lučku kapetaniju odnosno kapetaniju pristaništa ako se eksploatacija obavlja na plovnom putu (članak 48. stavak 1. i 2. te članak 49. stavak 1.);
-4. ako na poslove i zadatke vršenja nadzora i rukovođenja rasporedi radnike koji ne ispunjavaju uvjete iz članka 66. ovoga zakona.
-Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u trgovačkom društvu i drugoj pravnoj osobi novčanom kaznom od 50 do 200 kuna.
+Novčanom kaznom od 40.000,00 do 250.000,00 kuna kaznit će se za prekršaj pravna i fizička osoba:
+1. ako obavlja istraživanje mineralnih sirovina bez odobrenja (članak 16. stavak 1.),
+2. ako obavlja eksploataciju mineralnih sirovina bez ishođene rudarske koncesije za izvođenje rudarskih radova (članak 30. stavak 1. točka 2.),
+3. ako obavlja eksploataciju mineralnih sirovina izvan eksploatacijskog polja (članak 31. stavak 1.),
+4. ako eksploatira mineralne sirovine na prostoru, odnosno području na kojem eksploatacija nije dozvoljena (članak 33. stavak 1.),
+5. ako gradi rudarske objekte i postrojenja bez građevinske dozvole (članak 45. stavak 1.),
+6. ako pusti u rad rudarske objekte i postrojenja bez dozvole za upotrebu (članak 48. stavak 1.),
+7. ako nakon završetka ili trajne obustave eksploatacijskih radova ne izvrši potrebne mjere osiguranja ili ako u tijeku izvođenja ili završetka eksploatacijskih radova ne izvrši sanaciju devastiranog zemljišta (članak 53.).
+Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 25.000,00 kuna.

@@ -1,3 +1,4 @@
 # Članak 53.
-Ako županijski ured ili ured Grada Zagreba nadležan za poslove rudarstva utvrdi da provedene mjere osiguranja iz članka 52. stavka 1. ovoga zakona nisu dovoljne, naredit će trgovačkom društvu, odnosno obrtniku da u određenom roku otkloni utvrđene nedostatke, a po potrebi da provede i druge mjere osiguranja.
-Ako trgovačko društvo i obrtnik ne postupe po naređenju iz stavka 1. ovoga članka županijski ured ili ured Grada Zagreba nadležan za poslove rudarstva provest će potrebne mjere osiguranja na trošak trgovačkog društva, odnosno obrtnika.
+Trgovačko društvo i obrtnik dužni su u tijeku izvođenja i nakon završetka eksploatacijskih radova, u skladu s lokacijskom dozvolom i projektnim rješenjem na osnovi kojeg je dodijeljena rudarska koncesija za izvođenje rudarskih radova, sanirati devastirano zemljište.
+Pravne i fizičke osobe koje protuzakonito obavljaju istraživanje ili eksploataciju mineralnih sirovina moraju sanirati nelegalnim radovima devastirano zemljište.
+U slučaju da osobe iz stavka 2. ovoga članka ne obave sanaciju nelegalnim radovima devastiranog zemljišta, to će učiniti ured državne uprave u jedinici područne (regionalne) samouprave nadležan za poslove rudarstva na trošak počinitelja devastacije zemljišta.

@@ -1,4 +1,6 @@
-## VI. KATASTAR ISTRAŽNIH PROSTORA I EKSPLOATACIONIH POLJA
 # Članak 64.
-Tijelo državne uprave koje izdaje odobrenje za istraživanje, odnosno eksploataciju mineralnih sirovina dužno je voditi katastar odobrenih istražnih prostora i katastar odobrenih eksploatacionih polja.
-Tijelo državne uprave koje izdaje odobrenje dužno je pored katastra iz stavka 1. ovoga članka voditi i evidenciju o svim traženim istražnim prostorima, zbirku isprava te popis trgovačkih društava ili obrtnika kojima su izdana odobrenja za istraživanje odnosno popis trgovačkih društava i obrtnika kojima su izdana odobrenja za eksploataciju mineralnih sirovina.
+Trgovačko društvo i obrtnik koji se bave istraživanjem ili eksploatacijom mineralnih sirovina moraju imati:
+1. položajni nacrt istražnog prostora, odnosno eksploatacijskog polja,
+2. izvod iz katastarskog plana s ucrtanim granicama istražnog prostora, odnosno eksploatacijskog polja,
+3. geološku kartu istražnog prostora, odnosno eksploatacijskog polja i njegove okoline te karakteristične geološke profile.
+Trgovačko društvo i obrtnik iz stavka 1. ovoga članka mora imati i druge planove koje prema potrebi određuje Ministarstvo gospodarstva.

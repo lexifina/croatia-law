@@ -1,2 +1,5 @@
 # Članak 51.
-Trgovačko društvo i obrtnik dužni su u tijeku izvođenja i nakon završetka eksploatacionih radova, u skladu s uvjetima uređenja prostora i projektnog rješenja na osnovi kojeg je odobreno izvođenje rudarskih radova, izvršiti sanaciju devastiranog zemljišta.
+Ako dođe do potpune ili trajne obustave eksploatacije u pojedinim jamskim pogonima, površinskim kopovima ili naftnom i plinskom polju, trgovačko društvo i obrtnik dužni su najkasnije 15 dana prije obustave radova o tome izvjestiti tijelo državne uprave koje je dodijelilo rudarsku koncesiju za izvođenje rudarskih radova i Državni inspektorat.
+O obustavi radova u pojedinim jamskim pogonima ili površinskim kopovima odlučuje trgovačko društvo, odnosno obrtnik.
+Tijelo državne uprave koje je dodijelilo rudarsku koncesiju za izvođenje rudarskih radova može u slučaju obustave radova iz stavka 1. ovoga članka osnovati povjerenstvo koje će na licu mjesta ispitati razloge za obustavu radova, postojanje rezervi mineralnih sirovina te njihovu iskorištenost.
+Ako povjerenstvo iz stavka 3. ovoga članka utvrdi da rezerve mineralne sirovine nisu iskorištene i da postoji mogućnost dalje eksploatacije, tijelo državne uprave koje je dodijelilo rudarsku koncesiju za izvođenje rudarskih radova odredit će mjere zaštite preostale mineralne sirovine.

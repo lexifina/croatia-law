@@ -1,2 +1,2 @@
 # Članak 47.
-Tipska postrojenja za istraživanje i eksploataciju mineralnih sirovina mogu se koristiti, u skladu s rješenjima iz rudarskog projekta, prema propisima o zaštiti pri radu.
+Trgovačko društvo i obrtnik dužni su prijaviti početak ostvarivanja rudarske koncesije za izvođenje rudarskih radova, odnosno početak građenja rudarskih objekata i postrojenja Državnom inspektoratu, uredu državne uprave u jedinici područne (regionalne) samouprave nadležnom za poslove rudarstva te svima kojima je to u rudarskoj koncesiji za izvođenje rudarskih radova, odnosno građevinskoj dozvoli za građenje rudarskih objekata i postrojenja propisano, najkasnije 15 dana prije početka izvođenja rudarskih radova, odnosno početka građenja rudarskih objekata i postrojenja.

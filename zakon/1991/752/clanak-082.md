@@ -1,2 +1,3 @@
+## XI. PRIJELAZNE I ZAVRŠNE ODREDBE
 # Članak 82.
-Za privredne prijestupe i prekršaje propisane ovim zakonom izreći će se uz novčanu kaznu i mjera oduzimanja imovinske koristi ostvarene prijestupom odnosno prekršajem.
+Mjesne zajednice koje su dobile odobrenje za eksploataciju određenih mineralnih sirovina po propisima koji su važili do stupanja na snagu Zakona o rudarstvu (»Narodne novine« br. 27/91.), a po odrebama ovoga Zakona nemaju pravo baviti se eksploatacijom mineralnih sirovina, mogu se baviti eksploatacijom tih mineralnih sirovina do roka određenog u odobrenju, ali najduže godinu dana od stupanja na snagu Zakona o rudarstvu (»Narodne novine«, br. 27/91.).

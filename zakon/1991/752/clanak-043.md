@@ -1,9 +1,7 @@
 # Članak 43.
-Za građenje rudarskih objekata i postrojenja potrebna je građevinska dozvola.
-Građevinsku dozvolu za građenje rudarskih objekata i postrojenja iz članka 8. točke 1. i 2. ovoga zakona izdaje Ministarstvo gospodarstva.
-Iznimno od odredbe iz stavka 2. ovoga članka, građevinsku dozvolu za građenje objekata i postrojenja izravno vezanih uz površinsku eksploataciju mineralnih sirovlna iz članka 3. točke 4. ovoga zakona, obrtniku izdaje županijski ured ili ured Grada Zagreba nadležan za poslove rudarstva u suglasnosti s Ministarstvom gospodarstva.
-Građevinsku dozvolu za građenje rudarskih objekata i postrojenja iz članka 8. točke 3. ovoga zakona izdaje županijski ured ili ured Grada Zagreba nadležan za poslove rudarstva.
-Građevinsku dozvolu za građenje rudarskih objekata i postrojenja iz članka 8. točke 4. ovoga zakona izdaje Ministarstvo gospodarstva.
-Iznimno od odredbe iz stavka 5. ovoga članka građevinsku dozvolu za građenje magistralnih naftovoda i plinovoda izdaje Ministarstvo prostornog uređenja, graditeljstva i stanovanja.
-Građevinsku dozvolu za građenje rudarskih objekata i postrojenja iz članka 8. točke 5. ovoga zakona izdaje županijski ured ili ured Grada Zagreba nadležan za poslove graditeljstva.
-Iznimno od odredbe iz stavka 2. ovoga članka odobrenje za građenje ili rekonstrukciju objekata i postrojenje iz članka 8. točke 1. po pojednostavljenom rudarskom projektu izdaje odgovorna stručna osoba trgovačkog društva ili obrtnika.
+Prilikom dodjeljivanja rudarske koncesije za izvođenje rudarskih radova tijela državne uprave koja ju dodjeljuju trebaju prosuditi:
+- poslovni ugled podnositelja zahtjeva,
+- sposobnost podnositelja zahtjeva za ostvarivanje koncesije,
+- financijsku povoljnost ostvarivanja koncesije,
+- utjecaj ostvarivanja koncesije na očuvanje i zaštitu prirodnog okoliša.
+Razdoblje za koje se dodjeljuje rudarska koncesija određuje se na temelju količine i rasprostiranja utvrđenih bilančnih rezervi mineralne sirovine na odobrenom eksploatacijskom polju, a koje omogućuju trgovačkom društvu, odnosno obrtniku trajanje eksploatacije najviše 40 godina, uz planiranu godišnju proizvodnju navedenu u zahtjevu.

@@ -1,5 +1,5 @@
 # Članak 62.
-Trgovačko društvo i obrtnik koji se bave istraživanjem ili eksploatacijom mineralnih sirovina moraju imati:
-1. situacioni nacrt istražnog prostora odnosno eksploatacionog polja;
-2. geološku kartu istražnog prostora odnosno eksploatacionog polja i njegove okoline te karakteristične geološke profile.
-Trgovačko društvo i obrtnik iz stavka 1. ovoga članka mora imati i druge planove koje prema potrebi određuje Ministarstvo gospodarstva.
+Povjerenstvo iz članka 61. ovoga Zakona osniva i njene članove imenuje ministar gospodarstva.
+Na osnovi dobivenih podataka i dokumentacije te prijedloga trgovačkog društva ili obrtnika povjerenstvo iz članka 61. ovoga Zakona utvrđuje i ovjerava količine i kakvoću rezervi mineralnih sirovina i o tome izdaje rješenje.
+Troškove povjerenstva iz stavka 1. ovoga članka snosi trgovačko društvo, odnosno obrtnik.
+Postupak utvrđivanja i ovjere rezervi mineralnih sirovina iz stavka 2. ovoga članka provodi se prema propisima koje će donijeti ministar gospodarstva.

@@ -1,3 +1,2 @@
 # Članak 67.
-Trgovačko društvo dužno je svojim općim aktom, a obrtnik kolektivnim ugovorom utvrditi obavezu stručnog usavršavanja i provjeru stručne osposobljenosti za radnike koji rade na poslovima za koje je prema odredbama ovoga zakona propisana stručna sprema i radno iskustvo.
-Ministar gospodarstva uz suglasnost ministra prosvjete i športa propisat će uvjete iz članka 66. ovoga zakona, te način polaganja stručnog ispita i provjere stručne usposobljenosti.
+Ministar gospodarstva donijet će bliže propise o katastru odobrenih istražnih prostora i katastru odobrenih eksploatacijskih polja, o načinu vođenja evidencije o traženim istražnim prostorima te o načinu vođenja zbirke isprava i popisa trgovačkih društava i obrtnika kojima su izdana odobrenja za istraživanje ili za eksploatacijsko polje, odnosno dodijeljena rudarska koncesija za izvođenje rudarskih radova.

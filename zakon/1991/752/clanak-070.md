@@ -1,3 +1,4 @@
+## VIII. ZAŠTITNE MJERE
 # Članak 70.
-Trgovačko društvo i obrtnik prima svojim specifičnim prilikama, organiziraju službu spasavanja i vatrogasnu jedinicu i opskrbljuju ih potrebnom opremom.
-Poslove odnosno radne zadatke ekipe za spasavanje i vatrogasne jedinice obavljaju radnici koji su za te poslove posebno osposobljeni.
+Trgovačka društva i obrtnici provode zaštitu na radu prema odredbama ovoga Zakona, propisima o zaštiti na radu i propisima kojima se utvrđuju uvjeti za siguran rad, zaštitu okoliša i zdravlje uposlenih pri izvođenju rudarskih radova.
+Propise kojima se utvrđuju uvjeti za siguran rad, zaštitu okoliša i zdravlje uposlenih pri izvođenju rudarskih radova, iz stavka 1. ovoga članka, donosi ministar gospodarstva uz pribavljenu suglasnost ministara nadležnih za zaštitu okoliša i prostorno uređenje, te za rad i socijalnu skrb.

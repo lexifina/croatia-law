@@ -1,2 +1,4 @@
 # Članak 65.
-Ministar gospodarstva donijet će bliže propise o katastru odobrenih istražnih prostora i katastru odobrenih eksploatacionih polja, o načinu vođenja evidencije o traženim istražnim prostorima te o načinu vođenja zbirke isprava i popisa trgovačkih društava i obrtnika kojima su izdana odobrenja za istraživanje ili eksploataciju mineralnih sirovina.
+Trgovačko društvo i obrtnik dužni su o svim izvršenim mjerenjima voditi ovjerene mjeračke knjige.
+Mjeračke knjige ovjeravaju se prema propisima o ovjeravanju poslovnih knjiga.
+Položajni nacrt istražnog prostora, odnosno eksploatacijskog polja i rudarska mjerenja na osnovi kojih se izrađuju rudarski planovi moraju biti priključeni na državnu izmjeru.
