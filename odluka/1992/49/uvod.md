@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine" broj 53/90), a povodom prijedloga Doma zdravlja Crikvenica, Vlada Republike Hrvatske na sjednici održanoj 21. siječnja 1992. donijela je
