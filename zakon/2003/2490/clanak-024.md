@@ -1,0 +1,5 @@
+## Podmirenje troŠkova javnog operatora
+# Članak 24.
+(1) Kada prihodi od rezerviranih i univerzalnih poštanskih usluga ne pokrivaju njihove troškove, ti se troškovi podmiruju prvenstveno iz dobiti javnog operatora, a ako se ne mogu podmiriti iz dobiti javnog operatora, podmiruju se iz sredstava državnog proračuna Republike Hrvatske.
+(2) Mjerila i kriteriji, te postupak za ostvarivanje prava na podmirenje troškova iz sredstava državnog proračuna Republike Hrvatske iz stavka 1. ovoga članka, uređuje se pravilnikom koji donosi ministar uz suglasnost ministra nadležnog za financije.
+(3) Zahtjev za ostvarivanje prava na podmirenje troškova iz sredstava državnog proračuna Republike Hrvatske iz stavka 1. ovoga članka, koji je prethodno usuglašen s Ministarstvom i ministarstvom nadležnim za financije, javni operator podnosi Vijeću. Vijeće će na temelju podnesenog zahtjeva, sukladno pravilniku iz stavka 2. ovoga članka, rješenjem utvrditi iznos sredstava iz državnog proračuna Republike Hrvatske iz stavka 1. ovoga članka.

@@ -1,0 +1,6 @@
+## Kurirske usluge
+# Članak 14.
+(1) Kurirske usluge su poštanske usluge s dodatnom vrijednosti koje davatelj poštanskih usluga obavlja na temelju posebnog zahtjeva pošiljatelja, a podrazumijevaju preuzimanje pošiljke na adresi pošiljatelja, te izravan prijenos i uručenje na adresi primatelja. Usluga se obavlja u jednom tehnološkom postupku koji ne smije biti prekinut nikakvim dodatnim aktivnostima od preuzimanja do uručenja pošiljke, a osoba koja prenosi pošiljku mora imati mogućnost u svakom trenutku postupiti po nalogu pošiljatelja.
+(2) Usluge s dodatnom vrijednosti iz stavka 1. ovoga članka su usluge kojima se osigurava brži prijenos pošiljaka i jamči vrijeme dostave, mogućnost praćenja pošiljaka tijekom prijenosa i postupanje po nalogu pošiljatelja, te druge usluge s dodatnom vrijednosti koje zahtijeva pošiljatelj.
+(3) Kurirskim uslugama ne smatraju se usluge preuzimanja poštanskih pošiljaka na adresi pošiljatelja adresiranih na različite primatelje, koje se ne mogu obaviti na način i pod uvjetima propisanima stavkom 1. i 2. ovoga članka.
+(4) Kurirske usluge obavljaju se na slobodnom tržištu, a davatelji poštanskih usluga obvezni su ih obavljati na način i pod uvjetima određenima ovim Zakonom, Pravilnikom o uslugama i općim uvjetima davatelja poštanskih usluga.
