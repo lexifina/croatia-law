@@ -1,0 +1,2 @@
+# Članak 7.
+Ako centar obavlja poslove zbrinjavanja djece odbjegle iz obitelji, udomiteljske obitelji ili doma socijalne skrbi te provođenje odgojne mjere s maloljetnicima i mlađim punoljetnicima s poremećajima u ponašanju koje su propisane zakonom, prostoru kojem se obavljaju ti poslovi mora udovoljavati uvjetima propisanim pravilnikom kojim se utvrđuju uvjeti glede prostora, opreme i potrebnih stručnih djelatnika doma socijalne skrbi.
