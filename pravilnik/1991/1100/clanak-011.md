@@ -1,0 +1,2 @@
+# Članak 11.
+Smatrat će se da se osiguranik bez opravdanog razloga nije odazvao na pregled ili liječenje ako se zakazanog dana nije javio na pregled ili liječenje izabranom liječniku, odnosno stručno-medicinskom organu vještačenja Republičkog fonda ili organizaciji zdravstva. a nije bio spriječen višom silom da se javi (stanje bolesti, smrt u porodici, poplava, potres i sl.) Osiguraniku koji se bez opravdanog razloga nije javio na pregled ili liječenje, obustavtja se isplata naknade osobnog dohotke od dana kada se trebao javiti na pregled ili liječenje.

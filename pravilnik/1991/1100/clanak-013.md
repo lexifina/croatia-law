@@ -1,0 +1,2 @@
+# Članak 13.
+Direktor Republičkog fonda izdat će djelatniku Stručne službe Republičkog fonda pismenu ovlast za obavljanje kontrole ponašanja osiguranika za vrijeme privremene nesposobnosti za rad. U obavljanju svoje dužnosti ovlašteni djelatnik iz prethodne stavke ovog članka, dužan je ponašati se korektno s osiguranicima koje se kontrolira. Ovlašteni djelatnik dužan je (svakodnevno) podnositi izvješće o izvršenoj kontroli i okolnostima koje pri tome utvrdi.

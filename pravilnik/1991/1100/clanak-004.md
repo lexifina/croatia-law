@@ -1,0 +1,2 @@
+# Članak 4.
+Ovlašteni djelatnik obavlja kontrolu prema zahtjevu liječničke i Više liječničke komisije Republičkog fonda, izabranog liječnika. pravne osobe, organizacije zdravstva i na vlastitu inicijativu. Poradi pravilnog načina obavljanja kontrole, ovlaštena osoba dužna je obići osiguranika i to prema mjestu njegovog stanovanja, uz prethodno pribavljeno mišljenje o načinu kućnog liječenja ili rehabilitacije osiguranika za kojeg je utvrđena nesposobnost za rad.

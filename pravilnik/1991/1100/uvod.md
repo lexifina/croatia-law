@@ -1,0 +1,1 @@
+Na osnovi članka 74. i 111. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine". br.12/91 - pročišćeni tekst) i članka 22. Statuta Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske ("Narodne novine", br. 48/90), Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 3. sjednici, održanoj 27. svibnja 1991. godine, donosi
