@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o obračunavanju i plaćanju posebnog poreza na naftne derivate, iskazivanju i dostavljanju izvješća te pravu na povrat posebnog poreza ("Narodne novine" br. 109/96.) u članku 1. stavku 1. iza riječi "skladišta naftnih derivata" stavlja se zarez i dodaju riječi "Prijave posebno utvrđenog skladišta za prodaju ulja za loženje ekstra lakog i lakog specijalnog (EL i LS), Prijave posebnog skladišta za opskrbu zrakoplova".
