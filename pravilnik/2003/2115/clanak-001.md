@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o računovodstvu i financijskim izvještajima mirovinskih društava i mirovinskih fondova (»Narodne novine« br. 47/03), u PRILOGU - 2 FINANCIJSKI IZVJEŠTAJI MIROVINSKIH FONDOVA, Obrazac 2. Izvještaj o poslovanju fonda za razdoblje---------, Obrazac 3. Izvještaj o promjenama u neto imovini i Obrazac 9. Izvještaj o nerealiziranim dobicima (gubicima) fonda za razdoblje--------, mijenjaju se i glase: kao u Prilogu ovog Pravilnika.
