@@ -1,0 +1,1 @@
+Temeljem članka 63. stavak 2. Zakona o mjernim jedinicama i mjerilima ("Službeni list SFRJ", br. 9/84, 59/86, i 20/89) i Zakona o preuzimanju Zakona o mjernim jedinicama i mjerilima koji se u Republici Hrvatskoj primjenjuje kao republički Zakon ("Narodne novine", br. 53/91), direktor Republičkog zavoda za normizaciju i mjeriteljstvo, donosi
