@@ -1,0 +1,2 @@
+# Članak 36.
+Maksimalno dopušteni sadržaj teških metala i organskih onečišćenja u kompostu i organskim gnojivima koja se rabe u ekološkoj proizvodnji smije iznositi najviše do 50 % tih tvari po odredbama Pravilnika o zaštiti poljoprivrednog zemljišta Republike Hrvatske (»Narodne novine«, 15/92.), odnosno manje ako je to propisano ovim zakonom, a to iznosi (ekstrahirano u zlatotopki), za organska onečišćenja kako je prikazano u članku 17. ovog Pravilnika.

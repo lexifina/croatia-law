@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. uz suglasnost ministra zaštite okoliša i prostornog uređenja, članka 13. stavka 1., članka 19. stavka 3. i članka 20. stavka 3. Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda (»Narodne novine«, broj 12/01.), ministar poljoprivrede i šumarstva donosi

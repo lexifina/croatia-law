@@ -1,0 +1,3 @@
+# Članak 77.
+Skladište treba biti odvojeno od proizvodnih prostora. Zaštita skladišnih prostora od životinjskih štetočinja obavlja se s pomoću dopuštenih mehaničkih i bioloških sredstava. Zabranjena je kemijska i radioaktivna dezinfekcija i dezinsekcija, pranje uskladištenih plodova kemijskim sredstvima za čišćenje, upotreba kemijskih sredstava za sprječavanje klijanja, kao i primjena jonizirajućeg (radioaktivnog) zračenja.
+Kao nadomjestak ovim sredstvima potrebno je obavljati potpun nadzor skladištenja, sniženje temperatura (3-5 °C) ili duboko zamrzavanje, odnosno, uz odobrenje nadzorne stanice, obrada ugroženih dijelova ugljičnim dioksidom ili dušikom.

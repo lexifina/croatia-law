@@ -1,0 +1,2 @@
+# Članak 37.
+Zaštita bilja od štetočinja u ekološkoj proizvodnji u uzgoju bilja provodi se sukladno dobroj poljoprivrednoj praksi, koristeći sorte otpornije na štetočinje i provodeći agrotehničke mjere kojima se postiže veća otpornost poljoprivrednih i šumskih kultura na štetočinje, rukovodeći se kriterijima što manjeg onečišćenja okoliša, zaštite korisnih vrsta, proizvodnje plodova bez štetnih ostataka.
