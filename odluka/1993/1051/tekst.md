@@ -1,0 +1,7 @@
+o usklađivanju mirovina od 1. travnja 1993.
+1. Mirovine korisnika mirovine koji su pravo na mirovinu ostvarili do 31. prosinca 1992. i koje su od 1. siječnja 1993. povećane za 20,2% i mirovine korisnika mirovine koji su pravo na mirovinu ostvarili 1. siječnja 1993. ili poslije toga dana i koje su povećane od 1. siječnja 1993. za 123,2%, prema Odluci o usklađivanju mirovina od 1. sijećnja 1993. ("Narodne novine", broj 23/93) i koje su povećane od od 1. veljače za 26,l% prema Odluci o usklađivanju mirovina od 1. veljaće 1993. ("Narodne novine", broj 35/93) od 1. ožujka 1993. za 22,7%, prema Odluci o usklađivanju mirovina od 1. ožujka 1993. ("Narodne novine", broj 47/93) povećavaju se od 1. travnja 1993. za 44,3%.
+2. Mirovine korisnika mirovine koji su pravo na mirovinu ostvarili 1. travnja 1993. ili poslije toga dana i koje nisu povećane za 123,2%, za 26,l% i za 22,7% povećavaju se od dana ostvarenja prava za 398,333%.
+3. Kao osnovica za povećanje mirovine prema točki 1. ove odluke uzima se mirovina koja je korisniku pripadala na dan 1. travnja 1993, a kao osnovica za povećanje mirovine prema točki 2. ove odluke uzima se mirovina koja je korisniku pripadala na dan ostvarivanja prava na mirovinu.
+4. Usklađivanje mirovina, prema ovoj odluci, obavit će se po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. travnja 1993.
+Klasa. : 142- 13/93-01 /2328
