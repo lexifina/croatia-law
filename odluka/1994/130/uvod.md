@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Zakona o cestama ("Narodne novine", broj 56/91 - pročišćeni tekst, 61/91, 26/93 i 109/93) Vlada Republike Hrvatske je na sjednici održanoj 3. veljače 1994. godine donijela
