@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Ovlaštenici koncesija za proizvodnju nafte i plina i vlasnici objekata (postrojenja) za proizvodnju nafte i plina i skladištenje u geološkim strukturama, dozvolit će pristup i korištenje svojih objekata i postrojenja za transport i skladištenje prirodnog plina trećoj strani ako to omogućuje kapacitet, tehnički i sigurnosni uvjeti, ne ugrožavajući pritom tehnološki proces proizvodnje, oplemenjivanja, skladištenja i transporta prirodnog plina.
+(2) Pristup i korištenje sustava za proizvodnju prirodnog plina uređuje se međusobnim ugovorom između osobe koja traži pristup sustavu i ovlaštenika koncesije ili vlasnika objekta iz stavka 1. ovoga članka, uz odobrenje Vijeća za regulaciju.
