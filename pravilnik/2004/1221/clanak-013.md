@@ -1,0 +1,3 @@
+# Članak 13.
+Podnositelju zahtjeva koji ima tri godine radnog iskustva na obavljanju poslova policijskog službenika policijska uprava izdat će odobrenje za obavljanje poslova redara na športskim natjecanjima ukoliko uz zahtjev dostavi potvrdu o općoj zdravstvenoj sposobnosti izdanu od ovlaštene zdravstvene ustanove ili specijaliste medicine rada u privatnoj praksi i za kojeg utvrdi da nije osuđivan za prekršajna djela protiv javnog reda i mira ili za kaznena djela počinjena iz koristoljublja ili počinjena iz nečasnih pobuda ili za koja se progoni po službenoj dužnosti.
+Osoba koja ima dopuštenje za obavljanje poslova privatne zaštite - tjelesne zaštite za poslove zaštitara ili čuvara, može obavljati poslove redara na športskim natjecanjima.
