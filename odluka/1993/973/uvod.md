@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 5. Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza ("Narodne novine", broj 73/91, 18/92 i 43/93), Vlada Republike Hrvatske je na sjednici održanoj 27. svibnja 1993. godine donijela
