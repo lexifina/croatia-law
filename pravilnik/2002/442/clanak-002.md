@@ -1,0 +1,3 @@
+# Članak 2.
+Pravo korištenja sredstava naknade imaju sve pravne i fizičke osobe vlasnici poljoprivrednog zemljišta koji se bave poljoprivrednom proizvodnjom (u daljnjem tekstu: korisnici sredstava naknade) sa sjedištem odnosno prebivalištem u Republici Hrvatskoj, a ostvaruju ga u jedinici lokalne samouprave u kojoj se nalazi poljoprivredno zemljište na koje se ulaže.
+Iznimno, pravo korištenja sredstava naknade za nabavu tifona imaju korisnici poljoprivrednog zemljišta koji se bave poljoprivrednom proizvodnjom, a zemljište imaju u zakupu na rok od najmanje 7 godina od dana zaprimanja zahtjeva za kredit.
