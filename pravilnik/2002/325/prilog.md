@@ -1,0 +1,18 @@
+Obrazac broj 1.
+DEKLARACIJA
+EKOLOŠKOG PROIZVODA
+1. Naziv i tip proizvoda: _________________________________________________
+2. Datum proizvodnje: _______________________________________________________
+3. Naziv i adresa proizvođača/uvoznika: _____________________________________
+_________________________________________________________________________
+4. Upisni broj: _____________________________________________________________
+prema Pravilniku o uvjetima i načinu upisa u upisnike ekološke proizvodnje poljoprivrednih i prehrambenih proizvoda
+5. Zemlja podrijetla proizvoda: _________________________________________________
+6. Popis sastojaka: __________________________________________________________
+7. Neto masa ekološkog proizvoda: ___________________________________________
+8. Naziv nadzorne stanice: _________________________________________________
+9. Broj potvrdnice: _____________
+10. Ostalo: _____________________________________________________________
+_________________________________________________________________________
+Podaci bitni za proizvod sukladno posebnim propisima
+Znak "ekoproizvod"/"proizvedeno u prijelaznom razdoblju"
