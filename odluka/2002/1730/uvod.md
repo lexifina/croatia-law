@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj: 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01), te članka 21. Statuta Općine Farkaševac (»Glasnik Zagrebačke županije«, broj 17/01), Općinsko vijeće Općine Farkaševac na 10. sjednici održanoj 10. lipnja 2002. godine, donijelo je
