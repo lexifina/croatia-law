@@ -1,0 +1,2 @@
+# Članak 2.
+Svojstvo osiguranika - svećenika, redovnika i redovnice iz članka 14. Zakona o mirovinskom osiguranju ("Narodne novine", broj 102/98 - u daljnjem tekstu: Zakon), utvrđuje se priznanjem svojstva osiguranika u obveznom osiguranju prema odredbi članka 106. i 107. Zakona. Za svećenika, redovnicu i redovnika - korisnika mirovine - mjerodavno je da su umirovljeni u svojstvu vjerskog službenika za vjersku zajednicu.
