@@ -1,0 +1,2 @@
+# Članak 7.
+Diplomatska se putovnica može, izuzetno, izdati i osobama koje nisu navedene u člancima 4., 5. i 6. ovoga pravilnike kada to zahtijevaju interesi sigurnosti i obrane Republike Hrvatske, uz prethodnu suglasnost ministra vanjskih poslova i ministra unutarnjih poslova Republike Hrvatske. Osobe iz st. 1. ovog članka imaju prava i obveze glede diplomatske putovnice kao i osobe iz članka 5. ovoga pravilnika.
