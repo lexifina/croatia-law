@@ -1,0 +1,2 @@
+# Članak 8.
+Vlada Republike Hrvatske utvrdit će prijedlog izmjena Zakona o porezu na dohodak radi drugačijeg utvrdivanja iznosa neoporezivih materijalnih prava radnika do 31. listopada 1994. godine. Prijedlogom izmjena Zakona utvrdit će se da se iznos neoporezivog dohotka kao i iznosi neoporezivih materijalnih prava radnika utvrde Zakonom o porezu na dohodak i njegovim provedbenim propisima. Dok se ne izmijeni Zakon o porezu na dohodak, u dohodak ne ulaze (ne oporezuju se) sada utvrđeni (zatečeni) iznosi materijalnih prava radnika iz važećih općih kolektivnih ugovora.

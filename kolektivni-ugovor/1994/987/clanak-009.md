@@ -1,0 +1,2 @@
+# Članak 9.
+Vlada Republike Hrvatske preuzima obvezu da neće uredbama uređivati plaće i druga materijalna prava za pravne osobe na koje se ovaj Ugovor odnosi i koji ga primjenjuju za vrijeme njegovog trajanja. U slučaju da pojedine pravne osobe na koje se odnosi ovaj Ugovor ne poštivaju odredbe ovog Ugovora, kao i pravne osobe koje srnatraju da se ovaj Ugovor na njih ne odnosi, Vlada Republike Hrvatske zadržava pravo da pitanja plaća i drugih materijalnih prava uredi odgovarajućim propisima, na način sukladno odredbanka ovog Ugovora.
