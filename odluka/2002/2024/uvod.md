@@ -1,0 +1,1 @@
+Na temelju članka 30 i 95. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 79/00, 127/00 i 59/01 te članka 61. i 62. Statuta Općine Žumberak (»Glasnik Zagrebačke županije« br. 17/2001). Općinsko vijeće Općine Žumberak na sjednici održanoj 20. rujna 2002. donijelo je
