@@ -1,0 +1,3 @@
+# Članak 28.
+Porez na neizgrađeno građevinsko zemljište plaćaju pravne i fizičke osobe koje su vlasnici neizgrađenog građevinskog zemljišta.
+Pod neizgrađenim građevinskim zemljištem iz stavka 1. ovoga članka smatra se zemljište koje se nalazi unutar granica građevinskog područja naselja na kojemu se u skladu sa prostornim planom mogu graditi građevine za stanovanje, poslovne i druge namjene, a na kojemu nije izgrađena nikakva građevina. Neizgrađenim građevinskim zemljištem smatra se i zemljište na kojemu postoji privremena građevina za čiju izgradnju nije potrebno odobrenje za gradnju kao i zemljište na kojemu se nalaze ostaci nekadašnje građevine.
