@@ -1,0 +1,1 @@
+Na temelju članka 141. Ustava Republike Hrvatske, te članka 3. stavka 1. i članka 4. Zakona o izboru predsjednika Republike Hrvatske ("Narodne novine", broj 22/92), Vlada Republike Hrvatske je na sjednici održanoj 12. svibnja 1997. godine, donijela
