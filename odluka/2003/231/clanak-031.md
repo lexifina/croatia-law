@@ -1,0 +1,4 @@
+# Članak 31.
+(1) Rezerve za opće bankovne rizike formirane u skladu s ovom odlukom ne mogu se prenositi u zadržanu dobit ili druge vrste rezervi prije isteka trogodišnjeg razdoblja od njihova formiranja, u kojem razdoblju uzastopni rast izloženosti na godišnjoj razini nije iznosio više od 20%.
+(2) Rezerve iz stavka 1. ovog članka mogu se pretvoriti u dionički kapital i prije isteka trogodišnjeg razdoblja od njihova formiranja, ali tada banka ne može prije isteka trogodišnjeg razdoblja, računajući od dana pretvaranja rezervi za opće bankovne rizike u dionički kapital, provesti smanjenje dioničkoga kapitala povlačenjem dionica ili na bilo koji drugi način.
+(3) Rezerve za opće bankovne rizike uključuju se u obračun jamstvenoga kapitala banke kao sastavni dio temeljnoga kapitala, a u poslovnim knjigama banke iskazuju se na posebnom računu rezervi u pasivi.

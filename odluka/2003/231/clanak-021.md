@@ -1,0 +1,4 @@
+## III/6. POTENCIJALNE OBVEZE NA OSNOVI KOJIH SE OČEKUJE ODLJEV SREDSTAVA BANKE KOJI NEĆE BITI MOGUĆE NADOKNADITI (RIZIČNA SKUPINA C)
+# Članak 21.
+(1) Rizična skupina C obuhvaća preuzete obveze prema osobi ili za račun osobe čije se financijsko stanje nakon preuzimanja potencijalne obveze, odnosno nakon nastanka prošloga obvezujućeg događaja pogoršalo toliko da se sa sigurnošću može očekivati odljev sredstava banke za podmirenje preuzete obveze, a procjena budućih novčanih priljeva osobe prema kojoj je banka izložena i kvaliteta instrumenata osiguranja naplate upućuju na zaključak da banka neće moći nadoknaditi ništa od onoga što joj po ugovoru pripada nakon što se podmiri preuzeta obveza ili je nadoknadivi iznos manji od 10% ugovorenog iznosa.
+(2) Prilikom raspoređivanja potencijalnih obveza u rizičnu skupinu C na odgovarajući se način primjenjuju odredbe članka 14. ove odluke.

@@ -1,0 +1,4 @@
+## VI. UTVRĐIVANJE IZLOŽENOSTI BANKE
+# Članak 33.
+(1) Banka kontinuirano prati izloženost prema jednoj osobi u skladu s odredbama članka 74. do 78. Zakona o bankama i odredbama ove odluke, kao i uputama Hrvatske narodne banke za sastavljanje izvješća o izloženosti. Za potrebe praćenja izloženosti pod jednom osobom podrazumijeva se jedna osoba ili grupa povezanih osoba kako je to definirano člankom 12. Zakona o bankama.
+(2) Ukupnu izloženost banke prema jednoj osobi čini iznos svih tražbina po kreditima i drugim osnovama, ulaganja u vrijednosne papire i vlasničke uloge i preuzetih obveza banke prema jednoj osobi. Pod tražbinama po kreditima i drugim osnovama iz ovog stavka podrazumijevaju se i tražbine iskazane u izvanbilančnoj evidenciji (tražbine na osnovi suspendiranih i isključenih kamatnih prihoda, i druge iz bilance prenesene tražbine).
