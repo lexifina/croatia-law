@@ -1,0 +1,3 @@
+# Članak 3.
+Svaka udruga koja ispunjava uvjete iz članka 2. ovoga Zakona i želi biti zastupljena u tripartitnim tijelima na nacionalnoj razini može u roku od trideset dana od dana stupanja na snagu ovoga Zakona podnijeti Ministarstvu rada i socijalne skrbi zahtjev za utvrđivanje ispunjavanja uvjeta iz članka 2. ovoga Zakona.
+Ispunjavanje uvjeta iz članka 2. ovoga Zakona za svaku udrugu koja podnese zahtjev utvrđuje Povjerenstvo za utvrđivanje ispunjavanja uvjeta od strane udruga sindikata više razine za zastupljenost u nacionalnim tripartitnim tijelima (u daljnjem tekstu: Povjerenstvo) sastavljeno od jednakog broja predstavnika udruga, Vlade i poslodavaca koje imenuje ministar nadležan za poslove rada (u daljnjem tekstu: nadležni ministar).
