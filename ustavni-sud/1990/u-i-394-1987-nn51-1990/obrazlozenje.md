@@ -1,0 +1,4 @@
+Obrazloženje
+Ustavni sud Hrvatske je odlukom br. U/I-394/87. od 27. prosinca 1989. godine utvrdio da odredbe članova 18. stava 4. i 19. Zakona o mjesnim zajednicama ("Narodne novine", br.19/83) - prema kojima se statutom općine pobliže određuju kriteriji za utvrđivanje područja za koja se osniva mjesna zajednica i uređuju odnosi vezani uz osnivanje, izdvajanje i pripajanje mjesnih zajednica - nisu u skladu s Ustavom Socijalističke Republike Hrvatske.
+Ova odluka dostavljena je Saboru SR Hrvatske 15. ožujka 1990. godine da je, u smislu člana 418. stava t. Ustava SR Hrvatske, u roku šest mjeseci uskladi s Ustavom.
+Budući da Sabor Republike Hrvatse nije u navedenom roku uskladio osporene odredbe. Ustavni sud Hrvatske je, na temelju člana 4 le. stava 4, na sjednici 1 t. listopada 1990. godine, odlučio o prestanku važerzja odredaba člarkova 18. stava 4. i 19. Zakona o mjesnim zajednicama ("a rodne novine", br. 19/83).
