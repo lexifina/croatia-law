@@ -1,0 +1,1 @@
+Na osnovi članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 41/90, 47/90 i 53A/91) i članka 2. stavak 3. Zakona o izmjenama i dopunama Zakona o zapošljavanju ("Narodne novine", broj 19/91) ministar rada, socijalne skrbi i obitelji Republike Hrvatske donosi.
