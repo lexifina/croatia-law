@@ -1,0 +1,1 @@
+Na temelju članka 268. stavak 2. i članka 280. stavak 3. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 59/96), te rješenja Ministarstva unutarnjih poslova Republike Hrvatske broj 511-01-72-7693/7-93 od 5. kolovoza 1993., Nadzorni odbor Centra za vozila Hrvatske d.d. i Upravni odbor Hrvatskog autokluba dana 7. prosinca 2001. godine donijeli su
