@@ -1,0 +1,5 @@
+# Članak 16.
+Novčanom kaznom u hrvatskim dinarima protuvrijednosti od 100 do 500 DEM kaznit će se za prekršaj fizička osoba, osim fizičkih osoba iz članka 15. ove uredbe, ako kupi, proda ili pozajmi devize ili posreduje u kupnji, prodaji ili pozajmljivanju deviza suprotno članku 11. ove uredbe.
+Za prekršaj iz stavka 1. ovoga članka, osim novčane kazne, izreći će se i zaštitna mjera oduzimanja predmeta što su bili upotrijebljeni ili su bili namijenjeni za izvršenje prekršaja, ili što su nastali izvršenjem prekršaja. Predmeti se mogu oduzeti i ako nisu vlasništvo počinitelja prekršaja.
+Iznimno od odredbe stavka 2. ovoga članka mogu se djelomično oduzeti predmeti što su upotrijebljeni ili su bili namijenjeni izvršenju prekršaja, ili što su nastali izvršenjem prekršaja, ako pobude ili druge okolnosti uz koje je prekršaj izvršen ukazuju na to da nije opravdeno da se predmet oduzme u cijelosti.
+Za prekršaj iz stavka 1. ovoga članka izreći će se mjera oduzimanja imovinske koristi pribavljene izvršenjem prekršaja.
