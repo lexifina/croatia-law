@@ -1,0 +1,2 @@
+# Članak 6.
+HPSS - 1904. narodna je stranka u službi svih građana koje želimo povezati demokratskim sredstvima u javnom i političkom djelovanju na tradiciji Antuna i Stjepana Radića. Djelovanje stranke utvrđeno je Programskom deklaracijom. Orijentacija našeg djelovanja su kršćansko shvaćanje čovjeka i iz toga izvedene temeljne vrijednosti: sloboda, solidarnost i pravednost, te kulturna i vjerska autonomija etničkih skupina i manjina.

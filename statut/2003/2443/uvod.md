@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o političkim strankama (»Narodne novine« broj 76/93, 111/96, 164/98 i 36/01) Osnivački sabor Hrvatske pučke seljačke stranke - 1904 - 12. srpnja 2003. na sjednici održanoj u Zagrebu donio je
