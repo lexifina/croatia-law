@@ -1,0 +1,14 @@
+O b r a z l o ž e n j e
+1. Zoran Uzelac iz Pinezića, podnio je Ustavnom sudu Republike Hrvatske prijedlog za pokretanje postupka za ocjenu suglasnosti Pravilnika o visini cestarine za uporabu autocesta i objekata s naplatom ("Narodne novine", broj 54/00 - dalje: Pravilnik) sa Zakonom o sigurnosti prometa na cestama ("Narodne novine", broj 59/96 - pročišćeni tekst - dalje: Zakon).
+2. Predlagatelj navodi kako se osporavanim Pravilnikom, između ostalog, razvrstavaju vozila po određenim skupinama, no da nazivi vrsta vozila i njihove definicije ne odgovaraju nazivima i vrstama vozila kako to uređuje Zakon.
+Smatra da Pravilnik netočnim definicijama dovodi u zabunu te se ne zna na koja se "vozila" Pravilnik odnosi, jer se na naplatnim mjestima mogu pojaviti i vozila koja se smatraju i ne smatraju "motornim vozilima", što omogućava proizvoljna tumačenja i pravnu zbrku za građane.
+Predlaže Ustavnom sudu ocijeniti suglasnost osporavanog Pravilnika sa Zakonom.
+Prijedlog nije osnovan.
+3. Osporavani Pravilnik donio je ministar pomorstva, prometa i veza temeljem odredbe članka 61. stavka 2. Zakona o javnim cestama ("Narodne novine", broj 100/96 i 76/98), prema kojoj visinu naknade iz članka 59. točke 2. (cestarina za upotrebu autoceste i objekata s naplatom - most, tunel, vijadukt i sl.) toga Zakona utvrđuje ministar osim u slučaju kada je na to ovlašten korisnik koncesije prema članku 39. toga Zakona.
+Radi se, dakle, o propisivanju naknade koja predstavlja jedan od izvora za financiranje javnih cesta u smislu odredaba članka 59. Zakona o javnim cestama, pa se osporavanim Pravilnikom određuje visina cestarine za vrste vozila ovisno o njihovom utjecaju na trošenje, oštećivanje, održavanje i gospodarenje cestama.
+Zakonom, pak, utvrđuju se temeljna načela međusobnih odnosa i ponašanja sudionika i drugih subjekata u cestovnom prometu i osnovni uvjeti kojima moraju udovoljavati ceste glede sigurnosti prometa; uređuju se pravila prometa na cestama; sustav prometnih znakova i znakova koje daju ovlaštene osobe; dužnosti u slučaju prometne nezgode; osposobljavanje kandidata za vozače, polaganje ispita za vozače i uvjeti za stjecanje prava na upravljanje vozilima; vuča vozila; uređaji i oprema koje moraju imati vozila, dimenzije, ukupna masa i osovinsko opterećenje vozila te uvjeti kojima moraju udovoljavati vozila u prometu (članak 1. Zakona).
+Definicije vozila kako ih utvrđuje Zakon, služe potrebama primjene Zakona te nisu odgovarajuće potrebama koje uređuje osporavani Pravilnik, a istovremeno, skupine vozila kako su utvrđene osporavanim Pravilnikom u svrhu zbog koje je on i donesen, prema ocjeni Suda, ne izazivaju dvojbe za koje će se vozilo u konkretnom slučaju naplatiti propisana visina cestarine.
+4. Stoga je temeljem odredbe članka 41. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 99/99) riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-949/2000
+Zagreb, 22. studenoga 2000.
