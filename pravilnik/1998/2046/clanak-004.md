@@ -1,0 +1,4 @@
+# Članak 4.
+Ako vlasnik objekta stanice otkaže ugovor na osnovi kojeg je stručna organizacija bila ovlaštena za obavljanje poslova u stanici ili ako po bilo kojoj osnovi stručna organizacija prestane obavljati poslove tehničkih pregleda vozila ili drugih poslova u svezi s tim poslovima u toj stanici, stručna organizacija će samostalno ili s drugim vlasnikom u tom mjestu otvoriti drugu neovisno o kriterijima iz stavka 1., 2. i 3. članka 3. ovog Pravilnika.
+Ako se vlasnik objekta stanice ne pridržava zakonskih propisa, ugovorenih obveza ili općih akata, stručna organizacija može otkazati ugovor, a o otkazu ugovora će izvijestiti Ministarstvo unutarnjih poslova zbog donošenja rješenja o oduzimanju ovlaštenja za obavljanje tehničkih pregleda vozila.
+Po pravomoćnosti rješenja iz prethodnog stavka stručna organizacija postupit će sukladno stavku 1. ovoga članka.
