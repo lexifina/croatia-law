@@ -1,0 +1,3 @@
+# Članak 2.
+Pod istraživanjem, ispitivanjem, fotografiranjem i mjerenjem mora, morskoga dna i/ili morskoga podzemlja unutrašnjih morskih voda i teritorijalnog mora Republike Hrvatske, u smislu ovoga Pravilnika, razumijeva se obavljanje znanstvenoistraživačke djelatnosti koje obavljaju pravne osobe u kojima su zaposlene osobe izabrane u znanstvena i istraživačka zvanja, odnosno osobe koje imaju priznati status znanstvenika po propisima zemlje u kojoj je sjedište znanstvenoistraživačke pravne osobe s kojom je znanstvenik u radnom odnosu.
+Osobe iz stavka 1. ovoga članka dokazuju svoj status ispravom koju izdaje znanstvenoistraživačka pravna osoba kod koje je osoba zaposlena.

@@ -1,0 +1,3 @@
+# Članak 8.
+Znanstvena istraživanja, ispitivanja, fotografiranja i mjerenja, odnosno fotografiranja i mjerenja mora, morskoga dna i/ili morskoga podzemlja u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske, mogu se izvoditi pomoću opreme i instrumenata koji su prikladni za realizaciju programa, te kojima se ne mogu mijenjati svojstva lokaliteta na kojima se obavlja znanstveno istraživanje, ispitivanje, fotografiranje i mjerenje u znanstvene svrhe, odnosno fotografiranje i mjerenje.
+U zahtjevu za izdavanje odobrenja za obavljanje znanstvenog istraživanja, ispitivanja, fotografiranja i mjerenja, odnosno fotografiranja i mjerenja, pobliže se utvrđuju oprema i instrumenti potrebni za realizaciju programa.

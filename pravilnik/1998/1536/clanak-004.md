@@ -1,0 +1,5 @@
+# Članak 4.
+Strane pravne i fizičke osobe mogu obavljati djelatnosti iz članka 2. i 3. ovoga Pravilnika samo uz odobrenje Ministarstva pomorstva, prometa i veza.
+Odobrenje iz stavka 1. ovoga članka izdaje se na zahtjev strane pravne ili fizičke osobe uz prethodnu suglasnost tijela ovlaštenog za poslove znanosti.
+U zahtjevu se navode podaci o mjestu, vremenu, opsegu, sadržaju i ciljevima znanstvenog istraživanja, ispitivanja, fotografiranja i mjerenja, odnosno fotografiranja i mjerenja, podaci o osobama koje će sudjelovati u znanstvenom istraživanju, ispitivanju, fotografiranju i mjerenju, odnosno fotografiranju i mjerenju, dokazi o ispunjavanju uvjeta propisanih ovim Pravilnikom te podaci o korištenju stranoga znanstvenoistraživačkoga broda za obavljanje djelatnosti propisanih ovim Pravilnikom.
+Zahtjev za izdavanje odobrenja strana pravna ili fizička osoba podnosi diplomatskim putem Ministarstvu vanjskih poslova, najkasnije 30 dana prije početka obavljanja djelatnosti propisanih ovim Pravilnikom.
