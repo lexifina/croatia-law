@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Zahtjev za upis u Imenik ovlaštenih arhitekata i Imenike ovlaštenih inženjera podnosi se Komori odnosno Odboru za upis u određeni Imenik.
+(2) U zahtjevu arhitekt ili inženjer koji samostalno obavlja poslove, treba naznačiti mjesto u kojem namjerava otvoriti ured odnosno ured u kojemu će arhitekt ili inženjer raditi.
+(3) Uz zahtjev, pored propisanog člankom 26. stavkom 2. Zakona o Hrvatskoj komori arhitekata i inženjera u graditeljstvu, treba priložiti dokaze da osoba koja traži upis ispunjava propisane uvjete za obavljanje stručnih poslova prostornog uređenja ili poslove projektiranja, stručnog nadzora i kontrole projekata. Ako arhitekt ili inženjer namjerava raditi u nekom projektantskom društvu, zahtjevu valja priložiti dokaz o tome da će arhitekt odnosno inženjer steći status člana odnosno da će se zaposliti u tom društvu ako mu se odobri upis u Imenik ovlaštenih arhitekata odnosno u jedan od Imenika ovlaštenih inženjera.
+(4) O zahtjevu odlučuju Odbori za upis u Imenik ovlaštenih arhitekata i Komora ovlaštenih inženjera.
+(5) Protiv rješenja Odbora iz stavka 4. ovog članka kojim je odbijen zahtjev za upis u Imenik ovlaštenih arhitekata odnosno Imenik ovlaštenih inženjera podnositelj zahtjeva ne može izjaviti žalbu, ali može pokrenuti upravni spor.
+(6) Upravni spor pokreće se u roku 30 dana od dana dostave rješenja iz stavka 5. ovog članka tužbom pred Upravnim sudom Republike Hrvatske.

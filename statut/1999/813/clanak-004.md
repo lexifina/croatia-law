@@ -1,0 +1,10 @@
+## II. UPIS U IMENIKE I UPISNIKE KOMORE
+# Članak 4.
+(1) Pravo na obavljanje stručnih poslova prostornog uređenja, poslova projektiranja, stručnog nadzora i kontrole projekata sukladno posebnim propisima, a prema stručnom smjeru u svojstvu odgovorne osobe i pravo uporabe strukovnih naziva "ovlašteni arhitekt" ili "ovlašteni inženjer" stječe se upisom u Imenik ovlaštenih arhitekata i Imenik ovlaštenih inženjera.
+(2) U povodu svakog upisa izdaje se ovlaštenom arhitektu i/ili ovlaštenom inženjeru rješenje i arhitektonska odnosno inženjerska iskaznica (dalje u tekstu: iskaznica).
+(3) Iskaznica sadržava naziv "Hrvatska komora arhitekata i inženjera u graditeljstvu", znak Komore, naznaku "arhitektonska iskaznica" odnosno "inženjerska iskaznica", broj iskaznice koji odgovara broju upisa u Imenik ovlaštenih arhitekata odnosno Imenicima ovlaštenih inženjera, naznaku "ovlaštenih arhitekata" odnosno "ovlašteni inženjer", ime, prezime, datum i mjesto rođenja, akademski stupanj, stručni smjer i sjedište ureda ovlaštenog arhitekta odnosno ovlaštenog inženjera, njegovu fotografiju i potpis i datum izdanja. Ako je ovlašteni arhitekt odnosno ovlašteni inženjer član projektantskog društva ili ako radi u tom društvu, odnosno ako radi u drugoj pravnoj osobi, iskaznica treba sadržavati i podatke o društvu, odnosno drugoj pravnoj osobi te statusu ovlaštenog arhitekta odnosno ovlaštenog inženjera u istoj.
+(4) Iskaznica se ovjerovljuje pečatom Komore, otisnutim tako da zahvaća donji desni dio fotografije ovlaštenog arhitekta odnosno ovlaštenog inženjera, te potpisom predsjednika Komore.
+(5) Promijeni li se bilo koji podatak u iskaznici, ovlašteni arhitekt odnosno ovlašteni inženjer je dužan bez odgode zatražiti izdavanje nove iskaznice.
+(6) Prestane li za obavljanjem poslova ovlašteni arhitekt odnosno ovlašteni inženjer je dužan iskaznicu vratiti Komori.
+(7) Troškove izdavanja iskaznice snosi ovlašteni arhitekt odnosno ovlašteni inženjer.
+(8) Odluku o veličini i obliku iskaznice donosi Upravni odbor.

@@ -1,0 +1,2 @@
+# Članak 8.
+Osobi koja ne ispunjava uvjete iz članka 26. stavka 5. Zakona o Hrvatskoj komori arhitekata i inženjera u graditeljstvu, može se odobriti upis u Imenik ovlaštenih arhitekata ili Imenik ovlaštenih inženjera, uz pisanu preporuku tri ovlaštena arhitekta ili ovlaštena inženjera, ako je najmanje deset godina radila u struci na strukovnim zadacima određenog stručnog smjera i ako položi ispit prema posebnom programu koji donosi Skupština Komore.

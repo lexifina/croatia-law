@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. podstavka 1. i članka 20. stavka 2. Zakona o hrvatskoj komori arhitekata i inženjera u graditeljstvu ("Narodne novine", broj 47/98) Skupština hrvatske komore arhitekata i inženjera u graditeljstvu na sjednici održanoj 12. prosinca 1998. godine donijela je

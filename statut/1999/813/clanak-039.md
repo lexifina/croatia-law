@@ -1,0 +1,4 @@
+# Članak 39.
+(1) Ako ovlaštenom arhitektu i/ili ovlaštenom inženjeru prestane pravo na obavljanje poslova, Upravni odbor određuje mu po prijedlogu pojedinog razreda, preuzimatelja ureda iz redova ovlaštenih arhitekata odnosno ovlaštenih inženjera istim rješenjem kojim utvrđuju da mu je prestalo pravo uz obavljanje poslova.
+(2) Preuzimatelj je dužan odmah, a najkasnije u roku od 30 dana, obavijestiti stranke (investitora, naručitelja) da je njihov prijašnji izvršitelj (ovlašteni arhitekt/inženjer) izgubio pravo obavljanja poslova i staviti im na raspolaganje sve projekte i drugu dokumentaciju.
+(3) Preuzimatelj je ovlašten i dužan pružati strankama stručnu uslugu bez suglasnosti te savjesno obavljati poslove koji se moraju obaviti, sve dok stranke ne preuzmu od njega vođenje određenog projektnog zadatka odnosno stručne usluge ili dok ne nastupe pravne posljedice otkaza pružanja stručne usluge, odnosno raskida ugovora.

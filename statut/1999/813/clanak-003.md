@@ -1,0 +1,2 @@
+# Članak 3.
+U postupcima za upis u Imenik ovlaštenih arhitekata i Imenika ovlaštenih inženjera, za obnovu postupka upisa te u drugim slučajevima u kojima odlučuju o pravima i obvezama ovlaštenih arhitekata i ovlaštenih inženjera i projektantskih društava, osim ako Zakonom, ovim statutom ili drugim općim aktom Komore nije drugačije određeno, ovlaštena tijela Komore odlučuju primjenjujući na odgovarajući način pravila Zakona o općem upravnom postupku.

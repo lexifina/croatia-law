@@ -1,0 +1,4 @@
+# Članak 36.
+(1) Ploča s nazivom ureda može biti istaknuta samo pored ulaza u zgradu u kojoj je ured smješten, te pored ulaza u stan ili poslovne prostorije u zgradi u kojoj se ured nalazi. Ako ovim statutom nije drugačije određeno, ploča smije sadržavati oznaku "ovlašteni arhitekt" ili "ovlašteni inženjer" te ime i prezime ovlaštenog arhitekta i/ili ovlaštenog inženjera, odnosno oznaku da je riječ o zajedničkom uredu ili skraćenu tvrtku projektantskog društva, i stručni smjer.
+(2) Uredi ovlaštenih arhitekata i/ili ovlaštenih inženjera na području jedinica lokalne smaouprave u kojima je pored hrvatskog u službenoj uporabi i koji drugi jezik smiju na svojoj ploči imati i prijevod riječi "ovlašteni arhitekt" odnosno "ovlašteni inženjer" na taj jezik.
+(3) Ploča s imenom ureda po svojem izgledu, veličini ili obliku ne smije imati reklamno obilježje.
