@@ -1,0 +1,1 @@
+Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz 1989. godine u skladu odredaba člana 106. Zakona o osnovnim pravima iz
