@@ -1,0 +1,1 @@
+Na temelju točke III. Odluke o davanju ovlaštenja Ministarstvu obrane za upravljanje stanovima, garažama i poslovnim prostorom u vlasništvu Republike Hrvatske ("Narodne novine" broj 56/92) ministar obrane donosi
