@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Radi izbora više osnovice za obračun doprinosa, prema članku 12. ovoga Pravilnika, i radi izbora više osnovice i plaćanja doprinosa na razliku između propisane najniže i izabrane više osnovice za obračun doprinosa, prema članku 13. ovoga Pravilnika, obveznik doprinosa podnosi zahtjev Poreznoj upravi, ispostavi prema prebivalištu odnosno uobičajenom boravištu.
+(2) Zahtjev podnosi na obrascu Zahtjev za izbor više osnovice za obračun doprinosa (Obrazac ZVO) koji sadrži i izjavu podnositelja da je upoznat s odredbom članka 27. stavka 2. Zakona sukladno kojoj se izabrana viša osnovica primjenjuje za obračun svih obveznih doprinosa propisanih za osiguranika s te osnove.
+(3) Izabrani koeficijent iz članka 15. ovoga Pravilnika primjenjuje se sve do njegova opoziva ili promjene od strane obveznika doprinosa i na više uzastopnih obračunskih razdoblja (kalendarskih godina), pa obveznik doprinosa ne podnosi novi zahtjev za svako obračunsko razdoblje.
+(4) Obrazac zahtjeva iz stavka 2. ovoga članka sastavni je dio ovoga Pravilnika (PRILOG 1).

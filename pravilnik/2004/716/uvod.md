@@ -1,0 +1,1 @@
+Na temelju članka 96. stavka 1. Zakona o doprinosima za obvezna osiguranja (»Narodne novine«, broj 147/02 i 175/03), u vezi s člankom 18. stavkom 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 190/03 - pročišćeni tekst i 199/03), ministar financija donosi

@@ -1,0 +1,5 @@
+## 15. POSTUPOVNE I OSTALE ODREDBE
+# Članak 48.
+(1) Pri utvrđivanju mjesečne osnovice za obračun doprinosa prema članku 5. stavku 2. Zakona (osnovica za obračun doprinosa na plaću), iznos je ukupne mjesečne plaće svih zaposlenih umanjuje se za iznos plaće prema kojoj ne postoji obveza obračuna i plaćanja doprinosa na osnovicu sukladno članku 62. stavcima 1. i 2. Zakona i za iznos plaće radnika koji rade nepuno radno vrijeme ako im je plaća niža od najniže mjesečne osnovice.
+(2) Mjesečna osnovica za obračun doprinosa prema članku 5. stavku 2. Zakona (osnovica za obračun doprinosa na plaću) za radnika koji radi nepuno radno vrijeme a plaća mu je niža od najniže mjesečne osnovice, utvrđuje se odvojeno od osnovice ostalih zaposlenih, pri čemu se postupa na način propisan člankom 50. ovoga Pravilnika.
+(3) Odredba stavka 1. ovoga članka primjenjuje se i pri utvrđivanju mjesečne osnovice za obračun doprinosa prema članku 8. stavku 2. Zakona (osnovica za obračun doprinosa na osnovicu za izaslanoga radnika).

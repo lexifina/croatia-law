@@ -1,0 +1,2 @@
+# Članak 9.
+Osnovica za obračun doprinosa iz članka 9.a. Zakona obvezniku koji nije podnio godišnju prijavu poreza na dohodak ili su podaci u godišnjoj poreznoj prijavi netočni ili nepotpuni, te obvezniku kod kojega se dohodak ne može utvrditi na temelju poslovnih knjiga, utvrđuje se procjenom na način propisan Općim poreznim zakonom za utvrđivanje dohotka od samostalne djelatnosti u postupku utvrđivanja godišnje osnovice poreza na dohodak.

@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Rješenjem iz članka 37. stavka 3. ovoga Pravilnika utvrđuje se i iznos više uplaćenog doprinosa kao razlika između ukupno uplaćenog iznosa iz članka 36. stavka 4. ovoga Pravilnika i obračunanog iznosa prema članku 37. stavku 2. ovoga Pravilnika, iznos predujma poreza i prireza porezu na dohodak te iznos doprinosa za povrat.
+(2) Iznos više uplaćenog doprinosa iz stavka 1. ovoga članka osnovica je za obračun poreza na dohodak prema članku 3. stavku 1. Zakona o porezu na dohodak (»Narodne novine«, broj 127/00, 150/02 i 163/03) te se vraća obvezniku umanjen za iznos obračunanog i obustavljenog iznosa poreza i prireza porezu na dohodak prema propisima o porezu na dohodak.

@@ -1,0 +1,7 @@
+## 2. OBJAŠNJENJE TEMELJNIH POJMOVA
+# Članak 2.
+(1) Isplatiteljem primitka, u smislu odredbe članka 3. točke 7. Zakona, smatra se i inozemna organizacija (podružnica, međunarodna organizacija i ustanova) sa sjedištem u Republici Hrvatskoj koja ne uživa diplomatski imunitet te diplomatska misija, konzularni ured strane države i međunarodna organizacija ili predstavništvo sa sjedištem u Republici Hrvatskoj koji uživaju diplomatski imunitet.
+(2) Plaćom se, u smislu odredbe članka 3. točke 19. Zakona, smatra i naknada plaće isplaćena osobi koja pruža njegu i pomoć hrvatskom ratnom vojnom invalidu iz Domovinskog rata, u skladu s posebnim propisima.
+(3) Poslodavcem se, u smislu odredbe članka 3. točke 23. Zakona, smatra i diplomatski predstavnik odnosno konzul u Republici Hrvatskoj koji, za svoje osobne potrebe, zapošljava hrvatske državljane.
+(4) Povremenim nesamostalnim radom se, u smislu odredbe članka 3. točke 25. Zakona smatra i rad poduzetnika koji od samostalne djelatnosti obrta ili slobodnog zanimanja ili poljoprivrede i šumarstva plaća porez na dobit kada si za svoj rad isplaćuje poduzetničku plaću a obvezno je osiguran po drugoj osnovi obveznih osiguranja.
+(5) Primitkom se, u smislu odredbe članka 3. točke 26. Zakona, smatra i primitak koji osiguranik primi neposredno iz inozemstva s osnove druge samostalne djelatnosti i povremenoga nesamostalnog rada i od druge osobe koja ne obavlja samostalnu djelatnost.
