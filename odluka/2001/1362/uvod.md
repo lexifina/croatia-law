@@ -1,0 +1,1 @@
+Na temelju članka 30. stavak 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i odredbe članka 4. stavak 2. Zakona o izboru članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 33/2001), Vlada Republike Hrvatske je na sjednici održanoj 13. rujna 2001. godine donijela
