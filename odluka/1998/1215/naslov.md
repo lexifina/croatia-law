@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o načinu i uvjetima odobravanja kredita za premošćivanje nelikvidnosti banaka nad kojima je pokrenut postupak za ocjenu mogućnosti i ekonomske opravdanosti sanacije i restrukturiranja banke
