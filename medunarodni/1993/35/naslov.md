@@ -1,0 +1,1 @@
+Povelja Ujedinjenih naroda

@@ -1,0 +1,3 @@
+# Članak 12.
+1. Dok Vijeće sigurnosti glede nekog spora ili situacije obavlja funkcije koje su mu dodijeljene ovom Poveljom, Opća skupština ne može davati nikakve preporuke glede toga spora ili situacije, ako to Vijeće sigurnosti ne traži.
+2. Glavni tajnik, uz pristanak Vijeća sigurnosti, priopćuje Općoj skupštini na svakom zasjedanju predmete koji se odnose na održavanje Međunarodnog mira i sigurnosti, a kojima se bavi Vijeće sigurnosti; isto tako priopćuje Općoj skupštini ili Članovima Ujedinjenih naroda, ako Opća skupština ne zasjeda, čim se Vijeće sigurnosti prestane baviti tim predmetima.

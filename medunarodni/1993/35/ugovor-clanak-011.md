@@ -1,0 +1,5 @@
+# Članak 11.
+1. Opća skupština može razmatrati opća naćela suradnje u održavanju Međunarodnog mira i sigurnosti, uključujući načela o razoružanju i reguliranju oružanja, te može glede tih načela davati preporuke Članovima ili Vijeću sigurnosti, ili i Članovima i Vijeću sigurnosti.
+2. Opća skupština može raspravljati o svim pitanjima koja se odnose na održavanje Međunarodnog mira i sigurnosti, a koja pred nju iznese bilo koji Član Ujedinjenih naroda ili Vijeće sigurnosti ili, u skladu s Člankom 35, stavak 2, Država koja nije Članica Ujedinjenih naroda, i može, uz izuzetak predviđen u Članku 12, glede svih takvih pitanja davati preporuke državi ili državama kojih se to tiče ili Vijeću sigurnosti, ili i državama i Vijeću sigurnosti. Svako takvo pitanje koje iziskuje akciju Opća skupština upućuje Vijeću sigurnosti prije ili poslije rasprave.
+3. Opća skupština može upozoriti Vijeće sigurnosti na situacije za koje se čini da bi mogle ugroziti Međunarodni mir i sigurnost.
+4. Ovlasti Opće skupštine izložene u ovom Članku ne ograničuju opće važenje Članka 10.
