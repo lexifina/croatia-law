@@ -1,0 +1,9 @@
+# Članak 8.
+SPOROVI IZMEĐU JEDNE UGOVORNE STRANKE I ULAGATELJA DRUGE UGOVORNE STRANKE
+(1) U svrhu rješavanja sporova glede ulaganja između jedne Ugovorne stranke i ulagatelja druge Ugovorne stranke, stranke u sporu će ne dovodeći u pitanje članak 9. ovoga Ugovora (Sporovi između Ugovornih stranaka) održati konzultacije.
+(2) Ako u roku od šest mjeseci od datuma zahtjeva za konzultacijama te konzultacije ne rezultiraju rješenjem te ako dotični ulagatelj dade svoj pisani pristanak, spor će se uputiti na Međunarodni centar za rješavanje ulagačkih sporova, uspostavljen Washingtonskom konvencijom od 18. ožujka 1965. u svrhu rješavanja ulagačkih sporova između država i državljana drugih država.
+Svaka stranka može pokrenuti postupak tako da se odgovarajućim zahtjevom obrati glavnom tajniku Centra, kako to predviđaju članci 28. i 36.. spomenute Konvencije. Ukoliko se stranke ne mogu suglasiti oko toga je li prikladniji postupak nagodba ili arbitraža, pravo izbora ima ulagatelj. Ugovorna stranka koja je stranka u sporu ne može ni u kojem trenutku tijekom rješavanja spora ili izvršenja odluke kao prigovor iznositi činjenicu da je ulagatelj na osnovi Ugovora o osiguranju već primio naknadu za čitavu ili za dio nastale štete.
+(3) Društvo koje je inkorporirano ili osnovano u skladu sa zakonima koji su na snazi na teritoriju jedne Ugovorne stranke, te koje je prije nastanka spora bilo pod kontrolom ulagatelja Ugovorne stranke, smatra se, u skladu s člankom 25. (2) (b) Washingtonske konvencije, društvom druge Ugovorne stranke.
+(4) Nijedna od Ugovornih stranaka neće diplomatskim putem voditi spor koji je upućen na Centar, osim u slučaju da:
+(a) glavni tajnik Centra, komisija za nagodbu ili arbitražni sud odluči da spor nije u pravnoj nadležnosti Centra, ili
+(b) se druga Ugovorna stranka ne pridržava i ne pokorava arbitražnoj odluci.

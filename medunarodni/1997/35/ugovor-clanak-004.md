@@ -1,0 +1,7 @@
+# Članak 4.
+ZAŠTITA I TRETMAN ULAGANJA
+(1) Svaka od Ugovornih stranaka na svom će teritoriju pružiti pravičan i jednakopravan tretman, punu zaštitu i sigurnost ulaganjima i povratima ulagatelja, druge Ugovorne stranke.
+Nijedna od Ugovornih stranaka neće na bilo koji način proizvoljnim ili diskriminacijskim mjerama ometati upravljanje, održavanje, korištenje, uživanje, širenje, ili raspolaganje takvim ulaganjima.
+(2) Svaka Ugovorna stranka na svom će teritoriju odobriti ulaganjima ili povratima druge Ugovorne stranke tretman koji nije manje povoljan od onoga kojega odobrava ulaganjima ili povratima svojih vlastitih ulagatelja ili ulaganjima ili povratima ulagatelja bilo koje treće države, što god je od toga povoljnije za odnosnog ulagatelja.
+(3) Svaka Ugovorna stranka na svom će teritoriju ulagateljima druge Ugovorne stranke, u odnosu na upravljanje, održavanje, korištenje, uživanje, ili raspolaganje takvim ulaganjima, odobriti tretman koji nije manje povoljan od onoga kojega odobrava svojim vlastitim ulagateljima ili ulagateljima bilo koje treće države, što god je od toga povoljnije za odnosnog ulagatelja.
+(4) Ako neka od Ugovornih stranaka odobri posebne prednosti ulagateljima bilo koje treće države temeljem ugovora kojim se uspostavlja zona slobodne trgovine, carinska unija ili zajedničko tržište, ili temeljem ugovora o izbjegavanju dvostrukog oporezivanja, ona nije obvezna takve prednosti odobriti i ulagateljima druge Ugovorne stranke.
