@@ -1,1 +1,1 @@
-Zakon o izmjenama i dopunama Zakona o Agenciji Socijalističke Republike Hrvatske za restrukturiranje i razvoj
+Zakon o Agenciji Republike Hrvatske za restrukturiranje i razvoj

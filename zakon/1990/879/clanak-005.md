@@ -1,0 +1,14 @@
+# Članak 5.
+Agencija u okviru djelatnosti
+- organizira i pruža stručnu pomoć pri privatizaciji i pretvorbi društvenih poduzeća u skladu sa zakonom,
+- nadzire pretvorbu poduzeća,
+- daje upute za provođenje Zakona o pretvorbi društvenih poduzeća,
+- organizira savjetovanja i seminare za izobrazbu i stručno osposobljavanje i usavršavanje za poslove pretvorbe, privatizacije, razvoja i promicanja inozemnih ulaganja,
+- savjetuje poduzeća u svezi s postupkom restrukturiranja, privatizacije i vlasničke pretvorbe u konkretnim slučajevima,
+- obavlja u ime i za račun Hrvatskog fonda za razvoj (u daljem tekstu: Fond) stručne poslove vezane za prodaju dionica koje je Fond stekao pretvorbom društvenih poduzeća i obavlja za Fond druge poslove određene Zakonom o pretvorbi društvenih poduzeća.
+- organizira aktivnosti na promicanju inozemnih ulaganja.
+- koordinira interese svih subjekata u Republici Hrvatskoj vezanih za ostvarenje inozemnih ulaganja,
+- sudjeluje u izradi studija o razvoju pojedinih grana gospodarstva Republike Hrvatske koja osobito definiraju ključne mehanizme strategije razvoja: privatizacija, zajednička ulaganja inozemnih i domačih pravnih i fizičkih osoba, javnih poduzeća i dr.,
+- daje mišljenje Vladi Republike Hrvatske na zahtjev za izdavanje koncesije,
+- daje stručnu pomoć kod statusnih promjena poduzeća i
+- obavlja druge poslove određene zakonom i drugim propisima.
