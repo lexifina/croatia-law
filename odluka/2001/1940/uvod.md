@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01), te članaka 19. i 55. Statuta Općine Tučepi (»Službeni glasnik Općine Tučepi«, br. 05/01), Općinsko vijeće Općine Tučepi na svojoj 4. sjednici održanoj dana 15. prosinca 2001. donijelo je
