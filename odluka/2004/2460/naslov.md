@@ -1,0 +1,1 @@
+Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilište Viktor Lenac d.d., Rijeka, sada u stečaju
