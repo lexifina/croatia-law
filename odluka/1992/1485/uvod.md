@@ -1,0 +1,1 @@
+Na temelju stavka 2. članka 2. Uredbe o preuzimanju sredstava JNA i SSNO na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske ("Narodne novine", broj 52/91), Vlada Republike Hrvatske, na sjednici održanoj 17. rujna 1992. godine, donijela je
