@@ -1,0 +1,3 @@
+# Članak 23.
+Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju sanitarni inspektori Ureda državne uprave u županijama i Gradskom uredu Grada Zagreba, kao i sanitarni inspektori Ministarstva zdravstva sukladno nadležnostima iz Zakona o sanitarnoj inspekciji.
+Nadzor nad primjenom odredaba ovoga Zakona koje se odnose na buku u radnim prostorijama u kojima u procesu rada nastaje buka kao i odredbama ovoga Zakona koje se odnose na promet strojeva, transportnih sredstava, uređaja i opreme glede sadržaja podataka o zvučnoj snazi koju emitiraju pod određenim uvjetima uporabe obavljaju inspektori Državnog inspektorata.

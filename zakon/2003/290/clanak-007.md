@@ -1,0 +1,3 @@
+# Članak 7.
+Strojevi, transportna sredstva, uređaji i oprema koji se proizvode u Republici Hrvatskoj ili se uvoze na područje Republike Hrvatske moraju radi stavljanja u promet, odnosno uporabe biti sukladni s propisanim tehničkim zahtjevima koji se odnose na dopuštenu razinu buke koju proizvode pod određenim uvjetima uporabe, a podaci o zvučnoj snazi koju emitiraju pod tim uvjetima uporabe moraju biti označeni na proizvodu u skladu s hrvatskim normama (HRN) te smjernicama i normama Europske unije (EN).
+Izvori buke iz stavka 1. ovoga članka koji su u uporabi do stupanja na snagu ovoga Zakona, a za koje nema podataka o zvučnoj snazi koju emitiraju, moraju se uskladiti s odredbama ovoga Zakona u roku od 5 godina od njegovog stupanja na snagu.

@@ -1,0 +1,2 @@
+# Članak 30.
+Pravne osobe koje imaju ovlaštenja, za obavljanje poslova mjerenja i predviđanja buke u sredini u kojoj ljudi rade i borave, od ministra zdravstva izdana prema Pravilniku o uvjetima koje moraju ispunjavati organizacije za mjerenje i predviđanje buke u sredini u kojoj ljudi rade i borave (»Narodne novine«, br. 37/90.), dužne su se uskladiti s odredbama ovoga Zakona u roku od godinu dana od dana stupanja na snagu.
