@@ -1,0 +1,4 @@
+# Članak 67.
+Osobe koje su stekle ovlast za obavljanje poslova tjelesne zaštite prije stupanja na snagu ovoga Zakona mogu nastaviti obavljati poslove čuvara i zaštitara.
+Osobe koje su danom stupanja na snagu Zakona o zaštiti osoba i imovine (»Narodne novine«, br. 83/96., 90/96. i 96/01.) zatečene u obavljanju poslova tjelesne zaštite bez odgovarajuće stručne spreme te su prema odredbama toga Zakona imale obvezu stjecanja odgovarajuće stručne spreme, a spremu nisu stekle, nakon stupanja na snagu ovoga Zakona mogu nastaviti obavljati poslove tjelesne zaštite, ali samo na poslovima čuvara.
+Osobe koje obavljaju poslove odgovorne osobe u trgovačkim društvima za privatnu zaštitu i unutarnjim čuvarskim službama, koje su ishodile odobrenje Ministarstva do dana stupanja na snagu ovoga Zakona, a koje nemaju višu stručnu spremu propisanu odredbom članka 18. stavka 1. točka 3. ovoga Zakona, mogu nastaviti obavljati te poslove.
