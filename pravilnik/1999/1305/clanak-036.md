@@ -1,0 +1,4 @@
+# Članak 36.
+Metodologija iz točki 1. i 2. stavka 1. članka 35. mora odgovarati pravilima dobre laboratorijske prakse, jednako kao što je propisano za praćenje lijekova, a laboratorij mora biti ovlašten od Ministarstva zdravstva za rečena ispitivanja.
+Ustanova koja obavlja ispitivanja iz točke 3. stavka 1. članka 35. ovog Pravilnika, mora udovoljavati odredbama Pravilnika o dobroj kliničkoj praksi i imati dijagnostičku metodu u pogledu osjetljivosti, točnosti, preciznosti i selektivnosti sukladno Pravilniku o dobroj laboratorijskoj praksi te imati odobrenje ministra zdravstva za dijagnostički postupak koji je korišten u ispitivanju.
+U slučaju ispitivanja iz točke 4. stavka 1. članka 35. ustanova odnosno ispitivač mora ispunjavati uvjete Pravilnika o dobroj kliničkoj praksi te imati odobrenje ministra zdravstva za dijagnostičko i terapijsko područje na kojem je lijek ispitivan.

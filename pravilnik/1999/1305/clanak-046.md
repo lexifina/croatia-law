@@ -1,0 +1,3 @@
+# Članak 46.
+Naslovna stranica izvješća iz članka 43. ovog Pravilnika sadržava oznaku tajnosti, naslov istraživanja, naziv naručitelja istraživanja i ustanove koja je obavila ispitivanje, imena svih istraživača koji su sudjelovali u ispitivanju, naznaku o broju tiskanih primjeraka izvješća, datum završetka izvješća, potpis glavnog istraživača i žig ustanove koja je obavila ispitivanje.
+U posebnim slučajevima izvješće može imati na naslovnoj stranici broj bibliotekarske klasifikacije, naznaku o vlasništvu nad rezultatima i druge podatke koje dogovore ispitivač i naručitelj a odobri Povjerenstvo.
