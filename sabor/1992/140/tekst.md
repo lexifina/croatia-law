@@ -1,0 +1,9 @@
+Sabor Republike Hrvatske na zasjedanju 14. veljače 1992. donosi
+DEKLARACIJU
+o osudi političkog procesa i presude kardinalu dr. Alojziju Stepincu
+1. Nakon devet stoljeća uporne borbe za opstanak i ponovno stjecanje državnosti, hrvatski narod ostvaruje svoju vjekovnu težnju za slobodom i neovisnošću.
+2. Upravo ovom sazivu hrvatskog Sabora pripala je čast proglasiti samostalnost, suverenitet i neovisnost Republike Hrvatske.
+3. Među tisućama i tisućama hrvatskih Ijudi, koji su svojim životom i djelovanjem hrabro svjedočili o vjekovnim težnjama hrvatskog naroda, hrvatski Sabor posebno ističe i izražava zahvalnost uzoritom kardinalu dr. Alojziju Stepincu, koji je nepravedno suđen, čime je nanesena nepravda i uvreda hrvatskom narodu.
+Na montiranom političkom sudskom procesu nevino je osuđen stoga što je odbio po nalogu komunističkih vlastodržaca, provesti crkveni raskol i odvojiti Katoličku crkvu Hrvata od Rima i Vatikana, sa dalekosežnim ciljem uništenja Katoličke crkve kao vjekovnog čuvara i zaštitnika očuvanja identiteta i slobode hrvatskog naroda.
+Osuđen je stoga što je djelovao protiv nasilja i zločina komunističke vlasti, isto kao što je djelovao u vihoru i okrutnostima drugoga svjetskog rata, u zaštitu progonjenih, neovisno o njihovom narodnosnom podrijetlu, ili vjerskom svjetonazoru. Iako hrvatski narod i Katolička crkva nikada nisu priznali osudu nadbiskupu Stepincu, hrvatski Sabor kao najviše predstavnićko tijelo Hrvatske izricanjem jasnog stava prema nepravednoj osudi kardinala Stepinca ispravlja jednu povijesnu nepravdu i uvredu hrvatskom narodu.
+4. Osudom montiranog procesa i osude nadbiskupu Stepincu, hrvatski Sabor istodobno osuđuje političke procese brojnim nevino sudenim svečenicima, redovnicima i vjernicima osuđujući na taj način i protunarodni komunistički režim.
