@@ -1,0 +1,3 @@
+## o djelatnosti odgoja i obrazovanja, kulture, tehničke kulture i športa za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske
+# Članak 1.
+Ovom se uredbom uređuju pitanja funkcioniranja djelatnosti odgoja i obrazovanja, kulture, tehničke kulture i športa za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske. Propisi kojima se uređuje djelatnost odgoja i obrazovanja, kulture, tehničke kulture i športa koji vrijede na da stupanja na snagu ove uredbe primjenjiva se za vrijeme ratnog stanja ili u slučju neposredne ugrožnosti neovisnosti i jedinstvenosti Republike Hrvatske,ako ovom ili drugim uredbama sa zakonskom snagom nije drukčje određno.

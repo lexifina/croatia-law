@@ -1,0 +1,2 @@
+# Članak 3.
+Organizacije u djelatnosti odgoja: obrazovanja kulture, tehničke kulture i športa nastavljaju rad po planu obrane i za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske. Organizacije iz stavka 1. ovog članka koje su planom obrane utvrđene organizacijama od osobitog interesa za Republiku Hrvatsku, nastavljaju s radom prema planu obrane i posebnim uputama Ministarstva.
