@@ -1,0 +1,7 @@
+## III. VOĐENJE ZBIRKE PODATAKA
+# Članak 6.
+(1) Ministarstvo osniva i vodi zbirku podataka o fizičkim i pravnim osobama i drugim subjektima iz članka 1. ovoga Zakona protiv kojih su na temelju ovoga Zakona uvedene međunarodne restriktivne mjere.
+(2) Zbirka podataka o fizičkim osobama iz stavka 1. ovoga članka sadrži sljedeće podatke: ime i prezime osobe, datum i mjesto rođenja, prebivalište i boravište, državljanstvo, vrstu i broj osobne isprave, podatke o sredstvima i imovini koje posjeduje na području Republike Hrvatske, podatke o pokrenutom postupku zbog kršenja ili pokušaja kršenja restriktivnih mjera iz članka 3. ovoga Zakona, te po potrebi i druge podatke.
+(3) Zbirka podataka o pravnim osobama i subjektima iz članka 1. ovoga Zakona sadrži sljedeće podatke: naziv i sjedište pravne osobe, ime i prezime osobe ovlaštene za zastupanje pravne osobe, podatke o sredstvima i imovini koje posjeduje na području Republike Hrvatske, podatke o pokrenutom postupku zbog kršenja ili pokušaja kršenja međunarodnih restriktivnih mjera iz članka 3. ovoga Zakona, te po potrebi i druge podatke.
+(4) Podaci iz stavka 2. ovoga članka dostupni su tijelima državne uprave i predstavnicima drugih državnih tijela koji su dužni poštivati važeće odredbe propisa o zaštiti osobnih podataka ili jamčenju tajnosti podataka.
+(5) Podatke iz stavka 2. ovoga članka Ministarstvo dostavlja na zahtjev Organizacije ujedinjenih naroda i drugih međunarodnih organizacija, čijim se međunarodnim restriktivnim mjerama pridružuje.
