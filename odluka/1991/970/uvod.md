@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o sanaciji i restrukturiranju banaka ("Narodne novine", br. 27/91) i članka 29. stava 1. točke 12. Zakona o Narodnoj banci Hrvatske ("Narodne novine", br. 55/89 i 9/91), Savjet Narodne banke Hrvatske na svojoj 5. sjednici, održanoj 8. srpnja 1991. godine donio je
