@@ -1,0 +1,4 @@
+# Članak 65.
+Sudski službenici koji imaju položen ili priznat stručni ispit za određeno zvanje prema ranijim propisima, koji su vrijedili za službenike u sudovima, smatraju se položenim ili priznatim državnim stručnim ispitom za zvanje u koje su prevedeni prema odredbama ovoga Pravilnika.
+Sudski službenici koji su položili državni stručni ispit za rad u tijelima državne uprave dužni su polagati iz općeg dijela državnog stručnog ispita predmete: Unutarnje poslovanje sudova odnosno pravosudnih tijela i Sudske pristojbe, te posebni dio državnog stručnog ispita.
+Sudski službenici koji imaju položen državni stručni ispit za pojedino zvanje i tijekom službe budu raspoređeni na druge poslove iste vrste zvanja, dužni su položiti državni stručni ispit iz Posebnog dijela državnog stručnog ispita za to zvanje.

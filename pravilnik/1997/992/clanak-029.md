@@ -1,0 +1,6 @@
+# Članak 29.
+Državni stručni ispit sastoji se od općeg i posebnog dijela.
+Opći dio državnog stručnog ispita polaže se usmeno.
+Posebni dio državnog stručnog ispita sastoji se od predmeta koje utvrđuje ministar pravosuđa.
+Posebni dio državnog stručnog ispita polaže se pismeno i usmeno.
+Posebni dio državnog stručnog ispita koji se polaže pismeno sastoji se od izrade zadaće u okviru odgovarajućih poslova za koje se osposobljava, odnosno koje obavlja osoba koja polaže državni stručni ispit.

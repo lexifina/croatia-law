@@ -1,0 +1,2 @@
+# Članak 68.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti Pravilnik o pripravničkoj praksi i stručnim ispitima radnika u redovnim sudovima ("Narodne novine", broj 36/89) i Program za polaganje stručnih ispita radnika u redovnim sudovima ("Narodne novine", broj 35/89) i prestaje se primjenjivati Uredba o jedinstvenim nazivima poslova i radnih zadataka u redovnim sudovima ("Narodne novine", broj 19/89).

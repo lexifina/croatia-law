@@ -1,0 +1,2 @@
+# Članak 67.
+Ovaj se Pravilnik primjenjuje na zaposlenike: u državnom odvjetništvu, u smislu članka 56. stavka 2. Zakona o državnom odvjetništvu ("Narodne novine" br. 75/95), u državnom pravobraniteljstvu u smislu članka 67. stavka 2. Zakona o državnom pravobraniteljstvu ("Narodne novine" br. 75/95) i u prekršajnim sudovima u smislu članka 153r. Zakona o prekršajima ("Narodne novine", br. 2/73, 5/73, 21/74, 9/80, 25/84, 52/87, 27/88, 43/89, 8/90, 41/90, 59/90, 91/92 i 33/95).
