@@ -1,0 +1,1 @@
+Na temelju članka 67. stavak 1. točka 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine" broj 74/92, 26/93. i 79/93) i točke 7. Odluke o izdavanju zlatnog dukata ("Narodne novine" broj 26/94), Savjet Narodne banke Hrvatske na sjednici održanoj 3. svibnja 1994. godine, donio je
