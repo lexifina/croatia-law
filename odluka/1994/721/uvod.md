@@ -1,0 +1,1 @@
+Na osnovi članka 14. stavke 2. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje, na 6 sjednici održanoj dana 5. svibnja 1994 godine, donijelo je
