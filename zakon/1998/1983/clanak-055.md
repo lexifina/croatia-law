@@ -1,0 +1,4 @@
+# Članak 55.
+Banka sastavlja financijska izvješća i konsolidirana financijska izvješća za poslovnu godinu koja je jednaka kalendarskoj godini. Banka je dužna u roku od 6 mjeseci od isteka poslovne godine Hrvatskoj narodnoj banci dostaviti revidirana financijska izvješća, s izvješćem o obavljenoj reviziji ovjerovljenom od strane ovlaštene revizorske tvrtke i koje je usvojila glavna skupština banke, i to kao sastavni dio godišnjeg izvješća.
+Konsolidirana financijska izvješća iz stavka 1. ovog članka banke sastavljaju i dostavljaju u obliku i u rokovima koje propisuje Hrvatska narodna banka.
+Hrvatska narodna banka može odbiti revidirano izvješće koje je sastavio ovlašteni revizor, ako utvrdi da revizorsko mišljenje o financijskim izvješćima banke, koje je sastavni dio izvješća o reviziji, nije utvrđeno na stvarnim i objektivnim činjenicama o financijskom položaju banke.

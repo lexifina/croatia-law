@@ -1,0 +1,5 @@
+## V. POVEZANE OSOBE
+# Članak 26.
+Povezane osobe u smislu ovoga Zakona su pravno samostalna društva koja u međusobnom odnosu mogu stajati kao: društvo koje u drugom društvu ima većinski udio ili većinsko pravo u odlučivanju, ovisno i vladajuće društvo, društva koncerna, društva s uzajamnim udjelima i društva povezana poduzetničkim ugovorima, u skladu s odredbama Zakona o trgovačkim društvima.
+Povezanim osobama smatraju se i: roditelji, bračni drug i djeca fizičke osobe.
+Pored osoba iz stavka 1. i 2. ovoga članka povezanim osobama smatraju se i fizičke i pravne osobe koje nisu povezane na bilo koji od načina utvrđenih u odredbama tih stavaka za koje banka može, pregledom financijske i druge dokumentacije koju joj komitenti redovito dostavljaju, te na drugi način, primjenom uobičajenog standarda profesionalne pažnje, utvrditi da uslijed pogoršanja ili poboljšanja gospodarskog i financijskog stanja jedne osobe može doći do pogoršanja ili poboljšanja gospodarskog i financijskog stanja jedne ili više drugih osoba, jer se između njih provodi ili postoji mogućnost prijenosa gubitaka, dobiti ili kreditne sposobnosti.

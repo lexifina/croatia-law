@@ -1,0 +1,5 @@
+# Članak 24.
+Za svako imenovanje predsjednika i članova uprave banke obvezna je prethodna suglasnost koju daje Hrvatska narodna banka na pisani zahtjev nadzornog odbora banke.
+Osoba koja je kao kandidat predložena za predsjednika uprave kao i kandidati predloženi za članove uprave moraju imati visoku stručnu spremu ekonomskog ili pravnog smjera, uspješno trogodišnje iskustvo na vodećim poslovima u banci, odnosno šestogodišnje iskustvo na odgovarajućim financijskim poslovima što dokazuje uspješnim polaganjem stručnog bankarskog ispita čiji sadržaj i rokove donosi Hrvatska narodna banka posebnim propisima. Ujedno treba ispunjavati i posebne uvjete koje propiše Hrvatska narodna banka u svezi stručnog usmjerenja, poznavanja hrvatskog jezika i propisa Republike Hrvatske.
+U davanju suglasnosti iz stavka 1. ovog članka Hrvatska narodna banka uzima u obzir stupanj obrazovanja, stručnu osposobljenost i uspješnost u dotadašnjem radu osobe za koju se suglasnost traži.
+Osoba predložena za imenovanje za predsjednika uprave banke mora Hrvatskoj narodnoj banci osobno prikazati i u pisanom obliku dostaviti svoj program razvoja banke i način ostvarenja toga programa.

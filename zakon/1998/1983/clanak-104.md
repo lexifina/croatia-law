@@ -1,0 +1,4 @@
+# Članak 104.
+Hrvatska narodna banka osnovat će zajedno sa svim bankama Hrvatski registar obveza po kreditima kao posebnu pravnu osobu koja obavlja poslove prikupljanja i održavanja potrebnih podataka o svim izloženostima utvrđenim ovim Zakonom te poslove obavješćivanja banaka o tako prikupljenim podacima. Nadzor nad poslovanjem Hrvatskog registra po kreditima obavljat će Hrvatska narodna banka.
+Na sve podatke i činjenice iz predmeta poslovanja pravne osobe iz stavka 1. ovoga članka te na osobe koje su tijekom rada mogle doći do podataka i činjenica primjenjuju se odredbe ovoga Zakona koje se odnose na bankovnu tajnu i posebni zakon kojim je uređena zaštita tajnosti podataka.
+Banke koje su članice Hrvatskog registra obveza po kreditima, dužne su na njegov pisani zahtjev dostaviti podatke o depozitima pravnih i fizičkih osoba te o poslovanju preko njihovih žiro i tekućih računa.

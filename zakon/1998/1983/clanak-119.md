@@ -1,0 +1,4 @@
+# Članak 119.
+Štedionice upisane u sudski registar do stupanja na snagu ovoga Zakona i koje imaju odobrenje za rad prema odredbama Zakona o bankama i štedionicama, a čiji je temeljni kapital na dan stupanja na snagu ovoga Zakona manji od najmanjeg iznosa temeljnog kapitala propisanog ovim Zakonom dužne su najkasnije do 31. prosinca 2001. u skladu s odredbama Zakona o trgovačkim društvima povećati temeljni kapital na iznos koji nije manji od najmanjeg iznosa temeljnog kapitala propisanog ovim Zakonom i podnijeti zahtjev za dobivanje odobrenja za rad kao banka sukladno ovome Zakonu.
+Odluku o zahtjevu iz stavka 1. ovoga članka Hrvatska narodna banka dužna je donijeti u roku od tri mjeseca od dana primitka zahtjeva.
+Ako štedionica ne postupi u roku i na način utvrđen u odredbi stavka 1. ovoga članka na pisani zahtjev Hrvatske narodne banke provest će se postupak likvidacije štedionice.
