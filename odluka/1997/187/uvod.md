@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1997. godinu ("Narodne novine", broj 111/96), Vlada Republike Hrvatske je na sjednici održanoj 30. siječnja 1997. godine donijela
