@@ -1,0 +1,4 @@
+# Članak 3.
+Iza članka 4. Odluke dodaje se članak 4.a, koji glasi:
+»Bivše štedionice, koje su, u skladu s člankom 190. stavak (4) Zakona o bankama (»Narodne novine«, br. 84/2002.), dužne povećati temeljni kapital, osnovicu za izračun obveznog upisa blagajničkih zapisa utvrđuju u skladu s člankom 4. ove odluke, s tom razlikom što stanje plasmana na dan 31. prosinca prethodne godine, uvećano za iznos koji se dobije primjenom odgovarajuće stope za pojedino obračunsko razdoblje iz članka 2. ove odluke, dodatno uvećavaju za pozitivnu razliku između stanja temeljnoga kapitala na kraju pojedinoga obračunskog razdoblja i stanja 31. prosinca prethodne godine.
+Stanje plasmana na dan 31. prosinca prethodne godine može se dodatno uvećavati za razliku temeljnoga kapitala sve dok iznos temeljnoga kapitala ne dosegne minimalno potreban iznos u skladu s člankom 15. Zakona o bankama.«
