@@ -1,0 +1,2 @@
+# Članak 9.
+U bilo kojem trenutku, Ugovorna stranka se može povući iz ovog Ugovora, dostavljanjem pisane obavijesti Depozitaru. Svako takvo povlačenje proizvodi učinak, protekom šest mjeseci od dana primitka obavijesti o povlačenju Depozitaru; međutim, Zajednički odbor ministara može produžiti to razdoblje za više od 6 mjeseci, ali manje od 12 mjeseci, za stupanje na snagu obavijesti o povlačenju.

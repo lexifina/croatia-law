@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Ugovor između Republike Austrije, Republike Bugarske, Republike Hrvatske, Češke Republike, Republike Mađarske, Republike Poljske, Rumunjske, Slovačke Republike i Republike Slovenije za promicanje suradnje u području visokog obrazovanja u okviru Srednjoeuropskog programa razmjene za sveučilišne studije (CEEPUS II), potpisan u Zagrebu, 9. ožujka 2003. godine, u izvorniku na engleskom jeziku.

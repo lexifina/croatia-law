@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Ovaj Ugovor ostaje na snazi za razdoblje od pet godina. Može se obnoviti za naredno razdoblje nakon postizanja dogovora ugovornih stranaka. Revizija ovog Ugovora obavit će se do kraja treće akademske godine, nakon stupanja na snagu. Revizija će se zasnivati na cjelokupnoj evaluaciji programa CEEPUS II.
+(2) Svaka ugovorna stranka može u svako doba zatražiti reviziju ovog Ugovora. U tu svrhu, podnijet će pismeni zahtjev Predsjedniku Zajedničkog odbora ministara i drugim ugovornim strankama. Sve odluke koje se odnose na reviziju ovog Ugovora donijet će se jednoglasnom odlukom Zajedničkog odbora ministara.
