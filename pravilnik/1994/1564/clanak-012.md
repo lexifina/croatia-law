@@ -1,0 +1,3 @@
+# Članak 12.
+Tijelo koje upravlja lukom, uz prethodnu obavijest kapetaniji, određuje brodu odnosno brodici narnijenjenoj za gospodarske svrhe mjesto za privez uz operativnu obalu, odnosno mjesto na lučkom sidrištu.
+Kapetanija može brodu odnosno brodici namijenjenoj za gospodarske svrhe radi sigurnosti plovidbe, uz prethodnu, a iznimno i uz naknadnu obavijest drugog tijela koje upravlja lukom, narediti da se već privezani i usidreni brod premjesti na drugi vez ili da se pomakne s dodijeljenog mu mjesta, te da se djelomično ili potpuno nakrcani brod odnosno brodica ukloni s operativne obale na određenu poziciju i da se tamo usidri.

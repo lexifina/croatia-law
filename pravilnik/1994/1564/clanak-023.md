@@ -1,0 +1,5 @@
+# Članak 23.
+Nasukani, neupotrebljivi ili potonuli brod, brodica i plutajući objekt odnosno potonula stvar smije se nalaziti u luci samo na osnovi odobrenja tijela koje upravlja lukom i uz suglasnost kapetanije.
+Ako brod, brodica ili plutajući objekt odnosno potonula stvar iz stavka 1. ovog članka ugrožavaju sigurnost plovidbe ili postoji opasnost onečišćenja mora, brodar odnosno vlasnik brodice i potonule stvari dužni su, na zahtjev kapetanije, premjestiti brod, brodicu odnosno potonulu stvar iz luke na mjesto koje odredi kapetanija.
+Ako brodar odnosno vlasnik brodice ili potonule stvari ne postupi prema zahtjevu kapetanije iz stavka 2. ovog članka kapetanija će narediti tijelu koje upravlja lukom da brod, brodicu odnosno potonulu stvar premjesti iz luke na mjesto koje ona odredi, a na teret i rizik brodara, vlasnika brodice odnosno potonule stvari.
+Brod, brodice odnosno plutajući objekt u raspremi može se držati u luci samo na osnovi odobrenja tijela koje upravlja lukom, uz suglasnost kapetanije, ako se time ne ugrožava sigurnost plovidbe.

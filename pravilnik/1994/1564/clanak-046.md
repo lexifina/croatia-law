@@ -1,0 +1,3 @@
+# Članak 46.
+Nakon završenog ukrcaja odnosno iskrcaja tereta ili putnika svaki brod odnosno brodica namijenjena za gospodarske svrhe u luci mora biti spreman isploviti po isteku vremena potrebnog za pripremu broda odnosno brodice za plovidbu. Na zahtjev tijela koje upravlja lukom, brod odnosno brodica mora isploviti ili se premjestiti po isteku vremena potrebnog za pripremu broda odnosno brodice za plovidbu.
+Iznimno od odredbe stavka 1. ovog članka, na traženje osobe koja upravlja brodom odnosno voditelja brodice kapetanija može odobriti i dulje vrljeme za pripremu broda odnosno brodice za plovidbu na istom ili drugom vezu odnosno sidrištu kojeg odredi tijelo koje upravlja lukom, ako se fadi o radnjama vezanim za sigurnost plovidbe.

@@ -1,0 +1,3 @@
+# Članak 61.
+Investitori ili vlasnici objekata ili sredstava izgrađenih ili postavljenih na obali ili unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske duži su ih održavati u stanju koje ne predstavlja opasnost za Ijudske živote i sigurnost plovidbe. Ako takvi objekti ili sredstva ugrožavaju ili mogu ugroziti ljudske živote i sigurnost plovidbe, kapetanija će odrediti mjere koje se moraju poduzeti da se ti objekti odnosno sredstva dovedu u ispravno stanje, ili će narediti njihovo uklanjanje.
+Ako se na objektima i sredstvima izgrađenim ili postavljenim na obali nalazi noćno vanjsko osvjetljenje, na svjetiljkama se moraju postaviti štitnici prema plovnom put.u.

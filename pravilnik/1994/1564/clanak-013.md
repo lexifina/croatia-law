@@ -1,0 +1,2 @@
+# Članak 13.
+Kapetanija će uskratiti suglasnost za privez ili sidrenje broda odnosno brodice namijenjene za gospodarske svrhe na operativnoj obali ili mjestu za sidrenje kada primi prethodnu obavijest tijela koje upravlja lukom da se time ugrožava sigurnost plovidbe, sigurnost Ijudskih života i objekata na obali ili na moru, te ako je brod odnosno brodica u takvom stanju da bi se time onečistilo more.

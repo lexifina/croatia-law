@@ -1,0 +1,2 @@
+# Članak 71.
+Odredbe iz članka 6., članka 7. stavak 1., članka 8., članka 10. stavak 1., članka 11., članka 12. stavak 1., članaka 14., 15., 16., 17., 18. i 19., članaka 21., 22., 23., 24., 25., 26. i 28., članka 29. stavak 1., članka 30. stavak I. točka 1., 2., 3., 4., 5., 7., 8., 11. i 12., članaka 32., 33., 38., 39., 43., 44., 45., 46., 47., 48., 49., 50., 52., i 53. ovog pravilnika odgovarajuće se primjenjuju i na održavanje reda na ostalim dijelovima unutrašnjih morskih voda i teritorijalnog mora Republike Hrvatske.
