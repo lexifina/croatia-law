@@ -1,0 +1,3 @@
+# Članak 85.
+Odsjek za pripreme, u suradnji s drugim ustrojstvenim jedinicama Ministarstva, kao i ostalim državnim tijelima i drugim ustanovama u Republici Hrvatskoj, osmišljava, predlaže, organizira i provodi pripreme za rad šefova diplomatskih misija i konzularnih ureda; profesionalnih i ugovornih diplomata i administrativnog osoblja koji su odlukom ministra raspoređeni na rad u diplomatske misije i konzularne urede Republike Hrvatske; provodi postupak po natječajima za stipendije za diplomatsko usavršavanje; vodi Biblioteku Ministarstva i predlaže nabavku stručne literature za potrebe službe vanjskih poslova; objavljuje zbirke radova od interesa za službu vanjskih poslova, te obavlja i druge poslove iz svog djelokruga.
+2.2. Odsjek za strane jezike

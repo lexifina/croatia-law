@@ -1,0 +1,3 @@
+# Članak 33.
+Odjel za Afriku, bliski i srednji Istok prati unutarnje i vanjskopolitičke aktivnosti zemalja Afrike, bliskog i srednjeg Istoka kao i bilateralne odnose između tih zemalja i Republike Hrvatske; prati i analizira vanjskopolitička zbivanja; kontaktira sa stranim diplomatima; kontaktira i surađuje sa DM/KU Republike Hrvatske u svijetu; kontaktira i surađuje s drugim tijelima državne uprave; izrađuje redovite polugodišnje i godišnje planove i izvješća; izrađuje preglede, informacije, analize i izvješća za potrebe Ministarstva, ostalih tijela državne uprave, te obavlja druge poslove iz svog djelokruga rada.
+5. Uprava za meĐunarodnu gospodarsku suradnju

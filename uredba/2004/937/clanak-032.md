@@ -1,0 +1,3 @@
+# Članak 32.
+Odjel za zemlje Latinske Amerike, Australiju i Oceaniju prati, proučava i stručno obrađuje politička zbivanja i problematiku bilateralnih odnosa Republike Hrvatske i zemalja Latinske Amerike izvan sustava NATO-a, države Australije i Oceanije te surađuje s diplomatskim misijama i konzularnim odjelima Republike Hrvatske u tim zemljama, kao i diplomatskim misijama i konzularnim uredima tih zemalja u Republici Hrvatskoj; sudjeluje u izradi nacrta i daje mišljenja o potrebi sklapanja bilateralnih ugovora, te obavlja druge poslove iz svog djelokruga rada.
+3. Odjel za Afriku, bliski i srednji Istok

@@ -1,0 +1,3 @@
+# Članak 60.
+Odsjek za kapitalnu imovinu obavlja poslove vezane uz praćenje stanja i promjena na kapitalnoj imovini (sredstvima), što obuhvaća evidenciju svih promjena u Ministarstvu uključujući 77 DM/KU, upisivanje kapitalne imovine u knjigu evidencije, po komadu i cijeni, otvaranje kartice i dodjela inventurnog broja, smještaj imovine na odgovarajući DM/KU i Ministarstvo, na temelju listi, odnosno izvješća o viškovima i manjkovima, knjiženja o promjenama kapitalne imovine po DM/KU-ima (razmještaj), usklađivanje s DM/KU-ima po kontima, a na temelju bilance, priprema i obuka djelatnika prije odlaska na rad u DM/KU.
+3. Odjel za nabavu

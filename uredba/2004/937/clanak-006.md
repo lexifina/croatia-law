@@ -1,0 +1,3 @@
+# Članak 6.
+Odjel za potporu ministru vanjskih poslova obavlja sve administrativne, stručne, organizacijske i protokolarne poslove koji su u neposrednoj vezi s dnevnim aktivnostima ministra vanjskih poslova; po nalogu ministra neposredno koordinira postupanje po pitanjima iz djelokruga rada pojedinih uprava i samostalnih ustrojstvenih jedinica ministarstva; u suradnji s glasnogovornikom planira i priprema nastupe ministra u zemlji i inozemstvu; zaprima predstavke i pritužbe građana te brine o daljnjem postupanju; u cilju koordinacije aktivnosti ministra i državnih tajnika neposredno surađuje s odjelom za potporu državnim tajnicima.
+2. Odjel za potporu državnim tajnicima

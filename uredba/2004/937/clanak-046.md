@@ -1,0 +1,3 @@
+# Članak 46.
+Odjel za imovinskopravne poslove obavlja stručne poslove koji se odnose na poslove u vezi sa stjecanjem prava vlasništva nekretnina u Republici Hrvatskoj stranih pravnih i fizičkih osoba; posredovanje i koordinaciju između DM/KU i nadležnih državnih tijela u poslovima koji se tiču nasljeđivanja, alimentacijskih potraživanja; pružanja pravne pomoći hrvatskim državljanima koji žive ili borave u inozemstvu u vezi s ostvarivanjem prava i zaštitom iz područja socijalne skrbi, mirovinskog i socijalnog osiguranja; poslove koji se odnose na ostvarivanja carinskih i poreznih olakšica; te priprema izvješća, naputke i stručna mišljenja koja se odnose na poslova iz djelokruga rada Odjela.
+4. Odjel za međunarodnopravnu pomoć

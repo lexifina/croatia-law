@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/96), članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/93, 48/99, 15/2000, 59/2001 i 199/2003), Vlada Republike Hrvatske je na sjednici održanoj 12. ožujka 2004. godine, donijela

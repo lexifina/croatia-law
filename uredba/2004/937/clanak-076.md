@@ -1,0 +1,3 @@
+# Članak 76.
+Odsjek za radno-pravna pitanja obavlja poslove u svezi s prijemom službenika i namještenika u službu vanjskih poslova; provodi postupak imenovanja i razrješenja dužnosnika te postavljenja i opoziva šefova DM/KU Republike Hrvatske; obavlja raspored službenika i namještenika na radna mjesta unutar Ministarstva te u DM/KU; obavlja poslove u svezi svih radno-pravnih pitanja šefova DM/KU, dužnosnika, službenika i namještenika; vodi osobne očevidnike i evidencije; vrši analizu poslova i zadataka iz djelokruga rada Odsjeka te obavlja i druge poslove iz svog djelokruga.
+11. Diplomatski protokol

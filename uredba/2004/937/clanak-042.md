@@ -1,0 +1,3 @@
+# Članak 42.
+Odjel za web stranice oblikuje, izrađuje, održava i ažurira internetske i intranetske stranice službe vanjskih poslova; sadržajno priprema, uređuje i prevodi, odnosno, organizira prevođenje na strane jezike za potrebe internetske stranice i za druge promotivne svrhe; koordinira poslove u svezi s prevođenjem te izradom i ažuriranjem internetskih i intranetskih stranica službe vanjskih poslova; koordinira internu i eksternu elektronsku komunikaciju; pohranjuje prikupljena izvješća u Odjelu u elektronskom i papirnatom obliku; distribuira i otprema biltene Odjela za informiranje elektronskim putem; fotografira i izrađuje foto-arhiv Ministarstva, te obavlja druge poslove iz svog djelokruga.
+7. Uprava za konzularne poslove

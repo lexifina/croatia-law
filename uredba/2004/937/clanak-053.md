@@ -1,0 +1,6 @@
+# Članak 53.
+Odjel za razvoj i podršku službe vanjskih poslova koordinira i obavlja poslove analize stanja, planiranja razvoja i osiguravanja materijalno-tehničkih pretpostavki za rad službe vanjskih poslova; koordinira i obavlja poslove standardizacije pokretne i nepokretne imovine i opremljenosti Ministarstva i DM/KU; poslove racionalizacije u korištenju materijalno-financijske imovine službe vanjskih poslova; poslove planiranja i projekcije godišnjih projekata i izrade izvješća; obavlja poslove upravljanja imovinom; obavlja stručne poslove pri kupnji novih objekata i rekonstrukciji postojećih; kontaktira i surađuje s Vladom Republike Hrvatske i tijelima državne uprave u poslovima iz djelokruga rada; obavlja stručne poslove oko opremanja i uređenja DM/KU, rezidencija i Ministarstva; vodi zbirku umjetnina; priprema i obavlja poslove investicijskog održavanja; kontaktira i obilazi DM/KU te rješava njihove zahtjeve iz djelokruga rada Odjela; priprema podloge za donošenje odluka državnog tajnika Ministarstva; obavlja pripreme diplomatskih službenika i namještenika, te obavlja ostale poslove iz svog djelokruga.
+Za obavljanje poslova i zadaća iz ovog članka u Odjelu za razvoj i podršku službe vanjskih poslova ustrojavaju se sljedeći odsjeci:
+1.1. Odsjek za razvoj i podršku;
+1.2. Odsjek za upravljanje imovinom.
+1.1. Odsjek za razvoj i podršku

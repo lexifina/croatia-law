@@ -1,0 +1,3 @@
+# Članak 57.
+Odsjek za računovodstvo prati i izučava zakone i druge propise vezane za financijsko i računovodstveno poslovanje; izrađuje periodične, polugodišnje i završne račune; vrši usklađivanje i konsolidaciju računovodstvenih podataka za Ministarstvo i DM/KU; vrši ažuriranje nabave kapitalne imovine; organizira godišnji popis i inventuru osnovnih sredstava; vrši knjiženje svih poslovnih događaja, kontrolira dokumentaciju roba i usluge, vrši pravovremeno plaćanje svih obveza; vrši poslove vezane za Državnu riznicu; organizira i provodi obračun plaća; obavlja poslove vezane uz blagajničko poslovanje; radi odgovarajuća izvješća u svezi računovodstvenog poslovanja.
+2.2. Odsjek za devizno poslovanje

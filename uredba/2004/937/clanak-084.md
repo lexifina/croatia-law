@@ -1,0 +1,6 @@
+# Članak 84.
+Odjel za pripreme i strane jezike, u suradnji s drugim ustrojstvenim jedinicama Ministarstva, kao i ostalim državnim tijelima i drugim ustanovama u Republici Hrvatskoj, osmišljava, predlaže, organizira i provodi pripreme za rad šefova diplomatskih misija i konzularnih ureda; profesionalnih i ugovornih diplomata i administrativnog osoblja koji su odlukom ministra raspoređeni na rad u diplomatske misije i konzularne urede Republike Hrvatske; provodi postupak po natječajima za stipendije za diplomatsko usavršavanje; sudjeluje u organizaciji tečajeva stranih jezika za potrebe službe vanjskih poslova; organizira i provodi učenje stranih jezika za službenike i namještenike u službi vanjskih poslova; organizira i provodi učenje stranih jezika za službenike prije odlaska na rad u DM/KU; vodi Biblioteku Ministarstva i predlaže nabavku stručne literature za potrebe službe vanjskih poslova; objavljuje zbirke radova od interesa za službu vanjskih poslova, te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova i zadaća iz ovog članka u Odjelu za pripreme i strane jezike ustrojavaju se sljedeći odsjeci:
+2.1. Odsjek za pripreme;
+2.2. Odsjek za strane jezike.
+2.1. Odsjek za pripreme

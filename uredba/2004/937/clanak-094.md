@@ -1,0 +1,3 @@
+## 17. SAMOSTALNI ODJEL ZA UNUTARNJI NADZOR
+# Članak 94.
+Samostalni odjel za unutarnji nadzor sustavno i kontinuirano nadzire zakonito, učinkovito, usklađeno i racionalno djelovanje diplomatskih misija i konzularnih ureda u obavljaju poslova iz njihove nadležnosti radi postizanja optimalnih kadrovskih, materijalnih i prostornih standarda za funkcioniranje diplomatskih misija i konzularnih ureda, predlaže konkretna rješenja i poboljšanja, vodeći računa o ugledu i mogućnostima Republike Hrvatske, daje prijedloge za poboljšanje i dostizanje radnih i životnih uvjeta zaposlenog osoblja na približno istom nivou u svim diplomatskim misijama i konzularnim uredima, te obavlja druge poslove iz svoje nadležnosti.

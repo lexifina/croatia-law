@@ -1,0 +1,7 @@
+# Članak 7.
+Odjel za potporu državnim tajnicima obavlja sve stručne, administrativne, organizacijske poslove koji su u neposrednoj vezi s dnevnim aktivnostima državnih tajnika, te njihovim planiranim aktivnostima kroz duže vremensko razdoblje; po nalogu državnih tajnika u okviru njihovih ovlasti koordinira postupanjem po pitanjima iz djelokruga rada pojedinih uprava i drugih samostalnih ustrojstvenih jedinica Ministarstva. U dijelu primarne i izvorne nadležnosti državnih tajnika koordinira neposrednu suradnju s Hrvatskim saborom, Predsjednikom Republike Hrvatske, Vladom Republike Hrvatske, te s ostalim tijelima državne uprave; priprema prijedloge za djelovanje Ministarstva u okviru nadležnosti državnih tajnika u području vanjske politike i međunarodnih odnosa; u suradnji s glasnogovornikom planira i priprema nastupe državnih tajnika u medijima; za potrebe državnih tajnika neposredno kontaktira i surađuje sa stranim diplomatskim misijama u zemlji; pruža tehničku i organizacijsku pomoć oformljenim savjetima i ad hoc radnim grupama; u cilju koordinacije aktivnosti ministra i državnih tajnika neposredno surađuje s Odjelom za potporu ministru, te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova i zadaća iz ovog članka u odjelu za potporu državnim tajnicima ustrojavaju se sljedeći odsjeci:
+2.1. Odsjek za potporu državnom tajniku za politička pitanja;
+2.2. Odsjek za potporu državnom tajniku za ustroj, razvoj i upravljanje.
+2.1. Odsjek za potporu državnom tajniku za
+politička pitanja

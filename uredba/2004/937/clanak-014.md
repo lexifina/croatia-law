@@ -1,0 +1,3 @@
+# Članak 14.
+Odsjek za politička pitanja NATO-a priprema stručne podloge za diplomatsku aktivnost Ministarstva i djelovanje relevantnih državnih institucija za podizanje statusa Republike Hrvatske do punopravnog člana NATO-a; prati i potiče relevantne aktivnosti povezane s djelovanjem Republike Hrvatske sa svim relevantnim političkim strukturama NATO saveza; prati razvoj političkih odnosa i političke strategije NATO saveza; obavlja politički dio priprema za djelovanje Vlade Republike Hrvatske u koordinaciji aktivnosti povezanih s pripremama Republike Hrvatske za stalno članstvo u NATO-u, uključujući i pripreme za koordinacije Vlade Republike Hrvatske, te obavlja i druge poslove iz svoje nadležnosti.
+3.2. Odsjek za vojno-sigurnosna pitanja i planiranje

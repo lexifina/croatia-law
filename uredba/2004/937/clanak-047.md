@@ -1,0 +1,3 @@
+# Članak 47.
+Odjel za međunarodnopravnu pomoć obavlja upravne i stručne poslove koji se odnose na: posredovanje i koordinaciju između nadležnih tijela državne uprave i diplomatskih misija i konzularnih ureda Republike Hrvatske, koji na osnovi odredbi Bečke konvencije o konzularnim odnosima obavljaju javnobilježničke poslove u inozemstvu; obavljanje poslova matičarstva i međunarodnopravne pomoći; suradnju u pripremi i izradi konzularnih konvencija i međunarodnih sporazuma; stručno praćenje promjena iz područja međunarodnopravne pomoći u građanskim, kaznenim i upravnim stvarima te pripremanja izvješća, naputaka i stručnih mišljenja koja se odnose na poslove iz djelokruga rada Odjela.
+5. Odjel za koordinaciju i praćenje rada DM/KU
