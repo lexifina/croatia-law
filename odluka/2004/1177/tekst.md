@@ -1,0 +1,7 @@
+1. U povodu obilježavanja 10. obljetnice uvođenja kune kao novčane jedinice Republike Hrvatske 1994. - 2004. Hrvatska narodna banka izdaje prigodnu optjecajnu novčanicu od 10 kuna s datumom izdanja 30. svibnja 2004.
+2. Prigodna optjecajna novčanica iz točke 1. ove odluke izdaje se u količini od 5.000.000 komada i u ukupnoj svoti od 50.000.000,00 kuna.
+3. Prigodna optjecajna novčanica od 10 kuna s datumom izdanja 30. svibnja 2004. imat će osnovna obilježja utvrđena Odlukom o osnovnim obilježjima novčanice od 10 kuna izdanje 7. ožujka 2001. (»Narodne novine«, br. 20/2001. i 24/2001.), izuzevši sljedeće:
+a) S lica: na lijevom polju novčanice, na dijelu gdje je ugrađen vodeni znak s likom Jurja Dobrile, otisnut je okomito, u trideset i četiri retka, u neprekinutom nizu tekst »DESETA OBLJETNICA HRVATSKOGA NOVCA KUNE I LIPE 2004.«. Tekst je otisnut mikropismom i tvori pravokutnu podlogu unutar koje je zadebljanjem pojedinih slova i brojki dobiven vidljiv efekt broja »10.«. Preko pravokutne podloge u tri je retka bojom koja se prelijeva otisnuta riječ »OBLJETNICA«. Na podlozi prevladava narančasta boja.
+b) S naličja: u gornjem dijelu višetonskog papira, uz vodoravni rub novčanice, tiskan je u dva retka tekst »ZAGREB, 30. SVIBNJA 2004.«, »GUVERNER«. Ispod teksta tiskan je faksimil potpisa dr. Željka Rohatinskog, guvernera Hrvatske narodne banke.
+4. Ova odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 645/2004.
