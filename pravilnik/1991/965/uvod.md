@@ -1,0 +1,1 @@
+Na temelju članka 133. stavka 4. Zakona o sigurnosti prometa na cestama - pročišćeni tekst ("Narodne novine", br. 20/91) i člana 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/90 i 47/90) ministar unutarnjih poslova donosi
