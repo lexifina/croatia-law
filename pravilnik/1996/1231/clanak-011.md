@@ -1,0 +1,2 @@
+# Članak 11.
+Iznimno od odredbe članka 10. ovoga Pravilnika, ukoliko se poslovnica nalazi u objektima namijenjenim trgovačkim aktivnostima (robne kuće), u bankama, hotelima, sajamskim prostorijama, na kolodvorima ili terminalima za javne usluge kopnenog, pomorskog ili zračnog prijevoza ili kiosku, poslovnica ne treba imati vlastiti zahod, ali zaposlenicima treba biti omogućeno korištenje zahoda u blizini.

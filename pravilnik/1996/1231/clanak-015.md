@@ -1,0 +1,2 @@
+# Članak 15.
+Iznimno od odredbe članka 14. ovoga Pravilnika, ukoliko putnička agencija posrednik pruža samo usluge posredovanja u pružanju usluga turističke asistencije, ugostiteljskih usluga u domaćinstvu, prodaje karata za izlete i priredbe, usluge mjenjačnice ili pružanja turističkih informacija, tada svoje usluge može pružati i iz kioska, veličina poslovnog prostora kojeg može biti manja od 16 m˛.

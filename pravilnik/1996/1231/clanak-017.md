@@ -1,0 +1,2 @@
+# Članak 17.
+Danom početka primjene ovoga Pravilnika prestaju važiti: Pravilnik o minimalnim tehničkim uvjetima prostorija u kojima se obavlja turistička djelatnost i o potrebnoj opremi za obavljanje te djelatnosti ("Narodne novine" br. 22/89) i Pravilnik o minimalnim tehničkim uvjetima i opremi poslovnih prostorija organizacija u kojima obavljaju poslove u vezi usluga koje građani prodaju turistima i putnicima ("Narodne novine", br. 22/89.).
