@@ -1,0 +1,2 @@
+# Članak 14.
+Osiguranicima Republičkog fonda osiguravaju se sredstva za naknadu osobnog dohotka - plaće za vrijeme privremene spriječenosti za rad od 31. dana izostanka, na teret Republičkog fonda, a od prvog dana izostanka, na teret sredstava Republičkog fonda u slučajevima korištenja porodiljskog dopusta, dodatnog porodiljskog dopusta, usvojiteljskog dopusta, te skraćenog radnog vremena do jedne, odnosno treće godine života djeteta.

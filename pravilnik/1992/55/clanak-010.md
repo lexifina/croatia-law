@@ -1,0 +1,2 @@
+# Članak 10.
+Kvalitetu pruženih mjera zdravstvene zaštite, koja čini zdravstveni standard, osiguravaju građanima organizacije zdravstva i zdravstveni djelatnici, koji ispunjavaju predviđene normative i standarde s obzirom na opremu, kadrove i uvjete rada. Kvaliteta rada osigurava se provjerom stručnosti rada zdravstvenih djelatnika i organizacija zdravstva. Provjera stručnog rada i zdravstvenih djelatnika u organizaciji zdravstva, obavlja se nadzorom stručnjaka Ministarstva zdravstva i Republičkog fonda, na osnovi postojeće metodologije.
