@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 32. stavak 6. mijenja se i glasi:
+»(6) Fizička osoba gubi svojstvo poduzetnika trajnom odjavom djelatnosti i brisanjem iz registra kod nadležnog tijela. Prije odjave djelatnosti poduzetnik - fizička osoba mora obračunati porez na dodanu vrijednost na sve isporuke do dana odjave, uključujući u te isporuke i sva dobra koja mu preostanu i koja se smatraju izuzimanjem za vlastite potrebe, a za koja je koristio odbitak pretporeza ili ih je prije početka primjene Zakona o porezu na dodanu vrijednost, nabavio za poduzetničku djelatnost bez poreza na promet ili uz povlaštenu stopu poreza te izmiriti sve druge porezne obveze po osnovi poduzetničke djelatnosti.«
