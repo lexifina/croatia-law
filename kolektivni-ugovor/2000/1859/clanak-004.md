@@ -1,0 +1,4 @@
+# Članak 4.
+Ocjenu rada zaposlenika u tijeku probnog rada daje od čelnika poslodavca ovlašteni zaposlenik. Ocjena se dostavlja čelniku poslodavca najkasnije do posljednjeg dana probnog rada.
+Ako ocjena utvrđuje kako zaposlenik u tijeku probnog roka nije ostvario prosječne rezultate rada ili da njegove radne i stručne sposobnosti ne udovoljavaju zahtjevima za obavljanje poslova koje je u tijeku probnog roka obavljao, čelnik poslodavca redovito će otkazati ugovor o radu prvog dana po isteku probnog roka a najkasnije u daljnjem roku od 7 dana. U protivnom će se smatrati da je zaposlenik zadovoljio u toku probnog rada.
+Otkaz ugovora o radu zbog neudovoljavanja na probnom radu zaposleniku se daje u pisanom obliku s obrazloženjem i uz otkazni rok od 7 dana koji počinje teći od dana dostave otkaza. Ako bi zadnji dan otkaznog roka pao na dan blagdana ili neradni dan, otkazni rok istječe protekom prvog sljedećeg dana.

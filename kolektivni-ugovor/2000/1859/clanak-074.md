@@ -1,0 +1,2 @@
+# Članak 74.
+Zaposleniku, prijašnjem korisniku prava na rad sa skraćenim radnim vremenom i na drugom odgovarajućem poslu za vrijeme zaposlenja (čl. 174. st. 3. t. 2. - 4. Zakona o mirovinskom osiguranju), koji je to pravo stekao zbog ozljede na radu ili profesionalne bolesti prema propisima do 31. 12. 1998. godine, pripada pravo na razliku između plaće koju bi ostvarivao za puno radno vrijeme za zvanje u koje je postavljen, odnosno za radno mjesto na koje je raspoređen i zbroja invalidske mirovine i plaće koju ostvaruje za skraćeno radno vrijeme.

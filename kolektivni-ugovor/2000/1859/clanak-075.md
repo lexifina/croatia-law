@@ -1,0 +1,2 @@
+# Članak 75.
+Kada se tijekom zaposlenikova radnog vijeka njegova radna sposobnost smanji zbog godina starosti, općega zdravstvenog stanja, fizičke ili psihičke iscrpljenosti, ozljede na radu, invaliditeta, profesionalnih i drugih bolesti, a do stjecanja prava na mirovinu, nedostaje mu 5 godina staža ili godina života, osigurat će mu se povoljniji uvjeti rada zadržavajući dignitet zaposlenika bez smanjivanja plaće koju je ostvarivao u vremenu prije nego su nastupile spomenute okolnosti.
