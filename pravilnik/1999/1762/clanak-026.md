@@ -1,0 +1,2 @@
+# Članak 26.
+U slučaju odbijanja suradnje ili onemogućavanja rada ovlaštene osobe, tijekom obavljanja propisanih pregleda i kontrola, te uzorkovanja sukladno zahtjevima za primjenu Plana praćenja, te za vrijeme obavljanja ispitivanja i kontrola u skladu s odredbama ovoga Pravilnika, poduzimaju se prema vlasniku ili posjedniku životinje ili životinjskih proizvoda mjere propisane Zakonom o veterinarstvu i Zakonom o veterinarskim lijekovima i veterinarsko medicinskim proizvodima.

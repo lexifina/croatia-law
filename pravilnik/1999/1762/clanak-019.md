@@ -1,0 +1,4 @@
+# Članak 19.
+U skladu s rezultatima ispitivanja, ovlaštena osoba mora poduzeti sve potrebne mjere kako bi se zaštitilo zdravlje ljudi, a to može uključiti i zabranu kretanja životinja s farme (napuštanja farme) ili privremenu zabranu odnošenja proizvoda životinjskoga podrijetla s farme ili iz objekata u kojima su proizvedeni.
+Svaki trup ili proizvod životinjskoga podrijetla za koji rezultati analize pokazuju da su maksimalno dozvoljene količine ispitivanih rezidua prekoračene, mora se proglasiti higijenski neispravnim za javnu potrošnju.
+U slučaju ponovljenih nalaza rezidua određenih tvari u nedozvoljenim količinama, ovlaštena osoba mora, prema vlastitoj prosudbi, dodatno uzorkovati životinje na mjestu uzgoja ili držanja, odnosno kad su u pitanju proizvodi životinjskoga podrijetla, na farmi i/ili u proizvodnim objektima, i to kroz razdoblje od najmanje od 6 mjeseci.
