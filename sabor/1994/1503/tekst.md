@@ -1,0 +1,7 @@
+Zastupnički dom Sabora Republike Hrvatske na sjednici 24. studenoga 1994., u povodu rasprave o pretvorbi i privatizaciji društvenog vlasništva, prijedloga Deklaracije zastupnika SDP-a o privatizaciji državnog i/ili društvenog kapitala i Izvješća Vlade Republike Hrvatske glede Interpelacije zastupnika HDZ-a o zakonitosti u procesu pretvorbe, privatizacije i gospodarstvenim tijekovima, donio je sljedeće
+ZAKLJUČCI
+ZASTUPNIČKOG DOMA SABORA REPUBLIKE HRVATSKE
+1. Zastupnički dom Sabora Republike Hrvatske ocjenjuje da je dosadašnji tijek pretvorbe i privatizacije primjeren uvjetima u kojima se našla Hrvatska, suočena s agresijom i potrebom obrane teritorijalne cjelovitosti zemlje te da je zadovoljio temeljne strateške ciljeve.
+2. Prema podnesenim izvješćima i raspravi Zastupnički dom Sabora Republike Hrvatske ocjenjuje da je u procesu pretvorbe i privatizacije bilo kršenja zakone te od nadležnih državnih tijela zahtijeva odlučniji pristup u djelatnosti usmjerenoj na sprečavanju nezakonitosti, otkrivanju i privođenju odgovornosti počinitelja kažnjivih djela.
+3. Zastupnički dom Sabora Republike Hrvatske drži nužnim stalni nadzor nad procesom pretvorbe i privatizacije, kao i ustanovljenje saborskog istražnog povjerenstva sa tom svrhom.
+Zadužuje se Odbor za zakonodavstvo Zastupničkog doma Sabora da izradi prijedlog zakona o saborskom istražnom povjerenstvu i po hitnom postupku uputi ga Saboru Republike Hrvatske na usvajanje.
