@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jadransko Crnić, predsjednik Suda te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, u povodu prijedloga za ocjenu ustavnosti zakona, na sjednici održanoj dana 8. srpnja 1999. godine, donio je
