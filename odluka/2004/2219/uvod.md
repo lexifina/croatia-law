@@ -1,0 +1,1 @@
+Na temelju članka 40.a Zakona o izvršavanju Državnog proračuna Republike Hrvatske (»Narodne novine«, br. 31/2004 i 104/2004) i članka 30. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/01, 119/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 27. kolovoza 2004. godine donijela
