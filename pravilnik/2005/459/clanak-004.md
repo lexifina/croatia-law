@@ -1,0 +1,3 @@
+## Propis koji prestaje važiti
+# Članak 4.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o plaćanju naknade za obavljanje telekomunikacijskih usluga i djelatnosti (»Narodne novine«, broj 49/04. i 57/04.), osim odredbe članka 4. u dijelu koji se odnosi na Tablicu 3. iz članka 2. stavka 1. Pravilnika o naknadi za obavljanje telekomunikacijskih usluga i drugih telekomunikacijskih djelatnosti i načinu plaćanja (»Narodne novine«, broj 48/03.) i druge odredbe tog Pravilnika, koje se odnose na plaćanje naknade za obavljanje djelatnosti radija i televizije, a koji ostaje na snazi do donošenja propisa iz članka 64. stavka 5. Zakona o elektroničkim medijima (»Narodne novine«, broj 122/03).
