@@ -1,0 +1,2 @@
+# Članak 8.
+Danom stupanja na snagu ove Uredbe prestaje važiti Odluka o obvezi prijave cjenika odnosno tarifa određenih pravnih osoba (»Narodne novine«, broj 77/96), Odluka o obvezi prijave cjenika odnosno tarifa određenih proizvoda i usluga (»Narodne novine« broj 45/93, 47/93 i 78/93), te Naredba o određivanju proizvoda i usluga za koje se dostavljaju prijave cjenika odnosno tarifa (»Narodne novine«, broj 78/96).
