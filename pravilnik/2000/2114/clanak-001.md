@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o iskaznici i znački sanitarnog inspektora (»Narodne novine« broj 106/99 i 114/99) u članku 3. riječi: »graničnog sanitarnog inspektora (obrazac »C«)« zamjenjuju se riječima: »sanitarnog inspektora (obrazac »C«), a riječi: »sanitarnog inspektora Ministarstva zdravstva (obrazac »D«)« zamjenjuju se riječima: »graničnog sanitarnog inspektora Ministarstva zdravstva (obrazac »D«)« zamjenjuju se riječima: »granični sanitarni inspektor (obrazac »D«)«.
+U točki 4. riječi: »granični sanitarni inspektor (obrazac »C«)« zamjenjuju se riječima: »sanitarni inspektor (obrazac »C«)«, a riječi: »sanitarni inspektor (obrazac »D«)« zamjenjuju se riječima: »granični sanitarni inspektor (obrazac »D«)«.
