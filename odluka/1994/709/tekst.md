@@ -1,0 +1,4 @@
+1.
+Invalidu rada i osiguraniku koji se nalazi na prekvalifikaciji ili dokvalifikaciji izvan mjesta prebivališta, a nije mu osiguran stalni prijevoz od mjesta stanovanja do mjesta gdje se obavlja prekvalifikacija ili dokvalifikacija ni besplatan smještaj i prehrana za vrijeme prekvalifikacije ili dokvalifikacije u drugome mjestu - isplaćuje se, osim naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju, još i naknada za troškove smještaja i prehrane, koja od 1. siječnja 1994. iznosi 167.748.- HRD mjesečno.
+2.
+Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1994.
