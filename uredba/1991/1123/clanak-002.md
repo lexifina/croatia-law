@@ -1,0 +1,2 @@
+# Članak 2.
+Evidencijsku deviznu poziciju iz članka 1. ove uredbe utvrđuju banke ovlaštene za poslove s inozemstvom (u nastavku teksta: "ovlaštene banke") ovisno o deviznom priljevu kojeg ostvare poduzeća, druge pravne osobe i fizičke osobe sa prebivalištem u Republici Hrvatskoj, koje samostalno obavljaju gospodarsku i drugu djelatnost osobnim radom odnosno osobnim radom i sredstvima u vlasništvu građana, a prema Zakonu nemaju status pravne osobe iz Republike Hrvatske (u nastavku teksta: "poduzeća") po osnovi izvoza robe i usluga.
