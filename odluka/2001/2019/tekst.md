@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna posvećen 10. obljetnici međunarodnog priznanja Republike Hrvatske 15. 1. 1992. - 15. 1. 2002. izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine« br. 37/94., 44/94. i 68/94.) s osnovnim obilježjima utvrđenim u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »10. obljetnica međunarodnog priznanja Republike Hrvatske 15. 1. 1992. - 15. 1. 2002.«, pušta se u optjecaj 15. siječnja 2002. godine.
+2. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O.br. 606/2001.
