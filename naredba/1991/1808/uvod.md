@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78 29/85, 48/85, 41/90, 47/90 i 53/A/91) i članka 31. stavka 2. Zakona o poljoprivrednom sjemenu i poljoprivrednom sadnom materijalu ("Narodne novine", br. 50/88 i 47/89), ministar poljoprivrede, šumarstva i vodoprivrede donosi
