@@ -1,0 +1,2 @@
+# Članak 1.
+U Carinskom zakonu (»Narodne novine«, br. 78/99., 94/99., 117/99., 73/00. i 92/01.) u članku 4. točki 8. riječ: »Dužnik« zamjenjuje se riječima: »Carinski dužnik«, iza riječi : »duga« dodaje se riječ »(dužnik)«, a u točki 10. riječ: »radnje« zamjenjuje se riječima: »posebne službene radnje za osiguranje primjene carinskih propisa, a po potrebi i drugih propisa koji se odnose na robu pod carinskim nadzorom«.
