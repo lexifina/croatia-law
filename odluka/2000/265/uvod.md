@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 13. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 19. sjednici, održanoj 26. siječnja 2000. godine, donijelo je
