@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 2. Zakona o obrani ("Narodne novine", broj 49/91, 53A/91, 73/91, 19/92, 55/92 i 49/93), Vlada Republike Hrvatske je na prijedlog ministra obrane na sjednici održanoj 1. srpnja 1993. godine donijela
