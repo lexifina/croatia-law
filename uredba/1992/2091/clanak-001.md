@@ -1,0 +1,3 @@
+## o stavljanju izvan snage određenih odredbi Uredbe o radnimodnosima, zapošljavanju, socijalnoj skrbi, mirovinskom i invalidskom osiguranju,dječjem doplatku i zaštiti žrtava u slučaju ratnog stanja ili neposredneugroženošti neovisnosti i jedinstvenosti Republike Hrvatske
+# Članak 1.
+Stavlja se izvan snage odredbe Uredbe o radnim odnosima, zapošljavanju,socijalnoj skrbi, mirovinskom i invalidskom osiguranju, dječjem doplatkui zaštiti žrtava u slučaju ratnog stanja ili neposredne ugroženosti neovisnostii jedinstvenosti Republike Hrvatske ("Narodne novine", broj 55/91),osim odredbi Glave III - Zapošljavanje (članci 12., 13., 14., 15., 16.i 17.)
