@@ -1,0 +1,2 @@
+# Članak 5.
+Ovlaštene organizacije za obavljanje platnog prometa jesu Narodna banka Hrvatske, Zavod za platni promet banke. štedionice i druge štedno-kreditne organizacije te Hrvatska pošta i telekomunikacije. Banke mogu voditi račune pravnih osoba, s izuzetkomm računa iz članka 10. točke 1) ovoga Zakona koji se vode u Zavodu, i obavljati platni promet po tim računima samo ako im to odobri Narodna banka Hrvatske. Narodna banka Hrvatske oduzet će odobrenje banci iz stavka 2. ovoga članka ako ne ispunjava uvjete iz članka 7. i 8. ovoga Zakona.
