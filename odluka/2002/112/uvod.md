@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 24. Statuta Grada Metkovića (»Neretvanski glasnik« 3/01), Gradsko vijeće Grada Metkovića, na sjednici održanoj 21. prosinca 2001. godine, donijelo je
