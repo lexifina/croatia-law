@@ -1,0 +1,20 @@
+o visini prihoda domaćinstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini. 1992.
+1. Pri utvrđivanju prava na zaštitni dodatak uz mirovinu, koji se po Zakonu o mirovinskom i invalidskom osiguranju osigurava korisnicima mirovine, smatrat će se da ni korisnik mirovine ni članovi njegova domaćinstva nemaju drugih prihoda dovoljnih za uzdržavanje:
+a) ako im prihod ostvaren na temelju radnog odnosa (osobi dohodak, naknade, mirovine i drugo) ne prelaze iznos od 1.325.- HRD mjesečno po članu domaćinstva, ili
+b) ako im osnovica iz osobnog dotkotka od poljoprivredne djelatnosti (katastarski prihod) ne prelazi 785HRD godišnje po članu domaćinstva, ili
+c) ako im osobni dohodak od obavljanja samostalne djelatnosti kao i drugi dohodak od imovine i prihoda podložnog porezu (ostali dopunski prihodi) ne prelazi iznos od 1.325.- HRD godišnje po članu domaćinstva.
+Prihod ostvaren izvan radnog odnosa, povremenim ili privrednim radom, prihod ostvaren od iznajmljivanja soba, pružanja usluga prehrane turistima, kao i prihod koji bračni drug korisnika ostvari u domaćoj radinosti, izjednaćuje se s prihodom ostvarenim na temelju radnog odnosa.
+2. Ako korisnik mirovine i članovi njegova domaćinstva imaju istodobno prihode po raznim temeljima iz točke 1. ove Odluke. visina prihoda utvrđuje se tako da se prihod podijeli, i to prihod pod a) sa 13,25, prihod pod b) sa 7,85, a prihod pod c) sa 13,25 pa ako zbroj količnika prelazi 100, smatra se da korisnik mirovine ima drugih prihoda dovoljnih za uzdržavanje.
+3. Pri utvrđivanju prava na zaštitni dodatak uz mirovinu primjenom cenzusa prihoda ostvarenih na temelju radnog odnosa ti se prihodi dijele na korisnika mirovine, njegovog bračnog druga, djecu i roditelje koje korisnik i njegov bračni drug uzdržavaju.
+Ako je bračni drug korisnika mirovine zaposlen u inozemstvu kod inozemnog poslodavca ili se tamo bavi samostalnom djelatnošću, smatra se da korisnik mirovine ima drugih prihoda dovoljnih za uzdržavanje.
+4. Pri utvrđivanju prihoda domaćinstva korisnika mirovine u smislu točke l. ove Odluke uzima se:
+a) kao prihod ostvaren na temelju radnog odnosa, prosječni mjesečni iznos osobnog dohotka, naknada i drugih primanja iz radnog odnosa izračunat po svim efektivnim primanjima ostvarenim u prethodnoj godini, a za mirovine
+- mjesečni iznos mirovine ostvaren u mjesecu prosincu prethodne godine odnosno u odgovarajućem mjesecu tekuće godine u kojem je član domaćinstva ostvario pravo na mirovinu,
+b) kao katastarski prihod - osnovica iz osobnog dohotka od poljoprivredne djelatnosti iz prethodne godine,
+c) kao ostali dopunski prihod - osnovica za plaćanje doprinosa iz osobnog dohotka i poreza iz prethodne godine.
+5. U cenzus prihoda domaćinstva korisnika mirovine uzima se i dio katastarskog prihoda od suvlasničkog dijela poljoprivrednog imanja odnosno sunasljedničkog dijela neraspravljene ostavine, koji po nasljednom pravu pripada članu domaćinstva bez obzira na to da li se koristi suvlasničkim odnosno sunasljedničkim dijelom, kao i dio prihoda od suvlasničkog odnosa sunasljedničkog dijela druge imovine.
+6. Pri utvrđivanju cenzusa prihoda ne uzimaju se u obzir privremena ili stalna oslobađanja i olakšice u plaćanju doprinosa od osobnog dohotka i poreza građana, osim za zgrade koje korisnicima služe za stanovanje.
+Prihod koji je oslobođen doprinosa ili poreza uzima se u obzir na temelju idealno utvrđene poreske osnovice.
+7. Kada neki od korisnika obiteljske mirovine ispunjavaju, a drugi ne ispunjavaju uvjete za priznanje prava na zaštitni dodatak u smislu odredaba ove Odluke, zaštitni dodatak će se prethodno podijeliti prema čl. 77. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske kao da svi korisnici ispunjavaju uvjete pa se tako odredeni dijelovi isplaćaju onim članovima porodice koji ispunjavaju uvjete
+Jednako će se postupiti u slučaju kada korisnici obiteljske mirovine kojima pripada pravo na zaštitni dodatak žive odvojeno.
+8. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1 siječnja 1992. godine.
