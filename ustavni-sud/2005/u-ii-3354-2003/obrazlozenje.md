@@ -1,0 +1,14 @@
+O b r a z l o ž e n j e
+1. Tomislav Portada iz Zagreba podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Popisa opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga ("Narodne novine", broj 27/02, 113/02 i 148/03, u daljnjem tekstu: Popisa).
+Popis je donio ministar zdravstva na temelju članka 2. stavka 2. Zakona o suzbijanju zlouporabe opojnih droga ("Narodne novine", broj 107/01).
+2. Prema navodima prijedloga, Popis je u nesuglasnosti s člankom 65. stavkom 5. Zakona o suzbijanju zlouporabe opojnih droga i s člankom 12. stavkom 1. Ustava.
+Naime, u opširnom prijedlogu predlagatelj posebno ističe da u osporavanom "Popisu imena (nazivi) više od stotinu tvari nisu napisana hrvatskim jezikom. Dio od tih stotinjak imena tvari napisan je engleskim jezikom, dok su preostala sporna imena napisana pogrešno pa stoga niti ona ne pripadaju hrvatskom jeziku".
+Pretpostavke za vođenje ustavnosudskog postupka prestale su postojati.
+3. Na temelju odredbe članka 2. stavka 2. Zakona o suzbijanju zlouporabe opojnih droga ("Narodne novine", broj 107/01, 87/02, 163/02 i 141/04) ministar zdravstva i socijalne skrbi donio je novi Popis opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga ("Narodne novine", broj 163/04).
+Prema odredbi točke II. stupanjem na snagu novog Popisa opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga (stupio na snagu osmog dana od 22. listopada 2004. godine, dana objave u "Narodnim novinama"), stavljen je izvan snage Popis opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga koji osporava podnositelj.
+4. Budući da je osporeni Popis prestao važiti podnositelj je pozvan očitovati se ostaje li kod podnesenog prijedloga. U dostavljenom očitovanju podnositelj se izjasnio da ostaje kod podnesenog prijedloga te najavio da će podnijeti prijedlog za ocjenu ustavnosti i zakonitosti i novog Popisa.
+5. Polazeći od naprijed navedene činjenice, te stava izraženog u Rješenju Ustavnog suda Republike Hrvatske, broj: U-I-2694/2003 od 28. siječnja 2004. godine (objavljenog u "Narodnim novinama", broj 20/04 od 16. veljače 2004.) da "usaglašavanje pravnog nazivlja, međutim, nije u nadležnosti Ustavnog suda", Ustavni sud je utvrdio da ne postoje razlozi za postupanje temeljem članka 128. stavka 1. alineje 3. Ustava i članka 56. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 99/99, 29/02 i 49/02 - pročiščeni tekst).
+Slijedom svega iznijetog, a na temelju odredbe članka 56. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-3354/2003
+Zagreb, 9. veljače 2005.
