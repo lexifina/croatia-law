@@ -1,0 +1,1 @@
+Na temelju Amandmana XVII točke 1. alineje 1. na Ustav Socijalističke Republike Hrvatske i člana 10. stava 2. Zakona o prostornom planiranju i uređivanju prostora, a u vezi s članom 34. stavom 2. Zakona o zaštiti prirode, Sabor Socijalističke Republike Hrvatske na sjednici Viječa udruženog rada 28. prosinca 1989. i na sjednici Viječa opčina 28. prosinca 1989, donio je
