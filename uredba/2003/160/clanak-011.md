@@ -1,0 +1,23 @@
+## 9. ZAVOD ZA PROSTORNO UREĐENJE
+# Članak 11.
+Zavod za prostorno uređenje obavlja stručne i upravne poslove provedbe politike prostornog uređenja Vlade Republike Hrvatske.
+U okviru svoga djelokruga Zavod za prostorno uređenje: oblikuje elemente opće politike prostornog uređenja i koordinira interese sektora u prostoru, uspostavlja i vodi informacijski sustav prostornog uređenja na razini Republike Hrvatske, prati stanje i procese u prostoru, te izrađuje izvješće o stanju u prostoru i program mjera za unaprjeđenje stanja u prostoru Republike Hrvatske; priprema izradu, izrađuje ili koordinira izradu i prati provedbu Strategije i Programa prostornog uređenja Republike Hrvatske i drugih dokumenata prostornog uređenja koje donosi Hrvatski sabor; sudjeluje u pripremi i izradi stručnih podloga za izradu nacrta prijedloga zakona i drugih propisa, sudjeluje u upravnom nadzoru, daje mišljenja, objašnjenja i upute u vezi s provedbom dokumenta prostornog uređenja, izdaje suglasnosti na lokacijske dozvole, prostorne planove, potvrđuje parcelacijske elaborate, koordinira poslove na izdavanju i izdaje lokacijske dozvole za građevine od važnosti za Republiku Hrvatsku; koordinira rad i surađuje sa županijskim zavodima za prostorno uređenje, Zavodom za prostorno uređenje Grada Zagreba, u poslovima koje tim zavodima povjeri Ministarstvo te obavlja poslove međunarodne suradnje.
+Zavod obavlja i druge stručne poslove koje mu povjeri ministar zaštite okoliša i prostornog uređenja.
+U Zavodu za prostorno uređenje ustrojavaju se:
+9.1. Odjel za istraživanje i informacijski sustav
+9.2. Odjel za opću politiku prostornog uređenja
+9.3. Odjel za sustav prostornog planiranja.
+9.1. Odjel za istraživanje i informacijski sustav
+Odjel za istraživanje i informacijski sustav uspostavlja i vodi informacijski sustav i dokumentaciju o prostoru i prostornom planiranju Republike Hrvatske. Istražuje, priprema i koordinira izradu studija od važnosti za prostorno uređenje Republike Hrvatske i afirmaciju njenog prostora u Europi i svijetu, te priprema izdavačku djelatnost.
+9.2. Odjel za opću politiku prostornog uređenja
+Odjel za opću politiku prostornog uređenja izrađuje i koordinira izradu dvogodišnjih izvješća o stanju u prostoru Republike Hrvatske i predlaže program mjera za unaprjeđenje stanja. Vrši regionalnu koordinaciju prostornog uređenja, koordinaciju urbanističke politike gradova i sektorskih politika, te oblikuje elemente politike za ruralno područje, krajobraz i za obalno područje. Uspostavlja i vodi međunarodnu stručnu suradnju i priprema međunarodne projekte.
+9.3. Odjel za sustav prostornog planiranja
+Odjel za sustav prostornog planiranja vodi postupke prostornog uređenja za zahvate u prostoru koji su od važnosti za Republiku Hrvatsku, uspostavlja i koordinira sustav prostornog planiranja i drugih instrumenata prostornog uređenja.
+U Odjelu za sustav prostornog planiranja ustrojavaju se:
+9.3.1. Odsjek za građevine od važnosti za Republiku Hrvatsku
+9.3.2. Odsjek za koordinaciju nacionalnog, regionalnog i lokalnog planiranja.
+9.3.1. Odsjek za građevine od važnosti za Republiku Hrvatsku
+Odsjek za građevine od važnosti za Republiku Hrvatsku obavlja stručne i upravne poslove na pripremi namjeravanih zahvata u prostoru; sudjeluje u izradi dokumenata praćenja stanja u prostoru i dokumenata prostornog uređenja koje donosi Hrvatski sabor; sudjeluje u pripremi stručnih podloga za izradu nacrta prijedloga zakona i drugih propisa iz područja prostornog uređenja; izdaje mišljenja, objašnjenja i upute; sudjeluje u upravnom nadzoru; obavlja poslove međunarodne suradnje.
+Za građevine od važnosti za Republiku Hrvatsku usklađuje stručne podloge za lokacijske dozvole, izdaje lokacijske dozvole, izvode iz detaljnih planova uređenja i suglasnosti na lokacijske dozvole, potvrđuje parcelacijske elaborate; sudjeluje u radu komisija za procjenu utjecaja na okoliš i povjerenstava za tehnički pregled.
+9.3.2. Odsjek za koordinaciju nacionalnog, regionalnog i lokalnog planiranja
+Odsjek za koordinaciju nacionalnog, regionalnog i lokalnog planiranja prati, usklađuje i koordinira izradu dokumenata prostornog uređenja na nacionalnoj, regionalnoj i lokalnoj razini; izdaje suglasnosti na prostorne planove; sudjeluje u izradi dokumenata praćenja stanja u prostoru i dokumenata prostornog uređenja koje donosi Hrvatski sabor; sudjeluje u postupku usklađivanja stručnih podloga za lokacijske dozvole za građevine od važnosti za Republiku Hrvatsku; sudjeluje u radu komisija za procjenu utjecaja na okoliš; priprema stručne podloge za izradu nacrta prijedloga zakona i drugih propisa iz područja prostornog uređenja; izdaje mišljenja, objašnjenja i upute; sudjeluje u upravnom nadzoru; obavlja poslove međunarodne suradnje.
