@@ -1,0 +1,2 @@
+# Članak 6.
+Obveznici poreza koji se prema Zakonu o neposrednim porezima oporezuju u godišnjem paušalnom iznosu kao i obveznici iz članka 4. ove odluke za koje se utvrdi da su ostvarili dobit koja premašuje dvostruki godišnji iznos prosječnog čistog osobnog dohotka u privredi Republike u godini koja prethodi razrezu poreza plaćaju porez prema ostvarenoj dobiti. U slučaju iz stavka 1. ovog članka Služba društvenih prihoda će porez na dobit u paušalnom godišnjem iznosu otpisivati i utvrditi rješenjem obaveze da se za tu godinu plaća porez na dobit prema ostvarenoj dobiti.

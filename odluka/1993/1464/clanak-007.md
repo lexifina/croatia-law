@@ -1,0 +1,2 @@
+# Članak 7.
+Ako je porez u paušalnom iznosu propisan u rasponu ili je utvrđena gornja granica paušalnog iznosa poreza, Služba društvenih prihoda utvrdit će za svakog pojedinog poreznog ili grupu poreznih obveznika paušalni iznos poreza na dobit ovisno o obimu poslovanja, mjestu gdje se radnja nalazi, opremljenosti radnje, mogućnosti privređivanja, broju zaposlenih radnika (do 5 radnika) kao i ostalim okolnostima koje utječu na ostvarivanje dobiti.
