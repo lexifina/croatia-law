@@ -1,0 +1,2 @@
+# Članak 4.
+Doprinos za zdravstveno osiguranje osiguranika umirovljenika, koji su pravo na mirovinu, te pravo na profesionalnu rehabilitaciju i zapošljavanje, te novčanu nak-nakdu za tjelesno oštećenje,ostvarili prema propisima o mirovinskom i invalidskom osiguranju drugih republika, odnosno autonomnih pokrajina, (članak 118. stavak 2. Zakona) obračunava se po stopi od 20% na iznos priznatog prava.

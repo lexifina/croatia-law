@@ -1,0 +1,12 @@
+# Članak 15.
+Doprinos za zdravstvenu zaštitu utvrđuje se 1. za osobe iz članka 73. Zakona:
+a) za učenike srednjih škola i redovne studente, kojima se zdravstvena zaštita ne osigurava kao članovima porodice ili im se osigursva u opsegu manjem od opsega te zaštite, utvrđenog za članove porodice osiguranika - radnika, te za članove njihove uže porodice, u visini 1,5% od zajamčenog osobnog dohotka važećeg za odnosni mjesec, mjesečno po osobi;
+2. Za osobe iz članka 74. Zakona
+a) za osobe na omladinskim radnim akcijama, na kojima su po propisima o mirovinskom i invalidskom osiguranju osigurane za slučaj invalidnosti i tjelesnog oštećenja, u visini 0.5% od zajamčenog osobnog dohotka važećeg za odnosni mjesec, mjesečno po osobi;
+b) za osobe koje sudjeluju u organiziranim javnim radovima. ako na tim radovima rade najmanje 6 sati dnevno, u visini 0,5% od zajamčenog osobnog dohotka važećeg za odnosni mjesec. mjesečno po osobi;
+c) za osobe na službi u teritorijalnoj obrani, civilnoj zaštiti, na obuci za obranu i zaštitu, na izvršavanju drugiti zakonom utvrđenih obveza u svezi s narodnom obranom, te pripadnici dobrovoljnih omladinskih jedinica narodne obrane, ako nemaju pravo na zdravstvenu zaštitu po drugoj osnovi, u visini 0,7% od zajamčenog osobnog dohotka važećeg za odnosni mjesec, mjesečno po osobi.
+d) osobe koje se pri obavljanju dužnosti po propisima o zaštiti od požara, kao članovi vatrogasnih društava, za vrijeme stručnog osposobljavanja ili prilikom sudjelovanja u gašenju požara povrijede ili obole u svezi s obavljanjem navedenih dužnosti, u visini O,l% od zajamčenog osobnog dohotka, važećeg za odnosni mjesec, dnevno po osobi;
+3. Za osobe iz članka 75. Zakona:
+a) za osobe koje su pretrpjele povredu kao sudionici u određenim javnim akcijama u spašavanju i obrani od elementarnih nepogoda i nesreća, ili u obavljanju određenih javnih funkcija i dužnosti. ako su po propisima o mirovinskom i invalidskom osiguranju za vrijeme takve aktivnosti osigurane za slučaj invalidnosti prouzročene nesrećom na poslu, u visini O,1% od zajamčenog osobnog dohotka, važećeg za odnosni mjesec. dnevno po osobi;
+b) za osobe koje po osnovi ugovora o radu obavljaju privremene ili povremene poslove. u visini 7% od zajamčenog osobnog dohotka. važećeg za odnosni mjesec. mjesečno po osobi;
+c) za osobe na praktičnom radu, koje za trajanja toga rada nisu zasnovale radni odnos (volonterski rad), u visini l0% od zajamčenog osobnog dohotka, važećeg za odnosni mjesec, mjesečno po osobi.

@@ -1,0 +1,3 @@
+# Članak 12.
+Osiguranici u radnom odnosu u inozemstvu, ako za to vrijeme nisu obvezatni kod inozemnog nosioca zdravstvenog osiguranja (članak 57. stavka I. točka 7. Zakona) doprinos za zdravstveno osiguranje plaćaju po stopi 15% od osnovice, koju čini prosječni mjesečni dohodak koji je ta osoba ostvarila po završnom računu za godinu koja prethodi godini zaposlenja u inozemstvu, usklađene (valorizirane) s rastom zajamčenog osobnog dohotka, važećeg za mjesec za koji se plaća doprinos.
+Osiguranici iz stavka 1. ovoga člana, l"ji prije zaposlenja u inozemstvu nisu bili u radnom odnosu, doprinos za zdravstveno osiguranje plaćaju prema osnovicama i stopi propisanoj člankom 7. ove Odluke,

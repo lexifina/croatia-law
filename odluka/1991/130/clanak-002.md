@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici uplaćivanja sredstava za zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja. dužni su doprinos propisan Zakonom i ovom Odlukom uplatiti, suglasno odredbi članka 38. Statuta Republičkog fonda zdravstvenog osiguranja i zdravstva ("Narodne novine". broj 48/49) na prolazni račun koji se vodi kod Službe društvenog knjigovodstva općine. u korist nadležne ispostave Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske.
