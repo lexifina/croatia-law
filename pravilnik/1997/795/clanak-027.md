@@ -1,0 +1,2 @@
+# Članak 27.
+Laboratoriji koji su ovlašteni prema Pravilniku o uvjetima za ovlašćivanje ovlaštenih mjeriteljskih laboratorija za ovjeravanje i ugradnju uređaja za nadzor rada vozača i kretanja vozila u cestovnom prometu ("Narodne novine", br. 22/95) mogu obavljati ovjeravanje nadzornih uređaja do isteka roka valjanosti danog im ovlaštenja ako, najdulje do 31. prosinca 1997., usklade uvjete s propisanim u člancima 20., 21., 22. i 23. ovog pravilnika.
