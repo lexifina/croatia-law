@@ -1,0 +1,6 @@
+## Postupak usuglašavanja raspodjele infrastrukturnog kapaciteta
+# Članak 25.
+(1) Prigodom raspodjele infrastrukturnog kapaciteta, Upravitelj infrastrukture obvezan je, ako za to postoje mogućnosti, udovoljiti svim zahtjevima za infrastrukturnim kapacitetom, uključujući i željezničke pravce koji ne prolaze samo jednom mrežom.
+(2) U slučajevima preopterećenosti (zakrčenosti) infrastrukture, Upravitelj infrastrukture može u postupku raspodjele kapaciteta i usklađivanja voznog reda, na temelju analize kapaciteta odrediti prioritete, vodeći računa o značaju određene usluge.
+(3) Upravitelj infrastrukture obvezan je s prijedlogom voznog reda upoznati sve zainteresirane željezničke prijevoznike i tražiti njihovo pisano očitovanje. Rok za dostavu očitovanja na prijedlog voznog reda ne može biti dulji od mjesec dana od dana dostave. Prigodom usklađivanja prijedloga sa zahtjevima zainteresiranih željezničkih prijevoznika, Upravitelj infrastrukture ima pravo predložiti drugi infrastrukturni kapacitet različit od zatraženog.
+(4) U slučaju izvanrednih zahtjeva željezničkog prijevoznika za dodjelom kapaciteta u vrijeme trajanja voznog reda (ad hoc), Upravitelj infrastrukture može udovoljiti takvim zahtjevima, pod uvjetom da raspolaže dovoljnim kapacitetom.

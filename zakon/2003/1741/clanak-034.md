@@ -1,0 +1,6 @@
+# Članak 34.
+(1) Koncesija za izgradnju nove željezničke infrastrukture daje se na rok do 50 godina, a za upravljanje na dijelu postojeće željezničke infrastrukture na rok do 20 godina.
+(2) Kod određivanja roka na koji se daje koncesija uzima se u obzir opseg i visina ulaganja, tako da se gospodarski učinci koncesije mogu ostvariti u roku trajanja koncesije.
+(3) Odluka o koncesiji sadrži osobito: popis građevina i objekata željezničke infrastrukture za čiju se gradnju daje koncesija odnosno podaci o željezničkoj infrastrukturi koja se daje na upravljanje, naknadu koja se plaća za koncesiju, uvjete i vrijeme trajanja koncesije, te sva prava i obveze davatelja i ovlaštenika koncesije.
+(4) Na temelju odluke o davanju koncesije ministar i ovlaštenik koncesije sklapaju ugovor o koncesiji. Ugovorom o koncesiji u skladu s odlukom o koncesiji uređuje se bliža namjena za koju se daje koncesija, uvjeti koje u toku trajanja koncesije mora udovoljavati ovlaštenik koncesije, visina i način plaćanja naknade za koncesiju, jamstva ovlaštenika koncesije, druga prava i obveze davatelja i ovlaštenika koncesije. Prava i obveze iz koncesije nastaju sklapanjem ugovora o koncesiji.
+(5) Za koncesiju plaća se naknada koja se sastoji od stalnog i promjenjivog dijela. Naknada za koncesiju je prihod državnog proračuna.

@@ -1,0 +1,14 @@
+## Raspodjela infrastrukturnih kapaciteta
+# Članak 24.
+(1) Zahtjev za dodjelu infrastrukturnih kapaciteta, imaju pravo podnijeti željeznički prijevoznici i njihove međunarodne grupacije (u daljnjem tekstu: podnositelji zahtjeva).
+(2) Uvjete kojima moraju udovoljavati podnositelji zahtjeva za dodjelu infrastrukturnog kapaciteta, a koji moraju biti primjereni, jasno određeni i nediskiminirajući, određuje Upravitelj infrastrukture.
+(3) Uvjetima iz stavka 2. ovoga članka treba se osigurati da očekivani prihodi od korištenja infrastrukturnih kapaciteta budu ostvareni.
+(4) Uvjeti iz stavka 2. ovoga članka, utvrđuju se u Izvješću o mreži kojeg donosi Upravitelj infrastrukture, kao dio principa za raspodjelu infrastrukturnih kapaciteta.
+(5) Raspodjelu infrastrukturnog kapaciteta, obavlja Upravitelj infrastrukture, vodeći računa o vrsti i opsegu prijevoza, iskorištenosti željezničke infrastrukture, financijskoj i poslovnoj sposobnosti prijevoznika, dodatnim uslugama koje Upravitelj pruža u vezi s obavljanjem prijevoza na infrastrukturnom kapacitetu, te djelatnosti od posebnog državnog interesa u javnom prijevozu.
+(6) Dodijeljeni infrastrukturni kapacitet, podnositelj zahtjeva ne smije prenijeti drugom prijevozniku. Svaka trgovina infrastrukturnim kapacitetom nedopuštena je i ima za posljedicu isključenje prijevoznika iz daljnje raspodjele kapaciteta.
+(7) Pravo na korištenje infrastrukturnog kapaciteta u obliku trase vlaka, odobrava se podnositeljima zahtjeva, u pravilu jednom godišnje i to za razdoblje trajanja jednog voznog reda.
+(8) Upravitelj infrastrukture i podnositelj zahtjeva mogu sklopiti okvirni ugovor za korištenje kapaciteta na odgovarajućoj željezničkoj infrastrukturi i na rok dulji od razdoblja jednog voznog reda, pod uvjetom da takav ugovor ne isključuje unaprijed korištenje predmetne infrastrukture od strane ostalih podnositelja zahtjeva i za druge usluge.
+(9) Upravitelj infrastrukture može s drugim upraviteljima infrastrukture međusobno dogovoriti i odrediti okvir i postupak za raspodjelu infrastrukturnog kapaciteta uz istodobno poštivanje neovisnosti upravljanja infrastrukturom od strane Upravitelja infrastrukture.
+(10) Ako se radi o raspodjeli infrastrukturnog kapaciteta na više od jedne mreže, Upravitelj infrastrukture je obvezan surađivati s upraviteljima infrastrukture drugih država kako bi se omogućila učinkovita uspostava i raspodjela infrastrukturnih kapaciteta, te organizirale međunarodne željezničke trase vlakova.
+(11) Podnositelji zahtjeva mogu podnijeti zahtjev za dodjelu infrastrukturnog kapaciteta koji ne prolazi samo jednom željezničkom mrežom.
+(12) Zahtjev iz stavka 11. ovoga članka, podnosi se jednom od upravitelja infrastrukture, a koji je u ime podnositelja zahtjeva, ovlašten zatražiti kapacitete od ostalih upravitelja infrastrukture na koje se zahtjev odnosi.
