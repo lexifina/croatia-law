@@ -1,0 +1,9 @@
+# Članak 5.
+Pod administrativnim prostorima u smislu ovog pravilnika podrazumijevaju se: prostor za nadzornike i referente za poslove registracije vozila, prostor za voditelja stanice, prostor za stranke, sanitarni prostor za djelatnike stanice, sanitarni prostor za stranke, prostor za odmor i garderobu djelatnika, te prostor za trajnu arhivu.
+Administrativni prostori moraju ispunjavati sljedeće uvjete:
+a) prostor za nadzornike i referente za poslove registracije vozila mora biti funkcionalno i prikladno izgrađen, opremljen odgovarajućom informatičkom i uredskom opremom. Minimalna površina ovog prostora mora biti 6 m2 po jednom radnom mjestu,
+b) prostor za voditelja stanice mora biti funkcionalno i prikladno izgrađen, opremljen odgovarajućom informatičkom i uredskom opremom. Minimalna površina ovog prostora je 12 m2.
+c) prostor za stranke mora biti funkcionalno i prikladno izgrađen, opremljen potrebnim namještajem i opremom. Minimalna površina ovog prostora mora biti 4 m2 po jednom radnom mjestu.
+d) sanitarni čvorovi za djelatnike i stranke moraju biti izgrađeni kao dvije neovisne funkcionalne cjeline, uređeni i opremljeni opremom prikladnom za ove prostore,
+e) prostor za odmor i garderobu djelatnika mora biti izveden kao odvojeni prostor koji služi isključivo za odmor (pauza za objed) i garderobu djelatnika. Treba biti izgrađen i opremljen prikladnom opremom (ormari, vješalice, stol, stolice, čajna kuhinja i sl.).
+f) prostor za trajnu arhivu mora biti izveden kao zasebna prostorija, veličine dovoljne za pohranu očekivanog broja predmeta, opremljena prikladnom opremom (police, ormari), te obvezno metalnom kasom za čuvanje obrazaca prometnih dozvola, knjižica vozila i registracijskih pločica, važnijih dokumenata i sl.. Ova prostorija treba biti fizički zaštićena od provale (pojačana vrata, prozori sa zaštitnom rešetkom).
