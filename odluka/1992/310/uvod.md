@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/91), a povodom prijedloga Andre Kolarića iz Splita, M. Kovačevića 35/III. Vlada Republike Hrvatske je na sjednici održanoj 11. ožujka.1992. godine, donijela je
