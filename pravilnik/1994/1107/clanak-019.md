@@ -1,0 +1,2 @@
+# Članak 19.
+Nalog za isplatu novčanog poticaja iz članka 17. stavka 1. ovoga pravilnika izdaje ministar poljoprivrede I šumarstva temeljem podnesenih kvartalnih izvješća o proizvodnji I plasmanu I ostvarenim rezultatima u prethodnom kvartalu, a za zadnji kvartal po podnesenom godišnjem izvješću s aktivnostima odnosno ostvarenim rezultatima. Nalog iz stavka 1. ovoga članka podnosi se na naplatu Zavodu. Podružnici Zagreb, Poslovnici 2, Smičiklasova 17.

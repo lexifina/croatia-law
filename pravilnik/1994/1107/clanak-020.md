@@ -1,0 +1,3 @@
+## IX. ZAJEDNIČKE ODREDBE
+# Članak 20.
+Jedinica Zavoda kod koje korisnik ima otvoren žiro-račun provjerava da li je zahtjev za isplatu novčanog poticaja podnijet u skladu s odredbama Zakona I ovoga pravilnika te nakon toga jedan ovjereni primjerak obračuna novčanog poticaja vraća korisniku, drugi s ostalom dokumentacijom zadržava, a treći zajedno s nalogom za isplatu dostavlja u roku tri dana Zavodu, Poslovnica 2, Zagreb, Smičiklasoca 17, koja kopiju naloga za isplatu nakon svake izvršene isplate odmah dostavlja Ministarstvu. Četvrti primjerak obračuna jedinica Zavoda obvezna je u roku tri dana od dana podnesenog zahtjeva dostaviti Ministarstvu, Zagreb, Avenija Vukovar 78.
