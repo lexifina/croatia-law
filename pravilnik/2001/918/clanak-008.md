@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 55. stavci 4. i 5. mijenjaju se i glase:
+»(4) Ispitivanje nepropusnosti obavlja se pjenušavim sredstvom ili detektorom prisutnosti plina kojim se može očitati prisutnost plina u koncentraciji od 10% donje granice eksplozivnosti uz davanje svjetlosnih i/ili zvučnih signala. Ispitivanje nepropusnosti plinskih uređaja i opreme vozila, stanice za tehnički pregled vozila moraju obavljati isključivo detektorom prisutnosti plina iz ovog stavka najkasnije od 1. siječnja 2002. godine.
+(5) Plinski uređaji i oprema smatraju se nepropusnim ako premazivanjem pjenušavim sredstvom nije utvrđeno stvaranje mjehurića, odnosno ako propisanim uzimanjem uzoraka atmosfere u neposrednoj blizini plinskog uređaja u vozilu, od spremnika plina do motora, očitana koncentracija plina na detektoru prisutnosti plina ne prelazi opasnu koncentraciju.«
