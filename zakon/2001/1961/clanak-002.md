@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 45. stavku 1. riječi: »županijski ured, odnosno ured Grada Zagreba« zamjenjuju se riječima: »ured državne uprave u jedinici područne (regionalne) samouprave, odnosno upravni odjel Grada Zagreba«.
+U stavku 2. na dva mjesta riječi: »županijski ured ili ured Grada Zagreba« zamjenjuju se riječima: »ured državne uprave u jedinici područne (regionalne) samouprave, odnosno upravni odjel Grada Zagreba«, a riječi: »županijskim uredima ostalih županija ili uredom Grada Zagreba« zamjenjuju se riječima: »ostalim uredima državne uprave u županijama, odnosno upravnim odjelom Grada Zagreba«.
