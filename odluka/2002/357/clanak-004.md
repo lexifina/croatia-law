@@ -1,0 +1,3 @@
+# Članak 4.
+Osnovu za plaćanje izvršava banka koja vodi glavni račun platitelja, na teret toga računa.
+Ukoliko na glavnom računu platitelja nema dovoljno sredstava, banka iz stavka 1. ovoga članka izvršava osnovu za plaćanje iz sredstava na svim kunskim i deviznim računima platitelja koji su otvoreni u toj banci u skladu sa Zakonom o platnom prometu u zemlji, ako propisima nisu izuzeta od izvršenja, na takav način da sredstva s drugih računa platitelja prenosi na glavni račun. Prijenos sredstava s pojedinih računa obavlja se redoslijedom koji je odredio platitelj, a ako platitelj nije odredio redoslijed, određuje ga banka.
