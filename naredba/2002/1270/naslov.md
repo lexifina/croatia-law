@@ -1,0 +1,1 @@
+Naredba o graničnim prijelazima i mjestima u kojima se obavlja obvezni zdravstveni nadzor u međunarodnom prometu nad osobama i njihovim stvarima, robama i prijevoznim sredstvima koje podliježu nadzoru
