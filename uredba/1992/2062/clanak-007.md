@@ -1,0 +1,2 @@
+# Članak 7.
+Cijena usluge uvoznog ili izvoznog carinjenja robe za pravne osobe ne može iznositi više od 1% vrijednosti robe koja se uvozi ili izvozi. Za prijave za uvoz i provoz robe ispostavljene na graničnom prijelazu, cijena usluge može iznositi do 15 DEM u protuvrijednosti hrvatskih dinara, a za vrijeme nočnog rada može se uvećati za 30%. Cijene usluge uvoznog ili izvoznog carinjenja robe za fizičke osobe ne može iznositi više od 30 DEM u protuvrijednosti hrvatskih dinara, po deklaraciji.
