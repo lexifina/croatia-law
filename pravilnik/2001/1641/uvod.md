@@ -1,0 +1,1 @@
+Na temelju članka 24t. Zakona o unutarnjim poslovima (»Narodne novine«, br. 55/89., 18/90., 29/91. - pročišćeni tekst, 73/91., 19/92., 33/92., 76/94., 161/98., 29/00. i 53/00.), ministar unutarnjih poslova donosi
