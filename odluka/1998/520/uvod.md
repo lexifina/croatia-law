@@ -1,0 +1,1 @@
+Na temelju članka 4. Pravilnika o načinu utvrđivanja visine kredita za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestalog hrvatskog branitelja ("Narodne novine" broj 51/97), ministar razvitka i obnove Republike Hrvatske donosi
