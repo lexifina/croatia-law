@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78. 50/78, 29/85, 41/90, 47/90 i 53A/91) i članka 2. Uredbe Vlade Republike Hrvatske o provođenju Rezolucije br. 757 (1992) Vijeća sigurnosti Ujedinjenih naroda ("Narodne novine". br. 32/92), donosim
