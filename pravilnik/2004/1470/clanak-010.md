@@ -1,0 +1,5 @@
+## Naknadni podnesci
+# Članak 10.
+1) Odredbe članaka 4., 5., 6., 7., 8. i 9. ovoga Pravilnika primjenjuju se i na naknadne podneske kojima se zamjenjuju bitni sastojci prijave patenta. Ti se podnesci dostavljaju Zavodu na jednak način kao i prijava patenta.
+2) Svi bitni sastojci prijave patenta i podnesci koji se naknadno dostavljaju, moraju biti potpisani. Ako podnesak nije potpisan, Zavod će pozvati zainteresiranu stranku da ga potpiše u primjerenom roku, računajući od dana primitka poziva. Ako je u tom roku potpisan, podnesak zadržava datum kad je primljen. U suprotnom, smatra se da nije podnesen.
+3) Naknadno podneseni dokumenti koji se priopćuju trećim osobama ili koji su u vezi s dvije ili više prijava patenata moraju se podnijeti u broju koji odgovara broju osoba kojima se priopćuju odnosno broju prijava na koje se odnose. Ako zainteresirana stranka, unatoč zahtjevu Zavoda, ne dostavi potreban broj primjeraka dokumenata, primjerci koji nedostaju osigurat će se na teret troškova zainteresirane stranke.
