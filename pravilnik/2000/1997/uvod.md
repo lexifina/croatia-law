@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (»Narodne novine«, br. 15/00 i 20/00), a u svezi s odredbama članka 24. stavka 1. Zakona o proračunu (»Narodne novine«, br. 92/94), ministar vanjskih poslova donosi
