@@ -1,13 +1,6 @@
 ## II. PREDMET OPOREZIVANJA
 # Članak 3.
-(1) Predmet oporezivanja jest promet bezalkoholnih pića koja se proizvode
-na teritoriju Republike Hrvatske ili uvoze u carinsko područje Republike
-Hrvatske bez obzira na vrstu, sastojke i druga obilježja.
-(2) Bezalkoholnim pićima smatraju se mineralne i gazirane vode, aromatizirani
-sirupi te proizvodi dobiveni odgovarajućim tehnološkim postupkom od vode
-ili mineralne vode, šećera, soka od voća i povrća, baze, biljnih ekstrakata,
-žitarica, proizvoda od žitarica i aroma, odnosno sirupa za bezalkoholna
-pića s dodatkom ili bez dodatka CO2 (ugljičnog dioksida) i aditiva.
-(3) Iznimno od odredaba ovoga članka, domaće mineralne vode i domaći
-100 % prirodni sokovi od voća i povrća, bez dodatka šećera i konzervansa,
-ne podliježu oporezivanju prema ovom Zakonu.
+(1) Predmet oporezivanja su bezalkoholna pića koja se proizvode na teritoriju Republike Hrvatske ili se uvoze u carinsko područje Republike Hrvatske.
+(2) Predmet oporezivanja su i praškovi i pastile (dehidrirani praškasti proizvodi) namijenjeni za pripremu osvježavajućih bezalkoholnih pića čijim se otapanjem u vodi prema uputi na deklaraciji dobivaju osvježavajuća bezalkoholna pića.
+(3) Bezalkoholnim pićima smatraju se osvježavajuća bezalkoholna pića od voćnog soka, voćne baze, biljnih ekstrakata, žitarica ili sirutke, umjetna osvježavajuća bezalkoholna pića i niskoenergetska osvježavajuća bezalkoholna pića, te sirupi namijenjeni za proizvodnju ili pripremu osvježavajućih pića, prema Pravilniku o temeljnim zahtjevima za osvježavajuća bezalkoholna pića i soda-vodu.
+(4) Domaće i uvozne: prirodne mineralne gazirane i negazirane vode, stolne vode i 100% prirodni sokovi, voda za piće te domaće i uvozne izvorske vode koje se isporučuju u pakovinama, ne smatraju se bezalkoholnim pićima u smislu ovoga Zakona.

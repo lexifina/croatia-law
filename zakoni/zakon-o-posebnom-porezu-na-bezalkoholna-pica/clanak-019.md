@@ -1,9 +1,2 @@
 # Članak 19.
-(1) Porez na promet sadržan u potraživanjima na dan početka primjene
-ovoga Zakona plaća se prema odredbama Zakona o porezu na promet proizvoda
-i usluga.
-(2) Korekcije cijena u trgovini zbog primjene ovoga Zakona ne smiju
-utjecati na visinu ukalkuliranog poreza.
-(3) Uvoznici bezalkoholnih pića popisat će zalihe bezalkoholnih pića
-na dan 30. lipnja 1994. godine te na utvrđene zalihe obračunati i uplatiti
-poseban porez najkasnije do 30. srpnja 1994. godine.
+Danom stupanja na snagu Zakona o posebnom porezu na bezalkoholna pića (»Narodne novine«, br. 51/94.) prestaje važiti Uredba o posebnom porezu na bezalkoholna pića (»Narodne novine«, br. 74/94.).

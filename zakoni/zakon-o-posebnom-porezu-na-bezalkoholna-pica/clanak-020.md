@@ -1,3 +1,2 @@
 # Članak 20.
-Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o posebnom
-porezu na bezalkoholna pića ("Narodne novine". br. 74/94.).
+Iznimno mjesečno izvješće za prosinac 2001. godine i godišnje izvješće za 2001. godinu podnosi se nadležnoj ispostavi Porezne uprave.
