@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o utvrđivanju plaće i drugih primanja dužnosnika ("Narodne novine", br. 60/92., 75/92. i 58/93.), Zastupnički dom Hrvatskoga državnog sabora na sjednici 19. veljače 1999., donio je
