@@ -1,0 +1,3 @@
+# Članak 12.
+Porez na potrošnju obveznik poreza obračunava i uplaćuje u rokovima koji su propisani za obračun i uplatu PDV u korist proračuna Općine Barban.
+Porezni obveznici su dužni osigurati u svom knjigovodstvu podatke za obračun poreza na potrošnju, te su na temelju tih podataka dužni u roku iz stavka 1. ovog članka dostaviti Odjelu za proračun i financije - Odsjeku za utvrđivanje i naplatu vlastitih prihoda Istarske županije mjesečno izvješće o obračunu i uplati poreza na potrošnju koje sadrži podatke o osnovici za obračun poreza, te podatke o obračunatom i uplaćenom iznosu poreza na potrošnju po vrstama pića i ukupnom iznosu.

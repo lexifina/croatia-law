@@ -1,0 +1,3 @@
+# Članak 18.
+Porez na kuće za odmor plaća se prema Rješenju o utvrđivanju poreza kojeg donosi Upravni odjel za proračun i financije Istarske županije, Odsjek za utvrđivanje i naplatu vlastitih prihoda, u roku od 15 dana od primitka Rješenja o utvrđivanju tog poreza u korist proračuna Općine Barban.
+Obveznik poreza na kuću za odmor dužan je Odsjeku iz stavka 1. ovog članka dostaviti podatke o kući za odmor, o mjestu gdje se kuća nalazi, korisnu površinu te druge podatke, najkasnije do 31. ožujka godine za koju se utvrđuje porez na kuće za odmor, a Općina Barban provođenjem očevida utvrđuje činjenično stanje.

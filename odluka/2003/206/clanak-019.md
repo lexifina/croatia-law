@@ -1,0 +1,2 @@
+# Članak 19.
+Prilikom utvrđivanja obveznika poreza na kuće za odmor nije od utjecaja prijava prebivališta u kući za odmor bez dokaza o stalnom stanovanju (zasnovan radni odnos u mjestu stanovanja ili okolnim mjestima, polazak djece u školu, prijava u evidencijama nezaposlenih, isplata mirovine i primanje pisama na adresu objekta, prijava zdravstvenog osiguranja, kao i druge isprave kojima se dokazuje trajnost življenja i korištenja predmetne nekretnine).
