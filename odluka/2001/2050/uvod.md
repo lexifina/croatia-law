@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00 i 59/01), te članka 27. st. 1 al. 3 Statuta Općine Lumbarda (»Službeni glasnik Općine Lumbarda« br. 03/01) Općinsko vijeće Općine Lumbarda na svojoj 13. sjednici održanoj 22. prosinca 2001. godine donijelo je
