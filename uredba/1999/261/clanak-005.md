@@ -1,0 +1,4 @@
+# Članak 5.
+Danom stupanja na snagu ove Uredbe Javna ustanova "Zbirka Ante i Wiltrude Topić Mimara" - Muzej Mimara preuzima zaposlenike koji su zatečeni na poslovima u Muzejsko-galerijskom centru, u ustrojbenoj jedinici "Zbirka Ante i Wiltrude Topić Mimara" i u ustrojbenoj jedinici Restauratorski centar Mimara, a Javna ustanova Galerija "Klovićevi dvori" preuzima zaposlenike koji su zatečeni na poslovima u Muzejsko-galerijskom centru, u ustrojbenoj jedinici Galerija "Klovićevi dvori".
+Javne ustanove iz stavka 1. ovoga članka mogu sporazumno, uz suglasnost osnivača, izvršiti i drugačije preuzimanje zaposlenika iz stavka 1. ovoga članka, te ih rasporediti sukladno svojim općim aktima i njihovoj stručnoj spremi.
+U slučaju prijepora o preuzimanju i rasporedu zaposlenika prema stavku 2. ovoga članka, odluku o preuzimanju i rasporedu zaposlenika donosi ministar kulture.
