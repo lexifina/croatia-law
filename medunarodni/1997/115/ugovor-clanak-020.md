@@ -1,0 +1,13 @@
+# Članak 20.
+1. Odgovornost za gubitak ili oštećenje prtljage, ekspresnih pošiljki, robe, voznih sredstava, tovarnog pribora i paleta, kao i odgovornost za prekoračivanje dostavnih rokova uređuju međunarodni sporazumi kojih su potpisnice obje zemlje.
+2. Ako neka osoba umre ili se ozlijedi ili se neki predmet ošteti ili uništi na graničnom željezničkom kolodvoru izmjene željezničkog prometa ili na graničnoj željezničkoj pruzi, za to su odgovorni:
+a) željeznica čije je osoblje svojom krivnjom prouzročilo takvu nezgodu, izuzev ako nije drugačije određeno u slijedećim odredbama;
+b) domaća željeznica, ako su se takve nezgode dogodile zbog pogreške, nepravilnosti ili nedostataka na pruzi, na instalacijama ili na voznim sredstvima te željeznice;
+c) željeznica koja je posljednja tehnički primila vagone, ako se nezgoda dogodila zbog pogreške na njima.
+3. Ako dođe do štete krivnjom osoblja, ili pogreške na kolosijecima, skretnicama ili voznim sredstvima obiju željeznica Ugovornih stranaka, željeznice su podjednako odgovorne. Isto mjerilo diobe odgovornosti vrijedi i u slučaju kada se ne može odrediti koja je od željeznica odgovorna. Ako bi došlo do nesuglasnosti prilikom određivanja odgovornosti, svaka od Ugovornih stranaka ili željeznica Ugovornih stranaka može zatražiti odluku arbitraže u skladu s odredbama Konvencije o međunarodnom željezničkom prijevozu - COTIF.
+4. Štetu na sredstvima koja je u vlasništvu jedne od željeznica Ugovornih stranaka, a koja nastaje zbog više sile, pokriva ta željeznica.
+5. Troškove za čišćenje i popravak kolosijeka ili skretnica, koji nastaju zbog nezgode, pokriva željeznica Ugovorne stranke koja je odgovorna za štetu u skladu s gornjim odredbama. Ove se odredbe primjenjuju i za troškove istraga i postupaka koji su povezani sa štetnim događajem.
+6. Ako djelatnik, koji po ovom Sporazumu, obavlja službu na graničnom kolodvoru i kolodvoru izmjene željezničkog prometa i graničnoj pruzi, umre ili se ozlijedi tijekom obavljanja službe, ili se neki predmet koji ima kod sebe ili ga prevozi, ošteti ili uništi, štetu pokriva ona željeznica kojoj spomenuti djelatnik pripada, izuzev ako štetu dijelom ili u cijelosti pokriva željeznica Ugovorne stranke koja je dijelom ili u cijelosti odgovorna.
+7. Prilikom štete na poštanskim pošiljkama ili štete koju uzrokuje neželjezničko osoblje koje sudjeluje prilikom obavljanja željezničkog prometa preko državne granice, predstavnici oštećenih službi mogu sudjelovati prilikom istrage koju vodi željeznica.
+8. Podrobne odredbe o šteti nastaloj zbog nezgoda spomenutih u ovome članku, uređuju se sporazumom željeznica Ugovornih stranaka.
+SIGNALNOSIGURNOSNI, TELEKOMUNIKACIJSKI UREĐAJI I SREDSTVA

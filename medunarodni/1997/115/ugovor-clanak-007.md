@@ -1,0 +1,7 @@
+# Članak 7.
+1. Domaća država u okviru realnih mogućnosti daje službama susjedne države na graničnim željezničkim kolodvorima ili na kolodvorima izmjene prometa na raspolaganje uređaje, objekte, prostorije i sredstva za veze koji su potrebni za nesmetano obavljanje radova, kao i prostorije za odmor i zadržavanje službenih osoba i željezničkog osoblja.
+2. Svaka željeznica Ugovornih stranaka na svojem području na svoj trošak nadzire, održava i popravlja sve uređaje i objekte na graničnim kolodvorima i na kolodvorima za izmjenu prometa, kao i na graničnim prugama.
+3. Za uređaje, objekte i prostorije, koje se prema stavku 1. ovog članka ustupaju službama susjedne države, zaračunava se dogovorena naknada.
+4. Na graničnim željezničkim kolodvorima ili graničnim željezničkim kolodvorima za izmjenu prometa, kao i za promet između susjednih graničnih kolodvora željeznice Ugovornih stranaka moraju, svaka na svom području, dati na raspolaganje neposredna sredstva za veze. Ova sredstva za veze koriste službene osobe i željezničko osoblje susjedne željeznice, koje obavlja službu na kolodvorima susjedne države, besplatno ili pod uvjetima iz članka 5. ovog Sporazuma.
+5. O podrobnijim odredbama o korištenju prostora, uređaja i opreme, te visini naknade, troškovima rasvjete, grijanja i održavanja, dogovaraju Ugovorne stranke ili željeznice Ugovornih stranaka.
+ODRŽAVANJE SIGURNOSTI PROMETA I REDA NA GRANIČNIM ŽELJEZNIČKIM PRUGAMA
