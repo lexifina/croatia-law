@@ -1,0 +1,5 @@
+## Sredstva nalogodavca
+# Članak 33.
+(1) Društvo za poslovanje vrijednosnim papirima obvezno je novčana sredstva koja mu doznače nalogodavci u svrhu plaćanja vrijednosnog papira držati na odvojenom računu ili odvojenim računima (račun nalogodavca), koji su posebno u tu svrhu otvoreni kod ovlaštenih institucija. Sredstva s računa nalogodavca mogu se koristiti samo za plaćanja prema njihovim nalozima.
+(2) Sredstva na računima klijenata vlasništvo su nalogodavca, a nisu vlasništvo društva za poslovanje vrijednosnim papirima, ne ulaze u njegovu imovinu ni u likvidacijsku ili stečajnu masu niti se mogu uporabiti za izvršenje glede potraživanja prema društvu za poslovanje vrijednosnim papirima.
+(3) Društvo za poslovanje vrijednosnim papirima obvezno je kod središnje depozitarne agencije otvoriti posebni račun vrijednosnih papira nalogodavca na kojem drži njegove vrijednosne papire u svrhu obavljanja transakcija. Na taj se račun na odgovarajući način primjenjuju odredbe stavka l. i 2. ovoga članka.
