@@ -1,0 +1,1 @@
+Na temelju članka 5.a. stavka 5. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 44/96, 57/96, 124/97, 73/2000, 87/2000, 94/2001 i 88/2002), Vlada Republike Hrvatske je na sjednici održanoj 21. studenoga 2002. godine donijela
