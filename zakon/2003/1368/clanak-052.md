@@ -1,0 +1,2 @@
+# Članak 52.
+U cijelom tekstu Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 49/99. i 63/00.) riječ: »zaposlenik« u određenom padežu zamjenjuje se riječju: »radnik« u odgovarajućem padežu, riječi: »jedinica lokalne samouprave i jedinica lokalne uprave i samouprave« zamjenjuju se riječima: »jedinica lokalne i područne (regionalne) samouprave«, a riječi: »Hrvatski državni sabor« zamjenjuju se riječima: »Hrvatski sabor« u odgovarajućem padežu.

@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Dobrovoljno mirovinsko društvo koje je do dana stupanja na snagu ovoga Zakona otpočelo s radom uskladit će svoje poslovanje s odredbama ovoga Zakona i članovima dobrovoljnoga mirovinskog fonda ponuditi informativni prospekt prema odredbama ovoga Zakona, u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Član dobrovoljnog fonda koji ne prihvati ponuđeni prospekt može raskinuti ugovor o članstvu i sklopiti ugovor o članstvu u drugom dobrovoljnom fondu s drugim dobrovoljnim mirovinskim društvom u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(3) U slučaju iz stavka 2. ovoga članka, bivši dobrovoljni fond dužan je sredstva s osobnog računa člana fonda prenijeti u novi dobrovoljni fond, uz naknadu koja ne može biti veća od iznosa koji propisuje Agencija.
