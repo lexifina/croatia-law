@@ -1,0 +1,1 @@
+Na temelju članka 152. stavka 4. Zakona o mirovinskom osiguranju ("Narodne novine", 102/98) i članka 39. stavka 1. točke 2. Zakona o sustavu državne uprave ("Narodne novine", 75/93 i 92/96), ministar rada i socijalne skrbi, uz suglasnost ministra financija, donosi
