@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o zaštitnim pristojbama pri uvozu poljoprivrednih i prehrambenih proizvoda ("Narodne novine", br. 36/95), ministar poljoprivrede i šumarstva uz prethodno pribavljeno mišljenje ministra gospodarstva, donosi
