@@ -1,0 +1,7 @@
+# Članak 1.
+U Zakonu o vatrogastvu (»Narodne novine«, br. 106/99. i 117/01.) u članku 3. stavci 2. i 3. mijenjaju se i glase:
+»(2) Planom zaštite od požara općine, grada, županije, Grada Zagreba utvrđuju se zadaće i područje djelovanja svih javnih vatrogasnih postrojbi i dobrovoljnih vatrogasnih društava, a posebno zadaće javnih vatrogasnih postrojbi i dobrovoljnih vatrogasnih društava koji imaju definirano područje odgovornosti (u daljnjem tekstu: središnja postrojba ili društvo).
+(3) Područje djelovanja je dio teritorija lokalne samouprave na kojem djeluje jedna ili više javnih vatrogasnih postrojbi ili dobrovoljnih vatrogasnih društava, a područje odgovornosti je dio teritorija jedne odnosno teritorij jedne ili više jedinica lokalne samouprave na kojem odgovornost dolaska na mjesto intervencije u roku i na način propisan u Planu zaštite od požara imaju središnje postrojbe ili društva.«
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Jedno ili više općinskih odnosno gradskih poglavarstava te poglavarstvo Grada Zagreba radi zadovoljavanja potreba iz stavka 1. a sukladno odredbama stavka 2. i 3. ovoga članka, osniva javne vatrogasne postrojbe ili potiču osnivanje dobrovoljnih vatrogasnih društava te sukladno planu zaštite od požara određuju središnje postrojbe ili društva te na taj način osiguravaju djelotvornu vatrogasnu službu.
+(5) Na području općine, grada i Grada Zagreba mora djelovati onoliki broj javnih vatrogasnih postrojbi ili dobrovoljnih vatrogasnih društava koliko je utvrđeno njihovim planom zaštite od požara.«
