@@ -1,0 +1,4 @@
+# Članak 3.
+Članak 2. mijenja se i glasi:
+"Ured za medunacionalne odnose (u daljnjem tekstu: Ured), obavlja stručne i druge poslove u okviru djelokruga Vlade Republike Hrvatske u svezi s ostvarivanjem što skladnijih međunacionalnih odnosa u Republici Hrvatskoj.
+U skladu s utvrđenim ustavnim principom ravnopravnosti pripadnika svih naroda i manjina koje žive na području Republike Hrvatske kao i njihovih prava utvrđenih Ustavom i zakonom, a u okviru djelokruga rada Vlade Republike Hrvatske. Ured predlaže mjere za ostvarenje tih prava, prati primjenu međunarodnih konvencija koje su u svezi s međunacionalnim odnosima, zaštitom nacionalnih, vjerskih i kulturnih. prava pripadnika naroda i manjina, prikuplja podatke i informacije o ostvarivanju međunacionalnih odnoša u Republici Hrvatskoj i svijetu i predlaže primjenu određenih, u praksi provjerenih, modela ostvarivanja međunacionalnih odnosa i drugih mjera".
