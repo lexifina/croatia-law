@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o Službi društvenog knjigovodstva Hrvatske - prečišćeni tekst ("Narodne novine", broj 21/91), Vlada Republike Hrvatske na sjednici održanoj 7. kolovoza 1991. godine donijela je
