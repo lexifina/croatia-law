@@ -1,0 +1,3 @@
+# Članak 11.
+Izvješće o javnoj raspravi, osim podataka iz članka 4. ove Uredbe i o pozvanim sudionicima u javnoj raspravi, sadrži i popis sudionika koji su dali očitovanja, prijedloge i primjedbe na prijedlog prostornog plana, u roku i na način određen ovom Uredbom, koji su prihvaćeni, kao i obrazloženja o očitovanjima, prijedlozima i primjedbama koji nisu prihvaćeni ili su djelomično prihvaćeni, odnosno dani izvan određenog roka.
+Akti i obavijesti o javnoj raspravi, pozivi za javno izlaganje i zapisnici o javnim izlaganjima s dokazom sudjelovanja u javnom izlaganju pozvanih sudionika u javnoj raspravi, sastavni su dio izvješća o javnoj raspravi.
