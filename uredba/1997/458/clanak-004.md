@@ -1,0 +1,2 @@
+# Članak 4.
+Odredbe članka 3. ove Uredbe ne odnose se na novčana i druga financijska sredstva ili potraživanja koja potječu od prodaje ili isporuke nafte i naftnih derivata, zemnog plina i derivata plina, poljoprivrednih proizvoda, porijeklom iz Libije i izvezenih iz Libije nakon 1. prosinca 1993. godine, uz uvjet da se ta sredstva vode na posebnim računima kod banaka ovlaštenih za poslove s inozemstvom.
