@@ -1,0 +1,1 @@
+Na osnovi članka 103. Zakona o zdravstvenorn osiguranju ("Narodne novine", broj 75/93) i članka 14. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine", broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 3. sjednici održanoj dana 27. siječnja 1994. godine donijelo je

@@ -1,0 +1,2 @@
+# Članak 1.
+Do donošenje općeg akta Hrvatskog zavoda za zdravstveno osiguranje kojim se utvrđuju osnovice i stope doprinosa, te način obračuna i plaćanja sredstava za obvezno zdravstveno osiguranje, a koje nisu određene Zakonom o stopama doprinosa za zdravstveno osiguranje ("Narodne novine", broj 117/93), primjenjivat će se odredbe Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstvenog osiguranja ("Narodne novine", broj 51/93).
