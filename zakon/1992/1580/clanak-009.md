@@ -1,0 +1,2 @@
+# Članak 9.
+Do donošenja odluka iz članka 2. do 6. ovoga Zakona ostaje na snazi Odluka o utvrđivanju koeficijenata za obračun osobnih dohodaka funkcionara koje bira ili imenuje Sabor Republike Hrvatske, Vlada Republike Hrvatske i Ustavni sud Republike Hrvatske i utvrđivanju osobnih dohodaka članova tijela koje imenuje predsjednik Republike Hrvatske ("Narodne novine", br. 42/90., 43/90., 48/90., 14/91., 22/92. i 28/92.).

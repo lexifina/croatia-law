@@ -1,0 +1,2 @@
+# Članak 8.
+Dužnosnici koji su prema Zakonu o osobnim dohocima i drugim primanjima funkcionara koje bira ili imenuje Sabor Socijelističke Republike Hrvatske, Predsjedništvo Socijalističke Republike Hrvatske, Ustavni sud Hrvatske i Izvršno vijeće Sabora ("Narodne novine", br. 19/90.), ostvarili plaću prema odredbi članka 8. toga Zakona, ostvaruju plaću prema koeficijentima koji su važili u trenutku isteka mandata odnosno prestanka obavljanja dužnosti.

@@ -1,0 +1,2 @@
+# Članak 10.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o osobnim dohocima i drugim primanjima funkcionara koje bira ili imenuje Sabor Socijalističke Republike Hrvatske, Predsjedništvo Socijalističke Republike Hrvatske, Ustavni sud Hrvatske i Izvršno vijeće Sabora "Narodne novine", br.19/90.), a njegove odredbe članka 5 i 11. primjenjivat će se do donošenja odluka iz članka 2. do 6. ovoga Zakona.
