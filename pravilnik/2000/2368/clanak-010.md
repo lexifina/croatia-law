@@ -1,0 +1,137 @@
+# Članak 10.
+Standardi i normativi u zdravstvenim djelatnostima na primarnoj razini navedeni su u tablicama:
+1 - Kadrovski normativi u zdravstvenim djelatnosima na primarnoj razini i standardni broj osiguranih osoba po timu
+2 - Popis postupaka i usluga u laboratorijskoj dijagnostici u primarnoj zdravstvenoj zaštiti
+Tablica 1 - KADROVSKI NORMATIVI U ZDRAVSTVNIM DJELATNOSTIMA NA PRIMARNOJ RAZINI I
+STANDARDNI BROJ OSIGURANIH OSOBA PO TIMU
+Red. Vrsta zdravstvene djelatnosti Kadrovski normativ Stand. br.
+broj tima osiguran. osoba
+0 1 2 3
+1. Opća medicina
+1.1. Obiteljski doktor * 1 doktor medicine ili spec. opće medicine 1.700
+1 med. sestra SSS
+1.2. Zdravstvena njega u kući bolesnika 1 med. sestra općeg smjera SSS 5.500
+2. Patronažna zdravstvena skrb **** 1 med. sestra VŠS 5.100
+3. Zdravstvena zaštita 1 spec. pedijatar 1.000
+predškolske djece** 1 med. sestra SSS
+4. Zdravstvena zaštita žena 1 spec. ginekolog 6.000
+1 med. sestra SSS
+5. Poliv. stom. zdrav. zaštita *** 1 doktor stomatolog
+1 med. sestra SSS 2.500
+6. Higijensko-epidemiološka zaštita **** 1 spec. epidemiologije ili higijene 50.000
+ili ekologije
+1 zdrav. ili sanitarni tehničar VŠS
+1 zdrav. ili sanitarni tehničar SSS
+7. Preventivno-odgojne mjere zdravstvene 1 spec. školske medicine 5.000
+zaštite u srednjim i osnovnim školama 1 med. sestra VŠS
+8. Laboratorijska dijagnostika***** 1 dipl. ing. med. biokemije ili spec. medicinske
+biokemije
+1 zdrav. teh. ili laborant VŠS 40.800
+6 zdrav. teh. ili laborant SSS
+9. Ljekarna 1 mr. farmacije 5.000
+0,5 farm. tehničara
+* iznimno ugovara djecu predškolske dobi od 0 do 7 godina ako prema mjestu stanovanja nemaju mogućnost izbora doktora specijalista pedijatra
+** ugovara djecu predškolske dobi od 0 do 7 godina, a iznimno može ugovoriti i djecu školske dobi do završenog osnovnog školovanja u godini ugovaranja (maks. 1200) i to kada specijalist pedijatar nije u mogućnosti popuniti tim do standardom propisanog broja djecom predškolske dobi ili kada na nekom području nema dostatan broj drugih doktora za koje bi se djeca školske dobi opredijelila.
+*** obuhvaća provođenje stomatološke zdravstvene zaštite uključujući stomatološko-protetske postupke i stomatološka pomagala. Polivalentni stomatološki tim obvezan je iskazati najmanje 20% bodova za izrađena stomatološko-protetska pomagala mjesečno, što znači da se od ukupnog mjesečnog broja bodova za tim sa standardnim brojem osiguranih osoba, a koji iznosi 2592 boda, najmanje 518 bodova mora odnositi na stomatološko-protetske postupke, a 518 bodova mora se odnositi na obvezne preventivne postupke. Navedeno izvršenje se iskazuje razmjerno ugovorenom broju osiguranih osoba.
+**** osnova ugovaranja je broj stanovnika na području mjerodavnog doma zdravlja, odnosno mjerodavnog zavoda za javno zdravstvo županije odnosno Grada Zagreba, a prema usklađenim podacima Državnog zavoda za statistiku i Hrvatskog zavoda za javno zdravstvo.
+***** ako je ugovoren samo jedan laboratorij na području mjerodavnog doma zdravlja osnova ugovaranja je broj osiguranih osoba na području tog doma zdravlja, a ako su ugovorena dva i više laboratorija na području mjerodavnog doma zdravlja, osnova ugovaranja je broj osiguranih osoba koje prema mjestu stanovanja gravitiraju pojedinom laboratoriju, a razmjerno kadrovskom normativu pojedinog laboratorija.
+10. Hitna medicinska pomoć ( HMP)
+Na području doma zdravlja, koji zbrinjava do 35.000 stanovnika, HMP se ustrojava dežurstvom ili pripravnošću izabranih doktora primarne zdravstvene zaštite.
+U dežurstvu i pripravnosti sudjeluju svi ugovorni doktori opće (obiteljske) medicine na određenom području, kao i ugovorni doktori stomatologije u regionalnim centrima, prema ustrojstvu i rasporedu koji određuje ravnatelj mjerodavnog doma zdravlja.
+Na području doma zdravlja, koji zbrinjava od 35.000 i više stanovnika, HMP se ustrojava kao posebna služba, a zaposlenici rade u redovnom radu (HMP doma zdravlja, odnosno ustanove hitne medicinske pomoći).
+Standardni tim u pripravnosti:
+1 - doktor medicine
+1 - vozač (1 sanitetsko vozilo)
+Standardni tim u dežurstvu:
+1 - doktor medicine
+1 - med. sestra ili tehničar
+1 - vozač (1 sanitetsko vozilo)
+Standardni tim hitne medicinske pomoći (HMP):
+1 - doktor medicine
+1 - med. sestra ili tehničar
+1 - vozač (1 sanitetsko vozilo)
+Standardni tim sanitetskog prijevoza (SP):
+2 - vozača (2 sanitetska vozila)
+1 - med. sestra ili tehničar
+Standardni tim prijavno-dojavne jedinice (PDJ):
+1 - med. sestra ili tehničar
+U regional. centrima s više od 250.000 stanovnika služba PDJ popunjava se s 5 dr. medicine
+Red. broj Broj stanovnika Način ustroja Broj timova
+10.1. do 15.000 dežurstvo ili pripravnost 1
+SP 2
+10.2. od 15.000 do 25.000 dežurstvo 1
+pripravnost 1
+(ili 2 pripravnosti)
+SP 2
+10.3. od 25.000 do 35.000 dežurstvo 1
+pripravnost (ili 2 dežurstva) 2
+SP 3
+10.4. od 35.000 do 60.000 standardni tim HMP 5
+SP 3
+PDJ 5
+10.5. od 60.000 na svakih daljnjih 20.000 stanovnika dodaje se
+1 standardni tim HMP
+sanitetski prijevoz na svakih daljnjih 80.000 stanovnika dodaje
+se 1 standardni tim
+prijavno-dojavna služba na svakih daljnjih 100.000 stanovnika
+dodaje se 1 standardni tim (PDJ).
+U mjestima koja su udaljena od punkta dežurstva ili od sjedišta doma zdravlja koji ima organiziranu HMP više od 20 km, iznimno se može ustrojiti pripravnost, ako su u primarnoj zdravstvenoj zaštiti ugovorena najmanje 2 tima, uz uvjet da je to i mjesto stanovanja tih doktora. Dežurstvo i pripravnost ne mogu biti ustrojeni u istom mjestu.
+10.6. U regionalnim centrima ustrojava se dežurstvo Sastav tima u dežur.:
+za provođenje stomatološke zaštite i to: u Osijeku, Splitu i 1 dr. stom., 1 medic. sestra SSS
+Rijeci 1 tim na jedan punkt, a u Gradu Zagrebu 2 tima na dva punkta.
+10.7. U gradovima od 40.000 do 80.000 stanovnika Sastav tima u dežur.:
+ustrojava se dežurstvo u ljekarni s 1 timom na jednom punktu. 1 magistar farmacije
+U gradovima s većim brojem stanovnika ustrojava se dežurstvo s
+1 timom na jednom punktu za svakih 100.000 stanovnika.
+10.8. U domovima zdravlja koji nemaju organiziranu hitnu medicinsku Sastav tima u dežur.:
+pomoć u obliku dežurstva, pripravnosti, odnosno redovnim radom, 1 dr. medicine, 1 medic.
+sestra ili tehničar
+zaštite predškolske djece posebno dežurstvo po punktu prema
+Odluci Zavoda o utvrđivanju mreže dežurstava u domovima zdravlja.
+Tablica 2 - Popis postupaka i usluga u laboratorijskoj dijagnostici u primarnoj zdravstvenoj zaŠtiti
+Red. Šifra N a z i v
+broj
+1. 28101 K Sedimentacija eritrocita, (Se)
+2. 28010 K Eritrociti........ (E)
+3. 28301 K Hemoglobin...... (Hb)
+4. 28801 K Leukociti...... (L)
+5. 28810 Kvalitativna i kvantitativna analiza krvnog razmaza
+6. 28041 K Retikulociti......(Rtc)
+7. 28110 K Hematokrit.......(He)
+8. 28021 K Trombociti........(Tr)
+9. 28130 MCV
+10. 28311 MCH
+11. 28312 MCHC
+12. 21310 S,P Glukoza ......(GUK)
+13. 23301 Oralni test opterećenja glukozom..... (o-GTT)
+14. 21020 S Ukupni proteini
+15. 21120 S Ureja
+16. 21130 S Urat
+17. 21141 S Kreatinin
+18. 21151 S Bilirubin ukupni
+19. 21152 S Bilirubin konjugirani
+20. 21402 S Triacilgliceroli (Trigliceridi)
+21. 21421 S Kolesterol
+22. 21424 S HDL - kolesterol
+23. 24601 S Aspartat aminotransferaza (AST)
+24. 24610 S Alanin aminotransferaza (ALT)
+25. 24681 S gama-Glutamil transferaza (GGT)
+26. 24701 S,U alfa-Amilaza
+27. 24720 S Alkalna fosfataza
+28. 28331 S Ukupni kapacitet vezanja željeza (TIBC)
+29. 28333 Slobodni kapacitet vezanja željeza (UIBC)
+30. 28350 S Željezo (Fe)
+31. 28601 K Vrijeme krvarenja kapilarne krvi (VK)
+32. 28621 P Protrombinsko vrijeme (PV)
+33. 21502 S,P Kalij (Kalijev ion)
+34. 21501 S,P Natrij (Natrijev ion)
+35. 19141 Vađenje kapilarne krvi
+36. 19142 Vađenje venske krvi
+37. 22630 F Hemoglobin kvalitativno (okultno krvarenje)
+38. 27102 Mikroskopski pregled perianalnog otiska (ljepljivim celofanom)
+39. 27103 F Mikroskopski pregled stolice na parazite - nativni pripravak
+40. 22125 U Kompletna pretraga urina (kemijska analiza, sediment, spec. tež.)
+41. 22126 U Kemijska analiza urina (glukoza, proteini)
+42. 22127 U Kemijska analiza urina (glukoza, ketoni)
+43. 22540 U Sediment urina (eritrociti, leukociti, cilindri, bakterije, kristali, paraziti)
+2. Na sekundarnoj i tercijarnoj razini
