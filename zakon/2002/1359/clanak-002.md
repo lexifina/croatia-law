@@ -1,0 +1,2 @@
+# Članak 2.
+Vjerske zajednice samostalno i slobodno određuju unutarnju organizaciju; tijela upravljanja, njihovu hijerarhiju i nadležnosti; tijela i osobe koje predstavljaju vjersku zajednicu i njene organizacijske oblike; sadržaj i način očitovanja vjere; održavanje veza sa svojom središnjicom i drugim vjerskim zajednicama; udruživanje s drugim vjerskim zajednicama; i druga pitanja svoga djelovanja u skladu s Ustavom Republike Hrvatske.

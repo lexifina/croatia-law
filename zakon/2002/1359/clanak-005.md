@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Vjerske zajednice koje djeluju kao pravne osobe u Republici Hrvatskoj na dan stupanja na snagu ovoga Zakona (u daljnjem tekstu: postojeće vjerske zajednice) upisuju se u Evidenciju podnošenjem prijave za upis.
+(2) Zajednice vjernika koje na dan stupanja na snagu ovoga Zakona ne djeluju kao vjerske zajednice ili koje će se osnovati nakon dana stupanja na snagu ovoga Zakona (u daljnjem tekstu: novoosnovane vjerske zajednice), upisuju se u Evidenciju podnošenjem zahtjeva za upis. Zahtjev za upis u Evidenciju mogu podnijeti one zajednice vjernika koje su do dana podnošenja zahtjeva najmanje pet godina djelovale kao udruge s pravnom osobnošću.
