@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Vatrogasnu postrojbu Ministarstva unutarnjih poslova čini najmanje jedna formacijska jedinica iz članka 9. ovoga Pravilnika, a prema Uredbi Vlade Republike Hrvatske o unutarnjem ustrojstvu Ministarstva unutarnjih poslova.
+(2) Vatrogasnu postrojbu udruge dobrovoljnih vatrogasaca čine najmanje dva vatrogasna odjeljenja, kad je ona utvrđena planom zaštite od požara grada, Grada Zagreba, općine, kotara s posebnim statutom i županije, odnosno najmanje jedno vatrogasno odjeljenje za ostale vatrogasne postrojbe, kad su određeni zapovjednici vatrogasnih postrojbi sukladno odredbama Zakona.
+(3) Profesionalnu vatrogasnu postrojbu u gospodarstvu čine dvije i više vatrogasnih smjena, kad je određen zapovjednik vatrogasne postrojbe sukladno odredbama Zakona.
+(4) Dobrovoljnu vatrogasnu postrojbu u gospodarstvu čine dvije i više vatrogasnih smjena, koja je osnovana i djeluje uz organiziranu profesionalnu vatrogasnu postrojbu, odnosno najmanje dva vatrogasna odjeljenja, kad djeluje samostalno, zajedno sa zapovjednicima vatrogasnih postrojbi određenih sukladno odredbama Zakona.

@@ -1,0 +1,2 @@
+# Članak 13.
+(1) Najmanji broj osoba osposobljenih za obavljanje poslova dobrovoljnog vatrogasca (u daljnjem tekstu: dobrovoljni vatrogasac) u vatrogasnoj postrojbi udruge dobrovoljnih vatrogasaca sukladno odredbama Zakona i članka 10., stavka 2. ovoga Pravilnika udređen je za: - vatrogasnu postrojbu udruge dobrovoljnih vatrogasaca utvrđenu planom zaštite od požara grada, Grada Zagreba , općine, kotara s posebnim statutom I županije - 20 dobrovoljnih vatrogasaca - ostale vatrogasne postrojbe udruga dobrovoljnih vatrogasaca - 10 dobrovoljnih vatrogasaca .
