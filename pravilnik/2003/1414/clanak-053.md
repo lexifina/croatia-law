@@ -1,0 +1,3 @@
+# Članak 53.
+Napredni tečaj za državne službenike ima jedinstven sadržaj za sve profile državnih službenika. Svrha ovog tečaja je pripremiti odabrane polaznike za uspješno obnašanje viših službeničkih dužnosti i poslova čelnika odsjeka, odjela i ureda u upravama Ministarstva obrane. Na tečaju se upoznaju s upravljanjem vojnim organizacijama, izabranim propisima, sustavima vođenja, upravljanja i zapovijedanja Oružanim snagama, sustavom planiranja, programiranja i izrade proračuna obrane i dr.
+Kandidati na ovu razinu izobrazbe mogu biti upućeni poslije uspješnog obnašanja poslova savjetnika, viših savjetnika, voditelja pododsjeka i ostalih službeničkih dužnosti iste razine.

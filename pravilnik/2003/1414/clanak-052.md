@@ -1,0 +1,3 @@
+# Članak 52.
+Temeljni tečaj za državne službenike ima jedinstven sadržaj za sve profile državnih službenika. Svrha ovog tečaja je upoznati polaznike s vojnim okruženjem i pripremiti ih za uspješno obnašanje poslova savjetnika, viših savjetnika, te nakon određenog iskustva, voditelja pododsjeka. Na tečaju se upoznaju s ustrojem Ministarstva obrane i Oružanih snaga, zakonima, propisima i odnosima u Ministarstvu obrane i Oružanih snaga, te sustavima vođenja, upravljanja i zapovijedanja Oružanim snagama.
+Kandidati na ovu razinu izobrazbe za državne službenike, mogu biti upućeni po prijemu u službu, uz uvjet stečenog odgovarajućeg stupnja civilnog obrazovanja.

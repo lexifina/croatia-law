@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine« broj, 33/02. i 58/02.), a u svezi s člankom 48. Uredbe o stručnom osposobljavanju i usavršavanju državnih službenika (»Narodne novine«, broj: 78/03.) donosim

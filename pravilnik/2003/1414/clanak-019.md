@@ -1,0 +1,2 @@
+# Članak 19.
+Ako djelatnim časnikom želi postati kandidat koji iz bilo kojeg razloga nije odslužio vojni rok i ne mora ga služiti (npr. žene), on se po odabiru upućuje na posebnu pripremnu vojnu obuku, koja načelno sadrži program temeljne i specijalističke obuke ročnika. Po uspješno završenoj pripremnoj obuci, kandidat se upućuje na temeljnu časničku izobrazbu, a zatim je njegova izobrazba i daljnji profesionalni razvoj jednak kao kod ostalih kandidata.
