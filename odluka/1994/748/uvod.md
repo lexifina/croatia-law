@@ -1,0 +1,1 @@
+Na temelju članka 3. stavkte 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/92, 53A/91, 9/92, 55/92 i 29/94), a u svezi s člankom 24m. stavak 3. Zakona o poljoprivrednom zemljištu ("Narodne novine", br. 34/91, 26/93 i 79/93). Vlada Republike Hrvatske je na sjednici održanoj 26. svibnja 1994. godine donijela
