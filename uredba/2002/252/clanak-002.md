@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi zapadnim i sjevernim rubom čest. zemlje 1725 k.o. Dubrovnik, sjevernim rubom čest. zemlje 1742 k.o. Dubrovnik (označeno lomnim točkama 1 do 4), te nadalje južnim rubom čest. zemlje 1745/1 k.o. Dubrovnik, južnim rubom čest. zemlje 1745/2 k.o. Dubrovnik i istočnim rubom čestice zemlje 1747 k.o. Dubrovnik, a sve kako je ucrtano i označeno u grafičkom prilogu na kopiji katastarskog plana k.o. Dubrovnik, broj lista katastarskog plana 37, u mjerilu 1:1000 i na snimci stvarnog stanja u mjerilu 1:500.
