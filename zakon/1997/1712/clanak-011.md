@@ -1,0 +1,3 @@
+# Članak 11.
+Zdravstvena ustanova, odnosno zdravstveni djelatnik privatne prakse koji od stranca nadoknadi troškove za pruženu zdravstvenu uslugu iz članka 2. stavka 3., članka 3. podstavka 6. i članka 6. ovoga Zakona obvezni su u roku od osam dana o tome izvijestiti Ministarstvo zdravstva Republike Hrvatske.
+Ako su zdravstvene ustanove, odnosno zdravstveni djelatnik privatne prakse primili naknadu troškova za pruženu zdravstvenu uslugu iz članka 2. stavka 3., članka 3. podstavka 6. i članka 6. ovoga Zakona od stranca, a primili su i naknadu za te troškove iz sredstava državnog proračuna, obvezni su u roku od 15 dana tu naknadu vratiti u korist državnoga proračuna.
