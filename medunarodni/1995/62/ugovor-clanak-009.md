@@ -1,0 +1,2 @@
+# Članak 9.
+Arbitražni sud se osniva na isti način kao i Komisija za mirenje, kako je predviđeno u članku 3, osim što imenovanja koja nisu obavljena u roku određenom iz članka 3 d), obavlja predsjednik Međunarodnog suda. Ako predsjednik ne može obaviti tu dužnost, ili ako je dr"zavljanin jedne od stranaka, potrebna imenovanja obavlja potpredsjednik Suda. Ako iz istih razloga potpredsjednik ne može obaviti potrebna imenovanja, obavlja ih najstariji član Suda koji nije državljanin niti jedne stranke.
