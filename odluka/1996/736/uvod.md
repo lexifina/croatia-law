@@ -1,0 +1,1 @@
+Na temelju članka 57. Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne samouprave ("Narodne novine", broj 33/96), Vlada Republike Hrvatske je na sjednici održanoj 9. svibnja 1996. godine donijela
