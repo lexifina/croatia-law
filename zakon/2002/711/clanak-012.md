@@ -1,0 +1,2 @@
+# Članak 12.
+Prethodnu odluku o upućivanju pripadnika policije i civilne zaštite te državnih službenika i namještenika u inozemstvo radi sudjelovanja u mirovnim operacijama i drugim aktivnostima donosi Vlada Republike Hrvatske na temelju prijedloga nadležnog ministra, odnosno ravnatelja državne upravne organizacije na koji je suglasnost dao ministar vanjskih poslova, a koji je utemeljen na preuzetim međunarodnim obvezama ili na pozivu države ili tijela međunarodne organizacije ili saveza kojima je Republika Hrvatska pristupila ili im pristupa.
