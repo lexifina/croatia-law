@@ -1,0 +1,1 @@
+Na temelju člana 38. stava 4. Zakona o udruživanju u privredne komore ("Narodne novine", br. 42/85, 54/86 i 57/89), člana 87. stava 6. Statuta Privredne komore Hrvatske ("Narodne novine", br. 2/87, 27/88, 15/89 i 2/90), Skupština Privredne komore Hr-vatske na 6. sjednici 29. ožujka 1990. donijela je
