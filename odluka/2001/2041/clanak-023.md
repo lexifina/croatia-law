@@ -1,0 +1,3 @@
+# Članak 23.
+Porez na neizgrađeno građevno zemljište plaćaju pravne i fizičke osobe koje su vlasnici neizgrađenog građevnog zemljišta.
+Pod neizgrađenim građevnim zemljištem iz stavka 1. ovoga članka smatra se zemljište koje se nalazi unutar granica građevnog područja naselja na kojem se u skladu s prostornim planom mogu graditi građevine za strambene, poslovne i druge namjene, a na kojemu nije izgrađena nikakva građevina. Neizgrađenim građevnim zemljištem smatra se i zemljište na kojemu postoji privremena građevina za čiju izgradnju nije potrebno odobrenje za gradnju kao i zemljište na kojemu se nalaze ostaci nekadašnje građevine.

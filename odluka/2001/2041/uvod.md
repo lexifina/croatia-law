@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00 i 59/01), Općinsko vijeće Općine Oprisavci na svojoj 6. sjednici održanoj dana 7. prosinca 2001. donijelo je
