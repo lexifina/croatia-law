@@ -1,0 +1,1 @@
+Na temelju članka 28. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2003. godinu (»Narodne novine«, broj 154/2002), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2003. godine donijela
