@@ -1,0 +1,6 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza I. kategorije Zaton Doli - Neum 2
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Zaton Doli - Neum 2, koje se nalazi oko 4 km od granične crte s Bosnom i Hercegovinom u dubinu teritorija RH, na dijelu k.č. broj 16/7 k.o. Stupa, što u naravi predstavlja prostor duljine 120 metara i širine 35 metara, koji je sa sjeverne strane omeđen prirodnim usjekom, a s južne strane ograđen žičanom ogradom, i kojim se proteže državna cesta broj 8 od dionice 25 km 4 + 840 m, u duljini od 120 metara u smjeru istoka.
+Na području stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Zaton Doli - Neum 2, nalaze se sljedeći objekti: nadstrešnica duljine 35 metara i širine 10 metara, dvije kontrolne kućice s graničnim rampama smještene na izgrađenom otoku za razdvajanje prometnih tokova, 6 kontejnera smještenih na južnoj strani kolnika, koje koriste službenici granične policije i carine, od kojih je krajnji istočni kontejner sanitarni čvor te parkirališni prostor ukupne površine 276 m2, smješten uz jugozapadni rub kolnika.
+Ukupna površina područja stalnog međunarodnog graničnog cestovnog prijelaza I. kategorije Zaton Doli - Neum 2 iznosi
+4 200 m2.
