@@ -1,0 +1,6 @@
+## Uvjeti i postupak za zatvaranje i preseljenje poštanskog ureda
+# Članak 11.
+(1) Javni operator može poštanski ured zatvoriti ili preseliti pod uvjetom da za korisnike poštanskih usluga osigura razinu kakvoće obavljanja poštanskih usluga propisanu ovim Pravilnikom.
+(2) Prije odluke o zatvaranju ili preseljenju poštanskog ureda javni operator je obvezan izraditi elaborat o načinu obavljanja poštanskih usluga nakon zatvaranja ili preseljenja poštanskog ureda.
+(3) Javni operator može poštanski ured zatvoriti ili preseliti pod uvjetom da za takvu odluku pribavi suglasnost Vijeća za poštanske usluge. Javni operator nije obvezan pribaviti suglasnost, ali je obvezan izvijestiti Vijeće za poštanske usluge kada se radi o preseljenju poštanskog ureda na području istog mjesta ili zatvaranju poštanskog ureda u mjestima s više poštanskih ureda.
+(4) Javni operator može privremeno zatvoriti ili privremeno preseliti poštanski ured (zbog preuređenja i sl.) pod uvjetom da za korisnike poštanskih usluga osigura razinu kakvoće obavljanja poštanskih usluga propisanu ovim Pravilnikom. Javni operator je obvezan o namjeri privremenog zatvaranja ili privremenog preseljenja poštanskog ureda dužeg od 60 dana, te o ponovnom otvaranju, izvijestiti Vijeće za poštanske usluge.
