@@ -1,0 +1,2 @@
+# Članak 63.
+Na vođenje postupka u svezi izricanja upravnih mjera propisanih ovim Pravilnikom primjenjuju se odredbe Zakona o općem upravnom postupku.

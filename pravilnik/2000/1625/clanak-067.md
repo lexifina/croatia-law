@@ -1,0 +1,43 @@
+# Članak 67.
+Novčanom kaznom od 500,00 do 5.000,00 kn kaznit će se za prekršaj fizička osoba ako:
+1. gradi objekte ili izvodi građevinske radove bez uvjeta zaštite prirode i dopuštenja Ustanove (članak 4. stavak 2. i 3.);
+2. obavlja radnje u Nacionalnom parku bez ishođenja uvjeta zaštite prirode (članak 5.);
+3. vadi mineralne sirovine i mijenja pejsaž (članak 6.);
+4. onečišćava zrak, tlo i vodu (članak 7. stavak 1.);
+5. bere, sakuplja, uklanja sa staništa i oštećuje biljke i gljive (članak 8.);
+6. unosi i sadi strane (alohtone), hibridne i klonirane biljne i gljivlje vrste (članak 9.);
+7. pali travu i korov (članak 11.);
+8. obavlja sječu i pošumljavanje suprotno odredbama Pravilnika (članak 12.);
+9. ne obavlja sanitarnu sječu i druge šumarske aktivnosti i radnje u dopušteno vrijeme (članak 13.);
+10. rastjeruje, proganja, uznemirava, hvata, ozljeđuje i ubija životinjske vrste suprotno odredbama Pravilnika (članak 14.);
+11. unosi i pušta strane (alohtone), hibridne i klonirane vrste (članak 15.);
+12. izvodi nisko nadlijetanje letjelice u Nacionalnom parku bez dopuštenja Ministarstva (članak 16.);
+13. obavlja ispašu i kretanje stoke suprotno uvjetima propisanim ovim Pravilnikom (članak 17.);
+14. obavlja zaprašivanje kemijskim sredstvima ili na drugi način masovno uništava kukce, biljke i gljive bez dozvole Ustanove (članak 18.);
+15. sakuplja puževe i gljive, te bere ljekovito bilje (članak 19.);
+16. organizira i obavlja lov na području Nacionalnog parka (članak 20.);
+17. gradi i postavlja lovnogospodarske i lovnotehničke objekte suprotno uvjetima utvrđenim ovim Pravilnikom (članak 20. stavak 2.);
+18. nosi i koristi vatreno oružje i druga sredstva za lov bez dopuštenja (članak 21.);
+19. obavlja istraživanja suprotno uvjetima propisanim Pravilnikom (članak 28.);
+20. obavlja istraživanja na način da se ugrožava izvornost prirode i izgled krajobraza (članak 23.);
+21. ulazi u Nacionalni park na mjestima koja nisu za to određena (članak 25. stavak 1.);
+22. ne plati naknadu za ulaz u Nacionalni park (članak 26. stavak 1.);
+23. ne pridržava se kretanja i mjesta koja se mogu posjećivati (članak 27.);
+24. kreće se izvan dopuštenih područja bez pratnje zaposlenika Ustanove (članak 28.);
+25. dopušta slobodno kretanje psa mimo uvjeta propisanih Pravilnikom (članak 29.);
+26. organizira i obavlja prijevoz posjetitelja u Nacionalnom parku bez dopuštenja Ustanove i suprotno odredbama Pravilnika (članak 30.);
+27. vozi nedopuštenom brzinom utvrđenom Pravilnikom (članak 31.);
+28. parkira na nedozvoljena mjesta (članak 31.);
+29. organizira boravak i noćenje posjetitelja na mjestima koja za to nisu određena (članak 33.);
+30. organizira ili kampira na mjestima koja za to nisu određena i bez odobrenja Ustanove (članak 34.);
+31. loži vatru izvan naselja i mjesta koja posebno nisu označena za tu namjenu (članak 35.);
+32. obavlja rekreativne aktivnosti na mjestima na kojima to nije dopušteno (članak 36. stavak 1 do 5);
+33. organizira rekreativne djelatnosti bez dopuštenja Ustanove (članak 36. stavak 6.);
+34. obavlja djelatnost poljoprivrede i stočarstva mimo uvjeta propisanih Pravilnikom (članak 37.);
+35. obavlja djelatnost bez dopuštenja Ustanove (članak 38. stavak 3.);
+36. ne plati naknadu za izdano dopuštenje za obavljanje djelatnosti (članak 38. stavak 4.);
+37. u obavljanju djelatnosti ugrožava izvornost prirode i koristi prirodna dobra suprotno odredbama Pravilnika (članak 38. stavak 1.);
+38. ne pribavi odobrenje Ustanove za kretanje po Nacionalnom parku (članak 39.);
+39. ne pribavi odobrenje Ustanove za obavljanje prometovanja po cestama Nacionalnog parka na kojima je promet ograničen (članak 40.);
+40. snima i fotografira u komercijalne svrhe bez dopuštenja Ustanove (članak 41.);
+41. ne provodi mjere protupožarne zaštite propisane Pravilnikom (članak 43.).
