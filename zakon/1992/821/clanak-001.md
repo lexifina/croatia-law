@@ -1,0 +1,4 @@
+## o iznimnom korištenju određenih statističkih podataka
+# Članak 1.
+Iznimno od odredbe članka 28. Zakona o statističkim istraživanjima ("Narodne novine", br. 19/74.) i odredbe članka 1a. Zakona o provođenju popisa stanovništva, domaćinstava, stanova i poljoprivrednih gospodarstava u 1991. godini ("Narodne novine", br.16/90. i 47/90.), statističke podatke prikupljene od fizičkih osoba tijekom popisa pučanstva, Republički zavod za statistiku može priopćavati samo tijelima državne vlasti, a preko Državne komisije za UNPROFOR i tijelima i predstavnicima UNPROFOR-a, i mogu se koristiti samo u postupcima i radnjama utvrđivanja i uspostavljanja činjeničnog i pravnog stanja prije agresije na Republiku Hrvatsku.
+U slučaju dvojbe koje podatke, koja tijela i u koju svrhu mogu koristiti odlučit će Vlada Republike Hrvatske.
