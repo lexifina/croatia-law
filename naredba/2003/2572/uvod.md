@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1., članka 12. stavka 1. točke 1., 2., 3., 4., 5. i stavka 2. istog članka Zakona o zaštiti bilja (»Narodne novine«, broj 10/94 i 117/03), ministar poljoprivrede i šumarstva donosi
