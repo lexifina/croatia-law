@@ -1,0 +1,6 @@
+## II. STATUS PROGNANIKA I IZBJEGLICE
+# Članak 2.
+Osobi koja je s ratom ugroženog područja na teritoriju Republike Hrvatske, samostalno ili organizirano putem , općinskog kriznog štaba; općinskog, štaba civilne zaštite,
+Hrvatskog Crvenog križa ili centra za socijalni rad, napustila mjesto prebivališta da bi izbjegla neposrednu opasnost za život pred agresijom i drugim oružanim akcijama, može se priznati status progonanika odnosno izbjeglice.
+Prognanik u smislu ove uredbe je osoba iz stavka 1. ovoga članka koja je s jednog područja Republike Hrvatske izbjegla na drugo područje Republike Hrvatske, a izbjeglica je osoba iz stavka 1. ovoga članka koja je izbjegla u inozemstvo.
+Ratom ugroženo područje proglašava Vlada Republike Hrvatske.
