@@ -1,0 +1,2 @@
+# Članak 1.
+Iznimno od odredbe članka 28. Zakona o čeku ("Narodne novine", broj 74/94), INA-Industrija nafte d.d. Zagreb može prodavati naftne derivata putem bonova diplomatsko-konzularnim predstavništvima, međunarodnim organizacijama Crvenog križa, drugim stranim humanitarnim organizacijama i Snagama za provedbu i operaciju Organizacije Sjeverno-atlanskog Saveza (IFOR), najkasnije do 31. prosinca 1996.godine.
