@@ -1,0 +1,2 @@
+# Članak 5.
+Savjet obavlja poslove iz svojeg djeIokruga samostalno i u skladu s programom rada Savjeta. Proučavanje pojedinih pitanja Savjet može povjeriti i u tu svrhu osnovati radna tijela sastavljena od znanstvenika i drugih gospodarskih stručnjaka iz određenih oblasti. Radna tijela iz stavka 2. ovoga članka pripremaju mišljenje i prijedloge Savjetu. Broj članova i sastav radnog tijela određuje se za svaki konkretan slučaj pri donošenju odluke o njegovom osnivanju.

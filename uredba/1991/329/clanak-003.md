@@ -1,0 +1,2 @@
+# Članak 3.
+Savjet razmatra pitanja koja se odnose na gospodarske prilike u Republici na zahtjev Vlade ili po vlastitoj inicijativi, a osobito: 1. ocjenjuje gospodarsku situaciju u Republici i za nju značajnom okruženju; 2. daje mišljenje u odnosu na najvažnije mjere u oblasti gospodarskog sustava i gospodarske politike; 3. podnosi inicijative radi unapređenja gospodarskih prilika u Republici; 4. razmatra i druga gospodarska i ekonomska pitanja od interesa za Republiku.
