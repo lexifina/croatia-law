@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Račun poslovnog subjekta za redovno poslovanje na teret kojega su evidentirani neizvršeni nalozi za plaćanje zakonskih obveza ili javnih prihoda; nalozi za naplatu vrijednosnih papira i instrumenata osiguranja plaćanja te nalozi s naslova izvršenja sudskih odluka i drugih ovršnih isprava ne može se zatvoriti ako poslovni subjekt nema otvoren račun za redovno poslovanje u drugoj banci.
+(2) Iznimno od stavka 1. ovoga članka, račun za redovno poslovanje može se zatvoriti na temelju propisa. U tom se slučaju nalozi za plaćanje iz stavka 1. ovoga članka evidentiraju na računu pravnog sljednika ili se vraćaju nalogodavcu.
+(3) Ako poslovni subjekt ima više od jednog računa za redovno poslovanje, neizvršene naloge iz stavka 1. ovoga članka koji glase na teret računa koji se zatvara banka dostavlja drugoj banci u kojoj poslovni subjekt ima otvoren račun za redovno poslovanje u smislu članka 11. stavka 4. ovoga Zakona.
