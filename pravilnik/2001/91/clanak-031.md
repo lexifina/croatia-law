@@ -1,0 +1,6 @@
+## POSTUPAK PROVOĐENJA ISPITA I PROVJERA
+# Članak 31.
+(1) Pripravnik ili vježbenik koji ispunjava uvjete za polaganje ispita mora biti obaviješten u roku od 30 dana od dana podnošenja prijave za polaganje ispita o danu i mjestu polaganja ispita. Dan polaganja ispita ne može biti određen u roku kraćem od 15 dana od dana prijama obavijesti, osim ako pripravnik ili vježbenik izričito zatraži polaganje ispita prije toga roka.
+(2) Ispiti i provjere nisu javni. O rokovima polaganja ispita poslodavac je dužan izvijestiti Ministarstvo koje može odrediti svojega predstavnika koji će prisustvovati ispitu.
+(3) O ispitu se mora voditi zapisnik koji se prilaže ispitnoj dokumentaciji. Zapisnik potpisuje predsjednik i svi članovi povjerenstva. Predstavnik Ministarstva iz stavka 2. ovoga članka može u zapisnik unijeti svoje primjedbe.
+(4) Ispiti se sastoje od teorijskog i praktičnog dijela. Teorijski dio ispita pripravnik ili vježbenik polaže pismeno, prema gradivu za polaganje ispita utvrđenom odredbama ovoga Pravilnika. Poslije položenog teorijskog dijela ispita pripravnik ili vježbenik polaže praktični dio ispita koji se sastoji od provjere stručne sposobnosti i vještine na operativnom radnom mjestu.

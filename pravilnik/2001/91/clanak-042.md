@@ -1,0 +1,3 @@
+## STUPANJE NA SNAGU
+# Članak 42.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
