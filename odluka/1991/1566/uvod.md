@@ -1,0 +1,1 @@
+Na temelju članka 106. stavka 2. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", br. 52/91), Vlada Republike Hrvatske na sjednici održ.anoj 31. listopada l991. godine donijela je
