@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o Fondu za regionalni razvoj Republike Hrvatske (»Narodne novine«, broj 107/2001) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2002. godine donijela
