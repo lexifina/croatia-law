@@ -1,0 +1,2 @@
+# Članak 16.
+Ovlašteni laboratorij i ovlaštene pravne osobe za provedbu potvrđivanja obvezni su odmah obavijestiti Zavod o svim statusnim promjenama, o novim ili izmijenjenim postupcima ispitivanja i potvrđivanja za koje su ovlašteni, o promjenama koje se odnose na radne prostorije, stručno osoblje, ispitnu, mjernu i ostalu opremu, te o svim ostalim promjenama koje utječu na osposobljenost ovlaštenog laboratorija ili pravne osobe za potvrđivanje, na opseg dobivena ovlaštenja ili na sukladnost s propisanim uvjetima za dobivanje ovlaštenja.
