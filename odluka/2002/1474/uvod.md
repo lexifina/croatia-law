@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/99 i 9/01) te članka 30. Statuta Općine Čeminac (»Službeni glasnik Općine Čeminac« br. 1/94, 1/97, 1/01 i 1/02) Općinsko vijeće Općine Čeminac na svojoj 8. sjednici održanoj dana 17. srpnja 2002. godine, donosi
