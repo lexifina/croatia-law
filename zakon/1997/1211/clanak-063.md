@@ -1,0 +1,6 @@
+# Članak 63.
+(1) Uvoz, izvoz i provoz pošiljaka, životinja, životinjskih proizvoda i drugih pošiljaka (roba) koje sadrže sastojke životinjskog podrijetla, sjemena za umjetno osjemenjivanje i oplođenih jajnih stanica, jaja za nasad, životinjske hrane uključujući i poljoprivredne prehrambene proizvode i stelju, sirovina i aditiva što služe za proizvodnju životinjske hrane, pošiljaka veterinarskih lijekova i drugih predmeta kojima se može prenositi zarazna bolest ili ugroziti zdravlje ljudi i životinja, dopušteni su samo na određenim graničnim prijelazima (u daljnjem tekstu: Granični veterinarski prijelazi).
+(2) Veterinarsko-zdravstvene preglede i kontrolu na graničnim veterinarskim prijelazima, obavlja granični veterinarski inspektor.
+(3) Veterinarsko-zdravstveni pregled i kontrola iz stavka 2. ovoga članka primjenjuju se na životinje i proizvode životinjskoga podrijetla radi zaštite zdravlja ljudi i životinja te kontrole objekata, robe ili prijevoznih sredstava, koji mogu biti prijenosnici zaraznih bolesti životinja.
+(4) U veterinarsku kontrolu iz stavka 3. ovoga članka može se uključiti i kontrola koja se odnosi na kakvoću i kontrolu radi očuvanja ugroženih vrsta životinja.
+(5) Granične prijelaze iz stavka 1. ovoga članka, određuje ministar.

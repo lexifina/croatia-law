@@ -1,0 +1,5 @@
+# Članak 33.
+(1) Obavljanje poslova utilizacije i neškodljivog uklanjanja lešina i životinjskih proizvoda, konfiskata, nejestivih nusproizvoda klanja i valioničkih otpadaka, dužne su osigurati jedinice lokalne samouprave i jedinice lokalne uprave i samouprave.
+(2) Za obavljanje poslova utilizacije i neškodljivog uklanjanja lešina i životinjskih proizvoda, konfiskata, nejestivih nusproizvoda klanja i valioničkih otpadaka, jedinica lokalne uprave i samouprave može osnovati pravnu osobu, a može obavljanje tih poslova povjeriti drugoj pravnoj osobi na svom području.
+(3) Za obavljanje poslova utilizacije i neškodljivog uklanjanja lešina i životinjskih proizvoda, konfiskata, nejestivih nusproizvoda klanja i valioničkih otpadaka, jedinica lokalne samouprave može osnovati pravnu osobu, a može obavljanje tih poslova povjeriti drugoj pravnoj osobi ili fizičkoj osobi na svom području.
+(4) Dvije ili više jedinica lokalne uprave i samouprave, za obavljanje poslova utilizacije, mogu osnovati jednu pravnu osobu na temelju prethodne suglasnosti ministra.

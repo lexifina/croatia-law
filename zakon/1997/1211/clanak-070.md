@@ -1,0 +1,4 @@
+# Članak 70.
+(1) Carinarnica odnosno carinska ispostava ne može obaviti carinski postupak niti carinjenje pošiljke koja podliježe veterinarsko-zdravstvenom pregledu i kontroli, dok granični veterinarski inspektor ne utvrdi zdravstveno stanje odnosno zdravstvenu ispravnost pošiljke i odobri njen uvoz, izvoz ili provoz.
+(2) Prijevoznici koji obavljaju prijevoz željeznicom, brodom, zrakoplovom ili sredstvima cestovnog prijevoza i granična carinarnica dužni su o svakoj prispjeloj pošiljci iz članka 68. stavka 1. ovoga Zakona odmah izvijestiti graničnu veterinarsku inspekciju.
+(3) Troškove nastale zbog primjene mjera pri uvozu, izvozu i provozu pošiljaka iz članka 68. stavka 1. ovoga Zakona, troškove karantene i produžene karantene kao i troškove nastale primjenom mjera u karanteni te troškove nastale zadržavanjem, vraćanjem, prenamjenom i uništavanjem pošiljke, plaća uvoznik, izvoznik, prijevoznik ili korisnik pošiljke.

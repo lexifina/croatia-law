@@ -1,0 +1,5 @@
+# Članak 74.
+(1) Veterinarsko-zdravstvenom pregledu i kontroli iz članka 73. ovoga Zakona ne podliježe klanje svinja, ovaca, koza, peradi, kunića i uzgojene divljači, kada te životinje ne pokazuju znakove poremećenog zdravlja i kada je meso podrijetlom od navedenih vrsta životinja, kao i mesni proizvodi dobiveni njegovom obradom i preradom, namijenjeno potrošnji u vlastitom domaćinstvu.
+(2) Klanje kopitara i goveda, bez obzira da li pokazuju ili ne pokazuju znakove poremećenog zdravlja, kada je meso podrijetlom od navedenih vrsta životinja namijenjeno potrošnji u vlastitom domaćinstvu, podliježe veterinarsko-zdravstvenom pregledu i kontroli iz članka 73. ovoga Zakona.
+(3) Veterinarsko-zdravstvenom pregledu i kontroli iz članka 73. ovoga Zakona ne podliježe obrada mlijeka i proizvodnja mliječnih proizvoda, jaja i meda, kada su ti proizvodi namijenjeni prehrani ljudi putem potrošnje u vlastitom domaćinstvu.
+(4) Iznimno od odredbe stavka 3. ovoga članka mliječni proizvodi, jaja i med namijenjeni javnoj potrošnji i prodaji na tržnicama, podliježu veterinarsko-zdravstvenom pregledu i kontroli iz članka 73. stavka 5. ovoga Zakona.

@@ -1,0 +1,4 @@
+# Članak 58.
+(1) Pri prijevozu željeznicom, brodom, avionom ili sredstvima cestovnog prijevoza, dopušten je utovar, pretovar ili istovar pošiljke životinja samo na željezničkim kolodvorima ili pomorskim, riječnim i zrakoplovnim lukama, ili drugim mjestima za utovar i istovar životinja u cestovnom prijevozu, koja udovoljavaju propisanim uvjetima.
+(2) Način utovara, pretovara i istovara, uvjete kojima mora udovoljavati prijevozno sredstvo te higijensko-tehničke uvjete kojima moraju udovoljavati pošiljke iz stavka 1. ovoga članka, propisuje ministar.
+(3) Uvjete kojima moraju udovoljavati kolodvori, riječne, pomorske i zrakoplovne luke te mjesta za utovar i istovar životinja u cestovnom prijevozu iz stavka 1. ovoga članka propisuje ministar uz prethodno pribavljeno mišljenje ministra pomorstva, prometa i veza.

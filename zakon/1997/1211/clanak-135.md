@@ -1,0 +1,2 @@
+# Članak 135.
+U provedbi inspekcijskog nadzora granični veterinarski inspektor provodi veterinarsko-zdravstveni pregled i kontrolu nad uvozom, izvozom i provozom pošiljaka životinja, proizvoda životinjskog podrijetla, stočne hrane, te sirovina i aditiva što služe za proizvodnju stočne hrane, lijekova i pomoćnih ljekovitih sredstava koji se rabe u veterini, sjemena za umjetno osjemenjivanje, oplođenih jajnih stanica i predmeta kojima se mogu prenositi uzročnici zaraznih bolesti životinja u prometu preko granice Republike Hrvatske.

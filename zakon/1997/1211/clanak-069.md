@@ -1,0 +1,6 @@
+# Članak 69.
+(1) Uvezene životinje, uvoznik mora poslije uvoza držati u karanteni određenoj u rješenju iz članka 68. stavka 1. ovoga Zakona radi obavljanja dijagnostičkih i laboratorijskih ispitivanja i utvrđivanja zdravstvenog stanja.
+(2) Mjesto i objekt karantene, na temelju potvrde veterinarskog inspektora u Veterinarskom uredu o udovoljavanju propisanim uvjetima te vrstu i način dijagnostičkih i laboratorijskih ispitivanja te druge uvjete držanja u karanteni određuje Uprava.
+(3) Za životinje koje se uvoze radi sudjelovanja na športskim natjecanjima, vježbama, izložbama i sajmovima te pse i mačke koji se privremeno uvoze u pratnji posjednika na vrijeme od najviše 30 dana, kao i za kopitare, papkare, perad i kuniće koji se uvoze radi neposrednog privođenja klanju, može se odrediti da ne moraju biti u karanteni, ako je epizootiološka situacija u zemlji izvoznici takva da ne prijeti opasnost od unošenja zaraznih bolesti životinja.
+(4) Životinje iz stavka 3. ovoga članka uvezene radi klanja, mora se zaklati najkasnije tri dana nakon prijelaza granice Republike Hrvatske, a mogu se klati samo u klaonicama koje udovoljavaju posebnim uvjetima iz članka 19. stavka 2. ovoga Zakona.
+(5) Uvjete kojima moraju udovoljavati karantenski objekti i vrijeme trajanja karantene propisuje ministar.

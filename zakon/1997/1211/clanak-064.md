@@ -1,0 +1,6 @@
+# Članak 64.
+(1) Kopitari i papkari moraju biti pojedinačno i trajno označeni ovim Zakonom propisanim oznakama, a kontejneri, palete, paketi i stokinete s proizvodima, ili spremnici sa živom ribom i ambalaža s utovarenim žabama, puževima, rakovima, pijavicama i mekušcima, moraju biti označeni, na temelju ovoga Zakona, propisanom etiketom s otisnutim žigom veterinarske inspekcije i veterinarskim kontrolnim brojem odobrenog objekta u kojemu su proizvedeni, pakirani ili iz kojega su otpremljeni.
+(2) Pošiljke iz stavka 1. ovoga članka podliježu obveznom veterinarsko-zdravstvenom pregledu i kontroli graničnog veterinarskog inspektora na graničnom prijelazu.
+(3) Iznimno, veterinarskoj kontroli ne podliježu proizvodi u prtljazi putnika ili koji se šalju u paketima, mase manje od jednog kilograma, namijenjeni osobnoj potrošnji ako su podrijetlom iz zemalja ili područja zemalja iz kojih nije zabranjen uvoz i provoz.
+(4) Kada se radi o pojavi opasne zarazne bolesti u nekoj zemlji, veterinarskoj kontroli podliježe i prtljaga putnika i prtljaga osoblja prijevoznog sredstva, koja se unosi iz te zemlje.
+(5) U slučaju iz stavka 4. ovoga članka putnici i osoblje prijevoznoga sredstva dužni su svoju robu prijaviti graničnom veterinarskom inspektoru da bi se proveo postupak veterinarske kontrole.

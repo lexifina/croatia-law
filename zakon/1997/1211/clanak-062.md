@@ -1,0 +1,4 @@
+# Članak 62.
+(1) Službene osobe policijskih uprava u granicama svojih nadležnosti kontroliraju da li posjednici životinja i životinjskih proizvoda imaju svjedodžbu ili potvrdu ili drugu propisanu ispravu za pošiljke koje otpremaju prijevoznim sredstvom ili za životinje koje se kreću.
+(2) Ako se pri kontroli iz stavka 1. ovoga članka utvrdi, da posjednici životinja i životinjskih proizvoda, nemaju svjedodžbu odnosno potvrdu ili drugu propisanu ispravu, da životinje nisu označene, ili da životinje i životinjski proizvodi potječu iz zaraženog ili ugroženog područja, službene osobe policijske uprave će takve pošiljke zadržati i o tome izvijestiti nadležni Veterinarski ured ili najbližu ovlaštenu veterinarsku organizaciju.
+b) Veterinarsko-zdravstveni pregled i kontrola u prometu preko granice Republike Hrvatske

@@ -1,0 +1,2 @@
+# Članak 44.
+Radi onemogućavanja unošenja, širenja i poduzimanja mjera suzbijanja pojedinih osobito opasnih zaraznih bolesti iz članka 8. ovoga Zakona, ministar može, na prijedlog ravnatelja, zatražiti da Vlada Republike Hrvatske odredi način sudjelovanja postrojbi Hrvatske vojske u provođenju mjera ograničenja ili zabrane kretanja osoba i životinja za određena područja, a po potrebi i dijelova granice Republike Hrvatske.

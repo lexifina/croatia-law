@@ -1,0 +1,17 @@
+# Članak 138.
+U provedbi inspekcijskog nadzora županijski, odnosno gradski veterinarski inspektor:
+1. nadzire rad veterinarskih organizacija, privatne prakse i veterinarske službe u obavljanju veterinarske djelatnosti,
+2. nadzire provođenje mjera iz članka 11. i 12. ovoga Zakona,
+3. nadzire uzgoje i proizvodnju životinja; životinja u prometu; klanje životinja i životinjske proizvode; objekte za klanje životinja, proizvodnju, obradbu, preradbu, uskladištenje i promet životinjskih proizvoda, promet sirovih koža; proizvodnju i promet stočne hrane i sirovina za proizvodnju stočne hrane, objekte i opremu za proizvodnju stočne hrane, otpadne životinjske tvari, vodu za napajanje životinja i proizvodnju životinjskih proizvoda; uzima uzorke dijagnostičkog materijala za laboratorijske pretrage i naređuje mjere za sprečavanje i suzbijanje zaraznih i drugih bolesti životinja, odnosno sprečavanje onečišćenja životinjskih proizvoda i stočne hrane te nadzire provođenje mjera za zaštitu ljudi od zoonoza i zdravstveno neispravnih životinjskih proizvoda namijenjenih ljudskoj prehrani,
+4. obavlja nadzor nad životinjama, na sajmovima, tržnicama, burzama, dogonima, otkupnim mjestima, izložbama i javnim smotrama te mjestima za utovar, pretovar i istovar životinja,
+5. obavlja nadzor nad ljekarnama, prometom lijekova, otrova i sredstava za dezinfekciju, dezinsekciju i deratizaciju,
+6. obavlja nadzor nad radom objekata za utilizaciju i neškodljivo uklanjanje lešina i otpadne životinjske tvari, provođenjem mjera veterinarske zaštite okoliša, kao i nadzor nad čišćenjem i dezinfekcijom objekata i prijevoznih sredstava za životinje i životinjske proizvode,
+7. obavlja nadzor nad pošiljkama u prometu na domaćem tržištu kod utovara, pretovara i istovara odnosno nazdor kod istovara i pretovara, pošiljaka iz uvoza,
+8. obavlja nadzor nad radom ovlaštenih veterinara te izvješćuje Upravu o radu ovlaštene veterinarske organizacije,
+9. obavlja nadzor nad izdavanjem svjedodžbi o zdravstvenom stanju životinja i uplati naplaćenih naknada kao i nadzor nad izdavanjem druge propisane dokumentacije te nadzor nad obavljanjem veterinarsko-zdravstvenih pregleda i kontrole i izdavanjem propisane dokumentacije i naplate naknada za te preglede,
+10. pregledava poslovne knjige koje se odnose na provođenje propisa o obavljanju veterinarske djelatnosti, zdravstvenoj ispravnosti životinjskih proizvoda, propisa o stavljanju lijekova u promet na malo i propisa o mjerama za promicanje stočarstva i poticajnih mjera,
+11. provodi veterinarsko-zdravstvenu kontrolu dezinfekcije prijevoznih sredstava kojima su otpremane pošiljke životinja, životinjskih proizvoda ili otpadne životinjske tvari,
+12. izdaje uvjerenja o udovoljavanju propisanim uvjetima objekata namijenjenih provođenju karantenskih mjera za pošiljke životinja i životinjskih proizvoda iz uvoza, obavlja nadzor nad provedbom propisanih mjera u karanteni za uvezene životinje, te donosi rješenje o zatvaranju ili produživanju karantene, odnosno daljnjem postupku sa životinjama ili životinjskim proizvodima,
+13. provodi i druge propisane mjere kada je ugroženo zdravlje životinja, zdravstvena ispravnost životinjskih proizvoda i stočne hrane,
+14. obavlja poslove veterinarsko-zdravstvenog nadzora koji se odnose na inspekciju životinja i inspekciju namirnica na području županije, za koje prema odredbama ovoga Zakona nije utvrđena nadležnost veterinarske inspekcije,
+15. obavlja i druge poslove za koje je ovlašten ovim Zakonom i drugim propisima i prema ukazanim potrebama.

@@ -1,0 +1,2 @@
+# Članak 77.
+Životinje, životinjski proizvodi, meso te druge sirovine, aditivi i dodatni sastojci koji služe u proizvodnji proizvoda životinjskog podrijetla namijenjenih prehrani ljudi, koji su nakon propisanog veterinarsko-zdravstvenog pregleda i kontrole, utvrđeni zdravstveno ili higijenski neispravnim, moraju se na propisani način obilježiti, zaplijeniti i neškodljivo ukloniti, odnosno podvrći postupku utilizacije.

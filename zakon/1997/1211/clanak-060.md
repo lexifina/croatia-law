@@ -1,0 +1,5 @@
+# Članak 60.
+(1) Posjednici životinja i životinjskih proizvoda te fizičke ili pravne osobe koje obavljaju prijevoz moraju imati i na zahtjev veterinarskog inspektora određenog ovim Zakonom predočiti svjedodžbu, potvrdu ili drugu propisanu ispravu.
+(2) Fizičke, odnosno pravne osobe koje obavljaju prijevoz i službene osobe nadležne policijske uprave, dužne su prijaviti prometnu nezgodu u tijeku prijevoza životinja i životinjskih proizvoda nadležnom Veterinarskom uredu, najbližoj veterinarskoj stanici, odnosno veterinarskoj ambulanti ili ambulanti privatne prakse.
+(3) Veterinarska stanica ili veterinarska ambulanta ili ambulanta privatne prakse, dužni su osigurati veterinarsku pomoć povrijeđenim životinjama, te o postupku i poduzetim mjerama žurno izvijestiti Veterinarski ured i ovlaštenu veterinarsku organizaciju na području, koji će narediti mjere za osiguranje životinjskih proizvoda i organizirati prijevoz povrijeđenih i uginulih životinja.
+(4) Troškove pružanja veterinarskih usluga i provođenja mjera iz stavka 3. ovoga članka snosi posjednik životinja ili posjednik životinjskih proizvoda.

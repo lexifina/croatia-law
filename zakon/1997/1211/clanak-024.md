@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Inspekcija zdravstvene ispravnosti životinjske hrane obuhvaća: životinjsku hranu, životinjske proizvode namijenjene hranidbi životinja, sirovine i aditive koji služe za proizvodnju životinjske hrane, promet i uporabu životinjske hrane te objekte u kojima se proizvodi životinjska hrana.
+(2) Zabranjena je proizvodnja, promet i uporaba životinjske hrane, životinjskih proizvoda namijenjenih hranidbi životinja i sirovina koje služe za njihovu proizvodnju, ako u količinama većim od dopuštenih sadrže patogene bakterije, gljivice i njihove proizvode-metabolite (egzotoksine i endotoksine), hormone, antibiotike, pesticide, soli teških metala, radioaktivne tvari i druge tvari štetne za zdravlje životinja i neizravno štetne za zdravlje ljudi.
+(3) Za hranidbu životinja može se staviti u promet samo sol koja je jodirana.
+(4) Dopuštene količine štetnih tvari i sastojaka iz stavka 2. ovoga članka, u skladu s propisom o kakvoći stočne hrane te način uzimanja uzoraka, uključujući "monitoring" i obavljanje pregleda, kontrole i nadzora, propisuje ministar.

@@ -1,0 +1,6 @@
+# Članak 101.
+(1) Izravno poslove veterinarstva iz članka 3. stavka 1. ovoga Zakona obavljaju veterinarski djelatnici: diplomirani veterinari (u daljnjem tekstu: veterinari), veterinarski tehničari i veterinarski bolničari, a određene specijalizirane poslove u veterinarskoj dijagnostici i analitici i stručnjaci ostalih struka.
+(2) Postavljanje dijagnoze, propisivanje lijeka, liječenje, kirurške, porodiljske i druge zahvate na životinjama, veterinarsko-zdravstveni pregled i kontrolu te druge poslove veterinarskog javnog zdravstva, mogu obavljati samo veterinari.
+(3) Veterinarski djelatnici iz stavka 2. ovoga članka mogu obavljati poslove veterinarske djelatnosti samo uz odobrenje za rad (licencu), koju daje Hrvatska veterinarska komora na vrijeme od pet godina.
+(4) Odobrenje za rad (licenca) iz stavka 3. ovoga članka, može se produljivati i oduzimati. Postupak, uvjete i način davanja, produljivanja i oduzimanja ovoga odobrenja (licence) propisuje ministar.
+(5) Poslove tehničke naravi, umjetno osjemenjivanje, dezinfekciju, dezinsekciju i deratizaciju te higijeničarske i druge poslove veterinarstva koji nisu sadržani u odredbi stavka 2. ovoga članka, obavljaju veterinarski tehničari po nalogu veterinara i prema pravilima struke.

@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Inspekcija životinja i životinjskih proizvoda, u smislu ovoga Zakona, je veterinarsko-zdravstveni pregled, kontrola i nadzor, koji se provode nad životinjama, životinjskim proizvodima, životinjskim sjemenom i oplođenim jajnim stanicama, objektima, opremom i sredstvima, radi zaštite zdravlja ljudi i životinja, veterinarske zaštite dobrobiti životinja, odnosno radi utvrđivanja zdravstvenog stanja životinja i zdravstvene ispravnosti životinjskih proizvoda, koji mogu biti prijenosnici zaraznih bolesti ljudi i životinja ili na drugi način ugroziti njihovo zdravlje.
+(2) Inspekcija iz stavka 1. ovoga članka, odnosi se na sredstva i uvjete prijevoza, utvrđivanje identiteta i mjesta podrijetla životinja, uzimanje službenih uzoraka te na laboratorijske pretrage.
+(3) Inspekcija iz stavka 1. i 2. ovoga članka provodi se u skladu s odredbama ovoga Zakona te pravilima struke i znanosti.

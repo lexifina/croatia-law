@@ -1,0 +1,6 @@
+# Članak 71.
+(1) Za pošiljke životinjskih proizvoda, drugih roba koje sadrže sastojke životinjskog podrijetla, za pošiljke životinjske hrane, sirovina i aditiva što služe za proizvodnju životinjske hrane, veterinarskih lijekova i predmeta kojima se mogu prenositi zarazne bolesti ili ugroziti zdravlje ljudi i životinja, koje se uvoze u slobodne zone ili se privremeno skladište u carinska, konsignacijska i druga skladišta za neocarinjenu robu u Republici Hrvatskoj, primjenjuju se odredbe ovoga Zakona.
+(2) Robe iz stavka 1. ovoga članka nalaze se pod nadzorom graničnog veterinarskog inspektora.
+(3) Proizvodi iz stavka 1. ovoga članka u slobodnim zonama pakiraju se, prerađuju i dorađuju, pod veterinarsko-zdravstvenom kontrolom i nadzorom graničnog veterinarskog inspektora.
+(4) Troškove izlaska graničnog veterinarskog inspektora radi pregleda utovara i istovara robe u skladištu i smjestištu iz stavka 1. ovoga članka izvan mjesta u kojem je sjedište granične veterinarske inspekcije, naplaćuje se od podnositelja zahtjeva u iznosu koji određuje ministar.
+(5) Objekti u slobodnim zonama i konsignacijska skladišta iz stavka 1. ovoga članka moraju udovoljavati uvjetima propisanim u članku 19. i 25. ovoga Zakona.

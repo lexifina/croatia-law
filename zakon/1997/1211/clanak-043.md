@@ -1,0 +1,2 @@
+# Članak 43.
+Kad se pojavi zarazna bolest koja se brzo širi i koja može nanijeti veliku gospodarsku štetu, kao i u slučajevima ugroženosti od pojave ili pojave osobito opasne zarazne bolesti iz članka 8. ovoga Zakona, Veterinarski ured dužan je odrediti skupine veterinara i drugih djelatnika s epizootiološkog područja, radi provođenja mjera za suzbijanje i iskorjenjivanje zarazne bolesti, a ovisno o razini ugroženosti može zatražiti i sudjelovanje civilne zaštite.

@@ -1,0 +1,5 @@
+# Članak 78.
+(1) Posjednici životinja, veterinarski djelatnici te proizvođači životinjskih proizvoda, moraju se pridržavati propisanih preventivnih mjera i određenih rokova karencije, prilikom uporabe lijekova i drugih tvari koje se mogu prenijeti na životinjske proizvode, kako bi se spriječila pojava nedopuštenih rezidua.
+(2) Proizvodi životinjskoga podrijetla namijenjeni prehrani ljudi, koji sadrže ili sadrže u količinama većim od dopuštenih, rezidue i druge onečišćivače škodljive za ljudsko zdravlje ne smiju se stavljati u promet za javnu potrošnju.
+(3) Maksimalno dopuštene količine rezidua i drugih onečišćivača u izlučevinama i tjelesnim tekućinama živih životinja, organima i tkivima zaklanih životinja i mesu, te sustav uzimanja uzoraka, laboratorijske metode i ciljna tkiva za njihovo određivanje, propisuje ministar.
+(4) Radi zaštite javnoga zdravlja monitoring program sustavnoga praćenja rezidua i drugih za ljudsko zdravlje škodljivih onečišćivača, u proizvodima životinjskoga podrijetla koji su namijenjeni prehrani ljudi, propisuje ministar.

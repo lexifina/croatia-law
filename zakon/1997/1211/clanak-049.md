@@ -1,0 +1,2 @@
+# Članak 49.
+Službene osobe nadležne policijske uprave na zaraženom ili ugroženom području, u granicama svoje ovlasti, pružaju nadležnom Veterinarskom uredu, na njegov zahtjev, pomoć pri zaprečavanju zaraženih mjesta i područja, ograničenju prometa životinja, zabrani kretanja životinja i osoba na zaraženom području, kao i pri provedbi drugih mjera za zaštitu zdravlja životinja od zaraznih bolesti.
