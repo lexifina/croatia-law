@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 1. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, broj 143/2002) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvatske je na sjednici održanoj 17. srpnja 2003. godine, donijela
