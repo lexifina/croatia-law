@@ -1,0 +1,3 @@
+## o zabrani izvoza i prometa određenih proizvoda izvan teritorija Republike Hrvatske
+# Članak 1.
+Poduzećima, drugim pravnim i fizičkim osobama koje se batve proizvodnjom, odnosno prometom robe, zabranjuje se izvoz i prodaja izvan teritorija Republike Hrvatske, sljedećih proizvoda: - merkantilna pšenica, pšenično brašno i tjestenina, - šećerna repa i šećer, - uljarice, sirovo i rafinirano jestivo ulje. - kukuruz, - živa stoka, svježe meso i mlijeko. Prodajom iz stavka 1. ovoga članka ne smatra se prodaja građanima s prebivalištem izvan teritorija Republike Hrvatske, za vlastite potrebe u krajnjoj potrošnji.
