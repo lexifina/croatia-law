@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Evidencija o radnim mjestima, odnosno zanimanjima na kojima se staž osiguranja računa s povećanim trajanjem i evidenciju o osiguranicima kojima se staž osiguranja računa s povećanim trajanjem vodi Zavod, na način i po postupku propisanom općim aktom toga Zavoda (članak 94. stavak 2. Zakona o mirovinskom osiguranju).
+(2) Radi uspostavljanja evidencija iz stavka 1. ovoga članka poslodavac je dužan ovlaštenoj osobi Zavoda omogućiti uvid u dokumentaciju radi provjere podataka o osiguranicima i radnim mjestima, odnosno zanimanjima na kojima se staž osiguranja računa s povećanim trajanjem.
+(3) Poslodavac je dužan u roku od 15 dana prijaviti Zavodu početak, promjenu i prestanak rada osiguranika koji rade na radnim mjestima iz članka 4. ovoga Zakona i u zanimanjima iz članka 5. ovoga Zakona.
