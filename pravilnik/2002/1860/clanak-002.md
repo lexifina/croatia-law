@@ -1,0 +1,2 @@
+# Članak 2.
+Podnositelji zahtjeva za stambeno zbrinjavanje iz članka 1. ovog Pravilnika, su osobe smještene u prognaničkim naseljima i drugim objektima organiziranog smještaja ili osobe koje se vraćaju u svoje ranije prebivalište ili se nastanjuju na područja posebne državne skrbi uključujući i korisnike stanova na kojima je prestalo stanarsko pravo temeljem Zakona o davanju u najam stanova na oslobođenom području (»Narodne novine«, br. 73/95).
