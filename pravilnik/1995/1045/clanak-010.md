@@ -1,0 +1,7 @@
+## II. NORMA RADA STRUČNIH SURADNIKA I OSTALIH DJELATNIKA ŠKOLE
+# Članak 10.
+Norma rada stručnih suradnika i ostalih djelatnika u organizacijsko-razvojnoj i administrativno-tehničkoj službi utvrđuju se u školi po vrstama poslova sukladno veličini, vrsti i ustrojstvu škole te obujmu poslova potrebnih za ostvarivanje programa škole te prema odredbama ovoga pravilnika na način da svaki djelatnik ostvaruje tjednu normu radnih sati utvrđenu zakonom.
+U školama koje imaju 20 i više razrednih odjela ustrojavaju se, u pravilu, dvije službe, i to: organizacijsko-razvojna služba kojom neposredno rukovodi ravnatelj škole, odnosno djelatnik određen statutom škole i administrativno-tehnička služba kojom rukovodi ravnatelj i koordinira tajnik škole, odnosno djelatnik određen statutom škole.
+U školama koje imaju 30 i više razrednih odjela mogu se ustrojiti i 3 službe (organizacijsko-razvojna, računovodstveno - financijska i administrativno - tehnička služba) kojima rukovodi ravnatelj a rad koordiniraju djelatnici određeni statutom škole.
+U školama koje imaju manje od 8 razrednih odjela ustrojava se u pravilu jedna služba kojom rukovodi ravnatelj, a radom u pojedinim odjelima službe koordiniraju djelatnici određeni statutom škole.
+Radom zasebnih dijelova škole (područne škole i slično) koordiniraju voditelji utvrđeni statutom škole ili godišnjim programom rada škole, odnosno drugim aktom škole.

@@ -1,0 +1,4 @@
+## III. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 20.
+Škole će usklađivanje svojega ustrojstva i rada, te broja djelatnika u nastavi i službama u školi prema odredbama ovog pravilnika obavit u roku od 60 dana od dana stupanja na snagu ovoga pravilnika, na način da škole koje nemaju utvrđena i popunjena radna mjesta sukladno ovome pravilniku, prethodno zatraže od Ministarstva suglasnost za otvaranje radnih mjesta i zapošljavanje djelatnika, a škole koje imaju više djelatnika od broja utvrđenog prema ovome pravilniku obave preraspored djelatnika i prijave županijskim uredima za školstvo tehnolokši višak djelatetika koji će nastati provedbom ovog pravilnika.
+Osnovne škole će u roku od 60 dana od objave ovoga pravilnika dostaviti Upravi za osiguravanje financijskih i materijalnih uvjeta rada Ministarstva, podatke o broju zaposlenih djelatnika i njihovim poslovima te o potrebnom broju djelatnika prema normativima utvrđenim ovim pravilnikom i njihovim poslovima.

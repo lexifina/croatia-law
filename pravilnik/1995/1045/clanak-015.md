@@ -1,0 +1,9 @@
+# Članak 15.
+Stručni suradnici škole su pedagog ili psiholog, defektolog u posebnim školama, te knjižničar.
+U sklopu ukupnih radnih obveza, stručni suradnik na radnom mjestu pedagoga, psihologa te defektologa koji je i voditelj smjene radi u nastavi ili je obvezan držati predavanja i konzultacije skupinama učenika, učitelja i voditeljima najmanje 5 do 10 sati tjedno, zavisno od veličine škole i odgojno-obrazovnih i socijalnih problema u školi, što se utvrđuje godišnjim planom i programom rada škole.
+Ukupan broj djelatnika za stručno-razvojne poslove na radnim mjestima pedagoga, psihologa, defektologa i socijalnog pedagoga u svim školama, osim specijalnih škola, utvrđuju se u skladu sa sljedećim normativima sati rada tjedno:
+a) u školi do 16 razrednih odjela - 30 sati stručno-razvojnih poslova;
+b) u školi od 17 do 20 razrednih odjela - 35 sati stručno-razvojnih poslova;
+c) u školi s preko 20 razrednih odjela na svaka 4 razredna odjela preko 20 razrednih odjela 8 sati a ostatak radi u nastavi.
+Sukladno normativima iz stavaka 1, 2, 3 i 4. ovoga članka i vrsti pretežitog dijela zadaća stručno-razvojne službe, škola odlučuje, uz prethodno pribavljeno mišljenje Ministarstva koja će vrsta stručnih suradnika obavljati ove poslove (pedagog ili psiholog, odnosno defektolog ili neki drugi stručni suradnik) te u skladu s tim utvrđuje radna mjesta.
+Škola koja nema punu tjednu normu sati rada za stručnog suradnika može utvrditi takvo radno mjesto samo uz dopunu sati rada stručnog suradnika u nastavi na poslovima voditelja knjižničara i slično, zavisno od vrste stručne spreme i sposobnosti koje ima stručni suradnik, odnosno može na radno mjeste stručnog suradnika dijelom radnog vremena rasporediti i drugog učitelja s najmanje 15 godina radnog iskustva u nastavi zavisno od vrste stručne spreme i sposobnosti koje ima, što se uređuje normativnim aktima škole sukladno Pravilnikom o vrsti stručne spreme učitelja i stručnih suradnika u osnovnoj školi.

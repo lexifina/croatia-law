@@ -1,0 +1,6 @@
+# Članak 9.
+Ukupne obveze učitelja utvrđuju se godišnjim planom i programom rada škole na način da se, temeljem članka 4, 5, 6, 7 i 8. ovoga pravilnika, odrede, u pravilu slijedeće strukture i količine rada:
+Prosječno po učitelju tijekom nastavne godine:
+____________________________________________________________ VRSTA POSLA TJEDNO TJEDNO TJEDNO ____________________________________________________________ I.NASTAVA - izvedba 20 21 22 24 (članak 4.) _____________________________________________________ - priprema i praćenje nastave - (članak 5.) 15 14 12 10 _____________________________________________________ Ukupno: 35 35 34 34 _____________________________________________________ 2. RAZREDNIŠTVO ILI DRUGI ODGOJNO OBRAZOVNI POSLOVI (članak 6.) 4 4 4 4 _____________________________________________________ 3.OSTALI POSLOVI (članak 8.) 3 3 4 4 Ukupno - tjedno 42 42 42 42 _____________________________________________________
+U tjednima kad nema nastave učitelj izvodi dio ostalih poslova utvrđenih člankom 8. točkom 2. ovoga pravilnika.
+U sklopu normativa iz stavka 1. ovoga članka može se mijenjati tjedna struktura radnog vremena kad to nalaže potreba izvedbe godišnjeg plana i programa rada škole, o čemu odlučuje ravnatelj škole, tako da se ne narušava struktura radnoga vremena osim pod uvjetima utvrđenim ovim pravilnikom.
