@@ -1,0 +1,3 @@
+# Članak 12.
+U članku 30. stavak 3. mijenja se i glasi:
+"Prilikom prodaje ili uvoza motornih vozila I plovnih objekata koji podliježu obvezi godišnje registracije; kao i za proizvode koje pravne osobe i građani sami izrađuju, a koji podliježu obvezi godišnje registracije, porez na promet proizvoda plaća se u roku od 15 dana od dana izdavanja računa odnosno od dana plaćenja carine i drugih uvoznih davanja, odnosno od dana prelaska preko carinske crte, kao i u roku od 15 dana od dana izrade proizvoda. Bez dokaza o plaćanju poreza na promet ne može se obaviti registracija motornog vozila, plovnog objekta ili drugog proizvoda koji podliježe obvezi registracije."
