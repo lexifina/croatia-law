@@ -1,0 +1,1 @@
+Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju industrijskog postrojenja za proizvodnju betonskih opločnika na području gospodarske zone za malo i srednje poduzetništvo Ogulin u k.o. Oš
