@@ -1,0 +1,2 @@
+# Članak 46.
+U članku 164. stavku 1. iza točke dodaju se rečenice koje glase: »Namirenje razlučnih vjerovnika obavlja se po pravilima ovršnoga prava, a ostalih vjerovnika po pravilima stečajnoga prava. Ako je vrijednost nekretnine utvrđena prije donošenja rješenja o prodaji, ta će se vrijednost u pravilu u zaključku o prodaji odrediti kao vrijednost nekretnine. Odredbe ovršnoga prava o pravnom položaju ovršenika i trećih osoba nakon prodaje nekretnine u ovršnom postupku primjenjuju se na odgovarajući način.«
