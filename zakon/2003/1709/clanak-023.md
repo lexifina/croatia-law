@@ -1,0 +1,23 @@
+# Članak 23.
+Komora obavlja sljedeće poslove:
+1. donosi etički kodeks medicinskih biokemičara i medicinske deontologije,
+2. prati i nadzire provođenje pravila etike i deontologije u medicinsko-biokemijskoj djelatnosti i poduzima odgovarajuće mjere u slučaju njihovog kršenja,
+3. daje stručna mišljenja kod pripreme propisa od utjecaja na razvoj zdravstvene struke,
+4. daje prijedlog plana potrebnih kadrova ministru nadležnom za zdravstvo,
+5. sudjeluje pri utvrđivanju standarda i normativa medicinsko-biokemijskih usluga,
+6. pruža zaštitu građanima u ostvarivanju prava s obzirom na kakvoću, sadržaj i vrstu medicinsko-biokemijske usluge koja im se pruža,
+7. surađuje sa zdravstvenom inspekcijom Ministarstva zdravstva,
+8. daje mišljenje o kvaliteti dijagnostičkih testova, reagencija, pribora i opreme koji podliježu registraciji,
+9. organizira dodatno usavršavanje za proširenje djelatnosti unutar struke s obzirom na nove dijagnostičko-terapijske metode, te trajnu izobrazbu svojih članova,
+10. propisuje uvjete stručnog usavršavanja medicinskih biokemičara zbog proširenja djelatnosti,
+11. prati i analizira problematiku te brine za usklađivanje razvoja medicinsko-biokemijske djelatnosti,
+12. daje mišljenje ministru nadležnom za zdravstvo u postupku osnivanja, preseljenja i prestanka rada medicinskih biokemičara u privatnoj praksi te početka i prestanka rada zdravstvenih ustanova s obzirom na utvrđenu mrežu zdravstvene djelatnosti te stručne i ekonomske interese svojih članova,
+13. daje mišljenje za rad medicinskih biokemičara u svojoj struci izvan punog radnog vremena,
+14. zastupa interese svojih članova kod sklapanja ugovora s Hrvatskim zavodom za zdravstveno osiguranje i drugim osiguravajućim društvima,
+15. propisuje način oglašavanja i način isticanja naziva privatne prakse,
+16. daje suglasnost na cijene medicinsko-biokemijskih usluga dobrovoljnog zdravstvenog osiguranja,
+17. daje prethodno mišljenje na akt Hrvatskog zavoda za zdravstveno osiguranje kojim se utvrđuje način provođenja plana i programa mjera zdravstvene zaštite, formiranje cijena zdravstvene zaštite i drugih osnova za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima koji čine mrežu zdravstvene djelatnosti,
+18. brine za pravnu pomoć svojim članovima,
+19. brine se o materijalnim i drugim interesima svojih članova,
+20. koordinira odnose među članovima te aktivno sudjeluje u rješavanju eventualno nastalih sporova među njima,
+21. obavlja i druge poslove određene zakonom.

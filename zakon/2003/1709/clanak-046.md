@@ -1,0 +1,2 @@
+# Članak 46.
+Ravnatelj zdravstvene ustanove, voditelj medicinsko-biokemijskog laboratorija, medicinski biokemičar koji obavlja privatnu praksu, medicinski biokemičar, odnosno drugi zdravstveni radnik koji radi na medicinsko-biokemijskim poslovima uz bolesnika ili u liječničkoj ordinaciji nad čijim radom se provodi stručni nadzor ima pravo uvida u zapisnik i pravo na prigovor, koji se unosi u zapisnik.
