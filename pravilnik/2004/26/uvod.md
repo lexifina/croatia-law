@@ -1,0 +1,1 @@
+Na temelju članka 57. stavak 2. Zakona o stomatološkoj djelatnosti (»Narodne novine« br. 121/03 i članka 164. stavak 2. Zakona o zdravstvenoj zaštiti (»Narodne novine« br. 121/03) Upravno vijeće Hrvatske stomatološke komore (u daljnjem tekstu: Komora), na svojoj 3. sjednici, održanoj 21. studenoga 2003. godine, uz suglasnost ministra nadležnog za zdravstvo donosi
