@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 1. Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (»Narodne novine«, br. 48/99 i 15/00) i članka 44. stavka 3. Zakona o zaštiti okoliša (»Narodne novine«, broj 82/94, 128/99), ministar zaštite okoliša i prostornog uređenja, donosi
