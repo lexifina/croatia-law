@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Na-rodne novine«, br. 94/2001 i 122/2002) i članka 10. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 4. lipnja 2003. godine donijela

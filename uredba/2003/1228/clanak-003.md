@@ -1,0 +1,3 @@
+# Članak 3.
+Stanove iz članka 1. ove Uredbe, čijim je korisnicima utvrđeno pravo na stambeno zbrinjavanje, Ministarstvo obrane predaje Ministarstvu sa cjelokupnom dokumentacijom, kao i službenom evidencijom kojom raspolaže, a koja se popisuje u zapisniku o izvršenoj primopredaji.
+Nakon izvršene primopredaje stana, isti se daje korisniku u najam na neodređeno vrijeme sa zaštićenom najamninom i pravom otkupa na način koji je propisan u članku 25. Uredbe o dodjeli stambenih kredita članovima obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata (»Narodne novine«, broj 97/2002).

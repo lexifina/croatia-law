@@ -1,0 +1,2 @@
+# Članak 2.
+Prije predaje stanova iz članka 1. ove Uredbe, Ministarstvo obrane dostavit će Ministarstvu popis osoba koje koriste te stanove i članova njihovih obitelji sa zahtjevima za dodjelu i kupnju stanova i podnijetom dokumentacijom, na temelju čega Ministarstvo, na osnovi članka 101. stavka 4. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, u skraćenom postupku o istim odlučuje.

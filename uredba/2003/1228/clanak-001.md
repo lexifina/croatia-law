@@ -1,0 +1,3 @@
+## O prijenosu prava upravljanja dijelom stanova u vlasniŠtvu Republike Hrvatske kojima upravlja Ministarstvo obrane
+# Članak 1.
+Ovom Uredbom prenosi se pravo upravljanja na stanovima u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane, a koriste ih kao prvi stan ili kuću članovi obitelji poginuloga, zatočenoga ili nestaloga hrvatskoga branitelja iz Domovinskog rata i HRVI iz Domovinskog rata i članovi uže obitelji umrlog HRVI iz Domovinskog rata na dan stupanja na snagu Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, koji nisu korisnici obnove, na Ministarstvo hrvatskih branitelja iz Domovinskog rata (u daljnjem tekstu: Ministarstvo).
