@@ -1,0 +1,2 @@
+# Članak 16.
+Doktori medicine i doktori stomatologije koji osnovom odredaba članka 5. stavke 1. ove Odluke prvi put ulaze u sustav ugovornih doktora Zavoda na područjima gdje je osnovna mreža zdravstvene djelatnosti nepopunjena, mogu iznimno od odredaba stavke 2. članka 13. ove Odluke sklopiti ugovor sa Zavodom za manji broj osiguranih osoba od propisanog minimalnog broja osiguranih osoba, s time da taj manji broj ne može biti niži od 80% propisanog minimalnog broja za određenu djelatnost.

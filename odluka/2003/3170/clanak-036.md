@@ -1,0 +1,4 @@
+# Članak 36.
+Sudjelovanje osigurane osobe u pokriću dijela troškova zdravstvene zaštite iz osnovnog zdravstvenog osiguranja utvrđeno je u skladu s člankom 17. stavkom 2. točkom 2. - 6. i stavkom 3. istog članka Zakona, kao i Odlukom o opsegu prava na zdravstvenu zašititu iz osnovnog zdravstvenog osiguranja za 2003. godinu.
+Za izračun troškova sudjelovanja osigurane osobe u vrijednosti stomatološkog pomagala utvrđenog Pravilnikom o ortopedskim i drugim pomagalima, na razini primarne zdravstvene zaštite koristi se utvrđena vrijednost boda za specijalističko-konzilijarnu zdravstvenu zaštitu.
+Iznos naplaćenog sudjelovanja u dijelu troškova za pruženu zdravstvenu zaštitu od osigurane osobe, odnosno osiguravatelja dopunskog zdravstvenog osiguranja, čini prihod zdravstvene ustanove, odnosno privatnog zdravstvenog radnika.

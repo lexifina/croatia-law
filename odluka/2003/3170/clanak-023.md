@@ -1,0 +1,3 @@
+# Članak 23.
+Za provođenje specijalističko-konzilijarne zdravstvene zaštite, Zavod sklapa ugovore s poliklinikama, bolnicama i zdravstvenim zavodima čiji je osnivači država, županija, odnosno Grad Zagreb, te privatnim zdravstvenim radnicima više i srednje stručne spreme za obavljanje djelatnosti fizikalne terapije u kući bolesnika.
+Iznimno od odredbe stavke 1. ovoga članka, Zavod sklapa ugovore za provođenje specijalističko-konzilijarne zdravstvene zaštite s domovima zdravlja i privatnim zdravstvenim radnicima - specijalistima u zakupu u domu zdravlja, s privatnim poliklinikama, odnosno s privatnim zdravstvenim radnicima - specijalistima prema potrebama, a prema prethodno dobivenoj suglasnosti ministra nadležnog za zdravstvo.

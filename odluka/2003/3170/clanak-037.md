@@ -1,0 +1,4 @@
+# Članak 37.
+Ugovorne zdravstvene ustanove koje provode bolničku i specijalističko-konzilijarnu zdravstvenu zaštitu, ispostavljaju račune Zavodu prema ugovorenim kapacitetima, odnosno broju i vrsti ugovorenih PPTP postupaka.
+Financijska sredstva za sve razine zdravstvene zaštite, a prema vrstama zdravstvene zaštite, utvrđena su Odlukom o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvatske u prvom tromjesečju 2004. godine i Privremenim planom prihoda i izdataka Zavoda za razdoblje od 1. siječnja do 31. ožujka 2004. godine i ne mogu se premašiti.
+Odlukom Upravnog vijeća Zavoda utvrdit će se iznos do kojeg ugovorna zdravstvena ustanova, odnosno ugovorni privatni zdravstveni radnik mogu tijekom prvog tromjesečja 2004. godine ispostavljati Zavodu račune za izvršene medicinske usluge.

@@ -1,0 +1,12 @@
+# Članak 5.
+Iznimno, tijekom prvog tromjesečja 2004. godine radi popune osnovne mreže zdravstvene djelatnosti na područjima gdje je osnovna mreža zdravstvene djelatnosti nepopunjena i nadalje traje Poziv na izbor izabranog doktora medicine/stomatologije i Natječaj za popunjenje mreže raspisani u rujnu, odnosno listopadu 2003. godine, a radi sklapanja ugovora za provođenje zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za razdoblje od 1. siječnja do 31. ožujka 2004. godine.
+Kada se na natječaj iz stavke 1. ovog članka za određenu djelatnost, odnosno područje prijavi više ponuditelja od traženog broja izvršitelja, a koji zadovoljavaju propisane kriterije za sklapanje ugovora iz određene djelatnosti, prednost će imati ponuditelji prema kriterijima i redoslijedu kako slijedi:
+1. ponuditelj specijalist medicine za djelatnost za koju se raspisuje natječaj
+2. ponuditelj s većim brojem opredijeljenih osiguranih osoba
+3. ponuditelj čija je ordinacija dostupnija najvećem broju opredijeljenih osiguranih osoba s obzirom na područje za koje se raspisuje natječaj
+4. ponuditelj kojem se sjedište zdravstvene ustanove ili ordinacije privatne prakse nalazi na području za koje se raspisuje natječaj.
+Pri donošenju odluke o odabiru kriterija iz prethodne stavke, kriteriji se primjenjuju načinom eliminacije i to tako da se prvo procjenjuje prvi kriterij, a ako ga niti jedan ponuditelj ne zadovoljava ili ga oba zadovoljavaju, procjenjuje se drugi kriterij i tako redom dok se ne dobije najpovoljniji ponuditelj.
+Kada ni nakon primjene svih kriterija propisanih stavkom 2. ovog članka i nadalje ostanu dva ili više jednako prihvatljiva ponuditelja, odluku o izboru najpovoljnijeg ponuditelja donosi arbitraža iz članka 86. stavke 4. Zakona.
+S odabranim ponuditeljem Zavod sklapa ugovor o provođenju zdravstvene zaštite na pojedinoj razini zdravstvene djelatnosti za odgovarajuće razdoblje tijekom prvog tromjesečja.
+Iznimno, tijekom prvog tromjesečja 2004. godine s privatnim zdravstvenim ustanovama i privatnim zdravstvenim radnicima kojima je osnovom rješenja ministra nadležnog za zdravstvo odobren rad u djelatnosti koja se obavlja samo u sklopu osnovne mreže te zdravstvene djelatnosti, Zavod sklapa ugovore za odgovarajuće razdoblje tijekom tog tromjesečja.
+Ugovorna zdravstvena ustanova i ugovorni privatni zdravstveni radnik obvezni su istaknuti naziv da su ugovorna zdravstvena ustanova i ugovorni privatni zdravstveni radnik, te naznačiti ugovorenu zdravstvenu djelatnost.
