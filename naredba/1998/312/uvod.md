@@ -1,0 +1,1 @@
+Na temelju članka 188. stavka 2. Zakona o zdravstvenoj zaštiti ("Narodne novine" broj 1/98 - pročišćeni tekst) i članka 12. stavka 1. Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta ("Narodne novine" broj 6/96, 29/97 i 1/98) ministar zdravstva donosi
