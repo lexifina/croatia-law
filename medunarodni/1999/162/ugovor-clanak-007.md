@@ -1,0 +1,2 @@
+# Članak 7.
+Ugovorne stranke surađivat će u razvitku uzajamnih gospodarskih i trgovinskih odnosa. Sukladno nacionalnom zakonodavstvu osiguravat će povoljne uvjete za poduzetničke i druge djelatnosti fizičkih i pravnih osoba jedne države ugovornice u drugoj državi ugovornici. U tom smislu poticat će zajednička ulaganja, osnivanje mješovitih poduzeća i banaka, uključujući i sudjelovanje partnera iz trećih zemalja.

@@ -1,0 +1,2 @@
+# Članak 1.
+U svojim međudržavnim vezama i u međunarodnoj aktivnosti Republika Hrvatska i Republika Makedonija međusobno se odnose kao prijateljske zemlje i razvijat će svoje odnose na osnovama uzajamnog uvažavanja, povjerenja i suradnje, te će se dosljedno rukovoditi načelima suverenosti, jednakosti i poštivanja prava, kao i suvereniteta u skladu s pravilima međunarodnog prava i načelima Završnog akta helsinške konferencije.
