@@ -1,0 +1,2 @@
+# Članak 2.
+Odluku o koncesiji donosi Zastupnički dom Sabora Republike Hrvatske, ako posebnim zakonom nije drugačije određeno. Prijedlog za donošenje odluke o koncesiji podnosi Vlada Republike Hrvatske nakon pribavljenog mišljenja izvršnog odbora općine ili grada ili županije na čijem se području stječe pravo gospodarskog korištenja dobara iz članka 1. ovoga Zakona. Zastupnički dom Sabora Republike Hrvatske može ovlastiti Vladu Republike Hrvatske da donosi odluku o koncesiji.
