@@ -1,0 +1,2 @@
+# Članak 22.
+U članku 2. stavku 2., članku 5. stavku 2., članku 6. stavku 3., članku 11. stavku 2.. članku 12. do 15.. članku 28. do 34., članku 35. stavku 1., članku 36. stavku 1., 2. i 5., članku 42. stavku 2. i 3., članku 57. stavku 3., članku 58., članku 61., članku 77. stavku 7., članku 83. stavku 2. riječi: "učinioc" i "učinilac" u odgovarajućim padežima zamjenjuju se riječju: "počinitelj" u odgovarajućem padežu.
