@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o prihvačanju članstva Republike Hrvatske u Međunarodnom monetarnom fondu i drugim međunarodnim financijskim organizacijama na temelju sukcesije ("Narodne novine", broj 89/92.), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1993. godine donijela
