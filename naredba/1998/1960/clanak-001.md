@@ -1,0 +1,2 @@
+# Članak 1.
+U Naredbi o visni i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, umjeravanja etalona, ispitivanja uzoraka referencijskih materijala, ovjeravanja mjerila, provjere pakovina i ispitivanja osposobljenosti laboratorija ("Narodne novine", broj 43/97), u Tarifi za ovjeravanje mjerila, provjeru pakovina i ispitivanje osposobljenosti laboratorija u tarifnom broju 1 točka 3. brišu se riječi "za drvo".
