@@ -1,0 +1,5 @@
+# Članak 2.
+Cijene zdravstvenih usluga u stacionarnim organizacijama zdravstva za bolničko liječenje utvrđuju se na osnovi cijene bolno-opskrbnog dana u pojedinim strukama i djelatnostima, s time, da se cijena bolno-opskrbnog dana sastoji od stalnih veličina koju sačinjava medicinski rad i smještaj (fiksni elementi) i promjenjivih veličina koje sačinjavaju terapija i dijagnostika (varijabilni elementi) koji se obračunavaju na osnovi stvarno izvršenih usluga pomnoženih sa cijenom usluge.
+Osim toga, u visoho diferenciranoj zdravstvenoj zaštiti posebito se mogu obračunavati i skuplji repromaterijali i lijekovi koji prelaze vrijednost od 20 DEM s time, da se moraju dokumentirati uz račun.
+Cjenik zdravstvenih usluga stacionarnih organizacija zdravstva, predstavljaju prosječne vrijednosti za sve klinike, odjele i zavode, s time da se cijene pojedinih klinika ili kliničkih odjela povećavaju prema slijedećem kriteriju:
+- na kliničkim odjelima povećavaju se cijene medicinskog rada terapije i dijagnostike za 20%.
