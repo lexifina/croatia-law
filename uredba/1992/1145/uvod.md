@@ -1,0 +1,1 @@
+Na osnovi članka 8. stavak 2. Zakona o postupanju s objektima građenim protivno prostornim planovima i bez odobrenja za građenje ("Narodne novine", br. 33/92) Vlada Republike Hrvatske na sjednici odrianoj 16. srpnja 1992. godine, donijela je

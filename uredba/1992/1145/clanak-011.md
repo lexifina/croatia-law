@@ -1,0 +1,5 @@
+# Članak 11.
+Vrijednost boda za izračunavanje visine naknade iznosi za općine:
+1. Buje, Poreč, Rovinj, Pula, Labin, Opatija, Rijeka, Crikvenica, Senj, Gospić, Zadar, Obrovac, Benkovac, Biograd n/m, Šibenik, Trogir, Kaštela, Solin, Split, Omiš, Makarska, Ploče, Metković, Dubrovnik, Krk, Cres-Lošinj, Rab, Pag, Brač, Hvar, Vis, Korčula, Lastovo i Grad Zagreb 3000 HRD
+2. Beli Manastir, Bjelovar, Čakovec, Daruvar, Donja Stubica, Donji Miholjac, Drniš, Duga Resa, Đakovo, Đurđevac, Glina, Imotski, Ivanec, Ivanić-Grad, Jastrebarsko, Karlovac, Knin, Koprivnica, Krapina, Križevci, Kutina, Ludbreg, Našice, Nova Gradiška, Novi Marof, Novska, Ogulin, Osijek, Otočac, Pakrac, Petrinja, Podravska Slatina, Sinj, Sisak, Požega, Slavonski Brod, Valpovo, Varaždin, Vinkovci, Virovitica, Vrbovec, Vukovar, Zabok, Zlatar Bistrica i Županja 2000 HRD
+3. Buzet, Čabar, Čazma, Delnice, Donji Lapac, Dvor, Garešnica, Gračac, Grubišno Polje, Klanjec, Kostajnica, Orahovica, Ozalj, Pazin, Pregrada, Slunj, Sveti Ivan Zelina, Titova Korenica, Vojnić, Vrbovsko, Vrginmost i Vrgorac 1000 HRD
