@@ -1,0 +1,5 @@
+## Kabinet glavnog inspektora
+# Članak 4.
+Kabinet glavnog inspektora je unutarnja ustrojstvena jedinica Inspektorata u kojoj se obavljaju administrativni i stručni poslovi za glavnog inspektora i njegovog zamjenika, protokolarni poslovi, poslovi u svezi predstavki i pritužbi građana, kontakata i komunikacije s Hrvatskim saborom, Vladom Republike Hrvatske, središnjim tijelima državne uprave, poslovi dokumentacije, poslovi u svezi odnosa sa sredstvima javnog priopćavanja, poslovi pribavljanja dokumentacije i materijala od službi i drugih unutarnjih ustrojstvenih jedinica za potrebe glavnog inspektora i njegovoga zamjenika, poslovi u svezi s primanjem i rješavanjem pošte upućene glavnom inspektoru i njegovom zamjeniku, poslovi u svezi evidentiranja i pohranom pošte s povjerljivim podacima, prevoditeljski poslovi kao i drugi stručni i administrativni poslovi u svezi s realizacijom programa rada i aktivnosti glavnog inspektora i njegovog zamjenika.
+III. DJELOKRUG I USTROJSTVO SLUŽBI U SASTAVU INSPEKTORATA
+1. SluŽba pravnih poslova

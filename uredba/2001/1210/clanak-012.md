@@ -1,0 +1,6 @@
+# Članak 12.
+Služba nadzora u području trgovine, ugostiteljstva i obrta je unutarnja ustrojstvena jedinica u sastavu Inspektorata koja obavlja inspekcijske i druge poslove koji se odnose na primjenu zakona i drugih propisa u području trgovine; ugostiteljstva i turizma; naplatu boravišne pristojbe, prijave i odjave turista; obavljanja obrta; zaštite potrošača; cijena, pristojbi, pretplata; ispravnost mjerila, uporaba mjernih jedinica; promet, umnožavanje, reproduciranje glazbenih djela i računalnih programa; zaštitu industrijskog obličja, žigova i oznaka zemljopisnog podrijetla; proizvodnju i prometa proizvoda koji su izrađeni prema izumu; međunarodnog otpremništva; trgovine predmetima od plemenitih kovina; promet roba iz robnih zaliha; izradu prijedloga plana i programa rada kao i izvješća o obavljenom nadzoru i poduzetim mjerama; surađuje s drugim tijelima državne uprave, pravnim osobama s javnim ovlastima u zemlji i odgovarajućim tijelima u inozemstvu, izrađuje nacrte drugostupanjskih rješenja za upravna područja iz svog djelokruga, izrađuje prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe te obavlja i druge poslove koje joj odredi glavni inspektor.
+Za obavljanje poslova službe nadzora u području trgovine, ugostiteljstva i obrta ustrojavaju se odjeli:
+a) Odjel trgovine i obrta
+b) Odjel ugostiteljstva i turizma
+a) Odjel trgovine i obrta

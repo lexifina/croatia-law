@@ -1,0 +1,4 @@
+# Članak 16.
+Odjel kakvoće proizvoda iz uvoza i domaće proizvodnje obavlja poslove inspekcijskog nadzora nad primjenom zakona i drugih propisa kojima se uređuje nadzor kakvoće proizvoda iz uvoza glede temeljnih zahtjeva, odnosno kakvoće; normi čija je primjena obvezna; sustava i ocjenjivanja sukladnosti proizvoda s temeljnim zahtjevima i normama; isprava koje moraju imati proizvodi; deklariranja, označavanja, obilježavanja i pakiranja; izrađuje naputke za rad inspektora za provođenje nadzora iz svog djelokruga, pruža stručnu pomoć i usmjerava na određene zadaće i poslove, izrađuje prijedloge naputaka za rad inspektora za provođenje nadzora iz svog djelokruga, inicira izmjene i dopune propisa iz svog djelokruga, te obavlja i druge poslove koje odredi glavni inspektor.
+Za obavljanje poslova iz djelokruga Odjela kakvoće proizvoda iz uvoza i domaće proizvodnje određuju se dva samostalna izvršitelja u Zagrebu.
+b) Odjel kakvoće proizvoda u prometu

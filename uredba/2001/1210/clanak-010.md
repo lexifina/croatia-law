@@ -1,0 +1,3 @@
+# Članak 10.
+Odjel općih poslova obavlja poslove koji se odnose na prijem i otpremu, evidentiranja pismena i vodi pismohranu; obavlja poslove prijepisa i umnožavanja materijala, oblikuje prepisane i umnožene tekstove za distribuciju i krajnjeg korisnika; obavlja vanjsku i unutarnju dostavu pošte, poništava pristojbe, vodi kontrolnik poštarine, ulaže gotove predmete u arhivu, sređuje i čuva arhivu, rukuje s predmetima u arhivi, vodi arhivsku knjigu i daje spise na uvid djelatnicima, obavlja razlučivanje i uništavanje zastarjele arhivske građe, podnosi izvješća o stanju primljenih, riješenih i neriješenih predmeta te obavlja druge poslove što ih odredi glavni inspektor.
+c) Odjel informatike

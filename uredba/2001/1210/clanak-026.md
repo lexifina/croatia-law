@@ -1,0 +1,4 @@
+# Članak 26.
+Odjel u području rudarstva nadzire primjenu zakona i drugih propisa kojima se uređuje istraživanje i eksploatacija mineralnih sirovina; propisa o tehničkim normativima, zaštiti na radu, sigurnosti ljudi i imovine; zaštita čovjekova okoliša; hrvatskih normi, zaštitu od požara u rudarskim podzemnim objektima i tehničkim normativima kod
+podzemnih vodo istra‚nih i geoloških istra‚nih radova koji se izvode izradom podzemnih postrojenja; predlaže izmjene i dopune zakona i drugih propisa; izrađuje prijedloge programa rada; izrađuje izvješće o obavljenom nadzoru u poduzetim mjerama predlaže i izrađuje upute za rad inspektora iz svog djelokruga, izrađuje nacrte drugostupanjskih rješenja i prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe, brine o provođenju metodologije rada; pruža stručnu pomoć, te obavlja i druge poslove koje odredi glavni inspektor.
+c) Odjel u području posuda pod tlakom

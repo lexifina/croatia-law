@@ -1,0 +1,4 @@
+# Članak 20.
+Odjel u području šumarstva i lovstva obavlja inspekcijske poslove koji se odnose na nadzor primjene i provedbe zakona i drugih propisa u vezi gospodarenja šumama i šumskim zemljištima; proizvodnje, prometa i uporabe šumskog sjemena i šumskih sadnica; uzgoja, zaštite, lova i korištenja divljači; zaštite šuma od požara; predlaže programe rada, izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, predlaže i izrađuje prijedloge naputaka za rad inspektora, pruža stručnu pomoć i usmjerava na određene zadaće i poslove, brine se o provođenja metodologije rada, te obavlja i druge poslove koje odredi glavni inspektor.
+Za obavljanje poslova iz djelokruga Odjela u području šumarstva i lovstva određuju se po jedan samostalni izvršitelj u Gospiću, Zadru, Karlovcu i Bjelovaru.
+6. SluŽba nadzora u podruČju rada i zaŠtite na radU

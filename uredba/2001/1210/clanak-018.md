@@ -1,0 +1,6 @@
+# Članak 18.
+Služba nadzora u području poljoprivrede i šumarstva je unutarnja ustrojstvena jedinica u sastavu Inspektorata koja obavlja inspekcijske i druge poslove koji se odnose na: primjenu i provođenje zakona i drugih propisa u području vinogradarstva i vinarstva, slatkovodnog i morskog ribarstva, šumarstva i lovstva, te stočarstva; predlaže i organizira posebne akcije nadzora nad primjenom pojedinih propisa; prati i poduzima mjere i aktivnosti za pravovremeno i stručno obavljanje nadzora, inicira izmjene i dopune zakona i drugih propisa, izrađuje prijedloge programa rada; izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, predlaže i izrađuje upute za rad inspektora u provođenju nadzora nad primjenom propisa iz svog djelokruga; pruža stručnu pomoć i usmjerava na određene zadaće i poslove; brine o provođenju metodologije rada, izrađuje nacrte drugostupanjskih rješenja za upravna područja iz svog djelokruga, izrađuje prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe te obavlja i druge poslove koje joj odredi glavni inspektor.
+Za obavljanje poslova službe nadzora u području poljoprivrede i šumarstva ustrojavaju se odjeli:
+a) Odjel u području vinogradarstva, ribarstva i stočarstva
+b) Odjel u području šumarstva i lovstva
+a) Odjel u području vinogradarstva, ribarstva i stočarstva
