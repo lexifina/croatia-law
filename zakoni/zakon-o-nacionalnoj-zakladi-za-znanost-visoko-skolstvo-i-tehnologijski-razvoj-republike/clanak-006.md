@@ -1,0 +1,16 @@
+# Članak 6.
+(1) Upravni Odbor Zaklade donosi statut Zaklade, poslovnik o svom radu,
+pravilnik o uvjetima i postupku za dodjelu sredstava za ostvarivanje svrhe Zaklade,
+donosi odluke o dodjeli sredstava, upravlja i nadzire vođenje poslova Zaklade,
+odlučuje o korištenju imovine Zaklade, podnosi izvješća o radu zaklade te
+obavlja druge poslove sukladno zakonu i statutu Zaklade.
+(2) Predsjednik Upravnog odbora Zaklade zastupa Zakladu, provodi odluke
+Upravnog odbora, vodi poslove Zaklade sukladno odlukama Upravnog odbora,
+odgovoran je za zakonitost rada Zaklade, predlaže Upravnom odboru financijski
+plan i zaključni račun, podnosi izvješća Upravnom odboru o stanju poslova i
+financijskom stanju Zaklade, te obavlja druge poslove u skladu s ovim Zakonom,
+drugim propisima i statutom Zaklade.
+(3) Predsjednik Upravnog
+odbora može dati drugoj osobi pisanu punomoć za sklapanje određenih vrsta
+ugovora i poduzimanje drugih pravnih radnji, odnosno za sklapanje pojedinačno
+određenih ugovora i poduzimanje drugih pojedinačno određenih pravnih radnji.
