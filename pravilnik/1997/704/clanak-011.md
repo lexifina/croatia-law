@@ -1,0 +1,2 @@
+# Članak 11.
+Osobe koje ovlašćuje ministar nadležan za rad za obavljanje poslova iz članka 8. stavak 1. i članka 10. stavak 1. ovoga Pravilnika, a zaposlene su u stručnim ustanovama, trgovačkim društvima ili su fizičke osobe, mogu biti samo diplomirani inženjeri odgovarajuće struke s najmanje pet godina radnog iskustva na poslovima projektiranja objekata namijenjenih za rad, građenja ili stručnog nadzora, s položenim stručnim ispitom i posebnim ispitom iz zaštite na radu (članak 25. Zakona o zaštiti na radu).

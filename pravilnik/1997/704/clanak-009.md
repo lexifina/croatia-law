@@ -1,0 +1,3 @@
+# Članak 9.
+Inspekcija rada, odnosno njen ovlašteni stručni predstavnik sudjeluje u povjerenstvu za tehnički pregled izgrađenog objekta namijenjenog za rad čije članove imenuje tijelo graditeljstva nadležno za izdavanje uporabne dozvole.
+Inspekcija rada, odnosno njen ovlašteni stručni predstavnik u tehničkom pregledu izgrađenog objekta utvrđuje da li je objekt izgrađen u skladu s glavnim projektom i da li su primijenjeni propisi zaštite na radu, o čemu u zapisniku o izvršenom tehničkom pregledu unosi svoje mišljenje o tome, da li se izgrađeni objekt može koristiti ili se moraju prethodno otkloniti utvrđeni nedostaci ili se ne može izdati uporabna dozvola.

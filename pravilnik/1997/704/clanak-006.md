@@ -1,0 +1,2 @@
+# Članak 6.
+Inspekcije rada u područnim jedinicama ministarstva na područjima županija, sudjeluju u svim postupcima utvrđivanja da li su u glavnom projektu primijenjeni propisi zaštite na radu prije izdavanja građevnih dozvola i u radu povjerenstva za tehnički pregled izgrađenih objekata namijenjenih za rad iz članka 3. ovoga Pravilnika, osim za objekte navedene u članku 5. ovoga Pravilnika za koje to obavlja inspekcija rada u ministarstvu nadležnom za rad.

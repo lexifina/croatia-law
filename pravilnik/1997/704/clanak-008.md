@@ -1,0 +1,4 @@
+# Članak 8.
+Kada se radi o objektima namijenjenim za rad sa specifičnim tehnološkim procesima (npr. nuklearne elektrane i sl.), tada u iznimnim slučajevima ministar nadležan za rad na prijedlog inspekcije rada može ovlastiti stručnu ustanovu, trgovačko društvo, odnosno fizičke osobe, da sudjeluju u postupku utvrđivanja da li su u glavnom projektu primijenjeni propisi zaštite na radu.
+Stručna ustanova, trgovačko društvo, odnosno fizička osoba, nakon pregleda glavnog projekta na okolnost primjene propisa zaštite na radu, dužna je o tome izgraditi pismeni vještački nalaz s mišljenjem da li se za predmetnu građevinu može izdati suglasnost ili ne.
+Na osnovi nalaza s mišljenjem iz stavka 2. ovoga članka, inspekcija rada izdaje suglasnost na glavni projekt ili donosi rješenje o odbijanju izdavanja suglasnosti, ako u glavnom projektu nisu primijenjeni propisi zaštite na radu.

@@ -1,0 +1,2 @@
+# Članak 2.
+Odredbama ovoga Pravilnika propisuju se i uvjeti pod kojima inspekcija rada može ovlastiti stručne ustanove, trgovačka društva, odnosno fizičke osobe da umjesto nje sudjeluju u postupku utvrđivanja da li su u glavnom projektu primijenjeni propisi zaštite na radu i u radu povjerenstva za tehnički pregled izgrađenih objekata, te uvjete koje moraju ispunjavati stručne ustanove, trgovačka društva ili fizičke osobe za obavljanje tih poslova.

@@ -1,0 +1,4 @@
+# Članak 10.
+Kada se radi o objektima namijenjenim za rad sa specifičnim tehnološkim procesima, tada u iznimnim slučajevima ministar nadležan za rad na prijedlog inspekcije rada može ovlastiti stručnu ustanovu, trgovačko društvo, odnosno fizičke osobe, da uz inspektora rada sudjeluju u povjerenstvu za tehnički pregled izgrađenog objekta.
+Stručna ustanova, trgovačko društvo, odnosno fizička osoba zajedno s inspektorom rada utvrđuju da li je objekt izgrađen u skladu s glavnim projektom i da li su primijenjeni propisi zaštite na radu.
+Na osnovi zajednički utvrđenog stanja u pogledu primjene propisa zaštite na radu na izgrađenom objektu, u zapisnik o izvršenom tehničkom pregledu inspektor rada unosi svoje konačno mišljenje o tome, da li se izgrađeni objekt može koristiti ili se moraju prethodno otkloniti utvrđeni nedostaci ili se ne može izdati uporabna dozvola.
