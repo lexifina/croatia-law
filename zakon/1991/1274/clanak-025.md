@@ -1,0 +1,6 @@
+# Članak 25.
+Obrazac putne isprave sadrži: naziv "Republika Hrvatska" s utisnutim grbom Republike Hrvatske, natpis naziva vrste putne isprave, oznaku, serije i serijski broj, datum izdavanja i rok važenja putne isprave, mjesto za naziv i pečat nadležnag tijela koje je putnu ispravu izdalo te mjesto za potpis službene osobe.
+Obrazac putne isprave sadrži prostor za fotografiju i vlastoručni potpis, a obrazac putovnice, diplomatske putovnice i službene putovnlce i prostor za automatsko očitavanje podataka.
+Obrazac putne isprave, osim zajedničke putovnice, sadrži i prostor za upis slijedećih podataka: ime, prezime, datum, mjesto, općinu odnosno kotar rođenja, a za rođene u inozemstvu i državu rođenja, mjesto prebivališta i adresu stanovanja, a za građanina s prebivalištem u inozemstvu i državu prebivališta i jedinstveni matični broj građana.
+Obrazac zajedničke putovnice sadrži prostor za upis slijedećih podataka: državu u koju grupa putuje,ime, prezime, seriju i serijski broj putovnice vođe grupe i ime, prezime, datum, mjesto, općinu odnosno kotar rođenja i mjesto prebivališta članova grupe.
+Ministar unutarnjih poslova rješenjem utvrđuje cijenu koštanja obrasca putovnice, zajedničke putovnice i putnog lista koju snosi podnositelj zahtjeva.
