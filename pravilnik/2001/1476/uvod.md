@@ -1,0 +1,1 @@
+Na osnovi članka 11. stavka 2. Zakona o zdravstvenom osiguranju (»Narodne novine«, broj 75/93., 55/96., 1/97 - pročišćeni tekst, 109/97., 13/98, 88/98, 10/99., 34/99., 69/00. i 59/01.) ministar rada i socijalne skrbi, uz suglasnost ministra zdravstva, donosi

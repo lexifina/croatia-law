@@ -1,0 +1,3 @@
+# Članak 5.
+Postupak za priznavanje prava na zdravstvenu zaštitu, prema ovom Pravilniku, pokreće se po zahtjevu osobe, tijela, zdravstvene ustanove, centra za socijalnu skrb ili terapijske zajednice podnijetog Županijskom odnosno Gradskom uredu za rad, zdravstvo i socijalnu skrb na čijem području osoba ima prebivalište.
+Županijski odnosno Gradski ured za rad, zdravstvo i socijalnu skrb na osnovi pisanih dokaza o utvrđenim činjenicama iz članka 2. ovoga Pravilnika donosi rješenje o priznavanju prava iz stavka 1. ovoga članka u roku 15 dana od dana podnošenja zahtjeva ili pokretanja postupka po službenoj dužnosti, a najduže u roku 30 dana ako je potrebno provoditi poseban ispitni postupak.
