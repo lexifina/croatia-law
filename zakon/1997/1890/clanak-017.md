@@ -1,0 +1,4 @@
+# Članak 17.
+Ministarstvo hrvatskih branitelja iz Domovinskog rata preuzima državne službenike i namještenike Ministarstva obrane koji su na dan stupanja na snagu ovoga Zakona zatečeni na poslovima iz članka 14. ovoga Zakona, Državni inspektorat inspektore, druge državne službenike i namještenike zatečene na poslovima iz članka 12. ovoga Zakona, te Državna uprava za zaštitu prirode i okoliša državne službenike i namještenike zatečene na poslovima iz članka 11. stavka 2. ovoga Zakona.
+Do donošenja rješenja na temelju akata iz članka 16. stavka 2. ovoga Zakona, inspektori te drugi državni službenici i namještenici zadržavaju stečene položaje, zvanja i radna mjesta.
+Na državne službenike i namještenike koji nakon donošenja akata iz članka 16. stavka 2. ovoga Zakona ne budu raspoređeni, primjenjuju se odredbe Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", br. 74/94., 86/94. i 7/95.).
