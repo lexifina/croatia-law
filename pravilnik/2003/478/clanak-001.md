@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐudrŽavnog cestovnog graniČnog prijelaza II. kategorije Otok Virje
+# Članak 1.
+Područje stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Otok Virje, obuhvaća prostor od granične crte u dubinu teritorija Republike Hrvatske 177 metara, od čega 130 metara dužine i 9 metara širine otpada na most preko rijeke Drave, a 47 metara dužine i 15 metara širine obuhvaća područje obavljanja granične kontrole, a smješteno je na županijskoj cesti broj 2029 (Otok Virje - Vratno), na katastarskim česticama 2405/1., 2502. i 2468. k.o. Radovec.
+Područje graničnog prijelaza obuhvaća jednu ulaznu i jednu izlaznu prometnu traku, ukupne širine 7 metara, 3 kontejnera koje koriste policijski službenici i službenici carine, ulazno-izlaznu rampu, nadstrešnicu iznad mjesta obavljanja granične kontrole u dužini 9 metara i širine 11 metara, rasvjetna tijela te parkirališni prostor s lijeve strane gledano u pravcu granične crte.
+Ukupna površina područja graničnog prijelaza iznosi 1 867 m2.
