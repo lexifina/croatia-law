@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske i članka 62. stavka 3. Pomorskog zakonika ("Narodne novine", br. 17/94., 74/94. i 43/96.) Zastupnički dom Sabora Republike Hrvatske na sjednici 28. veljače 1997., donio je
