@@ -1,0 +1,9 @@
+# Članak 23.
+Članak 61. mijenja se i glasi:
+"Ovlaštena organizacija neće provesti naloge za plaćanje uz koje se istodobno moraju platiti zakonske obveze ili javni prihod ako prethodno nisu plaćene te obveze.
+Ovlaštena organizacija iz prethodnog stavka obavlja kontrolu točnosti obračuna i uplata doprinosa iz plaća i doprinosa na plaće.
+Ako pravna osoba i fizička osoba koja obavlja registriranu djelatnost ne isplaćuje plaću dužna je podnijeti ovlaštenoj organizaciji naloge za uplatu doprinosa u rokovima utvrđenim posebnim propisima.
+Ukoliko pravna i fizička osoba koja obavlja registriranu djelatnost iz prethodnog stavka ne podnese naloge za uplatu doprinosa, ovlaštena organizacija dužna je izvršiti obračun i naplatu s računa te pravne osobe i fizičke osobe koja obavlja registriranu djelatnost i to doprinos za zdravstveno osiguranje na temelju broja zaposlenih prema evidenciji Hrvatskog zavoda za zdravstveno osiguranje, a doprinos za mirovinsko i invalidsko osiguranje na osnovi broja zaposlenih prema evidenciji Hrvatskog zavoda za mirovinsko osiguranje.
+Naloge za uplatu doprinosa iz ovog članka ovlaštena organizacija izvršava prije evidentiranih neizvršenih naloga iz članka 33. stavka 4. ovoga Zakona.
+Pravne osobe koje isplaćuju dividende ili akontacije dividendi odnosno dobit ili akontaciju dobiti, dužne su pri davanju naloga za isplatu dividende odnosno dobiti podnijeti ovlaštenoj organizaciji potvrde Porezne uprave, Hrvatskog zavoda za mirovinsko osiguranje i Hrvatskog zavoda za zdravstveno osiguranje da su u cijelosti podmirile obveze uplate poreza, prireza i doprinosa. Ukoliko pravne osobe ne podnesu navedene potvrde, ovlaštena organizacija neće provesti naloge za isplatu dividende.
+Pravna osoba koja nije podmirila obveze uplate doprinosa za mirovinsko i zdravstveno osiguranje, kao i poreze, ne može davati pozajmice ili dotacije sindikalnim podružnicama odnosno stožerima".

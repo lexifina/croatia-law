@@ -1,0 +1,5 @@
+# Članak 13.
+Članak 26. mijenja se i glasi:
+"Nalozi za prisilnu naplatu, nalozi za plaćanje zakonskih obveza ili javnih prihoda i nalozi vjerovnika na osnovi vrijednosnih papira i instrumenata osiguranja plaćanja izvršavaju se iz sredstava sudionika koja se vode na njegovim računima kod svih ovlaštenih organizacija, ako zakonom ili propisom donesenim na temelju zakona nije drukčije određeno.
+Ovlaštena organizacija, koja vodi račun na koji glasi nalog iz stavka 1. ovog članka, upućuje drugim ovlaštenim organizacijama zahtjev za prijenos sredstava s računa platitelja koji se vode kod tih ovlaštenih organizacija na račun na koji glasi nalog za plaćanje i obavijest o prestanku prijenosa sredstava. Druga ovlaštena organizacija dužna je postupiti po primljenom zahtjevu i obavijesti.
+U nedostatku sredstava za izvršenje plaćanja iz stavka 1. ovoga članka u cijelosti ovlaštena organizacija, koja je primila nalog na izvršenje, izvršava nalog djelomično i o tome izvješćuje sudionike - platitelja i primatelja sredstava."
