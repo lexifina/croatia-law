@@ -1,0 +1,15 @@
+Obrazloženje
+Milka Brljević iz Vrgorca podnijela je prijedlog za ocjenu suglasnosti s Ustavom Republike Hrvatske odredbe članka 227. stavka 3. u izreci navedenog Zakona.
+Osporenom odredbom određena je dužnost vlasniku, odnosno osobi kojoj je vozilo povjereno, na zahtjev ovlaštene službene osobe, dati podatke o identitetu osobe kojoj je dao vozilo na upravljanje.
+Podnositeljica prijedloga smatra da je takva formulacija zakonske odredbe u nesuglasju s Ustavom Republike Hrvatske i to iz sljedećih razloga:
+- što obvezuje građane da im je dužnost davati podatke o identitetu osobe (u pravilu prekršitelja) kojem je vozilo dao na upravljanje i to bez obzira da li će time sebe ili najbližeg srodnika izložiti prekršajnom ili kaznenom progonu;
+- što je za taj prekršaj propisana nesrazmjerno veća kazna od kazne za prekršaj poradi kojeg ovlaštena službena osoba traži podatke tako da je na neki način građanin prisiljen iskazivati protiv sebe, sebi bliske osobe odnosno priznati krivnju pod prijetnjom sankcije, i konačno
+- što se teret dokaza prebacuje sa tužitelja na okrivljenika, a što da je u suprotnosti Ustavu i civilizacijskim dosezima suvremenog sudstva.
+Podnositeljica prijedloga nije pobliže odredila s kojim bi odredbama Ustava Republike Hrvatske predmetna zakonska odredba bila u nesuglasju.
+Prijedlog nije osnovan.
+Rješenjem broj: U-I-529/1996 od 16. listopada 1996. godine Ustavni sud Republike Hrvatske nije prihvatio prijedlog za pokretanje postupka ustavnosti članka 227. stavka 3. predmetnog Zakona.
+Razlozi rješenja sadrže stajalište da osporena odredba nije protivna odredbama članaka 35. i 61. Ustava Republike Hrvatske. Ovo stoga, što se obvezivanjem vlasnika vozila da dade podatke o osobi kojoj je povjerio upravljanje vozila i propisivanjem kazne za nedavanje podataka ne prisiljava građane da iskazuju i prijavljuju članove svoje obitelji, jer se u slučaju davanja podataka ovlaštenim tijelima vlasnik vozila ne saslušava kao svjedok, već samo daje podatke o identitetu vozača kojem je povjerio vozilo na upravljanje.
+Konačno, članak 5. Ustava obvezuje sve građane na poštivanje pravnog poretka, a to uključuje i davanje podataka službenim tijelima o određenim činjenicama bitnim za održavanje javnog reda, a u konkretnom slučaju i o tome tko je u određenom trenutku upravljao vozilom.
+Odredbom članka 52. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 99/99) određeno je da Ustavni sud može ocjenjivati suglasnost zakona s Ustavom, odnosno suglasnost drugih propisa s Ustavom i zakonom i u slučaju kada je određeni zakon ili drugi propis već ranije bio predmetom ustavnosudske ocjene.
+Međutim, kako podnositeljica prijedloga u svojem prijedlogu za pokretanje postupka za ocjenu odredbe navedene u izreci rješenja nije ukazala na neke nove okolnosti koje bi ukazivale na potrebu ponovnog preispitivanja osporene zakonske odredbe u odnosu na te okolnosti, to je Ustavni sud, na temelju odredbe članka 41. stavka 1. i 2. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, odlučio kao u izreci.
+Odluka o objavi temelji se na odredbi članka 28. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
