@@ -1,0 +1,2 @@
+# Članak 5.
+Prirez porezu na dohodak uvodi se u svrhu izgradnje cjelovitoga vodoopskrbnog sustava za područje općine Hum na Sutli (izgradnja primarne i sekundarne vodovodne mreže južnog i istočnog dijela općine, odnosno podsustava Kostel - Klenovec; izgradnja vodospremnika, precrpnih stanica, te primarne i sekundarne vodovodne mreže zapadnog i središnjeg dijela općine, odnosno podsustava Harina Zlaka - Hum na Sutli) i traje do 31. 12. 2008. godine.

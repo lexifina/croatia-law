@@ -1,0 +1,1 @@
+Na temelju članka 30. i 95. Zakona o financiranju lokalne i područne (regionalne) samouprave (Narodne novine br. 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 19. Statuta općine Hum na Sutli (»Službeni glasnik Krapinsko-zagorske županije« br. 16/01), Općinsko vijeće općine Hum na Sutli na sjednici održanoj 3. svibnja 2004. godine donijelo je sljedeću
