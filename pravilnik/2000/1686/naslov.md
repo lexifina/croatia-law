@@ -1,0 +1,1 @@
+Pravilnik o postupku i načinu izdavanja dopuštenja za obavljanje podvodnih aktivnosti u dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske koji su zaštićeni kao kulturno dobro

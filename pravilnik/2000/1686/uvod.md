@@ -1,0 +1,1 @@
+Na temelju članka 49. i 78. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine« 69/99), a radi provedbe članka 10. točka b. Pravilnika o obavljanju podvodnih aktivnosti (»Narodne novine« 47/99), ministar kulture donosi
