@@ -1,0 +1,2 @@
+# Članak 4.
+Danom stupanja na snagu ove uredbe prestaje se primjenjivati točka 18. članka 1. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republićki zakoni ("Narodne novine", br. 53/91). Propisi doneseni za izvršavanje zakona iz stavka 1. ovoga članka primjenjuju se do stupanja na snagu propisa za izvršenje ove uredbe, ali najduže tri mjeseca.

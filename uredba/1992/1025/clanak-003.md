@@ -1,0 +1,2 @@
+# Članak 3.
+Obračun, naplata i vraćanje posebne takse na uvezenu robu vrši se odgovarajućom primjenom propisa o obračunu, naplati i vraćanju carine. Odredbe Carinskog zakona ("Narodne novine", br. 53A/91, 33/92 i 39/92), u dijelu koji se odnosi na propisivanje odgovornosti za privredne prijestupe i prekršaje, odgovarajuće se primjenjuju i u odnosu na povrede propisa o posebnoj taksi na uvezenu robu.
