@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine«, broj 117/99, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 68. Statuta Općine Sveta Nedelja (»Službene novine Općine Sveta Nedelja«, broj 5/01), Općinsko vijeće Općine Sveta Nedelja na svojoj sjednici održanoj dana 15. srpnja 2002. godine donijelo je
