@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Mladen Žuvela, dopredsjednik Suda te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović i Ivan Marijan Severinac, odlučujući o prijedlozima za ocjenu ustavnosti i zakonitosti, na sjednici održanoj dana 3. veljače 1999. godine, donio je
