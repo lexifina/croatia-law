@@ -1,0 +1,5 @@
+# Članak 11.
+Uprava za međunarodne financijske odnose priprema nacrte zakonskih i drugih propisa koji se odnose na financijske odnose s inozemstvom, obavlja poslove koji proizlaze iz multilateralne i bilateralne financijske i kreditne suradnje s međunarodnim i regionalnim financijskim institucijama, inozemnim vladama i komercijalnim bankama, priprema osnove za vođenje pregovora za zaključivanje i korištenje inozemnih kredita i drugih financijskih aranžmana, priprema prijedloge odluka o izdavanju jamstva po inozemnim kreditima, prati i analizira zaduženja u inozemstvu, obavlja operativne poslove u svezi sa članstvom Republike Hrvatske u međunarodnim financijskim organizacijama, obavlja poslove koji se odnose na poticanje stranih ulaganja, prati provedbu projekata međunarodne tehničke pomoći, daje mišljenja na zakonske i druge propise koji imaju utjecaj na financijske odnose s inozemstvom te obavlja i druge poslove koje joj odredi ministar.
+U Upravi za međunarodne financijske odnose ustrojavaju se:
+1. Odjel za odnose s međunarodnim financijskim organizacijama
+2. Odjel za bilateralne financijske odnose i poticanje stranih ulaganja.
