@@ -1,0 +1,2 @@
+# Članak 1.
+Osnovicu za naplatu doprinosa za obvezno zdravstveno osiguranje za osiguranike koji primaju mirovinu i invalidninu isključivo od stranog nositelja osiguranja iz članka 44. stavke 4. Zakona o zdravstvenom osiguranju čini njihova mirovina, odnosno invalidnina umanjena za Zakonom propisane obvezne doprinose iz članka 9. stavke 2. Zakona o porezu na dohodak, s time da tako utvrđena osnovica ne može biti manja od iznosa minimalne mirovine, odnosno veća od iznosa najviše starosne mirovine.
