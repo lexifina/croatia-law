@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkoga doma Hrvatskoga sabora (»Narodne novine, broj 84/2001), Vlada Republike Hrvatske je na sjednici održanoj 8. kolovoza 2002. godine, donijela
