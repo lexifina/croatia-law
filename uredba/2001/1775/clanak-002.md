@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 69., u podnaslovu »I. kategorija«, iza posljednje alineje koja glasi: »Generalni konzulat Republike Hrvatske u Sjedinjenim Američkim Državama, Los Angeles«, dodaje se nova alineja koja glasi: »Generalni konzulat Republike Hrvatske u Bosni i Hercegovini, Banja Luka«, a u podnaslovu »II. kategorija konzularnih ureda Republike Hrvatske«, briše se prva alineja koja glasi: »Generalni konzulat Republike Hrvatske u Bosni i Hercegovini, Banja Luka«.
