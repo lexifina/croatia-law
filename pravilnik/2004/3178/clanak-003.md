@@ -1,0 +1,2 @@
+# Članak 3.
+Priprema etilometara za ovjeravanje, u smislu ovoga pravilnika, podrazumijeva pregled, popravak etilometara (servisiranje) po potrebi, pripremu etilometara za postavljanje u komoru (uređaj) za ispitivanje etilometara (etalon), pripremu uređaja za ispitivanje etilometara (etalon), ispitivanje etilometara, tj. provjeru mjeriteljskih značajki etilometara te pisanje izvješća o ispitivanju etilometara.
