@@ -1,0 +1,1 @@
+Odluka o mjerilima za odredivanje plaće i drugih primanja koja pripadaju sucima Ustavnog suda Republike Hrvatske, nositeljima pravosudnih dužnosti i dužnosnicima koje imenuje i razrješuje Sabor Republ
