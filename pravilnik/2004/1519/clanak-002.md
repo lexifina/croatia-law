@@ -1,0 +1,9 @@
+# Članak 2.
+Iza članka 163. dodaju se novi članci 163.a i 163.b koji glase:
+»Članak 163.a
+(1) Zatečenim radnicima koji danom početka primjene ovoga pravilnika ne ispunjavaju propisane uvjete stručne spreme za poslove koje obavljaju, ravnatelj doma socijalne skrbi dužan je u roku 30 dana od dana stupanja na snagu općeg akta doma socijalne skrbi, ponuditi izmjenu ugovora o radu temeljem koje će radnik biti raspoređen na obavljanje drugih poslova za koje ispunjava propisane uvjete, ako takvih poslova ima.
+(2) Ako nema poslova na koje se radnike može rasporediti sukladno odredbi stavka 1. ovog članka, zatečeni radnici će i nadalje obavljati poslove koje su obavljali do primjene ovoga pravilnika, dok im ravnatelj ne ponudi izmjenu ugovora o radu za poslove za koje ispunjavaju uvjete.
+(3) Ravnatelj doma socijalne skrbi dužan je zatečenim radnicima iz stavka 2. ovoga članka, u slučaju nastanka potrebe za obavljanjem poslova za koje ispunjavaju uvjete, ponuditi izmjenu ugovora o radu u roku osam dana od dana nastanka potrebe.«
+»Članak 163.b
+(1) Zatečeni radnici koji danom početka primjene ovog pravilnika nemaju propisanu stručnu spremu za poslove koje obavljaju, mogu se školovati ili doškolovati.
+(2) Osnivač doma socijalne skrbi može omogućiti financiranje školovanja do VII. stupnja stručnog obrazovanja s rokom završetka najdulje 6 godina, doškolovanja do VI. stupnja stupnja stručnog obrazovanja s rokom završetka najdulje 3 godine, školovanja do IV. stupnja stručnog obrazovanja s rokom završetka najdulje 4 godine i prekvalifikacije s rokom završetka najdulje godinu dana, uz obvezu rada u domu socijalne skrbi u dvostrukom trajanju vremena školovanja, doškolovanja i prekvalifikacije, te obvezom vraćanja sredstava ukoliko radnik ne završi školovanje, doškolovanje ili prekvalifikaciju, o čemu će se sklopiti ugovor između radnika i doma socijalne skrbi.«.
