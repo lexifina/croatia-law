@@ -1,0 +1,1 @@
+Naredba o izmjeni i dopuni Naredbe o plovidbi u prolazu u šibensku luku, u Pašmanskom tjesnacu, u prolazu Mali Ždrelac i Vela vrata, te rijekama Neretvom i Zrmanjom, te o zabrani plovidbe pelješkim i koločepskim kanalom, dijelovima Srednjega kanala, Murterskoga mora i Žirjanskoga kana
