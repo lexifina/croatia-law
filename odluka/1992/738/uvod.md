@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/91), povodom prijedloga Mladena Ercega iz Splita, Miroslava Krleže 26. Vlada Republike Hrvatske na sjednici održanoj 14. svibnja 1992. godine, donijela je
