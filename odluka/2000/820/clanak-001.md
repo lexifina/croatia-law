@@ -1,0 +1,3 @@
+# Članak 1.
+1) Kada je stjecanje prava na obiteljsku mirovinu uvjetovano uzdržavanjem, smatrat će se da član obitelji nema vlastitih prihoda dovoljnih za uzdržavanje ako mu osnovica iz plaće od poljoprivredne djelatnosti (katastarski prihod) ne prelazi svotu od 1.137,75 kn godišnje ili ako mu drugi stalni prihod ne prelazi svotu od 401,67 kn mjesečno.
+2) Ako član obitelji osiguranika iz stavka 1. ovog članka, osim katastarskog prihoda, ima i druge prihode, katastarski prihod dijeli se s 11,37, a mjesečna svota svih ostalih prihoda s 4,01 pa ako zbroj količnika ne prelazi 100, smatra se da član obitelji nema vlastitog prihoda dovoljnog za uzdržavanje.
