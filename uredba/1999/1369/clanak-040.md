@@ -1,0 +1,3 @@
+## VII. PRIJELAZNE I ZAKLJUČNE ODREDBE
+# Članak 40.
+Pravilnik o unutarnjem redu Ministarstva, koji je donio ministar rada i socijalne skrbi - klasa: 011-04/99-01/59, urbroj: 524-01-99-1 od 9. travnja 1999., a kojim je utvrđen broj potrebnih državnih službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća i stručnih uvjeta potrebnih za njihovo obavljanje, njihove ovlasti i odgovornosti, početak radnog vremena i uredovno vrijeme za rad sa strankama, te druga pitanja od značenja za rad Ministarstva koja nisu uređena ovom Uredbom, ministar rada i socijalne skrbi dužan je uskladiti s ovom Uredbom u roku od 30 dana od njenog stupanja na snagu.
