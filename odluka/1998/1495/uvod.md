@@ -1,0 +1,1 @@
+Temeljem odredbe članka 12. stavka 1. točke 1. Zakona o izdavanju i prometu vrijednosnim papirima ("Narodne novine" br. 107/95), Komisija za vrijednosne papire Republike Hrvatske, na svojoj sjednici održanoj 28. srpnja 1998. godine donijela je
