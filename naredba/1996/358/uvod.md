@@ -1,0 +1,1 @@
+Na temelju članka 181. stavak 4. Zakona o zdravstvenoj zaštiti ("Narodne novine", br. 75/93 i 11/94) i članka 12. stavak 1. Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta ("Narodne novine", br. 6/96) ministar zdravstva donosi
