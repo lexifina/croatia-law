@@ -1,0 +1,2 @@
+# Članak 6.
+Odredbe ovoga pravilnika o usklađivanju mirovina odnose se i na usklađivanje novčanih naknada za tjelesno oštećenje, doplatka za pomoć i njegu, naknadu plaće iz članka 52. stavka 1. točke 1. do 3. Zakona o mirovinskom i invalidskom osiguranju, najviše svote mirovine, najniže mirovine, minimalne mirovine, granične svote najnižega mirovinskog primanja radi određivanja zaštitnoga dodatka i zajamčene najniže svote mirovine.

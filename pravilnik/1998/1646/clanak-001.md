@@ -1,0 +1,2 @@
+# Članak 1.
+Na temelju članka 2. Zakona o prenošenju sredstava državnog proračuna fondovima mirovinskog i invalidskog osiguranja te usklađivanju mirovina (u daljnjem tekstu: Zakon) usklađivanje mirovina obavlja se obvezno počevši od 1. srpnja 1998. za svako polugodište po stopi koja se dobije kao polovica zbroja stope promjene prosječnog indeksa troškova života u prethodnom polugodištu i stope promjene prosječne bruto plaće svih zaposlenih u Republici Hrvatskoj u prethodnom polugodištu.
