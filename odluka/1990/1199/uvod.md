@@ -1,0 +1,1 @@
+Na temelju člana 94. i 101. Zakona o udruživanju poljoprivrednika ("Narodne novine", br. 40/78) i članova 27. i 38. Statuta Zadružnog saveza Dalmacije, Skupština Saveza na sjednici 26. prosinca 1990. godine donosi
