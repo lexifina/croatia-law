@@ -1,0 +1,1 @@
+Na temelju člana 3. stava 2. Odluke o visini naknade za zaštitu voda na vodnom području Drave i Dunava ("Narodne novine", br. 18/89) Izvršni odbor Skupštine Samoupravne vodoprivredne interesne zajednice za vodno područje Drave i Dunava u Osijeku na sjednici održanoj 22. prosinca 1989. donio je
