@@ -1,0 +1,4 @@
+# Članak 13.
+Zabranjeno je reklamiranje alkoholnih pića, duhana i duhanskih prerađevina putem tiska, sredstava javnog priopćavanja, svih oblika reklame na javnim mjestima, objektima i sredstvima saobraćaja preko knjiga, časopisa, kalendara i odjevnih predmeta i preko naljepnica, plakata i letaka ako su te naljepnice, plakati i leci odvojeni od ambalaže alkoholnih pića, odnosno duhana i duhanskih prerađevina.
+Odredba stavka 1. ovoga članka ne odnosi se na stručne knjige, časopise i druge stručne publikacije u kojima se objavljuju obavještenja o svojstvima alkoholnih pića, duhana odnosno duhanskih prerađevina ako su te stručne publikacije namijenjene isključivo proizvođačima ili prodavačima tih proizvoda.
+Odredba stavka 1. ovoga članka ne odnosi se na obavještavanje potrošača o svojstvima proizvoda alkoholnih pića, duhana, odnosno duhanskih prerađevina i to u objektima u kojima se ti proizvodi prodaju.

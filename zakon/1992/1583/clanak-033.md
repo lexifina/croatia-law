@@ -1,0 +1,4 @@
+# Članak 33.
+Uvoznik namirnica, odnosno predmeta opće uporabe, dužan je, prije carinjenja, podnijeti graničnom sanitarnom, odnosno veterinarskom inspektoru zahtjev za pregled pošiljke koju uvozi radi utvrđivanja zdravstvene ispravnosti, u mjestu u kojem se obavlja zdravstveni nadzor.
+Organi carinske službe ne mogu obavljati carinjenje namirnica i predmeta opće uporabe dok od inspektora iz stavka 1. ovoga članka ne dobiju rješenje da pošiljka iz tog stavka, u pogledu zdravstvene ispravnosti, odgovara uvjetima koji su za takve namirnice, odnosno predmete opće uporabe, propisani u Republici Hrvatskoj.
+Organi carinske službe dužni su, u okviru svojih prava i dužnosti, omogućiti nadležnom graničnom sanitarnom, odnosno veterinarskom inspektoru uvid u dokumentaciju i nesmetano obavljanje zdravstvenog nadzora nad pošiljkama namirnica i predmeta opće uporabe koji se nalaze pod carinskim nadzorom i pružiti pomoć u provođenju naređenih mjera.
