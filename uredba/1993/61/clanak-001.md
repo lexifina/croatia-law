@@ -1,0 +1,3 @@
+## o izmjenama Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove, te o područjima na kojima će se primjenjivati poticajne mjere
+# Članak 1.
+U Uredbi o područjima na kojima će se koristiti sredstva ostvarena premaZakonu o financiranju, te o područjima na kojima će se primjenjivati poticajne mjere ("Narodne novine", broj 44/92, 54/92 i 70/92) u članku 2. u stavcima 2, 3. i 4. te članku 3. riječi "Ministarstvo obnove" zamjenjuju se riječima "Agencija za obnovu" u odgovarajućim padežima. U članku 2 u stavku 4. riječi "do 31. kolovoza 1992." zamjenjuju se riječima "do 15. veljače 1993."
