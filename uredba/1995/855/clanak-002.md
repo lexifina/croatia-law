@@ -1,0 +1,3 @@
+# Članak 2.
+Poslove, dokumentaciju i opremu te službenike i namještenike Zajedničkih službi centara republičkih organa uprave 1. kolovoza 1995. godine preuzimaju uredi župana u županijama Sisačko-Moslavačkoj, Karlovačkoj, Varaždinskoj, Bjelovarsko-Bilogorskoj, Primorsko-Goranskoj, Ličko-Senjskoj, Osječko-Baranjskoj i Splitsko-Dalmatinskoj.
+Komisiju za preuzimanje dokumentacije i opreme zajedničkih službi centara republičkih organa uprave čine po jedan predstavnik Ureda župana, Zajedničke službe centra republičkih organa uprave i Ministarstva uprave, s tim da predstavnik Ministarstva uprave predsjedava Komisiji.
