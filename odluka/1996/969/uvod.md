@@ -1,0 +1,1 @@
+Na temelju članka 13., 24., 32., 33., 36., 39., 42. i 46. Zakona o financiranju jedinica lokalne samouprave i uprave ("Narodne novine 117/93), i članka 21. alineje 2. Privremenog statuta Grada Zagreba (Službeni glasnik Grada Zagreba 9/93), Gradska skupština Grada Zagreba, na 10. sjednici, 20. lipnja 1996. donijela je
