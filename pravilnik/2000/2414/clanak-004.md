@@ -1,0 +1,4 @@
+# Članak 4.
+Iza članka 13.a dodaje se članak 13.b:
+»Članak 13.b
+U cijelome tekstu Pravilnika o obaveznom atestiranju plinskih kuhinjskih štednjaka, kuhala, pećnica, roštilja i stolnih štednjaka te o uvjetima kojima moraju udovoljavati organizacije udruženog rada ovlaštene za atestiranje tih proizvoda, riječ »atestiranje« zamjenjuje se riječju »potvrđivanje«, riječ »atest« zamjenjuje se riječima »potvrda o sukladnosti«, riječ »standard« zamjenjuje se riječju »norma«, riječi »jugoslavenski standard« zamjenjuje »hrvatska norma«, oznaku »JUS« zamjenjuje oznaka »HRN«, riječi »organizacija udruženog rada ovlaštena za atestiranje« zamjenjuje se riječima »ovlaštena pravna osoba za potvrđivanje«, a riječi »Savezni zavod za standardizaciju« zamjenjuje se riječima »Državni zavod za normizaciju i mjeriteljstvo«, u odgovarajućem rodu i padežu«.
