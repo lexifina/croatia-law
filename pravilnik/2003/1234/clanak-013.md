@@ -1,0 +1,5 @@
+# Članak 13.
+Energetski subjekt obavezan je dostaviti Vijeću za regulaciju pregledni prikaz realizacije Trogodišnjeg plana izgradnje, održavanja i korištenja energetskih objekata, koji je potvrdio neovisni ovlašteni revizor, kojeg je bio dostavio Vijeću za regulaciju prilikom podnošenja zahtjeva za obavljanje energetske djelatnosti.
+Operator sustava u suradnji s energetskim subjektom za prijenos električne energije obavezan je dostaviti Vijeću za regulaciju pregledni prikaz realizacije Plana razvoja i izgradnje prijenosne mreže za razdoblje do tri godine izrađenog u suradnji s energetskim subjektom za prijenos električne energije, koji je donesen uz prethodnu suglasnost Vijeća za regulaciju.
+Energetski subjekt za distribuciju električne energije obavezan je dostaviti Vijeću za regulaciju pregledni prikaz realizacije Plana razvoja i izgradnje distribucijske mreže za razdoblje do tri godine, koji je donesen uz prethodnu suglasnost Vijeća za regulaciju.
+Subjekti iz stavka 1., 2. i 3. ovog članka obavezni su dostaviti traženo u Vijeće za regulaciju najkasnije u roku od 60 dana od završetka poslovne godine.

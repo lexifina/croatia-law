@@ -1,0 +1,3 @@
+# Članak 23.
+Energetski subjekt koji obavlja energetsku djelatnost dobave plina obavezan je dostaviti Vijeću za regulaciju sve tehničke i ekonomske podatke kada on i/ili povlašteni kupac plina žele ugovoriti opskrbu plina, ali zbog tehničkih ili drugih razloga ne mogu dobiti pristup plinskom transportnom sustavu te planiraju izgradnju vlastitog izravnog plinovoda uz odobrenje Vijeća za regulaciju.
+Energetski subjekt koji obavlja energetsku djelatnost dobave plina obavezan je dostaviti traženo u Vijeće za regulaciju najmanje 45 dana prije planiranog termina za pokretanje procedure za izgradnju vlastitog izravnog plinovoda.

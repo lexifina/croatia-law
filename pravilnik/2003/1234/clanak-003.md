@@ -1,0 +1,5 @@
+# Članak 3.
+Energetski subjekti obvezni su na zahtjev Vijeća za regulaciju dostaviti podatke potrebne za obavljanje poslova Vijeća za regulaciju, sukladno članku 6. stavak 2. Zakona o regulaciji energetskih djelatnosti.
+Vijeće za regulaciju uputit će pismeni zahtjev za dostavu podataka iz prethodnog stavka ovog članka energetskim subjektima te je u zahtjevu obavezno navesti rok u kojem je energetski subjekt dužan dostaviti tražene podatke. Kao rok za dostavu podataka uobičajeno će se navesti 7 dana računajući od datuma primitka zahtjeva Vijeća za regulaciju.
+Energetski subjekti obavezni su dostaviti Vijeću za regulaciju tražene podatke unutar roka iz prethodnog stavka ovog članka.
+Odredbe stavka 2. i 3. ovog članka ne odnose se na podatke iz članka 8. stavak 1. ovog Pravilnika, koje su energetski subjekti dužni dostavljati automatizmom, u roku od 15 dana računajući od proteka roka koji je za predaju tih podataka utvrđen općim propisom za određene podatke, ili pak općim aktom pojedinog energetskog subjekta.
