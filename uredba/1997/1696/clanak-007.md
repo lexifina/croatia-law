@@ -1,0 +1,2 @@
+# Članak 7.
+Prilikom rješavanja sporova i određivanja granica jedinica lokalne samouprave, Povjerenstvo će naročito voditi računa o prostornoj povezanosti spornog područja; o gospodarskoj povezanosti, o dnevnim migracijskim tokovima; prometnoj povezanosti; financijskom značaju spornog područja za pojedinu jedinicu lokalne samouprave; područnoj pripadnosti spornog područja kroz povijest, te o drugim važnim pitanjima od značaja za jedinice lokalne samouprave koje su u sporu.
