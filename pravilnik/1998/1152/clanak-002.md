@@ -1,0 +1,2 @@
+# Članak 2.
+U nedostatku zakonskog uređivanja uvjeta i načina korištenja sredstava osiguranih u Državnom proračunu za određene namjene iz članka 1. ovog Pravilnika, ovim Pravilnikom uređujem uvjete i postupak za ostvarivanje prava na: naknadu prijevoznih troškova useljenja u Republiku Hrvatsku, privremeni smještaj povratnika i useljenika, privremenu novčanu pomoć, smještaj povratnika i useljenika i druga pitanja značajna za socijalno zbrinjavanje povratnika i useljenika.
