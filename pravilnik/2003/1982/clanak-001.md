@@ -1,0 +1,6 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog zraČnog graniČnog prijelaza II. kategorije PloČe
+# Članak 1.
+Područje stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Ploče obuhvaća područje Zračne luke Ploče i u cijelosti se nalazi na području stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Ploče, na dijelu k.č. 4559/1 k.o. Komin.
+U naravi, područje graničnog prijelaza predstavlja ograđeni prostor koji obuhvaća uzletno sletnu stazu duljine 1290 m i širine 110 m i stajanku s ostalim manevarskim površinama, omeđene zelenim površinama, ukupne površine 146 780 m˛, koji se proteže od obale kanala Vlaška - more na jugu u smjeru sjeveroistoka i fizički je odvojen od zgrade Zračne luke, te ograđeno područje pristanišne zgrade u kojoj se nalaze prostorije sortirnice, domaćeg i međunarodnog prihvata i otpreme putnika, prostor za graničnu kontrolu putnika i prostorija za smještaj osoba kojima je zapriječen ulaz u Republiku Hrvatsku, ukupne površine 2220 m2.
+Područjem graničnog prijelaza, za vrijeme obavljanja poslova prihvata i otpreme zrakoplova i putnika, smatra se i cestovni koridor duljine 150 m i širine 8 m koji spaja pristanišnu zgradu i operativne površine, a nalazi se s jugoistočne strane poletno sletne staze.
+Ukupna površina područja graničnog prijelaza iznosi 125 m2.
