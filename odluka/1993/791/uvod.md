@@ -1,0 +1,1 @@
+Na temelju članka 13a. stavka 2. Zakona o sustavu kontrole cijena ("Narodne novine", broj 53/91, 73/91, 29/92, 26/93 i 43/93), Vlada Republike Hrvatske je na sjednici održanoj 13. svibnja 1993. godine, donijela
