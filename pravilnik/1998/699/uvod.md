@@ -1,0 +1,1 @@
+Na temelju Zakona o porezu na dodanu vrijednost ("Narodne novine" br. 47/95), članka 25. stavka 6. Pravilnika o porezu na dodanu vrijednost ("Narodne novine" br. 60/96. i 113/97.) i članka 26. Statuta Hrvatske gospodarske komore ("Narodne novine" br. 11/94. - pročišćeni tekst), Upravni odbor Hrvatske gospodarske komore na 7. sjednici 16. travnja 1998. donosi
