@@ -1,0 +1,8 @@
+# Članak 63.
+Novčanom kaznom od 100.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba:
+1. ako ne obavijesti Hrvatski zavod za toksikologiju o štetnosti otrova prema svome saznanju (članak 19. stavak 3.),
+2. ako prostorije i ormari u kojima drže otrove nisu zaključane, a ključeve ne drži osoba odgovorna za smještaj i čuvanje otrova te ako na svim vratima prostorija i ormara u kojima se drže otrovi nema natpisa "Otrov" (članak 31. stavak 1. i 2.) te ako uputa o postupcima i sredstvima za sprečavanje trovanja nije vidljivo istaknuta u prostoriji u kojoj se obavlja proizvodnja, promet, uporaba ili zbrinjavanje otrova (članak 33. stavak 3.),
+3. ako ne vodi očevidnike o otrovima koje proizvodi, stavlja u promet, rabi ili zbrinjava, o osobama koje rade s otrovima (članak 43. stavak 1.) ili o kupcima otrova Skupine I i Skupine II (članak 43. stavak 2.), te ako podatke iz očevidnika ne dostavlja u skladu s posebnim propisom donesenim na temelju ovoga Zakona (članak 43. stavak 3.),
+4. ako podatke iz očevidnika o otrovima koje proizvodi, stavlja u promet, rabi ili zbrinjava i zdravstvenim pregledima osoba prije početka rada te periodičkim zdravstvenim pregledima osoba koje rade s otrovima ne dostavi Hrvatskom zavodu za toksikologiju (članak 43. stavak 1.),
+5. ako u roku od osam dana ne obavijesti Ministarstvo zdravstva o otrovima koje stavlja u promet ili o otrovima koje rabi za industrijsku proizvodnju (članak 44.) ili ako o prispijeću pošiljke otrova ne obavijesti najmanje tri dana ranije graničnoga sanitarnog inspektora (članak 48. stavak 3.).
+Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 10.000,00 do 50.000,00 kuna.

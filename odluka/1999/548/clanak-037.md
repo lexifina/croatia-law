@@ -1,0 +1,3 @@
+# Članak 37.
+Osim podataka iz članka 36. ovoga Zakona deklaracija otrova iz Skupine I mora sadržavati natpis: "Vrlo jaki otrov", iz Skupine II: "Otrov", iz Skupine III: "Štetna tvar", ispisan velikim slovima i označen propisanim oznakama kojima se označava otrovnost i štetnost pojedinih otrova.
+Ako su otrovi eksplozivni ili zapaljivi, ili imaju oksidirajuće, nagrizajuće ili nadražujuće djelovanje, deklaracija obvezno sadrži, osim podataka iz članka 36. ovoga Zakona, oznake iz stavka 1. ovoga članka i uobičajene oznake za označavanje eksplozivnosti, zapaljivosti, oksidirajućega, nagrizajućega, odnosno nadražujućega djelovanja otrova, u skladu s posebnim propisima.

@@ -1,0 +1,2 @@
+# Članak 8.
+Zaštitom okoliša od štetna djelovanja otrova, u smislu ovoga Zakona, smatra se zaštita zraka, vode, mora, tla, ljudske i životinjske hrane, biljnoga i životinjskoga svijeta, zaštita radne okoline i zaštita zaposlenika koji rade u proizvodnji, prometu, uporabi ili u zbrinjavanju otrova te zaštita osoba koje pri obavljanju gospodarske djelatnosti rabe otrove u dijelu u kojemu to nije regulirano propisima o zaštiti na radu.

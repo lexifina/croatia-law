@@ -1,0 +1,6 @@
+# Članak 43.
+Pravne osobe koje obavljaju djelatnost proizvodnje i prometa otrova, te pravne osobe koje rabe ili zbrinjavaju otrove te fizičke osobe koje rabe otrove pri obavljanju djelatnosti ili obavljaju promet otrova na malo obvezne su voditi očevidnike o otrovima koje proizvode, stavljaju u promet, rabe ili zbrinjavaju te podatke iz ovih očevidnika dostavljati Hrvatskom zavodu za toksikologiju.
+Pravne i fizičke osobe koje obavljaju promet otrova na malo iz Skupine II obvezne su voditi očevidnike o prometu i kupcima tih otrova, a pravne osobe koje se bave prometom otrova na veliko, obvezne su voditi očevidnike o prometu otrova i o kupcima otrova iz Skupine I i Skupine II.
+Propis o načinu vođenja očevidnika iz stavka 1. i 2. ovoga članka te o načinu dostave podataka iz ovih očevidnika Hrvatskom zavodu za toksikologiju donosi ministar zdravstva.
+Iznimno od odredbi stavka 1., 2. i 3. ovoga članka očevidnik o otrovima koji se proizvode, stavljaju u promet, rabe ili zbrinjavaju za potrebe oružanih snaga Republike Hrvatske dostavlja se nadležnoj upravi Ministarstva obrane Republike Hrvatske koja podatke iz tih očevidnika tromjesečno dostavlja Hrvatskom zavodu za toksikologiju.
+Propis o načinu vođenja očevidnika iz stavka 4. ovoga članka donosi ministar obrane uz prethodnu suglasnost ministra zdravstva.
