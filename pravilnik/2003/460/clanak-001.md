@@ -1,0 +1,4 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza II. kategorije Gola
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Gola, smješteno je na državnoj cesti D-41 u Dravskoj ulici bb u Goli, i obuhvaća prostor od granične crte do križanja D-41 i D-210 u dužini od 330 m i širine 98 m na k.č. 1077/11, 1077/13, 1077/15 i 1077/16. k.o. Gola, gdje se nalaze zgrada graničnog prijelaza u kojoj su smještene prostorije granične policije, carine i špedicije, tri ulazne i tri izlazne prometne trake, nadstrešnica iznad mjesta obavljanja granične kontrole u dužini od 10 m i širine od 36 m sa dvije kućice za smještaj djelatnika policije koji vrše graničnu kontrolu, zasebno izlazno-ulazna traka bez nadstrešnice, parkirališni prostor, garaža, kotlovnica i hidroforska stanica.
+Ukupna površina područja graničnog prijelaza iznosi 24 742 m2.
