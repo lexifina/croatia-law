@@ -1,0 +1,1 @@
+Temeljem članka 38. Zakona o zdravstvenoj zaštiti ("Narodne novine" br. 75/93 i 11/94) te članka 17. i članka 18. stavak 2 Zakona o sustavu državne uprave ("Narodne novine" br. 75/93) ministar zdravstva donosi
