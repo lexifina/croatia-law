@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Plaćom u smislu članka 1. ove Uredbe razumijeva se sve što isplatitelj plaće (poslodavac) isplaćuje zaposleniku po osnovi rada a prema Zakonu o porezu na dohodak ("Narodne novine", broj 25/95 - pročišćeni tekst); smatra se dohotkom od nesamostalnog rada.
+(2) Drugim primanjima gradana iz članka 1. ove Uredbe razumijevaju se primanja po osnovi povremenog autorskog rada, ugovora o djelu, ugovora o obavljanju privremenih i povremenih poslova, rada u upravnim i nadzornim odbocima, rada u državnim predstavničkim tijelima i predstavničkim tijelima jedinica lokalne samouprave i uprave i slično.
+(3) Plaćom u smislu ove Uredbe ne smatraju se mirovine i invalidnine te naknade plaće za vrijeme privremene nezaposlenosti i spriječenosti za rad zbog bolesti i povreda (bolovanje) bez obzira tko te naknade isplaćuje.
+(4) Pod isplatiteljima plaća u smislu stavka 1. ovoga članka razumijevaju se sve pravne i fizičke osobe javnog i privatnog sektora.
+(5) Odredbe ove Uredbe ne odnose se na: zaposlenike strance, invalide domovinskog rata, kao i samohrane roditetje te zaposlenike sa četvero i više uzdržavane djece ili drugih članova obitelji koji se prema Zakonu o porezu na dohodak smatraju uzdržavanim.
