@@ -1,0 +1,3 @@
+# Članak 7.
+Odsjek za pravne i kadrovske poslove obavlja upravne i stručne poslove vezane za: pripremu nacrta podzakonskih akata iz područja radnih odnosa; izradu prijedloga godišnjeg plana rada Ministarstva i objedinjavanje izvješća o radu unutarnjih ustrojstvenih jedinica Ministarstva; pripremu rješenja iz radnih odnosa državnih službenika i namještenika u Ministarstvu; izradu plana stručnog osposobljavanja i usavršavanja državnih službenika i namještenika; vođenje osobnog očevidnika; vođenje dosjea državnih službenika i namještenika te ostalih evidencija iz radnih odnosa; izdavanje potvrda iz radnih odnosa te obavljanje svih poslova u svezi prijma državnih službenika i namještenika u državnu službu i u svezi prestanka državne službe.
+b) Odsjek za opće poslove

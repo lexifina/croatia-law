@@ -1,0 +1,3 @@
+# Članak 19.
+Odsjek za invalidsko osiguranje obavlja upravne i stručne poslove vezane za: položaj invalida rada i drugih invalidnih osoba u sustavu mirovinskog osiguranja; praćenje stanja u provedbi invalidskog osiguranja i predlaganje poduzimanja odgovarajućih mjera u cilju otklanjanja uočenih nedostataka i poboljšanja zaštite invalidnih osoba; suradnju s institucijama zaštite na radu i zakonom utvrđenim pravnim osobama u pogledu stvaranja uvjeta za provedbu prevencije invalidnosti; osposobljavanja za rad invalida rada i drugih invalidnih osoba i njihovog zapošljavanja; obavljanje nadzora nad radom vještaka i viših vještaka te provedbom revizije u području medicinskog vještačenja u mirovinskom osiguranju.
+b) Odsjek za staž osiguranja s povećanim trajanjem

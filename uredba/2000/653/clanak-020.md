@@ -1,0 +1,3 @@
+# Članak 20.
+Odsjek za staž osiguranja s povećanim trajanjem obavlja upravne i stručne poslove vezane za: utvrđivanje novih radnih mjesta, odnosno ukidanje postojećih radnih mjesta i zanimanja na kojima se staž osiguranja računa s povećanim trajanjem povodom dostavljenih poticaja od strane pravnih subjekata utvrđenih Zakonom o stažu osiguranja s povećanim trajanjem; analizu stručne dokumentacije temeljem koje se utvrđuje potreba utvrđivanja odnosno ukidanja radnih mjesta i zanimanja sa stažom osiguranja s povećanim trajanjem te o stručnoj dokumentaciji pribavljanje mišljenja specijaliziranih znanstvenika ili stručnih ustanova; izradu stručne podloge o potrebi izmjena i dopuna Zakona o stažu osiguranja s povećanim trajanjem.
+4.2. Odjel za ekonomsko-financijska pitanja

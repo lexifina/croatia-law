@@ -1,0 +1,2 @@
+# Članak 49.
+Odsjek za raspodjelu radnih dozvola na temelju međudržavnih sporazuma o izvođenju radova obavlja upravne i stručne poslove vezane za: pripremu natječaja i praćenje rada Komisije Vlade Republike Hrvatske za raspodjelu i dodjelu radnih dozvola za SR Njemačku; ovjeravanje ugovora o izvođenju radova u SR Njemačkoj; praćenje iskorištenja kontingenta radnih dozvola tvrtki koje izvode radove u SR Njemačkoj; organiziranje radnih sastanaka i sudjelovanja u radnim skupinama s predstavnicima tvrtki i nadležnog ministarstva u SR Njemačkoj.

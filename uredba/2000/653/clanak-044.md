@@ -1,0 +1,9 @@
+## 7. UPRAVA ZA MEĐUNARODNU SURADNJU NA PODRUČJU RADA I SOCIJALNE SIGURNOSTI
+# Članak 44.
+U Upravi za međunarodnu suradnju na području rada i socijalne sigurnosti obavljaju se upravni i drugi stručni poslovi u okviru međunarodne suradnje na području tržišta rada, zapošljavanja, radnih odnosa i socijalne sigurnosti, te međunarodni i međuresorski poslovi na području društvenog razvoja, i to:
+sudjelovanje u radu međunarodnih organizacija i izvršavanje obveza koje proizlaze iz članstva Republike Hrvatske u istima; praćenje međunarodnih propisa i propisa drugih država; sudjelovanje u procesu sklapanja višestranih i dvostranih međunarodnih ugovora i usvajanja drugih međunarodnih dokumenata; sudjelovanje u međudržavnim pregovorima za sklapanje ugovora o zapošljavanju hrvatskih državljana u inozemstvu i stranaca u Republici Hrvatskoj; izvršavanje međudržavnih ugovora o zapošljavanju hrvatskih državljana u inozemstvu; rješavanje radnopravnog statusa hrvatskih državljana zaposlenih u inozemstvu i poslovi njihovog povratka i zapošljavanja u Hrvatskoj; ispitivanje usklađenosti zakonodavstva Republike Hrvatske na područjima rada i socijalne sigurnosti sa višestranim međunarodnim ugovorima kojih je Republika Hrvatska strankom; izrada izvješća i pravnih tumačenja o primjeni međunarodnih ugovora; međuresorsko usklađivanje međunarodnih obveza Republike Hrvatske na području društvenog razvoja; sudjelovanje u izradi domaćih propisa, poslovi utvrđeni posebnim propisima i na temelju posebnih ovlaštenja, te drugi poslovi koje odredi ministar.
+U Upravi za međunarodnu suradnju na području rada i socijalne sigurnosti ustrojavaju se:
+7.1. Odjel za suradnju s međunarodnim organizacijama
+7.2. Odjel za međunarodnu suradnju na području socijalne sigurnosti
+7.3. Odjel za međunarodnu suradnju na području tržišta rada.
+7.1. Odjel za suradnju s međunarodnim organizacijama

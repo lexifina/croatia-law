@@ -1,0 +1,3 @@
+# Članak 32.
+Odsjek za obiteljsko pravnu zaštitu i smještaj djece u dječje domove obavlja upravne i stručne poslove vezane za: utvrđivanje politike i unapređenje zaštite djece, mladeži, braka, obitelji i osoba lišenih poslovne sposobnosti; pripremu propisa u cilju usklađivanja zakonodavstva Republike Hrvatske s preuzetim međunarodnim obvezama; izradu nacrta prijedloga zakona i prijedloga drugih propisa koji se odnose na obiteljske odnose, te unapređenje organizacije, sadržaja i načina rada ustanova socijalne skrbi za područje obiteljsko pravne zaštite i smještaja djece u dječje domove.
+b) Odsjek za zaštitu djece i mladeži s poremećajima u ponašanju i ovisnika o drogama

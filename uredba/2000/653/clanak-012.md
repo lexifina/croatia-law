@@ -1,0 +1,2 @@
+# Članak 12.
+Računalno-telekomunikacijski odsjek obavlja stručne i tehničke poslove vezane za: održavanje baza podataka, informatičke i komunikacijske opreme; upravljanje računalima i svom periferijom, komunikacijskom mrežom, operativnim sustavima; provođenju mjera zaštite; djelomično i podršku korisnicima u suradnji s Odsjekom za informacijski servis; oblikovanje i prezentaciju podataka na svim raspoloživim medijima; brigu o potrošnom materijalu i radnoj okolini.

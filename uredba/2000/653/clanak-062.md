@@ -1,0 +1,3 @@
+# Članak 62.
+Odsjek za knjigovodstvo obavlja upravne i stručne poslove vezane za: izradu analitičkog računskog plana i temeljnih financijskih izvještaja; pregled glavnih knjiga i pomoćnih knjiga; praćenje obveza i potraživanja; usklađivanje stanja glavne knjige s pomoćnim knjigama; usklađivanje inventure s knjigovodstvenim stanjem; kontiranje i knjiženje svih primitaka i izdataka; pravovremeno kontiranje i knjiženje prispjelih dokumenata; vođenje knjige kapitalne imovine; usklađivanje stanja sredstava i njihovih izvora iskazanih u knjigovodstvu sa stvarnim stanjem utvrđenim popisom; vođenje pomoćne knjige sitnog inventara i knjige nabavke; vođenje materijalnog knjigovodstva.
+d) Odsjek za obračun plaća

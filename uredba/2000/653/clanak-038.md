@@ -1,0 +1,11 @@
+## 6. UPRAVA ZAŠTITE ŽRTAVA I SUDIONIKA
+## RATA
+# Članak 38.
+U Upravi zaštite žrtava i sudionika rata obavljaju se upravni i drugi stručni poslovi koji se odnose na zaštitu civilnih žrtava iz Domovinskog rata, hrvatskih državljana sudionika II. svjetskog rata, civilnih i vojnih invalida II. svjetskog rata i osoba stradalih u obavljanju obvezne vojne službe od 15. svibnja 1945. do 17. kolovoza 1990. te članova njihovih obitelji, i to:
+izrada nacrta prijedloga zakona i drugih propisa; izrada provedbenih propisa; izrada općih i pojedinačnih tumačenja, naputaka i objašnjenja za primjenu zakona i provedbenih propisa; revizija prvostupanjskih rješenja o priznatom svojstvu ratnog, mirnodopskog i civilnog invalida rata, te prava na obiteljsku i uvećanu obiteljsku invalidninu; revizija prvostupanjskih rješenja o priznatom pravu na opskrbninu, dodatak za pripomoć u kući i dječji dodatak sudionicima rata, korisnicima osobne invalidnine i korisnicima obiteljske invalidnine; rješavanje žalbi podnijetih protiv prvostupanjskih rješenja iz oblasti invalidsko-boračke zaštite; rješavanje u obnovi postupka; provođenje neposrednog upravnog nadzora nad radom županijskih ureda za rad, zdravstvo i socijalnu skrb; obavljanje stručnih odnosno administrativnih poslova za komisije; postupanje po predstavkama, pritužbama i upitima tijela državne uprave, udruga i građana; pripremanje analitičko-dokumentacijske osnove za planiranje novčanih sredstava za realizaciju zakonom utvrđenih prava; izrada prijedloga plana potrebnih sredstava za realizaciju zakonom utvrđenih prava civilnih žrtava iz Domovinskog rata, sudionika II. svjetskog rata, civilnih i vojnih invalida II. svjetskog rata, mirnodopskih vojnih invalida, te članova njihove obitelji; praćenje dinamike i provođenje nadzora nad namjenskim trošenjem novčanih sredstava; skrb o pravodobnoj uplati sredstava za podmirenje zakonom utvrđenih prava; te drugi poslovi koje odredi ministar.
+U Upravi zaštite žrtava i sudionika rata ustrojavaju se:
+6.1. Odjel upravnih i stručnih poslova za skrb o civilnim žrtvama iz Domovinskog rata i članovima njihovih obitelji
+6.2. Odjel upravno-pravnih poslova za sudionika i žrtve II. svjetskog rata i članove njihovih obitelji
+6.3. Odjel sredstava i analize.
+6.1. Odjel upravnih i stručnih poslova za skrb o civilnim žrtvama iz Domovinskog rata i članovima
+njihovih obitelji

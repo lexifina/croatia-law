@@ -1,0 +1,3 @@
+# Članak 41.
+Odsjek za skrb i suradnju s udrugama obavlja upravne i stručne poslove vezane za: izradu programa jedinstvene baze podataka za civilne žrtve iz Domovinskog rata i članove njihovih obitelji; sudjelovanje u realizaciji psihosocijalne pomoći za civilne žrtve Domovinskog rata i članove njihovih obitelji; sudjelovanje u izradi nacrta prijedloga zakona; praćenje rada vladinih i nevladinih institucija u cilju pružanja pomoći i predlaganja što boljih rješenja za skrb o civilnim stradalnicima Domovinskog rata i članovima njihovih obitelji.
+6.2. Odjel upravno-pravnih poslova za sudionike i žrtve II. svjetskog rata i članove njihovih obitelji
