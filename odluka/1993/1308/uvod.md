@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 109. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine" broj 12/91 - proašćeni tekst, 19/91, 53A/91, 18/92 i 69/92) Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 13. sjednici, održanoj 30. lipnja 1993. godine, donijela je
