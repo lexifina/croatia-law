@@ -1,0 +1,1 @@
+Na temelju članka 35. stavaka 1. i 2. Zakona o vlasništvu i drugim stvarnim pravima ("Narodne novine", broj 91/96) i članka 3. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), Vlada Republike Hrvatske je na sjednici održanoj 5. ožujka 1998. godine, donijela
