@@ -1,0 +1,3 @@
+## o podnošenju prijava po Zakonu o industrijskom vlasništvu
+# Članak 1.
+Podnositelj prijave za stjecanje patenta, žiga, modela i uzorka po Zakonu o industrijskom vlasništvu ("Narodne novine", br. 53/81, 18/82, 61/82 i 26/93) koji je do 8. listopada 1991. godine podnio prvu prijavu bivšem Saveznom zavodu za patente ili je bivšem Saveznom zavodu za patente podnio prijavu s pozivom na pravo prvenstva prve prijave podnesene u nekoj od zemalja Međunarodne unije za zaštitu industrijskoga vlasništva, a povodom koje bivši Savezni zavod za patente do 8. listopada 1991. godine nije donio odluku o njenom usvajanju ili odbijanju. može istu prijavu podnijeti Državnom zavodu za patente i poslije 4. studenoga 1993. godine.
