@@ -1,0 +1,1 @@
+Na temelju članka 83. stavak 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometa zlata ("Narodne novine" br. 91A/93 i 36/98) i članka 67. stavak 1. točka 23. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" br. 35/95. - pročišćeni tekst) Savjet Hrvatske narodne banke na sjednici održanoj 1. travnja 1998. godine, donio je
