@@ -1,0 +1,2 @@
+# Članak 6.
+Kandidat koji na ispitu ne zadovolji iz jednog predmeta ili jednog predmeta i praktičnog rada ili samo praktičnog rada, može polagati i popravni ispit u roku koji odredi komisija. Taj rok ne može biti dulji od dva mjeseca od dan polaganja ispita. Kandidat, koji ne položi ispit, može pristupiti na novi rok po isteku 30 dana od zadnjeg polaganja. Kandidat može odustati ili odgoditi ispit, ali o tom mora izvijestiti komisiju najmanje dva dana prije ispita.
