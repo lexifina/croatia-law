@@ -1,0 +1,3 @@
+## o dopuni Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba
+# Članak 1.
+U Zakonu o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", br. 53/90, 61/91. i 25/93.) u članku 1. iza stavka 1. dodaje se novi stavak 2. koji glasi: "Zabrana iz članka 1. stavka 1. ovoga Zakona, odnosi se i na sve odluke o konfiskaciji, neovisno o tome koji organ je donio odluku o konfiskaciji i primjenom kojeg propisa je odluka o konfiskaciji donijeta i izvršena." Dosadašnji stavak 2. postaje stavak 3.
