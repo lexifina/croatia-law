@@ -1,0 +1,3 @@
+# Članak 7.
+1) Odredbe ovog Sporazuma primjenjuju se na one svjedodžbe, diplome i stupnjeve koji su stečeni u Republici Mađarskoj i Republici Hrvatskoj nakon stupanja na snagu ovog Sporazuma.
+2) Svjedodžbe o školskoj spremi i diplome koje su stečene u Socijalističkoj Federativnoj Republici Jugoslaviji i Mađarskoj Narodnoj Republici uzajamno se priznaju kao ekvivalentne u skladu sa Sporazumom potpisanim 7. ožujka 1980. godine u Budimpešti, a koji i dalje vrijedi za one svjedodžbe, diplome i stupnjeve koji su stečeni u Republici Hrvatskoj i Republici Mađarskoj prije stupanja na snagu ovog Sporazuma.
