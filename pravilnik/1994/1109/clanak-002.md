@@ -1,0 +1,2 @@
+# Članak 2.
+Na površinama izvan lovišta zaštićuje se divljač te vodi briga o drugim životinjskim vrstama. Dijelovi površina izvan lovišta mogu se predvidjeti za znanstvena istraživanja. Površine iz stavka 2. ovoga članka moraju biti predviđene posebnim programom znanstveno-nastavnih ili znanstveno-istraživačkih ustanova i vidno obilježene na terenu uz prethodno dopuštenje Ministarstva poljoprivrede i šumarstva.
