@@ -1,0 +1,3 @@
+# Članak 12.
+Broj osiguranih osoba po timu za koji se sklapa ugovor, utvrđen je standardom sukladno Pravilniku o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1996. godinu (u daljnjem tekstu: Standard).
+Iznimno od odredbe stavke 1. ovog članka, doktori medicine i doktori stomatologije u zdravstvenim ustanovama, odnosno u privatnoj praksi, prilikom sklapanja ugovora sa Zavodo, obvezni su osigurati minimum od 50% Standardom propisanog broja osiguranih osoba po timu za tu djelatnost. Zavod će sukladno tome osigurati nadoknadu odgovarajuću ugovorenom broju osiguranih osoba.

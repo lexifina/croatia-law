@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 64. Zakona o zdravstvenom osiguranju ("Narodne novine" broj 75/93), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 18. sjednici održanoj 13. prosinca 1995. godine, donijelo je
