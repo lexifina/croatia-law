@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o elektroprivredi ("Narodne novine", broj 31/90 i 47/90), te članka 16. i 17. Tarifnog sustava za prodaju električne energije ("Narodne novine", broj 8/91) Vlada Republike Hrvatske na sjednici održanoj 26. lipnja 1991. godine donijela je
