@@ -1,0 +1,1 @@
+Na osnovi članka 8. stavke 2. Zakona o zdravstvenoj zaštiti stranaca u Republici Hrvatskoj ("Narodne novine" broj 114/97) i članka 14. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" 1/94) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje, uz prethodnu suglasnost ministra zdravstva, na 2. sjednici održanoj dana 3. travnja 1998. godine, donijelo je

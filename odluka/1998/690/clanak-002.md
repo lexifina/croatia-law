@@ -1,0 +1,2 @@
+# Članak 2.
+Troškove zdravstvenih usluga pruženih strancu iz članka 1. ove Odluke zdravstvena ustanova i zdravstveni djelatnik privatne prakse obračunavaju na osnovi cijena utvrđenih odlukom Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za tekuću kalendarsku godinu, uvećanih za 100%.
