@@ -11,6 +11,6 @@
 (6) Uvjete natječaja za davanje povlastica za gospodarski ribolov propisuje ministar.
 (7) Postupak javnog natječaja za davanje povlastica za gospodarski ribolov provodi Povjerenstvo za povlastice koje imenuje ministar.
 (8) Povjerenstvo iz stavka 7. ovoga članka daje ministru prijedlog za davanje povlastica iz stavka 4. ovoga članka.
-(9) Protiv rješenja kojim se povlastica daje ili uskraćuje nije dopuštena žalba ali može se pokrenuti upravni spor. Pokretanje upravnog spora zadržava izvršenje rješenja.
+(9) Protiv rješenja kojim se povlastica daje ili uskraćuje nije dopuštena žalba ali može se pokrenuti upravni spor. Pokretanje upravnog spora ne odgađa izvršenje rješenja.
 (10) Prednost na javnom natječaju za davanje povlastica za gospodarski ribolov imaju hrvatski branitelji i invalidi Domovinskog rata.
 (11) Obavijest o davanju povlastice za gospodarski ribolov obvezatno se dostavlja ovlašteniku ribolovnog prava za ribolovno područje ili zonu obuhvaćenu povlasticom za gospodarski ribolov.

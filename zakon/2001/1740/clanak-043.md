@@ -1,6 +1,6 @@
 # Članak 43.
 (1) Ribočuvari moraju imati položen ribočuvarski ispit.
-(2) Program za polaganje ribočuvarskog ispita donosi ministar uz prethodno pribavljenu suglasnost Državnog inspektorata i pribavljeno mišljenje Saveza te ministra nadležnog za zaštitu okoliša i prostornog uređenja.
+(2) Program za polaganje ribočuvarskog ispita donosi ministar, uz pribavljeno mišljenje Saveza.
 (3) Način polaganja ispita, obrazac i način izdavanja uvjerenja o položenom ribočuvarskom ispitu propisuje ministar.
 (4) Provjeru znanja prema Programu za polaganje ribočuvarskog ispita provodi ispitno povjerenstvo koje na prijedlog Saveza imenuje ministar.
 (5) Osposobljenost za obavljanje ribočuvarske službe dokazuje se uvjerenjem o položenom ribočuvarskom ispitu koje daje Savez.

@@ -1,7 +1,10 @@
 # Članak 79.
-(1) Za prekršaje navedene u članku 71. stavku 1. točki 6. te u članku 72. stavku 1. točki 10. ovoga Zakona, osim novčane kazne obvezatno se izriče i zaštitna mjera oduzimanja riba namijenjenih poribljavanju ribolovne vode.
-(2) Za prekršaje navedene u članku 71. stavku 1. točki 2., 4., 8. i 10., u članku 72. stavku 1. točki 1., 2., 3., 4., 5., 7., 8., 9. i 11., u članku 73. stavku 1. točki 12., 13. i 15., u članku 74., u članku 75. stavku 1. točki 1., 2., 3., 4., 5., 7., 8., 9., 10. i 11. te u članku 76. stavku 1. točki 1. ovoga Zakona, osim novčane kazne obvezatno se izriču i zaštitne mjere:
-- oduzimanja ulova riba,
-- oduzimanje alata, opreme i mamaca za ribolov kojima je počinjen prekršaj, bez obzira na to tko je vlasnik.
-(3) Za prekršaje navedene u članku 71. stavku 1. točki 5. i 7. ovoga Zakona, osim novčane kazne obvezatno se izriče i zaštitna mjera oduzimanja riba namijenjenih djelatnosti akvakulture.
-(4) Za prekršaje navedene u članku 73. stavku 1. točki 11. ovoga Zakona, osim novčane kazne obvezatno se izriče i zaštitna mjera oduzimanja onih vrsta riba koje nisu upisane u povlastici za akvakulturu.
+(1) Strane fizičke i pravne osobe smiju obavljati gospodarski ribolov na slatkim vodama Republike Hrvatske samo u slučajevima utvrđenim međunarodnim ugovorom.
+(2) Strane fizičke i pravne osobe smiju obavljati djelatnost akvakulture na slatkim vodama Republike Hrvatske.
+(3) Strane fizičke i pravne osobe smiju započeti obavljati djelatnost akvakulture na slatkim vodama Republike Hrvatske:
+1. ako su u Republici Hrvatskoj registrirale podružnicu za akvakulturu,
+2. ako ispunjavaju uvjete propisane u članku 46. stavku 2. ovoga Zakona.
+(4) Gospodarski ribolov na ribolovnim vodama Republike Hrvatske ne smije obavljati:
+1. domaća pravna osoba kojoj je osnivač strana fizička ili pravna osoba,
+2. domaća pravna osoba koja je u cijelosti ili dijelom u vlasništvu strane fizičke ili pravne osobe.
+(5) Strani državljani - ribiči smiju loviti ribe na temelju dozvole sukladno odredbi članka 22. stavka 4. ovoga Zakona.

@@ -1,4 +1,3 @@
 # Članak 92.
-(1) Osobe koje nemaju položen ribarski ispit, sukladno odredbi članka 15. ovoga Zakona, moraju taj ispit položiti u roku od godine dana od dana primjene ovoga Zakona.
-(2) Osobe koje nemaju položen ribički ispit, sukladno odredbi članka 20. ovoga Zakona, moraju taj ispit položiti u roku od godine dana od dana primjene ovoga Zakona.
-(3) Osobe koje nemaju položen ribočuvarski ispit, sukladno odredbi članka 43. ovoga Zakona, moraju takav ispit položiti u roku od godine dana od dana primjene ovoga Zakona.
+(1) Novčanom kaznom od 5.000,00 do 25.000,00 kuna kaznit će se ustanova iz članka 7. ovoga Zakona ako Ministarstvu jednom godišnje ne dostavi izvješće o obavljanju poslova iz svoje djelatnosti.
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 3.000,00 do 10.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi.

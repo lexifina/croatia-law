@@ -1,0 +1,3 @@
+# Članak 98.
+(1) U roku od godine dana nakon početka primjene Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01.) fizičke ili pravne osobe koje obavljaju gospodarski ribolov moraju pribaviti povlasticu sukladno odredbi članka 10. toga Zakona, jer im u protivnom prestaje pravo na obavljanje gospodarskog ribolova, što će rješenjem utvrditi Ministarstvo.
+(2) Fizičke ili pravne osobe koje obavljaju gospodarski ribolov obvezuju se u roku od godine dana od dana primjene toga Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01.) uskladiti svoj rad i poslovanje s odredbama toga Zakona, jer im u protivnom prestaje pravo na obavljanje gospodarskog ribolova, što će rješenjem utvrditi Ministarstvo.

@@ -1,5 +1,7 @@
 # Članak 88.
-(1) Gospodarske osnove donesene na temelju propisa koji su bili na snazi do donošenja ovoga Zakona kojima nije istekao ili neće isteći rok, vrijede do kraja roka na koji su potvrđene, a nakon obavljene revizije trajno.
-(2) Iznimno od odredbe stavka 1. ovoga članka, odredbe gospodarskih osnova za područje rijeke Save od državne granice s Republikom BiH do državne granice sa SRJ, te za područje rijeke Dunav od državne granice s Republikom Mađarskom do državne granice sa SRJ, a koje se odnose na obavljanje gospodarskog ribolova, ovlaštenici ribolovnog prava moraju u roku od godine dana od dana stupanja na snagu ovoga Zakona uskladiti sa ovim Zakonom i propisima donesenim na temelju njega.
-(3) Ako na određenom ribolovnom području ili u određenoj ribolovnoj zoni dođe do pomora riba većeg od jedne trećine ihtiomase procijenjene gospodarskom osnovom iz stavka 1. ovoga članka, mora se obaviti revizija važeće gospodarske osnove (članak 33. stavak 5.).
-(4) Rješenja i ugovori o korištenju ribolovnih područja ili ribolovnih zona koja su izdana, odnosno ugovori koji su sklopljeni do dana primjene ovoga Zakona važe do donošenja rješenja i sklapanja ugovora u skladu s ovim Zakonom.
+(1) Za prekršaje navedene u članku 80. stavku 1. točki 6. te u članku 81. stavku 1. točki 10. ovoga Zakona, osim novčane kazne obvezatno se izriče i zaštitna mjera oduzimanja riba namijenjenih poribljavanju ribolovne vode.
+(2) Za prekršaje navedene u članku 80. stavku 1. točki 2., 4., 8. i 10., u članku 81. stavku 1. točki 1., 2., 3., 4., 5., 6., 7., 8., 9. i 11., u članku 82. stavku 1. točki 12., 13. i 15., u članku 83., u članku 84. stavku 1. točki 1., 2., 3., 4., 5., 6., 7., 8., 9., 10. i 11. te u članku 85. stavku 1. točki 1. ovoga Zakona, osim novčane kazne obvezatno se izriču i zaštitne mjere:
+- oduzimanja ulova riba,
+- oduzimanje alata, opreme i mamaca za ribolov kojim je počinjen prekršaj, bez obzira na to tko je vlasnik.
+(3) Za prekršaje navedene u članku 80. stavku 1. točki 5. i 7. ovoga Zakona, osim novčane kazne obvezatno se izriče i zaštitna mjera oduzimanja riba namijenjenih djelatnosti akvakulture.
+(4) Za prekršaje navedene u članku 82. stavku 1. točki 11. ovoga Zakona, osim novčane kazne obvezatno se izriče i zaštitna mjera oduzimanja onih vrsta riba koje nisu upisane u povlastici za akvakulturu.

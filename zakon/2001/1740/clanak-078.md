@@ -1,5 +1,3 @@
+## IX. POSEBNE ODREDBE
 # Članak 78.
-Novčanom kaznom od 1.000,00 do 6.000,00 kuna kaznit će se za prekršaj:
-1. ribič ako u ribolovu kod sebe nema dozvolu (članak 23. stavak 2.),
-2. natjecatelj ako ulovljenu ribu ne čuva na način predviđen u članku 45. stavku 7. ovoga Zakona,
-3. ribič ako na propisanom obrascu ovlašteniku ribolovnog prava ne dostavi podatke o količini i sastavu ulova (članak 66. stavak 2.).
+Ribiči, ribari i osobe koje obavljaju nadzor nad provođenjem propisa iz slatkovodnog ribarstva imaju pravo pristupa na ribolovne vode prilazima preko zemljišta koje se nalazi uz to područje. To pravo ne odnosi se na zemljište koje je u privatnom vlasništvu, a ni na zemljište na koje je pristup posebnim propisima zabranjen ili ograničen.

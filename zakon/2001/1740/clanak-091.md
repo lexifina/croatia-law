@@ -1,3 +1,2 @@
 # Članak 91.
-(1) U roku od godine dana nakon početka primjene ovoga Zakona, fizičke ili pravne osobe koje obavljaju djelatnost akvakulture moraju pribaviti povlasticu za akvakulturu sukladno odredbi članka 47. ovoga Zakona, jer im u protivnom prestaje pravo obavljanja djelatnosti akvakulture, što će rješenjem utvrditi Ministarstvo.
-(2) Fizičke i pravne osobe koje obavljaju djelatnost akvakulture obvezatne su u roku od godine dana od dana primjene ovoga Zakona uskladiti svoj rad i poslovanje s odredbama ovoga Zakona, jer im u protivnom prestaje pravo na obavljanje djelatnosti akvakulture, što će rješenjem utvrditi Ministarstvo.
+Troškove privođenja prekršitelja i troškove prijevoza i čuvanja plovila ili drugog vozila, alata i opreme za ribolov te ulova snosi prekršitelj.
