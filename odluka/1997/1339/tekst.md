@@ -1,0 +1,7 @@
+I.
+Visina svote carine po mjernoj jedinici pri uvozu poljoprivrednih proizvoda iz ovih tarifnih oznaka Carinske tarife iz Dodatka A Zakona o carinskoj tarifi mijenja se i iznosi:
+_____________________________________________________________________________________________ Tarifni |  | Tarifna |  |  | Naziv |  |  | Mjerna |  | Svota carine broj |  | oznaka |  |  |  |  |  | jedinica | u kunama Carinske |  |  |  |  |  |  |  |  | po mjernoj tarife |  |  |  |  |  |  |  |  |  | jedinici _____________________________________________________________________________________________ 04.01 |  |  |  | Mlijeko i vrhnje, nekoncentrirani i |  |  |  | bez dodatnog šećera ili drugih tvari |  |  |  | za zaslađivanje; _____________________________________________________________________________________________ |  | 0401.20 |  | - s udjelom masti više od 1% do |  |  |  | 6% po masi: _____________________________________________________________________________________________ |  | 0401.20.209 | ---ostalo |  |  | kg | 0.00 _____________________________________________________________________________________________
+II.
+Danom stupanja na snagu ove Odluke prestaje važiti sadržaj Dodatka A - Svota carine po mjernoj jedinici robe za poljoprivredne i prehrambene proizvode - unutar Carinske tarife ("Narodne novine", br. 49/96, 73/96, 81/96, 93/96, 11/97, 32/97, 51/97 i 73/97), za tarifne oznake navedene u ovoj Odluci.
+III.
+Ova Odluka stupa na snagu danom objave u "Narodnim novinama".
