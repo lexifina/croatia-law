@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske ("Narodne novine", broj 94/93), Vlada Republike Hrvatske je na sjednici održanoj 16. veljače 1994. donijela
