@@ -1,0 +1,2 @@
+# Članak 5.
+Ispostave porezne uprave zadužit će obveznike doprinosom iz članka 1. ove Odluke u skladu sa člankom 2. radi plaćanja predujma doprinosa. Poslove iz stavka 1. ovog članka ispostave porezne uprave obavljaju na temelju Ugovora zaključenim između Ministarstva financija - Porezne uprave Republike" Hrvatske i Saveza udruženja hrvatskih obrtnika odnosno Hrvatske obrtničke komore kao slijednika Saveza.

@@ -1,0 +1,2 @@
+# Članak 7.
+Ispostave porezne uprave uplaćeni doprinos iz ove Odluke doznačivat će zajedno sa doprinosom Savezima udruženja hrvatskih obrtnika regija i Udruženja obrtnika na jedinstvene račune otvorene kod nadležne ispostave Zavoda za platni promet. Ispostave Zavoda za platni promet doznarivat će doprinose iz stavka 1 ovog članka na žiro-račune korisnilk doprinosa. Pripadajući dio doprinosa Savezu udruženja hrvatskih obrtnika doznačivat će se na žiro-raćun broj 30102-639-42.
