@@ -1,0 +1,4 @@
+## Zaštita starijih radnika
+# Članak 43.
+Radniku kojem se tijekom radnog vijeka smanji radna sposobnost zbog godina starosti, općeg zdravstvenog stanja, fizičke ili psihičke iscrpljenosti, povrede na radu, invaliditeta, profesionalnog oboljenja i drugih težih bolesti sukladno ocjeni invalidske komisije ili ocjeni i procjeni nadležne službe za medicinu rada, a do stjecanja uvjeta za starosnu mirovinu nedostaje mu 5 godina života, osigurat će se povoljniji uvjeti rada (lakši poslovi, smanjenje norme i sl.) bez smanjenja plaće koju je ostvarivao u vremenu prije nego su nastupile spomenute okolnosti.
+U slučaju da je došlo do smanjenja radne sposobnosti radnika koji je imao ugovor o radu za poslove koji se obavljaju kao položaj, ostvaruje pravo na plaću koju bi ostvario na poslovima odgovarajuće stručne spreme.

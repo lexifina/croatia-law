@@ -1,0 +1,2 @@
+# Članak 53.
+Ovim Ugovorom stavlja se izvan snage Sporazum o uvećanju osnovne plaće s osnova uvjeta rada u djelatnosti socijalne skrbi, potpisan 4. lipnja 2002. godine, između Vlade Republike Hrvatske i Sindikata zaposlenika u djelatnosti socijalne skrbi Hrvatske, Samostalnog sindikata radnika u djelatnostima zdravstva MIO i socijalne zaštite Hrvatske i Sindikata zdravstva socijalne zaštite i MIO osiguranja.
