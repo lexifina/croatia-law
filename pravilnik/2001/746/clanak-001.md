@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se pravilnikom utvrđuje visina i način plaćanja naknada za pokriće troškova u postupku ovlašćivanja (akreditacije) laboratorija i pravnih osoba za provedbu potvrđivanja (certifikacije) u skladu sa zahtjevima utvrđenim u normama niza HRN EN 45000, odnosno HRN EN ISO/IEC 17000 a koje podnositelji zahtjeva plaćaju Državnom zavodu za normizaciju i mjeriteljstvo (u daljnjem tekstu: Zavod).
