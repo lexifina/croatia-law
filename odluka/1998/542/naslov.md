@@ -1,0 +1,1 @@
+Odluka o prodaji poslovnih prostora u vlasništvu Republike Hrvatske u zgradama namijenjenim stambenom zbrinjavanju hrvatskih ratnih vojnih invalida Domovinskog rata i članova obitelji poginuloga, umrl
