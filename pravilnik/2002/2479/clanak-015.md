@@ -1,0 +1,2 @@
+# Članak 15.
+Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o dodjeljivanju državnih stipendija i pripomoći studentima dodiplomskih i poslijediplomskih studija te poslijedoktorandima (»Narodne novine« br. 26/97) i Pravilnik o izmjenama i dopunama Pravilnika o dodjeljivanju državnih stipendija i pripomoći studentima dodiplomskih i poslijediplomskih studija te poslijedoktorandima (»Narodne novine« br. 01/02).
