@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Ako je osoba koja je državljanin jedne od ugovornih stranaka ili osoba koja na njezinom teritoriju ima prebivalište, pravomoćno osudena za kazneno djelo u drugoj ugovornoj stranci na kaznu zatvora ili joj je izrečena sigurnosna mjera, svaka ugovorna stranka može zahtijevati da se izvršenje kazne zatvora ili sigurnosne mjere provedu u onoj državi čiji je osudeni državljanin ili u kojoj ima prebivalište.
+(2) Ovaj Ugovor ne isključuje pravo osudene osobe, njezinog zakonskog zastupnika, supružnika, srodnika u pravnoj liniji, brata ili sestre na podnošenje zamolbe za prijenos izvršenja sudu koji je donio odluku, ili nadležnom tijelu kako države presuđenja tako i države čiji je osuđeni državljanin ili u kojoj ima prebivalište.
+(3) Nadležno tijelo države presuđenja poučit će osudenog, što je moguće prije, o mogućnosti izdržavanja kazne ili sigurnosne mjere u državi čiji je državljanin ili na čijem teritoriju ima prebivalište.
