@@ -1,0 +1,3 @@
+# Članak 1.
+Članstvo u Madridskoj uniji
+Države stranke ovoga Protokola (u daljnjem tekstu: »države ugovornice«), čak i ako nisu stranke Madridskoga sporazuma o međunarodnoj registraciji žigova, revidiranoga u Stockholmu 1967. te izmijenjenog i dopunjenog 1979. (u daljnjem tekstu »Madridski sporazum (Stockholm)«), kao i organizacije iz članka 14. stavka 1. podstavka b) koje su stranke ovoga Protokola (u daljnjem tekstu »organizacije ugovornice«) članice su iste unije čije su članice i zemlje koje su stranke Madridskoga sporazuma (Stockholm). Svako upućivanje na »ugovorne stranke« u ovom Protokolu mora se tumačiti kao upućivanje i na države ugovornice i na organizacije ugovornice.
