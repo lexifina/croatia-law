@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj: 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01.) i članka 21. Statuta Općine Vidovec (»Službeni vjesnik Varaždinske županije« broj: 22/01.) Općinsko vijeće Općine Vidovec na sjednici održanoj dana 5. prosinca 2002. godine, donijelo je
