@@ -1,0 +1,1 @@
+Odluka o izmjeni i dopuni Odluke o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivred
