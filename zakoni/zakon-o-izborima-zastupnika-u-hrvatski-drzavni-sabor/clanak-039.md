@@ -1,7 +1,3 @@
 # Članak 39.
-Izborne jedinice određuju se Zakonom o izbornim jedinicama za izbor
-zastupnika u Zastupnički dom Hrvatskoga državnog sabora tako da se broj
-birača u izbornim jedinicama ne smije razlikovati više od + - 5 %.
-Pri određivanju izbornih jedinica mora se koliko je to najviše moguće
-voditi računa o zakonom utvrđenim područjima županija, gradova i općina
-u Republici Hrvatskoj.
+Sa svake liste izabrani su kandidati od rednog broja 1. pa do rednog broja koliko je određena lista dobila zastupničkih mjesta.
+Zamjenici zastupnika sa svake liste izborne jedinice su kandidati koji nisu izabrani.

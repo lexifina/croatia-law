@@ -1,10 +1,5 @@
 # Članak 32.
-Parlamentarne političke stranke koje su imale zastupnike u Zastupničkom
-i Županijskom domu Sabora na dan 31. prosinca 1998., koje sudjeluju na
-izborima imaju pravo na naknadu troškova izborne promidžbe u jednogodišnjem
-iznosu određenom za 1999. godinu prema Zakonu o političkim strankama ("Narodne
-novine", br. 76/93., 111/96. i 164/98.) i propisima donijetima na temelju
-toga Zakona.
-Troškovi izborne promidžbe iz stavka 1. ovoga članka moraju biti isplaćeni
-političkim strankama najkasnije 48 sati nakon što su prihvaćene liste postale
-konačne.
+Političke stranke koje na dan 31. prosinca 2002. nisu bile zastupljene u Saboru kao i predlagatelji neovisnih lista, a koji sudjeluju na izborima imaju pravo na naknadu troškova izborne promidžbe ukoliko na izborima dobiju više od 5% važećih glasova birača izborne jedinice.
+Pravo na naknadu troškova izborne promidžbe iz državnog proračuna Republike Hrvatske ostvarit će i kandidati za zastupnike pripadnika nacionalnih manjina koji dobiju najmanje 5% važećih glasova birača u posebnoj izbornoj jedinici.
+Naknada se ima isplatiti u roku od 30 dana od dana objave službenih rezultata izbora.
+Visinu naknade troškova izborne promidžbe odredit će Vlada Republike Hrvatske posebnom odlukom. Odluka mora biti donijeta najkasnije 20 dana prije dana održavanja izbora.

@@ -1,3 +1,0 @@
-# Članak 105.
-Predsjednik Hrvatske akademije znanosti i umjetnosti po položaju je
-predsjednik Etičkog povjerenstva.

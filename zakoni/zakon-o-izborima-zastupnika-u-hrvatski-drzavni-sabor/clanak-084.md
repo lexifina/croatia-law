@@ -1,8 +1,3 @@
 # Članak 84.
-Po završenom glasovanju birački će odbor najprije prebrojati neupotrijebljene
-glasačke listiće i staviti ih u poseban omot koji će zapečatiti.
-Potom birački odbor na temelju zapisnika utvrđuje ukupan broj birača
-koji su glasovali, prema popisu birača, odnosno prema izvatku iz popisa
-birača.
-Nakon što broj birača koji su glasovali bude utvrđen, odbor pristupa
-otvaranju glasačke kutije i prebrojavanju glasova.
+Prigovor zbog nepravilnosti u postupku kandidiranja ili u postupku izbora može podnijeti svaka politička stranka, nositelji neovisne liste, kandidati za zastupnike u Sabor, najmanje 100 birača ili najmanje 5% birača izborne jedinice u kojoj se provode izbori.
+Ukoliko je listu izborne jedinice, ili kandidata za zastupnika nacionalne manjine predložilo više političkih stranaka prigovor će se smatrati pravovaljanim i kad ga je podnijela samo jedna politička stranka.

@@ -1,7 +1,4 @@
 # Članak 87.
-Birački odbor dostavlja zapisnik o svom radu s ostalim izbornim materijalom
-općinskom ili gradskom izbornom povjerenstvu, odnosno županijskom izbornom
-povjerenstvu, najkasnije u roku od 12 sati od zatvaranja birališta.
-Birački odbor u hrvatskom diplomatskokonzularnom pred-stavništvu dostavlja
-zapisnik o svom radu s ostalim izbornim materijalom izravno Državnom izbornom
-povjerenstvu u roku od 48 sati od zatvaranja birališta.
+Protiv rješenja Državnoga izbornog povjerenstva podnositelj prigovora ima pravo podnijeti žalbu Ustavnom sudu Republike Hrvatske.
+Žalba se podnosi Ustavnom sudu Republike Hrvatske putem Državnoga izbornog povjerenstva, u roku od 48 sati računajući od isteka dana kada je primljeno pobijano rješenje.
+Ustavni sud Republike Hrvatske dužan je donijeti odluku o žalbi u roku od 48 sati od dana njezina primitka.

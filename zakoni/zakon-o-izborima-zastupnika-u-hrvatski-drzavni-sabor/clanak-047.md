@@ -1,7 +1,3 @@
-## IZBOR ZASTUPNIKA U ŽUPANIJSKI DOM HRVATSKOGA DRŽAVNOG SABORA
 # Članak 47.
-U Županijski dom Sabora bira se, na temelju županijskih lista, po tri
-zastupnika u svakoj županiji, te tri u Gradu Zagrebu tako da područje svake
-županije, odnosno Grada Zagreba čini jednu izbornu jedinicu.
-Predsjednik Republike može iz reda za Republiku Hrvatsku osobito zaslužnih
-građana imenovati do pet zastupnika Županijskog doma Sabora.
+Prošireni sastav Državnoga izbornog povjerenstva čine po tri predstavnika većinske političke stranke, odnosno koalicije i tri dogovorno predložena predstavnika oporbenih političkih stranaka, odnosno koalicija sukladno stranačkom sastavu Sabora i njihovi zamjenici.
+Ako se ne postigne dogovor o tri predstavnika političkih stranaka koje se prema stranačkom sastavu Sabora smatraju oporbenima, izbor tri člana proširenog sastava i njihovih zamjenika obavit će se kockom pred Ustavnim sudom Republike Hrvatske i to između kandidata i zamjenika.

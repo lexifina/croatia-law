@@ -1,7 +1,3 @@
-## PROVEDBA IZBORA
 # Članak 70.
-Najkasnije deset dana prije izbora, Državno izborno povjerenstvo za
-biračka mjesta u inozemstvu, a izborna povjerenstva izborne jedinice, odnosno
-županijska izborna povjerenstva za područje Republike Hrvatske objavit
-će koja su biračka mjesta određena, s naznakom koji će birači glasovati
-na pojedinom mjestu.
+Predsjednik biračkog odbora ili od njega ovlašteni član dužan je za svakog birača koji pristupi glasovanju provjeriti da li je upisan u popis birača.
+Ako birač nije upisan u popis birača predsjednik biračkog odbora mu neće dozvoliti glasovanje, osim ako birač svoje biračko pravo na tom biračkom mjestu ne dokaže potvrdom nadležnog državnog tijela.

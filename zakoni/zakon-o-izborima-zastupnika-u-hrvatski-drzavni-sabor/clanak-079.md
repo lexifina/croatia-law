@@ -1,7 +1,5 @@
 # Članak 79.
-Nevažeći glasački listić jest:
-1. neispunjeni glasački listić,
-2. glasački listić popunjen na način da se ne može sa sigurnošću utvrditi
-volja birača i okolnost za koju je listu, odnos-no kandidata, glasovao,
-3. glasački listić na kojem je birač glasovao za dvije ili više lista,
-odnosno kandidata.
+Kad Državno izborno povjerenstvo utvrdi rezultate glasovanja za zastupnike bez odlaganja će objaviti:
+1. broj birača upisanih u popise birača, broj birača koji su glasovali u svakoj izbornoj jedinici, koliko glasova je dobila pojedina lista u izbornoj jedinici, i koliko je bilo nevažećih glasačkih listića,
+2. broj zastupničkih mjesta koje je dobila svaka lista, te imena i prezimena kandidata koji su izabrani za zastupnike,
+3. ime i prezime kandidata i njihovih zamjenika koji su izabrani u svakoj izbornoj jedinici u kojoj se bira zastupnik nacionalnih manjina i njegov zamjenik.

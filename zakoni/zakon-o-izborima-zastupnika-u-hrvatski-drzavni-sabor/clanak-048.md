@@ -1,12 +1,13 @@
 # Članak 48.
-Broj zastupnika koji će biti izabran sa svake županijske liste utvrđuje
-se na sljedeći način:
-Ukupan broj važećih glasova koje je dobila svaka županijska lista (biračka
-masa liste) dijeli se s brojevima od 1 do zaključno 3. Od svih dobivenih
-rezultata treći rezultat po redu jest zajednički djelitelj kojim se dijeli
-ukupan broj glasova svake županijske liste (biračka masa liste). Svaka
-županijska lista dobit će onoliko zastupničkih mjesta koliko puta ukupni
-broj njezinih dobivenih važećih glasova (biračka masa) sadrži zajednički
-djelitelj. Ako su važeći glasovi tako podijeljeni da se ne može utvrditi
-koja bi između dvije ili više županijskih lista dobila koje zastupničko
-mjesto, ono će pripasti županijskoj listi koja je dobila više glasova.
+Državno izborno povjerenstvo:
+1. brine o zakonitoj pripremi i provedbi izbora za zastupnike Sabora,
+2. imenuje članove izbornih povjerenstava izbornih jedinica,
+3. utvrđuje obvezatne upute za rad izbornih povjerenstava i biračkih odbora,
+4. određuje biračka mjesta i imenuje biračke odbore u hrvatskim diplomatsko‑konzularnim predstavništvima Republike Hrvatske,
+5. propisuje obrasce u postupku pripreme i provedbe izbora,
+6. nadzire rad izbornih povjerenstava izbornih jedinica,
+7. na temelju pravovaljanih prijedloga objavljuje liste izbornih jedinica, te sastavlja zbirne liste izbornih jedinica,
+8. nadzire pravilnost izborne promidžbe,
+9. objavljuje rezultate izbora za zastupnike u Sabor,
+10. osigurava stalnu službu sa zadaćom mjerodavnog i stručnog informiranja birača i davanja odgovora vezanih uz provedbu glasovanja i izbora,
+11. obavlja i druge poslove određene ovim Zakonom.

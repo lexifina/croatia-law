@@ -1,11 +1,5 @@
 # Članak 60.
-Prošireni sastav izbornog povjerenstva izborne jedinice čine po dva
-predstavnika većinske političke stranke, odnosno koalicije i dva dogovorno
-predložena predstavnika oporbenih političkih stranaka, odnosno koalicija
-sukladno stranačkom sastavu doma Sabora za koji su izbori raspisani i njihovi
-zamjenici.
-Ukoliko se ne postigne dogovor o dva predstavnika poli-tičkih stranaka
-koje se prema stranačkom sastavu doma Sabora za koji su izbori raspisani
-smatraju oporbenima, izbor dva člana proširenog sastava i njihovih zamjenika
-obavit će se kockom pred Državnim izbornim povjerenstvom i to između kandidata
-i zamjenika.
+Pri određivanju biračkih mjesta mora se voditi računa o broju birača koji će na njima glasovati, te dostupnosti i prostornoj udaljenosti biračkog mjesta.
+Broj birača koji će glasovati na jednom biračkom mjestu odredit će se na način da se glasovanje bez poteškoća može odvijati u vremenu određenom za glasovanje.
+Za svako biračko mjesto određuje se posebna prostorija za glasovanje koja se mora opremiti i urediti na način koji će osigurati tajnost glasovanja.
+Svako biračko mjesto ima redni broj.

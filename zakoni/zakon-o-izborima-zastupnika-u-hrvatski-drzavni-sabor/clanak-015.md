@@ -1,4 +1,5 @@
+## PRAVO PRIPADNIKA NACIONALNIH
+## MANJINA U REPUBLICI HRVATSKOJ NA ZASTUPLJENOST U HRVATSKOM SABORU
 # Članak 15.
-Odredbe ovoga Zakona o mirovanju zastupničkog mandata na temelju pisanog
-zahtjeva zastupnika ne odnose se na zastupnike koje u Županijski dom Sabora
-imenuje, na temelju svojih ustavnih ovlasti, Predsjednik Republike Hrvatske.
+Republika Hrvatska jamči pripadnicima nacionalnih manjina u Republici Hrvatskoj ostvarenje prava na zastupljenost u Saboru.
+Pripadnici nacionalnih manjina u Republici Hrvatskoj imaju pravo birati osam zastupnika u Sabor koji se biraju u posebnoj izbornoj jedinici koju čini područje Republike Hrvatske.

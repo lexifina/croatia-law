@@ -1,10 +1,3 @@
-## TROŠKOVI ZA PROVEDBU IZBORA
+## PRIJELAZNE I ZAVRŠNE ODREDBE
 # Članak 95.
-Sredstva za pokriće troškova izbora osiguravaju se u državnom proračunu
-Republike Hrvatske, a njima raspolaže Državno izborno povjerenstvo.
-Državno izborno povjerenstvo određuje način korištenja sred-stava, provodi
-nadzor nad njihovim utroškom, te dodjeljuje odgovarajuća sredstva izbornim
-povjerenstvima u izbornim jedinicama i županijskim izbornim povjerenstvima.
-Državno izborno povjerenstvo objavit će u sredstvima javnog priopćavanja
-cjelovito izvješće o visini troškova izbora i načinu njihova korištenja
-u roku od 30 dana od dana objave službenih rezultata izbora.
+Danom stupanja na snagu Zakona o izborima zastupnika u Hrvatski državni sabor (»Narodne novine«, br. 116/99.) prestaje važiti Zakon o izborima zastupnika u Sabor Republike Hrvatske (»Narodne novine«, br. 22/92., 1/93., 30/93. - pročišćeni tekst, 11/94., 68/95. i 108/96.).

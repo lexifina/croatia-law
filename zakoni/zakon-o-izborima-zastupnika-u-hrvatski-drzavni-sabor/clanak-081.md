@@ -1,9 +1,3 @@
 # Članak 81.
-Predsjednik biračkog odbora dužan je i ovlašten osigurati red i mir
-na biračkom mjestu za vrijeme glasovanja, kao i nakon zatvaranja birališta.
-Ako je to nužno radi očuvanja reda i mira, te radi nesmetanog odvijanja
-glasovanja, predsjednik biračkog odbora može zatražiti pomoć policije koja
-je na biračkom mjestu dužna postupati po njegovim uputama, a u okviru zakonskih
-ovlasti.
-Nitko, osim pripadnika policije na poziv predsjednika biračkog odbora,
-ne smije doći na biralište naoružan.
+Državno izborno povjerenstvo nakon zatvaranja birališta može objavljivati privremene i neslužbene rezultate izbora prema svome nahođenju.
+Službeni rezultati objavit će se nakon što se iscrpe sva pravna sredstva u zaštiti biračkog prava ili proteknu rokovi za njihovo podnošenje.

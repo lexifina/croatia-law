@@ -1,9 +1,3 @@
-## IZBORNO POVJERENSTVO IZBORNE
-## JEDINICE
+## PROVEDBA IZBORA
 # Članak 58.
-Izborno povjerenstvo izborne jedinice ima stalni i prošireni sastav.
-Stalni sastav izbornog povjerenstva izborne jedinice čine predsjednik
-i dva člana, te njihovi zamjenici.
-Predsjednika, članove, zamjenika predsjednika i zamjenike članova stalnog
-sastava izbornog povjerenstva izborne jedinice imenuje Državno izborno
-povjerenstvo iz reda sudaca i istaknutih pravnika.
+Najkasnije deset dana prije izbora, Državno izborno povjerenstvo za biračka mjesta u inozemstvu, a izborna povjerenstva izborne jedinice za područje Republike Hrvatske objavit će koja su biračka mjesta određena, s naznakom koji će birači glasovati na pojedinom mjestu.

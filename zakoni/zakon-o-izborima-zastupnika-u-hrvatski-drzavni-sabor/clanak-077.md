@@ -1,15 +1,8 @@
 # Članak 77.
-Glasački listić na kojem se glasuje u izbornoj jedinici u kojoj se bira
-zastupnik autohtone nacionalne manjine i njegov zamjenik sadrži:
-1. ime i prezime kandidata i njegovog zamjenika,
-2. puni i skraćeni naziv političke stranke, odnosno stranaka ili stranačke
-koalicije koja je predložila kandidata. Ukoliko je kandidat predložen od
-skupine birača u skladu s odredbama ovoga Zakona, uz njegovo se ime i prezime
-navodi i naznaka "neovisni kandidat",
-3. serijski broj.
-Na glasačkom listiću navode se kandidati onim redom kojim su navedeni
-na listi kandidata za izbor zastupnika autohtonih nacionalnih manjina.
-Ispred imena i prezimena svakog kandidata stavlja se redni broj.
-Glasuje se samo za kandidate za izbor zastupnika autohtonih nacionalnih
-manjina navedene na glasačkom listiću i to zaokruživanjem rednog broja
-ispred imena kandidata.
+O svom radu izborno povjerenstvo izborne jedinice vodi zapisnik u koji će ubilježiti:
+1. broj birača upisanih u izvadak iz popisa birača na svom području,
+2. broj birača koji su glasovali i broj glasačkih listića koji su proglašeni nevažećim,
+3. broj glasova koje je dobila svaka lista, te imena i prezimena kandidata sa svake liste koji su izabrani za zastupnike.
+Svaki član izbornog povjerenstva izborne jedinice može staviti pisane primjedbe na zapisnik. Zapisnik potpisuju svi članovi izbornog povjerenstva izborne jedinice.
+Izborno povjerenstvo izborne jedinice zbrojit će rezultate glasovanja na biračkim mjestima na svom području najkasnije u roku od 24 sata od sata zatvaranja birališta.
+Izborno povjerenstvo izborne jedinice dostavit će izborne rezultate na svom području Državnom izbornom povjerenstvu zajedno sa zapisnikom o svom radu na način i u roku koji im ono odredi.

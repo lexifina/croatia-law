@@ -1,7 +1,2 @@
 # Članak 18.
-Pravo predlaganja kandidata za zastupnike autohtonih nacionalnih manjina
-i njihovih zamjenika imaju političke stranke, birači i udruge nacionalnih
-manjina.
-Ukoliko kandidata za zastupnika autohtonih nacionalnih manjina i njegovog
-zamjenika predlažu birači, za pravovaljanost kandidature potrebno je prikupiti
-100 potpisa birača.
+Potpisi birača u postupku kandidiranja zastupnika i zamjenika pripadnika nacionalnih manjina koji se biraju u posebnim izbornim jedinicama prikupljaju se na propisanom obrascu u koji se unose ime i prezime, nacionalnost i adresa predloženog kandidata, te ime i prezime i adresa potpisanog birača - predlagatelja.

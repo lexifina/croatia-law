@@ -1,8 +1,4 @@
 # Članak 71.
-Ministar obrane odredit će biračka mjesta za glasovanje birača na službi
-u oružanim snagama Republike Hrvatske.
-Ministar pomorstva, prometa i veza odredit će biračka mjesta za glasovanje
-birača koji se kao članovi posade pomorskih i riječkih brodova pod hrvatskom
-zastavom na dan izbora zateknu izvan granica Republike Hrvatske.
-Ministar pravosuđa odredit će biračka mjesta za glasovanje birača lišenih
-slobode.
+Birač koji zbog kakve tjelesne mane ili zbog toga što je nepismen ne bi mogao samostalno glasovati, može doći na biračko mjesto s drugom osobom koja je pismena i koja će po njegovoj ovlasti i uputi zaokružiti redni broj ispred naziva liste, odnosno ispred imena kandidata za koje birač glasuje.
+Birač koji nije u mogućnosti pristupiti na biračko mjesto obavijestit će o tome birački odbor. Predsjednik biračkog odbora određuje najmanje dva člana biračkog odbora ili zamjenika koji će birača posjetiti u mjestu gdje se nalazi i omogućiti mu glasovanje, vodeći pri tome računa o tajnosti glasovanja.
+Predsjednik biračkog odbora dužan je glasovanje birača s tjelesnom manom, nepismenih birača, kao i glasovanje izvan biračkog mjesta po prethodnoj obavijesti birača, poimenično navesti u zapisniku o radu biračkog odbora.

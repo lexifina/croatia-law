@@ -1,7 +1,5 @@
+## TROŠKOVI ZA PROVEDBU IZBORA
 # Članak 82.
-Predsjednik biračkog odbora ili od njega ovlašteni član dužan je za
-svakog birača koji pristupi glasovanju provjeriti da li je upisan u popis
-birača.
-Ako birač nije upisan u popis birača predsjednik biračkog odbora mu
-neće dozvoliti glasovanje, osim ako birač svoje biračko pravo na tom biračkom
-mjestu ne dokaže potvrdom nadležnog državnog tijela.
+Sredstva za pokriće troškova izbora osiguravaju se u državnom proračunu Republike Hrvatske, a njima raspolaže Državno izborno povjerenstvo.
+Državno izborno povjerenstvo određuje način korištenja sredstava, provodi nadzor nad njihovim utroškom, te dodjeljuje odgovarajuća sredstva izbornim povjerenstvima u izbornim jedinicama.
+Državno izborno povjerenstvo objavit će u sredstvima javnog priopćavanja cjelovito izvješće o visini troškova izbora i načinu njihova korištenja u roku od 30 dana od dana objave službenih rezultata izbora.

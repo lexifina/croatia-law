@@ -1,21 +1,5 @@
 # Članak 22.
-Prijedlozi lista moraju prispjeti Državnom izbornom povjerenstvu Republike
-Hrvatske (u daljnjem tekstu: Državno izborno povjerenstvo), odnosno županijskom
-izbornom povjerenstvu, najkasnije u roku od 14 dana od dana raspisivanja
-izbora.
-U prijedlogu liste izborne jedinice za izbor zastupnika u Zastupnički
-dom Sabora obvezatno se navodi naziv liste, a kandidati moraju biti na
-listi poredani od rednog broja 1 do zaključno rednog broja 14.
-U prijedlogu županijske liste za izbor zastupnika u Županij-ski dom
-Sabora obvezatno se navodi ime i prezime kandidata, kao i zamjenika svakog
-od kandidata na listi. Kandidati moraju biti na listi poredani od rednog
-broja 1. do zaključno rednog bro-ja 3.
-Naziv liste jest puni naziv političke stranke, odnosno poli-tičkih stranaka
-ili stranačke koalicije, koja je, odnosno koje su listu predložile. Ako
-političke stranke koriste skraćeni naziv stranke, odnosno stranaka ili
-stranačke koalicije, u nazivu se mogu koristiti skraćenice.
-Ukoliko je listu predložila skupina birača njezin naziv je "neovisna
-lista".
-Nositelj liste ne mora biti kandidat na listi.
-Kandidatom se može biti samo na jednoj listi i samo u jednoj izbornoj
-jedinici.
+Državno izborno povjerenstvo će u roku od 48 sati od predaje lista izbornih jedinica za izbor zastupnika u Sabor, prihvatiti i u svim dnevnim novinama u Republici Hrvatskoj i na Hrvatskoj radioteleviziji objaviti sve pravovaljano predložene liste za svaku izbornu jedinicu.
+Državno izborno povjerenstvo objavit će za svaku izbornu jedinicu zbirnu listu svih pravovaljanih predloženih lista.
+Zbirna lista sadrži naziv svake liste izborne jedinice, te ime i prezime nositelja svake liste. Na zbirnu listu izborne jedinice, stranačke, odnosno neovisne liste se unose prema abecednom redu punog naziva političke stranke, odnosno koalicije političkih stranaka koja je listu predložila. Ako je više političkih stranaka predložilo zajedničku listu, ona će se unijeti na zbirnu listu prema nazivu prve po redu političke stranke u prijedlogu.
+Državno izborno povjerenstvo će u roku od 48 sati dostaviti hrvatskim diplomatsko‑konzularnim predstavništvima sve prihvaćene liste za svaku izbornu jedinicu, kao i zbirnu listu izbornih lista svake izborne jedinice radi njihove javne objave.

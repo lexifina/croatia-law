@@ -1,12 +1,6 @@
 # Članak 24.
-Županijsko izborno povjerenstvo će u roku od 48 sati od predaje županijskih
-lista za izbor zastupnika u Županijski dom, prihvatiti i u svim dnevnim
-novinama u Republici Hrvatskoj i na Hrvatskoj radioteleviziji objaviti
-sve pravovaljano predložene županijske liste za svaku županiju.
-Županijsko izborno povjerenstvo objavit će zbirnu listu svih pravovaljanih
-predloženih lista u svakoj županiji.
-Na zbirnu županijsku listu stranačke, odnosno neovisne liste se unose
-prema abecednom redu punog naziva političke stranke, odnosno koalicije
-političkih stranaka koja je listu predložila. Ako je više političkih stranaka
-predložilo zajedničku listu, ona će se unijeti na zbirnu županijsku listu
-prema nazivu prve po redu političke stranke u prijedlogu.
+Najkasnije 48 sati nakon što je prihvaćena i objavljena lista, od kandidature za zastupnika u Sabor u izbornim jedinicama gdje se biraju zastupnici nacionalnih manjina može odustati:
+- neovisni kandidat pisanim očitovanjem ovjerovljenim po javnom bilježniku,
+- kandidat kojeg je predložila politička stranka uz pisanu suglasnost političke stranke i
+- politička stranka koja je predložila kandidata.
+Odustanak kandidata iz stavka 1. ovoga članka odnosi se i na njihove zamjenike.

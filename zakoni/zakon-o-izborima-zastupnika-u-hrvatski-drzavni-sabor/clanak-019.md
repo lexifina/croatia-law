@@ -1,7 +1,5 @@
+## KANDIDIRANJE
 # Članak 19.
-Potpisi birača u postupku kandidiranja zastupnika i zamje-nika pripadnika
-autohtonih nacionalnih manjina koji se biraju u posebnim izbornim jedinicama
-prikupljaju se na propisanom obrascu u koji se unose ime i prezime, nacionalnost,
-adresa i jedinstveni matični broj građana predloženog kandidata, te ime
-i prezime, adresa i jedinstveni matični broj građana potpisanog birača
-- predlagatelja.
+Pravo predlaganja stranačkih lista za izbor zastupnika u Sabor imaju sve političke stranke registrirane u Republici Hrvatskoj na dan objave odluke o raspisivanju izbora u »Narodnim novinama«.
+Listu za izbor zastupnika u Sabor može samostalno predložiti jedna politička stranka, te dvije ili više političkih stranaka (koalicijska lista).
+Političke stranke samostalno utvrđuju svoje stranačke liste i redoslijed na njima istaknutih kandidata, na način predviđen statutom političke stranke, odnosno u skladu s posebnim statutarnim odlukama.

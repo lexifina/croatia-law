@@ -1,6 +1,3 @@
-## TIJELA ZA PROVEDBU IZBORA ZASTUPNIKA U ZASTUPNIČKI I ŽUPANIJSKI
-## DOM HRVATSKOGA DRŽAVNOG SABORA
 # Članak 51.
-Tijela za provedbu izbora zastupnika u Zastupnički dom Sabora su:
-Državno izborno povjerenstvo, izborna povjerenstva izbornih jedinica,
-općinska i gradska izborna povjerenstva i birački odbori.
+Prošireni sastav izbornog povjerenstva izborne jedinice određuje se po prihvaćanju, utvrđivanju i objavi stranačkih lista.
+Članovi proširenog sastava izbornog povjerenstva izborne jedinice imaju sva prava i dužnosti stalnih članova izbornog povjerenstva izborne jedinice.

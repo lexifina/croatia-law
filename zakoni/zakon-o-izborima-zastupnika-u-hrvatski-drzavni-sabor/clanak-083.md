@@ -1,14 +1,4 @@
+## ZAŠTITA IZBORNOG PRAVA
 # Članak 83.
-Birač koji zbog kakve tjelesne mane ili zbog toga što je nepismen ne
-bi mogao samostalno glasovati, može doći na biračko mjesto s drugom osobom
-koja je pismena i koja će po njegovoj ovlasti i uputi zaokružiti redni
-broj ispred naziva liste, odnosno ispred imena kandidata za koje birač
-glasuje.
-Birač koji nije u mogućnosti pristupiti na biračko mjesto obavijestit
-će o tome birački odbor. Predsjednik biračkog odbora određuje najmanje
-dva člana biračkog odbora ili zamjenika koji će birača posjetiti u mjestu
-gdje se nalazi i omogućiti mu glasovanje, vodeći pri tome računa o tajnosti
-glasovanja.
-Predsjednik biračkog odbora dužan je glasovanje birača s tjelesnom manom,
-nepismenih birača, kao i glasovanje izvan biračkog mjesta po prethodnoj
-obavijesti birača, poimenično navesti u zapisniku o radu biračkog odbora.
+Ustavnost i zakonitost izbora nadzire Ustavni sud Republike Hrvatske.
+Ustavni sud Republike Hrvatske rješava i izborne sporove koji nisu u djelokrugu sudova, odlučujući u povodu žalbe na rješenje nadležnoga izbornog povjerenstva.

@@ -1,11 +1,9 @@
-## DRŽAVNO IZBORNO POVJERENSTVO
 # Članak 53.
-Državno izborno povjerenstvo ima stalni i prošireni sastav.
-Stalni sastav Državnoga izbornog povjerenstva čine pred-sjednik i četiri
-člana, te njihovi zamjenici.
-Predsjednik Vrhovnog suda Republike Hrvatske po položaju je predsjednik
-Državnoga izbornog povjerenstva.
-Članove povjerenstva, zamjenika predsjednika i zamjenike članova stalnog
-sastava Državnoga izbornog povjerenstva imenuje Ustavni sud Republike Hrvatske
-iz reda sudaca Vrhovnog suda Republike Hrvatske i drugih istaknutih pravnika
-koji ne smiju biti članovi političkih stranaka.
+Izborno povjerenstvo izborne jedinice:
+1. brine se za zakonitu provedbu izbora na biračkim mjestima na svom području,
+2. određuje biračka mjesta na prijedlog općinskih i gradskih izbornih povjerenstava,
+3. imenuje općinska i gradska izborna povjerenstva,
+4. imenuje i raspušta biračke odbore,
+5. prema obvezatnim uputama Državnoga izbornog povjerenstva obavlja sve tehničke pripreme za obavljanje izbora na svom području,
+6. prikuplja i zbraja rezultate glasovanja na biračkim mjestima na svom području od općinskih i gradskih izbornih povjerenstava i dostavlja ih Državnom izbornom povjerenstvu,
+7. obavlja i druge poslove određene ovim Zakonom.

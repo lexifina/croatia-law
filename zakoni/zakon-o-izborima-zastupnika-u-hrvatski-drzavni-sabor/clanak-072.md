@@ -1,10 +1,4 @@
 # Članak 72.
-Pri određivanju biračkih mjesta mora se voditi računa o broju birača
-koji će na njima glasovati, te dostupnosti i prostornoj udaljenosti biračkog
-mjesta.
-Broj birača koji će glasovati na jednom biračkom mjestu odredit će se
-na način da se glasovanje bez poteškoća može odvijati u vremenu određenom
-za glasovanje.
-Za svako biračko mjesto određuje se posebna prostorija za glasovanje
-koja se mora opremiti i urediti na način koji će osigurati tajnost glasovanja.
-Svako biračko mjesto ima redni broj.
+Po završenom glasovanju birački će odbor najprije prebrojati neupotrijebljene glasačke listiće i staviti ih u poseban omot koji će zapečatiti.
+Potom birački odbor na temelju zapisnika utvrđuje ukupan broj birača koji su glasovali, prema popisu birača, odnosno prema izvatku iz popisa birača.
+Nakon što broj birača koji su glasovali bude utvrđen, odbor pristupa otvaranju glasačke kutije i prebrojavanju glasova.

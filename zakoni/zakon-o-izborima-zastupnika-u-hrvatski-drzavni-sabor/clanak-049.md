@@ -1,3 +1,2 @@
 # Članak 49.
-Pravo na sudjelovanje u diobi zastupničkih mjesta ostvaruju županijske
-liste koje na izborima dobiju najmanje 5% važećih glasova birača.
+Obvezatne upute za rad izbornih povjerenstava i biračkih odbora koje utvrdi Državno izborno povjerenstvo objavljuju se u »Narodnim novinama«, na Hrvatskoj radioteleviziji i u svim dnevnim novinama u Republici Hrvatskoj.

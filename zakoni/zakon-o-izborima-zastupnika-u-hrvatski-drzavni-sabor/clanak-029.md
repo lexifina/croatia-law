@@ -1,6 +1,5 @@
+## TROŠKOVI IZBORNE PROMIDŽBE
+## I PRAVO NA NAKNADU
 # Članak 29.
-U vrijeme izborne promidžbe sve političke stranke koje su predložile
-kandidatske liste imaju pod jednakim uvjetima pravo na iznošenje i obrazlaganje
-svojih izbornih programa te izbornu promidžbu.
-Sva sredstva javnog priopćavanja dužna su u svom djelovanju omogućiti
-ostvarivanje prava političkih stranaka iz stavka 1. ovoga članka.
+Pravo na naknadu troškova izborne promidžbe iz državnog proračuna Republike Hrvatske ostvarit će sve političke stranke koje su istakle liste u najmanje jednoj izbornoj jedinici za izbor zastupnika u Sabor.
+Pravo na naknadu troškova izborne promidžbe iz državnog proračuna Republike Hrvatske ostvarit će i kandidati za zastupnike pripadnika nacionalnih manjina koji se biraju u posebnim izbornim jedinicama i nositelji neovisnih lista.

@@ -1,10 +1,4 @@
-## IZBORNA PROMIDŽBA
 # Članak 28.
-Izborna promidžba počinje danom objave zbirnih lista izbornih jedinica,
-odnosno županijskih lista, a završava 24 sata prije dana održavanja izbora.
-Na dan održavanja izbora kao i 24 sata prije dana održavanja izbora
-zabranjuje se svaka izborna promidžba, objavljivanje procjena izbornih
-rezultata, kao i objavljivanje prethodnih, neslužbenih rezultata izbora,
-objavljivanje fotografija u sredstvima javnog priopćavanja, izjava i intervjua
-nositelja lista, odnosno kandidata, te navođenje njihovih izjava ili pisanih
-djela.
+Radi ostvarenja jednakosti svih političkih stranaka koje su istakle liste i jednake mogućnosti predstavljanja programa i promidžbe političkih stranaka, Sabor će donijeti u roku od 15 dana od stupanja na snagu Zakona o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski državni sabor (»Narodne novine«, br. 53/03.) Pravila o postupanju elektronskih medija s nacionalnom koncesijom u Republici Hrvatskoj tijekom izborne promidžbe.
+Pravilima iz stavka 1. ovoga članka razradit će se i utvrditi oblici i vrijeme praćenja izborne promidžbe političkih stranaka, način predstavljanja programa političkih stranaka, kandidata na stranačkim i na neovisnim listama, kandidata za zastupnike pripadnika nacionalnih manjina, stranačkih dužnosnika, te pravila za emisije sa sučeljavanjima nositelja izbornih lista.
+Pravilima iz stavka 1. ovoga članka također će se utvrditi ukupno vrijeme svih emisija (telopi, spotovi, snimke sa skupova, posebne emisije i slično) koje putem elektronskih medija s nacionalnom koncesijom u Republici Hrvatskoj u jednakom trajanju mogu zakupiti većinska politička stranka i koalicija i oporbene političke stranke ili koalicije, vodeći računa da će se jednako vrijeme obračunavati po pojedinačnoj listi koja sudjeluje na izborima.
