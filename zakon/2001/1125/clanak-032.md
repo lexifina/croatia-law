@@ -1,0 +1,4 @@
+# Članak 32.
+U članku 98. iza stavka 8. dodaju se stavci 9. i 10. koji glase:
+"(9) Nakon prestanka isključivih prava HT d.d. utvrđenih stavkom 4. ovoga članka, u prijelaznom razdoblju do 31. prosinca 2004., HT d.d. neće biti obvezan omogućiti drugim operatorima i davateljima usluga razmotani pristup svojoj lokalnoj petlji. U istom razdoblju HT d.d. neće biti obvezan pružati usluge prenosivosti broja i predodabira operatora.
+(10) Bez utjecaja na usklađenje ugovora o koncesiji iz stavka 7. ovoga članka, Vlada Republike Hrvatske i HT d.d. sklopit će aneks ugovora o koncesiji iz stavka 5. ovoga članka kojim će se utvrditi prijelazno razdoblje do 31. prosinca 2004. kako je to navedeno u stavku 9. ovoga članka. Do isteka prijelaznog razdoblja utvrđenog stavkom 9. ovoga članka, ministar će donijeti pravilnike kojima će se regulirati razmotani pristup lokalnoj petlji, prenosivost broja i predodabir operatora."
