@@ -1,0 +1,7 @@
+# Članak 2.
+Psihološka djelatnost je sustav pojedinačno ili skupno usmjerenih stručnih postupaka, mjera i sredstava utemeljen na načelima i spoznajama psihološke znanosti i prakse koji obuhvaća:
+(a) psihološku dijagnostiku - odnosno utvrđivanje psihičkih i psihomotoričkih svojstava i potencijala pojedinaca te psihosocijalnih karakteristika skupina i organizacija u svrhu objašnjavanja i predviđanja njihovog ponašanja, pronalaženja uzroka nedjelotvornosti ili poremećaja te planiranja i provođenja psiholoških tretmana,
+(b) psihološke tretmane i savjetodavni rad - odnosno postupke namijenjene zaštiti, održavanju i poboljšanju mentalnog zdravlja pojedinaca i skupina, te poboljšanju kvalitete života i rada, optimalnom iskorištavanju osobnih potencijala i poboljšanju skupne i organizacijske djelotvornosti,
+(c) edukacijske aktivnosti - koje uključuju izobrazbu pojedinaca i skupina u ovladavanju općim i specifičnim psihološkim znanjima i vještinama s ciljem stjecanja psihološke naobrazbe, poboljšavanja osobne djelotvornosti i djelotvornosti u radu s ljudima,
+(d) psihološka stručna istraživanja - psihičkih i psihosocijalnih procesa i stanja pojedinaca i skupina u cilju produbljivanja spoznaja o zakonitostima psihičkog i psihosocijalnog djelovanja te procjeni društvenih potreba i posljedica ekonomskih ili društvenih inicijativa,
+(e) psihološku evaluaciju - svih psiholoških i drugih postupaka i tretmana koji se tiču pojedinca, grupe ili organizacije i koji mogu imati psihičke ili psihosocijalne posljedice.

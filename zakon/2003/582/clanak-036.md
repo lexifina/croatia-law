@@ -1,0 +1,4 @@
+## Suradnja s drugim tijelima
+# Članak 36.
+Komora prati i proučava odnose i pojave koje su od interesa za unapređenje psihološke djelatnosti. U tim aktivnostima usko surađuje sa studijima psihologije u Republici Hrvatskoj i inozemstvu, Hrvatskim psihološkim društvom i drugim nevladinim udrugama koje okupljaju psihologe i druge struke, te međunarodnim udrugama psihologa i drugih struka.
+Komora obavještava Hrvatski sabor, nadležna ministarstva, tijela sudbene vlasti, te predstavnička tijela jedinica lokalne samouprave, na vlastiti poticaj ili na njihov zahtjev, o stanju i problemima psihološke djelatnosti i o mjerama koje bi trebalo poduzeti radi unapređenja psihološke djelatnosti u cilju zaštite mentalnog zdravlja građana te rješavanju pitanja značajnih za ostvarivanje zadataka psihološke djelatnosti.

@@ -1,0 +1,5 @@
+# Članak 25.
+Psihološke testove i mjerne instrumente koje je Komora propisala kao psihološke mjerne instrumente (u nastavku: psihodijagnostička sredstva) mogu upotrebljavati psiholozi.
+Komora određuje popis posebno zaštićenih psihodijagnostičkih sredstava. Posebno zaštićena psihodijagnostička sredstva zabranjeno je u cjelini ili u dijelovima preslikavati i na bilo koji način davati na uvid neovlaštenim osobama. Ova zaštita obvezuje psihologe, izdavače i distributere psihodijagnostičkih sredstava, korisnike psihodijagnostičkih sredstava, pomoćno osoblje, korisnike psiholoških usluga i sve druge sudionike u psihodijagnostičkom procesu.
+Psihodijagnostička sredstva upotrebljavaju se sukladno standardima psihologijskog testiranja koje propisuje Komora. Psiholozi su slobodni u izboru psihodijagnostičkih sredstava i primjeni psiholoških metoda i tehnika u radu, osim kad su oni zadani u upravnom ili drugom pravnom propisu.
+Upotreba psihodijagnostičkih sredstava protivno odredbama ovoga članka je kažnjiva.
