@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki (»Narodne novine«, broj 82/01) ravnateljica Državnog zavoda za zaštitu obitelji, materinstva i mladeži, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zdravstveno osiguranje, donosi
