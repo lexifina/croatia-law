@@ -1,0 +1,4 @@
+## IV. ODUZIMANJE I STAVLJANJE IZVAN SNAGE DOZVOLE I PRIVREMENA ZABRANA PRISTUPA NA HRVATSKE CESTE
+# Članak 46.
+Ministarstvo prometa i veza može donijeti odluku o oduzimanju ili stavljanju izvan snage dozvole iz članka 10, odnosno članka 43. ovoga zakona izdane domaćem ili stranom prijevozniku, ako prijevoznik unatoč prethodnom upozorenju ne obavlja prijevoz u skladu s odredbama ovoga zakona ili međunarodnog ugovora.
+Dožvola iz članka 10. odnosno članka 43. ovoga zakona, izdana stranom prijevozniku, može se staviti izvan snage uz uvjet iz stavka 1. ovoga članka, te ako nadležni organ zemlje u kojoj je prijevoznik registriran odbije izdati odgovarajuću dozvolu za hrvatskog prijevoznika.Oduzimanje dozvole po odredbema stavka 1. i 2. ovoga članka može se izreći u trajanju od tri do dvanaest mjeseci.

@@ -1,0 +1,8 @@
+# Članak 35.
+Strani prijevoznik iz zemlje s kojom je Republika Hrvatska sklopila ugovor o međunarodnom cestovnom prijevozu stvari obavlja međunarodni slobodni prijevoz stvari u cestovnom prometu na teritoriju Republike Hrvatske na temelju dozvole, koju izdaje Ministarstvo prometa i veza, ako međunarodnim ugovorom nije određeno da se prijevoz obavlja bez dozvole.
+Međunarodni prijevoz stranim motornim vozilom s priključnim vozilima (skup vozila) obavlja se na temelju jedne dozvole.
+Iznimno od odredbe stavka 2. ovoga članka, ako strano motorno vozilo s priključnim vozilima u skupu vozila ima registarske oznake različitih zemalja, za svako od tih vozila potrebna je posebna dozvola za prijevoz stvari, predviđena ovim zakonom odnosno međunarodnim ugovorom.
+Original dozvole za prijevoz stvari mora se nalaziti u stranom vozilu dok se ono nalazi na teritoriju Republike Hrvatske.
+Na graničnom prljelazu odnosno na drugom mjestu gdje se obavlja carinski nadzor i od kojega strano vozilo počinje koristiti hrvatske ceste, nadležni carinski organ provjerava da li se u vozilu nalazi dozvola iz stavka 1. ovoga članka.
+Ako nadležni carinski organ utvrdi da se u vozilu ne nalazi propisana dozvola, zabranit će ulazak vozila u Republiku Hrvatsku odnosno ako to utvrdi na drugom mjestu gdje se obavlja carinski nadzor, zabranjuje daljnje kretanje vozila i o tome obavještava Ministarstvo prometa i veza radi donošenja odgovarajuće odluke.
+Odlukom iz stavka 6. ovoga članka Ministarstvo prometa i veza može zabraniti kretanje stranog vozila hrvatskim cestama i odrediti način njegova udaljavanja iz Republike Hrvatske ili odobriti kretanje vozila hrvatskim cestama, uz izdavanje posebne dozvole.

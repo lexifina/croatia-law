@@ -1,0 +1,2 @@
+# Članak 36.
+Ako je strani prijevoznik iz zemlje s kojom Republika Hrvatska nije sklopila ugovor o međunarodnom cestovnom prijevozu stvari, carinski organ na graničnom prijelazu odnosno drugom mjestu gdje se obavlja carinski nadzor izdat će mu posebnu dozvolu za prijevoz stvari, uz naplatu naknade predviđene člankom 51. ovoga zakona. Kopije tako izdanih dozvola carinski organ dostavlja Ministarstvu prometa i veza do desetog u mjesecu za protekli mjesec.
