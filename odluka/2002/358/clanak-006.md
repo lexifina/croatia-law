@@ -1,0 +1,2 @@
+# Članak 6.
+Obračun platnih transakcija preko obračunskih računa banaka i Hrvatske narodne banke u NKS-u obavlja se na neto multilateralnom načelu. Neto multilateralno načelo obračuna znači kontinuirani obračun platnih transakcija zadanih na teret i u korist obračunskih računa tijekom obračunskog dana. Rezultat je neto multilateralnog načela obračuna konačna neto pozicija na obračunskim računima na kraju obračunskog dana.
