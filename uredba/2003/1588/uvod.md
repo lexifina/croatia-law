@@ -1,0 +1,1 @@
+Na temelju članka 88. stavka 1. Zakona o izmjenama i dopunama Zakona o socijalnoj skrbi (»Narodne novine«, broj 103/2003) i članka 13. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvatske je na sjednici održanoj 17. srpnja 2003. godine donijela

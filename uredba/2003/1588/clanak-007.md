@@ -1,0 +1,2 @@
+# Članak 7.
+Do imenovanja ravnatelja Zavoda u natječajnom postupku, ministar nadležan za poslove socijalne skrbi imenovat će privremenog ravnatelja Zavoda koji je ovlašten, pod nadzorom ministarstva nadležnog za poslove socijalne skrbi, obaviti pripreme za početak rada Zavoda, a posebno pribaviti potrebne dozvole za početak rada, te podnijeti prijavu za upis u sudski registar i upisnik ustanova socijalne skrbi.
