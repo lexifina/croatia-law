@@ -1,0 +1,7 @@
+ODLUKA
+1. Poništavaju se:
+- izbori za tri odbornika Vijeća mjesnih zajednica Skupštine općine Benkovac u izbornim jedinicama 23 - Pristeg; 24 - Kožlovac i 51- Banjevci, održani 15. srpnja 1990. godine;
+- Izbori za tri odbornika Društveno-političkog vijeća Skupštine općine Benkovac u izbornim jedinicama 4 - Buković, Kožlovac i Kolarina: 10 - Smilčić. Škorići. Trljuge, Veljane i Kosa, i 11- Islam Grčki i Kašić, održani 15. srpnja 1990. godine;
+- izbori za tri odbornika Vijeća udruženog rada Skupštine općine Benkovac, održani 15. srpnja 1990. godine, iz reda individualnih poljoprivrednih proizvođača u izbornim jedinicama 24 - Brgud, koja obuhvača mjesne zajednice: Brgud, Dobrovoljci, Bjelina, Parčići. Popovići, Bruška, Rodaljic i Karin Donji, i 25 - Smilčić, koja obuhvača mjesne zajednice: Smilčić, Biljane Gornje, Škorići. Trljuge, Veljane, Kosa, Islam Grčki i Kašić, te 16. srpnja održane u izbornim jedinicama 11- PTT Zadar, PJ Benkovac, Poduzeće za ceste Šibenik, Sekcija za ceste Benkovac, DP "Zagrebački transporti" Zagreb - PJ Benkovac, ŽTP Knin - PJ Saobraćaj i PJ Održavanje.
+2. Skupština općine Benkovac dužna je održati ponovne izbore za tri odbornika Vijeća mjesnih zajednica, tri odbornika Društveno-političkog vijeća i za tri odbornika Vijeća udruženog rada.
+3. Ova odluka objavit će se u "Narodnim novinama", službenom listu Republike Hrvatske i u "Službenom vjesniku" općina Benkovac, Biograd n/m, Obrovac i Zadar.
