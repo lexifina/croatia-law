@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o iznimnim mjerama kontrole cijena (»Narodne novine«, broj 73/97), a u skladu sa člankom 34. Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu (»Narodne novine«, broj 29/99), Vlada Republike Hrvatske je na sjednici održanoj 13. svibnja 1999. godine, donijela
