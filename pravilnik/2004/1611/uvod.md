@@ -1,0 +1,1 @@
+Na temelju članka 12. stavak 3. Zakona o Fondu za regionalni razvoj Republike Hrvatske (»Narodne novine« 107/01), Upravni odbor Fonda za regionalni razvoj Republike Hrvatske na sjednici održanoj 22. travnja 2004. godine, uz suglasnost Vlade Republike Hrvatske na sjednici održanoj 3. lipnja 2004. donio je
