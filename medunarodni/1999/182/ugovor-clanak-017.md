@@ -1,0 +1,5 @@
+# Članak 17.
+PRIJELAZNE ODREDBE
+1. Tijekom dvije godine nakon stupanja na snagu ovog Sporazuma, zemlje stranke Europske konvencije koje još nisu članice Posebne unije mogu, ako to žele, u Odboru stručnjaka uživati ista prava kao i članice Posebne unije.
+2. Tijekom tri godine nakon isteka roka navedenog u stavku 1., zemlje navedene u tom stavku mogu biti zastupljene promatračima na sastancima Odbora stručnjaka i, ako navedeni Odbor tako odluči, u svakom pododboru ili radnoj skupini koje je on osnovao. Tijekom istog razdoblja one mogu podnositi prijedloge izmjena i dopuna Klasifikacije, u skladu s člankom 5., stavkom 5., i obavješćuje ih se o odlukama i preporukama Odbora stručnjaka u skladu s člankom 6., stavkom 1.
+3. Tijekom pet godina nakon stupanja na snagu ovog Sporazuma, zemlje stranke Europske konvencije, koje još nisu članice Posebne unije, mogu biti zastupljene promatračima na sastancima Skupštine i, ako Skupština tako odluči, u svakom odboru ili radnoj skupini koje je ona osnovala.

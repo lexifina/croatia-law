@@ -1,0 +1,1 @@
+Uredba o pristupanju Strasbourškom sporazumu o međunarodnojklasifikaciji patenata
