@@ -1,0 +1,2 @@
+# Članak 5.
+Danom stupanja na snagu ove Uredbe prestaje važiti Uredba o mogučnosti korištenja kredita i zajmova kod javnih poduzeča i drugih pravnih osoba u državnom i pretežno državnom vlasništvu ("Narodne novine", broj 83/93) i briše se točka 37. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", br. 100/93, 102/93 i 108/93).
