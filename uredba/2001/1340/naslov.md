@@ -1,0 +1,1 @@
+Uredba o objedinjenom mjesečnom prikupljanju podataka po osiguranicima, o obveznim doprinosima, porezu na dohodak i prirezu na porez na dohodak od nesamostalnog rada i samostalne djelatnosti i o uplat
