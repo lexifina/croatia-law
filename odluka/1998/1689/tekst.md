@@ -1,0 +1,30 @@
+I.
+Na temelju prijave u skladu s člankom 65. Zakona o morskim lukama ("Narodne novine", br. 108/95) i mišljenja stručnog tijela za ocjenu koncesija osnovanog sukladno članku 63. stavku 3. Pomorskog zakonika, prihvaća se prijava Dioničkog društva SAS Zadar (u daljnjem tekstu: Ovlaštenik), te daje Ovlašteniku ovlaštenje za gospodarsko korištenje luke posebne namjene luke nautičkog turizma Zlatna Luka.
+Pomorsko dobro - lučko područje koje je predmet ove Odluke u svrhu gospodarskog korištenja postojeće luke posebne namjene - luke nautičkog turizma koja je od značaja za Republiku Hrvatsku, obuhvaća prostor:
+- omeđen 61-om koordinativnom točkom na kopnenom dijelu, te 12 koordinativnih točaka na morskom dijelu time da točke M1 i M12 predstavljaju početnu, odnosno završnu točku;
+- kopneni dio lučkog područja ukupne je površine od 342.757 m2.
+TOČKA 1 Y=5524138.81 X=4878727.02 TOČKA 2 Y=5524099.70 X=4878797.97 TOČKA 3 Y=5524086.19 X=4878824.24 TOČKA 4 Y=5524063.80 X=4878872.90 TOČKA 5 Y=5524052.15 X=4878897.69 TOČKA 6 Y=5524038.62 X=4878921.49 TOČKA 7 Y=5524026.64 X=4878940.24 TOČKA 8 Y=5523977.20 X=4879018.83 TOČKA 9 Y=5523957.65 X=4879049.94 TOČKA 10 Y=5523939.73 X=4879078.26 TOČKA 11 Y=5523926.37 X=4879100.24 TOČKA 12 Y=5523919.11 X=4879113.75 TOČKA 13 Y=5523912.45 X=4879128.13 TOČKA 14 Y=5523905.98 X=4879144.45 TOČKA 15 Y=5523899.25 X=4879163.74 TOČKA 16 Y=5523886.99 X=4879196.71 TOČKA 17 Y=5523881.15 X=4879212.07 TOČKA 18 Y=5523884.79 X=4879228.72 TOČKA 19 Y=5523893.17 X=4879228.38 TOČKA 20 Y=5523898.59 X=4879252.13 TOČKA 21 Y=5523860.20 X=4879263.61 TOČKA 22 Y=5523798.86 X=4879416.55 TOČKA 23 Y=5523793.62 X=4879429.63 TOČKA 24 Y=5523748.76 X=4879536.86 TOČKA 25 Y=5523782.32 X=4879576.76 TOČKA 26 Y=5523914.08 X=4879493.87 TOČKA 27 Y=5523986.99 X=4879448.98 TOČKA 28 Y=5524158.19 X=4879370.64 TOČKA 29 Y=5524185.49 X=4879361.59 TOČKA 30 Y=5524450.27 X=4879225.93 TOČKA 31 Y=5524768.82 X=4879104.93 TOČKA 32 Y=5524770.56 X=4879106.90 TOČKA 33 Y=5524771.85 X=4879111.05 TOČKA 34 Y=5524773.20 X=4879113.04 TOČKA 35 Y=5524776.07 X=4879115.21 TOČKA 36 Y=5524779.81 X=4879116.57 TOČKA 37 Y=5524784.70 X=4879116.52 TOČKA 38 Y=5524787.73 X=4879115.61 TOČKA 39 Y=5524790.28 X=4879114.19 TOČKA 40 Y=5524816.49 X=4879097.38 TOČKA 41 Y=5524819.22 X=4879095.10 TOČKA 42 Y=5524821.01 X=4879092.42 TOČKA 43 Y=5524822.12 X=4879088.81 TOČKA 44 Y=5524822.18 X=4879084.45 TOČKA 45 Y=5524862.59 X=4879069.03 TOČKA 46 Y=5524893.28 X=4879051.32 TOČKA 47 Y=5524934.01 X=4879019.17 TOČKA 48 Y=5524939.34 X=4879025.93 TOČKA 49 Y=5524943.63 X=4879029.46 TOČKA 50 Y=5524949.02 X=4879031.39 TOČKA 51 Y=5524952.19 X=4879031.41 TOČKA 52 Y=5524956.41 X=4879030.39 TOČKA 53 Y=5524960.44 X=4879028.00 TOČKA 54 Y=5524962.72 X=4879025.67 TOČKA 55 Y=5524973.31 X=4879011.30 TOČKA 56 Y=5525007.06 X=4878958.58 TOČKA 57 Y=5524997.78 X=4878918.06 TOČKA 58 Y=5525014.68 X=4878890.60 TOČKA 59 Y=5524968.43 X=4878862.22 TOČKA M1 Y=5524984.32 X=4878836.33 TOČKA M2 Y=5524733.77 X=4878397.98 TOČKA M3 Y=5524302.70 X=4878532.40 TOČKA M4 Y=5524291.70 X=4878534.70 TOČKA M5 Y=5524278.94 X=4878538.33 TOČKA M6 Y=5524266.74 X=4878542.82 TOČKA M7 Y=5524255.33 X=4878547.90 TOČKA M8 Y=5524244.36 X=4878553.89 TOČKA M9 Y=5524211.41 X=4878582.68 TOČKA M10 Y=5524188.41 X=4878604.45 TOČKA M11 Y=5524149.57 X=4878657.12 TOČKA M12 Y=5524110.08 X=4878711.18
+- morski dio lučkog područja ukupne je površine 361.008 m2.
+A što je označeno na presliku situacijskog plana marine Zlatna Luka u mjerilu 1:2000 i presliku katastarskog plana k.o. Bibinje DL 12 i k.o. Sukošan DL 12 i 13 mjerila 1:2904, koji čine sastavni dio ove Odluke kao Prilog 1., a ne objavljuje se u "Narodnim novinama".
+II.
+Koncesija se daje u svrhu gospodarskog korištenja postojeće luke posebne namjene - luke nautičkog turizma Zlatna Luka.
+Ovlaštenik se obvezuje da lučko područje - pomorsko dobro koje ovom Odlukom dobiva na gospodarsko korištenje, koristi isključivo za svoje posebne potrebe, odnosno da koristi zemljište-pomorsko dobro i sve objekte i podgradnje i nadgradnje za obavljanje djelatnosti za koje je registriran.
+Ovlaštenik ne može bez izričitog odobrenja davatelja koncesije, prenositi koncesiju niti koje drugo pravo koje stječe koncesijom.
+III.
+Ovlaštenik je dužan gospodarski koristiti luku u skladu s hrvatskim zakonima i podzakonskim aktima, te je dužan za svaku eventualnu gradnju ili rekonstrukciju na lučkom području u redovnoj proceduri ishoditi suglasnost davatelja koncesije te lokacijsku i građevinsku dozvolu.
+IV.
+Davatelj koncesije daje na korištenje pomorsko dobro navedeno u točki I. ove Odluke Ovlašteniku na vremensko razdoblje od 32 godine, računajući od dana donošenja ove Odluke.
+V.
+Za korištenje pomorskog dobra navedenog u točki I. ove Odluke Ovlaštenik se obvezuje da će uredno plaćati davatelju koncesije godišnju naknadu.
+Godišnja naknada koju Ovlaštenik plaća za korištenje pomorskog dobra sastoji se iz dva dijela:
+a) stalni dio u iznosu od 0,70 kuna po m2 zauzete površine godišnje;
+b) promjenjivi dio naknade u iznosu od 2% od ukupnog prihoda luke godišnje.
+Navedena naknada plaća se na sljedeći način:
+- stalni dio naknade plaća se od trenutka zaključivanja Ugovora o koncesiji, u roku od 45 dana. Za sljedeće godine naknada se plaća uvijek za tekuću godinu unaprijed do 1. ožujka. Za godinu u kojoj je dana koncesija i za godinu u kojoj koncesija ističe, razmjerno preostalim mjesecima korištenja;
+- promjenjivi dio naknade plaća se u dva obroka i to prema prihodu u prvih šest mjeseci do 1. rujna, a za ostvareni prihod drugih šest mjeseci do 1. ožujka u narednoj godini.
+VI.
+Na temelju ove Odluke ovlašćuje se ministar pomorstva, prometa i veza da sklopi Ugovor o koncesiji pomorskog dobra iz točke I. ove Odluke, kojim će se detaljno urediti ovlaštenja Davatelja koncesije, te prava i obveze Ovlaštenika, posebice u odnosu na sigurnost plovidbe, zaštitu okoliša, održavanje i osiguranje luke.
+VII.
+Ako Ovlaštenik u roku 30 dana od dana donošenja ove Odluke ne potpiše Ugovor o koncesiji pomorskog dobra, gubi sva prava određena ovom Odlukom.
+VIII.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u "Narodnim novinama".
