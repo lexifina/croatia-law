@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o carinskoj tarifi (»Narodne novine«, br. 61/2000 i 117/2000), te članka 3. Uredbe o Carinskoj tarifi za 2002. godinu (»Narodne novine«, br. 113/2001, 4/2002, 10/2002 i 16/2002), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2002. godine donijela
