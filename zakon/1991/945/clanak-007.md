@@ -1,0 +1,3 @@
+# Članak 7.
+Pravne ili fizičke osobe koje onečiste poljoprivredno zemljište štetnim tvarima, tako da je poljoprivredna proizvodnja na tom zemljištu znatno umanjena, dužni su platiti naknadu štete vlasnicima ili ovlaštenicima zemljišta u iznosu koji utvrde sporazumno. Ako se ne postigne sporazum, visinu naknade određuje sud.
+Ako je zemljište onečišćeno štetnim tvarima tako da vlasnik ili ovlaštenik na tom zemljištu mora napustiti proizvodnju, štetnik je dužan vlasniku ili ovlašteniku zemljišta platiti naknadu štete u visini prometne vrijednosti zemljišta, a Ministarstvu poljoprivrede i šumarstva naknadu za promjenu namjene poljoprivrednog zemljišta koje je uništeno.
