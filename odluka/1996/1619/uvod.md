@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 1. točke 5. Zakona o lokalnoj samoupravi i upravi ("Narodne novine," br. 90/92, 94/93 i 117/93), Vlada Republike Hrvatske je, na prijedlog Ministarstva uprave, na sjednici održanoj 31. listopada 1996. godine, donijela
