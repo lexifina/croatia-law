@@ -1,0 +1,2 @@
+# Članak 21.
+Davanja u slučaju nesreće na poslu i profesionalne bolesti isplaćuje nositelj one države ugovornice čijim pravnim propisima je osoba podlijegala u trenutku nesreće na poslu ili u razdoblju kada je posljednji put obavljala djelatnost koja je utjecala na nastanak profesionalne bolesti. Nositelj druge države ugovornice pruža samo ona davanja na koja bi bio obvezan u skladu s pravnim propisima te države ugovornice i prema ovom ugovoru u slučaju nesreća i bolesti uzrokovanih ostalim razlozima.

@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Nositelji, nadležna tijela i sudovi država ugovornica pružaju si međusobnu pomoć pri primjeni ovog ugovora, kao da se radi o primjeni njihovih vlastitih pravnih propisa. Pomoć je besplatna.
+(2) Nositelji će međusobno priznavati dokumente koje izdaju nadležna tijela druge države ugovornice, ali o zdravstvenom stanju, odnosno stupnju invalidnosti, konačno odlučuje nositelj države ugovornice koja je nadležna za pružanje davanja. Pri tome može uzeti u obzir nalaze i stručna mišljenja liječnika koje je dobio od nositelja druge države ugovornice.
+(3) Liječničke preglede, predviđene pravnim propisima o mirovinskom i invalidskom osiguranju jedne države ugovornice, osobe koje borave na području druge države ugovornice, obavljat će, na zahtjev nadležnog nositelja, nositelj u mjestu boravka tih osoba na području druge države ugovornice, u skladu sa svojim pravnim propisima bez međusobnog nadoknađivanja troškova.

@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Za članove diplomatskih i konzularnih predstavništava, te za privatnu poslugu članova tih predstavništava, koji su izaslani na područje druge države ugovornice, vrijede pravni propisi države ugovornice koja ih šalje.
+(2) Za zaposlenike iz stavka 1. koji nisu izaslani, vrijede pravni propisi države ugovornice na čijem su području zaposleni; u ovim slučajevima poslodavac je dužan pridržavati se obveza koje vrijede za poslodavca u državi dolaska. Ako su oni državljani druge države ugovornice mogu tijekom tri mjeseca, nakon početka zaposlenja, odabrati primjenu pravnih propisa druge države ugovornice.

@@ -1,0 +1,2 @@
+# Članak 14.
+Ako pravni propisi jedne države ugovornice uvjetuju ostvarenje prava na stjecanje, održavanje ili ponovno uspostavljanje prava na davanje postojećim ili ostvarenim određenim razdobljem osiguranja, mora nadležni nositelj te države ugovornice, ako je to potrebno, uzeti u obzir i odgovarajuća razdoblja osiguranja navršena prema pravnim propisima druge države ugovornice kao da se radi o osiguranju u skladu s njezinim pravnim propisima.

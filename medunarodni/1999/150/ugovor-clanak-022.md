@@ -1,0 +1,2 @@
+# Članak 22.
+Ako pravni propisi jedne države ugovornice propisuju da se davanja zbog profesionalnih bolesti pružaju samo kada je djelatnost koja može uzrokovati bolest bila obavljana u određenom minimalnom razdoblju, nadležni nositelj te države ugovornice uzima u obzir, ako je to potrebno, i razdoblja obavljanja te djelatnosti tijekom vremena kada su za profesionalnu bolest vrijedili pravni propisi druge države ugovornice.

@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Odredbe pravnih propisa jedne države ugovornice o smanjenju, privremenoj obustavi ili obustavi davanja, u slučaju njihovog poklapanja s ostalim davanjima, odnosno prihodima ili zbog obavljanja djelatnosti, primjenjuju se također na korisnike davanja stečenih prema pravnim propisima druge države ugovornice ili na osobe koje imaju primanja, odnosno obavljaju djelatnost na području druge države ugovornice.
+(2) Pravilo o smanjenju, privremenoj obustavi ili konačnoj obustavi davanja, prema stavku 1., ne primjenjuje se na istodobna davanja iste vrste zbog invalidnosti, starosti, nadživjelima kao i pri nesrećama na radu i profesionalnim bolestima koja daju nositelji obiju država ugovornica.
+(3) Ako bi se za usporednost davanja različitih vrsta trebalo istodobno smanjiti davanja, prema pravnim propisima obiju država ugovornica, to će se obaviti samo u visini polovice smanjenja, prema pravnim propisima svake od država ugovornica.
+(4) Primjena odredbi prethodnih stavaka ne može dovesti do smanjenja prava u odnosu na pravne propise o poklapanju davanja koji se primjenjuju prema državama s kojima nije sklopljen međunarodni ugovor o socijalnom osiguranju.

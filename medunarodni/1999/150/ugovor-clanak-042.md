@@ -1,0 +1,3 @@
+# Članak 42.
+(1) Ako je nositelj jedne države ugovornice isplatio novčana davanja u većoj svoti nego što korisniku prava pripada, preplaćena svota može se na zahtjev i u korist nositelja prve države ugovornice nadoknaditi iz zaostataka odgovarajućeg davanja priznatog prema pravnim propisima druge države ugovornice.
+(2) Isplati li nositelj jedne države ugovornice nedoprinosna davanja za razdoblje za koje će se naknadno utvrditi pravo na davanje u novcu, prema pravnim propisima druge države ugovornice, nositelj druge države ugovornice nadoknadit će nositelju prve države ugovornice, na njegov zahtjev, iz zaostatka novčanog davanja, svotu za nedoprinosna davanja koja su pružena korisniku prava.

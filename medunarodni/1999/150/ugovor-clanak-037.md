@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Zahtjevi, izjave i žalbe, koje se podnose, prema pravnim propisima jedne države ugovornice, u određenom roku upravnom tijelu, sudu ili nositelju, smatraju se podnijetim u roku, ako su u istom roku podnijeti upravnom tijelu, sudu ili nositelju druge države ugovornice.
+(2) Zahtjev za davanje, podnijet prema pravnim propisima jedne države ugovornice, vrijedi istodobno i kao zahtjev podnijet za odgovarajuće davanje, prema pravnim propisima druge države ugovornice. To ne vrijedi, ako podnositelj zahtjeva izričito zatraži da priznanje davanja zbog starosti, prema pravnim propisima druge države ugovornice, bude odgođeno.
