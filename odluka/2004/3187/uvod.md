@@ -1,0 +1,1 @@
+Na temelju članka 11. Zakona o osnovnom školstvu (»Narodne novine«, br. 59/90, 26/93, 27/93, 7/96, 59/2001, 114/2001), Vlada Republike Hrvatske je na sjednici održanoj 15. prosinca 2004. godine donijela

@@ -1,0 +1,891 @@
+o kriterijima i mjerilima za utvrĐivanje bilanČnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog Školstva u 2005. godini
+OPĆE ODREDBE
+I.
+Ovom Odlukom utvrđuju se ukupna bilančna prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva i kriteriji i mjerila za utvrđivanje bilančnih prava županijama, Gradu Zagrebu i gradovima do visine potrebnih sredstava za osiguravanje minimalnog financijskog standarda osnovnih škola.
+II.
+U proračunu županija, Grada Zagreba i gradova koji su preuzeli financiranje dijela javnih potreba u osnovnom školstvu osiguravaju se sredstva za materijalne, financijske rashode te rashode za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini.
+III.
+Ukupna godišnja bilanca sredstava za osnovno školstvo u 2005. godini za financiranje minimalnog financijskog standarda javnih potreba utvrđuje se kako slijedi:
+- u kunama -
+Bilancirana
+Bilancirana
+Opis
+sredstva
+sredstva
+Index
+za 2004. godinu
+za 2005. godinu
+2005./2004.
+1
+2
+3
+4
+Materijalni i financijski
+rashodi
+548.514.822
+599.371.925
+109,27
+Rashodi za materijal,
+dijelove i usluge tekućeg i
+55.646.863
+57.673.625
+103,64
+investicijskog održavanja
+Rashodi za nabavu
+proizvedene dugotrajne
+imovine i dodatna ulaganja
+na nefinancijskoj imovini
+126.714.694
+177.026.675
+139,70
+Ukupno:
+730.876.379
+834.072.225
+114,11
+Ukupni godišnji iznos sredstava za materijalne i financijske rashode osnovnih škola za 2005. godinu iznosi 599.371.925 kuna.
+Ukupni godišnji iznos sredstava za materijal, dijelove i usluge tekućeg i investicijskog održavanja osnovnih škola za 2005. godinu iznosi 57.673.625 kuna.
+Ukupni rashodi za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini osnovnih škola za 2005. godinu iznose 177.026.675 kuna.
+MATERIJALNI I FINANCIJSKI RASHODI, KRITERIJI I MJERILA
+IV.
+Županijama, Gradu Zagrebu i gradovima priznaju se bilančna prava za financiranje materijalnih i financijskih rashoda osnovnih škola u visini koja osigurava minimalni financijski standard osnovnih škola. Obračun ovih prava izvršen je prema kriterijima i mjerilima iz ove Odluke, a sredstva se mogu koristiti samo za financiranje materijalnih i financijskih rashoda (prema ekonomskoj klasifikaciji) nužnih za realizaciju nastavnog plana i programa javnih potreba osnovnoškolskog obrazovanja.
+Ekonomska klasifikacija materijalnih i financijskih rashoda sukladno Računskom planu za proračunsko računovodstvo obuhvaća:
+- skupinu 32 - Materijalni rashodi
+- skupinu 34 - Financijski rashodi.
+Kriterij za utvrđivanje ukupnih bilančnih prava za financiranje materijalnih i financijskih rashoda u 2005. godini su bilančna prava 2004. godine uvećana za specifičnost pojedinih županija i gradova za nove programe.
+Mjerilo je prosječna godišnja cijena po učeniku izračunata na bazi ukupnih bilančnih prava i upisanih učenika u školskoj godini 2004./2005.
+IZRAČUN BILANČNIH PRAVA MATERIJALNIH I FINANCIJSKIH RASHODA PO ŽUPANIJAMA, GRADU ZAGREBU I GRADOVIMA ZA 2005. GODINU
+Red.
+Nositelj
+Ukupni iznos
+Broj razr.
+Broj učenika
+Prosječna
+br.
+financiranja
+za 2005. godinu
+odjela u
+u školskoj
+godišnja
+- u kunama -
+školskoj
+godini
+cijena po
+godini
+2004./2005.
+učeniku
+2004./2005.
+1
+2
+3
+4
+5
+6
+ŽUPANIJE
+1.
+Zagrebačka
+28.096.945
+663
+14.890
+1.886,97
+2.
+Krapinsko-zagorska
+18.601.120
+598
+11.463
+1.622,71
+3.
+Sisačko-moslavačka
+19.978.196
+411
+8.711
+2.293,44
+4.
+Karlovačka
+14.723.582
+331
+5.724
+2.572,25
+5.
+Varaždinska
+20.682.640
+635
+12.884
+1.605,30
+6.
+Koprivničko-križevačka
+12.919.500
+444
+8.297
+1.557,13
+7.
+Bjelovarsko-bilogorska
+15.624.563
+480
+8.238
+1.896,65
+8.
+Primorsko-goranska
+18.872.497
+607
+10.830
+1.742,61
+9.
+Ličko-senjska
+9.670.502
+207
+3.219
+3.004,19
+10.
+Virovitičko-podravska
+10.702.190
+348
+6.847
+1.563,05
+11.
+Požeško-slavonska
+9.831.780
+303
+6.115
+1.607,81
+12.
+Brodsko-posavska
+17.086.838
+493
+10.371
+1.647,56
+13.
+Zadarska
+15.716.502
+439
+8.265
+1.901,57
+14.
+Osječko-baranjska
+33.405.997
+1.062
+21.144
+1.579,93
+15.
+Šibensko-kninska
+10.818.232
+293
+5.884
+1.838,58
+16.
+Vukovarsko-srijemska
+23.587.694
+756
+15.017
+1.570,73
+17.
+Splitsko-dalmatinska
+41.415.502
+1.333
+26.098
+1.586,92
+18.
+Istarska
+12.433.840
+318
+4.713
+2.638,20
+19.
+Dubrovačko-neretvanska
+13.462.552
+431
+7.991
+1.684,71
+20.
+Međimurska
+12.572.892
+442
+8.841
+1.422,11
+21.
+Grad Zagreb
+84.070.568
+3.049
+69.479
+1.210,01
+UKUPNO ŽUPANIJE:
+444.274.132
+13.643
+275.021
+1.615,42
+GRADOVI
+1.
+Velika Gorica
+9.034.501
+287
+6393
+1.413,19
+2.
+Samobor
+5.180.940
+160
+3487
+1.485,79
+3.
+Vrbovec
+3.121.198
+89
+1886
+1.654,93
+4.
+Zaprešić
+2.962.204
+100
+2293
+1.291,85
+5.
+Krapina
+1.425.303
+64
+1225
+1.163,51
+6.
+Sisak
+6.299.441
+215
+4593
+1.371,53
+7.
+Kutina
+3.344.895
+118
+2439
+1.371,42
+8.
+Karlovac
+7.496.246
+230
+4803
+1.560,74
+9.
+Varaždin
+5.177.195
+203
+4309
+1.201,48
+10.
+Koprivnica
+4.188.996
+141
+3274
+1.279,47
+11.
+Bjelovar
+4.625.415
+171
+3967
+1.165,97
+12.
+Rijeka
+12.842.080
+525
+10755
+1.194,06
+13.
+Crikvenica
+1.033.865
+42
+878
+1.177,52
+14.
+Opatija
+853.933
+28
+646
+1.321,88
+15.
+Gospić
+2.257.886
+60
+1.211
+1.864,48
+16.
+Virovitica
+3.240.441
+114
+2.302
+1.407,66
+17.
+Požega
+3.178.117
+122
+3.116
+1.019,93
+18.
+Slavonski Brod
+9.014.835
+327
+7.550
+1.194,02
+19.
+Zadar
+6.687.066
+335
+8.123
+823,23
+20.
+Osijek
+10.946.791
+439
+9.943
+1.100,95
+21.
+Šibenik
+5.687.495
+215
+4.630
+1.228,40
+22.
+Vinkovci
+3.635.470
+189
+4.194
+866,83
+23.
+Makarska
+1.375.254
+70
+1.561
+881,01
+24.
+Split
+13.063.216
+723
+17.591
+742,61
+25.
+Pula
+6.235.643
+269
+5.353
+1.164,89
+26.
+Labin
+1.909.943
+56
+1.051
+1.817,26
+27.
+Pazin
+4.720.403
+86
+1.712
+2.757,24
+28.
+Poreč
+3.197.167
+90
+1.729
+1.849,14
+29.
+Rovinj
+1.711.854
+60
+1.234
+1.387,24
+30.
+Umag
+2.529.233
+64
+1.149
+2.201,25
+31.
+Dubrovnik
+5.140.585
+220
+4.419
+1.163,29
+32.
+Čakovec
+2.980.182
+150
+2.758
+1.080,56
+UKUPNO GRADOVI:
+155.097.793
+5.962
+130.574
+1.187,82
+SVEUKUPNO RH:
+599.371.925
+19.605
+405.595
+1.477,76
+Napomena: Prosječna cijena po učeniku rezultat je podjele ukupnog iznosa materijalnih i financijskih rashoda s brojem učenika i zaokružen na dvije decimale.
+RASHODI ZA MATERIJAL, DIJELOVE I USLUGE TEKUĆEG I INVESTICIJSKOG ODRŽAVANJA I RASHODI ZA NABAVU PROIZVEDENE DUGOTRAJNE IMOVINE I DODATNA ULAGANJA NA NEFINANCIJSKOJ IMOVINI
+V.
+A) Rashodi za nabavu proizvedene imovine i dodatna ulaganja na nefinancijskoj imovini
+Navedeni rashodi, sukladno Računskom planu za proračunsko računovodstvo, odnose se na skupinu 42 - Rashodi za nabavu proizvedene dugotrajne imovine i skupinu 45 - Rashodi za dodatna ulaganja na nefinancijskoj imovini. Županijama, Gradu Zagrebu i gradovima ovi rashodi se planiraju i osiguravaju na osnovi kriterija opsega djelatnosti:
+- po učeniku 192,00 kn godišnje
+- po razrednom odjelu 4.103,00 kn godišnje
+- po školskoj zgradi 8.584,00 kn godišnje
+B) Rashodi za materijal, dijelove i usluge tekućeg i investicijskog održavanja
+Navedeni rashodi, sukladno Računskom planu za proračunsko računovodstvo, odnose se na odjeljak 3224 - Materijal i dijelovi za tekuće i investicijsko održavanje i odjeljak 3232 - Usluge tekućeg i investicijskog održavanja. Županijama, Gradu Zagrebu i gradovima ovi rashodi se planiraju i osiguravaju na osnovi kriterija opsega djelatnosti:
+- po učeniku prosječno 34,00 kn godišnje
+- po razrednom odjelu 1.599,00 kn godišnje
+- po školskoj zgradi 5.750,00 kn godišnje
+Na osnovi kriterija utvrđenih pod A) i B) ukupni rashodi za materijal, dijelove i usluge tekućeg i investicijskog održavanja i rashodi za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini u 2005. godini po županijama i gradovima iznose:
+Opseg djelatnosti
+Rashodi za
+Rashodi za
+Nositelj financiranja
+nabavu
+materijal,
+UKUPNO
+Broj
+Broj
+Broj
+proizvedene
+dijelove i
+- u kunama -
+učenika
+raz.
+šk.
+dugotrajne
+usluge
+u šk. godini
+odjela u šk.
+zgrada u šk.
+imovine i
+tekućeg i
+2004./2005.
+godini
+godini
+dodatna
+investicij.
+2004./2005.
+2001./2002.
+ulaganja na
+održavanja
+nefinanc.
+imovini
+1
+2
+3
+4
+5
+6
+7
+ŽUPANIJE
+Zagrebačka
+14.890
+663
+70
+6.180.049
+1.968.897
+8.148.946
+Krapinsko-zagorska
+11.463
+598
+82
+5.358.378
+1.817.444
+7.175.822
+Sisačko-moslavačka
+8.711
+411
+49
+3.779.461
+1.235.113
+5.014.574
+Karlovačka
+5.724
+331
+71
+3.066.565
+1.132.135
+4.198.700
+Varaždinska
+12.884
+635
+67
+5.654.261
+1.838.671
+7.492.932
+Koprivničko-križevačka
+8.297
+444
+83
+4.127.228
+1.469.304
+5.596.532
+Bjelovarsko-bilogorska
+8.238
+480
+90
+4.323.696
+1.565.112
+5.888.808
+Primorsko-goranska
+10.830
+607
+90
+5.342.441
+1.856.313
+7.198.754
+Ličko-senjska
+3.219
+207
+43
+1.836.481
+687.689
+2.524.170
+Virovitičko-podravska
+6.847
+348
+70
+3.343.348
+1.191.750
+4.535.098
+Požeško-slavonska
+6.115
+303
+59
+2.923.745
+1.031.657
+3.955.402
+Brodsko-posavska
+10.371
+493
+90
+4.786.571
+1.658.421
+6.444.992
+Zadarska
+8.265
+439
+74
+4.023.313
+1.408.471
+5.431.784
+Osječko-baranjska
+21.144
+1.062
+160
+9.790.474
+3.337.034
+13.127.508
+Šibensko-kninska
+5.884
+293
+29
+2.580.843
+835.313
+3.416.156
+Vukovarsko-srijemska
+15.017
+756
+86
+6.723.356
+2.213.922
+8.937.278
+Splitsko-dalmatinska
+26.098
+1.333
+179
+12.016.651
+4.048.049
+16.064.700
+Istarska
+4.713
+318
+53
+2.664.602
+973.474
+3.638.076
+Dubrovačko-neretvanska
+7.991
+431
+67
+3.877.793
+1.346.113
+5.223.906
+Međimurska
+8.841
+442
+51
+3.948.782
+1.300.602
+5.249.384
+Grad Zagreb
+69.479
+3.049
+143
+27.077.527
+8.059.887
+35.137.414
+UKUPNO ŽUPANIJE:
+275.021
+13.643
+1.706
+123.425.565
+40.975.371
+164.400.936
+GRADOVI
+Velika Gorica
+6.393
+287
+22
+2.593.865
+802.775
+3.396.640
+Samobor
+3.487
+160
+17
+1.471.912
+472.148
+1.944.060
+Vrbovec
+1.886
+89
+12
+830.287
+275.435
+1.105.722
+Zaprešić
+2.293
+100
+7
+910.644
+278.112
+1.188.756
+Krapina
+1.225
+64
+7
+557.880
+184.236
+742.116
+Sisak
+4.593
+215
+26
+1.987.185
+649.447
+2.636.632
+Kutina
+2.439
+118
+20
+1.124.122
+386.608
+1.510.730
+Karlovac
+4.803
+230
+22
+2.054.714
+657.572
+2.712.286
+Varaždin
+4.309
+203
+9
+1.737.493
+522.853
+2.260.346
+Koprivnica
+3.274
+141
+13
+1.318.723
+411.525
+1.730.248
+Bjelovar
+3.967
+171
+18
+1.617.789
+511.807
+2.129.596
+Rijeka
+10.755
+525
+30
+4.476.555
+1.377.645
+5.854.200
+Crikvenica
+878
+42
+4
+375.238
+120.010
+495.248
+Opatija
+646
+28
+4
+273.252
+89.736
+362.988
+Gospić
+1.211
+60
+11
+573.116
+200.364
+733.480
+Virovitica
+2.302
+114
+11
+1.004.150
+323.804
+1.327.954
+Požega
+3.116
+122
+7
+1.158.926
+341.272
+1.500.198
+Slavonski Brod
+7.550
+327
+24
+2.997.297
+917.573
+3.914.870
+Zadar
+8.123
+335
+26
+3.157.305
+961.347
+4.118.652
+Osijek
+9.943
+439
+24
+3.916.289
+1.178.023
+5.094.312
+Šibenik
+4.630
+215
+24
+1.977.121
+639.205
+2.616.326
+Vinkovci
+4.194
+189
+9
+1.657.971
+496.557
+2.154.528
+Makarska
+1.561
+70
+5
+629.842
+193.754
+823.596
+Split
+17.591
+723
+32
+6.618.629
+1.938.171
+8.556.800
+Pula
+5.353
+269
+20
+2.303.163
+727.133
+3.030.296
+Labin
+1.051
+56
+8
+500.232
+171.278
+671.510
+Pazin
+1.712
+86
+12
+784.570
+264.722
+1.049.292
+Poreč
+1.729
+90
+7
+761.326
+242.946
+1.004.272
+Rovinj
+1.234
+60
+10
+568.948
+195.396
+764.344
+Umag
+1.149
+64
+10
+569.040
+198.902
+767.942
+Dubrovnik
+4.419
+220
+14
+1.871.284
+582.526
+2.453.810
+Čakovec
+2.758
+150
+9
+1.222.242
+385.372
+1.607.614
+UKUPNO GRADOVI:
+130.574
+5.962
+474
+53.601.110
+16.698.254
+70.299.364
+SVEUKUPNO RH:
+405.595
+19.605
+2.180
+177.026.675
+57.673.625
+234.700.300
+Rashode za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini županije, Grad Zagreb i gradovi planiraju i troše na osnovi Plana rashoda za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini za 2005. godinu, a u kojem se planiraju kapitalni projekti školstva koji će se realizirati tijekom 2005. godine.
+Realizacija ovih rashoda (u dijelu koji se odnose na pomoći iz državnog proračuna) moguća je tek po izvršenju radova i nabavi usluga, a ne anticipativno. Nadležna tijela županija, Grada Zagreba i gradova dužna su Plan rashoda za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini donijeti najkasnije do 31. siječnja 2005. godine i dostaviti ga Ministarstvu znanosti, obrazovanja i športa.
+Rashode za materijal, dijelove i usluge tekućeg i investicijskog održavanja županije, Grad Zagreb i gradovi planiraju i troše na osnovi Operativnih planova za 2005. godinu u kojima se specificiraju škole, namjene i iznosi sredstava.
+Nadležna tijela županija, Grada Zagreba i gradova dužna su Plan rashoda za materijal, dijelove i usluge tekućeg i investicijskog održavanja donijeti najkasnije do 31. siječnja 2005. godine i dostaviti ga Ministarstvu znanosti, obrazovanja i športa.
+PRIJELAZNE I ZAVRŠNE ODREDBE
+VI.
+Sredstva za financiranje decentraliziranih funkcija osnovnog školstva županije, Grad Zagreb i gradovi ostvaruju iz dodatnog udjela poreza na dohodak po stopi od 2,9%.
+Ako županije, Grad Zagreb i gradovi ne ostvare sredstva za ukupno bilancirana prava za financiranje decentraliziranih funkcija osnovnog školstva iz dodatnog udjela u porezu na dohodak po stopi od 2,9%, razliku do ukupno bilanciranih prava ostvaruju iz pozicije pomoći izravnanja za decentralizirane funkcije u Državnom proračunu Republike Hrvatske za 2005. godinu. Kontrolu ostvarivanja tih prihoda vrši Ministarstvo financija.
+VII.
+Županije, Grad Zagreb i gradovi dužni su donijeti vlastite odluke o kriterijima, mjerilima i načinu financiranja decentraliziranih funkcija osnovnog školstva za 2005. godinu u okvirima bilanciranih prava _ sredstava i po namjenama utvrđenim u točkama IV. i V. ove Odluke.
+VIII.
+Županije, Grad Zagreb i gradovi dužni su Ministarstvu znanosti, obrazovanja i športa dostavljati izvješća u skladu s Pravilnikom o financijskom izvještavanju u proračunskom računovodstvu.
+IX.
+Županije, Grad Zagreb i gradovi dužni su sredstva iz dodatnog udjela poreza na dohodak i sredstva s pozicije pomoći izravnanja koristiti prema utvrđenoj namjeni iz ove Odluke.
+X.
+Ministarstvo znanosti, obrazovanja i športa na zahtjev nositelja financiranja može predložiti Vladi Republike Hrvatske preraspodjelu ili prenamjenu utvrđenih bilančnih prava županijama, Gradu Zagrebu, odnosno gradovima u sklopu ukupno utvrđenih bilančnih prava za financiranje decentraliziranih funkcija osnovnog školstva ako utvrdi da je zbog realizacije programa javnih potreba u osnovnom školstvu to prijeko potrebno. Svoje zahtjeve nositelji financiranja podnose Ministarstvu znanosti, obrazovanja i športa najkasnije do 15. rujna 2005. godine.
+XI.
+Županije, Grad Zagreb i gradovi dužni su rashode za materijal, dijelove i usluge tekućeg i investicijskog održavanja te rashode za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini realizirati u skladu sa Zakonom o javnoj nabavi.
+Županije, Grad Zagreb i gradovi ne mogu započinjati realizaciju nabave proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini bez izrade investicijskog elaborata u kojem su precizno utvrđeni: opseg radova i usluga, vrijednost radova i usluga, vrijeme realizacije i realni izvori sredstava, kao i prethodne suglasnosti Ministarstva znanosti, obrazovanja i športa za nabavu proizvedene dugotrajne imovine.
+XII.
+Nadležna tijela županija, gradova i Grada Zagreba _ nositelja financiranja škola mogu na osnovi vlastite odluke o kriterijima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2005. godini i odluke o kriterijima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova, a uz prethodnu suglasnost Ministarstva znanosti, obrazovanja i športa i Ministarstva financija, udružiti sredstva za nabavu proizvedene dugotrajne imovine i dodatna ulaganja na nefinancijskoj imovini u osnovnom i srednjem školstvu do razine utvrđene u ovoj Odluci i u Odluci o kriterijima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2005. godini.
+XIII.
+U prosječnoj cijeni po učeniku za obračun materijalnih i financijskih rashoda uključeni su i troškovi redovitog programa financiranja učenika s teškoćama u razvoju, a samo povećani troškovi školovanja tih učenika financirat će se iz sredstava državnog proračuna sukladno posebnim kriterijima koje utvrđuje ministar znanosti, obrazovanja i športa.
+XIV.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2005. godine.
