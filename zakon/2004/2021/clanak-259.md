@@ -1,0 +1,8 @@
+# Članak 259.
+(1) Tehnički pregledi vozila obavljaju se u stanicama za tehnički pregled vozila koje za to ispunjavaju propisane uvjete i imaju ovlaštenje, a obavljaju ih ovlašteni djelatnici stručne organizacije iz članka 273. ovoga Zakona.
+(2) Tehničke preglede vozila mogu obavljati i pravne osobe (sa svojim djelatnicima u radnom odnosu), u onim stanicama za tehnički pregled vozila u kojima su imale ovlaštenje i obavljale tehničke preglede prije stupanja na snagu ovoga Zakona.
+(3) Ovlaštenje iz stavka 1. ovoga članka izdaje ministarstvo nadležno za unutarnje poslove stručnoj organizaciji iz članka 273. ovoga Zakona, nakon što se prethodno utvrdi da stanica za tehnički pregled vozila ispunjava propisane uvjete.
+(4) Ovlaštenje iz stavka 1. ovoga članka izdaje se sukladno posebnom propisu o mreži i kriterijima o dovoljnom broju stanica za tehnički pregled s obzirom na njihovu međusobnu udaljenost i kapacitete, što ga na prijedlog stručne organizacije iz članka 273. ovoga Zakona donosi ministar nadležan za unutarnje poslove.
+(5) Poslove tehničkih pregleda vozila i druge poslove što proizlaze iz ove javne ovlasti ili su s njima povezani, stručna organizacija započet će obavljati u stanici za tehnički pregled vozila nakon izdavanja i dostave ovlaštenja ministarstva nadležnog za unutarnje poslove iz stavka 1. ovoga članka.
+(6) Novčanom kaznom od najmanje 5.000,00 kuna kaznit će se za prekršaj pravna osoba ako obavlja tehnički pregled vozila, a za to nema ovlaštenje.
+(7) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.

@@ -1,0 +1,4 @@
+# Članak 85.
+(1) Izvršavanje naloga za premještanje vozila iz članka 84., članka 285. stavka 6. i članka 291. stavka 7. ovoga Zakona obavlja ministarstvo nadležno za unutarnje poslove ili tijelo jedinice lokalne i područne (regionalne) samouprave.
+(2) Jedinice lokalne i područne (regionalne) samouprave za obavljanje poslova iz stavka 1. ovoga članka mogu osnovati pravnu osobu ili obavljanje tih poslova mogu povjeriti pravnoj ili fizičkoj osobi koja ispunjava propisane uvjete.
+(3) Ministar nadležan za unutarnje poslove, uz prethodno mišljenje ministra nadležnog za poslove prometa, propisat će uvjete i način obavljanja poslova nadzora nepropisno zaustavljenih i parkiranih vozila te uvjete za obavljanje poslova premještanja nepropisno zaustavljenih i parkiranih vozila, kao i obavljanje drugih poslova iz članka 5. stavka 3. ovoga Zakona, kada te poslove obavljaju tijela jedinica lokalne i područne (regionalne) samouprave.

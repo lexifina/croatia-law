@@ -1,0 +1,3 @@
+# Članak 281.
+(1) Upravni i inspekcijski nadzor nad poslovima ispitivanja konstrukcijskih osobina i uređaja vozila obavlja ministarstvo nadležno za poslove prometa.
+(2) Ovlašćuje se ministar nadležan za poslove prometa da u suglasnosti s ministrom nadležnim za poslove gospodarstva donese propise o uvjetima, postupku i načinu ispitivanja vozila; o tome što se smatra proizvodnjom, preinakom i bitnijim popravkom; o stručnoj spremi djelatnika koji obavljaju ispitivanje; o obliku i sadržaju potvrde o ispitivanju; o vođenju evidencije o izdanim potvrdama te o davanju na korištenje podataka o ispitivanju vozila.

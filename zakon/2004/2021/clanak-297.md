@@ -1,0 +1,5 @@
+# Članak 297.
+(1) Tijelo koje izrekne kaznu, odnosno zaštitnu mjeru iz ovoga Zakona, dužno je o izrečenoj kazni, odnosno mjeri obavijestiti ministarstvo nadležno za poslove pravosuđa i ministarstvo nadležno za unutarnje poslove u roku od osam dana od pravomoćnosti.
+(2) O izrečenim, zaštitnim mjerama, negativnim bodovima, mjerama pisanog upozorenja, prometnim nesrećama i njihovim posljedicama te o vozačima vozila i vozilima ministarstvo nadležno za unutarnje poslove vodi evidenciju.
+(3) S podacima iz evidencije iz stavka 1. i 2. ovoga članka mogu se koristiti pravosudna tijela, upravna tijela koja vode prekršajni postupak te ministarstvo nadležno za unutarnje poslove.
+(4) S evidencijama o prometnim nesrećama te o vozačima i vozilima mogu se osim tijela iz stavka 3. koristiti i zdravstvene i druge institucije, organizacije i tijela koja se bave pitanjima sigurnosti prometa te pravne i fizičke osobe koje obavljaju javni prijevoz i prijevoz za vlastite potrebe te provode javne ovlasti na temelju ovoga Zakona.

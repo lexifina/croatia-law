@@ -1,0 +1,4 @@
+# Članak 73.
+(1) Vozač ne smije pretjecati drugo vozilo, osim bicikla, mopeda i motocikla bez bočne prikolice, neposredno ispred raskrižja ili na raskrižju koje nije s kružnim tokom prometa, ili neposredno ispred prijelaza ceste preko željezničke ili tramvajske pruge u istoj razini bez branika ili polubranika i na tom prijelazu.
+(2) Neposredno ispred raskrižja i na raskrižju vozač smije pretjecati: vozilo koje skreće ulijevo, a pretječe se s desne strane (članak 67. stavak 2.), vozilo koje skreće udesno, ali tako da pritom svojim vozilom ne prelazi na dio kolnika namijenjen za promet vozila iz suprotnog smjera, vozilo koje se kreće cestom koja je prometnim znakom označena kao cesta s prednošću prolaska, kad se prometom na raskrižju upravlja prometnim svjetlima ili znacima koje daje ovlaštena osoba.
+(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama ovoga članka.

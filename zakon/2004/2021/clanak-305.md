@@ -1,0 +1,5 @@
+# Članak 305.
+(1) Osobe koje su stručnu spremu za poslove stručnog voditelja stekle po ranijim propisima a nemaju stručnu spremu propisanu člankom 203. ovoga Zakona, mogu i dalje obavljati poslove stručnog voditelja, a najduže tri godine od dana stupanja na snagu ovoga Zakona.
+(2) Osobe koje su stručnu spremu za osposobljavanje kandidata za vozače iz nastavnog predmeta Prometni propisi i sigurnosna pravila stekle prema ranijim propisima, a nemaju stručnu spremu propisanu člankom 203. stavkom 1. ovoga Zakona, mogu i dalje osposobljavati kandidate za vozače iz tog nastavnog predmeta, a najduže tri godine od dana stupanja na snagu ovoga Zakona.
+(3) Osobe koje su stručnu spremu za ovlaštenog ispitivača za nastavni predmet Prometni propisi i sigurnosna pravila i upravljanje vozilom stekle prema ranijim propisima, a nemaju stručnu spremu propisanu člankom 208. ovoga Zakona, mogu i dalje obavljati poslove ovlaštenog ispitivača iz tih nastavnih predmeta, a najduže tri godine od dana stupanja na snagu ovoga Zakona.
+(4) Osobe iz članka 206. stavka 6. dužne su položiti stručni ispit u roku od godine dana od donošenja programa stručnog ispita iz stavka 7. istoga članka.

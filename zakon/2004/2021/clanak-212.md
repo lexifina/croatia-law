@@ -1,0 +1,5 @@
+# Članak 212.
+(1) Instruktori vožnje, predavači, stručni voditelji i ovlašteni ispitivači obvezni su se stručno usavršavati.
+(2) Osobe iz stavka 1. ovoga članka dužne su pristupiti provjeri stručne osposobljenosti najmanje jedanput u četiri godine i na njoj moraju zadovoljiti. Osobi koja ne zadovolji ili ne pristupi provjeri stručne osposobljenosti ministarstvo nadležno za unutarnje poslove zabranit će obavljanje poslova, sve dok na provjeri ne zadovolje.
+(3) Program, oblike i način stručnog usavršavanja i provjere stručne osposobljenosti za djelatnost koju obavljaju osobe iz stavka 1. ovoga članka na prijedlog ovlaštene stručne organizacije propisuje ministar nadležan za unutarnje poslove.
+(4) Program, oblike i način stručnog usavršavanja i provjere stručne osposobljenosti predavača i ovlaštenih ispitivača nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći na prijedlog Hrvatskoga crvenog križa utvrđuje ministar nadležan za zdravstvo. Hrvatski crveni križ organizira stručno usavršavanje, te provodi ispite za predavače i ispitivače nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći.

@@ -1,0 +1,3 @@
+# Članak 288.
+(1) Svi pravomoćno izrečeni negativni bodovi koji su bili temelj izricanja mjere po članku 287. stavku 3. ovoga Zakona ne mogu ponovo biti osnova za primjenu mjere predavanja o posljedicama prometnih nesreća, upućivanja u školu sigurne vožnje i izricanja zaštitne mjere zabrane upravljanja motornim vozilom niti prestanka važenja vozačke dozvole.
+(2) Negativni bodovi za koje je nastupila rehabilitacija, odnosno koji su protekom 36 mjeseci brisani iz kaznene evidencije ne mogu biti osnova izricanja zaštitne mjere zabrane upravljanja motornim vozilom niti se smiju davati na uvid ni dostavljati bilo kome.

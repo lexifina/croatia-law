@@ -1,0 +1,15 @@
+# Članak 285.
+(1) Policijski službenik će privremeno oduzeti vozačku dozvolu i isključiti iz prometa vozača i instruktora vožnje:
+1) koji upravlja ili pokuša upravljati vozilom, a u organizmu ima alkohola ili opojnih droga ili ako pokazuje znakove alkoholiziranosti (članak 199. ovoga Zakona),
+2) koji upravlja ili pokušava upravljati vozilom ako je očito da je vozač u takvu psihofizičkom stanju (umor, stres, bolest, prisutnost lijekova u organizmu na kojima je označeno da se ne smiju upotrebljavati prije ni za vrijeme vožnje) da nije sposoban sigurno upravljati vozilom (članak 198. ovoga Zakona),
+3) koji nema pomagala za koja je navedeno u vozačkoj dozvoli da ih mora koristiti tijekom upravljanja (članak 196. stavak 2. ovoga Zakona),
+4) koji upravlja vozilom suprotno odredbama članka 221. stavka 3. i 4.,
+5) koji ne postupi po zahtjevu policijskog službenika da se podvrgne ispitivanju ili stručnom pregledu (članak 282. stavak 4. ovoga Zakona).
+(2) Policijski službenik isključit će iz prometa:
+1) vozača motocikla ili mopeda i osobe koje se prevoze tim vozilima, ako kod sebe nemaju zaštitne kacige ili je odbije nositi na glavi (članak 114. ovoga Zakona),
+2) vozača kojeg zatekne da upravlja vozilom prije stjecanja prava na upravljanje vozilom, koji upravlja vozilom, a nema važeću vozačku dozvolu odgovarajuće kategorije ili koji upravlja vozilom u vrijeme kad mu je vozačka dozvola privremeno oduzeta ili kad mu je pravomoćnom odlukom nadležnog tijela izrečena zaštitna mjera zabrane upravljanja vozilom određene vrste ili kategorije,
+3) vozača koji ne postupi u skladu s člankom 235. ovoga Zakona.
+(3) Na temelju odredbi stavka 1. ovoga članka, vozačka dozvola se privremeno oduzima dok ne prestanu razlozi zbog kojih je oduzeta, a najduže do 30 dana.
+(4) Ako u slučajevima iz stavka 1. ovoga članka vozač ne preuzme privremeno oduzetu vozačku dozvolu kada prestanu razlozi zbog kojih je oduzeta ili u roku od 30 dana od dana privremenog oduzimanja, vozačka dozvola će se dostaviti tijelu u čijoj se evidenciji vodi. Tijelu u čijoj se evidenciji vodi vozač vozačku dozvolu dostavit će i u slučaju da je u međuvremenu od nadležnog tijela doneseno pravomoćno rješenje o kazni i izrečenoj zaštitnoj mjeri.
+(5) Prilikom postupanja prema vozaču ili instruktoru vožnje po stavku 1. ovoga članka, policijski službenik omogućit će vozaču da u primjerenom roku pozove drugoga vozača, koji ispunjava uvjete za upravljanje vozilom u prometu, da preuzme vozilo kojim je upravljao vozač koji se isključuje iz prometa.
+(6) Ukoliko vozač pokuša ili nastavi upravljati vozilom nakon što je isključen iz prometa na cesti i nastavi činjenje prekršaja zbog kojeg je isključen iz prometa, policijski službenik će vozača ponovo isključiti iz prometa i u smislu članka 85. ovoga Zakona izdati nalog za premještanje vozila. Premješteno vozilo može se podići čim prestanu razlozi premještanja a najkasnije u roku od osam dana. Nakon toga vozilo će se dati na čuvanje odgovarajućoj pravnoj osobi o trošku vlasnika.

@@ -1,0 +1,2 @@
+# Članak 150.
+Iznimno od članka 149. ovoga Zakona, a vodeći računa o sigurnosti drugih sudionika u prometu, na vozila policije bez obzira imaju li ugrađene posebne uređaje za utvrđivanje prekršaja i davanje zvučnih i svjetlosnih signala u obavljanju službenih zadaća, ne primjenjuju se odredbe ovoga Zakona o ograničenju brzine (članak 52. - 55.), prelaženja iz trake u traku (članak 75. stavak 1.), o poštivanju prometnih znakova (članak 12. stavak 4.) i o zaustavljanju i parkiranju (članak 79., 80., 82. i 83.).

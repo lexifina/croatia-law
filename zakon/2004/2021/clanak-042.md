@@ -1,0 +1,4 @@
+# Članak 42.
+(1) Vozila ne smiju na prednjoj strani imati svjetlosne, svjetlosno-signalne ili reflektirajuće uređaje ili tvari koje daju svjetlo u boji (plava svjetla i sl.), a na stražnjoj strani - uređaje ili tvari koje daju bijelo svjetlo.
+(2) Odredba stavka 1. ovoga članka glede bijelog svjetla ne odnosi se na svjetlo za osvjetljavanje ceste pri vožnji unatrag, pokretno svjetlo za istraživanje (reflektor), svjetlo za osvjetljavanje registarske pločice i registarsku pločicu te na vozila ministarstva nadležnog za unutarnje poslove, hitne medicinske pomoći na cestama, vatrogasna vozila i vozila oružanih snaga.
+(3) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač čije vozilo, suprotno odredbama stavka 1. ovoga članka, ima na prednjoj strani svjetlosne, svjetlosno-signalne ili reflektirajuće uređaje ili tvari koji daju svjetla u boji, a na stražnjoj strani uređaje ili tvari koje daju bijelo svjetlo.

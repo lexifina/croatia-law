@@ -1,0 +1,4 @@
+# Članak 64.
+(1) Na dijelu ceste s velikim uzdužnim nagibom (planinski i dr.) na kojem se vozila ne mogu mimoići ili je to veoma otežano, vozač vozila koje se kreće niz nagib dužan je zaustaviti svoje vozilo na prikladnom mjestu ako primijeti da mu drugo vozilo ide ususret uz nagib.
+(2) Iznimno, od odredbe stavka 1. ovoga članka, na cesti iz toga stavka, vozač koji se kreće uz nagib dužan je zaustaviti svoje vozilo ako ispred sebe ima prikladno mjesto za zaustavljanje koje omogućuje sigurno mimoilaženje i ako bi, u slučaju da tako ne postupi, mimoilaženje zahtijevalo kretanje unatrag jednog od vozila.
+(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač koji postupi suprotno odredbama stavka 1. i 2. ovoga članka.

@@ -1,0 +1,8 @@
+# Članak 35.
+(1) Zabranjeno je ostavljati na cesti i cestovnom zemljištu oštećena, dotrajala ili neregistrirana vozila i ostavljati, nanositi ili bacati otpatke ili predmete i tvari koje mogu ometati ili ugroziti sigurnost prometa ili onečistiti ili ugroziti okoliš.
+(2) Vozač je dužan sa ceste i cestovnog zemljišta ukloniti i predmete i tvari koje s njegova vozila padnu na cestu i cestovno zemljište, te predmete koje je pri zaustavljanju vozila ostavio na cesti. Vlasnik vozila kao i druga osoba dužna je postupiti na isti način i u slučajevima iz stavka 1. ovoga članka.
+(3) Ako vozač, vlasnik vozila ili druga osoba ne postupe u skladu s odredbom stavka 2. ovoga članka o njegovom trošku to će učiniti pravna ili fizička osoba kojoj je povjereno održavanje cesta.
+(4) Vozač će s kolnika ukloniti predmete na koje naiđe tijekom vožnje, ukoliko time ne ometa sigurnost prometa, ili će o tome obavijestiti policiju.
+(5) Novčanom kaznom od najmanje 5.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba-obrtnik ako naredi ili dopusti da se na kolniku i nogostupu ostave njezina oštećena, dotrajala ili neregistrirana vozila ili da se ostave, nanesu ili bace na kolnik i nogostup otpaci ili predmeti i tvari što mogu ometati ili ugroziti sigurnost prometa ili zagaditi okoliš, ili ne ukloni s kolnika i nogostupa vozilo, otpatke, predmete i tvari (stavak 1., 2. i 3.).
+(6) Za prekršaj iz stavka 3. ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi i u tijelu jedinice lokalne i područne (regionalne) samouprave.
+(7) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj sudionik u prometu na cesti ako ne postupi ili postupi suprotno odredbama ovoga članka (stavak 1., 2. i 3.).

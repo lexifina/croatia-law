@@ -1,0 +1,6 @@
+# Članak 274.
+(1) Ako stručna organizacija utvrdi da stanica za tehnički pregled vozila ne koristi propisane, umjerene i ispravne uređaje i opremu ili da objekt i prostor ne udovoljavaju propisanim uvjetima ili da tehničke preglede vozila u stanici obavlja osoba koja nema dopuštenje (licencu) ili ako povjerene poslove ne obavlja u skladu s propisima o tehničkim pregledima i registraciji vozila i prema općim aktima iz članka 273. ovoga Zakona, odmah će obavijestiti ministarstvo nadležno za unutarnje poslove, koje će stanici za tehnički pregled vozila rješenjem privremeno zabraniti rad i odrediti rok za otklanjanje utvrđenih nedostataka.
+(2) Ako stanica za tehnički pregled vozila ne otkloni utvrđene nedostatke u određenom roku, ministarstvo nadležno za unutarnje poslove oduzet će joj ovlaštenje za obavljanje tehničkih pregleda vozila.
+(3) Protiv rješenja iz stavka 1. i 2. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+(4) Novčanom kaznom od najmanje 5.000,00 kuna kaznit će se za prekršaj pravna osoba ako obavlja tehnički pregled vozila, za vrijeme privremene zabrane rada.
+(5) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.

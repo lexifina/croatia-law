@@ -1,0 +1,3 @@
+# Članak 168.
+(1) Teretni automobil kojim se prevoze osobe u prostoru za smještaj tereta uz odobrenje mora imati: sjedala pričvršćena za karoseriju široka najmanje 45 cm, stranicu na stražnjoj strani karoserije visoku najmanje 120 cm, čvrst vanjski naslon visok najmanje 120 cm na stražnjim sjedalima i na sjedalima uzduž ruba karoserije ako su njezine stranice niže od 120 cm, nosač cerade i ceradu s dva otvora za prozračivanje, jedan na prednjoj, a drugi na stražnjoj strani te stepenice za ulazak i izlazak osoba.
+(2) Ispunjavanje uvjeta iz stavka 1. ovoga članka i broj osoba koje se mogu prevoziti, utvrđuje stanica za tehnički pregled vozila.

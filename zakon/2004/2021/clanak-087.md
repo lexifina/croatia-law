@@ -1,0 +1,7 @@
+# Članak 87.
+(1) Vozač je dužan motorno vozilo ili priključno vozilo, osim mopeda, motocikla bez bočne prikolice, lakih četverocikla i četverocikla koje je zaustavljeno na kolniku, obilježiti posebnim znakom kojim se označava zaustavljeno vozilo na kolniku (sigurnosni trokut) i to:
+1) kad je bio prisiljen svoje vozilo zaustaviti na mjestu ili dijelu ceste iz članka 82. ovoga Zakona,
+2) kad je vozilo zaustavljeno na kolniku na takvu mjestu ili u takvim vremenskim prilikama da ga vozači vozila koja nailaze istim smjerom ne mogu ili teško mogu pravovremeno uočiti,
+3) na autocesti, brzoj cesti i cesti namijenjenoj isključivo za promet motornih vozila.
+(2) Znak iz stavka 1. ovoga članka postavlja se na kolnik iza zaustavljenog vozila, u okomitom položaju i na dovoljnoj udaljenosti koja na cesti izvan naselja ne može biti manja od 100 m, tako da vozači vozila koja nailaze iz smjera na kojem je znak postavljen mogu pravovremeno uočiti i po potrebi zaustaviti svoja vozila, odnosno sigurno obići zaustavljeno vozilo. Na isti način taj se znak postavlja i kad je na cesti zaustavljena kolona vozila, s tim što se umjesto jednoga na kolnik postavljaju dva znaka, jedan pokraj drugoga. Ako je u motorno vozilo ugrađen uređaj za istovremeno uključivanje svih pokazivača smjera, u slučaju iz stavka 1. ovoga članka, taj uređaj mora biti uključen.
+(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama ovoga članka.

@@ -1,0 +1,3 @@
+# Članak 65.
+(1) Na cesti iz članka 64. stavka 1. ovoga Zakona, kad se jedno od vozila koja se mimoilaze mora kretati unatrag, kretat će se unatrag: svako vozilo koje se susrelo s vozilom koje vuče priključno vozilo, teretni automobil koji se susretne s autobusom, vozilo koje se susrelo s vozilom više kategorije, a ako se mimoilaze vozila iste kategorije - vozilo koje se kreće niz nagib, osim ako je, s obzirom na uvjete i položaj vozila na cesti, lakše i sigurnije da to učini vozač vozila koje se kreće uz nagib.
+(2) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač koji postupi suprotno odredbi ovoga članka.

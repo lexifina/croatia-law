@@ -1,0 +1,5 @@
+# Članak 260.
+(1) Tehničke preglede vozila obavljaju osobe sa završenom stručnom spremom za zanimanje nadzornik tehničke ispravnosti vozila i koje imaju vozačku dozvolu za upravljanje motornim vozilima najmanje B kategorije (u daljnjem tekstu: nadzornik) i dopuštenje (licencu) Ministarstva unutarnjih poslova.
+(2) Nadzornik tehničke ispravnosti vozila može biti osoba sa završenom stručnom spremom za zanimanje automehaničar ili autoelektričar, s najmanje dvije godine iskustva u održavanju motornih vozila, položenim posebnim ispitom za nadzornika tehničke ispravnosti vozila kod organizacije za osposobljavanje osoba za zanimanje nadzornika, vozačkom dozvolom za upravljanje motornim vozilima najmanje B kategorije i dopuštenjem (licencom) ministarstva nadležnog za unutarnje poslove.
+(3) Program ispita iz stavka 2. ovoga članka donosi ministarstvo nadležno za unutarnje poslove na prijedlog stručne organizacije iz članka 273. ovoga Zakona.
+(4) Ovlašćuje se ministar nadležan za unutarnje poslove da donese propis o sadržaju, obliku i načinu izdavanja i oduzimanja dopuštenja (licence) za referente za poslove registracije vozila i nadzornike tehničke ispravnosti vozila.

@@ -1,0 +1,8 @@
+# Članak 11.
+(1) Pravna ili fizička osoba koja je zbog radova na cesti ili iz drugih razloga (odroni, klizišta, snježni zapusi i dr.) prinuđena organizirati naizmjenično propuštanje vozila iz suprotnih smjerova, upravlja ovim propuštanjem postavljanjem privremenih uređaja za davanje znakova prometnim svjetlima.
+(2) Pravna i fizička osoba prije započinjanja radova iz stavka 1. ovoga članka (osim u slučajevima hitnosti) mora pribaviti odobrenje nadležnog tijela s obzirom na vrstu ceste i o tome obavijestiti policiju.
+(3) Naizmjenično propuštanje vozila iz suprotnih smjerova iz stavka 1. ovoga članka, iznimno mogu obavljati djelatnici pravne ili fizičke osobe koja obavlja radove dok se ne postave privremeni uređaji za davanje znakova prometnim svjetlima.
+(4) Prilikom reguliranja prometa po stavku 3. ovoga članka djelatnici pravne ili fizičke osobe moraju nositi odjeću jarko-narančaste boje s ugrađenim reflektirajućim pojasevima bijele boje koji su vidljivi s veće udaljenosti.
+(5) Novčanom kaznom od najmanje 4.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba-obrtnik ako pri izvođenju radova na cesti ili iz drugih razloga, kada organizira naizmjenično propuštanje vozila iz suprotnih smjerova jednom prometnom trakom, ne upravlja propuštanjem vozila prema odredbama ovoga članka ili ne pribavi odobrenje iz stavka 2. ovoga članka.
+(6) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.
+(7) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj osoba koja postupi suprotno odredbama stavka 3. i 4. ovoga članka.

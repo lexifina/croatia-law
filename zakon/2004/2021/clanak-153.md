@@ -1,0 +1,7 @@
+# Članak 153.
+(1) Uređaji za davanje posebnih svjetlosnih i zvučnih znakova smiju se ugrađivati i upotrebljavati samo na vozilima kojima pripadnici policije obavljaju pratnju (članak 148. stavak 1.) te na vozilima s pravom prednosti prolaska iz članka 149. stavka 1. i 3. i članka 151. ovoga Zakona.
+(2) Na vozilima policije, osim uređaja iz stavka 1. ovoga članka, mogu se ugraditi i uređaji na kojima se ispisuju zapovijedi i obavijesti vozačima koji se kreću ispred ili iza policijskih vozila (obvezno zaustavljanje, stop policija, smanjite brzinu, prometna nesreća, opasnost na cesti i sl.).
+(3) Vozila iz članka 149. ovoga Zakona mogu imati više plavih rotacijskih svjetala ugrađenih na najvišem dijelu vozila i uređaj za davanje znakova u nizu tonova raznih visina, a vozila iz članka 151. ovoga Zakona samo jedno plavo rotacijsko svjetlo i uređaj za davanje znakova u nizu tonova raznih visina.
+(4) Novčanom kaznom od najmanje 5.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba-obrtnik ako postupi suprotno odredbama ovoga članka.
+(5) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi i u tijelu državne vlasti ili tijelu jedinice lokalne i područne (regionalne) samouprave.
+(6) Novčanom kaznom od 700,00 kuna kaznit će se za prekršaj vozač koji u prometu na cesti ima ugrađene ili upotrebljava posebne uređaje suprotno odredbama ovoga članka.

@@ -1,0 +1,6 @@
+# Članak 290.
+(1) Vozač kojem je vozačka dozvola oduzeta (članak 284.) ili je isključen iz prometa (članak 285.) ili mu je izrečena mjera zabrane upravljanja motornim vozilom ili mjera prestanka važenja vozačke dozvole, ne smije za to vrijeme upravljati vozilom u prometu na cesti.
+(2) Novčanom kaznom u iznosu od najmanje 5.000,00 kuna kaznit će se za prekršaj pravna osoba i fizička osoba-obrtnik ako naredi ili dopusti da vozač kome je oduzeta vozačka dozvola ili mu je izrečena zaštitna mjera zabrane upravljanja motornim vozilom određene kategorije upravlja vozilom u prometu na cesti za to vrijeme.
+(3) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.000,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.
+(4) Novčanom kaznom od namanje 3.000,00 kuna kaznit će se za prekršaj vozač koji upravlja vozilom za vrijeme dok mu je oduzeta vozačka dozvola, izrečena zaštitna mjera zabrane upravljanja motornim vozilom ili mu je izrečena mjera prestanka važenja vozačke dozvole.
+(5) Vozaču koji u razdoblju od 24 mjeseca unatrag od dana počinjenja prekršaja bude dva ili više puta pravomoćno kažnjen za prekršaj iz stavka 4. ovoga članka, umjesto novčane kazne prekršajni sud može izreći kaznu zatvora do 60 dana te mu može izreći zaštitnu mjeru zabrane upravljanja motornim vozilom u trajanju od jedne do dvije godine i odredit će mu se pet negativnih bodova.

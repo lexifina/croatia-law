@@ -1,0 +1,6 @@
+# Članak 292.
+(1) Policijski službenik koji je isključio vozilo iz prometa vozaču će privremeno oduzeti registarske pločice.
+(2) Policijski službenik koji je isključio iz prometa vozilo namijenjeno za prijevoz opasnih tvari zbog prekršaja iz članka 291. ovoga Zakona privremeno će oduzeti i ADR certifikat vozila.
+(3) Policijska uprava, odnosno policijska postaja čiji je policijski službenik privremeno oduzeo registarske pločice dužne su ih vozaču vratiti kada prestanu razlozi zbog kojih su oduzete.
+(4) Ako vozač u roku od 30 dana ne otkloni razloge zbog kojih je vozilo isključeno iz prometa i ne preuzme oduzete registarske pločice, iste će se dostaviti tijelu koje vozilo vodi u evidenciji.
+(5) Policijski službenik koji je privremeno oduzeo registarske pločice, tahografski zapis ili ADR certifikat vozila prema odredbama ovoga članka, članka 285. i članka 291. ovoga Zakona, dužan je vozaču o tome izdati potvrdu koja sadrži naziv i sjedište tijela čiji je službenik oduzeo registarske pločice, tahografski zapis ili ADR certifikat vozila, vrstu i registarski broj vozila, naziv tijela koje je izdalo prometnu dozvolu, ime i prezime vlasnika vozila i njegovu adresu, ime i prezime vozača i njegovu adresu, razlog oduzimanja, datum, vrijeme, cestu i mjesto oduzimanja, način i vrijeme vraćanja te pečat tijela i potpis policijskog službenika.

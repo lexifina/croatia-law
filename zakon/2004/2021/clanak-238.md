@@ -1,0 +1,3 @@
+# Članak 238.
+(1) Odredbe ovoga Zakona o trajanju upravljanja motornim vozilom i odmorima vozača primjenjuju se i na vozače motornih vozila registriranih u inozemstvu kad tim vozilima upravljaju na teritoriju Republike Hrvatske, ako međunarodnim ugovorom nije drukčije određeno.
+(2) Ovlašćuje se ministar nadležan za poslove prometa da u suglasnosti s ministrom nadležnim za poslove gospodarstva donese propise o ukupnom trajanju vremena upravljanja vozilom; o načinu rada udvojenih posada na vozilima; o odmorima vozača u svezi s upravljanjem vozilom; o obliku i sadržaju obrasca individualne nadzorne knjižice i upute za njezinu popunu.

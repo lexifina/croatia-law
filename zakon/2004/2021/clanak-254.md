@@ -1,0 +1,2 @@
+# Članak 254.
+Administrativne poslove u svezi s tehničkim pregledima i poslove registracije vozila u stanicama za tehničke preglede vozila obavljaju osobe s najmanje srednjom stručnom spremom i koje imaju uvjerenje stručne organizacije iz članka 273. ovoga Zakona da su za to osposobljene i dopuštenje (licencu) ministarstva nadležnog za unutarnje poslove, a za poslove u svezi s osiguranjem vozila dopuštenje (licencu) ministarstva nadležnog za poslove financija.

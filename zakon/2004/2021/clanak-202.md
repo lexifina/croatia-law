@@ -1,0 +1,10 @@
+# Članak 202.
+(1) Autoškola može provoditi osposobljavanje kandidata za vozače vozila ako ima:
+1. u radnom odnosu na određeno ili neodređeno vrijeme s najmanje pola radnog vremena stručnog voditelja autoškole i predavača predmeta Prometni propisi i sigurnosna pravila,
+2. u radnom odnosu na određeno ili neodređeno vrijeme s punim radnim vremenom potreban broj instruktora vožnje za uspješno ostvarivanje nastavnog plana i programa osposobljavanja,
+3. propisno opremljenu učionicu, uredski prostor za prijem kandidata i rad voditelja autoškole, prometno vježbalište od najmanje 500 m2 u sjedištu autoškole i druge radne i pomoćne prostore koji omogućuju nesmetano osposobljavanje kandidata i obavljanje djelatnosti, u vlasništvu ili zakupu,
+4. najmanje jedno vozilo u vlasništvu ili zakupu opremljeno za osposobljavanje kandidata za vozače A1, A, B i M kategorije do sedam godina starosti a za ostale kategorije vozilo do 12 godina starosti,
+5. u vlasništvu nastavna sredstva i pomagala, informatičku opremu i program za realizaciju teorijskog dijela osposobljavanja (nastavni predmet Prometni propisi i sigurnosna pravila) te računalnu opremu za ostvarivanje informatičke povezanosti s ovlaštenom stručnom organizacijom iz ovoga Zakona.
+(2) Autoškola smije i u podružnici (izdvojenom pogonu) izvan sjedišta osposobljavati kandidate za vozače ako ispunjava uvjete navedene u ovome članku te ako joj ministarstvo nadležno za unutarnje poslove za to izda ovlaštenje i odobri upis u registar.
+(3) Osposobljavanje kandidata za vozače u autoškoli iz nastavnog predmeta Prometni propisi i sigurnosna pravila izvodi predavač, iz nastavnog predmeta Upravljanje vozilom izvodi instruktor vožnje, a iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći izvodi predavač, doktor medicine.
+(4) Osposobljavanje kandidata za vozače obavlja se prema jedinstvenim minimalnim izračunskim elementima vrijednosti nastavnog sata za nastavni predmet Prometni propisi i sigurnosna pravila i Upravljanje vozilom, za pojedinu kategoriju vozila koje propisuje ministar unutarnjih poslova. Troškove osposobljavanja snosi kandidat za vozača.

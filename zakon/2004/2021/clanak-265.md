@@ -1,0 +1,5 @@
+# Članak 265.
+(1) Ako nadzornik na tehničkom pregledu utvrdi da su uređaji za upravljanje ili za zaustavljanje ili za pogon na tekući plin na vozilu neispravni toliko da bi takvo vozilo ugrozilo sigurnost prometa na cestama, zabranit će vozaču da se vozilo uključi u promet na cesti dok se ne uklone neispravnosti. Ako se vozač takvim vozilom uključi u promet na cesti, stanica za tehnički pregled vozila odmah će o tome obavijestiti najbližu policijsku upravu, odnosno policijsku postaju.
+(2) Novčanom kaznom od najmanje 4.000,00 kuna kaznit će se za prekršaj pravna osoba ako ne obavijesti najbližu policijsku upravu, odnosno policijsku postaju da se vozač s neispravnim uređajima za upravljanje, zaustavljanje i pogonom na tekući plin utvrđenim na tehničkom pregledu uključio u promet unatoč zabrani nadzornika tehničke ispravnosti vozila.
+(3) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.
+(4) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač koji se uključi u promet na cesti vozilom kojem je to nadzornik na tehničkom pregledu zabranio.

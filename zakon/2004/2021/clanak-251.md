@@ -1,0 +1,9 @@
+# Članak 251.
+(1) Registraciju motornih i priključnih vozila te izdavanje pokusnih pločica obavljaju policijske uprave, odnosno policijske postaje ili stanice za tehnički pregled vozila iz članka 259. ovoga Zakona ako ispunjavaju uvjete i imaju ovlaštenje, prema prebivalištu ili sjedištu vlasnika vozila. Pokusne se pločice mogu izdavati i prema mjestu, odnosno sjedištu tvrtke u kojem je vozilo proizvedeno ili u kojem je neregistrirano vozilo kupljeno. Pokusne pločice izdaju se najduže na rok od 15 dana.
+(2) Protiv rješenja stanice za tehnički pregled vozila kojim se odbija zahtjev za registraciju može se izjaviti žalba policijskoj upravi na čijem se području nalazi stanica za tehnički pregled vozila.
+(3) Pokusne pločice mogu izdavati i tvrtke koje se bave prodajom vozila na malo, samo za neregistrirana vozila koja prodaju, od mjesta u kojem su kupljena, odnosno preuzeta do mjesta gdje će biti registrirana, ako ispunjavaju propisane uvjete i za to imaju ovlaštenje.
+(4) Pokusne pločice mogu izdavati i obrtnici koji imaju registrirani obrt za prepravljanje ili popravljanje vozila za vozila koja prepravljaju ili popravljaju.
+(5) Pločice iz stavka 4. ovoga članka mogu se koristiti samo na vozilima koja imaju ispravne uređaje za upravljanje, zaustavljanje te da su propisno označena.
+(6) Ovlaštenje iz stavka 1., 3. i 4. ovoga članka izdaje ministarstvo nadležno za unutarnje poslove nakon što stručna organizacija iz članka 273. utvrdi da su ispunjeni propisani uvjeti.
+(7) Novčanom kaznom u iznosu od najmanje 5.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba-obrtnik ako neovlašteno izdaje pokusne pločice ili ih ne izdaje u skladu s odredbama stavak 1., 3. i 4. ovoga članka.
+(8) Novčanom kaznom od 1.500,00 do 5.000,00 kuna kaznit će se za prekršaj iz ovoga članka i odgovorna osoba u pravnoj osobi.

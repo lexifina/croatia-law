@@ -1,0 +1,6 @@
+# Članak 257.
+(1) Na vozilima koja se daju u najam (rent a car vozila), vozilima kojima se obavlja osposobljavanje kandidata za vozače (osim mopeda, motocikala i traktora u vlasništvu kandidata za vozača), vozilima kojima se obavlja taksi prijevoz, autobusima, teretnim i priključnim vozilima za prijevoz opasnih tvari, teretnim i priključnim vozilima čija najveća dopuštena masa prelazi 7.500 kg, obavljaju se preventivni tehnički pregledi u smislu stavka 3. ovoga članka.
+(2) Iznimno od stavka 1. ovoga članka, preventivnim tehničkim pregledima ne podliježu vozila za stanovanje ili kampiranje, vozila za prijevoz pčela, teretna i priključna vatrogasna vozila, teretna i priključna vozila za zabavne radnje, i priključna vozila za traktore.
+(3) Preventivni tehnički pregledi vozila obavljaju se dnevno (dnevni preventivni tehnički pregled) i u propisanim rokovima (periodični tehnički pregled i periodični tehnički pregled kočnica).
+(4) Novčanom kaznom u iznosu od najmanje 4.000,00 kuna kaznit će se za prekršaj pravna i fizička osoba-obrtnik ako ne obavi preventivni tehnički pregled.
+(5) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.

@@ -1,0 +1,5 @@
+# Članak 247.
+(1) Motorna i priključna vozila registrirana u stranoj zemlji mogu sudjelovati u prometu na teritoriju Republike Hrvatske samo ako imaju važeću prometnu dozvolu i registarske pločice što ih je izdalo nadležno tijelo zemlje u kojoj je vozilo registrirano, i međunarodnu oznaku zemlje registracije ili registarsku pločicu izdanu od nadležnog tijela strane zemlje na kojoj su oznake i broj utvrđeni propisima Europske unije.
+(2) Strano priključno vozilo koje nije registrirano mora na stražnjoj strani imati registarsku pločicu s ponovljenim registarskim brojem vučnog vozila.
+(3) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj vozač koji upravlja vozilom koje nije registrirano u skladu s odredbama ovoga članka.
+(4) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač vozila registriranog u stranoj zemlji, ako nema važeću prometnu dozvolu, registarske pločice ili međunarodnu oznaku zemlje registracije, ili ako vuče strano neregistrirano priključno vozilo koje nije označeno s ponovljenim brojem vučnog vozila.
