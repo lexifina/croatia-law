@@ -1,0 +1,1 @@
+Na temelju članka 316. stavak 2. točka 4. Zakona o sigurnosti prometa na cestama ("Narodne novine", br. 84/92), ministar pomorstva, prometa i veza u suglasnosti s ministrom rada i socijalne skrbi donosi
