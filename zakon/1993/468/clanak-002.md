@@ -1,0 +1,2 @@
+# Članak 2.
+Članak 1. mijenja se i glasi: "Republika Hrvatska, županije, Grad Zagreb, općine i gradovi donose programe javnih potreba u kulturi, te za njihovo provodenje osiguravaju sredstva iz svojih proračuna, u skladu sa zakonom. Programom javnih potreba u kulturi obuhvaćaju se svi oblici poticanja i promicanja kulture i kulturnih djelatnosti što pridonose razvitku i unapređivanju svekolikog kulturnog života u Republici Hrvatskoj. Pri utvrđivanju programa javnih potreba u kulturi polazi se od potreba i postignutog stupnja razvitka kulture i kulturnih djelatnosti."
