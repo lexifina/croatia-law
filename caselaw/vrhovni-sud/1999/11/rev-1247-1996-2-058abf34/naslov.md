@@ -1,0 +1,1 @@
+Rev-1247/1996-2, Vrhovni sud Republike Hrvatske, 11.11.1999.
