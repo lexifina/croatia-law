@@ -1,0 +1,1 @@
+Na temelju članka 69. stavka 1., točka 1., točka 4. do 8., točka 10., stavka 10., članka 70., članka 72. i članka 78. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99 i 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 23. listopada 2002. godine, donio je
