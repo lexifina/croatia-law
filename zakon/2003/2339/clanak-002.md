@@ -1,0 +1,35 @@
+## Pojam duŽnosnika
+# Članak 2.
+(1) Dužnosnici u smislu ovoga Zakona jesu:
+- predsjednik i potpredsjednici Hrvatskoga sabora,
+- zastupnici u Hrvatskom saboru,
+- predsjednik i članovi Vlade Republike Hrvatske,
+- predsjednik i suci Ustavnog suda Republike Hrvatske,
+- guverner, zamjenik guvernera i viceguverner Hrvatske narodne banke,
+- glavni državni revizor i njegovi zamjenici,
+- pučki pravobranitelj i njegovi zamjenici,
+- pravobranitelj za djecu i njegovi zamjenici,
+- pravobranitelj za ravnopravnost spolova i njegov zamjenik,
+- tajnik Hrvatskoga sabora,
+- tajnik Vlade Republike Hrvatske,
+- zamjenik tajnika Hrvatskoga sabora,
+- zamjenik tajnika Vlade Republike Hrvatske,
+- zamjenici ministara,
+- pomoćnici ministara,
+- tajnici ministarstava,
+- ravnatelji, zamjenici i pomoćnici ravnatelja državnih upravnih organizacija,
+- predsjednik i zamjenik predsjednika Hrvatskog fonda za privatizaciju,
+- ravnatelj i pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje,
+- direktor, zamjenik direktora i pomoćnici direktora Hrvatskog zavoda za zdravstveno osiguranje,
+- rektori i prorektori sveučilišta,
+- glavni državni rizničar,
+- glavni inspektor Državnog inspektorata, njegov zamjenik i pomoćnici,
+- predstojnici ureda, ravnatelji agencija i direkcija Vlade Republike Hrvatske, te ravnatelji zavoda koje imenuje Vlada Republike Hrvatske,
+- dužnosnici u Uredu predsjednika Republike koje imenuje Predsjednik Republike Hrvatske sukladno odredbama posebnog zakona,
+- načelnik i zamjenik načelnika Glavnog stožera Oružanih snaga Republike Hrvatske,
+- glavni inspektor obrane i zamjenik glavnog inspektora obrane,
+- zapovjednici i zamjenici zapovjednika grana Oružanih snaga Republike Hrvatske,
+- zapovjednici korpusa Oružanih snaga Republike Hrvatske,
+- načelnici i gradonačelnici.
+(2) Dužnosnicima u smislu ovoga Zakona smatrat će se i drugi obnašatelji dužnosti koje imenuje ili potvrđuje Hrvatski sabor, Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) ili Predsjednik Republike Hrvatske ako je to određeno aktom o izboru, potvrdi ili imenovanju.
+(3) Odredbe stavka 2. ovoga članka ne odnose se na osobe koje imenuje Predsjednik Republike Hrvatske u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske.
