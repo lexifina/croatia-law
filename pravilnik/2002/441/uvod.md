@@ -1,0 +1,1 @@
+Temeljem članka 84. stavka. 1. točke. 12. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 94/01), ministar hrvatskih branitelja iz Domovinskog rata, donosi
