@@ -1,0 +1,7 @@
+1. U skladu s Uredbom o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina ("Narodne novine", broj 48/94), mirovine korisnika nairovina, koji su pravo na mirovinu ostvarili do 31. prosinca 1993. povećavaju se od 1 lipnja 1994. za 5,2%.
+2. U skladu s Uredbom o utvrđivanju rlajviših iznosa mase sredstava za isplatu mirovina ("Narodne novine", broj 48/94) mirovine korisnika mirovina, koji su pravo na mirovinu ostvarili 1. siječnja 1994. ili poslije toga dana i koje su povećane od 1. siječnja 1994 odnosno od dana ostvarivanja prava za 35,478% prema Odluci o privremenom usklađivanju mirovina od 1. siječnja 1994. ("Narodne novine" broj 26/94), povećavaju se od 1. lipnja 1994. za 5,2%.
+3.Mirovine korisnika mrrovina koji su pravo na mirovinu ostvarili 1. lipnja 1994. ili poslije toga dana i koje nisu povećane za 35,478% povećavaju se od dana ostvar-ivanja prava za 42,523%.
+4. Kao osnovica za povećanje mirovine prema točki 1.ove odluke uzima se mirovina koja je korisniku pripadala ria dan 1. lipnja 1994., a kao osnovica za povećanje mirovine prema točki 2.ove odluke uzima se mirovina koja je korisniku pripadala na dan 1. lipnja 1994. ili na dan ostvarivanja prava, ako je pravo ostvareno nakon toga dana
+5. Najviša starosna i invalidska mirovina od 1. lipnja 1994. iznosi 2.550,69 K.
+6. Usklađivanje mirovina po ovoj odluci obavit će se po službenoj dužnosti, bez donošenja rješenja.
+7. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. lipnja 1994.
