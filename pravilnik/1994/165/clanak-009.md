@@ -1,0 +1,2 @@
+# Članak 9.
+Ocjenjivanje kandidata na stručnom ispitu obavlja se komisijski. Kandidat je položio stručni ispit ako je pismena radnja pozitivno ocijenjena, te ako je na usmenom dijelu ispita pozitivno ocijenjen iz svih predmeta propisanih Programom. Konačni uspjeh kandidata na stručnom ispitu ocjenjuje se s ocjenom "položio" ili "nije položio". Ocjena uspjeha se utvrđuje većinom glasova svih članova Komisije, a u slučaju ravnomjerne podjele glasova odlučuje predsjednik Komisije.

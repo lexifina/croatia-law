@@ -1,0 +1,2 @@
+# Članak 5.
+Prijavu za polaganje stručnog ispita kandidat podnosi Komisiji. Uz prijavu kandidat dostavlja svejdodžbu ili ovjerenu fotokopiju o završenom školovanju i potvrdu ovlaštene ustanove za organiziranje tečajeva stranih jezika o položenom najmanje trećem stupnju stranog jezika. O vremenu i mjestu polaganja stručnog ispita Komisija izvješćuje kandidate pismenim putem najmanje osam dana prije polaganja ispita. Kandidatu koji ne ispunjava uvjete za polaganje stručnog ispita Komisija o tome dostavlja obavijest uz povrat dokumentacije.

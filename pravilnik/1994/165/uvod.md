@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2. Zakona o posebnim uvjetima za obavljanje poslova međunarodnog otpremništva u svezi carinjenja robe ("Narodne novine", br. 106/93.) ministar financija, po pribavljenom mišljenju ministra gospodarstva, donosi
