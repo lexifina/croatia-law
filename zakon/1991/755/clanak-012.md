@@ -1,0 +1,2 @@
+# Članak 12.
+Upravni odbor dužan je u roku od tri mjeseca od dana stupanja na snagu ovoga zakona, uz suglasnost Vlade Republike Hrvatske donijeti statut Poduzeća, a ostale akte utvrđene ovim zakonom, u roku od šest mjeseci od dana stupanja na snagu ovoga zakona. Do donošenja statuta i drugih općih akata Poduzeća, shodno će se primjenjivati statut i drugi akti postojeće radne organizacije "Spomen-park Kumrovec", ukoliko nisu u suprotnosti s ovim zakonom.
