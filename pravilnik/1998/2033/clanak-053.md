@@ -1,0 +1,7 @@
+## Skupina računa 920 - Obveze
+# Članak 53.
+(1) Na skupini računa 920 - Obveze iskazuju se: obveze prema državi, obveze za doprinose, obveze prema uplatiteljima za više uplaćene poreze, pristojbe i nadoknade, obveze prema uplatiteljima za više uplaćene doprinose, obveze prema građanima i kućanstvima, obveze prema dobavljačima, obveze po danim čekovima i mjenicama, obveze prema zaposlenicima i ostale nespomenute obveze.
+(2) U Glavnoj knjizi II. knjiženje se obavlja zaduženjem odgovarajućeg analitičkog računa u okviru osnovnog računa ispravka vrijednosti na skupini računa 970 uz odobrenje odgovarajućeg osnovnog računa obveza na skupini računa 920.
+(3) Prilikom plaćanja obveze u Glavnoj knjizi I. knjiženje se obavlja zaduženjem odgovarajućeg računa izdataka uz odobrenje računa novčanih sredstava. Usporedo se obavlja knjiženje u Glavnoj knjizi II., zaduženjem odgovarajućeg osnovnog računa obveza na skupini 920 uz odobrenje računa ispravka vrijednosti odgovarajućeg izvora vlasništva na skupini 970 na teret kojeg je (prvobitno) knjižena ta obveza.
+(4) Poslovne promjene u svezi s obvezama treba knjižiti na temelju promjena evidentiranih u pomoćnim knjigama, tako da se u Glavnoj knjizi II. knjiži ukupan dnevni promet na propisanim odgovarajućim osnovnim računima odnosno na analitičkim računima u okviru tih računa ako ih za svoje potrebe uvede proračun ili proračunski korisnik. Ažuriranje knjiženja obavlja se u rokovima propisanim u članku 5. stavak (4) ovoga Pravilnika.
+(5) Knjiženja obveza u svezi s PDV-om propisana su u čl. 20. i 21. ovoga Pravilnika.

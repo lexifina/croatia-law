@@ -1,0 +1,4 @@
+## Skupina računa 085 - Sredstva stalne pričuve (zalihe) za pokriće deficita proračuna fiskalne godine
+# Članak 28.
+(1) Kada se sredstva stalne pričuve (zalihe) proračuna koriste za pokriće deficita (manjka) proračuna u tekućoj godini ta se svota knjiži u Glavnoj knjizi II. zaduženjem računa 960-20-010-10 - Stalna pričuva uz odobrenje odgovarajućeg računa novčanih sredstava u skupini 850. Usporedo se obavlja knjiženje u Glavnoj knjizi I. zaduženjem odgovarajućeg računa novčanih sredstava u skupini 850 uz odobrenje računa 085-10-010-10 - Sredstva stalne pričuve (zalihe) za pokriće deficita (manjka) proračuna.
+(2) Knjiženja iz stavka (1) obavljaju se u slučajevima kada se sredstva stalne pričuve (zalihe) koriste za druge namjene predviđene propisima o financiranju lokalne samouprave i uprave, bilo da su dana bespovratno ili kao zajam (kredit).

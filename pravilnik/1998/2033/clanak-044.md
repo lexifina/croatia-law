@@ -1,0 +1,7 @@
+## Skupina računa 800 - Dani državni zajmovi i udio u glavnici
+# Članak 44.
+(1) Na skupini računa 800 - Dani državni zajmovi i udio u glavnici iskazuju se: tuzemni zajmovi, inozemni zajmovi i udio u glavnici prema nazivima pojedinih osnovnih računa. Knjiže ih svi proračuni i proračunski korisnici koji daju zajmove u skladu s propisima.
+(2) Davanje zajmova knjiži se u Glavnoj knjizi I. zaduženjem računa skupine 800 uz odobrenje računa novčanih sredstava.
+(3) Nakon knjiženja danog zajma u Glavnoj knjizi I., knjiženje se obavlja u Glavnoj knjizi II. zaduženjem odgovarajućeg osnovnog računa u skupini 800 uz odobrenje odgovarajućeg osnovnog računa izvora vlasništva za dane zajmove. Novčani udjeli u glavnici poduzeća i institucija knjiže se zaduženjem odgovarajućih osnovnih računa udjela u glavnici uz odobrenje odgovarajućeg računa izvora vlasništva za dane zajmove.
+(4) Kada dužnik vrati zajam, nakon knjiženja u Glavnoj knjizi I., za istu svotu odobrava se u Glavnoj knjizi II. odgovarajući račun u skupini 800, uz zaduženje osnovnog računa izvora vlasništva za zajmove gdje se knjižilo njihovo davanje.
+(5) Imovina dana za udio u glavnici - knjiži se u Glavnoj knjizi II. - zaduženjem odgovarajućeg računa udjela u glavnici uz odobrenje računa imovine koja je dana kao ulog. Ako je dana imovina djelomično otpisana, za ispravak vrijednosti zadužuje se odgovarajući račun ispravka vrijednosti.

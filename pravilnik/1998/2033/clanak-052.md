@@ -1,0 +1,10 @@
+# Članak 52.
+(1) Primljeni zajam - nakon knjiženja u Glavnoj knjizi I. - knjiži se u Glavnoj knjizi II. zaduženjem analitičkog računa ispravka vrijednosti izvora vlasništva (za primljeni zajam) u skupini računa 970 uz odobrenje odgovarajućeg računa državnoga duga na skupini 900.
+(2) Otplate primljenog zajma - nakon knjiženja u Glavnoj knjizi I. - zadužuje se u Glavnoj knjizi II. odgovarajući račun u skupini 900 uz odobrenje računa ispravka vrijednosti izvora vlasništva koji je bio zadužen kod primanja zajma.
+(3) Nenovčana emisija duga otplativa u novcu i preuzimanje obveza drugih osoba - knjiže se u Glavnoj knjizi II. zaduženjem analitičkog računa ispravka vrijednosti izvora vlasništva u skupini računa 970, uz odobrenje odgovarajućeg računa u skupini 900.
+(4) Otplate po izdanim obveznicama i drugim vrijednosnim papirima - nakon knjiženja u Glavnoj knjizi I., knjiže se u Glavnoj knjizi II. zaduženjem računa u skupini 900 uz odobrenje računa ispravka vrijednosti vlasništva na kojima su evidentirane te obveze.
+(5) Obračunate kamate knjiže se zaduženjem analitičkog računa ispravka vrijednosti izvora vlasništva uz odobrenje odgovarajućeg analitičkog računa u skupini 900.
+(6) Tečajne razlike krajem obračunskog razdoblja knjiže se na analitičkim računima u okviru osnovnih računa, pa:
+- ako je negativna tečajna razlika, zadužuje se račun ispravka vrijednosti izvora vlasništva uz odobrenje odgovarajućeg računa državnog duga,
+- ako je pozitivna tečajna razlika, zadužuje se odgovarajući račun državnog duga uz odobrenje računa ispravka vrijednosti izvora vlasništva.
+(7) Na računu 900-10-200-00 - Ispravak vrijednosti evidentiraju se razlike između nominalne vrijednosti i tržišne vrijednosti ili na temelju propisa novoutvrđene vrijednosti državnog duga. Taj se zadužuje za smanjenu vrijednost uz odobrenje analitičkog računa ispravka vrijednosti izvora vlasništva u skupini računa 970 koji je zadužen prilikom dobivanja zajma ili izdavanja vrijednosnih papira. Ako se tržišna vrijednost povećava, tada se zadužuje račun ispravka vrijednosti izvora vlasništva uz odobrenje toga računa.

@@ -1,0 +1,10 @@
+## Skupina računa 200 - Financijski i ostali vanjski izdaci
+# Članak 35.
+(1) Na skupini računa 200 - Financijski i ostali vanjski izdaci iskazuju se: izdaci u poljoprivredi i šumarstvu, izdaci za školstvo, izdaci za očuvanje prirode i okoliša, financijski izdaci, izdaci za statistička istraživanja, izdaci za zdravstvo, izdaci za obranu, izdaci za javni red i sigurnost, izdaci u vezi sa sigurnošću kopnenog, pomorskog i zračnog prometa i ostali izdaci prema nazivima pojedinih osnovnih računa.
+(2) Na osnovnom računu 200-40-040-10 knjiže se negativne tečajne razlike. Te razlike nastaju pri transakcijama s devizama kada devize prodamo po nižem tečaju od onoga po kojem smo ih oprihodovali ili otplaćujemo zajmove po višem tečaju od onoga koji je bio pri dobivanju zajmova i slično.
+(3) U podskupini računa 200-65 - Izdaci za obranu iskazuju se izdaci za kopnenu vojsku, ratnu mornaricu, ratno zrakoplovstvo i ostali tekući vojni izdaci.
+Svi vojni izdaci državnog proračuna jesu prema ekonomskim kategorijama tekući izdaci, osim izdataka za stambenu izgradnju i stanove obiteljima vojnika koji se iskazuju kao stalna kapitalna imovina.
+(4) U podskupini računa 200-80 - Ostali izdaci planiraju se iz sredstava tekuće pričuve (zalihe) proračuna. Kada se sredstva tekuće pričuve (zalihe) koriste za pokriće određenih izdataka, knjiže se na teret odgovarajućih osnovnih računa izdataka u korist računa novčanih sredstava.
+Prekoračenja planiranih izdataka na pojedinim računima u svezi s korištenjem tekuće pričuve (zaliha) treba pojasniti u bilješkama uz financijska izvješća.
+(5) U podskupini računa 200-85 - Plaćeni PDV po obračunu iznad svote naplaćenog poreza u obračunskom poreznom razdoblju, na računu 200-85-010-10 knjiži se razlika između svote plaćenog i naplaćenog PDV-a u obračunskom poreznom razdoblju, kako je propisano u članku 19. ovoga Pravilnika.
+Ako u sljedećem obračunskom poreznom razdoblju na računu 050-70- Primici od poreza na dodanu vrijednost budu naplaćene svote veće od plaćenih svota PDV-a, za razliku se stornira račun 200-85-010-10 i tereti račun plaćenog PDV-a na kojem je u prethodnom razdoblju stornirana ta svota.

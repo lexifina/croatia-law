@@ -1,0 +1,7 @@
+## Skupina računa 300 - Tekući prijenosi i potpore proračunima i proračunskim korisnicima
+# Članak 36.
+(1) Na skupini računa 300 - Tekući prijenosi i potpore proračunima i proračunskim korisnicima iskazuju se: tekući prijenosi sredstava državnim institucijama, tekući prijenosi sredstava između pojedinih državnih razina, tekući prijenosi sredstava između korisnika državnog proračuna unutar nadležnog ministarstva/razdjela, tekući prijenosi sredstava na istoj državnoj razini između ministarstava/razdjela te ostali prijenosi sredstava proračunskim korisnicima.
+(2) Korisnici državnog proračuna, osim sredstava koja su u državnom proračunu planirana kao transfer, na odgovarajućim računima te skupine knjiže sredstva koja iz svojih sredstava prenose drugim proračunskim korisnicima za određene namjene.
+(3) Iznimno, proračuni jedinica lokalne samouprave i uprave sredstva doznačena proračunskim korisnicima knjiže se na odgovarajućim analitičkim računima u okviru osnovnog računa skupine 300 i to na odgovarajućim osnovnim računima u podskupini 300-50 - Ostali tekući prijenosi sredstava proračunskim korisnicima. Pri planiranju i knjiženju tih transfera treba ih iskazivati posebno kao transfere za zaposlenike i transfere za druge tekuće izdatke na odgovarajućim osnovnim računima.
+(4) Tekući prijenosi (transferi) namijenjeni su za tekuće izdatke odobrenih programa bez obveze vraćanja.
+(5) Tekući prijenosi (transferi) knjiže se zaduženjem odgovarajućeg računa transfera uz odobrenje računa novčanih sredstava.

@@ -1,0 +1,4 @@
+# Članak 51.
+(1) Na skupini računa 900 - Otplata glavnice duga u Glavnoj knjizi I. iskazuju se otplata tuzemnog duga i otplata inozemnog duga.
+(2) Otplate državnih dugova, kredita i obveza, na temelju izdanih vrijednosnih papira, knjiže se u računovodstvu proračuna i računovodstvima proračunskih korisnika zaduženjem računa skupine 900 uz odobrenje računa novčanih sredstava. Usporedo se obavlja knjiženje u Glavnoj knjizi II. uz odobrenje odgovarajućeg osnovnog računa izvora vlasništva za dobivene zajmove i druge obveze.
+(3) Otplate zajmova, koji su primljeni i otplaćeni tijekom fiskalne godine, uz knjiženje izdataka, prilikom otplate, knjiže se u Glavnoj knjizi I. na osnovnim računima ispravka duga zaduženjem odgovarajućeg računa skupine 070 - Ispravak duga uz odobrenje odgovarajućeg osnovnog računa skupine 900 - Ispravak duga.

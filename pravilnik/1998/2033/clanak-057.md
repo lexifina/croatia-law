@@ -1,0 +1,3 @@
+# Članak 57.
+(1) Ispravak vrijednosti dugotrajne imovine knjiži se izravno zaduženjem odgovarajućih računa izvora vlasništva uz odobrenje analitičkih računa ispravaka vrijednosti dugotrajne imovine.
+(2) Ispravak vrijednosti dugotrajne imovine vodi se na analitičkim i subanalitičkim računima po skupinama i podskupinama u okviru osnovnog računa ispravka vrijednosti pojedine dugotrajne imovine. Knjiženje se obavlja zaduženjem odgovarajućeg računa izvora vlasništva iz kojeg je dugotrajna imovina nabavljena uz odobrenje odgovarajućeg analitičkog i subanalitičkog računa ispravka vrijednosti dugotrajne imovine.
