@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom jedinstveno se uređuje radno vrijeme i raspored dnevnoga i tjednoga radnog vremena prodavaonica i drugih oblika trgovine na malo (u daljnjem tekstu: prodavaonice), radno vrijeme u dane državnih blagdana i neradnih dana, te radno vrijeme tržnica kao i kriteriji temeljem kojih nadležno tijelo grada, odnosno općine može propisati drukčije radno vrijeme od onoga koje je uređeno ovim Pravilnikom.
