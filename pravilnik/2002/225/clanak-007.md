@@ -1,0 +1,2 @@
+# Članak 7.
+Nepropustljivost između klipa i tijela štrcaljke pri ispitivanju nepropustljivosti mora biti takva da količina destilirane vode koja za pola minute prođe između tijela štrcaljke i klipa ne premaši vrijednost što odgovara najvećoj dopuštenoj pogrešci pri ispitivanju ukupnoga nazivnog obujma, ako se tlak u štrcaljkama kojima je ukupni nazivni obujam do 10 cm3 (ml) podigne na 0,3 MPa (3 bar), a u štrcaljkama kojima je ukupni nazivni obujam 20 cm3 (ml) ili više - na 0,2 MPa (2 bar).
