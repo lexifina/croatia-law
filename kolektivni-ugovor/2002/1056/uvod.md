@@ -1,0 +1,6 @@
+SINDIKAT GRADITELJSTVA HRVATSKE, Zagreb, Trg k. P. Krešimira IV br. 2,
+NEZAVISNI SINDIKAT GRAĐEVINARA HRVATSKE, Zagreb, Vodovodna 11, i
+UDRUGA POSLODAVACA GRADITELJSTVA HRVATSKE, Zagreb, Božidarevićeva 13 sklopili su u Zagrebu, 7. prosinca 2001.
+KOLEKTIVNI UGOVOR ZA GRADITELJSTVO
+I. OPĆE ODREDBE
+1. Teritorijalno važenje
