@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 1. Zakona o zaštiti bilja od bolesti i štetočina koje ugrožavaju cijelu zemlju ("Narodne novine", br. 53/91 i 26/93), Vlada Republike Hrvatske je na sjednici održanoj 1. srpnja 1993. godine donijela
