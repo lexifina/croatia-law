@@ -1,0 +1,2 @@
+# Članak 16.
+Uz knjigu Registra kolektivnih ugovora Ministarstvo vodi i zbirku isprava (dosije) u koju ulaže po jedan primjerak registriranog kolektivnog, ugovora, izmjene i dopune registriranog kolektivnog ugovora, sporazum o produženju valjanosti registriranog kolektivnog ugovora, sve druge ispravke, zapisnike, rješenja, zaključke, službene zabilješke i dr. Broj knjige Registra kolektivnih ugovora ujedno je i broj zbirke isprava (dosijea).

@@ -1,0 +1,2 @@
+# Članak 11.
+Registrirani kolektivni ugovor objavljuje se u "Narodnim novinama" u roku 30 dana po izvršenoj registraciji. Iznimno od odredbe stavka 1. ovoga članka registrirani kolektivni ugovori zaključeni prema članku 94. stavak 6., 7. i 8. Zakona o radnim odnosima objavljuju se u službenom glasilu određenom u Statutu općine, županije ili Grada Zagreba prema sjedištu organizacije odnosno poslodavca. Za objavljivanje iz stavka 1. i 2. ovoga članka zadužene su strane na koje se zaključeni kolektivni ugovor odnosi

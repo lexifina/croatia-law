@@ -1,0 +1,1 @@
+Na temelju članka 98. stavak 2. Zakona o radnim odnosima ("Narodne novine", br. 25/92 - pročišćeni tekst) i članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/80, 47/90 i 53a/91) Ministar reda, socijalne skrbi i obitelji, donosi

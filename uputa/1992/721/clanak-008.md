@@ -1,0 +1,2 @@
+# Članak 8.
+Broj iz knjige Registra kolektivnih ugovora pod kojim je kolektivni ugovor registriran upisuje se na sve podneske i pismena koja se odnose na taj kolektivni ugovor (sporazum o nastavku važenja ili prestanku važenja, izmjene i dopune i dr.), a registracija svih daljnjih podnesaka i pismena koji se odnose na taj kolektivni ugovor provodi se na način predviđen člankom 6. ovih Uputa za kolektivne ugovore
