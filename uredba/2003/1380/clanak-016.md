@@ -1,0 +1,3 @@
+# Članak 16.
+Ako podnositelj zahtjeva, do isteka roka iz članka 13. stavka 1. ove Uredbe, ne postupi sukladno odredbi članka 14. stavka 1. ove Uredbe, Središnji ured Carinske uprave, bez odlaganja, obavještava nadležnu carinarnicu da primatelj robe može istu staviti u zahtijevani postupak, odnosno postupanje, ako su ispunjeni ostali uvjeti propisani za stavljanje robe u odnosni carinski postupak, odnosno postupanje.
+Ako podnositelj zahtjeva ne postupi sukladno odredbi članka 14. stavka 7. ove Uredbe, Središnji ured Carinske uprave donosi rješenje o prestanku privremenog zadržavanja robe, te će se postupiti na način iz stavka 1. ovog članka.
