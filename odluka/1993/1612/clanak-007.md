@@ -1,0 +1,3 @@
+# Članak 7.
+Obveznici poreza koje se prema Zakonu o neposrednim porezima oporezuju u godišnjem paušalnom iznosu kao i obveznici iz članka 4 i 6. ove Odluke za koje se utvrdi da su ostvariIi dobit što premašuje dvostruki godišnji iznos prosječnoga čistog osobnoga dohotka u privredi Republike u godini koja prethodi razrezu poreza i koji zapošljavaju više od pet radnika, plaćaju porez prema ostvarenoj dobiti.
+U slučaju iz stavka 1. ovoga članka Uprava prihoda će porez na dobit u paušaInom godišnjem iznosu otpisati i utvrditi rješenjem obvezu da se za tu godinu plaća porez na dobit prema stvarno ostvarenoj dobiti.

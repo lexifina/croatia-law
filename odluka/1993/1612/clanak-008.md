@@ -1,0 +1,2 @@
+# Članak 8.
+Pošto je za porez u paušalnom iznosu utvrđena gornja granica paušalnoga iznosa poreza, Uprava prihoda utvrdit će za svakoga pojedinoga poreznog iIi grupu poreznih ob veznika paušalni iznos poreza na dobit, ovisno o djelatnosti, obimu poslovanja, mjestu gdje se radnja nalazi, opremljenosti radnje, mogućnostima privređivanja, godinama starosti i eventualnoj invalidnosti poreznog obveznika, broju zaposlenih radnika, kao i o ostalim okolnostima koje utjeću na ostvarenje dobiti.
