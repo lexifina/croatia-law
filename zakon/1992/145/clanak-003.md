@@ -1,0 +1,2 @@
+# Članak 3.
+Jedinstveni matični broj građana određuje se na temeIju podataka o kojima nadležna tijela vode službenu evidenciju (matične knjige rodenih i knjige državljana). Jedinstveni matični broj građana određuje se prema mjestu prebivališta hrvatskog državljanina u trenutku odredivanja matičnog broja. Jedinstveni matični broj građana određuje po službenoj dužnosti policijska uprava ili policijska stanica Ministarstva unutarnjih poslova (u daljnjem tekstu: nadležno tijelo)

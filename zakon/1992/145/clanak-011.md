@@ -1,0 +1,2 @@
+# Članak 11.
+Jedinstveni matični broj gradana određen do 8. listopada 1991. godine osobama koje nemaju hrvatsko državljanstvo nadležno tijelo poništit će rješenjem i odrediti matični broj stranaca Jedinstveni matični broj građana određen u inozemstvu nadležno tijelo brisat će iz službenih evidencija i odrediti novi matični broj. Hrvatskim državljanima i strancima kojima je do dana stupanja na snagu ovoga zakona odreden matični broj u Republici Hrvatskoj, neće se određivati matični broj prema odredbama ovoga zakona.

@@ -1,0 +1,2 @@
+# Članak 4.
+Matični broj stranaca određuje se strancu kojem je u Republici Hrvatskoj odobreno trajno nastanjenje, boravak s poslovnom vizom, produženi boravak ili priznat status lzbjeglice. Matični broj stranaca sastoji se od 13 znamenki svrstanih u šest skupina na način utvrđen člankom 2. štavkom 2. ovoga zakona. Četvrtu skupinu matičnog broja stranaca čini oznaka 03 za sva registracijska područja. Izuzetno u slučaju iskorištenja rednog broja za isti datum rođenja, u IV. skupini matičnog broja stranaca umjesto oznake 03 koristi se oznaka 00.

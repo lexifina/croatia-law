@@ -1,0 +1,2 @@
+# Članak 6.
+Matični broj stranaca određuje se prema mjestu prebivališta, odnosno boravišta stranca u trenutku odredivanja matičnog broja. Strancu iz članka 5. stavka 2. ovoga zakona -matični broj,određuje se prema mjestu prebivališta odnosno boravišta njegovih roditelja, odnosno drugih zakonskih zastupnika u Republici Hrvatskoj u trenutku određivanja matičnog broja. Matični broj stranaca određuje po službenoj dužnosti nadležno tijelo.
