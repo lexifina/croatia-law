@@ -1,0 +1,1 @@
+Na temelju članka 72. Zakona o zdravstvenoj zaštiti (»Narodne novine« broj 1/97 - pročišćeni tekst) i članka 10. i 18. Statuta Hrvatske ljekarničke komore, Vijeće Komore na 28./54. sjednici održanoj 27. ožujka 2003. godine donijelo je
