@@ -1,0 +1,2 @@
+# Članak 24.
+Pri promjeni mrežnog napona ± 10% i frekvencije za ± 1% od nazivnih vrijednosti, izvori za napajanje uređaja za ispitivanje brojila moraju osigurati referencijske uvjete rada uređaja za ispitivanje brojila u pogledu napona, frekvencije, oblika valova napona i struje, i ne smije utjecati na ukupnu pogrešku uređaja za ispitivanje brojila. Vrijeme regulacije napona ne smije biti duže od 0,5 s.

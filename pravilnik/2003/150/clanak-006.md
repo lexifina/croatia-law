@@ -1,0 +1,4 @@
+# Članak 6.
+Voditelj laboratorija iz članka 5. ovog pravilnika mora imati VSS tehničkoga ili prirodoslovno-matematičkoga smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja brojila; ili VŠS tehničkoga smjera i najmanje 2 godine radnoga iskustva na poslovima ispitivanja, proizvodnje ili servisiranja brojila; ili SSS tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja brojila; ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja brojila.
+Drugi radnik iz članka 5. ovoga pravilnika mora imati najmanje KV tehničke struke i najmanje 2 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja brojila.
+Radnici iz stavaka 1. i 2. ovoga članka moraju poznavati propise kojima su utvrđeni postupci i metode ispitivanja brojila.
