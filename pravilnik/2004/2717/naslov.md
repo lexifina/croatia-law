@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o uvjetima kojima moraju udovoljavati pravne osobe koje obavljaju promet sredstvima za zaštitu bilja na veliko i malo, te o načinu i postupku osposobljavanj
