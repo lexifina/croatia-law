@@ -1,0 +1,2 @@
+# Članak 8.
+Mentorske poslove i zadaće u vježbaonicama obavljaju mentori i savjetnici. Iznimno, kad vježbaonica nema mentora ili savjetnika za nastavni predmet u kojem će se izvoditi metodičke vježbe, ravnatelj može zaključiti ugovor o radu s mentorom zaposlenim u drugoj školi ili, po dogovoru s profesorom metodike, rješenjem privremeno povjeriti poslove mentorstva nastavniku toga predmeta koji nema položajno zvanje mentora, ali najdulje za jednu školsku godinu.

@@ -1,0 +1,2 @@
+# Članak 7.
+Vježbaonica je dužna jednako kao i svaka druga škola, u okviru svog redovnog godišnjeg programa rada, omogućiti studentima nastavničkih fakulteta nastavnu praksu u svim etapama organizacije i izvedbe nastave u skladu s dogovorima s nastavničkim fakultetima i programom praktične nastave nastavničkih fakulteta. Nastavnički fakulteti su dužni ravnomjerno raspoređivati studente po školama za izvedbu praktične nastave po svom programu prakse te dati školama u koje šalju studente na praksu precizne metodičke upute za izvedbu i ocjenjivanje praktične nastave.
