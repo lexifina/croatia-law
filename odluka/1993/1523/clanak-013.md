@@ -1,0 +1,3 @@
+# Članak 13.
+Članak 24. mijenja se i glasi:
+"Porez na nasljedstva i darove plaćaju obveznici toga poreza po sljedećim stopama i to: 1.Na nasljedstva po Odlukama organa uprave i suda: Na poreznu osnovicu Preci, Djeca Strićevi,ujaci, Pravne preko do braća i braće i tetke i njihova osobe sestre sestara djeca te ostali i ostali hrtvatskih dinara potomci braće i nasljednici sestara plaćaju porez po stopi od % 1.000.000 3 5 7 10 1.000.000 2.000.000 5 7 9 12 2.000.000 3.000.000 7 9 11 14 3.000.000 4.000.000 9 11 13 16 4.000.000 5.000.000 11 13 15 18 5.000.000 13 15 19 22 2.Na darove: 1.000.000 5 7 9 13 1.000.000 2.000.000 7 9 1 1 15 2.000.000 3.000.000 9 11 13 18 3.000.000 4.000.000 11 13 15 20 4.000.000 5.000.000 13 15 18 24 5.000.000 15 19 23 27
