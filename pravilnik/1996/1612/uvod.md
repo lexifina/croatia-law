@@ -1,0 +1,1 @@
+Na temelju članka 36. točka 4. Zakona o platnom prometu u zemlji ("Narodne novine", broj 27/93, 24/96 i 50/96), Savjet Narodne banke Hrvatske, na sjednici održanoj 23. listopada 1996. godine, donio je
