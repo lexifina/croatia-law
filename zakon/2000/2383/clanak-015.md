@@ -1,0 +1,11 @@
+# Članak 15.
+Članak 17. mijenja se i glasi:
+"Nakon proteka roka iz članka 16. stavka 3. ovoga Zakona ministar nadležan za poslove pravosuđa zatražit će mišljenje o svim kandidatima za suce od nadležnoga sudačkog vijeća. Uz poziv na davanje mišljenja, ministar će sudačkom vijeću dostaviti prijave s dokazima i podacima koje su kandidati priložili, te podatke o kandidatima kojima ministarstvo nadležno za poslove pravosuđa raspolaže.
+U postupku davanja mišljenja, sudačko vijeće može zatražiti i podatke o kandidatima za suce:
+- od predsjednika suda u kojem je obnašao dužnost ili od predsjednika neposredno višeg suda, ako je kandidat već obnašao dužnost suca, sudskog savjetnika ili sudačkog vježbenika,
+- od drugih tijela koja mogu dati podatke relevantne za ispunjavanje općih i posebnih uvjeta za imenovanje suca odgovarajućeg suda, ako kandidat nije obnašao dužnost u pravosuđu.
+Ako su za kandidata već bile dane ocjene obnašanja dužnosti sudačko će ih vijeće uzeti u obzir pri izradi mišljenja, a ako njima ne raspolaže pribavit će ih od nadležnoga sudačkog vijeća ili ministarstva nadležnog za poslove pravosuđa.
+Mišljenje sudačkog vijeća o kandidatima za sudačka mjesta, izrađuje se u pisanom obliku i sadrži obrazloženje o ispunjavanju općih i posebnih uvjeta za imenovanje suca odgovarajućeg suda. U izradi obrazloženja sudačko vijeće uzet će u obzir odredbe članka 52. Zakona o sudovima.
+Sudačko vijeće je dužno svoje mišljenje dostaviti najkasnije u roku od 60 dana. Ako mišljenje ne bude dostavljeno, ministar nadležan za poslove pravosuđa u daljnjem roku od 8 dana zatražit će dostavu mišljenja.
+Ako ni u daljnjem roku od 15 dana mišljenje ne bude dostavljeno, ministar nadležan za poslove pravosuđa podnijet će Vijeću listu svih kanidata koji ispunjavaju uvjete za suce s podacima kojima raspolaže. Vijeće u postupku imenovanja može o kandidatima samo zatražiti podatke iz stavka 2. ovoga članka od odgovarajućih tijela i organizacija.
+Ministar nadležan za poslove pravosuđa podnijet će Vijeću listu kandidata koji ispunjavaju uvjete za imenovanje s mišljenjem sudačkog vijeća. Uz listu kandidata koji ispunjavaju uvjete izvijestit će se Vijeće o svim prijavljenim kandidatima, a dostavit će mu se i prijave kandidata sa svim podacima prikupljenima u postupku davanja mišljenja."
