@@ -1,0 +1,24 @@
+# Članak 9.
+Upisnik pasa sadržava sljedeće podatke:
+- Broj markice;
+- Broj svjedodžbe;
+- Datum izdavanja svjedodžbe;
+- Ime i prezime vlasnika;
+- Ime psa;
+- Datum štenjenja;
+- Pasmina;
+- Spol;
+- Datum cijepljenja;
+- Naziv cjepiva;
+- Serijski broj cjepiva;
+- Ulica i kućni broj;
+- Mjesto;
+- Epizootiološka jedinica (općina);
+- Epizootiološko područje (županija);
+- Trokratni pregled (da/ne);
+- Odjava psa (datum);
+- Razlog odjave (uginuće, promjena vlasnika, promjena veterinarske organizacije/privatne prakse);
+- Broj prethodne svjedodžbe;
+- Veterinarska organizacija/privatna praksa;
+- Identifikacijski broj mikročipa;
+- Datum aplikacije mikročipa.
