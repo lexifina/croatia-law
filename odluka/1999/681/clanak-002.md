@@ -1,0 +1,4 @@
+# Članak 2.
+1) Dio katastarskog prihoda od vlastitoga poljoprivrednog imanja koji pripada članu obitelji za kojega se utvrđuje pravo na obiteljsku mirovinu izračunava se tako da se dijeli na sve članove poljoprivrednog kućanstva-srodnika koji žive na tom poljoprivrednom imanju.
+2) Ako član obitelji osiguranika za kojega se utvrđuje pravo na obiteljsku mirovinu živi i ostvaruje prihod na poljoprivrednom imanju srodnika, u vlastiti prihod toga člana obitelji od poljoprivredne djelatnosti uračunat će se razmjerni dio katastarskog prihoda od toga poljoprivrednog imanja.
+3) Dio katastarskog prihoda, koji prema stavku 2. ovog članka pripada članu obitelji za kojega se utvrđuje pravo na obiteljsku mirovinu, izračunava se tako da se katastarski prihod dijeli na sve članove poljoprivrednog kućanstva srodnika koji žive na tom poljoprivrednom imanju i koji sudjeluju u privređivanju i trošenju ostvarenih prihoda, bez obzira na stupanj srodstva.
