@@ -1,0 +1,1 @@
+Na temelju članka 20. i 21. stavka 3. Zakona o upravnim pristojbama ("Narodne novine", br. 8/96) i članka 50. stavka 2. i 3. Zakona o sudskim pristojbama ("Narodne novine", br. 74/95), ministar financija donosi
