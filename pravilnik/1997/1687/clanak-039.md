@@ -1,0 +1,2 @@
+# Članak 39.
+Obvezne mjere zaštite tajnih bojnih i drugih materijalnih sredstava i objekata, osim mjera predviđenih u člancima 36., 37. i 38. ovog Pravilnika, obuhvaćaju osobito: zaštitu tajnosti mjesta gdje se nalaze, njihove namjene, njihovih tehničkih i bojnih značajki, dijelova uređaja osjetljivih na razaranje i vatru, način maskiranja, vođenje očevidnika o takvim sredstvima i objektima, posjetama tim objektima i sredstvima te o tome koja su sredstva i objekti pokazani, kome i po čijoj zapovijedi.

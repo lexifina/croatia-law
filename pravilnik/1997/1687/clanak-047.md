@@ -1,0 +1,2 @@
+# Članak 47.
+Načelnik uprave MORH-a, zapovjednik zbornog područja ili podstožerne postrojbe, odnosno načelnik Glavnog stožera OS RH čim sazna za nestanak ili otkrivanje tajnog podatka odmah pokreće postupak za utvrđivanje okolnosti zbog kojih je došlo do nestanka odnosno otkrivanja tajnog podatka, osigurava očuvanje tragova te poduzima mjere za otklanjanje mogućih štetnih posljedica te o tome izvješćuje ministra obrane i Sigurnosno-informativnu službu.
