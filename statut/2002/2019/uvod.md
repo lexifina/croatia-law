@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o političkim strankama (»Narodne novine« br. 76/93, 111/96, 164/98 i 36/01) Osnivačka konvencija LIBRE - Stranke liberalnih demokrata, održana 21. rujna 2002. godine, donosi
