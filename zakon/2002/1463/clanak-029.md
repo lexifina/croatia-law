@@ -1,0 +1,2 @@
+# Članak 29.
+Stupanjem na snagu ovoga Zakona prestaje važiti članak 2. Zakona o prestanku važenja Zakona o privremenom preuzimanju i upravljanju određenom imovinom (»Narodne novine«, br. 101/98.), točke 9., 10. i 14. (Postupci povratka), Programa povratka i zbrinjavanja prognanika, izbjeglica i raseljenih osoba (»Narodne novine«, br. 92/98.) i Uredba o raspolaganju i upravljanju stanova na područjima posebne državne skrbi (»Narodne novine«, br. 129/99.).

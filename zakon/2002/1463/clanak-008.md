@@ -1,0 +1,3 @@
+# Članak 8.
+Naslov ispred članka 15. »4. POVLASTICE PRI OPOREZIVANJU PROMETA NEKRETNINAMA« mijenja se i glasi: »1.a POREZNE POVLASTICE«.
+Naslov ispred članka 16. »5. POVLASTICE PRI OPOREZIVANJU NASLJEDSTVA I DAROVANJA« briše se.
