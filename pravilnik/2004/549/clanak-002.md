@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Posebna naknada za okoliš na vozila na motorni pogon (u daljnjem tekstu: posebna naknada) obračunava se i plaća u skladu s Uredbom o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon (»Narodne novine«, br. 2/04) na temelju rješenja kojeg donosi Fond za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond).
+(2) Posebna naknada obračunava se i plaća jednom godišnje prilikom registracije vozila, odnosno ovjere njegove tehničke ispravnosti.
+(3) Naplatu posebne naknade na temelju rješenja Fonda obavlja pravna osoba ovlaštena za registraciju, odnosno ovjeru tehničke ispravnosti vozila na motorni pogon, sukladno ovom Pravilniku i ugovoru koji Fond sklapa s pravnom osobom ovlaštenom za registraciju, odnosno tehničku ispravnost vozila.
