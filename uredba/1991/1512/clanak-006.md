@@ -1,0 +1,2 @@
+# Članak 6.
+Ministar može donijeti rješenje o privremenom prestanku rada pojedine ustanove, ako nema potrebe za njezinim postojanjem. U slučaju iz stavka 1. ovog članka ministar će u istom rješenju odlučiti o rasporedu djelatnika ustanove, o raspolaganju s objektima i sredstvima za rad kao i o upučivanju zadržanih osoba lišenih slobode iz te u druge ustanove. O donesenom rješenju o privremenom prestanku rada ustanove ministar je dužan obavijestiti Vladu Republike Hrvatske.

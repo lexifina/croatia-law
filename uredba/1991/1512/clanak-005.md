@@ -1,0 +1,2 @@
+# Članak 5.
+Kazneno-popravne ustanove i domovi za preodgoj maloljetnika (u daljnjem tekstu: ustanove) nastavljaju radom i za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike u mirnodopskom sjedištu a u slučaju potrebe, promjenu sjedišta ustanove naređuje ministar. O promjeni sjedišta ustanove može odlučiti i ministar obrane ili ministar unutarnjih poslova, odnosno osobe koje oni ovlaste.
