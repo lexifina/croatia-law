@@ -1,0 +1,2 @@
+# Članak 7.
+Uređivanje prostora provodi se u skladu s uvjetima uređenja prostora. Uvjeti uređenja prostora utvrđuju se na temelju Odluke ili druge prostorno-planske dokumentacije. Uvjete uređenja prostora utvrđuje županijski ured za prostorno uređenje, stambeno komunalne poslove, graditeljstvo i zaštitu okoliša, a za građevine od važnosti za Republiku uvjete uređenja prostora utvrđuje Ministarstvo na način kako je to određeno Prostornim planom Republike Hrvatske.
