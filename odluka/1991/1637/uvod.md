@@ -1,0 +1,1 @@
+Na temelju članka 1. I 7. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", broj 53/91) I članka 55. Zakona o deviznom poslovanju ("Službeni list SFRJ", br. 66/87, 71/86, 3/88, 59/88 I 82/90) Vlada Republike Hrvatske na sjednici održanoj 22. studenoga 1991. donijela je
