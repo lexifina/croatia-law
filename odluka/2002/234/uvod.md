@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 15. stavke 1. točke 4. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01), te članka 14. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 29. sjednici, održanoj 16. siječnja 2002. godine donijelo je
