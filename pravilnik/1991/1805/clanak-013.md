@@ -1,0 +1,2 @@
+# Članak 13.
+Dijagnostičkom ispitivanju na varoozu, koje se obavlja u za to odredenoj specijalističkoj veterinarskoj organizaciji, podliježu jednom godišnje - do kraja ožujka - svi pčelinjaci iz kojih se stavljaju u promet pčelinje zajednice za uzgoj matica, sve pčelinje zajednice u oplodnim stanicama i sve pčelinjezajednice sumnjive na varoozu. Ako se posumnja da je pčelinja zajednica zaražena tom bolešću, dijagnostičko se ispitivanje obavlja i u drugim mjesecima.
