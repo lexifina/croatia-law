@@ -1,0 +1,31 @@
+# Članak 5.
+(1) Rashodi su smanjenja gospodarstvenih koristi u obliku odljeva ili iscrpljenja imovine ili stvaranja obveza koja imaju za posljedicu smanjenje kapitala. Smanjenja kapitala po osnovi povrata i raspodjele ulagačima ne smatraju se rashodima.
+(2) Rashode poreznog razdoblja čine:
+1. materijalni troškovi kao što su utrošene sirovine i materijal uključivo i ambalaža i sitni inventar, utrošena energija, utrošeni rezervni dijelovi, utrošeni materijal i dijelovi za tekuće i investicijsko održavanje objekata i opreme i ostali materijalni troškovi,
+2. troškovi usluga (proizvodnih i neproizvodnih) kao što su usluge izrade proizvoda, prijevoza, održavanja objekata i opreme, istraživanja i razvoja, osiguranja imovine, platnog prometa i banaka, promidžbe i reklame, usluge menadžmenta, komunalne usluge, usluge osiguranja za pokriće šteta uzrokovanih poslovanjem poreznog obveznika i obveznog osiguranja zaposlenika, zakupnina i najamnina, sajmova, ptt-usluge, usluge savjetovanja, usluge odvjetnika, računovođa, revizora, troškovi reprezentacije, te sve ostale usluge koje su uvjet za ostvarivanje prihoda. U usluge promidžbe i reklame mogu se uključiti svi oblici slanja poruka čija je svrha promocija i reklamiranje poreznog obveznika ili promidžba njegovog proizvoda, usluge ili naziva,
+3. troškovi amortizacije (dugotrajne materijalne i nematerijalne imovine),
+4. troškovi plaća zaposlenika (plaće i naknade plaća, porezi i doprinosi na plaće),
+5. naknade troškova zaposlenicima (dnevnice, troškovi prijevoza na posao i s posla, troškovi prijevoza na službenom putu, troškovi stručnog usavršavanja, školovanja i stipendiranja kao i svi drugi troškovi koji su nastali u svezi sa sadašnjim i budućim radom),
+6. rezerviranja za rizike i troškove (rezerviranja za mirovine i otpremnine, rezerviranja za troškove obnavljanja prirodnih bogatstava, rezerviranja za troškove u garantnim rokovima i rezerviranja za troškove po započetim sudskim sporovima),
+7. vrijednosna usklađenja dugotrajne i kratkotrajne imovine,
+8. troškovi financiranja (redovne i zatezne kamate, tečajne razlike, valutne klauzule i jamstva),
+9. darovanja u naravi ili u novcu i
+10. ostali troškovi poslovanja (članarine strukovnim udrugama, upravni i sudski troškovi, troškovi stručne literature, plaćeni penali i kazne a i svi drugi troškovi koji su nastali u svezi s ostvarivanjem prihoda ili dobiti poreznog obveznika).
+(3) Iznosi iz stavka 2. ovoga članka uključuju se u rashode poreznog razdoblja, osim u dijelu koji se odnosi na trošak zaliha nedovršene proizvodnje, poluproizvoda, dijelova proizvoda i gotovih proizvoda (sučeljavanje rashoda s prihodima).
+(4) U trošak zaliha nedovršenih proizvoda, poluproizvoda i dijelova proizvoda, te zaliha vlastitih gotovih proizvoda uključuju se najmanje izravni troškovi proizvodnje (materijala i rada) i opći troškovi proizvodnje.
+(5) U rashode poreznog razdoblja uključuju se i troškovi nabave prodane trgovačke robe, materijala, sitnog inventara, rezervnih dijelova i ambalaže.
+(6) U trošak nabave trgovačke robe, materijala, sitnog inventara, rezervnih dijelova i ambalaže uključuje se kupovna cijena umanjena za popuste iskazane u računu, carina i uvozne pristojbe, nepovratni porezi i trošak prijevoza zaliha do mjesta skladištenja ili prodaje.
+(7) U rashode poreznog razdoblja uključuju se i neamortizirani troškovi nabave prodane dugotrajne imovine.
+(8) U trošak nabave dugotrajne imovine uključuje se kupovna cijena umanjena za popuste iskazane u računu, carina i uvozne pristojbe, nepovratni porezi, troškovi projektiranja i nadzora, troškovi priprema prostora za građenje, troškovi instaliranja opreme, prijevoza i drugi troškovi nastali u procesu dovođenja sredstava u radno stanje. Kod već upotrebljavanih građevinskih objekata, postrojenja i opreme na kojima se obavljaju dodatna ulaganja, knjigovodstvena vrijednost se uvećava za ta ulaganja. Dodatnim ulaganjima razumijevaju se ulaganja kojima se povećava kapacitet ili produljuje prethodno procijenjeni vijek uporabe, mijenja namjena, omogućava znatno unapređenje kakvoće proizvodnje ili postiže znatno smanjenje proizvodnih troškova.
+(9) Rashodi amortizacije dugotrajne imovine utvrđuju se prema Pravilniku o amortizaciji.
+(10) Iznimno od odredbe stavka 9. ovoga članka rashodom amortizacije smatra se i dodatni, djelomični ili potpuni otpis opreme i poslovnih objekata nabavljenih u poreznom razdoblju.
+(11) Opremom iz stavka 10. ovoga članka smatraju se postrojenja i strojevi, alati, pogonski i uredski inventar, informatička oprema, namještaj, transportni uređaji i sredstva, osim osobnih automobila i drugih sredstava za prijevoz poslovodnih, rukovodnih i drugih zaposlenih osoba, a poslovnim objektima smatraju se građevinski objekti koji služe za obavljanje poslovnih djelatnosti.
+(12) Rashodima amortizacije smatra se i amortizacija povećanja vrijednosti dugotrajne imovine zbog revalorizacije na više do visine iznosa koji je po toj osnovi uračunan u prihode.
+(13) U rashode poreznog razdoblja uključuju se i gubici od prodaje dionica i udjela.
+(14) U rashode poreznog razdoblja uključuju se i dugoročna rezerviranja kod banaka i osiguravajućih društava koje su ovi porezni obveznici dužni provesti suglasno posebnim propisima.
+(15) U rashode poreznog razdoblja uključuju se i darovanja u naravi ili u novcu doznačena na žiroračun u kulturne, znanstvene, odgojno-obrazovne, zdravstvene, humanitarne, športske, vjerske i druge svrhe, udrugama i drugim osobama koje navedene djelatnosti obavljaju u skladu s posebnim propisima. Ako se darovanja daju u naravi, darodavatelj i daroprimatelj obvezni su o tome imati vjerodostojne isprave.
+(16) U rashode poreznog razdoblja uključuju se i manjkovi na imovini, kao i pripadajući porezi obračunani na te manjkove.
+(17) U rashode poreznog razdoblja uključuju se i rashodi nastali na temelju više sile i drugih izvanrednih događaja.
+(18) U rashode poreznog razdoblja ne mogu se uključiti rashodi koji nisu u svezi s obavljanjem djelatnosti poreznog obveznika niti su posljedica obavljanja djelatnosti.
+(19) Rashodi koji nisu vjerodostojno dokumentirani ne priznaju se kao rashodi poreznog razdoblja.
+3. Prihodi i rashodi iz poslovnih odnosa povezanih osoba

@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Porezni obveznici koji obavljaju djelatnost na području Grada Vukovara i zapošljavaju više od pet zaposlenika u radnom odnosu na neodređeno vrijeme, pri čemu više od 50% zaposlenika ima prebivalište i boravi na području Grada Vukovara, oslobođeni su plaćanja poreza na dobit za 2000. godinu i sljedećih pet poslovnih godina nakon početka primjene ovoga Zakona, a nakon toga porez na dobit plaćaju u visini 25% od propisane stope.
+(2) Smatra se da porezni obveznik iz stavka 1. ovoga članka, zapošljava na neodređeno vrijeme zaposlenika s područja Grada Vukovara, ako je zaposlenik proveo u radnom odnosu kod poreznog obveznika i imao prebivalište i boravio na području Grada Vukovara najmanje devet mjeseci u poslovnoj godini.
+3. OlakŠice i osloboĐenja za porezne obveznike koji posluju u slobodnim zonama

@@ -1,0 +1,7 @@
+# Članak 21.
+(1) Tijekom godine, porezni obveznici plaćaju predujam poreza na dobit koji se utvrđuje na temelju prijave poreza na dobit za prethodnu godinu.
+(2) Porezni obveznici plaćaju predujam poreza na dobit mjesečno, do kraja tekućeg mjeseca za prethodni mjesec, u visini jedne dvanaestine porezne obveze za prethodnu godinu.
+(3) Ako je porezni obveznik tijekom godine u obliku predujma platio više poreza nego što je dužan po poreznoj prijavi, više plaćeni porez vraća mu se na njegov zahtjev ili se uračunava u predujmove sljedećeg razdoblja.
+(4) Porezna uprava može, na temelju zahtjeva poreznog obveznika ili obavljenog nadzora ili na temelju drugih podataka o poslovanju poreznog obveznika s kojima raspolaže, rješenjem utvrditi nove iznose mjesečnih predujmova ili drugo razdoblje plaćanja predujmova. Rješenje o predujmu vrijedi do izmjene.
+(5) Poreznim obveznicima koji počinju obavljati djelatnost, mjesečni predujam poreza na dobit za tekuću godinu određuje Porezna uprava na temelju procjene mogućnosti ostvarenja njihove dobiti. Mogućnost ostvarivanja dobiti utvrđuje se nakon isteka tri mjeseca poslovanja poreznog obveznika.
+(6) Iznimno od odredbe stavka 1. ovoga članka fizičke osobe iz članka 2. stavka 7. ovoga Zakona koje podnesu zahtjev da će umjesto poreza na dohodak plaćati porez na dobit, predujam poreza na dobit u prvoj godini plaćaju u visini predujma poreza na dohodak utvrđenog na temelju porezne prijave za godinu u kojoj je podnijet zahtjev.
