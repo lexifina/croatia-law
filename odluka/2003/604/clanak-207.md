@@ -1,0 +1,5 @@
+## Proglašenje nestale ili uništene oporuke
+# Članak 207.
+(1) Ako je nezavisno od ostaviteljeve volje nestala ili je uništena isprava u koju je bila oblikovana ostaviteljeva oporuka, a među zainteresiranim osobama nema spora o prijašnjem postojanju te oporuke, o obliku u kojemu je sastavljena, o načinu nestanka ili uništenja, kao ni o njezinu sadržaju, ostavinski će sud o tome saslušati sve zainteresirane osobe i o njihovim prijedlozima izvesti potrebne dokaze, pa će zapisnik o tome proglasiti po odredbama koje vrijede za proglašenje pisane oporuke.
+(2) Ako bi ostavina, da nema oporuke, pripala općini, odnosno gradu, sporazum iz stavka 1. ovoga članka o prijašnjem njezinu obliku i sadržaju bit će valjan samo ako se s njime suglasi nadležni državni odvjetnik prema mjestu gdje se imovina nalazi.
+(3) Ako među zainteresiranim osobama ima osoba koje nisu sposobne same voditi brigu o svojim pravima i interesima, sporazum iz stavka 1. i 2. ovoga članka vrijedi samo uz suglasnost tijela nadležnog za poslove skrbništva.

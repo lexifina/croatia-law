@@ -1,0 +1,9 @@
+## Postupak kad se oporučitelj ne služi uredovnim jezikom ili je nijem, gluh ili gluhoslijep
+# Članak 150.
+(1) Ako se oporučitelj ne može služiti uredovnim jezikom, ili to nije dužan, pozvat će se prisegnuti tumač čiju će se istovjetnost utvrditi, pa će se njegovim posredovanjem primati izjave oporučiteljeve volje i inače se sporazumijevati s oporučiteljem.
+(2) U slučaju iz stavka 1. ovoga članka uz tumača trebaju biti nazočna i dvojica svjedoka tumača, koji uz uredovni jezik znaju i onaj kojim se služi oporučitelj, a čija istovjetnost treba biti utvrđena. Osoba koja je svjedok istovjetnosti, i/ili svjedok oporuke, može biti i svjedok tumača, ako ima za to potrebno znanje.
+(3) Ako je oporučitelj nijem, gluh ili gluhoslijep tako da je to smetnja oporučivanju, pozvat će se prisegnuti tumač i dva svjedoka koji se s oporučiteljem mogu sporazumjeti, na što će se na odgovarajući način primjenjivati odredbe stavka 1. i 2. ovoga članka.
+(4) Oporuka nema valjani oblik javne oporuke ako u slučaju iz stavka 1. ili 3. ovoga članka prigodom oporučivanja nije sudjelovao odgovarajući tumač te svjedoci tumača, ili ako svjedoci odmah izjave da tumač nije dovoljno vjerno prenio izjavu oporučiteljeve volje, ili da se njegovim posredovanjem nije oporučitelj uspješno sporazumijevao s ovlaštenom osobom.
+(5) U slučajevima kad se oporučitelj ne može služiti uredovnim jezikom, ili to nije dužan, kao i kada je nijem, gluh ili gluhoslijep tako da to smeta oporučivanju, pozvat će se tumač čak i ako ovlaštena osoba vlada jezikom kojim se služi oporučitelj, odnosno i ako je u stanju sporazumjeti se s oporučiteljem.
+(6) Zapisnik o sastavljanju oporuke u slučajevima iz stavka 1. do 3. ovoga članka potpisuju i tumač i svjedoci.
+(7) Istovjetnost tumača i svjedoka tumača utvrđuje se kao i istovjetnost oporučnih svjedoka.

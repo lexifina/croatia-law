@@ -1,0 +1,6 @@
+## VI. Nasljednikovi zahtjevi nakon pravomoĆnosti rjeŠenja o nasljeĐivanju
+## Naknadno pronađena imovina
+# Članak 234.
+(1) Ako se nakon pravomoćnosti rješenja o nasljeđivanju pronađe imovina koja nije obuhvaćena tim rješenjem, sud neće ponovno provoditi ostavinsku raspravu, nego će ovu imovinu novim rješenjem rasporediti na temelju prije donesenog rješenja o nasljeđivanju, osim ako se neki od nasljednika odrekao nasljedstva ili svoj nasljedni dio ustupio sunasljedniku.
+(2) Ako prije nije bila vođena ostavinska rasprava, sud će je po službenoj dužnosti provesti samo ako su pronađene nekretnine ili s njima izjednačena prava.
+(3) Ako prije nije bila vođena ostavinska rasprava, a pronađene su pokretnine ili s njima izjednačena prava, sud će provesti ostavinsku raspravu samo na zahtjev zainteresiranih osoba.

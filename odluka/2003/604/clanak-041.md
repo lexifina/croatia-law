@@ -1,0 +1,2 @@
+# Članak 41.
+Oporuka uništena slučajem ili radnjom neke druge osobe, izgubljena, skrivena, ili zametnuta, prije ili nakon oporučiteljeve smrti, ali bez njegova znanja proizvest će učinke valjane oporuke ako zainteresirana osoba dokaže da je oporuka postojala, da je uništena, izgubljena, sakrivena ili zametnuta, da je bila sastavljena u obliku propisanom u zakonu i ako dokaže sadržaj onoga dijela oporuke na koji se poziva.

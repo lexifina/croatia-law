@@ -1,0 +1,2 @@
+# Članak 258.
+Ministar vanjskih poslova Republike Hrvatske bez odgode će obavijestiti Vladu Sjedinjenih Američkih Država kao depozitara prema Konvenciji o jednoobraznom zakonu o obliku međunarodne oporuke da su ovlaštene osobe za sastavljanje međunarodne oporuke u Republici Hrvatskoj suci općinskih sudova, sudski savjetnici u općinskim sudovima i javni bilježnici, a u inozemstvu konzularni, odnosno diplomatsko-konzularni predstavnici Republike Hrvatske.
