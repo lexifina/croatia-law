@@ -1,0 +1,3 @@
+# Članak 48.
+(1) Općini i gradu na području kojih se prihodi općina i gradova, uz prosječno porezno opterećenje, ostvaruju po stanovniku ispod županijskog prosjeka, izuzevši gradove iznad 40.000 stanovnika, županija osigurava dotaciju iz županijskog proračuna u visini razlike između ostvarenih prihoda po stanovniku i 75% županijskog prosjeka prihoda po stanovniku.
+(2) Dotacija iz stavka 1. ovoga članka ne može se osigurati općini i gradu čija je visina prireza na porez na dohodak manja od 1,0. a i stope lokalnih poreza i visina iznosa poreza niže od zakonom propisanih najviših stopa, odnosno visine iznosa poreza.
