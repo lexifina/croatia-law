@@ -1,0 +1,2 @@
+# Članak 3.
+U objektima moraju postojati posebne prostorije za smještaj pojedinih vrsta životinja, i to: staje za smještaj krupnih životinja, staje za smještaj sitnih životinja i obori za smještaj svinja. Staje i obori iz stavka 1. ovoga članka podijeljeni su u boksove. Unutrašnji zidovi staja i obora i pregrade između pojedinih boksova moraju biti od pogodnog materijala, koji se lako čisti, pere i dezinficira.

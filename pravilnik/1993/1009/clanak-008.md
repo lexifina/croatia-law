@@ -1,0 +1,2 @@
+# Članak 8.
+Na graničnim zrakoplovnim prijelazima (aerodromima) životinje se smještaju u posebne prostorije za smještaj životinja. Prostorije iz stavka 1. ovoga članka moraju imati boksove i kaveze za smještaj životinja. Unutrašnja strana prostorije, pregrade između pojedinih boksova i kavezi moraju biti izgrađeni od materijala koji se lako čisti, pere i dezinficira. Boksovi iz stavka 2. ovoga članka za smještaj krupnih životinja moraju imati ugrađene uređaje za vezivanje životinja.

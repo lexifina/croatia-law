@@ -1,0 +1,2 @@
+# Članak 11.
+Pošiljke proizvoda životinjskog podrijetla i otpadne animalne tvari smještaju se u skladišta koja su namijenjena u tu svrhu (u daljnjem tekstu: skladišta). Skladišta moraju imati posebno izdvojene prostorije za smještaj proizvoda životinjskog podrijetla namijenjenih ljudskoj prehrani, prehrani životinja i industrijskoj uporabi i posebno izdvojene prdstorije za smještaj otpadne animalne tvari ili smješta sirovih i soljenih koža.
