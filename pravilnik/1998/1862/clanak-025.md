@@ -1,0 +1,3 @@
+# Članak 25.
+Iza članka 103. dodaje se članak 103a. koji glasi:
+"Pomorcima kojima je izdana svjedodžba sukladno odredbama Pravilnika o zvanjima, uvjetima za stjecanje zvanja i ovlaštenjima članova posade brodova trgovačke mornarice ("Narodne novine", br. 53/91) i Pravilnika o posebnim ovlaštenjima članova posade pomorskih brodova i ispitnom programu za stjecanje posebnih ovlaštenja ("Narodne novine", br. 53/91), te Ovjera svjedodžbe sukladno Odredbi I/15 Međunarodne konvencije o standardima za izobrazbu, izdavanje svjedodžbi i držanje straže pomoraca 1978/95, zamjena svjedodžbi sukladno prelaznim i završnim odredbama ovog Pravilnika obavljat će se od 1. siječnja 1999. godine."
