@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 4. Zakona o obrani ("Narodne novine", broj 74/93 - pročišćeni tekst i 57/96) te točke VI. Odluke o vojnopomorskim, zapovjednim i položajnim zastavama i plamencima na ratnim brodovima Republike Hrvatske broj: 01-04-99-361/2-A19 od 18. kolovoza 1999., donosim
