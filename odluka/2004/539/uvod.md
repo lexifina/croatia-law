@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 2. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99, 63/00 i 103/03), Savjet Agencije za nadzor mirovinskih fondova i osiguranja, na sjednici održanoj dana 26. siječnja 2004. donio je
