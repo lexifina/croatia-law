@@ -1,0 +1,1 @@
+Na osnovi točke III. Odluke o utvrđivanju blagajničkog maksimuma gotovog novca kod banaka i drugih financijskih organizacija i drugih pravnih osoba ("Narodne novine", br. 40/91), Služba društvenog knjigovodstva Hrvatske donosi
