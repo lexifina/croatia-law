@@ -1,0 +1,3 @@
+# Članak 59.
+Poslodavac je dužan kolektivno osigurati radnike od posljedica nesretnog slučaja za vrijeme obavljanja rada, kao i u slobodno vrijeme, tijekom 24 sata, za trajnu invalidnost uslijed nezgode, na iznos od najviše 80.000,00 kuna, za liječenje u bolnici od posljedica nezgode na iznos od 40,00 kuna po danu, za smrt uslijed nezgode 40.000,00 kuna, te za smrt uslijed bolesti na 20.000,00 kuna. Preslika police osiguranja je sastavni dio ovog Ugovora.
+Poslodavac je dužan osigurati isplatu radniku za slučaj pretrpljenog straha uzrokovanog prepadom, orobljavanjem, pljačkom za vrijeme obavljanja poslova radnog mjesta u visini od najmanje 15.000,00 kn.
