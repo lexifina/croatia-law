@@ -1,0 +1,4 @@
+# Članak 13.
+Županije, Grad Zagreb i gradovi su dužni tromjesečno izvješćivati resorno ministarstvo o utrošenim sredstvima krajnjih korisnika (ustanova) zbrojno po ustanovama i po vrsti rashoda (rashodi poslovanja i rashodi za nabavu proizvedene dugotrajne imovine i dodatno ulaganje na nefinancijskoj imovini).
+Nadležno ministarstvo dužno je sačiniti izvješće u skladu s Pravilnikom o financijskom izvještavanju u proračunskom računovodstvu, zbrojno po županijama i gradovima i dostaviti ih Ministarstvu financija prema rokovima iz navedenog Pravilnika.
+Ako korisnik pomoći izravnanja iz stavka 1. ovoga članka ne dostavi izvještaj resornom ministarstvu iz stavka 1. i na propisani način i u roku iz stavka 2., Ministarstvo financija će privremeno obustaviti doznaku sredstava pomoći izravnanja iz Državnog proračuna.

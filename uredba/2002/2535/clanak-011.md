@@ -1,0 +1,5 @@
+# Članak 11.
+Županije, Grad Zagreb i gradovi dužni su:
+- do 1. siječnja 2003. godine Ministarstvu financija dostaviti usvojeni proračun županije, Grada Zagreba i grada za 2003. godinu, s planom prihoda (iz dodatnog udjela poreza na dohodak i pomoći izravnanja) i planom rashoda (po funkcijskoj i ekonomskoj klasifikaciji) zbrojno;
+- do 31. siječnja 2003. godine nadležnom ministarstvu dostaviti izvješće prema Pravilniku o financijskom izvještavanju u proračunskom računovodstvu (»Narodne novine«, broj 74/2002), krajnjih korisnika (ustanova) po decentraliziranim funkcijama za siječanj - prosinac 2002. godine, zbrojno po ustanovama i po vrsti prihoda i rashoda. Nadležno ministarstvo dužno je izraditi zbrojno izvješće po funkcijama za županije, Grad Zagreb i gradove i dostaviti ga Ministarstvu financija do 15. veljače 2003. godine.
+Pomoć izravnanja u veljači 2003. godine umanjuje se za sredstva iz članka 3. stavaka 2. i 3., doznačena do 31. prosinca 2002. godine, a neutrošena prema izvještajima nadležnih ministarstava.

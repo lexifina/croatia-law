@@ -1,0 +1,3 @@
+# Članak 7.
+U proračunu za 2003. godinu, korisnici pomoći izravnanja planiraju rashode za decentralizirane funkcije za 2003. godinu po ekonomskoj i funkcijskoj klasifikaciji do iznosa utvrđenog u Pregledu.
+Korisnici pomoći izravnanja planiraju prihode za decentralizirane funkcije prema procjeni prihoda koje će u 2003. godini ostvariti temeljem svakog pojedinog dodatnog udjela poreza na dohodak iz članka 3. ove Uredbe, za razliku prihoda do svote iz stavka 1. ovog članka planiraju iz sredstava pomoći izravnanja za decentralizirane funkcije iz Državnog proračuna Republike Hrvatske za 2003. godinu, sa računa 3631 Tekuće pomoći unutar opće države.
