@@ -1,0 +1,1 @@
+Na temelju članka 29. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu (»Narodne novine«, broj 116/2001), Vlada Republike Hrvatske je na sjednici održanoj 19. rujna 2002. godine donijela
