@@ -1,0 +1,2 @@
+# Članak 22.
+Za dočasnika koji u kalendarskoj godini navršava ili je ranije navršio ovim Pravilnikom propisanih 5 odnosno 6 godina u činu, kao i za dočasnika koji u kalendarskoj godini navršava ili je ranije navršio propisane godine života donijet će se zaključak o nemogućnosti daljnjeg profesionalnog razvoja ako nije raspoređen na ustrojbeno mjesto višeg čina odnosno u kalendarskoj godini neće ispuniti uvjete za redovno promaknuće.

@@ -1,0 +1,2 @@
+# Članak 23.
+Za dočasnika koji u kalendarskoj godini navršava najmanje 4 godine u činu i 20 godina staža osiguranja može se donijeti zaključak o nemogućnosti daljnjeg profesionalnog razvoja ako podnese zahtjev za prestanak djelatne vojne službe s pravom na mirovinu u skladu s odredbom članka 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba te sukladno planu izdvajanja dočasnika.

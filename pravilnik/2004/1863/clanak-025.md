@@ -1,0 +1,3 @@
+# Članak 25.
+Zadržavanje u službi vojnika odnosno dočasnika kojima je utvrđena nemogućnost daljnjeg profesionalnog razvoja ne smije predstavljati zapreku za prijam, raspored i promicanje drugih vojnika odnosno dočasnika odgovarajućeg roda ili struke čiji je profesionalni razvoj u okviru propisanih standarda odnosno koji imaju utvrđenu mogućnost daljnjeg profesionalnog razvoja.
+Dočasnik koji je u okviru standarda profesionalnog razvoja odnosno dočasnik kojemu je utvrđena mogućnost daljnjeg profesionalnog razvoja stječe uvjete za raspored na dužnost neposredno višeg čina u smislu odredbe stavka 1. ovoga članka kada u osobnom činu provede propisano vrijeme potrebno za redovno promaknuće.
