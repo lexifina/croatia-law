@@ -1,0 +1,3 @@
+# Članak 9.
+Odjel za održavanje imovine, investicije i rezidencijalne potrebe obavlja stručne i tehničke poslove u vezi s pripremom i provedbom odluka Vlade Republike Hrvatske, a vezane uz izgradnju i održavanje objekata u državnom vlasništvu, promjenu namjene objekata u državnom vlasništvu, planiranje potrebnih financijskih sredstava, praćenje njihove realizacije i slično.
+Odjel provodi odluke o organizaciji i načinu korištenja rezidencijalnih objekata, obavlja ostale poslove tekućeg održavanja vezane uz funkcioniranje rezidencijalnih objekata, te poslove nabave i načina korištenja pokretnina za rezidencijalne potrebe.
