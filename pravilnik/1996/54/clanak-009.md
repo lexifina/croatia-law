@@ -1,0 +1,2 @@
+# Članak 9.
+Zdravstvenu zaštitu u djelatnostima na primarnoj razini, provode doktori medicine, doktori stomatolozi, doktori specijalisti opće medicine, školske medicine, pedijatri, ginekolozi, epidemiolozi, dipl. ing. medicinske biokemije, ljekarnički djelatnici i zdravstveni djelatnici više i srednje stručne spreme u domovim zdravlja, ljekarnama, zdravstvenim ustanovama hitne medicinske pomoći, ustanovama za zdravstvenu njegu u kući i privatnim ordinacijama.
