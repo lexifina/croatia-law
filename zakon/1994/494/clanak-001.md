@@ -1,0 +1,3 @@
+## o dopunama Zakona o financijskoj policiji
+# Članak 1.
+U Zakonu o financijskoj policiji ("Narodne novine", br. 89/92., 16/93. i 94/93.) u članku 9b. dodaje se stavak 3. koji glasi: "Rješavajući o žalbi protiv rješenja iz članka 9a. ovoga Zakona Ministarstvo financija može ukinuti rješenje inspektora Financijske policije i kada je otklonjena protupravnost zbog koje je doneseno rješenje o privremenoj mjeri ili se radi o povredi koja je prouzroćila manje štetne posljedice pa je moguće ukinuti privremenu mjeru i prije pravomoćnosti rješenja o prekršaju, privrednom prijestupu ili krivičnom djelu".
