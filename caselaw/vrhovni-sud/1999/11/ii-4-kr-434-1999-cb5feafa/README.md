@@ -1,0 +1,11 @@
+# II-4 Kr-434/1999, Vrhovni sud Republike Hrvatske, 30.11.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=cb5feafa-66f7-4c47-803f-4946b16e2edc
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-11-30
+- Publication date on source: 2003-08-22
+- ECLI: ECLI:HR:VSRH:1999:669
+- Decision type: Rješenje
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
