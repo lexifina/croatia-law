@@ -1,0 +1,3 @@
+## o izmjeni i dopuni Odluke o osiguranju osnivača privatnih poduzeća u Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske
+# Članak 1.
+U Odluci o osiguranju osnivača privatnih poduzeća u Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske ("Narodne novine", broj 1/91) članak 2. mijenja se i glasi: "Svojstvo osiguranika iz članka 1. ove odluke utvrđuje Republički fond mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, na temelju akta o osiguranju poduzeća i upisa u sudski registar, i to s danom podnošenja zahtjeva za priznanje tog svojstva".

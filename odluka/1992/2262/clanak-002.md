@@ -1,0 +1,2 @@
+# Članak 2.
+Članak 3. mijenja se i glasi. "Osiguranik je sam obveznik uplate doprinosa za mirovinsko i invalidsko osiguranje. Osnovica za obračunavanje i plaćanje doprinosa jest osnovica za koju se osiguranik sam pismeno izjasnio, a utvrđena je na način predviđen odlukom o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske".
