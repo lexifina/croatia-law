@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»NN« broj 117/93., 69/97., 33/00., 73/00., 127/00. i 59/01.) te članka 19. Statuta Grada Ivanić Grada (»Službeni glasnik« broj 10/01.), Gradsko vijeće Grada Ivanić Grada na sjednici održanoj dana 13. 12. 2001. godine, donijelo je

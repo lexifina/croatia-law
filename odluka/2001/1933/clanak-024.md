@@ -1,0 +1,3 @@
+# Članak 24.
+Porez na korištenje javnih površina plaća pravna ili fizička osoba, kojoj nadležno gradsko tijelo odobri korištenje javne površine ispred zgrada, za privremenu upotrebu, za postavljanje štanda, kioska, ugostiteljske terase, garaže, radi držanja vitrina u kojoj se izlaže roba.
+Porez na korištenje javnih površina plaća se i za korištenje javne površine bez odobrenja nadležnog gradskog tijela, za utvrđeno vrijeme korištenja, do ishođenja rješenja nadležnog gradskog tijela odnosno uklanjanja naprava i vraćanju javne površine u prethodno stanje, u postupku kojeg provodi komunalno redarstvo.
