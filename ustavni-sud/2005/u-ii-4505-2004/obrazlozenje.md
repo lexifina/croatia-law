@@ -1,0 +1,13 @@
+O b r a z l o ž e n j e
+1. MASLINICA d.o.o. za ugostiteljstvo, turizam i trgovinu iz Rabca podnijela je prijedlog za ocjenu ustavnosti odredbe članka 4. Uredbe o postupku dodjele koncesije i načinu određivanja granice za luke posebne namjene (“Narodne novine“, broj 108/96.). Predlagateljica smatra da je navedena odredba suprotna odredbi članka 49. Ustava Republike Hrvatske, te odredbama članaka 49. i 50. Pomorskog zakonika ("Narodne novine", broj 17/94.), budući da Vlada Republike Hrvatske nije imala ovlast navedenom Uredbom odrediti kao pomorski pojas širi dio kopna koji ranije nije bio određen kao pomorsko dobro.
+2. Vlada Republike Hrvatske je dana 18. veljače 2004. godine donijela Uredbu o postupku davanja koncesije na pomorskom dobru. Uredba je objavljena u "Narodnim novinama", broj 23. od 23. veljače 2004. godine, a stupila je na snagu 2. ožujka 2004. godine.
+Člankom 44. te Uredbe propisano je da stupanjem na snagu iste prestaje važiti osporena Uredba o postupku dodjele koncesije i načinu određivanja granice za luke posebne namjene.
+Pretpostavke za vođenje ustavnosudskog postupka prestale su postojati.
+3. Odredbom članka 128. stavka 1. podstavka 3. Ustava propisano je da Ustavni sud može ocjenjivati ustavnost zakona te ustavnost i zakonitost drugih propisa koji su prestali važiti ako od tog prestanka do podnošenja zahtjeva ili prijedloga nije prošlo više od godine dana.
+Prema odredbi članka 56. stavka 1. Ustavnog zakona Ustavni sud može ocjenjivati ustavnost zakona te ustavnost i zakonitost drugog propisa, odnosno pojedinih njihovih odredaba, iako su ovi prestali važiti, ako od tog prestanka do podnošenja zahtjeva ili prijedloga nije proteklo više od godine dana.
+S obzirom na osporavane navode koje u svom zahtjevu navodi predlagateljica, Ustavni sud nije našao razloge za postupanje temeljem članka 128. stavka 1. podstavka 3. Ustava i članka 56. Ustavnog zakona.
+4. Prema odredbi članka 61. Ustavnog zakona, Ustavni sud može obustaviti postupak ako podnositelj zahtjeva, odnosno prijedloga odustane, a mora u slučajevima kad prestanu postojati pretpostavke za vođenje ustavnosudskog postupka.
+Stupanjem na snagu Uredbe o postupku davanja koncesije na pomorskom dobru prestala je važiti osporena odredba članka 4. Uredbe o postupku dodjele koncesije i načinu određivanja granice za luke posebne namjene. Budući da ne postoje razlozi za postupanje temeljem članka 128. stavka 1. podstavka 3. Ustava i članka 56. Ustavnog zakona, pozivom na odredbu članka 61. Ustavnog zakona, riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-4505/2004
+Zagreb, 19. siječnja 2005.
