@@ -1,3 +1,4 @@
 # Članak 86.
-(1) Inspekcijski nadzor propisan ovim Zakonom i propisima donesenim na temelju njega u prvom stupnju obavljaju županijski uredi odnosno ured Grada Zagreba nadležni za poslove inspekcije bilinogojstva (u daljnjem tekstu: županijska inspekcija bilinogojstva), a u drugom stupnju Ministarstvo (u daljnjem tekstu: inspekcija bilinogojstva u Ministarstvu).
-(2) Poslove inspekcijskog nadzora iz nadležnosti županijske inspekcije bilinogojstva i inspekcije bilinogojstva u Ministarstvu provode inspektori bilinogojstva.
+(1) Inspekcijski nadzor u provođenju ovoga Zakona i propisa donesenih na temelju njega obavlja inspekcija Ministarstva (u daljnjem tekstu: inspekcija bilinogojstva).
+(2) Poslove inspekcijskog nadzora iz nadležnosti inspekcije bilinogojstva provode inspektori bilinogojstva.
+(3) Inspekcijski nadzor u provođenju ovoga Zakona i propisa donesenih na temelju njega u prometu izvan specijaliziranih prodavaonica obavljaju i gospodarski inspektori Državnog inspektorata sukladno ovom Zakonu i posebnim zakonima.

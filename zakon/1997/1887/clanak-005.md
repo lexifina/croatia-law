@@ -8,5 +8,8 @@
 6. Upisnik stranih sorti poljoprivrednog bilja (u daljnjem tekstu: Upisnik stranih sorti),
 7. Upisnik zatečenih domaćih i udomaćenih sorti poljoprivrednog bilja (u daljnjem tekstu: Upisnik zatečenih sorti),
 8. Upisnik uvoznika poljoprivrednog sjemena, sadnog materijala, presadnica i micelija (u daljnjem tekstu: Upisnik uvoznika),
-9. Upisnik laboratorija za kontrolu kakvoće poljoprivrednog sjemena.
+9. Upisnik laboratorija za kontrolu kakvoće poljoprivrednog sjemena,
+10. Upisnik uzorkivača sjemena.
 (2) Uvjete kojima moraju udovoljavati pravne i fizičke osobe za upis u upisnike iz stavka 1. ovoga članka, te sadržaj, oblik i način vođenja upisnika, propisuje ministar.
+(3) Za obavljanje poslova očuvanja biljnih genetskih resursa osniva se banka biljnih gena poljoprivrednog bilja sa sjedištem u Zavodu.
+(4) Način rada i uređenje organizacije banke biljnih gena poljoprivrednog bilja propisuje ministar.

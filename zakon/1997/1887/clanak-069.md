@@ -1,5 +1,6 @@
 # Članak 69.
-(1) Na temelju podataka navedenih u zahtjevu, te podataka sadržanih u dokumentaciji iz članka 67. stavka 1. ovoga Zakona, provjeravaju se svojstva prijavljene sorte, njezina originalnost, identitet, podrijetlo sorte, način njezina stvaranja i ostalo.
-(2) Nakon provjere podataka iz stavka 1. ovoga članka sorte se ispituju u pokusnom polju i u laboratoriju.
-(3) Ako se provjerom podataka iz stavka 1. ovoga članka utvrdi da nema osnove za uključivanje sorte u pokusno polje, Zavod donosi rješenje kojim se odbija zahtjev za priznavanje sorte.
+(1) U postupku priznavanja sorti zavod koji provodi postupak provjerava da li ime sorte odgovara propisanim uvjetima.
+(2) Na predloženo ime sorte svatko tko iskaže pravni interes može zavodu podnijeti prigovor i to najkasnije u roku od tri mjeseca od dana objave predloženog imena u službenom glasilu Zavoda.
+(3) Ako zavod utvrdi da predloženo ime sorte ne odgovara, odnosno da je prigovor opravdan, poziva osobu koja je uložila prigovor da u roku od petnaest dana predloži novo ime sorte.
+(4) Uvjete za utvrđivanje podobnosti imena sorti propisuje ministar.
 3. Ispitivanje sorte
