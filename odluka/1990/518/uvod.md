@@ -1,0 +1,1 @@
+Na temelju člana 80. stava 2. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine", br.8/89-prečišćeni tekst) Skupština Saveza samoupravnih interesnih zajednica zdravstva i zdravstvenog osiguranja Hrvatske, na 26. sjednici od 28. svibnja 1990. godine ,donosi
