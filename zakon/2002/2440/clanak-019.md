@@ -1,0 +1,6 @@
+# Članak 19.
+U članku 37. stavci 1. i 2. mijenjaju se i glase:
+»(1) Kod dohotka od imovine ostvarenog od najamnine i zakupnine predujmovi poreza plaćaju se prema rješenju Porezne uprave i to do posljednjeg dana u mjesecu za tekući mjesec. Pri utvrđivanju predujma poreza ne uzima se u obzir osobni odbitak poreznog obveznika. Predujam poreza na dohodak plaća porezni obveznik po postupku i na način iz članka 35. ovoga Zakona, a po stopi od 15%. Utvrđeni predujam poreza smatra se konačnim porezom, pa porezni obveznik za ovaj dohodak ne može podnijeti godišnju poreznu prijavu.
+(2) Kod dohotka od imovine ostvarenog iznajmljivanjem stanova, soba i postelja putnicima i turistima iz članka 23. stavka 1. i 3. ovoga Zakona, predujam poreza obračunava, obustavlja i uplaćuje isplatitelj dohotka, odnosno sam porezni obveznik (kod izravnog iznajmljivanja), pri svakoj naplati najamnine i istodobno s naplatom, od ukupne naknade umanjene za priznate izdatke, primjenom stope od 15%, bez prava na osobni odbitak poreznog obveznika. Utvrđeni predujam poreza smatra se konačnim porezom, pa porezni obveznik za ovaj dohodak ne može podnijeti godišnju poreznu prijavu.«
+U stavku 4. riječi: »pa porezni obveznici za taj dohodak nisu obvezni« zamjenjuju se riječima: »pa porezni obveznici za taj dohodak ne mogu«.
+Stavak 5. briše se.

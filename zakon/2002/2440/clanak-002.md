@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 5. mijenja se i glasi:
+»(1) Porez na dohodak plaća se po stopi od 15% od porezne osnovice do visine umnoška faktora 2,0 i osnovnoga osobnog odbitka, po stopi od 25% na razliku porezne osnovice između umnoška faktora 2,0 i umnoška faktora 4,5 i osnovnoga osobnog odbitka, po stopi od 35% na razliku porezne osnovice između umnoška faktora 4,5 i umnoška faktora 14,0 i osnovnoga osobnog odbitka te po stopi 45% na poreznu osnovicu iznad umnoška faktora 14,0 i osnovnoga osobnog odbitka iz članka 29. stavka 1. ovoga Zakona.
+(2) Porez na dohodak prema stavku 1. ovoga članka uvećava se za prirez porezu na dohodak koji uvedu jedinice lokalne samouprave prema posebnim zakonima, a umanjuje se ako jedinice lokalne samouprave propišu niži udio u porezu na dohodak od onog koji im pripada po posebnom zakonu.«
