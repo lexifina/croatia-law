@@ -1,0 +1,2 @@
+# Članak 4.
+Razrez i naplatu doprinosa obavljat će za hrvatske obrtnike koji porez na dobit plaćaju u godišnjem paušalnom iznosu Općinske uprave društvenih prihoda istovremeno s utvrđivanjem poreznih obveza. Obračulk i uplata doprinosa za hrvatske obrtnike koji porez na dobit plaćaju prema ostvarenoj dobiti obavljat će sami porezni obveznici mjesečno, putem isplatnih lista, u kojima se obračunavaju osobni dohoci, te porezi i doprinosi koji se plaćaju iz osobnih dohodaka.

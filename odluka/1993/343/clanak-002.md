@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici doprinosa plaćaju doprinos po stopi ad 0,40%. . Iz naplaćenog doprinosa po stopi iz prednjeg stavka 25% izdvaja se za financiranje programa školovanja obrtničkih kadrova i razvoj hrvatskog obrtništva. Razlika naplaćenog doprinosa po stopi iz ovoga članka u iznosu od 75% koristi se za financiranje programa rada i aktivnosti Saveza udruženja hrvatskih obrtnika i Hrvatske gospodarske komore. Stope za obračun doprinosa za financiranje Udruženja i regionalnih Saveza utvrđuju njihove Skupštine.

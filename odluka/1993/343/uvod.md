@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 20. stavka 2. Zakona o Hrvatskoj gospodarskoj komori ("Narodne novine" br. 66/91) te članka 21. točke 1. alineje 3. i članka 59. Statuta Saveza udruženja hrvatskih obrtnika ("Narodne novine" br. 15/92), Skupština Saveza udruženja hrvatskih obrtnika na svojoj 2. redovnoj sjednici održanoj 24. veljače 1993, donijela je
