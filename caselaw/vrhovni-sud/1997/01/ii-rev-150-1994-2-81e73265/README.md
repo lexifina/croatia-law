@@ -1,0 +1,11 @@
+# II Rev-150/1994-2, Vrhovni sud Republike Hrvatske, 22.1.1997.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=81e73265-a705-4b2d-8e95-b9616df209e7
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1997-01-22
+- Publication date on source: 2003-08-21
+- ECLI: ECLI:HR:VSRH:1997:1495
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
