@@ -1,0 +1,3 @@
+# Članak 7.
+Ugovorne stranke, u skladu sa svojim zakonima i propisima, postaju zajednički vlasnici bilo kojih izuma, tehnika, postupaka i ostalih korisnih rezultata kao intelektualnog vlasništva koje proizlazi iz aktivnosti uređene ovim Ugovorom. Podliježući obostranom sporazumu, Ugovorne ih stranke mogu registrirati sukladno svojim zakonima o industrijskom vlasništvu, a u odnosu na autorska prava mogu ih regulirati sukladno svojim zakonima o autorskom pravu.
+Nijedna ugovorna stranka neće proslijediti informacije o predmetnim djelatnostima trećim osobama bez prethodne suglasnosti druge Ugovorne stranke.
