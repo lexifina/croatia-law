@@ -1,0 +1,1 @@
+Temeljem članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike, odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", broj 53/90), a povodom zahtjeva Stambene zadruge "Sava", Zagreb, Medveščak 74, Vlada Republike Hrvatske je na sjednici održanoj 5. srpnja 1991. donijela
