@@ -1,0 +1,5 @@
+# Članak 11.
+Pravna osoba ovlaštena za obavljanje tehničkog pregleda vodi evidenciju o obavljenim tehničkim pregledima automata za igre na sreću i zabavne igre i evidenciju o izdanim uvjerenjima (atestima).
+U evidenciju o obavljenim tehničkim pregledima unose se slijedeći podaci: redni broj, datum podnošenja zahtjeva za tehnički pregled, prezime i ime odnosno naziv i sjedište podnosioca zahtjeva, podaci o automatu za igre na sreću ili zabavne igre (proizvođač, vrsta i tip automata, godina proizvodnje), datum i mjesto tehničkog pregleda, rezultat tehničkog pregleda (automat ispravan, automat nije ispravan) te redni broj o izdanom uvjerenju o ispravnosti automnata (datum i broj iz evidencije o izdanim uvjerenjima).
+U evidenciji o izdanim uvjerenjima (atestima) unose se slijedeći podaci: redni broj, prezime i ime odnosno naziv i sjedište podnosioca zahtjeva za izdavanje uvjerenja o ispravnosti automata, datum i mjesto tehničkog pregleda, datum izdavanja uvjerenja i redni broj iz evidencije o obavljenom tehničkom pregledu.
+Dokumentacija vezana uz obavljanje tehničkog pregleda čuva se najmanje pet godina.

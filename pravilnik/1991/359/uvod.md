@@ -1,0 +1,1 @@
+Na temelju članka 15. stavak 3. Zakona o igrama na sreću i zabavnim igrama ("Narodne novine", br. 19/90. i 59/90) i na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/79, 29/85, 48/85, 41/90 i 47/90) ministar financija donosi
