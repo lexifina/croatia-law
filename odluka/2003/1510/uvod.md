@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 3. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003.) i članka 38. stavka 3. pod I) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) Savjet Hrvatske narodne banke na sjednici održanoj 9. srpnja 2003. donio je
