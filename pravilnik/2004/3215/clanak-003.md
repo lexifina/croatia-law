@@ -1,0 +1,5 @@
+# Članak 3.
+Individualno usavršavanje provodi se praćenjem propisa i aktualne stručne i znanstvene literature.
+Kondicijsko upravljanje vozilom određene kategorije organizira ovlaštena stručna organizacija. Ovlašteni ispitivač mora upravljati vozilom najmanje tri nastavna sata u jednoj kalendarskoj godini za svaku kategoriju vozila za koju posjeduje dopuštenje (licencu). Organizator kondicijske vožnje ovlaštenom ispitivaču upisuje u knjižicu stručne osposobljenosti da je obavio ovaj oblik stručnog usavršavanja.
+Stručne aktive ovlaštenih ispitivača organizira i provodi voditelj odjela vozačkih ispita, odnosno voditelj ispitnog centra ovlaštene stručne organizacije prema potrebi, a najmanje jednom dvomjesečno. O sudjelovanju u radu stručnih aktiva vodi se zapisnik, s popisom prisutnih ovlaštenih ispitivača.
+Ovlaštena stručna organizacija organizira i provodi stručna savjetovanja i seminare najmanje dva puta u jednoj kalendarskoj godini. Sudjelovanje na stručnim savjetovanjima i seminarima kao i uspješno održano predavanje na stručnom savjetovanju i seminaru ovlaštenom ispitivaču voditelj ispitnog centra evidentira u knjižicu stručne osposobljenosti.
