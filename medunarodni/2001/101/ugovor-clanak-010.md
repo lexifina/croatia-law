@@ -1,0 +1,8 @@
+# Članak 10.
+KULTURNI CILJEVI
+1. Svaka stranka koja vrši prijenos osigurava, kada je to moguće i odgovarajućim sredstvima, da televizijske kuće za europska ostvarenja rezerviraju većinski omjer njihova vremena prijenosa, izuzevši vrijeme određeno za vijesti, sportske događaje, igre, oglašavanje i usluge teleteksta. Ovaj omjer, uzimajući u obzir odgovornosti televizijske kuće prema gledateljstvu za informiranje, obrazovanje, kulturu i zabavu, treba postići postepeno i temeljem odgovarajućih kriterija.
+2. U slučaju neslaganja između stranke koja vrši prijam i stranke koja vrši prijenos, o primjeni prethodnog stavka, može se na zahtjev jedne od stranaka, zatražiti pomoć od Stalnog odbora s ciljem da on izradi savjetodavno mišljenje o tom predmetu. To neslaganje neće biti predmet arbitražnog postupka predviđenog u članku 26.
+3. Stranke se obvezuju zajednički, bez diskriminacije između televizijskih kuća, pronaći najpogodnije instrumente i postupke za podupiranje aktivnosti i razvoja europske produkcije, osobito u zemljama s malim audiovizualnim produkcijskim kapacitetima ili s ograničenim jezičnim područjima.
+4. U duhu suradnje i uzajamne pomoći, koju ova Konvencija naglašava, stranke se trebaju truditi izbjeći da usluge programe, koje prenose ili ponovno prenose entiteti ili tehnička sredstva pod njihovom jurisdikcijom, u smislu članka 3, ugrožavaju pluralizam tiska ili razvoj filmske industrije. U skladu s time, ako se nosilac vlasničkih prava i televizijska kuća nisu drugačije dogovorili, niti jedno filmsko djelo se ne može prenositi tim uslugama u roku od dvije godine od kada je djelo prvi puta prikazano u kinu; u slučaju kada su filmska djela ostvarena u koprodukciji s televizijskom kućom, to razdoblje iznosi godinu dana.
+DIO III.
+OGLAŠAVANJE

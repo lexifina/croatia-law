@@ -1,0 +1,4 @@
+# Članak 8.
+PRAVO NA ODGOVOR
+1. Svaka će stranka koja vrši prijenos, u odnosu na programe koje prenesu ili ponovno prenesu entiteti ili tehnička sredstva pod njezinom jurisdikcijom u smislu članka 3. ove Konvencije, osigurati svakoj fizičkoj i pravnoj osobi, bez obzira na njezino državljanstvo ili boravište, mogućnost ostvarivanja prava na odgovor ili pribjegavanja drugom sličnom zakonskom ili upravnom sredstvu. Osobito će osigurati da vrijeme i ostale pojedinosti za ostvarivanje prava na odgovor budu takva, da se pravo može učinkovito ostvariti. Učinkovito ostvarivanje ovog prava ili drugih sličnih pravnih ili upravnih sredstava mora se osigurati i s obzirom na vrijeme i s obzirom na način.
+2. Za ovu svrhu, ime televizijske kuće odgovorne za programsku uslugu treba objavljivati u redovitim razmacima i odgovarajućim sredstvima.

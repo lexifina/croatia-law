@@ -1,0 +1,5 @@
+# Članak 35.
+1. Ovaj Protokol će stupiti na snagu prvog dana u mjesecu nakon datuma kada je posljednja od stranaka potpisnica Konvencije glavnom tajniku Vijeća Europe predočila svoje instrumente prihvaćanja.
+2. Međutim, ovaj Protokol će stupiti na snagu po isteku dvogodišnjeg razdoblja nakon datuma kada je otvoren na potpisivanje, ukoliko jedna od stranaka potpisnica Konvencije glavnom tajniku Vijeća Europe ne dostavi primjedbu glede stupanja na snagu spomenutog Protokola. Pravo na podnošenje primjedbe ograničit će se na one države ili Europsku zajednicu koje su izrazile svoje neslaganje s obvezujućim karakterom Konvencije prije isteka razdoblja od tri mjeseca po otvaranju Protokola na potpisivanje.
+3. Ukoliko bi se primjedba ipak uputila, Protokol će stupiti na snagu prvoga dana u mjesecu nakon datuma kada je stranka-potpisnica Konvencije koja je primjedbu uputila, glavnom tajniku Vijeća Europe predočila/dostavila instrumente prihvaćanja.
+4. Stranka potpisnica Konvencije može, u bilo koje vrijeme, izjaviti da će primjenjivati Protokol na privremenoj osnovi.

@@ -1,0 +1,7 @@
+# Članak 14.
+UMETANJE OGLASA
+1. Oglasi se umeću između programa. Kada su ispunjeni uvjeti sadržani u stavcima 2. do 5. ovog članka, oglasi mogu biti uvršteni i tijekom programa na takav način da ne štete cjelovitosti i vrijednosti programa niti pravima nositelja vlasničkih prava.
+2. U programima koji se sastoje od samostalnih dijelova, ili u športskim i u slično uređenim priredbama i predstavama koji sadrže prekide, oglasi mogu biti umetnuti jedino između dijelova ili u prekidima.
+3. Prijenos audiovizualnih ostvarenja kao što su dugometražni filmovi i televizijski filmovi (osim serija, serijala, zabavnih programa i dokumentarnih programa), ako im je predviđeno trajanje dulje od četrdeset pet minuta, može se prekinuti jedanput za svako cjelovito razdoblje od četrdeset pet minuta. Daljnji prekid je dopušten ako je njihovo predviđeno trajanje najmanje dvadeset minuta duže od dva ili više cjelovita razdoblja od četrdeset pet minuta.
+4. Ako su programi, osim onih obuhvaćenih stavkom 2, prekidani oglasima, treba proteći najmanje dvadeset minuta između svakog sljedećeg prekida za oglase unutar programa.
+5. Oglasi se neće umetati niti u jedan prijenos vjerske službe. Vijesti, programi o tekućim događajima, dokumentarni programi, vjerski programi i programi za djecu, ako im je predviđeno trajanje kraće od 30 minuta, neće se prekidati oglasima. Ako traju trideset minuta i dulje, primijenit će se odredbe prethodnog stavka.
