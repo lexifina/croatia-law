@@ -1,0 +1,3 @@
+# Članak 1.
+Stambeno zbrinjavanje (davanje stambenih kredita, davanje na korištenje službenih stanova i davanje stanova u najam) dužnosnika, djelatnih vojnih osoba, vojnih službenika i vojnih namještenika Ministarstva obrane i oružanih snaga Republike Hrvatske provodi se u skladu s Odlukom o zadovoljavanju stambenih potreba dužnosnika i službenika u tijelima državne vlasti (»Narodne novine«, broj 140/97), te posebnim potrebama oružanih snaga Republike Hrvatske koje utvrđuje ministar obrane posebnim pravilnikom.
+Posebni pravilnik mora sadržavati mjerila iz Uredbe o mjerilima za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskoga branitelja (»Narodne novine«, broj 36/97).

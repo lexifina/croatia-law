@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 2. i članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), članka 35. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, broj 91/96), te članka 51. Zakona o najmu stanova (»Narodne novine«, broj 91/96), Vlada Republike Hrvatske je na sjednici održanoj 25. studenoga 1999. godine, donijela
