@@ -1,0 +1,3 @@
+## o dopunama Zakona o vodama
+# Članak 1.
+U Zakonu o vodama ("Narodne novine", br. 53/90) u članku 173. iza stavka 2. dodaje se novi stavak 3. koji glasi: "Ako pojedine općinske skupštine na određenom slivnom području ne donesu odluku iz stavka 1. ovoga članka, javno vodoprivredno poduzeće za slivno područje organizirat će se u skladu s odlukama općinskih skupština koje su takvu odluku donijele. Prava i obveze u svezi sa upravljanjem vodoprivrednim sustavom na području tih općina uređuju se statutom vodoprivrednog poduzeća, koji se donosi uz suglasnost svih općinskih skupština na slivnom području." Dosadašnji stavak 3. postaje stavak 4.
