@@ -1,0 +1,3 @@
+# Članak 103.
+(1) Osuđenim maloljetnicima treba omogućiti tijekom izdržavanja kazne odgovarajuću izobrazbu za zanimanje prema njihovim znanjima, sposobnostima, sklonostima i dosadašnjoj djelatnosti, a prema mogućnosti kaznenog zavoda. Uključivanje u rad koji je odgojno koristan i uz odgovarajuću naknadu, omogućivanje i poticanje veza maloljetnika s vanjskim svijetom putem pisama, telefona, primanje posjeta, dopusti i dr., športska aktivnost, osiguravanje uvjeta za zadovoljenje vjerskih potreba - osnova su tretmana.
+(2) Stručne osobe službe tretmana moraju imati dovoljno znanja s područja pedagogije i psihologije.

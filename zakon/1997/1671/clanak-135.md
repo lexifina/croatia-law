@@ -1,0 +1,2 @@
+# Članak 135.
+Ministarstvo pravosuđa skrbi o stručnom usavršavanju osoba koje rade na poslovima delinkvencije mladih i kaznenopravne zaštite djece i maloljetnika, organizira u suradnji sa sudovima, državnim odvjetništvima, znanstvenonastavnim ustanovama i stručnim društvima pravnika povremena stručna savjetovanja, seminare, provjere znanja i druge oblike dodatnih stručnih osposobljavanja sudaca, državnih odvjetnika i drugih stručnih osoba na tim poslovima.

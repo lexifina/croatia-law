@@ -1,0 +1,4 @@
+# Članak 62.
+(1) Ako državni odvjetnik, odlučujući prema članku 45. ovoga Zakona, ocijeni da nema osnove zahtijevati pokretanje kaznenog postupka prema maloljetniku (članak 174. Zakona o kaznenom postupku), obavijestit će o tome oštećenika, uz navođenje razloga, a ako su redarstvene vlasti podnijele prijavu, obavijestit će i to tijelo.
+(2) Oštećenik može u roku od osam dana od primitka obavijesti državnog odvjetnika zahtijevati da vijeće za mladež višeg suda odluči o pokretanju postupka. Vijeće donosi odluku nakon pribavljenog mišljenja državnog odvjetnika. Vijeće može odlučiti da se postupak ne pokrene ili da se prema maloljetniku pokrene postupak pred sucem za mladež.
+(3) Kad vijeće odluči da se prema maloljetniku pokrene postupak, nadležni će državni odvjetnik preuzeti postupak prema maloljetniku.

@@ -1,0 +1,5 @@
+# Članak 70.
+(1) U pripremnom postupku prema maloljetniku, uz činjenice koje se odnose na kazneno djelo, posebno će se utvrditi godine maloljetnikova života, okolnosti potrebne za ocjenu njegove duševne razvijenosti, ispitat će se sredina u kojoj i prilike u kojima maloljetnik živi i ostale okolnosti koje se tiču njegove ličnosti.
+(2) Radi utvrđivanja tih okolnosti saslušat će se maloljetnikov roditelj, njegov skrbnik i druge osobe koje mogu dati potrebne podatke. O tim okolnostima zatražit će se izvješće od centra za socijalnu skrb; a ako je prema maloljetniku bila primijenjena odgojna mjera, pribavit će se izvješće o primjeni te mjere.
+(3) Podatke o ličnosti maloljetnika pribavlja sudac za mladež. Sudac za mladež može povjeriti prikupljanje tih podataka stručnom suradniku kao i centru za socijalnu skrb.
+(4) Kad je za utvrđivanje maloljetnikova zdravstvenog stanja, njegove duševne razvijenosti, psihičkih svojstava ili sklonosti, potrebno da maloljetnika pregledaju vještaci, za takav pregled odredit će se liječnici, psiholozi ili pedagozi. Takvi pregledi maloljetnika mogu se obaviti u zdravstvenoj ili sličnoj ustanovi.

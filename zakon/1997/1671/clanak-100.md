@@ -1,0 +1,5 @@
+# Članak 100.
+(1) Kad je udovoljeno uvjetima predviđenim u ovom Zakonu za obustavu izvršenja odgojne mjere ili za zamjenu odgojne mjere (članak 14. stavak 3., članak 15. stavak 2., članak 16. stavak 4., članak 17. i 19.), ili za odluku prema članku 9. stavku 5., članku 10. stavku 5., članku 13. i 20. ovoga Zakona o tome odlučuje vijeće suda za mladež koji je u prvom stupnju donio rješenje o odgojnoj mjeri, po vlastitom htijenju ili na prijedlog državnog odvjetnika, ravnatelja ustanove ili službe koja provodi pojačani nadzor nad maloljetnikom.
+(2) Prije donošenja odluke iz stavka 1. ovoga članka sud će preslušati državnog odvjetnika, maloljetnika, roditelja ili skrbnika maloljetnika ili druge osobe, a pribavit će i potrebna izvješća od ustanove u kojoj maloljetnik izdržava zavodsku mjeru, od centra za socijalnu skrb ili drugih tijela ili ustanova.
+(3) Stručni suradnik u sudu obavlja po naputku suca pojedine radnje radi pripremanja odluke suda (stavak 1.).
+(4) Protiv odluke iz stavka 1. ovoga članka žalbu mogu podnijeti osobe navedene u članku 87. stavku 1. i 2. ovoga Zakona u roku od osam dana. O žalbi odlučuje vijeće za mladež višeg suda.

@@ -1,0 +1,3 @@
+# Članak 65.
+(1) Kad je izvršenje kazne ili odgojne mjere u tijeku ili su ove sankcije pravomoćno izrečene ili je maloljetnik odlukom centra za socijalnu skrb smješten u ustanovu socijalne skrbi, državni odvjetnik može odlučiti da ne zahtijeva pokretanje kaznenog postupka za drugo kazneno djelo maloljetnika ako s obzirom na težinu i narav djela i pobude iz kojih je ono počinjeno vođenje postupka i izricanje sankcije za to djelo očito ne bi imalo svrhe.
+(2) O odluci iz stavka 1. ovoga članka obavijestit će državni odvjetnik, uz navođenje razloga, centar za socijalnu skrb i oštećenika s uputom da svoj imovinskopravni zahtjev može ostvarivati u parnici, a ako su redarstvene vlasti podnijele prijavu, obavijestit će i to tijelo.

@@ -1,0 +1,3 @@
+# Članak 132.
+(1) Kazneni postupak iz djelokruga sudova za mladež koji je pokrenut prije stupanja na snagu ovoga Zakona nastavit će se po ovome Zakonu ako ovim Zakonom nije drukčije određeno.
+(2) Ako je do stupanja na snagu ovoga Zakona u predmetima iz djelokruga sudova za mladež donesena kakva odluka protiv koje je po odredbama Zakona o krivičnom postupku dopušten pravni lijek, a ta odluka još nije dostavljena osobama koje imaju pravo na pravni lijek ili još teče rok za podnošenje pravnog lijeka, ili je pravni lijek podnesen, ali o njemu još nije odlučeno, primijenit će se što se tiče prava na pravni lijek i postupak o pravnom lijeku odredbe Zakona o kaznenom postupku.

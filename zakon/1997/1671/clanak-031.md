@@ -1,0 +1,4 @@
+## Djelo počinjeno u mlađoj maloljetnosti
+# Članak 31.
+(1) Punoljetnoj osobi koja je navršila dvadesetijednu godinu života ne može se suditi za kazneno djelo koje je počinila kao mlađi maloljetnik.
+(2) Punoljetnoj osobi koja u vrijeme suđenja nije navršila dvadesetijednu godinu života može se suditi za kazneno djelo koje je počinila kao mlađi maloljetnik samo ako je za počinjeno djelo propisana kazna zatvora dulja od pet godina. Toj osobi sud može izreći samo zavodsku odgojnu mjeru. Prosuđujući hoće li će i koju od tih mjera izreći, sud će uzeti u obzir sve okolnosti iz vremena počinjenja djela, osobito težinu i narav djela, vrijeme koje je proteklo od njegova počinjenja, ponašanje počinitelja, obiteljske prilike, kako se počinitelj uključio u redoviti život i svrhu primjene mjere. Izrečena mjera može trajati do navršene dvadesetitreće godine života počinitelja.

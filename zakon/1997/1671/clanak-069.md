@@ -1,0 +1,3 @@
+# Članak 69.
+(1) Ako je za kazneno djelo predviđena kazna zatvora do pet godina ili blaža kazna, državni odvjetnik može staviti sucu za mladež obrazloženi prijedlog za kažnjavanje, odnosno za primjenu odgojne mjere maloljetniku i bez provođenja pripremnoga postupka, ako prikupljeni podaci koji se odnose na kazneno djelo i na maloljetnikovu ličnost daju dovoljno osnove za stavljanje takva prijedloga.
+(2) Ako sudac za mladež, nakon što ispita maloljetnika, ustanovi da je udovoljeno uvjetima za stavljanje prijedloga za primjenu odgojne mjere odnosno kažnjavanje i bez provođenja pripremnoga postupka i ako je maloljetnik dao svoju privolu, dostavit će prijedlog vijeću radi suđenja. U protivnom postupit će s prijedlogom kao sa zahtjevom za pokretanje pripremnoga postupka.

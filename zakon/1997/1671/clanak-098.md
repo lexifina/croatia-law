@@ -1,0 +1,5 @@
+# Članak 98.
+(1) Ravnatelj ustanove u kojoj se izvršava zavodska odgojna mjera svakih će šest mjeseci dostaviti sudu koji je izrekao odgojnu mjeru i nadležnom državnom odvjetniku izvješće o vladanju maloljetnika i o uspjehu primjene mjere. Ravnatelj ustanove stavit će prijedlog sudu, s obzirom na postignuti uspjeh odgoja i preodgoja maloljetnika, za zamjenu ili obustavu izvršenja odgojne mjere.
+(2) Sudac za mladež i državni odvjetnik obilazit će najmanje dva puta godišnje maloljetnike smještene u ustanovi i u neposrednoj vezi s njima i službenicima koji neposredno rade na izvršenju odgojnih mjera, kao i uvidom u dokumentaciju ustanove, utvrditi zakonitost i ispravnost postupanja i postignuti uspjeh odgoja.
+(3) O uočenim propustima i drugim zapažanjima sudac za mladež dužan je bez odgode obavijestiti tijela i ustanove nadležne za stručni nadzor nad izvršenjem odgojnih mjera, kao i ustanovu koja izvršava odgojnu mjeru.
+(4) Povodom obavijesti suca za mladež tijela i ustanove nadležne za stručni nadzor dužni su bez odgode izvršiti odgovarajuću provjeru i poduzeti mjere za uklanjanje nezakonitosti i nepravilnosti te o tome izvijestiti sud.

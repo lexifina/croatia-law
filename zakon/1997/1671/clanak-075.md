@@ -1,0 +1,2 @@
+# Članak 75.
+Nakon što ispita sve okolnosti koje se odnose na počinjenje kaznenog djela i na ličnost maloljetnika, sudac za mladež dostavlja spise nadležnom državnom odvjetniku koji je dužan, u roku od osam dana, zahtijevati da se pripremni postupak dopuni ili izjaviti da odustaje od postupka ili staviti prijedlog za obustavu postupka ili obrazloženi prijedlog za kažnjavanje odnosno za primjenjivanje odgojne mjere.

@@ -1,0 +1,3 @@
+# Članak 119.
+(1) Kad postupaju u kaznenim predmetima protiv počinitelja kaznenih djela na štetu djece i maloljetnika sudac za mladež i istražni sudac pri provođenju postupovnih radnji osobito će se obazrivo odnositi prema djetetu ili maloljetniku na čiju je štetu počinjeno kazneno djelo, imajući na umu njegovu dob, značajke njegove ličnosti, obrazovanje i prilike u kojima živi, kako bi se izbjegle moguće štetne posljedice na njegov odgoj i razvoj. Ako je to potrebno, ispitivanje djeteta ili maloljetnika obavit će se uz pomoć pedagoga, psihologa ili druge stručne osobe.
+(2) Odredbe članka 55. ovoga Zakona odgovarajuće vrijede u kaznenim predmetima protiv počinitelja kaznenih djela na štetu djece i maloljetnika.

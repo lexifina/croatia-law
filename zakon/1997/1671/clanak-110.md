@@ -1,0 +1,3 @@
+# Članak 110.
+(1) Kad na kazneno djelo mlađeg punoljetnika primjenjuje opće kazneno pravo, sud nije obvezan, uz ograničenja predviđena u članku 57. stavku 2. Kaznenog zakona o ublažavanju kazne, na najmanju mjeru propisane kazne za odnosno kazneno djelo, niti može izreći, osim za djelo za koje je propisana kazna dugotrajnog zatvora ili za stjecaj najmanje dva kaznena djela za koja je propisana kazna zatvora dulja od deset godina, kaznu zatvora u trajanju duljem od dvanaest godina.
+(2) Prema mlađem punoljetnom počinitelju ne može se primijeniti sigurnosna mjera zabrane obavljanja zvanja, djelatnosti ili dužnosti.

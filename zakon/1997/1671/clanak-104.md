@@ -1,0 +1,5 @@
+# Članak 104.
+(1) Kazna maloljetničkog zatvora izdržava se u kaznenom zavodu za maloljetnike, a iznimno u kaznenom zavodu za mlađe punoljetnike ili u posebnim odjelima kaznenih zavoda za punoljetne osuđenike.
+(2) Osuđene osobe izdržavaju kaznu maloljetničkog zatvora u pravilu skupno, a odvojeno samo ako to zahtijeva zdravstveno stanje osuđene osobe ili potrebe održavanja stege i sigurnosti u kaznenom zavodu.
+(3) Muške i ženske osobe izdržavaju kaznu maloljetničkog zatvora u odijeljenim kaznenim zavodima ili u posebnim odjelima tih zavoda.
+(4) Kaznu maloljetničkog zatvora osuđeni maloljetnici izdržavaju u kaznenim zavodima u kojima mogu ostati do navršene dvadeset treće godine. Ako dotad ne izdrže kaznu, upućuju se u kazneni zavod u kojem punoljetne osobe izdržavaju kaznu. Iznimno u kaznenom zavodu za maloljetnike može ostati i osuđena osoba koja je navršila dvadeset tri godine ako je to potrebno radi završetka njezina školovanja ili stručnog osposobljavanja, ili ako ostatak neizdržane kazne nije veći od šest mjeseci, ali ni u kojem slučaju nakon navršene dvadeset sedme godine života.

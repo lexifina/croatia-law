@@ -1,0 +1,2 @@
+# Članak 38.
+Suce za mladež u općinskim i županijskim sudovima postavlja na vrijeme od pet godina, iz reda sudaca odnosnih sudova, predsjednik Vrhovnog suda Republike Hrvatske, a državne odvjetnike za mladež postavlja na vrijeme od pet godina, iz reda državnih odvjetnika ili zamjenika državnih odvjetnika u odnosnim državnim odvjetništvima, državni odvjetnik Republike Hrvatske. Nakon isteka pet godina, sudac, odnosno državni odvjetnik ili zamjenik državnog odvjetnika može biti ponovno postavljen za suca za mladež odnosno za državnog odvjetnika za mladež.

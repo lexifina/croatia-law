@@ -1,0 +1,4 @@
+# Članak 82.
+(1) Kad vijeće odlučuje na temelju glavne rasprave, na odgovarajući će se način primjenjivati odredbe Zakona o kaznenom postupku o pripremama za glavnu raspravu, o upravljanju glavnom raspravom, o odgodi i prekidanju glavne rasprave, o zapisniku i o tijeku glavne rasprave, ali sud može odstupiti od tih pravila ako smatra da njihova primjena u konkretnom slučaju ne bi bila svrhovita.
+(2) Pored osoba navedenih u članku 286. Zakona o kaznenom postupku, na glavnu raspravu pozvat će se roditelji maloljetnika, odnosno skrbnik i predstavnik centra za socijalnu skrb. Nedolazak roditelja, skrbnika ili predstavnika centra za socijalnu skrb ne sprečava sud da održi glavnu raspravu.
+(3) Osim maloljetnika glavnoj raspravi mora biti nazočan i državni odvjetnik, a u slučajevima obvezne obrane i branitelj.

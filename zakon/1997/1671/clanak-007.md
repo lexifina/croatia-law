@@ -1,0 +1,3 @@
+## Izbor odgojne mjere
+# Članak 7.
+Pri izboru odgojne mjere sud će uzeti u obzir maloljetnikovu dob, njegovu tjelesnu i duševnu razvijenost, njegove duševne osobine te osobne sklonosti; težinu i narav počinjenoga djela, pobude iz kojih i okolnosti u kojima je djelo počinio, ponašanje nakon počinjenog djela i osobito je li, ako je to mogao, pokušao spriječiti nastupanje štetne posljedice ili nastojao nadoknaditi počinjenu štetu; njegove životne uvjete, zdravstveno stanje, obiteljske prilike, obrazovanje i odgoj; je li i prije počinio kaznena djela i je li mu već bila izrečena maloljetnička sankcija; sve okolnosti koje utječu na izbor takve odgojne mjere kojom će se moći najbolje ostvariti svrha odgojnih mjera.

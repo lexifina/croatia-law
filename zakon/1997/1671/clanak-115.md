@@ -1,0 +1,7 @@
+# Članak 115.
+(1) Vijeće za mladež općinskog suda i vijeće za mladež prvostupanjskog županijskog suda sastavljeno je od suca za mladež i dva suca porotnika za mladež. Kad sudi primjenom općeg kaznenog prava za kaznena djela za koja se može izreći kazna zatvora od petnaest godina, vijeće za mladež županijskog suda sastavljeno je od dva suca, od kojih je najmanje jedan sudac za mladež, i tri suca porotnika za mladež.
+(2) Za sastav vijeća za mladež drugostupanjskog županijskog suda smisleno vrijedi odredba članka 57. stavka 2. ovoga Zakona.
+(3) Vijeće za mladež Vrhovnog suda Republike Hrvatske odlučuje o drugom stupnju u sastavu od tri suca. Kad odlučuje primjenom općeg kaznenog prava za kaznena djela za koje se može izreći kazna od petnaest godina zatvora, vijeće je sastavljeno od pet sudaca, od kojih su tri suci vijeća za mladež, a kad sudi u drugom stupnju na raspravi, od dva suca vijeća za mladež i tri suca porotnika za mladež. Kad odlučuje u trećem stupnju i o izvanrednim pravnim lijekovima, vijeće je sastavljeno po općim propisima.
+(4) Odredba članka 57. stavak 4. ovoga Zakona primjenjuje se za sastav vijeća za mladež u kaznenim predmetima mlađih punoljetnika.
+(5) Izvanraspravno vijeće odlučuje u sastavu po općim propisima s tim da je najmanje jedan član vijeća sudac za mladež.
+(6) Sudac u skraćenom postupku i u postupku za izdavanje kaznenog naloga je sudac za mladež općinskog suda.
