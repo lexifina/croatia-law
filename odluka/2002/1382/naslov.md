@@ -1,0 +1,1 @@
+Odluka o davanju državnog jamstva po zajmu između društva Hrvatske autoceste d.o.o. i grupe banaka (Bank Austria Aktiengesellschaft, Bayerische Landesbank Girozentrale i Privredna banka Zagreb d.d., Z

@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o kreditnim poslovima s inozemstvom (»Narodne novine«, broj 43/96) i članka 36. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu (»Narodne novine«, broj 116/2001), Vlada Republike Hrvatske je na sjednici održanoj 11. srpnja 2002. godine donijela
