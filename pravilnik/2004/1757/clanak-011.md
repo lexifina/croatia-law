@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Predstavnik obiteljskog doma je dužan, u cilju pružanja najboljih usluga korisnicima, surađivati s nadležnim centrima za socijalnu skrb te ih izvješćivati o svim promjenama u odnosu na pojedinog korisnika, a najmanje dva puta godišnje.
+(2) Predstavnik obiteljskog doma dužan je najmanje dva puta godišnje za svakog korisnika organizirati stručni sastanak, predstavnika obiteljskog doma, socijalnog radnika centra za socijalnu skrb nadležnog za pojedinog korisnika, te svih drugih osoba koje su u okviru djelovanja obiteljskog doma uključene u rad s korisnicima.
+(3) Cilj stručnog sastanka iz stavka 2. ovoga članka je izrada procjene uspješnosti tretmana korisnika u proteklom razdoblju, izrada plana zbrinjavanja, te vrste usluga koje mu se trebaju pružati u narednom polugodišnjem razdoblju.
