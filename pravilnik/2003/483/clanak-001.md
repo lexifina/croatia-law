@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza I. kategorije Dubrava KriŽovljanska
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Dubrava Križovljanska, obuhvaća prostor od granične crte u dubinu teritorija Republike Hrvatske dužine 250 metara i širine 51 metar, s lijeve i desne strane državne ceste D-2 (D. Križovljanska - Varaždin), na katastarskoj čestici 105/2., 109. i 115. k.o. Dubrava Križovljanska.
+Područje graničnog prijelaza obuhvaća dvije izlazne i četiri ulazne prometne trake te sklop od 6 kontejnera koju koriste polcijski i carinski službenici, 3 kontrolne kućice za graničnu kontrolu smještenih na središnjem otoku, kontejner vage na ulaznoj traci i 15 kontejnera za potrebe službenika špedicije, banke, policije i carine, sanitarnog čvora i službe za održavanje čistoće, s nadstrešnicom iznad mjesta obavljanja granične kontrole dužine 30 metara i širine 34 metra, s rasvjetnim tijelima te parkirališnim prostorom s lijeve i desne strane graničnog prijelaza.
+Ukupna površina graničnog prijelaza iznosi 12 750 m2.
