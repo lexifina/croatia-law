@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Smiljko Sokol, predsjednik Suda te suci Marijan Hranjski, Petar Klarić, Jurica Malčić, Ivan Mrkonjić, Jasna Omejec, Emilija Rajić, Vice Vukojević i Milan Vuković, odlučujući o suglasnosti drugog propisa s Ustavom i zakonom, na sjednici održanoj 28. veljače 2001. godine, donio je sljedeće
