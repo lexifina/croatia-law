@@ -1,0 +1,4 @@
+# Članak 9.
+Jedinica za zaštitu provodi i organizira Program zaštite, provodi i organizira hitne mjere, te obavlja sve druge poslove vezane uz zaštitu ugroženih osoba, ako ovim Zakonom nije drukčije određeno. Jedinica za zaštitu odgovorna je za provedbu Programa zaštite.
+Jedinica za zaštitu odlučuje o vrsti mjere koja će se provoditi, osim mjere promjene identiteta (članak 17. stavak 1. točka 4.), a u odnosu na osobe lišene slobode u dogovoru s nadležnim tijelom za upravljanje sa zatvorskim sustavom pri ministarstvu nadležnom za poslove pravosuđa.
+Tijela državne vlasti, državna tijela, jedinice područne (regionalne) i lokalne samouprave, te druge pravne osobe koje obavljaju javne ovlasti dužne su pružati pomoć Jedinci za zaštitu, te na traženje Jedinice za zaštitu bez posebnih naknada izvršiti nužne radnje iz svoje nadležnosti za potrebe provođenja mjera iz ovog Zakona.
