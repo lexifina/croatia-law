@@ -1,0 +1,4 @@
+# Članak 3.
+Novac s kojim zatvorenik slobodno raspolaže a u skladu s kućnim redom ne smije držati kod sebe, drži se na pologu novca.
+Novac s pologa zatvorenik smije koristiti radi nabave potrepština dnevno do iznosa iz članka 2. stavka 1. ovoga Pravilnika.
+Na zahtjev zatvorenika može se odobriti trošenje novca s pologa za troškove liječenja, izradu stvari i drugih djela u slobodno vrijeme, nabavu odjeće, obuće ili posteljine, izobrazbu, uzdržavanje obitelji, obeštećenje osoba oštećenih kaznenim djelom, putne i druge troškove u svezi s nastavkom rada kod poslodavca ili nastavka vlastite djelatnosti tijekom izvršavanja kazne zatvora, kupnju stvari koje su zatvoreniku dopuštene i u drugim slučajevima propisanim Zakonom o izvršavanju kazne zatvora i propisima donesenim na temelju toga Zakona, do visine raspoloživog iznosa na pologu.
