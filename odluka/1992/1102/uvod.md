@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o preuzimanju saveznih zakona u oblastima poljoprivrede i šumarstva koji se u Republici Hrvatskoj primjenjuju kao republički zakoni i članka 60. stavka 1. Zakona o zaštiti bilja od bolesti i štetočina koje ugrožavaju Cijelu zemlju ("Narodne novine"; br. 53/91), Vlada Republike Hrvatske na sjednici održanoj 13. srpnja 1992. donijela je
