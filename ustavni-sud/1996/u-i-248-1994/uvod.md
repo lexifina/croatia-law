@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu dopredsjednik Suda Zdravko Bartovčak, te suci Ante Jelavić Mitrović, mr. Vojislav Kučeković, mr. Hrvoje Momčinović, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, odlučujući o prijedlogu Ante Žuvelića iz Zagreba za pokretanje postupka za ocjenu ustavnosti zakona, na sjednici održanoj dana 8. svibnja 1996. godine, donio je ovo
