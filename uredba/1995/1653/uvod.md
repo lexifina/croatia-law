@@ -1,0 +1,1 @@
+Na temelju članka 123. stavka 3. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", br. 74/94 i 7/95), Vlada Republike Hrvatske je na sjednici održanoj 2. prosinca 1995. godine donijela
