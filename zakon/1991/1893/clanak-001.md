@@ -1,0 +1,3 @@
+## o izmjenama i dopunama Zakona o sklapanju i izvršavanju međunarodnih ugovora
+# Članak 1.
+U Zakonu o sklapanju i izvršavanju međunarodnih ugovora ("Narodne novine", br. 53/91.) članak 1. mijenja se i glasi : "Međunarodnim ugovorom u smislu ovoga zakona smatra se ugovor što ga Republika Hrvatska sklapa u pismenom obliku s jednom ili više država, odnosno s jednom ili više međunarodnih organizacija, koji je reguliran međunarodnim pravom bilo da je sadržan u jednoj, u dvije, ili više isprava međusobno povezanih, bez obzira na njegov poseban naziv. Međunarodni akti koji se sklapaju radi izvršavanja međunarodnih ugovora, a kojima se ne preuzimaju nove obveze, ne smatraju se, prema ovom zakonu, međunarodnim ugovorima."

@@ -1,0 +1,2 @@
+# Članak 2.
+Članak 2. mijenja se i glasi: "Međunarodne ugovore u ime Republike Hrvatske sklapa predsjednik Republike Hrvatske. Predsjednik Republike Hrvatske može ovlastiti Vladu Republike Hrvatske da sklopi određeni međunarodni ugovor. Vlada Republike Hrvatske može i bez ovlasti iz stavka 1., ovoga članka, sklapati međunarodne ugovore s vladama drugih država u oblasti gospodarstva i društvenih djelatnosti, kao i međunarodne ugovore o zaštiti čovjekovog okoliša."
