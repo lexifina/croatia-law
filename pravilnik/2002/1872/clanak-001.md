@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o ortopedskim i drugim pomagalima (»Narodne novine«, broj 63/00 - pročišćeni tekst 77/00., 85/00., 106/00., 131/00., 60/01., 67/01., 71/01., 31/02., 76/02. i 85/02. - u daljnjem tekstu: Pravilnik), u Popisu pomagala iz članka 3. Pravilnika u stupcu 5. »Odobrenje za pomaglao«, riječ »Kontrolor« zamjenjuje se s riječima »Povjerenstvo PU«, a riječi »Povjerenstvo PU« zamjenjuje se riječima »Povjerenstvo za pomagala PU«.
