@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 1. i članka 56. podstavka 2. Zakona o trgovini ("Narodne novine", broj 11/96) i članka 9. stavka 1. Carinskog zakona ("Narodne novine", br. 53A/91, 33/92, 26/93, 106/93, 92/94, 60/98 i 62/98), Vlada Republike Hrvatske je na sjednici održanoj 24. srpnja 1998. godine, donijela
