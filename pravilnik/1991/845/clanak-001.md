@@ -1,0 +1,3 @@
+## o izmjeni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencije prema Zakonu o zaštiti žrtava fašističkog terora i građanskih žrtava rata
+# Članak 1.
+U Pravilniku o načinu isplaćivanja novčanih primanja i vođenju evidencije prema Zakonu o zaštiti žrtava fašističkog terora i građanskih žrtava rata ("Narodne novine", broj 32/86 i 17/90) član 2. mijenja se i glasi: "Novčana primanja i druge troškove iz člana 1. ovoga pravilnika isplaćuje općinski organ uprave nadležan za poslove boraca i vojnih invalida (u daljem tekstu: isplatni organ) na teret sredstava proračuna Republike Hrvatske - sredstva za zaštitu žrtava, preko odgovarajućeg prolaznog računa općine."
