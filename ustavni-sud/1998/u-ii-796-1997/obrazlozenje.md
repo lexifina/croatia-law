@@ -1,0 +1,8 @@
+Obrazloženje
+Ezio Barnaba iz Brtonigle podnio je putem punomoćnika Maria Manojlovića, odvjetnika iz Buja, prijedlog za ocjenu zakonitosti akata navedenih u izreci rješenja.
+Osporavane akte donijelo je Turističko vijeće Turističke zajednice Općine Brtonigla na sjednici održanoj 16. lipnja 1997. godine, a na temelju Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u Turističkom uredu turističke zajednice općine, grada i glavnom uredu Hrvatske turističke zajednice ("Narodne novine", broj 45/94), točka 7. članak 25. Statuta Turističke zajednice Općine Brtonigla i članka 2. Odluke o osnivanju Turističkog ureda Turističke zajednice Općine Brtonigla.
+Pravilnikom se uređuju, prema članku 1. Pravilnika, unutarnje ustrojstvo Turističkog ureda Turističke zajednice Općine Brtonigla te broj potrebnih djelatnika u uredu s opisom poslova, zadaća i uvjetima za njezino obavljanje. Stoga se on odnosi samo na djelatnike Turističkog ureda.
+Iz tih razloga prema stajalištu Ustavnog suda naznačeni Pravilnik sa izmjenama i dopunama nema karakter propisa koji podliježe ustavnosudskoj ocjeni u smislu odredbi članka 125. alineja 1. Ustava Republike Hrvatske.
+S obzirom na to nema temelja u ovom slučaju, raspravljati o primjeni članka 18. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
+Slijedom izloženog odlučeno je kao u izreci temeljem članka 26. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 13/91) i članka 58. Poslovnika Ustavnog suda Republike Hrvatske ("Narodne novine", broj 29/94).
+Odluka o objavi temelji se na odredbi članka 20. stavak 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
