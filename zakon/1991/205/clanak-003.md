@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva za osnivanje i početak rada Poduzeća odnosno obavljanje djelatnosti iz članka 2. ovoga zakona osiguravaju se iz sredstava postojećih društvenih poduzeća "Astra - Međunarodna trgovina" i "Astra - Zastupstvo", Zagreb (u daljem tekstu: postojeća poduzeća), utvrđena zaključnim računom za 1990. godinu. Sredstva postojećih poduzeća iz stavka 1. ovoga članka postaju vlasništvo Republike Hrvatske.

@@ -1,0 +1,2 @@
+# Članak 12.
+S danom početka rada Poduzeća prestaju s radom postojeća poduzeća iz članka 3. ovoga zakona. Sredstva, prava, obveze i radnike postojećih poduzeća preuzima Poduzeće, kao njegov pravni sljednik, s početkom rada Poduzeća. Od dana stupanja na snagu ovoga zakona postojeća poduzeća ne mogu zapošljavati nove radnike, otuđivati imovinu i stvarati nove materijalne obveze bez suglasnosti ministra trgovine i ministra inozemnih poslova.
