@@ -1,0 +1,2 @@
+# Članak 11.
+Za mjerilo koje ima tipno odobrenje izdano od inozemne ustanove koju je država ovlastila za poslove zakonskog mjeriteljstva ravnatelj Zavoda može izdati tipno odobrenje na temelju priznanja tog odobrenja ako podnositelj zahtjeva uz zahtjev priloži potpuni izvještaj o ispitivanju i rezultatima ispitivanja na temelju kojih je izdano to odobrenje, odnosno druge podatke o mjerilu koje Zavod zatraži.
