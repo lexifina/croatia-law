@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel informatike obavlja poslove koji se odnose na informatizaciju, koordinaciju uspostave informatičkog sustava; osigurava kvalitetan pristup i korištenje odgovarajućih statističkih podataka, te utemeljenje odgovarajuće baze podataka, sudjeluje u provedbi izdavačkih programa, koordinira i organizira izradu informacijskih sustava, registrira evidencije i druge podatke koji se odnose na obavljanje inspekcijskog nadzora; organizira i osigurava informacije o pravnim i tehničkim propisima, vlastitoj i drugoj dokumentaciji, te obavlja i druge poslove koje odredi glavni inspektor.
+4. Uprava nadzora u području prometa robe

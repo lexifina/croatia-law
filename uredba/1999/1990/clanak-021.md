@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel kakvoće domaćih proizvoda obavlja poslove nadzora nad primjenom zakona i drugih propisa kojima se uređuje nadzor kakvoće proizvoda iz domaće proizvodnje glede temeljnih zahtjeva, odnosno kakvoće; normi čija je primjena obvezna; sustava i ocjenjivanja sukladnosti proizvoda s temeljnim zahtjevima i normama; isprava koje moraju imati proizvodi; deklariranja, označavanja, obilježavanja i pakiranja; izrađuje prijedloge naputaka za rad inspektora za provođenje nadzora iz svog djelokruga, pruža stručnu pomoć i usmjerava na određene zadaće i poslove, inicira izmjene i dopune propisa iz svog djelokruga te obavlja i druge poslove koje odredi glavni inspektor.
+7. Uprava nadzora u području rada i zaštite na radu

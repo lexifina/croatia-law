@@ -1,0 +1,5 @@
+# Članak 28.
+Odjel u području posuda pod tlakom nadzire primjenu zakona drugih propisa i norma donesenih na temelju zakona kojima se uređuje izgradnja, rekonstrukcija, ugrađivanje odnosno proizvodnja i uporaba parnih i vrelovodnih kotlova, stabilnih (parnih) posuda pod tlakom, pregrijača pare i zagrijača vode te izmjenjivača topline, odnosno sve opreme koja se ubraja u opremu i postrojenja pod tlakom; tehnička svojstva i kakvoća materijala koji služi za izgradnju odnosno proizvodnju parnih kotlova i posuda pod tlakom predlaže izmjene i dopune zakona i drugih propisa; izrađuje prijedloge programa rada; izrađuje izvješće o obavljenom nadzoru u poduzetim mjerama; predlaže i izrađuje upute za rad inspektora iz svog djelokruga, izrađuje nacrte drugostu-
+panjskih rješenja i prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe; pruža stručnu pomoć, te obavlja i druge poslove koje odredi glavni inspektor.
+9. Uprava nadzora zakonitosti u postupanju i
+unapređenju rada

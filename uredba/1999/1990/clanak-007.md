@@ -1,0 +1,3 @@
+# Članak 7.
+Odjel postupanja u drugom stupnju izrađuje nacrte upravnih akata po žalbama na prvostupanjske akte donesene od strane inspektora u Inspektoratu; prati primjenu odredaba postupovnih propisa u rješavanju upravnih stvari; izvješćuje nadležne uprave o uočenim nepravilnostima u postupanju inspektora kod izrade nacrta pojedinačnih akata; predlaže izmjene i dopune postupovnih odredaba kojima se uređuje postupanje inspektora; izvješćuje glavnog inspektora o poteškoćama u rješavanju upravnih predmeta, izrađuje odgovore na tužbe protiv rješenja Povjerenstva za žalbe; priprema odgovore na predstavke i pritužbe građana u odnosu na upravni postupak; te obavlja i druge poslove koje odredi glavni inspektor.
+3. Uprava općih poslova

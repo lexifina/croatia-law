@@ -1,0 +1,6 @@
+# Članak 17.
+Odjel u području vinogradarstva, ribarstva i stočarstva obavlja inspekcijske poslove koji se odnose na nadzor primjene i provedbe zakona i drugih propisa u svezi s proizvodnjom i prometom grožđa za preradu u vino; proizvodnje vina i drugih proizvoda od grožđa i vina; racionalnim gospodarenjem i zaštitom riba i drugih akvatičnih organizama; obavljanjem gospodarskog malog i rekreacijsko-športskog ribolova; uzgoja i prometa riba i drugih akvatičnih organizama; uzgoja, proizvodnje i trgovine uzgojno valjanih životinja; proizvodnje sjemena jajnih stanica i zametaka; zaštite izvornih i zaštićenih pasmina, proizvodnje novih pasmina sojeva i hibrida; držanja i iskorištavanja domaćih životinja; proizvodnje (i trgovine) stočne hrane; predlaže programe rada, izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, predlaže i izrađuje naputke za rad inspektora, pruža stručnu pomoć i usmjerava na određene zadaće i poslove, brine se o provođenju metodologije rada, te obavlja i druge poslove koje odredi glavni inspektor.
+Za obavljanje poslova Odjela u području vinogradarstva, ribarstva i stočarstva ustrojavaju se odsjeci:
+- Odsjek vinogradarstva
+- Odsjek ribarstva
+- Odsjek stočarstva.

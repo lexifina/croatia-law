@@ -1,0 +1,3 @@
+# Članak 18.
+Odjel u području šumarstva i lovstva obavlja inspekcijske poslove koji se odnose na nadzor primjene i provedbe zakona i drugih propisa u svezi gospodarenja šumama i šumskim zemljištima; proizvodnje, prometa i uporabe šumskog sjemena i šumskih sadnica; uzgoja, zaštite, lova i korištenja divljači; zaštite šuma od požara; predlaže programe rada, izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, predlaže i izrađuje prijedloge naputaka za rad inspektora, pruža stručnu pomoć i usmjerava na određene zadaće i poslove, brine se o provođenju metodologije rada, te obavlja i druge poslove koje odredi glavni inspektor.
+6. Uprava nadzora kakvoće proizvoda s uvjerenjem

@@ -1,0 +1,6 @@
+# Članak 25.
+Uprava nadzora u području elektroenergetike, rudarstva i posuda pod tlakom je upravna organizacija u sastavu Inspektorata koja obavlja inspekcijske i druge poslove koji se odnose na: gradnju, uporabu i održavanje elektroenergetskih dijelova građevina, postrojenja, procesa, opreme i instalacija u svezi s električnom energijom; kakvoću i racionalnu uporabu električne energije; istraživanje i eksploataciju mineralnih sirovina, primjenu tehničkih normi i zaštite od požara u rudarstvu, rudarska mjerenja, uvjete za obavljanje poslova, kontrolu poslovanja u djelatnosti eksploatacije mineralnih sirovina; kotlovska postrojenja i opremu postrojenja pod tlakom, kakvoću materijala za izgradnju postrojenja i opreme pod tlakom, uvjete zaposlenih na poslovima u kotlovnicama i osoba koje projektiraju, konstruiraju, izrađuju i montiraju kotlovska postrojenja; izrađuju nacrte drugostupanjskih rješenja koje ne priprema Uprava pravnih poslova, izrađuje prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe te obavlja i druge poslove koje odredi glavni inspektor.
+Za obavljanje poslova Uprave nadzora u području elektroenergetike, rudarstva i posuda pod tlakom ustrojavaju se odjeli:
+a) Odjel u području elektroenergetike
+b) Odjel u području rudarstva
+c) Odjel u području posuda pod tlakom.
