@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 2. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93) i članka 3. stavka 2. Zakona o državnim maticama ("Narodne novine", broj 96/93), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1997. godine donijela
