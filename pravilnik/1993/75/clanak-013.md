@@ -1,0 +1,2 @@
+# Članak 13.
+Povodom opravdanih zahtjeva građana, znanstvenih i drugih institucija Izborna komisija Republike Hrvatske odobrit će uvid u izborni materijal za izbor predsjednika Republike Hrvatske odnosno za izbor zastupnika u Sabor Republike Hrvatske, a nadležna županijska izborna komisija odobrit će uvid u izborni materijal za izbor članova predstavničkih tijela jedinica lokalne samouprave odnosno njihovo korištenje u znanstvene i druge svrhe.

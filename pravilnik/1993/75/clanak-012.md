@@ -1,0 +1,2 @@
+# Članak 12.
+Izborna komisija Republike Hrvatske će u roku od 6 mjeseci od dana stupanja na snagu ovog Pravilnika donijeti akt o izlučivanju izbornog materijala za izbor predsjednika Republike Hrvatske i za izbor zastupnika u Sabor Republike Hrvatske i predaji Arhivu Hrvatske. U roku od 60 dana od dana donošenja akta iz stavka 1. ovoga članka odgovarajuća predstavnička tijela jedinica lokalne samouprave donijet će akt o izlučivanju izbornog materijala za izbor članova predstavničkih tijela jedinica lokalne samouprave i njegovoj predaji na čuvanje nadležnom arhivu.

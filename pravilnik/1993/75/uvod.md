@@ -1,0 +1,1 @@
+Na temelju članka 27. stavak 3. u svezi s člankom 7. Zakona o zaštiti arhivske građe i arhivima ("Narodne novine" br. 25/78) Izborna komisija Republike Hrvatske, na sjednici održanoj dana 19. siječnja 1993. donijela je

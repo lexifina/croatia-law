@@ -1,0 +1,2 @@
+# Članak 4.
+Izborni materijal koji se odnosi na izbor predsjednika Republike Hrvatske i na izbor zastupnika u Zastupnički dom Sabora Republike Hrvatske iz članka 2. alineja 5. (popisi birača) i članka 2. alineja 6. (glasački listići) ovog Pravilnika čuvat će se pri skupštinama postojećih općina i pri postojećoj Skupštini grada Zagrebe, prema sjedištu općinske izborne komisije odnosno izborne komisije izborne jedinice.

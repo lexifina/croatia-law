@@ -1,0 +1,2 @@
+# Članak 7.
+Izborni materijal iz članka 2. ovog Pravilnika čuvat će se pri skupštinama postojećih općina, odnosno pri postojećoj Skupštini grada Zagreba, kako je propisano člancima 4, 5. i 6. ovog Pravilnika, do stupanja na snagu propisa koji će donijeti Ministarstvo pravosuđa i uprave kojim općine, gradovi i županije preuzimaju arhive završenih predmeta, dokumentacije i nezavršenih predmeta organa uprave i službi dosadašnjih općina čiji su sljednici (članak 87. stavak 6. Zakona o lokalnoj samoupravi i upravi - "Narodne novine" br. 90/92).
