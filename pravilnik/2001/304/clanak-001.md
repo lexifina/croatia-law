@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuju se uvjeti koje moraju ispunjavati zdravstveni djelatnici za obavljanje poslova u svojoj struci izvan punoga radnog vremena, ali ne dulje od jedne trećine punoga radnog vremena te mjerila za utvrđivanje posebnog interesa građana i zdravstvene ustanove za obavljanje poslova zdravstvenih djelatnika u svojoj struci izvan punoga radnog vremena koristeći prostor i medicinsko-tehničku opremu zdravstvene ustanove kod koje su u radnom odnosu.
