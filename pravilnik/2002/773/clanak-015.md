@@ -1,0 +1,23 @@
+# Članak 15.
+Stručna i tehnička podrška obavlja sljedeće poslove:
+- izrađuje godišnje planove rada i nabave za cjelokupni sustav,
+- izrađuje i predlaže razvojne programe, planove i izvedbene projekte proširenja branjenog područja i uvođenje novih tehnologija,
+- prati i analizira prihode i rashode te usklađuje dinamiku realizacije plana i programa rada s dinamikom pritjecanja novčanih sredstava,
+- prati i analizira kvalitetu djelovanja rada pojedinih dijelova sustava i poduzima mjere za otklanjanje nedostataka u radu i organizaciji rada,
+- izrađuje mjesečna, godišnja i druga izvješća o radu i djelovanju sustava,
+- izrađuje metodologiju djelovanja na tučoopasne atmosferske procese,
+- izrađuje upute za prijevoz i skladištenje opasnih i zapaljivih tvari sukladno posebnim propisima,
+- izrađuje upute za rad na sabirnom centru RC i LP i/ili GP,
+- organizira pripremu i osigurava funkcioniranje 24-satno operativno spremnog sustava tijekom sezone,
+- planira i organizira opskrbljenost RC i postaja sredstvima rada i djelovanja,
+- koordinira suradnju između nositelja OT i sudionika provođenja OT,
+- organizira radarsko praćenje olujnih oblaka,
+- usklađuje djelovanje raketne i generatorske komponente sustava,
+- prikuplja, analizira i pohranjuje podatke prikupljene u sustavu OT i iz drugih izvora o djelovanju OT,
+- planira i organizira stručno i tehničko osposobljavanje i usavršavanje djelatnika sustava poslužitelja na LP i/ili GP,
+- organizira primjenu novih metoda i tehnologija u OT,
+- obavlja poslove određene Zakonom o obrani,
+- organizira i koordinira rad pratećih tehničkih službi,
+- izrađuje prijedloge tehničkih uvjeta za rad sustava,
+- usklađuje djelovanje sustava s Hrvatskom kontrolom zračne plovidbe d.o.o.
+- propisuje i kontrolira kvalitetu sredstava djelovanja.
