@@ -1,0 +1,2 @@
+# Članak 2.
+Uzajamne isporuke roba i usluga ostvarivat će se među pravnim i fizičkim osobama Republike Hrvatske ovlaštenim obavljati međunarodnu trgovačku djelatnost u skladu s pravnim sustavom Republike Hrvatske (dalje samo "subjekti") s jedne strane i pravnim i fizičkim osobama Slovačke Republike ovlaštenim obavljati međunarodnu trgovačku djelatnost u skladu s pravnim sustavem Slovačke Republike (dalje samo "subjekti") s druge strane na temelju ugovora sklopljenih među subjektima.
