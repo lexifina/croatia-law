@@ -1,0 +1,2 @@
+# Članak 5.
+Na natječaj za potporu iz članka 4. ove Odluke mogu se javiti poduzetnici-početnici koji će, pri osnivanju ili početku poslovanja, koristiti savjetodavne usluge članova HMK, a koji natječajnoj komisiji županije/JLS dostave opis poduzetničke ideje/pothvata i predviđeni iznos kreditnih ili vlastitih sredstava potrebnih za osnivanje ili započinjanje poslovanja, te kratak opis i predračun cijene savjetodavne usluge.

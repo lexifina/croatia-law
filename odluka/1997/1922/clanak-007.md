@@ -1,0 +1,3 @@
+# Članak 7.
+Potpora za savjetodavnu pomoć konzultanata, članova HMK se koristi za savjetodavnu uslugu koja obuhvaća: provjeru poduzetničke ideje i poduzetničkih sposobnosti, davanje osnovnih informacija potrebnih za početak poslovanja, te ukazivanje na specifičnosti poslovanja predmetne djelatnosti, izradu investicijskog projekta ili poslovnog plana u suradnji s poduzetnikom, te pružanje usmenih savjeta glede izvedbe poduzetničke zamisli iz elaborata tijekom prve godine primjene projekta.
+Potpora za plaćanje cijena savjetodavnih usluga članova HMK može se, za osnivanje ili početak poslovanja, koristiti samo jedanput.

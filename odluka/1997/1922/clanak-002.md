@@ -1,0 +1,2 @@
+# Članak 2.
+Sredstva koja za ove namjene izdvaja Ministarstvo gospodarstva predstavljaju dio ukupne potpore koja se, sa sredstvima županija/JLS predviđenim za ove namjene, dodjeljuje poduzetnicima-početnicima, radi plaćanja dijela cijene savjetodavnih usluga konzultanata članova HMK. Uz Ministarstvo gospodarstva i županije/JLS u podmirivanju troškova nastalih korištenjem savjetodavnih usluga članova HMK sudjeluje i poduzetnik.

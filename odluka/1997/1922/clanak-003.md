@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva koja Ministarstvo gospodarstva izdvaja radi davanja potpore početnicima za korištenje usluga članova HMK, dodjeljuju se županijama/JLS na temelju županijskih programa poticanja malog gospodarstva. Za ove namjene Ministarstvo gospodarstva županijama/JLS dodjeljuje sredstva predviđena za stručnu pomoć županijama/JLS. Visina dodijeljenih sredstava ovisi o proračunskim mogućnostima.

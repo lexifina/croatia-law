@@ -1,0 +1,3 @@
+# Članak 1.
+Svrha Odluke je poticati osnivanje i početak poslovanja obrtnika, zadruga i malih trgovačkih društava (u daljnjem tekstu: poduzetnici). Ministarstvo gospodarstva i županije/JLS će poticati malo gospodarstvo izdvajanjem sredstava radi sudjelovanja u plaćanju cijene savjetodavnih usluga konzultanata, članova Hrvatske mreže konzultanata za malo gospodarstvo (u daljnjem tekstu HMK).
+Ova Odluka se odnosi i na poduzetnike koji za osnivanje i početak poslovanja koriste sredstva iz programa "Start" Hrvatske garancijske agencije ("Narodne novine", br. 77/97. i 88/97), poticajna sredstva županija/JLS, HBOR-a, poslovnih banaka ili isključivo vlastita sredstva.
