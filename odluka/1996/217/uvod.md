@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata ("Narodne novine", broj 91A/93), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 1996. godine donijela
