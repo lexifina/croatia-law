@@ -1,0 +1,3 @@
+# Članak 22.
+Ravnatelj Zavoda je u radnom odnosu u Zavodu, u kojemu ostvaruje prava i obveze iz radnog odnosa, ako Zakonom nije drukčije propisano.
+Međusobna prava i obveze ravnatelja i Zavoda uređuju se ugovorom o radu, kojega u ime Zavoda sklapa predsjednik Upravnog vijeća, sukladno odluci Upravnog vijeća o bitnim sastojcima ugovora.

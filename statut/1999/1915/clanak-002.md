@@ -1,0 +1,2 @@
+# Članak 2.
+Zavod je osnovan Zakonom o zapošljavanju (»Narodne novine« broj 59/96) kao javna ustanova u vlasništvu Republike Hrvatske radi provođenja posredovanja pri zapošljavanju, profesionalnog usmjeravanja, obrazovanja nezaposlenih osoba, osiguranja za slučaj nezaposlenosti, mjera i aktivnosti kojima se zadržava postojeća zaposlenost i potiče novo zapošljavanje, te obavljanja drugih poslova na osnovi odredaba Zakona o zapošljavanju.

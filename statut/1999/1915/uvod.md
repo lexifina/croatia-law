@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 63. Zakona o zapošljavanju (»Narodne novine« br. 59/96) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« broj 76/93) Upravno vijeće Hrvatskog zavoda za zapošljavanje na 5. sjednici održanoj 27. listopada 1999. donijelo je
