@@ -1,0 +1,1 @@
+Na temelju članka 8. stavak 2. Uredbe o prostornom uređenju u ratom zahvačenim područjima Republike Hrvatske ("Narodne novine", broj 44/92) ministar zaštite okoliša, prostornog uređenja i stambeno-komunalne djelatnosti, donosi
