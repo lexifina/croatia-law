@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VIJEĆA MINISTARA BOSNE I HERCEGOVINE O SURADNJI U ZAŠTITI OD PRIRODNIH I CIVILIZACIJSKIH KATASTROFA
+Vlada Republike Hrvatske i Vijeće ministara Bosne i Hercegovine (u daljnjem tekstu: ugovorne stranke) uvjerene u nužnost međusobne suradnje radi sprječavanja, odnosno ublažavanja posljedica prirodnih i civilizacijskih katastrofa (u daljnjem tekstu: katastrofa), poštujući već potpisane međunarodne sporazume s ovog područja, sporazumjele su se kako slijedi:
