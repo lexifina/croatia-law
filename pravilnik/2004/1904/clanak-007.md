@@ -1,0 +1,4 @@
+# Članak 7.
+Zavod je dužan dostaviti Ministarstvu kulture stručnu podlogu iz članka 5. stavka 3. ovoga Pravilnika najkasnije do 31. siječnja svake godine.
+Stručna podloga izrađuje se na temelju kategorija ugroženosti vrsta, odnosno temeljem analize stanja samoniklih biljaka u prirodi te izvješća nositelja dopuštenja za skupljanje samoniklih biljaka o skupljanju samoniklih biljaka za proteklu godinu.
+Stručna podloga sadrži: ukupnu godišnju količinu samoniklih biljaka koja se može sakupiti, po vrstama i njihovim dijelovima; područja sakupljanja po županijama; vremensko razdoblje u kojem je dozvoljeno skupljanje iz prirode; sredstva kojima je dozvoljeno skupljanje; mjere zaštite, ocjenu utjecaja sakupljanja samoniklih biljaka na prirodu i na očuvanje povoljnog stanja populacije samoniklih biljaka.

@@ -1,0 +1,1 @@
+Na temelju članka 62. stavka 3. Zakona o zaštiti prirode (»Narodne novine« br. 162/03) i članka 15. stavka 2. Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine« br. 199/03 i 30/04) ministar kulture, uz prethodno pribavljeno mišljenje ministra poljoprivrede, šumarstva i vodnog gospodarstva, donosi
