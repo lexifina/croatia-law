@@ -1,0 +1,4 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog ŽeljezniČkog graniČnog prijelaza I. kategorije Čakovec
+# Članak 1.
+Područje stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Čakovec smješteno je na željezničkom kolodvoru Čakovec i nalazi se na k.č. 5438/1 i 5445 k.o. Čakovec, a obuhvaća putničke kolosjeke za vrijeme dok se na tom prostoru zadržava vlak u međunarodnom prometu i to broj 1 dužine 263 metra i broj 2 dužine 263 metra s nadvišenim peronima uz kolosjek, teretne kolosjeke broj 4 dužine 500 metara, broj 5 dužine 545 metara, broj 6 dužine 598 metara, broj 7 dužine 478 metara, broj 12a dužine 205 metara, broj 26 dužine 430 metara, prostorije koje koriste djelatnici granične policije, carine, veterinarske i fitosanitarne službe, te prometne i ostale urede koje koriste djelatnici hrvatskih i slovenskih željeznica.
+Ukupna površina područja graničnog prijelaza iznosi 6 413 m2.
