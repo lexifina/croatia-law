@@ -1,0 +1,1 @@
+Na temelju člana 25. stava 1. točke 2. Zakona o pomorskom peljarenju ("Narodne novine". br. 15/74), Republički komitet za pomorstvo, saobraćaj i veze, na sjednici održanoj 18. travnja 1990. godine, donio je
