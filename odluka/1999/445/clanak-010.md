@@ -1,0 +1,4 @@
+# Članak 10.
+Osobe s prebivalištem u Republici Hrvatskoj uposlene na stranim brodovima, koje nemaju zdravstveno osiguranje putem stranog nositelja (članak 5. točka 5. Zakona), doprinos za obvezno zdravstveno osiguranje plaćaju prema stopi od 18% na pripadajuću osnovicu:
+RED. BR. ZVANJE OSNOVICA U KUNAMA 1. vježbenik stroja 1.500,00 vježbenik palube 2. mladić palube 2.053,00 mladić sobe mladić kuhinje 3. čistač 2.935,00 mornar II. kuhar II. konobar 4. vozač 3.668,00 tesar mazač kormilar 5. konobar 3.817,00 6. kuhar 4.106,00 motorist mehaničar III. časnik stroja vođa palube III. časnik palube poslužitelj sisaljki 7. električar 4.551,00 elektro časnik 8. II. časnik stroja 5.062,00 II. časnik palube 9. radio časnik 6.018,00 10. I. časnik stroja 6.967,00 I. časnik palube 11. upravitelj stroja 10.762,00 12. zapovjednik 11.184,00
+Doprinos iz stavke 1. ovog članka obveznik uplate doprinosa obvezan je obračunati i uplatiti do 1. dana u mjesecu za tekući mjesec.
