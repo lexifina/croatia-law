@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o potvrđivanju Konvencije za zaštitu ljudskih prava i temeljnih sloboda i protokola br. 1, 4, 6, 7 i 11 uz Konvenciju za zaštitu ljudskih prava i temeljnih sloboda (»Narodne novine - Međunarodni ugovori«, broj 18/97), Ministarstvo vanjskih poslova Republike Hrvatske objavljuje pročišćene tekstove
