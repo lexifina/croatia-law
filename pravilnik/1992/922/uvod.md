@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 5. Zakona o cestama ("Narodne novine", br. 56/91, pročišćeni tekst) i članka 52. Statuta Poduzeća "Hrvatske ceste" ("Narodne novine", br. 57/90.) Upravni odbor Poduzeća "Hrvatske ceste" na sjednici održanoj 18. veljače 1992. godine, uz suglasnost ministra za promet i veze, donosi
