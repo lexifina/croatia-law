@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o sigurnosnim službama Republike Hrvatske (»Narodne novine«, br. 32/2002 i 38/2002), Vlada Republike Hrvatske je na sjednici održanoj 1. kolovoza 2002. godine, donijela
