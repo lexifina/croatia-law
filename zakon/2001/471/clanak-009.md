@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Zapreka za prijam u državnu službu postoji za osobu koja obavlja samostalno profesionalnu ili gospodarsku djelatnost, odnosno ima vlastiti obrt, koja je većinski vlasnik ili član uprave, odnosno nadzornog odbora trgovačkog društva ili obavlja druge djelatnosti, ako se prima u tijelo državne uprave koje je stvarno i mjesno nadležno za obavljanje inspekcijskog nadzora ili nadzora nad zakonitošću rada nad tim djelatnostima odnosno pravnim ili fizičkim osobama i ako se prima na radno mjesto za obavljanje toga nadzora.
+(2) Za pojedine službe mogu se posebnim zakonom propisati i druge zapreke za prijam u državnu službu.

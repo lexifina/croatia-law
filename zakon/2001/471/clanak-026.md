@@ -1,0 +1,6 @@
+# Članak 26.
+(1) Službenik je dužan izvršavati naloge čelnika tijela i nadređenog službenika.
+(2) Službenik je ovlašten staviti pisanu primjedbu onome tko je izdao nalog ako smatra da je nalog nezakonit, suprotan pravilima struke ili ako ocijeni da izvršenje naloga može izazvati veću štetu. Ponovljeni nalog u pisanom obliku službenik je dužan izvršiti, te je u tom slučaju oslobođen od odgovornosti za posljedice njegovoga izvršenja.
+(3) Ponovljeni pisani nalog, čije bi izvršenje predstavljalo kazneno djelo, službenik je dužan i ovlašten zadržati od izvršenja i odmah staviti pisanu primjedbu osobi koja je neposredno nadređena onome koji je nalog potpisao, ili državnom tijelu ovlaštenom za nadzor ako je nalog potpisao čelnik državnog tijela. Ako je nalog potpisao ministar ili drugi čelnik središnjeg tijela državne uprave, službenik će staviti pisanu primjedbu Vladi.
+(4) Za izvršenje pisanog naloga čije bi izvršenje predstavljalo kazneno djelo, službenik odgovara zajedno s nadređenim službenikom ili čelnikom tijela koji je nalog izdao, ukoliko nije postupio sukladno stavku 2. i 3. ovoga članka.
+(5) Službenik ne smije biti pozvan na odgovornost zbog primjedbe stavljene prema stavku 2. i 3. ovoga članka.

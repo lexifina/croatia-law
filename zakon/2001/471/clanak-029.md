@@ -1,0 +1,3 @@
+# Članak 29.
+(1) Službenik se za vrijeme radnog vremena ne smije bez odobrenja nadređenog službenika udaljavati iz radnih prostorija, osim radi korištenja dnevnog odmora, a u slučaju hitnog razloga svoje udaljavanje mora opravdati odmah po povratku.
+(2) U slučaju spriječenosti dolaska na rad službenik je dužan obavijestiti nadređenog službenika o razlozima spriječenosti najkasnije u roku od 24 sata od njihovoga nastanka, osim ako je to nemoguće učiniti iz objektivnih razloga ili više sile, u kom slučaju je obavješćivanje dužan izvršiti odmah po prestanku razloga koji su onemogućili obavješćivanje.

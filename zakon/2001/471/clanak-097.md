@@ -1,0 +1,3 @@
+# Članak 97.
+(1) Službeniku koji se premješta u državno tijelo čije je sjedište udaljeno više od 100 kilometara od mjesta njegovog stanovanja mora se, najduže u roku šest mjeseci, osigurati odgovarajući smještaj za njega i njegovu obitelj, ako posebnim zakonom nije drukčije određeno.
+(2) Do osiguravanja uvjeta za smještaj njega i obitelji, službenik ima pravo na naknadu povećanih troškova zbog odvojenog života od obitelji, kao i naknadu troškova putovanja u mjesto stanovanja obitelji u vrijeme tjednog odmora, državnih blagdana i neradnih dana, sukladno uredbi Vlade ili odredbama kolektivnog ugovora. Službenik za preseljenje ima pravo na naknadu stvarnih troškova preseljenja.

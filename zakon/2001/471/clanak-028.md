@@ -1,0 +1,4 @@
+# Članak 28.
+(1) Službenik može izvan redovnoga radnog vremena, po prethodno pribavljenom pisanom odobrenju čelnika državnog tijela, obavljati poslove ili pružati usluge pravnoj ili fizičkoj osobi, samo ako nad tim djelatnostima, odnosno nad radom te fizičke ili pravne osobe, državno tijelo u kojemu je u službi ne obavlja nadzor ili ako takav rad nije zabranjen posebnim zakonom.
+(2) Odobrenje iz stavka 1. ovoga članka nije potrebno za objavljivanje stručnih članaka i drugih autorskih tekstova odnosno obavljanje poslova povremenog predavača na seminarima i savjetovanjima.
+(3) U odnosu na primanje darova, članstva u trgovačkim društvima, upravama i nadzornim odborima trgovačkih društava i naknada za članstvo, odgovarajuće se primjenjuju propisi kojima se uređuje sprječavanje sukoba interesa u obnašanju javnih dužnosti, a nadzor provode čelnici tijela iz članka 1. stavka 1. ovoga Zakona.

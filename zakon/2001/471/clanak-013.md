@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Ministarstvo nadležno za poslove opće uprave odnosno ministarstvo nadležno za poslove pravosuđa ukinut će rješenje o prijamu u državnu službu, ako je čelnik tijela donio rješenje unatoč obavijesti o zabrani popunjavanja radnog mjesta zbog razloga iz članka 12. stavka 1. ovoga Zakona, te ako je donio rješenje o prijamu u državnu službu radi popunjavanja radnog mjesta putem natječaja, unatoč obavijesti o službeniku koji je na raspolaganju, a koji ispunjava uvjete natječaja.
+(2) Ukoliko je na temelju rješenja o prijamu, koje je doneseno unatoč obavijesti o zabrani popunjavanja radnog mjesta zbog razloga iz članka 12. stavka 1. i 2. ovoga Zakona, čelnik tijela donio i rješenje o rasporedu na radno mjesto, ministarstvo nadležno za poslove opće uprave, odnosno ministarstvo nadležno za poslove pravosuđa ukinut će i rješenje o rasporedu na radno mjesto.
+(3) Rješenje o ukidanju rješenja na temelju stavka 1. i 2. ovoga članka može se donijeti u roku od jedne godine od dana kad je rješenje postalo konačno u upravnom postupku.
+d) Natječaj

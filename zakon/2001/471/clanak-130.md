@@ -1,0 +1,2 @@
+# Članak 130.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti (»Narodne novine«, br. 74/94., 86/94. i 7/95.), osim odredbi kojima su uređene plaće službenika i namještenika koje prestaju važiti danom stupanja na snagu uredbe iz članka 109. stavka 1. ovoga Zakona, a ostali propisi donijeti na temelju toga Zakona, primjenjuju se do donošenja novih propisa sukladno odredbama ovoga Zakona.

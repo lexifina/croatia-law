@@ -1,0 +1,5 @@
+# Članak 89.
+(1) Osoba koja u vrijeme prijama u državnu službu ima u odgovarajućoj struci radni staž duži od vremena određenog za vježbenički staž, ali nema položen državni stručni ispit, ne prima se u državnu službu u svojstvu vježbenika, ali je dužna u roku od godine dana od prijama u državnu službu položiti državni stručni ispit.
+(2) Službeniku koji ne položi državni stručni ispit u roku iz stavka 1. ovoga članka, prestaje državna služba istekom posljednjeg dana roka za polaganje ispita.
+(3) U slučaju privremene spriječenosti za rad zbog bolovanja, porodnog dopusta, odnosno drugoga opravdanog razloga, rok iz stavka 1. ovoga članka može se produžiti za onoliko vremena koliko je trajala privremena spriječenost za rad odnosno drugi opravdani razlozi.
+(4) Ako je prijava za polaganje državnoga stručnog ispita pravovremeno podnesena, a službenik nije u roku iz stavka 1. ovoga članka bio pozvan na polaganje, taj se rok može produžiti do polaganja stručnog ispita, ali ne više od tri mjeseca.

@@ -1,0 +1,8 @@
+# Članak 129.
+Danom stupanja na snagu uredbe iz članka 109. stavka 1. ovoga Zakona, prestaje važiti Uredba o dodacima za poslove s posebnim uvjetima rada (»Narodne novine«, br. 90/94. i 6/00.), Uredba o zvanjima i uvjetima za postavljenje u zvanja, položajima i uvjetima za imenovanja ovlaštenih službenih osoba u Ministarstvu unutarnjih poslova (»Narodne novine«, br. 100/95.), Uredba o povećanju vrijednosti platnih razreda za pojedine službe (»Narodne novine«, br. 90/94., 22/95., 30/95. i 79/95.), Odluka o povećanju vrijednosti koeficijenta platnog razreda za stanovita zvanja i položaje državnih službenika (»Narodne novine«, br. 18/99.), Uredba o razvrstavanju u platne razrede poslova na kojima rade namještenici (»Narodne novine«, br. 74/94., 74/00.) i Odluka o povećanju vrijednosti koeficijenata platnih razreda državnih službenika i namještenika u Stručnoj službi Sabora Republike Hrvatske, klasa 023-01/95-01/01 od 1. veljače 1995. odredbe:
+- članka 15. Zakona o poreznoj upravi (»Narodne novine«, br. 75/93. i 71/99.),
+- članka 21. Zakona o financijskoj policiji (»Narodne novine«, br. 89/92., 16/93., 94/93. i 28/94.),
+- članka 16. Zakona o carinskoj službi Republike Hrvatske (»Narodne novine«, br. 53/91. i 106/93.),
+- članka 195. Zakona o obrani (»Narodne novine«, br. 74/93. - pročišćeni tekst i 57/96.),
+- članka 84. Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje (»Narodne novine«, br. 21/74., 39/74., 55/88., 19/90., 26/93., 66/93., 11/97., 128/99. i 73/00.),
+- članka 4. Zakona o plaćama ovlaštenih državnih revizora (»Narodne novine«, br. 86/98.).

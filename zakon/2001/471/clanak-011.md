@@ -1,0 +1,5 @@
+# Članak 11.
+(1) O potrebi prijama u državnu službu odlučuje čelnik tijela u okviru slobodnih radnih mjesta predviđenih pravilnikom o unutarnjem redu državnog tijela.
+(2) Sva državna tijela dostavljaju odluke o raspisivanju natječaja odnosno oglasa ministarstvu nadležnom za financije, radi provjere jesu li za prijam novog službenika ili namještenika državnom tijelu osigurana proračunska sredstva.
+(3) Radi provjere postoji li slobodno radno mjesto čija se popuna traži, te ima li na raspolaganju službenika koji bi ispunjavali uvjete natječaja, odluke o raspisivanju natječaja odnosno objavljivanju oglasa državna tijela, osim tijela navedenih u stavku 4. ovoga članka, obvezno dostavljaju ministarstvu nadležnom za poslove opće uprave zajedno s dokazom da su osigurana potrebna proračunska sredstva.
+(4) Pravosudna i kaznena tijela odluku o raspisivanju natječaja odnosno objavljivanju oglasa dostavljaju ministarstvu nadležnom za poslove pravosuđa zajedno s dokazom da su osigurana potrebna proračunska sredstva.

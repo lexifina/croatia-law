@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Ukoliko je protiv rješenja donijetog na temelju odredaba ovoga Zakona pokrenut upravni spor, Upravni sud Republike Hrvatske (u nastavku teksta: Upravni sud) će o tome obavijestiti tijelo nadležno za nadzor i zastati s postupkom do dobivanja obavijesti od nadležnog tijela.
+(2) Tijelo nadležno za nadzor je dužno u roku od 15 dana od primitka obavijesti izvijestiti Upravni sud o tome je li rješenje iz stavka 1. ovoga članka poništeno ili ukinuto po pravu nadzora. Ukoliko je to rješenje ukinuto ili poništeno po pravu nadzora, Upravni sud će obustaviti postupak, ako nije pokrenut upravni spor i protiv rješenja o poništenju ili ukidanju rješenja.
+(3) Ukoliko je pokrenut upravni spor i protiv rješenja koje je poništeno ili ukinuto po pravu nadzora i protiv rješenja kojim je to rješenje poništeno ili ukinuto po pravu nadzora, Upravni sud će za oba rješenja donijeti jednu presudu, odnosno rješenje.
