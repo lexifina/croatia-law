@@ -1,0 +1,2 @@
+# Članak 11.
+O provodenju mjera propisanih ovim pravilnikom dostavlja se izvješće Ministarstvu poljoprivrede, šumarstva i vodoprivrede - Upravi za veterinarstvo, koje sadrži: naziv općine, mjesto, ime ili naziv držaoca životinja, vrste životinja koje su podvrgnute dijagnostičkom ispitivanju s oznakom životinja, rezultate dijagnostičkog ispitivanja i vrstu dezinfekcijskog sredstva koje je upotrijebljeno u zaraženom objektu i dvorištu.

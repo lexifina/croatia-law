@@ -1,0 +1,9 @@
+# Članak 3.
+Sumnjivim na brucelozu smatraju se goveda kod kojih se serološkim ispitivanjem krvi, metodom spore aglutinacije, utvrdi da 1 ml seruma sadrži od 30 do 100 internacionalnih jedinica aglutinina odnosno metodom brze aglutinacije utvrdi pozitivna reakcija.
+Sumnjivim na brucelozu smatraju se ovce, koze i svinje kod kojih se serološkim ispitivanjem, metodom spore aglutinacije, utvrdi da 1 ml seruma sadrži od 20 do 50 internacionalnih jedinica aglutinina odnosno metodom brze aglutinacije utvrdi pozitivna reakcija.
+Krv svih životinja kod kojih je laboratorijskim ispitivanjem dobivena sumnjiva reakcija na brucelozu, a i krv životinja kod kojih je dobiven pozitivan rezultat metodom spore ili brze aglutinacije koji nije potvrđen metodom reakcije vezivanja komplementa, mora se u roku od dva mjeseca najmanje dva puta pregledati, usporedo metodom spore aglutinacije i metodom reakcije vezivanja komplementa.
+U dvorištima u kojima je utvrdena pozitivna ili sumnjiva reakcija na brucelozu, metodom spore aglutinacije ili metodom brze aglutinacije, obvezan je pregled ukupnog broja životinja u tom dvorištu najmanje dva puta u roku od dva mjeseca nakon utvrđivanja pozitivne ili sumnjive reakcije.
+Ako se ponovnim ispitivanjem krvi životinja sumnjivih na brucelozu utvrdi isti ili niži sadržaj aglutinina, a metoda vezivanja komplementa dade negativan rezultat, životinje i stada iz kojih potječu, smatrat će se nezaraženima.
+Ako se ponovnim ispitivanjem krvi životinja sumnjivih na brucelozu utvrdi veći sadržaj aglutinina pri sporoj aglutinaciji i reakcija vezivanja komplementa dade pozitivan rezultat, životinje će se smatrati oboljelima od bruceloze.
+Rezultati pretrage krvi ovaca, koza i svinja na brucelozu ne odnose se samo na pojedine životinje nego i na čitavo stado.
+U uzgojima goveda u kojima je utvrdena bruceloza, obvezan je pregled najmanje tri puta u roku tri mjeseca.
