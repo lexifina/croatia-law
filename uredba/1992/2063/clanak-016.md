@@ -1,0 +1,2 @@
+# Članak 16.
+Porezni obveznici - uvoznici duhanskih prerađevina dužni su u roku sedam dana nakon carinjenja uvezenih duhanskih prerađevina ovlaštenom djelatniku pružiti podatke o vrstama i cijenama tih prerađevina uz predočenje uvozne carinske deklaracije kao i podatke o oštećenim i neiskorištenim markicama, koje je ovlašteni djelatnik dužan unijeti u prethodno podnesen zahtjev poreznog obveznika radi kontrole i ostvarivanja prava na razliku plaćenog poreza na promet za neiskorištene i oštečene kontrolne markice.

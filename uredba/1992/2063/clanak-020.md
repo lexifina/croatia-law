@@ -1,0 +1,6 @@
+## VOĐENJE EVIDENCIJA, PLAĆANJE POREZA NA PROMET I POVRAT POREZA NA PROMET
+# Članak 20.
+Porezni obveznici dužni su za proizvode koje prodaju u carinskom području Republike Hrvatske osigurati dnevne evidencije o realizaciji duhanskih prerađevina prema vrstama i grupama proizvoda sa istim cijenama proizvoda označenih kontrolnim markicama. Evidencije moraju biti zbrojene po razdobljima u kojima se podnose zahtjevi za preuzimanje kontrolnih markica.
+Pod realizacijom u smislu stavka 1. ovog članka razumijevaju se i proizvodi stavljeni u promet u smislu članka 2. stavak 2. točke 1. do 4. ove Uredbe.
+Evidencije se moraju podudarati sa podacima iz računa o prodaji, otpremnicama. dostavnicama, tovarnim listom ili drugim izlaznim dokumentom kao i odgovarajućom dokumentacijom za proizvode iz članka 2. stavka 2. Uredbe, te inventurom za duhanske prerađevine koje nisu prodane do podnošenja zahtjeva za kontrolne markice, a koje su obilježene ranije kontrolnim markicama.
+Porezni obveznici dužni su osigurati dnevne evidencije o prodaji proizvoda izvan carinskog područja Republike Hrvatske sa priloženom izvoznom dokumentacijom i potvrdom izlaska proizvoda iz zemlje od strane carinarnice zemlje uvoznika.

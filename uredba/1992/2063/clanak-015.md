@@ -1,0 +1,2 @@
+# Članak 15.
+Porezni obveznici - proizvođaći duhanskih prerađevina dužni su prilikom podnošenja zahtjeva za preuzimanje kontrolnih markica pružiti ovlaštenom djelatniku podatke o proizvedenim količinama duhanskih prerađevina po vrstama i cijenama te o broju neiskorištenih i oštećenih kontrolnih markica, koje je ovlašteni djelatnik dužan unijeti u prethodno podneseni zahtjev poreznog obveznika radi kontrole i ostvarivanja prava na razliku plaćenog poreza na promet za neiskorištene i oštećene kontrolne markice.
