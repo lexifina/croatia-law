@@ -1,0 +1,1 @@
+Na temelju članka 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 17/93, 69/97, 33/00, 73/00, 127/00, 59/01. i 107/01), stavka 13. članka 16. Statuta Općine Belica (»Službeni glasnik Međimurske županije«, br. 5/02. i 3/03.), Općinsko vijeće Općine Belica, na svojoj 29. sjednici, održanoj 17. studenoga 2004. godine donijelo je
