@@ -1,0 +1,1 @@
+Na temelju čl. 75. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« 35/95 - pročišćeni tekst) i točke IX Odluke o načinu izračunavanja kapitala banke (»Narodne novine« br. 32/99, 101/00) guverner Hrvatske narodne banke donosi
