@@ -1,0 +1,4 @@
+# Članak 24.
+Svaka pojedina jedinica sekundarne dokumentacije označava se inventarnom oznakom, koja se sastoji od kodne oznake muzeja utvrđene u stručnom registru Muzejskoga dokumentacijskog centra u Zagrebu, oznake sekundarnog fonda i inventarnog, odnosno tekućeg broja ulaska dokumenta u fond. Između jedinica sekundarne dokumentacije i primarne muzejske dokumentacije obvezno se uspostavlja identifikacijska veza na bazi inventarnih oznaka.
+Za svaki dokumentacijski fond vodi se inventarna knjiga. Inventarna knjiga popunjava se rukom ili ispisuje iz računalne baze podataka. U oba ova slučaja ona mora biti načinjena na papiru visoke kvalitete, te sastavljena u obliku uvezane knjige, čije su stranice obilježene rednim brojevima, a koja se trajno čuva. Na knjizi mora biti naznačen naziv muzeja i sjedište.
+1. Inventarne knjige audiovizualnih fondova
