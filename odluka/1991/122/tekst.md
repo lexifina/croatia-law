@@ -1,0 +1,7 @@
+o usklađivanju novčanih naklada za tjelesno oštećenje i osnovci za određivanje tih naknada od 1. siječnja 1990.
+1. Novčane naknade za tjelesno oštećenje povećavaju se poćevši od 1. siječnja 1990. godine za 405,35%
+2. Kao osnovica za povećanje novčanih naknada za tjelesno oštećenje prema točki 1 ove odluke služi iznos novčane naknade koji je korisniku pripadao na dan 1. siječnja 1990. godine, odnosno na dan stjecanja prava, ako je to pravo stečeno poslije toga dana
+3. Osnovica za određivanje novčane naknade za tjelesno oštećenje, počevši od 1. sijećnja 1990. godine, iznosi 838,90 dinara.
+4. Usklađivanje novčanih naknada za tjelešno oštećenje prema točki 1. ove odluke obavit će Stručna službžk Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske po službenoj dužnosti i bez donošenja rješenja, uz obračun isplaćenih iznosa naknada za tjelesno oštećenje usklađenih prema Odluci o usklađivanju novčanih naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1990. godine, prema kojoj su ove naknade povećane za 277,16%.
+5. S danom stupanja na snagu ove odluke prestaje važiti Odluka o usklađivanju naknada za tjelesno oštećenje i osnovici za određivanje tih naknada od 1. siječnja 1990. godine, kojom su ove naknade povećane za 277.16%
+6. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1990. godine.
