@@ -1,0 +1,1 @@
+Na temelju članka 41. Zakona o izmjenama i dopunama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 59/01.) te članka 40. i 98. Statuta Grada Rijeke (»Službene novine Primorsko-goranske županije« broj 23/01), Gradsko vijeće Grada Rijeke, na sjednici 29. studenoga 2001. godine, donijelo je
