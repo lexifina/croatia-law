@@ -1,0 +1,2 @@
+# Članak 5.
+Ovlašćuje se ministar obrane da, u skladu s odredbom članka 3. ove uredbe, imenuje i razrješava organe upravljanja ustanova, po pribavljenom mišljenju ministarstva u čiji djelokrug ulazi djelatnost ustanove, te postavlja i razrješava rukovodno osoblje. Nadzor nad stručnim radom i zakonitošću rada ustanova iz članka 3. ove uredbe obavljaju ministarstva u čiji djelokrug ulaze djelatnosti ustanova.
