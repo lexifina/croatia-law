@@ -1,0 +1,2 @@
+# Članak 21.
+Stezaljke uklopnog sata, ako su grupirane u priključnicu, a nisu zaštićene na neki drugi način, imaju poseban poklopac koji se može osigurati žigom neovisno o poklopcu uklopnog sata. Poklopac stezaljki poklapa same stezaljke, vijke za pričvršćenje vodiča i, ako drugačije nije određeno, potrebnu dužinu vanjških vodiča i njihovu izolaciju tako da onemogućuje vanjske zahvate kojima bi se preko stezaljki moglo utjecati na rad uklopnog sata.

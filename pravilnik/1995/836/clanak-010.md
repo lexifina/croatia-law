@@ -1,0 +1,3 @@
+# Članak 10.
+Kod uklopnih satova s analognim brojčanicima smjer vrtnje brojčanika označen je strelicom, satni brojčanik (ako postoji) očitava se na najbližu minutu, a kad je to potrebno, sati na dnevnom brojčaniku i dani na tjednom brojčaniku označeni su različitim bojama. Sve oznake su neizbrisive i lako čitljive.
+Kod uklopnih satova s digitalnim prikazom prikaz treba da bude lako čitljiv. Ako se isti digitalni prikaz upotrebljava za prikazivanje različitih veličina; prikazivat će se kod ili drugi podatak koji omogućuje da se odredi svaka veličina. Trajanje pokazivanja svake veličine bit će barem 6 s.

@@ -1,0 +1,6 @@
+# Članak 12.
+Mehanički uklopni satovi pri normalnim radnim uvjetima moraju imati točnost pokazivanja bolju ili jednaku+- 30 s/24 h, odnosno u granicama +-12 s/24 h ako se mjerenje obavlja najmanje 7 dana.
+Sinkroni uklopni satovi pri normalnim radnim uvjetima moraju imati točnost pokazivanja bolju od 1 min./god., uz pretpostavku da učestalost napajanja zadržava u prosjeku nazivnu vrijednost. Nakon hoda na pogonsku rezetvu tijekom 36 sati, a pri referentnoj temperaturi, točnost pokazivanja treba da bude bolja od 180 s kad je pogonska rezerva osigurana s pomoEu opruge i bolja od l,5 s kad je pogonska rezerva osigurana pomoću baterije.
+Pri referentnoj temperaturi kvarcni uklopni satovi moraju imati točnost pokazivanja bolju od 0,5 s/dan. Nakon hoda na pogonsku rezervu tijekom 36 sati točnost pokazivanja je bolja od 1,5 s. Promjena točnosti pokazivanja s promjenom temperature je manja od 0,l s/"C u 24 sata.
+Stvarno vrijeme integracije sklopke pokazivača najveće vrijednosti ne smije se razlikovati od namještene vrijednosti za više od 1%. Ta će sklopka biti aktivna za poništavanje (reset) pokazi
+vača najveće vrijednosti tijekom vremena koje je za 0,8% veće iza 1,2% manje od vremena integracije.
