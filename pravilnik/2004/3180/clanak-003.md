@@ -1,0 +1,2 @@
+# Članak 3.
+Priprema vlagomjera za ovjeravanje, u smislu ovoga pravilnika, podrazumijeva pregled, popravak vlagomjera (servisiranje) po potrebi, pripremu vlagomjera za ovjeravanje (čišćenje i slični poslovi), pripremu uređaja za ispitivanje vlagomjera (etalon i druga mjerna oprema), ispitivanje vlagomjera, tj. provjeru mjeriteljskih značajki vlagomjera te pisanje izvješća o ispitivanju vlagomjera.
