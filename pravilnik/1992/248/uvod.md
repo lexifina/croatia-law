@@ -1,0 +1,1 @@
+Na temelju članka 30. i članka 105. stavak 5. i 6. Zakona dobit plaćaju u paušalnom godišnjem iznosu dužne dostavo neposrednim porezima ("Narodne novine", br. 19/90, 28/90, 14/91 i 73/91) ministar financija donosi
