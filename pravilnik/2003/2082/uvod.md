@@ -1,0 +1,1 @@
+Na temelju članka 128. stavak 1. Zakona o policiji (»Narodne novine« br. 129/00), a u svezi s člankom 24f., stavak 3. Zakona o unutarnjim poslovima (»Narodne novine«, broj: 29/91. - pročišćeni tekst, 73/91., 19/92., 33/92., 76/94., 161/98., 128/99., 29/00. i 53/00.), ministar unutarnjih poslova donosi

@@ -1,0 +1,4 @@
+# Članak 18.
+Sve pravne osobe, znanstvene i stručne institucije, tijela jedinica lokalne samouprave, područne (regionalne) samouprave i tijela državne uprave dužni su sudjelovati u izradi Procjene ugroženosti na način da nositelju izrade Procjene ugroženosti dostave sve tražene podatke iz područja svoje nadležnosti.
+Pravne osobe imaju obvezu dostaviti nositelju izrade Procjene ugroženosti vrstu i količinu opasnih tvari kojima raspolažu, kao i simulaciju mogućih posljedica uslijed akcidenta opasnom tvari, bez obzira da li rečeni podaci predstavljaju poslovnu tajnu. Dostavljene podatke nositelj izrade Procjene ugroženosti može koristiti samo za potrebe tog dokumenta uz poštivanje stupnja tajnosti.
+Podaci iz stavka 1. ovog članka dostavljaju se u pisanom i u elektronskom obliku (na disketi ili CD-u), najkasnije u roku 30 dana.
