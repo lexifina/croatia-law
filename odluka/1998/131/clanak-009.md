@@ -1,0 +1,2 @@
+# Članak 9.
+Na dan stupanja na snagu ove odluke prestaje vrijediti Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni kod stranih i međunarodnih organizacija i ustanova, stranih konzularnih i diplomatskih predstavništava ili u osobnoj službi stranih državljana ("Narodne novine" broj 108/96).
