@@ -1,0 +1,1 @@
+Odluka o osnovnicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku z
