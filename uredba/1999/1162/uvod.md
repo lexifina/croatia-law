@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o javnim cestama (»Narodne novine«, br. 100/96 i 76/98) i članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 17. lipnja 1999. godine, donijela
