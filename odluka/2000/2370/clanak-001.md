@@ -1,0 +1,3 @@
+## o posebnim standardima i mjerilima njihove primjene u provoĐenju primarne zdravstvene zaŠtite
+# Članak 1.
+Ovom Odlukom utvrđuju se posebni standardi i mjerila za njihovu primjenu, a u svezi s provođenjem primarne zdravstvene zaštite na područjima gdje postoje veća odstupanja u organiziranju zdravstvene zaštite zbog nedostatka Pravilnikom o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 2001. godinu propisanog broja osiguranih osoba po timu, odnosno broja timova iz razloga zemljopisnih, odnosno demografskih obilježja, prometne povezanosti/izoliranosti, gustoće naseljenosti i drugih posebnih okolnosti pod kojima se provodi zdravstvena zaštita.
