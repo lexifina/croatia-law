@@ -1,0 +1,9 @@
+## Elementi za izraČun primjerene plaĆe u ljekarniČkoj djelatnosti
+# Članak 84.
+U ljekarničkoj djelatnosti poslodavac utvrđuje iznos plaće/radnik primjenom mjerila i kriterija iz članka 76. i 77. Kolektivnog ugovora (kalkulativni iznos plaće).
+Plaću iz prethodnog stavka poslodavac utvrđuje - planira za porezno razdoblje, polazeći od količine i vrste usluga mjereno parametrom broja bodova, koji mora izvršiti radnik, prema kadrovskom i vremenskom normativu za usluge iz tzv. »Plave knjige«/godina i to: od 28.620 bodova VSS radnik, specijalist, 19.080 bodova VSS radnik, 13.928 bodova VŠS radnik i 12.020 bodova SSS radnik.
+Prosječna vrijednost boda iz prethodnog stavka utvrđuje se tako da se od ukupnog prometa/ljekarna, odbiju troškovi kupnje lijekova, medicinskih proizvoda i drugih roba s kojima trguje ljekarna, po nabavnim cijenama sa svim zavisnim troškovima nabavke, a potom dobiveni iznos podijeli s planiranim brojem bodova/godina ili kraće razdoblje, iz stavka 1. ovog članka i to za ukupan broj zdravstvenih radnika/poslodavac, prema odrađenim satima rada.
+Dobivenu prosječnu vrijednost boda poslodavac uspoređuje s iznosom bazne vrijednosti boda za usporedbu, a to je iznos od 6,10 kn/bod, kako je propisano općim aktom HZZO-a, računajući na dan 1. 11. 2003. g.
+Kalkulativni iznos plaće radnika, poslodavac, koji obavlja ljekarničku djelatnost, množi s koeficijentom odnosa prosječnog iznosa boda iz stavka 3. ovog članka i baznog iznosa za usporedbu, iz prethodnog stavka. Dobiveni iznos plaće za obračun glede isplate korigira iznos kalkulativne plaće/radnik na više ili manje.
+Iznos iz prethodnog stavka u obračunu za isplatu za radnika poslodavca predstavlja iznos primjerene plaće vrsti rada radnika, koji obavlja za poslodavca, u odnosu na ekonomsku snagu konkretnog poslodavca.
+Elementi za izraČun primjerene plaĆe za medicinsku sestru na radu kod poslodavca koji obavlja poslove njege i rehabilitacije bolesnika u kuĆi

@@ -1,0 +1,4 @@
+## Isplata najniŽe plaĆe
+# Članak 111.
+Za vrijeme zastoja u poslu ili bilo kojih poremećaja, koji utječu na obim poslovanja poslodavca, što se odražava na pad prometa poslodavca, pa poslodavac ne može pokriti zavisne troškove poslovanja/mjesec ili dulje razdoblje ili zbog velikog rasta troškova poslovanja, koje poslodavac nije pokrio/mogao pokriti većim odgovarajućim prihodom, rasta troškova, koji su uzrokovani drugim razlozima objektivne prirode ili subjektivnim razlozima bilo poslodavca ili samog radnika, radnik ima pravo na plaću obračunatu primjenom mjerila i kriterija iz ovog Kolektivnog ugovora, koja može biti i manja od plaće utvrđene za radnika prethodnim rješenjem i to samo za razdoblje zastoja u poslu, te ne može biti manja od najniže plaće.
+Najniža plaća, u smislu odredbi prethodnog stavka je plaća koja je jednaka iznosu najniže osnovice za obračun obveznih doprinosa i jednaka je za sve radnike poslodavca.

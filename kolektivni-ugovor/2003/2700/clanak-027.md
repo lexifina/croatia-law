@@ -1,0 +1,4 @@
+## IzvrŠenje poslova prema ugovoru o djelu, kao zamjena za rad prema ugovoru o radu
+# Članak 27.
+Ako poslodavac iskaže i dokaže namjeru zasnivanja radnog odnosa, pa utvrdi da nitko s traženim uvjetima/radno mjesto nije dostavio ponudu ili da je ponudu dostavila osoba koja ne ispunjava tražene uvjete, poslodavac može obavljanje poslova radnog mjesta iz prijave potrebe za radnikom, oglasa ili natječaja, povjeriti radniku koji je zaposlen kod drugog poslodavca ili umirovljeniku i to prema ugovoru o djelu.
+Namjeru zasnivanja radnog odnosa prema ugovoru o radu s nezaposlenom ili djelomično zaposlenom osobom traženih uvjeta poslodavac ponavlja - svakih 6 mjeseci, kako bi potrebu za radom radnika konzumirao zaključenim ugovorom o radu, umjesto s ugovorom o djelu, kako je navedeno u prethodnom stavku.

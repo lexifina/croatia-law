@@ -1,0 +1,2 @@
+# Članak 201.
+Poslodavac mora primijeniti odgovarajuće mjere da radnici i njihovi predstavnici (povjerenik radnika za zaštitu na radu) budu obaviješteni o opasnostima za sigurnost zdravlja, o zaštitnim mjerama općenito i na radnom mjestu i o mjerama koje poslodavac poduzima da bi radnici bili pravodobno obaviješteni o ozbiljnim i neizbježivim opasnostima i potrebi hitnog napuštanja radnog mjesta u takvim slučajevima.

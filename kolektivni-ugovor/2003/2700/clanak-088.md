@@ -1,0 +1,3 @@
+## PlaĆa radnika na radu kod poslodavca koji nije ukljuČen u mreŽu osnovne zdravstvene djelatnosti
+# Članak 88.
+Poslodavac, koji nije uključen u mrežu osnovne zdravstvene djelatnosti, tj. koji nije ugovorni zdravstveni radnik privatne prakse (fizička ili pravna osoba) obračunava plaću radniku prema mjerilima i kriterijima 76. i 77. ovoga Kolektivnog ugovora, a njenu visinu za obračun u isplati prilagođava svojoj ekonomskoj snazi primjenom istih ili sličnih mjerila, kako je propisano ovim Kolektivnim ugovorom, za ugovornoga zdravstvenog radnika privatne prakse, glede izračuna primjerene plaće u odnosu na kalkulativni iznos, prema djelatnosti poslodavca.
