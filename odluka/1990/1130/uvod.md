@@ -1,0 +1,1 @@
+Na temelju člana 94. i 101. Zakona o udruživarnju poljoprivrednika ("Narodne novine", br 40/78.) i člana 80. Statuta Zadružnog saveza Hrvatske, a na prijedlog Izvršnog odbora Zadružnog saveza Hrvatske, Skupština Zadružnog saveza Hrvatske na 5 sjednici održanoj 12. prosinca 1990. donosi
