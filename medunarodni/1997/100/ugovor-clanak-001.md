@@ -1,0 +1,2 @@
+# Članak 1.
+Republika Hrvatska potvrđuje, u skladu sa svojim Ustavnim zakonom o ljudskim pravima i slobodama i o pravima etničkih i nacionalnih zajednica ili manjina u Republici Hrvatskoj, od 4. prosinca 1991., priznavanje autohtonog karaktera i jedinstva talijanske manjine i njezinih osobitosti. U tom kontekstu Republika Hrvatska poduzet će potrebne korake za zaštitu talijanske manjine u skladu s navedenim načelima.

@@ -1,0 +1,2 @@
+# Članak 8.
+Bez ugrožavanja provedbe od Stranaka svih odredbi sadržanih u ovom Ugovoru, a uzimajući u obzir odredbe sadržane u Statutu regije Molise, Talijanska Republika obvezuje se osigurati autohtonoj hrvatskoj manjini na području tradicionalne naseljenosti gdje je njena nazočnost utvrđena, očuvanje i slobodno izražavanje njezinoga kulturnog identiteta i nasljeđa, upotrebu materinjeg jezika u privatnom i javnom životu, te osnivanje i održavanje vlastitih kulturnih ustanova i udruga.

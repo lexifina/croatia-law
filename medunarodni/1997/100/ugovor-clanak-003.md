@@ -1,0 +1,2 @@
+# Članak 3.
+Uzimajući u obzir odgovarajuće međunarodne dokumente koji su spomenuti u preambuli, Republika Hrvatska obvezuje se osigurati na najvišoj mogućnoj razini jednakost postupka u svom pravnom poretku prema talijanskoj manjini unutar svog područja; ta se jednakost može postići putem postupnog proširenja postupka zajamčenog talijanskoj manjini u bivšoj zoni B na području Republike Hrvatske u kojima tradicionalno obitava talijanska manjina i njezini pripadnici.
