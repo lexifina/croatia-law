@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti i način korištenja sredstava ostvarenih od prodaje, zakupa i koncesije poljoprivrednog zemljišta u vlasništvu države (u daljnjem tekstu: sredstva), koja su prihod proračuna jedinice lokalne i područne (regionalne) samouprave na čijem području se poljoprivredno zemljište nalazi sukladno odredbama članka 27. stavak 6., članka 36. i članka 46. stavak 6. Zakona o poljoprivrednom zemljištu.

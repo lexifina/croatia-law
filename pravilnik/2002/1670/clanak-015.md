@@ -1,0 +1,5 @@
+# Članak 15.
+Korisnik kredita dužan je odobrena sredstva koristiti isključivo za namjenu za koju su odobrena, a za korištenje kredita dostavljati izvorne dokumente.
+Kontrolu namjenskog korištenja kredita obavlja Ministarstvo poljoprivrede i šumarstva (poljoprivredna inspekcija u Ministarstvu) i Uredi državne uprave u županijama, Službe za gospodarstvo odnosno upravno tijelo Grada Zagreba nadležni za poslove poljoprivredne inspekcije.
+U slučaju nenamjenskog korištenja sredstava i prilaganja neistinite dokumentacije u svrhu odobrenja i korištenja sredstava tijelo jedinice područne (regionalne) samouprave i jedinice lokalne samouprave nadležno za poslove poljoprivrede i ovlaštena Poslovna banka najkasnije u roku od petnaest dana od dana saznanja za nenamjensko korištenje ili neistinitu dokumentaciju tražit će povrat cjelokupnog iznosa kredita sa sporednim potraživanjima i zateznim kamatama u visini zakonom propisanih.
+Kredit se otkazuje pismenim putem uz otkazni rok od 30 dana, računajući od dana dostave otkaza.

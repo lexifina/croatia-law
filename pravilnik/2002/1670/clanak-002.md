@@ -1,0 +1,4 @@
+# Članak 2.
+Jedinice lokalne i područne (regionalne) samouprave sredstva iz članka 1. ovog Pravilnika mogu koristiti za financiranje programa uređenja zemljišta i ruralne infrastrukture sukladno članku 3. ovog Pravilnika i/ili za kreditiranje sukladno članku 4. ovog Pravilnika.
+Sredstva iz članka 1. ovog Pravilnika, jedinice lokalne i područne (regionalne) samouprave mogu koristiti samostalno ili ih međusobno udruživati.
+Pravo korištenja sredstava namijenjenih kreditiranju imaju fizičke i pravne osobe vlasnici i korisnici poljoprivrednog zemljišta i gospodarskih objekata koji se bave poljoprivrednom proizvodnjom (u daljem tekstu: korisnici sredstava) sa sjedištem odnosno prebivalištem u Republici Hrvatskoj, a ostvaruju ga u jedinici lokalne i područne (regionalne) samouprave u kojoj se to poljoprivredno zemljište i gospodarski objekti nalaze.
