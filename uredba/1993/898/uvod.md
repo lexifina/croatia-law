@@ -1,0 +1,1 @@
+Na temelju članka 1 Zakona o ovlasti Republike Hrvatske da donosi uredbe kojima se odeđuju pojedina pitanja iz djelokruga Sabora Republike Hrvatske ("Narodne nikvine"", broj 74/92), Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 1993. godine donijela
