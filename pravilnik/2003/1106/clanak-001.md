@@ -1,0 +1,4 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog ŽeljezniČkog graniČnog prijelaza I. kategorije Šapjane
+# Članak 1.
+Stalni međunarodni granični prijelaz za željeznički promet I. kategorije Šapjane nalazi se na žaljezničkom kolodvoru Šapjane, Općina Matulji, na k.č. 47/56, 47/57 i 47/58 k.o. Šapjane, 2,45 km od granične crte u dubini teritorija RH, a obuhvaća otvoreni prostor željezničkog kolodvora uz željezničku prugu u ukupnoj dužini od 670 m i širini od 40 m, od čega se 295 m proteže od zgrade kolodvora južno u pravcu Rijeke i 375 m sjeverno u pravcu granične crte, na kojem prostoru se nalazi 5 pružnih kolosijeka, skladišni objekat HŽ-a s prostorijama granične policije i carine, glavna zgrada kolodvora s prostorijama HŽ-a, stambeni objekat HŽ-a, sanitarni objekat te 6 kontejnera za pregledavače vagona.
+Ukupna površina graničnog prijelaza je 26 800 m2.
