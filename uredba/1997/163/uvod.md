@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. Zakona o vinu ("Narodne novine", broj 34/95) i članka 12. Zakona o ustanovama ("Narodne novine", broj 76/93) Vlada Republike Hrvatske je na sjednici održanoj 30. siječnja 1997. godine donijela
