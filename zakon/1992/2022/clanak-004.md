@@ -1,0 +1,2 @@
+# Članak 4.
+Zahtjev za zaštitu zakonitosti zaprimljen u Upravnom sudu Republike Hrvatske do dana stupanja na snagu ovoga Zakona dostavit će se na postupanje Vrhovnom sudu Republike Hrvatske. U slučaju da je Upravni sud Republike Hrvatske odluku donio, Javno tužilaštvo Hrvatske može protiv te odluke podnijeti zahtjev za zaštitu zakonitosti Vrhovnom sudu Republike Hrvatske u roku od 30 dana od dana dostave te odluke Javnom tužilaštvu Hrvatske.
