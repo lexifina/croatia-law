@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske na sjednici održanoj dana 5. srpnja 1994. godine u sastavu predsjednik Suda Jadranko Crnić te suci Zdravko Bartovčak. dr. Nikola Filipović, Ante Jelavić. mr. Vojislav Kučeković, Ivan Marijan Severinac i Mladen Žuvela, rješavajući o prijedlogu Ramov mr. Drage, odvjetnika iz Zagreba, za ocjenu ustavnosti zakona, donio je
