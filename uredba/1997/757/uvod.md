@@ -1,0 +1,1 @@
+Na temelju članka 12. Zakona o ustanovama ("Narodne novine", broj 76/93) te članka 34. stavka 1., a u svezi sa člankom 93. Zakona o zdravstvenoj zaštiti ("Narodne novine", broj 1/97 - pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 12. svibnja 1997. godine donijela
