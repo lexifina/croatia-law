@@ -1,0 +1,2 @@
+# Članak 3.
+Administrativni biljezi izgledaju ovako: U srednjem dijelu administrativnog biljega je grb Republike Hrvatske uokviren stiliziranom rozetom, a ispod grba je oznaka vrijednosti administrativnog biljega i kratica za vrijednost. U gornjem dijelu administrativnog biljega je većim slovima naziv "Republika Hrvatska", lspod oznake vrijednosti administrativnog biljega je tekst "administrativni biljeg".

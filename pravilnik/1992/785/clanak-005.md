@@ -1,0 +1,2 @@
+# Članak 5.
+Administrativne biljege tiska, pušta u tečaj i distribuira Narodna banka Hrvatske. Za pokriće troškova puštanja u tečaj i distribuciju administrativnih biljega Narodnoj banci Hrvatske pripada naknada. Ministarstvo financija Republike Hrvatske sklopit će ugovor s Narodnom bankom Hrvatske kojim će se regulirati tiskanje, puštanje u tečaj i distribucija administrativnih biljega i naknada iz stavka 2 ovog članka.
