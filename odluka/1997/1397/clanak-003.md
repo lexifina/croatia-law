@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 8. stavci 1. u točki 1. iznos od: "8,00 kn", zamjenjuje se iznosom od: "10,00 kn", u točki 2. iznos od: "4,00 kn", zamjenjuje se iznosom od: "5,00 kn", u točki 3. pod a) iznos od: "8,00 kn", zamjenjuje se iznosom od: "10,00 kn", pod c) iznos od: "80,00 kn", zamjenjuje se iznosom od: "84,00 kn", pod d) iznos od: "115,00 kn", zamjenjuje se iznosom od: "120,00 kn" i u točki 4. iznos od: "1,00 kn", zamjenjuje se iznosom od: "2,00 kn".
