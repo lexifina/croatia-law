@@ -1,0 +1,2 @@
+# Članak 10.
+Predmeti od plemenitih kovina, koji su sastavljeni od dijelova izrađenih od različitih plemenitih kovina, ispituju se na taj način da se svaki dio ispituje posebno. Pod predmetima izrađenim od različitih plemenitih kovina razumijevaju se takvi predmeti, koji su čvrsto spojeni od dijelova različitih plemenitih kovina ili koji su čvrsto spojeni od dijelova iste plemenite kovine ali različitog stupnja čistoće.
