@@ -1,0 +1,2 @@
+# Članak 33.
+Tijela državne uprave iz članka 1. stavka 2. ove Uredbe koja imaju tehnološku, organizacijsku i kadrovsku osnovicu potrebnu za djelovanje sustava upravljanja dokumentima u elektroničkom obliku kako za svoje potrebe, za suradnju s drugim tijelima državne uprave, tako i u poslovanju s gospodarstvom i građanima, mogu nakon roka iz članka 32. ove Uredbe pristupiti pojedinačnom ugovaranju poslova certificiranja elektroničkih potpisa s nositeljem poslova certificiranja za tijela državne uprave.

@@ -1,0 +1,14 @@
+## Značenje pojedinih izraza
+# Članak 3.
+Pojedini izrazi koji se određuju ovom Uredbom imaju sljedeće značenje:
+1. Elektronički potpis - znači napredan elektronički potpis utvrđen Zakonom o elektroničkom potpisu koji pouzdano jamči identitet potpisnika i udovoljava zahtjevima sadržanim u članku 4. Zakona o elektroničkom potpisu;
+2. Potpisnik - znači fizičku osobu koja je zaposlenik u tijelu državne uprave i koja posjeduje sredstvo za izradu naprednog elektroničkog potpisa kojim se elektronički potpisuje i koja djeluje na temelju ovlaštenja u svoje ime ili u ime fizičke ili pravne osobe koju ovlašteno predstavlja;
+3. Korisnik elektroničkog potpisa - zaposlenik u tijelu državne uprave ili tijelo državne uprave koje prima i koristi elektronički dokument potpisan elektroničkim potpisom;
+4. Elektronički dokument - cjelovit skup podataka koji su elektronički generirani (izrađeni pomoću računala i drugih elektroničkih uređaja), poslani, primljeni ili sačuvani na elektroničkom, magnetnom, optičkom ili drugom mediju. Sadržaj elektroničkog dokumenta uključuje sve oblike pisanog teksta, podatke, slike i crteže, karte, zvuk, glazbu, govor;
+5. Podaci za izradu elektroničkog potpisa - znače jedinstvene podatke, poput kodova ili privatnih kriptografskih ključeva, koje potpisnik koristi za izradu elektroničkog potpisa;
+6. Sredstvo za izradu elektroničkog potpisa - znači sredstvo za izradu naprednog elektroničkog potpisa utvrđenog Zakonom o elektroničkom potpisu i koje udovoljava zahtjevima iz članka 9. Zakona o elektroničkom potpisu;
+7. Certifikat - znači kvalificirani certifikat utvrđen Zakonom o elektroničkom potpisu i koji udovoljava zahtjevima iz članka 11. Zakona o elektroničkom potpisu. Izdaje ga davatelj usluga izdavanja kvalificiranih certifikata koji ispunjava uvjete iz članka 17. Zakona o elektroničkom potpisu;
+8. Sustav certificiranja elektroničkih potpisa - znači skup radnji, osoba, opreme i sadržaja nužnih za provedbu poslova certificiranja elektroničkih potpisa;
+9. Poslovi certificiranja - uključuju radnje pridružene pri oblikovanju tehničko-tehnološke osnovice izrade i uporabe elektroničkih potpisa u tijelima državne uprave, uporabu elektroničkih potpisa u poslovima koji se temelje na izradi, prometovanju i čuvanju dokumenata u elektroničkom obliku, te svih onih radnji kojima se jednoznačno označavaju potpisnici i provode postupci ovjeravanja valjanosti elektroničkih potpisa;
+10. Nositelj poslova certificiranja - znači davatelja usluga izdavanja kvalificiranih certifikata koji ispunjava uvjete iz članaka 12. i 17. Zakona o elektroničkom potpisu;
+11. Informacijski sustav - elektronički sustav izrade, razmjene i pohranjivanja dokumenata u elektroničkom obliku koji su proizvedeni ili primljeni u tijelu državne uprave kao sastavni dio poslovanja tog tijela.
