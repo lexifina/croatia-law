@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2. Zakona o plaćama službenika i namještenika u javnim službama (»Narodne novine«, broj 74/94), Vlada Republike Hrvatske je na sjednici održanoj 20. srpnja 2000. godine donijela
