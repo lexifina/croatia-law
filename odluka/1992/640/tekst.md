@@ -1,0 +1,7 @@
+o usklađivanju mirovina od 1. veljače 1992.
+1. Mirovine korisnika mirovine koji su pravo na mirovinu ostvarili do 31. prosinca 1991, i koje su povećane za 5,50% od 1. sijećnja 1992. prema odluci o usklađivanju mirovina od 1. sijećnja 1992. ("Narodne novine", broj 16/92) povećavaju se od 1. veljače 1992. za 14.58%.
+2. Mirovine korisnika mirovine koji su pravo na mirovinu ostvarili 1. sijećnja 1992. ili poslije toga dana, i koje su povećane za 17,51% od 1. sijećnja 1992. prema odluci o uskladivanju mirovina od 1 sijećnja 1992. ("Narodne novine", broj 16/92) povećavaju se od 1. veljače 1992. za 14,58%.
+3. Mirovine korisnika mirovine koji su pravo na mirovinu ostvarili 1. veljače 1992. ili poslije toga dana i koje nisu povećane za 17,51% prema odluci o usklađivanju mirovina od 1. sijećnja 1992. ("Narodne novine", broj 16/92) povećavaju se od 1. veljače 1992. odnosno od dana ostvarivanja prava za ukupno 34,643%.
+4. Kao osnovica za povećanje mirovine prema toč.1. i 2. ove odluke, uzima se mirovina koja je korisniku pripadala na dan 1. veljače 1992., a kao osnovice za povećanje mirovine prema točki 3. uzima se mirovina koja je korisniku pripadala na dan 1. veljače 1992. odnosno na dan ostvarivanja prava.
+5. Usklađivanje mirovina, prema ovoj odluci, obavit će se po službenoj dužnosti, bez donošenja rješenja.
+6. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama". a primjenjuje se od 1. veljače 1992.
