@@ -1,0 +1,3 @@
+# Članak 39.
+Odsjek pravnih poslova priprema nacrte prijedloga zakona iz područja civilnog zrakoplovstva, priprema podzakonske akte iz područja civilnog zrakoplovstva, surađuje i koordinira pri izradi zrakoplovnih propisa s vanjskim subjektima, daje primjedbe, prijedloge i mišljenja na prijedloge propisa drugih tijela državne uprave, surađuje s ostalim tijelima državne uprave, provodi upravni nadzor, surađuje s pravnim subjektima čija je djelatnost vezana za civilno zrakoplovstvo, daje pravna mišljenja i tumačenja o pitanjima iz područja civilnog zrakoplovstva.
+b) Odsjek međunarodnih poslova civilnog zrakoplovstva

@@ -1,0 +1,3 @@
+# Članak 70.
+Odsjek za plan i proračun izrađuje prijedlog državnog proračuna i njegovo izvršavanje, izrađuje financijske planove i kontrolira trošenje proračunskih sredstava sukladno namjeni i planiranoj dinamici, podnosi zahtjeve za isplatu proračunskih sredstava prema Ministarstvu financija, kontrolira trošenje transferiranih sredstava kod njihovih korisnika, kontrolira naplatu i korištenje sredstava od vlastitih prihoda, sudjeluje u izradi programa kapitalnih ulaganja u oblasti prometa i veza, vrši financijsku i računovodstvenu kontrolu, analizira financijske pokazatelje, te obavlja druge poslove koje odredi ministar.
+b) Odsjek za financije, računovodstvo i obračun plaća

@@ -1,0 +1,10 @@
+## 4. UPRAVA ZRAČNOG PROMETA
+# Članak 37.
+Uprava zračnog prometa obavlja upravne i druge stručne poslove koji se odnose na zračni promet, priprema nacrte prijedloga zakonskih i podzakonskih akata za djelatnosti civilnog zrakoplovstva, predlaže prometnu politiku razvoja civilnog zrakoplovstva i osigurava provođenje utvrđene politike u Republici Hrvatskoj, obavlja upravni nadzor u djelatnostima civilnog zrakoplovstva, prati i analizira stanje i poslovanje u djelatnostima zračnog prometa te provodi tekuću gospodarsku politiku, priprema prijedloge osnova za vođenje i sklapanje međunarodnih ugovora, te sudjeluje na međunarodnim skupovima, sudjeluje u međudržavnim pregovorima o problematici civilnog zrakoplovstva, izučava gospodarska, komercijalna i pravna pitanja iz oblasti međunarodnih ugovora i predlaganje nacionalne prometne politike, priprema podloge i predlaže stručne programe osposobljavanja zrakoplovnog i ostalog stručnog osoblja u civilnom zrakoplovstvu, izdaje dozvole i ovlaštenja za obavljanje stručnih poslova zrakoplovnom i ostalom stručnom osoblju u civilnom zrakoplovstvu, izdaje potvrde (certifikate) za homologaciju zrakoplova i opreme domaće ili strane proizvodnje, obavlja osnovne, redovne i izvanredne tehničke preglede zrakoplova i opreme u civilnom zrakoplovstvu, izdaje certifikate o plovidbenosti zrakoplovima i opremi za njihovu civilnu upotrebu kao i potvrde o upisu u registar zrakoplova, vodi registar zrakoplova, zrakoplovnog osoblja i aerodroma Republike Hrvatske, provodi i osigurava primjenu zakona i ostalih propisa u civilnom zrakoplovstvu, sudjeluje u radu komisije za tehnički pregled aerodroma.
+Za obavljanje poslova Uprave zračnog prometa ustrojavaju se sljedeći odjeli:
+1. Odjel pravnih i međunarodnih poslova civilnog zrakoplovstva:
+2. Odjel zračnog prometa i letačkih standarda
+3. Odjel aerodroma i zaštite zračnog prometa
+4. Odjel plovidbenosti i registra
+5. Odjel licenciranja zrakoplovnog osoblja.
+1. Odjel pravnih i međunarodnih poslova civilnog zrakoplovstva

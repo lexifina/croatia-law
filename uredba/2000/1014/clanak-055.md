@@ -1,0 +1,2 @@
+# Članak 55.
+Odsjek sigurnosti unutarnje plovidbe obavlja nadzor stanja brodova, čamaca i drugih plovila te utvrđuje sposobnost istih za plovidbu i izdaje propisane brodske knjige, isprave i dozvole za plovidbu, poslove traganja i spašavanja ljudskih života i imovine na unutarnjim plovnim putevima, vodi postupke plovidbenih nezgoda, uviđaj, isljeđivanje i odobravanje plovidbe, kontrolira minimalni broj posade i njihove kvalifikacije, kontrolira ukrcaj i iskrcaj osoba i tereta i prijevoznih isprava, utvrđuje sposobnosti čamaca za plovidbu.

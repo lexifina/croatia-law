@@ -1,0 +1,2 @@
+# Članak 94.
+Odsjek tehničkih i pomoćnih poslova održava i upravlja klima postrojenjem i kotlovničarskim postrojenjem, obavlja vodoinstalaterske, bravarske, stolarske, staklarske, električarske, poslove kućne telefonije, održavanja kućnih dizala kao i ostalih uređaja i opreme koja se koristi u kuhinji, rashladnim komorama, restoranu, čajnim kuhinjama, protupožarnim sredstvima i opremi tehničke zaštite te poslove održavanja čistoće u zgradi i pripadajućem okolišu.

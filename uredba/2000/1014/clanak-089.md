@@ -1,0 +1,3 @@
+# Članak 89.
+Odsjek voznog parka obavlja vozačke poslove, poslove u svezi održavanja službenih automobila i opreme, sukladno uvjetima njihove eksploatacije, namjene i tehničkim uputstvima proizvođača, vodi propisane očevidnike, prati stanje, analizira, elaborira i predlaže poduzimanje mjera da službeni automobili po količini i kvaliteti mogu udovoljiti zahtjevima Ministarstva, inicira donošenje planova korištenja automobila i koordinira izvršenje toga plana, obavlja uviđaje prometnih nezgoda i priprema odštetne zahtjeve, te druge poslove koji proizlaze iz upravljanja i korištenja službenih automobila ovog Ministarstva.
+4. Odjel za provedbu obrambeno-sigurnosnih mjera

@@ -1,0 +1,3 @@
+# Članak 43.
+Odsjek aerodroma razvija standarde, propise, procedure za projektiranje i građenje aerodroma, sudjeluje u donošenju plana razvoja zračnog prometa i aerodroma, izdaje certifikate aerodroma, odobrava programe i projekte na državnoj razini, prati standardizaciju opreme, provodi državnu politiku na području aerodroma, osigurava da međunarodni ugovori odgovaraju državnoj politici aerodroma, vodi registar aerodroma, prati stanje i cijene aerodromskih i drugih pristojbi, priprema i usklađuje podloge za utvrđivanje otvorenosti aerodroma Republike Hrvatske.
+b) Odsjek zaštite zračnog prometa

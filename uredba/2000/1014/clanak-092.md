@@ -1,0 +1,3 @@
+# Članak 92.
+Odsjek zaštite imovine i osoba obavlja poslove tjelesne zaštite neposrednim čuvanjem i osiguranjem imovine i osoba poradi sprečavanja i otkrivanja štetnih pojava i protupravnih radnji koje umanjuju vrijednost imovine koja se štiti, odnosno koje narušavaju dostojanstvo osoba ili ugrožavaju tjelesnu nepovredivost štićenih osoba kao i poslove tehničke zaštite imovine i osoba stvaranjem tehničkih uvjeta za sprečavanje protupravnih radnji usmjerenih prema štićenoj imovini i štićenim osobama, poslove zaštite od požara, poslove nadzora ulaska osoba, robe i prometala u štićeni prostor oko zgrade te poslove održavanja reda i mira u službenim prostorijama.
+b) Odsjek društvene prehrane

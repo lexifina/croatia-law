@@ -1,0 +1,3 @@
+# Članak 17.
+Odjel upravno-pravnih poslova priprema nacrte prijedloga zakona iz područja cestovnog prometa i javnih cesta, izrađuje podzakonske akte iz područja cestovnog prometa i javnih cesta, vodi drugostupanjski upravni postupak iz nadležnosti Uprave, provodi upravni nadzor, obavlja stručno-pravne poslove za rad Povjerenstva za žalbe, daje pravna objašnjenja, mišljenja i tumačenje o svim pitanjima iz nadležnosti Uprave, sudjeluje u povjerenstvima za izradu propisa, daje mišljenje u svezi propisa drugih tijela državne uprave, obavlja i druge poslove koji proizlaze iz prirode posla odnosno naloga ministra, a odnose se na cestovni promet i javne ceste.
+2. Odjel za cestovni prijevoz

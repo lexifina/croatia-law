@@ -1,0 +1,2 @@
+# Članak 78.
+Odsjek zrakoplovnih prekršaja priprema predmete za odlučivanje i rad Povjerenstva za prekršaje u zračnom prometu, obavlja administrativne i stručne poslove za Povjerenstvo za prekršaje u zračnom prometu, sudjeluje u radu Povjerenstva za prekršaje u zračnom prometu, priprema rješenja o prekršajima, poduzima radnje u ponovljenom postupku naložene od drugostupanjskog tijela, analizira i obrađuje problematiku i statistiku zrakoplovnih prekršaja, izradba informacija iz područja poslova Odsjeka.

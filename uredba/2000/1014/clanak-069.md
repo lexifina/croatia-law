@@ -1,0 +1,6 @@
+# Članak 69.
+Odjel za financije, plan i proračun izrađuje prijedlog državnog proračuna za Ministarstvo i proračunske korisnike u nadležnosti Ministarstva, izvršava proračun za Ministarstvo i proračunske korisnike u nadležnosti Ministarstva, vrši financijsku i računovodstvenu kontrolu te prati i analizira trošenje proračunskih sredstava, izrađuje financijske planove i kontrolira trošenje proračunskih sredstava sukladno tim planovima, sudjeluje u izradi programa kapitalnih ulaganja u oblasti prometa i veza, kontrolira korištenje transferiranih proračunskih sredstava kod njihovih korisnika, podnosi zahtjeve za isplatu prema Ministarstvu financija, kontrolira naplatu i korištenje sredstava od vlastitih prihoda, obavlja računovodstveno-financijske poslove, ustrojava i vodi zakonom propisane poslovne knjige te evidentira sve poslovne promjene, izrađuje tromjesečna, polugodišnja i godišnja financijska izvješća, obavlja poslove platnog prometa i blagajničke poslove, vrši obračun i isplatu plaća i naknada za plaće te ostalih naknada troškova za zaposlene, te druge poslove koje odredi ministar.
+Za obavljanje poslova u Odjelu za financije, plan i proračun ustrojavaju se sljedeći odsjeci:
+a) Odsjek za plan i proračun
+b) Odsjek za financije, računovodstvo i obračun plaća.
+a) Odsjek za plan i proračun

@@ -1,0 +1,2 @@
+# Članak 58.
+Odjel telekomunikacija prati stanje u području telekomunikacija, izrađuje nacrt općih ciljeva za pružanje javne govorne usluge, te prijedlog izvješća o ostvarivanju ciljeva za pružanje javne govorne usluge, daje prijedlog za uređivanje razine kakvoće i cijene osnovnih telekomunikacijskih usluga, kao i prijedlog za utvrđivanje ograničenja u uporabi radijskih frekvencija, te obavlja upravni nadzor nad Hrvatskim zavodom za telekomunikacije.

@@ -1,0 +1,3 @@
+# Članak 72.
+Odjel za nabavu planira nabavke sukladno osiguranim financijskim sredstvima u državnom proračunu i financijskom planu, sudjeluje u radu povjerenstava za nabavu i kontrolira provođenje postupka nabave roba, usluga i ustupanja radova kod korisnika proračunskih sredstava iz nadležnosti Ministarstva, vrši nabavu roba, kancelarijskog materijala i sitnog inventara te ostalog potrošnog materijala, vodi ekonomat, izdaje kancelarijski i potrošni materijal i druge robe te vodi materijalne evidencije, organizira odnosno provodi zakonom propisani postupak nabave roba, usluga i ustupanja radova, te obavlja i druge poslove koje odredi ministar.
+Ostale ustrojstvene jedinice:

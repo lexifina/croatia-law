@@ -1,0 +1,2 @@
+# Članak 60.
+Odjel pomorske inspekcije obavlja poslove nautičke inspekcije sigurnosti plovidbe, poslove brodostrojarske inspekcije sigurnosti plovidbe, poslove brodograđevne inspekcije sigurnosti plovidbe, poslove hidrograđevinske sigurnosti plovidbe, poslove radio inspekcije sigurnosti plovidbe, poslove zaštite mora od onečišćenja s plovila, poslove inspekcije životnih i radnih uvjeta posade brodova, poslove nadzora pomorskog dobra i koncesijskog sustava na pomorskom dobru.

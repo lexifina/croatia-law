@@ -1,0 +1,3 @@
+# Članak 77.
+Odsjek za zrakoplovne nesreće obavlja stručno-tehničke i administrativne poslove za potrebe Povjerenstva za istraživanje nesreća, sudjeluje u radu Povjerenstva za istraživanje nesreća, osigurava mehanizme za provođenje objektivne istrage, osigurava u skladu sa Zakonom provedbe potrebnih radnji u svezi s nezgodom i nesrećom zrakoplova, prati i procjenjuje međunarodne standarde i postupke u svezi s uzrocima nesreća, te predlaže i sudjeluje u usklađivanju donesenih propisa s međunarodnim standardima, izrađuje polugodišnje i godišnje analize uzroka nesreće.
+d) Odsjek zrakoplovnih prekršaja

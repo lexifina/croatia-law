@@ -1,0 +1,4 @@
+# Članak 23.
+Odsjek za planiranje i razvoj javnih cesta sudjeluje u pripremi i koordinira Strategiju razvitka javnih cesta, koordinira, izrađuje i predlaže Vladi Republike Hrvatske četverogodišnje programe građenja i održavanja javnih cesta, koordinira i prati cjelovitost sustava javnih cesta, provodi upravne i druge stručne poslove koji se odnose na razvoj, planiranje, građenje i održavanje javnih cesta, sudjeluje u radu međunarodnih organizacija iz područja cesta te radu stručnih društava, daje stručna mišljenja iz područja planiranja i razvoja javnih cesta, prati izradu studija i projekata građenja i održavanja javnih cesta, sudjeluje u koncipiranju prometnih, prostornih i urbanističkih planova na svim razinama, prati razvoj auto-cestovnog sustava i naplate cestarina, sudjeluje u pripremi financiranja, razvoja i održavanja javnih cesta i usklađivanja s državnim proračunom.
+b) Odsjek za poslove rekonstrukcije i građenja
+javnih cesta

@@ -1,0 +1,3 @@
+# Članak 54.
+Odsjek upravnih i općih poslova obavlja upravne i prekršajne poslove u unutarnjoj plovidbi, izrađuje upravna i prekršajna prvostupanjska rješenja, izrađuje nacrte propisa iz nadležnosti kapetanija, izrađuje rješenja, suglasnosti, mišljenja i drugih akata iz nadležnosti kapetanija, sudjeluje u izradi nacrta prijedloga zakona i drugih propisa iz područja unutarnje plovidbe, sudjeluje u izdavanju brodskih isprava i knjiga, brodarskih knjižica te drugih dokumenata iz nadležnosti kapetanija, obavlja tehničko održavanje, čišćenje i čuvanje uredskih zgrada, prostorija, sredstava prijevoza, uređaja, opreme i inventara kapetanija, obavlja druge srodne poslove upravne i opće naravi u kapetanijama.
+c) Odsjek sigurnosti unutarnje plovidbe
