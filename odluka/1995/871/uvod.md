@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 4. Zakona o izvlaštenju ("Narodne novine", broj 9/94), a nakon pribavljenog mišljenja Odbora za prostorno uređenje i zaštitu okoliša i Odbora za gospodarstvo, razvoj i obnovu Zastupničkoga doma, Sabora Republike Hrvatske, Vlada Republike Hrvatske je na sjednici održanoj 25. svibnja 1995. donijela
