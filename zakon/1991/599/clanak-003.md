@@ -1,0 +1,2 @@
+# Članak 3.
+U člancima: 3., stavak 1. i 5.; 5., stavak 1. i 3., alineja 5.; 8., 9., 10., stavci od 1. do 3.; 20., stavak 2.; 24., 26., 27., stavak 1; 28., 29., 30., stavci od 1. do 4.; 31., 33., stavak 3.; 35., stavak 1. i 2. ; 36., 37., stavak 1. i 2.; 3., 47., stavak 4.; 61, stavak 1. i 2.; 62., stavak 1.; 63., stavak 2.; 6., stavak 1. i 3.; 68., 69., stavak 3.; 70., stavak 7.; 72., 74. i 75, stavak 1. i 3. briše se riječ "Republički" u različitim padežima, a riječ "zavod" u različitim padežima piše se velikim početnim slovom.
