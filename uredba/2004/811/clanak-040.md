@@ -1,0 +1,4 @@
+# Članak 40.
+Odjel za predškolski odgoj prati stanje u predškolskom odgoju, odgoju djece s teškoćama u razvoju, brine se o izvršavanju zakona i drugih propisa iz područja predškolskog odgoja, izrađuje stručne podloge za nacrte prijedloga zakona i drugih propisa iz svojega djelokruga, obavlja radnje u postupku rješavanja u svezi s osnivanjem i početkom rada predškolskih ustanova i s izvođenjem predškolskih programa, ako ovi poslovi nisu dani u nadležnost drugom tijelu državne uprave ili lokalne odnosno područne (regionalne) samouprave ili drugoj ustrojstvenoj jedinici Ministarstva, prati rad i sudjelovanje ureda državne uprave i tijela jedinica lokalne i područne (regionalne) samouprave nadležnih za predškolski odgoj, te vodi propisane očevidnike.
+Odjel obavlja stručne poslove u postupku rješavanja o žalbama iz djelokruga odjela, izrađuje prijedloge rješenja i obavlja druge poslove iz svojega djelokruga.
+10.2. Odjel za osnovno obrazovanje

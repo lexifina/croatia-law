@@ -1,0 +1,3 @@
+# Članak 51.
+Odsjek za programe predlaže i prati mjere za poticanje suradnje znanosti i gospodarstva s naglaskom na primjenu rezultata istraživanja i inventivnog rada u tehnologijskom razvitku, te razvoj na znanju utemeljenih poduzeća, uključujući akademsko poduzetništvo; obavlja upravne i stručne poslove planiranja i usklađivanja tehnologijskih razvojno-istraživačkih projekata i programa uključujući projekte potpore tehnologijskom razvitku, razvija i unapređuje sustav prijenosa novih tehnologijskih dostignuća i znanja iz inozemstva u Republiku Hrvatsku i obrnuto; organizira i obavlja poslove međunarodne znanstveno-tehnologijske suradnje te obavlja i druge poslove iz svog djelokruga i poslove koje odredi ministar.
+13.2. Odsjek za centre

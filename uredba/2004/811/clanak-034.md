@@ -1,0 +1,3 @@
+# Članak 34.
+Odjel za programe i projekte obavlja upravne i stručne poslove u vezi sa izradom i praćenjem nacionalnoga znanstvenog programa; djelokrugom rada ostalih subjekata znanstvene djelatnosti; prijemom prijedloga projekata, programa i tema; upućivanjem programa i projekata na recenzije; pripremom ugovora za programe, projekte i teme; praćenjem rezultata rada na programima i projektima; financijskim praćenjem programa i projekata, ocjenom završnih izvješća programa i projekata, pripremom materijala za sjednice povjerenstava, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
+8.2. Odjel za razvoj

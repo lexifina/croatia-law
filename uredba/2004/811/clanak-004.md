@@ -1,0 +1,3 @@
+# Članak 4.
+Odjel za praćenje stanja i razvojne strategije obavlja poslove praćenja stanja u svim segmentima djelokruga Ministarstva: putem anketa, predstavki građana i iz drugih izvora prikuplja podatke o stanju u području znanosti, obrazovanja i športa i analitički ih obrađuje te izrađuje analitička izvješća za potrebe ministra i državnih tajnika, obavlja poslove izrade dugoročnih i kratkoročnih strategija te priprema platforme za donošenje novih, odnosno izmjene i dopune postojećih propisa iz djelokruga Ministarstva te obavlja i druge poslove iz svog djelokruga i poslove koje odredi ministar.
+1.2. Odjel za protokol i međunarodnu korespondenciju

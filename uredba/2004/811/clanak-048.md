@@ -1,0 +1,4 @@
+# Članak 48.
+Odjel za europske integracije obavlja poslove vezane uz proces približavanja i pridruživanja Europskoj uniji, uključivši poslove koji se odnose na prilagodbu propisa propisima Europske unije u području djelokruga Ministarstva, poslove vezane uz izobrazbu djelatnika Ministarstva za potrebe približavanja i pridruživanja Europskoj uniji, poslove vezane uz izradu stručnih i analitičkih materijala za prijavu projekata i programa u sklopu Europske unije, pravnu i stručnu redakturu prevedene pravne stečevine, provedbu CARDS programa i analizu učinaka zakonodavstva, te ostale poslove iz ove domene.
+Odjel obavlja poslove vezane uz sudjelovanje u izradi pregovaračkih pozicija i potpora radu pregovaračkog tima, sudjelovanje u radu radnih skupina koje daju podršku pregovaračkom timu, izradi analize učinaka zakonodavstva na gospodarstvo Republike Hrvatske, te druge poslove koje odredi ministar.
+12.4. Odjel za priznavanje inozemnih obrazovnih kvalifikacija

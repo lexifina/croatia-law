@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel za kapitalne aktivnosti izrađuje i prati normative za građenje objekata i daje suglasnost na projektno-tehničku dokumentaciju, planira i izrađuje programe za financiranje i sufinanciranje kapitalnih izdataka i posebnih programa, prati izgradnju, rekonstrukciju, adaptaciju i opremanje ustanova iz djelokruga Ministarstva, prikuplja i ujedinjuje podatke za izradu projekcije proračunskih sredstava, te predlaže odgovarajuća programska rješenja, priprema podloge za bilanciranje i realizaciju sredstava u fondu poravnanja za kapitalna ulaganja u znanosti, obrazovanju i športu.
+3.5. Odjel za nabavu

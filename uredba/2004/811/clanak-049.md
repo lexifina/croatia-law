@@ -1,0 +1,2 @@
+# Članak 49.
+Odjel za priznavanje inozemnih obrazovnih kvalifikacija obavlja poslove priznavanja inozemnih školskih kvalifikacija o završenom osnovnom i srednjem obrazovanju, dijelovima tog obrazovanja i o oblicima stručne osposobljenosti i usavršavanja za određene poslove i zanimanja. Također obavlja i poslove upravnog nadzora u provedbi postupaka priznavanja inozemnih visokoškolskih kvalifikacija i provodi drugostupanjski postupak povodom žalbi protiv prvostupanjskih rješenja.

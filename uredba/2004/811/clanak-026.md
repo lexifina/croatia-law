@@ -1,0 +1,8 @@
+## 6. UPRAVA ZA MEĐUNARODNU SURADNJU
+# Članak 26.
+Uprava za međunarodnu suradnju obavlja upravne i stručne poslove vezane uz: praćenje razvitka međunarodne znanstvene, tehničke, tehnološke i obrazovne suradnje, realizaciju programa znanstvene, tehničke, tehnološke i obrazovne suradnje s inozemstvom; uobličavanja radnih programa znanstvene, tehničke, tehnološke i obrazovne suradnje s inozemstvom; osnivanje radnih skupina i povjerenstava radi pripreme odgovarajućih međunarodnih i međudržavnih kontakata predstavnika Republike Hrvatske u dijelu koji se odnosi na znanstvenu, tehničku, tehnološku i obrazovnu suradnju s inozemstvom; davanje mišljenja, informacija i prijedloga u vezi s radom mješovitih povjerenstava i drugih tijela u navedenim područjima suradnje; obavljanje poslova vezanih uz znanstveno i stručno usavršavanje, studijske boravke i školovanje stranih građana u Republici Hrvatskoj i naših građana u inozemstvu; uključivanje znanstvenika hrvatskog podrijetla u zajednička istraživanja i druge oblike suradnje; organiziranje rada naših i stranih stručnjaka u zemlji i inozemstvu; vođenje očevidnika znanstvene i tehničke suradnje s inozemstvom; praćenje izvršenja bilateralnih i multilateralnih programa; stručne i administrativne poslove u vezi sa specijalizacijom i praktičnim obučavanjem naših i stranih stručnjaka na temelju međunarodnih, međudržavnih, poslovnih i drugih sporazuma, te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
+U Upravi za međunarodnu suradnju ustrojavaju se sljedeći odjeli:
+6.1. Odjel za bilateralnu suradnju
+6.2. Odjel za multilateralnu suradnju
+6.3. Odjel za pojedince.
+6.1. Odjel za bilateralnu suradnju

@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek za informacijski sustav i aplikacije obavlja stručne i informatičke poslove planiranja i utvrđivanje kriterija za razvoj i održavanje korisničkih aplikacija za pojedine poslovne procese Ministarstva; razvoja i održavanje središnje baze i drugih baza podataka, te dokumentiranje postojećih aplikacija i baza; pružanje potpore u obavljanu elektroničkog poslovanja u Ministarstvu kroz standardizirano prikupljanje podataka, nadgledanje i organiziranje elektroničkog arhiviranja dokumenata te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
+5.3.3. Odsjek za informacijsko-dokumentacijsku djelatnost

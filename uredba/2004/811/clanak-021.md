@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel za informacijsku infrastrukturu znanosti, obrazovanja i športa obavlja upravne i stručne poslove planiranja, organiziranja i provođenja informatizacije znanosti, obrazovanja i športa što uključuje planiranje, organiziranje i provođenje razvoja računalno-komunikacijske infrastrukture i informacijskog sustava i aplikacija znanosti, obrazovanja i športa; pripremu, koordinaciju i izradu nacrta stručnih, organizacijskih i provedbenih dokumenata i propisa potrebnih za rad informacijske infrastrukture znanosti, obrazovanja i športa te obavlja i druge poslove iz svoga djelokruga i poslove koje odredi ministar.
+5.3. Odjel za informacijsku infrastrukturu Ministarstva

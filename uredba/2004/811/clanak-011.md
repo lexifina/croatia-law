@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel za proračun izrađuje prijedlog državnog proračuna za Ministarstvo i proračunske korisnike u nadležnosti Ministarstva, izvršava proračun za Ministarstvo i proračunske korisnike u nadležnosti Ministarstva, vrši financijsku i računovodstvenu kontrolu te prati i analizira trošenje proračunskih sredstava, izrađuje financijske planove i kontrolira trošenje proračunskih sredstava sukladno tim planovima, sudjeluje u izradi programa kapitalnih ulaganja, kontrolira korištenje transferiranih proračunskih sredstava kod njihovih korisnika, podnosi zahtjeve za isplatu prema Ministarstvu financija, kontrolira naplatu i korištenje sredstava od vlastitih prihoda, te obavlja druge poslove koje odredi ministar.
+3.2. Odjel za knjigovodstveno-računovodstvene poslove

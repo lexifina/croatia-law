@@ -1,0 +1,2 @@
+# Članak 35.
+Odjel za razvoj obavlja upravne i stručne poslove utvrđivanja kriterija za transfer novca (redovita djelatnost ustanova, kapitalne aktivnosti, skupovi); vodi upisnik znanstvenih organizacija i upisnik znanstvenika; obavlja poslove vezane za rad Nacionalne zaklade za znanost, provodi nadzor nad Državnim zavodom za statistiku i Državnim hidrometeorološkim zavodom, te obavlja i druge poslove koje odredi ministar.

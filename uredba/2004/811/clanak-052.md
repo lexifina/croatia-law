@@ -1,0 +1,4 @@
+# Članak 52.
+Odsjek za centre obavlja upravne i stručne poslove vezane uz predlaganje i praćenje mjera za usklađeni razvitak svih elemenata inovacijskog lanca i tehnologijske infrastrukture (obrazovanje, informacijski sistem, zakonska regulativa), ustrojavanje i razvitak tehnologijske infrastrukture (tehnološko-inovacijski centri, istraživačko-razvojni centri, tehnologijski i znanstveni parkovi i sl.).
+Odsjek brine i o razvoju tehnologijske infrastrukture koja uključuje institucije koje ubrzavaju primjenu i uvođenje novih proizvoda i procesa temeljenih na znanju i inovacijama u gospodarstvu, kao što su: tehnološko-inovacijski centri, centri za tehnologijski transfer, tehnologijski znanstveni parkovi, specijalizirane financijske institucije i slično, te obavlja i druge poslove iz svog djelokruga i poslove koje odredi ministar.
+Odsjek također vrši nadzor nad radom Državnog zavoda za intelektualno vlasništvo i Državnog zavoda za normizaciju i mjeriteljstvo.
