@@ -1,3 +1,7 @@
 # Članak 99.
-Prije izricanja mjera iz članka 98. ovog Statuta Sud časti će, ukoliko je to moguće, nastojati spor rješiti mirnim putem (nagodbom) između stranaka.
-Nagodba iz stavka 1. ovog članka je obvezna za stranke i ne može se pobijati.
+Ovaj Statut stupa na snagu danom donošenja, a primjenjuje se od 22. svibnja 2002. godine, dana kojeg je Ministarstvo za obrt, malo i srednje poduzetništvo utvrdilo usklađenost Statuta sa Zakonom o obrtu.
+Ovaj Statut objavljuje se u »Narodnim novinama«.
+Predsjednik
+Odbora za praćenje i razvoj
+komorskog sustava i Statut
+Vitomir Pap, v. r.

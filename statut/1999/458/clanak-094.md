@@ -1,7 +1,2 @@
 # Članak 94.
-Sud časti odlučuje o:
-- povredama dobrih običaja u obavljanju obrta,
-- oduzimanju privremeno ili trajno, prava primanja naučnika na naukovanje,
-- neizvršavanju obveza članova,
-- povredama Statuta i
-- povredama drugih akata Komore.
+O financijskom poslovanju Komore podnosi se godišnji obračun Skupštini na prihvaćanje.

@@ -1,8 +1,2 @@
 # Članak 85.
-Pomoćnički ispit se polaže u tri ispitna roka:
-- ljetnom roku,
-- jesenskom roku,
-- zimskom roku.
-Izuzetno od stavka 1. ovoga članka, Upravni odbor može, ako se iskaže potreba, odrediti i posebni izvanredni rok.
-Pomoćnički ispit se za naučnike koji su uspješno završili općeobrazovni dio programa i naukovanje, organizira istovremeno sa završnim ispitom u obrtničkoj ili drugoj srednjoj školi za obrtnička zanimanja.
-Za naučnike, koji su uspješno završili program naukovanja organizira se samo pomoćnički ispit.
+Radi pružanja stručne pomoći članovima Komore u Komori se mogu osnivati posebni uredi, agencije i sl. te organizirati stalni stručni kolegiji i seminari za tajnike i druge stručne djelatnike područnih obrtničkih komora i udruženja obrtnika, članove Komore kao i za sve zainteresirane, kada se radi o pitanjima iz obuhvata rada Komore.

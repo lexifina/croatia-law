@@ -1,4 +1,4 @@
+## XXI. JAVNOST RADA KOMORE
 # Članak 80.
-Ispit o stručnoj osposobljenosti sastoji se od:
-- izrade praktičnog rada i/ili izrade radne probe,
-- provjere znanja neophodnih za samostalno obavljanje obrta.
+Rad Komore je javan. Javnost rada Komore ostvaruje se na način određen ovim Statutom i općim aktima Komore.
+Javnost rada Komore ostvaruje se i suradnjom sa sredstvima javnog priopćavanja.

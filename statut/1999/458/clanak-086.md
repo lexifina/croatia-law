@@ -1,6 +1,6 @@
+## XXIII. TAJNIK KOMORE
 # Članak 86.
-Pomoćnički ispit se sastoji od:
-- praktičnog dijela i
-- teoretskog dijela.
-Zadaće za pomoćnički ispit zadaju se u skladu s okvirnim programom pomoćničkog ispita kojeg je propisao ministar gospodarstva, a sastavni su dio nastavnog plana i programa naukovanja, vodeći računa o proizvodnim odnosno uslužnim mogućnostima radionice u kojoj se ispit održava.
-Ispitna komisija zadaje praktičnu zadaću za svakog kandidata i utvrđuje vrijeme trajanja njene izrade koje ne može biti dulje od 40 sati.
+Komora ima svog tajnika.
+Tajnika Komore imenuje i razrješava Upravni odbor na prijedlog predsjednika Komore.
+Za tajnika Komore može biti imenovana osoba koja ima visoku stručnu spremu i najmanje pet godina radnog iskustva na sličnim poslovima i radnim zadacima, te koja će organizatorskim i drugim stručnim sposobnostima uspješno obavljati posao tajnika Komore.
+Tajnik se imenuje na rok od četiri godine i može se ponovno imenovati.

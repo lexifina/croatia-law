@@ -1,2 +1,2 @@
 # Članak 82.
-Ispitaniku, koji je položio ispit o stručnoj osposobljenosti izdaje se uvjerenje, koje potpisuju predsjednik Komore i tajnik Komore. Uvjerenje se izdaje u roku od 15 dana od dana polaganja posljednjeg ispita u tom ispitnom roku.
+Općim aktom, koji donosi Upravni odbor, određuje se koje su isprave i podaci poslovna tajna, čije bi iznošenje neovlaštenoj osobi zbog njihove naravi i značaja, bilo protivno interesima Komore i njezinih članova.

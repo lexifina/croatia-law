@@ -8,12 +8,13 @@ Komora u skladu sa Zakonom osobito:
 2. razvija područne obrtničke komore u okviru poslova i zadaća utvrđenih Zakonom i ovim Statutom;
 3. zastupa interese obrtnika pred tijelima državne vlasti i tijelima državne uprave, naročito:
 - suradnjom s tijelima državne vlasti i tijelima državne uprave,
-- sudjelovanjem u radu odbora i komisija Hrvatskoga državnog sabora i koordinacija Vlade Republike Hrvatske;
+- sudjelovanjem u radu odbora i komisija Hrvatskog sabora i koordinacija Vlade Republike Hrvatske;
 4. daje primjedbe i prijedloge tijelima državne vlasti i tijelima državne uprave kod donošenja propisa od interesa za obrtništvo, naročito:
 - sudjelujući u radu radnih skupina kod izrade zakonskih i podzakonskih prijedloga,
-- davanjem prijedloga i primjedaba na prijedloge zakona i podzakonskih akata,
+- davanjem mišljenja, prijedloga i primjedaba na prijedloge zakona i podzakonskih akata,
 - upućivanjem inicijativa za podnošenje amandmana na konačne prijedloge zakona;
 5. obavlja poslove u području obrazovanja i osposobljavanja za potrebe obrtništva, naročito:
+- izdaje dozvole (licence) za izvođenje praktičnog dijela naukovanja,
 - osnivanjem komisija za polaganje pomoćničkih i majstorskih ispita, te ispita o stručnoj osposobljenosti,
 - osnivanjem drugih komisija za potrebe obrazovanja i osposobljavanja,
 - praćenjem ispita u nadležnosti Komore,

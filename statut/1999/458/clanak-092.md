@@ -1,4 +1,4 @@
-## XVII. SUD ČASTI HRVATSKE OBRTNIČKE KOMORE
 # Članak 92.
-Pri Komori osniva se i djeluje Sud časti.
-Sud časti je u obavljanju svoje funkcije nezavisan i donosi odluke na temelju zakona, ovoga Statuta i drugih akata Komore.
+Visina doprinosa, osnovica za obračunavanje doprinosa, te način i rokovi plaćanja doprinosa određuje se posebnom odlukom, koju donosi Skupština.
+Članovi Komore dužni su redovito uplaćivati doprinos Komori u visini i na način određen odlukom iz stavka 1. ovog članka.
+Zbog neplaćanja komorskog doprinosa mora se pokrenuti postupak prisilne naplate, a Sud časti može izreći jednu od propisanih mjera.

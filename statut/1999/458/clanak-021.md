@@ -1,4 +1,4 @@
-## Skupština
+## SKUPŠTINA
 # Članak 21.
 Skupština je najviše tijelo upravljanja Komore, a sačinjavaju je predstavnici članova Komore.
 Skupština ima 75 članova.

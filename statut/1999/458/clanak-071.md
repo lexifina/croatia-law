@@ -1,2 +1,3 @@
 # Članak 71.
-Prijedloge za članove ispitnih komisija iz članka 70. ovog Statuta objedinjuje Odbor za strukovnu izobrazbu na prijedlog područnih obrtničkih komora, cehova i nadležnih ministarstava.
+Naziv suda je: Sud časti Hrvatske obrtničke komore (u daljnjem tekstu: Sud časti).
+Sjedište Suda časti je u Zagrebu, Ilica 49.

@@ -1,4 +1,4 @@
+## XIX. PRIZNANJA I POČASNI ČLANOVI KOMORE
 # Članak 75.
-Područna obrtnička komora za određeni ispitni rok zaključuje primanje prijava za polaganje majstorskog ispita u roku utvrđenom Pravilnikom o polaganju majstorskog ispita i ispita o stručnoj osposobljenosti.
-Prijave za polaganje majstorskog ispita podnose se područnim obrtničkim komorama.
-Izuzetno za majstorski ispit mogu se prijaviti i ispitanici koji će prije početka ispita steći uvjete za njegovo polaganje.
+Komora može uglednim i časnim članovima Komore za izuzetno dostignuće i zasluge u razvoju i promicanju obrtništva i malog poduzetništva, kao i drugim pojedincima i institucijama koji su svojim djelovanjem dali značajan doprinos razvoju obrtništva Hrvatske dodijeliti priznanja.
+Uvjeti, postupak i način dodjele priznanja uredit će se pravilnikom.

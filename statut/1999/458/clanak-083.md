@@ -1,6 +1,6 @@
+## XXII. KOMORSKI URED
 # Članak 83.
-O završenom stručnom osposobljavanju vodi se evidencija.
-Evidenciju o stručnoj osposobljenosti, osim registra uvjerenja, vodi za Komoru područna obrtnička komora.
-Registar uvjerenja o stručnoj osposobljenosti vodi Komorski ured na temelju zapisnika o ispitu za svakog ispitanika.
-Matična knjiga i registar uvjerenja o stručnoj osposobljenosti čuvaju se trajno, a zapisnik o ispitu o stručnoj osposobljenosti četiri godine.
-Oblik i način vođenja evidencije o ispitima o stručnoj osposobljenosti propisuje Upravni odbor na prijedlog Odbora za strukovnu izobrazbu.
+Za obavljanje stručnih, administrativnih, pomoćnih i drugih poslova osniva se Komorski ured.
+Organizacija Komorskog ureda treba odgovarati potrebama i zahtjevima članova Komore te omogućivati stručno, kvalitetno, pravodobno i odgovorno izvršavanje zadaće Komore, utvrđene ovim Statutom i ostalim aktima Komore.
+Za zakonito, stručno i uspješno obavljanje poslova i radnih zadataka Komorskog ureda odgovara tajnik Komore.
+Organizacija Komorskog ureda uređuje se posebnim aktom koji donosi Upravni odbor, a rad Komorskog ureda i provedbu njegovih zadaća nadzire predsjednik Komore i Upravni odbor.

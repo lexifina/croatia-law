@@ -1,6 +1,6 @@
 # Članak 24.
 Sjednice Skupštine održavaju se najmanje 2 puta godišnje.
-Sjednicu Supštine saziva i njome predsjedava predsjednik Komore.
+Sjednicu Skupštine saziva i njome predsjedava predsjednik Komore.
 Sjednica Skupštine mora se sazvati na zahtjev:
 - Nadzornog odbora,
 - Upravnog odbora,

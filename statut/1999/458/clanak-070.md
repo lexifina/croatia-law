@@ -1,4 +1,4 @@
-## Postupak i način polaganja majstorskih ispita i ispita o stručnoj osposobljenosti
+## XVII. SUD ČASTI HRVATSKE OBRTNIČKE KOMORE
 # Članak 70.
-Majstorski ispiti polažu se pred ispitnim komisijama koje osniva Upravni odbor.
-Broj ispitnih komisija utvrđuje se ovisno o vrsti obrta i broju prijavljenih kandidata.
+Pri Komori osniva se i djeluje Sud časti.
+Sud časti je u obavljanju svoje funkcije nezavisan i donosi odluke na temelju zakona, ovoga Statuta i drugih akata Komore.

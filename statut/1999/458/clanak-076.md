@@ -1,7 +1,5 @@
 # Članak 76.
-Majstorski ispit polaže se prema programu za polaganje majstorskog ispita kojeg donosi ministar gospodarstva.
-Majstorski ispit sastoji se iz:
-- izrade praktične zadaće i/ili radne probe,
-- provjere teorijskih znanja neophodnih za vješto obavljanje poslova primjerenih obrtu,
-- provjere znanja u području gospodarstva, poznavanja propisa o vođenju poslovnih knjiga, propisa o obavljanju obrta i
-- osnovnih znanja potrebnih za poduku naučnika.
+U znak osobitog i trajnog priznanja za rad na ustroju i organizaciji ukupnog komorskog sustava i unapređenja obrta i obrtništva Skupština može na prijedlog predsjednika Komore, 15 članova Skupštine ili Upravnog odbora izabrati počasnog doživotnog člana Komore.
+Na način iz stavka 1. iz ovog članka Skupština može izabrati i počasnog doživotnog predsjednika Komore.
+Odluku o izboru počasnih članova Skupština donosi većinom glasova svih članova Skupštine.
+Počasnim članovima Komore pripada savjetodavni spis na svim sjednicama komorskih tijela.

@@ -1,4 +1,3 @@
 # Članak 93.
-Naziv suda je: Sud časti Hrvatske obrtničke komore (u daljnjem tekstu: Sud časti).
-Sjedište Suda časti je u Zagrebu, Ilica 49.
-Sud časti služi se pečatom i žigom Komore.
+Prihodi i rashodi komore određuju se financijskim proračunom Komore, koji donosi Skupština do kraja tekuće godine za iduću godinu.
+Ako Skupština do kraja godine ne donese financijski proračun Komore, dužna je donijeti odluku o privremenom financiranju Komore za prvo tromjesečje proračunske godine, te do kraja tog tromjesečja donijeti financijski proračun Komore.
