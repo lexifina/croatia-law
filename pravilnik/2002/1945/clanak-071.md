@@ -1,0 +1,3 @@
+# Članak 71.
+(1) Djelatnicima ekonomskog usmjerenja srednje stručne spreme koji obavljaju poslove - šef računovodstva sukladno ovom pravilniku, a imaju na dan početka primjene ovoga pravilnika navršenih 15 godina radnog iskustva na računovodstvenim poslovima i nadalje će obavljati poslove koje su obavljali do primjene ovoga pravilnika.
+(2) Djelatnicima iz stavka 1. ovoga članka koji na dan početka primjene ovoga pravilnika imaju manje od 15 godina radnog iskustva na računovodstvenim poslovima, ponudit će se doškolovanje do VI. ili VII. stupnja stručnog obrazovanja s rokom završetka najdulje 4 godine i obvezom rada u centru ili podružnici u trajanju utvrđenom ugovorom sklopljenim između djelatnika i centra za socijalnu srkb.
