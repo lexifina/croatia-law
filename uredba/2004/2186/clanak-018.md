@@ -1,0 +1,5 @@
+# Članak 18.
+U Odjelu za katastar nekretnina obavljaju se poslovi vezani uz vođenje, održavanje i izdavanje podataka iz katastra zemljišta i katastra nekretnina za područje za koje nisu ustrojene ispostave područnog ureda, poslovi pregleda i potvrđivanja parcelacijskih i drugih geodetskih elaborata i poslovi rješavanja upravnih stvari u prvom stupnju za to područje, osigurava jedinstveno postupanje u vođenju, održavanju i izdavanju podataka iz katastra zemljišta i katastra nekretnina na području područnog ureda, obavljaju poslovi vezani uz osnivanje, vođenje, odražavanje i izdavanje podataka iz gradskih i općinskih registara prostornih jedinica, obavljaju poslovi neposredne suradnje s nadležnim zemljišnoknjižnim sudovima, te pripremaju prijedlozi planova rada i izvještaja o radu područnih ureda.
+Kada se u Odjelu za katastar nekretnina ustrojavaju unutarnje ustrojstvene jedinice (odsjeci ili pododsjeci), one se ustrojavaju kao:
+- Odsjek ili pododsjek za tehničku dokumentaciju
+- Odsjek ili pododsjek za katastarske poslove.

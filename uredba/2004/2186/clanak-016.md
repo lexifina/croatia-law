@@ -1,0 +1,2 @@
+# Članak 16.
+U odsjeku ili pododsjeku za informatičku podršku se obavljaju poslovi vezani uz prikupljanje i obradu podataka na razini županije i izvješćivanje Središnjeg ureda, poslovi planiranja informatizacije i uspostavljanja informatičke podrške u područnom uredu i njegovim ispostavama, poslovi prevođenja katastarskih planova u digitalni vektorski oblik, poslovi suradnje s lokalnom i područnom (regionalnom) samoupravom na obavljanju poslova prevođenja katastarskih planova u digitalni vektorski oblik te pripremaju prijedlozi planova rada i izvješća o radu područnih ureda.
