@@ -1,0 +1,5 @@
+# Članak 49.
+Stalno stručno-operativno tijelo Državne uprave je Koordinacija.
+Članovi Koordinacije su zamjenik ravnatelja, kao predsjednik, i pomoćnici ravnatelja nadležni za Službu za civilnu zaštitu, Službu za vatrogastvo i Službu za sustav 112.
+Koordinacija usklađuje izradu planskih dokumenata, provedbu inspekcije, stručnog nadzora, razmatra potrebe za podizanjem stupnja pripravnosti operativnih snaga zaštite i spašavanja, predlaže ravnatelju Državne uprave aktiviranje pojedinih sastavnica zaštite i spašavanja i njihovo uključivanje u aktivnosti na terenu te neposredno upravlja aktivnostima zaštite i spašavanja svih sudionika u slučaju katastrofe ili veće nesreće.
+U slučaju katastrofe ili veće nesreće u rad Koordinacije uključuju se zamjenik zapovjednika civilne zaštite Republike Hrvatske i zamjenik glavnog vatrogasnog zapovjednika Republike Hrvatske, zamjenik glavnog nadzornika sustava 112, kao i pročelnici područnih ureda te načelnici Odjela za zaštitu i spašavanje na čijem se području katastrofa ili veća nesreća dogodila.
