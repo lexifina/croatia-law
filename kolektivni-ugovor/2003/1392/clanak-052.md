@@ -1,0 +1,3 @@
+# Članak 52.
+Pravo na sindikalnu aktivnost s naknadom plaće koju bi primio da je radio sindikalni povjerenik ostvaruje u ovisnosti o broju članova sindikata kod poslodavca i to tako da za svakog člana sindikata ima pravo na dva sata aktivnosti s naknadom plaće tijekom kalendarske godine.
+U slučaju da se poslodavac i sindikalni povjerenik sporazume o tome da će sindikalni povjerenik svoju dužnost obnašati profesionalno u punom radnom vremenu odnosno na drugi način posebnim sporazumom uredit će se uvjeti za obavljanje dužnosti sindikalnog povjerenika i visina plaće povjerenika koju će isplaćivati poslodavac.

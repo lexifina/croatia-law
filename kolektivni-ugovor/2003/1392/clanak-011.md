@@ -1,0 +1,6 @@
+# Članak 11.
+Radnik je dužan:
+- prihvatiti osposobljavanje i provjeru znanja radi ostvarenja rada na siguran način, pridržavati se propisanih i priznatih mjera zaštite na radu i naputaka proizvođača sredstava rada, pristupiti pregledu na koji ga uputi poslodavac radi obavljanja poslova s posebnim uvjetima rada,
+- raditi s dužnom pozornošću i na način koji ne ugrožava život ili zdravlje svoje i/ili drugih radnika, te sigurnost opreme i uređaja, a prije rasporeda na poslove s posebnim uvjetima rada i tijekom obavljanja tih poslova, obavijestiti liječnika o bolesti ili drugoj okolnosti koja ga sprečava ili smeta u izvršenju obveza iz ugovora o radu ili koja ugrožava život i zdravlje drugih radnika;
+- upotrebljavati u ispravnom stanju sigurnosne uređaje i osobna zaštitna sredstva koja su mu povjerena na uporabu i rukovanje, a pri radu obavezno koristiti osobna zaštitna sredstva;
+- upozoriti neposrednog rukovoditelja na kvarove i/ili nedostatke na uređajima, osobnim i zaštitnim sredstvima, kao i na neredovite pojave pri radu i postupke drugih osoba koje mogu oštetiti ili uništiti određenu opremu ili ugroziti život i/ili zdravlje radnika, kao i o bilo kojem drugom nedostatku u sustavu zaštite na radu.

@@ -1,0 +1,2 @@
+# Članak 41.
+Poslovno uvjetovani otkaz ugovora o radu poslodavac ne može dati bez prethodne suglasnosti radničkog vijeća radniku za vrijeme obnašanja vojne službe, hrvatskom branitelju za vrijeme obnašanja vojne službe i tri mjeseca nakon prestanka službe, te radniku koji ima status invalida domovinskog rata i invalida rada. Ovo se ne odnosi na prestanak ugovora o radu na određeno vrijeme istekom roka utvrđenog tim ugovorom.
