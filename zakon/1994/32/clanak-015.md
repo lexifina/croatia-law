@@ -1,0 +1,4 @@
+# Članak 15.
+Do donošenja posebnog zakona, kojim će se urediti ustanovljavanje sudova, utvrđivanje njihovog područja te odredivanje sjedišta u kojem će obavljati sudbenu vlast, na području samoupravnih kotareva, općinski sudovi u Glini i Kninu nastavit će djelovati u istom sjedištu i za isto područje na kojem su do sada djelovali s djelokrugom jednakim djelokrugu općinskog suda u sjedištu županijskog suda. Sudovi iz stavka 1, ovoga članka obavljat će poslove iz članka 6. ovoga Zakona i to:
+- Općinski sud u Glini za područja općinskih sudova u Dvoru, Hrvatskoj Kostajnici, Vojniću i Vrginmostu,
+- Općinski sud u Kninu za područja npčinskih sudova u Benkovcu, Donjem Lapcu, Gračacu, Obrovcu i Titovoj Korenici Općinski sudovi iz stavka 2. ovekga članka, osim sudova u Glini i Kninu, nastavit će djelovati u istom sjedištu i za isto područje na kojem su dosad djelovali s djelokrugom jednakim djelokrugu općinskih sndova iz članka 16. (smanjeni djelokrug) Zakona o sudovima.
