@@ -1,0 +1,1 @@
+Na temelju članka 37. st. 2. Zakona o deviznom poslovanju ("Narodne novine", br. 53/91) i članka 67. pod 23) Zakona o Narodnoj banci Hrvatske ("Narodne novine", br. 74/92) Savjet Narodne banke Hrvatske na sjednici od 1. travnja 1993. godine donio je
