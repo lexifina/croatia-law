@@ -1,0 +1,6 @@
+## Poslovne tajne
+# Članak 4.
+(1) Podnositelj prijave može materijal ili dio materijala iz članka 3., stavka 1. ovoga Pravilnika označiti kao poslovnu tajnu. Dijelovi u prijavi tako označena materijala u pravilu ne mogu obuhvaćati materijal u cijelosti, već samo određeni broj crteža i fotografija; takvi se dijelovi podnose kao odvojeni dio prijave. Predmetni materijal označava se slovom »S«.
+(2) Materijal iz stavka 1. ovoga članka koji je označen kao poslovna tajna može se, osim na način propisan stavkom 1. ovoga članka, podnijeti i u dva različita primjerka, jedan primjerak u izvornom obliku, za uvid u postupku povodom poništaja i povrede prava, a drugi primjerak za svrhe općeg uvida, s odgovarajućim dijelovima učinjenim neraspoznatljivim brisanjemi ili zatamnjenjem.
+(3) Dio materijala koji je učinjen neraspoznatljivim može obuhvaćati do 90% od ukupne površine crteža ili fotografijea iz članka 3. stavka 1. ovoga Pravilnika. Stranka može obaviti uvid (opći uvid) u takve materijale samo u nazočnosti odgovorne osobe Zavoda i zapisujući bilješke samo rukom. Fotografiranje, fotokopiranje ili drugo umnožavanjea nije dopušteno.
+(4) Za uvid u materijale iz stavka 2. ovoga članka podnosi se zahtjev u pisanom obliku i dokaz o uplaćenoj odgovarajućoj upravnoj pristojbi i naknadi za posebne troškove.

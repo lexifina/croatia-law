@@ -1,0 +1,1 @@
+Na temelju članka 25. Zakona o zaštiti topografija poluvodičkih proizvoda (»Narodne novine«, broj 173/03), ministar nadležan za rad Državnog zavoda za intelektualno vlasništvo, na prijedlog ravnatelja Državnog zavoda za intelektualno vlasništvo, donosi
