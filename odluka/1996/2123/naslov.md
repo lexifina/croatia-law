@@ -1,0 +1,1 @@
+Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni kod stranih i međunarodnih organizacija i ustanova, stranih konzularnih i diplomatskih predstavništava ili u osobnoj službi stranih državljana
