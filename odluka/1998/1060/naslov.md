@@ -1,0 +1,1 @@
+Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Nuova Banca di Credito di Trieste, Trst, koji će se koristiti za kreditiranje isporuke motokultivatora TPS "Labinprogres" d.d. Labin
