@@ -1,0 +1,12 @@
+O b r a z l o ž e n j e
+1. GP "Radnik" d.d. iz Zadra, zastupan od direktora Milana Prtaina, podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 279. Zakona o obveznim odnosima ("Narodne novine", broj 53/91, 73/91, 111/93, 3/94, 107/95, 7/96, 91/96, 112/99 i 88/01) - dalje ZOO.
+2. Navodi da je odredba članka 279. ZOO u suprotnosti s člankom 49. stavcima 1. i 2. Ustava Republike Hrvatske, jer ograničava poduzetničku i tržišnu slobodu stavljajući poduzetnike u nejednak pravni položaj na tržištu, zbog načina primjene te odredbe u pojedinačnom sudskom postupku, kojom se omogućava obračun "zelenaških kamata".
+U prilog svojih stavova navedenih u prijedlogu podnositelj je dostavio i mišljenje o obračunu kamata Ministarstva financija Uprave za financijski sustav od 13. rujna 2001. godine, te naglašava kako se slaže s mišljenjem Ministarstva o obračunu kamata.
+Ustavni sud nije nadležan za odlučivanje.
+3. Odredba članka 128. podstavka 1. Ustava propisuje da Ustavni sud Republike Hrvatske odlučuje o suglasnosti zakona s Ustavom. U nadležnosti Ustavnog suda, u odredbi članka 128. Ustava, nije propisana ovlast Suda da u postupku ocjene suglasnosti zakona s Ustavom, odlučuje u slučaju prigovora pogrešnog tumačenja ili primjene neke zakonske odredbe, poglavito u pojedinačnim slučajevima.
+Ustavni sud ima ovlast, navedenu u odredbi članka 128. podstavka 4. Ustava, da odlučuje povodom ustavnih tužbi protiv pojedinačnih odluka državnih tijela, tijela jedinica lokalne i područne (regionalne) samouprave te pravnih osoba s javnim ovlastima kad su tim odlukama povrijeđena ljudska prava i temeljne slobode, kao i pravo na lokalnu i područnu (regionalnu) samoupravu zajamčeni Ustavom Republike Hrvatske, pa se zaštita ustavnih prava u pojedinačnim pravnim slučajevima može tražiti od Ustavnog suda u ustavnosudskom postupku pokrenutom ustavnom tužbom, na način kako to propisuje Ustavni zakon o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 49/02-pročišćeni tekst).
+4. U svezi s navodom predlagatelja da, u praksi, primjena različitih metoda izračuna kamata dovodi do nejednakog položaja poduzetnika na tržištu, Ustavni sud ukazuje na odredbu članka 118. stavka 1. Ustava koja propisuje da Vrhovni sud Republike Hrvatske, kao najviši sud, osigurava jedinstvenu primjenu zakona i ravnopravnost građana.
+5. Temeljem članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-I-1387/2001
+Zagreb, 11. svibnja 2004.
