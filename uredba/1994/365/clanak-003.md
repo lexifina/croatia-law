@@ -1,0 +1,2 @@
+# Članak 3.
+Iznimno od stavka 1. članka 2. ove Uredbe, ako je banka uzela kredit iz inozemstva u svoje ime, a za račun korisnika kredita, osnovicu posebnog poreza na kamate ne čine ukupno obračunane, odnosno nalaćene kamate, nego razlika izmedu kamata koje banka plaća inozemnom kreditoru i naplaćuje od domaćeg korisnika kredita, ako ta razlika u kamatama iznosi više od eskontne stope Narodne banke Hrvatske.
