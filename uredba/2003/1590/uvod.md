@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 131. stavka 2. Zakona o obrani (»Narodne novine«, br. 33/2002 i 58/2002), Vlada Republike Hrvatske je na sjednici održanoj 17. srpnja 2003. godine, donijela
