@@ -1,0 +1,2 @@
+# Članak 2.
+Općinski organ uprave nadležan za poslove poljoprivrede, obavezan je voditi evidenciju iz članka 1. ovoga pravilnika posebno za svaku godinu, osim evidencije iz članka 1. točka 5. ovoga pravilnika koje se stanje utvrđuje svakih pet godina. Evidenćije iz članka 1. točka 1, 2. i 5. ovoga pravilnika vode se prema obrascima 1, 2. i 3. koji su tiskani uz ovaj pravilnik i čine njegov sastavni dio.
