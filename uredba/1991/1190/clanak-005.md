@@ -1,0 +1,2 @@
+# Članak 5.
+Javno poduzeće "Brijuni" može se organizirati kao društvo s ograničenom odgovornošću u mješovitom vlasništvu s time da ulog odnosno udio Republike Hrvatske ne može biti ispod 51% vrijednosti poduzeća. Akti i radnje vezane uz osnivanje Poduzeća u mješovitom vlasništvu donijet će i provesti upravni odbor Poduzeća uz suglasnost Vlade Republike Hrvatske, u roku od 6 mjeseci od dana stupanja na snagu ove uredbe.

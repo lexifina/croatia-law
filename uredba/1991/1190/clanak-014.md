@@ -1,0 +1,2 @@
+# Članak 14.
+Upravni odbor dužan je u roku od tri mjeseca od dana stupanja na snagu ove uredbe uz suglasnost Vlade Republike Hrvatske, donijeti statut Poduzeća, a ostale akte utvrđene ovom uredbom, u roku od 6 mjeseci od dana stupanja na snagu ove uredbe. Do donošenja statuta i drugih općih akata Poduzeća, shodno će se primjenjivati statut i drugih općih akata postojećeg Javnog poduzeća "Nacionalni park Brioni", ukoliko nisu u suprotnosti s ovom uredbom.

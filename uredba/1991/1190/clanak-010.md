@@ -1,0 +1,2 @@
+# Članak 10.
+Nadzor nad zakonitošću rada Poduzeća obavljaju Ministarstvo prosvjete i kulture. Ministarstvo turizma i Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva, svako u granicama svog djelokruga. Stručni nadzor nad Poduzećem obavljaju Zavod za zaštitu spomenika kulture u sastavu Ministarstva prosvjete i kulture i Zavod za zaštitu okoliša, prirode i prirodne baštine u sastavu Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva.

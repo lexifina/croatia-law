@@ -1,0 +1,2 @@
+# Članak 15.
+Stupanjem na snagu ove uredbe prestaje važiti Zakon o nacionalnom parku i spomen području Brioni ("Narodne novine" br. 46/83, 57/89. i 5/90), osim članka 2. toga zakona. Vlada Republike Hrvatske predložit će, u roku od tri mjeseca, izmjene i dopune Odluke o donošenju Prostornog plana Nacionalnog parka "Brioni" i pripadajućeg dijela priobalnog pojasa ("Narodne novine", br. 46/87), sukladno odredbama ove uredbe.

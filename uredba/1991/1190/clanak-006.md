@@ -1,0 +1,2 @@
+# Članak 6.
+Organ upravljanja u Poduzeću je upravni odbor. Upravni odbor ima devet članova, od kojih jednog iz reda javnih djelatnika i pet iz reda stručnih muzejskih djelatnika, djelatnika zaštite spomenika kulture, zaštite prirode i turizma imenuje Vlada Republike Hrvatske, a tri člana biraju zaposleni Poduzeća na način utvrđen statutom Poduzeća. Članovi upravnog odbora imenuju se odnosno biraju na vrijeme od četiri godine.
