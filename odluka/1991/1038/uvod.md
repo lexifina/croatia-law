@@ -1,0 +1,1 @@
+Na temelju odredbe članka 4. Zakona o porezu na promet proizvoda i usluga - stavka 1. točke 1. alineje 3. Tarifnog broja 8. Tarife osnovnog poreza na promet koja je sastavni dio Zakona ("Narodne novine", br. 36/91) Vlada Republike Hrvatske je na sjednici održanoj 29. srpnja 1991. donijela
