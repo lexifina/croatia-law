@@ -1,0 +1,1 @@
+Na temelju članka 110. Ustava Republike Hrvatske, u provođenju Zakona o sustavu državne uprave i Zakona o lokalnoj samoupravi i upravi. Vlada Republike Hrvatske je na sjednici održanoj 22. ožujka 1994. godine donijela

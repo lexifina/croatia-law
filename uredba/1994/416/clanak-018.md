@@ -1,0 +1,2 @@
+# Članak 18.
+Odredbe Zakona o pečatima i žigovima s grbom Republike Hrvatske ("Narodne novine". broj 32/77) i Pravilnika za primjenu Zakona o pečatima i žigovima s grbom Republike Hrvatske ("Narodne novine", broj 35/78) primjenjuju se na odgovarajući način u postupku stavljanja izvan uporabe pečata tijela jedinica lokalne samouprave radi istrošenosti ili promjene naziva te prijave nestanka pečata.

@@ -1,0 +1,4 @@
+# Članak 6.
+Zaglavlje akta županijskog ureda sadrži: grb Republike Hrvatske, naziv: "Republika Hrvatska", naziv županije, naziv županijskog ureda, klasifikacijsku oznaku, urudžbeni broj, mjesto i datum izrade akta.
+Zaglavlje akta ispostave sadrži: grb Republike Hrvatske, naziv: "Republika Hrvatska", naziv županije, naziv županijskog ureda, riječ: "Ispostava", klasifikacijsku oznaku, urudžbeni broj, mjesto i datum izrade akta. Zaglavlje akta ispostave županijskog ureda na području kotara s posebnim samoupravnim položajem, osim dijelova iz stavka 2. ovog članka, iza naziva županije sadrži naziv kotara. Iznimno, zaglavlje akta županijskog ureda ne sadrži grb Republike Hrvatske kada je grb Republike Hrvatske otisnut na propisanom obrascu akta (npr. obrazac rodnog lista i dr.). Akti županijskih ureda sadrže pečat s grbom Republike Hrvatske.
+c) Tijela jedinica lokalne samouprave
