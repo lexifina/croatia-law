@@ -1,0 +1,1 @@
+Na temelju članka 59. stavak 2. Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 43/92 - pročišćeni tekst i 69/92), Vlada Republike Hrvatske na sjednici održanoj 18. prosinca 1992. godine, donijela je
