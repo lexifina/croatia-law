@@ -1,0 +1,4 @@
+# Članak 6.
+Izmjene i dopune koje su nastale nakon prvog upisa turističke zajednice ili turističkog društva u Upisnik, upisuju se u odjeljak koji se odnosi na izmjene odgovarajućih podataka. Nakon upisa novih podataka, odjeljak koji sadrži stare podatke precrtava se kosom crvenom crtom.
+lznimno, kada turistička zajednica mijenja svoj naziv, upis tog podatka obavlja se na prvom slobodnom listu. Na tom listu prenose se svi ostali upisani podaci sa stranica lista iz odgovarajućih odjeljaka. Nakon što se obavi prijenos svih podataka, prethodni list se precrtava kosom crvenom crtom. U tom slučaju na novom upisnom listu popunjava se takoder i odjeljak: "prijenos upisa", s podatkom o upisnom broju prethodnog upisa.
+U slučaju prestanka turističke zajednice, činjenica prestanka upisuje se u odgovarajući odjeljak, a nakon toga upisni listovi, koji se odnose na tu turističku zajednicu precrtavaju se s dvije kose crvene crte
