@@ -1,0 +1,4 @@
+1.
+U Naredbi o uplatnim računima prihoda proračuna, društvenih fondova te za financiranje drugih javnih potreba, načinu uplaćivanja tih prihoda i izvješćvanju korisnika o njima ("Narodne novine", br. 114/93, 10/94 i 14/94) u točki 2. za račun pod 1) mijenja se tekst i glasi: "Poseban porez na duhanske prerađevine". Račun pod 2) briše se, a računi od 3) do 5) postaju računi od 2) do 4).
+2.
+U točki 3. iza teksta za račun pod 3) umjesto točke stavlja se zarez i dodaje: 4) 840 - 2304 Poseban porez na uvoz automobila, 5) 840-2325 Poseban porez na naftne derivate, 6) 840 - 2330 Poseban porez na alkohol, 7) 840 - 2346 Poseban porez na pivo, 8) 840 - 2351 Poseban porez na bezalkoholna pića. 3. Ove izmjene i dopune Naredbe stupaju na snagu danom objave u "Narodnim novinama", a primjenjuju se od 1. srpnja 1994. godine.
