@@ -1,0 +1,3 @@
+# Članak 15.
+Zavod će na osnovi ugovorene djelatnosti i ugovorenog broja osiguranih osoba, ugovornim zdravstvenim ustanovama i ugovornim privatnim zdravstvenim djelatnicima izdavati tijekom godine, od dana potpisivanja ugovora a za tromjesečna razdoblja, potreban broj brojčano označenih tiskanica recepata i uputnica utvrđenih na osnovi godišnjeg prosječnog broja od 5 recepata i 2 uputnice po osiguranoj osobi.
+Radi praćenja provedbe odredaba stavke 1. ovog članka, prosječni godišnji iznos sredstava za lijekove na recept po osiguranoj osobi do 65 godina starosti utvrđuje se u iznosu od 281,00 kn, odnosno po osiguranoj osobi iznad 65 godina starosti u iznosu do 843,00 kn.

@@ -1,0 +1,2 @@
+# Članak 35.
+Radi provedbe postupka povrata sredstava Zavodu, ugovorne zdravstvene ustanove, odnosno ugovorni privatni zdravstveni djelatnici iznimno će, na temelju sklopljene cesije sa Zavodom, za pruženu zdravstvenu uslugu na svim razinama zdravstvene djelatnosti u svezi s primjenom članka 51. Zakona o zdravstvenom osiguranju ispostavljati Zavodu pojedinačne račune primjenom cijene utvrđene sukladno odredbama članka 28., odnosno 33. ove Odluke.
