@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Ako se utvrdi da korisnik doplatak za djecu ne koristi za uzdržavanje i odgoj djece, nadležno tijelo socijalne skrbi odredit će drugog korisnika i o tome će izvijestiti nadležni županijski ured, odnosno ured Grada Zagreba.
+(2) Ako tijelo socijalne skrbi utvrdi da oba roditelja ili drugi korisnik doplatak za djecu koristi u druge svrhe, a da su zapustili uzdržavanje i odgoj djeteta, dužno je poduzeti potrebne mjere za zaštitu interesa djeteta u skladu sa posebnim propisima kojima je uređen odnos u obitelji, odnoso propisima o skrbništvu, i o tome izvijestiti nadležni županijski ured, odnosno ured Grada Zagreba.
