@@ -1,0 +1,2 @@
+# Članak 2.
+Stanje deviznih depozita banaka u Hrvatskoj deponiranih kod Narodne banke Jugoslavije po osnovi devizne štednje građana, te stanje deviznih depozita prenesenih na banke u Hrvatskoj po odredbama članka 15. i 16. Uredbe uvećano za pripadajuće kamate za 1991. godinu prema valutnoj strukturi u kojoj je izvršeno deponiranje, pretvara se u javni dug Republike Hrvatske u smislu ove uredbe, koji se iskazuje u DEM prema međuvalutarnim odnosima na dan 31. prcsinca 1991. godine.

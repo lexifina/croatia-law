@@ -1,0 +1,6 @@
+# Članak 7.
+Devizna štednja po viđenju i oročena devizna štednja građana te stanje na deviznim računima građana na dan 27. travnja 1991. godine uvećani za pripadajuće kamate za 1991. godinu, a prenešeni ugovorima sukladno članku 3. stavku 2. ove uredbe, pretvaraju se u oročeni depozit koji će se isplaćivati u 20 polugodišnjih rata od kojih prva dospijeva 30. lipnja 1995. godine.
+Ako je ukupno stanje na računu u svim valutama manje od 100 DEM bez pripisane kamate za 1991. godinu, devizna štednja i stanje na deviznim računima građana ne pretvaraju se u oročeni depozit prema stavku 1. ovog članka, a građaninu će se na njegov zahtjev isplatiti protuvrijednost u domaćoj valuti po tečaju na dan isplate.
+Kamata na depozite iz stavka 1. u iznosu od 5% obračunava se dva puta godišnje i to 30. lipnja i 31. prosinca svake godine, počev od 1. siječnja 1992. godine.
+Kamata iz stavka 3. ovog članka isplaćuje se u domaćoj valuti ili devizi po izboru građanina. Ako se kamata isplaćuje u domaćoj valuti prva isplata dospijeva 1. srpnja 1992. godine, a ako se kamata isplaćuje u devizi prva isplata dospijeva 1. srpnja 1995. godine.
+Ako je kamata na depozit iz stavka 3. ovog članka ugovorena po stopi višoj od 5%, razliku od ugovorene kamatne stope, dužna je osigurati banka u skladu s ugovorom.
