@@ -1,0 +1,4 @@
+## IzloŽbeno pravo prvenstva
+# Članak 19.
+(1) Ako je podnositelj prijave za registraciju žiga izlagao proizvode ili usluge obilježene određenim znakom na službenoj ili službeno priznatoj međunarodnoj izložbi u Republici Hrvatskoj, u nekoj od država članica Pariške unije ili u državi članici Svjetske trgovinske organizacije, može zahtijevati da mu se kao datum prve prijave prizna datum prvoga dana izlaganja proizvoda ili pružanja usluga, pod uvjetom da prijavu u Republici Hrvatskoj podnese u roku od šest mjeseci od toga datuma.
+(2) Podnositelj prijave koji se poziva na izložbeno pravo prvenstva dužan je uz prijavu koju podnosi Zavodu podnijeti potvrdu izdanu od strane nadležnoga tijela države članice Pariške unije ili države članice Svjetske trgovinske organizacije iz koje su vidljivi podaci o vrsti izložbe, mjestu njezina održavanja, datumu otvaranja i zatvaranja i prvom danu izlaganja proizvoda ili usluga navedenih u prijavi.

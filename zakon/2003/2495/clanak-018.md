@@ -1,0 +1,4 @@
+## Unijsko pravo prvenstva
+# Članak 18.
+(1) Ako je podnositelj prijave za registraciju žiga prvi put podnio prijavu u nekoj državi članici Pariške unije za zaštitu industrijskoga vlasništva (u daljnjem tekstu: Pariška unija) ili u državi članici Svjetske trgovinske organizacije, može se, prilikom podnošenja prijave za isti žig u Republici Hrvatskoj, pozvati na datum prvoga podnošenja, pod uvjetom da prijavu u Republici Hrvatskoj podnese u roku od šest mjeseci od datuma prvoga podnošenja.
+(2) Podnositelj prijave koji se poziva na unijsko pravo prvenstva mora u prijavi koju podnosi Zavodu navesti bitne podatke o prijavi na koju se poziva (država, datum i broj prijave), priložiti prijepis prve prijave ovjeren od nadležnoga tijela države članice Pariške unije ili države članice Svjetske trgovinske organizacije, najkasnije u roku od tri mjeseca od dana podnošenja zahtjeva za priznanje prava prvenstva, i prijevod prve prijave na hrvatski jezik.

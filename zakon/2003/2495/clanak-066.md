@@ -1,0 +1,3 @@
+## Prigovor i postupak proglaŠavanja Žiga niŠtavim na temelju meĐunarodne registracije Žiga
+# Članak 66.
+Ako je na temelju međunarodne registracije žiga pokrenut postupak prigovora i postupak proglašavanja žiga ništavim, za potrebe dokazivanja uporabe žiga datumom njezine registracije smatra se datum kojega je istekao rok iz članka 5. stavka 2. Madridskoga sporazuma ili članka 5. stavka 2. podstavka a) Protokola ili, ako na taj datum postupak odobravanja zaštite ili postupak po prigovoru još nije bio okončan, datum obavijesti o konačnoj odluci Zavoda o odobravanju zaštite upućene Međunarodnom uredu.

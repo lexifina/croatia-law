@@ -1,0 +1,6 @@
+## Prigovor na meĐunarodnu registraciju Žiga
+# Članak 65.
+(1) Za potrebe međunarodnih registracija žigova prema Madridskom sporazumu i Protokolu, objava prijave propisana u članku 25. ovoga Zakona zamjenjuje se objavom međunarodne registracije žiga u službenom glasilu o međunarodnim registracijama žigova koje izdaje Međunarodni ured (u daljnjem tekstu: međunarodno službeno glasilo).
+(2) Rok za podnošenje prigovora na međunarodnu registriraciju žiga počinje teći od prvoga dana mjeseca koji slijedi mjesec naznačen na izdanju međunarodnoga službenoga glasila u kojemu je ta međunarodna registracija žiga objavljena.
+(3) U postupku povodom prigovora na međunarodnu registraciju žiga Zavod, u skladu s Madridskim sporazumom ili Protokolom, nositelju međunarodne registracije žiga dostavlja obavijest o privremenom odbijanju na temelju prigovora i poziva ga da imenuje zastupnika koji u roku od četiri mjeseca od datuma obavijesti o odbijanju mora Zavodu dostaviti punomoć o zastupanju. Primjerak prigovora dostavlja se zastupniku nakon podnošenja punomoći o zastupanju. Rok za očitovanje na prigovor je 60 dana od dana primitka primjerka prigovora od strane zastupnika.
+(4) Rokovi iz stavka 3. ovoga članka ne mogu se produžavati.
