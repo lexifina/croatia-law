@@ -1,0 +1,3 @@
+# Članak 18.
+Ugovorne stranke izvjestit će jedna drugu diplomatskim putem o ispunjenju svih uvjeta iz nacionalnih zakonodavstava za stupanje na snagu ovoga Ugovora. Ugovor će stupiti na snagu istjekom roka od 30 dana od dana primitka posljednje obavijesti, a privremeno će se primjenjivati trećeg dana od dana njegovog potpisivanja.
+Ugovorne stranke suglasne su da stupanjem na snagu ovog Ugovora, Sporazum između Vlada Jugoslavije i Albanije o međunarodnom cestovnom prijevozu robe potpisan 11. travnja 1969. godine u Tirani prestaje važiti u odnosima između Republike Hrvatske i Republike Albanije, na polju međunarodnog,cestovnog prometa.

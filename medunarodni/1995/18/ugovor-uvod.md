@@ -1,0 +1,2 @@
+UGOVOR O MEĐUNAAODNOM CESTOVNOM PROMETU, IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE ALBANIJE
+Vlada Republike Hrvatske i Vlada Republike Albanije, u daljnjem tekstu "ugovorne stranke", želeći pridonijeti obostrano korisnom razvoju trgovinskih i gospodarskih odnosa, te radi unapređenja i reguliranja međunarodnog cestovnog prijevoza putnika i stvari između dviju država, i u tranzitu preko njihovih teritorija, a na temelju jednakih prava i uzajamne koristi, dogovorile su se o sljedećem:
