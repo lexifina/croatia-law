@@ -1,0 +1,1 @@
+Na temelju članka 27. i 38. Statuta Zadružnog saveza Dalmacije i ovlaštenja Skupštine Zadružnog saveza Dalmacije od 26. prosinca 1990. godine, Upravni odbor ZSD Split, na sjednici održanoj 24. lipnja 1991. godine, donio je
