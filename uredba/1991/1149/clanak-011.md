@@ -1,0 +1,2 @@
+# Članak 11.
+Štete na moru, morskoj obali i otocima, vodama, zračnom prostoru, rudnom blagu i drugim prirodnim bogatstvima, zemljištu, šumama, biljnom i životinjskom svijetu i drugim dijelovima prirode, za koje je zakonom određeno da su od interesa za Republiku te da imaju njezinu osobitu zaštitu, procjenjuju se primjenom propisane metodologije uz uvjet da su mjerljive odnosno da se mogu konkretno procijeniti.
