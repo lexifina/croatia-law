@@ -1,3 +1,8 @@
-## VI. PROVEDBA NACIONALNOG ZNANSTVENOISTRAŽIVAČKOG PROGRAMA
 # Članak 58.
-Radi sustavne provedbe Nacionalnog znanstvenoistraživačkog programa pri Ministarstvu osnivaju se: Znanstveno vijeće Ministarstva i znanstvena područna vijeća.
+(1) Znanstveno vijeće Ministarstva:
+- ocjenjuje uspješnost izvedbe znanstvenoistraživačkih projekata,
+- planira i usmjerava razvoj znanstvenih područja u skladu sa smjernicama utvrđenim Nacionalnim znanstvenoistraživačkim programom,
+- pomaže ministru pri sastavljanju prijedloga za godišnji proračunski zahtjev,
+- predlaže raspodjelu sredstava za znanstvenoistraživačku djelatnost iz državnoga proračuna,
+- predlaže imenovanje i razrješenje članova znanstvenih područnih vijeća.
+(2) Članove Znanstvenog vijeća Ministarstva imenuje ministar iz reda istaknutih znanstvenika vodeći računa o odgovarajućoj zastupljenosti znanstvenih područja.

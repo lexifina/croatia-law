@@ -1,5 +1,5 @@
+## V. ZNANSTVENICI I ISTRAŽIVAČI
 # Članak 38.
-Ako Ministarstvo utvrdi da institut ili druga pravna osoba više ne ispunjava uvjete iz članka 27. ovoga Zakona, pokrenut će i provesti postupak za brisanje iz Upisnika.
-Na postupak brisanja iz Upisnika na odgovarajući se način primjenjuju odredbe o upisu u Upisnik.
-Protiv rješenja o brisanju iz Upisnika može se podnijeti žalba Nacionalnom znanstvenom vijeću.
-O brisanju iz Upisnika Ministarstvo izvještava osnivatelja, nadležni registarski sud i druga nadležna tijela radi provedbe odgovarajućih postupaka.
+(1) U znanstvenoistraživačkim pravnim osobama iz članka 19. ovoga Zakona djeluju znanstvenici izabrani u znanstvena zvanja po odredbama ovoga Zakona.
+(2) Znanstvenoistraživačku djelatnost uz znanstvenike obavljaju i istraživači izabrani u istraživačko zvanje po odredbama ovoga Zakona.
+(3) Pored znanstvenika i istraživača na sveučilištu i Hrvatskoj akademiji znanosti i umjetnosti znanstvenoistraživačku djelatnost obavljaju i nastavnici izabrani u znanstveno-nastavna zvanja redovitog profesora, izvanrednog profesora i docenta, te suradnici izabrani u suradničko zvanje višeg asistenta, asistenta, mlađeg asistenta i stručnog suradnika po odredbama posebnog zakona.

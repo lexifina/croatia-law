@@ -1,4 +1,2 @@
 # Članak 30.
-Strukovno udruženje može se registrirati kao znanstvena udruga uz prethodnu suglasnost Ministra.
-Ministarstvo vodi Upisnik znanstvenih udruga.
-Sadržaj i način vođenja Upisnika znanstvenih udruga propisuje Ministar.
+Pravna osoba može se upisati u sudski registar, odnosno u taj registar upisati znanstvenoistraživačku djelatnost kao svoju djelatnost, samo na temelju rješenja kojim se određuje sam upis u Upisnik Ministarstva.

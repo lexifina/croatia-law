@@ -1,3 +1,3 @@
+## 3. ZNANSTVENO OSPOSOBLJAVANJE I USAVRŠAVANJE
 # Članak 51.
-Znanstveni savjetnici odlaskom u mirovinu zadržavaju znanstveno zvanje kao počasno zvanje.
-3. Znanstveno osposobljavanje i usavršavanje
+Ministarstvo vodi brigu o uvođenju studenata dodiplomskih studija u znanstvenoistraživački rad, sustavnom znanstvenom osposobljavanju studenata poslijediplomskih znanstvenih studija (magistrandi i doktorandi) te potpomaže znanstveno usavršavanje znanstvenika.

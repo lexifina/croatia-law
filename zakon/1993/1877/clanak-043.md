@@ -1,6 +1,7 @@
 # Članak 43.
-Za znanstvenog suradnika može biti, na vrijeme od pet godina, izabrana osoba koja ima stupanj doktora znanosti i nakon stjecanja doktorata znanosti objavljene znanstvene radove u časopisima i publikacijama s priznatom međunarodnom recenzijom.
-Za višega znanstvenog suradnika može biti, na vrijeme od pet godina, izabrana osoba koja ima stupanj doktora znanosti i objavljene značajne znanstvene radove u časopisima i publikaci)ama s priznatom međunarodnom recenzijom koji su pridonijeli razvoju znanstvenog područja, te nove radove, nakon izbora u prethodno zvanje.
-Za znanstvenoga savjetnika može biti, na vrljeme od pet godina, izabrana osoba koja ima stupanj doktora znanosti i veći broj ob)avljenih znanstvenih radova u časopisima i publikacijama s priznatom međunarodnom recenzijom koji su značajnije utjecali na razvoj znanosti, i koja je uspješno sudjelovala u organizaciji znanstvene djelatnosti te nove radove nakon izbora u prethodno zvanje.
-Znanstvenik iz stavka 1.,2. i 3. ovoga članka može biti ponovno izabran u isto zvanje ako ima radove objavljene nakon posljednjeg izbora.
-Znanstvenik po drugi put izabran u zvanje znanstvenog savjetnika zadržava to zvanje kao trajno.
+(1) Izbor znanstvenika provodi se u institutu i drugoj znanstvenoistraživačkoj pravnoj osobi.
+(2) Izbor se provodi na temelju javnog natječaja.
+(3) Mišljenje da li predloženik ispunjava uvjete za izbor daje stručno povjerenstvo sastavljeno od najmanje triju članova koji su u istom ili višem znanstvenom zvanju od onog u koje se predloženik bira.
+(4) Stručno povjerenstvo iz stavka 3. ovoga članka imenuje ovlašteno znanstveno vijeće.
+(5) Znanstveno vijeće Ministarstva utvrđuje mjerila koja moraju zadovoljavati znanstvena, odnosno stručna vijeća da bi bila ovlaštena za provedbu postupka izbora; ovlast daje ministar na temelju tih mjerila; ministar propisuje postupak traženja te ovlasti.
+(6) Stručno povjerenstvo dužno je sastaviti izvješće o izboru te mu priložiti mišljenje znanstvenoga područnog vijeća.

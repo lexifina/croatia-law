@@ -1,8 +1,8 @@
 # Članak 59.
-Znanstveno vijeće Ministarstva:
-- ocjenjuje uspješnost izvedbe znanstvenoistraživačkih projekata,
-- planira i usmjerava razvoj znanstvenih područja u skladu sa smjernicama utvrđenim Nacionalnim znanstvenoistraživačkim programom,
-- pomaže Ministru pri sastavljanju prijedloga za godišnji proračunski zahtjev,
-- predlaže raspodjelu sredstava za znanstvenoistraživačku djelatnost iz državnog proračuna,
-- predlaže imenovanje i razrješenje članova znanstvenih područnih vijeća.
-Članove Znanstvenog vijeća Ministarstva imenuje Ministar iz reda istaknutih znanstvenika vodeći računa o odgovarajućoj znanstvenih područja.
+(1) Ministar, na prijedlog Znanstvenog vijeća Ministarstva imenuje članove znanstvenih područnih vijeća, na rok od četiri godine.
+Znanstvena područna vijeća:
+- organiziraju stručnu prosudbu projekata,
+- predlažu recenzente za ocjenjivanje projekata,
+- predlažu raspodjelu sredstava utvrđenih godišnjim proračunom za projekte,
+- daju mišljenje o ispunjavanju minimalnih znanstvenih kriterija u postupku izbora znanstvenika.
+(2) Znanstvena područja na prijedlog Znanstvenog vijeća Ministarstva utvrđuje ministar.

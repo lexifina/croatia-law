@@ -1,3 +1,4 @@
 # Članak 47.
-Izbor u istraživačko zvanje provodi znanstveno vijeće instituta ili stručno vijeće druge znanstvenoistraživačke pravne osobe u skladu s odredbama svojih statuta.
-U drugim pravnim osobama odluku o izboru predloženika donosi tijelo po postupku propisanom statutom.
+(1) Ministarstvo vodi popis znanstvenika i istraživača iz članka 39. i 40. ovoga Zakona.
+(2) Pored znanstvenika i istraživača iz stavka 1. ovoga članka u popis se upisuju i osobe izabrane u znanstveno-nastavna i suradnička zvanja koje sudjeluju u izvedbi znanstvenoistraživačkih i drugih projekata.
+(3) Sadržaj, oblik i način vođenja popisa te postupak upisa i brisanja iz popisa propisuje ministar.

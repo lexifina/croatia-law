@@ -1,2 +1,6 @@
 # Članak 49.
-Znanstvenici i istraživači sklapaju s institutom i drugom znanstvenoistraživačkom i pravnom osobom ugovor o radu na neodređeno vrijeme, ako ugovorom nije drugačije određeno.
+Institut ili druga znanstvenoistraživačka pravna osoba otkazat će ugovor o radu:
+- znanstvenom savjetniku ako ne bude ponovno izabran u isto zvanje,
+- znanstvenom suradniku i višem znanstvenom suradniku ako ne bude ponovno izabran u isto ili više zvanje,
+- istraživaču u zvanju mlađeg asistenta, asistenta i višeg asistenta ako ne bude izabran u više istraživačko, odnosno znanstveno zvanje,
+- ako se javnim natječajem izabere druga osoba.

@@ -1,9 +1,10 @@
+## IV. ZNANSTVENOISTRAŽIVAČKE PRAVNE OSOBE
+## 1. OBAVLJANJE ZNANSTVENOISTRAŽIVAČKE DJELATNOSTI
 # Članak 19.
-- Znanstvenoistraživačku djelatnost obavljaju znanstvenoistraživačke pravne osobe.
-Znanstvenoistraživačke pravne osobe su:
+(1) Znanstvenoistraživačku djelatnost obavljaju znanstvenoistraživačke pravne osobe.
+(2) Znanstvenoistraživačke pravne osobe su:
 - znanstvenoistraživački instituti,
 - sveučilišta,
-- fakulteti i,
+- fakulteti,
 - Hrvatska akademija znanosti i umjetnosti.
-Druge pravne osobe mogu u sudski registar upisati obavljaje znanstvenoistraživačke djelatnosti na temelju prethodne suglasnosti Ministarstva, ako ispunjavaju uvjete iz članka 27. ovoga Zakona.
-2. Osnutak znanstvenoistraživačkih instituta
+(3) Druge pravne osobe mogu u sudski registar upisati obavljanje znanstvenoistraživačke djelatnosti na temelju prethodne suglasnosti Ministarstva, ako ispunjavaju uvjete iz članka 26. ovoga Zakona.

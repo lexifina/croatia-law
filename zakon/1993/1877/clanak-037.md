@@ -1,11 +1,7 @@
+## 4. GUBITAK ZNANSTVENOISTRAŽIVAČKOG STATUSA I BRISANJE IZ UPISNIKA
 # Članak 37.
-Znanstveno vijeće je stručno vijeće instituta.
-Znanstveno vijeće:
-- raspravlja i odlučuje o stručnim i znanstvenini pitanjima,
-- daje ravnatelju i predsjedniku znanstvenog vijeća mišljenja i prijedloge o ustrojbi rada i ostvarivanju uvjeta za razvoj znanstvenoistraživačke djelatnosti,
-- provodi postupke izbora u znanstvena i istraživačka zvanja,
-- obavlja druge poslove određene odlukom o osnutku i statutom instituta.
-Znanstveno vijeće čine odgovorni nositelji projekata te predstavnici znanstvenika i istraživača u skladu s odredbania statuta.
-Jednu trećinu članova znanstvenog vijeća mogu činiti znanstvenici koji nisu zaposleni u institutu.
-Statutom instituta može se odrediti da dužnost predsjednika znanstvnog vijeća obavlja ravnatelj instituta.
-4. Gubitak znanstvenoistraživačkog statusa i brisanje iz Upisnika
+(1) Ako Ministarstvo utvrdi da institut ili druga pravna osoba više ne ispunjava uvjete iz članka 26. ovoga Zakona, uz pribavljeno mišljenje Nacionalnoga znanstvenog vijeća, pokrenut će i provesti postupak za brisanje iz Upisnika.
+(2) Ako Nacionalno znanstveno vijeće ne da mišljenje iz stavka 1. ovoga članka u roku od mjesec dana od uredno podnesenoga zahtjeva, smatra se da je njegovo mišljenje pozitivno.
+(3) Na postupak brisanja iz Upisnika na odgovarajući se način primjenjuju odredbe o upisu u Upisnik.
+(4) Rješenje o brisanju iz Upisnika konačno je u upravnom postupku.
+(5) O brisanju iz Upisnika Ministarstvo izvješćuje osnivatelja, nadležni registarski sud i druga nadležna tijela radi provedbe odgovarajućih postupaka.
