@@ -1,0 +1,2 @@
+# Članak 6.
+Ako se od Ministarstva financija, na osnovi preuzete obveze Republike Hrvatske za otplatu kredita iz članka 1. ovoga Zakona, bude zalktijevalo da osigura ovlaštenoj banci ili poduzeću ili drugoj pravnoj osobi protuvrijednost dospjele obveze u domaćoj valuti, Ministarstvo financija svoja će potraživanja utvrditi na temelju ugovora ili putem naloga ovlaštenoj organizaciji za platni promet da blokira račune dužnika.

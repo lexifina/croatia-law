@@ -1,0 +1,2 @@
+# Članak 8.
+Ako ovlaštena banka ne podmiri dospjelu obvezu, prema odredbi iz članka 3. stavka 1. ovoga Zakona. ili ako ne proda devize korisniku kredita u skladu s odredbom iz članka 4. stavka 1. ovoga Zanona, ili ako ne proda devize Narodnoj banci Hrvatske, prema odredbama iz članka 3 stavak 4., članka 4. stavka 3. i članka 5. stavka 4. ovoga Zakona. smatrat će se nelikvidnom i nrodna banka Hrvatske će protiv te banke poduzeti mjere predviđene Zakonom o Narodnoj banci Hrvatske ("Narodne nuvine,br.74/92)
