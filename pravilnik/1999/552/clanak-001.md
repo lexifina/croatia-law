@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o posebnom porezu na alkohol ("Narodne novine" br. 59/94, 109/96 i 158/98) u članku 5b. stavak 3. mijenja se i glasi:
+(3) "Porezni obveznici kao i pravne i fizičke osobe iz stavka 1. i 2. ovoga članka, podnose zahtjev za tiskanje markica Područnom uredu, nadležnom prema svom sjedištu. Zahtjev za tiskanje markica podnosi se mjesečno, do petnaestog u mjesecu, za naredni mjesec. Prvi zahtjev za tiskanje markica, kao i zahtjev po kojemu se naručuju količine markica dvostruko i više od dvostruke količine iznad prosjeka naručenih markica u posljednja tri mjeseca, treba naručiti trideset dana prije preuzimanja markica, za naredni mjesec. Porezna uprava - Područni ured objedinjuje zaprimljene zahtjeve i sljedećeg dana u mjesecu dostavlja zahtjev za tiskanje markica Poreznoj upravi - Središnjem uredu".
+U istom članku u stavku 4. iza riječi "podnositelja zahtjeva" dodaju se riječi "MB ili JMBG".
