@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 65. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Uslugama i isporukama u smislu odredbe stavka 1. ovoga članka, smatraju se i usluge i isporuke dobara u okviru obavljanja navedenih usluga koje obavljaju ustanove za trajnu naobrazbu i kulturu u skladu s posebnim propisima (muzejska djelatnost, djelatnost knjižnica, kazališna djelatnost i sl.). Uslugama i isporukama iz ovoga stavka ne smatraju se usluge i isporuke dobara koje ustanove za trajnu naobrazbu i kulturu obavljaju kao komercijalne programe (razni tečajevi, učenje stranih jezika, prikazivanje filmova i sl.).«
