@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 4. Zakona o obrtu ("Narodne novine", broj 77/93 i 90/96) ministar prosvjete i športa po prethodno pribavljenom mišljenju Hrvatske obrtničke komore i uz suglasnost Ministarstva gospodarstva donio je
