@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuju uvjeti i mjerila za ostvarivanje prava na stipendiju na dodiplomskom i poslijediplomskom studiju hrvatskim braniteljima iz Domovinskog rata (u daljnjem tekstu: hrvatski branitelji), djeci poginulih, umrlih, zatočenih ili nestalih hrvatskih branitelja te hrvatskim ratnim vojnim invalidima Domovinskog rata (u daljnjem tekstu: HRVI Domovinskog rata) i njihovoj djeci.

@@ -1,0 +1,1 @@
+Na temelju članka 33. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine" broj 108/96) ministar znanosti i tehnologije uz suglasnost ministra obrane donosi
