@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 133. stavka 1. točke 15., a u svezi s odredbama članka 132. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 29. sjednici održanoj 16. siječnja 2002. godine donijelo je

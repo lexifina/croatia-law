@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite (»Narodne novine« broj 127/00. i 14/01., u daljnjem tekstu: Odluka) u članku 4. u poglavlju »Djelatnost opće/obiteljske medicine« u stavci 2. točki I. iznos: »262.054,31 kn.« zamjenjuje se iznosom: »258.950,62 kn.«, a u poglavlju »Primarna laboratorijska dijagnostika« u stavci 1. iznos: »486.830,09 kn.« zamjenjuje se iznosom: »427.700,00 kn.«
