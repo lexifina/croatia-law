@@ -1,0 +1,35 @@
+## Vozaču koji počini prekršaj iz stavka 2. ovoga članka određuju se dva kaznena boda."
+# Članak 66.
+Članak 303. mijenja se i glasi:
+"Novčanom kaznom u iznosu od 50 kuna kaznit će se na mjestu izvršenja prekršaja:
+1. vozač koji upravlja vozilom za prijevoz djece koje nije obilježeno posebnim znakom (članak 16. stavak 5.),
+2. vozač koji prije obavljanja radnji iz članka 18. ovoga Zakona ne upozori o svojoj namjeri druge sudionike u prometu ili to ne učini pravodobno (članak 19. stavak 1.) ili postupi suprotno odredbi članka 19. stavak 2. ovoga Zakona,
+3. vozač koji prilikom kretanja vozila unatrag postupi suprotno odredbama članka 25. ovoga Zakona,
+4. vozač koji poslije obavljenog pretjecanja ili obilaženja vozilom ne zauzme položaj na prometnoj traci kojom se do tada kretao (članak 46.),
+5. osoba koja na zaustavljenom ili parkiranom vozilu otvara vrata i time ometa kretanje drugih sudionika u prometu ili ugrožava sigurnost prometa (članak 56.),
+6. vozač radnog stroja ako u prometu na cesti vuče priključke koji ne služe njegovoj namjeni (članak 66.),
+7. tko biciklom ili mopedom u prometu na cesti vuče priključno vozilo suprotno odredbi članka 67. ovoga Zakona,
+8. vozač bicikla i mopeda ako postupi suprotno odredbi članka 86. ovoga Zakona,
+9. vozač motocikla i mopeda i osobe koje se prevoze tim vozilom, ako u prometu na cesti ne nose zaštitnu kacigu za vrijeme vožnje (članak 88.),
+10. vozač zaprežnog vozila koji za vrijeme vožnje na cesti ne drži uzde u rukama ili ne vodi zapregu prema odredbama članka 90. ovoga Zakona,
+11. gonič stoke koji stoku ne drži što bliže desnom rubu ceste (članak 93. stavak 2.),
+12. gonič koji postupi suprotno odredbama članka 97. ovoga Zakona,
+13. pješak koji se nepotrebno zadržava na kolniku ili se na kolniku igra, sanjka, skija i sl., ili se na cesti koja ima nogostup ili drugu površinu određenu za kretanje pješaka kreće kolnikom (članak 98.),
+14. pješak koji u slučaju iz stavka 2. članka 99. ovoga Zakona ometa ili sprečava promet vozila,
+15. pješak koji se kreće po kolniku suprotno odredbama članka 100., 101. i 102. ovoga zakona,
+16. pješak koji preko kolnika i biciklističke staze ili trake prelazi na način suprotan odredbama članka 103. ovoga Zakona,
+17. vodič organizirane kolone pješaka i pješaci ako se ne kreću u koloni po jedan, noću i danju za vrijeme smanjene vidljivosti te u drugim slučajevima kada je to potrebno radi sigurnosti prometa, a vodič i ako je kolona duža od 50 metara ili je razmak između kolona manji od 50 metara (članak 106.),
+18. vozač bicikla, mopeda ili motocikla koji prevozi predmete šire od 50 cm sa svake strane vozila kao i vozač bicikla i mopeda koji na priključnom vozilu prevozi predmete šire od 80 cm (članak 130.),
+19. vozač koji vozilom prevozi osobe suprotno odredbama članka 131. i 132. ovoga Zakona,
+20. osoba koja se prevozi vozilom ako na bilo koji način ometa vozača u upravljanju vozilom ili ako utječe na njega da upravlja vozilom na način kojim se umanjuje sigurnost prometa (članak 135.),
+21. osoba koja za vrijeme kretanja vozila u promet na cesti iskače, otvara vrata, naginje se izvan vozila ili se vozi na vanjskim dijelovima vozila, ili na traktorskim priključcima, ili uskače u vozilo (članak 137.),
+22. vozač koji za vrijeme kretanja po cesti prevozi osobe suprotno odredbama članka 139. i 142. ovoga Zakona,
+23. vozač koji u prometu na cesti nema pri sebi odobrenje za prijevoz osoba teretnim motornim vozilom odnosno priključnim vozilom koje vuče traktor ili to odobrenje ne pokaže na zahtjev ovlaštene službene osobe (članak 143.),
+24. vozač koji na turističkom vlaku prevozi osobe suprotno odredbama članka 144. ovoga Zakona,
+25. kandidat za vozača koji za vrijeme upravljanja vozilom nema pri sebi ili odbije pokazati uvjerenje da je duševno i tjelesno sposoban za upravljanje vozilom (članak 202. stavak 2.),
+26. instruktor vožnje koji na cesti osposobljava kandidata za vozača na vozilu koje nije označeno posebnim pločicama (članak 204. stavak 1.),
+27. vozač koji nema pri sebi odgovarajuću važeću vozačku dozvolu ili je ne pokaže na zahtjev ovlaštene osobe (članak 224. stavak 1.),
+28. vozač koji nema pri sebi važeću potvrdu za korištenje pokusnih pločica, ako koristi vozilo suprotno izdanoj potvrdi ili ako je ne pokaže na zahtjev ovlaštene osobe, ili vozilom vuče laku prikolicu koja nema registarsku pločicu (članak 245. stavak 4. i 5.),
+29. vozač koji nema kod sebe važeću prometnu dozvolu za vozilo kojim upravlja ili prometnu dozvolu ne pokaže na zahtjev ovlaštene osobe ili ju ostavi u vozilu bez nadzora (članak 246. stavak 3.),
+30. vozač vozila koji nema propisan broj registarskih pločica ili na kojem su te pločice ili međunarodna oznaka postavljene tako da se dobro ne vide ili nisu čitljive (članak 248.).
+Za prekršaj iz stavka 1. ovoga članka, kojim je izazvana neposredna opasnost za drugog sudionika u prometu ili prometna nezgoda, počinitelj će se kazniti novčanom kaznom u iznosu od 120 do 300 kuna".
