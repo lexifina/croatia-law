@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 137/00, 59/01 i 107/01) i članka 23. Statuta Grada Ludbrega (»Sl. vjesnik Varaždinske županije« br. 12/01. Gradsko vijeće Grada Ludbrega na 13. sjednici održanoj dana 13. prosinca donijelo je
