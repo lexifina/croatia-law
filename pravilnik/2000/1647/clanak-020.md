@@ -1,0 +1,2 @@
+# Članak 20.
+Zdravstvena ustanova ili privatna ordinacija medicine rada za dobivanje ovlaštenja za obavljanje pregleda osoba koje rade u području nadzora mora, uz zakonom propisane uvjete za početak rada i obavljanje djelatnosti, zaposliti ili sklopiti ugovor o obavljanju pregleda sa doktorom medicine specijalistom oftalmologom i psihologom, te imati ili ugovorom osigurati usluge laboratorija u kojem se radi analiza kromosomskih aberacija a koji za tu djelatnost ima ovlaštenje ministra zdravstva.

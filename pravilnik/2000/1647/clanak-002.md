@@ -1,0 +1,4 @@
+# Članak 2.
+Ministar zdravstva, na osnovi nalaza i mišljenja povjerenstva ovlašćuje zdravstvene ustanove koje u svom sastavu imaju djelatnost medicine rada ili privatne ordinacije medicine rada za obavljanje pregleda osoba koje rade s izvorima ionizirajućih zračenja.
+Popis ovlaštenih zdravstvenih ustanova i privatnih ordinacija medicine rada iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama«.
+Na osnovi nalaza i mišljenja povjerenstva ministar zdravstva može oduzeti ovlaštenje izdano za obavljanje pregleda osoba koje rade s izvorima ionizirajućih zračenja, ako se utvrdi da zdravstvena ustanova ili privatna ordinacija ne ispunjava propisane uvjete, ne izvršava svoje obveze, odnosno ne pridržava se utvrđenih doktrinarnih kriterija pri zdravstvenim pregledima i ocjeni zdravstvene sposobnosti.
