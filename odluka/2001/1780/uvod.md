@@ -1,0 +1,1 @@
+Na temelju članka 30., 30a., 32., 36., 38., 42. i 43. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 117/93, 69/97, 33/00, 73/00 i 59/01) i članka 26. Statuta Grada Otočca (»Službeni vjesnik Grada Otočca« broj 4/93, 1/97, 1/01, 2/01, 4/01), Gradsko vijeće Grada Otočca na 4. sjednici održanoj 16. studenoga 2001., donosi
