@@ -1,0 +1,2 @@
+# Članak 3.
+Obveznici doprinosa za koje je u članku 2. stavku 1. i 2. ove odluke utvrđena stopa, obračunavaju doprinos primjenom te stope na osnovicu koju čini ostvareni bruto osobni dohodak (čisti osobni dohodak s porezima i doprinosima iz osobnog dohotka), a mjesečnu akontaciju doprinosa uplaćuju na račun broj: 30102-637-3567 - Privredna komora Hrvatske - kod Službe društvenog knjigovodstva, na dan uplate poreza i doprinosa iz osobnih dohodaka.

@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici doprinosa, izuzevši obveznike doprinosa iz stavka 2. i 3. ovoga članka, plaćaju doprinos po stopi od 1,25 promila. Javna poduzeća republičkog značaja, koja utvrđuje Sabor Republike Hrvatske, plaćaju doprinos po stopi od 3,15 promila, s tim da ne plaćaju doprinos Privrednoj komori Zagreb. Male pravne osobe, u smislu razvrstavanja prema Zakonu o računovodstvu, uplaćuju doprinos u fiksnom iznosu od 250,00 dinara mjesečno, na raćun iz članka 3. ove odluke. do 5. u mjesecu.

@@ -1,0 +1,2 @@
+# Članak 5.
+Zadružni savez Hrvatske plaća doprinos po stopi od 4%, a osnovica je prihod koji ostvari od doprinosa svojih članova. Savez udruženja samostalnih privrednika Hrvatske plaća doprinos po stopi od 10%, a osnovica je prihod koji ostvari od doprinosa svojih članova. Zadružni savez Hrvatske i Savez udruženja samostalih privrednika Hrvatske obračunavaju i uplaćuju doprinos tromjesečno, na račun iz članka 3. ove odluke.

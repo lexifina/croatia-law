@@ -1,0 +1,1 @@
+Na temelju člana 44. točke 2. Statuta Privredne komore Hrvatske ("Narodne novine", br. 22/90 i 2/91). Izvršni odbor Privredne komore Hrvatske na 33. sjednici održanoj 22. travnja 1991. godine utvrdio je
