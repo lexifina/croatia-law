@@ -1,0 +1,2 @@
+# Članak 8.
+Ako su vage izrađene u skladu s odredbama iz članka 7. ovoga Pravilnika, ako su pravilno ugrađene i održavane te ako se upotrebljavaju za predviđenu namjenu, a mogu ugroziti zdravlje i/ili sigurnost korisnika i drugih osoba, ravnatelj Državnog zavoda za mjeriteljstvo (u nastavku: ravnatelj Zavoda) donijet će rješenje o povlačenju takvih vaga s tržišta i/ili zabranu njihovog stavljanja na tržište i/ili uporabu.
