@@ -1,0 +1,1 @@
+Na temelju članka 84. stavka 2. Zakona o lokalnoj samoupravi i upravi (»Narodne novine«, br. 90/92, 94/93, 117/93 i 128/99) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1999. godine donijela
