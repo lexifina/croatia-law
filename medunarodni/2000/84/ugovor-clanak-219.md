@@ -1,0 +1,3 @@
+# Članak 219.
+Mjere nadziranja plovidbene sposobnosti brodova radi sprečavanja onečišćenja
+Uz uvjet poštovanja odsjeka 7., države koje su utvrdile, na zahtjev ili na vlastitu inicijativu, da je brod u jednoj od njihovih luka ili u jednom od njihovih terminala na pučini prekršio međunarodna pravila i standarde primjenjive na plovidbenu sposobnost brodova, pa zbog toga prijeti prouzročiti štetu morskom okolišu, poduzimaju, u granicama mogućnosti, upravne mjere da bi spriječile isplovljenje toga broda. Te države mogu dopustiti brodu da otplovi jedino u najbliže prikladno remontno brodogradilište, a zatim, pošto su uklonjeni uzroci prekršaja, dopuštaju mu da odmah nastavi putovanje.

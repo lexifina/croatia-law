@@ -1,0 +1,3 @@
+# Članak 247.
+Projekti znanstvenog istraživanja mora poduzeti od međunarodnih organizacija ili pod njihovim okriljem
+Smatra se da je obalna država, koja je članica međunarodne organizacije ili ima dvostrani sporazum s takvom organizacijom, a u čijem isključivom gospodarskom pojasu ili na čijem epikontinentalnom pojasu ta organizacija hoće izravno izvesti projekt znanstvenog istraživanja mora, ili želi da se projekt izvede pod njezinim okriljem, dopustila izvođenje projekta u skladu s dogovorenim pojedinostima, ako je ta država odobrila detaljan projekt u vrijeme kada je donijeta odluka organizacije o poduzimanju projekta, ili ako želi u njemu sudjelovati, a nije izrazila nikakav prigovor u roku od četiri mjeseca od časa kad joj je organizacija priopćila projekt.

@@ -1,0 +1,5 @@
+# Članak 266.
+Promicanje razvoja i prijenosa morske tehnologije
+1. Države, izravno ili preko nadležnih međunarodnih organizacija, surađuju u skladu sa svojim mogućnostima, u aktivnom promicanju razvoja i prijenosa znanosti o moru i morske tehnologije pod pravednim i razumnim modalitetima i uvjetima.
+2. Države promiču razvoj potencijala u području znanosti o moru i morske tehnologije onih država koje trebaju i traže tehničku pomoć na tom području, posebno država u razvoju, uključujući neobalne države i države u nepovoljnom geografskom položaju s obzirom na istraživanje, iskorištavanje, očuvanje i gospodarenje bogatstvima mora, zaštitu i očuvanje morskog okoliša, znanstveno istraživanje mora i druge djelatnosti u morskom okolišu koje su u skladu s ovom Konvencijom, radi ubrzanja socijalnog i gospodarskog napretka država u razvoju.
+3. Države nastoje izgraditi povoljne gospodarske i pravne uvjete za prijenos morske tehnologije na pravičnoj osnovi, radi dobrobiti svih zainteresiranih stranaka.

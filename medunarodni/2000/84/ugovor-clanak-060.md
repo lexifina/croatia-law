@@ -1,0 +1,13 @@
+# Članak 60.
+Umjetni otoci, uređaji i naprave u isključivom gospodarskom pojasu
+1. U isključivom gospodarskom pojasu obalna država ima isključivo pravo graditi i dopuštati i uređivati izgradnju, rad i upotrebu:
+(a) umjetnih otoka;
+(b) uređaja i naprava za svrhe predviđene u članku 56. i za druge gospodarske svrhe;
+(c) uređaja i naprava koji mogu ometati ostvarivanje prava obalne države u pojasu.
+2. Obalna država ima isključivu jurisdikciju nad tim umjetnim otocima, uređajima i napravama, uključujući jurisdikciju glede carinskih, fiskalnih, zdravstvenih, sigurnosnih i useljeničkih zakona i drugih propisa.
+3. Mora se dati propisna obavijest o izgradnji umjetnih otoka, uređaja i naprava i moraju se održavati stalna upozoravajuća sredstva o njihovoj prisutnosti. Svaki uređaj i naprava koji je napušten ili se više ne upotrebljava mora se ukloniti radi sigurnosti plovidbe, vodeći računa o općeprihvaćenim međunarodnim standardima koje je za takve slučajeve usvojila nadležna međunarodna organizacija. Pri tom uklanjanju također se dolično vodi računa o ribolovu, zaštiti morskog okoliša i pravima i dužnostima drugih država. Na primjeren način će se objaviti dubina, položaj i dimenzije uređaja ili naprava koji nisu potpuno uklonjeni.
+4. Obalna država može, kad je to potrebno, oko spomenutih umjetnih otoka, uređaja i naprava ustanoviti sigurnosne zone razumnih dimenzija, u kojima može poduzeti mjere potrebne za sigurnost plovidbe i sigurnost umjetnih otoka, uređaja i naprava.
+5. Širinu sigurnosnih zona određuje obalna država, vodeći računa o primjenjivim međunarodnim standardima. Te se zone određuju na način koji osigurava da one razumno odgovaraju prirodi i funkciji umjetnih otoka, uređaja i naprava i da ne prelaze udaljenost od 500 metara oko njih, mjereći od svake točke njihova vanjskog ruba, osim ako drukčije ovlašćuju općeprihvaćeni međunarodni standardi ili drukčije preporučuje nadležna međunarodna organizacija. Mora se dati propisna obavijest o širini sigurnosnih zona.
+6. Svi brodovi moraju poštovati takve sigurnosne zone i pridržavati se općeprihvaćenih međunarodnih standarda o plovidbi u blizini umjetnih otoka, uređaja, naprava i sigurnosnih zona.
+7. Umjetni otoci, uređaji, naprave i sigurnosne zone oko njih ne smiju se postavljati tamo gdje mogu ometati upotrebu priznatih plovidbenih putova bitnih za međunarodnu plovidbu.
+8. Umjetni otoci, uređaji i naprave nemaju pravni položaj otoka. Oni nemaju vlastitoga teritorijalnog mora i njihovo postojanje ne utječe na određivanje granica teritorijalnog mora, isključivoga gospodarskog pojasa ili epikontinentalnog pojasa.

@@ -1,0 +1,5 @@
+# Članak 142.
+Prava i zakoniti interesi obalnih država
+1. Djelatnosti u Zoni, koje se odnose na nalazišta bogatstava u Zoni koja se protežu i unutar granica nacionalne jurisdikcije, izvode se s dužnim obzirom prema pravima i zakonitim interesima obalne države pod čijom se jurisdikcijom ta nalazišta nalaze.
+2. Radi izbjegavanja povreda tih prava i interesa održavaju se savjetovanja sa zainteresiranom državom, uključujući sustav prethodnog obavještavanja. Za slučajeve u kojima djelatnosti u Zoni mogu dovesti do iskorištavanja bogatstava koja leže unutar granica nacionalne jurisdikcije obalne države, potrebna je prethodna suglasnost te države.
+3. Ni ovaj dio, ni prava priznata ili vršena na temelju njega, ne diraju u prava obalnih država da poduzimaju mjere u skladu s relevantnim odredbama dijela XII. koje mogu biti potrebne radi sprečavanja, smanjenja ili otklanjanja ozbiljne i izravne opasnosti za njihovu obalu ili za interese uz nju vezane, prouzročene onečišćenjem ili prijetnjom od onečišćenja ili drugim opasnim pojavama koje proistječu iz djelatnosti u Zoni ili su njima izazvane.

@@ -1,0 +1,4 @@
+# Članak 314.
+Izmjene odredaba Konvencije koje se isključivo odnose na djelatnosti u Zoni
+1. Država stranka može, pisanim priopćenjem upućenim glavnom tajniku Vlasti, predložiti izmjenu odredaba ove Konvencije koje se isključivo odnose na djelatnosti u Zoni, uključujući odsjek 4., Priloga VI. Glavni tajnik prosljeđuje takvo priopćenje svim državama strankama. Nakon što ju je odobrilo Vijeće, predložena izmjena podliježe odobrenju Skupštine. Predstavnici država stranaka u tim organima imaju sva ovlaštenja da razmatraju i odobre predloženu izmjenu. Predložena izmjena, odobrena od Vijeća i Skupštine, smatra se usvojenom.
+2. Prije odobravanja svake izmjene prema stavku 1., Vijeće i Skupština će se uvjeriti da izmjena ne šteti sustavu istraživanja i iskorištavanja bogatstava Zone, do zasjedanja revizijske konferencije prema članku 155.

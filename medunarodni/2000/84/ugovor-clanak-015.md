@@ -1,0 +1,3 @@
+# Članak 15.
+Razgraničenje teritorijalnog mora između država čije obale leže sučelice ili međusobno graniče
+Kad obale dviju država leže sučelice ili međusobno graniče, nijedna od tih dviju država nije ovlaštena, ako među njima nema suprotnog sporazuma, proširiti svoje teritorijalno more preko crte sredine, kojoj je svaka točka jednako udaljena od najbližih točaka polaznih crta od kojih se mjeri širina teritorijalnog mora svake od tih dviju država. Ova se odredba, međutim, ne primjenjuje u slučaju gdje je zbog historijskog naslova ili drugih posebnih okolnosti potrebno razgraničiti teritorijalna mora dviju država na drukčiji način.

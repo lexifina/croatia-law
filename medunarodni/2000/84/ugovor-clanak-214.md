@@ -1,0 +1,3 @@
+# Članak 214.
+Provedba glede onečišćenja od djelatnosti na morskom dnu
+Države provode svoje zakone i druge propise donesene u skladu sa člankom 208., te donose zakone i druge propise i poduzimaju druge mjere potrebne za izvršavanje primjenjivih međunarodnih pravila i standarda usvojenih preko nadležnih međunarodnih organizacija ili na diplomatskoj konferenciji radi sprečavanja, smanjivanja i nadziranja onečišćenja morskog okoliša koje nastaje izravno ili posredno od djelatnosti na morskom dnu podložnih njihovoj jurisdikciji, ili potječe od umjetnih otoka, uređaja i naprava koje su pod njihovom jurisdikcijom, na temelju članaka 60. i 80.

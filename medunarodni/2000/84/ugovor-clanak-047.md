@@ -1,0 +1,11 @@
+# Članak 47.
+Arhipelaške polazne crte
+1. Arhipelaška država može povući ravne arhipelaške polazne crte spajajući krajnje točke najudaljenijih otoka i nadvodnih grebena u arhipelagu, pod uvjetom da su tim crtama obuhvaćeni glavni otoci i područje u kojemu je omjer površine vode i kopna, uključujući atole, između jedan prema jedan i devet prema jedan.
+2. Duljina tih polaznih crta ne smije prijeći 100 morskih milja, osim što do tri posto ukupnog broja polaznih crta koje opasuju svaki arhipelag može prijeći tu duljinu, do najveće duljine od 125 morskih milja.
+3. Polazne se crte ne smiju povlačiti tako da se znatno udalje od općeg oblika arhipelaga.
+4. Te se polazne crte ne smiju povlačiti na uzvišice suhe za niske vode, niti od njih, osim ako su na njima podignuti svjetionici ili slični uređaji koji se stalno nalaze iznad morske razine, ili kad se uzvišica suha za niske vode nalazi, u cijelosti ili dijelom, na udaljenosti od najbližeg otoka koja ne prelazi širinu teritorijalnog mora.
+5. Arhipelaška država ne može primijeniti metodu takvih polaznih crta tako da time odvoji teritorijalno more druge države od otvorenog mora ili isključivoga gospodarskog pojasa.
+6. Ako se jedan dio arhipelaških voda arhipelaške države nalazi između dvaju dijelova neposredno susjedne države, postojeća prava i svi drugi zakoniti interesi koje je ta susjedna država tradicionalno vršila u tim vodama, kao i sva prava što proistječu iz sporazuma zaključenih između tih dviju država, očuvani su i dalje se poštuju.
+7. Za izračunavanje omjera vode i kopna na temelju stavka 1., kopnena područja mogu uključivati vode koje se nalaze unutar grebena uzduž vanjskog ruba otoka i atola, uključujući onaj dio strmih obronaka oceanskog platoa koji je zatvoren ili gotovo zatvoren lancem otoka vapnenačkog sastava i nadvodnih grebena koji se nalaze u perimetru platoa.
+8. Polazne crte povučene u skladu s ovim člankom naznačuju se na pomorskim kartama takva mjerila ili takvih mjerila koja su prikladna za utvrđivanje njihova položaja. Umjesto toga, mogu se izraditi popisi geografskih koordinata točaka s navedenim geodetskim podacima.
+9. Arhipelaška država na propisan način objavljuje takve karte ili popise geografskih koordinata, a jedan primjerak svake takve karte ili popisa polaže kod glavnog tajnika Ujedinjenih naroda.

@@ -1,0 +1,8 @@
+# Članak 290.
+Privremene mjere
+1. Ako je neki spor valjano podvrgnut sudu ili arbitražnom sudu, koji prima facie drži da je nadležan na temelju ovoga dijela ili odsjeka 5., dijela XI., taj sud ili arbitražni sud može, do donošenja konačne odluke, propisati bilo koje privremene mjere koje prema okolnostima drži prikladnima za očuvanje prava stranaka spora ili za sprečavanje nanošenja velike štete morskom okolišu.
+2. Privremene mjere mogu se izmijeniti ili opozvati čim su se okolnosti koje ih opravdavaju izmijenile ili su prestale postojati.
+3. Privremene mjere mogu se propisati, izmijeniti ili opozvati na temelju ovoga članka samo na zahtjev stranke spora i to nakon što je strankama bila pružena mogućnost da ih se sasluša.
+4. O propisivanju, izmjeni ili opozivu privremenih mjera sud ili arbitražni sud odmah obavještava stranke spora i druge države stranke za koje drži da ih treba obavijestiti.
+5. Dok se ne konstituira arbitražni sud kojemu je podnesen neki spor na temelju ovoga odsjeka, svaki sud ili arbitražni sud o kojemu se stranke sporazume, ili ako se sporazum ne postigne u roku od dva tjedna od dana zahtjeva za privremenim mjerama, Međunarodni sud za pravo mora, ili, glede djelatnosti u Zoni, Vijeće za sporove o morskom dnu, može propisati, izmijeniti ili opozvati privremene mjere u skladu s ovim člankom, ako prima facie drži da će arbitražni sud koji se konstituira biti nadležan i da to hitnost situacije zahtijeva. Jednom konstituiran, arbitražni sud kojemu je spor podnesen može izmijeniti, opozvati ili potvrditi te privremene mjere, djelujući u skladu sa stavcima 1. do 4.
+6. Stranke spora odmah izvršavaju sve privremene mjere propisane na temelju ovoga članka.

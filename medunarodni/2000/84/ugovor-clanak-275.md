@@ -1,0 +1,4 @@
+# Članak 275.
+Osnivanje nacionalnih centara
+1. Države, izravno ili preko nadležnih međunarodnih organizacija i Vlasti, promiču osnivanje, posebno u obalnim državama u razvoju, nacionalnih centara za znanstveno istraživanje mora i morsku tehnologiju, te jačanje postojećih nacionalnih centara, radi poticanja i promicanja znanstvenog istraživanja mora koje obavljaju obalne države u razvoju, te podizanja njihovih nacionalnih sposobnosti upotrebe i očuvanja njihovih morskih bogatstava za njihovu gospodarsku dobrobit.
+2. Države, preko nadležnih međunarodnih organizacija i Vlasti, daju primjerenu podršku radi olakšavanja osnivanja i jačanja tih nacionalnih centara tako da osiguraju suvremene uvjete za usavršavanje i potrebnu opremu, praktična znanja i umijeće, kao i tehničke stručnjake onim državama koje trebaju i traže takvu pomoć.

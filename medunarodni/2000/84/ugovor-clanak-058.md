@@ -1,0 +1,5 @@
+# Članak 58.
+Prava i dužnosti drugih država u isključivom gospodarskom pojasu
+1. U isključivom gospodarskom pojasu sve države, obalne i neobalne, uživaju, u uvjetima određenim u relevantnim odredbama Konvencije, slobode plovidbe, prelijetanja i polaganja podmorskih kabela i cjevovoda navedene u članku 87. i druge međunarodnopravno dopuštene upotrebe mora koje se tiču tih sloboda, kao što su one vezane uz iskorištavanje brodova, zrakoplova i podmorskih kabela i cjevovoda, a u skladu su s drugim odredbama Konvencije.
+2. Članci 88. do 115. i druga primjerena pravila međunarodnog prava primjenjuju se u isključivom gospodarskom pojasu u onoj mjeri u kojoj nisu nespojiva s ovim dijelom.
+3. U ostvarivanju svojih prava i ispunjavanju svojih dužnosti u isključivom gospodarskom pojasu na temelju Konvencije, države dolično poštuju prava i dužnosti obalne države i drže se zakona i drugih propisa koje je donijela obalna država u skladu s odredbama Konvencije i drugim pravilima međunarodnog prava, ukoliko ona nisu nespojiva s ovim dijelom.

@@ -1,0 +1,5 @@
+# Članak 38.
+Pravo tranzitnog prolaska
+1. U tjesnacima iz članka 37. svi brodovi i zrakoplovi uživaju pravo tranzitnog prolaska, koje se ne smije ometati, osim što se u tjesnacu između otoka obalne države na tjesnacu i njezina kontinentalnog područja tranzitni prolazak neće primjenjivati ako postoji put otvorenim morem ili isključivim gospodarskim pojasom i to od otoka u smjeru otvorenog mora koji je jednako pogodan s obzirom na navigacijske i hidrografske osobine.
+2. Tranzitni prolazak je ostvarivanje, u skladu s ovim dijelom, slobode plovidbe i prelijetanja jedino radi neprekinutog i brzog tranzita tjesnacem između jednog dijela otvorenog mora ili isključivoga gospodarskog pojasa i drugog dijela otvorenog mora ili isključivoga gospodarskog pojasa. Međutim, zahtjev za neprekinutim i brzim tranzitom ne isključuje prolazak kroz tjesnac radi ulaska u obalnu državu na tjesnacu, izlaska ili povratka iz nje, u skladu s uvjetima za ulazak u tu državu.
+3. Svaka djelatnost koja nije ostvarivanje prava tranzitnog prolaska tjesnacem podvrgnuta je drugim primjenjivim odredbama Konvencije.

@@ -1,0 +1,4 @@
+# Članak 222.
+Provedba glede onečišćenja iz zraka ili putem zraka
+U granicama zračnog prostora pod njihovom suverenošću ili glede brodova koji vijore njihovu zastavu, ili brodova ili zrakoplova koji su upisani u upisnik na njihovom području, države provode svoje zakone i druge propise donesene u skladu sa stavkom 1., članka 212., i drugim odredbama ove Konvencije, i donose zakone i druge propise, te poduzimaju druge mjere potrebne za izvršavanje primjenjivih međunarodnih pravila i standarda usvojenih preko nadležnih međunarodnih organizacija ili na diplomatskoj konferenciji radi sprečavanja, smanjivanja i nadziranja onečišćenja morskog okoliša iz zraka ili putem zraka, u skladu sa svim relevantnim međunarodnim pravilima i standardima koji se tiču sigurnosti zračne plovidbe.
+Odsjek 7. JAMSTVA

@@ -1,0 +1,4 @@
+# Članak 51.
+Postojeći sporazumi, tradicionalna ribolovna prava i postojeći podmorski kabeli
+1. Ne dirajući u članak 49., arhipelaška država poštuje postojeće sporazume s drugim državama i priznaje tradicionalna ribolovna prava i druge zakonite djelatnosti neposredno susjednih država u pojedinim područjima koja su dio arhipelaških voda. Uvjeti i načini vršenja tih prava i djelatnosti, uključujući njihovu prirodu, opseg i područja na koja se protežu, uređuju se, na zahtjev bilo koje od zainteresiranih država, dvostranim sporazumima među njima. Ta se prava ne smiju prenositi ni dijeliti s trećim državama ili njihovim državljanima.
+2. Arhipelaška država poštuje postojeće podmorske kabele koje su položile druge države koji prolaze kroz njezine vode, a ne izlaze na obalu. Arhipelaška država dopušta održavanje i zamjenu takvih kabela, uz uvjet da je na odgovarajući način obaviještena o njihovu položaju i o namjeri da se oni poprave ili zamijene.

@@ -1,0 +1,4 @@
+# Članak 221.
+Mjere radi izbjegavanja onečišćenja prouzročenog pomorskim nesrećama
+1. Ništa u ovome dijelu ne dira u pravo koje države imaju po međunarodnom pravu, kako običajnom tako i ugovornom, da poduzimaju i provode mjere izvan teritorijalnog mora, koje su u razmjeru sa stvarnom štetom ili s opasnošću od štete, radi zaštite njihove obale ili interesa povezanih s obalom, uključujući ribolov, od onečišćenja ili opasnosti od onečišćenja koje nastaju uslijed pomorske nesreće ili radnji vezanih uz takvu nesreću, kada se razumno može očekivati da će to onečišćenje uzrokovati štetne posljedice.
+2. Za svrhe ovog članka "pomorska nesreća" znači sudar brodova, nasukavanje ili drugu plovidbenu nezgodu, ili neki drugi događaj na brodu ili izvan broda koji uzrokuje materijalnu štetu ili neposrednu opasnost materijalne štete brodu ili teretu.

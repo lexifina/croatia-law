@@ -1,0 +1,10 @@
+# Članak 153.
+Sustav istraživanja i iskorištavanja
+1. Vlast organizira, obavlja i nadzire djelatnosti u Zoni u ime čovječanstva kao cjeline u skladu s ovim člankom, s drugim relevantnim odredbama ovoga dijela i priloga, koji se na njega odnose, te s pravilima, propisima i postupcima Vlasti.
+2. Djelatnosti u Zoni obavljaju, kako je propisano u stavku 3.:
+(a) Poduzeće, i
+(b) udruživanjem s Vlašću, države stranke, ili državna poduzeća, ili fizičke ili pravne osobe koje imaju državljanstvo država stranaka, ili su pod njihovim stvarnim nadzorom, ili pod nadzorom njihovih državljana, kada te države stranke jamče za njih, ili svaka skupina navedenih subjekata koja ispunjava uvjete predviđene u ovome dijelu i Prilogu III.
+3. Djelatnosti u Zoni obavljaju se u skladu sa službenim pisanim planom rada, sastavljenim u skladu s Prilogom III, koji je, nakon razmatranja u Pravnoj i tehničkoj komisiji, odobrilo Vijeće. Ako djelatnosti u Zoni obavljaju, na temelju odobrenja Vlasti, subjekti navedeni u stavku 2. (b), plan rada ima oblik ugovora u skladu sa člankom 3., Priloga III. Takvim se ugovorima mogu predvidjeti zajednički aranžmani u skladu sa člankom 11., Priloga III.
+4. Vlast nadzire djelatnosti u Zoni radi osiguranja poštovanja relevantnih odredaba ovoga dijela i priloga koji se na njega odnose, te pravila, propisa i postupaka Vlasti i planova rada odobrenih u skladu sa stavkom 3. Države stranke pomažu Vlasti poduzimanjem svih mjera potrebnih da se osigura to poštovanje u skladu sa člankom 139.
+5. Vlast ima pravo u svako doba poduzeti sve mjere predviđene u ovome dijelu radi osiguranja poštovanja njegovih odredaba te obavljanja zadaća nadzora i pravnog uređivanja, koje ima u skladu s ovim dijelom ili na temelju nekog ugovora. Vlast ima pravo pregledati sve uređaje u Zoni koji se koriste u vezi s djelatnostima u njoj.
+6. Svaki ugovor zaključen u skladu sa stavkom 3. predviđa pravnu sigurnost ugovaratelja. Ugovor se, prema tome, ne smije izmijeniti, obustaviti ni raskinuti, osim u skladu sa člancima 18. i 19., Priloga III.

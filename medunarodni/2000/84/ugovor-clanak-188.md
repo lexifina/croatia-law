@@ -1,0 +1,8 @@
+# Članak 188.
+Podvrgavanje sporova posebnom vijeću Međunarodnog suda za pravo mora ili ad hoc vijeću Vijeća za sporove o morskom dnu ili obvezujućoj trgovačkoj arbitraži
+1. Sporovi između država stranaka navedeni u točki (a), članka 187. mogu se podvrgnuti:
+(a) na zahtjev stranaka spora, posebnom vijeću Međunarodnog suda za pravo mora, ustanovljenom u skladu sa člancima 15. i 17., Priloga VI.; ili
+(b) na zahtjev bilo koje stranke spora, ad hoc vijeću Vijeća za sporove o morskom dnu, ustanovljenom u skladu sa člankom 36., Priloga VI.
+2.(a) Sporovi o tumačenju ili primjeni ugovora navedeni u točki (c)(i), članka 187. podvrgavaju se, na zahtjev bilo koje stranke spora, obvezujućoj trgovačkoj arbitraži, osim ako se stranke drukčije sporazume. Trgovački arbitražni sud kojemu se spor podnosi nije nadležan odlučivati o bilo kojem pitanju tumačenja Konvencije. Kada spor uključuje i pitanje tumačenja dijela XI. i priloga koji se na njega odnose, s obzirom na djelatnosti u Zoni, to se pitanje upućuje na odlučivanje Vijeću za sporove o morskom dnu.
+(b) Ako na početku ili u tijeku takve arbitraže arbitražni sud odredi, bilo na zahtjev jedne stranke spora ili vlastitom pobudom, da njegova odluka ovisi o odluci Vijeća za sporove o morskom dnu, arbitražni sud to pitanje upućuje Vijeću za sporove o morskom dnu na odlučivanje. Nakon toga arbitražni sud donosi svoju odluku u skladu s odlukom Vijeća za sporove o morskom dnu.
+(c) Ako u ugovoru nema odredbe o arbitražnom postupku koji treba primijeniti u sporu, arbitraža se vodi u skladu s Arbitražnim pravilima UNCITRAL-a ili drugim arbitražnim pravilima koja bi bila propisana u pravilima, propisima i postupcima Vlasti, osim ako se stranke spora drukčije sporazume.

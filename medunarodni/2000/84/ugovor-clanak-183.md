@@ -1,0 +1,6 @@
+# Članak 183.
+Oslobođenje od poreza i carina
+1. Vlast, u obavljanju svojih zadaća, kao i njezina aktiva i imovina, njezini prihodi, te njezine djelatnosti i poslovi, dopušteni prema Konvenciji, oslobođeni su od svih neposrednih poreza, a uvezena ili izvezena roba za njezine službene potrebe oslobođena je svake carine. Vlast ne može zahtijevati oslobađanje od pristojbi koje se naplaćuju zbog učinjenih usluga.
+2. Kad Vlast kupuje robu ili plaća usluge znatne vrijednosti potrebne za obavljanje svojih zadaća, ili se to čini u njezino ime, a cijena te robe ili usluga uključuje poreze ili pristojbe, države stranke poduzimaju odgovarajuće mjere koje su praktički moguće radi oslobađanja od takvih poreza ili pristojbi ili radi njihove naknade. Roba koja je uvezena ili kupljena uz oslobađanje predviđeno ovim člankom ne smije se prodati, niti se na drugi način smije njome raspolagati na području države stranke koja je odobrila oslobađanje, osim pod uvjetima koji su dogovoreni s tom državom strankom.
+3. Države stranke ne ubiru nikakav neposredan ili posredan porez na plaće, prihode ili bilo koje druge oblike primanja koje Vlast isplaćuje glavnom tajniku i osoblju Vlasti, kao i stručnjacima koji izvršavaju zadaće za Vlast, a nisu njihovi državljani.
+Pododsjek H. OBUSTAVLJANJE OSTVARIVANJA ČLANSKIH PRAVA I POVLASTICA

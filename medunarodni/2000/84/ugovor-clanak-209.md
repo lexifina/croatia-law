@@ -1,0 +1,4 @@
+# Članak 209.
+Onečišćenje od djelatnosti u Zoni
+1. Međunarodna pravila, propisi i postupci usvajaju se u skladu s dijelom XI. radi sprečavanja, smanjivanja i nadziranja onečišćenja morskog okoliša koje nastaje od djelatnosti u Zoni. Ta se pravila, propisi i postupci, ovisno o potrebi, povremeno preispituju.
+2. U skladu s relevantnim odredbama ovoga odsjeka, države donose zakone i druge propise za sprečavanje, smanjivanje i nadziranje onečišćenja morskog okoliša koje nastaje od onih djelatnosti u Zoni što se poduzimaju brodovima, uređajima, napravama i drugim spravama koje vijore njihovu zastavu ili su upisani u upisnik na njihovu području ili djeluju pod njihovom vlašću, već prema slučaju. Ti zakoni i propisi ne smiju biti manje djelotvorni od međunarodnih pravila, propisa i postupaka spomenutih u stavku 1.

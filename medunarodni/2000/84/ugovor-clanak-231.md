@@ -1,0 +1,3 @@
+# Članak 231.
+Priopćenje državi zastave i drugim zainteresiranim državama
+Države odmah priopćuju državi zastave i svakoj drugoj zainteresiranoj državi sve mjere koje su poduzete prema stranim brodovima na temelju odsjeka 6., i podnose državi zastave sva službena izvješća koja se odnose na te mjere. Međutim, kada se radi o prekršajima počinjenima u teritorijalnom moru, spomenute obveze obalne države odnose se samo na mjere poduzete u postupku. Diplomatski agenti ili konzularni dužnosnici i, gdje je moguće, pomorske vlasti države zastave odmah se obavještavaju o svim takvim mjerama koje su poduzete prema stranim brodovima na temelju odsjeka 6.
