@@ -1,0 +1,13 @@
+## OBVEZNICI I ROKOVI DOSTAVE PODATAKA
+# Članak 2.
+(1) Dionička društva koja se u smislu Zakona o tržištu vrijednosnih papira ne smatraju javnim dioničkim društvima, ukoliko nisu do 25. srpnja 2002. godine, odnosno do stupanja na snagu ove Odluke, izdala dionice kao nematerijalizirane vrijednosne papire, niti su izdala isprave o dionicama u smislu odredaba članka 170. i članka 171. Zakona o trgovačkim društvima, obvezna su radi dematerijalizacije dostaviti podatke o vrijednosnim papirima i njihovim vlasnicima iz knjige dionica ili registra izdavatelja u sljedećim rokovima:
+• dionička društva čija tvrtka započinje slovima abecednog reda od A do Ć najkasnije do 31. siječnja 2003. godine;
+• dionička društva čija tvrtka započinje slovima abecednog reda od D do F najkasnije do 28. veljače 2003. godine;
+• dionička društva čija tvrtka započinje slovima abecednog reda od G do K najkasnije do 31. ožujka 2003. godine;
+• dionička društva čija tvrtka započinje slovima abecednog reda od L do NJ najkasnije do 30. travnja 2003. godine;
+• dionička društva čija tvrtka započinje slovima abecednog reda od O do Š najkasnije do 31. svibnja 2003. godine;
+• dionička društva čija tvrtka započinje slovima abecednog reda od T do Ž najkasnije do 30. lipnja 2003. godine;
+• na dionička društva čija tvrtka započinje brojem primjenjuje se naprijed navedeni abecedni redoslijed, u skladu s čitanjem broja na hrvatskom jeziku.
+(2) Iznimno, dionička društva iz članka 2. stavak 1. ove Odluke, koja su u smislu Pravila Središnje depozitarne agencije već u postupku primitka u članstvo kao Izdavatelji (društva koja su kao obvezna podnijela Zahtjev za primitak u članstvo), dužna su radi dematerijalizacije dostaviti nedostajuće ili u međuvremenu izmijenjene podatke o vrijednosnim papirima i njihovim vlasnicima iz knjige dionica ili registra izdavatelja najkasnije do 31. prosinca 2002. godine.
+(3) Dionička društva koja se u smislu Zakona o tržištu vrijednosnih papira smatraju javnim dioničkim društvima, ukoliko nisu do 25. srpnja 2002. godine, odnosno do stupanja na snagu ove Odluke, izdala dionice kao nematerijalizirane vrijednosne papire, obvezna su radi dematerijalizacije dostaviti podatke o vrijednosnim papirima i njihovim vlasnicima iz knjige dionica ili registra izdavatelja najkasnije do 31. prosinca 2002. godine.
+(4) Dionička društva koja nakon 25. srpnja 2002. godine izdaju dionice javnom ponudom ili ispune kriterij iz članka 114. stavak 1. točka 2. Zakona o tržištu vrijednosnih papira, dužna su Središnjoj depozitarnoj agenciji dostaviti podatke o vrijednosnim papirima i njihovim vlasnicima iz knjigea dionica ili registra izdavatelja u roku od 30 dana od dana izdanja dionica, odnosno od dana ispunjenja kriterija.

@@ -1,0 +1,1 @@
+Na temelju članka 159. stavka 2. i stavka 3., te članka 114. stavka 7. Zakona o tržištu vrijednosnih papira (»Narodne novine«, broj 84/02), Središnja depozitarna agencija d.d. na 314. sjednici Uprave održanoj dana 28. listopada 2002. godine donosi sljedeću
