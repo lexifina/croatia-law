@@ -1,0 +1,1 @@
+Na temelju točke VII. Odluke o uvjetima za podizanje robe koja je pod carinskim nadzorom prije obračuna i naplate carine i drugih opterećenja pri uvozu robe ("Narodne novine", br. 62/92), ministar financija donosi

@@ -1,0 +1,5 @@
+# Članak 6.
+Pri odlučivanju o prihvatu podnijete bankovne garancije Carinska uprava Republike Hrvatske vodi računa o urednosti carinskog poslovanja carinskog obveznika u prethodno provedenim postupcima, te pravodobnosti i cjelovitosti izmirenja dospjelih carinskih obveza, a pri utvrđivanju visine garancijom zajamčene svote, i o vrsti i opsegu carinskog poslovanja carinskog obveznika.
+U pogledu visine garancijom zajamčene svote polazi se od mjesečnog prosjeka obračunatih i mogućih svota carinskih obveza u razdoblju šest mjeseci koji neposredno prethode polaganju garancije.
+Visina zajamčene svote za posebnu i pojedinačnu bankovnu garanciju određuje se prema visini carinskih obveza koje su nastale ili bi mogle nastati za robu obuhvaćenu određenom vrstom carinskih postupaka odnosno u pojedinačnom carinskom postupku.
+Garancijom zajamčena svota umanjuje se za svaki iznos kojeg izdavatelj garancije plati umjesto carinskog obveznika, osim ako izdavatelj garancije pisano obavijesti Carinsku upravu da garancija i dalje vrijedi u punom iznosu.
