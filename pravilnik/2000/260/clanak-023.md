@@ -1,0 +1,8 @@
+# Članak 23.
+Vrijednost najmanje podjele na prvome pokaznom elementu mora se temeljiti na formuli 1x10n ili 2x10n ili 5x10n.
+Vrijednost iz stavka 1. ovog članka mora omogućiti određivanje netočnosti od 0,5 % (prihvaćajući da je moguća pogreška očitavanja manja od polovine najmanjeg podjeljka) i uz uvjet da kod najmanjega protoka ispitivanje ne traje duže od 90 minuta.
+Svaki se pokazni element, osim prvoga pokaznog elementa, mora pomaknuti za jedan broj naprijed kada pokazni element nižeg decimalnog mjesta prijeđe 1/10 svojega potpunog okretaja.
+Stvarna ili optički uvećana visina brojaka na pokaznome elementu u obliku obrojčenoga pokretnog kotačića ne smije biti manja od 4 mm.
+Ako je prvi pokazni element podijeljen na 10 jednakih dijelova, stvarna ili optički uvećana duljina podjeljka ne smije biti manja od 4 mm ni veća od 5 mm, gdje je duljina podjeljka razmak između dviju uzastopnih oznaka ljestvice mjeren duž iste crte kao i duljina ljestvice.
+Stvarna ili optički uvećana duljina podjeljka (d) na prvome pokaznom elementu, ovisno o broju podjeljaka ljestvice, mora biti u granicama utvrđenim u tablici 4.
+Tablica 4. Stvarna ili optički uvećana duljina podjeljka (d) na prvome pokaznom elementu, ovisno o broju podje- ljaka ljestvice ___________________________________________________________ Broj podjeljaka | Stvarna ili optički uvećana duljina ljestvice |  |  | podjeljka (d), u mm ___________________________________________________________ | 10 |  |  | 4 Ł d Ł 5 | 20 |  |  | 2 Ł d Ł 5 | 50 |  |  | 1 Ł d Ł 4 | 100 |  |  | 0,8 Ł d Ł 2 | 200 |  |  | 0,8 Ł d Ł 2 ___________________________________________________________
