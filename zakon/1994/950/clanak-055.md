@@ -1,0 +1,3 @@
+## Stupanje na snagu zakone
+# Članak 55.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
