@@ -1,0 +1,1 @@
+Temeljem članka 141. Ustava Republike Hrvatske te članka 3. stavak 1. i članka 4. Zakona o izboru predsjednika Republike Hrvatske ("Narodne novine", broj 22/92), Vlada Republike Hrvatske na sjednicj održanoj 24. lipnja 1992. godine, donijela je
