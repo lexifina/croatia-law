@@ -1,0 +1,2 @@
+ODLUKU
+Pokreće se postupak za ocjenu suglasnosti s Ustavom i ukida se odredba tarifnog broja 12. Tarife upravnih pristojbi, koja je sastavnim dijelom Zakona o upravnim pristojbama (»Narodne novine«, br. 8/96, Uredba… 77/96, 131/97, 68/98, Uredba… 66/99, Uredba… 145/99), i to u dijelu koji glasi: »Pristojbu iz točke 2. ovoga tarifnog broja u postupku stjecanja hrvatskog državljanstva ne plaća pripadnik hrvatskog naroda koji nema hrvatsko državljanstvo«.
