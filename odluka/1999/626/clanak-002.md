@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 13. u stavci 2. u stupcu "Zdravstvene ustanove i privatni zdravstveni djelatnici u zakupu u domu zdravlja" broj: "850" zamjenjuje se brojem: "600", broj: "500" zamjenjuje se brojem: "400", broj: "3000" zamjenjuje se brojem: "2500", broj: "1250" zamjenjuje se brojem: "900", a u stupcu "Do sada ugovoreni privatni zdravstveni djelatnici u vlastitom prostoru" broj: "3000" zamjenjuje se brojem: "2500".
