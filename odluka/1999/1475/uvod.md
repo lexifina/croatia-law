@@ -1,0 +1,1 @@
+Na temelju članka 14. stavaka 1. i 2. Zakona o kretanju i boravku stranaca (»Narodne novine«, broj 53/91) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 29. srpnja 1999. godine, donijela
