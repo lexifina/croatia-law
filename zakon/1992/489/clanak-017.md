@@ -1,0 +1,3 @@
+# Članak 17.
+Na listu kandidata izborne jedinice kandidati se unose prema abecednom redu prezimena. Uz njihovo ime i prezime i matični broj obvezatno se navodi naziv stranke odnosno stranaka ili stranačke koalicije koja je odnosno koje su kandidata predložile. Ako je kandidat predložen od birača obvezatno se uz njegovo ime i prezime navodi "nezavisni kandidat".
+Na zbirnu listu državne liste se unose prema abecednom redu punog naziva stranke, odnosno koalicije koja je listu predložila Ako je više stranaka predložilo zajedničku državnu listu ona će se unijeti na zbirnu listu prema nazivu prve po redu stranke u prijedlogu.

@@ -1,0 +1,4 @@
+# Članak 6.
+Nitko ne može istodobno biti zastupnik u Zastupničkom domu i Županijskom domu.
+Zastupnik ne može istodobno biti sudac Ustavnog suda Republike Hrvatske, sudac, javni tužitelj, zamjenik javnog tužitelja, predsjednik, potpredsjednik. ministar i drugi član Vlade Republike Hrvatske, zamjenik ministra, pomoćnik ministra, direktor republičkog zavoda i drugih republičkih organizacija, direktor organa u sastavu ministarstva, predstojnik ureda Vlade Republike Hrvatske, predsjednik općinske skupštine i predsjednik izvršnog vijeća općinske skupštine. Zakonom se može propisati da je zastupnička dužnost nespojiva i s nekom drugom dužnošću.
+Osobe, koje obavljaju neku od dužnosti iz stavka 2. ovoga članka. mogu se kandidirati za zastupnika ali ako budu izabrane, moraju podnijeti ostavku ili na zastupničku dužnost, ili na dužnost čije je obavljanje nespojivo sa zastupničkom dužnošću.

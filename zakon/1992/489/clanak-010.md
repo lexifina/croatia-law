@@ -1,0 +1,3 @@
+# Članak 10.
+Pripadnici etničkih i nacionalnih zajednica ili manjina koji sudjeluju u stanovništvu Republike Hrvatske s više od 8% na temelju popisa stanovništva iz 1981., imaju pravo na zastupljenost u Saboru razmjerno svom udjelu u ukupnom stanovništvu na način utvrđen ovim zakonom. Temelj za izračunavanje njihove razmjerne zastupljenosti u Zastupničkom domu jest broj od 120 zastupnika ovoga Doma.
+Pripadnici etničkih i nacionalnih zajednica ili manjina čiji je udio u pučanstvu Republike Hrvatske manji od 8% imaju pravo izabrati najmanje 5 zastupnika u Zastupnički dom Sabora Republike Hrvatske, a po jedan od njih mora biti izabran iz reda pripadnika madžarske, talijanske, češke i slovačke, te rusinske i ukrajinske, kao i njemačke i austrijske manjine.

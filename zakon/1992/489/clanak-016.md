@@ -1,0 +1,5 @@
+# Članak 16.
+Nadležna izborna komisija izborne jednice će u roku od 48 sati od isteka roka iz članka 15., stavka 1. ovoga zakona, od svih pravovaljano predloženih kandidata sastaviti i objaviti listu kandidata izborne jedinice u svim dnevnim novinama u Republici Hrvatskoj i na Hrvatskoj radio-televiziji.
+Izborna komisija Republike Hrvatske će u roku od 48 sati od isteka roka, iz članka 15., stavka 1. ovoga zakona. prihvatiti i objaviti sve pravovaljano predložene državne liste u svim dnevnim novinama u Republici Hrvatskoj i na Hrvatskoj radio-televiziji.
+Izborna komisija Republike Hrvatske objavit će zbirnu listu svih pravovaljanih predloženih državnih lista način iz prethodnog stavka. Zbirna lista sadrži naziv svake državne liste te ime i prezime nositelja svake državne liste.
+Izborna komisija Republike Hrvatske će, u roku iz stavka 2. ovoga članka. dostaviti hrvatskim doplomatsko-konzularnim predstavništvima i inozemnim uredima sve prihvaćene državne liste kao i zbirnu listu državnih lista radi njihove javne objave.
