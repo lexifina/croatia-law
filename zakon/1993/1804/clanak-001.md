@@ -1,0 +1,3 @@
+## o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske
+# Članak 1.
+Ovlašćuje se Vlada Republike Hrvatske da uredbama uređuje pitanja tekuće gospodarske politike iz djelokruga Zastupničkog doma Sabora Republike Hrvatske osim onih koja prema Ustavu Republike Hrvatske može uređivati samo Sabor Republike Hrvatske. Vlada Republike Hrvatske podnosit će Zastupničkom domu Sabora Republike Hrvatske, na svakoj njegovoj sjednici, izvješće o uredbama koje je na temelju ovlasti iz stavka 1. ovoga članka donijela između dvije sjednice Zastupničkog doma Sabora Republike Hrvatske.
