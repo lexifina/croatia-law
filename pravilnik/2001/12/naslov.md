@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o obaveznom atestiranju dizala na električni pogon za vertikalni prijevoz tereta s kabinom u koju nije moguć pristup ljudi te o uvjetima kojima moraju udovoljavati organizacije udruženog rada ovlaštene za atestiranje tih proizvoda
