@@ -1,0 +1,2 @@
+# Članak 25.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o provodenju Rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore) - ("Narodne novine", br. 41/93) i Uredba o provodenju odredbe točke 12. Rezolucije Vijeća sigurnosti Ujedinjenih naroda 820 (1993.) - ("Narodne novine", br. 41/93.) i stavlja se izvan snage točka 30. i 31. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", broj 100/93).

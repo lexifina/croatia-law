@@ -1,0 +1,4 @@
+# Članak 7.
+Zabranjuje se pravnim i fizičkim osobama iz tzv. SRJ (Srbije i Crne Gore) koje imaju dinarska, devizna i druga novčana sredstva potraživanja ili prava po osnovi robno-novčanih, financijskih i drugih odnosa u Republici Hrvatskoj, raspolaganje tim sredstvima potraživanjima i pravima, te njihov prijenos na druge pravne i fizičke osobe u Republici Hrvatskoj ili izvan Republike Hrvatske.
+Zabranjuje se pravnim i fizičkim osobama iz Republike Hrvatske plaćanje, doznačivanje i prijenos dinarskih, deviznih i drugih novčanih sredstava potraživanje ili prava pravnim i fizičkim osobama u tzv. SRJ (Srbiji i Crnoj Gori) i obavljanje financijskih i drugih transakcija s tim osobama, neposredno ili putem drugih pravnih i fizičkih osoba.
+Odredbe stavka 1. i 2. ovoga članka odgovarajuće se odnose na one strane pravne osobe koje su u vlasništvu ili u pretežitom vlasništvu ili ih nadziru pravne ili fizičke osobe iz tzv. SRJ (Srbije i Crne Gore).

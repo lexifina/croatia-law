@@ -1,0 +1,4 @@
+# Članak 14.
+Izvoz iz i uvoz u područja Republike Hrvatske pod zaštitom Ujedinjenih naroda (UNPA), te provoz roba i usluga kroz ta područja može se obaviti samo uz odobrenje ministra gospodarstva, po pribavljenom mišljenju nadležnog tijela Hrvatske gospodarske komore i Ureda za UNPROFOR i PMEZ Vlade Republike Hrvatske.
+Zahtjev za izvoz i uvoz roba i usluga iz stavka 1. ovoga članka Ministarstvu gqspodarstva podnosi pravna i fizička osoba čije je sjedište ili prebivalište na području pod zaštitom Ujedinjenih naroda (UNPA), a zahtjev za provoz podnosi pravna ili fizička osoba koja će biti prijevoznik i koja je registrirana za obavljanje prijevoza robe.
+Kada se provoz roba obavlja kroz područje pod zaštitom Ujedinjenih naroda (UNPA), a mjesto iz kojeg se upućuje roba ili u koje se roba upućuje na teritoriju tzv. SRJ (Srbija i Crna Gora), provoz se obavlje prema i u skladu sa stavkom 1. iz ovog članka.

@@ -1,0 +1,3 @@
+# Članak 13.
+Nadležno tijelo državne uprave zaplijenit će brodove, teretna vozila, željezničke vagone i zrakoplove zatečene na teritoriju Republike Hrvatske, na kojima postoji većinski ili nadzorni interes osobe koja posluje unutar tzv. SRJ (Srbije i Crne Gore) ili djeluje iz nje, a nakon postupka utvrđenja da su prekršili Rezoluciju 713 (1991.), 757 (1992.), 787 (1992.) i 820 (1993.) bit će konfiscirani.
+Brodovi, teretna vozila, željeznički vagoni, zrakoplovi i tereti na njima, zatečeni na teritoriju Republike Hrvatske, za koje se osnovano sumnja da su prekršili ili krše Rezolucije 713 (1991.), 757 (1992.). 787 (1992.) i 820 (1993.) bit će zaplijenjeni dok se ne provede istraga, a ako se utvrdi da su kršili navedene Rezolucije, bit će konfiscirani.
