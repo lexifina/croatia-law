@@ -1,0 +1,4 @@
+# Članak 48.
+Vođenje i zapovijedanje u oružanim snagama ostvaruju starješine oružanih snaga, sukladno sa zakonom.
+Starješine oružanih snaga vode i zapovijedaju komandama, štabovima, jedinicama i ustanovama oružanih snaga, sukladno s ovlaštenjima koja im dade Predsjednik Republike i ministar obrane, te obavljaju upravne poslove iz ovlasti Ministarstva obrane, koji su im određeni zakonom i propisima Vlade Republike Hrvatske i Ministarstva obrane.
+Vojnik - pripadnik Hrvatske vojske nije dužan pokoriti se onim službenim naredbama i zapovjedima koje su upravljene na rušenje ustavnog poretka Republike Hrvatske, podrivanje oružanih snaga, diverzantske i subverzivne djelatnosti protiv Republike Hrvatske i njenih oružanih snaga, izdaju i druge radnje koje su protupravne i imaju biće krivičnih djela.

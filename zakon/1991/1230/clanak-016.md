@@ -1,0 +1,4 @@
+# Članak 16.
+Uredi za obranu vode u evidenciji, te skupljaju, odnosno čuvaju i rabe određene podatke o građanima koji su navršili 17 godina i to: o rođenju, narodnosti, državljanstvu, prebivalištu i boravištu, psihotjelesnoj sposobnosti, bračnom stanju, školskoj i stručnoj spremi, zaposlenju, vojnostručnoj osposobljenosti i znanjima od značenja za obranu te o određivanju rasporeda o građanima predviđenima za obavljanje poslova kriptozaštite podataka ili za obavljanje poslova, odnosno dužnosti vođenja obrambenih ili sigurnosnih poslova, te o pričuvnim starješinama, nadležne uprave za obranu pribavljaju odnosno rabe i podatke o kažnjavanju sukladno s tim zakonom.
+Uredi za obranu vode evidenciju podataka o vojnim obveznicima i pripadnicima službe motrenja i obavješćivanja.
+Podatke iz stavka 3. ovog članka uredi za obranu daju u uporabu oružanim snagama i tijelima u kojima građani obavljaju određene zadatke ili su u njih raspoređeni.

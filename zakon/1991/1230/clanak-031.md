@@ -1,0 +1,4 @@
+# Članak 31.
+Ministarstvo obrane obavlja upravne i stručne poslove u svezi s izgradnjom vojnih i drugih objekata, posebno značajnih za obranu Republike i s izgradnjom investicijskih objekata u krugu vojarni za potrebe oružanih snaga.
+Odobrenje za izgradnju objekata iz stavka 1. ovog članka izdaje Ministarstvo obrane u suglasnosti s ovlaštenim tijelom državne uprave za izdavanje odobrenja za izgradnju. Ako ovlašteno tijelo ne dade suglasnost, odluku o izgradnji donosi Vlada Republike Hrvatske.
+Ovlašćuje se ministar obrane da odredi vojne zapovjednike koji mogu davati odobrenje za izgradnju objekata u krugu vojarni i da donese propise o: postupku, pravima i obvezama vojnih organa pri izgradnji objekata iz stavka 1. ovog članka, tehničkoj i drugoj dokumentaciji za te objekte, vođenju potrebitih evidencija o izgradnji objekata, nadzoru nad izgradnjom i održavanju tih objekata.

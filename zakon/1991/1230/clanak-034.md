@@ -1,0 +1,3 @@
+# Članak 34.
+Pravne osobe, koje su odlukom Vlade Republike Hrvatske određene od posebnog značaja za obranu, pripremaju i u miru donose svoje planove obrane, u kojima utvrđuju zadatke, organiziraju snage, sredstva, mjere i postupke za obranu, te svoj rad i druge obrambene aktivnosti u ratu i u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike.
+Ostale pravne osobe za provođenje zadataka, dobivenih od ovlaštenih tijela državne uprave, izrađuju obrambene planove u kojima utvrđuju svoju organizaciju i djelovanje u ratu i u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike.
