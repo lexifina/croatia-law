@@ -1,0 +1,1 @@
+Na temelju članka 17. i 39. Zakona o sustavu državne uprave (»Narodne novine« br. 75/93), a u vezi s člankom 3. Zakona o potvrđivanju Privremenog sporazuma o trgovinskim i s njima povezanim pitanjima između Republike Hrvatske i Europske zajednice, potpisanog u Luksemburgu dana 29. listopada 2001., ministar financija donosi
