@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐudrŽavnog cestovnog graniČnog prijelaza II. kategorije Bukovje
+# Članak 1.
+Područje stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Bukovje nalazi se na županijskoj cesti broj 2003. Dužina graničnog prijelaza iznosi 145 metara i proteže se od državne granice s Republikom Slovenijom istočno 65 metara do mjesta obavljanja granične kontrole i od mjesta obavljanja granične kontrole u dubinu teritorija Republike Hrvatske 80 metara. Širina graničnog prijelaza iznosi 33 metra i obuhvaća prostor gledano prema unutrašnjosti Republike Hrvatske od ruba ceste u desnu, južnu stranu u širini 25 metara, cestu u širini 7 metara i cestovnu bankinu s lijeve, sjeverne strane ceste u širini 1 metar koji se nalazi na k.č. 108/1, 108/2 i 108/3 k.o. Štrigova.
+Područje graničnog prijelaza obuhvaća jednu ulaznu i jednu izlaznu prometnu traku, kontejner koji koriste službenici policije i carine, nadstrešnicu dužine 9 i širine 10 metara, te prostor za parkiranje i zaustavljanje s lijeve strane, prije i poslije kontejnera, gledano u pravcu granične crte.
+Ukupna površina područja graničnog prijelaza iznosi 6 363 m2.
