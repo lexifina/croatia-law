@@ -1,0 +1,2 @@
+# Članak 21.
+U svim odredbama Za.kona o zaštiti spomenilca kulture ("Narodne novine". br. 7/67 - proćišćeni tekst, 13/67., 47/86., 47/89. i 19/91.) riječi: "zavod", "opčinski i regionalni zavod", "nadležni regionalni zavod", "nadležni zavod za zaštitu spomenika kulture", "zavod za zaštitu spomenika kulture", "opčinski zavod" i "regionalni zavod" u odgovarajućem broju i padežu zamjenjuju se riječju: "Zavod" u odgovarajućem padežu.
