@@ -1,0 +1,3 @@
+# Članak 58.
+1. Odjel za diplomatsko školovanje i pripremu
+Odjel za diplomatsko školovanje organizira stručno usavršavanje i školovanje iz područja međunarodnih odnosa, vanjske politike i diplomacije za službenike Ministarstva i druga tijela državne uprave koja se bave odnosima Republike Hrvatske s inozemstvom, organizira diplomatski studij i diplomatske tečajeve te savjetničke ispite. Organizira i provodi tečajeve stranih jezika, postupak po natječajima za stipendije, organizira međunarodne seminare, simpozije i konferencije, objavljuje zbornike radova, te obavlja i druge poslove iz svog djelokruga.

@@ -1,0 +1,3 @@
+# Članak 49.
+1.2. Odsjek za imovinska i radnopravna pitanja
+Odsjek za imovinska i radnopravna pitanja obavlja upravne i stručne poslove koji se odnose na: posredovanje i koordinaciju obavljanja poslova u veleposlanstvima i konzularnim uredima u svezi nasljeđivanja, pružanja pravne pomoći hrvatskim državljanima koji žive ili borave u inozemstvu u svezi ostvarivanja prava i zaštite interesa iz područja socijalne skrbi, mirovinskog i socijalnog osiguranja, ostvarivanja carinskih i poreznih povlastica prigodom povratka u Republiku Hrvatsku; poslove u svezi stjecanja prava vlasništva nekretnina u Republici Hrvatskoj stranih pravnih i fizičkih osoba, te obavlja i druge poslove iz svog djelokruga.

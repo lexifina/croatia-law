@@ -1,0 +1,3 @@
+# Članak 60.
+1.1. Odsjek za diplomatsko školovanje
+Odsjek za diplomatsko školovanje organizira stručno usavršavanje i školovanje kroz opće i posebne programe iz područja međunarodnih odnosa, vanjske politike i diplomacije za službenike Ministarstva, ali i druga tijela državne uprave koja se bave odnosima Republike Hrvatske s inozemstvom, organizira jednogodišnji stručni diplomatski studij i dvomjesečne diplomatske tečajeve te savjetničke ispite. Organizira i provodi tečajeve srednje i visoke razine stranih jezika, provodi postupak po natječajima za domaće i strane stipendije, organizira međunarodne seminare, simpozije i konferencije, objavljuje zbornike radova, te obavlja i druge poslove iz svog djelokruga.

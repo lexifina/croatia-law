@@ -1,0 +1,3 @@
+# Članak 10.
+1.1. Odsjek za radno-pravna pitanja
+Odsjek za radno-pravna pitanja obavlja poslove u svezi sa zapošljavanjem državnih službenika i namještenika u službi vanjskih poslova, organizira i provodi selekcijski postupak i intervju s kandidatima za prijam u službu vanjskih poslova, obavlja administrativne poslove u svezi radnopravnih pitanja dužnosnika, službenika i namještenika, mirovinskog osiguranja, produženog osiguranja, domaćeg i inozemnog zdravstvenog osiguranja, te prati njihov rad i napredovanje u službi, vodi evidencije i osobne očevidnike te obavlja administrativne i druge poslove u vezi s prijamom, raspoređivanjem i otpustom službenika i namještenika.

@@ -1,0 +1,3 @@
+# Članak 51.
+2. Odjel za međunarodnopravne poslove
+Odjel za međunarodnopravne poslove prati i analizira opća i posebna pitanja međunarodnog javnog i privatnog prava, te pravne aspekte međunarodnih odnosa, daje međunarodnopravna mišljenja o općim i posebnim pitanjima međunarodnog prava, sudjeluje u pripremi međunarodnih ugovora i na pregovorima, provodi i sudjeluje u postupcima potvrđivanja i objave međunarodnih ugovora, sudjeluje u radu stručnih tijela na državnoj i međunarodnoj razini, surađuje sa znanstvenim i javnim institucijama koje se bave međunarodnim pravom i međunarodnim odnosima, vodi zbirku i evidenciju izvornika međunarodnih ugovora i isprava, obavlja stručne radnje prema depozitarima međunarodnih ugovora, te obavlja i druge poslove iz svog djelokruga.

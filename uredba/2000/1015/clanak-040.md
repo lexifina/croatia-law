@@ -1,0 +1,5 @@
+# Članak 40.
+1. Odjel za analitiku
+Odjel za analitiku obavlja poslove strategijskog planiranja vanjske politike Republike Hrvatske na razini Ministarstva vanjskih poslova, sakuplja i objedinjuje relevantne informacije iz svih dostupnih domaćih i stranih izvora, poglavito iz vlastite diplomatske mreže, medija te stručne i znanstvene literature, analizira prikupljene podatke, upućuje na aktualne probleme i pravce razvoja te predlaže strategiju djelovanja i konkretna politička rješenja, prati i analizira provedbu usvojene politike u operativnom djelovanju Ministarstva vanjskih poslova i vanjskopolitičkom djelovanju drugih državnih tijela. Za potrebe ministra vanjskih poslova, zamjenika ministra i ustrojstvenih jedinica analizira i prati međunarodni položaj Republike Hrvatske, ukazuje na pravce razvoja međunarodnih odnosa te predlaže aktivnosti važne za vanjsku politiku, te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova i zadaća iz ovoga članka, u Odjelu za analitiku ustrojava se:
+1. Odsjek za dokumentaciju.

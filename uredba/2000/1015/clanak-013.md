@@ -1,0 +1,3 @@
+# Članak 13.
+3.1. Odsjek za podršku službi vanjskih poslova
+Odsjek za podršku službi vanjskih poslova obavlja poslove standardizacije pokretne i nepokretne imovine i opremljenosti Ministarstva, diplomatskih misija i konzularnih ureda, poslove racionalizacije korištenja financijsko materijalne imovine službe vanjskih poslova, poslove planiranja i projekcije godišnjih projekata, poslove godišnjih natječaja i natječaja po pozivu, knjigu ugovora, rješava po zahtjevima diplomatskih misija, konzularnih ureda i drugih ustrojstvenih jedinica Ministarstva, priprema podloge za donošenje odluka tajnika ministarstva, te obavlja i druge poslove iz svog djelokruga.

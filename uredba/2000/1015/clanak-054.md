@@ -1,0 +1,4 @@
+# Članak 54.
+3.2. Odsjek za useljeništvo
+Odsjek za useljeništvo obavlja upravne i stručne poslove koji se odnose na pripremu, predlaganje i provedbu mjera za poticanje povratka pripadnika hrvatskog naroda i članova njihovih obitelji; provodi pripreme za njihov brži povratak te lakše uključivanje u društveni, gospodarski i kulturni život u Republici Hrvatskoj; daje informacije, savjete i drugu stručnu pomoć useljenicima; surađuje s resornim tijelima državne uprave u pitanjima zbrinjavanja starijih useljenika, povratka mladih te njihovog školovanja i stipendiranja u Republici Hrvatskoj; pruža pomoć u poduzetničkim ulaganjima i aktivnostima kroz organiziranje i provođenje informativne, promidžbene i nakladničke djelatnosti s ciljem povratka i useljavanja, te obavlja i druge poslove iz svog djelokruga.
+8. VII. UPRAVA - Sigurnost i komunikacijski sustavi

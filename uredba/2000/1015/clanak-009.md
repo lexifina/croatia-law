@@ -1,0 +1,6 @@
+# Članak 9.
+2. Odjel za kadrovske poslove
+Odjel za kadrovske poslove prati i provodi mjere kadrovske politike službe vanjskih poslova, obavlja poslove u svezi sa zapošljavanjem državnih službenika i namještenika u službi vanjskih poslova, organizira i provodi selekcijski postupak i intervju s kandidatima za prijam u službu vanjskih poslova, provodi postupak imenovanja i razrješenja dužnosnika i šefova diplomatskih misija i konzularnih ureda Republike Hrvatske, provodi postupak osnivanja i zatvaranja diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu, obavlja administrativne poslove u svezi radnopravnih pitanja dužnosnika, službenika i namještenika, provodi postupke rasporeda službenika i namještenika u diplomatske misije i konzularne urede, obavlja poslove prijava i odjava mirovinskog osiguranja, produženog osiguranja, domaćeg i inozemnog zdravstvenog osiguranja, vodi evidencije i osobne očevidnike te obavlja administrativne i druge poslove u vezi s prijamom, raspoređivanjem i otpustom službenika i namještenika.
+Za obavljanje poslova i zadaća iz ovoga članka, u Odjelu za kadrovske poslove ustrojavaju se sljedeći odsjeci:
+1. Odsjek za radno-pravna pitanja,
+2. Odsjek za raspored kadrova u diplomatsku mrežu.
