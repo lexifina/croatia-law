@@ -1,0 +1,1 @@
+Na temelju članka 84. stavak 1. točka 9., a u svezi s člankom 28. i 29. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj: 94/01), ministar hrvatskih branitelja iz Domovinskog rata uz suglasnost ministra zdravstva Republike Hrvatske, donosi
