@@ -1,0 +1,2 @@
+# Članak 2.
+Ured obavlja stručne i druge poslove, u okviru djelokruga Vlade Republike Hrvatske, a u svezi koordiniranja aktivnosti na provođenju utvrđene politike Vlade u oblasti razrješavanja i uređivanja vlasničko-pravnih odnosa, koji su nastali prijelazom imovine u vlasništvu građana i gradansko-pravnih osoba u društveno vlasništvo. Ured u obavljanju poslova iz svog djelokruga surađuje s republičkim i drugim organima državne uprave, pravosudnim organima i pravnim osobama.
