@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike, odnosno u vlasništvo fizičkih i pravnih osoba (Narodne novine broj 53/90 i 61/91), povodom prijedloga Grada Zagreba, Vlada Republike Hrvatske je na sjednici održanoj 11. ožujka 1993. donijela
