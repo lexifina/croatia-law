@@ -1,0 +1,6 @@
+# Članak 3.
+Članak 24. mijenja se i glasi:
+"U Zastupnički dom bira se na temelju državnih lista 80 zastupnika tako da područje Republike Hrvatske čini jednu izbornu jedinicu.
+Broj zastupnika koji će biti izabran sa svake državne liste utvrđuje se na sljedeći način:
+Ukupan broj glasova koji je dobila svaka državna lista (biračka masa liste) dijeli se s brojevima od 1 do zaključno 80. Od svih dobivenih rezultata 80-ti rezultat po redu jest zajednički djelitelj kojim se dijeli ukupan broj glasova svake državne liste (biračka masa liste). Svaka državna lista dobit će onoliko zastupničkih mjesta koliko puta ukupni broj njezinih dobivenih glasova (biračka masa) sadrži zajednički djelitelj. Ako su glasovi tako podijeljeni da se ne može utvrditi koja bi između dviju ili više državnih lista dobila koje zastupničko mjesto, ono će pripasti onoj državnoj listi koja je dobila više glasova.
+Državna lista jedne političke stranke ili nezavisna državna lista koja na izborima dobije manje od 5% važećih glasova, državna lista dviju političkih stranaka ili koalicijska dvostranačka lista koja na izborima dobije manje od 8% važećih glasova, državna lista triju ili više političkih stranaka, odnosno koalicijska lista tri ili više stranaka koja na izborima dobije manje od 11% važećih glasova ne sudjeluje u diobi zastupničkih mjesta."

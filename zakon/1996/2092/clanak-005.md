@@ -1,0 +1,6 @@
+# Članak 5.
+Članak 27. mijenja se i glasi:
+"U Županijskim dom Sabora Republike Hrvatske bira se na temelju županijskih lista po tri zastupnika u svakoj županiji tako da područje svake županije čini jednu izbornu jedinicu.
+Broj zastupnika koji će biti izabran sa svake županijske liste utvrđuje se na sljedeći način:
+Ukupan broj važećih glasova koje je dobila svaka županijska lista (biračka masa liste) dijeli se s brojevima od 1 do zaključno 3. Od svih dobivenih rezultata treći rezultat po redu jest zajednički djelitelj kojim se dijeli ukupan broj glasova svake županijske liste (biračka masa liste). Svaka županijska lista dobit će onoliko zastupničkih mjesta koliko puta ukupni broj njezinih dobivenih glasova (biračka masa) sadrži zajednički djelitelj. Ako su važeći glasovi tako podijeljeni da se ne može utvrditi koja bi između dvije ili više županijskih lista dobila koje zastupničko mjesto, ono će pripasti županijskoj listi koja je dobila više glasova.
+Županijska lista koja na izborima dobije manje od 5% važećih glasova, županijska lista dviju političkih stranaka ili koalicijska dvostranačka lista koja na izborima dobije manje od 8% važećih glasova, županijska lista tri ili više političkih stranaka, odnosno koalicijska lista triju ili više stranaka koja na izborima dobije manje od 11% važećih glasova ne sudjeluje u diobi zastupničkih mjesta."

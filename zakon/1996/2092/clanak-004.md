@@ -1,0 +1,6 @@
+# Članak 4.
+Članak 24a. mijenja se i glasi:
+"U Zastupnički dom, na temelju posebnih lista, 12 zastupnika biraju birači koji nemaju prebivalište na području Republike Hrvatske.
+Broj zastupnika koji će biti izabran sa svake posebne liste utvrđuje se na sljedeći način:
+Ukupan broj glasova koji je dobila svaka posebna lista (biračka masa liste) dijeli se s brojevima od 1 do zaključno 12. Od svih dobivenih rezultata 12-ti rezultat po redu jest zajednički djelitelj kojim se dijeli ukupan broj glasova svake posebne liste (biračka masa liste). Svaka posebna lista dobit će onoliko zastupničkih mjesta koliko puta ukupni broj njezinih dobivenih glasova (biračka masa) sadrži zajednički djelitelj. Ako su glasovi tako podijeljeni da se ne može utvrditi koja bi između dvije ili više posebnih lista dobila koje zastupničko mjesto, ono će pripasti onoj posebnoj listi koja je dobila više glasova.
+Posebna lista jedne političke stranke ili posebna nezavisna lista koja na izborima dobije manje od 5% važećih glasova, posebna lista dviju političkih stranaka ili koalicijska dvostranačka lista koja na izborima dobije manje od 8% važećih glasova, posebna lista triju ili više političkih stranaka, odnosno koalicijska lista tri ili više stranaka koja na izborima dobije manje od 11% važećih glasova ne sudjeluje u diobi zastupničkih mjesta."
