@@ -1,0 +1,7 @@
+o usklađivanju mirovina od 1. siječnja 1990.
+1. Mirovine svih korisnika mirovina, kojima kalendarska godina 1990. za koju se obavlja usklađivanje nije posljednja godina rada, povećavaju se od 1. siječnja 1990. za 225%.
+2. Kao osnovica za povećanje mirovine prema točki 1. ove odluke uzima se mirovina koja je korisniku pripadala na dan 1. siječnja 1990. godine, odnosno na dan stjecanja prava ako je to pravo stečeno nakon navedenog dana.
+3. Mirovine boraca narodnooslobodilačkog rata prije 9. rujna 1943. i španjolskih boraca koje su prije 1. siječnja 1990. određene ili usklađene primjenom najniže mirovinske osnovice prema čl. 54. stav 4. odnosno članu 58. stav 2. Zakona o osnovnim pravima iz mirovinskog i invalidskog osiguranja ("Službeni list SFRJ", br. 23/82, 77/82, 75/85, 8/87 i 65/87) usklađuju se od 1. siječnja 1990. prema odredbama točke 1. ove odluke.
+4. Korisnicima razmjernog dijela mirovine, ostvarene primjenom međunarodnih ugovora o socijalnom osiguranju, pripada razmjerni dio mirovine povećan prema odredbama ove odluke.
+5. Usklađivanje mirovina prema ovoj odluci obavit će Radna zajednica Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja samostalnih zanatlija, ugostitelja i prijevoznika Hrvatske po službenoj dužnosti i bez donošenja rješenja.
+6. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjivat će se od 1. siječnja 1990. godine.
