@@ -1,0 +1,11 @@
+# Članak 12.
+(1) Ukoliko je za osiguranika ubilježen pogrešan iznos doprinosa i kao takav iskazan na njegovom osobnom računu, nakon što se greška utvrdi, s njegovog osobnog računa oduzima se odnosno dodaje odgovarajući broj obračunskih jedinica.
+(2) Ako su osiguranici za koje se obavlja korekcija neprekidno od dana pogrešne uplate do dana korekcije bili članovi istog fonda, korekcija se obavlja na način da se promijeni broj obračunskih jedinica na osobnom računu.
+(3) Ako su osiguranici za koje se obavlja korekcija bili članovi različitih fondova i nisu mijenjali članstvo od dana pogrešne uplate do dana korekcije, korekcija se obavlja u skladu sa stavcima 4. do 7. ovoga članka.
+(4) Broj obračunskih jedinica koje se oduzimaju utvrđuje se dijeljenjem iznosa više uplaćenog doprinosa s vrijednošću obračunske jedinice tog fonda na dan pogrešne uplate doprinosa u fond.
+(5) REGOS potražuje od fonda iznos koji se dobiva množenjem broja obračunskih jedinica iz stavka 4. ovoga članka s vrijednošću obračunske jedinice tog fonda na dan korekcije. Mirovinsko društvo koje upravlja tim fondom dužno je doznačiti sredstva treći radni dan od dana zaprimljene obavijesti REGOSa.
+(6) REGOS sljedeći radni dan po primljenoj uplati prosljeđuje fondu iznos iz prethodnog stavka ovoga članka.
+(7) Broj obračunskih jedinica koje se dodaje na osobni račun kao posljedica korekcije manje uplaćenog iznosa doprinosa utvrđuje se dijeljenjem iznosa koji se dodaje s vrijednošću obračunske jedinice na dan korekcije.
+(8) Ukoliko je greška iz stavka 1. ovoga članka nastala kao posljedica pogreške obveznika, obveznik obavlja potrebne uplate doprinosa odnosno ispravke Obrasca R-S .
+(9) Prigodom korekcije uplaćenih doprinosa REGOS vrši korekciju naknada od uplaćenih doprinosa koje pripadaju mirovinskom društvu na osnovu statuta mirovinskog fonda, te na kraju dana izvješćuje mirovinsko društvo o izvršenoj korekciji putem zbirnog izvješća.
+(10) Ukoliko se greška iz stavka 1. ovoga članka ispravlja na osobnim računima članova nekoliko obveznih mirovinskih fondova, REGOS obavještava o izvršenoj korekciji obvezna mirovinska društva koja upravljaju tim fondovima, putem posebne stavke kod zbirnog izvještaja o uplatama.

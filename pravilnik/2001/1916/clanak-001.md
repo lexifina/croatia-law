@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se način uplaćivanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje preko Središnjeg registra osiguranika, provjera točnosti podataka, nedostatna uplata i kamata, pogrešno izvršena uplata, usklađenje i ispravak podataka, način postupanja sa sredstvima doprinosa na prolaznom računu te prosljeđivanje sredstava u obvezni mirovinski fond, obvezno mirovinsko društvo i mirovinsko osiguravajuće društvo.
