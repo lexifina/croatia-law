@@ -1,0 +1,2 @@
+# Članak 47.
+Centar za radnu terapiju i rehabilitaciju može u okviru svoje djelatnosti pružati usluge savjetodavnog rada.

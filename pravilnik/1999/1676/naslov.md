@@ -1,0 +1,1 @@
+Pravilnik o vrsti doma za djecu i doma za odrasle osobe i njihovoj djelatnosti, te uvjetima glede prostora, opreme i potrebnih stručnih i drugih djelatnika doma socijalne skrbi
