@@ -1,0 +1,12 @@
+1. U Naputku za provođenje postupka homologacije vozila ("Narodne novine" br. 82/96 i 79/97) točka 8. mijenja se i glasi:
+"Zahtjev za provedbu postupka homologacije pojedinačnog vozila koji sadrži i tehničke podatke o vozilu, na obrascu br. 2. koji je tiskan uz ovaj naputak i čini njegov sastavni dio, podnosi dobavljač vozila (u daljnjem tekstu: "podnositelj zahtjeva") izravno ovlaštenoj pravnoj osobi te doprema vozilo na pregled.
+Uz zahtjev iz ove točke prilaže se i prometna dozvola (za rabljena vozila) te za vozila kategorija M2, M3, N2, N3, O3 i O4, proizvođačevi tehnički podaci o vozilu (npr. odobrenje tipa, tehnički opis vozila).
+Zahtjevu iz ove točke podnositelj zahtjeva prilaže izvornik dokaza proizvođača o sukladnosti opreme i dijelova vozila s uvjetima propisanim pojedinim pravilnikom.
+Dokaz proizvođača iz stavka 3. ove točke može izdati i proizvođačev ovlašteni zastupnik u Republici Hrvatskoj, a ako u Republici Hrvatskoj nema proizvođačevog ovlaštenog zastupnika, dokaz proizvođača može izdati i proizvođačev ovlašteni zastupnik u državi iz koje se vozilo uvozi. Dokaz proizvođača samo za određene marke vozila može izdati i pravna osoba iz inozemstva koju za to Zavod ovlasti.
+Za vozila koja nisu homologirana prema zahtjevima ECE pravilnika ili EEC smjernica samo proizvođač ili pravna osoba iz inozemstva koju Zavod ovlasti može izdati dokaz proizvođača kojim se dokazuje kojim ECE pravilnicima ili EEC smjernicama predmetno vozilo odgovara.
+Umjesto dokaza proizvođača iz stavka 3. ove točke, podnositelj zahtjeva može priložiti "COC dokument" iz točke 7. ovog naputka, ako je "COC dokument" ovjeren od proizvođačevog ovlaštenog zastupnika u Republici Hrvatskoj i to glavnog ili isključivog ako nema glavnog."
+2. Iza točke 9. dodaje se nova točka 9a. koja glasi:
+"Primjena članka 12. stavak 1. Pravilnika o homologaciji vozila ("Narodne novine" br. 82/96, 107/96 i 79/97) znači da se postupak homologacije neće provoditi za vozila koja su prešla carinsku crtu Republike Hrvatske prije 15. rujna 1997., uključujući tu i vozila koja su smještena na konsignacijsko skladište.
+Postupak homologacije neće se provoditi i za vozila za koja je uplata izvršena prije 15. rujna 1997. godine, a pređu carinsku crtu prije 31. prosinca 1997.
+Zahtjev za oslobađanje od homologacije s vjerodostojnim dokazima o izvršenom plaćanju treba podnijeti Državnom zavodu za normizaciju i mjeriteljstvo do 25. prosinca 1997."
+3. Ovaj naputak stupa na snagu danom objave u "Narodnim novinama".
