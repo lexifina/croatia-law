@@ -1,0 +1,4 @@
+# Članak 127.
+(1) Postrojenje za sterilizaciju i konzerviranje namirnica i predmeta opće uporabe sa zatvorenim radioaktivnim izvorom visoke aktivnosti (postrojenje za ozračivanje) mora biti u posebnoj građevini koja udovoljava uvjetima zaštite djelatnika, ostalih osoba i okoliša, a načinom gradnje osigurano je da tijekom uporabe zatvorenog radioaktivnog izvora neće biti radioaktivnog onečišćenja radnih prostorija i okoliša.
+(2) Mogućnost nezgode mora se smanjiti na najmanju moguću mjeru uporabom automatiziranih i udvojenih upravljačkih sustava.
+(3) Mogućnost nezgoda potrebno je dodatno spriječiti automatiziranjem detaljno utvrđenih tehnoloških postupaka koji se ne mogu proizvoljno promijenti, a uhodavaju se i provjeravaju vježbom djelatnika. O svim postupcima moraju postojati obvezatne pisane upute za djelatnike.

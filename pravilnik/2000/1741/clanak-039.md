@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Radne površine za rad ili stolovi moraju imati glatke neprekinute površine koje se lako održavaju i nemaju površinska oštećenja. Na njima moraju biti postavljeni štitnici od zračenja za zaštitu djelatnika koji rukuju s otvorenim radioaktivnim izvorima, te ostalih djelatnika u prostoriji.
+(2) Ploča stola mora osigurati odgovarajuću zaštitu djelatniku za dijelove tijela ispod pojasa zavisno o vrsti radionuklida i najvećoj aktivnosti na površini stola. Ploče stola moraju imati zaštitni učinak koji će oslabiti brzinu doze ispod stola tisuću puta u odnosu na brzinu doze s površine stola od najveće aktivnosti radionuklida koji se uobičajeno koristi.

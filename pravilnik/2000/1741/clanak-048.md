@@ -1,0 +1,4 @@
+# Članak 48.
+(1) U prostorijama za rad s otvorenim radioaktivnim izvorima radioaktivno onečišćenje površina prostorije, radnih površina, odjeće i kože djelatnika ne smije prijeći granice iz Tablice 1. Priloga VI. ovoga Pravilnika koji je njegov sastavni dio.
+(2) Povremena provjera radioaktivnog onečišćenja provodi se izravnim mjerenjem pomoću posebnog uređaja za mjerenje površinskog radioaktivnog onečišćenja ili uzimanjem briseva s odgovarajućih površina i naknadnim mjerenjem kojim se utvrđuje nazočnost i sadržaj radionuklida u brisu.
+(3) Mjerenje radioaktivnog onečišćenja odjeće ili kože djelatnika obavlja se na najpogodnijem mjestu na površini tijela veličine 100 cm2. Ako se utvrđuje radioaktivno onečišćenje zidova, poda ili stropa prostorije, odabire se površina veličine do 1000 cm2, a za druge površine dovoljna je površina od 300 cm2.

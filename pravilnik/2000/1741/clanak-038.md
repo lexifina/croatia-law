@@ -1,0 +1,2 @@
+# Članak 38.
+Prostorije u kojima se otvoreni radioaktivni izvori pripravljaju za primjenu ili se pohranjuju prije uporabe smatraju se područjem posebnog nadzora. Na vratima tih prostorija moraju biti oznake opasnosti od ionizirajućih zračenja, a ulaz mora biti osiguran od neovlaštenog pristupa kako tijekom rada tako i za vrijeme kad se prostorija ne koristi. Broj osoba u prostoriji mora biti ograničen na broj koji je nužan za obavljanje posla, ali u prostoriji moraju biti uvijek najmanje dvije osobe.

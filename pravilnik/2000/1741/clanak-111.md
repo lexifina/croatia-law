@@ -1,0 +1,4 @@
+# Članak 111.
+(1) Prije početka rada s uređajem za provjeru kakvoće radiografijom koji ima ugrađen zatvoreni radioaktivni izvor izvan posebno opremljenih prostorija ili na radilištu mjesto ozračivanja treba odabrati tako da se koriste već postojeće zapreke koje mogu smanjiti ozračivanje djelatnika, a tijekom rada moraju se koristiti i pokretni zaštitni paravani ili daljinski upravljački uređaj postaviti na takvo mjesto da njihovo izlaganje bude što niže, a svakako ispod propisanih granica.
+(2) Upravljački uređaj tijekom uporabe zatvorenih radioaktivnih izvora za provjeru kakvoće radiografijom mora imati priključne vodiče dovoljno duge da osigura potrebnu udaljenost od mjesta ozračivanja.
+(3) Tijekom rada izvan posebno opremljenih prostorija djelatnici moraju osigurati područje nadzora oko mjesta rada od pristupa drugih osoba koje mogu doći na mjesto rada i biti nepotrebno izloženi ionizirajućem zračenju.

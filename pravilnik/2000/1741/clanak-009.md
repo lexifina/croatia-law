@@ -1,0 +1,2 @@
+# Članak 9.
+Pravna ili fizička osoba koja proizvodi, uvozi, prodaje, iznajmljuje ili obavlja drugu vrstu prometa radioaktivnih izvora mora pravnoj ili fizičkoj osobi koja će koristiti radioaktivni izvor obvezno predati certifikat radioaktivnog izvora, certifikat za uređaj ili spremnik ako se radioaktivni izvor predaje u uređaju ili spremniku i izvješće o prvom ispitivanju radioaktivnog izvora te mišljenje ovlaštene pravne osobe o udovoljavanju uvjetima koji su propisani Zakonom i ovim Pravilnikom.

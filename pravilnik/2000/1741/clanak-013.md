@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Prostorije u kojima se koriste ili skladište radioaktivni izvori moraju biti projektirane, izgrađene i opremljene tako da je ozračenje zaposlenika i ostalih osoba ispod propisanih granica toliko nisko koliko je to razumno moguće postići uzimajući u obzir tehničke, gospodarske, socijalne i ostale čimbenike.
+(2) Ako zidovi, vrata, dovratnici, prozori, pod i strop prostorije u kojoj je smješten radioaktivni izvor na vanjskim stranama ne propuštaju dozu ili brzinu doze zračenja iznad propisanih granica za odgovarajuću kategoriju djelatnika, odnosno drugih osoba, smatrat će se da uporabom ili skladištenjem tih radioaktivnih izvora nisu ugroženi zdravlje ljudi i okoliš u susjednim prostorijama.

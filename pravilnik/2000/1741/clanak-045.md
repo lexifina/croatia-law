@@ -1,0 +1,2 @@
+# Članak 45.
+Po prijamu spremnika s otvorenim radioaktivnim izvorima od prijevoznika ili dobavljača treba provjeriti popratnu dokumentaciju o njegovom sadržaju i usporediti je s narudžbom koja treba biti u skladu s dozvolom za nabavku radioaktivnih izvora. Raspremanje treba obaviti uz obveznu uporabu rukavica i provjeru svakog pojedinog komada pošiljke. Zaprimljene radionuklide i aktivnosti treba odmah upisati u evidenciju i pohraniti u spremište.

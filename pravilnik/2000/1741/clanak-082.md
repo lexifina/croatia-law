@@ -1,0 +1,3 @@
+# Članak 82.
+(1) U vrijeme kad se ne koriste zatvoreni radioaktivni izvori isti moraju biti pohranjeni u posebnom spremniku ili sefu. Udaljenost sefa ili spremnika mora biti mala u odnosu na radni stol zbog najkraćeg mogućeg puta prijenosa tijekom vađenja iz spremnika ili sefa. To vrijedi i za slučaj kad se izvor u operacijskoj dvorani izravno uvodi u bolesnika, umjesto tehnikom naknadnog unošenja.
+(2) Pristup u prostoriju u kojoj su pohranjeni zatvoreni radioaktivni izvori u vrijeme kad se ne koriste dopušten je samo ovlaštenim osobama, a te prostorije moraju biti zaključane ako se nitko ne nalazi u njima. Ulaz u prostoriju moguć je samo pomoću ključa.

@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Za radioaktivne izvore s istom vrstom radionuklida jednake aktivnosti koji se koriste kao sastavni dio automatskih dimnih javljača požara u postrojenju ili sustavu za dojavu požara ministar zdravstva daje zajedničku uporabnu dozvolu u kojoj se uz podatke o radioaktivnom izvoru i njegovoj pojedinačnoj aktivnosti, navodi ukupni broj istovrsnih radioaktivnih izvora i ukupna njihova aktivnost u sustavu ili dijelu sustava te mjesto gdje su ugrađeni.
+(2) Zajednička uporabna dozvola iz stavka 1. ovoga članka daje se na temelju mišljenja ovlaštene pravne osobe o udovoljavanju uvjetima zaštite od ionizirajućih zračenja.
+(3) Ako se promijeni broj radioaktivnih izvora u sustavu iz stavka 1. ovoga članka za koji je dana zajednička uporabna dozvola obvezno je zatražiti novu zajedničku uporabnu dozvolu.

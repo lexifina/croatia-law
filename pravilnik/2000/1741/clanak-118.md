@@ -1,0 +1,3 @@
+# Članak 118.
+(1) Na površini spremnika mora biti trajno otiskana oznaka opasnosti od ionizirajućeg zračenja, kemijski znak radionuklida za koji je namijenjen i najveća dopuštena aktivnost koja se smije ugraditi u spremnik.
+(2) Uz uređaj sa zatvorenim radioaktivnim izvorom za provjeru kakvoće bez razaranja mora postojati točan podatak o aktivnosti zatvorenog radioaktivnog izvora u trenutku njegove uporabe. Taj podatak određuje se poradi planiranja ozračivanja bilo putem priložene krivulje raspada radionuklida počev od određenog dana ili temeljem proračuna raspada od određenog dana kad je aktivnost utvrđena.

@@ -1,0 +1,3 @@
+# Članak 129.
+(1) U prostoriji sa zatvorenim radioaktivnim izvorom za panoramsko ozračivanje, ali ne u izravnom snopu, mora biti ugrađen uređaj za mjerenje ionizirajućeg zračenja koji je povezan s ulazom za djelatnike, te mjerenjem razine zračenja u prostoriji za ozračivanje pokazuje da li je izvor u ili izvan zaštićenog položaja. Uređaj mora biti povezan sa zvučnim i svjetlosnim signalima.
+(2) Na 1 m udaljenosti od bilo koje točke na površini spremnika sa zatvorenim radioaktivnim izvorom u zaštićenom položaju doza ne smije prijeći 20 mGy/h niti na 5 cm udaljenosti od bilo koje točke na površini spremnika ne smije prijeći 200 mGy/h.

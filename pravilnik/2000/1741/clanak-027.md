@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Ministar zdravstva daje uporabnu dozvolu za radioaktivni izvor na temelju pisanog zahtjeva uz priloženo mišljenje ovlaštene pravne osobe o udovoljenju uvjetima zaštite od ionizirajućih zračenja i potvrde o upisu radioaktivnog izvora u središnji registar izvora ionizirajućeg zračenja Hrvatskog zavoda za zaštitu od zračenja.
+(2) Potvrdu o upisu u središnji registar izvora ionizirajućih zračenja Hrvatski zavod za zaštitu od zračenja daje po prijamu popunjenog odgovarajućeg Prijavnog lista o upisu radioaktivnog izvora koji je tiskan na obrascu u Prilogu III. ovoga Pravilnika koji je njegov sastavni dio.

@@ -1,0 +1,2 @@
+# Članak 107.
+Uređaj sa zatvorenim radioaktivnim izvorom za provjeru kakvoće radiografijom u kontroli bez razaranja može iznijeti iz skladišta u kojem se čuva kad se ne koristi samo djelatnik koji ima radni nalog za obavljanje određenog posla, uz potpis o preuzimanju uređaja u knjigu evidencije kretanja zatvorenog radioaktivnog izvora. Djelatnik od trenutka preuzimanja uređaja sa zatvorenim radioaktivnim izvorom do njegova vraćanja u spremište odgovoran je za taj izvor i za provedbu zaštitnih mjera tijekom prijenosa, prijevoza i uporabe izvora.

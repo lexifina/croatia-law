@@ -1,0 +1,2 @@
+# Članak 32.
+Svi radovi s otvorenim radioaktivnim izvorima za potrebe provedbe zaštite od ionizirajućih zračenja razvrstavaju se u tri razreda opasnosti: mala, srednja i visoka opasnost. Razredi opasnosti s područjem aktivnosti na koji se odnose prikazani su u Tablici 1. Priloga IV. koja je tiskana uz ovaj Pravilnik i njegov je sastavni dio. Pripadnost određenog radionuklida određene aktivnosti nekom od razreda utvrđuje se pomoću težinskih koeficijenata iz Tablice 2. Priloga IV. i koeficijenata iz Tablice 3. Priloga IV. koje su njegov sastavni dio.

@@ -1,0 +1,3 @@
+# Članak 81.
+(1) Radne površine na kojima se obavlja priprema zatvorenih radioaktivnih izvora za brahiterapiju moraju biti glatke, bez pukotina i oštećenja, te moraju osigurati propisanu zaštitu od ionizirajućih zračenja djelatnicima koji rade u blizini. Zaštitna moć štitnika koji se nalaze na stolu okružujući mjesto rukovanja kao i same radne površine stola mora biti sukladna aktivnosti i vrsti zatvorenog radioaktivnog izvora.
+(2) Za promatranje radnji sa zatvorenim radioaktivnim izvorom koristi se štitnik od olovnog stakla zaštitnog učinka jednakovrijednog učinku olova debljine 5 cm. Radno mjesto mora biti dobro osvijetljeno, a po potrebi koristi se povećalo.
