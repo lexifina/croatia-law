@@ -1,0 +1,1 @@
+Na temelju člana 28. Zakona o zadrugama ("Službeni list SFRJ", br. 3/90) i članka 56, 57. i 58. Statuta Zadružnog saveza regije Bjelovar, Skupština Zadružnog saveza regije Bjelovar na sjednici održanoj 8. svibnja 1991. godine donosi
