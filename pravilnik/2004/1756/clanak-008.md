@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Vjerska zajednica i udruga te pravna osoba može osiguravati skrb izvan vlastite obitelji i trudnici 3 mjeseca prije poroda ili roditelju s djetetom do 6 mjeseci, a iznimno ako je to u interesu djeteta do godine dana života djeteta koji nema stana, odnosno nema osiguran smještaj ili zbog poremećenih odnosa u obitelji ne može ostati s djetetom u obiteljskom domu.
+(2) Za vrijeme smještaja korisnika iz stavka 1. ovoga članka osiguravaju se usluge prehrane, brige o zdravlju, održavanju njege i osobne higijene, osposobljavanje majke za samostalno vođenje brige o djetetu, te pružanje psihosocijalne potpore.

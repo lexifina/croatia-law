@@ -1,0 +1,1 @@
+Pravilnik o uvjetima glede prostora, opreme, stručnih i drugih radnika te načinu pružanja skrbi izvan vlastite obitelji koju pruža vjerska zajednica i udruga te druga pravna osoba za najviše 20 korisn

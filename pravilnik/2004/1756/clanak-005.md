@@ -1,0 +1,5 @@
+## S DJETETOM
+## Vrste usluga
+# Članak 5.
+(1) Djeci i mlađim punoljetnim osobama (djeci bez odgovarajuće roditeljske skrbi, djeci bez roditelja ili djeci koju roditelji zanemaruju ili zlorabe svoje roditeljske dužnosti i mlađim punoljetnim osobama ako su do punoljetnosti bile smještene u domu ili u drugoj pravnoj osobi ili je to iz drugih razloga u interesu djeteta ili mlađe punoljetne osobe) na stalnom smještaju osigurava se zadovoljavanje životnih potreba kao što su: stanovanje, prehrana, odijevanje, održavanje osobne higijene, briga o zdravlju, čuvanje, odgoj i obrazovanje, njega, radne aktivnosti i korištenje slobodnog vremena.
+(2) Vjerska zajednica i udruga, te pravna osoba koja smještava osobe iz stavka 1. ovoga članka dužna je, u okviru svoje djelatnosti, pratiti izvršavanje obveza korisnika, pružati odgovarajuće oblike stručne pomoći i osposobljavati korisnike sukladno njihovoj dobi za samostalan život izvan ustanove, te surađivati s nadležnim centrom za socijalnu skrb glede skrbi o djetetu.
