@@ -1,0 +1,4 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza II. kategorije Maljevac
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Maljevac, smješteno je 170 metara od raskrižja cesta Maljevac - Vojnić - Cetingrad u naseljenom mjestu Maljevac, na državnoj cesti DC-216 (Karlovac-Vojnić-Maljevac) i obuhvaća prostor s lijeve i desne strane ceste u dužini od 200 metara i širini od 15 metara, na k.č. 231, 231, 210/3, 233, 210/1 i 210/2. k.o.Maljevac gdje se nalazi jedna ulazna i jedna izlazna prometna traka, pet kontejnera koje koriste djelatnici granične policije, djelatnici carine i djelatnici špedicije, nadstrešnica iznad mjesta obavljanja granične kontrole u dužini 9 metara i širini 9 metara, s rasvjetnim tijelima, dva parkirališna mjesta za dva osobna vozila, te ugibalište za jedno osobno vozilo i jedno teretno vozilo.
+Ukupna površina područja graničnog prijelaza iznosi 3 000 m2.
