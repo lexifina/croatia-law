@@ -1,0 +1,5 @@
+# Članak 7.
+Sorta je definirana svojim svojstvima i ta svojstva su osnova za izvođenje DUS-ispitivanja. DUS-ispitivanjem utvrđuju se ona svojstva nove sorte (navedena u tehničkim uputstvima), koja su bitna za utvrđivanje prepoznatljivosti tj. razlikovanje jedne sorte od druge, te utvrđivanje ujednačenosti i postojanosti, ne uzimajući u obzir svojstva za gospodarsku vrijednost.
+Nakon prve godine ispitivanja izvoditelj pokusa daje prethodno izvješće o rezultatima ispitivanja prepoznatljivosti, ujednačenosti i postojanosti i moguće probleme u izvođenju pokusa. Obrazac prethodnog izvješća (PI-DUS) tiskan je uz ovaj Pravilnika i njegov je sastavni dio.
+Nakon završnog ispitivanja (druge godine) Zavod daje konačno izvješće o ispitivanju prepoznatljivosti, ujednačenosti i postojanosti, koje se temelji na upov-om modelu, ukoliko je pozitivno, sadrži opis sorte u anexu. Obrazac konačnog izvješća (I-DUS) tiskan je uz ovaj Pravilnika i njegov je sastavni dio.
+Izvoditelj pokusa dužan je, nakon završenog DUS-ispitivanja, u što kraćem roku dostaviti Zavodu izvješća i opis sorte, ukoliko Zavod sam nije izvoditelj.

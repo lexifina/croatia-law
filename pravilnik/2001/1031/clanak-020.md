@@ -1,0 +1,4 @@
+# Članak 20.
+Stranooplodne sorte uključujući i sintetske sorte uglavnom pokazuju širu varijaciju unutar sorte nego što je to kod smooplodnih sorti i ponekad je vrlo teško razlikovati atipične biljke. Stoga nije moguće definirati fiksnu toleranciju, nego se koristi limit relativne tolerancije u uspoređivanju s već poznatim komparirajućim sortama.
+U slučaju mjerenih svojstava računa se da je stranooplodna sorta neujednačena, ako njihova varijabilnost prelazi prosječnu varijabilnost tih svojstava kod sorta-primjera i sličnih sorti više od 1,6 puta.
+Ocijenjena svojstva uspoređuju se na isti način kao i mjerena svojstva. Broj biljaka koje su naizgled različite od drugih biljaka te sorte ne smije na nivou od 5% vjerojatnosti znatno prelaziti broj takvih biljaka kod sorti primjera i sličnih sorti.

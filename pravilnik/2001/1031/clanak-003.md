@@ -1,0 +1,3 @@
+# Članak 3.
+U slučaju, kada Zavod za neku novu sortu u Republici Hrvatskoj odnosno u zemlji potpisnici UPOV Konvencije, ne može odrediti izvoditelja DUS-ispitivanja, na zahtjev Zavoda, podnositelj zahtjeva sam ili netko drugi uz njegovo ovlaštenje organizira DUS-ispitivanje nove sorte.
+U slučaju kada ne postoji praktično iskustvo u DUS ispitivanju za određenu vrstu, a ni tehnička uputstva u nekoj drugoj zemlji Zavod priprema tehnička uputstva za DUS-ispitivanje nove sorte sukladno principima u općem uputstvu. Zavod je dužan informirati UPOV o pripremljenim tehnčkim uputstvima. Također, Zavod mora objaviti tehnička uputstva i odobriti izvoditelja prije provođenja DUS ispitivanja nove biljne sorte.
