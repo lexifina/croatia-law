@@ -1,0 +1,17 @@
+# Članak 8.
+SLUŽBENICI
+1. Glavni tajnik određuje kategorije službenika na koje se primjenjuju odredbe ovoga članka. Te kategorije on podnosi Skupštini. Nakon toga će te kategorije biti priopćene vladama svih članica Vlasti. O imenima službenika uključenih u te kategorije s vremena na vrijeme bit će obaviještene vlade članica Vlasti.
+2. Službenici Vlasti, bez obzira na državljanstvo:
+(a) uživaju imunitet od sudbenosti glede izgovorenih i napisanih riječi i svih čina počinjenih u službenom svojstvu;
+(b) uživaju imunitet od uhićenja i zatočenja povezanih s činima koje su počinili u službenom svojstvu;
+(c) oslobođeni su od poreza na plaće i naknade ili bilo koji drugi oblik isplate od strane Vlasti;
+(d) oslobođeni su vojne obveze, pri čemu takvo oslobođenje države čiji su državljani službenici Vlasti, odobravaju službenicima čija su imena, s obzirom na njihove dužnosti, uvrštena na popis koji je sastavio glavni tajnik i koji je odobrila dotična država; ako drugi službenici Vlasti budu pozvani radi služenja vojne obveze, dotična će država, na zamolbu glavnog tajnika, odobriti takva privremena oslobođenja od vojne obveze koja su nužna radi izbjegavanja prekidanja bitnih poslova.
+(e) nisu podvrgnuti, kao ni njihovi bračni drugovi i članovi obitelji o kojima skrbe, ograničenjima useljavanja i formalnostima prijave stranaca;
+(f) uživaju iste povlastice glede mogućnosti mijenjanja valute kao i službenici odgovarajućeg ranga koji pripadaju diplomatskim misijama pri dotičnoj vladi;
+(g) imaju pravo bez carine uvesti svoj namještaj i druge stvari kad prvi put preuzimaju dužnost u dotičnoj zemlji;
+(h) izuzeti su od pregledavanja osobne prtljage, osim ako postoji ozbiljna sumnja da ta prtljaga sadrži predmete koji nisu za osobnu uporabu ili predmete čiji je uvoz ili izvoz zakonom zabranjen ili uređen propisima dotične stranke o karanteni; pregled će se u takvom slučaju izvršiti u prisutnosti dotičnog službenika, a uslučaju službene prtljage, u prisutnosti glavnog tajnika ili njegovog ovlaštenog predstavnika;
+(i) uživaju, kao i njihovi bračni drugovi i članovi obitelji o kojima skrbe, iste repatrijacijske olakšice u vrijeme međunarodne krize kao i diplomatski predstavnici.
+3. Pored povlastica i imuniteta određenih u stavku 2, glavnom tajniku ili drugom službeniku koji djeluje u njegovo ime za vrijeme njegove odsutnosti te glavnom direktoru Poduzeća odobrit će se, glede njih samih, njihova bračnog druga i maloljetne djece, povlastice, imuniteti, izuzeća i olakšice koje se odobravaju diplomatskim predstavnicima u skladu s međunarodnim pravom.
+4. Povlastice i imuniteti ne odobravaju se službenicima radi njihove osobne koristi, već radi osiguranja njihove neovisnosti pri izvršavanju funkcija povezanih s Vlasti. Glavni tajnik ima pravo i dužnost odreći se imuniteta bilo kojeg službenika kad bi, prema njegovom mišljenju, imunitet ometao izvršenje pravde i može ga se odreći bez da šteti interesima Vlasti. U slučaju glavnog tajnika, pravo odricanja imuniteta ima Skupština.
+5. Vlast će stalno surađivati s odgovarajućim tijelima članica Vlasti kako bi se olakšalo pravilno djelovanje pravosuđa, osiguralo poštivanje policijskih propisa i spriječila svaka zlouporaba povezana s povlasticama, imunitetima i olakšicama navedenim u ovom članku.
+6. Sukladno zakonima i pravnim propisima pojedine države, od službenika Vlasti zahtijevat će se da imaju osiguravateljno pokriće za rizike prema trećima za vozila kojih su vlasnici ili koja koriste.
