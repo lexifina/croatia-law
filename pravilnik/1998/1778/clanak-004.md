@@ -1,0 +1,3 @@
+# Članak 4.
+Istovrstan lijek ima isti kvalitativan i kvantitativan sastav djelatnih tvari kao drugi lijek originalnog proizvođača koji ima odobrenje za stavljanje u promet u Republici Hrvatskoj ili nekoj od država s istovjetnim zakonodavstvom o lijekovima, jednak farmaceutski oblik i jednakovrijednu bioraspoloživost/bioekvivalenciju, provjerenu u skladu s Pravilnikom o ispitivanju bioekvivalencije i bioraspoloživosti lijeka.
+Istovrsnim se može smatrati i lijek koji ima različit farmaceutski oblik od drugog lijeka istog sustava (kapsule/tablete) namijenjen za oralnu uporabu, osim lijeka s kontroliranim oslobađanjem djelatne tvari.

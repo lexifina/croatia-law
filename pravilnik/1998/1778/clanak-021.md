@@ -1,0 +1,4 @@
+## VII. IZVJEŠĆA DRŽAVNIH ZDRAVSTVENIH ZAVODA
+# Članak 21.
+Zahtjev za davanje izvješća o kemijskoj, farmaceutskoj i biološkoj dokumentaciji s nalazom o provedenom laboratorijskom ispitivanju lijeka u Hrvatskom zavodu za kontrolu lijekova, odnosno za cjepiva, serume, alergene, toksine, lijekove iz ljudske krvi ili plazme i određene grupe imunobioloških lijekova dobivene postupkom visoke tehnologije i biotehnologije u Hrvatskom zavodu za kontrolu imunobioloških preparata podnosi nadležnom zavodu proizvođač sa sjedištem u Republici Hrvatskoj, predstavništvo stranog proizvođača ili ovlašteni zastupnik stranog proizvođača sa sjedištem u Republici Hrvatskoj, a za cjepiva i serume i Hrvatski zavod za javno zdravstvo.
+Uz zahtjev za davanje izvješća obvezno je priložiti dokumentaciju navedenu u članku 49. ovog Pravilnika i propisanu količinu uzoraka i standarda za provođenje analize.

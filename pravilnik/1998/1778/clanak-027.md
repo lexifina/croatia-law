@@ -1,0 +1,4 @@
+# Članak 27.
+Skraćeni postupak može se primijeniti i na kombinacijiu djelatnih tvari koje udovoljavaju zahtjevu iz stavka 3. članka 3. ovog Pravilnika.
+Ako su djelatne tvari bile u kombinaciji, ali su sadržane u gotovom lijeku u novom odnosu ili je različit način doziranja ili je najmanje jedna od djelatnih tvari s kontroliranim oslobađanjem potrebno je uz dokumentaciju navedenu u članku 5. i stavku 1. članka 25. ovog Pravilnika dostaviti obrazloženje razlike u odnosu na postojeću kombinaciju, kao i rezultate usporednih kliničkih ispitivanja postojeće i nove kombinacije ili načina doziranja ili ispitivanje bioraspoloživosti.
+Ukoliko djelatne tvari iz stavka 1. ovog članka nisu bile u kombinaciji u gotovom lijeku potrebno je dostaviti cjelovitu dokumentaciju propisanu u članku 23. ovog Pravilnika koja se odnosi na kombinaciju djelatnih tvari u gotovom lijeku.
