@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 5. Zakona o rudarstvu (»Narodne novine«, broj 190/2003 - pročišćeni tekst) i članka 16. stavka 1. Zakona o područjima posebne državne skrbi (»Narodne novine«, broj 26/2003 - pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 15. srpnja 2004. godine donijela
