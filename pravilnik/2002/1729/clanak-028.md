@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Kupac plina je obavezan distributeru plaćati potrošnju plina u vremenskim razmacima (petnaestodnevnim, mjesečnim, tromjesečnim) koje odredi distributer plina, a u slučaju zakašnjenja s plaćanjem dužan je platiti i zatezne kamate, a pod uvjetima određenim ovim Pravilnikom distributer plina može kupcu koji ne plati dospjele račune izvršiti prekid opskrbe plinom.
+(2) U slučaju iz stavka 1. ovoga članka kupac plina kome je izvršen prekid opskrbe plinom, nakon podmirenja zaostalih dugovanja i zateznih kamata ima pravo od distributera zatražiti ponovnu opskrbu plinom, a distributeru plina pripada pravo na naknadu troškova za ponovno uspostavljanje opskrbe plinom.

@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Djelatnost distribucije plina može obavljati distributer plina koji je od Vijeća za regulaciju energetskih djelatnosti (u daljnjem tekstu: Vijeće za regulaciju) ishodio dozvolu za obavljanje te djelatnosti i obavlja je na temelju koncesije.
+(2) Vijeće za regulaciju može dozvolu za obavljanje djelatnosti distribucije plina izdati distributeru plina registriranom za obavljanje te djelatnosti ako ispunjava uvjete tehničke kvalificiranosti, stručne osposobljenosti i financijske kvalificiranosti propisane ovim Pravilnikom, ako ne postoje zapreke propisane odredbom članka 17. stavak 1. točke 5. i 6. Zakona o energiji.

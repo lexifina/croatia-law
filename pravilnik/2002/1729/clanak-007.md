@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Koncesijom za obavljanje djelatnosti distribucije plina određuje se distributer plina koji će kao koncesionar obavljati djelatnost, kapacitet obavljanja djelatnosti, područje obavljanja djelatnosti, razdoblje važenja koncesije, te druga pitanja propisana ovim Pravilnikom.
+(2) Koncesija se može dodijeliti za izgradnju distribucijskog sustava plinovoda uključujući pružanje usluga distribucijskog sustava ili za pružanje usluga distribucijskog sustava na postojećem distribucijskom sustavu.
+(3) Koncesiju može dobiti osoba koja ima dozvolu Vijeća za regulaciju za obavljanje djelatnosti distribucije plina. Koncesiju koja obuhvaća izgradnju distribucijskog sustava plinovoda može dobiti osoba koja u natječaju za dodjelu koncesije pruži tražene dokaze da raspolaže ili da može osigurati financijska sredstva potrebna za izgradnju distribucijskog sustava plinovoda.

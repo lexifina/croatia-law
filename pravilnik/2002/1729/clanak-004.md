@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Djelatnost distribucije plina distributer plina obavlja korištenjem distribucijskog sustava plinovoda:
+a. od primopredajnih redukcijskih stanica na kojima preuzima plin od transportera do točke isporuke krajnjim kupcima kod distribucije prirodnog plina
+b. od mjesta ulaska sirovine za proizvodnju miješanog, isparenog ili gradskog plina do točke isporuke krajnjim kupcima kod distribucije miješanog, isparenog ili gradskog plina
+(2) Distribucijski sustav plinovoda u smislu ovog Pravilnika čine: distributivna plinska mreža, postrojenja i uređaji za proizvodnju miješanog, isparenog ili gradskog plina kod distribucije miješanog, isparenog ili gradskog plina, VT (visokotlačni) distributivni plinovodi, ST (srednjetlačni) i NT (niskotlačni) distributivni plinovodi s mjerno regulacionom i sigurnosnom opremom, odorizacijska stanica, kućni i industrijski priključci kao i ugrađeni uređaji i oprema na distribucijskom sustavu zaključno s brojilom (plinomjerom).
+(3) Distribucijski sustav plinovoda i njima pripadajuća postrojenja i uređaje projektira, gradi i održava distributer plina. Radove na projektiranju, izgradnji i održavanju distribucijskog sustava plinovoda distributer plina može povjeriti pravnim i fizičkim osobama registriranim i ovlaštenim za te djelatnosti.
+(4) Točkom isporuke krajnjem kupcu, odnosno krajnjom točkom distribucijskog sustava plinovoda, smatra se mjesto na izlazu iz plinomjera ili na izlazu iz drugog stupnja regulacije regulatora tlaka kada plinomjer kao takav nije ugrađen.

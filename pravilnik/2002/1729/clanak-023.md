@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Distributer plina ne snosi odgovornost ako nastupi nemogućnost isporuke plina ili smanjenje količina plina koji se isporučuje zbog više sile ili ako dođe do prekida u isporuci plina od strane transportera plina ili zbog zabrane uvoza plina ili ekonomskih mjera propisanih zakonom ili uredbom Vlade Republike Hrvatske.
+(2) Odgovornosti zbog nemogućnosti ili smanjenja isporuke plina nije oslobođen distributer plina ako mu je transporter plina prestao isporučivati plin ili smanjio količinu isporučenog plina zbog neplaćanja plina. I u ovom slučaju ne postoji odgovornost distributera plina prema kupcima plina koji ne izvršavaju svoje obaveze u pogledu plaćanja plina koji im je isporučen.
