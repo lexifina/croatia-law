@@ -1,0 +1,2 @@
+# Članak 25.
+U Odsjeku ili pododsjeku za katastarski sustav obavljaju se poslovi vezani uz katastarske izmjere koje obavlja područni ured, poslovi održavanja dopunskih polja stalnih geodetskih točaka, poslovi vezani uz županijski registar prostornih jedinica, poslovi pružanja usluga građanima i pravnim osobama, prati i koordinira obavljanje ovih poslova u ispostavama, osigurava jedinstveno postupanje u osnivanju katastra nekretnina, te pripremaju prijedlozi planova rada kao i izvješća o radu područnih ureda.

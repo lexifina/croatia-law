@@ -1,0 +1,2 @@
+# Članak 26.
+U Odsjeku ili pododsjeku za informatičku podršku obavljaju se poslovi planiranja informatizacije i uspostavljanja informatičke podrške radu područnog ureda i njegovih ispostava, prikupljaju i održavaju podaci na razini županije i o njima obavještava Središnji ured, koordinira obavljanje ovih poslova u ispostavama te pripremaju prijedlozi planova rada kao i izvješća o radu područnih ureda.

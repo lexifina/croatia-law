@@ -1,0 +1,2 @@
+# Članak 18.
+Pododsjek postupanja u drugom stupnju prati, analizira i nadzire stanje na području katastra zemljišta i katastra nekretnina, izrađuje godišnji plan rada i izvješće o radu, obavlja poslove upravnog nadzora nad održavanjem katastarskih operata, rješava upravne stvari u drugom stupnju, priprema stručne podloge i rješenja za izradbu zakonskih i drugih propisa iz oblasti katastra i sudjeluje u izradbi tih propisa, priprema podloge za stručna tumačenja, mišljenja i naputke za primjenu tih propisa.

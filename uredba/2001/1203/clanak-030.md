@@ -1,0 +1,2 @@
+# Članak 30.
+U odsjeku, pododsjeku ili odjeljku za geodetske poslove obavljaju se poslovi vezani uz tehničku dokumentaciju državne izmjere i katastra, poslovi održavanja podataka o stalnim geodetskim točkama, vođenje brige o stanju oznaka državne izmjere i katastra nekretnina, poslovi vezani uz gradske i općinske registre prostornih jedinica te poslovi vezani uz pregled i potvrđivanje parcelacijskih i drugih geodetskih elaborata.
