@@ -1,0 +1,2 @@
+# Članak 10.
+U članku 39. iza riječi: »upravni nadzor«, dodaju se riječi: »prikuplja i kontrolira ispravnost i potpunost dokumentacije potrebne za upis zrakoplova u Hrvatski registar, obavlja upis i ispis zrakoplova iz registra, izdaje potvrdu o upisu u registar, vodi statistiku prema kategorijama zrakoplova, prati i ažurira stanje zrakoplova (status vlasništva, plovidbenosti, broj zrakoplova, stanje teretnih listova), određuje i dodjeljuje registarske oznake zrakoplova,«.

@@ -1,0 +1,3 @@
+# Članak 5.
+Članak 30. mijenja se i glasi:
+»Odjel pravnih poslova priprema nacrte prijedloga zakona iz cestovnog prometa i javnih cesta u suradnji s drugim odjelima Uprave, izrađuje podzakonske propise iz cestovnog prometa i javnih cesta, provodi upravni nadzor nad primjenom propisa cestovnog prometa i javnih cesta, daje pravna objašnjenja i mišljenja o pravnim pitanjima iz cestovnog prometa i javnih cesta, provodi upravni postupak, sudjeluje u radu povjerenstva za izradu drugih propisa, daje mišljenja i objašnjenja u svezi propisa cestovnog prometa i javnih cesta, te obavlja i druge poslove koji proizlaze iz prirode posla cestovnog prometa.«.

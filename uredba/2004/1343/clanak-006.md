@@ -1,0 +1,6 @@
+# Članak 6.
+Iza članka 33. dodaje se članak 33.a koji glasi:
+»d) Odjel inspekcije cestovnog prometa i cesta
+Članak 33.a
+Odjel inspekcije cestovnog prometa i cesta provodi neposredni inspekcijski nadzor u oblasti cestovnog prometa i javnih cesta, sigurnosti cestovnog prometa i javnih cesta kao i prijevoza opasnih tvari, provodi zakone i propise iz područja cestovnog prometa i javnih cesta, prati stanje i poduzima mjere u području cestovnog prometa i javnih cesta, sudjeluje u izradi nacrta prijedloga zakona i podzakonskih akata iz područja cestovnog prometa i javnih cesta, prati stanje i utjecaj cestovnog prometa na čovjekovu okolinu i poduzima mjere, vodi evidenciju objekata pod nadzorom, te evidenciju poduzetih mjera.
+U područnim jedinicama (Grad Zagreb, Rijeka, Osijek, Split, Varaždin, Slavonski Brod, Pula, Zadar, Šibenik, Dubrovnik, Čakovec, Koprivnica, Virovitica, Gospić, Karlovac, Sisak, Bjelovar, Nova Gradiška, Požega, Krapina i Vukovar) predviđaju se i djeluju samostalni izvršitelji inspektori cestovnog prometa i cesta sa svim nadležnostima te inspekcije.«.

@@ -1,0 +1,2 @@
+# Članak 37.
+U članku 101. iza riječi: »očevidnik« dodaju se riječi: »provodi suradnju i koordinaciju aktivnosti s državnim odvjetništvom i državnim uredima nadležnim za poslove obnove u svezi rješavanja o pravu na naknadu materijalne štete nastale na materijalnim dobrima sukladno Zakonu o obnovi, a temeljem posebnog propisa, daje prijedloge za pokretanje kaznenog postupka protiv osoba koje su protuzakonito ostvarile pravo na obnovu.«.
