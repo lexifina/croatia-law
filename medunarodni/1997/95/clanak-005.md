@@ -1,0 +1,2 @@
+# Članak 5.
+Na dan donošenja ovoga Zakona međunarodni ugovor iz članka 2. ovoga Zakona, uključujući preuzete obveze iz članka 3. ovoga Zakona, nije za Republiku Hrvatsku na snazi. Stupit će na snagu za Republiku Hrvatsku u skladu sa svojim člankom 15. stavkom 3., a podaci o njegovu stupanju na snagu objavit će se nakon toga sukladno odredbi članka 30. stavka 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine«, br. 8/96).
