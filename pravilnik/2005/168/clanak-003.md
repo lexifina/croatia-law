@@ -1,0 +1,8 @@
+# Članak 3.
+Nova stanica za tehnički pregled vozila može se otvoriti:
+1. na cestovnoj udaljenosti većoj od 35 km od najbliže stanice za tehnički pregled vozila;
+2. na cestovnoj udaljenosti većoj od 15 km do zaključno 35 km od najbliže stanice za tehnički pregled vozila, ukoliko je prosječni postotak iskorištenosti kapaciteta u mjestu u kojem se nalazi najbliža stanica za tehnički pregled vozila veći od 65% (mjereno u OA jedinicama);
+3. na otocima na kojima nema stanice za tehnički pregled vozila;
+4. u mjestu ili gradu u kojem postoje jedna ili više stanica za tehnički pregled vozila, ako je prosječan broj tehničkih pregleda kod ukupnog broja svih stanica za tehnički pregled vozila u tom mjestu ili gradu veći od 27.000 OA godišnje po jednoj tehnološkoj liniji (preračunato primjenom koeficijenata iz članka 2. stavka 2. ovog Pravilnika).
+Nova stanica za tehnički pregled vozila prema točkama 1. i 2. stavka 1. ovoga članka može se otvoriti uz uvjet da je na području koje gravitira novoj stanici registrirano najmanje 7.000 vozila, što se smatra donjom granicom ekonomske opravdanosti izgradnje stanice. Pod područjem koje gravitira novoj stanici za tehnički pregled vozila smatra se područje općina koje su bliže novoj nego postojećoj stanici.
+Nova stanica za tehnički pregled vozila prema točki 4. stavka 1. ovoga članka može se otvoriti uz uvjet da postojeća stanica ili stanice u tom gradu ili mjestu, u roku od šest mjeseci od analizom utvrđene potrebe za izgradnjom stanice, u sklopu jednog od objekata postojeće stanice ne poveća kapacitet odnosno ne izgradi jednu novu dodatnu tehnološku liniju.
