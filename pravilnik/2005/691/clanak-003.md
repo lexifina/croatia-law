@@ -1,0 +1,3 @@
+# Članak 3.
+Liječnik koji provodi pretrage u ordinaciji dužan se koristiti Priručnikom o medicinsko-biokemijskim pretragama u liječničkoj ordinaciji izdanim od Hrvatske komore medicinskih biokemičara.
+Priručnik iz stavka 1. ovoga članka sadrži opis svih postupaka određivanja za medicinsko-biokemijske pretrage koje se provode u liječničkoj ordinaciji (kliničko značenje pretrage, vrsta uzorka, priprema bolesnika, dometi i ograničenja pretrage, interpretacije rezultata), upute za kalibraciju, kontrolu i održavanje opreme i upute o sigurnosti i zdravlju (upute za zaštitu osoblja, upute za skupljanje, rukovanje i uklanjanje biološkog materijala).
