@@ -1,0 +1,2 @@
+# Članak 8.
+U slučaju prodaje (otuđenja) stvari ili prava koji se vode u spisku dugotrajne imovine tijekom godine, u smislu članka 15. stavak (2.) Zakona, u prihode ulaze prihodi ostvareni od prodaje (otuđenja) stvari ili prava, a u smislu članka 15. stavak (3.) Zakona, u rashode poslovanja ulazi knjigovodstvena vrijednost stvari ili prava na kraju mjeseca prodaje (otuđenja) stvari ili prava iz stupca 12.

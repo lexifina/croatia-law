@@ -1,0 +1,2 @@
+# Članak 9.
+Spisak dugotrajne imovine te isprave na temelju kojih su stvari ili prava nabavljeni moraju se, u pravilu, držati u poslovnoj prostoriji poreznog obveznika, odnosno kod pravne ili fizičke osobe ovlaštene za vođenje poslovnih knjiga poreznog obveznika. Spisak dugotrajne imovine i isprave moraju se uredno čuvati najmanje pet godina nakon isteka godine u kojoj je utvrđen godišnji obračun poreza.

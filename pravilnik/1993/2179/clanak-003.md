@@ -1,0 +1,5 @@
+# Članak 3.
+U spisak dugotrajne imovine unose se stvari i prava koja služe za stjecanje dohotka ako njihova pojedinačna nabavna vrijednost ili troškovi proizvodnje premašuju iznos dinarske protuvrijednosti od 200 DEM po srednjem tečaju Narodne banke Hrvatske na dan nabave ili proizvodnje odnosno procjene i ako im je vijek trajanja duži od godine dana.
+U spisku dugotrajne imovine zemljište se upisuje odvojeno od građevinskih objekata.
+Stvari i prava koji čine cjelinu mogu se umjesto u pojedinačnim dijelovima, unijeti u spisak dugotrajne imovine kao cjelina. U tomu se slučaju i amortizacija obračunava na cjelinu. Više stvari ili prava čine cjelinu samo ako se na duži rok ne očekuje njihova prodaja, uništenje ili prestanak uporabe u dijelovima. Prava ne čine cjelinu ako su stečena kao pojedinačna prava.
+Stvari i prava koji nisu u vlasništvu poreznog obveznika ne unose se u spisak dugotrajne imovine i za njih se u rashode poslovanja ne priznaju otpis (amortizacija) i rashodi zaštite kapitala
