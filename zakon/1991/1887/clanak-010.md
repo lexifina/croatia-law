@@ -1,0 +1,4 @@
+## Republički zavod za normizaciju i mjeriteljstvo ima stvojstvo pravne osobe."
+# Članak 10.
+Republički zavod za industrijsko vlasništvo preuzima radnike koji su na dan stupanja na snagu ovoga zakona zatečeni u Republici Hrvatskoj na obavljanju poslova preuzetih od Saveznog zavoda za patente, a Republički zavod za normizaciju i mjeriteljstvo preuzima radnike koji su na dan stupanja na snagu ovog zakona zatečeni u Republici Hrvatskoj na obavljanju poslova preuzetih od Saveznog zavoda za standardizaciju i Saveznog zavoda za mjere i dragocjene metale.
+Republički zavod za normizaciju i mjeriteljstvo preuzima i upravljanje poslovnim prostorom, opremom i sredstvima na žiro-računima organizacijskih jedinica Saveznog zavoda za standardizaciju i Saveznog zavoda za mjere i dragocjene metale na teritoriju Republike Hrvatske.
