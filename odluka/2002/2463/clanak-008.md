@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Ministarstvo financija obavlja nadzor nad obavljanjem poslova platnog prometa u štedno-kreditnoj zadruzi u skladu s člankom 36. stavkom 1. Zakona o štedno-kreditnim zadrugama.
+(2) Hrvatska narodna banka oduzet će štedno-kreditnoj zadruzi odobrenje za obavljanje poslova platnog prometa ukoliko Ministarstvo financija, na temelju obavljenog nadzora iz stavka 1. ovoga članka, utvrdi nepravilnosti u obavljanju poslova platnog prometa i podnese zahtjev Hrvatskoj narodnoj banci za oduzimanje odobrenja za obavljanje poslova platnog prometa.
+(3) U slučaju iz stavka 2. ovoga članka Ministarstvo financija dužno je na zahtjev Hrvatske narodne banke utvrditi i dodatne okolnosti koje Hrvatska narodna banka ocijeni odlučujućima za donošenje odluke o oduzimanju odobrenja za obavljanje poslova platnog prometa.
+(4) Ministarstvo financija je dužno, ako donese rješenje o oduzimanju odobrenja za rad štedno-kreditnoj zadruzi, o tome odmah obavijestiti Hrvatsku narodnu banku, a danom izvršnosti tog rješenja prestaje važiti odobrenje Hrvatske narodne banke na temelju kojeg ta štedno-kreditna zadruga obavlja poslove platnog prometa.
+(5) Hrvatska narodna banka odmah će u slučaju oduzimanja ili prestanka važenja odobrenja za obavljanje poslova platnog prometa štedno-kreditne zadruge o tome obavijestiti obračunsku banku koja vodi račun za namiru te štedno-kreditne zadruge.
+(6) Na temelju obavijesti iz stavka 5. ovoga članka obračunska banka zatvara račun za namiru štedno-kreditne zadruge.

@@ -1,0 +1,12 @@
+# Članak 3.
+(1) Štedno-kreditna zadruga obavlja poslove platnog prometa na temelju odobrenja za obavljanje poslova platnog prometa koje izdaje Hrvatska narodna banka.
+(2) Štedno-kreditna zadruga podnosi Hrvatskoj narodnoj banci zahtjev za izdavanje odobrenja za obavljanje poslova platnog prometa, uz koji je dužna priložiti:
+1. rješenje Ministarstva financija o odobrenju za rad
+2. podatak o ukupnom broju zadrugara
+3. podatak o ukupnom broju zadrugara koji se u skladu sa Zakonom o platnom prometu smatraju poslovnim subjektima, njihove nazive i matične brojeve
+4. elaborat o načinu obavljanja i o tehničko-tehnološkoj osposobljenosti štedno-kreditne zadruge za obavljanje poslova platnog prometa ili svoje interne akte kojima štedno-kreditna zadruga uređuje obavljanje poslova platnog prometa. Navedenim elaboratom ili internim aktima štedno-kreditna zadruga dokazuje da može obavljati poslove platnog prometa u skladu i na način koji su za obavljanje tih poslova propisani ovom odlukom, Zakonom o platnom prometu u zemlji i propisima donesenim na temelju Zakona o platnom prometu u zemlji.
+(3) Hrvatska narodna banka izdaje odobrenje za obavljanje poslova platnog prometa ako utvrdi da štedno-kreditna zadruga ispunjava uvjete za obavljanje tog posla i dostavlja ga štedno-kreditnoj zadruzi i Ministarstvu financija.
+(4) Hrvatska narodna banka je dužna u roku od dva mjeseca od dana primitka zahtjeva u skladu sa stavkom 2. ovoga članka odlučiti o zahtjevu, odnosno donijeti odgovarajuću odluku i obavijestiti podnositelja zahtjeva o tome.
+(5) Ukoliko je zahtjev nepotpun, štedno-kreditna zadruga mora dopuniti zahtjev traženom dokumentacijom ili dodatnim podacima u roku koji odredi Hrvatska narodna banka. U tom se slučaju rok od dva mjeseca iz stavka 4. ove odluke računa od dana primitka dopunjenog zahtjeva.
+(6) Hrvatska narodna banka može od Ministarstva financija tražiti dostavu dokumentacije propisane člankom 12. točkom 7. Zakona o štedno-kreditnim zadrugama na temelju koje je moguće utvrditi postoje li tehnički i kadrovski uvjeti za obavljanje poslova utvrđenih statutom štedno-kreditne zadruge, a koja se odnosi na obavljanje poslova platnog prometa, i može tražiti mišljenje Ministarstva financija o dosadašnjem poslovanju štedno-kreditne zadruge.
+(7) U slučaju iz stavka 6. ovoga članka Hrvatska narodna banka dužna je odlučiti o podnesenom zahtjevu, odnosno donijeti odgovarajuću odluku i obavijestiti o tome podnositelja zahtjeva u roku koji ne može biti duži od šest mjeseci računajući od dana podnošenja zahtjeva.
