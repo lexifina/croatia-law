@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« broj 117/93., 69/97., 33/00., 73/00., 127/00., 59/01.) i članka 18. Statuta Općine Pićan (»Službene novine Općine Pićan«, broj 07/01.), Općinsko vijeće Općine Pićan na sjednici 21. prosinca 2001. godine, donijelo je
