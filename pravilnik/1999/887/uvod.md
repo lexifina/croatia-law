@@ -1,0 +1,1 @@
+Na temelju članka 12. stavak 10. Zakona o telekomunikacijama (»Narodne novine«, br. 53/94) ministar pomorstva, prometa i veza uz mišljenje Vijeća za telekomunikacije i suglasnost ministra financija, donosi
