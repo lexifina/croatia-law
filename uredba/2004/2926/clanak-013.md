@@ -1,0 +1,3 @@
+## 5. ODJEL ZA MEĐUNARODNU SURADNJU
+# Članak 13.
+Odjel za međunarodnu suradnju provodi i koordinira provođenje obveza koje je Republika Hrvatska preuzela prema međunarodnim konvencijama i bilateralnim sporazumima, a odnose se na nuklearnu sigurnost i primjenu mjera zaštite u svrhu neširenja nuklearnog oružja; koordinira poslove tehničke suradnje s Međunarodnom agencijom za atomsku energiju; surađuje s međunarodnim i domaćim organizacijama i društvima s područja nuklearne sigurnosti; surađuje u izradi uputa o provođenju međunarodnih preporuka i normi; surađuje u izradi nacrta prijedloga pravilnika i drugih akata radi provođenja zakona; obavlja i druge poslove iz svoje nadležnosti.

@@ -1,0 +1,2 @@
+# Članak 12.
+Odjel za inspekcijske poslove obavlja inspekcijski nadzor u svezi s nuklearnim materijalom i posebnom opremom, a posebno nadzire primjenu mjera sigurnosti i zaštite u zonama materijalne bilance i vođenje evidencije o nuklearnom materijalu kod korisnika nuklearnog materijala te vodi očevidnike o rješenjima koje izdaje u okviru svojih ovlasti; obavlja i druge poslove iz svoje nadležnosti.

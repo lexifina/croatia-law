@@ -1,0 +1,4 @@
+# Članak 7.
+Tehnički potporni centar priprema i provodi potrebne stručne i tehničke aktivnosti nacionalnog programa pripravnosti i djelovanja na području Republike Hrvatske u slučaju opasnosti od nuklearne nesreće iz nuklearnih postrojenja, osobito u susjednim zemljama.
+Tehnički potporni centar u slučaju nuklearne nesreće djeluje u cilju pružanja stručne pomoći ustrojstvu za krizna stanja u Republici Hrvatskoj, a osobito tijelu državne uprave koje provodi poslove vodeće organizacije u kriznim stanjima.
+Zadaci i obveze Tehničkog potpornog centra uključuju naročito: prikupljanje podataka i informacija o nuklearnoj nesreći, suradnju s odgovarajućim centrima drugih zemalja, analizu i procjenu potencijalnih posljedica nuklearne nesreće i pripremu temeljnih stručnih podloga za donošenje odluka o poduzimanju mjera zaštite i spašavanja stanovništva.
