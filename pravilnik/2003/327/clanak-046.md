@@ -1,0 +1,2 @@
+# Članak 46.
+Na dan stupanja na snagu ovog pravilnika prestaje važiti Pravilnik o uvjetima kojima moraju udovoljavati radne prostorije i oprema za pregled i žigosanje mjernih transformatora i radnici u određenim organizacijama u pogledu stručne spreme ako se stavljaju na raspolaganje organu kontrole pri pregledu i žigosanju transformatora (»Službeni list SFRJ« br. 12/81 i »Narodne novine«, br. 53/91).

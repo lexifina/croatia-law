@@ -1,0 +1,4 @@
+# Članak 6.
+Voditelj laboratorija iz članka 5. ovoga pravilnika mora imati VSS tehničkog smjera ili prirodoslovno-matematičkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjernih transformatora, ili VŠS tehničkog smjera i najmanje 2 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjernih transformatora, ili SSS tehničkog smjera i najmanje 3 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjernih transformatora, ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja, proizvodnje ili servisiranja mjernih transformatora.
+Drugi radnik iz članka 5. ovoga pravilnika mora imati najmanje KV tehničke struke i najmanje 2 godine radnog iskustva na poslovima ispitivanja mjernih transformatora.
+Radnici iz stavka 1. i 2. ovoga članka moraju poznavati propise kojima su utvrđeni postupci i metode ispitivanja mjernih transformatora.
