@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o novčanim naknadama vojnika i kadeta škola pričuvnih časnika za vrijeme služenja vojnog roka ("Narodne novine", broj 6/92) članak 6. mijenja se i glasi: "Vojnici i kadeti škole za pričuvne časnike, koji su tijekom neposredne ugroženosti neovisnosti i jedinstvenosti Republike, angažirani na izvršavanju borbenih zadaća, za to vrijeme ostvaruju pravo na novčanu naknadu u iznosu osnovne plaće, odnosno naknade propisane za vojnike u djelatnom i pričuvnom sastavu HV".
