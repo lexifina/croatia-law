@@ -1,0 +1,1 @@
+Sukladno odredbi članka 18., u svezi s člankom 17. stavak 2. Pravilnika o osiguranju štednih uloga ("Narodne novine" 65/97) (u daljnjem tekstu Pravilnik) Direktor Državne agencije za osiguranje štednih uloga i sanaciju banaka donosi slijedeću
