@@ -1,0 +1,4 @@
+# Članak 8.
+Ugovorna zdravstvena ustanova i ugovorni privatni zdravstveni djelatnik pružaju zdravstvene usluge osiguranim osobama iz država s kojima Republika Hrvatska ima sklopljen ugovor o socijalnom osiguranju, kao i osobama kojima je priznat status izbjeglice prema zakonu, odnosno međudržavnom sporazumu.
+Osigurane osobe iz stavke 1. ovog članka koje koriste zdravstvenu zaštitu na osnovi međunarodnih ugovora o socijalnom osiguranju, a imaju prebivalište u Republici Hrvatskoj, zdravstvenu zaštitu na svim razinama koriste na način i u opsegu predviđenom za osigurane osobe Zavoda.
+Osigurane osobe iz stavke 1. ovog članka, koje koriste zdravstvenu zaštitu na osnovi međunarodnih ugovora o socijalnom osiguranju, a privremeno borave u Republici Hrvatskoj, zdravstvenu zaštitu na svim razinama koriste u okviru zbrinjavanja hitnog medicinskog stanja (hitna medicinska pomoć) uz pravo korištenja lijekova na recept u svezi tog stanja.

@@ -1,0 +1,2 @@
+# Članak 2.
+Način i uvjeti prema kojima Hrvatski zavod za zdravstveno osiguranje (u daljnjem tekstu: Zavod) sklapa ugovore za provođenje zdravstvene zaštite sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima, utvrđuju se sukladno Pravilniku o standardima i normativima prava iz obveznog zdravstvenog osiguranja za razdoblje od 1. siječnja do 31. ožujka 2000. godine (u daljnjem tekstu: Pravilnik) i drugim općim aktima Zavoda.

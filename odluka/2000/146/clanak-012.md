@@ -1,0 +1,3 @@
+# Članak 12.
+Osnovu za sklapanje ugovora o provođenju primarne zdravstvene zaštite iz djelatnosti opće medicine, zdravstvene zaštite predškolske djece, zdravstvene zaštite žena i stomatološke zdravstvene zaštite, čini broj osiguranih osoba usklađen s bazom podataka Zavoda, koje su se opredijelile za pojedinog doktora medicine, odnosno doktora stomatologije.
+Zavod će mjesečno obavljati usklađenje broja osiguranih osoba po pojedinim timovima primarne zdravstvene zaštite na način da će se ugovoreni broj osiguranih osoba sukladno utvrđenoj promjeni vrednovati od prvog dana u mjesecu kada je provjerom utvrđena promjena.

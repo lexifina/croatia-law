@@ -1,0 +1,2 @@
+# Članak 34.
+Na osnovi sklopljenog ugovora sa Zavodom, ugovorne zdravstvene ustanove, odnosno ugovorni privatni zdravstveni djelatnici iznimno će za pruženu zdravstvenu uslugu na svim razinama zdravstvene djelatnosti u svezi primjene članka 51. Zakona o zdravstvenom osiguranju ispostavljati Zavodu pojedinačne račune primjenom cijene utvrđene sukladno odredbama članka 28., odnosno 32. ove Odluke, a radi provedbe postupka povrata sredstava Zavodu.

@@ -1,0 +1,3 @@
+# Članak 18.
+Osnove i uvjeti za sklapanje ugovora o provođenju primarne zdravstvene zaštite u patronažnoj zdravstvenoj skrbi, laboratorijskoj dijagnostici i hitnoj medicinskoj pomoći utvrđeni su Pravilnikom.
+U standard utvrđen Pravilnikom iz stavke 1. ovog članka uključen je broj osiguranih osoba evidentiran u bazi podataka Zavoda na području mjerodavnog doma zdravlja (uključivo i osigurane osobe u timovima ugovornih doktora privatne prakse na razini primarne zdravstvene zaštite), odnosno mjerodavnog Zavoda za javno zdravstvo županije, odnosno Grada Zagreba i pri doktoru medicine na razini primarne zdravstvene zaštite u privatnoj praksi koji gravitiraju toj zdravstvenoj ustanovi.
