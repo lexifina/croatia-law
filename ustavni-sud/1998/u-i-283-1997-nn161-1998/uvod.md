@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Suda Jadranko Crnić, predsjednik suda te suci Zdravko Bartovčak, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, na sjednici održanoj dana 16. prosinca 1998. godine, donio je sljedeću
