@@ -1,0 +1,5 @@
+# Članak 8.
+Za osnivanje i početak rada Zavoda osigurana su sredstva u Državnom proračunu Republike Hrvatske za 2001. godinu, na poziciji Ministarstva.
+Sredstva za poslovanje i rad Zavod pribavlja obavljanjem vlastite djelatnosti i iz državnog proračuna.
+Sredstva iz državnog proračuna doznačivat će Ministarstvo isključivo na temelju odobrenog programa, a temeljem ugovora za svaki program.
+Zavod može stjecati sredstva i iz drugih izvora, donacijama, sponzorstvom i na drugi način, sukladno propisima i aktima Zavoda.
