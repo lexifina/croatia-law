@@ -1,0 +1,1 @@
+Na temelju članka 187.a stavak 4. Zakona o radu (»Narodne novine«, br. 38/95, 54/95, 65/95, 17/01, 82/01, 114/03 i 142/03) Gospodarsko-socijalno vijeće je na 48. izvanrednoj sjednici, održanoj 20. studenoga 2003. godine donijelo

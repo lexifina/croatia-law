@@ -1,0 +1,8 @@
+## Raspisivanje referenduma
+# Članak 8.
+(1) Odbor za referendum donosi na svojoj prvoj sjednici odluku o raspisivanju referenduma, kojom određuje razlog održavanja referenduma (članak 1. ovog Pravilnika) i dan glasovanja na referendumu, te druge odluke po potrebi.
+(2) Ako se referendum provodi kod dva ili više poslodavaca odbor za referendum je dužan odluku o raspisivanju referenduma dostaviti svakom od poslodavaca kod kojeg će se glasovati i predsjednicima svih sindikata koji su sklopili kolektivni ugovor kojim je predviđena mogućnost plaćanja doprinosa solidarnosti.
+(3) Ako se referendum provodi u državnim tijelima, u javnim službama ili kod poslodavaca koji su preko 50% u vlasništvu Republike Hrvatske, odluka o raspisivanju referenduma se ne dostavlja, nego se objavljuje u »Narodnim novinama«.
+(4) Odluka o raspisivanju referenduma se ne dostavlja, već se objavljuje u službenom glasilu jedinice lokalne i područne (regionalne) samouprave, ako se referendum provodi u tijelima tih jedinica ili kod poslodavaca koji su preko 50% u vlasništvu tih jedinica.
+(5) Ovlaštena osoba poslodavca (članak 125. stavci 1. i 2. Zakona o radu) je dužna, a ovlaštena osoba sindikata koji je sklopio kolektivni ugovor ima pravo imenovati predstavnika i zamjenika predstavnika u odgovarajući pododbor za referendum u roku od sedam radnih dana od dana dostavljanja, odnosno objavljivanja odluke o raspisivanju referenduma.
+(6) Kada se provodi referendum koji obvezuje dva ili više poslodavca, stranka kolektivnog ugovora na strani poslodavca, dužna je odboru za referendum dostaviti popis svih poslodavaca kod kojih se referendum provodi.
