@@ -1,0 +1,1 @@
+Na temelju članka 21. stavak 3. Zakona o građenju ("Narodne novine", broj 77/92, 82/92 i 26/93) i članka 91. Zakona o upravi ("Narodne novine", broj 16/78, 29/85, 41/90, 47/90 i 53A/91), Ministar graditeljstva i zaštite okoliša donosi
