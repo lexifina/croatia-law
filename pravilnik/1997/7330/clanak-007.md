@@ -1,0 +1,4 @@
+## V. GRANICE DOPUŠTENE POGREŠKE
+# Članak 7.
+Točnost mjerenja analizatora plinova utvrđuje se održavanjem rezultata mjerenja u granicama dopuštene pogreške (GDP) utvrđene u tablici 2.
+Tablica 2: Granice dopuštene pogreške Redni Analizator Granice dopuštene pogreške broj plina za ugljični za ugljični dioksid za ugljikovodike za kisik monoksid (CO) (CO2) (HC) (O2) 1. Razred ±0,06% vol. ili ±0,5% vol. ili ±12 ppm vol. ili ±0,1% vol. ili točnosti I ±5% relativno ±5% relativno od ±5% relativno od ±5% relativno od izmjerene izmjerene izmjerene od izmjerene vrijednosti vrijednosti vrijednosti vrijednosti 2. Razred ±0,2% vol. ili ±1,0% vol. ili ±30 ppm vol. ili ±0,2% vol. ili točnosti II ±10% relativno ±10% relativno od ±10% relativno ±10% relativno od izmjerene izmjerene od izmjerene od izmjerene vrijednosti vrijednosti vrijednosti vrijednosti Granica dopuštene pogreške pri izračunava-nju faktora zraka (l faktor) iznosi +3%.
