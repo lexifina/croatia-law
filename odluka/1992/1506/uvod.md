@@ -1,0 +1,1 @@
+Na temelju članka 3. stavak 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 41/90, 8/91, 14/91, 53A/91 i 9/92. u svezi sa člankom 1. Uredbe o preuzimanju sredstava JNA i SSNO na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske ("Narodne novine", broj 52/91), Vlada Republike Hrvatske na sjednici održanoj 17. rujna 1992. godine, donijela je
