@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", broj 53/90). a u svezi zahtjeva Poljoprivrednog kombinata "Đuro Salaj" iz Valpova, Vlada Republike Hrvatske na sjednici održanoj 19. lipnja 1981. donijela je
