@@ -1,0 +1,3 @@
+# Članak 7.
+U proračunu za 2002. godinu, korisnici potpora izravnanja planiraju rashode za decentralizirane funkcije za 2002. godinu po ekonomskoj i funkcijskoj klasifikaciji do iznosa utvrđenog u Pregledu.
+Korisnici potpora izravnanja planiraju prihode za decentralizirane funkcije prema procjeni prihoda koje će u 2002. godini ostvariti temeljem svakog pojedinog dodatnog udjela poreza na dohodak iz članka 3. ove Uredbe, za razliku prihoda do svote iz stavka 1. ovog članka planiraju iz sredstava potpora izravnanja za decentralizirane funkcije iz Državnog proračuna Republike Hrvatske za 2002. godinu, sa računa 36311 - Rashodi za potpore izravnanja za decentralizirane funkcije.

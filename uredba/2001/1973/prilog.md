@@ -1,0 +1,426 @@
+Tablica 0
+ZBIRNI PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE ZA 2002. GODINU PO ŽUPANIJAMA (21) I GRADOVIMA (32)
+u kunama
+ŽUPANIJA
+ŠKOLSTVO
+SOCIJALNA SKRB
+ZDRAVSTVO
+OSNOVNO
+ŠKOLSTVO
+SREDNJE
+ŠKOLSTVO
+CENTRI ZA
+SOCIJALNU
+SKRB
+DOMOVI ZA
+STARIJE I
+NEMOĆNE
+ZDRAVSTVENE
+USTANOVE
+OBVEZE ZA
+DECENTRALIZI-
+RANE FUNKCIJE
+(obveza županija i
+(gradova)
+1
+2
+3
+4
+5
+6
+(2+3+4+5+6+7)
+ZAGREBAČKA
+41.962.426
+9.792.666
+3.692.728
+0
+18.450.000
+73.897.820
+KRAPINSKO-ZAGORSKA
+19.804.999
+10.443.388
+2.268.064
+0
+14.000.000
+46.516.451
+SISAČKO-MOSLAVAČKA
+25.273.470
+13.015.103
+5.547.928
+5.623.288
+18.250.000
+67.709.789
+KARLOVAČKA
+19.227.487
+9.947.208
+4.243.752
+3.224.448
+13.000.000
+49.642.896
+VARAŽDINSKA
+24.401.562
+11.888.312
+2.882.356
+2.441.884
+17.000.000
+58.614.114
+KOPRIVNIČKO-KRIŽEVAČKA
+17.146.428
+7.735.513
+1.852.240
+4.583.053
+10.700.000
+42.017.234
+BJELOVARSKO-BILOGORSKA
+18.764.139
+9.684.009
+2.931.790
+1.945.073
+12.000.000
+45.325.010
+PRIMORSKO-GORANSKA
+32.875.954
+22.716.463
+3.918.186
+13.972.312
+27.870.025
+101.352.940
+LIČKO-SENJSKA
+8.635.413
+4.288.463
+1.265.700
+4.842.303
+6.439.592
+25.471.470
+VIROVITIČKO-PODRAVSKA
+13.656.121
+5.904.467
+2.163.292
+0
+8.500.000
+30.223.880
+POŽEŠKO-SLAVONSKA
+12.367.167
+5.987.650
+1.688.676
+4.243.102
+7.150.000
+31.436.595
+BRODSKO-POSAVSKA
+24.616.822
+11.677.120
+4.255.980
+3.148.466
+14.900.000
+58.598.389
+ZADARSKA
+20.256.451
+11.645.977
+2.931.924
+6.972.657
+15.500.000
+57.307.010
+OSJEČKO-BARANJSKA
+43.647.921
+22.683.280
+7.576.952
+7.545.063
+25.218.525
+106.671.741
+ŠIBENSKO-KNINSKA
+13.906.276
+6.788.735
+5.595.132
+4.513.399
+13.179.181
+43.982.723
+VUKOVARSKO-SRIJEMSKA
+26.823.816
+12.132.664
+3.504.884
+5.022.619
+16.000.000
+63.483.983
+SPLITSKO-DALMATINSKA
+55.981.971
+31.945.327
+6.914.094
+14.039.712
+34.459.266
+143.340.370
+ISTARSKA
+30.697.565
+14.643.142
+2.221.352
+11.783.532
+18.500.000
+77.845.591
+DUBROVAČKO-NERETVANSKA
+17.731.813
+9.915.738
+1.885.624
+9.545.390
+14.779.181
+53.857.746
+MEĐIMURSKA
+15.136.636
+6.716.625
+1.853.448
+2.715.123
+9.901.000
+36.322.832
+GRAD ZAGREB
+82.885.562
+56.348.151
+11.929.280
+58.149.502
+68.802.184
+278.114.679
+UKUPNO
+565.799.999
+295.900.000
+81.123.382
+164.310.926
+384.598.954
+1.491.733.261
+PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE ZA OSNOVNO ŠKOLSTVO PO ŽUPANIJAMA U 2002. GOD.
+Tablica 1.ž.
+Žup.
+Nositelj financiranja
+Sveukupno
+br.
+- županije
+0
+1
+2
+1
+ZAGREBAČKA
+23.664.662
+2
+KRAPINSKO-ZAGORSKA
+18.280.011
+3
+SISAČKO-MOSLAVAČKA
+15.827.555
+4
+KARLOVAČKA
+12.572.788
+5
+VARAŽDINSKA
+19.358.298
+6
+KOPRIVNIČKO-KRIŽEVAČKA
+13.255.698
+7
+BJELOVARSKO-BILOGORSKA
+14.185.730
+8
+PRIMORSKO-GORANSKA
+17.589.531
+9
+LIČKO-SENJSKA
+7.129.082
+10
+VIROVITIČKO-PODRAVSKA
+10.661.086
+11
+POŽEŠKO-SLAVONSKA
+9.156.730
+12
+BRODSKO-POSAVSKA
+16.001.856
+13
+ZADARSKA
+12.877.083
+14
+OSJEČKO-BARANJSKA
+32.484.979
+15
+ŠIBENSKO-KNINSKA
+8.152.944
+16
+VUKOVARSKO-SRIJEMSKA
+22.897.331
+17
+SPLITSKO-DALMATINSKA
+40.043.019
+18
+ISTARSKA
+11.498.111
+19
+DUBROVAČKO-NERETVANSKA
+12.560.398
+20
+MEĐIMURSKA
+11.672.611
+21
+GRAD ZAGREB
+92.885.562
+UKUPNO RH
+412.755.064
+PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE ZA OSNOVNO ŠKOLSTVO PO GRADOVIMA U 2002. GOD.
+Tablica 1.g.
+Red.
+Nositelj financiranja
+Sveukupno
+br.
+- gradovi
+0
+1
+2
+1
+VELIKA GORICA
+8.333.510
+2
+SAMOBOR
+4.013.041
+3
+VRBOVEC
+3.018.220
+4
+ZAPREŠIĆ
+2.932.992
+5
+KRAPINA
+1.524.988
+6
+SISAK
+6.090.477
+7
+KUTINA
+3.355.438
+8
+KARLOVAC
+6.654.699
+9
+VARAŽDIN
+5.043.264
+10
+KOPRIVNICA
+3.890.730
+11
+BJELOVAR
+4.578.408
+12
+RIJEKA
+13.361.938
+13
+CRIKVENICA
+1.104.928
+14
+OPATIJA
+819.556
+15
+GOSPIĆ
+1.506.330
+16
+VIROVITICA
+2.995.035
+17
+POŽEGA
+3.210.437
+18
+SLAVONSKI BROD
+8.614.967
+19
+ZADAR
+7.379.368
+20
+OSIJEK
+11.162.942
+21
+ŠIBENIK
+5.753.332
+22
+VINKOVCI
+3.926.485
+23
+MAKARSKA
+1.487.043
+24
+SPLIT
+14.451.910
+25
+PULA
+6.592.966
+26
+LABIN
+1.819.002
+27
+PAZIN
+3.697.566
+28
+POREČ
+3.061.257
+29
+ROVINJ
+1.809.990
+30
+UMAG
+2.218.672
+31
+DUBROVNIK
+5.171.415
+32
+ČAKOVEC
+3.464.026
+UKUPNO GRADOVI
+153.044.935
+Obrazac OP1
+REPUBLIKA HRVATSKA
+----------------------------------------
+(korisnik potpore izravnanja)
+----------------------------------------
+(datum)
+ZAHTJEV ZA PLAĆANJE POTPORE IZRAVNANJA ZA DECENTRALIZIRANE
+FUNKCIJE broj --------
+Na temelju Uredbe o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2002. godinu (»Narodne novine«, br. 118/01), platite u korist našeg žiroračuna broj: -----------
+-------------------------- kn
+slovima: ---------------------------------------------------------------------------------------------------
+na teret Državnog proračuna račun 36311 - Rashodi za potpore izravnanja za decentralizirane funkcije, razrađeno po funkcijama:
+funkcije
+namjena
+ukupna obveza
+I-XII 2002.
+mjesečna obveza
+(2/12 mjeseci)
+ostv. iznosa poreza
+iz dodatnog udjela
+potpora izravnanja
+(3-4)
+0
+1
+2
+3
+4
+5
+1.OSNOVNO
+tekući rashodi
+ŠKOLSTVO
+kapitalni rashodi
+ukupno (1)
+2.SREDNJE
+tekući rashodi
+ŠKOLSTVO
+kapitalni rashodi
+ukupno (2)
+3a.SOCIJALNA SKRB
+materijalni rash.
+Centri za socijalnu skrb
+ogrjev
+3b.SOCIJALNI SKRB
+ukupni rashodi
+*
+Domovi za starije i
+hitne intervencije
+nemoćne
+ukupno (3a+3b)
+4.ZDRAVSTVO
+ukupno (4)
+SVEUKUPNO
+1+2+(3a+3b)+4
+* ukupna obveza Domova za starije i nemoćne osobe za ukupne rashode izračunava se oduzimanjem rashoda utvrđenih Uredbom o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2002. godinu, od vlastitih prihoda Domova za starije i nemoćne osobe prema čl. 34. st. 3. Zakona o izmjenama i dopunama Zakona o socijalnoj skrbi (»Narodne novine«, br. 59/01)
+Kontrolor isplate: -----------------------------------------
+(ime i prezime kontrolora i njegov potpis) M. P.
+Ovjerovitelj isplate: ---------------------------------------
+(ime i prezime ovjerovitelja i njegov potpis)
