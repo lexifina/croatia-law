@@ -1,0 +1,1 @@
+Na temelju članka 75. Zakona o Narodnoj banci Hrvatske ("Narodne novine" br. 74/92, 26/93 i 79/93.) i točke 10. stavak 2. Odluke o utvrđivanju pojedinih oblika kapitala banaka i štedionica ("Narodne novine" broj 107/93.) donosim
