@@ -1,0 +1,3 @@
+## o izmjenama i dopunama Pravilnika o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja
+# Članak 1.
+U Pravilniku o pravima, uvjetima i postupku za ostvarivanje prava iz zdravstvenog osiguranja ("Narodne novine". broj 55/90) u članku 44. dodaju se dva nova stavka, koja glase: "Naknada troškova prijevoza pripada i za prijevoz posmrtnih ostataka osiguranika iz stavka 1. ovog članka, kod kojih je smrt nastupila za vrijeme ostvarivanja prava iz ovog pravilnika. Pravo na naknadu iz stavka 3. ovog članka pripada pravnoj ili fizičkoj osobi, koja je o svome trošku izvršila prijevoz, i to u visini stvarnih troškova tog prijevoza".
