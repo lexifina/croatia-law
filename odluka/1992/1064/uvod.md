@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 3. Zakona o izboru predsjednika Republike Hrvatske ("Narodne novine", broj 22/92) i članka 21. stavka 3. Zakona o izboru zastupnika u Sabor Republike Hrvatske ("Narodne novine", broj 22/92), Vlada Republike Hrvatske na sjednici održanoj 1. srpnja 1992. godine, donijela je
