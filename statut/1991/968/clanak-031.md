@@ -1,0 +1,2 @@
+# Članak 31.
+Ako se poduzeće pretvara u dioničko društvo ili društvo s ograničenom odgovornošću i prenese dionice na Fond, u dijelu koji je utvrđen Zakonom, pored mogućnosti da se ugovorom preuzme obveza da Fond u prodaji dionica prednost daje zaposlenim radnicima u tom društvu, Fond može, uz suglasnost Agencije, vođenje poslova takvoga društva povjeriti domaćoj ili stranoj fizičkoj ili pravnoj osobi, odnosno javnom licitacijom ili prikupljanjem ponuda, dati u zakup.

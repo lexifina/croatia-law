@@ -1,0 +1,6 @@
+# Članak 32.
+U slučaju likvidacije ili stečaja poduzeća, ostatak stečajne ili likvidacijske mase prenosi se Fondu.
+Prijenos se obavlja po obavijesti stečajnog suda.
+Fond može zatražiti od stečajnog suda da, uz obavijest o prijenosu ostatka stečajne ili likvidacijske mase, dostavi Fondu, osim podataka o onome što se prenosi Fondu, i podatke o tehničko-tehnološkim kapacitetima, dokaze o pravu korištenja nekretnina, eventualne ponude prikupljene u toku stečajnog postupka od zainteresiranih privatnih ili pravnih osoba, prikupljene u tijeku stečajnog postupka, razvojni program poduzeća i ostale podatke kojima raspolaže stečajni upravitelj ili stečajni sud, a koji bi mogli koristiti Fondu u iznalaženju odgovarajućeg rješenja, bilo u smislu ostvarenja pozitivno ocijenjenog programa Agencije, na području na kojem je bilo sjedište poduzeća što je prestalo postojati, bilo omogućavanja osnivanja dioničkog društva ili društva s ograničenom odgovornošćuna odgovarajućem proizvodnom programu.
+Samo preuzimanje ostatka stečajne ili likvidacijske mase događa se između Fonda i stečajnog upravitelja neposrednim uvidom u ostatak mase koja se prenosi.
+Troškovi čuvanja preuzete imovine do realizacije jednog od predviđenih oblika ustrojstva tog ostatka mase, podmirit će se iz sredstava ostvarenih po tom programu.

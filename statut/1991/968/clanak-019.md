@@ -1,0 +1,4 @@
+# Članak 19.
+Programi iz članka 17. ovoga Statuta, moraju biti izrađeni prema Zajedničkoj metodologiji za ocjenjivanje društvene i ekonomske opravdanosti investicije, i efikasnosti investiranja u SFRJ ("Službeni list SFRJ", br. 50/87) i ispunjavati kriterije iz zajedničke metodologije.
+Prednost u sufinanciranju programa sredstvima Fonda imat će programi koji osiguravaju: veću slopu dobiti, veći neto devizni priljev, veće sudioništvo suulagača, veći broj novih produktivnih radnih mjesta, veče smanjenje potrošnje sirovina i energije po jedinici proizvoda, doprinose bržem razvoju privredno nedovoljno razvijenih krajeva i krajeva sa specifičnim razvojnim problemima, a koji su definirani u razvojnim dokumentima Republike, te doprinose zaštiti čovjekove okoline.
+U svezi s programima iz članka 17, 18. i 19. ovoga Statuta, Fond će posebnim aktom preciznije razraditi i definirati uvjete i način korištenja sredstava.

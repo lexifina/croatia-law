@@ -1,0 +1,1 @@
+Na osnovi članka 12. Zakona o Hrvatskom fondu za razvoj ("Narodne novine", br. 18/90, 42/90 i 19/91), Upravni odbor Hrvatskoga fonda za razvoj, na sjednici održanoj 5. lipnja 1991. godine uz suglasnost Vlade Republike Hrvatske, 14. lipnja 1991. godine donosi
