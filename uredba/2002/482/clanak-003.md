@@ -1,0 +1,9 @@
+# Članak 3.
+Ured državne uprave obavlja upravne i druge stručne poslove koji se odnose na:
+- gospodarstvo (industrija, brodogradnja, energetika, rudarstvo, trgovina, obrtništvo, vodno gospodarstvo, ribarstvo, pomorstvo, promet i veze, turizam, poljoprivreda i šumarstvo, lovstvo te poljoprivredna inspekcija, inspekcija zaštite bilja, inspekcija bilinogojstva i vodopravna inspekcija)
+- društvene djelatnosti (prosvjeta, kultura, informiranje, šport i tehnička kultura, briga o djeci i tjelesna kultura, radni odnosi, tržište rada i odnosi sa sindikatima, zdravstvena zaštita, zdravstveno osiguranje, socijalna skrb, sanitarna inspekcija, zaštita civilnih žrtava iz Domovinskog rata, zaštita hrvatskih državljana sudionika II. svjetskog rata, zaštita vojnih i civilnih invalida II. svjetskog rata i zaštita osoba stradalih u obavljanju obvezne vojne službe od 15. 5. 1945., te članova njihovih obitelji, zaštita prava i rješavanje o statusu člana obitelji poginuloga, zatočenoga ili nestaloga hrvatskoga branitelja iz Domovinskog rata, hrvatskih ratnih vojnih invalida iz Domovinskog rata i članova njihovih obitelji te hrvatskih branitelja kao i suradnja u poslovima u svezi s ekshumacijom i sahranom posmrtnih ostataka žrtava rata
+- prostorno uređenje i graditeljstvo (graditeljstvo, zaštita okoliša, prostorno uređenje obnova ratom razrušenih objekata)
+- imovinsko pravne poslove (poslovi u svezi izvlaštenja i drugih ograničenja vlasništva, uređivanje vlasničko-pravnih odnosa i denacionalizacija)
+- opću upravu (osobna stanja građana i poslovi matičarstva, udruge, popisi birača, evidencije o hrvatskom državljanstvu
+- nadzor nad zakonitošću općih akata predstavničkih tijela jedinica lokalne samouprave i jedinica područne (regionalne) samouprave te - statistiku.
+U uredu državne uprave obavljaju se i opći, kadrovski, informatički, planski, materijalno-financijski, računovodstveni, administrativni i pomoćno-tehnički poslovi za potrebe ureda državne uprave.

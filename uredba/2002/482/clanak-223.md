@@ -1,0 +1,2 @@
+# Članak 223.
+Danom stupanja na snagu ove Uredbe, uredi državne uprave preuzimaju opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze područnih jedinica Ministarstva hrvatskih branitelja iz Domovinskog rata, čije su poslove preuzeli te nastavljaju s radom na preuzetim poslovima u dosadašnjim poslovnim prostorima područnih jedinica Ministarstva hrvatskih branitelja iz Domovinskog rata.

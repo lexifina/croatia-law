@@ -1,0 +1,2 @@
+# Članak 27.
+Služba za zajedničke poslove obavlja stručne poslove za potrebe predstojnika i zamjenika predstojnika, nadzor nad zakonitošću općih akata predstavničkih tijela jedinica lokalne samouprave i jedinica područne (regionalne) samouprave te opće, kadrovske, informatičke, planske, materijalno-financijske, računovodstvene, administrativne i pomoćno-tehničke poslove za potrebe Ureda državne uprave.
