@@ -1,0 +1,2 @@
+# Članak 1.
+Ugovorne će stranke u duhu prijateljske suradnje i na osnovi obostranog uvažavanja suvereniteta i neovisnosti, međusobnog nemiješanja u unutarnje stvari, ravnopravnosti i obostrane koristi, putem razmjene znanstvenih i tehnoloških dostignuća razviti znanstvena istraživanja i modele kao i znanstvenu i tehnološku suradnju između dviju zemalja radi gospodarskog razvitka, uvažavajući važnost integracije znanstvene i tehnološke suradnje s gospodarstvom i trgovinskom suradnjom.
