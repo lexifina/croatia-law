@@ -1,0 +1,1 @@
+Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvats
