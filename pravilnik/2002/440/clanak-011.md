@@ -1,0 +1,2 @@
+# Članak 11.
+Rješenje o priznavanju prava na besplatne udžbenike izvršava se na način da se sredstva za kupnju udžbenika uplaćuju na tekući račun ili štednu knjižicu osobe koja je stekla pravo na besplatne obvezatne udžbenike, odnosno na tekući račun ili štednu knjižicu korisnika prava na osobnu odnosno obiteljsku invalidninu, a za djecu razvedenih roditelja, na tekući račun odnosno štednu knjižicu roditelja kojem je dijete povjereno na uzdržavanje, odnosno s kojim živi u zajedničkom kućanstvu.
