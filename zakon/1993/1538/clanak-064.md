@@ -1,0 +1,3 @@
+# Članak 64.
+Ministarstva i državne upravne organizacije provode upravni nadzor nad radom ureda državne uprave u jedinicama područne (regionalne) samouprave i poduzimaju odgovarajuće mjere, a osobito pokreću postupak za utvrđivanje odgovornosti državnih službenika te neposredno izvršavaju poslove iz nadležnosti ureda državne uprave u jedinici područne (regionalne) samouprave kad ocijene da se na drugi način ne može izvršiti zakon ili drugi propis, a ured državne uprave u jedinici područne (regionalne) samouprave nije postupio sukladno prethodno datim napucima, u za to ostavljenom mu primjerenom roku.
+3. Odnosi tijela državne uprave prema jedinicama lokalne i područne (regionalne) samouprave, odnosno pravnim osobama koje imaju javne ovlasti

@@ -1,5 +1,5 @@
 # Članak 42.
-Ministar može imati i jednog ili više pomoćnika. Pomoćnika ministra imenuje i razrješava Vlada, na prijedlog ministra, osim u državnim ministarstvima, u kojima pomoćnike ministra imenuje i razrješava predsjednik Republike, na prijedlog ministra državnog ministarstva.
-Pomoćnik ministra u pravilu upravlja radom odgovarajuće unutarnje ustrojstvene jedinice ministarstva te obavlja i druge poslove koje mu povjeri ministar.
-Pomoćnik ministra odgovoran je za svoj rad ministru i Vladi.
-e) Upravne organizecije u sastavu ministarstva
+Upravne organizacije u sastavu ministarstava osnivaju se u pravilu kao:
+1. uprave, kad se ustrojavaju za upravno područje iz djelokruga ministarstva, u kojem se obavljaju pretežito upravni poslovi, s određenim stupnjem samostalnosti u radu,
+2. zavodi, kad se ustrojavaju za upravno područje iz djelokruga ministarstva, u kojem se obavljaju pretežito stručno-analitički poslovi koji zahtijevaju posebne načine rada unutar ministarstva. Zavodima se izuzetno mogu povjeriti i određeni upravni poslovi, ako to zahtijeva povezanost stručnih i upravnih poslova,
+3. ravnateljstva, kad se ustrojavaju za upravno područje iz djelokruga ministarstva, u kojem se obavljaju određeni gospodarski i s njima vezani upravni poslovi, kad obavljanje tih poslova zahtijeva posebno ustrojenu službu, samostalnost djelovanja i posebne načine rada unutar ministarstva.

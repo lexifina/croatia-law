@@ -1,12 +1,8 @@
 # Članak 38.
-Ministarstva objavljuju upravne i druge stručne poslove iz svog djelokruga, a osobito:
-1. neposredno primjenjuju zakone i druge propise,
-2. osiguravaju provedbu zakona i drugih propisa,
-3. pripremaju nacrte prijedloga zakona i prijedloge drugih propisa,
-4. rješavaju u upravnim stvarima u prvom stupnju kad su na to zakonom izrijekom ovlašteni te u drugom stupnju, ako zakonom nije što drugo određeno.
-5. provode upravni, odnosno inspekcijski nadzor,
-6. vode propisane očevidnike,
-7. prate stanje u svom djelokrugu te nadležnim državnim tijelima predlažu poduzimanje odgovarajućih mjera,
-8. izrađuju stručne podloge za postupak odlučivanja u državnim tijelima,
-9. osiguravaju suradnju stručnih i znanstvenih ustanova te predlažu nadležnim državnim tijelima ustrojavanje odredenih službi i stručnih ustanova.
-a) Ministar
+Ministar predstavlja ministarstvo i upravlja njegovim radom, a osobito:
+1. provodi utvrđenu politiku Vlade,
+2. donosi provedbene propise kad je na to izrijekom zakonom ovlašten,
+3. brine o zakonitom i pravodobnom izvršavanju zakona i drugih propisa te u pitanjima od zajedničkog interesa osigurava suradnju ministarstva s državnim tijelima, jedinicama lokalne i područne (regionalne) samouprave, pravnim osobama koje imaju javne ovlasti te drugim pravnim osobama,
+4. prema državnim službenicima i namještenicima poduzima mjere utvrđene zakonom i drugim propisima u slučaju povrede službene dužnosti.
+Ministar ima i druge obveze i ovlasti utvrđene posebnim zakonom, odnosno drugim propisima.
+b) Zamjenik ministra

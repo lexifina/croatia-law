@@ -1,3 +1,4 @@
 # Članak 36.
-Državna ministarstva se ustrojavaju za obavljanje poslova državne uprave u upravnim područjima u kojim poslove državne uprave obavljaju isključivo ministarstva.
-2. Ministarstva
+Ministarstva se ustrojavaju za obavljanje poslova državne uprave u jednom ili više upravnih područja.
+U ministarstvima koja su ustrojena za više upravnih područja u pravilu se ustrojavaju upravne organizacije u sastavu ministarstva.
+Upravne organizacije u sastavu ministarstva su uprave, zavodi i ravnateljstva.

@@ -1,5 +1,12 @@
 # Članak 45.
-Državne upravne organizacije osnivaju se u pravilu kao državne uprave, zavodi i ravnateljstva.
-Državne uprave se ustrojavaju za obavljanje određenih upravnih i drugih stručnih poslova koji zahtijevaju posebno ustrojenu samostalnu upravnu službu.
-Državni zavodi se ustrojavaju za obavljanje analitičkih i drugih stručnih poslova koji zahtijevaju primjenu posebnih stručnih načina rada i posebnu samostalnost u djelovanju. Državnim zavodima se izuzetno mogu povjeriti i određeni upravni poslovi, ako to zahtijeva povezanost stručnih i upravnih poslova.
-Državna ravnateljstva se ustrojavaju za obavljanje određenih gospodarskih poslova, kad obavljanje tih poslova zahtijeva posebno ustrojenu službu, samostalnost djelovanja i posebne načine rada.
+Državne upravne organizacije obavljaju upravne, stručne i druge poslove, iz svog djelokruga, a osobito:
+1. proučavaju i istražuju određena pitanja koja zahtijevaju primjenu posebnih načina rada, a koje je nužno obavljati u okviru državne uprave,
+2. vode propisane očevidnike,
+3. rješavaju u upravnim stvarima kad su na to izrijekom zakonom ovlašteni,
+4. provode upravni, odnosno inspekcijski nadzor,
+5. pripremaju nacrte zakona i prijedloge drugih propisa,
+6. pripremaju stručne podloge za postupak odlučivanja u državnim tijelima,
+7. ostvaruju suradnju s tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave te drugim pravnim osobama,
+8. ostvaruju međunarodnu suradnju,
+9. prikupljaju, sređuju i razlučuju podatke od interesa za djelatnost za koju su ustrojeni,
+10. obavljaju i druge poslove utvrđene zakonom i drugim propisima.

@@ -1,4 +1,5 @@
 # Članak 51.
-Podžupani, odnosno zamjenici gradonačelnika Grada Zagreba zamjenjuju župana, odnosno gradonačelnika i obavljaju druge poslove državne uprave koje im povjere župan, odnosno gradonačelnik.
-Povjeravanjem poslova državne uprave podžupanima, odnosno zamjenicima gradonačelnika ne prestaje odgovornost župana, odnosno gradonačelnika Grada Zagreba za njihovo obavljanje.
-3. Županijski i gradski uredi i ispostave
+Radom ureda državne uprave u jedinici područne (regionalne) samouprave upravlja predstojnik.
+Predstojnik ureda državne uprave u jedinici područne (regionalne) samouprave je čelnik tog ureda.
+Predstojnika ureda državne uprave u jedinici područne (regionalne) samouprave imenuje i razrješuje Vlada na prijedlog ministra nadležnog za poslove opće uprave na temelju prethodno provedenoga javnog natječaja.
+Za obavljanje poslova u uredu državne uprave u jedinici područne (regionalne) samouprave predstojnik ureda odgovoran je Vladi i ministru nadležnom za poslove opće uprave.

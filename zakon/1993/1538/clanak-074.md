@@ -1,0 +1,4 @@
+# Članak 74.
+Izvješća o obavljanju poslova državne uprave mogu davati ministri, ravnatelji državnih upravnih organizacija i predstojnici ureda državne uprave u jedinicama područne (regionalne) samouprave.
+Čelnici iz stavka 1. ovoga članka mogu za davanje odgovarajućih izvješća ovlastiti i pojedine državne službenike.
+Državni službenici koji su ovlašteni davati odgovarajuća izvješća osobno su odgovorni za njihovu točnost i pravodobnost. Neovlašteno davanje izvješća ili davanje netočnih izvješća predstavlja težu povredu službene dužnosti.

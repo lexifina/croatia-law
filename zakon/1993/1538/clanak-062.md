@@ -1,0 +1,2 @@
+# Članak 62.
+Ministarstva i državne upravne organizacije dužni su međusobno surađivati i pružati jedni drugima stručnu pomoć u svom djelokrugu, dostavljati obavijesti o podacima o kojima vode službene očevidnike, usklađivati planove rada, osnivati zajedničke stručne komisije i radne grupe za pitanja od zajedničkog interesa, priređivati zajednička stručna savjetovanja te podsticati i ustrojavati i druge oblike međusobne suradnje.

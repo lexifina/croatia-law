@@ -1,0 +1,6 @@
+# Članak 91.
+Danom stupanja na snagu Zakona o izmjenama i dopunama Zakona o sustavu državne uprave (»Narodne novine«, br. 59/01.) županijski uredi i njihove ispostave nastavljaju radom kao unutarnje ustrojstvene jedinice ureda državne uprave u jedinicama područne (regionalne) samouprave, do donošenja uredbe iz članka 91. stavka 1. ovoga Zakona.
+Uredi državne uprave u jedinicama područne (regionalne) samouprave preuzimaju poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze županijskih ureda.
+Uredi državne uprave u jedinicama područne (regionalne) samouprave nastavljaju radom u poslovnim prostorima županijskih ureda.
+Poslovni prostor u vlasništvu županije koji su koristili županijski uredi kao tijela državne uprave, a koji su županije stekle na temelju odredbi Zakona o lokalnoj samoupravi i upravi (»Narodne novine«, br. 90/92., 94/93.., 117/93., 5/97., 17/99., 128/99., 51/00. i 105/00.) nastavljaju koristiti uredi državne uprave u jedinicama područne (regionalne) samouprave pod uvjetima pod kojima su ih koristili županijski uredi do stupanja na snagu Zakona o izmjenama i dopunama Zakona o sustavu državne uprave (»Narodne novine«, br. 59/01.).
+Vlasništvo nad poslovnim prostorom iz stavka 4. ovoga članka Republika Hrvatske i županija mogu urediti posebnim sporazumom.

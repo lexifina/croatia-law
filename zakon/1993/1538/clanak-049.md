@@ -1,6 +1,3 @@
 # Članak 49.
-Ravnatelj državne upravne organizacije može imati jednog ili više pomoćnika koje imenuje i razrješava Vlada, na prijedlog ravnatelja.
-Pomoćnik ravnatelja upravlja radom odgovarajuće unutarnje ustrojstvene jedinice državne upravne organizacije te obavlja i druge poslove koje mu povjeri ravnatelj.
-Pomoćnik ravnatelja je za svoj rad odgovoran ravnatelju i Vladi.
-B) DRŽAVNA UPRAVA U ŽUPANIJI, GRADU, ODNOSNO OPĆINI
-1. Župan i gradonačelnik Grada Zagreba
+Za obavljanje poslova državne uprave u više upravnih područja na području jedinice područne (regionalne) samouprave ustrojava se ured državne uprave.
+Unutarnje ustrojstvo ureda državne uprave uređuje se uredbom Vlade.

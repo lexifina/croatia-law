@@ -1,0 +1,3 @@
+# Članak 75.
+Ministri, ravnatelji državnih upravnih organizacija, predstojnici ureda državne uprave u jedinicama područne (regionalne) samouprave, odnosno državni službenik kojeg oni ovlaste, može o značajnijim pitanjima obavljanja poslova državne uprave održavati konferencije s predstavnicima sredstava javnog priopćavanja.
+Ministri, odnosno ravnatelji državnih upravnih organizacija mogu odlučiti da se nacrti propisa koje pripremaju, a za koje je javnost osobito zainteresirana, objave putem sredstava javnog priopćavanja, kao i da se pozovu svi zainteresirani da na nacrt propisa iznesu svoje primjedbe.

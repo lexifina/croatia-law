@@ -1,2 +1,4 @@
 # Članak 6.
-Ministri, njihovi zamjenici, ravnatelji državnih upravnih organizacija, župani, podžupani, gradonaćelnik Grada Zagreba i njegovi zamjenici dužnosnici su Republike Hrvatske.
+Ministri, njihovi zamjenici i pomoćnici, ravnatelji državnih upravnih organizacija, te njihovi zamjenici i pomoćnici dužnosnici su Republike Hrvatske.
+Dužnosnici iz stavka 1. ovoga članka ne smiju istodobno obnašati dužnost u tijelima zakonodavne vlasti, sudbene vlasti niti biti članovi predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave.
+Dužnosnici iz stavka 1. ovoga članka mogu staviti u mirovanje dužnost u zakonodavnoj vlasti, sudbenoj vlasti ili predstavničkim tijelima jedinica lokalne i područne (regionalne) samouprave, koja je nespojiva sa dužnošću na koju su imenovani, odnosno izabrani i po prestanku dužnosti u tijelima državne uprave, na vlastiti zahtjev, nastaviti obnašati dužnost u zakonodavnoj vlasti ili predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave.

@@ -1,11 +1,8 @@
 # Članak 46.
-Državne upravne organizacije obavljaju upravne, stručne i druge poslove iz svog djelokruga, a osobito:
-1. proučavaju i istražuju određena pitanja koja zahtijevaju primjenu posebnih načina rada, a koje je nužno obavljati u okviru državne uprave,
-2. vode propisane očevidnike,
-3. rješavaju u upravnim stvarima kad su na to izrijekom zakonom ovlašteni,
-4. pripremaju nacrte zakona i prijedloge drugih propisa,
-5. pripremaju stručne podloge za postupak odlučivanja u državnim tijelima,
-6. ostvaruju suradnju s tijelime državne uprave, jedinicama lokalne samouprave i uprave te drugim pravnim osobama,
-7. ostvaruju međunarodnu suradnju,
-8. prikupljaju, sređuju i razlučuju podatke od interesa za djelatnost za koju su ustrojeni,
-9. obavljaju i druge poslove utvrđene zakonom i drugim propisima.
+Radom državnih upravnih organizacija upravlja ravnatelj.
+Ravnatelja državnih upravnih organizacija imenuje i razrješuje Vlada, na prijedlog predsjednika Vlade i uz prethodno pribavljeno mišljenje nadležnog ministra. Za svoj rad ravnatelj je odgovoran Vladi, odnosno nadležnom ministru.
+Ravnatelj predstavlja državnu upravnu organizaciju i upravlja njezinim radom, a osobito:
+1. brine o provedbi zakona i drugih propisa,
+2. donosi provedbene propise kad je na to izrijekom zakonom ovlašten,
+3. nadzire zakonitost i pravovremenost izvršavanja poslova i poduzima mjere za osiguravanje učinkovitosti u radu, raspoređuje poslove i daje naputke za rad, brine se o stručnom osposobljavanju i usavršavanju državnih službenika i namještenika u tijeku službe i o urednom i pravilnom korištenju imovine i sredstava za rad i poduzima mjere za utvrđivanje odgovornosti za povrede službene dužnosti određene zakonom.
+Ravnatelj ima i druge ovlasti i obveze određene zakonom i drugim propisima.

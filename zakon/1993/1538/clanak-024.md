@@ -1,3 +1,3 @@
 # Članak 24.
-Inspekcijske poslove u prvom stupnju obavljaju županijski odnosno gradski uredi, a u drugom stupnju ministarstva, ako posebnim zakonom nije što drugo određeno.
-Ministarstva mogu neposredno obavljati i inspekcijske poslove iz nadležnosti županijskih, odnosno gradskih ureda.
+Inspekcijske poslove u prvom stupnju obavljaju uredi državne uprave u jedinicama područne (regionalne) samouprave a u drugom stupnju središnja tijela državne uprave, ako posebnim zakonom nije što drugo određeno.
+Središnja tijela državne uprave mogu neposredno obavljati i inspekcijske poslove iz nadležnosti ureda državne uprave u jedinicama područne (regionalne) samouprave.

@@ -1,0 +1,5 @@
+# Članak 89.
+Vlada će uredbom urediti unutarnje ustrojstvo ureda državne uprave u jedinicama područne (regionalne) samouprave u roku od šest mjeseci od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o sustavu državne uprave (»Narodne novine«, br. 59/01.).
+Ministarstvo nadležno za poslove opće uprave dužno je u roku od 30 dana od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o sustavu državne uprave (»Narodne novine«, br. 59/01.) raspisati natječaj za imenovanje predstojnika ureda državne uprave u jedinici područne (regionalne) samouprave.
+Do imenovanja predstojnika ureda državne uprave, poslove predstojnika ureda državne uprave obavljat će pročelnik županijskog ureda kojeg će odrediti Vlada najkasnije u roku od 15 dana od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o sustavu državne uprave (»Narodne novine«, br. 59/01.).
+Predstojnik ureda državne uprave u jedinici područne (regionalne) samouprave donijet će Pravilnik o unutarnjem redu ureda državne uprave u roku od 30 dana od dana stupanja na snagu uredbe iz stavka 1. ovoga članka.

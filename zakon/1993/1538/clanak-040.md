@@ -1,5 +1,5 @@
 # Članak 40.
-Ministar može imati zamjenika. Zamjenika ministra imenuje i razrješava predsjednik Republike, na prijedlog predsjednika Vlade. Zamjenik ministra odgovoran je za svoj rad ministru i Vladi.
-Zamjenik ministra zamjenjuje ministra u slučaju njegovog izbivanja ili spriječenosti te obavlja i druge poslove koje mu povjeri ministar.
-Ukoliko zamjenik ministra nije imenovan, ministra će zamjenjivati tajnik ministarstva.
-c) Tajnik ministarstva
+Tajnik ministarstva poduzima mjere za osiguranje učinkovitosti u radu, te tehnički usklađuje rad unutarnjih ustrojstvenih jedinica ministarstva i upravnih organizacija u sastavu ministarstva, brine o stručnom osposobljavanju i usavršavanju državnih službenika i namještenika u tijeku službe i o urednom i pravilnom korištenju imovine i sredstava za rad, nadzire rad državnih službenika i namještenika te obavlja i druge poslove koje mu povjeri ministar.
+Tajnika ministarstva imenuje Vlada, na prijedlog ministra.
+Tajnik ministarstva za svoj rad odgovara ministru.
+d) Pomoćnik ministra

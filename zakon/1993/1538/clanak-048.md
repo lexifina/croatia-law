@@ -1,5 +1,6 @@
 # Članak 48.
-Ravnatelj državne upravne organizacije može imati zamjenika.
-Zamjenika ravnatelja imenuje i razrješava Vlada, na prijedlog ravnatelja. Zamjenik je za svoj rad odgovoran ravnatelju i Vladi.
-Zamjenik ravnatelja zamjenjuje ravnatelja u slučaju njegovog izbivanja ili spriječenosti te obavlja i druge poslove koje mu povjeri ravnatelj.
-Ako nije imenovan zamjenik ravnatelja, Vlada određuje osobu koja će zamjenjivati ravnatelja.
+Ravnatelj državne upravne organizacije može imati jednog ili više pomoćnika koje imenuje i razrješuje Vlada na prijedlog ravnatelja.
+Pomoćnik ravnatelja upravlja radom odgovarajuće unutarnje ustrojstvene jedinice državne upravne organizacije te obavlja i druge poslove koje mu povjeri ravnatelj.
+Pomoćnik ravnatelja je za svoj rad odgovoran ravnatelju.
+B) DRŽAVNA UPRAVA U ŽUPANIJI, GRADU, ODNOSNO OPĆINI
+1. Uredi državne uprave
