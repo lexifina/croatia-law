@@ -1,0 +1,20 @@
+o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1991.
+1. Osiguranici, individualni poljoprivrednici, plaćaju doprinos za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika, prema osnovicama utvrđenim ovom odlukom.
+2. Osiguranici - individualni poljoprivrednici koji su osigurani kao predstavnici domaćinstva (članak 11. stavak 1. točka 1. Zakona), razvrstavaju se u osnovice osiguranja ovisno o visini katastarskog prihoda u tekućoj godini u devet grupa. i to:
+1. do 348,00 d. kat. prihoda - 2.665,00 2. preko 348,00 do 696,00 d. kat. prihoda - 3.411,00 3. preko 696,00 do 1043,00 d. kat. prihoda - 4.051,00 4. preko 1043,00 do 1393.00 d. kat. prihoda - 4.797,00 5. preko 1393.00 do 1811,00 d. kat. prihoda - 5.437,00 6. preko 1811,00 do 2507,00 d. kat. prihoda - 6.396.00 7. preko 2507,00 do 3482,00 d. kat: prihoda - 7.356,00 8. preko 3482,00 do 5084,00 d. kat. prihoda - 8.315,00 9. preko 5084,00 kat. prihoda - 9.381,00
+3. Za osiguranike individualne poljoprivrednike koji se u svrhu privređivanja samostalno bave ribolovom kao jedinim ili glavnim zanimanjem (članak 11. stavak 1. točka 1. Zakona) i osiguranike individualne poljoprivrednike koji se u svrhu privređivanja bave poljoprivrednom djelatnošću kao jedinim ili glavnim zanimanjem a nemaju katastarski prihod (članak 11. stavak 1. točka 3. Zakona) utvrđuje se prosječni katastarski prihod u svoti od 5.578,00 dinara.
+Prosječni katastarski prihod iz stavka 1. ove točke služi kao osnovica za plaćanje doprinosa za mirovinsko i invalidsko osiguranje prema članku 86. stavku 1. točke 5. Zakona.
+4. Za osiguranike iz točke 3. ove odluke, utvrđuje se prema prosječnom katastarskom prihodu od 5.578,00 dinara osnovica osiguranja od 9381,00 dinara koja služi za obračunavanje i plaćanje doprinosa prema članku 86. stavku 1. točki 1. Zakona i za određivanje prava iz mirovinskog i invalidskog osiguranja.
+5. Za osiguranike, individualne poljoprivrednike, koji su osigurani kao članovi domaćinstva (članak 11. stavak 1. točka 4. do 6. Zakona), utvrđuje se osnovica osiguranja od 2544,00 dinara, koja služi za obračunavanje i plaćanje doprinosa prema članku 86. stavku 1. točki 1. Zakona i za određivanje prava iz mirovinskog i invalidskog osiguranja.
+6. Osim osnovica osiguranja utvrđenim u točki 2, 4. i 5. ove odluke utvrđuju se još slijedeće više osnovice osiguranja:
+10660,00 dinara,
+12793,00 dinara,
+15397,00 dinara.
+Najviša osnovica osiguranja od 1991. g. utvrđuje se u
+svoti od 19144,00 dinara.
+7. Osiguranik - individualni poljoprivrednik i član domaćinstva koji je osiguran kao individualni poljoprivrednik, može na svoj zahtjev biti razvrstan u bilo koju višu osnovicu iz točke 2. ili 6. ove odluke, kao i u najvišu iz točke 6. ove odluke, koja je viša od one u koju je razvrstan prema točki 2, 4. ili 5. ove odluke.
+8. Razvrstavanje u višu ili najvišu osnovicu osiguranja provodi se na osnovi rješenja direktora Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske, koje sadrži podatke o razrezu i obračunu doprinosa za mirovinsko i invalidsko osiguranje.
+Direktor može ovlastiti rukovoditelje područnih služba Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, da donesu rješenja o razvrstavanju u višu ili najvišu osnovicu osiguranja.
+9. Zahtjev za izbor više ili najviše osnovice osiguranja u godini 1991. može se podnijeti do 31. prosinca 1991.
+10. Osiguranicima - individualnim poljoprivrednicima koji podnesu prijave na poljoprivredno osiguranje, a svojstvo osiguranika stječu počevši od 1. siječnja 1980. ili kojim kasnijim datumom, uprave društvenih prihoda razrezat će doprinos po stopi i osnovici osiguranja koje se primjenjuju u godini 1991. za sva prethodna razdoblja koj se računaju u mirovinski staž u svojstvu osiguranika - individualnog poljoprivrednika.
+11. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1991.
