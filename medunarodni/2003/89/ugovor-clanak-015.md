@@ -1,0 +1,4 @@
+# Članak 15.
+1. Ukoliko sudovi ili tijela koja postupaju u kaznenim predmetima jedne ugovorne stranke to zahtijevaju u vezi sa prekršajima koji se vode, carinska služba druge ugovorne stranke može u okvirima danih ovlaštenja, ovlastiti svoje službenike da se pojave kao vještaci ili svjedoci pred tim sudovima ili naprijed navedenim tijelima. Ti službenici će dati dokaz ili iskaz o činjenicama koje su utvrdili u obavljanju svojih dužnosti. U zahtjevu za svjedočenje mora biti jasno naznačeno u kojem predmetu i u kojem svojstvu se službenik treba pojaviti.
+2. Službenik od kojega se traži da se pojavi u svojstvu svjedoka ili vještaka ima pravo odbiti svjedočiti ili dati izjavu, ukoliko na to ima pravo ili obvezu prema zakonima njegove države ili zakonima države ugovorne stranke tražiteljice.
+IZUZEĆE OD OBVEZE PRUŽANJA POMOĆI
