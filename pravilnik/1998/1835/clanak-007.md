@@ -1,0 +1,2 @@
+# Članak 7.
+Centar za socijalnu skrb koji obavlja i poslove zbrinjavanja djece odbjegle iz obitelji ili ustanove, provodi odgojne mjere nad djecom s poremećajima u ponašanju izvan vlastite obitelji ili s boravkom u obitelji mora udovovaljati uvjetima propisanim Pravilnikom o vrsti domova za djecu i domova za odrasle osobe i njihovim zadaćama te uvjetima u pogledu prostora, opreme i potrebnih stručnih i drugih djelatnika doma socijalne skrbi.
