@@ -1,0 +1,2 @@
+# Članak 10.
+U cijelom tekstu zakona riječi: "društveno-politička zajednica" zamjenjuju se riječima: "država i jedinice lokalne samouprave i uprave", riječi: "državni organ" rijećima: "državno tijelo", riječ: "eksproprijacija" riječju: "izvlašćenje", riječ: "eksproprirana" riječju: "izvlašćena", riječi: "opčinska uprava društvenih prihoda", riječima: "ispostava Porezne uprave", riječi: "uprava društvenih prihoda" riječima: "Porezna uprava" i riječi: "nadležni drugostepeni organ uprave" riječima: "Središnji ured Porezne uprave", sve u odgovarajućem rodu, broju i padežu.
