@@ -1,0 +1,1 @@
+Na temelju članka 74. stavka 1. točke 11. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 35/95 - pročišćeni tekst) i točke IV Odluke o kontnom planu za banke (»Narodne novine« broj 32/99) guverner Hrvatske narodne banke donosi
