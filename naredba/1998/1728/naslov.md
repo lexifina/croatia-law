@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih papkara te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Narod
