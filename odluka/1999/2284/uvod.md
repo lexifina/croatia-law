@@ -1,0 +1,1 @@
+Na temelju članka 22. Zakona o obrani (»Narodne novine«, br. 74/93, 57/96, 31/98) i točke III. Odluke o davanju ovlaštenja Ministarstvu obrane za upravljanje stanovima, garažama i poslovnim prostorom u vlasništvu Republike Hrvatske (»Narodne novine«, br. 56/92), ministar obrane donosi
