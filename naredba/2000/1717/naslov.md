@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i prozvoda podrijetlom od navedenih životinja iz Savezne Republike Njemačke - regije
