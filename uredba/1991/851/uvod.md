@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 2. Zakona o unutarnjim poslovima ("Narodne novine", broj 29/91) na prijedlog ministra unutarnjih poslova, Vlada Republike Hrvatske na sjednici održanoj 19. lipnja 1991. donijela je
