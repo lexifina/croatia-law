@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o pripravničkom stažu zdravstvenih djelatnika (»Narodne novine« broj 18/94., 20/94., 21/95., 47/95., 36/96. i 62/96) članak 1. mijenja se i glasi:
+»Ovim Pravilnikom utvrđuje se sadržaj i način provođenja pripravničkog staža, uvjeti koje moraju ispunjavati zdravstvene ustanove i privatni zdravstveni djelatnici kod kojih se može obavljati pripravnički staž, mjerila za primanje na pripravnički staž u privatne zdravstvene ustanove i kod zdravstvenih djelatnika visoke stručne spreme koji obavljaju privatnu praksu (najmanje pet godina), način polaganja državnog i stručnog ispita, izgled i sadržaj odobrenja za samostalan rad te sadržaj i izgled uvjerenja o položenom državnom i stručnom ispitu.«
