@@ -1,0 +1,2 @@
+# Članak 4.
+Ugovorne će stranke uzajamno potpomagati izravnu suradnju visokoškolskih ustanova, nastavu jezika, književnosti i povijesti druge države podržavanjem osnivanja katedri kroatistike i hungarologije, te lektorata za hrvatski i mađarski jezik u obrazovnim ustanovama dviju stranaka, razmjenom lektora i gostujućih profesora, za čije zapošljavanje nije potrebna posebna radna dozvola, stručnim usavršavanjem, te slanjem knjiga i časopisa.

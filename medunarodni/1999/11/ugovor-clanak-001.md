@@ -1,0 +1,3 @@
+# Članak 1.
+Ugovorne će stranke potpomagati i poticati suradnju između sveučilišnih ustanova, akademija, znanstveno istraživačkih, prosvjetnih i kulturnih institucija, manjinskih organizacija, institucija za zaštitu spomenika te stručnih udruženja i razmjenu stručnjaka i predavača.
+Ugovorne će stranke pomagati razmjenu informativnog materijala na ovom području, te promicati i pomagati prevođenje i izdavanje znanstvenih, književnih i umjetničkih djela i publikacija, organizaciju koncerata, kazališnih predstava, umjetničkih i drugih izložaba odnosno priredaba, razmjenu filmova, radiodifuznih i televizijskih programa kao i njihovih autora.
