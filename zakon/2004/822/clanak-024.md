@@ -1,0 +1,5 @@
+# Članak 24.
+Vlada Republike Hrvatske će u roku 30 dana donijeti odnosno uskladiti Uredbe o unutarnjem ustrojstvu tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug.
+Čelnici tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug, dužni su donijeti, odnosno uskladiti Pravilnike o unutarnjem redu prema odredbama ovoga Zakona u roku 15 dana od dana donošenja uredbi iz stavka 1. ovoga članka.
+Tijela državne uprave koja mijenjaju ustrojstvo ili preuzimaju poslove, odnosno dio poslova drugih tijela državne uprave, preuzimaju i opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+Državni službenici i namještenici tijela državne uprave koja mijenjaju ustrojstvo ili djelokrug nastavljaju s radom na poslovima na kojima su zatečeni u trenutku stupanja na snagu ovoga Zakona i zadržavaju sva prava i obveze iz državne službe prema dosadašnjim rješenjima do donošenja rješenja o rasporedu na temelju Pravilnika o unutarnjem redu.
