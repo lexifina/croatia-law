@@ -1,0 +1,1 @@
+Temeljem članka 34. stavka 2. Zakona o sustavu državne uprave ("Narodne novine" br. 75/93) u svezi s člankom 67. stavak 2. Zakona o visokim učilištima ("Narodne novine" br. 59/96-pročišćeni tekst), ministar znanosti i tehnologije donosi
