@@ -1,0 +1,2 @@
+# Članak 2.
+U smislu ovoga Pravilnika, pod pojmom veterinarsko-zdravstveni red razumijeva se osiguranje objekata iz članka 1. ovoga Pravilnika od nenadziranog ulaska i izlaska ljudi, životinja i vozila, održavanje reda i čistoće te optimalnih mikroklimatskih uvjeta svojstvenih pojedinoj vrsti životinja u objektima i oko njih, osiguranje zdravstvene ispravnosti vode te provođenje deratizacije i dezinsekcije.

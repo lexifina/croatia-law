@@ -1,0 +1,4 @@
+# Članak 23.
+Svaka nađena životinja za koju nije moguće utvrditi zdravstveni status s obzirom na bjesnoću, smatra se životinjom nepoznatog zdravstvenog statusa s obzirom na bjesnoću te mora biti izdvojena, kako je određeno člankom 21. stavkom 6. ovoga Pravilnika i ako se utvrdi da ne boluje od bjesnoće, promatrana tijekom šest mjeseci uključivši i vrijeme provedeno u izolaciji. Tek po isteku šest mjeseci tijekom kojih nisu utvrđene promjene koje ukazuju na bjesnoću, životinja može biti udomljena.
+Životinja ne mora biti u izolaciji i na promatranju šest mjeseci ako se provede pretraživanje kojim se utvrđuje visina titra protutijela za bjesnoću, čime se određuje zdravstveni status životinje s obzirom na bjesnoću.
+Nakon provedenog pretraživanja iz stavka 3. ovoga članka, s negativnim rezultatom, životinja treba biti cijepljena protiv bjesnoće i može biti udomljena.
