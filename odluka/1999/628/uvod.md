@@ -1,0 +1,1 @@
+Na osnovi članka 79. i 104. Zakona o zdravstvenom osiguranju ("Narodne novine" br. 1/97 - pročišćeni tekst, 109/97, 13/98, 88/98 i 10/99), i članka 14. točke 8. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 11. sjednici, održanoj 26. ožujka 1999. godine, donijelo je
