@@ -1,0 +1,3 @@
+## o dopuni Zakona o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini
+# Članak 1.
+U Zakonu o stopama neposrednih poreza i pripadnosti poreza, taksa i drugih prihoda društveno-političkim zajednicama u 1991. godini ("Narodne novine", br. 58/1990) u članku 9. iza stavka 6. dodaju se novi stavci 7. i 8. koji glase: "Iznimno od odredbi stavka 1. do 6. ovoga članka, općina Dubrovnik može svojom odlukom povećati stopu poreza iz osobnog dohotka radnika za potrebe dovršenja izgradnje nove bolnice u Dubrovniku. Organ uprave nadležan za poslove financija općine Dubrovnik kontrolira namjensko korištenje sredstava ostvarenih prema odredbi stavka 7. ovoga članka."
