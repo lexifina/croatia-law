@@ -1,0 +1,60 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi
+sljedećim koordinatnim točkama:
+Y
+X
+TOČKA 1
+6 389 288.857
+4 791 395.309
+TOČKA 2
+6 389 297.500
+4 791 402.000
+TOČKA 3
+6 389 335.000
+4 791 399.300
+TOČKA 4
+6 389 346.300
+4 791 409.600
+TOČKA 5
+6 389 373.170
+4 791 409.961
+TOČKA 6
+6 389 434.137
+4 791 412.429
+TOČKA 7
+6 389 440.519
+4 791 418.341
+TOČKA 8
+6 389 503.698
+4 791 424.749
+TOČKA 9
+6 389 528.757
+4 791 423.129
+TOČKA 10
+6 389 552.518
+4 791 424.561
+TOČKA 11
+6 389 595.960
+4 791 425.460
+TOČKA 12
+6 389 618.610
+4 791 421.120
+TOČKA 13
+6 389 636.473
+4 791 416.376
+TOČKA A=14
+6 389 638.320
+4 791 401.170
+TOČKA M
+6 389 641.080
+4 791 390.720
+TOČKA L
+6 389 642.530
+4 791 385.990
+TOČKA K
+6 389 644.260
+4 791 380.350
+TOČKA J
+6 389 651.180
+4 791 355.140
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Bol, broj lista plana 14 i 15, u mjerilu 1:2880 i na snimci stvarnog stanja u mjerilu 1:1000.
