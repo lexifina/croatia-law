@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00, 59/01 i 107/01) i članka 16. Statuta Grada Svetog Ivana Zeline (»Zelinske novine«, br. 8/01), Gradsko vijeće Grada Svetog Ivana Zeline na 9. sjednici održanoj dana 12. srpnja 2002. godine, donijelo je
