@@ -1,0 +1,2 @@
+# Članak 3.
+Pravne i fizičke osobe koje obave izvoz ili uvoz u područja Republike Hrvatske pod zaštitom Ujedinjenih (UNPA) ili tranzit roba ili usluga protivno odredbama ove uredbe kaznit će se novčanom kaznom u dinarskoj protuvrijednosti 3.000 do 10.000 DEM za prekršaj, a odgovorna osoba u pravnoj osobi novčanom kaznom u dinarskoj protuvrijednosti 200 do 2.000 DEM. Uz prekršajnu kaznu izreći će se i zaštitna mjera oduzimanja robe koja je predmet prekršaja i prijevoznog sredstva kojim je roba prevožena.
