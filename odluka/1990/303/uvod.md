@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u Privredne komore ("Narodne novine", br. 42/86 i 57/89) te članova 8. 137. i 138. Statuta Privredne komore Gospić, Skupština Privredne komore Gospić na sjednici održanoj 30. ožujka 1990. godine donosi
