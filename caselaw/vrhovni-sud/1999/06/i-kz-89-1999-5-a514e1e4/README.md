@@ -1,0 +1,11 @@
+# I Kž-89/1999-5, Vrhovni sud Republike Hrvatske, 8.6.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=a514e1e4-6490-48d8-a65a-74077aa87af6
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-06-08
+- Publication date on source: 2003-08-25
+- ECLI: ECLI:HR:VSRH:1999:666
+- Decision type: Rješenje
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
