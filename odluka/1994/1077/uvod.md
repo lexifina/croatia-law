@@ -1,0 +1,1 @@
+Na temelju članka 11. i članka 67. stavka 1. točke 7. Zakona o Narodnoj banci Hrvatske ("Narodne novine", br. 74/92, 26/93 i 79/93), Savjet NaYodne banke Hrvatske na sjednici održanoj 29. srpnja 1994. godine donio je
