@@ -1,0 +1,1 @@
+Na osnovi članka 45. stavke 8. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine", broj 12/91 - pročišćeni tekst) Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, na 5. sjednici održanoj 27. svibnja 1991. godine. donijela je
