@@ -1,0 +1,5 @@
+# Članak 10.
+Stručno povjerenstvo će razmatrati umjetničko stvaralaštvo i djelovanje podnositelja zahtjeva tijekom posljednjih 5 (pet) godina.
+Pri razmatranju umjetničkog stvaralaštva i javnog djelovanja podnositelja zahtjeva za ostvarivanje prava iz ovog Pravilnika, Stručno povjerenstvo neće usvojiti zahtjev podnositelja, iako udovoljava brojčanim kriterijima iz ovog Pravilnika, za kojega drži da njegovo umjetničko djelovanje ne predstavlja zamjetan prinos hrvatskoj kulturi i umjetnosti.
+Stručno povjerenstvo također neće usvojiti zahtjev podnositelja, ako je ostvario prosječni ukupni godišnji dohodak od samostalne umjetničke djelatnosti za prethodne 3 (tri) godine veći od bruto godišnje plaće uposlenog akademski obrazovanog umjetnika, sukladno važećim propisima o plaćama u javnim službama u prethodnoj godini (umnožak osnovice i koeficijenta složenosti poslova 1,90).
+Bruto godišnju plaću uposlenog akademski obrazovanog umjetnika, sukladno važećim propisima o plaćama u javnim službama, za prethodnu godinu, utvrđuje Stručna služba HZSU-a.

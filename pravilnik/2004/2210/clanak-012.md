@@ -1,0 +1,3 @@
+# Članak 12.
+Na osnovi rješenja Stručnog povjerenstva o priznavanju prava na uplatu doprinosa, HZSU prijavljuje samostalne umjetnike prema mjestu prebivališta u Hrvatski zavod za mirovinsko osiguranje, čime samostalni umjetnik stječe pravo na korištenje mirovinskog i invalidskog osiguranja te u Hrvatski zavod za zdravstveno osiguranje, čime samostalni umjetnik stječe pravo na korištenje zdravstvene zaštite.
+Pravo iz prethodnog stavka samostalnom umjetniku teče od 1. siječnja sljedeće godine, odnosno od dana prestanka radnog odnosa, odnosno od prestanka osiguranja iz članka 17. stavak 1. ovog Pravilnika.

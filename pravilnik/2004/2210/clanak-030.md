@@ -1,0 +1,3 @@
+# Članak 30.
+Samostalni umjetnik obvezan je Ministarstvu kulture vratiti sredstva s pripadajućim zateznim kamatama uplaćena za doprinose prema ovom Pravilniku, ako su doprinosi uplaćivani nakon što su nastupile okolnosti iz članka 26. ovog Pravilnika koje utječu na prestanak prava na uplatu doprinosa, a samostalni umjetnik je znao ili je morao znati za te okolnosti, a nije o njima na vrijeme obavijestio HZSU.
+U pogledu onih okolnosti koje se utvrđuju pravomoćnim ili konačnim odlukama nadležnih tijela, odredba prethodnog stavka se primjenjuje ukoliko o navedenim odlukama samostalni umjetnik nije obavijestio HZSU o nastanku okolnosti u roku od 30 (trideset) dana po primitku takve odluke.
