@@ -1,0 +1,4 @@
+# Članak 6.
+Radnik iz članka 5. ovoga pravilnika koji je voditelj laboratorija mora imati VSS tehničkog smjera ili prirodoslovno-matematičkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja ili proizvodnje butirometara, ili VŠS tehničkog smjera i najmanje 2 godine radnog iskustva na poslovima ispitivanja ili proizvodnje butirometara, ili SSS tehničkog smjera i najmanje 3 godine radnog iskustva na poslovima ispitivanja, ili proizvodnje butirometara, ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja ili proizvodnje butirometara.
+Drugi radnik iz članka 5. ovoga pravilnika mora imati najmanje KV tehničke struke i mora imati najmanje dvije godine iskustva na poslovima ispitivanja ili proizvodnje butirometara.
+Radnici iz članka 5. ovoga pravilnika moraju poznavati propise kojima su utvrđeni postupci i metode ispitivanja butirometara.
