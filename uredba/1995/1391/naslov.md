@@ -1,0 +1,1 @@
+Uredba o utvrđivanju položaja zvanja službenika i radnih mjesta namještenika u osnovnim i srednjim školama i učeničkim domovima i o razvrstavanju službenika i namještenika tih ustanova u platne razred
