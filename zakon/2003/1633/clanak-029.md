@@ -1,0 +1,15 @@
+## Zahtjevi koji se odnose na sustav samokontrole
+# Članak 29.
+(1) Subjekt u poslovanju s hranom, osim na razini primarne proizvodnje, dužan je uspostaviti i provoditi redovite kontrole higijenskih uvjeta proizvodnje u svakom objektu pod njegovom kontrolom, provedbom preventivnog postupka samokontrole, razvijenog u skladu sa sljedećim načelima sustava analize opasnosti i kritičnih kontrolnih točaka (u daljnjem tekstu: HACCP):
+- identificirati sve opasnosti koje moraju biti spriječene, uklonjene ili smanjene na prihvatljivu razinu,
+- identificirati kritične kontrolne točke na mjestima na kojima je kontrola bitna za sprječavanje ili uklanjanje opasnosti ili za njihovo smanjivanje na prihvatljivu razinu,
+- utvrditi kritične granice (limite) na kritičnim kontrolnim točkama koje razdvajaju prihvatljivo od neprihvatljivog za sprječavanje, uklanjanje ili smanjivanje identificiranih opasnosti,
+- utvrditi i provesti učinkovite postupke sustavnog praćenja kritičnih kontrolnih točaka,
+- utvrditi korektivne postupke kada sustav praćenja upozori na to da kritična kontrolna točka nije pod kontrolom,
+- utvrditi postupke verificiranja radi utvrđivanja učinkovitosti provođenja mjera navedenih u podstavku 1. do 5. ovoga stavka, postupke verifikacije moraju provoditi redovito objekti i nadležni inspektori u objektima,
+- utvrditi dokumente i evidencije primjerene prirodi i opsegu posla koji će prikazivati učinkovitu primjenu mjera navedenih u podstavku 1. do 6. ovoga stavka.
+(2) Subjekt u poslovanju s hranom na razini primarne proizvodnje, dužan je uspostaviti i provoditi redovite kontrole higijenskih uvjeta proizvodnje u svakom objektu pod njegovom kontrolom provedbom preventivnog postupka samokontrole, razvijenog u skladu s dobrom proizvođačkom praksom.
+(3) Početnu provjeru usklađenosti HACCP planova za objekte iz stavka 1. ovoga članka obavlja Ministarstvo poljoprivrede i šumarstva, odnosno Ministarstvo zdravstva sukladno nadležnostima utvrđenim u članku 26. stavku 2., 4. i 5. ovoga Zakona.
+(4) Ako rezultati samokontrola navedenih u stavku 1. ovoga članka otkriju postojanje rizika za zdravlje ljudi, drži se da hrana ne udovoljava propisanim zahtjevima zdravstvene ispravnosti, a subjekt u poslovanju s hranom dužan je poduzeti mjere u skladu sa člankom 27. ovoga Zakona.
+(5) Uvjete za provedbu sustava samokontrole u objektima iz stavka 1. i 2. ovoga članka utvrđuju provedbenim propisima ministar poljoprivrede i šumarstva odnosno ministar zdravstva sukladno nadležnostima utvrđenim u članku 26. stavku 2. i 4. ovoga Zakona.
+(6) Ministar poljoprivrede i šumarstva, odnosno ministar zdravstva mogu u provedbenim propisima iz stavka 5. ovoga članka utvrditi izuzeća od odredbi iz stavka 1. ovoga članka za određene subjekte koji posluju s hranom, a posebice za male subjekte, određene kategorije subjekata u maloprodaji te u proizvodnji tradicionalnih proizvoda, uz uvjet da je osigurana primjerena razina higijene provedbom postupka samokontrole, razvijenog u skladu s dobrom proizvođačkom praksom.

@@ -1,0 +1,2 @@
+# Članak 111.
+Do donošenja provedbenih propisa iz članka 105., 106. i 107. ovoga Zakona primjenjuju se propisi doneseni na temelju Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe (»Narodne novine« br. 1/97.), Zakona o veterinarstvu (»Narodne novine« br. 70/97. i 105/01.), Zakona o normizaciji (»Narodne novine« br. 55/96.), Zakona o stočarstvu (»Narodne novine« br. 70/97.) i Zakona o oznakama zemljopisnog podrijetla proizvoda i usluga (»Narodne novine« br. 78/99.).

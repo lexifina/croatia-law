@@ -1,0 +1,5 @@
+## Zabrana stavljanja na tržište nove hrane
+# Članak 33.
+(1) Ako postoje znanstvene nedoumice glede štetnog djelovanja nove hrane na zdravlje ljudi, posebice hrane i sastojaka hrane koji sadrže genetski modificirane organizme ili se sastoje od njih, ministar zdravstva uz suglasnost ministra poljoprivrede i šumarstva može privremeno zabraniti njezino stavljanje na tržište radi sprječavanja ili umanjivanja mogućih negativnih utjecaja na zdravlje ljudi.
+(2) Ministar zdravstva uz suglasnost ministra poljoprivrede i šumarstva trajno će zabraniti stavljanje na tržište nove hrane, posebice hrane i sastojaka hrane koji sadrže genetski modificirane organizme ili se sastoje od njih, ako se na temelju znanstvene procjene rizika utvrdi njezina štetnost za zdravlje ljudi.
+(3) Vlada Republike Hrvatske, na prijedlog Ministarstva poljoprivrede i šumarstva, Ministarstva zdravstva ili Hrvatske agencije za hranu, može zabraniti privremeno ili trajno uvoz nove hrane koja sadrži genetski modificirane organizme u slučaju nedostatka znanstvenih informacija i znanja o mogućim razmjerima negativnih posljedica na život i zdravlje ljudi.

@@ -1,0 +1,7 @@
+## Zahtjevi koji se odnose na mogućnost sljedivosti hrane
+# Članak 28.
+(1) Mogućnost sljedivosti mora biti uspostavljena u svim fazama proizvodnje, prerade i distribucije hrane, sirovina biljnog i životinjskog podrijetla, životinja koje proizvode hranu ili služe za proizvodnju hrane, kao i sljedivosti bilo koje druge tvari koja je namijenjena ugradnji ili se može očekivati da će biti ugrađena u hranu.
+(2) Subjekti u poslovanju s hranom dužni su uspostaviti sustav evidencija, odnosno baze podataka i osigurati postupke koji će im omogućiti da u svakom trenutku mogu identificirati svaku pravnu i fizičku osobu koja ih je opskrbljivala hranom, životinjama koje proizvode hranu ili služe za proizvodnju hrane ili bilo kojim drugim tvarima koje su namijenjene proizvodnji ili se može očekivati da će biti upotrijebljene u proizvodnji hrane.
+(3) Subjekti u poslovanju s hranom dužni su uspostaviti baze podataka i osigurati postupke koji će im omogućiti da u svakom trenutku mogu identificirati druge subjekte u poslovanju s hranom kojima su isporučivali hranu.
+(4) Subjekti u poslovanju s hranom dužni su podatke iz stavka 2. i 3. ovoga članka čuvati tri godine te ih na zahtjev u svakom trenutku učiniti dostupnim nadležnim tijelima.
+(5) Hrana koja je stavljena na tržište ili je vjerojatno da će biti stavljena na tržište mora biti deklarirana ili na drugi način identificirana putem odgovarajuće propisane dokumentacije ili drugih informacija, da bi se osigurala mogućnost sljedivosti.

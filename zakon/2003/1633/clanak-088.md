@@ -1,0 +1,3 @@
+# Članak 88.
+(1) Radi službene kontrole zdravstvene ispravnosti hrane za životinje mogu se za potrebe laboratorijskih analiza uzeti uzorci sirovina, sastojaka, tehnoloških pomagala i drugih tvari koje se rabe za pripremu i proizvodnju hrane za životinje, gotove hrane za životinje, predmeta koji dolaze u neposredan dodir s hranom za životinje, kao i sredstava za čišćenje i održavanje koja se rabe u poslovanju s hranom za životinje.
+(2) Subjekti u poslovanju s hranom za životinje dužni su za potrebe uzimanja uzoraka staviti besplatno na raspolaganje potrebne količine hrane za životinje, predmeta i sredstava iz stavka 1. ovoga članka.

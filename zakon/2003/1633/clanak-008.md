@@ -1,0 +1,5 @@
+# Članak 8.
+(1) U posebnim okolnostima kad je, nakon procjene dostupnih informacija, identificirana mogućnost štetnog djelovanja hrane na zdravlje ljudi, ali postoje znanstvene nedoumice, nadležna tijela mogu poduzeti privremene mjere upravljanja rizikom prijeko potrebne za osiguranje najviše moguće razine zaštite zdravlja ljudi do pribavljanja daljnjih znanstveno utemeljenih informacija potrebnih za sveobuhvatnu procjenu rizika.
+(2) Mjere poduzete na temelju stavka 1. ovoga članka moraju biti primjerene i ne ograničavati trgovinu više nego što je potrebno da bi se postigla visoka razina zaštite zdravlja ljudi, vodeći pri tom računa o njihovoj tehničkoj i ekonomskoj izvedivosti te utvrđenom činjeničnom stanju.
+(3) Poduzete mjere moraju se ponovno razmotriti u primjerenom roku, ovisno o naravi identificiranog rizika za život i zdravlje ljudi, te o tipu znanstveno utemeljenih informacija potrebnih za razjašnjavanje znanstvenih nedoumica, kao i za provođenje sveobuhvatne procjene rizika.
+3. NaČelo transparentnosti
