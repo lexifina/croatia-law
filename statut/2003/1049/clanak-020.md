@@ -1,0 +1,22 @@
+# Članak 20.
+Upravno vijeće obavlja sljedeće poslove:
+- donosi Statut i druge opće akte Zavoda,
+- donosi godišnji plan rada Zavoda
+- donosi godišnji financijski plan Zavoda, kao i njegove izmjene, te usvaja periodične obračune i završni račun Zavoda,
+- donosi izvješće o izvršenju godišnjeg plana rada i poslovanja Zavoda i podnosi ga nadležnom ministarstvu za rad,
+- odlučuje o davanju prethodne suglasnosti ravnatelju Zavoda za stjecanje, opterećenje ili otuđenje imovine u slučajevima utvrđenim ovim Statutom čija vrijednost prelazi 200.000,00 kuna,
+- uz suglasnost Vlade Republike Hrvatske, odnosno tijela koja ona odredi, odlučuje o stjecanju, otuđenju ili opterećenju nekretnina i druge imovine ili sklapanju pravnih poslova čija vrijednost prelazi iznos od 1.000.000,00 kuna,
+- odlučuje o osnivanju druge pravne osobe,
+- donosi odluku o osnivanju područnih službi i ispostava,
+- odlučuje samostalno o stjecanju, otuđenju ili opterećenju nekretnina i druge imovine ili sklapanju pravnih poslova čija vrijednost ne prelazi iznos od 1.000.000,00 kuna,
+- utvrđuje mjere aktivne politike zapošljavanja, uvjete za njihovo korištenje, potrebna financijska sredstva,
+- prati i razmatra stanje i kretanje na tržištu rada na osnovi izvješća stručne službe Zavoda,
+- prati i razmatra provođenje međunarodnih konvencija i međudržavnih ugovora iz djelatnosti zapošljavanja,
+- donosi odluku o uvjetima i načinu isplate novčane naknade o jednokratnom iznosu,
+- donosi odluku o uvjetima za korištenje prava i visini naknade za jednokratnu novčanu pomoć i naknadu putnih i selidbenih troškova,
+- donosi odluku o načinu i mjestu podnošenja, vođenja, sadržaju i rokovima prijava, evidencija i izvješća,
+- osniva povjerenstva, odbore i druga radna tijela,
+- donosi odluke po žalbama na prvostupanjska rješenja u svezi s radnim dozvolama,
+- daje preporuke i mišljenja o pojedinim pitanjima ravnatelju Zavoda,
+- donosi Poslovnik o svom radu,
+- raspravlja i odlučuje o drugim pitanjima od interesa za obavljanje djelatnosti zapošljavanja.

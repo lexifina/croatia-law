@@ -1,0 +1,26 @@
+# Članak 15.
+Naziv središnje ustrojstvene jedinice Zavoda je SREDIŠNJA SLUŽBA, sa sjedištem u Zagrebu, Radnička cesta 1.
+Nazivi područnih ustrojstvenih jedinica jesu:
+1. Područna služba Bjelovar sa sjedištem u Bjelovaru za Bjelovarsko-bilogorsku županiju,
+2. Područna služba Čakovec sa sjedištem u Čakovcu za Međimursku županiju,
+3. Područna služba Dubrovnik sa sjedištem u Dubrovniku za Dubrovačko-neretvansku županiju,
+4. Područna služba Gospić sa sjedištem u Gospiću za Ličko-senjsku županiju,
+5. Područna služba Karlovac sa sjedištem u Karlovcu za Karlovačku županiju,
+6. Područna služba Krapina sa sjedištem u Krapini za Krapinsko-zagorsku županiju,
+7. Područna služba Križevci sa sjedištem u Križevcima za Koprivničko-križevačku županiju,
+8. Područna služba Kutina sa sjedištem u Kutini za gradove Kutina i Novska s naseljima koja ulaze u njihov sastav, te općine Jasenovac, Lipovljani, Popovača i Velika Ludina s naseljima koja ulaze u njihov sastav,
+9. Područna služba Osijek sa sjedištem u Osijeku za Osječko-baranjsku županiju,
+10. Područna služba Požega sa sjedištem u Požegi za Požeško-slavonsku županiju,
+11. Područna služba Pula sa sjedištem u Puli za Istarsku županiju,
+12. Područna služba Rijeka sa sjedištem u Rijeci za Primorsko-goransku županiju,
+13. Područna služba Sisak sa sjedištem u Sisku za gradove Glina, Hrvatska Kostajnica, Petrinja i Sisak s naseljima koja ulaze u njihov sastav, te za općine Donji Kukuruzari, Dvor, Gvozd, Hrvatska Dubica, Lekenik, Majur, Martinska Ves, Sunja i Topusko s naseljima koja ulaze u njihov sastav,
+14. Područna služba Slavonski Brod sa sjedištem u Slavonskom Brodu za Brodsko-posavsku županiju,
+15. Područna služba Split sa sjedištem u Splitu za Splitsko-dalmatinsku županiju,
+16. Područna služba Šibenik sa sjedištem u Šibeniku za Šibensko-kninsku županiju,
+17. Područna služba Varaždin sa sjedištem u Varaždinu za Varaždinsku županiju,
+18. Područna služba Vinkovci sa sjedištem u Vinkovcima za gradove Vinkovci i Županja s naseljima koja ulaze u njihov sastav, te općine Andrijaševci, Babina Greda, Bošnjaci, Cerna, Drenovci, Gradište, Gunja, Ivankovo, Jarmina, Nijemci, Nuštar, Otok, Privlaka, Stari Jankovci, Stari Mikanovci, Vođinci, Vrbanja i Tordinci s naseljima koja ulaze u njihov sastav,
+19. Područna služba Virovitica sa sjedištem u Virovitici za Virovitičko-podravsku županiju,
+20. Područna služba Vukovar sa sjedištem u Vukovaru za gradove Ilok i Vukovar s naseljima koja ulaze u njihov sastav, te općine Bogdanovci, Borovo, Lovas, Negoslavci, Tompojevci, Tovarnik i Trpinja s naseljima koja ulaze u njihov sastav,
+21. Područna služba Zadar sa sjedištem u Zadru za Zadarsku županiju,
+22. Područna služba Zagreb sa sjedištem u Zagrebu za Zagrebačku županiju i Grad Zagreb.
+Ispostave područnih službi Zavoda uređuju se općim aktom o unutarnjem ustrojstvu Zavoda.
