@@ -1,0 +1,3 @@
+## o privremenoj odgodi vraćanja dijela kredita odobrenih iz primarne emisije pravnim osobama koje su pretrpjele štetu od ratnih razaranja
+# Članak 1.
+Ovom se uredbom utvrđuju uvjeti i način privremene odgode vraćanja dijela kredita što su ih banke odobrile pravnim osobama sa sjedištem na teritoriju Republike Hrvatske (u daljnjem tekstu: krajnji korisnici) iz primarne amisije, i to za slijedeće namjene: poljoprivrednu proizvodnju, zalihe i rezerve osnovnih poljoprivrednih proizvoda, tov stoke, izvoz roba i usluga, uključujući proizvodnju i pripremu robe za izvoz i za pripremu turističke sezone (u nastavku teksta: krediti), zbog šteta uzrokovanih posljedicama ratnih djelovanja na teritoriju Republike Hrvatske koja su zahvaćena ratom u 1991. godini.
