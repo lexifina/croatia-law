@@ -1,0 +1,6 @@
+# Članak 10.
+U članku 64. stavak 3. mijenja se i glasi:
+»(3) Ako je počinitelj prekršaja ovisnik o opojnoj drogi ili povremeni uzimatelj opojne droge, za prekršaje iz članka 54. - 63. ovoga Zakona obvezno se uz novčanu kaznu izriče zaštitna mjera obveznog liječenja u zdravstvenoj ustanovi koja za primjenu te zaštitne mjere ima odobrenje Ministarstva zdravstva ili zaštitna mjera odvikavanja od ovisnosti u ustanovi socijalne skrbi, udruzi, odnosno drugoj pravnoj osobi koja za primjenu te zaštitne mjere ima odobrenje Ministarstva rada i socijalne skrbi, u trajanju od tri mjeseca do jedne godine.«
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Novčana kazna izrečena za prekršaje iz članka 54. - 63. ovoga Zakona neće se izvršiti ako počinitelj prekršaja koji je ovisnik o opojnoj drogi, odnosno povremeni uzimatelj opojne droge postupak liječenja u zdravstvenoj ustanovi iz stavka 3. ovoga članka, odnosno odvikavanja od ovisnosti u pravnoj osobi iz stavka 3. ovoga članka, sa uspjehom završi.
+(5) Iznimno od odredbe stavka 3. ovoga članka, za prekršaj iz članka 54. - 63. ovoga Zakona počinjen prvi puta, ovisniku o opojnoj drogi ili povremenom uzimatelju opojne droge zaštitna mjera obveznog liječenja ili odvikavanja od ovisnosti izriče se samostalno bez izricanja novčane kazne.«

@@ -1,0 +1,2 @@
+# Članak 14.
+Županijski, odnosno gradski centri osnovani do dana stupanja na snagu Zakona o suzbijanju zlouporabe opojnih droga (»Narodne novine«, br. 107/01.), a na temelju Nacionalne strategije nadzora nad opojnim drogama, suzbijanja zlouporabe opojnih droga i pomoći ovisnicima i opojnim drogama, danom stupanja na snagu ovoga Zakona postaju sastavni dio zavoda za javno zdravstvo županije, odnosno Grada Zagreba na čijem su području osnovani.
