@@ -1,0 +1,3 @@
+# Članak 2.
+Sredstvima platitelja na deviznim računima u smislu članka 29. stavka 4. Zakona o platnom prometu u zemlji smatraju se sredstva na redovnim deviznim računima i posebnim deviznim računima u banci, osim ako zakonom ili drugim propisom donesenim na temelju zakona nije drugačije određeno.
+Iznimno od stavka 1. ovog članka sredstva platitelja na računima javnobilježničkog pologa, sredstva na uvjetnim (»escrow«) računima te sredstva na računima za plaćanje u inozemstvo ne smatraju se sredstvima platitelja na deviznim računima u smislu članka 29. stavka 4. Zakona o platnom prometu u zemlji.
