@@ -1,0 +1,7 @@
+# Članak 6.
+1. Republika Hrvatska sukladno Ustavu i odgovarajućim zakonima, priznaje opće društveno vrijedan rad Katoličke Crkve u službi građana na kulturnom, odgojnom, društvenom i etičkom polju (usp. čl. 2. st. 2. ovoga Ugovora).
+2. Da bi Katolička Crkva mogla na doličan način nastaviti svoje djelovanje na promicanju općega dobra, Republika Hrvatska će joj mjesečno davati iz godišnjega državnog proračuna iznos koji odgovara dvjema prosječnim bruto plaćama pomnoženim s brojem župa koje postoje u Republici Hrvatskoj na dan stupanja na snagu ovoga Ugovora.
+3. Hrvatska biskupska konferencija će svake godine do 1. prosinca dostaviti ovlaštenome državnom uredu popis novih ili ukinutih župa kako bi se činjenično stanje moglo uskladiti s odredbom iz stavka 2. ovoga članka. U taj popis neće ulaziti novoosnovane župe koje u gradu broje manje od 3000 vjernika, a na selu manje od 1000 vjernika.
+4. U novčani iznos, o kojem se govori u stavku 2. ovoga članka, osim troškova za uzdržavanje klera i drugih crkvenih službenika, uključeni su i troškovi izgradnje i uzdržavanje crkava i pastoralnih središta koji nisu u popisu spomenika kulture, te doprinos za karitativnu djelatnost Katoličke Crkve.
+5. Označeni će se iznos dostavljati mjesečno Središnjoj ustanovi Hrvatske biskupske konferencije za uzdržavanje klera i drugih crkvenih službenika.
+6. Mjerodavne vlasti Katoličke Crkve i Republike Hrvatske pri određivanju spomenutoga novčanog iznosa imali su na umu postotak građana Republike Hrvatske koji se izjašnjavaju katolicima.

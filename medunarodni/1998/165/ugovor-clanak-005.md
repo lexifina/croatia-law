@@ -1,0 +1,4 @@
+# Članak 5.
+1. Republika Hrvatska će pravnim osobama Katoličke Crkve od godine 2000., kao naknadu za oduzeta dobra koja nije moguće vratiti, isplaćivati primjerenu novčanu naknadu u četiri godišnja obroka.
+2. Ukupan iznos naknade za oduzetu imovinu, koja će se isplaćivati u novcu, utvrdit će crkveno-državno povjerenstvo stručnjaka na temelju procjene vrijednosti tih dobara, a u skladu sa zakonskim odredbama, najkasnije u roku od jedne godine od stupanja na snagu ovoga Ugovora.
+3. Mjerodavno tijelo Republike Hrvatske isplaćivat će Katoličkoj Crkvi novčani iznos svaka tri mjeseca na račun Središnjega fonda Hrvatske biskupske konferencije za crkvene ustanove. Središnji fond će dospjeli iznos dostavljati (nad)biskupijama te ustanovama posvećenog života i družbama apostolskog života, na temelju vrijednosti oduzete imovine.
