@@ -1,0 +1,1 @@
+Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz 1989. godine radi određivanja naknade osobnoga dohotka zbog manjeg osobnog dohotka na drugom poslu
