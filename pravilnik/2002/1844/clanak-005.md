@@ -1,0 +1,3 @@
+# Članak 5.
+Ovlaštenje za obavljanje ispitivanja strojeva i uređaja s povećanim opasnostima može se izdati poslodavcu ako ima zaposlena s najmanje polovicom radnog vremena najmanje dva stručnjaka zaštite na radu koji imaju visoku stručnu spremu različitog tehničkog smjera, od kojih barem jedan mora imati stručnu spremu smjera strojarstva i jedan smjera elektrotehnike, te koji imaju najmanje tri godine radnog iskustva u struci.
+Uz kadrovske uvjete utvrđene stavkom 1. ovoga članka mora raspolagati i potrebnom tehničkom opremom popis koje se nalazi u dodatku i koji čini sastavni dio ovoga pravilnika.

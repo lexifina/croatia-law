@@ -1,0 +1,2 @@
+# Članak 22.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o ispitivanju određenih sredstava rada i radne okoline te sadržaju, obliku i načinu izdavanja isprava (»Narodne novine«, br. 52/84.) i Pravilnik o uvjetima u pogledu stručne spreme radnika i tehničke opremljenosti koje moraju ispunjavati organizacije koje poslove zaštite na radu obavljaju kao svoju osnovnu ili sporednu djelatnost (»Narodne novine«, br. 13/84.).
