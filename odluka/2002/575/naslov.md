@@ -1,0 +1,1 @@
+Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja članova uprave trgovačkih društava obvezno osiguranih prema članku 13. Zakona o m
