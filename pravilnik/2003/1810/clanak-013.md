@@ -1,0 +1,2 @@
+# Članak 13.
+Bakteriološka obrada uzoraka vrši se standardnim postupcima i to metodama kvantifikacije (CFU/ml) i kvalifikacije (vrste bakterija), pri čemu se ne smije uvećavati broj prisutnih mikroorganizama u 1 ml uzorka. Vrsta bakterija koje onečišćuju vodeni okoliš hemodijalize mogu biti: Pseudomonas spp, Flavobacter spp, Acinetobacter spp, Achromobacter spp, Aeromonas spp, Serratia spp, Stenotrophomonas spp, Mycobacterium cholonei, M. fortuitum, M. gordoneae, M. scrofulaceum, M. kansasii, M. avium, M. intracellulare.

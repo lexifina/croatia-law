@@ -1,0 +1,3 @@
+# Članak 11.
+Uzorci za fizikalno-kemijska ispitivanja uzimaju se u kemijski čistu inertnu staklenu ili plastičnu ambalažu u volumenu od najmanje pola litre. Pri uzimanju uzorka vode iz za to određenog mjesta na postrojenju ili cjevovodu potrebno je mjesto uzorkovanja, ako je u pitanju metal spaliti ili ako je u pitanju plastični materijal obrisati 70%-tnim etilnim alkoholom. Poslije toga potrebno je vodu pustiti da teče tri do pet minuta i zatim uzeti uzorak.
+Uzorci tekućina za bakteriološku obradu uzimaju se u sterilne staklene posude volumena od 20 do 50 ml. Čepovi na posudama moraju biti metalni, stakleni ili gumeni, prekriveni aluminijskom folijom i sterilizirani.

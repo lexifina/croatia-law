@@ -1,0 +1,2 @@
+# Članak 3.
+Voda za potrebe hemodijalize koristi se iz zdravstveno ispravne vode javnih vodoopskrbnih sustava koja mora odgovarati odredbama Pravilnika o zdravstvenoj ispravnosti vode za piće (»Narodne novine« br. 46/94 i 49/97). Tehnološki procesi obrade vode za potrebe hemodijalize mogu biti: destilacija, reverzna osmoza, izmjena iona ili druga prikladna metoda koja zadovoljava određene vrijednosti.
