@@ -1,0 +1,7 @@
+# Članak 27.
+POMOĆ PRI NAPLATI POREZA
+1. Države ugovornice pružit će pomoć jedna drugoj prilikom naplate poreza navedenih u članku 2. ovog Ugovora, zajedno s dodatnim naknadama, dodacima, kamatama, troškovima i kaznenim iznosima.
+2. Na zahtjev nadležnog tijela države ugovornice, nadležno tijelo druge države ugovornice osigurat će u skladu s odredbama zakona i propisa koji se odnose na naplatu poreza u drugospomenutoj državi, naplatu poreznih potraživanja navedenih u stavku 1. dospjelih u prvospomenutoj državi. Ta potraživanja nemaju nikakav prioritet u državi od koje se to zatraži i ta država nije obvezna primijeniti nikakva sredstva prisilne naplate koja ne odobravaju propisi države koja je podnijela zahtjev.
+3. Zahtjev spomenut u stavku 2. potkrijepit će se službenom kopijom dokumenta kojim se odobrava njihova provedba, a ako je moguće pratit će ih i službena kopija svake konačne upravne ili sudske odluke.
+4. U svezi s poreznim potraživanjima na koja se može uložiti žalba, nadležno tijelo države ugovornice može, da bi zaštitilo svoja prava, zatražiti od nadležnog tijela druge države ugovornice da poduzme zaštitne mjere u skladu s propisima te druge države ugovornice; odredbe stavaka od 1. do 3. primjenjuju se mutatis mutandis na te mjere.
+5. Odredbe članka 26. stavak 1., primjenjuju se također i na sve podatke koji se temeljem ovog članka dostave nadležnom tijelu druge države ugovornice.

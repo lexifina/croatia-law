@@ -1,0 +1,5 @@
+UGOVOR IZMEĐU REPUBLIKE HRVATSKE
+I KRALJEVINE BELGIJE O IZBJEGAVANJU DVOSTRUKOG OPOREZIVANJA
+I SPRJEČAVANJU IZBJEGAVANJA PLAĆANJA
+POREZA NA DOHODAK I NA IMOVINU
+VLADA REPUBLIKE HRVATSKE I VLADA KRALJEVINE BELGIJE ŽELEĆI sklopiti Ugovor o izbjegavanju dvostrukog oporezivanja i sprječavanja izbjegavanja plaćanja poreza na dohodak i imovinu, utvrdile su kako slijedi:

@@ -1,0 +1,6 @@
+# Članak 20.
+NASTAVNICI I STUDENTI
+1. Sve naknade koje se isplaćuju profesorima i drugim nastavnicima koji su rezidenti države ugovornice a prisutni su u drugoj državi ugovornici u svrhu održavanja nastave ili provedbe znanstvenog istraživanja na sveučilištu ili drugoj službeno priznatoj obrazovnoj ustanovi izuzimaju se poreza u toj drugoj državi ugovornici ako njihov boravak ne prelazi dvije godine od datuma dolaska tih osoba u tu drugu državu ugovornicu.
+2. Student ili vježbenik koji jest, ili je neposredno prije posjeta državi ugovornici bio, rezident druge države ugovornice i koji je prisutan u prvospomenutoj državi ugovornici samo sa svrhom svojeg obrazovanja ili obučavanja izuzet je od oporezivanja u toj državi:
+a) na plaćanja primljena sa svrhom njegova uzdržavanja, obrazovanja ili obučavanja, pod uvjetom da su plaćanja izvršena od izvora izvan te države;
+b) na naknade nastale iz nesamostalnog rada u toj državi ugovornici u svezi s njegovim obrazovanjem ili obučavanjem i tijekom uobičajenog trajanja tog obrazovanja ili obučavanja, ako ta naknada ne prelazi u kalendarskoj godini 120.000 belgijskih franaka ili 3000 eura ili ekvivalentan iznos u hrvatskoj valuti po službenom deviznom tečaju.
