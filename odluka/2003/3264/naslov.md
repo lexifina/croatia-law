@@ -1,0 +1,1 @@
+Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe za opturatora za osigurane osobe za razdoblje od 1. siječnja do 31. ožujka 2004. godine
