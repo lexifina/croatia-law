@@ -1,0 +1,3 @@
+## o uvjetima i rokovima sastavljanja i dostavljanja godišnjeg obračuna za neke pravne osobe
+# Članak 1.
+Ovom uredbom uređuju se uvjeti i rokovi sastavljanja i dostavljanja godišnjeg obračuna za pravne osobe koje ne mogu utvrditi stanje sredstava i obveza prema izvorima sredstava, a i rezultate poslovanja po godišnjem obračunu iz 1991. godine u smislu članka 16. stavka 1. i 2. Zakona o računovodstvu, koji je preuzet kao republički zakon na temeIju članka 1. stavka 1. točke 25. Zakona o preuzimanju saveznih zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91).
