@@ -1,0 +1,6 @@
+# Članak 17.
+Podnošenje isprava
+1. Zahtjev, podnesak ili žalba u vezi s davanjem, bez obzira na to pripada li ono na temelju ovoga Ugovora, može se predati na području druge ugovorne stranke nakon stupanja ovoga Ugovora na snagu, u skladu s Administrativnim sporazumom sklopljenim na temelju članka 20.
+2. Datum na koji je zahtjev, podnesak ili žalba u vezi s utvrđivanjem prava na davanje predana nadležnoj ustanovi jedne ugovorne stranke, smatra se datumom njihova podnošenja nadležnoj ustanovi druge ugovorne stranke. Nadležna ustanova kojoj je zahtjev, podnesak ili žalba predana neodgodivo proslijedit će je nadležnoj ustanovi druge ugovorne stranke.
+3. Žalbom se u ovom članku smatra žalba podnesena upravnom ili drugom odgovarajućem tijelu koje je osnovano prema zakonodavstvu ili radi provedbe zakonodavstva svake od ugovornih stranaka.
+4. Svako izuzeće od plaćanja pristojbi u vezi s potvrdama i ispravama koje se obvezno podnose nadležnom tijelu ili nadležnoj ustanovi na području jedne od ugovornih stranaka, primjenjuje se na potvrde i isprave koje se radi primjene ovoga Ugovora, obvezno podnose nadležnom tijelu ili nadležnoj ustanovi druge ugovorne stranke. Isprave i potvrde koje se izdaju radi primjene ovoga Ugovora izuzete su od ovjeravanja od strane diplomatskih ili konzularnih tijela.
