@@ -1,0 +1,4 @@
+# Članak 5.
+Zaštitne i sigurnosne zone osiguravaju se u dokumentima prostornog uređenja koji se donose na državnoj, područnoj (regionalnoj) i lokalnoj razini radi utvrđivanja funkcionalne cjelovitosti prostora i sustava od interesa za obranu, sukladno elementima iz tabelarnog prikaza ovoga Pravilnika.
+Za obuhvat dokumenata prostornog uređenja iz stavka 1. ovoga članka nadležno tijelo iz članka 6. ovoga Pravilnika izradit će stručnu podlogu zona zabranjene gradnje, zona ograničene gradnje i zona kontrolirane gradnje koja će se uskladiti s prostornim i urbanističkim rješenjima.
+U postupku izdavanja lokacijske dozvole i izvoda iz prostornog plana u slučajevima zona ograničene i zona kontrolirane gradnje, kada nisu osigurane dokumentom prostornog uređenja sudjeluje nadležno tijelo iz članka 6. ovoga Pravilnika određivanjem posebnih uvjeta gradnje.

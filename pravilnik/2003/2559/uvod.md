@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3. Zakona o obrani (»Narodne novine«, broj 33/02., i 58/02.), a po pribavljenom mišljenju ministra zaštite okoliša i prostornog uređenja od 24. rujna 2003., klasa: 023-03/02-01/0011, urbroj: 531-01-03-9 donosim
