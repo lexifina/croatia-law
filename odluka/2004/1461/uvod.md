@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru (»Narodne novine«, br. 55/00. i 107/01.), i članka 91. podstavka 6. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 6/02. - pročišćeni tekst, 41/02., 91/03. i 58/04.), Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora, na 6. sjednici održanoj 26. svibnja 2004. donio je
