@@ -1,0 +1,3 @@
+# Članak 19.
+Pododsjek statistika zarada i troška rada obavlja sljedeće stručne poslove: priprema, izrada i razvoj metodologija i klasifikacija, provedba i obrada statističkih istraživanja, publiciranje i diseminacija statističkih podataka i pokazatelja o prosječnim neto i bruto plaćama zaposlenih. Statističkim istraživanjima koja obuhvaćaju poslovne subjekte osiguravaju se u mjesečnoj periodici podaci o visini i dinamici prosječnih neto i bruto plaća prema djelatnostima, a u godišnjoj periodici podaci o strukturi zaposlenih prema visini neto plaće i o prosječnim neto plaćama prema stupnjevima stručne spreme.
+4.2. Odjel statistike cijena

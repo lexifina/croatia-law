@@ -1,0 +1,3 @@
+# Članak 46.
+Odjel učitavanja i unosa podataka obavlja sljedeće poslove: prijenos podataka statističkih istraživanja s obrazaca na centralno računalo ili neko drugo računalo u mreži Zavoda korištenjem postupaka definiranih u odjelima koji se bave razvojem programske podrške, prema planiranim terminima i dinamici, te praćenje i izvješćivanje o statusu pojedinih poslova. Odjel je zadužen za poslove unosa podataka putem optičkog čitanja i prepoznavanja dokumenata, primjenu ove tehnologije na postojeća i nova statistička istraživanja, pružanje stručne pomoći korisnicima pri redefiniciji statističkih obrazaca, te za manuelni unos podataka prepisivanjem s obrazaca u računala.
+9.6. Odjel statističke obrade

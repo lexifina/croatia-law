@@ -1,0 +1,3 @@
+# Članak 43.
+Odjel razvoja, organizacije i održavanja aplikacija obavlja sljedeće poslove: primjenu standardnih alata i metoda za obradu podataka statističkih istraživanja, zadanih u okviru informacijskog sustava Zavoda, u svrhu kvalitetne, brže i jednostavnije proizvodnje statističkih informacija. Odjel je zadužen za davanje stručne pomoći korisnicima pri definiciji funkcija obrade podataka statističkih istraživanja, odabir programa i alata iz paketa standardnih alata, izradu posebne programske podrške ukoliko standardni alati nisu primjenjivi, izradu aplikacija, testiranje izvođenja, izradu dokumentacije o aplikaciji i uputa za korisnike, održavanje aplikacija, provođenje promjena i dopuna nastalih u projektnom zahtjevu.
+9.3. Odjel programiranja

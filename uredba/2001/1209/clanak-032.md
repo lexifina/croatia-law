@@ -1,0 +1,2 @@
+# Članak 32.
+Odsjek obračuna BDP-a rashodna metoda obavlja sljedeće stručne poslove: izračun godišnjeg BDP-a u tekućim i stalnim cijenama, izračun kvartalnog BDP-a u tekućim i stalnim cijenama, usklađivanje godišnjeg i kvartalnog izračuna BDP-a, izračun regionalnog BDP-a i potencijalno ostalih regionalnih računa. Odsjek ima posebnu zadaću pripreme elemenata za obračun BDP-a po paritetu kupovne moći. Odsjek aktivno pomaže Odjelu sektorskih računa (Odsjeku tekućih računa) u izradi tablica uporabe (metoda robnih tokova).

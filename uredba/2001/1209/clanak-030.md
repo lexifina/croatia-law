@@ -1,0 +1,6 @@
+# Članak 30.
+Odjel obračuna BDP-a obavlja sljedeće stručne poslove: izračun godišnjeg BDP-a u tekućim i stalnim cijenama, izračun kvartalnog BDP-a u tekućim i stalnim cijenama, usklađivanje godišnjeg i kvartalnog izračuna BDP-a na razini cijele Hrvatske. Odjel izračunava regionalni BDP (račun proizvodnje) i potencijalno ostale regionalne račune. Odjel aktivno pomaže Odjelu sektorskih računa (Odsjeku tekućih računa) u izradi metodologije za uspostavu robnih tokova. Odjel dostavlja podatke Organizaciji za ekonomsku suradnju i razvitak (OECD) za potrebe izračuna BDP-a po paritetu kupovne moći. Odjel aktivno koristi rezultate Odjela sektorskih računa (naročito Odsjeka tekućih računa) za izračun BDP-a u tekućim, a pogotovo u stalnim cijenama; kao i za dostavu podataka Organizaciji za ekonomsku suradnju i razvitak (OECD) za potrebe izračuna BDP-a po paritetu kupovne moći. U Odjelu se obavlja usklađivanje obračuna BDP-a sa proizvodne i dohodovne strane (obračun radi Odsjek obračuna BDP-a proizvodna i dohodovna metoda) i sa rashodne strane (obračun radi Odsjek obračuna BDP-a rashodna metoda).
+Za obavljanje dijela poslova iz stavka 1. ovog članka ustrojavaju se:
+6.2.1. Odsjek obračuna BDP-a proizvodna i dohodovna metoda,
+6.2.2. Odsjek obračuna BDP-a rashodna metoda.
+6.2.1. Odsjek obračuna BDP-a proizvodna i dohodovna metoda

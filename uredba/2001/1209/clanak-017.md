@@ -1,0 +1,6 @@
+# Članak 17.
+Odjel statistike tržišta rada obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija i klasifikacija, provedbu i obradu statističkih istraživanja, publiciranje i diseminaciju statističkih podataka i pokazatelja o ekonomski aktivnom stanovništvu, zaposlenima i nezaposlenima, te zaradama koje se ostvaruju u obavljanju ekonomskih aktivnosti. Statističkim istraživanjima osiguravaju se u mjesečnoj periodici, prema djelatnostima, podaci o broju i kretanju zaposlenih i nezaposlenih, prosječne bruto i neto plaće, a u godišnjoj periodici, prema djelatnostima i razinama teritorijalnog ustrojstva, podaci o broju i strukturi zaposlenih prema demografskim, obrazovnim i ekonomskim obilježjima i neto plaće prema stupnju stručne spreme i odabranim zanimanjima. Odjel osigurava podatke Ankete o radnoj snazi u kvartalnoj periodici i na regionalnoj razini; razvija i implementira metodologiju Ankete o trošku rada i o strukturi zarada, Ankete o korištenju vremena; razvija nedostajuće klasifikacije za socijalne statistike; osigurava izračun pripadajućih ekonomskih i socijalnih indikatora.
+Za obavljanje dijela poslova iz stavka 1. ovog članka ustrojavaju se:
+4.1.1. Pododsjek statistika zaposlenosti i nezaposlenosti,
+4.1.2. Pododsjek statistika zarada i troška rada.
+4.1.1. Pododsjek statistika zaposlenosti i nezaposlenosti

@@ -1,0 +1,4 @@
+# Članak 20.
+Odjel statistike cijena obavlja sljedeće stručne poslove: priprema, izrada i razvoj metodologija i klasifikacija, provedba i obrada statističkih istraživanja, publiciranje i diseminacija statističkih podataka i pokazatelja o cijenama. Statističkim istraživanjima osiguravaju se podaci u mjesečnoj periodici po grupama i podgrupama proizvoda i usluga o indeksima cijena na malo, indeksima troškova života, indeksima cijena industrijskih i poljoprivrednih proizvoda i građevnog materijala pri proizvođačima, indeksima cijena ugostiteljskih usluga i indeksima cijena proizvođača građevnog materijala, te godišnje izmjene pondera i oblikovanje indeksne liste za izračunavanje svih indeksa cijena.
+Odjel razvija i implementira metodologiju za nacionalni indeks potrošačkih cijena prema preporukama Međunarodne organizacije rada i harmonizirani indeks potrošačkih cijena prema preporukama EUROSTAT-a.
+4.3. Odjel statistike osobne potrošnje

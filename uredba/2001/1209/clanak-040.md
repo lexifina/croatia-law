@@ -1,0 +1,2 @@
+# Članak 40.
+Pododsjek prijepisa i tiska kontrolira rokove i kvalitetu izrade; podnosi izvještaj o kašnjenju; vodi računa o pravovremenoj nabavi materijala (servisu strojeva, papiru, ostalom materijalu, vanjskim uslugama). Tehnički uređuje i kreira tabele za publikacije i obrasce; radi na prijelomu publikacija, izradi grafikona, unosu teksta; vrši montažu, snimanje, razvijanje i tisak offsetnih ploča kao i umnožavanje materijala.
