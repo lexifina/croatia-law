@@ -1,0 +1,2 @@
+# Članak 2.
+Odredbe ove uredbe odnose se na državni proračun, proračune jedinice lokalne samouprave i uprave, izvanproračunske fondove, tijela državne uprave i državne vlasti, tijela jedinice lokalne samouprave i uprave, kao i druge pravne osobe kojima se sredstva za plaće ili izdaci osiguravaju u državnom proračunu i proračunima jedinica lokalne samouprave (u daljnjem tekstu: proračun i proračunski korisnici).
