@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o eksproprijaciji ("Narodne novine", br. 46/82, 28/87 i 39/88), a povodom zahtjeva INA - Industrija nafte - Naftaplin Zagreb, iz Zagreba, Šubićeva 29, Vlada Republike Hrvatske je na sjednici održanoj 20. veljače 1991. donijela
