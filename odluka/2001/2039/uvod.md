@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 11. stavka 1. alineja 11. Statuta Grada Slunja (»Glasnik Karlovačke županije« 28/01) Gradsko vijeće Grada Slunja na svojoj 7. sjednici održanoj 21. prosinca 2001. godine donijelo je
