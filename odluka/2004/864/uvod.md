@@ -1,0 +1,1 @@
+Na temelju članka 23. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001 i 199/2003), a u vezi sa člankom 23. stavkom 1. Zakona o udrugama (»Narodne novine«, broj 88/2001), Vlada Republike Hrvatske je na sjednici održanoj 12. ožujka 2004. godine donijela
