@@ -1,0 +1,1 @@
+Na temelju članka 39. stavak 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i točke XXI. Odluke o obveznoj pričuvi (»Narodne novine«, br. 203/2003.), guverner Hrvatske narodne banke donio je 13. siječnja 2004.
