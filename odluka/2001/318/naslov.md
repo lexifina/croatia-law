@@ -1,0 +1,1 @@
+Odluka o stavljanju izvan snage odluka o prodaji stanova u vlasništvu Republike Hrvatske kojima upravljaju Ministarstvo obrane, Ministarstvo unutarnjih poslova i Ministarstvo pravosuđa i Odluke o zamj
