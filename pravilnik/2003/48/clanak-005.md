@@ -1,0 +1,2 @@
+# Članak 5.
+U provedbi općih mjera fizičkog osiguranja i zaštite kapaciteta za proizvodnju i remont NVO-a, objekata za smještaj i čuvanje NVO-a te objekata u kojima se pruža usluga u području proizvodnje, remonta i čuvanja NVO-a odnosno u kojima su smještena prometna sredstva za prijevoz NVO-a, službe ili jedinice za osiguranje i zaštitu postupaju u skladu s propisima kojima se uređuje način rada djelatnika fizičkog osiguranja i zaštite.

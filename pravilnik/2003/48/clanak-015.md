@@ -1,0 +1,2 @@
+# Članak 15.
+Nadležne ustrojstvene jedinice Ministarstva obrane i Ministarstva unutarnjih poslova pružaju pravnim osobama stručnu pomoć u pripremi i donošenju naputaka, pri utvrđivanju potrebnih mjera osiguranja i zaštite, utvrđivanju vrste i stupnja tajnosti dokumenata, podataka o sredstvima NVO-a, objektima posebno važnim za obranu te određenim radnim mjestima, dužnostima i poslovima posebno važnim za Oružane snage i Ministarstvo unutarnjih poslova na način kako je to utvrđeno zakonima.

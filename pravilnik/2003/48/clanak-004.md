@@ -1,0 +1,9 @@
+## OPĆE MJERE OSIGURANJA I ZAŠTITE PROIZVODNJE, PROMETA I REMONTA NVO-a
+# Članak 4.
+Opće mjere osiguranja i zaštite su:
+1. utvrđivanje vrste i stupnja tajnosti podataka u području proizvodnje, prometa i remonta NVO-a,
+2. izrada prosudbe ugroženosti i plana osiguranja i zaštite proizvodnje, prometa i remonta NVO-a u skladu s Uredbom Vlade RH o kriterijima za odabir, mjerama za zaštitu te načinu označavanja vojnih i drugih objekata posebno važnih za obranu,
+3. dovođenje u funkciju sustava fizičke i tehničke zaštite na temelju sigurnosne prosudbe i obveza utvrđenih zakonskim propisima iz područja sigurnosti na temelju cjelovita plana osiguranja i zaštite proizvodnje, prometa i remonta NVO-a koji sadrži:
+- mjere fizičkog osiguranja i zaštite koje obuhvaćaju organiziranje i djelovanje službi ili jedinica za osiguranje i zaštitu; izgradnju zaštitnih ograda, zidova, prepreka, rešetaka, prilaznih putova i putova za evakuaciju; ugradnju sigurnosnih vrata, kasa, ormara; kontrolu ulaza i izlaza osoba, prometnih sredstava i prtljage
+- mjere tehničke zaštite koje podrazumijevaju sukladnost mikrolokacije objekata u kojima se obavlja djelatnost iz ovoga Pravilnika s odredbama Pravilnika o zaštitnim i sigurnosnim zonama, osobito instaliranje i funkcioniranje elektronskih sustava za nadzor, protupožarnu, klimatsku i drugu zaštitu proizvodnih i remontnih kapaciteta i prostorija za smještaj i čuvanje NVO-a i tajnih podataka te kontrolu osoba, prtljage i predmeta,
+4. provođenje organizacijskih mjera koje obuhvaćaju propisivanje dokumenata i provedbu nadzora nad osiguranjem i zaštitom tajnosti dokumenata, nadzor nad ponašanjem djelatnika u proizvodnji, prometu i remontu NVO-a u skladu s unutarnjim ustrojstvom organizacijske jedinice te nadzor nad provedbom općih mjera i postupaka osiguranja i zaštite proizvodnje, prometa i remonta NVO-a.

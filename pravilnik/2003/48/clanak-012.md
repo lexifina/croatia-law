@@ -1,0 +1,3 @@
+# Članak 12.
+Pravne osobe u čijoj su nadležnosti objekti za proizvodnju, promet i remont NVO-a obvezne su u prosudbi ugroženosti i planu osiguranja predvidjeti, planirati i propisati posebne mjere osiguranja, zaštite i zbrinjavanja u slučaju rata ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske ili drugih izvanrednih okolnosti (elementarne nepogode i slično) u suradnji s Ministarstvom gospodarstva, a na temelju mišljenja ministra obrane.
+Glede osiguranja i zaštite objekata za proizvodnju, promet i remont NVO-a nositelji obrambenih priprema u miru postupaju prema odredbama Zakona o obrani.

@@ -1,0 +1,2 @@
+# Članak 10.
+Osim mjera iz članka 9. ovoga Pravilnika, pravne osobe obvezne su poduzimati kao posebnu mjeru i odgovarajuće postupke zaštite tajnosti dokumenata o NVO-u, podataka o sredstvima NVO-a, određenim radnim mjestima, dužnostima i poslovima posebno važnim za Oružane snage, ratnih planova proizvodnje i drugih dokumenata označenih vrstom i stupnjem tajnosti u skladu s propisima o tajnosti podataka iz područja obrane te propisima o zaštiti osoba i imovine.
