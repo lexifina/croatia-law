@@ -1,0 +1,2 @@
+# Članak 13.
+Ako poslovni subjekt želi promijeniti status računa za redovno poslovanje, u smislu da on prestaje biti glavni račun i da se taj status određuje drugom računu, poslovni subjekt dostavlja banci pisanu izjavu o tome koji se njegov drugi račun određuje kao glavni račun. Izjava treba sadržavati podatke navedene u članku 12. stavku 1. ove odluke. Promjena statusa na oba računa mora se provesti isti dan.
