@@ -1,0 +1,1 @@
+Na temelju točke IV. Odluke o utvrđivanju visine novčanih primanja i naknada vojnim i civilnim invalidima rata, osiguranicima na dodatnom porodiljskom dopustu i skraćenom radnom vremenu te za opremu novorođenog djeteta ("Narodne novine", br. 49/95), ministar obrane i ministar rada i socijalne skrbi, donose
