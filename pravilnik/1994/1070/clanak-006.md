@@ -1,0 +1,2 @@
+# Članak 6.
+Obračunati i naplaćeni posebni porez koji je obračkrnala i naplatila carinarnica (u skladu sa carinskim propisima) pri uvozu bezalkoholnih pića u trenutku carinjenja odnosno isporuke slobodnim carinskim prodavaonicama, specijaliziranim skladištima i slobodnim zonama, u smislu čl. 8. stavka.3. i 5., te čl. 9. st.avka 2. 2.akona o posebnom porezu na bezalkohona pića, porezni obveznici - uvoznici iskazuju u Izvješću mjesečno odnosno godišnje na Obrascu MI-BE, u rokovima iz čl. 5. ovoga Pravilnika.
