@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o zaštiti prirode ("Narodne novine", br. 30/94 i 72/94), članka 14. stavka 2., u svezi s člankom 11. stavkom 2. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija ("Narodne novine" br. 131/97), ravnatelj Državne uprave za zaštitu prirode i okoliša donosi
