@@ -1,0 +1,2 @@
+# Članak 15.
+Zdravstvenu zaštitu u djelatnostima na sekundarnoj razini sukladno općim aktima Zavoda provode klinički bolnički centri, kliničke bolnice, opće bolnice, specijalne bolnice, poliklinike u vlasništvu države, županije, odnosno Grada Zagreba, državni zdravstveni zavodi županijski zavodi za javno zdravstvo, Zavod za javno zdravstvo Grada Zagreba i iznimno domovi zdravlja, privatni zdravstveni djelatnici u zakupu osnovom Pravilnika o zakupu i do sada ugovoreni privatni zdravstveni djelatnici - specijalisti.
