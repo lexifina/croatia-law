@@ -1,0 +1,3 @@
+# Članak 2.
+ODREĐIVANJE MREŽE
+Ugovorne stranke prihvaćaju odredbe ovog Sporazuma kao koordiniranog međunarođnog plana za razvoj i djelovanje mreže važnih međunarodnih linija kombiniranog prijevoza i sličnih instalacija (u daljnjem tekstu: "međunarodna, mreža kombiniranog prijevoza") koji namjeravaju poduzeti i u okviru svojih nacionalnih programa. Međunarodna mreža kombiniranog prijevoza sastoji se od željezničkih linija (sadržano u Prilogu I. ovog Sporazuma) i kombiniranih prijevoznih terminala, graničnih prijelaza, mjesta za promjenu kolosijeka i trajektnih veza/luka značajnih za međunarodni kombinirani prijevoz (što je sadržano u Prilogu II. ovog Sporazuma).
