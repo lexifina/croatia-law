@@ -1,0 +1,4 @@
+# Članak 2.
+Pod dezinfekcijom prijevoznih sredstava, u smislu ovog pravilnika, razumijeva se čišćenje i dezinfekcija samih prijevoznih sredstava te pribora za vezivanje, čišćenje, hranjenje, napajanje i istovar životinja (rampi) koji se stalno nalaze u prijevoznim sredstvima.
+Pod prijevoznim sredstvima, u smislu ovog pravilnika, razumijevaju se sva prijevozna sredstva željezničkog, cestovnoga, pomorskoga, riječnoga i zračnoga prometa, te kontejneri (u daljnjem tekstu: prijevozna sredstva), kojima se prevoze pošiljke.
+Prijevoznim sredstvima, u smislu stavka 2. ovog članka, ne smatraju se: skele, ribarski objekti koji se upotrebljavaju isključivo za ribarenje i plovni objekti kojima se u lokalnom prometu prevoze: pošiljke riba u svježem stanju ili pošiljke u otvorenoj ambalaži namijenjene neposrednoj potrošnji.

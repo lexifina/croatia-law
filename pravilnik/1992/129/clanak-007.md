@@ -1,0 +1,4 @@
+# Članak 7.
+Smeće, nečistoća i otpaci iz željezničkih i cestovnih prijevoznih sredstava skupljaju se u objektima za dezinfekciju prijevoznih sredstava i slažu u betonske bazene i kontejnere. Ako se posumnja na zaraznu bolest, smeće se prije odlaganja nakvasi otopinom klornog vapna s najmanje 5% djelatnog klora.
+Smeće, nečistoća i otpaci na mjestima utovara i istovara moraju se skupljati u,betonske bazene ili kontejnere. Ako se sumnja na zarazu, dezinfekcija se obavlja na način propisan u stavku 1. ovog članka.
+Ako se zbog sumnje na zarazu obavlja pojačana dezinfekcija prijevoznih sredstava, a nema peći za spaljivanje, prikupljeno smeće, nečistoća i otpaci moraju se na betonskoj, asfaltnoj ili kamenoj podlozi dobro nakvasiti otopinom klornog vapna u kojem ima najmanje 5% otopine djelatnog klora ili kaporita, pa se više puta promiješaju i dobro sabiju u betonske jame ili pažljivo zakopaju.

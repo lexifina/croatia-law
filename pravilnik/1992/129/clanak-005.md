@@ -1,0 +1,5 @@
+# Članak 5.
+Željeznička prijevozna sredstva moraju se dezinficirati najkasnije u roku od 96 sati od istovara, a ostala prijevozna sredstva odmah nakon istovara pošiljaka.
+Nadležni organ koji obavi obvezni veterinarsko-sanitarni pregled pri istovaru pošiljaka iz željezničkih prijevoznih sredstava, utvrdit će odmah nakon istovara pošiljaka da li će se obaviti obična ili pojačana dezinfekcija i na željeznička prijevozna sredstva zalijepit će listić s otiskanim natpisom DEZINFICIRATI odnosno DEZINFICIRATI POJAČANO. U dnu listića upisuje se dan i sat istovara i stavlja se žig željezničkog kolodvora na kojem je istovar obavljen.
+Cestovna prijevozna sredstva kojima su prevožene životinje i koja se vraćaju prazna iz inozemstva u Republiku Hrvatsku moraju, o obavljenoj dezinfekciji nakon istovara, imati potvrdu nadležnog organa zemlje iz koje dolaze. Ako dezinfekcija tih sredstava nije obavljena, granični veterinarski inspektor odredit će da se dezinfekcija obavi na graničnom prijelazu, ili na drugom za to određenom mjestu.
+Ako se cestovna ili željeznička prijevozna sredstva upućuju na dezinfekciju u drugo mjesto, moraju se zatvoriti i plombirati.
