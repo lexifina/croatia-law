@@ -1,0 +1,3 @@
+# Članak 10.
+Odsjek za pravo Europske unije i pravo Vijeća Europe I vrši analizu usklađenosti nacrta prijedloga propisa s propisima Europske unije, s obvezama preuzetim Sporazumom o stabilizaciji i pridruživanju između Europskih zajednica i njihovih država članica i Republike Hrvatske i s pravnim instrumentima Vijeća Europe te izrađuje mišljenja o usklađenosti nacrta prijedloga propisa u slijedećim područjima: slobodno kretanje dobara, osoba, usluga i kapitala, trgovačko pravo, pravo tržišnog natjecanja, promet, porezi, ekonomska i monetarna unija, zaštita potrošača i zdravlja, pravosuđe i unutarnji poslovi, carinska unija, vanjski odnosi, zajednička vanjska i sigurnosna politika te institucije.
+b) Odsjek za pravo Europske unije i pravo Vijeća Europe II

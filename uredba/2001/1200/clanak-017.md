@@ -1,0 +1,2 @@
+# Članak 17.
+Odjel za analitiku obavlja stručne poslove vezane za: pripremu analitičke podloge za kontinuirano praćenje ključnih politika Europske unije, prati analitičke dokumente zemalja kandidata vezano uz gospodarske aspekte integriranja, potiče i razvija redovitu praksu provođenja analiza gospodarskih učinaka integracije uključujući utjecaje usvajanja acquisa na gospodarstvo Republike Hrvatske, te izrađuje očitovanje Ministarstva na različite dokumente koji se tiču gospodarskih prilagodbi i potpadaju u nadležnost Odjela.

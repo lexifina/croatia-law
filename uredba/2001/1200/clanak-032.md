@@ -1,0 +1,2 @@
+# Članak 32.
+Ovlasti i odgovornosti državnih službenika i namještenika pobliže će se utvrditi Pravilnikom o unutarnjem redu Ministarstva.

@@ -1,0 +1,7 @@
+## 4. UPRAVA ZA STRATEGIJU INTEGRIRANJA
+# Članak 15.
+Uprava za strategiju integriranja koordinira aktivnosti tijela državne uprave u cilju efikasne provedbe gospodarskih prilagodbi Republike Hrvatske prema Europskoj uniji, prati zbivanja u ključnim politikama Europske unije relevantnim za Hrvatsku i napredak zemalja kandidata u procesu prilagodbi i integriranja u Europsku uniju, radi na uspostavi i unapređenju koordinacijskih mehanizama u Republici Hrvatskoj na svim razinama vezano uz gospodarske aspekte integriranja, koordinira rad na praćenju provedbi procesa gospodarskih prilagodbi Republike Hrvatske prema Europskoj uniji, potiče i razvija redovitu praksu provođenja analiza gospodarskih posljedica integracije uključujući utjecaje usvajanja acquisa na gospodarstvo, inicira i koordinira rad na strateškim dokumentima vezano uz gospodarske aspekte integriranja u Europsku uniju, priprema analitičke podloge za proces pregovora s Europskom unijom vezano uz gospodarska pitanja, pruža stručnu podršku tijelima uključenim u proces pregovaranja s Europskom unijom i implementaciju Sporazuma o stabilizaciji i pridruživanju, koordinira i prati provedbu Sporazuma o stabilizaciji i pridruživanju s Europskom unijom, koordinira stvaranje informacijske podloge potrebne tijelima Europske unije za izradu analiza i mišljenja o mogućnostima prijema Republike Hrvatske u punopravno članstvo.
+U Upravi za strategiju integriranja ustrojavaju se:
+1. Odjel za koordinaciju i praćenje provedbe
+2. Odjel za analitiku.
+1. Odjel za koordinaciju i praćenje provedbe

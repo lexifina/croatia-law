@@ -1,0 +1,3 @@
+# Članak 16.
+Odjel za koordinaciju i praćenje provedbe obavlja poslove vezane za: pružanje stručne podrške tijelima uključenim u proces pregovaranja s Europskom unijom, osmišljava, koordinira i obrađuje materijale vezane za pokretanje rada na izradi strateških dokumenata za pridruživanje Republike Hrvatske Europskoj uniji, koordinira i analizira implementaciju Sporazuma o stabilizaciji i pridruživanju, radi na stvaranju informacijske podloge potrebne tijelima Europske unije za izradu analiza i mišljenja o mogućnostima prijema Republike Hrvatske u punopravno članstvo, te koordinira tijela državne uprave u procesu prilagođavanja hrvatskog gospodarstva uvjetima funkcioniranja jedinstvenog tržišta te gospodarskog sustava Europske unije.
+2. Odjel za analitiku
