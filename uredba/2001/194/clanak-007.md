@@ -1,0 +1,7 @@
+# Članak 7.
+Radi davanja mišljenja i prijedloga Vladi Republike Hrvatske o pitanjima u vezi poslova suradnje s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima, te davanje smjernica za rad Ureda, osniva se Savjet za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima (u daljnjem tekstu: Savjet). Savjet može donositi i odluke o pitanjima suradnje s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima za koje ga ovlasti Vlada Republike Hrvatske.
+Savjet radi u užem i proširenom sastavu. U proširenom sastavu Savjet priprema odluke i mišljenja te zauzima stajališta oko pravnih pitanja. Odluke, mišljenja i prijedloge Vladi, te smjernice za rad Ureda, Savjet donosi u užem sastavu.
+Sjednice Savjeta saziva i vodi potpredsjednik, zamjenik predsjednika Vlade, koji je ujedno i predsjednik Savjeta, ili član Savjeta kojeg on ovlasti. Savjet se sastaje prema potrebi, a najmanje jednom u tri mjeseca.
+Savjet u užem sastavu čine potpredsjednik, zamjenik predsjednika Vlade, ministar vanjskih poslova, ministar obrane, ministar unutarnjih poslova, ministar pravosuđa, uprave i lokalne samouprave i ministar hrvatskih branitelja iz Domovinskog rata.
+Savjet u širem sastavu čine, pored članova užeg Savjeta, i istaknuti pravni stručnjaci, te druge osobe koje imenuje Vlada Republike Hrvatske. Članovi Savjeta koji nisu državni dužnosnici dobivaju za svoj rad naknadu u visini koju odredi Vlada Republike Hrvatske.
+Savjet može odlučiti da njegovim sjednicama prisustvuju i druge osobe.
