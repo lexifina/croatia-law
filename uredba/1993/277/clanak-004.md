@@ -1,0 +1,2 @@
+# Članak 4.
+Zahtjev za izdavanje odobrenja za snimanje iz zraka i zahtjev za izdavanje odobrenja za objavljivanje aerosnimki podnosi se Ministarstvu graditeljstva i zaštite okolišaUpravi za geodetske i katastarske poslove. Inozemne pravne i fizičke osobe dužne su uz zahtjev za izdavanje odobrenja za snimanje iz zraka, pribaviti i suglasnost Minisfarstva obrane, Odobrenje o zahtjevu iz stavka 1. ovoga članka donosi se u roku od 15 dana po primitku zahtjeva, a dostavlja se podnositelju, Ministarstvu obrane i Ministarstvu pomorstva, prometa i veza - Upravi kontrole letenja.
