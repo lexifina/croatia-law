@@ -1,0 +1,1 @@
+Sukladno odredbi članka 9. Zakona o izdavanju i prometu vrijednosnim papirima ("Narodne novine" broj 107/95), Komisija za vrijednosne papire Republike Hrvatske na sjednici održanoj 23. lipnja 1997. donijela je

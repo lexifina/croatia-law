@@ -1,0 +1,4 @@
+## Službena tajna
+# Članak 18.
+Svi članovi ili bivši članovi te zaposlenici ili bivši zaposlenici Komisije, suradnici i bivši suradnici, članovi i bivši članovi savjetodavnih tijela Komisije moraju čuvati informacije o materijalnim činjenicama ili povlaštenim činjenicama koje saznaju pri obnašanju svojih obveza ili obavljanju zadaća u Komisiji ili na drugi način, i to od bilo koje osobe, osim kada su nato ovlašteni zakonom. Takve se informacije smatraju službenom tajnom. Ne smiju se davati savjeti glede trgovine vrijednosnim papirima i investiranja u vrijednosne papire ili davanja mišljenja o povoljnosti ili nepovoljnosti pribavljanja ili prodaje vrijednosnih papira koji su u prometu na teritoriju Republike Hrvatske.
+Zabrana aktivnosti navedenih u prethodnom stavku ovoga članka prestaje nakon isteka roka od 6 mjeseci od dana prestanka obavljanja funkcija u Komisiji.
