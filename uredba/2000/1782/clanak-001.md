@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom Uredbom uređuje se plaćanje posebnih troškova Državnog zavoda za intelektualno vlasništvo (u daljnjem tekstu: Zavod) koji nastaju tijekom provođenja postupaka za priznanje i održavanje prava industrijskog vlasništva u vrijednosti prema Zakonu o patentima, Zakonu o žigu, Zakonu o industrijskom obličju, Zakonu o zemljopisnim oznakama podrijetla proizvoda i usluga i Zakonu o zaštiti planova rasporeda integriranih sklopova i troškova koji nastaju provođenjem postupaka za izdavanje odobrenja za obavljanje djelatnosti ostvarivanja autorskog prava i srodnih prava prema Zakonu o autorskom pravu, te pružanjem informacijskih usluga određenih ovom Uredbom.
+Troškovi iz stavka 1. ovoga članka plaćaju se u visini utvrđenoj Tarifom posebnih troškova i troškova za pružanje informacijskih usluga (u daljnjem tekstu: Tarifa), koja je sastavni dio ove Uredbe.

@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o upravnim pristojbama u području prava intelektualnog vlasništva ("Narodne novine", broj 64/2000), Vlada Republike Hrvatske je na sjednici održanoj 31. kolovoza 2000. godine donijela
