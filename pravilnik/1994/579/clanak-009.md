@@ -1,0 +1,2 @@
+# Članak 9.
+Osobi, koja temeljem provjere znanja završi program, izdaje se uvjerenje o uspješno završenom programu ili stručnom usavršavanju odnosno o stručnoj osposobljenosti. Uvjerenje iz stavka I. ovoga članka izdaje nositelj odgoja i obrazovanja ili stručnog usavršavanja odnosno stručnog osposobljavanja u tehničkoj kulturi. Obrazac uvjerenja iz stavka 1. ovoga članka sastavni je dio ovoga pravilnika.
