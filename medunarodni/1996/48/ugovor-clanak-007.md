@@ -1,0 +1,6 @@
+# Članak 7.
+SVJEDODŽBE I DOZVOLE
+1. Svjedodžbe o plovidbenosti, potvrde o sposobnosti i dozvole izdane ili priznate važećim od strane jedne ugovorne stranke, a koje su na snazi, bit će priznate kao važeće od strane druge ugovorne stranke u svrhu obavljanja ugovorenog prometa na linijama utvrđenim u Dodatku, uz uvjet da su takve svjedodžbe i dozvole izdane ili priznate važećim na temelju i u skladu sa standardima uspostavljenim na osnovu Konvencije.
+Svaka ugovorna stranka zadržava pravo da odbije priznati, u svrhu letova iznad svojeg vlastitog teritorija, o sposobnosti i dozvole koje su dane njenim državljanima od strane druge ugovorne stranke ili bilo koje druge države.
+2. Ako su svjedodžbe ili dozvole navedene u stavku 1. ovog članka izdane ili priznate važećim u skladu s uvjetima drugačijim od standarda ustanovljenih na osnovu Konvencije, i ako su takve razlike podnesene Međunarodnoj organizaciji civilnog zrakoplovstva, zrakoplovne vlasti druge ugovorne stranke mogu zatražiti konzultacije u skladu s člankom 17. ovog Sporazuma, u svrhu da se uvjere da su uvjeti o kojima se radi prihvatljivi za njih.
+Nemogućnost postizanja zadovoljavajućeg sporazuma u stvarima koje se tiču sigurnosti letenja činit će osnovu za postupanje sukladno članku 5. ovog Sporazuma.

@@ -1,0 +1,8 @@
+# Članak 15.
+PRODAJA I PRIHODI
+1. Svaki određeni prijevoznik imat će pravo prodavati vlastiti zračni prijevoz na teritoriju druge ugovorne stranke direktno i, po vlastitom izboru, putem svojih zastupnika.
+Svaki zračni prijevoznik imat će pravo prodavati prijevoz u valuti tog teritorija ili, po vlastitom izboru, u slobodnoj konvertibilnoj valuti drugih zemalja.
+Svaka osoba bit će slobodna kupiti takav prijevoz u valuti prihvaćenoj za prodaju od tog zračnog prijevoznika.
+2. Svaka ugovorna stranka daje određenom prijevozniku druge ugovorne stranke pravo slobodnog prijenosa viška prihoda u odnosu na troškove ostvarene od određenog prijevoznika na svojem teritorijju u skladu sa nacionalnim zakonima i primjenjivim deviznim propisima. Takav prijenos bit će izvršen na osnovama službene tečajne liste za tekuća plaćanja, ili, ako nema službene tečajne liste, po pretežnim stranim tečajnim listama za tekuća plaćanja, primjenjivom na dan postavljanja zahtjeva za prijenos od strane određenog prijevoznika druge ugovorne stranke i neće biti predmet bilo kakvim taksama osim uobičajenih uslužnih naknada naplativih od banke za takvu transakciju.
+3. Svaka ugovorna stranka će, na osnovama uzajamnosti, izuzeti određenog prijevoznika druge ugovorne stranke od plaćanja bilo kojeg poreza na prihod ili dobit ostvarenog od tog zračnog prijevoznika na teritoriju prve ugovorne stranke od obavljanja međunarodnog zračnog prometa, kao i bilo kakvog poreza na promet i kapital.
+Ova odredba neće se primjenjivati ako je konvencija o izbjegavanju dvostrukog oporezivanja, i koja obuhvaća slična izuzeća, na snazi između dvije ugovorne stranke.

@@ -1,0 +1,6 @@
+# Članak 14.
+ZAHTJEVI OSOBLJA
+1. Određenom prijevozniku jedne ugovorne stranke bit će dozvoljeno, na osnovama uzajamnosti, da drži na teritoriju druge ugovorne stranke svoje predstavnike i komercijalno, operativno i tehničko osoblje prema potrebama u svezi s obavljanjem ugovorenog prometa.
+2. Ovi zahtjevi za osobljem mogu, po izboru određenog prijevoznika, biti zadovoljeni svojim vlastitim osobljem bilo kojeg državljanstva ili korištenjem usluga bilo koje druge organizacije, poduzeća ili zračnog prijevoznika koji obavlja djelatnost na teritoriju druge ugovorne stranke i koji je ovlašten da obavlja takve usluge na teritoriju te ugovorne stranke.
+3. Predstavnici i osoblje podlijegat će zakonima i propisima na snazi druge ugovorne stranke. Sukladno tim zakonima i propisima svaka ugovorna stranka će, na osnovama uzajamnosti i u najkraćem vremenu, izdati potrebne radne dozvole, vize za zaposlenje ili druge slične dokumente predstavnicima i osoblju navedenom u stavku 1. ovog članka.
+4. U granicama mogućnosti dozvoljenim nacionalnim zakonom, obje ugovorne stranke će postupati neovisno od uvjeta za radne dozvole, vize za zaposlenje i druge slične dokumente za osoblje koje obavlja određene privremene usluge i poslove.
