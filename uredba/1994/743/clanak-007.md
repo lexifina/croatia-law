@@ -1,0 +1,2 @@
+# Članak 7.
+Najniža osnovna plaća za razdoblje lipanj - listopad 1994. godine utvrđuje se u iznosu od 667.000 HRD. Mininalna plaća za razdoblje lipanj - listopad 1994. godine utvrđuje se u iznosu od 536.913 HRD. Minimalna plaća. koja služi kao osnovica za ostvarivanje prava po osnovi socijalne sigurnosti. utvrđuje se u neto iznosu od 250.000 HRD za razdoblje lipanj - listopad 1994. godine i ne smatra se oporezivim dohotkom u smislu propisa o oporezivanju dohodaka.

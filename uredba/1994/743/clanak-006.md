@@ -1,0 +1,2 @@
+# Članak 6.
+Banke, osiguravajuča društva i druge financijske organizacije, Hrvatski fond za privatizaciju, Hrvatska gospodarska komora i druga udruženja, Zavod za platni promet. te javna poduzeća iz članka 1. ove Uredbe, mogu povećati prosječnu masu plaća u razdoblju lipanj - listopad 1994. godine za 2% u odnosu na masu isplaćenu u svibnju 1994. godine. Utvrđeni iznos mase plaća iz stavka 1. ovoga članka korigira se za postotak promjene broja zaposlenih.
