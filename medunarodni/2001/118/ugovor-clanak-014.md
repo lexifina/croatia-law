@@ -1,0 +1,2 @@
+# Članak 14.
+Nositeljima identifikacijskih dokumenata navedenih u članku 12. ovoga Ugovora, dozvoljen je ulazak ili napuštanje teritorija druge ugovorne stranke kao putnika u bilo kojem prijevoznom sredstvu u svrhu dolaska na svoj brod ili prelasku na drugi brod, prolaska u tranzitu radi dolaska na brod u drugoj državi radi repatrijacije, u hitnom slučaju ili iz bilo kojeg razloga koji odobre vlasti te druge ugovorne stranke.

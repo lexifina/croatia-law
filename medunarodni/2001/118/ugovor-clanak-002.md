@@ -1,0 +1,2 @@
+# Članak 2.
+Ugovorne stranke će, razvoj svojih pomorskih odnosa utemeljiti na načelima slobodnog i poštenog natjecanja i slobodi plovidbe te će se suzdržati od svake aktivnosti koja bi mogla štetno djelovati na međunarodni pomorski promet i trgovinu. Načelo nediskriminacije primjenjivat će se na trgovačke akivnosti državljana ili pravnih osoba koje upravljaju brodovima pod zastavom jedne ugovorne stranke na teritoriju druge ugovorne stranke.
