@@ -1,0 +1,3 @@
+# Članak 1.
+Područje stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Tovarnik smješteno je na željezničkom kolodvoru Tovarnik i obuhvaća k.č. 2508 k.o. Tovarnik, a proteže se u dužini od 803 metra i širine 23 metra, gdje se nalazi pet kolosijeka za putnički i teretni promet, tri kontejnera koje koriste djelatnici granične policije, djelatnici carine i veterinarske i fitosanitarne službe te zidani objekt zgrade željezničkog kolodvora s čekaonicom i parkirališnim prostorom za osobna vozila te prometnim i ostalim uredima koje koriste djelatnici Hrvatskih željeznica.
+Ukupna površina područja graničnog prijelaza iznosi 18469 m2.
