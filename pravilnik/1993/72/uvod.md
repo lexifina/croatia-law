@@ -1,0 +1,1 @@
+Na temelju članka 27. stavak 3. i članka 30. stavak 2. Zakona o obrani ("Narodne novine", br. 49/91, 53A/91, 73/91, 19/92, 55/92) i članka 123. stavak 2. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 41/90, 47/90, 53A/91), ministar obrane donosi
