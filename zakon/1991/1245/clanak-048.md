@@ -1,0 +1,3 @@
+# Članak 48.
+Prijevoznici koji obavljaju prijevoz željeznicom, brodom, avionom ili sredstvima cestovnog prometa i organi carinske službe dužni su o svakoj prispjeloj pošiljci iž članka 46. stavka 1. ovoga zakona odmah obavijestiti graničnu veterinsrsku stanicu.
+Troškove nastale zbog primjene mjera pri uvozu, izvozu i provozu životinja, proizvoda životinjskog podrijetla, otpadne animalne tvari namijenjene utilizaciji, stočne hrane, sirovina i aditiva što služe za proizvodnju hrane, sjemena za umjetno osjemenjivanje, embrija i predmeta kojim se može prenositi zarazna bolest, troškove karantene i produžene karantene kao i troškove nastale primjenom mjera u karanteni, plaća uvoznik, izvoznik odnosno provoznik.

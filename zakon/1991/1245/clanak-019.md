@@ -1,0 +1,6 @@
+# Članak 19.
+Pod veterinarskim nadzorom nalazi se stočna hrana, proizvodi životinjskog podrijetla namijenjeni prehrani životinja i druge sirovine i aditivi koji služe za proizvodnju stočne hrane te objekti u kojima se proizvodi stočna hrana.
+Zabranjena je proizvodnja, promet i upotreba stočne hrane, proizvoda životinjskog podrijetla namijenjenih prehrani životinja i drugih sirovina koje služe za njihovu proizvodnju ako u količinama većim od dopuštenih sadrže patogene bakterije, gljivice, plijesni i njihove produkte (egzotoksine i endotoksine), hormone, antibiotike, pesticide, soli teških metala, radioaktivne tvari i druge supstancije štetne za zdravlje životinja i posredno zdravlje ljudi i stočne hrane neodgovarajućeg sastava što utječu na njenu biološku vrijednost i upotrebljivost.
+Sol za prehranu životinja mora biti jodirana.
+Ovisno o stupnju ugroženosti zdravlja životinja i posredno zdravlja ljudi od zdravstveno neispravne stočne hrane, ministar poljoprivrede i šumarstva može propisati sistematsko ispitivanje stočne hrane, proizvoda životinjskog podrijetla namijenjenih prehrani životinja i drugih sirovina i aditiva što služe za proizvodnju stočne hrane radi ocjene zdravstvene ispravnosti.
+Propise o uzimanju uzoraka iz stavka 4. ovoga članka donosi ministar poljoprivrede i šumarstva.

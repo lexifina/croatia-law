@@ -1,0 +1,2 @@
+# Članak 33.
+Organi unutarnjih poslova pružaju, u granicama svojih nadležnosti, organima koji poduzimaju mjere za zaštitu životinja od zaraznih bolesti na njihov zahtjev. pomoć pri blokiranju zaraženih mjesta i područja, ograničenju prometa životinja, zabrani kretanja životinja i osoba na zaraženom području, a i pri provedbi drugih mjera za zaštitu životinja od zaraznih bolesti predviđenih ovim zakonom.

@@ -1,0 +1,8 @@
+# Članak 56.
+Klanje životinja iz članka 51. stavka 1. ovoga zakona čije je meso namijenjeno (domaćoj) potrošnji ili za izvoz, obrada i prerada mesa, ribe, mlijeka, jaja i drugih proizvoda životinjskog podrijetla namijenjenih javnoj potrošnji ili za izvoz te skladištenje tih proizvoda, dopušteni su samo u klaonici odnosno drugom objektu koji u pogledu izgradnje, tehničkog uređenja, opreme, načina rada, stručnog kadra i higijene udovoljava propisanim uvjetima.
+Iznimno, izvan klaonice mogu se klati kopitari i papkari čije je meso namijenjeno javnoj potrošnji samo ako se kolju iz nužde, a ne mogu se zaklati u klaonici.
+Klaonice, hladnjače i objekti za obradu, preradu i skladištenje proizvoda životinjskog podrijetla iz stavka 1. ovoga članka i proizvodnja u njima moraju biti pod veterinarslsim nadzorom.
+Pod veterinarskim nadzorom nalaze se i sirovine i aditivi što se upotrebljavaju pri obradi i preradi proizvoda životinjskog podrijetla u objektima iz stavka 1. ovoga članka.
+Meso, ribe, mlijeko i jaja te njihovi proizvodi, med, rakovi, školjke, puževi i žabe te proizvodi od rakova, školjki, puževa i žaba ne smiju se stavljati u promet ili izvoziti ako sadrže radioaktivne tvari i biološke ili kemijske ostatke u količini većoj od dopuštene.
+Proizvodi životinjskog podrijetla, sirovine i aditivi što služe za njihovu proizvodnju, koji su veterinarsko-sanitarnim pregledom proglašeni neupotrebljivim za ljudsku prehranu, moraju se deklarirati kao neupotrebljivi i učiniti neškodljivim.
+Propise o uvjetima kojima moraju udovoljavati objekti iz stavka 1. ovoga članka donosi ministar poljoprivrede i šumarstva.

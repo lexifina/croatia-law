@@ -1,0 +1,7 @@
+# Članak 46.
+Pošiljke životinja, proizvoda životinjskog podrijetla, otpadne animalne tvari namijenjene utilizaciji, stočne hrane te sirovina i aditiva što služe za proizvodnju stočne hrane, sjemena za umjetno osjemenjivanje i embrija i predmeta kojima se može prenositi zarazna bolest, mogu se uvoziti i provoziti ako ne postoje veterinarsko-sanitarne smetnje za uvoz i provoz tih pošiljaka.
+Uvoznika se može obvezati da naknadno podvrgne ispitivanju ili drži u karanteni pošiljku proizvoda životinjskog podrijetla, otpadne animalne tvari namijenjene utilizaciji, stočne hrane te sirovina i aditiva što služe za proizvodnju stočne hrane, sjemena za umjetno osjemenjivanje, embrija i drugih predmeta kojima se može prenositi zarazna bolest životinja, ili ugroziti zdravlje ljudi i narediti druge mjere sigurnosti.
+Iznimno od odredbe stavka 1. ovoga članka, rješenje nije potrebno za određene pošiljke proizvoda životinjskog podrijetla koji su prerađeni ili poluprerađeni.
+Pošiljke proizvoda životinjskog podrijetla iz stavka 3. ovoga članka utvrđuje propisom ministar poljoprivrede i šumarstva.
+Mjesto karantene, vrstu i način ispitivanja određuje Ministarstvo poljoprivrede i šumarstva - Uprava za veterinarstvo.
+Neće se dozvoliti uvoz i provoz pošiljki iz stavka 1. ovoga članka ako u zemlji izvoznici ili zemljama kroz koje se provozi pošiljka postoji zarazna bolest, odnosno ako postoji opasnost da se zarazna bolest unese u Republiku Hrvatsku ili ako ne ispunjavaju uvjete iz stavka 1. ovoga članka.

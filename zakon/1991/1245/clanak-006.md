@@ -1,0 +1,3 @@
+# Članak 6.
+Poslove iz članka 2. ovoga zakona obavlja Hrvatski veterinarski zavod u sastavu Ministarstva poljoprivrede i šumarstva (u daljem tekstu: Hrvatski veterinarski zavod),poduzeće za reprodukciju u stočarstvu i veterinarska poduzeća svih oblika vlasništva (u daljem tekstu; veterinarske stanice) koje se osnivaju za obavljanje zdravstvene zaštite životinja i veterinarske djelatnosti za područja općina.
+Pojedine poslove zdravstvene zaštite životinja i veterinarske djelatnosti mogu obavljati i druga poduzeća te veterinari samostatno osobnim radom (u daljem tekstu: druge pravne i fizičke osobe), pod uvjetima i na način propisan ovim zakonom.

@@ -1,0 +1,5 @@
+# Članak 83.
+Pravne odnosno fizičke osobe koje obavljaju poslove zdravstvene zaštite životinja i veterinarske djelatnosli od interesa za Republiku Hrvatsku vode jedinstvenu dokumentaciju i dostavljaju izvješća općinskom organu uprave nadležnom za poslove veterinarstva.
+Druge pravne i fizičke osobe koje obavljaju poslove zdravstvene zaštite životinja i veterinarske djelatnosti u vlastitim objektima specijalizirane stočarske proizvodnje i za potrebe obrazovanja, dijagnostičkim laboratorijima i samostalno osobnim radom, dužni su voditi propisanu evidenciju i dostavljati izvješće općinskom organu uprave nadležnom za poslove veterinarstva.
+Općinski organ uprave nadležan za poslove veterinarstva vodi propisanu evidenciju i dostavlja izvješće Ministarstvu poljoprivrede i šumarstva - Upravi za veterinarstvo o izvršavanju propisa i zadataka u oblasti veterinarstva na području općine.
+Ministar, poljoprivrede i šumarstva donosi propise o sadržaju, obliku i načinu vođenja dokumentacije i evidencije te sadržaju i načinu dostavljanja izvješća.
