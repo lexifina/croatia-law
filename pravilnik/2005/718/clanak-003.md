@@ -1,0 +1,3 @@
+# Članak 3.
+Nakon obavljena postupka revizije Povjerenstvo se može s nalazom Hrvatskog zavoda za mirovinsko osiguranje suglasiti ili ga ne prihvatiti i vratiti na ponovni postupak.
+U svim predmetima u kojima je priznato pravo na obiteljsku mirovinu, odnosno pravo na novčanu naknadu u iznosu obiteljske mirovine, a u kojima ne postoji konačno rješenje o priznatom statusu člana obitelji smrtno stradaloga branitelja iz Domovinskog rata, odnosno člana obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, predmet se mora vratiti Hrvatskom zavodu za mirovinsko osiguranje na ponovni postupak i obavijest o istome dostaviti Ministarstvu obitelji, branitelja i međugeneracijske solidarnosti.

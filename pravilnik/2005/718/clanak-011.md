@@ -1,0 +1,3 @@
+# Članak 11.
+Tajnik Povjerenstva vodi i koordinira administrativne poslove u Povjerenstvu (zaprimanje i pregled predmeta i akata, razvrstavanje i raspoređivanje predmeta i akata, slaganje medicinske dokumentacije, prijepis ocjena, priprema i pregled revidiranih predmeta za otpremu, službenu prepisku, rad na informacijama i unos podataka u informatičku bazu podataka); vodi naručivanje potrošnoga uredskog materijala i vodi brigu o urednom radu i servisnom održavanju tehničkih sredstava koje u radu koristi Povjerenstvo.
+Stručni suradnik HZMO-a vodi poslove uredskog poslovanja (otvaranje i upisivanje predmeta i akata, dostava predmeta i akata u rad, otpremu predmeta i akata, razvođenje predmeta i akata, odlaganje predmeta u pismohranu i čuvanje).

@@ -1,0 +1,1 @@
+Na temelju članka 108. stavka 1. točke 2., a u vezi s člankom 32. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj: 174/2004.), potpredsjednica Vlade Republike Hrvatske i ministrica obitelji, branitelja i međugeneracijske solidarnosti, donosi
