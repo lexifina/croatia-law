@@ -1,0 +1,1 @@
+Na temelju članka 25. Zakona o porezu na dobit ("Narodne novine", broj 35/95. - pročišćeni tekst i 106/96.) i članka 17. stavka 5. Zakona o porezu na dohodak ("Narodne novine", broj 25/95. - pročišćeni tekst, 52/95. i 106/96.) donosim
