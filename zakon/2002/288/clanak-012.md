@@ -1,0 +1,2 @@
+# Članak 12.
+Fizička i pravna osoba, koja osniva trgovačko društvo za obavljanje gospodarske djelatnosti ili otvara obrt u skladu sa Zakonom o obrtu i Zakonom o trgovačkim društvima radi postizanja ciljeva iz članka 11. ovoga Zakona i zapošljava više od 5 novih radnika, oslobađa se plaćanja poreza na dobit, odnosno dohodak koji ostvari za prvu godinu poslovanja, u drugoj godini poslovanja plaća 25%, trećoj godini 50%, u četvrtoj godini 75%, a u petoj godini 100% pripadajućeg poreza.

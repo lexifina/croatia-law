@@ -1,0 +1,2 @@
+# Članak 2.
+Brdsko-planinska područja utvrđuju se kao područja od interesa i pod posebnom zaštitom Republike Hrvatske radi poticaja demografske obnove, naseljavanja, stvaranja preduvjeta da se prirodni i ini gospodarski resursi što kvalitetnije koriste za gospodarski razvoj ovih područja i Republike Hrvatske u cjelini, uz podizanje nivoa ekološke zaštite prirodnih bogatstava i životnog prostora za ljude i sva živa bića, te kvalitetnije i ravnomjernije rješavanje socijalnih prilika i gospodarskog rasta i razvoja svih područja Republike Hrvatske.

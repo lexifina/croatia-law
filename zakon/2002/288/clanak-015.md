@@ -1,0 +1,4 @@
+# Članak 15.
+Poreznim obveznicima na dohodak iz članka 14. ovoga Zakona, osnovica poreza na dohodak može se u poreznom razdoblju dodatno umanjiti za iznos isplaćenih plaća i isplaćenih doprinosa na plaću novim radnicima te za iznos isplaćenih nagrada učenicima za vrijeme praktičnog rada i naukovanja.
+Porezni obveznik može pravo na umanjenje porezne osnovice za isplaćene plaće i doprinose na plaću novih radnika koristiti godinu dana od dana njihovog zaposlenja, a ako se radi o radnicima s invaliditetom tada to pravo može koristiti tri godine računajući od dana njihovog zaposlenja.
+Ako porezni obveznik tijekom poreznog razdoblja sklopi ugovor o radu s novim radnicima, a u istom poreznom razdoblju raskine ugovor o radu s određenim brojem radnika, porezna osnovica se smanjuje za razliku između obračunatih i isplaćenih plaća novim radnicima i obračuna plaća koji bi u istom poreznom razdoblju primili radnici s kojima je raskinut ugovor o radu.

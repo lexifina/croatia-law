@@ -1,0 +1,3 @@
+# Članak 14.
+Obveznicima poreza na dohodak, koji obavljaju samostalnu djelatnost na brdsko-planinskim područjima, ostvareni dohodak od tih djelatnosti na tim područjima umanjuje se za 50% od osnovice poreza na dohodak utvrđene ovim Zakonom.
+Iznimno, ako obveznik poreza na dohodak iz stavka 1. ovoga članka zapošljava više od pet radnika u radnom odnosu na neodređeno vrijeme, pri čemu više od 2/3 (dvije trećine) ima prebivalište i boravi u jedinici lokalne samouprave na brdsko-planinskom području, oslobađa se plaćanja poreza na dohodak u prvoj i sljedećih pet godina od dana početka primjene ovoga Zakona.

@@ -1,0 +1,3 @@
+# Članak 13.
+Porezni obveznici, koji obavljaju djelatnost na brdsko-planinskim područjima i zapošljavaju više od 5 radnika, pri čemu više od 2/3 (dvije trećine) od ukupnog broja zaposlenih ima prebivalište i boravi u jedinici lokalne samouprave na brdsko-planinskom području, u prvoj godini od dana početka primjene ovoga Zakona oslobađa se plaćanja poreza na dobit u visini od 50% od propisane stope.
+Smatra se da porezni obveznik iz stavka 1. ovoga članka zapošljava na neodređeno vrijeme radnike, ako je radnik u radnom odnosu kod poreznog obveznika i ima prebivalište te boravi u jedinici lokalne samouprave na brdsko-planinskom području najmanje deset mjeseci u poslovnoj godini.

@@ -1,0 +1,4 @@
+# Članak 7.
+Prednost za ostvarivanje prava na koncesiju poljoprivrednog i šumskog zemljišta te drugog prirodnog bogatstva imaju pod istim uvjetima fizičke i pravne osobe s prebivalištem, odnosno sjedištem u jedinici lokalne samouprave na brdsko-planinskom području.
+Ako više osoba iz stavka 1. ovoga članka ima jednake uvjete prednost se daje osobi koja svojim programom jamči veće zapošljavanje radnika koji imaju prebivalište u jedinici lokalne samouprave na brdsko-planinskom području.
+Prednost za ostvarivanje prava na koncesiju, odnosno povlasticu za organiziranje lovišta i ostvarivanje ribolovnog prava na šumskom području, odnosno ribolovnom području ili ribolovnoj zoni, imaju pod istim uvjetima, fizičke i pravne osobe s prebivalištem, odnosno sjedištem u jedinici lokalne samouprave na brdsko-planinskom području.
