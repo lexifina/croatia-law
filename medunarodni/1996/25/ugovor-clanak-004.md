@@ -1,0 +1,5 @@
+# Članak 4.
+1. Ako članica koja je ratificirala ovu Konvenciju i u čiju luku dođe brod tijekom redovne plovidbe ili zbog operativnih razloga, zaprimi pritužbu ili pribavi dokaze o tome da brod nije prilagođen standardima iz ove Konvencije, nakon što je stupila na snagu, ta članica može pr"ipremiti izvješće i uputiti ga vladi države u kojoj je brod registriran, jedan primjerak kojega dostavlja glavnom direktoru Međunarodnog ureda rada, i može poduzeti mjere potrebne za ispravljanje svih uvjeta ha brodu koji su očito opasni za sigurnost ili zdravlje.
+2. Prigodom poduzimanja takvih mjera, članica mora odmah izvijestiti najbližeg pomorskog, konzularnog ili diplomatskog predstavnika države zastave broda, i ako to bude moguće, osigurati njegovu prisutnost. Ona ne smije neopravdano zadržati brod ili prouzročiti njegovo kašnjenje.
+3: U ovom članku riječ: »pritužba« znači obavijest koju je dostavio član posade, profesionalno tijelo, udruga, sindikat ili,
+općenito, bilo koja osoba koja ima interes glede sigurnosti broda, uključujući interes glede sigurnosti ili opasnosti po zdravlje njegove posade.

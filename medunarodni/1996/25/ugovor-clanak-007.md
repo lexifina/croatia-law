@@ -1,0 +1,3 @@
+# Članak 7.
+1. Članica koja je ratificirala ovu Konvenciju može je otkazati nakon isteka roka od deset godina od datuma kada je konvencija stupila na snagu, izjavom koju priopćuje Glavnom direktoru Međunarodnog ureda rada, radi registracije. Takav otkaz stupa na snagu godinu dana nakon datuma kada je registriran.
+2. Svaka članica koja je ratificirala ovu Konvericiju, i koja, u roku od godine dana nakon proteka roka od deset godina iz prethodnog stavka, ne otkaže Konvenciju prema odredbi ovoga članka, može otkazati Konvenciju po isteku svakoga novog razdoblja od deset godina prema uvjetima predviđenima u ovome članku.

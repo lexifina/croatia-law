@@ -1,0 +1,2 @@
+# Članak 3.
+Svaka članica koja ratificira ovu Konvenciju mora savjetovati svoje državljane, u mjeri u kojoj je to moguće, o mogućim problemima glede zapošljavanja na brodu koji je registriran u državi koja nije ratificirala ovu Konvenciju, sve dok se ne uvjeri kako se primjenjuju isti standardi kao oni ustanovljeni ovom Konvencijom. Mjere koje država, koja ratificira, poduzima u ovu svrhu ne smije biti u suprotnosti s načelom slobodnog kretanja radnika utvrdenim međunarodnim ugovorima čije su stranke države o kojima se radi.
