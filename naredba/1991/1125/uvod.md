@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine" br.16/78, 50/78, 29/85, 48/85, 41/90. i 47/90), članka 38. i 75. Zakona o osnovnom školstvu ("Narodne novine", broj 11/91 - pročišćeni tekst) ministar prosvjete i kulture donosi
