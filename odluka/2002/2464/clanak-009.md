@@ -1,0 +1,2 @@
+# Članak 9.
+Članice Komore za koje je pokrenut postupak likvidacije ili koje su pripojene drugom pravnom subjektu dužne su platiti svoja dospjela dugovanja po osnovi članarine i doprinosa za financiranje Hrvatske gospodarske komore, nastala do trenutka podnošenja zahtjeva Trgovačkom sudu Republike Hrvatske o pokretanju postupka likvidacije, odnosno do donošenja rješenja Trgovačkog suda Republike Hrvatske o pripajanju drugom pravnom subjektu.
