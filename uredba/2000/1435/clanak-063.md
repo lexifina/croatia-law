@@ -1,0 +1,6 @@
+# Članak 63.
+U Službi za međunarodnu carinsku suradnju se ustrojavaju:
+1. Odjel za međunarodno pravne poslove
+2. Odjel za europske integracije
+Odjel za međunarodno pravne poslove vrši vođenje pregovora o ugovorima o međunarodnoj carinskoj suradnji, pristupanju međunarodnim carinskim konvencijama, daje mišljenja na nacrte međunarodnih ugovora i konvencija iz djelokruga drugih tijela državne uprave, pruža i traži pravnu pomoć u međunarodnim odnosima, dostavljanjem obavijesti i izviješćivanjem svih dokumenata i priopćavanju svih odluka koje se odnose na adresate s prebivalištem ili sjedištem van carinskog područja RH, organiziranjem programa međunarodne tehničke pomoći, uspostavljanjem priopćajnih kanala u cilju olakšavanja sigurne i brze razmjene podataka, te pitanjima imuniteta i povlastica stranih diplomata akreditiranih u RH.
+Odjel za europske integracije vrši usklađivanja sa zahtjevima Europske komisije, vrši pregovore o pristupanju Europskoj zajednici, CEFTI, EFTI i drugim integracijama, prati harmoniziranje carinskih postupaka sukladno zahtjevima EU i Svjetske carinske organizacije, Svjetske trgovinske organizacije, SECI-a, Pakta za stabilnost i drugih međunarodnih organizacija.

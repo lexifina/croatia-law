@@ -1,0 +1,3 @@
+## UPRAVA ZA IZVRŠAVANJE DRŽAVNOG PRORAČUNA
+# Članak 9.
+Uprava za izvršavanje državnog proračuna je upravna organizacija u sastavu Ministarstva koja izrađuje nacrt završnog računa državnog proračuna, nacrt završnog računa proračunske rezerve i dinamički plan izvršavanja državnog proračuna, izvršava državni proračun, te obavlja administrativne poslove u svezi izvršavanja državnog proračuna, obavlja poslove proračunskog nadzora radi osiguranja zakonitog i svrhovitog korištenja proračunskih sredstava, prati i daje mišljenja na nacrte prijedloga zakona i drugih propisa koji imaju utjecaj na izvršavanje državnog proračuna te obavlja i druge poslove koje joj odredi ministar.

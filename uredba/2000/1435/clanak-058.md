@@ -1,0 +1,3 @@
+## SLUŽBA ZA CARINSKO-UPRAVNI I PREKRŠAJNI POSTUPAK
+# Članak 58.
+U okviru Službe donose se rješenja po žalbama izjavljenim na prvostupanjska rješenja donesena u carinarnicama, prati se donošenje i praktična primjena carinskih i drugih propisa koji se primjenjuju u upravnom carinskom postupku, izrađuju stručne podloge i nacrti drugostupanjskih rješenja i drugih akata u složenijim predmetima drugostupanjskog carinsko-upravnog postupka, te odgovara na tužbu u upravnosudskom postupku protiv tih akata, te surađuje u pripremi naputaka i drugih akata kojima se usmjerava i ujednačava upravno-carinska praksa i surađuje u sustavnoj stručnoj obradi upravno-carinske prakse.
