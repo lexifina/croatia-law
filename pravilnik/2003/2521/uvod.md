@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 3., članka 22. stavka 3., članka 26. stavka 3., članka 28. stavka 5., članka 34. stavka 6. i članka 73. Zakona o oružju (»Narodne novine« br. 69/92., 26/93., 43/93., 29/94., 108/95., 20/97., 12/01. i 19/02.) i članka 17. Zakona o izmjenama i dopunama Zakona o oružju (»Narodne novine« br. 27/99.), ministar unutarnjih poslova donosi
