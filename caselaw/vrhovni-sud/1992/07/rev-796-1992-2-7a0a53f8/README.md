@@ -1,0 +1,11 @@
+# Rev-796/1992-2, Vrhovni sud Republike Hrvatske, 14.7.1992.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=7a0a53f8-ab01-4535-a614-9153322212bb
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1992-07-14
+- Publication date on source: 2008-09-24
+- ECLI: ECLI:HR:VSRH:1992:4274
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
