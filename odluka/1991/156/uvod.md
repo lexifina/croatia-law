@@ -1,0 +1,1 @@
+Na osnovi članka 29. Zakona o _izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje ("Narodne novine", broj 21 i 39/74, 55/88 i 19/90), Vlada Republike Hrvatske na sjednici održanoj 6. veljače 1991. godine donijela je slijedeću
