@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 10. stavku 3. riječi: »Obdukciju u pravilu treba obaviti doktor medicine specijalist sudske medicine, a kad u gradu u kojem se obavlja obdukcija nema doktora medicine te specijalnosti, tada obdukciju može obaviti doktor medicine specijalist patološke anatomije.« zamjenjuju se riječima: »Obdukciju treba obaviti doktor medicine specijalist sudske medicine ili doktor medicine specijalist patološke anatomije.«.
