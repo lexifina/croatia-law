@@ -1,0 +1,1 @@
+Na temelju članka 2. stavak 2. Zakona o preuzimanju zakona iz područja trgovine, tržišta i cijena koji seu Republici Hrvatskoj primjenjuju kaorepublički zakoni i članka 3. Zakona o sustav kontrolecijena ("Narodne novine", broj 53/91, 73/91 i 29/92), Vlada Republike Hrvatske na sjednici održanoj 22. lipnja 1992. godine, donijela je
