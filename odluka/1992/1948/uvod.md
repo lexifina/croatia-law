@@ -1,0 +1,1 @@
+Na osnovi članka 160. Zakona o deviznom poslovanju ("Službeni list SFRJ", br. 66/85, 71/86, 3/88, 59/88 i 82/90 i "Narodne novine", br. 53/91), kao i članka 47. i 55. Uredbe o Narodnoj banci Hrvatske ("Narodne novine", br. 71/91), Savjet Narodne banke Hrvatske na sjednici održanoj 30. listopada 1982. godine, donio je
