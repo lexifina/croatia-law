@@ -1,0 +1,1 @@
+Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Bayerische Landesbank Girocentrale, Munchen, koji će se koristiti za kreditiranje poljoprivredne mehanizacije poljoprivrednim gos
