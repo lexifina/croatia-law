@@ -1,0 +1,5 @@
+## o prijevozu opasnih tvari
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Prijevoz opasnih tvari, uvjeti i radnje koje su u svezi s tim prijevozom te nadzor nad obavljanjem prijevoza uređuju se ovim Zakonom.
+(2) Na prijevoz opasnih tvari, uvjete i radnje koje su u svezi s tim prijevozom primjenjuje se i Europski sporazum o cestovnom prijevozu roba u međunarodnom prometu (u tekstu koji,slijedi: "ADR") i propisi koji se odnose na međunarodni prijevoz opasnih roba željeznicom (u tekstu koji slijedi: "RID"), Međunarodna konvencija o zaštiti ljudskih života na moru (SOLAS) - glava 7 - prijevoz opasne robe, kodeks opasnih tereta Međunarodne pomorske organizacije (IMCO), Pravila europskih odredbi o međunarodnom prijevozu opasnog tereta na unutarnjim plovnim putovima (ADN), Međunarodna konvencija o civilnoj zračnoj plovidbi, Tehničke instrukcije za siguran transport opasnih tvari zračnim putem (ICAO) te Tehnička pravila o prijevozu opasnih tvari zrakoplovima (IAT) i akti, Svjetskog poštanskog saveza (UPU).

@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Posude za prijevoz tekuće opasne tvari ili opasne tvari potopljene u neku tekućinu i posude za prijevoz otopine opasne tvari, a i njihovi zatvarači, moraju biti takvi da izdrže unutarnji tlak pri promjenama temperature što ih tvari mogu postići prilikom prijevoza, vodeći računa o potrebnom praznom prostoru za širenje tekućine.
+(2) Ako se tekuća opasna tvar prevozi zrakoplovom u čijoj unutrašnjosti postoji zračni tlak koji pri promjenama visine za vrijeme leta nije normalan, posude u kojima je smještena tekuća opasna tvar i njihovi zatvarači moraju biti takvi da mogu izdržati promjene zračnog tlaka.
