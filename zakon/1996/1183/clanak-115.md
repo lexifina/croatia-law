@@ -1,0 +1,4 @@
+# Članak 115.
+(1) Ministar rada dužan je propisati način izrade i sadržaj procjene opasnosti iz članka 18. ovoga Zakona u roku od tri mjeseca od stupanja na snagu ovoga Zakona.
+(2) Poslodavci koji ispunjavaju uvjete za procjenu opasnosti i koji te procjene imaju izrađene prema odredbama Zakona o zaštiti na radu ("Narodne novine", br. 19/83., 17/86., 46/92., 26/93. i 29/94.) mogu ih, uz podloge na temelju kojih su izrađene, podnijeti na odobrenje inspekciji rada odmah po stupanju na snagu propisa iz stavka 1. ovoga članka, ako su u procjenama i njihovima podlogama sadržani svi propisani podaci.
+(3) Poslodavci koji nemaju izrađenu procjenu opasnosti dužni su je izraditi i uz podloge na kojoj je izrađena podnijeti na potvrdu inspekciji rada u roku od tri mjeseca od stupanja na snagu propisa iz stavka 1. ovoga članka.

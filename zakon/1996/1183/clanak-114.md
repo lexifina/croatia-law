@@ -1,0 +1,3 @@
+# Članak 114.
+(1) Odredbe propisa koji su doneseni na temelju članka 52. Osnovnog zakona o zaštiti na radu ("Narodne novine", br. 52/71. i 52/73.) i odredbe propisa koji su navedeni u članku 125. toga Zakona, a koje su do dana stupanja na snagu Zakona o zaštiti na radu ("Narodne novine", br. 54/74.) bile na snazi, primjenjivat će se kao pravna pravila, ukoliko nisu u suprotnosti sa zakonima Republike Hrvatske i propisima donesenima na temelju zakona.
+(2) Pravna pravila primjenjivat će se do stupanja na snagu provedbenih propisa koje će na temelju ovlasti iz ovoga Zakona donijeti ministar u roku iz članka 113. stavka 1. ovoga Zakona.

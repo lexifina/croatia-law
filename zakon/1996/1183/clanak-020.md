@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Poslodavac koji zapošljava više od 50 zaposlenika dužan je zaposliti jednog ili više stručnjaka za zaštitu na radu sukladno broju zaposlenih te stupnju opasnosti utvrđenog procjenom.
+(2) U smislu ovoga Zakona stručnjak za zaštitu na radu jest osoba koju poslodavac zapošljava radi obavljanja poslova unutarnjeg nadzora nad provedbom zaštite na radu i pružanja stručne pomoći poslodavcu, ovlaštenicima i povjerenicima zaposlenika za zaštitu na radu.
+(3) Inspektor rada može rješenjem narediti zapošljavanje stručnjaka za zaštitu na radu i poslodavcu koji zapošljava manje od 50 zaposlenika, na temelju opasnosti utvrđenih procjenom.
+(4) Na zahtjev poslodavca ministar nadležan za rad može dozvoliti da se poslovi zaštite na radu obavljaju bez zapošljavanja stručnjaka za zaštitu na radu, iako je zaposleno više od 50 zaposlenika, ako je procjenom utvrđeno da ne postoje veće opasnosti i štetnosti po sigurnost i zdravlje zaposlenika. U navedenom slučaju poslodavac poslove zaštite na radu obavlja prema odredbama članka 19. ovoga Zakona.

@@ -1,0 +1,4 @@
+# Članak 54.
+(1) Inspektor rada ovlašten je narediti ispitivanje pojedinih instalacija u objektima namijenjenim za rad kada opravdano pretpostavi da je ispitivanje potrebno u svrhu zaštite zaposlenika.
+(2) Inspektor rada ovlašten je narediti da se obavi ispitivanje radnog okoliša i strojeva i uređaja s povećanim opasnostima i izvan utvrđenih rokova ako opravdano pretpostavi da je ispitivanje potrebno u svrhu sigurnosti i zaštite zdravlja zaposlenika, posebno u slučaju pojave profesionalne bolesti.
+(3) Inspektor rada može narediti ispitivanje i u radnim prostorijama i radnom prostoru izvan radnih prostorija u kojima proces rada ne utječe na stanje u radnom okolištu na temelju zahtjeva zaposlenika, odnosno njegovog povjerenika ili ako sam opravdano pretpostavi da postojeće stanje nije u skladu s pravilima zaštite na radu.

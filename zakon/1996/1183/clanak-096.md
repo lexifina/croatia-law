@@ -1,0 +1,3 @@
+# Članak 96.
+(1) Ministar nadležan za rad propisati će vrstu objekata namijenjenih za rad za koje inspekcija rada sudjeluje u postupku utvrđivanja da li su u glavnom projektu primijenjeni propisi zaštite na radu i radu povjerenstva za tehnički pregled izgrađenog objekta.
+(2) Ministar nadležan za rad propisat će pod kojim uvjetima može inspekcija rada ovlastiti stručne ustanove, trgovačka društva, odnosno fizičke osobe da umjesto nje sudjeluju u postupku utvrđivanja da li su u glavnom projektu primijenjeni propisi zaštite na radu i u radu povjerenstva za tehnički pregled (članak 95.) te koje uvjete moraju ispunjavati stručne ustanove, trgovačka društva ili fizičke osobe za obavljanje poslova iz članka 94. i 95. ovoga Zakona.
