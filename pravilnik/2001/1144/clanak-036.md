@@ -1,0 +1,6 @@
+## Dio peti
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 36.
+(1) Osoblju koje, danom stupanja na snagu ovoga Pravilnika, ima dozvolu s ovlaštenjima izdanu na temelju Pravilnika o stručnoj spremi, ispitima i dozvolama za rad osoblja meteorološkog osiguranja zračne plovidbe (»Narodne novine«, br. 53/91 i 132/98), a obavlja poslove iz članka 1. točka 1. ili 2. ovoga Pravilnika, priznaje se odgovarajuća dozvola i ovlaštenja, koja su u skladu s odredbom članka 17. točka 1. i 2., članka 18. stavak 1. i 3. ovog Pravilnika i posebne ovlasti koje su u skladu s odredbama iz članka 20. stavak 1. ovoga Pravilnika. Temeljem toga izdat će se dozvola u skladu sa člankom 17. točka 1. ili 2. i upisati odgovarajuća ovlaštenja i posebne ovlasti.
+(2) Osoblju koje danom stupanja na snagu ovoga Pravilnika, uspješno obavlja poslove iz članka 1. točka 3. ovoga Pravilnika, priznat će se stručna osposobljenost za poslove koje obavlja i izdati dozvola s propisanim ovlaštenjima u skladu sa člankom 17. točka 3. i člankom 18. stavak 5. ovoga Pravilnika.
+(3) Osoblju, koje danom stupanja na snagu ovoga Pravilnika uspješno obavlja poslove iz područja posebnih ovlasti iz članka 20. stavak 2. i 3. ovoga Pravilnika tri godine ili duže, priznat će se i upisati posebna ovlast.
