@@ -1,0 +1,3 @@
+# Članak 18.
+Zavod za opskrbu osiguranih osoba lijekovima sklapa ugovore s ljekarnama u skladu s odredbama članka 5. ove Odluke.
+Ljekarne su obvezne voditi propisano materijalno i financijsko knjigovodstvo, nabavljati i isporučivati osiguranim osobama Zavoda sve potrebne lijekove koji se izdaju na recept, a utvrđeni su Odlukom o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 60/03., 70/03., 86/03. i 111/03., u daljnjem tekstu: Lista lijekova), potom zavojni materijal za potrebe kućnog liječenja koji doktori primarne zdravstvene zaštite mogu propisivati na recepte, kao i ortopedska i druga pomagala osnovom potvrde o potrebi pomagala u skladu s općim aktima Zavoda.
