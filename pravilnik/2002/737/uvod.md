@@ -1,0 +1,1 @@
+Na temelju članka 84. stavka 1. i 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 94/01), a u svezi s Pravilnikom o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata (»Narodne novine«, broj 18/02) uz suglasnost ministra zdravstva, ministar hrvatskih branitelja iz Domovinskog rata, donosi
