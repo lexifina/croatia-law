@@ -1,0 +1,6 @@
+# Članak 8.
+Članak 23. mijenja se i glasi:
+»(1) Ukupni dohodak kućanstva jest zbroj dohotka (dohodak od nesamostalnog rada, dohodak od samostalne djelatnosti, dohodak od imovine i imovinskih prava) i drugih primanja koje ostvari korisnik i članovi njegovog kućanstva prema propisima o porezu na dohodak i odredbama ovoga Zakona.
+(2) Dohodak u smislu ovoga Zakona smatra se: plaća ostvarena kod poslodavca za rad u tuzemstvu i inozemstvu, dohodak od djelatnosti obrta, slobodnih zanimanja, poljoprivrede i šumarstva, dohodak od djelatnosti članova skupština i nadzornih odbora, trgovačkih društava, upravnih odbora, upravnih vijeća, stečajnih upravitelja, sudskih vještaka, autorskih prava, zakupnina i najamnina, dohodak od iznajmljivanja postelja, soba i apartmana putnicima i turistima, dohodak od otuđenja i davanja na korištenje nekretnina i imovinskih prava.
+(3) Druga primanja u smislu ovoga Zakona su: dividenda i udjeli u dobiti poduzetnika, mirovine, naknade za vrijeme bolovanja, naknade za porodni dopust i naknade zbog nezaposlenosti.
+(4) Pod ukupnim dohotkom članova kućanstva, u smislu ovog Zakona, podrazumijeva se dohodak iz stavka 1., 2. i 3. ovoga članka umanjen za iznos poreza i prireza.«.
