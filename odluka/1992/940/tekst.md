@@ -1,0 +1,16 @@
+o ograničenju izvoza određenih proizvoda
+I.
+Radi otklanjanja poremećaja na domaćem tržištu privremeno se ogrančava izvoz proizvoda izsljedećih tarifnih brojeva odnosno tarifnih oznaka Carinske tarife:
+_________________________________________________________________________________ Tarifni Tarifna Imenovanje broj oznaka _________________________________________________________________________________ 27.10 2710.031 - plinska dizelska goriva 2710.032 - plinska loživa ulja 2710.039 - ostala plinska ulja 41.01 Sirove, krupne i sitne govede kože i kože kopitara (svježe ili soljene, sušene, lužene, piklane ili drugačije konzervirane ali neuštavljene, niti pergamentno obrađene, niti dalje obrađivane), s dlakom ili bez dlake, cijepane ili necijepane 41.03 4103.90 - ostale 41.04 4104.101 - nedovršene 4104.211 - nedovršene 4104.221 - nedovršene 4104.291 - nedovršene 4104.391 - nedovršene 41.07 4107.101 - nedovršene 44.01 4401.10 - Ogrjevno drvo u oblicama, cjepanicama, granama, snopovima ili sličnim oblicima 44.03 4403.202 - trupci za rezanje i furnir od ostalih četinjača 4403.203 - celulozno drvo četinjača 4403.204 - stupovi za vodovode, neimpregnirani 4403.911 - hrastovi trupci za rezanje i furnir (Quercus spp) 4403.921 - bukovi trupci za rezanje i furnir (Fagus spp) 4403.922 - celulozno drvo bukve 4403.991 - trupci za rezanje od ostalih tvrdih listača 4403.992 - celulozno drvo ostalih tvrdih listaća 4403.993 - trupci za rezanje i furnir od topole 4403.994 - celulozno drvo od topole 4403.995 - trupci za rezanje i furnir od ostalih mekih listača 4403.996 - celulozno drvo od ostalih mekih listača 4403.999 - ostalo 44.07 4407.109 - obrađeno drvo ostalih četinjača 4407.91 - hrastovo, obrađeno drvo 4407.92 - bukovo, obrađeno drvo 4407.991 - jasenovo, obrađeno drvo 4407.992 - topolino, obrađeno drvo 4407.999 - ostalo, obrađeno drvo tvrdih listača 72.04 7204.10 - Otpaci i ostaci od ljevanog željeza 7204.30 - Otpaci i ostaci od kositrenog željeza ili čelika 7204.4 - Ostali Otpaci i ostaci 7204.50 - Otpadni ingoti, slabovi i dr. za pretapanje 74.04 7404.00 - Otpaci i ostaci, bakreni 76.02 7602.00 - Otpaci i ostaci, od aluminija 78.02 7802.00 - Otpaci i ostaci, olovni 79.02 7902.00 - Otpaci i ostaci, od cinka 80.02 8002.00 - Otpaci i ostaci, od kositra _________________________________________________________________________________
+Iznimno, proizvode iz stavka 1. ove točke, poduzeća i druge pravne osobe mogu izvoziti samo uz odobrenje ministra trgovine.
+II.
+Ograničenje izvoza odnosi se i na samostalne privrednike koji se bave proizvodnjom odnosno prometom proizvoda iz točke I. ove odluke.
+III.
+Odobrenje za izvoz određenih količina proizvoda iz točke I. ove odluke izdaje ministar trgovine, na piseni zahtjev poduzeća, druge pravne i fizičke osobe uz mišljenje mjerodavnog ministra.
+IV.
+Mjera iz točke I. ove odluke ne odnosi se na izvoz koji za vlastite potrebe u krajnjoj potrošnji obavljaju državljani Republike Hrvatske nastanjeni izvan Hrvatske i strani državljani.
+Uputstvo za provedbu odredbe stavka 1. ove točke donijet će Ministarstvo financija.
+V.
+Izvozni kontingenti izdati do stupanja na snagu ove odluke važe do 30. lipnja 1992. godine.
+VI.
+Ova odluka stupa na snagu danom objave u "Narodnim novinama".
