@@ -1,0 +1,12 @@
+# Članak 17.
+Postupak izdavanja potvrde o prometu robe EUR.1
+1. Potvrdu o prometu robe EUR.1 izdaju carinske vlasti stranke izvoznice na zahtjev koji u pisanom obliku podnosi izvoznik ili, pod izvoznikovom odgovornošću, njegov ovlašteni predstavnik.
+2. U tu svrhu, izvoznik ili njegov ovlašteni predstavnik ispunit će i obrazac potvrde o prometu robe EUR.1 i obrazac zahtjeva, čiji su primjerci sadržani u Dodatku III. Ti se obrasci ispunjavaju na jednom od jezika na kojima je sastavljen ovaj Ugovor i u skladu s odredbama domaćih zakona zemlje izvoznice. Ako se obrasci ispunjavaju rukom, moraju se ispuniti tintom i tiskanim slovima. Opis proizvoda mora se upisati u polje predviđeno za to, bez ostavljanja praznih redaka. Ako polje nije do kraja ispunjeno, ispod zadnjeg retka opisa treba povući vodoravnu crtu, a nepopunjeni se dio mora prekrižiti.
+3. Izvoznik koji podnosi zahtjev za izdavanjem potvrde o prometu robe EUR.1 bit će spreman u svakom trenutku na zahtjev carinskih vlasti zemlje u kojoj se izdaje potvrda o prometu robe EUR.1 podnijeti sve potrebne isprave kojima se dokazuje da predmetni proizvodi imaju status proizvoda podrijetlom iz jedne od stranaka te da ispunjavaju sve druge zahtjeve koji su postavljeni ovim Protokolom.
+4. Potvrdu o prometu robe EUR.1 izdat će carinske vlasti stranke ako se predmetni proizvodi mogu smatrati proizvodima podrijetlom iz druge stranke ili jedne od drugih zemalja navedenih u članku 4. i ako ispunjavaju druge zahtjeve iz ovog Protokola.
+5. Carinske vlasti koje izdaju potvrdu o prometu robe EUR.1 poduzet će sve korake prijeko potrebne kako bi se provjerilo imaju li predmetni proizvodi status s podrijetlom te ispunjavaju li druge zahtjeve iz ovog Protokola. U tu će svrhu one imati pravo zatražiti bilo koji dokaz i obaviti bilo koju vrstu uvida u izvoznikovu poslovnu evidenciju, odnosno bilo koju provjeru koju smatraju primjerenom. One su također dužne pobrinuti se da obrasci iz stavka 2. budu propisno ispunjeni. One će posebice provjeravati je li prostor predviđen za opis proizvoda ispunjen tako da se isključuje svaka mogućnost neovlaštenog dopisivanja.
+6. Ako su proizvodi stekli status proizvoda s podrijetlom temeljem ovog Protokola, u polje »Napomene« na potvrdi o prometu robe EUR.1 treba upisati sljedeće:
+BG »KUMULACIÜ - HĆRVATIÜ«
+CZ »KUMULACE - CHORVATSKO«
+7. Datum izdavanja potvrde o prometu robe EUR.1 naznačit će se u polju 11 na potvrdi.
+8. Carinske vlasti izdat će potvrdu o prometu robe EUR.1 i staviti ju na raspolaganje izvozniku čim se obavi ili osigura stvarni izvoz.

@@ -1,0 +1,3 @@
+# Članak 7.
+1. Suradnja u carinskim poslovima spomenuta u stavku 2. članka 16. Srednjoeuropskog ugovora o slobodnoj trgovini tumačit će se tako da će se međusobna suradnja upravnih tijela u carinskim pitanjima Republike Slovenije i Republike Hrvatske odvijati sukladno odredbama Dodatka I. članka 7. ovog Ugovora.
+2. Suradnja u carinskim poslovima spomenuta u stavku 2. članka 16. Srednjoeuropskog ugovora o slobodnoj trgovini tumačit će se tako da će se međusobna suradnja upravnih tijela u carinskim pitanjima Republike Bugarske i Republike Hrvatske odvijati sukladno odredbama Dodatka II. članka 7. ovog Ugovora.

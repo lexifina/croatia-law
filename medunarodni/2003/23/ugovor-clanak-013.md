@@ -1,0 +1,6 @@
+# Članak 13.
+Spisi, isprave i svjedoci
+1. Carinska tijela stranaka će, na zahtjev, pribaviti dokumente o prijevozu i otpremi robe iz kojih je vidljiva vrijednost, količina, podrijetlo i odredište robe.
+2. Izvornici spisa, isprava i ostalih materijala koji su otpremljeni službi tražiteljici, bit će vraćeni čim prije. Prava zatražene službe ili trećih strana u svezi s njima ostat će nedirnuta. Na izričit zahtjev, preslici takvih spisa, isprava i ostalih materijala bit će prikladno ovjereni.
+3. Izvornici spisa, isprava i ostalih materijala koji su otpremljeni službi tražiteljici, bit će vraćeni čim prije. Prava zatražene službe ili trećih strana u vezi s njima ostat će nedirnuta. Na zahtjev, izvornike, potrebne za donošenje presuda ili slične svrhe, vratiti bez odgađanja.
+4. Na zahtjev carinskog tijela jedne stranke, carinsko tijelo druge stranke će, prema svome nahođenju, dozvoliti svojim djelatnicima, ako oni na to pristanu, da se pojave kao svjedoci u sudskim ili upravnim postupcima na području stranke tražiteljice, te da podnesu spise, isprave, i ostale materijale ili njihove ovjerene prijepise, koji su potrebni u postupku. U takvom zahtjevu, treba navesti vrijeme, mjesto i vrstu postupka, te u kojem svojstvu će djelatnik svjedočiti.

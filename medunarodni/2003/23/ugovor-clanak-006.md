@@ -1,0 +1,2 @@
+# Članak 6.
+S obzirom na članak 16. Srednjoeuropskog ugovora o slobodnoj trgovini, utvrđuje se Protokol 7a. koji se odnosi na definiciju pojma »proizvoda s podrijetlom« te načine administrativne suradnje, te se on dodaje ovom Ugovoru. Protokol 7a. primjenjivat će se umjesto protokola 7. s obzirom na trgovinu između stranaka ako proizvod sadrži materijale podrijetlom iz Hrvatske, kao i s obzirom na trgovinu između Republike Hrvatske i bilo koje druge stranke.
