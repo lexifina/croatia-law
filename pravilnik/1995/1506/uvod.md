@@ -1,0 +1,1 @@
+Na temelju Članka 50., stavka 3. Zakona o osnovnom školstvu ("Narodne novine", br. 59/90.) i članka 61. stavka 3. Zakona o srednjem školstvu ("Narodne novine", br.19/92 i 50/95.), ministar prosvjete i športa donosi

@@ -1,0 +1,3 @@
+# Članak 7.
+Osnovni elementi ocjenjivanja učenika u postupcima provjeravanja jesu: poznavanje i razumijevanje nastavnih sadržaja, usmeno i pismeno izražavanje, praktična i kreativna primjena naučenog gradiva, razvijenost vještina, načini sudjelovanja u usvajanju nastavnih sadržaja te napredak u razvoju njegovih ostalih psihofizičkih sposobnosti i mogućnosti.
+Uspjeh učenika u ocjenjivanju njegova uratka, odnosno praktičnoga rada, pokusa ili izvođenja laboratorijske i druge vježbe, ocjenjuje se na temelju primjene učenikova znanja u izvođenju zadatka, samostalnosti i pokazanih vještina, korištenju materijala, alata, instrumenata i drugih pomagala te primjeni sigurnosnih mjera prema sebi, drugima i okolišu.

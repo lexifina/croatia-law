@@ -1,0 +1,2 @@
+# Članak 9.
+Oblici, elementi i mjerila provjeravanja i ocjenjivanja učenikova postignuća u određenom nastavnom predmetu ili odgojno-obrazovnom području propisuju se programima Ministarstva. Ako oblici, elementi i mjerila provjeravanja i ocjenjivanja nisu propisani, određuju ih učitelj odnosno nastavnik samostalno, u skladu sa svojim izvedbenim nastavnim programom, suvremenim pedagoškim i dokimologijskim spoznajama, te odredbama ovoga pravilnika.

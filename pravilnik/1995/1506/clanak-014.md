@@ -1,0 +1,4 @@
+# Članak 14.
+Ravnatelj je obvezan razmotriti svaki pismeni prigovor roditelja na primjenu elemenata i mjerila pri provjeravanju i ocjenjivanju učenika te na ponašanje učitelja odnosno nastavnika na nastavnom satu.
+Ako većina roditelja na roditeljskom sastanku smatra da određeni učitelj odnosno nastavnik neobjektivno ocjenjuje, odnosno da su njegovi postupci i ponašanje u provjeravanju i ocjenjivanju učenika neprimjereni, razrednik mora zatražiti da se takvi prigovori uvrste u dnevni red učiteljskog odnosno razrednog vijeća.
+Ako učiteljsko odnosno razredno vijeće, nakon rasprave, većinom glasova zaključi da su roditeljski prigovori na rad i ponašanje određenog učitelja odnosno nastavnika opravdani, ravnatelj je prema tom učitelju odnosno nastavniku obvezan poduzeti mjere i postupke iz svoje ovlasti, u skladu sa zakonskim propisima.
