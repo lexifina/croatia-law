@@ -1,0 +1,4 @@
+## o privremenim posebnim standardima i mjerilima njihove primjene u provoĐenju primarne zdravstvene zaŠtite iz osnovnog zdravstvenog osiguranja za razdoblje od 1. sijeČnja do 31. oŽujka 2004. godinE
+## OpĆe odredbe
+# Članak 1.
+Ovom Odlukom utvrđuju se privremeni posebni standardi i mjerila za njihovu primjenu, a u svezi s provođenjem primarne zdravstvene zaštite na područjima gdje postoje veća odstupanja u organiziranju zdravstvene zaštite zbog nedostatka Pravilnikom o privremenim standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za razdoblje od 1. siječnja do 31. ožujka 2004. godine propisanog broja osiguranih osoba po timu, odnosno broja timova iz razloga zemljopisnih, odnosno demografskih obilježja, prometne povezanosti/izoliranosti, gustoće naseljenosti i drugih posebnih okolnosti pod kojima se provodi zdravstvena zaštita.
