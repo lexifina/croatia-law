@@ -1,0 +1,1 @@
+Na temelju članka 136. stavak 2. Zakona o vodama ("Narodne novine", br 53/90., 9/91., 61/91., 26/93., 43/93), Upravni odbor Javnog vodoprivrednog poduzeća "Hratska vodoprivreda" na 26. sjednici održanoj dana 2. veljače 1994. godine, donio je
