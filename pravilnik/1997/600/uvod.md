@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 5. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine", br. 108/96) ministar prostornog uređenja, graditeljstva i stanovanja, donosi
