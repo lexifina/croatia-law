@@ -1,0 +1,1 @@
+Na temelju članka 23. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92) Vlada Republike Hrvatske na sjednici održanoj 4. siječnja 1993. godine, donijela je
