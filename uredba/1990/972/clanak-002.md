@@ -1,0 +1,2 @@
+# Članak 2.
+Ured za nacionalne manjine (u daljnjem tekstu: Ured) obavlja stručne i druge poslove, u okviru djelokruga Vlade, a u svezi s ostvarivanjem utvrđene politike oštvarivanja ravnopravnosti nacionalnih manjina koje žive na području Republike Hrvatske kao i njihovih prava utvrđenih Ustavom i zakonom i predlaže mjere za ostvarivanje tih prava, priprema prijedloge za osiguravanje sredstava za ostvarivanje ustavnih prava nacionalnih manjina, daje prijedloge i mišljenja za financiranje određenih potreba nacionalnih manjina.
