@@ -1,0 +1,2 @@
+# Članak 5.
+Mijenja se članak 43. stavak 1. Kolektivnog ugovora tako, da novi tekst stavka 1. glasi: »Poslodavac može puno ili nepuno radno vrijeme iz članka 36. odnosno 37. ovog Kolektivnog ugovora preraspodijeliti tako, da tijekom jednog razdoblja puno ili nepuno radno vrijeme radnika traje duže, a tijekom drugog razdoblja kraće od punog odnosno nepunog radnog vremena, s tim, da prosječno radno vrijeme tijekom kalendarske godine za radnika ne smije trajati duže od punog odnosno nepunog radnog vremena iz članka 36. odnosno 37. ovog Kolektivnog ugovora«.
