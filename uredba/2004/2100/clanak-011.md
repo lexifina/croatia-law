@@ -1,0 +1,2 @@
+# Članak 11.
+Lučka uprava odnosno ovlaštenik koncesije u luci posebne namjene dužan je u roku od 6 mjeseci od stupanja na snagu ove Uredbe dostaviti nadležnoj lučkoj kapetaniji ispravu o maksimalno dozvoljenom opterećenju obale izdanu od ovlaštene stručne osobe i Svjedodžbu o tehničkih karakteristikama naprava za privez plovnih objakata iz članka 3. stavka 1. točke 4. ove Uredbe izdanu od priznate organizacije.

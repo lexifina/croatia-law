@@ -1,0 +1,4 @@
+# Članak 5.
+Svaka novoizgrađena luka, dio luke ili pojedino mjesto pristajanja ili priveza treba prije izrade glavnog projekta, odnosno prije početka korištenja luke, ukoliko glavni projekat nije potreban, mora imati maritimnu studiju prihvaćenu i potvrđenu od nadležne lučke kapetanije.
+Maritimna studija treba obuhvaćati najmanje navigacijska i meteorološko-oceanografska obilježja akvatorija, tehničko-tehnološka obilježja obale i plovnih objekata koji će uplovljavati, mjere maritimne sigurnosti tijekom manevriranja i boravka plovila na mjestu priveza, te postupke u izvanrednim okolnostima.
+Maritmnu studiju iz stavka 1. ovog članka moraju izraditi i postojeće luke ili dijelovi luka ako se rekonstruiraju ili se mijenja njihova namjena odnosno vrsta i veličina plovnih objekata koji će uplovljavati ili ako to zahtijeva nadležna lučka kapetanija.
