@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 1. Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje ("Narodne novine", br. 21/74, 34/14, 55/88, 19/90 i 66/93), Vlada Republike Hrvatske je na sjednici održanoj 7. rujna 1995. godine donijela
