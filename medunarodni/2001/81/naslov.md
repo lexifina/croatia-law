@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Okvirnog ugovora o kreditu između Republike Hrvatske, Hrvatske banke za obnovu i razvitak i Razvojne banke Vijeća Europe, za financiranje kreditnog programa malog i srednjeg poduz

@@ -1,0 +1,2 @@
+# Članak 3.
+Financijske obveze koje bi mogle nastati za Republiku Hrvatsku kao jamca na temelju Okvirnog ugovora o kreditu između Republike Hrvatske, Hrvatske banke za obnovu i razvitak i Razvojne banke Vijeća Europe, za financiranje kreditnog programa malog i srednjeg poduzetništva, podmirivat će se u skladu s odredbama propisa o izvršavanju državnih proračuna za godine 2002. do 2011. prema planovima otplate do konačne otplate kredita.
