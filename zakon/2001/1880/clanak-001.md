@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o privatizacijskim investicijskim fondovima (»Narodne novine«, br. 109/97.) u članku 8. stavku 1. podstavak 3. mijenja se i glasi:
+»- iznos jamstvenog pologa i financijski plan raspolaganja sredstvima jamstvenog pologa, koji mora uključivati troškove upravljanja Fondom, iskazane na godišnjem nivou, uključivo troškove za prikupljanje kupona, reklamu, najam uredskog prostora, trošak uvrštenja dionica na burzu, troškove dozvola, troškove objavljivanja prospekta i periodičkih priopćenja, troškove članova uprave i nadzornog odbora Fonda, te ostale troškove upravljanja fondom, osim naknade Društvu,«.
