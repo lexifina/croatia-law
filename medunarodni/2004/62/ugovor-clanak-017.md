@@ -1,0 +1,7 @@
+# Članak 17.
+(1) Zahtjev za naknadu štete koju su na području rada počinila službene osobe susjedne države, a za koje odgovara država, spadaju pod jurisdikciju susjedne države isto kao da se radnja, koja je prouzrokovala štetu, dogodila u susjednoj državi. Državljani domaće države u ostvarivanju takvih potraživanja imaju isti tretman kao državljani susjedne države.
+(2) Ako službena osoba susjedne države u domaćoj državi za vrijeme obavljanja dužnosti ili u svezi s njom izgubi život, bude povrijeđena ili je stvar koju nosi sa sobom ili na sebi oštećena ili uništena, za zahtjev za naknadu štete mjerodavno je pravo susjedne države.
+(3) Zahtjevi za naknadu štete iz stavka 2. koje podnose službene osobe ili osobe koje na nju imaju pravo, mogu se ostvariti sukladno odredbama aktualno važećeg sporazuma o uzajamnoj pravnoj pomoći između Republike Hrvatske i Republike Mađarske. Pravomoćne presude i nagodbe na temelju odštetnog zahtjeva provode se sukladno sporazumu o pravnoj pomoći.
+(4) Odredbe stavka 3. treba primjenjivati i na odštetne zahtjeve za štete pretrpljene od strane službenih osoba susjedne države u domaćoj državi tijekom boravka u području rada i izvan vremena u kojem obavlja službene dužnosti. Za sporove o odštetnom zahtjevu, po izboru oštećenog, nadležan je sud prema mjestu nastanka štetnog događaja ili prema prebivalištu počinitelja štete.
+IV. Dio
+Službena mjesta za obavljanje granične kontrole

@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Službene osobe ugovornih stranaka mogu sporazumno odstupiti od redoslijeda utvrđenog stavkom 1. članka 8. ovoga Ugovora ako je to potrebno za ubrzavanje obavljanja kontrole graničnog prometa. U tom slučaju službene osobe ulazne države smiju uhititi, te vratiti osobe ili oduzeti stvari samo nakon što su službene osobe izlazne države završile graničnu kontrolu. Službene osobe izlazne države imaju prednost prilikom uhićenja osobe ili oduzimanja stvari.
+(2) Novac koji su službene osobe susjedne države oduzele tijekom kontrole graničnog prometa u domaćoj državi ili su ih imale kod sebe za službenu uporabu, te ostale vrijednosti kao i zaplijenjene ili oduzete stvari, mogu se prenijeti u susjednu državu.
+(3) Odredbe stavka 2. ovoga članka na odgovarajući način se primjenjuju i na novac i druge vrijednosti, koje su davatelji usluga ubrali i prenijeli tijekom obavljanja dozvoljene djelatnosti.
+(4) Kontrolu graničnog prometa službene osobe Ugovornih stranaka mogu obavljati i zajednički.

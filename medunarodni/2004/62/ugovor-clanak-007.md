@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Ovlasti službenih osoba iz članka 6. stavka 1. obuhvaćaju i pravo na uhićenje, zabranu ulaska i prisilni povratak. Službene osobe susjedne države, međutim, nisu ovlaštene da državljane domaće države na svom području uhite, zadrže u pritvoru ili ih privedu u susjednu državu. Dozvoljeno im je da te osobe privedu na službeno mjesto za obavljanje kontrole graničnog prometa koje imaju na području domaće države. Ukoliko se kontrola graničnog prometa obavlja tijekom vožnje na državnom području druge ugovorne stranke tada je moguće osobu privesti na službeno mjesto za obavljanje kontrole graničnog prometa domaće države kako bi se tamo utvrdilo činjenično stanje.
+(2) Pri poduzimanju mjera iz stavka 1. potrebno je odmah uključiti službenu osobu domaće države.
+(3) Odredbe ovoga članka ne utječu na važenje zakona domaće države o azilu.
