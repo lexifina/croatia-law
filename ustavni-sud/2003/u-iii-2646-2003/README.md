@@ -1,0 +1,9 @@
+# Odbačaj radi nenadležnosti Ustavnog suda Republike Hrvatske broj: U-III-2646/2003 od 19. prosinca 2003.
+
+- Case: `U-III-2646/2003`
+- Decision: Odbačaj radi nenadležnosti
+- Decision date: `2003-12-19`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C1256A25004A262AC1256E0C00450504>
+- Official database page SHA-256: `d7b53e82764671bfa8567bd6ed67587ac0e4b866c0ab2bb3cc191dba3013a738`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
