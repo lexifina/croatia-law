@@ -1,0 +1,9 @@
+# Članak 7.
+DOBIT OD POSLOVANJA
+1. Dobit društva države ugovornice oporezuje se samo u toj državi, osim ako društvo posluje u drugoj državi ugovornici putem stalne poslovne jedinice koja se u njoj nalazi. Ako društvo posluje na taj način, dobit društva može se oporezivati u toj drugoj državi, ali samo za onaj iznos dobiti koji bude ostvaren djelatnošću te stalne poslovne jedinice.
+2. U skladu s odredbama stavka 3., ako društvo države ugovornice posluje u drugoj državi ugovornici putem stalne poslovne jedinice koja se u njoj nalazi, u svakoj se državi ugovornici smatra da stalna poslovna jedinica svojom djelatnošću ostvaruje dobit koju bi mogla ostvariti kad bi bila zasebno i nezavisno društvo koje se bavi istim ili sličnim poslovanjem pod istim ili sličnim uvjetima te kad bi poslovala potpuno samostalno s društvom čija je stalna poslovna jedinica.
+3. Pri utvrđivanju dobiti stalne poslovne jedinice, kao odbici se priznaju opravdani rashodi nastali za potrebe stalne poslovne jedinice, uključujući izvršne i opće administrativne rashode, bilo da su nastali u državi u kojoj se nalazi stalna poslovna jedinica ili drugdje.
+4. Ako je u državi ugovornici uobičajeno utvrđivati dobit stalne poslovne jedinice, na temelju raspodjele ukupne dobiti društva na njene različite dijelove, stavak 2. nikako ne sprječava tu državu ugovornicu da takvom uobičajenom raspodjelom odredi oporezivu dobit, ali prihvaćeni način raspodjele mora biti takav da rezultat bude u skladu s načelima sadržanim u ovom članku.
+5. Neće se smatrati da poslovna jedinica ostvaruje dobit samo zbog toga što kupuje dobra ili robu za društvo.
+6. Za potrebe prethodnih stavaka, dobit stalne poslovne jedinice određuje se na isti način svake godine, osim ako ne postoji opravdan i dostatan razlog da se postupi drukčije.
+7. Ako dobit uključuje i dijelove dohotka koji su na poseban način uređeni u drugim člancima ovoga Ugovora, odredbe ovoga članka ne utječu na odredbe tih članaka.

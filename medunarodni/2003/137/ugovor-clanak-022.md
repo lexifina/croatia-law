@@ -1,0 +1,10 @@
+# Članak 22.
+IZBJEGAVANJE DVOSTRUKOG OPOREZIVANJA
+1. U Hrvatskoj će se dvostruko oporezivanje izbjegavati kako slijedi:
+Kad rezident Hrvatske ostvari dohodak koji se, u skladu s odredbama ovoga Ugovora, može oporezivati u Irskoj, Hrvatska će odobriti kao odbitak od poreza na dohodak tog rezidenta iznos koji je jednak porezu na dohodak plaćenom u Irskoj.
+Takav odbitak, međutim, ne smije biti veći od onoga dijela poreza na dohodak koji je utvrđen prije odbitka, a koji se može pripisati dohotku koji je oporeziv u Irskoj.
+2. U skladu s irskim propisima o odobravanju odbitka od irskog poreza za porez plaćen na teritoriju izvan Irske (što ne utječe na opće načelo ovoga Ugovora) -
+a) hrvatski porez plativ na temelju hrvatskih propisa i u skladu s ovim Ugovorom, bilo izravno ili po odbitku, na dobit, dohodak ili dohodak od otuđenja imovine iz izvora u Hrvatskoj (isključujući slučaj poreza na dividendu plativog u svezi s dobiti iz koje se isplaćuje dividenda) uzima se kao odbitak od irskog poreza obračunatog u svezi s istom dobiti, dohotkom ili dohotkom od otuđenja imovine u svezi s kojima se obračunava hrvatski porez.
+b) u slučaju dividende koju isplaćuje društvo rezident Hrvatske društvu koje je rezident Irske i koje izravno ili neizravno raspolaže sa 10 posto ili više prava glasa u društvu koje isplaćuje dividendu, u odbitku se uzima u obzir (uz svaki hrvatski porez koji se može odbiti na temelju odredaba točke (a) ovoga stavka) hrvatski porez plativ od strane društva u svezi s dobiti iz koje se isplaćuje ta dividenda.
+3. U svrhe stavka 1. i 2. ovoga članka, dobit, dohodak ili dohodak od otuđenja imovine rezidenta države ugovornice koji se mogu oporezivati u drugoj državi ugovornici sukladno ovom Ugovoru smatraju se ostvarenima iz izvora u toj drugoj državi ugovornici.
+4. Kad se, u skladu s bilo kojom odredbom ovoga Ugovora, dohodak koji ostvari rezident države ugovornice izuzima od poreza u toj državi, ta država svejedno može, pri obračunu iznosa poreza na preostali dohodak takvoga rezidenta, uzeti u obzir izuzeti dohodak.
