@@ -1,0 +1,1 @@
+Na temelju članka 13. Zahona o eksproprijaciji ("Narodne novine", br. 46/82, 28/87, 39/88 i 73/91), a povodom prijedloga Poduzeća za održavanje, zaštitu, rekonstrukciju i izgradnju cesta u Hrvatskoj "Hrvatske ceste", Zagreb, Vlada Republike Hrvatske na sjednici održanoj 11. ožujka 1992. godine, donijela je
