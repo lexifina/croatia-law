@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda, te suci Zdravko Bartovčak, dr. Velimir Belajec, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Milan Vuković, odlučujući o prijedlogu Sabora Republike Hrvatske, na sjednici održanoj dana 29. kolovoza 1996. godine, donio je slijedeću
