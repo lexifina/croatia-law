@@ -1,0 +1,1 @@
+Na temelju članaka 3. i 30. Zakona o financiranju lokalne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00, 59/2001), Općinsko vijeće Općine Rešetari na svojoj 4. sjednici održanoj 19. listopada 2001. godine donosi
