@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 4. Zakona o sustavu državne uprave (»Narodne novine« br. 75/93, 48/99 i 15/2000) i članka 10a. Zakona o financiranju javnih potreba u kulturi (»Narodne novine« 47/90 i 27/93) ministar kulture Republike Hrvatske donosi
