@@ -1,0 +1,3 @@
+## III. PROPISIVANJE LIJEKOVA
+# Članak 6.
+Lijekove na teret Republičkog fonda može propisivati izabrani liječnik, samostalno ili na prijedlog liječnika specijalista, zatim liječnik koji pruža hitnu medicinsku pomoć i liječnici specijalisti iz članka 22. Pravilnika o načinu ostvarivanja zdravstvene zaštite osiguranika Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske. Lijekove koje prema rješenju o registraciji mogu propisivati samo liječnici određene specijalnosti, mogu propisivati i izabrani liječnici na osnovi mišljenja liječnika specijaliste, a što je potrebno posebito ovjeroviti na poleđini recepta.
