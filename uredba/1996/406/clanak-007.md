@@ -1,0 +1,2 @@
+# Članak 7.
+Ravnatelj Zavoda rukovodi Zavodom, zastupa i predstavlja Zavod i odgovoran je za njegov rad te u sklopu prava i dužnosti utvrđenih ovom Uredbom organizira i osigurava zakonito i učinkovito obavljanje poslova iz djelokruga rada Zavoda, predlaže Upravnom vijeću Zavoda donošenje akata iz njegove nadležnosti i izvršava odluke Upravnog vijeća Zavoda te obavlja druge poslove koji su mu statutom ili drugim aktom Zavoda stavljeni u nadležnost.
