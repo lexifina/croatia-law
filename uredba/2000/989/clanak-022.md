@@ -1,0 +1,2 @@
+# Članak 22.
+Odjel za kapitalna ulaganja i posebne programe izrađuje i prati normative za građenje školskih objekata i daje suglasnost na projektno - tehničku dokumentaciju, planira i izrađuje programe za financiranje i sufinanciranje kapitalnih izdataka i posebnih programa, i prati izgradnju, rekonstrukciju, adaptaciju i opremanje škola, prikuplja i objedinjuje podatke za izradu projekcije proračunskih sredstava, te predlaže odgovarajuća programska rješenja.

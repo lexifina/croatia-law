@@ -1,0 +1,3 @@
+# Članak 25.
+Odjel ustrojava i koordinira stažiranje i stručne ispite prosvjetnih djelatnika, vodi poslove oko napredovanja prosvjetnih djelatnika, ustrojava poslove vezane uz stručno usavršavanje prosvjetnih djelatnika i djelatnika Zavoda, obavlja poslove u vezi odgoja i obrazovanja djece s teškoćama u razvoju, priprema posebne programe i programe nacionalnih manjina, te obavlja poslove vezane za udžbenike nacionalnih manjina, skrbi za organizaciju susreta i natjecanja učenika, surađuje s dječjim vrtićima i školama iz svog djelokruga, obavještava, priprema stručna mišljenja i rješava neupravne predmete iz svog djelokruga rada.
+8.3. Odjel za predškolske, osnovnoškolske i gimnazijske programe

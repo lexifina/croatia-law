@@ -1,0 +1,2 @@
+# Članak 9.
+Odjel za informacijske i dokumentacijske poslove organizira i vodi informacijsko-dokumentacijske poslove za područje školstva, uspostavlja bazu podataka te osigurava sistemske funkcije informatičke infrastrukture i informatizaciju poslovnih funkcija. Priprema prijedloge i predlaže utvrđivanje dokumentacijskih standarda u djelatnosti školstva, pruža informacijsko-stručnu pomoć i informacijsku podlogu ostalim upravama i odjelima te obavlja druge poslove iz svog djelokruga.

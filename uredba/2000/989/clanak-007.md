@@ -1,0 +1,4 @@
+# Članak 7.
+Odjel za srednje školstvo prati stanje u srednjem školstvu, školovanju mladeži s teškoćama u razvoju i izobrazbi odraslih, brine se o izvršavanju zakona i drugih propisa na ovim područjima daje stručne podloge za izradu nacrta prijedloga zakona i drugih propisa, obavlja radnje u postupku rješavanja u vezi s osnivanjem i početkom rada srednjih škola i izvođenjem srednjoškolskih programa, izrađuje stručne podloge, prati rad i djelovanje županijskih ureda i tijela lokalne samouprave i uprave nadležnih za poslove srednjega školstva, vodi propisane očevidnike, brine se o upisnoj politici predlaže kriterije i mjerila za upis učenika, te obavlja poslove dodjele nagrada.
+Odjel rješava u neupravnom postupku, obavlja stručne poslove u postupku rješavanja o žalbama u predmetima iz područja srednjega školstva, izrađuje prijedloge rješenja i obavlja druge poslove iz svog djelokruga.
+3.3. Odjel za udžbenike, nastavna sredstva i opremu

@@ -1,0 +1,2 @@
+# Članak 27.
+Odjel obavlja poslove vezane za utvrđivanje nastavnih planova i programa, udžbenika i nastavnu opremu, praćenje i polaganje stručnih ispita, rješavanje pojedinačnih zahtjeva za napredovanje, obavlja poslove stručnog usavršavanja, uvida i nadzora u strukovnim školama i učeničkim domovima, te vodi poslove vezane za nastavne planove i programe, stručno usavršavanje te nadzor u području obrazovanja odraslih, surađuje sa školama i županijskim uredima u vezi svoga djelokruga, obavještava, priprema stručna mišljenja i rješava neupravne predmete iz svog djelokruga rada.
