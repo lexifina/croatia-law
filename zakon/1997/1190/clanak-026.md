@@ -1,0 +1,2 @@
+# Članak 26.
+Obveznici poreza na promet nekretnina koji su do dana stupanja na snagu ovoga Zakona sklopili ugovor o prodaji budućih građevina, a nije im nastala porezna obveza u smislu članka 11. stavka 2. Zakona o porezu na promet nekretnina ("Narodne novine", br. 53/90., 59/90., 61/90. i 95/94.) moraju prijaviti ugovor ili ispravu o drugom pravnom poslu kojima se prenosi vlasništvo buduće građevine ispostavi Porezne uprave na području koje se gradi građevina u roku od 30 dana od dana stupanja na snagu ovoga Zakona.

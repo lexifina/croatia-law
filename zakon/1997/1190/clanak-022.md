@@ -1,0 +1,2 @@
+# Članak 22.
+Ako se ugovor o prijenosu vlasništva na nekretnini raskine voljom stranaka u roku od 60 dana od dana sklapanja ugovora, a prije nego što bude obavljen prijenos u zemljišnim knjigama na novog vlasnika ili ako se ugovor raskine ili poništi odlukom suda, porezni obveznik ima pravo na povrat plaćenog poreza. Prijenos vlasništva zbog raskida ili poništenja ugovora ili drugoga pravnog posla ne smatra se novim prometom nekretnina u smislu ovoga Zakona.

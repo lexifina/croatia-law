@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Prometom nekretnina, u smislu ovoga Zakona, ne smatra se stjecanje novosagrađenih građevina koje se oporezuju prema Zakonu o porezu na dodanu vrijednost.
+(2) Novosagrađenim građevinama iz stavka 1. ovoga članka smatraju se građevine ili njihovi dijelovi koji su sagrađeni, isporučeni ili plaćeni nakon dana početka primjene Zakona o porezu na dodanu vrijednost
+(3) Ako stjecatelj novosagrađenih građevina nije mogao odbiti zaračunani porez na dodatnu vrijednost kao pretporez, u daljnjem prometu ove se građevine oporezuju prema odredbama ovoga Zakona. Ako je stjecatelj novosagrađenih građevina mogao samo djelomično odbiti zaračunani porez na dodanu vrijednost kao pretporez, u daljnjem prometu ove se građevine oporezuju prema ovome Zakonu u dijelu u kojem stjecatelj nije mogao odbiti porez na dodanu vrijednost kao pretporez.

@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Javni bilježnik koji ovjerovljuje potpise na ispravama o prodaji ili drugom načinu otuđenja nekretnine obvezan je jedan primjerak isprave dostaviti ispostavi Porezne uprave na području koje se nalazi nekretnina u roku od 15 dana po isteku mjeseca u kojem je ovjerovljen potpis na ispravi, prema propisima o obveznom osobnom dostavljanju pismena.
+(2) Sudovi i druga tijela obvezni su ispostavi Porezne uprave na području koje se nalazi nekretnina dostavljati svoje odluke, kojima se mijenja vlasništvo nekretnina u zemljišnim knjigama, odnosno u službenim očevidnicima u roku od 15 dana po isteku mjeseca u kojem je odluka postala pravomoćna, prema propisima o obveznom osobnom dostavljanju pismena.
