@@ -1,0 +1,3 @@
+# Članak 5.
+U prihod iz članka 3. ovoga Zakona ne uračunava se: pomoć za uzdržavanje, doplatak za pripomoć u kući, pomoći za podmirenje troškova stanovanja, doplatak za pomoć i njegu, doplatak za djecu, ortopedski doplatak, osobna invalidnina, opskrbnina i obiteljska invalidnina ostvareni sukladno Zakonu o socijalnoj skrbi, Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji i Zakonu o zaštiti vojnih i civilnih invalida rata.
+Prihod iz članka 3. ovoga Zakona umanjuje se za iznos koji na temelju propisa o obiteljskim odnosima član obitelji plaća za uzdržavanje osobe koja nije član te obitelji.

@@ -1,0 +1,3 @@
+# Članak 2.
+Sudjelovanja u plaćanju razlike do pune vrijednosti prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja iz članka 17. stavka 2. točke 2. - 6. Zakona o zdravstvenom osiguranju oslobađaju se osigurane osobe Zavoda čiji ukupan prihod u prethodnoj kalendarskoj godini, iskazan po članu obitelji, mjesečno nije veći od 40% proračunske osnovice (prihodovni cenzus).
+Iznimno od stavka 1. ovoga članka, osiguranik-umirovljenik samac ima pravo na oslobađanje od plaćanja razlike do pune vrijednosti prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja ako njegov pripadajući prihod u prethodnoj kalendarskoj godini nije veći od 52% proračunske osnovice.
