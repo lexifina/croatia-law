@@ -1,0 +1,3 @@
+# Članak 71.
+Povrati glavnice koje proračun i proračunski korisnici dobiju na ime danih zajmova evidentiraju se odobrenjem odgovarajućeg računa primljenih otplata (povrata) glavnice danih zajmova u skupini 81 i zaduženjem računa novčanih sredstava. Istovremeno se odobrava odgovarajući račun danih zajmova u skupini 13 i zadužuje račun izvora vlasništva u skupini 91.
+Kamate za dane zajmove evidentiraju se zaduženjem računa potraživanja za kamate za dane zajmove u skupini 16 i odobrenjem računa prihoda od kamata za dane zajmove u skupini 64. Kada se kamate naplate odobrava se račun potraživanja za kamate i zadužuje se odgovarajući račun izvora vlasništva u skupini 91.

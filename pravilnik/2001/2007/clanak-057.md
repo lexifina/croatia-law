@@ -1,0 +1,2 @@
+# Članak 57.
+Proračuni i proračunski korisnici koji prema drugim propisima mogu davati zajmove evidentiraju ih zaduživanjem odgovarajućeg računa izdataka za dane zajmove u skupini računa 51 i odobravanjem računa novčanih sredstava te se istovremeno zadužuje odgovarajući račun zajmova u skupini 13 i odobrava odgovarajući račun vlastitih izvora u razredu 9. Potraživanja za kamate evidentiraju se odvojeno na odgovarajućem računu potraživanja za prihode poslovanja u skupini 16.

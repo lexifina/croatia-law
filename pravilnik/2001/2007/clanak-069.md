@@ -1,0 +1,3 @@
+## Vg. PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+# Članak 69.
+Prodaju nefinancijske imovine proračun i proračunski korisnici evidentiraju odobrenjem odgovarajućeg računa prihoda od prodaje nefinancijske imovine u razredu 7 i zaduženjem odgovarajućeg računa potraživanja od prodaje nefinancijske imovine u skupini računa 17. Istovremeno se odobrava račun prodane nefinancijske imovine u razredu 0 i zadužuje odgovarajući račun izvora vlasništva u skupini 91. Kada kupac plati kupljenu imovinu zadužuje se račun novčanih sredstava i odobrava račun potraživanja od prodaje nefinancijske imovine u skupini računa 17.

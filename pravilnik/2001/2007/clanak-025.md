@@ -1,0 +1,8 @@
+# Članak 25.
+(1) Skupina računa 02 - Proizvedena dugotrajna imovina sastoji se od: građevinskih objekata, postrojenja i opreme, prijevoznih sredstava, knjiga, umjetničkih djela i ostalih izložbenih vrijednosti, višegodišnjih nasada i osnovnog stada, i nematerijalne proizvedene imovine.
+(2) Zgrade i ostali građevinski objekti iskazuju se odvojeno od zemljišta na kojem su smješteni. Ako nije moguće odvojiti vrijednost objekta od vrijednosti zemljišta tada se čitav iznos evidentira na imovini koja ima veću vrijednost (najčešće su to građevinski objekti).
+(3) Spomenici u obliku zgrada i građevinskih objekata evidentiraju se na računima zgrada odnosno građevinskih objekata.
+(4) Knjige, umjetnička djela i ostale izložbene vrijednosti jesu predmeti koje muzeji, galerije, knjižnice i slične ustanove unutar opće države posjeduju i izlažu s ciljem pružanja usluga stanovništvu. Kada se navedeni predmeti čuvaju pohranjeni i ne koriste u procesu pružanja usluga evidentiraju se kao pohranjene knjige, umjetnička djela i slične vrijednosti u skupini računa 03.
+(5) Nematerijalna proizvedena imovina sastoji se od: ulaganja u istraživanja rudnih bogatstava, ulaganja u računalne programe, umjetničkih, literarnih i znanstvenih djela i slično.
+1. Vrijednost ulaganja u istraživanja rudnih bogatstava sastoji se od troškova ispitivanja tla, troškova bušenja, kopanja i sličnih aktivnosti koje se poduzimaju. U vrijednost ulaganja ulaze i vrijednosti plaćenih licenci, nabavke, troškovi transporta i svi ostali troškovi nastali u toku provođenja istraživanja.
+2. Ulaganja u računalne programe obuhvaćaju troškove kupnje ili nastale vlastite troškove izrade i razvoja programa.

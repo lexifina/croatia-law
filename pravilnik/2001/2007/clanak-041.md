@@ -1,0 +1,2 @@
+# Članak 41.
+Skupina računa 24 - Obveze za nabavu nefinancijske imovine sadrži obveze koje se u trenutku nastanka priznaju kao rashod na računima razreda 4 - Rashodi za nabavu nefinancijske imovine, a to su obveze za nabavu: neproizvedene imovine, proizvedene dugotrajne imovine, plemenite metale, umjetničkih i znanstvenih djela i ostale vrijednosti, zaliha te obveze za dodatna ulaganja na nefinancijskoj imovini.
