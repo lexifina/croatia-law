@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", br. 53/90, 61/91, 25/93 i 70/93) Vlada Republike Hrvatske je na sjednici održanoj 25. svibnja 1995. donijela
