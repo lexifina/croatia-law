@@ -1,0 +1,3 @@
+## 1. KABINET MINISTRA
+# Članak 4.
+U Kabinetu ministra obavljaju se administrativni i stručni poslovi za ministra i njegovog zamjenika, protokolarni poslovi, poslovi u svezi odnosa sa sredstvima javnog priopćavanja, poslovi u svezi kontakata i komunikacije sa Hrvatskim državnim saborom, Vladom Republike Hrvatske i drugim tijelima državne uprave te pravnim osobama koje obavljaju javne ovlasti iz djelokruga Ministarstva, poslovi u svezi sa zaprimanjem i rješavanjem pošte upućene ministru i njegovom zamjeniku, poslovi u svezi s evidencijom i pohranom povjerljive pošte, kao i drugi stručni i administrativni poslovi u svezi s realizacijom programa rada i aktivnosti ministra i njegovog zamjenika.

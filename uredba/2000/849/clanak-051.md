@@ -1,0 +1,3 @@
+# Članak 51.
+Odjel za slobodne zone obavlja upravne i stručne poslove koji se odnose na predlaganje, provođenje i praćenje sustava, te razvoja slobodnih zona u Republici Hrvatskoj; obavlja stručne poslove u svezi s osnivanjem slobodnih zona, provodi postupke oko priprema odluka o davanju koncescije i suglasnosti za osnivanje slobodnih zona, provodi i koordinira poslove u svezi s utvrđivanjem uvjeta za početak rada zona; predlaže poticajne mjere za razvoj određenih djelatnosti u zoni, izrađuje prijedloge propisa koji uređuju pitanja slobodnih zona.
+4. Odjel za praćenje poslova o poticanju i zaštiti ulaganja

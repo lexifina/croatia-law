@@ -1,0 +1,3 @@
+# Članak 34.
+Odsjek za trgovinske pregovore s EU i drugim europskim integracijama sudjeluje u usklađivanju i vođenju trgovinskih pregovora o uključivanju RH u EU i druge europske integracije, poglavito u dijelu koji se odnosi na trgovinsku politiku. Usklađuje i vodi pregovore o slobodnoj trgovini s EFTA-om i prati njihovu provedbu. Izrađuje analitičke podloge za pripremu pregovaračkih stajališta za integraciju u EU u dijelu koji se odnosi na trgovinsku politiku, predlaže mjere te sudjeluje u pripremama prilagodbe domaćeg gospodarstva pravilima i propisima EU, sudjeluje u konkretnoj provedbi poslova integracije u području gospodarske i trgovinske politike, obavlja i druge poslove iz svog djelokruga.
+3. Odjel za bilateralne međunarodne gospodarske odnose

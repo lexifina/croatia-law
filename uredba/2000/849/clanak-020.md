@@ -1,0 +1,2 @@
+# Članak 20.
+Odjel za naftno-plinsko gospodarstvo prati razvojne programe i poslovanje trgovačkih društava iz područja nafte i plina, izrađuje analize i stručne podloge za predlaganje razvoja naftno-plinskog gospodarstva u državi u skladu sa prirodnim mogućnostima i energetskom strategijom, prati preradu, opskrbu i transport nafte i plina, transportne naftne i plinske cjevovodne sisteme u zemlji i veze s europskim sistemima, prati razvoj naftno-plinskog gospodarstva u inozemstvu, te obavlja i druge poslove iz svog djelokruga.

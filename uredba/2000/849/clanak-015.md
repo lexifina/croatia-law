@@ -1,0 +1,3 @@
+# Članak 15.
+Odjel za energetiku obavlja poslove u svezi pripreme prijedloga energetske bilance Republike Hrvatske, kontinuirano prati, analizira i osigurava njenu provedbu, izrađuje energetsko-gospodarske analize tijekova energije, prati utjecaj svjetskog na domaće tržište energenata, analizira tehnoekonomske efekte cijena energenata i odnose cijena između pojedinih energenata, obavlja poslove u svezi planiranja i izgradnje energetskih objekata te njihovog utjecaja na okoliš, ocjenjuje tehničko-sigurnosne analize i procjenu rizika za energetske objekte, usklađuje izradu i operacionalizaciju radova energetskog sustava Republike Hrvatske sa sustavima drugih zemalja, te obavlja i druge poslove iz svog djelokruga.
+2. Odjel za elektroenergetiku

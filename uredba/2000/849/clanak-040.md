@@ -1,0 +1,2 @@
+# Članak 40.
+Odsjek za promociju izvoza organizira i prati promotivne i promidžbene aktivnosti u zemlji i inozemstvu u cilju povećanja izvoznih aktivnosti RH. Provodi sufinaciranje promidžbe hrvatskog izvoznog gospodarstva u inozemstvu, surađuje i usklađuje aktivnosti drugih institucija i tijela koja se također bave poslovima promocije izvoza, posebno u dijelu koji se odnosi na informiranje i dostupnost baza podataka o ponudi i potražnji roba na hrvatskom i svjetskom tržištu.

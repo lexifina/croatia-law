@@ -1,0 +1,3 @@
+# Članak 66.
+U Ministarstvu se utvrđuje posebni položaj: glasnogovornik Ministarstva.
+Sukladno odredbi članka 159. stavak 3. Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti položaj državnog službenika iz točke 1. ovog članka razvrstava se od V. do III. platnog razreda s time da je početni platni razred V. položaja najniži platni razred u koji se postavljaju državni službenici I. vrste zvanja koji imaju 10 godina radnog staža potrebnog za stjecanje pojedinog položaja, dok je završni platni razred III. položaja platni razred s rasponom od 15 do 20 godina radnog staža.

@@ -1,0 +1,4 @@
+# Članak 45.
+Odjel za tržište i cijene predlaže i provodi gospodarsku politiku s područja tržišta i cijena; prati stanje i zbivanje na tržištu značajnijih roba uključujući odnos ponude i potražnje, radi na provođenju ugovora o slobodnoj trgovini, te predlaže poticajne i zaštitne mjere uključujući i uporabu državnih robnih zaliha; a sve sa ciljem otklanjanja poremećaja na tržištu; surađuje u organizaciji opskrbe tržišta u izvanrednim prilikama; prikuplja i informatički obrađuje podatke o kretanju cijena na domaćem i stranom tržištu, kretanju izvoza i uvoza i druge podatke za kontinuirano praćenje stanja na tržištu; izrađuje analize i izvješća o stanju tržišta i cijena; surađuje s drugim upravama, ministarstvima i institucijama i pruža stručnu pomoć tijelima jedinice lokalne samouprave i uprave nadležnim za poslove tržišta i cijena, obavlja i druge poslove iz svoga djelokruga.
+5. Odjel za praćenje i primjenu međunarodnih
+normi i ugovora o trgovini

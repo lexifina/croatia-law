@@ -1,0 +1,2 @@
+# Članak 63.
+Odsjek za pravne poslove priprema i izrađuje ugovore i druge akte koji se odnose na poslovanje i skladištenje robnih zaliha; priprema akte i ostvaruje suradnju s Državnim pravobraniteljstvom Republike Hrvatske u postupcima zaštite interesa Ravnateljstva u sporovima pred sudovima; organizira poslove u svezi osiguranja imovine, sudjeluje u pripremi propisa iz djelokruga Ravnateljstva, priprema sjednice Savjeta za robne zalihe te ostale pravne i opće poslove.

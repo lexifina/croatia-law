@@ -1,0 +1,3 @@
+# Članak 18.
+Odjel za nuklearnu sigurnost ocjenjuje tehničko-sigurnosne analize i procjene rizika za energetske objekte; obavlja upravne poslove u svezi s izgradnjom i korištenjem nuklearnih objekata; prati svjetski razvoj i sudjeluje u znanstveno-tehničkoj suradnji na projektima primjene nuklearne i drugih novih tehnologija u energetskim objektima; provodi kontrolu nuklearnog materijala i posebne nuklearne opreme; skrbi za plan i program postupaka za slučaj nuklearne nesreće; prati stanje sigurnosti nuklearnih objekata u regiji te obavlja i druge poslove iz svog djelokruga.
+5. Odjel za rudarstvo
