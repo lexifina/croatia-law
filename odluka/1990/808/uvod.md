@@ -1,0 +1,1 @@
+Na temelju Amandmana LXII. na Ustav Republike Hrvatske, a u skladu s odredbama člana 204. i 205. Zakona o upravi ("Narodne novine", br. 16/78, 50/78 i 29/85), Sabor Republike Hrvatske, na sjednici Vijeća udruženog rada 5. listopada 1990, Vijeća općina 5. listopada 1990. i Društveno-političkog vijeća 5. listopada 1990, donio je
