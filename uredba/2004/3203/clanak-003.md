@@ -1,0 +1,122 @@
+# Članak 3.
+U točki b) Radna mjesta VSS u rednom broju 5. dodaje se:
+NAZIV RADNOG
+NAZIV
+KOEFICIJENT
+DODACI
+MJESTA
+ZVANJA
+SLOŽENOSTI
+POLICIJSKI
+policijski
+1,62
+25
+SLUŽBENIK
+savjetnik
+PREGOVARAČ
+U rednom broju 6. dodaje se:
+NAZIV RADNOG
+NAZIV
+KOEFICIJENT
+DODACI
+MJESTA
+ZVANJA
+SLOŽENOSTI
+VODITELJ
+policijski
+1,62
+20
+POSLOVA
+savjetnik
+OSIGURANJA
+U rednom broju 10. dodaje se:
+NAZIV RADNOG
+NAZIV
+KOEFICIJENT
+DODACI
+MJESTA
+ZVANJA
+SLOŽENOSTI
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+POSLOVE
+inspektor
+OSIGURANJA
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+MIROVNE MISIJE
+inspektor
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+EUROPSKE
+inspektor
+INTEGRACIJE I
+PROVEDBU
+PROJEKATA
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+EUROPSKE
+inspektor
+INTEGRACIJE I
+USKLAĐIVANJE
+S EUROPSKIM
+ZAKONODAV-
+-STVOM
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+VOZILA
+inspektor
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+VOZAČE
+inspektor
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+OPERATIVNE
+inspektor
+POSLOVE
+TEHNIČKI
+glavni
+1,55
+20
+INSPEKTOR
+policijski
+ZA LETJELICE
+inspektor
+POLICIJSKI
+glavni
+1,55
+20
+SLUŽBENIK ZA
+policijski
+INFORMIRANJE
+inspektor
+U rednom broju 11. za radno mjesto »PILOT HELIKOPTERA I. KATEGORIJE« dodaci: »50« mijenjaju se i glase: »80«.

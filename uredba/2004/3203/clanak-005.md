@@ -1,0 +1,76 @@
+# Članak 5.
+U točki e) radna mjesta SSS u rednom broju 3. dodaje se:
+NAZIV RADNOG
+NAZIV
+KOEFICIJENT
+DODACI
+MJESTA
+ZVANJA
+SLOŽENOSTI
+DEŽURNI
+policijski
+0,99
+20
+POLICIJSKI
+narednik
+SLUŽBENIK
+ŠEF OSIGURANJA
+policijski
+0,99
+20
+ŠTIĆENOG
+narednik
+OBJEKTA
+POLICIJSKI
+policijski
+0,99
+20
+SLUŽBENIK ZA
+narednik
+SUZBIJANJE
+PREKOGRA-
+-NIČNOG
+KRIMINALITETA
+U rednom broju 4. za radno mjesto: »ZRAKOPLOVNI TEHNIČAR« dodaci: »50« mijenjaju se i glase: »75«.
+U rednom broju 5. dodaje se:
+NAZIV RADNOG
+NAZIV
+KOEFICIJENT
+DODACI
+MJESTA
+ZVANJA
+SLOŽENOSTI
+POLICIJSKI
+viši
+0,9
+40
+SLUŽBENIK ZA
+policajac
+PROVEDBU
+NADZORA
+DRŽAVNE
+GRANICE
+U rednom broju 9. dodaje se:
+NAZIV RADNOG
+NAZIV
+KOEFICIJENT
+DODACI
+MJESTA
+ZVANJA
+SLOŽENOSTI
+POLICIJSKI
+viši
+0,9
+20
+SLUŽBENIK ZA
+policajac
+OSIGURANJE
+OBJEKTA
+POLICIJSKI
+SLUŽBENIK -
+LOGISTIČAR U
+viši
+0,9
+20
+MOBILNOJ
+policajac
