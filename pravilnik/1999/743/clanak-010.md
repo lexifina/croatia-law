@@ -1,0 +1,4 @@
+# Članak 10.
+Pojedinačni uzorci sjemena mogu se uzimati ubadačima različitih tipova (šila, sonde i sl.) te rukom ili uređajem za automatsko uzimanje uzoraka, ovisno o fizikalnim svojstvima sjemena, svrsi uzimanja uzoraka, vrsti pakiranja, načinu uskladištenja i opremi za doradu sjemena.
+Uzorak iz partije gomolja i lukovica uzima se otvaranjem ambalaže iz koje se, slučajnim izborom, iz tri do osam pakiranja uzima najmanje po 100 gomolja, a za uzorak iz partije lukovica uzima se tri puta po pola kilograma. U tu svrhu otvorena ambalaža mora se odmah nakon uzimanja uzoraka ponovno zatvoriti na način utvrđen u članku 24. ovog pravilnika.
+Uzorak gomolja odnosno lukovica, uzet na način utvrđen u stavku 2. ovog članka, dijeli se na tri jednaka dijela koji se posebno pakiraju u papirne, platnene ili jutene vreće, zatvaraju i plombiraju. U tom slučaju ne uzima se posebni uzorak za vlagu.

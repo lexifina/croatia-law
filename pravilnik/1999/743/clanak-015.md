@@ -1,0 +1,5 @@
+# Članak 15.
+Prosječni uzorak pakira se u čistu, suhu i neupotrebljavanu papirnu, plastičnu, platnenu i sličnu vreću, obilježava se rednim brojem partije sjemena i dostavlja laboratoriju za ispitivanje kakvoće sjemena. Ako osoba koja je uzela uzorke ne nosi uzorke uza se, oni se pakiraju u jutenu ili plastičnu vreću, plombiraju ili zapečate i tako dostavljaju laboratoriju.
+Uzorak za ispitivanje udjela vlage pakira se u čistu i suhu staklenu, limenu ili plastičnu bočicu odnosno posudu ili polietilensku vrećicu najmanje 0,05 mm debljine. Bočica odnosno posuda ili vrećica hermetički se zatvaraju i pečate preko zatvarača odnosno vezuju uzicom i plombiraju. Bočica, posuda, odnosno vrećica, mora biti napunjena sjemenom do ruba zatvarača odnosno do ruba zatvaranja.
+Uzorci iz st. 1. i 2. ovog članka zatvaraju se tako da se onemogući otvaranje upakiranog uzorka bez oštećenja ambalaže odnosno pečata ili plombe.
+Do proteka roka važenja deklaracije uzorci sjemena čuvaju se u posebnom prostoru (suhom i čistom, uz mogućnost provjetravanja) tako da se sačuvaju osnovna svojstva uzorka sjemena.

@@ -1,0 +1,2 @@
+# Članak 14.
+U iznimnim slučajevima, kad se uzima uzorak izrazito skupog izvornog ili drugog visokovrijednog sjemena, proizvedenog u ograničenim količinama značajnim za daljnju reprodukciju, uzorak može imati manju masu od propisane mase, ali toliko da je iz nje moguće ispitivati kakvoću tog sjemena, a u obrasce 1. i 2. iz članka 8. ovog pravilnika unosi se napomena o masi uzetog uzorka ili broju sjemenki uzetog uzorka.
