@@ -1,0 +1,1 @@
+Na osnovi članka 63.stavka 2.Zalkona o izmjenama i dopunama Zakona ozdravstvenoj zaštiti i zdravstvenom osiguranju i članka 22.alineje 3.StatutaRepubličkog fonda zdravstvenog osiguranja i zdravstva Hrvatske,SkupštinaRepubličkog fonda zdravstvenog osiguranja i zdravstva Hrvatske,na svojojsjednici održanoj 16.siječnja 1991.godine,donosi
