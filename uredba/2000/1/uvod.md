@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/96) i članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93 i 48/99), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1999. godine donijela
