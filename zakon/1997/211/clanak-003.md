@@ -1,0 +1,3 @@
+# Članak 3.
+Zagrebačka županija preuzet će državne službenike i namještenike u županijskim uredima dosadašnje Zagrebačke županije, državne službenike i namještenike Županije sisačko-moslavačke na radu u ispostavama županijskih ureda u Ivanić-Gradu te zaposlene u županijskim upravnim tijelima Zagrebačke županije.
+Na državne službenike, odnosno namještenike, koji ne budu raspoređeni u roku od 60 dana od dana stupanja na snagu ovoga Zakona, primijenit će se odredbe Zakona o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti, a na zaposlene u upravnim tijelima Zakon o upravi.

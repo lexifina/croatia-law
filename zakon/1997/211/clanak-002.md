@@ -1,0 +1,2 @@
+# Članak 2.
+Do konstituiranja skupštine i izbora župana i županijskog poglavarstva Zagrebačke županije, nastavljaju radom dosadašnja Skupština Zagrebačke županije, župan, poglavarstvo, županijski uredi i županijska upravna tijela s dosadašnjim nadležnostima za područje Zagrebačke županije izvan Grada Zagreba, a tijela Županije sisačko-moslavačke za područje grada Ivanić-Grada te općina Križ i Kloštar Ivanić.
