@@ -1,0 +1,3 @@
+# Članak 33.
+Ministar kulture i prosvjete, na prijedlog Hrvatskog olimpijskog odbora, propisat će kriterije za programiranje i dodjelu sredstava iz članka 29. stavka 1. ovoga Zakona, način njihovog raspoređivanja i dodjele, te način praćenja njihovog korištenja.·
+Rukovoditelj općinskog, odnosno gradskog organa uprave nadležnog za poslove športa, na prijedlog općinskog, odnosno gradskog udruženja športskih organizacija i saveza, propisat će kriterije za programiranje i dodjelu sredstava iz članka 31. stavka 1. ovoga Zakona, način njihovog raspoređivanja i dodjele, te način praćenja njihovog korištenja.

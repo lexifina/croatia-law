@@ -1,0 +1,2 @@
+# Članak 23.
+Osoba koja će obavljati samostalnu djelatnost dužna je prljaviti njezin početak s podacima o: vrsti poslova, stručnoj spremi, odnosno stručnoj osposobljenosti, poslovnom prostoru, djelatnicima i njihovoj stručnoj spremi, odnosno stručnoj osposobljenosti i nazivu tvrtke pod kojom će se djelatnost obavljati, organu uprave općine, odnosno Grada Zagreba, nadležnom za poslove športa na području gdje će je obavljati, a ako djelatnost obavlja na području više općina, organu uprave nadležnom za poslove športa u općini svog prebivališta.

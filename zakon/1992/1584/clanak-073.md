@@ -1,0 +1,3 @@
+# Članak 73.
+Športskim objektima upravljaju pravne i fizičke osobe koje su stekle pravo vlasništva nad tim objektima u skladu s propisima kojima se uređuje stjecanje prava vlasništva, odnosno pravne i fizičke osobe koje su zaključile ugovor o zakupu s vlasnikom objekta ili upravljaju objektom na temelju odobrenja vlasnika.
+Športskim objektima koji su izgrađeni na površinama koje su, prema prostornim planovima, namijenjene športu, namjena se može mijenjati u skladu s posebnim propisima i uz suglasnost organa uprave nadležnog za poslove športa općine, odnosno Grada Zagreba, na području na kojem se nalaze.
