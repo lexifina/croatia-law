@@ -1,0 +1,2 @@
+# Članak 6.
+Uvjerenje o zdravstvenoj sposobnosti za poslove čuvara izdaje specijalist medicine rada, a ocjena glasi »sposoban«, »nesposoban« i »potrebna daljnja obrada«. Liječnik specijalist medicine rada dužan je liječničku svjedodžbu izdati u roku od 15 dana od započetog pregleda. Nakon dopunske obrade liječnik je dužan u roku od 30 dana od započetoga rada izdati liječničku svjedodžbu sa napisanom ocjenom. Ako specijalist medicine rada procjeni da je čuvara potrebno pregledati u vremenu kraćem od propisane dvije godine dužan je taj rok u svjedodžbi napisati.

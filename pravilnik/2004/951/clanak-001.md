@@ -1,0 +1,3 @@
+# Članak 1.
+Ovim se Pravilnikom propisuju uvjeti koje moraju ispunjavati zdravstvene ustanove i specijalističke ordinacije za medicinu rada koje obavljaju zdravstvene preglede kojima se utvrđuje zdravstvena sposobnost za obavljanje poslova čuvara i zaštitara zaposlenih u ovlaštenoj pravnoj ili fizičkoj osobi za obavljanje privatne zaštite te način i postupak obavljanja zdravstvenih pregleda, popis kontraindikacija za obavljanje poslova čuvara i popis bolesti i zdravstvenih stanja koja osobu čine nesposobnom za poslove zaštitara.
+Ovim Pravilnikom utvrđuje se i način vođenja evidencije, medicinske dokumentacije te sadržaj uvjerenja o izvršenom zdravstvenom pregledu zaštitara.
