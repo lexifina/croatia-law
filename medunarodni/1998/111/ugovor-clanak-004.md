@@ -1,0 +1,2 @@
+# Članak 4.
+Ugovorne stranke će, u skladu sa svojim važećim zakonima i propisima, pojednostaviti formalnosti za svoje građane u svrhu jačanja turističkog prometa između dviju zemalja. Posebnu će pozornost posvetiti jačanju turističkog prometa između svojih zemalja, u smislu grupnog i pojedinačnog turizma, kao i specijalnih tematskih putničkih grupa, za kongrese, simpozije, izložbe, sportske aktivnosti, glazbene i kazališne festivale, itd.
