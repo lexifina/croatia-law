@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o sadržaju i obliku diploma koje izdaju visoka učilišta (»Narodne novine« br. 53/01.) iza članka 3. dodaje se novi članak 3 A koji glasi:
+»Do stupanja na snagu pravilnika Rektorskog zbora o sadržaju dopunske isprave o studiju (supplement), visoka učilišta mogu u obrasce diploma upisivati državu rođenja, a za osobe rođene u Republici Hrvatskoj i županiju rođenja (obrasci 1, 2, 3, 4, 5 i 6), datum obrane diplomskog rada ili završnog ispita (obrazac 1), datum obrane magistarskog, odnosno umjetničkog rada (obrasci 2, 3 i 4), datum obrane disertacije (obrasci 5 i 6), te članove povjerenstva za ocjenu i obranu magistarskog rada, odnosno disertacije (obrasci 2, 3, 4, 5 i 6)«.
