@@ -1,0 +1,1 @@
+Na temelju člana 28. Zakona o zadrugama, člana 2: Zakona o udruživanju u privredne komore i članka 39. Statuta Zadružnog saveza Slavonije i Baranje Osijek, Upravni odbor Saveza je na sjednici održanoj 11. lipnja 1991. godine donio
