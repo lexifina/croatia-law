@@ -1,0 +1,15 @@
+MEĐUNARODNA KONVENCIJA O PRIPRAVNOSTI, AKCIJI I SURADNJI ZA SLUČAJ ONEČIŠĆENJA ULJEM, IZ 1990. GODINE
+STRANKE OVE KONVENCIJE,
+SVJESNE potrebe očuvanja čovjekova okoliša općenito, a osobito morskoga okoliša,
+PRIZNAVAJUĆI ozbiljnu prijetnju morskome okolišu zbog nezgoda onečišćenja uljem s brodova, pučinskih jedinica, morskih luka i postrojenja za rukovanje uljem,
+SVJESNE važnosti koju imaju mjere opreza i prevencija da bi se, prije svega, izbjeglo onečišćenje uljem, te potrebe dosljednog pridržavanja postojećih međunarodnih instrumenata, koji se odnose na sigurnost na moru i sprečavanje onečišćenja morskoga okoliša, posebice Međunarodne konvencije o sigurnosti ljudskog života na moru iz 1974. godine s izmjenama, te Međunarodne konvencije o sprečavanju onečišćenja s brodova iz 1973, dopunjene odnosnim Protokolom iz 1978. godine, s izmjenama, kao i brzog unapređenja standarda za gradnju, rukovanje i održavanje brodova, koji prevoze ulje te pučinskih jedinica,
+SVJESNE TAKOĐER da je, u slučaju nezgode onečišćenja uljem, trenutačna i djelotvorna akcija bitna za suzbijanje štete, koja iz takvog događaja može proizaći,
+NAGLAŠAVAJUĆI važnost djelotvorne pripreme za suprotstavljanje nezgodama onečišćenja uljem i važne uloge, koju u tom pogledu imaju naftna i brodarska privreda,
+PRIZNAJUĆI NADALJE važnost uzajamnog pomaganja i međunarodne suradnje u predmetima, koji uključuju razmjenu informacija glede sposobnosti država da odgovore na nezgode onečišćenja naftom, pripremanje planova za slučaj nužde, razmjenu izvješća o značajnijim nezgodama, koje mogu štetiti morskome okolišu ili obali, te uz njih vezanim interesima država, kao i znanstveno-istraživačke i razvojne programe na polju mjera za borbu protiv onečišćenja morskoga okoliša uljem,
+UZIMAJUĆI U OBZIR načelo "uzročnik onečišćenja plaća" kao opće načelo međunarodnog prava o zaštiti okoliša,
+UZIMAJUĆI TAKOĐER U OBZIR važnost međunarodnih instrumenata o odgovornosti i naknadi štete od onečišćenja uljem, uključujući Međunarodnu konvenciju o građanskoj odgovornosti za štetu od onečišćenja uljem, iz 1969. godine (CLC Konvencija), kao i Međunarodnu konvenciju o osnivanju međunarodnog fonda za naknadu štete od onečišćenja uljem, iz 1971. godine (Konvencija o Fondu), te nužnost skorog stupanja na snagu protokola tih dviju konvencija iz 1984. godine,
+UZIMAJUĆI NADALJE U OBZIR važnost dvostranih i višestranih sporazuma i dogovora, uključujući i regijske konvencije i sporazume,
+DRŽEĆI NA UMU odgovarajuće odredbe Konvencije Ujedinjenih naroda o pravu mora, osobito njezina dijela XII,
+SVJESNE potrebe promicanja međunarodne suradnje i unapređenja postojećih snaga na nacionalnoj, regijskoj i svjetskoj razini glede pripravnosti i mjera za slučaj onečišćenja uljem, a vodeći računa o posebnim potrebama zemalja u razvoju i osobito malih otočnih zemalja,
+SMATRAJUĆI da se ovi ciljevi mogu najbolje postići zaključivanjem Međunarodne konvencije o pripravnosti, akciji i suradnji za slučaj onečišćenja uljem,
+SUGLASILE SU SE o sljedećem:

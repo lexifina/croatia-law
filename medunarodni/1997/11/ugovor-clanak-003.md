@@ -1,0 +1,6 @@
+# Članak 3.
+Planovi za akciju u nuždi kod onečišćenja uljem
+(1) (a) Svaka stranka dužna je zahtijevati da brodovi ovlašteni isticati njezinu zastavu posjeduju brodski plan za akciju u nuždi u slučaju onečišćenja uljem, usklađen sa zahtjevima i odredbama koje je Organizacija propisala u tu svrhu.
+(b) Brod, od kojega se zahtijeva da posjeduje plan za akciju u nuždi kod onečišćenja uljem, u skladu sa stavkom (a), dok se nalazi u luci ili na pučinskom terminalu pod vlašću neke stranke, bit će podvrgnut nadzoru ovlaštenih službenika te stranke, u skladu s postupcima utvrđenim u postojećim međunarodnim sporazumima ili u njezinim nacionalnim propisima.
+(2) Svaka stranka dužna je zahtijevati da poduzetnici pučinskih jedinica pod njezinom vlašću posjeduju planove za akciju u nuždi kod onečišćenja uljem, koji imaju biti usklađeni s nacionalnim sustavom uspostavljenim u skladu s člankom 6. i ovjerovljenim na način kako propisuje nadležna državna vlast.
+(3) Svaka je stranka dužna zahtijevati od uprava ili poduzetnika odgovornih za morske luke i uređaje za rukovanje naftom pod njezinom vlašću, za koje to smatra potrebnim, da posjeduje planove za akciju u nuždi pri onečišćenju uljem ili slična rješenja, koja su usklađena s nacionalnim sustavom uspostavljenim u skladu s člankom 6. i ovjerovljenim na način kako propisuje nadležna državna vlast.
