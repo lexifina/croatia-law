@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 6. dodaju se stavci 2., 3. i 4. koji glase:
+"(2) Iznimno u 1999. godini, obveznici plaćanja doprinosa plaćaju za izaslane zaposlenike - zaposlenike koje poslodavac sa sjedištem u Republici Hrvatskoj pošalje u drugu državu radi obavljanja nekog posla za tog poslodavca, doprinose po stopi od 21,50% na osnovicu osiguranja - plaću, koju bi ostvarili za iste, odnosno slične poslove u Republici Hrvatskoj prema kolektivnom ugovoru, pravilniku o radu, odnosno ugovoru o radu, povećanu za 20%.
+(3) Osnovica iz stavka 2. ovoga članka ne može biti niža od prosječne plaće iz prethodne godine u Republici Hrvatskoj prema podacima Državnog zavoda za statistiku, povećane za 20%. Osnovica utvrđena za obračunavanje i plaćanje doprinosa je osnovica i za ostvarivanje prava.
+(4) Iznimno u 1999. godini, pomorci na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom sami su obveznici plaćanja doprinosa i plaćaju doprinos po stopi od 21,50% na osnovice osiguranja određene prema stupnju stručne spreme koje Hrvatski zavod za mirovinsko osiguranje utvrdi općim aktom. Osnovica na koju je obračunat i plaćen doprinos je osnovica i za ostvarivanje prava."
