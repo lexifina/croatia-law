@@ -1,0 +1,3 @@
+# Članak 30.
+Odjel pravnih poslova priprema nacrte prijedloga zakona iz područja cestovnog prometa u suradnji s drugim odjelima Uprave, izrađuje podzakonske propise iz područja cestovnog prometa, provodi upravni nadzor nad primjenom propisa cestovnog prometa daje pravna objašnjenja, mišljenja i tumačenja o svim pitanjima iz područja cestovnog prometa, provodi upravni postupak, sudjeluje u radu povjerenstva za izradu drugih propisa, daje mišljenje u svezi propisa drugih tijela državne uprave u suradnji s drugim odjelima, obavlja i druge poslove koji proizlaze iz prirode posla cestovnog prometa.
+c) Odjel za cestovni prijevoz

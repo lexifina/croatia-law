@@ -1,0 +1,3 @@
+# Članak 15.
+Odjel inspekcijskih poslova koordinira rad u obavljanju inspekcijskih poslova, sigurnosti plovidbe na moru i unutarnjim plovnim putovima, inspekcije zaštite mora, inspekcije pomorskog dobra, odjel nadzire primjenu propisa vezanih za zaštitu brodova i luka (ISPS kod) i druge inspekcijske poslove po ovlasti koji su utvrđeni posebnim propisima. Koordinira rad inspekcija drugih tijela u sveobuhvatnoj zaštiti Jadranskog mora, otoka i priobalja. Odjel surađuje i prati rad međunarodnih tijela iz područja sigurnosti plovidbe i zaštite okoliša, te prati i obrađuje podatke o pomorskim nezgodama i predlaže mjere za unaprjeđenje sigurnosti plovidbe brodova.
+b) Odjel upravljanja pomorskim prometom i poslovima traganja i spašavanja

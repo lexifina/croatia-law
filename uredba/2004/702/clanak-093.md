@@ -1,0 +1,3 @@
+# Članak 93.
+Odsjek za izgradnju školskih objekata obavlja stručne poslove koji se odnose na planiranje, pripremu, provođenje i stručni nadzor nad provođenjem programa obnove i izgradnje školskih objekata, usklađuje i koordinira rad svih sudionika u provedbi programa, izrađuje godišnji i višegodišnji plan i program rada zajedno s ostalim tijelima uprave i drugim institucijama, prikuplja i obrađuje stručnu dokumentaciju vezanu za provedbu programa, prati tijek izvršenja po objektima obnove i izgradnje, zaprima i obrađuje obračunske situacije sudionika, izrađuje izvješća i analize o provedbi programa, analizira probleme u provedbi programa i predlaže rješenja za njihovo otklanjanje.
+e/2 Odsjek za izgradnju objekata javne namjene

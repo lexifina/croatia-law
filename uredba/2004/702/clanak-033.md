@@ -1,0 +1,2 @@
+# Članak 33.
+Odsjek za prijevoz tereta vodi prvostupanjski upravni postupak, provodi upravni nadzor, obavlja stručne poslove iz područja unutarnjeg i međunarodnoga cestovnog prijevoza tereta, provodi primjenu međunarodnih ugovora, prati i analizira stanje gospodarskih subjekata u unutarnjem i međunarodnom cestovnom prijevozu tereta, izrađuje izvješća, obavlja i druge poslove koji proizlaze iz prirode posla, a odnose se na cestovni prijevoz tereta.

@@ -1,0 +1,3 @@
+# Članak 90.
+Odjel za pripremu i ugovaranje investicija obavlja stručne poslove koji se odnose na: pripremanje i predlaganje tendera i druge dokumentacije za objavu i provedbu javnog nadmetanja za ustupanje radova obnove i izgradnje investicija; raščlambu i odabir najpovoljnijih ponuditelja i sklapanje ugovora s izvoditeljima radova i ostalim učesnicima u investicijama; pripremu i izradu nacrta ugovora; te vođenje potrebnih očevidnika i čuvanje dokumentacije vezane na ustupanje i ugovaranje radova te praćenje zakonske i drugih propise iz djelokruga rada.
+d) Odjel za izgradnju objekata komunalne infrastrukture

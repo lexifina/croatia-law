@@ -1,0 +1,3 @@
+# Članak 94.
+Odsjek za izgradnju objekata javne namjene obavlja stručne poslove koji se odnose na planiranje, pripremu, provođenje i stručni nadzor nad provođenjem programa obnove i izgradnje objekata javne namjene, usklađuje i koordinira rad svih sudionika programa, izrađuje godišnji i višegodišnji plan i program rada zajedno s tijelima uprave, jedinicama lokalne samouprave i drugim institucijama, prikuplja i obrađuje stručnu dokumentaciju vezanu za provedbu programa, prati tijek izvršenja po objektima obnove, zaprima i obrađuje obračunske situacije sudionika, izrađuje izvješća i analize o provedbi programa, analizira probleme i predlaže rješenja za njihovo otklanjanje.
+e/3 Odsjek za obnovu višestambenih zgrada i isporuku građevinskog materijala

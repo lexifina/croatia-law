@@ -1,0 +1,3 @@
+# Članak 89.
+Odsjek za praćenje provedbe i vrednovanje regionalnih razvojnih programa obavlja poslove koji se odnose na: praćenje provedbe mjera regionalne razvojne politike te evaluaciju njihovih učinaka; praćenje provedbe i vrednovanje regionalnih razvojnih programa i projekata; izradu stručnih analiza, prikaza i izvješća te odgovaranje na upite vezano uz praćenje provedbe i vrednovanje regionalnih razvojnih programa i projekata; davanje prijedloga za unaprjeđivanje postojećih regionalnih razvojnih programa i projekata i predlaganje novih te izradu i vođenje baze podataka i drugih informacija vezano uz praćenje provedbe i vrednovanje regionalnih razvojnih programa i projekata.
+c) Odjel za pripremu i ugovaranje investicija

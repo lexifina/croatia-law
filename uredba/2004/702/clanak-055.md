@@ -1,0 +1,3 @@
+# Članak 55.
+Pododsjek za poslove Državne riznice obavlja upravne i stručne poslove vezane za kontrolu ispravnosti dokumentacije za unos u sustav riznice, vrši rezervaciju sredstava u propisanim i ugovorenim rokovima i iznosima usklađenim s dodijeljenim sredstvima i dospjelim obvezama. Ispostavlja zahtjeve za plaćanje unosom podataka iz naloga za plaćanje i dostavljene dokumentacije u sustav Državne riznice, kontaktira s Ministarstvom financija u svezi rada sustava riznice i Financijskom agencijom u svezi otvaranja dobavljača u sustavu, modela plaćanja kroz sustav riznice, te obavlja i druge poslove koje mu povjeri nadležna osoba.
+b) Odjel za izvršavanje državnog proračuna

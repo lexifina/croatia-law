@@ -1,0 +1,3 @@
+# Članak 60.
+Odsjek za suradnju s financijskim institucijama i tržištem kapitala sudjeluje u pripremi planova korištenja investicijskih zajmova ili darovnica kojima se financiraju programi investiranja i projekti tehničke pomoći svjetske banke i drugih međunarodnih institucija (EBRD, Razvojna banka vijeća Europe i dr.), prati pripremu ugovora, koordinira povlačenje sredstava iz vanjskih izvora i plaćanje iz Državnog proračuna, prati tijek financijskih sredstava, vodi financijske evidencije i izrađuje izvješća za davatelje zajmova ili darovnica te obavlja i druge poslove koje mu povjeri nadležna osoba.
+c/2 Odsjek za projektno financiranje

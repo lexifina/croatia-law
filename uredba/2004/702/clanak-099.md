@@ -1,0 +1,7 @@
+## 16. UPRAVA ZA OBNOVU OBITELJSKIH KUĆA
+# Članak 99.
+Uprava za obnovu obiteljskih kuća obavlja upravno-pravne i stručne poslove koji se odnose na: planiranje, organizaciju, provedbu i nadzor provedbe obnove u ratu oštećenih ili uništenih obiteljskih kuća, programske i druge informacije od značaja za obnovu obiteljskih kuća; izradu i provođenje zakona i drugih propisa iz područja obnove obiteljskih kuća; izradu programa , mjera i projekata od značaja za obnovu obiteljskih kuća, usklađivanje aktivnosti pojedinih službi unutar tijela jedinica lokalne i područne (regionalne) samouprave, a osobito ureda državne uprave nadležnih za poslove obnove; aktivnosti koje u svezi s obnovom obiteljskih kuća provode odgovarajuća ministarstva, državne upravne organizacije i drugi sudionici obnove (međunarodne donatorske organizacije); rješavanje u upravnom postupku o pravu na obnovu obiteljskih kuća; suradnju i koordinaciju aktivnosti s državnim odvjetništvom i državnim uredima nadležnim za poslove obnove u svezi rješavanja o pravu na naknadu materijalne štete nastale na materijalnim dobrima sukladno Zakonu o obnovi a temeljem posebnog propisa; predlaganje financijske politike u svezi s obnovom, te obavlja i druge poslove koje odredi ministar i državni tajnik.
+Za obavljanje poslova u Upravi za obnovu obiteljskih kuća ustrojavaju se sljedeći odjeli:
+a) Odjel za upravno-pravne poslove i dokumentaciju
+b) Odjel za obnovu obiteljskih kuća.
+a) Odjel za upravno-pravne poslove i dokumentaciju

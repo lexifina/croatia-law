@@ -1,0 +1,6 @@
+# Članak 100.
+Odjel za upravno-pravne poslove i dokumentaciju obavlja upravne i stručne poslove u svezi provedbe Zakona o obnovi; rješava u drugostupanjskom postupku o pravu na obnovu i provodi upravni nadzor, obavlja i druge upravno-pravne poslove za potrebe Uprave; suradnju i koordinaciju aktivnosti s državnim odvjetništvom i državnim uredima nadležnim za poslove obnove u svezi rješavanja o pravu na naknadu materijalne štete nastale na materijalnim dobrima sukladno Zakonu o obnovi a temeljem posebnog propisa; daje prijedloge za pokretanje kaznenog postupka protiv osoba koje su protuzakonito ostvarile pravo na obnovu; pruža stručnu pomoć uredima državne uprave nadležnim za poslove obnove; obavlja pismenu i usmenu komunikaciju s korisnicima u svezi ostvarivanja prava na obnovu; vodi očevidnike o ostvarenim pravima na obnovu; prikuplja i obrađuje podatke o korisnicima obnove i objektima obnove; izrađuje odgovarajuća izvješća, preglede, plansko-analitičke podatke u svezi s obnovom; obavlja unos, kontrolu, informatičku obradu i pohranu podataka.
+Za obavljanje poslova i zadaća u Odjelu za upravno-pravne poslove i dokumentaciju ustrojava se:
+a/1 Odsjek za upravne postupke i pravne poslove
+a/2 Odsjek za dokumentaciju i analizu.
+a/1 Odsjek za upravne postupke i pravne poslove

@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek za planove i programe otočnoga održivog razvoja obavlja stručne i tehničke poslove koji se odnose na: koordiniranje i vođenje međuresorskih radnih skupina za pitanja otočnog razvoja; izradu ili ustupanje izrade stručnih podloga, razvojne dokumentacije, znanstveno-stručnih studija i elaborata te razvojnih programa i projekata u svezi s otočnim razvojem; izradu i/ili nadzor izrade Državnih programa razvitka otoka, Programa održivog razvitka otoka i otočnih skupina; izradu stručnih analiza, prikaza i izvješća, te odgovaranje na upite o otočnom razvoju te izrada baza podataka i uspostava sustava za upravljanje informacijama vezano uz otočni razvoj.
+b) Odjel za provedbu programa otočnoga održivog razvoja

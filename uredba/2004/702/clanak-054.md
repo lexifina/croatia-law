@@ -1,0 +1,3 @@
+# Članak 54.
+Pododsjek plansko-analitičkih poslova prikuplja i analizira mjesečne zahtjeve uprava za osiguranjem sredstava i izrađuje prijedlog mjesečnog plana Ministarstva te vrši korekciju plana sukladno mjesečnoj dodjeli sredstava. Analizira izvršavanje proračuna po projektima, aktivnostima i stavkama. Sastavlja i podnosi izvješća o trošenju proračunskih sredstava sukladno namjeni i planiranoj dinamici. Prati trošenje sredstava kod korisnika, analizira i prati naplatu i korištenje sredstava vlastitih prihoda i analizira financijske pokazatelje, te obavlja i druge poslove po nalogu nadležne osobe.
+a/1b Pododsjek za poslove Državne riznice

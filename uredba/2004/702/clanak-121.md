@@ -1,0 +1,9 @@
+## 5. SAMOSTALNI ODJEL ZA PROMETNU POLITIKU I EUROPSKE INTEGRACIJE
+# Članak 121.
+U Samostalnom odjelu za prometnu politiku i europske integracije obavljaju se poslovi pripreme i objedinjavanja dokumenata za više prometnih područja za potrebe multilateralne suradnje u okviru međunarodnih tijela iz područja prometa kao cjeline (između ostalih poglavito CEMT, tj. Europske konferencije ministara prometa, G-24 RG za promet - radna grupa koja se bavi pripremom strateških dokumenata za potrebe EZ-a, UN ECE/ITC Međunarodno prometno vijeće Ekonomske komisije za Europu Ujedinjenih naroda i druge multilateralne forume), raznih regionalnih suradnji (SEI Srednje europska inicijativa - radna grupa za promet, Kvadrilaterala, Konferencije ministara prometa srednje Europe i sl. regionalne formalne i manje formalne organizacije), izvršnih odbora za unaprjeđenje prometa na sveeuropskim međunarodnim koridorima, bilateralne suradnje u okviru međudržavnih odbora za gospodarsku suradnju, kao i drugih oblika suradnje s pojedinim zemljama iz područja prometa, priprema hrvatskog diplomatskog osoblja za rad u DKP-ima i suradnja sa stranim diplomatskim predstavništvima, suradnja s međunarodnim financijskim institucijama i sl.
+U Odjelu se prate i provode aktivnosti vezane za pripreme i usporedbe dokumenata strategije prometnog razvitka, kako u odnosu na održivi razvitak prometne djelatnosti u okviru ukupnog gospodarstva Republike Hrvatske, tako i u odnosu na područje zaštite okoliša, smanjenja negativnog utjecaja prometa na okoliš, te prostornog razvitka.
+U Odjelu se obavljaju i poslovi u vezi s provedbom i sklapanjem Sporazuma o stabilizaciji i pridruživanju Republika Hrvatska - Europske zajednice.
+U Odjelu se ustrojavaju sljedeći odsjeci:
+a) Odsjek za međunarodnu suradnju i prometnu politiku
+b) Odsjek za europske integracije.
+a) Odsjek za međunarodnu suradnju i prometnu politiku

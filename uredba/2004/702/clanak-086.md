@@ -1,0 +1,3 @@
+# Članak 86.
+Odsjek za planove i programe regionalnog razvoja obavlja stručne i tehničke poslove koji se odnose na: koordiniranje i vođenje međuresorskih radnih skupina za izradu programa regionalnog razvoja; izradu ili ustupanje izrade stručnih podloga, razvojne dokumentacije, znanstveno-stručnih studija i elaborata te razvojnih programa i projekata u svezi s regionalnim razvojem; izradu i/ili nadzor izrade državnih programa razvitka (područja posebne državne skrbi, brdsko-planinska područja, pogranična područja) i ostalih područja Republike Hrvatske koja zaostaju u razvoju; izradu stručnih analiza, prikaza i izvješća te odgovaranje na upite o regionalnom razvoju.
+b) Odjel za provedbu regionalnih razvojnih programa

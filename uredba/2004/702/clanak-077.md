@@ -1,0 +1,3 @@
+# Članak 77.
+Odsjek za programe razvitka predlaže mjere poticanja investicijske aktivnosti; surađuje sa svim državnim i drugim institucijama na projektima i programima obnove, izgradnje i ulaganja u turizam, te na programima gospodarske integracije nerazvijenih područja; potiče, usmjerava i olakšava razvoj tzv. malog obiteljskog hotelijerstva i ugostiteljstva kao i ostalih vrsta turističke ponude; domaćim i stranim investitorima pruža informacije o mogućnostima izravnog ulaganja u postojeća poduzeća ili o mogućnostima razvoja novih projekata u turizmu; pruža svakovrsne informacije i savjetodavne usluge važne za kreditiranje, izgradnju i unaprjeđenje malog poduzetništva.
+b) Odjel za pravne poslove

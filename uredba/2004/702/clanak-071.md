@@ -1,0 +1,3 @@
+# Članak 71.
+Odsjek za postupak kategorizacije provodi propise o razvrstavanju i kategorizaciji smještajnih i turističkih objekata u neposrednom postupku; izrađuje zaključke, rješenja i druge akte vezano uz postupak kategorizacije; u neposrednom postupku kategorizacije daje stručna mišljenja i surađuje s nadležnim uredima državne uprave u županijama; provodi postupak za dodjelu posebne oznake i posebne kvalitete; prati stanje kategoriziranih objekata i predlaže mjere za poboljšanje propisa o razvrstavanju i kategorizaciji, izrađuje periodične izvještaje i analize iz svojeg djelokruga.
+b/2 Odsjek za kvalitetu i standardizaciju

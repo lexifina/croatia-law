@@ -1,0 +1,3 @@
+# Članak 76.
+Odsjek za restrukturiranje turističkog gospodarstva koordinira poslove u svezi donošenja i provođenja strategije razvoja hrvatskog turizma; prati razvojne i druge dokumente i politiku ostalih gospodarskih djelatnosti koje utječu na turizam; zajedno s Ministarstvom europskih integracija, Ministarstvom financija i Ministarstvom vanjskih poslova usklađuje aktivnosti oko priprema za uključivanje Republike Hrvatske u EU; poduzima aktivnosti u svezi s prilagodbom acquisu te koordinira aktivnosti oko programa tehničke i razvojne pomoći EU-a; predlaže razvojne mjere usmjerene na ubrzanje procesa privatizacije i restrukturiranja u turizmu.
+a/2 Odsjek za programe razvitka
