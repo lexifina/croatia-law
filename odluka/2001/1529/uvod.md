@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 21. točke 2. Statuta Općine Marčana (Pročišćeni tekst »Službene novine Općine Marčana«, br. 3/2001), Općinsko vijeće Općine Marčana je na sjednici održanoj 10. listopada 2001. godine, donijelo
