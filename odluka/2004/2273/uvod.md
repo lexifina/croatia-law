@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o obnovi i razvoju Grada Vukovara (»Narodne novine«, broj 44/2001), te Odluke o općim uvjetima i mjerilima za davanje koncesije za osnivanje slobodnih zona na području Grada Vukovara (»Narodne novine«, broj 138/2002), Vlada Republike Hrvatske je na sjednici održanoj 2. rujna 2004. godine, donijela
