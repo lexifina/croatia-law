@@ -1,0 +1,57 @@
+O b r a z l o ž e n j e
+I.
+1. Vinko Hlača iz Rijeke, podnio je prijedlog za pokretanje postupka ocjene ustavnosti odredaba članka 12. Zakona o pretvorbi društvenih poduzeća ("Narodne novine", br. 19/91, 83/92, 84/92, 94/93, 2/94, 9/95, 21/96 i 118/99 - dalje: Zakon o pretvorbi), navodeći da te odredbe nisu u skladu s odredbama članka 52. Ustava, kao ni s odredbama članka 6. Zakona o pomorskom i vodnom dobru ("Narodne novine", broj 19/74) koji je bio na snazi u vrijeme donošenja Zakona o pretvorbi te s odredbom članka 48. Pomorskog zakonika ("Narodne novine", br. 17/94, 74/94 i 43/96).
+2. Živko Petričić iz Hvara, podnio je prijedlog za ocjenu ustavnosti odredaba članka 5. stavka 1. točke 8., članka 11. stavka 1. točke 5. i članka 14. Zakona o pretvorbi, navodeći da te odredbe nisu u skladu s odredbama članka 3., članka 48. stavka 1. i 3. i članka 50. Ustava, kao ni s odredbama članaka 1. i 2. točke lj. Ustavnog zakona o ljudskim pravima i slobodama i o pravima etničkih i nacionalnih zajednica ili manjina u Republici Hrvatskoj ("Narodne novine", broj 34/92 - pročišćeni tekst), Prvog protokola Europske konvencije za zaštitu ljudskih prava i temeljnih sloboda i ostalim dokumentima koje je potpisala Republika Hrvatska i Mišljenjem Vijeća Europe da Republika Hrvatska treba riješiti probleme koji se tiču oduzete imovine tijekom fašističke i komunističke vladavine, a u skladu s normama i načelima Vijeća Europe, Ustavom Republike Hrvatske i Ustavnim zakonom o ljudskim pravima i slobodama.
+II.
+Povodom predmetnih prijedloga zatraženo je mišljenje Vlade Republike Hrvatske.
+U dostavljenom mišljenju, Vlada Republike Hrvatske predlaže da se predmetni prijedlozi ne prihvate te, u bitnom, navodi da činjenica što Zakon o pretvorbi eksplicite ne zabranjuje pretvorbu pomorskog dobra (res extra commercium), ne znači da se istodobno radi i o njegovoj protuustavnosti, jer ta zabrana proizlazi iz posebnog zakona (Pomorskog zakonika).
+Vlada Republike Hrvatske također je mišljenja da je Zakon o pretvorbi potpuno sukladan odredbi članka 50. stavka 1. Ustava, jer je iznos naknade i postupak za njezino ostvarivanje propisan Zakonom o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine ("Narodne novine", br. 92/96, 39/99, 42/99 i 92/99) koji vrijedi za sve bivše vlasnike sukladno članku 3. Ustava, pa to pravno područje nije predmet uređenja Zakona o pretvorbi.
+III.
+1. Članak 5. stavak 1. točka 8. Zakona o pretvorbi glasi:
+"Pretvorbom vlasništvo nad poduzećem mogu steći:
+8. nekadašnji vlasnici kojima Hrvatski fond za privatizaciju prenese dionice ili udio na ime naknade za ono što im je oduzeto nakon 15. svibnja 1945. godine."
+Predlagatelj pod I.2. navodi da se vlasnik čija je imovina oduzeta spominje samo u toj osporenoj odredbi Zakona o pretvorbi, ali ne navodi zbog čega bi ta odredba bila u nesuglasju s Ustavom.
+Prijedlog nije osnovan.
+Predlagatelj ne navodi ni jedan razlog zbog kojeg smatra da bi osporena odredba članka 5. stavka 1. točke 8. Zakona o pretvorbi bila u neusglasju s Ustavom, a ni sam Sud ne nalazi sumnje u njezinu ustavnost, zbog čega ocjenjuje da ta odredba nije u nesuglasju s Ustavom ni s drugim aktima za koje to ovaj predlagatelj navodi.
+2. Članak 11. stavak 1. točka 5. Zakona o pretvorbi glasi:
+"Uz odluku o pretvorbi poduzeće dostavlja Hrvatskom fondu za privatizaciju:
+5. podatke i dokaze o pravu korištenja nekretnina;"
+Predlagatelj pod I.2. navodi da se osporavanom odredbom zanemaruje vlasničko pravo nad imovinom i korisničko se pravo stavlja iznad vlasničkog.
+Prijedlog nije osnovan.
+Osporavana odredba ni u kojem smislu ne stavlja pravo korištenja iznad prava vlasništva, a propisuje samo jedan od uvjeta koje nositelj prava korištenja mora ispuniti u postupku pretvorbe poduzeća. Dakle, u toj se odredbi uopće ne radi o konkurenciji vlasničkih i korisničkih prava, niti se njome dira u neko vlasničko pravo, a inače se na pravo nekadašnjih vlasnika, glede poduzeća koja su im svojevremeno oduzeta, odnosi odredba članka 5. stavka 1. točke 8. Zakona o pretvorbi.
+Stoga Ustavni sud ocjenjuje da osporavana odredba članka 11. stavka 1. točke 5. Zakona o pretvorbi nije u nesuglasju s Ustavom ni drugim aktima kako to predlagatelj navodi.
+3. Članak 12. Zakona o pretvorbi glasi:
+"Ako Hrvatski fond za privatizaciju ocijeni da se predlaže pretvorba poduzeća u skladu s uvjetima i na način propisan ovim zakonom, dat će suglasnost za provođenje namjeravane pretvorbe.
+Ako Hrvatski fond za privatizaciju ocijeni da se predlaže pretvorba protivno uvjetima i načinu propisanom ovim zakonom, zabranit će provođenje predložene pretvorbe.
+Rješenje iz stavka 1. odnosno stavka 2. ovoga članka Hrvatski fond za privatizaciju je dužan donijeti u roku od 60 dana od dana primitka odluke o pretvorbi i propisane dokumentacije. Rješenje se dostavlja poduzeću i nadležnom ministarstvu.
+Rješenje Hrvatskog fonda za privatizaciju iz stavka 1. odnosno stavka 2. ovoga članka konačno je i protiv njega poduzeće može pokrenuti upravni spor."
+Predlagatelj pod I.1. smatra da osporene odredbe članka 12. Zakona o pretvorbi nisu u skladu s odredbama članka 52. Ustava, a prijedlog obrazlaže primjenom tih odredaba u pretvorbi poduzeća "Brodogradilište Viktor Lenac". Navodi da je Agencija za restrukturiranje i razvoj svojim rješenjem dala suglasnost tom poduzeću na namjeravanu pretvobu utvrđenu odlukom i programom pretvorbe, s time da se ono pretvara u dioničko društvo "Viktor Lenac Rijeka". Ističe da se osporavane odredbe nisu smjele primijeniti u konkretnom slučaju jer je "Brodogradilište Viktor Lenac" smješteno na pomorskom dobru na kojem se ni prema odredbama Zakona o pomorskom i vodnom dobru, lukama i pristaništima, koji je bio na snazi u vrijeme donošenja Zakona o pretvorbi i spomenutog rješenja Agencije za restrukturiranje i razvoj, a ni prema odredbama Pomorskog zakonika nije moglo stjecati vlasništvo, ni po kojoj osnovi, pa ni pretvorbom. Dakle, ovaj predlagatelj smatra da pretvorbom kojom nastaje poduzeće, ono postaje i vlasnikom pomorskog dobra.
+Prijedlog nije osnovan.
+Osporenim odredbama propisan je dio postupka pretvorbe društvenih poduzeća nakon što poduzeće odabere način pretvorbe i nakon što tijelo upravljanja o tome donese odluku te istu dostavi Hrvatskom fondu za privatizaciju (ranije Agenciji za restrukturiranje i razvoj). Nakon toga, prema daljnjim osporenim odredbama, Hrvatski fond za privatizaciju daje suglasnost na provođenje namjeravane pretvorbe ili predloženu pretvorbu zabranjuje.
+Osporavane odredbe članka 12. Zakona o pretvorbi, prema ocjeni Suda, nisu u nesuglasnosti s Ustavom, posebice ne s odredbama njegovog članka 52., u kojima je utvrđeno koja prirodna bogatstva i drugi dijelovi prirode, za koje je zakonom određeno da su od interesa za Republiku Hrvatsku, imaju njezinu osobitu zaštitu, s tim da je prepušteno zakonodavcu odrediti način na koji dobra od interesa za Republiku Hrvatsku mogu upotrebljavati i iskorištavati njihovi vlasnici ili ovlaštenici na njima.
+U trećem dijelu Pomorskog zakonika (čl. 48. do 80.) određeni su načini uporabe i iskorištavanja pomorskog dobra, budući da je odredbama članka 48. tog Zakonika utvrđeno da je ono opće dobro od interesa za Republiku Hrvatsku. U istom dijelu Pomorskog zakonika propisana su i ograničenja, od kojih je posebno značajno ono iz članka 51. stavka 1., prema čijoj se odredbi na pomorskom dobru ne može stjecati ni pravo vlasništva ni druga stvarna prava po bilo kojoj osnovi. Prije stupanja na snagu Pomorskog zakonika, slično je bilo određeno i u Zakonu o pomorskom i vodnom dobru, lukama i pristaništima.
+Osporavanim odredbama članka 12. Zakona o pretvorbi ne zadire se u navedena obilježja i značaj pomorskog dobra. Ono i dalje ostaje opće dobro čije je korištenje i uporaba ograničena s njegovom prirodom i namjenom sukladno odredbama Pomorskog zakonika, dakle, sukladno i odredbama članka 52. Ustava.
+4. Članak 14. Zakona o pretvorbi glasi:
+"Poduzeće se može prodati u cjelini ili u idealnom dijelu domaćoj ili stranoj pravnoj ili fizičkoj osobi.
+Poduzeće se prodaje:
+(a) javnom dražbom,
+(b) nakon javno objavljenog prikupljanja ponuda više ponudilaca bez održavanja javne dražbe,
+(c) neposrednom pogodbom, bez prikupljanja ponuda više ponudilaca.
+Poduzeće se može prodati neposrednom pogodbom u slučaju da:
+- procijenjena vrijednost poduzeća nije veća od dinarske protuvrijednosti od pet (5) milijuna njemačkih maraka obračunane po tečaju iz članka 13. stavka 1. ovoga zakona,
+- ako nije prodano na provedenoj javnoj dražbi odnosno prikupljanjem ponuda."
+Predlagatelj pod I.2. navodi da se osporavanim odredbama zanemaruje: a) da je dio imovine već ranije imao vlasnika, pa na temelju toga nema razloga za ponovnu privatizaciju te iste imovine; b) da se bivši vlasnik lišava nacionalizirane imovine bez njegove privole; c) da je člankom 5. stavkom 1. točkom 8. Zakona o pretvorbi predviđen vlasnički udio bivšeg vlasnika, koji namjerno nije proveden, makar je prijava vlasništva obavljena još 1991. godine, pa se privatizacija sistematski provodi na štetu ranijeg vlasnika; d) da je previđen vlasnički udio ranijeg vlasnika koji ovime nema nikakav utjecaj na promjenu vlasništva na svojoj imovini; e) da se Republika Hrvatska bezrazložno bogati na račun prodaje nacionalizirane imovine; da se stvara udvojeno vlasništvo na istoj imovini što će uzrokovati dugotrajne sudske procese i g) da se Republici Hrvatskoj čini politička i ekonomska šteta radi kršenja međunarodnih pravnih normi vezanih uz povrede vlasništva.
+Prijedlog nije osnovan.
+Osporavane odredbe uređuju način i uvjete prodaje društvenih poduzeća domaćim ili stranim pravnim ili fizičkim osobama. Te odredbe ne isključuju pravo iz članka 5. stavka 1. točke 8. Zakona o pretvorbi, prema kojoj nekadašnji vlasnici pretvorbom mogu steći vlasništvo nad poduzećem prijenosom dionica ili udjela na ime naknade za ono što im je oduzeto nakon 15. svibnja 1945.
+Međutim, Sud nalazi potrebnim napomenuti da se prema odredbi članka 45. stavka 1. Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine, poduzeća oduzeta prijašnjem vlasniku na temelju propisa iz članka 2., te akata i načina propisanih člankom 3. tog Zakona ne vraćaju, a prema odredbi stavka 3. istog članka, za poduzeća iz stavka 1. tog članka prijašnjem vlasniku, odnosno kada je prijašnji vlasnik pravna osoba, dioničarima ili imateljima udjela prijašnjeg vlasnika pripada naknada. Navedene odredbe Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine bile su predmetom ocjene ustavnosti pred ovim Sudom, no prijedlog nije prihvaćen (odluka i rješenje broj: U-I-673/1996 i dr. od 21. travnja 1999., objavljena u "Narodnim novinama", broj 39/99 i 42/99).
+Stoga Ustavni sud ocjenjuje da odredbe članka 14. Zakona o pretvorbi nisu u nesuglasju s Ustavom ni s odredbama drugih akata kako to predlagatelj navodi.
+IV.
+Predlagatelj pod I.1. predlaže i pokretanje postupka za ocjenu suglasnosti odredaba članka 12. Zakona o pretvorbi s odredbom članka 48. Pomorskog zakonika.
+Međutim, prema odredbama članka 129. Ustava, Ustavni sud nije nadležan ocjenjivati međusobnu usklađenost zakona iste pravne snage.
+V.
+Stoga je, temeljem odredbe članka 41. stavka 1. i odredbe članka 31. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 99/99), odlučeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj:
+U-I-488/1995
+U-I-39/1999
+Zagreb, 14. veljače 2000.
