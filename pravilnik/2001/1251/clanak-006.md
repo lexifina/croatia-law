@@ -1,0 +1,2 @@
+# Članak 6.
+Ostali poslovi iz članka 2. ovog Pravilnika su: stručno metodička priprema, razredničko-administrativni poslovi, stručno usavršavanje, ekskurzije, suradnja s roditeljima, rad u stručnim tijelima škole i izvan škole, popravni, razredni i razlikovni ispiti, mature (završni ispiti), povjerenstva, organizacija natjecanja i susreta, poslovi sindikalnog povjerenika, kulturne i športske aktivnosti škole, te izvannastavne aktivnosti.

@@ -1,0 +1,2 @@
+# Članak 8.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o normi neposrednog odgojno-obrazovnog rada po nastavnim predmetima i načinu utvrđivanja broja izvršitelja na odgojno-obrazovnim i drugim poslovima u srednjoj školi (»Narodne novine« broj 52/95, 89/95 i 67/00), osim u dijelu odredbi koje se odnose na normu rada voditelja, stručnih suradnika i ostalih djelatnika škole (članak 11. - 23.).
