@@ -1,0 +1,3 @@
+# Članak 2.
+Ovlaštena stručna organizacija mora imati prostore i materijalno-tehnička sredstva potrebna za obavljanje poslova iz članka 1. ovoga Pravilnika u vlasništvu ili zakupu.
+Ispitni centri moraju imati odgovarajuću opremu potrebnu za provođenje ispita iz nastavnih predmeta Prometni propisi i sigurnosna pravila i Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći te odgovarajuće prostore potrebne za prijem kandidata za vozače, rad ovlaštenih ispitivača i djelatnika ovlaštene stručne organizacije. Za provođenje ispita iz nastavnog predmeta Upravljanje vozilom, ispitni centar mora imati prometna vježbališta i potrebnu opremu.

@@ -1,0 +1,3 @@
+# Članak 4.
+Ovlaštena stručna organizacija mora imati informatičku opremu i računalne programe koji omogućuju provedbu vozačkih ispita uz primjenu računala, jedinstvenu bazu podataka o provedbi stručnog nadzora, stručnog usavršavanja, provjeri stručne osposobljenosti i stručnih ispita te informatičku opremu koja ovlaštenoj stručnoj organizaciji omogućuje informatičku povezanost s drugim subjektima (autoškolama, državnim tijelima i dr.). Ovlaštena stručna organizacija mora voditi i uredno ažurirati evidencije, dokumentaciju i stručne analize o poslovima koji su joj dodijeljeni kao javna ovlast.
+Ispitni centri moraju biti informatički povezani u jedinstven informatički sustav.
