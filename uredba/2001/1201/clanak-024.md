@@ -1,0 +1,3 @@
+# Članak 24.
+Odjel za pripremu i izvršenje proračuna obavlja planske poslove iz područje ukupnih javnih izdataka; izrađuje financijska izvješća i planove prema državnom proračunu, odnosno definira financijske obveze za projekte u tijeku i nove projekte; vodi poslove likvidiranja i obračunavanja izravnih kapitalnih ulaganja; priprema zahtjeve za izvršenje kapitalnih izdataka i transfera putem sustava Državne riznice; obavlja poslove evidencije kapitalne imovine i usklađuje sa stvarnim stanjem; upravlja i izvršava posebne oblike plaćanja obveza po kapitalnim projektima dionicama/udjelima iz državnog portfelja, definiranjem prijenosa prava nad vlasničkim pozicijama i vodi evidenciju o gospodarenju vrijednosnicama.
+b) Odjel za računovodstvene poslove i nabavke

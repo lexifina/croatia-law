@@ -1,0 +1,2 @@
+# Članak 19.
+Odjel za graditeljstvo i unapređenje stanovanja obavlja stručne poslove koji se odnose na praćenje graditeljstva u cjelini, mjere gospodarske politike u graditeljstvu, stanovanju, gradnji stanova i naselja; obavlja poslove pripreme i realizacije politike strateškog razvoja graditeljstva i ostvarivanja međunarodne suradnje u graditeljstvu; planira i predlaže strategiju, mjere i programe u cilju unapređenja stanovanja, kvalitete stanovanja i načine za rješavanje stambenih pitanja građana; razrađuje socijalni, ekonomski i makroekonomski aspekt stanovanja.

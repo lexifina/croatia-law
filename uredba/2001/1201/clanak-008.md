@@ -1,0 +1,7 @@
+## B) 1. UPRAVA ZA KAPITALNU INFRASTRUKTURU I KOMUNALNO GOSPODARSTVO
+# Članak 8.
+Uprava za kapitalnu infrastrukturu i komunalno gospodarstvo obavlja upravne i stručne poslove koji se odnose na: organizaciju izrade strateških infrastrukturnih projekata i investicijskih programa od posebnog značenja za Republiku Hrvatsku i pripremanje prijedloga Vladi Republike Hrvatske za njihovo odobravanje; organiziranje tome odgovarajućih velikih infrastrukturnih investicijskih radova u izgradnji objekata i uređaja vodoprivredne i prometne infrastrukture, osim njihove rekonstrukcije i održavanja, i drugih odgovarajućih krupnih infrastrukturnih radova od značaja za održivi razvoj Republike Hrvatske koji se u cijelosti ili u većoj mjeri financiraju sredstvima državnog proračuna, te usklađuju aktivnosti drugih subjekata u izgradnji takvih objekata i prati i kontrolira te investicije; praćenje i analizu stanja komunalne djelatnosti; predlaže mjere i provodi politiku, te osigurava izvršavanje zakona i drugih propisa u komunalnom gospodarstvu, prati i nadzire provedbu zakona i podzakonskih propisa i akata jedinica lokalne samouprave, priprema, planira i predlaže mjere i programe za unapređivanje stanja u području, provodi mjere u cilju poticanja razvoja komunalnog gospodarstva, te obavlja i druge poslove koje odredi ministar.
+Za obavljanje poslova u Upravi za kapitalnu infrastrukturu i komunalno gospodarstvo ustrojavaju se sljedeći odjeli:
+a) Odjel za kapitalnu infrastrukturu
+b) Odjel za komunalno gospodarstvo.
+a) Odjel za kapitalnu infrastrukturu
