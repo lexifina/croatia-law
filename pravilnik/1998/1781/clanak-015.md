@@ -1,0 +1,3 @@
+# Članak 15.
+Proizvođač, predstavništvo proizvođača, odnosno ovlašteni zastupnik koji oglašavaju i obavješćivaju o lijeku ili medicinskom proizvodu obvezni su uz pohranjivanje promidžbenog materijala voditi očevidnike o datumu i mjestu njegovog objavljivanja, osobama kojima su materijali dostavljeni te o stručnim sastancima i predavanjima koje su organizirali ili financijski poduprli.
+Promidžbene materijale u pisanom, slikovnom i zvučnom obliku kao i očevidnike iz stavka 1. ovoga članka proizvođač, predstavništvo proizvođača, odnosno ovlašteni zastupnik proizvođača obvezni su čuvati dvije godine.
