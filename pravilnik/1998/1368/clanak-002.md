@@ -1,0 +1,4 @@
+# Članak 2.
+Ispit iz nastavnog predmeta Prometna i sigurnosna pravila provodi se pod uvjetima propisanim člankom 8. Pravilnika o osposobljavanju kandidata za vozača vozila na motorni pogon (»Narodne novine« broj 89/94., 42/95. i 30/98.).
+Ispit iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nezgodi provodi se pod uvjetima propisanim člankom 33. Pravilnika o izmjenama i dopunama Pravilnika o osposobljavanju kandidata za vozača vozila na motorni pogon (»Narodne novine« broj 30/98.).
+Ispit iz nastavnog predmeta Upravljanje vozilom na motorni pogon za pojedinu kategoriju ili vrstu vozila može se provoditi u mjestu koje u pogledu minimuma prometno-tehničkih elemenata ispunjava uvjete utvrđene člankom 19. Pravilnika o uvjetima i načinu polaganja vozačkog ispita (»Narodne novine« broj 89/94 i 30/98), te odgovarajuće uvjete u pogledu gustoće i intenziteta prometa, te razvijenosti gradske mreže prometnica.
