@@ -1,0 +1,9 @@
+o visini troškova postupka priznavanja novostvorene sorte odnosno odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja
+Ovom se naredbom određuje visina troškova ispitivanja sorti u pokusnom polju odnosno laboratoriju u postupku priznavanja novostvorene sorte i odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja roda 1994./95. godine.
+Visina troškova za provedbu postupka priznavanja novostvorene sorte i odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja po kulturama odnosno grupi kultura iznosi:
+__________________________________________________________________ KUNA PO SORTI __________________________________________________________________ 1. godina 2.godina 3.godina __________________________________________________________________ 1.za ozimu pšenicu 2.200,00 2.200,00 3.145,00 2.za ozimi i jari ječam 1.850,00 2.400,00 2.400,00 3.za jaru zob 1.700,00 1.700,00 2.170,00 4.za krumpir 1.700,00 1.700,00 2.220,00 __________________________________________________________________ za svaku godinu ispitivanja/KUNA __________________________________________________________________ 1.za uljanu repicu 2.035,00 2.za kukuruz 2.440,00 3.za šećernu repu,soju,suncokret i duhan 2.220,00 4.za povrće 1.480,00 5.za krmne kulture 2.400,00 __________________________________________________________________
+III.
+Troškove iz točke II. ove naredbe podnositelj zahtjeva uplaćuje na žiro-račun Ministarstva poljoprivrede i šumarstva s naznakom "Troškovi priznavanja i odobravanja sorti poljoprivrednog bilja".
+Sredstva iz stavka I. ove točke koriste se u skladu s odredbom članka 20. stavkom 2. Zakona o priznavanju novostvorenih, odobravanju uvođenja u proizvodnju stranih i zaštiti sorti poljoprivrednog i šumskog bilja.
+IV.
+Ova naredba stupa na snagu danom objave u "Narodnim novinama".
