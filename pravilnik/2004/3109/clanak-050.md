@@ -1,0 +1,3 @@
+# Članak 50.
+Nadzor nad izvođenjem radova obavljaju ovlaštene osobe graditeljske struke i drugih struka u graditeljstvu ustrojstvenih jedinica MORH i OS RH. Nadzor nad izvođenjem investicijskog održavanja mogu provoditi isključivo osobe nadležne struke i odgovarajuće školske spreme s položenim stručnim ispitom.
+Nadležna ustrojstvena jedinica u MORH i OS RH koja prati izvođenje radova ili ih izvodi vlastitim kapacitetima u postupku primopredaje izvedenih radova i jamstvenom roku, dužna je voditi brigu o uklanjanju utvrđenih nedostataka na izvedenim radovima i ugrađenoj opremi te korisniku osigurati primjerak dokumentacije izvedenog stanja potrebne za održavanje objekata, opreme i instalacija.

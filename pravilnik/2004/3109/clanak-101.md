@@ -1,0 +1,2 @@
+# Članak 101.
+Za materijalna sredstva, izvedene radove i usluge, koja jedno MFT ustupa drugom MFT, mijenja se materijalno i financijsko stanje tih sredstava u knjigovodstvima odnosnih MFT, u skladu s propisima o materijalnom knjigovodstvu u MORH i OS RH, strukovnim pravilima i uputama, te propisima vezanim za novčani obračun i financijsko praćenje, koje donosi pomoćnik ministra obrane za financije i proračun.

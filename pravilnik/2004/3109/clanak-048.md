@@ -1,0 +1,3 @@
+# Članak 48.
+Temeljno održavanje vojnih objekata obuhvaća provedbu svakodnevnih preventivnih, zaštitnih i izvanrednih mjera, pregleda i ispitivanja koja se poduzimaju radi sprječavanja oštećenja nastalih uporabom objekata i opreme, popravak i uklanjanje neispravnosti, te zamjenu dotrajalih građevnih dijelova, sklopova, aparata i uređaja.
+Temeljno održavanje s naslova složenosti zahvata pripada u kategoriju jednostavnih građevinskih zahvata, kojima se prema postojećoj projektnoj dokumentaciji i tehničkim knjižicama nekretnina obavljaju popravci, pregledi, ispitivanja i drugo, u skladu s propisanom tehničkom regulativom.

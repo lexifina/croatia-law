@@ -1,0 +1,3 @@
+# Članak 77.
+Iznimno od propisanog načina opskrbe materijalnim sredstvima za potrebe OS RH, materijalna sredstva koja nisu registrirana za uporabu u Republici Hrvatskoj mogu se osigurati i koristiti za potrebe pružanja usluga zdravstvene zaštite pripadnicima MORH i OS RH tek po prethodno pribavljenoj suglasnosti i odobrenju Ministarstva zdravstva i socijalne skrbi i Agencije za lijekove i medicinske proizvode.
+Medicinska, stomatološka i biokemijska oprema koja se koristi za obavljanje zdravstvene djelatnosti u ustrojstvenim cjelinama OS RH mora imati europski certifikat (CE) i potvrde o redovitom servisiranju.
