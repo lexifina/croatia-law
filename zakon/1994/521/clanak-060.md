@@ -1,0 +1,2 @@
+# Članak 60.
+Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o zaštiti prirode ("Narodne novine". br. 54/76., 25/77., 41/83., 31/86. i 47/86.), Uredba o upravljanju nacionalnim parkovima ("Narodne novine", br. 14/94.), točka 46. Uredbe o nastavljanju važenja pravnog sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine". br. 100/93., 102/93. i 108/93.) i članak 20. Zakona o određivanju poslova iz samoupravnog djelokruga jedinica lokalne samouprave i uprave ("Narodne novine", br. 75/93.).

@@ -1,0 +1,5 @@
+# Članak 31.
+Neposrednu zaštitu u nacionalnom parku i parku prirode obavljaju nadzornici. Nadzornike imenuje Upravno vijeće ili ravnatelj javne ustanove. Nadzornik ima ovlaštenja propisana ovim Zakonom i propisima donesenim na temelju njega. Ako nadzornik zatekne u nacionalnom parku ili parku prirode osobu koja vrši radnju protivno ovom Zakonu i propisima donesenim na temelju njega, ima pravo:
+1. zatražiti od nje osobnu iskaznicu ili drugu ispravu na osnovi koje može utvrditi identitet osobe,
+2. pregledati njezinu prtljagu ili prevozno sredstvo,
+3. privremeno oduzeti protupravno prisvojeni dio živog i neživog svijeta, koji pripadaju nacionalnom parku ili parku prirode kao i sredstva kojima je izvršeno protupravno prisvajanje. Ako nadzornik zateče u nacionalnom parku ili parku prirode osobu koja vrši radnje protivne odredbama pravilnika o unutarnjem redu, pored ovlaštenja iz stavka 4. ovoga članka ima pravo na licu mjesta naplatiti kaznu u slučajevima određenim tim pravilnikom. Sredstva iz stavka 4. ovoga članka pripadaju javnoj ustanovi. Nadzornik može biti osoba koja ima najmanje srednju stručnu spremu.

@@ -1,0 +1,2 @@
+# Članak 36.
+Dopuštenje Ministarstva treba ishoditi i za sakupljanje biljaka i njihovih dijelova, hvatanje ili ubijanje životinja koje nisu zaštićene na temelju ovoga ili drugih zakona, za sakupljanje minerala i fosila, ako se to obavlja u svrhu prerade, trgovine i drugog prometa. Radnje iz stavka 1. ovoga Članka mogu se obavljati samo uz prethodnu suglasnost vlasnika ili ovlaštenika prava na zemljištu ili vodenoj površini na kojima se obavljaju radnje iz stavka 1. ovoga članka. Uvjete za ishodenje dopuštenja iz stavka 1. ovoga članka propisat će ministar.

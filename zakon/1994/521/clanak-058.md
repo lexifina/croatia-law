@@ -1,0 +1,2 @@
+# Članak 58.
+Radna organizacija park prirode "Telašćica" osnovan po propisima koji su važili do stupanja na snagu ovoga Zakona postaje javna ustanova u vlasništvu Države. Radria organizacija Rezervat "Lokrum" osnovana po propisima koji su važili do stupanja na snagu ovoga Zakona postaje javna ustanova u vlasništvu Županije dubrovačko-neretvanske. Akti javnih ustanova iz stavka 1. i 2. ovoga članka usaglasit će se s odredbama ovoga Zakona u roku od 6 mjeseci od njegovog stupanja na snagu.

@@ -1,0 +1,2 @@
+# Članak 39.
+Vlasnik ili drugi ovlaštenik prava na određenom zaštićenom dijelu prirode, dužan je dopustiti pristup u taj dio prirode, ako je to s obzirom na prirodu i značenje tog dijela prirode potrebito radi zadovoljenja znanstvenih, obrazovnih, estetskih i kulturnih potreba društva, a na način i pod uvjetima utvrđenim rješenjem ministra. U rješenju iz stavka 1. ovoga članka mora biti određena naknada vlasniku ili drugom ovlašteniku prava na tom dijelu prirode za eventualna ograničenja kojima je podvrgnut.

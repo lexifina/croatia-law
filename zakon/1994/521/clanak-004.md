@@ -1,0 +1,2 @@
+# Članak 4.
+Nacionalni park je prostrano, pretežno neizmijenjeno područje iznimnih i višestrukih prirodnih vrijednosti, a obuhvaća jedan ili više sačuvanih ili neznatno izmijenjenih eko-sistema. Nacionalni park ima znanstvenu, kulturnu, odgojno-obrazovnu i rekreativnu namjenu. U nacionalnom su parku dopuštene djelatnosti kojima se ne ugrožava izvornost prirode. U nacionalnom parku je zabranjena gospodarska uporaba prirodnih dobara. Turističko-rekreacijske djelatnosti moraju biti u ulozi posjećivanja i razgledavanja koje je dozvoljeno svima pod istim uvjetima.

@@ -1,0 +1,2 @@
+# Članak 35.
+Zabranjeno je unošenje (introdukcija) novih biljnih i životinjskih vrsta u prirodu na području Države, osim prema posebnim zakonskim propisima i uz suglasnost Ministarstva. Ponovno unošenje (reintrodukcija) nestalih biljnih i životinjskih vrsta u prirodu na području Države može se obavljati samo uz dopuštenje Ministarstva po prethodno pribavljenom mišljenju Ministarstva poljoprivrede i šumarstva.

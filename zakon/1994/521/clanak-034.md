@@ -1,0 +1,2 @@
+# Članak 34.
+Zaštićene biljke i životinje ne smiju se izvoziti ni iznositi u inozemstvo a niti uvoziti iz inozemstva. Iznimno, pojedine zaštićene biljke i životinje smiju se izvoziti i uvoziti iz inozemstva u znanstveno-istraživačke svrhe radi razmjene, izlaganja i slično na osnovi dopuštenja Ministarstva. Postupak, način i uvjeti za davanje dopuštenja iz stavka 2. ovoga članka propisat će ministar.

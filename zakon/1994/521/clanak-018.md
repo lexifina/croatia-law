@@ -1,0 +1,2 @@
+# Članak 18.
+Javna ustanova iz članka 17. ovoga Zakona obavlja djelatnost zaštite, održavanja i promicanja zaštićenih dijelova prirode. Javna ustanova može obavljati i druge djelatnosti utvrdene aktom o osnivanju i statutom ustanove, koje služe obavljanju djelatnosti iz stavke 1. ovoga članka, a ne radi stjecanja dobiti. Osnivač može odlučiti da dobit ustanove upotrijebi za razvoj i obavljanje djelatnosti druge ustanove čiji je osnivač.

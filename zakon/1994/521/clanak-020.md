@@ -1,0 +1,2 @@
+# Članak 20.
+Javnom ustanovom upravlja upravno vijeće, ako aktom o njenom osnivanju ili posebnom odlukom Vlade nije određeno da tom ustanovom upravlja ravnatelj. Sastav, način imenovanja, izbora članova i trajanje mandata upravnog vijeća i način donošenja odluka utvrđuje se aktom o osnivanju ili statutom ustanove. U sastav upravog vijeća javne ustanove iz članka 17 stavka 2. ovoga Zakona imenuje se na prijedlog županijske skupštine jedan predstavnik županije na čijem se području nalazi taj zaštićeni dio prirode.

@@ -1,0 +1,2 @@
+# Članak 14.
+Akt o proglašenju zaštićenih dijelova prirode iz članka 13. stavka 2. i 3. ovoga Zakona objavljuje se u "Narodnim novinama", a akt o proglašenju iz članka 13. stavka 3. ovoga Zakona i u službenom glasilu županije ili Grada Zagreba. Zaštićeni dijelovi prirode upisuju se u Upisnik zaštićenih dijelova prirode. Upisnik zaštićenih dijelova prirode vodi Ministarstvo. Ministar propisuje sadržaj i način vodenja Upisnika zaštićenih dijelova prirode.

@@ -1,0 +1,2 @@
+# Članak 11.
+Spomenik parkovne arhitekture je artificijelno oblikovani prostor (perivoj, botanički vrt, arboretum, gradski park, drvored, skupina i pojedinačno stablo, kao i drugi oblici vrtnog i parkovnog oblikovanja) koji ima veću estetsku, stilsku, umjetničku, kulturno-povijesnu ili znanstvenu vrijednost. Na spomeniku parkovne arhitekture i u njegovoj neposrednoj blizini nisu dopušteni zahvati kojima bi se promijenile ili narušile njegove neizmijenjene vrijednosti.

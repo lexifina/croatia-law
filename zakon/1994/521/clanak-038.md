@@ -1,0 +1,2 @@
+# Članak 38.
+Ako je korištenje ili iskorištavanje zaštićenog dijela prirode na odredeni način ili u odredene svrhe ograničeno ili zabranjeno, vlasnik ili ovlaštenik prava ima pravo na naknadu za ograničenje kojima je podvrgnut. Iznos mora biti razmjeran umanjenom prihodu. Visina naknade utvrđuje se sporazumno. U slučaju spora o visini naknade odlučuje sud. Naknada se isplaćuje na teret sredstava državnog proračuna ili proračuna županije ili Grada Zagreba.
