@@ -1,0 +1,147 @@
+# Članak 3.
+Poslovi na radnim mjestima namještenika u ustanovama zaštite prirode i okoliša su:
+a) radna mjesta I. vrste:
+- Pomoćnik ravnatelja za opće i zajedničke poslove
+- Pomoćnik ravnatelja za tehničke poslove
+- Voditelj (direktor) hotela I. vrste
+- Voditelj ugostiteljstva I. vrste
+- Voditelj pravnih poslova I. vrste
+- Voditelj računovodstva I. vrste
+- Voditelj sigurnosti prometa i zaštite na radu I. vrste
+- Voditelj tehničke službe i službe održavanja I. vrste
+- Voditelj protupožarne zaštite I. vrste
+- Voditelj službe nabave I. vrste
+- Voditelj kuhinje (šef kuhinje) I. vrste
+- Voditelj kadrovske službe I. vrste
+- Referent prodaje za domaće tržište i izlete I. vrste
+- Referent prodaje i organizacije kongresnih skupova I. vrste
+- Referent za marketing I. vrste
+- Referent za promidžbu I. vrste
+- Referent prodaje hotelskog smještaja I. vrste
+- Referent prodaje za inozemno tržište I. vrste
+- Tajnik ustanove I. vrste
+- Planer-analitičar I. vrste
+- Turistički djelatnik I. vrste
+b) radna mjesta II. vrste:
+- Voditelj (direktor) hotela II. vrste
+- Voditelj ugostiteljstva II. vrste
+- Voditelj restorana II. vrste
+- Voditelj kuhinje (šef kuhinje) II. vrste
+- Voditelj službe zaštite na radu II. vrste
+- Voditelj pravnih poslova II. vrste
+- Voditelj računovodstva II. vrste
+- Voditelj sigurnosti prometa i zaštite na radu II. vrste
+- Voditelj tehničke službe i službe održavanja II. vrste
+- Voditelj protupožarne zaštite II. vrste
+- Voditelj kadrovske službe II. vrste
+- Voditelj službe nabave II. vrste
+- Glavni knjigovođa II. vrste
+- Glavni kuhar II. vrste
+- Zamjenik voditelja kuhinje (šefa kuhinje) II. vrste
+- Glavna domaćica hotela i vila II. vrste
+- Glavni konobar (šef sale) II. vrste
+- Šef recepcije II. vrste
+- Šef servisa II. vrste
+- Vatrogasac II. vrste
+- Referent prodaje za domaće tržište i izlete II. vrste
+- Referent prodaje za inozemno tržište II. vrste
+- Voditelj rekreacije II. vrste
+- Fizioterapeut II. vrste
+- Administrativni tajnik II. vrste
+- Tajnik ustanove II. vrste
+- Knjigovođa II. vrste
+- Djelatnik zaštite na radu II. vrste
+- Koordinator ulaza II. vrste
+- Prodavač suvenira II. vrste
+- Recepcionar II. vrste
+- Turistički djelatnik II. vrste
+- Voditelj broda (zapovjednik) II. vrste
+- Namještenici II. vrste općeg, tehničkog i obrtničkog smjera
+c) radna mjesta III. vrste:
+- Tajnik ustanove III. vrste
+- Voditelj restorana III. vrste
+- Kontrolor recepcije i ulaznice III. vrste
+- Kontrolor kuhinje III. vrste
+- Kontrolor šankova III. vrste
+- Voditelj praonice rublja III. vrste
+- Medicinska sestra III. vrste
+- Voditelj rekreacije III. vrste
+- Kozmetičar III. vrste
+- Frizer III. vrste
+- Fizioterapeut III. vrste
+- Mesar III. vrste
+- Prodavač III. vrste
+- Skladištar III. vrste
+- Čuvar muzeja III. vrste
+- Glavni knjigovođa III. vrste
+- Glavni kuhar-šef kuhinje III. vrste
+- Zamjenik šefa kuhinje III. vrste
+- Glavni konobar-šef sale III. vrste
+- Poslovi u računovodstvu III. vrste
+- Voditelj pisarnice III. vrste
+- Voditelj rekreacije III. vrste
+- Voditelj broda III. vrste
+- Vatrogasac III. vrste
+- Administrativni tajnik III. vrste
+- Operater III. vrste
+- Dokumentarist daktilograf III. vrste
+- Knjigovođa III. vrste
+- Referent kadrovske službe III. vrste
+- Referent rezervacije III. vrste
+- Voditelj sigurnosti prometa i zaštite na radu III. vrste
+- Referent internog prijevoza III. vrste
+- Turistički djelatnik III. vrste
+- Koordinator ulaza III. vrste
+- Terenski blagajnik
+- Mornar-motorist III. vrste
+- Mornar III. vrste
+- Čuvar III. vrste
+- Informator-biljetar ulaznica III. vrste
+- Informator mjenjač III. vrste
+- Informator za privatni smještaj III. vrste
+- Informator parkirališta III. vrste
+- Referent stanovanja i održavanja stambenih objekata III. vrste
+- Poslovođa III. vrste
+- Zidar III. vrste
+- Stolar III. vrste
+- Tesar III. vrste
+- Kućni majstor III. vrste
+- Djelatnik na poslovima održavanja stanova, mostova i objekata III. vrste
+- Djelatnik na poslovima održavanja vodovoda, odvodnje i odvoza krutog otpada III. vrste
+- Informator-stjuart panoramskog vlaka III. vrste
+- Vozač panoramskog vlaka III. vrste
+- Vozač III. vrste
+- Traktorist III. vrste
+- Mehaničar panoramskog vlaka III. vrste
+- Elektromehaničar III. vrste
+- Električar III. vrste
+- Mehaničar III. vrste
+- Vodoinstalater III. vrste
+- Konobar III. vrste
+- Kuhar III. vrste
+- Slastičar-pekar III. vrste
+- Recepcionar III. vrste
+- Prodavač suvenira III. vrste
+- Domar III. vrste
+- Pomoćni mornar III. vrste
+- Nadzornik soba i čistoće III. vrste
+- Cvjećar-vrtlar III. vrste
+- Trgovac III. vrste
+- Namještenici III. vrste općeg, tehničkog, industrijskog i obrtničkog smjera
+d) radna mjesta IV. vrste:
+- Domar IV. vrste
+- Ložač IV. vrste
+- Čistač panoramskog vlaka IV. vrste
+- Pomoćni kuhar IV. vrste
+- Pomoćni konobar IV. vrste
+- Personalni vratar IV. vrste
+- Perač posuđa IV. vrste
+- Čuvar rampe IV. vrste
+- Pomoćni radnik u sobama IV. vrste
+- Pomoćni mornar IV. vrste
+- Pomoćno osoblje - PKV
+- Portir-NSS
+- Čuvar-NSS
+- Teklić-NSS
+- Osoblje na poslovima održavanja čistoće-NSS
+- Pomoćno osoblje-NKV

@@ -1,0 +1,137 @@
+# Članak 2.
+Zvanja i položaji službenika u ustanovama zaštite prirode i okoliša su:
+a) u I. vrsti zvanja:
+- Ravnatelj JU "Nacionalni park Plitvička jezera"
+- Ravnatelj JU "Nacionalni park Krka"
+- Ravnatelj JU "Nacionalni park Brijuni"
+- Ravnatelj JU "Nacionalni park Mljet"
+- Ravnatelj JU "Nacionalni park Kornati"
+- Ravnatelj JU "Nacionalni park Risnjak"
+- Ravnatelj JU "Nacionalni park Paklenica"
+- Ravnatelj JU "Parka prirode Velebit"
+- Ravnatelj JU "Parka prirode Kopački rit"
+- Ravnatelj JU "Parka prirode Lonjsko polje"
+- Ravnatelj JU "Parka prirode Telaščica"
+- Ravnatelj JU "Parka prirode Biokovo"
+- Ravnatelj JU "Parka prirode Medvednica"
+- Ravnatelji ostalih javnih ustanova u području zaštite prirode i okoliša kojima je osnivač Republika Hrvatska
+- Pomoćnik ravnatelja nacionalnog parka
+- Pomoćnik ravnatelja parka prirode
+- Pomoćnik ravnatelja ostalih ustanova u području zaštite prirode i okoliša kojima je osnivač Republika Hrvatska
+- Pomoćnik ravnatelja za hotelijerstvo i turizam
+- Stručni voditelj javne ustanove koja upravlja nacionalnim parkom
+- Stručni voditelj javne ustanove koja upravlja parkom prirode
+- Stručni voditelj u drugim javnim ustanovama u području zaštite prirode i okoliša kojima je osnivač Republika Hrvatska
+- Predstojnik podružnice javne ustanove
+- Voditelj odjela/odsjeka u javnoj ustanovi koja upravlja nacionalnim parkom
+- Voditelj odjela/odsjeka u javnoj ustanovi koja upravlja parkom prirode
+- Voditelj odjela/odsjeka u drugoj javnoj ustanovi u području zaštite prirode i okoliša kojoj je osnivač Republika Hrvatska
+- Biolog - savjetnik
+- Šumar - savjetnik
+- Geolog - savjetnik
+- Geolog-paleontolog - savjetnik
+- Veterinar - savjetnik
+- Agronom - savjetnik
+- Agronom-uređenje krajobraza - savjetnik
+- Planer-pejsažist - savjetnik
+- Agronom-uređenje i zaštita tla - savjetnik
+- Geograf - savjetnik
+- Arhitekt-planer projektant - savjetnik
+- Biolog-ekolog - savjetnik
+- Limnolog (biolog ili geolog) - savjetnik
+- Kemičar (balneolog) - savjetnik
+- Šumar-pejsažist - savjetnik
+- Hortikulturni djelatnik - savjetnik
+- Ekonomist-voditelj promidžbenih aktivnosti - savjetnik
+- Muzejski savjetnik
+- Arheolog - savjetnik
+- Restaurator - savjetnik
+- Preparator - savjetnik
+- Arhivski savjetnik
+- Informatičar - savjetnik
+- Viši biolog
+- Viši šumar
+- Viši geolog
+- Viši geolog - paleontolog
+- Viši veterinar
+- Viši agronom
+- Viši agronom - uređenje krajobraza
+- Viši agronom - uređenje i zaštita tla
+- Viši planer-pejsažist
+- Viši geograf
+- Viši arhitekt-planer projektant
+- Viši biolog-ekolog
+- Viši limnolog (biolog ili geolog)
+- Viši kemičar (balneolog)
+- Viši šumar-pejsažist
+- Viši hortikulturni djelatnik
+- Viši ekonomist - voditelj promidžbenih aktivnosti
+- Viši arheolog
+- Viši kustos
+- Viši restaurator
+- Viši preparator
+- Viši arhivist
+- Viši informatičar
+- Glavni nadzornik I. vrste u nacionalnom parku i parku prirode
+- Nadzornik I. vrste u nacionalnom parku i parku prirode
+- Voditelj rekreacije I. vrste
+- Biolog
+- Šumar
+- Geolog
+- Geolog-paleontolog
+- Veterinar
+- Agronom
+- Agronom - uređenje krajobraza
+- Agronom - uređenje i zaštita tla
+- Geograf
+- Arhitekt - planer projektant
+- Biolog-ekolog
+- Limnolog (biolog ili geolog)
+- Kemičar (balneolog)
+- Šumar-pejsažist
+- Planer-pejsažist
+- Hortikulturni djelatnik
+- Ekonomist - voditelj promidžbenih aktivnosti
+- Arheolog
+- Kustos
+- Restaurator
+- Preparator
+- Arhivist
+- Informatičar
+- Vodič I. vrste
+- Vodič informator I. vrste
+- Voditelj ispostave I. vrste
+- Prezentator etnološke zbirke I. vrste
+- Koordinator izleta I. vrste
+- Drugi službenici I. vrste zvanja
+b) u II. vrsti zvanja:
+- Glavni nadzornik II. vrste u nacionalnom parku i parku prirode
+- Informatičar II. vrste
+- Vodič II. vrste
+- Vodič informator II. vrste
+- Voditelj ispostave II. vrste
+- Voditelj rekreacije II. vrste
+- Prezentator etno-zbirke II. vrste
+- Hortikulturni djelatnik II. vrste
+- Djelatnik za zaštitu i uzgoj životinja II. vrste
+- Koordinator izleta II. vrste
+- Nadzornik II. vrste
+- Preparator II. vrste
+- Viši tehničar II. vrste
+c) u III. vrsti zvanja:
+- Nadzornik III. vrste
+- Šumski tehničar III. vrste
+- Meteorološki motritelj III. vrste
+- Informatičar III. vrste
+- Vodič III. vrste
+- Šumar-pejsažist III. vrste
+- Hortikulturni djelatnik III. vrste
+- Djelatnik za zaštitu i uzgoj životinja III. vrste
+- Koordinator izleta III. vrste
+- Preparator III. vrste
+- Veterinarski tehničar III. vrste
+- Arhivski tehničar III. vrste
+- Djelatnik za uređenje i održavanje zelenih površina III. vrste
+- Djelatnik za uređenje i uzgoj šuma III. vrste
+- Čuvar šuma III. vrste
+- Niži preparator III. vrste

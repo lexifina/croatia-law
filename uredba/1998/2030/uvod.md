@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 1. Zakona o plaćama službenika i namještenika u javnim službama ("Narodne novine", br. 74/94), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 1998. godine, donijela
