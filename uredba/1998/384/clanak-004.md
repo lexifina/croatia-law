@@ -1,0 +1,3 @@
+# Članak 4.
+Pod u skladištu opasnog otpada za kruti opasni otpad mora biti izgrađen s razdjelnim pregradama i nagibima, da se osigura zadržavanje prosipanog opasnog otpada u dijelu skladišta namijenjenom samo toj grupi ili podgrupi opasnog otpada i da se omogući ponovno skupljanje.
+Pod u skladištu opasnog otpada za tekući opasni otpad mora biti izgrađen s razdjelima, nagibima i razdjelnom kanalizacijom koja vodi u sabirnu jamu ili posudu. Za svaku grupu ili podgrupu opasnog otpada mora se osigurati posebna sabirna jama ili posebna posuda. Sabirna jama ili posuda mora imati obujam najmanje 10% svih posuda koje se mogu uskladištiti na pripadnoj slijevnoj površini.
