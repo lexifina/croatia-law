@@ -1,0 +1,4 @@
+# Članak 7.
+a. Na zahtjev Hrvatske, Agencija i Hrvatska trebaju postići dogovore za organizirani pristup prema ovom Protokolu radi sprječavanja širenja povjerljivih informacija, ispunjavanja zahtjeva sigurnosne ili fizičke zaštite, ili zaštite vlasničkih ili poslovno osjetljivih informacija. Takvi dogovori ne smiju spriječiti Agenciju u provođenju djelatnosti potrebnih da se osigura vjerodostojna sigurnost da nema nedeklariranoga nuklearnog materijala i djelatnosti na upitnim lokacijama, uključujući rješenje pitanja koja se odnose na točnost i potpunost informacija o kojima je riječ u članku 2., ili proturječnosti u tim informacijama.
+b. Hrvatska može, kad dostavlja informacije prema članku 2. obavijestiti Agenciju o mjestima na području ili lokaciji na kojima se može primijeniti organizirani pristup.
+c. Do stupanja na snagu bilo kojega potrebnoga dopunskog aranžmana, Hrvatska može pribjeći organiziranom pristupu u skladu s odredbama gornjeg stavka a.

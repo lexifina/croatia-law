@@ -1,0 +1,2 @@
+# Članak 9.
+Hrvatska će omogućiti Agenciji pristup lokacijama koje je navela Agencija radi provođenja skupljanja uzoraka okoliša sa širokog područja. Ako Hrvatska ne može osigurati takav pristup, ona će učiniti svaki razuman napor da udovolji Agencijinim zahtjevima na alternativnim lokacijama. Agencija neće tražiti takav pristup dok dogovor o skupljanju uzoraka okoliša sa širokog područja nije potvrdilo Vijeće nakon konzultacija između Agencije i Hrvatske.
