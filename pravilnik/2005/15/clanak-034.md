@@ -1,0 +1,2 @@
+# Članak 34.
+Ministarstvo vodi evidenciju stolnih voda koje se stavljaju na tržište Republike Hrvatske. Subjekt u poslovanju s hranom koji na tržište stavlja stolnu vodu obvezan je, radi upisa proizvoda u evidenciju dostaviti sljedeće podatke: trgovački naziv proizvoda, naziv i adresu proizvođača, a za uvozne proizvode naziv i adresu uvoznika te ime države proizvođača vode, kao i izvješća o ispitivanjima propisana člankom 33. stavkom 2. podstavkom a) i b) te podatke o vrsti i količini dodanih tvari.

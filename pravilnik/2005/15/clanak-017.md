@@ -1,0 +1,6 @@
+# Članak 17.
+Za prirodnu mineralnu vodu, koja izvire u državi članici Europske unije ne provodi se postupak priznavanja opisan člancima 13., 14., 15. i 16. stavkom 2 i 3. ovoga Pravilnika.
+Ministar priznaje prirodnu mineralnu vodu iz stavka 1. ovoga članka, ako podnositelj zahtjevu priloži službeni dokument kojim je prirodna mineralna voda priznata od nadležnog tijela države u kojoj voda izvire, te je za nju Povjerenstvo dalo pozitivno mišljenje.
+Za prirodnu mineralnu vodu, koja izvire u državi koja nije članica Europske unije, provodi se postupak priznavanja opisan člancima 13., 14., 15. i 16. ovoga Pravilnika.
+Iznimno od odredbe stavka 3. ovoga članka Ministar priznaje prirodnu mineralnu vodu koja izvire u državi koja nije članica Europske unije, ako podnositelj zahtjevu priloži službeni dokument izdan od nadležnog tijela države u kojoj voda izvire, a kojim dokazuje da prirodna mineralna voda odgovara jednakim kriterijima za priznavanje i jednakim uvjetima za iskorištavanje i stavljanje na tržište, kako je određeno ovim Pravilnikom, te je za nju Povjerenstvo dalo pozitivno mišljenje.
+Službeni dokumenti iz stavka 2. i 4. ovoga članka ne smiju biti stariji od pet godina, a prije isteka petogodišnjeg razdoblja treba važenje dokumenata obnoviti. Priznanje prestaje važiti, ako obnovljeni službeni dokument nije pravovremeno predan Ministarstvu.

@@ -1,0 +1,5 @@
+# Članak 27.
+Zabranjeno je na ambalaži, deklaraciji ili pri reklamiranju u bilo kojem obliku, stavljanje pisanih oznaka, trgovačkih oznaka, zaštitnog znaka (žiga), naziva marke (naziva proizvoda) slikovnih prikaza ili simbola, koji u slučaju prirodne mineralne vode upućuju na svojstvo koje voda ne posjeduje, posebice glede podrijetla, datuma od kada je dopušteno njezino iskorištavanje, rezultata analiza ili bilo kojih sličnih podataka.
+Zabranjeno je u slučaju vode za piće zapakirane u ambalažu, koja ne udovoljava zahtjevima za prirodnu mineralnu vodu propisanim ovim Pravilnikom koristiti oznake koje bi mogle stvoriti zabunu u svezi s prirodnom mineralnom vodom, a posebice oznaku »mineralna voda«.
+Zabranjeno je na deklaraciji prirodnih mineralnih voda navoditi oznake koje vodi pridodaju svojstva vezana uz prevenciju ili liječenje bolesti.
+Iznimno, oznake svojstava prirodne mineralne vode mogu se navoditi na deklaraciji proizvoda u promidžbene svrhe, ukoliko su ta svojstva potvrđena kemijskom analizom, na način propisan u Dodatku 3. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.

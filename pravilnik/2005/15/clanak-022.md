@@ -1,0 +1,3 @@
+# Članak 22.
+Radi kontrole zadovoljavanja zahtjeva iz članka 5. ovoga Pravilnika podnositelj zahtjeva mora najmanje jedanput u pet godina, kao i u slučaju nastanka promjene u količini dominantnih sastojaka za više od 20 % obaviti ispitivanje izvora prirodne mineralne vode sukladno članku 14. stavku 1. točki b) i c) ovoga Pravilnika.
+Ako se u tijeku iskorištavanja izvora prirodne mineralne vode utvrdi odstupanje od mikrobioloških kriterija utvrđenih člankom 8. i 9. ovoga Pravilnika te prekoračenje količina određenih tvari propisanih člankom 11. ovoga Pravilnika, proizvođač mora obustaviti proizvodnju prirodne mineralne vode dok se uzroci zagađenja ne utvrde i otklone.
