@@ -1,0 +1,2 @@
+# Članak 11.
+Članak 180. mijenja se i glasi: »Odsjek prometne potpore vodi potrebnu prometnu dokumentaciju, evidentira prometne nezgode, analizira stanje sigurnosti prometa, obavlja poslove u vezi s registracijom i odjavom motornih vozila, obavlja prvu registraciju i odjavljivanje vozila, evidentira i obrađuje štete na motornim vozilima, prati i predlaže donošenje propisa iz područja sigurnosti prometa te brine o unapređenju sustava registracije vojnih vozila i rješavanja šteta.«.

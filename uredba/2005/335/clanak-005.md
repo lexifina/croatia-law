@@ -1,0 +1,7 @@
+# Članak 5.
+Članak 177. mijenja se i glasi: »Odjel prometa obavlja upravne i stručne poslove vezane za materijalno zbrinjavanje Ministarstva obrane i Oružanih snaga kroz djelatnosti planiranja, opremanja, modernizacije i organizacije prijevoza ljudi i sredstava, te uvođenja novih tehničko-tehnoloških sustava prometne struke. Odjel sustavno rješava sve sadržaje i djelatnosti prometnog osiguranja, propisuje procese planiranja i dokumentaciju prometne struke po svim razinama i logističkim strukama Oružanih snaga. Odjel sudjeluje u izradi propisa iz svog djelokruga rada i surađuje s institucijama i tijelima državne uprave po svim pitanjima sudjelovanja Ministarstva obrane i Oružanih snaga u javnom prometu, razrađuje i predlaže modele i uvjete korištenja prijevoznih sredstava za potrebe Oružanih snaga, obavlja poslove vezane za prijevoz pripadnika Ministarstva obrane i Oružanih snaga pri obavljanju službenih zadaća kao i prijevoz pripadnika stranih oružanih snaga, obavlja poslove vezane za rješavanje šteta na motornim vozilima, daje stručna očitovanja i mišljenja u svezi s odgovornošću za počinjene štete, obavlja prvu registraciju i odjavu vozila, analizira i predlaže sustav registracije vozila i osiguranja vozila, prati i predlaže mjere za sigurnost cestovnog prometa.
+Za obavljanje poslova prometa ustrojavaju se sljedeći odsjeci:
+4.1. Odsjek razvoja prometa,
+4.2. Odsjek transporta,
+4.3. Odsjek prometne potpore,
+4.4. Prometni servis«.
