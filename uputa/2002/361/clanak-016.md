@@ -1,0 +1,4 @@
+# Članak 16.
+FINA prenosi sredstva poslovnog subjekta s računa 696 na račun banke u kojoj poslovni subjekt ima otvoren glavni račun. Prijenos sredstava obavlja se na dan zatvaranja glavnog računa poslovnog subjekta u FINI. Na nalogu za prijenos sredstava mora se navesti da je to prijenos sredstava poslovnog subjekta koja su izdvojena na poseban račun po nalogu suda te matični broj i naziv poslovnog subjekta na koji se sredstva odnose. Isti dan FINA dostavlja banci sudsko rješenje i drugu dokumentaciju na temelju koje su sredstva izdvojena.
+Ako poslovni subjekt, čija se sredstva vode na računu 696, nema otvoren račun za redovno poslovanje u banci, sredstva toga poslovnog subjekta prenose se s računa 696 na račun FINE za posebne namjene. FINA će dalje s tim sredstvima postupiti po nalogu suda.
+FINA izvješćuje nadležni sud o prijenosu sredstava poslovnog subjekta iz stavka 1. i 2. ovoga članka i o dostavi sudskog rješenja banci.

@@ -1,0 +1,4 @@
+# Članak 8.
+Od 18. ožujka do 22. ožujka 2002. FINA zatvara glavni račun onih poslovnih subjekata koji imaju otvoren račun za redovno poslovanje samo u jednoj banci.
+Prije zatvaranja računa iz stavka 1. ovoga članka FINA obavještava banku o potrebi promjene statusa računa poslovnog subjekta u banci u glavni račun. Obavijest sadrži matični broj i naziv poslovnog subjekta te datum kada će se zatvoriti račun u FINI. Banka je dužna, na temelju navedene obavijesti, isti dan kada se zatvara račun poslovnog subjekta u FINI promijeniti status njegovog računa u banci u glavni račun i tu promjenu evidentirati u svom registru računa poslovnih subjekata i u Jedinstvenom registru računu poslovnih subjekata.
+FINA dostavlja banci, najkasnije prvi radni dan nakon zatvaranja računa, neizvršene osnove za plaćanje i evidenciju neizvršenih osnova za plaćanje koje su evidentirane na teret računa iz stavka 1. ovoga članka.
