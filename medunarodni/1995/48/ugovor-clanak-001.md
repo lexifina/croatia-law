@@ -1,0 +1,20 @@
+# Članak 1.
+Ugovorne stranke suglasne su da sljedeći ugovori ostaju na snazi u odnosima između Republike Hrvatske i Republike PoIjske:
+1. Koncilijacijalno-arbitražni traktat između Kraljevine Srba, Hrvata i Slovenaca i Poljske, sklopljen u Ženevi dana 18. rujna 1926. godine;
+2. Sporazum između Vlade Federativne Narodne Republike Jugoslavije i Vlade Narodne Republike Poljske o znanstveno-tehničkoj suradnji, sklopljen u Varšavi dana l4. studenog 1955. godine zajedno s Protokolom o izmjeni tog Sporazuma, sklopljenim u Beogradu dana 25. ožujka 1965.godine;
+3. Ugovor o zračnoj vezi između Federativne Narodne Republike Jugoslavije i Narodne Republike Poljske, sklopljen u Varšavi dana 14. studenog 1955. godine;
+4. Ugovor o kulturnoj suradnji između Federativne Narodne Republike Jugoslavije i Narodne Republike Poljske, sklopljen u Beogradu dana 6. srpnja 1956. godine;
+5. Sporazum između Vlade Federativne Narodne Republike Jugoslavije i Vlade Narodne Republike Poljske o suradnji u području korištenja nuklearne energije u mirovne svrhe, sklopIjen u Varšavi dana 4. travnja 1957. godine;
+6. Sporazum između Vlade Federativne Narodne Republike Jugoslavije i Vlade Narodne Republike Poljske o suradnji u području zdravstva, sklopljen u Varšavi dana 20. listopada 1957. godine;
+7. Ugovor o uzajamnom oslobadanju plaćanja za zdravstvene usluge za djelatnike diplomatske i konzularne službe, sklopljen razmjenom nota od 8. i 29. listopada 1957. godine;
+8. Ugovor o suradnji u području socijalne politike između Vlade Federativne Narodne Republike Jugoslavije i Vtade Narodne Republike Poljske, sklopljen u Varšavi dana 16. siječnja 1958. godine;
+9. Ugovor o socijalnom osiguranju između Vlade Federativne Narodne Republike Jugoslavije i Vlade Narodne Republike Poljske, sklopljen u Varšavi dana 16. siječnja 1958. godine i Sporazum o realizaciji ugovora o socijalnom osiguranju, sklopljen u Beogradu dana 12. studenog 1961. godine;
+10. Ugovor između Federativne Narodne Republike Jugoslavije i Narodne Republike Poljske o pravnom postupku i civilnim i krivičnim pitanjima, sklopljen u Varšavi dana 6. veljače 1960. godine;
+11. Ugovor između Vlade Federativne Narodne Republike Jugoslavije i Vlade Narodne Republike Poljske o suradnji na području veterine, sklopljen u Varšavi dana 5. svibnja 1960. godine;
+12. Konvencija između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Narodne Republike Poljske o suradnji u području zaštite bilja, sklop(jen u Beogradu dana 10. prosinca 1965. godine;
+13. Sporazum između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Narodne Republike Poljske o međunarodnom cestovnom prijevozu, sastavljen u Varšavi 18. prosinca 1969. godine;
+14. Sporazum između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Narodne Republike Poljske o suradnji i uzajamnoj pomoći u carinskim pitanjima, sklopljen u Varšavi dana 9. svibnja 1967. godine i Protokol o razgovorima između delegacije Savezne uprave carina Socijalističke Federativne Republike Jugoslavije i Glavne carinske uprave Narodne Republike Poljske, sklopljen u Varšavi dana 29. kolovoza 1987. godine;
+15. Sporazum između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Narodne Republike Poljske o uzajamnom priznavanju istovažećih školskih svjedodžbi i diploma visokih škola stečenih u obje države, sklopljen u Beogradu dana 15. rujna 1978. godine;
+16. Ugovor između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Narodne Republike Poljske o višegodišnjoj suradnji na području transporta, sklopljen u Varšavi dana 25. listopada 1979. godine;
+17. Konzularna konvencija između Saveznog izvršnog vijeća Skupštine Socijalističke Federativne Republike Jugoslavije i Vlade Narodne Republike Poljske, sklopljen u Varšavi dana 2. prosinca 1982. godine;
+18. Ugovor između Socijalističke Federativne Republike Jugoslavije i Narodne Republike Poljske o izbjegavanju dvostrukog oporezivanja u području poreza od prihoda i imetaka, sklopljen u Varšavi dana 10. siječnja 1985. godine;
