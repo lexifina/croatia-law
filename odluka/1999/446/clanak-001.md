@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 1999. godinu ("Narodne novine", br. 165/98) u članku 13. stavci 2. u stupcima "Zdravstvene ustanove i privatni zdravstveni djelatnici u zakupu u domu zdravlja" i "Do sada ugovoreni privatni zdravstveni djelatnici u vlastitom prostoru" pod rednim brojem 2. "Zdrav. zaštita predškolske djece", broj "1200" zamjenjuje se brojem "1500".
