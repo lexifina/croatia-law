@@ -1,0 +1,6 @@
+## VII. OSTALE DRŽAVNE POTICAJNE MJERE
+## Najam zgrada i stanova u državnom vlasništvu na otocima
+# Članak 31.
+(1) Državnim službenicima i namještenicima u tijelima državne uprave, tijelima sudbene vlasti, oružanim snagama i drugim državnim tijelima, djelatnim vojnim osobama, zaposlenicima u upravnim tijelima i službama jedinica lokalne samouprave, službenicima i namještenicima u javnim službama, kojima se plaće osiguravaju u državnom proračunu ili u odgovarajućim izvanproračunskim fondovima, te zdravstvenim djelatnicima koji su zaposleni ili prihvaćaju zaposlenje i imaju prebivalište na otocima, a nemaju u vlasništvu stan ili kuću na otoku, daju se stambeni krediti ili se daju u najam napuštene zgrade i stanovi na otoku koji su do stupanja na snagu ovoga Zakona u vlasništvu države, uz zaštićenu najamninu određenu posebnim propisom, odnosno najamninu u visini troškova upravljanja i održavanja zgrade, odnosno stana.
+(2) Stambeni krediti osobama iz stavka 1. ovoga članka daju se prema odredbama Zakona o Fondu za dugoročno financiranje stanogradnje uz potporu države ("Narodne novine", br. 109/97.).
+(3) Osoba iz stavka 1. ovoga članka nakon 10 godina korištenja zgrade, odnosno stana, stječe vlasništvo odnosne zgrade, odnosno stana.

@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Poslove provedbe programa održivog razvitka otoka obavljat će županijski uredi nadležni za poslove gospodarstva, a otočni i obalno-otočni gradovi i općine mogu za obavljanje tih poslova osnovati vlastitu pravnu osobu ili te poslove povjeriti drugoj pravnoj osobi koja je za to dokazano stručno sposobna.
+(2) Ministarstvo u suradnji s ministarstvima iz članka 4. ovoga Zakona, promiče programe održivog razvitka otoka, usklađuje i nadzire njihovu provedbu i usklađuje rad nadležnih tijela obalno-otočnih županija kao i otočnih i obalno-otočnih gradova i općina te pravnih osoba koje obavljaju poslove značajne za provedbu programa.

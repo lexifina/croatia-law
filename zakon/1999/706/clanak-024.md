@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Poslovna banka iz članka 23. ovoga Zakona sklapa s korisnikom kredita ugovor o kreditu. Ugovor o kreditu sadrži uvjete korištenja i vraćanja kredita te izjavu korisnika kredita kojom dopušta osnivanje založnog prava na stvari i prava iz ulagačkog pothvata za koji je odobren kredit i na drugu imovinu.
+(2) Za otplatu kredita fizičkim i pravnim osobama iz članka 23. ovoga Zakona, u slučaju kada sredstva osiguranja iz stavka 1. ovoga članka nisu dostatna za osiguranje kredita, a korisnik kredita nema drugih mogućnosti osiguranja kredita, garanciju daje Hrvatska garancijska agencija.

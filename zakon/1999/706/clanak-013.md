@@ -1,0 +1,9 @@
+## IV. LOV I MALI RIBOLOV
+## Zabrana unošenja divljači koja prirodno ne obitava na otoku, koncesije i zakup lovišta
+# Članak 13.
+(1) Na otocima se zabranjuje unošenje i uzgoj divljači koja prirodno ne obitava na otoku.
+(2) Iznimno od stavka 1. ovoga članka divljač koja ne obitava na otoku može se unositi u otočno lovište samo u skladu s programima održivog razvitka i uz suglasnost Ministarstva poljoprivrede i šumarstva i Državne uprave za zaštitu prirode i okoliša, te uz prethodno mišljenje županijskog ureda za gospodarstvo županije na čijem je području ustanovljeno lovište.
+(3) Ministar poljoprivrede i šumarstva dužan je osigurati da se lovnogospodarskim osnovama za lovišta na otocima, Programom uzgoja divljači na otocima i Programom zaštite divljači na otocima na odgovarajući način zaštiti poljoprivredna djelatnost na otocima i pružanje osnovnih turističkih usluga.
+(4) Ministarstvo poljoprivrede i šumarstva dužno je na zahtjev korisnika otočnog zemljišta na kojem je ustanovljeno ograđeno ili otvoreno lovište, provesti odgovarajući postupak za uklanjanje, odnosno smanjenje broja divljači koja dokazano čini štetu ili priječi razvitak poljoprivrede i turizma određen programom održivog razvitka otoka, ako ostale mjere utvrđene Zakonom o lovu ("Narodne novine", br. 10/94., 22/94. i 44/98.) nisu dovoljno učinkovite ili bi poduzimanje takvih mjera bilo gospodarski neopravdano.
+(5) Koncesija na pravo lova kao i pravo zakupa lovišta na otocima može se dati isključivo domaćim fizičkim i pravnim osobama, s tim da prednost, s istim uvjetima, imaju fizičke, odnosno pravne osobe koje na otoku obavljaju poljoprivrednu djelatnost, iz članka 16. ovoga Zakona.
+(6) U slučaju da fizička ili pravna osoba koja protivno odredbama ovoga članka unese na otok divljač koja tamo prirodno ne obitava, dužna je tu divljač ukloniti ili će biti uklonjena o njegovu trošku.

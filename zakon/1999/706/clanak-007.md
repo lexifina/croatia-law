@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Programe održivog razvitka otoka donosi Vlada Republike Hrvatske na prijedlog Ministarstva, a uz prethodno mišljenje Ministarstva prostornog uređenja, graditeljstva i stanovanja, Ministarstva poljoprivrede i šumarstva, Ministarstva turizma, Ministarstva kulture, Ministarstva gospodarstva, kao i obalno-otočnih županija te otočnih i obalno-otočnih gradova i općina.
+(2) Ministarstva i predstavnička tijela obalno-otočnih županija te otočnih i obalno-otočnih gradova i općina, iz stavka 1. ovoga članka, dužna su dostaviti mišljenje u roku od 60 dana od dana dostave prijedloga programa održivog razvitka otoka iz stavka 1. ovoga članka. Ako predstavničko tijelo ne dostavi mišljenje u propisanom roku, smatrat će se da nema primjedbe na predloženi program.
