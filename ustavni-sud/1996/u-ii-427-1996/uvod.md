@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Ivan Marijan Severinac, predsjedavajući sudac te suci mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Milan Vuković i Mladen Žuvela, odlučujući u povodu prijedloga Miljenka Laklije iz Zagreba u postupku za ocjenu suglasnosti propisa s Ustavom i zakonom, na sjednici održanoj dana 27. studenoga 1996. godine, donio je ovo

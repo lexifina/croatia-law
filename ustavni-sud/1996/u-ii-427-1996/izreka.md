@@ -1,0 +1,3 @@
+R J E Š E N J E
+1. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu uvjeta odobravanja bolničkog liječenja medicinskom rehabilitacijom kod bolesti dišnog sustava prema Popisu bolesti, bolesnih stanja i posljedica ozljeda za odobravanje bolničke medicinske rehabilitacije, koji je sastavnim dijelom Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom ("Narodne novine", br. 26/96), u dijelu kojim se takva rehabilitacija odobrava samo djeci do 15 godina, ne više od jedanput u godini, ovisno o kliničkom statusu.
+2. Ovo će se rješenje objaviti u "Narodnim novinama".
