@@ -1,0 +1,1 @@
+Na temelju članka 60. i članka 72. Zakona o obrtu (»Narodne novine« br. 73/93, 90/96, i 64/01.) i članka 23. Statuta Hrvatske obrtničke komore (»Narodne novine« broj 21/99), Skupština Hrvatske obrtničke komore na 8. sjednici, održanoj 13. prosinca 2001. godine, donijela je
