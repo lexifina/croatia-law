@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o bankama i štedionicama ("Narodne novine" br. 46/97 - pročišćeni tekst) i članka 75. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" br. 35/95 - pročišćeni tekst) guverner Hrvatske narodne banke donio je
