@@ -1,0 +1,1 @@
+Na temelju članka 5a. stavka 5. Zakona o plaćanju doprinosa za mirovinsko osiguranje od 1. lipnja do 31. prosinca 2000. godine (»Narodne novine«, broj 54/00 i 63/00) i članka 20. točke 12. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 163/98), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 20. srpnja 2000. donosi
