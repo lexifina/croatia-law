@@ -1,0 +1,4 @@
+# Članak 10.
+OLAKŠICE U SVEZI POSLOVNOG NASTANA, SMJEŠTAJA, ULASKA I BORAVKA
+U slučaju sklapanja ugovora o izvođenju radova, nabavi robe ili pružanju usluga, fizičke i pravne osobe kvalificirane za sudjelovanje u postupku nadmetanja imaju pravo na privremeni smještaj i boravak tamo gdje to značaj ugovora opravdava. To se pravo stječe tek nakon što je izdan poziv za prikupljanje ponuda, a uživa ga tehničko osoblje potrebno za provođenje istraživanja koje prethodi izradi ponuda; pravo prestaje mjesec dana nakon odabira izvođača.
+PRIMATELJ će osoblju koje sudjeluje u ugovorima o izvođenju radova, nabavi robe i pružanju usluga koje financira Zajednica, kao i članovima njihovih užih obitelji, dopustiti ulazak u državu PRIMATELJA, njihovo nastanjivanje u državi, rad i odlazak iz dotične države kako to priroda ugovora opravdava.
