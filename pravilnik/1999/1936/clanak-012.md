@@ -1,0 +1,3 @@
+# Članak 12.
+Mehanički sigurnosni sustavi iz članka 11. ovoga Pravilnika jesu: zaštitne ograde, zidovi, prepreke, protunaletne barijere, rampe, rešetke, protuprovalna vrata, neprobojna stakla i slične konstrukcije, sve vrste brava sa serijskim brojem ili kodom, oprema za pohranu i čuvanje predmeta i dokumenata i postavljeni znakovi i signalizacija zabrane i ograničenja.
+Elektronički sigurnosni sustavi iz članka 11. ovoga Pravilnika jesu: sustavi za stalni nadzor nad štićenim objektom s jednog mjesta, sustavi videonadzora, senzorske ograde, protuprovalni i protuprepadni sustavi, sustavi kontrole prolaska i sustavi za nadzor nad radom i provjeru učinkovitosti službe tjelesne zaštite.

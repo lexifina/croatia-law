@@ -1,0 +1,6 @@
+# Članak 18.
+Metodologijom iz članka 17. ovoga Pravilnika utvrđuju se nositelji izrade, obvezni sadržaj prosudbe ugroženosti i plana zaštite, kao i druga pitanja važna za njihovu izradu.
+Metodologija obvezno razrađuje sadržaj prosudbe ugroženosti i plana zaštite.
+U okviru razrade sadržaja prosudbe ugroženosti određuje se značaj objekta, osnovni elementi ugroženosti, vrste i uzroci ugrožavanja, posljedice neželjenog djelovanja i zaključna ocjena.
+U okviru razrade plana zaštite određuje se voditelj drugog objekta, mjere zaštite, snage i sredstva za provođenje mjera zaštite (veličina, struktura i sastav te organizacija i djelovanje službe zaštite objekta, način koordinacije, komunikacije i suradnje s ostalim zaštitnim snagama, prilozi s pregledom odgovornih osoba, rasporedom ljudstva, skicama i dr.), organizacija zaštite objekta u uvjetima povećane ugroženosti (rat, neposredna ugroženost neovisnosti i jedinstvenosti Republike Hrvatske ili izvanredne okolnosti) i zaključna ocjena.
+Metodologija sadrži i druga pitanja važna za izradu prosudbe ugroženosti i plana zaštite drugog objekta (specifičnosti koje metodologijom utvrđuje svako pojedino središnje tijelo državne uprave prema značajkama djelatnosti, ugrađenim tehnološkim sadržajima objekata, lokaciji i dr.).

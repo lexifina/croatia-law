@@ -1,0 +1,2 @@
+# Članak 24.
+Vlasnik, odnosno korisnik drugog objekta dužan je na zahtjev Ministarstva obrane, Ministarstva unutarnjih poslova ili nadležnog središnjeg tijela državne uprave dostaviti ili omogućiti pristup svim podacima o objektu koji su bitni za vođenje evidencije, izradu plana zaštite kao i za provedbu mjera zaštite drugog objekta na snimljenim materijalima iz zraka, dok ostalim tijelima, pravnim osobama i dr. dostavlja ili ustupa podatke o objektu u skladu s propisima i svojim općim aktima.
