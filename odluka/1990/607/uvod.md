@@ -1,0 +1,1 @@
+Na temelju člana 10. stava 2. i člana 18. Zakona o udruživanju u privredne komore ("Narodne novine", br. 46/86 i 57/89) te člana 36. točke 5. Statuta Privredne komore Hrvatske (prečišćeni tekst), Skupština PKH na 7. sjednici 18. srpnja 1990. donijela je
