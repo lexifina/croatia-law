@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Brodovi država obiju ugovornih stranaka mogu biti vezani i mogu noćiti u lukama i na plovnim putovima u skladu s nacionalnim propisima.
+(2) U slučaju havarije, nesreće, teškog oboljenja osobe na brodu ili iz drugih razloga koji onemogućuje nastavak plovidbe, mogu brodovi uploviti na bilo koje odgovarajuće mjesto. U takvim slučajevima treba zapovjednik broda ili osoba koju on ovlasti bez odgode izvijestiti najbliža tijela u skladu s nacionalnim propisima.
+(3) U slučaju havarije, nesreće, teškog oboljenja osobe na brodu ili iz drugih razloga kao što su kretanja santa leda, a koji onemogućuju nastavak plovidbe ili povratak, nadležno će tijelo pružiti pomoć ili će omogućiti da se brodovima i osobama koje se zateknu u takvoj prilici, pruža potreba pomoći za sve osobe prema međunarodnim propisima.

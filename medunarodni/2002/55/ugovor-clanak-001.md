@@ -1,0 +1,11 @@
+# Članak 1.
+U smislu ovog Ugovora razumije se:
+a) »brodovi ugovornih stranaka« su trgovački brodovi sa ili bez vlastitog pogona, registrirani na području jedne od ugovornih stranaka u skladu s njezinim nacionalnim zakonodavstvom sposobni za plovidbu u granicama područja važenja ovog Ugovora korišteno od strane organizatora prijevoza sa ciljem prijevoza stvari i/ili osoba. Isto tako ovaj termin ne uključuje vojna plovila,
+b) »organizatori plovidbe« su pravni subjekti koji su registrirani za plovidbu, koji imaju stalno sjedište svojeg društva ili trajni boravak u državi ugovorne stranke,
+c) »nadležna tijela« su Ministarstvo pomorstva, prometa i veza Republike Hrvatske i Ministarstvo prometa, pošta i telekomunkacija Slovačke Republike ako se međusobno ne obavijeste o drugim nadležnim uredima ili mjestima,
+d) »luke« su morske ili luke na unutarnjim vodama i mjesta utovara i istovara, službeno dozvoljena pretovarišta i mjesta gdje se putnici u okviru brodskog prometa ukrcavaju i iskrcavaju,
+e) »tranzitni prijevoz« je prijevoz kojim se brodovima države jedne ugovorne stranke prevoze osobe i/ili stvari preko područja države druge ugovorne stranke bez da se te osobe odnosno stvari primaju na brod ili ga napuštaju,
+f) »međudržavni prijevoz« je prijevoz između luka država obiju ugovornih stranaka njihovim brodovima kod kojeg se na brodove ukrcavaju ili iskrcavaju osobe ili se u njih utovaruju ili istovaruju stvari,
+g) »prijevoz trećom osobom« je prijevoz između država ugovornih stranaka koji se ostvaruje brodovima treće države, pri čemu se na brodove ukrcavaju i iz broda iskrcavaju osobe i/ili se u njih ukrcavaju ili iskrcavaju stvari,
+h) »prijevoz za ili iz trećih država« je prijevoz brodovima države jedne ugovorne stranke između luka države druge ugovorne stranke i treće države, pri čemu se na brodove ukrcavaju ili se iz brodova iskrcavaju osobe i/ili se u njih utovaruju ili iz njih istovaruju stvari,
+i) »unutarnji prijevoz« je prijevoz brodovima države jedne ugovorne stranke između dviju luka države druge ugovorne stranke pri čemu se na brodove ukrcavaju ili se iz brodova iskrcavaju osobe i/ili se u njih utovaruju ili se iz njih istovaruju stvari, prijevoz je na području druge stranke započet i završen.
