@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 4. Zakona o plaćanju doprinosa za mirovinsko osiguranje u 1999. godini (»Narodne novine«, broj 164/98 i 71/99) i članka 20. točke 12. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 163/98), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 4. listopada 1999. donosi
