@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u privredne komore ("Narodne novine", br. 42/85) i člana 37. Statuta Privredne komore Karlovac, Skupština Privredne komore Karlovac na 14. sjednici održanoj 15. travnja 1991. godine, donosi
