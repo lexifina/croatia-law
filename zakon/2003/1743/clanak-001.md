@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o posebnom porezu na naftne derivate (»Narodne novine«, br. 55/00., 101/00., 27/01., 107/01. i 136/02. - pročišćeni tekst) u članku 16. stavci 7., 8. i 9. mijenjaju se i glase:
+»(7) Eurodizel-dizelsko gorivo obojeno plavom bojom, smije se koristiti samo za pogon poljoprivrednih strojeva komercijalnih poljoprivrednih gospodarstava upisanih u Upisnik poljoprivrednih gospodarstava sukladno članku 13. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu te za pogon ribarskih plovila i strojeva koji se koriste u akvakulturi, u količinama potrebnim za obavljanje njihove djelatnosti.
+(8) Poljoprivrednim strojevima, u smislu ovoga Zakona, razumijevaju se strojevi kojima se obrađuje poljoprivredno zemljište ili ubiru poljoprivredne kulture, odnosno jednoosovinski i dvoosovinski traktori, kombajni, i samohodni strojevi.
+(9) Ribarskim plovilima i strojevima koji se koriste u akvakulturi razumijevaju se plovila kojima se obavlja gospodarski ribolov na moru te plovila i strojevi koji se koriste u akvakulturi.«.
