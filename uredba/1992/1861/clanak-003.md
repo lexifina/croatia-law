@@ -1,0 +1,2 @@
+# Članak 3.
+Ako se Agenciji u državnom proračunu osiguraju sredstva za posebne namjene u provodenju poslova obnove ili Agencija ostvari sredstva za obnovu iz drugih izvora ta sredstva se vode na posebnom računu Agencije. Agencija je ovlaštena da u okviru poslova i zadataka iz svog djelokruga i sredstava ostvarenih prema odredbi stavka 1. ovog članka sklapa ugovore i zaključuje druge pravne poslove.
