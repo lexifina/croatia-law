@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Naputka o utvrđivanju činjenica i posebnog staža u vezi s priznavanjem statusa hrvatskog branitelja, klasa: 801-01/97-01/07, ur. broj: 514-07-98-5 od 4. ožujka 1998. godine, kojeg je donijelo Povjerenstvo za utvrđivanje statusa hrvatskih branitelja djelatnicima Ministarstva pravosuđa iz sustava izvršenja sankcija.
