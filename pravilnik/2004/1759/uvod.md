@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 2. Zakona o sestrinstvu (»Narodne novine« 121/03.) i članka 19. Statuta Hrvatske komore medicinskih sestara Vijeće Komore na svojoj drugoj sjednici od 1. prosinca 2003. godine, donosi uz suglasnost ministra zdravstva

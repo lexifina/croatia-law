@@ -1,0 +1,3 @@
+# Članak 9.
+Redoviti stručni nadzor najavljuje se pisanim putem medicinskoj sestri nad čijim radom se obavlja stručni nadzor, odgovornoj osobi poslodavca, najkasnije osam dana prije provođenja stručnog nadzora i dostavlja mu se pismeni nalog iz članka 7. ovog Pravilnika.
+Izvanredni stručni nadzor može se najaviti u skladu sa stavkom 1. ovog članka, a može se provesti i bez najave ako to zahtijeva hitnost. Ako izvanredni stručni nadzor nije najavljen o njemu prije provođenja provoditelji obavještavaju glavnu medicinsku sestru i ravnatelja ustanove prilikom dolaska radi obavljanja stručnog nadzora.
