@@ -1,0 +1,1 @@
+Na temelju člana 11. Zakona o osnivanju javnog hrvatskog poštanskog i telekomunikacijskog poduzeća ("Narodne novine", broj 42/90), Upravni odbor poduzeća HPT-Hrvatska pošta i telekomunikacije na sjednici od 21. studenog 1990, uz suglasnost Vlade Republike Hrvatske, donio je
