@@ -1,0 +1,3 @@
+# Članak 7.
+1. Države stranke dužne su surađivati u provedbi ovoga Protokola, uključujući u sprječavanju bilo kakve aktivnosti protivne Protokolu, te u rehabilitaciji i socijalnoj reintegraciji osoba koje su žrtve djela protivnih ovome Protokolu, uključujući putem tehničke suradnje i financijske pomoći. Takva pomoć i suradnja poduzet će se uz konzultacije s dotičnim državama strankama i relevantnim međunarodnim organizacijama.
+2. Države stranke koje su u mogućnosti, pružit će takvu pomoć putem postojećih multilateralnih, bilateralnih ili drugih programa ili između ostaloga, putem dobrovoljnog fonda osnovanog u skladu s propisima Opće skupštine.
