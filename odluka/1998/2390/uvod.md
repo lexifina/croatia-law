@@ -1,0 +1,1 @@
+Na temelju članka 46. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1997. godinu ("Narodne novine", br. 111/96 i 109/97), Vlada Republike Hrvatske je na sjednici održanoj 11. prosinca 1997. godine donijela
