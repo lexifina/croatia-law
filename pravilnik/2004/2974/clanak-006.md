@@ -1,0 +1,2 @@
+# Članak 6.
+Pravo sudjelovanja na javnom natječaju iz članka 1. ovoga Pravilnika imaju svi registrirani nakladnici, koncesionari radija i televizije od lokalne do regionalne razine koncesije (dio grada - D, mjesna razina - M, lokalna razina - L, gradska razina - G, šire područje grada - ŠPG, županijska razina - ŽR, regionalna razina - RR), a prema uvjetima i kriterijima utvrđenim Zakonom i ovim Pravilnikom.
