@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 8. alineje 7. Statuta Agencije za nadzor mirovinskih fondova i osiguranja (»Narodne novine«, broj 50/2001), Vlada Republike Hrvatske je na sjednici održanoj 4. travnja 2002. godine donijela
