@@ -1,0 +1,3 @@
+# Članak 2.
+Državne etalone ostvaruje, čuva, održava i upotrebljava Državni zavod za normizaciju i mjeriteljstvo (u daljnjem tekstu: Zavod) te osigurava njihovu sljedivost na međunarodnoj razini.
+Ravnatelj Zavoda može prihvatiti za državni etalon etalon s najboljim mjeriteljskim značajkama u Republici Hrvatskoj koji je ostvario znanstveni mjeriteljski laboratorij u skladu s odredbama ovog pravilnika odnosno etalon koji čuva, održava i upotrebljava znanstveni mjeriteljski laboratorij ili ovlašteni mjeriteljski laboratorij u skladu s odredbama ovog pravilnika (u daljnjem tekstu nositelj državnog etalona).
