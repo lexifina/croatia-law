@@ -1,0 +1,10 @@
+Obrazloženje
+Poduzeće "Luka Rijeka" predložilo je ovom Sudu da pokrene postupak za ocjenu suglasnosti sa zakonom propisa navedenog u izreci. Prema navodima prijedloga, osporeni propis nije u suglasju s odredbama članka 276. stavka 2. Zakona o općem upravnom postupku ("Narodne novine", br. 53/91), a prema kojim odredbama se izvršavanje odluka upravnih tijela radi ispunjenja novčanih obveza provodi sudskim putem.
+Prijedlog nije osnovan.
+Osporenim propisom utvrđen je način prisilne naplate dospjelih, a neplaćenih iznosa naknade za zaštitu voda na temelju izvršnog rješenja Javnog vodoprivrednog poduzeća "Hrvatska vodoprivreda", u skladu s odredbama Zakona o platnom prometu u zemlji.
+Odredbama članka 27. Zakona o platnom prometu u zemlji ("Narodne novine", br. 27/93), propisano je da se naplata javnih prihoda, koju ne izvrši obveznik, obavlja po ovlaštenoj organizaciji, među kojima je i Zavod za platni promet, ispostavljanjem naloga za naplatu ako do roka dospijeća to ne učini obveznik ili ako ne pruži dokaze da je obveza namirena.
+Prema odredbama članka 4. stavka 2. Zakona o financiranju vodnog gospodarstva ("Narodne novine", br. 107/95), naknada za zaštitu voda je javni prihod, koji se prisilno naplaćuje po Zakonu o platnom prometu u zemlji, a ne po odredbama Zakona o općem upravnom postupku. Ovo je sukladno i odredbama članka 2. Zakona o općem upravnom postupku, po kojima se pojedina pitanja postupka mogu, za pojedinu upravnu oblast, urediti drukčije nego što su uređena tim Zakonom. Upravo to je propisano naprijed navedenim odredbama Zakona o platnom prometu u zemlji.
+Prema izloženom, osporena odredba Pravilnika o izmjenama Pravilnika o obračunavanju i plaćanju naknade za zaštitu voda nije u nesuglasju sa Zakonom.
+Svoja prava podnositelj prijedloga može štititi u upravnom postupku koji prethodi prisilnoj naplati, a koji se postupak vodi po odredbama Zakona o općem upravnom postupku.
+Zbog izloženog, riješeno je kao u izreci.
+Dio rješenja o objavi zasniva se na odredbama članka 20. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br. 13/91).
