@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o preuzimanju saveznih zakona iz oblasti prometa i veza koji se u Republici Hrvatskoj primjenjuju kao republički zakoni i članka 263. Zakona o zračnoj plovidbi ("Narodne novine", br. 53/91), ministar prometa i veza donosi
