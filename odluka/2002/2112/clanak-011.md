@@ -1,0 +1,2 @@
+# Članak 11.
+U postupku dokazivanja statusa kuće za odmor u smislu članka 10. stavka 1. ove Odluke, vlasnik kuće je dužan osim osobne iskaznice, predočiti sljedeće dokaze: putovnicu, mjesto i visinu nastanka troška električne energije, vode, telefona, pretplate na TV i radio prijemnike, prijam pošte, potvrdu o mjestu rada, izjavu svjedoka, mjesto podnošenja porezne prijave i druge dokaze podobne za ocjenu i utvrđivanje vremena korištenja kuće ili stana u smislu članka 10. stavka 1. ove Odluke.
