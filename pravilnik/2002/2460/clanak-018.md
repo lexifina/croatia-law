@@ -1,0 +1,2 @@
+# Članak 18.
+Meso koje je neispravo za ljudsku hranu označava se žigom oblika istostraničnog trokuta, stranica duljine 5 cm. Žig sadrži: HR, kontrolni veterinarski broj objekta, te datum obavljenog veterinarsko-sanitarnog pregleda. Visina oznake Republike Hrvatske i kontrolnog veterinarskog broja je 1 cm, a visina brojeva datuma je 0,5 cm. Širina otiska rubova pečata, oznake HR i kontrolnog veterinarskog broja mora biti 1,5 mm.
