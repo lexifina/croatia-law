@@ -1,0 +1,8 @@
+# Članak 15.
+U pododsjeku za mjerila obujma, tlaka, temperature i duljine provodi se ovjeravanje mjerila obujma, tlaka, temperature i duljine, obavlja se nadzor nad ispravnošću, prometom i uporabom mjerila obujma, tlaka, temperature i duljine i mjernih jedinica, sudjeluje u tipnim ispitivanjima mjerila obujma, tlaka, temperature i duljine. Vodi se ispitna dokumentacija o ovjeravanju i nadzoru mjerila obujma, tlaka, temperature i duljine.
+U pododsjeku za mjerila obujma, tlaka, temperature i duljine ustrojavaju se:
+3.2.2.1. Odjeljak za mjerila obujma i tlaka
+3.2.2.2. Odjeljak za mjerila duljine i temperature.
+3.2.2.1. Odjeljak za mjerila obujma i tlaka provodi ovjeravanje mjerila obujma i tlaka u laboratoriju odsjeka mjeriteljskih poslova, u potvrđenim mjeriteljskim laboratorijima za mjerila obujma i tlaka, obavlja nadzor nad ispravnošću, prometom i uporabom mjerila obujma i tlaka i mjernih jedinica, sudjeluje u tipnim ispitivanjima mjerila obujma i tlaka, vodi ispitnu dokumentaciju o ovjeravanju i nadzoru mjerila obujma i tlaka.
+3.2.2.2. Odjeljak za mjerila duljine i temperature provodi ovjeravanje mjerila duljine i temperature u laboratoriju odsjeka mjeriteljskih poslova, u potvrđenim mjeriteljskim laboratorijima za mjerila duljine i temperature, obavlja nadzor nad ispravnošću, prometom i uporabom mjerila duljine i temperature i mjernih jedinica, sudjeluje u tipnim ispitivanjima mjerila duljine i temperature, vodi ispitnu dokumentaciju o ovjeravanju i nadzoru mjerila duljine i temperature.
+3.2.3. Pododsjek za mjerila električnih veličina, referencijskih materijala i plemenitih kovina
