@@ -1,0 +1,5 @@
+# Članak 1.
+(PRAVNI SLJEDNICI)
+(1) Ugovorne stranke utvrđuju da je NE Krško izgrađena sredstvima hrvatskih i slovenskih elektroprivrednih organizacija, koje su zastupale i predstavljale na hrvatskoj strani Elektroprivreda Zagreb, a na slovenskoj strani Savske elektrarne Ljubljana. Pravni sljednik hrvatskih elektroprivrednih organizacija u svezi s pravima i obvezama proizašlim iz izgradnje i iskorištavanja NE Krško je Hrvatska elektroprivreda d.d. Zagreb (u daljnjem tekstu: HEP d.d.) a pravni sljednik slovenskih elektroprivrednih organizacija ELES GEN d.o.o. Ljubljana.
+(2) Sredstva potrebna za izgradnju nuklearne elektrane uložili su u jednakim dijelovima, na temelju akata navedenih u preambuli ovog Ugovora, ulagatelji odnosno njihovi pravni sljednici, te su time stekli osnovu za stjecanje prava članova društva u NE Krško u skladu s ovim Ugovorom.
+(3) Ugovorne stranke su suglasne da pravni sljednici ulagatelja iz obje ugovorne stranke ostvaruju prava i obveze u svezi s upravljanjem i iskorištavanjem zajedničke NE Krško u jednakim dijelovima i jednakom omjeru, osim ako ovim Ugovorom nije drugačije utvrđeno.

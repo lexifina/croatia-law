@@ -1,0 +1,4 @@
+# Članak 46.
+46.1. Svaki član Društva može bilo kada zatražiti da uprava sazove sjednicu Skupštine. Ako to uprava ne učini u roku četrnaest (14) dana od dana kad primi takav zahtjev, taj član Društva može neposredno sazvati sjednicu Skupštine, na način utvrđen u prethodnom članku ovog Ugovora.
+46.2. Poziv se dostavlja najkasnije u roku četrnaest (14) dana prije dana sjednice Skupštine, pri čemu se dan predaje na poštu i dan sjednice Skupštine ne računaju. Kao adresa za upućivanje poziva vrijedi zadnje poznato sjedište člana Društva.
+46.3. Sjednica Skupštine se po mogućnosti održava u sjedištu Društva. Uz suglasnost svih članova Društva može se odustati od poštivanja formalnosti za sazivanje i održavanje sjednice Skupštine te odluku donijeti bez održavanja sjednice. Za to moraju postojati pisane suglasnosti oba člana Društva.

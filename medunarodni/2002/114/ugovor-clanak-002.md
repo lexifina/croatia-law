@@ -1,0 +1,10 @@
+# Članak 2.
+(DRUŠTVO NEK d.o.o.)
+(1) Ugovorne stranke su suglasne da se postojeće Javno poduzeće Nuklearna elektrana Krško, društvo s ograničenom odgovornošću (JPNEK d.o.o.), preoblikovano Uredbom Vlade Republike Slovenije s danom 30. srpnja 1998. iz Nuklearne elektrane Krško p.o., preoblikuje u Nuklearnu elektranu Krško, društvo s ograničenom odgovornošću (u daljnjem tekstu: društvo ili NEK d.o.o.), u skladu s ovim Ugovorom te odgovarajućim društvenim ugovorom kojeg će na osnovi ovog Ugovora sklopiti Hrvatska elektroprivreda d.d. Zagreb i ELES GEN d.o.o. Ljubljana (u daljnjem tekstu: osnivači društva ili članovi društva).
+(2) Društvo posluje po načelu pokrivanja svih troškova pa stoga u načelu svojim poslovanjem ne ostvaruje niti dobit niti gubitak.
+(3) Ugovor koji sklapaju osnivači društva (u daljnjem tekstu Društveni ugovor) temeljit će se na odredbama ovog Ugovora kao i na odredbama Zakona o trgovačkim društvima Republike Slovenije. Ugovorne stranke će osigurati da osnivači društva sklope Društveni ugovor u tekstu kako je to sadržano u prilogu 1 ovog Ugovora. Osnivači će sklopiti Društveni ugovor odmah nakon potpisivanja ovog Ugovora time da Društveni ugovor stupi na snagu istovremeno sa stupanjem na snagu ovog Ugovora. Društveni ugovor smatra se osnivačkim aktom društva i za njegovu pravnu valjanost nije potreban javnobilježnički akt prema Zakonu o trgovačkim društvima. Sklopljen Društveni ugovor nije sastavni dio ovog Ugovora.
+(4) Temeljni kapital NEK d.o.o. je 84.723,482.000,00 SIT
+(osamdesetčetirimilijardesedamstodvadesttrimilijunačetiristoosamdesetdvijetisuće slovenskih tolara).
+(5) Temeljni kapital NEK d.o.o. podijeljen je na dva jednaka poslovna udjela u vlasništvu Hrvatske elektroprivrede d.d. Zagreb i ELES GEN d.o.o. Ljubljana.
+(6) Za odluku o istupanju ili isključenju člana društva iz društva, te za odluku o prijevremenom prestanku društva potrebna je suglasnost ugovornih stranaka.
+(7) Ugovorne stranke se obvezuju da neće djelovati na način kojim bi se oduzimala ili ograničavala prava članova društva.

@@ -1,0 +1,9 @@
+# Članak 20.
+(RJEŠAVANJE SPOROVA)
+(1) Sporovi između ugovornih stranaka u svezi s tumačenjem ili primjenom ovog Ugovora, riješit će se prvenstveno pregovorima.
+(2) Ako spor prema stavku 1. ovog članka nije moguće riješiti u roku od šest mjeseci, na zahtjev jedne od ugovornih stranaka spor će se proslijediti arbitražnom sudu.
+(3) Takav će se arbitražni sud osnovati ad hoc kako slijedi: svaka će ugovorna stranka imenovati jednog arbitra, a ta dva arbitra dogovorit će se o izboru državljana treće države za njihovog predsjednika. Ti će arbitri biti imenovani u roku od dva mjeseca od dana kada je jedna ugovorna stranka obavijestila drugu ugovornu stranku o svojoj namjeri da uputi spor na rješavanje arbitražnom sudu. Predsjednik će biti imenovan u roku od dva mjeseca.
+(4) Ako se ne poštuju rokovi navedeni u stavku 3. ovog članka, bilo koja od ugovornih stranaka može, u nedostatku drugog relevantnog dogovora, pozvati predsjednika Međunarodnog arbitražnog suda u Haagu (u daljnjem tekstu: Međunarodni sud) da izvrši neophodna imenovanja. Ako je predsjednik Međunarodnog suda državljanin jedne od ugovornih stranaka ili je na drugi način spriječen u obavljanju spomenute dužnosti, potpredsjednik, ili u slučaju njegove spriječenosti, sljedeći po rangu član Međunarodnog suda, bit će pozvan da pod istim uvjetima izvrši neophodna imenovanja.
+(5) Arbitražni će sud ustanoviti vlastita pravila postupka.
+(6) Arbitražni će sud donijeti svoju odluku na temelju ovog Ugovora i u skladu s pravilima međunarodnog prava. Arbitražni će sud donijeti odluku većinom glasova. Odluka je konačna i obvezujuća.
+(7) Svaka će ugovorna stranka snositi troškove svog člana i svog zastupanja u arbitražnom postupku na sudu. Troškove predsjednika suda i preostale troškove obje će ugovorne stranke snositi u jednakim dijelovima. Arbitražni sud može, međutim, u svojoj odluci odrediti i drukčiju raspodjelu troškova.

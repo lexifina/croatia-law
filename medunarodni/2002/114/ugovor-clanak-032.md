@@ -1,0 +1,6 @@
+# Članak 32.
+Organi Društva su:
+- UPRAVA DRUŠTVA;
+- NADZORNI ODBOR;
+- SKUPŠTINA DRUŠTVA.
+UPRAVA DRUŠTVA

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Ugovor između Vlade Republike Hrvatske i Vlade Republike Slovenije o uređenju statusnih i drugih pravnih odnosa vezanih uz ulaganje, iskorištavanje i razgradnju Nuklearne elektrane Krško i Zajednička izjava povodom potpisivanja Ugovora između Vlade Republike Hrvatske i Vlade Republike Slovenije o uređenju statusnih i drugih pravnih odnosa vezanih uz ulaganje, iskorištavanje i razgradnju Nuklearne elektrane Krško, potpisani 19. prosinca 2001., u Krškom, u izvorniku na hrvatskom i slovenskom jeziku.

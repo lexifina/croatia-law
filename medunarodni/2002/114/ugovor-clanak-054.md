@@ -1,0 +1,5 @@
+# Članak 54.
+54.1. Poslovnu tajnu čine svi podaci koji su kao poslovna tajna određeni zakonom, drugim propisom te općim aktom o čuvanju poslovne tajne koji donosi Skupština Društva, a koji predstavljaju proizvodnu tajnu, rezultate istraživačkog ili konstrukcijskog rada te druge podatke zbog čijeg bi priopćavanja neovlaštenim osobama mogle nastupiti štetne posljedice za gospodarske interese Društva.
+54.2. Skupština Društva se obvezuje da odmah nakon upisa Društva u sudski registar, donese opći akt iz prethodnog stavka ovog članka. Sadržajem općeg akta moraju odmah nakon njegovog donošenja biti upoznati članovi organa Društva te druge osobe, koje su dužne čuvati poslovnu tajnu.
+54.3. Bez obzira na sadržaj općeg akta, poslovnu tajnu čine i podaci za koje je očito da bi nastala znatna šteta Društvu, ako bi za te podatke saznala neovlaštena osoba. Članovi Društva, članovi organa Društva, djelatnici, te druge osobe, odgovorni su za otkrivanje poslovne tajne, ukoliko su znali ili su morali znati za takav značaj predmetnih podataka.
+54.4. Kao poslovna tajna ne mogu se proglasiti podaci, koji su po zakonu javni ili podaci o kršenju zakona ili dobrih poslovnih običaja.

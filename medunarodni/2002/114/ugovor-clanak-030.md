@@ -1,0 +1,5 @@
+# Članak 30.
+30.1. Članovi Društva se obvezuju da će svoje obveze prema NEK d.o.o. podmirivati u roku 15 dana od ispostavljanja svake pojedine fakture. Za zakašnjela plaćanja članova Društva NEK d.o.o. će obračunati zatezne kamate, koje važe u Republici Sloveniji za gospodarske kupoprodajne ugovore.
+30.2. Za osiguranje plaćanja faktura članovi Društva će Društvu u roku 3 mjeseca od dana stupanja na snagu ovog Ugovora predati bankarsko jamstvo na prvi poziv ili drugo odgovarajuće sredstvo osiguranja plaćanja obostrano prihvaćeno u visini od najmanje jedne prosječne mjesečne isporuke iz protekle godine. Sredstvo osiguranja plaćanja je trajno i zamjenjivo.
+30.3. U slučaju da član Društva ne ispuni svoju obvezu iz prethodnog stavka, Društvo mu smije, po isteku naknadnog 8-dnevnog roka za plaćanje, prekinuti daljnje isporuke, a energiju prodati na tržištu. Ako prihod koji Društvo ostvari prodajom te energiju na tržištu nije dostatan za pokriće svih troškova, član uprave ostaje i nadalje u obvezi prema Društvu za plaćanje te razlike. Društvo će ponovno uspostaviti isporuku članu Društva nakon plaćanja svih dospjelih obveza.
+RIZICI POSLOVANJA NE KRŠKO

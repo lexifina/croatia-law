@@ -1,0 +1,8 @@
+# Članak 6.
+(CIJENA, TROŠKOVI)
+(1) Članovi društva isporučenu snagu i električnu energiju plaćat će po cijeni koja pokriva cjelokupne troškove poslovanja uključujući između ostalog i troškove amortizacije, u iznosu potrebnom za realizaciju dugoročne investicijske obnove i ulaganja u tehnička poboljšanja u svezi sa sigurnošću i gospodarskom učinkovitošću nuklearne elektrane. Predračunska cijena snage i električne energije utvrđuje se na osnovi godišnjeg plana sukladno elementima utvrđenim u Društvenom dogovoru. Na kraju poslovne godine obavlja se obračun prema stvarno proizvedenoj električnoj energiji i stvarnim troškovima poslovanja.
+(2) U slučaju da nuklearna elektrana nije u pogonu zbog uzroka koji se ne mogu pripisati u odgovornost niti jednoj od ugovornih stranaka odnosno niti jednom od članova društva, a čiji uzrok se nalazio izvan same elektrane i nije se mogao predvidjeti, a njegove posljedice se nisu mogle izbjeći ili otkloniti (viša sila) odnosno zbog uzroka koji se nije mogao predvidjeti, a posljedice se nisu mogle izbjeći ili otkloniti (slučaj), oba člana društva podmirit će svaki polovicu nastalih troškova.
+(3) Višom silom ne smatraju se akti državne vlasti ili lokalne samoupravne vlasti, osim akata koji se odnose na nuklearnu sigurnost.
+(4) Ako okolnosti iz stavka 2. ovog članka traju dulje od 12 mjeseci, a članovi društva ne dogovore se drugačije, provest će se postupak prijevremenog zatvaranja NE Krško.
+(5) Članovi društva će svoje financijske obveze prema NEK d.o.o. redovito ispunjavati i svoju obvezu plaćanja osigurati.
+(6) NEK d.o.o. može prekinuti isporuku električne energije članu društva koji trajnije ne plaća svoje obveze odnosno ne ostvari odgovarajuće osiguranje plaćanja svojih obveza.

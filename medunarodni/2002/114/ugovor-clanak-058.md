@@ -1,0 +1,11 @@
+# Članak 58.
+58.1. U slučaju da Skupština Društva odnosno Nadzorni odbor Društva nisu mogli donijeti odluke zbog nedostatka suglasnosti, na zahtjev jednog od člana Društva konačnu odluku u predmetnoj stvari može u posebnom postupku donijeti za svaki pojedini slučaj ad hoc Poslovno tehnička arbitraža koju će u smislu ovog Ugovora imenovati članovi Društva.
+58.2. Arbitražno vijeće ima 3 (tri) člana (arbitri). Svaki član Društva je dužan u roku od 8 dana nakon što je primljen zahtjev za pokretanje postupka pred arbitražom imenovati u Arbitražno vijeće 1 (jednog) arbitra te o tome pisanim putem izvijestiti samog arbitra te drugog člana. Tako imenovani arbitri Arbitražnog vijeća imenuju se s liste arbitara - dvanaest (12) neutralnih stručnjaka koje će imenovati Skupština Društva na prvoj sjednici, a na temelju prijedloga članova. Svaki član Društva predložit će Skupštini za imenovanje šest (6) arbitara.
+58.3. Imenovani arbitri dužni su u roku od 5 dana od proteka roka iz članka 58. stavak 2. ovog Ugovora imenovati predsjednika Arbitražnog vijeća. Predsjednik Arbitražnog vijeća ne mora biti arbitar imenovan na listi. Ako arbitri u roku ne imenuju predsjednika Arbitražnog vijeća, članovi Društva ponovno imenuju nove arbitre u roku 8 dana od proteka roka za imenovanje predsjednika Arbitražnog vijeća. Ako niti novoimenovani arbitri ne izaberu predsjednika Arbitražnog vijeća, predsjednika će imenovati, na zahtjev bilo kojeg člana Društva, predsjednik Međunarodnog arbitražnog centra Savezne gospodarske komore u Beču.
+58.4. Jednom imenovani arbitri od strane članova Društva za pojedini slučaj, mogu biti imenovani i za druge slučajeve, bez ograničenja.
+58.5. Sjedište tako imenovanog ad hoc Arbitražnog vijeća je u Društvu. Sve administrativne poslove arbitraže obavlja Društvo.
+58.6. Na sve ostalo, u postupku pred Arbitražnim vijećem primijenit će se na odgovarajući način Pravila Stalne arbitraže pri Gospodarskoj zbornici Slovenije.
+58.7. Arbitražno vijeće ovlašteno je odlučivati po pravičnosti odnosno ex aequo et bono.
+58.8. Odluka koju donese Arbitražno vijeće glede konkretnog spora, pravomoćna je i izvršna za članove Društva i Društvo.
+58.9. Kao jezik arbitraže koriste se i slovenski i hrvatski jezik. Otpravak odluke arbitraže sačinit će se na slovenskom jeziku i prevesti na hrvatski jezik.
+IZVRŠAVANJE PRAVA I OBVEZA, TE TUMAČENJE UGOVORA
