@@ -1,0 +1,8 @@
+# Članak 3.
+POTREBNA ODOBRENJA
+1. Svaka ugovorna stranka će imati pravo odrediti jednog ili više zračnih prijevoznika radi obavljanja ugovorenog prometa na utvrđenim linijama, o čemu će pismeno izvijestiti drugu stranku.
+2. Nakon primitka takvog imenovanja, zrakoplovne će vlasti druge ugovorne stranke, podredno odredbama stavka 4. i 5. ovog članka, bez odgode izdati određenom zračnom prijevozniku odgovarajuće odobrenje za rad.
+3. Svaka će ugovorna stranka imati pravo, pismenom obaviješću drugoj ugovornoj stranci, povući imenovanje kojega zračnog prijevoznika i odrediti drugog.
+4. Od određenog zračnog prijevoznika bilo koje ugovorne stranke, može se tražiti da uvjeri drugu ugovornu stranku da je sposoban ispunjavati uvjete postavljene zakonom i propisima, koje obično i razborito primjenjuje ta ugovorna stranka u obavljanju međunarodnog zračnog prometa, u skladu s odredbama Konvencije.
+5. Svaka ugovorna stranka imat će pravo odbiti da izda odobrenje za rad prema stavku 2. ovoga članka, ili postaviti određenom zračnom prijevozniku takve uvjete koje može razumjevati potrebnim za izvršavanje prava određenim u članku 2. ovog Sporazuma, u svakom slučaju kad spomenuta ugovorna stranka nije uvjerena da je većinski dio vlasničkih prava i stvarna kontrola tog zračnog prijevoznika u posjedu ugovorne stranke koja je odredila zračnog prijevoznika, odnosno njezinih državljana.
+6. Kad se tako odredi zračni prijevoznik i odobri mu se rad, on može u svako doba početi obavljati ugovoreni promet, pod uvjetom da su tarife, utvrđene u skladu s odredbama članka 10. ovog Sporazuma, na snazi i da je postignut dogovor o prometu u skladu s odredbama članka 9. ovog Sporazuma.

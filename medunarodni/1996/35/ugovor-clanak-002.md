@@ -1,0 +1,8 @@
+# Članak 2.
+PROMETNA PRAVA
+1. Svaka ugovorna stranka daje drugoj ugovornoj stranci sljedeća prava u svezi s njezinim redovitim međunarodnim zračnim prometom:
+a) pravo prelijetati svoj teritorij bez slijetanja,
+b) pravo slijetati na svom teritoriju u neprometne svrhe.
+2. Svaka ugovorna strnka daje drugoj ugovornoj stranci prava određena u ovom Sporazumu, radi uspostave redovitog međunarodnog zračnog prometa na utvrđenim linijama u Dodatku I. Takav promet i linije se dalje u tekstu zovu »ugovoreni promet« i »utvrđene linije«. Obavljajući ugovoreni promet na utvrđenoj liniji, određeni zračni prijevoznik (prijevoznici) svake ugovorne stranke, imat će, osim prava utvrđenih u stavku 1. ovog članka, pravo slijetanja na teritorij druge ugovorne stranke, u mjestima utvrđenim za tu liniju u rasporedu, radi ukrcaja i iskrcaja putnika i tereta, uključujući i poštu.
+3. Smatrat će se da ništa iz stavka 2. ovog članka ne daje pravo zračnom prijevozniku (prijevoznicima) jedne ugovorne stranke, na području druge ugovorne stranke, ukrcati, radi prijevoza u najmu ili uz naplatu, putnike i teret uključujući i poštu upućene na drugo mjesto na području te druge ugovorne stranke.
+4. Ako u slučaju oružanih sukoba, prirodnih katastrofa i političkih nestabilnosti, određeni zračni prijevoznik jedne ugovorne stranke bude spriječen da obavlja ugovoreni zračni, druga ugovorna stranka će učiniti maksimalne napore da omogući kontinuirano obavljanje tog prometa kroz odgovarajuće izmjene u utvrđivanju zračnih puteva, uključujući odobravanje prava u tom periodu koja su potrebna za omogućavanje obavljanja tih letova.

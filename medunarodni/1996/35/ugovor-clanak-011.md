@@ -1,0 +1,7 @@
+# Članak 11.
+TARIFE
+1. Tarife će se u ugovorenom prometu utvrditi na razboritoj razini, imajući u vidu sve relevantne čimbenike, uključujući troškove poslovanja, umjerenu dobit, tržišne prilike i tarife ostalih zračnih prijevoznika za ma koji dio ugovorenoga prometa. Tarife će dogovarati određeni zračni prijevoznici obiju ugovornih stranaka.
+2. Kad god je to moguće, određeni zračni prijevoznici će se dogovoriti o tarifama mehanizmom za utvrđivanje cijena Međunarodnog udruženja zračnih prijevoznika. Ne uspiju li u tome, tarife će dogovarati za svaku utvrđenu liniju. U svakom slučaju tarife podliježu odobrenju zrakoplovnih vlasti obiju ugovornih stranaka, a zahtjev za njihovo odobrenje treba podnijeti ne kasnije od 30 dana prije planirane primjene. Taj rok se može skratiti uz pristanak gore spomenutih vlasti.
+3. Ako se određeni zračni prijevoznici ne mogu u razboritom roku dogovoriti o tarifama, ili ako bilo koja zrakoplovna vlast ne odobri tarife podnesene u skladu s točkom 2. ovog članka, ugovorne stranke će nastojati da dogovore tarife preko zrakoplovnih vlasti.
+4. Ako se ne može postići dogovor iz točke 3. ovog članka, spor će se riješiti u skladu s pravilima o rješavanju sporova iz ovoga Sporazuma.
+5. Nijedna nova niti izmijenjena tarifa neće stupiti na snagu ako je ne odobre zrakoplovne vlasti obiju ugovornih stranaka ili arbitraža, prema pravilima o rješavanju sporova. Do donošenja odluke o tarifama u skladu s odredbama ovog članka, primjenjivat će se tarife koje su na snazi.
