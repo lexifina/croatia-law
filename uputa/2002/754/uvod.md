@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o Financijskoj agenciji (»Narodne novine«, broj 117/2001.), i članka 3. točka 8 Zakona o platnom prometu u zemlji («Narodne novine», broj 117/2001.), te Programa statističkih istraživanja Republike Hrvatske za razdoblje 2000. - 2002. godine («Narodne novine», broj 66/2000.), ministar financija donosi
