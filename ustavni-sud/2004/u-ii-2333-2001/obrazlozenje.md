@@ -1,0 +1,14 @@
+Obrazloženje
+1. Carinski sindikat Hrvatske iz Zagreba podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Pravilnika o unutarnjem redu Ministarstva financija (u daljnjem tekstu: Pravilnik) od 27. rujna 2001. godine.
+Pravilnik je donio ministar financija na temelju članka 61. točke 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/93, 48/99, 15/00, 59/01, u daljnjem tekstu: ZSDU).
+2. Prema navodima prijedloga, Pravilnik je u nesuglasnosti s člankom 145. Zakona o radu (»Narodne novine«, broj 38/95, 54/95, 65/95, 17/01, 82/01).
+Ustavni sud nije nadležan za odlučivanje.
+3. Odredbom članka 128. točke 2. Ustava Republike Hrvatske propisano je da Ustavni sud odlučuje o suglasnosti drugih propisa s Ustavom i zakonom.
+Pod drugim propisom podrazumijeva se akt općeobveznog karaktera, donesen od strane nadležnih tijela državne vlasti ili tijela jedinica lokalne i područne (regionalne) samouprave te drugih pravnih osoba s javnim ovlastima, koji uređuje odnose na općenit način i koji se odnosi, u pravilu, na neodređeni krug adresata.
+4. Odredbom članka 61. točke 1. ZSDU propisano je da Pravilnik o unutarnjem redu, iz članka 60. stavka 3. istog Zakona, za ministarstvo donosi ministar. Prema odredbi članka 60. stavka 3. ZSDU, Pravilnikom o unutarnjem redu utvrđuje se broj potrebnih državnih službenika i namještenika, s naznakom njihovih osnovnih poslova, zadaća i stručnih uvjeta potrebnih za njihovo obavljanje te njihove ovlasti i odgovornosti.
+Člankom 3. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01) propisano je da se službenici i namještenici primaju i raspoređuju na radna mjesta utvrđena Pravilnikom o unutarnjem redu državnih tijela.
+Ustavni sud ocjenjuje da je u konkretnom slučaju riječ o općem aktu internog karaktera, kojeg je ministar financija donio, temeljem svojih ovlasti iz članka 61. točke 1. ZSDU, i u skladu s člankom 60. stavkom 3. ZSDU te člankom 3. Zakona o državnim službenicima i namještenicima.
+Osporeni Pravilnik, stoga, po svojim pravnim značajkama nije drugi propis, u smislu odredbe članka 128. točke 2. Ustava Republike Hrvatske, koji bi mogao biti predmetom ocjene ustavnosti i zakonitosti pred Ustavnim sudom.
+5. Odredbom članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 49/02 - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon) propisano je da će Ustavni sud rješenjem odbaciti prijedlog kad ne postoje pretpostavke za odlučivanje o biti stvari.
+U skladu s ocjenom Ustavnog suda da osporeni Pravilnik nije drugi propis, u smislu odredbe članka 128. točke 2. Ustava Republike Hrvatske, na temelju odredbe članka 32. Ustavnog zakona, riješeno je kao u točki I. izreke.
+6. Rješenje iz točke II. izreke obrazloženja temelji se na članku 29. Ustavnog zakona.
