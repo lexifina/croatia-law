@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o zaštiti prirode ("Narodne novine", br. 30/94 i 72/94), a u svezi s člankom 37. stavak 1. točka 8. Zakona o ustrojstvu i djelokrugu ministarstva i državnih upravnih organizacija ("Narodne novine" br. 72/94), ravnatelj Državne uprave za zaštitu kulturne i prirodne baštine donosi
