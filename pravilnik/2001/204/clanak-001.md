@@ -1,0 +1,33 @@
+# Članak 1.
+Prestaju važiti pravilnici o uvjetima kojima moraju udovoljiti laboratoriji za ispitivanje mjerila određene vrste koji su preuzeti Zakonom o preuzimanju Zakona o mjernim jedinicama i mjerilima koji se u Republici Hrvatskoj primjenjuje kao republički zakon (»Narodne novine« broj 53/91) i to:
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled davača tarifnih impulsa i uklopnih satova (Sl. list, broj 66/84 i »Narodne novine«, broj 53/91)
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled uklopnih satova - SL SFRJ, 3/85.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled termoparova - SL SFRJ, 25/85.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled električnih žarulja s užarenom volframskom niti - radnih etalona jedinice svjetlosne jakosti - SL SFRJ, 26/85.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled medicinskih injekcijskih štrcaljki - SL SFRJ, 27/85.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled ugostiteljskih posuda - SL SFRJ, 27/85.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled laboratorijskih mjerila staklenih mjerila obujma za mjerenje kolonjske vode i parfimerijskih proizvoda - SL SFRJ, 27/85.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled vlagomjera za zrna žitarica i sjemenki uljarica - SL SFRJ, 5/86-116.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled butirometara za mlijeko, sir i vrhnje - SL SFRJ, 7/86-158.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled radnih etalona jedinice magnetne indukcije i mjerila magnetne indukcije - SL SFRJ, 8/86-192.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled digitalnih voltmetara za istosmjerne napone - SL SFRJ, 8/86-193.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled pokaznih uređaja sprava za mjerenje tekućih goriva - SL SFRJ, 8/86-194.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled radnih etalona jedinice magnetnog toka i mjerila magnetnog toka - SL SFRJ, 11/86-357.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled protočnih mjerila obujma tekućine - SL SFRJ, 30/86-920.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled viskozimetara - SL SFRJ, 38/86-1141.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled automobilskih cisterni, vagonskih cisterni i prenosivih cisterni - SL SFRJ, 52/86-1591.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled radnih etalona vremena i učestalosti (frekvencije) - SL SFRJ, 68/86-2032.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled parkirališnih satova - SL SFRJ, 10/87-284.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled plinomjera i korektora - SL SFRJ, 18/88-521.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled bačava, kaca, kanti i balona - SL SFRJ, 18/88-523.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled manometarskih termometara - SL SFRJ, 33/88-876.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled radnih etalona i mjerila električnih veličina - SL SFRJ, 32/89-810.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled temperaturnih kompenzatora volumena za tekuća goriva - SL SFRJ, 54/90-1764.
+- Pravilnik o uvjetima za osnivanje laboratorija za pregled bimetalnih termometara - SL SFRJ,73/90-2150.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled fotoelektričnih luminancmetara - mjerila luminancije (sjaja) - SL SFRJ, 11/91-188.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled ebulioskopa - SL SFRJ, 22/91-418.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled rashladnih posuda za mlijeko (laktofriza), mljekomjera i mjernih posuda - SL SFRJ, 30/91-548.
+- Pravilnik o uvjetima osnivanja laboratorija za pregled fotoelektričnih luksometara - mjerila osvjetljenja - SL SFRJ, 61/91-940.
+- Pravilnik o uvjetima za pregled vodomjera - SL SFRJ, 47/81-1213.
+- Pravilnik o uvjetima za pregled humanih i veterinarskih toplomjera - SL SFRJ, 66/81-1688.
+- Pravilnik o uvjetima za pregled sprava za mjerenje tekućih goriva - SL SFRJ, 2/83-13.
