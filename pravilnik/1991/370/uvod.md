@@ -1,0 +1,1 @@
+Na temelju članka 123. stavka 2. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/90 i 47/90), a u svezi s člankom 14. stavkom 1. Zakona o ustrojstvu republičke uprave ("Narodne novine". br. 41/90 i 59/90) ministar poljoprivrede i šumarstva donosi
