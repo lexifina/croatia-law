@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Ako državljanin s područja jedne ugovorne stranke preseli na područje druge ugovorne stranke, pravo na bolesničko osiguranje ostvaruje prema pravnim propisima te druge ugovorne stranke u kojoj ima prebivalište. Ako je to potrebno radi stjecanja prava na isplatu davanja iz bolesničkog osiguranja uzimaju se u obzir i ona razdoblja osiguranja ostvarena prema pravnim propisima prve ugovorne stranke.
+(2) Ako državljanin na temelju ovoga Ugovora ili prema unutarnjim pravnim propisima ugovornih stranaka ima od obje ugovorne stranke pravo na davanja iz bolesničkog osiguranja za ista razdoblja radne nesposobnosti, davanja bolesničkog osiguranja isplaćivat će se prema pravnim propisima one ugovorne stranke na čijem je on području bio posljednji put bolesnički osiguran.
+(3) Ako roditelj, prema ovom Ugovoru ili prema unutarnjim pravnim propisima ugovornih stranaka, stekne od obje ugovorne stranke pravo na uzastupnu novčanu pomoć za vrijeme porodnog dopusta, stranka mjerodavna za isplatu te vrste davanja je ona ugovorna stranka na čijem je području roditelj bio posljednji put bolesnički osiguran.
+(4) Ako roditelj stekne pravo na pomoć za opremu novorođenog djeteta, prema pravnim propisima jedne i druge ugovorne stranke, za isplatu te vrste pomoći mjerodavna je ona ugovorna stranka na čijem se području dijete rodilo.
+Zdravstvena zaštita

@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Osobi koja ima pravo na davanja u novcu, prama pravnim propisima jedne od ugovornih stranaka, ta se davanja ne smiju ukinuti, mijenjati ili obustaviti zbog toga što osoba ima prebivalište na području druge ugovorne stranke. To se ne odnosi na davanje za slučaj nezaposlenosti.
+(2) Davanja u novcu, prema pravnim propisima jedne ugovorne stranke, državljanima druge ugovorne stranke i osobama navedenim u članku 3. stavku 2. ovoga Ugovora, koji imaju prebivalište u nekoj trećoj državi, pružat će se pod istim uvjetima i u istom opsegu kao i državljanima prve ugovorne stranke koji imaju prebivalište u toj trećoj državi.

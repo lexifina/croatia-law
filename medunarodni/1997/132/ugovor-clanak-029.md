@@ -1,0 +1,3 @@
+# Članak 29.
+(1) Mjerodavna tijela, nositelji i tijela za vezu obiju ugovornih stranaka obvezuju se na uzajamnu pomoć i suradnju pri primjeni ovoga Ugovora. Ta pomoć je besplatna. Ako su potrebna dokazna sredstva iz druge ugovorne stranke mogu se koristiti i posredovanja diplomatskih i konzularnih tijela dotične ugovorne stranke.
+(2) Liječničke preglede osoba koje imaju prebivalište ili boravak na teritoriju druge ugovorne stranke obavlja nositelj u mjestu prebivališta ili boravka osobe, na zahtjev i na teret mjerodavnog nositelja koji je to tražio. Troškovi liječničkog pregleda se ne naknađuju ako su obavljeni u interesu nositelja obiju ugovornih stranaka.
