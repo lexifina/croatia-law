@@ -1,0 +1,3 @@
+# Članak 1.
+Dana 15. siječnja 1998. godine prestaje važiti Uredba o Uredu za suradnju s mirovnim operacijama ("Narodne novine", br. 9/92, 19/92, 61/92 i 36/96) i prestaje s radom Ured za suradnju s mirovnim operacijama.
+Državne službenike i namještenike zatečene na poslovima Ureda za suradnju s mirovnim operacijama na dan 15. siječnja 1998. godine, preuzet će i rasporediti na odgovarajuće poslove Ured za suradnju s Organizacijom za europsku sigurnost i suradnju, kojeg će Vlada Republike Hrvatske osnovati posebnom uredbom. Pismohranu i drugu dokumentaciju Ureda preuzet će Tajništvo Vlade Republike Hrvatske.
