@@ -1,0 +1,2 @@
+# Članak 21.
+U slučaju prestanka koncesije zbog isteka vremena na koje je dodijeljena, osim koncesije za vađenje pijeska i šljunka, davatelj koncesije može odlučiti da se koncesija, bez provođenja natječaja ili prikupljanja ponuda, ponovno neposredno dodijeli dotadašnjem korisniku koncesije, pod uvjetom da se time osigurava nastavak namjenskog korištenja koncesije i da se to ne protivi javnom interesu.

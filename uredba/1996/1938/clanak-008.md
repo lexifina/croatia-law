@@ -1,0 +1,2 @@
+# Članak 8.
+Pri određivanju vremena trajanja koncesije što se dodjeljuje korisnicima voda i javnog vodnog dobra iz članka 209. Zakona o vodama, uzimaju se u obzir proteklo vrijeme korištenja vode i javnog vodnog dobra za iste namjene, stanje objekata, amortizacija dosadašnjih ulaganja, opseg i vrijednost potrebnih novih ulaganja. Ovako određeno vrijeme ne može biti kraće od jedne trećine najduljeg vremena za dodjelu koncesija za istu namjenu iz članka 6. ove Uredbe.

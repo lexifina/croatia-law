@@ -1,0 +1,4 @@
+# Članak 14.
+Korisnik koncesije dužan je neovisno o obvezi plaćanja naknade za koncesiju prema odredbama članka 9. do 13. ove Uredbe, naknaditi vrijednost radova potrebnih radi otklanjanja pogoršanja uvjeta života i rada građana, pogoršanja vodnog režima i stanja okoliša i drugih mogućih negativnih posljedica što bi mogle nastati zahvatom potrebnim za ostvarivanje koncesije odnosno povećanim opsegom korištenja voda.
+Korisnik koncesije može se obvezati da će sam neposredno financirati ili obaviti radove i druge činidbe iz stavka 1. ovog članka.
+Obveze iz stavka 1. i 2. ovog članka utvrđuju se odlukom o koncesiji odnosno ugovorom o koncesiji na temelju stručne procjene što je osigurava Državna uprava za vode za koncesije o čijoj dodjeli odlučuju tijela Republike Hrvatske, a županijsko poglavarstvo za koncesije o kojima odlučuje to tijelo.
