@@ -1,0 +1,11 @@
+# Rev-2831/1995-2, Vrhovni sud Republike Hrvatske, 21.9.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=67427ea6-1a09-4c81-9c60-515cab2dd51b
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-09-21
+- Publication date on source: 2004-11-17
+- ECLI: ECLI:HR:VSRH:1999:2272
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
