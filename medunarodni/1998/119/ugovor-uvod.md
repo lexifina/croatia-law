@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE SLOVENIJE O SURADNJI U ZAŠTITI OD PRIRODNIH I CIVILIZACIJSKIH KATASTROFA
+Vlada Republike Hrvatske i Vlada Republike Slovenije (u daljnjem tekstu: ugovorne stranke), uvjerene u nužnost međusobne suradnje radi sprječavanja, odnosno ublažavanja posljedica prirodnih i civilizacijskih katastrofa, (u daljnjem tekstu: katastrofa), poštujući već potpisane međunarodne sporazume s ovog područja dogovorile su se kako slijedi:
