@@ -1,0 +1,2 @@
+# Članak 14.
+Ako se ispravke i dopune prema članku 13. stavku 1. ovoga pravilnika ne obave u određenom roku, a najkasnije u roku tri mjeseca od dana poziva nadležnog organa za osnivanje komisije, rješenjem će se odbiti rudarski projekt. Izuzetno od odredbe iz stavka 1. ovoga članka nadležni organ za osnivanje komisije može, ako za to postoje opravdani razlozi, produžiti rok za izvršenje i dostavu ispravki i dopuna prema primjedbama komisije.

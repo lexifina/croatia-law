@@ -1,0 +1,2 @@
+# Članak 7.
+Ako pojedini članovi komisije, u toku pregleda projekta, ocijene da je potrebno prije sjednice komisije iz određenih razloga bitnih za utvrđivanje pravilnosti pojedinih rješenja predviđenih projektom, obaviti uviđaj na licu mjesta, predložit će nadležnom organu za osnivanje komisije za reviziju, da se taj uviđaj obavi. Konačnu odluku o potrebi uviđaja iz stavka 1. ovoga članka donijet će nadležni organ za osnivanje komisije.
