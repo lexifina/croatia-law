@@ -1,0 +1,5 @@
+# Članak 101.
+Postojeće samoupravne interesne zajednice odgoja i osnovnog obrazovanja prestat će radom i zaključiti svoje poslovanje najkasnije do 31. prosinca 1990. godine.
+Sredstva, prava i obveze postojećih samoupravnih interesnih zajednica osnovanih za područje općine, odnosno grada Zagreba, preuzimaju općine u kojima je sjedište samoupravne interesne zajednice odgoja i osnovnog obrazovanja, odnosno grad Zagreb, a sredstva, prava i obveze Republičke samoupravne interesne za jednice odgoja i osnovnog obrazovanja preuzima Ministarsvo prosvjete.
+Ministarstvo prosvjete preuzima i raspoređuje radnike u radnom odnosu u Republičkoj samoupravnoj interesnoj zajednici odgoja i osnovnog obrazovanja, a općinski, odnosno gradski organ uprave nadležan za poslove osnovnog školstva preuzima i raspoređuje radnike u radnom odnosu u samoupravnoj interesnoj zajednici odgoja i osnovnog obrazovanja, odnosno u Udruženju samoupravnih interesnih zajednica grada Zagreba.
+Radnici koji nisu raspoređeni prema stavku 2. ovoga članka imaju prava i obveze utvrđene članom 381. Zakona o upravi.

@@ -1,0 +1,2 @@
+# Članak 17.
+Mrežu osnovnih škola za svoje područje utvrđuje skupština općine, odnosno Skupština Grada Zagreba, na prijedlog Zavoda za školstvo i uz suglasnost Ministarstva prosvjete. Odlukom o mreži osnovnih škola utvrđuju se sjedišta osnovnih škola, statusna obilježja, nazivi škola, mjesta u kojima se izvode programi osnovnog školovanja i upisna područja iz kojih su učenici dužni pohađati školu.

@@ -1,0 +1,4 @@
+# Članak 82.
+Kad školski odbor utvrdi da postoji osnovena sumnja da je učitelju ili stručnom suradniku narušeno psihičko i fizičko zdravlje u mjeri koje bitno smanjuje njegovu sposobnost za obavljanje odgojno-obrazoanog rada, donosi odluku o upućivanju radnika na liječnički pregled. Ako se stručnim nalazom nadležne organizacije zdravstva utvrdi da je psihičko i fizičko zdravlje radnika bitno narušeno i bitno umanjena njegova sposobnost za obavljanje odgojno-obrazovnog rada, školski odbor donosi odluku o oslobađanju radnika od neposrednog odgojno-obrazovnog rada s učenicima.
+Nakon donošenja odluke o oslobađanju radnika od neposrednog odgojno-obrazovnog rada s učenicima, osnovna škola dužna je osigurati materijalnu i socijalnu sigurnost radnika.
+Radniku koji odbije izvršenje odluke o upućivanju na liječnički pregled prestaje radni odnos u osnovnoj školi.

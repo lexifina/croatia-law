@@ -1,0 +1,3 @@
+# Članak 99.
+Republički pedagoški standard iz članka 10. ovoga zakona Sabor Republike Hrvatske donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga zakona.
+Do donošenja Odluke o republičkom pedagoškom standardu iz stavka 1. ovoga članka primjenjivat će se Odluka o uvjetnim stopama kao osnovi za stjecanje prava na dopunska sredstva za ostvarivanje jedinstvenog pedagoškog standarda i kriterijima i programima za provođenje zajedničkih potreba društva, koji je Skupština RSIZ-a odgoja i osnovnog obrazovanja donijela 27. prosinca 1989. godine, i to u dijelu koji nije u suprotnosti s odredbama ovoga zakona.
