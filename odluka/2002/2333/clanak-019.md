@@ -1,0 +1,2 @@
+# Članak 19.
+Porezna uprava će do 15. u mjesecu, za prethodni mjesec, općini dostavljati zbirna izvješća o utvrđenim i naplaćenim porezima iz članka 3. ove Odluke.
