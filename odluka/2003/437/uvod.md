@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj: 117/93., 67/97., 33/00., 137/00., 59/01 i 107/01) i članka 17. Statuta Grada Klanjca (»Službeni glasnik Krapinsko-zagorske županije«, broj: 15/02), Gradsko vijeće Grada Klanjca na 11. sjednici, održanoj dana 24. veljače 2003. godine donijelo je
