@@ -1,0 +1,2 @@
+# Članak 53.
+Osnivači otvorenih i pučkih učilišta, centara za kulturu, javnih ustanova za trajnu naobrazbu i drugih organizacija za naobrazbu odraslih, koje obavljaju knjižničnu djelatnost, donijet će, u roku od dvije godine od stupanja na snagu ovoga Zakona, odluke kojima će sredstvima, prostorom i opremom što tim pravnim osobama služi za obavljanje knjižnične djelatnosti, te njihovim knjižnim fondom, osnovati samostalne knjižnice prema odredbama ovoga Zakona, odnosno osigurati obavljanje knjižnične djelatnosti sukladno članku 9. stavku 1. ovoga Zakona.
