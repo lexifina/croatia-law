@@ -1,0 +1,1 @@
+Na temelju člana 21. stava 1. Zakona o društvenom planiranju u Socijalističkoj Republici Hrvatskoj, Sabor Socijalističke Republike Hrvatske, na sjednici Vijeća udruženog rada 11. siječnja 1990, Vijeća općina 27. prosinca 1989. i na sjednici Društveno-političkog vijeća 27. prosinca 1989. godine, donio je
