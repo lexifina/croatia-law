@@ -1,0 +1,4 @@
+I.
+U Odluci o koeficijentima za utvrđivanje plaća djelatnika zaposlenih u organima i tijelima kojima se sredstva za rad osiguravaju u državnom proračunu ("Narodne novine", br. 52/93 i 5/94.), u točki I. iza podtočke 8. dodaje se nova podtočka 8.a. koja glasi: "8.a. pomoćnik pročelnika županijskog ureda i voditelj ispostave županijskog ureda 3,40". U podtočki 9. iza riječi "viši inspektor" dodaju se riječi "predstojnik pododsjeka i pomoćnik voditelja u županijskom uredu". U podtočki 10. iza riječi "viši konzervator-restaurator" dodaju se riječi "voditelj odjeljka u županijskom uredu". U podtočki 11. iza riječi "mlađi istraživač s magisterijem" dodaju se riječi "voditelj odjeljka ispostave u županijskom uredu".
+II.
+Ova Odluka stupa na snagu danom objave u "Narodnim novinama", a primjenjuje se na isplate plaća za mjesec siječanj 1994. godine i daljnje isplate.

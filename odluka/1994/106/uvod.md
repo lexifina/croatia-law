@@ -1,0 +1,1 @@
+Na temelju članka 23. stavak 4. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91 i 55/92) i članka 98. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93), Vlada Republike Hrvatske je na sjednici održanoj 27. siječnja 1994. godine donijela
