@@ -1,0 +1,1 @@
+Na temelju članka 75. Zakona o ustanovama ("Narodne novine", broj 76/93) u svezi s člankom 73.c stavkom 1. Zakona o postupku za upis u sudski registar ("Narodne novine", broj 53A/91), Vlada Republike Hrvatske je na sjednici održanoj 16. veljače 1994. donijela
