@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 2. Zakona o bankama i štedionicama ("Narodne novine" broj 94/93, 90/96. i 98/96.) i članka 67. stavka 1. točke 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine" broj 35/95 - pročišćeni tekst), Savjet Narodne banke Hrvatske na sjednici održanoj 5. ožujka 1997. godine, donio je
