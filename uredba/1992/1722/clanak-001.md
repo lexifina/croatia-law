@@ -1,0 +1,3 @@
+## o izvozu i uvozu robe od strane fizičkih osoba
+# Članak 1.
+Domaće i strane fizičke osobe mogu slobodno unositi i primati iz inozemstva odnosno iznositi i slati u inozemstvo predmete osobne prtljage, predmete za osobne potrebe i potrebe članova obitelji (lijekovi i medicinska pomagala, predmeti za potrebe obrazovanja i razonodu), predmete za potrebe svojeg domaćinstva, ukljućujući osobne automobile i plovila, a i životinje, u količinama koje nisu namijenjene preprodaji. Predmeti naslijeđeni u inozemstvu mogu se slobodno unositi, a iznositi - uz uvjete reciprociteta. Predmeti predviđeni međudržavnim ugovorima mogu se slobodno unositi i iznositi u skladu s tim ugovorima.

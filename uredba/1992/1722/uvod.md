@@ -1,0 +1,1 @@
+Na temelju članka 2. Zakona o određivanju kada prestaju vrijediti uredbe Vlade Republike Hrvatske donesene na temelju zakonske ovlasti i ovlaštenju Vlade da uredbama ureduje pojedina pitanja iz djelokruga Sabora Republike Hrvatske ("Narodne novine", broj 39/92) Vlada Republike Hrvatske na sjednici održanoj 9. listopada 1992. godine, donijela je
