@@ -1,0 +1,1 @@
+Na temelju Amandmana XVII na Ustav Socijalističke Republike Hrvatske i člana 70. stava 1. Zakona o zaštiti od elementarnih nepogoda ("Narodne novine", br.14/78, 31/81 i 53/84), Sabor Socijalističke Republike Hrvatske na sjednici Vijeća udruženog rada 18. travnja 1990. i na sjednici Vijeća općina 11. travnja 1990. donio je

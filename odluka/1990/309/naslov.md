@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o davanju pomoći iz sredstava solidarnosti za djelomično ublažavanje posljedica od elementarnih nepogoda na području općine Dubrovnik izazvanih potresom 15. travnja 1979. godin
