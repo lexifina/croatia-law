@@ -1,0 +1,1 @@
+Temeljem članka 12. stavak 1. točka 9. Zakona o izdavanju i prometu vrijednosnim papirima (»Narodne novine«, broj 107/95 i 142/98) i članka 15. stavak 2. Zakona o postupku preuzimanja dioničkih društava (»Narodne novine«, broj 124/97), Komisija za vrijednosne papire Republike Hrvatske donosi
