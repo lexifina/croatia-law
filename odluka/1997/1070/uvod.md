@@ -1,0 +1,3 @@
+Na temelju članka1. Zakona o usklađivanju mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja, te upravljanju fondovima mirovinskog i invalidskog osiguranja ("Narodne novine", br. 20/97) i članka 6. točke 12. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske ("Narodne novine" 58/90,21/92, 116/93 i 23/95),
+Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, na sjednici održanoj 6. svibnja
+1997. donosi
