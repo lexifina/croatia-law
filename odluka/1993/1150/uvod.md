@@ -1,0 +1,1 @@
+Na temelju članka 22. stavaka 2. i 3. Zakona o mirovinskom i invalidskom osiguranju vojnih osiguranika ("Narodne novine", broj 53/91, 73/91, 18/92 i 71/92), Vlada Republike Hrvatske je na sjednici održanoj IS. lipnja 1993. donijela
