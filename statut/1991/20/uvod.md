@@ -1,0 +1,1 @@
+Na temelju člana 94, 97. i 100. Zakona o udruživanju poljoprivrednika ("Narodne novine". br. 40/78) i člana 32. Zakona o zadrugama ("Službeni Iist SFRJ", br 3/90), Skupština Zadružnog saveza Hrvatske na sjednici održanoj 12. prosinca 1990. godine donosi
