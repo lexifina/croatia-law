@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o obaveznom atestiranju penjalica za drvene stupove za vodove i o uvjetima kojima moraju udovoljavati organizacije udruženog rada ovlaštene za atestiranje tih proizvoda
