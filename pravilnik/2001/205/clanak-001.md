@@ -1,0 +1,26 @@
+# Članak 1.
+Prestaju važiti pravilnici o načinu uporabe i svrstavanja etalona određene mjerne jedinice koji su preuzeti Zakonom o preuzimanju Zakona o mjernim jedinicama i mjerilima koji se u Republici Hrvatskoj primjenjuje kao republički zakon (»Narodne novine« broj 53/91) i to:
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice duljine - SL SFRJ, 5/85-199 i 68/90-2023.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice kuta (ravninskog) - SL SFRJ, 5/85-199.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice svjetlosnog toka - SL SFRJ, 5/85-206.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice temperature - SL SFRJ, 19/85-698.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice mase - SL SFRJ, 9/85-398.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinica svjetlosne jakosti, osvjetljenja (iluminancije) i svjetljivosti (luminancije) - SL SFRJ, 19/85-700.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice električnog otpora - SL SFRJ, 19/85-701.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice elektromotorne sile - SL SFRJ, 20/85-720.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice obujma plina - SL SFRJ, 50/85-1411.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice magnetne indukcije - SL SFRJ, 54/85-1463.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice magnetnog toka - SL SFRJ, 54/85-1464.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinica vremena i učestalosti - SL SFRJ, 58/85-1548.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice obujma tekućine - SL SFRJ, 50/86-1500.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice jakosti magnetnog polja - SL SFRJ, 67/86-2019.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice magnetne indukcije u mjernom području od 5?10-12 T do 5?10-2 T - SL SFRJ, 18/87-521.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice aktivnosti radioaktivnih izvora - alfa odašiljača - SL SFRJ, 44/87-1099.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice aktivnosti radioaktivnih izvora - gama odašiljača - SL SFRJ, 44/87-1100.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice aktivnosti radioaktivnih izvora - beta odašiljača - SL SFRJ, 56/87-1387.
+- Pravilnik o načinu upotrebe i klasifikacije etalona jedinice ekspozicijske doze iks-zračenja i gama-zračenja za potrebe zaštite od zračenja SL SFRJ, 42/88-1175.
+- Pravilnik o načinu upotrebe i klasifikacije etalona jedinice ekspozicijske doze iks-zračenja i gama-zračenja za potrebe radioterapije - SL SFRJ, 42/88-1176.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice električnog kapaciteta - SL SFRJ, 56/88-1489.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice električne snage - SL SFRJ, 32/89-809.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice sile - SL SFRJ, 9/90-558.
+- Pravilnik o načinu upotrebe i klasifikaciji etalona jedinice električne snage i sredstava mjerenja faktora snage u frekvencijskom području od 45 Hz do 65 Hz - SL SFRJ, 73/90-2149.
