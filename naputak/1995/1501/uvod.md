@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 2. Zakona o sudskim pristojbama ("Narodne novine", br. 74/95) i članka 11. stavka 4. Zakona o javnobilježničkim pristojbama ("Narodne novine", br. 72/94. i 74/95.), ministar financija donosi
