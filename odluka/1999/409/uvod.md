@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 34. stavka 2. Zakona o zapošljavanju ("Narodne novine", broj 59/96) Vlada Republike Hrvatske je na sjednici održanoj 18. veljače 1999. godine donijela
