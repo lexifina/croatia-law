@@ -1,0 +1,3 @@
+# Članak 14.
+Odsjek za izdavačku djelatnost obavlja poslove na izdavanju normi te drugih dokumenata i publikacija iz djelokruga rada Zavoda te izdaje periodične publikacije (Glasilo Zavoda, Katalog hrvatkih normi i Program rada na pripremi hrvatskih norma). Obavlja poslove na izdavanju hrvatskih normi i drugih normizacijskih dokumenata i publikacija na elektroničkim nosačima (disketama, CD-ovima, putem interneta). Sudjeluje u prikupljanju podataka o hrvatskim normama i oblikovanju kataloga. Organizira i vodi poslove na terminološkom ujednačivanju i korigiranju tekstova publikacija koje izdaje Zavod. Provodi razredbu hrvatskih norma za potrebe njihova katalogiziranja.
+4.2 Odsjek za informacijsko dokumentacijske poslove

@@ -1,0 +1,3 @@
+# Članak 17.
+Odsjek za pravne, kadrovske i zajedničke poslove obavlja upravne i stručne poslove kao što su provođenje zakona i propisa iz djelokruga Zavoda, izrađuje nacrte zakona i podzakonskih akata, obavlja i druge pravne i zajedničke poslove, poslove koji se odnose na pripremu rješenja i administrativne poslove u oblasti radnih odnosa državnih službenika i namještenika u Zavodu, vodi osobni očevidnik za državne službenike i namještenike Zavoda, poslove vezane za stručno osposobljavanje i usavršavanje zaposlenika te poslove prijama otpreme i arhiviranja spisa za sve ustrojstvene jedinice Zavoda.
+5.2. Odsjek za financijske poslove

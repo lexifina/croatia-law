@@ -1,0 +1,2 @@
+# Članak 12.
+U odsjecima mjeriteljskog nadzora u područnim jedinicama u Zagrebu, Rijeci, Splitu i Osijeku obavljaju se poslovi mjeriteljskog nadzora, poslovi provođenja postupka tipskog ispitivanja mjerila, poslovi osiguravanja mjeriteljske sljedivosti etalona, poslovi umjeravanja etalona i ovjeravanja mjerila, poslovi ispitivanja sukladnosti mjerila te poslovi nadzora predmeta od plemenitih kovina i pakovina.
