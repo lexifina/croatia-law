@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 47. točke 1. i 4. Zakona o zdravstvenom osiguranju ("Narodne novine" br. 75/93) i članka 13. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" br. 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 19. sjednici održanoj 27. veljače 1996. godine donijelo je
