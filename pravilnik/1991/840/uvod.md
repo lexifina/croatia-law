@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 2. Zakona o posebnoj novčanoj naknadi borcima narodnooslobodilačkog rata i predratnim revolucionarima ("Narodne novine", br. 52/78, 48/80, 20/86 i 27/88) ministar rada i socijalne skrbi donosi
