@@ -1,0 +1,1 @@
+Na temelju članka 5. stavak 1. Zakona o zabrani raspolaganja i preuzimanju sredstava odredenih pravnih osoba na teritoriju Republike Hrvatske ("Narodne novine", broj 29/94), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 1995. godine donijela
