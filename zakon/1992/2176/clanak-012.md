@@ -1,0 +1,2 @@
+# Članak 12.
+Za proizvode koji se prikupljaju i raspoređuju kao humanitarna pomoć, ako prema važećim propisima nisu oslobođeni od plaćanja carina ili poreza na promet, Vlada Republike Hrvatske može propisati oslobađanja ili olakšice. Vlada Republike Hrvatske može propisati za prijevoz humanitarne pomoći oslobađanja ili olakšice za plaćanje naknada za upotrebu cesta i objekata na cestama. Naknada za prijevoz trajektom ili brodom koju plaćaju prijevoznici humanitarne pomoći iz inozemstva jednaka je naknadama koje plaćaju domaći prijevoznici.
