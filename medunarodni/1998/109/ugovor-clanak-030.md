@@ -1,0 +1,3 @@
+# Članak 30.
+Država članica koja dragovoljno istupi može biti ponovno primljena na njezin vlastiti zahtjev. Ona se tada smatra novom državom članicom, ali pristupninu plaća samo ako je istupila prije više od pet godina.
+Države članice za koje se službeno smatra da su istupile mogu biti ponovno primljene na njihov zahtjev pod uvjetom da plate neplaćenu članarinu koju je trebala platiti u trenutku brisanja. Takvi unatražni doprinosi izračunavaju se na temelju članarine za godine koje prethode njezinom ponovnom primanju. Ona se stoga smatra novom državom članicom, ali se pristupnina izračunava uzimajući u obzir njezine prethodne članarine, u omjeru koji utvrdi Konferencija.
