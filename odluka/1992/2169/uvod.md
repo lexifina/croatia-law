@@ -1,0 +1,1 @@
+Na osnovi članha 3. Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova osiguranicima Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske ("Narodne novine", broj 53A/91 i 70/92), Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, na 9. sjednici održanoj 1. prosinca 1992, godine, donijela je
