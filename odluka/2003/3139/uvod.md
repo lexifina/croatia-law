@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 2. Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, broj 155/2002) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), Vlada Republike Hrvatske je na sjednici održanoj 11. prosinca 2003. godine donijela
