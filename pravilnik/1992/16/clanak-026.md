@@ -1,0 +1,2 @@
+# Članak 26.
+Predsjednika i članove Komisije, njihove zamjenike i ispitivače imenuje Savjet za knjižnice Hrvatske. Rješenjem o imenovanju Komisije određuje se i koje će predmete ispitivati predsjednik, članovi Komisije i ispitivači. Administrativne poslove Komisije obavlja tajnik Komisije kojega imenuje Savjet za knjižnice Hrvstske. Za pojedini ispit može se odrediti i posebni zapisničar, kojega imenuje Savjet za knjižnice Hrvatske. Rad Komisije je javan.

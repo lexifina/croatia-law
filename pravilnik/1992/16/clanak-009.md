@@ -1,0 +1,2 @@
+# Članak 9.
+Kandidat predlaže temu za domaći pismeni rad nakon što je uspješno položio prvi dio usmenog ispita. Kandidat daje prijedlog teme u obliku sinopsisa ili kratkih teza, i uz to navodi literaturu kojom će se služiti pri obradi teme. Komisija odobrava temu imajući u vidu užu specijalizaciju kandidata Komisija iz članka 11. ovog Pravilnika dužna je odobriti temu i odrediti mentora u roku od mjesec dana od primitka prijedloga. Ako Komisija ne prihvati predloženu temu dogovorit će s kandidatom, tijekom narednih mjesec dana, drugu temu.

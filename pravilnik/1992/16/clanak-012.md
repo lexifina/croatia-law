@@ -1,0 +1,2 @@
+# Članak 12.
+Za polaganje ispita kandidatima stoje na raspolaganju dva ispitna roka godišnje, u pravilu u lipnju i prosincu, a po potrebi mogu se odrediti i izvanredni rokovi. U svakom ispitnom roku ispituju se svi predmeti iz članka 4. ovog pravilnika, pa kandidati u svakom ispitnom roku mogu pristupiti polaganju ispita. Ako je kandidat na vrijeme predao prijavu Komisija mu je dužna omogućiti polaganje ispita do roka u kojemu ga je, prema Zakonu o bibliotečnoj djelatnosti i bibliotekama, obvezan položiti.
