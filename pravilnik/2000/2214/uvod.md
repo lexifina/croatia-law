@@ -1,0 +1,1 @@
+Na temelju točke 7. Odluke ministarstva financija Vlade Republike Hrvatske o osnivanju Posebnog računa za kreditiranje razvitka i obnove poljoprivrede (»Narodne novine« br. 54/96., 51/97. i 89/00.) ministar poljoprivrede i šumarstva i ministar financija, donose
