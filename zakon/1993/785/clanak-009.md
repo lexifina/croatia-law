@@ -1,0 +1,4 @@
+## U sastavu Ministarstva uprave je Zavod za javnu upravu."
+# Članak 9.
+U članku 16. stavku 1. riječi: "Ministarstvo turizma i trgovine" zanljenjuju se riječima: "Ministarstvo turizma", a iza riječi: "ugostiteljstvo i turističko posredovanje", dodaju se riječi "stanje i pojave na području turističkih usluga; međunarodnu suradnju u svezi s turizmom; djelovanje instrumenata gospodarskog sustava i mjera gospodarske politike na razvoj ponude i pružanje turističkih usluga i poslovanje poduzeća: pravni položaj turističko-ugostiteljskih poduzeća i uvjete obavljanja ugostiteljske i turističke djelatnosti; praćenje i analiziranje kvalitete turističke proizvodnje, ugostiteljskih i turističkih usluga i predlaganje unapređenja turističke djelatnosti; obavljanje i drugih poslova koji su mu stavljeni u nadležnost".
+Stavci 2., 3. i 4. brišu se.

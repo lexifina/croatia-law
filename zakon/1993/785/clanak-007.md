@@ -1,0 +1,6 @@
+# Članak 7.
+Članak 14. mijenja se i glasi
+"Članak 14.
+Ministarstvo pravosuđa obavlja upravne i druge stručne poslove koji se odnose na: ustrojstvo i rad te stručno osposobljavanje i usavršavanje djelatnika u sudovima, državnim odvjetništvima i organima nadležnim za vođenje prekršajnog postupka, organima koji izvršavaju kaznene i prekršajne sankcije i odvjetništvu; medunarodnu pravnu pomoć i druge oblike pravne pomoći; izvršavanje kaznenih i prekršajnih sankcija; pomilovanje i uvjetne otpuste: imovinskopravne poslove u svezi eksproprijacije i drugih ograničenja vlasništva, korištenje građevinskog zemljišta, prava vlasništva na nekretninama, imovinskopravni dio komasacije i zemljišta, promet zemljišta i zgrada, imovinskopravni dio agrarnih operacija, uređivanje vlasničkopravnih odnosa, imovinu stranih državljana; denacionalizaciju; obavljanje i drugih poslova koji su mu stavljeni u nadležnost.
+Ministarstvo pravosuda obavlja i nadzor nad obavljanjem poslova uprave u organima sudbene vlasti te državnom odvjetništvu i organima za vodenje prekršajnog postupka
+U sastavu Ministarstva pravosuda su Uprava za imovinskopravne poslove. Uprava za izvršenje kaznenih i prekršajnih sankcija i Zavod za informatizaciju pravosuda i javne uprave."
