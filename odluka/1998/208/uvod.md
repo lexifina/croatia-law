@@ -1,0 +1,1 @@
+Na temelju članka 3. i 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), te članka 35. stavka I. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1998. godinu ("Narodne novine", broj 141/97), Vlada Republike Hrvatske je na sjednici održanoj 29. siječnja 1998. godine donijela
