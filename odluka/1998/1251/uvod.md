@@ -1,0 +1,1 @@
+Na temelju članka 5a. stavka 4. i 5. Zakona o boravišnoj pristojbi (»Narodne novine«, broj 35/95 - pročišćeni tekst i 44/98.), Vlada Republike Hrvatske je na sjednici održanoj 2. srpnja 1998. godine donijela
