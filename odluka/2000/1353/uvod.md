@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. Zakona o financiranju vodnog gospodarstva (»Narodne novine«, br. 107/95, 19/96 i 88/98), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2000. godine, donijela
