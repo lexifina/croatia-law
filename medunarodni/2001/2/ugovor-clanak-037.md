@@ -1,0 +1,5 @@
+# Članak 37.
+STUPANJE NA SNAGU; ZATVARANJE RANIJIH DOKUMENATA
+(1) ŠPrvotno stupanje na snaguš Ova Konvencija stupa na snagu mjesec dana nakon što pet država položi svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, ovisno o slučaju, pod uvjetom da najmanje tri od navedenih isprava polože države stranke Akta iz 1961/1972 ili Akta iz 1978.
+(2) ŠNaknadno stupanje na snaguš Svaka država koja nije obuhvaćena stavkom (1) ili neka međuvladina organizacija postaje vezana ovom Konvencijom mjesec dana nakon datuma polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, ovisno o slučaju.
+(3) ŠZatvaranje Akta iz 1978,š Nijedna isprava o pristupu aktu iz 1978. ne može se pohraniti nakon stupanja na snagu ove Konvencije u skladu sa stavkom (1), osim što svaka država koja se, u skladu s utvrđenom praksom Opće skupštine Ujedinjenih naroda, smatra zemljom u razvoju, može položiti takvu ispravu do 31. prosinca 1995, a svaka druga država može položiti takvu ispravu do 31. prosinca 1993, čak i onda ako ova Konvencija stupi na snagu prije tog datuma.
