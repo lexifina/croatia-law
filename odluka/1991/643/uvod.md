@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u privredne komore, člana 60. i 130. Statuta Privredne komore Dalmacije - Split, te ovlaštenja Skupštine Komore od 25 siječnja 1991. godine, Izvršni odbor Komore na sjednici 26. ožujka 1991. godine donosi
