@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o načinu obračunavanja i plaćanja poreza na dohodak od nesamostalnog rada (plaće i mirovine) ("Narodne novine" broj 113/93) u članku 10. stavak 1. mijenja se i glasi:
+"Poslodavac je obvezan sastaviti mjesečni "Izvještaj o dohotku od nesamostalnog rada i uplačenom porezu na dohodak u____________ mjesecu ___________ godine", za sve isplate dohotka od nesamostalnog rada i uplate poreza i prireza obavljene tijekom proteklog mjeseca. Poslodavac treba ovaj izvještaj dostaviti ispostavi Porezne uprave nadležnoj prema svom sjedištu, do 15. u tekućem mjesecu za prethodni mjesec."
+Stavak 4. mijenja se i glasi:
+"lzvještaj o dohotku od nesamostalnog rada i uplaćenom porezu na dohodak u ___________ mjesecu ___________ godine" poslodavac sastavlja i dostavlja u jednom primjerku za sve posloprimce. Podatke popunjava prema nazikrima stupaca 1 do 14 i to grupirane prema općinama na kojima se nalaze prebivališta ili boravišta posloprimaca. Podatke o svim isplatama dohotka od nesamostalnog rada treba iskazati redoslijedom isplate tijekom mjeseca i zbrojno. Na kraju treba iskazati zbroj na razini poslodavca za mjesec za koji se ovaj Izvještaj podnosi."
