@@ -1,0 +1,11 @@
+# Rev-900/1990-2, Vrhovni sud Republike Hrvatske, 5.9.1990.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=32470196-d68e-4164-8749-0662122fd17c
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1990-09-05
+- Publication date on source: 2008-10-17
+- ECLI: ECLI:HR:VSRH:1990:2461
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
