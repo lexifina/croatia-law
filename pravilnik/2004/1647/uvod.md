@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 3. alineje 2. i stavka 4. Zakona o prostornom uređenju (»Narodne novine«, broj 30/94, 68/98, 61/00 i 32/02) ministrica zaštite okoliša, prostornog uređenja i graditeljstva, donosi
