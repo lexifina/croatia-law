@@ -1,0 +1,6 @@
+# Članak 3.
+ZAŠTITA ULAGANJA
+1. Svaka će ugovorna stranka na svom teritoriju pružiti punu zaštitu i sigurnost ulaganjima i povratima druge ugovorne stranke. Niti jedna ugovorna stranka neće proizvoljnim, nerazumnim ili diskriminacijskim mjerama ometati razvitak, upravljanje, održavanje, korištenje, uživanje, širenje, prodaju ili eventualnu likvidaciju takvih ulaganja. Svaka će ugovorna stranka poštovati svaku drugu obvezu koju je preuzela u odnosu na specifična ulaganja ulagatelja druge ugovorne stranke.
+2. Ulaganjima ili povratima ulagatelja bilo koje od ugovornih stranaka na teritoriju druge ugovorne stranke odobrit će se pošten i pravičan tretman u skladu s međunarodnim pravom i odredbama ovog Ugovora.
+3. Ugovorne stranke neće na svojem teritoriju uvoditi privremene mjere na ulaganja ulagatelja druge ugovorne stranke glede nabavke materijala, sredstava proizvodnje, rada, prijevoza, plasiranja proizvoda na tržištu ili sličnih naredbi koje imaju nerazumne i diskriminacijske učinke.
+4. Ugovorne će stranke učiniti javno poznatim i dostupnima svoje zakone i odredbe, postupke i administrativna pravila te sudske odluke opće primjene, kao i međunarodne sporazume koji mogu utjecati na ulaganja ulagatelja jedne ugovorne stranke na teritoriju druge ugovorne stranke.
