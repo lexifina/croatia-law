@@ -1,0 +1,6 @@
+o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990.
+1. Kao granični iznos najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu određuje se od 1. siječnja 1990. iznos od 1.663,70 dinara.
+2. Kao granični iznos najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu ostvarenu prema Zakonu o posebnim uvjetima za stjecanje mirovine radnika zaposlenih u rudnicima ugljena ("Narodne novine", br. 41 /68 i 20/70) i Zakona o posebnim uvjetima za stjecanje mirovine radnika zaposlenih u rudnicima ugljena na teritoriju Socijalističke Republike Hrvatske ("Narodne novine", broj 40/73), određuje se od 1. siječnja 1990. iznos od 2.186,60 dinara.
+3. Prema graničnom iznosu najnižega mirovinskog primanja iz toč. 1. i 2. ove odluke, područne službe Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja radnika Hrvatske, po službenoj dužnosti, bez donošenja rješenja, odredit će novi iznos zaštitnog dodatka svim korisnicima mirovine koji imaju pravo na taj dodatak.
+4. S danom stupanja na snagu ove odluke prestaje važiti Odluka o graničnom iznosu najnižega mirovinskog primanja od 1. siječnja 1990. ("Narodne novine", broj 14/90).
+5. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1990.
