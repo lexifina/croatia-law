@@ -1,0 +1,1 @@
+Na temelju odredbi članka 9. stavka 4., članka 16. stavka 3., članka 17. stavka 2., članka 18. stavka 2. i članka 22. stavka 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj:49/03 - pročišćeni tekst, i 117/03.), ministar mora, turizma, prometa i razvitka, donosi
