@@ -1,0 +1,1 @@
+Na temelju članka 6. Ustavnog zakona za provedbu Ustava Republike Hrvatske i članka 30. Zakona o izvršenju Proračuna Republike Hrvatske za 1991. godinu ("Narodne novine", br. 58/90 i 53A/91), Sabor Republike Hrvatske na sjednici Vijeća udruženog rada 9. studenoga 1991. Vijeća općina 9. studenoga 1991. i Društveno-političkog vijeća 9. studenoga 1991, donio je
