@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o novčanim poticajima i naknadama u poljoprivredi i ribarstvu (»Narodne novine«, br. 29/99., 105/99., 46/00., 69/00. i 83/00.) u članku 6. točki 15. podtočki 1. riječi: »1.370,00 kn po hektaru« zamjenjuje se riječima: »1.610,00 kn po hektaru«, u podtočki 7. riječi: »1.720,00 kn po hektaru« zamjenjuju se riječima: »2.250,00 kn po hektaru« i u podtočki 9. riječi: »1.490,00 kn po hektaru« zamjenjuje se riječima: »2.250,00 kn po hektaru«.
