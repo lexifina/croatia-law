@@ -1,0 +1,2 @@
+# Članak 14.
+U članku 140. iza riječi: »Državnoga sudbenog vijeća Republike Hrvatske« dodaju se riječi: »Državnoga odvjetničkog vijeća«, ispred riječi: »Državnog odvjetnika« dodaje se riječ: »Glavnog«, riječi: »Državnog pravobranitelja Republike Hrvatske ili njegova zamjenika, Pučkog pravobranitelja Republike Hrvatske ili njegova zamjenika« brišu se, a dodaju se riječi: »Pravobranitelja za djecu i njegovih zamjenika, Pravobranitelja za ravnopravnost spolova i njegovih zamjenika«.

@@ -1,0 +1,8 @@
+# Članak 21.
+Naziv članka 175. mijenja se i glasi:
+»Trgovanje ljudima i ropstvo«.
+Članak 175. mijenja se i glasi:
+»(1) Tko kršeći pravila međunarodnog prava uporabom sile, ili prijetnjom uporabe sile, prijevarom, otmicom, zlouporabom položaja bespomoćnosti ili ovlasti ili na drugi način vrbuje, kupi, proda, preda, prevozi, prevede, potiče ili posreduje u kupnji, prodaji ili predaji, skriva ili prima osobu radi uspostave ropstva ili njemu sličnog odnosa, prisilnog rada ili služenja, seksualnog iskorištavanja, prostitucije ili nedopuštenog presađivanja dijelova ljudskog tijela, ili tko osobu drži u ropstvu ili njemu sličnom odnosu, kaznit će se kaznom zatvora od jedne do deset godina.
+(2) Tko kršeći pravila međunarodnog prava vrbuje, kupi, proda, preda, prevozi, prevede, potiče ili posreduje u kupnji, prodaji ili predaji, skriva ili prima dijete ili maloljetnu osobu radi uspostave ropstva ili njemu sličnog odnosa, prisilnog rada ili služenja, seksualnog iskorištavanja, prostitucije ili nedopuštenog presađivanja dijelova ljudskog tijela, ili tko dijete ili maloljetnu osobu drži u ropstvu ili njemu sličnom odnosu, kaznit će se kaznom zatvora od najmanje pet godina.
+(3) Ako je kazneno djelo iz stavka 1. ili 2. ovoga članka počinjeno u sastavu grupe ili zločinačke organizacije ili je počinjeno u odnosu na veći broj osoba, ili je prouzročena smrt jedne ili više osoba, počinitelj će se kazniti kaznom zatvora najmanje pet godina ili kaznom dugotrajnog zatvora.
+(4) Bez utjecaja je na postojanje kaznenog djela iz stavka 1. i 2. ovoga članka okolnost je li osoba pristala na prisilni rad ili služenje, seksualno iskorištavanje, ropstvo ili ropstvu sličan odnos ili nedopušteno presađivanje dijelova svoga tijela.«
