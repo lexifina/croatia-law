@@ -1,0 +1,2 @@
+# Članak 2.
+Od dana stupanja na snagu ove Uredbe, pravne osobe mogu se registrirati samo za obavljanje privrednoga ribolova plave ribe. Pravne osobe registrirane za privredni ribolov do stupanja na snagu ove Uredbe mogu obavljati privredni ribolov samo uz upotrebu plovila (brodova i čamaca) i ribolovnih alata glede broja i vrste koje su upotrebljavali do dana stupanja na snagu ove Uredbe. Odredba stavka 2. ovoga članka ne odnosi se na privredni ribolov plave ribe.

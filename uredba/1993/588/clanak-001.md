@@ -1,0 +1,3 @@
+## o obavljanju privrednoga morskoga ribolova
+# Članak 1.
+Radi zaštite riba i drugih morskih životinja organi ovlašteni za izdavanje odobrenja fizičkim osobama za obavljanje privrednoga morskoga ribolova, po Zakonu o morskom ribarstvu ("Narodne novine", broj 44/80, 41/84, 9/88, 9/91, 61/91 i 22/92), do 4. studenoga 1993. godine, izdavat će odobrenja samo za privredni morski ribolov (u daljnjem tekstu: privredni ribolov) plave ribe. Odobrenja za privredni ribolov izdana do stupanja na snagu ove Uredbe, ne mogu se dopunjavati upisivanjem novih ribolovnih alata, glede broja i vrste za ulov ribe i drugih morskih životinja. Odredba stavka 2. ovoga članka ne odnosi se na privredni ribolov plave ribe.
