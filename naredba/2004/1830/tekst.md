@@ -1,0 +1,14 @@
+I.
+Sjeme hibridnog kukuruza »PR34G13«, uvoznika i distributera trgovačkog društva PIONEER SJEME d.o.o., Zagreb, Čulinečka cesta 2b/2 sadrži genetski modificirani organizam (u daljnjem tekstu: GMO), te se naređuje uništavanje svih usjeva zasijanih predmetnim sjemenom hibridnog kukuruza kao mjera sigurnosti i mjera zaštite od nekontroliranog uvođenja u okoliš GMO-a.
+Poljoprivredna inspekcija i inspekcija zaštite bilja Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva zabranit će daljnji promet i raspolaganje predmetnim sjemenom hibridnog kukuruza.
+II.
+Mjera uništavanja usjeva zasijanih predmetnim sjemenom hibridnog kukuruza iz točke I. ove Naredbe provest će se bez odlaganja, na sljedeći način:
+Fizičke i pravne osobe, vlasnici usjeva hibridnog kukuruza iz točke I. ove Naredbe, dužni su odmah prijaviti zasijane površine nadležnomu poljoprivrednom inspektoru ureda državne uprave u županiji, službe za gospodarstvo, odnosno gradskom uredu za poljoprivredu i šumarstvo Grada Zagreba, nadležnim za poslove poljoprivrede. Obrazac Prijave zasijanih površina sjemenom hibridnog kukuruza »PR34G13« koji sadrži GMO u prilogu je ove Naredbe i čini njezin sastavni dio. Uz Prijavu prijavitelj je dužan izvornikom računa ili deklaracije na ambalaži dokazati da je kupio i zasijao hibridni kukuruz iz točke I. ove Naredbe.
+Pri podnošenju Prijave fizičke i pravne osobe preuzet će obrazac Izvješća - Zapisnika o obavljenom uništavanju usjeva hibridnog kukuruza »PR34G13« koji sadrži GMO. Obrazac Izvješća - Zapisnika nalazi se u prilogu i sastavni je dio ove Naredbe.
+Fizičke i pravne osobe, vlasnici usjeva hibridnog kukuruza iz točke I. ove Naredbe dužni su odmah po prijavi, a najkasnije u roku od deset (10) dana od dana donošenja ove Naredbe uništiti usjev.
+Uništavanje usjeva obavlja se mehanički, na način da se usjev uništi košnjom, tarupiranjem ili tanjuranjem i drugim sličnim radnjama kojima se može uništiti nadzemna biljna masa, te biljni ostaci zaoru. Fizičke i pravne osobe iz stavka 1. ove točke, dužne su osigurati potrebnu mehanizaciju s kojom će obaviti uništavanje usjeva. Izvješće - Zapisnik iz stavka 3. ove točke fizičke i pravne osobe dužne su popuniti i bez odlaganja dostaviti nadležnom poljoprivrednom inspektoru.
+III.
+Nadzor nad uništavanjem usjeva iz točke I. ove Naredbe provest će poljoprivredni inspektor iz točke II. ove Naredbe, očevidom na temelju podnesene Prijave ili Izvješća - Zapisnika iz točke II. stavka 3. ove Naredbe, nakon čega će sastaviti Izvješće - Zapisnik u dva istovjetna primjerka.
+Poljoprivredni inspektori dužni su preslike svih Prijava i Izvješća - Zapisnika dostaviti Ministarstvu poljoprivrede, šumarstva i vodnoga gospodarstva, Upravi poljoprivrede, Odjelu inspekcijskih poslova odmah po provedenim nadzorima, a najkasnije do 16. kolovoza 2004. godine.
+IV.
+Ova Naredba stupa na snagu danom objave u »Narodnim novinama«.
