@@ -1,0 +1,1 @@
+Uredba o preuzimanju u posjed i korištenje odmarališta hotela i drugih hotelsko-turističkih objekata i pokretnina koje se u njima nalaze, na kojima pravo raspolaganja odnosno vlasništvo imaju ili ih d
