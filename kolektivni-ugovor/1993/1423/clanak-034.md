@@ -1,0 +1,2 @@
+# Članak 34.
+Odluka o privremenom prestanku potrebe za pojedinim radnikom donosi direktor Društva. Prije donošenja odluke iz stavka 1. ovog članka, kojom se radnika u smislu odredbe članka 33. raspoređuje na drugo radno mjesto ili u drugu organizaciju, upućuje na rad u inozemstvo uvodi rad sa skračenim radnim vremenom ili upučuje na čekanje, direktor Društva dužan je zatražiti i razmotriti mišljenje Sindikata.
