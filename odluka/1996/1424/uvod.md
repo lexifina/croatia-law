@@ -1,0 +1,1 @@
+Na temelju točke I. Odluke o osnivanju i imenovanju predsjednika i članova Komisije za stambeni i poslovni prostor Vlade Republike Hrvatske donesene na sjednici Vlade 14. prosinca 1995. godine - klasa: 022-03/95-01/03, urbroj: 5030102-5-6 Komisija za stambeni i poslovni prostor Vlade Republike Hrvatske na sjednici od 23. rujna 1996. godine donijela je
