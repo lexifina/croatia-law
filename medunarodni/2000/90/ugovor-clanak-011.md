@@ -1,0 +1,2 @@
+# Članak 11.
+Ugovorne stranke inspirirane tradicijom veza među svojim narodima u području kulture, obrazovanja i informiranja, proširivat će kulturnu razmjenu u svim područjima i na svim razinama na osnovi odgovarajućih dogovora i programa. Poticat će suradnju među kulturnim institucijama, umjetničkim udrugama, školskim ustanovama, izdavačkim kućama, arhivima, sredstvima javnog informiranja, kinematografima, kazalištima, kao i u području glazbe, umjetnosti i športa.
