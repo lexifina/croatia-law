@@ -1,0 +1,2 @@
+POPIS ODORA, ODJEĆE I OBUĆE S NAZNAKOM UPORABNOG ROKA
+Red. Naziv i vrsta Komada Uporabni rok u broj Par mjesecima 1. Kapa 124 2. Beretka 1 24 3. Sako, ljetni i zimski 1 24 4. Hlače, ljetne i zimske 1 24 5. Suknja, ljetna i zimska 1 24 6. Košulja, ljetna i zimska 3 24 7. Kravata 2 12 8. Vjetrovka 1 36 9. Pulover 1 24 10. Cipele, ljetne i zimske 1 24 11. Remen za hlače i suknju 1 24(ljetni) ljetni i zimski 36 zimski (kožni) 12. Kišni ogrtač 1 48 13. Rukavice 1 24 14. Radni kombinezon 1 12 Napomena: Dodatno jedne hlače, jedna suknja, jedne cipele kod prvog zaduženja.
