@@ -1,0 +1,5 @@
+# Članak 2.
+Članak 27. mijenja se i glasi:
+»Doktorima medicine specijalistima, istaknutim stručnjacima koji se bave određenom propisanom užom specijalnošću 10 godina, koji imaju znanstveno-nastavno zvanje profesora ili docenta i kontinuirano publicirane stručne i znanstvene radove iz uže specijalnosti kroz tih 10 godina te pozitivno mišljenje stručnog vijeća zdravstvene ustanove o njihovom radu može se priznati status specijalista iz uže specijalnosti.
+Iznimno od odredbe stavka 1. ovoga članka, status specijalista iz uže specijalnosti može se priznati doktorima medicine specijalistima, istaknutim stručnjacima koji se bave određenom propisanom užom specijalnošću 15 godina, koji imaju akademski stupanj doktora znanosti i kontinuirano publicirane stručne i znanstvene radove iz uže specijalnosti kroz tih 15 godina te pozitivno mišljenje stručnog vijeća zdravstvene ustanove o njihovom radu.
+Zahtjev za priznanje statusa užeg specijalista podnosi Ministarstvu zdravstva ravnatelj zdravstvene ustanove u kojoj je specijalist zaposlen uz predočenje pisanih dokaza iz stavka 1. i 2. ovoga članka.«
