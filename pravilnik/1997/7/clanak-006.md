@@ -1,0 +1,2 @@
+# Članak 6.
+Radi zaštite života, zdravlja ili razvoja, malodobnog redovitog učenika se ne može zaposliti na poslovima koji su prema propisima o zaštiti na radu utvrđeni kao poslovi s posebnim uvjetima rada, zatim na poslovima koji su prema propisima o mirovinsko-invalidskom osiguranju utvrđeni kao osobito teški i za zdravlje štetni te se na njima staž osiguranja računa s povećanim trajanjem te na poslovima koji se obavljaju u vremenu između 20 sati uvečer i 7 sati ujutro idućega dana i na poslovima iz članka 16. stavak 2. i 3. Zakona o radu.
