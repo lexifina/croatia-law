@@ -1,0 +1,1 @@
+Na osnovi članka 28. Zakona o zadrugama ("Službeni list SFRJ", br. 3/90) i članka 56, 57. i 58. Statuta Zadružnog saveza Zadar, Skupština Zadružnog saveza Zadar na sjednici od 18. travnja 1991. godine donijela je
