@@ -1,0 +1,1 @@
+Na temelju članka 13. i 67. stavka 1. točke 9) Zakona o Narodnoj banci Hrvatske ("Narodne novine", broj 74/92), Savjet Narodne banke Hrvatske, na sjednici održanoj 26. svibnja 1993. godine, donio je slijedeću NARODNA BANKA HRVATSKE
