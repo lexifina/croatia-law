@@ -1,0 +1,4 @@
+# Članak 79.
+Danom stupanja na snagu ovoga Zakona prestaje nadležnost radničkih savjeta ili po ovlastima njima odgovarajućih organa upravljanja pravnih osoba iz članka 78. stavka 1. ovoga Zakona.
+Do konstituiranja upravnog vijeća ili drugog kolegijalnog tijela ustanove sukladno odredbama ovoga Zakona, poslove ravnatelja i tijela upravljanja ustanovom nastavit će obavljati osoba koja obnaša poslovodnu dužnost u pravnoj osobi na dan stupanja na snagu ovoga Zakona.
+Vlada Republike Hrvatske i od nje ovlašteno ministarstvo mogu osobu iz stavka 2. ovoga članka razriješiti i na njenu dužrlost imenovati drugu osobu sve dok se ne izaberu odnosno imenuju novi organi ustanove u skladu s ovim Zakonom. To pravo imaju i predstavnička tijela jedinica lokalne samouprave, odnosno nadležni organi drugih pravnih osoba na koje su prenesena osnivačka prava.

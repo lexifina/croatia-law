@@ -1,0 +1,2 @@
+# Članak 66.
+Ako ustanova učestalo donosi opće akte suprotne Ustavu, zakonu ili drugom propisu, ili učestalo čini teže povrede zakona ili drugog propisa u obavljanju djelatnosti radi koje je osnovana ili ostvaruje dobit a ne postupi prema odredbama članka 57. stavka 2. i 3. ovoga Zakona, tijelo iz članka 64. ovoga Zakona obavijestit će o tome osnivača ustanove i istodobno će predložiti sudu kod kojeg je ustanova upisana u registar ustanova da donese presudu o ukidanju ustanove. Sud u tom slučaju postupa sukladno propisima o ukidanju trgovačkog društva.

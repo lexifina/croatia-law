@@ -1,0 +1,5 @@
+# Članak 80.
+Ako Vlada Republike Hrvatske ili ovlašteno ministarstvo ne prenesu osnivačka prava na jedinicu lokalne samouprave ili drugu pravnu osobu, Vlada Republike Hrvatske, odnosno ovlašteno ministarstvo imenovat će upravni odbor ustanove od tri člana, od kojih najmanje jedan mora biti iz redova zaposlenih u ustanovi.
+Predstavničko tijelo jedinice lokalne samouprave, odnosno naldežni organ druge pravne osobe na koju su, u skladu s odredbama ovoga Zakona, prenijeta osnivačka prava dužan je u roku mjesec dana od primitka rješenja o prijenosu, odnosno od sklapanja ugovora o tome, imenovati upravni odbor ustanove od tri člana, od kojih najmanje jedan mora biti iz redova zaposlenika ustanove.
+Upravni odbor iz stavka 1. i 2. ovoga članka dužan je u roku tri mjeseca od imenovanja donijeti statut i opće akte ustanove i započeti postupak za izbor, odnosno imenovanje članova organa ustanove u skladu sa zakonom i s tim aktima.
+Upravni odbor imenovan po odredbama ovoga članka ima prava i dužnosti upravnog vijeća, odnosno drugog kolegijalnog organa ustanove iz članka 35. ovoga Zakona.
