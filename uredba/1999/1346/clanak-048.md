@@ -1,0 +1,5 @@
+# Članak 48.
+Odjel za središnje evidencije i analize obavlja stručne poslove koji se odnose na: prikupljanje i evidentiranje podataka i provedbu analize stanja i potreba prognanika, povratnika i izbjeglica, osiguravanje podataka za potrebe odjela Ureda, osiguravanje podataka za potrebe obračuna novčanih prava prognanika, povratnika i izbjeglica, a koji se realiziraju u Odjelu za financijsko poslovanje Republičkog fonda "Kralj Zvonimir", utvrđivanje i predlaganje vrste i načina vođenja evidencije o prognanicima, povratnicima i izbjeglicama i njihovo zbrinjavanje i pomoć, izrađivanje i predlaganje potrebnih obrazaca i mjera za osiguranje jedinstvenog informacijskog i dokumentacijskog sustava u svezi zbrinjavanja i pomoći prognanicima, povratnicima i izbjeglicama, brigu o održavanju informatičke opreme, te obavlja i druge poslove koje odredi pomoćnik ministra.
+Za obavljanje poslova i zadaća Odjela za središnje evidencije i analize ustrojavaju se:
+1. Odsjek za središnje evidencije
+2. Odsjek za informatičku obradu podataka.

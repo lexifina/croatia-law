@@ -1,0 +1,5 @@
+# Članak 54.
+Odjel za financijsko poslovanje Republičkog fonda "Kralj Zvonimir" obavlja stručne poslove za potrebe Republičkog fonda "Kralj Zvonimir, te s tim u vezi knjigovodstveno prati osnovnu djelatnost Fonda, financijski i knjigovodstveno prati njegova izvanproračunska sredstva, izrađuje financijske planove i izvješća, utvrđuje mjerila za obračun troškova zbrinjavanja i pomoći prognanicima i izbjeglicama, daje stručne prijedloge za povećanje naknada prognanicima i izbjeglicama, obavlja upravne i stručne poslove za izradu obračuna analitičkih kontnih planova, kontira i kontrolira knjigovodstvenu dokumentaciju, obavlja gotovinska i bezgotovinska plaćanja svih obveza, operativno priprema podatke za izradu naloga radi isplate putem štednih knjižica, sudjeluje u provođenju nadzora svih korisnika iz djelokruga računovodstvenog poslovanja, te obavlja i druge poslove koje odredi pomoćnik ministra.
+Za obavljanje poslova i zadaća Odjela za financijsko poslovanje Republičkog fonda "Kralj Zvonimir" ustrojavaju se:
+1. Odsjek likvidature organiziranog smještaja
+2. Odsjek za isplatu novčane naknade.

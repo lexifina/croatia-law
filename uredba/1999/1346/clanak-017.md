@@ -1,0 +1,2 @@
+# Članak 17.
+Odjel za provedbu i praćenje nacionalnih razvojnih projekata obavlja stručne i administrativne poslove koji se odnose na organiziranje, operativno provođenje i financijsko praćenje realizacije nacionalnih razvojnih projekata koje neposredno organizira i izvodi Ministarstvo, poslove dokumentacijskog praćenja tijeka i provedbe projekata, te obavlja i druge poslove koje odredi pomoćnik ministra.

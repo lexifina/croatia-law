@@ -1,0 +1,2 @@
+# Članak 21.
+Odjel za bilateralnu i multilateralnu potporu obavlja stručne poslove prikupljanja i razmjene podataka o izvorima, institucijama, uvjetima bilateralne i multilateralne potpore programima i projektima razvitka i obnove, pruža stručnu pomoć i koordinira realizacijom programa i projekata, surađuje s tijelima državne uprave, institucijama i organizacijama, te obavlja i druge poslove koje odredi pomoćnik ministra.
