@@ -1,0 +1,2 @@
+# Članak 7.
+Ugovorne stranke međusobno će potpomagati nastojanja za širenjem znanja o svojoj kulturi u zemlji druge ugovorne stranke, i to: razmjenom posjeta kulturnih djelatnika, pisaca i umjetnika; razmjenom knjiga, časopisa i drugih publikacija; predavanjima; koncertima, umjetničkim i drugim izložbama; kazališnim i ostalim scenskim predstavama; uzajamnim prevođenjem književnih djela te razmjenama filmova, audio i video kazeta i drugih sredstava reprodukcije.

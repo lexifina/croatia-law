@@ -1,0 +1,2 @@
+# Članak 3.
+Svaka ugovorna stranka pružat će potporu zajedničkim aktivnostima, uključujući stayljanje na raspolaganje određenog dokumentacijskog materijala i osnivanje zajedničkih komisija za pravilno prikazivanje povijesti, zemljopisa i drnštveno-ekonomskog razvoja svoje zemlje u školskim udžbenicima, sveučilišnim programima, enciklopedijama i ostalim publikacijama objavljenim u zemlji druge ugovorne stranke. ;
