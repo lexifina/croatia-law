@@ -1,0 +1,10 @@
+# Us-9979/1995, Visoki upravni sud Republike Hrvatske, 9.5.1996.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=aabeb1e7-ee05-4cf9-8e8d-b441318f616e
+- Court: Visoki upravni sud Republike Hrvatske
+- Decision date: 1996-05-09
+- Publication date on source: 2004-11-08
+- Decision type: Odluka
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
