@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. Zakona o veterinarstvu (»Narodne novine«, br. 70/97. i 105/01.) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
