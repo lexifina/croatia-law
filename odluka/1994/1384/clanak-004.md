@@ -1,0 +1,2 @@
+# Članak 4.
+Izdavanje iskaznice zdravstveno osiguranoj osobi kojoj se tek utvrđuje status osigurane osobe u Zavodu, odnosno kod koje se mijenja status osigurane osobe, obavljat će Zavod na osnovi propisanih tiskanica iz članka 10. Pravilnika o načinu prijavljivanja i odjavljivanja osigurane osobe, te utvrđivanju statusa osigurane osobe iz obveznog zdravstvenog osiguranja (u daljnjem tekstu: Pravilnik o prijavi).

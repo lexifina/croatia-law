@@ -1,0 +1,2 @@
+# Članak 6.
+Danom uručenja iskaznice prestaje vrijediti Iskaznica korisnika zdravstvene zaštite propisana Odlukom o sadržaju, obliku i načinu izdavanja isprave kojom se dokazuje svojstvo korisnika zdravstvene zaštite ("Narodne novine" broj 53/80, 25/89, 26/90 i 55/90). Osigurana osoba dužna je prilikom uručenja Iskaznice, ovlaštenom djelatniku Zavoda, dati na poništenje iskaznicu korisniha zdravstvene zaštite.
