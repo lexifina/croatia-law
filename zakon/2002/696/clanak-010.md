@@ -1,0 +1,12 @@
+## Zaštita interesa i sigurnosti Republike Hrvatske
+# Članak 10.
+(1) Za vrijeme dok je Republika Hrvatska vlasnik 50% i više dionica INE d.d., INA d.d. odnosno njezina tijela mogu samo uz suglasnost Vlade Republike Hrvatske donositi odluke, odnosno sklopiti pravne poslove ili poduzeti pravne radnje koje se odnose na prodaju, odnosno zajedničko ulaganje čija vrijednost prelazi vrijednost 3% imovine INE d.d.
+(2) Za vrijeme dok je Republika Hrvatska vlasnik 25% i više dionica INE d.d., Vlada Republike Hrvatske može donijeti odluku da INA d.d. odnosno njezina tijela mogu samo uz suglasnost Vlade Republike Hrvatske donositi odluke, odnosno sklopiti pravne poslove ili poduzeti pravne radnje koje se odnose na prodaju, odnosno zajedničko ulaganje čija vrijednost prelazi vrijednost 25% imovine INE d.d.
+(3) Vlada Republike Hrvatske može sa strateškim ulagateljem sklopiti ugovor o načinu korištenja prava glasa iz dionica INE d.d. kojih je vlasnik Republika Hrvatska i načinu korištenja prava iz stavka 1. i 2. ovoga članka. Tim ugovorom se na treće osobe ne mogu prenijeti ovlaštenja Vlade Republike Hrvatske iz stavka 1. i 2. ovoga članka i pravo glasa iz dionica INE d.d. kojih je vlasnik Republika Hrvatska.
+(4) Za vrijeme dok je Republika Hrvatska vlasnik 10% i više dionica INE d.d., niti jedan drugi dioničar ili s njim povezana osoba ne može, osim u slučaju prodaje iz članka 6. ovoga Zakona, bez posebnog odobrenja Vlade Republike Hrvatske postupno ili odjednom steći dionice INE d.d. čiji ukupan nominalni iznos čini više od 10% temeljnog kapitala, odnosno nekog drugog prethodnim odobrenjem Vlade Republike Hrvatske odobrenog postotka dionica, a koje daju pravo glasa u glavnoj skupštini INE d.d.
+(5) Za čitavo vrijeme dok je Republika Hrvatska vlasnik jedne ili više dionice INE d.d. s pravom glasa u glavnoj skupštini, INA d.d., odnosno njezina tijela mogu samo uz suglasnost Vlade Republike Hrvatske donositi odluke, odnosno sklapati ili poduzimati pravne radnje u odnosu na:
+- prestanak društva,
+- odricanje od dozvole ili ovlaštenja za obavljanje djelatnosti, ili koncesije od interesa za Republiku Hrvatsku,
+- promjenu tvrtke,
+- premještanje sjedišta INE d.d. u inozemstvo.
+(6) U slučaju pokretanja postupka likvidacije nad INA d.d ili njezinim pravnim sljednikom, a za čitavo vrijeme dok je Republika Hrvatska vlasnik jedne ili više dionica INE d.d. s pravom glasa, Republika Hrvatska ima pravo prvokupa cjelokupne, odnosno dijela imovine INE d.d. po procijenjenoj tržišnoj vrijednosti.
