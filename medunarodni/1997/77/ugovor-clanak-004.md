@@ -1,0 +1,2 @@
+# Članak 4.
+Ugovorne stranke omogućit će makedonskim državljanima koji su započeli studij na Sveučilištima Republike Hrvatske zaključno sa šk. g. 1991/92. i koji su zadržali status redovnih studenata, bez prekida studija, da završe svoje školovanje do kraja šk. g. 1996/97., pod istim uvjetima kao i domaći studenti uz participaciju, sukladno obnavljanju već potpisanih protokola o statusu i načinu studiranja makedonskih državljana.
