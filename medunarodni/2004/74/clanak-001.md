@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Ugovor o trećoj izmjeni Ugovora o osnivanju i radu međunarodnog centra za razvoj migracijske politike (ICMPD), sastavljen u Rodosu (Helenska Republika) 25. lipnja 2003. u izvorniku na engleskom jeziku, koji je u ime Vlade Republike Hrvatske, u sjedištu Međunarodnog centra za razvoj migracijske politike (ICMPD) u Beču 26. ožujka 2004., potpisao Berislav Mance, načelnik Odjela za međunarodne odnose u Ministarstvu unutarnjih poslova.
