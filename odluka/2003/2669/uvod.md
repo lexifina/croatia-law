@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 80.b stavka 1. Zakona o socijalnoj skrbi (»Narodne novine«, br. 73/97, 27/2001, 59/2001, 82/2001 i 103/2003), Vlada Republike Hrvatske je na sjednici održanoj 13. studenoga 2003. godine donijela
