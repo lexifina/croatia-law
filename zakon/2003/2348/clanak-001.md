@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 127/00. i 150/02.) u članku 3. stavak 1. mijenja se i glasi:
+»(1) Osnovica poreza na dohodak tuzemnoga poreznog obveznika je ukupni iznos dohotka kojega porezni obveznik ostvari u tuzemstvu i u inozemstvu, uvećan za iznos vraćenog doprinosa iz osnovice za mirovinsko osiguranje na temelju generacijske solidarnosti koji je u prethodnom poreznom razdoblju obračunan i uplaćen iz iznosa koji prelazi iznos najviše godišnje osnovice (članak 77. Zakona o doprinosima za obvezna osiguranja), a umanjen za iznos plaća novozaposlenih i nagrada učenicima za vrijeme praktičnog rada i naukovanja (članak 43.), umanjen za preneseni gubitak (članak 28.) i umanjen za osobni odbitak (članak 29.).«

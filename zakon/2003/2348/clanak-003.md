@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 21. stavak 5. riječi: »otpisa opreme i poslovnih objekata nabavljenih u istom poreznom razdoblju.« zamjenjuju se riječima: »otpisa opreme, poslovnih objekata i nematerijalne imovine koja se koristi za istraživanje i razvoj, nabavljene u istom poreznom razdoblju.«
+U stavku 6. riječi: »a poslovnim objektima smatraju se građevinski objekti za poslovne djelatnosti.« zamjenjuju se riječima: »poslovnim objektima smatraju se građevinski objekti za poslovne djelatnosti, a nematerijalnom imovinom smatraju se patenti i licencije koje služe za obavljanje djelatnosti istraživanja i razvoja.«
