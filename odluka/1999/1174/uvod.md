@@ -1,0 +1,1 @@
+Na temelju članka 29. i 67. stavak 1. točka 16. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« br. 35/95. - pročišćeni tekst) te članka 40. stavak 2. točka 5c Zakona o bankama (»Narodne novine« br. 161/98) Savjet Hrvatske narodne banke na sjednici održanoj 16. lipnja 1999. godine donio je
