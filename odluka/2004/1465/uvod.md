@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00, 59/01) i članka 45. Statuta Općine Kamanje (»Službeni glasnik općine Kamanje« br. 1/04), Općinsko vijeće Općine Kamanje, na 3. sjednici održanoj 25. ožujka 2004. godine, donijelo je
