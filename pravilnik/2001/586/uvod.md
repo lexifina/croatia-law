@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 3., članka 55. stavka 2., članka 56. stavka 3. Zakona o sigurnosti u željezničkom prometu (»Narodne novine«, br. 77/92 i 26/93) ministar pomorstva, prometa i veza donosi
