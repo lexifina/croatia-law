@@ -1,0 +1,3 @@
+## o utvrĐivanju postotka oŠteĆenja organizma HRVI iz Domovinskog rata
+# Članak 1.
+Ovim se Pravilnikom propisuje način utvrđivanja postotka oštećenja organizma koje je nastalo kao posljedica rane, ozljede ili bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene pod okolnostima predviđenim Zakonom o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (u daljnjem tekstu: Zakon o pravima) i drugim uvjetima i kriterijima za utvrđivanje vojnog invaliditeta, te utvrđuju oštećenja organizma na osnovu kojih se može podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma prije isteka roka iz članka 118. stavak 1. Zakona o pravima.
