@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Postupanje s intelektualnim vlasništvom koje proizlazi iz suradnih aktivnosti temeljem ovog Ugovora regulirat će suradne organizacije provedbenim sporazumima, u kojima će se jamčiti odgovarajuća i učinkovita zaštita intelektualnog vlasništva. Suradne organizacije postaju zajednički vlasnici intelektualnog vlasništva koje proizlazi iz suradnje prema ovom Ugovoru.
+(2) Znanstvene i tehnološke informacije nevlasničke prirode koje proizlaze iz djelatnosti prema ovom Ugovoru posjedovat će obje strane. Takve informacije neće se odavati trećima bez prethodne suglasnosti suradnih organizacija, osim ako ne bude pismeno drugačije dogovoreno.
