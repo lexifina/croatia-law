@@ -1,0 +1,2 @@
+# Članak 9.
+U Zakonu o vodama ("Narodne novine", br. 53/90 i 9/91) u članku 10. stavak 1. mijenja se i glasi: "Poduzeće Hrvatska vodoprivreda" u vlasništvu je Republike Hrvatske". U članku 117. stavak 1. i 2. zamjenjuju se novim stavkom 1. koji glasi: "Vodoprivredna poduzeća u vlasništvu su osnivača". Stavak 3. postaje stavak 2. U članku 169. stavak 2, članku 172. stavak 3, članku 173. stavak 4, članku 175. stavak 3. i članku l76. stavak 4. brišu se.
