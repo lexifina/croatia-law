@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se postupak objavljivanja natječaja i odlučivanja o odabiru pravnih i fizičkih osoba kojima Fond za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond), u okviru zakonom propisane djelatnosti, odobrava financijska sredstva za provedbu programa, projekata i drugih aktivnosti u području zaštite okoliša i području energetske učinkovitosti (u daljnjem tekstu: korisnici sredstava).
