@@ -1,0 +1,1 @@
+Na temelju članka 53. Zakona o državnim maticama (»Narodne novine«, broj 96/93), a sukladno članku 1. stavku 4. Zakona o matičnom broju (»Narodne novine«, broj 9/92 i 66/02), ministrica pravosuđa, uprave i lokalne samouprave donosi
