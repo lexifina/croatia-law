@@ -1,0 +1,1 @@
+Odluka o prestanku važenja Odluke o privremenim valorizacijskim koeficijentima za preračunavanje osnovica osiguranja odnosno osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja odno
