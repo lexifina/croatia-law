@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja graniČnog prijelaza za pograniČni promet Banfi
+# Članak 1.
+Područje graničnog prijelaza za pogranični promet Banfi nalazi se na županijskoj cesti broj 2001. Dužina graničnog prijelaza iznosi 200 metara i proteže se od državne granice s Republikom Slovenijom južno 166 metara do mjesta obavljanja granične kontrole i od mjesta obavljanja granične kontrole u dubinu teritorija Republike Hrvatske 34 metra. Širina graničnog prijelaza iznosi 40 metara i obuhvaća prostor gledajući prema unutrašnjosti Republike Hrvatske, odnosno cestovnu bankinu s lijeve, zapadne strane ceste u širini jedan metar, cestu širine 7 metara i područje s desne, zapadne strane ceste u širini 32 metra. Navedeno područje obuhvaća k.č. 2328/1, 2328/4, 2328/5 i 2328/6 k.o. Štrigova.
+Područje graničnog prijelaza obuhvaća jednu ulaznu i jednu izlaznu prometnu traku, 2 kontejnera koje koriste službenici policije i carine, te prostor za parkiranje i zaustavljanje s lijeve strane prije i poslije kontejnera gledano u pravcu granične crte.
+Ukupna površina područja graničnog prijelaza iznosi 3 301 m2.
