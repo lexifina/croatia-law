@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jurica Malčić, dopredsjednik Suda te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, odlučujući o prijedlogu Pave Deanovića, na sjednici održanoj dana 20. svibnja 1998. godine, donio je sljedeće
