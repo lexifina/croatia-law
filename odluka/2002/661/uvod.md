@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 5. Zakona o rudarstvu (»Narodne novine«, br. 35/95 i 114/2001) i članka 20. stavka 1. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 44/96, 57/96, 124/97 i 73/2000), Vlada Republike Hrvatske je na sjednici održanoj 21. ožujka 2002. godine donijela
