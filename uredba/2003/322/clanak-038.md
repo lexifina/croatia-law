@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Administrativno-tehničko osoblje s hrvatskim državljanstvom i državljanstvom države primateljice, te administrativno--tehničko osoblje s državljanstvom države primateljice, odnosno državljanstvom neke treće države s dozvolom boravka i rada u državi primateljici, koji je raspoređeno na radno mjesto administrativno-tehničkog osoblja u skladu s Pravilnikom o unutarnjem redu službe vanjskih poslova, ima pravo na ugovorenu plaću sukladno propisima države primateljice.
+(2) Ugovorna plaća ne može biti veća od plaće utvrđene ovom Uredbom za administrativno-tehničko osoblje koje se upućuje u predstavništvo u inozemstvu iz Ministarstva vanjskih poslova.
+(3) Administrativno-tehničko osoblje iz stavka 1. ovog članka nema pravo na dodatke na plaću, a ima pravo samo na naknade iz članaka 17. i 18. ove Uredbe.

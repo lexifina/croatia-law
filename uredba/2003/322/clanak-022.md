@@ -1,0 +1,5 @@
+# Članak 22.
+(1) U slučaju kada diplomat koristi namješteni stan koji se nalazi u prostoru predstavništva ili u stanu koji je vlasništvo Republike Hrvatske dužan je participirati u troškovima stanovanja prema prosječnoj cijeni najma stana u sjedištu predstavništva sukladno kriterijima sadržanim u članku 21. ove Uredbe.
+(2) Diplomat koji koristi stan iz stavka 1. ovog članka snosi sve eventualne troškove koji bi mogli proizići iz nesavjesnog korištenja stana.
+(3) Ukoliko zbog potrebe zaštite objekta u kojem se nalazi predstavništvo djelatnik sigurnosti koristi stambeni prostor u samom objektu koji ne udovoljava njegovim potrebama stanovanja u smislu članka 21. ove Uredbe, tajnik Ministarstva takvog djelatnika oslobodit će participacije troškova stanovanja ili je primjereno prilagoditi svakom pojedinačnom slučaju. Oslobađanje od participacije u troškovima stanovanja ne oslobađa djelatnika sigurnosti od odgovornosti za eventualne troškove koji bi mogli proizići iz nesavjesnog korištenja stana.
+(4) O korištenju stana iz stavka 1. i 3. ovog članka korisnik sklapa ugovor s Ministarstvom vanjskih poslova.

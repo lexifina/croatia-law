@@ -1,0 +1,1 @@
+Na temelju članka 50. stavak 1. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/96), na prijedlog ministra vanjskih poslova, Vlada Republike Hrvatske je na sjednici održanoj 6. veljače 2003. godine, donijela

@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Diplomat gubi pravo iz članka 7. ove Uredbe u slučaju kada bračni drug iz neopravdanih razloga ne boravi kontinuirano u državi primateljici duže od šezdeset dana počevši od dana napuštanja države primateljice.
+(2) Diplomat je dužan izvijestiti šefa predstavništva o datumu odlaska bračnog druga iz države primateljice. Ne postupanje sukladno odredbi stavka 1. ovog članka predstavlja razlog za donošenje odluke o prijevremenom povlačenju diplomate iz predstavništva u inozemstvu. Odluka o povlačenju iz predstavništva u inozemstvu, ne isključuje odgovornost diplomate za težu povredu službene dužnosti.
+(3) Ukoliko bračni drug prigodno ne sudjeluje u diplomatskim aktivnostima ili ako se zaposli u državi primateljici, dodatak se obustavlja. Odgovarajuću odluku donosi tajnik Ministarstva na prijedlog šefa predstavništva.

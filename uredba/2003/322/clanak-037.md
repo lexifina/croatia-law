@@ -1,0 +1,2 @@
+# Članak 37.
+Kada se državni službenici i namještenici u Ministarstvu vanjskih poslova upućuju na rad u predstavništvo u inozemstvu na radna mjesta administrativno-tehničkog osoblja na njih se u odgovarajućem smislu primjenjuju odredbe članaka 2., 3., 5. i 6. stavka 1. točaka 2. i 3., članaka 9., 10., 11., 12., 13., 16., 17., 18., 19., 20., 21., 22., 24., 26., 27., 28., 29., 32., 35., 36. i 37. ove Uredbe.

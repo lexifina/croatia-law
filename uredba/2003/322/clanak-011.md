@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Diplomat ima pravo dijete koje s njim boravi u državi primateljici školovati u osnovnim i srednjim školama koje udovoljavaju sigurnosnim uvjetima, te koje omogućavaju nesmetan nastavak obrazovanja u Republici Hrvatskoj, a prema popisu škola koje utvrđuje Ministarstvo vanjskih poslova.
+(2) U slučaju kada u državi primateljici nema javne osnovne i srednje škole sukladno stavku 1. ovog članka, diplomat ima pravo dijete upisati u privatnu školu koja udovoljava tom uvjetu.
+(3) U slučaju kada je diplomat premješten na rad u predstavništvo u drugoj državi primateljici dijete koje s njim boravi u inozemstvu ima pravo upisati u školu u kojoj se omogućava nesmetan nastavak školovanja sukladno stavku 1. ovog članka na jeziku na kojem nastavu pohađao u prethodnoj državi primateljici.
+(4) U slučaju da diplomat, u smislu stavka 2. i 3. ovog članka, upiše dijete u privatnu školu ima pravo na dodatak za školovanje djeteta u iznosu od 90% od stvarne cijene upisnine i školarine.
+(5) Suglasnost za upis u privatnu osnovnu i srednju školu, te pravo na dodatak za školovanje, na temelju pisanog zahtjeva diplomate s priloženom potrebnom dokumentacijom, daje tajnik Ministarstva posebnom odlukom, imajući pri tome u vidu visinu upisnine i školarine, nastavni program, te ostale bitne činjenice za donošenje ove odluke.
