@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 3. Zakona o radnim odnosima ("Narodne novine", br. 19/90) i članka 44. stavka 2. Zakona o upravi ("Narodne novine", br.16/78, 50/79, 29/85, 48/85 i 41/90) ministar rada i socijalne skrbi donosi
