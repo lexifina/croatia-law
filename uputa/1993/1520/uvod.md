@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o statitističkim istraživanjima ("Narodne novine", broj 19/74) i Odluke o utvrđivanju Programa statističkih istraživanja Republike Hrvatske za 1993. godinu ("Narodne novine", broj 29/93), glavni direktor Zavoda za platni promet donosi
