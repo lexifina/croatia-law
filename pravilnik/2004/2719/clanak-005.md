@@ -1,0 +1,2 @@
+# Članak 5.
+Najbolja mjeriteljska sposobnost etalona iz članka 4. ovoga pravilnika za svaku mjerenu veličinu, i za postupkom ovjeravanja određeno područje, određena procjenom iznosa doprinosa pojedinih sastavnica mjernih nesigurnosti, mora biti najmanje 3 puta manja od dopuštene pogreške mjerenja te mjerene veličine ovjeravanog mjerila, a za etalonski uređaj za ispitivanje laserskih mjerila brzine, za brzine veće od 50 km/h i pri udaljenostima većim od 100 m, najveće odstupanje mjerenja vremena ne smije biti veće od ± 1,5 %.
