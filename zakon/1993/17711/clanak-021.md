@@ -1,0 +1,3 @@
+# Članak 21.
+Narodna banka Hrvatske kupuje i prodaje devize na deviznom tržištu, osim kupnje i prodaje deviza prema članku 20. ovoga Zakona, po tečajevima utvrđenim na deviznoj burzi.
+Ako devizna burza nije osnovana, Narodna banka Hrvatske svakodnevno, na temelju ostvarenih kupovnih i prodajnih tečajeva u bankama ovlaštenim za poslove s inozemstvom, utvrđuje i objavljuje tečajeve po kojima kupuje i prodaje devize, osim kupnje i prodaje prema članku 20. ovoga Zakona, i srednje tečajeve koji se obvezno primjenjuju za utvrđivanje potraživanja i obveza u devizama, za obračun carine i drugih uvoznih pristojbi i za izvršenje sudskih presuda.
