@@ -1,0 +1,2 @@
+# Članak 15.
+Vlada ima pravo da, na prijedlog ministra, u cijelosti ili djelomično obustavi od izvršenja propis ili drugi opći akt skupštine gradske zajednice općina odnosno skupštine općina i njihovih izvršnih vijeća i organa državne uprave za koji smatra da nije u skladu s Ustavom ili zakonom. U slučaju iz stava 1. ovoga članka Vlada je dužna bez odlaganja, a najkasnije u roku od osam dana podnijeti zahtjev Ustavnom sudu Hrvatske za ocjenu ustanovnosti odnosno zakonitosti tog akta.

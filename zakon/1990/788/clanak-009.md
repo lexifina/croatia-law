@@ -1,0 +1,3 @@
+## III. PRAVA I DUŽNOSTI PREDSJEDNIKA I ČLANOVA VLADE
+# Članak 9.
+Predsjednik Vlade rukovodi radom Vlade i odgovoran je za njen rad, osigurava jedinstvo političkog i upravnog djelokruga Vlade, ostvaruje s drugim organima Republike i drugim organima i organizacijama te usmjerava djelovanje Vlade kao cjeline i članova Vlade pojedinačno. Predsjednik Vlade potpisuje akte Vlade. Predsjednika Vlade u slučaju odsutnosti ili spriječenosti zamjenjuje jedan od potpredsjednika Vlade u skladu s rasporedom kojeg određuje uži Kabinet Vlade. U sklopu svojih ovlaštenja predsjednik Vlade može pojedina svoja ovlaštenja prenijeti na potpredsjednika Vlade u obavljanju stanovitih poslova.

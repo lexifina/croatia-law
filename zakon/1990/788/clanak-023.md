@@ -1,0 +1,3 @@
+## VI. AKTI VLADE
+# Članak 23.
+Vlada u ostvarivanju svojih Ustavom i zakonom utvrđenih ovlasti donosi uredbe, odluke, rješenja i zaključke. Uredbom se pobliže uređuju odnosi uređeni zakonom, osnivaju stručne službe Vlade i unutrašnje ustrojstvo državne uprave. Odlukom se uređuju pojedina pitanja ili propisuju mjere Vlade, daje suglasnost ili potvrđuju akti drugih organa ili organizacija te odlučuje o drugim pitanjima o kojima se ne odlučuje uredbom. Rješenjem se odlučuje o imenovanjima i razrješenjima, te o drugim pojedinačnim pitanjima iz nadležnosti Vlade. Zaključkom se utvrđuju stavovi po pitanjima od značenja za provedbu utvrđene politike, uređuju unutrašnji odnosi u Vladi te određuju zadaci republičkim organima državne uprave i stručnim službama Vlade.

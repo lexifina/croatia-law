@@ -1,0 +1,2 @@
+# Članak 24.
+Vlada donosi propise za izvršavanje saveznih zakona i drugih saveznih propisa i akata kad je tim propisima utvrđena nadležnost republičkih organa, a republičkim zakonom nije određena nadležnost drugog republičkog organa. Kada je saveznim zakonom određeno da neki akt donosi ili neku radnju poduzima nadležni organ u Republici odnosno nadležni republički organ, nadležni organ je Vlada, ako zakonom kao nadležni organ nije određen drugi republički organ.
