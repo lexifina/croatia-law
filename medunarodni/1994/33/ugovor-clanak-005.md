@@ -1,0 +1,2 @@
+# Članak 5.
+Ugovorne stranke se obvezuju da će osigurati prikladnu zaštitu i realizaciju komercijalnih, industrijskih i intelektualnih vlasništva u skladu sa njihovim internim zakonodavstvom i njihovim međunarodnim ugovorima. Stoga će one poticati adekvatne ugovorne odnose između svojih gospodarskih sudionika kako bi zaštitile komercijalno, industrijsko i intelektualno vlasništvo. Takoder, one će olakšati kooperaciju i razmjenu mišljenja među kompetentnim organizacijama i institucijama na području komercijalnog, industrijskog i intelektualnog vlasništva.
