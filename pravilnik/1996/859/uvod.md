@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 5. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine" broj 52/91, 64/91, 26/93 i 29/94) i članka 17. Zakona o sustavu državne uprave ("Narodne novine" broj 75/93), Ministar poljoprivrede i šumarstva donosi
