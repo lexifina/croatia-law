@@ -1,0 +1,5 @@
+## VIII. DOSTAVLJANJE IZVJEŠĆA I DRUGE OBVEZE
+## 1. DOSTAVLJANJE PODATAKA OD POREZNIH OBVEZNIKA
+# Članak 44.
+(1) Porezni obveznici koji počinju obavljati samostalnu djelatnost iz članka 15. stavka 1., 2. i 3. ovoga Zakona (osim djelatnosti koja se oporezuje u skladu sa člankom 32. ovoga Zakona), porezni obveznici koji počinju davati u najam i zakup pokretnine, stvari i nekretnine (osim iznajmljivanja stanova, soba i postelja putnicima i turistima za koje je plaćena boravišna pristojba i dohotka koji se oporezuje u skladu sa člankom 37. stavkom 5. ovoga Zakona) i porezni obveznici koji počinju ostvarivati dohodak neposredno iz inozemstva dužni su Poreznoj upravi prijaviti početak obavljanja djelatnosti, iznajmljivanja i ostvarivanja dohotka, u roku od 8 dana od dana početka obavljanja djelatnosti, odnosno od dana početka ostvarivanja dohotka.
+(2) U roku iz stavka 1. ovoga članka porezni obveznici koji počinju obavljati samostalnu djelatnost iz članka 15. stavka 1., 2. i 3. ovoga Zakona, dužni su nadležnoj ispostavi Porezne uprave prema svome prebivalištu ili uobičajenom boravištu dati podatke o osobi koja im vodi poslovne knjige.

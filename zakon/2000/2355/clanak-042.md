@@ -1,0 +1,7 @@
+## 3. OSLOBOĐENJA I OLAKŠICE FIZIČKIM OSOBAMA KOJE OBAVLJAJU UMJETNIČKU I KULTURNU DJELATNOST
+# Članak 42.
+(1) Poslovnim primicima obveznika poreza na dohodak koji obavljaju samostalnu umjetničku i kulturnu djelatnost prema članku 15. stavku 2. točki 2. ovoga Zakona ne smatraju se iznosi primljenih darovanja u dobrima do vrijednosti 20.000,00 kuna godišnje, pod uvjetom da o primljenim darovanjima posjeduju uredne i vjerodostojne isprave (ugovor o darovanju, nalog za prijenos, potvrdu o primitku stvari, prava i usluga i drugo).
+(2) Fizičkim osobama koje obavljaju umjetničku i kulturnu djelatnost prema članku 15. stavku 2. točki 2. i članku 15. stavku 4. točki 3. ovoga Zakona, priznaje se neoporezivi iznos u visini 25% od ostvarenih poslovnih primitaka od autorskog honorara za umjetničko i kulturno djelo.
+(3) Neoporezivi iznos iz stavka 2. ovoga članka utvrđuje se prije umanjivanja primitaka za izdatke prema članku 18. stavku 7. do 9., odnosno prema članku 18. stavku 12. ovoga Zakona.
+(4) Neoporezivi iznosi iz stavka 2. ovoga članka priznaju se uz potvrdu ovlaštene strukovne umjetničke udruge ili ovlaštene agencije da se radi o umjetničkom djelu odnosno o osobi koja obavlja umjetničku i kulturnu djelatnost.
+(5) Popis ovlaštenih strukovnih umjetničkih udruga ili ovlaštenih agencija daje Ministarstvo kulture do kraja svake godine za tu godinu i dostavlja ga Središnjem uredu Porezne uprave.

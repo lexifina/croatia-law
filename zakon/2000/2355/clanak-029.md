@@ -1,0 +1,13 @@
+## V. OSOBNI ODBITAK
+# Članak 29.
+(1) Tuzemni porezni obveznici mogu od ukupnog iznosa ostvarenog dohotka prema članku 3. stavku 1. ovog Zakona za svaki mjesec razdoblja za koje se utvrđuje porez odbiti osnovni osobni odbitak u visini od 1.250,00 kuna. Tuzemnim poreznim obveznicima se kod ostvarene mirovine priznaje osobni odbitak u visini mirovine ostvarene u poreznom razdoblju, a najviše do 2.500,00 kuna mjesečno.
+(2) Tuzemni porezni obveznici mogu odbiti i sljedeće osobne odbitke:
+1. 0,5 osnovnoga osobnog odbitka za uzdržavanoga bračnog druga i druge uzdržavane članove uže obitelji i prvo dijete,
+2. 0,7 osnovnoga osobnog odbitka za drugo dijete, 1,00 za treće dijete, 1,4 za četvrto dijete, 1,9 za peto dijete, a za svako daljnje dijete faktor osnovnoga osobnog odbitka progresivno se povećava, i to za 0,6, 0,7, 0,8, 0,9, 1,0… više u odnosu prema faktoru osnovnoga osobnog odbitka za prethodno dijete,
+3. 0,3 osnovnoga osobnog odbitka za uzdržavanog člana uže obitelji, djecu i poreznog obveznika ako su osobe s invaliditetom.
+(3) Fizičke osobe čiji dohodak ili čiji drugi primici koji se u smislu ovoga Zakona ne smatraju dohotkom prelaze osobni odbitak iz stavka 2. ovoga članka ne smatraju se uzdržavanima. Ako više osoba uzdržava člana ili članove uže obitelji i djecu, osobni odbitak za te osobe ravnomjerno se raspoređuje na sve koji te članove uzdržavaju, osim ako se ne sporazume drukčije.
+(4) Osobni se odbici iz stavka 1. i 2. ovoga članka zbrajaju. Djecom u smislu stavka 2. točke 1. i 2. ovoga članka smatraju se djeca koju roditelji, staratelji, usvojitelji, poočimi i pomajke uzdržavaju.
+(5) Drugim uzdržavanim članovima uže obitelji u smislu stavka 2. točke 1. ovoga članka smatraju se roditelji poreznog obveznika i roditelji njegovog bračnog druga te preci i potomci u izravnoj liniji, a i bivši bračni drugovi za koje porezni obveznik plaća alimentaciju.
+(6) Porezni obveznik može koristiti osobne odbitke iz stavka 1. i 2. ovoga članka u razdoblju za koje postoji porezna obveza i u kojem se osoba uzdržava. Razdoblje se zaokružuje u korist poreznog obveznika na pune mjesece.
+(7) Tuzemnim poreznim obveznicima osobni odbitak uvećava se i za iznose plaćene za zdravstveno osiguranje ako porezni obveznik nije drukčije osiguran, do visine propisanoga obveznog doprinosa za zdravstveno osiguranje koji plaćaju poslodavac i posloprimac.
+(8) Inozemni porezni obveznici mogu u poreznom razdoblju odbiti osobni odbitak u visini osnovnoga osobnog odbitka iz stavka 1. ovoga članka i plaćene doprinose za zdravstveno osiguranje u tuzemstvu do visine zakonom propisanih doprinosa za posloprimca i poslodavca.

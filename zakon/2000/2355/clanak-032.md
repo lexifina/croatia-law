@@ -1,0 +1,6 @@
+## 3. UTVRĐIVANJE PAUŠALNOG POREZA
+# Članak 32.
+(1) Poreznom obvezniku koji obavlja djelatnost iz članka 15. stavka 1. i 2. ovoga Zakona, a nije obveznik poreza na dodanu vrijednost prema Zakonu o porezu na dodanu vrijednost, porez na dohodak može se utvrđivati i u paušalnom iznosu. Samostalne djelatnosti koje će se paušalno oporezivati i visinu paušalnog dohotka ovisno o području na kojem se ta djelatnost obavlja, utvrđuje ministar financija na prijedlog nadležnih strukovnih komora.
+(2) Godišnji porez u paušalnom iznosu utvrđuje Porezna uprava rješenjem. Rješenjem utvrđeni godišnji porezni obveznici plaćaju mjesečno, do kraja svakog mjeseca za tekući mjesec, u visini 1/12 godišnjeg poreza.
+(3) Porezna uprava može na temelju obavljenog nadzora i prikupljenih podataka o ostvarenom prometu, ukinuti rješenje iz stavka 2. ovoga članka i donijeti rješenje o plaćanju predujma poreza u skladu s člankom 35. stavak 1. ovoga Zakona, ako utvrdi da je porezni obveznik ostvario dohodak iznad iznosa koji primjenom propisane porezne stope premašuje utvrđeni paušalni iznos poreza.
+(4) U slučaju iz stavka 3. ovoga članka porezni obveznik je obvezan prijeći na utvrđivanje dohotka od samostalne djelatnosti na način propisan odredbama članaka 18. do 22. ovoga Zakona.
