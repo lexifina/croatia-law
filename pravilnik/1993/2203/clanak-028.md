@@ -1,0 +1,2 @@
+# Članak 28.
+U slučaju kada uslugu obavlja više poreznih obveznika, uključujući i nositelja posla, porezni obveznik iz čl. 25. Zakona je svaki sudionik pojedinačno za svoj dio usluge, uključujući i nositelja posla, bez obzira tko fakturira konačnu uslugu. Pri tome je svaki porezni obveznik obvezan uz svoju fakturu sastaviti obračun obavljenog posla, odnosno obavljene usluge radi osiguranja podataka o poreznim osnovicama iz članka 26. Zakona.

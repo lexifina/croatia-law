@@ -1,0 +1,7 @@
+## 2. PROMET PROIZVODA KOJI NE SLUŽE KRAJNJOJ POTROŠNJI
+## Promet proizvoda radi daljnje prodaje
+# Članak 10.
+(1) Prometom proizvoda koji ne služe krajnjoj potrošnji, smatra se prodaja svih proizvoda osim prodaje alkoholnih pića, osvježavajućih gaziranih i umjetnih bezalkoholnih pića, mineralnih i gaziranih voda i kave, pravnoj osobi koja te proizvode nabavlja radi daljnje prodaje, na način i uz uvjete što su propisani člankom 9. Zakona.
+(2) Ako trgovačke organizacije ovlaštene za vanjskotrgovački promet nabavljaju od proizvođača alkoholna pića, osvježavajuća gazirana i umjetna bezalkoholna pića, mineralne i gazirane vode i kavu, za koje su porezni obveznici poreza na promet proizvoda proizvodači, trgovačke organizacije moraju proizvodačima dati izjavu da te proizvode nabavljaju u svrhu daljnje prodaje u inozemstvu, pa u tom slučaju proizvođač kao porezni obveznik ne obračunava porez na promet, u čemu se na fakturu stavlja posebna kaluzula s pozivom na izjavu kupca.
+(3) Trgovačke organizacije su obvezne proizvode iz prethodnog stavka izvesti u roku od 30 dana od dana preuzimanja robe od proizvođača. Kopije izvoznih carinskih deklaracija trgovačke organizacije su dužne dostaviti proizvođaču do 15. u mjesecu za protekli mjesec.
+(4) U slučaju da trgovačke organizacije ne dostave dokaz da su proizvode iz stavka (2) ovog članka izvezle u roku 30 dana od dana preuzimanja od proizvođača, proizvođač je dužan obračunati i uplatiti propisani porez na promet

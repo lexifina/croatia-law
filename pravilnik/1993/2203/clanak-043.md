@@ -1,0 +1,6 @@
+# Članak 43.
+(1)Porezni obveznik konačno obračunava porez na proteklu godinu i na temelju podataka o vrijednosti prodanih i naplaćenih proizvoda i vrijednosti obavljenih i naplaćenih usluga sa stanjem na dan 31. prosinca godine za koju sce obračun sastavlja. Naplaćenim prodanim proizvodima odnosno naplaćenim naknadama za obavljene usluge smatraju se naplaćeni prodani proizvodi i naplaćene naknade za obavljene usluge sukladno članku 32. Zakona i članku 41. ovog Pravilnika.
+(2) Konačni obračun poreza na promet podnosi se na obrascu PP-MI kao kumulativ za razdoblje od 01. siječnja do 31. prosinca izvještajne godine i podnosi se nadležnoj ispostavi Porezne uprave do konca veljače tekuće godine za proteklu godinu.
+(3) Porezni obveznik iz članka 5. stavak 2. Zakona podnosi konačni obračun poreza na promet nadležnoj ispostavi Porezne uprave do 31. siječnja tekuće godine za proteklu godinu.
+(4) Porezni obveznik koji porez plaća preko računa dijela pravne osobe odnosno preko akreditiva podnosi konačni obračun poreza nadležnoj ispostavi Porezne uprave.
+(5) Porezni obveznik koji porez na promet plaća preko svojih jedinica (dijelova) sastavlja i zbrojni konačni obračun poreza na promet za pravnu osobu kao cjelinu.

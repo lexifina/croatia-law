@@ -1,0 +1,2 @@
+# Članak 52.
+Ako se iz maloprodajnog mjesta, zaduženog po maloprodajnim cijenama s uključenim porezom na promet, obavi promet na način i uz uvjete iz članka 9. Zakona, takav promet se ne smatra prometom na malo i ne obračunava se porez na promet usluga tarifnog broja 1. Tarife poreza na promet usluga, nego se u smislu obračuna porez na promet usluga smatra prometom na veliko za koji se obračunava porez na promet na ostvarenu razliku u cijeni po stopi iz tarifnog broja 3. iste Tarife.
