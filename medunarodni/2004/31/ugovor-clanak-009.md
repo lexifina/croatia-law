@@ -1,0 +1,3 @@
+# Članak 9.
+U cilju realizacije ovog Memoranduma o razumijevanju nacionalne turističke organizacije obiju država, putem bilateralnih konzultacija i davanjem preporuka svojim nadležnim tijelima, predložit će zajednički odbor ili radnu skupinu, koji će se povremeno sastajati, a sačinjavat će ga jednaki broj ovlaštenih predstavnika iz svake države. Stranke na sudjelovanje mogu pozivati i druge predstavnike iz državnog i privatnog turističkog sektora. Odbor ili radna skupina održavat će sastanke naizmjenično u državama stranaka u vrijeme koje će stranke dogovoriti.
+Svakom sastanku predsjedavat će voditelj delegacije države u kojoj se sastanak održava.

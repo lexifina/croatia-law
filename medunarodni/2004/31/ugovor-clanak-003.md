@@ -1,0 +1,2 @@
+# Članak 3.
+Stranke će, u skladu s važećim propisima i međunarodnim obvezama, razmjenjivati informacije, statističke podatke, reklamne i promotivne materijale. Također će poticati sudjelovanje druge stranke na međunarodnim izložbama i sajmovima, koji će se organizirati na njihovom teritoriju, a u okvirima suradnje s međunarodnim turističkim organizacijama čiji su članovi; pomoći će delegacijama druge stranke u sudjelovanju na međunarodnim seminarima i konferencijama s područja turizma koje se održavaju u njihovim državama.

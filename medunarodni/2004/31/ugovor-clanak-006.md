@@ -1,0 +1,2 @@
+# Članak 6.
+Stranke će razmjenjivati informacije i dokumente iz područja stručnog usavršavanja zaposlenih u turističkom sektoru, stvorit će potrebne uvjete i uzeti u obzir sve mogućnosti suradnje na tom području, uključujući i profesionalno usavršavanje i razmjenu studenata, predavača i stručnjaka koji dolaze iz obrazovnih institucija iz područja turizma, te organiziranje seminara za turističke čelnike i profesionalce.
