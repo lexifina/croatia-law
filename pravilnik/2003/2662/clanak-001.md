@@ -1,0 +1,4 @@
+# Članak 1.
+Ovim Pravilnikom određuju se uvjeti pod kojima posjednik životinje ima pravo odabrati ovlaštenu veterinarsku organizaciju (u daljnjem tekstu: organizacija) za obavljanje poslova iz članka 85. stavka 3. Zakona o veterinarstvu, i to u odnosu na sve životinje unutar jednoga gospodarskog dvorišta ili farme.
+Pravo iz stavka 1. ovog Pravilnika ne odnosi se na veterinarsko-zdravstvene preglede i kontrole u objektima za klanje životinja, veterinarsko-zdravstvene preglede i kontrole pošiljaka životinja i proizvoda životinjskog podrijetla u prometu, te na provedbu karantenskih mjera kod uvezenih životinja.
+Poslove iz stavka 2. ovog članka obavljaju organizacije određene rješenjem Ministarstva poljoprivrede i šumarstva, u skladu sa sklopljenim ugovorom o povjeravanju poslova javnih ovlasti na epizootiološkoj jedinici unutar epizootiološkog područja.
