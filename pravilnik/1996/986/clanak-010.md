@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Pravne i fizičke osobe iz članka 2. stavka 1. ovoga Pravilnika dužne su odmah po stavljanju prigovora dati prvu kopiju prigovora iz knjige žalbe osobi koja je stavila prigovor, a drugu kopiju dostaviti turističkoj inspekciji nadležnog ureda u roku od tri dana od dana stavljanja prigovora.
+(2) Pravne i fizičke osobe iz članka 2. stavka 1. ovoga Pravilnika dužne su odgovoriti na stavljeni prigovor u roku od 15 dana od dana unošenja prigovora u knjigu žalbe, a kopiju odgovora istovremeno dostaviti turističkoj inspekciji nadležnog ureda.
+(3) Ako se u roku iz stavka 2. ovoga članka ne odgovori na stavljeni prigovor, mora se najkasnije u roku od pet dana od dana istjeka toga roka o tome izvijestiti turističku inspekciju nadležnog ureda s obrazloženjem zbog čega nije u roku odgovoreno.

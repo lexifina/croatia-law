@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. Zakona o ugostiteljskoj djelatnosti ("Narodne novine", broj 48/95.) i članka 4. stavka 3. Zakona o turističkoj djelatnosti ("Narodne novine", broj 8/96.), ministar turizma, donosi
