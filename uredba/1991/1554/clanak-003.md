@@ -1,0 +1,2 @@
+# Članak 3.
+Odredba stavka 1. članka 11. Zakona primjenjuje se na vojnike koji su na odsluženje redovnog vojnog roka upućeni od strane legalnih organa Republike Hrvatske, osim ako im je organizam oštećen neposrednim sudjelovanjem u oružanim akcijama protiv obrambenih snaga republike Hrvatske. Odredba stavka 2. članka 11. Zakona ne primjenjuje se na aktivne vojne osobe Jugoslavenske narodne armije.
