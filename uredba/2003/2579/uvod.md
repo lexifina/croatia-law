@@ -1,0 +1,1 @@
+Na temelju članka 2. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine«, broj 159/2003), Vlada Republike Hrvatske je na sjednici održanoj 6. studenoga 2003. godine donijela
