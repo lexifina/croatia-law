@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), a sukladno točki 7. Zaključka Vlade Republike Hrvatske, klase: 920-11/03-02/02, urbroj: 5030116-03-2 od 15. svibnja 2003. godine, Vlada Republike Hrvatske je na sjednici održanoj 3. srpnja 2003. godine donijela
