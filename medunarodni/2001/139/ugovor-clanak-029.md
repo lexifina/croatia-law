@@ -1,0 +1,12 @@
+# Članak 29.
+Postupak za primjenu zaštitnih mjera
+1. Prije pokretanja postupka za primjenu zaštitnih mjera određenih u sljedećim stavcima ovoga članka, stranke će nastojati riješiti sve međusobne nesuglasice izravnim konzultacijama.
+2. U slučaju da neka od stranaka uvoz proizvoda koji bi mogao prouzročiti stanje navedeno u članku 26. podvrgne upravnom postupku sa svrhom brzog pribavljanja informacija o kretanju robnih tokova, o tome će obavijestiti drugu stranku.
+3. Bez obzira na stavak 7. ovog članka, stranka koja namjerava pribjeći zaštitnim mjerama odmah će o tome izvijestiti drugu stranku i dostaviti joj sve informacije s tim u svezi. Stranke će bez odgode održati konzultacije radi pronalaženja rješenja.
+4. a) Glede članaka 25., 26. i 27. ako se ne može postići zajedničko rješenje ili ako se stranke ne mogu ili ne sastanu u roku od 30 dana zbog uzajamnih konzultacija, pogođena stranka može donijeti mjere potrebne za poboljšanje stanja te će obavijestiti drugu stranku.
+b) Glede članka 28. pogođena stranka može poduzeti odgovarajuće mjere nakon obavljenih konzultacija ili isteka roka od tri mjeseca od dana prve pisane obavijesti drugoj stranki.
+c) Glede članaka 21. i 22., pogođena stranka može od druge stranke zahtijevati ukidanje sporne prakse. Ako stranka ne prekine sa spornom praksom ili ako se ne postigne suglasnost u roku od trideset radnih dana, dotična stranka može poduzeti odgovarajuće protumjere radi rješavanja teškoća proizišlih iz sporne prakse.
+5. O poduzetim zaštitnim mjerama odmah se izvješćuje druga stranka. Opseg i trajanje mjera ograničavaju se na najnužnije za poboljšanje stanja koje je dovelo do njihove primjene te neće premašivati štetu prouzročenu spornom praksom ili poteškoćom. Prednost imaju mjere koje najmanje remete provedbu ovoga Ugovora. Mjere koje poduzme stranka protiv djelovanja ili propusta druge stranke mogu se odnositi samo na trgovinu s tom strankom.
+6. Poduzete zaštitne mjere bit će predmetom povremenih konzultacija radi njihova što skorijeg ublažavanja ili ukidanja kad stanje više ne bude opravdavalo njihovo postojanje.
+7. Ako je zbog izvanrednih okolnosti koje zahtijevaju hitno djelovanje nemoguće prethodno proučiti predmet, pogođena stranka može u slučajevima iz članaka 25., 26. i 27. smjesta primjenjivati privremene mjere nužne za poboljšanje stanja. O tim mjerama bez odgode će izvijestiti drugu stranku te će stranke čim prije obaviti konzultacije.
+8. Poduzete mjere primjenjivat će se sukladno načelima GATT-a 1994 i Sporazuma o osnivanju WTO-a.

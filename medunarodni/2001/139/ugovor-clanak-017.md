@@ -1,0 +1,3 @@
+# Članak 17.
+Opća izuzeća
+Ovim Ugovorom ne sprječavaju se zabrane ili ograničenja uvoza, izvoza ili provoza roba iz razloga javnog morala, javne politike ili javne sigurnosti, zaštite života i zdravlja ljudi, životinja ili biljaka, zaštite okoliša, zaštite nacionalnog blaga umjetničke, povijesne ili arheološke vrijednosti; zaštite intelektualnog vlasništva ili propisa koji se odnose na zlato i srebro ili očuvanje neobnovljivih prirodnih izvora, ako se takve mjere provode zajedno s ograničenjima domaće proizvodnje ili potrošnje. Takve zabrane ili ograničenja neće, međutim, biti sredstvo samovoljne diskriminacije ili prikrivenog ograničavanja trgovine između stranaka.

@@ -1,0 +1,5 @@
+# Članak 20.
+Plaćanja
+1. Za plaćanja u slobodno konvertibilnim valutama u svezi s trgovinom robama između stranaka te za prijenose takvih plaćanja na teritorij stranke na kojem je sjedište vjerovnika neće biti nikakvih ograničenja.
+2. Stranke će se suzdržati od bilo kakvih deviznih ili upravnih ograničenja za odobravanje, otplatu ili primanje kratkoročnih ili srednjoročnih kredita u svezi s trgovinom robama u kojoj sudjeluje osoba sa sjedištem u strankama.
+3. Bez obzira na odredbe stavka 2., stranke zadržavaju pravo primjenjivati devizna ograničenja kod odobravanja ili primanja kratkoročnih i srednjoročnih kredita u svezi s trgovinom robama u mjeri u kojoj je to dozvoljeno sukladno njihovom statusu prema MMF, pod uvjetom da se takva ograničenja primjenjuju na nediskriminacijski način glede podrijetla proizvoda i da se ne primjenjuju samo na specifične proizvode ili vrste proizvoda. Ograničenja će biti ograničenog trajanja te će se ukinuti kada uvjeti više ne opravdavaju njihovo zadržavanje. Stanke će odmah obavijestiti Zajednički odbor o uvođenju takvih mjera i svim promjenama u svezi s njima.
