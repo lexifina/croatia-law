@@ -1,0 +1,2 @@
+# Članak 6.
+Začini, mirodije i slični proizvodi smiju sadržavati i do 10 puta veće količine, a čajevi do 5 puta veće količine pesticida od najviše dopuštenih. Kod koncentrata za juhe, punomasnog i obranog mlijeka u prahu, suhog voća i povrća i sličnih dehidriranih namirnica, koje se upotrebljavaju razrijeđene ili rekonstituirane, količina pesticida izračunava se na oblik u kojem se namirnice upotrebljavaju za prehranu.

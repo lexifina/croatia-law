@@ -1,0 +1,2 @@
+# Članak 4.
+Ostaci pesticida u kravljem mlijeku izražavaju se na ukupnu masu mlijeka (Tablica I). Kod mlijeka drugih životinja ostaci pesticida se izražavaju na osnovi sadržaja masti. U proizvodima od mlijeka sa sadržajem masti više od 2% ostaci pesticida izražavaju se na sadržaj masti, a najveća dopuštena količina 25 puta je veća od navedenih u Tablici I za mlijeko. U proizvodima od mlijeka sa sadržajem masti manje od 2% ostaci pesticida izražavaju se na ukupnu masu proizvoda.
