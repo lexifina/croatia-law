@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Ako je klasična svinjska kuga potvrđena na gospodarstvu koje ima dvije ili više odvojenih proizvodnih jedinica, Uprava može, u svrhu omogućavanja završetka turnusa tova, dozvoliti odstupanje od mjera propisanih u članku 5. stavku 1. točki a) ovog Pravilnika na proizvodnoj jedinici na kojoj se nalaze zdrave svinje, pod uvjetom da je nadležni veterinarski inspektor potvrdio da su struktura, veličina i udaljenost između proizvodnih jedinica kao i postupci proizvodnje takvi da je u proizvodnoj jedinici osigurano potpuno odvojeno držanje i hranidba te da je onemogućeno širenje virusa iz jedne u drugu proizvodnu jedinicu.
+(2) U slučaju odstupanja navedenih u stavku 1. ovoga članka Uprava mora izraditi detaljna pravila za provedbu tih odstupanja, uzimajući u obzir sve mjere za sprječavanje širenja bolesti i zaštitu zdravlja životinja.
+(3) Uprava mora o odstupanju iz stavka 1. ovoga članka bez odgađanja obavijestiti Europsku komisiju.

@@ -1,0 +1,6 @@
+## Mjere koje se provode na kontaktnim gospodarstvima
+# Članak 7.
+(1) Gospodarstva moraju biti proglašena kontaktnim gospodarstvima ako nadležni veterinarski inspektor opravdano sumnja ili utvrdi na temelju epidemiološkog istraživanja provedenog u skladu sa člankom 8. ovog Pravilnika da je klasična svinjska kuga mogla biti unesena s drugih gospodarstava na gospodarstvo na koje se odnosi članak 4. ili članak 5. ovoga Pravilnika ili s gospodarstva na koje se odnosi članak 4. i članak 5. na druga gospodarstva,
+(2) Ako epidemiološko stanje zahtijeva, nadležni veterinarski inspektor mora narediti provedbu mjera iz članka 5. stavka 1. ovog Pravilnika na kontaktnim gospodarstvima iz stavka 1. ovoga članka te uzimanje dovoljnog broja uzoraka od usmrćenih svinja, u skladu s Dijagnostičkim priručnikom, kako bi se prisutnost virusa klasične svinjske kuge na kontaktnom gospodarstvu potvrdila ili isključila.
+(3) Najvažniji kriteriji i čimbenici rizika koji se uzimaju u obzir pri provedbi mjera iz članka 5. stavka 1. točke a) ovog Pravilnika na kontaktnim gospodarstvima propisani su u Dodatku IV. ovog Pravilnika.
+(4) Odredbe članka 4. ovoga Pravilnika moraju se provoditi na gospodarstvima na koja se odnosi stavak 1. ovoga članka sve dok se sumnja na klasičnu svinjsku kugu službeno ne isključi.
