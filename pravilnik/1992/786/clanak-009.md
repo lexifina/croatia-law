@@ -1,0 +1,2 @@
+# Članak 9.
+Pravne osobe koje koriste luke odnosno riječna i zrakoplovna pristaništa, željeznička transportna poduzeća, a i vlasnici odnosno korisnici prijevoznih sredstava u međunarodnom pomorskom, riječnom, zračnom i željezničkom prometu dužni su pravovremeno, a najkasnije u roku od 2 sata od slijetanja ili polijetanja zrakoplova, odnosno 12 sati ako je riječ o drugim prijevoznim sredstvima, obavijestiti graničnu policiju o njihovom prijelazu državne granice.

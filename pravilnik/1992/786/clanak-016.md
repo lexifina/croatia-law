@@ -1,0 +1,3 @@
+# Članak 16.
+Područje graničnog prijelaza za cestovni promet obuhvaća prostor od državne granice u dubinu teritorija Republike Hrvatske na kojem se nalazi dio javne ceste i prostor obilježen za zaustavljanje ili parkiranje vozila do objekata na graničnom prijelazu
+Na graničnim prijelazima za cestovni promet na kojima se prostori za parkiranje vozila, zgrade, prostorije i uređaji koje upotrebljavaju nadležna tijela i pravne osobe iz članka 22. ovog Pravilnika, nalaze na udaljenosti manjoj od 100 m od državne granice, područje graničnog prijelaza obuhvaća i javnu cestu u duljini od 100 m od državne granice.

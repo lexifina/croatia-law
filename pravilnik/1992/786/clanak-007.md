@@ -1,0 +1,3 @@
+# Članak 7.
+Pri obavljanju kontrole putnih isprava ili drugih isprava o identitetu putnika i članova posade plovila u međunarodilom prometu utvrđuje se identitet svih osoba na plovilu i uspoređuju podaci iz putnih isprava ili drugih isprava o identitetu osoba na plovilu s podacima u popisu putnika i prijepisu popisa članova posade, odnosno popisa članova posade.
+Popis putnika i prijepis popisa članova posade plovila koja dolaze iz inozemstva ili odlaze u inozemstvo sadrži: ime i prezime putnika odnosno člana posade, datum njegovog rođenja, državljanstvo i broj putne isprave ili druge isprave o identitetu.

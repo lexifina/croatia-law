@@ -1,0 +1,3 @@
+# Članak 8.
+Članovi posade plovila odnosno osoblje zaposleno na prijevoznim sredstvima i putnici koji tim sredstvima ulaze u Republiku Hrvatsku iz inozemstva odnosno izlaze iz Republike Hrvatske u inozemstvo, mogu do završetka granične kontrole na graničnom prijelazu kontaktirati samo s djelatnicima granične policije koji obavljaju propisanu graničnu kontrolu na graničnom prijelazu.
+Zapovjednik plovila odnosno zrakoplova, voditelj čamca, željezničko osoblje i vozač drugog prijevoznog sredstva ne smiju dopustiti da se nakon obavljene granične kontrole ukrcaju u prijevozno sredstvo druge osobe bez odobrenja granične policije.
