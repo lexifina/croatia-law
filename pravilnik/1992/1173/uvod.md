@@ -1,0 +1,1 @@
+Temeljem članka 29. stavak 2. Zakona o kontroli predmeta od dragocjenih metala ("Službeni list SFRJ" br. 59/81, 59/66 i 20/89) Zakona o preuzimanju Zakona o kontroli predmeta od dragocjenih metala koji se u Republici Hrvatskoj primjenjuje kao republički Zakon ("Narodne novine" br. 53/91), direktor Republičkog zavoda za normizaciju i mjeriteljstvo, donosi
