@@ -1,0 +1,8 @@
+# Članak 14.
+POSEBNA NAKNADA
+I. Ako je spašavatelj obavio operacije spašavanja u svezi s brodom, koji je sam ili svojim teretom prijetio štetom za okoliš, pa nije uspio po članku 13. zaslužiti naknadu barem u visini posebne naknade, koja se može utvrditi u skladu s ovim člankom, imat će pravo na posebnu naknadu od vlasnika toga broda u visini svojih troškova, kako su ovdje odredeni.
+2. Ako je spašavatelj, pod uvjetima utvrdenima u stavku 1. svojim operacijama spašavanja spriječio ili smanjio štete za okoliš, posebna naknada koju vlasnik ima platiti spašavatelju, sukladno sa stavkom 1. može se povećati najviše do 30% od iznosa troškova koje je spašavatelj uložio. Medutim, ako to smatra pravednim i opravdanim, te vodeći računa o odgovarajućim mjerilima utvrdenima u članku 13. stavku 1. sud može dodatno povećati takvu posebnu naknadu, ali ukupno povećanje ni u kojem slučaju neće biti veće od 100% iznosa troškova što ih je spašavatelj uložio.
+3. Troškovi spašavatelja u smislu stavka 1. i 2. označuju gotovinske izdatke koje je spašavatelj razborito uložio u operaciji spašavanja i pravedan omjer za opremu i ljudstvo, koji su stvarno i razborito bili angažirani u operaciji spašavanja, uzimajući u obzir mjerila utvrQena u članku 13. stavku 1. točkama h), i) i j).
+4. Ukupna posebna naknada po ovom članku platit će se jedino onda i u onom omjeru za koliko je ta naknada veća od bilo koje naknadae koja spašavatelju pripada prema članku 13.
+5. Ako je spašavatelj bio nemaran pa je time propustio spriječiti ili smanjiti štetu za okoliš, može ga se lišiti, dijelom ili u cijelosti, svake posebne naknade iz ovoga članka.
+6. Ništa iz ovoga članka neće utjecati na bilo kakvo pravoč regresa od strane vlasnika broda.
