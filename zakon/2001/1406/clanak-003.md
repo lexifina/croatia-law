@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 29. stavci 1. i 2. mijenjaju se i glase:
+»(1) Nadoknada plaće za vrijeme korištenja porodnog dopusta od šest mjeseci do jedne godine djetetova života, posvojiteljskog dopusta, skraćenoga radnog vremena do jedne godine djetetova života iz članka 59. stavka 1. Zakona o radu, skraćenoga radnog vremena do tri godine djetetova života iz članka 59. stavka 3. Zakona o radu te dopusta iz članka 57. Zakona o radu iznosi 1.600,00 kuna.
+(2) Novčana nadoknada za vrijeme korištenja porodnog dopusta nezaposlene majke, majke na redovitom školovanju, nezaposlene majke koja ostvaruje pravo na invalidsku mirovinu zbog profesionalne nesposobnosti za rad i majke korisnice mirovine iznosi 900,00 kuna. Osnovica za obračun nadoknade plaća za vrijeme stanke za dojenje iz članka 60. Zakona o radu iznosi 1.600,00 kuna.«
