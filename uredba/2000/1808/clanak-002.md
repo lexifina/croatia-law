@@ -1,0 +1,25 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+Y X
+TOČKA 1 6 505 054.30 4 724 045.60
+TOČKA 2 6 505 135.90 4 724 031.00
+TOČKA 3 6 505 134.40 4 724 056.80
+TOČKA 4 6 505 135.50 4 724 071.70
+TOČKA 5 6 505 121.70 4 724 073.00
+TOČKA 6 6 505 124.20 4 724 103.80
+TOČKA 7 6 505 110.40 4 724 105.10
+TOČKA 8 6 505 115.10 4 724 159.60
+TOČKA 9 6 505 129.50 4 724 158.40
+TOČKA 10 6 505 130.50 4 724 168.30
+TOČKA 11 6 505 164.50 4 724 165.50
+TOČKA 12 6 505 174.80 4 724 172.90
+TOČKA 13 6 505 175.10 4 724 174.00
+TOČKA 14 6 505 172.50 4 724 174.80
+TOČKA 15 6 505 174.60 4 724 182.30
+TOČKA 16 6 505 175.70 4 724 182.10
+TOČKA 17 6 505 179.80 4 724 197.00
+TOČKA 18 6 505 174.10 4 724 209.30
+TOČKA 19 6 505 202.80 4 724 265.40
+TOČKA 20 6 505 204.20 4 724 268.20
+TOČKA 21 6 505 192.40 4 724 284.30
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Gruž, broj lista plana 1 i 2, u mjerilu 1:2880 i na snimci stvarnog stanja u mjerilu 1:500.
