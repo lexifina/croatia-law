@@ -1,0 +1,2 @@
+# Članak 5.
+U slučaju iz članka 4. ovog Ugovora, odmah nakon primitka izvješća, nadležna tijela ugovornih stranaka dogovorno će osnovati zajedničku komisiju od predstavnika nadležnih tijela, kojoj je zadaća utvrditi podrijetlo o proširenost bolesti odnosno zdravstvenu ispravnost pošiljke, i u skladu s postojećim propisima ugovorne stranke na čijem je teritoriju ustanovljena neispravnost pošiljke, predložiti nadležnim tijelima ugovornih stranaka provedbu odgovarajućih mjera.
