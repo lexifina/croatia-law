@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. i članka đ7. stavka 1. točke 11. Zakona o Narodnoj banci Hrvatske (" Narodne novine", br. 74/92.. 2B/93. i 73/93.), Savjet Narodne banke Hrvatske na svojoj sjednici održanoj 29. lipnja 1984. godine, donio je
