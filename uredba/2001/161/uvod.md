@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), a u vezi sa člankom 45. Zakona o državnoj izmjeri i katastru nekretnina (»Narodne novine«, broj 128/99), Vlada Republike Hrvatske je na sjednici, održanoj 25. siječnja 2001. godine, donijela
