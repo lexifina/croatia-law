@@ -1,0 +1,1 @@
+Odluka o izmjenama Odluke o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, ministara, drugih članova Vlade te dužnosnika koje imenuje i razjrešava V
