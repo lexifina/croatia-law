@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući ("Narodne novine" br. 26/96, 79/97 i 31/99), u članku 3. stavci 2. briše se tekst: "fizikalne medicine i medicinske rehabilitacije (u daljnjem tekstu: specijalist fizijatar)" i upisuje tekst: "odgovarajuće specijalnosti sukladno ovom Pravilniku i drugim općim aktima Zavoda".

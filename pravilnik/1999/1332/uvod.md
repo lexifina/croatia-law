@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 17. Zakona o zdravstvenom osiguranju ("Narodne novine" broj 1/97 - pročišćeni tekst, 109/97, 13/98, 88/98 i 34/99) i članka 14. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 14. sjednici održanoj 5. srpnja 1999. godine, donijelo je
