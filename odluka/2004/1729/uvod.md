@@ -1,0 +1,1 @@
+Na temelju članka 86. stavka 3. Zakona o proračunu (»Narodne novine«, broj 96/2003) i članka 28. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2004. godinu (»Narodne novine, broj 31/2004), Vlada Republike Hrvatske je na sjednici održanoj 19. lipnja 2004. godine donijela
