@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98) i članka 54. Zakona o ustanovama (»Narodne novine«, br. 76/93 i 29/97), Vlada Republike Hrvatske je na sjednici održanoj 9. rujna 1999. godine donijela
