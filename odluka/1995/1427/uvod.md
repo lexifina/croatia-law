@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 1. Zakona o lovu ("Narodne novine", br. 10/94, 5/95 i 72/95) i provedenog javnog natječaja, objavljenog u "Vjesniku" i "Večernjem listu" od 6. svibnja 1995. godine Vlada Republike Hrvatske je na sjednici održanoj 2. studenoga 1995. godine donijela
