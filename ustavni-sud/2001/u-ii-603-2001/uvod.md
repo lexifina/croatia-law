@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Smiljko Sokol, predsjednik Suda, te suci Marijan Hranjski, Petar Klarić, Jurica Malčić, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Emilija Rajić, Vice Vukojević i Milan Vuković, odlučujući u povodu zahtjeva zastupnika Županijskog doma i Zastupničkog doma Hrvatskoga sabora, na sjednici Suda održanoj dana 28. ožujka 2001. godine, donio je
