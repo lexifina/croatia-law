@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 4. stavak 1. mijenja se i glasi: "Prihod od prodaje upravnih biljega pripada općini odnosno gradu na području kojeg je izvršena maloprodaja upravnih biljega te županiji i državnom proračunu u jednakim dijelovima nakon odbitka provizije distributerima i prodavateljima na malo". U stavku 2. riječ "administrativnih" zamjenjuje se riječju "upravnih", a riječi "Službi društvenog knjigovodstva" zamjenjuju se riječima "Zavodu za platni promet".

@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o sustavu državne uprave ("Narodne novine", br. 75/93 radi izvršenja Zakona o mjenici ("Narodne novine", br. 53/91) i članka 20. i 22. Zakona o upravnim pristojbama ("Narodne novine", br. 97/93) ministar financija donosi
