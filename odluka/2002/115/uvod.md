@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 43. točke 1. Statuta Općine Barban (»Službene novine Općine Barban«, br. 4/01), Općinsko vijeće Općine Barban je na sjednici održanoj 20. prosinca 2001. godine, donijelo
