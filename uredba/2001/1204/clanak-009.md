@@ -1,0 +1,2 @@
+# Članak 9.
+Pomoćnik ravnatelja predlaže ravnatelju nacrt plana rada službe u Državnoj upravi, raspoređuje poslove na unutarnje ustrojstvene jedinice i nadzire njihovo izvršenje, određuje i nadzire način i vrijeme izvršavanja poslova i supotpisuje akte iz djelokruga službe koje potpisuje ravnatelj, daje naputke za rad službenicima i namještenicima, predlaže raspored službenika i namještenika, izvješćuje ravnatelja o stanju izvršavanja poslova a obavlja i druge poslove koje mu povjeri ravnatelj ili zamjenik ravnatelja.
