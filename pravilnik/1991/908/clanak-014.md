@@ -1,0 +1,3 @@
+# Članak 14.
+Obveznici koji su na ime akontacije platili iznos naknade manji od iznosa prema konačnom rješenju o visini naknade za proteklo obračunsko razdoblje dužni su platili razliku u roku od 15 dana od primitka toga rješenja.
+Obveznici koji su na ime akontacije platili iznos naknade veći od iznosa prema rješenju iz stavka 1. ovoga članka, imaju pravo na povrat više plaćenog iznosa. "Hrvatska vodoprivreda" dužna je izvršiti povrat u roku od 15 dana od dana primitka zahtjeva. Ukoliko obveznik ne podnese zahtjev za povrat više plaćeni iznos se vodi kao uplata za sljedeće obračunsko razdoblje.

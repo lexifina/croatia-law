@@ -1,0 +1,10 @@
+## N=AxVxdT
+# Članak 4.
+Količina ispuštene zagađene vode "V" u m3 godišnje utvrđuje se:
+1. za obveznike iz točke 1. članka 2. ovog pravilnika koji putem vlastitih mjernih uređaja evidentiraju količinu ispuštene zagađene vode u skladu s Uputstvom za vođenje evidencije o učestalosti ispuštanja vode, opasnih i štetnih tvari, količini i sastavu tih tvari i načinu dostavljanja podataka o tome javnim vodoprivrednim poduzećima ("Narodne novine", br. 9/90) - (u daljem tekstu: Uputstvo) - prema ukupnoj količini tako evidentirane vode na mjestu ispuštanja.
+Ako obveznici iz stavka 1. ove točke nemaju uređaja za evidentiranje količina ispuštene zagađene vode ili ne vode evidenciju u skladu s Uputstvom, količina ispuštene zagađene vode utvrđuje se na osnovi podataka koje je dužan dati obveznik i drugih odgovarajućih podataka (količina vode isporučena iz javnog vodoopskrbnog sustava, količina vode iz vlastitih crpilišta, normativi utroška vode u tehnološkom procesu),
+2. za obveznike iz točke 2. članka 2. ovog pravilnika količinu ispuštene vode "V" čini razlika između količine zahvaćene vode za hlađenje u tehnološkom procesu i gubitka vode u procesu hlađenja, koja se utvrđuje na osnovi podataka iz mjernih uređaja obveznika, a ako obveznik nema takvih uređaja odnosno ne evidentira takve količine vode, količina ispuštene vode utvrđuje se na osnovi drugih odgovarajućih podataka (kapacitet crpki, tehničke karakteristike rashladnog sustava, obujam bazena i sl.),
+3. za obveznike iz točke 3. članka 2. ovog pravilnika količina ispuštene zagađene vode utvrđuje se prema evidenciji o isporučenoj količini vode putem javnog vodoopskrbnog sustava, ako nema mjernih podataka o količini isporučene vode kao osnov za obračun naknade uzima se količina od 40 m3 vode po članu domaćinstva godišnje (stavak 5. točka VIII. Odluke),
+4. za obveznike iz točke 4. članka 2. ovog pravilnika kao količina ispuštene zagađene vode se uzima:
+- u ribnjacima - količina vode koja odgovara količini od 15% od ukupne korisne zapremine ribnjaka,
+- u bazenima - količina vode koja odgovara količini od 5% od korisne zepremine bazena za svako pražnjenje bazena.
