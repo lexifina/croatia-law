@@ -1,0 +1,4 @@
+# Članak 16.
+Pristup Konvenciji
+1. Nakon stupanja ove Konvencije na snagu, Odbor ministara Vijeća Europe može, nakon savjetovanja sa strankama Konvencije, odlukom koju donese većinom predviđenom u članku 20.d. Statuta Vijeća Europe i uz jednoglasnost predstavnika država stranaka koje imaju pravo zasjedati u Odboru, pozvati svaku državu koja nije članica Vijeća Europe i koja nije sudjelovala u izradi Konvencije da joj pristupi.
+2. Za svaku državu koja joj pristupi, Konvencija stupa na snagu prvoga dana mjeseca koji slijedi po proteku razdoblja od tri mjeseca od dana polaganja isprave o pristupu kod glavnog tajnika Vijeća Europe. Svaka država koja pristupi ovoj Konvenciji automatski postaje članicom skupine GRECO na dan kad Konvencija za nju stupi na snagu, ako to već nije bila u trenutku pristupa.

@@ -1,0 +1,7 @@
+# Članak 15.
+Potpisivanje i stupanje na snagu
+1. Ova Konvencija je otvorena za potpisivanje državama članicama Vijeća Europe, državama ne članicama koje su sudjelovale u njezinoj izradi i Europskoj zajednici.
+2. Ova Konvencija podliježe ratifikaciji, prihvatu ili odobrenju. Isprave o ratifikaciji, prihvatu ili odobrenju polažu se kod Glavnog tajnika Vijeća Europe.
+3. Ova Konvencija stupa na snagu prvoga dana mjeseca koji slijedi po proteku razdoblja od tri mjeseca od dana kad je četrnaest država potpisnica izrazilo svoj pristanak da budu vezane Konvencijom sukladno odredbama stavka 2. ovog članka. Svaka takva potpisnica koja nije članica Skupine država za suzbijanje korupcije (GRECO) u vrijeme ratifikacije, prihvata ili odobrenja, automatski postaje članicom na dan kad Konvencija za nju stupi na snagu.
+4. U odnosu na svaku potpisnicu koja naknadno izrazi svoj pristanak bude vezana Konvencijom, ona stupa na snagu prvoga dana mjeseca koji slijedi po proteku razdoblja od tri mjeseca od dana kad su izrazile svoj pristanak da budu vezane Konvencijom sukladno odredbama stavka 2. ovog članka. Svaka potpisnica koja nije članica Skupine država za suzbijanje korupcije (GRECO) u vrijeme ratifikacije, prihvata ili odobrenja, automatski postaje članicom na dan kad ova Konvencija za nju stupi na snagu.
+5. Svi posebni načini sudjelovanja Europske zajednice u Skupini država za suzbijanje korupcije (GRECO) utvrdit će se, u mjeri u kojoj je to potrebno, zajedničkim sporazumom s Europskom zajednicom.
