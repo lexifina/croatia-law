@@ -1,0 +1,10 @@
+Obrazloženje
+1. Marijana Lapaine iz Zagreba, dostavila je podnesak Ustavnom sudu Republike Hrvatske, kojim traži da Ustavni sud postupi sukladno svojim ovlastima iz odredbe članka 105. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 49/02. - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon).
+Razlog podnošenja podneska je nedonošenje podzakonskih akata, čije donošenje je propisano odredbom članka 63. stavka 6. (u svezi s člankom 78.) Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, broj 92/96., 39/99., 42/99., 92/99., 43/00., 131/00., 27/01., 65/01., 118/01., 80/02. i 81/02., u daljnjem tekstu: Zakon o naknadi), koja glasi:
+»Ako sadašnju vrijednost imovine nije moguće utvrditi primjenom mjerila iz stavaka 2., 3. i 4. ovog članka, mjerila za procjenu vrijednosti takve imovine utvrđuje ministar financija.«
+Donošenje tog podzakonskog akta obveza je nadležnih ministara prema odredbi članka 78. Zakona o naknadi koji glasi:
+»Nadležni ministri donijet će posebne propise iz članka 63. ovog Zakona u roku od godine dana od dana stupanja na snagu ovog Zakona.«
+2. Člankom 105. Ustavnog zakona predviđeno je, u pogledu nadzora nad donošenjem propisa za izvršenje Ustava, zakona i drugih propisa, postupanje Ustavnog suda na način da obavještava Vladu Republike Hrvatske, odnosno Hrvatski sabor u slučaju kad Sud utvrdi da nadležno tijelo, odnosno Vlada Republike Hrvatske nisu donijeli propis koji su bili dužni donijeti.
+3. U »Narodnim novinama«, broj 204/03. objavljen je Pravilnik o mjerilima za utvrđenje naknade za oduzeto građevinsko zemljište i poslovni prostor, klasa: 011-01/03-01/152, urbroj: 513-03/03-3. Prema odredbi članka 5. Pravilnik stupa na snagu osmog dana od objave u »Narodnim novinama«, a primjenjuje se od 1. travnja 2004. godine.
+S obzirom na navedeno, ne postoje pretpostavke za postupanje Suda, u smislu odredaba članka 105. Ustavnog zakona, te je riješeno kao u izreci.
+Objava se temelji na članku 29. Ustavnog zakona.
