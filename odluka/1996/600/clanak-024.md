@@ -1,0 +1,2 @@
+# Članak 24.
+Doprinos za obvezno zdravstveno osiguranje osiguranih osoba koje na osnovi rješenja pravne ili fizičke osobe koriste neplaćeni dopust, odnosno koje su neopravdano izostale s posla, plaća pravna ili fizička osoba u kojoj je djelantnik uposlen, prema stopi od 14% na osnovicu od 2.200,00 kuna, na način i prema postupku propisanom za uposlene pri pravnoj ili fizičkoj osobi, a najkasnije do 15. u mjesecu za prethodni mjesec.
