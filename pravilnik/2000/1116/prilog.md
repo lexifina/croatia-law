@@ -1,0 +1,142 @@
+ZI-IM-1
+Porezni obveznik ________________________
+Mjesto i nadnevak _______________________
+ZAHTJEV ZA PREUZIMANJE IDENTIFIKACIJSKIH MARKICA ILI MARKICA
+ZEMLJE U KOJE SE IZVOZE DUHANSKI PROIZVODI BR ________ OD ________
+RED.
+BR.
+OZNAKA SERIJE MARKICA
+(čl. 4. Pravilnika) ILI ZEMLJE
+U KOJU SE IZVOZI
+(čl. 17. st. 5. Zakona) I NAZIV
+DUHANSKOG PROIZVODA
+KOLIČINSKO
+STANJE MARKICA
+U POMOĆNOM
+TREZORU PRIJE
+IZDAVANJA
+BROJ TRAŽENIH
+MARKICA PO
+ZAHTJEVU
+IZDANO
+KOLIČINSKO
+STANJE MARKICA
+U POMOĆNOM
+TREZORU NAKON
+IZDAVANJA
+UKUPNO
+MARKICA
+OD DO
+BROJA
+1
+2
+3
+4
+5
+6
+7
+| UKUPNO
+POTPISI OVLAŠTENIH OSOBA
+POREZNE UPRAVE
+____________________________
+PREUZEO
+__________________________ M.P.
+PK-DP-1
+Porezni obveznik ________________________
+Mjesto i nadnevak _______________________
+PODACI O PROIZVEDENIM KOLIČINAMA DUHANSKIH PROIZVODA NA DAN ________
+PREMA ZAHTJEVU ZA PREUZIMANJE IDENTIFIKACIJSKIH MARKICA I MARKICA DRUGIH DRŽAVA (OBRAZAC ZI-IM-1) BROJ ________
+RED. BR.
+PREUZETO U PROIZVODNJU
+POTROŠENO
+U PRO-
+IZVODNJI
+POVRAT MARKICA
+UKUPNO
+POTROŠENO
+U PROIZVODNJI
+(5+6)
+OZNAKA SERIJE
+MARKICA (čl. 4.
+Pravilnika) ILI ZEMLJE
+U KOJU SE IZVOZI
+(čl. 17. st. 5. Zakona)
+I NAZIV DUHANSKOG
+PROIZVODA
+MARKICA
+(stupac 5. obrasca
+ZI-IM-1)
+OD DO BROJA
+(stupac 6. obrasca
+ZI-NM-1)
+OŠTEĆENIH
+NEISPRAV-
+NIH
+NEISKORIŠ-
+TENIH
+1
+2
+3
+4
+5
+6
+| 7 | 8 | 9
+| UKUPNO
+VRAĆENE NEISKORIŠTENE MARKICE
+SERIJA MARKICE | OD DO BROJA | UKUPNO
+VRAĆENE NEISPRAVNE MARKICE
+SERIJA MARKICE | OD DO BROJA | UKUPNO
+POTPISI OVLAŠTENIH OSOBA
+POREZNOG OBVEZNIKA POREZNE UPRAVE
+M.P.
+_______________________ _______________________
+PR-DP-1
+Porezni obveznik ________________________
+Mjesto i nadnevak _______________________
+PODACI O PRODANIM (ISPORUČENIM IZ SKLADIŠTA) KOLIČINAMA DUHANSKIH PROIZVODA
+NA DAN _________ PREMA PODACIMA O PROIZVODNJI (STUPAC 5 PK-DP-1) BROJ _________
+I O KUPCU (PREUZIMATELJU) DUHANSKIH PROIZVODA
+RED. BR.
+OZNAKA SERIJE MARKICA
+(čl. 4. Pravilnika) ILI ZEMLJE
+U KOJU SE IZVOZI (čl. 17.
+st. 5. Zakona) I NAZIV
+DUHANSKOG PROIZVODA
+| OD DO
+BROJA*
+PODACI O
+INOZEMNOM
+KUPCU (naziv,
+adresa i dr.)**
+PODACI O
+DOMAĆEM KUPCU
+(preuzimatelju-
+špediteru)
+ZEMLJA
+U KOJU
+SE
+IZVOZI
+PODACI OPRIJE- VOZNOM SREDSTVU
+(registarski broj,
+ime i prezime vozača)
+GRANIČNI
+PRIJELAZ NA
+KOJI SE UPUĆUJU
+DUHANSKI PROIZVODI
+1
+2
+3
+4
+5
+6
+7
+8
+| UKUPNO
+* Unutar brojeva markica proizvedenih i iskazanih u obrascu PK-DP-1 nedostajat će brojevi oštećenih markica
+** Porezni obveznik mora osigurati evidenciju prodaje po kupcima (prema čl. 21. Zakona)
+POTPIS OVLAŠTENE OSOBE POTPIS OVLAŠTENIH OSOBA
+POREZNOG OBVEZNIKA O PREUZIMANJU OBRASCA
+____________________________ M. P. ______________________________
+(Porezne uprave)
+______________________________
+(Carinske uprave)
