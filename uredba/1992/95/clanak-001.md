@@ -1,0 +1,3 @@
+## o dodjeljivanju stalnih novčanih nadoknada
+# Članak 1.
+Osobama zaslužnim zbog njihove znanstvene, kulturne i druge društvene djelatnosti, mogu se dodjeljivati stalne novčane nadoknade ako njihov materijalni položaj ne odgovara njihovim zaslugama. Osobama iz prethodnoga stavka smatraju se: znanstvenici, prosvjetni radnici, stvaratelji, reproduktivni umjetnici, novinari i publicisti, športaši i športski radnici, zdravstveni radnici, ekolozi kao i osobe zaslužne u očuvanju javnih dobara. Poslije smrti osoba iz stavka 2. ovog članka, stalna novčana nadoknada može se dodijeliti i članovima njihove obitelji.
