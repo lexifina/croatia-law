@@ -1,0 +1,2 @@
+# Članak 2.
+Iznimno od odredbe članka 1. plaćanja i naplate po dužničko-vjerovničkim odnosima nastalim zaključno s 31. prosincem 1991. godine obavljaju se u hrvatskim dinarima preko posebnih računa u Službi društvenog knjigovodstva Hrvatske. Na ove račune polažu se i dnevni utrošci u hrvatskim dinarima ako se radi o registriranoj maloprodaji robe i usluga koje obavljaju dijelovi pravnih osoba iz drugih republika, što se dokazuje odgovarajućom dokumentacijom u razdoblju dok svoju organizaciju i poslovanje ne usklade zakonodavstvom Republike Hrvatske.
