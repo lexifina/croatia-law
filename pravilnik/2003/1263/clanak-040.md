@@ -1,0 +1,2 @@
+# Članak 40.
+Radi sprječavanja šteta na prirodi zabranjena je na području Parka prirode izvan naselja i izvan svih vrsta cesta, poljskih puteva, uređenih staza i poligona za vožnju (test vožnje, cross vožnje, off-road vožnje, športske, takmičarske i promidžbene vožnje, te njima slični oblici korištenja), voziti, parkirati ili organizirati vožnje vozilima na motorni pogon osim u slučajevima obavljanja službene dužnosti, poljoprivrednih, šumarskih ili drugih dopuštenih djelatnosti, odnosno kada je to u skladu sa Zakonom o zaštiti prirode i ovim Pravilnikom.

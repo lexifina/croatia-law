@@ -1,0 +1,4 @@
+# Članak 64.
+U cilju osiguranja mjera zaštite od požara Ustanova, »Hrvatske šume« d.o.o. i druge pravne i fizičke osobe koje obavljaju dopuštenu djelatnost na području Parka prirode uspostavljaju sustav preventivne zaštite od požara, grade i održavaju protupožarne putove i prosjeke, te osiguravaju odgovarajuću opremu za gašenje požara.
+Ustanova, »Hrvatse šume« d.o.o. i druge pravne i fizičke osobe koje obavljaju dopuštenu djelatnost na području Parka prirode, svatko na svom području kojim gospodari ili obavlja djelatnost, neposredno nadziru primjenu propisa u svezi sa zaštitom od požara, te osiguravaju provođenje potrebnih mjera zaštite.
+U cilju kvalitetnog provođenja zaštite od požara Ustanova vodi evidenciju odgovornih pravnih i fizičkih osoba za pojedina područja odnosno objekte, nadzire i koordinira njihov rad u cilju ostvarivanja mjera zaštite od požara, prati ostvarivanje planova zaštite od požara, kao i stanje propisane opreme.

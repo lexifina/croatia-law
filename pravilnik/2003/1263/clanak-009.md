@@ -1,0 +1,4 @@
+# Članak 9.
+Istraživanje, korištenje i zaštita voda, uređenje vodotoka i drugih voda te zaštita od štetnog djelovanja voda u Parku prirode provodi u skladu s Prostornim planom, vodnogospodarskom osnovom slivnog područja i posebnim propisom, uz ishođenje uvjeta zaštite prirode i/ili potvrde odnosno odobrenja nadležnog tijela pribavljenog u postupku sukladno posebnom propisu (lokacijska dozvola, građevna dozvola, koncesija i dr.).
+Vodnogospodarska osnova slivnog područja mora sadržavati uvjete zaštite prirode za dio koji se odnosi na područje Parka prirode.
+Koncesionar za vodoopskrbu, ako se obavlja vodozahvat u Parku prirode, dužan je za obavljanje djelatnosti ishoditi uvjete zaštite prirode, a Ustanovi radi praćenja stanja dostavljati godišnje planove i realizaciju vodozahvata (količinu i kakvoću vode po pojedinom izvorištu), godišnje planove realizacije zaštite voda, te realizaciju mjera zaštite okoliša i uvjeta zaštite prirode.

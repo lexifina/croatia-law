@@ -1,0 +1,4 @@
+# Članak 54.
+Pravne i fizičke osobe koje u Parku prirode obavljaju dopuštene gospodarske i druge djelatnosti, dužne su postupati u skladu sa zakonom, provedbenim propisima donesenim na temelju zakona i ovim Pravilnikom.
+Pravne i fizičke osobe koje u Parku prirode obavljaju dopuštene gospodarske i druge djelatnosti, dužne su otpad koji nastane prilikom obavljanja njihove djelatnosti iznijeti iz Parka prirode i odložiti na predviđena odlagališta, ako ga nije moguće zbrinuti u Parku prirode na ekološki prihvatljiv način (kompostiranje i sl.), ili u sklopu redovitog odvoza smeća koje obavljaju nadležne komunalne službe ili druge pravne osobe ovlaštene za odvoz otpada (koncesionari).
+Pravne i fizičke osobe koje u Parku prirode obavljaju dopuštene gospodarske i druge djelatnosti dužne su s osobama iz stavka 2. ovoga članka sklopiti ugovor o redovitom odvoženju otpada.

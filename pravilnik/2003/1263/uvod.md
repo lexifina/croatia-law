@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o zaštititi prirode (»Narodne novine«, broj 30/94 i 72/94) i članka 16. stavka 2. Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (»Narodne novine«, broj 131/97, 48/99 i 15/00), ministar zaštite okoliša i prostornog uređenja donosi

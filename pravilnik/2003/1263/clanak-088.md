@@ -1,0 +1,2 @@
+# Članak 88.
+Radi sprječavanja nastanka neotklonjivih šteta na prirodnim vrijednostima Parka prirode, odnosno biološkoj i krajobraznoj raznolikosti, kao i radi naređivanja hitnih zaštitnih mjera ili otklanjanja neposredne opasnosti za život i zdravlje ljudi ili imovinu, rješenje u tijeku nadzora može se donijeti i usmeno. Usmeno se rješenje unosi u zapisnik uz naznaku da će se otpravak pisanog rješenja izvršiti u roku od osam dana.

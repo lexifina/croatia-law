@@ -1,0 +1,3 @@
+# Članak 82.
+U provedbi nadzora nadzornik ima pravo i obvezu nadziranim osobama privremeno obustaviti djelatnosti, radnje i radove koji nisu u skladu sa Zakonom o zaštiti prirode, na temelju njega donesenim propisima i ovom Pravilniku, te zatražiti uspostavu prijašnjeg stanja, odnosno narediti mjere za sprječavanje i uklanjanje štetnih posljedica.
+U slučaju iz stavka 1. ovoga članka nadzornik može narediti i hitne mjere radi sprječavanja ili smanjivanja štete nastale zbog obavljanja radova, djelatnosti i radnji u Parku prirode, ili daljnjeg sprječavanja nastanka štete na prirodnim vrijednostima Parka prirode.

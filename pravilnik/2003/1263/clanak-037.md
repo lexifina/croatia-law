@@ -1,0 +1,6 @@
+# Članak 37.
+Na području Parka prirode nije dopušteno slobodno kretanje pasa. Psi se moraju držati vezani ili u ograđenom prostoru, te voditi na uzici.
+Lovački psi smiju se kretati Parkom prirode bez zabrane iz stavka 1. ovoga članka suglasno propisu koji uređuje pitanja lovnog reda lovoovlaštenika, i to samo na području Parka prirode gdje je lov dopušten.
+Iznimno, dopušteno je slobodno kretanje pasa na lokalitetu Poljanice, kada je to potrebno radi školovanja (dresure) službenih pasa ili školovanja (dresure) pasa vodiča invalidnih osoba.
+Organizatori aktivnosti iz stavka 4. ovog članka dužni su za njihovo obavljanje ishoditi suglasnost Ustanove.
+6.2. Prijevoz putnika, promet i parkiranje

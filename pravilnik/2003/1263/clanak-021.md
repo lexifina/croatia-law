@@ -1,0 +1,14 @@
+# Članak 21.
+Na području Parka prirode dopušten je rekreacijsko-športski ribolov, koji se može obavljati na za to predviđenim ribolovnim površinama.
+Rekreacijsko-športski ribolov je lov riba u svrhu rekreacije ili natjecanja, uz uporabu ribolovnog alata (štapa) sa ili bez role, strune i udice, te mamca postavljenog na ili uz udicu, pri čemu se riba kvači isključivo za usta, a ribolovni pribor je pod neposrednim nadzorom ribiča.
+Rekreacijsko-športski ribolov obavlja se sukladno odredbama ovoga Pravilnika i uvjeta zaštite prirode izdanih temeljem Zakona o zaštiti prirode.
+Rekreacijsko-športski ribolov dopušten je na ribolovnim površinama unutar Parka prirode, i to na akumulaciji Bistra, jezeru i ribnjaku kod Novog Zvečeva te ribnjacima kod Vetova i Kutjeva.
+Ustanova može i druge vodene površine proglasiti otvorenim za ribolov.
+Za ostvarivanje rekreacijsko-športskih aktivnosti na području Parka prirode Ustanova je dužna izraditi stručnu studiju kojom će se utvrditi način gospodarenja raspoloživim ihtio resursima.
+Stručna studija obrađuje: hidrografska, fizikalno-kemijska i biološka obilježja ribolovnih površina; kvalitativnu i kvantitativnu ihtio strukturu; mjere zaštite autohtonog ihtio fonda i način provođenja istih; mjere redukcije nazočnih alothonih ihtio vrsta; dnevne i godišnje ulovne kvote po vrstama riba; vrijeme lovostaja i najmanju dužinu ispod koje se pojedine vrste riba ne smiju zadržavati za koje to nije utvrđeno ovim Pravilnikom; najveću masu iznad koje se ribe ne smiju zadržavati (zbog trofejne vrijednosti); program poribljavanja; mjere zaštite prirodnih mrjestilišta; ribočuvarsku zaštitu i sl.
+Na temelju stručne studije, a sukladno odredbama ovoga Pravilnika, Ustanova propisuje vrijeme lovostaja i najmanju dužinu ispod koje se pojedine vrste ribe ne smiju loviti odnosno zadržavati za koje to nije utvrđeno ovim Pravilnikom, dopuštenu dnevnu i godišnju ulovnu kvotu po vrstama ribe i druga pitanja koja se mogu utvrditi u cilju zaštite riba sukladno stručnoj studiji.
+Ribiči su dužni pridržavati se uvjeta i načina obavljanja rekreacijsko-športskih ribolovnih aktivnosti propisanih odlukom Upravnog vijeća Ustanove i ovim Pravilnikom.
+Za obavljanje rekreacijsko-športskog ribolova plaća se Ustanovi naknada. Visinu naknade, kao i način plaćanja utvrđuje Upravno vijeće Ustanove.
+Ustanova je dužna organizirati i provoditi stalni stručni monitoring ribolovnih površina neposredno ili putem ovlaštenih institucija, donositi godišnji plan mjera koji se odnosi na gospodarenje ribolovnim resursima i njihovu eksploataciju te ga zajedno s podacima o sastavu i količini ulova u protekloj godini dostaviti Ministarstvu.
+Zabranjena je introdukcija alohtonih vrsta riba.
+Autohtone i alohtone vrste riba koje su nazočne na području Parka prirode utvrditi će se stručnom studijom.
