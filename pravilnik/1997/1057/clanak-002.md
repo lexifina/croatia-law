@@ -1,0 +1,5 @@
+# Članak 2.
+Korisnicima mirovina kojima visina razlike iznosi do 200,00 kn isplatit će se svota razlike jednokratno, a najkasnije do 30. lipnja 1997.
+Korisnicima tjelesnog oštećenja, doplatka za pomoć i njegu, privremene naknade, transferi (članak 132. ZOMIO), korisnicima kojima se mirovina isplaćuje ručno, korisnicima kojima se isplaćuje razlika mirovine, nakon ostavinske rasprave i korisnicima kojima je na razini jedne godine obračunata negativna razlika, a ukupno obračunata razlika pozitivna, bez obzira na visinu, razlika će se isplatiti jednokratno, a najkasnije do 30. lipnja 1997.
+Korisnicima mirovina kojima visina razlike iznosi 200,01 do 1.500,00 kn isplatiti će se svota razlike, počev od 1. svibnja 1997. najkasnije u roku od 10 mjeseci. Ako se razlika isplaćuje, nakon roka od 10 mjeseci, isplatit će se jednokratno.
+Korisnicima mirovina kojima visina razlike iznosi od 1.500,01 kn i više, isplatit će se svota razlike počevši od 1. svibnja 1997., najkasnije u roku od 16 mjeseci. Ako se razlika isplaćuje nakon roka od 16 mjeseci, isplatiti će se jednokratno.
