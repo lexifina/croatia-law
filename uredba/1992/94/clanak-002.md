@@ -1,0 +1,2 @@
+# Članak 2.
+Pod pojmom rabljenih gospodarskih motornih vozila i priključnih sredstava podrazumijevaju se: rabljeni autobusi, vučna vozila (šleperi-tegljači), privredna vozila - kamioni, specijalna motorna vozila i dostavna vozila, prikolice i poluprikolice, samohodni građevinski strojevi do snage od 250 KW, autodizalice, bageri, utovarivači, buldožeri, greideri, valjci i druga samohodna građevinska mehanizacija te traktori i osnovna poljoprivredna oprema. Popis osnovne poljoprivredne opreme u smislu ove uredbe, utvrdit će Ministarstvo poljoprivrede, šumarstva i vodoprivrede.
