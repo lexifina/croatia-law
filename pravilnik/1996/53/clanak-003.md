@@ -1,0 +1,2 @@
+# Članak 3.
+Osigurana osoba ostvaruje pravo na zdravstvenu zaštitu na području Republike Hrvatske prema odredbama Zakona o zdravstvenoj zašitti ("Narodne novine" br. 75/93, 11/94 - u daljnjem tekstu: Zakon) i Zakona o zdravstvenom osiguranju, te ovog Pravilnika, u zdravstvenim ustanovama ili kod zdravstvenih djelatnika privatne prakse s kojima je Zavod sklopio ugovor o pružanju zdravstvene zaštite (u daljnjem tekstu: ugovorna zdravstvena ustanova, odnosno ugovorni zdravstveni djelatnik).

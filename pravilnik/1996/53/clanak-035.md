@@ -1,0 +1,26 @@
+# Članak 35.
+Uputnica iz članka 21., stavke 3., članka 22. i članka 26., stavke 2. ovog Pravilnika je propisana tiskanica Zavoda koja mora sadržavati:
+1. puni naziv Zavoda,
+2. broj područnog ureda Zavoda osigurane osobe,
+3. broj područnog ureda Zavoda obveznika uplate doprinosa,
+4. broj osigurane osobe,
+5. oznaku osnove osiguranja,
+6. oznaku nositelja ili člana obitelji,
+7. rok valjanosti iskaznice,
+8. JMBG ili MB (matični broj stranaca),
+9. oznaku države osiguranja (za ino-osigurane osobe),
+10. ime i prezime osigurane osobe,
+11. adresu stanovanja osigurane osobe,
+12. broj obveze,
+13. oznaku o nesudjelovanju osigurane osobe u troškovima liječenja,
+14. oznaku uputnice,
+15. oznaku vrste zdravstvene zaštite koju se uputnicom zahtijeva (specijalistički pregled, bolničko liječenje, dijagnostička pretraga i ambulantno liječenje) s naznakom njene šifre,
+16. naziv zdravstvene ustanove i ordinacije u koju se osiguranu osobu upućuje,
+17. uputnu dijagnozu,
+18. šifru dijagnoze prema Međunarodnoj klasifikaciji bolesti, ozljeda i uzroka smrti,
+19. pečat zdravstvene ustanove ili ordinacije privatne prakse,
+20. šifru zdravstvene ustanove ili ordinacije privatne prakse,
+21. potpis i faksimil sa šifrom izabranog doktora,
+22. oznaku serije i broja uputnice,
+23. mjesot i datum izdavanja uputnice.
+Podatke iz stavke 1. od točke 2. do 11. ovog članka, na tiskanicu uputnice unosi se preslikom s iskaznice zdravstveno osigurane osobe, odnosno čitljivim upisom podataka iz tiskanice, koji mora biti izvršen tintom ili kemijskom olovkom plave ili crne boje.
