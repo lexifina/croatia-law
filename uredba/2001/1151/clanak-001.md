@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Pravne i fizičke osobe koje upravljaju otvorenim prostorima (tržnice na malo, tržnice na veliko, prigodne prodaje, sajmovi, izložbe, priredbe i sl.) na kojima se obavlja prodaja poljoprivrednih, prehrambenih i drugih proizvoda, ne smiju na svojim prostorima dopustiti ili na bilo koji drugi način omogućiti, da prodaju tih proizvoda obavljaju pravne i fizičke osobe koje nisu registrirane, odnosno nemaju odobrenje za obavljanje djelatnosti trgovine, kao ni prodaju proizvoda koji se prema posebnim propisima ne mogu prodavati na tim prostorima.
+(2) Fizičke osobe koje se bave poljoprivrednom proizvodnjom mogu vlastite poljoprivredne proizvode slobodno prodavati na prostorima iz stavka 1. ovoga članka u skladu s posebnim propisima.
