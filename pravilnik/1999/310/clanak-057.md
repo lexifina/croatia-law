@@ -1,0 +1,3 @@
+# Članak 57.
+Na naljepnici krvnog pripravka pripravljenog od više davatelja uz podatke iz članka 56. ovog Pravilnika mora biti označeno: naziv krvnog pripravka; približni volumen ili broj doza i identifikacijski broj prema kojem se mogu pronaći pojedinačne doze, odnosno identificirati davatelje iz čijih doza krvi ili krvnih sastojaka je pripravljen taj pripravak ili identifikacijski brojevi svih doza krvi ili krvnih sastojaka iz kojih je pripravljen taj pripravak.
+Zdravstvena ustanova koja je priredila krvne sastojke iz stavka 1. ovoga članka u dokumentaciji treba čuvati identifikacijski broj svake doze iz koje je pripravljen taj pripravak.

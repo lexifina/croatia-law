@@ -1,0 +1,16 @@
+# Članak 17.
+Privremeno se isključuju kao davatelji krvi:
+- na 12 sati osobe koje su u alkoholiziranom stanju i osobe prije rada na opasnim poslovima,
+- na 48 sati osobe nakon cijepljenja s mrtvim cjepivom, bakterijskim i rikecijskim cjepivima kao i cjepivima dobivenim na ljudskim diploidnim stanicama, životinjskim embrionalnim stanicama ili cjepivima dobivenim rekombinantnom tehnologijom (cjepiva protiv kolere, difterije, hepatitisa A i B, influence, poliomijelitisa (parenteralno primijenjenog cjepiva) krpeljnog encefalitisa, paratifusa, tetanusa, tifusa i cjepiva protiv polija dobivena metodom prema Salku).
+- na 72 sata sve osobe koje imaju lakše akutne bolesti kao što su hunjavica, prehlada, akutne sezonske alergije, osobe koje uzimaju acetilsalicilnu kiselinu ili druge antiinflamatorne lijekove i nakon vađenja zuba,
+- na 1 tjedan nakon preboljene influence ili bolesti sa sličnim simptomima, te ukoliko je bolesnik imao temperaturu iznad 380C.
+- na 2 tjedna osobe od prestanka bolesti u kojoj je bolesnik liječen antibioticima,
+- na 4 tjedna osobe cijepljene s oslabljenim cjepivima protiv ospica, variole, vodenih kozica, zaušnjaka, polija (oralno), kolere (oralno) žute groznice, BCG-a i rubeole, osobe nakon prestanka uzimanja isotretinidina, antiaritmika i analeptika,
+- na 6 mjeseci osobe nakon manjih kirurških zahvata, abortusa i osobe koje su bile u kontaktu s bolesnicima koji su imali hepatitis B ili C, osobe koje su putovale u područja s endemskom malarijom, ali nisu obolile i nisu preventivno uzimale lijekove protiv malarije,
+- na jednu godinu osobe koje su prebolile hepatitis A, osobe koje su bile tetovirane, osobe nakon preboljelih spolnih zaraznih bolesti, nakon većih kirurških operacija, većih ozljeda i uvijek kada je postojala mogućnost zaraze putem kože ili sluznica, nakon transfuzija krvi i krvnih sastojaka, nakon primjene HBIG-a, nakoj primjene derivata plazme priređenih iz mješavine plazme sakupljane od velikog broja davatelja, nakon cijepljenja protiv rabiesa u osoba koje su bile ugrižene ili je došlo do njihovog izlaganja virusima rabiesa,
+- na 2 godine osobe koje su prebolile hepatitis B pod uvjetom da su HBsAg i anti HBc negativne, a ALT je u granicama normale i nakon osteomijelitisa,
+- do 3 godine od osobe koje su imale malariju ili su stanovale u području s endemskom malarijom duže od 5 godina, a nisu uzimale antimalarične lijekove ili su preboljele malariju i imunološki test je postao negativan,
+- na 5 godina osobe koje su prebolile tuberkulozu,
+- kroz razdoblje određeno najdužom inkubacijom osobe koje su bile u kontaktu sa zaraznim bolestima,
+- za vrijeme laktacije i trudnoće toliko mjeseci koliko je trajala trudnoća.
+Uzimanje lijekova ukazuje da je davatelj bolestan ili je bio bolestan te u tom slučaju treba ispitati kliničke razloge uzimanja lijekova i ne smije se uzeti krv ili krvni sastojak od osobe čije bi zdravlje moglo biti ugroženo uzimanjem krvi ili krvnog sastojka ili bi zdravlje bolesnika moglo biti ugroženo transfuzijama krvnih pripravaka zbog bolesti davatelja ili djelovanja lijeka. Uzimanje krvi ili krvnog sastojka treba odgoditi za razdoblje koje ovisi o farmakokinetici i nestanku lijeka iz davateljeve krvi.

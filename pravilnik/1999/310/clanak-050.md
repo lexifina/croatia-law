@@ -1,0 +1,2 @@
+# Članak 50.
+Krioprecipitat se priprema polaganim otapanjem svježe smrznute plazme na 40C i sterilnim odvajanjem plazme-supernatanta od netopivog taloga. U više od 75% testiranih doza treba biti više od 70 i.j. FVIII, i više od 140 mg fibrinogena. Volumen doze je 10-20 ml. Rok valjanosti krioprecipitata je 24 mjeseca kada je čuvan na temperaturi nižoj od -400C, 6 mjeseci na -250C do - 300C, 3 mjeseca na -180C do -250C. Smrznut, a zatim otopljen krioprecipitat mora se primijeniti u roku od 4 sata.

@@ -1,0 +1,2 @@
+# Članak 88.
+Na temelju identifikacijskog broja iz članka 87. ovoga Pravilnika treba se omogućiti praćenje svakog krvnog pripravka, od uzimanja krvi ili krvnog sastojka do njenog transfundiranja ili uništavanja krvnog pripravka proizvedenog iz njih kao i utvrđivanje podataka u dokumentaciji o davatelju krvi, laboratorijskom ispitivanju i načinima priprave, provjerama kakvoće, izdavanju, transportu, čuvanju i primjeni.

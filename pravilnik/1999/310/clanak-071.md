@@ -1,0 +1,2 @@
+# Članak 71.
+Na obrascu za izdavanje krvnog pripravka za određenog bolesnika moraju biti navedeni sljedeći podaci: naziv ustanove, datum, bolesnikovo ime i prezime, identifikacijski broj, odjel, AB0 i Rh(D) krvna grupa, davateljev identifikacijski broj ili identifikacijski broj krvnog pripravka, AB0 i Rh(D) krvna grupa traženog krvnog pripravka i rezultat križne probe. Obrazac koji prati dozu krvi sastavni je dio povijesti bolesti.

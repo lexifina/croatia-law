@@ -1,0 +1,2 @@
+# Članak 76.
+Zahtjev za krvne pripravke za transfuzijsko liječenje propisuje doktor medicine. Transfuzija krvnih pripravaka smije se dati samo pod nadzorom doktora medicine. Prije transfuzije mora biti provedena pozitivna identifikacija bolesnika, krvnog pripravka, rezultata laboratorijskog ispitivanja i ti podaci uspoređeni sa podacima na obrascima kojima se zahtjeva transfuzija i koji prate krvne pripravke.

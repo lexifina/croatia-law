@@ -1,0 +1,3 @@
+# Članak 3.
+Za obavljanje poslova iz članka 2. ovoga Pravilnika dozvolu transfuzijskoj jedinici daje i obnavlja Ministarstvo zdravstva na određeno vrijeme od dvije godine nakon što se utvrdi da su ispunjeni uvjeti u pogledu prostora, opreme i djelatnika propisani ovim Pravilnikom, Pravilnikom o dobroj proizvođačkoj praksi, Pravilnikom o dobroj laboratorijskoj praksi i Standardima i uputama za rad u transfuzijskoj djelatnosti u Republici Hrvatskoj koje donosi Hrvatski zavod za transfuzijsku medicinu (u daljnjem tekstu: Standardi).
+Dozvola iz stavka 1. ovoga članka daje se uz prethodno mišljenje Hrvatskog zavoda za transfuzijsku medicinu.

@@ -1,0 +1,4 @@
+# Članak 45.
+Koncentrat trombocita priprema se diferencionalnim centrifugiranjem krvi stare do 6 sati i izdvajanjem trombocita. Broj trombocita u 75% ili više doza pripravljenih iz plazme bogate trombocitima treba biti viši od 6,0x1010/dozi. Broj trombocita u 75% ili više doza pripravljenih iz leukocitno trombocitnog međusloja (buffy coat) treba biti viši od 4,5x1010. Broj trombocita mora biti manji od 1,5x10 /mL. Broj leukocita je između 0,05-0,2x109 /dozi i broj eritrocita od 0,2 - 1,0x109/dozi. Volumen plazme u trombocitnom koncentratu treba biti 50-60 ml.
+Koncentrat trombocita može se pripraviti trombaferezom. Broj trombocita u 75% ili više trombocitnih koncentrata treba biti 2 - 8x1011. Volumen plazme mora biti veći od 40 mL za svakih 6x1010 trombocita. Broj leukocita je niži od 1x109/dozi.
+Na dan isteka roka valjanosti pH plazme mora biti 6,5-7,4. Koncentrat trombocita čuva se na 20 do 240C. Rok valjanosti je 3 do 5 dana ovisno o plastici vrećice.

@@ -1,0 +1,12 @@
+# Članak 24.
+Preoperativno davanje autologne krvi ili krvnog sastojka jest uzimanje i konzerviranje krvi ili krvnih sastojaka od davatelja-bolesnika koje su namijenjene za transfuzijsko liječenje te iste osobe.
+Za preoperativno uzimanje autologne krvi ili krvnog sastojka potreban je pristanak davateljeva liječnika, odnosno bolesnika, kao i liječnika u transfuzijskoj ustanovi.
+Krvni pripravak treba biti označen s "Autologna transfuzija" i na naljepnici mora biti napisano ime davatelja - bolesnika.
+Krvni pripravak namijenjen za autolognu transfuziju ne smije se koristiti za homolognu transfuziju u liječenju drugog bolesnika.
+Davatelji krvi ili krvnog sastojka za autolognu transfuziju ispituju se na isti način i moraju zadovoljavati sve zahtjeve kao i davatelj krvi za homologne transfuzije. Ukoliko se za davatelja autologne krvi ili krvnih sastojaka žele primijeniti drugi kriteriji, tada novi kriteriji moraju biti opisani u radnim uputama i odobreni od bolničkog povjerenstva za transfuzijsko liječenje ili lijekove. Laboratorijska ispitivanja koja se primjenjuju u ispitivanju krvnih pripravaka za homologne transfuzije moraju se primijeniti i u ispitivanju krvnih pripravaka za autologne transfuzije.
+U predtransfuzijskom ispitivanju treba napraviti križnu probu kojom se otkriva ABO inkompatibilnost.
+Krv ili krvni sastojak za autologne transfuzije može od bolesnika biti uzeta neposredno prije operacije ili iz operativnog područja za vrijeme operacija i zatim tansfundiran bolesniku za vrijeme ili nakon operacije.
+Interoperativno uzeta krv ili krvni sastojak ne smije se transfundirati drugim bolesnicima.
+Kriteriji za odabir davatelja za intraoperativno uzimanje krvi ili krvnog sastojka za autologne transfuzije, način uzimanja krvi ili krvnog sastojka, miješanje s antikoagulantnom otopinom, svi postupci koji se rade s krvi ili krvnim sastojkom, način obilježavanja i transfuzije - vraćanje bolesniku moraju biti opisane u radnim uputama i odobreni od bolničkog povjerenstva za transfuzijsko liječenje ili lijekove.
+Krv za autologne transfuzije može se uzeti drenažom nakon operacije srca, raznih ortopedskih operacija i nakon penetrirajućih ili tupih ozljeda prsnog koša.
+Postoperativno ili posttraumatski uzeta krv ili krvni sastojak ne smije se transfundirati drugim bolesnicima. Krv ili krvni sastojak uzet postoperativno ili posttraumatski može biti transfundiran unutar 6 sati od uzimanja krvi ili krvnog sastojka, a kada je prekoračeno to vrijeme krvni pripravak mora biti uništen.

@@ -1,0 +1,2 @@
+# Članak 42.
+Smrznuta plazma priprema se izdvajanjem plazme iz konzervirane krvi stare od 8 sati do 5 dana nakon uzimanja krvi i zamrzavanjem na temperaturi nižoj od -180C. Volumen doze uz dozvoljeno odstupanje od (+-) 10% mora biti napisan na naljepnici. Kada je priređen u zatvorenom sistemu čuva se na temperaturi 2-60C do 14 dana, ili 12 mjeseci na temperaturi -200C do -300C ili 24 mjeseca na temperaturi nižoj od -300C.

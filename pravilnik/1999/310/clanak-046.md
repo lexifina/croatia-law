@@ -1,0 +1,2 @@
+# Članak 46.
+U koncentratu trombocita sa smanjenim brojem leukocita mora se nalaziti više od 4,5x1010 trombocita i manje od 1x106 leukocita. Volumen doze uz dozvoljeno odstupanje od (+-) 10% napisan je na naljepnici. pH treba biti 6,5-7,4. Kada je koncentrat trombocita sa smanjenim brojem leukocita priređen zatvorenom metodom, tada je rok valjanosti isti kao i za koncentrat trombocita iz kojeg je priređen, a kada je probijena sterilna barijera rok valjanosti je 24 sata. Čuva se na temperaturi 20-240C.

@@ -1,0 +1,2 @@
+# Članak 21.
+U transfuzijskoj jedinici vodi se registar davatelja koji su privremeno ili trajno odbijeni zbog preboljele zarazne bolesti ili je u njihovoj krvi potvrdnim testom dokazana prisutnost uzročnika zaraznih bolesti ili je transfuzija krvnog pripravka priređena iz krvi ili krvnog sastojka od toga davatelja uzrokovala bolest. Krvni pripravci pripremljeni od tih davatelja se ne smiju upotrijebiti za transfuzijsko liječenje ili pripravu derivata plazme. Podaci u registru su liječnička tajna.

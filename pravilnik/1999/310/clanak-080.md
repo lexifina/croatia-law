@@ -1,0 +1,2 @@
+# Članak 80.
+Svaka transfuzijska jedinica koje se bavi prikupljanjem, pripravom ili prometom krvi, krvnih sastojaka ili krvnih pripravaka i transfuzijskim liječenjem mora imati napisane radne upute sukladne Pravilniku o dobroj proizvođačkoj praksi i Standardima. U radnim uputama detaljno moraju biti opisani svi postupci koji su značajni za uzimanje krvi, laboratorijsko testiranje, pripravu, provjeru kakvoće, čuvanje, izdavanje, transport krvnih pripravaka za transfuzijsko liječenje.

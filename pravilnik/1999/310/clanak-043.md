@@ -1,0 +1,2 @@
+# Članak 43.
+Plazma iz koje je izdvojen krioprecipitat istovjetna je svježe smrznutoj plazmi osim koncentracije F VIII, F V i fibrinogena koji je znatno niži. Volumen doze uz dozvoljeno odstupanje od (+-) 10% mora biti na naljepnici. Kada je priređena u zatvorenom sistemu čuva se na temperaturi 2-60C do 14 dana ili 12 mjeseci na temperaturi -200C do -300C ili 24 mjeseca na temperaturi nižoj od -300C.

@@ -1,0 +1,2 @@
+# Članak 4.
+Način rada, odabir davatelja, uzimanje krvi i krvnih sastojaka, laboratorijsko ispitivanje, priprava krvnih pripravaka, provjera kakvoće, označavanje, čuvanje, izdavanje, vraćanje, transport krvnih pripravaka, predtransfuzijsko laboratorijsko ispitivanje, izbor krvnog pripravka i primjena u transfuzijskom liječenju, kao i uvjeti rada koje moraju zadovoljiti transfuzijske jedinice trebaju biti sukladni Pravilniku o dobroj proizvođačkoj praksi, Pravilniku o dobroj laboratorijskoj praksi i Standardima.

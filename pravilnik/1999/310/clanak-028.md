@@ -1,0 +1,4 @@
+# Članak 28.
+Osoba čija krv je HBsAg, anti-HIV 1/2, anti-HCV ili TPHA/VDRL reaktivna ili pozitivna ne smije biti davatelj krvi i krvnih sastojaka, a uzetu krv ili krvne sastojke od toga davatelja i pripravljene krvne sastojke treba uništiti.
+Potvrdnim testovima treba se ispitati i dokazati specifičnost rezultata laboratorijskog ispitivanja.
+HBsAg, anti-HCV i VDRL/TPHA opetovano reaktivnog ili pozitivnog davatelja treba pismeno obavijestiti o rezultatima laboratorijskog testiranja. Anti-HIV 1/2 opetovano reaktivnog ili pozitivnog davatelja treba obavijestiti usmeno i pismeno. Sve davatelje čiji su rezultati laboratorijskog ispitivanja biljega zaraznih bolesti pozitivni treba uputiti u nadležnu zdravstvenu ustanovu i o tome obavijestiti nadležni zavod za javno zdravstvo sukladno Zakonu o zaštiti pučanstva od zaraznih bolesti.

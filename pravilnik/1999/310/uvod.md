@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2., članka 12. stavka 2. i 4., članka 16. stavka 7., članka 44. i članka 50. stavka 3. Zakona o lijekovima i medicinskim proizvodima ("Narodne novine" broj 124/97) ministar zdravstva donosi

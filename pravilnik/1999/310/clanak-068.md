@@ -1,0 +1,2 @@
+# Članak 68.
+Na uputnici koja prati uzorak krvi bolesnika za laboratorijsko ispitivanje moraju se nalaziti podaci za njegovu identifikaciju. Najmanje mora biti navedeno: naziv ustanove, bolesnikovo ime i prezime, identifikacijski broj, datum, odjel, bolesnikova dijagnoza, laboratorijska ispitivanja koja je potrebno napraviti, broj ranijih transfuzija, trudnoća i poroda, rezultati značajnih ranijih laboratorijskih ispitivanja i potpis doktora medicine koji je poslao uzorak krvi za laboratorijsko ispitivanje. Kada se radi o novorođenčetu treba još pisati spol i datum rođenja.

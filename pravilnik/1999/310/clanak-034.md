@@ -1,0 +1,2 @@
+# Članak 34.
+Koncentrat eritrocita bez trombocitno-leukocitnog međusloja je pripravak priređen odvajanjem plazme trombocitno-leukocitnog međusloja. Koncentrat eritrocita nakon odvajanja trombocitno-leukocitnog međusloja ima volumen 250 (+-) 50 mL, hematokrit 0,7 (+-) 0,05 hemoglobin viši od 43 g/dozi, broj leukocita manji od 1,2x109/dozi. Zadnjeg dana čuvanja ne smije biti hemolizirano više od 0,8% eritrocita. Rok valjanosti ovisan je o antikoagulantnoj otopini. Čuva se na temperaturi 2-60C.

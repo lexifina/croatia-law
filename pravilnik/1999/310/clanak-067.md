@@ -1,0 +1,2 @@
+# Članak 67.
+Prije uzimanja uzorka za laboratorijsko ispitivanje zdravstveni djelatnik mora identificirati bolesnika. Na naljepnici epruvete u kojoj se nalazi uzorak krvi za laboratorijsko ispitivanje moraju biti navedeni sljedeći podaci: ime ustanove, odjel, datum, bolesnikovo ime i prezime i identifikacijski broj. Naljepnicu treba pričvrstiti za epruvetu prije nego zdravstveni djelatnik napusti bolesnika. Naknadno označavanje i dopisivanje podataka na naljepnicu nije dozvoljeno. Kad se radi o novorođenčetu treba još pisati spol i datum rođenja.

@@ -1,0 +1,2 @@
+# Članak 47.
+Koncentrat opranih trombocita priređuje se prvo pripravom koncentrata trombocita, a zatim njegovim pranjem sa fiziološkom otopinom. U koncentratu mora ostati manje od 0,5 g proteina/dozi, uz gubitak trombocita koji nije veći od 20%. Volumen koncentrata uz dozvoljeno odstupanje od (+-) 10% mora biti napisan na naljepnici. Koncentrat se čuva na temperaturi 20 do 240C. Rok valjanosti je 24 sata.

@@ -1,0 +1,2 @@
+# Članak 48.
+Koncentrat leukocita priprema se leukocitaferezom ili diferencijalnim centrifugiranjem krvi. Volumen doze uz dozvoljeno odstupanje od (+-) 10% treba biti napisan na naljepnici. Volumen doze priređene leukaferezom ne smije biti viši od 500 mL. U 75% koncentrata dobivenih leukocitaferezom treba biti više od 1x1010 granulocita. U koncentratu leukocita pripremljenom iz 500 mL krvi treba biti više od 1x109 granulocita. Čuva se na temperaturi od 20 do 240C. Rok valjanosti je 24 sata.

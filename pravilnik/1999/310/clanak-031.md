@@ -1,0 +1,2 @@
+# Članak 31.
+Konzervirana krv je pripravak dobiven uzimanjem krvi od davatelja miješanjem a antikoagulantnom otopinom u određenom odnosu. Standardna doza je 450 (+-) 10 mL. Hemoglobin treba biti viši od 45 g/dozi. Volumen doze uz dozvoljeno odstupanje od (+-) 10% mora biti naveden na naljepnici. Rok valjanosti ovisan je o antikoagulantnoj otopini. Zadnjeg dana čuvanja ne smije biti hemolizirano više od 0,8% eritrocita. Na naljepnici vrećice mora biti naveden volumen doze i rok valjanosti. Čuva se na temperaturi 2-60C.

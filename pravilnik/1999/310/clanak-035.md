@@ -1,0 +1,2 @@
+# Članak 35.
+Koncentrat eritrocita u neproteinskoj, hranjivoj otopini je pripravak koji se priređuje odvajanjem većeg dijela plazme nakon centrifugiranja doze krvi. Eritrocitima se dodaje neproteinska, hranjiva otopina (npr. SAGM-sukroza, adenin, glukoza, manitol). Volumen koncentrata je 350 (+-) 70 mL, hematokrit je 0,60 (+-) 10, hemoglobin viši od 45 g/dozi. Zadnjeg dana čuvanja ne smije biti hemolizirano više od 0,8% eritrocita. Rok valjanosti za koncentrat eritrocita u SAGM je 35 dana. Čuva se na temperaturi 2-60C.
