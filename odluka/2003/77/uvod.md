@@ -1,0 +1,1 @@
+Na temelju članka 30a. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« broj 117/93., 69/97., 33/00., 127/00., 59/01. i 107/01) i članka 24. točke 5. Statuta Općine Bizovac (»Službeni glasnik Općine Bizovac« broj 2/01.), Općinsko vijeće Općine Bizovac na 15. sjednici održanoj 23. prosinca 2002. godine donosi
