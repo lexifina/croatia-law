@@ -1,0 +1,4 @@
+# Članak 72.
+Krem-proizvodima mogu se dodavati kava, lješnjak, orah, badem, kikiriki i drugo jezgričavo voće, a i njihove prerađevine (grilaž, krokant i sl.), nugat-mase, grožđice, kandirano voće, sušeno voće, povrće, kesten, i drugi voćni proizvodi, kokosovo brašno, riža, sirutka u prahu, bjelančevine mlijeka, sladni ekstrakt, sojino brašno i strukturna sojina bjelančevina, uz uvjet da u gotovom proizvodu ne može biti manje od 5% odnosno više od 12% navedenih dodataka, osim proizvoda od žitarica (ekspandirani, ekstrudirani - kripsi i sl.), kojih ne smije biti manje od 4% računano na proizvod.
+Krem-proizvodi s kavom moraju sadržavati najmanje 2% fino samljevene pržene kave računano na proizvod.
+Krem-proizvodima mogu se dodati bez posebnog deklariranja, u ukupnoj količini do 5%, dodaci navedeni u stavku 1. ovog članka.

@@ -1,0 +1,6 @@
+# Članak 59.
+Proizvodima sličnim čokoladi mogu se dodavati: kava, sladni ekstrakt, sezam, mak, kesten, kikiriki, jezgričavo voće i njihove prerađevine (grilaž, krokant i sl.), voćni proizvodi, rogač, kesten, voće i drugi voćni proizvodi, kokosovo brašno, pšenične klice, kukuruzne i zobene pahuljice, proizvodi od žitarica (ekspandirani, ekstrudirani - krispi i sl.), sirutka u prahu, bjelančevine mlijeka, sojino brašno i strukturna sojina bjelančevina.
+Proizvodi slični čokoladi s kavom moraju sadržavati najmanje 2% fino samljevene pržene kave računano na suhu tvar proizvoda.
+Proizvodi slični čokoladi u koje se dodaju proizvodi od žitarica (ekspandirani, ekstrudirani - krispi i sl.), sojini proizvodi i kokosovo brašno moraju sadržavati najmanje 4%, a najviše 12% tih dodataka, računano na suhu tvar proizvoda.
+Proizvodi slični čokoladi moraju sadržavati najmanje 12%, a najviše 30% od ovih sastojaka: sladni ekstrakti, kikiriki, sezam, mak, kesten, rogač, jezgričavo voće, a i njihove prerađevine (grilaž, krokant i sl.), voćne proizvode, sirutku u prahu i bjelančevine mlijeka.
+Proizvodima sličnim čokoladi mogu se dodati, bez posebnog deklariranja u nazivu proizvoda, u ukupnoj količini do 5%, dodatne sirovine navedene u odredbi stavka 4. ovog članka.

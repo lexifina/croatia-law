@@ -1,0 +1,5 @@
+# Članak 47.
+Čokoladni deserti jesu proizvodi koji se dobivaju tako da se konditorskim proizvodima doda čokoladna masa, ili se pojedina tekuća, polutekuća, kruta, polukruta ili pjenasta punjenja preliju čokoladnim preljevom, odnosno uliju u šuplje čokoladne modele raznih oblika (preliveni čokoladni deserti, punjeni čokoladni deserti, djelimično preliveni čokoladni deserti i dr.).
+Za čokoladne deserte iz stavka 1. ovog članka mogu se kao dodatne sirovine upotrijebiti: badem, orah, lješnjak, kikiriki, kokosovo brašno, sojino brašno i strukturna sojina bjelančevina, flipsi, keks ili list vafle kao podloga, sušeno i kandirano voće, sezam, mak, kesten ili proizvodi od žitarica (ekspandirani, ekstrudirani-krispi i sl.).
+Preliveni čokoladni deserti iz stavka 1. ovog članka moraju sadržavati najmanje 22% čokoladne mase, a punjeni čokoladni desert i drugi deserti najmanje 40% čokoladne mase računano na proizvod.
+Djelimično preliveni čokoladni deserti iz stavka 1. ovog članka moraju sadržavati najmanje 8% čokoladne mase, računano na proizvod.

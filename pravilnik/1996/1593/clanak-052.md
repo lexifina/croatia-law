@@ -1,0 +1,5 @@
+# Članak 52.
+U deklaraciji za čokoladu mase veće od 100 g, osim podataka iz članka 6. stavka 2. ovog pravilnika, moraju biti naznačeni: minimalna količina kakao-dijelova, izražena u postocima, a za mliječnu čokoladu - i minimalna količina mliječne masti izražena u postocima, računano na proizvod, za čokoladu s dodacima - minimalni udio kakao-dijelova, a za mliječnu čokoladu s dodacima - i minimalni udio mliječne masti u čokoladnoj odnosno mliječnoj čokoladnoj masi, izražen u postocima računano na proizvod.
+Čokoladu s dodacima navedenim u odredbi članka 41. stavka 1. ovog pravilnika mora u deklaraciji imati naznačeno koji dodatak sadrži (na pr. čokolada s lješnjakom i sl.).
+U deklaraciji za ostale čokoladne proizvode mase veće od 100 g., osim podataka iz članka 6. stavka 2. ovog pravilnika, mora biti naznačen i minimalni udio kakao-dijelova, a za proizvode s mliječnom čokoladnom masom - i minimalni udio mlječne masti u čokoladnoj odnosno mliječnoj čokoladnoj masi, izražen u postocima na proizvod.
+2. Proizvodi slični čokoladi
