@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u RH i provoza preko područja RH živih domaćih papkara (goveda, ovaca, koza i svinja) i divljih papkara, proizvoda od papkara kao i životinjske hrane i stelje podrijetlom iz Uj
