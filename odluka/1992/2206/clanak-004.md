@@ -1,0 +1,2 @@
+# Članak 4.
+Ako cestovno motorno vozilo bude otuđeno tijekom razdoblja za koje je plaćena godišnja naknada novi imalac vozila nije dužan platiti naknadu za to razdoblje, ako je prijašnji imalac vozila platio naknadu prema članku 2. iz ove odluke. Imaoci cestovnog motornog vozila, čije je vozilo odjavljeno, imaju pravo na povrat dijela godišnje naknade iz članka 2. ove odluke, razmjerno razdoblju u kojem se vozilo prestalo koristiti, računajući od dana odjave vozila.
