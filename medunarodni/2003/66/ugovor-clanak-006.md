@@ -1,0 +1,4 @@
+# Članak 6.
+Obaveza predaje i prihvata
+(1) Zamoljena strana će, na zahtjev strane moliteljice, prihvatiti na svoje državno područje državljanina treće države, kao i osobu bez državljanstva, koja ne ispunjava ili više ne ispunjava uvjete za ulazak ili za boravak na državnom području strane moliteljice, a prethodno je boravila na državnom području zamoljene strane i izravno ušla na državno područje strane moliteljice.
+(2) Zamoljena strana će na zahtjev strane moliteljice, prihvatiti državljanina treće države ili osobu bez državljanstva koja ne ispunjava ili više ne ispunjava uvjete za ulazak, odnosno boravak, koji se primjenjuju na državnom području strane moliteljice, ukoliko ta osoba ima važeću vizu, osim neiskorištene tranzitne vize, ili drugo odobrenje za boravak koje je izdala zamoljena strana.
