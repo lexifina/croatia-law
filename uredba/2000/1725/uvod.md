@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 2. i 3. Zakona o doplatku za djecu (»Narodne novine«, br. 77/99, 145/99, 25/2000, 41/2000 i 64/2000), Vlada Republike Hrvatske je na sjednici održanoj 24. kolovoza 2000. godine donijela
