@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza II. kategorije Prezid
+# Članak 1.
+Stalni međunarodni cestovni granični prijelaz II. kategorije Prezid nalazi se u blizini mjesta Prezid, Grad Čabar, na dijelovima k.č. 5067/2 i 5067/3 k.o. Prezid, a obuhvaća djelomično ograđeni prostor na državnoj cesti D-32 koja presijeca državnu granicu s Republikom Slovenijom, od granične crte jugoistočno 90 m do područja obavljanja granične kontrole i 75 m od područja obavljanja granične kontrole u dubinu teritorija Republike Hrvatske, u ukupnoj dužini od 165 m i širini 70 m, gdje se nalaze dvije ulazne i dvije izlazne prometne trake s nadstrešnicom, ispod koje se nalazi i zajednički objekt granične policije i carine.
+Područje graničnog prijelaza obuhvaća i djelomično ograđeni prostor s lijeve strane državne ceste D-32 gledano u pravcu granične crte na kojemu se nalazi objekt pratećih službi, objekt skladišnog prostora tvrtke »Finvest Corp« d.d. Čabar i parkirališni prostor za osobna vozila i kamione do vanjskog ruba žičane ograde.
+Ukupna površina graničnog prijelaza je 9 500 m2.
