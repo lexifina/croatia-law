@@ -1,0 +1,1 @@
+Na osnovi odredbi člana 137. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine", br. 8/89), a u vezi s odredbom člana 38. Zakona o izmjenama i dopunama Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Narodne novine", br. 31/90). Skupština Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske, 10. listopada 1990. godine, donijela je
