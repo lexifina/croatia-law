@@ -1,0 +1,1 @@
+U Popisu brojčanih oznaka mjerodavnih jedinica Zavoda za platni promet, ispostava područnih ureda Porezne uprave i gradova-općina po županijama i ispostavama područnih ureda Porezne uprave objavljenom uz Naredbu treba za Ispostavu područnog ureda Porezne uprave Zaprešić stajati slijedeći tekst.
