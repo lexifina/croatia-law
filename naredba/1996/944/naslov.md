@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske goveda i ovaca te životinjskih proizvoda podrijetlom od navedenih vrsta iz Ujedinjenog Kraljevstva i Republik
