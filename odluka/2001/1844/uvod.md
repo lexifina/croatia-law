@@ -1,0 +1,1 @@
+Na temelju članka 68. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine« 33/01), članka 3. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« 117/93, 69/97, 33/00, 127/00 i 59/01), članka 27. Statuta Općine Staro Petrovo Selo, Općinsko vijeće na 7. sjednici održanoj 3. prosinca 2001. godine, donijelo je
