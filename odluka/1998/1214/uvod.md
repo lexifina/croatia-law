@@ -1,0 +1,1 @@
+Na temelju članka 21., 22. i 23. Zakona o bankama i štedionicama ("Narodne novine" br. 46/97 - pročišćeni tekst) i članka 67. stavka 1. točke 23. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" br. 35/95 - pročišćeni tekst), Savjet Hrvatske narodne banke, na sjednici održanoj 23. lipnja 1998. godine, donio je
