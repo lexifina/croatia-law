@@ -1,0 +1,3 @@
+# Članak 7.
+Polaznik temeljnog tečaja koji je na ispitu ocijenjen ocjenom »nedovoljan« iz najviše dva predmeta, može ponovno pristupiti polaganju ispita iz tih predmeta u roku od trideset dana.
+Polaznik tečaja koji s nastave izostane opravdano 1/6 od ukupno predviđenog fonda nastavnih sati i više, ponovit će tečaj. Zbog posebno opravdanih zdravstvenih razloga može se dozvoliti polaganje (provjera uspješnosti pohađanja tečaja) ispita bez ponavljanja tečaja polazniku koji s nastave opravdano izostane do 1/6 od ukupno predviđenog fonda sati. Odluku o polaganju ispita donosi povjerenstvo koje čine: upravitelj Centra, tajnik Centra i jedan od predavača na tečaju kojeg odredi ravnatelj Uprave za zatvorski sustav (u daljnjem tekstu: ravnatelj).
