@@ -1,0 +1,5 @@
+Obrazloženje:
+Dragutin Peričić iz Križevaca podnio je ovom sudu prijedlog za pokretanje postupka za ocjenu ustavnosti odredaba članka 9. stavka 3., članka 15. stavka 2. i članka 19. Zakona o samodoprinosu radnih ljudi i građana za zadovoljavanje njihovih zajedničkih potreba u mjesnoj zajednici ("Narodne novine", br. 32/77)
+U tijeku postupka pred ovim Sudom temeljem izričite odredbe članka 17. Zakona o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi ("Narodne novine", br. 117/93) prestao je važiti Zakon o samodoprinosu radnih ljudi i građana za zadovoljavanje njihovih zajedničkih potreba u mjesnoj zajednici ("Narodne novine", br. 32/77).
+Budući da se prijedlogom traži ocjena ustavnosti Zakona koji je prestao važiti daljnji postupak u ovom predmetu valja obustaviti temeljem članka 27. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
+Sukladno iznesenom riješeno je kao u izreci ovog rješenja. Objava ovog rješenja temelji se na odredbi članka 20. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br. 13/91).
