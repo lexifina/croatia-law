@@ -1,0 +1,1 @@
+Odluka o raspisivanju izbora za članove gradskih vijeća gradova: Vis, Orahovica, Makarska i Pregrada, te za članove općinskih vijeća: Civljane, Jelenje, Viškovo, Tučepi, Lanišće, Lastovo, Gradac, Nerežišća i Vinodolska općina
