@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o porezu na promet proizvoda i usluga (Narodne novine br. 36/91, 73/91, 18/92, 25/93, 13/94, 22/94, 28/94 i 48/94) i članka 26. Statuta Hrvatske gospodarske komore (Narodne novine br. 11/94.- pročišćeni tekst), Upravni odbor Hrvatske gospodarske komore na 5. sjednici 20. prosinca 1994. donosi
