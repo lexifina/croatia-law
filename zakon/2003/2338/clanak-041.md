@@ -1,0 +1,2 @@
+# Članak 41.
+Ako zainteresirana osoba u roku od osam dana od objave informacije pisano obavijesti da će zahtijevati objavu ispravka, glavni urednik je dužan čuvati presliku informacije na koji se zahtjev za ispravak odnosi sve dok se traženi ispravak ne objavi, odnosno ne dovrši sudski postupak koji se vodi u vezi s objavom sporne informacije, odnosno dok ne proteknu zakonom propisani rokovi za ostvarivanje prava na ispravak ili sudsku zaštitu.

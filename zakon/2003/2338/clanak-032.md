@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Nakladnici su dužni do 30. travnja svake godine nadležnom ministarstvu dostaviti izvješće o financijskom poslovanju za prethodnu godinu, procjenu o ostvarenom udjelu na tržištu, te podatke o oglašivačima ili marketinškim agencijama putem kojih je ostvareno više od 10% godišnjega marketinškog prihoda nakladnika.
+(2) Tvrtke za distribuciju medija dužne su nadležnom ministarstvu dostaviti podatke o ugovorima s nakladnicima i odgovarajuće podatke o općim uvjetima poslovanja koji se odnose na distribuciju programa elektroničkih medija i općeinformativnog tiska čija prodana naklada prelazi tri tisuće primjeraka, ako se taj tisak prodaje na tržištu više gradova ili županija, odnosno ako prelazi tisuću primjeraka kada se radi o tisku na lokalnom tržištu.
+4. OgraniČenje koncentracije

@@ -1,0 +1,9 @@
+# Članak 37.
+(1) Svatko ima pravo od glavnog urednika zahtijevati da bez naknade objavi ispravak objavljene informacije kojom su bila povrijeđena njegova prava ili interesi. Pravo na ispravak imaju i pravne osobe i druge organizacije i tijela, ako su informacijom bila povrijeđena njihova prava i interesi. Svrha ispravaka je ispravljanje netočne ili nepotpune informacije.
+(2) Objava ispravka može se zahtijevati u roku od 30 dana od objave informacije.
+(3) Svaka osoba imenovana u medijima povodom pokretanja istražnog ili kaznenog postupka ima pravo na objavu ispravka u roku od tri mjeseca od donošenja pravomoćnog rješenja o obustavi postupka ili pravomoćne oslobađajuće presude.
+(4) Zahtjev za ispravak podnosi se glavnom uredniku u pisanoj formi. Zahtjev mora biti obrazložen i potpisan od strane podnositelja, te sadržavati sve potrebne podatke o podnositelju i njegovoj adresi.
+(5) Pod pojmom ispravak ne misli se samo na ispravak u užem smislu, odnosno ispravljanje pogrešnih tvrdnji ili netočnih navoda u objavljenoj informaciji, već i na iznošenje činjenica i okolnosti kojima povrijeđeni pobija ili s namjerom pobijanja bitno dopunjuje navode u objavljenom tekstu.
+(6) Znanstvena ili umjetnička kritika ne daje pravo na ispravak osim ako se njima ne ispravljaju netočni ili uvredljivi navodi.
+(7) Ne može se zahtijevati ispravak ako je medij do dana podnošenja zahtjeva za ispravak već sam objavio ispravak iste informacije. Ako podnositelj zahtjeva za ispravak smatra da medij nije na odgovarajući način objavio ispravak može zahtijevati ostvarenje svoga prava sukladno ovom Zakonu.
+(8) Ako je osoba na koju se odnosi informacija umrla, pravo na objavljivanje ispravke i pravo odgovora imaju njezina djeca, posvojenici, bračni drug, roditelji, posvojitelji, braća i sestre, ili pravna osoba ako se informacija odnosi na djelatnost pokojnika u vezi s tom pravnom osobom.

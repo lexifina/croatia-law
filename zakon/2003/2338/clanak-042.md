@@ -1,0 +1,2 @@
+# Članak 42.
+Objava ispravka može se zahtijevati i kada je informacija bila objavljena putem medija koji je u međuvremenu prestao djelovati. Podnositelj zahtjeva za ispravak može od ondašnjeg nakladnika, odnosno od njegovoga pravnog sljednika zahtijevati da na svoj trošak osigura objavu ispravka u određenom drugom mediju koji je po opsegu i kvaliteti prenošenja sadržaja programa usporediv s prvim.

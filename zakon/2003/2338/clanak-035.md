@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Distributeri tiska obvezni su utvrditi i objaviti na uobičajeni način Opće uvjete za distribuciju tiska te ne smiju odbiti preuzimanje u distribuciju tiska drugog nakladnika koji to zatraži i izjavi da prihvaća objavljene Opće uvjete.
+(2) Distributer tiska ima pravo odbiti distribuciju medija bez impresuma. Preuzimanjem u distribuciju medija koji ne sadrži impresum distributer uz nakladnika toga medija preuzima odgovornost za informacije objavljene u tom mediju.
+(3) Distributeri - kolporteri mogu na ulici prodavati samo tisak. Ostale uvjete prodaje putem kolportera, kao što su vrijeme i lokacije kolporterske prodaje tiska, propisat će gradsko, odnosno općinsko vijeće, u skladu sa zakonom.
+(4) Distributeri tiska su dužni do 30. travnja svake godine nadležnom ministarstvu dostaviti izvješće o financijskom poslovanju ostvarenom distribucijom tiska za prethodnu godinu, te podatke o broju prodanih primjeraka pojedinog tiska putem njegove distributivne mreže ili ugovora o maloprodaji.
