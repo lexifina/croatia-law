@@ -1,0 +1,2 @@
+# Članak 5.
+Prema odredbama ovoga Zakona ne povećavaju se mirovine određene prema Zakonu o mirovinskom i invalidskom osiguranju vojnih osiguranika (»Narodne novine«, br. 53/91., 73/91., 18/92. i 96/93.), mirovine određene prema propisima o određivanju mirovina zastupnika u Hrvatskom državnom saboru i mirovine određene prema Zakonu o mirovinskom i invalidskom osiguranju individualnih poljoprivrednika (»Narodne novine«, br. 26/83., 49/83., 57/83., 47/86., 26/93., 40/90. i 96/93.).
