@@ -1,0 +1,6 @@
+# Članak 2.
+POTICANJE I DOPUŠTANJE ULAGANJA
+1. Svaka Ugovorna stranka poticat će i stvarati povoljne uvjete za ulaganja ulagatelja druge Ugovorne stranke na njezinom teritoriju, te će, u skladu sa svojim zakonima i propisima, dopuštati takva ulaganja.
+2. Radi poticanja uzajamnih tijekova ulaganja svaka od Ugovornih stranaka nastojat će drugu Ugovornu stranku na zahtjev bilo koje od Ugovornih stranaka izvjestiti o mogućnostima ulaganja na njezinom teritoriju.
+3. Svaka će Ugovorna stranka, kad god je to potrebno, unutar njenog zakonskog okvira, izdati dozvole u svezi s ulaganjima na njenom teritoriju, uključujući dozvole za zapošljavanje rukovoditelja i tehničkog osoblja prema vlastitom izboru, bez obzira na nacionalnost.
+4. Svaka će Ugovorna stranka, sukladno svojim zakonima, propisima i postupcima u svezi s boravkom i radom fizičkih osoba, odobriti bez obzira na nacionalnost, rukovodećem osoblju uključujući rukovoditelje i tehničko osoblje koje ulagatelj druge Ugovorne stranke zaposli za potrebe ulaganja, ulazak, boravak i rad na svojem teritoriju. Članovima obitelji (supruzi i maloljetnoj djeci) rukovodećeg osoblja bit će dodijeljen jednak tretman glede ulaska i privremenog boravka u Ugovornoj stranci domaćinu ulaganja.
