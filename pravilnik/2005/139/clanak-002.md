@@ -1,0 +1,7 @@
+## 1. VREDNOVANJE KVALITETE I UČINKOVITOSTI VISOKIH UČILIŠTA
+## Postupak vrednovanja
+# Članak 2.
+Visoka učilišta vrednuju se, odnosno podliježu provjeri kvalitete i učinkovitosti nastavnog, znanstvenog i stručnog rada. Provjera kvalitete i učinkovitosti visokih učilišta obavlja se uvažavajući posebnosti pojedinih područja znanosti, umjetnosti i visokog obrazovanja.
+Vrednovanje visokih učilišta provodi Nacionalno vijeće za visoko obrazovanje (u daljnjem tekstu: Nacionalno vijeće). Agencija za znanost i visoko obrazovanje (u daljnjem tekstu: Agencija) je specijalizirana ustanova zadužena za pružanje stručne i administrativne potpore Nacionalnom vijeću. Za stručno obavljanje poslova u postupku vrednovanja Agencija je odgovorna Nacionalnom vijeću, a zakonitost njezina rada nadzire Ministarstvo znanosti, obrazovanja i športa (u daljnjem tekstu: Ministarstvo). Vrednovanje se obavlja prema godišnjem rasporedu poslova koji sastavlja Nacionalno vijeće ili po posebnom nalogu Nacionalnog vijeća ili na zahtjev visokog učilišta.
+Provjeru iz stavka 1. ovog članka može od Nacionalnog vijeća zatražiti Hrvatski sabor, Vlada Republike Hrvatske ili ministar znanosti, obrazovanja i športa (u daljnjem tekstu: ministar).
+Provjera iz stavka 1. ovog članka je eksterna, na nacionalnoj ili na međunarodnoj razini. Prilikom eksterne provjere na nacionalnoj razini vrednuje se i provedena interna provjera (samoprovjera) visokog učilišta.
