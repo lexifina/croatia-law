@@ -1,0 +1,1 @@
+Na temelju članka 3. stavak 3. Zakona o cestama-pročišćeni tekst ("Narodne novine", br. 56/91, 61/91 i 49/92) I članka 51. stavak 1. Statuta poduzeća "Hrvatske ceste" (pročiščeni tekst), Upravni odbor poduzeća "Hrvatske ceste" na 5. sjednici održanoj 26. veljače 1993. donio je :
