@@ -1,0 +1,2 @@
+# Članak 14.
+Povjerenstvo za otrove Ministarstva zdravstva može pojedine otrove razvrstati i u višu skupinu otrovnosti nego je to određeno mjerilima iz članka 2. do 13. ovog Pravilnika, ako ocijeni da je zbog velike količine otrova u prometu, izloženosti općeg pučanstva, opasnosti za okoliš ili drugih razloga koji povećavaju opasnost korištenja takovih otrova, potrebno ograničiti odnosno posebno nadzirati njihovu primjenu.

@@ -1,0 +1,5 @@
+# Članak 9.
+Karcinogene tvari u smislu ovoga Pravilnika svrstavaju se u 3 skupine:
+- 1. skupina karcinogena: tvari za koje je epidemiološkim ispitivanjima dokazano da uzrokuju karcinome kod ljudi.
+- 2. skupina karcinogena: tvari za koje postoji dovoljno dokaza da imaju karcinogeno djelovanje na eksperimentalnim životinjama (pozitivni rezultati na 2 životinjske vrste ili nedvojbeno utvrđeno karcinogeno djelovanje na jednoj životinjskoj vrsti, uz dodatne dokaze iz ispitivanja genotoksičnosti, metaboličkih, biokemijskih i epidemioloških ispitivanja, sposobnost indukcije benignih tumora, strukturna povezanost s utvrđenim karcinogenima) te postoji opravdana sumnja da mogu djelovati karcinogeno i kod ljudi.
+- 3. skupina karcinogena: tvari za koje eksperimentalna ispitivanja ukazuju na moguće karcinogeno djelovanje (tvari za koje su provedena sva relevantna ispitivanja ali nema sigurnih dokaza tumorogene aktivnosti i tvari koje još nisu dovoljno ispitane), ali za sada nema dovoljno dokaza da postoji opasnost karcinogenog djelovanja kod ljudi.

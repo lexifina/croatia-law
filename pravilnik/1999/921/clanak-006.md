@@ -1,0 +1,2 @@
+# Članak 6.
+Nagrizajućom (simbol C, nagrizajuće) smatra se ona tvar ili pripravak koji na zdravoj koži izaziva oštećenje svih slojeva kožnog tkiva kod najmanje jedne životinje u ispitivanju nadraživanja kože in vivo ili odgovarajućom in vitro metodom ili ako se nagrizajuća svojstva mogu predvidjeti zbog izrazito alkalne (>11,5) ili kisele (<2) reakcije ispitivane tvari ili pripravka (R 34 ili R 35).

@@ -1,0 +1,7 @@
+# Članak 23.
+Za razvrstavanje u skupinu otrova tvari i proizvoda namijenjenih za primjenu u sredstvima za zaštitu bilja, osim ispitivanja navedenih u člancima 16. do 19. i članku 22. ovoga Pravilnika, dokumentacija treba sadržavati i sljedeće podatke:
+1. Dodatna fizikalno-kemijska svojstva aktivnih tvari i proizvoda: topivost u organskim otapalima; stabilnost u vodi, produkti hidrolize i fotokemijske razgradnje, disocijacijska konstanta; stabilnost na zraku; stabilnost na povišenoj temperaturi i produkti toplinske razgradnje
+2. Dodatna toksikološka ispitivanja: akutna intraperitonealna toksičnost; subkronična oralna toksičnost na 2 životinjske vrste (jedna ne-glodavac); subkronična dermalna i inhalacijska toksičnost; kronična toksičnost i karcinogenost na štakorima i drugim životinjskim vrstama; ispitivanja mutagenosti: genske mutacije, kromosomske aberacije i DNA promjene; ispitivanja teratogenosti i reproduktivne toksičnosti na više generacija; metabolizam kod sisavaca; neurotoksičnost; mehanistička ispitivanja.
+3. Ispitivanja ostataka pesticida i njihovih metabolita u tretiranim kulturama, namirnicama i stočnoj hrani, te podatke o dozvoljenom dnevnom unosu (ADI) i o maksimalno dopustivim koncentracijama ostataka Svjetske zdravstvene organizacije1 i druge relevantne podatke
+4. Ispitivanje sudbine i ponašanja u tlu, vodi i zraku
+5. Dodatna ekotoksikološka ispitivanja: akutna, subakutna i kronična toksičnost za vodene organizme i ptice, toksičnost za korisne kukce, makro i mikroorganizme u tlu i drugu potencijalno zahvaćenu floru i faunu
