@@ -1,0 +1,6 @@
+# Članak 3.
+Članak 6, koji postaje članak 4. mijenja se i glasi: "Vojni sudovi su nadležni u krivičnim predmetima: 1. suditi za krivična djela koja učine vojne osobe,
+2. suditi civilnim osobama koje imaju, svojstvo građanske osobe na službi u oruženim snagama za krivična djela učinjena u obavljanju službe ili u vezi sa službom te za sva druga krivična djela koja učine kao suizvršioci ili kao drugi suučesnici s vojnim osobama,
+3. suditi civilnim osobama za krivična djela propisana u Glavi XX Krivičnog zakona Republike Hrvatske,("Narodne novine", broj 25/77, 50/78, 25/84, 52/87, 43/89, 8/90. i 9/91), te u Zakonu o preuzimanju Krivičnog zakona SFRJ ("Narodne novine", broj 53/91) i to za djela iz članka 118, 119,121, za djela iz članka 128. i 129. (ako se podaci odnose na obranu), za djelo iz članka 135. i za djela iz članka 201. do 239. (krivična djela protiv oružanih snaga).
+4. suditi ratnim zarobljenicima za sva krivična djela koja učine kao ratni zarobljenici te za krivična djela protiv čovječnosti i međunarodnog prava (članak 141. do 158. Krivičnog zakona),
+5. suditi civilnim osobama i za krivična djela protiv imovine i krivična djela protiv službene dužnosti ako je predmet djela dio borbenog sredstva, oružja, municija ili eksploziv koji služe potrebama obrane, te druga krivična djela koja učine kao suizvršioci ili kao drugi suučesnici s vojnim osobama".
