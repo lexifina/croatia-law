@@ -1,0 +1,1 @@
+Na temelju članka 39. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1997. godinu ("Narodne novine", broj 111/96) Vlada Republike Hrvatske je na sjednici održanoj 29. svibnja 1997. godine, donijela
