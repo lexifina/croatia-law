@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (NN br. 117/93, 67/97, 33/00, 73/00 i 59/01), te članka 20. Statuta Općine Bistra (Sl. glasnik Općine Bistra 14/01) Općinsko vijeće Općine Bistra na sjednici održanoj 12. 12. 2002. godine donijelo je
