@@ -1,0 +1,7 @@
+# Članak 9.
+Grad Zagreb i općine iznimno od odredbe članka 35. Zakona o neposrednim porezima "Narodne novine". br. 19/90 i 28/90) u 1991. mogu svojom odlukom propisati stopu poreza iz osobnog-dohotka radnika.
+Stopa iz stavka 1. ovoga članka ne može biti veća od zbrojne stope poreza iz osobnog dohotka radnika, doprinosa iz osobnog dohotka radnika za društvenu brigu o djeci predškolskog uzrasta, za kulturu i za fizičku kulturu na dan 1. lipnja 1990. godine uvećane za jedan postotni poen, a umanjene za 15%.
+Ako je stopa utvrđena po odredbama prethodnog stavka manja od 4% skupština općine može propisati stopu poreza iz osobnog dohotka do 4%.
+Stopom na dan 1. lipnja 1990. godine smatra se stopa koja je važila na taj dan, ali ne može biti veća od stope koja je mogla biti utvrđena u skladu sa Zakonom o privremenoj zabrani raspolaganja dijelom društvenih sredstava društveno-političkih zajednica, samoupravnih interesnih zajednica i samoupravnih fondova društvenih djelatnosti i socijalne sigurnosti za potrošnju u 1990. godini ("Narodne novine", br. 18/90).
+Grad Zagreb i općine u kojima je u 1990. godini samoupravnim sporazumima ili odlukama skupština općina bilo utvrđeno obavezno udruživanje sredstava za razvoj komunalne infrastrukture, iznimno od odredbi stavka 2. do 4. ovoga članka, mogu u 1991. godini stopu poreza iz osobnog dohotka povećati za efekt tih izdvajanja.
+Povećanje stope po odredbama stavka 5. ovoga članka, osim za Grad Zagreb, ne može biti veće od 1%.
