@@ -1,0 +1,3 @@
+# Članak 11.
+1. Svatko ima pravo na slobodu mirnog okupljanja i slobodu udruživanja s drugima, uključujući pravo osnivati sindikate ili im pristupati radi zaštite svojih interesa.
+2. Ne mogu se postavljati nikakva ograničenja ostvarivanju tih prava, osim onih koja su propisana zakonom i koja su u demokratskom društvu nužna radi interesa držvne sigurnosti ili javnog reda i mira, radi sprječavanja nereda ili zločina, radi zaštite zdravlja ili morala ili radi zaštite prava i sloboda drugih. Ovaj članak ne zabranjuje da se nameću zakonska ograničenja u ostvarivanju tih prava pripadnicima oružanih snaga, policije ili državne uprave.

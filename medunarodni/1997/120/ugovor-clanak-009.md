@@ -1,0 +1,3 @@
+# Članak 9.
+1. Svatko ima pravo na slobodu mišljenja, savjesti i vjeroispovijedi; to pravo uključuje slobodu da se promijeni vjeroispovijed ili uvjerenje i slobodu da pojedinačno ili u zajednici s drugima, javno ili privatno, iskazuje svoju vjeroispovijed ili uvjerenje bogoslužjem, poučavanjem, praktičnim vršenjem i obredima.
+2. Sloboda iskazivanja vjeroispovijedi ili uvjerenja podvrgnut će se samo takvim ograničenjima koja su propisana zakonom i koja su u demokratskom društvu nužna radi interesa javnog reda i mira, zaštite javnog reda, zdravlja ili morala ili radi zaštite prava i sloboda drugih.

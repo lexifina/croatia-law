@@ -1,0 +1,4 @@
+# Članak 15.
+1. U vrijeme rata ili drugog izvanrednog stanja koje ugrožava opstanak naroda svaka visoka ugovorna stranka može, u opsegu koji je strogo određen potrebama tih izvanrednih prilika, poduzimati mjere koje derogiraju njezine obveze iz ove Konvencije, uz uvjet da te mjere nisu nespojive s njezinim ostalim obvezama po međunarodnom pravu.
+2. Na temelju te odredbe ne može se derogirati članak 2, osim za slučajeve smrti prouzročene zakonitim ratnim činima, niti članci 3, 4. (stavak 1) i 7.
+3. Svaka visoka ugovorna stranka koja se posluži tim pravom derogiranja svojih obveza mora Glavnog tajnika Vijeća Europe u cijelosti obavijestiti o mjerama koje je poduzela i o razlozima radi kojih je to učinila. Ona će također obavijestiti Glavnog tajnika Vijeća Europe o prestanku djelovanja tih mjera i o ponovnoj punoj primjeni svih odredaba ove Konvencije.
