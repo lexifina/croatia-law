@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. Zakona o sustavu kontrole cijena i članka 4. Zakona o preuzimanju saveznih zakona iz područja trgovine, tržišta i cijena koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", broj 53/91, 73/91 i 29/92), te članka 15. Zakona o društvenoj kontroli cijena ("Narodne novine", broj 27/85 i 53/89) ministar trgovine donosi
