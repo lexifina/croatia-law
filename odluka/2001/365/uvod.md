@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98 i 15/2000) i članka 14. Zakona o Hrvatskoj garancijskoj agenciji (»Narodne novine«, br. 29/94, 105/99 i 64/2000), Vlada Republike Hrvatske je na sjednici održanoj 9. ožujka 2001. godine donijela
