@@ -1,0 +1,2 @@
+# Članak 5.
+Na dan stupanja na snagu ove odluke prestaje vrijediti Odluka o osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje iz mirovinskog osiguranja hrvatskih državljana zaposlenih u inozemstvu kod međunarodnih organizacija i stranih poslodavaca ili na brodovima pod stranom zastavom, te hrvatskih državljana zaposlenih na teritoriju Republike Hrvatske kod međunarodnih organizacija (»Narodne novine«, broj 1/99).
