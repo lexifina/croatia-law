@@ -1,0 +1,2 @@
+# Članak 3.
+Pravne osobe oslobađaju se plaćanja doprinosa za mirovinsko i invalidsko osiguranje na plaće hrvatskog ratnog vojnog invalida, kojemu je utvrđeno svojstvo ratnog vojnog invalida domovinskog rata prema propisima o zaštitu vojnih i civilnih invalida kod njih zaposlenih, odnosno onih koji se nalaze na profesionalnoj rehabilitaciji, a poduzeća za zapošljavanje invalida oslobađaju se plaćanja tog doprinosa za invalide kod njih zaposlene, odnosno koji se nalaze na profesionalnoj rehabilitaciji.
