@@ -1,0 +1,5 @@
+# Članak 11.
+Korisniku kredita koji je dobio kredit prema odredbama Zakona o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata za obnovu obiteljske kuće odnosno stana V. iIi VI. stupnja oštećenja i namjenski ga upotrijebio i u stan odnosno kuću uselio, otpisuje se kredit povrh iznosa utvrdenog za IV. stupanj oštećenja.
+Preostali iznos kredita utvrđen za IV. stupanj oštećenja za stanove u vlasništvu građana i stanove na kojima postoji stanarsko pravo iz članka 2. točke b), a za obiteljske kuće iz članka 2. točke c), je iznos zaduženja koji je korisnik dužan vratiti pod uvjetima iz Zakona o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata.
+Odredba stavka 1. ovoga članka primjenjuje se i na one korisnike kredita koji obnovu obiteljske kuće odnosno stana V. ili VI. stupnja oštećenja dovrše i usele do 30. rujna 1995. godine. Iznos kredita koji se otpisuje utvrduje Ministarstvo razvitka
+i obnove nakon što županijsko tijelo nadležno za poslove obnove utvrdi i dostavi pisani podatak da su ispunjeni uvjeti iz stavka 1. članka 11. ove Uredbe.

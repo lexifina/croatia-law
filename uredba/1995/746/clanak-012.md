@@ -1,0 +1,2 @@
+# Članak 12.
+Ako na obiteljskoj kući IV. stupnja oštećenja Ministarstvo razvitka i obnove prema posebnom propisu izvede sanaciju konstrukcijskih dijelova odnosno osnovne radove obnove koji po sadržaju i opsegu odgovaraju radovima obnove prve, druge i treće etape na obiteljskoj kući V. ili VI. stupnja oštećenja, vlasniku odnosno suvlasniku pripada pravo na kredit u iznosu iz članka 2. točke c) ove Uredbe utvrđenom za III. stupanj oštećenja.
