@@ -1,0 +1,1 @@
+Na temelju čl. 41. stavak 2. Zakona o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« br. 59/01.) i čl. 26. Statuta Općine Lastovo, Općinsko vijeće Općine Lastovo na 15. sjednici održanoj 28. prosinca 2001. godine donijelo je
