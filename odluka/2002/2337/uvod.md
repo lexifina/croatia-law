@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 5. a u vezi s člankom 32. stavkom 2. Zakona o telekomunikacijama (»Narodne novine« br. 76/99, 128/99, 68/01, 109/01), Vijeće za telekomunikacije na sjednici održanoj 6. rujna 2002. donijelo je sljedeću
