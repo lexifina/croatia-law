@@ -1,0 +1,6 @@
+SLUŽBA DRUŠTVENOG KNJIGOVODSTVA U REPUBLICI HRVATSKOJ
+____________________ (broj i naziv sjedišta)
+PRIJAVA ZA SUDJELOVANJE U MULTILATERALNOJ KOMPENZACIJI
+_____________________ ____________________ __________________ _________ (naziv i mjesto podnosioca) (broj računa podnosioca) (ukupni iznos dugovanja) (broj vjerov.)
+______________________________________________________________________________ Red. b.r Naziv i Mjesto Vjerovnika Broj Računa Vjerovnika Iznos Dinara ______________________________________________________________________________ ______________________________________________________________________________ ______________________________________________________________________________ ______________________________________________________________________________
+_____________________ _________________ (žig i potpis podnosioca) (mjesto i datum)
