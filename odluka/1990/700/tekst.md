@@ -1,0 +1,5 @@
+o privremenim valorizacijskim koeficijentima za preraćunavanje osnovica osiguranja odnosno osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja, odnosno osobnih dohodaka iz godine 1990.
+I U slučajevima kada se mirovinska osnovica utvrđuje preračunavanjem osnovica osiguranja odnosno osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja, odnosno osobnih dohodaka iz godine 1990. osnovice osiguranja, odnosno osobni dohoci ostvareni u godinama od 1966. do 1989. koji se uzimaju za utvrdivanje mirovinske osnovice, preračunavaju se s odgovarajučim valorizacijskim koeficijentom, ovisno o godini u kojoj su ostvareni i to:
+_______________________________________________ Osobni dohoci ostvareni Valorizacijski koeficijenti u godini _______________________________________________ 1966. 4657.152,6 1967. 4.061.528,2 1968 3.731.471.8 1969 3.226.752.5 1970. 2690.255,3 1971 2158.808,4 _______________________________________________
+Osobni dohoci ostvareni Valorizacijski koeficijenti u godinl
+2. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjivat će se od 1. srpnja 1990.

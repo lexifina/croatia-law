@@ -1,0 +1,1 @@
+Odluka o privremenim valorizacijskim koeficijentima za preraćunavanje osnovica osiguranja odnosno osobnih dohodaka iz prijašnjih godina prema razini osnovica osiguranja, odnosno osobnih dohodaka iz go
