@@ -1,0 +1,2 @@
+UGOVOR IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE KOREJE O ZAJMU OD STRANE FONDA GOSPODARSKOG RAZVITKA I SURADNJE
+Vlada Republike Hrvatske i Vlada Republike Koreje (u daljnjem tekstu »ugovorne stranke«), u skladu s Ugovorom između Vlade Republike Hrvatske i Vlade Republike Koreje o zajmu od strane Fonda gospodarskog razvitka i suradnje, potpisanog 16. siječnja 2001., sporazumjele su se kako slijedi:
