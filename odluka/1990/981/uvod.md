@@ -1,0 +1,1 @@
+Na osnovi Zakona o zapošljavanju ("Narodne novine", br. 19/90) i člana 2. i 16. Zakona o izmjenama i dopunama Zakona o zapošljavanju ("Narodne novine", br. 40/90), Upravni odbor Zavoda za zapošljavanje na sjednici održanoj 26. studenoga 1990. donosi
