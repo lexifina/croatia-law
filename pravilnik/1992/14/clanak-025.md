@@ -1,0 +1,2 @@
+# Članak 25.
+Policajac i druga ovlaštena službena osoba kojoj je prestao radni odnos odnosno koji je raspoređen na drugo radno mjesto koje nije utvrđeno Pravilnikom o unutarnjem ustrojstvu i načinu rada Ministarstva unutarnjih poslova kao radno mjesto ovlaštene službene osobe, obvezatan je vratiti uniforme, odnosno pojedine dopunske dijelove uniformi, dopunsku opremu te obuću i odjeću koju je zadužio.

@@ -1,0 +1,1 @@
+Na temelju članka 107. stavke 1. Zakona o unutarnjim poslovima ("Narodne novine", br. 29/91) i članka 16. Uredbe o oznakama zvanja i funkcija te uniformi ovlaštenih službenih osoba Ministarstva unutarnjih poslova ("Narodne novine", br. 36/91) ministar donosi
