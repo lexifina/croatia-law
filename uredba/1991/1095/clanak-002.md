@@ -1,0 +1,5 @@
+# Članak 2.
+Ravnatelja Nacionalne i sveučilišne knjižnice u Zagrebu imenuje i razrješava Vlada Republike Hrvatske na prijedlog ministra prosvjete i kulture.
+Ravnatelje regionalnih i matičnih knjižnica, te muzejskih ustanova koje su osnovane ili djeluju kao republičke i regionalne, imenuje i razrješava ministar prosvjete i kulture po pribavljenim prijedlozima stručnog osoblja tih ustanova.
+Ravnatelje općinskih, odnosno gradskih narodnih knjižnica i muzejskih ustanova, te drugih ustanova kulture koje obavljaju knjižničarsku, muzejsku i druge kulturne djelatnosti, imenuje i razrješava općinska, odnosno gradska skupština njihova sjedišta po pribavljenim prijedlozima stručnog osoblja tih ustanova, a uz naknadnu potvrdu ministra prosvjete i kulture.
+Za ravnatelje ustanova iz stavka 2. i 3. ovoga članka moguće je imenovati osobe koje imaju visoku stručnu spremu, potrebno radno iskustvo u struci, položen stručni ispit, te radne i organizacijske sposobnosti temeljem kojih se može očekivati da će s uspjehom voditi ustanovu.

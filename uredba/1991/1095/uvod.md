@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlaštenju Vlade Republike Hrvatske za donošenje uredbe o uređivanju određenih pitanja u obavljanju zaštite spomenika kulture, knjižničarske i muzejske djelatnosti (»Narodne novine«, br. 34/91), Vlada Republike Hrvatske na sjednici održanoj 31. srpnja 1991. godine donijela je
