@@ -1,0 +1,1 @@
+Na temelju čl. 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) Općinsko vijeće Općine Rakovec na sjednici održanoj 25. travnja 2002. godine donijelo je
