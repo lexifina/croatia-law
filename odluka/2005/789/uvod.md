@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 17/93, 69/97, 33/00, 73/00, 59/01 i 107/01), članka 26. Statuta općine Krašić (»Glasnik Zagrebačke županje« broj 12/03), Općinsko vijeće Općine Krašić na sjednici održanoj 16. ožujka 2005. godine donijelo je
