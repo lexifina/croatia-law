@@ -1,0 +1,1 @@
+Pravilnik o mjerilima i postupku za utvrđivanje nesposobnosti za samostalan život i rad i nedostatak sredstava za uzdržavanje za osobe s prebivalištem u Republici Hrvatskoj kojima se zdravstvena zašti
