@@ -1,0 +1,2 @@
+# Članak 12.
+Osobi s ovlaštenjem za obavljanje poslova posredovanja ili zastupanja u osiguranju zabranit će se obavljanje poslova posredovanja ili zastupanja u osiguranju ako je tijekom obavljanja tih poslova osuđena za kaznena djela iz područja gospodarskog kriminala ili je protiv te osobe na prijedlog nadležnih tijela pokrenut postupak zbog povrjede zakona i drugih propisa kojima je uređena djelatnost osiguranja.
