@@ -1,0 +1,2 @@
+# Članak 27.
+U 1998. godini u Proračunu se ne osiguravaju sredstva za obveze propisane Zakonom o zdravstvenoj zaštiti ("Narodne novine", br. 1/97. - pročišćeni tekst) i Zakonom o zdravstvenom osiguranju ("Narodne novine", br. 1/97. - pročišćeni tekst i 109/97.), nego samo za obveze iz članka 47. točke 1., 2., 3., 4., 5., 6., 7., 8., 11. i 16. Zakona o zdravstvenom osiguranju i obveze utvrđene prema članku 24. ovoga Zakona.

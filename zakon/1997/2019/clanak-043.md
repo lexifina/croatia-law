@@ -1,0 +1,10 @@
+# Članak 43.
+(1) Ovlašćuje se Vlada da u ime Republike Hrvatske može davati financijska i činidbena državna jamstva.
+(2) Financijskim državnim jamstvom iz stavka 1. ovoga članka jamči se uredna otplata kreditne obveze ako je ne bude izvršavao izvorni dužnik. Financijsko državno jamstvo može se davati pravnim osobama u pretežito državnom vlasništvu, jedinicama lokalne samouprave i uprave te izvanproračunskim fondovima za zaduživanje u zemlji i inozemstvu.
+(3) U 1998. godini mogu se dati financijska državna jamstva do ukupne svote od 1.000.000.000,00 kuna.
+(4) Pored jamstva na iznos iz stavka 3. ovoga članka, dodatno se ovlašćuje Vlada da u ime Republike Hrvatske može financijsko državno jamstvo dati Hrvatskoj banci za obnovu i razvitak za zaduženje do svote od 750.000.000,00 kuna, pod uvjetom da se 50% tih sredstava koristi za kreditiranje razvojnih projekata obrtnika te malih i srednjih poduzeća u privatnom vlasništvu.
+(5) Obvezuje se Ministarstvo financija da iz Državnog proračuna prilikom izdavanja državnog financijskog jamstva izdvoji 6% od jamstvenog iznosa u jamstvenu zalihu. Sredstva jamstvene zalihe izdvajaju se na poseban kunski račun kod Narodne banke Hrvatske.
+(6) Činidbena državna jamstva iz stavka 1. ovoga članka mogu se davati na temelju primljenih predujmova u novcu ili imovini za gradnju brodova do njihove isporuke, nabavu zrakoplova na temelju dugoročnog ugovora o najmu te za infrastrukturne projekte (promet i veze, energetika, zaštita okoliša), koji se izvode na osnovi koncesija ili zajedničkih ulaganja.
+(7) Za dana činidbena državna jamstva ne utvrđuje se obveza izdvajanja sredstava iz Proračuna u jamstvenu zalihu niti se ograničuje godišnja svota danih jamstava.
+(8) Zahtjev za izdavanje državnog jamstva podnosi se na mišljenje Ministarstvu financija, uz podroban prikaz financijske i gospodarske opravdanosti predloženog zaduženja, prikaz ukupne zaduženosti te mišljenje nadležnog ministarstva. Ministarstvo financija obvezno je u roku do 60 dana predložiti Vladi da prihvati takav zahtjev ili da ga odbije.
+(9) O radnjama iz ovog članka Vlada izvješćuje Sabor polugodišnje.
