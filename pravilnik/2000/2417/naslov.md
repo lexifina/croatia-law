@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o obvezatnom atestiranju plinskih uređaja za velike kuhinje i za kampiranje te o uvjetima kojima moraju udovoljavati pravne osobe ovlaštene za atestiranje t
