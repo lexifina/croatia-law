@@ -1,5 +1,5 @@
-## KRITERIJI ZA REVIZIJU PRIZNATIH
-## PRAVA NA UPLATU DOPRINOSA
+## KRITERIJI ZA REVIZIJU PRIZNATIH PRAVA
+## NA UPLATU DOPRINOSA
 # Članak 20.
 Za reviziju priznatih prava na uplatu doprinosa samostalni umjetnik mora se baviti umjetničkim stvaralaštvom kao jedinim i glavnim zanimanjem i javno umjetnički djelovati prema sljedećim kriterijima:
 1. KNJIŽEVNO STVARALAŠTVO
@@ -23,11 +23,11 @@ c) Znanstveno, teoretičarsko i kritičarsko djelovanje na svim područjima umje
 - 2 cjelovečernje drame objavljene ili izvedene u profesionalnim kazalištima, na radiju ili televiziji, ili
 - 2 objavljene zbirke stihova, ili
 - objavljeni cjeloviti prijevodi u kulturnim radijskim (iznimno u televizijskim) programima u opsegu od 700 kartica. Kao umjetnički rad priznat će se osim prijevoda i stručna redakcija književnog prijevoda koja je kao takva navedena u impresumu knjige, te izvorni tekstovi s područja stranih književnosti i kultura.
-3. KNJIŽEVNO STVARALAŠTVO
+3. KAZALIŠNO STVARALAŠTVO
 a) Kazališni redatelji
-- 3 režije u profesionalnim kazališnim produkacijama, TV dramama, TV serijama, ili
+- 3 režije u profesionalnim kazališnim produkcijama, TV dramama, TV serijama, ili
 - 10 režija radio drama, ili
-- 12 režija ostalih formi (znanstveno-obrazovne emisije, dječje emisije, crtani filmovi....).
+- 12 režija ostalih formi (znanstveno-obrazovne emisije, dječje emisije, crtani filmovi...).
 b) Glumci
 - 2 glavne uloge, ili 3 veće uloge, ili 4 srednje uloge u profesionalnim kazališnim produkcijama, ili
 - 3 srednje uloge na filmu i televiziji, ili
@@ -58,20 +58,20 @@ c) Scenaristi
 - 10 realiziranih scenarija kratkih ili dokumentarnih filmova, ili
 - 5 realiziranih scenarija u animiranom ili lutkarskom filmu u ukupnom trajanju od 30 minuta.
 d) Animirani, crtani i lutkarski film
-1) redatelji
-2) glavni crtači
-3) animatori
-4) snimatelji
+1) Redatelji
+2) Glavni crtači
+3) Animatori
+4) Snimatelji
 Za sve kategorije potrebno je 30 minuta animiranog filma. Ne uzimaju se u obzir reklamni filmovi i spotovi.
 5. GLAZBENO STVARALAŠTVO
 Skladateljstvo:
-a) Ozbiljna glazba
-- djela ozbiljne glazbe u ukupnom trajanju od najmanje 120 minuta javno izvedena u priznatim koncertnim prostorima, na radiju ili televiziji, od čega barem jedna skladba mora biti pisana za simfonijski orkestar.
+a) Klasična glazba
+- djela klasične glazbe u ukupnom trajanju od najmanje 120 minuta javno izvedena u priznatim koncertnim prostorima, na radiju ili televiziji, od čega barem jedna skladba mora biti pisana za simfonijski orkestar.
 b) Zabavna glazba
 - djela zabavne glazbe u ukupnom trajanju od najmanje 200 minuta, javno izvedena u priznatim koncertnim prostorima, na radiju ili televiziji.
-U kategorijama a i b priznaje se i glazba za film i kazalište, ali ne i glazba za reklamne poruke i AVIZO - glazba.
+U kategorijama a i b priznaje se i glazba za film i kazalište, ali ne i glazba za reklamne poruke i AVIZO-glazba.
 Javne izvedbe u kategorijama a i b moraju biti u okviru priznatih festivala i koncertnih ciklusa, odnosno organizirane od priznatih organizatora na profesionalno zadovoljavajućoj razini, ili izdane na nosačima zvuka.
-Izvodilaštvo ozbiljne glazbe:
+Izvodilaštvo klasične glazbe:
 a) Operni pjevači
 - 4 glavne uloge u najmanje 10 nastupa, ili
 - 6 srednjih uloga u najmanje 10 nastupa.
@@ -105,15 +105,15 @@ b) Koreografi
 - 5 kratkih koreografija, ili
 - 2 cjelovečernja programa u ukupnom trajanju od najmanje 50 minuta.
 7. LIKOVNO I MULTIMEDIJALNO STVARALAŠTVO
-- 2 samostalne ili
-- 1 samostalna i 2 skupne - koncepcijske izložbe ili
-- 4 skupne - koncepcijske izložbe;
+- 2 samostalne, ili
+- 1 samostalna i 2 skupne - koncepcijske izložbe, ili
+- 4 skupne - koncepcijske izložbe.
 - 2 samostalna multimedijalna projekta, ili
 - 1 samostalni i 2 skupna - koncepcijska, ili
 - 4 skupna - koncepcijska multimedijalna projekta uz mišljenje republičke umjetničke strukovne udruge, odnosno
-- 4 nastupa / sudjelovanja na skupnim - koncepcijskim izložbama;
+- 4 nastupa / sudjelovanja na skupnim - koncepcijskim izložbama.
 - 1 samostalna izložba kiparskih djela izvedenih u kamenu, bronci, željezu, čeliku, drvu ili staklu, ili
-- 4 skupne - koncepcijske izložbe;
+- 4 skupne - koncepcijske izložbe.
 - umjetnička djela ostvarena izvan izložbenih prostora (freska, vitraj, mozaik, javna kiparska djela, reljef, medalje, tapiserije, grafičke mape, spomenički projekti i instalacije u javnim prostorima), priznat će se uz mišljenje strukovne umjetničke udruge.
 Ostale umjetničke reference kao elementi za kombiniranje kriterija:
 - zastupljenost umjetnika u stalnim prostorima muzeja, modernih galerija i javnih zbirki u zemlji i inozemstvu,
@@ -142,7 +142,7 @@ c) Oblikovanje igračaka i lutaka
 d) Primijenjeno kiparstvo
 - 3 samostalne izložbe, ili
 - 5 skupnih žiriranih izložbi, ili
-- 10 umjetničkih djela postavljenih u javnim prostorima.
+- 10 umjetničkih djela postavljenih u javnim prostorijama.
 e) Keramika, porculan i staklo
 - 3 samostalne izložbe, ili
 - 5 skupnih žiriranih izložbi, ili
@@ -169,18 +169,18 @@ i) Primijenjena djela iz područja kazališne, filmske i TV umjetnosti
 - scenografija u televizijskim serijama odnosno televizijskim dramama u ukupnom trajanju od najmanje 240 minuta.
 j) Oblikovanje arhitektonsko-urbanističkih maketa
 - 3 sudjelovanja na skupnim žiriranim izložbama, ili
-- 3 sudjelovanja na arhitektonsko-urbanističkim natječajima, ili
+- 3 sudjelovanja na arhitektonsko-urbanističkim javnim natječajima, ili
 - 15 radova realiziranih uz autorske projekte.
 k) Restauratorska i oblikovno-fonička djela
 - 3 velika realizirana autorska projekta, ili
 - 5 manjih realiziranih autorskih djela (koautori).
 l) Primijenjena djela likovne umjetnosti (karikature, ilustracije, strip i sl.)
 - 50 objavljenih karikatura u dnevnom tisku ili časopisima, ili
-- 50 objavljenih ilustracija u dnevnom tisku, časopisima, knjigama o umjetničkom stvaralaštvu i sl, ili
+- 50 objavljenih ilustracija u dnevnom tisku, časopisima, knjigama o umjetničkom stvaralaštvu i sl., ili
 - 2 samostalne izložbe, ili
 - 4 žirirane izložbe s različitim radovima.
 9. ARHITEKTURA
-- 1 veliki projekt, ili
+- 2 velika projekta, ili
 - 5 manjih realiziranih projekata.
 10. DIZAJN
 - 2 složena realizirana rada, odnosno 2 samostalne izložbe, ili
