@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 6. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 32/02, 86/02, 114/03 i 151/03), ministar gospodarstva, rada i poduzetništva donosi
