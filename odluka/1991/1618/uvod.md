@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 1. točke 8. Zakona o obrani ("Narodne novine", broj 49/91 i 53A/91), a u svezi s člankom 1. točka 4. Zakona o preuzimanju saveznih zakona iz područja obrane koji se u Republici Hrvatskoj primjenjuju kao republički propisi ("Narodne novine", broj 52/91), donosim
