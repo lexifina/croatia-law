@@ -1,0 +1,5 @@
+UGOVOR IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE LITVE O PREDAJI I PRIHVATU OSOBA KOJIH JE ULAZAK ILI BORAVAK PROTUZAKONIT
+Vlada Republike Hrvatske i Vlada Republike Litve, (u daljnjem tekstu: ugovorne stranke), želeći razvijati suradnju između dviju ugovornih stranaka kako bi se osigurala bolja primjena odredbi o kretanju osoba, uz poštivanje prava i jamstava koja predviđaju zakoni i propisi ugovornih stranaka koji su na snazi,
+uzimajući u obzir Opću deklaraciju o ljudskim pravima koju je 10. prosinca 1948. godine usvojila Opća skupština Ujedinjenih naroda, Europsku konvenciju o zaštiti ljudskih prava i temeljnih sloboda od 4. studenog 1950. godine te Ženevsku konvenciju o statusu izbjeglica od 28. lipnja 1951. godine dopunjenu Protokolom o statusu izbjeglica od 31. I. 1967. godine i uvažavajući ostale međunarodne ugovore u ovom području,
+u želji da se olakša predaja i prihvat osoba kojih je ulazak ili boravak protuzakonit, u duhu suradnje i na temelju uzajamnosti,
+ugovorile su kako slijedi:

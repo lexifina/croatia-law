@@ -1,0 +1,6 @@
+# Članak 2.
+PRIHVAT DRŽAVLJANA UGOVORNIH STRANAKA
+1. Svaka će ugovorna stranka, bez posebnih formalnosti, prihvatiti svaku osobu koja ne ispunjava ili više ne ispunjava uvjete ulaska ili boravka koji se primjenjuju na teritoriju ugovorne stranke koja zahtijeva prihvat, ukoliko je utvrđeno ili se pretpostavlja da osoba ima državljanstvo ugovorne stranke kojoj je zahtjev upućen. Isto će se primijeniti i na osobe kojima je nakon ulaska na teritorij ugovorne stranke koja podnosi zahtjev oduzeto državljanstvo ugovorne stranke kojoj je zahtjev upućen, a nisu stekle državljanstvo treće države.
+2. Ugovorna stranka koja zahtijeva prihvat primit će natrag pod istim uvjetima osobu za koju se naknadnom provjerom utvrdi da nije imala državljanstvo druge ugovorne stranke i da se na nju ne primjenjuju odredbe članka 4., 5. i 6. ovog Ugovora.
+3. U smislu ovog članka, osobe iz stavka 1. obvezne su u svakom trenutku pružiti dokaze o datumu ulaska na teritorij ugovorne stranke čije državljanstvo ne posjeduju. U nedostatku dokaza one se vode kao osobe s nezakonitim boravkom prema zakonodavstvu te ugovorne stranke.
+4. Tijela zadužena za nadzor granica međusobno će se obavješćivati o ispravama kojima se dokazuje datum zakonita ulaska na njihov teritorij.

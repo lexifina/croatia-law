@@ -1,0 +1,3 @@
+# Članak 6.
+PRIHVAT OSOBA BEZ DRŽAVLJANSTVA NA TEMELJU ZAHTJEVA
+Ugovorna će stranka, na zahtjev druge ugovorne stranke prihvatiti i osobu bez državljanstva koja je ušla na teritorij ugovorne stranke koja zahtijeva prihvat koristeći putnu ispravu koju je izdala ugovorna stranka od koje se zahtijeva prihvat i koja omogućuje povratak na teritorij ugovorne stranke i koja ne ispunjava ili više ne ispunjava uvjete ulaska ili boravka koji se primjenjuju na teritoriju ugovorne stranke koja zahtijeva prihvat, ili koji je neposredno prije dolaska na teritorij ugovorne stranke koja zahtijeva prihvat boravio na teritoriju ugovorne stranke od koje se zahtijeva prihvat i došao izravno s njezinog teritorija, nakon stupanja na snagu ovog Ugovora.
