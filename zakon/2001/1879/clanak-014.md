@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Osnovica iz članka 4. stavka 1., članka 8. stavka 1. i članka 11. stavka 1. ovoga Zakona ne može biti niža od prosječne plaće iz prethodne godine u Republici Hrvatskoj prema dodacima Državnog zavoda za statistiku, povećane za 20%. Osnovica utvrđena za obračunavanje i plaćanje doprinosa je osnovica i za ostvarivanje prava.
+(2) Iznimno od stavka 1. ovoga članka, za radnike zaposlene na osnovi međunarodnog sporazuma o broju radnih dozvola, osnovica-plaća koju bi radnici ostvarili za iste, odnosno slične poslove u Republici Hrvatskoj ne može biti niža od prosječne plaće iz prethodne godine u Republici Hrvatskoj, prema podacima Državnog zavoda za statistiku, grane djelatnosti kojoj poslodavac pripada.

@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Obveznici plaćanja doprinosa plaćaju, za radnike koje poslodavac sa sjedištem u Republici Hrvatskoj pošalje u drugu državu radi obavljanja nekog posla za tog poslodavca, doprinose po stopi od 5,00% na osnovicu-plaću koju bi ostvarili za iste, odnosno slične poslove u Republici Hrvatskoj prema kolektivnom ugovoru, pravilniku o radu, odnosno ugovoru o radu, povećanu za 20%.
+(2) Pomorci na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom sami su obveznici plaćanja doprinosa i plaćaju doprinose po stopi od 5,00% na osnovice koje uredbom uređuje Vlada Republike Hrvatske.
+2. Doprinos za obvezno mirovinsko osiguranje na temelju generacijske solidarnosti
