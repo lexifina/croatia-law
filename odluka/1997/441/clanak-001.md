@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite ("Narodne novine" br. 31/95, 18/96, 71/96 i 11/97) u članku 15. točka 6. mijenja se i glasi: "Ako imaju utvrđen status hrvatskih branitelja iz Domovinskog rata, te članovi njihovih obitelji, sukladno Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine" br. 108/96)."
