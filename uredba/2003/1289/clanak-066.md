@@ -1,0 +1,3 @@
+# Članak 66.
+Odsjek za međunarodnopravnu pomoć obavlja upravne i stručne poslove koji se odnose na posredovanje i koordinaciju između između nadležnih tijela državne uprave i diplomatskih misija i konzularnih ureda Republike Hrvatske, koji na osnovi odredbi Bečke konvencije o konzularnim odnosima obavljaju javnobilježničke poslove u inozemstvu; obavlja poslove matičarstva i međunarodno pravne pomoći; surađuje u pripremi i izradi konzularnih konvencija; stručno prati promjena ugovorne regulative iz područje međunarodne pravne pomoći u građanskim, kaznenim i upravnim stvarima; priprema izvješća, naputke i stručna mišljenja koja se odnose na poslove iz djelokruga rada Odsjeka.
+3.2. Odsjek za imovinskopravne poslove

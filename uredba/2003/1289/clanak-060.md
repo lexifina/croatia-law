@@ -1,0 +1,8 @@
+# Članak 60.
+Uprava za međunarodnopravne i konzularne poslove obavlja poslove u svezi zaštite prava i interesa Republike Hrvatske i njezinih državljana koji žive ili borave u inozemstvu; stjecanja prava vlasništva nekretnina stranih pravnih i fizičkih osoba u Republici Hrvatskoj; izrade nacrta prijedloga ugovora o ukidanju viza i drugih dvostranih ugovora iz područja konzularnih poslova; izdavanja diplomatskih i službenih putovnica; izdavanja odobrenja za prelet i/ili slijetanje stranih državnih i vojnih zrakoplova, te odobrenja za uplovljenje državnih i/ili vojnih brodova; suradnja u obavljanju konzularnih poslova s DM/KU stranih država i međunarodnih organizacija; obavlja upravne i stručne poslove vezane za: analiziranje i praćenje pitanja međunarodnog prava i međunarodnih odnosa; sudjelovanje u pripremi zaključivanja međunarodnih ugovora; vođenje zbirke i evidencije izvornika međunarodnih ugovora i isprava; obavlja poslove skrbi o statusu hrvatskih autohtonih manjina u europskim državama i ostvarivanju njihovih manjinskih prava; razvijanje suradnje s hrvatskim iseljeništvom i briga o očuvanju njihovog nacionalnog i kulturnog identiteta; upravni i drugi poslovi koji se odnose na povratak iseljenog hrvatskog pučanstva u Republiku Hrvatsku i njihovo uključivanje u gospodarski i društveni život u Republici Hrvatskoj.
+Ustrojstvene jedinice VIII. Uprave - Uprave za međunarodnopravne i konzularne poslove su:
+1. Odjel za međunarodnopravne poslove;
+2. Odjel za putne isprave i strance;
+3. Odjel za međunarodnopravnu pomoć i imovinskopravne poslove;
+4. Odjel za hrvatske manjine, iseljeništvo i useljeništvo.
+1. Odjel za međunarodnopravne poslove

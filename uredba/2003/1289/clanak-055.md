@@ -1,0 +1,6 @@
+# Članak 55.
+Odjel za informiranje i izdavaštvo obavlja poslove dnevnog informiranja Ministarstva i DM/KU Republike Hrvatske; priprema biltene koji se temelje na obrađenim prilozima iz domaćih i stranih medija i drugih otvorenih izvora; izrađuje posebna izvješća, preglede ili informacije za potrebe službe vanjskih poslova; bavi se odabirom i prevođenjem članaka iz stranog tiska, agencija, radio i TV postaja; izrađuje Internet stranice Ministarstva i brine o njihovom sadržajnom i grafičkom oblikovanju; sadržajno priprema, uređuje i prevodi, odnosno, organizira prevođenje na strane jezike za potrebe Internet stranice i za druge promotivne svrhe; priprema, uređuje i ažurira zaštićene web stranice (intranet); koordinira poslove u svezi s prevođenjem te izradom i ažuriranjem Internet i intranet stranica službe vanjskih poslova; koordinira internu i eksternu elektronsku komunikaciju; pohranjuje prikupljena izvješća u Odjelu u elektronskom i papirnatom obliku; obavlja poslove dnevnog informiranja Ministarstva i DM/KU Republike Hrvatske; priprema izvješća koja se temelje na obrađenim prilozima iz domaćih i stranih medija, te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova i zadaća iz ovog članak u Odjelu za informiranje i izdavaštvo ustrojava se:
+1. Odsjek za informiranje;
+2. Odsjek za web stranice.
+2.1. Odsjek za informiranje

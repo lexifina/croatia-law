@@ -1,0 +1,6 @@
+# Članak 62.
+Odjel za putne isprave i strance poslove obavlja upravne i stručne poslove koji se odnose na: zaštitu prava i interesa Republike Hrvatske i njezinih državljana, koji žive i borave u inozemstvu; posredovanje i koordinaciju između diplomatskih misija i konzularnih ureda i nadležnih državnih tijela u obavljanja poslova iz područja unutarnjih poslova, obrane; obradu zahtjeva za izdavanje putovnica po zahtjevima zaprimljenim u DM/KU u okviru postupka centralizirane izrade putovnica; izdavanje diplomatskih i službenih putovnica i o tome vođenja propisanih evidencija; poslove u vezi izdavanja diplomatskih odobrenja za prelet i/ili slijetanje stranih državnih zrakoplova te uplovljivanjem stranih državnih i vojnih brodova; izradu nacrta prijedloga ugovora o ukidanju viza te drugih ugovora iz oblasti konzularnih poslova; suradnju u obavljanju konzularnih poslova s diplomatskim misijama i konzularnim uredima stranih država i međunarodnih organizacija u Republici Hrvatskoj; izradu izvješća, naputke, informacija i stručnih mišljenja koja se odnose na poslove iz djelokruga rada Odjela te obavlja druge poslove iz svog djelokruga rada.
+Za obavljanje poslova i zadaća iz ovog članka u Odjelu za putne isprave i strance ustrojavaju se sljedeći odsjeci:
+1. Odsjek za putne isprave;
+2. Odsjek za državljanstvo i strance.
+2.1. Odsjek za putne isprave

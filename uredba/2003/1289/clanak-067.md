@@ -1,0 +1,3 @@
+# Članak 67.
+Odsjek za imovinskopravne poslove obavlja stručne poslove koji se odnose na posredovanje i koordinaciju između DM/KU i nadležnih državnih tijela u poslovima koji se tiču nasljeđivanja, alimentacijskih potraživanja; pružanja pravne pomoći hrvatskim državljanima koji žive ili borave u inozemstvu u vezi ostvarivanja prava i zaštite iz područja socijalne skrbi, mirovinskog i socijalnog osiguranja, ostvarivanja carinskih i poreznih olakšica; poslove u vezi stjecanja prava vlasništva nekretnina u Republici Hrvatskoj stranih pravnih i fizičkih osoba te priprema izvješća, naputke i stručna mišljenja koja se odnose na poslova iz djelokruga rada Odsjeka.
+4. Odjel za hrvatske manjine, iseljeništvo i useljeništvo

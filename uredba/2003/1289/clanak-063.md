@@ -1,0 +1,3 @@
+# Članak 63.
+Odsjek za putne isprave obavlja poslove koji se odnose na: posredovanje i koordinaciju između DM/KU i nadležnih državnih tijela u obavljanju upravnih poslova u vezi s izdavanjem putnih isprava u DM/KU; obradu zahtjeva za izdavanje putovnica po zahtjevima zaprimljenim u DM/KU u okviru centralizirane izrade putovnica, vođenje evidencija na informacijskom sustavu Ministarstva unutarnjih poslova o izdanim putnim ispravama hrvatskih državljana; izdavanje službenih i diplomatskih putovnica i vođenje o tome odgovarajućih evidencija; pripremanje izvješća, naputka i stručnih mišljenja koja se odnose na poslova iz djelokruga rada Odsjeka.
+2.2. Odsjek za državljanstvo i strance

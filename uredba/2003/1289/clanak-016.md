@@ -1,0 +1,3 @@
+# Članak 16.
+Odsjek za razvoj i podršku službi vanjskih poslova koordinira i obavlja poslove analize stanja, planiranja razvoja i osiguravanja materijalno-tehničkih pretpostavki za rad službe vanjskih poslova; koordinira i obavlja poslove standardizacije pokretne i nepokretne imovine i opremljenosti Ministarstva i DM/KU; poslove racionalizacije u korištenju materijalno-financijske imovine službe vanjskih poslova; poslove planiranja i projekcije godišnjih projekata i izrade izvješća; kontaktira i obilazi DM/KU te rješava njihove zahtjeve iz djelokruga rada odjela; priprema podloge za donošenje odluka tajnika Ministarstva; obavlja pripreme diplomatskih službenika i namještenika, te ostale poslove iz svog djelokruga.
+3.2. Odsjek za upravljanje imovinom

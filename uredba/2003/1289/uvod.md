@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o vanjskim poslovima (Narodne novine, broj 48/96), članka 60. stavka 1. i 2. Zakona o sustavu državne uprave (Narodne novine, br. 75/93, 48/99, 15/00 i 59/01), Vlada Republike Hrvatske je na sjednici održanoj 12. lipnja 2003. godine, na prijedlog ministra vanjskih poslova, donijela

@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek vrši obradu dokumentacije odnosno usklađivanje stanja, kontiranje, unos i kontroliranje financijske dokumentacije iz svih DM/KU u inozemstvu, a u skladu sa zakonskim i podzakonskim aktima koji uređuju proračunsko i devizno poslovanje; sudjeluje u pripremi i izradi periodičnih, polugodišnjih i završnih računa; priprema djelatnike za rad na financijskim poslovima u DM/KU; obavlja devizni platni promet s inozemstvom i usko surađuje sa HNB i drugim poslovnim bankama; prati i izučava propise iz domene proračunskog i deviznog poslovanja.
+5.3. Odsjek za plan i analizu

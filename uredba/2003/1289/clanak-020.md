@@ -1,0 +1,3 @@
+# Članak 20.
+Pododsjek organizira prijevoz dužnosnika i ostalih djelatnika Ministarstva za službene potrebe, dežurstva vozača; obavlja u suradnji s Odjelom za nabavu preseljenja dužnosnika i djelatnika Ministarstva pri odlasku ili povratku s rada iz DM/KU Republike Hrvatske u inozemstvu; obavlja različite vrste transporta u i iz DM/KU namještaja i razne druge opreme za potrebe veleposlanstva i rezidencija, prijevoz raznog propagandnog materijala, umjetnina za potrebe raznih izložbi; organizira održavanje vozila voznog parka Ministarstva i pojedinih DM/KU; vodi evidenciju o načinu korištenja voznog parka i drugo.
+4. Odjel nabave

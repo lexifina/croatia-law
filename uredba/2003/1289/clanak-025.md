@@ -1,0 +1,3 @@
+# Članak 25.
+Odsjek izrađuje mjesečni, kvartalni i godišnji plan Proračuna za tekuću godinu, te planove za tekuće i kapitalne izdatke; izrađuje izvješće o izvršenju Proračuna i poslovanja Ministarstva za prethodnu godinu; izrađuje mjesečne zahtjeve Ministarstvu financija za plaće djelatnika i tekuće izdatke; izvješćuje o ostvarenim financijskim prihodima i rashodima svih DM/KU, kao i analizu ostvarenog plana; vodi evidenciju i obračun plaća djelatnika u inozemstvu; izvješćuje o troškovima ugovornih djelatnika, stanarina i školarina u DM/KU; vrši unos u sustav riznice mjesečnih planova, revidiranih planova, rezervacija i zahtjeva za sredstva za plaće i tekuće izdatke.
+6. Odjel za informacijske sustave

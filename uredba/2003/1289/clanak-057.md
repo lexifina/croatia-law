@@ -1,0 +1,3 @@
+# Članak 57.
+Odsjek oblikuje, izrađuje, održava i ažurira Internet i intranet stranice službe vanjskih poslova; sadržajno priprema, uređuje i prevodi, odnosno, organizira prevođenje na strane jezike za potrebe Internet stranice i za druge promotivne svrhe; koordinira poslove u svezi s prevođenjem te izradom i ažuriranjem Internet i intranet stranica službe vanjskih poslova; koordinira internu i eksternu elektronsku komunikaciju; pohranjuje prikupljena izvješća u Odjelu u elektronskom i papirnatom obliku; distribuira i otprema biltene OI elektronskim putem; fotografira i izrađuje foto arhiv Ministarstva.
+3. Odjel za kulturnu promociju
