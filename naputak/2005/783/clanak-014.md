@@ -1,0 +1,2 @@
+# Članak 14.
+Nakon što je obavio pečaćenje neispravnih mjerila ili pakovina, odnosno ulaza u radne prostorije i prostore u kojima se nalaze mjerila ili pakovine, inspektor u pravilu na vidnom mjestu zapečaćenih mjerila odnosno pakovina ili zapečaćenih ulaznih vrata postavlja primjerak rješenja koje je izvršeno i/ili pisano upozorenje o kaznenom djelu skidanja i povrede službenog pečata ili znaka (članak 323. Kaznenog zakona (»Narodne novine« br. 110/97., 27/98., 129/00., 51/01 i 105/04).

@@ -1,0 +1,3 @@
+# Članak 3.
+Stranci se zaključkom o dozvoli izvršenja, odnosno istim rješenjem kojim se određuje pečaćenje radnih prostorija i prostora, nalaže da poslovne prostorije koje se pečate isprazni od svih roba koje bi se za vrijeme trajanja mjere pečaćenja mogle pokvariti, kao i da poduzme i osigura sve sigurnosne i druge mjere u poslovnim prostorijama i na sredstvima rada kako ne bi došlo do bilo kakve štete (isključiti struju, plin, vodu, osigurati protupožarne mjere i sl.).
+Ako stranka nije vlasnik poslovnih prostorija, akt kojim se određuje mjera pečaćenja (zaključak ili rješenje) dostavlja se na znanje i vlasniku poslovnih prostorija.

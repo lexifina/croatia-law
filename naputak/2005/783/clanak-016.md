@@ -1,0 +1,2 @@
+# Članak 16.
+Ako je iz opravdanih razloga (primjerice radi otklanjanja kvara na instalacijama ili radi poduzimanja nekih drugih radnji u svezi sa sigurnošću, zaštitom okoliša ili sprječavanjem nastanka štete) nakon pečaćenja potrebno nakratko otpečatiti poslovne prostorije ili sredstva rada dok mjera pečaćenja traje, to će obaviti, kao i novo pečaćenje, inspektor koji je izvršio pečaćenje ili drugi nadležni inspektor Državnog zavoda za mjeriteljstvo (u daljnjem tekstu: Zavoda), uz obvezno sastavljanje zapisnika o tim radnjama.
