@@ -1,0 +1,4 @@
+# Članak 7.
+(1) a) Pohrana registrirana kod Međunarodnog ureda ima isti učinak u svakoj državi ugovornici designiranoj od podnositelja prijave u njegovoj prijavi kao da je podnositelj prijave udovoljio svim formalnostima za odobravanje zaštite koje su propisane nacionalnim zakonom i kao da su obavljeni svi upravni postupci koje u tu svrhu zahtijeva ured te države.
+b) Podložno odredbama iz članka 11., zaštita dizajna čija je pohrana registrirana kod Međunarodnog ureda uređena je u svakoj državi ugovornici onim odredbama nacionalnoga zakona koje se u toj državi primjenjuju na dizajne za koje se traži zaštita na temelju nacionalne pohrane i u odnosu na koje je udovoljeno svim formalnostima i u odnosu na koje su obavljeni svi upravni postupci.
+(2) Međunarodna pohrana nema učinka u državi podrijetla ako to određuju propisi te države.

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Haški sporazum o međunarodnoj pohrani industrijskoga dizajna, od 6. studenoga 1925., revidiran u Hagu, 28. studenoga 1960. (Haški akt 1960.), i dopunjen u Stockholmu, 14. srpnja 1967., s izmjenama od 28. rujna 1979. (Stockholmski dopunski akt 1967.), te Ženevski akt Haškog sporazuma o međunarodnoj registraciji industrijskoga dizajna, usvojen u Ženevi, 2. srpnja 1999. (Ženevski akt 1999.).

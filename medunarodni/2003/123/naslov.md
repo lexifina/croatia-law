@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Haškog sporazuma o međunarodnoj pohrani industrijskog dizajna, od 6. studenoga 1925. revidiranog u Hagu, 28. studenoga 1960. (Haški akt 11960.), i dopunjenog u Stockholmu, 14. srp

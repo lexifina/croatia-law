@@ -1,0 +1,5 @@
+# Članak 31.
+Primjena Akata iz 1934. i 1960.
+(1) Odnos između država stranaka i ovoga Akta i Akta iz 1934. ili Akta iz 1960. U pogledu međusobnih odnosa država stranaka i ovoga Akta i Akta iz 1934. ili Akta iz 1960. primjenjuje se samo ovaj Akt. Međutim, takve države u svojim međusobnim odnosima primjenjuju Akt iz 1934. ili Akt iz 1960., ovisno o slučaju, na industrijske dizajne pohranjene pri Međunarodnom uredu prije datuma od kojega se ovaj Akt počinje primjenjivati u pogledu njihovih međusobnih odnosa.
+(2) Odnos između država stranaka i ovoga Akta i Akta iz 1934. ili Akta iz 1960. i država koje su stranke Akta iz 1934. ili Akta iz 1960., a nisu stranke ovoga Akta a) Svaka država koja je stranka i ovoga Akta i Akta iz 1934. nastavlja primjenjivati Akt iz 1934. u svojim odnosima s državama koje su stranke Akta iz 1934., a nisu stranke Akta iz 1960. ili ovoga Akta.
+b) Svaka država koja je stranka i ovoga Akta i Akta iz 1960. nastavlja primjenjivati Akt iz 1960. u svojim odnosima s državama koje su stranke Akta iz 1960., a nisu stranke ovoga Akta.
