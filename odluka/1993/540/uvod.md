@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. Uredbe o načinu održavanja likvidnosti u plaćanjima prema inozemstvu ("Narodne novine", broj 61/92) i članka 67. pod 6) Zakona o Narodnoj banci Hrvatske ("Narodne novine", br. 74/92) Savjet Narodne banke Hrvatske na sjednici održanoj 1. travnja 1993. godine donio je
