@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 2. Uredbe o plaćama u djelatnosti zdravstva ("Narodne novine" broj 48/94) i članka 10. statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 10. sjednici održanoj 26. listopada 1994 godine, donijelo je
