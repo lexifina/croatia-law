@@ -1,0 +1,1 @@
+Na temelju članka 6. Ustavnog zakona za provedbu Ustava Republike Hrvatske, člana 35. Poslovnika Sabora Republike Hrvatske i članka 125. Zakona o vodama ("Narodne novine", br. 53/90 i 9/91) Sabor Republike Hrvatske, na sjednici Vijeća udruženog rada 21. ožujka 1991, Vijeća općina 21. ožujka 1991. i Društveno-političkog vijeća 21. ožujka 1991, donio je
