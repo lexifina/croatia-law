@@ -1,0 +1,2 @@
+# Članak 4.
+Radom Agencije upravlja direktor kojega imenuje i razrješuje od dužnosti Vlada Republike Hrvatske. Direktor je za svoj rad i rad Agencije odgovoran Vladi Republike Hrvatske, neposredno potpredsjedniku Vlade Republike Htvatske zaduženom za gospodarstvo. Direktor Agencije ima u odnosu na Agenciju, prava i dužnosti dužnosnika organa državne uprave. Direktor Agencije ima pomoćnika kojega imenuje Vlada Republike Hrvatske, na prijedlog direktora Agencije.

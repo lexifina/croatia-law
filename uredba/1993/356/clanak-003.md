@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva za posebne namjene, koja se Agenciji osiguravaju u državnom proračunu, za provođenje njenih poslova, te sredstva koja Agencija ostvari iz drugih izvora, vode se na posebnom raćunu Agencije. Agencija je ovlaštena u okviru poslova i zadataka iz svojega djelokruga sklapati ugovore i zaključivati druge pravne poslove u koordinaoiji s Ministarstvom industrije, brodogradnje i energetike.
