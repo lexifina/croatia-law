@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim pravilnikom utvrđuje se način organiziranja nastave u obrtničkim školama (u daljnjem tekstu: organiziranje nastave za zanimanja u obrtništvu) i praktične nastave u drugim strukovnim školama. Odredbe ovoga pravilnika kojima se uređuje način organiziranja nastave za zanimanje u obrtništvu odgovarajuće se primjenjuju i na stjecanje obrazovanja za zanimanja potrebna za obavljanje djelatnosti samostalnih ugostiteljskih i trgovačkih radnji, koje su članice Saveza udruženja hrvatskih obrtnika.

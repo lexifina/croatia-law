@@ -1,0 +1,3 @@
+## II. ORGANIZIRANJE PRAKTIČNE NASTAVE U DRUGIM STRUKOVNIM ŠKOLAMA
+# Članak 8.
+Praktična nastava u tehnićkim, industrijskim i drugim strukovnim školama organizira se u školskim radionicama. Ako strukovna škola nema školsku radionicu ili ako nije adekvatno opremljena, praktična nastava organizira se i izvodi u radionicama ili pogonima poduzeća. Praktična nastava u radionicama ili pogonima poduzeća organizira se na način i pod uvjetima utvrđenim nastavnim planom i programom strukovne škole i ugovorom zaključenim između škole i poduzeća odnosno radionice poduzeća. Na sadržaj ugovora iz stavka 3. ovoga članka odgovarajuće se primjenjuje odredba članka 4 stavka 2. ovoga pravilnika.
