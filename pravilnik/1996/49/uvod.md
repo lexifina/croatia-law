@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 3. Zakona o eksplozivnim tvarima za gospodarsku uporabu ("Narodne novine" br. 12/94.) ministar unutarnjih poslova, uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo, donosi
