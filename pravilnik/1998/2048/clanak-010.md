@@ -1,0 +1,3 @@
+# Članak 10.
+Stručno usavršavanje zaposlenika koji rade na stručnim poslovima tehničkih pregleda vozila (nadzornika) obavlja se prema posebnom programu stručnog usavršavanja (Program ispita za nadzornike tehničke ispravnosti vozila).
+Stručno usavršavanje zaposlenika koji rade na stručnim referentskim poslovima tehničkih pregleda vozila, registracije vozila, usluga registracije vozila, osiguranja vozila, naplate naknada za ceste i drugih obveza i zaposlenika koji rade na drugim stručnim referentskim poslovima u stanicama za tehnički pregled vozila (poput blagajničkih, evidencijskih i dr.) - referenata, obavlja se prema posebnom programu stručnog usavršavanja koji donose stručne organizacije.

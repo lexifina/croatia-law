@@ -1,0 +1,3 @@
+# Članak 5.
+Stručnom usavršavanju i provjeri stručnosti podvrgavaju se zaposlenici koji rade na tehničkim i referentskim poslovima tehničkih pregleda, registracije vozila, usluga registracije vozila, osiguranja vozila, naplate naknada za ceste i drugim stručnim poslovima u stanicama za tehničke preglede vozila (poput blagajničkih, evidencijskih i sl.), kao i zaposlenici koji neposredno rukovode stanicama.
+Stručnom usavršavanju i provjeri stručnosti mogu pristupiti i zaposlenici drugih tijela i organizacija (npr. osiguravajućih zavoda i sl.) koji rade u prostorijama pravne osobe unutar koje djeluje stanica za tehnički pregled vozila.
