@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 4. stavak 5. mijenja se i dodaju se stavci 6. i 7. koji glase:
+»(5) Štetočinje bilja iz stavka 1. ovoga članka, s obzirom na opasnost za zdravlje i opstanak pojedinih vrsta bilja i na potencijalne štete za gospodarstvo zemlje, razvrstavaju se u popise štetočinja bilja koji se odnose na zabranu unosa i širenja u Republiku Hrvatsku.
+(6) Određene vrste bilja s kojima se prenose štetočinje bilja iz stavka 1. ovoga članka koje predstavljaju opasnost za zdravstveno stanje bilja ili prouzrokuju gospodarski važne štete, razvrstavaju se u popise bilja za koje vrijede posebni uvjeti prilikom uvoza u Republiku Hrvatsku i u popise bilja koje je zabranjeno uvoziti u Republiku Hrvatsku.
+(7) Popise štetočinja bilja, popise bilja i biljnih proizvoda za koje vrijede posebni uvjeti i popise bilja koje je zabranjeno unositi/uvoziti u Republiku Hrvatsku, iz stavka 5. i 6. ovoga članka utvrđuje ministar poljoprivrede i šumarstva (u daljnjem tekstu: ministar) i objavljuju se u »Narodnim novinama«.

@@ -1,0 +1,7 @@
+# Članak 32.
+Iza članka 40. dodaje se članak 40.a koji glasi:
+»Članak 40.a
+(1) Iznimno od odredbi članka 40. ovoga Zakona, ministar može, na prijedlog Komisije i uz pribavljeno mišljenje Ministarstva zdravstva, dozvoliti stavljanje u promet i primjenu sredstava za zaštitu bilja u ekološkoj proizvodnji i sredstava za zaštitu bilja koja utječu na životne procese na način drugačiji od hranjiva, te dozvoliti proširenje dozvole za male namjene bez provođenja kemijskih, fizikalnih i bioloških istraživanja ili uz samo djelomično provođenje tih istraživanja.
+(2) Za sredstvo za zaštitu bilja proizvedeno od djelatnih tvari od kojih je proizvedeno istovjetno sredstvo za zaštitu bilja koje se već nalazi u prometu i za koje je izdana dozvola, a u prometu je u Republici Hrvatskoj najmanje tri godine i ocijenjeno je uspješnim, može se izdati dozvola samo na temelju kemijskog i fizikalnog istraživanja, za namjene i uz uvjete utvrđene u dozvoli za istovjetno sredstvo. Podnositelj zahtjeva kojem se izdaje takva dozvola snosi punu odgovornost u odnosu na postojeće međunarodne i hrvatske propise patentnog prava.
+(3) Smatra se da je sredstvo za zaštitu bilja istovjetno sredstvu za zaštitu bilja koje se već nalazi u prometu, kad ima isti deklarirani sadržaj djelatnih tvari, isti sadržaj emulgatora, otapala i drugih pomoćnih tvari i najmanje istu čistoću i istu vrstu formulacije.
+(4) Način, postupak i uvjete za izdavanje dozvole iz stavka 1. i 2. ovoga članka, propisuje ministar.«
