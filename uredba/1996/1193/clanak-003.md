@@ -1,0 +1,4 @@
+# Članak 3.
+Sudionikom domovinskog rata u smislu ove Uredbe podrazumijeva se hrvatski branitelj iz domovinskog rata kojem je to svojstvo priznato u smislu članka 2. Zakona o pravima hrvatskih branitelja iz domovinskog rata ("Narodne novine", br. 2/94, 52/94 i 36/95).
+Sudionikom domovinskog rata smatra se i članove obitelji hrvatskog branitelja poginulog, zatočenog ili nestalog u okolnostima iz članka 2. Zakona o pravima hrvatskih branitelja iz domovinskog rata.
+Prognanom i izbjeglom osobom u smislu ove Uredbe smatra se osoba koja je taj status stekla sukladno odredbi članka 2. Zakona o statusu prognanika i izbjeglica ("Narodne novine", br. 96/93 i 39/95) te prognaniku i izbjeglici koji je stekao status povratnika temeljem Uredbe o povratku prognanika i izbjeglica na oslobođena područja ("Narodne novine", broj 81/95).

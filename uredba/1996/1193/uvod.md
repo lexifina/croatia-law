@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 4. Zakona o poljoprivrednom zemljištu ("Narodne novine", broj 54/94 - pročišćeni tekst i 48/95), na prijedlog Ministarstva rada i socijalne skrbi i Ministarstva obrane, Vlada Republike Hrvatske je na sjednici održanoj 12. srpnja 1996. godine, donijela
