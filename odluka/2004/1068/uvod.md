@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 25. Statuta Općine Vižinada (»Službeni glasnik Grada Poreča« 12/01), Općinsko vijeće Općine Vižinada na sjednici održanoj 31. ožujka 2004. godine, donosi
