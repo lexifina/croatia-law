@@ -1,0 +1,1 @@
+Na osnovi članka 14. Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima s primjenom od 1. travnja 2000. godine i članka 13. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 1/94) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 3. sjednici, održanoj dana 15. svibnja 2000. godine donijelo je
