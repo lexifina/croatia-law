@@ -1,0 +1,2 @@
+# Članak 1.
+Kolektivnim ugovorom za grafičko-prerađivaćku i novinsko-nakladničku djelatnost (u nastavku teksta: Kolektivni ugovor) uređuju se prava i obveze radnika iz rada i na osnovi rada zaposlenih u poduzećima i kod poslodavaca koji se bave grafičkom djelatnošću, preradom papira i izradom predmeta od papira te novinsko-nakladničkom djelatnošću, kao i prava i obveze tih poduzeća i poslodavaca u skladu sa zakonom, Općim kolektivnim ugovorom za gospodarstvo i drugim propisima.
