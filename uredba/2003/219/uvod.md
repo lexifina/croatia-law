@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 4. Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, broj 33/2002), Vlada Republike Hrvatske je na sjednici održanoj 30. siječnja 2003. godine donijela
