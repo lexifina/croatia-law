@@ -1,0 +1,7 @@
+# Članak 2.
+Naslov iznad članka 15. i članak 15. mijenjaju se i glase:
+»2.4. Odjel za sigurnosne, pomoćno-tehničke i informatičke poslove
+Članak 15.
+Odjel za sigurnosne, pomoćno-tehničke i informatičke poslove obavlja sigurnosne poslove koji se odnose na cjelovitu zaštitu osoba, imovine i objekata Ministarstva, te s tim u vezi priprema planove i predlaže mjere, prati stanje civilnih obrambenih priprema, te u suradnji s Ministarstvom obrane predlaže mjere.
+Odjel obavlja pomoćno-tehničke poslove koji se odnose na koordinaciju u vezi upravljanja i održavanja Poslovnog objekta.
+Odjel obavlja informatičke poslove koji obuhvaćaju stručne i tehničke poslove koji se odnose na pripremu podataka i održavanje informacijskog sustava Ministarstva, osigurava informacije iz domaćih i stranih baza podataka, međunarodnih, državnih i nevladinih organizacija, te potiče racionalizaciju gospodarstva primjenom informatizacijskih tehnologija, a u suradnji s drugim tijelima državne uprave. Odjel projektira, koordinira i organizira izradu informacijskih sustava, razvitak komunikacijske mreže, izradu registara, evidencija, šifarnika i potiče mjere zaštite i osiguranja podataka, prati funkcioniranje i predlaže mjere za unaprjeđivanje rada informacijskog sustava Ministarstva; analizira i odabire sve komplementarne infotehnologije, nadzire tekuće održavanje informatičke opreme, educira službenike i namještenike na području informatike, prati i analizira svjetske i domaće standarde u pogledu automatske obrade podataka, obavlja i druge poslove iz svog djelokruga.«
