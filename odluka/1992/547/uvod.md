@@ -1,0 +1,1 @@
+Na temelju članka 41. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 1992. godinu ("Narodne novine", br. 18/92), Administrativna komisija Sabora Republike Hrvatske, na 22. sjednici, održanoj 8. travnja 1992 godine, donijela je
