@@ -1,0 +1,2 @@
+# Članak 4.
+Iznimno, ako se uništena odnosno razorena oprema i objekti nalaze na području privremeno zaposjednutom od neprijatelja ili postoje drugi objektivni razlozi zbog kojih nije moguće postojanje ili visinu štete nastale ratnim razaranjem dokazati na način utvrđen člankom 3. ovog pravilnika, općinska komisija za popis i procjenu ratne štete posebnim zaključkom omogućiti će izvođenje dokaza putem pisane izjave svjedoka i slično.
