@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske, članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske i člsnka 3. stavka 2. Zakona o utvrđivanju plaće i drugih primanja dužnosnika ("Narodne novine", br. 60/92. i 75/92.), Zastupnički dom Sabora Republike Hrvatske na sjednici 30. prosinca 1992., donio je
