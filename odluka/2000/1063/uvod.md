@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske (»Narodne novine«, broj 36/91) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj 27. travnja 2000. godine, donijela
