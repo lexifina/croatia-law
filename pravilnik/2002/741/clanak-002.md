@@ -1,0 +1,2 @@
+# Članak 2.
+Odredbe članka 1. ovog Pravilnika ne odnose se na objekte stanica za redovni tehnički pregled vozila čiju je izgradnju započela stručna organizacija, odnosno pravna ili fizička osoba koja je u tom razdoblju zaključila ugovor sa stručnom organizacijom, na temelju odredbi Pravilnika broj: 8584 odnosno I/1, broj: 2273-1/98 od 18. prosinca 1998. godine (objavljenog u »Narodnim novinama« 166/98).
