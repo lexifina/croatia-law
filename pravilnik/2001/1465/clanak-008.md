@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Ministarstvo financija tiskanje će mjesečnih nadzornih markica, u skladu s propisanim uvjetima o postupku nabave roba i usluga te o ustupanju radova, povjeriti pravnoj ili fizičkoj osobi koja može osigurati njihovu zaštitu i sigurnost.
+(2) Ministarstvo financija raspisat će natječaj o povjeravanju poslova prema stavku 1. ovoga članka uz uvjete pod kojima se ti poslovi povjeravaju određenoj pravnoj ili fizičkoj osobi. O ispunjavanju uvjeta iz natječaja odlučuje povjerenstvo koje imenuje ministar financija.
+(3) Ugovorom između Ministarstva financija i pravne ili fizičke osobe kojoj se povjeravaju poslovi tiskanja mjesečnih nadzornih markica uredit će se oblik markica, njihova jedinična cijena, vrsta papira, za tiskanje markica, odnosi između Ministarstva financija i tiskare glede planiranih potreba i naručene količine markica, mjesto i način predaje tiskanih markica Ministarstvu financija te vođenje evidencija u tiskari.
