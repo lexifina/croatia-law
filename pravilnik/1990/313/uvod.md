@@ -1,0 +1,1 @@
+Na temelju člana 48. stava 2. Zakona o zaštiti boraca narodnooslobodilačkog rata ("Narodne novine", br. 57/85, 55/86, 57/89) Republički komitet za boračka i invalidska pitanja, na sjednici održanoj 15. ožujka 1990. godine, donio je
