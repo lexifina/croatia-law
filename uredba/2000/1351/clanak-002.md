@@ -1,0 +1,4 @@
+# Članak 2.
+Ured radi po nalozima, uputama i pod nadzorom Povjerenstva za internetizaciju kojeg čine potpredsjednik, zamjenik predsjednika Vlade, ministar znanosti i tehnologije, ministar za europske integracije, ministar financija, ministar za obrt, malo i srednje poduzetništvo, ministar pravosuđa, uprave i lokalne samouprave, ministar prosvjete i športa, ministar rada i socijalne skrbi, ministar unutarnjih poslova, ministar zaštite okoliša i prostornog uređenja i ministar zdravstva.
+Pri Uredu, kao stručno tijelo, djeluje Savjet za internetizaciju kojeg čine stručnjaci za područje internetizacije koje odredi Povjerenstvo za internetizaciju. Sjednice Savjeta održavaju se po potrebi, a saziva ih i njima predsjedava predstojnik Ureda.
+Povjerenstvo za internetizaciju može pri Uredu osnovati i druge ekspertne skupine za pojedina područja ili pitanja internetizacije. Odlukom o osnivanju ekspertnih skupina određuje se njihov sastav, područje i način njihova rada.
