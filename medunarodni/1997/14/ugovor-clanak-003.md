@@ -1,0 +1,5 @@
+# Članak 3.
+Odgovornost vozara
+1. Vozar odgovara za pretrpljenu štetu zbog smrti ili tjelesne ozljede putnika i za gubitak ili oštećenje prtljage ako se događaj koji je prouzročio tako pretrpljenu štetu dogodio za vrijeme prijevoza zbog krivnje ili propusta vozara ili njegovih službenika ili punomoćnika koji rade u granicama svoje službe.
+2. Tužitelj je dužan dokazati da je događaj koji je prouzročio gubitak ili oštećenje nastao za vrijeme prijevoza te opseg gubitka ili oštećenja.
+3. Krivnja ili nemarnost vozara ili njegovih službenika ili punomoćnika koji rade u granicama svoje službe pretpostavljaju se, dok se ne dokaže suprotno, ako su smrt ili tjelesna ozljeda putnika ili gubitak ili oštećenje ručne prtljage nastali pri brodolomu, sudaru, nasukanju, eksploziji ili požaru ili zbog mane broda. Što se tiče gubitka ili oštećenja druge prtljage, takva krivnja ili nemarnost se pretpostavljaju dok se ne dokaže suprotno, bez obzira na narav događaja koji je prouzročio gubitak ili oštećenje. U svim drugim slučajevima tužitelj je dužan dokazati krivnju ili nemarnost.
