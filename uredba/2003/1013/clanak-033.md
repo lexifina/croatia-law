@@ -1,0 +1,2 @@
+# Članak 33.
+Telekomunikacijski operatori, mrežni operatori, davatelji usluga i davatelji pristupa moraju osigurati da pouzdanost funkcije tajnog nadzora bude veća ili jednaka pouzdanosti koju ciljana telekomunikacijska usluga pruža subjektu tajnog nadzora. Kakvoća usluge prosljeđivanja nadzirane komunikacije prema Operativno-tehničkom centru za nadzor telekomunikacija mora biti u skladu s tehničkim standardima telekomunikacijskog operatora, mrežnog operatora, davatelja usluga i davatelja pristupa.

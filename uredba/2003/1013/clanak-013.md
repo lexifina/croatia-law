@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Telekomunikacijski operatori, mrežni operatori, davatelji usluga i davatelji pristupa obvezni su čuvati kao državnu tajnu sve podatke i saznanja koja imaju o sredstvima, postupcima i podacima u vezi s primjenom mjera tajnog nadzora telekomunikacija.
+(2) Telekomunikacijski operatori, mrežni operatori, davatelji usluga i davatelji pristupa smiju se koristiti podacima i signalima proizvedenim primjenom funkcije tajnog nadzora telekomunikacija isključivo za potrebe održavanja funkcije tajnog nadzora i samo na način koji je propisao ili odobrio Operativno-tehnički centar za nadzor telekomunikacija.
