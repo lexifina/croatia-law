@@ -1,3 +1,6 @@
 # Članak 13.
-(1) Poslove Državnoga ureda za reviziju koji se utvrde godišnjim programom rada koje Ured obavi po zahtjevima za reviziju Zastupničkog doma Sabora financiraju se iz državnog proračuna.
-(2) Višak prihoda nad izdacima Državni ured za reviziju uplaćuje u državni proračun.
+Glavni državni revizor bit će razriješen dužnosti prije isteka vremena na koje je imenovan:
+- ako to sam zatraži,
+- ako uz svoj pristanak bude imenovan na drugu dužnost,
+- ako trajno izgubi sposobnost obavljanja svoje dužnosti i
+- ako bude osuđen za kazneno djelo koje ga čini nedostojnim za obavljanje dužnosti glavnoga državnog revizora.
