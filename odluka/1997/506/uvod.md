@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 2. Uredbe o osnivanju Hrvatskog informativno-kulturnog zavoda ("Narodne novine", broj 72/94), Vlada Republike Hrvatske je na sjednici održanoj 27. ožujka 1997. godine donijela
