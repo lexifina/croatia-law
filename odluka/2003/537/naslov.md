@@ -1,0 +1,1 @@
+Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, kulturnih, znanstvenih, sportskih i zdravstvenih programa i projekata hrvatskih manjina u susjednim i drugim zemljama
