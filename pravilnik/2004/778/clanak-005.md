@@ -1,0 +1,7 @@
+# Članak 5.
+Voditelj mjere bez odgode će provjeriti sigurnost žrtve i prikupiti obavijesti radi utvrđivanja postupa li počinitelj u skladu s izrečenom zaštitnom mjerom.
+Voditelj mjere pozvat će žrtvu na suradnju radi uspješne provedbe zaštitne mjere, podučit će je o mjerama i sredstvima njene samozaštite, načinima i sredstvima međusobnog komuniciranja za cijelo vrijeme trajanja provedbe zaštitne mjere u cilju osiguranja pravodobne razmjene obavijesti i poduzimanja neodgodivih mjera i radnji nužnih za njenu zaštitu. Žrtvu će se uputiti da o svakoj namjeri napuštanja boravišta prethodno obavijesti policijsku postaju radi pravodobnog uključivanja u provedbu zaštitne mjere policijske postaje na čijem području će boraviti.
+Sukladno stavku 2. ovog članka voditelj mjere dužan je uz prethodni pristanak žrtve s njom dogovoriti i razraditi primjenu sljedećih aktivnosti:
+- plan postupanja žrtve kada joj prijeti neotklonjiva izravna opasnost od počinitelja ili druge osobe koja postupa zajedno s njim ili po njegovom nalogu;
+- način pružanja pomoći žrtvi od strane njene rodbine i drugih osoba koje pravodobnim zapažanjem počinitelja, upozorenjem žrtve, obavještavanjem policije i poduzimanjem drugih radnji mogu zaštititi žrtvu ili spriječiti počinitelja da ugrozi njeno zdravlje i sigurnost;
+- i druge aktivnosti radi zaštite zdravlja i sigurnosti žrtve do dolaska policijskih službenika, a ovisno o izrečenoj zaštitnoj mjeri i drugim okolnostima.

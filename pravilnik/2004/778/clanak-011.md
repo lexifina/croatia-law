@@ -1,0 +1,3 @@
+# Članak 11.
+Policijski službenik koji zatekne počinitelja u kršenju zaštitne mjere ili u okolnostima koje upućuju na namjeru kršenja zaštitne mjere ili koji zaprimi dojavu ili prijavu žrtve ili druge osobe o ponašanju počinitelja kojim se krši zaštitna mjera, bez odgode će poduzeti potrebne mjere u cilju zaštite zdravlja i sigurnosti žrtve, a o poduzetom će izvijestiti voditelja mjere ili osobu koja ga zamjenjuje.
+Počinitelj kojega se zatekne u kršenju zaštitne mjere ili za kojega postoji osnovana sumnja da je prekršio zaštitnu mjeru, bit će uhićen i uz zahtjev za pokretanje prekršajnog postupka priveden nadležnom sudu.
