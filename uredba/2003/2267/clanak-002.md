@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe počinje od točke A (rub obale), nastavlja sjevernom međom k.č. 44/9 do točke B, tu se lomi i nastavlja gornjim rubom stepeništa i potpornog zida do točke C. U točki C granica se lomi i nastavlja dijelom južne međe k.č. 44/9 i pravcem do točke D (rub obale) gdje za predmetno područje i završava, a sve kako je ucrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Lovrečica, broj lista katastarskog plana 1, u mjerilu 1:1000 i na snimci stvarnog stanja u mjerilu 1:200.
