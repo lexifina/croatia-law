@@ -1,0 +1,3 @@
+# Članak 1.
+Ovim se pravilnikom propisuje način i rokovi isplate sredstava koja će biti doznačena Republičkom fondu mirovinskog i invalidskog osiguranja radnika Hrvatske, Republičkom fondu mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske i Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske (u daljnjem tekstu: mirovinski fondovi) iz državnog proračuna Republike Hrvatske u ukupnoj svoti od 7.534,856.731 kn na temelju članka 1. stavka 1. Zakona o prenošenju sredstava državnog proračuna fondovima mirovinskog i invalidskog osiguranja te usklađivanju mirovina ("Narodne novine", broj 102/98.).
+Sredstva iz stavka 1. ovoga članka isplatit će se kao dodatak uz mirovinu.
