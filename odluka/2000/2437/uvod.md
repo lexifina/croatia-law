@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. i članka 36. stavka 1. točke 6. Zakona o platnom prometu u zemlji (»Narodne novine« broj 27/93 i 97/2000) i članka 67. stavka 1. točke 23. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 35/95 - pročišćeni tekst) Savjet Hrvatske narodne banke, na sjednici održanoj 20. prosinca 2000. godine, donio je
