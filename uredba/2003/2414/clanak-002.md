@@ -1,0 +1,2 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe polazi od točke A (rub obale), nastavlja zapadnom međom k.č. 5203/6 do točke B. U točki B granica se lomi i slijedi istočnu među k.č. 5203/6 do točke C (kameni zid), tu se lomi i nastavlja rubom kamenog zida do točke D (rub obale) gdje za predmetno područje i završava, a sve kako je ucrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Pula, broj lista katastarskog plana 49 i 61, u mjerilu 1:1250 i na snimci stvarnog stanja, u mjerilu 1:500.
