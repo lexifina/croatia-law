@@ -1,0 +1,1 @@
+Odlukom o davanju suglasnosti na izdavanje jamstva (garancije) Republike Hrvatske Export Development Corporation iz Ottawe, Kanada, kao sredstva osiguranja za obvezu povrata zajma odobrenog RH Alan d.
