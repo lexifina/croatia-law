@@ -1,0 +1,1 @@
+Na temelju članka 11. stvka 7. Zakona o radu ("Narodne novine" br. 38/95 i 65/95) i članka 39. stavka 2. zakona o sustavu državne uprave ("Narodne novine" ,br. 75/93) ministar rada i socijalne skrbi donosi
