@@ -1,0 +1,8 @@
+PLAN PRIHODA I IZDATAKA ZA 2000. GODINU
+SREDSTAVA DOPLATKA ZA DJECU
+- u kunama -
+1
+Plan za 2000.
+_______________
+2
+PRIHODI 1. Prihod iz Proračuna 1.132.000.000 2. Ostali prihodi 1.500.000 UKUPNI PRIHODI 1.133.500.000 IZDACI 1. Doplatak za djecu 1.091.000.000 2. Sredstva za službu 40.000.000 3. Ostali izdaci 2.500.000 UKUPNI IZDACI 1.133.500.000
