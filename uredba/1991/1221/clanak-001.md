@@ -1,0 +1,5 @@
+## o korištenju sredstava za subvencionirarlje stanarine i podstanarine
+# Članak 1.
+Sredstva za subvencioniranje stanarine i podstanarine koja se izdvajaju Lemeljem Zakona o prestanku važenja Zakona o izdvajanju i raspoređivanju sredstava za zadovoljavanje stambenih potreba ("Narodne novine", br. 9/91) koriste se pored namjena utvrđenih tim zakonom i za zbrinjavanje izbjeglica sa podrućja zahvaćenih oružanim sukobom te za obnavljanje i izgradnju građevinskih objekata koji su, kao posljedica oružanih sukoba oštećeni ili porušeni. Sredstva iz stavka 1. ovog članka koriste se:
+- 26% za zbrinjavanje izbjeglica,
+- 50% za popravak i izgradnju građevinskih objekata koji su, kao posljedica oružanih sukoba oštečeni ili porušeni Služba društvenog knjigovodstva dostavlja sredstva iz stavka 2. alineja 1. ovog članka Ministarstvu rada i socijalrke skrbi na poseban račun za izbjeglice. Služba društvenog knjigovodstva dostavlja sredstva iz stavka 2. alineja 2. ovog članka Fondu za izgradnju i popravak gradevinskih objekata srušenih ili oštećenih u oružanom sukobu.

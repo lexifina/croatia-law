@@ -1,0 +1,2 @@
+# Članak 2.
+Hadi izgradnje i popravka građevinskih objekata srušenih ili oštečenih u oružanom sukobu, osniva se pri Ministarstvu zaštite okoliša, prostornog uredenja i graditeljstva Fond za izgradnju i popravak gradevinskih objekata srušenih ili oštećenih u oružanom sukobu (u daljem tekstu: Fond). U Fondu se osim sredstava iz članka 1. stavka 2. alineje 2. i članka 5. alineje 2. ove uredbe prikupljaju i druga sredstva za iste namjene (sredstva Iz proraćuna Republike Hrvatske, donacije, krediti i sl.).
