@@ -1,0 +1,2 @@
+# Članak 3.
+Zimski odmor- počinje 24. prosinca i traje do 8. siječnja, a ljetni odmor traje od 1. srpnja do 31. kolovoza. U srednjim školama u kojima se praktična nastava može obavljati samo u određeno godišnje doba, vrijeme odlmora može se prilagoditi potrebama praktične nastave. učenici i nastavnici imaju pravo na korištenje tjednih odmora i slobodnkh dana u vrijeme državnih i vjerskih praznika u skladu s posebnim uputama Ministarstva.
