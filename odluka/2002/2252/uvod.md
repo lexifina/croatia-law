@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93., 69/97., 33/00., 73/00., 127/00. i 59/01.) i članka 16. Statuta Općine Gračišće (»Službene novine Grada Pazina« 26/01), Općinsko vijeće Općine Gračišće na sjednici održanoj 31. listopada 2002. godine donijelo je
