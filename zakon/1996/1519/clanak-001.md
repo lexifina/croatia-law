@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o Hrvatskom fondu za privatizaciju ("Narodne novine", br. 84/92., 70/93., 76/93. i 52/94.) članak 4. mijenja se i glasi:
+"Fond obavlja stručne i upravne poslove koji se odnose na: privatizaciju - prodaja dionica, udjela, stvari i prava i prijenos dionica bez naplate kad je to određeno zakonom; upravljanje imovinom u vlasništvu Republike Hrvatske kad je to određeno zakonom ili odlukom Vlade; pretvorbu društvenih poduzeća; upravljanje pravnim osobama u kojima Fond ima dionice i udjele, te druge poslove utvrđene zakonom i Statutom Fonda, a koji zakonom nisu stavljeni u nadležnost Ministarstsva privatizacije i upravljanja imovinom."
