@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Radi sprječavanja širenja zaraze, u voćnjacima u kojima je utvrđena zaraza sredozemnom voćnom muhom, posjednici bilja, dužni su:
+1. skupljati otpale plodove s tla i plodove na voćkama zaostale nakon berbe i zbrinjavati ih na način kojim će učinkovito uništiti sredozemnu voćnu muhu (skupljati plodove u plastične vreće, zatvaranje vreća te držanje u zatvorenim vrećama najmanje 15 dana i sl.).
+2. provoditi mjere zaštite prema preporukama stručnjaka Zavoda za zaštitu bilja u poljoprivredi i šumarstvu Republike Hrvatske (u daljnjem tekstu: Zavod) i Hrvatskog zavoda za poljoprivrednu savjetodavnu službu.
+(2) Radi provođenja mjera higijene, otkupni centri, veletržnice i trgovačke tvrtke koje obavljaju otkup mandarina i ostalog bilja domaćina sredozemne voćne muhe, dužni su na mjestima otkupa skupljati sve zaražene plodove (otpad) i uništavati na učinkovit način (zamrzavanjem u hladnjačama na temperaturi od -2 do -5 şC i držanje na toj temperaturi najmanje 10 dana ili skupljanjem plodova u plastične vreće, zatvaranje vreća i držanje u njima najmanje 15 dana i sl.).
