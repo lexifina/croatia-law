@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 75/93), a radi provođenja Ugovora o statusu snaga (SOFA), potpisanog u zračnoj bazi Wright Patterson, Dayton, Ohio, Sjedinjene Američke Države, 21. studenoga 1995. godine između Organizacije Sjeveroatlantskog saveza (NATO) i Vlade Republike Hrvatske - ministar financija donosi
