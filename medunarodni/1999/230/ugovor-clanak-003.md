@@ -1,0 +1,5 @@
+# Članak 3.
+1. Ugovorne stranke će, u skladu sa svojim zakonima i propisima, nastojati unaprijediti odnose između nadležnih vlasti koje su zadužene za pomorski prijevoz u obje zemlje, dati svoj doprinos uzajamnim savjetovanjima i razmjeni informacija između gore navedenih vlasti, te poticati kontakte i suradnju između brodskih organizacija i pomorskih gospodarstava obiju država.
+2. Ugovorne stranke će poticati brodarska društva u svojim zemljama da uspostave, uz uvjet ekonomske opravdanosti, redovite brodske linije između luka dvije zemlje na kojima će ploviti i brodovi ugovornih stranaka, s ciljem razvijanja pomorske trgovine između njih.
+3. Redovite linijske usluge kao što je spomenuto u stavku 2. moraju se zasnivati na ujednačenom sudjelovanju između pomorskih društava ovlaštenih od nadležnih tijela ugovornih stranaka u skladu s njihovim nacionalnim zakonodavstvima.
+4. Ugovorne stranke će promicati korištenje modernih tehnologija u pomorskom prijevozu, uključujući razvoj kontejnerskog prijevoza između luka ugovornih stranaka.

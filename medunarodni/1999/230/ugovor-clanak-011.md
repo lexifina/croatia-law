@@ -1,0 +1,7 @@
+# Članak 11.
+Članovima posade jedne ugovorne stranke koji posjeduju osobne dokumente prema članku 10. ovog Ugovora:
+1. bit će dopušten izlazak na obalu bez vize za vrijeme dok je njihov brod u luci druge ugovorne stranke, ukoliko kapetan broda nadležnim vlastima dostavi popis posade u skladu s pozitivnim propisima te ugovorne stranke;
+2. bit će dopušteno da kao putnici bilo kojim prijevoznim sredstvom stupe na državno područje druge ugovorne stranke ili ga prijeđu u tranzitu kako bi se ukrcali na brod, prešli na drugi brod ili se vratili u svoju zemlju, ili da poduzmu bilo koje drugo putovanje koje je odobrila druga ugovorna stranka.
+3. bit će dopušteno, u slučaju bolesti ili ozljede, boraviti na državnom području druge ugovorne stranke tijekom vremena potrebnog za oporavak u skladu sa zakonima i propisima odnosne ugovorne stranke.
+Osobe koje posjeduju osobne dokumente prema članku 10. ovog Ugovora i nalaze se na popisu članova posade broda, mogu u slučaju pomorske nezgode ili neke druge katastrofe stupiti na i putovati državnim područjem druge ugovorne stranke, kako bi se ukrcale na brodove radi povratka u domovinu, ili radi drugog razloga koji je prihvatljiv nadležnim vlastima druge ugovorne stranke, u skladu sa zakonima i propisima te ugovorne stranke.
+U takvim slučajevima, ukoliko zakonodavstvo odnosne zemlje predviđa izdavanje vize, vlasti te ugovorne stranke izdat će vizu u najkraćem mogućem vremenu.
