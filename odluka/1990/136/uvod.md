@@ -1,0 +1,1 @@
+Na osnovi člana 62. stava 3. Zakona o izboru i opozivu odbornika i zastupnika ("Narodne novine", br. 7/90), Sabor Socijalističke Republike Hrvatske na sjednici Vijeća udruženog rada 6. ožujka 1990. Vijeća općina 7. ožujka 1990. i na sjednici Društveno-političkog vijeća 7. ožujka 1990, donio je
