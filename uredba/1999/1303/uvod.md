@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama ("Narodne novine" br. 76/93 i 29/97) i članka 29. stavka 1. Zakona o srednjem školstvu ("Narodne novine", br. 19/92, 26/93, 27/93 i 50/95), Vlada Republike Hrvatske je na sjednici održanoj 1. srpnja 1999. godine donijela
