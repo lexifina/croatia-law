@@ -1,0 +1,2 @@
+# Članak 3.
+Financijske obveze koje nastaju za Republiku Hrvatsku na temelju Sporazuma o reorganizaciji dugova između Republike Hrvatske koju zastupa Ministarstvo financija za i u ime Vlade Republike Hrvatske i Osterreichische Kontrollbank AG, Beč, koja zastupa Republiku Austriju u skladu sa Zakonom o unapređenju izvoza iz 1981. godine, podmiruju se u skladu s odredbama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1996. godinu i Zakona o sklapanju i izvršavanju međunarodnih ugovora.
