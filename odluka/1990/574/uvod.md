@@ -1,0 +1,1 @@
+Na temelju člana 77. stava 1. Zakona o cestama ("Narodne novine", br. 29/84, 47/86 i 24/87) i člana 19. Statuta Republičke samoupravne interesne zajednice za ceste Hrvatske ("Narodne novine" br. 10/86), Skupština Republičke samoupravne interesne zajednice za ceste Hrvatske na sjednici od 28. lipnja 1990. godine donijela je
