@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o određivanju poslova koje mogu obavljati osobe na ratnom rasporedu u organima unutrašnjih poslova, o njihovom stručnom osposobljavanju i usavršavanju kao i nošenju unif
