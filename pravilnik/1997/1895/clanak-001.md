@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o službenim sjedištima javnih bilježnika ("Narodne novine" br. 38/94, 82/94, 50/95, 62/95, 79/95, 86/95, 32/96, 35/97 i 56/97) u članku 9. prema kojem je Raspored javnobilježničkih službenih mjesta i sjedišta njegov sastavni dio u Rasporedu pod rednim brojem 19. u DUBROVAČKO-NERETVANSKOJ ŽUPANIJI kod nadležnosti Općinskog suda u Metkoviću u koloni "Službeno sjedište javnog bilježnika" u ravnini mjesta Metković broja "1" zamjenjuje se brojkom "2", dok se u istoj koloni briše mjesto "Opuzen" kao i brojka "1" u njegovoj ravnini.
