@@ -1,0 +1,29 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi
+sljedećim koordinatnim točkama:
+Y X
+TOČKA 1 6 420 793.11 4 794 488.83
+TOČKA 2 6 420 806.05 4 794 490.88
+TOČKA 3 6 420 806.20 4 794 483.18
+TOČKA 4 6 420 812.07 4 794 476.19
+TOČKA 5 6 420 809.71 4 794 470.74
+TOČKA 6 6 420 801.48 4 794 462.24
+TOČKA 7 6 420 796.48 4 794 447.63
+TOČKA 8 6 420 802.70 4 794 440.85
+TOČKA 9 6 420 808.65 4 794 433.31
+TOČKA 10 6 420 807.76 4 794 427.88
+TOČKA 11 6 420 810.65 4 794 424.48
+TOČKA 12 6 420 809.44 4 794 419.18
+TOČKA 13 6 420 805.23 4 794 419.30
+TOČKA 14 6 420 799.92 4 794 407.57
+TOČKA 15 6 420 798.06 4 794 402.39
+TOČKA 16 6 420 798.84 4 794 388.87
+TOČKA 17 6 420 799.53 4 794 383.25
+TOČKA 18 6 420 791.62 4 794 381.15
+TOČKA 19 6 420 771.33 4 794 354.49
+TOČKA 20 6 420 732.34 4 794 313.22
+TOČKA 21 6 420 712.90 4 794 291.69
+TOČKA 22 6 420 696.12 4 794 255.88
+TOČKA 23 6 420 693.76 4 794 257.31
+TOČKA 24 6 420 669.57 4 794 254.60
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Makarska (po starom premjeru k.o. Kotošina), broj lista plana 6, u mjerilu 1:2880 i na snimci stvarnog stanja u mjerilu 1:1000.
