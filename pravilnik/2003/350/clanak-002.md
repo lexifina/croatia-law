@@ -1,0 +1,2 @@
+# Članak 2.
+Prije raspoređivanja djelatnih vojnih osoba potrebno je utvrditi usklađenost njihovog profesionalnog razvoja sa standardima profesionalnog razvoja propisanih Pravilnikom o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih časnika (»Narodne novine« broj 123/02) i Pravilnikom o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih vojnika i dočasnika (»Narodne novine« broj: 123/02).

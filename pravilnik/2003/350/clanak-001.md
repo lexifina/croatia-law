@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuju prioriteti za raspoređivanje djelatnih vojnih osoba u standardima profesionalnog razvoja, djelatnih vojnih osoba kojima je utvrđena mogućnost dostizanja standarda profesionalnog razvoja, te kriteriji za odabir i način popune ustrojbenih mjesta djelatnim vojnim osobama kojima je utvrđena nemogućnost dostizanja standarda daljnjeg profesionalnog razvoja tijekom preustroja postrojbi, ustanova i zapovjedništava Oružanih snaga Republike Hrvatske (u nastavku teksta: OSRH), sastav i nadležnosti odabirnih vijeća, te druga pitanja od značaja za kvalitetan odabir i raspoređivanje djelatnih vojnih osoba.
