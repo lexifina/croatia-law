@@ -1,0 +1,1 @@
+Na temelju članka 6. Uredbe o korištenju sredstava za subvencioniranje stanarine i podstanarine ("Narodne novine", broj 48/91). Vlada Republike Hrvatske na sjednici održanoj 22. rujna 1992. godine, donijela je
