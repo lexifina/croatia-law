@@ -1,0 +1,26 @@
+# Članak 1.
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98. i 105/99.) u članku 1. stavak 2. mijenja se i glasi:
+»Dužnosnici u smislu ovoga Zakona jesu:
+- predsjednik Republike Hrvatske,
+- predsjednik Hrvatskoga državnog sabora,
+- predsjednik Županijskog doma Hrvatskoga državnog sabora,
+- zastupnici u Hrvatskom državnom saboru,
+- predsjednik i članovi Vlade Republike Hrvatske,
+- predsjednik i suci Ustavnog suda Republike Hrvatske,
+- guverner, zamjenik guvernera i viceguverner Hrvatske narodne banke,
+- glavni državni revizor i njegovi zamjenici,
+- pučki pravobranitelj i njegovi zamjenici,
+- tajnik Zastupničkog doma Hrvatskoga državnog sabora,
+- tajnik Županijskog doma Hrvatskoga državnog sabora,
+- tajnik Vlade Republike Hrvatske,
+- zamjenik tajnika Zastupničkog doma Hrvatskoga državnog sabora,
+- zamjenik tajnika Vlade Republike Hrvatske,
+- zamjenici ministara,
+- pomoćnici ministara,
+- tajnici ministarstava,
+- ravnatelji državnih upravnih organizacija,
+- župani i gradonačelnik Grada Zagreba,
+- podžupani,
+- predsjednik i zamjenik predsjednika Hrvatskog fonda za privatizaciju,
+- ravnatelj i pomoćnici ravnatelja Hrvatskog zavoda za mirovinsko osiguranje,
+- direktor i pomoćnici direktora Hrvatskog zavoda za zdravstveno osiguranje.«
