@@ -1,0 +1,7 @@
+o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju
+1. Naknade osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju koje osigurava i isplaćuje Republički fond mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske ako osnovica za određivanje naknade nije utvrđena na temelju osobnih dohodaka iz godine 1990., a koja su povećana od 1. siječnja 1990. za 405,35%, prema odluci o usklađivanju naknada osobnog dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju ("Narodne novine", br. 5/91) povećavaju se od 1. studenoga 1990. za 9,528%.
+2. Naknade osobnog dohotka iz točke 1. ove odluke ostvarene 1. studenoga 1990. ili nakon toga dana, povećavaju se od dana ostvarivanja prava za 453,50%.
+3. Kao osnovica za povećanje prema točki 1. ove odluke, služi svota naknade koja je invalidu rada pripadala na dan 1. studenoga 1990., a kao osnovica za povećanje prema točki 2. ove odluke, služi svota naknade koja invalidu rada pripada na dan ostvarivanja prava na naknadu.
+4. Povećanje naknade iz točke 1. i 2. ove odluke obavit će Stručna služba Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim nOvinama", a primjenjuje se od 1. studenoga 1 990. godine
+Klasa 142-14-90-23-3647
