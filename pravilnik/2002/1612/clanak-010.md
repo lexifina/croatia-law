@@ -1,0 +1,4 @@
+# Članak 10.
+Nakon završenog postupka propisanog člankom 9. ovoga Pravilnika ministarstvo će rješenjem odlučiti o zahtjevu u roku od 60 dana od dana podnošenja zahtjeva.
+U rješenju iz stavka 1. ovoga članka kojim se izdaje dozvola fizičkoj osobi iz članka 4. i pravnoj i fizičkoj osobi iz članka 5. ovoga Pravilnika utvrdit će se da je ta osoba dužna, u roku od 3 mjeseca od dana dostave rješenja registrirati odnosno podnijeti prijavu za registraciju, a trgovačko društvo ispuniti i sve uvjete iz članka 5. stavka 1. ovoga Pravilnika.
+Po isteku roka iz stavka 2. ovoga članka pravne i fizičke osobe su dužne u daljnjem roku od 15 dana od dana početka obavljanja djelatnosti u svezi sa zapošljavanjem odnosno posredovanja za povremeni rad redovitih učenika, o tome u pisanom obliku obavijestiti ministarstvo.
