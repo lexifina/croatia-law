@@ -1,0 +1,2 @@
+# Članak 7.
+Vlada Republike Hrvatske preuzima obvezu da neće uredbama uredivati plaće i druga materijalna prava za pravne osobe na koje se ovaj Ugovor odnosi i koje ga primjenjuju u razdoblju njegova važenja. U slučaju da pojedine pravne osobe na koje se odnosi ovaj Ugovor ne poštivaju odredbe ovog Ugovora, kao i za pravne osobe koje smatraju da se ovaj Ugovor na njih ne odnosi, Vlada Republike Hrvatske zadržava pravo da pitanja plaća i drugih materijalnih prava uredi odgovarajućim propisima, na način sukladno odredbanka ovog Ugovora.
