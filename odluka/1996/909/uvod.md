@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 4. Uredbe o postupku nabave roba i usluga i ustupanju radova ("Narodne novine", broj 25/96), a na prijedlog Ministarstva obrane, Vlada Republike Hrvatske je na sjednici održanoj 6. lipnja 1996. godine donijela
