@@ -1,0 +1,2 @@
+# Članak 5.
+Na stražnjoj strani iskaznice ispisana su najznačajnija ovlaštenja inspektora sigurnosti željezničkog prometa i odobrenje za kretanje i zadržavanje na graničnim prijelazima, evidencijski broj, datum izdavanja iskaznice, potpis ministra pomorstva, prometa i veza i pečat Ministarstva pomorstva, prometa i veza, te potpis ovlaštene osobe Ministarstva unutarnjih poslova i pečat Ministarstva unutarnjih poslova.

@@ -1,0 +1,2 @@
+# Članak 4.
+Prednja strana iskaznice iz članka 3. ovog pravilnika sadrži: - na gornjoj lijevoj strani grb Republike Hrvatske, - desno od grba ispisano je: Republika Hrvatska, Ministarstvo pomorstva, prometa i veza, službena iskaznica, inspektor sigurnosti željezničkog prometa, a ispod toga ime i prezime inspektora i jedinstveni matični broj građana, - desno od teksta je prazan prostor za fotografiju, preko koje je u donjem lijevom kutu otisnut pečat Ministarstva pomorstva, prometa i veza, - ispod fotografije je serijski broj iskaznice
