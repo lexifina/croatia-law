@@ -1,0 +1,1 @@
+Na temelju člana 1. Zakona o izmjeni Zakona o odvjetništvu i službi pravne pomoći ("Narodne novine", br. 8/90) i Tbr. 50. st.1. Tarife o nagradama i naknadi troškova za rad odvjednika Odvjetničke komore Hrvatske, Upravni odbor Odvjetničke komore Hrvatske na sjednici od 15. prosinca 1990. donio je
