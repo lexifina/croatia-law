@@ -1,0 +1,4 @@
+# Članak 54.
+Prihvat stranca evidentira se na Prijamnom listu i u Kartonu stranca.
+Prijamni list je interni obrazac formata A4 koji se nalazi u spisu stranca, a sadrži sljedeće: fotografiju stranca, prezime i ime, spol, datum rođenja, državljanstvo, vrstu i broj putne ili druge isprave, broj naloga i rješenje o smještaju, vrstu i rok mjere, datum i vrijeme prihvata, podatke o zdravstvenom stanju, novčanim sredstvima, obavljenim razgovorima, datum i vrijeme otpusta, te druge podatke relevantne za njegov smještaj, boravak i otpust iz Centra.
+Karton stranca je interni obrazac A4 formata koji sadrži fotografiju stranca, osobne podatke, osobni opis stranca, posebna obilježja, opis odjeće i obuće, podatke o zdravstvenom stanju, a isti se nalazi u Operativnom dežurstvu do odlaska stranca iz Centra.

@@ -1,0 +1,5 @@
+# Članak 24.
+Iznimno, granična propusnica se može izdati nositelju diplomatske ili službene putovnice, koji prethodno nije ishodio vizu u diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske, ukoliko mu je potrebna.
+Suglasnost za izdavanje granične propusnice strancu iz stavka 1. ovog članka, daje policijska uprava, koja je dužna obavijestiti Ministarstvo unutarnjih poslova.
+Ukoliko graničnoj kontroli pristupi osoba kojoj je rok važenja putne isprave istekao (ne duže od tri dana), odnosno postoje mehanička ili druga oštećenja putne isprave ili u putnoj ispravi nema mjesta za otiskivanje štambilja odnosno za uljepljivanje vize, a osoba posjeduje drugu ispravu izdanu od državnog tijela temeljem koje je moguće nedvojbeno utvrđivanje identiteta (npr. vozačka dozvola), potrebno je izdati graničnu propusnicu.
+Granična propusnica neće se izdati strancu koji posjeduju putnu ispravu za izbjeglice, putnu ispravu za osobe bez državljanstva ili drugu ispravu koju pojedine zemlje izdaju strancima.

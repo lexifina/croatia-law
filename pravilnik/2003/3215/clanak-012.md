@@ -1,0 +1,2 @@
+# Članak 12.
+Tijelo nadležno za kontrolu prelaska državne granice može strancu izdati putnu i tranzitnu vizu za jedan ulazak ili tranzit, ako to zahtijevaju humanitarni, ozbiljni profesionalni ili osobni razlozi, a stranac zbog nedostatka vremena nije mogao na vrijeme podnijeti zahtjev za izdavanje vize u diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske u inozemstvu, te ne postoje razlozi za odbijanje izdavanje vize određeni člankom 24. Zakona o strancima.

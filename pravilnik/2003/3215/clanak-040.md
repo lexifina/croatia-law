@@ -1,0 +1,3 @@
+# Članak 40.
+Po pravomoćnosti sudske odluke kojom je strancu izrečena zaštitna ili sigurnosna mjera protjerivanja, u putnu će se ispravu stranca kojem je izrečena mjera unijeti naljepnicu, na predviđena mjesta upisati potrebne podatke, te preko potpisa utisnuti mali pečat.
+Obrazac naljepnice iz stavka 1. ovog članka (Obrazac 8) pravokutnog je oblika, tiskan na hrvatskom i engleskom jeziku i sadrži: grb Republike Hrvatske, naziv »Ministarstvo unutarnjih poslova«, prostor za upis ustrojstvene jedinice, broj, mjesto i datum unošenja naljepnice, te sljedeći tekst: »Nositelju putne isprave zabranjen je ulazak i boravak u Republici Hrvatskoj u vremenu od ---- do ---- .«, zatim prostor za potpis i pečat.
