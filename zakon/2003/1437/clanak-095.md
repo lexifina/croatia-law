@@ -1,0 +1,26 @@
+# Članak 95.
+Uz primjenu svih odredaba ovoga Zakona koje se odnose na privremeni boravak, radnu dozvolu ne moraju imati sljedeće kategorije stranaca:
+1. ključno osoblje trgovačkih društava koje je definirano Sporazumom o stabilizaciji i pridruživanju između europskih zajednica i njihovih država članica i Republike Hrvatske,
+2. osnivači, prokuristi, članovi uprava i članovi nadzornog odbora trgovačkog društva, koji u trgovačkom društvu obavljaju poslove, a to obavljanje poslova nema karakter radnog odnosa i ne traje duže od ukupno tri mjeseca godišnje,
+3. sveučilišni profesori koje hrvatska sveučilišta pozovu za predavače, znanstvenici na znanstvenom i stručnom usavršavanju, znanstvenici-predstavnici međunarodnih organizacija te znanstvenici koji će sudjelovati u provedbi znanstveno-istraživačkih projekata važnih za Republiku Hrvatsku,
+4. upravno osoblje, stručnjaci, nastavnici i predavači stranih kulturnih i obrazovnih institucija, koji u Republici Hrvatskoj obavljaju posao u okviru programa kulturne i obrazovne suradnje,
+5. civilni i vojni dužnosnici vlada drugih država, koji u Republiku Hrvatsku dolaze raditi na temelju ugovora o suradnji s Vladom Republike Hrvatske,
+6. članovi znanstvenih međunarodnih misija, koji obavljaju posao istraživanja u Republici Hrvatskoj, koji je odobrila Vlada Republike Hrvatske,
+7. strani dopisnici, akreditirani u Republici Hrvatskoj ili izvjestitelji stranih medija,
+8. predstavnici vjerskih zajednica dok obavljaju posao isključivo vezan za vjersku službu,
+9. umjetnici i tehničko osoblje za operne, baletne, kazališne, koncertne, likovne i druge kulturne priredbe, ako zbog toga u Republici Hrvatskoj ne borave duže od 30 dana odnosno tri mjeseca godišnje s prekidima,
+10. autori i izvođači na području glazbene, glazbeno-scenske, plesne i baletne umjetnosti, kao i prateće izvjestiteljsko, organizacijsko i tehničko osoblje koje sudjeluje u kulturnim radionicama, susretima i kolonijama, ako zbog toga u Republici Hrvatskoj ne borave duže od 30 dana odnosno tri mjeseca godišnje s prekidima,
+11. osobe koje na temelju ugovora s Vladom Republike Hrvatske, ministarstvom nadležnim za obranu ili ministarstvom nadležnim za unutarnje poslove obavljaju poslove za potrebe obrane i sigurnosti države ili koje se stručno usavršavaju na tim područjima,
+12. supružnici i djeca hrvatskih državljana koji imaju boravak u Republici Hrvatskoj,
+13. osobe koje u Republiku Hrvatsku dolaze radi sudjelovanja na sportskim i šahovskim priredbama,
+14. stručnjaci na području zaštite kulturne baštine, knjižničarstva i arhivistike, ako zbog toga u Republici Hrvatskoj ne borave duže od 30 dana,
+15. stranci koje je uputio inozemni poslodavac, koji omogućavaju stručno usavršavanje i obuku osobama zaposlenim kod pravnih i fizičkih osoba sa sjedištem u Republici Hrvatskoj u trajanju do tri mjeseca neprekidno,
+16. osobe kojima je odobren privremeni boravak u svrhu stručnog usavršavanja ili obuke kod hrvatskog poslodavca, a organizacijski je oblik stranog poslodavca koji ih je uputio na usavršavanje ili obuku, ako njihovo stručno usavršavanje ili obuka ne traje duže od tri mjeseca neprekidno,
+17. stranci koji obavljaju poslove vezane uz isporuku, montažu ili servis strojeva ili opreme, ako njihov rad ne traje duže od 30 dana neprekidno odnosno ukupno tri mjeseca godišnje s prekidima,
+18. stranci koji sudjeluju na sajamskim ili izložbenim priredbama na kojima izlaže njihov poslodavac,
+19. stranci koji sudjeluju na organiziranim stručnim skupovima i seminarima,
+20. stranci zaposleni u cirkusima ili zabavnim parkovima, ako u Republici Hrvatskoj ne borave duže od tri mjeseca neprekidno,
+21. osobe kojima je priznat status azilanta,
+22. stranci s odobrenim stalnim boravkom,
+23. stranci koji u Republici Hrvatskoj imaju status redovnog učenika ili studenta kada obavljaju poslove privremenog karaktera, posredstvom ovlaštenih posrednika, a sukladno propisima koji reguliraju obavljanje tih poslova.
+Stranci iz točke 9., 10., 14., 15., 17., 18. i 20. stavka 1. ovoga članka moraju imati zaključen valjani ugovor s fizičkom ili pravnom osobom koja je u Republici Hrvatskoj registrirana za obavljanje navedenih djelatnosti.
