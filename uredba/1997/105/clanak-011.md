@@ -1,0 +1,4 @@
+# Članak 11.
+Rješenje iz članka 10. ove Uredbe donosi se na temelju zahtjeva pravne osobe, koja je uz zahtjev dužna priložiti:
+1. akt o osnivanju pravne osobe, odnosno izvadak iz sudskog registra s podacima o predmetu poslovanja djelatnosti, popis zaposlenika s dokazom o njihovoj stručnoj spremi, opis radnog iskustva, naziv i adresa pravnih osoba kod kojih su bili zaposleni (preslika iz radne knjižice), dokaze o ispunjavanju prostornih uvjeta i uvjeta tehničke opremljenosti.
+2. ostale dokaze o uvjetima propisanim ovom Uredbom ovisno o vrsti stručnih poslova zaštite okoliša: popis stručnih podloga i elaborata zaštite okoliša koje je zaposlenik izradio ili surađivao u njihovoj izradi, popis stručnih poslova pripreme i izrade studije utjecaja na okoliš, koje je zaposlenik izradio ili surađivao u njihovoj izradi, popis objavljenih stručnih radova iz područja zaštite okoliša, ugovor iz članka 6. ove Uredbe, odobrenje programa iz članka 7. ove Uredbe.

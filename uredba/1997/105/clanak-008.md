@@ -1,0 +1,2 @@
+# Članak 8.
+Pravnoj osobi koja ispunjava uvjete iz članka 4. ove Uredbe može se izdati suglasnost za obavljanje poslova praćenja kakvoće zraka i emisija u zrak sukladno propisima o zaštiti zraka, uz uvjet da ima najmanje tri zaposlenika za obavljanje mjerenja imisija i emisija u zrak, mjerenja fizikalnog stanja atmosfere te mjerenje i opažanje posrednih pokazatelja kakvoće zraka i da je odgovarajuće tehnički opremljena s ovjerenim mjernim uređajima.
