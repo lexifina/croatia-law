@@ -1,0 +1,5 @@
+# Članak 1.
+1. Ugovorne stranke na svoj će teritorij, bez posebnih formalnosti, prihvatiti svaku osobu koja ne ispunjava ili više ne ispunjava uvjete za ulazak ili boravak koji se primjenjuju na teritoriju ugovorne stranke koja zahtijeva prihvat, ukoliko je utvrđeno ili se pretpostavlja da ta osoba ima državljanstvo ugovorne stranke od koje se zahtijeva prihvat.
+2. Ugovorna stranka koja zahtijeva prihvat preuzet će natrag pod istim uvjetima dotičnu osobu za koju se kasnijom provjerom utvrdi da, u trenutku izlaska s teritorija te ugovorne stranke, nije imala državljanstvo druge ugovorne stranke.
+3. U smislu ovoga članka, osobe iz stavka 1. obvezne su u svakom trenutku pružiti dokaze o datumu ulaska na teritorij ugovorne stranke čije državljanstvo nemaju. U nedostatku dokaza one se smatraju osobama s nezakonitim boravkom prema zakonodavstvu te ugovorne stranke.
+4. Tijela nadležna za nadzor državne granice međusobno će se obavješćivati o ispravama kojima se dokazuje datum zakonita ulaska na njihov teritorij.
