@@ -1,0 +1,2 @@
+# Članak 46.
+Odjel nadzora otpada prehrambene industrije i zaštite okoliša prati stanje na području zbrinjavanja otpada prehrambene industrije, predlaže mjere unaprjeđenja zaštite od onečišćenja i zbrinjavanja otpada prehrambene industrije; sudjeluje u izradi nacrta prijedloga propisa iz područja za postupanje otpadom iz nadležnosti; sudjeluje u aktivnostima na području zaštite okoliša u svezi s otpadom prehrambene industrije.

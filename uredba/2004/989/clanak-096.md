@@ -1,0 +1,7 @@
+## 15. UPRAVA ZA DRVNU INDUSTRIJU
+# Članak 96.
+Uprava za drvnu industriju prati izvršenje zakona, propisa i drugih općih akata u okviru svoje nadležnosti; prati stanje u okviru nadležnosti i inicira rješavanje pojedinih pitanja vezanih uz djelokrug rada, te je odgovorna za stanje u svome djelokrugu; predlaže i izrađuje zakonske i podzakonske akte, kao i druge potrebne dokumente; provodi međunarodnu suradnju; vodi evidenciju kapaciteta drvne industrije; surađuje s domaćim i međunarodnim institucijama u području drvne industrije; inicira i koordinira suradnju subjekata vezanih uz drvnu industriju; prati i analizira tržište drvne industrije u svijetu i EU; tumači i osigurava mjere makroekonomske politike u sektoru; utvrđuje projektne zadatke i financiranje primijenjenih projekata za potrebe drvne industrije; daje stručna mišljenja, tumačenja i upute iz svog djelokruga; surađuje sa drugim institucijama i ministarstvima; podnosi potrebna izvješća Vladi Republike Hrvatske, Hrvatskome saboru kao i drugim nadležnim institucijama; obavlja i druge stručne i upravne poslove iz svoje nadležnosti.
+Za obavljanje poslova iz stavka 1. ovog članka utvrđuju se sljedeće ustrojstvene jedinice:
+15.1. Odjel primarne i finalne prerade drva, papira i ambalaže;
+15.2. Odjel za razvitak drvne industrije.
+15.1. Odjel primarne i finalne prerade drva, papira i ambalaže

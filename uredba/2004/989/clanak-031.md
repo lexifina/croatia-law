@@ -1,0 +1,8 @@
+# Članak 31.
+Odsjek fitosanitarne inspekcije obavlja zdravstveni nadzor bilja i biljnih proizvoda u prometu preko državne granice i zdravstveni nadzor bilja i biljnih proizvoda u unutrašnjosti zemlje (na mjestu proizvodnje, prerade, skladištenja i sl.) u skladu s propisima o zaštiti bilja; obavlja kontrolu sredstava za zaštitu bilja; obavlja kontrolu sortnosti reprodukcijskog materijala poljoprivrednog i šumskog bilja pri uvozu; rješava u upravnim stvarima iz svoga djelokruga; obavlja naplatu naknade za obavljene preglede bilja i sredstava za zaštitu bilja; prikuplja podatke i izrađuje izvješća o obavljenim zdravstvenim pregledima bilja i kontroli sredstava za zaštitu bilja; daje stručna mišljenja u vezi s primjenom propisa iz svoga djelokruga; sudjeluje u pripremanju propisa iz područja fitosanitarne kontrole; brine o prilagodbi propisa i općih akata iz svojeg djelokruga sa smjernicama Europske unije; sudjeluje u usklađivanju propisa s međunarodnim standardima i normativima; sudjeluje u pripremi i provedbi CARDS projekata iz svojeg djelokruga; surađuje s upravnim tijelima, stručnim ustanovama i znanstvenim institucijama zaštite bilja, vodi brigu o izobrazbi i osposobljavanju fitosanitarnih inspektora; surađuje s fitosanitarnim službama drugih država i međunarodnim institucijama; obavlja i druge poslove propisane zakonom.
+Za obavljanje poslova Odsjeka ustrojavaju se pododsjeci sa sjedištem u Zagrebu, Goričanu, Osijeku, Rijeci i Splitu:
+1. Pododsjek fitosanitarne inspekcije Zagreb,
+2. Pododsjek fitosanitarne inspekcije Goričan,
+3. Pododsjek fitosanitarne inspekcije Osijek,
+4. Pododsjek fitosanitarne inspekcije Rijeka,
+5. Pododsjek fitosanitarne inspekcije Split.

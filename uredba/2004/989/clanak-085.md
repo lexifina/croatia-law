@@ -1,0 +1,2 @@
+# Članak 85.
+Odjel lovne inspekcije obavlja inspekcijske poslove i nadzire primjenu propisa iz djelokruga rada Uprave lovstva; daje stručna mišljenja i naputke inspektorima; planira, prati, analizira i nadzire rad inspektora; surađuje sa pravosudnim, policijskim i drugim tijelima državne uprave; rješava o žalbama protiv prvostupanjskih rješenje inspektora; vodi propisane evidencije, te obavlja druge poslove inspekcije.

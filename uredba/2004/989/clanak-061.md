@@ -1,0 +1,3 @@
+# Članak 61.
+Odsjek za financijske poslove organizira, koordinira, provodi i prati izvršenje financijskih poslova, sukladno sa zakonskim propisima i brine o zakonitoj primjeni važećih materijalno-financijskih propisa; sudjeluje u izradi prijedloga potrebnih sredstava za redovit rad svih proračunskih korisnika unutar Ravnateljstva, služeći se metodom racionalnog i svrsishodnog korištenja proračunskih i ostalih sredstava koja se, sukladno sa zakonskim aktima, ostvaruju unutar Ravnateljstva: obavlja odobrena plaćanja unutar zadužene proračunske pozicije.
+10.2.2. Odsjek za računovodstvo i statistiku

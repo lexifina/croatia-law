@@ -1,0 +1,3 @@
+# Članak 41.
+Odsjek za CARDS priprema i koordinira provedbu projekata iz sredstava CARDS; priprema i planira godišnje i višegodišnje zahtjeve za projekte; izrađuje hodogram aktivnosti projekata; priprema podloge za financiranje, koordinira aktivnosti s drugim relevantnim ustanovama; surađuje s Delegacijom Europske komisije u Republici Hrvatskoj, središnjom jedinicom za obavljanje poslova u svezi s financijskim i administrativnim upravljanjem programa CARDS pri Ministarstvu financija, nadzire i prati ispunjavanje preuzetih obveza i provedbu programa uz potporu Europske unije; izrađuje izvješća o provedbi projekata iz sredstava CARDS-a.
+6.3. Odjel međunarodne suradnje

@@ -1,0 +1,3 @@
+# Članak 65.
+Odsjek za vođenje Upisnika upravlja centralnim sustavom Upisnika (osiguranje ispravnog rada informatičke opreme); upravlja aplikacijom (osiguranje nesmetanog korištenja aplikacije); pruža pomoć (»help desk«) u pogledu korištenja programa Upisnika i funkcioniranja sustava; uspostavlja i održava mreže korisnika programa Upisnika u Ravnateljstvu; prati rad, pruža pomoć u održavanju i nadogradnji vanjske mreže korisnika programa (uredi državne uprave); razmjenjuje podatke s tijelima državne uprave, državnim upravnim organizacijama i stručnim ustanovama u poljoprivredi, u svezi s Upisnikom; kontaktira, obavještava i obavlja obuku korisnika programa Upisnika; podnosi izvještaj o korištenju programa Upisnika.
+10.4. Odjel strukturne potpore

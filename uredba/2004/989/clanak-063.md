@@ -1,0 +1,6 @@
+# Članak 63.
+Odjel za tržišnu potporu i vođenje Upisnika, sukladno s važećim propisima provodi mjere tržišno-cjenovne politike u poljoprivredi, ribarstvu i šumarstvu; provodi mjere uravnoteženja ponude; unutar trgovinskih mjera provodi raspodjelu uvoznih kvota, koje proizlaze iz sklopljenih dvostranih i višestranih trgovinskih ugovora; provodi mjere intervencije na tržištu; provodi mjere poticanja prodaje i potrošnje; upravlja centralnim sustavom Upisnika (osiguranje ispravnog rada informatičke opreme); upravlja aplikacijom (osiguranje nesmetanog korištenja aplikacije); pruža pomoć (»help desk«) u pogledu korištenja programa Upisnika i funkcioniranja sustava; uspostavlja i održava mreže korisnika programa Upisnika u Ravnateljstvu; prati rad, pruža pomoć u održavanju i nadogradnji vanjske mreže korisnika programa (uredi državne uprave); razmjenjuje podatke s tijelima državne uprave, državnim upravnim organizacijama i stručnim ustanovama u poljoprivredi u svezi s Upisnikom; kontaktira, obavještava, te obavlja obuku korisnika programa Upisnika; podnosi izvještaj o korištenju programa Upisnika.
+Za obavljanje poslova iz djelokruga Odjela, ustrojavaju se sljedeći odsjeci:
+10.3.1. Odsjek za tržišnu potporu;
+10.3.2. Odsjek za vođenje Upisnika.
+10.3.1. Odsjek za tržišnu potporu
