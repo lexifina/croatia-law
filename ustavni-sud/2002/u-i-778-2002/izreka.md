@@ -1,0 +1,3 @@
+R J E Š E N J E
+I. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom Ustavnog zakona o izmjenama i dopunama Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 29/02) u dijelu u kojem se prijedlog predlagatelja odnosi na postupak donošenja tog Ustavnog zakona.
+II. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom Ustavnog zakona o izmjenama i dopunama Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 29/02) u dijelu u kojem se prijedlog predlagatelja odnosi na osporavanje materijalnih odredaba tog Ustavnog zakona.
