@@ -1,0 +1,2 @@
+# Članak 2.
+Masa sredstava za isplatu mirovina u studenom 1993. godine može biti veća za 4% od mase sredstava isplaćene za mirovine u mjesecu listopadu 1993. godine. Masa sredstava za isplatu mirovina u prosincu 1993. godine može biti veća za 4% od mase sredstava isplaćene za mirovine u mjesecu studenom 1993. godine. Utvrđeni iznos mase sredstava za mirovine iz stavka 1 ovoga članka korigira se za postotak promjene broja umirovljenika.
