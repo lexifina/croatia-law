@@ -1,0 +1,1 @@
+Na temelju članka 7. i 12. Zakona o ustanovama (»Narodne novine«, broj 76/93 i 29/97) i članka 5. Zakona o knjižnicama (»Narodne novine«, broj 105/97 i 5/98), Vlada Republike Hrvatske je na sjednici održanoj 28. listopada 1999. godine donijela
