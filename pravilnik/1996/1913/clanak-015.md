@@ -1,0 +1,4 @@
+# Članak 15.
+Pomorski meteorološki instruktor (u daljnjem tekstu: instruktor) nadzire meteorološki rad na brodu i pruža potrebne instrukcije o obavljanju meteoroloških mjerenja i opažanja, vođenju Brodskog meteorološkog dnevnika i predaji izvještaja. Instruktor kontrolira meteorološke instrumente te osigurava naputak za obavljanje meteoroloških mjerenja i opažanja.
+Instruktor pregledava korištenje meteoroloških informacija na brodu, pruža potrebne instrukcije s tim u svezi, opskrbljuje brod s najnovijom prognozom vremena i ako je potrebno daje brodu potrebne klimatološke i druge stručne informacije.
+Ukoliko posjeta instruktora nije moguća, brod može putem nekog telekomunikacijskog sustava zatražiti stručnu pomoć (specijaliziranu prognostičku ili klimatološku informaciju ili kontrolu barometra).
