@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Radnik koji je do dana početka primjene ovoga Zakona otpočeo koristiti pravo na rodiljni dopust iz članka 58. stavka 4. ili pravo na rad s polovicom radnog vremena iz članka 59. stavka 1., odnosno pravo na mirovanje radnog odnosa iz članka 62. Zakona o radu (»Narodne novine«, br. 38/95., 54/95., 65/95., 102/98., 17/01., 82/01., 114/03., 123/03. i 142/03.) može nastaviti koristiti to pravo prema odredbama ovoga Zakona.
+(2) Radnik kojem je pravo na rodiljni dopust ili pravo na rad s polovicom radnog vremena, odnosno pravo na mirovanje radnog odnosa isteklo prije dana početka primjene ovoga Zakona, može koristiti prava iz ovoga Zakona do navršene treće godine djetetova života.
