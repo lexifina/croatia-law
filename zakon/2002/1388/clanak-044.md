@@ -1,0 +1,6 @@
+## Nadzor nad pruŽanjem usluga u drŽavi Članici Europske unije
+# Članak 44.
+(1) Hrvatska narodna banka obavlja nadzor nad podružnicom banke u državi članici Europske unije.
+(2) Hrvatska narodna banka može zatražiti od nadležnoga nadzornog tijela države članice Europske unije u kojoj banka pruža bankovne usluge da obavi kontrolu poslovanja podružnice banke u toj državi članici Europske unije ako se time ubrzava ili olakšava postupak nadzora ili ako je to u skladu s interesom učinkovitosti, jednostavnosti, brzine ili manjih troškova postupka. Ovlaštene osobe Hrvatske narodne banke mogu uz jednake uvjete sudjelovati u nadzoru koji provodi nadležno tijelo države članice Europske unije.
+(3) Ako banka koja pruža bankovne usluge u državi članici Europske unije, usprkos upozorenju nadležnog nadzornog tijela države članice Europske unije, prekrši propise te države članice Europske unije, Hrvatska narodna banka će poduzeti nadzorne mjere u skladu s ovim Zakonom. Hrvatska narodna banka mora odmah obavijestiti nadležno nadzorno tijelo države članice Europske unije o mjerama koje je poduzela.
+(4) Ako Hrvatska narodna banka oduzme banci odobrenje za pružanje bankovnih usluga ili joj zabrani pružati pojedine ostale financijske usluge, ona će o tome odmah obavijestiti nadležno nadzorno tijelo države članice Europske unije u kojoj banka pruža bankovne usluge.

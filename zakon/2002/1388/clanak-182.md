@@ -1,0 +1,53 @@
+## XIX. KAZNENE ODREDBE
+## PrekrŠaji banaka
+# Članak 182.
+(1) Za prekršaj kaznit će se banka novčanom kaznom u iznosu od 500.000 do 1.000.000 kuna:
+1) ako pruža ostale financijske usluge za koje nije dobila odobrenje Hrvatske narodne banke (člank 6. stavak 2.),
+2) ako obavlja djelatnosti koje nisu bankovne usluge, ostale financijske usluge i pomoćne bankovne usluge, a nisu drugim zakonom stavljene u nadležnost banci,
+3) ako kreditira ili izdaje jamstva protivno odredbama članka 17. ovoga Zakona,
+4) ako povlaštene dionice banke prelaze ograničenje iz članka 18. ovoga Zakona,
+5) ako pribavi dionice ili poslovne udjele u drugoj banci ili drugoj financijskoj instituciji protivno odredbama članka 19. ovoga Zakona,
+6) ako omogući dioničaru glasovanje protivno odredbama članka 22. ovoga Zakona,
+7) ako prekrši odredbe o upravi i radnom odnosu članova uprave iz članka 23. i 24. ovoga Zakona,
+8) ako prekrši odredbe članka 27. ovoga Zakona,
+9) ako ima nadzorni odbor sastavljen protivno odredbama članka 30. stavka 1. i 2. ovoga Zakona,
+10) ako počne pružati bankovne usluge u državi članici Europske unije protivno odredbama članka 41. ili članka 42. ovoga Zakona,
+11) ako u inozemstvu osnuje podružnicu bez da je dobila odobrenje Hrvatske narodne banke za osnivanje podružnice,
+12) ako izračun jamstvenog kapitala izvrši protivno propisima donesenim na temelju članka 63. ovoga Zakona,
+13) ako postupi suprotno odredbi o visini jamstvenog kapitala iz članka 64. ovoga Zakona,
+14) ako postupi suprotno odredbama o minimalnoj stopi adekvatnosti kapitala iz članka 65. stavka 2. i 3. ovoga Zakona,
+15) ako kod izračuna rizikom ponderirane aktive postupi suprotno propisima donesenim na temelju članka 66. ovoga Zakona,
+16) ako u planiranju i provođenju mjera upravljanja rizicima postupi suprotno odredbama iz članka 67. ovoga Zakona,
+17) ako u mjerenju, procjeni i upravljanju rizicima postupi suprotno propisima donesenim na temelju članka 68. ovoga Zakona,
+18) ako kontinuirano ne procjenjuje kreditni rizik i ako ne provodi rezerviranja za pokriće gubitaka sukladno propisima donesenim na temelju članka 69. ovoga Zakona,
+19) ako postupi protivno propisima donesenim na temelju članka 70. ovoga Zakona,
+20) ako postupi suprotno odredbama članka 75., članka 76. i članka 77. ovoga Zakona o dopuštenoj izloženosti,
+21) ukoliko sklopi pravni posao zbog kojeg bi nastala ili bi se povećala izloženost banke prema osobama u posebnom odnosu s bankom protivno članku 78. stavku 2. ovoga Zakona,
+22) ako pri upravljanju svojom imovinom i obvezama postupi suprotno odredbama članka 79. ovoga Zakona,
+23) ako prekrši odredbe članka 81. stavka 3. ovoga Zakona,
+24) ako postupi suprotno odredbama o ograničenju ulaganja iz članka 82. i članka 83. ovoga Zakona,
+25) ako izvrši ulaganja bez prethodne suglasnosti Hrvatske narodne banke iz članka 84. stavka 1. i 2. ovoga Zakona,
+26) ako prilikom osnivanja pravne osobe prekrši odredbe članka 84. stavka 5. ovoga Zakona,
+27) ako Hrvatskoj narodnoj banci ne dostavi izvješća sa sadržajem, u roku i na načine koji su određeni propisom donesenim na temelju članka 87. ovoga Zakona,
+28) ako isplati dobit ili akontaciju dobiti protivno odredbama članka 88. ovoga Zakona,
+29) ako odmah ne usvoji mjere za osiguranje minimalnog kapitala i minimalne stope adekvatnosti kapitala te o tome ne obavijesti Hrvatsku narodnu banku sukladno članku 89. ovoga Zakona,
+30) ako, kao nadređena banka u grupi banaka, ne sastavi i dostavi konsolidirana financijska izvješća na način, u opsegu i sa sadržajem koji su određeni propisom donesenim na temelju članka 94. stavka 3. ovoga Zakona ili ako na zahtjev Hrvatske narodne banke iz članka 94. stavka 4. ili članka 95. ovoga Zakona ne provede konsolidaciju pojedinih stavki ili pojedinih poslova, odnosno grupa poslova ili potpunu konsolidaciju financijskih izvještaja,
+31) ako Hrvatskoj narodnoj banci ne dostavlja obavijesti i informacije sukladno odredbama članka 96. ovoga Zakona,
+32) ako nadređenoj banci u grupi banaka ne dostavi informacije potrebne za konsolidaciju,
+33) ako vodi poslovne knjige, sastavlja knjigovodstvena izvješća, vrednuje knjigovodstvene stavke ili sastavlja financijska izvješća protivno odredbama članka 101., 102., 103. ili 104. ovoga Zakona ili protivno propisima donesenim na temelju članka 105. ovoga Zakona,
+34) ako ne organizira unutarnju reviziju u skladu s člancima 106., 107. ili 108. ovoga Zakona,
+35) ako Hrvatskoj narodnoj banci ne dostavi revidirano godišnje izvješće ili revidirano konsolidirano godišnje izvješće u roku propisanom u članku 112. stavku 3. ovoga Zakona,
+36) ako ne dokumentira izmjenu programskih rješenja ili izmjenu oblika baze podataka u skladu s člankom 122. stavkom 3. ovoga Zakona,
+37) ako ne izvijesti Hrvatsku narodnu banku o činjenicama i okolnostima iz članka 132. stavka 1. i 3. ovoga Zakona,
+38) ako Hrvatskoj narodnoj banci ne dostavi izvješća i informacije iz članka 133. ovoga Zakona,
+39) ako postupi protivno odredbama o ugovaranju usluga iz članka 172. ovoga Zakona,
+40) ako postupi protivno propisima donesenim na temelju članka 174. ovoga Zakona,
+41) ako ne obavijesti potrošača u skladu s odredbama članka 175. ovoga Zakona,
+42) ako zaključi ugovor protivno članku 181. stavku 3. ovoga Zakona,
+43) ako ne dostavi Hrvatskoj narodnoj banci akte iz članka 181. stavka 5. ovoga Zakona,
+44) ako ne uskladi svoje poslovanje sukladno odredbama članka 190. stavaka 2. do 7. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se odgovorna osoba iz uprave banke novčanom kaznom u iznosu od 10.000 do 50.000 kuna.
+(3) Za prekršaj kaznit će se banka novčanom kaznom u iznosu od 50.000 do 100.000 kuna:
+1) ako ne izvijesti Hrvatsku narodnu banku u skladu s člankom 132. stavkom 1. ili člankom 133. ovoga Zakona ili u skladu s propisom donesenim na temelju članka 134. ovoga Zakona,
+2) ako ovlaštenoj osobi ne omogući obavljanje nadzora na način propisan člancima od 119. do 122. ovoga Zakona.
+(4) Za prekršaj iz stavka 3. ovoga članka kaznit će se odgovorna osoba iz uprave banke novčanom kaznom u iznosu od 1.000 do 5.000 kuna.

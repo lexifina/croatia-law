@@ -1,0 +1,5 @@
+## PoveĆanje temeljnog kapitala banke radi osiguranja ekonomske stabilnosti banke
+# Članak 141.
+(1) Ako Hrvatska narodna banka na temelju izvješća posebne uprave banke iz članka 140. ovoga Zakona procijeni da je radi osiguranja minimalnog kapitala banke iz članka 64. ili minimalne stope adekvatnosti kapitala iz članka 65. stavka 2. i 3. ovoga Zakona ili radi otklanjanja uzroka nelikvidnosti i/ili nesolventnosti banke potrebno povećati temeljni kapital banke novim financijskim ulaganjima, naložit će posebnoj upravi da sazove glavnu skupštinu dioničara banke i da joj predloži donošenje odluke o povećanju temeljnog kapitala.
+(2) Posebna uprava mora objaviti sazivanje glavne skupštine dioničara radi odlučivanja o povećanju temeljnog kapitala iz stavka 1. ovoga članka najkasnije u roku od osam dana po primitku naloga Hrvatske narodne banke iz stavka 1. ovoga članka, a glavna skupština dioničara se mora održati najkasnije u roku od petnaest dana od objave sazivanja.
+(3) Prilikom sazivanja glavne skupštine dioničara, dioničari moraju biti upozoreni na pravne posljedice članka 142. ovoga Zakona.

@@ -1,0 +1,6 @@
+## Izravni nadzor poslovanja
+# Članak 119.
+(1) Banka mora ovlaštenoj osobi, na njezin zahtjev, omogućiti da obavi nadzor poslovanja u sjedištu banke i na ostalim mjestima u kojima banka ili druga osoba prema njezinom ovlaštenju obavlja djelatnosti i poslove u vezi s kojima Hrvatska narodna banka obavlja nadzor.
+(2) Banka mora ovlaštenoj osobi, na njezin zahtjev, omogućiti da obavi kontrolu poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije, kao i kontrolu informacijske tehnologije i drugih pridruženih tehnologija, u opsegu potrebnom za obavljanje pojedinog nadzora ili u opsegu propisanom zakonom kojim se uređuje pojedini nadzor.
+(3) Banka mora ovlaštenoj osobi, na njezin zahtjev, uručiti računalne ispise, preslike poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije u papirnatom obliku i/ili u obliku elektroničkog zapisa na mediju koji zahtijeva ovlaštena osoba. Također se ovlaštenoj osobi mora osigurati standardno sučelje za pristup sustavu za upravljanje bazama podataka koji koristi banka, u svrhu provođenja nadzora potpomognutog računalnim programima.
+(4) Nadzor poslovanja iz stavka 1. i 2. ovoga članka obavlja ovlaštena osoba radnim danom. Kad je zbog opsega ili prirode nadzora potrebno, ovlaštena osoba može obavljati nadzor poslovanja i izvan radnog vremena banke.
