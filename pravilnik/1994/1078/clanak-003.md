@@ -1,0 +1,5 @@
+# Članak 3.
+Obrasci za obavljanje platnog prometa pravokutnog su oblika, dimenzija 170 mm x 102 mm.
+Izuzetak čine Zbrojni nalog za prijenos - obrazac br. 47. čije su dimenzije 375 mm x 305 mm. Izvadak o promjenama i stanju na računu - obrazac br. 51, čije su dimenzije 355 mm x 102 mm. Računska knjižica - obrazac br. 82, čije su dimenzije 100 mm x 140 mm, Akreditiv - obrazac br. 84, čije su dimenzije 200 mm x 140 mm i Opća uplatnica obrazac br, 10-1, čije su dimenzije 220 mm x 102 mm.
+Obrasci platnog prometa, izuzev Opće uplatniceobrazac br. 10-1, tiskaju se na samokopirnom papiru. Zbrojni nalog za prijenos i Izvještaj o odobrenju po zbrojnom nalogu za prijenos mogu biti tiskani na sredstvima za automatsku obradu podataka na printerskom papiru pri čemu izgled, bitni elementi i njihov raspored moraju biti istovjetni sa standardnim oblikom obrazaca.
+Interni obrasci Zavoda za platni promet (u daljnjem tekstu Pravilnika: Zavod) mogu biti nestandardiziranih dimenzija ako se izdaju na sredstvima za automatsku obradu podataka.
