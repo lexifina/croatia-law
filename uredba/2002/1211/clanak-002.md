@@ -1,0 +1,2 @@
+# Članak 2.
+Poslovi s posebnim uvjetima rada su poslovi radnih mjesta na kojima službenicima i namještenicima koji ih obavljaju pretežiti dio svakoga radnog dana, zbog njihove naravi, težine i okolnosti u kojima se obavljaju, prijeti opasnost od ugrožavanja života, profesionalne bolesti ili znatnog narušavanja zdravlja, koje se ne može izbjeći primjenom propisanih mjera zaštite na radu i ostalih mjera sukladno posebnim propisima.
