@@ -1,0 +1,2 @@
+# Članak 4.
+Bflanca prihoda i rashoda i Posebni dio Proračuna Općine Zadar za 1993. godinu sastavni su dio ove Odluke i objavljuju se u Službenom Glasniku Općine Zadar. Zajedno s Bilancom prihoda i rashoda i Posebnim dijelom Proračuna Općine Zadar objavljuje se i Opći dio Proračuna iz članka 1. ove Odluke. Danom početka primjenjivanja ove Odluke primjenjuje se i Bilanca prihoda i rashoda i Posebni dio Proračuna Općine Zadar.
