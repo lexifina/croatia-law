@@ -1,0 +1,2 @@
+# Članak 18.
+Proizvođač je u okviru provođenja sustava osiguranja kakvoće obvezan u određenim vremenskim periodima provoditi samonadzor u cilju praćenja i nadgledanja, primjene i poštivanja dobre proizvođačke prakse te predlaganja potrebnih mjera za poboljšanje sustava osiguranja kakvoće. O provođenju samonadzora i svih potrebnih mjera ili radnji za poboljšanje sustava osiguranja kakvoće, potrebno je voditi odgovarajuću evidenciju.

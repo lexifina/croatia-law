@@ -1,0 +1,4 @@
+# Članak 11.
+Proizvođač treba osigurati najmanje jednu odgovornu osobu, koja udovoljava uvjetima iz podstavka 1. stavka 2. članka 8. ovog Pravilnika koja je obvezna osigurati da je svaka serija gotovog lijeka proizvedena i provjerena sukladno zakonskim propisima koji su na snazi u Republici Hrvatskoj i podacima navedenim u dokumentaciji priloženoj uz zahtjev za izdavanje odobrenja za stavljanje lijeka u promet u Republici Hrvatskoj.
+Odredbe iz stavka 1. ovog članka na odgovarajući način se primjenjuju na odgovornu osobu prozvođača medicinskog proizvoda koja mora udovoljiti uvjetima iz podstavka 1. stavka 1. članka 9. ovog Pravilnika.
+Odgovorna osoba iz stavka 1. i stavka 2. ovog članka svojim potpisom u poseban očevidnik odobrava stavljanje pojedine serije lijeka i medicinskog proizvoda u promet.

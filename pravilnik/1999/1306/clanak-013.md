@@ -1,0 +1,5 @@
+# Članak 13.
+Proizvođač treba osigurati sustav vođenja dokumentacije koji se temelji na zahtjevima kakvoće proizvoda, proizvodnoj recepturi za jednu seriju, uputama za vođenje proizvodnog postupka, kao i postupcima opremanja gotovog proizvoda, te radnim postupcima za različite proizvodne postupke koji se primjenjuju.
+Dokumentacija iz stavka 1. ovoga članka mora sadržavati unaprijed pripremljene i postavljene opće postupke za osnovne proizvodne operacije i uvjete, kao i posebne dijelove koji se odnose na proizvodnju pojedine serije i koji omogućuju praćenje proizvodnog slijeda određene serije.
+Dokumentacija o seriji treba se čuvati najmanje godinu dana nakon isteka roka valjanosti serije na koju se odnosi ili 5 godina nakon certificiranja.
+Kada se umjesto pisanih dokumenata koriste elektronski, fotografski ili neki drugi sustavi obrade podataka, proizvođač mora validirati sustav dokazujući da će podaci biti sačuvani tijekom predviđenog roka. Podaci koji su pohranjeni pomoću tih sustava trebaju biti dostupni u čitljivom obliku. Elektronski evidentirane podatke treba zaštititi od gubitka ili oštećenja npr. izradom kopija ili prijenosom u drugi sustav čuvanja.

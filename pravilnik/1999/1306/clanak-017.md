@@ -1,0 +1,3 @@
+# Članak 17.
+Proizvođač je obvezan postaviti i primjenjivati sustav evidentiranja i ocjenjivanja svih dobivenih prigovora na proizvod (reklamacija) kao i djelotvoran sustav za brzo povlačenje proizvoda koji se nalazi u prometu.
+Proizvođač je obvezan evidentirati i ispitati svaki prigovor koji se odnosi na manjkavost proizvoda. Proizvođač je obvezan obavijestiti Ministarstvo zdravstva o svakom nedostatku koji može imati za posljedicu povlačenje ili neuobičajena ograničenja u primjeni proizvoda. U navedenim slučajevima proizvođač je obvezan poduzeti određene mjere koje odredi Ministarstvo zdravstva.
