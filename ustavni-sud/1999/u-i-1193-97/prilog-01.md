@@ -1,0 +1,9 @@
+U-I-717/98
+U-I-725/98
+U-I-1032/98
+U-I-341/99
+U-I-480/99
+Zagreb, 29. rujna 1999
+USTAVNI SUD REPUBLIKE HRVATSKE.
+Predsjednik
+Jadranko Crnić, v. r.
