@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o eksproprijaciji ("Narodne novine", broj 46/82, 28/87 I 39/88), a povodom zahtjeva Poduzeća za prijevoz nafte Jadranski naftovod, Rijeka, Vlada Republike Hrvatske na sjednici održanoj 22. studenoga 1991. donijela je
