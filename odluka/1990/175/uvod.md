@@ -1,0 +1,1 @@
+Na temelju Amandmana XXI točke 1. alineje 5. na Ustav Socijalističke Republike Hrvatske i člana 43. stava 3. Zakona o računovodstvu ("Službeni list SFRJ", br. 12/89, 35/89 i 3/90), Sabor Socijalističke Republike Hrvatske na sjednici Vijeća udruženog rada 21. ožujka 1990, Vijeća općina 21. ožujka 1990. i na sjednici Društveno-političkog vijeća 21. ožujka 1990, donio je
