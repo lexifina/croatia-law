@@ -1,0 +1,4 @@
+## Suzdržavanje od štrajka i uvjeti za dopuštenje štrajka
+# Članak 122.
+1) Za vrijeme važenja ovog ugovora sindikat neće štrajkati radi pitanja koja su ovim ugovorom riješena i koja se uredno izvršavaju, što ne isključuje pravo na štrajk za sva druga neriješena pitanja, za pitanja koja će se rješavati aneksima ovom ugovoru, kolektivnim ugovorom ustanove, za pitanja koja će se rješavati nekim općim odnosno nacionalnim kolektivnim ugovorom, za pitanja koja su predmet posebnog ugovora s Vladom Republike Hrvatske o visini osnovice i za druga pitanja za koja je dopušten štrajk, a koja nisu u domeni kolektivnih ugovora.
+2) Zbog spora oko dopune ovoga ugovora Sindikat može štrajkati tek nakon proteka jednog mjeseca od trenutka podnošenja prijedloga, a zbog spora oko izmjene tek nakon tri mjeseca.

@@ -1,0 +1,6 @@
+## 8.2. GODIŠNJI ODMOR
+## Godišnji odmor
+# Članak 81.
+Trajanje godišnjeg odmora utvrđuje se tako da se na 18 dana, koliko iznosi zakonom određeno najkraće trajanje godišnjeg odmora, dodaju dani godišnjeg odmora prema utvrđenim kriterijima kako slijedi:
+a) prema uvjetima rada:
+- rad na poslovima s otežanim ili posebnim uvjetima rada |  |  |  | - 3 dana - rad u smjenama ili redovni rad subotom, nedjeljom, blagdanima i neradnim danima određenim zakonom |  |  |  | - 2 dana b) prema složenosti poslova: - poslovi za koje se traži dr. |  |  | - 6 dana - poslovi za koje se traži mr. |  |  | - 5 dana - poslovi VSS |  |  |  |  | - 4 dana - poslovi VŠS |  |  |  |  | - 3 dana - poslovi SSS, VKV i KV |  |  |  | - 2 dana - ostali poslovi |  |  |  | - 1 dan c) prema dužini radnog staža: - od 5 do 15 godina |  |  |  | - 2 dana - od 15 do 25 godina |  |  |  | - 4 dana - od 25 do 35 godina |  |  |  | - 5 dana - preko 35 godina |  |  |  | - 6 dana d) prema posebnim socijalnim uvjetima: - roditelju, posvojitelju ili staratelju s jednim malodobnim djetetom |  |  | - 2 dana - roditelju, posvojitelju ili staratelju za svako daljnje malodobno dijete |  | - još po 1 dan - roditelju, posvojitelju ili staratelju hendikepiranog djeteta |  |  | - 3 dana - invalidu |  |  |  |  | - 2 dana e) prema doprinosu na radu: - ako ostvaruje natprosječne rezultate rada | - 2 dana
