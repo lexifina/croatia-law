@@ -1,0 +1,1 @@
+Na temelju članka 3. Uredbe o područjima na kojima će se koristiti sredstva ostvarena prema Zakonu o financiranju obnove te o područjima na kojima će se primjenjivati poticajne mjere ("Narodne novine", broj 44/92, 54/92 i 70/92), Vlada Republike Hrvatske, na sjednici održanoj 10. prosinca 1992. godine, donijela je
