@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3. i članka 39. stavka I. točke I. Zakona o sustavu državne uprave ("Narodne novine" broj 75/93) u provođenju Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1999. godinu, ministar turizma donosi
