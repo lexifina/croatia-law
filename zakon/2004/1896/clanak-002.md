@@ -1,0 +1,5 @@
+# Članak 2.
+Pojedini izrazi koji se rabe u ovom Zakonu imaju sljedeće značenje:
+- roba s dvojnom namjenom znači robu, uključujući računalne programe i tehnologiju, koja se može koristiti kako u civilne, tako i u vojne svrhe, te robu koja može biti upotrijebljena u neeksplozivne svrhe, ali i koja na bilo koji način može pomoći u proizvodnji nuklearnog oružja ili drugih nuklearnih eksplozivnih naprava,
+- izvoz znači carinskim propisima uređen carinski postupak prema robi s dvojnom namjenom koja trajno ili privremeno napušta carinsko područje Republike Hrvatske, uključujući i ponovni izvoz takve robe. Izvoz znači i prijenos računalnog programa i tehnologije putem elektroničkih medija, telefaksom ili telefonom na područje izvan Republike Hrvatske, a odnosi se i na usmeni prijenos tehnologije telefonom samo ukoliko je tehnologija sadržana u dokumentu čiji je bitan dio pročitan putem telefona ili opisan putem telefona na način da se postigne isti rezultat,
+- izvoznik je pravna ili fizička osoba - obrtnik sa sjedištem, odnosno boravištem na teritoriju Republike Hrvatske ili fizička osoba s prebivalištem u Republici Hrvatskoj.
