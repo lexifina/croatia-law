@@ -1,0 +1,3 @@
+## o dopunama Zakona o sudskim taksama
+# Članak 1.
+U Zakonu o sudskim taksama ("Narodne novine", br. 20/87., 55/88., 13/89., 47/89., 11/90., 18/90., 9/91. i 53A/91.), u Taksenoj tarifi, u Tar. br.15., točka 4. Napomene dopunjuje se i glasi: "4. Ne plaća se taksa iz ovoga Tar. br. u stvarima navedenim u Napomeni 6. u točkama 3, 6, 7, 9,12, 13, 14. i 15. uz Tar. br.16." U Tar. br. 15. u Napomeni iza točke 5. dodaje se nova točka 6. koja glasi: "6. Za podnesak kojim se traži upis u zemljišnu knjigu uknjižbe ili predbilježbe što ih podnosi osoba iz članka 6. Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 27/91.), plaća se 10% takse propisane ovim Tar. br."

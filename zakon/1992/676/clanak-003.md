@@ -1,0 +1,2 @@
+# Članak 3.
+U Taksenoj tarifi u Tar. br. 18. točka 3. Napomene dopunjuje se i glasi: "3. Za izvatke iz zemljišnih knjiga koji se izdaju strankama radi ostvarivanja prava na dječji dodatak ili radi ostvarivanja prava iz zdravstvenog, invalidskog i mirovinskog osiguranja i socijalne pomoći, radi ostvarivanja prava za dobijanje bankarskog kredita za izgradnju, rekonstrukciju ili adaptaciju objekta uništenog ili oštećenog uslijed ratnog razaranja, te osobama sa statusom izbjeglice ili prognanika, ne plaća se taksa prema ovom Tar. br."
