@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1999. godinu ("Narodne novine", broj 167/98), Vlada Republike Hrvatske je na sjednici održanoj 4. ožujka 1999. godine donijela
