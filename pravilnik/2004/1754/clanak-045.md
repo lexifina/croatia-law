@@ -1,0 +1,2 @@
+# Članak 45.
+Imatelj dozvole zrakoplovnog inženjera tehničke pripreme i upisanog ovlaštenja za obavljanje poslova instruktora, može obavljati osposobljavanje za praktični i teorijski dio ispita za zrakoplovnog tehničara i zrakoplovnog inženjera tehničke pripreme i osposobljavanje za teorijski dio ispita zrakoplovnog mehaničara, radi stjecanja, produženja roka valjanosti i obnavljanja valjanosti dozvole.

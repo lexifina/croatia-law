@@ -1,0 +1,3 @@
+# Članak 36.
+Imatelj dozvole zrakoplovnog inženjera tehničke pripreme može obavljati poslove projektiranja tehničkog sustava održavanja zrakoplova i zrakoplovnog uređaja; projektiranja sustava praćenja pouzdanosti rada zrakoplova i zrakoplovnog uređaja; izrade novog tehnološkog postupka za korištenje, održavanje i izmjene zrakoplova i zrakoplovnog uređaja; izrade tehničko-
+-tehnološke dokumentacije (standardnih procedura, listi ispitivanja ispravnosti uređaja, listi funkcionalnih provjera i dr.) za korištenje, održavanje i izmjene zrakoplova i zrakoplovnog uređaja i odobravanja i ovjeravanja listi odloženih radova.

@@ -1,0 +1,1 @@
+Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - zrakoplovno-tehničkom osoblju i zrakoplovno-tehničkom osoblju tehničke pripre
