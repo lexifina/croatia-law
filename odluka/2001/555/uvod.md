@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), i članka 3. Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba (»Narodne novine«, br. 128/99 i 16/2001), Vlada Republike Hrvatske je na sjednici održanoj 5. travnja 2001. godine, donijela
