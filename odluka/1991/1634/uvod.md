@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 2. Zakona o zdravstvenoj zaštiti životinja I veterinarskoj djelatnosti ("Narodne novine", br. 52/91), Vlada Republike Hrvatske, na sjednici održanoj 22. studenoga 1991. godine donijela je
