@@ -1,0 +1,25 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+Y X
+TOČKA 1 5 572 485.85 4 842 538.65
+TOČKA 2 5 572 498.49 4 842 524.95
+TOČKA 3 5 572 495.65 4 842 508.30
+TOČKA 4 5 572 507.05 4 842 477.64
+TOČKA 5 5 572 527.61 4 842 447.69
+TOČKA 6 5 572 532.41 4 842 442.45
+TOČKA 7 5 572 564.47 4 842 410.50
+TOČKA 8 5 572 562.24 4 842 408.61
+TOČKA 9 5 572 565.76 4 842 404.49
+TOČKA 10 5 572 579.89 4 842 396.63
+TOČKA 11 5 572 590.16 4 842 376.92
+TOČKA 12 5 572 588.19 4 842 375.90
+TOČKA 13 5 572 593.92 4 842 364.92
+TOČKA 14 5 572 604.09 4 842 342.68
+TOČKA 15 5 572 616.68 4 842 306.62
+TOČKA 16 5 572 604.68 4 842 302.43
+TOČKA 17 5 572 637.78 4 842 205.41
+TOČKA 18 5 572 653.68 4 842 178.78
+TOČKA 19 5 572 659.67 4 842 172.08
+TOČKA 20 5 572 663.27 4 842 168.60
+TOČKA 21 5 572 657.71 4 842 162.18
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Šibenik, u mjerilu 1:1000 i na snimci stvarnog stanja u mjerilu 1:500.
