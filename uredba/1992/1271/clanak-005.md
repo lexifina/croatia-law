@@ -1,0 +1,3 @@
+# Članak 5.
+Stari grad Veliki Tabor u Desiniću, spomenik kulture nulte kategorije, upisan u Registar nepokretnih spomenika kulture Regionalnog zavoda za zaštitu spomenika kulture u Zagrebu pod red. brojem 58. i u Zemljišnom knjižnom odjelu Općinskog suda Pregrada kao kčbr. 351/2, 352 i 353 z.k: ul 630 k.o. Košnica, sada društveno vlasništvo s pravom korištenja upisanim u korist općine Pregrada, državno je vlasništvo i njime također upravlja Muzej.
+Način korištenja i upravljanja muzejskom zbirkom Zavičajnog muzeja općine Pregrada smještenom u objekte Starog grada Veliki Tabor uredit će se ugovorom između Muzeja i "Velikog Tabora" - društvene organizacije za zatitu, obnovu i revitalizaciju dvora Veliki Tabor u Desiniću.

@@ -1,0 +1,3 @@
+# Članak 15.
+Zaposlene koji su stupanjem na snagu ove uredbe zatečeni u radnom odnosu na neodređeno vrijeme u Radnoj jedinici Staro Selo Javnog poduzeća "Kumrovec" u Kumrovcu, Muzej seljačkih buna u Gornjoj Stubici, Galeriji "Antun Augustinčić". Klanjec. Muzeju evolucije i nalazištu pračovjeka sa lokalitetima "Josipovac" i "Hušnjakovo" u Krapini, u sklopu Centra za kulturu, umjetnost i informiranje "Ivica Božić", preuzima Muzej.
+Zaposlenima iz stavka 1. ovog članka koji ne budu raspoređeni na poslove i zadatke u Muzejskoj ustanovi, prestaje radni odnos u skladu sa zakonom i s aktima o unutarnjem ustrojstvu i radu Muzeja.

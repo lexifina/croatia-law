@@ -1,0 +1,2 @@
+# Članak 14.
+Muzej je pravni sljednik Muzeja seljačkih buna Gornja Stubica, Galerije "Antun Augustinčić", Klanjec, Javnog poduzeća "Kumrovec" u odnosu na Radnu jedinicu Staro selo, Centra za kulturu, umjetnost i informacije "Ivica Božić", Krapina u odnosu na Muzej evolucije i nalazište pračovjeka sa lokalitetima "Josipovac" i "Hušnjakovo", te danom stupanja na snagu ove uredbe preuzima njihova sredstva prema članku 4. ove uredbe, ta prava i obveze, kao i zaposlene.
