@@ -1,0 +1,2 @@
+# Članak 9.
+Ako Vladin zastupnik, povodom određenoga slučaja, koji se razmatrao pred Europskim sudom za ljudska prava, utvrdi da domaći propis nije u skladu s Europskom konvencijom za zaštitu ljudskih prava i temeljnih sloboda, dat će Vladi Republike Hrvatske, odnosno drugom nadležnom tijelu, poticaj za usklađivanje toga propisa s Europskom konvencijom za zaštitu ljudskih prava i temeljnih sloboda.
