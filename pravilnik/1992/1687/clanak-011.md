@@ -1,0 +1,6 @@
+# Članak 11.
+Ukrcaj izvozno ocarinjene robe u zrakoplovu obavlja se u nazočnosti carinskog djelatnika koji stanje robe sravnjuje s podacima iz manifesta i isprava na temelju kojih je obavljeno izvozno carinjenje, a po potrebi i pregledom robe u koletima.
+Ako utvrdi da stanje robe odgovara podacima iz manifesta i isprava na temelju kojih je obavljeno izvozno carinjenje, carinski djelatnik to potvrđuje na primjerku manifesta.
+Ako utvrdi da stanje robe ne odgovara podacima iz manifesta i ispravama na temelju kojih je obavljeno izvozno carinjenje, carinski djelatnik će postupiti u skladu sa člankom 266. Carinskog zakona. Osim sastavljanja zapisnika o utvrđenoj neispravnosti robe, carinski djelatnik stavlja i bilješke na manifest i izvozne carinske isprave.
+Ako su podaci iz manifesta i izvoznih carinskih isprava u suglasnosti sa stanjem robe. ali se cjelokupna količina robe ne može ukrcati u zrakoplov, carinski djelatnik o tome sastavlja bilješku na manifestu i izvoznim carinskim ispravama. Poduzeće koje je preuzelo robu evidentira podatke o neukrcanoj robi u posebni upisnik. koji se razdužuje brojem i datumom isprave na temelju koje je roba naknadno ukrcana u zrakoplov.
+Carinarnica potvrđuje primjerak izvozne carinske deklaracije kada se sva količina robe ukrca u zrakoplov i otpremi u inozemstvo.

@@ -1,0 +1,4 @@
+# Članak 4.
+Čekaonica namijenjena putnicima u međunarodnom zračnom prometu (u daljnjem tekstu: tranzitni prostor) mora biti osigurana tako da se isključi ulaz i izlaz osoba te unos i iznos robe bez carinskog nadzora.
+Pored putnika i članova posade zrakoplova koji putuju u inozemstvo ili koji su u provozu preko carinskog područja Hrvatske u tranzitni prostor smiju ulaziti samo osobe koje u tranzitnom prostoru obavljaju službenu dužnost (osoblje zračne luke, zrakoplovnih kompanija carinski djelatnici i djelatnici policije), koje su dužne nositi na vidljivom mjestu službene oznake za dozvolu kretanja.
+Ako se u zračnoj luci dočekuju odnosno ispraćaju hrvatski ili inozemni državnici, članovi delegacija i druge osobe u zvaničnom posjetu inozemstvu, odnosno Hrvatskoj, u tranzitnu prostoriju mogu ulaziti u skladu s protokolom i druge osobe (pratnje osiguranje, snimatelji. foto-reporteri, prevoditelji).

@@ -1,0 +1,1 @@
+Na temelju članka 167. stavak 3. i članka 188. stavak 6. Carinskog zakona ("Narodne novine", br. 53A/91, 33/82, 40/92, i 61/92) i Članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 41/90, 47/90 i 53A/91), direktor Carinske uprave Republike Hrvatske donosi
