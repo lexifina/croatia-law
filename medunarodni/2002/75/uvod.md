@@ -1,0 +1,1 @@
+Na temelju točke III. Odluke o objavljivanju mnogostranih međunarodnih ugovora kojih je Republika Hrvatska stranka na temelju notifikacija o sukcesiji (»Narodne novine - Međunarodni ugovori«, br. 12/93), Ministarstvo kulture Republike Hrvatske objavljuje
