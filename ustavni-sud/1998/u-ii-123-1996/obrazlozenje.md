@@ -1,0 +1,19 @@
+Obrazloženje
+Trgovačko društvo "Kamen" d.d. iz Pazina podnijelo je Sudu prijedlog za pokretanje postupka za ocjenu ustavnosti i zakonitosti u izreci naznačene odredbe Odluke o visini komunalne naknade Poglavarstva općine Kanfanar od 30. studenoga 1995. godine, na snazi od 9. prosinca 1995. godine.
+Osporenom odredbom stavka 3. naznačene odluke propisano je da se otvorenim poslovnim prostorom smatraju, između ostalog, autokampovi, kamenolomi i drugo.
+Predlagatelj smatra da je osporena odredba stavka 3. članka 4. Odluke suprotna odredbi stavka 2. članka 19. Zakona o komunalnom gospodarstvu ("Narodne novine", broj 36/95) - prema kojoj komunalnu naknadu u naseljima s uređenim građevinskim zemljištem plaća vlasnik stambenog, poslovnog i građevinskog zemljišta ili korisnik kada je to ugovorom vlasnik prenio na korisnika.
+Primjenom ove zakonske odredbe, smatra podnositelj, ne može se u otvoreni poslovni prostor s uređenim građevinskim zemljištem podvesti i kamenolom izvan naselja, jer u kamenolomu se djelatnost ne obavlja na površini zemlje kao prostoru za obavljanje manipulacija iz registriranih djelatnosti (utovar, istovar, skladištenje i drugo). U kamenolomu se djelatnost obavlja na način da se iz različitih dubina zemlje, nakon što se odstrani plići ili dublji sloj zemlje i kamena, vade kameni blokovi za daljnju obradu. Dakle, radi se o zahvatu u prostoru na koji se primjenjuje Zakon o rudarstvu ("Narodne novine", broj 35/95).
+Za iskapanje i korištenje kamena plaća se općini, temeljem članka 11. navedenog zakona, 2,5% iz ukupnog prihoda ostvarenog prodajom kamena. I iznos ove naknade može općina utrošiti za namjene koje se plaćaju iz komunalne naknade.
+Pored navedenoga nema dvojbe da se kamenolomi zbog naravi djelatnosti ne nalaze u naseljima s uređenim građevinskim zemljištem.
+Prijedlog je osnovan.
+Osporena odredba naznačene općinske Odluke glasi:
+"stavak 3. - Otvorenim poslovnim prostorom smatraju se prilazni, okolni i ograđeni manipulativni prostori u funkciji objekata, odnosno zgrade, otvorena skladišta, autokampovi, kamenolomi i drugo."
+Odgovarajuće odredbe stavaka 2. i 3. članka 19. Zakona o komunalnom gospodarstvu relevantne za ocjenu zakonitosti osporene odredbe glase:
+"(2) Komunalnu naknadu plaćaju u naseljima s uređenim građevinskim zemljištem vlasnik stambenog, poslovnog prostora i građevinskog zemljišta ili korisnik kada je to ugovorom vlasnik prenio na korisnika.
+(3) Naseljima s uređenim građevinskim zemljištem, prema stavku 2. ovog članka, smatraju se naselja opremljena najmanje pristupnom cestom objektima za opskrbu električnom energijom i opskrbom vodom prema mjesnim prilikama."
+Naseljem, pak, u smislu odredbe članka 2. Zakona o naseljima ("Narodne novine", broj 54/88) smatra se prostorna jedinica koja se sastoji od građevinskog područja i područja za druge namjene a ima ime i vlastiti sistem obilježavanja zgrada.
+Prema iznesenim zakonskim odredbama općina može utvrditi obvezu plaćanja komunalne naknade samo na području naselja s uređenim građevinskim zemljištem kako propisuje zakonska odredba stavka 3. članka 19. Zakona o komunalnom gospodarstvu, a u skladu s općim pojmom naselja što ga propisuje navedeni Zakon o naseljima.
+Osporena odredba naznačene općinske odluke kojom je propisana obveza plaćanja komunalne naknade i na zemljište za autokampove, kamenolome i druga zemljišta, bez određenja da se nalaze u naselju s uređenim građevinskim zemljištem u smislu naznačene zakonske odredbe, dakle, u suprotnosti je s odredbama Zakona.
+Obzirom da je Sud prihvatio prijedlog i ukinuo osporenu odredbu nije bilo potrebe odlučivati i o privremenoj mjeri.
+Iz navedenih razloga Ustavni sud je, temeljem odredbe članka 22. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 13/91), ukinuo osporenu odredbu.
+Odluka o objavi temelji se na članku 20. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
