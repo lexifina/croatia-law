@@ -1,0 +1,1 @@
+Na temelju članka 21. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 49/99 i 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja, na sjednici održanoj 23. listopada 2002. godine, donio je
