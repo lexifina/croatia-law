@@ -1,0 +1,5 @@
+# Članak 11.
+1. Ova Konvencija stupa na snagu istekom tri mjeseca od polaganja pete isprave o ratifikaciji, prihvatu ili pristupu.
+2. Za svaku državu koja ratificira ili prihvaća ovu Konvenciju ili joj pristupa nakon polaganja pete isprave o ratifikaciji, prihvatu ili pristupu, Konvencija stupa na snagu istekom tri mjeseca od datuma na koji glavni direktor Svjetske organizacije za intelektualno vlasništvo obavijesti države, u skladu s člankom 13., stavkom 4., o polaganju njihove isprave.
+3. Svaka država može, u trenuku ratifikacije, prihvata ili pristupa ili na bilo koji kasniji datum notifikacijom upućenom glavnom tajniku Ujedinjenih naroda izjaviti da će ovu Konvenciju primjenjivati na svim ili na nekim teritorijima za čije je međunarodne odnose ona odgovorna. Ta će notifikacija stupiti na snagu istekom tri mjeseca od datuma njezina primitka.
+4. Međutim, prethodni stavak ne smije se ni u kojem slučaju tumačiti kao priznavanje ili prešutno prihvaćanje od strane države ugovornice stvarnoga stanja na teritoriju na kojem druga država ugovornica primjenjuje ovu Konvenciju na temelju dotičnoga stavka.

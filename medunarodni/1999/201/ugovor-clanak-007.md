@@ -1,0 +1,5 @@
+# Članak 7.
+1. Ova se Konvencija ne smije ni na koji način tumačiti tako da ograničava zaštitu osiguranu na drugi način autorima, umjetnicima izvođačima, proizvođačima fonograma ili organizacijama za radiodifuziju prema bilo kojem domaćem pravu ili međunarodnom sporazumu ili tako da šteti toj zaštiti.
+2. Domaćim pravom svake države ugovornice određuju se opseg, ako postoji, u kojemu umjetnici izvođači čije su izvedbe fiksirane na fonogramu imaju pravo uživati zaštitu i uvjeti pod kojima se uživa takva zaštita.
+3. Niti od jedne države ugovornice ne zahtijeva se da odredbe ove Konvencije primijeni na bilo koji fonogram koji je fiksiran prije stupanja na snagu ove Konvencije glede te države.
+4. Svaka država ugovornica koja 29. listopada 1971. priznaje zaštitu proizvođačima fonograma sam na temelju mjesta prvoga fiksiranja može, notifikacijom položenom kod glavnoga direktora Svjetske organizacije za intelektualno vlasništvo, izjaviti da će primjenjivati taj kriterij umjesto kriterija državljanstva proizvođača.
