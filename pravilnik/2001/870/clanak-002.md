@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Porezni obveznik je fizička osoba iz članka 2. Zakona.
+(2) Kod dohotka iz kojeg se predujam poreza plaća po odbitku, obvezu obračuna, obustave i uplate predujma, obračuna i uplate kamata zbog nepravodobne uplate poreza, sastavljanja i dostavljanja propisanih izvješća i evidencija imaju isplatitelji dohotka (pravne i fizičke osobe).
+(3) Porezni obveznik je i nasljednik za sve porezne obveze koje proistječu iz dohotka što ga je ostavitelj ostvario do svoje smrti, pa ima obvezu u ime i za račun ostavitelja podmiriti dospjele obveze do vrijednosti naslijeđene imovine, može podnijeti njegovu godišnju poreznu prijavu i ispuniti druge zakonom propisane obveze. Ako nasljednik ne podnese poreznu prijavu ostavitelja, dohodak ostavitelja utvrđuje Porezna uprava procjenom. Nasljednik je istodobno i porezni obveznik za dohodak koji mu pritječe iz naslijeđenih izvora dohotka.
+(4) Obveznik poreza na dohodak može istodobno biti i obveznik poreza na dobit ako se bavi poduzetništvom koje podliježe oporezivanju prema Zakonu o porezu na dobit. U tom slučaju obveze plaćanja poreza na dohodak i poreza na dobit postoje neovisno jedna o drugoj.

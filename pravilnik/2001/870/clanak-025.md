@@ -1,0 +1,5 @@
+# Članak 25.
+(1) Poslodavac i osoba koja ima obveze poslodavca popunjava Obrasce PK-1/PK-2 na temelju podataka iz "Evidencije o dohotku od nesamostalnog rada" ili analitičke evidencije plaća te drugih isprava (isplatnih lista, knjige blagajne, izvatka žiro-računa, naloga za uplatu odnosno isplatu i slično). Podaci se unose u obrasce najkasnije u roku 15 dana od proteka mjeseca u kojemu su isplaćene primici po osnovi nesamostalnog rada.
+(2) U Obrazac PK-1/PK-2 unose se podaci za cijelu godinu ili dio godine u kojem je bilo isplata. Ako dohodak nije redovito mjesečno isplaćivan u odgovarajuće retke obrazaca za pojedini mjesec upisuju se oznake "0,00". Unesene podatke u obrazac PK-1 i PK-2 poslodavac ovjerava svojim pečatom i potpisom.
+(3) Podaci u obrasce iz stavka 1. ovoga članka unose se putem računara, strojno, odnosno ručno tintom ili kemijskom olovkom. Uneseni podaci ne smiju se brisati ni ispravljati, ako se pogriješi, pogrešku treba precrtati vodoravnom crtom uz pečat i potpis odgovorne osobe.
+9. Promjene obustavljenog poreza na dohodak
