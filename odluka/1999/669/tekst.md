@@ -1,0 +1,3 @@
+1. Ako starosna ili invalidska mirovina ostvarena do 31. prosinca 1998., koja se isplaćuje korisniku mirovine ostvarene u bivšem Republičkom fondu mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske, iznosi počevši od 1. siječnja 1999. manje od 280,34 kn mjesečno, isplaćivat će se umjesto pripadajuće mirovine, zajamčena najniža svota od 280,34 kn mjesečno.
+2. Nova zajamčena najniža svota odredit će se po službenoj dužnosti svim korisnicima zajamčene najniže svote, bez donošenja rješenja.
+3. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1999.
