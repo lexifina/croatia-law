@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. točke 2. članka 13. stavka 3. i članka 67. stavka 1. točke 9. Zakona o Narodnoj banci Hrvatske ("Narodne novine" br. 35/95 - pročišćeni tekst), Savjet Narodne banke Hrvatske na sjednici održanoj 8. siječnja 1996. godine donio je
