@@ -1,0 +1,6 @@
+Obrazloženje
+Josip Sviličić osporio je ustavnost i zakonitost odluka navedenih u izreci rješenja i predložio je da se one ukinu.
+Prijedlog nije dopušten.
+Prema stajalištu Ustavnog suda Republike Hrvatske, dosad izraženog u više rješenja, osporeni akti (odluke) o ukidanju dosadašnjih centara usmjerenog obrazovanja i osnivanju zasebnih srednjih škola, nisu po svojoj naravi propisi koji mogu biti predmet ustavnosudskog odlučivanja. Naime, nadležnost Ustavnog suda Republike Hrvatske određena odredbom članka 125. Ustava Republike Hrvatske ne uključuje i ocjenu akata o osnivanju pravnih subjekata koji su osnovani osporenim odlukama.
+Ustavni sud Republike Hrvatske je iz istog razloga u predmetu broj: U-II-19/94, rješenjem od 9. veljače 1994. godine, odbacio prijedlog za ocjenu ustavnosti i zakonitosti odluke Gradskog vijeća Grada Ploče o organiziranju Javnog poduzeća "Pločeplan", Ploče. U predmetu broj: U-I-82/91, rješenjem od 6. lipnja 1991. godine, Ustavni sud je odbacio prijedlog za ocjenu rješenja Skupštine Općine Split od 4. travnja 1991. godine o organiziranju Javnog poduzeća "Tržnice Split", Split.
+Stoga je prijedlog za ocjenu ustavnosti i zakonitosti rečenih akata Ustavni sud, primjenom članka 26. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 13/91), odbacio zbog nenadležnosti.
