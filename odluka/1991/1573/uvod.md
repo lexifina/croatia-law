@@ -1,0 +1,1 @@
+Na temelju članka 36. Zakona o izvršenju Proračuna Republike Hrvatske za 199I. godinu ("Narodne novine", br. 58/90), Administrativna komisija Sabora Republike Hrvatske, na 17. sjednici, održanoj 6. studenog 1991. godine, donijela je
