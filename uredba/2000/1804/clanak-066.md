@@ -1,0 +1,4 @@
+# Članak 66.
+(1) Novčanom kaznom od 100,00 kuna kaznit će se na mjestu izvršenja prekršaja unutarnje plovidbe osoba koja postupi suprotno odredbama članka 8. stavak 1. i 3., članka 9. stavak 1., članka 12., stavak 1., članka 13. stavak 1. i 3., članka 14., članka 22. stavak 2., članka 23., članka 28. stavak 1. točke 1., 3., 6., 7., 10., 11. i 12., članka 29. stavak 1., članka 31., članka 34., članka 46., članka 47., stavak 3., članka 51., članka 55., članka 56. stavak 1. i članka 57. stavak 1. i 4. ove Uredbe.
+(2) Počinitelju prekršaja unutarnje plovidbe koji ne plati kaznu na mjestu izvršenja prekršaja, ovlaštena osoba izdat će uplatnicu kojom isti može platiti kaznu u roku od 8 dana.
+(3) Ovlaštena osoba dužna je počinitelju prekršaja izdati potvrdu o naplaćenoj kazni iz stavka 1. ovoga članka na propisanom obrascu.

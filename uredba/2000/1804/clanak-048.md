@@ -1,0 +1,8 @@
+# Članak 48.
+(1) Čišćenje plovila za gospodarske namjene od opasnih plinova (degazacija) i od glodavaca (deratizacija, te fumigacija tereta) u luci se može prema odluci pravne ili fizičke osobe koja upravlja lukom, i uz prethodnu suglasnost kapetanije, obavljati samo na za to određenim mjestima, na određeni način i u određeno vrijeme.
+(2) Ostala čišćenja plovila, pri kojima nema opasnosti od nezgoda i onečišćenja voda (dezinfekcija, dezinsekcija i sl.) mogu se na uobičajen način obavljati na svakom mjestu u luci u svako vrijeme.
+(3) Pravna ili fizička osoba koja upravlja lukom dužna je osigurati prihvat neopasnog i opasnog otpada koji je nastao prilikom uporabe plovila i prilikom čišćenja nakon iskrcavanja, ukrcavanja i prekrcavanja tereta.
+(4) Kapetanija će zabraniti isplovljenje plovila koja na palubi imaju ostatke tereta i krutog ili tekućeg otpada.
+(5) Pravna ili fizička osoba koja upravlja lukom smije dopustiti ukrcavanje otpada za izvoz iz Republike Hrvatske odnosno iskrcavanje otpada za uvoz u Republiku Hrvatsku samo ako je izdano rješenje nadležnog ministarstva o ispunjavanju uvjeta za izvoz odnosno uvoz.
+(6) Pravna ili fizička osoba koja upravlja lukom smije dopustiti prekrcavanje otpada koji se uvozi u Republiku Hrvatsku, samo ako je izdano rješenje nadležnog ministarstva o ispunjavanja uvjeta za uvoz.
+(7) Pravna ili fizička osoba koja upravlja lukom smije dopustiti iskrcavanje ili prekrcavanje otpada koji se provozi preko područja Republike Hrvatske, samo ako je izdano rješenje nadležnog ministarstva o ispunjavanju uvjeta za provoz preko područja Republike Hrvatske.

@@ -1,0 +1,5 @@
+# Članak 21.
+(1) Nasukana, neupotrebljiva ili potonula plovila odnosno potonule stvari smiju se nalaziti u luci samo na osnovi odobrenja pravne ili fizičke osobe koja upravlja lukom i uz suglasnost kapetanije.
+(2) Ako plovila odnosno potonule stvari iz stavka 1. ovoga članka ugrožavaju sigurnost plovidbe ili postoji opasnost onečišćenja voda, brodar odnosno vlasnik plovila i potonule stvari dužni su, na zahtjev kapetanije, premjestiti plovilo odnosno potonulu stvar iz luke na mjesto koje odredi kapetanija.
+(3) Ako brodar odnosno vlasnik plovila ili potonule stvari ne postupi prema zahtjevu kapetanije iz stavka 2. ovoga članka kapetanija će narediti pravnoj ili fizičkoj osobi koja upravlja lukom da plovilo odnosno potonulu stvar premjesti iz luke na mjesto koje ona odredi, a na teret i rizik brodara, vlasnika plovila odnosno potonule stvari.
+(4) Plovilo u raspremi može se držati u luci samo na osnovi odobrenja pravne ili fizičke osobe koja upravlja lukom uz suglasnost kapetanije, ako se time ne ugrožava sigurnost plovidbe.

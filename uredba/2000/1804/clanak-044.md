@@ -1,0 +1,3 @@
+# Članak 44.
+(1) Nakon završenog ukrcaja odnosno iskrcaja tereta ili putnika svaki brod odnosno čamac za gospodarske namjene u luci mora biti spreman isploviti po isteku vremena potrebnog za pripremu broda odnosno čamca za plovidbu. Na zahtjev pravne ili fizičke osobe koja upravlja lukom, brod odnosno čamac mora isploviti ili se premjestiti po isteku vremena potrebnog za pripremu broda odnosno čamca za plovidbu.
+(2) Iznimno od odredbe stavka 1. ovoga članka, na traženje osobe koja upravlja brodom odnosno voditelja čamca kapetanija može odobriti i dulje vrijeme za pripremu broda, odnosno čamca za plovidbu na istom ili drugom vezu odnosno sidrištu kojeg odredi pravna ili fizička osoba koja upravlja lukom, ako se radi o radnjama vezanim za sigurnost plovidbe.

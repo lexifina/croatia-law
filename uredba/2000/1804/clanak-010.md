@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Pravna ili fizička osoba koja upravlja lukom, uz prethodnu obavijest kapetaniji, određuje plovilu mjesto za privez uz operativnu obalu ili drugi dio obale, odnosno mjesto na lučkom sidrištu.
+(2) Kapetanija može plovilu za gospodarske namjene radi sigurnosti plovidbe, uz prethodnu, a iznimno i uz naknadnu obavijest pravnoj ili fizičkoj osobi koja upravlja lukom, narediti da se već privezana i usidrena plovila premjeste na drugi vez ili da se premjeste s dodijeljenog im mjesta, te da se djelomično ili potpuno nakrcano plovilo ukloni s operativne obale na određenu lokaciju i da se tamo usidri.

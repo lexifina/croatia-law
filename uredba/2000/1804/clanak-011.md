@@ -1,0 +1,2 @@
+# Članak 11.
+Kapetanija će uskratiti suglasnost za privez ili sidrenje broda odnosno čamca za gospodarske svrhe na operativnoj obali ili mjestu za sidrenje kada primi prethodnu obavijest pravne ili fizičke osobe koja upravlja lukom da se time ugrožava sigurnost plovidbe, sigurnost ljudskih života i objekata na obali ili na vodi, te ako je brod odnosno čamac u takvom stanju da bi se time onečistile vode.
