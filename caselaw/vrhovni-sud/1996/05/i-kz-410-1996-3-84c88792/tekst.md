@@ -1,0 +1,39 @@
+REPUBLIKA HRVATSKA
+
+VRHOVNI SUD REPUBLIKE HRVATSKE
+
+Z A G R E B
+
+Broj: I Kž-410/1996-3
+
+R J E Š E N J E
+
+Vrhovni sud Republike Hrvatske u Zagrebu u vijeću sastavljenom od sudaca Vrhovnog suda Milana Gudelja, kao predsjednika vijeća, te Milana Petranovića i mr. Branka Zmajevića, kao članova vijeća i više savjetnice Zlate Lipnjak-Bosanac, kao zapisničara, u krivičnom predmetu protiv okr. B. L. zbog krivičnog djela iz čl. 166. st. 3. OKZRH, odlučujući o žalbi vojnog tužitelja podnesenoj protiv rješenja Vojnog suda u Rijeci od 11. travnja 1996. godine, br. Kio-21/96., KV-30/96., u sjednici održanoj dana 28. svibnja 1996. godine,
+
+r i j e š i o j e:
+
+Odbija se kao neosnovana žalba vojnog tužitelja.
+
+O b r a z l o ž e n j e
+
+Pobijanim rješenjem Vojni sud u Rijeci, po službenoj dužnosti, na temelju čl. 1. st. 1. i 2. Zakona o oprostu od krivičnog progona i postupaka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske (u daljnjem tekstu: Zakon o oprostu) obustavio je krivični postupak protiv okrivljenog B.L. zbog krivičnog djela iz čl. 166. st. 3. OKZRH.
+
+Protiv toga rješenja vojni tužitelj je podnio žalbu, s prijedlogom da se pobijano rješenje ukine.
+
+Žalba nije osnovana.
+
+Odredbom čl. 1. st. 1. citiranog Zakona o oprostu predviđeno je da će se obustaviti krivični progon odnosno postupak protiv počinitelja krivičnih djela koja su u svezi s oružanim sukobima, odnosno ratom protiv Republike Hrvatske za razdoblje od 17. kolovoza 1990. godine do 25. rujna 1992. godine, dok je Zakonom o izmijeni Zakona o oprostu to razdoblje produljeno do 10. svibnja 1995. godine ("Narodne novine", br. 39/95.).
+
+Inkriminirano postupanje za koje je optužen L.B., tj. neodazivanje pozivu i izbijegavanje vojne službe, suprotno stajalištu žalitelja, predstavlja krivično djelo koje je u izravnoj svezi s oružanim sukobima, odnosno ratom protiv Republike Hrvatske u smislu čl. 1. st. 1. Zakona o oprostu.
+
+Kako uz navedeno nije riječ o počinitelju krivičnog djela za čiji progon je Republika Hrvatska obavezna prema odredbama Međunarodnog prava u smislu čl. 2. citiranog Zakona o oprostu, niti u tom pravcu žalbe bilo što iznosi, u konkretnom slučaju za primjenu Zakona o oprostu postale su sve zakonske pretpostavke, te je stoga pobijano rješenje Vojnog suda u Rijeci opravdano i na zakonu osnovano. Zbog navedenih razloga, na temelju čl. 385. st. 3. ZKP-a, o žalbi vojnog tužitelja trebalo je odlučiti kao u izreci ovog rješenja.
+
+U Zagrebu, 28. svibnja 1996.
+
+Zapisničar:
+
+Predsjednik vijeća:
+
+Zlata Lipnjak-Bosanac, v.r.
+
+Milan Gudelj, v.r.
