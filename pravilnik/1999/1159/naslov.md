@@ -1,0 +1,1 @@
+Pravilnik o uvjetima glede stručnih djelatnika, prostorija i opreme koje moraju ispunjavati zdravstvene i druge pravne osobe za obavljanje analiza i superanaliza namirnica odnosno predmeta opće uporabe

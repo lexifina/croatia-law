@@ -1,0 +1,32 @@
+# Članak 9.
+Za obavljanje osnovne djelatnosti laboratorij mora imati ovu opremu:
+- analitičku vagu na pet decimala;
+- analitičku vagu na dvije decimale;
+- potrebit pribor za fizikalna, kemijska i senzorska ispitivanja;
+- uređaj za makrospaljivanje uzoraka, potreban u postupku određivanja dušika;
+- električnu peć s regulacijom temperature do 1100°C;
+- sušionike s regulacijom temperature do 300°C;
+- dva termostata s regulacijom temperature od + 20°C do +60°C;
+- termostat s regulacijom temperature od +1°C do +60°C;
+- polarimetar;
+- univerzalni refraktometar po Abbeu s mogućnošću očitovanja indeksa refrakcije od 1.3 do 1.7;
+- električnu vodenu kupelj s regulacijom temperature;
+- hladnjak za duboko zamrzavanje (-25°C), kapaciteta 300 litara (odnosno prema opsegu posla);
+- hladnjak (od +3°C do 5°C), kapaciteta 100-200 litara;
+- električnu centrifugu;
+- birete automatske (3 komada);
+- pH metar sa specijalnim elektrodama za razne medije i temperature;
+- potrebit pribor za mikrobiološka ispitivanja;
+- autoklav i uređaj za suhu sterilizaciju;
+- električnu magnetsku mješalicu s grijačem;
+- binokularni mikroskop s imerzijom i lupu;
+- ultraljubičastu svjetiljku;
+- brojač kolonija;
+- uređaj za homogenizaciju uzoraka;
+- osobno računalo s programom za obradu analitičkih izvješća i datotekom;
+- UV/VIS spektrofotometar;
+- Gerberovu centrifugu;
+- konduktometar;
+- turbidimetar;
+- uređaj za membransku filtraciju;
+- vakuum sisaljku.
