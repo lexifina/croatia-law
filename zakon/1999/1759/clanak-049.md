@@ -1,0 +1,3 @@
+# Članak 49.
+Općina, grad i Grad Zagreb koji imaju javnu vatrogasnu postrojbu, dobrovoljna vatrogasna društva, vatrogasne zajednice te pravne osobe koje imaju profesionalne vatrogasne postrojbe u gospodarstvu i dobrovoljna vatrogasna društva u gospodarstvu, oslobođena su plaćanja pristojbi na kupljena ili darovana vatrogasna vozila, vatrogasnu opremu i sredstva za gašenje te zamjenske dijelove.
+Dobrovoljna vatrogasna društva i vatrogasne zajednice kod plaćanja komunalnih usluga utvrđenih Zakonom o komunalnom gospodarstvu snose troškove kao domaćinstva te raspolažu samostalno deviznim sredstvima koje ostvare prilozima pravnih i fizičkih osoba.

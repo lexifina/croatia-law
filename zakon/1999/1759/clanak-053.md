@@ -1,0 +1,12 @@
+# Članak 53.
+Novčanom kaznom u iznosu od 5.000,00 do 20.000,00 kuna kaznit će se za prekršaj fizička osoba:
+1. ako kao odgovorna osoba u poglavarstvu općine, grada, županije ili Grada Zagreba ne skrbi o potrebama i interesima građana na svom području glede organizacije i djelovanja učinkovite vatrogasne službe, odnosno da na području općine i grada djeluje najmanje jedna javna vatrogasna postrojba ili dobrovoljno vatrogasno društvo (članak 3.),
+2. ako kao odgovorna osoba u poglavarstvu općine, grada ili Grada Zagreba ne poduzme radnje da se donese odluka o osnivanju javne vatrogasne postrojbe ako ista proizlazi iz plana zaštite od požara svoje jedinice lokalne samouprave (članak 8. stavak 1.),
+3. ako kao gradonačelnik ili načelnik ne poduzme mjere za osnivanje i opremanje potrebnog broja javnih vatrogasnih postrojbi ili dobrovoljnih vatrogasnih društava (članak 10. stavak 2.),
+4. ako kao gradonačelnik ili načelnik ne osigura naknadu plaće ili isplatu naknade dobrovoljnom vatrogascu za vrijeme provedeno na vatrogasnoj intervenciji (članak 26.),
+5. ako kao županijski vatrogasni zapovjednik odnosno zapovjednik vatrogasnih postrojbi vatrogasne zajednice općine, grada ili područja ne uspostavi učinkovitu organizaciju, osposobljenost i intervencijsku spremnost vatrogastva na području općine, grada, županije i Grada Zagreba (članak 32.),
+6. ako kao zapovjednik vatrogasne intervencije ne sačuva tragove koji mogu poslužiti za utvrđivanje uzroka događaja ili ne osigura čuvanje požarišta te dođe do ponovnog aktiviranja požara (članak 35.),
+7. ako ne postupi po zahtjevu zapovjednika vatrogasne intervencije (članak 34. stavak 3.), ili bez opravdanih razloga ne sudjeluje u obavljanju intervencije i spašavanju ljudi i imovine ugroženih nastalim događajem po naredbi načelnika odnosno gradonačelnika (članak 37. stavak 1. točka 1.),
+8. ako ne stave na raspolaganje alat, prijevozna, tehnička i druga sredstva za potrebe intervencije i za spašavanje ljudi i imovine ugroženih nastalim događajem (članak 37. stavak 1. točka 2.),
+9. ako kao gradonačelnik odnosno načelnik jedinice lokalne samouprave na čijem području je obavljena intervencija ne osigura naknadu materijalnih troškova i štete vatrogasnim postrojbama koje imaju pravo na naknadu (članak 38.),
+10. ako kao načelnik općine odnosno gradonačelnik grada i župan županije ili Grada Zagreba ne osigura propisani iznos financijskih sredstava te ista ne uplati na račun vatrogasnih zajednica ili dobrovoljnih vatrogasnih društava (članak 45.).

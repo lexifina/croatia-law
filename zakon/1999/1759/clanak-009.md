@@ -1,0 +1,4 @@
+# Članak 9.
+Dobrovoljna vatrogasna društva mogu započeti obavljati vatrogasnu djelatnost tek kada, kao ustrojstveni oblik djelovanja određen ovim Zakonom, imaju vatrogasnu postrojbu sastavljenu od najmanje 10 dobrovoljnih vatrogasaca, propisanu opremu i sredstva te pribave suglasnost nadležne vatrogasne zajednice općine, grada i Grada Zagreba ili područne vatrogasne zajednice.
+Planom zaštite od požara općine, grada, županije i Grada Zagreba utvrđuju se javne vatrogasne postrojbe ili postojeća dobrovoljna vatrogasna društva koja moraju imati vatrogasnu postrojbu od najmanje 20 dobrovoljnih vatrogasaca te propisanu opremu i sredstva (u daljnjem tekstu: središnja postrojba ili društvo).
+Hrvatska vatrogasna zajednica, uz suglasnost ministra unutarnjih poslova, propisat će ustroj, potrebnu opremu i sredstva za rad dobrovoljnih vatrogasaca u javnim vatrogasnim postrojbama s dobrovoljnim vatrogascima i dobrovoljnim vatrogasnim društvima.

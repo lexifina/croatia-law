@@ -1,0 +1,4 @@
+# Članak 3.
+Općinsko odnosno gradsko poglavarstvo te poglavarstvo Grada Zagreba i županijsko poglavarstvo ima pravo i obvezu skrbiti o potrebama i interesima građana na svom području za organiziranjem i djelovanjem učinkovite vatrogasne službe.
+Općinsko odnosno gradsko poglavarstvo te poglavarstvo Grada Zagreba, radi zadovoljavanja potreba iz stavka 1. ovoga članka, osniva javne vatrogasne postrojbe ili poticanjem osnivanja dobrovoljnih vatrogasnih društava osigurava djelotvornu vatrogasnu službu.
+Na području općine, grada i Grada Zagreba mora djelovati onoliki broj javnih vatrogasnih postrojbi ili dobrovoljnih vatrogasnih društava koliko je utvrđeno njihovim planom zaštite od požara ili najmanje jedna javna vatrogasna postrojba odnosno dobrovoljno vatrogasno društvo koje ima vatrogasnu postrojbu određenu ovim Zakonom.

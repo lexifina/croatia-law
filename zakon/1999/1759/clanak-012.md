@@ -1,0 +1,2 @@
+# Članak 12.
+Dobrovoljna vatrogasna društva mogu, osim vatrogasne djelatnosti, obavljati gospodarske i društvene djelatnosti (najam poslovnog prostora, održavanje vozila, organizacija kulturnih i športskih priredbi, prijevoz vode i sl.) koje su u svezi s obavljanjem vatrogasne djelatnosti sukladno odredbama posebnih propisa, ako se time ne umanjuje intervencijska spremnost vatrogasne postrojbe dobrovoljnoga vatrogasnog društva.

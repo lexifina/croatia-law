@@ -1,0 +1,10 @@
+## IV. VATROGASCI
+# Članak 21.
+Poslove profesionalnog vatrogasca može obavljati osoba koja, pored općih uvjeta za zasnivanje radnog odnosa, ispunjava i sljedeće uvjete:
+- da ima srednju školsku spremu vatrogasnog smjera, odnosno srednju školsku spremu tehničkog smjera, pod uvjetom da u roku od godinu dana od dana prijma u radni odnos završi prekvalifikaciju, što dokazuje svjedodžbom odgovarajuće školske ustanove,
+- da je tjelesno i duševno sposobna za obavljanje vatrogasne djelatnosti što dokazuje potvrdom ovlaštene zdravstvene ustanove,
+- da nije kažnjavana za kaznena djela protiv imovine, opće sigurnosti ljudi i imovine te protiv službene dužnosti.
+Vatrogasac s posebnim ovlastima i odgovornostima, u smislu ovoga Zakona, je glavni vatrogasni zapovjednik, njegov zamjenik i pomoćnici, zapovjednik vatrogasnih postrojbi vatrogasne zajednice i zapovjednik vatrogasne postrojbe te ostali zapovjednici unutarnjim ustrojem određeni da samostalno vode vatrogasnu intervenciju prilikom koje koriste javne ovlasti utvrđene člankom 34. ovoga Zakona.
+Zapovjednik vatrogasnih postrojbi vatrogasne zajednice i zapovjednik vatrogasne postrojbe koji profesionalno obavlja ove poslove mora biti inženjer zaštite od požara ili treba imati najmanje višu školsku spremu tehničkog smjera dok ostali zapovjednici koji profesionalno obavljaju ove poslove a po unutarnjem ustroju su određeni da samostalno vode vatrogasnu intervenciju moraju ispunjavati uvjete iz stavka 1. ovoga članka.
+Zapovjednik vatrogasnih postrojbi vatrogasne zajednice i zapovjednik vatrogasne postrojbe koji dobrovoljno obavlja ove poslove kao i ostali zapovjednici koji su po unutarnjem ustroju određeni da samostalno vode vatrogasnu intervenciju, a ove poslove obavljaju dobrovoljno, moraju ispunjavati uvjete iz stavka 1. ovoga članka.
+Osobe iz stavka 2. ovoga članka moraju imati položen stručni ispit za obavljanje vatrogasnih intervencija ili ga položiti u roku od jedne godine od raspoređivanja na te poslove. Provjera znanja mora se obnoviti svake pete godine od dana polaganja stručnog ispita, prema programu za polaganje stručnog ispita.

@@ -1,0 +1,6 @@
+# Članak 16.
+Javne vatrogasne postrojbe, dobrovoljna vatrogasna društva, dobrovoljna vatrogasna društva u gospodarstvu i profesionalne vatrogasne postrojbe u gospodarstvu udružuju se u vatrogasnu zajednicu općine odnosno grada.
+Iznimno od stavka 1. ovoga članka, dvije ili više jedinica lokalne samouprave mogu sporazumno osnovati zajedničku vatrogasnu zajednicu (u daljnjem tekstu: područna vatrogasna zajednica) u koju se udružuju javne vatrogasne postrojbe, dobrovoljna vatrogasna društva, dobrovoljna vatrogasna društva u gospodarstvu i profesionalne vatrogasne postrojbe u gospodarstvu s njihovih područja.
+Vatrogasne zajednice iz stavka 1. i 2. ovoga članka udružuju se u vatrogasnu zajednicu županije i vatrogasnu zajednicu Grada Zagreba.
+Ako na području općine ili grada nije osnovana vatrogasna zajednica odnosno nije osnovana područna vatrogasna zajednica, javne vatrogasne postrojbe, dobrovoljna vatrogasna društva, dobrovoljna vatrogasna društva u gospodarstvu i profesionalne vatrogasne postrojbe u vatrogastvu izravno se udružuju u vatrogasnu zajednicu županije odnosno vatrogasnu zajednicu Grada Zagreba.
+Vatrogasne zajednice županija i Grada Zagreba udružuju se u Hrvatsku vatrogasnu zajednicu.
