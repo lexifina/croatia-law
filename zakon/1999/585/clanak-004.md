@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 29. stavku 3. na kraju teksta iza riječi: "vijeće." dodaju se rečenice druga i treća koje glase:
+"Nagradu i naknadu troškova stečajno vijeće može unaprijed odrediti u postotku od ukupno unovčene stečajne mase. Ako se naknadno, s obzirom na daljnji tijek stečajnoga postupka, pokaže da je iznos nagrade ili naknade troškova koji je unaprijed određen u postotku od ukupno unovčene stečajne mase nerazmjerno previsok ili prenizak, stečajno vijeće može, na prijedlog stečajnoga suca, stečajnoga upravitelja ili odbora vjerovnika primjereno smanjiti ili povećati unaprijed određeni postotak."
