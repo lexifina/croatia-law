@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Trgovačka društva osnovana sukladno odredbi članka 29. Zakona o tržištu električne energije (»Narodne novine«, br. 68/01.) i sve ostale dionice i udjeli u vlasništvu HEP-a d.d. u pojedinim trgovačkim društvima neće se posebno privatizirati na temelju ovoga Zakona. Tim dionicama i udjelima sukladno važećim propisima i ograničenjima iz ovoga Zakona raspolaže HEP d.d.
+(2) Dok Republika Hrvatska ne postane članicom Europske unije, HEP d.d. je dužan zadržati isključivo vlasništvo u ovisnim društvima koja obavljaju djelatnosti prijenosa i distribucije električne energije, odnosno u svojem vlasništvu imaju prijenosnu i distributivnu mrežu.
