@@ -1,0 +1,4 @@
+# Članak 12.
+Odjel za ustrojstvo lokalne i područne (regionalne) samouprave obavlja upravne i stručne poslove koji se odnose na sustav i ustrojstvo lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, politički i izborni sustav, teritorijalno ustrojstvo i organizacijski ustroj lokalnih i područnih (regionalnih) jedinica, provedbu referenduma i drugih oblika osobnog izjašnjavanja građana, ostvarivanje prava pripadnika nacionalnih manjina na zastupljenost u predstavničkim tijelima lokalnih i područnih (regionalnih) jedinica te decentralizaciju poslova.
+Odjel daje mišljenja i tumačenja o primjeni odredaba zakona iz svoga djelokruga, izrađuje nacrte prijedloga zakona i drugih propisa, promemorije i izvješća, prati stanje i predlaže mjere za unapređenje ustrojstva lokalne i područne (regionalne) samouprave i izbornog sustava te područnog ustrojstva Republike Hrvatske.
+10. Odjel za nadzor lokalne i područne (regionalne) samouprave i suradnju

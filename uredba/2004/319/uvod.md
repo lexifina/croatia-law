@@ -1,0 +1,1 @@
+Na temelju članka 9. i 21b. Zakona o izmjenama i dopunama Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 199/2003) i članka 60. stavka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 48/99, 15/2000, 127/2000, 59/2001 i 199/2003), Vlada Republike Hrvatske je na sjednici održanoj 22. siječnja 2004. godine, donijela
