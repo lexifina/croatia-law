@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u Privredne komore ("Narodne novine", br. 42/86 i 57/89). člana 2. i 106. Statuta Privredne komore Hrvatske, Skupština Privredne komore Hr- vatske na 6. sjednici 29. ožujka 1990. donijela je
