@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92) a u svezi sa člankom 19. stavhom 1. točhom 5. Zakona o Hrvatskoj radio-televiziji (pročišćeni tehst, "Narodne novine", broj 43/92), Vlada Republike Hrvatske je na sjednici odrenoj 24. veljače 1993. godine, donijela
