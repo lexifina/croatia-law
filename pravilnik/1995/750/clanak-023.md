@@ -1,0 +1,9 @@
+## Pismo s označenom vrijednošću (vrijednosno pismo)
+# Članak 23.
+(1) Pismo s označenom vrijednošću (vrijednosno pismo) je pismovna pošiljka za koju pošiljatelj, prigodom predaje, zahtijeva da se primi i s njom postupa na način propisan odredbama ovog pravilnika i tehnološkim propisima za vrijednosno pismo.
+(2) Pismo s označenom vrijednošću (vrijednosno pismo) može sadržavati predmete, novac i pisano priopćenje.
+(3) Pošiljatelj je obvezan prigodom predaje vrijednosnog pisma označiti vrijednost pošiljke brojkama i slovima na lijevom donjem dijelu adresne strane vrijednosnog pisma. Označena vrijednost mora odgovarati stvarnoj vrijednosti ili značenju sadržaja vrijednosnog pisma za pošiljatelja o čemu pošiljatelj potpisuje izjavu na potvrdi o predaji pošiljke.
+(4) Označena vrijednost vrijednosnog pisma može biti do 200,000,00 kuna. Kada se vrijednosna pisma razmjenjuju između HPT-a i Zavoda za platni promet, ili između HPT-a i poslovnih banaka, visina označene vrijednosti vrijednosnog pisma nije ograničena.
+(5) Vrijednosno pismo može biti mase do 2 kg. Iznimno kad Zavod za platni promet šalje novčane dotacije pošti ili kad pošta šalje novčane suviške Zavodu za platni promet, masa vrijednosnog pisma može biti do 30 kg. Isto tako, vrijednosno pismo može biti mase do 30 kg kad se vrijednosna pisma razmjenjuju između poslovnih banaka i pošta.
+(6) Na omotu vrijednosnog pisma ne smije se ništa brisati, strugati, ispravljati, precrtavati i sl. niti mijenjati ili podvlačiti pojedini dijelovi adrese ili označene vrijednosti, niti se smiju stavljati kakve naljepnice ili oznake, osim poštanskih oznaka i naljepnica ili poštanskih i doplatnih maraka.
+(7) Dimenzije vrijednosnog pisma moraju odgovarati dimenzijama predviđenim za pismo, osim za vrijednosna pisma predviđena u stavku 5. ovog članka, koja mogu biti do maksimalnih dimenzija za pakete:

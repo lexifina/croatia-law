@@ -1,0 +1,1 @@
+Na temelju članka 10. stavak 3. i 4. Zakona o pošti ("Narodne novine" broj 53/94), ministar pomorstva, prometa i veza, uz suglasnost ministra pravosuđa, glede postupka uručenja poštanskih pošiljaka u svezi sa sudbenim, upravnim i prekršajnim postupcima, donosi

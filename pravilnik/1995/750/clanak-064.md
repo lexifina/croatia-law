@@ -1,0 +1,17 @@
+# Članak 64.
+(1) Uručenje poštanskih pošiljaka obavlja se na način i po postupku koji je uređen odredbama Zakona o pošti, ovog Pravilnika i tehnološkim propisima.
+(2) Poštanske pošiljke uručuju se, u pravilu, osobno primatelju, zakonitom zastupniku ili osobi koju je on ovlastio za primanje pošiljaka.
+(3) Iznimno od odredbe iz stavka 2. ovog članka, pojedine vrste poštanskih pošiljaka mogu se uručiti i odraslom članu kućanstva, osobi stalno zaposlenoj u kućanstvu ili poslovnoj prostoriji primatelja, te putem posredovatelja (poduzeće, hotel, odmaralište, bolnica i sl.).
+(4) Osobama iz odredbe stavka 3. ovog članka mogu se uručiti obične pismovne pošiljke, preporučene pismovne pošiljke, pošiljke s potvrđenim uručenjem, te vrijednosna pisma, paketi i uputnice do 500,00 kuna.
+(5) Pod odraslim članom kućanstva podrazumijevaju se: suprug i supruga, roditelj i dijete, brat i sestra stariji od 15 godina, te svaki drugi srodnik stariji od 15 godina, a koji s primateIjem živi u istom kućanstvu.
+(6) Pod stalno zaposlenom osobom podrazumijeva se svaka osoba starija od 15 godina koja je zaposlena u kućanstvu ili u pošlovnoj prostoriji primatelja.
+(7) Pošiljke za pravnu osobu uručuju se osobi koja je ovlaštena za primitak pošiljaka za tu pravnu osobu ili osobi koju je primatelj opunomoćio. Ako pravna osoba prestane postojati pošiljke se uručuju njenom pravnom slijedniku, na temelju rješenja mjerodavnog tijela.
+(8) Posredovatelju se uručuju obične pismovne pošiljke, pošiljke s potvrđenim uručenjem bez povratnice, preporučene pismovne pošiljke bez povratnice, otkupne pošiljke i pošiljke koje nisu opterećene carinskim i drugim pristojbama, a koje su adresirane za fizičke osobe, kad u adresi primatelja kao potanju oznaku imaju naziv poduzeća, državnog tijela, ustanove, organizacije ili druge pravne osobe. Posredovateljem se smatra ona pravna osoba, ustanova ili organizacija koja se nalazi u adresi primatelja.
+(9) Posredovatelju se mogu, osim pošiljaka iz odredbe stavka 8. ovog članka uručivati i ostale poštanske pošiljke koje su adresirane za tizičke osobe, osim pošiljaka s posebnom uslugom, "uručiti osobno primatelju", pod uvjetom da HPT s posredovateljem zaključi ugovor o uvjetima i načinu uručenja tih pošiljaka. Ako posredovatelj nije voljan sklopiti takav ugovor poštanski ured će pokušati pošiljke dostaviti primatelju na adresu navedenu na pošiljci, a ako takvo uručenje iz bilo kojeg razloga nije moguće obaviti, pošiljke će se uručivati u poštanskom uredu sukladno članku 67. stavak 7. ovog pravilnika.
+(10) Poštanske pošiljke koje u adresi imaju oznaku vojne pošte uručuju se na način i po postupku utvrdenom ugovorom izmedu HPT-a i mjerodavnog državnog tijela.
+(11) Pošiljke koje su adresirane na osobu pod starateljstvom, za osobe u pritvoru ili za osobe koje se nalaze na izdržavanju kazne zatvora, ne mogu se uručiti primatelju ni drugim osobama ako je mjerodavno tijelo takav zahtjev podnijelo poštanskom uredu.
+(12) Pošiljke adresirane za osobe iz odredbe stavka 11. ovog članka uručuju se:
+1. za osobe pod starateljstvom - njihovu staratelju;
+2. za osobe u pritvoru - istražnom tijelu;
+3. za osobe koje se nalaze na izdržavanju kazne zatvora-ravnatelju kazneno-popravne ustanove u kojoj se primatelj nalazi ili osobi koju je ravnatelj opunomoćio za primitak pošiljaka.
+(13) Oštećene i prepakirane pošiljke uručuju se u poštanskom uredu osobno primatelju ili osobi koju je primatelj ovlastio ili opunomoćio za primitak pošiljaka.

@@ -1,0 +1,6 @@
+# Članak 68.
+(1) HPT je dužan žurne pismovne pošiljke mase do 2 kg dostaviti primatelju prije ostalih pošiljaka na užem dostavnom području. Ako se žurna pismovna pošiljka iz bilo kog razloga nije mogla uručiti primatelju pošiljka se ponovno nosi na dostavu slijedeći radni dan. Ukoliko se ni u drugom pokušaju dostave pošiljka nije mogla uručiti, primatelju se ostavlja izvješće o prispjeću pošiljke, na način propisan člankom 67. stavak 7. ovog pravilnika.
+(2) HPT određuje poštanske urede koji obavljaju dostavu paketa. Ti poštanski uredi obavljaju dostavu svih paketa na užem dostavnom području.
+(3) Poštanski uredi koji, sukladno odredbi iz stavka 2. ovog članka, ne obavljaju dostavu svih paketa, dužni su obavljati dostavu žurnih i vrlo žurnih paketa mase do 1 kg na užem dostavnom području. Za ostale pakete dostavlja se izvješće o prispjeću pošiljke na način propisan odredbama iz članka 67. stavak 1. ovog pravilnika.
+(4) Žurne pošiljke adresirane za šire i najšire dostavno područje uručuju se primatelju na način propisan odredbama ovog pravilnika za uručenje običnih pismovnih pošiljaka na tom dostavonom području, a za žurne i vrlo žurne pakete dostavlja se primatelju izvješće o prispjeću pošiljke.
+3. Predaja poštanskih pošiljaka

@@ -1,0 +1,9 @@
+## Pakiranje tiskanica i zatvaranje vreća koje sadrže tisak i časopise
+# Članak 61.
+1) Tiskanica koja sadrži jedan ili više primjeraka tiska ili časopisa mora biti upakirana u ovitak ili povezana pasicom dovoljne čvrstoće, na kojoj je označena adresa primatelja. Za zatvaranje tih pošiljaka može se upotrijebiti i plastični ovitak.
+(2) Tiskanica koja sadrži dva ili više pojedinačno adresiranih primjeraka tiska i časopisa za isti poštanski ured mora biti pakirana u svežanj, a svežanj stavljen u ovitak. Na ovitku ili na adresnici mora biti naznačen poštanski broj i velikim slovima naziv poštanskog ureda.
+(3) Ako tiskanica sadrži dva ili više primjeraka tiska i časopisa adresiranih na pretplatnike u pojedinim poduzećima, ustanovama ili državnim tijelima i sl. ti primjerci moraju biti pakirani u poseban svežanj, a sveianj adresiran na dotično poduzeće, ustanovu ili državno tijelo i sl.
+(4) Na ovitku svežnja tiskanica, koji sadrži neadresirane primjerke tiska i časopisa za prodavače ili povjerenike, moraju biti velikim tiskanim slovima označeni nakladnik, adresa primatelja, poštanski broj i naziv odredišnog poštanskog ureda.
+(5) Svežnjevi tiskanica iz stavka 2. i 3. ovog članka moraju se povezati u zajednički svežanj na kojem se ispisuje poštanski broj i velikim slovima odredišni poštanski ured.
+(6) Ako pošiljatelj šalje više od dva svežnja za isti poštanski ured, svežnjeve mora staviti u vreću, koju sam nabavlja. Vreća mora biti zatvorena i mora imati nazivnicu s oznakom poštanskog broja, nazivom odredišnog poštanskog ureda, nazivom nakladnika i datumom predaje.
+(7) Svežnjevi ili vreće koje glase za poštansko središte ili putujuću poštu, moraju se pripremiti za otpremu na način utvrden u stavku 5. i 6. ovog članka. U te svežnjeve ili vreće stavljaju se primjerci tiska i časopisa i svežnjevi za odredišne poštanske urede za koje nisu pripremljene za otpremu sukladno stavku 6. ovog članka.
