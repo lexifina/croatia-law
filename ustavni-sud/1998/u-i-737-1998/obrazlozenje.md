@@ -1,0 +1,9 @@
+Obrazloženje
+Udruženje umirovljenika "Trnje" iz Zagreba podnijelo je prijedlog za ocjenu ustavnosti odredbe Zakona označene u izreci.
+Osporenom odredbom propisano je da na dan početka primjene ovoga Zakona prestaje važiti Zakon o usklađivanju mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja, te upravljanju fondovima mirovinskog i invalidskog osiguranja ("Narodne novine", broj 20/97 i 69/98 - u nastavku: Zakon o usklađivanju).
+Predlagatelj smatra da su osporenom odredbom povrijeđene temeljne odredbe Ustava Republike Hrvatske iz članka 1., 3. i 5., kao i temeljne slobode i prava čovjeka i građanina iz članka 14. Ustava Republike Hrvatske. Razloge za ovakovo shvaćanje nalazi u tome što je Ustavni sud Republike Hrvatske svojom odlukom broj: U-I-283/1997 od 12. svibnja 1998. (u nastavku: Odluka), ukinuo određene odredbe Zakona o usklađivanju. Zaključuju da osporena odredba propisuje da Zakon o usklađivanju, pa tako i odredbe ukinute navedenom Odlukom Ustavnog suda, prestaju važiti tek 1. siječnja 1999.
+Prijedlog nije osnovan.
+Odlukom Ustavnog suda ukinute su odredbe članka 1., 2., 3, 4. i 6. Zakona o usklađivanju, koje su prestale važiti danom objave Odluke u "Narodnim novinama" 14. svibnja 1998. U ostalom dijelu, koji se odnosi na odredbe članka 5. i dijelom članka 7., Zakon o usklađivanju je ostao na snazi.
+Stoga nema osnove za sumnju u ustavnost osporene odredbe kojom Zakon o usklađivanju, u dijelu u kojem je i dalje na snazi, prestaje važiti na dan početka primjene Zakona o mirovinskom osiguranju.
+Iz navedenih razloga Sud nije prihvatio prijedlog za pokretanje postupka za ocjenu ustavnosti osporene zakonske odredbe, pa je temeljem odredbe članka 45. stavka 1. Poslovnika Ustavnog suda Republike Hrvatske ("Narodne novine", broj 29/94) riješeno kao u izreci.
+Odluka o objavi ovog rješenja temelji se na odredbi članka 20. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 13/91).
