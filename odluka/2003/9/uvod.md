@@ -1,0 +1,1 @@
+Na osnovi odredbi članaka 30. - 44. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00 , 59/01, 107/01, 117/01) i članka 25. Statuta Grada Crikvenice (»Službene novine« Primorsko-goranske županije broj 26/01), Gradsko vijeće Grada Crikvenice, na 17. sjednici održanoj 16. prosinca 2002. godine, donijelo je
