@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 3. Zakona o mjernim jedinicama i mjerllima ("Službeni list SFRJ" broj 9/84, 59/86 i 20/89), koji je preuzet Zakonom o preuzimanju Zakona o mjernim jedinicama i mjerilima, koji se u Republici Hrvatskoj primjenjuje kao republički zakon ("Narodne novine", broj 53/91), Vlada Republike Hrvatske na sjednici održanoj 4, kolovoza 1992, godine, donijela je
