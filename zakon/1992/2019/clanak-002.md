@@ -1,0 +1,12 @@
+# Članak 2.
+(1) Građenjem, u smislu ovoga Zakoaa smatra se izvođenje pripremnih radova, građevinskih radova (uključujući građevinsko-završne i građevinsko-instalaterske radove) te ugradnja i montaža opreme, gotovih građevinskih elemenata i konstrukcija.
+(2) Građevinom, u smislu ovoga Zakona, smatra se građevinski objekt na određenoj lokaciji koji se sastoji od građevinskog dijela i ugrađene opreme koji zajedno čine tehničko-tehnološku cjelinu.
+(3) Privremenom građevinom u smislu ovoga Zakona, smatra se građevinski objet izgraden ili postavljen privremeno na određenoj lokaciji za potrebe gradilišta, za primjenu odgovarajuće tehnologije građenja, kao i za organiziranje sajmova, javnih manifestacija i sl.
+(4) Građevinskim dijelom iz stavka 2. ovoga članka, u smislu ovoga Zakona, smatra se dio građevine izgrađen od građevinskih materijala i proizvoda s građevinskim instalacijama i građevinsko-završnim radovima.
+(5) Opremom u smislu ovoga Zakona, smatraju se ugrađena postrojenja, uređaji, strojevi, procesne instalacije i drugi ugrađeni proizvodi koji su u sklopu tehnološkog procesa.
+(6) Pripremnim radovima, u smislu ovoga Zakona, smatra se izvođenje radova i građenje pomoćnih građevina privremenog karaktera koji se izvode za potrebe organiziranja gradilišta i primjene odgovarajuće tehnologije građenja.
+(7) Rekonstrukcijom, u smislu ovoga Zakona, smatra se izvođenje radova na postojećoj građevini (adaptacija, nadogradnja, dogradnja, sanacija, izmjena opreme, izmjena tehnološkog procesa, modernizacija i sl.) ako se tim radovima utječe na tehnička svojstva građevine iz poglavlja II. ovoga Zakona ili ako se tim radovima mijenjaju uvjeti utvrđeni na toj lokaciji temeljem posebnih zakona.
+(8) Ne smatraju se rekonstrukcijom, u smislu ovoga Zakona, radovi na zamjeni, dopuni i popuni opreme ako je to u skladu s namjenom građevine kao i radovi koji su posebnim zakonom utvrđeni kao radovi na održavanju građevine.
+(9) Održavanjem građevine, u smislu ovoga Zakona, smatra se pračenje stanja građevine i poduzimanje mjera nužnih za sigurnost i pouzdanost građevine te život i zdravlje ljudi.
+(10) Uklanjanjem građevine, u smislu ovoga Zakona, smatra se rušenje ili demontaža građevine i odvoženje preostalog materijala, opreme i drugih elemenata.
+(11) Građevinski proizvodi, u smislu ovoga Zakona, smatraju se proizvedeni građevinski materijali prefabrikati, elementi i industrijski proizvedene konstrukcije.
