@@ -1,0 +1,2 @@
+# Članak 16.
+Stupanjem na snagu ovog pravilnika prestaje važiti Pravilnik o odabiru i pripremanju odgajatelja, učitelja i profesora iz Republike Hrvatske za odgojno-obrazovni rad s našom djecom u inozemstvu (»Narodne novine«, broj 22/91) i Pravilnik o utvrđivanju kriterija i mjerila za plaće i novčane naknade odgojno-obrazovnih djelatnika za rad s našom djecom u inozemstvu (»Narodne novine«, broj 69/91).
