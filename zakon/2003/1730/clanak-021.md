@@ -1,0 +1,5 @@
+# Članak 21.
+(1) Ne smatra se koncentracijom kada banke ili druge financijske institucije, investicijski fondovi ili društva za osiguranje, u svojem redovnom poslovanju, koje uključuje promet i posredovanje vrijednosnim papirima, za vlastiti račun ili račun trećih, privremeno drže udjele s namjerom njihove daljnje prodaje, ako ne koriste pravo glasa s obzirom na te udjele na takav način da to utječe na konkurentno ponašanje tog poduzetnika, odnosno ako ostvaruju pravo glasa samo u svrhu pripreme prodaje cijelog ili dijela poduzetnika ili njegovih udjela, odnosno prodaju njegovih dionica, te ako istodobno ispunjavaju sljedeće uvjete:
+1. da ni na koji način ne poduzimaju mjere kojima se narušava, ograničava ili sprječava tržišno natjecanje,
+2. da rečene prodaje obave u roku od jedne godine, od stjecanja opisanih u stavku 1. ovoga članka.
+(2) Agencija može, na zahtjev, izuzetno odobriti produženje roka iz stavka 1. točke 2. ovoga članka, ako poduzetnici iz stavka 1. ovoga članka dokažu da transakcija nije moguća u utvrđenom roku.

@@ -1,0 +1,11 @@
+## Obveza prijave namjere koncentracije
+# Članak 22.
+(1) Namjeravanu koncentraciju poduzetnika, iz članka 19. stavka 1. i stavka 2. ovoga Zakona, sudionici koncentracije obvezni su prijaviti Agenciji kada su ispunjeni uvjeti iz stavka 4. ovoga članka.
+(2) Prijava namjere koncentracije, u obliku propisanom člankom 45. ovoga Zakona, podnosi se Agenciji na ocjenu bez odgode, a najkasnije u roku od osam dana od dana objave javne ponude ili dana sklapanja ugovora kojima se ostvaruje kontrola ili prevladavajući utjecaj nad poduzetnikom, ovisno o tome što nastupi ranije.
+(3) Prijavom namjeravane koncentracije nastupa zabrana provedbe koncentracije za sve sudionike koncentracije, do donošenja konačnog rješenja Agencije kojim se koncentracija dopušta, odnosno do isteka rokova iz članka 26. stavka 1. i stavka 3., te članka 56. stavka 5. ovoga Zakona.
+(4) Koncentraciju su sudionici obvezni prijaviti Agenciji, ako su istodobno ispunjeni sljedeći uvjeti:
+1. da ukupan prihod svih poduzetnika sudionika koncentracije, ostvaren prodajom robe i/ili usluga na svjetskom tržištu, iznosi najmanje jednu milijardu kuna, u financijskoj godini koja je prethodila koncentraciji, i
+2. da ukupan prihod svakog od najmanje dva sudionika koncentracije, ostvaren prodajom robe i/ili usluga u Republici Hrvatskoj, iznosi najmanje 100.000.000,00 kuna, u financijskoj godini koja je prethodila koncentraciji.
+(5) Ukupni prihod iz stavka 4. ovoga članka utvrđuje se uzimajući u obzir prihode svih povezanih društava poduzetnika koji stječe prevladavajući utjecaj ili kontrolu (na razini koncerna), osim prihoda ostvarenog prodajom robe i usluga, između društava unutar koncerna.
+(6) U slučaju kad se koncentracija iz članka 19. stavka 1. ovoga Zakona odnosi na pripajanje ili spajanje dijela ili dijelova jednog ili više poduzetnika, neovisno o tome imaju li ti dijelovi pravnu osobnost, pri izračunu prihoda, u smislu stavka 4. ovoga članka, na strani prodavatelja bit će obračunat samo prihod onih dijelova koji su predmet koncentracije.
+(7) Dvije ili više transakcija u smislu stavka 6. ovoga članka koje su provedene u razdoblju od dvije godine, smatrat će se jednom koncentracijom, izvršenom na dan posljednje transakcije.
