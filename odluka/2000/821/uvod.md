@@ -1,0 +1,1 @@
+Na osnovi članka 46. Zakona o doplatku za djecu (»Narodne novine«, br. 44/77., 52/85., 8/90., 40/90. i 26/93.), članka 82. i članka 19. točke 1. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 163/98.), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 28. ožujka 2000., donosi
