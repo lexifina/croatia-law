@@ -1,0 +1,2 @@
+# Članak 2.
+Za izdavanje potvrde o sukladnosti za upotrebljavane gume iz uvoza u smislu odredaba Pravilnika o obveznom potvrđivanju sukladnosti upotrebljavanih guma iz uvoza za motorna i priključna cestovna vozila i o uvjetima za ovlašćivanje pravnih osoba za obavljanje ispitivanja u postupku navedenog potvrđivanja (»Narodne novine« br. 53/97) utvrđuje se naknada u iznosu od 3,5 kn po komadu gume.
