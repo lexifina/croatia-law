@@ -1,0 +1,2 @@
+# Članak 194.
+Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj ravnatelj zdravstvene ustanove ako u izvanrednim okolnostima kada je ugrožen proces pružanja zdravstvene zaštite ili postoji neposredna opasnost po život i zdravlje osoba bez odgađanja o tim okolnostima ne obavijesti ministarstvo nadležno za zdravstvo i Hrvatski zavod za javno zdravstvo (članak 59. stavak 2.).

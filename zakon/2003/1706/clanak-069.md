@@ -1,0 +1,7 @@
+# Članak 69.
+Dom zdravlja u svom sastavu mora imati obiteljsku (opću) medicinu, stomatološku zdravstvenu zaštitu, zdravstvenu zaštitu žena, dojenčadi i predškolske djece i starijih osoba, zaštitu mentalnog zdravlja i patronažnu zdravstvenu zaštitu.
+Dom zdravlja na svom području mora osigurati i hitnu medicinsku pomoć, medicinu rada, zdravstvenu njegu, palijativnu skrb bolesnika, laboratorijsku, radiološku i drugu dijagnostiku, ako obavljanje tih djelatnosti nije drukčije organizirano.
+Dom zdravlja može organizirati radne jedinice za obavljanje djelatnosti iz stavka 1. i 2. ovoga članka, u skladu s osnovnom mrežom zdrastvene djelatnosti.
+Dom zdravlja može organizirati, u skladu s osnovnom mrežom zdravstvene djelatnosti, radne jedinice za obavljanje pojedinih specijalističkih djelatnosti, ako to zahtijevaju posebne potrebe s obzirom na zdravstveno stanje stanovništva i kada bi pružanje zdravstvene zaštite u poliklinici ili bolnici otežavalo provođenje te zaštite.
+Ako se u domu zdravlja obavlja specijalistička djelatnost, onda je ona pod stručnim nadzorom bolnice koju određuje ministar nadležan za zdravstvo.
+Iznimno od odredbe stavka 1. ovoga članka, na područjima sa specifičnim potrebama pružanja zdravstvene zaštite stanovništvu, u skladu sa osnovnom mrežom zdravstvene djelatnosti u domu zdravlja mogu se organizirati i rodilište te stacionar za dijagnostiku i liječenje akutnih bolesnika.

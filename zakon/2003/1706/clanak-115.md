@@ -1,0 +1,2 @@
+# Članak 115.
+Zahtjevu za ocjenu sukladnosti ugovora, odnosno izjave o osnivanju trgovačkog društva za obavljanje zdravstvene djelatnosti u osnovnoj mreži zdravstvene djelatnosti osnivači su obvezni priložiti mišljenje Zavoda i nadležne komore o opravdanosti osnivanja, a za osnivanje društva za obavljanje zdravstvene djelatnosti izvan osnovne mreže zdravstvene djelatnosti mišljenje nadležne komore o opravdanosti osnivanja.

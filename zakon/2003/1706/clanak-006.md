@@ -1,0 +1,2 @@
+# Članak 6.
+Plan zdravstvene zaštite Republike Hrvatske (u daljnjem tekstu: Plan zdravstvene zaštite), na temelju analize stanja zdravlja stanovništva i zdravstvenih potreba stanovništva te osiguravajući svrsishodnu podjelu rada, a uvažavajući raspoloživa sredstva te kadrovske i druge mogućnosti, donosi Vlada Republike Hrvatske na prijedlog ministra nadležnog za zdravstvo, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za javno zdravstvo.

@@ -1,0 +1,10 @@
+# Članak 9.
+Jedinica područne (regionalne) samouprave ostvaruje svoja prava, obveze, zadaće i ciljeve na području zdravstvene zaštite tako da osigurava sredstva za:
+- provođenje epidemiološke, zdravstveno-statističke, socijalno-medicinske i zdravstveno-ekološke djelatnosti te promicanje zdravlja i prevenciju bolesti na svom području,
+- provođenje mjera zdravstvene ekologije i to: ispitivanje namirnica i predmeta opće uporabe, ispitivanje vode za piće, ispitivanje štetnih utjecaja onečišćenja zraka na zdravlje ljudi, ispitivanje komunalne buke i ispitivanje onečišćenja tla, te voda namijenjenih kupanju i rekreaciji, od interesa za jedinicu područne (regionalne) samouprave, sukladno programu mjera iz članka 5. stavka 3. ovoga Zakona,
+- hitnu medicinsku pomoć na svojem području, ako to ne osigurava Republika Hrvatska,
+- organizaciju i rad mrtvozorničke službe.
+Županije i gradovi osiguravaju sredstva za investicijsko ulaganje i investicijsko i tekuće održavanje zdravstvenih ustanova - prostora, medicinske i nemedicinske opreme i prijevoznih sredstava te informatizaciju zdravstvene djelatnosti, sukladno planu i programu mjera zdravstvene zaštite i osnovnoj mreži zdravstvene djelatnosti.
+Odluku o mjerilima za osiguranje elemenata standarda za investicijsko ulaganje i investicijsko i tekuće održavanje te informatizaciju zdravstvene djelatnosti iz stavka 2. ovoga članka, koja će biti temelj za planiranje potpora iz državnog proračuna, jednom godišnje donosi Vlada Republike Hrvatske.
+Jedinica područne (regionalne) samouprave i jedinica lokalne samouprave može osigurati sredstva za zdravstvenu zaštitu stanovnika na svom području iznad standarda utvrđenih osnovnim zdravstvenim osiguranjem.
+Ugovorom između jedinice područne (regionalne) samouprave, odnosno jedinice lokalne samouprave, turističke zajednice i zdravstvene ustanove, odnosno trgovačkog društva koje obavlja zdravstvenu djelatnost uređuje se organiziranje i financiranje provođenja mjera zdravstvene zaštite za povećani broj korisnika zdravstvene zaštite za vrijeme turističke sezone.

@@ -1,0 +1,2 @@
+# Članak 211.
+Zdravstveni radnici kojima je priznata odgovarajuća stručna sprema, odnosno koji su stručno obrazovanje stekli u odgovarajućim školama zdravstvenog obrazovanja, mogu i dalje obavljati poslove zdravstvene zaštite za koje se traži stručna sprema koju su stekli po propisima koji su važili do dana stupanja na snagu Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju (»Narodne novine«, br. 12/91. - pročišćeni tekst, 19/91., 53A/91., 18/92. i 69/92.).

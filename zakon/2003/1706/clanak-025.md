@@ -1,0 +1,31 @@
+# Članak 25.
+Zdravstvena zaštita na primarnoj razini obuhvaća:
+- praćenje zdravstvenog stanja stanovnika i predlaganje mjera za zaštitu i unapređenje zdravlja stanovnika,
+- sprječavanje i otkrivanje bolesti kao i liječenje i rehabilitaciju bolesnika,
+- specifičnu preventivnu zdravstvenu zaštitu djece i mladeži, osobito u osnovnim i srednjim školama te visokim učilištima na svom području,
+- zdravstvenu zaštitu žena,
+- preventivnu zdravstvenu zaštitu rizičnih skupina i ostalih stanovnika u skladu s programima preventivne zdravstvene zaštite,
+- savjetovanje, zdravstveno prosvjećivanje i promicanje zdravlja radi njegovog očuvanja i unapređenja,
+- higijensko-epidemiološku zaštitu,
+- sprječavanje, otkrivanje i liječenje bolesti zubi i usta s rehabilitacijom,
+- zdravstvenu rehabilitaciju djece i mladeži s poremećajima u tjelesnom i duševnom razvoju,
+- patronažne posjete, zdravstvenu njegu i liječenje u kući,
+- medicinu rada,
+- hitnu medicinsku pomoć te
+- palijativnu skrb te
+- zaštitu mentalnoga zdravlja.
+Zdravstvena zaštita na primarnoj razini pruža se kroz djelatnosti:
+- opće/obiteljske medicine,
+- zdravstvene zaštite predškolske djece,
+- preventivno-odgojnih mjera za zdravstvenu zaštitu školske djece i studenata,
+- zdravstvene zaštite žena,
+- stomatološke zdravstvene zaštite,
+- higijensko-epidemiološke zdravstvene zaštite,
+- medicine rada,
+- zdravstvene zaštite mentalnoga zdravlja,
+- patronažne zdravstvene zaštite,
+- njege u kući bolesnika,
+- hitne medicinske pomoći,
+- palijativne skrbi,
+- ljekarništva te
+- laboratorijske dijagnostike.
