@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), članka 54. Zakona o ustanovama (»Narodne novine«, broj 76/93) i članka 13. Statuta Centra za regionalne aktivnosti Programa prioritetnih akcija Mediteranskog akcionog plana u Splita, Vlada Republike Hrvatske je na sjednici održanoj 25. svibnja 2000. godine, donijela
