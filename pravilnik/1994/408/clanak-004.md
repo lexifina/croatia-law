@@ -1,0 +1,2 @@
+# Članak 4.
+Osobe iz članka 2. ovog pravilnika pohađaju tečaj po osnovnom programu prije početka rada, a po proširenom programu tijekom obavljanja određenih poslova odnosno djelatnosti s namirnicama. Pohađanje tečaja po proširenom programu dužno je osigurati poduzeće ili druga pravna odnosno fizička osoba, na način da svake četvrte godine od posljednje provjere znanja upućuje djelatnike na tečajeve po proširenom programu a u svrtlu unapređenja sanitarno-higijenskih uvjeta rada u proizvodnji i prometu namirnica.
