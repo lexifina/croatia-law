@@ -1,0 +1,10 @@
+# Članak 8.
+IZUZEĆE OD CARINA I DAVANJA
+1. Svaka ugovorna stranka će, najviše što je moguće po svojim nacionalnim zakonima i na osnovama uzajamnosti, izuzeti određenog prijevoznika ili prijevoznike druge ugovorne stranke od uvoznih ograničenja, carinskih davanja, trošarina, inspekcijskih naknada i ostalih nacionalnih davanja i naknada na zrakoplov, gorivo, maziva, potrošni tehnički materijal, rezervne dijelove uključujući motore, standardnu opremu zrakoplova, zalihe zrakoplova (uključujući hranu, napitke, duhan i druge proizvode namijenjene prodaji putnicima u ograničenim količinama za vrijeme leta) i na druge predmete namijenjene za upotrebu ili upotrebljenu isključivo u svezi s iskorištavanjem i opsluživanjem zrakoplova tog zračnog prijevoznika kao i tiskane zalihe karata, tovarnih listova i svakog tiskanog materijala koji nosi na sebi tiskane oznake tvrtke i uobičajeni opći materijali koji se bez naplate raspodjeljuju od zračnog prijevoznika.
+2. Izuzeća dana ovim člankom primjenjivat će se na predmete navedene u stavku 1. ovog članka:
+a) unesene na teritorij jedne ugovorne stranke od ili u ime određenog prijevoznika druge ugovorne stranke;
+b) zadržane na zrakoplovu određenog prijevoznika jedne ugovorne stranke dolazećem ili odlazećem sa teritorija druge ugovorne stranke; i
+c) uzete na zrakoplov određenog prijevoznika jedne ugovorne stranke na teritoriju druge ugovorne stranke, s namjerom njihove upotrebe u ugovorenom prometu;
+neovisno o tome da li su upotrijebljeni ili potrošeni u cijelosti unutar teritorija ugovorne stranke koja je dala izuzeća, uz uvjet da ti predmeti nisu otuđeni na teritoriju te ugovorne stranke.
+Predmeti na koje se odnose točke a), b) i c), mogu biti predloženi carinskom nadzoru i kontroli.
+3. Standardna oprema zrakoplova kao i materijali i zalihe zadržane na zrakoplovu određenih prijevoznika bilo koje ugovorne stranke mogu biti istovareni na teritoriju druge ugovorne stranke samo uz odobrenje carinskih organa na tom području. U tom slučaju oni mogu biti stavljeni pod nadzor rečenih organa do vremena kada se izvezu ili se s njima drugačije postupi u skladu s carinskim propisima.

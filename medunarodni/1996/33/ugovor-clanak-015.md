@@ -1,0 +1,5 @@
+# Članak 15.
+KOMERCIJALNE AKTIVNOSTI
+1. Svaka ugovorna stranka će, na osnovama uzajamnosti, dati svakom određenom prijevozniku druge ugovorne stranke pravo održavanja na svojem teritoriju takvih ureda, te administrativnog, komercijalnog i tehničkog osoblja koje je potrebno tom zračnom prijevozniku.
+2. Uspostava ureda i zapošljavanje osoblja navedenog u stavku 1. bit će podložno zakonima i propisima odnosne ugovorne stranke, kao zakonski propisi koji se odnose na prijam stranaca i njihovog ostanka na teritoriju odnosne ugovorne stranke. Od osoblja zaposlenog u uredima, u skladu sa stavkom 1. ovog članka, neće biti zahtijevane radne dozvole.
+3. Svaka ugovorna stranka daje svakom zračnom prijevozniku određenom od druge ugovorne stranke pravo prodaje prijevoznih usluga na njihovim vlastitim prijevoznim dokumentima, direktno u njihovim vlastitim prodajnim uredima i putem zastupnika na tom teritoriju druge ugovorne stranke, bilo kojem kupcu, u lokalnoj ili bilo kojoj drugoj konvertibilnoj valuti.

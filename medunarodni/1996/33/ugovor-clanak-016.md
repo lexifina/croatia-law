@@ -1,0 +1,4 @@
+# Članak 16.
+RAZMJENA INFORMACIJA I STATISTIKE
+1. Određeni prijevoznici obavijestit će zrakoplovne vlasti ugovornih stranaka, najkasnije jedan mjesec prije započinjanja zračnog prometa na linijama utvrđenim u skladu s člankom 2. stavkom 2. ovog Sporazuma, o vrsti usluga, tipovima zrakoplova koji će se koristiti i redovima letenja. Isto će se primjenjivati i za kasnije izmjene.
+2. Zrakoplovne vlasti svake ugovorne stranke dostavit će zrakoplovnim vlastima druge ugovorne stranke, na njihov zahtjev, takve periodične ili ostale statističke podatke svakog određenog prijevoznika koji se uobičajeno traže u svrhu praćenja kapaciteta pruženog od strane svakog određenog prijevoznika prve ugovorne stranke na linijama utvrđenim u skladu s člankom 2. stavkom 2. ovog Sporazuma. Takvi podaci sadržavat će sve informacije potrebne za utvrđivanje obima izvršenog prometa, te mjesta polaska i destinacije tih letova.
