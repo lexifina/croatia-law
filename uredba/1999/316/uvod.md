@@ -1,0 +1,1 @@
+Na temelju članka 4. i članka 5. stavka 3. Zakona o plaćama službenika i namještenika u javnim službama ("Narodne novine", broj 74/94), Vlada Republike Hrvatske je na sjednici održanoj 4. veljače 1999. godine, donijela
