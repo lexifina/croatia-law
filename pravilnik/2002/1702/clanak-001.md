@@ -1,0 +1,3 @@
+# Članak 1.
+Područje graničnog prijelaza za pogranični promet Vukovar - Vajska obuhvaća prostor uz rijeku Dunav u Dunavskoj ulici u Vukovaru na 1333,5 riječnom kilometru rijeke Dunav (pravac istok-zapad), dužine 100 metara i širine 20 metara od rijeke Dunav prema unutrašnjosti. Navedeno područje nalazi se na katastarskoj čestici 7153 k.o. Vukovar. Područje graničnog prijelaza obuhvaća kontejner koji koriste djelatnici policije i carine te spust prema rijeci Dunav širine 10 metara i dužine 16 metara koji se koristi za pristanak plovila.
+Ukupna površina područja graničnog prijelaza iznosi 2000 m2.
