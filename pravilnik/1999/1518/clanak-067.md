@@ -1,0 +1,4 @@
+# Članak 67.
+Hotel "Odisej" dužan je osigurati uvjete propisane člankom 66. stavkom 3. ovoga Pravilnika na dijelu obale ispred hotela, koja je uređena kao privezište plovila, te osigurati pružanje odgovarajućih usluga za velike i male brodove na privezištu (jedrenjaci, jahte, gliseri i dr.), a posebno pružiti usluge na privezištu u svezi osiguranja plovilima struje i vode, uporabe sanitarnog čvora i tuše kabine.
+Hotel "Odisej" i Ustanova dužni su sklopiti ugovor kojim će odrediti međusobne odnose u svezi pružanja odgovarajućih usluga plovilima privezanim na privezištu ispred hotela "Odisej".
+Radi sprječavanja mogućih većih onečišćenja mora i podmorja u luci Pomena brodovi koji su namijenjeni krstarenju s većim brojem putnika mogu biti na vezu ispred hotela do 22 sata, a nakon toga vremena dužni su napustiti vez i otploviti do određenog sidrišta.
