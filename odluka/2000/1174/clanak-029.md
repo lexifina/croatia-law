@@ -1,0 +1,4 @@
+# Članak 29.
+Za djelatnost hitne medicinske pomoći, cijena se utvrđuje prema vrijednosti standardnog tima za hitnu medicinsku pomoć, sanitetski prijevoz, prijavno dojavnu jedinicu, dežurstvo i pripravnost.
+Za organizirano posebno dežurstvo u domu zdravlja sukladno Odluci o utvrđivanju mreže dežurstva u domovima zdravlja koji ne ugovaraju djelatnost hitne medicinske pomoći u obliku dežurstva, pripravnosti, odnosno jedinice ili ustanove hitne medicinske pomoći, za djelatnost opće medicine i zdravstvene zaštite predškolske djece, subotom nakon redovnog radnog vremena na osnovi preraspodjele radnog vremena, nedjeljom i praznikom, cijena se utvrđuje prema vrijednosti dežurstva po punktu iz članka 25. u tablici 1. I. Primarna razina zdravstvene zaštite pod rednim brojem 9.10 ove Odluke.
+Za izvršene usluge prijevoza u hitnoj medicinskoj pomoći i sanitetskim prijevozom, cijena se utvrđuje po prijeđenom kilometru, prema priloženim radnim, odnosno putnim nalozima.

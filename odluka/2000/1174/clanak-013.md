@@ -1,0 +1,4 @@
+# Članak 13.
+Broj osiguranih osoba po timu, za koji se sklapa ugovor o provođenju primarne zdravstvene zaštite, utvrđen je standardom sukladno Pravilniku (u daljnjem tekstu: Standard).
+Iznimno od odredbe stavke 1. ovog članka, doktori medicine i doktori stomatologije u zdravstvenim ustanovama, odnosno privatni zdravstveni djelatnici prigodom sklapanja ugovora sa Zavodom obvezni su osigurati minimum, odnosno ne mogu imati više od maksimalnog propisanog broja osiguranih osoba po timu za djelatnosti kako slijede:
+_________________________________________________________________ Zdravstvena Minimalni broj Maksimalni broj djelatnost osiguranih osoba osiguranih osoba _________________________________________________________________ 1. Opća medicina 500 2500 2. Zdrav. zaštita predškolske djece 300 1500 3. Zdravstvena zaštita žena 2500 9000 4. Polival. stomat. zdravstv. zaštita 800 3700 _________________________________________________________________

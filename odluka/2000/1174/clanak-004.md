@@ -1,0 +1,4 @@
+# Članak 4.
+Za provođenje primarne zdravstvene zaštite od 1. travnja 2000. godine Zavod je osnovom odredaba Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za razdoblje od 1. siječnja do 31. ožujka 2000. godine (»Narodne novine« broj 12/00), proveo postupak propisan člankom 41. Zakona o zdravstvenoj zaštiti (»Narodne novine« broj 1/97 - pročišćeni tekst).
+Sukladno odredbama članka 66., a osnovom odredaba članka 65. Zakona o zdravstvenom osiguranju i odredaba Pravilnika i ove Odluke, Zavod raspisuje natječaj za sklapanje ugovora o provođenju specijalističko-konzilijarne i bolničke zdravstvene zaštite od 1. travnja 2000. godine.
+Zavod donosi odluku o odabiru ponuđača iz stavke 1. i 2. ovog članka osnovom odredaba članka 41. stavke 2. Zakona o zdravstvenoj zaštiti, Pravilnika i ove Odluke.

@@ -1,0 +1,2 @@
+# Članak 22.
+Za provođenje specijalističko-konzilijarne zdravstvene zaštite, Zavod sklapa ugovore s poliklinikama u vlasništvu države, županije, odnosno Grada Zagreba, bolnicama, državnim zdravstvenim zavodima, županijskim zavodima za javno zdravstvo, Zavodom za javno zdravstvo grada Zagreba, te iznimno s domovima zdravlja, privatnim zdravstvenim djelatnicima - specijalistima u zakupu u domu zdravlja i do sada ugovorenim privatnim zdravstvenim djelatnicima - specijalistima.
