@@ -1,0 +1,1 @@
+Na osnovi točke III. Odluke o obvezi dostavljanja izvješća o stanju potraživanja iz inozemstva i stanju dugovanja po određenim osnovama ("Narodne novine", br. 73/92). guverner Narodne banhe Hrvatske donosi
