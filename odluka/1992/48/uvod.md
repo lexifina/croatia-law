@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine., broj 36/91), a povodom prijedloga Paota Mennea, Via Contufo bb, Earletta, Italia, Vlada Republike Hrvatske je na sjednici održanoj 21. siječnja 1992. godine donijela
