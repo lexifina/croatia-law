@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o sudovima (»Narodne novine«, br. 3/94., 100/96. i 131/97.) članak 1. mijenja se i glasi:
+"Ovim se Zakonom uređuje ustrojstvo, djelokrug i nadležnost sudova, unutarnje ustrojstvo sudova, uvjeti za imenovanje i razrješenje sudaca, sudaca porotnika i predsjednika sudova, njihova prava i dužnosti, posebne odredbe o Vrhovnom sudu Republike Hrvatske, zaštita osoba i imovine pravosudnih tijela, uvjeti i postupak za imenovanje sudskih tumača, vještaka i procjenitelja, sudska i pravosudna uprava, uvjeti za prijam službenika i namještenika, čuvanje službene tajne, i osiguranje sredstava za rad sudova."
