@@ -1,0 +1,3 @@
+# Članak 2.
+Iza članka 61. dodaje se novi članak 61a. koji glasi:
+"Članak 61 a. Ovlaštena organizacija kod koje se vode novčana sredstva pravne ili fizičke osobe izvršava rješenje inspektora Financijske policije kojim je toj osobi naloženo plaćanje javnih prihoda. Novčanom kaznom od 1.000 do 10.000 DEM u protuvrijednosti domače valute prema srednjem tečaju Narodne banke Hrvatske na dan plaćanja kazne, kaznit će se za privredni prijestup ovlaštena organizacija ako ne izvrši rješenje iz stavka 1. ovog članka. Novčanom kaznom od 100 do 500 DEM u protuvrijednosti domaće valute prema srednjem tečaju Narodne banke Hrvatske na dan plaćanja kazne, kaznit će se za privredni prijestup i odgovorna osoba u ovlaštenoj organizaciji ako ne izvrši rješenje iz stavka 1. ovog članka"
