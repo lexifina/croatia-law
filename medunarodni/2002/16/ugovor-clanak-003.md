@@ -1,0 +1,2 @@
+# Članak 3.
+Kako bi poboljšale učinkovitost suradnje, ugovorne stranke će održavati sastanke stručnjaka u okviru svoje nadležnosti, kada su obje suglasne da je nužno žurna i posebna pitanja, kao što su masovni tijek nezakonitih migranata, sustavno krijumčarenje opojnih droga, oružja te drugi oblici organiziranog kriminala. Kako bi se postigao cilj spomenut u članku 1., ugovorne stranke također će proširiti međusobnu podršku i suradnju na temelju zahtjeva u svezi istrage i suđenja na sudu.
