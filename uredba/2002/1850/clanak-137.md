@@ -1,0 +1,3 @@
+# Članak 137.
+Odjel nadzora i revizije obavlja tehničko-financijske poslove kontrole i nadzora tehničke dokumentacije, kvalitete i kvantitete izvedbe radova, rokova izvedbe radova, primjene tehničkih i drugih propisa koji uređuju gradnju, kao što su poslovi kontrole projektno-tehničke dokumentacije, izvedbe radova, postupak izrade i ovjere obračunske dokumentacije, sudjeluje u izradi akata tehničke i obračunske dokumentacije te kontroli i obustavi isplata, kontrolira natječajnu dokumentaciju, analizira ponude i predlaže najpovoljnijeg ponuditelja kao tehničkog nositelja, te daje stručna mišljenja na upite i predstavke stranaka i drugih subjekata koji se mogu pojaviti u tijeku natječajne dokumentacije ili izvedbe radova.
+5. Odjel za vojnu kartografiju

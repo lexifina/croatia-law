@@ -1,0 +1,6 @@
+# Članak 122.
+Odjel opskrbnih sredstava obavlja upravne i stručne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja, modernizacije, održavanja i opskrbe sredstvima opskrbne struke, te obavljanje usluga iz nadležnosti opskrbne struke. Odjel usklađuje prijedloge planova opremanja, planira i provodi opremanje Ministarstva i Oružanih snaga u skladu s usvojenim planovima opremanja, organizira istraživanje, razvoj i usvajanje materijalnih sredstava iz svoje nadležnosti, nositelj je programa opremanja za sredstva iz svoje nadležnosti kojima se opremaju Oružane snage, prati razvojne i proizvodne mogućnosti domaćeg i inozemnoga gospodarstva za potrebe obrane i predlaže angažiranje istih, propisuje upute za rukovanje i održavanje i izdaje imenike za novouvedena sredstva, utvrđuje kriterije za određivanje veličine i strukture pričuve materijalnih sredstava iz svoje nadležnosti, te prati rad i po potrebi obavlja upravni nadzor funkcija logistike i pravilnosti utroška sredstava u Oružanim snagama.
+Za obavljanje poslova u Odjelu opskrbnih sredstava ustrojavaju se sljedeći odsjeci:
+5.1. Odsjek odjeće, obuće i opskrbne opreme,
+5.2. Odsjek prehrane, energenata i potrošnih sredstava.
+5.1. Odsjek odjeće, obuće i opskrbne opreme

@@ -1,0 +1,3 @@
+# Članak 7.
+Odjel za koordinaciju objedinjava rad ustrojstvenih jedinica kojima neposredno upravlja tajnik Ministarstva, obavlja poslove koordiniranja rada Ministarstva s Vladom Republike Hrvatske, drugim ministarstvima i državnim upravnim organizacijama, Glavnim stožerom, Kabinetom ministra, te drugim posebnim ustrojstvenim jedinicama i upravnim organizacijama Ministarstva, izrađuje prijedloge planova rada Ministarstva na temelju nacrta planova rada ustrojstvenih jedinica, usklađuje poslove u svezi s ostvarivanjem planova rada Ministarstva te obavlja personalne, financijske, lektorske, informatičke i druge administrativne i stručne poslove za potrebe tajnika.
+b) Odjel općih poslova

@@ -1,0 +1,6 @@
+# Članak 189.
+Odjel nadzora isprava organizira i provodi nadzor isprava financijskog i materijalnog poslovanja te isprava za obračun plaća za ustrojstvene jedinice Ministarstva radi utvrđivanja njihove zakonske, računske i formalne ispravnosti, provjerava usklađenost podataka u ispravama s ugovorima, prati i nadzire primjenu zakonske regulative vezane za financijsko poslovanje, odobrava postupanje po ispravama financijskog i materijalnog poslovanja i knjiženje podataka u poslovne knjige te priprema za potpis upozorbe na nezakonitost-neispravnost-nekompletnost isprava i postupaka financijskog i materijalnog poslovanja. Odjel nadzora isprava izrađuje prijedloge novih ili izmjene i dopune postojećih propisa iz područja financijsko-materijalnog poslovanja u Ministarstvu i Oružanim snagama. U Odjelu se organiziraju i vode administrativni poslovi za potrebe Financijske službe.
+Za obavljanje poslova u Odjelu nadzora isprava ustrojavaju se sljedeći pododsjeci:
+1.1. Pododsjek nadzora isprava financijskog poslovanja i obračuna plaća i naknada,
+1.2. Pododsjek nadzora isprava materijalnog poslovanja i administrativnih poslova.
+1.1. Pododsjek nadzora isprava financijskog poslovanja i obračuna plaća i naknada

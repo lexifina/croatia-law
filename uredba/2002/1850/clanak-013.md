@@ -1,0 +1,6 @@
+# Članak 13.
+Središnji vojni arhiv obavlja upravne i stručne poslove vezane za: nadzor nad zaštitom arhivske građe, vođenje arhivske evidencije za arhivsku građu koja se nalazi u arhivama izvan Središnjeg vojnog arhiva, preuzimanje arhivske građe od arhivskih sabirnih središta po isteku propisanih rokova, izravno preuzimanje arhivske građe ustrojstvenih jedinica Ministarstva i Glavnog stožera, stručnu obradu arhivske građe, snimanje, kopiranje i izradu trajnih kopija građe radi zaštite izvornika, razmjenu arhivske građe radi kompletiranja arhivskih fondova i zbirki, odabir i izdvajanje građe kojoj je istekao rok čuvanja, izdavanje potvrda o činjenicama koje su sadržane u izvornicima ili kopijama arhivske građe, stručnu i znanstvenu obradu foto-građe i foto-dokumenata, laboratorijsku obradu i izradu fotografija, kao i prikupljanje, obradu i arhiviranje video i filmskog materijala te montažu i izradu video-zapisa.
+Za obavljanje poslova Središnjeg vojnog arhiva ustrojavaju se sljedeći pododsjeci:
+1. Pododsjek za sređivanje, obradu i zaštitu arhivske građe,
+2. Pododsjek za povijesna istraživanja i dokumentarno-informativni rad.
+1. Pododsjek za sređivanje, obradu i zaštitu arhivske građe

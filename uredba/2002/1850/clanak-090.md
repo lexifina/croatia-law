@@ -1,0 +1,3 @@
+# Članak 90.
+Odsjek civilno-vojne izobrazbe organizira provedbu svekolika školovanja djelatnika u civilnim školama i na učilištima, utvrđuje potrebe za specijalističkim usavršavanjem i prekvalifikacijama te ostalim oblicima izobrazbe, prikuplja i objedinjava potrebe za civilno-vojnom izobrazbom, utvrđuje mogućnosti i kapacitete izobrazbe, izrađuje ugovore s pravnim osobama i djelatnicima koji se upućuju na civilno-vojnu izobrazbu, sudjeluje u izradi kriterija i provodi odabir za sve vrste civilno-vojne izobrazbe, sudjeluje u organizaciji školovanja vojnih stipendista, financijski prati sve oblike izobrazbe te izrađuje raščlambe i izvješća.
+4.2. Odsjek međunarodne izobrazbe

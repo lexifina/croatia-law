@@ -1,0 +1,7 @@
+# Članak 116.
+Odjel naoružanja i vojne opreme Hrvatske kopnene vojske obavlja upravne i stručne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja, modernizacije i održavanja naoružanja i vojne opreme Hrvatske kopnene vojske te opskrbu materijalnim sredstvima Hrvatske kopnene vojske. Odjel usklađuje prijedloge planova opremanja, planira i provodi opremanje Ministarstva i Oružanih snaga u skladu s usvojenim planovima opremanja, organizira istraživanje, razvoj i usvajanje materijalnih sredstava iz svoje nadležnosti, nositelj je programa opremanja za sredstva iz svoje nadležnosti kojima se opremaju Oružane snage, prati razvojne i proizvodne mogućnosti domaćeg i inozemnoga gospodarstva za potrebe obrane i predlaže angažiranje istih, propisuje upute za rukovanje i održavanje i izdaje imenike za novouvedena sredstva, utvrđuje kriterije za određivanje veličine i strukture pričuve materijalnih sredstava iz svoje nadležnosti, te prati rad i po potrebi obavlja upravni nadzor funkcija logistike i pravilnosti utroška sredstava u Oružanim snagama.
+Za obavljanje poslova Odjela naoružanja i vojne opreme Hrvatske kopnene vojske ustrojavaju se sljedeći odsjeci:
+2.1. Odsjek bojne tehnike Hrvatske kopnene vojske,
+2.2. Odsjek nebojne tehnike Hrvatske kopnene vojske,
+2.3. Odsjek ubojitih i pogonskih sredstava.
+2.1. Odsjek bojne tehnike Hrvatske kopnene vojske

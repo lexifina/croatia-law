@@ -1,0 +1,3 @@
+# Članak 133.
+Odsjek planiranja i razvoja obavlja pripremne aktivnosti u dijelu geodetskih poslova za potrebe Ministarstva i Oružanih snaga, zadaće gravimetrijske i geomagnetske izmjere, programiranja tehničkih elemenata za izradu investicijskih elaborata i tehničke dokumentacije, izrade programa i projektnih zadaća za izradu svih razina tehničke dokumentacije za izgradnju, adaptaciju, rekonstrukciju i sanaciju, izrade idejnih rješenja za unutarnje uređenje i ostale zahvate, koordinaciju i nadzor nad izradom tehničke dokumentacije te obavlja stručne poslove na programiranju potrebne opreme i izradi dispozicija i idejnih rješenja interijerskih zahvata.
+3. Odjel izgradnje i zaštite okoliša

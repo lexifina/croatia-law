@@ -1,0 +1,3 @@
+# Članak 149.
+Odsjek razvoja i održavanja računalne infrastrukture donosi planove razvoja računalne infrastrukture, planira sredstva u svrhu razvoja i održavanja informacijskih sustava, skrbi o nabavi i distribuciji roba i usluga koje su vezane na izgradnju, razvoj i održavanje računalne infrastrukture Ministarstva i Oružanih snaga, razvija i održava sustav elektroničke pošte Ministarstva, te usklađuje sustav elektroničke pošte Ministarstva sa sustavom elektroničke pošte Oružanih snaga. Odsjek planira i donosi standarde o implementaciji programske potpore u Ministarstvu i Oružanim snagama.
+5.2. Odsjek sistemske potpore

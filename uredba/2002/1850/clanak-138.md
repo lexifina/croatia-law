@@ -1,0 +1,3 @@
+# Članak 138.
+Odjel za vojnu kartografiju izučava NATO kartografske standarde, izrađuje kartografske proizvode prema NATO kartografskim standardima za potrebe Oružanih snaga, vrši zadaće prilagodbe hrvatskog vojnog kartografskog sustava NATO kartografskom sustavu, formira geoinformacijski sustav i hidrografsko--informacijski sustav za potrebe Ministarstva i Oružanih snaga u skladu s NATO kartografskim standardima, prikuplja prostorne podatke i informacije potrebne za izradbu vojnih kartografskih proizvoda i iste osuvremenjuje, te opskrbljuje Oružane snage s geotopografskim i hidrografskim materijalima i podacima.
+d) Služba za informacijsku i komunikacijsku tehnologiju

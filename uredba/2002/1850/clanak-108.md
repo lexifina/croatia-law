@@ -1,0 +1,3 @@
+# Članak 108.
+Odjel za koordinaciju usklađuje rad ustrojstvenih jedinica Uprave za opremanje i nabavu, obavlja stručne i administrativne poslove za potrebe pomoćnika ministra, daje pravna mišljenja o dokumentima koje potpisuje pomoćnik ministra (ugovori i stručna očitovanja), izrađuje planove rada Uprave i izvješća o njihovoj provedbi, koordinira izradu svih ostalih planova za razinu Uprave, prati troškove logističkog zbrinjavanja, organizira sastanke, pregledava i kontrolira poštu za potpis, priprema izvješća, organizira zaprimanje, evidenciju, rješavanje, arhiviranje i otpremu pošte, te obavlja i druge poslove po nalogu pomoćnika ministra.
+b) Služba za razvoj, opremanje i modernizaciju

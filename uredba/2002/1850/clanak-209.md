@@ -1,0 +1,3 @@
+# Članak 209.
+Odjel razvoja programa organizira i odgovoran je za izradu smjernica programiranja, vođenje i koordinaciju procesa programiranja, utvrđuje usklađenost prijedloga programa s godišnjim smjernicama obrambenog planiranja, priprema materijale za sjednice Vijeća za upravljanje Sustavom planiranja, programiranja, izrade i izvršenja proračuna i Odbora za razmatranje programa i proračuna, odgovoran je za izradu Obrambenog programa Ministarstva i surađuje na izradi dugoročnih obrambenih planova, utvrđuje primjenu obrambenih smjernica u razvoju i izradi programa i nadzire izvršenje odobrenih programa.
+2. Odjel analize programa

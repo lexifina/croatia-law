@@ -1,0 +1,3 @@
+# Članak 207.
+Odsjek robnog knjigovodstva knjiži isprave financijskog poslovanja koje se odnose na obavljanje poslova iz vlastite djelatnosti, prati stanje i kretanje financijskih pokazatelja po ustrojstvenim jedinicama za koje obavlja poslove financijskog knjigovodstva i dostavlja im mjesečna financijska izvješća, usklađuje financijsko i materijalno knjigovodstvo, knjiži isprave materijalnog poslovanja u pomoćne knjige imovine ustrojstvenih jedinica za koje vodi materijalno knjigovodstvo, prati stanje i kretanje materijalnih i vrijednosnih pokazatelja o imovini, usklađuje podatke iz materijalnog knjigovodstva s podacima u materijalnim evidencijama i osigurava podatke (popisne liste) za provedbu popisa imovine.
+d) Služba za analize i vrednovanje programa

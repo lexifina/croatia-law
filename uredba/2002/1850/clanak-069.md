@@ -1,0 +1,3 @@
+# Članak 69.
+Odjel potpore i provedbe ugovora obavlja upravne i stručne poslove vezane za: planiranje i provođenje inspekcija u skladu s međunarodnim vojnim sporazumima, poslove u svezi s prihvatom inspekcija koje dolaze u Republiku Hrvatsku i sudjelovanje u provedbi redukcijskih zadaća, priprema Oružane snage za provedbu sporazuma o nadzoru naoružanja, te izvješćuje o obavljenim zadaćama i zapažanjima. Nositelj je suradnje s civilnim institucijama po pitanjima provedbe ugovora o kontroli naoružanja, definira obveze Oružanih snaga u okviru ukupnih obveza Republike Hrvatske po pitanjima ugovora o kontroli naoružanja te aktivno prati međunarodne procese u području kontrole naoružanja.
+f) Služba za NATO i Partnerstvo za mir

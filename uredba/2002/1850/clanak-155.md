@@ -1,0 +1,3 @@
+# Članak 155.
+Odsjek sredstava tehničke struke obavlja upravne i stručne poslove koji se odnose na ugovaranje nabave roba i usluga tehničke i prometne struke (sredstva naoružanja i vojne opreme, pogonska sredstva, nebojna prometna sredstva, inženjerijska sredstva i oprema, pričuvni dijelovi, usluge remonta na tržištu i sl.) za potrebe Ministarstva i Oružanih snaga na domaćem i međunarodnom tržištu te ugovaranje proizvodnje sredstava naoružanja i vojne opreme te prati ponudu i potražnju za robama iz svoje nadležnosti te podatke o tome pruža ustrojstvenim jedinicama Ministarstva i Oružanih snaga.
+1.3. Odsjek informatičkih i telekomunikacijskih sredstava i uredske opreme

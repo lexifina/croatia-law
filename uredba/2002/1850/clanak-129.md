@@ -1,0 +1,3 @@
+# Članak 129.
+Odsjek za upravljanje vojnim nekretninama obavlja poslove koji se odnose na ustrojavanje, izradu i održavanje vojnog katastra (nekretnina, infrastrukture, šuma i zemljišta), vodi očevidnik vojnih nekretnina, ustrojava, vodi i organizira arhive graditeljske, geodetske i imovinsko-pravne struke, vodi poslove pribavljanja nekretnina za potrebe Ministarstva i Oružanih snaga, obavlja poslove tehničkog prijma građevina, praćenja stanja građevina, vodi glavnu knjigu nekretnina, organizira i vodi materijalna zaduženja pokretnina i nekretnina, te obavlja sve ostale imovinsko-pravne poslove nad nekretninama.
+1.3. Odsjek stanova, poslovnih prostora i garaža

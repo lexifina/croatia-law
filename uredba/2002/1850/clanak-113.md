@@ -1,0 +1,3 @@
+# Članak 113.
+Odsjek koordinacije vojne proizvodnje obavlja upravne i stručne poslove vezane za koordinaciju proizvodnje materijalnih sredstava za potrebe Ministarstva i Oružanih snaga. Odsjek prati razvojne mogućnosti domaćeg i inozemnog gospodarstva i potrebe Oružanih snaga izražene u planovima opremanja, u suradnji s tehničkim nositeljima provodi raščlambe mogućnosti i predlaže njihovo angažiranje za potrebe proizvodnje sredstava naoružanja i vojne opreme, sudjeluje u propisivanju, upravljanju i nadzoru razvoja sredstava posebne namjene u skladu s utvrđenim potrebama korisnika te izrađuje planove vojne proizvodnje.
+1.4. Odsjek normizacije i mjeriteljstva

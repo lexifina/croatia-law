@@ -1,0 +1,3 @@
+# Članak 73.
+U skladu s prihvaćenim sigurnosnim standardima Republike Hrvatske i NATO-a definiranim potpisivanjem Sigurnosnog sporazuma, Republika Hrvatska i NATO razmjenjuju informacije i dokumente preko sustava Središnji registar-podregistri.
+Podregistar za prijam i pohranu informacija i dokumenata u razmjeni između Republike Hrvatske i NATO-a uz prijam, pohranu i distribuciju dokumenata svih vrsta tajnosti, u komunikaciji s NATO-om provodi i odgovara za ustroj sigurnosnih standarda koje je Republika Hrvatska preuzela potpisivanjem Sigurnosnog sporazuma s NATO-om. U tom poslu neposredno odgovara Središnjem registru. U svezi s navedenim poslovima surađuje sa svim upravama Ministarstva, i s Podregistrom NATO-a u Glavnom stožeru.

@@ -1,0 +1,3 @@
+# Članak 97.
+Odjel za najam i postupke pokreće i prati parnične i ovršne postupke otkaza stanarskog prava, smetanja posjeda, iseljenja, postupke radi utvrđivanja, postupke radi donošenja presuda koje nadomještaju ugovor o najmu stana ili ugovor o kupoprodaji stana, te radi povrata preplaćenog iznosa kupoprodajne cijene stana, poništenja ugovora o kupoprodaji i proglašenja ovrhe nedopuštenom. Vodi upravne postupke iseljenja bespravnih korisnika, upravne sporove za poništenje rješenja, odlučuje o osnovanosti zahtjeva za sklapanje ugovora o najmu stana i sklapa ugovore o najmu stana.
+e) Služba za zdravstvenu zaštitu

@@ -1,0 +1,3 @@
+# Članak 95.
+Odsjek za službene stanove obrađuje prijedloge za korištenje stanova za službene potrebe, te priprema i provodi akte u svezi s njihovim korištenjem. Na temelju vrijedećih akata s korisnicima stanova danih na upravljanje Ministarstvu sklapa ugovore o najmu na određeno vrijeme, te utvrđuje da li korisnici stanova djelatnici MO i OS RH ispunjavaju uvjete za otkup. Ujedno obavlja terenske poslove vezane za utvrđenje statusa korisnika stanova, prati postupke iseljenja i useljenja u stanove na temelju odluka o njihovu korištenju, izrađuje zapisnike o primopredaji, organizira ovjeru i potpis kupoprodajnih ugovora iz svoje nadležnosti.
+2. Odjel za prodaju stanova

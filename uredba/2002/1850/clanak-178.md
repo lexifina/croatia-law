@@ -1,0 +1,3 @@
+# Članak 178.
+Odsjek prometne potpore vodi prometnu dokumentaciju, evidentira prometne nezgode, analizira stanje sigurnosti prometa, obavlja poslove u svezi s registracijom i odjavom motornih vozila, obavlja poslove u svezi s prijevozom djelatnika Ministarstva i Oružanih snaga i tereta prometnim sredstvima javnih prijevoznika, vodi evidenciju i podnosi prijave o neispravnosti i prijave za tehnički pregled motornih vozila, prati uporabu motornih vozila i izrađuje izvješće o njihovoj uporabi, obavlja prvu registraciju i odjavljivanje vozila Ministarstva i Oružanih snaga, evidentira i obrađuje štete na motornim vozilima Ministarstva i Oružanih snaga te vodi dispečerski dnevnik.
+4.2. Odsjek za prijevoz prve razine

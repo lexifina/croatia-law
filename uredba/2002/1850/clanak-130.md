@@ -1,0 +1,3 @@
+# Članak 130.
+Odsjek stanova, poslovnih prostora i garaža obavlja poslove vezane za evidenciju najma stanova i garaža, kao i provođenje postupka za pripremu ugovora za iznajmljivanje poslovnih prostora i ostalih poslova po odlukama Vlade Republike Hrvatske, organizira i izvršava poslove održavanja stanova, poslovnih prostora i garaža, obavlja naplatu i praćenje naplate zakupnine poslovnih prostora, naplatu i praćenje obročne otplate stanova, naplatu i praćenje naplate najma službenih stanova, organizira i šalje opomene i utuženja radi naplate zakupnine, najamnine i obročne otplate, obavlja izračun cijene stanova kao i sve ostale poslove u svezi sa stanovima, garažama i poslovnim prostorima.
+2. Odjel pripreme, programiranja, planiranja i razvoja

@@ -1,0 +1,3 @@
+# Članak 206.
+Odsjek materijalnog knjigovodstva propisuje knjigovodstvene postupke u Ministarstvu i Oružanim snagama, organizira knjiženje i knjiži isprave materijalnog poslovanja u pomoćne knjige imovine za ustrojstvene jedinice Ministarstva, prati stanje i kretanje materijalnih i vrijednosnih pokazatelja imovine Ministarstva, usklađuje podatke iz materijalnog knjigovodstva s podacima u materijalnim evidencijama, pokreće postupak godišnjeg popisa (inventure) za Ministarstvo i Oružane snage, organizira izradu popisnih lista za provedbu popisa imovine i osigurava popisne liste za ustrojstvene jedinice Ministarstva.
+4.3. Odsjek robnog knjigovodstva

@@ -1,0 +1,3 @@
+# Članak 162.
+Odsjek prodaje, najma i komunalnih usluga obavlja poslove ugovaranja najma, zakupa i iznajmljivanja prostora za potrebe obrane, prodaju svih otpisanih ili neperspektivnih sredstava vojne i nevojne opreme, objekata i materijala, ugovaranje komunalnih usluga i zbrinjavanje sekundarnih sirovina, opasnog i neopasnog otpada i svih ostalih aktivnosti u svezi sa zaštitom okoliša, ugovara i organizira nabavu ostalih roba i usluga te prati ponudu i potražnju za robama i uslugama iz svoje nadležnosti i podatke o tome pruža ustrojstvenim jedinicama Ministarstva i Oružanih snaga.
+f) Služba za prijam i potporu

@@ -1,0 +1,8 @@
+# Članak 196.
+Odjel platnog prometa organizira i prati platni promet za Ministarstvo i Oružane snage. Odjel evidentira svu likvidnu dokumentaciju koja je temelj za plaćanje (ulazni i izlazni računi i dr.) koja se odnosi na ustrojstvene jedinice Ministarstva, provjerava i priprema podloge za zatvaranje obveza i tražbina putem cesija, asignacija i kompenzacija, evidentira, kontrolira i izračunava zatezne kamate, evidentira tužbene zahtjeve, daje očitovanja po tužbama, knjiži presude i interne naloge po presudama. Putem informacijskog sustava preuzima od ustrojstvenih jedinica za financije u Oružanim snagama podatke o evidentiranoj likvidnoj dokumentaciji koja je temelj za plaćanje i uključuje ih u redoslijed plaćanja zajedno s dokumentacijom evidentiranom u Financijskoj službi. Odjel obavlja kunsko i devizno blagajničko poslovanje, priprema akreditive i vodi evidenciju o njihovoj realizaciji te surađuje s ostalim ustrojstvenim jedinicama Ministarstva i Oružanih snaga, Ministarstvom financija, Financijskom agencijom, bankama i drugim ustanovama u svezi s izvršenjem odobrenog proračuna Ministarstva putem Sustava Državne riznice. U Odjelu se provode sva plaćanja za Ministarstvo i Oružane snage, evidentiraju se transakcije i poslovni događaji tijekom mjeseca na razini Područne riznice Ministarstva, unose se rezervacije novčanih sredstava te ispostavljaju zahtjevi za plaćanje Središnjoj riznici. Odjel platnog prometa izrađuje dnevna, tjedna i mjesečna izvješća o platnom prometu.
+Za obavljanje poslova u Odjelu platnog prometa ustrojavaju se sljedeći odjeljci:
+2.1. Odjeljak područne riznice,
+2.2. Odjeljak isplata,
+2.3. Odjeljak salda-kontija.
+2.4. Odjeljak obrade sudskih postupaka.
+2.1. Odjeljak područne riznice

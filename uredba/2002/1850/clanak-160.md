@@ -1,0 +1,6 @@
+# Članak 160.
+Odjel graditeljstva, infrastrukture i prodaje obavlja upravne i stručne poslove koji se odnose na planiranje i ugovaranje roba i usluga te ustupanje radova za potrebe Ministarstva i Oružanih snaga iz domaćih izvora i na međunarodnom tržištu u područjima izgradnje i održavanja vojnih objekata, građevinske opreme i materijala, protupožarnih sredstava i sredstava zaštite na radu, izgradnje i opremanja stanova i ostalih objekata, usluga izrade projekata, studija, geotopografskih materijala i sličnih intelektualnih radnji, ugovaranja najma, zakupa i iznajmljivanja prostora za potrebe obrane, komunalnih usluga i zbrinjavanja sekundarnih sirovina, opasnog i neopasnog otpada i svih ostalih aktivnosti u svezi sa zaštitom okoliša, prodajom svih otpisanih ili neperspektivnih sredstava vojne i nevojne opreme, objekata i materijala, kao i ostalih roba i usluga. Odjel razvija i predlaže smjernice i postupke ugovaranja i nabave u skladu sa zakonskim propisima i potrebama korisnika.
+Za obavljanje poslova u Odjelu graditeljstva, infrastrukture i prodaje ustrojavaju se sljedeći odsjeci:
+3.1. Odsjek graditeljstva i ustupanja radova,
+3.2. Odsjek prodaje, najma i komunalnih usluga.
+3.1. Odsjek graditeljstva i ustupanja radova

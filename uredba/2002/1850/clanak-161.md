@@ -1,0 +1,3 @@
+# Članak 161.
+Odsjek graditeljstva i ustupanja radova ugovara usluge izrade projektne i tehničke dokumentacije za visokogradnju, niskogradnju i specijalne vojne objekte, te geotopografske usluge i materijale, izgradnje i održavanja vojnih objekata, održavanja i izgradnje ostalih objekata, održavanje i opremanje vojnih stanova, nabave građevinske opreme i materijala, nabavu namještaja, kuhinjske i blagovaoničke opreme, te prati ponudu i potražnju za robama i uslugama iz svoje nadležnosti i podatke o tome pruža ustrojstvenim jedinicama Ministarstva i Oružanih snaga.
+3.2. Odsjek prodaje, najma i komunalnih usluga
