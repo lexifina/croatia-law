@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 2. Zakona o Hrvatskoj gospodarskoj komori ("Narodne novine", br. 66/91. i 73/91.), i članka 76. Statuta Hrvatske gospodarske komore ("Narodne novine" br. 11/94 - pročišćeni tekst, 108/95. i 19/96.) Skupština Hrvatske gospodarske komore, na 7. sjednici 26. studenoga 1998. donosi
