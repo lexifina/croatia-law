@@ -1,0 +1,1 @@
+Na temelju članka 138. stavka 4. Zakona o zaštiti prirode (»Narodne novine«, br. 162/03), ministar zdravstva i socijalne skrbi uz suglasnost ministra nadležnog za zaštitu prirode i okoliša i ministra nadležnog za poljoprivredu i šumarstvo donosi

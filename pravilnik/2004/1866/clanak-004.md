@@ -1,0 +1,31 @@
+# Članak 4.
+Za obavljanje ispitivanja, kontrole i praćenja GMO-a i proizvoda koji sadrže GMO, laboratorij mora imati ovu opremu:
+- uređaj za lančanu reakciju polimeraze u stvarnom vremenu (real time PCR)
+- termomixer i termoblock;
+- centrifugu s relativnom minimalnom centrifugalnom silom (rcf) 15000 x g;
+- centrifugu sa hlađenjem i rotor;
+- vakuumski koncentrator;
+- uređaj za lančanu reakciju polimeraze;
+- horizontalnu elektroforeznu jedinicu s pogonskim uređajem (koja uključuje kalup za izlijevanje gelova i češljeve);
+- transiluminator (UV 312 nm) i kameru s mogućnošću priključka na osobno računalo;
+- spektrofotometar;
+- hladnjak;
+- zamrzivač ( -20°C);
+- mlinac;
+- mikser;
+- digitalnu vagu od 0,1 g do 2000 g;
+- analitičku digitalnu vagu na 5 decimala, max, 60 g, d=0,1 mg;
+- perilicu za suđe;
+- protresivač za epruvete;
+- automatske pipete s mogućnošću podešavanja volumena (pipeta-0,5-10mm, pipeta 2-20ml, 10-100ml, 20-200ml, 100-1000ml, 500-5000ml,);
+- automatski pipetor s punjačem;
+- kabinet za rad u sterilnim uvjetima;
+- zamrzivač (-80°C);
+- stolni pH metar s elektrodama i napajanjem na 220 V;
+- vodenu kupelj s temperaturom 0-100° C;
+- termostat;
+- autoklav;
+- homogenizator;
+- magnetsku mješalicu sa grijačem;
+- ledomat za proizvodnju usitnjenog leda minimalnog kapaciteta 2 kg/h ili > ;
+- čitač za ELISA test.
