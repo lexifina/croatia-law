@@ -1,0 +1,14 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 118.
+Upisi prava vlasništva ili kojega drugoga stvarnog prava na zemljištu i građevinama na pomorskom dobru za koje se ne može dokazati pravno valjan način stjecanja pravno su nevaljani.
+Državni odvjetnik podnijet će prijedlog zemljišnoknjižnom sudu radi brisanja upisa prava vlasništva ili drugoga stvarnog prava na pomorskom dobru iz stavka 1. ovoga članka i upisati pomorsko dobro.
+Granica pomorskog dobra utvrđena prema Pomorskom zakoniku ostaje na snazi, te će Državno odvjetništvo postupiti sukladno stavku 2. ovoga članka.
+Postupci za određivanja granica pomorskog dobra započeti do stupanja na snagu ovoga Zakona okončat će se prema odredbama Pomorskog zakonika (»Narodne novine«, br. 17/94., 74/94. i 43/96.).
+Ako se mijenjaju granice pomorskog dobra zbog promjene dokumenata prostornog uređenja, prirodnih pojava ili zbog proglašenja kopna pomorskim dobrom na taj dio pomorskog dobra primijenit će se odredbe o izvlaštenju.
+Tijelo koje upravlja postojećom građevinom iz članka 19. stavka 1. točke 1. ovoga Zakona koja se nalazi na pomorskom dobru, dužno je u roku od godine dana od stupanja na snagu ovoga Zakona zatražiti koncesiju za posebnu upotrebu.
+Postojeće građevine na pomorskom dobru izgrađene ili stečene sa valjanom pravnom osnovom koje se koriste za stanovanje, dat će se na posebnu upotrebu za sve vrijeme dok se koriste za stanovanje, bez naknade, a korisnik građevine dužan je zatražiti koncesiju za posebnu upotrebu u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+Ako se dio građevine iz stavka 5. i 6. ovoga članka koristi za obavljanje gospodarskih djelatnosti, za korištenje građevine u tom dijelu potrebno je zatražiti koncesiju za obavljanje gospodarskih djelatnosti.
+Sve koncesije dodijeljene na temelju Pomorskog zakonika (»Narodne novine«, br. 17/94., 74/94. i 43/96.) i Zakona o morskim lukama (»Narodne novine«, br. 108/95. i 97/00.) ostaju na snazi do isteka razdoblja na koje su dane.
+Za rive do najviše 12 metara četvornih pristupne površine za privez brodica, a kojima se ne ograničava opća upotreba i ne služe za obavljanje gospodarske djelatnosti a izgrađene prije stupanja na snagu ovoga Zakona, i koje ispunjavaju uvjete za izdavanje koncesije za posebnu upotrebu potrebno je podnijeti zahtjev za koncesiju prema članku 19. stavku 5. ovoga Zakona u roku od 6 mjeseci od stupanja na snagu ovoga Zakona.
+Za rive kojima se odbije izdavanje koncesije ili za koje se ne podnese zahtjev iz prethodnog stavka ovoga članka u ostavljenom roku, inspekcija će naložiti uklanjanje bez odgode nakon konačnosti rješenja.
+Postupci za davanje prvenstvene koncesije iz članka 62. Zakona o morskim lukama (»Narodne novine«, br. 108/95., 10/95. i 97/00.), započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga zakona.

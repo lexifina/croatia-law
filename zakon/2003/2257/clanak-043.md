@@ -1,0 +1,4 @@
+# Članak 43.
+Vlada Republike Hrvatske propisuje mjerila za razvrstaj luka iz članka 42. stavka 1. ovoga Zakona i utvrđuje razvrstaj luka posebne namjene prema značaju za Republiku Hrvatsku, sukladno članku 42. stavku 3. ovoga Zakona.
+Kod utvrđivanja mjerila za razvrstaj luka, Vlada Republike Hrvatske uzet će u obzir ukupni promet svake luke u proteklom desetogodišnjem razdoblju i njegove osobine; operativni kapacitet luke; stanje lučke podgradnje i nadgradnje; sposobnost uređaja i usluga za opskrbu, održavanje i popravak plovila i luke; kakvoću i značaj prometnih veza sa zaleđem; prostorne i gospodarske mogućnosti daljnjeg razvoja luke i dr.
+Polazeći od općih smjernica za razvoj luka utvrđenih desetogodišnjim planom razvoja lučkog sustava, Vlada Republike Hrvatske može promijeniti mjerila iz stavka 1. ovoga članka, uzimajući u obzir objektivno predvidive mogućnosti razvoja pojedine luke.

@@ -1,0 +1,8 @@
+# Članak 19.
+Posebna upotreba pomorskog dobra smatra se:
+1. gradnja na pomorskom dobru građevina za potrebe vjerskih zajednica, za obavljanje djelatnosti na području kulture, socijalne skrbi, odgoja i obrazovanja, znanosti, informiranja, športa, zdravstva, humanitarnih djelatnosti i druge djelatnosti koja se ne obavlja radi stjecanja dobiti,
+2. gradnja na pomorskom dobru građevina i drugih objekata infrastrukture (ceste, pruge, vodovodna, kanalizacijska, energetska, telefonska mreža i sl.), građevine i drugi objekti za potrebe obrane, unutarnjih poslova, regulaciju rijeka i drugih sličnih infrastrukturnih objekata.
+Odluku o koncesiji za posebnu upotrebu u smislu stavka 1. ovoga članka za objekte državnog značaja donosi Vlada Republike Hrvatske, a odluka o koncesiji za posebnu upotrebu u smislu stavka 1. ovoga članka za objekte županijskog značaja donosi županijsko poglavarstvo, a za objekte lokalnog značaja odluku donosi općinsko ili gradsko vijeće.
+U nacionalnom parku i posebnom rezervatu koncesiju za gospodarsko korištenje pomorskog dobra može dati samo Vlada Republike Hrvatske, a u ostalim zaštićenim dijelovima prirode koncesiju daje nadležno tijelo iz članka 20. ovoga Zakona, uz prethodnu suglasnost ministarstva za poslove zaštite prirode.
+Pravnoj osobi koja upravlja nacionalnim parkom, strogim ili posebnim rezervatom, može se odlukom Vlade Republike Hrvatske dati posebna upotreba pomorskog dobra.
+Koncesija za posebnu upotrebu fizičkim osobama u svrhu gradnje rive do najviše 12 metara četvornih pristupne površine za privez brodica, a kojom se ne ograničava opća upotreba i ne služi za obavljanje gospodarske djelatnosti, dodjeljuje općinsko/gradsko vijeće uz suglasnost nadležne lučke kapetanije.

@@ -1,0 +1,5 @@
+# Članak 99.
+Pravne i fizičke osobe koje podliježu nadzoru inspektora dužne su mu omogućiti obavljanje nadzora sukladno odredbi članka 97. ovoga Zakona i osigurati mu uvjete za neometan rad.
+Smatra se da nadzirana pravna ili fizička osoba nije omogućila obavljanje nadzora iz stavka 1. ovoga članka i u slučaju ako u roku koji je pismenom odredio inspektor ne osigura uvid u traženu poslovnu dokumentaciju ako je posjeduje i druge isprave potrebne za utvrđivanje činjeničnog stanja u započetu nadzoru.
+Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su na traženje inspektora privremeno obustaviti poslovanje nadziranog objekta, odnosno obavljanje djelatnosti za vrijeme inspekcijskog nadzora ako inspektor ne bi mogao na drugi način obaviti inspekcijski nadzor ili utvrditi činjenično stanje.
+Inspektor može od nadzirane pravne i fizičke osobe nakon obavljenoga inspekcijskog nadzora tražiti izvršenje pojedine radnje u postupku radi potpunog utvrđivanja činjeničnog stanja i odrediti rok izvršenja te radnje.

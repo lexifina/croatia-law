@@ -1,0 +1,2 @@
+# Članak 91.
+U slučaju onečišćenja mora, lučka kapetanija je ovlaštena zabraniti isplovljenje plovnog objekta iz luke, odnosno narediti zadržavanje plovnog objekta koji je prouzročio onečišćenje u morskim vodama Republike Hrvatske dok plovni objekt ne podmiri troškove uklanjanja štetnih tvari s pomorskog dobra i druge štete nastale onečišćenjem ili dok ne položi zadovoljavajuće jamstvo za pokriće ovih šteta.

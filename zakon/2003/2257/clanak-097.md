@@ -1,0 +1,4 @@
+# Članak 97.
+U provedbi inspekcijskog nadzora, a prema ovlastima iz članka 96. ovoga Zakona inspektori pomorskog dobra Ministarstva i drugi državni službenici Ministarstva s inspekcijskim ovlaštenjima (u daljnjem tekstu: inspektori) ovlašteni su pregledati zgrade, izvođenje radova, poslovne i druge prostorije i prostore, luke, sredstva rada, plovila, poslovne knjige i poslovnu dokumentaciju, te ugovore radi uvida u korištenje pomorskog dobra i obavljanje djelatnosti na pomorskom dobru.
+Inspektor je ovlašten u postupku nadzora zatražiti i pregledati isprave na temelju kojih se može utvrditi identitet osobe (osobna iskaznica, putovnica i sl.), a osobe koje podliježu nadzoru dužne su na zahtjev inspektora dati mu takvu ispravu na uvid.
+Prilikom obavljanja inspekcijskog nadzora inspektor može uzimati izjave od predstavnika nadziranih pravnih i fizičkih osoba, te svjedoka.

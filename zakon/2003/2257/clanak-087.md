@@ -1,0 +1,3 @@
+# Članak 87.
+Zahtjevu za izdavanje građevne dozvole investitor građevine koja se gradi na području pomorskog dobra dužan je priložiti potvrdu teritorijalno nadležne lučke kapetanije o usklađenosti glavnog projekta s uvjetima za gradnju na pomorskom dobru utvrđenim u skladu s odredbama članka 86. ovoga Zakona.
+Teritorijalno nadležna lučka kapetanija dužna je potvrdu iz stavka 1. ovoga članka izdati u roku do 30 dana od dana podnošenja zahtjeva, odnosno u istom roku odbiti zahtjev rješenjem ako glavni projekt nije izrađen u skladu s uvjetima za gradnju na pomorskom dobru utvrđenim u skladu s odredbama članka 86. ovoga Zakona.

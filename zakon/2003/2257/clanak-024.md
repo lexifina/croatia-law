@@ -1,0 +1,2 @@
+# Članak 24.
+Odluka o koncesiji sadrži područje pomorskog dobra koje se daje na upotrebu ili gospodarsko korištenje; način, uvjete i vrijeme upotrebe ili gospodarskog korištenja pomorskog dobra, stupanj isključenosti opće upotrebe, naknadu koja se plaća za koncesiju, ovlaštenja davatelja koncesije, popis objekata podgradnje i nadgradnje koji se nalaze na pomorskom dobru i daju se u koncesiju, prava i obveze ovlaštenika koncesije uključujući i obvezu održavanja i zaštite pomorskog dobra, te zaštite prirode ako se pomorsko dobro nalazi na zaštićenom dijelu prirode.
