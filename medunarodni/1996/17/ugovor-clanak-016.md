@@ -1,0 +1,2 @@
+# Članak 16.
+Konzularne prostorije, namještaj u njima, imovina konzularnog predstavništva i njegova prijevozna sredstva ne mogu biti predmetom bilo kakvog oblika rekvizicije u svrhu nacionalne obrane, javne koristi ili u druge svrhe. U slučaju da je za te svrhe potrebna eksproprijacija, poduzet će se sve potrebne mjere kako bi se izbjeglo ometanje obnašanja konzularnih funkcija, a državi imenovanja će se isplatiti brza, odgovarajuća i efektivna odšteta.
