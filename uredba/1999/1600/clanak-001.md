@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom utvrđuje se opseg i sadržaj medicinske dokumentacije koju je izabrani doktor medicine primarne zdravstvene zaštite (u daljnjem tekstu: liječnik) koji je liječio osiguranika dužan prethodno pripremiti i sa svojim nalazom i mišljenjem dostaviti Hrvatskom zavodu za mirovinsko osiguranje (u daljnjem tekstu: Zavod) radi vještačenja, u slučajevima određenim u članku 111. stavku 1. i 2. Zakona o mirovinskom osiguranju (u daljnjem tekstu: Zakon) i članku 29. stavku 2. Zakona o zdravstvenom osiguranju.

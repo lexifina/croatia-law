@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Pod medicinskom dokumentacijom iz članka 1. ove Uredbe, podrazumijeva se "Izvješće s nalazom i mišljenjem liječnika" (Obrazac: 1-IN, u daljnjem tekstu: izvješće) propisano u članku 15. stavku 2. Uredbe o medicinskom vještačenju u mirovinskom osiguranju (u daljnjem tekstu: Uredba o medicinskom vještačenju), otpusno pismo, prijepis povijesti bolesti zdravstvene ustanove u kojoj se osiguranik liječi, specijalističke i laboratorijske nalaze.
+(2) U iznimnim slučajevima, kada ovlašteni vještak iz članka 113. stavka 1. Zakona smatra potrebnim, zatražit će od liječnika prijepis povijesti bolesti, prijepis zdravstvenog kartona, nalaze prethodnog pregleda, sistematskih i periodičnih pregleda. Ova se dokumentacija ne smatra obveznom u smislu stavka 1. ovoga članka.
