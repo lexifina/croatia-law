@@ -1,0 +1,3 @@
+# Članak 6.
+Područje graničnog prijelaza u lukama otvorenim za međunarodni pomorski promet i lukama unutarnjih voda obuhvaća stalno ili privremeno omeđene prostore, sidrišta određena za prihvat i otpremu plovila, operativne obale za privez brodova, prometne trake za ulaz i izlaz putnika i vozila, prostor za manipulaciju tereta, prilazni željeznički kolosijek i druge prostore i objekte za vrijeme potrebno za obavljanje granične kontrole i drugih graničnih formalnosti.
+Kada se na području graničnog prijelaza na privezu ne nalaze brodovi u međunarodnom prometu, nadležna policijska uprava može odobriti pristajanje brodova u domaćem prometu, uz prethodnu suglasnost nadležne Carinarnice.

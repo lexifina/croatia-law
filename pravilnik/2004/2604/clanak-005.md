@@ -1,0 +1,2 @@
+# Članak 5.
+Područje graničnog prijelaza na aerodromima obuhvaća prostor za obavljanje poslova granične kontrole, tranzitni prostor za putnike i članove posade kada se isti koristi u međunarodnom prometu, prostor za prtljagu u međunarodnom prometu, prostor i prostorije za smještaj carinske robe, dio stajanke kada se na njoj nalazi parkiran zrakoplov u međunarodnom prometu i druge prostore i objekte koji su potrebni za obavljanje granične kontrole.
