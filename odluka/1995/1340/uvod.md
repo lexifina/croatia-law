@@ -1,0 +1,1 @@
+Na temelju članka 36. stavak 1. točka 6. Zakona o platnom prometu u zemlji ("Narodne novine" broj 21/93, 13/94, 69/94, 13/94 i 13/95) u vezi s člankom 61. stavak 1. točka 23. Zakona o Narodnoj banci Hrvatske ("Narodne novine" broj 35/95 - pročišćeni tekst), Savjet Narodne banke Hrvatske, na sjednici održanoj 2. listopada 1995. godine, donio je
