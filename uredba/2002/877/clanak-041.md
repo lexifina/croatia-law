@@ -1,0 +1,2 @@
+# Članak 41.
+Posebna oznaka Ureda za osiguranja je metalna značka koja se sastoji od dva koncentrična kruga. U unutarnjem krugu na plavoj podlozi, bijelim slovima u gornjem dijelu ispisan je natpis «Ured za osiguranja», ispod kojeg su konture petero ljudi. U vanjskom krugu na srebrnoj podlozi nalazi se reljef hrvatskog pletera žute boje. Na donjem dijelu značke nalazi se bijela traka sa srebrnim obrubom traka u kojoj je plavim slovima sa zlatnim obrubom ispisan naziv »MUP RH«.

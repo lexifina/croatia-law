@@ -1,0 +1,12 @@
+# Članak 12.
+Kapa sa šiltom izrađena je od tkanine plave boje, uobičajenog kroja. Na prednjoj strani kape strojno je izvezen grb RH.
+Jakna je tamnoplave boje, kopča se zatvaračem i kopčama. Na prednjoj strani jakne, u visini prsiju ušivena su dva mala džepa s našivenim poklopcem koji se zatvaraju zatvaračem. Isto tako, na prednjoj strani jakne, u visini kukova ušivena su dva velika džepa s našivenim poklopcem koji se zatvaraju zatvaračem. Na lijevom i desnom rukavu do visine lakta nalaze se po dva manja džepa koji se zatvaraju zatvaračem. Na ramenima su prišiveni držači za naramenice s oznakama zvanja koje se kopčaju dugmetom žute boje. Naramenice s oznakom zvanja tamnoplave su boje. Na oba rukava našivene su oznake »POLICIJA MUP RH«. Na prednjoj desnoj strani, u visini prsiju, ušivena je oznaka pomorske policije.
+Hlače su tamnoplave boje i športskog su kroja. S lijeve i desne strane imaju jedan urezani džep. Otraga su dva džepa s preklopnikom koji se kopčaju držećom kopčom. Na nogavicama s vanjske strane, u visini koljena, nalaze se dva džepa s preklopnikom koji se kopčaju zatvaračem.
+Kratke hlače su tamnoplave boje klasičnog kroja.
+Majica kratkih rukava je pamučna, svjetloplave boje, s ovratnikom. Na leđima je strojno izvezen natpis »POLICIJA«.
+Majica dugih rukava je pamučna, tamnoplave boje, s ovratnikom. Na leđima je strojno izvezen natpis »POLICIJA«.
+Pulover je pleteni, tamnoplave boje s visokim ovratnikom, koji s prednje strane ima zatvarač dužine 20 cm. Na ramenima i laktovima je pojačanje od tkanine iste boje. Rub pulovera i rukava završava renderom iste boje. Na oba rukava našivene su oznake »POLICIJA MUP RH«. Na prednjoj desnoj strani u visini prsiju ušivena je oznaka pomorske policije.
+Cipele su od plave kože, sa đonom bijele boje.
+Pododijelo je izrađeno od prošivene tkanine i sastoji se od bluze i hlača.
+Za kombinezon iz članka 11. točka 9. važi odredba članka 7. stavka 8. ove Uredbe.
+Kišni komplet je tamnoplave boje, izrađen od plastificiranog platna. Sastoji se od jakne s kapuljačom i hlača. Na prednjem dijelu jakne, s desne strane, u visini prsiju nalazi se utisnut znak pomorske policije, žute boje. Na rukavima u visini ramena nalazi se utisnuta oznaka »POLICIJA MUP RH«. Jakna se kopča zatvaračem i kopčama. Na leđima se nalazi natpis »POLICIJA« ispisan bijelim slovima. Jakna se veže vezicama. S prednje strane, u visini kukova, nalaze se dva džepa s poklopcima bez zatvarača. Na rukavima i kragni ima reflektirajuće trake bijele boje. Kišne hlače su tamnoplave boje, uobičajenog kroja bez džepova, s tregerima.

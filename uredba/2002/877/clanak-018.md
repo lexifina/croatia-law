@@ -1,0 +1,4 @@
+# Članak 18.
+Pododijelo je izrađeno od prošivene tkanine i sastoji se od gornjeg i donjeg dijela. Na prednjici gornjeg dijela je jedan opšiveni džep, a zakopčava se zatvaračem. Na ovratnik i rukave ušiven je render. Na produljenom dijelu leđa našiven je čičak traka za kopčanje. Na bočnom šavu gornjeg dijela našivena je guma. Donji dio je bez džepova i s donje strane završava renderom, dok je gornji dio i prednji otvor opšiven trakom. Prednji otvor kopča se čičak trakom, a u struku je ušivena guma.
+Za kombinezon iz članka 17. točka 2. važi odredba članka 7. stavak 8. ove Uredbe.
+Terenske čizme imaju visoku saru, crne su boje, izrađene od prirodne hidrofobirane kože, s gumenim đonom. Sare su visine 21 cm, podložene su spužvom. Jezik je ugrađen u cipelu i zatvorenog je tipa. Podstava je od goveđeg krom cjepanika. Gornjište je dva puta prišiveno za tabanicu, a đon je lijepljen.
