@@ -1,0 +1,2 @@
+# Članak 70.
+Skrb izvan vlastite obitelji osigurava se tjelesno i mentalno oštećenoj osobi kad je to najsvrhovitije radi njihova čuvanja i odgoja, školovanja, osposobljavanja ili psihosocijalne rehabilitacije (poticanja grafo-motorike, poticanja perceptivno-motoričke sposobnosti, poticanja kognitivnog razvoja, stimulacije ostatka vida, kretanja u prostoru, auditivnog treninga, služenja Brajevim pismom, neverbalne komunikacije i razvoja aktivnosti samoposluživanja), i to u obliku i na način koji odgovara njihovoj dobi, vrsti i stupnju njihova tjelesnog i mentalnog oštećenja.

@@ -1,0 +1,3 @@
+# Članak 74.
+(1) Djetetu koje se zatekne u skitnji bez nadzora roditelja ili drugih odraslih osoba, kao i odrasloj osobi koja se zatekne izvan mjesta prebivališta ili stalnog boravišta, a nije u stanju brinuti se o sebi ili ga je zatekla druga nedaća, osigurava se privremena skrb izvan vlastite obitelji dok se ne ostvari povratak u vlastitu ili udomiteljsku obitelj, dom socijalne skrbi ili se njegov smještaj osigura na drugi način.
+(2) Privremeni smještaj pod uvjetima iz stavka 1. ovoga članka može se osigurati i stranom državljaninu, kao i osobi bez državljanstva, koja nema prebivalište u Republici Hrvatskoj.

@@ -1,0 +1,3 @@
+# Članak 138.
+(1) Ako centar za socijalnu skrb rješava o pravima koja utvrđuje i osigurava općina, grad, odnosno Grad Zagreb, međusobna prava, obveze i odgovornost centra za socijalnu skrb i općine, grada, odnosno Grada Zagreba utvrdit će se ugovorom sklopljenim između nadležnog tijela općine, grada, odnosno Grada Zagreba i centra za socijalnu skrb uz prethodnu suglasnost ministarstva nadležnog za poslove socijalne skrbi.
+(2) Centar za socijalnu skrb dužan je sklopiti ugovor s nadležnim tijelom općine, grada, odnosno Grada Zagreba ako su osigurali u većem iznosu pomoć koju osigurava Republika Hrvatska.

@@ -1,0 +1,2 @@
+# Članak 209.
+Korisniku prava i oblika socijalne zaštite koji nije obuhvaćen člankom 208. ovoga Zakona, a koristi ih na osnovi pod uvjetima Zakona o socijalnoj zaštiti, osiguravaju se ta prava i oblici i nakon stupanja na snagu ovoga Zakona dok mjesno nadležan centar za socijalnu skrb ne utvrdi ima li korisnik uvjete za neko od prava utvrđenih ovim zakonom, s tim da je centar za socijalnu skrb to dužan učiniti najkasnije u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,4 @@
+# Članak 182.
+(1) Inspektor podnosi izvješće o svom radu, uočenim problemima osiguranja socijalne skrbi kod fizičkih i pravnih osoba čiji rad nadzire te prijedloge mjera za poboljšanje skrbi ministru nadležnom za poslove socijalne skrbi.
+(2) Inspektor je dužan bez odgađanja pisano izvijestiti ministra nadležnog za poslove socijalne skrbi ako utvrdi da dom socijalne skrbi, centar za pomoć i njegu ili druga fizička ili pravna osoba koja obavlja poslove socijalne skrbi ne ispunjava propisane uvjete za rad, grubo postupa suprotno zakonu ili drugom propisu ili teže ugrožava prava korisnika.
+(3) Inspektor je dužan bez odgađanja u pisanom obliku izvijestiti ministra nadležnog za poslove socijalne skrbi ako utvrdi da dom socijalne skrbi, centar za pomoć i njegu ili druga fizička ili pravna osoba koja obavlja poslove socijalne skrbi nije u roku otklonio nedostatke koje je naredio rješenjem iz članka 179. ovoga Zakona.

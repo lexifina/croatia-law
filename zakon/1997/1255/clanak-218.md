@@ -1,0 +1,2 @@
+# Članak 218.
+Danom početka primjene ovoga Zakona prestaju važiti Zakon o socijalnoj zaštiti ("Narodne novine", br. 10/91. - pročišćeni tekst, br. 19/91. i 26/93.) i članak 2. stavak 2. i 3. članci 6., 7. i 9. Zakona o formiranju i korištenju sredstava solidarnosti za osiguravanje zaštite životnog standarda socijalno ugroženog stanovništva ("Narodne novine", br. 18/89.) i Odluka o socijalnom minimumu ("Narodne novine", br. 71/92., 79/92., 29/93. i 113/93.).

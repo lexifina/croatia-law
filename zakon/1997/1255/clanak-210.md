@@ -1,0 +1,2 @@
+# Članak 210.
+Korisniku naknade za socijalni minimum koji to pravo ostvaruje na osnovi Odluke o socijalnom minimumu ("Narodne novine", br. 71/92., 79/92., 5/93. i 113/93.) osigurava se to pravo, dok mjesno nadležni centar za socijalnu skrb ne utvrdi ima li korisnik pravo na pomoć za uzdržavanje prema ovom Zakonu, s tim da je centar za socijalnu skrb to dužan učiniti najkasnije u roku od 30 dana od dana stupanja na snagu ovoga Zakona.

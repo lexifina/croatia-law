@@ -1,0 +1,2 @@
+# Članak 73.
+Centar za socijalnu skrb odlučuje o izboru doma socijalne skrbi, odnosno podružnice doma za stalni smještaj osobe iz članka 72. ovoga Zakona ovisno o psihičkim i tjelesnim sposobnostima korisnika, njegovim materijalnim mogućnostima, kulturnim navikama, prirodnom okruženju i drugim prilikama u kojima je korisnik živio prije smještaja, popunjenosti doma socijalne skrbi i vrstama usluga koje on pruža.

@@ -1,0 +1,2 @@
+# Članak 61.
+Skrb izvan vlastite obitelji obuhvaća sve oblike smještaja ili boravka u udomiteljskoj obitelji, u domovima socijalne skrbi, kao i one oblike smještaja ili boravka koje pruža vjerska zajednica, trgovačko društvo, udruga i druga domaća i strana pravna i fizička osoba, kojima se korisniku osigurava stanovanje, prehrana, čuvanje, briga o zdravlju, odgoj i obrazovanje, psihosocijalna rehabilitacija, njega i druge potrebe.

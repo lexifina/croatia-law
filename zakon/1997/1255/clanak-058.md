@@ -1,0 +1,3 @@
+# Članak 58.
+(1) Ako roditelji osobe koja ostvaruje pravo na osobnu invalidninu koriste: porodni dopust, dopust do sedme godine djetetova života po posebnim propisima, pravo na rad s polovicom punog radnog vremena radi njege teže tjelesno ili mentalno oštećenoga djeteta, a dijete dnevno boravi u predškolskoj, školskoj ili zdravstvenoj ustanovi ili domu socijalne skrbi, osobna se invalidnina isplaćuje u iznosu od 125% osnovice iz članka 16. stavka 1. ovoga Zakona.
+(2) Ako osoba iz članka 55. ovoga Zakona koristi stalni ili tjedni smještaj izvan vlastite obitelji ne može ostvariti pravo na osobnu invalidninu.

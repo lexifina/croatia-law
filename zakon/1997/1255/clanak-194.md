@@ -1,0 +1,3 @@
+# Članak 194.
+(1) Roditelji djeteta, korisnika stalnog smještaja, dužni su plaćati, odnosno sudjelovati u plaćanju cijene smještaja u iznosu doprinosa za uzdržavanje dosuđenog prema propisima o obiteljskim odnosima.
+(2) Ako iznos doprinosa za uzdržavanje djeteta nije utvrđen prema propisima o obiteljskim odnosima, roditelji ili drugi obveznici uzdržavanja djeteta i centar za socijalnu skrb sporazumom će utvrditi plaćanje, odnosno sudjelovanje u plaćanju cijene smještaja, a ako se o tome ne sporazumiju, centar za socijalnu skrb kod suda će pokrenuti postupak za utvrđivanje doprinosa za uzdržavanje.

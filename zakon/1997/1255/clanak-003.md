@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Socijalna skrb je djelatnost od posebnog interesa za Republiku Hrvatsku kojom se osigurava i ostvaruje pomoć za podmirenje osnovnih životnih potreba socijalno ugroženih, nemoćnih i drugih osoba koje one same ili uz pomoć članova obitelji ne mogu zadovoljiti zbog nepovoljnih osobnih, gospodarskih, socijalnih i drugih okolnosti.
+(2) Radi sprječavanja, ublažavanja i otklanjanja uzroka i stanja socijalne ugroženosti socijalnom skrbi pruža se potpora obitelji, posebice djeci i drugim osobama koje ne mogu brinuti same o sebi.
+(3) Predškolske, školske i zdravstvene ustanove, policija, pravosudna i druga državna tijela, pravne i fizičke osobe koje su po posebnim zakonima određeni za brigu o obitelji, djeci i drugim osobama koje se ne mogu brinuti same o sebi, radi zaštite njihovih interesa dužne su surađivati s ustanovama socijalne skrbi.
