@@ -1,0 +1,2 @@
+# Članak 5.
+Sva jata peradi na farmama i reprodukcijska jata moraju biti imuna protiv njukaslske bolesti. Laboratorijska provjera imunosti obavlja se postupkom inhibicije hemaglutinacije i ELISA prije i nakon cijepljenja i obvezna je za sva jata peradi. Broj ili postotak uzoraka krvnih seruma, što određuje nadležni veterinarski inspektor, laboratorijski se pretražuje temeljem prethodno pribavljenog mišljenja ovlaštene dijagnostičke organizacije.
