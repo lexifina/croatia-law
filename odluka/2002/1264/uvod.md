@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o izmjenama i dopunama Uredbe o standardima kakvoće tekućih naftnih goriva (»Narodne novine«, broj 66/99), Vlada Republike Hrvatske je na sjednici održanoj 27. lipnja 2002. godine donijela
