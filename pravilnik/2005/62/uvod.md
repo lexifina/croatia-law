@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2., članka 11. stavaka 2. i 5. te članka 12. stavka 3. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 137/04 - pročišćeni tekst) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
