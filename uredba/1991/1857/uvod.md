@@ -1,0 +1,1 @@
+Temeljem odredbi članka 23. st. 2. i članka 21. st.1 Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91 i 14/91), Vlada Republike Hrvatske na sjednici održanoj 24. prosinca 1991, donijela je
