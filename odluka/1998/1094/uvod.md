@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o izvlaštenju ("Narodne novine", br. 9/94 i 35/94), a povodom prijedloga INA - Industrije nafte d.d., Zagreb, Vlada Republike Hrvatske je na sjednici održanoj 4. lipnja 1998. godine, donijela
