@@ -1,0 +1,5 @@
+# Članak 15.
+Ukoliko bi brod jedne od ugovornih stranaka bio sudionikom pomorske nezgode ili neke druge katastrofe u teritorijalnom moru i unutrašnjim morskim vodama druge ugovorne stranke, brod, putnici, posada i brodski teret uživat će ista prava i olakšice koje ta ugovorna stranka, u sličnim situacijama, dodjeljuje brodovima pod vlastitom zastavom.
+Tamo gdje je potrebno privremeno uskladištiti teret i ostalu imovinu odbačenu ili spašenu s broda koji je doživio pomorsku nezgodu na području druge ugovorne stranke, potonja ugovorna stranka će poduzeti sve da osigura potrebne usluge. Spašeni teret i imovina neće biti podložni carinjenju ukoliko nisu namijenjeni potrošnji ili upotrebi na državnom području druge ugovorne stranke.
+Nadležne vlasti ugovorne stranke u čijem se teritorijalnom moru ili unutrašnjim morskim vodama brod druge ugovorne stranke nalazi u jednoj od situacija navedenih u stavku 1. ovog članka, izvijestiti će bez odgode najbližeg diplomatskog predstavnika druge ugovorne stranke.
+BRODARI

@@ -1,0 +1,7 @@
+# Članak 11.
+Nositeljima osobnih identifikacijskih isprava jedne od ugovornih stranaka navedenih u članku 10. ovog Ugovora bit će dopušteno:
+1. isrkcati se na obalu bez vize tijekom boravka broda u luci druge ugovorne stranke, ukoliko kapetan broda nadležnim vlastima dostavi popis posade u skladu sa zakonima i propisima te ugovorne stranke;
+2. ući na područje druge ugovorne stranke ili prijeći u tranzitu preko njezinog državnog područja kao putnici u bilo kojem prijevoznom sredstvu kad god su na putu za ukrcaj na brod, prelazak na drugi brod ili povratak u matičnu zemlju ili iz drugih razloga odobrenih od strane te druge zemlje;
+3. boraviti na državnom području druge ugovorne stranke u slučaju bolesti ili ozljede, tijekom vremena potrebnog za oporavak sukladno zakonima i propisima odnosne ugovorne stranke.
+Nositelji osobnih identifikacijskih isprava iz članka 10. ovog Ugovora upisani u popis članova posade broda, mogu ući na područje i putovati preko područja druge ugovorne stranke u slučaju pomorske nezgode ili neke druge katastrofe, kako bi se ukrcali na brod u cilj povratka u matičnu zemlju, ili nekog drugog razloga koji je prihvatljiv nadležnim vlastima druge ugovorne stranke, a u skladu sa zakonima i propisima te ugovorne stranke.
+Ukoliko u takvim slučajevima zakonodavstvo odnosne zemlje predviđa zahtijevanje viza, vlasti te ugovorne stranke izdat će vizu u najkraćem mogućem vremenu.
