@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o priznanju Hrvatskoga sabora »Zlatni grb« (»Narodne novine«, br. 66/02.) u članku 9. stavak 1. mijenja se i glasi:
+»Zlatni grb će se oduzeti pravomoćno kazneno osuđenim osobama za: kazneno djelo protiv života i tijela, protiv slobode i prava čovjeka i građanina, protiv dostojanstva osobe i morala, protiv braka, obitelji i mladeži, protiv gospodarstva, protiv imovine, protiv pravosuđa, protiv javnog reda i pravnog poretka, protiv službenih dužnosti i javnih ovlasti, protiv Republike Hrvatske, kao i osobama osuđenima na bezuvjetnu kaznu zatvora u trajanju od najmanje tri godine.«
