@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 14. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 27. sjednici, održanoj 12. prosinca 2001. godine, donijelo je
