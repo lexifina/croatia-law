@@ -1,0 +1,1 @@
+Na temelju članka 23. stavaka 1. i 3. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 22. travnja 1999. godine donijela
