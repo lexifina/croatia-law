@@ -1,0 +1,2 @@
+# Članak 12.
+Građani koji imaju registrirano oružje, a od nadnevka registracije je proteklo deset i više godina, dužni su u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona obaviti liječnički pregled poradi utvrđivanja sposobnosti za držanje ili za držanje i nošenje oružja te uvjerenje o tome predočiti nadležnom tijelu u roku od 30 dana od dana ishođenja uvjerenja o zdravstvenoj sposobnosti.
