@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Članom Upravnog vijeća može biti imenovan državljanin Republike Hrvatske, s prebivalištem u Republici Hrvatskoj, koji ima najmanje visoku stručnu spremu tehničke, pravne ili ekonomske struke, uz dobro poznavanje engleskog jezika i radno iskustvo od najmanje sedam godina, od čega barem pet godina na poslovima s područja energetike.
+(2) Članom Upravnog vijeća ne može biti imenovana osoba koja je pravomoćno osuđena za kazneno djelo koje je čini nedostojnom obavljanja dužnosti člana Upravnog vijeća, koja obnaša dužnost zastupnika Hrvatskoga sabora ili člana predstavničkog tijela jedinice lokalne samouprave ili područne (regionalne) samouprave i izvršne vlasti te središnjim tijelima političkih stranaka, ili koja je u radnom odnosu u energetskom subjektu na kojega se primjenjuju odredbe ovoga Zakona.
+(3) Funkcija člana Upravnog vijeća obavlja se kao jedino zanimanje.

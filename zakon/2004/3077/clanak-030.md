@@ -1,0 +1,2 @@
+# Članak 30.
+Upravno vijeće dužno je zatražiti prethodnu suglasnost Vlade Republike Hrvatske na Statut Agencije u roku od 30 dana od dana konstituiranja Upravnoga vijeća. Upravno vijeće će u roku od 30 dana od dana donošenja Statuta Agencije podnijeti prijavu za brisanje Vijeća za regulaciju energetskih djelatnosti iz sudskog registra te podnijeti prijavu za upis Agencije u sudski registar ustanova.

@@ -1,0 +1,2 @@
+# Članak 17.
+Član Upravnog vijeća i članovi njegove uže obitelji ne mogu biti vlasnici, dioničari ili imatelji udjela u energetskim subjektima više od 0,5 % temeljnoga dioničkog kapitala, članovi uprave ili nadzornih odbora ili bilo kojih drugih tijela u energetskim subjektima, te im nije dopušteno imati materijalni interes u području energetskih djelatnosti i nije im dopušteno obavljati druge poslove u energetskom subjektu na kojega se primjenjuju odredbe ovoga Zakona, zbog čega bi moglo doći do sukoba interesa.
