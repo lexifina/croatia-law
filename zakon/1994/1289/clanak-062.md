@@ -1,5 +1,5 @@
 # Članak 62.
-Strane pravne i fizičke osobe smiju obavljati djelatnost uzgoja riba i drugih morskih organizama.
-Strane pravne i fizičke osobe smiju započeti obavljati djelatnost uzgoja riba i drugih morskih organizama:
-1. ako su u Republici Hrvatskoj registrirale podružnicu za uzgoj riba i drugih morskih organizama, i
-2. ako ispunjavaju uvjete propisane u članku 27. ovoga Zakona.
+Inspektori u provedbi inspekcijskog nadzora:
+- pregledavaju isprave i poslovne spise pravnih i fizičkih osoba koje obavljaju ribolov, uzgoj i promet riba i drugih morskih organizama,
+- nadziru obavlja li se ribolov i uzgoj sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega,
+- nadziru obavlja li se promet riba i drugih morskih organizama sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega.

@@ -1,5 +1,9 @@
-## V. NAKNADA ZA RIBOLOV
 # Članak 37.
-Naknada za ribolov iz članka 7. stavka 4. ovoga Zakona prihod je državnoga proračuna.
-Naknada za ribolov se koristi za financiranje praćenja stanja biološkoga bogatstva mora u svrhu racionalnoga gospodarenja kao i za financiranje mjera unapređenja morskoga ribarstva.
-Način određivanja visine naknade za ribolov kao i način njezina usmjeravanja za namjene iz stavka 2. ovoga članka propisuje ministar.
+Povlasticu za uzgoj izdaje područna jedinica Ministarstva.
+Povlastica za uzgoj mora sadržavati:
+1. tvrtku pravne osobe ili ime i prezime fizičke osobe kojoj se izdaje povlastica za uzgoj,
+2. područje ili zonu na kojoj se obavlja uzgoj,
+3. pravni akt (ugovor o koncesiji) na temelju kojeg se pomorsko dobro može upotrebljavati za uzgoj,
+4. količinu i vrste riba i drugih morskih organizama koji se smiju uzgajati.
+Za svaki dio pomorskoga dobra na kojem se obavlja uzgoj, izdaje se posebna povlastica.
+Obrazac povlastice za uzgoj propisuje ministar.

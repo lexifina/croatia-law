@@ -1,5 +1,2 @@
 # Članak 56.
-Inspekcijske poslove u prvom stupnju obavljaju inspektori.
-Protiv rješenja inspektora može se izjaviti žalba Ministarstvu.
-O žalbama odlučuje posebna komisija Ministarstva od najmanje tri člana, koje imenuje ministar.
-Žalba izjavljena protiv rješenja iz stavka 2. ovoga članka ne zadržava izvršenje rješenja.
+Prije donošenja propisa iz članka 48. stavka 3. točke 1., 2., 3. i 4., članka 49. stavka 1. točke 1., 2., 3., 5. i 6., članka 52. stavka 1. prije izdavanja suglasnosti iz članka 52. stavka 2. te prije izdavanja dozvole iz članka 52. stavka 3. ovoga Zakona ministar mora zatražiti znanstveno i stručno mišljenje od pravne osobe registrirane za poslove istraživanja mora kao i od strukovnih grupa ribara udruženih pri Hrvatskoj gospodarskoj komori i Hrvatskoj obrtničkoj komori.

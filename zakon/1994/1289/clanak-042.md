@@ -1,5 +1,3 @@
 # Članak 42.
-Radi racionalnog gospodarenja obnovljivim biološkim bogastvima mora uspostavlja se program praćenja na cjelokupnom ribolovnom moru ili njegovim dijelovima, a obuhvaća naročito :
-- praćenje stanja naselja riba i drugih morskih organizama od interesa za morsko ribarstvo,
-- praćenje kvalitete dijelova pomorskog dobra na kojima se obavlja djelatnost uzgoja..
-Sadržaj, način i opseg provedbe programa iz stavka 1. ovoga članka propisuje ministar.
+Uzgojem mora upravljati osoba stručno osposobljena za uzgoj.
+Uvjerenje o stručnoj osposobljenosti za obavljanje uzgoja mora osoba iz stavka 1. ovoga članka uvijek imati kod sebe kada se nalazi na uzgajalištu.

@@ -1,2 +1,2 @@
 # Članak 29.
-Protiv upravnoga akta iz članka 28. stavka 1. ovoga Zakona može se izjaviti žalba Ministarstvu.
+Broj odobrenja u određenoj ribolovnoj zoni ministar može ograničiti radi zaštite gospodarskih važnih vrsta riba i drugih morskih organizama.

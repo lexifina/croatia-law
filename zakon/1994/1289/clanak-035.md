@@ -1,2 +1,2 @@
 # Članak 35.
-Na udaljenosti manjoj od 100 metara od oznake položaja uzgajališta zabranjeno je obavljanje ribolova i drugih radnji koje mogu ometati djelatnost uzgoja.
+Način, vrstu i količinu ribolovnih alata i opreme koja se smije upotrebljavati u obavljanju rekreacijsko-športskog ribolova, te obrazac i sadržaj dozvole za rekreacijsko-športski ribolov propisuje ministar.

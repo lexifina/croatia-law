@@ -1,4 +1,4 @@
-## Protiv rješenja o oduzimanju povlastice iz stavka 2. ovoga članka može se izjaviti žalba Ministarstvu
+## IV. REKREACIJSKO-ŠPORTSKI RIBOLOV
 # Članak 31.
-Područna jedinica Ministarstva koja izdaje povlastice za uzgoj vodi registar o izdanim povlasticama za uzgoj.
-Oblik, sadržaj i način vođenja registra za uzgoj propisuje ministar.
+Rekreacijsko-športski ribolov u ribolovnom moru smije se obavljati samo na temelju dozvole za rekreacijsko-športski ribolov (u tekstu koji slijedi: dozvola).
+Dozvolu mora ovlaštenik uvijek imati kod sebe kada obavlja rekreacijsko-športski ribolov.

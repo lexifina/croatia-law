@@ -1,5 +1,8 @@
 # Članak 45.
-Pravna ili fizička osoba koja počini štetu postupajući suprotno odredbama ovoga Zakona dužna je tu štetu nadoknaditi.
-Kriterije za utvrđivanje visine naknade štete iz stavka 1. ovoga članka propisuje ministar.
-Sredstva prikupljena na ime naknada od šteta nanesenih morskim organizmima iz stavka 1. ovoga članka prihod su državnoga proračuna i koriste se za financiranje unapređenja morskog ribarstva.
-Način usmjeravanja prikupljenih sredstava za namjene iz stavka 3. ovoga članka propisuje ministar.
+Stručna osposobljenost za obavljanje uzgoja dokazuje se uvjerenjem o stručnoj osposobljenosti za obavljanje uzgoja koje izdaje Ministarstvo.
+Uvjerenje o stručnoj osposobljenosti za obavlanje uzgoja izdat će se osobi koja je položila ispit prema Programu za obavljanje uzgoja riba i drugih morskih organizama.
+Stručna osposobljenost za obavljanje uzgoja provjerava posebno stručno povjerenstvo od najmanje tri člana koje imenuje ministar.
+Uvjerenje o stručnoj osposobljenosti za obavljanje uzgoja, bez obveze polaganja ispita iz stavka 2. ovoga članka, izdat će se osobi koja je na temelju ranijih propisa stručno osposobljena za obavljanje uzgoja.
+Program ispita za obavljanje uzgoja, obrazac i način izdavanja uvjerenja o stručnoj osposobljenosti za obavljanje uzgoja propisuje ministar.
+Ministarstvo vodi registar o izdanim uvjerenjima o stručnoj osposobljenosti za obavljanje uzgoja.
+Oblik sadržaj i način vođenja registra o izdanim uvjerenjima o stručnoj osposobljenosti za obavljanje uzgoja propisuje ministar.

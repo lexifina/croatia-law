@@ -1,3 +1,5 @@
 # Članak 33.
-Uzgojem mora upravljati osoba stručno osposobljena za uzgoj.
-Uvjerenje o stručnoj osposobljenosti za obavljanje uzgoja mora osoba iz stavka 1. ovoga članka uvijek imati kod sebe kada se nalazi na uzgajalištu.
+Rekreacijsko-športski ribolov smije se obavljati uz upotrebu dozvoljenih ribolovnih alata i opreme.
+U rekreacijsko-športskom ribolovu dozvoljeno je dnevno uloviti i sakupiti do 5 kilograma riba i drugih morskih organizama.
+U količinu ulova iz stavka 2. ovoga članka ne ubraja se ulov riba hrskavičnjača kao i jedna riba ili drugi morski organizam teži od 5 kilograma.
+Ribe i drugi morski organizmi ulovljeni u obavljanju rekreacijsko-športskoga ribolova ne smiju se stavljati u promet.

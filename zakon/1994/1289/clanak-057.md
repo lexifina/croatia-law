@@ -1,3 +1,5 @@
+## VIII. PODACI O RIBOLOVU I UZGOJU
 # Članak 57.
-Poslove inspektora može obavljati osoba koja ima najmanje VI/1 stupanj stručne spreme ribarskog, veterinarskog, biološkog, biotehnološkog, agronomskog, pomorskog i pravnog smjera, pet godina radnoga iskustva u struci i položen stručni ispit za ribarskoga inspektora.
-Program stručnog ispita za inspektora, sastav ispitne komisije i način polaganja stručnog ispita propisuje ministar.
+Pravne i fizičke osobe koje obavljaju gospodarski ribolov i uzgoj moraju voditi očevidnik o gospodarskom ribolovu i uzgoju.
+Očevidnik iz stavka 1. ovoga članka mora se uvijek nalaziti na plovilu kojim se obavlja ribolov odnosno na uzgajalištu.
+Oblik, sadržaj i način vođenja očevidnika o gospodarskom ribolovu i uzgoju, propisuje ministar.

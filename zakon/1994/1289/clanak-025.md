@@ -1,4 +1,4 @@
 # Članak 25.
-Odobrenje za održavanje natjecanja u rekreacijsko-športskom ribolovu izdaje nadležna područna jedinica Ministarstva.
-Za državna i međunarodna natjecanja odobrenje izdaje Ministarstvo.
-Za vrijeme trajanja natjecanja u rekreacijsko-športskom ribolovu količina ulova nije ograničena.
+Zahtjev za izdavanje odobrenja rješava nadležna područna jedinica Ministarstva rješenjem u roku od mjesec dana od dana uredno podnesenog zahtjeva.
+U slučaju da tijelo iz stavka 1. ovoga članka nije donijelo rješenje u propisanom roku, smatra se da je odobrenje dano.
+Protiv rješenja kojim se rješava o zahtjevu za izdavanje odobrenja može se izjaviti žalba Ministarstvu.

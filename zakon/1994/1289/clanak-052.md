@@ -1,5 +1,4 @@
 # Članak 52.
-Inspektori u provedbi inspekcijskog nadzora:
-- pregledavaju isprave i poslovne spise pravnih i fizičkih osoba koje obavljaju ribolov, uzgoj i promet riba i drugih morskih organizama,
-- nadziru obavlja li se ribolov i uzgoj sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega,
-- nadziru obavlja li se promet riba i drugih morskih organizama sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega.
+Radi zaštite riba i drugih morskih organizama ministar utvrđuje posebna staništa riba i drugih morskih organizama (u tekstu koji slijedi: posebna staništa).
+Posebna staništa su dijelovi ribolovnog mora u kojima je zabranjen ribolov.
+Radi pravilnog gospodarenja ministar može u posebnom staništu, na određeno vrijeme i s određenim ribolovnim alatima i opremom dozvoliti ribolov.

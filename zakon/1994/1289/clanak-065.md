@@ -1,12 +1,4 @@
 # Članak 65.
-Novčanom kaznom u iznosu od 2.000 do 10.000 kuna kaznit će se za prekršaj pravna, odnosno fizička osoba:
-1. ako na udaljenosti manjoj od propisane od oznake položaja uzgajališta obavlja ribolov ili druge radnje koje ometaju djelatnost uzgoja (članak 35.),
-2. ako ne plaća naknadu za ribolov (članak 7. stavak 4.),
-3. ako nema dozvolu Ministarstva kada zbog znanstvenih istraživanja obavlja lov ili sakupljanje obavlja protivno uvjetima propisanim ovim Zakonom i propisima donesenim na temelju njega (članak 46.),
-4. ako ne vodi očevidnik o gospodarskom ribolovu ili uzgoju (članak 48. stavak 1.),
-5. ako se očevidnik o gospodarskom ribolovu ili uzgoju ne nalazi na plovilu kojim se obavlja ribolov odnosno na uzgajalištu (članak 48. stavak 2.),
-6. ako ne dostavlja podatke o gospodarskom ribolovu ili uzgoju (članak 49. stavak 1.),
-7. ako inspektoru ili ovlaštenom inspektoru ne omogući obavljanje inspekcijskoga nadzora ili im ne pruži potrebne podatke i obavijesti (članak 60.).
-Za radnje iz stavka 1. ovoga članka kaznil će se za prekršaj novčanom kaznom u iznosu od 400 do 2.000 kuna i odgovorna osoba u pravnoj osobi.
-Za radnje iz stavka 1. točke 1., 3., 4.. 5. i 7. ovoga članka kaznit će se za prekršaj novčanom kaznom u iznosu od 400 do 2.000 kuna i zapovjednik ili voditelj plovila kojim se obavljao ribolov.
-Za istovjetne prekršaje iz stavka 1. točke 2., 3. i 6. ovoga članka, učinjene drugi puta pravnoj ili fizičkoj osobi, pored novčane kazne izreći će im se i zaštitna mjera oduzimanja povlastice za obavljanje ribolova ili uzgoja u trajanju od najmanje tri do najviše šest mjeseci, dok će im se za po treći puta učinjene prekršaje iz stavka 1 točke 2.. 3. i 6 ovoga članka pored novčane kazne, izreći i zaštitna mjera oduzimanja povlastice za obavljanje gospodarskog ribolova ili uzgoja u trajanju od najmanje tri do najviše pet godina.
+Ukoliko inspektor utvrdi da je povrijeđen ovaj Zakon ili drugi propis donesen na temelju njega, može privremeno do donošenja rješenja o izvršenom prekršaju odnosno presude o izvršenom kaznenom djelu, oduzeti ulovljene ribe i druge morske organizme, alate i opremu za ribolov kao i plovilo, koji su poslužili za izvršenje prekršaja ili kaznenog djela, a mogu u prekršajnom ili kaznenom postupku poslužiti kao dokaz.
+O privremenom oduzimanju izdaje se potvrda.
+U slučaju kada se privremeno do odluke nadležnoga državnog tijela oduzimaju alati i oprema za ribolov kao i plovilo, prijava, odnosno zahtjev se mora podnijeti u roku od 48 sati, a nadležno državno tijelo o prijavi, odnosno zahtjevu odlučuje u hitnom postupku.

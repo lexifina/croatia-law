@@ -1,5 +1,7 @@
 # Članak 24.
-Rekreacijsko-športski ribolov smije se obavljati uz upotrebu dozvoljenih ribolovnih alata i opreme.
-U rekreacijsko-športskom ribolovu dozvoljeno je dnevno uloviti i sakupiti do 5 kilograma riba i drugih morskih organizama.
-U količinu ulova iz stavka 2 ovoga članka ne ubraja se ulov riba hrskavičnjača kao i jedna riba ili drugi morski organizam teži od 5 kilograma.
-Ribe i drugi morski organizmi ulovljeni u obavljanju rekreacijsko-športskoga ribolova ne smiju se stavljati u promet.
+Odobrenje mora sadržavati:
+1. ime i prezime, adresu (mesto, ulica i broj) te jedinstveni matični broj građanina kojem se izdaje odobrenje,
+2. ime i luku upisa ili registarsku oznaku, veličinu (u metrima i BT) te vrstu (tip) i snagu pogonskog porivnog stroja (u kW i KS) plovila kojima se obavlja mali ribolov,
+3. vrstu i količinu ribolovnih alata i opreme kojima se smije obavljati mali ribolov,
+4. ribolovne zone na kojima se može obavljati mali ribolov.
+Obrazac odobrenja propisat će ministar.

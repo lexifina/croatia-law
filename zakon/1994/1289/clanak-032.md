@@ -1,3 +1,3 @@
 # Članak 32.
-Pravne i fizičke osobe smiju obavljati uzgoj na dijelu pomorskoga dobra za koji imaju koncesiju i smiju uzgajati vrste i količine riba i drugih morskih organizama koje su im upisane u povlasticu za uzgoj.
-Povlastica za uzgoj mora se nalaziti na uzgajalištu ili u sjedištu tvrtke.
+Dozvolu za rekreacijsko-športski ribolov izdaje područna jedinica Ministarstva.
+Dozvolu za rekreacijsko-športski ribolov smiju u ime i za račun Ministarstva prodavati pravne i fizičke osobe koje za to ovlasti ministar.

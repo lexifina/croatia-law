@@ -1,2 +1,5 @@
 # Članak 54.
-Ako pravna ili fizička osoba u određenom roku ne provede mjere naređene na temelju ovoga Zakona, te mjere može provesti inspektor ili pravna, odnosno fizička osoba koju on ovlasti, a na trošak pravne ili fizičke osobe koja je bila dužna provesti određenu mjeru.
+Pravna ili fizička osoba koja počini štetu postupajući suprotno odredbama ovoga Zakona dužna je tu štetu nadoknaditi.
+Kriterije za utvrđivanje visine naknade štete iz stavka 1. ovoga članka propisuje ministar.
+Sredstva prikupljena na ime naknada od šteta nanesenih morskim organizmima iz stavka 1. ovoga članka prihod su državnoga proračuna i koriste se za financiranje unapređenja morskog ribarstva.
+Način usmjeravanja prikupljenih sredstava za namjene iz stavka 3. ovoga članka propisuje ministar.

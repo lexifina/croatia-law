@@ -1,9 +1,8 @@
 # Članak 28.
-Povlasticu za uzgoj izdaje područna jedinica Ministarstva.
-Povlastica za uzgoj mora sadržavati:
-1. tvrtku pravne osobe ili ime i prezime fizičke osobe kojoj se izdaje povlastica za uzgoj,
-2. područje ili zonu na kojoj se obavlja uzgoj,
-3. pravni akt (ugovor o koncesiji) na temelju kojeg se pomorsko dobro može upotrebljavati za uzgoj,
-4. količinu i vrste riba i drugih morskih organizama koji se smiju uzgajati.
-Za svaki dio pomorskoga dobra na kojem se obavlja uzgoj, izdaje se posebna povlastica.
-Obrazac povlastice za uzgoj propisuje ministar.
+Odobrenje prestaje važiti odjavom ili smrću građanina.
+Odobrenje se oduzima rješenjem područne jedinice Ministarstva koja je izdala odobrenje:
+1. ako se utvrdi da građanin ne ispunjava jedan od uvjeta navedenih u članku 23. stavku 2. ovoga Zakona,
+2. ako se naknadno utvrdi da je rješenje o odobrenju utemeljeno na neistinitim podacima ili krivotvorenim dokazima,
+3. ako građanin kojem je izdano odobrenje dvije godine uzastopno ne plati naknadu za obavljanje maloga ribolova.
+Protiv rješenja o oduzimanju odobrenja iz stavka 2. ovoga članka može se izjaviti žalba Ministarstvu.
+Rješenje o oduzimanju odobrenja iz stavka 2. ovoga članka dostavlja se i nadležnom ribarskom inspektoru Ministarstva.

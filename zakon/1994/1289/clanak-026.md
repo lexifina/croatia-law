@@ -1,2 +1,3 @@
 # Članak 26.
-Način, vrstu i količinu ribolovnih alata i opreme koja se smije upotrebljavati u obavljanju rekreacijsko-športskog ribolova, te obrazac i sadržaj dozvole za rekreacijsko-športski ribolov propisuje ministar.
+Rješenje o odobrenju upisuje se u Registar o izdanim odobrenjima za obavljanje maloga ribolova koji vodi područna jedinica Ministarstva koja je izdala odobrenje.
+Oblik, sadržaj i način vođenja Registra o izdanim odobrenjima za obavljanje maloga ribolova propisuje ministar.

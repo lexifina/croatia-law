@@ -1,9 +1,8 @@
 # Članak 30.
-Povlastica za uzgoj prestaje vrijediti:
-- istekom roka na koji je dana koncesija za uzgoj na pomorskom dobru,
-- oduzimanjem koncesije od strane davatelja,
-- prestankom pravne osobe odnosno obrta.
-Povlastica za uzgoj oduzima se rješenjem područne jedinice Ministarstva koja je izdala povlasticu za uzgoj ako se utvrdi da pravna ili fizička osoba:
-- nema zaposlene djelatnike stručno osposobljene za uzgoj ili da sama nije stručno osposobljena za uzgoj,
-- uzgaja vrste ili količine riba ili drugih morskih organizama koje nisu upisane u povlasticu za uzgoj,
-- djelatnošću uzgoja ugrožava kriterije o pogodnosti dijelova pomorskog dobra za uzgoj.
+Stručna osposobljenost za obavljanje maloga ribolova dokazuje se uvjerenjem o stručnoj osposobljenosti za obavljanje malog ribolova koje izdaje Ministarstvo.
+Uvjerenje o stručnoj osposobljenosti za obavljanje maloga ribolova izdat će se osobi koja je položila ispit prema Programu za obavljanje maloga ribolova.
+Uvjerenje o stručnoj osposobljenosti za obavljanje maloga ribolova, bez polaganja ispita, izdat će se osobama starijim od 65 godina.
+Uvjerenje o stručnoj osposobljenosti za obavljanje gospodarskog ribolova važi i kao uvjerenje za obavljanje maloga ribolova.
+Stručna osposobljenost za obavljanje malog ribolova provjerava posebno stručno povjerenstvo od najmanje tri člana koje imenuje ministar.
+Program ispita za obavljanje malog ribolova, obrazac i način izdavanja uvjerenja o stručnoj osposobljenosti za obavljanje malog ribolova propisuje ministar.
+Oblik, sadržaj i način vođenja registra o izdanim uvjerenjma o stručnoj osposobljenosti za obavljanje malog ribolova propisuje ministar.

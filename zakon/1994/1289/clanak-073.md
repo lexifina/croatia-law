@@ -1,2 +1,2 @@
 # Članak 73.
-Do ustrojavanja područnih jedinica Ministarstva, njihove poslove obavljat će županijski uredi za gospodarstvo.
+Domaća pravna osoba čiji je osnivač strana pravna ili fizička osoba ne smije obavljati ribolov u ribolovnom moru Republike Hrvatske.

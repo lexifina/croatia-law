@@ -1,4 +1,4 @@
-## IX. POSEBNE ODREDBE
+## Inspekcijski nadzor
 # Članak 61.
-Strane pravne i fizičke osobe smiju obavljati gospodarski ribolov u ribolovnom moru Republike Hrvatske samo u slučajevima utvrđenim međunarodnim ugovorom.
-Strani državljani smiju obavljati rekreacijsko-športski ribolov na temelju dozvole.
+Inspekcijski nadzor nad provedbom odredaba ovoga Zakona i propisa donesenih na temelju njega provode ribarski inspektori Ministarstva i drugi državni službenici koje za to ovlasti ministar (u tekstu koji slijedi: inspektori).
+Inspekcijski nadzor iz stavka 1. ovoga članka na području ribolovnog mora provode i ovlaštene službene osobe Ministarstva unutarnjih poslova.

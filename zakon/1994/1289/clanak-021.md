@@ -1,5 +1,9 @@
 # Članak 21.
-Stručna osposobljenost za obavljanje gospodarskog ribolova provjerava se na ispitu.
-Program ispita za obavljanje gospodarskog ribolova propisuje ministar.
-Stručnu osposobljenost iz stavka 1. ovoga članka provjerava posebno stručno povjerenstvo pri područnoj jedinici Ministarstva.
-Stručno povjerenstvo iz stavka 3. ovoga članka, od najmanje tri člana imenuje ministar.
+Mali ribolov dijeli se na:
+- ribolov mrežama stajačicama,
+- ribolov vršama za lov riba,
+- ribolov ostima sa i bez upotrebe osvjetljenja,
+- ribolov parangalima i drugim udičarskim alatima,
+- ribolov obalnim mrežama potegačama-kogolom i strašinom,
+- skupljanje školjaka.
+Namjenu, vrsti i količinu ribolovnih alata i opreme koja se smije rabiti u malom ribolovu propisat će ministar.

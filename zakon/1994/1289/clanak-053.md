@@ -1,5 +1,2 @@
 # Članak 53.
-Ukoliko nađe da je povrijeđen ovaj Zakon ili drugi propis donesen na temelju njega inspektor ima pravo i obvezu:
-1. rješenjem narediti otklanjanje utvrđenih nedostataka odnosno nepravilnosti u određenom roku,
-2. podnijeti nadležnom državnom tijelu prijavu zbog kaznenog djela odnosno zahtjev za pokretanje prekršajnog postupka te izreći ovim Zakonom utvrđenu prekršajnu kaznu,
-3. poduzeti i druge mjere odnosno izvršiti druge radnje za koje je posebnim propisom ovlašten.
+Zabranjeno je puštati ili bacati u ribolovno more, rijeke koje utječu u to more ili jezera povezana s tim morem, tekuće ili krute otpatke proizvodnje ili prerade ili bilo kakve druge tvari ili materijale koji uništavaju ribe ili druge morske organizme, koje ograničavaju njihov životni prostor i koje štetno utječu na biološke uvjete za njihov opstanak i razvoj.

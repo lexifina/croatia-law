@@ -1,2 +1,4 @@
+## VII. ZAŠTITA RIBA I DRUGIH MORSKIH ORGANIZAMA
 # Članak 47.
-Prije donošenja propisa iz članka 39. stavka 3. točke 1., 2., 3., i 4., članka 40. stavka 1. točke 1., 2., 3., 5. i 6., članka 43. stavka 1. prije izdavanja suglasnosti iz članka 41. stavka 2. te prije izdavanja dozvole iz članka 43. stavka 3. ovoga Zakona ministar mora zatražiti znanstveno i stručno mišljenje od pravne osobe registrirane za poslove istraživanja mora kao i od strukovnih grupa ribara udruženih pri Hrvatskoj gospodarskoj komori i Hrvatskoj obrtničkoj komori.
+Radi zaštite mora, riba i drugih morskih organizama poduzimaju se radnje i provode mjere za zaštitu ribolovnih i uzgojnih područja.
+Radi zaštite hridinaste obale kao posebnog staništa ribolovnog mora zabranjen je izlov prstaca i zabranjeno je njihovo stavljanje u promet na cijelom teritoriju Republike Hrvatske, kao i njihov izvoz.

@@ -1,4 +1,4 @@
-## III. REKREACIJSKO-ŠPORTSKI RIBOLOV
 # Članak 22.
-Rekreacijsko-športski ribolov u ribolovnom moru smije se obavljati samo na temelju dozvole za rekreacijsko-športski ribolov (u tekstu koji slijedi: dozvola).
-Dozvolu mora ovlaštenik uvijek imati kod sebe kada obavlja rekreacijsko-športski ribolov.
+Pod uvjetima utvrđenim ovim Zakonom i propisima donesenim na temelju njega građanin smije započeti obavljanje malog ribolova ako ima odobrenje za obavljanje malog ribolova (u tekstu koji slijedi: odobrenje) izdano od područne jedinice Ministarstva.
+Odobrenje vrijedi samo uz predočenu potvrdu o uplaćenoj naknadi za obavljanje malog ribolova za tekuću kalendarsku godinu.
+Obrazac potvrde o plaćenoj naknadi za obavljanje maloga ribolova, visini novčanog iznosa i način plaćanja naknade propisuje ministar.

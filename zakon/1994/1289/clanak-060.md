@@ -1,2 +1,4 @@
+## IX. UPRAVNI I INSPEKCIJSKI NADZOR
+## Upravni nadzor
 # Članak 60.
-Pravne i fizičke osobe, čiji rad podliježe nadzoru inspektora dužne su im omogućiti obavljanje inspekcijskog nadzora i pružiti potrebne podatke i obavijesti.
+Upravni nadzor nad provedbom odredaba ovoga Zakona i propisa donesenih na temelju njega obavlja Ministarstvo.

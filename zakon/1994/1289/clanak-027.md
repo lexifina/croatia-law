@@ -1,5 +1,3 @@
-## IV. UZGOJ
 # Članak 27.
-Pravne ili fizičke osobe mogu započeti obavljati djelatnost uzgoja:
-1. ako imaju zaposlene djelatnike stručno osposobljene za uzgoj ili su sami stručno osposobljeni za uzgoj,
-2. ako imaju povlasticu za uzgoj izdanu od nadležnog tijela.
+Građanin smije obavljati mali ribolov u najviše tri ribolovne zone, plovilom te vrstama i količinama ribolovnih alata i opreme koji su upisani u odobrenje.
+Odobrenje građanin mora uvijek imati kod sebe kada obavlja mali ribolov.

@@ -1,3 +1,4 @@
 # Članak 34.
-Dijelove pomorskoga dobra za uzgoj utvrđuju skupštine Županija sukladno prostornim planovima županija i kriterijima o pogodnosti dijelova pomorskoga dobra za uzgoj.
-Kriterije o pogodnosti dijelova pomorskoga dobra za uzgoj propisuje ministar uz suglasnost ministra graditeljstva i zaštite okoliša.
+Odobrenje za održavanje natjecanja u rekreacijsko-športskom ribolovu izdaje nadležna područna jedinica Ministarstva.
+Za državna i međunarodna natjecanja odobrenje izdaje Ministarstvo.
+Za vrijeme trajanja natjecanja u rekreacijsko-športskom ribolovu količina ulova nije ograničena.

@@ -1,5 +1,5 @@
+## V. UZGOJ
 # Članak 36.
-Stručna osposobljenost za obavljanje uzgoja provjerava se na ispitu.
-Program ispita za obavljanje uzgoja propisuje ministar.
-Stručnu osposobljenost iz stavka 1. ovoga članka provjerava posebno stručno povjerenstvo pri područnoj jedinici Ministarstva.
-Posebno stručno povjerenstvo iz stavka 3. ovoga članka, od najmanje tri člana, imenuje ministar.
+Pravne ili fizičke osobe mogu započeti obavljati djelatnost uzgoja:
+1. ako imaju zaposlene djelatnike stručno osposobljene za uzgoj ili su sami stručno osposobljeni za uzgoj,
+2. ako imaju povlasticu za uzgoj izdanu od nadležnog tijela.
