@@ -1,0 +1,1 @@
+Na temelju članka 6. UStavnog zakona za provedbu Ustava Republike Hrvatske i člana 70. stava 1. Zakona o zaštiti od elementarnih nepogoda ("Narodne novine", br. 14/78, 31/80 i 53/84), Sabor Republike Hrvatske na sjednici Vijeća udruženog rada 22. veljače 1991., Vijeća općina 22. veljače 1991, i Društveno-političkog vijeća 23. veljače 1991. donio je
