@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99 i 15/2000) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj 17. veljače 2000. godine donijela
