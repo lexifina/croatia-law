@@ -1,0 +1,32 @@
+# Članak 2.
+U smislu ovog pravilnika smatra se da je:
+- pakiranje - postupak stavljanja proizvoda u ambalažu odgovarajuće kakvoće, oblika i načina zatvaranja
+- pakovanje - proizvod u ambalaži s kojom se stavlja u promet
+- pakovina - proizvod koji je bez nazočnosti kupca tako zatvoren da mu se naznačeni sastav i količina ne mogu promijeniti bez otvaranja ili očevidne preinake
+- pakovine istih količina punjenja - pakovine s istim sadržajem, iste opreme, proizvodnje, oznake za proizvod, vrste spremnika i istih nazivnih količina punjenja
+- pakovine nejednakih količina punjenja - pakovine s istim sadržajem, iste opreme, proizvodnje, oznake za proizvod, vrste spremnika, a nejednakih nazivnih količina punjenja
+- skupno pakovanje - pakovanje koje sadrži više pojedinačnih pakovina s istim ili različitim proizvodom složenih u otvorenu ili zatvorenu skupnu ambalažu
+- transportno pakovanje - pakovanje koje sadrži više skupnih pakovanja ili pojedinačnih pakovina složenih u transportnu ambalažu
+- spremnik - ambalaža načinjena od bilo koje vrste gradiva u koji se određeni proizvod slaže i zatvara kako bi se dobila pakovina
+- mjerni spremnik - spremnik načinjen od gradiva koje zadržava stalni oblik boce i koji udovoljava mjeriteljskim zahtjevima propisanim ovim pravilnikom
+- količina punjenja - količina proizvoda u pakovini izražena brojčanom vrijednošću i zakonitom jedinicom fizikalne veličine (masa, obujam, duljina i ploština) ili brojem komada
+- nazivna količina (nazivna masa, obujam, duljina i ploština ili broj komada) punjenja (QN ) - količina proizvoda u pakovini koja je naznačena na pakovini
+- stvarna količina (stvarna masa, obujam i ploština ili broj komada) punjenja (Qn ) - količina proizvoda u pakovini koju stvarno sadrži pakovina
+- ocijeđena masa - masa prehrambenog proizvoda u pakovini nakon propisanog vremena ocjeđivanja naljevne tekućine
+- negativno odstupanje količine punjenja (T) - količina za koju je stvarna količina punjenja manja od nazivne količine punjenja
+- prihvatljiva razina kakvoće (AQL) - najveći dopušteni postotak pakovina u grupi koje ne udovoljavaju mjeriteljskim zahtjevima propisanim ovim pravilnikom, a s kojima se grupa prihvaća kod statističkog ispitivanja
+- dopušteno negativno odstupanje (T2% ) - dopušteno negativno odstupanje stvarne količine punjenja od nazivne količine punjenja za određenu prihvatljivu razinu kakvoće (AQL = 2%)
+- granica područja dopuštenih količina punjenja (T1 ) - količina punjenja jednaka razlici nazivne količine punjenja QN i dopuštenog negativnog odstupanja T2%
+- granica područja nedopuštenih količina punjenja (T2 ) - količina punjenja jednaka razlici nazivne količine punjenja QN i dvostrukog dopuštenog negativnog odstupanja T2%
+- ispravna pakovina - pakovina kojoj je stvarna količina punjenja veća ili jednaka vrijednosti T1
+- nesukladna pakovina - pakovina kojoj je stvarna količina punjenja veća ili jednaka vrijednosti T1
+- neispravna pakovina - pakovina kojoj je stvarna količina punjenja manja od vrijednosti T2
+- obvezatna vrijednost nazivnih količina punjenja - vrijednost nazivnih količina punjenja koje su propisane kao obvezne ovim pravilnikom
+- preporučene vrijednosti nazivnih količina punjenja - vrijednost nazivnih količina punjenja koje su propisane kao preporučene ovim pravilnikom, a na temelju međunarodnih normi, međunarodnih preporuka ili smjernica Europske unije
+- normirane vrijednosti nazivnih količina punjenja - vrijednost nazivnih količina punjenja koje su propisane kao preporučene ovim pravilnikom za pakovine s posebno navedenim proizvodima, a na temelju smjernica Europske unije
+- nacionalne vrijednosti nazivnih količina punjenja - vrijednosti nazivnih količina punjenja koje se koriste na hrvatskom tržištu za pakovine s posebno navedenim proizvodima
+- grupa - sve pakovine istog sadržaja i istih nazivnih količina punjenja proizvedene na jednom radnom mjestu i u određenom vremenskom intervalu
+- veličina grupe (N) - broj pakovina u grupi
+- uzorak - određeni broj pakovina slučajno odabranih iz grupe prema planu uzorkovanja za određenu veličinu grupe
+- veličina uzorka (n) - broj pakovina u uzorku
+- stavljanje u promet - nuđenje, uvoz, skladištenje za zalihe ili izlaganje za prodaju pakovina.

@@ -1,0 +1,8 @@
+## IV. ISPITIVANJE KOLIČINE PUNJENJA
+## MJERNI UREĐAJI
+# Članak 25.
+(1) Proizvođači pakovina istih nazivnih količina punjenja moraju redovito provoditi ispitivanje količine punjenja prema opće priznatim pravilima statističkog osiguranja sustava kakvoće kako bi osigurali ispunjavanje zahtjeva za količinama punjenja iz članaka 19., 20., 21. i 22. ovog pravilnika. Ispitivanje se provodi po opće priznatim mjernim postupcima i s odgovarajućim mjernim uređajima koji udovoljavaju mjeriteljskim zahtjevima utvrđenim u Prilogu 6. koji je sastavni dio ovog pravilnika (u daljnjem tekstu Prilog 6.).
+(2) Nadzorne vage koje udovoljavaju zahtjevima iz Priloga 6. točka 1. mogu se upotrebljavati za ispitivanje količine punjenja ako imaju naljepnicu s natpisom "Mjerni uređaj na nadzor pakovina od …… g (ili kg) do najvećeg tereta". Donja granica mjerenja količine punjenja utvrđena je u Prilogu 6., a gornja granica mjerenja količine punjenja iz najveće nosivosti nadzorne vage.
+(3) Za ispitivanje količina punjenja mjernih spremnika, mase pakovina s pređom, pakovina označenih duljinom, ploštinom ili brojem komada mogu se umjesto mjernih uređaja iz Priloga 6. rabiti drugi pogodni mjerni uređaji ili pribor za obavljanje nadzora.
+(4) Kod pakovina označenih masom ili obujmom o rezultatima ispitivanja sastavlja se ispitno izvješće koje se čuva najmanje do sljedećeg redovnog mjeriteljskog ispitivanja, sukladno članku 33. stavku 1. ovog pravilnika, a na zahtjev ovlaštenih osoba mora im se dati na uvid.
+(5) Od odredbi stavaka 2., 3. i 4. ovog članka mogu se izuzeti pakovine koje nisu označene znakom "e", ako udovoljavaju zahtjevima iz članaka 19., 20., 21. i 22. ovog pravilnika i ako se u tijeku proizvodnje ne primjenjuje automatsko vaganje.
