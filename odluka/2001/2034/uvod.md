@@ -1,0 +1,1 @@
+Na temelju članka 24. Zakona o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« br. 59/01) i članka 27. Statuta općine Runovići, općinsko vijeće na 3. sjednici održanoj 15. prosinca 2001. donijelo je
