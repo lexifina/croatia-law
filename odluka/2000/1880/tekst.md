@@ -1,0 +1,6 @@
+I.
+Izgradnja Radarske postaje Psunj na k.č. br. 684/2, upisane u z.k. ul. br. 121, k.o. Bjelajci, kao društveno vlasništvo, sada izvanknjižno vlasništvo Republike Hrvatske, kojim gospodare »Hrvatske šume«, Javno poduzeće za gospodarenje šumama i šumskim zemljištima u Republici Hrvatskoj, p.o., Zagreb i na k.č. br. 1002/2, upisanoj u z.k. ul. br. 155, k.o. Šumetlica, kao društveno vlasništvo s pravom korištenja Šumskog gospodarstva »Psunj«, sada vlasništvo Republike Hrvatske, kojim gospodare »Hrvatske šume«, Javno poduzeće za gospodarenje šumama i šumskim zemljištima u Republici Hrvatskoj, p.o., Zagreb, u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju Plana izvlaštenja i lokacijske dozvole i dopune lokacijske dozvole izdane od strane Požeško-slavonske županije, Ureda za prostorno uređenje, stambeno-komunalne poslove, graditeljstvo i zaštitu okoliša, Ispostave Pakrac (klasa: UP/I-361-06/97-01/42, urbroj: 2177-04/2-02-97-4), od 21. svibnja 1998. godine i (klasa: UP/I-361-06/97-01/42, urbroj: 2177-04/2-02-98-6), od 23. studenoga 1998. godine, te kopije katastarskog plana s ucrtanom građevinskom parcelom, kao sastavnim dijelom lokacijske dozvole.
+III.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
