@@ -1,0 +1,3 @@
+# Članak 5.
+Iza članka 3. dodaju se članci 3a. i 3b. koji glase: "Članak 3a. Vlasnik iz članka 1a. stavka 1. ovoga Zakona i članovi njegove uže obitelji, plaćaju boravišnu pristojbu umanjenu za 70%. Članovima uže obitelji vlasnika kuće i stana za odmor u smislu ovoga Zakona smatraju se supružnik, djeca, pastorčad, usvojenici, roditelji i usvojitelji.
+Članak 3b. Boravišna pristojba plaća se po svakom ostvarenom noćenju, ako ovim Zakonom nije drukčije odredeno. Boravišnu pristojbu pod jednakim uvjetima plaćaju i strani državljani. Na strane državljane ne primjenjuju se odredbe članka 3a. i 7a. ovoga Zakona."
