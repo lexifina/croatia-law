@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1., članka 21. stavka 5., članka 33. stavka 1. i članka 40. stavka 1. i 2. Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu (»Narodne novine«, br. 29/99., 105/99., 46/00., 101/00., 12/01. i 13/02.), ministar poljoprivrede i šumarstva donosi
