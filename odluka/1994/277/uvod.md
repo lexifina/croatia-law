@@ -1,0 +1,1 @@
+Na temelju članka 99. stavka 1. Ustava Republike Hrvatske, a u svezi s člankom 5. stavkom 1. Odluke o inozemnim uredima Republike Hrvatske, predsjednika Republike Hrvatske ("Narodne novine", broj 21/91), donosim
