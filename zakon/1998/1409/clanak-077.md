@@ -1,0 +1,3 @@
+# Članak 77.
+(1) Kada je osiguranik tijekom kalendarske godine ostvario naknadu plaće za koju se plaćaju doprinosi za mirovinsko osiguranje i naknadu plaće za vrijeme bolovanja prema propisima o zdravstvenom osiguranju, za izračun vrijednosnih bodova za to vrijeme uzimaju se ostvarene naknade plaće.
+(2) Iznimno od odredbe stavka 1. ovoga članka, kada je osiguranik ostvario naknadu plaće za vrijeme bolovanja prema propisima o zdravstvenom osiguranju u razdoblju do 31. prosinca 1998., za to razdoblje uzimaju se prosječni vrijednosni bodovi iz razdoblja u kojem je osiguranik ostvario plaću, odnosno osnovicu osiguranja.

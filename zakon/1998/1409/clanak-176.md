@@ -1,0 +1,3 @@
+# Članak 176.
+(1) Djeca ometena u psihičkom ili fizičkom razvoju koja su ostvarila pravo na osposobljavanje za rad i pravo na novčanu naknadu za vrijeme nezaposlenosti nakon osposobljavanja za rad, prema propisima o mirovinskom i invalidskom osiguranju koji su važili do 31. prosinca 1998., nastavit će koristiti ta prava najkasnije do 31. prosinca 1999.
+(2) Troškove smještaja djece ometene u psihičkom ili fizičkom razvoju u ustanovama internatskog tipa za vrijeme osnovnog i srednjeg školovanja, koje su snosili fondovi mirovinskog i invalidskog osiguranja radnika i samostalnih privrednika, prema propisima o mirovinskom i invalidskom osiguranju koji su važili do 31. prosinca 1998. snosit će Zavod najkasnije do 31. prosinca 1999.

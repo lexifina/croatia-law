@@ -1,0 +1,4 @@
+## XII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 172.
+(1) Korisnicima prava na starosnu mirovinu, prijevremenu starosnu mirovinu, invalidsku mirovinu, obiteljsku mirovinu, minimalnu mirovinu, zaštitni dodatak uz mirovinu, doplatak za pomoć i njegu kao i na novčanu naknadu zbog tjelesnog oštećenja, koji su ta prava ostvarili prema propisima o mirovinskom i invalidskom osiguranju koji su važili do početka primjene ovoga Zakona, osiguravaju se ta prava i nakon toga dana u istom opsegu i usklađuju se prema članku 86. ovoga Zakona.
+(2) Radi primjene članka 86. ovoga Zakona mirovine i ostala mirovinska primanja iz stavka 1. ovoga članka iskazat će se u osobnim bodovima, tako da se svota mirovine i drugog primanja koje pripada 1. siječnja 1999. podijeli s aktualnom vrijednošću mirovine određene 1. siječnja 1999., a obiteljska mirovina podijeli i s mirovinskim faktorom iz članka 80. stavka 1. točke 7. ovoga Zakona.

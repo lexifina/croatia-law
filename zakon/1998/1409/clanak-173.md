@@ -1,0 +1,2 @@
+# Članak 173.
+Djetetu bez oba roditelja, koji su umrli prije početka primjene ovoga Zakona, koje je ostvarilo pravo na obiteljsku mirovinu iza smrti jednog roditelja, na njegov zahtjev odredit će se nova svota mirovine primjenom odredbe članka 79. stavka 8. i članka 80. stavka 1. točke 7. ovoga Zakona. Nova svota obiteljske mirovine pripada od prvog dana idućeg mjeseca nakon dana podnošenja zahtjeva.

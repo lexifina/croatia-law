@@ -1,0 +1,5 @@
+# Članak 34.
+(1) Invalidnost postoji kada je kod osiguranika, zbog promjena u zdravstvenom stanju koje se ne mogu otkloniti liječenjem, radna sposobnost trajno smanjena za više od polovice prema tjelesno i psihički zdravome osiguraniku iste ili slične naobrazbe i sposobnosti (profesionalna nesposobnost za rad). Poslovi prema kojima se ocjenjuje sposobnost za rad osiguranika obuhvaćaju sve poslove koji odgovaraju njegovim tjelesnim i psihičkim sposobnostima, a smatraju se odgovarajućim njegovim dosadašnjim poslovima.
+(2) Invalidnost postoji i kada kod osiguranika zbog promjena u zdravstvenom stanju, koje se ne mogu otkloniti liječenjem, nastane trajni gubitak sposobnosti za rad (opća nesposobnost za rad).
+(3) Invalidnost u smislu stavka 1. i 2. ovoga članka može nastati zbog bolesti, ozljede izvan rada, ozljede na radu ili profesionalne bolesti.
+(4) Kada je kod osiguranika utvrđena profesionalna nesposobnost za rad iz stavka 1. ovoga članka, utvrđuje se preostala radna sposobnost ako se, s obzirom na njegovo zdravstveno stanje, životnu dob, naobrazbu i sposobnost, može profesionalnom rehabilitacijom osposobiti za rad s punim radnim vremenom na drugom poslu.

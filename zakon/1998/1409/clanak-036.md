@@ -1,0 +1,2 @@
+# Članak 36.
+Neposredna opasnost od nastanka invalidnosti postoji kada pri obavljanju određenih poslova uvjeti rada, bez obzira na mjere zaštite na radu koje se primjenjuju ili se mogu primijeniti, utječu na zdravstveno stanje i radnu sposobnost osiguranika iz članka 10. stavka 1. točke 1. ovoga Zakona toliko da je prijeko potrebno, radi sprječavanja nastanka invalidnosti, premjestiti ga na drugi posao primjeren njegovoj naobrazbi i sposobnostima na kojemu može raditi s radnim naporom koji ne pogoršava njegovo zdravstveno stanje, u skladu s propisima o radu.

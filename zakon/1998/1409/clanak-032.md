@@ -1,0 +1,5 @@
+# Članak 32.
+(1) Pravo na starosnu mirovinu i prijevremenu starosnu mirovinu ima osiguranik od dana kada su ispunjeni uvjeti za mirovinu, s tim što se pravo na mirovinu može ostvariti nakon prestanka osiguranja.
+(2) Zahtjev za priznanje prava na starosnu mirovinu i prijevremenu starosnu mirovinu može se podnijeti najranije dva mjeseca prije prestanka osiguranja.
+(3) Kada se pravo na starosnu mirovinu i prijevremenu starosnu mirovinu ostvaruje na zahtjev osiguranika nakon prestanka osiguranja, osiguranik ima pravo na mirovinu od prvoga idućeg dana nakon prestanka osiguranja, ako je zahtjev za ostvarivanje prava na mirovinu podnesen u roku od šest mjeseci od prestanka osiguranja. Ako je zahtjev podnesen nakon isteka navedenoga roka, osiguranik ima pravo na mirovinu od prvoga dana idućeg mjeseca nakon podnošenja zahtjeva i za šest mjeseci unatrag.
+(4) Osiguranici koji su sami obveznici plaćanja doprinosa iz članka 10. stavka 1. točke 4., članka 11. do 14. i članka 16. i 17. ovoga Zakona, mogu ostvariti mirovinu pod uvjetom da su u cijelosti uplatili dospjele doprinose za mirovinsko osiguranje s pripadajućim kamatama.

@@ -1,0 +1,2 @@
+# Članak 193.
+Danom početka primjene ovoga Zakona sve stvari, prava, dionice ili udjeli, novac i ostala sredstva na kojima je pravo vlasništva ili raspolaganja imao ili će steći Republički fond mirovinskog i invalidskog osiguranja radnika Hrvatske, Republički fond mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske i Republički fond mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske i njihovi pravni prednici, postaju vlasništvo Zavoda.

@@ -1,0 +1,3 @@
+# Članak 40.
+(1) Osiguraniku kojemu je priznato pravo na profesionalnu rehabilitaciju prema članku 39. ovoga Zakona dužan je tu rehabilitaciju osigurati poslodavac kod kojega je osiguranik bio zaposlen u vrijeme nastanka invalidnosti, a osiguraniku iz članka 11. i 13. i osobama iz članka 18. do 20. ovoga Zakona profesionalnu rehabilitaciju osigurava Zavod.
+(2) Troškove profesionalne rehabilitacije za osiguranike iz članka 10. stavka 1. ovoga Zakona isplaćuje poslodavac na teret Zavoda, a za osiguranike iz članka 11. i 13. i osobe iz članka 18. do 20. ovoga Zakona troškove profesionalne rehabilitacije isplaćuje Zavod.

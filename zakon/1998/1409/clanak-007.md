@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Republika Hrvatska, jedinice lokalne uprave i samouprave, jedinice lokalne samouprave, poslodavci i Zavod stvaraju uvjete za provedbu prevencije invalidnosti i osiguravaju zaštitu invalida rada, vojnih invalida i drugih osiguranih osoba glede njihova osposobljavanja za rad i zapošljavanje.
+(2) U provedbi mjera prevencije invalidnosti kao što je sanacija radne sredine, higijenski uvjeti rada, zaštita na radu i drugo, čiji su nositelji jedinice lokalne uprave i samouprave, jedinice lokalne samouprave, poslodavci i druge pravne osobe, surađuje i Zavod. Ta se suradnja ostvaruje ugovaranjem sadržaja i oblika prevencije invalidnosti i sudjelovanja u osiguranju sredstava za ostvarivanje ugovorenih mjera prevencije invalidnosti, u skladu s općim aktom Zavoda.

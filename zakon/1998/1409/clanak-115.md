@@ -1,0 +1,3 @@
+# Članak 115.
+(1) Kada se rješava o pravu osiguranika, odnosno osigurane osobe, kao dan nastanka invalidnosti, odnosno tjelesnog oštećenja uzima se dan kada je na temelju pregleda ovlaštenog vještaka dano mišljenje u smislu članka 113. stavka 1. ovoga Zakona. Iznimno, nastanak invalidnosti, odnosno tjelesnog oštećenja, prije obavljenog pregleda može se utvrditi na temelju medicinske dokumentacije iz ranijeg razdoblja.
+(2) Kada se rješava o pravu člana obitelji osiguranika na temelju opće nesposobnosti za rad, pri utvrđivanju dana nastanka takve nesposobnosti uzima se u obzir dan od kojega pripada pravo na obiteljsku mirovinu.

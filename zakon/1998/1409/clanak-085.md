@@ -1,0 +1,5 @@
+# Članak 85.
+(1) Osiguraniku osiguranom u obveznom mirovinskom osiguranju za starost na temelju individualne kapitalizirane štednje, koji u tome osiguranju ne ostvari starosnu mirovinu zbog toga što je kod njega nastala invalidnost prije ispunjenja uvjeta za starosnu mirovinu, određuje se invalidska mirovina za ukupni mirovinski staž prema članku 74. do 82. ovoga Zakona, ako zakonom nije drukčije određeno.
+(2) Članovima obitelji osiguranika osiguranog u obveznom mirovinskom osiguranju za starost na temelju individualne kapitalizirane štednje koji je umro prije ispunjenja uvjeta za starosnu mirovinu, određuje se obiteljska mirovina za ukupni mirovinski staž umrlog osiguranika prema članku 74. do 82. ovoga Zakona, ako zakonom nije drukčije određeno.
+(3) U slučajevima ostvarivanja prava na invalidsku mirovinu i prava na obiteljsku mirovinu prema stavku 1. i 2. ovoga članka, nositelj provedbe obveznoga mirovinskog osiguranja za starost na temelju individualne kapitalizirane štednje nadoknađuje Zavodu kapitaliziranu ukupnu svotu doprinosa koju je osiguranik uplatio u tom osiguranju, ako zakonom nije drukčije određeno.
+11. Usklađivanje mirovina

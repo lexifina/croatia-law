@@ -1,0 +1,3 @@
+# Članak 33.
+Osiguranici koji rade na osobito teškim i za zdravlje i radnu sposobnost štetnim radnim mjestima i osiguranici kojima nakon određenih godina života, zbog naravi i težine posla, fiziološke funkcije organizma opadaju u toj mjeri da onemogućavaju daljnje uspješno obavljanje tog posla kao i osiguranici slijepe osobe, osobe oboljele od distrofije i srodnih mišićnih i neuromišićnih bolesti, oboljeli od paraplegije, cerebralne i dječje paralize, multipleks skleroze, reumatoidnog artritisa, gluhe osobe te osobe kod kojih postoje funkcionalni poremećaji zbog kojih se ne mogu samostalno kretati bez uporabe invalidskih kolica, ostvaruju prava iz obveznoga mirovinskog osiguranja na temelju generacijske solidarnosti prema posebnom zakonu.
+4. Prava na osnovi invalidnosti

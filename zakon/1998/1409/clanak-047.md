@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Invalid rada koji je stekao pravo na profesionalnu rehabilitaciju zbog ozljede izvan rada ili bolesti ima, od dana nastanka invalidnosti do dana početka profesionalne rehabilitacije i od dana završetka profesionalne rehabilitacije do zaposlenja na odgovarajućem radnom mjestu, pravo na naknadu plaće u visini invalidske mirovine za slučaj profesionalne nesposobnosti za rad.
+(2) Invalid rada iz stavka 1. ovoga članka za vrijeme profesionalne rehabilitacije ima pravo na naknadu plaće u visini invalidske mirovine zbog opće nesposobnosti za rad.
+(3) Naknada plaće iz stavka 1. ovoga članka pripada invalidu rada najduže 12 mjeseci od dana završetka profesionalne rehabilitacije pod uvjetom da se u roku od 30 dana od dana završetka profesionalne rehabilitacije prijavio nadležnoj službi zapošljavanja i da se u skladu s propisima o zapošljavanju redovito prijavljuje toj službi.

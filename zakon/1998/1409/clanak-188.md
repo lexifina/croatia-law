@@ -1,0 +1,3 @@
+# Članak 188.
+(1) Poljoprivrednici uključeni u mirovinsko i invalidsko osiguranje na osnovi Zakona o mirovinskom i invalidskom osiguranju individualnih poljoprivrednika ("Narodne novine", br. 26/83., 57/83., 47/86., 40/90. i 96/93.), koji na dan 1. siječnja 1999. ne ispunjavaju uvjete koji se tiču katastarskog i drugog prihoda iz članka 12. stavka 1. točke 3. ovoga Zakona, mogu istupiti iz osiguranja, ako zahtjev za prestanak osiguranja podnesu najkasnije do 31. prosinca 1999.
+(2) Prestanak osiguranja u smislu stavka 1. ovoga članka utvrdit će se rješenjem od prvoga dana idućega mjeseca nakon podnošenja zahtjeva za prestanak osiguranja.
