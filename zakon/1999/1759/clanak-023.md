@@ -1,3 +1,3 @@
 # Članak 23.
-Ministar unutarnjih poslova propisat će mjerila za utvrđivanje tjelesne i duševne sposobnosti za obavljanje poslova profesionalnog i dobrovoljnog vatrogasca te rokove i način obavljanja provjere tih sposobnosti, uz prethodno pribavljeno mišljenje Hrvatske vatrogasne zajednice.
+Ministarstvo unutarnjih poslova, na prijedlog Hrvatske vatrogasne zajednice, propisat će mjerila za utvrđivanje tjelesne i duševne sposobnosti za obavljanje poslova profesionalnog i dobrovoljnog vatrogasca, sukladno propisu iz članka 9. ovoga Zakona, te rokove i način obavljanja tih sposobnosti.
 Ministar zdravstva rješenjem će odrediti zdravstvene ustanove koje će obavljati poslove iz stavka 1. ovoga članka.

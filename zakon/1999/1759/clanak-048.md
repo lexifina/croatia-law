@@ -1,3 +1,3 @@
 # Članak 48.
-Sredstva koja javne vatrogasne postrojbe, dobrovoljna vatrogasna društva i vatrogasne zajednice ostvare vlastitom djelatnošću, sukladno zakonu, mogu se koristiti samo za materijalne troškove, investicijsku izgradnju i nabavu opreme i sredstava za vatrogasnu intervenciju.
-Vatrogasnim postrojbama iz stavka 1. ovoga članka u cijelosti se vraća porez na dodanu vrijednost po računima plaćenim za nabavku opreme, materijala i usluga za obavljanje njihove djelatnosti i to najkasnije do 30. svibnja tekuće godine za plaćene račune u protekloj godini na teret državnog proračuna Republike Hrvatske.
+Sredstva koja javne vatrogasne postrojbe, dobrovoljna vatrogasna društva i vatrogasne zajednice ostvare vlastitom djelatnošću, sukladno zakonu, mogu se koristiti samo za materijalne troškove, investicijsku izgradnju i nabavu opreme i sredstva za vatrogasnu intervenciju.
+Pravne osobe iz stavka 1. ovoga članka u cijelosti su oslobođene plaćanja poreza na dodanu vrijednost po računima plaćenim za nabavu opreme, materijala i usluga za obavljanje njihove djelatnosti.

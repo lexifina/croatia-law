@@ -1,14 +1,14 @@
 ## XI. OVLASTI ZA DONOŠENJE PROVEDBENIH PROPISA
 # Članak 54.
-Ministar unutarnjih poslova, po prethodno pribavljenom mišljenju Hrvatske vatrogasne zajednice:
+Ministar unutarnjih poslova, na prijedlog Hrvatske vatrogasne zajednice:
 1. propisuje uvjete radnih mjesta profesionalnih vatrogasaca,
-2. propisuje mjerila za ustroj, način djelovanja, potrebnu opremu i sredstva za rad javnih vatrogasnih postrojbi,
+2. propisuje mjerila za ustroj, razvrstavanje i način djelovanja vatrogasnih postrojbi,
 3. utvrđuje osnove organiziranosti vatrogasnih postrojbi na teritoriju Republike Hrvatske,
 4. propisuje program i način polaganja stručnog ispita za vatrogasce s posebnim ovlastima i odgovornostima,
 5. propisuje način i program osposobljavanja dobrovoljnih vatrogasaca,
 6. propisuje minimum tehničke opreme i sredstva koje moraju posjedovati vatrogasne postrojbe, sukladno planu zaštite od požara,
 7. propisuje međusobne odnose vatrogasnih postrojbi i njihovih pripadnika u vatrogasnim intervencijama,
-8. donosi program i način provođenja teoretske nastave i praktičnih vježbi u vatrogasnim postrojbama,
+8. donosi program i način provođenja teoretske nastave i praktičkih vježbi u vatrogasnim postrojbama,
 9. donosi program i utvrđuje način osposobljavanja građana za provedbu preventivnih mjera zaštite od požara, za gašenje požara i spašavanje ljudi i imovine ugroženih požarom,
 10. propisuje tehničke zahtjeve za zaštitnu i drugu osobnu opremu koju pripadnici vatrogasnih postrojbi koriste prilikom vatrogasne intervencije,
 11. propisuje jedinstven oblik i kroj odore pripadnika vatrogasnih postrojbi te oznake zvanja,

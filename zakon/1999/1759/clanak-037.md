@@ -1,8 +1,8 @@
 # Članak 37.
-U slučaju nastanka događaja koji nije poprimio obilježja prirodne nepogode, a koji zahtijeva angažiranje većeg broja osoba i opreme, gradonačelnik, odnosno načelnik općine na čijem području je nastao događaj ili osoba koju on za to ovlasti, na zahtjev županijskoga vatrogasnog zapovjednika ili njegovog zamjenika, može:
+U slučaju nastanka događaja koji nije poprimio obilježja prirodne nepogode, a koji zahtijeva angažiranje većeg broja osoba i opreme, gradonačelnik, odnosno načelnik općine na čijem području je nastao događaj ili osoba koju on za to ovlasti, na zahtjev županijskog vatrogasnog zapovjednika ili njegovog zamjenika, može:
 1. narediti sudjelovanje svih sposobnih osoba s područja Grada Zagreba, grada, odnosno općine starijih od 18 godina u obavljanju pomoćnih poslova na intervenciji i spašavanju ljudi i imovine ugroženih nastalim događajem,
 2. narediti da se stave na raspolaganje alat, prijevozna, tehnička i druga sredstva za potrebe intervencije i za spašavanje ljudi i imovine ugroženih nastalim događajem.
-U slučaju iz točke 2. stavka 1. ovoga članka nastale troškove i štetu snosi općina, grad ili Grad Zagreb čiji je načelnik općine, odnosno gradonačelnik naredio stavljanje na raspolaganje alata, prijevoznih, tehničkih i drugih sredstava.
+U slučaju iz točke 2. stavka 1. ovoga članka nastale troškove i štetu snosi općina, grada ili Grad Zagreb čiji je načelnik općine, odnosno gradonačelnik naredio stavljanje na raspolaganje alata, projevoznih, tehničkih i drugih sredstava.
 U slučaju nastanka događaja koji zahtijeva sudjelovanje snaga s područja dvije ili više županija, a nije poprimio obilježja prirodne nepogode, vatrogasnu intervenciju vodi glavni vatrogasni zapovjednik.
 U slučaju nastanka događaja koji poprimi obilježje prirodne nepogode, županijski vatrogasni zapovjednik o tome će obavijestiti župana.
 U slučaju iz stavka 4. ovoga članka kada župan aktivira stožer civilne zaštite, upravljanje intervencijom spašavanja ljudi i imovine ugroženih nastalim događajem preuzima stožer u radu kojega sudjeluje županijski vatrogasni zapovjednik.
