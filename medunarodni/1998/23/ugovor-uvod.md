@@ -1,0 +1,2 @@
+UGOVOR IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE MAĐARSKE 0 UJEDNAČAVANJU ISPRAVA ZA PRELAZAK DRZAVNE GRANICE U SLUŽBENE SVRHE
+Vlada Republike Hrvatske i Vlada Republike Madarske (u daljnjem tekstu: ugovome stranke), vodeći se željom da olakšaju izradu, izdavanje i provjeru isprava potrebnih za prelazak državne granice u službene svrhe, odlučile su potpisati ovaj Ugovor radi ujednačavanja isprava.
