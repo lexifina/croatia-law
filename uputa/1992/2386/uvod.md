@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br.16/78, 50/78, 28/85, 217/86, 41/90, 47/90. i 53a/91) i članka 31. Zakona o pripadnosti javnih prihoda Republici Hrvatskoj i jedinicama lokalne samouprave i stopama republičkih poreza ("Narodne novine". br. 73/91, 18/92, 40/92. i 54/92) ministar financija donosi
