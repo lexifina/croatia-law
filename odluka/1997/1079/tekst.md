@@ -1,0 +1,5 @@
+1. Naknade plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje (članak 52. stavak 1. toč. 1. i 2. Zakona o mirovinskom i invalidskom osiguranju) u daljnjem tekstu - naknade, koje osigurava i isplaćuje Republički fond mirovinskog i invalidskog osiguranja radnika Hrvatske, koje su ostvarene do 1. siječnja 1996. ili poslije toga dana povećavaju se od 1. siječnja 1996. odnosno od dana ostvarivanja prava za 14,42%.
+2. Naknade ostvarene do 31. prosinca 1995. povećavaju se od 1. siječnja 1996. za 2,2%.
+3. Kao osnovica za povećanje naknada prema točki 1. ove odluke služi svota naknade koja je invalidu rada pripadala na dan 1. siječnja 1996., odnosno na dan ostvarivanja prava, ako je pravo ostvareno nakon toga dana, a kao osnovica za povećanje naknada prema točki 2. ove odluke uzima se naknada koja je invalidu rada pripadala na dan 31. prosinca 1995.
+4. Povećanje naknada iz točke 1. i 2. ove odluke obavit će se po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1996.
