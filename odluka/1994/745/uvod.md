@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94) i članka 5. stavka 2. Zakona o zabrani raspolaganja i preuzimanju sredstava određenih pravnih osoba na teritoriju Republike Hrvatske ("Narodne novine", broj 29/94), Vlada Republike Hrvatske je na sjednici održanoj 26. svibnja 1994. donijela
