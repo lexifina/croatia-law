@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o određivanju cesta po kojima smiju motorna vozila prevoziti opasne tvari i o određivanju mjesta za parkiranje motornih vozila s opasnim tvarima (»Narodne novine«, br. 27/02) u članku 1. točka 1.7 mijenja se i glasi:
+»1.7. GP Ličko Petrovo Selo - D 217 - Grabovac - D1 - Karlovac (Ilovac bb - Robni terminali) pod uvjetom da vozila ne mogu doći prije 23.00 sata, a ni kasnije od 06.00 sati. Nakon 23.00 sata radnim danima od ponedjeljka do četvrta u noćnim satima od 23.00 do 06.00 sati formiraju se kolone po 3 vozila, na čijem čelu i začelju su policijska vozila, koja vode odnosno prate kolone do GP Ličko Petrovo Selo.«
