@@ -1,0 +1,8 @@
+## Utemeljenje prvog radniČkog vijeĆa
+# Članak 2.
+(1) Prijedlog za utemeljenje prvog radničkog vijeća mogu podnijeti u pisanom obliku sindikati koji kod poslodavca imaju svoje članove te skupina od najmanje 10% radnika zaposlenih kod poslodavca.
+(2) Kad prijedlog iz stavka 1. ovog članka podnosi skupina radnika prijedlogu mora biti priložen popis s imenima, prezimenima i potpisima tih radnika.
+(3) Prijedlog iz stavka 1. ovog članka objavljuje se na svim oglasnim mjestima poslodavca i dostavlja se sindikatima koji imaju svoje članove kod poslodavca te poslodavcu. Prijedlog sadrži i obavijest da svaki sindikat i svaka skupina od najmanje 10% radnika koja namjerava podnijeti listu kandidata za članove radničkog vijeća (članak 6. ovog Pravilnika) daje na skupu radnika svog predstavnika i njegovog zamjenika u izbornom odboru.
+(4) Potpisnik prijedloga iz stavka 1. ovog članka ovlašten je sazvati skup radnika radi utvrđivanja zakonskih uvjeta za utemeljenje radničkog vijeća i imenovanja izbornog odbora. O održavanju skupa radnika potpisnik je dužan savjetovati se s poslodavcem te voditi računa da vrijeme i mjesto održavanja skupa radnika ne šteti djelotvornosti poslovanja poslodavca. Odluka o sazivanju skupa radnika objavljuje se na svim oglasnim mjestima poslodavca najmanje tri radna dana prije dana održavanja skupa.
+(5) Skupina radnika koja nije podnijela prijedlog iz stavka 1. ovog članka, a namjerava podnijeti listu kandidata za članove radničkog vijeća i na skupu radnika je dala svog predstavnika i njegovog zamjenika u izbornom odboru, dužna je istodobno podnijeti popis radnika iz stavka 2. ovog članka.
+(6) Odluku o raspisivanju i provođenju izbora za prvo radničko vijeće donosi izborni odbor.
