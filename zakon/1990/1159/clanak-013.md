@@ -1,2 +1,5 @@
 # Članak 13.
-Kao savjetodavno tijelo u upravljanju sredstvima fonda i odlučivanju o njihovu raspoređivanju u općinskom odnosno gradskom organu uprave nadležnom za poslove osnovnog školstva i Ministarstvu prosvjete osnivaju se posebni odbori. Djelokrug i ovlaštenja odbora iz stavka 1. ovoga članka određuje i njihove članove imenjuje i razrješava rukovoditelj općinskog ili gradskog organa uprave nadležnog za poslove osnovnog školstva odnosno ministar prosvjete.
+Županija, odnosno Grad Zagreb, uskađuje interese i poduzima aktivnosti radi ravnomjernog razvitka osnovnog školstva, te uređuje druga pitanja od zajedničkog interesa za osnovno školstvo na području županije, odnosno Grada Zagreba u skladu sa zakonom.
+Jedinica lokalne i područne (regionalne) samouprave može utvrditi šire javne potrebe u osnovnom školstvu (sufinanciranje prehrane učenika, produženi i cjelodnevni boravak učenika, sufinanciranje programa privatnog školstva i ostali pogrami osnovnog školstva od zajedničkog interesa), za koje sredstva osigurava svojim proračunom.
+III. DJELATNOST OSNOVNOG ŠKOLSTVA
+1. Položaj, osnivanje i prestanak osnovne škole

@@ -1,3 +1,5 @@
 # Članak 78.
-Ako se na raspisani natječaj ne jave osobe koje ispunjavaju uvjete iz članka 73. i 74. ovoga zakona, osnovna škola može zasnovati radni odnos s osobama koje ne ispunjavaju uvjete na određeno vrijeme.
-Radni odnos na određeno vrijeme, prema stavku 1. ovoga članka, zasniva se najdulje na godinu dana.
+Učitelji i stručni suradnici bez radnog iskustva zasnivaju radni odnos kao pripravnici. Osnovna škola može osobama bez radnog iskustva omogućiti osposobljavanje i bez zasnivanja radnog odnosa (volonterski rad).
+Pripravnički staž traje najdulje godinu dana. Nakon obavljenog pripravničkog staža pripravnik polaže stručni ispit.
+Pripravniku koji ne položi stručni ispit u roku od šest mjeseci od dana kada mu je istekao pripravnički staž prestaje radni odnos u osnovnoj školi.
+Program pripravničkog staža donosi Ministarstvo.

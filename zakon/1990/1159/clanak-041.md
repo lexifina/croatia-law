@@ -1,4 +1,11 @@
 # Članak 41.
-Školska godina počinje 1. rujna, a završava 31. kolovoza naredne godine. Školska godina organizira se po obrazovnim razdobljima.
-Tijekom školske godine učenici imaju pravo na zimski, proljetni i ljetni odmor.
-Nastavna godina odnosno, početak i završetak nastave, obrazovna razdoblja, broj radnih dana i odmori učenika propisuju se posebnim kalendarom koji donosi Ministarstvo prosvjete.
+Provjeru vrijednosti novih obrazovnih sadržaja, oblika i metoda rada, kao i nove nastavne opreme može obavljati osnovna škola prema posebnom eksperimentalnom programu.
+Eksperimentalni program sadrži:
+- cilj, zadaću i sadržaj,
+- mjesto i način izvođenja,
+- potrebno vrijeme za realizaciju,
+- prostorne, kadrovske i druge uvjete,
+- način stručnog praćenja,
+- vrijeme u kome se podnosi izvještaj o postignutim rezultatima.
+Eksperimentalni program, školu koja će ga provoditi, uvjete i način rada utvrđuje Ministarstvo.
+3. Učenici

@@ -1,2 +1,5 @@
 # Članak 36.
-Za učenike koji imaju teškoće u svladavanju programa osnovna škola dužna je organizirati dopunsku nastavu. Dopunska nastava organizira se na određeno vrijeme dok je takav oblik pomoći učenicima potreban.
+Razredni odjel se formira od učenika istog razreda, a kombinirani razredni odjel od učenika I. do IV. razreda.
+U planinskim i otočnim područjima mogu se organizirati i kombinirani razredni odjeli od učenika V. do VIII razreda uz prethodnu suglasnost Ministarstva.
+U osnovnim školama u planinskim i otočnim područjima u kojima postoje kombinirani razredni odjeli od V. do VIII. razreda nastavu iz pojedinih predmeta u tim odjelima mogu izvoditi i učitelji drugih predmeta uz suglasnost Ministarstva.
+Broj učenika u redovnom razrednom odjelu i broj učenika u kombiniranom razrednom odjelu propisuje Ministarstvo.

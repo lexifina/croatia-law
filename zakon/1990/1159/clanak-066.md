@@ -1,3 +1,2 @@
-## IV. ZDRAVSTVENA I SOCIJALNA SKRB UČENIKA
 # Članak 66.
-Osnovne škole, a posebno učitelji i stručni suradnici, dužni su voditi brigu o zdravstvenom stanju učenika i o tome obavještavati organizacije zdravstva i roditelje odnosno staratelje.
+Ako učenik zbog zdravstvenog stanja ne može sudjelovati u određenoj aktivnosti ili bi to sudjelovanje štetilo njegovu zdravlju, oslobađa se privremeno ili trajno od sudjelovanja u toj aktivnosti. Na prijedlog ovlaštenog liječnika odluku o oslobođenju učenika donosi učiteljsko vijeće.

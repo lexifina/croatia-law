@@ -1,3 +1,4 @@
 # Članak 27.
-Nastava u osnovnim školama izvodi se na hrvatskom jeziku.
-Nastava u školama, odnosno u razrednim odjelima za pripadnike pojedinih narodnosti izvodi se na jeziku tih narodnosti prema odredbama posebnog zakona.
+Učenik koji se ističe znanjem i sposobnostima ima pravo završiti osnovnu školu u kraćem vremenu od propisanoga.
+U tijeku jedne školske godine učenik može završiti dva razreda.
+Uvjete i postupak pod kojima učenika može završiti osnovnu školu u kraćem vremenu propisuje Ministarstvo.

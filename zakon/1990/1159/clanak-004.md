@@ -1,2 +1,3 @@
 # Članak 4.
-Osnovno školovanje obavljaju osnovne škole. Osnovno školovanje pored osnovnih škola mogu obavljati i druge organizacije društvenih djelatnosti u skladu s ovim zakonom i drugim propisima.
+Osnovno školovanje obavljaju osnovne škole i druge javne ustanove, u skladu s ovim Zakonom.
+Odredbe Zakona o ustanovama i drugih propisa primjenjuju se na djelatnost osnovnog školovanja samo ako ovim Zakonom nije drukčije određeno.

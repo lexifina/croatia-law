@@ -1,6 +1,3 @@
 # Članak 44.
-U prvi razred osnovne škole upisuju se djeca koja do 1. travnja tekuće godine imaju navršenih šest godina života. U prvi razred mogu se upisati i djeca koja do 1. travnja tekuće godine nemaju navršenih šest godina života ako to na zahtjev roditelja ili staratelja odobri općinski, odnosno gradski organ uprave nadležan za poslove školstva.
-Upis djece u osnovnu školu provodi se prema planu upisa koji donosi općinski, odnosno gradski organ uprave nadležan za školstvo.
-Prije upisa u prvi razred osnovne škole obvezno je utvrđivanje psihofizičkog stanja djeteta. Psihofizičko stanje djeteta utvrđuje se komisijski. Komisiju čine liječnik, psiholog-pedagog, defektolog i učitelj.
-Ako komisija utvrdi da dijete zbog psihofizičkog stanja ne može pohađati školu, oslobodit će dijete obveza upisa u toj školskoj godini.
-Razloge koji uvjetuju da dijete ne može pohađati osnovnu školu i postupak utvrđivanja psihofizičkog stanja djeteta iz stavka 3. i 4. ovoga članka utvrđuju zajednički Ministarstvo zdravstva i Ministarstvo prosvjete.
+Jedinice lokalne i područne (regionalne) samouprave dužne su organizirati prijevoz do škole i od škole za učenike od prvog do četvrtog razreda koji žive u naseljima udaljenim od škole najmanje tri kilometra, a za učenike od petog do osmog razreda koji žive u naseljima udaljenim najmanje pet kilometara.
+Za učenike s teškoćama u razvoju osigurava se prijevoz bez obzira na udaljenost i prijevoz za pratioca kada je zbog vrste i stupnja teškoća pratilac neophodan.

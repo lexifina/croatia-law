@@ -1,2 +1,3 @@
 # Članak 75.
-Vrstu stručne spreme učitelja i stručnih suradnika, sadržaj, način i uvjete polaganja stručnog ispita te obveze učitelja i stručnih suradnika propisuje Ministarstvo prosvjete.
+Učitelji i stručni suradnici mogu napredovati u struci i stjecati zvanja mentor i savjetnik.
+Postupak, način i uvjete napredovanja i stjecanja zvanja učitelja i stručnih suradnika propisuje ministar.

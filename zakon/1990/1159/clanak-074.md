@@ -1,3 +1,4 @@
 # Članak 74.
-Stručni suradnici u osnovnoj školi su pedagog, psiholog, defektolog, zdravstveni radnik, socijalni radnik i knjižničar.
-Za stručnog suradnika može biti izabrana osoba koja ima odgovarajuću visoku stručnu spremu i ispunjava uvjete iz članka 71. ovoga zakona.
+Obveze učitelja i stručnih suradnika u osnovnoj školi određuju se rješenjem o rasporedu radnih obveza u skladu s godišnjim planom rada škole tako da obuhvate rad s učenicima u nastavi te ostale poslove u okviru ugovorenoga radnog vremena, u skladu s ovim Zakonom i kolektivnim ugovorom.
+Obveze učitelja i stručnih suradnika obuhvaćaju rad u nastavi, izvannastavnim aktivnostima, rad u stručnim tijelima, pripremanje za nastavu, stručno usavršavanje i ostvarivanje kulturnih programa škole.
+Pod radom s učenicima u nastavi smatra se izvođenje redovite, izborne, fakultativne, dodatne i dopunske nastave u razrednom odjelu iz predmeta utvrđenih nastavnim planom i programom i sat razredne zajednice.

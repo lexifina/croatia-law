@@ -1,2 +1,3 @@
 # Članak 72.
-Učitelji i stručni suradnici ne mogu biti osobe koje su pravomoćno osuđene za kazneno djelo protiv dostojanstva ličnosti i morala.
+Stručni suradnici u osnovnoj školi su pedagog, psiholog, defektolog, zdravstveni radnik, socijalni radnik i knjižničar.
+Za stručnog suradnika može biti izabrana osoba koja ima odgovarajuću visoku stručnu spremu i ispunjava uvjete iz članka 69. ovoga Zakona.

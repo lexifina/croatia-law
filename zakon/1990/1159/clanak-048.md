@@ -1,3 +1,6 @@
 # Članak 48.
-Učenik osnovne škole za vrijeme obveze školovanja ne može biti isključen iz škole.
-Učenik osnovne škole može priječi u drugu osnovnu školu na zahtjev roditelja ili staratelja, odnosno na prijedlog učiteljskog vijeća osnovne škole iz koje prelazi, a uz suglasnost učiteljskog vijeća škole u koju prelazi.
+Učenici se ocjenjuju iz svakoga nastavnog predmeta i iz vladanja. Ocjene iz nastavnih predmeta utvrđuju se brojčano. Ocjene iz vladanja utvrđuju se opisno.
+Napredovanje i razvoj učenika u osnovnom školovanju prati se opisno.
+Način ocjenjivanja i praćenja učenika propisuje Ministarstvo.
+Tijekom obrazovnog razdoblja učenik mora biti ocijenjen iz svakog nastavnog predmeta najmanje dva puta. Testovi su pomoćna sredstva za utvrđivanje znanja učenika i mogu se provoditi samo jednom u obrazovnom razdoblju za predmete ili odgojno područje. Na kraju nastavne godine utvrđuje se opći uspjeh učenika.
+U ocjenjivanju uspjeha učenika sudjeluju učitelj, razrednik, razredno vijeće i učiteljsko vijeće.

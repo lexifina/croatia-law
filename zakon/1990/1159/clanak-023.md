@@ -1,3 +1,3 @@
 # Članak 23.
-U slučaju ukidanja ili zabrane rada osnovne škole organ koji je donio odluku o ukidanju ili zabrani rada škole mora zatečenim učenicima osigurati školovanje u drugoj osnovnoj školi.
-2. Nastavni plan i program, te organiziranje nastave
+Odgoj i školovanje djece u izvanškolskim aktivnostima sastavni su dio osnovnog školovanja.
+Rad učenika u izvanškolskim aktivnostima, ako se ostvaruje u sporazumu sa školom, priznaje se učenicima kao ispunjavanje obveza u školi.

@@ -1,5 +1,4 @@
 # Članak 24.
-Nastavni plan i program donosi Ministarstvo prosvjete.
-Nastavnim planom utvrđuju se obvezni i izborni predmeti, njihov raspored po razredima, tjedni broj nastavnih sati po predmetima i ukupni tjedni i godišnji broj nastavnih sati i izvan nastavne aktivnosti.
-Programom se utvrđuju sadržaji, cilj i zadaće obveznih i izbornih predmeta.
-Izborni predmeti obvezni su za sve učenike koji se za njih opredijele.
+Osnovna škola radi na temelju godišnjeg plana i programa rada.
+Godišnjim planom i programom rada utvrđuju se mjesta, vrijeme, način i nositelji ostvarivanja plana i programa iz članka 22. ovoga Zakona.
+Godišnji plan i program rada osnovne škole donosi školski odbor do 30. rujna za tekuću školsku godinu.

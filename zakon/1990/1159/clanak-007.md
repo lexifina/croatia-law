@@ -1,2 +1,2 @@
 # Članak 7.
-Osnovno školovanje djece pripadnika narodnosti ostvaruje se prema ovom zakonu i propisima kojima se uređuju prava pripadnika narodnosti.
+Osnovno školovanje djece pripadnika nacionalnih manjina ostvaruje se prema odredbama Zakona o odgoju i obrazovanju na jeziku i pismu nacionalnih manjina, odredbama ovoga Zakona i drugih propisa.

@@ -1,2 +1,3 @@
 # Članak 59.
-Roditelj, odnosno staratelj učenika koji nije zadovoljan ocjenom koju je na kraju nastave utvrdio razredni učitelj ili razredno vijeće, ima pravo u roku od tri dana od dana pismene obavijesti o uspjehu učenika podnijeti zahtjev učiteljskom vijeću da ono preispita i utvrdi ocjenu učenika. Odluka učiteljskog vijeća je konačna.
+Iznimno od odredaba članka 58. ovoga Zakona za djecu s većim teškoćama u razvoju osnovno školovanje obavlja se u posebnim ustanovama odgoja i obrazovanja, a može se obavljati i u drugim ustanovama. Takva se djeca mogu školovati do 21. godine života.
+Sadržaj i način školovanja djece iz stavka 1. ovoga članka utvrđuje Ministarstvo.

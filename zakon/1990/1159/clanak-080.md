@@ -1,4 +1,4 @@
 # Članak 80.
-Učitelji i stručni suradnici dužni su se permanentno usavršavati.
-Pod permanentnim usavršavanjem iz stavka 1. ovoga članka razumjeva se usavršavanje u struci i usavršavanje za stručno-metodički, pedagoški i andragoški rad.
-Program i organizaciju permanentnog usavršavnja utvrđuje i provodi Zavod za školstvo.
+Kad školski odbor utvrdi da postoji osnovana sumnja da je učitelju ili stručnom suradniku narušeno psihičko i fizičko zdravlje u mjeri koje bitno smanjuje njegovu sposobnost za obavljanje odgojno-obrazovnog rada, donosi odluku o upućivanju radnika na liječnički pregled. Ako se stručnim nalazom nadležne ustanove zdravstva utvrdi da je psihičko i fizičko zdravlje radnika bitno narušeno i bitno umanjena njegova sposobnost za obavljanje odgojno-obrazovnog rada, školski odbor donosi odluku o oslobađanju radnika od neposrednog odgojno-obrazovnog rada s učenicima.
+Nakon donošenja odluke o oslobađanju radnika od neposrednog odgojno-obrazovnog rada s učenicima, osnovna škola dužna je osigurati materijalnu i socijalnu sigurnost radnika.
+Radniku koji odbije izvršenje odluke o upućivanju na liječnički pregled prestaje radni odnos u osnovnoj školi.

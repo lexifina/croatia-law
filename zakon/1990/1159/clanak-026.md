@@ -1,4 +1,3 @@
 # Članak 26.
-Osnovna škola radi na temelju godišnjeg plana i programa rada.
-Godišnjim planom i programom rada utvrđuju se mjesta, vrijeme, način i nositelji ostvarivanja plana i programa iz članka 24. ovoga zakona.
-Godišnji plan i program rada osnovne škole donosi školski obor do 30. rujna za tekuću školsku godinu.
+Osnovna škola dužna je organizirati uočavanje, školovanje, praćenje i poticanje darovitih učenika te organizirati dodatni rad prema njihovim sklonostima, sposobnostima i interesima.
+Programe za darovite učenike, način uočavanja, školovanje, praćenje i poticanje darovitih učenika utvrđuje Ministarstvo.

@@ -1,4 +1,4 @@
 # Članak 29.
-Učenik koji se ističe znanjem i sposobnostima ima pravo završiti osnovnu školu u kraćem vremenu od propisanoga.
-U toku jedne školske godine učenik može završiti dva razreda.
-Uvjete i postupak pod kojima učenik može završiti osnovnu školu u kraćem vremenu propisuje Ministarstvo prosvjete.
+Osnovna škola može osnovati učeničku zadrugu kao oblik izvannastavne aktivnosti učenika te organizirati drugi društveno koristan rad učenika.
+Osnovna škola može stavljati u promet proizvode nastale kao rezultat rada učenika u učeničkoj zadruzi.
+Sredstva iz prometa proizvoda i usluga učeničke zadruge posebno se evidentiraju, a mogu se iskorištavati isključivo za rad zadruge.

@@ -1,5 +1,2 @@
 # Članak 57.
-Učenik koji zbog opravdanog razloga nije mogao redovno pohađati nastavu ili nije ocijenjen iz najmanje jednog predmeta ima pravo polagati razredni ili predmetni ispit.
-Razredni ili predmetni ispit može se polagati u ispitnim rokovima u skladu sa statutom škole.
-Ispit se polaže pred ispitnom komisijom. Ispit se može ponoviti najviše dva puta.
-Razloge, način i vrijeme polaganja razrednih i predmetnih ispita propisuje Ministarstvo prosvjete.
+Roditelj, odnosno staratelj učenika koji nije zadovoljan ocjenom koju je na kraju nastave utvrdio razredni učitelj ili razredno vijeće, ima pravo u roku od tri dana od dana pisane obavijesti o uspjehu učenika podnijeti zahtjev učiteljskom vijeću da ono preispita i utvrdi ocjenu učenika. Odluka učiteljskog vijeća je konačna.

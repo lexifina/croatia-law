@@ -1,3 +1,5 @@
 # Članak 56.
-Učenici V. do VIII. razreda koji na kraju drugog polugodišta imaju ocjenu nedovoljan (1) iz najviše dva nastavna predmeta upućuju se na popravni ispit.
-Učenici koji ne pristupe polaganju popravnog ispita ili ne polože popravni ispit ponavljaju razred. Popravni ispit polaže se pred ispitnom komisijom krajem kolovoza. Članove ispitne komisije imenuje učiteljsko vijeće.
+Učeniku se kod upisa u osnovnu školu izdaje učenička knjižica.
+U učeničkoj knjižici evidentira se uspjeh u tijeku nastave i druga zapažanja o njegovu radu. Učenicima I. do IV. razreda u učeničkoj knjižici evidentira se i uspjeh na kraju nastavne godine.
+Učenicima V. do VIII. razreda na kraju nastavne godine izdaje se svjedodžba o ostvarenom uspjehu.
+Svjedodžba VIII. razreda je isprava o završetku osnovne škole.

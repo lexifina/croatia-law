@@ -1,3 +1,3 @@
 # Članak 40.
-Nastava u osnovnoj školi izvodi se u pet radnih dana tjedno.
-Osnovna škola može izvoditi nastavu i u šest radnih dana tjedno ako radi u više od dvije smjene.
+Osnovna škola može biti vježbaonica za studente nastavničkih fakulteta. Kriterije za financiranje utvrđuje Ministarstvo.
+Pobliže odredbe o uvjetima, načinu rada, kadrovima te mreži vježbaonica utvrđuje Ministarstvo na prijedlog nastavničkih fakulteta.

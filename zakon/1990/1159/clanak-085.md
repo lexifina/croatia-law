@@ -1,4 +1,4 @@
 # Članak 85.
-Osnovno školovanje odraslih provodi se u osnovnim školama i drugim organizacijama.
-Ispunjavanje uvjeta za izvođenje programa iz članka 83. ovoga zakona i početak izvođenja programa utvrđuje Ministarstvo prosvjete u skladu s člankom 18. ovoga zakona.
-Troškove osnovnog školovanja odraslih snosi neposredno polaznik toga školovanja, poduzeće čiji je radnik ili Zavod za zapošljavanje.
+Osnovnom školom upravlja ravnatelj škole i školski odbor.
+Školski odbor ima položaj i ovlaštenja tijela upravljanja, a ravnatelj poslovodnog tijela i pedagoškog rukovoditelja u skladu sa Zakonom.
+Djelokrug i način odlučivanja ravnatelja i školskog odbora utvrđuje se Zakonom i statutom osnovne škole.

@@ -1,3 +1,2 @@
 # Članak 16.
-Osnovnu školu osniva skupština općine, odnosno Skupština Grada Zagreba, prema programu razvoja djelatnosti osnovnog školstva na svom području.
-Osnovnu školu mogu zajednički osnovati dvije ili više skupština općina.
+Mrežu osnovnih škola za svoje područje, izuzev škola s pravom javnosti, utvrđuje predstavničko tijelo županije, odnosno Grada Zagreba, uz prethodnu suglasnost ministra.

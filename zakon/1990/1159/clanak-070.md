@@ -1,2 +1,3 @@
 # Članak 70.
-Osnovne škole dužne su s organima socijalne skrbi pratiti socijalne probleme i pojave kod učenika i poduzimati mjere za otklanjanje uzroka i posljedica socijalnih problema i pojava kod učenika.
+Rad u osnovnoj školi ne može obavljati osoba koja je pravomoćno osuđena za kazneno djelo protiv Republike Hrvatske, kazneno djelo protiv spolne slobode i spolnog ćudoređa, kazneno djelo kršenja obiteljskih obveza, kazneno djelo zapuštanja i zlostavljanja djeteta ili maloljetne osobe ili neko drugo kazneno djelo protiv tjelesne zloporabe djeteta ili maloljetne osobe.
+Učitelji i stručni suradnici dužni su poduzimati mjere zaštite prava djeteta, te o svakom kršenju tih prava, posebice o oblicima tjelesnog ili duševnog nasilja, spolne zloporabe, zanemarivanja ili nehajnog postupanja, zlostavljanja ili izrabljivanja djeteta, odnosno učenika odmah javiti tijelu socijalne skrbi, odnosno drugom nadležnom tijelu.

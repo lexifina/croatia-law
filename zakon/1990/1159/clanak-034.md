@@ -1,2 +1,3 @@
 # Članak 34.
-Radno vrijeme osnovne škole može biti organizirano poludnevno, produljeno ili cjelodnevno u skladu s kriterijima koje donosi Ministarstvo prosvjete.
+Za učenike koji imaju teškoće u svladavanju programa osnovna škola dužna je organizirati dopunsku nastavu.
+Dopunska nastava organizira se na određeno vrijeme dok je takav oblik pomoći učenicima potreban.

@@ -1,2 +1,2 @@
 # Članak 102.
-Odredbe članaka 39 i 40. primjenjivat će se od školske godine 1991/92.
+Osobama koje su do 8. listopada 1991. stekle svjedodžbe ili druge isprave osnovnog školstva na području republika bivše Jugoslavije, priznaju se isprave o stečenom osnovno-školskom obrazovanju.

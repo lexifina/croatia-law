@@ -1,3 +1,3 @@
 # Članak 25.
-Odgoj i školovanje djece u izvanškolskim aktivnostima sastavni su dio osnovnog školovanja.
-Rad učenika u izvanškolskim aktivnostima, ako se ostvaruje u sporazumu sa školom, priznaje se učenicima kao ispunjavanje obveza u školi.
+Nastava u osnovnim školama izvodi se na hrvatskom jeziku i latiničnom pismu.
+Nastava u osnovnoj školi može se izvoditi i na jednom od svjetskih jezika uz suglasnost ministra, ako škola izvodi međunarodni program.

@@ -1,3 +1,4 @@
 # Članak 77.
-Učitelji i stručni suradnici biraju se na temelju javnog natječaja.
-Javni natječaj raspisuje školski odbor. Natječaj se objavljuje u dnevnom tisku u Republici Hrvatskoj. Radnici iz stavka 1. ovoga članka mogu zasnovati radni odnos na određeno vrijeme i bez natječaja pod uvjetom da rad ne traje duže od 90 dana u toku godine. Odluku o zasnivanju radnog odnosa donosi školski odbor na prijedlog ravnatelja škole.
+S osobom koja nema stručnu spremu propisanu za učitelja ili stručnog suradnika prema odredbama ovoga Zakona može se zasnovati radni odnos na određeno vrijeme, najdulje na godinu dana.
+Ako se na oglas ne javi osoba koja ispunjava uvjete za učitelja ili stručnog suradnika, na poslovima učitelja, odnosno stručnog suradnika može se zasnovati radni odnos na neodređeno vrijeme se osobom koja nema pedagoško-psihološku naobrazbu, odnosno stručni ispit pod uvjetom da stekne pedagoško-
+-psihološku naobrazbu i položi stručni ispit najkasnije u roku od 2 godine od dana zasnivanja radnog odnosa, u protivnom, prestaje joj radni odnos.

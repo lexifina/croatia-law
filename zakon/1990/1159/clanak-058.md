@@ -1,4 +1,3 @@
 # Članak 58.
-Učeniku se kod upisa u osnovnu školu izdaje učenička knjižica.
-U učeničkoj knjižici evidentira se uspjeh u toku nastave i druga zapažanja o njegovu radu. Učenicima I. do IV. razreda u učeničkoj knjižici evidentira se i uspjeh na kraju nastavne godine.
-Učenicima V. do VIII. razreda na kraju nastavne godine izdaje se svjedodžba o ostvarenom uspjehu. Svjedodžba VIII. razreda je isprava o završetku osnovne škole.
+Osnovno školovanje djece i omladine s teškoćama u razvoju provodi se u osnovnoj školi uz odgovarajuću primjenu individualiziranih postupaka i produženih stručnih tretmana učenika, a kada je to nužno, u posebnim odgojno-obrazovnim grupama i razrednim odjelima u okviru škole.
+Škole, uvjete i način osnivanja grupa i razrednih odjela iz stavka 1. ovoga članka utvrđuje tijelo županijske državne uprave, odnosno Grada Zagreba nadležno za školstvo, prema kriterijima koje donosi Ministarstvo.

@@ -1,8 +1,3 @@
-## V. UČITELJI I STRUČNI SURADNICI
 # Članak 71.
-Nastavni rad u osnovnoj školi obavljaju učitelji i stručni suradnici koji pored općih uvjeta:
-1. imaju odgovarajuću stručnu i pedagošku spremu prema odredbama ovoga zakona i drugih propisa;
-2. mogu izvoditi nastavu na hrvatskom jeziku;
-3. ispunjavaju zdravstvene uvjete potrebne za izvođenje nastave;
-4. imaju položen stručni ispit.
-Ispunjenje uvjeta iz stavka 1. ovoga članka utvrđuje školski odbor.
+Poslove učitelja u razrednoj, odnosno predmetnoj nastavi može obavljati osoba koja ima odgovarajuću visoku stručnu spremu.
+Učitelj stručnih predmeta u programima za stjecanje osnovnoga plesnog školovanja može biti osoba koja je stekla srednju stručnu spremu i ima potrebno pedagoško obrazovanje.
