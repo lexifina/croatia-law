@@ -1,0 +1,3 @@
+# Članak 71.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u ÒNarodnim
+novinamaÓ.
