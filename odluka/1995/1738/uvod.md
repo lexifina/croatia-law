@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske i članka 3. stavka 3., 4. i 5. Zakona o proračunu (" Narodne novine", broj 92/94.) Zastupnički dom Sabora Republike Hrvatske na sjednici 14. prosinca 1995., donio je
