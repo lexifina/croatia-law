@@ -1,0 +1,2 @@
+# Članak 3.
+Nalozi za plaćanje zakonskih obveza i javnih prihoda, vrijednosni papiri, instrumenti osiguranja plaćanja, sudske odluke i druge ovršne isprave te nalozi za naplatu po navedenim osnovama trebaju glasiti na teret računa platitelja koji je, u skladu s Odlukom o uvjetima i načinu otvaranja računa kod ovlaštenih organizacija, određen za izvršenje i evidentiranje neizvršenih osnova za plaćanje.

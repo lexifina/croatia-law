@@ -1,0 +1,7 @@
+# Članak 10.
+Ako u Jedinstvenom registru računa poslovnih subjekata ni jedan račun platitelja nema oznaku računa za izvršenje i evidentiranje neizvršenih osnova za plaćanje ili ako više računa platitelja ima takvu oznaku, ovlaštena organizacija koja je primila osnovu za plaćanje:
+- izvršava osnovu za plaćanje do iznosa pokrića sredstava na računima platitelja koji se vode u toj ovlaštenoj organizaciji. Ovlaštena organizacija ne izvršava sudsku odluku koja nije pravomoćna;
+- u nedostatku sredstava za izvršenje osnove za plaćanje u cijelosti blokira račune platitelja u toj ovlaštenoj organizaciji. Isti dan dostavlja zahtjev drugim ovlaštenim organizacijama za blokadu računa platitelja koji se vode u tim ovlaštenim organizacijama. Zahtjev za blokadu računa platitelja sadrži matični broj platitelja i naziv platitelja. Ovlaštena organizacija, koja primi zahtjev za blokadu računa platitelja, dužna je po istome postupiti;
+- izvješćuje Hrvatsku narodnu banku da nije moguće utvrditi račun platitelja za izvršenje i evidentiranje neizvršenih osnova za plaćanje;
+- dogovorno s drugim ovlaštenim organizacijama, utvrđuje koji je račun platitelja određen za izvršenje i evidentiranje neizvršenih osnova za plaćanje.
+Nakon utvrđivanja računa platitelja za izvršenje i evidentiranje neizvršenih osnova za plaćanje, ovlaštene organizacije postupaju na način propisan člancima 4., 5., 6.,7., 8. i člankom 9. stavkom 2. ove odluke.
