@@ -1,0 +1,3 @@
+# Članak 4.
+U Zavodu mora biti stalno zaposleno najmanje 5 djelatnika visoke stručne spreme s položenim stručnim ispitom, od kojih su 3 djelatnika diplomirana inženjera arhitekture i 2 djelatnika diplomirani stručnjaci drugih tehničkih znanosti (građevinarstvo, promet, geodezija, geografija, ekologija i slične znanosti) ili društvenih znanosti (ekonomija, sociologija i slične znanosti), od kojih najmanje 2 djelatnika moraju imati radno iskustvo od najmanje 5 godina u struci na obavljanju stručnih poslova izrade prostornih planova.
+Osim uvjeta iz stavka 1. ovoga članka stručni djelatnici Zavoda moraju ispunjavati i uvjete iz Zakona o državnim službenicima i namještenicima o plaćama nositelja pravosudnih dužnosti ("Narodne novine", broj 74/94, 86/94 i 7/95.)
