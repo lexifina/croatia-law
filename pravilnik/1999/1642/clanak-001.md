@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1999. godinu (»Narodne novine« broj 165/98, 31/99 i 73/99), u članku 13. u tablici 1. - »Kadrovski normativi u zdravstvenim djelatnostima na primarnoj razini i standardni broj osiguranih osoba po timu«, pod rednim brojem 1.3. »Zdravstvena njega u kući bolesnika«, u stupcu 3: »Stand. br. osiguran. osoba u 1999. godini« dodaje se broj: »5.500«.
