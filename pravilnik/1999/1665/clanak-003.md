@@ -1,0 +1,25 @@
+## I. DEFINICIJE
+# Članak 3.
+1) Pojedini izrazi i pojmovi koji se rabe u ovom Pravilniku imaju sljedeće značenje:
+- put za izlaženje je dio ugostiteljskog objekta kojim se u slučaju požara obavlja evakuacija ljudi u otvoren (slobodan) prostor, a sastoji se od vanjskog izlaza, sigurnosnog izlaznog puta i/ili od pristupnog prostora,
+- pristupni prostor je dio puta za izlaženje od izlaznih vrata iz nekog prostora ugostiteljskog objekta (sobe, apartmana, pomoćne prostorije i sl.) do sigurnosnog izlaznog puta ili vanjskog izlaza,
+- sigurnosni izlazni put je dio puta za izlaženje koji je od ostalih dijelova ugostiteljskog objekta odvojen građevinskim elementima određene otpornosti na požar (zidovi, stropovi, vrata i sl.),
+- sigurnosno stubište je stubište koje je dio sigurnosnog izlaznog puta,
+- vanjski izlaz iz ugostiteljskog objekta je svaki izlaz koji vodi na ulicu ili dovoljno velik otvoren i neugrožen prostor,
+- javni prostor u ugostiteljskom objektu je dio objekta u koji je dozvoljen pristup svim korisnicima objekta,
+- slijepi hodnik je hodnik sa izlazom u samo jednom smjeru,
+- nosive konstrukcije su konstrukcije ugostiteljskog objekta preko kojih se opterećenje izravno ili preko drugih konstrukcija prenosi na tlo (nosivi zidovi, stupovi, grede, rešetkasti nosači i sl.),
+- požarni zid je zid minimalne otpornosti na požar od 90 minuta koji presijeca objekt od temelja do krova i na krovu završava sa nadvišenjem od najmanje 50 cm iznad krova, ili sa konzolom ispod krova širine od najmanje 1 m lijevo i desno od požarnog zida iste otpornosti na požar kao i požarni zid,
+- visoki objekti su građevine čija je kota poda najvišeg kata najmanje 22 m iznad najniže kote površine uz ugostiteljski objekt koje služe kao vatrogasni pristup,
+- otpornost na požar je svojstvo građevinskih elemenata ili konstrukcija da u uvjetima izloženosti tipičnom razvoju požara određeno vrijeme sačuvaju stabilnost, i/ili spriječe prodor plamena i toplinskog zračenja sukladno zahtjevima norme za ispitivanje otpornosti na požar,
+- klasa otpornosti na požar određena je vremenom u kojem je građevinski element ili konstrukcija u uvjetima tipičnog razvoja požara očuvao svoju stabilnost, spriječio prodor plamena ili toplinskog zračenja sukladno vrijednostima dopuštenih normom,
+- tipični razvoj požara određen je krivuljom koja je normirana prema HRN DIN 4102, dio 2,
+- vrata otporna na požar su vrata koja imaju klasu otpornosti na požar od najmanje 30 minuta i koja posjeduju potvrdu o sukladnosti (certifikat) tipa sa zahtjevima norme HRN DIN 4102, dio 5 za otpornosti na požar. Vrata otporna na požar moraju imati uređaj za automatsko zatvaranje vrata,
+- uređaj za automatsko zatvaranje vrata je uređaj koji vrata otporna na požar drži otvorena ili zatvorena, a pri promjeni neke od požarnih veličina otvorena vrata otporna na požar automatski zatvara,
+- opća rasvjeta je umjetna rasvjeta građevine ili prostora ili njihovog dijela koja odgovara njihovoj posebnoj namjeni,
+- sigurnosna rasvjeta je umjetna rasvjeta građevine ili prostora ili njihovog dijela, pridodana općoj rasvjeti iz sigurnosnih razloga. Sastoji se od pomoćne i panik rasvjete, a automatski se uključuje za vrijeme smetnji ili prekida u napajanju električnom energijom opće rasvjete,
+- pomoćna rasvjeta je sigurnosna rasvjeta koja osvjetljava prostor minimalno propisanim osvjetljenjem tijekom minimalno propisanog vremena,
+- panik rasvjeta je sigurnosna rasvjeta koja označava najkraći put iz građevine ili prostora na siguran otvoren prostor tijekom minimalno propisanog vremena,
+- podzemna garaža je prostor za ostavljanje vozila bez nadzora vozača čiji strop se nalazi na visini manjoj od 1,7 m iznad kote okolnog tla,
+- pomoćne prostorije su strojarnica, kotlovnice, spremišta goriva, crpne stanice, prostorije za smještaj generatora el. struje, transformatora, rashladnih uređaja, rasklopnih prekidača (ormara), sustava s plinskim bocama, skladišta i ostale prostorije za obavljanje servisnih djelatnosti,
+- upravitelj ugostiteljskog objekta je osoba koja rukovodi radom ugostiteljskog objekta (ukoliko nije imenovana takva osoba upraviteljem se smatra vlasnik).
