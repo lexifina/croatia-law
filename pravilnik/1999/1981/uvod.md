@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 2. i članka 47. stavka 1. Zakona o otocima (»Narodne novine«, broj 34/99.) ministar poljoprivrede i šumarstva, uz suglasnost ministra pravosuđa, ministra gospodarstva, ministra turizma i ministra razvitka, useljeništva i obnove, donosi

@@ -1,0 +1,5 @@
+# Članak 4.
+Povjerenstvo nadzire svrhovito gospodarsko korištenje otočnog poljoprivrednog zemljišta i zgrada, daje prethodno mišljenje kod odobravanja kredita i nadzire korištenje kredita koje Hrvatska banka za obnovu i razvitak daje, putem poslovnih banaka, za namjene iz članka 20. stavka 1. Zakona o otocima.
+Povjerenstvo nadzire da se raspolaganjem i korištenjem poljoprivrednog zemljišta ne smanji fond poljoprivrednog zemljišta, da se poljoprivredno zemljište koristi sukladno ugovorenom te da se ne koristi kao građevno.
+Kod davanja prethodnog mišljenja pri dodjeli kredita i u obavljanju nadzora dodijeljenih kredita otočnim ulagačima, Povjerenstvo nadzire da li se krediti koriste sukladno posebnom programu Hrvatske banke za obnovu i razvitak i programu održivog razvitka otoka i o utvrđenom izvješćuje Hrvatsku banku za obnovu i razvitak.
+O zadaćama iz stavka 1. ovog članka Povjerenstvo podnosi najmanje jedanput godišnje - do 30. rujna, izvješća o svrhovitom korištenju otočnog poljoprivrednog zemljišta i zgrada i dostavlja ih Ministarstvu poljoprivrede i šumarstva i Ministarstvu razvitka, useljeništva i obnove.
