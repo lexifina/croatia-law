@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o hrvatskim državnim nagradama za znanost ("Narodne novine" br. 108/95), Odbor za podjelu državnih nagrada za znanost na prijedlog ministra znanosti i tehnologije i po pribavljenom mišljenju Odbora za ustav, poslovnik i politički sustav, na sjednici održanoj dana 9. prosinca 1996. godine donosi
