@@ -1,0 +1,4 @@
+## Izvedba ostvarena u radnom odnosu
+# Članak 130.
+(1) Izvedba nastala u radnom odnosu, po ovom Zakonu, označava izvedbu koju za vrijeme trajanja radnog odnosa kod određenog poslodavca ostvari umjetnik izvođač - zaposlenik izvršavajući svoje obveze ili po uputama toga poslodavca. Odnosi u pogledu izvedbe ostvarene u radnom odnosu uređuju ovim Zakonom, ugovorom o radu ili drugim aktom kojim se uređuje radni odnos.
+(2) Ako se u izvršavanju obveza iz radnog odnosa nastaje izvedba umjetnika izvođača, ugovorom o radu određuje se, između ostalog, stječe li poslodavac pravo na iskorištavanje te izvedbe, te posebice, ako ga stječe, opseg i trajanje prava iskorištavanja izvedbe. Ako ovim Zakonom, ugovorom o radu ili drugim aktom kojim se uređuje radni odnos nije drukčije određeno, pravo umjetnika izvođača na izvedbi zadržava umjetnik izvođač bez ograničenja.

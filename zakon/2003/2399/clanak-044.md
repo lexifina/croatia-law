@@ -1,0 +1,8 @@
+## Raspolaganje autorskim pravom osnivanjem prava iskoriŠtavanja
+# Članak 44.
+(1) Autor može za drugoga osnovati pravo iskorištavanja autorskog djela ili mu prepustiti ostvarivanje autorskog prava ugovorom, davanjem odobrenja (dozvole) za korištenje ili drugim pravnim poslom.
+(2) Autor može za drugoga osnovati pravo na temelju kojega će drugi moći autorsko djelo koristiti na svaki ili na određen način (pravo iskorištavanja autorskog djela). Pravo iskorištavanja može biti osnovano kao isključivo ili neisključivo pravo, ograničeno sadržajno, vremenski ili prostorno.
+(3) Nositelj isključivog prava iskorištavanja može autorsko djelo koristiti na način koji je u skladu sa sadržajem njegovog prava te svakoga drugog, uključujući autora, isključiti od takvog korištenja, ako ovim Zakonom nije drukčije određeno. Pri osnivanju isključivog prava iskorištavanja može se odrediti da autor pridržava za sebe pravo korištenja autorskog djela.
+(4) Neisključivo pravo iskorištavanja ovlašćuje svojeg nositelja da autorsko djelo koristi na način koji je u skladu sa sadržajem njegovog prava, ali ga ne ovlašćuje da druge spriječi u bilo kojem korištenju tog djela.
+(5) Ako pri osnivanju prava iskorištavanja autorskog djela nije izričito naveden način korištenja autorskog djela, smatra se da je stjecatelj stekao pravo koristiti autorsko djelo samo na način potreban za ispunjenje svrhe pravnog posla na temelju kojeg se stječe pravo. Ako se iz svrhe pravnog posla ne može utvrditi je li pravo osnovano kao isključivo ili neisključivo, odnosno prostorno ograničeno, smatra se da je osnovano kao neisključivo pravo za područje Republike Hrvatske.
+(6) Autor je dužan suzdržavati se postupaka koji bi ometali nositelja prava iskorištenja u izvršavanju njegovog prava.

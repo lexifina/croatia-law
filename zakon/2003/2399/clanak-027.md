@@ -1,0 +1,6 @@
+## Radiodifuzijsko emitiranje
+# Članak 27.
+(1) Pravo radiodifuzijskog emitiranja isključivo je pravo priopćavanja autorskog djela javnosti pomoću radijskih ili televizijskih programskih signala koji su namijenjeni prijamu za javnost, bežično (uključujući satelit) ili putem žica (uključujući kabel i mikrovalni sustav).
+(2) Satelit, za potrebe ovoga Zakona, je svaki satelit koji radi na frekvencijskim područjima rezerviranima za radiodifuzijsko emitiranje signala namijenjenih prijamu javnosti ili zatvorenoj osobnoj komunikaciji. Ako se radi o zatvorenoj osobnoj komunikaciji uvjeti za osobni prijam signala moraju biti usporedivi s onima za prijam signala za javnost.
+(3) Priopćavanje javnosti preko satelita iz stavka 1. ovoga članka postoji kada se, pod kontrolom i odgovornošću organizacije za radiodifuziju, programski signali namijenjeni prijamu za javnost odašilju u neprekinuti komunikacijski lanac koji vodi prema satelitu i od satelita prema zemlji.
+(4) Kada su programski signali iz stavka 2. ovoga članka kodirani, priopćavanje se smatra obavljenim ako je od strane organizacije za radiodifuziju ili uz njezin pristanak javnosti pružena mogućnost opskrbe sredstvima za dekodiranje tih signala.

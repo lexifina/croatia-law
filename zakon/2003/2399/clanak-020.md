@@ -1,0 +1,7 @@
+## Distribucija i iznajmljivanje
+# Članak 20.
+(1) Pravo distribucije je isključivo pravo stavljanja u promet izvornika ili primjeraka autorskog djela prodajom ili na koji drugi način te njihova nuđenja javnosti u tu svrhu.
+(2) S prvom prodajom ili drugim prijenosom vlasništva nad izvornikom ili primjercima autorskog djela na području Republike Hrvatske, od strane nositelja prava ili uz njegov pristanak, iscrpljuje se pravo distribucije u pogledu tog izvornika odnosno tih primjeraka autorskog djela za područje Republike Hrvatske. Iscrpljenjem prava distribucije ne prestaje pravo iznajmljivanja autorskog djela, pravo autora da odobri ili zabrani izvoz ili uvoz izvornika ili primjeraka djela u određenu državu, kao i pravo na naknadu za javnu posudbu djela prema članku 33. ovoga Zakona. U pogledu zbirki iscrpljenje prava distribucije se odnosi samo na daljnju prodaju.
+(3) Iznajmljivanje, po ovom Zakonu, označava davanje na korištenje izvornika ili primjeraka djela u ograničenom razdoblju, radi ostvarivanja izravne ili neizravne imovinske ili komercijalne koristi.
+(4) Pravo iznajmljivanja autorskog djela, po ovom Zakonu, ne odnosi se na izgrađena djela arhitekture i djela primijenjenih umjetnosti.
+(5) Autor koji svoje pravo iznajmljivanja prepusti proizvođaču fonograma ili filmskom producentu, ili kojoj drugoj osobi, zadržava pravo na primjerenu naknadu za iznajmljivanje svojega autorskog djela. Autor se ne može odreći prava na tu primjerenu naknadu. Naknadu za iznajmljivanje dužna je plaćati osoba koja iznajmljuje autorsko djelo.

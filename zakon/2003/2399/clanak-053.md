@@ -1,0 +1,3 @@
+## OdreĐivanje naknade za koriŠtenje autorskog djela
+# Članak 53.
+Ako visina naknade nije određena pravnim poslom, ili je njena visina određena neprimjereno, ili nije određena prema odredbi članka 162. ovoga Zakona, autor ima pravo na primjerenu naknadu. Primjerena je ona naknada koja se u pravnom prometu pošteno mora dati u času zaključenja pravnog posla s obzirom na vrstu i opseg korištenja autorskog djela, uzimajući pri tom u obzir i financijski uspjeh u korištenju autorskog djela, vrstu i obujam autorskog djela, trajanje korištenja, postojanje sporazuma između odgovarajuće udruge autora i odgovarajućeg udruženja korisnika kojim se utvrđuje visina primjerene naknade, kao i druge elemente na temelju kojih se može donijeti odluku o primjerenoj naknadi.

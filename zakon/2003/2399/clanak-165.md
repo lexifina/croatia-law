@@ -1,0 +1,8 @@
+## NaČela za odreĐivanje visine naknade cjenikom
+# Članak 165.
+(1) Ako je korištenje predmeta zaštite nužno za djelatnost korisnika na način da djelatnost korisnika ovisi o korištenju predmeta zaštite, kao što je to u slučaju radiodifuzijskog emitiranja, koncertnih, plesnih i drugih korištenja predmeta zaštite uz naplatu, visina naknade određuje se, u pravilu, u postotku od prihoda, odnosno primitka što ga korisnik ostvaruje od korištenja predmeta zaštite.
+(2) Ako se korištenjem predmeta zaštite ne ostvaruje prihod, odnosno primitak, visina naknade može se odrediti u postotku od troškova potrebnih za korištenje predmeta zaštite kao što su naknade ili plaće umjetnika izvođača ili trošak korištenja prostora za korištenje predmeta zaštite ili drugi odgovarajući trošak.
+(3) Uz naknade koje se određuju u postotku odredit će se najniže svote naknada.
+(4) U slučaju da korisnik uskrati davanje podataka potrebnih za određivanje naknade u postotku, udruga za ostvarivanje prava može sama utvrditi te podatke prema podacima dobivenim sukladno članku 161. ovoga Zakona.
+(5) Ako korištenje predmeta zaštite nije nužno korisniku, ali je korisno ili ugodno (kao što je to u slučaju smještajnih objekata, izložbenih prostora, prijevoznih sredstava i nekih ugostiteljskih objekata), visina naknada određuje se u paušalnim iznosima za stalna i za povremena korištenja predmeta zaštite.
+(6) Prilikom utvrđivanja visine paušalne naknade i naknade iz stavka 3. ovoga članka uzimaju se u obzir okolnosti korištenja, kao što su vrsta korištenja, mjesto i zemljopisno područje korištenja, kategorija i veličina prostora u kojem se koriste predmeti zaštite, trajanje i broj korištenja te razlike u visini cijena u poslovanju korisnika.

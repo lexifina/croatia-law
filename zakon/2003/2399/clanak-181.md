@@ -1,0 +1,10 @@
+## Zahtjev za uniŠtenjem, preinaČenjem ili predajom primjeraka nastalih povredom i sredstava kojima je povreda poČinjena
+# Članak 181.
+(1) Nositelj čije je isključivo pravo iz ovoga Zakona povrijeđeno ima pravo zahtijevati uništenje, odnosno preinačenje svih primjeraka koji su bespravno izrađeni ili stavljeni na tržište ili su namijenjeni stavljanju na tržište.
+(2) Umjesto mjere iz stavka 1. ovoga članka onaj čije je pravo iz ovoga Zakona povrijeđeno ima pravo zahtijevati da mu kršitelj prava koji je u posjedu primjeraka iz stavka 1. ovoga članka, ili je njihov vlasnik, preda takve primjerke uz naknadu koja ne može biti viša od troškova njihove proizvodnje.
+(3) Odredbe iz stavka 1. i 2. ovoga članka odnose se na arhitektonska djela samo ako postoji posebno opravdan razlog za njihovo uništenje odnosno predaju.
+(4) Ako su mjere iz stavka 1., 2. i 3. ovoga članka u određenom slučaju nerazmjerne naravi i intenzitetu povrede, a povreda se može otkloniti na neki drugi način, sud može za takav slučaj odrediti druge potrebne mjere. U tom slučaju nositelju prava pripada barem naknada u iznosu koji ne može biti manji od onog koji bi dobio za ovlašteno korištenje odnosnog prava.
+(5) Mjere iz stavka 1. i 2. ovoga članka ne odnose se na odvojive dijelove primjeraka čija proizvodnja i stavljanje na tržište nisu bespravni.
+(6) Odredbe iz ovoga članka na odgovarajući način primjenjuju se i na sredstva korištena ili namijenjena za izradu primjeraka kojima se čini povreda prava iz ovoga Zakona ili koja su isključivo ili pretežito namijenjena za to.
+(7) Odredbe iz ovoga članka neće se primjenjivati ako bi uništenjem sredstava iz stavka 6. ovoga članka nastala veća šteta od štete koja je nastala povredom prava iz ovoga Zakona osim ako se radi o sredstvima koja su isključivo ili pretežito namijenjena za povredu prava iz ovoga Zakona.
+(8) Zahtjevi iz ovoga članka u odnosu na treće poštene osobe zastarijevaju 3 godine od kad je nositelj prava saznao za bespravnu izradu predmeta, odnosno njihovo stavljanje na tržište, odnosno da su namijenjeni za stavljanje na tržište, a najkasnije za 5 godina od bespravne izrade, odnosno stavljanja na tržište.

@@ -1,0 +1,3 @@
+## Reproduciranje autorskog djela za privatno i drugo vlastito koriŠtenje
+# Članak 82.
+Fizička osoba može reproducirati autorsko djelo na bilo koju podlogu ako to čini za privatno korištenje, kao i reproducirati autorsko djelo u obliku fotokopije i za drugo vlastito korištenje, koje nema izravno ili neizravno komercijalnu svrhu i nije namijenjeno ili pristupačno javnosti. Nije dopušteno reproduciranje cijele knjige osim ako su primjerci te knjige rasprodani najmanje dvije godine, grafičkih izdanja glazbenih djela (u daljnjem tekstu: notni materijal), elektroničkih baza podataka, kartografskih djela kao ni izgradnja arhitektonskog objekta, ako ovim Zakonom ili ugovorom nije drukčije određeno.
