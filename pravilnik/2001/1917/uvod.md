@@ -1,0 +1,1 @@
+Na temelju članka 58. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99. i 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 10. prosinca 2001., donio je:
