@@ -1,0 +1,5 @@
+# Članak 4.
+Gradovi na teritoriju Republike Hrvatske su slijedeća sjedišta tijela županija:
+1. Bjelovar, 2. Čakovec, 3. Dubrovnik, 4. Gospić. 5. Karlovac, 6. Koprivnica, 7. Krapina, 8. Pazin, 9. Požega,10. Osijek,11. Rijeka,12. Sisak,13. Slavonski Brod,14. Split,15. Ši benik, 16. Varaždin, 17. Virovitica, 18. Vukovar, 19. Zadar i 20. Zagreb.
+Status grada, pored gradova iz stavka 1. ovog članka imaj u i :
+1. Beli Manastlr, 2. Biograd na moru, 3. Buje, 4. Buzet, 5. Crikvenica, 6. Čabar, 7. Daruvar, 8. Duga Resa, 9. Drniš,10. Đakovo,11. Hvar,12. Kaštela, 13. Knin, 14. Korčula, 15. Križevci, 16. Krk,17. Kutina, 18. Ilok, 19. Imotski, 20. Labin, 21. Makarska, 22. Metković, 23. Našice, 24. Nova Gradiška, 25. Novi Vinodolski, 26. Novska, 27. Ogulin, 28. Omiš, 29. Opatija, 30. Otočac, 31. Petrinja, 32. Podravska Slatina, 33. Pula, 34. Ploče, 35. Poreč, 36. Rab, 37: Rovinj, 38. Samobor, 39. Senj, 40. Sinj, 41. Slunj, 42. Solin, 43. Trogir, 44. Valpovo, 45. Vinkovci, 46. Vis, 47. Zabok, 48. Zlatar, 49. Županja.
