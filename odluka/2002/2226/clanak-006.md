@@ -1,0 +1,4 @@
+# Članak 6.
+Ova Odluka stupa na snagu osmog dana od dana objavljivanja u »Narodnim novinama«, a primjenjuje se od 1. siječnja 2003. godine.
+Ova Odluka objavljuje se u »Službenom vjesniku Brodsko-
+-posavske županije«.

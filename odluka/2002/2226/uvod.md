@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne (područne) samouprave (»Narodne novine«, broj: 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 29. Statuta Općine Brodski Stupnik (»Službeni vjesnik Brodsko-posavske županije« broj 10/01), Općinsko vijeće Općine Brodski Stupnik na 12. sjednici održanoj 12. studenoga 2002. godine, donijelo je
