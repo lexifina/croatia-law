@@ -1,0 +1,2 @@
+# Članak 3.
+Nekretnine i sredstva rada kao i sva prava i obveze u svezi s tim nekretninama i sredstvima društvenog pravobranioca samoupravljanja Republike Hrvatske i društvenog pravobranioca samoupravljanja zajednice općina prenose se na Republiku Hrvatsku, a društvenog pravobranioca samoupravljanja gradske zajednice općina i društvenog pravobranioca samoupravljanja općina prenose se na grad Zagreb odnosno na odgovarajuću općinu, shodnom primjenom Zakona o načinu raspodjele imovine i o statusu radnika regionalnih zajednica općina ("Narodne novine", br. 19/90).
