@@ -1,0 +1,2 @@
+# Članak 2.
+Vlada Republike Hrvatske određuje specijalizirana i posebno opremljena poduzeća iz područja graditeljstva koja su od posebnog značaja za obranu Republike. Izvršno vijeće općine ili grada određuje poduzeća iz područja graditeljstva, koja obavljaju te poslove za vrijeme ratnog stanja. Odlukom iz stavka 1. i 2. ovog članka određuje se ratna organizacija i način rada tih poduzeća te minimum kapaciteta neophodno potrebnih za vrijeme ratnog stanja.

@@ -1,0 +1,2 @@
+# Članak 11.
+Ministar zaštite okoliša, prostornog uređenja i graditeljstva može, neovisno od zakonom propisanih uvjeta i postupaka, razriješiti organ upravljanja i direktora odnosno drugi poslovodni organ poduzeća koje obavlja djelatnost u oblasti graditeljstva i imenovati novi organ upravljanja odnosno drugi poslovodni organ, izuzev u poduzećima na kojima postoji vlasništvo. U poduzećima iz stavka 1. ovoga članka organ upravljanja donosi sve opće akte.
