@@ -1,0 +1,5 @@
+# Članak 4.
+RADNA SKUPINA
+Stranke će osnovati Talijansko-hrvatsku radnu skupinu za suradnju na području malih i srednjih poduzeća (u daljnjem tekstu »Radna skupina«) za čiji rad će biti odgovorne institucije nadležne za Memorandum.
+Radnom skupinom će supredsjedati po jedan predstavnik svake stranke imenovan od institucija zaduženih za Memorandum. Svaka zemlja bit će predstavljena unutar Radne skupine putem članova iz javnih, privatnih ili mješovitih organizacija, a koji imaju znanja koja odgovaraju domašaju ovog Memoranduma. Broj članova Radne skupine bit će određen, na razuman način, od strane dva supredsjedatelja. Radna skupina može osnovati unutarnje podskupine odgovorne za pojedina područja.
+Radna skupina sastajat će se kad to dva supredsjedatelja smatraju potrebnim, a u pravilu dva puta godišnje, naizmjenično u Hrvatskoj i Italiji, a podnosit će izvještaje institucijama koje su zadužene za provođenje Memoranduma i predlagat će program rada za naredni period. Prvi izvještaj bit će podnesen u roku od šest mjeseci od konstituiranja Radne skupine.
