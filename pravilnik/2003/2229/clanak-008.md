@@ -1,0 +1,2 @@
+# Članak 8.
+Izvori topline u prostoru za ispitivanje protočnih mjerila obujma tekućine osim vode moraju biti najmanje 1,0 m udaljeni od opreme za ispitivanje protočnih mjerila obujma tekućine osim vode, tj. od mjesta gdje se obavlja ispitivanje protočnih mjerila obujma tekućine osim vode i moraju omogućiti ujednačeno zagrijavanje prostora za ispitivanje protočnih mjerila obujma tekućine osim vode.
