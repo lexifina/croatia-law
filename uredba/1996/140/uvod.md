@@ -1,0 +1,1 @@
+Na temelju članka 12. Zakona o ustanovama ("Narodne novine", broj 76/93), te članka 32. stavka 1., a u svezi s člankom 85. Zakona o zdravstvenoj zaštiti ("Narodne novine", br. 75/93 i 11/94), Vlada Republike Hrvatske je na sjednici održanoj 26. siječnja 1996. godine donijela
