@@ -1,0 +1,6 @@
+1. Puna svota doplatka za pomoć i njegu korisnicima koji su pravo na doplatak za pomoć i njegu ostvarili do 31. prosinca 1998. u bivšem Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, od 1. siječnja 1999. iznosi 489,50 kn.
+2. Smanjena svota doplatka za pomoć i njegu korisnicima koji su pravo na doplatak za pomoć i njegu ostvarili do 31. prosinca 1998. u bivšem Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, od 1. siječnja 1999. iznosi 368,92 kn.
+3. Slijepom korisniku obiteljske mirovine koji je pravo na doplatak za pomoć i njegu ostvario do 31. prosinca 1998. u bivšem Republičkom fondu mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, doplatak za pomoć i njegu pripada u punoj svoti.
+4. Za korisnika doplatka za pomoć i njegu iz članka 76. stavka 1. i točke 3. Zakona o mirovinskom i invalidskom osiguranju, doplatak za pomoć i njegu od 1. siječnja 1999. iznosi 612,55 kn.
+5. U skladu s odredbama točke 1. do 4. ove odluke, odredit će se po službenoj dužnosti, bez donošenja rješenja, pripadajuća nova svota doplatka za pomoć i njegu svim korisnicima koji imaju pravo na taj doplatak na dan 31. prosinca 1998.
+6. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1999.
