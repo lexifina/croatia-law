@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Kada osoba protiv koje se podiže protest u smislu članka 73. stavak 2. Zakona o mjenici odnosno članka 23. točka l0. Zakona o čeku izvrši propuštenu isplatu u ruke javnog bilježnika, javni će bilježnik to potvrditi ne mjenici odnosno čeku. Sadržaj potvrde unijet će se u cijelosti u poseban zapisnik koji se zavodi u opći poslovni upisnik. Na potvrdi na mjenici (čeku) javni će bilježnik staviti svoj potpis, datum i broj spisa pod kojim je potvrda zavedena te svoj pečat, pa će mjenicu (ček) predati osobi protiv koje se protest podiže.
+(2) U slučaju djelomične isplate javni će bilježnik postupiti po članku 73. stavak 3.,Zakona o mjenici.
