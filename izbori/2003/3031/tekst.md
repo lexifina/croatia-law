@@ -1,0 +1,121 @@
+Državno izborno povjerenstvo Republike Hrvatske sastavljeno od Ivice Crnića kao predsjednika i članova Alemke Brkljačić-Radančević, Andrije Erakovića, Miljenke Pajalić i Mladena Turkalja te članova proširenog sastava dr. Hrvoja Kraljevića, Miše Zorenića, Mirana Škerla, mr. sc. Milana Škugora, Ane Gregović i Bojane Pejkić, na temelju članka 81. stavka 2. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 69/03 - pročišćeni tekst), objavljuje službene rezultate izbora zastupnika u Hrvatski sabor provedenih dana 22. i 23. studenoga 2003. godine.
+IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA
+U VIII. IZBORNOJ JEDINICI
+I. Od ukupno 374.678 birača, glasovao je (prema listićima) 239.851 birač, odnosno 64,02 %.
+Važećih glasačkih listića utvrđeno je 233.670, odnosno 97,42 %.
+Nevažećih je bilo 6.181 glasački listić, odnosno 2,58 %.
+II. Pojedine liste dobile su sljedeći broj glasova:
+1. SOCIJALDEMOKRATSKA
+PARTIJA HRVATSKE - SDP
+ISTARSKI DEMOKRATSKI
+SABOR - IDS 95.144 glasa 40,72 %
+2. HRVATSKA DEMOKRATSKA
+ZAJEDNICA - HDZ 43.384 glasa 18,57 %
+3. HRVATSKA NARODNA
+STRANKA - HNS
+PRIMORSKO-GORANSKI SAVEZ
+- PGS 26.861 glas 11,50 %
+4. HRVATSKA STRANKA
+UMIROVLJENIKA - HSU 11.869 glasova 5,08 %
+5. HRVATSKA STRANKA PRAVA
+- HSP 8.382 glasa 3,59 %
+6. HRVATSKA SELJAČKA STRANKA
+- HSS 7.004 glasa 3,00 %
+7. HRVATSKA SOCIJALNO-
+-LIBERALNA STRANKA - HSLS
+DEMOKRATSKI CENTAR - DC 6.495 glasova 2,78 %
+8. ISTARSKI DEMOKRATSKI
+FORUM - FORO DEMOCRATICO
+ISTRIANO - IDF - FDI 5.685 glasova 2,43 %
+9. BEBIĆ VLADIMIR
+- TREĆI HRVATSKI BLOK
+- BV - TREĆI BLOK 4.787 glasova 2,05 %
+10.SOCIJALISTIČKA RADNIČKA
+PARTIJA HRVATSKE - SRP 3.290 glasova 1,41 %
+11.ZELENA STRANKA - ZS
+STRANKA NOVE ALTERNATIVE
+- POKRET ZELENIH -
+SNA - POKRET ZELENIH
+PRIMORSKO-GORANSKA STRANKA
+UMIROVLJENIKA - PGSU
+ZELENI - STRANKA NOVOG
+DOBA - ZELENI - SND 3.287 glasova 1,41 %
+12.ZELENI HRVATSKE - ZELENI HR 1.827 glasova 0,78 %
+13.DEMOKRATSKI SAVEZ ZELENIH
+- ZELENI 1.652 glasa 0,71 %
+14.HRVATSKA STRANKA PRAVA-1861
+- HSP-1861 1.389 glasova 0,59 %
+15.HRVATSKI DEMOKRŠĆANI -
+DEMOKRŠĆANI 1.335 glasova 0,57 %
+16.HRVATSKI BLOK - POKRET ZA
+MODERNU HRVATSKU -
+HRVATSKI BLOK
+HRVATSKI ISTINSKI PREPOROD
+- HIP 1.218 glasova 0,52 %
+17.DEMOKRATSKA SOCIJALNA UNIJA
+- SNAGA NARODA - DSU - SN 1.179 glasova 0,50 %
+18.POKRET ZA LJUDSKA PRAVA
+- STRANKA EKOLOŠKI
+SVJESNIH GRAĐANA - POL
+ISTARSKA NEZAVISNA STRANKA 1.118 glasova 0,48 %
+19.HRVATSKA ČISTA STRANKA
+PRAVA - HČSP
+HRVATSKA KRŠĆANSKA
+DEMOKRATSKA UNIJA - HKDU
+HRVATSKA DEMOKRATSKA
+SELJAČKA STRANKA - HDSS 1.085 glasova 0,46 %
+20.NEOVISNA LISTA - ĐULA
+RUŠINOVIĆ SUNARA 1.025 glasova 0,44 %
+21.NEOVISNA LISTA - PETAR
+CIGANOVIĆ 980 glasova 0,42 %
+22.AKCIJA SOCIJALDEMOKRATA
+HRVATSKE - ASH 938 glasova 0,40 %
+23.ALIJANSA ZA PRAVNU DRŽAVU
+- ALIJANSA 762 glasa 0,33 %
+24.HRVATSKA GRAĐANSKO-
+-SELJAČKA STRANKA - HGSS
+HRVATSKA KRŠĆANSKA
+DEMOKRATSKA STRANKA - HKDS 721 glas 0,31 %
+25.HRVATSKA PUČKA STRANKA - HPS 452 glasa 0,19 %
+26.STRANKA HRVATSKIH
+BRANITELJA - SHB 399 glasova 0,17 %
+27.HRVATSKI PRAVAŠI - HP 383 glasa 0,16 %
+28.DEMOKRATSKA AKCIJA NARODA
+HRVATSKE - DAN 377 glasova 0,16 %
+29.SOCIJALNO-DEMOKRATSKA UNIJA
+HRVATSKE - SDU 263 glasa 0,11 %
+30.DOMOVINSKA GRAĐANSKA
+STRANKA - DGS 214 glasova 0,09 %
+31.HRVATSKI REPUBLIKANCI - HR 165 glasova 0,07 %
+III. Na temelju članka 38. Zakona o izborima zastupnika u Hrvatski sabor, liste koje sudjeluju u diobi zastupničkih mjesta su:
+1. SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+ISTARSKI DEMOKRATSKI SABOR - IDS
+2. HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+3. HRVATSKA NARODNA STRANKA - HNS
+PRIMORSKO-GORANSKI SAVEZ - PGS
+4. HRVATSKA STRANKA UMIROVLJENIKA - HSU
+IV. Na temelju članka 37. Zakona o izborima zastupnika u Hrvatski sabor, pojedine liste dobile su sljedeći broj zastupničkih mjesta i zastupnike u Hrvatskom saboru:
+1. SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+ISTARSKI DEMOKRATSKI SABOR - IDS
+dobila je 8 mjesta, te su s te liste izabrani zastupnici:
+1. DAMIR KAJIN
+2. GORDANA SOBOL
+3. VALTER DRANDIĆ
+4. BISERKA PERMAN
+5. IVAN JAKOVČIĆ
+6. ANTON PERUŠKO
+7. DOROTEA PEŠIĆ-BUKOVAC
+8. ZDENKO ANTEŠIĆ
+2. HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+dobila je 3 mjesta, te su s te liste izabrani zastupnici:
+1. LINO ČERVAR
+2. VLADIMIR VRANKOVIĆ
+3. dr. sc. NEVIO ŠETIĆ
+3. HRVATSKA NARODNA STRANKA - HNS
+PRIMORSKO-GORANSKI SAVEZ - PGS
+dobila je 2 mjesta, te su s te liste izabrani zastupnici:
+1. prof. dr. sc. MILJENKO DORIĆ
+2. mr. sc. NIKOLA IVANIŠ
+4. HRVATSKA STRANKA UMIROVLJENIKA - HSU
+dobila je 1 mjesto, te je s te liste izabran zastupnik:
+1. SILVANO HRELJA
