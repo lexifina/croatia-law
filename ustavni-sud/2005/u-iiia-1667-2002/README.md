@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-1667/2002 od 22. ožujka 2005.
+
+- Case: `U-IIIA-1667/2002`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2005-03-22`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C1256A25004A262AC1256FCE003BF1E2>
+- Official database page SHA-256: `594f6693f04ccd6d3a152c86503c99e2f7359ba62ddae940c3bee3fb1d7b4ac0`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
