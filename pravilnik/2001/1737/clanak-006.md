@@ -1,0 +1,2 @@
+# Članak 6.
+Odredbe članka 2. i 4. ovog Pravilnika ne odnose se na objekte stanica za tehnički pregled vozila čiju je izgradnju prije stupanja na snagu ovog Pravilnika, sukladno odredbama temeljnog Pravilnika broj 8584 odnosno I/1, Broj: 2273-1/98 od 18. prosinca 1998. godine (objavljenog u »Narodnim novinama« broj: 166/98) započela stručna organizacija odnosno pravna ili fizička osoba koja je u tom razdoblju zaključila ugovor sa stručnom organizacijom.
