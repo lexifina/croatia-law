@@ -1,0 +1,4 @@
+# Članak 12.
+1. Svaka država može u trenutku potpisivanja ili polaganja svoje isprave o ratifikaciji, prihvatu ili odobrenju odrediti područje ili područja na kojima će se ova Konvencija primjenjivati.
+2. Svaka država može, prigodom polaganja svoje isprave o ratifikaciji, prihvatu ili odobrenju ili na bilo koji kasniji datum, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na bilo koje drugo područje ili područja određena u izjavi, za čije je međunarodne odnose odgovorna ili u čije je ime ovlaštena preuzeti obvezu.
+3. Svaka izajva dana u skladu s odredbama prethodnoga stavka može biti povučena u odnosu na bilo koje područje navedeno u toj izjavi obaviješću upućenom glavnom tajniku Vijeća Europe. Takvo povlačenje proizvodi učinak odmah ili onog kasnijeg datuma koji je naveden u obavijesti.

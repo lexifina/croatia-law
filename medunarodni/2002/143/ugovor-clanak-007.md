@@ -1,0 +1,2 @@
+# Članak 7.
+Država ugovornica na čijem je državnom području pronađena osoba za koju se sumnja da je počinila kazneno djelo iz članka 1., a primila je zahtjev za izručenje sukladno uvjetima iz članka 6. stavka 1., ako ne izruči tu osobu, dostavit će taj predmet, bez ikakvih izuzetaka i bez nepotrebnog kašnjenja, svojim nadležnim vlastima u cilju progona. Te će vlasti donijeti odluku na isti način kao i u slučaju svakog teškog kaznenog djela prema pravu te države.
