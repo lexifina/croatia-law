@@ -1,0 +1,1 @@
+Na temelju člana 6. točka 1. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske ("Narodne novine", broj 58/90), Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske na sjednici održanoj 20. prosinca 1990, donosi
