@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Zakona o izborima članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (»Narodne novine«, broj 90/92, 69/95 i 59/96) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 13. svibnja 1999. godine, donijela
