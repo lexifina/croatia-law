@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 17. stavku 2. točki 2. riječ: »JMBG« zamjenjuje se riječima: »broj osobne iskaznice«, u stavku 2. iza točke 5. dodaje se točka 6. koja glasi: »Nositelj ove iskaznice je povjerenik za izvršavanje zaštitnog nadzora i rada za opće dobro na slobodi, državni službenik Ministarstva pravosuđa, koji obavlja poslove iz djelokruga povjerenika propisanih Zakonom o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi (»Narodne novine« 128/99)«.
