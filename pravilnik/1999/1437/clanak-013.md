@@ -1,0 +1,2 @@
+# Članak 13.
+Nastavnici s propisanom vrstom stručne spreme koji nisu stekli pedagoško-psihološku naobrazbu, a uspješno su radili u nastavi najmanje pet godina, i o tome imaju ocjenu nastavničkog vijeća, mogu i dalje izvoditi nastavu u srednjoj školi iz predmeta za koji imaju propisanu vrstu stručne spreme pod uvjetom da polože stručni ispit u roku od godine dana od dana stupanja na snagu ovoga pravilnika.

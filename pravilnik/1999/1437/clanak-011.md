@@ -1,0 +1,5 @@
+# Članak 11.
+Članak 58. mijenja se i glasi:
+"Članak 58.
+Što se smatra potrebnom stručnom spremom nastavnika u slučajevima koji nisu propisani ovim pravilnikom (promjena naziva ili uvođenje novog nastavnog predmeta, akademskog ili stručnog naziva, promjena nastavnog plana i programa, ekvivalentni i sinonimni akademski nazivi i sl.) utvrđuje Ministarstvo prosvjete i športa rješenjem koje se, sukladno članku 212., stavak 2. Zakona o općem upravnom postupku, objavljuje i primijenjuje na sve osobe koje ispunjavaju uvjete iz rješenja.
+Iznimno, kad postoji potreba, ministar prosvjete i športa može na zahtjev škole odobriti rješenjem izvođenje nastave iz određenog nastavnog predmeta osobi sa završenom visokom stručnom spremom koja nije propisana za taj nastavni predmet, ako je ona taj predmet završila u višoj školi, odnosno na VI. stupnju stručne spreme, ili ako ga je slušala na fakultetu najmanje četiri semestra (o čemu se uz zahtjev prilaže potvrda fakulteta), pod uvjetom da ta osoba stekne pedagoško-psihološku naobrazbu i položi stručni ispit u propisanom roku.
