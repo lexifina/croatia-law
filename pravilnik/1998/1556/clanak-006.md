@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 69. u tablici u koloni 1. "Kadmij" u redu "Pojedinačne krmne smjese s više od 8% fosfora" i redu "Mineralna krmiva" oznake količine "0,50" i "0,75" u koloni tri zamjenjuju se oznakom količine "0,50*" i "0,75*". Na kraju tablice dodaje se tekst "* Sadržaj kadmija odnosi se na postotak fosfora u mineralnim krmivima ili pojedinačnoj krmnoj smjesi s više od 8% fosfora - na svakih 1% fosfora, odnosi se 0,75 mg/kg odnosno 0,50 mg/kg kadmija kojeg treba preračunati prema sadržaju fosfora u pripravku".
+U tablici iza riječi "Ulje gorušice, tekuće preračunano kao" dodaje se riječ "Allylisothiocianat".
