@@ -1,0 +1,2 @@
+# Članak 4.
+Bilanca prihoda i rashoda i Posebni dio Proračuna Općine Brač za 1993. godinu, sastavni su dio ove Odluke i objavljuju se u Službenom glasniku Općine Brač. Zajedno s Bilancom prihoda i rashoda i Posebnim dijelom Proračuna Općine Brač, objavljuje se i Opći dio Proračuna, i članka 1. ove Odluke. Danom početka primjenjivanja ove Odluke primjenjuje se i Bilanca prihoda i rashoda, te Posebni dio Proračuna Općine Brač.
