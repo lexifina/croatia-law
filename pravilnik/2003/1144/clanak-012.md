@@ -1,0 +1,8 @@
+## 8. PRIJAVA U REGISTAR POREZNIH OBVEZNIKA
+# Članak 12.
+(1) Porezni obveznik koji želi prijeći na utvrđivanje paušalnog dohotka i plaćanje paušalnog poreza i prireza od obavljanja samostalne djelatnosti te koji počinje obavljati samostalnu djelatnost za koju će se utvrđivati paušalni dohodak i plaćati paušalni porez na dohodak i prirez, obvezan je poreznoj upravi nadležnoj prema mjestu prebivališta ili uobičajenog boravišta podnijeti prijavu u registar poreznih obveznika, u skladu s propisima o porezu na dohodak.
+(2) Prijava u registar podnosi se u roku osam dana od dana početka obavljanja samostalne djelatnosti, a kod prelaska na utvrđivanje paušalnog dohotka i plaćanje paušalnog poreza do kraja tekućeg razdoblja, za iduće porezno razdoblje.
+(3) Ako tijekom poreznog razdoblja za koje je porez utvrđen u paušalnom iznosu porezni obveznik prestane obavljati samostalnu djelatnost odnosno ako prestanu uvjeti propisani člankom 2. ovoga Pravilnika ili samostalna djelatnost počinje mirovati (privremena obustava samostalne djelatnosti), porezni obveznik dužan je poreznoj upravi nadležnoj prema mjestu prebivališta ili uobičajenog boravišta podnijeti prijavu o prestanku odnosno privremenoj obustavi u roku 8 dana od dana nastanka promjene.
+(4) Porezni obveznik koji želi prijeći na utvrđivanje paušalnog dohotka obvezan je uz prijavu iz stavka 1. ovoga članka dostaviti:
+1. pregled primitaka i izdataka prema podacima iz Knjige primitaka i izdataka - Obrazac KPI,
+2. pregled ukupnog iznosa tražbina, a na temelju izdanih računa iz Evidencije o tražbinama i obvezama - Obrazac TO za porezno razdoblje (kalendarsku godinu) koje prethodi godini prelaska na paušalni dohodak.
