@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 17/93., 69/97., 33/00., 73/00., 127/00., 59/01. i 107/01.), te članka 28. Statuta Općine Bilice (»Službeni vjesnik Šibensko-kninske županije«, br. 01/03.) Općinsko vijeće Općine Bilice, na svojoj 3. sjednici održanoj dana 11. veljače 2003. godine, donijelo je
