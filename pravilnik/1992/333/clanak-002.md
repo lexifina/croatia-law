@@ -1,0 +1,10 @@
+# Članak 2.
+Pojedini pojmovi upotrijebljeni u ovom pravilniku imaju slijedeće znaćenje:
+Štetna tvar je svaka tvar koja se u potjoprivrednom tlu nađe u koncentraciji koja privremeno ili trajno dovodi u pitanje njegovu osnovnu ulogu povoljnog staništa za kulturno i prirodno bilje. U štetne tvari spadaju teški metali i potencijalno toksični elementi (Cd, Hg, Mo, As, Co, Ni. Cu, Pb. Cr i Zn) te policiklički aromatski ugljikovodici - PAH. Štetne tvari su i tvari koje se uobičajeno unose u poljoprivredno tlo, ali zbog nestručne primjene u neprimjerenim količinama, u krivo vrijeme ili na neprikladnim tlima, mogu prouzročiti štete po okoliš.
+Zagađenje poljoprivrednog tla je stanje koje nastaje izravnim unošenjem ili postupnim rasprostranjenjem (transportom ili taloženjem) štetnih tvari, zrakom ili vodom i njihovim nakupljanjem u tlu iznad maksimalno dozvoljene koncentracije po odredbama ovog pravilnika.
+Poljoprivredno tlo je tlo koje se koristi za poljoprivrednu proizvodnju pod čime se podrazumijeva površinski obrađeni sloj tla, kao i dulji horizont koji nije zahvaćen obradom, uključujući rastresite dijelove supstrata s podzemnom vodom koji mogu također biti zagadeni štetnim tvarima unijetim u tlo na opisani način.
+Integralna proizvodnja bilja je ekološki prihvatljiva proizvodnja uz racionalno korištenje agrotehničkih mjera obrade, gnojidbe i zaštite bilja bez štete po okoliš.
+Gradski mulj je ostatak od čišćenja otpadnih komunalnih voda u prirodnom - izvornom stanju, bez dodavanja hraniva, u kojem su razgrađene lako razgradive organske tvari.
+Kompost iz gradskog mulja i otpada je tvar slična humusu, nastala kao produkt mikrobiološke razgradnje iz otpada i mulja koji nije isključivo biološke naravi, i bez dodavanja hraniva iz drugih izvora.
+Gnojovka je smjesa krutih i tekućih izlučina domaćih životinja prikupljena tzv. tekućim izgnojavanjem.
+Sredstva za popravak poljoprivrednog tla su materijali za kalcifikaciju, kondicioneri tla, različiti organski i organsko-mineralni proizvodi koji se na tržištu pojavljuju pod razlićitim trgovačkim nazivima.

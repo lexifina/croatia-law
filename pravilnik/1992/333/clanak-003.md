@@ -1,0 +1,6 @@
+# Članak 3.
+Poljoprivredno tlo se smatra zagađenim kada sadrži više od slijedećih količina štetnih tvari, izraženo u mg/kg suhog tla ekstrahirano u zlatotopki, osim PAH koji se ekstrahira posebnim postupko prema slijedećoj tablici:
+_________________________________________________________________________________ mg/kg apsolutno suhog poljoprivrednog tla Teksturna laka tla Teksturna teža i Elemenat skeletna tla i tla teška tla i tla siromašna humusom bogata humusom _________________________________________________________________________________ Kadmij (Cd) 1 2 Živa (Hg) 1 2 Olovo (Pb) 100 150 Molidben (Mo) 10 15 Arsen (As) 20 30 Kobalt (Co) 50 50 Nikal (Ni) 50 60 Bakar(Cu) 60 100 Krom (Cr) 60 100 Cink (Zn) 200 300 _________________________________________________________________________________ Policiklički aromatski ugljikovodici 2 2 _________________________________________________________________________________
+Vrijednosti označene za nikal, bakar i krom u tablici iz stavka 1. ovoga članka odnose se samo na oranična i vrtna tla te livade i pašnjake.
+U karbonatnim tlima vrijednosti naznačene u tablici iz stavka 1. ovoga članka mogu biti 25% veće od naznačenih u tablici.
+Postupak uzimanja, čuvanja, pripreme i ekstrakcije uzorka poljoprivrednog tla bit će propisan posebnim priručnikom.
