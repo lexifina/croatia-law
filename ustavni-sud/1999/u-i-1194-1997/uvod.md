@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu dopredsjednik Suda Jurica Malčić te suci Zdravko Bartovčak, dr. Velimir Belajec, Ante Jelavić Mitrović, mr. Vojislav Kučeković, mr. Hrvoje Momčinović, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, u predmetu ocjene pojedinih odredbi Kaznenog zakona, na sjednici održanoj 28. travnja 1999. godine, donio je

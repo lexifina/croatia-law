@@ -1,0 +1,8 @@
+U-I-465/1998
+U-I-906/1998
+U-I-24/1999
+U-I-108/1999
+Zagreb, 28. travnja 1999.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Dopredsjednik
+Jurica Malčić, v. r.
