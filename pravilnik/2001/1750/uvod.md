@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 1. Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine« br. 92/96., 39/99., 42/99., 43/00., 27/01. i 65/01) ministar poljoprivrede i šumarstva donosi
