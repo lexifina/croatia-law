@@ -1,0 +1,3 @@
+# Članak 18.
+Pri uvozu opreme carinarnica donosi skraćeno rješenje o oslobađanju od plaćanja carine u obliku bilješke na podnijetoj carinskoj deklaraciji za puštanje robe u slobodan promet, a na izvorniku rješenja iz članka 15. ove Uredbe, uz odgovarajući stavak liste opreme, bilješkom naznačuje carinarnicu i carinsku ispostavu uvoznog carinjenja robe, broj i datum podnošenja carinske deklaracije, te vrijednost robe koja je uvezena u valuti.
+Kopija ili preslik prihvaćene carinske deklaracije iz stavka 1. ovog članka odlaže se u spis, odnosno dostavlja carinarnici koja je donijela rješenje o ostvarivanju predmetnih olakšica.
