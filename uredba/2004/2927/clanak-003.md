@@ -1,0 +1,5 @@
+# Članak 3.
+Iza članka 6. dodaje se naslov i članak 6.a koji glasi:
+»1.A SAMOSTALNI ODJEL ZA UNUTARNJU REVIZIJU
+Članak 6a.
+Samostalni odjel za unutarnju reviziju obavlja najsloženije poslove unutarnje revizije korištenja proračunskih sredstava, provjerava pravilnost njihova korištenja, obavlja provjeru primjene zakona i drugih propisa u vezi s državnim proračunom, ukazuje na uočene nepravilnosti i poduzima mjere za njihovo otklanjanje, sastavlja izvješća o obavljenoj reviziji, surađuje sa državnom revizijom, postupa po pojedinim predmetima po pravu nadzora, predlaže mjere za bolju usklađenost djelovanja ustrojstvenih jedinica, kontrolira rad unutarnjih ustrojstvenih jedinica, koordinira rad s drugim državnim tijelima, nadzire postupak javne nabave, kontrolira valjanost zaključenih ugovora i korektnost njihova izvršavanja, izrađuje plan unutarnje revizije, predlaže metode rada, izrađuje izvješća sa preporukom za poboljšanje poslovanja, upozorava ravnatelja na uočene nepravilnosti, obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili propisom.«
