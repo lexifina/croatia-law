@@ -1,0 +1,6 @@
+1. Mirovine i druga novčana primanja korisnika iz članka 2. i 4. Zakona o ostvarivanju prava iz mirovinskog i invalidskog osiguranja pripadnika bivše JNA ("Narodne novine", broj 96/93) usklađuju se od 1. ožujka 1998. za 3,5%.
+2. Mirovine usklađene prema točki 1. ove odluke ne mogu iznositi više od 4.131,37 kuna niti manje od 934,94 kune.
+3. Doplatak za pomoć i njegu i novčane naknade za tjelesno oštećenje, usklađene po ovoj odluci, isplaćivat će se od 1. ožujka 1998. najviše u svoti koja od 1. ožujka 1998. pripadaju korisnicima tih prava u Republičkom fondu mirovinskoga i invalidskog osiguranja radnika Hrvatske.
+4. Kao osnovica za povećanje mirovina i drugih novčanih primanja, prema ovoj odluci, uzima se svota koja je korisnicima pripadala na dan 1. ožujka 1998.
+5. Usklađivanje mirovina i drugih novčanih primanja, prema ovoj odluci, obavit će se po službenoj dužnosti, bez donošenja rješenja.
+6. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. ožujka 1998.
