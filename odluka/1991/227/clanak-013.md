@@ -1,0 +1,2 @@
+# Članak 13.
+U članove domaćinstva ne ubraja se osoba koja se nalazi na odsluženju vojnog roka ili na izdržavanju kazne zatvora duže od 30 dana, osoba koja je smještena u drugu porodicu ili u organizaciju socijalne zaštite kao i osoba kojoj je, u svezi s usmjerenim obrazovanjem u cijelosti osigurano besplatno stanovanje, prehrana, odjeća i obuća i drugo (učenici i studenti vojnih i pomorskih škola, škole unutarnjih poslova i drugih), makar između te osobe i članova domaćinstva postojala obveza uzdržavanja.

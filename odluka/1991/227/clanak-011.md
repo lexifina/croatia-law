@@ -1,0 +1,2 @@
+# Članak 11.
+Kod utvrđivanja prihoda domaćinstva ne uzimaju se u obzir prihodi ostvareni na ime novčane naknade za tjelesno oštećenje, doplatak za pomoć i njegu, te druga novčana i materijalna primanja koja nisu navedena u članku 10. ove odluke. Prihod domaćinstva utvrđen prema članku 9. i 10. ove odluke umanjuje se za novčani iznos koji je po osnovi Zakona o braku i porodičnim odnosima član domaćinstva dužan plaćati za uzdržavanje osobe koja nije član tog domaćinstva.

@@ -1,0 +1,3 @@
+## V. DOMAĆINSTVO U ODNOSU NA KOJE SE UTVRĐUJE RAZINA SOCIJALNOG MINIMUMA
+# Članak 12.
+Domaćinstvo u odnosu na koje je ovom odlukom utvrđena razina socijalnog minimuma je, prema stavku 3. članka 2. Zakona o formiranju i korištenju sredstava solidarnosti za osiguravanje zaštite životnog standarda socijalno ugroženog stanovništva (u daljnjem tekstu: Zakon) zajednica života, privređivanja i trošenja članova porodice između kojih, prema Zakonu o braku i porodičnim odnosima postoji međusobna obveza uzdržavanja, te djece uzete na uzdržavanje. Djeca uzeta na uzdržavanje, u smislu stavka 1. ovoga članka, su djeca bez roditelja, kao i djeca koja imaju roditelje koji ih ne uzdržavaju.

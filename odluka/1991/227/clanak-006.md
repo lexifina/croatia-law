@@ -1,0 +1,2 @@
+# Članak 6.
+Nema pravo na naknadu za zaštitu životnog standarda radno sposobna nezaposlena osoba koja u vremenu od tri mjeseca prije podnošenja zahtjeva nije uredno prijavljena kod nadležne zajednice zapošljavanja, kao i koja ne prihvati ponuđeni posao. Nema pravo na naknadu za zaštitu životnog standarda radno sposobna nezaposlena osoba koja živi u zajednici s roditeljima koji prema utvrđenju nadležnog centra za socijalni rad imaju povoljne materijalne mogućnosti.
