@@ -1,0 +1,3 @@
+o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja
+1. U Odluci o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja ("Narodne novine", br. 16/85,19/87, 14/88,14/89, 48/89,17/90,15/91,16/92 i 23/93) točka III. mijenja se i glasi: "Naknada za troškove prehrane i smještaja za vrijeme putovanja i izbivanja izvan mjesta prebivališta ili boravišta pripada u punoj ili smanjenoj svoti; ovisno o trajanju putovanja i izbivanja i iznosi 70 % od dnevnice za službeno putovanje u zemlji za korisnike koji se financiraju iz sredstava državnog proračuna."
+2. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama".
