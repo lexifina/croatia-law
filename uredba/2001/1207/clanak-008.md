@@ -1,0 +1,3 @@
+# Članak 8.
+Odsjek za administriranje postupka supstancijalnog ispitivanja obavlja upravne i stručne poslove vezane uz obradu i pripremu objavljene patentne prijave za postupak supstancijalnog ispitivanja, priprema i kontrolira podatke za objavu patenta u službenom glasilu Zavoda, kontrolira uplatu pristojbi u tijeku postupka dodjele patenta i godišnjih pristojbi za održavanja patenata u važnosti, vodi postupak za oslobađanje od plaćanja pristojbi, vodi Registar patenata, izrađuje i izdaje Ispravu o patentu i Patentni spis, informira o zaštiti priznatog prava.
+2.1.3. Odsjek za međunarodnu zaštitu patenata

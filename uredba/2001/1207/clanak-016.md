@@ -1,0 +1,3 @@
+# Članak 16.
+Odsjek za prigovore, hitne i posebne postupke, klasificiranje i pretraživanje obavlja upravne i stručne poslove vezane za prigovore, hitne i posebne postupke (upis licence, prijenos prava prekoredna ispitivanja prijava,...), donosi odluke o prihvaćanju ili odbijanju prigovora, provodi postupak produljenja vrijednosti žigova, obavlja upravne i stručne poslove vezane za klasificiranje prijava žigova prema Bečkom sporazuma o Međunarodnoj klasifikaciji figurativnih elemenata žigova i Međunarodnoj klasifikaciji proizvoda i usluga za registraciju žigova, ispituje identičnost i sličnost žiga u odnosu na ukupni fond prijavljenih i registriranih žigova u Republici Hrvatskoj.
+3.1.3. Odsjek za međunarodnu registraciju znakova razlikovanja

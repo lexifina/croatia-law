@@ -1,0 +1,3 @@
+# Članak 15.
+Odsjek za formalno i supstancijalno ispitivanje obavlja upravne i stručne poslove vezane za ispitivanje i obradu prijave žiga u odnosu na formalno-pravne i supstancijalne uvjete, priprema i kontrolira podatke za objavu u službenom glasilu Zavoda, donosi odluke o priznanju žiga, unosi podatke o prijavi žiga u Registar žigova, izdaje potvrde o pravu prvenstva, isprave o dodijeljenim pravima i izvode iz Registra, informira stranke o načinu podnošenja prijave žiga, pruža informacije o priznatim žigovima.
+3.1.2. Odsjek za prigovore, hitne i posebne postupke, klasificiranje i pretraživanje

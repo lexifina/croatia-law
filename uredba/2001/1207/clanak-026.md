@@ -1,0 +1,2 @@
+# Članak 26.
+Odsjek za elektroničku razmjenu podataka obavlja stručne poslove administriranja rada računalne mreže Zavoda, predlaže i realizira mjere za njezino funkcioniranje, proširenje i optimiranje, obavlja inženjerske poslove na komunikacijama, prati, razrađuje i predlaže uvođenje standarda za elektroničku razmjenu podataka, prati trendove razvoja elektroničke razmjene podataka na području intelektualnog vlasništva, predlaže postupke za harmonizaciju tehničkih rješenja s preporukama Svjetske organizacije za intelektualno vlasništvo.

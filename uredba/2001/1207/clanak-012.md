@@ -1,0 +1,2 @@
+# Članak 12.
+Odsjek za strojarstvo, transport, elektrotehniku, fiziku i topografiju obavlja poslove klasificiranja, prethodnog i supstancijalnog ispitivanja, donosi odluku o priznanju patenta, izrađuje izvješća o stanju tehnike, definira sadržaj patentnih spisa za patentne prijave iz područja B, E, F, G i H prema Međunarodnoj klasifikaciji patenata, te obavlja poslove formalnog i sadržajnog ispitivanja uvjeta za registraciju planova rasporeda integriranih sklopova, vodi Registar planova rasporeda integriranih sklopova, te obavlja i druge stručne poslove.

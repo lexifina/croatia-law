@@ -1,0 +1,7 @@
+# Članak 6.
+Odjel za administrativno-pravne poslove obavlja upravne i stručne poslove vezane za provedbu postupka priznanja i održavanja patenata, vodi Registar prijava patenata i Registar patenata, izdaje svjedodžbe o pravu prvenstva, uvjerenja i izvatke iz Registara prijava patenata i Registra patenata i ostale potvrde i uvjerenja, izrađuje i izdaje Isprave o patentu i Patentne spise, izrađuje prijedloge zakonskih i podzakonskih propisa na području patenata, obavlja upravne i stručne poslove vezane uz provedbu postupka međunarodne zaštite patenata u skladu s odredbama multilateralnog Ugovora o suradnji na području patenata (PCT), te regionalne zaštite u okviru Ugovora o suradnji s Europskom patentnom organizacijom (EPO), vodi registre podnesenih međunarodnih prijava patenata i dodijeljenih patenata, informira o zatraženim i dodijeljenim patentima po međunarodnim i europskim prijavama patenata za Republiku Hrvatsku, te daje upute o načinu podnošenja međunarodnih prijava patenata, prati stručno područje međunarodne patentne zaštite u svijetu, predlaže, organizira i provodi stručno usavršavanje djelatnika za područje svoje djelatnosti.
+Za obavljanje poslova Odjela za administrativno-pravne poslove ustrojavaju se sljedeći odsjeci:
+2.1.1. Odsjek za formalno ispitivanje, prigovore i hitne postupke
+2.1.2. Odsjek za administriranje postupka supstancijalnog ispitivanja
+2.1.3. Odsjek za međunarodnu zaštitu patenata
+2.1.1. Odsjek za formalno ispitivanje, prigovore i hitne postupke
