@@ -1,0 +1,5 @@
+# Članak 5.
+Uz svaku uvoznu carinsku deklaraciju robe koja se carini primjenom rješenja iz članka 4. ovoga pravilnika podnosi se u tri primjerka preslik odgovarajućega dijela specifikacije, koji sadrži podatke o dijelu robe koja se tom carinskom deklaracijom carini (izvadak iz specifikacije).
+Na izvatku iz stavka 1. ovoga članka ovlašteni carinski službenik identificira i obilježava robu koja se carini, uz naznaku naziva carinarnice, te broja i datuma uvozne carinske deklaracije kojom je odgovarajuća roba ocarinjena.
+Ovjereni primjerak izvatka iz stavka 2. ovoga članka prilaže se uz uvoznu carinsku deklaraciju, drugi primjerak dostavlja se carinarnici odnosno njezinoj ustrojstvenoj jedinici određenoj za vođenje očevidnika o uvezenoj robi, a treći uručuje carinskom obvezniku.
+Carinarnica odnosno njezina ustrojstvena jedinica određena za vođenje očevidnika o ostvarenom uvozu, na temelju izvatka iz specifikacija dostavljenom joj sukladno stavku 3. ovoga članka, na svom primjerku specifikacije otpisuje pozicije robe koja je ocarinjena.

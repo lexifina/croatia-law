@@ -1,0 +1,4 @@
+# Članak 11.
+Na zahtjev carinskog obveznika mogu se rasporediti u tarifni stavak gotovog proizvoda dijelovi strojeva, aparata, uređaja, vozila, instrumenata i drugih proizvoda iz odsjeka XV. do XX. Carinske tarife, koji se izvoze s proizvodom za koji su namijenjeni, ako vrijednost dijelova ne premašuje 7% vrijednosti gotovog proizvoda, ako se primjenom pravila o raspoređivanju robe u Carinsku tarifu razvrstavaju najmanje u tri različita tarifna stavka.
+Uz izvoznu carinsku deklaraciju iz stavka 1. prilaže se isprava s podacima o tarifnoj oznaci, nazivu i količini dijelova koji se izvoze, vrijednosti gotovoga proizvoda i dijelova koji se s njim izvoze, te tarifne oznake i podaci mjerodavni za njihovo raspoređivanje u Carinskoj tarifi.
+Rješenje o pojednostavljenom raspoređivanju i carinjenju robe iz stavka 1. ovoga članka, ovlaštena carinarnica donosi po skraćenom postupku, bilješkom na zahtjevu.
