@@ -1,0 +1,4 @@
+# Članak 25.
+Suradnja u slučaju prijevara
+Obje stranke suglasne su da će surađivati na smanjivanju mogućnosti za prijevaru u primjeni trgovinskih odredbi ovog Ugovora.
+Bez obzira na ostale odredbe ovog Ugovora, a posebice članaka 13.,19. i 25. Protokola 2., kad jedna od stranaka ustanovi da postoje dostatni dokazi o prijevari, kao što je znatno povećanje trgovine proizvodima od jedne stranke prema drugoj iznad razine koja odražava gospodarske uvjete poput uobičajenih proizvodnih i izvoznih mogućnosti, ili pak uskraćivanje upravne suradnje koja je potrebna kako bi druga stranka provjerila dokaze o podrijetlu, obje će stranke odmah započeti konzultacije radi pronalaženja odgovarajućega rješenja. Do pronalaženja takva rješenja pogođena stranka može poduzeti odgovarajuće mjere koje smatra nužnima. Pri odabiru tih mjera prednost će se dati mjerama koje najmanje remete provedbu dogovora utvrđenih ovim Ugovorom.

@@ -1,0 +1,3 @@
+# Članak 23.
+Opće iznimke
+Ovim Ugovorom ne sprječava se zabrana ili ograničavanje uvoza, izvoza ili provoza roba iz razloga javnog morala, javnog reda ili javne sigurnosti; zaštite života i zdravlja ljudi, životinja ili biljaka i okoliša; zaštite nacionalnog blaga umjetničke, povijesne ili arheološke vrijednosti; zaštite intelektualnog vlasništva ili odredbi o zlatu i srebru i zaštiti iscrpivih prirodnih izvora, ukoliko su takve mjere na snazi u svezi s ograničenjima domaće proizvodnje ili potrošnje. Takve zabrane ili ograničenja neće, međutim, biti sredstvo proizvoljne diskriminacije ili prikrivenog ograničavanja trgovine između stranaka.

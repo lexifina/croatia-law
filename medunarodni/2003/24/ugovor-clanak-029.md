@@ -1,0 +1,3 @@
+# Članak 29.
+Teškoće u svezi s platnom bilancom
+Kada jedna od stranaka ima ozbiljnih teškoća s platnom bilancom ili joj one prijete, ta stranka može sukladno uvjetima utvrđenim u okviru GATT-a 1994. i članka VIII. Statuta Međunarodnog monetarnog fonda, poduzeti mjere ograničenja, uključujući i mjere u svezi uvoza, ograničenog trajanja koje ne mogu prelaziti ono što je nužno za poboljšanje stanja platne bilance. Te će se mjere postupno ublažavati s poboljšanjem platne bilance i ukinut će se kad uvjeti više ne opravdavaju njihovo postojanje. Pogođena stranka odmah će o njihovu uvođenju i gdje god je moguće o vremenskom rasporedu njihova uklanjanja obavijestiti drugu stranku.
