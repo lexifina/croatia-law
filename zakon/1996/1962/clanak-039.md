@@ -1,0 +1,4 @@
+# Članak 39.
+Na temelju odluke iz članka 38. ovoga Zakona, ugovor o koncesiji s podnositeljem ponude za državne ceste sklapa ministar, a za županijske i lokalne ceste župan.
+Ugovorom o koncesiji obvezno se utvrđuju: bliže namjene za koje se daje koncesija, posebni uvjeti kojima tijekom korištenja koncesije mora udovoljavati korisnik koncesije, visina naknade za koncesiju, uvjeti i način plaćanja naknade, jamstva korisnika koncesije, druga prava, obveze i odgovornost korisnika i davatelja koncesije, način razrješenja odnosa u slučaju prestanka koncesije prije isteka roka na koji se koncesija daje, postupak i uvjeti preuzimanja javne ceste nakon isteka koncesije.
+Izvršavanje ugovora o koncesiji za državne ceste nadzire Ministarstvo, a za županijske i lokalne ceste nadležni županijski ured, koji su dužni jednom godišnje izvijestiti donositelja odluke o koncesiji o izvršavanju toga ugovora.

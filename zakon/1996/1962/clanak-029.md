@@ -1,0 +1,4 @@
+# Članak 29.
+U blizini raskrižja dviju javnih cesta u razini, ili križanja javne ceste sa željezničkom prugom u razini ili na unutarnjim stranama cestovnog zavoja, ne smije se saditi drveće, grmlje ili visoke poljske kulture, postavljati naprave, ograde ili druge predmete koji onemogućavaju pregledanost na javnoj cesti.
+Vlasnici, odnosno korisnici ili posjednici zemljišta dužni su, na zahtjev Uprave za ceste, odnosno županijske uprave za ceste, ukloniti drveće, grmlje, visoke poljske kulture, naprave, ograde i druge predmete radi osiguranja preglednosti na javnoj cesti.
+Ako vlasnik, odnosno korisnik ili posjednik zemljišta ne postupi sukladno odredbi stavka 2. ovoga članka, Uprava za ceste odnosno županijska uprava za ceste osigurat će izvođenje tih radova na teret vlasnika, korisnika ili posjednika zemljišta.
