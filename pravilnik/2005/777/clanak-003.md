@@ -1,0 +1,5 @@
+# Članak 3.
+U Upisnik znanstvenih organizacija (u daljnjem tekstu: Upisnik) se kao javni znanstveni institut, javno sveučilište te sastavnice sveučilišta (fakultet, umjetnička akademija, sveučilišni odjel i institut) upisuju one znanstvene organizacije koje prema dopusnici obavljaju znanstvenu djelatnost u jednom ili više znanstvenih područja ili polja.
+U Upisnik se kao znanstveni institut ili privatni znanstveni institut upisuje znanstvena organizacija koja prema dopusnici obavlja znanstvenu djelatnost u jednom ili više srodnih znanstvenih polja.
+U Upisnik se kao druga pravna osoba upisuje znanstvena organizacija koja prema dopusnici u manjem dijelu obavlja znanstvenu djelatnost putem ugovorenih znanstvenih projekata.
+Upisom u Upisnik stječe se status znanstvene organizacije.
