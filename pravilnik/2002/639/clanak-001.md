@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuje način utvrđivanja postotka oštećenja organizma koje je nastalo kao posljedica rane, ozljede ili bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene pod okolnostima predviđenim Zakonom o zaštiti vojnih i civilnih invalida rata (u daljenjem tekstu: Zakon) i drugim uvjetima i kriterijima za utvrđivanje vojnog i civilnog invaliditeta, te utvrđuju oštećenja organizma na osnovu kojih se može podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma prije isteka roka iz članka 83. stavka 1. Zakona.
