@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, br. 68/2001 i 109/2001), Vlada Republike Hrvastke je na sjednici održanoj 5. prosinca 2002. godine donijela
