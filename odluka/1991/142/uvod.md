@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u privredne komore i člana 7. i 93. Statuta Privredne komure lstre-Pula, Izvršni odbor privredne komore Istre na sjednici održanoj 26. XII 1990. godine donosi
