@@ -1,0 +1,1 @@
+Na temelju Amandmana LXII. na Ustav Republike Hrvatske, u skladu s odredbama člana 5. Zakona o osobnim dohocima i ostalim primanjima funkcionara ("Narodne novine", broj 19/90), Sabor Republike Hrvatske na sjednici Vijeća udruženog rada 5. listopada 1990, Vijeća općina 5. listopada 1990. i Društveno-političkog vijeća 5. listopada 1990, donio je
