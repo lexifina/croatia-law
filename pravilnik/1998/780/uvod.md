@@ -1,0 +1,1 @@
+Na temelju odredbe članka 14. stavka 1. Zakona o Fondu za dugoročno financiranje stanogradnje uz potporu države ("Narodne novine", br. 109/97) Nadzorni odbor Fonda za dugoročno financiranje stanogradnje uz potporu države na 1. sjednici održanoj 16. travnja 1998. godine donosi sljedeći
