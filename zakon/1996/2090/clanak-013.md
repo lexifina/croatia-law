@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Hrvatski branitelj kod kojega je utvrđena invalidnost kao posljedica ranjavanja ili ozljede, sukladno odredbama članka 2. stavka 4. i 5. ovoga Zakona, a zaposlen je na osnovi preostale radne sposobnosti, nakon zaposlenja ima pravo na naknadu plaće u visini razlike plaće između plaće koju prima kao zaposlenik i plaće koju bi primao kao pripadnik gardijske postrojbe istog čina i ustrojbenog mjesta.
+(2) Hrvatski branitelj kod kojega je utvrđena invalidnost kao posljedica bolesti, sukladno odredbi članka 2. stavka 6. ovoga Zakona, a zaposlen je na osnovi preostale radne sposobnosti, ima pravo na naknadu plaće u visini razlike između plaće koju prima kao zaposlenik i plaće koju bi primao kao pripadnik djelatnog sastava oružanih snaga Republike Hrvatske izvan gardijske postrojbe, istog čina i ustrojbenog mjesta.
+(3) Naknadu plaće iz stavka 1. i 2. ovoga članka utvrđuje i isplaćuje Fond mirovinskog i invalidskog osiguranja.

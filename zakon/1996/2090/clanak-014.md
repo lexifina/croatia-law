@@ -1,0 +1,5 @@
+## PRAVO NA INVALIDSKU MIROVINU
+# Članak 14.
+(1) Hrvatski branitelj kod kojega je trajni gubitak radne sposobnosti (opća nesposobnost za rad) posljedica ranjavanja ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske ili zatočeništva u neprijateljskom logoru, ima pravo na invalidsku mirovinu prema propisima o mirovinskom i invalidskom osiguranju vojnih osiguranika u iznosu invalidske mirovine pripadnika gardijske postrojbe istog čina i ustrojbenog mjesta.
+(2) Hrvatski branitelj kod kojega je trajni gubitak radne sposobnosti (opća nesposobnost za rad) posljedica bolesti ili pogoršanja bolesti zadobivene u obrani suvereniteta Republike Hrvatske, ima pravo na invalidsku mirovinu prema propisima o mirovinskom i invalidskom osiguranju vojnih osiguranika u iznosu invalidske mirovine pripadnika djelatnog sastava oružanih snaga Republike Hrvatske izvan gardijske postrojbe, istog čina i ustrojbenog mjesta.
+(3) Ako je opća nesposobnost za rad dijelom prouzročena u okolnostima iz članka 2. ovoga Zakona, a djelomice ranjavanjem, ozljedom ili bolešću izvan tih okolnosti, invalidska mirovina se određuje razmjerno utjecaju pojedinih uzroka na invalidnost.

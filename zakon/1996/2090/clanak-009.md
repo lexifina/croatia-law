@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Hrvatski branitelj kojemu je rana, ozljeda ili bolest, neposredna posljedica sudjelovanja u Domovinskom ratu, ima pravo na potpunu medicinsku rehabilitaciju, pravo na sva potrebita pomagala, proteze, lijekove i liječenje bez naknade (participacije), te pravo prvenstva na korištenje zdravstvene zaštite u inozemstvu s pratnjom druge osobe, ako mu je potrebno takvo liječenje koje se ne može obaviti u Republici Hrvatskoj.
+(2) Do završetka liječenja, odnosno medicinske rehabilitacije, hrvatski branitelj ima pravo na naknadu plaće u iznosu plaće koju bi ostvario da je u postrojbi.
+(3) Hrvatski zavod za zdravstveno osiguranje obvezan je osigurati hrvatskom branitelju ortopedsko pomagalo najkasnije u roku od 30 dana od dana primitka zahtjeva nadležne zdravstvene ustanove koja je utvrdila vrstu potrebitoga ortopedskog pomagala nakon završenog liječenja. Ako se ortopedsko pomagalo izrađuje po mjeri, navedeni rok produljuje se za najviše 60 dana.

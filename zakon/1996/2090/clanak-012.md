@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Hrvatski branitelj kod kojeg nakon ranjavanja, ozljede ili bolesti postoji preostala radna sposobnost, ima pravo na profesionalnu rehabilitaciju, uključujući osposobljavanje za obavljanje poslova za koje se traži stručna sprema viša od njegove, bez obzira je li mu je nakon profesionalne rehabilitacije osigurano zaposlenje.
+(2) Od dana stjecanja prava na profesionalnu rehabilitaciju do upućivanja na nju, kao i tijekom profesionalne rehabilitacije, hrvatski branitelj ima pravo na naknadu plaće u iznosu plaće pripadnika gardijske postrojbe istog čina i ustrojbenog mjesta.
+(3) Pravo iz stavka 2. ovoga članka hrvatski branitelj ostvaruje i nakon završene medicinske i profesionalne rehabilitacije do zaposlenja na odgovarajućemu radnom mjestu.
+(4) Republički fond mirovinskog i invalidskog osiguranja radnika Hrvatske (u daljnjem tekstu: Fond mirovinskog i invalidskog osiguranja) obvezan je uputiti hrvatskog branitelja na profesionalnu rehabilitaciju najkasnije u roku od 30 dana od dana stjecanja prava na profesionalnu rehabilitaciju.
+(5) Pravne osobe, tijela državne vlasti i tijela jedinica lokalne samouprave i uprave (u daljnjem tekstu: poslodavac) obvezni su primiti na profesionalnu rehabilitaciju hrvatskog branitelja kojega uputi Fond mirovinskog i invalidskog osiguranja.

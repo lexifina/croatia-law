@@ -1,0 +1,4 @@
+# Članak 60.
+(1) Mjesečni iznosi osobne invalidnine, doplatka za njegu i pomoć druge osobe, ortopedskog doplatka, posebnog doplatka, obiteljske invalidnine, uvećane obiteljske invalidnine, doplatka za pripomoć u kući i svota osnovice za određivanje opskrbnine usklađuju se početkom svake kalendarske godine s prosječnom mjesečnom plaćom svih zaposlenih u Republici Hrvatskoj u prethodnoj godini.
+(2) Mjesečni iznosi iz stavka 1. ovoga članka mogu se tijekom godine usklađivati i početkom drugog, trećeg i četvrtog tromjesječja, uzimajući u obzir kretanje prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj u prethodnom tromjesječju i materijalne mogućnosti Republike Hrvatske.
+(3) Novčane iznose mjesečnih primanja i iznos osnovice za određivanje opskrbnine prema odredbama stavka 1. i 2. ovoga članka utvrđuje ministar obrane.
