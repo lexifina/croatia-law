@@ -1,0 +1,1 @@
+Odluka o najnižoj svoti za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osiguranika koji su na bolovanju, porodiljnom dopustu i dopustu radi njege djeteta s tež
