@@ -1,0 +1,5 @@
+## IV. Predaja vozila odnosno plovnih objekata i njihovih dijelovavlsniku i njihovo vraćanje u inozemstvo
+# Članak 14.
+Ako je u carinskom, upravnom ili prekršajnom postupku donesena konačnaodluka da se vozilo odnosno plovni objekt i njihovi dijelovi koji se nalazena čuvanju kod Hrvatskog auto-kluba ili organizacije u njegovom sklopuvrate vlasniku ili da se vrate u inozemstvo, povrat vozila odnosno plovnogobjekta ili njihovih dijelova vrši se na temelju odgovarajućeg pisanogakta ovlaštene carinarnice.
+Osobi iz stavka 1. ovoga članka koja preuzima vozilo odnosno plovniobjekt i njihove dijelove, njihovo preuzimanje omogućit će se pošto Hrvatskomauto-klubu namiri sve troškove u svezi s prikupljanjem, preuzimanjem ičuvanjem dotičnog vozila odnosno plovnog objekta i njihovih dijelova, tepotpiše potvrdu o njihovom preuzimanju na propisanom obrascu.
+Iznimno od odredbe stavka 2. ovoga članka, ako je vozilo odnosno plovniobjekt i njihovi dijelovi dano na čuvanje Hrvatskom auto-klubu bez krivnjevlasnika odnosno vozača, troškovi će se namiriti na teret sredstava paušalnenaknade dobivenih prodajom drugih vozila odnosno plovnih objekata.

@@ -1,0 +1,4 @@
+# Članak 17.
+Početnu cijenu za javnu prodaju vozila odnosno plovnog objekta i njihovihdijelova iz članka 16. ove uredbe, utvrđuje stručna komisija koju imenujeovlašteno tijelo Hrvatskog auto-kluba.
+Pri utvrđivanju početne cijene iz stavka 1. ovog članka, stručna komisijauzima u obzir stanje tehničke ispravnosti vozila odnosno plovnog objektai njihovih dijelova te tržišnu cijenu istih ili sličnih vozila odnosnoplovnih objekata i dijelova, nakon odbitka poreza na promet i drugih standardnihtroškova poslovanja u trgovini odgovarajućim vozilima odnosno plovnim objektimai njihovim dijelovima.
+Stručna komisija iz stavka 1. ovog članka sastavlja zapisnik o svojemradu. Ako utvrdi da se stvarno stanje vozila odnosno plovila i njihovihdijelova ne slaže sa stanjem iz priložene dokumentacije, komisija će tokonstatirati u zapisniku.

@@ -1,0 +1,5 @@
+## II. Prikupljanje i preuzimanje motornih i priključnih vozilate plovnih objekata i njihovih dijelova
+# Članak 6.
+Radi osiguravanja uvjeta za sudjelovanje pri obavljanju poslova carinskognadzora, Hrvatski auto-klub obvezan je organizirati odgovarajuću službuza prikupljanje, preuzimanje i čuvanje privremeno uvezenih motornih i drugihvozila i plovnih objekata i njihovih dijelova, te za njihovu prodaju.
+Na zahtjev vlasnika ili vozara motornog i priključnog vozila te plovnogobjekta strane registracije, te ovlaštene carinarnice i drugog upravnogodnosno pravosudnog tijela, Hrvatski auto-klub obvezan je preuzeti na čuvanjei organizirati prodaju vozila odnosno plovnih objekata.
+Hrvatski auto-klub ili organizacija u njegovom sklopu, koja od carinarnice,tijela unutarnjih poslova ili na drugi način, sazna za motorno ili priključnovozilo te plovni objekt i njihove dijelove navedene u članku 4. ove uredbe,obvezan je odmah poduzeti mjere za stavljanje tog vozila ili plovnog objektapod carinski nadzor, te organizirati njegov prijevoz i preuzimanje na čuvanjeu svom smještajnom prostoru.

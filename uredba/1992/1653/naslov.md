@@ -1,0 +1,1 @@
+Uredba o posebnim mjerama za ostvarivanje carinskog nadzora usvezi s prikupljanjem, preuzimanjem i čuvanjem motornih i drugih vozilate plovnih objekata i njihovih dijelova, pod carinskim nadzorom, te načinunjihove prodaje i rasporedu sredstava dobivenih njihovom prodajom

@@ -1,0 +1,2 @@
+# Članak 10.
+Hrvatski auto-klub i organizacija u njegovom sklopu obvezatni su preuzetina čuvanje vozilo odnosno plovni objekt strane registracije i njihove dijelovena temelju pisanog naloga ovlaštene carinarnice i drugog upravnog ili pravosudnogtijela, te bez njihovog pisanog odobrenja ne smiju preuzeto vozilo odnosnoplovni objekt predati vlasniku ili drugoj po njemu određenoj osobi, odnosnoprodati ili na drugi način otuđiti.

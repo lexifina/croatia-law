@@ -1,0 +1,2 @@
+# Članak 15.
+Ako je nadležna carinarnica odobrila vraćanje vozila ili plovnih objekatai njihovih dijelova u inozemstvo pod carinskim nadzorom. Hrvatski auto-klubodnosno organizacija u njegovom sklopu vraća vozilo odnosno plovni objekti njihove dijelove u skladu s odlukom carinarnice, uz naplatu troškovanastalih u svezi s prikupljanjem, preuzimanjem i čuvanjem dotičnog vozilaodnosno plovnog objekta.

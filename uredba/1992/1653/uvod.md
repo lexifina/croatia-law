@@ -1,0 +1,1 @@
+Na osnovi članka 9. stavak 1. i članka 367. stavak 5. Carinskog zakonaRepublike Hrvatske ("Narodne novine", br 53A/91, 33/92, 40/82i 61/92) te članka 23. Zakona o Vladi Republike Hrvatske ("Narodnenovine", br. 41/90, 8/11, 14/91, 53A/91, 9/92 i 55/92), Vlada RepublikeHrvatskg na sjednici održanoj 2. listopada 1992. godine donijela je

@@ -1,0 +1,2 @@
+# Članak 19.
+Ako stručna komisija za procjenu vrijednosti vozila odnosno plovnogobjekta i njihovih dijelova utvrdi da su vozilo odnosno plovni objekt utakvom stanju da ih se ne isplati izlagati prodaji, tako oštećeno voziloodnosno plovni objekt po eventualno izvršenoj demontaži dijelova u skladusa člankom 18. ove uredbe i pribavljenoj pisanoj suglasnosti ovlaštenecarinarnice prodaje se poduzeću za preradu sekundarnih sirovina po kilograrnutežine.
