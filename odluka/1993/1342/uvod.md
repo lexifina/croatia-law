@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. Uredbe o privremenom financiranju jedinica lokalne samouprave i uprave ("Narodne novine", br. 22/93 i 42/93), Vlada Republike Hrvatske je na sjednici održanoj 8. srpnja 1993. donijela
