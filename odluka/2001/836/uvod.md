@@ -1,0 +1,1 @@
+Na temelju članka 126. stavka 2. Zakona o državnim službenicima i namještenicima ("Narodne novine", broj 27/2001) i članka 5. stavka 3. Zakona o plaćama u javnim službama ("Narodne novine", broj 27/2001), Vlada Republike Hrvatske je na sjednici održanoj 7. lipnja 2001. godine donijela
