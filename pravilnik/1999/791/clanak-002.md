@@ -1,0 +1,7 @@
+# Članak 2.
+Članak 5a. mijenja se i glasi:
+"Članak 5a.
+(1) Ugostiteljski objekti koji se kategoriziraju iz skupine "hoteli" i ugostiteljski objekt vrste: kamp, radi pružanja drugih usluga uobičajenih u ugostiteljstvu u prostoru objekta (zatvorenom i otvorenom kao što je: terasa, plaža, prostor uz bazen i sl.) mogu imati razne ugostiteljske sadržaje koji odgovaraju pojedinoj vrsti ugostiteljskog objekta iz skupine "restorani" i skupine "barovi".
+(2) Na ugostiteljske sadržaje iz stavka 1. ovog članka (bez obzira koliko ih ugostiteljski objekt ima), vodeći računa da se radi o ugostiteljskim uslugama ugostiteljskog objekta kojem pripadaju, odgovarajuće se primjenjuju odredbe ovog Pravilnika kojima su propisani minimalni uvjeti za pojedinu vrstu ugostiteljskog objekta. Na ulazu u ugostiteljski sadržaj pripadajući ugostiteljskom objektu treba istaknuti oznaku tvrtke ugostitelja, vrstu i naziv ugostiteljskog objekta kojemu sadržaj pripada, te komercijalni naziv ugostiteljskog sadržaja.
+(3) Iznimno od odredbi stavka 2. ovog članka ugostiteljski sadržaji pripadajući ugostiteljskom objektu mogu se koristiti jednom kuhinjom, zajedničkim prostorijama za osobnu higijenu gostiju kojima se koriste i drugi sadržaji u ugostiteljskom objektu, te odgovarajućim zajedničkim prostorijama i prostorima.
+(4) O svakoj promjeni ugostiteljskog sadržaja unutar ugostiteljskog objekta treba bez odlaganja pisano obavijestiti nadležno tijelo državne uprave koje je obavilo kategorizaciju ugostiteljskog objekta.
