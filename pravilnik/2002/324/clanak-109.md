@@ -1,0 +1,2 @@
+# Članak 109.
+Minimalni uvjeti za vodu u kojoj se uzgaja slatkovodna riba i/ili drugi vodeni organizmi jesu: neopterećenost ili vrlo mala opterećenost kemikalijama s proizvodnoga gospodarstva (npr. sredstva za zaštitu bilja, mineralna gnojiva). Kisika u vodi za uzgoj ciprinidnih vrsta riba mora biti najmanje 1 mg/l, a za uzgoj salmonidnih vrsta riba najmanje 5 mg/l; vrijednost pH mora biti između 6,0 i 9,0.

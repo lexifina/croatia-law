@@ -1,0 +1,2 @@
+# Članak 110.
+Tehnologija proizvodnje mora biti usklađena s fiziološkim i etološkim potrebama organizama koji se uzgajaju. Organizmima mora biti dopušteno zadovoljavanje osnovnih potreba ponašanja. Tehnologije proizvodnje, napose u svezi s razinom proizvodnje i brzinom rasta, moraju biti usmjerene dobrom zdravlju i dobrobiti organizama. Osobito se mora paziti pri uvođenju introduciranih (unesenih) vrsta riba.
