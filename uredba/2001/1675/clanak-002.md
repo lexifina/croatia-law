@@ -1,0 +1,2 @@
+# Članak 2.
+U Pregledu obveza decentraliziranih funkcija za osnovno školstvo koje se trebaju financirati iz gradskih proračuna u razdoblju VII - XII/01 (tablica 1g), iz članka 8. stavka 4. podstavka 2., mijenjaju se iznosi za gradove: Veliku Goricu, Samobor, Vrbovec, Zaprešić, Karlovac, Makarsku i Čakovec, te sveukupni iznos, na način kako je to navedeno u Pregledu obveza decentraliziranih funkcija za osnovno školstvo koje se trebaju financirati iz gradskih proračuna u razdoblju VII - XII/01 (tablica 1g), koji je sastavni dio ove Uredbe.

@@ -1,0 +1,2 @@
+# Članak 3.
+U Pregledu obveza decentraliziranih funkcija za osnovno školstvo koje se trebaju financirati iz županijskih proračuna u razdoblju VII - XII/01 (tablica 1ž), iz članka 8. stavka 4. podstavka 3., mijenjaju se iznosi za Zagrebačku, Karlovačku, Splitsko-dalmatinsku i Međimursku županiju, te sveukupni iznos, na način kako je to navedeno u Pregledu obveza decentraliziranih funkcija za osnovno školstvo koje se trebaju financirati iz županijskih proračuna u razdoblju VII - XII/01 (tablica 1ž), koji je sastavni dio ove Uredbe.

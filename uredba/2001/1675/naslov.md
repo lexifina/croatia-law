@@ -1,0 +1,1 @@
+Uredba o izmjenama Uredbe o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za razdoblje od 1. srpnja do 31. prosinca 2001. g
