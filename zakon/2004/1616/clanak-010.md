@@ -1,0 +1,25 @@
+# Članak 10.
+Članak 14. mijenja se i glasi:
+»U smislu ovoga Zakona razumijeva se:
+1. krušna žita jesu pšenica, raž i pšenoraž (Triticalle),
+2. ostala žita jesu kukuruz, stočni ječam, zob, proso i sirak,
+3. uljarice su suncokret, uljana repica i tikva uljanica,
+4. ostalo industrijsko bilje je uljana gorušica, ricinus, lan, konoplja i cikorija,
+5. krmno bilje jest kukuruz za silažu, stočni kelj, stočni grašak, stočni sirak, djetelina, lucerna, sudanska trava, djetelinsko-travna smjesa, travno-djetelinska smjesa, travne smjese, trave, grahorica, stočna repa, rotkva, koraba, krmna repica i lupina,
+6. povrće jest rajčica, paprika, krastavci, luk, mrkva, pastrnjak, peršin, kupus, cikla, grah, grašak, bob, češnjak, poriluk, tikva, tikvica, blitva, špinat, kelj, korabica, salata, patlidžan, merkantilni krumpir, mahune, slanutak, cvjetača, brokula, kelj pupčar, koraba, kukuruz šećerac, lubenice, dinje te ostale vrste uzgojenog povrća,
+7. povrće za industrijsku preradu jest rajčica, paprika, krastavac, luk, mrkva, pastrnjak, peršin, kupus, cikla, repa bijela, mahune, feferoni i cvjetača,
+8. ljekovito bilje jesu kamilica, menta, kadulja, ružmarin, stolisnik, komorač i timijan, uzgojeni na oranicama,
+9. sjemenski usjevi jesu usjevi pšenice, pšenoraži, raži, ječma, zobi, kukuruza, šećerne repe, soje, suncokreta, uljane repice, duhana, krumpira, krmnog bilja, povrća i ostalog bilja za koje je Zavod za sjemenarstvo i rasadničarstvo izdao Uvjerenje o priznavanju usjeva sjemenskim,
+10. sadni materijal jesu lozni cijepovi i sadnice voćnih vrsta I. i II. skupine iz ovoga Zakona,
+11. voćne vrste I. skupine jesu jabuka, kruška, mandarina, kupina, malina, kivi, limun i naranča,
+12. voćne vrste II. skupine jesu breskva, nektarina, marelica, trešnja, višnja, šljiva, orah, badem, lijeska, kesten, smokva, rogač i šipak,
+13. mlijeko je kravlje, kozje, ovčje,
+14. rasplodna stoka jesu krave, krave u sustavu krava-tele, bikovi, ženska telad i ždrebad, krmače, nerasti, ovce, ovnovi, koze, jarci, kobile, pastusi i ženke kunića,
+15. pčelinja zajednica jest roj pčela koji se sastoji od matice, radilica i trutova (u sezoni), a smještene su u košnici na nepokretnom saću (pletare) ili pokretnom saću s minimalno 7 okvira,
+16. autohtone vrste bijele morske ribe jesu komarča (Sparus aurata), lubin (Dicentrarchus labrax), pic (Diplodus puntazzo) i zubatac (Dentex dentex),
+17. školjke jesu dagnje i kamenice,
+18. mlađ autohtonih vrsta bijele morske ribe jest mlađ komarče, lubina, pica i zubaca iz mrijesta domaćih autohtonih matičnih stokova do mase 20 g/kom,
+19. slatkovodna riba I. skupine jest šaran, amur i tostolobik,
+20. slatkovodna riba II. skupine jest linjak, pastrva, smuđ, som, štuka,
+21. mala plava riba jest srdela, inćun i papalina,
+22. ekološka proizvodnja je proizvodnja u skladu sa Zakonom o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda.«

@@ -1,0 +1,6 @@
+# Članak 8.
+Članak 12. mijenja se i glasi:
+»(1) Za ostvarenje prava na poticaj iz modela poticanja proizvodnje u 2005. godini seljačka gospodarstva ili obiteljska poljoprivredna gospodarstva kojima ukupni godišnji iznos ostvarenih poticaja u 2004. godini prelazi 25.000,00 kuna dužna su pri podnošenju zahtjeva za poticaj priložiti dokaz o podnošenju prijave ili upisu u registar obveznika poreza na dohodak.
+(2) Za ostvarenje prava na poticaj iz modela poticanja proizvodnje u 2006. godini seljačka gospodarstva ili obiteljska poljoprivredna gospodarstva kojima ukupni godišnji iznos ostvarenih poticaja u 2005. godini prelazi 12.000,00 kuna dužna su pri podnošenju zahtjeva za poticaj priložiti dokaz o podnošenju prijave ili upisu u registar obveznika poreza na dohodak.
+(3) Od 1. siječnja 2007. sva seljačka gospodarstva ili obiteljska poljoprivredna gospodarstva dužna su pri podnošenju zahtjeva za poticaj priložiti dokaz o podnošenju prijave ili upisu u registar obveznika poreza na dohodak.
+(4) Seljačka ili obiteljska gospodarstva iz stavka 1. i 2. ovoga članka na vlastiti zahtjev podnose nadležnoj ispostavi Porezne uprave prijavu radi upisa u registar obveznika poreza na dohodak, u skladu s propisima o oporezivanju dohotka«.
