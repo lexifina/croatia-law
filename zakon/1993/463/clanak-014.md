@@ -1,0 +1,2 @@
+# Članak 14.
+Jednim putovanjem prema članku 11. i 12. ovoga Zakona smatra se odlazak iz polaznog u uputno mjesto (vožnja u odlasku) i povratak iz uputnog mjesta u polazno (vožnja u povratku). Vojni i civilni invalidi rata i korisnići obiteljske invalidnine, te njihovi prijatelji imaju pravo na povlasticu iz članka 11. 12. i 3. ovoga Zakona za prijevoz u prvom razredu putničkog ili brzog vlaka, u prvom razredu na brodu i u ekonomskom razredu u zrakoplovu.
