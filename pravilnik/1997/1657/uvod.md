@@ -1,0 +1,1 @@
+Na temelju članka 12. stavak 1. i 3. Zakona o nadzoru kakvoće određenih proizvoda pri uvozu i izvozu ("Narodne novine", broj 21/95) i u svezi sa stavkom 2., 3. i 4. istog članka uz suglasnost i prethodno pribavljeno mišljenje ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo, ministar gospodarstva donosi
