@@ -1,0 +1,3 @@
+# Članak 10.
+Ako nakon donošenja odobrenja za obavljanje djelatnosti ovlaštenoga carinskog otpremnika na graničnome prijelazu nastupe okolnosti, zbog kojih ovlašteni carinski otpremnik više ne ispunjava uvjete iz članka 7. stavka 1. ovoga Zakona ili ako ovlašteni carinski otpremnik uredno i pravodobno ne izvršava svoje obveze utvrđene ugovorom iz članka 9. stavka 1. ovoga Zakona, ministar financija rješenjem će ukinuti odobrenje za obavljanje poslova ovlaštenoga carinskog otpremnika na graničnom prijelazu.
+Konačnošću rješenja o ukidanju odobrenja za obavljanje djelatnosti carinskog otpremnika (članak 6.) prestaje i pravo na poslovanje odnosnih otpremničkih ureda na graničnom prijelazu.

@@ -1,0 +1,6 @@
+# Članak 2.
+Poslove zastupanja u postupku podnošenja carinskih deklaracija o carinski dopuštenom postupanju ili uporabi robe mogu obavljati trgovačka društva ili trgovci pojedinci, koji ispunjavaju ovim Zakonom propisane uvjete i imaju odobrenje Carinske uprave Ministarstva financija (u daljnjem tekstu: Carinska uprava) za obavljanje poslova zastupanja u postupku carinjenja robe (ovlašteni carinski otpremnik).
+Poslove zastupanja iz stavka 1. ovoga članka na graničnim prijelazima može obavljati samo trgovačko društvo, koje ima odobrenje Carinske uprave za obavljanje tih poslova na određenome graničnome prijelazu.
+U slučaju kada osobe iz stavka 1. ili 2. ovoga članka podnose carinsku deklaraciju u ime i za račun druge osobe ili u svoje ime a za račun druge osobe, carinsku deklaraciju u ime ovlaštenoga carinskog otpremnika može potpisati samo osoba koja ima odobrenje za obavljanje poslova carinskoga zastupanja (ovlašteni carinski zastupnik).
+Ako carinsku deklaraciju za robu podnosi trgovačko društvo ili trgovac pojedinac u svoje ime i za svoj račun, carinsku deklaraciju može potpisati samo osoba koja ima odobrenje za obavljanje poslova ovlaštenoga carinskog zastupnika.
+Odobrenja iz stavka 1. - 3. ovoga članka nisu prenosiva.
