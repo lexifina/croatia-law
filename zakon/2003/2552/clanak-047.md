@@ -1,0 +1,5 @@
+## Revident
+# Članak 47.
+Revident je fizička osoba ovlaštena za kontrolu projekata. Ovlaštenje za obavljanje kontrole projekata može se dati osobi koja ima pravo na obavljanje poslova projektiranja u području koje je predmet kontrole projekta, koja je diplomirani inženjer s najmanje deset godina radnog iskustva u projektiranju, koja je projektirala u svojstvu odgovorne osobe građevine osobite inženjerske složenosti i koja je na drugi način unaprijedila tehničku struku u području koje je predmet kontrole glede projektiranja.
+Ovlaštenje za obavljanje kontrole projekata daje i oduzima ministar po prethodno pribavljenom mišljenju povjerenstva koje osniva i imenuje ministar. Za članove povjerenstva imenuju se predstavnici Ministarstva i predstavnici strukovnih udruga.
+Pobliže uvjete glede radnog i stručnog iskustva za davanje, produženje važenja i oduzimanje ovlaštenja za obavljanje kontrole projekata, sredstava, odnosno načina kojima se dokazuje, odnosno ocjenjuje ispunjavanje tih uvjeta propisuje ministar pravilnikom.

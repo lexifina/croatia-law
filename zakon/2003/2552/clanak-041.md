@@ -1,0 +1,5 @@
+# Članak 41.
+Za glavnog inženjera gradilišta i inženjera gradilišta može se imenovati diplomirani inženjer, odnosno inženjer odgovarajuće struke s najmanje pet godina radnog iskustva u struci i s položenim stručnim ispitom iz članka 61. ovoga Zakona.
+Za voditelja radova određene vrste može se imenovati diplomirani inženjer odgovarajuće struke, odnosno inženjer odgovarajuće struke s najmanje pet godina radnog iskustva u struci i s položenim stručnim ispitom iz članka 61. ovoga Zakona.
+Iznimno od stavka 2. ovoga članka za voditelja radova na obiteljskoj kući i jednostavnoj građevini može se imenovati osoba sa srednjom stručnom spremom odgovarajuće struke s najmanje pet godina radnog iskustva u struci i s položenim stručnim ispitom iz članka 61. ovoga Zakona.
+Za voditelja manje složenih radova određenih suglasnošću Ministarstva iz članka 37. stavka 3. ovoga Zakona može se imenovati osoba koja ima srednju stručnu spremu odgovarajuće struke s najmanje deset godina radnog iskustva u struci i s položenim stručnim ispitom iz članka 61. ovoga Zakona.

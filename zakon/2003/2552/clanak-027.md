@@ -1,0 +1,9 @@
+## Isprave o sukladnosti
+# Članak 27.
+Ispravama o sukladnosti potvrđuje se da su provedene, odnosno da se provode propisane radnje u postupku ocjenjivanja sukladnosti, da je u tom postupku utvrđena sukladnost građevnog proizvoda s tehničkom specifikacijom ili tehničkim propisom, te da se proizvod može staviti u promet i rabiti za građenje.
+Certifikat sukladnosti građevnog proizvoda izdaje ovlaštena pravna osoba na zahtjev proizvođača, odnosno uvoznika građevnog proizvoda, koji snosi troškove njegova izdavanja.
+Certifikat sukladnosti građevnog proizvoda može se izdati samo ako je proizvođač proveo ili provodi radnje iz članka 25. stavka 1. podstavka 3. i 5. ovoga Zakona, te ako je pravna osoba ovlaštena za ocjenjivanje sukladnosti provela ili provodi radnje iz članka 25. stavka 1. podstavka 2., 6. i 7., a po potrebi i podstavka 4. ovoga Zakona, propisane za ocjenjivanje sukladnosti tog proizvoda.
+Izjavu o sukladnosti građevnog proizvoda može se izdati samo ako je proizvođač proveo ili provodi radnje iz članka 25. stavka 1. podstavka 1. i 5., a po potrebi i podstavka 3. ovoga Zakona i ako je pravna osoba ovlaštena za ocjenjivanje sukladnosti provela ili provodi radnje iz članka 25. stavka 1. podstavka 6., a po potrebi i podstavka 7. ovoga Zakona, odnosno ako proizvođač provodi radnju iz članka 25. stavka 1. podstavka 5. ovoga Zakona i ako je pravna osoba ovlaštena za ocjenjivanje sukladnosti provela radnju iz članka 25. stavka 1. podstavka 2. ovoga Zakona, odnosno ako je proizvođač proveo ili provodi radnje iz članka 25. stavka 1. podstavka 1. i 5. ovoga Zakona, propisane za ocjenjivanje sukladnosti tog proizvoda.
+Izjavu o sukladnosti građevnog proizvoda izdaje proizvođač, odnosno uvoznik građevnog proizvoda.
+Ministarstvo vodi evidenciju izdanih isprava o sukladnosti.
+Sadržaj isprava o sukladnosti propisuje ministar pravilnikom.

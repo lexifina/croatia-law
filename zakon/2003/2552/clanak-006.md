@@ -1,0 +1,5 @@
+## II. BITNI ZAHTJEVI ZA GRAĐEVINU, DRUGI UVJETI ZA GRAĐEVINU I TEHNIČKA SVOJSTVA GRAĐEVNIH PROIZVODA
+# Članak 6.
+Svaka građevina ovisno o svojoj namjeni tijekom svog trajanja, mora ispunjavati bitne zahtjeve za građevinu i druge uvjete propisane ovim Zakonom, tehničkim propisima i drugim propisima donesenim na temelju ovoga Zakona, lokacijskim uvjetima određenim prema posebnom zakonu, te drugim uvjetima propisanim posebnim propisima koji su od utjecaja na bitne zahtjeve za građevinu.
+Bitni zahtjevi za građevinu odnose se na mehaničku otpornost i stabilnost, zaštitu od požara, higijenu, zdravlje i zaštitu okoliša, sigurnost u korištenju, zaštitu od buke te uštedu energije i toplinsku zaštitu.
+Građevinsko-tehničke uvjete za građenje i uporabu građevnih proizvoda koji se smatraju povoljnijim za okoliš i za koje je radi toga prema posebnom propisu predviđena mogućnost smanjenja prihoda državnog proračuna Republike Hrvatske odprometa roba i usluga propisuje ministar nadležan za zaštitu okoliša i prostorno uređenje (u daljnjem tekstu: ministar) pravilnikom.

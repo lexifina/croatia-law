@@ -1,0 +1,4 @@
+# Članak 42.
+Glavni inženjer gradilišta, inženjer gradilišta, odnosno voditelj radova za građevine i radove za koje je potrebna kontrola glavnog projekta, mora biti diplomirani inženjer odgovarajuće struke s položenim stručnim ispitom iz članka 61. ovoga Zakona s najmanje pet godina radnog iskustva u struci.
+Na gradilištu obiteljske kuće, odgovorna osoba koja vodi građenje, odnosno pojedine radove osim osoba iz članka 38. ovoga Zakona može biti i osoba koja ima srednju stručnu spremu građevinske ili arhitektonske struke s najmanje pet godina radnog iskustva u struci i s položenim stručnim ispitom iz članka 61. ovoga Zakona.
+Na gradilištu jednostavne građevine odgovorna osoba koja vodi građenje odnosno pojedine radove osim osoba iz članka 38. ovoga Zakona može biti i osoba koja ima srednju stručnu spremu odgovarajuće struke s položenim stručnim ispitom iz članka 61. ovoga Zakona.

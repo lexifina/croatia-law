@@ -1,0 +1,8 @@
+# Članak 50.
+Ovlašteni arhitekt i ovlašteni inženjer mogu obavljati poslove projektiranja i/ili stručnog nadzora građenja samostalno u vlastitom uredu, zajedničkom uredu, projektantskom društvu ili drugoj pravnoj osobi registriranoj za tu djelatnost (u daljnjem tekstu: osoba registrirana za djelatnost projektiranja i/ili stručnog nadzora).
+Osoba registrirana za djelatnost projektiranja i/ili stručnog nadzora dužna je u obavljanju tih poslova poštivati odredbe ovoga Zakona i posebnih zakona, te osigurati da obavljanje poslova projektiranja i/ili stručnog nadzora bude u skladu s temeljnim načelima i pravilima koja trebaju poštivati ovlašteni arhitekti i ovlašteni inženjeri.
+Osoba registrirana za djelatnost projektiranja odgovorna je da projekt ili dio projekta kojeg je izradila odgovara propisanim zahtjevima.
+Osoba registrirana za djelatnost projektiranja i/ili stručnog nadzora može obavljati poslove projektiranja i/ili stručnog nadzora ako za obavljanje tih djelatnosti ima suglasnost Ministarstva.
+Suglasnost iz stavka 4. ovoga članka izdaje se po prethodno pribavljenom mišljenju povjerenstva koje osniva i imenuje ministar. Za članove povjerenstva imenuju se predstavnici Ministarstva i predstavnici strukovnih udruga.
+Uvjete za obavljanje djelatnosti iz stavka 4. ovoga članka glede osoba i tehničke opremljenosti, te sredstava kojima osoba dokazuje ispunjavanje tih uvjeta u postupku davanja ovlaštenja te uvjete za oduzimanje te suglasnosti, propisuje ministar pravilnikom.
+Protiv suglasnosti iz stavka 4. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor. U ovom slučaju postupak pred Upravnim sudom Republike Hrvatske je hitan.

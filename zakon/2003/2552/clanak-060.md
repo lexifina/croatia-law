@@ -1,0 +1,7 @@
+## Strani arhitekti i inŽenjeri
+# Članak 60.
+Strani arhitekt ili inženjer koji je član strane Komore arhitekata ili inženjera može obavljati poslove projektiranja u svojstvu odgovorne osobe i stručnog nadzora građenja u Republici Hrvatskoj ako je na natječaju stekao pravo na izvedbu natječajnog rada, pod uvjetom da dobije odobrenje Komore.
+Stranom arhitektu ili inženjeru može se dati odobrenje za obavljanje poslova iz stavka 1. ovoga članka pod pretpostavkom uzajamnosti, ako poznaje važeće propise Republike Hrvatske iz područja koje uređuje ovaj Zakon i drugi propisi značajni za primjenu ovoga Zakona te ako ispunjava i druge uvjete propisane posebnim propisima. Pretpostavka uzajamnosti ne primjenjuje se na stranog arhitekta i inženjera sa sjedištem, odnosno prebivalištem u zemlji članici Svjetske trgovinske organizacije.
+Strani arhitekt ili inženjer može povremeno obavljati poslove projektiranja i/ili stručnog nadzora građenja u Republici Hrvatskoj na temelju pisanog ugovora s osobom registriranom za obavljanje tih poslova, ako dobije za to odobrenje Komore u skladu sa stavkom 2. ovoga članka.
+Strani arhitekt ili inženjer kojeg je Vlada Republike Hrvatske pozvala da izradi projekt od posebnoga kulturnog značaja dužan je o tome obavijestiti Komoru radi evidentiranja.
+Odobrenje za obavljanje poslova iz stavka 3. ovoga članka je upravni akt protiv kojeg žalba nije dopuštena, ali se može pokrenuti upravni spor. U ovom slučaju postupak pred Upravnim sudom Republike Hrvatske je hitan.

@@ -1,0 +1,4 @@
+# Članak 2.
+Projektiranje, građenje, uporaba i uklanjanje građevine, promet i dokazivanje uporabljivosti građevnih proizvoda, te izdavanje akata s tim u vezi, obavlja se prema odredbama ovoga Zakona, i drugih propisa donesenih na temelju ovoga Zakona, te prema odredbama posebnih zakona i propisa donesenih na temelju tih zakona, hrvatskih norma i pravila struke, ako ovim Zakonom nije drukčije propisano.
+Projektiranjem, građenjem, uporabom i uklanjanjem građevine ne smiju se ugroziti život i zdravlje ljudi, okoliš, priroda, druge građevine i stvari, niti stabilnost tla na okolnom zemljištu.
+Odredbe ovoga Zakona koje se odnose na građenje nove građevine na odgovarajući se način primjenjuju na rekonstrukciju, adaptaciju, održavanje i uklanjanje građevine, ako ovim Zakonom ili drugim propisom donesenim u skladu s ovim Zakonom nije drukčije propisano.

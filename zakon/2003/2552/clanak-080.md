@@ -1,0 +1,2 @@
+# Članak 80.
+Postupak nostrifikacije, sadržaj pisanog izvješća i potvrde, slučajeve u kojima dijelovi projekta ne moraju biti prevedeni, način i značenje ovjere projekta od strane odgovornih osoba, način izračuna naknade za nostrifikaciju, uvjete glede broja, radnog i stručnog iskustva zaposlenika za davanje, produženje važenja i oduzimanje ovlaštenja pravnoj osobi za nostrifikaciju, te sredstva odnosno način kojim se dokazuje, odnosno ocjenjuje ispunjavanje tih uvjeta, propisuje ministar pravilnikom.

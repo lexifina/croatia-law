@@ -1,0 +1,6 @@
+## StruČni ispit za obavljanje poslova graditeljstva
+# Članak 61.
+Osobe koje u svojstvu odgovorne osobe obavljaju poslove projektiranja, kontrole projekata, nostrifikacije, građenja građevine, stručnog nadzora građenja, osobe koje sudjeluju u radu povjerenstva za tehnički pregled, osobe koje obavljaju poslove održavanja građevina, osobe koje izdaju autorizirane podatke odnosno izrađuju elaborate za potrebe projekata, osobe koje sudjeluju u provedbi radnji ocjenjivanja sukladnosti i izdavanja certifikata sukladnosti građevnih proizvoda te službene osobe koje vode postupke inspekcijskog nadzora, dužne su položiti stručni ispit za obavljanje poslova graditeljstva (u daljnjem tekstu: stručni ispit), te upotpunjavati i usavršavati svoje znanje.
+Stručnim ispitom provjerava se poznavanje važećih propisa iz područja koja uređuje ovaj Zakon i drugih propisa značajnih za primjenu ovoga Zakona.
+Program, uvjete i način polaganja stručnog ispita kao i upotpunjavanja i usavršavanja znanja osoba koje su položile ispit iz stavka 1. ovoga članka, te njegove provjere propisuje ministar pravilnikom.
+Osobe iz stavka 1. ovoga članka stručni ispit polažu svake četvrte godine, osim u slučajevima koje posebnim pravilnikom propisuje ministar.
