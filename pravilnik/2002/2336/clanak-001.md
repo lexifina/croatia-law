@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o naknadama za obavljanje poslova u prethodnom kaznenom postupku (»Narodne novine« br. 20/96) članak 2. mijenja se i glasi:
+»Sucima županijskih sudova, županijskim državnim odvjetnicima i Ravnatelju Ureda za suzbijanje korupcije i organiziranog kriminaliteta (u daljnjem tekstu: USKOK), odnosno njihovim zamjenicima (u daljem tekstu: dužnosnik), te službenicima i namještenicima (u daljem tekstu: službenik) u navedenim sudovima i državnim odvjetništvima te USKOK-u, paušalna naknada za obavljanje poslova u prethodnom kaznenom postupku izvan redovitog radnog vremena, utvrđuje se ovisno o tome je li te poslove obavlja u zgradi suda, državnog odvjetništva odnosno USKOK-a ili je u stalnoj pripravnosti kod kuće, odnosno u stanu«.

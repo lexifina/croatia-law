@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 3. mijenja se i glasi:
+»Paušalna naknada iznosi 400,00 kuna bruto dnevno dužnosniku, a 130,00 kuna bruto dnevno službeniku u radne dane, odnosno 800,00 kuna bruto dnevno dužnosniku, a 260,00 kuna bruto dnevno službeniku za vrijeme tjednog odmora, neradnog dana ili državnog blagdana, ako poslove u prethodnom kaznenom postupku obavlja u zgradi suda, državnog odvjetništva odnosno USKOK-a.
+Paušalna naknada iznosi 200,00 kuna bruto dnevno dužnosniku, a 65,00 kuna bruto dnevno službeniku u radne dane odnosno 400,00 kuna bruto dnevno dužnosniku, a 130,00 kuna bruto dnevno službeniku u dane tjednog odmora, neradnog dana ili državnog blagdana, ako poslove u prethodnom kaznenom postupku obavljaju na način da se dužnosnik odnosno službenik nalazi u stalnoj pripravnosti kod kuće odnosno u stanu.«
