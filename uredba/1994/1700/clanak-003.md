@@ -1,0 +1,4 @@
+# Članak 3.
+Članak 7. mijenja se i glasi:
+"Dužnici iz članka 2. ove Uredbe dužni su od dana stupanja na snagu Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima tekuća dospijeća kamata po kreditima zaključenim s vladama zemalja članica "Paris Cluba",1984.,1985.,1986. i 1988., tekuća dospijeća kamata po kreditima zaključenim do 2. prosinca 1982. i osiguranim od vladinih agencija zemalja članica "Paris Cluba", deponirati u Narodnu banku Hrvatske.
+Dužnici iz članka 2 ove Uredbe dužni su od dana stupanja na snagu Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima tekuća dospijeća glavnica i kamata po kreditima zaključenim poslije 2. prosinca 1982. i osiguranim od vladinih agencija zemalja članica "Paris Cluba", plaćati sukladno ugovorenim rokovima dospijeća."
