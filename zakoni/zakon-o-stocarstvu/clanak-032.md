@@ -1,0 +1,4 @@
+# Članak 32.
+Domaćim životinjama koje se koriste u gospodarske svrhe nije dopušteno
+davanje hormonalnih preparata da bi se poticao rast, proizvodnja mlijeka,
+mesa, jaja ili zbog drugih proizvodnih razloga.

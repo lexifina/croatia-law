@@ -1,0 +1,6 @@
+# Članak 31.
+Uzgajivaču je dopušteno obavljati u vlastitom stadu na domaćim životinjama
+zootehničke zahvate: odrožavanje mladih životinja, kupiranje repova i
+sječenje zubi prasadi, skraćivanje kljunova, obrezivanje papaka, njegu
+kože i dlake, davanje mineralnih i vitaminskih preparata prema uputama
+proizvođača.
