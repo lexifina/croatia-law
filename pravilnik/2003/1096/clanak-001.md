@@ -1,0 +1,5 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza I. kategorije LiČko Petrovo Selo
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Ličko Petrovo Selo nalazi se na 16,1 kilometru DC 217. Dužina graničnog prijelaza iznosi 209 metara i proteže se od državne granice do početka proširenja kolnika gdje je postavljena ploča graničnog prijelaza Ličko Petrovo Selo, dok širina graničnog prijelaza iznosi 31 metar bez pripadajućih zelenih površina. Navedeno područje obuhvaća sljedeće k.č. 1148/1, 1148/2, 1150/1, 1150/3, 1151/1, 1151/2, 1152, 1153/1 i 1153/2.
+Područje graničnog prijelaza obuhvaća dvije ulazne i dvije izlazne prometne trake, devet kontejnera koje koriste djelatnici policije, djelatnici veterinarske i fito sanitarne službe, djelatnici carine, djelatnici špedicije i službe za održavanje čistoće, sanitarni čvor, nadstrešnicu dužine 16 metara i širine 22 metra s četiri kućice za smještaj službenika policije i carine koji obavljaju kontrolu na graničnom prijelazu.
+Ukupna površina područja graničnog prijelaza iznosi 6 479 m2.
