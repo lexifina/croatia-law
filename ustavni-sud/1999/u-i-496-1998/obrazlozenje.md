@@ -1,0 +1,41 @@
+Obrazloženje
+Josip Krnić iz Samobora podnio je prijedlog za ocjenu ustavnosti odredaba članaka 2., 3. i 13. stavka 2. Zakona o prebivalištu i boravištu građana ("Narodne novine", br. 53/91).
+Osporavane odredbe glase:
+"Članak 2.
+Prebivalište je mjesto u kojem se građanin naselio s namjerom da u njemu stalno živi i u kojem ima osigurano stalno stanovanje.
+U smislu ovoga zakona smatra se da građanin ima osigurano stalno stanovanje ako ima useljiv stan po osnovi vlasništva, ugovora o najmu, ili drugoj valjanoj pravnoj osnovi.
+Članak 3.
+Hrvatskom državljaninu koji nema prebivalište u smislu članka 2. ovoga zakona u Republici Hrvatskoj policijska uprava ili policijska stanica Ministarstva unutarnjih poslova (u daljem tekstu: nadležno tijelo) utvrdit će prebivalište u mjestu:
+1. u kojem se naselio s namjerom da se u njemu stalno nastani, ako su ispunjeni i drugi uvjeti propisani zakonom;
+2. njegovog uobičajenog boravišta, ako se prebivalište ne može odrediti prema odredbi točke 1. ovoga stavka;
+3. prebivališta njegovog bračnog druga, ako se prebivalište ne može odrediti prema odredbama točaka 1. i 2. ovoga stavka;
+4. prebivališta njegovih roditelja, ako se prebivalište ne može odrediti prema odredbama točaka 1. do 3. ovoga stavka;
+5. u kojem je upisan u matičnu knjigu rođenih, ako se prebivalište ne može odrediti prema odredbama točaka 1. do 4. ovoga stavka;
+6. u kojem je upisan u knjigu državljana u Republici Hrvatskoj, ako se prebivalište ne može odrediti prema odredbama točaka 1. do 5. ovoga stavka.
+Žalba protiv rješenja o utvrđivanju prebivališta ne zadržava izvršenje rješenja.
+Članak 13.
+Nadležno tijelo odbit će rješenjem prijavu prebivališta ako podnositelj prijave u propisanom roku ne podnese dokaze o ispunjavanju uvjeta iz članka 2. ovoga zakona.
+Nadležno tijelo može odbiti prijavu prebivališta ako na traženje toga tijela podnositelj prijave ne podnese dokaze i o svome zaposlenju ili drugom izvoru prihoda.
+Nadležno tijelo će po službenoj dužnosti donijeti rješenje o brisanju iz evidencije o prebivalištu ako utvrdi da je podnositelj prijave dao netočne i neistinite podatke.".
+Predlagatelj navodi da je u člancima 2. i 3. ograničeno ustavno pravo na slobodno kretanje jer da se to pravo veže ne samo uz volju građanina, već i uz njegovo imovno stanje, definirano kao "imati osigurano stanovanje". Takvo ograničenje da nije utemeljeno na odredbi članka 32. stavka 3. Ustava jer da ta odredba predviđa izuzetke u koje se ne može uvrstiti ograničenje utvrđeno osporenom zakonskom odredbom.
+Posebno u svezi članka 3. navodi da kada nadležno tijelo utvrđuje prebivalište, onda građanin ne mora imati "osigurano stalno stanovanje" pa se pita zašto mora imati osigurano stalno stanovanje kada sam određuje svoje prebivalište.
+Ukazuje da je u osporavanom stavku 2. članka 13. prebivalište građana vezano za "zaposlenje građana ili drugi izvor prihoda", što da je suprotno člancima 14. i 32. Ustava.
+Prijedlog je djelomično osnovan.
+Prvo treba naglasiti da Ustav ne poznaje termin "prebivalište", već samo "boravište". Stoga, pod ustavni termin "boravište" treba podvesti i zakonski termin "prebivalište", u značenju trajnog boravišta u mjestu u kojem građanin ima namjeru trajno živjeti, za razliku od boravišta kako ga definira Zakon o prebivalištu i boravištu građana u članku 5.
+Dakle, i prebivalište iz članka 2. stavka 1. i boravište iz članka 5. Zakona o prebivalištu i boravištu građana treba smatrati boravištem u smislu odredbe članka 32. stavka 1. Ustava.
+1. Glede odredbe članka 2. stavka 1., prema kojoj se prebivalištem definira mjesto u kojem građanin, između ostalog, ima osigurano stalno stanovanje, Sud izražava sumnju da je takvim određenjem povrijeđena odredba članka 32. stavka 1. Ustava, koja govori o pravu slobodnog kretanja i biranja boravišta pa i odredba stavka 3. istog članka Ustava koja omogućuje propisivanje ograničenja prava kretanja, ali samo ako je to nužno radi zaštite pravnog poretka, ili zdravlja, prava i sloboda drugih.
+Naime, iz osporavane odredbe proizlazi da građanin, koji u nekom mjestu nema osigurano stalno stanovanje, ne može u tom mjestu prijaviti prebivalište, dakle, ne može slobodno birati svoje prebivalište, što opet znači da se ne može slobodno kretati.
+Točno je da se ustavno pravo kretanja može ograničiti ako je to nužno radi zaštite pravnog poretka, ili zdravlja, prava i sloboda drugih, kako to određuje članak 32. stavak 2. Ustava.
+Međutim, ne može se zaključiti da bi činjenica neimanja osiguranog stalnog stanovanja mogla ugroziti pravni poredak, zdravlje, prava i slobode drugih, u toj mjeri da bi se građaninu u takvoj situaciji trebalo uskratiti prijavu prebivališta, odnosno, da bi uskrata takve prijave predstavljala zaštitu navedenih dobara od građanina koji u mjestu u kojem želi prijaviti prebivalište nema osigurano trajno stanovanje.
+Dakle, može se posumnjati u postojanje ustavne osnove za ograničavanje biranja prebivališta na način da se to uvjetuje osiguranim stalnim stanovanjem, bez obzira što je notorno da građanin u mjestu u kojem želi trajno živjeti mora negdje i stanovati.
+Također, nije jasno da li se odbijanjem prijave prebivališta građaninu koji u odnosnom mjestu nema osigurano stalno stanovanje, ograničava pravo na njegovo slobodno kretanje i biranje boravišta iz razloga što bi se prijavom prebivališta kad on nema stalno stanovanje ugrozio pravni poredak, ili zdravlje, ili pak prava i slobode drugih, ili za to postoje neki drugi razlozi, koji se, međutim, iz odredaba Zakona o prebivalištu i boravištu građana, ne mogu razabrati.
+2. Što se tiče navoda da građanin ne mora imati osigurano stalno stanovanje, u slučaju kada mu nadležno tijelo određuje prebivalište temeljem odredaba stavka 1. članka 3., smatramo da taj navod nije osnovan jer su tim odredbama samo predviđeni načini utvrđivanja prebivališta hrvatskom državljaninu koji u Republici Hrvatskoj nema prebivalište u smislu članka 2. Zakona. Dakle, ne radi se o prisilnom određivanju prebivališta, kojim bi se vrijeđalo ili ograničavalo neko ustavno pravo, a ni sam predlagatelj ne navodi s kojim ustavnim odredbama osporavana odredba ne bi bila suglasna.
+Stoga, Sud ocjenjuje da prijedlog za pokretanje postupka ocjene ustavnosti članka 3. stavka 2. Zakona o prebivalištu i boravištu građana nije osnovan.
+3. U svezi članka 13. stavka 2. Zakona o prebivalištu i boravištu građana, predlagatelj smatra da je suprotan članku 14. i članku 32. Ustava jer da nadležnom tijelu daje diskreciono pravo u određivanju prebivališta građana, vezano uz zaposlenje ili dokaz o drugom prihodu.
+Prema toj odredbi, nadležno tijelo može odbiti prijavu prebivališta ako na traženje tog tijela podnositelj ne podnese dokaze o svome zaposlenju ili drugom izvoru prihoda, dakle, nadležno tijelo ima ovlaštenje slobodno ocijeniti hoće li, ili neće, u nekom slučaju zatražiti od podnositelja prijave dokaz o njegovom zaposlenju ili drugom izvoru prihoda pa, ukoliko podnositelj na zahtjev takav dokaz ne podnese, može nadležno tijelo odbiti prijavu.
+Iz osporavane odredbe ne može se zaključiti o granicama ovlaštenja, ni u kojem je cilju dano nadležnom tijelu ovlaštenje da donese rješenje, po slobodnoj ocjeni, kojim će odbiti prijavu prebivališta iako građanin ispunjava uvjete iz članka 2. stavka 1. Zakona, ali na traženje nadležnog tijela ne pridonese dokaz o svom zaposlenju ili drugom izvoru prihoda.
+Dakle, sloboda kretanja, odnosno biranja boravišta, mogla bi se primjenom osporavane odredbe ograničiti zbog činjenice da građanin nema dokaza o zaposlenju ili stalnom izvoru prihoda.
+Za takvo ograničavanje ustavne slobode kretanja i biranja boravišta, Sud ne nalazi osnove u članku 32. stavku 3. Ustava, a ni u jednoj njegovoj drugoj odredbi.
+Naprotiv, Sud izražava sumnju da je osporavana odredba u nesuglasju s odredbom članka 32. stavka 1., odredbama članka 14. i temeljnom vrednotom jednakosti iz članka 3. Ustava.
+Stoga je, temeljem odredbe članka 45. stavka 1. Poslovnika Ustavnog suda Republike Hrvatske ("Narodne novine", br. 29/94), odlučeno kao u izreci ovog rješenja.
+Odluka o objavi ovog rješenja temelji se na odredbi članka 20. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br. 13/91).

@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Mladen Žuvela, dopredsjednik Suda te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić i Ivan Marijan Severinac, odlučujući o prijedlogu Josipa Krnića iz Samobora, na sjednici održanoj dana 16. veljače 1999. donio je sljedeće
