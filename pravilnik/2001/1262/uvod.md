@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. i članka 80. stavka 5. Zakona o sjemenu i sadnom materijalu i priznavanju sorti poljoprivrednog bilja, (»Narodne novine« br. 131/1997) ministar poljoprivrede i šumarstva donosi
