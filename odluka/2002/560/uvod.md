@@ -1,0 +1,1 @@
+Na temelju članka 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 23. Statuta Grada Vrbovca (»Glasnik Zagrebačke županije«, broj 22/01), Gradsko vijeće Grada Vrbovca na sjednici, održanoj 4. ožujka 2002. godine, donosi
