@@ -1,0 +1,1 @@
+Na osnovi članka 51. Zakona o zdravstvenom osiguranju (»Narodne novine«, broj 94/01.) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 16/02.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje, na 3. sjednici održanoj 27. veljače 2002. godine, donijelo je
