@@ -1,0 +1,1 @@
+Na temelju članka 44. stava 1. točke 17. Statuta Privredne komore Hrvatske ("Narodne novine", br. 21/90 i 2/91) i prijedloga Saveza udruženja samostalnih privrednika Hrvatske, Izvršni odbor Privredne komore Hrvatske na 33. sjednici održanoj 22. travnja 1991. godine donio je
