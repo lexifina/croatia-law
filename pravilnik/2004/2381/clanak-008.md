@@ -1,0 +1,4 @@
+## Prijelazne odredbe
+# Članak 8.
+(1) Očevidnike o obavljenom nadzoru, koje su vodili nadzornici telekomunikacija Hrvatskog zavoda za telekomunikacije prema propisima koji su važili do dana stupanja na snagu Zakona o telekomunikacijama (»Narodne novine«, broj 122/03., 158/03. i 60/04.), preuzet će ministarstvo nadležno za telekomunikacije u roku od 30 dana od dana stupanja na snagu ovoga Pravilnika.
+(2) Očevidnike o obavljenom nadzoru, koje su vodili kontrolori radiofrekvencijskog spektra Hrvatskog zavoda za telekomunikacije prema propisima koji su važili do dana stupanja na snagu Zakona o telekomunikacijama (»Narodne novine«, broj 122/03., 158/03. i 60/04.), nastavljaju voditi, do početka rada Hrvatske agencije za telekomunikacije, ovlašteni radnici Hrvatskog zavoda za telekomunikacije u skladu s odredbama ovoga Pravilnika o vođenju očevidnika ovlaštenog radnika Agencije.
