@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), članka 35. Zakona o vlasništvu i drugim stvarnim pravima ("Narodne novine", broj 91/96), te članka 51. Zakona o najmu stanova ("Narodne novine", broj 91/96), Vlada Republike Hrvatske je na sjednici održanoj 11. prosinca 1997. godine, donijela
