@@ -1,0 +1,3 @@
+# Članak 4.
+Članak 3. mijenja se i glasi:
+"Radom Ureda rukovodi predstojnik. Predstojnik Ureda ima prava i dužnosti rukovoditelja organa državne uprave. Predstojnika Ureda imenuje Vlada uz suglasnost Ureda predsjednika Republike i Predsjedništva Sabora. Radom Republičkog protokola i organizacijom korištenja reprezentativnih objekata i objekata za posebne namjene neposredno rukovodi šef Republičkog protokola. Šefa Republičkog protokola imenuje Vlada uz suglasnost Ureda predsjednika Republike i Predsjedništva Sabora. U slučaju odsutnosti ili spriječenosti predstojnika zamjenjuje šef Republičkog protokola."
