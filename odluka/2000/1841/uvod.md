@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 1. točke 1. Zakona o šumama (»Narodne novine«, br. 52/90 i 76/93) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 2000. godine, donijela
