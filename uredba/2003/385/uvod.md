@@ -1,0 +1,1 @@
+Na temelju članka 19. Zakona o strateškim robnim zalihama (»Narodne novine,« broj 87/2002), a u vezi s člankom 22. Zakona o energiji (»Narodne novine«, broj 68/2001), Vlada Republike Hrvatske je na sjednici održanoj 20. veljače 2003. godine donijela
