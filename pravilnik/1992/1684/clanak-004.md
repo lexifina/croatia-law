@@ -1,0 +1,3 @@
+# Članak 4.
+Pisani zahtjev iz članka 2. ovog pravilnika podnosi se carinarnici preko koje će se uvoziti dijelovi odnosno proizvodi koji će se ugrađivati u finalni proizvod, a ako se uvoze preko više carinarnica odnosno njihovih organizacijskih jedinica, tada carinarnici preko koje se uvozi pretežni dio dijelova odnosno proizvoda.
+Uz zahtjev priložena specifikacija finalnog proizvoda, te dijelova odnosno proizvoda koji se u njega ugrađuju odnosno proizvoda koji se ugrađuju, dorađuju ili oplemenjuju, podnosi se u tri primjerka; carine li se dijelovi odnosno proizvodi u više carinarnica odnosno njihovih organizacijskih jedinica, za svaku daljnju carinarnicu odnosno organizacijsku jedinicu podnosi se dodatni primjerak specifikacije.

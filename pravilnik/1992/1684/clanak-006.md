@@ -1,0 +1,5 @@
+# Članak 6.
+Uz svaku uvoznu carinsku deklaraciju robe koja se carini prema odredbama ovog pravilnika podnosi se u tri primjerka i fotokopija odgovarajućeg dijela specifikacije iz članka 2. ovog pravilnika, koji sadrži podatke o dijelu robe koja se tom carinskom deklaracijom carini.
+Na izvodu iz specifikacije iz stavka 1. ovog članka ovlašteni carinski djelatnik obilježava podatke i utvrđuje dijelove odnosno proizvode koji se predmetnom carinskom deklaracijom carine, uz naznaku podataka o toj deklaraciji na izvodu iz specifikacije.
+Po ovlaštenom carinskom djelatniku ovjereni primjerak izvoda iz specifikacije s podacima (oznakama) o ocarinjenoj robi prilaže se uz carinsku deklaraciju, drugi primjerak dostavlja se carinarnici odnosno njenoj organizacijskoj jedinici određenoj za vođenje evidencije o uvezenoj robi, a treći neposredno uručuje carinskom obvezniku.
+Carinarnica odnosno njena organizacijska jedinica rješenjem određena za vođenje evidencije o ostvarenom uvozu. na temelju izvoda iz specifikacija dostavljenih prema stavku 3. ovog članka, otpisuje određene pozicije robe koja je ocarinjena na svom primjerku specifikacije.
