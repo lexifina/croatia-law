@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-2125/2001 od 31. siječnja 2002.
+
+- Case: `U-III-2125/2001`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2002-01-31`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C1256A25004A262AC1256B5800326012>
+- Official database page SHA-256: `e3b47c239d45921a58be184c5dcbf7173685b2f3c2a4f558d3b872e1d21bb174`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
