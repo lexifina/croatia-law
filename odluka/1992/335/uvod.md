@@ -1,0 +1,1 @@
+Na osnovi točke II. Odluke o obavljanju poslova iz djelokruga Skupštine Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske (Klasa: 025-04/91-02/34), Izvršni odbor Skupštine Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 13. sjednici, održanoj 27. prosinca 1991. godine, donio je sljedeću
