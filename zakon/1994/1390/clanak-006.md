@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Učinkovitost zaštite okoliša države osiguravaju Sabor Republike Hrvatske (u daljnjem tekstu: Sabor) i Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) te predstavnička i izvršna tijela jedinica lokalne samouprave i uprave donošenjem strategije zaštite okoliša, programa zaštite okoliša te drugih dokumenata važnih za zaštitu okoliša.
+(2) Stručno obavljanje poslova zaštite okoliša i provođenje mjera zaštite okoliša osiguravaju tijela državne uprave i upravna tijela jedinica lokalne samouprave i uprave nadležna za obavljanje poslova zaštite okoliša i pravne osobe registrirane za obavljanje stručnih poslova zaštite okoliša
+(3) Građani, kao pojedinci ili organizirani radi zaštite okoliša u društva, strukovne udruge i druge nevladine organizacije, pridonose ostvarivanju ciljeva zaštite okoliša i provođenju učinkovite zaštite okoliša.
