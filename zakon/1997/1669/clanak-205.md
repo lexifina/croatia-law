@@ -1,0 +1,4 @@
+# Članak 205.
+(1) Oštećenik kao tužitelj i privatni tužitelj mogu istražnom sucu nadležnog suda podnijeti istražni zahtjev, odnosno prijedlog da istragu dopuni. U tijeku istrage oni mogu istražnom sucu stavljati i druge prijedloge.
+(2) U svezi s pokretanjem, provođenjem, prekidom i obustavom istrage primjenjivat će se odredbe ovoga Zakona koje se odnose na pokretanje i vođenje istrage na zahtjev državnog odvjetnika.
+(3) Kad istražni sudac ustanovi da je istraga završena, izvijestit će o tome oštećenika kao tužitelja ili privatnog tužitelja i upozoriti ih da u roku od osam dana trebaju podnijeti optužnicu, odnosno privatnu tužbu, a ako to ne učine, smatrat će se da su odustali od progona, pa će se postupak rješenjem obustaviti. Takvo upozorenje istražni sudac dužan je dati i kad vijeće (članak 20. stavak 2.) odbije prijedlog oštećenika kao tužitelja ili privatnog tužitelja za dopunu istrage zato što smatra da je stanje stvari dovoljno razjašnjeno.

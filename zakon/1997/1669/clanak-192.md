@@ -1,0 +1,5 @@
+# Članak 192.
+(1) Istragu provodi istražni sudac nadležnog suda.
+(2) Ministar pravosuđa može odrediti jedan sud u kojem će se za područja više sudova provoditi istraga (istražni centar).
+(3) Istražni sudac obavlja istražne radnje u pravilu samo na području svojeg suda. Ako interes istrage zahtijeva, on može pojedine istražne radnje obaviti i izvan područja svojeg suda, ali je dužan o tome izvijestiti sud na čijem području obavlja istražne radnje.
+(4) Na prijedlog istražnog suca u složenim istražnim predmetima predsjednik suda može odrediti da istražnom sucu u radu pomažu sudski savjetnici i stručni suradnici kao stručni pomoćnici (diplomirani kriminalisti). Oni mogu pripremati provođenje pojedinih istražnih radnji, primati izjave i prijedloge stranaka, te samostalno poduzeti pojedinu istražnu radnju koju im je istražni sudac povjerio. Zapisnik o takvoj radnji istražni će sudac ovjeroviti najkasnije četrdesetosam sati nakon njezina poduzimanja. Ispitivanje okrivljenika i svjedoka, kao pomoć istražnome sucu, mogu obaviti samo sudski savjetnici.

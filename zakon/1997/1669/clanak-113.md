@@ -1,0 +1,2 @@
+# Članak 113.
+Pritvorenici se smještaju u prostorije odgovarajuće veličine koje udovoljavaju potrebnim zdravstvenim uvjetima. U istu prostoriju ne smiju biti smještene osobe različita spola. U pravilu, pritvorenici se neće smjestiti u istu prostoriju s osobama koje izdržavaju kaznu zatvora. Pritvorenik se neće smjestiti zajedno s osobama koje bi na njega mogle štetno djelovati, ili s osobama s kojima bi druženje moglo štetno utjecati na vođenje postupka.

@@ -1,0 +1,2 @@
+# Članak 24.
+Ako je kazneno djelo počinjeno na domaćem brodu ili domaćem zrakoplovu dok se nalazi u domaćem pristaništu, nadležan je sud na čijem se području nalazi to pristanište. U ostalim slučajevima kad je kazneno djelo počinjeno na domaćem brodu ili zrakoplovu, nadležan je sud na čijem se području nalazi matična luka broda odnosno zrakoplova ili domaće pristanište u kojem se brod odnosno zrakoplov prvi put zaustavi.

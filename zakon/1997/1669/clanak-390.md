@@ -1,0 +1,3 @@
+# Članak 390.
+(1) Drugostupanjski će sud, prihvaćajući žalbu ili po službenoj dužnosti, presudom preinačiti prvostupanjsku presudu ako utvrdi da su odlučne činjenice u prvostupanjskoj presudi pravilno utvrđene i da se s obzirom na utvrđeno činjenično stanje po pravilnoj primjeni zakona ima donijeti drukčija presuda, a prema stanju stvari i u slučaju povreda iz članka 367. stavka 1. točke 5., 9. i 10. ovoga Zakona.
+(2) Ako su se zbog preinake prvostupanjske presude stekli uvjeti da se odredi, odnosno ukine pritvor na temelju članka 102. stavka 4. i članka 104. stavak 4. ovoga Zakona, drugostupanjski će sud o tome donijeti posebno rješenje, protiv kojeg nije dopuštena žalba.

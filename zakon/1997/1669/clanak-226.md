@@ -1,0 +1,3 @@
+# Članak 226.
+(1) Okrivljeniku treba postavljati pitanja jasno, razgovijetno i određeno, tako da ih može potpuno razumjeti. U ispitivanju se ne smije polaziti od pretpostavke da je okrivljenik priznao nešto što nije priznao, niti se smiju postavljati pitanja u kojima je već sadržano kako se na njih treba odgovoriti. Prema okrivljeniku se ne smije upotrijebiti obmana da bi se došlo do njegove izjave ili priznanja.
+(2) Ako se kasniji iskazi okrivljenika razlikuju od ranijih, a osobito ako okrivljenik opozove svoje priznanje, pozvat će se da iznese razloge zašto je dao različite iskaze, odnosno zašto je opozvao priznanje.

@@ -1,0 +1,3 @@
+# Članak 114.
+(1) Pritvorenici imaju pravo na osmosatni neprekidni odmor u vremenu od dvadesetčetiri sata. Osim toga njima će se osigurati kretanje na slobodnom zraku najmanje dva sata dnevno.
+(2) Pritvorenik smije kod sebe imati novac, predmete i osobne uporabe, higijenske potrepštine, o svom trošku nabavljati knjige, novine i druge tiskovine, sredstva za praćenje javnih medija, te imati druge predmete u količini i veličini koja ne ometa boravak u prostoriji i ne remeti kućni red. Prilikom primitka u pritvor od pritvorenika će se prilikom osobne pretrage oduzeti predmeti u svezi s kaznenim djelom, a ostali predmeti koje okrivljenik ne smije imati u pritvoru prema njegovoj će se uputi pohraniti i čuvati ili predati osobi koju odredi pritvorenik.

@@ -1,0 +1,2 @@
+# Članak 429.
+Što se tiče zahtjeva za izvanredno preispitivanje pravomoćne presude, primjenjivati će se odredbe članka 419. stavka 2. i 3., članka 420. i 421., članka 422. stavka 1. i 2., članka 423. stavka 1. i članka 424. ovoga Zakona. Prilikom primjenjivanja članka 422. stavka 1. ovoga Zakona sud se ne može ograničiti samo na to da utvrdi povredu zakona, a odredba stavka 2. toga članka primjenjivat će se samo u dijelu o izricanju kazne.

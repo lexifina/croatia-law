@@ -1,0 +1,2 @@
+# Članak 235.
+Ako je kao svjedok ispitana osoba koja se ne može ispitati kao svjedok (članak 233.) ili osoba koja ne mora svjedočiti (članak 234.), a nije na to upozorena ili se nije izričito odrekla toga prava, ili ako upozorenje i odricanje nije ubilježeno u zapisnik, ili ako je ispitan maloljetnik koji ne može shvatiti značenje prava da ne mora svjedočiti, ili ako je iskaz svjedoka iznuđen silom, prijetnjom ili drugim sličnim zabranjenim sredstvom, na takvu iskazu svjedoka ne može se temeljiti sudska odluka.

@@ -1,0 +1,3 @@
+# Članak 433.
+(1) Ako je kaznenu prijavu podnio oštećenik, a državni odvjetnik u roku od mjesec dana nakon primitka prijave ne podnese optužni prijedlog niti obavijesti oštećenika da je odbacio prijavu, oštećenik ima pravo kao tužitelj poduzeti kazneni progon podnošenjem optužnog prijedloga sudu osim ako je državni odvjetnik odlučio da ne poduzme progon u slučajevima iz članka 175. ovoga Zakona.
+(2) Ako u slučaju iz stavka 1. ovoga članka oštećenik odustane od progona ili se po zakonu smatra da je od progona odustao, državni odvjetnik može, bez obzira na uvjete propisane za obnovu postupka, ponovno pokrenuti postupak, ako nije odbacio prijavu oštećenika.

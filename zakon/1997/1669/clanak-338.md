@@ -1,0 +1,2 @@
+# Članak 338.
+Vijeće može iznimno odlučiti da se optuženik privremeno udalji iz sudnice ako suoptuženik ili svjedok odbija dati iskaz u njegovoj nazočnosti ili ako okolnosti pokazuju da u njegovoj nazočnosti neće govoriti istinu. Nakon povratka optuženika u zasjedanje pročitat će mu se iskaz suoptuženika, odnosno svjedoka. Optuženik ima pravo postavljati pitanja suoptuženiku, odnosno svjedoku, a predsjednik vijeća upitat će ga ima li što primijetiti na njihov iskaz. Prema potrebi može se obaviti suočenje.

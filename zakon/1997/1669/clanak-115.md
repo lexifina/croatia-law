@@ -1,0 +1,6 @@
+# Članak 115.
+(1) Po odobrenju istražnog suca i pod njegovim nadzorom ili nadzorom osobe koju on odredi pritvorenika imaju pravo posjećivati, u okviru kućnog reda, njegovi srodnici, a na njegov zahtjev liječnik i druge osobe. Pojedini se posjeti mogu zabraniti ako bi zbog toga mogla nastati šteta za vođenje postupka.
+(2) Istražni će sudac odobriti konzularnom službeniku strane zemlje posjet pritvoreniku koji je državljanin te zemlje, sukladno kućnom redu pritvora.
+(3) Pritvorenik se smije dopisivati s osobama izvan zatvora sa znanjem i pod nadzorom istražnog suca, a nakon podignute optužnice, predsjednika vijeća. Pritvoreniku se može zabraniti odašiljanje i primanje pisama i drugih pošiljaka, ali ne i odašiljanje molbe, pritužbe ili žalbe.
+(4) Pritvorenik ima pravo, sukladno kućnom redu, o svom trošku obavljati telefonske razgovore. Uprava pritvora u tu svrhu pritvorenicima osigurava potreban broj javnih telefonskih priključaka. Istražni sudac, sudac pojedinac ili predsjednik vijeća mogu zbog razloga sigurnosti ili postojanja nekog od razloga iz članka 102. stavka 1. i stavka 2. točke 1., 2. i 3. ovoga Zakona rješenjem ograničiti ili zabraniti pritvoreniku korištenje telefona.
+(5) Pritvorenik ima pravo slobodne i neometane veze s braniteljem.

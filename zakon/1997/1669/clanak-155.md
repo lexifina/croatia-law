@@ -1,0 +1,7 @@
+# Članak 155.
+(1) Svakomu, u čijemu je to opravdanom interesu, može se dopustiti razgledavanje, prepisivanje i preslikavanje pojedinih kaznenih spisa.
+(2) Kad je postupak u tijeku, razgledavanje, prepisivanje i preslikavanje spisa dopušta tijelo pred kojim se vodi postupak, a kad je postupak završen, razgledavanje, prepisivanje i preslikavanje spisa dopušta predsjednik suda ili službena osoba koju on odredi. Ako se spisi nalaze kod državnog odvjetnika, odobrenje za razgledavanje, prepisivanje i preslikavanje daje državni odvjetnik.
+(3) Sud će državnom odvjetniku, na njegov zahtjev, dostaviti kazneni spis radi razgledavanja. Ako je u tijeku rok za izjavu redovitoga pravnog lijeka ili ako to zahtijevaju probitci postupka, sud će odrediti u kojem roku državni odvjetnik treba vratiti spise.
+(4) Privatni tužitelj i oštećenik kao tužitelj imaju pravo razgledati, prepisivati i preslikavati spise. Oštećeniku se može privremeno uskratiti razgledavanje, prepisivanje i preslikavanje spisa u slučaju iz članka 54. stavka 3.ovoga Zakona.
+(5) Okrivljenik ima pravo razgledati, prepisivati i preslikavati spise i predmete koji služe za utvrđivanje činjenica u postupku.
+(6) Ako postoji bojazan iz članka 238. stavka 4. ovoga Zakona istražni sudac će na zahtjev državnog odvjetnika na odgovarajući način (prijepisom zapisnika ili službene zabilješke bez podataka o istovjetnosti osobe, njihovim izdvajanjem u posebni omot i sl.) zaštititi tajnost podataka o osobama čije se izjave ili iskazi nalaze u spisima.

@@ -1,0 +1,5 @@
+# Članak 465.
+(1) Kad dolazi u obzir oduzimanje imovinske koristi pribavljene kaznenim djelom, osoba na koju je imovinska korist prenesena, a i predstavnik pravne osobe, pozvat će se radi ispitivanja u prethodnom postupku i na glavnoj raspravi. U pozivu će se upozoriti da će se postupak provesti i bez njihove nazočnosti.
+(2) Predstavnik pravne osobe ispitat će se na glavnoj raspravi nakon okrivljenika koji se očitovao da ne osporava osnovanost optužbe, a inače na početku dokaznog postupka. Na isti način postupit će se prema osobi na koju je imovinska korist prenesena, ako nije pozvana kao svjedok.
+(3) Osoba na koju je imovinska korist prenesena, a i predstavnik pravne osobe ovlašten je da u svezi s utvrđivanjem imovinske koristi predlaže dokaze i da, po dopuštenju predsjednika vijeća, postavlja pitanja okrivljeniku, svjedocima i vještacima.
+(4) Ako sud tek u tijeku glavne rasprave utvrdi da dolazi u obzir oduzimanje imovinske koristi, prekinut će glavnu raspravu i pozvati osobu na koju je imovinska korist prenesena, a i predstavnika pravne osobe.

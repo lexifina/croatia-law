@@ -1,0 +1,2 @@
+# Članak 423.
+Ako se pri odlučivanju o zahtjevu za zaštitu zakonitosti pojavi ozbiljna sumnja u istinitost odlučnih činjenica utvrđenih u odluci protiv koje je zahtjev podignut, pa se zbog toga ne može odlučiti o zahtjevu za zaštitu zakonitosti, sud će presudom kojom odlučuje o zahtjevu za zaštitu zakonitosti ukinuti tu odluku i narediti da se održi nova glavna rasprava pred istim ili drugim stvarno nadležnim prvostupanjskim sudom.

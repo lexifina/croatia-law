@@ -1,0 +1,5 @@
+# Članak 117.
+(1) Nadzor nad izvršenjem pritvora obavlja predsjednik nadležnog suda.
+(2) Predsjednik suda ili sudac kojega on odredi dužan je najmanje jedanput tjedno obići pritvorenike i ako nađe da je potrebno, i bez nazočnosti pravosudnog policajca, izvijestiti se kako se pritvorenici hrane, kako zadovoljavaju ostale potrebe i kako se s njima postupa. Predsjednik suda, odnosno sudac kojeg on odredi, dužan je poduzeti potrebne mjere da se otklone nepravilnosti uočene pri obilasku zatvora. Predsjednik suda ne može odrediti da istražni sudac umjesto njega obavlja nadzor nad izvršavanjem pritvora.
+(3) Predsjednik suda i istražni sudac ili predsjednik vijeća, odnosno sudac pojedinac pred kojim se vodi postupak, neovisno o nadzoru iz stavka 2. ovoga članka, mogu u svako doba obilaziti pritvorenike, s njima razgovarati i od njih primati pritužbe.
+(4) Ako tijekom pregleda ili povodom pritužbe pritvorenika sudac iz stavka 2. ovoga članka utvrdi da je istekao rok trajanja pritvora određen u rješenju o pritvoru ili da ne postoji zakonita odluka o oduzimanju slobode, odmah će odrediti pritvorenikovo puštanje na slobodu.

@@ -1,0 +1,7 @@
+# Članak 55.
+(1) Osim u slučajevima iz članka 175. ovoga Zakona, kad državni odvjetnik utvrdi da nema osnova da poduzme progon za kazneno djelo za koje se progoni po službenoj dužnosti ili po prijedlogu ili kad utvrdi da nema osnova da poduzme progon protiv nekog od prijavljenih sudionika, dužan je u roku od osam dana o tome izvijestiti oštećenika i uputiti ga da može sam poduzeti progon. Tako će postupiti i sud ako je donio rješenje o obustavi postupka zbog odustanka državnog odvjetnika od progona u slučajevima izvan članka 175. ovoga Zakona.
+(2) Oštećenik ima pravo poduzeti, odnosno nastaviti progon u roku od osam dana otkad je primio obavijest iz stavka 1. ovoga članka.
+(3) Ako je državni odvjetnik odustao od optužnice, oštećenik može, preuzimajući progon, ostati pri podignutoj optužnici ili podignuti novu.
+(4) Oštećenik koji nije upoznat da državni odvjetnik nije poduzeo progon ili da je odustao od progona može svoju izjavu da nastavlja postupak dati pred nadležnim sudom u roku od tri mjeseca od dana kad je doneseno rješenje o obustavi postupka, odnosno šest mjeseci od dana kad je državni odvjetnik odbacio prijavu.
+(5) Kad državni odvjetnik, odnosno sud izvještava oštećenika da može poduzeti progon, dostavit će mu i pouku koje radnje može poduzeti radi ostvarivanja toga prava.
+(6) Ako oštećenik umre u tijeku postupka, njegov bračni drug, djeca, roditelji, posvojenici, posvojitelji, braća i sestre mogu u roku od tri mjeseca od dana njegove smrti dati izjavu da postupak nastavljaju.

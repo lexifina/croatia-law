@@ -1,0 +1,4 @@
+# Članak 412.
+(1) Kazneni postupak u kojem je osoba osuđena u odsutnosti (članak 305. stavak 4. i 5.), a nastupila je mogućnost da joj se ponovno sudi u njezinoj nazočnosti, obnovit će se i izvan uvjeta predviđenih u članku 405. i 406. ovoga Zakona ako osuđenik ili njegov branitelj podnese zahtjev za obnovu postupka u roku od jedne godine od dana kad je osuđenik saznao za presudu kojom je osuđen u odsutnosti.
+(2) U rješenju kojim se dopušta obnova kaznenog postupka prema odredbi stavka 1. ovog članka sud će odrediti da se osuđeniku dostavi optužnica ako mu prije nije dostavljena, a može odrediti da se stvar vrati u stanje istrage, odnosno da se provede istraga ako je nije bilo.
+(3) Nakon proteka roka iz stavka 1. ovoga članka obnova kaznenog potupka dopuštena je samo uz uvjete predviđene u članku 405. i 406. ovoga Zakona.

@@ -1,0 +1,9 @@
+# Članak 29.
+(1) Ako je ista osoba okrivljena za više kaznenih djela, pa je za neka od tih djela nadležan niži, a za neka viši sud, nadležan je viši sud, a ako su nadležni sudovi iste vrste, nadležan je onaj sud koji je na zahtjev ovlaštenog tužitelja prvi započeo postupak, a ako postupak još nije započet sud kojem je prije podnesen zahtjev za pokretanje postupka.
+(2) Prema odredbama stavka 1. ovoga članka određuje se nadležnost i ako je oštećenik istovremeno počinio kazneno djelo prema okrivljeniku.
+(3) Za supočinitelje nadležan je, u pravilu, sud koji je kao nadležan za jednog od njih prvi započeo postupak.
+(4) Sud koji je nadležan za počinitelja kaznenog djela nadležan je, u pravilu, i za sudionike, prikrivatelje, osobe koje su pomogle počinitelju nakon počinjenja kaznenog djela te za osobe koje nisu prijavile pripremanje kaznenog djela, počinjenje kaznenog djela ili počinitelja.
+(5) U svim slučajevima iz stavka 1., 2., 3. i 4. ovoga članka provest će se, u pravilu, jedinstveni postupak i donijeti jedna presuda.
+(6) Sud može odlučiti da se provede jedinstveni postupak i donese jedna presuda i kad je više osoba okrivljeno za više kaznenih djela, ali samo ako između počinjenih kaznenih djela postoji međusobna veza i ako postoje isti dokazi. Ako je za neka od tih kaznenih djela nadležan viši, a za neka niži sud, jedinstveni postupak može se provesti samo pred višim sudom.
+(7) Sud može odlučiti da se provede jedinstveni postupak i donese jedna presuda ako se pred istim sudom vode odvojeni postupci protiv iste osobe za više kaznenih djela ili protiv više osoba za isto kazneno djelo.
+(8) O spajanju postupka odlučuje sud koji je nadležan za provođenje jedinstvenog postupka. Protiv rješenja kojim je određeno spajanje postupka ili kojim je odbijen prijedlog za spajanje nije dopuštena žalba.

@@ -1,0 +1,3 @@
+# Članak 60.
+(1) Privatni tužitelj, oštećenik i oštećenik kao tužitelj te njihovi zakonski zastupnici mogu svoja prava u postupku ostvarivati i preko opunomoćenika.
+(2) Oštećeniku kao tužitelju kad se postupak vodi na njegov zahtjev za kazneno djelo za koje se prema zakonu može izreći kazna zatvora više od tri godine može se, na njegovo traženje, postaviti opunomoćenik ako je to u probitku postupka i ako oštećenik kao tužitelj, prema svome imovnom stanju, ne može podmiriti troškove zastupanja. O zahtjevu odlučuje istražni sudac, odnosno predsjednik vijeća, a opunomoćenika postavlja predsjednik suda iz reda odvjetnika. Ako u sjedištu suda nema dovoljno odvjetnika, opunomoćenika će postaviti predsjednik neposredno višeg suda iz reda odvjetnika na području višega suda.

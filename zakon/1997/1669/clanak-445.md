@@ -1,0 +1,2 @@
+# Članak 445.
+Kad drugostupanjski sud rješava o žalbi protiv presude prvostupanjskog suda donesene po skraćenom postupku, obje stranke obavijestit će se o sjednici vijeća drugostupanjskog suda ako je u prvostupanjskoj presudi izrečena kazna zatvora i ako su stranke zahtijevale da budu obaviještene o sjednici ili ako predsjednik vijeća ili vijeće drugostupanjskog suda misle da bi nazočnost stranaka ili jedne od njih bilo korisno za razjašnjenje stvari.

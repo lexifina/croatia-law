@@ -1,0 +1,3 @@
+# Članak 185.
+(1) Kad je počinitelj kaznenog djela nepoznat, državni odvjetnik može zatražiti da redarstvene vlasti poduzmu pojedine istražne radnje ako bi, s obzirom na okolnosti slučaja, bilo svrhovito da se i prije pokretanja istrage poduzmu takve radnje. Ako državni odvjetnik smatra da pojedine istražne radnje treba poduzeti istražni sudac, ili ako treba obaviti obdukciju ili ekshumaciju tijela, predložit će istražnom sucu da poduzme te radnje. Ako se istražni sudac ne složi s tim prijedlogom, zatražit će da o tome odluči vijeće (članak 20. stavak 2.).
+(2) Zapisnike o poduzetim istražnim radnjama istražni sudac dostavlja državnom odvjetniku.

@@ -1,0 +1,3 @@
+# Članak 501.
+(1) Kazneni postupak koji je pokrenut prije stupanja na snagu ovoga Zakona nastavit će se po odredbama Zakona o krivičnom postupku ("Narodne novine", br. 34/93., 38/93. i 28/96.), osim ako odredbama ove glave nije što posebno propisano.
+(2) Ako je do stupanja na snagu ovoga Zakona donesena kakva odluka protiv koje je po odredbama Zakona o krivičnom postupku dopušten pravni lijek, a ta odluka još nije dostavljena osobama koje imaju pravo na pravni lijek ili još teče rok za podnošenje pravnog lijeka, ili je pravni lijek podnesen, ali o njemu još nije odlučeno, primijenit će se što se tiče prava na pravni lijek i postupak o pravnom lijeku odredbe ovoga Zakona.

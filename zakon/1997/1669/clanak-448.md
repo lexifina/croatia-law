@@ -1,0 +1,4 @@
+# Članak 448.
+(1) Ako se sa zahtjevom složi, sudac pojedinac će presudom izdati kazneni nalog.
+(2) U kaznenom će se nalogu navesti samo da se prihvaća zahtjev državnog odvjetnika te optuženiku, čiji osobni podaci moraju biti jasno određeni, izriče kazna ili mjera iz zahtjeva. Izreka rješenja o kaznenom nalogu obuhvaća potrebne podatke iz članka 355. stavka 1. ovoga Zakona, uključujući i odluku o imovinskopravnom zahtjevu, ako je prijedlog za njegovo ostvarivanje bio postavljen. U obrazloženju će se samo navesti dokazi koji opravdavaju izdavanje kaznenog naloga.
+(3) Kazneni nalog sadržava pouku okrivljeniku u smislu odredbe članka 449. stavka 2. ovoga Zakona te da će po proteku roka za prigovor, ako prigovor ne bude podnesen, kazneni nalog postati pravomoćan i da će se izrečena kazna protiv okrivljenika izvršiti.

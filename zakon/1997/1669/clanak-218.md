@@ -1,0 +1,8 @@
+# Članak 218.
+(1) Predmeti koji se prema kaznenom zakonu imaju oduzeti ili koji mogu poslužiti pri utvrđivanju činjenica u kaznenom postupku privremeno će se oduzeti i na temelju sudske odluke će se osigurat njihovo čuvanje.
+(2) Tko drži takve predmete, dužan ih je predati na zahtjev suda. Osoba koja ih odbije predati može se kazniti do 2.000,00 kuna, a u slučaju daljnjeg odbijanja može se zatvoriti. Zatvor traje do predaje predmeta ili do završetka kaznenog postupka, a najdulje mjesec dana. Na isti način postupit će se prema službenoj ili odgovornoj osobi u državnom tijelu ili pravnoj osobi.
+(3) Odredbe stavaka 1. i 2. ovog člana odnose se i na podatke pohranjene u uređajima za automatsku, odnosno elektroničku obradu podataka, koji se, na njihov zahtjev, moraju predočiti tijelima kaznenog postupka u čitljivom i razumljivom obliku. Pri njihovu pribavljanju tijelo kaznenog postupka posebno će voditi računa o propisima koji se odnose na čuvanje tajnosti određenih podataka.
+(4) O žalbi protiv rješenja kojim je izrečena novčana kazna ili je naređen zatvor odlučuje vijeće županijskog suda (članak 20. stavak 2.). Žalba protiv rješenja o zatvoru ne zadržava izvršenje rješenja.
+(5) Redarstvene vlasti mogu oduzeti predmete navedene u stavku 1, 2. i 3. ovoga članka kad postupaju prema odredbama članka 177. i članka 184. stavka 1. ovoga Zakona ili kad izvršavaju nalog suda.
+(6) Pri oduzimanju predmeta naznačit će se gdje su pronađeni i opisat će se, a po potrebi i na drugi način osigurati utvrđivanje njihove istovjetnosti. Za oduzete predmete izdat će se potvrda.
+(7) Prisilne mjere navedene u stavku 2. i 3. ovoga članka ne mogu se primijeniti prema okrivljeniku niti osobama koje su oslobođene dužnosti svjedočenja.

@@ -1,0 +1,3 @@
+# Članak 100.
+Ako je državni odvjetnik podnio istražni zahtjev, neposrednu optužnicu ili optužni prijedlog, izvijestit će odmah o tome istražnog suca koji je odredio zadržavanje. Istražni će sudac uhićenika zadržati do isteka prvoga sljedećega radnog dana do kada nadležna sudbena vlast mora odlučiti o istražnom zahtjevu i potrebi određivanja pritvora, odnosno o potrebi pritvora nakon podignute neposredne optužnice ili optužnog prijedloga. Ako nadležna sudbena vlast ne odredi pritvor do isteka prvoga sljedećega radnog dana od kada je istekao rok iz članka 98. stavka 1. i 2. ovoga Zakona na koji je zadržavanje određeno, uhićenik se mora odmah pustiti na slobodu.
+8. Općenite odredbe o pritvoru

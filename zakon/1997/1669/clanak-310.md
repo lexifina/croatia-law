@@ -1,0 +1,4 @@
+# Članak 310.
+(1) Glavna rasprava koja je odgođena mora iznova početi ako se izmijenio sastav vijeća, ali nakon ispitivanja stranaka vijeće može odlučiti da se u takvu slučaju svjedoci i vještaci ne ispituju ponovno i da se ne obavlja novi očevid, nego da se pročitaju iskazi svjedoka i vještaka dani na prijašnjoj glavnoj raspravi, odnosno da se pročita zapisnik o očevidu.
+(2) Ako se glavna rasprava koja je bila odgođena drži pred istim vijećem, ona će se nastaviti, a predsjednik vijeća ukratko će iznijeti tijek prijašnje glavne rasprave, ali u tom slučaju vijeće može odrediti da glavna rasprava počne iznova.
+(3) Glavna rasprava mora iznova početi i svi se dokazi moraju ponovno izvesti ako se rasprava drži pred drugim predsjednikom vijeća. Isto vrijedi i u slučaju ako je odgoda trajala dulje od dva mjeseca, osim ako se stranke suglase da se pročitaju iskazi svjedoka i vještaka dani na prijašnjoj raspravi.

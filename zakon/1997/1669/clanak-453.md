@@ -1,0 +1,3 @@
+# Članak 453.
+(1) Presuda sa sudskom opomenom može se pobijati zbog razloga navedenih u članku 366. točki 1. do 3. ovoga Zakona, a i zbog toga što nisu postojale okolnosti koje opravdavaju izricanje sudske opomene.
+(2) Ako presuda sa sudskom opomenom sadrži odluku o sigurnosnim mjerama, o troškovima kaznenog postupka, o oduzimanju imovinske koristi ili o imovinskopravnom zahtjevu, ta se odluka može pobijati zato što sud nije pravilno primijenio sigurnosnu mjeru ili oduzimanje imovinske koristi, odnosno što je odluku o troškovima kaznenog postupka ili imovinskopravnom zahtjevu donio protivno zakonskim odredbama.

@@ -1,0 +1,2 @@
+# Članak 344.
+Tužitelj će u svojem govoru iznijeti svoju ocjenu dokaza izvedenih na glavnoj raspravi, nakon toga će izložiti svoje zaključke o činjenicama važnim za odluku i staviti i obrazložiti svoj prijedlog o krivnji optuženika, o odredbama kaznenog zakona koje bi se imale primijeniti, kao i o olakotnim i otegotnim okolnostima koje bi trebalo uzeti u obzir pri odmjeravanju kazne. Tužitelj ne može stavljati određeni prijedlog o visini kazne, ali može predložiti da se izrekne sudska opomena ili uvjetna osuda.

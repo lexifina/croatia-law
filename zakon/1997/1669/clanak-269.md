@@ -1,0 +1,3 @@
+# Članak 269.
+(1) Optužnica se dostavlja nadležnom sudu u onoliko primjeraka koliko ima okrivljenika i branitelja i jedan primjerak za sud.
+(2) Odmah nakon primitka optužnice predsjednik vijeća pred kojim će se održati glavna rasprava ispitat će je li optužnica propisno sastavljena (članak 268), pa ako ustanovi da nije, vratit će je tužitelju da u roku od tri dana ispravi nedostatke. Iz opravdanih razloga, na zahtjev tužitelja, vijeće može produljiti taj rok. Ako oštećenik kao tužitelj ili privatni tužitelj propusti spomenuti rok, smatrat će se da je odustao od gonjenja, pa će se postupak obustaviti.
