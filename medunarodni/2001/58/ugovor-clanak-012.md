@@ -1,0 +1,7 @@
+# Članak 12.
+Rješavanje sporova iz ovog Sporazuma
+Sve sporove, nesporazume, nesukladnosti ili zahtjeve (zajednički izraz u daljnjem tekstu: SPOROVI) koji nastanu vezano uz postojanje, važenje, tumačenje, provedbu ili okončanje ovog Sporazuma, HRVATSKA i BANKA će nastojati riješiti sporazumno.
+Ukoliko HRVATSKA i BANKA nisu u mogućnosti na prijateljski način riješiti spor u roku od 60 (šezdeset) dana od obavijesti o SPORU koju pošalje neka od ugovornih stranaka, SPOR se rješava konačnom i obvezujućom arbitražom, u skladu sa pravilima Stalnoga arbitražnog suda o dobrovoljnoj arbitraži između međunarodnih organizacija i država koji je na snazi na datum ovog Sporazuma, na temelju provedbe odredbi ovog Sporazuma uz dodatak primjenjivih pravila međunarodnog prava Ugovorne stranke mogu, međutim, dogovoriti zamjenu ovog postupka nekim drugim.
+Arbitražni sud čine tri arbitra. Jezik arbitražnog postupka je engleski. Arbitražni postupak se održava u Den Haagu, Nizozemska. Osoba ovlaštena za imenovanje je glavni tajnik Stalnoga arbitražnog suda.
+Osim ako se ugovori drugačije, u roku od šest mjeseci od konstituiranja arbitražnog suda ugovorne stranke moraju podnijeti sve dokumente i moraju se obaviti sva saslušanja. Sud donosi svoju odluku u roku od 60 (šezdeset) dana nakon konačnog podnošenja dokumentacije.
+Podnošenja SPORA na rješavanje arbitražnom sudu ne znači odricanje BANKE od bilo kakvih povlastica ili prava na imunitet prema pravima koja se primjenjuju.

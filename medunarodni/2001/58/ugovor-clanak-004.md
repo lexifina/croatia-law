@@ -1,0 +1,5 @@
+# Članak 4.
+KONVERTIBILNOST VALUTE
+Tijekom trajanja svih financijskih operacija koje se provode u skladu s člankom 2. ovog Sporazuma, HRVATSKA će:
+(a) osigurati: (i) da KORISNICI mogu promijeniti u bilo koju potpuno konvertibilnu valutu, prema prevladavajućem tržišnom deviznom tečaju na datum dospijeća, iznose u nacionalnoj valuti HRVATSKE, koji su potrebni za pravodobno plaćanje svih iznosa koji se duguju BANCI s obzirom na zajmove i jamstva u vezi s nekim PROJEKTOM te (ii) da se ti iznosi mogu slobodno, trenutno i djelotvorno prenijeti,
+(b) osigurati: (i) da BANKA može promijeniti u bilo koju potpuno konvertibilnu valutu, prema prevladavajućem tržišnom deviznom tečaju, iznose u nacionalnoj valuti HRVATSKE, koje je BANKA primila kao uplatu u vezi sa zajmovima i jamstvima te ostalim aktivnostima, te da BANKA može slobodno, trenutačno i učinkovito prenijeti tako konvertirana sredstva ili, po izboru BANKE, (ii) da se tim iznosima može slobodno služiti na području HRVATSKE, te (iii) da BANKA može prema prevladavajućem tržišnom deviznom tečaju promijeniti bilo koji iznos u nekoj potpuno konvertibilnoj valuti u nacionalnu valutu HRVATSKE.
