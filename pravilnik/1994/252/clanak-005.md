@@ -1,0 +1,2 @@
+# Članak 5.
+Uvezano sjeme i zameci sisavaca moraju se čuvati u prikladnim posebno označenim spremnicima u odvojenoj prostoriji do završetka karantene. Uvezena jaja za rasplod domaće peradi, pernate divljači i drugih ptica moraju se čuvati u odvojenoj prostoriji do valenja. Uvezena jaja za rasplod mogu se valiti samo u posebno obilježenim predvalionicima i valionicima u kojima se u vrijeme valenja uvezanih jaja ne smiju valiti jaja drugog podrijetla.
