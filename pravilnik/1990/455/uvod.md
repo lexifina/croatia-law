@@ -1,0 +1,1 @@
+Na temelju člana 173. stava 2. Zakona o ugostiteljskoj i turističkoj djelatnosti ("Narodne novine", br. 28/88) Republički komitet za turizam, uz prethodnu suglasnost Republičkog komiteta za pomorstvo, saobraćaj i veze i Republičkog komiteta za zdravstvenu i socijalnu zaštitu, na sjednici održanoj 26 ožujka 1990. godine, donio je
