@@ -1,0 +1,5 @@
+## POVJERLJIVA DOKUMENTACIJA DRUGIH DRŽAVNIH TIJELA
+# Članak 46.
+(1) Povjerljiva dokumentacija Povjerenstva obuhvaća rezultate vijećanja glasovanja i zapisnike o vijećanju i glasovanju, nacrte odluka, mišljenja, rješenja i izvješća, predložene izmjene i dopune izreke i obrazloženja nacrta odluke, mišljenja i rješenja, predložene izmjene pojedinih rečeničnih sklopova u nacrtu odluke, mišljenja, rješenja i izvješća, vlastoručne ili vlastoručno potpisane službene zabilješke, te podatke koji se zasnivaju na dokumentaciji sudova i drugih državnih tijela klasificiranoj kao državna, vojna, službena ili poslovna tajna za koju nije proveden postupak deklasifikacije tajnosti. Povjerljiva dokumentacija ne smatra se dijelom spisa, a pohranjuje se na odgovarajući način uz pripadajući spis.
+(2) Spisi i dokumentacija drugih državnih tijela čiju je dostavu Povjerenstvo zahtijevalo tijekom provedbe postupka, te isprave i obavijesti pribavljene tijekom provedbe postupka ne smatraju se dijelom spisa.
+(3) Pristup dokumentaciji iz stavka 1. i 2. ovoga članka nije dopušten nikome izvan kruga članova i djelatnika koji obrađuju dotični spis.
