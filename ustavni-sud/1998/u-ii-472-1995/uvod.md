@@ -1,0 +1,2 @@
+REPUBLIKE HRVATSKE
+Ustavni sud Republike Hrvatske, u sastavu dopredsjednik Jurica Malčić te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, mr. Vojislav Kučeković, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, u povodu prijedloga dr. Ksenije Drakulić i dipl. ing. Josipa Požara iz Karlovca, Kurelčeva 6, za ocjenu ustavnosti i zakonitosti, na sjednici održanoj dana 11. veljače 1998. godine, donio je
