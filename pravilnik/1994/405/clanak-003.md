@@ -1,0 +1,2 @@
+# Članak 3.
+Zdravstvena ustanova koja obavlja imunizaciju protiv žute groznice i bjesnoće mora imati najmanje slijedeće prostorije: 1. ulazni prostor; 2. čekaonicu ; 3. sanitarni ćvor za pacijente i sanitarni čvor za zaposleno osoblje; 4. prostoriju za obavljanje imunizacije. Prostorije iz stavka 1. ovog članka moraju udovoljavati sanitarno-tehničkim i higijenskim uvjetima propisanim posebnim propisom.
