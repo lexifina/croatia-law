@@ -1,0 +1,2 @@
+# Članak 9.
+Danom stupanja na snagu ovoga pravilnika prestaje važiti Pravilnik o uvjetima za ovlaštene mjeriteljske laboratorije i načinu njihovoga rada (»Narodne novine« br. 35/01 i 60/01), Pravilnik o općim uvjetima koje moraju zadovoljiti ovlašteni mjeriteljski laboratoriji i načinu provedbe postupka ovlašćivanja (»Narodne novine« br. 17/99) i Pravilnik o uvjetima što im u pogledu stručne spreme radnika, opreme i prostorija moraju udovoljavati organizacije kojima je povjeren pregled radnih etalona i mjerila (»Sl. list SFRJ« br. 26/84 i »Narodne novine« br. 53/91).
