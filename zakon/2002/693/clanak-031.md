@@ -1,0 +1,4 @@
+# Članak 31.
+(1) Podaci o mjerama i troškovima za provođenje mjera iz članka 30. ovoga Zakona tajni su i mogu biti dostupni tijelima i osobama određenim odlukom koju donosi Vijeće za nacionalnu sigurnost na prijedlog predsjednika Savjeta za koordinaciju sigurnosnih službi.
+(2) Djelatnost i materijalno-financijsko poslovanje u prikrivnim pravnim osobama obavlja se prema propisima važećim za tu vrstu djelatnosti. Prikrivna pravna osoba ne može biti osoba koja se financira neposredno iz proračuna Republike Hrvatske. Prikrivna pravna osoba osniva se i održava iz sredstava sigurnosnih službi. Tako nastali troškovi vode se na poziciji proračuna sigurnosne službe namijenjenoj posebnim troškovima.
+(3) Sva imovina prikrivne pravne osobe vlasništvo je Republike Hrvatske, a prihod nastao iz djelatnosti koristi sigurnosna služba kao sredstvo posebne namjene za obavljanje svoje djelatnosti.

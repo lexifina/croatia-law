@@ -1,0 +1,4 @@
+# Članak 28.
+(1) Sigurnosne službe u okviru svog djelokruga rada provode mjere protuprislušne zaštite i protuprislušnih pregleda objekata iz članka 27. ovoga Zakona, obavljaju nadzor građevinsko-tehničkih radova, tehničke dokumentacije objekata, instalacija, telekomunikacijske i informatičke opreme te sudjeluju u planiranju, provođenju i nadzoru tehničkih i fizičkih mjera sigurnosti tih objekata.
+(2) Sigurnosne službe obavljaju sigurnosno provjeravanje osoba zaposlenih na poslovima fizičke i tehničke zaštite, tehničkog i informatičkog održavanja u objektima iz članka 27. ovoga Zakona, te sigurnosno provjeravanje drugih pravnih osoba i njihovih djelatnika koji sudjeluju u izvođenju poslova koji utječu na mjeru protuprislušne zaštite iz stavka 1. ovoga članka.
+(3) O poslovima iz stavka 1. i 2. ovoga članka sigurnosne službe vode posebne evidencije.

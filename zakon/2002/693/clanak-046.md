@@ -1,0 +1,6 @@
+# Članak 46.
+(1) Za prijam na rad u sigurnosne službe nije obavezan natječaj.
+(2) Osobe koje se primaju na rad u sigurnosne službe, pored općih uvjeta za prijam u državnu službu, moraju ispunjavati i posebne uvjete za prijam i raspoređivanja na pojedine poslove (određena stručna sprema i struka, radni staž, posebne stručne vještine i znanja, posebna zdravstvena sposobnost i dr.) propisane pravilnikom o unutarnjem redu sigurnosne službe.
+(3) Osobe koje se primaju na rad u sigurnosne službe moraju ispunjavati i sigurnosne uvjete koji se utvrđuju postupkom sigurnosne provjere. Sigurnosna provjera provodi se pristankom osobe koja se prima na rad u sigurnosne službe i u odnosu na osobe s kojima živi u bračnoj ili izvanbračnoj zajednici, odnosno i u odnosu na osobe s kojima živi u zajedničkom kućanstvu. Ukoliko osoba koja se prima na rad ne pristane na ove sigurnosne provjere s njom se ne može zasnovati službenički odnos.
+(4) Ne može se primiti na rad u sigurnosnu službu osoba za koju postoji zapreka za prijam u državnu službu.
+(5) Ako na rad u sigurnosnu službu neka osoba nije primljena jer ne ispunjava uvjete odnosno jer postoje zapreke za prijam, sigurnosna služba nije dužna obrazložiti razloge zbog kojih nije primljena na rad.

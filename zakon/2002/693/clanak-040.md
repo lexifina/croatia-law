@@ -1,0 +1,4 @@
+# Članak 40.
+(1) Na temelju uredbe o unutarnjem ustrojstvu, pravilnikom o unutarnjem redu sigurnosne službe utvrđuje se način rada sigurnosne službe i njezinih ustrojstvenih jedinica, potreban broj službenih osoba i drugih službenika i namještenika utvrđuje se broj potrebnih službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća i potrebnih uvjeta za obavljanje poslova, njihove ovlasti i odgovornosti, prava iz radnog odnosa, te druga pitanja od značaja za rad službe koja nisu uređena uredbom iz članka 39. ovoga Zakona.
+(2) Pravilnike o unutarnjem redu Obavještajne agencije (OA) i Protuobavještajne agencije (POA) donosi Vlada na prijedlog ravnatelja agencija uz suglasnost Predsjednika Republike. Pravilnik o unutarnjem redu Vojne sigurnosne agencije (VSA) donosi Vlada na prijedlog ministra obrane uz suglasnost Predsjednika Republike.
+(3) Pravilnici o unutarnjem redu sigurnosnih službi državna su tajna i ne objavljuju se.

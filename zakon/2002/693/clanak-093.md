@@ -1,0 +1,3 @@
+# Članak 93.
+(1) Zaposlenici iz članka 90. stavka 2. i članka 91. stavka 2. ovoga Zakona nastavljaju s radom na poslovima radnih mjesta na kojima su zatečeni na dan početka primjenjivanja ovoga Zakona i zadržavaju plaću i dodatke na plaću do donošenja rješenja o rasporedu na poslove utvrđene pravilnicima o unutarnjem redu sigurnosnih službi, odnosno do donošenja rješenja o stavljanju na raspolaganje.
+(2) Zaposlenici iz članka 90. i 91. ovoga Zakona, koji ne budu raspoređeni i zaposlenici koji odbiju raspoređivanje stavit će se na raspolaganje Vladi i imaju prava propisana Zakonom o državnim službenicima i namještenicima.

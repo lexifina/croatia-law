@@ -1,0 +1,3 @@
+# Članak 64.
+(1) Za povrede službene dužnosti službenih osoba, drugih službenika i namještenika Obavještajne agencije (OA) i Protuobavještajne agencije (POA), važe propisi koji uređuju odgovornost državnih službenika i namještenika za povrede službene odnosno radne dužnosti ako ovim Zakonom nije drukčije određeno.
+(2) Za povrede službene dužnosti službenih osoba, drugih službenika i namještenika Vojne sigurnosne agencije (VSA), važe propisi koji uređuju odgovornost službenih osoba i drugih službenika i namještenika Ministarstva obrane za povrede službene, odnosno radne dužnosti ako ovim Zakonom nije drukčije određeno.

@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Sigurnosne službe mogu dostavljati stranim službama podatke o građanima Republike Hrvatske ako su im pruženi relevantni podaci da takova osoba ugrožava nacionalnu sigurnost države primatelja Podaci se neće dostaviti ako bi to bilo u suprotnosti s interesima Republike Hrvatske ili je zaštita interesa osobe o kojoj bi se dostavili podaci od veće važnosti.
+(2) Dostavljeni podaci moraju se evidentirati. Zajedno s podacima primatelju se daje naputak da se dostavljeni podaci mogu koristiti samo u svrhu za koju su dostavljeni, te da sigurnosna služba koja dostavlja podatke pridržava pravo traženja povratne informacije o načinu uporabe dostavljenih podataka.

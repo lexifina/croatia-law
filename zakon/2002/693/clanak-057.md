@@ -1,0 +1,4 @@
+# Članak 57.
+(1) Službena osoba koja je odlukom nadležne zdravstvene komisije proglašena nesposobnom za obavljanje poslova na koje je raspoređena, zbog ozljede ili oboljenja koje je nastupilo u obavljanju sigurnosnih poslova, raspoređuje se na druge poslove koje može obavljati time da zadržava plaću i druga prava iz službeničkog odnosa, a ako se ne može rasporediti zadržava plaću i druga prava iz službeničkih odnosa do donošenja konačnog rješenja o pravu na mirovinu, a najdulje tri godine od dana donošenja odluke o nesposobnosti.
+(2) Službena osoba koja u obavljanju poslova ili povodom obavljanja tih poslova izgubi život sahranit će se u mjestu koje odredi njena obitelj na teret sredstava državnog proračuna.
+(3) U slučaju iz stavka 2. ovoga članka obitelj službene osobe ima pravo na jednokratnu novčanu pomoć u visini posljednje njegove isplaćene neto plaće uvećane 12 puta.
