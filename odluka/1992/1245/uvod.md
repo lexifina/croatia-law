@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. Uredbe o načinu odvajanja likvidnosti u plačanjima prema inozemstvu ("Narodne novine" br. 24/92, 32/92 i 38/92) i članka 90. stavka 3. Uredbe o Narodnoj banci Hrvatske ("Narodne novine" br. 71/91), Savjet Narodne banke Hrvatske na sjednici odrrenoj 30. srpnja 1992. donio je
