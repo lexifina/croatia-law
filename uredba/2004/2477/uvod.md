@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 5. Zakona o sprječavanju sukoba interesa u obnašanju javnih dužnosti (»Narodne novine«, broj 163/2003 i 94/2004), Vlada Republike Hrvatske je na sjednici održanoj 6. listopada 2004. godine, donijela
