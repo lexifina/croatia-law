@@ -1,0 +1,1 @@
+Na temelju članka 42. stavak 5. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2003. godinu (»Narodne novine«, br. 154/02), Ministarstvo financija, u suglasnosti s Ministarstvom znanosti i tehnologije, donosi
