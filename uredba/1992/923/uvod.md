@@ -1,0 +1,1 @@
+Na osnovi članka 10. stavka 2., članka 11. stavka 6. i članka 17. stavka 5. Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 27/91 i 33/92), Vlada Republike Hrvatske na sjednici održanoj 19. lipnja 1992. godine donijela je
