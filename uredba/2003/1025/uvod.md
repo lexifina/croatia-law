@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99) i članka 10. stavaka 2. i 3. Zakona o visokim učilištima (»Narodne novine«, br. 59/96 - pročišćeni tekst, 14/2000, 67/2000, 94/2000 i 129/2000), Vlada Republike Hrvatske je na sjednici održanoj 15. svibnja 2003. godine donijela
