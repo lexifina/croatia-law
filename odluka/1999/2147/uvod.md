@@ -1,0 +1,1 @@
+Na temelju članka 94. u svezi s člankom 28. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 99/1999) Ustavni sud Republike Hrvatske na sjednici održanoj dana 15. prosinca 1999. godine donio je
