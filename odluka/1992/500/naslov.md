@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopunama Odluke o utvrđivanju koeficijenta za obračun osobnih dohodaka funkcionara koje bira ili imenuje Sabor Republike Hrvatske, Vlada Republike Hrvatske i Ustavni sud Republike
