@@ -1,0 +1,4 @@
+# Članak 21.
+Ako se utvrdi da je aktivnost radionuklida u bilo kojem dijelu okoliša takva da može uzrokovati ozračenje skupine pojedinaca ili pučanstva iznad propisanih granica, uzimajući u obzir i vanjsko ozračenje taj dio okoliša smatra se radioaktivno onečišćenim.
+Dio okoliša iz stavka 1. ovoga članka mora se odmah izolirati, moraju se zaustaviti uporaba ili promet radionuklidima onečišćenih namirnica i predmeta, treba poduzeti mjerenje radioaktivnog onečišćenja i utvrđivanje vrste i aktivnosti pojedinih radionuklida, te po potrebi pristupiti drugim zaštitnim mjerama i uklanjanju onečišćenja.
+Postupci uklanjanja radioaktivnog onečišćenja s ljudi, te iz vode, hrane, tla, gradiva, površina, zaštitnih odijela, posteljnog rublja i slične opreme provodi se na način opisan u Prilogu II. ovoga Pravilnika koji je njegov sastavni dio, te na svaki drugi učinkoviti način za uklanjanje radionuklida iz okoliša.

@@ -1,0 +1,2 @@
+# Članak 34.
+Ovlaštenje za obavljanje poslova sustavnih ispitivanja iz članka 33. stavka 1., točke 1., 2. i 3. ovoga Pravilnika daje ministar zdravstva, za poslove iz članka 33. stavka 1. točke 4. ministar zdravstva uz prethodnu suglasnost ministra poljoprivrede i šumarstva, te za poslove iz članka 33., stavka 1. točke 5. uz prethodnu suglasnost ministra nadležnog za prostorno uređenje i ministra nadležnog za graditeljstvo.
