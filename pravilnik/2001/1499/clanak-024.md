@@ -1,0 +1,5 @@
+## Emitiranje programa na frekvenciji ili kanalu na kojem emitira drugi koncesionar
+# Članak 24.
+(1) Vijeće za radio i televiziju može, na vlastiti poticaj ili na temelju zahtjeva zainteresirane pravne osobe, raspisati javni natječaj ili javno prikupljati ponude u svrhu davanja koncesije za obavljanje djelatnosti radija i televizije, i to za emitiranje programa na kanalu na kojem već emitira drugi koncesionar radija i televizije, u vrijeme kad taj koncesionar, prema svojoj programskoj shemi iz članka 76. stavka 3. Zakona o telekomunikacijama, ne emitira svoj program.
+(2) Koncesionar iz stavka 1. ovoga članka ima pravo koristiti se izgrađenom infrastrukturom drugog koncesionara koji emitira program na istom kanalu, u skladu s odredbom iz članka 9. stavka 1. Zakona o telekomunikacijama.
+(3) Za koncesiju iz stavka 1. ovoga članka može se natjecati i koncesionar radija i televizije kojemu je već dana koncesija za emitiranje programa na istom kanalu, a koji se u slučaju dobivanja te koncesije ne smatra novim koncesionarom radija i televizije, i u tom slučaju sklapa dodatak ugovoru o koncesiji iz članka 76. stavka 6. Zakona o telekomunikacijama.

@@ -1,0 +1,5 @@
+## Zajednička uporaba istih odašiljača ili istih kanala
+# Članak 22.
+(1) Vijeće za radio i televiziju može u odluci o davanju koncesije odrediti da se dva ili više koncesionara radija ili televizije koriste istim kanalima za emitiranje radijskog ili televizijskog programa na istom ili na pretežito istom području koncesije, ako se prema ponuđenoj programskoj shemi iz članka 76. stavka 3. Zakona o telekomunikacijama predviđa emitiranje programa u različito vrijeme (time sharing).
+(2) Koncesionari iz stavka 1. ovoga članka mogu izgrađivati zajednički odašiljač ili odašiljače, o čemu sklapaju pisani ugovor, uz suglasnost Vijeća za radio i televiziju.
+(3) Odlukom o davanju koncesije iz stavka 1. ovoga članka, osobito u slučaju kad se radi o istom području koncesije, može se odrediti da jedan koncesionar radija ili televizije izgradi jedan ili više odašiljača, kojima će se koristiti i drugi koncesionar ili koncesionari, uz naknadu stvarnih troškova. U tom slučaju navedeni koncesionari sklapaju ugovor o zajedničkoj uporabi odašiljača, uz suglasnost Vijeća za radio i televiziju.

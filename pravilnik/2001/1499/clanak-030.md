@@ -1,0 +1,4 @@
+## VI. NADZOR
+# Članak 30.
+(1) U okviru mjera koje je ovlašten poduzeti na temelju odredaba iz članaka 92., 93. i 94. Zakona o telekomunikacijama, nadzornik telekomunikacija može narediti operatoru nepokretne mreže da uskrati pristup svojoj mreži osobi koja terminalnom opremom priključenom na njegovu mrežu obavlja javne govorne usluge propisane člankom 4. ovoga Pravilnika, a nema propisanu koncesiju za obavljanje tih usluga.
+(2) Ako nadzornik telekomunikacija, po službenoj dužnosti ili na zahtjev zainteresirane strane, rješenjem utvrdi da neka osoba obavlja ili namjerava obavljati javne govorne usluge propisane člankom 4. ovoga Pravilnika terminalnom opremom priključenom na nepokretnu mrežu, a nema propisanu koncesiju za obavljanje tih usluga, operator nepokretne mreže mora toj osobi uskratiti pristup svojoj mreži.

@@ -1,0 +1,2 @@
+# Članak 10.
+Visina naknade za prvu godinu i ostale godine ostvarivanja koncesije za obavljanje tržišnih telekomunikacijskih usluga s uporabom radiofrekvencijskog spektra u sustavu pokretne mreže druge generacije (GSM, E-GSM, DCS-1800) iz članka 8. ovoga Pravilnika propisana je Pravilnikom o naknadi za obavljanje telekomunikacijskih usluga i drugih telekomunikacijskih djelatnosti i načinu plaćanja.

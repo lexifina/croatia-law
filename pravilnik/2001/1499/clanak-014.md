@@ -1,0 +1,2 @@
+# Članak 14.
+Postojećim koncesionarima tržišnih telekomunikacijskih usluga s uporabom radiofrekvencijskog spektra u sustavu pokretne mreže druge generacije (GSM, E-GSM, DCS-1800), koji sudjeluju u postupku javnog natjecanja iz članka 30. stavka 7. Zakona o telekomunikacijama, dat će se koncesija i u sustavu pokretne mreže treće generacije (UMTS), i to uz jednake uvjete kao i novom koncesionaru tržišnih telekomunikacijskih usluga s uporabom radiofrekvencijskog spektra u sustavu pokretne mreže treće generacije (UMTS).
