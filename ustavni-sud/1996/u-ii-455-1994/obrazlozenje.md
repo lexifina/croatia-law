@@ -1,0 +1,8 @@
+Obrazloženje
+Rješenjem navedenim u izreci određeno je da se privremeno odgađa izvršenje odluke ravnatelja Gimnazije "Franjo Petrić" od 8. veljače 1994. godine, kojom je odlukom dan prestanak radnog odnosa prof. Ružici Jerki Manojlović, nastavnici hrvatskog jezika u toj Gimnaziji, s danom 8. veljače 1994. Ujedno je utvrđeno da to rješenje prestaje važiti donošenjem pravomoćne odluke po zahtjevu djelatnika odnosno protekom roka za podnošenje tužbe sudu, te da žalba protiv tog rješenja ne zadržava izvršenje rješenja.
+Predlagatelj smatra da je navedeno rješenje suprotno svim odredbama "radnog zakonodavstva", te posebno propisima o inspekciji rada, uslijed čega se predlaže njegovo poništenje.
+Ustavni sud Republike Hrvatske je prijedlog odbacio.
+Prema članku 125. alineja 1. i 2. Ustava Republike Hrvatske, Ustavni sud odlučuje o suglasnosti zakona s Ustavom, te suglasnosti drugih propisa s Ustavom i zakonom. Pod propisom se podrazumijeva akt koji na općenit, apstraktan način uređuje pravne odnose za neodređen broj adresata.
+Osporeno rješenje nema pravne osobine propisa, jer se ono odnosi na konkretnu pravnu situaciju i njime se rješava pojedinični slučaj - odgoda izvršenja akta o prestanku radnog odnosa djelatnici predlagatelja.
+Kako se prema članku 26. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 13/91), zahtjev, prijedlog ili ustavna tužba odbacuje u slučajevima kada Ustavni sud nije nadležan za odlučivanje, kada su nepravodobni i u drugim slučajevima kada ne postoje pretpostavke za odlučivanje o biti stvari, riješeno je kao u točki 1. izreke.
+Objava ovog rješenja se temelji na odredbi članka 20. stavak 1. navedenog Ustavnog zakona.
