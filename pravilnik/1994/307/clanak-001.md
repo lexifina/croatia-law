@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o ustrojavanju i vođenju knjige položenih ugovora ("Narodne novine", broj 42/91), članak 1. mijenja se i glasi: "Ovim Pravilnikom uređuje se postupak polaganja ugovora o kupoprodaji stana na temelju Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 43/92 - pročišćeni tekst, 69/92, 25/93, 48/93 i 2/94) u slučajevima kada nekretnina nije upisana u zemljišne knjige te ustrojavanje i vođenje knjige položenih ugovora (u daljnjem tekstu: knjiga "PU").
+Odredba stavka 1. ovog članka odnosi se i na slučajeve kada je stan stečen prema kojoj drugoj pravnoj osnovi, kao i slučaju kada se stan otuđuje trećoj osobi."

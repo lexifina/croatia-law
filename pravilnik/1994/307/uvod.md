@@ -1,0 +1,1 @@
+Na temelju Članka 20. stavak 4 Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 43/92 - pročišćeni tekst, 69/92, 25/93, 48/93 i 2/94) ministar pravosuđa Republike Hrvatske donosi
