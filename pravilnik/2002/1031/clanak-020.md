@@ -1,0 +1,2 @@
+# Članak 20.
+Zbog specifičnosti krških vodonosnika, odnosno velike brzine podzemnih tokova i relativno slabe mogućnosti zadržavanja vode u podzemlju, određivanje zona i mjera zaštite obavlja se selektivnim pristupom zaštite koja se uklapa u planove održivog razvitka u funkciji smanjivanja rizika od onečišćenja krških vodonosnika. Pri tome se obvezno uzima u obzir: vrijeme mogućeg transporta, brzina podzemnih tokova i količina napajanja izvorišta.

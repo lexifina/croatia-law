@@ -1,0 +1,3 @@
+# Članak 8.
+Ukoliko su na području pojedine zone već legalno izgrađene građevine ili se obavljaju djelatnosti koje su zabranjene u toj zoni, odredit će se, ukoliko je to moguće, potrebni sanacijski zahvati uz obavezu stalnog praćenja utjecaja građevine, odnosno djelatnosti na izvorište. Ukoliko se dokaže da sanacija nije moguća, građevina se mora ukloniti, odnosno mora se zabraniti daljnje obavljanje djelatnosti.
+Mjere sanacije, visina potrebnih sredstava za sanaciju kao i za provedbu izvlaštenja i uklanjanje građevina i način osiguravanja potrebnih sredstava za te namjene, utvrđuju se odlukom o zaštiti izvorišta.

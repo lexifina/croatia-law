@@ -1,0 +1,2 @@
+# Članak 44.
+Hrvatske vode, sukladno Zakonu o financiranju vodnog gospodarstva (»Narodne novine« broj 107/95,, 19/96 i 88/98) financiraju vodoistražne radove i provođenje aktivnih mjera zaštite izvorišta, u dijelu koji se odnosi na obveze »Hrvatskih voda« iz Zakona o vodama. Ostatak sredstava dužne su osigurati jedinice lokalne i regionalne samouprave i uprave koje koriste vodu iz izvorišta za koje se utvrđuju zone te pravna osoba koja obavlja djelatnost javne vodoopskrbe iz cijene vode.

@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuju: uvjeti i način utvrđivanja područja sanitarne zaštite (u nastavku: zone) izvorišta i drugih ležišta voda (podzemne vode, rijeke, jezera, akumulacije) koja se koriste ili su rezervirana za javnu vodoopskrbu (u nastavku: izvorišta); mjere za zaštitu izvorišta od zagađenja ili drugih utjecaja koji mogu nepovoljno djelovati na njihovu izdašnost, kakvoću i zdravstvenu ispravnost; smjernice za utvrđivanje posebne naknade za potrebna povećana ulaganja u javni vodoopskrbni sustav i sustav javne odvodnje otpadnih voda na području zona te postupak za donošenje odluke o zaštiti izvorišta.
