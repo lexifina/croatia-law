@@ -1,0 +1,3 @@
+## o izmjeni i dopuni Zakona o Hrvatskom fondu za privatizaciju
+# Članak 1.
+U Zakonu o Hrvatskom fondu za privatizaciju ("Narodne novine" br. 84/92.) u članku 6. stavku 2. riječ: "devet" zamjenjuje se riječju: "jedanaest". Stavak 3. mijenja se i glasi: "Zastupnički dom Sabora Republike Hrvatske imenuje pet članova Upravnog odbora iz reda svojih zastupnika." Stavak 4. mijenja se i glasi: "Predsjednik Hrvatske gospodarske komore, ministar financija, ministar gospodarstva i ministar rada i socijelne skrbi članovi su Upravnog odbora po položaju." Iza stavka 4. dodaje se novi stavak koji glasi: "Jednog člana Upravnog odbora sporazumno imenuju nadležni organi sindikalnih centrala." Dosadašnji stavci 5, 6. i 7. postaju stavci 6, 7. i 8.
