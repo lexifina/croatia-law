@@ -1,0 +1,3 @@
+# Članak 108.
+Pravne i fizičke osobe koje na području Parka prirode obavljaju gospodarsku ili drugu dopuštenu djelatnost, te vlasnici i ovlaštenici prava na nekretninama u Parku prirode dužni su pribaviti dopuštenje za obavljanje djelatnosti, odnosno uskladiti svoju djelatnost i rad s odredbama ovoga Pravilnika u roku 60 dana od dana njegova stupanja na snagu.
+Pravne i fizičke osobe koje u vrijeme stupanja na snagu ovoga Pravilnika obavljaju eksploataciju mineralnih sirovina, i koje za te djelatnosti imaju dopuštenja nadležnih tijela i ishođene uvjete zaštite prirode od Ministarstva, mogu nastaviti obavljanje djelatnosti do donošenja Prostornog plana Parka prirode.
