@@ -1,0 +1,1 @@
+Na temelju člana 8. Odluke o osnovici i stopi za plaćanje doprinosa Privrednoj komori Zagreb u 1990. i prijedloga Komisije za materijalno-financijska pitanja Predsjedništva Komore od 21. prosinca 1990. Predsjedništvo Privredne komore Zagreb na sjednici održanoj 21. prosinca 1990. donosi
