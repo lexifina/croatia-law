@@ -1,0 +1,41 @@
+Na temelju članka 2. Ustava Republike Hrvatske, Sabor Republike Hrvatske, na Skupnoj sjednici svih vijeća, 5. lipnja 1992. godine, a polazeći od:
+- opredjeljenja da su očuvanje prirode i čovjekova okoliša za Republiku Hrvatsku najviše vrednote ustavnog poretka,
+- predstojeće obnove, teškim ratnim razaranjima, uništenih dijelova okoliša suverene i samostalne Republike Hrvatske i uravnoteženoga gospodarskog razvitka naspram očuvanja prirodne baštine, te
+- okolnosti da Republika Hrvatska, u proteklim desetljećima nije mogla u dovoljnoj mjeri štititi i promicati ukupne vrijednosti svoga nacionalnog prostora donosi
+DEKLARACIJU
+o zaštiti okoliša u Republici Hrvatskoj
+I.
+Republika Hrvatska u svijetu prepoznatljiva kao zemlja izrazito bogata raznolikim prirodnim vrijednostima kao što su primorje i otoci, plodna tla, vode i vodotoci, samonikle šume te brojne jedinstvene i svjetski priznate ljepote opredjeljuje se za gospodarski održiv razvitak temeljen na opstojnoj poljoprivredi i šumarstvu, pomorstvu i turizmu te gospodarsku i industriji zasnovanoj na ekološki dopustivim tehnologijama.
+II.
+Republika Hrvatsha je svjesna opasnosti da bi nedovoljno osmišljena obnova i gospodarski razvitak mogli povećati uništavanje okoliša.
+Republika Hrvatsha je odlučna u cijelosti osigurati uravnotežen ekološki i gospodarski razvitak u cilju trajnog očuvanja nacionalne baštine za sadašnje i buduće generacije i provedbe ustavnog prava hrvatskih državljana na zdrav život, dostojnog standarda, u očuvanom okolišu.
+III.
+Na temelju polaznih odrednica utvrđenih ovom Deklaracijom Republika Hrvatska je odlučna ustrajati na izgradnji pravnog sustava sukladno međunarodnim ugovorima i standardima europske i svjetske zajednice, kojim će u potpunosti osigurati trajnu. sustavnu i učinkovitu zaštitu okoliša.
+Slijedom toga Republika Hrvatska će:
+- racionalno gospodariti tlom, značajnim prirodnim bogatstvom, u cilju proizvodnje hrane, i to provedbom stroge zaštite, odnosno zabranom prenamjene visokoplodnog tla u nepoljoprivredne, a posebice građevinske svrhe; unapređivanjem nižih kategorija tala; privođenjem zapuštenih površina poljoprivrednoj proizvodnji, te strogom kontrolom primjene pesticida i ostalih sredstava za zaštitu bilja;
+- racionalno gospodariti šumama koje obuhvaća osobito: uzgoj šuma, sanaciju degradiranih šuma, te sustavno obnavljanje uništenih šuma, čime će se spriječiti daljnje
+propadanje i uništavanje šuma bez obzira na uzrok ("kisele kiše", nekontrolirana sječa, požari, ratna razaranja);
+- provoditi mjere očuvanja kvalitete zraka u svim područjima, a posebice u ugroženim gradskim i industrijskim središtima, u cilju zdravlja ljudi i kvalitete života, utvrditi donje granice dopuštenih vrijednosti onečišćenja svim polutantima iz postojećih zagađivača (prvenstveno iz elektroenergetskih objekata, koksara, cementara i sl.), uključujući i zaštitu od buke;
+- zaštititi sva izvorišta pitke vode, kvalitetu voda zadržati u Zakonom propisanim kategorijama, provedbom jedinstvenih mjera pročišćavanja otpadnih voda, gradnjom vodoopskrbnog i kanalizacijskog sustava, te hidroenergetske objekte graditi, u pravilu, samo na one u funkciji zaštite podzemnih voda i zaštite od poplava, čime će se pučanstvu dugoročno osigurati pitka voda - strateško prirodno dobro;
+- provesti neodložne mjere zaštite priobalja i podmorja Jadrana, s tim da se sprijeći njegovo daljnje onečišćavanje, s kopna i brodova i očuva bogatstvo flore i faune u cilju njihovog ukljućivanja u projekte podmorskih parkova, osmišljeno gospodariti turističkim prostorom priobalja i otoka, što će omogućiti skladan i učinkovit razvitak turizma, ne smanjujući vrijednost i privlačnosti jadranskog krajolika. U tome cilju utvrdit će se privatne mogućnosti jadranskog prostora i uspostavi pravila ponašanja njegovih korisnika ukljućujući i strogi nadzor gradnje marina;
+- bdjeti nad očuvanjem spomeničke kulturne baštine i temeljnih vrijednosti prirodnoga nacionalnog blaga (nacionalni parkovi, parkoviprirode, šumske parkovne vegetacije, hortikulturni spomenici, prirodna staništa rijetkih vrsta flore i faune) od neprimjerenog korišćenja i upravljanja, te zatražiti angažiranje snaga UNPROFOR-a na sprečavanju daljnjih oštećenja na zaštićenim objektima, registriranim kao dio svjetske spomeničke i prirodne baštine:
+- prenijeti težište upravljanja otpadom sa mjera orijentiranih na posljedice na mjere orijentiranih na uzroke, vodei se slijedećom hijerarhijom ciljeva: sprećavanje nastajanja otpada; reciklaža i ponovno korištenje kao sekudarne sirovine, te sigurno odlaganje ostatka koji se ne moe upotrijebiti, čime bi se osigurala učinkovita zaštita okoliša, zabraniti uvoz opasnog otpada, smanjiti i kontrolirati transport opasnog otpada, te utvrditi mjere za sanaciju dosadašnjeg nekontroliranog odlaganja.
+IV.
+Sva opredjeljenja glede zaštite pojedinih dijelova eko sustava objedinit će se novim prostorno-planskim dokumentima Republike Hrvatske u cilju optimalnog i racionalnog korištenja prostora za određene namjene.
+Na temelju sveobuhvatnih procjena vrijednosti postoječeg stanja u prostoru pristupiti cjelovitom planiranju, uređivanju i zaštiti prostora, obnovi razorenih urbanih i ruralnih naselja, gradnji prometnica, očuvajući ambijentalna i pejsažna obilježja
+V.
+Republika Hrvatska, suverena, samostalna i međunarodno priznata država ratificirat će, odnosno pristupiti međunarodnim ugovorima iz područja zaštite okoliša. Na taj način zadovoljit će se sve pretpostavke za djelotvorniju suradnju s međunarodnim organizacijama glede stručne i financijske potpore u provedbi mjera zaštite okoliša.
+Republika Hrvatska će evidentirati i procijeniti štete učinjene okolišu, ratnim razaranjima, te zatražiti stručnu i materijalnu potporu za obnovu prirodnih dobara, a posebice onih koja su dio svjetske prirodne baštine.
+VI.
+Republika Hrvatska opredjeljujući se za tržišno gospodarstvo, pretvorbu društvenog vlasništva i poticanje poduzetništva istodobno zadržava pravo, nužnim mjerama, ograničiti i nadzirati upravljanje prirodnim vrijednostima osobitog nacionalnog interesa.
+Republika Hrvatska će gospodarsku pretvorbu usmjeriti investicijskim odlukama, u pravce od živog razvitka i to zabranom ulaganja kapitala u proizvodnju "prljavim tehnologijama" te posebnim stimulativnim mjerama u vidu poreznih i carinskih olakšica poticati ekološki prihvatljive tehnologije.
+U postupku odlučivanja o investicijskim ulaganjima obvezatno će se ukljućiti procjena utjecaja svake intervencije na okoliš.
+Republika Hrvatska će u procesu pretvorbe vlasništva utvrditi obveze i dužnosti dosadašnjeg i novog vlasnika, glede ranije učinjenih šteta na okolišu, te obveze novoga vlasnika u provedbi daljnjih mjera zaštite.
+Republika Hrvatska će svojom trajnom opredjeljenošću za očuvanje okoliša provoditi energetsku politiku u pravcu energetske efikasnosti koja promiče postupno uvođenje obnovljivih izvora energije kao što su sunce, vjetar, morski valovi i bio-plin.
+VII.
+Republika Hrvatska će osigurati provedbu ove deklaracije uspostavom zasebnog i stručnog ministarstva za zaštitu okoliša i prostornog uređenj, funkcionalno povezanog s tijelima lokalne uprave i samouprave.
+Pored toga, Republika Hrvatska je odlučna uvesti materijalnu i krivičnu odgovornost za one koji ugrožavaju i uništavaju prirodne vrijednosti i čovjekov okoliš i postupno će uvesti odgovarajuće naknade za narušavanje okoliša, prema načelu zagadivač plaća, čime će se stvoriti financijske pretpostavke za obnovu i unapređenje devastiranog okoliša.
+VIII.
+Od izuzetnog je dugoročnog značenja da se u duhu očuvanja okoliša, pod motom - misli globalno, djeluj lokalno - unaprijede planovi i programi sih razina odgoja i obrazovanja.
+Republika Hrvatska priznaje pravo pojedincu da zna i da ima pristup najnovijim informacijama o stanju prirodnog okoliša i prirodnih resursa, pravo da bude konzultiran i da sudjeluje u odlučivanju o aktivnostima koje će imati značajan utjecaj na okoliš, te pravo na zakonska sredstva i naknadu za one čije je zdravlje ili okoliš bio ili može biti ozbiljno ugrožen.
+Republika Hrvatska će promicati temeljna načela ove Deklaracije dajući potporu svim udruženjima koja unapreduju zaštitu okoliša, a isto tako, zadaća je svih sredstava javnog priopćavanja te udruženja da u sklopu svojih djelatnosti razvijaju ekološku svijest.
