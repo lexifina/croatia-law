@@ -1,0 +1,3 @@
+# Članak 53.
+Stupanjem na snagu ove Uredbe u odnosu na državne službenike prestaje se primjenjivati Uredba o jedinstvenim nazivima zadataka i poslova te o stručnom osposobljavanju i usavršavanju radnika u organima uprave ("Narodne novine", Mr. 12/84. i 60/91.) i program stručnog ispita za poslove i zadatke radnika u organima uprave za koje se traži III, IV, VI/I, i VII/I stupanj stručne spreme ("Narodne novine", br. 50/85, 7/86 i 19/89).
+Do donošenja programa općeg i posebnog dijela državnog stručnog ispita za pripremu državnog stručnog ispita mogu se na odgovarajući način rabiti programi iz stavka 1. ovog članka i programi utvrđeni posebnim propisima.

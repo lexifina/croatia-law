@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 3. i članka 90. stavka 2. Zako na o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti ("Narodne novine", br. 14/94., 86/94. i 7/95), Vlada Republike Hrvatske je na sjednici održanoj 28. lipnja 1995. godine donijela
