@@ -1,0 +1,1 @@
+Ustavni sud Hrvatske, na sjednici održanoj 8. ožujka 1990. godine, rješavajući sukob nadležnosti između Općinskog suda u Zagrebu i Komiteta za građevinarstvo, komunalne i stambene poslove, Odsjek za imovinskopravne i stambene poslove općine Maksimir, donio je
