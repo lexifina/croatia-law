@@ -1,0 +1,1 @@
+Pravilnik o utvrđivanju uvjeta i načina pod kojima građani mogu prenijeti svoju deviznu štednju s organizacijske jedinice banke čije je sjedište izvan Republike Hrvatske na banke u Republici Hrvatskoj
