@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i članka 149. stavka 1. točke 3. Zakona o bankama (»Narodne novine«, br. 84/2002.), guverner Hrvatske narodne banke donosi
