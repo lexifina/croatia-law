@@ -1,0 +1,55 @@
+# Članak 14.
+(1) Minimum tehničke opreme i sredstava, koji posjeduje vatrogasna postaja u skladištu, čini:
+- čizme gumene-niske pari 10
+- čizme gumene-visoke para 4
+- cijev tlačna 52 mm kom. 40
+- cijev tlačna 75 mm kom. 30
+- generator za laku pjenu kom. 1
+- izolacijski aparat komplet 5
+- komplet za pružanje prve pomoći komplet 2
+- ljestva kukača . kom. 6
+- ljestva prislanjača kom. 2
+- ljestva sastavljača kom. 2
+- medumješalica kom. 2
+- metlanica kom. 10
+- mlaznica dubinska "koplje" kom. I
+- mlaznica univerzalna 52 mm kom. 5
+- mlaznica univerzalna 75 mm kom. 3
+- mlaznica za srednje tešku pjenu kom. 1
+- mlaznica za tešku pjenu kom. 2
+- mlaznica za vodenu maglu kom. 1
+- motorna pila kom. 3
+- nosila sklopiva kom. ' 4
+- pjenilo 1 2500
+- plastificirani bazen zapremine 500 I kom. 6
+- podvezica za cijev kom. 10
+- potapajuća pumpa za vodu s elektromotorom 220 V i produžnim kablom kom. 5
+- potapajuća pumpa za vodu s elektromotorom 380 V i produžnim kablom kom. 5
+- pričuvna boca s komprimiranim zrakom za izolacijske aparate kom. 12
+- prijelaznica 110/75 mm kom. 2
+- prijelaznica 75/52 mm kom. 5
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- prijevozna motorna pumpa za gašenje požara kom. 1
+- prijevozni generator za proizvodnja električne struje kom. 1
+- pumpa za pretakanje agresivnih tekućina kom. 1
+- pumpa za pretakanje lakozapaljivih tekućina kom. 1
+- punjač za akumulatore prijenosnih radiostanica kom. 1
+- punjač za akumulatore ručnih svjetiljki (po potrebi) kom. 1
+- razdjelnica trodjelna kom. 2
+- retlektor prijenosni sa stalkom i kablom komplet 2
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 6
+- ručni aparat za gašenje požara prahom "S-9" kom. 4,
+- ručni aparat za gašenjc požara prahom "S-6" kom. 2
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 3
+- ručni aparat za gašenje požara vodom (naprtnjača) kom. 8
+- ručni aparat za gašenje vodom i zračnam pjenom (brentača) kom. 4
+- uže penjačko kom. 5
+- zaštitne rukavice-gumirane , pari 10
+- zaštitne rukavice-kožne pari 10
+- zaštitno odijelo za zaštitu od čvrstih, tekućih i plinovitih kemikalija (agresivna sredina) komplet 4
+- zaštitno odijelo za prilaz vatri-aluminizirano komplet 4
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50., točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- oprema za gašenje požara čade u dimnjaka (članak 50., točka 6.)
+- alat (članak 50., točka 11.)
+- oprema za rad na vodi (članak 50:, točka 13.)

@@ -1,0 +1,32 @@
+# Članak 44.
+(1) Minimum tehničke opreme i sredstava,koji posjeduje dobrovoljna vatrogasna postrojba u gospodarstvu u skladištu,
+čini:
+- cijev tlačna 52mm kom. 8
+- cijev tlačna 75mm kom. 5
+- čizme gumene - niske pari 5
+- dizalica 8t kom. 1
+- ljestva prislanjača kom. 1
+- ljestva sastavljača kom. 1
+- mlazdica univerzalna 52mm kom, 1
+- motorna pila kom. 1
+- nosila sklopiva kom. 2
+- posuda s pjenilom 201 kom. 2
+- potapajuća pumpa za vodu s elektromotorom 220V i produžnim kablom kom. 1
+- prijelaznica 75/52mm . kom. 1
+- prijenosni generator za proizvodnju električne struje 3,5kW kom. 1
+- produžni kabel za električnu struju dužine 25m; 220V kom. 1
+- produžni kabel za električnu struju dužine 25m,380V kom. 1
+- purijač za akumulator prijenosne radiostanice kom. 1
+- punjač za akumulator ručne svjetiljke (po potrebi) kom. 1
+- razdjelnica trodjelna kom. 1
+- reflektor prijenosni sa stalkom i kablom komplet 1
+- rućna akumulatorska svjetiljka u "S" izvedbi kom. . 2
+- ručni aparat za gašenje požara prahom " S-9" kom. 3
+- ručni aparat za gašenje požara ugljičnim . dioksidom "CO2-S" kom. 2
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 1
+- uže čelično za vuću s ušicom kom. 1
+- uže penjačko kom. 2
+- zaštitne rukavice - gumirane pari 5
+- zašlitne rukavice - kožne pari 5
+- oprema za gašenje požara čađe u dimnjaku (članak 50.,točka 6.)
+- alat (članak 50.,točka 11.)

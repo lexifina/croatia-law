@@ -1,0 +1,2 @@
+# Članak 35.
+(1) Ovišno o vrsti tehnološkog procesa (vrsti i količini zapaljivih, otrovnih i nagrizajućih tvari u instalacijama tehnološkog procesa, kao i vrsti i količini uskladištenih zapaljivih, otrovnih i nagrizajućih tvari) odnosno stanju opasnosti od požara, eksplozija i akcidenata, vatrogasna postrojba u gospodarstvu oprema se s opremom za detekciju, dozimetriju i zaštitu (RBK) sukladno članku 50., točka 14. ovog Pravilnika.

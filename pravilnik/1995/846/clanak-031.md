@@ -1,0 +1,45 @@
+# Članak 31.
+(1) Minimum tehničke opreme i sredstava, koji posjeduje postrojba u skladištu, čini:
+- čizme gumene - niske para 3
+- cijev tlačna 52 mm kom. 15
+- cijev tlačna 75 mm kom. 10
+- izolacijski aparat komplet 1
+- komplet za pružanje prve pomoći komplet 1
+- ljestva kukača kom. l
+- ljestva prislanjača kom. l
+- medumješalica kom. 1
+- metlanica kom. 1
+- mlaznica univerzalna 52 mm kom. 1
+- mlaznica univerzalna 75 mm kom. 1
+- mlaznica za srednje tešku pjenu kom. 1
+- mlaznica za tešku pjenu kom. 2
+- nosila sklopiva kom. 2
+- pjenilo 1 1500
+- plastificirani bazen zapremine 10001 kom. 5
+- podvezica za cijev kom. 2
+- potapajuća pumpa za vodu s elektromotorom 220V i produžnim kablom kom. 1
+- pričuvna boca s komprimiranim zrakom za izolacijske aparate kom. 2
+- prijelaznica 110/75mm kom. 1
+- prijelaznica 575/52mm kom. 2
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- prijenosni generator za proizvodnju električne struje 3,5kW kom. 1
+- prijevozni bacač za vodu i pjenu komplet 1
+- pampa za pretakanje agresivriih tekućina (za pravnu osobu koja proizvodi, prerađuje ili uskladišćuje agresivne tekućine) kom. 1
+- pumpa za pretakanje lakozapaljivih tekućina (za pravnu osobu koja proizvodi,preraduje ili uskladišćuje lakozapaljive tekućine) kom. 1
+- punjač za akumulatore prijenosnih radiostanica kom. 1
+- punjač za akumulatore ručnih svjetiljki (po potrebi) kom. 1
+- razdjelnica trodjelna kom. I
+- retlektor prijenosni sa stalkom i kablom komplet 1
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom. 2
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 2
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 1
+- uže penjačko kom. 2
+- zaštitne rukavice-gumirane para 3
+- zaštitne rukavice-kožne para 3
+- zaštitno odijelo za zaštitu od čvrstih, tekućih i plinovitih kemikalija (agresivna sredina) komplet 2
+- zaštitno odijelo za prilaz valri-aluminizirano komplet 3
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50.točka 1.)
+- alat (članak 50.,točka 11.)
+H) PROFESIONALNA VATROGASNA POSTROJBA
+- VRSTA "I h"

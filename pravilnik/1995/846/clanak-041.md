@@ -1,0 +1,76 @@
+# Članak 41.
+(1) Mlnimalnu opremljenost vatrogašnih vozila iz članka 40:,stavka 1.ovog Pravilnika čini:
+NAVALNO VOZILO:
+- električna kružna pila kom. 1
+- komplet za pružanje prve pomoći komplet l
+- ljestva rastegača kom. 1
+- mlaznica univerzalna 52 mm kom. 2
+- mlaznica univerzalna 75 mm kom. 1
+- mlaznica za vodenu maglu kom. 1
+- nosila sklopiva kom. 1
+- prijenosni generator za proizvodnju električne struje 3,5 kW kom. 1
+- produžni kabel za električnu struju dužine 25 m, 220 V kom. 2
+- radiostanica prijenosna kom. 1
+- radiostanica ugradbena kom. 1
+- reflektor (na vozilu) kom. I
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom. 1
+- ručni aparat za gašenje požara ugljičnim dioksidom "CO,2-5" kom. 1
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 1
+- uže penjačko kom. 2
+- ventil za ograničenje tlaka kom. 1
+- zaštitne rukavice-gumirane para 2
+- zaštitne rukavice-kožne para
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50., točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- vatrogasna armatura i tlačne cijevi (članak 50:, točka 3.)
+- oprema i sredstva za gašenje požara pjenom (članak 50., točka 4.).
+- oprema za zaštitu organa za disanje (članak 50:, točka 5.)
+- razvalni alat i oprema (članak 50., točka 1.)
+- električarski alat (članak 50., točka 8.)
+- alat (članak 50., točka 11.)
+AUTOCISTERNA:
+- lopata pobirača kom. 1)
+- metlanica kom. 1)
+- mlaznica dubinska "koplje" kom. 1
+- mlaznica univerzalna 52 mm kom. 2
+- mlaznica univerzalna 75 mm kom, 1
+- pijuk - sjekira - kom. 1
+- radiostanica prijenosna kom. 1
+- radiostanica ugradbena kom. 1
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9"kom. 1
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 1
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača), kom. 1
+- uže penjačko kom. 2
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50., točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50.,točka 2.)
+- vatrogasna armatura i tlačne cijevi-(članak 50.,točka 3.)
+KOMBI VOZILO:
+- cijev tlačna 52mm kom. 6
+- cijev tlačna 75mm kom. 3
+- dizalica 8t kom. 2
+- komplet za pružanje prve pomoći komplet 1
+- ljestva kukača kom. I
+- ljestva prislanjača kom. 1
+- metlanica kom. 2
+- mlaznica univerzalna 52mm kom. 1
+- mlaznica univerzalna 75mm kom. 1
+- pijuk za sijeno kom. 1
+- podvezica za cijev kom. 2
+- prijelaznica 75/52mm kom. 2
+- radiostaniea prijenosna kom. 2
+- razdjelnica trodjelna kom. 1
+- ručna akumulatorslca svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom. 1
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 1
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 1
+- uže čelično za vuču s ušicom kom. 1
+- uže penjačko kom. 2
+- vile za sijeno kom. 1
+- zaštitne rukavice-kožne para 2
+- oprema za dobavu vode izvodovodne mreže (članak 50.,točka 2.)
+- oprema za gašenje požara čade u dimnjaku (članak 50.,točka 6.)
+- razvalni alat i oprema (članak 50.,točka 7.)
+- električarski alat (članak 50.,točka 8.)
+- alat (članak 50.,točka I 1.)

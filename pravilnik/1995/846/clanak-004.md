@@ -1,0 +1,45 @@
+# Članak 4.
+(1) Minimum tehničke opreme i sredstava, koji posjeduje vatrogasna ispostava u skladištu, čini:
+- čizme gumene-niske pari 5
+- čizme gumene-visoke para 2
+- cijev tlačna 52 mm kom. 20
+- cijev tlačna 75 mm kom 15
+- izolacijski aparat komplet 2
+- komplet za pružanje prve pomoći komplet 1
+- ljestva kukača kom. 2
+- ljestva mornarska kom. 1
+- ljestva prislanjača kom. 1
+- ljestva sastavljača kom. 1
+- međumješalica kom. 1
+- metlanica kom. 4
+- mlaznica dubinska "koplje" kom. 1
+- mlaznica univerzalna 52 mm kom. 3
+- mlaznica univerzalna 75 mm kom. 1
+- motorna pila kom. 1
+- nosila sklopiva. kom. 2
+- pjenilo 1 1000
+- podvezica za cijev kom. 4
+- potapajuća pumpa za vodu s elektromotorom 220 V i produžnim kablom kom. 2
+- potapajuća pumpa za vodu s elektromotorom 380 V i produžnim kablom kom. 2
+- pričuvna boca s komprimiranim zrakom za izolacijske aparate kom. 4
+- prijelaznica 110/75 mm kom. 1
+- prijelaznica 75/52 mm kom. 3
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- punjač za akumulatore prijenosnih radiostanica kom. 1
+- punjač za akumulatore ručnih svjetiljki (po potrebi) kom. 1
+- raždjelnica trodjelna kom. 1
+- reflektor prijenosni sa stalkom i kablom komplet 1
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 3
+- ručni aparat za gašenje požara prahom "S-9" kom. 2
+- ručni apatat za gašenje požara ugljičnim dioksidom "C02-5" kom. 1
+- ručni aparat za gašenje požara vodom (naprtnjača) kom. 4
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 2
+- uže penjačko kom. 2
+- zaštitne rukavice-gumirane pari 5
+- zaštitne rukavice-kožne pari 5
+- zaštitno odijelo za zaštitu od čvrstih, tekućih i plinovitih kemikalija (agresivna
+sredina) komplet 2
+- zaštitno odijelo za prilaz vatri-aluminizirano komplet 2
+- oprema za dobavu vode iz prirodnih iumjetnih izvora vode (članak 50.,točka I.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50.,točka 2.)
+- alat (članak 40.,točka 11.)

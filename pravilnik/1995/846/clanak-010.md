@@ -1,0 +1,51 @@
+# Članak 10.
+(1) Minimum tehničke opreme i sredstva, koji posjeduje vatrogasna postaja u skladištu, čini:
+- čizme gumene-niske pari 10
+- čizme gumene-visoke. para 4
+- cijev tlačna 52 mm kom. 30
+- cijea tlačna 15 mm kom. 25
+- izolacijski aparat komplet 5
+- komplet za pružanje prve pomoći komplet 1
+- ljestva kukača kom. 6
+- ljestva prislanjača kom. 2
+- ljestva sastavljača kom. 2
+- medumješalica . kom. 2
+- metlanica , kom. 10
+- mlaznica dubinska "koplje" kom. 1
+- mlaznica univezralna 52 inm kom: 5
+- mlaznica univerzalna 75 mm kom. 3
+- mlaznica za srednje tešku pjenu kom. 1
+- mlaznica za tešku pjenu kom: 2
+- mlaznica za vodenu maglu kom. 1
+- motorna pila kom. 2
+- nosila sklopiva kom. 3
+- pjenilo 1 2000
+- podvezica za cijev kom. 10
+- potapajuća pompa za vodu s elektromotorom 220V i produžnim kablom kom. 4
+- potapajuća pumpa za vodu s elektromotorom 380V i produžnim kablom kom. 4
+- pričuvna boca s komprimiranim zrakom za izolacijske aparate kom. 10
+- prijelaznica 110/15mm , kom. 2
+- prijelaznica 75/52mm kom. 5
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- prijevozna motorna pumpa za gašenje požara kom. I
+- prijevozni generator za proizvodnju elektriđne struje kom. I
+- punjač za akumulatore prijenosnih radiostanica kom. 1
+- punjač za akumulatore ručnih svjetiljki (po potrebi) kom. 1
+- razdjelnica trodjelna kom. 2
+- reflektor prijenosni sa stalkom i kablom komplet I
+- ručna akumulatorska svjetiljka u "5" izvedbi kom. 5
+- ručni aparat za gašenje požara prahom "S-9" kom. 4
+- ručni aparat za gašenje požara prahom "S-6" kom. 1
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 2
+- ručni aparat za gašenje požara vodom (naprtnjača) kom. 8
+- ručni aparat za gašenje požara vodom i zračnom pjepom (brentača) kom. 4
+- uže penjačko . kom. 4
+- zaštitne rukavice-gumirane pari 10
+- zaštitne rukavice-kožne pari 10
+- zaštitno odijelo za zaštitu od čvrstih, tekućih i plinovitih kemikalija (agresivna
+sredina) komplet 4
+- zaštitno odijelo za prilaz vatri-aluminizirano komplet 4
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50.; točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- oprema za gašenje požara čađe u dimnjaku (članak 50., točka 6.)
+- alat (članak 50., točka 11.)

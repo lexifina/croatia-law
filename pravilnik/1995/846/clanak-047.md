@@ -1,0 +1,27 @@
+# Članak 47.
+(1) Minimum tehničke opreme i sredstava, koji posjeduju ostale vatrogasne postrojbe u sastavu udruga dobrovoljnih vatrogasaca u skladištu, čini:
+- čizme gumene - niske pari 5
+- čizme gumene - visoke pari 5
+- cijev tlačna 52 mm kom. 8
+- cijev tlačna 15 mm kom. 5
+- ljestva prislanjača kom. 1
+- ljestva sastavljača kom. 1.
+- metlanica kom. 4
+- mlaznica univerzalna 52 mm kom. 1
+- mlaznica univerzalna 75 mm kom. 1
+- nosila sklopiva kom. I
+- prijelaznica 110/15 mm kom. 1
+- prijelaznica 75/52 mm kom. l
+- punjač za akumulator prijenosne radiostanice kom. 1
+- punjač za akumulator ručne svjetiljke (po potrebi) kom: l
+- ručna akamulatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom. 2
+- ručni aparat za gašenje požara ugljičnim dioksidom "CO -S" kom. 1
+- ručni aparat za gašenje požara vodom (naprtnjača) kom. 2
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 4
+- cijev tlačna 52 mm kom. 8
+- uže čelično za vuču s ušicom . kom. 1
+- uže penjačko kom. 2
+- zaštitne rukavice - gumirane para 3
+- zaštitne rukavice - kožne para 3
+- alat (članak 50., točka 11.)

@@ -1,0 +1,52 @@
+# Članak 38.
+(1) Minimalnu opremljenost vatrogasnih vozila iz đlanka 37., stavka 1. ovog Pravilnika čini:
+AUTOCISTERNA:
+- komplet za pružanje prve pomoći komplet 1
+- ljestva sastavljača kom. 1
+- metlanica kom: 2
+- mlaznica dubinska "koplje" kom. 1
+- mlaznica univeržalna 52 mm kom. 3
+- mlaznica univerzalna 75 mm kom. 2
+- pijuk za sijeno kom.1
+- radiostanica prijenosn kom.1
+- radiostanica ugradbena kom.1
+- ručna akumalatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom.1
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom.1
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom.1
+- uže penjačko kom. 2
+- vile za sijeno. kom. 1
+- zaštitne rukavice-kožne para 2
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50., točta 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- vatrogašna arznatura tlačne cijevi (članak 50., točka 3.)
+- alat (članak 50., točka 11.)
+KOMBI VOZILO:
+- cijev tlačna 52 mm kom. 6
+- cijev tlačna 75 mni kom. 3
+- dizalica 8 t kom. 2
+- komplet za.pružanje prve pomoći komplet 1
+- lještva kukača kom. 1
+- ljestva prislanjača kom. 1
+- metlanica kom. 2
+- mlaznica univerzalna 52 mm kom. 2
+- mlaznica univerzalna 75 mm kom. 1
+- pijuk za sijeno kom: 1
+- podvezica za cijev kom. 2
+- prijelaznica 75/52 mm kom: 2
+- radiostanica prijenosna kom. 2
+- razdjelnica trodjelna kom. 1
+- ruđna akumulatorska svjetiljka u "S" izvedbi kom. 2
+- ruđni aparat za gašenje požara prahom "S-9" kom. 1
+- ručni aparat za gašenje požara ugljičnim dioksidoni "C02-5" kom. 1
+- ručni aparat za gašenje potara vodom i zračnom pjenom (brentača) kom. 1
+- uže čelično za vuču s ušićom kom. 1
+- uže penjačko kom. 2
+- vile za sijeno kom. 1
+- zaštitne rukavice-kožne: para 2
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članat 50., točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- oprema za gašenje požara čađe u dimnjaku (članak 50., točka 6:)
+- razvalni alat i bprema (članak 50.; točka 1.)
+- električarski alat (članak 50.,točka 8.)
+- alat (članak 50.,točka 11.)

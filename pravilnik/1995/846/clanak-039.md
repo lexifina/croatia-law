@@ -1,0 +1,29 @@
+# Članak 39.
+(1) Minimum tehničke opreme i sredstava; koji posjeduje dobrovoljna vatrogasna postrojba utvrđena planom zaštite od požara,u skladištu,čini:
+- čizme gumene - niske pari 5
+- čuzme gumene - visoke para 2
+- cijev tlačna 52mm kom. 7
+- cijev tlačka 15mm kom. 7
+- ljestva kukača kom: 1
+- ljestva mornarska kom. 1
+- ljestva prislanjača kom. 1
+- metlanica kom. 4
+- mlaznica-univerzalna 52mm kom. 2
+- mlaznica univerzalna 75mm kom. 1
+- motorna pila kom. 1
+- nosila sklopiva kom. 2
+- potapajuća pumpa za vodu s elektromotorom 220V i produžnim kabelom kom. 1
+- potapajuća pumpa za vodu s elektromotorom 380V i produžnim kabelom , kom. 1
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- punjač za akumulator prijenosne radiostanice kom. 1
+- punjač za akumulator ručne svjetiljke (po potrebi) kom. 1
+- razdjelnica trodjelna kom. 1
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom: 2
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 1
+- ručni aparat za gašenje požara vodom (naprtnjača) kom. 4
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 2
+- uže penjačko kom. 2
+- zaštitne rukavice-gumirane pari 5
+- zaštitne rukavice-kožne pari 5
+- alat (članak 50,točka 11.)

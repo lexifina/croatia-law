@@ -1,0 +1,48 @@
+# Članak 23.
+(1) Minimum tehničke oprema: sredstava, koji posjeduje postrojba u skladištu, čini:
+- čizme gumene-niske pari 5
+- cijev tlačna 52 mm kom. 25
+- cijev tlačna 75 mm kom. 20
+- generator za laku pjenu kom. 1
+- izolacijski aparat komplet 2
+- komplet za pružanje prve pomoći komplet 1
+- ljestva kukača kom. 1
+- ljestva prislanjača kom. 1
+- ljestva sastavljača kom. 1
+- medumješalica kom. 2
+- metlanica kom: 2
+- mlaznica univerzalna 52 mm kom. 2
+- mlaznica unierzalna 75 mm kom. 2
+- mlaznica za srednje tešku pjenu kom. 1
+- mlaznica za tešku pjenu kom. 2
+- nosila sklopiva kom. 2
+- pjenilo l 2000
+- plastificirani bazen zapremine 1000 I kom. 8
+- podvezica za cijev kom. 4
+- potapajuća pumpa za vodu s elektromotorom 220 V i produžnim kablom kom. 1
+- potapajuća pumpa za vodu s elektromotorom 380 V i produžnim kablom kom. 1
+- pričuvna boca s komprimiranim zrakom za izolacijske aparate kom. 4
+- prijelaznica 110/75 mm kom. 2
+- prijelaznica 15/52 mm kom. 4
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- prijevozni bacač za vodu i pjenu komplet 1
+- prijevozni generator za proizvodnju električne struje kom. 1
+- pumpa za pretakanje lakozapaljivih tekućina kom. 1
+- punjač za akumulatore prijenosnih radiostanica kom. 1
+- punjač za akumulatore ručnih svjetiljki (po potrebi) kom. 1
+- razdjelnica trodjelna kom. 1
+- retlektor prijenosni sa stalkom i kablom komplet 1
+- ručrna akumulatorska svjetiljka u "S" izvedbi kom. 4
+- ručni aparat za gašenje požara prahom "S-9" kom. 3
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 2
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 2
+- uže penjačko kom. 2
+- zaštitne rukavice-gumirane pari 5
+- zaštitne rukavice-kožne pari 5
+- zaštitno odijelo za zaštitu od čvrstih, tekućih i plinovitih kenvkalija (agresivna sredina) komplet 2
+- zaštitno odijelo za prilaz vatri-aluminizirano komplet 4
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50., točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- alat (članak 50., točka 11.)
+D) PROFESIONALNA VATROGASNA POSTROJBA
+- VRSTA "I d"

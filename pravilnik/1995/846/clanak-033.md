@@ -1,0 +1,42 @@
+# Članak 33.
+(1) Minimum tehničke opreme i sredstava, koji posjeduje postrojba u skladištu, čini:
+- čizme gumene-niske para 2
+- cijev tlačna 52 mm kom. 15
+- cijev tlačna 75 mm kom. 10
+- izolacijski aparat komplet 1
+- komplet za pružanje prve pomoći komplet 1
+- ljestva kukača kom. 1
+- ljestva prislanjača kom. I
+- međumješalica kom. 1
+- metlanica kom. 1
+- mlaznica univerzalna 52 mm kom. 1
+- mlaznica za srednje tešku pjenu kom. 1
+- mlaznica za tešku pjenu kom. 1
+- nosila sklopiva kom. 2
+- pjenilo 1 1000
+- plastificirani bazen zapremine 1000 I kom. 4
+- podvezica za cijev kom. 2
+- potapajuća pumpa za vodu s elektromotorom 220 V i produžnim kablom kom. 1
+- pričuvna boca s komprimiranim zrakom za izolacijske aparate kom. 2
+- prijelaznica 110/75 mm kom. 1
+- prijelaznica 75/52 mm kom. 2
+- prijenosna motorna pumpa za gašenje požara 8-8 kom. 1
+- prijenosni generator za proizvodnju električne struje 3,5 kW kom. 1
+- pumpa za pretakanje agresivnih tekućina (za pravnu osobu koja prozvodi, prerađuje ili uskladišćuje agresivne tekućine) kom. 1
+- pumpa za pretakanje lakozapaljivih tekućina (za pravnu osobu koja proizvodi, preraduje ili uskladišćuje lakozapaljive tekućine) kom. 1
+- punjač za akumulatore prijenosnih radiostanica . kom. 1
+- punjač za akumulatore ručnih svjetiljki (po potrebi) kom. 1
+- razdjelnica trodjelna kom. 1
+- reflektor prijenosni sa stalkom i kablom komplet 1
+- ručna akumulatorska svjetiljka u "S" izvedbi kom. 2
+- ručni aparat za gašenje požara prahom "S-9" kom. 2
+- ručni aparat za gašenje požara ugljičnim dioksidom "C02-5" kom. 2
+- ručni aparat za gašenje požara vodom i zračnom pjenom (brentača) kom. 1
+- uže penjačko kom. 2
+- zaštitne rukavice-gumirane para 2
+- zaštitne rukavice-kožne para 2
+- zaštitno odijelo za zaštitu od čvrstih, tekućih i plinovitih kemikalija (agresivna sredina) komplet 2
+- zaštitno ođijelo za prilaz vatri-aluminizirano komplet 1
+- oprema za dobavu vode iz prirodnih i umjetnih izvora vode (članak 50., točka 1.)
+- oprema za dobavu vode iz vodovodne mreže (članak 50., točka 2.)
+- alat (članak 50., točka 11.)
