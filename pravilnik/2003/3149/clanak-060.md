@@ -1,0 +1,2 @@
+# Članak 60.
+U proizvodnji sredstava za održavanje čistoće mogu se, osim tvari iz članka 56., 57. i 58. ovoga Pravilnika, koristiti i druge tvari koje vežu ione, emulgatori i druge tvari potrebne u tehnološkom procesu proizvodnje, odnosno u sastavu pojedinih sredstava, uz uvjet da nisu štetne za zdravlje pri predviđenoj i pravilnoj uporabi, da su sukladne priznatim propisima i normama te da ne utječu nepovoljno na zdravstvenu ispravnost sredstava.

@@ -1,0 +1,2 @@
+# Članak 15.
+Dječjim igračkama prema ovom Pravilniku smatraju se svi proizvodi ili oblikovani materijali namijenjeni za igru djece do 14 godina starosti i različite potrepštine za djecu, koje mogu doći u dodir s usnom šupljinom i kožom, kao što su pisala (grafit kod olovaka i tinta za pera), materijali za modeliranje i gelovi, različita bojila, lakovi, premazi, eksperimentalna oprema za kemiju i druge kemijske igračke.

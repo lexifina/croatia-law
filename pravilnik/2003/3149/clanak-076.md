@@ -1,0 +1,4 @@
+# Članak 76.
+Sredstvima za dezinfekciju u smislu ovoga Pravilnika smatraju se proizvodi koji su namijenjeni za dezinfekciju u kućanstvu, pogonima, uključujući i opremu i uređaje za proizvodnju i preradu namirnica, te proizvodnju predmeta opće uporabe iz točke 4. i 7. članka 2. ovoga Pravilnika, kao i za druge namjene, osim za medicinske i stomatološke svrhe.
+Sredstvima za dezinsekciju u smislu ovoga Pravilnika smatraju se proizvodi koji se koriste kao predmeti opće uporabe, a namijenjeni su za uništavanje insekata, kukaca i drugih štetočina u kućanstvu, uključujući i nametnike na kućnim životinjama (psi, mačke i sl.) te kućnom ukrasnom bilju.
+Sredstva za dezinfekciju i dezinsekciju mogu se stavljati u promet u granulama, tabletama, kristalu, prahu, u obliku želea, kreme, paste, trake, sredstava za zamagljivanje, aerosola, tekućine te drugim oblicima prikladnim i sigurnim za uporabu.
