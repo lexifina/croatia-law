@@ -1,0 +1,44 @@
+O b r a z l o ž e n j e
+1. Anton Jelić, odvjetnik iz Bjelovara, podnio je prijedlog za ocjenu suglasnosti s Ustavom Republike Hrvatske u izreci navedenih odredaba Zakona o oružju. Podnositelj prijedloga smatra da su osporene odredbe nesuglasne odredbama članaka 5. i 28. Ustava Republike Hrvatske.
+2. Osporene odredbe glase:
+Članak 12. stavak 1. točka 3.
+"Prema ovom Zakonu pojedini pojmovi imaju ova značenja:
+3. oružje za samoobranu je kratko i dugo vatreno oružje,”
+Članak 18. stavak 1. točke 2., 3. i 4.
+"Nadležno tijelo izdat će građaninu odobrenje za nabavku oružja ukoliko ispunjava sljedeće uvjete:
+2) da nije osuđen za kazneno djelo protiv Republike Hrvatske, za kazneno djelo protiv života i tijela ili protiv imovine kao i za druga kaznena djela s elementima nasilja, koristoljublja ili niskih pobuda ili ako je za takvo djelo pokrenut postupak,
+3) da nije kažnjen za prekršaj, odnosno da se ne vodi postupak za prekršaj koji ukazuje da bi oružje moglo biti zlouporabljeno,
+4) da ne postoje druge okolnosti koje ukazuju da bi oružje moglo biti zlouporabljeno, a osobito: češće i prekomjerno uživanje alkohola, teže poremećeni obiteljski odnosi, susjedski odnosi ili odnosi na radnom mjestu, disciplinske povrede propisa o lovstvu ili športskom streljaštvu i sl."
+Članak 19.
+"Postojanje uvjeta iz članka 18. stavka 1. točke 6) ovoga Zakona dokazuje se uvjerenjem o zdravstvenoj sposobnosti.
+Uvjerenje o zdravstvenoj sposobnosti za držanje ili držanje i nošenje oružja izdaju zdravstvene organizacije koje su ovlaštene za obavljanje takvih zdravstvenih pregleda.
+Ministar unutarnjih poslova uz suglasnost ministra zdravstva odredit će uvjete koje moraju ispunjavati zdravstvene organizacije koje će obavljati zdravstvene preglede kojima se utvrđuje zdravstvena sposobnost za držanje ili držanje i nošenje oružja, način i postupak obavljanja zdravstvenih pregleda, popis bolesti i zdravstvenih stanja koja osobu čine nesposobnom za držanje i nošenje oružja, način vođenja evidencije i medicinske dokumentacije i sadržaj uvjerenja o izvršenom zdravstvenom pregledu, nadležnost, sastav i način rada drugostupanjske zdravstvene komisije i naknade u svezi s utvrđivanjem zdravstvene sposobnosti.
+Ministar unutarnjih poslova uz suglasnost ministra zdravstva odredit će koje zdravstvene organizacije smiju obavljati zdravstvene preglede iz stavka 3. ovoga članka."
+Članak 24.
+"Nadležno tijelo odbit će zahtjev za izdavanje odobrenja za nabavku oružja ako podnositelj zahtjeva ne ispunjava uvjete za nabavku oružja propisane ovim Zakonom."
+Članak 47.
+"Nadležno tijelo oduzet će oružje, streljivo, oružni list i odobrenje za sakupljanje oružja, ako prestane postojati neki od uvjeta iz članka 18. stavka 1. točke 2) do 5) ovoga Zakona.
+Iznimno od stavka 1. ovoga članka u slučaju prestanka uvjeta iz članka 18. stavka 1. točke 5) ovoga Zakona, građanima se može oduzeti oružni list za držanje i nošenje oružja i izdati oružni list za držanje oružja ili oružni list za držanje oružja kao uspomene.
+Za oružje za koje je izdan oružni list za držanje oružja kao uspomene ne smije se nabavljati i držati streljivo niti se to oružje smije upotrebljavati kao oružje."
+Članak 49.
+"Rješenje o oduzimanju oružja, streljiva, oružnog lista i odobrenja za sakupljanje oružja donosi nadležno tijelo.
+Žalba protiv rješenja iz stavka 1. ovog članka ne odgađa izvršenje."
+3. Glede odredbe članka 12. stavka 1. točke 3. osporenog Zakona podnositelj ne navodi razloge njene neustavnosti već isto obrazlaže navodima da je svako oružje ubojito i da do danas još nije proizvedeno oružje za samoobranu.
+4. Neustavnost odredaba iz stavaka 2. i 3. članka 18. Zakona podnositelj nalazi u činjenici da se njima zahtijeva jedna negativna pretpostavka za izdavanje odobrenja za nabavku oružja tj. da protiv građanina, između ostalog, nije pokrenut kazneni odnosno prekršajni postupak.
+Smatra da to dovodi do podjele građana na dvije kategorije, te da takvi građani nisu u stanju ostvariti prava po Zakonu, neovisno o tome što ti postupci završe obustavom ili oslobađajućom presudom. Podnositelj također smatra da u stavku 4. članka 18. nabrojene okolnosti ne bi smjele biti kriterij za ocjenu može li se nekome dati oružje ili ne, jer da to predstavlja diskrecijsku ocjenu policije o tome je li netko alkoholičar, ima li poremećene obiteljske ili susjedske odnose ili sukob u lovačkom društvu.
+5. Glede osporenih odredaba iz članaka 19., 24., 47. i 49. Zakona podnositelj ne navodi razloge njihove neustavnosti. Po svemu sudeći smatra da se razlozi neustavnosti odredbe članka 18. Zakona u biti odnose i na spomenute odredbe.
+Predlaže da ovaj Sud pokrene postupk ocjene suglasnosti osporenog Zakona s Ustavom Republike Hrvatske.
+6. Prijedlog nije osnovan.
+Razlozi predlagatelja nisu doveli u sumnju suglasnost osporenih odredaba Zakona s odredbama članaka 5. i 28. Ustava Republike Hrvatske prema kojima je svatko dužan držati se Ustava i zakona i poštivati pravni poredak Republike Hrvatske (članak 5. stavak 2.), odnosno da je svatko nedužan i nitko ga ne može smatrati krivim za kazneno djelo dok mu se pravomoćnom sudskom presudom ne utvrdi krivnja (članak 28.).
+7. Osporena odredba članka 12. stavka 1. točke 3. Zakona je interpretativna odredba kojom se za potrebe toga zakona, daje značenje pojma oružja za samoobranu.
+Odredba nije protuustavna jer je zakonodavac ovlašten propisati koje se oružje smatra oružjem za samoobranu.
+8. Navod iz prijedloga da se odredbama članka 18. stavka 1. točkama 2. i 3. osporenog Zakona postavlja kao uvjet za izdavanje odobrenja za nabavku oružja, da protiv građanina nije podnesena kaznena odnosno prekršajna prijava, nisu utemeljeni.
+Osporene odredbe takve uvjete ne poznaju. Niti kazneni, a niti prekršajni postupak se ne pokreću podnošenjem kaznene, odnosno prekršajne prijave nadležnim tijelima pa samim time niti ne stoji podnositeljeva tvrdnja da je jedan od uvjeta za izdavanje odobrenja za nabavku oružja, nepodnošenje kaznene odnosno prekršajne prijave.
+Sud je također utvrdio da ni odredbe stvaka 4. istog članka nisu nesuglasne naprijed navedenim ustavnim odredbama. Sud, naime, smatra da je zakonodavac opravdano, pored ostalih uvjeta za nabavku oružja, predvidio da na strani građanina ne postoje okolnosti koje upućuju da bi oružje moglo biti zloupotrijebljeno, kao što su prekomjerno uživanje alkohola, poremećaj u obiteljskim, susjedskim i odnosima na radnom mjestu, povreda propisa o lovstvu, športskom streljaštvu i sl. Svaka zloupotreba oružja izravno je ugrožavanje ustavnih prava na život i zdravlje drugih ljudi, pa je zakonodavac dužan i ovlašten zaštititi ih. Budući da je nadležno tijelo dužno utvrditi činjenično stanje i u svom rješenju dati odgovarajuće obrazloženje to nema mjesta diskrecijskoj ocjeni.
+9. Sud nije prihvatio niti dio prijedloga kojim se osporavaju odredbe članka 19. Zakona. Radi se, naime, o odredbama koje propisuju kojim će se dokaznim sredstvima dokazati postojanje uvjeta iz članka 18. stavka 1. točke 6. (zdravstvene sposobnosti građana za držanje i nošenje oružja). Naime, podnositelj prijedloga nije u svojem prijedlogu istakao pravnorelevantne razloge koji bi upućivali na postojanje sumnje u njihovu ustavnost.
+10. Pravo je zakonodavca da propisuje uvjete za izdavanje odobrenja za nabavku oružja, ali isto tako i pravo da propiše uvjete za oduzimanje oružja, streljiva, oružnog lista ili odobrenja za sakupljanje oružja. Takvo uređivanje ove specifične pravne problematike, kao što je nabavka, držanje, nošenje, sakupljanje, proizvodnja, popravljanje i prepravljanje oružja i streljiva (članak 1. Zakona), kao opasne stvari, ovaj Sud ne smatra protivnim naprijed navedenim ustavnim odredbama. Točno je to, da je svatko nedužan i da se nikoga ne može smatrati krivim za kazneno djelo dok mu se pravomoćnom sudskom odlukom ne utvrdi krivnja (članak 28. Ustava). Međutim, ovdje valja imati u vidu to, da je Ustav Republike Hrvatske u odredbi članka 50. stavka 2. propisao da se poduzetnička sloboda i vlasnička prava, (a ovdje je upravo riječ o vlasničkim pravima građanina koji ista ima na oružju i ispravama koje ga prate), mogu iznimno ograničiti zakonom radi zaštite interesa i sigurnosti Republike Hrvatske, prirode, ljudskog okoliša i zdravlja ljudi. Naime, propisujući takve uvjete u osporenim odredbama zakonodavac je, za slučaj njihova prestanka, imao u vidu sigurnost i zdravlje drugih ljudi i njihove imovine.
+Stoga je ovaj Sud utvrdio da osporenim odredbama, poglavito odredbama članaka 24., 47. i 49. osporenog Zakona, zakonodavac nije povrijedio odredbe Ustava koje podnositelj prijedloga navodi.
+11. Iz navedenih razloga, a na temelju odredbe članka 41. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (“Narodne novine”, broj 99/99), riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj:U-I-676/2000
+Zagreb, 25. listopada 2000.
