@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama ("Narodne novine", broj 76/93), a u svezi sa člankom 4. stavkom 5. Zakona o razminiranju ("Narodne novine", br. 19/96 i 86/98), Vlada Republike Hrvatske je na sjednici održanoj 12. studenoga 1998. godine, donijela
