@@ -1,0 +1,3 @@
+# Članak 63.
+Odjeljak raketnog naoružanja i opreme za spašavanje obavlja poslove vezane za povremene preglede lansirnih uređaja, popravak i zamjenu dijelova na njima. Odjeljak izvršavana hladne reglaže naoružanja i vatrene reglaže naoružanja. Obavlja povremene preglede na pilotskim sjedištima nadzvučnih i podzvučnih zrakoplova. Odjel izvršava radove sa eksplozivnim materijalima, piropatronama i punjenjima raketnih motora pilotskih sjedišta. Izvršava preglede paketa za preživljavanje i opreme za preživljavanje pilota, a nakon katapultiranja. Odjeljak izvršava biltene prema zahtjevima proizvođača opreme i letjelica. Izvršava intervencije na letjelicama po jedinicama.
+1.10. Odjeljak komandi mehanike i transmisije

@@ -1,0 +1,3 @@
+# Članak 346.
+Odsjek revijalnih izdanja obavlja poslove vezane za izradu glasila Ministarstva «Obrana» i mjesečnika «Hrvatski vojnik», redakcijski rad, prikupljanje i raščlambu vojnopolitičkih i vojnotehničkih informacija značajnih za izradu glasila, kontakt s postrojbama, novinarsko djelovanje u svim oblicima novinarskog izričaja (terenski i redakcijski rad) te rad foto-službe (snimanje na terenu, ustrojavanje i vođenje fotoarhiva i suradnja s drugim foto-službama poradi nabave slikovnog materijala). Odsjek obavlja suradnju s drugim ustrojbenim jedinicama Ministarstva obrane i Oružanih snaga te surađuje sa stranim vojnotehničkim časopisima i relevantnim stručnjacima za pojedina vojnotehnička područja.
+1.2. Odsjek knjižnih izdanja

@@ -1,0 +1,6 @@
+# Članak 379.
+Odjel projektiranja informacijskih sustava obavlja upravne i stručne poslove vezane za uspostavu jedinstvenog informacijskog sustava Ministarstva i Oružanih snaga. Odjel odgovara za raščlambu potreba informacijskog sustava pojedinih ustrojstvenih jedinica i priprema podloge za razvoj sustava, odobrava svaku promjenu informacijskog sustava, propisuje standardne softvere, platforme i alate za uporabu u Ministarstvu i Oružanim snagama, prati razvoj informacijske tehnologije i ocjenjuje njezinu prihvatljivost za primjenu u Ministarstvu i Oružanim snagama, planira nove informacijske sustave i razvija modele informacijskih sustava u Ministarstvu i Oružanim snagama, potiče istraživanja i razvoj informacijske tehnologije u Republici Hrvatskoj, usklađuje javne i državne informacijske sustave s potrebama Ministarstva i Oružanih snaga te potiče razvoj, planira i projektira informacijske sustave za potrebe Ministarstva i Oružanih snaga ili u tim poslovima sudjeluje.
+Za obavljanje poslova u Odjelu projektiranja informacijskih sustava ustrojavaju se sljedeći odsjeci:
+1.1. Odsjek planiranja, raščlambe i oblikovanja informacijskih sustava,
+1.2. Odsjek za opće, pravne i personalne poslove.
+1.1. Odsjek planiranja, raščlambe i oblikovanja informacijskih sustava

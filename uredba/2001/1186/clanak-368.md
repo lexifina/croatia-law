@@ -1,0 +1,3 @@
+# Članak 368.
+Odsjek za frekvencije i projektiranje radiokomuinkacijskih mreža odgovara za provjeru izgradnje javne radiokomunikacijske infrastrukture i usuglašavanje s potrebama Ministarstva i Oružanih snaga, odgovara za planiranje priključnih točaka za uključivanje bojnih radiokomunikacijskih sustava u opću komunikacijsku mrežu Ministarstva i Oružanih snaga, nadzire i koordinira topološko planiranje raspodjele frekvencijskog spektra s odgovornim tijelima državne uprave te priprema ili sudjeluje u pripremi i odobrava taktičko-tehničke značajke radiokomunikacijske opreme za nabavu i proizvodnju.
+3.2. Odsjek bojišničkih, radiokomunikacijskih, radarskih i senzorskih sustava

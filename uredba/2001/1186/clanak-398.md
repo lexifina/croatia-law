@@ -1,0 +1,3 @@
+# Članak 398.
+Odsjek kontrole kvalitete propisuje, upravlja i nadzire sustav kontrole kvalitete materijalnih sredstava u Ministarstvu i Oružanim snagama, koordinira provedbu postupaka davanja ovlasti laboratorijima, institucijama i pojedincima iz sastava Ministarstva i Oružanih snaga i civilnih institucija, za provedbu pojedinih ispitivanja, koordinira izradu normativne regulative, tehničkih i provedbenih naputaka, elaborata i ostale dokumentacije iz područja sustavne kontrole kvalitete, te surađuje s domaćim i stranim civilnim i vojnim institucijama koje se bave kontrolom kvalitete.
+3.2. Odsjek normizacije, mjeriteljstva i kodifikacije

@@ -1,0 +1,6 @@
+# Članak 90.
+Odjel konstrukcije obavlja poslove vezane za razvoj pojedinih sustava kao što su bespilotne letjelice, sustavi za vuču meta (kontejner, vučno uže, meta), sustavi za registraciju pogodaka pri gađanju: zrak - zrak (zrakoplovstvo); zemlja - zrak (topništvo i mornarica); zrak - zemlja (zrakoplovstvo), lanseri za VRZ rakete, opremanje vozila za posebne namjene, preuređenje standardne varijante helikoptera Mi-8 MTV-1 u salonsku varijantu VIP, preuređenje standardne varijante helikoptera Mi-8 MTV-1 u vatrogasnu varijantu sa ugradnjom sustava "Pelikan 2000" i "Fllorry 2600", preuređenje zrakoplova u tegljače za vuču meta, ugradnja elektroničke zrakoplovne opreme za instrumentalno letenje (IFR) zapadne proizvodnje Bendix/King u helikoptere Mi-8 MTV-1, ugradnja video opreme u helikopter H-306, ugradnja opreme za istraživanje minskih polja u helikopter Mi-8 MTV-1, radio - vođena maketa zrakoplova RVMZ s ugrađenim indikatorom pogodaka, uređaj za kočenje avionskih bombi VAB-250 K, zemaljska oprema (platforme, vjetrokazi, rude i dr.).
+Za obavljanje poslova u Odjelu konstrukcije ustrojavaju se sljedeći odsjeci:
+2.1. Projektno-strojarski odsjek,
+2.2. Odsjek elektro-konstrukcije.
+2.1. Projektno-strojarski odsjek

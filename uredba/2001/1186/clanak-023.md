@@ -1,0 +1,2 @@
+# Članak 23.
+Vojnostegovno tužiteljstvo u Pazinu progoni počinitelje stegovnih prijestupa koji obnašaju službu na području zbornog područja Oružanih snaga sa sjedištem u Pazinu, te je u svezi s tim dužno pokrenuti stegovni postupak kada za to postoje uvjeti i vršiti progon u tijeku postupka tako dugo dok ti uvjeti postoje, poduzimajući odgovarajuće radnje u skladu s odredbama Stegovnika oružanih snaga.

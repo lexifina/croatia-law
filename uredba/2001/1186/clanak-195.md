@@ -1,0 +1,4 @@
+# Članak 195.
+Odsjek medicinske i stomatološke zdravstvene zaštite izrađuje prijedloge naputaka, pravilnika i ostale regulative koja regulira i unapređuje stručni rad u primarnoj, specijalističkoj, specifičnoj i stomatološkoj zdravstvenoj djelatnosti, provodi stručni nadzor rada u navedenim djelatnostima, i predlaže mjere za poboljšanje stanja, provodi raščlambu rada i potrošnje po navedenim djelatnostima, vodi evidencije o zdravstvenim pokazateljima za pripadnike Oružanih snaga svih kategorija, daje prijedloge popune i opremanja zdravstvenih ustanova potrebnom opremom, zdravstvenim materijalom i kadrovima, donosi prijedloge naputaka pravilnika i ostale regulative vezane uz postupak ocjene zdravstvenog stanja, kontaktira sa stručnim službama Hrvatskog zavoda za zdravstveno osiguranje te stručno i znanstveno surađuje sa strukovnim ustanovama izvan Ministarstva.
+1.2. Odsjek preventivne zdravstvene zaštite i sanitarne
+inspekcije

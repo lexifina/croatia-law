@@ -1,0 +1,3 @@
+# Članak 409.
+Odsjek cestovnog prometa i transporta propisuje, razrađuje i sudjeluje u organizaciji sigurnosti vojnog cestovnog prometa, prati i predlaže mjere za upravljanje vojnim prometom i razrađuje postupke za sudjelovanje vojnih kolona i vozila u cestovnom prometu, surađuje sa Službom vojne policije i Ministarstvom unutarnjih poslova u svezi s nadzorom i regulacijom vojnog prometa, razrađuje i predlaže modele i propisuje uvjete korištenja prijevoznih sredstava za potrebe Oružanih snaga, organizira transport za potrebe Oružanih snaga iz i u inozemstvo te prati stanje popunjenosti i sudjeluje u planiranju popune Oružanih snaga sredstvima iz nadležnosti prometne struke.
+2.2. Odsjek rješavanja šteta u prometu i registracija

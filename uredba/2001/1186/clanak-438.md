@@ -1,0 +1,3 @@
+# Članak 438.
+Odsjek kontrole kvalitete i laboratorijskih ispitivanja organizira i provodi laboratorijska ispitivanja dijelova ubojitih sredstava, sustavno prati kvalitativno stanje baruta, formira kolekcije baruta i prikuplja uzorke, formira laboratorije za ispitivanje stabilnosti baruta te formira baze podataka o barutima i ubojitih sredstava po svim značajkamaorganizira, nadzire kvalitativno stanje sredstva opskrbne i zdravstvene struke prilikom prijema u Ministarstvo i oružane snage sukladno definiranim ugovorima i kriterijima o kvaliteti, prati kvalitativno stanje uskladištenih sredstava, te predlaže poduzimanje mjera u cilju unaprijeđivanja sustava kontrole kvaliete sredstava opskrbne i zdravstvene struke.
+4. Odjel mješovitog skladištenja

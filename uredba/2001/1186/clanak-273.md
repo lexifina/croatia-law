@@ -1,0 +1,3 @@
+# Članak 273.
+Odsjek tehničke potpore obavlja poslove kvartalnog i godišnjeg planiranja temeljnog održavanja, priprema dokumentaciju i planove za preventivno i temeljno održavanje, nadzire rad energetskih postrojenja i izvođenja građevinskih radova, održava ispravnost elektro, telefonskih, vodovodnih i komunalnih instalacija, izvodi građevinske i instalaterske radove na temeljnom održavanju građevinskih i drugih objekata odjela, provodi protupožarnu zaštitu i zaštitu na radu objekata i imovine, obavlja poslove organiziranja i izvršavanja prijevoza roba i djelatnika te organizira i nadzire rad na informacijskom i telekomunikacijskom sustavu.
+6.5. Odsjek domova Oružanih snaga

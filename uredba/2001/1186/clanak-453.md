@@ -1,0 +1,3 @@
+# Članak 453.
+Odsjek financijskog knjigovodstva organizira i provodi knjiženje u poslovne knjige na temelju isprava financijskog poslovanja i obračuna plaća i drugih beriva, radi utvrđivanja stanja i kretanja financijskih pokazatelja po nositeljima i namjenama, obavlja usklađivanje podataka iz poslovnih knjiga s dobavljačima i kupcima, izrađuje mjesečna, kvartalna, polugodišnja i godišnja financijska izvješća i dostavlja ih Službi za proizvodnju, kao i ostalim ustrojstvenim jedinicama, prezentira polugodišnja i godišnja financijska izvješća Državnom uredu za reviziju, Ministarstvu financija i Zavodu za platni promet, utvrđuje i evidentira vlastite prihode Ministarstva obrane te organizira rad pismohrane Financijske službe.
+5.2. Odsjek materijalnog knjigovodstva

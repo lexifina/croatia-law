@@ -1,0 +1,7 @@
+# Članak 364.
+Odjel telekomunikacijskih mreža odgovara za interoperabilnost telekomunikacijskih mreža s javnim i privatnim komunikacijskim mrežama u Republici Hrvatskoj, kao i za nadzor i odobravanje projekta izgradnje javnih i privatnih telekomunikacijskih mreža i infrastrukture od interesa za Ministarstvo i Oružane snage, prati razvoj telekomunikacijskih sustava i procjenjuje mogućnosti njihove primjene u Ministarstvu i Oružanim snagama, planira primjenu i uvođenje novih telekomunikacijskih normi i tehnologija u sustave Ministarstva i Oružanih snaga, planira izgradnju priključnih točaka bojnih sustava u javnu mrežu, planira kapacitete javnih i privatnih komunikacijskih sustava od interesa za Ministarstvo i Oružane snage, priprema i objavljuje norme telekomunikacijskih standarda, koordinira razvoj komunikacijske mreže Ministarstva i Oružanih snaga s komunikacijskim mrežama ostalih tijela državne uprave, priprema i objavljuje jedinstvene numeracije, adresiranja i identifikacije korisnika telekomunikacijskih mreža, priprema ili sudjeluje u pripremi i provjerava taktičko-tehničke značajke telekomunikacijske opreme za nabavu i proizvodnju, planira održavanje postojećih telekomunikacijskih mreža te planira potrebe obuke i programe obuke djelatnika.
+Za obavljanje poslova u Odjelu telekomunikacijskih mreža ustrojavaju se sljedeći odsjeci:
+2.1. Odsjek za strategijsko planiranje stacionarnih i bojišničkih sustava,
+2.2. Odsjek za izgradnju telekomunikacijskih sustava.
+2.1. Odsjek za strategijsko planiranje stacionarnih i
+bojišničkih sustava

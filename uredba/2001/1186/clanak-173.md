@@ -1,0 +1,3 @@
+# Članak 173.
+Odsjek civilne izobrazbe organizira provedbu svih školovanja djelatnika na civilnim školama i učilištima, utvrđuje potrebe za specijalističkim usavršavanjem i prekvalifikacijama te ostalim oblicima školovanja, prikuplja i objedinjava potrebe za civilnom izobrazbom, utvrđuje mogućnosti i kapacitete sukladno raspoloživim resursima, izrađuje ugovore s pravnim osobama i pojedinačne ugovore s djelatnicima koji se upućuju na civilnu izobrazbu, sudjeluje u izradi kriterija i vrši odabir za sve vrste civilne izobrazbe, sudjeluje u organizaciji školovanja vojnih stipendista, financijski prati sve oblike izobrazbe te izrađuje raščlambe i izvješća.
+6.3. Odsjek međunarodne izobrazbe

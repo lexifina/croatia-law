@@ -1,0 +1,3 @@
+# Članak 294.
+Odsjek planiranja i ugovaranja izvršava poslove izrade godišnjih i višegodišnjih fizičkih, financijskih i drugih planova djelatnosti, odobrava i usklađuje planove svih područnih odjela i planova inženjerijske potpore, vodi skrb o realizaciji planova, izrađuje analize potrebne za donošenje odluka o ulaganjima i izvršavanjima zadaća, prati izvršenje fizičkih i drugih obveza, kontrolira ugovore predložene od drugih odjela glede pravne i gospodarske zakonitosti, vodi evidenciju o svim predloženim i potpisanim ugovorima, vodi evidenciju realizacije svih računa te vodi evidenciju drugih obveza Službe.
+1.2. Odsjek katastra, arhiva i primopredaje nekretnina

@@ -1,0 +1,3 @@
+# Članak 147.
+Odjel međunarodne verifikacije je ustrojstvena jedinica u sastavu Službe za nadzor naoružanja iz čijeg se sastava popunjavaju ustrojstvena mjesta predviđena za hrvatske časnike i dočasnike u Regionalnom središtu za pomoć u provedbi nadzora naoružanja i verifikaciji (RACVIAC). Popuna se vrši sukladno odlukama Međunarodne savjetodavne skupine. Odjel međunarodne verifikacije sudjeluje u organizciji i provedbi obuke za potrebe časnika i dočasnika koji se bave kontrolom naoružanja i koji će raditi na provedbi sporazuma i ugovora vezanih za problematiku kontrole naoružanja.
+d) Služba za NATO / PfP

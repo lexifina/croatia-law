@@ -1,0 +1,3 @@
+# Članak 18.
+Vojnostegovni sud u Splitu sudi u prvom stupnju djelatnim vojnim osobama, pričuvnim časnicima i pričuvnim dočasnicima, te službenicima i namještenicima koji obnašaju službu na području zbornih područja Oružanih snaga sa sjedištem u Kninu i Stonu za počinjene stegovne prijestupe, odlučuje o žalbama tih osoba na izrečene stegovne mjere smanjenja plaće, odlučuje o žalbama protiv rješenja o udaljenju iz službe te raspravlja i odlučuje o odgovornosti vojnih osoba za kaznena djela o kojima se prema odredbama kaznenog zakona može odlučivati u stegovnom postupku.
+5. Vojnostegovni sud u Pazinu

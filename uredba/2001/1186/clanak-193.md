@@ -1,0 +1,6 @@
+# Članak 193.
+Zdravstvena služba je ustrojstvena jedinica u sastavu Uprave za ljudske resurse koja obavlja upravne i druge stručne poslove vezane za: preventivnu i kurativnu zdravstvenu zaštitu ročnika, pričuvnika, kao i djelatnih pripadnika Ministarstva i Oružanih snaga, kroz: planiranje, organizaciju i stručni nadzor nad provedbom rada svih oblika zdravstvene zaštite u cjelini, usmjeravanje i praćenje daljnjeg razvoja struke u skladu sa znanstvenim spoznajama, pozitivnim propisima i iskustvima drugih vojski, suradnju u znanstvenom radu i edukaciji zdravstvenih djelatnika svih profila, surađuje s Ministarstvom zdravstva, sveučilištima i svim ostalim civilnim zdravstvenim i znanstvenim ustanovama, planira i koordinira nabavu zdravstvenih i veterinarskih sredstava za potrebe Ministarstva i Oružanih snaga, izrađuje programe i planove financiranja, prati realizaciju i potrošnju odobrenih sredstava u području zdravstva, provodi veterinarsko sanitarni nadzor, skrbi o službenim životinjama te provodi medicinska vještačenja uz vođenje upravnog postupka.
+Za obavljanje poslova Zdravstvene službe ustanovljavaju se sljedeće unutarnje ustrojstvene jedinice:
+1. Odjel zdravstvene zaštite,
+2. Odjel potpore zdravstvene struke,
+1. Odjel zdravstvene zaštite

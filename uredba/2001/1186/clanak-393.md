@@ -1,0 +1,3 @@
+# Članak 393.
+Odsjek razvoja politika i procedura projektira i propisuje procedure i postupke za procese logističkog sustava, razvija modele za provjeru djelotvornost procesa logističkog sustava, razvija organizacijske oblike i procedure u sustavu logističkog zbrinjavanja prema standardima NATO-a i modele za provjeru djelotvornosti sustava logistike, daje temeljne odrednice za planiranje strategije i politike razvoja logističkog sustava, sudjeluje u izradi novih zakonskih i podzakonskih propisa značajnih za područje opremanja, te programira profesionalno usavršavanje za potrebe logističkog sustava usklađujući provedbu usavršavanja s Personalnom službom.
+2. Odjel vojne proizvodnje

@@ -1,0 +1,3 @@
+# Članak 59.
+Odjeljak kisik-agregata, letačke i protupožarne opreme obavlja poslove vezane za remont zrakoplovnih kisik-agregata, letačke opreme i agregata protupožarne opreme civilnih i vojnih zrakoplova, remont kisik boca, popravak, podešavanje i ispitivanje agregata kisik-opreme i protupožarne opreme i agregata letačke opreme, izvođenje biltena po zahtjevima proizvođača, konzervaciju i razradu agregata, remont i ispitivanje protupožarnih boca, remont sklopa glava i ventila boca, remont i ispitivanje boca zrakoplova i helikoptera te punjenje, vaganje i ispitivanje boca zrakoplova i helikoptera.
+1.6. Odjeljak za stajni trap

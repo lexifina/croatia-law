@@ -1,0 +1,3 @@
+# Članak 327.
+Odsjek općih poslova, evidencije i informatičke potpore prima stranke za načelnika Službe, organizira sastanke za načelnika Službe, obavlja poslove logističkog zbrinjavanja Službe, obavlja personalne poslove za potrebe Službe te usklađuje poslove prijama, rasporeda i otpreme pošte. Odsjek brine o stanju svih komponenti informacijskog sustava Službe, izrađuje i vodi brigu o stanju programskih sustava te priprema i izrađuje izvješća. Odsjek vodi evidenciju svih korisnika stanova i garaža, provodi izmjene u evidenciji na temelju zapisnika o pregledu stanova i garaža te vodi poslove vezane za arhiviranje svih akata o korištenju stanova i garaža u skladu s propisima o čuvanju arhivske građe.
+5.2. Područni odsjek za stambene poslove Osijek

@@ -1,0 +1,3 @@
+# Članak 310.
+Odjel za ekshumacije obavlja poslove ekshumacije poginulih hrvatskih branitelja i civilnih osoba stradalih u Domovinskom ratu, prijevoza ekshumiranih tijela do sudske medicina, odnosno mjesta ukopa stradalnika. Odjel za ekshumacije planira svoje djelatnosti u koordinaciji s Komisijom Vlade Republike Hrvatske za zatočene i nestale, uspostavlja odnos između rodbine i obitelji stradalnika i tima sudske medicine, te skrbi o njima. Odjel za ekshumacije surađuje s Komisijom Vlade Republike Hrvatske za zatočene i nestale, Ministarstvom unutarnjih poslova, Ministarstvom pravosuđa, uprave i lokalne samouprave, europskim promatračima i tijelima civilne uprave kod rada na terenu.
+e) Služba za stambene poslove

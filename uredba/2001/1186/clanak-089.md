@@ -1,0 +1,3 @@
+# Članak 89.
+Odjel inženjeringa obavlja poslove vezane za prikupljanje i praćenje podataka o zrakoplovima i ostalim letjelicama, o opremi letjelica, naoružanju, mjernoj, ispitnoj i zemaljskoj opremi, alatima, dijelovima, cijenama i standarda iz područja avijacije, projektiranje kapaciteta za servisiranje i popravak letjelica, njihovih uređaja i opreme, izradu projekata za izvođenje modifikacija te modernizaciju i opremanje letjelica i vođenje biblioteke s kompjutorskim praćenjem i obradom bibliotečnih jedinica. Utvrđuje strategiju i metodologiju planiranja održavanja - remonta zrakoplova i helikoptera i izrađuje algoritme za upravljanje (nadzor) tijeka remonta letjelica pomoću računala.
+2. Odjel konstrukcije

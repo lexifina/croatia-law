@@ -1,0 +1,3 @@
+# Članak 477.
+Odsjek nadzora, obračuna plaća, proračuna i informatike obavlja nadzor isprava, vrši obračun plaća za obračun plaća financijsko materijalnog poslovanja, te prati realizaciju proračuna i obavlja potrebne raščlambe (po mjestu troška, vremenu i vrsti) za ustrojstvene cjeline koje su na financijskom osiguranju u odjelu financija, obavlja poslove programiranja, održavanja lokalne mreže, osigurava rad korisnika informacijskog sustava u Odjelu, vodi propisane evidencije uredskog poslovanja za Odjel, obavlja prijepis i umnožavanje isprava za potrebe Odjela te prima i otprema poštu.
+13.2. Odsjek knjigovodstva

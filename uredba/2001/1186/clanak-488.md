@@ -1,0 +1,5 @@
+# Članak 488.
+Zamjenik ministra odgovoran je za svoj rad ministru i Vladi Republike Hrvatske.
+Tajnik Ministarstva, pomoćnici ministra, glavni inspektor obrane, načelnik Pravne službe, ravnatelj Instituta za obrambene studije, istraživanja i razvoj i ravnatelj Zrakoplovno-tehničkog zavoda odgovorni su za svoj rad ministru.
+Čelnici ustrojstvenih jedinica u sastavu Tajništva odgovorni su za svoj rad tajniku Ministarstva i ministru. Čelnici ustrojstvenih jedinica u sastavu Glavnog inspektorata obrane odgovorni su za svoj rad glavnom inspektoru obrane i ministru. Čelnici ustrojstvenih jedinica u sastavu Instituta za obrambene studije, istraživanja i razvoj odgovorni su za svoj rad ravnatelju Instituta i ministru. Čelnici ustrojstvenih jedinica u sastavu Zrakoplovno-tehničkog zavoda odgovorni su za svoj rad ravnatelju i ministru.
+Čelnici ustrojstvenih jedinica u sastavu uprava za svoj rad odgovaraju ministru, pomoćniku ministra i čelnicima unutarnjih ustrojstvenih jedinica u čijem se sastavu nalaze.

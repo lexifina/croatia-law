@@ -1,0 +1,3 @@
+# Članak 146.
+Odjel provedbe ugovora obavlja upravne i stručne poslove vezane za: planiranje i provođenje inspekcija sukladno međunarodnim vojnim sporazumima, obavljanje poslova u svezi s prihvatom inspekcija koje dolaze u Republiku Hrvatsku, sudjelovanje u provedbi redukcijskih zadaća, priprema Oružane snage za provedbu sporazuma o nadzoru naoružanja te izvješćuje o obavljenim zadaćama i zapažanjima; nositelj je suradnje s civilnim institucijama po pitanjima provedbe ugovora o kontroli naoružanja, definira obveze oružanih snaga u okviru ukupnih obveza Republike Hrvatske po pitanjima ugovora o kontroli naoružanja te aktivno prati međunarodne procese u oblasti kontrole naoružanja.
+3. Odjel međunarodne verifikacije

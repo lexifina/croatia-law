@@ -1,0 +1,3 @@
+# Članak 172.
+Odsjek vojne izobrazbe organizira provedbu priprave naraštaja vojne izobrazbe na vojnim učilištima, sudjeluje u postupku prikupljanja podataka o potrebama za školovanje, nadzire postupak upravljanja, selekcije i zdravstvenih pregleda, utvrđuje polaznike izobrazbe te ih upućuje u vojne škole, sudjeluje u utvrđivanju i unapređenju kriterija i mjerila odabira za vojnu izobrazbu, prikuplja i objedinjava potrebe za vojnom izobrazbom, utvrđuje mogućnosti i kapacitete sukladno raspoloživim resursima, izrađuje ugovore s pravnim osobama i pojedinačne ugovore s djelatnicima koji se upućuju na vojnu izobrazbu, te sudjeluje u izradi kriterija i vrši odabir za sve vrste vojne izobrazbe.
+6.2. Odsjek civilne izobrazbe

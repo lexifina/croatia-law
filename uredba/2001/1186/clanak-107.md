@@ -1,0 +1,3 @@
+# Članak 107.
+Odjeljak elektro-rotacionih i linearnih električnih uređaja vrši popravak, ispitivanje i podešavanje sljedećih uređaja zrakoplovne elektro-opreme: generatora, pretvarača, kontaktora, releja, regulatora temperature, automata startanja, regulatora napona, signalizatora ozračenosti, signalnih tabli, električnog osvjetljenja, pojačala, ventilatora i ostale elektro- opreme. Odjeljak po potrebi vrši remont navedenih uređaja, produženje resursa i izvođenje radova po biltenima proizvođača kao i povremene preglede elektro-opreme na nadzvučnim borbenim, dozvučnim borbenim, transportnim i civilnim letjelicama.
+2.6. Odjeljak za elektro i koaksijalnu instalaciju

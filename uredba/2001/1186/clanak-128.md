@@ -1,0 +1,3 @@
+# Članak 128.
+Odsjek strategijskog i razvojnog planiranja izrađuje prijedloge metodologije i temeljnih dokumenata obrambenog planiranja, sudjeluje u pripremanju prijedloga dokumenata strategijskog planiranja, osigurava usklađenost prijedloga obrambenog planiranja iz nadležnosti Ministarstva s politikom Vlade Republike Hrvatske, prati trendove razvoja obrambenog planiranja u razvijenim demokratskim državama, procjenjuje njihovu relevantnost za unapređivanje koncepta obrambenog planiranja Republike Hrvatske te predlaže odgovarajuća prilagođavanja hrvatskih rješenja, surađuje s akademskim institucijama, nevladinim organizacijama i medijima u cilju poticanja i razvoja civilne nacionalne ekspertize na području obrambenog planiranja.
+1.3. Odsjek raščlambe i prosudbi

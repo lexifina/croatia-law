@@ -1,0 +1,3 @@
+# Članak 205.
+Odsjek općih poslova i poslova kontrole obavlja poslove vezane za zaprimanje, urudžbiranje, razvrstavanje i dostave ulazne pošte, otpreme izlazne pošte i arhiviranje, izradu prijepisa i umnožavanja materijala, obavlja poslove nadzora nad zakonitošću rada kantina, restorana i hotela, autokampova i drugih ustrojstvenih jedinica Službe. Odjel kontrole obavlja i poslove nadzora zdravstvene ispravnosti živežnih namirnica, mesa, mesnih prerađevina i drugih proizvoda u ustrojstvenim jedinicama te predlaže mjere za otklanjanje nezakonitosti i nepravilnosti u radu.
+c) Služba za gospodarenje nekretninama

@@ -1,0 +1,3 @@
+# Članak 11.
+Odjeljak urudžbiranja, prijama i otpreme pošte obavlja poslove vezane za primitak, otpremu i uručenje svih pošiljaka Ministarstva, vodi brigu o zaštiti tajnosti pošiljaka, surađuje s poštanskim centrima Hrvatske pošte, putem radioskopa vrši protueksplozijsku kontrolu pošiljaka i surađuje s ustrojstvenom jedinicom za otpremu pošte u Glavnom stožeru, obavlja poslove urudžbiranja, vodi propisane evidencije svih pečata s grbom Republike Hrvatske u Ministarstvu i evidenciju svih osoba ovlaštenih za potpis, brine o nabavi osnovnih sredstva i potrošnog materijala, vodi upisnike za službe Ministarstva koji su mu povjereni, obavlja slanje i primanje pošte putem telefaksa te pripravlja riješene spise za arhiviranje.
+2.2. Odjeljak vanjske i unutarnje dostave pošiljaka

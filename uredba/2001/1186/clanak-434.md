@@ -1,0 +1,3 @@
+# Članak 434.
+Odsjek nebojnih tehničkih sredstava nadzire kakvoću nebojnih sredstava za potrebe Oružanih snaga, organizira i operacionalizira kvantitativni i kvalitativni prijem nebojnih tehničkih sredstava, formira tehničku dokumentaciju nebojnih tehničkih sredstava po tehničkim značajkama, formira bazu podataka za zaprimljena nebojna tehnička sredstva, prati podatke o nebojnim tehničkim sredstvima na uporabi u Oružanim snagama u uvjetima eksploatacije, te obavlja materijalnu potporu nebojnih tehničkih sredstava koja se uvoze za potrebe Oružanih snaga.
+2.3. Odsjek opskrbnih i zdravstvenih sredstava

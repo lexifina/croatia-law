@@ -1,0 +1,3 @@
+# Članak 91.
+Projektno-strojarski odsjek projektira, proračunava i izrađuje strojarsku i aerodinamičku konstrukcijsku dokumentaciju za održavanje zrakoplova i helikoptera obavljajući poslove projektiranja ispitnih uređaja, alata, naprava i zemaljske opreme, projektiranja sustava za gađanje, projektiranje, preuređenje i modifikaciju na zrakoplovima i helikopterima (preuređenje transportnog helikoptera u salonsku varijantu, ugradnja NAV/COM opreme, ugradnja sustava za izbacivanje IC mamaca), projektiranje i izradu konstrukcijske dokumentacije za bespilotne letjelice te projektiranje i modifikacija na specijalnim vozilima za potrebe Oružanih snaga.
+2.2. Odsjek elektro-konstrukcije

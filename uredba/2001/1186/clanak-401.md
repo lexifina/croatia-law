@@ -1,0 +1,7 @@
+# Članak 401.
+Služba struka logistike je ustrojstvena jedinica u sastavu Uprave za opremanje i nabavu koja obavlja upravne i stručne poslove vezane za funkcioniranje sustava logističkog zbrinjavanja u dijelu opskrbe, održavanja tvarnih sredstava, transporta ljudi i sredstava, prehrane i uslužnih djelatnosti. Služba struka logistike organizira i nadzire prijam materijalnih sredstava u sustav, prati rad i po potrebi obavlja upravni nadzor funkcija logistike Glavnog stožera i pravilnosti utroška sredstava, integrira podatke o mogućnostima gospodarstva za potrebe logističkog zbrinjavanja, sudjeluje u izradi shema logističkog zbrinjavanja, sudjeluje u izradi pravila struka i uputa za pojedine dijelove sustava logističkog zbrinjavanja, definira smjernice profesionalnog usavršavanja u sustavu logističkog zbrinjavanja i usklađuje provedbu s Personalnom službom, definira i određuje smjernice i kriterije za izgradnju infrastrukture za potrebe logističkog zbrinjavanja iz svoje nadležnosti i usklađuje provedbu s Upravom za gospodarenje, sudjeluje u izradi i odobravanju planova generalnog remonta materijalnih sredstava Oružanih snaga te sudjeluje u poslovima katalogizacije i kodifikacije sredstava na uporabi u Oružanim snagama.
+Za obavljanje poslova Službe struka logistike ustrojavaju se sljedeći odjeli:
+1. Odjel tehničke struke,
+2. Odjel prometne struke,
+3. Odjel opskrbne struke.
+1. Odjel tehničke struke

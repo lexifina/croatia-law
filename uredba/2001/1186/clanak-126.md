@@ -1,0 +1,7 @@
+# Članak 126.
+Odjel obrambenog planiranja obavlja upravne i stručne poslove vezane za: objedinjavanje djelatnosti vezanih za usklađivanje izrade svih dokumenata obrambenog planiranja, razvija prijedloge strategijskih rješenja na području obrane koja, prema procjenama sigurnosnih uvjeta i raspoloživih resursa, mogu zadovoljiti sigurnosne potrebe Republike Hrvatske, osigurava usklađenost strategijskih rješenja na području obrane s državnom politikom, programskim opredjeljenjima Vlade Republike Hrvatske te s raspoloživim resursima, sagledava konceptualna rješenja u Republici Hrvatskoj sa stajališta usklađenosti s rješenjima i trendovima u drugim demokratskim državama te najvažnijim međunarodnim sigurnosnim/obrambenim organizacijama, prati implementaciju dokumenata obrambenog planiranja kroz ustrojbene cjeline Ministarstva obrane te sukladno promjenama relevantnih unutarnjih i vanjskih čimbenika, predlaže kvalitetno poboljšanje i ažuriranje postojećih rješenja, sudjeluje u vrednovanju implementacije načela i odredbi strategijskih dokumenata i periodičnih obrambenih pregleda, osigurava osnove za potporu razvoju civilne ekspertize na području obrambenog planiranja strategijske razine. Obavlja sve poslove potpore (opće poslove) za potrebe Službe.
+Za obavljanje poslova u Odjelu ustrojavaju se sljedeći odsjeci:
+1.1. Odsjek potpore,
+1.2. Odsjek strategijskog i razvojnog planiranja,
+1.3. Odsjek raščlambe i prosudbi.
+1.1. Odsjek potpore

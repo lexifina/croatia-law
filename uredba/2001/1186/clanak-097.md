@@ -1,0 +1,3 @@
+# Članak 97.
+Ispitni odjel vrši propisivanje, pripremu i provedbu ispitivanja za potrebe razvoja i završna ispitivanja: zrakoplovne opreme (sustavi za registraciju pogodaka, novoizrađeni lanseri raketa, pomoćna sredstva za helikopterske desante, zemaljska oprema sa povećanim zahtjevima), zrakoplovnog naoružanja (bojeve bombe sa kočionim uređajem, vježbovna ubojna sredstva, vježbovna ubojna sredstva sa kočionim uređajem, modificirane rakete), zrakoplovnih sredstava (bespilotne letjelice) te ispitnih uređaja. Odjel obavlja i poslove mjerenja sila i ostalih parametara tijekom leta zrakoplova ili sredstva.
+e) Služba kontrole

@@ -1,0 +1,3 @@
+# Članak 461.
+Odsjek nadzora, proračuna i informatike obavlja nadzor isprava za obračun plaća, financijskog i materijalnog poslovanja te prati realizaciju proračuna i obavlja potrebne raščlambe (po mjestu troška, vremenu i vrsti) za ustrojstvene cjeline koje su na financijskom osiguranju u Područnom odjelu financija, obavlja poslove programiranja, održavanja lokalne mreže, osigurava rad korisnika informacijskog sustava u Područnom odjelu, vodi propisane evidencije uredskog poslovanja za Područni odjel, obavlja prijepis i umnožavanje isprava za potrebe Područnog odjela te prima i otprema poštu.
+7.2. Odsjek knjigovodstva

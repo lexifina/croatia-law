@@ -1,0 +1,3 @@
+# Članak 127.
+Odsjek potpore vodi personalnu evidenciju i brigu o realizaciji prava iz radnog odnosa djelatnika Službe; uređuje i vodi administrativne poslove u Službi; vodi pismohranu Službe; izrađuje prijedlog financijskog plana Službe i skrbi o nabavi; osigurava ekspertnu informatičku potporu i održavanje računalne opreme; opskrbljuje sve ustrojbene cjeline pripadajućim materijalno-tehničkim sredstvima i potrošnim materijalom; održava raspoloživu opremu i uređaje te brine o njihovoj ispravnosti, servisiranju i zanavljanju; organizira službeni prijevoz za potrebe načelnika i djelatnika Službe te provodi inventuru materijalno-tehničkih sredstava, osigurava čišćenje i održavanje radnih prostorija.
+1.2. Odsjek strategijskog i razvojnog planiranja

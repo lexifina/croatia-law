@@ -1,0 +1,3 @@
+# Članak 422.
+Odsjek ugovaranja i nabave informatičkih, telekomunikacijskih i elektroničkih roba i usluga obavlja upravne i stručne poslove koji se odnose na ugovaranje nabave roba i usluga informatičke struke i telekomunikacija za potrebe Ministarstva i Oružanih snaga na domaćem tržištu, praćenje ponude i potražnje za robama i uslugama iz svoje nadležnosti na domaćem tržištu, te pružanje potrebitih podataka Odjelu ugovaranja infrastrukture, graditeljstva i prodaje, tehničkim nositeljima i nabavnim organima u postrojbama.
+2.3. Odsjek ugovaranja i nabave roba i usluga opskrbne i zdravstvene struke

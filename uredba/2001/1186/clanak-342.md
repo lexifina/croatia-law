@@ -1,0 +1,3 @@
+# Članak 342.
+Odsjek psihologijske selekcije, klasifikacije i psihometrije priprema strukovne psihometrijske naputke, nabavlja i raspodjeljuje postojeće psihologijske instrumente te upravlja projektima izradbe novih psihologijskih instrumenata; također obavlja strukovni nadzor i ostale poslove vezane za provedbu redovitih i izvanrednih psihologijskih pregleda, za organizaciju psihologijske selekcije i klasifikacije djelatnog sastava, za organizaciju raščlambe poslova, za izravnu provedbu selekcije i klasifikacije za pojedine dužnosti s posebnim zahtjevima, te za selekciju kandidata za sve oblike vojne izobrazbe.
+5. Odjel za koordinaciju

@@ -1,0 +1,7 @@
+# Članak 74.
+Služba proizvodnje obavlja poslove koji se odnose na konstrukcijsko-tehnološku razradu, pripremu i izradu (popravak) pričuvnih dijelova, specijalnih alata i uređaja, zemaljske opreme za opsluživanje i potrebe remonta zrakoplova i druge tehnike, usvajanje izrade i homologaciju izrađenih proizvoda prema zrakoplovno-tehničkim standardima i normama u zrakoplovstvu, generalni remont radara i regeneraciju pojedinih sklopova i dijelova, kao i izradu specijalnih alata i opreme za potrebe brigade ZMIN, modifikaciju raznih vrsta vozila za potrebe Oružanih snaga (mala zapovjedna vozila veze, te vozila za specijalne namjene), izradu proizvoda razvojnih programa kao što su: bespilotne letjelice, kontejner za vučene mete, uređaji za registraciju pogodaka, modifikacija helikoptera u salonsku verziju, izrada instrument ploča zrakoplova, padobranskih avio bombi i dr., ispitivanje i popravak vedara FLORY, te pružanje usluga izrade i obrade vanjskim naručiteljima. U sklopu Službe proizvodnje usvojene su i zastupljene tehnologije: tokarenje, glodanje, brušenje, valjanje navoja, graviranje, specijalna zavarivanja, REL i CO˛ zavarivanje, toplinska obrada materijala zrakoplovne kvalitete, vulkanizacija gumenih proizvoda, štancanje, sječenje, rezanje, blanjanje, spajanje i izrada gipkih crijeva zrakoplova te zaštita metala galvanskim i kemijskim prevlakama.
+Za obavljanje poslova Službe proizvodnje ustrojavaju se sljedeći odjeli:
+1. Odjel pripreme proizvodnje,
+2. Odjel strojne obrade,
+3. Odjel bravarije i galvanizacije.
+1. Odjel pripreme proizvodnje

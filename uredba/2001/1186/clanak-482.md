@@ -1,0 +1,6 @@
+# Članak 482.
+Služba za proračun je ustrojstvena jedinica u sastavu Uprave za financije i proračun koja obavlja upravne i stručne poslove vezane za: izradu proračuna Ministarstva, raspoređivanje utvrđenih novčanih sredstava po namjenama i nositeljima i za tekuću pričuvu, davanje suglasnosti na akte koji imaju za posljedicu financijske obveze, utvrđivanje zakonitosti uporabe i raspolaganja sredstava u Ministarstvu i Oružanim snagama, obavljanje nadzora i revizije financijsko-materijalnog poslovanja, praćenje realizacije financijskog plana i pripremu izvješća i prijedloga rebalansa, izvješćivanje o ostvarenim i utrošenim novčanim sredstvima proračuna Ministarstva, obavljanje raščlambe godišnjeg financijskog izvješća o izvršenju financijskog plana, sudjelovanje u izradi propisa o financijsko-materijalnom poslovanju, razvijanje sustava planiranja, obračuna plaća i financijskih tijekova, razmjenu računovodstvenih informacija s drugim ustrojstvenim jedinicama te za obavljanje stručnih raščlambi iz područja financijsko-materijalnog poslovanja na zahtjev internih i eksternih subjekata.
+Za obavljanje poslova Službe za proračun ustrojavaju se sljedeći odjeli:
+1. Odjel proračuna i raščlambe,
+2. Odjel nadzora proračuna i informatičke potpore.
+1. Odjel proračuna i raščlambe

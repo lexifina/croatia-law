@@ -1,0 +1,3 @@
+# Članak 363.
+Odjel za opće, pravne, financijske poslove i informatičku potporu obavlja personalne i pravne poslove za potrebe službe, prima stranke za načelnika Službe, organizira sastanke za načelnika Službe, obavlja poslove logističkog zbrinjavanja Službe, te usklađuje poslove prijama, rasporeda, otpreme pošte i evidencije, obavlja projektiranje, uvođenje i unapređenje djelovanja informatičkih sustava, te obavlja poslove informatičkog osposobljavanja i usavršavanja korisnika informatičkog sustava. poslove i praćenje obračuna troškova poslovanja. Prikuplja, sređuje, evidentira i izrađuje planove iz financijsko-računovodstvenog područja.
+2. Odjel telekomunikacijskih mreža

@@ -1,0 +1,3 @@
+# Članak 365.
+Odsjek za strategijsko planiranje stacionarnih i bojišničkih sustava osigurava interoperabilnost telekomunikacijskih mreža s javnim i privatnim komunikacijskim mrežama u zemlji, planira izgradnje priključnih točaka bojnih sustava u javnu mrežu, planira kapacitete javnih i privatnih komunikacijskih sustava od interesa za Ministarstvo i Oružane snage, planira primjene i uvođenje novih telekomunikacijskih normi i tehnologija u sustave Ministarstva i Oružanih snaga, planira održavanje postojećih telekomunikacijskih mreža te planira potrebe obuke i programe obuke djelatnika.
+2.2. Odsjek za izgradnju telekomunikacijskih sustava

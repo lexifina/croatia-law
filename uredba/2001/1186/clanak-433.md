@@ -1,0 +1,3 @@
+# Članak 433.
+Odsjek bojnih tehničkih sredstava nadzire kakvoću bojnih sredstava iz domaće proizvodnje za potrebe Oružanih snaga, organizira i operacionalizira kvantitativno i kvalitativno primanje bojnih sredstava, formira tehničku dokumentaciju bojnih sredstava po tehničkim značajkama, formira bazu podataka za zaprimljena bojna sredstva, prati podatke o bojnim sredstvima na uporabi u Oružanim snagama u uvjetima eksploatacije, predaje bojna sredstva na remont izvan Oružanih snaga, te materijalno zbrinjava bojne sustave koji se uvoze za potrebe Oružanih snaga.
+2.2. Odsjek nebojnih tehničkih sredstava

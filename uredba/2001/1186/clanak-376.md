@@ -1,0 +1,3 @@
+# Članak 376.
+Odsjek zaštite komunikacijskih mreža oblikuje, testira, primjenjuje, nadograđuje algoritme i postupke za specijalne i opće namjenske uređaje za kriptozaštitu, na temelju taktičkih zahtjeva definira tehničke značajke za nabavu i razvoj algoritama i postupaka. Odsjek sudjeluje u oblikovanju komunikacijske mreže, planira i projektira topologiju zaštitne mreže, planira i projektira zaštitu, određuje razinu zaštite u komunikacijskoj mreži u ovisnosti o situaciji, planira vježbe za provjeru zaštite te vodi računa o kompatibilnosti i interoperabilnosti zaštitne mreže sa sličnim ili istim sustavima NATO-a, kao i svjetskim dostignućima na polju zaštite i kriptozaštite.
+5.2. Odsjek kriptozaštite

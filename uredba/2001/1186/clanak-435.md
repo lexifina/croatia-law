@@ -1,0 +1,3 @@
+# Članak 435.
+Odsjek opskrbnih i zdravstvenih sredstava organizira i nadzire kvalitativni i kvantitativni prijem sredstva opskrbne i zdravstvene struke u Ministarstvo i oružane snage, u suradnji s Odsjekom kontrole kvalitete opskrbnih i zdravstvenih sredstava organizira i provodi nadzor sredstava opskrbne i zdrvstvene struke sukladno definiranim ugovorima i kriterijima o kvaliteti, izrađuje dokumentacije o primanju sredstava, predaje sredstva na uporabu Oružanim snagama preko provedbeno - logističkih segmenata, povlači sredstva iz uporabe u Oružanim snagama, operativno i materijalno vodi pričuve te prikuplja podatke o ponašanju sredstava opskrbne i zdravstvene struke u primjeni.
+3. Odjel kontrole kvalitete

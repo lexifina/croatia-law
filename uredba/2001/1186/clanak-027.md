@@ -1,0 +1,3 @@
+# Članak 27.
+Odsjek za podzakonske propise i ugovore izrađuje nacrte podzakonskih propisa iz nadležnosti Ministarstva i Oružanih snaga, daje prijedloge i primjedbe na nacrte podzakonskih propisa koje donosi ministar priprema pravna mišljenja i očitovanja ministra prema drugim tijelima državne vlasti, obavlja nadzor i osigurava provođenje zakonskih propisa iz područja obrane, izrađuje nacrte ugovora za potrebe Ministarstva koje su ovlašteni potpisati ministar obrane, zamjenik ministra i tajnik Ministarstva, osigurava njihovu primjenu i provođenje glede zaštite interesa Republike Hrvatske i Ministarstva te daje pravnu suglasnost na sve ugovore iz područja obrane.
+b) Odjel za međunarodno-pravne poslove

@@ -1,0 +1,7 @@
+## 13. UPRAVA ZA KOMUNIKACIJE I INFORMACIJSKU TEHNOLOGIJU
+# Članak 361.
+Uprava za komunikacije i informacijsku tehnologiju je upravna organizacija u sastavu Ministarstva koja obavlja upravne i stručne poslove vezane za: razvoj planova razvoja i modernizacije komunikacijskih i informacijskih sustava Ministarstva i Oružanih snaga, uspostavljanje normi za interoperabilnost i kompatibilnost komunikacijskih sustava unutar Ministarstva i Oružanih snaga, kao i prema vojnim asocijacijama kojima se Republika Hrvatska pridružuje, odobravanje prioriteta i nabavu opreme iz područja komunikacija i informacijske tehnologije, odobravanje planskog sustava održavanja opreme, nadgledanje sigurnosti komunikacija i provođenje mjera za zaštitu sigurnosti informacijske i komunikacijske infrastrukture, usmjeravanje i poticanje istraživanja i razvoja u ovom području, usmjeravanje i poticanje lokalne proizvodnje, transfera tehnologija, međunarodne suradnje od posebnog značaja za Oružane snage i zajedničko poduzetništvo (joint ventures), koordinaciju praćenja razvoja tehnologija i usmjeravanje njihove primjene u skladu s utvrđenim prioritetima i raspoloživim sredstvima, te obavlja i druge poslove koje joj povjeri ministar.
+Za obavljanje poslova Uprave za komunikacije i informacijsku tehnologiju ustrojavaju se sljedeće unutarnje ustrojstvene jedinice:
+a) Služba za komunikacije,
+b) Služba za informacijsku tehnologiju.
+a) Služba za komunikacije

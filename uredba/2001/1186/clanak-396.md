@@ -1,0 +1,3 @@
+# Članak 396.
+Odsjek razvoja vojne proizvodnje sudjeluje u izradi taktičko-tehničkih zahtjeva za borbena i neborbena sredstva, surađuje s ustrojstvenim jedinicama Ministarstva i Oružanih snaga, kao i civilnim ustanovama pri razvoju novih sredstava, priprema planove razvoja oružanih sustava i opreme, priprema tehničke značajke za ugovaranje izrade predprojektne, projektne i radioničke dokumentacije, priprema tehničke značajke za ugovaranje proizvodnje, nadzire ugovorenu proizvodnju, propisuje uvjete za ispitivanje proizvedenih sredstava, propisuje primjenu tehničkih standarda za proizvodnju, te sudjeluje u izradi propisa o kakvoći proizvoda.
+3. Odjel kontrole kvalitete, normizacije i kodifikacije

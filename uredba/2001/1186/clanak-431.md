@@ -1,0 +1,3 @@
+# Članak 431.
+Odsjek opsluživanja osigurava životne funkcije sastava Glavne logističke baze, obavlja poslove vezane za prometno osiguranje Baze, provodi raščlambu stanja sigurnosti prometa, vodi evidenciju prometnih nezgoda, pokreće odštetne zahtjeve od automobilske odgovornosti, obavlja poslove u svezi registracije i odjave motornih vozila te prati i izdaje potrebnu dokumentaciju vozila na uporabi u Bazi, realizira zadaće dnevne logističke skrbi, održava sredstva na uporabi u Glavnoj logističkoj bazi, skrbi o održavanju, servisiranju i popravljanju vozila koja se nalaze u matičnoj evidenciji Baze te održava objekte Baze.
+2. Odjel prijema i praćenja materijalnih sredstava
