@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 6. stavku 1. točka 2. mijenja se i glasi: "2. iznos prekomjernih dužnićkih kamata i preniskih vjerovničklh kamata, ako vjerovnik, odnosno dužnik nije tuzemni obveznik poreza na dobit,". Točka 3. mijenja se i glasi: 3. izdatke radnicima po osnovi naknade materijalnih i drugih troškova, potpora i nagrada iznad iznosa koje propisuje ministar financija," U stavku 3. u drugoj rečenici iza riječi: "usluga" briše se zarez i dodaje se riječ: "u".

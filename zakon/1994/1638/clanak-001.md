@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o porezu na dobit ("Narodne novine", br. 109/93.) u članku 2. stavku 6. točki 1. riječi: "protuvrijednosti 500.000 DEM" zamjenjuju se riječima: "2,000.000,00 kuna".
+U točki 2. riječi: "protuvrijednosti 75.000 DEM" zamjenjuju se rijećima: "300.000,00 kuna".
+U točki 3. riječi: "protuvrijednosti 500.000 DEM" zamjenjuju se riječima: "2,000.000,00 kuna". Stavak 7. mijenja se i glasi: 7. Ako više osoba zajednički obavlja djelatnost (supoduzetnici), obveza poreza na dobit utvrđuje se prema uvjetima iz točke 1., 2., 3. i 4. stavka 6. ovoga članka, za ukupnu djelatnost Porezom na dobit iz zajedničke djelatnosti zadužuje se jedan od supoduzetnika određen ugovorom o supoduzetništvu. Ako ugovorom nije određen supoduzetnik koji se zadužuje porezom, Parezna uprava zadužit će porezom na dobit jednog od supoduzetnika za cjelokupni iznos poreza."
