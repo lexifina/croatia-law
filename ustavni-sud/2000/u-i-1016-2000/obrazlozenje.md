@@ -1,0 +1,18 @@
+O b r a z l o ž e n j e
+1. Neven Mazić iz Dubrovnika podnio je prijedlog za pokretanje postupka ocjene suglasnosti s Ustavom članka 382. stavak 2. Zakona o parničnom postupku.
+Osporavana odredba glasi:
+(2) Revizija nije dopuštena u imovinskopravnim sporovima u kojima se tužbeni zahtjev odnosi na potraživanje u novcu, na predaju stvari ili izvršenje kakve druge činidbe, ako vrijednost predmeta spora pobijanog dijela pravomoćne presude ne prelazi 100.000,00 kuna.
+Napominje se da je vrijednost predmeta spora od 100.000,00 kn, propisana člankom 4. stavak 1. Zakona o izmjenama i dopunama Zakona o parničnom postupku, objavljenim u “Narodnim novinama”, broj 112/99, koji je stupio na snagu dana 6. studenoga 1999. godine.
+2. Predlagatelj smatra da osporena zakonska odredba nije suglasna s odredbom članka 116. stavak 1. Ustava. U svom prijedlogu predlagatelj ističe, kao razlog neustavnosti, da je osporenom zakonskom odredbom došlo do neustavne podjele građana na one koji, ispunjavajući uvjet propisane vrijednost predmeta spora, imaju pravo na pravnu zaštitu pred Vrhovnim sudom Republike Hrvatske u povodu revizije, dok ostalima osporena odredba takvu zaštitu ne dopušta.
+Predlagatelj predlaže Sudu pokretanje postupka za ocjenu suglasnosti s Ustavom osporene odredbe te njezino ukidanje.
+Prijedlog nije osnovan.
+3. Revizija je izvanredni pravni lijek kojim parnične stranke mogu osporavati pravomoćne presude drugostupanjskih sudova, donesene u povodu žalbi protiv presuda prvostupanjskih sudova te pravomoćna rješenja drugostupanjskih sudova kojima se postupak pred sudom završava. Međutim, za razliku od žalbe, revizija je ograničen pravni lijek. Jedno od ograničenja sadržano je u predmetno osporenoj zakonskoj odredbi kojom je, kao selektivni kriterij, primijenjena vrijednost predmeta spora.
+4. Člankom 116. stavkom 1. Ustava određeno je da Vrhovni sud Republike Hrvatske, kao najviši sud, osigurava jedinstvenu primjenu zakona i ravnopravnost građana.
+Navedenom odredbom, sadržanoj u dijelu o sudbenoj vlasti, Ustav utvrđuje Vrhovni sud Republike Hrvatske najvišim sudom odredivši mu, kao temeljno djelovanje, osiguravanje jedinstvene primjene zakona i zaštitu ravnopravnosti građana.
+Zakon o sudovima (“Narodne novine”, broj 3/94, 100/96 i 131/97), sukladno stavku 3. članka 116. Ustava, razrađuje ustavna načela o sudbenoj vlasti te sadrži posebne odredbe i o Vrhovnom sudu.
+5. Prosudbom razloga osporavanja sadržanih u podnesenom prijedlogu te sadržaja osporene zakonske odredbe, a u svezi s označenom odredbom Ustava za koju se u prijedlogu tvrdi da je povrijeđena, Ustavni sud je utvrdio da predlagateljeva dvojba ne daje osnovu za prihvaćanje njegova prijedloga i pokretanje postupka za ocjenu suglasnosti odredbe članka 382. stavak 2. ZPP-a s Ustavom.
+Ne dopustivši reviziju, kao izvanredni pravni lijek, u imovinskopravnim sporovima u kojima se tužbeni zahtjev odnosi na potraživanje u novcu, predaju stvari ili izvršenje kakve druge činidbe, ako vrijednost predmeta spora pobijanog dijela pravomoćne presude ne prelazi točno određen granični iznos (100.000,00 kn prema posljednjoj izmjeni i dopuni), nije zakonodavac povrijedio ustavnu odredbu prema kojoj Vrhovni sud Republike Hrvatske, kao najviši sud, osigurava jedinstvenu primjenu zakona i ravnopravnost građana.
+6. Utvrdivši da osporena odredba članka 382. stavak 2. Zakona o parničnom postupku nije u nesuglasju s odredbom članka 116. stavak 1. Ustava, na temelju članka 41. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (“Narodne novine”, broj 99/99), riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-I-1016/2000
+Zagreb, 22. studenoga 2000.
