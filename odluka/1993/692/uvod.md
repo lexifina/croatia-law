@@ -1,0 +1,1 @@
+Na temelju članka 2. Zakona o mjerama ograničenja tržišta i slobodnog prometa robe i usluga od interesa za cijelu zemlju ("Narodne novine", broj 53/91) Vlada Republike Hrvatske je na sjednici održanoj 30. travnja 1993. godine donijela
