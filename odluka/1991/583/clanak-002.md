@@ -1,0 +1,3 @@
+# Članak 2.
+Organizacijama i zajednicama iz članka 1. ove odluke smatraju se poduzeća u državnom, društvenom zadružnom, mješovitom i privatnom vlasništvu, složeni oblici udruživanja odnosno organiziranja poduzeća, banke, mješovite banke i druge financijske organizacije, zajednice osiguranja. zajednice rizika i zajednice reosiguranja, te druge pravne osobe koje obavljaju privrednu djelatnost.
+Organizacijama i zajednicama iz prethodnog članka smatraju se i dijelovi svih poduzeća koji svoju privrednu djelatnost obavljaju na području djelovanja ove Komore, a u sastavu su poduzeća i drugih organizacija sa sjedištem na području druge komore.
