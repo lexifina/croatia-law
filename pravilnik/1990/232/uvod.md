@@ -1,0 +1,1 @@
+Na temelju člana 76. stava 1. Zakona o prostornom planiranju i uređivanju prostora ("Narodne novine", br. 54/80, 16/86 i 18/89), Republički komitet za građevinarstvo, stambene i komunalne poslove i zaštitu čovjekove okoline na sjednici održanoj 14. ožujka 1990. donio je
