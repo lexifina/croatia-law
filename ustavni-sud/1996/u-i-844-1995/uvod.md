@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Zdravko Bartovčak, dopredsjednik Suda, te suci dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, Hrvoje Momčinović, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, odlučujući o prijedlogu za ocjenu ustavnosti zakona, na sjednici održanoj 3. svibnja 1996. godine, donio je
