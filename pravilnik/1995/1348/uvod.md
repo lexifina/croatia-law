@@ -1,0 +1,1 @@
+Na temelju članka 66. stavak 2. Zakona o zdravstyenoj zaštiti ("Narodne novine", br.15/93 i 11/94), ministar zdravstva po prethodno pribavljenom mišljenju Hrvatskog zavoda za zdravstveno osiguranje donosi
