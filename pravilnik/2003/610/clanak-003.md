@@ -1,0 +1,13 @@
+## NAČIN PLAĆANJA
+# Članak 3.
+(1) Naknada za prvu godinu obavljanja djelatnosti, utvrđena u tablicama 1., 2., 3. i 4., plaća se unaprijed najkasnije prigodom potpisa ugovora o koncesiji iz članka 30. stavka 11., odnosno članka 76. stavka 6. Zakona o telekomunikacijama za dvanaest mjeseci, računajući i mjesec u kojem se, prema ugovoru o koncesiji, započinje obavljati djelatnost.
+(2) Naknada za prvu godinu obavljanja djelatnosti, utvrđena u Tablici 5. te u Tablici 6. pod rednim brojem 1., 2. i 3., plaća se unaprijed najkasnije 30 dana prije početka obavljanja djelatnosti, navedenog u pisanoj prijavi iz članka 29. stavka 2. Zakona o telekomunikacijama, za dvanaest mjeseci, računajući i mjesec u kojem se, prema toj prijavi, započinje obavljati djelatnost.
+(3) Naknada za prvu godinu obavljanja djelatnosti, utvrđena u Tablici 6. pod rednim brojem 4., 5., 6., 7. i 8. plaća se unaprijed najkasnije prigodom preuzimanja propisane ovlasti za dvanaest mjeseci, računajući i mjesec u kojem je ovlast preuzeta.
+(4) Naknada za drugu, treću i ostale godine obavljanja djelatnosti, utvrđena u Tablicama 1., 2. i 5., plaća se najkasnije u roku od 45 dana od dana isteka razdoblja za koje je naknada plaćena.
+(5) Godišnja naknada za drugu godinu i ostale godine obavljanja djelatnosti, uključujući i godine obnove valjanosti koncesije, utvrđene u Tablici 3. (radio i televizija), plaća se u četiri jednaka obroka, pri čemu svaki obrok dospijeva na naplatu danom isteka razdoblja za koje je naknada plaćena.
+(6) Godišnja naknada za drugu godinu i ostale godine obavljanja djelatnosti, utvrđena u tablicama 4. i 6., plaća se unaprijed najkasnije do petnaestog u sljedećem mjesecu nakon isteka razdoblja za koje je naknada plaćena.
+(7) Naknada utvrđena u tablici 7. mora biti višekratnik broja 1.000, a plaća se unaprijed najkasnije prigodom preuzimanja privremenog odobrenja za cijelo razdoblje za koje se izdaje to odobrenje (najviše za 6 mjeseci).
+(8) Ako se naknada ne plati u određenom roku, zaračunavaju se zakonske zatezne kamate.
+(9) Ako se utvrdi da naknada nije plaćena ni nakon 30 dana od dana primitka opomene, osobi, na koju se primjenjuje ovaj Pravilnik, može se oduzeti dana koncesija, ovlast ili privremeno odobrenje, odnosno zabraniti obavljanje prijavljene telekomunikacijske usluge ili djelatnosti u skladu s odredbama Zakona o telekomunikacijama, a za nepodmireno dugovanje izdat će se račun te će se poduzeti mjere u skladu sa zakonom.
+(10) Ako se utvrdi da osoba iz članka 2. stavka 6. ovoga Pravilnika iskaže ostvarene prihode manje za 5% ili za više postotaka od stvarnog prihoda, plaća trostruki iznos propisane naknade.
+(11) Naknade uplaćene prema odredbama ovoga članka ne vraćaju se.
