@@ -1,0 +1,2 @@
+# Članak 8.
+Trgovačka društva upisana u trgovački registar do dana stupanja na snagu ovoga Zakona, ako obavljaju djelatnost, a nemaju u radnom odnosu najmanje jednog člana uprave i najmanje jednog zaposlenika na neodređeno vrijeme u svakoj podružnici dužna su u roku od 180 dana od dana stupanja na snagu ovoga Zakona zasnovati radni odnos s najmanje jednim članom uprave, a ako imaju i podružnice zasnovati radni odnos na neodređeno vrijeme s najmanje jednim zaposlenikom u svakoj podružnici.
