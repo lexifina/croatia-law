@@ -1,0 +1,1 @@
+Na osnovi članka 7. stavka 2. točke 5. Zakona o porezu na promet proizvoda i usluga ("Narodne novine", br. 36/91 i 73/91), članka 51. stavka 5. Statuta Hrvatske gospodarske komore ("Narodne novine", br. 56/91), te članka 21. stavak 1. točka 7. Statuta Saveza udruženja hrvatskih obrtnika, Skupština Saveza udruženja hrvatskih obrtnika na sjednici od 28. srpnja 1992, donijela je
