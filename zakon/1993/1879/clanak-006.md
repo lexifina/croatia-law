@@ -1,0 +1,2 @@
+# Članak 6.
+Regionalni ured vodi evidenciju prema svojim podacima i dostavljenim podacima centara za socijalni rad o prognanicima, njihovu zbrinjavanju i pomoći u skladu sa naputkom Ureda. Evidenciju o izbjeglicama iz stavka 1. ovoga članka vodi Ured. Hrvatski Crveni križ može, za potrebe Službe traženja koristiti evidencije regionalnih ureda i Ureda. Podaci o broju, smještaju, zbrinjavanju i pomoći prognanicima i izbjeglicama mogu se dobiti i koristiti samo na temelju pismenog zahtjeva dostavljenog Uredu i odobrenog od strane predstojnika Ureda.

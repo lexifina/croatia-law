@@ -1,0 +1,2 @@
+# Članak 7.
+Regionalni ured odnosno centar za socijalni rad koji je odlučio o priznavanju statusa prognanika dužan je u roku od 48 sati od dana priznanja statusa prognanika i o njegovom smještaju izvijestiti policijsku upravu, odnosno policijsku stanicu Ministarstva unutarnjih poslova radi registracije boravka prognanika u mjestu njegova prihvata i smještaja, te nadležno tijelo uprave za poslove obrane za osobe starije od 18 godina.
