@@ -1,0 +1,11 @@
+# Rev-1166/1992-2, Vrhovni sud Republike Hrvatske, 12.1.1993.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=ca2d617b-acd2-4246-a80d-395e6ea3c74f
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1993-01-12
+- Publication date on source: 2003-08-21
+- ECLI: ECLI:HR:VSRH:1993:1369
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
