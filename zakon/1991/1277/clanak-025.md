@@ -1,0 +1,2 @@
+# Članak 25.
+Prijedlog osnova za vođenje pregovora i sklapanje međunarodnih ugovora iz članka 23. ovoga zakona, osim podataka iz stavka 2. članka 7. ovoga zakona, treba sadržavati: uvjete i način davanja odnosno otplaćivanja kredita, sredstva iz kojih će se davati odnosno otplaćivati krediti i druge obveze Republike Hrvatske koje za nju proizlaze iz međunarodnog ugovora kao i dokaz da je izvršenje tih obveza osigurano.

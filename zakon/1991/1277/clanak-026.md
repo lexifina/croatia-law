@@ -1,0 +1,2 @@
+# Članak 26.
+Predsjednik Republike Hrvatske potpisat će međunarodni ugovor o garanciji samo na temelju dokumentacije, koja pored parafiranog teksta međunarodnog ugovora sadrži i potpisan ugovor o zajmu sklopljen između zainteresiranog poduzeća, odnosno druge pravne osobe i strane osoobe, odluku nadležnog tijela poduzeća, garanciju poslovne banke i garanciju odnosno kontragaranciju Republike Hrvatske.
