@@ -1,0 +1,1 @@
+Na temelju članka 64a. Zakona o sigurnosti prometa na cestama ("Narodne novine", br. 20/90. i 9/91) točke II. Odluke o određivanju organizacije kojoj se povjerava provođenje vozačkih ispita ("Narodne novine", br. 72/91) ministar prosvjete, kulture i športa donosi
