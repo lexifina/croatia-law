@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilišta "Viktor Lenac" d.d., Rijeka, sada
