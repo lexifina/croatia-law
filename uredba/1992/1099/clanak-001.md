@@ -1,0 +1,4 @@
+## o prostornom uređenju u ratom zahvaćenim podrućjima Republike Hrvatske
+# Članak 1.
+Ovom uredbom uređuju se način planiranja i uređivanja prostora ratom zahvaćenih područja Republike Hrvatske radi pravodobnog osiguranja uvjeta za povratak i smještaj prognanog i izbjeglog stanovništva te obnove i razvoja razorenih područja, gradova i drugih naselja.
+Područja iz stavka 1. ovog članka obuhvaćaju područja općine: Beli Manastir, Benkovac, Biograd n/m, Daruvar, Donji Lapac, Drniš, Duga Resa, Dubrovnik, Dvor, Dakovo, Glina, Gospić, Gračac, Grubišno Polje, Karlovac, Knin, Kostajnica, Metković, Nova Gradiška, Novska, Obrovac, Ogulin, Osijek, Otočac, Pakrac, Petrinja, Podravska Slatina, Sinj, Sisak, Slavonski Brod, Slunj, Šibenik, Titova Korenica, Valpovo, Vinkovci, Vojnić. Vrginmost, Vukovar, Zadar.
