@@ -1,0 +1,3 @@
+# Članak 11.
+1. Članica koja je ratificirala ovu Konvenciju može je otkazati nakon proteka razdoblja od deset godina od datuma kada je Konvencija stupila na snagu, aktom kojeg dostavlja glavnom ravnatelju Međunarodnog ureda rada radi registracije. Otkaz proizvodi pravne učinke godinu dana nakon datuma kad je registriran.
+2. Svaka članica koja je ratificirala ovu Konvenciju, i koja u roku od godine dana nakon proteka razdoblja od deset godina iz prethodnog stavka ne otkaže Konvenciju prema odredbi ovoga članka, bit će obvezana za još jedno razdoblje od deset godina, a nakon toga može otkazati Konvenciju po proteku svakog novog razdoblja od deset godina prema uvjetima predviđenim u ovome članku.
