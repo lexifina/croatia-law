@@ -1,0 +1,1 @@
+Na temelju točke IV. stavka 2. Odluke o utvrđivanju kalkulativnih prosjeka osobnih dohodaka radnika zaposlenih u organima kojima se sredstva za rad osiguravaju u Državnom proračunu Republike Hrvatske ("Narodne novine", broj 42/90 i 8/91) Vlada Republike Hrvatske je na sjednici održanoj 11. ožujka 1993. godine donijela
