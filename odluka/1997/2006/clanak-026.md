@@ -1,0 +1,2 @@
+# Članak 26.
+Za pruženu zdravstvenu zaštitu na svim razinama zdravstvene djelatnosti osnovom odredaba članka 8. ove Odluke, ugovorna zdravstvena ustanova, odnosno ugovorni zdravstveni djelatnici privatne prakse obvezni su ispostavljati i pojedinačne račune primjenom cijene utvrđene sukladno odredbama članka 24. ove Odluke, te ih dostavljati Zavodu na daljnju obradu poradi izvršavanja obveza Zavoda sukladno sklopljenim međudržavnim ugovorima o zdravstvenom osiguranju.

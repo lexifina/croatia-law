@@ -1,0 +1,2 @@
+# Članak 9.
+Zavod s Hrvatskim zavodom za javno zdravstvo, odnosno s Hrvatskim crvenim križom, te drugim zdravstvenim ustanovama koje u cilju unapređenja zdravstvene zaštite provode posebne zadaće u djelatnosti zdravstvene zaštite, sklapa sukladno članku 66. stavci 2. Zakona o zdravstvenom osiguranju ugovore za provođenje programa koje je usvojilo Upravno vijeće Zavoda. Programom se utvrđuju poslovi i zadaće od interesa za obvezno zdravstveno osiguranje s rokovima izvršenja, naznakom potrebnih djelatnika i novčanom nadoknadom.
