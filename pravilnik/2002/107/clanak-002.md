@@ -1,0 +1,11 @@
+# Članak 2.
+U ovom Pravilniku u uporabi su pojmovi sa sljedećim značenjem:
+- »zaposlenik« je osoba u radnom odnosu koja obavlja određene poslove u Javnoj ustanovi »Park prirode Medvednica«,
+- »vlasnici i ovlaštenici prava na nekretninama« su fizičke i pravne osobe koje imaju pravo vlasništva ili ostvaruju neko drugo stvarno pravo na nekretninama unutar granica Parka prirode,
+- »pravne i fizičke osobe koje obavljaju dopuštene djelatnosti« su trgovačka društva, trgovci pojedinci, obrtnici, zadruge, zaklade i dr., te fizičke osobe koje na području Parka prirode obavljaju registriranu djelatnost, bez obzira gdje imaju registrirano sjedište, a imaju dopuštenje za obavljanje te djelatnosti u Parku prirode,
+- »stanovnici« su osobe koje na području Parka prirode imaju svoje prebivalište, trajno ili privremeno boravište,
+- »posjetitelji« su planinari, rekreativci, sportaši, organizirane grupe i dr. koji na području Parka prirode obavljaju neku od dopuštenih aktivnosti.
+- »organizirane grupe« su znanstveno-istraživačke grupe, ili grupe od najmanje 10 (deset) ili više osoba koje na području Parka prirode borave organizirano u cilju razgledavanja pojedinih prirodnih lokaliteta, ili obavljanja neke od dopuštenih aktivnosti na području Parka prirode. (škole, ekskurzije, domaći i strani turisti, i sl.),
+- »rekreativne aktivnosti« su planinarenje, šetnja, jogging, rekreacijsko skijanje i skijaško trčanje, i dr., koje se provode isključivo radi održavanja kondicije i zdravlja, provođenja aktivnog odmora u prirodi, a ne radi postizanja sportskih ciljeva i rezultata, koje ne narušavaju prirodni sklad i mir na području Parka prirode, te ne dovode u opasnost život i zdravlje onih koji ih provode, ili drugih posjetitelja Parka prirode.
+- »sportske aktivnosti« su streljaštvo, streličarstvo, let zmajevima, paragliding, slobodno penjanje, natjecateljsko skijanje i skijaško trčanje, automobilizam, brdski biciklizam, motocros, sve vrste ekstremnih sportova i dr. sportovi na otvorenom, koji narušavaju prirodni sklad i mir na području Parka prirode ili dovode do opasnosti za život i zdravlje onih koji ih provode, ili drugih posjetitelja Parka prirode,
+- »livadne površine namijenjene javnom korištenju« su livade namijenjene javnom korištenju koje određuje Ustanova programom zaštite, očuvanja i promicanja Parka prirode.
