@@ -1,0 +1,6 @@
+# Članak 26.
+KOMUNIKACIJA S DRŽAVLJANIMA KOJI SU LIŠENI SLOBODE
+(1) Nadležna tijela države primateljice, bez odgode a najkasnije u roku od 3 (tri) dana, obavještavaju konzularnog dužnosnika u svezi s uhićenjem, pritvaranjem ili bilo kojom mjerom koja uključuje ograničenje osobne slobode, u odnosu na državljanina države imenovanja u njegovom konzularnom području.
+(2) Konzularni dužnosnik ovlašten je posjetiti i komunicirati s državljanom države imenovanja, koji je uhićen ili kojem je na bilo koji drugi način ograničena osobna sloboda, ili je u zatvoru, i, ovisno o slučaju, poduzeti odgovarajuće mjere kako bi mu se osigurala pravna pomoć i zastupanje. Pravo na posjet i komunikaciju daje se u određenim razmacima i ostvaruje se čim je prije moguće, bez mogućnosti odgode nakon isteka četverodnevnog roka, koji se računa od dana kada je poduzeta mjera koja uključuje ograničenje osobne slobode.
+(3) Nadležna tijela države primateljice obavještavaju dotične osobe o mogućnosti komunikacije s konzularnim dužnosnikom.
+(4) Posjete iz stavka (2) ovog članka, ostvaruje se u skladu sa zakonima i propisima države primateljice. Podrazumijeva se da ti zakoni i propisi ne sprečavaju obavljanje konzularnih funkcija.

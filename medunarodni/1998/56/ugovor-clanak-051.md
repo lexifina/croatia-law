@@ -1,0 +1,5 @@
+# Članak 51.
+OBVEZA SVJEDOČENJA
+(1) Nadležna sudska tijela i druga nadležna tijela države primateljice mogu zahtijevati da se član konzularnog ureda pojavi kao svjedok. No nikakve se prisilne mjere ne mogu poduzeti protiv njega niti mu se može izreći kazna. Konzularni službenik ili član poslužnog osoblja konzularnog ureda nema pravo odbiti zahtjev da se pojavi kao svjedok, osim u slučajevima primjene odredbe stavka (3) ovog članka.
+(2) Tijelo koje traži svjedočenje konzularnog dužnosnika dužno je ne ometati ga u obavljanju njegovih funkcija. Takvo svjedočenje može se, ako je moguće, dati usmeno ili pismeno u konzularnom uredu ili u stanu konzularnog dužnosnika.
+(3) Članovi konzularnog ureda imaju pravo odbiti svjedočiti glede bilo kojeg pitanja u okviru svojih službenih funkcija ili pak imaju pravo odbiti predočiti korespondenciju i službenu dokumentaciju vezanu za obavljanje svojih službenih funkcija. Isto tako mogu odbiti svjedočiti u svojstvu vještaka u odnosu na propise države imenovanja.
