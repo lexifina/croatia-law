@@ -1,0 +1,7 @@
+## 6. UPRAVA ZA INFORMIRANJE, OBRAZOVANJE I PREVOÐENJE
+# Članak 10.
+Uprava za informiranje, obrazovanje i prevođenje obavlja poslove razmjene i prijenosa informacija unutar Ministarstva te između Ministarstva i radnih tijela Vlade, tijela državne uprave te tijela lokalne uprave i samouprave kao i nevladinih organizacija; poslove upoznavanja i informiranja javnosti o Europskoj uniji i Vijeću Europe; u suradnji s drugim nadležnim tijelima državne uprave promiče obrazovanje državnih službenika iz europskih studija i njihovo usavršavanje u očekivanju preustroja i razvitka državne uprave za proces integriranja Republike Hrvatske u Europsku uniju; provođenje programa stipendiranja poslijediplomskih europskih studija u inozemstvu; poticanje i podupiranje uvođenja predmeta koji se odnose na pitanja europskih integracija u programe hrvatskih škola, visokih učilišta i sveučilišta te poticanje osnivanja specijaliziranih poslijediplomskih europskih studija; uspostavu međunarodnog centra za obuku državnih službenika iz zemalja regije; obavlja poslove prevođenja unutar Ministarstva; koordinira aktivnosti koje se provode u Republici Hrvatskoj u području prevođenja relevantnih dokumenata Europske unije i Vijeća Europe te propisa Republike Hrvatske na službene jezike Europske unije.
+U Upravi za informiranje, obrazovanje i prevođenje ustrojavaju se:
+1. Odjel za informiranje
+2. Odjel za obrazovanje
+3. Odjel za prevođenje.
