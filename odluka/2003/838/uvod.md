@@ -1,0 +1,1 @@
+Na temelju članka 5.a. stavka 1. Zakona o javnim cestama (»Narodne novine«, br. 100/96, 76/98, 27/2001, 114/2001 i 65/2002), Vlada Republike Hrvatske je na sjednici održanoj 24. travnja 2003. godine donijela
