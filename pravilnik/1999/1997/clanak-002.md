@@ -1,0 +1,7 @@
+# Članak 2.
+Ministarstvo prostornog uređenja, graditeljstva i stanovanja (u daljnjem tekstu: Ministarstvo) izdat će podnositelju zahtjeva suglasnost ako ispunjava sljedeće uvjete:
+1. Za obavljanje svih stručnih poslova prostornog uređenja ako ima zaposlena odnosno ako će zaposliti u punom radnom vremenu najmanje tri zaposlenika i to:
+- dva diplomirana inženjera arhitekture od kojih je jedan ovlašteni arhitekt upisan u stručni smjer ovlaštenih arhitekata ili stručni smjer ovlaštenih arhitekata - urbanista, a drugi ima položeni stručni ispit i radno iskustvo od najmanje tri godine na poslovima prostornog uređenja i
+- jednog diplomiranog inženjera tehničke znanosti (građevinarstvo, promet, geografija, geodezija i sl.) koji ima položeni stručni ispit i radno iskustvo od najmanje tri godine na poslovima prostornog uređenja ili diplomiranog stručnjaka društvenih ili prirodnih znanosti (ekonomija, sociologija, pravo, biologija i sl.) koji ima radno iskustvo od najmanje tri godine na poslovima prostornog uređenja.
+2. Za obavljanje poslova izrade detaljnih planova uređenja i izrade stručnih podloga za izdavanje lokacijskih dozvola ako ima zaposlenog odnosno ako će zaposliti u punom radnom vremenu najmanje jednog ovlaštenog arhitekta upisanog u stručni smjer arhitekata ili stručni smjer arhitekata - urbanista.
+3. Za obavljanje poslova izrade stručnih podloga za izdavanje lokacijskih dozvola za građevine niskogradnje ako ima zaposlenog odnosno ako će zaposliti u punom radnom vremenu najmanje jednog ovlaštenog inženjera odgovarajuće struke.
