@@ -1,0 +1,2 @@
+# Članak 13.
+Članak 38. mijenja se i glasi: "Porezni obveznik - pravna osoba i fizička osoba iz članka 5. stavka 2. ovoga Zakona sastavlja izvješće o obračunatom i plaćenom porezu na promet mjesečno i podnosi ga nadležnoj ispostavi Porezne uprave u roku od petnaest dana po isteku mjeseca. Ako se prilikom primitka izvješća iz stavka 1. ovoga članka utvrdi da obračunati porez nije uplaćen, Porezna uprava donosi rješenje o blokadi žiro-računa poreznog obveznika za dužni iznos poreza i pokreće postupak prisilne naplate."
