@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 6. Zakona o zaštiti od požara ("Narodne novine" broj 58/93.) i članka 16. stavka 5. Zakona o vatrogastvu ("Narodne novine", broj 58/93.), ministar unutarnjih poslova donosi

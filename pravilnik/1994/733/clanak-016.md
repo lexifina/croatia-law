@@ -1,0 +1,2 @@
+# Članak 16.
+Predsjednik i članovi ispitne komisije, promjenljivi članovi i tajnik imaju pravo na naknadu za rad u ispitnoj komisiji. Naknada se odreduje po kandidatu, posebno za predsjednika, članove ispitne komisije i promjenljive članove, a posebno za tajnika ispitne komisije. Ministar donosi rješenje kojim se odreduje visina naknade iz stavka 1. ovoga članka. Troškove stručnog ispita snosi pravna osoba ili stručna služba koja je kandidata uputila na ispit ili kandidat sam. Rad ispitne komišije je javan.

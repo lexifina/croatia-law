@@ -1,0 +1,4 @@
+# Članak 6.
+Ispitna komisija utvrđuje ispunjava li kandidat uvjete za polaganje stručnog ispita i o tome donosi rješenje.
+Rješenjem se utvrđuju troškovi ispita, mjesto, rok i vrijeme za polaganje stručnog ispita.
+Kandidat, kome je odobreno polaganje stručnog ispita, mora biti obaviješten o denu polaganja ispita najkasnije 30 dana prije određenog roka za polaganje ispita, Kandidat može odustati od polaganja stručnog ispita u roku koji mu je određen, ali je obvezan o tome obavijestiti ispitnu komisiju najmanje tri dana prije dana odredenog za polaganje stručnog ispita. Polaganje stručnog ispita može se odgoditi. ako je kandidat zbog bolesti ili drugih opravdanih razloga, spriječen da dode na ispit ili da nastavi polaganje započetog ispita o čemu odlučuje ispitna komisija na zahtjev kandidata.

@@ -1,0 +1,2 @@
+# Članak 18.
+Djelatnici koji su položili stručni ispit po programu stručnog ispita za inspektora za zaštitu od požara ili prema ranijem programu koji je bio propisan za osobe obvezne po ovom Pravilniku, nisu obvezni polagati ispit propisan ovim Pravilnikom, Djelatnici koji na dan stupanja na snagu ovoga Pravilnika imaju 15 ili više godina radnog staža na poslovima za koje je ovim Pravilnikom propisan stručni ispit, nisu obvezni polagati takav ispit.

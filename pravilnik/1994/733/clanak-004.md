@@ -1,0 +1,3 @@
+# Članak 4.
+Ispitna komisija sastoji se od predsjednika i dva člana. Rješenjem o imenovanju predsjednika i članova ispitne komisije određuje se isti broj zamjenika, tajnik, a po potrebi i promjenljivi članovi komisije. Predsjednik, članovi ispitne komisije, njihovi zamjenici i promjenljivi članovi imenuju se iz reda djelatnika Ministarstva unutarnjih poslova koji obavljaju poslove zaštite od požara.
+Predsjednik i članovi te njihovi zamjenici i promjenljivi članovi mogu se imenovati samo iz reda djelatnika koji imaju visoku školsku spremu. Rješenjem o osnivanju ispitne komisije i imenovanju članova određuje se koje će predmete ispitivati predsjednik i članovi ispitne komisije, odnosno promjenljivi članovi
