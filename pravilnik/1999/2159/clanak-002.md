@@ -1,0 +1,3 @@
+# Članak 2.
+Pod predstavkama, pritužbama i prijedlozima, prema ovom pravilniku, smatraju se molbe, pritužbe, drugi podnesci te evidentirane usmene izjave, upućene radi ostvarivanja i zaštite prava te pravnih interesa iz mirovinskog osiguranja, odnosno radi pokretanja inicijativa šireg značenja i interesa u sklopu provedbe mirovinskog osiguranja i drugih prava koja se ostvaruju u Zavodu.
+Pod predstavkama, pritužbama i prijedlozima, prema ovom pravilniku, ne smatraju se podnesci stranaka koji se odnose na radnje u postupku ostvarivanja prava iz mirovinskog osiguranja i drugih prava (zahtjevi, žalbe protiv prvostupanjskih rješenja i drugi podnesci stranaka prema propisima o općem upravnom postupku).
