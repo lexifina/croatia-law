@@ -1,0 +1,5 @@
+# Članak 17.
+U članku 55. stavku 1. točki 5. riječi: "namirnica i pića" zamjenjuju se riječima: "namirnica, pića i napitaka."
+Točke 12. i 13. mijenjaju se i glase:
+"12. pruža usluge iz članka 34., 44. i 45. ovoga Zakona, a ne ispunjava propisane minimalne uvjete odnosno uvjete za kategoriju, ili ih pruža bez pribavljenog odobrenja nadležnog ureda, osim u slučaju iz članka 40. stavka 2. ovoga Zakona, (članak 35. stavak 1., članak 39. stavak 1., članak 44. stavak 4. i 5.),
+13. pruža usluge smještaja, prehrane, pića i napitaka, a nije član seljačkog domaćinstva, ili ako pruža usluge smještaja protivno odredbi stavka 1. članka 44. ovoga Zakona, ili ako priprema i uslužuje topla i hladna jela, pića i napitke koji nisu iz pretežito vlastite proizvodnje, ili ako pruža usluge prehrane, pića i napitaka za više od 50 osoba (izletnika) istodobno, ili ako pruža usluge kušanja vina ili rakije ili usluživanja domaćih narezaka koji nisu iz vlastite proizvodnje ili ako pruža te usluge za više od 50 osoba (izletnika) istodobno (članak 44. stavak 1., 2. i 3.),".
