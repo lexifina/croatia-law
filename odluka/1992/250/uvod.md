@@ -1,0 +1,1 @@
+Na temelju članka 136. stavak 2. Zakona o vodama ("Narodne novine", br. 19/90; 9/91 i 61/91.) Upravni odbor Javnog vodoprivrednog poduzeća "Hrvatska vodoprivreda" na 8. sjednici od 31. siječnja 1992. godine donio je
