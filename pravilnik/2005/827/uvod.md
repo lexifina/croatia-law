@@ -1,0 +1,1 @@
+Na temelju članka 108. točke 9., a u svezi s člancima 85. i 86. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj 174/04.), potpredsjednica Vlade Republike Hrvatske i ministrica obitelji, branitelja i međugeneracijske solidarnosti, donosi

@@ -1,0 +1,2 @@
+# Članak 2.
+Pravo na naknadu plaće, prava iz mirovinskog i zdravstvenog osiguranja, prava na doplatak za djecu, prava za vrijeme nezaposlenosti na temelju članka 85. stavka 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, ostvaruje njegovatelj koji pruža usluge njege i pomoći HRVI kao zaposlena osoba prema posebnim propisima (u daljnjem tekstu: njegovatelj).
