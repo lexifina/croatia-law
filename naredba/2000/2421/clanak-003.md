@@ -1,0 +1,5 @@
+# Članak 3.
+Iza točke 12. dodaju se nove točke 12.a i 12.b koje glase:
+»12.a Rješenja o ovlaštenju pravnih osoba za potvrđivanje proizvoda donesena prije stupanja na snagu ove naredbe ostaju na snazi dvanaest mjeseci od dana stupanja na snagu ove naredbe. Ovlaštene pravne osobe moraju u roku iz stavka 1. ovog članka zadovoljiti sve uvjete iz točke 11. naredbe.
+13.b U cijelome tekstu Naredbe o obaveznom atestiranju
+šljemova za zaštitu u industriji, riječ »šljem« zamjenjuje se riječju »kaciga«, riječ »atestiranje« zamjenjuje se riječju »potvrđivanje«, riječ »atest« zamjenjuje se riječima »potvrda o sukladnosti«, riječi »organizacija udruženog rada ovlaštena za atestiranje« zamjenjuju se riječima »ovlaštena pravna osoba za potvrđivanje«, oznaka »JUS« zamjenjuje se oznakom »HRN«, riječ »standard« zamjenjuje riječ »norma«, riječi jugoslavenski standard« zamjenjuju riječi »hrvatska norma«, a riječi »Savezni zavod za standardizaciju« zamjenjuju riječi »Državni zavod za normizaciju i mjeriteljstvo«, u odgovarajućemu rodu i padežu.«
