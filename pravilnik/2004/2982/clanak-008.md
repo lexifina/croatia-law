@@ -1,0 +1,2 @@
+# Članak 8.
+Pravna osoba treba biti opremljena s elektroničkim računalom (PC) s mogućnošću povezivanja s bazom podataka Državnog zavoda za normizaciju i mjeriteljstvo (u daljnjem tekstu: Zavod).
