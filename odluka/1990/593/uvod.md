@@ -1,0 +1,1 @@
+Na temelju člana 80. Statuta Privredne komore regije Bjelovar, te zaključka Skupštine Privredne komore regije Bjelovar od 29. ožujka 1990. godine, Izvršni odbor Privredne komore regije Bjelovar na sjednici 5. srpnja 1990. godine, donosi
