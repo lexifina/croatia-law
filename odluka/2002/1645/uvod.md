@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01 i 117/01), i članka 18. Statuta Općine Tinjan (»Službene novine Grada Pazina«, broj 21/01), Općinsko vijeće Općine Tinjan na 15. sjednici održanoj 8. kolovoza 2002. godine donijelo je
