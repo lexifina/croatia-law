@@ -1,0 +1,4 @@
+# Članak 6.
+Repatrijacija ulaganja i prihoda
+1. Svaka će Ugovorna stranka u svezi s ulaganjima jamčiti ulagateljima druge Ugovorne stranke po podmirenju poreskih obveza neograničen prijenos njihovih ulaganja i prihoda te zarada državljana jedne Ugovorne stranke kojima je dozvoljen rad u okviru ulaganja na teritoriju druge Ugovorne stranke. Prijenosi će biti obavljeni bez odlaganja u konvertibilnoj valuti, odnosno u valuti u kojoj je ulaganje prvobitno uloženo. Ako se ulagatelj ne dogovori drugačije, prijenosi će biti obavljeni prema tečaju koji se primjenjuje na dan prijenosa u skladu s važećim deviznim propisima.
+2. U skladu s odredbama članka 3. ovog Sporazuma, Ugovorne stranke obvezuju se da će za prijenose navedene u stavku 1. ovog članka koristiti isti onaj tretman koji vrijedi za repatriaciju ulaganja i prihoda koja obavljaju ulagatelji trećih država.
