@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o kreditnim poslovima s inozemstvom ("Narodne novine", br. 43/96) i članka 41. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1998. godinu ("Narodne novine", br. 141/97 i 90/98), Vlada Republike Hrvatske je na sjednici održanoj 29. listopada 1998. godine donijela
