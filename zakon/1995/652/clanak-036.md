@@ -1,0 +1,2 @@
+# Članak 36.
+U cijelom tekstu Zakona o prekršajima ("Narodne novine"; br. 2/73., 5/73., 21/74., 9/80., 25/84., 52/87., 27/88., 43/89., 8/90.. 41/90., 59/90. i 91/92.), kao i u svim drugim zakonima i propisima gdje se navode riječi: "općinski sudac za prekršaje", "sudac za prekršaje"; "Republičko vijeće za prekršaje" i "tijelo javne sigurnosti" zamjenuju se riječima: "prekršajni sud", "sudac", "Visoki prekršajni sud" i "policija" u odgovarajućem padežu.
