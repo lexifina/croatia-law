@@ -1,0 +1,5 @@
+# Članak 8.
+U pripremi kliničkog pokusa lijeka ili medicinskog proizvoda treba utvrditi posebne ciljeve, probleme i odnos opasnosti i koristi kao i to da li su izabrana rješenja znanstveno jasna i etički opravdana.
+Klinički pokusi moraju biti provedeni u skladu s četiri osnovna etička principa - poštivanje prava, poštivanje osobe, dobronamjernost i neškodljivost prema odrednicama tekuće revizije Helsinške deklaracije i međunarodne etičke smjernice biomedicinskih istraživanja na ljudima izdane od Vijeća za međunarodne organizacije medicinskih znanosti (Council for International Organisations of Medical Sciences - CIOMS).
+Preduvjet za klinički pokus su pretklinička istraživanja koja daju dovoljno dokaza o prihvatljivoj potencijalnoj štetnosti i mogućoj kliničkoj primjeni lijeka ili medicinskog proizvoda.
+Prije pokusa treba utvrditi načine praćenja i nadzora te standardne operativne postupke. Oprema i prostorije u kojima se proizvodi pokus moraju biti sukladni zahtjevima za njegovo sigurno i djelotvorno provođenje.

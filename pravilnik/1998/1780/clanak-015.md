@@ -1,0 +1,2 @@
+# Članak 15.
+Ispitivač je odgovoran za strogo provođenje plana pokusa. Ispitivač ne smije unositi nikakve promjene u odobreno ispitivanje osim ako je to potrebno za otklanjanje očitog neposrednog rizika ili opasnosti za ispitanike. Svaka izmjena mora biti prikazana u obliku dodatka planu pokusa koji se prilaže planu pokusa i potpisuje od ispitivača i naručitelja. Veći dodaci s opravdanjem moraju biti prihvaćeni od etičkog povjerenstva, povjerenstva za lijekove zdravstvene ustanove te ministra zdravstva.
