@@ -1,0 +1,5 @@
+# Članak 5.
+O svakoj povredi državne granice policijski službenici izvješćuju Ministarstvo unutarnjih poslova u sjedištu (u daljnjem tekstu: Ministarstvo) bez odgode pisanim putem, odnosno telefonski odmah nakon saznanja.
+Izvješće iz stavka 1. ovog članka sadrži: vrijeme kada je povreda uočena, utvrđeno vrijeme počinjenja povrede, podatke o počinitelju, mjestu počinjenja, načinu počinjenja, sredstvima počinjenja, podatke o posljedicama i ostale podatke i zapažanja značajna za utvrđivanje povrede državne granice.
+O uočenoj povredi državne granice u zračnom prostoru Republike Hrvatske od strane stranih državnih tijela, u izvješću se pored podataka iz stavka 2. ovog članka moraju navesti i podaci o uočenoj vrsti i oznaci zrakoplova, pravcu i visini leta, dubini i širini povrede zračnog prostora, meteorološkim prilikama, mjestu s kojeg je uočena povreda te o vremenu i pravcu u kojem je zrakoplov napustio zračni prostor Republike Hrvatske.
+O uočenoj povredi državne granice u teritorijalnom moru Republike Hrvatske, u izvješću se, uz podatke iz stavka 2. ovog članka, moraju navesti i podaci o vrsti plovila, poziciji i kretanju plovila te meteorološkim prilikama.

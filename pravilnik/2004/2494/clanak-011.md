@@ -1,0 +1,5 @@
+## IV. UTVRĐIVANJE I RJEŠAVANJE DRUGIH RADNJI KOJE IMAJU ZA POSLJEDICU POVREDU DRŽAVNE GRANICE
+# Članak 11.
+Druge radnje koje imaju za posljedicu povrede državne granice su radnje usmjerene na povredu službenika nadležnih državnih tijela pri obavljanju zakonom određenih poslova na državnoj granici, oštećenja i uništenja državnih simbola i obilježja, uređaja, signalizacije i objekata uz državnu granicu te radnje na državnoj granici koje mogu znatno ugroziti osjećaj sigurnosti građana.
+Na dijelovima državne granice na kojima granična crta nije međunarodnim ugovorom uređena, radnje iz stavka 1. ovog članka su i druge radnje koje predstavljaju nepoštivanje teritorijalnog integriteta Republike Hrvatske, naročito one koje ugrožavanju zdravlje ljudi, okoliš i imovinu.
+Osim radnji iz stavka 1. ovog članka druge radnje koje imaju za posljedicu povrede državne granice su nedozvoljena uplovljavanja stranih gospodarskih plovila u teritorijalno more Republike Hrvatske radi obavljanja nedozvoljenih radnji.
