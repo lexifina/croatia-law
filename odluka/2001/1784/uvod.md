@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 1. Uredbe o postupku provedbe programa - Razvoj na znanju utemeljenih poduzeća, te uvjetima i načinu financiranja Programa (»Narodne novine«, broj 33/2001), Vlada Republike Hrvatske je na sjednici održanoj 6. prosinca 2001. godine donijela
