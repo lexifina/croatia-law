@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 2. Zakona o Državnom inspektoratu (»Narodne novine«, broj 76/99) i članka 26. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 25. studenoga 1999. godine, donijela
