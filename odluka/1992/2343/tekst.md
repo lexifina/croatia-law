@@ -1,0 +1,5 @@
+o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1992.
+1. Kao granična svota najnižega mirovinskog primanja, radi odredivanja zaštitnog dodatka uz.mirovinu. odreduje se od 1. listopada 1992. svota od 21.801- HRD.
+2. Kao granićna svota najnižega mirovinskog primanja, radi određivanja zaštitnog dodatka uz mirovinu, ostvarenu.prema zakonu o posebnim uvjetima za stjecanje mi rovine radnika zaposlenih u rudnicima ugljena ("Narodne novine", br: 41/88 i 20/70) i Zakona o posebnim uvjetima za stjecanje mirovine radnika zaposlenih u rudnicima ugljena ("Narodne novine", br: 41/68 i 20170) i Zakona o potebnim uvjetima za stjecanje mirovine radnika zaposlenih u rudnicima ugljena na području Republike Hrvatske ("Narodne novine", broj 40/73), odreduje se od 1. listopada 1992. svota od 28.387: HRD.
+3. Prema granićnoj svoti najnižega mirovinskog primanja od toć.1. i 2. ove odluke, odredit će se nova svota zaštitnog dodatka svim korisnicima mirovine koji imaju pravo na taj doplatak, po službenoj dužnosti, bez donošenja rješenja.
+4. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. listopada 1992.
