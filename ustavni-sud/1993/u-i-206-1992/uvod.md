@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik i suci Zdravko Bartovćak. dr. Nikola Filipović. Ante Jelavić Mitrović, mr. Vojislav Kučeković. mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela u postupku ocjene ustavnosti odredaba Zakona o hrvatskom državljanstvu na sjednici 8. prosinca 1993. godine donio je
