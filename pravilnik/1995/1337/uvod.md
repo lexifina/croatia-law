@@ -1,0 +1,1 @@
+Na temelju članka 34. stavak 1. i 2. i članka 81. stavak 1. Zakona o standardizaciji ("Narodne novine" broj 53/91, 26/93, 29/94, 44/95 i 72/95), ravnatelj Državnog zavoda za normizaciju i mjeriteljstvo donosi
