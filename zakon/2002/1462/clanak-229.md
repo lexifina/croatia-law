@@ -1,0 +1,4 @@
+## OdluČivanje o zahtjevu za obnovu postupka
+# Članak 229.
+(1) Nadležni sud ili upravno tijelo koje vodi prekršajni postupak će rješenjem zahtjev odbaciti ako na temelju samog zahtjeva i spisa prijašnjeg postupka utvrdi da je zahtjev podnijela neovlaštena osoba ili da nema zakonskih uvjeta za obnovu postupka ili da su činjenice i dokazi na kojima se zahtjev temelji već bili izneseni u prijašnjem zahtjevu za obnovu postupka koji je odbijen pravomoćnim rješenjem prekršajnog suda ili da činjenice i dokazi očito nisu prikladni da se na temelju njih dopusti obnova ili da podnositelj zahtjeva nije postupio prema članku 227. stavku 4. ovoga Zakona.
+(2) Ako nadležno prekršajno tijelo ne odluči prema stavku 1. ovoga članka, predsjednik vijeća, odnosno predsjednik upravno-prekršajnog vijeća odredit će da se izvide činjenice i pribave dokazi na koje se poziva u zahtjevu.

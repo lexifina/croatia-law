@@ -1,0 +1,6 @@
+## PodnoŠenje zahtjeva
+# Članak 236.
+(1) Okrivljenik koji je odlukom suda pravomoćno kažnjen kaznom zatvora ili kojem je u prekršajnom postupku izrečena novčana kazna od 50.000,00 kuna ili teža, zaštitna mjera zabrane obavljanja određene djelatnosti ili zanimanja, odnosno oduzimanja dozvole za obavljanje djelatnosti, može podnijeti zahtjev za izvanredno preispitivanje pravomoćne odluke u prekršajnom postupku u slučajevima predviđenim ovim Zakonom.
+(2) Zahtjev za izvanredno preispitivanje pravomoćne odluke podnosi se u roku mjesec dana od dana kada je okrivljenik primio pravomoćnu odluku.
+(3) Okrivljenik koji nije podnio žalbu na odluku prekršajnog suda ne može podnijeti zahtjev za izvanredno preispitivanje pravomoćne odluke prekršajnog suda, osim ako je tek odlukom drugog stupnja izrečena umjesto opomene i novčane kazne kazna zatvora, ili kazna zatvora u duljem trajanju, odnosno ako je tek odlukom drugog stupnja izrečena zaštitna mjera iz stavka 1. ovoga članka ili je ta mjera izrečena u duljem trajanju.
+(4) Zahtjev za izvanredno preispitivanje pravomoćne odluke može se podnijeti zbog razloga navedenih u članku 427. Zakona o kaznenom postupku, ako ovim Zakonom nije drukčije određeno.

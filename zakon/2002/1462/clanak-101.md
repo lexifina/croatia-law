@@ -1,0 +1,13 @@
+## XII. IZUZEĆE
+## Razlozi za izuzeĆe i postupanje u tim sluČajevima
+# Članak 101.
+(1) Izuzet je od rada u prekršajnom postupku:
+1. tko je optužen za počinjeni prekršaj ili je njime oštećen,
+2. tko je s okrivljenikom ili njegovim braniteljem, oštećenikom, državnim odvjetnikom ili drugim podnositeljem prekršajne prijave, zakonskim zastupnikom ili opunomoćenikom okrivljenika ili oštećenika rođak u uspravnoj liniji do bilo kojeg stupnja, u pobočnoj liniji do četvrtog stupnja, a po tazbini do drugog stupnja,
+3. tko je s okrivljenikom ili njegovim braniteljem, okrivljenikovim bračnim drugom, rođak u uspravnoj liniji do bilo kojeg stupnja, u pobočnoj liniji do četvrtog stupnja, a po tazbini do drugog stupnja u odnosu posvojitelja, posvojenika, skrbnika, štićenika, hranitelja ili hranjenika,
+4. tko je u istom predmetu vodio postupak ili sudjelovao u donošenju odluke koja se pobija pravnim sredstvom,
+5. tko je sudjelovao u inspekcijskom ili drugom nadzoru na temelju kojega je pokrenut prekršajni postupak, osim u slučaju kada je ovim Zakonom ovlašten sam donijeti prekršajni nalog.
+(2) Od rada u prekršajnom postupku može se izuzeti svatko protiv koga postoje okolnosti koje izazivaju sumnju u njegovu nepristranost.
+(3) Sudac ili službenik tijela koje vodi prekršajni postupak čim sazna da postoji koji od razloga za izuzeće iz stavka 1. ovoga članka, dužan je prekinuti svaki rad na tom predmetu i o tome izvijestiti predsjednika prekršajnog suda, odnosno nadležnog čelnika tijela državne uprave koji će mu odrediti zamjenu. Ako je riječ o izuzeću predsjednika suda, odnosno čelnika upravnog tijela koje vodi prekršajni postupak, on će odrediti sebi zamjenika između sudaca tog suda, odnosno upravnih službenika iz sastava odnosnog upravnog tijela.
+(4) Ako nije moguće da predsjednik suda ili čelnik upravnog tijela koje vodi prekršajni postupak odrede sebi zamjenu prema stavku 3. ovoga članka, obavijestit će o tome predsjednika Visokog prekršajnog suda Republike Hrvatske, odnosno ministra ili drugog nadležnog čelnika državnog tijela nadležnog za poslove opće uprave koji će mu odrediti zamjenu ili postupiti prema članku 98. ovoga Zakona.
+(5) Ako sudac smatra da postoje druge okolnosti iz stavka 2. ovoga članka koje opravdavaju njegovo izuzeće, izvijestit će o tome predsjednika suda, a ako je riječ o predsjedniku suda izvijestit će o tome predsjednika Visokog prekršajnog suda radi donošenja potrebne odluke. U istom slučaju službenik upravnog tijela koje vodi prekršajni postupak izvijestit će čelnika upravnog tijela koje vodi prekršajni postupak, a ako se radi o njemu, on će izvijestiti ministra ili čelnika državnog tijela nadležnog za poslove opće uprave.

@@ -1,0 +1,7 @@
+## Svrha dovoĐenja i njegovo izvrŠenje
+# Članak 132.
+(1) Ako se uredno pozvana osoba ne odazove pozivu i svoj nedolazak ne opravda, a njezina je nazočnost u postupku prijeko potrebna, sud ili upravno tijelo koje vodi prekršajni postupak može izdati dovedbeni nalog. Dovedbeni nalog može se izdati i ako se nije mogla obaviti uredna dostava poziva, a iz okolnosti očito proizlazi da osoba koja se poziva izbjegava primiti poziv. Nalog se može izdati samo ako je pozvana osoba bila upozorena da može biti dovedena, osim ako se poziv nije mogao uručiti zbog izbjegavanja pozvane osobe da ga primi. U slučaju kada je pravna osoba okrivljenik, odredbe ovoga članka odnosit će se na njenog predstavnika.
+(2) Dovedbeni nalog izdaje se u pisanom obliku i sadrži ime i prezime osobe koju treba dovesti, JMBG, ime oca i druge poznate podatke, razlog zbog kojeg se nalaže dovođenje, službeni pečat i potpis suca koji izdaje nalog, odnosno potpis voditelja prekršajnog postupka pred upravnim tijelom.
+(3) Dovedbeni nalog izvršava policija. Ona predaje nalog okrivljeniku ili pozvanoj osobi i poziva ga da pođe s njom. Ako ona to odbije, dovest će ju prisilno. Policija će bez odgode izvijestiti tijelo koje je izdalo dovedbeni nalog o razlozima zbog kojih taj nalog nije bilo moguće izvršiti.
+(4) Ako je tijelu prekršajnog postupka poznato da je osoba protiv koje se prema ovom Zakonu može donijeti nalog o dovođenju vojna osoba, vojni službenik ili vojni namještenik, dovedbeni nalog izvršava vojna policija.
+4. Potraga, tjeralica i objava

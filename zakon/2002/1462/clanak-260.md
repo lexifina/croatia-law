@@ -1,0 +1,7 @@
+## Zamjena globe i novČane kazne radom za opĆe dobro ili zatvorom
+# Članak 260.
+(1) Kad globa ili novčana kazna nije u cijelosti ili djelomično plaćena u roku koji je određen odlukom, sud koji je odlučivao u prvom stupnju zamijenit će je radom za opće dobro ili zatvorom prema odredbama ovoga Zakona.
+(2) U slučaju kada je prvostupanjsku odluku donijelo upravno tijelo koje vodi prekršajni postupak, dostaviti će pravomoćno rješenje o prekršaju zajedno s potvrdom da novčana kazna nije dijelom ili u cijelosti plaćena prekršajnom sudu prema mjestu prebivališta okrivljenika koji će rješenjem odlučiti o zamjeni novčane kazne radom za opće dobro ili zatvorom.
+(3) Protiv rješenja iz stavka 1. i 2. ovoga članka dopuštena je žalba.
+(4) Okrivljeniku kojemu bi prema zakonu globu ili novčanu kaznu trebalo zamijeniti radom za opće dobro i koji odbije rad za opće dobro ili uredno ne obavlja taj rad, sud iz stavka 1. ovoga članka zamijeniti će globu ili novčanu kaznu zatvorom prema odredbama ovoga Zakona. Ako je rad za opće dobro uredno obavljen djelomično, globa ili novčana kazna zamijenit će se zatvorom u razmjerno kraćem trajanju.
+(5) Ako okrivljenik tijekom postupka zamjene novčane kazne zatvorom ili tijekom izvršavanja kazne zatvora plati u cijelosti novčanu kaznu, postupak izvršenja će se obustaviti, a okrivljenik pustiti na slobodu. Sva tijela koja sudjeluju u postupku izvršenja zatvora kojim je zamijenjena novčana kazna primit će uz potvrdu iznos neplaćene novčane kazne.

@@ -1,0 +1,4 @@
+## Javnost glavne rasprave
+# Članak 190.
+(1) Glavna rasprava je javna. Iznimno, javnost se može, na prijedlog okrivljenika, oštećenika, podnositelja zahtjeva za pokretanje prekršajnog postupka ili državnog odvjetnika, ili po službenoj dužnosti, rješenjem isključiti za cijelu raspravu ili njezin dio, ako se vodi postupak prema maloljetniku, ako to traže probitci javne sigurnosti ili morala, ako se raspravlja o odnosima u obitelji, ako se raspravlja o činjenicama koje predstavljaju službenu, poslovnu, profesionalnu, znanstvenu ili umjetničku tajnu ili ako postoji neposredna i ozbiljna opasnost ometanja rasprave. Protiv rješenja kojim se odlučuje o isključenju javnosti dopuštena je posebna žalba, koja ne zadržava izvršenje.
+(2) Isključenje javnosti ne odnosi se na okrivljenika, branitelja, predstavnike pravne osobe, opunomoćenika i državnog odvjetnika. Može se dopustiti da raspravi budu nazočne i osobe koje imaju znanstveni ili stručni interes.

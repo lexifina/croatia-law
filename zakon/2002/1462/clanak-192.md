@@ -1,0 +1,7 @@
+## PoČetak glavne rasprave i red izvoĐenja dokaza
+# Članak 192.
+(1) Glavna rasprava započinje čitanjem zahtjeva za pokretanje prekršajnog postupka. Nakon provjere nazočnosti pozvanih osoba obavit će se ispitivanje okrivljenika nakon kojeg slijedi dokazni postupak u kojem se ispituju svjedoci i vještaci te izvode svi dokazi potrebni za utvrđivanje činjenica važnih za odluku. Red izvođenja dokaza utvrđuje sudac, ali će se ispitivanje oštećenika kao svjedoka u pravilu obaviti prije ispitivanja ostalih svjedoka. Prije dokazanog postupka sudac mora iz spisa predmeta izdvojiti sve zapisnike i druge isprave o dokazima na kojima se po odredbama ovoga Zakona ne smije utemeljiti rješenje o prekršaju.
+(2) Ako se postupak vodi protiv pravne i odgovorne osobe, prije će se ispitati predstavnik pravne osobe, a potom odgovorna osoba. Više okrivljenika ispituju se redom tako da se nakon svakog ispitanog suokrivljenika prije ispitani suokrivljenik upita ima li što primijetiti na iskaz kasnije ispitanog optuženika. Ako im se iskazi u istoj okolnosti razlikuju, suoptuženici se mogu suočiti.
+(3) Ne treba dokazivati:
+1. činjenice koje je okrivljenik priznao pred sudom, osim ako sud ne ustanovi da se priznanjem želi zaštititi počinitelj prekršaja ili postići kakva druga nedopuštena svrha,
+2. opće poznate činjenice i činjenice čije postojanje zakon pretpostavlja, osim ako je pravno dopušteno opovrgavanje takve pretpostavke.

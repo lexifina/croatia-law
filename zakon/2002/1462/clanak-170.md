@@ -1,0 +1,4 @@
+## Zahtjev za pokretanje prekrŠajnog postupka
+# Članak 170.
+(1) Prekršajni postupak pokreće pred sudom nadležno tijelo ili oštećenik podnošenjem zahtjeva za pokretanje prekršajnog postupka. Nadležna tijela su: državni odvjetnik, tijela uprave u čiju nadležnost spada neposredno provođenje ili nadzor nad provođenjem propisa kojima su propisani prekršaji, nadležna inspekcijska tijela ili pravne osobe s javnim ovlastima. Ako ta tijela ne pokrenu postupak, to mogu učiniti tijela višeg stupnja u čiju nadležnost spada nadzor nad provođenjem određenog propisa.
+(2) Zahtjev za pokretanje prekršajnog postupka sadrži: ime i prezime počinitelja s osobnim podacima, odnosno tvrtku okrivljenika - pravne osobe, njezin matični broj i podatke o njezinu predstavniku, ako su poznati, opis djela iz kojeg proizlaze propisana obilježja prekršaja, vrijeme i mjesto počinjenja prekršaja, odredbe propisa kojim je određen prekršaj te podatke o dokazima.

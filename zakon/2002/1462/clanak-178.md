@@ -1,0 +1,7 @@
+## OdreĐivanje vjeŠtaČenja
+# Članak 178.
+(1) Vještačenje se određuje kad za utvrđivanje ili ocjenu neke važne činjenice treba pribaviti nalaz i mišljenje od osobe koja raspolaže potrebnim stručnim znanjem.
+(2) Vještačenje se određuje pisanom naredbom suda ili upravnog tijela koje vodi prekršajni postupak. U naredbi će se navesti u svezi s kojim se činjenicama obavlja vještačenje i kome se povjerava.
+(3) Ako za određenu vrstu vještačenja postoji stručna ustanova ili se vještačenje može obaviti unutar državnog tijela, takva vještačenja osobito složenija, povjeravat će se u pravilu takvoj ustanovi odnosno tijelu. Ustanova, odnosno tijelo određuje jednog ili više stručnjaka koji će obaviti vještačenje.
+(4) Ako za koju vrstu vještačenja postoje kod suda stalno određeni vještaci, drugi se vještaci mogu odrediti samo ako postoji opasnost od odgode ili ako su stalni vještaci spriječeni, ili ako to zahtijevaju druge okolnosti.
+(5) Za vještaka se ne može uzeti osoba koja ne može biti ispitana kao svjedok ili osoba koja je oslobođena dužnosti svjedočenja, a ni osoba prema kojoj je prekršajno djelo počinjeno, a ako je uzeta, na njezinu nalazu i mišljenju ne može se temeljiti odluka suda. Za vještaka se u pravilu neće uzeti osoba koja je ispitana kao svjedok. Razlog za izuzeće vještaka postoji i u svezi s osobom koja je zajedno s okrivljenikom ili oštećenikom zaposlena u istom državnom tijelu ili kod istog poslodavca.

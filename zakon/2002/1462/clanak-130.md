@@ -1,0 +1,5 @@
+## Poziv okrivljeniku
+# Članak 130.
+(1) Osim sadržaja iz članka 129. stavka 2. i 3. ovoga Zakona poziv okrivljeniku sadrži obavijest o prekršaju za koji ga se tereti, upozorenje da mora osobno pristupiti, te upozorenje da će se u slučaju nedolaska izdati dovedbeni nalog ili da će se, ako za raspravu pred prekršajnim sudom nazočnost okrivljenika nije potrebna, odluka donijeti i bez njegove nazočnosti.
+(2) U prekršajnom postupku sud ili upravno tijelo koje vodi prekršajni postupak može, ako je to prema stanju predmeta primjereno, u pozivu navesti da okrivljenik može ili doći osobno ili svoju obranu izložiti u pisanom podnesku. Ako u tom slučaju okrivljenik ne dođe i ne iznese svoju obranu u pisanom podnesku, smatrat će se da ne želi dati iskaz i da se brani šutnjom. Okrivljenik kojemu je dana mogućnost da svoju obranu izloži u pisanom podnesku može se u kasnijem tijeku postupka pozvati da dođe osobno.
+(3) Kad se okrivljenik prvi put poziva, dostavit će mu se zahtjev za pokretanje prekršajnog postupka, poučit će se u pozivu o pravu da uzme branitelja te da branitelj može biti nazočan njegovu ispitivanju.

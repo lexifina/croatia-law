@@ -1,0 +1,4 @@
+## Pojedine izvidne radnje
+# Članak 155.
+(1) Radi ispunjenja zadatka iz članka 154. ovoga Zakona upravna tijela mogu: pribaviti obavijesti od građana, pregledati poslovne prostorije i druge javne objekte, privremeno ograničiti kretanje na određenom području, pregledati osobe, vozila i prtljagu sukladno posebnim propisima, pregledati poslovne knjige, isprave i drugu dokumentaciju, te poduzeti druge mjere i radnje važne za otkrivanje prekršaja, njihovih počinitelja i kasnije uspješno vođenje postupka. O poduzetim radnjama sastavlja se zapisnik.
+(2) Pod uvjetima predviđenim ovim Zakonom upravna tijela mogu i prije započinjanja prekršajnog postupka obaviti očevid, pretragu, privremeno oduzimanje predmeta, odrediti vještačenje, privremeno zabraniti ili ograničiti djelatnost, te ispitati osobe u svojstvu okrivljenika i svjedoka.

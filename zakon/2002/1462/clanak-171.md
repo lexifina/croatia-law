@@ -1,0 +1,4 @@
+## OdluČivanje o zahtjevu za pokretanje prekrŠajnog postupka
+# Članak 171.
+(1) Zaprimljeni zahtjev za pokretanje prekršajnog postupka sud će razmotriti bez odgode i zakazati raspravu. Smatra se da prekršajni postupak započinje određivanjem glavne rasprave.
+(2) Sud će rješenjem odbaciti zahtjev za pokretanje prekršajnog postupka ako djelo koje se okrivljeniku stavlja na teret nije prekršaj, ako postoje okolnosti koje isključuju krivnju, ako je nastupila zastara progona, ako podnositelj zahtjeva za pokretanje prekršajnog postupka nije ovlašten podnijeti zahtjev za odnosni prekršaj ili postoje druge okolnosti koje isključuju progon za prekršaj, te ako nema dovoljno dokaza da je okrivljenik počinio prekršaj. Protiv toga rješenja žalbu mogu izjaviti podnositelj zahtjeva za pokretanje prekršajnog postupka i oštećenik pod uvjetima propisanim ovim Zakonom.

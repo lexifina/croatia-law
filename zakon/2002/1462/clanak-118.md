@@ -1,0 +1,7 @@
+## Izdvajanje odreĐenih zapisnika i drugih pisanih akata iz spisa predmeta
+# Članak 118.
+(1) Kad je u ovom Zakonu određeno da se na iskazu okrivljenika, svjedoka ili vještaka ne može utemeljiti odluka u postupku, sud će po službenoj dužnosti ili na prijedlog okrivljenika donijeti rješenje o izdvajanju zapisnika o tim iskazima iz spisa odmah.
+(2) Na jednak način postupit će sud najkasnije do zakazivanja glavne rasprave u prekršajnom postupku i u pogledu službenih bilješki policije i drugih upravnih tijela koje sadrže izjave počinitelja prekršaja te osoba koje se ne mogu ispitati kao svjedoci ili su oslobođene dužnosti svjedočenja u postupku. Ova se odredba ne odnosi na iskaze koje su u skladu sa zakonom navedene osobe dale u prekršajnom postupku pred sudom ili pred upravnim tijelom koje vodi prekršajni postupak.
+(3) Protiv rješenja kojim se prijedlog okrivljenika za izdvajanje prema stavku 1. i 2. ovoga članka odbija dopuštena je posebna žalba u roku od tri dana, o kojoj odlučuje vijeće Visokog prekršajnog suda. Nakon pravomoćnosti rješenja izdvojeni se zapisnici zatvaraju u poseban omot i čuvaju odvojeno od ostalih spisa i ne mogu se razgledati ili koristiti u postupku.
+(4) U prekršajnom postupku pred upravnim tijelom zapisnike i druge pisane akte iz stavka 1. i 2. ovoga članka izdvaja voditelj postupka ili predsjednik upravno-prekršajnog vijeća. O žalbi protiv njegove odluke odlučuje drugostupanjsko vijeće za prekršajni postupak.
+3. Razgledanje i prepisivanje spisa

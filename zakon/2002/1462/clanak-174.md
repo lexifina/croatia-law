@@ -1,0 +1,4 @@
+## Pozivanje svjedoka
+# Članak 174.
+(1) Kao svjedoci pozivaju se osobe za koje je vjerojatno da će moći dati obavijesti o prekršaju, te počinitelju i o drugim važnim okolnostima. Oštećenik i oštećenik kao tužitelj mogu se ispitati kao svjedoci. Svaka osoba koja se kao svjedok poziva dužna je odazvati se pozivu, a ako ovim Zakonom nije drukčije propisano, obvezna je i svjedočiti.
+(2) Svjedok se poziva dostavom pisanog poziva u kojem će se navesti, ime, prezime, vrijeme i mjesto dolaska, prekršajni predmet u svezi s kojim se poziva, naznaku da se poziva kao svjedok i upozorenje o posljedicama neopravdanog izostanka. Pozivanje kao svjedoka maloljetne osobe koja nije navršila 16 godina obavlja se preko njezinih roditelja, odnosno zakonskog zastupnika. Svjedoci koji se zbog starosti, bolesti ili teških tjelesnih mana ne mogu odazvati pozivu mogu se ispitati u svojem stanu.

@@ -1,0 +1,5 @@
+## Ispitivanje osumnjiČenika i svjedoka
+# Članak 158.
+(1) Ako policija ili upravna tijela ispituju osobu kao osumnjičenika, prethodno su dužni upoznati je, na jeziku koji razumije, s razlozima sumnje protiv nje, upozoriti je na to da nije dužna odgovarati na pitanje te da ima pravo na branitelja. Ako ne postupe u skladu s ovom odredbom ili ako izjava osumnjičenika o korištenju prava na branitelja nije ubilježena u zapisnik, na iskazu te osobe ne može se temeljiti odluka u postupku pred prekršajnim sudom.
+(2) Policija ili upravna tijela mogu ispitati osobe u svojstvu svjedoka kada postoji opasnost da kasnije zbog smrti, bolesti, odsutnosti ili drugog razloga neće moći svjedočiti u postupku. Zapisnik o ispitivanju osoba u svojstvu svjedoka pred policijom ili upravnim tijelima može poslužiti kao dokaz u postupku ako je ispitivanje svjedoka obavljeno sukladno odredbama ovoga Zakona o ispitivanju svjedoka.
+(3) U postupku će tijelo koje vodi postupak, neovisno o ispitivanju svjedoka prema stavku 2. ovoga članka, pozvati svjedoka da dade svoj iskaz u postupku, kada smatra da bi se time bolje razjasnio slučaj, ili kada to okrivljenik traži.

@@ -1,0 +1,6 @@
+## Prigovor protiv prekrŠajnog naloga
+# Članak 167.
+(1) Okrivljenik, njegov zakonski zastupnik, predstavnik pravne osobe ili opunomoćenik mogu u roku od osam dana od dana dostave ili uručenja prekršajnog naloga podnijeti prigovor tijelu koje je izdalo prekršajni nalog, a pravovremeno podneseni prigovor zadržava izvršenje.
+(2) U korist okrivljenika prigovor mogu podnijeti i njegov bračni i izvanbračni drug, rođak u uspravnoj liniji, posvojitelj, posvojenik, brat, sestra i branitelj. Rok za prigovor i u tom slučaju teče od dana kada je okrivljeniku, odnosno njegovom branitelju dostavljen prekršajni nalog.
+(3) Ako je okrivljenik platio novčanu kaznu, iznos naknade štete i troškova postupka o kojima je odlučeno u prekršajnom nalogu, smatrat će se da je odustao od prigovora. U tome se predmetu ne mogu podnositi drugi pravni lijekovi osim zahtjeva za zaštitu zakonitosti. Ako je okrivljenik platio samo novčanu kaznu, podneseni će se prigovor smatrati žalbom na odluku o naknadi štete i troškovima postupka.
+(4) Prigovor treba sadržavati naznaku prekršajnog naloga protiv kojega se podnosi, adresu i potpis podnositelja. Prigovor se ne treba posebno obrazlagati. Prijedlog za izvođenje dokaza okrivljenik mora obrazložiti.

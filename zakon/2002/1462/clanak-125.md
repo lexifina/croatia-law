@@ -1,0 +1,4 @@
+## Uvjeti za povrat u prijaŠnje stanje
+# Članak 125.
+(1) Okrivljeniku koji iz opravdanih razloga propusti rok za podnošenje žalbe protiv rješenja o prekršaju ili rješenja o primjeni zaštitne mjere ili odgojne mjere ili o oduzimanju imovinske koristi ili propusti u roku podnijeti prigovor protiv prekršajnog naloga sud ili upravno tijelo koje vodi prekršajni postupak iznimno će dopustiti povrat u prijašnje stanje radi podnošenja žalbe, odnosno izdavatelj prekršajnog naloga radi podnošenja prigovora protiv prekršajnog naloga, ako u roku od osam dana nakon prestanka uzroka zbog kojega je propustio rok podnese molbu za povrat u prijašnje stanje i ako istovremeno s molbom preda i žalbu ili prigovor protiv prekršajnog naloga.
+(2) Nakon proteka jednog mjeseca od dana propuštanja ne može se tražiti povrat u prijašnje stanje.

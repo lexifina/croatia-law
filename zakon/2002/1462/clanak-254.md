@@ -1,0 +1,6 @@
+## Objava u sredstvima javnog priopĆivanja
+# Članak 254.
+(1) Ako je slučaj na koji se odnosi neopravdana pravomoćna odluka ili neosnovano oduzimanje slobode prikazivan u sredstvima javnog priopćavanja i time bio povrijeđen ugled te osobe, sud će, na njezin zahtjev, objaviti u novinama ili drugome javnom sredstvu priopćavanja priopćenje o odluci iz koje proizilazi neopravdanost prijašnje pravomoćne odluke odnosno neosnovanost uhićenja. Ako slučaj nije prikazan u sredstvu javnog priopćavanja, takvo će se priopćenje, na zahtjev te osobe, dostaviti njezinu poslodavcu. Nakon smrti kažnjenika pravo na podnošenje tog zahtjeva pripada njezinu bračnom ili izvanbračnom drugu, djeci, roditeljima, braći i sestrama.
+(2) Zahtjev iz stavka 1. ovoga članka može se podnijeti i ako nije stavljen zahtjev za naknadu štete.
+(3) Neovisno o uvjetima predviđenim u članku 249. ovoga Zakona zahtjev iz stavka 1. ovoga članka može se podnijeti i kad je u povodu izvanrednog pravnog lijeka izmijenjena pravna kvalifikacija djela, ako je zbog pravne kvalifikacije u prijašnjoj pravomoćnoj odluci bio povrijeđen ugled kažnjene osobe.
+(4) Zahtjev iz stavka 1. do 3. ovoga članka podnosi se u roku od šest mjeseci prvostupanjskom sudu. O zahtjevu odlučuje vijeće prekršajnog suda prema sjedištu izdavača ili sjedištu radio ili TV postaje.

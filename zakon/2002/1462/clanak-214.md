@@ -1,0 +1,7 @@
+## Sudac izvjestitelj
+# Članak 214.
+(1) Kad spisi povodom žalbe stignu drugostupanjskom sudu, predsjednik žalbenog vijeća određuje suca izvjestitelja.
+(2) Sudac izvjestitelj može prema potrebi od prvostupanjskog tijela pribaviti izvješće o povredama odredaba postupka, a može preko tog tijela ili na drugi način provjeriti navode žalbe u svezi s novim dokazima i novim činjenicama ili od drugih tijela ili pravnih osoba pribaviti potrebna izvješća ili spise.
+(3) Ako sudac izvjestitelj utvrdi da se u spisima nalaze zapisnici i obavijesti predviđeni u članku 118. ovoga Zakona, donijet će rješenje o njihovu izdvajanju iz spisa.
+(4) Kad sudac izvjestitelj pripremi svoj izvještaj, predsjednik će vijeća zakazati sjednicu vijeća. O sjednici vijeća u povodu žalbe na rješenje o prekršaju obavijestit će se okrivljenik i njegov branitelj, ako predsjednik vijeća ili vijeće smatra da bi nazočnost nekog od njih bila korisna za razjašnjenje stvari. Ako su okrivljenik ili njegov branitelj u povodu žalbe na rješenje o prekršaju kojim je izrečena kazna zatvora u žalbi stavili zahtjev za obavijest o sjednici vijeća, u tom slučaju obavezno se o sjednici vijeća obavještavaju okrivljenik i njegov branitelj.
+(5) Ako se postupak vodi po zahtjevu državnog odvjetnika, prije zakazivanja sjednice vijeća dostavit će mu se spis na razmatranje, koji ga je dužan razgledati i bez odgode vratiti sudu. O sjednici vijeća obavijestit će se državni odvjetnik.
