@@ -1,0 +1,1 @@
+Temeljem članka 3. Zakona o potvrđivanju Konvencije o nuklearnoj sigurnosti ("Narodne novine" MU br. 13/95) te članka 39. Zakona o sustavu državne uprave ("Narodne novine" br. 75/93), dana 24. studenoga 1998. godine Ministar gospodarstva donosi
