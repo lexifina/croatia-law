@@ -1,0 +1,3 @@
+## o stavljanju izvan snage uredaba iz oblasti pravosuđa za vrijeme ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske
+# Članak 1.
+Ovom se uredbom stavljaja izvan snage uredbe iz oblasti : pravosuđa za vrijeme ratnog stanja ili ·neposredne, ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske, i to: 1. Uredba o primjeni Krivičnog zakona Republike Hrvatske u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske ("Narodne novine"; broj. 67/91 ), . 2. Uredba o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje za vrijeme ratnog stanja ili u slučaju neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske,("Narodne novine", broj 55/91)
