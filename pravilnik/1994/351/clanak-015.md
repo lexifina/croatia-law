@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Pored dokumenata za pravdanje, na kojima su utvrđene nastale poslovne promjene, kao osnova za knjiženje mogu poslužiti i knjigovodstvene isprave koje se, na temelju dokumenata za provedbu, sastavljaju u neprofitnoj organizaciji radi veće preglednosti knjiženja poslovnih promjena. U takve isprave spadaju blagajnički nalozi, rekapitulacije i slično.
+(2) U naloge za knjiženje spadaju i nalozi za knjiženje ispravaka (storno) pogrešnih knjiženja, koji se zasnivaju na prije proknjiženim nalozima i dokumentima za pravdanje, koji su bili pogrešno proknjiženi. Tu spadaju i drugi nalozi koji se izdaju u knjigovodstvu, a zasnivaju se na propisima.
