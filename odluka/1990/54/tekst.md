@@ -1,0 +1,6 @@
+o povećanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u vezi s pravom na zaposlenje od 1. siječnja 1990.
+1. Naknade osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u vezi s pravom na zaposlenje (član 52. stav 1. toč. 1. i 2. Zakona o mirovinskom i invalidskom osiguranju) koje osigurava i isplaćuje zajednica, ako osnovica za određivanje naknade nije utvrđena na temelju osobnih dohodaka iz godine 1990. povećavaju se od 1. siječnja 1990. za 225%.
+2. Naknade osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohodka u vezi s pravom na zaposlenje, ne mogu se isplaćivati u manjem iznosu od 1.611,30 dinara mjesečno.
+3. Kao osnovica za povećanje prema točki 1. ove odluke, služi iznos naknada koji je invalidu rada pripadao na dan 1. siječnja 1990., odnosno na dan priznanja prava na naknadu, ako je to pravo priznato nakon 1. siječnja 1990.
+4. Povećanje naknada iz točke 1. ove odluke obavit će područne službe Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja radnika Hrvatske, po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1990.
