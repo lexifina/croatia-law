@@ -1,0 +1,2 @@
+# Članak 19.
+U trgovini na malo lozni cijepovi i korjenjaci moraju biti prethodno obrađeni, to jest izboji prikraćeni na 2 - 3 pupa, vršni dio cijepa ili korjenjaka mora biti najmanje duljine 50 mm ispod spojnog mjesta ili baze izboja kvalitetno parafiniran, a korijenje mora biti prikraćeno na najmanju duljinu 150 - 200 mm. Tako obrađeni cijepovi pakiraju se u odgovarajuću kartonsku ambalažu, unutar ambalaže u plastične vreće ili folije, a korijenje je zasuto vlažnim supstratom.
