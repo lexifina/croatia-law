@@ -1,0 +1,2 @@
+# Članak 29.
+Stupanjem na snagu ovog pravilnika prestaje važiti Pravilnik o normativima rada i jedinstvenim elementima o vrednovanju rezultata rada u stanicama za tehnički pregled vozila (»Narodne novine« 166/98., i 34/02), Pravilnik o naknadama za tehnički pregled vozila i drugim poslovima koji se obavljaju u stanicama za tehnički pregled vozila (»Narodne novine« 166/98., 109/01, 34/02 i 198/03).

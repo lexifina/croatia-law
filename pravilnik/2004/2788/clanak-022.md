@@ -1,0 +1,2 @@
+# Članak 22.
+Osim naknada iz članka 17. ovog pravilnika, stanice mogu, sukladno posebnim propisima i sklopljenim ugovorima ostvarivati i sredstva od usluga naplate propisanih obveza za koje je utvrđeno da se bez njihove uplate ne može obaviti registracija ili ovjeriti produljenje valjanosti prometne dozvole (godišnja naknada za uporabu cesta što se plaća pri registraciji motornih i priključnih vozila, posebna naknada za okoliš na vozila na motorni pogon). Struktura raspodjele ovih sredstava istovjetna je strukturi raspodjele naknada iz članka 20. ovog pravilnika.

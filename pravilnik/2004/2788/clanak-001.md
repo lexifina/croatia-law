@@ -1,0 +1,5 @@
+## o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehniČki pregled vozila
+# Članak 1.
+Tehnički pregledi vozila, kao djelatnost od općeg interesa, obavljaju se u stanicama za tehnički pregled vozila koje za to ispunjavaju propisane uvjete i imaju ovlaštenje, a obavljaju ih ovlašteni djelatnici stručne organizacije iz čl. 273. Zakona o sigurnosti prometa na cestama (u daljnjem tekstu: Zakon), i ovlašteni djelatnici stanica za tehnički pregled vozila pravnih osoba koje su imale ovlaštenje i obavljale tehničke preglede prije stupanja na snagu važećeg Zakona.
+Poslove organiziranja i jedinstvenoga provođenja tehničkih pregleda vozila, organiziranja poslova registracije vozila u stanicama za tehnički pregled vozila kao javne ovlasti obavlja ovlaštena stručna organizacija iz članka 273. Zakona (u daljnjem tekstu: stručna organizacija).
+Poslovi iz stavka 1. koji se obavljaju u stanicama za tehnički pregled vozila (u daljnjem tekstu: stanice) i poslovi iz stavka 2. ovog članka koje obavlja stručna organizacija čine jedinstveni sustav tehničkih pregleda i registracije vozila sukladno odredbama Zakona.

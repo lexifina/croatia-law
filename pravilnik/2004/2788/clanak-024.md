@@ -1,0 +1,3 @@
+## 5. OSNOVNI ELEMENTI UTVRĐIVANJA SREDSTAVA ZA PLAĆE
+# Članak 24.
+Vrednovanje rezultata rada djelatnika stanica ovisi isključivo o ostvarenim prihodima stanice. Ukupan iznos sredstava za plaće utvrđuje se primjenom postotka iz točke 5. članka 20. ovog pravilnika na ukupno ostvareni prihod stanice. Po odbitku svih troškova koji se odnose na djelatnike (naknade plaće za bolovanje godišnji odmor i sl., troškovi prijevoza na posao i s posla, dnevnice i putni troškovi, dio troškova zajedničkih službi, uprave i režije i sl.) utvrđuju se preostala sredstva koja se raspoređuju za bruto plaće djelatnika stanice.
