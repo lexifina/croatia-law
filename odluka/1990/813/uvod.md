@@ -1,0 +1,1 @@
+Temeljem člana 13. Zakona o eksproprijaciji ("Narodne novine", br. 46/82, 28/87 i 39/88), a povodom zahtjeva Republičke samoupravne interesne zajednice Hrvatske iz Zagreba, Vončinina 3, Vlada Republike Hrvatske donosi
