@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o Fondu za razvoj i zapošljavanje (»Narodne novine«, broj 107/01) Upravni odbor Fonda za razvoj i zapošljavanje na sjednici održanoj 11. travnja 2003. godine, uz suglasnost Vlade Republike Hrvatske dobivenoj na sjednici održanoj 12. lipnja 2003., klasa: 302-01/02-03/02, urbroj: 5030120-03-1, donosi
