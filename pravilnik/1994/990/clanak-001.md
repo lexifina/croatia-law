@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o radu zdravstvenih djelatnika izvan punog radnog vremena ("Narodne novine", br. 48/94) članak 2. mijenja se i glasi: U kliničkim ustanovama (klinici, kliničkoj bolnici i kliničkom bolničkom centru) poslove u svojoj struci izvan punog radnog vremena mogu obavljati izvanredni i redovni profesori. U domovima zdravlja, općim i specijalnim bolnicama, lječilištima i poliklinikama poslove u svojoj struci izvan punog radnog vremena mogu obavljati izvanredni i redovni profesori te primarijusi s doktoratom znanosti.
