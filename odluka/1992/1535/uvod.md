@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/91), a povodom prijedloga Ljubljanske banke d.d. Ljubljana, Glavna filijala Zagreb, Savska cesta 41, Vlada Republike Hrvatske, na sjednici održanoj 22. rujna 1992. godine, donijela je
