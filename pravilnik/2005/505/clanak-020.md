@@ -1,0 +1,2 @@
+# Članak 20.
+Ako se veleprodaja bavi stavljanjem u promet tvari u vlastitom pakovanju, uz prostorije iz članka 19. ovoga Pravilnika mora imati dodatne prostorije sukladno zahtjevima dobre proizvođačke prakse u opsegu potrebnom za obavljanje djelatnosti razmjeravanja, pakiranja, označavanja, provjere kakvoće i skladištenja. Pod dodatnim prostorijama podrazumijevaju se i prostorije za provjeru kakvoće ljekovite tvari, ako veleprodaja nema ugovor sa ovlaštenim laboratorijem za ispitivanje kontrole lijekova.
