@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o ljekarništvu (»Narodne novine« 121/03.) i članka 164. stavka 2. Zakona o zdravstvenoj zaštiti (»Narodne novine« 121/03) Vijeće Hrvatske ljekarničke Komore na svojoj 3/60 sjednici održanoj dana 22. siječnja 2004. godine, uz suglasnost ministra nadležnog za zdravstvo donosi

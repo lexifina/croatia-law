@@ -1,0 +1,3 @@
+# Članak 10.
+Ravnatelj ljekarničke ustanove, voditelj ljekarne odnosno laboratorija i magistar farmacije nad radom kojega se obavlja stručni nadzor dužni su provoditelju stručnog nadzora omogućiti obavljanje nadzora i pružiti mu sve potrebne podatke i obavijesti.
+Ako ravnatelj ljekarničke ustanove, voditelj ljekarne odnosno laboratorija i magistar farmacije nad radom kojeg se obavlja satručni nadzor odbiju omogućiti obavljanje nadzora, provoditelj stručnog nadzora će o tome sačiniti zapisnik, na temelju kojeg će Povjerenstvo zatražiti inspekcijski nadzor od ministarstva nadležnog za zdravstvo.
