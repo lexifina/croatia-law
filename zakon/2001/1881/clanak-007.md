@@ -1,0 +1,5 @@
+# Članak 7.
+U članku 14. stavak 1. mijenja se i glasi:
+»(1) Vrijednost imovine fonda izračunava i utvrđuje društvo za upravljanje investicijskim fondovima. Za otvoreni fond vrijednost imovine fonda izračunava se svakog burzovnog dana na temelju tečajnih vrijednosti njegovih vrijednosnih papira i depozita u financijskim institucijama te drugih imovinskih vrijednosti uz odbitak obveza. Za zatvoreni fond vrijednost imovine fonda izračunava se jednom mjesečno na temelju tečajnih vrijednosti nje- govih vrijednosnih papira i depozita u financijskim institucijama te drugih imovinskih vrijednosti uz odbitak obveza. Društvo za upravljanje utvrđuje vrijednost vrijednosnih papira koji nisu uvršteni za prodaju na burzi. Metode procjene i utvrđivanja vrijednosti moraju biti u skladu s međunarodnim računovodstvenim standardima. Za poslove procjene i utvrđivanja vrijednosti imovine fonda društvo za upravljanje investicijskim fondovima može koristiti usluge drugih stručnih institucija i savjetnika.«
+Stavak 2. briše se.
+Dosadašnji stavak 3. postaje stavak 2.
