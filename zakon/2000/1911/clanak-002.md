@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Protiv poduzeća i drugih pravnih osoba iz članka 1. ovoga zakona neće se provoditi prinudna naplata potraživanja, ovrha ili uknjižba tereta na imovinu, niti će se na njihovim žiro-računima evidentirati nalozi za plaćanje, za potraživanja nastala do okupacije područja na kojem se nalazi njihovo sjedište.
+(2) Protiv poduzeća i drugih pravnih osoba iz članka 1. ovoga Zakona, a koja su nakon okupacije nastavila sa radom u privremenim sjedištima na slobodnom području Republike Hrvatske, također se neće provoditi prinudna naplata potraživanja, ovrha ili uknjižba tereta na imovinu, niti će se na njihovim žiroračunima evidentirati nalozi za plaćanje, za potraživanja nastala do okupacije područja na kojem se nalazilo njihovo sjedište.
