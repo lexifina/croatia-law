@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93., 69/97., 33/00., 127/00. i 59/01.), i članka 15. i 60. Statuta Općine Garčin, Općinsko vijeće općine Garčin na svojoj 6. sjednici održanoj 14. prosinca 2001. godine donijelo je
