@@ -1,0 +1,3 @@
+# Članak 17.
+Odsjek za posebne imovinskopravne poslove i nadzor obavlja upravne i druge stručne poslove vezane za izradu nacrta prijedloga zakona i podzakonskih akata i drugih propisa kojima se uređuju imovinskopravni odnosi vezani za poljoprivredno zemljište, šume i šumsko zemljište, te izvlaštenje i naknadu za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine; provodi u okviru djelokruga ministarstva i druge propise ako pojedini od ovih propisa nisu u djelokrugu drugog odjela, te daje stručna mišljenja; vodi jedinstvenu evidenciju o svim podnesenim zahtjevima za naknadu oduzete imovine.
+2. Odsjek za drugostupanjske upravne postupke

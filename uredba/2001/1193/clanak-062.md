@@ -1,0 +1,3 @@
+# Članak 62.
+Odjel za ustrojstvo lokalne i područne (regionalne) samouprave i suradnju obavlja upravne i stručne poslove koji se odnose na izborni sustav, praćenje primjene propisa i predlaganje mjera za unaprjeđenje izbornog sustava, teritorijalno ustrojstvo samouprave, organizacijski sustav, suradnju s udrugama jedinica samouprave i međunarodnim tijelima i organizacijama u području lokalne i regionalne samouprave, izrađuje nacrte prijedloga zakona i drugih propisa iz svog djelokruga te obavlja i druge poslove koje mu povjeri ministar.
+b) Odjel za nadzor lokalne i područne (regionalne) samouprave

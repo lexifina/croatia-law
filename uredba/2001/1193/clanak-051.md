@@ -1,0 +1,3 @@
+# Članak 51.
+U Odsjeku za tretman kaznenika i maloljetnika obavljaju se upravni i stručni poslovi koji se odnose na razvrstavanje kaznenika i maloljetnika, razvijanje i preispitivanje različitih programa postupanja, upućivanje i premještanje kaznenika; nadziranje pojedinačnih programa postupanja, postupanje po pritužbama; izradu stručnih mišljenja u svezi s primjenom penoloških instituta i izvanrednih pravnih lijekova; sudjelovanje u izradi i provedbi programa izobrazbe zaposlenika, prikupljanje i obradu kvantitativnih i kvalitativnih pokazatelja o zatvorenicima, upravni i inspekcijski nadzor, te izradu nacrta propisa iz svojeg djelokruga.
+2. Odsjek za izvršavanje zaštitnog nadzora, rada za opće dobro na slobodi i provođenje mjera sigurnosti

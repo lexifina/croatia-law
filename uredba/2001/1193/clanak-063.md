@@ -1,0 +1,2 @@
+# Članak 63.
+Odjel za nadzor lokalne i područne (regionalne) samouprave obavlja upravne i stručne poslove koji se odnose na djelokrug samouprave, nadzor nad primjenom propisa o lokalnoj i područnoj (regionalnoj) samoupravi, nadzor zakonitosti rada i akata jedinica samouprave, izrađuje nacrte prijedloga zakona i drugih propisa iz svojega djelokruga te obavlja i druge poslove koje mu povjeri ministar.

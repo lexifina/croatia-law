@@ -1,0 +1,7 @@
+## 5. UPRAVA ZA MEĐUNARODNU PRAVNU POMOĆ, SURADNJU I LJUDSKA PRAVA
+# Članak 24.
+Uprava za međunarodnu pravnu pomoć, suradnju i ljudska prava je upravna organizacija u sastavu Ministarstva koja obavlja stručne i upravne poslove međunarodne pravne pomoći u kaznenim i građanskim stvarima; poslove izručenja; pripreme, izrade i izvršenja međunarodnih ugovora u pitanjima međunarodne prave pomoći, međunarodne suradnje u pitanjima pravosuđa, ljudskih prava i prava nacionalnih manjina; poslove pripreme za uključivanje u međunarodne institucije u pitanjima pravosuđa, te ljudskih prava i prava nacionalnih manjina i usklađivanje zakonodavstva u pitanjima iz djelokruga Uprave; poslove pripreme projekata i izrade podloga za ostvarivanje projekata međunarodnih integracija u pitanjima iz djelokruga Uprave; praćenja primjene međunarodnih dokumenata o ljudskim pravima i pravima nacionalnih manjina i izrade propisanih izvješća; izrad nacrte propisa za usklađivanje zakonodavstva s preuzetim međunarodnim obvezama iz djelokruga Uprave; daje mišljenja na nacrte propisa u pitanjima iz djelokruga Uprave; izrađuje nacrte propisa kojima se uređuje zaštita ljudskih prava i prava nacionalnih manjina i nadzora nad njihovom primjenom, te obavlja i druge poslove iz ovog područja po nalogu ministra.
+Za obavljanje poslova Uprave za međunarodnu pravnu pomoć, suradnju i ljudska prava ustrojavaju se sljedeći odjeli:
+a) Odjel za međunarodnu pravnu pomoć,
+b) Odjel za međunarodnu suradnju, ljudska i manjinska prava.
+a) Odjel za međunarodnu pravnu pomoć

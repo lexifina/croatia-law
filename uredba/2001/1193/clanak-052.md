@@ -1,0 +1,3 @@
+# Članak 52.
+U Odsjeku za izvršavanje zaštitnog nadzora, rada za opće dobro na slobodi i provođenje mjera sigurnosti obavljaju se upravni i stručni poslovi koji se odnose na organiziranje i izvršavanje zaštitnog nadzora i rada za opće dobro na slobodi, sudjelovanje u izradi i provedbi programa izobrazbe zaposlenika koji rade na poslovima izvršavanja zaštitnog nadzora i rada za opće dobro na slobodi; pružanje stručne pomoći; izvršavanje odluke suda u svezi s izvršavanjem zaštitnog nadzora i rada za opće dobro na slobodi; izradu nacrta propisa iz svojega djelokruga, obavljanje stručnih poslova koji se odnose na prikupljanje i obradu kvantitativnih i kvalitativnih pokazatelja, te vođenje propisanih evidencija.
+c) Odjel osiguranja

@@ -1,0 +1,3 @@
+# Članak 49.
+U Odsjeku zapošljavanja zatvorenika obavljaju se upravni i stručni poslovi koje se odnose na organiziranje i nadziranje rada zatvorenika i njihovih prava s temelja rada, zaštitu na radu zatvorenika, novčanih pomoći, naknada i nagrada, te obvezne ušteđevine, opremu zatvorenika, kantinu, polog, osiguravanje uvjeta za slobodne aktivnosti zatvorenika, planiranje i raspoređivanje sredstava za rad i opreme te investicijskih ulaganja, utvrđivanje potreba, prioriteta i mjera unapređenja zatvorskog sustava; sudjelovanje u izradi i provedbi programa izobrazbe zaposlenika, upravni i inspekcijski nadzor, te izradu nacrta propisa iz svojega djelokruga.
+b) Odjel tretmana
