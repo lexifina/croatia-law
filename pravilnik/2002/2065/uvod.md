@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o prikupljanju podataka po osiguranicima o obveznim doprinosima, porezu na dohodak i prirezu porezu na dohodak (»Narodne novine«, broj 114/01), Upravno vijeće Središnjeg registra osiguranika, na 25. sjednici održanoj 2. listopada, 2002. godine donijelo je
