@@ -1,0 +1,1 @@
+Na temelju odredbe članka 64. stavak 2. i članka 65. Zakona o obrtu ("Narodne novine" br. 77/93 i 90/96) i članka 25. stavak 1. i članka 73. Statuta Hrvatske obrtničke komore ("Narodne novine" br. 56/94, 2/95 i 94/98), Skupština Hrvatske obrtničke komore na sjednici održanoj 26. siječnja 1999. godine donosi

@@ -1,0 +1,28 @@
+# Članak 31.
+Upravni odbor:
+1. provodi odluke i zaključke Skupštine,
+2. upravlja poslovima Komore u skladu sa Zakonom i ovim Statutom,
+3. priprema sjednice Skupštine na način da utvrđuje prijedloge općih akata koje donosi Skupština,
+4. zauzima stajališta i daje mišljenja o pitanjima o kojima raspravlja Skupština,
+5. odlučuje o prigovorima na pojedinačne akte donesene u obavljanju javnih ovlasti,
+6. ustanovljuje potrebe i stajališta te predlaže način provedbe stručne izobrazbe u obrtništvu,
+7. osniva komisije za polaganje pomoćničkih ispita, ispita o stručnoj osposobljenosti i majstorskih ispita, te utvrđuje način i postupak vođenja evidencija o završenim ispitima,
+8. zauzima stajališta o propisima koje predlažu i donose nadležna tijela državne vlasti i tijela državne uprave,
+9. predlaže nadležnim tijelima državne vlasti i tijelima državne uprave donošenje zakona, podzakonskih propisa i drugih akata,
+10. donosi opće akte potrebne za rad Komorskog ureda,
+11. određuje visinu naknada za usluge koje obavlja Komora te troškova Suda časti i Izbranog sudišta
+12. odlučuje o kupnji nekretnina i raspolaganju nepokretnom imovinom Komore,
+13. odlučuje o dodjeli nagrada i priznanja,
+14. na prijedlog predsjednika Komore imenuje tajnika Komore,
+15. usklađuje međusobne interese cehova u Komori,
+16. potvrđuje usklađenost statuta područnih obrtničkih komora sa Zakonom i ovim Statutom,
+17. imenuje i razrješava predsjednika i zamjenika predsjednika Suda časti,
+18. imenuje i razrješava suce prvostupanjskog i drugostupanjskog vijeća Suda časti,
+19. imenuje i razrješava tajnika Suda časti,
+20. ustanovljuje listu arbitara stalnog izbranog sudišta,
+21. imenuje i razrješava članove Arbitraže,
+22. odlučuje o sredstvima za naknade, nagrade, dnevnice i putne troškove,
+23. donosi Pravilnik o radu cehova i drugih oblika organiziranja u Komori,
+24. donosi Poslovnik o radu Upravnog odbora,
+25. po potrebi osniva radna tijela Upravnog odbora,
+26. rješava i ostala pitanja koja prema ovom Statutu, zakonu ili drugim aktima pripadaju u njegov djelokrug.
