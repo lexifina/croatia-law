@@ -1,0 +1,1 @@
+Na temelju članka 11. i članka 67. stavka 1. točke 7. i 16. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« br. 35/95 - pročišćeni tekst), Savjet Hrvatske narodne banke na sjednici održanoj 20. rujna 2000. godine donio je
