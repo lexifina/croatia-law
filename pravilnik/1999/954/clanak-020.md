@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Tjedne radne obveze u neposrednome odgojno-obrazovnom radu s učenicima za puno radno vrijeme iz stavka 1. članka 18. ovoga pravilnika povećavaju se za 2, a iznimno za 3 sata tjedno poslovima utvrđenim odredbama ovoga članka.
+(2) Do ukupne tjedne radne obveze iz stavka 1. ovoga članka, učitelji predmetne nastave izvode dodatnu i dopunsku nastavu, rade u izvannastavnim aktivnostima, vode učeničku zadrugu te učeničko društvo ili klub, a mogu izvoditi i izbornu nastavu ili obavljati poslove razrednika u neposrednome odgojno-obrazovnom radu s učenicima ako tim oblicima rada nisu zaduženi u sklopu obveza iz stavka 1. članka 18. ovoga pravilnika.
+(3) Do ukupne tjedne radne obveze iz stavka 1. ovoga članka, učitelji tjelesne i zdravstvene kulture mogu obavljati i poslove poduke plivanja te kinezioterapeutski rad s učenicima s većim teškoćama u razvoju, defektolozi produženi stručni postupak i posebnu defektološku pomoć, a učitelji u umjetničkim školama i poslove vođenja javnih nastupa učenika.
+(4) Broj sati ukupnoga neposrednog odgojno-obrazovnog rada s učenicima veći od broja sati obveza iz stavka 1. ovoga članka smatra se prekovremenim radom.

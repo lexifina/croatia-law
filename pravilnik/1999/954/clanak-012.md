@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Stručni suradnici mogu obavljati i poslove sindikalnoga povjerenika, poslove zaposleničkoga vijeća odnosno sindikalnoga vijećnika, poslove povjerenika zaštite na radu i druge poslove koji proizlaze iz zakona, drugih propisa ili kolektivnih ugovora, a ostale posebne poslove, koji proizlaze iz ustroja rada škole, samo u iznimnim slučajevima.
+(2) Poslovi iz stavka 1. ovoga članka obavljaju se kao posebna radna obveza za koju se stručnom suradniku s punim radnim vremenom razmjerno smanjuju redovite tjedne radne obveze, a stručnom suradniku s nepunim radnim vremenom povećava tjedno radno vrijeme.

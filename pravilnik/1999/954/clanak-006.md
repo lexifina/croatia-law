@@ -1,0 +1,2 @@
+# Članak 6.
+Satničarski poslovi obuhvaćaju izradbu rasporeda sati rada s razrednim odjelima i odgojno-obrazovnim skupinama, rasporeda uporabe učionica i drugih radnih prostora te rasporeda dežurstava učitelja, a voditeljski poslovi ustrojavanje i praćenje rada smjena, rada područnih odjela ili rada odjela učenika s posebnim potrebama, poslove organizacije zamjena učitelja te druge poslove vezane uz dnevni i tjedni rad po rasporedima.

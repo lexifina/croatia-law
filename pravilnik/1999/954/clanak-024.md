@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Nepuno radno vrijeme utvrđuje se na osnovi broja sati redovite nastave, izborne nastave stranoga jezika, vjeronauka i informatike te drugih poslova iz članka 19. ovoga pravilnika koji se, kao radna obveza, smatraju redovitom nastavom u odnosu prema broju sati redovite nastave propisane za ostvarivanje prava na puno radno vrijeme.
+(2) Učitelju predmetne nastave odnosno defektologu iz članka 23. ovoga pravilnika, koji je razrednik i radi u nepunom radnom vremenu, radno vrijeme utvrđeno prema stavku 1. ovoga članka povećava se za 2 sata neposrednoga odgojno-obrazovnog rada razrednika i za 2 sata ostalih razredničkih poslova.
