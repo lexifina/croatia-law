@@ -1,0 +1,2 @@
+# Članak 13.
+Nakon isteka karence, zaostale koncentracije djelatnih tvari i toksičnih metabolita u bilju, biljnim proizvodima, površinskim vodama i u pitkim vodama (površinskim i podzemnim), moraju biti manje od propisanih maksimalno dopuštenih koncentracija (u daljnjem tekstu: »MDK«). Ako nisu propisane u Republici Hrvatskoj, prihvaćaju se MDK propisane u EU ili one predložene od WHO/FAO, prema prijedlogu Zavoda i uz suglasnost Komisije za zaštitu bilja.

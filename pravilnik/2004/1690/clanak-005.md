@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Uz zahtjev iz članka 3. ovog Pravilnika, podnositelj zahtjeva obvezan je dostaviti Zavodu:
+- potrebnu količinu sredstva u izvornoj ambalaži,
+- uzorak čiste djelatne tvari (standardne poznate čistoće) i tehničke djelatne tvari,
+- presliku deklaracije za sredstvo iz zemlje proizvođača ili iz zemalja Europske unije ili Organizacije za ekonomsku suradnju i razvoj (u daljnjem tekstu: »OECD«) ili potvrdu da je aktivna tvar uvrštena na listu Aneksa I Direktive 91/414/EEC.
+(2) Kod podnošenja zahtjeva na temelju članka 40. stavka 1. i članka 40a. stavka 1. Zakona (izdavanje dozvole za sredstvo za primjenu u ekološkoj proizvodnji, za sredstvo za zaštitu bilja koje utječe na životne procese na način drugačiji od hranjiva i za proširenje dozvole za male namjene), uz zahtjev iz članka 3. ovog Pravilnika i ispunjenja obveza specificiranih u stavku 1. ovog članka, podnositelj zahtjeva obvezan je dostaviti Zavodu i kopije dozvola za predmetno sredstvo, odnosno primjenu predmetnog sredstva za tražene namjene, iz najmanje dviju država članica Europske unije.
+(3) Kod podnošenja zahtjeva na temelju članka 40. stavka 1. i članka 41. Zakona (privremena dozvola) uz zahtjev iz članka 3. ovog Pravilnika i ispunjenja obveza specificiranih u stavku 1. ovog članka, podnositelj zahtjeva obvezan je dostaviti Zavodu i kopije dozvola za predmetno sredstvo iz najmanje dviju država članica Europske unije.
