@@ -1,0 +1,4 @@
+# Članak 10.
+PREDSTAVNIŠTVO
+1. Svaka ugovorna stranka odobrit će određenom zračnom prijevozniku druge ugovorne stranke pravo da na njen teritorij dovede i podržava tehničko i komercijalno osoblje u svrhu održavanja dogovorenog prometa što može biti uvjetovano opsegom toga prometa. Gore navedeno osoblje podliježe zakonima i propisima odnosne ugovorne stranke o ulasku i boravku na njenom teritoriju, a bit će mu, na temelju uzajamnosti, u najkraćem roku odobrene potrebne radne dozvole, poslovne vize ili slični dokumenti.
+2. Potreba za tim osobljem može biti, po mišljenju određenog zračnog prijevoznika, udovoljena svojim vlastitim osobljem ili korištenjem usluga druge organizacije, poduzeća ili zračnog prijevoznika koji obavlja zračni prijevoz na teritoriju druge ugovorne stranke, a koji su ovlašteni da obavljaju takve usluge na teritoriju te ugovorne stranke.

@@ -1,0 +1,4 @@
+# Članak 16.
+OBAVIJESTI I STATISTIKA
+1. Zrakoplovne vlasti svake ugovorne stranke nalagat će svojim određenim zračnim prijevoznicima da zrakoplovnim vlastima druge ugovorne stranke na njihov opravdani zahtjev dostavljaju periodična, ili druga statistička izvješća, koja su potrebna za svrhe ponovnog razmatranja kapaciteta, koje osiguravaju određeni zračni prijevoznici prve ugovorne stranke. Takva izvješća obuhvaćat će sve obavijesti koje su potrebne za određivanje obima prometa kojeg ti zračni prijevoznici obavljaju na utvrđenim linijama.
+2. Zrakoplovne vlasti svake ugovorne stranke će na zahtjev dostaviti ili naložiti svojim određenim zračnim prijevoznicima da dostave zrakoplovnim vlastima druge ugovorne stranke statističke podatke glede izvorišta i odredišta prometa koji se odvija prema i s teritorija te druge ugovorne stranke u vremenskom periodu koji ne prelazi jednu IATA prometnu sezonu, kao što je navedeno u zahtjevu.
