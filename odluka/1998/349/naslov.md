@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti Virovitičko-podravskoj županiji na sklapanje ugovora o kreditu s Kärntner Landes - und hypothekenbank AG, Klagenfurt, za program kreditiranja domaćih kupaca kod kupnje tra
