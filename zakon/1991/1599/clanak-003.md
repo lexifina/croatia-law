@@ -1,0 +1,2 @@
+# Članak 3.
+Godišnja nagrada dodjeljuje se za najznačajnija ostvarenja tijekom proteklih godina a osobito posljednje, istaknutim prosvjetnim djelatnicima, znanstvenicinia i stručnjacima i grupi znanstvenika i stručnjaka ili prosvjetnih djelatnika ako je ostvarenje rezultat njihova zajedničkog rada. Nagrada za životno djelo dodjeljuje se istaknutim prosvjetnim djelatnicima znanstvenicima i stručnjacima čiji je pedagoški ili znanstveni i stručni rad trajan doprinos odgojno-obrazovnoj djelatnosti u Republici Hrvatskoj.

@@ -1,0 +1,2 @@
+# Članak 9.
+Sredstva za Nagradu i za materijalne troškove osiguravaju se svake godine u proračunu Republike. Sredstva za Nagradu vode se na posebnom računu pri Ministarstvu prosvjete, kulture i športa. Financijshi plan donosi Odbor uz suglasnost ministra prosvjete, kulture i športa. Neutrošena sredstva u jednoj godini prenose se u iduću godinu. Naredbodavac za izvršenje financijskog plana je ministar prosvjete, kulture i športa.

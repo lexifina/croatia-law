@@ -1,0 +1,2 @@
+# Članak 6.
+Nagradu dodjeljuje Odbor "Nagrade Ivan Filipović" (u daljem tekstu: Odbor) na prijedlog komisija koje odbor osniva za svako od područja odgojno - obrazovnog sustava. Odbor ima 9 članova. Predsjednika i članove Odbora imenuje Sabor Republike Hrvatske na vrijeme od dvije godine. Odbor osniva komisije za područja: predškolskog odgoja osnovnog školstva srednjeg školstva visokog školstva i znanstvenog i stručnog rada
