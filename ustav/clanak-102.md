@@ -1,3 +1,3 @@
 # Članak 102.
-Predsjednik Republike može predložiti Vladi da održi sjednicu i razmotri određena pitanja.
-Predsjednik Republike može biti nazočan sjednici Vlade i sudjelovati u raspravi.
+Predsjednik Republike i Vlada Republike Hrvatske, u skladu s Ustavom i zakonom, surađuju u usmjeravanju rada sigurnosnih službi.
+Imenovanje čelnika sigurnosnih službi, uz prethodno pribavljeno mišljenje nadležnog odbora Hrvatskoga sabora, supotpisuje Predsjednik Republike i predsjednik Vlade Republike Hrvatske.

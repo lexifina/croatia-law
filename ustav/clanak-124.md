@@ -1,8 +1,9 @@
+## 5. DrŽavno odvjetniŠtvo
 # Članak 124.
-Suce, u skladu s Ustavom i zakonom, imenuje i razrješuje te o njihovoj stegovnoj odgovornosti odlučuje Državno sudbeno vijeće.
-Državno sudbeno vijeće u postupku imenovanja i razrješenja sudaca dužno je pribaviti mišljenje mjerodavnog odbora Zastupničkog doma Hrvatskoga sabora.
-Državno sudbeno vijeće ima jedanaest članova koje iz reda istaknutih sudaca, odvjetnika i sveučilišnih profesora pravnih znanosti bira Zastupnički doma Sabora na način i u postupku određenim zakonom. Većina od ukupnog broja članova Državnoga sudbenog vijeća mora biti iz reda sudaca.
-Predsjednici sudova ne mogu biti birani za članove Državnoga sudbenog vijeća.
-Članovi Državnoga sudbenog vijeća biraju se na vrijeme od četiri godine, s time da članom Državnoga sudbenog vijeća nitko ne može biti više od dva puta uzastopce.
-Predsjednika Državnoga sudbenog vijeća bira tajnim glasovanjem većina članova Državnoga sudbenog vijeća na vrijeme od dvije godine.
-Djelokrug i način rada Državnoga sudbenog vijeća uređuje se zakonom.
+Državno odvjetništvo je samostalno i neovisno pravosudno tijelo ovlašteno i dužno postupati protiv počinitelja kaznenih i drugih kažnjivih djela, poduzimati pravne radnje radi zaštite imovine Republike Hrvatske te podnositi pravna sredstva za zaštitu Ustava i zakona.
+Glavnoga državnog odvjetnika Republike Hrvatske imenuje na vrijeme od četiri godine Hrvatski sabor na prijedlog Vlade Republike Hrvatske, uz prethodno mišljenje nadležnog odbora Hrvatskoga sabora.
+Prigodom prvog stupanja na državnoodvjetničku dužnost zamjenici državnog odvjetnika će se imenovati na vrijeme od pet godina. Nakon ponovnog imenovanja zamjenik državnog odvjetnika obavlja svoju dužnost stalno.
+Zamjenike državnih odvjetnika u skladu s Ustavom i zakonom imenuje, razrješuje i o njihovoj stegovnoj odgovornosti odlučuje Državnoodvjetničko vijeće. Državnoodvjetničko vijeće bira Hrvatski sabor na način i u postupku određenim zakonom. Većina od ukupnog broja članova Državnoodvjetničkog vijeća mora biti iz reda zamjenika državnih odvjetnika.
+Čelnici državnih odvjetništava ne mogu biti birani za članove Državnoodvjetničkog vijeća.
+Djelokrug, ustrojstvo i način rada Državnoodvjetničkog vijeća uređuje se zakonom.
+Ustanovljavanje, ustrojstvo, djelokrug i nadležnost državnog odvjetništva uređuje se zakonom.

@@ -4,7 +4,7 @@ U slučaju sumnje ili optužbe zbog kažnjivog djela osumnjičenik, okrivljenik 
 – da u najkraćem roku bude obaviješten potanko i na jeziku koji razumije o naravi i razlozima optužbe koja se diže protiv njega i o dokazima koji ga terete,
 – da ima odgovarajuće vrijeme i mogućnost za pripremu obrane,
 – na branitelja i nesmetano uspostavljanje veze s braniteljem, i s tim pravom mora biti upoznat,
-– da se brani sam ili uz branitelja po vlastitom izboru, a ako nema dovoljno sredstava da plati branitelja, ima pravo na besplatnog branitelja pod uvjetima propisanim zakonom,
+– da se brani sam ili uz branitelja po vlastitom izboru, a ako nema dovoljno sredstava da plati branitelja, ima pravo na besplatnog branitelja pod uvjetom propisanim zakonom,
 – da mu se sudi u njegovoj nazočnosti, ukoliko je dostupan sudu,
 – da ispituje ili dade ispitati svjedoke optužbe i da zahtijeva da se osigura nazočnost i ispitivanje svjedoka obrane pod istim uvjetima kao i svjedoka optužbe,
 – na besplatnu pomoć tumača ako ne razumije ili ne govori jezik koji se upotrebljava na sudu.

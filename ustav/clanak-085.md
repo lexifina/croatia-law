@@ -1,2 +1,4 @@
 # Članak 85.
-Pravo predlagati zakone ima svaki zastupnik u Zastupničkom domu, klubovi zastupnika u Zastupničkom domu, radna tijela Zastupničkog doma, Županijski dom i Vlada Republike Hrvatske.
+Zastupnici Hrvatskoga sabora imaju pravo postavljati Vladi Republike Hrvatske i pojedinim ministrima zastupnička pitanja.
+Najmanje jedna desetina zastupnika Hrvatskoga sabora može podnijeti interpelaciju o radu Vlade Republike Hrvatske ili pojedinog njezinog člana.
+Postavljanje zastupničkih pitanja i podnošenje interpelacije pobliže se uređuju poslovnikom.

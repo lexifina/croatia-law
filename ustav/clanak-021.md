@@ -1,4 +1,4 @@
-## 2. OSOBNE I POLITIČKE SLOBODE I PRAVA
+## 2. Osobne i politiČke slobode i prava
 # Članak 21.
 Svako ljudsko biće ima pravo na život.
 U Republici Hrvatskoj nema smrtne kazne.

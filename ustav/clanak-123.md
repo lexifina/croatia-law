@@ -1,14 +1,8 @@
 # Članak 123.
-Sudačka dužnost je stalna.
-Iznimno od odredbe stavka 1. ovoga članka prigodom prvog stupanja na sudačku dužnost suci će se imenovati na vrijeme od pet godina. Nakon ponovnog imenovanja sudac obavlja svoju dužnost stalno.
-Sudac će biti razriješen sudačke dužnosti:
-– ako to sam zatraži,
-– ako trajno izgubi sposobnost obavljati svoju dužnost,
-– ako bude osuđen za kazneno djelo koje ga čini nedostojnim obavljanja sudačke dužnosti,
-– ako u skladu sa zakonom, zbog počinjenoga teškog stegovnog djela, tako odluči Državno sudbeno vijeće,
-– kad navrši sedamdeset godina.
-Protiv odluke o razrješenju sudačke dužnosti sudac ima pravo u roku od 15 dana od dana dostave odluke, podnijeti Ustavnom sudu Republike Hrvatske žalbu o kojoj Ustavni sud odlučuje na način i u sastavu određenom Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
-Protiv odluke Državnoga sudbenog vijeća o stegovnoj odgovornosti sudac ima, u roku od 15 dana od dana dostave odluke, pravo žalbe Ustavnom sudu Republike Hrvatske. O žalbi odlučuje Ustavni sud na način i po postupku kako je to određeno Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
-U slučajevima iz stavka 4. i 5. ovoga članka Ustavni sud dužan je odlučiti u roku od 30 dana od primitka žalbe. Odluka Ustavnog suda isključuje pravo na ustavnu tužbu.
-Sudac ne može biti premješten protivno njegovoj volji osim u slučaju ukidanja suda ili preustroja suda u skladu sa zakonom.
-Sudac ne može obavljati službu ili posao koje je zakon odredio kao nespojive sa sudačkom dužnošću.
+Suce, u skladu s Ustavom i zakonom, imenuje i razrješuje te o njihovoj stegovnoj odgovornosti odlučuje Državno sudbeno vijeće.
+Državno sudbeno vijeće u postupku imenovanja i razrješenja sudaca dužno je pribaviti mišljenje nadležnog odbora Hrvatskoga sabora.
+Državno sudbeno vijeće ima jedanaest članova koje iz reda istaknutih sudaca, odvjetnika i sveučilišnih profesora pravnih znanosti bira Hrvatski sabor na način i u postupku određenim zakonom. Većina od ukupnog broja članova Državnoga sudbenog vijeća mora biti iz reda sudaca.
+Predsjednici sudova ne mogu biti birani za članove Državnoga sudbenog vijeća.
+Članovi Državnoga sudbenog vijeća biraju se na vrijeme od četiri godine, s time da članom Državnoga sudbenog vijeća nitko ne može biti više od dva puta uzastopce.
+Predsjednika Državnoga sudbenog vijeća bira tajnim glasovanjem većina članova Državnoga sudbenog vijeća na vrijeme od dvije godine.
+Djelokrug i način rada Državnoga sudbenog vijeća uređuje se zakonom.

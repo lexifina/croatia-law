@@ -1,3 +1,6 @@
 # Članak 104.
-Predsjednik Republike, na prijedlog Vlade i uz supotpis predsjednika Vlade, a nakon savjetovanja s predstavnicima klubova zastupnika parlamentarnih stranaka, može raspustiti Zastupnički dom Hrvatskoga sabora, ako na zahtjev Vlade da se izglasa povjerenje, Dom Vladi izglasa nepovjerenje ili u roku od 120 dana od dana predlaganja ne donese državni proračun.
-Predsjednik Republike Hrvatske ne može na prijedlog Vlade raspustiti Zastupnički dom dok traje postupak za utvrđivanje njegove odgovornosti za povredu Ustava.
+Predsjednik Republike odgovoran je za povredu Ustava koju počini u obavljanju svojih dužnosti.
+Postupak za utvrđivanje posebne odgovornosti Predsjednika Republike može pokrenuti Hrvatski sabor dvotrećinskom većinom svih zastupnika.
+O odgovornosti Predsjednika Republike odlučuje Ustavni sud Republike Hrvatske dvotrećinskom većinom svih sudaca.
+Ustavni sud mora donijeti odluku o odgovornosti Predsjednika Republike Hrvatske za povredu Ustava u roku od 30 dana od dana zaprimanja prijedloga kojim se pokreće odgovornost Predsjednika Republike za povredu Ustava.
+Ako Ustavni sud Republike Hrvatske utvrdi njegovu odgovornost, Predsjedniku Republike prestaje dužnost po sili Ustava.

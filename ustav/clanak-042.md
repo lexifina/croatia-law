@@ -1,2 +1,2 @@
 # Članak 42.
-Svim se građanima priznaje pravo na javno okupljanje i mirni prosvjed.
+Svakom se priznaje pravo na javno okupljanje i mirni prosvjed u skladu sa zakonom.

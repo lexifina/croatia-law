@@ -1,4 +1,3 @@
 # Članak 106.
-Predsjednik Republike ima imunitet nepovredivosti.
-Predsjednik Republike ne može biti pritvoren niti se protiv njega može pokrenuti kazneni postupak bez prethodnog odobrenja Ustavnog suda.
-Predsjednik Republike može biti pritvoren bez odobrenja Ustavnog suda samo ako je zatečen da čini kazneno djelo za koje je propisana kazna zatvora u trajanju dužem od pet godina. U takvom slučaju državno tijelo koje je Predsjednika Republike pritvorilo, dužno je o tome odmah obavijestiti predsjednika Ustavnog suda.
+Predsjedniku Republike u obavljanju njegovih dužnosti pomažu savjetodavna tijela. Članove tih tijela imenuje i razrješuje Predsjednik Republike. Nisu dopuštena imenovanja koja su u suprotnosti s načelom diobe vlasti.
+Savjetodavni, stručni i drugi poslovi obavljaju se u Uredu Predsjednika Republike. Ustrojstvo i djelokrug Ureda uređuje se zakonom i pravilnikom.

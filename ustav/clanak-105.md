@@ -1,6 +1,4 @@
 # Članak 105.
-Predsjednik Republike odgovoran je za povredu Ustava koju počini u obavljanju svojih dužnosti.
-Postupak za utvrđivanje posebne odgovornosti Predsjednika Republike može pokrenuti Zastupnički dom dvotrećinskom većinom svih zastupnika.
-O odgovornosti Predsjednika Republike odlučuje Ustavni sud Republike Hrvatske dvotrećinskom većinom svih sudaca.
-Ustavni sud mora donijeti odluku o odgovornosti Predsjednika Republike Hrvatske za povredu Ustava u roku od 30 dana od dana zaprimanja prijedloga kojim se pokreće odgovornost Predsjednika Republike za povredu Ustava.
-Ako Ustavni sud Republike Hrvatske utvrdi njegovu odgovornost, Predsjedniku Republike prestaje dužnost po sili Ustava.
+Predsjednik Republike ima imunitet nepovredivosti.
+Predsjednik Republike ne može biti pritvoren niti se protiv njega može pokrenuti kazneni postupak bez prethodnog odobrenja Ustavnog suda.
+Predsjednik Republike može biti pritvoren bez odobrenja Ustavnog suda samo ako je zatečen da čini kazneno djelo za koje je propisana kazna zatvora u trajanju dužem od pet godina. U takvom slučaju državno tijelo koje je Predsjednika Republike pritvorilo, dužno je o tome odmah obavijestiti predsjednika Ustavnog suda.

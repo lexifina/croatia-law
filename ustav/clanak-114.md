@@ -1,2 +1,3 @@
 # Članak 114.
-Ustrojstvo, način rada, odlučivanje i vrste akata koje Vlada donosi propisuju se zakonom i poslovnikom.
+Vlada je odgovorna Hrvatskom saboru.
+Predsjednik i članovi Vlade zajednički su odgovorni za odluke koje donosi Vlada, a osobno su odgovorni za svoje područje rada.
