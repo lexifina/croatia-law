@@ -1,0 +1,2 @@
+# Članak 3.
+Dopušteni gubici utvrđuju se na temelju iskustva struke do iznosa od: ________________________________________________________________ Naziv proizvoda |  |  |  |  | Stopa |  |  |  |  |  |  | (%) ________________________________________________________________ 1. Proizvodnja vina - vino od grožđa, voaa, vermut u rinfuzi |  | 10,0 - vino od grožđa, voća, vermut u boci |  |  | 12,5 2. Bezalkoholno pivo |  |  |  |  | 7,0 3. Mineralne vode |  |  |  |  | 12,0 4. Nekoncentrirani i koncentrirani voćni sokovi | 5,5 5. Voćni sirupi |  |  |  |  | 5,5
