@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Proračunski nadzor postupak je nadziranja zakonitosti, svrhovitosti i pravodobnosti korištenja proračunskih sredstava kojim se nalažu mjere za otklanjanje utvrđenih nezakonitosti i nepravilnosti te mjere za poboljšanje stanja.
+(2) Proračunski nadzor obavlja se kod proračunskih korisnika, izvanproračunskih korisnika i primatelja sredstava prema Zakonu o proračunu (dalje u tekstu: subjekti nadzora).
+(3) Proračunski nadzor obuhvaća pregled i provjeru računovodstvenih, financijskih i ostalih poslovnih dokumenata proračunskih i izvanproračunskih korisnika, nadzor namjenskog korištenja proračunskih sredstava svih pravnih i fizičkih osoba koje dobivaju sredstva iz proračuna i financijskih planova izvanproračunskih korisnika te kreditnih sredstava s osnove jamstva države i jedinica lokalne i područne (regionalne) samouprave.
+(4) Proračunski nadzor jedinica lokalne i područne (regionalne) samouprave i njihovih proračunskih i izvanproračunskih korisnika postupak je nadziranja zakonitosti korištenja proračunskih sredstava.
+(5) U odnosu na izravno ili neizravno doznačena sredstva iz državnog proračuna, proračunski nadzor jedinica lokalne i područne (regionalne) samouprave i njihovih proračunskih i izvanproračunskih korisnika postupak je nadziranja zakonitosti, svrhovitosti i pravodobnosti korištenja proračunskih sredstava.
