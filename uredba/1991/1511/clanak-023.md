@@ -1,0 +1,2 @@
+# Članak 23.
+Kad dođe do većih oštećenja, rušenja i zakrćenja željezničkih pruga koje su od interesa za Republiku i koje se ne mogu otkloniti vlastitim snagama i sredstvima HŽP-a odnosno sekcija i pogona u njihovom sastavu, mogu zahtijevati preko općinskih organe za promet, raščišćavanje porušenih i oštećenih pruga. U nemogućnosti brzog otklanjanja prekida željezničkog prometa, općinski organ za promet u suradnji s HŽP-om dužan je na mjestima prekida uspostaviti prijevoz drugim prijevoznim sredstvima.

@@ -1,0 +1,2 @@
+# Članak 16.
+Zahtjevi za podmirenje potreba u prevoženju odnosno u transportnim kapacitetima ostvaruju se u pravilu preko općinskog organa za promet. Zahtjevi za podmirenje potreba u prevoženju i transportnim kapacitetima mogu se ostvariti i preko Ministarstva prometa i veza. U izuzetno hitnim slučajevima i za prevoženja na kraćim relacijama, potrebe u prevoženju se mogu ostvariti i neposredno preko prijevoznika.

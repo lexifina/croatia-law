@@ -1,0 +1,2 @@
+# Članak 32.
+Specijalizirana poduzeća u unutarnjoj plovidbi obavljaju popravke oštećenih pristaništa, rasčišćavaju i zaprečavaju plovne puteve, osposobljavaju rezervna pristaništa i objekte na plovnim putevima, ućestvuju u pružanju pomoći i spašavanju na unutarnjim vodama po zahtjevima i uputama organa uprave općine, nadležnih zapovjedništava oružanih snaga, a pod neposrednom kontrolom kapetanija pristaništa.

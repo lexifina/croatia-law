@@ -1,0 +1,2 @@
+# Članak 14.
+Po nalogu općinskog organa za promet, raspoloživa prometna sredstva posjednika prometnih sredstava osim sredstava HŽP i "Hrvatskih cesta" te prijevoznika koji su utvrđeni kao subjekti od interesa za Republiku ili posjednika prometnih sredstava koji Obavljaju djelatnost od posebnog interesa za općinu, mogu se radi obavljanja prevoženja značajnih za obranu, rasporediti u poduzeću javnog cestovnog prometa ili druga poduzeća koja će u ratnim uvjetima obavljati djelatnosti javnog cestovnog prometa.

@@ -1,0 +1,2 @@
+# Članak 40.
+Ministar prometa i veza može, neovisno od zakonom propisanih uvjeta i postupaka, razriješiti organ upravljanja i direktora odnosno drugi poslovodni organ poduzeća koja obavljaju djelatnost u oblasti cestovnog, željezničkog, riječnog i zračnog prometa i imenovati novi organ upravljanja odnosno drugi poslovodni organ, izuzev u poduzećima na kojima postoji vlasništvo U poduzećima iz stavka 1. ovaga članka organ upravIjanja donosi sve opće akte.
