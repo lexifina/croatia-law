@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 2. stavak 1., podstavak 3. mijenja se i glasi:
+»Iznimno, od stavka 2. ovog članka stambene građevine kolektivne izgradnje, kod kojih visina poda najviše etaže predviđene za boravak ljudi od razine okolnog terena s kojeg će se obavljati evakuacija i gašenje u slučaju požara nije veća od 12 m moraju imati osiguran najmanje jedan vatrogasni pristup i to s duže strane objekta ako imaju prostore ugrožene požarom pokrivene stabilnim sustavom za gašenje požara tipa sprinkler, a jednostrano orijentirane jedinice koje nisu orijentirane prema vatrogasnom pristupu moraju imati i najmanje dva sigurnosna izlaza.«
