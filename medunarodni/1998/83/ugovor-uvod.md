@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE AUSTRIJE O TURISTIČKOJ SURADNJI
+Vlada Republike Hrvatske i Vlada Republike Austrije (u daIjnjem tekstu: ugovome stranke) vođene zajedničkom željom za produbljivanjem postojećih prijateljskih odnosa, te potrebom razvoja obuhvatne i mnogostruke međusobne suradnje na području turizma, svjesne velikog značaja turizma ne samo za gospodarstvo dviju država, već i za razumijevanje izmedu dvaju naroda, u namjeri da se omogući učinkovitija turistička suradnja na obostranu dobrobit dogovorile su sljedeće:
