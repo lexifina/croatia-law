@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93) i članka 19. Uredbe o sadržaju naziva tijela državne uprave lokalne i mjesne samouprave ("Narodne novine", broj 25/94) ministar uprave donosi
