@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Danom stupanja na snagu ovog statuta prestaje važiti Statut Samoupravne interesne zajednice mirovinskog invalidskog osiguranja individualnih poljoprivrednika Hrvatske ("Narodne novine", br. 4/84, 6/86, 29/86 i 4/89), osim u dijelu kojim se uređuju prava i obveze iz mirovinskog i invalidskog osiguranja, postupak za ostvarivanje prava i druga pitanja u vezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja.
+(2) Odredbe Statuta Samoupravne interesne zajednice mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske koje ostaju na snazi primjenjivat će se do donošenja novog Zakona o mirovinskom i invalidskom osiguranju individualnih poljoprivrednika uz uvjet da nisu u suprotnosti sa zakonom i ovim statutom.

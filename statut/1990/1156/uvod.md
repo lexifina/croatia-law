@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 1. Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju individualnih poljoprivrednika ("Narodne novine", broj 40/90), Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske, na sjednici održanoj 28. studenoga 1990. donosi

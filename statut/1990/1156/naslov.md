@@ -1,0 +1,1 @@
+Statut Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske

@@ -1,0 +1,2 @@
+# Članak 2.
+Republički fond osnovan je Zakonom o mirovinskom i invalidskom osiguranju individualnih poljoprivrednika ("Narodne novine", br. 26/83, 49/83, 57/83, 47/86 i 40/90) radi ostvarivanja ustavom i zakonom zajamčenih prava osiguranika i korisnika prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika te radi ostvarivanja potreba i interesa društva na području mirovinskog i invalidskog osiguranja individualnih poljoprivrednika.
