@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novine", broj 53/90 161/91), a povodom prijedloga Miljenka Mesića iz Zagreba, Zamenhoffova 12, Vlada Republike Hrvatske. na sjednici održanoj 9. listopada 1992. godine, donijela je
