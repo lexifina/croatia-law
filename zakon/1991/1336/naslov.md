@@ -1,0 +1,1 @@
+Zakon o stavljanju izvan snage Zakona o osiguranju sredstava za djelomično financiranje programa za zaštitu socijalno ugroženog stanovništva i radnika za čijim radom prestaje potreba zbog prestrukturiranja privrede
