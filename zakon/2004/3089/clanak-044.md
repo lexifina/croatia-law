@@ -1,0 +1,7 @@
+## X. PROIZVODNI I SKLADIŠNI OBJEKTI
+# Članak 44.
+(1) Proizvodni i skladišni objekti za eksplozivne tvari moraju biti izgrađeni i opremljeni tako da je osigurana zaštita života i zdravlja ljudi, njihove imovine i okoliša.
+(2) Građevine u kojima se proizvode i/ili skladište eksplozivne tvari smiju se graditi u skladu s odredbama posebnog zakona koji uređuje građenje građevina. Prijenosni spremnici namijenjeni skladištenju eksplozivnih tvari smiju se postavljati samo na mjestima određenim dokumentom prostornog uređenja, odnosno lokacijskom dozvolom donesenom, odnosno izdanom u skladu s posebnim zakonom koji uređuje uređivanje prostora.
+(3) Kada se prema posebnom zakonu ne izdaje lokacijska dozvola, prijenosni spremnici se mogu privremeno postaviti uz prethodno odobrenje Ministarstva.
+(4) Lokacijska dozvola ili odobrenje iz stavka 3. ovoga članka može se izdati ako prijenosni spremnik u pogledu tehničkih zahtjeva i sigurnosnih mjera udovoljava uvjetima propisanim propisima o skladištenju eksplozivnih tvari.
+(5) Propise o proizvodnim, istraživačkim i skladišnim objektima (skladišta, priručna skladišta, prijenosni kontejneri), koji će sadržavati građevno-tehničke karakteristike, smještaj u prostoru, mjere zaštite okoliša, sigurnosne mjere, kapacitete i način skladištenja eksplozivnih tvari donosi ministar unutarnjih poslova uz suglasnost ministra nadležnog za zaštitu okoliša, prostorno uređenje i graditeljstvo.

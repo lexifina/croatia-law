@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Nakon nabave odobrenih količina eksplozivnih tvari pravna osoba ili obrtnik zadržava izvornik odobrenja, a dobavljač mora sačiniti presliku odobrenja koja ostaje u njegovoj pismohrani.
+(2) Pravna osoba i obrtnik koji uporabljuju eksplozivne tvari mogu ih nabaviti kod više dobavljača pod uvjetom da svaki dobavljač na poleđini odobrenja naznači izdanu količinu i vrstu eksplozivne tvari koju je prodao vlasniku odobrenja s potpisom odgovorne osobe iz članka 4. stavka 1. podstavka 9. ovoga Zakona i pečatom, a za sebe sačini preslik.
+(3) Ako pravna osoba ili obrtnik uporabljuju eksplozivne tvari izvan područja policijske uprave koja je izdala odobrenje za nabavu, dužni su o mjestu i vremenu uporabe eksplozivnih tvari izvijestiti policijsku upravu mjesno nadležnu prema mjestu u kojem se eksplozivne tvari uporabljuju, najkasnije 24 sata prije početka uporabe.

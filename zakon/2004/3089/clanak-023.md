@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Eksplozivne tvari, potrebne za obavljanje poslova miniranja, izvođenje javnog vatrometa i glasnog pucanja pravna osoba i obrtnik nabavlja u količinama koje može uskladištiti u raspoloživom skladišnom prostoru, na temelju odobrenja policijske uprave iz članka 22. stavka 1. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, nadležna policijska uprava može odobriti nabavu veće količine eksplozivnih tvari od raspoloživog kapaciteta skladišta ukoliko se te tvari odvoze izravno na radilište gdje će se istoga dana u potpunosti utrošiti pod uvjetom iz članka 22. stavka 3. podstavka 5. ovoga Zakona.

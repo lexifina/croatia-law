@@ -1,0 +1,2 @@
+# Članak 9.
+Isprave i oznake o sukladnosti koje su izdane u inozemstvu priznaju se u Republici Hrvatskoj ako su izdane na temelju tehničkih propisa koji su u pogledu zahtjeva za proizvod istovjetni s izdanim hrvatskim tehničkim propisom i ako je osposobljenost tijela koja su sudjelovala u postupku ocjene sukladnosti utvrđena prema istom postupku i zahtjevima koji su propisani za takva tijela u hrvatskom tehničkom propisu.

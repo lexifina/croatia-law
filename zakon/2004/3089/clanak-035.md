@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Prilikom obavljanja miniranja pravna osoba ili obrtnik dužni su poduzeti sve sigurnosne mjere te miniranje obaviti prema planu miniranja i po pravilima struke, tako da miniranjem ne ugroze život i zdravlje ljudi, njihovu imovinu i okoliš.
+(2) Plan miniranja iz stavka 1. ovoga članka mogu izraditi osobe iz članka 36., 37. i 38. ovoga Zakona za miniranja za koja posjeduju dozvolu.
+(3) O miniranjima koja se obavljaju u naseljenom mjestu ili u blizini naseljenog mjesta pravna osoba ili obrtnik koji izvode miniranje dužni su najkasnije 24 sata prije obavljanja miniranja izvijestiti policijsku upravu nadležnu prema mjestu u kojem se namjerava obavljati miniranje, javnost putem lokalnih sredstava javnog priopćavanja, a tri dana prije obavljanja miniranja u blizini cesta, željeznica, naftovoda, plinovoda, vodovoda, električnih ili telefonskih vodova i sličnih objekata pisano izvijestiti pravne osobe koje upravljaju navedenim objektima.
