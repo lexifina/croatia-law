@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o računovodstvu i računskom planu proračuna ("Narodne novine", broj 98/94., 15/96., 94/98. i 165/98.) upisuje se:
+(1) U članku 12. dodaje se stavak (6), koji glasi: "Iznimno od odredbi stavka (4) u skupini 850 - Novčana sredstva, u okviru propisanih računa odjeljaka, proračuni i proračunski korisnici mogu otvoriti osnovne račune prema svojim potrebama."
+(2) U članku 25. dodaje se stavak (2) koji glasi: "Proračun i proračunski korisnici mogu sukladno odredbama članka 24. stavak (1) ovog Pravilnika zbog tehničkih potreba kod programiranja u skupinama računa u Glavnoj knjizi II. rabiti račune u kojima treći broj umjesto "0" može biti "1" (npr. 601, 801 itd.), s tim da se kod izlistavanja financijskih izvješća ti podaci iskazuju na pozicijama propisanih računa iz Računskog plana.
