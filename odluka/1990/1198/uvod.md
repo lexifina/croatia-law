@@ -1,0 +1,1 @@
+Na temelju člana 48. Zakona o udruživanju u privredne komore, te člana 44. Statuta Privredne komore Slavonije i Baranje, Izvršni odbor Privredne komore Slavonije i Baranje na sjednici održanoj 18. prosinca 1990. donio je
