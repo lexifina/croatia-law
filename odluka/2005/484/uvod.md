@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 4. stavka 2. Uredbe o osnivanju Agencije za znanost i visoko obrazovanje (»Narodne novine«, broj 101/2004), Vlada Republike Hrvatske je na sjednici održanoj 24. veljače 2005. godine donijela
