@@ -1,2 +1,2 @@
 # Članak 23.
-Glede žalbenog postupka, obnove postupka, zastare obračunavanja, naplate i povrata poreza te vođenja prekršajnog postupka shodno se primjenjuju odredbe Zakona o porezu na dohodak.
+Ako više osoba zajednički obavlja djelatnost (supoduzetnici iz članka 2. stavka 7.) svaki supoduzetnik jamči solidarno za naplatu cjelokupnog poreza na dobit iz zajedničkog obavljanja djelatnosti.
