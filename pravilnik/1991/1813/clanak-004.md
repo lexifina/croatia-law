@@ -1,0 +1,2 @@
+# Članak 4.
+Članak 9. mijenja se i glasi: "Sud časti sudi članicama Komore zbog povreda dobrih poslovnih običaja u obavljanju gospodarskih djelatnosti i prometa roba i usluga na području Komore, kao i zbog povrede statuta i drugih općih akata Komore, bilo da to članice učine u međusobnom poslovanju ili prema trećim osobama kad je za takvo ponašanje predviđeno izricanje mjere protiv narušavanja društvene discipline".

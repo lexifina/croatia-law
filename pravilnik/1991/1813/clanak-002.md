@@ -1,0 +1,2 @@
+# Članak 2.
+Članak 4. mijenja se i glasi "U postupku pred sudom na odgovarajući se način primjenjuju odredbe glave I - XXVI Zakona o parničnom postupku ("Službeni list SFRJ", br. 4/77, 36/77, 36/80, 69/82, 58/84, 74/87, 57/88, 20/90, 27/90 i 35/91) koji je preuzet Zakonom o preuzimanju Zakona o parničnom postupku ("Narodne novine" broj 53/91) kao zakon Republike ako nisu u suprotnosti s odredbama ovog pravilnika, osim odredbi o presudi zbog izostanka i na temelju priznanja, sudskoj nagodbi i reviziji".
