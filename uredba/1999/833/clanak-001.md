@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o roku za podnošenje zahtjeva za obnovu te popravak i opremanje obiteljskih kuća i stanova u hrvatskom Podunavlju (»Narodne novine«, br. 30/99 i Isp. 32/99), članak 2. stavak 1. mijenja se i glasi:
+»Iznimno od odredbe članka 14. Zakona o obnovi, novčane potpore za popravak u ratu oštećenih obiteljskih kuća i stanova u područjima Osječko-baranjske i Vukovarsko-srijemske županije koja su ranije bila pod privremenom upravom UNTAES-a (dalje u tekstu: hrvatsko Podunavlje) i iz kojih su korisnici prava na obnovu bili prognani za vrijeme ratnih operacija i privremene okupacije do mirne reintegracije tih područja u ustavno-pravni poredak Republike Hrvatske, uvećavaju se za 50%.«
