@@ -1,0 +1,2 @@
+# Članak 12.
+Danom stupanja na snagu ovoga Zakona prestaje važiti članak 30. Zakona o zapošljavanju ("Narodne novine", br. 59/96.) i odredbe članka 34. stavka 1., članka 35. i članka 47. stavka 3. toga Zakona, u dijelu koji se odnose na sredstva za obvezno zdravstveno osiguranje nezaposlenih osoba, na gubitak prava na obvezno zdravstveno osiguranje nezaposlenih osoba i uplatu sredstava za zdravstveno osiguranje nezaposlenih osoba."

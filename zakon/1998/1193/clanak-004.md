@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 25. stavku 2. riječi: "propisanog Zakonom o izvršavanju državnog proračuna. Tako određena nadoknada pripada osiguranicima iz članka 21. stavka 1. točke 6. ovoga Zakona" zamjenjuju se riječima: "nadoknade plaće za vrijeme korištenja porodnog dopusta od šestog mjeseca do jedne godine života djeteta propisanog Zakonom o izvršavanju državnog proračuna. Tako određena nadoknada pripada osiguranicima za vrijeme korištenja obveznoga porodnog dopusta."
