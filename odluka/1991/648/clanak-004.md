@@ -1,0 +1,2 @@
+# Članak 4.
+Opunomoćene predstavnike Republike Hrvatske, koji obavljaju dužnost voditelja IURH-a imenuje i razrješuje, na prijedlog Vlade Republike Hrvatske, predsjednik Republike. Oni moraju biti državljani Republike Hrvatske. Predsjednik Republike može iznimno svojom posebnom odlukom imenovati počasnog predstavnika Republike Hrvatske u inozemstvu iz reda za Republiku Hrvatsku osobito zaslužnih državljana države u kojoj IURH djeluje, ili građanina hrvatskog podrijetla, a koji može biti i voditelj poiedinog IURH.
