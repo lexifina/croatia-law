@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. Zakona o morskom ribarstvu ("Narodne novine" br. 46/97 - pročišćeni tekst) ministar poljoprivrede i šumarstva uz suglasnost ministra prostornog uređenja, graditeljstva i stanovanja i ravnatelja Državne uprave za zaštitu prirode i okoliša donosi
