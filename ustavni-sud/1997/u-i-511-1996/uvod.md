@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić kao predsjednik Suda, te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, Ivan Marijan Severinac, Milan Vuković i Mladen Žuvela, u povodu prijedloga Josipa Sabljića iz Zagreba na sjednici održanoj dana 7. veljače 1997. godine, donio je slijedeće
