@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 105. Zakona o zdravstvenom osiguranju ("Narodne novine" broj 75/93) i točke IV. stavke 3. Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite ("Narodne novine" broj 29/93, 51/93 i 65/93), Izvršni odbor Skupštine Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 26. sjednici, održanoj 2. rujna 1993. godine donio je
