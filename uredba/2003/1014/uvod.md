@@ -1,0 +1,1 @@
+Na temelju članka 87. stavka 1. Zakona o sigurnosnim službama Republike Hrvatske (»Narodne novine«, br. 32/2002 i 38/2002), Vlada Republike Hrvatske je na prijedlog Savjeta za koordinaciju sigurnosnih službi, a uz prethodnu suglasnost Predsjednika Republike Hrvatske, na sjednici održanoj 15. svibnja 2003. godine donijela

@@ -1,0 +1,3 @@
+# Članak 9.
+Na temelju Uredbe o unutarnjem ustrojstvu iz članka 8., Pravilnikom o unutarnjem redu Zavoda, utvrđuje se način rada Zavoda i njegovih ustrojstvenih jedinica, potreban broj službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća i potrebnih uvjeta za obavljanje poslova, njihove ovlasti i odgovornosti, prava iz radnog odnosa te druga pitanja od značaja za rad Zavoda koja nisu uređena Uredbom iz članka 8. ove Uredbe.
+Pravilnik iz stavka 1. ovog članka donosi Vlada na prijedlog privremenog ravnatelja Zavoda, a uz prethodno pribavljeno mišljenje Savjeta za koordinaciju sigurnosnih službi, u roku od 60 dana od dana stupanja na snagu ove Uredbe.

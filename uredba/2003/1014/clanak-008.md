@@ -1,0 +1,3 @@
+# Članak 8.
+Uredbom o unutarnjem ustrojstvu Zavoda utvrđuje se unutarnje ustrojstvo Zavoda, djelokrug ustrojstvenih jedinica, način upravljanja tim jedinicama, poslovi i okvirni broj službenika i namještenika, unutarnji nadzor rada, korištenje i raspolaganje financijskim i drugim sredstvima, disciplinski i stegovni postupci, kao i druga pitanja od osobitog značaja za rad Zavoda.
+Uredbu iz stavka 1. ovog članka donosi Vlada na prijedlog privremenog ravnatelja Zavoda, a uz prethodno pribavljeno mišljenje Savjeta za koordinaciju sigurnosnih službi, u roku od 30 dana od dana stupanja na snagu ove Uredbe.
