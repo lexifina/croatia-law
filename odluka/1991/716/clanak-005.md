@@ -1,0 +1,2 @@
+# Članak 5.
+Zadružni savez Zadar plaća doprinos po stopi od 4 posto, a osnovica je prihod koji ostvari od doprinosa svojih članova. Udruženja samostalnih privrednika Zadar, Biograd na moru, Benkovac i Obrovac plaćaju doprinos po stopi od 5 posto a osnovica je prihod koji se ostvari od doprinosa svojih članova. Zadružni savez Zadar i udruženja samostalnih privrednika obračunavaju i uplaćuju doprinos tromjesečno, na račun iz članka 3. ove odluke.

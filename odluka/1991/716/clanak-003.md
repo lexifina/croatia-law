@@ -1,0 +1,2 @@
+# Članak 3.
+Obveznici doprinosa za koje je u članku 2. ove odluke utvrđena stopa, obračunavaju doprinos primjenom te stopeˇna osnovicu koju čini ostvareni bruto osobni dohodak (čisti osobni dohodak s porezima i doprinosima iz osobnog dohotka), a mjesečnu akontaciju doprinosa uplaćuju na račun 35300-637-1097 - Privredna komora Zadar kod Službe društvenog knjigovodstva Zadar na dan isplate osobnih dohodaka odnosno na dan uplate poreza i doprinosa iz osobnih dohodaka.

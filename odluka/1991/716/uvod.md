@@ -1,0 +1,1 @@
+Na temelju članka 29. Statuta Privredne komore Zadar i članka 2. Odluke o plaćanju članskog doprinosa Privrednoj komori Hrvatske u 1991. godini ("Narodne novine", broj 21 /91), Izvršni odbor Privredne komore Zadar na 8. sjednici održanoj 21. svibnja 1991. godine donio je
