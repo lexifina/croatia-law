@@ -1,0 +1,1 @@
+Na temelju članka 76. stavka 2. Zakona o mjenici ("Narodne novine" br. 74/94), članka 23. točke 10. Zakona o čeku ("Narodne novine" br. 74/94) i članka 116. stavka 3. Zakona o javnom bilježništvu ("Narodne novine" br. 78/93 i 29/94), donosim
