@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001), te članka 6. stavka 2. Zakona o zaštiti od elementarnih nepogoda (»Narodne novine«, broj 73/97), Vlada Republike Hrvatske je na sjednici održanoj 11. rujna 2003. godine donijela
