@@ -1,0 +1,1 @@
+Na temelju odredbi članka 4. stavka 4., članka 9. stavka 4., članka 16. stavka 3., članka 17. stavka 2. i članka 37. stavka 2. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj 48/95, 20/97, 46/97 - pročišćeni tekst, 68/98, 45/99, 76/99, 92/01, 117/01, 4/02, 49/03 - pročišćeni tekst i 117/03), ministar mora, turizma, prometa i razvitka donosi

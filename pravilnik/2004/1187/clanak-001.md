@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata (»Narodne novine«, broj 57/95, 110/96, 24/97, 61/98, 137/98, 19/99, 39/99, 52/99, 43/00, 52/00, 57/00, 63/00, 18/01, 33/01, 48/02, 21/03 i 175/03) u članku 64. stavku 2. riječi »konzumnih mjesta (sjedećih i stajaćih u ugostiteljskom sadržaju)« zamjenjuju se riječima »u blagovaonici i prostoriji za usluživanje (sjedećih i stajaćih)«.
