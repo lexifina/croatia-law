@@ -1,0 +1,2 @@
+# Članak 18.
+Stupanjem na snagu ovoga Zakona prestaju važiti Zakon o Agenciji Republike Hrvatske, za restrukturiranje i razvoj ("Naradne novine", br.18/90. 47/90. 19/91. i 29/91. pročišćeni tekst) i Zakon o Hrvatskom fondu za razvoj ("Narodne novine" br. 18/90.. 42/90., i 19/91. 29/91. - pročišćeni tekst), te odredba članka 18. stavka 4., članka 28. stavka 9. i članka 36. Zakona o pretvorbi društvenih poduzeća ("Narodne novine", br. 19/91. i 45/92.)

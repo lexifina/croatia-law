@@ -1,0 +1,2 @@
+# Članak 8.
+Radi provedbe nadzora nad radom Fonda osniva se Nadzorni odbor. Nadzorni odbor ima pet članova koje imenuje Sabor Republike Hrvatske. Tri člana Nadzornog odbora su iz reda zastupnika, a dva člana iz reda uglednih financijskih stručnjaka. Mandat članovima Nadzornog odbora traje do opoziva. Predsjednika i potpredsjednika Nadzornog odbora biraju između sebe članovi Nadzornog odbora. Nadzorni odbor donosi poslovnik o svom radu. Nadzorni odbor razmatra financijski plan i godišnje izvješće o poslovanju Fonda, te druge akte u skladu sa Statutom Fonda.

@@ -1,0 +1,2 @@
+# Članak 6.
+Organ upravljanja Fonda je Upravni odbor. Upravni odbor ima devet članova. Članove Upravnog odbora imenuje Sabor Republike Hrvatske i to pet iz reda zasutpnika i dva iz reda ministara. Predsjednik Hrvatske gospodarske komore po položaju je član Upravnog odbora. Potpredsjednlk Vlade Republike Hrvatske zadužen za gospodarska pitanja po položaju je predsjednik Upravnog odbora Fonda. Upravni odbor donosi odluke nadpolovičnom većinom glasova ukupnog broja članova Upravnog odbora. Članovima Upravnog odbora mandat traje do opoziva.

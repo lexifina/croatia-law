@@ -1,0 +1,2 @@
+# Članak 16.
+Sabor Republike Hrvatske na prvoj slijedećoj sjednici, nakon donošenja ovoga Zakona imenovat će članove Upravnog odbora. Upravni odbor Fonda donijet će statut kojim će se utvrditi organizacijski ustroj Fonda u roku od 30 dana od dana stupanja na snagu ovoga Zakona. Do dona upisa Fonda u sudski registar, Agencija Republike Hrvatske za restrukturiranje i razvoj i Hrvatski fond za razvoj nastavljaju poslovati po propisima kojima je uređeno njihovo poslovanje i nadležnosti do stupanja na snagu ovoga Zakona.
