@@ -1,0 +1,5 @@
+# Članak 15.
+Razdoblje osiguranja kraće od 12 mjeseci
+(1) Ako je razdoblje osiguranja navršeno prema pravnim propisima jedne od ugovornih stranaka kraće od 12 mjeseci i ako se na temelju toga ne ostvaruje pravo na davanje u novcu, nadležni nositelj druge ugovorne stranke uračunava ovo razdoblje na isti način kao da je to razdoblje osiguranja ostvareno prema njenim pravnim propisima.
+(2) Ako je ukupno razdoblje osiguranja ostvareno prema pravnim propisima obiju ugovornih stranaka kraće od 12 mjeseci i ni u jednoj od njih samo na osnovi toga razdoblja ne ispunjava se pravo na davanje u novcu, zbroj ovih razdoblja uzima u obzir nadležni nositelj one ugovorne stranke prema čijim je pravnim propisima ispunjeno potrebno razdoblje osiguranja.
+(3) Ako je primjenom stavka 2. ovoga članka ispunjen uvjet za pravo na davanje u novcu u objema ugovornim strankama, sva razdoblja uračunava samo nadležni nositelj one ugovorne stranke prema čijim je pravnim propisima bilo ostvareno duže razdoblje osiguranja.
