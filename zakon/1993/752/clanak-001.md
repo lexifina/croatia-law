@@ -1,0 +1,4 @@
+## o izmjenama Zakona o vodama
+# Članak 1.
+U Zakonu o vodama ("Nerodne novine", br. 53/90., 9/91 i 61/91.) članak 123. mijenja se i glasi:
+Članak 123. Vodoprivredni doprinos plaćaju pravne i fizičke osobe koje obavljaju gospodarsku djelatnost. Osnovicu za obračun i plaćanje ćini iznos isplaćenih bruto plaća. Vodoprivredni doprinos plaća se po stopi od 0,8% do 10. u tekućem mjesecu za isplaćene plaće u prethodnom mjesecu. Iznimno od odredbe stavka 2. ovoga članka fizičke osobe koje porez na dobit plaćaju u paušalnom iznosu, plaćaju vodoprivredni doprinos na osnoviću od koje se obračunava porez na dobit u paušalnom iznosu. Obračun i naplatu vodoprivrednog doprinosa za obveznike iz stavka 4. ovoga članka obavlja porezna uprava prema propisima o neposredrlim porezima. Sredstva vodoprivrednog doprinosa uplaćuju se na poseban račun Hrvatske vodoprivrede."

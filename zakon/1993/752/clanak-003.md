@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 141. stavak 1. mijenja se i glasi: "Naknadu za korištenje voda iz članka 134. kao i naknadu za zaštitu voda iz članka 135. ovoga Zakona, za vodu koja se isporučuje potrošaćima putem javnog vod00pskrbnog sustava obračunavaju i plaćaju zajedno s cijenom vode, putem prijelaznog računa za zajedničku naplatu prihoda pravnih osoba, komunalna poduzeća, odnosno druge pravne osobe koje fsporučuju vodu prema ukupnoj količini vode isporučene potrošačima."
