@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Vježbenik koji polaže stručni ispit može podnijeti prijavu za polaganje stručnog ispita nakon završetka vježbeničke prakse, a dužan je prijaviti najkasnije tri mjeseca prije isteka vježbeničkog staža.
+(2) Stručni djelatnik koji je dužan položiti stručni ispit podnijet će prijavu za polaganje stručnog ispita najkasnije tri mjeseca prije isteka utvrđenog roka u kojem je dužan položiti stručni ispit.
+(3) Prijava iz stavka 1. i 2. ovoga članka podnosi se ravnatelju ustanove socijalne skrbi, odnosno ovlaštenom predstavniku pravne ili fizičke osobe koja obavlja poslove socijalne skrbi u kojoj je osoba koja polaže stručni ispit u radnom odnosu, ili volonterskom radu, a koji ovjerava podatke unesene u prijavu i dostavlja prijavu, bez odlaganja, ministarstvu nadležnom za poslove socijalne skrbi.
+(4) Ministarstvo nadležno za poslove socijalne skrbi, dužno je osigurati polaganje stručnog ispita do isteka roka za polaganje, ako je prijava podnesena u roku iz stavka 1. i 2. ovoga članka.

@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Vježbenici mogu provoditi dio vježbeničke prakse u drugoj ustanovi socijalne skrbi, državnom tijelu, pravnoj osobi zdravstva, odgoja, obrazovanja, pravosuđa i drugoj pravnoj osobi koja obavlja poslove socijalne skrbi, ovisno o vrsti poslova i zadaća za koje se osposobljavaju tijekom vježbeničkog staža u skladu sa sadržajem vježbeničke prakse, ako ove pravne osobe ispunjavaju uvjete iz članka 11. stavka 1. alineja 1. i 3. ovoga Pravilnika.
+(2) Ustanova socijalne skrbi koja upućuje vježbenika na provođenje dijela vježbeničke prakse sukladno stavku 1. ovoga članka, ugovorom uređuje međusobna prava i obveze u svezi upućivanja vježbenika u drugu ustanovu, državno tijelo ili drugu pravnu osobu.
+(3) Odredba članka 11. stavka 6. ovoga Pravilnika na odgovarajući način primjenjuje se u svezi upućivanja vježbenika iz stavka 1. ovoga članka.

@@ -1,0 +1,12 @@
+## III. UVJETI KOJE MORAJU ISPUNJAVATI USTANOVE SOCIJALNE SKRBI U KOJIMA VJEŽBENIK PROVODI VJEŽBENIČKI STAŽ
+# Članak 11.
+(1) Ustanove socijalne skrbi u kojima vježbenici provode pretežiti dio vježbeničke prakse moraju ispunjavati sljedeće uvjete:
+- da u okviru svoje djelatnosti obavljaju stručne poslove predviđene u sadržaju vježbeničke prakse određene struke,
+- da imaju u radnom odnosu, puno radno vrijeme, stručnog djelatnika koji ispunjava uvjete za obavljanje poslova glavnog stručnog voditelja (članak 5. stavak 2. ovoga Pravilnika),
+- da imaju u radnom odnosu, puno radno vrijeme, stručnog djelatnika koji ispunjava uvjete za obavljanje poslova stručnog voditelja (članak 6. stavak 2. ovoga Pravilnika) stručnog djelatnika koji ima isti ili viši stupanj stručne spreme, struke za koju se vježbenik osposobljava, i najmanje jednu godinu radnog iskustva na tim poslovima,
+- da raspolažu odgovarajućom opremom i prostorom za obavljanje vježbeničke prakse određene struke.
+(2) Vježbenik može provoditi pretežiti dio vježbeničke prakse u ustanovi socijalne skrbi koja ne ispunjava propisani uvjet iz stavka 1. alineje 2. ovoga članka, ako se sporazumno s drugom (najbližom) ustanovom socijalne skrbi koja ispunjava ovaj uvjet, imenuje glavni stručni voditelj.
+(3) Ako se tijekom vježbeničke prakse ocijeni da ne postoji mogućnost da vježbenik obavi u cijelosti praksu u ustanovi socijalne skrbi u kojoj je zasnovao radni odnos, odnosno volonterski rad, ili bi upućivanje u drugu ustanovu socijalne skrbi pridonijelo njegovom uspješnijem osposobljavanju, vježbenik će obavljati vježbeničku praksu u drugoj ustanovi socijalne skrbi koja ispunjava uvjete propisane ovim Pravilnikom.
+(4) U slučajevima iz stavka 3. ovoga članka vježbenik se upućuje u drugu ustanovu socijalne skrbi koja ima sjedište na području iste županije, a iznimno se može uputiti i u ustanovu socijalne skrbi koja ima sjedište na području druge županije, ako je to svrsishodnije i racionalnije.
+(5) Ustanova socijalne skrbi u kojoj je vježbenik u radnom odnosu, odnosno volonterskom radu ugovorom uređuje međusobna prava i obveze u svezi upućivanja vježbenika u drugu ustanovu socijalne skrbi.
+(6) Troškovi koji nastanu u svezi upućivanja vježbenika na praksu u drugu ustanovu socijalne skrbi, (troškovi glede naknade glavnom stručnom voditelju, stručnom voditelju, troškovi prijevoza, materijalni troškovi i slično) snosi ustanova socijalne skrbi u kojoj je vježbenik zasnovao radni odnos, odnosno volonterski rad, ako ugovorom nije uređeno drukčije.

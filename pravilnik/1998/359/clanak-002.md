@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Stručni djelatnici koji nakon završenog obrazovanja zasnuju radni odnos ili volontiraju u ustanovama socijalne skrbi, radi stjecanja sposobnosti za samostalan rad (u daljnjem tekstu: vježbenici) provode vježbenički staž u ustanovama socijalne skrbi.
+(2) Stručni djelatnici nakon završenog obrazovanja mogu provoditi vježbenički staž i u drugim pravnim ili fizičkim osobama koje obavljaju poslove socijalne skrbi pod uvjetima i na način propisan ovim Pravilnikom.
+(3) Stručni djelatnik iz stavka 1. i 2. ovog članka koji u vrijeme zasnivanja radnog odnosa ima u odgovarajućoj struci radni staž kraći od vremena određenog za vježbenički staž propisan člankom 161. stavkom 1. Zakona o socijalnoj skrbi, dužan je provesti vježbeničku praksu sukladno odredbama ovog Pravilnika.
+(4) Stručni djelatnik iz stavka 1. ovog članka može provesti dio vježbeničke prakse i u državnim tijelima ili pravnim osobama zdravstva, odgoja, obrazovanja, pravosuđa, kao i drugim pravnim i fizičkim osobama koje obavljaju poslove socijalne skrbi.
