@@ -1,0 +1,4 @@
+# Članak 29.
+Maloljetnik može pojedinačno istupati u elektronskim i tiskovnim medijima ili nastupati u javnosti te biti snimljen ili fotografiran, ako je s time osobno suglasan i ako je to u skladu sa svrhom izvršavanja odgojne mjere. Odluku o tome donosi ministar, odnosno osoba koju on ovlasti, nakon pribavljenog mišljenja ravnatelja Zavoda, suca za mladež koji je izrekao odgojnu mjeru i zakonskog staratelja maloljetnika.
+Skupno fotografiranje ili snimanje maloljetnika na javnim manifestacijama odobrava ministar, odnosno osoba koju on ovlasti, nakon pribavljenog mišljenja ravnatelja Zavoda, uz suglasnost maloljetnika, a pod uvjetima i na način kojim će se zaštititi osobnost maloljetnika i podaci koji se smatraju poslovnom tajnom.
+Mišljenja i suglasnosti iz stavka 1. i 2. ovog članka pribavlja Zavod.

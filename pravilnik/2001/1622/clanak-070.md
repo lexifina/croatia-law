@@ -1,0 +1,3 @@
+# Članak 70.
+O primjeni mjera svladavanja otpora ravnatelj Zavoda dužan je odmah, a najkasnije u roku 24 sata, podnijeti izvješće ministarstvu nadležnom za poslove pravosuđa i sudu za mladež.
+Izvješće iz stavka 1. ovog članka temelji se na analizi prikupljenih izvješća osoba koje su mjeru primijenile i prisustvovale njenoj primjeni te medicinskoj dokumentaciji. Izvješće sadrži podatke o: vremenu i mjestu te osobi prema kojoj je primijenjena mjera svladavanja otpora, vrsti mjere, razlozima i načinu primjene, opis vidljivih posljedica koje su nastale na maloljetniku nakon uporabe mjere kao i ime i prezime službenika koji je mjeru primijenio i eventualno zdravstvene posljedice svladavanja otpora nastale po tog službenika ili druge osobe.

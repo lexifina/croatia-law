@@ -1,0 +1,2 @@
+# Članak 91.
+Rješenje o uvjetnom otpustu sud će dostaviti maloljetniku i njegovom zakonskom staratelju, Zavodu, državnom odvjetniku za mladež, centru za socijalnu skrb i policijskoj upravi mjesta prebivališta odnosno boravišta u koje se maloljetnik otpušta i mjesta prebivališta odnosno boravišta prije upućivanja u Zavod te općinskom sudu nadležnom za upućivanje maloljetnika na izvršavanje odgojne mjere.

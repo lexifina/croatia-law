@@ -1,0 +1,1 @@
+Temeljem članka 306. stavka 3. Zakona o izvršenju sankcija izrečenih za kaznena djela, privredne prijestupe i prekršaje (»Narodne novine« broj 21/74., 39/74., 58/88., 19/90., 66/93. i 73/00.), ministrica pravosuđa, uprave i lokalne samouprave, donosi

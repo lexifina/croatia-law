@@ -1,0 +1,3 @@
+# Članak 89.
+Prije donošenja odluke, sudac za mladež će obaviti razgovor s maloljetnikom, pribaviti mišljenje Zavoda, nadležnog državnog odvjetnika i centra za socijalnu skrb, a po potrebi će zatražiti i mišljenje drugih stručnjaka čije stajalište može biti značajno za donošenje odluke.
+U postupku odlučivanja o prijedlogu, sudac će razmotriti tijek izvršavanja odgojne mjere, sagledati učinak odgojnih postupaka, ispitati suradnju maloljetnika u odgojnom procesu i utvrditi postignute rezultate u njegovu obrazovanju i radu. Posebnu pozornost sud će usmjeriti obiteljskim prilikama u kojima bi maloljetnik trebao živjeti za vrijeme uvjetnog otpusta, materijalnu i emocionalnu stabilnost okruženja u koje se otpušta te mogućnost nastavka školovanja ili zapošljavanja.
