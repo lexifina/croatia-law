@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlaštenju Vlade Republike Hrvatske za donošenje uredbi kojima će uređivati pojedina pitanja iz djelokruga Sabora Republike Hrvatske, ("Narodne novine", broj 39/91 i 53A/91), Vlada Republike Hrvatske na sjednici održanoj 24. listopada 1991. donijela je

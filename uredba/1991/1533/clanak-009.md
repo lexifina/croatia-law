@@ -1,0 +1,2 @@
+# Članak 9.
+Danom stupanja na snagu ove uredbe prestaju se primjenjivati: - odredba članka 53. stavak 1. Zakona o stambenim odnosima, u dijelu koji se odnosi na amortizaciju, i odredba članka 57. u odnosu na rok u kojem se sredstva doznačuju vlasniku stana, - odredbe Zakona o korištenju dijela sredstava amortizacije stambenih zgrada i stanova u društvenom vlasništvu za velike popravke stambenih zgrada ("Narodne novine", broj 39/88 i 33/89), osim odredbe članka 2. tog zakona.

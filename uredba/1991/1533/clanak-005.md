@@ -1,0 +1,2 @@
+# Članak 5.
+Visina štete iz članka 4. ove uredbe utvrđuje se prema količini oštećenih elemenata primjenom cijene elemenata objavljenih u Biltenu o standardnoj kalkulaciji radova u visokogradnji koji objavljuje Fakultet građevinskih znanosti. Šteta iz stavka 1. ovog članka izrazava se u postotku prema građevinskoj vrijednosti (Cg) toga stana koji se utvrđuje prema odredbama Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 27/91 ). Visinu šteta iz stavka 1. ovog članka utvrđuje sudski vještak ili ovlaštena pravna osoba.
