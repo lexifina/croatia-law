@@ -1,0 +1,11 @@
+# Rev-887/1996-2, Vrhovni sud Republike Hrvatske, 3.3.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=5d7e5882-82de-4f41-ae3e-75c2837c4613
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-03-03
+- Publication date on source: 2003-08-25
+- ECLI: ECLI:HR:VSRH:1999:328
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
