@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. i članka 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, broj 36/2001), te članka 16. Odluke o Hrvatskom sustavu velikih plaćanja i o namiri na računima banaka u Hrvatskoj narodnoj banci (»Narodne novine«, broj 14/2002 i 27/2003), guverner Hrvatske narodne banke donio je
