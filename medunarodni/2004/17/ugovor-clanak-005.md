@@ -1,0 +1,6 @@
+# Članak 5.
+Prelazak državne granice te boravak na državnom području druge ugovorne stranke
+(1) Vrijeme i mjesto prelaska državne granice, način dolaska, odlaska te vrijeme boravka postrojbe za spašavanje i pojedinačnih stručnjaka na državnom području ugovorne stranke rješavat će nadležna tijela iz stavka 2. članka 3. ovoga Ugovora.
+(2) Pri prelasku državne granice i za vrijeme boravka na državnom području druge ugovorne stranke, utvrđuje se identitet samo voditelja postrojbe za spašavanje koji podnosi popis imena pripadnika postrojbe. U slučaju da pripadnici postrojbe za spašavanje ili pojedinačni stručnjaci prelaze državnu granicu pojedinačno ili ako ne rade na državnom području druge ugovorne stranke u svojstvu organizirane skupine, identitet se utvrđuje na temelju valjane putovnice.
+(3) Pripadnici postrojbe za spašavanje i pojedinačni stručnjaci ovlašteni su na državnom području druge ugovorne stranke nositi odoru ako je to dio njihove uobičajene opreme. Korištenje vlastitih znakova upozorenja postrojbama za spašavanje uređuje se pravnim propisima države ugovorne stranke koja traži pomoć.
+(4) Na pripadnike postrojbi za spašavanje te na pojedinačne stručnjake, za vrijeme njihovog boravka na državnom području druge ugovorne stranke, primjenjuju se unutarnji pravni propisi te države.
