@@ -1,0 +1,2 @@
+# Članak 4.
+Investitor je obvezan o početku gradnje građevina iz članka 2. ovoga Pravilnika kao i početku izvođenja građevinsko-instalaterskih radova obavijestiti nadležno državno tijelo za sanitarni nadzor koje je izdalo potvrdu o usklađenosti glavnog projekta s propisanim sanitarno-tehničkim uvjetima gradnje najkasnije u roku osam dana prije početka gradnje građevina odnosno izvođenja građevno-završnih i građevinsko-instalaterskih radova.
