@@ -1,0 +1,3 @@
+# Članak 10.
+Osobe s prebivalištem u Republici Hrvatskoj zaposlene u inozemstvu kod stranog poslodavca, koje nemaju zdravstveno osiguranje stranog nositelja zdravstvenog osiguranja, odnosno koje nisu obvezno osigurane prema inozemnim propisima na način kako je to određeno međunarodnim ugovorom o socijalnom osiguranju (članak 5. točka 7. Zakona), doprinos za osnovno zdravstveno osiguranje obračunavaju i plaćaju po stopi od 16% na osnovicu od 4.200,00 kuna, uvećanu za koeficijent stručne spreme za obavljanje poslova, odnosno djelatnost iz članka 4. stavke 2. ove Odluke.
+Doprinos iz stavke 1. ovog članka obveznik uplate doprinosa obvezan je obračunati i uplatiti do 15. u mjesecu za prethodni mjesec.

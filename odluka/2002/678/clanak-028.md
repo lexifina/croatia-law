@@ -1,0 +1,8 @@
+# Članak 28.
+Doprinos za osnovno zdravstveno osiguranje osiguranih osoba iz članka 12. Zakona utvrđuje se za:
+1. osobu koja sudjeluje u organiziranim javnim radovima u Republici Hrvatskoj, po stopi od 16% na osnovicu od 1.800,00 kuna mjesečno,
+2. osobu koja ispunjava obvezu sudjelovanja u civilnoj zaštiti ili obvezu sudjelovanja u službi motrenja i obavješćivanja, po stopi od 16% na osnovicu od 1.800,00 kuna mjesečno,
+3. osobu koja kao član operativnih sastava dobrovoljnih vatrogasnih organizacija obavlja zadaće gašenja požara, zaštite i spašavanja, te u slučaju drugih nepogoda, osposobljavanja, osiguranja na mjestima gdje postoji požarna opasnost, a na javnim priredbama zadatke u sklopu javnih nastupa i demonstracija s prikazom vježbi, te pri educiranju građana u protupožarnoj zaštiti, po stopi od 8% na osnovicu od 1.800,00 kuna mjesečno,
+4. korisnika novčane naknade za tjelesno oštećenje prema propisima o mirovinskom osiguranju, ako nema pravo na zdravstveno osiguranje prema drugoj osnovi zdravstvenu zaštitu koristi samo kada je u svezi s ozljedom ili bolesti koja je prouzročila tjelesno oštećenje prema kojem mu pripada pravo na novčanu naknadu za to oštećenje, po stopi od 16% na osnovicu od 1.800,00 kuna mjesečno.
+Sredstva doprinosa za osobe iz stavke 1. ovog članaka uplaćuju pravne ili fizičke osobe, tijela jedinice lokalne i područne (regionalne) samouprave, odnosno Republika Hrvatska, kod kojih ili na poziv kojih te osobe obavljaju poslove i zadatke.
+Za osobe iz stavke 1. točke 1., 2. i 3. ovog članka poseban doprinos za prava u slučaju ozljede na radi i profesionalne bolesti obračunava se i plaća po stopi od 0,47% na osnovicu od 1.800,00 kuna.

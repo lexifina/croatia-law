@@ -1,0 +1,6 @@
+# Članak 3.
+Za osobe u radnom odnosu u pravnoj ili kod fizičke osobe (članak 5. točka 1., 2., 3., 4. i 5., Zakona i osobe koje se nakon završenog obrazovanja nalaze na praktičnom radu iz članka 5. točke 8. Zakona, ako primaju plaću) doprinos za osnovno zdravstveno osiguranje plaća se po stopi propisanoj Zakonom o plaćanju doprinosa za osnovno zdravstveno osiguranje u 2002. godini (»Narodne novine« broj 114/01. - u daljnjem tekstu: Zakon o plaćanju doprinosa), a od osnovice koju čini plaća utvrđena u skladu sa Zakonom o radu, odnosno granskim kolektivnim ugovorom.
+Osnovica za obračun i plaćanje doprinosa za osnovno zdravstveno osiguranje iz stavke 1. ovog članka ne može biti manja od najniže osnovice za obračun doprinosa utvrđene u skladu sa Zakonom.
+Obveznik uplate doprinosa, koji nije isplatio plaću u skladu s propisima o radu, obvezan je obračunati i uplatiti doprinos za osnovno zdravstveno osiguranje na najnižu osnovicu za obračun doprinosa utvrđenu Zakonom i prema stopi propisanoj Zakonom o plaćanju doprinosa.
+Doprinos iz stavke 3. ovog članka obveznik uplate doprinosa obvezan je obračunati i uplatiti do 15. u mjesecu za prethodni mjesec.
+Doprinos, koji je obveznik uplate doprinosa uplatio prema stavci 2. i 3. ovog članka, smatra se dijelom doprinosa koji će biti konačno obračunat prilikom isplate dospjelih, a neisplaćenih plaća.

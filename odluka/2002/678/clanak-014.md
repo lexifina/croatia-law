@@ -1,0 +1,2 @@
+# Članak 14.
+Za osobe zaposlene u stranim predstavništvima i podružnicama ili međunarodnim organizacijama i ustanovama sa sjedištem u Republici Hrvatskoj (članak 5. točka 5. Zakona) doprinos za osnovno zdravstveno osiguranje iz članka 2. stavke 1. točke 1. i 2. te stavke 2. Zakona o plaćanju doprinosa, obračunavaju i plaćaju poslodavci na način propisan za radnike koji su u radnom odnosu kod pravne ili fizičke osobe, na osnovicu koju čini plaća utvrđena ugovorom o radu.
