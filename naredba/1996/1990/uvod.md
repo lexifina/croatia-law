@@ -1,0 +1,1 @@
+Temeljem članka 7. stavak 1. Zakona o morskim lukama ("Narodne novine", br. 108/95) u svezi s Odlukom o mjerilima za razvrstaj luka otvorenih za javni promet ("Narodne novine", br. 31/96), ministar pomorstva, prometa i veza, donosi
