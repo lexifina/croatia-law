@@ -1,0 +1,1 @@
+Odluka o iznosu mjesečne novčane naknade za osposobljavanje bračnog druga vojne osobe, službenika i namještenika koja je poginula ili umrla od zadobivene rane, ozljede ili bolesti a nema uvjeta za obi
