@@ -1,0 +1,2 @@
+# Članak 12.
+Organizacije socijalne zaštite dužne su provesti natječajni postupak i izvršiti izbor poslovodnog organa u roku od 45 dana od dana stupanja na snagu ovoga zakona. Ako poslovodni organ ne bude izabran odnosno razriješen u roku iz stavka 1. ovoga članka, odluku o imenovanju odnosnu razrješenju donijet će ministar rada i socijalne skrbi. Do izbora poslovodnog organa u skladu s odredbama ovoga zakona postojeći poslovodni organi nastavljaju s radom kao vršitelji dužnosti poslovodnog organa.

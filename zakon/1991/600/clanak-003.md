@@ -1,0 +1,2 @@
+# Članak 3.
+Članak 124 mijenja se i glasi "Centar za socijalni rad (u daljnjem tekstu: centar) osniva se kao podružnica Republičkog fonda radi obavljanja poslova u svezi sa zadovoljavanjem potreba radnika,radnih ljudi i građana u socijalnoj zaštiti na području općine odnosno Grada Zagreba za obavljanje poslova i zadataka utvrđenih zakonom ili odlukom ministra rada i socijalne skrbi u okviru ovlaštenja organa starateljstva i drugih javnih ovlaštenja".
