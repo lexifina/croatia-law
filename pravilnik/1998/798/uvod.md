@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine ("Narodne novine" br. 92/96), ministar prostornog uređenja, graditeljstva i stanovanja donosi
