@@ -1,0 +1,5 @@
+# Članak 38.
+Odjel za demografski razvoj obavlja stručne poslove koji se odnose na izradu studijskih podloga, studija, programa, zakonskih i podzakonskih akata koji se tiču koncepcije i strategije demografskog razvoja; unutarnje i vanjske migracije stanovništva; pružanje potpore povratku i unutarnjem preseljenju stanovništva; procjenu demografskog potencijala u funkciji područnog razvoja; projekcije demografskog razvoja; usklađivanje poslova vezanih za prilagodbu doseljenog stanovništva u novoj sredini; stvaranje osnovnih migracijskih baza podataka i namjenskih registara; praćenje odgovarajućih propisa objavljenih u službenim glasilima i stručne publikacije iz problematike migracija; izradu stručnih analiza, prikaza i izvješća; predlaganje odgovarajućih mjera; predlaganje planova povratka pučanstva i organizacije života u dijelom napuštena i ratom pogođena područja; procjene nužnih demografskih potencijala.
+Za obavljanje poslova i zadaća u Odjelu za demografski razvoj ustrojavaju se:
+1. Odsjek za planove i programe demografskog razvoja
+2. Odsjek za dokumentaciju, analizu i baze podataka.
