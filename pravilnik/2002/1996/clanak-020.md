@@ -1,0 +1,2 @@
+# Članak 20.
+Kada Povjerenstvo utvrdi da časnik stariji od 40 godina života ispunjava sve uvjete za promicanje u viši čin, a nije promaknut duže od vremena propisanog ovim Pravilnikom i ima više od 18 godina staža osiguranja sukladno članku 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba, donijet će zaključak o nemogućnosti njegovog daljnjeg profesionalnog razvoja.

@@ -1,0 +1,2 @@
+# Članak 23.
+Kada časnik ima 20 godina staža osiguranja, sukladno članku 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba te podnese pisanu zamolbu za prestanak djelatne vojne službe s pravom na invalidsku mirovinu zbog osobnog stava o neperspektivnosti i nemogućnosti svog daljnjeg profesionalnog razvoja u vojnoj službi, Povjerenstvo će donijeti zaključak o nemogućnosti daljnjeg profesionalnog razvoja.
