@@ -1,0 +1,2 @@
+# Članak 12.
+Iznimno od odredbi ovog Pravilnika, u slučaju nastupa posebnih okolnosti koje nalažu drukčiji raspored radnog vremena zdravstvenih ustanova ili radnika, ministar zdravstva može odrediti i drukčiji početak i završetak radnog vremena, kao i drukčiju preraspodjelu radnog vremena, do isteka posebnih okolnosti.

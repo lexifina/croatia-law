@@ -1,0 +1,3 @@
+# Članak 5.
+U ustanovama primarne zdravstvene zaštite redoviti rad ordinacija organizira se svakim radnim danom u tjednu, a subotom mora redovito raditi najmanje jedna četvrtina od ukupnog broja ordinacija svake pojedine struke primarne zdravstvene zaštite (opće ili obiteljske medicine, stomatologije, ginekologije i pedijatrije). Rad subotom ulazi u tjednu normu od 40 radnih sati, odnosno u ukupni mjesečni fond sati, a organizira se preraspodjelom redovitog radnog vremena u tijeku jednog mjeseca.
+Za vrijeme korištenja dana tjednog odmora, bolovanja ili edukacije, ako taj dan pada na radni dan, bolesnika preuzima drugi zdravstveni radnik prema rasporedu naznačenom na vratima svake ordinacije.

@@ -1,0 +1,3 @@
+# Članak 2.
+Raspored radnog vremena, a posebno početak i završetak radnog vremena utvrđuje se općim aktom zdravstvene ustanove iz članka 1. ovoga Pravilnika, u skladu s ovim Pravilnikom i drugim propisima, vodeći računa o djelatnosti ustanove, procesu rada u pojedinim njezinim dijelovima, godišnjem dobu te potrebama osiguranih osoba Zavoda (u daljnjem tekstu: osigurane osobe) uz poštivanje načela kontinuiranosti, učinkovitosti i dostupnosti zdravstvene zaštite.
+Određivanje početka i kraja radnog vremena u pojedinim dijelovima zdravstvene ustanove kao i preraspodjelu radnog vremena kada se za to ukaže potreba provodi ravnatelj ustanove.
