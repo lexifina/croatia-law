@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u privredne komore ("Narodne novine", br. 42/86), te člana 73. i 138. Statuta Privredne komore regije Varaždin, Skupština Privredne komore regije Varaždin, na svojoj sjednici od 21. prosinca 1990. godine, donosi.
