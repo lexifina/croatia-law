@@ -1,0 +1,12 @@
+1. Hrvatska narodna banka, u suradnji s Riječkom bankom d.d., u okviru serije prigodnoga kovanog novca pod nazivom "ZNAMENITE HRVATICE", izdaje srebreni kovani novac posvećen Ivani Brlić-Mažuranić, spisateljici koja je u hrvatsku književnost ušla kao najbolji pisac za djecu i čija su djela prevođena na mnoge svjetske jezike, te je dva puta predložena za Nobelovu nagradu.
+2. Prigodni srebreni kovani novac iz točke 1. ove Odluke izdaje se u apoenu od 200 kuna, u količini od 2.000 komada i u ukupnoj svoti od 400.000,00 kuna.
+3. Prigodni srebreni kovani novac iz točke 2. ove Odluke bit će izrađen od srebra stupnja čistoće 925/000, u specijalnoj tehnici kovanja kakvoće polirana ploča, s visokosjajnim ravnim površinama i matiranim reljefnim detaljima, prigodnih motiva. Srebreni kovani novac od 200 kuna imat će masu od 33,63 grama i promjer od 40 milimetara.
+4. Prigodni srebreni kovani novac od 200 kuna s lica izgleda ovako: u središnjem je dijelu portret Ivane Brlić-Mažuranić. Portret je omeđen kružnim pojasom, koji tvore vanjski rub kovanog novca te niz točaka s unutarnje strane. Unutar pojasa, s lijeve na desnu stranu ispisano je ime i prezimena spisateljice, te godina rođenja i smrti "IVANA BRLIĆ-MAŽURANIĆ 1874.-1938."
+5. Prigodni srebreni kovani novac od 200 kuna s naličja izgleda ovako: u središnjem dijelu gornjeg polukruga prikaz je otvorene knjige kraj koje je pero i uljana svjetiljka, simboli književnoga stvaranja. Ispod prikaza niz je prepoznatljivih razigranih motiva iz pripovijetke "Šuma Striborova". U središnjem dijelu donjeg polukruga, uz rub, ispisana je godina izdanja "1998.". U gornjem polukrugu oznaka je nominalne vrijednosti "200" i naziva novčane jedinice "KUNA". Uz gornji rub prikaz je grba Republike Hrvatske. Unutar kružnog pojasa identičnoga opisu za lice kovanog novca, u gornjem polukrugu, ispisan je tekst "REPUBLIKA HRVATSKA", koji tekst međusobno razdvaja kruna grba.
+6. Obod je prigodnoga srebrenog kovanog novca od 200 kuna gladak.
+7. Autor je idejnoga i likovnog rješenja za srebreni kovani novac od 200 kuna Stjepan Divković, akademski kipar.
+8. Prigodni srebreni kovani novac iz točke 2. ove Odluke prodavat će se po cijeni od 260,00 kuna.
+9. Prigodni srebreni kovani novac iz točke 2. ove Odluke pustit će se u prodaju 18. studenoga 1998. godine.
+10. Prigodni srebreni kovani novac iz točke 2. ove Odluke Hrvatska narodna banka prodavat će isključivo putem Riječke banke d.d., Rijeka.
+11. Ova Odluka stupa na snagu danom objave u "Narodnim novinama".
+O.br. 457/98.
