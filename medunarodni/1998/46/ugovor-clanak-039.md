@@ -1,0 +1,4 @@
+# Članak 39.
+1. Nadležna tijela države primateljice dužna su izvijestiti konzularnog dužnosnika o potrebi ustanovljenja starateljstva ili skrbništva nad maloljetnim osobama ili osobama koje nemaju punu poslovnu sposobnost, u svezi s obavljanjem pravnih poslova ili za potrebe zaštite imovine koja se nalazi u državi primateljici, ukoliko, iste ne može poduzeti odnosno istom ne može upravljati državljanin države imenovanja.
+2. U konzultaciji s nadležnim tijelima države primateljice konzularni dužnosnik može izvijestiti državljane države imenovanja o pitanjima spomenutim u stavku 1. ovog članka, a posebice može predložiti osobe koje bi nastupile kao staratelji ili skrbnici.
+3. Ako nije osigurano upravljanje imovinom maloljetnih ili drugih poslovno nesposobnih osoba, konzularni dužnosnik može predložiti osobu koja će upravljati tom imovinom ili tražiti od nadležnih tijela države primateljice da radi toga poduzmu nužne mjere.

@@ -1,0 +1,2 @@
+# Članak 38.
+Na zahtjev nadležnih tijela države primateljice konzularni dužnosnik ovlašten je dostavljati sudske i vansudske akte i vršiti saslušanja u skladu s važećim međunarodnim sporazumima između ugovornih stranaka, ili, ukoliko nema takvih sporazuma, na bilo koji drugi način koji je u skladu sa zakonima i drugim propisima države primateljice. Ovo se pravo može koristiti samo u odnosu na državljane države imenovanja i bez korištenja bilo kakvih mjera prisile.

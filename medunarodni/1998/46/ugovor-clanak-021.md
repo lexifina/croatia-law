@@ -1,0 +1,5 @@
+# Članak 21.
+1. Član konzularnog ureda može biti pozvan da svjedoči u sudskim i upravnim postupcima kod nadležnih tijela države primateljice. Konzularni službenik ili član poslužnog osoblja ne smije odbiti svjedočiti, osim u slučajevima utvrđenim stavkom 3. ovog članka. Ako konzularni dužnosnik odbije biti nazočan ili svjedočiti, protiv njega se ne primjenjuju mjere prisile ili neka druga sankcija.
+2. Tijela države primateljice koja konzularnog dužnosnika pozovu da svjedoči, ne smiju ga ometati u obavljanju njegovih službenih funkcija. Ona mogu saslušati svjedočenje konzularnog dužnosnika u konzularnom uredu, rezidenciji, njegovom stanu, ili prihvatiti njegovu pisanu izjavu.
+3. Član konzularnog ureda nije dužan svjedočiti o činjenicama koje se odnose na obavljanje njegovih službenih funkcija, niti je dužan pokazati službenu korespondenciju ili druge dokumente iz konzularnog arhiva. Ova se odredba odnosi i na članove obitelji članova konzularnog ureda te članove privatne posluge u svezi s činjenicama koje se odnose na djelovanje konzularnog ureda.
+4. Član konzularnog ureda nije dužan svjedočiti kao vještak o zakonodavstvu države imenovanja.

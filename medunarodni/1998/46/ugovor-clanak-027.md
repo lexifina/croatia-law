@@ -1,0 +1,6 @@
+# Članak 27.
+1. U skladu sa svojim zakonima i propisima, država primateljica dozvolit će uvoz i izvoz, te izuzeće od carinskih pristojbi, izuzev pristojbi i davanja za ukrcaj, prijevoz, skladištenje i iskrcaj te druge usluge, za:
+1) predmete namijenjene isključivo službenoj uporabi od strane konzularnog ureda:
+2) predmete, uključujući prijevozna sredstva, namijenjene osobnoj uporabi konzularnog dužnosnika ili članova njegove obitelji, uključujući predmete namijenjene njegovom smještaju. Potrošni predmeti ne smiju prelaziti količine potrebne za njihovu neposrednu uporabu od strane odnosnih osoba.
+2. Konzularni službenici uživaju privilegije i oslobođenja predviđena u stavku 1. ovog članka glede predmeta uvezenih pri njihovom prvom stupanju na dužnost.
+3. Osobna prtljaga konzularnog dužnosnika i članova njegove obitelji izuzeta je od pregleda, osim u slučaju kad postoji ozbiljan razlog za pretpostavku da ista sadrži druge predmete osim onih čiji je uvoz dozvoljen prema točci 2., stavku 1. ovog članka ili predmete čiji su izvoz ili uvoz zabranjeni zakonima ili propisima države primateljice ili podliježu njezinim zakonima i propisima o karanteni. Takva kontrola obavlja se u nazočnosti dotičnog konzularnog dužnosnika ili njegovog opunomoćenika.
