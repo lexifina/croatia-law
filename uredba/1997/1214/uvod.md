@@ -1,0 +1,1 @@
+Na temelju članka 1. stavka 1. i 3. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske ("Narodne novine", broj 90/96), Vlada Republike Hrvatske je na sjednici održanoj 3. srpnja 1997. donijela
