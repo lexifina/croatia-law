@@ -1,0 +1,4 @@
+# Članak 6.
+U članku 38. Zakona o izmjenama i dopunama Zakona o mirovinskom osiguranju (»Narodne novine«, br. 147/02.) u stavku 1. iza riječi: »Jugoslavije« riječi: »koji je na te poslove bio upućen, kao hrvatski kadar, od tijela državne vlasti Socijalističke Republike Hrvatske i kojem se isplaćuje mirovina na temelju Zakona o isplati mirovina korisnicima koji su mirovinu ostvarili u republikama bivše Socijalističke Federativne Republike Jugoslavije (»Narodne novine«, br. 96/93.)« brišu se, a iza riječi: »isplaćena« dodaju se riječi: »odnosno koja mu je pripadala«.
+U stavku 3. iza riječi: »Jugoslavije« riječi: »koji je na te poslove bio upućen, kao hrvatski kadar, od tijela državne vlasti Socijalističke Republike Hrvatske i« brišu se.
+U stavku 4. iza riječi: »Jugoslavije« riječi: »na koje poslove je bio upućen, kao hrvatski kadar, od tijela državne vlasti Socijalističke Republike Hrvatske« brišu se.
