@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1., a u svezi s člankom 12. Zakona o sanaciji i restrukturiranju banaka (»Narodne novine«, broj 44/99), na prijedlog Hrvatske narodne banke od 18. lipnja 1999. godine, Vlada Republike Hrvatske je na sjednici održanoj 23. rujna 1999. godine, donijela
