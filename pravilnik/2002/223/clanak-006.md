@@ -1,0 +1,4 @@
+# Članak 6.
+Jedan djelatnik iz članka 5. ovoga pravilnika mora imati VSS tehničkog smjera ili prirodoslovno-matematičkog smjera i najmanje 1 godinu radnog iskustva na poslovima ispitivanja ili proizvodnje štrcaljki, ili VŠS tehničkog smjera i najmanje 2 godine radnog iskustva na poslovima ispitivanja ili proizvodnje štrcaljki, ili SSS tehničkog smjera i najmanje 3 godine radnog iskustva na poslovima ispitivanja, ili proizvodnje štrcaljki, ili VKV tehničke struke i najmanje 4 godine radnog iskustva na poslovima ispitivanja ili proizvodnje štrcaljki.
+Drugi radnik iz članka 5. ovoga pravilnika mora biti najmanje KV tehničke struke i najmanje 2 godine radnog iskustva na poslovima ispitivanja ili proizvodnje štrcaljki.
+Radnik iz stavka 1. ovoga članka mora poznavati propise kojima su utvrđeni postupci i metode ispitivanja štrcaljki.
