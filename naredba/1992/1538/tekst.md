@@ -1,0 +1,5 @@
+o izmjeni i dopuni Naredbe o uplatnim računima prihoda za finandranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima
+1. U Naredbi o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima ("Narodne novine", broj 73A/91, 9/92 i 45/92) u točki 9. brišu se računi od 1) do 3). Računi od 4) do 6) postaju računi od 1) do 3).
+2. U točki 26. iza računa pod 2) briše se točka i dodaje tekst: 3) 842-320 godišnja naknada za upotrebu cesta što je na cestovna motorna i priključna vozila plaća privreda, 4) 842-338 godišnja naknada za upotrebu cesta što je na cestovna motorna i priključna vozila plaća izvan privreda, 5) 842-341 godišnja naknada za upotrebu cesta što je na cestovna motorna i priključna vozila plaćaju građani i građanske pravne osobe.
+3. U točki 28. iza računa pod 8) briše se točka i dodaje tekst: 9) 842-474 boravišna pristojba turističkim zajednicama.
+4. Ova naredba stupa na snagu danom objave u "Narodnim novinama".
