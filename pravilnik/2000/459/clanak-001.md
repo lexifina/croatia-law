@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu stavljanja u promet sredstava za zaštitu bilja (»Narodne novine«, broj 75/98.), članak 5. mijenja se i glasi:
+"Uz zahtjev iz članka 3. ovog pravilnika, podnositelj zahtjeva obvezan je dostaviti Zavodu potrebnu količinu sredstva u izvornoj ambalaži, uzorak čiste djelatne tvari (standarda poznate čistoće) i tehničke djelatne tvari te presliku deklaracije za sredstvao iz zemlje proizvodnje ili od zemalja Europske unije ili Organizacije za ekonomsku suradnju i razvoj (u daljnjem tekstu: "OECD") ili potvrdu da je aktivna tvar uvrštena na listu Anex I Direktive 91/414/EEC."
