@@ -1,0 +1,4 @@
+# Članak 34.
+Ako organizacija zdravstva na zahtjev osiguranika izradi stomatološko-protetsko pomagalo od plemenitog metala, osiguranik nadoknađuje organizaciji zdravstva, odnosno izabranom liječniku privatne prakse razliku između vrijednosti standardnog materijala propisanog ovim pravilnikom i plemenitog metala, računajući do 2,00 grama poluplemenitog metala po jednom zubu; odnosno krunici.
+Ako osiguranik plemeniti metal za izradu stomatološko-protetskog pomagala nabavi sam, ima pravo na naknadu troškova od organizacije zdravstva ili izabranog liječnika privatne prakse do iznosa vrijednosti poluplemenite slitine potrebne za izradu stomatološko-protetskog pomagala, ali najviše do 2,00 grama poluplemenite slitine po jednom zubu odnosno krunici.
+Pri izradi stomatološko-protetskih pomagala iz stavke 1. i 2. ovog članka; vrijednost poluplemenitog metala obračunava se po cijeni koja vrijedi na dan stavljanja stomatološko-protetskog pomagala.

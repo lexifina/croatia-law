@@ -1,0 +1,3 @@
+# Članak 44.
+Slušni aparat (amplifikator) dodjeljuje se osiguraniku kod kojega postoji obostrani gubitak sluha preko 40 decibela u govornim frekvencijama (500,1000, 2000 HZ), a sluh mu se liječenjem ne može poboljšati ispod te granice, a ustanovi da se pomoću slušnog aparata može postići zadovoljavajuči efekt komunikacije i mogućnost rehabilitacije.
+Slušni aparat iz stavka 1. ovog članka, daje se osiguaniku na osnovi nalaza i mišljenja audiološkog centra ili organizacije zdravstva, koja ima audiološku jedinicu, te mogućnost tonalnih i govornih ispitivanja, kao i stručne provjere razumljivosti govora pomoću slušnog aparata (govorna audiometrija uz primjenu slušnog aparata).
