@@ -1,0 +1,8 @@
+o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990.
+1. Puni iznos doplatka za pomoć i njegu utvrđen na dan 1. siječnja 1990. godine u visini od 248,20 dinara, povećava se od 1. siječnja 1990. za 257,5% i iznosi 887,20 dinara.
+2. Smanjeni iznos doplatka za pomoć i njegu utvrđen na dan 1. siječnja 1990. godine u visini od 186,10 dinara, povećava se od 1. siječnja 1990. godine za 257,5% i iznosi 665,40 dinara.
+3. Slijepom korisniku porodične mirovine doplatak za pomoć i njegu pripada u punom iznosu.
+4. Za korisnika doplatka za pomoć i njegu iz člana 76. stava 1. točke 3. Zakona o mirovinskom i invalidskom osiguranju, te korisniku invalidske mirovine odnosno starosne mirovine koji je pravo na taj doplatak stekao zbog sljepoće, doplatak za pomoć i njegu utvrđen na dan 1. siječnja 1990. godine u visini od 310,20 dinara, povećava se od 1. siječnja 1990. za 257,5% i iznosi 1.109,00 dinara.
+5. U skladu s odredbama točke 1. do 4. ove Odluke stručna služba Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske po službenoj dužnosti, bez donošenja rješenja, odredit će pripadajući novi iznos doplatka za pomoć i njega svim korisnicima koji imaju pravo na taj doplatak na dan 1. siječnja 1990. ili su to pravo ostvarili nakon toga dana, uz obračun isplaćenih iznosa doplatka za pomoć i njegu prema Odluci o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. ("Narodne novine" br. 8/90).
+6. Danom stupanja na snagu ove Odluke prestaje važiti Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1990. ("Narodne novine" br. 8/90).
+7. Ova Odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1990. godine.
