@@ -1,0 +1,4 @@
+# Članak 25.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u "Narodnim novinama".
+Ministar
+mr.sc. Božidar Pankretić, v.r.

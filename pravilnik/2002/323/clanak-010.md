@@ -1,0 +1,3 @@
+# Članak 10.
+Dopuštena je upotreba dodataka nepoljoprivrednog podrijetla, kao i pomoćnih sredstava i ostalih proizvoda koji se koriste za preradu sastojaka u ekološkoj proizvodnji (Prilog 1. ).
+Povjerenstvo za ekološku proizvodnju poljoprivrednih i prehrambenih proizvoda (u daljnjem tekstu: Povjerenstvo) može na ovaj popis dodati samo tvari bez kojih dotične namirnice dokazano ne mogu biti proizvedene niti im se može produljiti rok trajanja, odnosno, za pomoćne tvari u preradi samo takve tvari koje su općenito uobičajne u preradi namirnica i bez kojih dotične namirnice ne mogu biti proizvedene.
