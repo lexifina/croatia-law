@@ -1,0 +1,2 @@
+# Članak 5.
+Obveznice glase na ime i izdaju se na rok od 20 godina. Obveznice se revaloriziraju šestomjesečno indeksom rasta cijena proizvođača industrijskih proizvoda, uz kamatnu stopu od 5% godišnje s tim, da se kamate obračunavaju i isplaćuju šestomjesečno uz primjenu konformnog načina obračuna kamata. Sredstva za isplatu kamata osiguravaju se u Proračunu Republike Hrvatske. Obveznice se mogu prenositi među bankama iz članka 2. ovoga zakona, a na druge pravne osobe uz suglasnost Ministarstva financija.

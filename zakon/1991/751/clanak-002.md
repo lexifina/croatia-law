@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznice iz članka 1. ovoga zakona izdaju se javnim poduzećima iz oblasti privredne infrastrukture osnovanim na razini Republike, poduzećima izvoznicima kapitalnih dobara i izvođačima investicijskih radova u inozemstvu i drugim izvoznim poduzećima koja imaju udio inorealizacije u ukupnom prihodu u visini najmanje 20% te proizvođačima osnovnih poljoprivrednih proizvoda za podmirenje dijela njihovih obveza prema bankama u Republici Hrvatskoj.

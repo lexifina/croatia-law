@@ -1,0 +1,2 @@
+# Članak 6.
+Poslove oko izdavanja obveznica po ovom zakonu i poslove evidencije o uručenim obveznicama, kao i isplate dospjelih obveza iz obveznica obavljat će Ministarstvo financija. Poslovi iz stavka 1. ovoga članka mogu se u cjelini ili djelomično povjeriti jednoj od banaka s tim, da ih obavlja u ime i za račun Republike Hrvatske, a na osnovi ugovora kojeg sa bankom zaključuje ministar financija.
