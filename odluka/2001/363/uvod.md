@@ -1,0 +1,1 @@
+Na temelju članka 38. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu (»Narodne novine«, broj 130/2000), Vlada Republike Hrvatske je na sjednici održanoj 9. ožujka 2001. godine donijela
