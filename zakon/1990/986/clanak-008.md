@@ -1,0 +1,2 @@
+# Članak 8.
+Pod prometnom vrijednošću podrazumijeva se cijena nekretnine koja se postiže ili se može postići na tržištu u času nastanka porezne obveze. Prometnu vrijednost nekretnina procjenjuje komisija koju imenuje općinska skupština ili organ koji ona ovlasti. Vlasnik odnosno korisnik ili uživalac nekretnine dužan je ovlaštenim osobama dopustiti pristup na zemljište i objekte radi procjene prometne vrijednosti nekretnine.

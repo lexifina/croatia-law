@@ -1,0 +1,3 @@
+## VII. NAPLATA POREZA
+# Članak 18.
+Porezni obveznik dužan je platiti razrezani iznos poreza u roku 15 dana od dana dostave rješenja o razrezu poreza na promet nekretnina. U opravdanim slučajevima općinska uprava društvenih prihoda može poreznom obvezniku odobriti odgodu za plaćanje poreza u više obroka. Ako se porezni obveznik ne pridržava rješenja o odobrenju obročne otplate poreza, općinska uprava društvenih prihoda može staviti izvan snage rješenje o odobrenju obročne otplate poreza i poduzeti mjere da se zaostali dug naplati odjednom. Na iznos poreza koji nije plaćen u propisanom roku ili prema rješenju o odgodi plaćanja poreza ili o obročnoj otplati poreza plaćaju se kamate u visini eskontne stope Narodne banke Jugoslavije uvećane za dva postotna poena.
