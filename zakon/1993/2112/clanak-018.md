@@ -1,0 +1,2 @@
+# Članak 18.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o osiguravanju sredstava, ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama ("Narodne novine", br. 54/93.) i stavlja se van snage točka 15. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti. ("Narodne novine", br. l00/93.)

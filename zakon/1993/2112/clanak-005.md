@@ -1,0 +1,9 @@
+## UTVRĐIVANJE PRAVA KORISNIKA SREDSTAVA
+# Članak 5.
+Prava korisnika sredstava na osiguravanje sredstava i okolnosti navedene u članku 3. ovoga Zakona utvrđuje županijsko poglavarstvo ili Gradsko poglavarstvo Grada Zagreba, prema sjedištu ili prebivalištu korisnika.
+Prava iz stavka 1. ovoga članka utvrđuju se na temelju pisanog zahtjeva korisnika sredstava iz članka 2. ovoga Zakona. Korisnik podnosi zahtjev svaki mjesec u zadnjoj dekadi za prethodni rnjesec. Uz zahtjev prilaže popis radnika i razloge nemogućnosti obavljanja djelatnosti, odnosno rada.
+Županijsko poglavarstvo ili Gradsko poglavarstvo Grada Zagreba zatražit će provjeru podataka navedenih u zahtjevu korisnika sredstava od Zavoda za platni promet, odnosno od tijela uprave kod kojeg se vode podaci o prihodima i porezima građana.
+Županijskom poglavarstvu ili Gradskom poglavarstvu Grada Zagreba dužni su, na njihov zahtjev, davati podatke potrebne za rješavanje zahtjeva korisnika sredstava i drugih tijela.
+Županijsko poglavarstvo ili Gradsko poglavarstvo Grada Zagreba odmah donosi odluku o pravu korisnika sredstava na osiguravanje sredstava za isplatu plaća. Odluka obvezno sadrži:
+mjesec na koji se odnosi odluka, puni naziv korisnika iz članka 2. ovoga Zakona, mjesto sjedišta, prebivališta, odnosno boravka korisnika, kratak opis razloga nemogućnosti obavljanja djelatnosti, odnosno rada iz članka 3. ovoga Zakona, te popis svih korisnika prava na isplatu plaće kao i ukupni iznos sredstava za isplatu plaća, odnosno naknada.
+Odluka iz stavka 5. ovoga članka dostavlja se područnoj službi, odnosno ispostavi Zavoda za zapošljavanje, korisniku sredstava i Uredu za prognanike i izbjeglice. Područne službe, odnosno ispostave Zavoda za zapošljavanje odmah dostavljaju odluke iz stavka 5. ovoga članka Središnjoj službi Zavoda za zapošljavanje Zagreb.
