@@ -1,0 +1,1 @@
+Na temelju članka 39. točke 15, članka 65. i 66. Statuta Zadružnog saveza Hrvatske i članka 2. stavka 1. točke 4. Statuta Privredne komore Hrvatske, Upravni odbor Zadružnog saveza Hrvatske na 26. sjednici održanoj 26. lipnja 1991. donio je
