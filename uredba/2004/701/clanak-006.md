@@ -1,0 +1,2 @@
+# Članak 6.
+U Odjelu za odnose s javnošću i informiranje obavlja se komunikacija s medijima i prezentacija aktivnosti Ministarstva, kao i informiranje unutar Ministarstva, te komunikacija i kontakti s Hrvatskim saborom, Vladom Republike Hrvatske i drugim tijelima državne uprave, kao i pravnim osobama koje obavljaju javne ovlasti iz djelokruga Ministarstva; te poslovi protokola i drugi poslovi u okviru djelokruga odjela, po nalogu ministra.

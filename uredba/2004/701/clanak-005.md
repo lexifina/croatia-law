@@ -1,0 +1,3 @@
+# Članak 5.
+Odjel za osiguranje kvalitete i unutarnji nadzor osigurava kvalitetu rada, prati i analizira radne procese u okviru Ministarstva i organizira njihovu učinkovitost, zadužen je za uvođenje ISO standarda u proces unutarnjih upravnih organizacija i ustrojstvenih jedinica, propisuje tijekove dokumenata, daje upute organizacijskim cjelinama unutar Ministarstva u svezi provedbe postupka ISO standarda; sustavno nadzire svrsishodno i djelotvorno trošenje proračunskih sredstava sukladno sa Zakonom, predlaže konkretna rješenja i poboljšanja u radu Ministarstva. O svom radu, daje pisana izvješća čelniku Ministarstva, te radi i druge poslove u okviru svoga djelokruga po nalogu ministra.
+1.2. Odjel za odnose s javnošću i informiranje

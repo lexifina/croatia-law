@@ -1,0 +1,3 @@
+# Članak 9.
+Odsjek za planiranje i izvršavanje proračuna organizira i koordinira rad na izradi planova potrebnih financijskih sredstava za rad svih uprava, sukladno sa zakonskim propisima i služeći se metodom racionalnog i namjenskog korištenja proračunskih sredstava, priprema i kontrolira zahtjeve za izvršavanje tekućih i kapitalnih izdataka i transfera putem sustava Državne riznice, prati izvršenje obveza po kapitalnim projektima i usklađuje evidenciju kapitalne imovine sa stvarnim stanjem, izrađuje preglede i izvješća izvršenih izdataka u odnosu na plan, sudjeluje na izradi periodičnih obračuna, završnog računa i konsolidiranih izvješća na nivou Razdjela, te obavlja druge poslove iz svojeg djelokruga.
+2.1.2. Odsjek za financijsko-računovodstvene poslove

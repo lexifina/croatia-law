@@ -1,0 +1,7 @@
+# Članak 20.
+Odjel za rudarstvo obavlja upravne poslove u prvom stupnju koji se odnose na istraživanje i eksploataciju svih mineralnih sirovina osim građevnog pijeska i šljunka, tehničko-građevnog kamena, te ciglarske gline; izdaje odobrenja za istraživanje i eksploatacijska polja mineralnih sirovina; izdaje građevinske i uporabne dozvole za rudarske objekte i postrojenja; dodjeljuje rudarske koncesije za izvođenje rudarskih radova eksploatacije mineralnih sirovina; vodi katastar istražnih prostora i eksploatacijskih polja mineralnih sirovina; vodi evidenciju o rezervama mineralnih sirovina i izrađuje godišnju bilancu rezervi mineralnih sirovina; provodi postupke provjere elaborata o rezervama mineralnih sirovina i postupke provjere rudarskih projekata eksploatacije mineralnih sirovina; obavlja upravni nadzor u tijelima državne uprave u jedinicama područne (regionalne) samouprave nadležnim za poslove rudarstva; obavlja upravne poslove u drugom stupnju koji se odnose na istraživanje i eksploataciju tehničko-
+-građevinskoga kamena, građevnog pijeska i šljunka, te ciglarske gline; prati poslovanje rudarskih gospodarstvenih subjekata; prati i analizira gospodarske mjere od utjecaja na položaj rudarskih gospodarstvenih subjekata; utvrđuje strategiju gospodarenja mineralnim sirovinama; obavlja druge poslove iz svoga djelokruga.
+U Odjelu za rudarstvo ustrojavaju se:
+3.2.1. Odsjek upravnih poslova u rudarstvu
+3.2.2. Odsjek gospodarstvenih poslova u rudarstvu.
+3.2.1. Odsjek upravnih poslova u rudarstvu
