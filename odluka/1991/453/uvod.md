@@ -1,0 +1,1 @@
+Na temelju članka 197. stavka 1. Zakona o mirovinskom i invalidskom osiguranju ("Narodne novine", broj 26/83, 5/86, 42/87, 34/89 i 40/90) i članka 6. točke 7. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, na sjednici održanoj 19. ožujka 1991. godine donosi
