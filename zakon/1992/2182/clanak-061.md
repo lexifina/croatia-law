@@ -1,0 +1,6 @@
+# Članak 61.
+Vozač je dužan motorno vozilo, traktor ili priključno vozilo, osim motocikla bez bočne prikolice, koje je zaustavljeno na kolniku, obilježiti posebnim znakom kojim se označava zaustavljeno vozilo na kolniku (sigurnosni trokut), i to:
+1) kad je bio prisiljen svoje vozilo zaustaviti na mjestu ili dijelu ceste iz članka 57. ovoga Zakona.
+2) kad je vozilo zaustavljeno na kolniku na takvu mjestu ili u takvim vremenskim prilikama da ga vozači vozila koja nailaze istim smjerom ne mogu ili teško mogu pravovremeno uočiti;
+3) na autocesti i cesti namijenjenoj isključivo za promet motornih vozila.
+Znak iz stavka 1. ovoga članka postavlja se na kolnik iza zaustavljenog vozila, u okomitom položaju i na dovoljnoj udaljenosti koja na cesti izvan naselja ne može biti manja od 100 m, tako da vozači vozila koja nailaze iz smjera na kojem je znak postavljen mogu pravovremeno uočiti i po potrebi zaustaviti svoja vozila, odnosno sigurno obići zaustavljeno vozilo. Na isti način taj se znak postavlja i kad je na cesti zaustavljena kolona vozila, s tim što se umjesto jednoga na kolnik postavljaju dva znaka, jedan pokraj drugoga. Ako je u motorno vozilo ugrađen uređaj za istovremena uključivanjez svih pokazivača smjera, u slučaju iz stavka 1. ovoga članka, taj uređaj mora biti uključen.

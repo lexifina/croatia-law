@@ -1,0 +1,3 @@
+# Članak 22.
+Vozilo se kreće desnom stranom kolnika, odnosno biciklističkom stazom ili trakom uz desni rub kolnika ili ceste u smjeru kretanja a na traci ili stazi uređenoj i obilježenoj za dvosmjerni promet bicikala i mopeda - desnom stranom trake ili staze u smjeru kretanja.
+Vozač se dužan kretati obilježenom prometnom trakom koja se proteže uz desni rub kolnika a ako trake nisu obilježene, dužan je vozilo u kretanju držati što bliže desnom rubu kolnika i na tolikoj udaljenosti od njega da, s obzirom na brzinu kretanja vozila, uvjete prometa te na stanje i osobine ceste, ne ugrožava druge sudionike u prometu i ne izlaže sebe opasnosti.

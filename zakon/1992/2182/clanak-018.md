@@ -1,0 +1,3 @@
+# Članak 18.
+Vozač koji namjerava na cesti ili drugoj prometnoj površini obaviti neku radnju vozilom (uključiti se u promet, prestrojiti, odnosno mijenjati prometnu traku, pretjecati, obilaziti, zaustavljati se. skretati udesno ili ulijevo, okretati se polukružno, voziti unatrag i sl.) ne smije početi takvu radnju ako time dovodi u opasnost druge sudionike u prometu ili imovinu.
+Prije započinjanja radnji iz stavka 1. ovoga članka, vozač je dužan uvjeriti se da to može učiniti bez opasnosti za druge sudionike u prometu ili imovinu vodeći pritom računa o položaju vozila te o smjeru i brzini kretanja.

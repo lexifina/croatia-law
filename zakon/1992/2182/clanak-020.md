@@ -1,0 +1,4 @@
+# Članak 20.
+Vozač koji se vozilom uključuje u promet na cesti ili drugoj prometnoj pooršini (izlazak vozila iz garaže, dvorišta, parkirališta, stajališta, s površine na kojoj se ne obavlja promet vozila ili s drugih sličnih površina) dužan je propustiti sva vozila i pješake koji se kreću cestom, odnosno prometnom površinom na koju se uključuje.
+Iznimno, od stavka 1. ovoga članka, za vrijeme vožnje u naselju, vozač je dužan tramvaju ili autobusu javnoga gradskog prijevoza putnika ili posebno obilježenom autobusu kojim se organizirano prevoze djeca, ako je to moguće učiniti bez ugrožavanja ili znatnijeg ometanja prometa, omogućiti uključivanje u promet kad ta vozila izlaze sa stajališta koje se nalazi izvan kolnika, odnosno proširenja prometnog traka koji služi za stajalište.
+4. Kretanje vozila

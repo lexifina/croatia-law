@@ -1,0 +1,3 @@
+# Članak 35.
+Ako je uređaju za davanje znakova prometnim svjetlima za upravljanje prometom na raskrižju dodano jedno dopunsko prometno svjetlo ili više dopunskih prometnih svjetala u obliku zelene svjetleće strelice, za vrijeme dqk je takvo svjetlo upaljeno, vozač može vozilom proći prometnog svjetlo i krenuti u smjeru označenom zelenom svjetlećom strelicom i za vrijeme dok je upaljeno crveno ili žuto svjetlo, pri čemu mora propustiti vozila koja se kreću po cesti na koju ulazi i pješake koji prelaze preko kolnika.
+Ako zeleno svjetlo na uređaju za davanje znakova prometnim svjetlima ima oblik strelice, vozač se vozilom srcije kretati samo u smjeru koji pokazuje ta strelica.

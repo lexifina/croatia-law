@@ -1,0 +1,5 @@
+# Članak 23.
+Iznimno, od odredbe članka 22. stavka 2. ovoga Zakona:
+1) vozila koja se kreću sporije od tramvaja i drugih vozila koja se kreću cestom po tramvajskim tračnicama ugrađenim uz rub kolnika, moraju se kretati na takvoj udaljenosti od tramvajskih tračnica da ne ometaju kretanje tramvaja i drugih vozila koja se kreću dijelom kolnika s ugrađenina tračnicama;
+2) na cesti u naselju s kolnikom na kojem za promet vozila u istom smjeru postoje najmanje dvije obilježene prometne trake, vozač se može za kretanje svojeg vozila koristiti i prometnom trakom koja se ne nalazi uz desni rub kolnika ako time ne ometa ostala vozila koja se kreću iza njegova vozila.
+Odredba stavka 1. točke 2. ovoga članka ne odnosi se na vozača teretnog vozila čija je najveća dopuštena masa veća od 3.500 kg, vozača vozila koje na ravnoj cesti ne može razviti brzinu kretanja veću od 40 km na sat i na vozača vozila koje se ne smatra motornim vozilom, osim na dijelu ceste ispred raskrižja ili drugog mjesta na kojem vozilo skreće ulijevo.

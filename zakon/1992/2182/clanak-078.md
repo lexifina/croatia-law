@@ -1,0 +1,2 @@
+# Članak 78.
+Vozilo na motorni pogon čija duljina ne premašuje 8 m, a širina 2 m, i kojem nije pridodano priključno vozilo može imati, kad je zaustavljeno ili parkirano na ulici u naselju umjesto svjetala iz članka 75. stavka 1. točke 1. ovoga Zakona, upaljeno samo jedno svjetlo koje se s prednje strane vidi kao bijelo svjetlo, a sa stražnje strane kao crveno svjetlo, i koje je postavljeno na strani suprotnoj od ruba kolnika uz koji je vozilo zaustavljeno ili parkirano.
