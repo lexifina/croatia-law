@@ -1,0 +1,3 @@
+# Članak 45.
+Odjel granične veterinarske inspekcije obavlja poslove analize zdravstvenog stanja uvezenih životinja i zdravstvenog stanja uvezenih proizvoda životinjskog podrijetla; obavlja analizu rizika u svezi s međunarodnim prometom živih životinja i proizvoda životinjskog podrijetla, te otpadne animalne tvari; prati uvjete izdavanja svjedodžbi o zdravstvenom stanju u međunarodnom prometu i radi na pripremi adekvatnih certifikata; određuje veterinarsko-zdravstvene uvjete za uvoz, izvoz i provoz životinja i proizvoda životinjskog podrijetla, te u tom smislu priprema rješenja o nepostojanju veterinarsko-zdravstvenih smetnji.
+Za obavljanje poslova granične veterinarske inspekcije, osnivaju se granične stanice Zagreb, Goričan, Rijeka, Osijek i Split.

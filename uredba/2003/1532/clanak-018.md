@@ -1,0 +1,3 @@
+# Članak 18.
+2. Pododsjek za računovodstvene poslove
+Pododsjek za računovodstvene poslove priprema dokumentaciju za knjiženje i plaćanje po proračunskim pozicijama i postojećim računima unutar Ministarstva, obavlja odobrena plaćanja unutar zadužene proračunske pozicije, priprema i izrađuje periodične obračune, završne račune za sve račune unutar Ministarstva i konsolidirani račun za Ministarstvo, obračunava plaće i osobne naknade svih zaposlenika, organizira i vodi godišnji popis osnovnih sredstava i sitnog inventara, vodi knjigovodstvo osnovnih sredstava i sitnog inventara, te izvršava sve ostale računovodstvene poslove za koje se ukaže potreba, po nalogu tajnika neposredno, odnosno ministra.

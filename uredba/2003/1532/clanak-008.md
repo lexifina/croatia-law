@@ -1,0 +1,3 @@
+# Članak 8.
+1. Pododsjek za izradu propisa
+Pododsjek za izradu propisa obavlja poslove izrade nacrta prijedloga zakona, daje mišljenja na pravilnike, naredbe, naputke i druge akte iz djelokruga Ministarstva, objedinjuje primjedbe, prijedloge i mišljenja na nacrte prijedloga zakona drugih tijela državne uprave, daje mišljenja i objašnjenja u svezi s provedbom zakona, prati propise i predlaže izmjene u tim propisima; izrađuje nacrte prijedloga međunarodnih ugovora i koordinira postupak sklapanja i izvršavanja međunarodnih ugovora iz djelokruga Ministarstva, izrađuje nacrte prijedloga akata za pristupanje u članstvo međunarodnim tijelima i organizacijama; obavlja i druge poslove koje odredi tajnik neposredno ili ministar.

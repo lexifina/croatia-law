@@ -1,0 +1,3 @@
+# Članak 17.
+1. Pododsjek za financijske poslove
+Pododsjek za financijske poslove organizira, koordinira, provodi i prati izvršenje financijskih poslova, sukladno sa zakonskim propisima i brine o zakonitoj primjeni važećih materijalno-financijskih propisa; sudjeluje u izradi prijedloga potrebnih sredstava za redovit rad svih proračunskih korisnika unutar Ministarstva, služeći se metodom racionalnog i svrsishodnog korištenja proračunskih i ostalih sredstava koja se, sukladno sa zakonskim aktima, ostvaruju unutar Ministarstva: obavlja odobrena plaćanja unutar zadužene proračunske pozicije, te obavlja i druge poslove koje odredi tajnik neposredno, odnosno ministar.

@@ -1,0 +1,4 @@
+# Članak 9.
+2. Pododsjek za upravne i sudske postupke
+Pododsjek za upravne i sudske postupke obavlja poslove, koordinira upravni postupak i provodi upravni nadzor u upravnim stvarima iz djelokruga Ministarstva, ako ti poslovi zakonom, drugim propisom ili ovom Uredbom nisu stavljeni u djelokrug unutarnje ustrojstvene jedinice Ministarstva; prati i osigurava primjenu zakona i drugih propisa; ostvaruje suradnju s tijelima jedinica lokalne i područne (regionalne) samouprave, glede primjene zakona i drugih propisa iz djelokruga Ministarstva; daje očitovanja na pojedina pravna pitanja iz djelokruga rada Ministarstva; zastupa Ministarstvo u postupcima pred službenim sudovima, priprema odgovore i očitovanja na zahtjev Državnog odvjetništva u parnicama i postupcima ovrhe; obavlja i druge poslove koje odredi tajnik neposredno, odnosno ministar.
+b) Odjel kadrovskih, općih, tehničkih i pomoćnih poslova
