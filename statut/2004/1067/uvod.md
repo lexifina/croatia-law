@@ -1,0 +1,1 @@
+Na temelju članka 44. stavak 1. Zakona o stomatološkoj djelatnosti (»Narodne novine« br. 121/03), Skupština Hrvatske stomatološke komore (u daljnjem tekstu: Komora), uz suglasnost ministra nadležnog za zdravstvo na 2. izvanrednoj sjednici, održanoj dana 31. siječnja 2004. godine donosi
