@@ -1,0 +1,3 @@
+# Članak 5.
+Ustanovom upravlja Upravno vijeće.
+Upravno vijeće donosi program rada i razvoja ustanove i nadzire njihovo izvršavanje, odlučuje o financijskom planu u okviru raspoloživih sredstava osiguranih iz proračuna Republike Hrvatske za institucionalne i izvaninstitucionalne oblike socijalne skrbi, obavljanje djelatnosti koja služi obavljanju osnovne djelatnosti, donosi godišnji obračun, predlaže osnivaču promjene i proširenje djelatnosti, daje osnivaču i ravnatelju prijedloge i mišljenja o pojedinim pitanjima, donosi statut uz suglasnost osnivača, donosi druge opće akte ustanove, donosi odluke u drugom stupnju u svezi s pravima zaposlenika, raspravlja i odlučuje o izvješćima ravnatelja, obavlja i druge statutom propisane poslove.
