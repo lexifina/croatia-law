@@ -1,0 +1,1 @@
+Na temelju članka 5. stavak 2. Zakona o prikupljanju podataka po osiguranicima o obveznim doprinosima, porezu na dohodak i prirezu porezu na dohodak (»Narodne novine«, broj 114/01 i 153/02), Upravno vijeće Središnjeg registra osiguranika, na sjednici održanoj 9. srpnja 2004. godine, donijelo je
