@@ -1,0 +1,1 @@
+Na temelju članka 14. stavak 6. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 49/99, 63/00 i 103/03), Savjet Agencije za nadzor mirovinskih fondova i osiguranja, na sjednici održanoj 23. prosinca 2004., donio je
