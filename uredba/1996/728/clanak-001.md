@@ -1,0 +1,3 @@
+# Članak 1.
+Na poslove i pitanja koja su uređena međusobnim dogovorima ovlaštenih predstavnika Republike Hrvatske i tzv. SRJ sadržanim u zapisnicima sastavljenim u Zagrebu dana 11. ožujka 1996. godine, koji se odnose na obavljanje zračnog, željezničkog i cestovnog prometa, telekomunikacijskih veza i usluga te prometa naftovodom, ne primjenjuju se zabrane iz Zakona o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore), (u daljnjem tekstu: Zakon), ("Narodne novine", broj 109/93).
+Na koje poslove i pitanja se ne primjenjuju zabrane iz Zakona, određuje nadležno ministarstvo uz suglasnost Ministarstva vanjskih poslova.
