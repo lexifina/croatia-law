@@ -1,2 +1,3 @@
 # Članak 15.
-Skupština općine propisuje mjere za uređivanje i održavanje poljoprivrednih rudina, a osobito: uređivanje živica i među, održavanje poljskih puteva, uređivanje i održavanje kanala, sprečavanje zasjenjivanja susjednih čestica te sadnju i održavanje vjetrobranih pojasa.
+Županijska skupština odnosno gradska skupština propisuje potrebne agrotehničke mjere u slučajevima u kojima bi propuštanje tih mjera nanijeto štetu, onemogućilo ili smanjilo poljoprivrednu proizvodnju.
+Pod agrotehničkim mjerama iz stavka 1. ovoga članka smatraju se: sprečavanje erozije, sprečavanje zakorovljenosti, čišćenje kanala, zabrana odnosno obveza uzgoja pojedinih vrsta bilja na određenom području, suzbijanje biljnih botesti i štetnika, korištenje i uništavanje biljnih otpadaka i dr.
