@@ -1,0 +1,1 @@
+Na temelju članka 93. Zakona o proračunu (»Narodne novine«, broj 96/2003) i članka 35. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2003. godinu (»Narodne novine«, br. 154/2002 i 147/2003), Vlada Republike Hrvatske je na sjednici održanoj 10. listopada 2003. godine donijela

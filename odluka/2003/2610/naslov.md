@@ -1,0 +1,1 @@
+Odluka o davanju državnog jamstva za kreditno zaduženje Hrvatskih autocesta d.o.o. kod grupe banaka (Deutsche Bank AG, Singapore Branch, The Bank of Tokyo-Mitsubishi Ltd., Mizuho Corporate Bank Ltd.) uz osiguranje Nippon Export and Investment Insurance (NEXI)
