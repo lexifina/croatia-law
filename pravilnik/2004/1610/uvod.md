@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 2. točke 4. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99, 63/00) i članka 33. stavka 2. Zakona o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskom fondovima (»Narodne novine« br. 103/03), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 3. lipnja 2004., donio je
