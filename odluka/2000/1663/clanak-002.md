@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici uplaćivanja doprinosa za zdravstvenu zaštitu stranaca u Republici Hrvatskoj obvezni su doprinos propisan ovom Odlukom, a sukladno članku 40. Statuta Hrvatskog zavoda za zdravstveno osiguranje uplaćivati na račun 30100-843-.. -383 propisan Naredbom o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova, te prihoda za financiranje drugih javnih potreba (»Narodne novine« br. 146/99. i 62/00).

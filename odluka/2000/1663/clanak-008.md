@@ -1,0 +1,2 @@
+# Članak 8.
+Stranci koji se nalaze na specijalizaciji ili znanstvenom istraživanju u Republici Hrvatskoj, ako je ugovorom o stipendiji određeno da sami plaćaju doprinos za obvezno zdravstveno osiguranje (članak 5. stavka 1. Zakona) i stranci koji se nalaze na specijalizaciji ili znanstvenom istraživanju u Republici Hrvatskoj koji nisu stipendisti ( članak 5. stavka 2. ) sami plaćaju doprinos za obvezno zdravstveno osiguranje prema stopi od 16% na osnovicu od 3.399,90 kuna, ako nisu zdravstveno osigurani po drugoj osnovi.
