@@ -1,0 +1,2 @@
+# Članak 17.
+Vojni i civilni invalidi kod kojih, u svezi s utvrđenim invaliditetom, nastanu oštećenja organizma: kirurško odstranjivanje organa, kirurški zahvati na vitalnim organima, dekompenzacije srca, jetre, pluća, bubrega gušterače i paralize živaca, aktivna tuberkuloza, te gubitak ili teško oštećenje parnoga organa mogu, na osnovi tih oštećenja, podnijeti zahtjev za utvrđivanje novoga postotka oštećenja organizma i prije isteka roka iz članka 83. stavka 1. Zakona.

@@ -1,0 +1,4 @@
+# Članak 6.
+Ako je kod osoba, koje su bile bez jednoga parnoga organa, došlo do gubitka ili oštećenja najmanje 60% drugoga parnog organa pod okolnostima iz članaka 5., 6., 7. i 8. Zakona, postotak oštećenja organizma utvrđuje se kao da je oštećenje oba parna organa nastalo pod tim okolnostima, pri čemu se postotak može odrediti do 100% - I. grupa.
+Ako je jedan parni organ izgubljen ili teško oštećen pod okolnostima iz članaka 5., 6., 7. i 8. Zakona, a drugi parni organ, nakon toga i neovisno o posljedicama oštećenja organizma pod tim okolnostima, izgubljen ili oštećen najmanje 60%, postotak oštećenja organizma utvrđuje se za gubitak, odnosno oštećenje oba parna organa i umanjuje za 20. Ako se za ovako nastalo oštećenje organizma u Listi predviđa 100% - I. grupa, može se odrediti najviše 100% II. grupa.
+Oštećenje drugoga oka u smislu st.1. i 2. ovoga članka smatra se smanjenje funkcije oka za najmanje jednu polovicu (smanjenje vida najmanje 5/10).

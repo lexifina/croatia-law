@@ -1,0 +1,3 @@
+# Članak 4.
+Ako je oštećenje organizma nastalo kao posljedica više rana, povreda, ozljeda, ili bolesti, postoci predviđeni u Listi za pojedina oštećenja ne zbrajaju se, već se kao osnova uzima oštećenje koje povlači največi postotak, pa se taj postotak povećava prema utjecaju drugih oštećenja na cijeli organizam, ali najviše do 100% - II. grupa.
+Iznimno od odredbe stavka 1. ovoga članka, ako zbog svih oštećenja iz toga stavka postoji oštećenje organizma zbog kojega takva osoba nije pokretna i nije u stanju obavljati osnovne fiziološke potrebe bez pomoći druge osobe određuje se 100% - I. grupa.
