@@ -1,0 +1,7 @@
+# Članak 14.
+Djelatnoj vojnoj osobi, službeniku i namješteniku može se prekinuti, odnosno odgoditi korištenje godišnjeg odmora zbog izvanrednih potreba obrane ili naložiti da se u određenom vremenu ne udaljavaju iz svoga boravišta ako to zahtijeva neodgodivo obavljanje određenog posla obrane - dok traju takvi razlozi.
+Akt o prekidu, odnosno odgodi korištenja godišnjeg odmora iz stavka 1. ovog članka donosi osoba ovlaštena za donošenje rješenja o korištenju godišnjeg odmora iz članka 9. stavka 2. ovoga Pravilnika.
+Djelatnoj vojnoj osobi, službeniku i namješteniku kojima je odgođeno ili prekinuto korištenje godišnjeg odmora pripada pravo na naknadu stvarnih troškova koje su imali te im se mora omogućiti naknadno korištenje odnosno nastavak korištenja godišnjeg odmora. O zahtjevu za naknadu stvarnih troškova odlučuje osoba koja je donijela akt o prekidu ili odgodi korištenja godišnjeg odmora.
+Troškovima iz stavka 3. ovoga članka smatraju se putni i drugi troškovi.
+Putnim troškovima iz stavka 4. ovoga članka smatraju se stvarni troškovi prijevoza koje su djelatna vojna osoba, službenik i namještenik imali pri odlasku na godišnji odmor i povratku u mjesto zaposlenja te dnevnice za vrijeme provedeno na putu do mjesta zaposlenja prema propisima o naknadi troškova za službena putovanja.
+Drugim troškovima smatraju se ostali izdaci koji su nastali za djelatnu vojnu osobu, službenika i namještenika zbog odgode odnosno prekida godišnjeg odmora, što se dokazuje odgovarajućom dokumentacijom.
