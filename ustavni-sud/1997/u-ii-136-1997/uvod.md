@@ -1,0 +1,2 @@
+ZAVOD ZA PLATNI PROMET
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda te suci Zdravko Bartovčak, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, u povodu prijedloga Općinskog vijeća općine Gornji Kneginec i Općinskog odbora HDZ-a općine Gornji Kneginec, na sjednici održanoj dana 26. ožujka 1997. godine, donio
