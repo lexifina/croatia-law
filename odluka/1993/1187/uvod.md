@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o eksproprijaciji ("Narodne novine", broj 46/82, 28/87, 39/88 i 73/91), a povodom prijedloga Poduzeća za održavanje, zaštitu, rekonstrukciju i izgradnju cesta u Hrvatskoj "Hrvatske ceste", Vlada Republike Hrvatske je na sjednici održanoj 23. lipnja 1993. donijela
