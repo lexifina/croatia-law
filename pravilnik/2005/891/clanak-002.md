@@ -1,0 +1,2 @@
+# Članak 2.
+HRVI iz Domovinskog rata ostvaruje pravo na medicinsku, odnosno fizikalnu rehabilitaciju (u daljnjem tekstu medicinska rehabilitacija) ako mu je ta rehabilitacija prijeko potrebna u vezi s oštećenjem organizma koje je zadobio pod okolnostima iz članka 5. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (u daljnjem tekstu Zakon), na temelju kojeg mu je priznat status HRVI iz Domovinskog rata.
