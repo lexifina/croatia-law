@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s rengenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuća zračenja
