@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01 i 107/01) i članka 37. Statuta Grada Varaždina (»Službeni vjesnik Grada Varaždina« broj 7/01 i 5/02), Gradsko vijeće Grada Varaždina na 12. sjednici održanoj 14. studenoga 2002. godine, donosi
