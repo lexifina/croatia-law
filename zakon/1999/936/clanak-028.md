@@ -1,0 +1,2 @@
+# Članak 28.
+Ako je prije izdavanja odobrenja za rad mirovinsko društvo predložilo izmjenu dokumenata i informacija navedenih u članku 21. ovoga Zakona, potrebno je pribaviti odobrenje Agencije, osim ako je takva izmjena izvan kontrole mirovinskog društva i ako je ono uložilo razumne napore kako bi spriječilo tu izmjenu. Agencija će razmatrati takvu izmjenu u skladu s odredbama članka 22. ovoga Zakona.

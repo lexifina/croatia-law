@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Ako član jednog obveznog fonda ("bivši fond") pristupi drugom obveznom fondu ("novi fond"), obvezan je izvijestiti Središnji registar osiguranika da želi pristupiti novom fondu, te mu dostaviti primjerak prijave o članstvu u novom fondu.
+(2) U slučaju iz stavka 1. ovoga članka, bivši fond obračunat će i odbiti od ukupnog iznosa na osobnom računu člana fonda naknadu za izlaz u iznosu od 5% u prvoj godini članstva, 2,5% u drugoj godini članstva, 1,25% u trećoj godini članstva, 0,62% u četvrtoj godini članstva i 0,31% u petoj godini članstva.
+(3) Iznimno od stavka 2. ovoga članka u prvoj kalendarskoj godini od dana primjene ovoga Zakona svaki član obveznog fonda može jedanput prijeći u drugi obvezni fond bez naknade. Za svaki sljedeći prelazak primjenjuju se odredbe stavka 2. ovoga članka.

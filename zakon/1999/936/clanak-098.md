@@ -1,0 +1,2 @@
+# Članak 98.
+Ravnatelj predstavlja i zastupa Agenciju i odgovara za njezin rad te u sklopu prava i dužnosti utvrđenih ovim Zakonom organizira i osigurava zakonito i učinkovito obavljanje poslova iz djelokruga Agencije, predlaže upravnom odboru donošenje akata iz njegove nadležnosti i izvršava odluke upravnog odbora, te obavlja druge poslove koji su mu ovim Zakonom, statutom ili drugim aktom Agencije stavljeni u nadležnost.

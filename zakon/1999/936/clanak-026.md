@@ -1,0 +1,2 @@
+# Članak 26.
+Ako se zahtjev za autorizaciju odobri, osnivači mogu osnovati mirovinsko društvo prijavom za upis društva u sudski registar na temelju dokumenata utvrđenih u zahtjevu za autorizaciju i prema općem postupku utvrđenom u Zakonu o trgovačkim društvima. Prijava za upis u sudski registar mora se podnijeti najkasnije u roku od šest mjeseci od dana primitka obavijesti o autorizaciji, a nakon toga dana ta autorizacija prestaje važiti. Autorizacija za osnivanje mirovinskog društva ne jamči dobivanje odobrenja za rad.

@@ -1,0 +1,4 @@
+# Članak 58.
+(1) Svakom članu obveznog mirovinskog fonda jamči se prinos u visini jedne trećine referentnog prinosa, utvrđenog od strane Agencije, a najviše do visine eskontne stope Hrvatske narodne banke, ukoliko je referentni prinos pozitivan u razdoblju od jedne kalendarske godine.
+(2) Svakom članu obveznoga mirovinskog fonda jamči se prinos u visini trostrukoga referentnog prinosa utvrđenog od strane Agencije, ukoliko je referentni prinos negativan u razdoblju od jedne kalendarske godine.
+(3) Ukoliko je prinos obveznoga mirovinskog fonda, po izračunu prema članku 54. ovoga Zakona manji od zajamčenog prinosa prema stavku 1. i 2. ovoga članka, na osobne račune članova fonda uplatit će se razlika do zajamčenog prinosa iz jamstvenog pologa, a ako to nije dovoljno iz temeljnog kapitala mirovinskog društva do najviše 20% temeljnog kapitala društva godišnje, a preostali iznos iz državnog proračuna.

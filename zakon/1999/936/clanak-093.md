@@ -1,0 +1,5 @@
+# Članak 93.
+(1) Agencija može bez ograničenja pregledavati poslovne knjige i dokumentaciju mirovinskih društava i Središnjeg registra osiguranika, koji se odnose na njihovo poslovanje.
+(2) Ako Agencija ustanovi nepravilnosti u poslovanju ili vođenju poslovnih knjiga, donijet će rješenje kojim će naložiti da se utvrđene nepravilnosti isprave u primjerenom roku.
+(3) Mirovinsko društvo je obvezno u roku navedenom u rješenju iz stavka 2. ovoga članka ukloniti nepravilnosti i dostaviti izvješće Agenciji o uklanjanju nedostataka s priloženim dokazima da su nedostaci uklonjeni ili nepravilnosti ispravljene. Agencija može mirovinskom društvu oduzeti odobrenje za rad ako mirovinsko društvo u roku iz rješenja ne ukloni nedostatke i nepravilnosti.
+(4) Ako Agencija u provedbi nadzora utvrdi da u poslovanju mirovinskog društva i u upravljanju mirovinskim fondom postoje radnje ili djela koja su kažnjiva po zakonu, ravnatelj Agencije ili osoba koju on ovlasti podnijet će prijavu nadležnom državnom tijelu.

@@ -1,0 +1,2 @@
+# Članak 102.
+Agencija je obvezna do 30. lipnja za prethodnu godinu Vladi Republike Hrvatske i Hrvatskome državnom saboru podnijeti izvješće o mirovinskim tržištima u Republici Hrvatskoj s podacima o tržištu, ocjenu djelovanja zakonodavstva o mirovinskim fondovima, ocjenu poslovanja Agencije i sva druga pitanja koja se odnose na mirovinske fondove ili dobrovoljne mirovinske programe u Republici Hrvatskoj.
