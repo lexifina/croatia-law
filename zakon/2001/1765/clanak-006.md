@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 4. stavku 2., članku 7. stavku 3., članku 10. stavku 4., članku 14. stavku 2., članku 19. stavku 1., članku 20. stavku 1., članku 23. stavku 1., članku 24. stavku 1., članku 26., članku 27. stavku 1. točkama 5. i 9. Zakona, riječi: »ispostave Porezne uprave« u odgovarajućim padežima zamjenjuju se riječju: »carinarnica« u odgovarajućim padežima.
+U članku 14. stavcima 3., 4. i 5., članku 16. stavku 1., članku 18., članku 25. stavcima 1., 2. i 3., članku 27. stavku 1. točkama 2., 7. i 8. i stavku 3. Zakona, riječi: »Porezna uprava« u odgovarajućim padežima zamjenjuju se riječima: »Carinska uprava« u odgovarajućim padežima.
