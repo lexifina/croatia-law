@@ -1,0 +1,3 @@
+# Članak 9.
+Tijelo državne uprave nadležno za poslove nuklearne sigurnosti u postupku izdavanja lokacijske dozvole, građevne dozvole i dozvole za uklanjanje objekta u kojem se obavlja nuklearna djelatnost utvrđuje posebne uvjete nuklearne sigurnosti i zaštite.
+Građevna dozvola za gradnju objekta u kojem se obavlja nuklearna djelatnost, odnosno dozvola za uklanjanje tog objekta, ne može se izdati bez potvrde tijela državne uprave nadležnog za poslove nuklearne sigurnosti o usklađenosti glavnog projekta, odnosno idejnog projekta s posebnim uvjetima iz stavka 1. ovoga članka i s propisima iz članka 8. ovoga Zakona.
