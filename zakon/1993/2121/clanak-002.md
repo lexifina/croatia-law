@@ -1,0 +1,2 @@
+# Članak 2.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o znacima držtivne pripadnosti zrakoplova ("Narodne novine" br. 56/93.) i stavlja se izvan snage točka 25. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka odredenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", br. 100/93.). Članak 3. Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
