@@ -1,0 +1,8 @@
+Obrazloženje:
+Rješenjem navedenim u izreci, Općinski sud u Bjelovaru oglasio se nenadležnim za rješavanje tužbe Ivana Bandura iz Kapele, gilogorska br. 60 radi ocjene ustavnosti i zakonitosti Odluke Općine Kapela od 7. kolovoza 1993. godine, klasa 372-01/93-01/1 o preuzimanju športskih objekata u vlasništvu općine te predmet ustupio ovom Sudu na rješavanje, a sve to stoga što ocjena ustavnosli i zakonitosti spada u nadležnost ovog Suda.
+Ustavni sud Republike Hrvatske utvrdio je nezakonitost ustupanja navedene tužbe na rješavanje ovom Sudu te je poništio rješenje Općinskog suda u Bjelovaru, a zbog slijedećeg:
+Općinski sud u Bjelovaru rješenje o nenadležnosti donio je primjenom članka 21. stavak 1. Zakona o parničnom postupku ("Narodne novine", br. 53/91 i 91/92), koja se odnosi na ustupanje nadležnom sudu, ali kao tijelu sudbene vlasti.
+Ovakovo postupanje tog suda u suprotnosti je s ustavnim normama o položaju Ustavnog suda Republike Hrvatske u ustroju državne vlasti Republike Hrvatske (članak 4. Ustava) i nadležnosti ovog Suda (članak 125. Ustava).
+Kako Ustavni sud Republike Hrvatske nije tijelo sudbene vlasti, to je Općinski sud u Bjelovaru u konkretnom slučaju trebao postupiti prema članku 16. stavak 2. Zakona o parničnom postupku, prema kojem, kad sud u toku postupka utvrdi da za rješavanje spora nije nadležan sud nego kakvo drugo domaće tijelo, tada će se oglasiti nenadležnim, ukinuti provedene radnje u postupku i odbaciti tužbu.
+Slijedom izloženog, valjalo je navedeno rješenje poništiti te je stoga riješeno kao u izreci.
+Objava ovog rješenja temelji se na članku 20. stavak 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br 13/91).
