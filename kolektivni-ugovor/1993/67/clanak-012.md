@@ -1,0 +1,3 @@
+# Članak 12.
+Radnika kojem je smanjena zdravstvena i radna sposobnost poslodavac je dužan rasporediti na radno mjesto koje odgovara njegovoj zdravstvenoj odnosno preostaloj radnoj sposobnosti u roku od 15 dana od dana kada je rješenje nadležnog organa mirovinskog osiguranja postalo konačnim u upravnom postupku.
+Ako poslodavac ne rasporedi radnika u roku utvrđenom u stavku 1. ovog članka dužan je radniku nadoknaditi razliku između naknade plaće koju prima i plaće koju bi ostvario da je raspoređen na odgovarajuće radno mjesto i to od prvog dana isteka roka u kojem ga je bio dužan rasporediti pa do rasporeda radnika na odgovarajuće radno mjesto.

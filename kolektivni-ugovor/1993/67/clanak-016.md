@@ -1,0 +1,5 @@
+# Članak 16.
+Kao najnižu plaću ugovorne strane prihvaćaju iznos najniže osnovne plaće utvrđen i objavljen po potpisnicima Općeg kolektivnog ugovora za gospodarstvo važećeg u vrijeme zaključivanja ovog kolektivnog ugovora.
+U slučaju utvrđivanja novog iznosa najniže osnovne plaće po potpisnicima Općeg kolektivnog ugovora za gospodarstvo i na način utvrđen tim ugovorom, novoutvrđeni iznos smatra se utvrđenim i za primjenu ovog kolektivnog ugovora od dana od kojeg su potpisnici Općeg kolektivnog ugovora za gospodarstvo utvrdili i objavili da se primjenjuje novoutvrđeni iznos najniže osnovne plaće.
+U slučaju prestanka važnosti Općeg kolektivnog ugovora za gospodarstvo za vrijeme važenja ovog ugovora, ugovorne strane obvezuju se utvrditi i objavljivati iznos najniže osnovne plaće.
+Svaka ugovorna strana, ako smatra da prilike na tržištu građevinskih usluga to omogućuju, ima pravo predložiti da se najniža osnovna plaća za primjenu ovog kolektivnog ugovora utvrdi u većem iznosu od iznosa utvrđenog na način opisan stavkom 1. i 2. ovog članka. Takav se prijedlog smatra prijedlogom za pokretanje postupka za izmjenu i dopunu ovog kolektivnog ugovora.

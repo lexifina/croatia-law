@@ -1,0 +1,3 @@
+# Članak 33.
+Ako se plaća radnika za vrijeme rada u inozemstvu obračunava u hrvatskim dinarima, dio plaće koji se, u skladu s općim aktom, isplaćuje u konvertibilnoj valuti preračunava se iz dinarske protuvrijednosti u iznos konvertibilne valute po srednjem tečaju NB Hrvatske na zadnji dan u mjesecu za koji se vrši obračun.
+Dio plaće koji se radniku isplaćuje u lokalnoj valuti preračunava se iz dinarske protuvrijednosti u iznos USA dolara po srednjem tečaju NB Hrvatske na zadnji dan u mjesecu za koji se vrši obračun, a USA dolara preračunavaju se u lokalnu valutu po tečaju USA dolara u zemlji izvođenja investicijskih radova.

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim kolektivnim ugovorom (u daljnjem tekstu: ugovor) uređuju se prava i obveze radnika iz rada i na osnovi rada, kao i prava i obveze poslodavaca koja nisu cjelovito uređena Općim kolektivnim ugovorom za gospodarstvo ("Narodne novine", br. 47/92) ili se ta prava i obveze za radnika povoljnije uređuju, kao i prava i obveze koja proizlaze iz specifičnosti rada u djelatnostima građevinskog gospodarstva.
