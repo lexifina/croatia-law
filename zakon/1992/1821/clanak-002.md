@@ -1,0 +1,2 @@
+# Članak 2.
+Republika Hrvatska vlasnik je neimenovanog kapitala u svim dioničkim društvima za osiguranje i reosiguranje sa sjedištem na teritoriju Republike Hrvatske, nastalim usklađivanjem organizacije i poslovanja zajednica osiguranja imovine i osoba i zajednica reosiguranja po odredbama zakona iz članka 1. stavka 1. toćke 21. Zakona o preuzimanju zakona iz oblasti financija koji se u Republici Hrvatskoj primjenjuju kao republički zakoni ("Narodne novine", br. 53/91.).
