@@ -1,0 +1,4 @@
+# Članak 5.
+U vrijeme nastavnih dana u školi se s učenicima mogu izvoditi samo planirani oblici redovne nastave, praktične nastave i vježbi, dodatni, dopunski i produžni oblici nastave, sati razredne zajednice i programi školskih športskih klubova, pjevačkih zborova i drugih slobodnih aktivnosti koje se organiziraju i izvode izvan rasporeda nastavnih sati i sati razredne zajednice.
+U vrijeme nastave može se organizirati i program proslave dana škole i dana grada ako je škola odradila taj nastavni dan u skladu s godišnjim planom i programom rada škole.
+U vrijeme nastavne godine mogu se organizirati samo one ekskurzije čije su zadaće i sadržaji sastavni dio nastavnog plana i programa, i to jednodnevne po Hrvatskoj uz suglasnost roditelja i odobrenje ravnatelja, a višednevne uz suglasnost Uprave za školstvo Ministarstva prosvjete i športa.

@@ -1,0 +1,3 @@
+# Članak 6.
+Nastava i slobodne aktivnosti u vrijeme nastavnih dana organiziraju se na način da učeniku ostane dovoljno vremena za samostalno učenje i dnevni odmor, odnosno tako da učenik može imati tjedno razmjerno raspoređenih najviše 25 nastavnih sati u razrednoj nastavi osnovne škole, 30 nastavnih sati u predmetnoj nastavi osnovne škole i 32 nastavna sata u srednjoj školi.
+Iznimno, učenik srednje škole u kojoj se veći dio programa izvodi u obliku vježbi i praktične nastave može imati najviše 36 sati teoretske i praktične nastave tjedno, odnosno 40 sati u tjednu u kojem se izvodi samo praktična nastava.
