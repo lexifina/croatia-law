@@ -1,0 +1,1 @@
+Rev-2927/1995-2, Vrhovni sud Republike Hrvatske, 25.8.1999.
