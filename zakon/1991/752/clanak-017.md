@@ -1,0 +1,2 @@
+# Članak 17.
+Ako tijelo državne uprave nadležno za poslove rudarstva koje izdaje odobrenje za istraživanje mineralnih sirovina, na osnovi predloženog najmanjeg opsega i vrste istražnih radova, utvrdi da su predviđeni istražni radovi takvog značenja da se oni mogu izvoditi samo na osnovi rudarskog projekta, rješenjem kojim odobrava istraživanje odredit će da se za izvođenje istražnih radova izradi odgovarajući projekt odnosno tehnička dokumentacija i podnese na reviziju prema odredbama ovoga zakona.

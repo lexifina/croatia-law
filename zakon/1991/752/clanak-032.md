@@ -1,0 +1,4 @@
+# Članak 32.
+Ako je zahtjev za odobrenje eksploatacionog polja podnijelo trgovačko društvo odnosno obrtnik za prostor na kojem je prethodno obavio istraživanje, odobrenje će se izdati tom trgovačkom društvu, odnosno obrtniku ako ispunjavaju propisane uvjete za eksploataciju.
+Ako trgovačko društvo odnosno obrtnik iz stavka 1. ovoga članka ne ispunjavaju propisane uvjete za eksploataciju, trgovačko društvo odnosno obrtnik koji dobije odobrenje za eksploataciono polje dužan je trgovačkom društvu odnosno obrtniku koji je obavio istraživanje mineralnih sirovina nadoknaditi svrhovito uložena sredstva u istražne radove.
+Ako su zahtjev za odobrenje eksploatacionog polja podnijela dva ili više trgovačkih društava, odnosno obrtnika, koji nisu na tom prostoru obavljali istraživanje, odobrenje će se izdati onom koji osigurava najracionalniju eksploataciju mineralnih sirovina.

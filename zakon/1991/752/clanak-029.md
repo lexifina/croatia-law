@@ -1,0 +1,2 @@
+# Članak 29.
+Ministar gospodarstva donijet će uz pribavljeno mišljenje ministara nadležnih ministarstava bliže propise o sadržaju godišnjeg plana istraživanja o sadržaju zahtjeva za odobrenje istraživanja, postupku provođenja rasprave za dodjelu odobrenja za istraživanje, načinu određivanja veličine istražnog prostora, sadržaju odobrenja za istraživanje te sadržaju i rokovima podnošenja izvješća o istraživanju.

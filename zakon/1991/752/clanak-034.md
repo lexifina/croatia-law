@@ -1,0 +1,4 @@
+# Članak 34.
+Za građenje objekata na zemljištu u granicama eksploatacionog polja mora tijelo državne uprave koje izdaje građevinsku dozvolu pribaviti mišljenje trgovačkog društva, odnosno obrtnika koji obavlja eksploataciju mineralnih sirovina na tom eksploatacionom polju, o mogućnosti građenja objekata s obzirom na rudarske radove.
+Ako veći interes zahtijeva mogu se preko eksploatacionog polja, uz ostavljanje sigurnosnih stupova mineralne sirovine, izgrađivati javni putovi, željezničke pruge i druge prometnice, električni vodovi visokog napona i vodoprivredni objekti.
+Prije izrade investicionog programa za objekte iz stavka 2. ovoga članka investitor je dužan pribaviti mišljenje trgovačkog društva odnosno obrtnika koji obavlja eksploataciju o najprikladnijem pravcu i položaju tih objekata na eksploatacionom polju.

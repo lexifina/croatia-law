@@ -1,0 +1,4 @@
+# Članak 52.
+Kad trgovačko društvo i obrtnik potpuno ili trajno obustave eksploatacione radove dužni su na prostoru na kojem su obavljeni eksploatacioni radovi provesti sve mjere osiguranja kojima će se isključiti nastupanje opasnosti za ljude, imovinu i zemljište te o tome izvijestiti županijski ured ili ured Grada Zagreba nadležan za poslove rudarstva.
+Ako tijelo državne uprave iz stavka 1. ovoga članka, po pribavljenom mišljenju tijela državne uprave nadležnog za prostorno uređenje i zaštitu okolišta, utvrdi da su provedene mjere osiguranja nakon završetka eksploatacionih radova na mineralne sirovine iz članak 3. točke 1. do 6. ovoga zakona dovoljne, izdat će o tome potvrdu trgovačkom društvu, odnosno obrtniku i izvijestiti Ministarstvo gospodarstva.
+Nakon primitka izvješća iz stavka 2. ovoga članka, Ministarstvo gospodarstva izdat će rješenje o prestanku važenja odobrenja za eksploataciju i brisanju eksploatacionog polja iz katastra.

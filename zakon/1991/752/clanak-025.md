@@ -1,0 +1,4 @@
+# Članak 25.
+Nakon završetka ili trajnog obustavljanja istražnih radova, trgovačko društvo i obrtnik dužni su na mjestima na kojima su izvođeni istražni radovi provesti sve mjere osiguranja kojima se isključuje mogućnost natupanja opasnosti za ljude i imovinu kao i čovjekov okoliš i o tome izvijestiti županijski ured ili ured Grada Zagreba nadležan za poslove rudarstva.
+Ako tijelo državne uprave iz stavka 1. ovoga članka utvrdi da su provedene mjere osiguranja nakon završetka istražnih radova na mineralne sirovine iz članka 3. točke 1. do 6. ovoga zakona dovoljne, izdat će o tome potvrdu trgovačkom društvu, odnosno obrtniku i izvijestiti Ministarstvo gospodarstva.
+Nakon primitka izvješća iz stavka 2. ovoga članka, Ministarstvo gospodarstva izdat će rješenje o prestanku važenja odobrenja za istraživanje i brisanju istražnog prostora iz katastra.

@@ -1,3 +1,3 @@
 # Članak 4.
 Odredbe ovoga zakona odnose se na istraživanje i eksploataciju mineralnih sirovina koje se nalaze u zemlji ili na njenoj površini, na riječnom, jezerskom ili morskom dnu ili ispod njega u unutarnjim morskim vodama ili teritorijalnom moru u granicama Republike Hrvatske ili u podmorju Jadranskog mora izvan državnog područja do granica sa susjedima.
-Iznimno od odredbe stavka 1. ovoga članka eksploatacija tehničkog građevnog kamena, građevnog pijeska i šljunka iz mora i s obala mora, iz korita i s obala vodotoka, jezera, umjetnih objekata za skupljanje voda i sa zemljišta unutar inundacijskog područja provodi se po propisima o vodama.
+Iznimno od odredbe stavka 1. ovoga članka eksploatacija obnovljivih ležišta građevnog pijeska i šljunka iz korita i s obala vodotoka, jezera, umjetnih objekata za skupljanje vode, uređenog i neuređenog inundacijskog područja, iz ušća rijeka, koje se ulijevaju u more i kanala spojenih s morem provodi se po propisima o vodama.

@@ -1,0 +1,2 @@
+# Članak 84.
+Radnici, koji obavljaju poslove i zadatke nadzora ili rukovođenja u trgovačkim društvima koja se bave istraživanjem ili eksploatacijom mineralnih sirovina iz članka 3. točke 7. ovoga zakona, a ne ispunjavaju uvjete iz članka 66. ovoga zakona, mogu i nadalje obavljati poslove i zadatke na kojima su se zatekli na dan 1. lipnja 1993. godine, ako su imali najmanje 10 godina radnog iskustva na tim poslovima i zadacima.
