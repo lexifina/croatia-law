@@ -1,0 +1,1 @@
+Na temelju lanka 23. stavka 4. Zakona o Vladi Republike Hrvatske ("Narodne novine",broj 41/90, 8/91, 14/91, 53A/91, 9/92 i 55/92) i članka 204. stavka 1. u vezi s člankom 195 stavkom 3 Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 41/90, 47/90 i 53A/91), Vlada Republike Hrvatske je na sjednici održanoj 1. lipnja 1993 godine donijela
