@@ -1,0 +1,1 @@
+Temeljem članka 10. stavak 1. točka 2, članka 27. i 67. stavak 1. točka 6. Zakona o Narodnoj banci Hrvatske ("Narodne novine" br. 74/92), Savjet Narodne banke Hrvatske, na sjednici održanoj 30. kolovoza 1993. godine donio je
