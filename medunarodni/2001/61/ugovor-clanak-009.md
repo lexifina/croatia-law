@@ -1,0 +1,2 @@
+# Članak 9.
+Ugovorna stranka koja preuzme održavanje i uređenje ratnih grobova u kojima se nalaze i posmrtni ostaci ratnih žrtava trećih država ili druge ugovorne stranke rješavat će slučajeve eventualne ekshumacije i premještaja posmrtnih ostataka tih ratnih žrtava, kao i slučajeve koji se tiču upravljanja i održavanja ratnih grobova, zajedno s izravno zainteresiranom trećom državom ili zajedno s drugom ugovornom strankom.
