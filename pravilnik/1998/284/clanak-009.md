@@ -1,0 +1,4 @@
+# Članak 9.
+Uz listu predmeta kućanstva povratnika s rada odnosno boravka u inozemstvu (članak 3.), koja sadrži i rabljene predmete koji se uvoze po osnovi povlastice za necarinsku robu, te listu predmeta hrvatskih useljenika (članak 6.) i hrvatskih izbjeglica povratnika (članak 7.) koji se uvoze ili unose kao necarinska roba, ovlaštenoj carinarnici podnose se na uvid i računi ili druge vjerodostojne isprave o nabavci ili posjedovanju odgovarajućega predmeta najmanje godinu dana prije doseljenja u Hrvatsku.
+Ne raspolaže li korisnik povlastice s ispravama iz stavka 1. ovoga članka, ovlašteni carinski službenik će prilikom pregleda stvari koje se uvoze ili unose utvrditi da li se radi o predmetima koji udovoljavaju uvjetima iz stavka 1. ovoga članka.
+Za motorna vozila i druge predmete, koji prema posebnim propisima, podliježu obvezatnoj registraciji, duljina razdoblja iz stavka 1. ovoga članka utvrđuje se uvidom u odgovarajuće strane vlasničke ili prometne isprave.
