@@ -1,0 +1,2 @@
+# Članak 6.
+Ako pravna osoba za isplate koristi gotov novac kojeg je primila uplatama drugih osoba na blagajni, obvezatna je slijedeći dan napraviti obračun s ovlaštenom organizaciiom kod koje vodi račun za redovito poslovanje ili račun za pravne osobe. Iznimno, pravna osoba koja temeljem propisa orgnizira igre na sreću, provodi obračun s ovlaštenom organizacijom 10. i 25. u mjesecu. Odredbe stavka 1. ovog članka ne odnose se na obavljanje bankarsko-depozitnih poslova sa stanovništvom.

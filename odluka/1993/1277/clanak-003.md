@@ -1,0 +1,2 @@
+# Članak 3.
+Sukladno odredbi članka 6. stavak 2. Zakona o platnom prometu u zemlji, pravna osoba smije plaćati gotovim novcem drugoj pravnoj osobi samo za nabavu proizvoda i usluga do protuvrijednosti 100 DEM obračunate prema posljednjem objavljenom srednjem tečaju Narodne banke Hrvatske, a iznimno i za potrebe opskrbe novca ovlaštenih mjenjača ukoliko postoji opasnost za njihovo snabdijevanje ako bi se doznačivalo novac na njihov račun kod ovlaštene organizacije i za plaćanje temeljem posebne odluke guvernera Narodne banke Hrvatske.
