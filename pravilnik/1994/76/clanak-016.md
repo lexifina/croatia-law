@@ -1,0 +1,5 @@
+## VI. OSTVARIVANJE PREMIJE ZA PROIZVODNJU GROŽĐA NA OTOCIMA I POLUOTOKU PELJEŠCU
+# Članak 16.
+Uz zahtjev za isplatu premije za grožde nadležni županijski ured prilaže:
+1. obračun premije (u četiri primjerka) u kojem su naznačeni vlasnici odnosno korisnici vinograda, površine vinograda po vlasniku odnosno korisniku, iznos premije po vlasniku odnosno korisniku, ukupan pregled površina i iznos premije po katastarskoj općini, te sveukupan pregled površina pod vinogradima na općini i ukupan iznos sredstava za premije za proizvodnu godinu;
+2. izjavu nadležnog županijskog ureda da su vlasnici odnosno posjednici vinograda upisani u Registar proizvodača grožda i da uzgajaju sorte grožda dopuštene Pravilnikom o rajonizaciji vinogradarskih područja, proizvodnji i prometu grožđa i proizvoda od grožđa i vina te označavanju i zaštiti geografskog porijekla, imena i oznake vina ("Narodne novine", br. 34/78); 3. nalog za naplatu, obrazac 43 - Zavoda, bez upisivanja datuma izvršenja naloga; Zahtjev za isplatu premije iz stavka 1: ovog članka podnosi se u razdoblju: lipanj - studeni tekuće godine.

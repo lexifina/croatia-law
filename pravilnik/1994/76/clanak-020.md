@@ -1,0 +1,3 @@
+## VIII. ZAJEDNIČKE ODREDBE
+# Članak 20.
+Jedinica Zavoda kod koje korisnik premije ima otvoren žiro-račun provjerava da li je zahtjev za isplatu premije podnijet u skladu s odredbama Uredbe i ovoga pravilnika te nakon toga jedan ovjereni primjerak obračuna premije vraća korisniku premije, drugi s ostalom dokumentacijom zadržava za svoje potrebe, a treči zajedno s nalogom za isplatu dostavlja u roku tri dana Zavodu, Poslovnica 2. 7agreb, Smičiklasova 17. koja ga nakon svake izvršene isplate odmah dostavlja Ministarstvu poljoprivrede i šumarstva. Četvrti primjerak obračuna jedinica Zavoda obvezna je u roku od tri dana od dana podnesenog zahtjeva dostaviti Ministarstvu poljoprivrede i šumarstva, Zagreb, Avenija Vukovar 78.

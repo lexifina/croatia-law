@@ -1,0 +1,1 @@
+Na temelju članka 10. Uredbe o premijama za određene proizvode u poljoprivredi i regresu za kvalitetno poljoprivredno sjeme i mineralna gnojiva ("Narodne novine", br. 116/93), ministar poljoprivrede i šumarstva donosi
