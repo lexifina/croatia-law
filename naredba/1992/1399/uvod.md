@@ -1,0 +1,1 @@
+Na temelju članha 91. Zakona o upravi ("Narodne novine" br. 16/78, 50/78, 29/85, 48/85, 41/90, 47/90 i 53A/91) radi izvršenja Zakona o mjenici ("Služberu list FNRJ"; br: 104/46, "Službeni list SFRJ", br.12/85, 50/71 i 52/73 i "Narodne novine", br. 53/91) i članka 20. i 22. Uredbe o administrativnim taksama ("Narodne novine", br. 40/92), ministar financija donosi
