@@ -1,0 +1,11 @@
+# Rev-536/1996-2, Vrhovni sud Republike Hrvatske, 5.10.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=256c64c4-cced-49a0-a043-a8f4e0d6ef42
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-10-05
+- Publication date on source: 2008-12-06
+- ECLI: ECLI:HR:VSRH:1999:1348
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
