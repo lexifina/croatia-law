@@ -1,0 +1,2 @@
+# Članak 54.
+Ako nazivna količina punjenja proizvoda koji se stavlja u promet kao pakovina ne prelazi 100 g ili 100 ml, deklaracija mora sadržavati samo naziv proizvoda, tvrtku odnosno naziv i adresu proizvođača odnosno onog koji je proizvod uvezao ili stavio u promet, nazivnu količinu punjenja, rok upotrebe prema članku 53. stavak 2. točka 6. ovog pravilnika, vrstu i naziv ili vrstu i E broj konzervansa ako je upotrijebljen.

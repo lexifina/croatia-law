@@ -1,0 +1,2 @@
+# Članak 15.
+Hladno prešana jestiva ulja iz članka 13. stavak 2. ovog pravilnika pri stavljanju u promet osim temeljnim zahtjevima iz članka 14. ovog pravilnika moraju udovoljavati i drugim temeljnim zahtjevima iz Tablice 1. Prilog 1., a ostala hladno prešana jestiva ulja iz članka 13. stavak 2. točka 5. ovog pravilnika i vrijednostima zahtjeva za identifikaciju navedenim u preporukama Codex Alimentarius Commission WHO/FAO.
