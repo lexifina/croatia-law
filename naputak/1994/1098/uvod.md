@@ -1,0 +1,1 @@
+Na osnovi članka 75. Zakona o Narodnoj banci Hrvatske ("Narodne novine", broj 74/92. 26/93. i 79/93.) i točke 7. Odluke o uvjetima primjene odredbi članka 18. Zakona o bankama i štedionicama ("Narodne novine", broj 107/93 i 15/94.) donosim
