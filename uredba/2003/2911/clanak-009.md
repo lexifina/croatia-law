@@ -1,0 +1,2 @@
+# Članak 9.
+Nakon datuma godišnjice isporuke broda u 2015. godini zabranjuje se plovidba svim tankerima za prijevoz ulja kategorije 2 i 3, s jednostrukom oplatom koji plove pod hrvatskom zastavom, te uplovljenje takvih tankera neovisno o zastavi koju viju u luke u Republici Hrvatskoj, te pristajanje uz nepomične odobalne objekte nad kojima Republika Hrvatska ima ovlasti voditi upravni i/ili inspekcijski nadzor.

@@ -1,0 +1,2 @@
+# Članak 8.
+Tankerima s jednostrukom oplatom starijim od 15 godina, neovisno o zastavi koju viju, neće biti dopušteno uplovljenje ili isplovljenje u ili iz luka u Republici Hrvatskoj ili pristajanje uz nepomične odobalne objekte nad kojima Republika Hrvatska ima ovlasti voditi upravni i/ili inspekcijski nadzor, nakon godišnjice datuma njihove isporuke u 2005. godini za brodove kategorije 2 i 3, osim ako ne udovoljavanju CAS-u.
