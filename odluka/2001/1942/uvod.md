@@ -1,0 +1,1 @@
+Na osnovi članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/99 i 59/01), te članka 8. Statuta Općine Fažana (»Službene novine Istarske županije«, br. 8/01), Općinsko vijeće Općine Fažana na sjednici održanoj dana 17. prosinca 2001. donosi
