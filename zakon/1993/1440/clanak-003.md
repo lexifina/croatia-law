@@ -1,0 +1,2 @@
+# Članak 3.
+Iza članka 1. dodaje se članak 1a. koji glasi: "Članak 1a. Poduzećaiz članka 1. za koja nije obavljena pretvorba prema odredbama Zakona, dužnasu do 31. prosinca 1993. godine, nadležnom privrednom sudu podnijeti zahtjevza upis dioničkog društva u sudski registar s osnivačkom glavnicom premaknjigovodstvenoj vrijednosti po zaključnom računu za godinu 1992. i svedionice prenijeti Hrvatskom fondu za privatizaciju prema Zakonu o pretvorbidruštvenih poduzeća."

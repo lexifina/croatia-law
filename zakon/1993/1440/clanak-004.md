@@ -1,0 +1,2 @@
+# Članak 4.
+Iza članka 6. dodaje se članak 6a. koji glasi: "Članak 6a. U slučajukad nije obavljena pretvorba dijela društvenog kapitala koja prema odredbičlanka 2. i 3. Zakona podliježe pretvorbi prema Zakonu i pretvorbi društvenihpoduzeća, a u roku iz članka 6. Zakona, pretvorba tog dijela društvenogkapitala može se obaviti do 30. rujna 1993. a nakon tog roka odluku o pretvorbidonosi Hrvatski fond za privatizaciju."
