@@ -1,0 +1,4 @@
+# Članak 3.
+U Kabinetu ministra obavljaju se administrativni, protokolarni, koordinacijski, korespondencijski poslovi, poslovi u svezi s obavješćivanjem javnosti i odnosima sa sredstvima javnog priopćavanja, poslovi vezani uz Hrvatski sabor, Vladu i tijela državne uprave, te pravne osobe koje imaju javne ovlasti iz djelokruga Ministarstva, poslovi u vezi s evidencijom i pohranom povjerljive pošte, te drugi stručni i administrativni poslovi u vezi s ostvarivanjem programa rada i djelovanja ministra i njegova zamjenika, poslovi u vezi s praćenjem rada Vlade Republike Hrvatske i Hrvatskog sabora, te koordiniranjem suradnje Ministarstva s državnim tijelima Republike Hrvatske.
+Uz Kabinet ministra ustrojava se radno mjesto unutarnjeg nadzora za posebne službene potrebe.
+2. TajniŠtvo Ministarstva

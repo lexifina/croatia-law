@@ -1,0 +1,3 @@
+# Članak 27.
+Odjel vodi stalna i povremena istraživanja Ministarstva prosvjete i športa i istraživanja u suradnji s domaćim i međunarodnim institucijama, vrši eksperimentalnu provjeru i valorizaciju nastavnih programa i udžbenika, obavlja poslove općeg razvoja i usavršavanja ravnatelja i stručnih suradnika, kao i poslove stručnog usavršavanja, uvida i nadzora nastavnih programa i udžbenika koji su vezani uz istraživanje, projekte te eksperimentalnu provjeru i valorizaciju, surađuje sa školama i županijskim uredima u vezi sa svojom nadležnosti, obavještava, priprema stručna mišljenja i rješava predmete iz svog djelokruga rada.
+7.2. Odjel za opće i posebne programe

@@ -1,0 +1,4 @@
+# Članak 10.
+Odjel za predškolski odgoj i osnovno školstvo prati stanje u predškolskom odgoju i osnovnom školstvu, u redovitom školovanju, osnovnom školovanju djece s teškoćama u razvoju i izobrazbi odraslih, brine se o izvršavanju zakona i drugih propisa u ovim područjima, izrađuje stručne podloge za nacrte prijedloga zakona i drugih propisa u sklopu svoga djelokruga, izrađuje stručna mišljenja u vezi s osnivanjem i početkom rada vrtića i škola i s izvođenjem njihovih programa, prati rad i djelovanje županijskih ureda i tijela jedinica lokalne i područne (regionalne) samouprave nadležnih za predškolski odgoj i osnovno školstvo, vodi propisane očevidnike, te obavlja poslove dodjele nagrada.
+Odjel rješava u neupravnom postupku, obavlja stručne poslove u postupku rješavanja o žalbama iz djelokruga odjela, izrađuje prijedloge rješenja i obavlja druge poslove iz svog djelokruga.
+3.2. Odjel za opće programe i srednje školstvo

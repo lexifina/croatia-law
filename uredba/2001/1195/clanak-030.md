@@ -1,0 +1,3 @@
+# Članak 30.
+Odjel obavlja poslove vezane uz utvrđivanje nastavnih planova i programa, uz udžbenike i nastavnu opremu, praćenje i polaganje stručnih ispita, rješavanje pojedinačnih zahtjeva za napredovanje, obavlja poslove stručnog usavršavanja, uvida i nadzora u strukovnim školama i učeničkim domovima, te vodi poslove vezane uz nastavne planove i programe, stručno usavršavanje, te nadzor u području obrazovanja odraslih, surađuje sa školama i županijskim uredima u vezi sa svojim djelokrugom, obavještava, priprema stručna mišljenja i rješava neupravne predmete iz svog djelokruga rada.
+8. Odjel za Šport i tehniČku kulturu

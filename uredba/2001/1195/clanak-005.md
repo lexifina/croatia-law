@@ -1,0 +1,8 @@
+# Članak 5.
+Odjel za kadrovske, opće i tehničke poslove obavlja poslove u vezi sa zapošljavanjem službenika i namještenika, vodi osobne očevidnike za dužnosnike, službenike i namještenike Ministarstva, priprema rješenja o prijemu, postavljenju u zvanja, imenovanju na položaje i ostalom u vezi s pravima i obvezama službenika i namještenika Ministarstva, prijemom nastavnika za rad u hrvatskim dopunskim školama u inozemstvu, zaključivanjem ugovora u vezi s nabavom i održavanjem sredstava i opreme te zakupom poslovnog prostora, sudjeluje u donošenju i realizaciji plana i stručnog usavršavanja, vodi brigu o održavanju i opremanju Ministarstva, izrađuje očitovanja u sudskim sporovima iz djelokruga Odjela, obavlja poslove pisarnice, obavlja poslove oko civilnih i obrambenih priprema i tehničke poslove oko plana pripravnosti i popratnih akata.
+Odjel obavlja poslove informatizacije Ministarstva, te obavlja pomoćne i tehničke poslove, brine se o održavanju voznog parka Ministarstva, kao i o održavanju zgrade Ministarstva, brine se o urednom i pravilnom korištenju imovine i sredstava za rad.
+Odjel obavlja administrativne i stručne poslove za potrebe tajnika Ministarstva iz domene personalnih i općih poslova, te izrađuje prijedloge godišnjeg plana rada Ministarstva i ujedinjavanje izvješća o radu unutarnjih ustrojstvenih jedinica Ministarstva, poslove prikupljanja, obrade i distribucije podataka iz djelokruga Ministarstva, poslove lekture i prijevoda, te koordinira poslove u vezi s informatizacijom Ministarstva.
+U Odjelu se ustrojavaju
+2.1.1. Odsjek za kadrovske i opće poslove
+2.1.2. Odsjek za informatizaciju i tehničke poslove.
+2.1.1. Odsjek za kadrovske i opće poslove
