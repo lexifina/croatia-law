@@ -1,0 +1,5 @@
+# Članak 1.
+Carinska pristojba koja se plaća sukladno članku 7. Zakona o carinskoj tarifi (»Narodne novine«, br. 61/2000) plaća se za svaku prihvaćenu carinsku deklaraciju u iznosu od 10,00 kuna.
+Deklaracijom u smislu ovog Pravilnika smatra se pisana carinska deklaracija, deklaracija podnesena elektronskom razmjenom podataka knjigovodstveni zapis, nepotpuna carinska deklaracija, trgovačka isprava koja se smatra deklaracijom kao i obračun davanja pri uvozu u putničkom prometu.
+Pristojba se obračunava prihvaćanjem carinske deklaracije za određeni carinski postupak, odnosno prihvaćenjem dopunske deklaracije. Kod prihvaćanja dopunske deklaracije pristojba se plaća onoliko puta za koliko se pojedinačnih deklaracija iz stavka 2. ovog članka dopunska deklaracija podnosi. Carinska pristojba obračunata po deklaraciji ne uplaćuje se sa carinskim dugom, već po posebnom obračunu na način kako je to propisano člankom 3. ovog Pravilnika.
+Carinska pristojba je pristojba koja ne ulazi u osnovicu poreza na dodanu vrijednost.
