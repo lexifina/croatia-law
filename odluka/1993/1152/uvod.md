@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o eksproprijaciji ("Narodne novine", broj 46/82 - pročišćeni tekst, 28/87, 39/88 i 73/91). a povodom prijedloga Hrvatske pošte i telekomunikacija, Direkcije telekomunikacija. Telekomunikacijskoga magistralnoge centra Hrvatske, Vlada Republike Hrvatske je na sjednici održanoj 15. lipnjs 1993. donijela
