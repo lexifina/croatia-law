@@ -1,0 +1,7 @@
+# Članak 2.
+Ministarstvo prostornog uređenja, graditeljstva i stanovanja (u daljnjem tekstu: Ministarstvo) izdat će podnositelju zahtjeva suglasnost iz članka 1. ovog pravilnika ako ispunjava uvjete - i to:
+1. za obavljanje stručnih poslova u svezi s izradom dokumenata prostornog uređenja i stručnih podloga za izdavanje lokacijskih dozvola:
+- ako ima ili dokaže da će stalno zapošlsti najmanje tri djelatnika u punom radnom vremenu, i to dva djelatnika -diplomirana inženjera arhitekture i jedan djelatnik
+- diplomirani stručnjak drugih tehničkih znanosti (graditeljske, geodezijske, geografske, ekološke i slične znanosti) s položenim stručnim ispitom ili društvenih znanosti (ekonomske, sociološke i slične znanosti) te
+- ako dva zaposlena djelatnika imaju radno iskustvo od najmanje tri godine na obavljanju stručnih poslova prostornog uređenja;
+2. za obavljanje stručnih poslova u svezi s izradom stručnih podloga za izdavanje lokacijskih dozvola: - za građevine visokogradnje ako ima ili dokaže da će stalno zaposliti najmanje jednog djelatnika u punom radnom vremenu i to diplomiranog inženjera arhitekture s položenim stručnim ispitom i radnim iskustvom od najmanje tri godine na obavljanju stručnih poslova prostornog uređenja, dok za ostale građevine ako ima ili će stalno zaposliti još jednog diplomiranog stručnjaka odgovarajuće tehničke znanosti s položenim stručnim ispitom. Osnivač pravne osobe koja obavlja stručne poslove prema točki 1. odnosno točki 2. ovog članka, ubraja se u broj zaposlenih djelatnika ako ispunjava propisane uvjete.
