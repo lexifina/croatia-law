@@ -1,0 +1,3 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Ovim se Zakonom uređuje proizvodnja, promet, prerada grožđa za vino (osim prerade u sok od grožđa i koncentrirani sok od grožđa), proizvodnja i promet vina i drugih proizvoda od grožđa i vina, destilacija, označavanje, zaštita zemljopisnog podrijetla, proizvodnja i promet voćnih vina i drugih proizvoda na bazi voćnih vina, zadaće Hrvatskog zavoda za vinogradarstvo i vinarstvo (u daljnjem tekstu: Zavod), izrada i vođenje vinogradarskog katastra te druga pitanja važna za provođenje jedinstvenog sustava proizvodnje i prometa grožđa za vino, mošta, vina i drugih proizvoda od grožđa i vina, voćnih vina i drugih proizvoda koji sadrže vino ili voćno vino.
