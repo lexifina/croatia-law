@@ -1,0 +1,2 @@
+# Članak 2.
+Na ime nagrade za obavljanje redovnih poslova Izbranog sudišta predsjedniku odnosno nadležnom potpredsjedniku i tajniku Izbranog sudišta pripada po 20 posto svote uplaćene na ime administrativnih troškova u svakom pojedinom postupku koji se vodi pred Izbranim sudištem. Nagrade predsjedniku i tajniku Izbranog sudišta isplaćuju se istovremeno s isplatom predujms na ime nagrade arbitrima.

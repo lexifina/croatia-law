@@ -1,0 +1,3 @@
+## o naknadi troškova i nagradi arbitrima i drugim osobama u postupku s međunarodnim elementom pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori
+# Članak 1.
+Predsjednik, članovi predsjedništva i tajnik Stalnog izbranog sudišta pri Hrvatskoj gospodarskoj komori (u daljnjem tekstu: Izbrano sudište) imaju pravo na naknadu troškovs u vezi s obavljanjem poslova Izbranog sudišta izvan pojedinih arbitražnih postupaka. Naknadu troškova iz stavka 1. ovoga članka određuje predsjednik Izbranog sudišta prema kriterijima koji vrijede za naknadu troškova arbitrima i drugim sudionicima u postupku pred Izbranim sudištem.

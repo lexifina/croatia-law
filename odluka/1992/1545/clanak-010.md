@@ -1,0 +1,2 @@
+# Članak 10.
+Radi zadovoljavanja administrativnih potreba Izbranog sudišta (npr. nabavka uredskog i tehničkog pribora, tiskanje materijala i slićno), tajnik Izbranog sudišta može koristiti do 50 posto sredstava uplaćenih na ime administrativnih troškova. Tajnik Izbranog sudišta dužan je o korištenju i namjeni sredstava iz članka 1. ovoga stavka redovito izvješćivati predsjednika i predsjedništvo Izbranog sudišta.
