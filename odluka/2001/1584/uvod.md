@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 28. Statuta Grada Splita (»Službeni glasnik Grada Splita«, broj 11/93, 6/95, 9/97, 13/99, 7/01 i 9/01), Gradsko vijeće Grada Splita na 4. sjednici, održanoj 12. listopada 2001. godine, donosi
