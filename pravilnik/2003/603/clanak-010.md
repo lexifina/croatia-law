@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Iznimno od odredbi ovog Pravilnika a radi omogućavanja osnivanja i rada mirovinskih osiguravajućih društava, Agencija može izdati privremeno ovlaštenje aktuaru u mirovinskom osiguravajućem društvu i prije pohađanja posebne stručne izobrazbe i polaganja ispita za obavljanje poslova aktuara u mirovinskom osiguravajućem društvu osobama koje udovoljavaju uvjetima iz članaka 2. st.1. ovog Pravilnika. Sadržaj i oblik privremenog ovlaštenja otisnut je na obrascu br. 6.
+(2) Privremeno ovlaštenje izdaje se na osobni zahtjev podnositelja (obrazac br. 5).
+(3) Privremeno ovlaštenje izdano od strane Agencije vrijedi 2 (dvije) godine od dana stupanja na snagu ovog Pravilnika.
+(4) Nositelju privremenog ovlaštenja koji u roku iz prethodnog stavka ne udovolji uvjetima iz čl. 4., 5. i 6. ovog Pravilnika, prestaje ovlaštenje aktuara u mirovinskom osiguravajućem društvu.
+(5) Iznos visine naknade u visini od 1.500,00 kn (tisuću petsto kuna) za izdavanje privremenog ovlaštenja utvrđen je Odlukom Savjeta Agencije, kl. 035-01/02-01/31, urbr. 383-02-01-1, od 5. ožujka 2002 god., a odobreno Odlukom Vlade Republike Hrvatske, kl. 023-03/02-02/19, urbr. 5030104-0-2, od 4. travnja 2002. godine.
