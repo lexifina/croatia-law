@@ -1,0 +1,2 @@
+# Članak 29.
+Ugovorni diplomati su službenici koji ispunjavaju uvjete za obavljanje stručnih poslova u službi inozemnih poslova iz članka 27. ovoga zakona, a zasnivaju radni odnos s Ministarstvom inozemnih poslova na određeno vrijeme za obavljanje stručnih poslova u diplomatskoj ili u konzularnoj službi koje u pravilu ne može biti dulje od 4 godine. Iznimno, to se vrijeme može produžiti za najviše još 1 godinu ukoliko za to postoje osobito opravdani razlozi, o čemu odluku donosi Vlada Republike Hrvatske.
