@@ -1,0 +1,1 @@
+Na temelju članka 144. Zakona o visokim učilištima ("Narodne novine" br. 59/96 - pročišćeni tekst) i članka 6. Pravilnika o mjerilima za korištenje prihoda proračunskih korisnika ostvarenih na tržištu od obavljanja osnovne i ostale djelatnosti ("Narodne novine" br. 146/98), donosim
