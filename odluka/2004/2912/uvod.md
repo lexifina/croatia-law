@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2004. godinu (»Narodne novine«, br. 31/2004 i 104/2004), Vlada Republike Hrvatske je na sjednici održanoj 25. studenoga 2004. godine donijela
