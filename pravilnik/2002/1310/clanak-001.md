@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu prijenosa računa člana obveznog mirovinskog fonda (»Narodne novine« br. 115/01) u članku 2. iza stavka (5) dodaje se novi stavak (6) koji glasi: »(6) Prijava iz stavka 1. ovoga članka koja je podnesena subotom, nedjeljom, na dan državnog praznika ili neki drugi dan kad se ne utvrđuje vrijednost obračunske jedinice, smatra se prijavom podnijetom slijedećeg radnog dana.«
