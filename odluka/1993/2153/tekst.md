@@ -1,0 +1,3 @@
+o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava kada je osigurana osoba upućena u drugo mjesto radi ocjene radne sposobnosti
+1. U Odluci o naknadi putnih troškova u svezi s ostvarivanjem prava kada je osigurana osoba upućena u drugo mjesto radi ocjene radne sposobnosti ("Narodne novine", broj 35/93) u točki 5. stavak 1. mijenja se i glasi: "Naknada za troškove prehrane i smještaja za vrijeme putovanja i boravka u drugom mjestu pripada u punoj ili smanjenoj svoti, ovisno o trajanju putovanja i izbivanja i iznosi 70 % od dnevnice za službeno putovanje u zemlji za korisnike koji se financiraju iz sredstava državnog proračuna."
+2. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama".
