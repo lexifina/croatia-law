@@ -1,0 +1,9 @@
+# Članak 11.
+U Upravi za gospodarenje i financiranje obavljaju se upravni i stručni poslovi u vezi sa: izradom prijedloga financijskog plana, praćenjem ostvarivanja donesenog financijskog plana, predlaganjem proračuna za financiranje kulturnih djelatnosti i kulturnih potreba, zaštite prirode i javnog informiranja, izradom proračuna Ministarstva, suradnjom na izradi i praćenju propisa koji se odnose na financijske i računovodstvene poslove, financiranjem javnih potreba u kulturi (financiranje javnih ustanova u kulturi čiji je osnivač Republika Hrvatska, kao i financiranje pojedinih programa odobrenih temeljem natječaja, odnosno javnog poziva), predlaganjem kriterija i modela financiranja kulture u Republici Hrvatskoj, financiranjem zaštite prirode, pribavljanjem izvješća i nadzorom nad namjenskim trošenjem sredstava, sastavljanjem financijskih izvješća (kvartalnih i godišnjih), vođenjem knjigovodstvenih evidencija i analitike, ostvarivanjem investicijskih programa koji se financiraju iz državnog proračuna kao i iz drugih izvora, obavljanjem računovodstvenih poslova Ministarstva, te obavljaju i druge poslove po nalogu i naputku ministra i čelnika Uprave.
+U Upravi se ustrojavaju:
+9.1. Odjel za planiranje i investicije
+U Odjelu za planiranje i investicije se planira i prati izvršenje programa investicija, surađuje na izradi državnog proračuna i ostalih pratećih financijsko-planskih dokumenata, te obavljaju i ostali poslovi po nalogu i naputku čelnika Odjela, odnosno Uprave.
+9.2. Odjel za financiranje i računovodstvo
+U Odjelu za financiranje i računovodstvo obavljaju se poslovi u vezi s financiranjem programa, ustanova i stručnih udruga iz djelokruga Ministarstva vođenjem knjigovodstvenih evidencija i analitike, obračuna plaća sukladno propisima u području računovodstva, obavljaju i drugi poslovi po nalogu i naputku čelnika Odjela, odnosno Uprave.
+10. Uprava za normativne i upravno-
+-pravne poslove
