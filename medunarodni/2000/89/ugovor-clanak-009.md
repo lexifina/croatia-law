@@ -1,0 +1,5 @@
+# Članak 9.
+PUTUJUĆE OSOBLJE ZAPOSLENO KOD MEĐUNARODNOG PRIJEVOZNIKA
+1. Osoba koja je zaposlena na području jedne i druge ugovorne stranke u svojstvu putujućeg osoblja kod međunarodnog prijevoznika, koji za tuđi ili svoj račun prevozi zrakom ili morem putnike ili robu i koji ima svoje sjedište na području jedne ugovorne stranke podliježe, što se tiče te djelatnosti, samo zakonodavstvu ugovorne stranke na čijem je području sjedište poduzeća.
+2. Međutim, ako je osoba zaposlena u podružnici ili stalnom predstavništvu koje poduzeće ima na području ugovorne stranke u kojoj nema sjedište ona, što se tiče te djelatnosti, podliježe samo zakonodavstvu ugovorne stranke na području na kojem se nalazi ta podružnica ili to stalno predstavništvo.
+3. Neovisno o stavku 1. i 2. ako osoba pretežno radi na području ugovorne stranke gdje ona prebiva, što se tiče te djelatnosti, podliježe samo zakonodavstvu te ugovorne stranke, iako prijevoznik koji je zapošljava nema na tom području ni svoje sjedište, ni podružnicu, a niti stalno predstavništvo.
