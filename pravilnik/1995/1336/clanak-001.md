@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuje postupak obvezatnog atestiranja plinskih uređaja na koje se odnosi norma HRN J.G3.020- "Plinski aparati za velike kuhinje" te plinskih uređaja na koje se odnosi norma HRN M.E6.303 - "Plinski aparati za kampiranje - Tehnički uvjeti" (u daljnjem tekstu: "plinski uređaji"), kao i uvjeti kojima moraju udovoljavati pravne osobe ovlaštene za atestiranje plinskih uređaja (u daljnjem tekstu: "ovlaštene pravne osobe").

@@ -1,0 +1,1 @@
+Na temelju članka 40., članka 48. i članka 80. Zakona o standardizaciji ("Narodne novine" br. 53/91, 26/93 i 44/95) i članka 17. Zakona o sustavu državne uprave ("Narodne novine" br. 75/93) ravnatelj Državnog zavoda za normizaciju i mjeriteljstvo donosi
