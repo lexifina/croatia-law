@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 1. točke 3. i članka 67. stavka 1. točke 8. Zakona o Narodnoj banci Hrvatske ("Narodne novine",broj 74/92.),Savjet Narodne banke Hrvatske na svojoj sjednici održanoj dana 26. svibnja 1993. godine donio je
