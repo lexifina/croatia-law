@@ -1,0 +1,2 @@
+# Članak 13.
+Ukoliko prijevoznik jedne ugovorne stranke prekrši bilo koju odredbu ovog Sporazuma kada se nalazi na teritoriju druge ugovorne stranke, tada će nadležni organ ugovorne stranke na čijem je teritoriju izvršen prekršaj obavijestiti drugu ugovornu stranku o dotičnom prekršaju, što ga ne sprečava da primijeni bilo koju zakonsku sankciju primjenjivu na svom teritoriju, a tako obviještena ugovorna stranka će poduzeti sve potrebne mjere u skladu sa svojim propisima. Nadležni organi ugovornih stranaka dužni su se međusobno izvještavati o provedenim sankcijama.
