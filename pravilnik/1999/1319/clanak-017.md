@@ -1,0 +1,5 @@
+# Članak 17.
+1. Postupak izvanrednog preispitivanja vodi se u pravilu bez održavanja glavne rasprave, na temelju podnesaka stranaka i raspoloživih isprava. Iznimno, na zahtjev podnositelja VŠA može u posebno opravdanim slučajevima odrediti da se u postupku održi ročište radi saslušanja stranaka ili svjedoka.
+2. VŠA može od podnositelja zahtjeva i športske udruge tijekom postupka zatražiti dodatna pojašnjenja, te ih pozvati da podnesu isprave ili poduzme drugu radnju u postupku. VŠA može također po službenoj dužnosti preko HOO zatražiti da se pribave isprave i drugi dokumenti potrebni za dokazivanje spornih činjenica.
+3. Za poduzimanje radnji iz stavka 2. ovoga članka VŠA neće određivati rokove duže od 15 dana. Ti se rokovi mogu produžiti samo ako za to postoje posebno opravdani razlozi.
+4. Ako podnositelj zahtjeva ili športska udruga u određenom roku ne poduzmu radnju na koju su bili pozvani, postupak će se nastaviti, a odluka donijeti na temelju raspoloživih dokaza i drugog procesnog materijala.
