@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o zdravstvenom osiguranju (»Narodne novine« br. 94/01, 88/02 i 149/02) na prijedlog Hrvatske liječničke komore i Hrvatske stomatološke komore, po prethodno pribavljenom mišljenju stručnih društava Hrvatskog liječničkog zbora ministar zdravstva donosi
