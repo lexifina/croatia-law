@@ -1,0 +1,1 @@
+Na temelju članka 11., a u svezi sa člancima 12. do 17. Zakona o sanaciji i restrukturiranju banaka ("Narodne novine", broj 44/94), Vlada Republike Hrvatske je na sjednici održanoj 12. veljače 1998. godine, donijela
