@@ -1,9 +1,5 @@
+## VII. REKTORSKI ZBOR
 # Članak 126.
-Rektorski zbor:
-- propisuje sadržaj dopunskih isprava o studiju;
-- propisuje uvjete za ocjenu nastavne i stručne djelatnosti u postupku izbora u znanstveno-nastavna i nastavna zvanja;
-- propisuje postupak prijave, izradbe i obrane habilitacijskog rada;
-- ovlašćuje visoka učilišta za izbore i davanje mišljenja u odgovarjućem stvenih studija, uz prethodno pribavljeno mišljenje Nacionalnog vijeća za visoku naobrazbu;
-- daje suglasnost na nastvne programe visokih škola;
-- obavlja ostale poslove utvrđene poslovnikom o radu Rektorskog zbora.
-O pitanjima iz svog djelokruga, Rektorski zbor donosi odluke konsenzusom, a kada se konsenzus ne postigne, odluke će donijeti na način utvrđen poslovnikom.
+(1) O pitanjima od zajedničkog značaja za djelovanje i razvoj, visoka učilišta se dogovaraju i odlučuju putem Rektorskog zbora.
+(2) Članovi Rektorskog zbora su rektori sveučilišta i veleučilišta.
+(3) Za obavljanje poslova iz svoga djelokruga Rektorski zbor osniva stručna povjerenstva.

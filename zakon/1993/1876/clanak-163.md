@@ -1,5 +1,6 @@
 # Članak 163.
-Znanstvenici izabrani u znanstvenoistraživačko zvanje po odredbama Zakona o znanstvenoistraživačkoj djelatnosti ("Narodne novine", br.14/86) zadržavaju zvanje do donošenja ustrojstva radnih mjesta visokog učilišta po članku 180. ovoga Zakona.
-Protekom roka iz stavka 1. ovoga članka provest će se postupak ponovnog izbora znanstvenika u skladu s odredbama posebnog zakona.
-Znanstvenici iz stavka 1. ovoga članka koji ne ispune uvjete za izbor u isto ili više zvanje po odredbama posebnog zakona, mogu biti izabrani i u niže zvanje.
-Znanstvenici ponovno izabrani u znanstveno zvanje znanstvenog savjetnika prema odredbama posebnog zakona stječu to zvanje kao trajno.
+(1) Postupci izbora nastavnika u znanstvenonastavna i nastavna zvanja koji su započeti prije stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.), okončat će se prema postupku i u rokovima utvrđenim ranije donesenim propisima.
+(2) Svi nastavnici izabrani prema ranije donesenim propisima podliježu ponovnom izboru prema odredbama ovoga Zakona, ali ne prije isteka roka na koji su izabrani po odredbama ranije donesenih propisa, odnosno prije isteka roka za ocjenjivanje nastavnika po odredbama ranije donesenih propisa.
+(3) Nastavnici u znanstveno-nastavnom zvanju docenta, izvanrednog profesora ili redovitog profesora, birani u to zvanje u skladu s odredbama Zakona o usmjerenom obrazovanju ("Narodne novine", br. 11/91. - pročišćeni tekst) koji u ponovnom izboru ne ispune uvjete za izbor u isto ili više zvanje zadržavaju to zvanje pet godina od dana stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.).
+(4) S nastavnicima iz stavka 3. ovoga članka koji ne ispune uvjete za izbor u isto ili više zvanje po odredbama ovoga Zakona, može se bez raspisa natječaja sklopiti ugovor o radu na određeno vrijeme, najdulje do 3. studenoga 1998.
+(5) Nastavnici u znanstveno-nastavnom zvanju redovitog profesora koji su ponovno izabrani u znanstveno-nastavno zvanje redovitog profesora prema odredbama ovoga Zakona, stječu to zvanje kao trajno.

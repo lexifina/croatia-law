@@ -1,2 +1,2 @@
 # Članak 160.
-Sva sveučilišta, fakulteti, umjetničke akademije, dužni su u roku od tri mjeseca od donošenja Odluke iz članka 158. ovoga Zakona utvrditi ustrojstvo radnih mjesta.
+Upravna vijeća sveučilišta donijet će potrebne odluke u skladu s odlukom o programu preobrazbe javnih visokih učilišta iz članka 159. ovoga Zakona, najdulje u roku tri mjeseca od njezina donošenja.

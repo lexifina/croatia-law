@@ -1,0 +1,3 @@
+# Članak 180.
+(1) Studenti koji su započeli studij na Visokoj policijskoj školi u sastavu Policijske akademije Ministarstva unutarnjih poslova prije početka školske godine 1996/97. imaju pravo završiti studij na javnoj Visokoj policijskoj školi po programima i uvjetima koji su bili na snazi kad su upisali prvu godinu studija.
+(2) Diplome i potvrdnice stečene na Visokoj policijskoj školi u sastavu Policijske akademije Ministarstva unutarnjih poslova, do dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o visokim učilištima ("Narodne novine", br. 29/96.) izjednačuju se s diplomama i potvrdnicama iz članka 54. stavka 1. ovoga Zakona.

@@ -1,11 +1,10 @@
 # Članak 131.
-Nacionalno vijeće daje mišljenje, prijedloge i preporuke visokim učilištima i Ministarstvu, te ostalim državnim tijelima u svrhu osiguranja kakvoće i uspješnog djelovanja sustava visokog školstva.
-Nacionalno vijeće osobito:
-- predlaže osnove ukupne politike u području visokog školstva;
-- vrednuje stanje u visokom školstvu na temeju ocjene kakvoće visokih učilišta i nastavnih programa studija, sa stajališta međunarodne usporedivosti i hrvatskog narodnog interesa;
-- prosuđuje potrebu i daje poticaj za uvođenje novih ili ukidanje postojećih programa, studija i visokih učilišta;
-- daje mišljenje i suglasnost o potrebi osnutka visokih učilišta;
-- daje mišljenje o ispunjenju osnovnih standarda vrsnoće za ustrojstvo i izvedbu studija;
-- daje prethodno mišljenje Rektorskom zboru o izvedbi i ustrojstvu poslijediplomskih znanstvenih studija;
-- predlaže donošenje ili promjene propisa u području visokog školstva;
-- obavlja i druge poslove utvrđene ovim zakonom i poslovnikom.
+(1) Predsjednik i članovi Nacionalnog vijeća imenuju se na vrijeme od četiri godine.
+(2) Predsjednik i član Nacionalnog vijeća razriješit će se dužnosti prije isteka vremena na koje je imenovan ako:
+sam zatraži razrješenje,
+- obnaša poslove koji su prema poslovniku iz članka 133. stavka 3. ovoga Zakona nespojivi sa članstvom u Nacionalnom vijeću,
+ne ispunjava dužnosti predsjednika, odnosno člana,
+svojim ponašanjem povrijedi ugled dužnosti koju obnaša,
+izgubi sposobnost obavljanja dužnosti.
+(3) Postojanje razloga za razrješenje predsjednika i člana prije isteka mandata utvrđuje Nacionalno vijeće i o tome izvješćuje Sabor Republike Hrvatske.
+(4) Predsjednika i članove Nacionalnog vijeća razrješuje Sabor Republike Hrvatske.

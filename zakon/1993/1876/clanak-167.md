@@ -1,4 +1,5 @@
 # Članak 167.
-Sveučilišta i visoka učilišta u njihovu sastavu mogu upisati studente prve godine studija za stjecanje stručne spreme VI/1 stupnja samo u školskoj godini 1994/95.
-Sveučilišta i visoka učilišta u njihovu sastavu mogu izvoditi nastavu na studijima iz stavka 1. ovoga članka najduže pet godina od dana stupanja na snagu ovoga Zakona.
-Sveučilišta i visoka učilišta u njihovu sastavu koja izvode studije iz stavka 1. ovoga članka mogu ugovorom s veleučilištem, veleučilišnom školom, te s visokoni školom prenijeti daljnji nastavak tih studija na veleučilište, veleučilišnu školu ili na visoku školu.
+(1) Osobe koje su na dan stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.) zatečene u zvanju asistenta, a bile su birane u to zvanje u skladu s odredbama članka 110. stavka 1. i 2. Zakona o usmjerenom obrazovanju ("Narodne novine", br. 11/91. pročišćeni tekst) zadržavaju to zvanje tri godine od stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.).
+(2) Do isteka roka iz stavka 1. ovoga članka asistenti su dužni steći uvjete za izbor u zvanje višeg asistenta po odredbama ovoga Zakona.
+(3) Osobe koje su na dan stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.) zatečene u zvanju asistenta, a bile su birane u to zvanje u skladu s odredbama članka 110. stavka 4. Zakona o usmjerenom obrazovanju ("Narodne novine", br. 11/91. pročišćeni tekst) zadržavaju to zvanje tri godine od stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.).
+(4) Do isteka roka iz stavka 3. ovoga članka mlađi asistenti su dužni steći uvjete za izbor u zvanje asistenta po odredbama ovoga Zakona.

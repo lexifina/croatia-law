@@ -1,5 +1,4 @@
 # Članak 162.
-Postupci izbora nastavnika u znanstveno-nastavna i nastavna zvanja koji su zapoćeti prije stupanja na snagu ovoga Zakona okončat će se prema postupku i u rokovima utvrđenim ranije donesenim propisima.
-Svi nastavnici izabrani prema ranije donesenim propisima podliježu ponovnom izboru prema odredbama ovoga Zakona, ali ne prije isteka roka na koji su izabrani po odredbama ranije donesenih propisa, odnosno prije isteka roka za ocjenjivanje nastavnika po odredbama ranije donesenih popisa.
-Nastavnici koji u ponovnom izboru ne ispune uvjete za izbor u isto ili više zvanje mogu biti izabrani i u niže zvanje.
-Nastavnici ponovno izabrani u znanstveno-nastavno zvanje redovnog profesora prema odredbama ovoga Zakona, stječu to zvanje kao trajno.
+(1) Ministarstvo će imenovati Vijeće za novčanu potporu visokog školstva iz članka 141. ovoga Zakona najdulje u roku od tri mjeseca od dana stupanja na snagu Zakona o visokim učilištima ("Narodne novine" br. 96/93.).
+(2) Do 28. veljače 1994. primjenjivat će se mjerila i pravila za novčano praćenje rada visokih učilišta utvrđena ranije donesenim propisima.
+(3) Na prijedlog Vijeća za novčanu potporu visokog školstva Ministarstvo će predložiti privremena mjerila i pravila za novčano praćenje rada visokih učilišta u 1994. godini te predložiti proračun za 1995. godinu na način utvrđen ovim Zakonom.

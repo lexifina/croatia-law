@@ -1,2 +1,2 @@
 # Članak 172.
-Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o usmjerenom obrazovanju ("Narodne novine", br. 20/82., 28/83., 12/85;.19/86, 31/89., 57/89., 47/90., 11/91- pročišćeni tekst, 19/92., 27/93).
+Do donošenja posebnog zakona o stručnim nazivima i akademskim stupnjevima, osobe koje su završile medicinski i stomatološki fakultet nakon stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.) stječu stručni naziv doktor medicine, odnosno doktor stomatologije.

@@ -1,5 +1,6 @@
+## 3. UPRAVA VELEUČILIŠTEM
 # Članak 120.
-Veleučilišnom školom upravlja, njen je čelnik i voditelj dekan. Za dekana može biti izabran nastavnih veleučilišne škole u nastavnom zvanju profesora visoke škole.
-O stručnim pitanjima ne veleučilišnoj školi odlučuje stručno vijeće veleučilišne škole.
-Na upravu veleučilišne škole na odgovarajući se način primjenjuju odredbe ovoga Zakona o upravi fakultetom, ako odlukom o osnutku ili statutom veleučilišta nije drugačije određeno.
-4. Uprava visokom školom
+(1) Čelnik i voditelj veleučilišta je rektor. Za rektora može biti izabran nastavnik veleučilišta u nastavnom zvanju profesora visoke škole, nastavnik u zvanju redovitog profesora ili izvanrednog profesora.
+(2) Veleučilištem upravlja upravno vijeće, koje na vrijeme od četiri godine imenuje osnivatelj, na način i u skladu s aktom o osnivanju i statutom.
+(3) O stručnim pitanjima na veleučilištu odlučuje stručno vijeće veleučilišta.
+(4) Na upravu veleučilišta na odgovarajući se način primjenjuju odredbe ovoga Zakona o upravljanju sveučilištem, ako odlukom o osnutku i statutom veleučilišta nije drukčije određeno.

@@ -1,5 +1,5 @@
 # Članak 164.
-Do osnutka veleučilišta članovi Rektorskog zbora su rektori javnih sveučilišta.
-Do donošenja akta iž članka 99. stavak 1. ovoga Zakon, o uvjetima za ocjenu nastavne i stručne aktivnosti u postupku izbora u znanstveno-nastavna i nastavna zvanja u svakom pojedinom slučaju, mišljenje daje Rektorski zbor.
-Ako je mišljenje Rektorskog zbora negativno, predloženik ne može biti izabran u znanstveno-nastavno ili nastavno zvanje.
-Ako Rektorski zbor u roku od šest mjeseci od stupanja na snagu ovoga Zakona ne donese akt o uvjetima za ocjenu nastavne i stručne aktivnosti u postupku izbora u znanstveno-nastavna i nastavna zvanja iz članka 99. stavak 1. ovoga Zakona, taj će akt u daljnjem roku od tri mjeseca donijeti Ministar.
+(1) Znanstvenici izabrani u znanstveno-istraživačko zvanje po odredbama Zakona o znanstvenoistraživačkoj djelatnosti ("Narodne novine", br. 14/86., 40/90. i 9/91.) koji u ponovnom izboru ne ispune uvjete za izbor u isto ili više zvanje zadržavaju to zvanje pet godina od stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.).
+(2) Do isteka roka iz stavka 1. ovoga članka znanstvenici su dužni steći uvjete za izbor u više ili isto zvanje po odredbama ovoga Zakona.
+(3) Protekom roka iz stavka 1. ovoga članka provest će se postupak ponovnog izbora znanstvenika u skladu s odredbama posebnog zakona.
+(4) Znanstvenici ponovno izabrani u znanstveno zvanje znanstvenog savjetnika prema odredbama posebnog zakona stječu to zvanje kao trajno.

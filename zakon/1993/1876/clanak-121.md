@@ -1,4 +1,4 @@
 # Članak 121.
-Visokom školom upravlja, njen je čelnik i voditelj dekan. Za dekana može biti izabran nastavnik visoke škole u nastavnom zvanju profesora visoke škole.
-O stručnim pitanjima na visokoj školi odlučuje stručno vijeće visoke škole, a suglasnost na nastavne programe visoke škole daje Rektorski zbor.
-Na upravu visoke škole na odgovarajući se način primjenjuju odredbe ovoga zakona o upravljanju fakultetom, ako odlukom o osnutku i statutom visoke škole nije drugačije određeno.
+(1) Veleučilišnom školom upravlja, njen je čelnik i voditelj dekan. Za dekana može biti izabran nastavnik veleučilišne škole u nastavnom zvanju profesora visoke škole.
+(2) O stručnim pitanjima na veleučilišnoj školi odlučuje stručno vijeće veleučilišne škole.
+(3) Na upravu veleučilišne škole na odgovarajući se način primjenjuju odredbe ovoga Zakona o upravi fakultetom, ako odlukom o osnutku ili statutom veleučilišta nije drukčije određeno.

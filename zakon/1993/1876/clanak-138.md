@@ -1,9 +1,8 @@
+## IX. NOVČANA PODLOGA ZA RAD VISOKIH UČILIŠTA
 # Članak 138.
-Republika Hrvatska u proračunu osigurava novčanu podlogu za rad javnih visokih učilišta.
-Sredstvima iz stavka 1. ovoga članka osigurava se:
-- plaća i naknade djelatnika te materijalni troškovi visokih učilišta,
-- najnužnija razina znanstvenoga, umjetničkog i stručnog rada na visokom učilištu,
-- rad službe čijom se djelatnošću osigurava cjelovitost i potrebni standard sustava visoke naobrazbe,
-- radni i životni standard djelatnika i studenata,
-- stipendije i zajmovi za studente, te novčana pripomoć školarinama,
-- razvoj i ulaganja.
+Visoka učilišta stječu sredstva za obavljanje svoje djelatnosti:
+iz sredstava koja se u proračunu Republike Hrvatske osiguravaju za visoko školstvo
+i znanstveni rad,
+od zaklada, fondova i darovnica,
+od školarina i stipendija,
+iz drugih izvora ako su u skladu s djelatnošću visokog učilišta.

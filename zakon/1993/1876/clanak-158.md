@@ -1,4 +1,3 @@
 # Članak 158.
-Sabor Republike Hrvatske imenovat će Nacionalno vijeće iz stavka 127. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
-Naoionalno vijeće dužno je u roku jedne godine od dana imenovanja na način utvrđen ovim Zakonom provesti postupak vrednovanja postojećih visokih učilišta i predložiti Saboru Republike Hrvatske donošenje Odluke o programu preobrazbe javnih visokih učilišta.
-Odlukom iz stavka 2. ovoga članka Sabor Republike Hrvatske odredit će visoka učilišta u sastavu sveučilišta koja će se novčano podupirati kao javna visoka učilišta u smislu ovoga Zakona i predložiti ukidanje visokih učilišta koja ne ispunjavaju uvjete za nastavak rada.
+(1) Do imenovanja tijela upravljanja i voditelja ustanova i drugih pravnih osoba iz članka 152. stavka 4. ovoga Zakona, poslove ravnatelja i tijela upravljanja nastavit će obavljati osoba koja obnaša poslovodnu dužnost u ustanovama ili drugim pravnim osobama na dan stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.).
+(2) Upravno vijeće sveučilišta u čijem se sastavu nalazi ustanova ili druga pravna osoba, može osobu iz stavka 1. ovoga članka razriješiti i na njenu dužnost izabrati drugu osobu sve dok se ne izaberu, odnosno imenuju nova tijela u skladu sa zakonom.

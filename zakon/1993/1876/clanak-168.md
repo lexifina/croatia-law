@@ -1,4 +1,5 @@
 # Članak 168.
-Poslijediplomske studije i postupke stjecanja doktorata znanosti provodit će fakulteti ovlašteni po odredbama ranije donesenih propisa do stjecanja novih ovlasti u skladu s odredbama ovoga Zakona.
-Poslijediplomski studij i postupci stjecanja doktorata znanosti do donošenja statuta sveučilišta i visokih učilišta u njegovu sastavu provodit će se po odredbama statuta koji su na snazi, ako nisu u suprotnosti s odredbama ovoga Zakona.
-Rektorski zbor utvrdit će rokove za završetak postupka stjecanja magisterija i doktorata znanosti zapoćetih po odredbama ranije donesenih propisa koje su ustrojile znanstvenoistraživačke pravne osobe izvan sastava sveučilišta.
+(1) Sveučilišta i visoka učilišta u njihovu sastavu mogu upisati studente prve godine studija za stjecanje stručne spreme VI/1 stupnja samo u školskoj godini 1994/95.
+(2) Sveučilišta i visoka učilišta u njihovu sastavu mogu upisati studente prve godine stručnih studija počevši od školske godine 1995/96. samo uz prethodno dopuštenje ministra i to najdulje do školske godine 1997/98.
+(3) Sveučilišta i visoka učilišta u njihovu sastavu mogu izvoditi nastavu na studijima iz stavka 1. ovoga članka najdulje pet godina od zadnjeg upisa u prvu godinu studija.
+(4) Sveučilišta i visoka učilišta u njihovu sastavu koja izvode studije iz stavka 1. ovoga članka mogu ugovorom s veleučilištem, veleučilišnom školom, te s visokom školom prenijeti daljnji nastavak tih studija na veleučilište, veleučilišnu školu ili na visoku školu.

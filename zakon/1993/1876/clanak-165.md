@@ -1,2 +1,5 @@
 # Članak 165.
-Nastavnici izabrani u znanstveno-nastavna zvanja po odredbama ranije donesenih propisa zadržavaju ta zvanja do isteka roka na koji su izabrani i ako se zaposle na visokim učilištima izvan sveučilišta.
+(1) Do osnutka veleučilišta članovi Rektorskog zbora su rektori javnih sveučilišta.
+(2) Do donošenja akta iz članka 99. stavka 1. ovoga Zakona, o uvjetima za ocjenu nastavne aktivnosti u postupku izbora u znanstvenonastavna zvanja, odnosno nastavne i stručne aktivnosti u postupku izbora u nastavno zvanje, u svakom pojedinom slučaju, mišljenje daju stručna povjerenstva Rektorskog zbora. Ako je mišljenje stručnog povjerenstva Rektorskog zbora negativno, predloženik ne može biti izabran u znanstveno-nastavno ili nastavno zvanje.
+(3) Ako je mišljenje Rektorskog zbora negativno, predloženik ne može biti izabran u znanstvenonastavno ili nastavno zvanje.
+(4) Ako Rektorski zbor u roku od šest mjeseci od stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.), ne donese akt o uvjetima za ocjenu nastavne i stručne aktivnosti u postupku izbora u znanstvenonastavna i nastavna zvanja iz članka 99. stavka 1. ovoga Zakona, taj će akt u daljnjem roku od tri mjeseca donijeti ministar.

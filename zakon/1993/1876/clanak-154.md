@@ -1,3 +1,5 @@
 # Članak 154.
-Sveučilišta će u roku od tri mjeseca od dana izbora rektora donijeti statute.
-Fakuteti, umjetničke akademije, ustanove i druge pravne osobe u sastavu sveučilišta donijet će svoje statute u roku od dva mjeseca od dana donošenja statuta sveučilišta.
+(1) Danom stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.), znanstvenonastavno vijeće sveučilišta nastavlja s radom kao sveučilišni senat, a čine ga rektor, prorektori i dekani fakulteta i umjetničkih akademija. Ostalim članovima znanstveno-nastavnog vijeća, kao i od ovog vijeća osnovanim tijelima, prestaje mandat danom stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.).
+(2) U roku od mjesec dana od dana stupanja na snagu Zakona o visokim učilištima ("Narodne novine"; br. 96/93.) sveučilišni senat utvrdit će odlukom broj članova upravnog vijeća.
+(3) U roku od 30 dana od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o visokim učilištima ("Narodne novine" br. 29/96.) senati sveučilišta iz članka 147. ovoga Zakona i ministar dužni su predložiti listu predloženika za imenovanje članova upravnog vijeća sveučilišta.
+(4) Ako senati sveučilišta i ministar ne predlože liste iz stavka 1. ovoga članka, liste će osnivatelju predložiti Odbor za izbor, imenovanja i upravne poslove Zastupničkog doma Sabora Republike Hrvatske.

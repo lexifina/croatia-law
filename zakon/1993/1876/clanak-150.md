@@ -1,3 +1,3 @@
 # Članak 150.
-Danom stupanja na snagu ovoga Zakona, znanstvenoistraživački instituti udruženi u sveučlište na temelju samoupravnih sporazuma i ugovora o udruživanju, prestaju biti članicama sveučilišta.
-Vlasništvo i osnivačka prava nad znanstvenoistraživačkim institutima iz stavka 1. ovoga članka, te mogućnost prijenosa prava vlasništva i osnivačkih prava na sveučilište, uredit će se posebnim zakonom.
+(1) Položaj i djelovanje Katoličkoga bogoslovnog fakulteta u Zagrebu, kao člana Sveučilišta u Zagrebu, uredit će se ugovorom između osnivatelja Katoličkoga bogoslovnog fakulteta i Sveučilišta u Zagrebu uz suglasnost Hrvatske biskupske konferencije i Sabora Republike Hrvatske.
+(2) Do dana sklapanja ugovora iz stavka 1. ovoga članka, Katolički bogoslovni fakultet u Zagrebu nastavlja rad u sastavu Sveučilišta u Zagrebu.

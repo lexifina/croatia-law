@@ -1,3 +1,3 @@
 # Članak 157.
-Do imenovanja tijela upravljanja i voditelja ustanova i drugih pravnih osoba iz članka 151. stavka 5. ovoga Zakona, poslove ravnatelja i tijela upravljanja nastavit će obavljati osoba koja obnaša poslovodnu dužnost u ustanovama ili drugim pravnim osobama na dan stupanja na snagu ovoga Zakona.
-Upravno vijeće sveučilišta u ijem se sastvu nalazi ustanova ili druga pravna osoba, može osobu iz stavka 1. ovoga članka razriješiti i na njenu dužnost izabrati drugu osobu sve dok se ne izaberu odnosno imenuju nova tijela u skladu sa zakonom.
+(1) Danom stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.) prestaje mandat osobama izabranim za ravnatelje znanstvenonastavnih organizacija, a njihove ovlasti prelaze na dekane.
+(2) Osobe iz stavka 1. ovoga članka visoka učilišta su dužna rasporediti na radno mjesto koje odgovara njihovoj stručnoj spremi.

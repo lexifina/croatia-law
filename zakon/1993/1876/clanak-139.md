@@ -1,8 +1,9 @@
 # Članak 139.
-Sredstva potrebna za izvedbu javne službe u javnim visokim učilištima određuju se na osnovi programa rada i ustrojstva radnih mjesta visokog učilišta.
-Ustrojstvo radnih mjesta utvrđuje se na osnovi:
-- opsega obrazovnog, znanstvenog, umjetničkog ili stručnog rada;
-- standardnog opterećenja djelatnika;
-- standarda za obavljanje djelatnosti visokog obrazovanja.
-Ministar odobrava plaćanje radnih mjesta utvrđenih za obavljanje javne službe u javnim visokim učilištima.
-Javna visoka učilišta mogu zaposliti i veći broj djelatnika od odobrenog, uz samostalno osiguranje plaća i ostalih naknada za te djelatnike.
+(1) Republika Hrvatska u državnom proračunu osigurava novčanu podlogu za rad javnih visokih učilišta.
+(2) Sredstvima iz stavka 1. ovoga članka osigurava se:
+plaća i naknade zaposlenika te materijalni troškovi visokih učilišta,
+najnužnija razina znanstvenog, umjetničkog i stručnog rada na visokom učilištu,
+rad službe čijom se djelatnošću osigurava cjelovitost i potrebni standard sustava visoke naobrazbe,
+radni i životni standard zaposlenika i studenata,
+stipendije i zajmovi za studente, te novčana pripomoć školarinama,
+razvoj i ulaganja.

@@ -1,3 +1,3 @@
 # Članak 57.
-Redovni student studira na redovnom studiju, uz potporu Ministarstva ili sam plaća studij.
-Izvanredni student studira na izvanrednom studiju i sam plaća studij ili troškove studija snosi njegov poslodavac.
+(1) Redoviti student studira na redovitom studiju, uz potporu Ministarstva ili sam plaća studij.
+(2) Izvanredni student studira na izvanrednom studiju i sam plaća studij ili troškove studija snosi njegov poslodavac.

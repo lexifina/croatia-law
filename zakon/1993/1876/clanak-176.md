@@ -1,0 +1,4 @@
+# Članak 176.
+(1) Upravno vijeće sveučilišta u čijem se sastavu nalazi ustanova čija djelatnost osigurava cjelovitost i potrebni standard sustava visoke naobrazbe dužno je imenovati upravno vijeće te ustanove u roku od 30 dana od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o visokim učilištima ("Narodne novine", br. 29/96.).
+(2) Upravno vijeće sveučilišta imenovat će jednoga predstavnika studenata u upravno vijeće ustanove čija djelatnost osigurava cjelovitost i potrebni standard sustava visoke naobrazbe nakon donošenja posebnog zakona kojim će se urediti način izbora studentskih predstavnika te djelokrug njihova rada.
+(3) Do dana imenovanja predstavnika studenata prema stavku 2. ovoga članka, upravno vijeće ustanove, čija djelatnost osigurava cjelovitost i potrebni standard sustava visoke naobrazbe, upravlja bez predstavnika studenata.

@@ -1,2 +1,4 @@
 # Članak 159.
-Upravna vijeća sveučilišta donijet će potrebne odluke u skladu s Odlukom o programu preobrazbe javnih visokih učilišta iz članka 158. ovoga zakona, najduže u roku tri mjeseca od njezina donošenja.
+(1) Sabor Republike Hrvatske imenovat će Nacionalno vijeće iz članka 128. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu Zakona o visokim učilištima ("Narodne novine" br. 96/93.).
+(2) Nacionalno vijeće dužno je do 1. listopada 1999. na način utvrđen Zakonom o visokim učilištima ("Narodne novine", br. 96/93., 34/94., 21/95. i 48/95.) provesti postupak vrednovanja postojećih visokih učilišta te prijedlog putem Ministarstva dostaviti Vladi Republike Hrvatske, koja će Saboru Republike Hrvatske podnijeti prijedlog odluke o preobrazbi sustava javnih visokih učilišta.
+(3) Odlukom iz stavka 2. ovoga članka Sabor Republike Hrvatske odredit će visoka učilišta u sastavu sveučilišta koja će se novčano podupirati kao javna visoka učilišta u smislu ovoga Zakona i predložiti ukidanje visokih učilišta koja ne ispunjavaju uvjete za nastavak rada.

@@ -1,7 +1,3 @@
-## IX. NOVČANA PODLOGA ZA RAD VISOKIH UČILIŠTA
 # Članak 137.
-Visoka učilišta stjeću sredstva za obavljanje svoje djelatnosti :
-- iz sredstava koja se u proračunu Republike Hrvatske osiguravaju za visoko školstvo i znanstveni rad;
-- od zaklada, fondova i darovnica;
-- od školarina i stipendija;
-- iz drugih izvora ako su u skladu s djelatnošću visokog učilišta.
+(1) Visoko učilište i Ministarstvo izvješćuju javnost o ishodima vrednovanja.
+(2) Nacionalno vijeće za visoku naobrazbu jedanput godišnje izvješćuje Sabor Republike Hrvatske o svom radu i o stanju u visokom školstvu.

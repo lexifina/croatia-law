@@ -1,5 +1,4 @@
 # Članak 79.
-Počasno znanstveno-nastavno zvanje je profesor emeritus.
-Počasno zvanje profesor emeritus dodjeljuje sveučilište zaslužnim redovnim profesorima u mirovini u postupku i pod uvjetima utvrđenim statutom sveučilišta.
-Prava profešora emeritusa utvrđuju se statutom sveučilišta.
-2. Nastavna zvanja
+(1) Počasno znanstvenonastavno zvanje je profesor emeritus.
+(2) Počasno zvanje profesor emeritus dodjeljuje sveučilište zaslužnim redovitim profesorima u mirovini u postupku i pod uvjetima utvrđenim statutom sveučilišta.
+(3) Prava profesora emeritusa utvrđuju se statutom sveučilišta.

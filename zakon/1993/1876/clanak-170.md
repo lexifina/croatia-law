@@ -1,3 +1,4 @@
 # Članak 170.
-Osobama koje su do 8. listopada 1991. godine stekle diplome ili druge isprave višeg ili visokog obrazovanja u visokim učilištima na području republiha bivše SFR Jugoslavije, priznaje se stećeni stručni naziv ili akademski stupanj.
-Za osobe koje su do roka iz stavka 1. ovoga članka stekle doplome ili druge isprave na visokim vojnim ili vjerskim učilištima na području bivše SFRJ, za koje se ne može utvrditi odgovarajući stručni naziv ili akademški stupanj, provest će se postupak nostraihacije ili priznavanja ekvivalencije, u skladu s posebnim propisom.
+(1) Studenti koji su započeli studij prije stupanja na snagu Zakona o visokim učilištima ("Narodne novine", br. 96/93.), a savlađuju program bez ponavljanja godine, imaju pravo završiti studij po programima i uvjetima koji su bili na snazi kada su upisali prvu godinu studija.
+(2) Ministarstvo će za svaku školsku godinu posebnom odlukom utvrditi uvjete studiranja za sudionike domovinskoga rata.
+(3) Odredbe ovoga Zakona o dopuštenom broju polaganja ispita primjenjivat će se od 1994/95. školske godine za sve studente koji su te i sljedećih godina prvi put upisali studij.
