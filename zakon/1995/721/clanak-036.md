@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Priključenje na komunalnu infrastrukturu iz članka 34. stavka 1. točke 1., 3. i 4. ovoga Zakona treba se izvesti na način da svaki posebni dio zgrade koji predstavlja samostalnu uporabnu cjelinu (stan, poslovni prostor, garaža i sl.), odnosno svaki pojedinačni potrošač ima ugrađen poseban uređaj za mjerenje potrošnje, a kod opskrbe toplinskom energijom obvezatna je i ugradnja uređaja za regulaciju potrošnje.
+(2) Tehničko-tehnološke uvjete za ugradnju mjernog i regulacijskog uređaja iz stavka 1. ovoga članka određuje isporučitelj komunalne usluge, a stvarni trošak ugradnje plaća vlasnik nekretnine u skladu s odredbom članka 35. stavka 2. ovoga Zakona.

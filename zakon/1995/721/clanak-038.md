@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Upravno tijelo jedinice područne (regionalne) samouprave u čijem su djelokrugu poslovi komunalnog gospodarstva dužno je voditi evidenciju o visini komunalne naknade (vrijednosti boda, koeficijenta zone i koeficijenta namjene), naknade za priključenje i komunalnog doprinosa (jedinične vrijednosti komunalnog doprinosa za pojedine zone) u jedinicama lokalne samouprave na području županije.
+(2) Upravno tijelo jedinice područne (regionalne) samouprave u čijem je djelokrugu gospodarstvo dužno je voditi evidenciju o visini cijena komunalnih usluga iz članka 20. stavka 3. ovoga Zakona u jedinicama lokalne samouprave na području jedinice područne (regionalne) samouprave, te načinu njihova obračuna i plaćanja.

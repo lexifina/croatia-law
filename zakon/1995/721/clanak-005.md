@@ -1,4 +1,2 @@
-## Javne ovlasti
 # Članak 5.
-(1) Odlukom predstavničkog tijela jedinice lokalne samouprave, za komunalne djelatnosti iz članka 3. stavka 1. točke 1.; 2., 3., 4. i 7. te točke 11. u dijelu koji se odnosi na održavanje groblja i krematorija, može se pravnim osobama iz članka 4. ovoga Zakona povjeriti da u sklopu djelatnosti radi koje su osnovane općim aktima uređuju određene odnose, rješavaju u pojedinačnim upravnim stvarima o pravima, obvezama i odgovornosti fizičkih i pravnih osoba te obavljanju druge javne ovlasti.
-(2) Protiv upravnih akata iz stavka 1. ovoga članka može se izjaviti žalba upravnom tijelu županije, odnosno Grada Zagreba nadležnom za poslove komunalnog gospodarstva.
+Komunalnu djelatnost opskrbe pitkom vodom, odvodnje i pročišćavanja otpadnih voda i opskrbe plinom može obavljati i trgovačko društvo u pretežitom vlasništvu države, odnosno županije, kada se ta djelatnost obavlja za područje ili dijelove područja više jedinica lokalne samouprave putem magistralnih sustava u vlasništvu toga društva, a uvjeti i način obavljanje tih poslova utvrđuju se ugovorom s jedinicom lokalne samouprave.

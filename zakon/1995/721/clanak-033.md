@@ -1,5 +1,2 @@
-## Djelatnici u fondovima stambenog i komunalnog gospodarstva
 # Članak 33.
-(1) Djelatnike u fondovima stambenog i komunalnog gospodarstva zatečene na obavljanju poslova komunalnog gospodarstva, na dan prestanka rada fondova preuzimaju jedinice lokalne samouprave.
-(2) Djelatnici iz stavka 1. ovoga članka mogu se rasporediti na poslove i zadaće u upravnim tijelima jedinice lokalne samouprave, te na poslove i zadaće u gradskim kotarevima ili mjesnim odborima.
-(3) Akt o preuzimanju djelatnika iz stavka 1. ovoga članka donosi gradonačelnik ili načelnik jedinice lokalne samouprave na čijem je području sjedište dosadašnjeg fonda stambenog i komunalnog gospodarstva u kojem su djelatnici zaposleni.
+Obveznik komunalnog gospodarstva može uz suglasnost jedinice lokalne samouprave i sam snositi troškove gradnje objekata i uređaja komunalne infrastrukture iz članka 30. stavka 1. točke 2. ovoga Zakona te da mu se ti troškovi priznaju u iznos komunalnoga doprinosa, pod uvjetima utvrđenim pisanim ugovorom s jedinicom lokalne samouprave.

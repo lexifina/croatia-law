@@ -1,8 +1,4 @@
-## 3. VLASTITI POGONI
-## Temeljne odredbe
+## 2. TRGOVAČKA DRUŠTVA
+## Trgovačka društva
 # Članak 7.
-(1) Za obavljanje poslova iz članka 3. ovoga Zakona, jedinice lokalne samouprave mogu osnivati vlastite pogone.
-(2) Vlastiti pogon nema svojstvo osobe.
-(3) Vlastiti pogoni mogu obavljati komunalne djelatnosti i za druge jedinice lokalne samouprave na području iste ili druge županije na temelju pisanog ugovora.
-(4) U slučaju iz stavka 3. ovoga članka ugovora o povjeravanju obavljanja komunalnih djelatnosti sklapaju poglavarstva jedinica lokalne samouprave.
-(5) Vlastiti pogon je samostalan u obavljanju komunalnih djelatnosti sukladno ovom Zakonu, na zakonu utemeljenim propisima i oblici o osnivanju.
+Jedinica lokalne samouprave u trgovačkom društvu iz članka 4. stavka 1. točke 1., odnosno jedinice lokalne samouprave u trgovačkim društvima iz članka 4. stavka 4. ovoga Zakona drže većinski dio dionica, odnosno udjela.

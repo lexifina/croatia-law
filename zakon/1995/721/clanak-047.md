@@ -1,0 +1,3 @@
+# Članak 47.
+(1) Postupci započeti prema odredbama općih akata jedinice lokalne samouprave donesenim prije stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.) okončat će se prema odredbama tih propisa.
+(2) Prekršajni postupci pokrenuti za djela koja su prema propisima koji su bili na snazi do stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.) bila propisana kao prekršaj dovršit će se prema propisima koji su važili do dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 59/01.).

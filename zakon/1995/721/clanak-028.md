@@ -1,12 +1,7 @@
-## VII. KAZNENE ODREDBE
-## Novčane kazne za isporučitelje komunalnih usluga i odgovorne osobe
 # Članak 28.
-(1) Novčanom kaznom od 9.000 do 35.000 kuna kaznit će se za prekršaj isporučitelj komunalne usluge iz članka 4. stavka 1. točke 1., 2. i 3. ovoga Zakona ukoliko:
-l. bez opravdanih razloga prekine obavljati komunalnu djelatnost,
-2. komunalnu djelatnost ne obavlja kvalitetno,
-3. komunalne objekte i uređaje ne održava u stanju funkcionalne sposobnosti,
-4. korisniku komunalne usluge, odnosno korisniku za pojedinu komunalnu djelatnost naplati višu cijenu komunalne usluge, odnosno viši iznos komunalne naknade od određene cijene, odnosno utvrđene naknade (članak 18. stavak 2. i članak 20. stavak 4.),
-5. priključi građevinu bez građevne dozvole na komunalnu infrastrukturu.
-(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi - isporučitelju komunalne usluge i to novčanom kaznom od 2.000 do 8.000 kuna.
-(3) Za prekršaj iz stavka 1. točka 4. ovoga članka izreći će se zaštitna mjera oduzimanja imovinske koristi ostvarene izvršenjem prekršaja i povrat više naplaćenih iznosa oštećenim korisnicima.
-(4) Novčane kazne naplaćene prema ovom Zakonu prihod su proračuna jedinice lokalne samouprave na čijem su području učinjeni prekršaji.
+(1) Predstavničko tijelo jedinice lokalne samouprave, nakon donošenja odluke o komunalnoj naknadi, za svaku kalendarsku godinu u skladu s predvidivim sredstvima i izvorima financiranja donosi Program održavanja komunalne infrastrukture za djelatnost iz članka 22. stavka 1. ovoga Zakona.
+(2) Sredstva prikupljena komunalnom naknadom, mogu se odlukom predstavničkog tijela jedinice lokalne samouprave upotrijebiti i u svrhu održavanja objekata školskoga, zdravstvenog i socijalnog sadržaja.
+(3) Programom iz stavka 1. ovoga članka obvezatno se utvrđuje:
+- opis i opseg poslova održavanja s procjenom pojedinih troškova, po djelatnostima,
+- iskaz financijskih sredstava potrebnih za ostvarivanje programa, s naznakom izvora financiranja.
+(4) Poglavarstvo jedinice lokalne samouprave dužno je do kraja ožujka svake godine predstavničkom tijelu jedinice lokalne samouprave podnijeti izvješće o izvršenju Programa iz stavka 1. ovoga članka, za prethodnu kalendarsku godinu.

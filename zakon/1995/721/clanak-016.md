@@ -1,8 +1,13 @@
-## Ovlasti komunalnog redara
+## III. PRAĆENJE STANJA I DETALJNIJE UREĐENJE ODNOSA U KOMUNALNOM GOSPODARSTVU
+## Komunalni red
 # Članak 16.
-(1) Komunalni redar u provođenju komunalnog reda iz članka 14. ovoga Zakona ovlašten je:
-1. rješenjem narediti fizičkim i pravnim osobama radnje u svrhu održavanja komunalnog reda.
-2.izricati mandatne kazne,
-3.predložiti pokretanje prekršajnog postupka.
-(2) Protiv rješenja komunalnog redara iz stavka 1. točke 1. ovoga članka može se izjaviti žalba upravnom tijelu županije nadležnom za poslove komunalnog gospodarstva, a protiv rješenja komunalnog redara Grada Zagreba ministarstvu nadležnom za poslove komunalnog gospodarstva u roku od 8 dana od dana primitka rješenja.
-(3) Žalba protiv rješenja iz stavka 1. točke 1. ovoga članka ne odgađa izvršenje rješenja.
+(1) U cilju pobližeg uređenja odnosa u komunalnom gospodarstvu, predstavničko tijelo jedinice lokalne samouprave obvezno je donijeti odluku o komunalnom redu i mjere za njegovo provođenje.
+(2) Odlukom o komunalnom redu iz stavka 1. ovoga članka propisuju se naročito odredbe o:
+1. uređenju naselja,
+2. održavanju čistoće i čuvanju javnih površina,
+3. korištenju javnih površina,
+4. skupljanju, odvozu i postupanju sa skupljenim komunalnim otpadom,
+5. uklanjanju snijega i leda,
+6. uklanjanju protupravno postavljenih predmeta,
+7. mjere za provođenje komunalnog reda i
+8. kaznene odredbe.

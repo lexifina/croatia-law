@@ -1,0 +1,3 @@
+# Članak 43.
+(1) »Hrvatska elektroprivreda« d.d. Zagreb prenijet će bez naknade do 31. prosinca 1997. u stanju funkcionalne sposobnosti u vlasništvo jedinica lokalne samouprave i uprave objekte i uređaje u svom vlasništvu koji se koriste isključivo za javnu rasvjetu.
+(2) Na objektima i uređajima koji se koriste za obavljanje djelatnosti »Hrvatske elektroprivrede« d.d. Zagreb, a istovremeno se koriste za javnu rasvjetu, »Hrvatska elektroprivreda« d.d. Zagreb, zadržavajući vlasništvo osnovat će ugovorom s jedinicama lokalne samouprave i uprave pravo služnosti - pravo uporabe bez naknade za potrebe javne rasvjete u korist jedinice lokalne samouprave i uprave.

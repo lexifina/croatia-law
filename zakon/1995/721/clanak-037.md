@@ -1,0 +1,3 @@
+# Članak 37.
+(1) U slučaju da gradnja određenog objekta, odnosno uređaja komunalne infrastrukture za djelatnosti iz članka 34. stavka 1. ovoga Zakona nije predviđena Programom gradnje objekata i uređaja komunalne infrastrukture, budući korisnici komunalne usluge koji bi se priključili na tu komunalnu infrastrukturu mogu sudjelovati u financiranju njezine gradnje, uz povrat uloženih sredstava u određenom roku, pod uvjetima utvrđenim pisanim ugovorom s jedinicom lokalne samouprave.
+(2) Sredstva iz stavka 1. ovoga članka za financiranje gradnje uplaćuju se na račun jedinice lokalne samouprave, a rok povrata sredstava ne može biti dulji od 5 godina od dana sklapanja ugovora.

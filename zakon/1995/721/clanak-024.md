@@ -1,9 +1,9 @@
-## Rješenje o komunalnom doprinosu za financiranje građenja objekata i uređaja komunalne infrastrukture
 # Članak 24.
-(1) Rješenje kojim se utvrđuje visina komunalnog doprinosa donosi upravni odjel jedinice lokalne samouprave nadležan za poslove komunalnog gospodarstva.
-(2) Rješenje iz stavka 1. ovoga članka sadrži osobito:
-l. visinu sredstava koju je vlasnik građevinskog zemljišta dužan uplatiti odjednom ili u obrocima,
-2. rok izgradnje komunalnog objekta ili uređaja,
-3. kaznu i povrat uplaćenih sredstava ako jedinica lokalne samouprave ne izvrši svoju obvezu.
-(3) Ništavo je rješenje koje ne sadrži obvezne elemente propisane u stavku 2. ovoga članka.
-(4) Rješenje iz stavka 1. ovoga članka donosi se nakon utvrđivanja visine komunalnih doprinosa iz članka 23. stavka 2. ovoga Zakona, a najkasnije do izdavanja građevne dozvole.
+(1) Visina komunalne naknade određuje se ovisno o:
+- lokaciji nekretnine, odnosno zoni u kojoj se nalazi nekretnina,
+- vrsti nekretnine iz članka 22. stavka 2. ovoga Zakona.
+(2) Komunalna naknada obračunava se po m2 površine i to za stambeni, poslovni i garažni prostor po jedinici korisne površine koja se utvrđuje na način propisan Uredbom o uvjetima i mjerilima za utvrđivanje zaštićene najamnine (»Narodne novine«, br. 40/97.), a za građevno zemljište po jedinici stvarne površine.
+(3) Iznos komunalne naknade po m2 obračunske površine nekretnine utvrđuje se množenjem:
+1. vrijednosti obračunske jedinice - boda (B), određene u kunama po m2 (u daljnjem tekstu: vrijednost boda),
+2. koeficijenta zone (Kz),
+3. koeficijenta namjene (Kn).
