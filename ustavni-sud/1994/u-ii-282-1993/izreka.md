@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaća se prijedlog Dr. Jovana Obradovića iz Zagreba i Zdravka Pokrajca iz Zagreba za pokretanje postupka ocjene ustavnosti i zakonitosti članka 5. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/1991) i članka 9. Uredbe o preuzimanju sredstava JNA i SSNO na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske ("Narodne novine", broj 52/1991).
