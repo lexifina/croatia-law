@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o Jedinstvenom registru računa poslovnih subjekata (»Narodne novine«, broj 14/2002.) u članku 5. stavku 1. riječi »od 17.00 sati« zamjenjuju se riječima »od 15.00 sati«, u stavku 3. riječi »od 17.00 sati do 19.00 sati« zamjenjuju se riječima »od 19.00 sati do 20.30 sati« i riječi »od 19.15 sati tekućeg radnog dana do 17.00 sati idućeg radnog dana« zamjenjuju se riječima »od 20.30 sati tekućeg radnog dana do 19.00 sati idućeg radnog dana«.
