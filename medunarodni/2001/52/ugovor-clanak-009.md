@@ -1,0 +1,2 @@
+# Članak 9.
+Nakon što se uvjeri da okolnosti to zahtijevaju, država stranka Konvencije na čijem je teritoriju navodni počinitelj, poduzima odgovarajuće mjere sukladno svojem nacionalnom zakonodavstvu, uključujući i pritvor, kako bi osigurala počiniteljevu prisutnost u svrhu kaznenog gonjenja ili izručenja. O mjerama poduzetim sukladno ovom članku bez odgode se obavještavaju one države koje trebaju uspostaviti svoju jurisdikciju sukladno članku 8. i, po potrebi, sve druge države na koje se to odnosi.

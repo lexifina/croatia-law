@@ -1,0 +1,22 @@
+# Članak 23.
+Izvornik ove Konvencije, čiji su tekstovi na arapskom, kineskom, engleskom, francuskom, ruskom i španjolskom jeziku jednako vjerodostojni, bit će pohranjen kod generalnog direktora Međunarodne agencije za atomsku energiju, koji će svim državama dostaviti ovjerene preslike.
+U potvrdu navedenog, dolje potpisani, propisno ovlašteni, potpisali su ovu Konvenciju 3. ožujka 1980, otvorenu za potpisivanje u Beču i New Yorku.
+DODATAK 1
+RAZINE FIZIČKE ZAŠTITE KOJE TREBA PRIMJENJIVATI U MEĐUNARODNOM PRIJEVOZU NUKLEARNOG MATERIJALA PREMA KATEGORIZACIJI U DODATKU II
+1. Razine fizičke zaštite nuklearnog materijala za vrijeme uskladištenja tijekom međunarodnog prijevoza nuklearnog materijala obuhvaćaju:
+(a) za materijale III. kategorije, uskladištenje u prostoru s kontroliranim pristupom;
+(b) za materijale II. kategorije, uskladištenje u prostoru pod stalnim nadzorom straže ili elektroničkih uređaja, okruženom fizičkom preprekom s ograničenim brojem ulaznih mjesta pod odgovarajućom kontrolom, ili unutar bilo kojeg prostora s podjednakom razinom fizičke zaštite;
+(c) za materijal I. kategorije, uskladištenje u zaštićenom prostoru kao što je predviđeno za II. kategoriju, pri čemu je dodatno pristup ograničen na provjerene osobe i pod kontrolom straže koja je u neposrednoj vezi s odgovarajućim snagama za brzo djelovanje. Svrha posebnih mjera koje se u ovom kontekstu poduzimaju je otkrivanje i sprječavanje svakog napada, neovlaštenog pristupa ili neovlaštenog odnošenja materijala.
+2. Razine fizičke zaštite nuklearnog materijala tijekom međunarodnog prijevoza obuhvaćaju:
+(a) za materijale II. i III. kategorije, prijevoz se obavlja uz posebne mjere opreza koje uključuju prethodni dogovor pošiljatelja, primatelja i prijevoznika, te prethodni sporazum između fizičkih ili pravnih osoba, sukladno jurisdikciji i propisima zemalja izvoznica i uvoznica, kojima se utvrđuje vrijeme, mjesto i postupak prenošenja odgovornosti za prijevoz;
+(b) za materijale I kategorije, prijevoz se obavlja uz iste posebne mjere opreza predviđene za prijevoz materijala II. i III. kategorije i dodatno pod stalnim nadzorom pratnje u uvjetima kojima se osigurava neposredna veza s odgovarajućim snagama za brzo djelovanje;
+(c) za prirodni uranij, osim uranija u obliku rude ili jalovine, zaštita pri prijevozu količine veće od 500 kg U predviđa prethodnu najavu prijevoza pošiljke u kojoj se navodi način prijevoza, očekivano vrijeme dolaska i potvrđivanje primitka pošiljke.
+DODATAK II
+Tablica: KATEGORIZACIJA NUKLEARNOG MATERIJALA Materijal |  | Oblik |  |  | Kategorija I | Kategorija II |  | Kategorija IIIc 1. Plutonija |  | neozračenib |  | 2 kg ili više | manje od 2 kg, ali | 500 g ili manje, ali više |  |  |  |  |  |  |  | više od 500 g |  | od 15 g 2. Uranij-235 |  | neozračenib |  |  | - uranij obogaćen na |  |  | razinu od 20% 235U | 5 kg ili više | manje od 5 kg, ali | 1 kg ili manje, ali više |  |  | ili više |  |  |  | više od 1 kg |  | od 15 g |  |  | - uranij obogaćen na |  |  | 10 kg ili više |  | manje od 10 kg, ali više |  |  | razinu od 10% 235U,ali |  |  |  |  |  | od 1 kg |  |  | manje od 20% 235U |  |  | -uranij obogaćen više od |  |  | prirodnog,ali manje od |  |  |  |  |  | 10 kg ili više |  |  | 10% 235U 3. Uranij-233 |  | neozračenib |  | 2 kg ili više | manje od 2 kg, ali | 500 g ili manje, ali više |  |  |  |  |  |  |  | više od 500 g |  | od 15 g 4. Ozračeno gorivo |  |  |  |  |  | osiromašeni ili prirodni |  |  |  |  |  |  |  | uranij, torij ili nisko |  |  |  |  |  |  |  | obogaćeno gorivo (manje od |  |  |  |  |  |  |  | 10% fisilnog sadržaja)d/e
+a) Svaki plutonij osim onog s izotopnom koncentracijom koja prelazi 80% plutonija-238.
+b) Materijal koji nije ozračen u reaktoru ili materijal ozračen u reaktoru ali s razinom zračenja jednakom ili manjom od 100 rad/h na jedan metar bez zaklona.
+c) Količine koje ne ulaze u kategoriju III i prirodni uranij, moraju biti zaštićene sukladno praksi opreznog rukovanja.
+d) Premda je ova razina zaštite preporučena, ostaje da države, nakon ocjene posebnih okolnosti, odrede drugačiju kategoriju fizičke zaštite.
+e) Drugo gorivo koje je temeljem njegova izvornog sadržaja fisilnog materijala klasificirano kao kategorija I ili II prije ozračivanja može se kategorizirati jednu kategoriju niže dok razina zračenja goriva prelazi 100 rad/h na jedan metar bez zaklona.
+i. co-ordinate their efforts through diplomatic and other agreed channels;
+ii. render assistance; if requested;

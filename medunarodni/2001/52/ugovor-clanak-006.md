@@ -1,0 +1,3 @@
+# Članak 6.
+1. Države stranke Konvencije poduzimaju odgovarajuće mjere sukladno svojem nacionalnom zakonodavstvu, kako bi zaštitile tajnost bilo koje povjerljive obavijesti, koju su sukladno odredbama ove Konvencije, primile od druge države stranke Konvencije ili sudjelujući u nekoj aktivnosti u okviru primjene ove Konvencije. Ako države stranke Konvencije dostave povjerljive obavijesti međunarodnim organizacijama, poduzet će se mjere za zaštitu tajnosti takve obavijesti.
+2. Sukladno odredbama ove Konvencije, od država stranaka neće se tražiti da dostave bilo koju obavijest za koju, prema nacionalnom zakonodavstvu, nije dopušteno priopćavanje ili koja bi mogla ugroziti sigurnost dotične države ili fizičku zaštitu nuklearnog materijala.

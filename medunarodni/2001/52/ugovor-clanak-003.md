@@ -1,0 +1,2 @@
+# Članak 3.
+Svaka država stranka Konvencije, u okviru svojeg nacionalnog zakonodavstva i sukladno međunarodnom pravu, poduzima odgovarajuće mjere kako bi osigurala da za vrijeme međunarodnog prijevoza nuklearnog materijala, nuklearni materijal na njezinom teritoriju, ili brodu ili zrakoplovu pod njezinom jurisdikcijom, ako takav brod ili zrakoplov sudjeluje u prijevozu do te države, ili iz nje, bude zaštićen prema razinama zaštite opisanim u Dodatku I.
