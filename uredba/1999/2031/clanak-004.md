@@ -1,0 +1,2 @@
+# Članak 4.
+Stanovima iz članka 3. ove Uredbe za koje s osobama iz istog članka nije sklopljen ugovor o prodaji ili ugovor o najmu, kao i drugim stanovima iz članka 1. i 2. ove Uredbe, Ministarstvo će raspolagati na način da ih rješenjem dodjeli na korištenje osobama iz članka 7. stavka 2. Zakona o područjima posebne državne skrbi, kao i osobama određenim Programom povratka i zbrinjavanja prognanika, izbjeglica i raseljenih osoba (»Narodne novine«, broj 92/98 - dalje u tekstu: Program povratka), te na temelju tih rješenja sklapa ugovore o najmu stana.

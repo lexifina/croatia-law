@@ -1,0 +1,7 @@
+# Članak 1.
+Sukladno odredbi članka 10. Zakona o područjima posebne državne skrbi (»Narodne novine«, broj 44/96, 47/96, 124/97) ovlašćuje se Ministarstvo razvitka, useljeništva i obnove (dalje u tekstu: Ministarstvo) raspolagati stanovima te, na temelju ove Uredbe, poduzimati radnje u vezi s upravljanjem, održavanjem i najamninom za stanove:
+- u vlasništvu Republike Hrvatske,
+- koji su postali vlasništvo Republike Hrvatske na temelju članka 38. stavka 1. Zakona o udrugama (»Narodne novine«, broj 70/97) ako pravni sljednici bivših društvenih organizacija nisu dostavili popis tih stanova u roku iz članka 38. stavak 9. istoga Zakona i ako te stanove ne koriste,
+- na kojima su pravo korištenja, raspolaganja i upravljanja na temelju članka 3. stavka 3. Zakona o pretvorbi prava na društvenim sredstvima bivših društveno-političkih organizacija (»Narodne novine«, broj 70/97) imali bivši Savez boraca narodnooslobodilačkog rata Hrvatske i bivši Savez socijalističke omladine Hrvatske,
+- na kojima su pravo korištenja, raspolaganja i upravljanja imali bivši Savez komunista Hrvatske i bivši Socijalistički savez radnog naroda Hrvatske, a koje stanove sada ne koristi ni jedna politička stranka,
+a koji se nalaze na područjima koja su bila pod privremenom upravom UNTAES-a (dalje u tekstu: hrvatsko Podunavlje) i na drugim područjima posebne državne skrbi, koja su područja određena Zakonom o područjima posebne državne skrbi.

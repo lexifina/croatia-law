@@ -1,0 +1,2 @@
+# Članak 12.
+Nalaže se županijskim uredima nadležnim za poslove stanovanja da u ime Republike Hrvatske, po službenoj dužnosti, sukladno odredbama Zakona o konvalidaciji (»Narodne novine«, broj 104/97) i Uredbi za provođenje zakona o konvalidaciji akata izdanih u predmetima upravne naravi (»Narodne novine«, broj 51/98) pokrenu postupak utvrđivanja jesu li rješenja o davanju u najam ili korištenje stanova tzv. »RSK« sukladna ili protivna Ustavu Republike Hrvatske, Ustavnom zakonu i zakonima Republike Hrvatske.

@@ -1,0 +1,4 @@
+# Članak 11.
+Utvrđuje se visina najamnine za stanove iz članka 1. i 2. ove Uredbe u iznosu od 1,5 kn/m² površine koja odgovara visini prosječne zaštićene najamnine i koja se uplaćuje na poseban račun grada, odnosno općine na čijem području se nalazi višestambena zgrada.
+Najamnina iz stavka 1. ovoga članka naplaćuje se od dana sklapanja ugovora o najmu stanova iz članka 1. i 2. ove Uredbe i koristi se za troškove održavanja višestambene zgrade (zajedničkih dijelova i uređaja zgrade) najmanje na razini troškova iz članka 5. i 6. Uredbe o održavanju zgrada (»Narodne novine«, broj 64/97).
+Ovlašćuju se jedinice lokalne samouprave da do donošenja posebne odluke Vlade Republike Hrvatske obavljaju sve poslove upravljanja stanovima iz članka 1. i 2. ove Uredbe, osim stanova iz članka 3. podstavka 1. ove Uredbe. Poslovi upravljanja uključuju i pravo ubiranja i raspolaganja najamninom u skladu sa zakonom i ovom Uredbom.
