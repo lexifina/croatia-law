@@ -1,0 +1,5 @@
+# Članak 157.
+Članak 299. mijenja se i glasi:
+»Stranke su dužne već u tužbi i odgovoru na tužbu, na pripremnom ročištu ili najkasnije na prvom ročištu za glavnu raspravu ako pripremno ročište nije održano iznijeti sve činjenice na kojima temelje svoje zahtjeve, predložiti dokaze potrebne za utvrđivanje iznijetih činjenica te se izjasniti o činjeničnim navodima i dokaznim prijedlozima protivne stranke.
+Stranke mogu i kasnije tijekom glavne rasprave iznositi nove činjenice i predlagati nove dokaze, ali su dužne naknaditi troškove koji time budu izazvani protivnoj stranci, osim ako potreba za iznošenjem novih činjenica i predlaganja novih dokaza nije izazvana ponašanjem protivne stranke. Na zahtjev protivne stranke, sud će bez odgode rješenjem odlučiti o naknadi takvih troškova rješenjem. Protiv toga rješenja posebna žalba nije dopuštena, a ovrha se na temelju njega može tražiti prije njegove pravomoćnosti.
+Stranke mogu i između ročišta za glavnu raspravu upućivati podneske u kojima će iznositi nove činjenice i predlagati nove dokaze. Odredba stavka 2. ovoga članka primijenit će se i u tom slučaju na odgovarajući način.«

@@ -1,0 +1,8 @@
+# Članak 38.
+Članak 75. mijenja se i glasi:
+»Kad sudac pojedinac, predsjednik vijeća, član vijeća ili predsjednik suda sazna da je stavljen zahtjev za njegovo izuzeće, dužan je obustaviti svaki rad na tom predmetu, a ako je izuzeće zatraženo zbog razloga iz članka 71. točke 7. ovoga Zakona, može do donošenja rješenja o zahtjevu poduzimati samo one radnje za koje postoji opasnost od odgode.
+Iznimno od odredbe stavka 1. ovoga članka sudac pojedinac ili predsjednik vijeća može rješenjem protiv kojega nije dopuštena žalba odlučiti nastaviti s radom ako ocijeni da je zahtjev za izuzeće očito neosnovan i da je postavljen radi sprječavanja ili ometanja suda u poduzimanju određenih radnji, odnosno radi odugovlačenja postupka.
+U slučaju iz stavka 2. ovoga članka sudac pojedinac ili predsjednik vijeća će odrediti da se spis predmeta umnoži te da se prijepis spisa zajedno sa zahtjevom za izuzeće proslijedi na odlučivanje.
+Ako zahtjev za izuzeće bude prihvaćen, radnje koje su poduzete i odluke koje su donesene u smislu stavka 2. i 3. ovoga članka ukinut će sudac pojedinac ili predsjednik vijeća koji će preuzeti vođenje postupka.
+Sud će novčano kazniti, uz odgovarajuću primjenu odredaba članka 10. ovoga Zakona, stranku i umješača, odnosno njihova zastupnika ako se utvrdi da je zahtjev za izuzeće očito neosnovan i da je podnesen samo zato da bi se omelo ili spriječilo sud u poduzimanju nekih radnji ili radi odugovlačenja postupka.
+Na zahtjev protivne stranke sud će bez odgode rješenjem odlučiti o naknadi troškova postupka koji su toj stranci uzrokovani postavljanjem neosnovanoga zahtjeva za izuzeće. Protiv toga rješenja posebna žalba nije dopuštena, a na temelju njega ovrha se može tražiti i prije njegove pravomoćnosti.«

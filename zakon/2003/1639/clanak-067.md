@@ -1,0 +1,24 @@
+# Članak 67.
+Iza članka 133. dodaju se članci 133.a do 133.c koji glase:
+»Članak 133.a
+Na zahtjev stranke koja izjavi da je spremna snositi troškove time izazvane, sud može rješenjem protiv kojega nije dopuštena žalba odrediti da se dostava nekoga pismena povjeri javnome bilježniku. U tom će slučaju sud pismeno koje treba dostaviti zajedno sa svojim rješenjem staviti u posebnu omotnicu koju će predati toj stranci.
+Javni bilježnik od koga stranka zatraži obavljanje radnje dostave dužan ju je obaviti po pravilima ovoga Zakona o dostavi. Prigodom dostave pismena iz stavka 1. ovoga članka javni bilježnik ima prava i dužnosti sudskoga dostavljača. Javnog bilježnika u obavljanju poslova dostave može zamjenjivati i javnobilježnički prisjednik ili javnobilježnički vježbenik.
+O primitku pismena radi dostave i o radnjama poduzetim radi dostave javni bilježnik sastavit će zapisnike.
+Ovjerovljeni prijepis zapisnika o primitku pismena radi dostave te potvrdu o obavljenoj dostavi zajedno s ovjerovljenim prijepisom zapisnika o dostavi, odnosno nedostavljeno pismeno zajedno s ovjerovljenim prijepisom zapisnika o poduzetim radnjama javni bilježnik dostavit će bez odgode izravno sudu.
+Troškove izazvane javnobilježničkom dostavom stranka izravno podmiruje javnom bilježniku. Javni bilježnik kome nisu predujmljena sredstva za pokriće troškova dostave nije dužan dostavu obaviti, o čemu će javni bilježnik sastaviti zapisnik i o tome izravno obavijestiti sud.
+Na radnje poduzete u svezi s dostavom preko javnih bilježnika stranke ne plaćaju javnobilježničke pristojbe.
+Troškovi dostave putem javnoga bilježnika ulaze u parnične troškove, ako sud ocijeni da su oni bili nužni.
+Članak 133.b
+Ako se tuženik prije podnošenja tužbe sudu u pisanom sporazumu sklopljenom s tužiteljem suglasio da mu se dostava u sporovima na koje se sporazum odnosi obavlja na određenoj adresi u Republici Hrvatskoj ili preko određene osobe u Republici Hrvatskoj, tužba i druga pismena u postupku tuženiku će se, na prijedlog tužitelja, dostavljati na toj adresi ili toj osobi. Smatrat će se da je dostava tuženiku obavljena kada je pismeno dostavljeno osobi naznačenoj u sporazumu.
+Ako se dostava iz stavka 1. ovoga članka nije mogla obaviti sud će odrediti da se daljnje dostave tuženiku obavljaju stavljanjem pismena na oglasnu ploču suda. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na oglasnu ploču suda.
+Tužitelj je dužan uz tužbu priložiti sporazum iz stavka 1. ovoga članka ako u njoj predlaže da se dostava obavlja na adresi ili preko osobe iz toga sporazuma. Tužitelj koji u tužbi nije predložio da se dostava obavlja na adresi ili preko osobe iz sporazuma može i kasnije tijekom postupka predložiti da se tuženiku dostava obavlja na toj adresi ili preko te osobe ako mu se nije mogla uredno obaviti na adresi naznačenoj u tužbi.
+Sporazum iz stavka 1. ovoga članka može se sklopiti glede određenog spora koji je već nastao ili glede budućih sporova koji mogu nastati iz određenoga pravnog odnosa.
+Ako je tuženik fizička osoba koja ne obavlja registriranu djelatnost, sporazum iz stavka 1. ovoga članka valjan je samo ako je na njemu potpis tuženika javno ovjerovljen. Ako tuženik fizička osoba obavlja registriranu djelatnost, sporazum iz stavka 1. ovoga članka u vezi sa sporovima koji se ne tiču te djelatnosti pravno je valjan samo ako je na njemu potpis tuženika javno ovjerovljen.
+Ako tuženik nakon što mu je tužba dostavljena zatraži da mu se dostava obavlja na novoj adresi u Republici Hrvatskoj, dostava će mu se obavljati na toj adresi ako uvjeti uz koje se treba obavljati nisu bitno teži od onih uz koje se dostava obavlja prema sporazumu iz stavka 1. ovoga članka.
+O zahtjevu tuženika za obavljanje dostave na novu adresu sud odlučuje rješenjem nakon što tužitelju omogući da se o tom zahtjevu izjasni. Dok sud ne odluči o zahtjevu iz stavka 6. ovoga članka, dostava će se obavljati na adresu, odnosno osobi iz sporazuma iz stavka 1. ovoga članka.
+Protiv rješenja suda kojim zahtjev iz stavka 6. ovoga članka prihvaća ili ga odbija žalba nije dopuštena. Dostava toga rješenja obavlja se na adresi, odnosno osobi iz stavka 1. ovoga članka.
+Troškove izazvane prijedlogom tuženika iz stavka 6. ovoga članka snosi tuženik bez obzira na ishod spora.
+Članak 133.c
+Ako se stranke s time suglase tijekom postupka, sud će odlučiti da one izravno upućuju jedna drugoj podneske i druga pismena, i to preporučeno preko pošte uz povratnicu.
+Ako je koja od stranaka pravna osoba ili fizička osoba s registriranom djelatnošću, pismena iz stavka 1. ovoga članka mogu joj se predati izravno u njezinom sjedištu uz potvrdu o preuzimanju pošiljke ovjerovljenu njenim pečatom.
+U parnici u kojoj obje stranke zastupaju odvjetnici ili državni odvjetnici sud može odrediti da zastupnici stranaka izravno upućuju podneske jedni drugima - poštom uz povratnicu ili da ih izravno predaju uredu, odnosno pisarnici.«

@@ -1,0 +1,6 @@
+# Članak 19.
+U članku 40. stavak 3. mijenja se i glasi:
+»Ako je u slučaju iz stavka 2. ovoga članka tužitelj vrijednost predmeta spora očito suviše visoko ili suviše nisko naznačio, tako da se postavlja pitanje stvarne nadležnosti, sastava suda, vrste postupka, prava na izjavljivanje revizije, ovlaštenja na zastupanje ili prava na naknadu troškova postupka, sud će, po službenoj dužnosti ili na prigovor tuženika, najkasnije na pripremnom ročištu, ili ako ono nije održano, onda na prvom ročištu za glavnu raspravu prije nego što se tuženik upustio u raspravljanje o glavnoj stvari, brzo i na prikladan način provjeriti točnost naznačene vrijednosti te rješenjem protiv kojega nije dopuštena posebna žalba odrediti vrijednost predmeta spora.«
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»Ako se nakon upuštanja tuženika u raspravljanje o glavnoj stvari utvrdi da je tužitelj propustio odrediti vrijednost predmeta spora, sud prvoga stupnja će brzo i na prikladan način, nakon što strankama omogući da se o tome izjasne, odrediti vrijednost predmeta spora rješenjem protiv kojega nije dopuštena posebna žalba.
+Na način određen u stavku 4. ovoga članka sud će postupiti i nakon izjavljivanja žalbe, odnosno revizije, prije nego što predmet uputi višem sudu radi odlučivanja o tim pravnim lijekovima.«

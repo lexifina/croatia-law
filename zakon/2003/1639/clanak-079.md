@@ -1,0 +1,9 @@
+# Članak 79.
+Iza članka 149. dodaju se članci 149.a i 149.b koji glase:
+»Članak 149.a
+Osobu koja neopravdano, u slučajevima predviđenim u ovoj Glavi, odbije dokazati svoju istovjetnost ili primiti pismeno te osobu koja na neki drugi način ometa dostavu svjesno onemogućavajući ili otežavajući primjenu odredaba ove Glave sud može novčano kazniti uz odgovarajuću primjenu odredaba članka 110. ovoga Zakona.
+Stranka kojoj je osoba iz stavka 1. ovoga članka ponašanjem opisanim u toj odredbi prouzročila dodatne troškove u postupku, može u tom postupku zatražiti od suda da je osudi da joj te troškove naknadi, neovisno o tome je li je novčano kaznio ili nije. O takvom zahtjevu sud je dužan rješenjem odlučiti bez odgode, neovisno o odluci o glavnoj stvari. Protiv toga rješenja dopuštena je posebna žalba, ali se ovrha na temelju njega može tražiti prije njegove pravomoćnosti.
+Članak 149.b
+Dostavljača koji nesavjesno obavi koju radnju dostave i zbog toga dođe do znatnijeg odugovlačenja postupka sud može novčano kazniti, primjenjujući na odgovarajući način odredbe članka 110. ovoga Zakona.
+Stranka kojoj je dostavljač iz stavka 1. ovoga članka nesavjesnim obavljanjem svoje dužnosti prouzročio dodatne troškove u postupku, može u tom postupku zatražiti od suda da dostavljača odnosno pravnu osobu koja za njega odgovara po općim pravilima za naknadu štete osudi da joj te troškove naknadi. O takvom zahtjevu sud je dužan rješenjem odlučiti bez odgode, neovisno o odluci o glavnoj stvari. Protiv toga rješenja dopuštena je žalba, ali se ovrha na temelju njega može tražiti i prije njegove pravomoćnosti.
+Zahtjev za naknadu troškova iz stavka 2. ovoga članka stranka može postaviti u roku od petnaest dana od saznanja za razloge koji opravdavaju njegovo postavljanje, a najkasnije do pravomoćnosti, odnosno okončanja postupka u povodu izvanrednog pravnog lijeka.«
