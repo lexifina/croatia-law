@@ -1,0 +1,1 @@
+Na temelju članka 39. stavak 1. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i Odluke o usvajanju Plana izdavanja prigodnoga kovanog novca i numizmatičkih kompleta u 2004. godini, koju je Savjet Hrvatske narodne banke pod brojem z.br. 1257/2003. donio na sjednici održanoj 3. prosinca 2003., guverner Hrvatske narodne banke donio je
