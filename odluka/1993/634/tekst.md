@@ -1,0 +1,8 @@
+o osnovicama osiguranja koje se uzimaju za obračunavanjei plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskogosiguranja za osobe koje se nakon završene izobrazbe nalaze na obveznompraktičnom radu ili na dobrovoljnoj praksi , za godinu 1993.
+1. Osnovica osiguranja koja se uzima za obračunavanje i plaćanje doprinosai za određivanje prava iz mirovinskog i invalidskog osiguranja za osobekoje se nakon završene izobrazbe nalaze na obveznom praktičnom radu ilina dobrovoljnoj praksi ako rade s punim radnim vremenom (članak 14. stavak1. točka 4. Zakona o mirovinskom i invalidskom osiguranju) određuje seovisno o stupnju stručne spreme stečene nakon završene izobrazbe i za godinu1993. iznosi:
+1) 148.176.- HRD za osobe koje imaju stručnu spremu sedmog ili osmogstupnja (visoka stručna sprema),
+2) 114.294.- HRD ,za osobe koje imaju stručnu spremu petog ili šestogstupnja (viša stručna sprema odnosno sprema visokokvalificiranog radnika),
+3) 84.408.- HRD za osobe koje imaju stručnu spremu trećeg ili četvrtogstupnja (srednja stručna sprema odnosno sprema kvalificiranog radnika).
+2. Doprinos za mirovinsko i invalidsko osiguranje osoba iz točke 1.ove odluke obračunava se i plaća prema Zakonom utvrđenoj stopi za obračunavanjei plaćanje doprinosa kada se plaća utvrđuje u neto svoti.
+3. Na dan stupanja na snagu ove odluke prestaje vrijediti odluka o osnovicamaosiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanjeprava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završeneizobrazbe nalaze na obveznom praktičnom radu ili dobrovoljnoj praksi zagodinu 1992.("Narodne novine", broj 16/92).
+4. Ova odluka stupa na snagu osmog dana nakon objave u "Narodnimnovinama", a primjenjivat će se od 1. siječnja 1993.
