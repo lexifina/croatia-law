@@ -1,0 +1,1 @@
+Na temelju članka 70. Zakona o športu ("Narodne novine", broj 59/90) i članka 76. Zakona o prostornom planiranju i uređivanju prostora ("Narodne novine", broj 54/80, 16/86 i 18/89) Ministarstvo prosvjete i kulture uz suglasnost Ministarstva zaštite okoliša, prostornog planiranja i graditeljstva donosi
