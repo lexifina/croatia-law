@@ -1,0 +1,1 @@
+Na temelju članka 46. Zakona o doplatku za djecu ("Narodne novine", br. 44/77, 52/85, 8/90 i 40/90) i članka 8. točka 1. Statuta Republičhog fonda mirovinskog i invalidskog osiguranja rsdnika Hrvatske ("Narodne novine", broj 58/90), Upravni odbor Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, na sjednici održanoj 26. veljače 1993. donosi
