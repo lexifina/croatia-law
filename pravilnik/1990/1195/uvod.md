@@ -1,0 +1,1 @@
+Na temelju članka 15 i 44. stava 1. Zakona o ustrojstvu republičke uprave ("Narodne novine", broj 41/90) i članka 138. stava 3. Zakona o usmjerenom obrazovanju ("Narodne novine", broj 42/89) ministar prosvjete i kulture donosi
