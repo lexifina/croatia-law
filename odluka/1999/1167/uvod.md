@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 6. Zakona o poljoprivrednom zemljištu (¯Narodne novineŽ, br. 54/94 - pročišćeni tekst, 48/95 i 19/98) Vlada Republike Hrvatske je na sjednici održanoj 17. lipnja 1999. godine, donijela
