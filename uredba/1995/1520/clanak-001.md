@@ -1,0 +1,7 @@
+# Članak 1.
+U Uredbi o sjedištu i području na kojem se osnivaju policijske uprave ("Narodne novine", broj 48/93) u članku 2. točka mijenja se i glasi:
+"I. POLICIJSKA UPRAVA ZAGREBAČKA sa sjedište u Zagrebu za područje gradova Zagreb, Samobor, Sveti Ivan Zelina, Jastrebarsko, Vrbovec, Velika Gorica i Zaprešić te općine Brdovec, Dugo Selo, Rugvica, Brekovljani, Pušća, Marija Gorica, Sveta Nedjelja, Klinča Sela, Pisarovina, Krašić, Žumberak, Preseka, Rakovec, Gradec, Dubrava, Farkaševac, Jakovlje, Pokupsko, Kravarsko, Orle, Histra, Luka, Dubravica, Bednica Stupnik".
+Točka III. mijenja se i glasi:
+"III. POLICIJSKA UPRAVA SISAČKO-MOSLAVAČKA sa sjedištem u Sisku za područje gradova Sisak, Kutina, Novska i Petrinja te općina Lipovljani, Lekenik, Martinska Ves, Jasenovac, Jabukovac, Popovača, Velika Ludina, Sunja, Ivanić Grad, Kloštar Ivanić, Križ, Glina, Gornji Klasnić, Vojnič, Lasinja, Vrginmost, Topusko, Mečenđani, Donji Kukuruzari, Hrvatska Kostajnica, Utolica, Hrvatska Dubica, Gvozdansko, Dvor i Divuša."
+Točka XIII. mijenja se i glasi:
+"XIII. POLICIJSKA UPRAVA ZADARSKO-KNINSKA sa sjedištem u Zadru za područje gradova Zadar, Biograd na moru i Knin te općine Bibinje, Sukošan, Zemunik Donji, Škabrnja, Poličnik, Posedarje, Novigrad, Starigrad, Ražanac, Nin, Vir, Preko, Kali, Sali, Pašman, Pakoštane, Sveti Filip i Jakov, Jesenice, Kruševo, Obrovac, Nadvoda, Smilčić, Polača, Benkovac, Lisiić, Lišane Ostrovačke, Stankovci, Kistanje, Ervenik, Orlić, Lovinac, Gračac, Donji Lapac, Udbina, Titova Korenica, Smoljanac, Kijevo i Civljane."
