@@ -1,0 +1,2 @@
+# Članak 18.
+Strancima koji dolaze na dužnost u svoja diplomatska ili konzularna predstavništve, kao i druga predstavništva istog ili sličnog ranga, a nemaju status iz članka 12. ovog Pravilnika, kao i članovima njihovih obitelji, predstavništva Republike Hrvatske u inozemstvu će izdavati službene vize samo po prethodnoj suglasnosti Ministarstva inozemnih poslova. Ova viza izdaje se s rokom važenja od 1-3 mjeseca, zavisno od udaljenosti zemlje iz koje osoba dolazi.

@@ -1,0 +1,2 @@
+# Članak 21.
+Strancima na privremenom boravku u Republici Hrvatskoj, nositeljima diplomatskih ili službenih putovnica izvan slučajeva iz članka 12. i 18. ovog Pravilnika, kojima je za ulazak u Republiku Hrvatsku izdata ulazno-izlazna diplomatska ili službena viza, pa je ova istekla, Ministarstvo inozemnih poslova na traženje diplomatskog, a ukoliko ovo ne postoji konzularnog predstavništva, produžava postojeću ili izdaje novu diplomatsku, odnosno službenu vizu.
