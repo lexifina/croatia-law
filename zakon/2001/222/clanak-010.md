@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Ekološka proizvodnja u uzgoju životinja i proizvodnji životinjskih proizvoda obuhvaća zootehniku u stočarstvu i akvakulturi, a cilj joj je ispunjavanje osnovnih fizioloških i etoloških potreba životinja, održavanje raznovrsnosti i održivosti određenog ekološkog sustava.
+(2) Ministar će propisati minimalne zahtjeve zootehnike u uzgoju životinja i proizvodnji životinjskih proizvoda koji obuhvaćaju pravila, tehnike i određene norme uzgoja domaćih životinja, kao što je plan proizvodne jedinice i zapise o proizvodnji glede stručnog nadzora, uvjete prijelaznog razdoblja, vrstu i pasminu životinja, način držanja životinja, zahtjeve u reprodukciji, hranidbi, njezi, liječenju i klanju životinja.

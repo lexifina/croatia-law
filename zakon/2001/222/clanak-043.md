@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ako se u uzgoju bilja i životinja, agrotehnici ili zootehnici, preradi vlakana i ekoloških proizvoda, ocjenjivanju sukladnosti u ekološkoj proizvodnji, pakiranju, rukovanju, skladištenju i prijevozu ekoloških proizvoda ne pridržava odredaba ovoga Zakona i propisa donesenih na temelju njega (članci 9., 10., 11., 12., 13., 19. i 20. stavak 1.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna i odgovorna osoba u pravnoj osobi.
