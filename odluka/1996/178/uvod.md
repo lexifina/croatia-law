@@ -1,0 +1,1 @@
+Na temelju Zakona o porezu na dohodak (Narodne novine 109/93, 95/94, 7/95 i 25/95), članka 46. Zakona o financiranju jedinica lokalne samouprave i uprave (Narodne novine 117/93) i članka 5. Odluke o ustrojstvu i djelovanju upravnih tijela Grada Velike Gorice, Gradsko vijeće Grada Velike Gorice, na svojoj 5. sjednici, održanoj 30. siječnja 1996., donijelo je
