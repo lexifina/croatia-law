@@ -1,0 +1,2 @@
+# Članak 13.
+Ako član posade broda koji vrši međunarodno putovanje, osim radio-telegrafiste ili radio-telefoniste, koji se moraju nalaziti na brodu, napusti brod u stranoj luci, brod može isploviti iz luke i bez tog člana posade do slijedeče luke ill na putovanje koje ne traje duže od 30 dana, pod uvjetom da dužnosti člana posade koji je napustio brod preuzme osoba koja ima svjedodžbu o osposobljenosti za neposredno nižu službu.
