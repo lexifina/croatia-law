@@ -1,0 +1,1 @@
+Na temelju članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske, članka 88. stavka 1. i članka 89. u svezi sa člankom 72. stavkom 3. Zakona o športu ("Narodne novine"; br. 60/92.) Zastupnički dom Sabora Republike Hrvatske, na sjednici 26. ožujka 1993., donio je
