@@ -1,0 +1,4 @@
+# Članak 1.
+Osnovicu za obračunavanje i plaćanje doprinosa i ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike privremeno izvan radnog odnosa iz članka 18. i 19. Zakona o mirovinskom i invalidskom osiguranju jest prosječna bruto plaća koju je osiguranik ostvario u godini 1996.
+Za osiguranike za koje se ne raspolaže podacima o prosječnoj plaći u godini 1996. za osnovicu za obračunavanje i plaćanje doprinosa i za određivanje prava uzima se iznos najniže osnovice za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje.
+Za osiguranike koji su u godini 1996. bili privremeno izvan radnog odnosa osnovica za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja u godini 1997. povećava se za 10% i kao takva iskazana je u bruto iznosu.
