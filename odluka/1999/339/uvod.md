@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 104. Zakona o zdravstvenom osiguranju ("Narodne novine" br. 1/97 - pročišćeni tekst, 109/97, 13/98, 88/98 i 10/99) i članka 14. točke 4. Statuta Hrvatskog zavoda za zdravstveno osiguranje na 9. sjednici održanoj 9. veljače 1999. godine donijelo je
