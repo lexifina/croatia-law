@@ -1,0 +1,7 @@
+# Članak 33.
+Nadzor nad ispravnošću i žigosanjem predmeta od plemenitih kovina u prometu obavlja organ nadzora Zavoda.
+Pri obavljanju nadzora djelatnici koji obavljaju nadzor iz stavka 1. ovoga članka imaju pravo ulaziti u prostorije u kojima se predmeti od plemenitih kovina proizvode, stavljaju u promet ili drže pripremljeni radi stavljanja u promet.
+Poduzeća i druge pravne osobe, te osobe koje samostalno obavljaju privrednu djelatnost u čijim se prostorijama obavlja nadzor iz stavka 1. ovoga članka obvezni su djelatniku organa nadzora Zavoda omogućiti nesmetan pregled žigova, državnog žiga, oznaku čistoće, znaka proizvođača i predmeta od plemenitih kovina koji su stavljeni u promet, drže se pripremljeni radi stavljanja u promet ili su izloženi kao uzorci, te djelatniku organa nadzora Zavoda dati sve potrebne podatke.
+Ako organ nadzora Zavoda pri obavljanju nadzora iz stavka 1. ovoga članka utvrdi da predmet od plemenite kovine koji je stavljen u promet, drži se pripremljen radi stavljanja u promet ili je izložen kao uzorak nije ispravan, odnosno nije žigosan, a prema odredbama ovoga Zakona mora se ispitati i žigosati, donijet će rješenje kojim će zabraniti prodaju predmeta.
+Predmet od plemenite kovine za koji je doneseno rješenje iz stavka 4. ovoga članka mora se odmah povući iz prometa i ne smije se staviti u promet prije žigosanja.
+Protiv rješenja iz stavka 4. ovoga članka ne može se podnijeti žalba, već se može pokrenuti upravni spor.
