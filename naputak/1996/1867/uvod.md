@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o carinskoj tarifi ("Narodne novine", br. 49/96 i 80/96) i točke III. Odluke o sniženju stopa carine za uvoz opreme, uređaja, aparata i vozila i njihovih dijelova u koje su ugrađeni dijelovi proizvedeni u Republici Hrvatskoj ("Narodne novine", br. 63/96), ministar financija u suradnji s ministrom gospodarstva donosi
