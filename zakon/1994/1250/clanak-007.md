@@ -1,0 +1,2 @@
+# Članak 7.
+U cijelom tekstu zakona riječ: "član" zamjenjuje se riječju: "članak", riječ: "stav" riječju: "stavak", riječi: "ovlaštena službena osoba" riječima: "državni službenik", riječ "podnosilac" riječju: "podnositelj", riječ: "zavedena" riječju: "uvedena", riječ: "organa" riječju: "tijela", riječi: "osobna karta" riječima: "osobna iskaznica", riječ: "pasoš" riječju: "putovnica", riječ: "uputstvo" riječju: "naputak", riječ: "prelazne" riječju: "prijelazne" te riječ: "rukovodilac" riječju: "čelnik", sve u odgovarajućem rodu, broju i padežu."

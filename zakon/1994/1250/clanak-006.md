@@ -1,0 +1,4 @@
+# Članak 6.
+Ovjeravanje potpisa, rukopisa i prijepisa obavljat će uredi, ispostave i gradski ured, sve dok ne započne s radom onoliki broj javnih bilježnika koliko ima tih ureda i ispostava, te područnih ureda u Gradu Zagrebu, u kojima su se obavljali ti poslovi na području pojedinog općinskog suda do stupanja na snagu ovoga Zakona, a iznimno sve dok ne započne s radom najmanje po jedan javni bilježnik za područje pojedinog općinskog suda.
+Za obavljanje poslova iz stavka 1. ovoga članka uredi, ispostave i gradski ured naplaćivat će upravnu pristojbu u visini javnobilježničke tarife i javnobilježničke pristojbe.
+Ministar uprave, po prethodno pribavljenom mišljenju ministra pravosuđa, donijet će rješenje o prestanku obavljanja poslova ovjeravanja potpisa, rukopisa i prijepisa za svaki ured, ispostavu i gradski ured kada se ispune pretpostavke iz stavka 1. ovoga članka.
