@@ -1,0 +1,2 @@
+# Članak 59.
+Statutom općine, odnosno grada, u skladu sa zakonom, uredit će se postupak osnivanja, djelokrug i ovlasti organa mjesnog odbora. način izbora i opoziva organa mjesne samouprave, utvrđivanje programa rada mjesnog odbora, osnove pravila mjesnog odbora, način financiranja njihove djelatnosti, obavljanje administrativnih i drugih poslova za njihove potrebe, te druga pitanja važna za ostvarivanje njihovih prava i obveza utvrđenih zakonom, statutom općine odnosno grada i drugim općim aktom općinskog odnosno gradskog vijeća.

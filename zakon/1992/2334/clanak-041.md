@@ -1,0 +1,4 @@
+# Članak 41.
+Poglavarstvo jedinice lokalne samouprave priprema prijedloge općih akata, izvršava ili osigurava izvršavanje općih akata predstavničkog tijela jedinice lokalne samouprave. usmjerava djelovanje upravnih tijela jedinice lokalne samouprave u obavljanju poslova iz njihovog samoupravnog djelokruga odnosno poslova državne uprave koji se obavljaju u jedinici lokalne samouprave, nadzire njihov rad, obavlja i druge poslove utvrdene statutom jedinice lokalne samouprave.
+Poglavarstvo upravlja nekretninama i pokretninama u vlasništvu jedinice lokalne samouprave kao i njezinim prihodima i rashodima, u skladu sa zakonom i statutom jedinice lokalne samouprave.
+Članovi poglavarstva nemaju pravo odlučivanja o pitanjima iz stavka 2. ovoga članka kad su osobno ili preko članova uže obitelji zainteresirana strana.
