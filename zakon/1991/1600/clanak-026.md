@@ -1,0 +1,2 @@
+# Članak 26.
+Danom stupanja na snagu Zakona o izmjenama i dopunama Zakona o članarinama i turističkim zajednicama ("Narodne novine" br. 109/93.) prestaje važiti Uredba o izmjenama i dopunama Zakona o članarinama u turističkim zajednicama ("Narodne novine", br. 73/93.) i stavlja se izvan snage točke 28. Uredbe o nastavljanju važenja pravnoga sadržaja i učinka određenih uredbi Vlade Republike Hrvatske na temelju zakonske ovlasti ("Narodne novine", br. 100/93.)

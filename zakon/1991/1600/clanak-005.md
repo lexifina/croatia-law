@@ -1,4 +1,6 @@
 # Članak 5.
-Prema pokazateljima iz članka 4. ovoga zakona, Turistička mjesta razvrstavaju se u razrede: A, B, C. i D:
-Akt o razvrstavanju turističkih mjesta donosi ministar turizma.
-Ovaj akt objavljuje se u "Narodnim novinama".
+Turističko mjesto razvrstava se u razred B ako njegove pojedinačne vrijednosti pokazatelja (članak 2. stavak 1. točka 1, 2. i 3.) prelaze najmanje dvije od tri granične vrijednosti pokazatelja.
+Granične vrijednosti pokazatelja za razvrstavanje u razred B su:
+a) dvostruka srednja vrijednost pokazatelja iz članka 2. stavak 1. točka 1. ovoga zakona,
+b) dvostruka srednja vrijednost pokazatelja iz članka 2. stavak 1 točke 2. ovoga zakona,
+c) srednja vrijednost pokazatelja iz članka 2 stavak 1. točka 3. ovoga zakona.
