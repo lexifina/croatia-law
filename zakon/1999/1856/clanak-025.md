@@ -1,0 +1,2 @@
+# Članak 25.
+Društva za osiguranje koja su prema odredbama Zakona o osiguranju ("Narodne novine", br. 9/94., 20/97. i 46/97. - pročišćeni tekst) obavljala poslove mirovinskog osiguranja, mogu nastaviti obavljati ove poslove, uz obvezu da svoju organizaciju i poslovanje, usklade s odredbama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje i Zakona o obveznim i dobrovoljnim mirovinskim fondovima, do 31. prosinca 2000.
