@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o elektroprivredi ("Narodne novine", br. 31/90., 47/90., 26/93. i 78/94.) u članku 5. dodaje se novi stavak koji glasi:
+"Tehničke propise, koji se odnose na temeljne zahtjeve u svezi s objektima (postrojenja i vodovi) elektroenergetskog sustava, a kojima se utvrđuju značajke koje bitno utječu na život, sigurnost i zdravlje ljudi, te na zaštitu potrošača električne energije, donosi ministar gospodarstva uz prethodno mišljenje ministra prostornog uređenja, graditeljstva i stanovanja, ministra zdravstva te ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo i Državne uprave za zaštitu prirode i okoliša."
