@@ -1,0 +1,1 @@
+Na temelju članka 8. stavaka 9. i 10. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 44/96, 57/96, 124/97, 73/2000 i 88/2002), Vlada Republike Hrvatske je na sjednici održanoj 20. ožujka 2003. godine, donijela
