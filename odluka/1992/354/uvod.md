@@ -1,0 +1,1 @@
+Na osnovi članka 37. Zakona o mirovinskom i invalidskom osiguranju ("Narodne novine", br. 26/83, 5/86, 42/87, 34/89, 57/89, 40/90 i 9/91) i članka 6. točke 1. Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, na sjednici održanoj 10. ožujka 1992, donosi
