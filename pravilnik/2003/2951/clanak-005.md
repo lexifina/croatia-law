@@ -1,0 +1,3 @@
+# Članak 5.
+U bolničkim zdravstvenim ustanovama koje nemaju mogućnost dovršenja postupka potvrđivanja moždane smrti, liječnici su dužni u skladu s medicinskim kriterijima, započeti postupak utvrđivanja moždane smrti i osigurati prijevoz bolesnika u zdravstvenu ustanovu u kojoj će se nastaviti postupak potvrđivanja moždane smrti, odnosno s koordinatorom Programa dogovoriti dolazak mobilnog tima za potvrdu moždane smrti, ako je isti dostupan.
+U slučaju prijevoza bolesnika, obrazac zapisnika o utvrđivanju moždane smrti sa izvršenim postupcima treba priložiti ostaloj medicinskoj dokumentaciji bolesnika koja se dostavlja zdravstvenoj ustanovi iz stavka 1. ovoga članka.

@@ -1,0 +1,3 @@
+# Članak 4.
+Liječnik u jedinici intenzivnoga liječenja, koji je primio bolesnika u komi u skladu s kriterijima iz članka 3. ovoga Pravilnika mora u skladu s medicinskim kriterijima provesti kliničke postupke utvrđivanja moždane smrti te o nalazu odmah obavijestiti koordinatora za eksplantaciju u zdravstvenoj ustanovi (u daljnjem tekstu: bolnički koordinator), koji poduzima daljnje postupke u vezi potvrđivanja moždane smrti.
+Liječnik iz stavka 1. ovoga članka obvezan je ispuniti Zapisnik o utvrđivanju moždane smrti na obrascu koji je tiskan u Prilogu II. ovoga Pravilnika i čini njegov sastavni dio.

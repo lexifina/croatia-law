@@ -1,0 +1,2 @@
+# Članak 7.
+Bolnički koordinator mora najkasnije u roku od 60 minuta nakon ispunjenja propisanih uvjeta za darivanje i presađivanje organa, u pisanom obliku, elektroničkim putem ili na drugi odgovarajući način dostaviti koordinatoru Programa obrazac Podaci o darivatelju, tiskanom u Prilogu IV. koji je sastavni dio ovoga Pravilnika te Referentnom centru presliku krvne grupe, a u svrhu poduzimanja daljnjih postupaka za uzimanje i presađivanje organa i tkiva.

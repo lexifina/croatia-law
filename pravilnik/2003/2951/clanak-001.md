@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom utvrđuju se podaci i način vođenja dokumentacije bolničkih zdravstvenih ustanova o mogućim darivateljima dijelova ljudskog tijela radi presađivanja s umrle osobe te način i rokovi dostave podataka iz te dokumentacije koordinatoru Eksplantacijskog programa pri Ministarstvu zdravstva (u daljnjem tekstu: koordinator Programa), odnosno Referentnom centru Ministarstva zdravstva za tipizaciju tkiva (u daljnjem tekstu: Referentni centar).

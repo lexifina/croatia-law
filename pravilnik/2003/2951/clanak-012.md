@@ -1,0 +1,3 @@
+# Članak 12.
+Prilikom prijenosa organa izvan/u Republiku Hrvatsku koordinator Programa dužan je izvijestiti carinsku ispostavu i popuniti obrazac Potvrda o prelasku transplantacijskog tima i/ ili prijenosu ljudskog organa iz/u Republiku Hrvatsku isključivo u svrhu transplantacije koji je tiskan u Prilogu XI. ovoga Pravilnika i čini njegov sastavni dio.
+Obrazac iz stavka 1. ovoga članka koordinator Programa ispunjava u tri primjerka i ovjerava ga svojim potpisom te jedan primjerak dostavlja u pisanom obliku, elektroničkim ili drugim odgovarajućim putem carinskoj ispostavi, drugi primjerak prati organ, a treći ostaje u arhivi Ministarstva zdravstva.
