@@ -1,0 +1,2 @@
+# Članak 9.
+Vlada Republike Hrvatske može na prijedlog nadležnog ministarstva povećati poticajne mjere, porezne i carinske povlastice uređene ovim Zakonom, produžiti vrijeme za prijenos gubitka iz prethodnoga obračunskog razdoblja na najviše 10 godina, u slučaju ulagačkih pothvata od posebnoga gospodarskog interesa, uzimajući u obzir značaj ulaganja za ukupan gospodarski razvoj i zapošljavanje, ravnomjerni regionalni razvoj, razvoj područja od posebne državne skrbi i razvoj same gospodarske grane u koju se ulaže.

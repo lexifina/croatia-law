@@ -1,0 +1,8 @@
+# Članak 10.
+(1) Pravne i fizičke osobe koje namjeravaju podnijeti zahtjev za odobrenje korištenja poticajnih mjera, poreznih i carinskih povlastica na temelju ovoga Zakona o načinu, vrsti i iznosu poticajnih mjera, poreznih i carinskih povlastica pisano izvješćuju Ministarstvo i Ministarstvo financija - Poreznu upravu.
+(2) Na temelju podnesenoga prethodnog izvješća Ministarstvo će, u suradnji s Ministarstvom financija i ministarstvima u čiji djelokrug spada predviđeno ulaganje, ocijeniti može li takvo ulaganje biti temelj za ostvarivanje poticajnih mjera poreznih i carinskih povlastica i o svom stajalištu izvijestiti podnositelja najkasnije u roku 30 dana od primitka prethodnog izvješća.
+(3) Nositelji poticajnih mjera, poreznih i carinskih povlastica dužni su tijekom razdoblja korištenja tih mjera i povlastica podnositi godišnje pisano izvješće Ministarstvu i Ministarstvu financija - Poreznoj upravi.
+(4) Godišnja izvješća iz stavka 3. ovoga članka podnose se do kraja ožujka tekuće godine za proteklu kalendarsku godinu.
+(5) Ako nositelj poticajnih mjera, poreznih i carinskih povlastica ne podnese izvješće u roku iz stavka 4. ovoga članka prestaje mu pravo korištenja odobrenih poticajnih mjera i povlastica.
+(6) Obvezni sadržaj izvješća iz stavka 1. i 3. ovoga članka uredbom propisuje Vlada Republike Hrvatske.
+(7) Ministarstvo financija - Porezna uprava prema ukazanoj potrebi može obavljati neposredno kontrolu i provjeru korištenja poticajnih mjera, poreznih i carinskih povlastica kod nositelja poticajnih mjera radi otkrivanja i sankcioniranja eventualnih nepravilnosti i nezakonitosti.
