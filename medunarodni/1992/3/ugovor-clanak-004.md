@@ -1,0 +1,2 @@
+# Članak 4.
+Sva plaćanja između dviju država obavljat će se u slobodnoj konvertibilnoj valuti u skladu sa zakonima i pravilima devizne kontrole koji vrijede u svakoj od dviju država. Radi povećanja robnog prometa i radi proširivanja njegove nomenklature, pravne i fizičke osobe mogu ostvarivati uzajamno povezane trgovinske operacije, uključujući poslove na kompenzacijskoj osnovici; u okvirima zakonodavstva koje vrijedi u Republici Hrvatskoj i u Ruskoj Federaciji.

@@ -1,0 +1,1 @@
+Na temelju članka 110. Ustava Republike Hrvatske i članka 32. stavak 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine«, br. 53/91 i 73/91), Vlada Republike Hrvatske na sjednici održanoj 2. listopada 1992. godine, donijela je
