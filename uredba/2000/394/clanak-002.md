@@ -1,0 +1,4 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+|  |  | Y | X TOEKA P2 | 6 379 182.59 | 4 807 786.56 TOEKA R2 | 6 379 185.51 | 4 807 781.83 TOEKA S2 | 6 379 185.33 | 4 807 781.04 TOEKA T2 | 6 378 179.98 | 4 807 773.78 TOEKA U2 | 6 379 176.96 | 4 807 765.21 TOEKA V2 | 6 379 176.31 | 4 807 760.18 TOeKA Z2 | 6 379 178.11 | 4 807 752.80 TOEKA A5 | 6 379 200.64 | 4 807 796.84 TOEKA B5 | 6 379 214.14 | 4 807 794.21 TOEKA C5 | 6 379 219.60 | 4 807 802.56 TOEKA A | 6 379 245.24 | 4 807 823.56 TOEKA B | 6 379 251.04 | 4 807 818.64 TOEKA A1 | 6 379 263.82 | 4 807 803.27
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Rogoznica, broj lista plana 47, u mjerilu 1:1000 i na snimci stvarnog stanja u mjerilu 1:500.
