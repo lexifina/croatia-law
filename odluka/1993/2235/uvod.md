@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 1. Zakona o posebnim pristojbama pri uvozu poljoprivrednih i prehrambenih proizvoda ("Narodne novine", broj 53/91), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1993. godine donijela
