@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o službenim sjedištima javnih bilježnika ("Narodne novine", broj 38/94, 82/94, 50/95, 62/95, 79/95, 86/95 i 32/96) u članku 9. prema kojem je Raspored javnobilježničkih službenih mjesta i sjedišta njegov sastavni dio u Rasporedu pod rednim brojem 13. u ZADARSKOJ ŽUPANIJI kod nadležnosti Općinskog suda u Zadru u koloni "Službeno sjedište javnog bilježnika" u ravnini mjesta Zadar brojka "5" zamjenjuje se brojkom "6", dok se u istoj koloni briše mjesto "Posedarje" kao i brojka "1" u njegovoj ravnini.
