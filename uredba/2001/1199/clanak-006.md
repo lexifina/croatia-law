@@ -1,0 +1,2 @@
+# Članak 6.
+Odjeljak za administrativne i tehničke poslove obavlja administrativne, tehničke i pomoćne poslove Ministarstva koji se odnose na pisarnicu, prijepis i umnožavanje materijala, poslove prijema i otpreme pošte, dostave, fotokopiranja, arhiviranje i čuvanje arhivske građe koja nastaje radom u Ministarstvu, poslove službenog prijevoza, telefonista, održavanja zgrade i tehničkih pomagala, čišćenja i druge poslove iz svoga djelokruga i poslove koje odredi tajnik Ministarstva i ministar.
