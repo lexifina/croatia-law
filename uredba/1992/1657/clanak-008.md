@@ -1,0 +1,3 @@
+# Članak 8.
+Ako bi zbog dugotrajnosti postupka u svezi s podnesenim zahtjevom za propisivanje dopunske carine mogla nastupiti znatna šteta za hrvatsko gospodarstvo u cjelini ili u odgovarajućoj gospodarskoj grani, ministar turizma i trgovine u suglasnosti s ministrom industrije, brodogradnje i energetike i ministvom financija može odrediti kontingent na uvoz odgovarajuće robe iz odnosne zemlje.
+Kontingenti iz stavka 1. ovoga članka propisuju se za razdoblje koje ne može biti dulje od šest mjeseci, počev od dana kada je Hrvatska gospodarske komora dostavila Ministarstvu financija svoje mišljenje u svezi s propisivanjem dopunske carine.
