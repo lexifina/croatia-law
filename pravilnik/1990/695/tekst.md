@@ -1,0 +1,6 @@
+o dopuni Pravilnika o preglednosti na željezničku prugu s obje strane ceste i načinu osiguranja cestovnih prijelaza i križanja gradskih željeznica s prigradskim i industrijskim željeznicama
+Član 1.
+U Pravilniku o preglednosti na željezničku prugu s obje strane ceste i načinu osiguranja cestovnih prijelaza i križanja gradskih željeznica s prigradskim i industrijskim željeznicama ("Narodne novine", br.16/81) iza člana 12. dodaje se novi član 12a. koji glasi: "Član 12a. Iznimno od odredbe člana 12. ovoga, pravilnika, ako je tehnički neizvedivo ili zbog konfiguracije terena i izgrađenih masivnih objekata otežano ostvariti propisani trokut preglednosti, preglednost na željezničku prugu računa se od postavljenog prometnog znaka "obaveznog zaustavljanja", koji se postavlja na najmanjoj udaljenosti 3 m od najbliže šine (slika br. 6). Tehničku neizvedivost odnosno otežano ostvarivanje propisanog trokuta preglednosti iz stava 1. ovoga člana, za svaki cestovni prijelaz posebno, utvrđuje komisija na temelju neposrednog uvida, a pri svojoj ocjeni se rukovodi ekonomskom opravdanošću.
+Komisiju od tri člana iz stava 2. ovoga člana imenuju republički organ uprave nadležan za poslove prometa na prijedlog nadležne samoupravne interesne zajednice za ceste".
+Član 2.
+Ovaj pravilnik stupa na snagu osmoga dana nakon objave u "Narodnim novinama".

@@ -1,0 +1,1 @@
+Na temelju člana 17. stava 3. i člana 22. stava 7. Zakona o željeznicama ("Narodne novine", br. 18/79, 4/81, 20/84 i 57/89), u suglasnosti s ministrom unutrašnjih poslova, ministar prometa i veza donosi
