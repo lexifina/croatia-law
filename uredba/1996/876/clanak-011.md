@@ -1,0 +1,3 @@
+# Članak 11.
+Do sklapanja ugovora iz članka 7. ove Uredbe i izbora svih članova Nadzornog vijeća iz članka 10. stavka 3. ove Uredbe, Agencijom upravlja Nadzorno vijeće kojeg čine članovi iz članka 10. stavka 2. ove Uredbe.
+U roku od 30 dana od dana stupanja na snagu ove Uredbe, Nadzorno vijeće iz članka 10. stavka 2. ove Uredbe donijet će Statut Agencije kao i druge potrebne akte za rad Agencije. Ti će se akti primjenjivati sve dok Nadzorno vijeće, konstituirano od članova iz članka 10. stavka 2. i članka 10. stavka 3., ne donese odluku kojom potvrđuje postojeći Statut ili ne donese novi Statut i druge akte Agencije.

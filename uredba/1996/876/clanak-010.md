@@ -1,0 +1,5 @@
+# Članak 10.
+Agencijom upravlja Nadzorno vijeće, koje se sastoji od osam (8) članova.
+Članovi Nadzornog vijeća po položaju su: predsjednik Vlade Republike Hrvatske, potpredsjednik Vlade Republike Hrvatske za gospodarstvo, ministar vanjskih poslova i ministar gospodarstva.
+Ostali osnivači Agencije imenovati će u Nadzorno vijeće četiri člana i to na mandatno razdoblje od jedne godine, s mogućnošću ponovnog izbora za najviše još jednu godinu. Način izbora ovih članova Nadzornog vijeća pobliže će se odrediti Statutom Agencije.
+Nadzornom vijeću predsjedati će i njegovim radom rukovoditi predsjednik Vlade Republike Hrvatske, koji će u slučaju podijeljenog broja glasova imati odlučujući glas. U njegovoj odsutnosti, Vijeću će predsjedati potpredsjednik Vlade Republike Hrvatske za gospodarstvo, s istim pravima. Da bi Nadzorno vijeće moglo odlučivati, sjednici mora prisustvovati većina njegovih članova, a odluke se donose većinom glasova prisutnih članova. Članove Vijeća mogu na sastanku Vijeća zamijeniti po njima opunomoćeni zastupnici.
