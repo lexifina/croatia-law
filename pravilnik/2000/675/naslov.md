@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za dobivanje ovlaštenja za obavljanje poslova posredovanja i zastupanja u osiguranju (status ovlaštenog posrednika u osiguranju ili ovlaštenog za
