@@ -1,0 +1,1 @@
+Na temelju članka 2. točka 1. Zakona o ovlaštenjima Vlade Republike Hrvatske da propisuje privremene mjere za zaštitu gospodarskih interesa Republike ("Narodne novine", broj 52/90) Vlada Republike Hrvatske donosi
