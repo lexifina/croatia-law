@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 34. stavak I. alineja 11. Statuta Grada Nova Gradiška (»Novogradiški glasnik«, broj 7/01), Gradsko vijeće Grada Nova Gradiška na 5. sjednici, održanoj 22. studenoga 2001. godine, donijelo je
