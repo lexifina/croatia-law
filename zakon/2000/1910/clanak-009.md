@@ -1,0 +1,2 @@
+# Članak 9.
+Ratni vojni invalid, mirnodopski vojni invalid i civilni invalid rata I., II., III. i IV. skupine kojem je svojstvo priznato po Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ili po Zakonu o zaštiti vojnih i civilnih invalida rata, ima pravo na povlasticu u unutarnjem putničkom prometu za četiri putovanja godišnje željeznicom ili brodom uz povlasticu od 75% od redovne cijene vozne karte.
