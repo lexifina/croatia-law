@@ -1,0 +1,2 @@
+# Članak 33.
+Obveznici plaćanja doprinosa za mirovinsko osiguranje iz članka 145. stavka 1. točke 3., 4. i 5. Zakona dužni su pri uplati doprinosa na naknade plaće, odnosno, na osnovice osiguranja, dostaviti Zavodu specifikaciju uplata za svakog osiguranika i to: prema matičnom broju poslodavca, jedinstvenom matičnom broju građana, prezimenu i imenu osiguranika, visini isplaćene naknade, razdoblju na koje se naknada odnosi te svoti uplaćenog doprinosa za mirovinsko osiguranje.

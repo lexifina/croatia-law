@@ -1,0 +1,2 @@
+# Članak 20.
+Osiguranicima - slijepim osobama, osobama oboljelim od distrofije i srodnih mišićnih i neuromišićnih bolesti, oboljelima od paraplegije, cerebralne i dječje paralize, multipleks skleroze, reumatskog artritisa, gluhim osobama te osobama kod kojih postoji funkcionalni poremećaj zbog kojih se ne mogu samostalno kretati bez uporabe invalidskih kolica, osnovica za obračun i plaćanje doprinosa za staž koji se računa s povećanim trajanjem, jest plaća.

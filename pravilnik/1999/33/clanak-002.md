@@ -1,0 +1,4 @@
+## 1. PLAĆANJE I OBRAČUNAVANJE DOPRINOSA ZA ZAPOSLENIKE I S NJIMA IZJEDNAČENE OSOBE
+# Članak 2.
+Za zaposlenike i s njima, prema posebnim propisima izjednačene osobe (članak 10. stavak 1. točka 1. Zakona), za osobe koje su izabrane ili imenovane na dužnost u tijelima državne vlasti, jedinicama lokalne uprave i samouprave i jedinicama lokalne samouprave, ako za taj rad primaju plaću (članak 10. stavak 1. točka 2. Zakona) za osobe - strane državljane i osobe bez državljanstva, koji su zaposleni na teritoriju Republike Hrvatske, ako međunarodnim ugovorom nije drukčije određeno (članak 10. stavak 1. točka 5. Zakona), osnovica za obračunavanje i plaćanje doprinosa jest plaća (članak 141. točka 1. Zakona).
+Odredbe stavka 1. ovoga članka odnose se i na zaposlenike koje je poslodavac uputio u inozemstvo radi obavljanja određenih poslova, koji su zasnovali radni odnos kod poslodavca čije je sjedište u Republici Hrvatskoj, a koji obavlja djelatnost u inozemstvu.

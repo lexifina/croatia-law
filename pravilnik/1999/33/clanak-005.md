@@ -1,0 +1,6 @@
+# Članak 5.
+Za obveznike koji svoje poslovanje vode preko organizacije ovlaštene za poslove platnog prometa, obveza plaćanja doprinosa iz plaće i na plaću za osiguranike iz članka 2. Pravilnika dospijeva na dan podizanja sredstava za plaće, a ako plaća nije isplaćena, petnaestoga dana u mjesecu za prethodni mjesec. (članak 147. stavak 2. Zakona).
+Obveznik plaćanja doprinosa koji nije isplatio plaću u roku dospijeća iz prethodnog stavka, dužan je obračunati i uplatiti doprinos na najnižu osnovicu (članak 143. stavak 2. Zakona) petnaestog dana u mjesecu za prethodni mjesec.
+Doprinos koji je obveznik plaćanja doprinosa obračunao i uplatio na najnižu osnovicu, smatra se dijelom doprinosa koji se konačno obračunava pri isplati neisplaćenih plaća.
+Obveza plaćanja doprinosa za osiguranike - zaposlenike koje je poslodavac uputio u inozemstvo radi obavljanja određenih poslova (članak 2. stavak 2. ovoga Pravilnika) dospijeva na dan podizanja sredstava za plaće zaposlenika u sjedištu poslodavca u Republici Hrvatskoj.
+Obveza plaćanja doprinosa na isplaćenu naknadu plaće dospijeva posljednjega dana u mjesecu u kojem je naknada isplaćena ako se naknada izravno isplaćuje osiguraniku od strane nadležnih tijela (članak 147. stavak 2. točka 3. Zakona) odnosno na dan povrata isplaćene naknade (refundacije) isplatitelju naknade plaće.

@@ -1,0 +1,4 @@
+# Članak 13.
+Obračunavanje i plaćanje doprinosa za osiguranike iz članka 7. ovoga Pravilnika na naknade plaće (članak 141. točka 2. Zakona) obavlja se na isti način kao za zaposlenike, osim za slučajeve iz članka 4. točke 7., 8. i 9. ovoga Pravilnika.
+Iznimno od odredbe stavka 1. ovog članka, za hrvatske državljane koji su u Republici Hrvatskoj zaposleni kod stranih diplomatskih, konzularnih i drugih međunarodnih predstavništava ili u osobnoj službi kod stranih državljana koji imaju pravo na naknadu plaće za rad s polovicom radnog vremena, odnosno dopust do sedme godine djetetovog života zbog njege teže hendikepiranog djeteta (članak 66. Zakona o radu) plaća se doprinos za mirovinsko osiguranje na isplaćenu naknadu plaće.
+Ako se doprinos za osiguranike iz članka 7. ovoga Pravilnika treba obračunati za razdoblje manje od mjesec dana, za svaki kalendarski dan uzima se 1/30 mjesečne svote doprinosa.
