@@ -1,0 +1,2 @@
+# Članak 13.
+Osigurane osobe koje koriste zdravstvenu zaštitu u zemljama s kojima Republika Hrvatska nema zaključene međunarodne sporazume ili sklopljene ugovore o socijalnom osiguranju, i koji tu zdravstvenu zaštitu koriste putem hrvatskih konzularno-diplomatskih predstavništava, sudjeluju u pokriću dijela troškova zdravstvene zaštite u visini deseterostrukog iznosa propisanog ovom Odlukom, ako sudjelovanje nije utvrđeno u određenom postotku od cijene pojedinog oblika zdravstvene zaštite.

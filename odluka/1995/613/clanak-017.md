@@ -1,0 +1,3 @@
+# Članak 17.
+Iznimno od odredbe članka 16. stavke 2. ove Odluke, ako osiguranik za mjesec koji prethodi mjesecu podnošenja zahtjeva za oslobađanje od sudjelovanja u pokriću dijela troškova zdravstvene zaštite ne može iskazati svoj ukupan prihod zbog neisplaćene plaće, pravo na oslobađanje utvrdit će se na osnovi prihoda iskazanog za posljednji mjesec koji prethodi mjesecu podnošenja zahtjeva.
+Ako se pravo na oslobađanje utvrđuje sukladno stavci 1. ovog članka to se pravo utvrđuje prema imovinskim cenzusima iz članka 18. i 19. ove Odluke koji su vrijedili za mjesec za koji je iskazan i ukupan prihod.

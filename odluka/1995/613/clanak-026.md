@@ -1,0 +1,2 @@
+# Članak 26.
+Doktor medicine primarne zdravstvene zaštite obvezan je prigodom propisivanja lijeka na recept, odnosno izdavanja uputnice za korištenje specijalističko-konzilijarne i bolničke zdravstvene zaštite, na osnovi podataka iz isprave kojom se dokazuje status osigurane osobe Zavoda, odnosno potvrde iz članka 24., te odredaba članka 15. točke 1. do 5. ove Odluke naznačiti na receptu, odnosno uputnici da je osigurana osoba oslobođena sudjelovanja u pokriću dijela troškova zdravstvene zaštite.
