@@ -1,0 +1,1 @@
+Na temelju članka 59. st. 2. Zakona o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 128/99) i članka 48. stavak 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 48/99 i 15/00) ravnatelj Državne geodetske uprave, donosi
