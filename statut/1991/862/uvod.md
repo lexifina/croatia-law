@@ -1,0 +1,1 @@
+Na osnovi Zakona o agenciji Republike Hrvatske za restrukturiranje i razvoj ("Narodne novine" br. 18/90, 47/90, 19/91) Upravni odbor, na sjednici održanoj dana 15. svibnja 1991. uz suglasnost Vlade Republike Hrvatske od dana 14. lipnja 1991. godine donosi:
