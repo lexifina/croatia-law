@@ -1,0 +1,2 @@
+# Članak 3.
+Nalog za službeno putovanje izdaje ovlaštena osoba, na temelju rješenja rukovoditelja organa. Nalog za službeno putovanje, osim naznake rješenja na temelju kojega se izdaje, sadrži osobito: ime i prezime osobe koja putuje, poslove i zadatke što ih obavlja, cilj putovanja, naziv države i mjesto u koje putuje, dan polaska i povratka odnosno trajanje službenog putovanja, kategoriju hotela u kojem će odsjesti. vrstu prijevoza koji će upotrebljavati, da li su osigurani besplatni smještaj i hrana te uz koje se uvjete izdaci za službeno putovanje mogu obračunati.

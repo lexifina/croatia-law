@@ -1,0 +1,2 @@
+# Članak 9.
+Ako se izdaci za službeno putovanje u inozemstvo obračunavaju dnevnicom, jedna dnevnica obračunava se za svaka 24 sata provedena na službenom putovanju u inozemstvu, a i za ostatak vremena duži od 12 sati. Za ostatak vremena od osam od 12 sati obračunava se pola dnevnice. Za izdatke za službeno putovanje koje traje duže od 12 sati obračunava se jedna dnevnica. a za službeno putovanje koje traje duže od osam sati pola dnevnice.
