@@ -1,0 +1,3 @@
+# Članak 3.
+Očevidnik o postupku dopuštanja sklapanja braka osobi lišenoj poslovne sposobnosti ili osobi nesposobnoj za rasuđivanje propisan je na obrascu DSB-2 i sastavni je dio ovog Pravilnika.
+U obrazac DSB-2 ispisuju se sljedeći podaci: ime i prezime osobe lišene poslovne sposobnosti ili nesposobne za rasuđivanje koja traži dopuštenje za sklapanje braka, ime i prezime njezinog skrbnika, ime i prezime osobe s kojom namjerava sklopiti brak, datum i mjesto rođenja nevjeste i ženika, datum primitka prijedloga, mišljenje skrbnika, broj i datum mišljenja centra za socijalnu skrb, broj i datum odluke suda.
