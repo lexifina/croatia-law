@@ -1,0 +1,4 @@
+# Članak 54.
+(1) Svaka država ugovornica priznat će kao obaveznu odluku donesenu na osnovi ove Konvencije i provesti na svojem teritoriju novčane obveze određene tom odlukom kao da je to konačna presuda suda te države. Država ugovornica koja ima federalno uređenje može provesti takvu odluku preko svog saveznog suda, a može i predvidjeti da savezni sudovi postupaju s takvom odlukom kao da je ona konačna presuda države članice.
+(2) Stranka koja traži priznanje ili provedbu na teritoriju države ugovornice, dostavit će nadležnom sudu ili drugom organu kojeg ta država odredi za tu svrhu, prijepis odluke koji je ovjerio generalni tajnik. Svaka država ugovornica obavijestit će generalnog tajnika koji je nadležni sud ili drugi organ odredila u tu svrhu, kao i kasnijim izmjenama u tom pogledu.
+(3) Za provedbu odluke važe propisi o provedbi presude koji su na snazi u državi na čijem se teritoriju traži provedba.

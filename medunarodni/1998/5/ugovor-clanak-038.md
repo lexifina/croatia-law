@@ -1,0 +1,2 @@
+# Članak 38.
+Ako se Sud ne ustanovi u roku od 90 dana od dana kad je generalni tajnik obavijestio stranke o registriranju zahtjeva sukladno članku 36. stavak (3) ili u roku koji su stranke odredile na zahtjev jedne ili druge stranke i nakon što konzultira obje stranke u mjeri u kojoj je to moguće, predsjednik će imenovati arbitra, odnosno arbitre koji još nisu imenovani. Arbitri koje imenuje predsjednik sukladno ovom članku ne mogu biti državljani države ugovornice koja je stranka u sporu ili države ugovornice čiji je državljanin stranka u sporu.

@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Generalnog tajnika i bilo kojeg od zamjenika generalnog tajnika bira Administrativno vijeće dvotrećinskom većinom članova, na prijedlog predsjednika, najduže za razdoblje od šest godina, sa mogućnošću ponovnog izbora. Nakon dogovora sa članovima Administrativnog vijeća, predsjednik predlaže jednog ili više natjecatelja za svaku od ovih funkcija.
+(2) Funkcija generalnog tajnika i zamjenika generalnog tajnika nije spojiva s obavljanjem neke političke funkcije. Generalni tajnik i zamjenik generalnog tajnika mogu se zaposliti ili prihvatiti neki drugi posao samo ako to odobri Administrativno vijeće.
+(3) Kad je generalni tajnik odsutan ili spriječen u obavljanju svojeg posla i kad je položaj tajnika upražnjen, dužnost generalnog tajnika obavljat će zamjenik generalnog tajnika. Ako ima više zamjenika generalnog tajnika, Administrativno vijeće određuje unaprijed redoslijed kojim oni obavljaju dužnosti generalnog tajnika.
