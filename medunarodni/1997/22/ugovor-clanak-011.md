@@ -1,0 +1,2 @@
+# Članak 11.
+Obje strane nastojat će riješiti sve sporove pregovorima ili na neki drugi način koji dogovore. Ako dvije vlade ne uspiju postići rješenje pregovorima, spor će biti upućen na arbitražu i riješit će ga arbitar kojeg odrede dvije vlade. Odluka arbitra konačna je i obvezujuća za obje vlade. Ako se vlade ne uspiju sporazumjeti glede arbitra, arbitra će na zahtjev jedne od vlada imenovati predsjednik Međunarodnog suda.

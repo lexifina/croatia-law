@@ -1,0 +1,4 @@
+# Članak 1.
+Odredbe ovog Sporazuma primjenjuju se na:
+a) Komercijalne kredite koje je garantirala ili osigurala Garancijska agencija za kreditiranje izvoza - Guarantee Institute for Export Credits, Oslo, Norveška (u daljnjem tekstu »GIEK«), s izvornim dospijećem preko jedne godine, koji su dani u skladu s ugovorom ili nekim drugim financijskim sporazumom zaključenim prije 2. prosinca 1982. godine.
+b) Otplata duga koji dospijeva na temelju dvostranih sporazuma o konsolidaciji potpisanih 5. prosinca 1984. (Usklađeni zapisnik od 22. svibnja 1984. godine), 23. travnja 1986. (Usklađeni zapisnik od 24. svibnja 1985. godine), 4. svibnja 1987. (Usklađeni zapisnik od 13. svibnja 1986. godine) i 2. veljače 1989. (Usklađeni zapisnik od 13. srpnja 1988. godine) između Vlade Norveške i Saveznog izvršnog vijeća Socijalističke Federativne Republike Jugoslavije.
