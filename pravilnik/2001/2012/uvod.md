@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 2. Zakona o posebnom porezu na naftne derivate (»Narodne novine«, broj 55/2000., 101/2000., 27/2001. i 107/2001.), ministar financija uz prethodno mišljenje ministra poljoprivrede i šumarstva donosi
