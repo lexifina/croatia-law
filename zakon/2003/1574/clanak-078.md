@@ -1,0 +1,3 @@
+# Članak 78.
+(1) Postupci ostvarivanja i zaštite prava radnika, započeti prije stupanja na snagu ovoga Zakona, dovršit će se po odredbama Zakona o radu (»Narodne novine«, br. 38/95., 54/95., 65/95.,17/01. i 82/01.), ako ovim Zakonom određeno pravo nije za radnika povoljnije.
+(2) Radnik koji je prije stupanja na snagu ovoga Zakona otpočeo koristiti pravo na porodni dopust iz članka 58. stavka 4. ili pravo na rad s polovicom radnog vremena iz članka 59. stavka 1. Zakona o radu (»Narodne novine«, br. 38/95., 54/95., 65/95.,17/01. i 82/01.) može koristiti pravo na rad s polovicom radnog vremena prema uvjetima utvrđenim člankom 17. ovoga Zakona.
