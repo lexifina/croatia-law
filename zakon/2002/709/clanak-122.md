@@ -1,0 +1,3 @@
+# Članak 122.
+Tajni podaci obrane mogu se obrađivati i prenositi informatičko-telekomunikacijskim i drugim komunikacijskim sustavima i sredstvima samo ako se tom prilikom ostvaruje zajamčena sigurnost i tajnost tih podataka. Pri prijenosu i obradi tajnih podataka obrane takvim sustavima i sredstvima obvezatno se koriste kriptološke metode za provedbu propisanih jamstava za sigurnost i tajnost podataka.
+Zbog provedbe potpune sustavne sigurnosti i tajnosti podataka obvezatno se koriste propisani sigurnosni postupci i metode koji onemogućuju otkrivanje i analizu rada informatičko-telekomunikacijske tehnologije.

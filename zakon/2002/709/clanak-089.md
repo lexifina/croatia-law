@@ -1,0 +1,3 @@
+# Članak 89.
+Vojni obveznici dužni su u roku od 15 dana od dana nastanka promjene uredu za obranu koji ih vodi u evidenciji prijaviti promjenu zdravstvenog stanja, stečenu stručnu odnosno školsku spremu, zasnivanje i prestanak radnog odnosa, s naznakom poslodavca, poduzeća ili druge pravne osobe, odnosno vrstu i mjesto obavljanja samostalne djelatnosti.
+Nadležna tijela državne uprave dužna su u roku od 15 dana od dana nastanka promjene nadležni ured za obranu obavijestiti o promjeni imena i prezimena, promjeni adrese prebivališta odnosno boravišta, o prijmu u hrvatsko državljanstvo ili otpustu iz hrvatskog državljanstva i o promjeni bračnog stanja vojnog obveznika.

@@ -1,0 +1,4 @@
+# Članak 88.
+Za građane upisane u vojnu evidenciju uredi za obranu prikupljaju podatke o: rođenju, narodnosti, državljanstvu, prebivalištu i boravištu, psiho-tjelesnoj sposobnosti, bračnom stanju, školskoj i stručnoj spremi, zaposlenju, vojnostručnoj osposobljenosti i znanjima važnima za obranu te ostale podatke potrebne za određivanje rasporeda i podatke o rasporedu.
+Uprave za obranu prikupljaju, u skladu sa zakonom, podatke o kažnjavanju za građane Republike Hrvatske predviđene za obavljanje vojnopolicijskih poslova, poslova kriptološke zaštite tajnih podataka ili za obavljanje poslova, odnosno dužnosti vođenja sigurnosnih i vojnopolicijskih poslova, te za pričuvne časnike i dočasnike, odnosno osobe raspoređene na zapovjedne dužnosti u Oružanim snagama.
+Tijela iz stavka 1. i 2. ovoga članka odgovorna su za čuvanje osobnih podataka u skladu s posebnim zakonom.

@@ -1,0 +1,35 @@
+# Članak 10.
+Ministarstvo obrane obavlja poslove koji se odnose na:
+1. izradu Prijedloga strategije obrane Republike Hrvatske,
+2. davanje suglasnosti na Prijedlog vojne strategije Republike Hrvatske,
+3. predlaganje Plana obrane Republike Hrvatske i izradu svoga plana obrane,
+4. izradu Godišnjeg izvješća o spremnosti obrambenog sustava, provođenju kadrovske politike i ukupnom stanju u Oružanim snagama,
+5. donošenje ustroja zapovjedništava, postrojba i ustanova Oružanih snaga,
+6. predlaganje osnova sustava vođenja i zapovijedanja Oružanim snagama,
+7. usklađivanje planova obrane nositelja obrambenih priprema s Planom obrane Republike Hrvatske,
+8. izradu Dugoročnog plana razvoja Oružanih snaga,
+9. definiranje, usklađivanje, razvijanje i provođenje obrambene politike,
+10. kreiranje obrambenog sustava i provedbu funkcija obrambenog planiranja, uključujući strategijsko, razvojno, operativno i civilno-vojno krizno planiranje,
+11. procjenu mogućih ratnih i drugih opasnosti kojima se ugrožava suverenitet, neovisnost i teritorijalna cjelovitost Republike Hrvatske,
+12. uređenje i pripremu teritorija i akvatorija za djelovanje Oružanih snaga,
+13. predlaganje metodologije za izradu planova obrane,
+14. provođenje pripravnosti, popune i mobilizacije Oružanih snaga te izvršavanje vojne i materijalne obveze,
+15. planiranje, upravljanje, nadzor i provedbu obavještajnih, protuobavještajnih i sigurnosnih poslova u obrambenom sustavu,
+16. planiranje i provedbu međunarodne vojne suradnje i poslova koji proizlaze iz preuzetih međunarodnih obveza Republike Hrvatske u području obrane,
+17. planiranje i provedbu civilno-vojne suradnje,
+18. planiranje i provedbu kadrovske politike u Ministarstvu obrane te planiranje i nadzor nad upravljanjem osobljem i profesionalnim razvojem Oružanih snaga,
+19. obrazovni sustav Oružanih snaga, znanstvenu i istraživačku djelatnost,
+20. informativnu, psihološku, kulturnu, vjersku, muzejsku, arhivsku, športsku, nakladničku i drugu djelatnost,
+21. ustrojavanje i provedbu kriptološke zaštite tajnih podataka,
+22. planiranje i nadzor komunikacijskih i informacijskih sustava za potrebe obrane,
+23. podupiranje i nadzor rada pravnih osoba koje se bave proizvodnjom naoružanja i vojne opreme i drugim djelatnostima od interesa za Oružane snage u skladu s posebnim zakonom,
+24. planiranje, organiziranje i provedbu materijalnog i financijskog poslovanja,
+25. materijalno zbrinjavanje,
+26. planiranje, organiziranje i nadzor zdravstvene i veterinarske zaštite,
+27. rješavanje o pravima i obvezama pravnih i fizičkih osoba u području obrane,
+28. planiranje i provedbu nadzora u obavljanju upravnih i stručnih poslova u području obrane,
+29. organiziranje i usklađivanje rada s ostalim ministarstvima i drugim tijelima izvršne vlasti te tijelima lokalne, područne (regionalne) samouprave u provedbi planova i poslova obrane,
+30. druge poslove obrane u skladu sa zakonima.
+Ministarstvo obrane obavlja stručne poslove za potrebe vrhovnog zapovjednika u svezi s njegovim ovlastima u području obrane.
+Za obavljanje poslova iz djelokruga Ministarstva obrane ministar obrane donosi odluke, naredbe, naloge, smjernice, upute i propise za koje je ovlašten ovim Zakonom i drugim zakonima.
+Ministar obrane odgovara vrhovnom zapovjedniku za provedbu zapovijedi u skladu s odredbama ovoga Zakona.

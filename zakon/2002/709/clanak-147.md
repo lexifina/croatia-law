@@ -1,0 +1,2 @@
+# Članak 147.
+Danom stupanja na snagu ovoga Zakona prestaju važiti: Zakon o obrani (»Narodne novine«, br. 74/93 - pročišćeni tekst, 57/96., 31/98., 78/99. i 16/01.), Zakon o sredstvima i financiranju JNA (»Narodne novine«, br. 52/91), Zakon o zaštiti članova obitelji osoba na obveznoj vojnoj službi (»Narodne novine«, br. 53/91) te članak 18. stavak 1. točka 1. i članak 38. Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99).
