@@ -1,0 +1,3 @@
+# Članak 18.
+U članku 23. stavku 1. riječi: »vodi drugostupanjski upravni postupak u predmetima retroaktivnog povratka na skrb«, brišu se.
+U stavku 2. trećem redu iza riječi: »rata« stavlja se zarez i dodaju riječi: »provodi postupak dodjele osobnih automobila HRVI 100% I. skupine, provodi postupak vezan uz rješavanje zahtjeva za ortopedska pomagala, provodi postupak i daje preporuke za prijem u hrvatsko državljanstvo hrvatskim braniteljima, provodi postupak i pruža pravnu pomoć osobama koje pružaju njegu i pomoć HRVI 100% I. skupine, provodi postupak jednokratnih novčanih pomoći socijalno ugroženim hrvatskim braniteljima.«.

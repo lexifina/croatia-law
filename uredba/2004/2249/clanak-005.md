@@ -1,0 +1,6 @@
+# Članak 5.
+Naslov iznad članka 7. i članak 7. mijenjaju se i glase:
+»Odsjek za kadrovske poslove i stručno usavršavanje
+Članak 7.
+Odsjek za kadrovske poslove obavlja stručne poslove koji se odnose na planiranje i razradu politike zapošljavanja u Ministarstvu; upravno pravne poslove u svezi sa zapošljavanjem državnih službenika i namještenika u Ministarstvu, prijamom, rasporedom, premještajima i prestankom službe državnih službenika i namještenika, godišnjim odmorima, plaćenim i neplaćenim dopustima, te ocjenjivanjem državnih službenika i namještenika, izrađuje odgovore na tužbe i prigovore u predmetima vezanim za prava službenika i namještenika, obavlja upravno stručne poslove vezano za službenike i namještenike, vodi propisane evidencije i osobne očevidnike i izdaje potvrde iz tih očevidnika; obavlja stručne poslove vezano za ostvarivanje prava njegovatelja na mirovinsko i zdravstveno osiguranje.
+Odsjek sudjeluje u izradi strategije i mjera za razvoj kadrova i planiranja potreba za provođenjem stručnog osposobljavanja službenika i namještenika u Ministarstvu; sudjeluje u izradi i realizaciji plana i programa stručnog usavršavanja i osposobljavanja, priprema i prati realizaciju ugovora o stručnom usavršavanju i osposobljavanju, provodi postupak prijama vježbenika u državnu službu, sudjeluje u postupku izbora mentora vježbenicima i praćenju njihova rada.«

@@ -1,0 +1,5 @@
+# Članak 19.
+Članak 24. mijenja se i glasi:
+»Odsjek za razvojačene hrvatske branitelje provodi mjere za uključivanje hrvatskih branitelja u društveni i gospodarski život; organizira aktivnosti s nadležnim tijelima u cilju provođenja Programa stručnog osposobljavanja i zapošljavanja hrvatskih branitelja; obavlja poslove vezane za kreditiranje razvojačenih hrvatskih branitelja; obavlja poslove oko ostvarivanja prava na dionice; surađuje sa nadležnim zavodima za zapošljavanje i lokalnom samoupravom u poticanju i realizaciji zapošljavanja hrvatskih branitelja; surađuje s nadležnim obrazovnim institucijama i priprema program školovanja, doškolovanja i prekvalifikacije razvojačenih hrvatskih branitelja.
+Surađuje s udrugama proizašlim iz Domovinskoga rata radi poboljšanja skrbi o razvojačenim hrvatskim braniteljima. Rješava o pravima koja su mu stavljena u nadležnost po zakonu ili drugim propisima.
+Vodi bazu podataka o razvojačenim hrvatskim braniteljima koji se nalaze na prekvalifikaciji i školovanju. Obavlja i druge stručne poslove vezane za pomoć razvojačenim hrvatskim braniteljima.«

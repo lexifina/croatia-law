@@ -1,0 +1,7 @@
+# Članak 3.
+Iza članka 4. dodaje se naslov i članak 4.a koji glasi:
+»1.a Samostalni odjel za unutarnju reviziju
+Članak 4.a
+Samostalni odjel za unutarnju reviziju neovisno i objektivno utvrđuje ostvarivanje cjelovitih zadaća i funkcija Ministarstva, upozorava na nepravilnosti i neusklađenosti sa zakonskim i drugim propisima kojima je utvrđeno poslovanje i predlaže mjere za njihovo otklanjanje i mjere za unapređivanje poslovanja.
+Samostalni odjel pruža objektivna jamstva i savjetodavnog je karaktera u cilju poboljšanja poslovanja, potiče i predlaže uvođenje sistematskog, discipliniranog pristupa radu kojim se unapređuje djelotvornost procesa vezanih uz upravljanje rizicima, kontrolu i odgovorno upravljanje; neovisno na temelju strateškog i godišnjeg plana unutarnje revizije obavlja unutarnju reviziju u Ministarstvu, procjenjuje i unapređuje učinkovitost upravljanja rizicima i sustav financijske odgovornosti; obavlja reviziju rada kako bi se osiguralo poštivanje zakona i drugih propisa koji se odnose na djelokrug rada Ministarstva, izrađuje izvješća sa preporukama za poboljšanje poslovanja, provodi reviziju nad utrošcima proračunskih sredstava radi sprječavanja eventualnih zlouporaba, izvještavanja i upozoravanja ministra na uočene nepravilnosti.
+Samostalni odjel obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.«

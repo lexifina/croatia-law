@@ -1,0 +1,3 @@
+# Članak 11.
+Članak 11. mijenja se i glasi:
+»Odjeljak za tehničke i pomoćne poslove obavlja stručne i tehničke poslove u svezi s upotrebom voznog parka i osiguravanjem prijevoza za službene potrebe, održavanjem i registracijom službenih vozila; poslove dostave pošte koja zahtijeva osobnu dostavu i hitnu dostavu za područje županije; kontrole ispravnosti funkcioniranja telefonskih linija, osiguravanja urednog funkcioniranja čajne kuhinje, održavanja higijene radnog prostora, održavanja zgrade i uredskih prostorija u uporabnom, ispravnom i sigurnom stanju za rad i boravak ljudi, organiziranje nabave materijala i sredstava potrebnih za uredno izvršavanje zadaća iz djelokruga rada Odjeljka.«
