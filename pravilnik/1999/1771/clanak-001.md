@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuje se način i postupak vađenja uzoraka krvi i uzimanja mokraće za analizu radi utvrđivanja koncentracije alkohola, prisustva opojnih droga te psihoaktivnih tvari kod osobe za koju postoje osnove sumnje da je počinila kazneno djelo te vozača i drugih sudionika u prometu (u daljnjem tekstu: osobe) kao i uvjeti koje zdravstvene ili druge ustanove moraju ispunjavati da bi mogle obavljati poslove analize krvi i mokraće.

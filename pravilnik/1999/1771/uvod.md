@@ -1,0 +1,1 @@
+Na temelju članka 265. stavka 6. Zakona o kaznenom postupku ("Narodne novine", broj 110/97. i 27/88. - ispravak) te na temelju članka 321. stavka 4. točke 2. Zakona o sigurnosti prometa na cestama ("Narodne novine", broj 59/96 - pročišćeni tekst), ministar zdravstva uz suglasnost ministra unutarnjih poslova donosi
