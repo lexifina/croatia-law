@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske u sastavu Jadranko Crnić, predsjednik Suda, te suci Zdravko Bartovčak, Ante Jelavić, mr. Vojislav Kučeković. mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, u povodu prijedloga Bogoljuba Rajkovića iz Fažane, na sjednici održanoj dana 21. lipnja 1994. godine, donio je
