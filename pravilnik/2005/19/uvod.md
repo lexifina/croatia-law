@@ -1,0 +1,1 @@
+Na temelju članka 52. stavka 2., uz suglasnost ravnatelja Državnog zavoda za normizaciju i mjeriteljstvo, članka 55. stavka 3., te članka 57. stavka 6. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 131/97 i 163/03), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
