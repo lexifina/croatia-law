@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 14. stavka 3. Zakona o Zavodu za školstvo Republike Hrvatske (»Narodne novine«, broj 153/2002), Vlada Republike Hrvatske je na sjednici održanoj 18. lipnja 2003. godine donijela
