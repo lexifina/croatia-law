@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. i članka 5. Zakona o izboru članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave ("Narodne novine", br. 90/92, 69/95 i 59/96), Vlada Republike Hrvatske je na sjednici održanoj dana 12. veljače 1997. godine, donijela
