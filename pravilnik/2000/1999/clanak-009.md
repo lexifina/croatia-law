@@ -1,0 +1,8 @@
+# Članak 9.
+Uz zahtjev za primjenu pojednostavnjenog razvrstavanja dijelova instrumenata, aparata, uređaja, strojeva, vozila i drugih proizvoda iz odsjeka XVI, XVII i XVIII Carinske tarife, koji se bez dorade ili obrade mogu ugraditi u gotov proizvod (članak 8., stavak 1., točka 2. Zakona o carinskoj tarifi), deklarant podnosi specifikaciju dijelova koji se uvoze te:
+a) za dijelove koji se uvoze radi tekućeg ili investicijskog održavanja - carinsku deklaraciju ili račun ili drugu ispravu iz koje se sa sigurnošću može utvrditi tarifni stavak gotovog proizvoda za koju se ti dijelovi uvoze;
+b) za dijelove koji se uvoze zajedno s gotovim proizvodom kao njihovi nadomjesni dijelovi - račun iz kojeg je vidljivo da vrijednost tih dijelova franco hrvatska granica ne premašuje 7% vrijednosti gotovog proizvoda s kojim se ti dijelovi uvoze;
+c) za dijelove koji se uvoze za izradu gotovog proizvoda - ispravu s podacima o ukupnoj vrijednosti dijelova franco hrvatska granica i ispravu o prodajnoj cijeni gotovog prozvoda u koji se ti dijelovi ugrađuju, iz kojih je vidljivo da vrijednost dijelova ne premašuje 50% od prodajne cijene gotovog proizvoda;
+d) za dijelove za zamjenu dotrajalih ili pokvarenih dijelova za koje se ne plaća njihova protuvrijednost, i to u garantnom roku - ispravu o uvozu gotovog proizvoda za koji se sada uvoze zamjenski dijelovi, te dokaz da se dijelovi uvoze u garantnom roku i bez plaćanja protuvrijednosti.
+Odobrenje o primjeni pojednostavnjenog razvrstavanja robe iz stavka 1. ovog članka, nadzorna carinarnica donosi po skraćenom postupku, bilješkom na zahtjevu.
+3. Pojednostavnjeno razvrstavanje laboratorijskih kemikalija i reagensa

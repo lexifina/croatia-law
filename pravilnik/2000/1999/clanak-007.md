@@ -1,0 +1,5 @@
+# Članak 7.
+Uz svaku jedinstvenu carinsku deklaraciju za robu koja se carini primjenom odobrenja iz članka 6. ovog pravilnika, deklarant prilaže presliku odobrenja i odgovarajućeg dijela specifikacije, koji sadrži podatke o dijelu robe koji se tom jedinstvenom carinskom deklaracijom carini (izvadak iz specifikacije).
+Na izvatku iz stavka 1. ovog članka, ovlašteni carinski službenik identificira i obilježava robu koja se carini tom jedinstvenom carinskom deklaracijom, uz naznaku naziva carinarnice, broja i datuma jedinstvene carinske deklaracije, te otpis ovjerava svojim potpisom, faksimilom i štambiljom carinske ispostave.
+O obavljenom djelomičnom uvozu po odobrenju iz članka 6. ovog pravilnika ovlaštena carinarnica, dostavom preslike jedinstvene carinske deklaracije, fakture i ovjerenog izvatka iz specifikacije, izvješćuje nadzornu carinarnicu.
+Nadzorna carinarnica odnosno ustrojstvena jedinica u nje- nom sastavu određena za vođenje očevidnika o postupnom uvozu, na temelju primljene obavijesti iz stavka 3. ovog članka, na svom primjerku izvornika specifikacije otpisuje pozicije robe koje su ocarinjene.
