@@ -1,0 +1,3 @@
+# Članak 3.
+Pravne i fizičke osobe - poslodavci oslobođeni su plaćanja doprinosa na plaće kod zapošljavanja hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji prema odredbi članka 38. stavka 3. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 94/01.) u roku od godine dana od dana njihovog zaposlenja uz uvjet da u tom roku ne otkažu ugovor o radu drugom zaposleniku na istim poslovima bez njegove krivnje.
+Pravne i fizičke osobe - poslodavci koji su registrirani za zapošljavanje invalida, za invalide kod njih zaposlene i za osobe ometene u psihičkom ili fizičkom razvoju čije su smetnje utvrđene posebnim propisima oslobođeni su plaćanja doprinosa na plaću.

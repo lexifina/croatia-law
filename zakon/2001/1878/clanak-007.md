@@ -1,0 +1,2 @@
+# Članak 7.
+Obveznici plaćanja doprinosa iz članka 2. ovoga Zakona koji su zaključili ugovor o osiguranju za slučaj ozljede na radu i profesionalne bolesti, sukladno članku 51. Zakona o zdravstvenom osiguranju (»Narodne novine«, br. 75/93., 55/96., 1/97. - pročišćeni tekst, 109/97., 13/98., 88/98., 10/99., 34/99., 69/01., 59/01. i 82/01.) oslobađaju se obveze uplate posebnog doprinosa za prava u slučaju ozljede na radu i profesionalne bolesti do isteka roka valjanosti tog ugovora, a najkasnije do 31. prosinca 2002.
