@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o eksproprijaciji ("Narodne novine", broj 46/8, 28/87, 39/88 i 73/91), a povodom prijedloga HPT - Hrvatska pošta i telekomunikacije s p.o. Zagreb, Telekomunikacijskog centra Osijek, Vlada Republike Hrvatske je na sjednici održanoj 24. veljače 1993. donijela
