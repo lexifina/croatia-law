@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« br. 107/03), Upravni odbor Fonda za zaštitu okoliša i energetsku učinkovitost, uz suglasnost Vlade Republike Hrvatske, na sjednici održanoj dana 30. listopada i 21. studenoga 2003. godine, donio je
