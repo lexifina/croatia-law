@@ -1,0 +1,3 @@
+## o zdravstvenim pregledima za utvrđivanje zdravstvene sposobnosti za držanje ili držanje i nošenje oružja
+# Članak 1.
+Ovim se pravilnikom propisuju uvjeti koje moraju ispunjavati zdravstvene organizacije koje će obavljati zdravstvene preglede kojima se utvrđuje zdravstvena sposobnost za držanje ili držanje i nošenje oružja. način i postupak obavljanja zdravstvenih pregleda, popis bolesti i zdravstvenih stanja koja osobu čine nesposobnom za držanje i nošenje oružja, način vođenja evidencije i medicinske dokumentacije i sadržaj uvjerenja o izvršenom zdravstvenom pregledu, nadležnost. Sastav i način rada drugostupanjske zdravstvene komisije i naknade u svezi s utvrđivanjem zdravstvene sposobnosti.

@@ -1,0 +1,24 @@
+# Članak 4.
+Zdravstvene organizacije koje obavljaju zdravstvene preglede osoba za držanje ili držanje i nošenje oružja moraju imati slijedeće uređaje i opremu:
+- aparat za mjerenje tlaka,
+- fonendoskop,
+- ležaj za pregled,
+- vagu,
+- visinomjer,
+- Combur-test
+- mikroskop;.
+- pipete po Westergreenu,
+- fokus lampu, .
+- Hartnackovo povećalo,
+- dvije vrste peudoisokromatskih tablica,
+- električni oftalmoskop.
+- plan-zrcalo ili retionoskop,
+- optotipi za ispitivanje vidne oštrine na daljinu,
+- ormarić s korekcijskim staklima,
+- orthoreter ili sličan aparat,
+- baterijsku lampu,
+- čekić za ispitivanje refleksa,
+- pribor za ispitivanje površinskog i dubinskog osjeta,
+- bateriju testova za ispitivanje intelektualnih sposobnosti,
+- upitnike i inventare ličnosti.
+- sportski sat.
