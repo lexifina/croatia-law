@@ -1,0 +1,1 @@
+Zakon o izmjenama i dopunama Zakona o povlasticama slijepih osoba, osoba oboljelih od distrofije i srodnih mišićnih i neuromišićnih bolesti kao i osoba oboljelih od multiple skleroze i njihovih pratil
