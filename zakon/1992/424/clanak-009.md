@@ -1,0 +1,2 @@
+# Članak 9.
+Osobnu radnu dozvolu dobit će stranac koji uz zahtjev priloži dokaze iz kojih je vidljivo da će na području Republike Hrvatske obavljati djelatnosti predvidene propisima koji uređuju strana ulaganja i obavljanje vanjskotrgovinskog poslovanja ili da će obavljati stručni rad utvrđen ugovorom o poslovno-tehničkoj suradnji, odnosno dugoroćnoj proizvodnoj kooperaciji, te o prijenosu tehnologije. U slučajevima iz prethodnog stavka osobna radna dozvola izdaje se na rok obavljanja djelatnosti ili stručnog rada.

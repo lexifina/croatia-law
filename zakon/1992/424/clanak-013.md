@@ -1,0 +1,2 @@
+# Članak 13.
+Strancu prestaje radni odnos kod poslodavca ako mu protekne vrijeme za koje vrijedi odobrenje za produženi boravak ili mu bude otkazan produženi boravak u Republici Hrvatskoj ili prestankom trajnog nastanjenja u Republici Hrvatskoj. Strancu koji zasniva radni odnos temeljem ugovora iz članka 9. ovoga zakona prestaje radni odnos na dan prestanka ugovora. Strancu može biti oduzeta radna dozvola na osnovu uvjeta utvrđenih ovim zakonom.

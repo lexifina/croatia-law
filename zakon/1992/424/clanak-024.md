@@ -1,0 +1,3 @@
+# Članak 24.
+Ovaj zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
+Klasa· 100-02/92-01/01

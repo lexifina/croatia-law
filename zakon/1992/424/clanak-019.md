@@ -1,0 +1,2 @@
+# Članak 19.
+Nadzor nad primjenom ovoga zakona i propisa donesenih na temelju tog zakona provodi Inspekcija rada Ministarstva rada, socijalne skrbi i obitelji. U slučaju da inspekcija rada utvrdi da stranac nema urednu radnu dozvolu za rad i ne ispunjava druge propisane uvjete za rad, donosi rješenje o zabrani rada strancu, te , podnosi prekršajnu prijavu protiv poslodavca i odgovorne osobe poslodavca. Inspekcija rada obavještava Zavod za zapošljavanje i Ministarstvo unutarnjih poslova o izdanim rješenjima o zabrani rada strancima.
