@@ -1,0 +1,2 @@
+# Članak 2.
+Članak 3. mijenja se i glasi: "Ovaj Zakon primjenjuje se na sva poduzeća i pravne osobe iz članka 1. ovoga Zakona sa sjedištem u Republici Hrvatskoj, osim na poduzeća koja su osnovale pravne osobe sa sjedištem lzvan Republike Hrvatske, a čiji će status biti riješen međudržavnim ugovorima ili nekim drugim pravnim aktima. Poduzeće s društvenim kapitalom ne može prenijeti sjedište izvan Republike Hrvatske osim ako međudržavnim ugovorima nije drugačije utvrđeno."
