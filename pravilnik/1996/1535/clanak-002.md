@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 12. stavka 2. mijenja se i glasi: "Rješenje iz stavke 1. ovog članka donosi se na osnovi zahtjeva osigurane osobe, odgovarajuće medicinske dokumentacije, te ocjene, nalaza i mišljenja Liječničkog povjerenstva Direkcije Zavoda uz prethodno pribavljeno mišljenje mjerodavne zdravstvene ustanove na tercijarnoj razini u Republici Hrvatskoj kojim se potvrđuje da traženo liječenje nije moguće provesti u zdravstvenim ustanovama u Republici Hrvatskoj."
