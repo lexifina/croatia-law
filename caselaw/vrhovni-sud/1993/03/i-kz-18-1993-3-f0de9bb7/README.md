@@ -1,0 +1,11 @@
+# I Kž-18/1993-3, Vrhovni sud Republike Hrvatske, 31.3.1993.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=f0de9bb7-7248-4922-9124-cc6f72a888c7
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1993-03-31
+- Publication date on source: 2003-08-21
+- ECLI: ECLI:HR:VSRH:1993:2222
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
