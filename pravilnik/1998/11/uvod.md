@@ -1,0 +1,1 @@
+Na osnovi članka 8. stavke 5. Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki ("Narodne novine", broj 24/96. i 109/97) ravnateljica Državnog zavoda za zaštitu obitelji, materinstva i mladeži, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zdravstveno osiguranje, donosi
