@@ -1,0 +1,1 @@
+Temeljem članka 13. Zakona o eksproprijaciji ("Narodne novine", broj 46/82, 28/87 i 39/88), a povodom zahtjeva "Hrvatske ceste" poduzeće za održavanje, rekonstrukciju i izgradnju cesta u Hrvatskoj iz Zagreba, Vonćinina 3, Vlada Republike Hrvatske je na sjednici održanoj 16. prosinca 1991. donijela
