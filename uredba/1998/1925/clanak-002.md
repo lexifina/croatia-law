@@ -1,0 +1,3 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe započinje u točki 1., dodirna točka kopna i mora i ide u točku 2. koja je u naravi dodirna točka asfaltnog mjesnog puta i nasipa. Iz točke 2. ide u točku 3. prateći južnu ivicu asfaltnog puta.
+Iz točke 3. ide u točke 4., 5. i 6. prateći južnu granicu čestice zemlje 3233/1, a iz točke 6. prateći granicu čestice zemlje 723 ide u točku 7. Iz točke 7. ide u točku 8., dodirnu točku kopna i mora gdje i završava, a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Tribunj, broj lista plana 15 u mjerilu 1:2904, i na snimci stvarnog stanja u mjerilu 1:500.
