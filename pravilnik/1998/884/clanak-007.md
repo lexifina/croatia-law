@@ -1,0 +1,3 @@
+# Članak 7.
+Neplanirani slučajevi u kojima se javna cesta može zatvoriti su iznenadne i izvanredne okolnosti zbog kojih je javna cesta oštećena, zapriječen prolaz javnom cestom, nastupila okolnost u kojoj je posljedicu prometnog udesa moguće otkloniti samo zatvaranjem ceste ili na neki drugi način dovedena u opasnost sigurnost prometa i (ili) stabilnost i pouzdanost javne ceste i njenih dijelova.
+Okolnosti iz stavka 1. ovoga članka u kojima se javna cesta može zatvoriti nastupaju kada bi daljnje odvijanje prometa (prema redovnom režimu) izazvalo još veće štete i oštećenja javne ceste i (ili) ugrozilo sigurnost prometa, a kada veličina uzroka tih okolnosti, kada je u pitanju cesta kao građ. objekt, prelazi okvire pojačanog održavanja.
