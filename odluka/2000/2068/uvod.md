@@ -1,0 +1,1 @@
+Na temelju članka 47. stavak 4. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata (»Narodne novine« broj 91A/93 i 36/98) i članka 67. stavak 1. točka 6. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 35/95 - pročišćeni tekst), Savjet Hrvatske narodne banke na sjednici održanoj 11. listopada 2000. godine, donio je
