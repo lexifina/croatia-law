@@ -1,0 +1,14 @@
+O b r a z l o ž e n j e
+1. Autocentar-Merkur d.d. za proizvodnju, vanjsku i unutarnju trgovinu iz Zagreba, podnijelo je 30. lipnja 1998. godine Ustavnom sudu Republike Hrvatske prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 23. stavka 1. točke 4. Odluke o komunalnoj naknadi (u nastavku: Odluka), koju je donijela Gradska skupština Grada Zagreba na 4. sjednici održanoj 9. srpnja 1997. godine, objavljenoj u "Službenom glasniku Grada Zagreba", broj 7/97.
+Osporenom odredbom propisano je da se komunalna naknada plaća, između ostalog, i za neizgrađeni dio zemljišta u IV. zoni što služi poslovnoj djelatnosti (otvorena skladišta, manipulativne, komunikativne površine i zelene površine unutar poslovnog kruga).
+Predlagatelj smatra da osporena odredba nije suglasna s odredbama članaka 19. stavka 2. i 20. stavka 4. Zakona o komunalnom gospodarstvu ("Narodne novine", broj 36/95., 70/97., 128/99., 57/00., 129/00. i 59/01.), ali ne navodi s kojim bi ustavnim odredbama osporene odredbe Odluke bile u nesuglasju.
+Pretpostavke za vođenje ustavnosudskog postupka prestale su postojati.
+2. Prema odredbi članka 1. Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu (“Narodne novine”, broj 57/00.), a koji je stupio na snagu 9. lipnja 2000. godine, jedinice lokalne samouprave dužne su u roku od 12 mjeseci od stupanja na snagu tog Zakona uskladiti opće akte s odredbama Zakona.
+Prema odredbi članka 31. Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu ("Narodne novine", broj 59/01.) a koji je stupio na snagu 8. srpnja 2001. godine, jedinice lokalne samouprave dužne su do 31. prosinca 2001. godine uskladiti svoje opće akte s odredbama Zakona (stavak 1.). Propisi jedinica lokalne samouprave koji nisu usklađeni s odredbama Zakona prestaju važiti nakon isteka roka iz stavka 1. članka 31. (stavak 2.).
+Gradska skupština Grada Zagreba, na 5. sjednici od 13. prosinca 2001. godine donijela je novu Odluku o komunalnoj naknadi, objavljenu u "Službenom glasniku Grada Zagreba", broj 19 od 13. prosinca 2001. godine, a Odluku o izmjeni i dopuni te iste Odluke na 27. sjednici od 22. prosinca 2003. godine ("Službeni glasnik Grada Zagreba", broj 23/03.).
+Sukladno odredbi članka 30. Odluke o komunalnoj naknadi ("Službeni glasnik Grada Zagreba", broj 19/01.), prestala je važiti osporena Odluka o komunalnoj naknadi ("Službeni glasnik Grada Zagreba", broj 7/97. i 16/97.).
+3. Odredbom članka 61. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 49/02. - pročišćeni tekst), propisano je da Ustavni sud može obustaviti postupak ako podnositelj zahtjeva, odnosno prijedloga odustane, a mora u slučajevima kad prestanu postojati pretpostavke za vođenje postupka.
+Budući da je osporena odredba prestala važiti to je, temeljem odredbe članka 61. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-580/1998
+Zagreb, 9. lipnja 2004.
