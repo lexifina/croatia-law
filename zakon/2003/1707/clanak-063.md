@@ -1,0 +1,3 @@
+## Stupanje na snagu zakona
+# Članak 63.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.

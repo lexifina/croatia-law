@@ -1,0 +1,3 @@
+## Obveza obavjeŠtavanja drugoga lijeČnika
+# Članak 28.
+Kada liječnik upućuje drugom liječniku ili u drugu ustanovu, trgovačko društvo, odnosno drugu pravnu osobu koja obavlja zdravstvenu djelatnost pacijenta koji bi zbog svog stanja ili ponašanja mogao ugroziti zdravlje, odnosno život liječnika, drugih zdravstvenih radnika ili drugih pacijenata, obvezan ih je o tome pravodobno obavijestiti telefonom, elektroničkim putem ili na drugi odgovarajući način.

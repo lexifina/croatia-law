@@ -1,0 +1,7 @@
+## VoĐenje i Čuvanje medicinske dokumentacije
+# Članak 23.
+Liječnik je obvezan voditi točnu, iscrpnu i datiranu medicinsku dokumentaciju u skladu s propisima o evidencijama na području zdravstva, koja u svakom trenutku može pružiti dostatne podatke o zdravstvenom stanju pacijenta i njegovu liječenju. Liječnik je obvezan tu dokumentaciju na zahtjev predočiti ministarstvu nadležnom za zdravstvo, tijelima državne uprave u skladu s posebnim propisima, Hrvatskoj liječničkoj komori ili sudbenoj vlasti.
+Liječnik ili odgovorna osoba zdravstvene ustanove, trgovačkog društva ili druge pravne osobe koja obavlja zdravstvenu djelatnost obvezni su dokumentaciju koja se čuva na elektronskom mediju osigurati od mijenjanja, prijevremenog uništenja ili nedopuštenog korištenja.
+Liječnik je obvezan na zahtjev dati na uvid pacijentu svu medicinsku dokumentaciju koja se odnosi na dijagnostiku i liječenje njegove bolesti.
+Liječnik ili odgovorna osoba zdravstvene ustanove, trgovačkog društva ili druge pravne osobe koja obavlja zdravstvenu djelatnost obvezni su čuvati podatke o ambulantnom liječenju bolesnika deset godina nakon završenog liječenja, a nakon toga roka obvezni su postupiti prema propisima o čuvanju dokumentacije.
+Kada ovlaštena osoba sukladno posebnome zakonu preuzme medicinsku dokumentaciju obvezna je izdati liječniku, odgovornoj osobi zdravstvene ustanove, trgovačkog društva, odnosno pravne osobe koja obavlja zdravstvenu djelatnost, službenu potpisanu potvrdu o preuzimanju s popisom preuzete dokumentacije.
