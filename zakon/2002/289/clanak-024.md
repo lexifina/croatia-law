@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Zadruge i zadružni savezi dužni su uskladiti svoje opće akte s odredbama ovoga Zakona i na temelju izmijenjenih akata izabrati, odnosno imenovati svoja tijela i podnijeti prijavu za upis u sudski registar u roku od šest mjeseci, računajući od dana stupanja na snagu ovoga Zakona.
+(2) Zadruge i zadružni savezi koji se osnuju ili usklade svoje opće akte suglasno odredbama ovoga Zakona u vremenu prije nego što počne radom Hrvatski savez zadruga, dostavit će rješenja o upisu u sudski registar, odnosno rješenja o usklađivanju u roku od 15 dana, računajući od dana početka rada Hrvatskog saveza zadruga.
