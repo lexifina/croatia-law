@@ -1,0 +1,26 @@
+o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu
+1. Osnovice za obračunavanje i plaćanje doprinosa i ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike iz članka 15. Zakona o mirovinskom i invalidskom osiguranju, određuju se prema stupnju stručne spreme i to u dinarskoj protuvrijednosti DEM prema srednjem tečaju Narodne banke Hrvatske, prvog dana mjeseca u kojem dospijeva uplata doprinosa i to:
+1) za osobe koje rade na poslovima za koje se traži stručna sprema sedmog ili osmog stupnja (visoka stručna sprema) i za radnike zaposlene na stranim brodovima u svojstvu kapetana duge plovidbe ili strojara I. klase, u dinarskoj protuvrijednosti od 301 DEM;
+2) za osobe koje rade na poslovima za koje se traži stručna sprema petog ili šestog stupnja (viša stručna sprema. odnosno sprema visokokvalificiranog radnika) i za radnike zaposlene na stranim brodovima u svojstvu kapetana obalne plovidbe, poručnika trgovačke mornarice, strojara II. klase. strojara III. klase ili radiotelegrafista, u dinarskoj protuvrijednosti od 288 DEM;
+3) za osobe koje rade na poslovima za koje se traži stručna sprema trećeg ili ćetvrtog stupnja (srednja stručna sprema, odnosno sprema kvalificiranog radnika), te za radnike zaposlene na stranim brodovima u svojstvu vođe palube, vođe stroja, kormilara, ložača, mazača, I. kuhara, I. konobara, tesara mehaničara, električara, motorista, brodovođe ili radiofoniste, u dinarskoj protuvrijednosti od 219 DEM:
+4) za osobe koje rade na poslovima za koje se traži stručna sprema prvog ili drugog stupnja (niža stručna sprema, odnosno sprema polukvalificiranog radnika), te za radnike zaposlene na stranim brodovima u svojstvu mornara, II. kuhara, II. konobara. ugljenara, pripravnika palube (kadeta), asistenta stroja ili asistenta radiofonije.,u dinarskoj protuvrijednosti od 164 DEM;
+5) za osobe koje rade na poslovima za koje se ne traži stručna sprema, te za radnike zaposlene na stranim brodovima u svojstvu mladića palube, mladića sobe, mladića kuhinje i čistača u dinarskoj protuvrijednosti od 138 DEM;
+2. Stupanj stručne spreme iz prethodne točke ove odluke utvrđuje se prema odgovarajućim propisima koji vrijede na području Republike Hrvatske.
+3. Ako tijekom osiguranja nastane promjena u stručnoj spremi, nova osnovica osiguranja određuje se od prvog dana idućeg mjeseca u kojem je nastala promjena.
+4. Osim osnovica osiguranja u koje se osiguranici razvrstavaju prema mjerilima iz točke 1. ove odluke, utvrđuju se i više osnovice osiguranja u koje se osiguranici razvrstavaju prema vlastitom izboru i to:
+- osiguraniku iz točke 1. pod 1). ove odluke u dinarskoj protuvrijednosti do 750 DEM,
+- osiguraniku iz točke 1. pod 2). ove odluke u dinarskoj protuvrijednosti do 717 DEM,
+- osiguraniku iz točke 1. pod 3). ove odluke u dinarskoj protuvrijednosti do 546 DEM,
+- osiguraniku iz točke 1. pod 4). ove odluke u dinarskoj protuvrijednosti do 409 DEM,
+- osiguraniku iz točke 1. pod 5). ove odluke u dinarskoj protuvrijednosti do 344 DEM.
+5. Izmjena osnovica prema točki 4. ove odluke primjenjuje se za kalendarsku godinu u kojoj je podnesen zahtjev za izbor više osnovice osiguranja.
+6. U slučaju ostvarivanja prava na starosnu mirovinu izabrane više osnovice osiguranja, prema kojima je osiguranik bio osiguran, uzimaju se u obzir za izračunavanje rnirovinske osnovice samo ako je osiguranik prema tim osnovicama bio osiguran najmanje 60 mjeseci.
+U slučaju ostvarivanja prava na invalidsku mirovinu, izabrane više osnovice osiguranja uzimaju se u obzir za izračunavanje mirovinske osnovice bez obzira na to koliko je vremena osiguranik prema tim osnovicama bio osiguran.
+7. Doprinos za mirovinsko i invalidsko osiguranje osoba iz točke 1. ove odluke obračunava se i plaća prema Zakonom utvrđenoj stopi za osiguranike koji su sami obveznici plaćanja doprinosa na pripadajuću osnovicu osiguranja.
+8. Za razdoblje koje prethodi mjesecu u kojem je pokrenut postupak za utvrdivanje svojstva osiguranika, doprinos za mirovinsko i invalidsko osiguranje obračunava se i plaća prema osnovici osiguranja utvrđenoj u točki 1. ove udluke i po stopi koja vrijedi u vrijeme pokretanja pustupka.
+9. Osnovica za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba iz točke 8. ove odluke utvrđuje se u skladu s odlukom o osnovicama osiguranja koje su se primjenjivale u razdobljima za koja se to osiguranje priznaje.
+10. Doprinos se plaća u roku od 15 dana od dana dostave rješenja.
+11. Obračunati doprinosi iskazani u dinarskoj protuvrijednosti DEM plaćaju se na dan dospijeća. Obveznik plaćanja doprinosa koji doprinose ne uplati u roku dospjelosti, dužan je platiti kaznene kamate na svotu doprinosa koju nije pravodobno uplatio.
+12. Usklađivanje svota prema točki 1. i točki 4. ove Odluke, obavljat će se tijekom godine po službenoj dužnosti bez donošenja rješenja.
+13. Danom stupanja na snagu ove odluke prestaje vrijediti Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za odredivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu ("Narodne novine", broj 77/93).
+14. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjivat će se od 1. siječnja 1994.
