@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i članka 44. stavka 1. točke 4. Zakona o platnom prometu u zemlji (»Narodne novine«, br. 117/2001.) guverner Hrvatske narodne banke donio je
