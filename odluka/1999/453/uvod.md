@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98) i članka 27. stavka 5. Zakona o nabavi roba, usluga i ustupanju radova ("Narodne novine", broj 142/97), Vlada Republike Hrvatske je na sjednici održanoj 25. veljače 1999. godine donijela
