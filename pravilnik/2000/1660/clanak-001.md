@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja (»Narodne novine« broj 43/99, 51/99 i 52/00) u članku 47. stavka 2. mijenja se i glasi:
+»Iznimno od stavke 1. ovog članka, te na teret sredstava Zavoda osigurava se samo 50%, odnosno 75% iznosa nabavne cijene lijeka i to za lijekove koji su u Listi lijekova iz Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (lijekovi koji se osiguranim osobama mogu propisivati na recept Zavoda), označeni oznakom »R« i slovnom oznakom »BD«, s tim da preostalih 50%, odnosno 25% iznosa snosi osigurana osoba.«
