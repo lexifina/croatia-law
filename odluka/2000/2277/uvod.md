@@ -1,0 +1,1 @@
+Na temelju članaka 8. i 14. Zakona o Fondu za naknadu oduzete imovine (»Narodne novine«, broj 69/97., 105/99. i 64/00.), Upravni odbor Fonda za naknadu oduzete imovine je na sjednici održanoj dana 20. studenoga 2000. godine, donio sljedeću

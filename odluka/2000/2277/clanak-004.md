@@ -1,0 +1,3 @@
+# Članak 4.
+Članak 7. mijenja se i glasi:
+»Sredstva ostvarena prodajom nacionaliziranih i konfisciranih stanova (kod obročne i kod jednokratne otplate) uplaćuju se na račun Fonda na način da kupci, kod ugovora o prodaji nacionaliziranih i konfisciranih stanova, iznos cijene stana uplaćuju na poseban račun jedinica lokalne samouprave odnosno Grada Zagreba, koji su dužni ta sredstva prenositi na račun Fonda u roku od 8 dana od dana njihove uplate.«

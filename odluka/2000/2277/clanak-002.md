@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 5. stavku 1., iza riječi »prodaji« dodaje se »nacionaliziranih i konfisciranih«, a iza riječi »stanova« dodaje se »(zaprimanje zahtjeva za otkup stana, izračun cijene stana, vođenje evidencije uplata, poslovi naplate dospjelih obveza, osim vođenja sudskih postupaka radi naplate dospjelih obroka cijene stana)«.
+U stavku 2. toga članka brišu se riječi »koji su od 1. siječnja 1998. sklapali ugovore o prodaji nacionaliziranih stanova,« a nakon riječi »ugovoru« briše se točka i dodaju se riječi »za ugovore o prodaji nacionaliziranih i konfisciranih stanova koji su sklopljeni do dana stupanja na snagu ove Odluke.«
