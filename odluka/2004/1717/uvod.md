@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 7. stavka 5. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 87/2002 i 117/2003) Vlada Republike Hrvatske je na sjednici održanoj 3. lipnja 2004. godine, donijela
