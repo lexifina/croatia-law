@@ -1,0 +1,1 @@
+Na osnovi člana 383. Ustava Socijalističke Republike Hrvatske i u skladu s Odlukom Saveznog izvršnog vijeća o osnovama jedinstvene metodologije za pripremanje i donošenje planova za izvanredne prilike ("Službeni list SFRJ", br. 75/89), Predsjedništvo Socijalističke Republike Hrvatske na sjednici održanoj 18. travnja 1990. godine donijelo je
