@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. Zakona o boravišnoj pristojbi (»Narodne novine«, br. 35/95 - pročišćeni tekst i 64/2000), Vlada Republike Hrvatske je na sjednici održanoj 21. lipnja 2001. godine, donijela
