@@ -1,0 +1,2 @@
+# Članak 12.
+Država stranka na čijem je području pronađen navodni počinitelj, ako ga ne izruči, obvezna je, bez ikakve iznimke i bez obzira na to je li kazneno djelo bilo počinjeno na njezinom području, predati slučaj svojim nadležnim tijelima radi progona u postupku u skladu sa zakonima te države. Nadležna tijela donose svoju odluku na jednak način kao i za svako drugo teško kazneno djelo prema zakonu te države.

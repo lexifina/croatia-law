@@ -1,0 +1,4 @@
+# Članak 17.
+1. Svaki spor između dviju ili više država stranaka glede tumačenja ili primjene ove Konvencije, koji nije riješen pregovorima, podnosi se, na zahtjev jedne od njih, arbitraži. Ako se u roku od šest mjeseci od dana podnošenja zahtjeva za arbitražu stranke ne mogu dogovoriti o organizaciji arbitraže, svaka od tih stranaka može spor podnijeti Međunarodnom sudu pravde, podnošenjem zahtjeva u skladu sa Statutom Suda.
+2. Svaka država može, u vrijeme potpisivanja ili ratifikacije ove Konvencije ili njezinog pristupanja, izjaviti da se ne smatra vezanom stavkom 1. ovog članka. Ostale države stranke neće biti vezane stavkom 1. ovog članka niti prema kojoj državi stranci koja je izjavila takvu rezervu.
+3. Svaka država stranka koja je izjavila rezervu sukladno stavku 2. ovog članka može u bilo koje vrijeme povući tu rezervu notifikacijom glavnom tajniku Ujedinjenih naroda.
