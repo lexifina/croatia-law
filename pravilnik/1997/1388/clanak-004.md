@@ -1,0 +1,3 @@
+# Članak 4.
+Korisnik je dužan radove na vađenju (iskopu) pjeska, šljunka i kamena organizirati na način, da se iskopane količine materijala uvijek mogu utvrditi na siguran način, zavisno od okolnosti izvođenja radova.
+Prigodom formiranja deponija korisnik je dužan izvršiti geodetsku izmjeru nakon završetka glavnine slijeganja, ali prije početka otpreme materijala. Prigodom istovremenog deponiranja i otpreme materijala korisnik je dužan formirati više deponija (kazeta) ili izračunati količinu otpremljenog materijala na temelju volumena tovarnih sanduka prijevoznih sredstava (u mł) ili razlika u masama (težinama) praznih i punih vozila dobivenih vaganjem (u t), koristeći pritom dokumentirane podatke o volumenskim težinama iskopanog materijala.
