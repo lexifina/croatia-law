@@ -1,0 +1,4 @@
+# Članak 2.
+Državljani Republike Hrvatske, članovi diplomatske misije ili konzularnog ureda, službeni predstavnici Republike Hrvatske u međunarodnim organizacijama sa sjedištem na teritoriju Republike Armenije ili dužnosnici tih međunarodnih organizacija, ukoliko su nositelji važeće diplomatske ili službene putovnice, mogu ući na teritorij Republike Armenije bez vize unutar razdoblja obnašanja njihove dužnosti.
+Državljani Republike Armenije, članovi diplomatske misije ili konzularnog ureda, službeni predstavnici Republike Armenije u međunarodnim organizacijama sa sjedištem na teritoriju Republike Hrvatske ili dužnosnici tih međunarodnih organizacija, ukoliko su nositelji važeće diplomatske ili službene putovnice, mogu ući na teritorij Republike Hrvatske bez vize unutar razdoblja obnašanja njihove dužnosti.
+Ovaj recipročni režim vrijedi i za članove obitelji osoba spomenutih u stavcima 1. i 2., ukoliko su nositelji važeće diplomatske ili službene putovnice.
