@@ -1,0 +1,2 @@
+# Članak 2.
+Sredstva za osnivanje i početak rada Brodarskog instituta d. o. o. Zagreb osiguravaju se iz sredstava koja su preuzeta od bivšeg Brodarskog instituta SSNO temeljem odredbi Uredbe o preuzimanju sredstava JNA i SSNO-a na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske ("Narodne novine", br. 52/91), iz sredstava ostvarenih poslovanjem, iz proračuna Republike Hrvatske i drugih izvora u skladu s važećim propisima.

@@ -1,0 +1,2 @@
+# Članak 4.
+Organ upravljanja u Brodarskom institutu je Upravni odbor. Upravni odbor ima devet članova od kojih šest imenuje Vlada Republike Hrvatske na prijedlog Ministarstva pomorstva, Ministarstva znanosti, tehnologije i informatike i Ministarstva obrane, a tri člana biraju djelatnici Brodarskog instituta. Do donošenja statuta članove Upravnog odbora iz Hrodarskog instituta izabrat će na zajedničkoj sjednici Kolegij i Znanstveno vijeće Brodarskog instituta.

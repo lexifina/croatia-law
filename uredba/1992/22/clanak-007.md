@@ -1,0 +1,2 @@
+# Članak 7.
+Brodarskim institutom rukovodi direktor kojeg imenuje i razrješava Vlada Republike Hrvatske. Direktor predstavlja i zastupa Brodarski institut u okvirima registriranih djelatnosti. Direktor je odgovoran za provođenje utvrđene poslovne politike, akata i odluka koje je donio Upravni odbor, u okvirima zakona i statutom utvrđenih ovlasti. Direktor Brodarskog instituta je naredbodavac za izvršenje financijskog proračuna Brodarskog instituta.
