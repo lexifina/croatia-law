@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se osnove stjecanja i raspodjele sredstava za izvedbu Nacionalnog znanstvenogistraživačkog programa, te ostali čimbenici za određivanje novčane podloge rada javnih instituta (u daljnjem tekstu: instituti), te drugih instituta i tehnoloških centara u vlasništvu ili suvlasništvu Republike Hrvatske, način na koji ministar znanosti i tehnologije (u daljnjem tekstu: Ministar) utvrđuje broj radnih mjesta za koja se plaće i druga primanja osiguravaju u proračunu Republike Hrvatske, te ostala pitanja u svezi s osnovama financiranja znanstvenoistraživačke djelatnosti na institutima.

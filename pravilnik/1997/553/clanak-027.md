@@ -1,0 +1,5 @@
+# Članak 27.
+Institutima koji prema čl. 26. ovog Pravilnika imaju ukupni višak znanstvenog, suradničkog i ostalog osoblja iznad 20%, odredit će se privremeni zbroj koeficijenata zaposlenika do visine zaposlenih na dan potpisivanja ugovora za izvedbu programa u 1996. godini.
+Instituti iz stavka 1. ovoga članka moraju do 15. 6. 1997. godine predložiti programe usklađene s brojem znanstvenika i radnika određenog temeljem podataka iz stavka 2. članka 26. ovoga Pravilnika.
+Ministarstvo će, prije donošenja konačnog zbroja koeficjenata zaposlenika, u zajednici sa institutom uskladiti financiranje instituta iz stavka 1. ovoga članka.
+Instituti koji temeljem podataka iz stavka 2. članka 26. ovoga pravilnika imaju ukupni višak ili manjak znanstvenog, stručnog i ostalog osoblja ispod 20%, temeljem odredbi iz stavka 2. članka 13 ovoga Pravilnika neće mijenjati ukupni broj zaposlenika, ali moraju uskladiti programe s raspoloživim brojem znanstvenika i suradnika u skladu s odredbama članka 19. ovog Pravilnika.

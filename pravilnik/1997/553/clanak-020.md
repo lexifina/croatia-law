@@ -1,0 +1,5 @@
+# Članak 20.
+Broj znanstvenika, broj suradnika i broj ostalih zaposlenika utvrđen na način iz prethodnog članka, pomnožit će se prosječnim koeficijentom za svaku grupu zvanja, kako bi se dobio zbroj koeficijenata zaposlenika (ZKZ-1) koji sudjeluju u izvođenju programa.
+Za zaposlenike koji obavljaju stručne i opće poslove (zaposlenici iz članka 18. ovoga Pravilnika) odobrit će se sredstva za njihove plaće u iznosu do 8% od vrijednosti zbroja koeficijenata zaposlenika (ZKZ) iz stavka 4. ovoga članka. U izuzetnim slučajevima (rad na više lokacija uz posebno ustrojstvo ustrojbenih jedinica) Ministarstvo može odobriti veći broj zaposlenika koji obavljaju stručne i opće poslove.
+Za zaposlenike koji rade na poslovima održavanja čistoće odobrit će se sredstva za njihove plaće i ostala primanja i naknade na način da na svakih 900 m2 dolazi po jedno plaćeno radno mjesto. U izuzetnim slučajevima (kliničke ili laboratorijske prostorije) Ministarstvo može odobriti veći broj zaposlenika za održavanje čistoće.
+Zbroj koeficijenata svih zaposlenika iz st. 1, 2 i3. ovoga članka čini ukupan zbroj koeficijenata zaposlenika (ZKZ) instituta.

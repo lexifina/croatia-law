@@ -1,0 +1,3 @@
+# Članak 5.
+Instituti i tehnološki centri u vlasništvu ili suvlasništvu Republike Hrvatske, a koji su ustrojeni kao trgovačko društvo, ili su u sklopu trgovačkog društva, osiguravaju plaće zaposlenika i osnovne troškove rada instituta ili centra iz vlastitih prihoda, a Ministarstvo može osigurati sredstva za znanstvenoistraživačke i razvojne programe i projekte, za opremu, tekuće održavanje i kapitalna ulaganja.
+Institut i centri koji nisu u vlasništvu ili suvlasništvu Republike Hrvatske mogu s Ministarstvom sklopiti ugovor za rad na znanstvenoistraživačkim ili razvojnim programimi ili projektima, o čemu odlučuje Ministar.

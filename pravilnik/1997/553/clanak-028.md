@@ -1,0 +1,4 @@
+# Članak 28.
+Ministar će do 1.10.1997. godine utvrditi konačni zbroj koeficijenata (ZKZ) za radna mjesta službenika i namještenika na institutima za koja se sredstva za plaće osiguravaju u proračunu Republike Hrvatske na način propisan člankom 19. ovoga Pravilnika.
+Ministar će konačni zbroj koeficijenata (ZKZ) utvrditi na temelju detaljne obrade podataka o programima za izvedbu Nacionalnog znanstvenoistraživačkog programa u 1997. godini, kao analize raspoloživog prostora, broja zaposlenika i drugih relevantnih pokazatelja.
+Čelnici instituta su u roku od 30 dana od dana donošenja konačnog zajedničkog koeficijenta zaposleniku iz stavka 1. ovoga članka uskladiti akte o ustroju radnih mjesta s odredbama ovoga Pravilnika, te rasporediti zaposlenike prema usklađenom aktu o ustroju radnih mjesta za koja se sredstva za plaće osiguravaju u proračunu Republike Hrvatske.
