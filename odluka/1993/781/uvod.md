@@ -1,0 +1,1 @@
+Na temelju članka 136. stavak 2. Zakona o vodama ("Narodne novine". br. 53/90, 9/91, 61/91, 26/93 i 28/93) Upravni odbor Javnog vodoprivrednog poduzeća "Hrvatska vodoprivreda" na 20. sjednici održanoj dana 23. travnja 1993. godine, donio je.
