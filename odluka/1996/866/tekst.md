@@ -1,0 +1,7 @@
+1. Narodna banka Hrvatske izdaje prigodni optjecajni kovani novac od 50 lipa u povodu održavanja finalnog turnira Europskog nogometnog prvenstva u Engleskoj od 8. do 30. lipnja 1996. godine na kojem sudjeluje i nogometna reprezentacija Republike Hrvatske.
+2. Prigodni optjecajni kovani novac iz točke 1. ove Odluke izdaje se u ukupnoj svoti od 450.000,00 kuna i u ukupnoj količini od 900.000 komada.
+3. Prigodni optjecajni kovani novac od 50 lipa ima istovjetan sastav slitine, promjer, masu, oblik i obod iskazan u Odluci o apoenima i osnovnim obilježjima novčanica i kovanog novca kune i lipe ("Narodne novine" br. 37/94.).
+4. Izgled lica prigodnog optjecajnog kovanog novca iz točke 1. ove Odluke u svemu je istovjetan izgledu lica kovanog novca od 50 lipa opisanog u Odluci o apoenima i osnovnim obilježjima novčanica i kovanog novca kune i lipe ("Narodne novine" br. 37/94.).
+5. Naličje prigodnog optjecajnog kovanog novca od 50 lipa izgleda ovako: u središnjem dijelu prikaz je znaka Hrvatskog nogometnog saveza, sa središnjom plohom unutar koje je okomito ispisana kratica naziva Hrvatskog nogometnog saveza "HNS", te bočnim plohama, unutar kojih su stilizirana dva okomita retka sa šest reljefnih, mat, kvadrata i pet ravnih, sjajnih, kvadrata. Na završetak triju ploha, uz donji rub, položena je nogometna lopta. Iznad znaka Hrvatskog nogometnog saveza ispisan je polukružno, u dva retka, tekst "ENGLESKA" i brojke "1996.". Kružno, uz rub, ispisan je tekst "EUROPSKO NOGOMETNO PRVENSTVO".
+6. Ova Odluka stupa na snagu danom objave u "Narodnim novinama".
+O.br. 349/96.
