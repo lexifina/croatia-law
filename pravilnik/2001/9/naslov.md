@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o obaveznom atestiranju odbojnika koji se upotrebljavaju na dizalima te o uvjetima kojima moraju udovoljavati organizacije udruženog rada ovlaštene za atestiranje tih proizvoda
