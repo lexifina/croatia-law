@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4. Zakona o plaćanju doprinosa za mirovinsko osiguranje u 2001. godini (»Narodne novine«, broj 127/2000), Vlada Republike Hrvatske je na sjednici održanoj 30. ožujka 2001. godine donijela
