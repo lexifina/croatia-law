@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja ("Narodne novine", broj 4/94, 81/94, 31/95, 57/96 i 71/96) u točki 2. podstavki 1. Naputka o načinu popunjavanja obrasca - VON - Potvrda o porastu prosječne plaće, koji je sastavni dio Pravilnika brišu se riječi: "umanjenu za zakonom propisane doprinose, porez i prirez koji se plaćaju "iz" plaće zaposlenika."
