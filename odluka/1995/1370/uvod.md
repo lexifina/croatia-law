@@ -1,0 +1,1 @@
+Na temelju članka 50. stavak 2. Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 43/92 - pročišćeni tekst, 69/92, 25/93, 48/93, 2/94, 44/94 i 58/95), Vlada Republike Hrvatskeje na sjednici održanoj 16. listopada 1995. godine donijela
