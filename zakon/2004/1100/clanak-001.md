@@ -1,0 +1,6 @@
+## KULTURNA VIJEĆA MINISTARSTVA KULTURE
+# Članak 1.
+(1) Kulturna vijeća (u daljnjem tekstu: Vijeća) osnivaju se pri Ministarstvu kulture za pojedina područja umjetničkog i kulturnog stvaralaštva radi predlaganja ciljeva kulturne politike i mjera za njezino provođenje, a posebice predlaganja programa javnih potreba u kulturi za koja se sredstva osiguravaju iz državnog proračuna Republike Hrvatske, te radi ostvarivanja utjecaja kulturnih djelatnika i umjetnika na donošenje odluka važnih za kulturu i umjetnost.
+(2) U ostvarivanju zadaća iz stavka 1. ovoga članka, Vijeća pružaju stručnu pomoć ministru kulture pri donošenju i provedbi godišnjih i dugoročnih programa javnih potreba u kulturi od interesa za Republiku Hrvatsku i njihovo financiranje, suodlučuju o utvrđivanju kulturne politike i u tu svrhu daju stručne podloge i mišljenja Ministarstvu kulture i ministru, te obavljaju i druge poslove predviđene ovim Zakonom koji pridonose ostvarenju zadaća iz stavka 1. ovoga članka. O svojim zaključcima i prijedlozima Vijeća pisano izvještavaju ministra kulture.
+(3) Vijeća na zahtjev ministra kulture raspravljaju o pojedinim pitanjima s područja kulture i umjetnosti i o njima daju ministru pisana mišljenja i prijedloge.
+(4) Rad Vijeća je javan.
