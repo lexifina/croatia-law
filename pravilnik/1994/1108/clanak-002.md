@@ -1,0 +1,2 @@
+# Članak 2.
+Korisnici naknade su proizvođači ili dorađivači kvalitetnog poljoprivrednog sjemena i proizvođači NPK gnojiva, za prodane i isporučene količine tih proizvoda iz domaće proizvodnje, pravnim i fizičkim osobama koje ih koriste za proizvodnju u poljoprivredi na teritoriju Republike Hrvatske. ako su pri prodaji svojih proizvoda umanjili kupcima prodajnu cijena tih proizvoda za iznos naknade. Korisnici naknade jesu i proizvođači sardina konzervi za prodane I isporučene količine tog proizvoda na domaćem tržištu ili izvozu.
