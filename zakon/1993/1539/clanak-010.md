@@ -1,0 +1,2 @@
+# Članak 10.
+Ovlašteni djelatnici Porezne uprave, iz članka 9. ovoga Zakona u obavljailju stalnog i prethodnog nadzora mogu pregledavati dokumentaciju, poslovne knjige i druge isprave radi utvrđivanja da li su porezne obveze obračunate, iskazane te uredno i pravodobno izmirene, mogu pregledavati prostorije, proizvodnju, robu, uređaje i opremu, utvrđivati identitet osoba koje obavljaju djelatnost i poslovodne, financijske ili računovodstvene poslove te uzimati od njih izjave u svezi s obračunavanjem, evidentiranjem i plaćanjem poreza i pristojbi i njihovim radom.
