@@ -1,0 +1,1 @@
+Na temelju članka 65. stavka 2. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata (»Narodne novine«, br. 91A/93, 36/98 i 32/2001), Vlada Republike Hrvatske je na sjednici održanoj 5. srpnja 2001. godine donijela
