@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o eksproprijaciji ("Narodne novine", broj 46/82, 28/87, 39/88 i 73/91), a povodom prijedloga Javnog vodoprivrednog poduzeća za slivno područje grada Zagreba, Zagreb, Avenija Vukovar 220, Vlada Republike Hrvatske, na sjednici održanoj 23. listopada 1992. godine, donijela je
