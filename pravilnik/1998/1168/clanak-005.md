@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Ispostava područnog ureda Porezne uprave kojoj je podnesen zahtjev za naknadu provjerava je li zahtjev za naknadu podnijet u skladu s odredbama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu i ovog Pravilnika.
+(2) Nakon što se provede kontrola obračuna i utvrdi da je zahtjev za naknadu podnesen u roku, ispravan, te da su ispunjeni uvjeti iz ovoga Pravilnika, zahtjev ovjerava pečatom i potpisuje službenik koji je obavio kontrolu i voditelj ispostave područnog ureda Porezne uprave. Jedan ovjereni primjerak zahtjeva vraća se korisniku naknade, a drugi s ostalom dokumentacijom zadržava ispostava područnog ureda Porezne uprave za svoje potrebe. Nalog za naplatu - obrazac 43 potpisuju ovlaštene osobe ispostave područnog ureda Porezne uprave, ovjerava ga pečatom i dostavlja na izvršenje Zavodu za platni promet, Poslovnica 2, Zagreb, Smičiklasova 17.
+(3) Zahtjev za isplatu naknade riješit će se u roku od tri dana od dana primitka, a isplata će se obaviti najkasnije u roku od osam dana od dana rješenja zahtjeva.
+(4) S nepotpunim zahtjevima postupit će se prema odredbama Zakona o općem upravnom postupku ("Narodne novine", br. 53/91.).
+(5) Naknada se isplaćuje na teret računa broj 30102-789-2229 Ministarstvo poljoprivrede i šumarstva - Sredstva za novčane poticaje i naknade, a u korist žiro računa korisnika naknade.
