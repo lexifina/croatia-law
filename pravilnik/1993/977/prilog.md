@@ -1,0 +1,24 @@
+OBRAZAC ERK
+OBRAZAC ORK
+Naziv korisnika sredstava
+Nadležna jedinica Zavoda
+__________________________________________________________________________________
+Redni Br. i datum Iznos Namjena Visina Iznos kamate na Visina Iznos
+broj ugovora o kreditu korištenja sredstava eskontne korištena sredstva regresa obrač.
+ili ugovora o kupnji sredstava stope obr. i naplaćena u % regr.
+vrijednosnih papira NBH po eskontnoj
+stopi NBH
+__________________________________________________________________________________
+1 2 3 4 5 6 7 8
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+UKUPNO__________________________________________________________________
+Pečat i potgis ovlaštene osobe davaoca Mjesto i datum
+sredstava
+________________________________ _________________
+Pečat i potpis ovlaštene osobe nadležne Pečat i potpis ovlaštene osobe odnosno
+jedinice Zavoda potpis korisnika sredstava
+______________________________ ________________________________

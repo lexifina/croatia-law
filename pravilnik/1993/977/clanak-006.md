@@ -1,0 +1,3 @@
+# Članak 6.
+Po primitku zahtjeva za regres i izvršenoj kontroli njegove ispravnosti, Zavod odnosno nadležna jedinica Zavoda jedan ovjeren primjerak ObraČuna regresa vraća korisniku, drugi zadržava, a treći zajedno s nalogom za isplatu, u roku od tri dana, dostavlja jedinici Zavoda 30102 u Zagrebu, Smičiklasova br. 7 koja ga dostavlja Ministarstvu poljoprivrede i šumarstva istog dana kad izvrši isplatu s računa Ministarstva.
+Četvrti primjerak Obračuna regresa, za svakog korisnika, nadležna jedinica Zavoda dostavlja Ministarstvu poljoprivrede i šumarstva u roku tri dana od dana primitka zahtjeva za regres.

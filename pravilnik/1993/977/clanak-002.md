@@ -1,0 +1,2 @@
+# Članak 2.
+Korisnici prava na regres (u daljnjem tekstu: korisnici regresa) iz članka 2. Zakona, radi ostvarivanja svojeg prava podnose zahtjev za isplatu regresa (u daljnjem tekstu: zahtjev za regres) jedinici Zavoda za platni promet (u daljnjem tekstu: Zavod) kod koje se vodi njihov žiro-račun, a korisnici regresa koji nemaju žiro-račun kod Zavoda - jedinice Zavoda prema svojem prebivalištu odnosno sjedištu (u daljnjem tekstu: nadležna jedinica Zavoda).
