@@ -1,0 +1,6 @@
+# Članak 27.
+(1) Ovlaštene pravne osobe i ovlašteni laboratoriji dužni su Zavodu omogućiti nesmetano obavljanje nadzora iz članka 26. ovoga Zakona.
+(2) Ako Zavod u obavljanju nadzora utvrdi da ovlaštena pravna osoba ili ovlašteni laboratorij ne zadovoljava neke od propisanih uvjeta, utvrdit će nedostatke i odrediti rok u kojem se ti nedostaci moraju otkloniti, odnosno rok u kojem mora zadovoljiti propisane uvjete.
+(3) Ako ovlaštena pravna osoba ili ovlašteni laboratorij u određenom roku ne postupi u skladu s odredbom iz stavka 2. ovoga članka ili ako Zavod u obavljanju nadzora utvrdi da ovlaštena pravna osoba ili ovlašteni laboratorij ne obavlja poslove za koje je ovlašten u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, rješenjem će toj pravnoj osobi ili ovlaštenom laboratoriju oduzeti dano ovlaštenje i brisati je iz evidencije.
+(4) Ako ovlaštena pravna osoba iz članka 22. stavka 2. ovoga Zakona u obavljanju nadzora utvrdi da osoba kojoj je izdana potvrda o osposobljenosti iz članka 22. stavka 3. ovoga Zakona ne zadovoljava uvjete iz članka 22. stavka 1. ovoga Zakona, rješenjem će poništiti izdanu potvrdu o osposobljenosti i brisati je iz evidencije.
+(5) Protiv rješenja iz stavka 4. ovoga članka osoba iz članka 22. stavka 1. ovoga Zakona može uložiti prigovor Zavodu u roku od 15 dana od dana primitka rješenja.

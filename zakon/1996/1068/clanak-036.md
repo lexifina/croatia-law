@@ -1,0 +1,4 @@
+# Članak 36.
+(1) Propisima o tehničkom nadzoru određuju se osobito: posebna oprema nad kojom se obavlja tehnički nadzor, vrste, sadržaj, postupak i način obavljanja tehničkog nadzora, odnosno pojedinih poslova tehničkog nadzora, opseg tehničkog nadzora, ovisno o vrsti posebne opreme i uvjetima uz koje se ona upotrebljava, rokovi u kojima se obavljaju pojedini poslovi tehničkog nadzora, sastavljanje i dostava zapisnika o izvršenom tehničkom nadzoru, podaci koje zapisnik mora sadržavati te dobavljačeva obveza podnošenja prijave u vezi sa posebnom opremom.
+(2) Propisima iz stavka 1. ovoga članka može se odrediti i način vođenja evidencije i obavljanja stručnih i tehničkih poslova u vezi s tehničkim nadzorom.
+(3) Propise iz stavka 1. ovoga članka donosi ravnatelj Zavoda u suglasnosti s nadležnim ministrom za područje za koje se propisuje tehnički nadzor.

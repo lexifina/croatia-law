@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Propisom o pakiranju proizvoda ili drugim propisom donesenim na temelju ovoga Zakona određuju se proizvodi koji moraju biti na propisan način upakirani, uvjeti i zahtjevi pakiranja, nazivna količina punjenja pakovine, znak kojim se prepoznaje pravna ili fizička osoba koja proizvodi ili stavlja proizvod u promet, gradiva za pakiranje, njihove značajke, oblici i mjere te uvjeti i zahtjevi tipizacije sredstava za pakiranje i ambalažu.
+(2) Propis iz stavka 1. ovoga članka donosi ravnatelj Zavoda, osim ako drugim zakonom, odnosno propisom donesenim na temelju toga zakona nije drukčije propisano.

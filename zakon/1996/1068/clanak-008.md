@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona primjenjuju se na domaće proizvode, procese i usluge kao i na proizvode iz uvoza i proizvode uzete u zakup iz inozemstva radi uporabe u Republici Hrvatskoj.
+(2) Odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona koje se odnose na jamčevni list, servis, osiguranje rezervnih dijelova i potvrđivanje ne primjenjuju se na robu carinskog podrijetla, proizvode amaterske samogradnje te na proizvode koji se pojedinačno uvoze na zahtjev i za potrebe fizičkih osoba, osim ako propisom donesenim na temelju ovoga Zakona ili drugim zakonom, odnosno propisom donesenim na temelju toga zakona nije drukčije propisano.
