@@ -1,0 +1,20 @@
+# Članak 7.
+Stručni nadzor obuhvaća:
+1. pregled stanja objekata, poslovnih i drugih prostorija te stanja i ispravnosti uređaja i opreme koja je u funkciji tehničkih pregleda, registracije vozila i poslova koji su s time povezani, te izdavanja pokusnih pločica, kao i drugih poslova koji se obavljaju u stanicama,
+2. utvrđivanje i donošenje programa o redovnim, te odluka o izvanrednim pregledima stanica za redovne i preventivne tehničke preglede vozila,
+3. nadzor nad radom nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila u odnosu na primjenu i poštivanje zakonskih i podzakonskih propisa te općih akata koji reguliraju tehničke preglede vozila, registraciju vozila i izdavanje pokusnih pločica, kao i posjedovanje ovlaštenja (licence), odnosno uspjeha na provjeri stručne osposobljenosti od strane nadzornika,
+4. kontrolu kvalitete obavljanja tehničkih pregleda vozila u stanicama za tehnički pregled vozila,
+5. kontrolu provođenja propisanih radnih operacija za utvrđivanje tehničke ispravnosti vozila,
+6. nadzor pravilnosti naplate naknada za tehnički pregled vozila i drugih poslova koji se obavljaju u stanicama za tehnički pregled vozila, te zakonitosti postupanja s financijskim sredstvima koja se s naslova javne ovlasti prikupljaju u stanicama za tehnički pregled vozila (cestarina, osiguranje, posebna naknada za okoliš i dr.), te postupanja s financijskim sredstvima koja pripadaju stručnoj organizaciji,
+7. predlaganje provođenja preventivnih i drugih mjera za kvalitetnije i funkcionalnije obavljanje poslova u stanicama za tehničke preglede vozila,
+8. predlaganje Ministarstvu unutarnjih poslova izdavanja ovlaštenja stručnoj organizaciji za obavljanje poslova tehničkih pregleda i drugih poslova što proizlaze iz ove javne ovlasti ili su s njima povezani, u stanici za tehnički pregled vozila,
+9. podnošenje zahtjeva nadležnom tijelu za poduzimanje mjera i provođenje nadzora nad zakonitosti rada stanica za redovni i preventivni tehnički pregled vozila, te predlaganje oduzimanja ovlaštenja za rad,
+10. predlaganje oduzimanja ovlaštenja (licence) Ministarstva unutarnjih poslova djelatnicima koji nestručno obavljaju određene poslove u stanicama za tehničke preglede vozila,
+11. kontrolu vođenja propisane dokumentacije i evidencije u stanicama za tehničke preglede vozila, te dostavu podataka nadležnim državnim organima i stručnoj organizaciji,
+12. primanje i rješavanje pritužbi na rad stanica za tehnički pregled vozila koje podnose građani ili djelatnici koji u njima rade,
+13. usklađivanje kriterija provedbe tehničkih pregleda i registracije vozila među stanicama za tehničke preglede vozila,
+14. nadzor nad odnosom pravne osobe u čijem sastavu posluje stanica za tehnički pregled vozila prema djelatnicima, te nad primjenom općih akata u odnosu na statusni i materijalni položaj djelatnika stanica za tehnički pregled vozila,
+15. obavljanje stručno-administrativnih poslova povezanih sa stručnim nadzorom,
+16. izdavanje potrebnih obrazaca u funkciji poslova stručnog nadzora,
+17. imenovanje ovlaštenih stručnih nadzornika i izdavanje službene iskaznice ovlaštenim stručnim nadzornicima za obnašanje poslova stručnog nadzora, te vođenje evidencije o izdanim službenim iskaznicama,
+18. obavljanje i drugih poslova koji se povjere rješenjem Ministarstva unutarnjih poslova, odnosno poslova koji su povezani s poslovima stručnog nadzora.

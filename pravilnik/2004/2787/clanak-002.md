@@ -1,0 +1,3 @@
+# Članak 2.
+Pravne osobe u čijem sastavu posluju stanice za tehnički pregled vozila dužne su postupati u skladu s odredbama Zakona o sigurnosti prometa na cestama (u daljnjem tekstu: Zakon), podzakonskih propisa, te općih akata i uputa koje donosi stručna organizacija (Centar za vozila Hrvatske i Hrvatski autoklub), a koje se odnose na tehnički pregled i registraciju vozila i poslove koji su s time povezani, te izdavanje pokusnih pločica, kao i druge poslove koji se obavljaju u stanicama.
+Pravne osobe iz stavka 1. ovog članka odgovorne su ako u obavljanju poslova ne postupaju u skladu sa Zakonom, podzakonskim propisima, općim aktima, te uputama koje donosi stručna organizacija.
