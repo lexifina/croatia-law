@@ -1,0 +1,1 @@
+Odluka o stalnim svotama doprinosa za obračunavanje i plaćanje doprinosa osoba osiguranih u određenim okolnostima za slučaj invalidnosti i tjelesnog oštećenja zbog ozljede na radu ili profesionalne bo
