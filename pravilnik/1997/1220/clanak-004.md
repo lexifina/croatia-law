@@ -1,0 +1,2 @@
+# Članak 4.
+Kada je invalidnost osiguranika nastala pod okolnostima iz članka 22. i 25. do 27. ZOMIO, za vrijeme trajanja radnog odnosa osiguranika - invalida rada, troškove zapošljavanja i novčanih naknada iz članka 53. stavka 5. i 7. ZOMIO, snosi Fond, a obveze osiguranja prekvalifikacije ili dokvalifikacije i zapošljavanja, preuzima Fond samo u slučajevima i uvjetima iz članka 2. i 3. ovoga pravilnika.
