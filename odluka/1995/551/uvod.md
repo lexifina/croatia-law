@@ -1,0 +1,1 @@
+Na temelju članka 79. i 80. Ustava Republike Hrvatske, članka 35. stavka 2 i članka 39. stavka 1 Poslovnika Zastupničkog doma Sabora Republike Hrvatske, Zastupnički dom Sabora Republike Hrvatske na sjednici 21. ožujka 1995., donio je
