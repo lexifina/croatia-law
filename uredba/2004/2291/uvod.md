@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 1. Zakona o prostornom uređenju (»Narodne novine«, br. 30/94, 68/98, 61/2000, 32/2002 i 100/2004), Vlada Republike Hrvatske je na sjednici održanoj 9. rujna 2004. godine donijela

@@ -1,0 +1,2 @@
+# Članak 10.
+U ZOP-u građevina se može graditi samo na uređenoj građevnoj čestici (pristup na građevnu česticu, odvodnja otpadnih voda i propisani broj parkirališnih mjesta) ili čije je uređenje započeto na temelju Programa izgradnje objekata i uređaja komunalne infrastrukture prema posebnom propisu, na način da su izvedeni barem zemljani radovi u skladu s urbanističkim planom uređenja za neizgrađeni dio građevinskog područja, odnosno s prostornim planom na temelju kojeg se provodi zahvat u prostoru za izgrađeni dio građevinskog područja.
