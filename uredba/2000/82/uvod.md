@@ -1,0 +1,1 @@
+Na temelju Članka 50. stavka 6. Pomorskog zakonika (»Narodne novine«, broj 17/94, 74/94 i 43/96), Vlada Republike Hrvatske je na sjednici održanoj 20. sijeČnja 2000. godine, donijela
