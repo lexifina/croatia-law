@@ -1,0 +1,3 @@
+# Članak 3.
+Visina naknade štete prouzročene drugim radnjama u odnosu na posebno zaštićene životinjske vrste iz članka 2. ovoga Pravilnika (ozljeđivanjem, rastjerivanjem, proganjanjem, hvatanjem i držanjem) kao i uništavanjem odnosno oštećivanjem njihovih razvojnih oblika (jaja, ličinki, mladunčadi) i njihovih gnijezda, legla ili staništa, utvrđuje se postotkom iznosa predviđenog za pojedinu životinjsku vrstu u članku 2. ovoga Pravilnika, i to u rasponu od 20% do 80%, imajući u vidu vrstu radnje, stupanj oštećenja i značenje zaštićene životinjske vrste.
+Ukoliko je šteta iz stavka 1. ovoga članka onemogućila životinji daljnji samostalni opstanak u prirodi, visina naknade štete utvrđuje se u visini naknade iz članka 2. ovoga Pravilnika.
