@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 18. stavku 2. briše se točka i dodaju riječi: "kada to odredi ovlaštena službena osoba granične policije ili na opravdan zahtjev stranke." Iza stavka 2. dodaju se stavci 3. i 4. koji glase: "Stranka može zahtijevati obavljanje kontrole iz stavka 2. ovoga članka radi zaštite zdravlja, zaštite čovjekova okoliša ili sigurnosti prometa. Troškove kontrole iz stavka 2. ovoga ·članka snosi stranka u slučaju kada je ona zahtijevala kontrolu prema troškovniku kojeg donosi ministar unutarnjih poslova."

@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 36. stavak 1. mijenja se i glasi: Državljanin s prebivalištem u inozemstvu koji nema odobrenje nadležnog tijela za nabavku oružja, može radi lova unijeti lovačko oružje i pripadajuće streljivo ako su mu to oružje i streljivo upisani u putnu ispravu." Iza stavka 3. dodaje se stavak 4. koji glasi: "Na izlasku iz zemlje granična pojicija oduzet će odobrenje za unos iz stavka 3. ovoga članka."
