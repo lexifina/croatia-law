@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003.), članka 38. stavka 3. pod I) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i članka 44. stavka 1. točke 1. i 2. Zakona o platnom prometu u zemlji (»Narodne novine«, br. 117/2001.), Savjet Hrvatske narodne banke na sjednici održanoj 8. prosinca 2004. donio je
