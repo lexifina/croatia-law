@@ -1,0 +1,2 @@
+# Članak 4.
+Hrvatskim povijesnim muzejom upravlja ravnateljstvo koje ima 9 članova, od kojih 5 imenuje Vlada Republike Hrvaztske na prijedlog ministra prosvjete i kulture, a 4 člana biraju radnici muzeja, tajnim glasovanjem iz reda stručnih muzejskih radnika. Ravnateljstvo obavlja poslove koje prema zakonu obavljaju organi upravljanja u radnim organizacijama društvenih djelatnosti, kao i druge poslove određene statutom Hrvatskog povijesnog muzeja.

@@ -1,0 +1,2 @@
+# Članak 9.
+Sredstva za rad Hrvatskog povijesnog muzeja počev od 1. siječnja 1992. osiguravat će se iz proračuna Republike Hrvatske putem Republičkog fonda za kulturu. Sredstva za rad Hrvatskog povijesnog muzeja u 1991. osiguravaju Gradski fond za kulturu Grada Zagreba za ostvarivanje programa Povijesnog muzeja Hrvatske, a Republika Hrvatska iz svog proračuna za ostvarivanje programa Muzeja revolucije naroda Hrvatske.
