@@ -1,0 +1,23 @@
+# Članak 56.
+Zadaća područne obrtničke komore jest da na svojem području:
+1. zastupa interese članica Komore pred tijelima općine, grada i županije,
+2. sudjeluje u davanju usluga promotivnih aktivnosti proizvoda i usluga organizacijom sajmova, izložaba i poslovnih kontakata,
+3. promiče marketing, razvojno-istraživački i inventivni rad,
+4. zastupa interese članica pri utvrđivanju mjera općinske, gradske i županijske politike, a napose na polju poreza, doprinosa i drugih davanja,
+5. radi na određivanju zajedničkih ciljeva, zadaća i prioriteta razvoja gospodarskih djelatnosti,
+6. promiče poduzetništvo,
+7. promiče, organizira i sudjeluje u obrazovanju za obrtništvo, dopunskoj izobrazbi kadrova za gospodarstvo, te vodi evidencije iz područja obrazovanja,
+8. prati i analizira gospodarsku politiku i njezino djelovanje na razvoj obrtništva i poduzetništva,
+9. predlaže članove komisije za polaganje pomočničkih i majstorskih ispita,
+10. prikuplja podatke za potrebe informatičkog sustava Komore i o drugim pitanjima iz svog djelokruga,
+11. izdaje potvrde, mišljenja i druge javne isprave na temelju ovlasti Komore, a u sklopu svojeg djelokruga,
+12. daje stručnu pomoć pri osnivanju udruženja obrtnika, obrtničkih radnji i trgovačkih društava,
+13. predlaže postavljanje stručnog poslovode iz članka 28. Zakona,
+14. upučuje stručna mišljenja i prijedloge općinskim, gradskim i županijskim tijelima o potrebama trgovačkih društava, obrtnika i poduzetnika,
+15. pomaže članicama u pretvorbi vlasništva, te uspostavi projekata razvoja i drugih poduzetničkih inicijativa,
+16. pomaže u izboru i ponudi potrebnih stručnih kadrova,
+17. usklađuje i dogovara interese članica glede pitanja iz kolektivnih ugovora,
+18. organizira zajedničke projekte promicanja rada i poslovanja članica,
+19. vodi registar udruženja obrtnika,
+20. koordinira i prati rad udruženja, a ako ne funkcioniraju njegovi organi i tijela, dužna je pokrenuti postupak te organizirati normalan rad udruženja,
+21. obavlja i druge poslove utvrđene ovim Statutom i općim aktima.
