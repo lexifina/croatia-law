@@ -1,0 +1,7 @@
+o utvrđivanju općeg interesa za izgradnju autoceste Zagreb - Varaždin - Goričan, dionica Popovec - Komin, brze ceste Helena - Bjelovar, dionica Helena - Vrbovec i privremeni spoj brze ceste Helena - Bjelovar na MC Zagreb - Vrbovec
+I.
+Utvrđuje se da je od općeg interesa izgradnja 1. autoceste Zagreb - Varaždin - Goričan, dionica Popovec - Komin od km 6 + 000 do km 28 + 400 na česticama zemljišta u katastarskim općinama Šašinovec i Lužan u Gradu Zagrebu te k.o. Paukovec, Helena, Obrež, Novo Mjesto, Hrastje i Komin u općini Sv. Ivan Zelina; 2: brze ceste za Bjelovar, dionica Helena - Vrbovec, od kz. 0 + 000 do km 7 + 415.00 na česticama zemljišta u katastarskoj općini Helena u općini Sv. Ivan Zelina te k.o. Mlaka, Samoborci, Nogavec i Pinakovec u općini Vrbovec i 3. privremenog spoja brze ceste za Bjelovar od km 7 + 415,00 do km 7 + 900.00 na postojeću magistralnu cestu Zagreb - Vrbovec (M 1.3) na česticama zemljišta u k.o. Pinakovec i Vrbovečka Poljana u općini Vrbovec.
+II.
+Opći interes za izgradnju autoceste, brze ceste; i privremenog spoja brze ceste iz točke I. ove odluke utvrđuje se na temelju uvjeta uređenja prostora koje je utvrdilo Ministarstvo zaštite okoliša, prostornog uređenja i stambenokomunalne djelatnosti broj UUP-11/91-11/GR od 13. studenog 1991. godine te izmjena i dopuna tih uvjeta uređenja prostora broj UUP-11-91-12/GR od 27. studenog 1991. godine.
+III.
+Ova odluka stupa na snagu osmog dana nakon objave u " Narodnim novinama".

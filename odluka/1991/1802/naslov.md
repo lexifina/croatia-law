@@ -1,0 +1,1 @@
+Odluka o utvrđivanju općeg interesa za izgradnju autoceste Zagreb - Varaždin - Goričan, dionica Popovec - Komin, brze ceste Helena - Bjelovar, dionica Helena - Vrbovec i privremeni spoj brze ceste Hel
