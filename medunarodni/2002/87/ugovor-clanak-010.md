@@ -1,0 +1,4 @@
+# Članak 10.
+REDOVI LETENJA, OBAVIJESTI I STATISTIKA
+1. Određeni zračni prijevoznik bilo koje ugovorne stranke podnijet će prijedlog redova letenja dogovorenog zračnog prometa (koji predstavlja redoviti zračni promet) na odobrenje zrakoplovnim vlastima druge ugovorne stranke najmanje trideset (30) dana prije datuma njihove primjene. Takvi redovi letenja sadržavat će sve bitne obavijesti, uključujući tip zrakoplova kojim će se navedeni letovi obavljati, učestalost letenja i raspored samih letova.
+2. Zrakoplovne vlasti bilo koje od ugovornih stranaka zrakoplovnim će vlastima druge ugovorne stranke, na njihov zahtjev, dostaviti takva periodična ili druga statistička izvješća koja mogu biti razumno zatražena u svrhu vođenja registra. Takva izvješća će obuhvaćati obavijest o obimu prometa kojeg određeni zračni prijevoznici obavljaju u ugovorenom zračnom prometu, te polazišta i odredišta tog prometa.
