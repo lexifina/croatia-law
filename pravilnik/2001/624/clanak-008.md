@@ -1,0 +1,2 @@
+# Članak 8.
+Temperatura u prostoriji za ispitivanje brojila mora biti u granicama od 20oC do 25oC za vrijeme pregleda indukcijskih brojila aktivne električne energije razreda točnosti 2 i indukcijskih brojila reaktivne električne energije razreda točnosti 3, a u granicama od 23oC ± 1oC za vrijeme pregleda indukcijskih brojila aktivne električne energije razreda točnosti 0,5 i 1 i statičkih (elektroničkih) brojila aktivne električne energije razreda točnosti 0,2S i 0,5S. Temperatura u radnoj prostoriji mjeri se termometrima s podjelom ljestvice od najmanje 0,5oC.
