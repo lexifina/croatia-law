@@ -1,0 +1,11 @@
+# Članak 10.
+DIVIDENDE
+1. Dividende koje društvo rezident države ugovornice plaća rezidentu druge države ugovornice mogu se oporezivati u toj drugoj državi.
+2. Međutim, takve dividende mogu se oporezivati i u državi ugovornici čiji je rezident društvo koje plaća dividende, i to prema zakonima te države, ali ako je primatelj dividendi stvarni korisnik, tada tako razrezan porez ne smije biti veći od:
+a) 5% od bruto-iznosa dividendi kad je stvarni korisnik društvo (izuzimajući partnerstvo) koje izravno posjeduje najmanje 25% kapitala u društvu koje plaća dividende;
+b) 15% od bruto-iznosa dividendi u svim drugim slučajevima.
+Nadležna tijela država ugovornica uređuju zajedničkim dogovorom kako treba provoditi odredbe o tim ograničenjima.
+Odredbe ovog stavka ne utječu na oporezivanje dobiti društva iz koje se plaćaju dividende.
+3. Izraz »dividenda« upotrijebljen u ovomu članku označava dohodak od dionica ili drugih prava, koja nisu potraživanja duga, što sudjeluju u dobiti te dohodak od drugih prava u društvu koji podliježe istom poreznom postupku kao i dohodak od dionica prema zakonima države čiji je rezident društvo koje vrši raspodjelu.
+4. Odredbe stavaka 1. i 2. ovoga članka ne primjenjuju se ako stvarni korisnik dividendi, koji je rezident države ugovornice, posluje u drugoj državi ugovornici čiji je rezident društvo koje isplaćuje dividende preko stalne poslovne jedinice što se nalazi u toj državi ili u toj drugoj državi obavlja samostalni rad iz stalnog sjedišta u toj državi, a pravo na osnovi kojega se dividende plaćaju povezano je sa stalnom poslovnom jedinicom ili stalnim sjedištem. U tom se slučaju, prema potrebi, primjenjuju odredbe članka 7. ili članka 14.
+5. Ako društvo koje je rezident države ugovornice ostvaruje dobit ili dohodak iz druge države ugovornice, ta druga država ne može razrezati nikakav porez na dividende koje plaća to društvo, osim ako su te dividende plaćene rezidentu te druge države ili ako je posjed dionica zbog kojih se dividende plaćaju stvarno povezan sa stalnom poslovnom jedinicom ili sa stalnim sjedištem u toj drugoj državi niti može oporezivati neraspodijeljenu dobit društva, pa čak ni onda ako se plaćene dividende ili neraspodijeljena dobit u cijelosti ili djelomično sastoje od dobiti ili dohotka nastalog u toj drugoj državi.
