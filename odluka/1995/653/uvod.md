@@ -1,0 +1,1 @@
+Na temelju članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske i članka 62. stavka 3. Pomorskog zakonika ("Narodne novine", br. 17/94. i 17/94.), Zastupnički dom Sabora Republike Hrvatske na sjednici 9. svibnja 1995., donio je
