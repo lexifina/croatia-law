@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske ("Narodne novine", broj 36/91), a povodom prijedloga Franje Fleša iz Zagreba, Mrazovićeva broj 5. Vlada Republike Hrvatske, na sjednici održnoj 24. travnja 1992. donijela je
