@@ -1,0 +1,4 @@
+# Članak 3.
+Narodna banka Hrvatske određuje se kao financijska ustanova po članku V. odjeljak
+1. Statuta Fonda te je ovlaštena u ime Republike Hrvatske obavljati sve poslove i transakcije dopuštene prema propisima Statuta Fonda. Ministarstvo financija određuje se kao financijska ustanova po članku III., odjeljak
+2. Statuta Banke te je ovlašteno u ime Republike Hrvatske obavljati sve poslove i transakcije dopuštene prema propisima Statuta Banke. Ministarstvo financija odreduje se kao nadležno tijelo za suradnju sa Korporacijom prema članku IV. odjeijak 10. Sporazuma o Korporaciji, članku II. odjeljak 10. Sporazuma o Udruženju i članka 38. Konvencije o osnivanju Agencije. Narodna banka Hrvatske određuje se kao depozitar u Republici Hrvatskoj za držanje valuta u vlasništvu Fonda, Banke, Korporacije, Udruženja i Agencije.
