@@ -1,0 +1,1 @@
+Na temelju članka 30. - 44. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine«, broj 117/93., 69/97., 33/00., 73/00., 127/00., 59/01., 107/01., 117/01., 150/02. i 147/03.) i članka 29. Statuta Grada Vrbovskog (»Službene novine« broj 26/01.) Gradsko vijeće Grada Vrbovskog na sjednici 25. listopada 2004. godine, donijelo je
