@@ -1,0 +1,1 @@
+Naredba o prestanku važenja Naredbe o određivanju visine cijene obrasca odobrenja za plovidbu stranih jahti i stranih brodica namijenjenih razonodi ili športu u unutrašnjim morskim vodama i teritorija
