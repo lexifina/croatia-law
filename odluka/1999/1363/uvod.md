@@ -1,0 +1,1 @@
+Na temelju članka 6. Pravilnika o mjerilima za korištenje prihoda proračunskih korisnika ostvarenih na tržištu od obavljanja osnovne i ostalih djelatnosti ("Narodne novine", broj 146/98), ministar prosvjete i športa donosi
