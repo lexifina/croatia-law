@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 48/85, 41/90, 47/90 i 53A/91), sukladno članku 1 I. Zakona o ustrojstvu republičke uprave ("Narodne novine", broj 41/90, 59/90 i 53A/91), ministar pravosuđa i uprave Republike Hrvatske donosi
