@@ -1,0 +1,343 @@
+# Članak 166.
+Zvanja i položaji upravnih službenika raspoređuju se u platne razrede:
+red. zvanja i položaji platni razredi
+br. od do
+1. - tajnik ministarstva III. I.
+- predstojnik Vladinog Ureda
+- zamjenik državnog revizora
+2.- tajnik kabineta predsjednika Sabora IV. II.
+- pomoćnik tajnika Zastupničkog doma
+- pomoćnik ministra (ravnatelj upravne organizacije u sastavu ministarstva:
+ravnatelj Carinske uprave, ravnatelj Porezne uprave, glavni devizni inspektor,
+glavni inspektor Financijske policije, ravnatelj Zavoda za zapošljavanje
+i dr.)
+- tajnik kabineta predsjednika Vlade
+- pomoćnik tajnika Vlade
+- veleposlanik
+- veleposlanik u MVP-u
+- glavni pravni savjetnik u MVP-u
+- glavni inspektor u MVP-u
+- zamjenik predstojnika ureda Vlade
+- pomoćnik glavnog državnog revizora
+- sudac Vrhovnog suda Republike Hrvatske
+3. - savjetnik predsjednika Sabora V. III.
+- savjetnik predsjednika Vlade
+- tajnik kabineta predsjednika Županijskog doma Sabora
+- tajnik kabineta potpredsjednika Zastupničkog doma
+- pročelnik službe domova Sabora
+- načelnik uprave MORH-a
+- načelnik policijske uprave
+- načelnik odjela u MVP-u
+- načelnik centra SZUP-a
+- načelnik sektora u MUP-u
+- pomoćnik ravnatelja Carinske uprave
+- pomoćnik ravnatelja Porezne uprave
+- pomoćnik ravnatelja Uprave kontrole leta
+- pomoćnik glavnog inspeklora Financijske policije
+- načelnik odjela u Državnom uredu za reviziju
+- pročelnik područnog ureda u Državnom uredu za reviziju
+- glavni inspektor
+- zamjenik ravnatelja državne upravne organizacije
+- sudac Upravnog suda RH
+- sudac Visokog trgovačkog suda
+- zamjenik Državnog odvjetnika RH
+- zamjenik javnog pravobranitelja RH
+- ravnatelj kaznenoga zavoda
+4. - tajnik kabineta potpredsjednika VI. III.
+Županijskog doma
+- pomoćnik tajnika Županijskog doma
+- savjetnik potpredsjednika domova Sabora
+- savjetnik potpredsjednika Vlade
+- tajnik radnoga tijela saborskog doma
+- zamjenik predstojnika vladinog ureda
+- tajnik kabineta potpredsjednika Vlade
+- tajnik radnog tijela Vlade
+- pomoćnik ravnatelja državnog zavoda
+- ministar savjetnik u MVP
+- pomoćnik predstojnika vladinog ureda
+- pomoćnik glavnog deviznog inspektora
+- pomoćnik glavnog inspektora Financijske policije
+- načelnik odjela centralne službe Financijske policije
+- glavni inspektor u ministarstvu
+- zamjenik načelnika u MVP-u
+- načelnik odjela u MUP-u
+- pročelnik carinarnice
+- zamjerlik načelnika uprave MORH-a
+- zamjenik načelnika policijske uprave
+- sudac županijskog suda
+- sudac republičkog vijeća za prekršaje
+- viši savjetnik u Vrhovnom sudu RH
+- pomoćnik ravnatelja kaznenoga zavoda
+- upravitelj okružnoga zatvora
+- načelnik nautičkog odsjeka
+- načelnik hidrografskog odsjeka
+- načelnik oceanološkog odsjeka
+- načelnik kartografskog odsjeka
+- načelnik reprodukcijskog odsjeka
+- načelnik informatičkog odsjeka
+- glavni instruktor KL
+- šef Službe zrakoplovnih obavješćivanja
+- glavni tehnolog KL
+- koordinator centara OKL-AKL
+- šef Centra oblasne KL.
+- zrakoplovno-tehnički koordinator
+- viši savjetnik
+- šef službe pravnih i gospodarskih poslova
+5. - samostalni savjetnik u stručnim službama domova Sabora VII. IV.
+- pomoćnik tajnika kabineta predsjednika Vlade
+- pomoćnik glavnog inspektora u ministarstvu
+- načelnik odjela u ministarstvu I državnoj upravnoj organizaciji
+- tajnik kabineta ministra
+- diplomatski savjetnik u MVP-u
+- glavni inspektor u MUP-u
+- pomoćnik pročelnika carinarnice
+- viši revizor u Državnoj reviziji
+- glavni inspektor
+- načelnik Uprave za obranu u MORH-u
+- načelnik odjela u Carinskoj upravi
+- pročelnik područnog ureda Porezne uprave
+- načelnik u središnjem uredu Porezne uprave
+- lučki kapetan
+- sudac vojnog suda
+- sudac trgovačkog suda
+- zamjenik županijskoga državnog odvjetnika
+- zamjenik županijskoga javnog pravobranitelja
+- savjetnik u Vrhovnom sudu RH
+- viši savjetnik u Visokom trgovačkom sudu
+- viši savjetnik u Upravnom sudu RH
+- viši savjetnik u Državnom odvjetništvu RH
+- viši savjetnik u Javnom pravobraniteljstvu RH
+- pomoćnik upravitelja okružnoga z.atvora
+- instruktor Oblasne KL, šef Centra AKL
+- tehnolog za postupke vojnog letenja
+- tehnolog OKL, tehnolog AKL
+- zrakoplov.-teh. savjet. - načel. odjela
+- organizator protoka prometa
+- voditelj smjene OKL, nadzornik smjene
+6 - savjetnik u Vladi ili savjetnik u pojedinim vladinim uredima VIII.
+V.
+- donačelnik odsjeka u ministarstvu i državnoj upravnoj organizaciji
+-viši savjetnik
+- donačelnik u središnjem uredu Porezne uprave
+- I. tajnik u MVP-u
+- pročelnik županijskoga ureda
+- načelnik postaje Financijske policije
+- donačelnik odsjeka u MUP-u
+- revizor u Državnoj reviziji
+- zamjenik vojnoga državnog odvjetnika
+- savjetnik u Upravnom sudu
+- savjetnik u Visokom trgovačkom sudu
+- savjetnik u Javnom pravobraniteljstvu RH
+- savjetnik u Državnom odvjetništvu RH
+- viši savjetnik u županijskom sudu
+- viši savjetnik u Carinskoj upravi
+- načelnik odjela u carinarnici
+- stručni suradnik u županijskom sudu
+- načelnik odjela u kaznenim tijelima
+- nautičar za sigurnost plovidbe i navigacijska obavještenja
+- oceanolog fizičar
+- fizičar meteorolog
+- oceanolog kemičar
+- oceanolog geolog
+- glavni redaktor pomorskih karata
+- instruktor za izradu postupaka KL
+- suradnik traganja i spašavanja
+- nadzornik protoka prometa
+- oblasni radarski KL s posebnim ovlaštenjem
+- oblasni radarski KL
+7 - zamjenik načelnika postaje Financijske policije IX. VI.
+- načelnik postaje Deviznog inspektorata
+- II. tajnik u MVP-u
+- donačelnik odsjeka u ministarstvu i državnoj upravnoj organizaciji
+-savjetnik
+- voditelj ispostave Porezne uprave
+- viši inspektor u Deviznom inspektoratu
+- viši inspektor I. klase u MUP-u
+- predstojnik carinske ispostave
+- pomoćni revizor u Državnom uredu za reviziju
+- predstojnik ureda za obranu MORH-a
+- sudac općinskog suda
+- viši savjetnik u Republičkom vijeću za prekršaje
+- savjetnik u županijskom sudu
+- viši savjetnik u županijskom državnom odvjetništvu
+- viši savjetnik u županijskom javnom pravobraniteljstvu
+- liječnik specijalista u Bolnici za osobe lišene slobode
+- nautičar za publikacije i priručnike
+- hidrograf - geodeta
+- hidrograf - elektroničar
+- hidrograf - nautičar
+- redaktor pomorskih karata
+- voditelj kartografsko-hidrografsko-informacijskog sustava
+- voditelj kartografsko-hidrografske baze podataka
+- programer kartograf-hidrograf
+- projektant kartografsko-hidrografsko-informacijskog sustava
+- bibliotekar-lektor
+- savjetnik za međunarodnu suradnju
+- nastavnik engleskog jezika i frazeologije
+- instruktor kabinetske nastave KL
+- instruktor AKL
+- zrakoplovno-tehnički suradnik -instruktor
+- oblasni sinoptičar
+8. - donačelnik odsjeka Financijske policije X. VII.
+- zamjenik načelnika odsjeka Deviznog inspektorata
+- III.tajnik u MVP-u
+- viši savjetnik
+- viši inspektor
+- viši inspektor u MUP-u
+- viši carinski inspektor
+- inspektor u Deviznom inspektoratu
+- inspektor-koordinator u Središnjem uredu Porezne uprave
+- zamjenik predstojnika carinske ispostave
+- voditelj inspekcije i sigurnosti plovidbe u lučkoj kapetaniji
+- pomoćnik pročelnika županijskog ureda
+- voditelj pododsjeka u ministarstvu i državnoj upravnoj organizaciji
+-savjetnik
+- predstojnik pododsjeka u županijskom uredu
+- zamjenik općinskog državnog odvjetnika
+- zamjenik općinskog javnoga pravobranitelja
+- viši savjetnik u općinskom sudu
+- stručni suradnik u općinskom sudu
+- savjetnik u županijskom državnom odvjetništvu
+- savjetnik u županijskom javnom pravobraniteljstvu
+- savjetnik u Republičkom vijeću za prekršaje
+- zapovjednik pravosudne policije
+- urednik zrakoplovnih glasila KL
+- voditelj smjene Centra AKL
+- prilazni radarski KL
+- zrakoplovno-tehnički suradnik
+- zrakoplovno-tehnički instruktor
+- savjetnik-sinoptičar
+- stručni suradnik za pravne poslove u UKL
+- savjetnik u UKL
+- šef računovodstva u UKL
+9. - stariji pristav I.vrste zvanja XI. VIII.
+- samostalni inspektor u MUP-u
+- savjetnik u MUP-u
+- voditelj ispostave lučke kapetanije I.vrste zvanja
+- sudac za prekršaje
+- savjetnik u općinskom sudu
+- inspektor-suradnik u Deviznom inspektoratu
+- inspektor Financijske policije
+- načelnik u područnom uredu Porezrie uprave
+- voditelj odsjeka u ispostavi Porezne uprave
+- instruktor župnih obavijesti KLNOTAM
+- oblasni neradarski KL
+- voditelj Odsjeka za obradu plana leta
+- geodet-kartograf
+- šef radarske postaje
+- voditelj Odjela za obračun i naplatu u UKL
+10. - savjetnik XIII IX.
+- inspektor
+- atasche u MVP-u
+- voditelj odjeljka u županijskom uredu I. vrste zvanja
+- voditelj odjeljka carinske ispostave
+- voditelj odjeljka u ispostavi Porezne uprave I. vrste zvanja
+- voditelj pododsjeka u ispostavi Porezne uprave
+- inspektor I. klase u MUP-u
+- kartograf I. vrste zvanja
+- nautičar za tehničku pripremu publikacija I. vrste zvanja
+- samostalni nadzornik pravosudne policije
+- voditelj pododsjeka u kaznenim tijelima
+- liječnik, stomatolog, farmaceut, veterinar i biokemičar u kaznenim
+tijelima
+- instruktor AFTN
+- kontrolor leta za obavješćivanje zrakoplova u letu
+- instruktor za obradu planova leta
+- prilazni neradarski KL
+11. - pristav I. vrste zvanja XIV. X.
+- inspektor u MUP-u
+- inspektor u ispostavi Porezne uprave I. vrste zvanja
+- pomoćnik pročelnika županijskog ureda II. vrste zvanja
+- voditelj ispostave lučke kapetanije II. vrste zvanja
+- stariji nadzornik pravosudne policije
+- zrakoplovni meteokoordinator
+12. - mlađi pristav I. vrste zvanja XV. XI.
+- voditelj odjeljka u ispostavi Porezne uprave II. vrste zvanja
+- mlađi inspektor u MUP-u
+- predstojnik pododsjeka u županijskom uredu II. vrste zvanja
+- zapovjednik hidrografskog broda
+- suradnik instruktora KL
+- suradnik u izradi zrakoplovnih glasila
+- toranjski KL
+- viši zrakoplovno-tehnički specijalist
+- zrakoplovno-tehnički područni specijalist
+- viši referent graditeljske operative
+13. - stariji pristav II.vrste zvanja XVI. XII.
+- stariji matičar II.vrste zvanja
+- stariji inspektor II.vrste zvanja
+- inspektor u ispostavi Porezne uprave II.vrste zvanja
+- viši policajac u MUP-u
+- carinik - voditelj smjene
+- voditelj odjeljka u županijskom uredu II.vrste zvanja
+- nadzornik pravosudne policije
+- viši medicinski tehničar,viša medicinska sestra,ing.medicinske radiologije
+u kaznenim tijelima
+- upravitelj brodskog postrojenja
+- voditelj pododsjeka II.vrste zvanja
+- voditelj motriteljske referade
+14. - pristav II.vrste zvanja XVI. XIII.
+- matičar II.vrste zvanja
+- inspektor II.vrste zvanja
+- carinik II.vrste zvanja - pristav
+- stariji policajac I.klase u MUP-u
+- voditelj pododsjeka u županijskom uredu III.vrste zvanja
+- nautičar za tehničku pripremu publikacija II.vrste zvanja
+- kartograf II.vrste zvanja
+- operator za obradu planova leta
+- voditelj Ureda predpoletnog obavješćivanja
+- zrakoplovno-tehnički aerodromski specijalist
+- zrakoplovno-tehnički referent
+- zrakoploviki inetentehničar
+15. - mlađi pristav II.vrste zvanja XVIII. XV.
+- mlađi matičar II.vrste zvanja
+- mlađi inspektor II.vrste zvanja
+- stariji policajac u MUP-u
+- voditelj odjeljka u županijskom uredu III.vrste zvanja
+- mlađi nadzornik pravosudne policije
+- nautičar II.vrste zvanja
+- hidrograf-geodet II.vrste zvanja
+- hidrograf-elektroničar II. vrste zvanja
+- hidrograf-nautičar II vrste zvanja
+- oceanolog-laborant II. vrste zvanja
+- oceanolog-kemijski laborant II. vrste zvanja
+- kartografski crtač II. vrste zvanja
+- kartografski crtač-dizajner II. vrste zvanja
+- operator NOTAM-a
+- kartograf
+- operator AFTN-voditelj smjene
+16. - stariji pristav III. vrste zvanja XVIII. XVI.
+- stariji matičar III. vrste zvanja
+- stariji inspektor III. vrste zvanja
+- policajac I. klase u MUP-u
+- carinik - stariji pristav III. vrste zvanja
+- stariji pravosudni policajac
+- nautičar III. vrste zvanja
+- hidrograf-geodet III. vrste zvanja
+- hidrograf-elektroničar III. vrste zvanja
+- hidrograf-nautičar III. vrste zvanja
+- oceanolog-laborant III. vrste zvanja
+- oceanolog-kemijski laborant III. vrste zvanja
+- kartografski crtač III. vrste zvanja
+- kartografski crtač-dizajner III. vrste zvanja
+- offset strojar - DHI
+- kormilar
+- operator AFTN
+- korektor AFTN
+17. - pristav III. vrste zvanja XX XVI.
+- matičar III. vrste zvanja
+- inspektor III. vrste zvanja
+- policajac u MUP-u
+- carinik III. vrste zvanja - pristav
+- pravosudni policajac
+- medicinski tehničar, medicinska sestra, laborant u kaznenim tijelima
+- reprofotograf - DHI
+- slovoslagar - DHI
+- knjigovezac - DHI
+18. - mlađi pristav III. vrste zvanja XXI. XVII
+- mlađi matičar III. vrste zvanja
+- mlađi inspektor III. vrste zvsnja
+- mlađi policajac u MUP-u
+- mlađi pravosudni policajac
+- mornar na hidrografskom brodu
+- operator na fotoslogu - DHI
+- kopirer - DHI
