@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Smiljko Sokol, predsjednik Suda, te suci Velimir Belajec, Marijan Hranjski, Petar Klarić, Jurica Malčić, Ivan Matija, Ivan Mrkonjić, Jasna Omejac, Emilija Rajić, Vice Vukojević i Milan Vuković, u povodu prijedloga za ocjenu ustavnosti zakona, na sjednici održanoj dana 5. srpnja 2000. godine, donio je sljedeće
