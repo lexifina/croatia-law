@@ -1,0 +1,1 @@
+Na temelju člana 83. Statuta Privredne komore Zagreb i prijedloga Predsjedništva Privredne komore Zagreb sa sjednice od 21. prosinca 1990., Skupština Komore na sjednici održanoj 24. siječnja 1991., utvrđuje
