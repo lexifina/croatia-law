@@ -1,0 +1,1 @@
+Na temelju članka 13., 24., 32., 33., 36., 39., 42. i 46. Zakona o financiranju jedinica lokalne samouprave i uprave ("Narodne novine", br. 117/93) i članka 21. alineje 2. Privremenog statuta Grada Zagreba ("Službeni glasnik Grada Zagreba", br. 9/93.), Gradska skupština Grada Zagreba, na 11 sjednici, 18. svibnja 1894., donijela je
