@@ -1,0 +1,8 @@
+Obrazloženje
+Božidar Pastuović iz Zagreba, podnio je ovom Sudu prijedlog za ocjenu ustavnosti i zakonitosti odredaba navedenih u izreci ovog rješenja.
+Osporenom Odlukom- kao što je izričito navedeno u njezinu članku 1. - "uređuju se način i uvjeti davanja u zakup, način korištenja, te uvjeti za raskid ugovora o zakupu poslovnog prostora kojeg je vlasnik Grad Zagreb".
+Ustavni sud Republike Hrvatske - razmatrajući sadržaj osporene Odluke - utvrdio je da ona nema karakter propisa iz članka 125. al. 2. Ustava Republike Hrvatske, pa da stoga ne može biti predmetom ustavnosudske ocjene.
+Zakon o poslovnim zgradama i prostorijama ("Službeni list", br. 43/65, 57/65), preuzet kao republički zakon ("Narodne novine", br. 52/72), doduše omogučava općinskoj skupštini da, temeljem taksativno navedenih ovlaštenja (odredbe članaka 5, 6. i 46), uređuje određene odnose u oblasti korištenja poslovnog prostora, dakle da donosi akte opće obaveznog sadržaja (propisi) koji djeluju prema svima i odnose se na sve.
+Medutim, donoseći osporenu odluku, Skupština Grada Zagreba nije uređivala odnose u oblasti poslovnog prostora temeljem navedenih zakonskih ovlaštenja, već kao zakupodavac poslovnog prostora kojeg je vlasnik Grad Zagreb, odnosno kao jedna od ugovornih strana koja javno obznanjuje način i uvjete davanja u zakup poslovnog prostora i njegova korištenja, te uvjete za raskid ugovora o zakupu poslovnog prostora. Stoga, osporena Odluka takvog sadržsja nema karakter propisa.
+Zbog toga odlučeno je kao u izreci ovogrješenja. Objava ovog rješenja u "Narodnim novinama" i u "Službenom glasniku" Grada Zagreba temelji se na odredbi
+članka 20. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", br. 13/91).
