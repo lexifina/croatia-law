@@ -1,0 +1,1 @@
+Na temelju člana 13. stava 2. Zakona, o odvjetništvu i službi pravne pomoći ("Narodne novine", br. 53/72) Odvjetnička komora Hrvatske donijela je je 15. prosinca 1989. uz suglasnost Izvršnog vijeća Sabora od 28. siječnja 1990.
