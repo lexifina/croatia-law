@@ -1,0 +1,1 @@
+Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana porodice i o uvjetima prestanka prava na porodičnu mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u godini
