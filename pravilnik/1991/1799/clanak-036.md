@@ -1,0 +1,4 @@
+# Članak 36.
+Oznake zabrane su:
+1-1 ZABRANJENO NJIHANJE
+1-2 ZABRANJEN PRlSTUP
