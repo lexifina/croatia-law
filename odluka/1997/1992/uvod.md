@@ -1,0 +1,1 @@
+Na temelju lanka 31. stavaka 1. i 2. a u svezi sa člankom 8. stavkom 4. Zakona o morskim lukama ("Narodne novine", broj 108/95), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 1997. godine donijela
