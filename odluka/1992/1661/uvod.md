@@ -1,0 +1,1 @@
+Na temelju članka 249. stavak 1. točka 1. i članka 257. Carinskog zakona ("Narodne novine", br. 53A/91, 33/92, 40/92 I 61/92), Vlada Republike Hrvatske na sjednici održanoj 2. listopada 1992. godine, donijela je
