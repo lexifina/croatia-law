@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 65. Zakona o zdravstvenom osiguranju ("Narodne novine" broj 1/97 - pročišćeni tekst, 109/97 i 13/98) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 1. sjednici održanoj 18. ožujka 1998. godine, donijelo je
