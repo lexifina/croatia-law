@@ -1,0 +1,5 @@
+1. Mirovine korisnika mirovina koji su pravo na mirovinu ostvarili do 31. prosinca 1998. u bivšem Republičkom fondu mirovinskog i invalidskog osiguranja radnika Hrvatske, i koje su usklađene od 1. ožujka 1998. za 3,5% prema Odluci o usklađivanju mirovina od 1. ožujka 1998. i o najvišoj starosnoj i invalidskoj mirovini ("Narodne novine", broj 74/98.) i od 1. srpnja 1998. za 2,17%, prema Odluci o usklađivanju mirovina od 1. srpnja 1998. i o najvišoj starosnoj i invalidskoj mirovini ("Narodne novine" broj 136/98), usklađuju se od 1. siječnja 1999. za 3,9%.
+2. Osnovica za usklađivanje mirovina za korisnike mirovina koji su pravo na mirovinu ostvarili do 31. prosinca 1998. je mirovina koja je korisniku isplaćena za mjesec prosinac 1998. godine.
+3. Najviša starosna i invalidska mirovina korisnika koji su mirovinu ostvarili do 31. prosinca 1998., od 1. siječnja 1999. iznosi 4.385,64 kn.
+4. Usklađivanje mirovina prema ovoj odluci obavit će se po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1999.
