@@ -1,0 +1,23 @@
+# Članak 14.
+U smislu ovoga Zakona razumijeva se:
+1. krušna žita jesu pšenica, raž i pšenoraž (Triticalle),
+2. stočna žita jesu kukuruz, stočni ječam, zob,
+3. uljarice su suncokret i uljana repica,
+4. krmno bilje jest kukuruz za silažu, stočni kelj, stočni grašak, stočni sirak, djetelina, lucerna, djetelinsko-travna smjesa, travno-djetelinska smjesa, travne smjese, trave, grahorica, stočna repa, rotkva, koraba, krmna repica i lupina,
+5. povrće jest rajčica, paprika, krastavci, luk, mrkva, pastrnjak, peršin, kupus, cikla, grah, grašak, bob, češnjak, poriluk, tikva, tikvica, blitva, špinat, kelj, korabica, salata, patlidžan i merkantilni krumpir,
+6. povrće za industrijsku preradu jest rajčica, paprika, krastavac, luk, mrkva, pastrnjak, peršin, kupus, cikla,
+7. ljekovito bilje jest kamilica, menta,
+8. poljoprivredno sjeme I. skupine jest sjeme pšenice, pšenoraži, raži, ječma, zobi, kukuruza, šećerne repe, soje, suncokreta, uljane repice, duhana i krumpira,
+9. poljoprivredno sjeme II. skupine jest sjeme krmnog bilja (sjeme trave, djeteline, lucerne, stočne repe, rotkve, korabe, krmne repice, stočnog kelja, stočnog graška, grahorice, sirka i lupine) sjeme povrća (sjeme graha, graška, boba, luka, češnjaka, poriluka, cikle, mrkve, peršina, pastrnjaka, lubenice, tikve, tikvice, blitve, špinata, kelja, kupusa, korabice, salate, paprike, rajčice, patlidžana),
+10. sadni materijal jesu lozni cijepovi i sadnice voćnih vrsta I. i II. skupine iz ovoga Zakona,
+11. voćne vrste I. skupine jesu jabuka, kruška, mandarina, kupina, malina, kivi, limun i naranča,
+12. voćne vrste II. skupine jesu breskva, nektarina, marelica, trešnja, višnja, šljiva, orah, badem, lijeska, kesten, smokva, rogač i šipak,
+13. mlijeko je kravlje, kozje, ovčije,
+14. rasplodna stoka jesu krave, krave u sustavu krava-tele, bikovi, ženska telad i ždrebat, krmače, nerast i ovce, ovnovi, koze, jarci, kobile, pastusi,
+15. uzgoj autohtonih vrsta pernate divljači jest uzgoj fazanskih pilića, pilića trčke skvržulje i jarebica,
+16. autohtone vrste bijele morske ribe jesu komarča (Sparus aurata), lubin (Dicentrarchus labrax), pic (Diplodus puntazzo) i zubatac (Dentex dentex),
+17. školjke jesu dagnje i kamenice,
+18. mlađ autohtonih vrsta bijele morske ribe jest mlađ komarče, lubina, pica i zubaca iz mrijesta domaćih autohtonih matičnih stokova do mase 20 g/kom,
+19. slatkovodna riba I. skupine jest šaran, amur i tostolobik,
+20. slatkovodna riba II. skupine jest linjak, pastrva, smuđ, som, štuka,
+21. mala plava riba jest srdela, inćun i papalina.

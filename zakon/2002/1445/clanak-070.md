@@ -1,0 +1,4 @@
+# Članak 70.
+(1) Na poticaje za proljetnu sjetvu 2002. godine i za podizanje trajnih nasada po operativnom planu sadnje za 2002. godinu na isplatu drugog dijela poticaja, primijenit će se odredbe Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu (»Narodne novine«, br. 29/99., 105/99., 46/00., 101/00., 12/01. i 13/02.).
+(2) Na poticaje za jesensku sjetvu 2002. godine primjenjivat će se odredbe Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu (»Narodne novine«, br. 29/99., 105/99., 46/00., 101/00., 12/01. i 13/02.), a plaćanje i iznos poticaja vršit će se nakon okončane proizvodnje po odredbama ovoga Zakona.
+(3) Inspekcijski i prekršajni postupci pokrenuti do dana primjene ovoga Zakona dovršit će se prema odredbama propisa koji su bili na snazi do stupanja na snagu ovoga Zakona.
