@@ -1,0 +1,1 @@
+Uredba o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama kulture i razvrstavanju službenika i namještenika tih ustanova u platne razrede

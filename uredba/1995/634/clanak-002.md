@@ -1,0 +1,126 @@
+# Članak 2.
+Zvanja i položaji službenika u ustanovama kulture su:
+a) u I. vrsti zvanja:
+- Ravnatelj Leksikografskog zavoda "Miroslav Krleža"
+- Ravnatelj Hrvatskog državnog arhiva
+- Ravnatelj Nacionalne i sveučilišne biblioteke
+- Ravnatelj Muzeja hrvatskih arheoloških spomenika u Splitu
+- Ravnatelj Hrvatskog povijesnog muzeja u Zagrebu
+- Ravnatelj Moderne galerije u Zagrebu
+- Ravnatelj Fundacije "lvan Meštrović" u Zagrebu
+- Ravnatelj Muzeja "MIMARA"
+- Intendant Hrvatskog narodnog kazališta u Zagrebu
+- Šef-dirignt filharmonijskog orkestra
+- Solist opere - nacionalni prvak
+- Glumac nacionalni prvak
+- Solist baleta - nacionalni prvak
+- Instrumentalni solist kojemu je Ministarstvo kulture dodijelilo status istaknutog umjetnika
+- Ravnatelji ustanova kulture kojima je osnivač Republika Hrvatska
+- Intendanti nacionalnih kazališta u Splitu, Rijeci i Osijeku
+- Pomoćnik intendanta državnog nacionalnog kazališta - ravnatelj opere
+- Pomoćnik intendanta državnog nacionalnog kazališta - ravnatelj drame
+- Pomoćnik intendanta državnog nacionalnog kazališta - ravnatelj baleta
+- Pomoćnik ravnatelja Hrvatskog državnog arhiva
+- Pomoćnik ravnatelja muzeja od nacionalnog značenja
+- Koncertni majstor filharmonijskog i opernog orkestra
+- Dirigent I
+- Redatelj I
+- Umjetnički voditelj plssnog ansambla nacionalnog statusa
+- Solist opere - prvak
+- Glumac - prvak
+- Solist baleta - prvak
+- Balet majstor
+- Ravnatelj ostalih ustanova u kulturi
+- Voditelj odjela/odsjeka koji obavlja poslove za potrebe čitave arhivske službe Republike Hrvatske
+- Voditelj srednjih laboratorija Hrvatskog državnog arhiva
+- Dirigent II
+- Redatelj II
+- Vođe dionica, vođa čela, harfa, timpani, prvi puhači
+- Zamjenik koncert-majstora filharmonijskog i opernog orkestra
+- Konzervator - savjetnik
+- Muzejski savjetnik
+- Arhivski savjetnik
+- Bibliotekar - savjetnik
+- Informatičar - savjetnik
+- Dirigent zbora
+- Dirigent baleta
+- Solist opere - velike i srednje uloge
+- Solist baleta - velike i srednje uloge
+- Glumac - velike i srednje uloge
+- Glumac lutkar - prvak
+- Glumac pjevač - prvak
+- Plesač pjevač - prvak
+- Viši kustos
+- Viši arhivist
+- Viši bibliotekar
+- Viši konzervator
+- Viši restaurator
+- Viši informatičar
+- Baletni pedagog
+- Glazbeni voditelj u baletu
+- Voditelj studija opernih uloga
+- Treći puhači
+- Dramaturg
+- Kostimograf
+- Scenograf
+- Koreograf u baletu
+- Voditelj lutkarskog studija
+- Arhivist specijalist
+- Tajnik Hrvatskog državnog arhiva
+- Zamjenik vođe dionice, prve violine
+- Plesač pjevač - solist
+- Solist opere - srednje i epizodne uloge
+- Glumac - srednje i male uloge
+- Solist baleta - male uloge
+- Klavir, vođa udaraljki
+- Majstor kipar
+- Majstor slikar
+- Drugi puhači, četvrti rog
+- Voditelj slikarne
+- Voditelj maskersko-vlasuljarske radionice
+- Majstor izrade rekvizita
+- Korepetitor
+- Pjevač opernog zbora - vođa dionica
+- Pjevač opernog zbora - epizodist
+- Inspicijent
+- Glumac lutkar - srednje uloge
+- Glumac pjevač - srednje uloge
+- Plesač pjevač - srednje i epizodne uloge
+- Kustos
+- Arhivist
+- Konzervator
+- Restaurator
+- Stručni suradnik u ustanovi kulture
+- Bibliotekar
+- Informatičar
+- Tajnik ustanove u kulturi
+- Tuti-glazbenici, udaraljke
+- Pjevač opernog zbora
+- Šaptač
+- Glumac lutkar - srednje i male uloge
+- Glumac pjevač - srednje i male uloge
+- Član baletnoga ansambla
+- Plesač pjevač - član ansambla
+- Voditelj pozornica
+- Voditelj rasvjete
+b) u II vrsti zvanja:
+- Viši muzejski tehničar
+- Viši muzejski preparator
+- Viši arhivski tehničar
+- Viši knjižničar
+- Voditelj arhivskog spremišta
+- Majstor tona u kazalištu
+- Majstor rasvjete u kazalištu
+- Majstor maske u kazalištu
+- Majstor vlasuljar u kazalištu
+- Asistent scenografa
+c) u III vrsti zvanja:
+- Muzejski tehničar
+- preparator
+- Arhivski tehničar
+- Knjižničar
+- Konzervator tehničar
+- Fotograf
+d) u IV. vrsti zvanja:
+- Niži preparator
+- Manipulant
