@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom pobliže se određuju troškovi nadzora i utvrđivanja zdravstvene ispravnosti namirnica i predmeta opće uporabe koji se uvoze u Republiku Hrvatsku (dalje u tekstu: pošiljke koje se uvoze), koje granični sanitarni inspektori naplaćuju od uvoznika na granici i drugim mjestima gdje se obavlja nadzor te visina i način plaćanja naknade za pokrivanje troškova nadzora i utvrđivanja zdravstvene ispravnosti pošiljki koje se uvoze.

@@ -1,0 +1,1 @@
+Temeljem članka 35. stavka 2. Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe ("Narodne novine", br. 60/92, 89/93 i 100/93) ministar zdravstva donosi
