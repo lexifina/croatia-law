@@ -1,0 +1,4 @@
+# Članak 21.
+Usmeni dio ispita polaže se do jedan sat, a sastoji se od usmenih odgovora na postavljena pitanja članova Komisije, uz provjeru znanja vezana uz negativna rješenja u pismenom dijelu, a mogu se provjeravati i druga znanja koja nisu bila obuhvaćena pismenim dijelom ispita.
+Usmeni dio ispita polaže se pred članom Komisije koji je stručnjak za područje u kojem se ispit polaže.
+7.3. Odustajanje od ispita i narušavanje reda
