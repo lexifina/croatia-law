@@ -1,0 +1,5 @@
+## OBLIK I SADRŽAJ PEČATA I POSEBNIH PEČATNIH KLIJEŠTA
+# Članak 2.
+(1) Pečat je oblikovani okrugli komad odgovarajuće kovine (mjedi ili sl.) ili gume, promjera 38 mm, na kojem su u koncentričnim krugovima upisane riječi: »Republika Hrvatska, Hrvatski zavod za telekomunikacije, Zagreb«, a u sredini je grb Republike Hrvatske, iznad kojeg je upisan redni broj pečata.
+(2) Pečat može biti i oblikovani plosnati komad olova ili drugog odgovarajućeg materijala okruglog oblika, sa šupljinom u presjeku, koja s jedne strane završava jednim otvorom, a s druge strane s dva otvora, kroz koje se provlači odgovarajuća žica, špaga ili slično.
+(3) Prigodom pečaćenja opreme iz članka 1. ovoga Pravilnika pečatom iz stavka 2. ovoga članka plosnati komad olova ili drugog odgovarajućeg materijala preša se posebnim pečatnim kliještima, na kojima se na jednoj strani nalazi urezan grb Republike Hrvatske, a na drugoj strani redni broj pečatnih kliješta i skraćeni naziv Hrvatskog zavoda za telekomunikacije: »HZT«.
