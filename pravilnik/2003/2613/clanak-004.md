@@ -1,0 +1,9 @@
+## IZGLED SUDAČKE ODORE
+# Članak 4.
+1. Kroj
+Ogrtač je crne boje duljine do gležnja. Prednji dio je s dvostrukom oplećnicom. Na rubu oplećnice našivene su po tri ukrasne pletene trake crne boje širine 5 mm, koje na desnoj strani završavaju s omčom za kopčanje, a na lijevoj strani gumbom. Prva traka našivena je 1 cm ispod ovratnika. Omče su međusobnog razmaka 7 cm. S donje strane su prošivena dva para crnih kopči. Ispod oplećnice na svakoj prednjici je po šest nezaglačanih nabora dubine 2 cm, razmaka 3,5-4 cm. Cijelom duljinom lijeve i desne prednjice ispod oplećnice našivena je traka od satena širine 4,5 cm. Na leđima je dupla oplećnica. Ispod oplećnice je dvanaest nezaglačanih nabora, koji su na sredini okrenuti jedan prema drugom, a ostali prema rukavima. Dubina nabora je 2 cm, a razmak među naborima 3,5 cm. Duljina leđa seže do gležnja. Na kraju je porub 2x15 mm na unutarnjoj strani, odštepan 14 mm široko. Rukav je dugi, s opsegom donjeg ruba od 90 cm. Na rubu rukava našivena je traka od satena širine 9,5 cm. Kugla rukava je nabrana. Ovratnik je stojeći, zaobljen visine na sredini leđa 3,5 cm. Gornji ovratnik je od satena s ljepljivom podlogom. Na ušivu rukava, sastavu rukava i sastavu prednjice i leđa sa strane su francuski šavovi.
+Plastron je plisiran s dvanaest nabora širine 10 mm, dubine 7 mm, s mašnom širine 5,5 cm provučenom kroz traku širine 4,5 cm, a čitav je našiven na traku širine 2,5 cm. Na rubovima trake je prošivena čičak traka za kopčanje. Plastron je porubljen porubom 2 mm širine.
+2. Sastav materijala
+Ogrtač je od tkanine s posebnom doradom od 100% poliestera, gramature 360 g/tm.
+Način održavanja: dozvoljeno pranje i kemijsko čišćenje te glačanje na temperaturi maksimalno 150 stupnjeva C, zabranjeno strojno sušenje i bijeljenje.
+Traka (porubi) i plastron su od 100% viskoze tzv. lagani saten.
