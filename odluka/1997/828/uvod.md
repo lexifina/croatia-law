@@ -1,0 +1,1 @@
+Na temelju članka 21. točka 1. alineja 7. Statuta Hrvatske gospodarske komore ("Narodne novine" br. 11/94 - pročišćeni tekst, 108/95., 19/96) Skupština Hrvatske gospodarske komore na 4. sjednici 20. svibnja 1997. donosi
