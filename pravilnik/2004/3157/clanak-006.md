@@ -1,0 +1,12 @@
+## Pristup mreži i međusobno povezivanje
+# Članak 6.
+(1) Operator sa znatnijom tržišnom snagom na mjerodavnom tržištu mora omogućiti drugim davateljima usluga pristup svojoj telekomunikacijskoj mreži u svrhu obavljanja telekomunikacijskih usluga u skladu sa Zakonom i Pravilnikom o pristupu mreži i međusobnom povezivanju.
+(2) Davatelj usluga, koji je operator i raspolaže telekomunikacijskom mrežom, može ostvariti međusobno povezivanje s operatorima koji imaju znatniju tržišnu snagu na temelju njihove standardne ponude međusobnog povezivanja, u skladu sa Zakonom i Pravilnikom o pristupu mreži i međusobnom povezivanju.
+(3) Davatelj usluga, koji nije operator, ima pravo tražiti pristup telekomunikacijskoj mreži operatora sa znatnijom tržišnom snagom na mjerodavnom tržištu putem terminalne opreme, uz uvjete koji ovise o vrsti telekomunikacijskih usluga za koje se traži pristup, te o međusobnom ugovoru.
+(4) Operator, ili davatelj usluga koji raspolaže unajmljenom telekomunikacijskom mrežom, odnosno unajmljenim dijelovima telekomunikacijske mreže, a kojemu je izdana dozvola, ima pravo zahtijevati povezivanje svoje telekomunikacijske mreže na javnu telekomunikacijsku mrežu operatora sa znatnijom tržišnom snagom na mjerodavnom tržištu, u skladu sa Zakonom i Pravilnikom o pristupu mreži i međusobnom povezivanju.
+(5) Pravna ili fizička osoba, koja obavlja djelatnost daljnje prodaje (preprodaje) telekomunikacijskih usluga, ne može se koristiti ponuđenim maloprodajnim uslugama drugih operatora ili davatelja usluga, kako bi pružala vlastite maloprodajne usluge na tržišnoj osnovi, ako time ugrožava funkcionalnu cjelovitost telekomunikacijske mreže putem koje se pružaju te maloprodajne usluge.
+(6) Pravna ili fizička osoba iz stavka 5. ovoga članka može se koristiti ponuđenim maloprodajnim uslugama drugih operatora ili davatelja usluga na temelju posebnog ugovora s operatorom ili davateljem usluga.
+(7) U slučaju pristupa davatelja usluga telekomunikacijskoj mreži putem terminalne opreme, odnosno međusobnog povezivanja telekomunikacijskih mreža, operator sa znatnijom tržišnom snagom na mjerodavnom tržištu mora omogućiti taj pristup, odnosno međusobno povezivanje u skladu s odredbama članka 54. Zakona, poštujući sljedeće rokove:
+- za pristup telekomunikacijskoj mreži putem terminalne opreme - do dva mjeseca,
+- za međusobno povezivanje telekomunikacijskih mreža - do tri mjeseca,
+računajući od dana sklapanja ugovora između operatora i podnositelja zahtjeva za pristup, odnosno međusobno povezivanje.

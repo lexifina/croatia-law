@@ -1,0 +1,8 @@
+## II. OPĆI UVJETI OBAVLJANJA TELEKOMUNIKACIJSKIH USLUGA
+## Obveze davatelja telekomunikacijskih usluga
+# Članak 3.
+(1) Cijene usluga, koje obavlja davatelj usluga za kojeg je Vijeće Hrvatske agencije za telekomunikacije (u daljem tekstu: Vijeće Agencije) utvrdilo da ima znatniju tržišnu snagu na mjerodavnom tržištu, moraju se temeljiti na načelima transparentnosti, troškovne usmjerenosti i nediskriminacije.
+(2) Davatelj usluga mora, radi olakšavanja pristupa i dostupnosti telekomunikacijskih usluga, u okviru svojih tehničkih mogućnosti, uvažavati posebne potrebe osoba s invaliditetom, u dogovoru sa specijaliziranim ustanovama.
+(3) U slučaju prekida ili poremećaja u obavljanju telekomunikacijskih usluga, davatelj usluga mora poduzeti potrebne mjere za njihovo ponovno uspostavljanje u najkraćem mogućem roku, osobito kad se radi o uspostavi telekomunikacijskih veza za potrebe državnih tijela. O mjerama predviđenima za te svrhe i njihovoj provedbi davatelj usluga obavješćuje ministarstvo nadležno za telekomunikacije (u daljnjem tekstu: Ministarstvo) i Hrvatsku agenciju za telekomunikacije (u daljnjem tekstu: Agencija).
+(4) Ako je davatelj usluga prinuđen, zbog razloga više sile, privremeno ukinuti ili ograničiti određeni broj ili vrstu telekomunikacijskih usluga, o tome mora bez odgode, a prema mogućnosti i unaprijed, pisanim putem izvijestiti Ministarstvo i Agenciju, a korisnike svojih usluga putem sredstava javnog priopćavanja.
+(5) U slučaju iz stavka 4. ovoga članka davatelj usluga obvezan je osigurati prednost u obavljanju telekomunikacijskih usluga u skladu s odredbama Zakona i posebnih propisa.

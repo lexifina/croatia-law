@@ -1,0 +1,9 @@
+## Prijenos pretplatničkog odnosa
+# Članak 25.
+(1) Pretplatnički odnos može se prenijeti na drugu fizičku ili pravnu osobu ako se ta osoba kao novi pretplatnik nastavi koristiti telekomunikacijskim uslugama putem istog priključka i pretplatničkog broja, uz promjenu imena u naslovu pretplatnika.
+(2) Promjena imena u naslovu pretplatnika podrazumijeva promjenu imena i prezimena ili naziva obrta ako se radi o fizičkoj osobi, odnosno promjenu naziva ako se radi o pravnoj osobi.
+(3) U slučaju prijenosa prava na nekretninu (stana ili poslovnog prostora) pretplatnički odnos može se prenijeti na novog vlasnika ili korisnika nekretnine, ako ta osoba nastavi upotrebljavati postojeći priključak na istoj lokaciji.
+(4) U slučaju smrti pretplatnika, razvoda braka ili sličnih razloga, ili u slučaju prestanka pravne osobe pretplatnika, njegov nasljednik ili član obiteljskog kućanstva, ili pravni sljednik mora podnijeti zahtjev davatelju javnih govornih usluga za promjenu imena u naslovu pretplatnika.
+(5) Davatelj javnih govornih usluga obvezan je, na zahtjev pretplatnika, prenijeti pretplatnički odnos na člana njegova obiteljskog kućanstva.
+(6) U slučaju iznajmljivanja stana ili poslovnog prostora najmodavac može prava i obveze iz pretplatničkog odnosa, koja se odnose na pripadajući priključak i pretplatnički broj, privremeno prenijeti na najmoprimca, u skladu s njihovim međusobnim ugovorom. Na temelju tog ugovora i ugovora s davateljem javnih govornih usluga najmoprimac postaje privremeni pretplatnik. Prestankom valjanosti ugovora između najmodavca i najmoprimca, prava i obveze iz pretplatničkog odnosa ponovno se prenose na najmodavca.
+(7) Cijena usluge prijenosa pretplatničkog odnosa, uz promjenu imena u naslovu pretplatnika, utvrđuje se cjenikom davatelja usluga, a mora se temeljiti na stvarnim troškovima.

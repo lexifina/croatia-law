@@ -1,0 +1,7 @@
+## XV. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Obveze operatora i davatelja usluga
+# Članak 50.
+(1) Operatori i davatelji usluga, koji obavljaju telekomunikacijske usluge na dan stupanja na snagu ovoga Pravilnika, moraju uskladiti svoje opće uvjete poslovanja s odredbama ovoga Pravilnika u roku od tri mjeseca od dana stupanja na snagu ovoga Pravilnika.
+(2) Davatelji usluga sa znatnijom tržišnom snagom na tržištu javnih govornih usluga u nepokretnoj telekomunikacijskoj mreži, koji na dan stupanja na snagu ovoga Pravilnika obavljaju javne govorne usluge u nepokretnoj telekomunikacijskoj mreži, moraju u roku od najviše 60 dana od dana stupanja na snagu ovoga Pravilnika podnijeti Vijeću Agencije zahtjev za davanje prethodne suglasnosti na dodatni tarifni sustav ili sustave, koje su obvezni ponuditi u skladu s člankom 32. stavkom 6. točkom 4. ovoga Pravilnika.
+(3) Operatori sa znatnijom tržišnom snagom na mjerodavnom tržištu moraju izraditi i dostaviti na prethodnu suglasnost Vijeću Agencije standardne ponude pristupa mreži u skladu s odredbama članka 41. ovoga Pravilnika, te uvjete pristupa mreži iz članka 45. i 46. ovoga Pravilnika najkasnije u roku od 60 dana od dana stupanja na snagu ovoga Pravilnika.
+(4) Standardne ponude i uvjeti pristupa mreži iz stavka 3. ovoga članka ne mogu sadržavati manji opseg i manje vrsta ponuđenih usluga u odnosu na opseg i vrste usluga koje su uspostavljene do dana stupanja na snagu ovoga Pravilnika.

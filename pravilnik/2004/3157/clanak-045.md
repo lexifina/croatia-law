@@ -1,0 +1,7 @@
+## XII. POSEBNI UVJETI ZA USLUGE DAVANJA PRISTUPA INTERNETU
+# Članak 45.
+(1) Usluge davanja pristupa Internetu iz članka 23. stavka 2. točke 1. Zakona obavljaju davatelji usluga na temelju podnesene pisane prijave Agenciji, putem svojeg čvora koji je priključen na javnu nepokretnu telekomunikacijsku mrežu i povezan na javnu internetsku mrežu.
+(2) Korisnici usluga mogu pristupati uslugama iz stavka 1. ovoga članka na način koji nudi operator sa znatnijom tržišnom snagom na mjerodavnom tržištu, putem stalnog zakupljenog telekomunikacijskog voda, putem javne komutirane telekomunikacijske mreže uporabom brojeva dodijeljenih u skladu s Planom numeriranja, putem širokopojasnog pristupa preko xDSL priključka na nepokretnu telekomunikacijsku mrežu, putem bežičnih pristupnih točaka na nepokretnu telekomunikacijsku mrežu ili na koji drugi način.
+(3) Davatelj usluga pristupa Internetu ima pravo zahtijevati od operatora iz stavka 2. ovoga članka, koji ima mjesnu pristupnu mrežu u xDSL tehnologiji, zajednički pristup u svrhu omogućivanja širokopojasnog pristupa korisnicima svojih usluga.
+(4) Operator iz stavka 2. ovoga članka obvezan je izraditi i objaviti tehničke, tehnološke i komercijalne uvjete pristupa davatelja usluga pristupa Internetu na svoju telekomunikacijsku mrežu, poštujući načela nediskriminacije, transparentnosti i troškovne usmjerenosti.
+(5) Za uvjete pristupa iz stavka 4. ovoga članka potrebno je pribaviti prethodnu suglasnost Vijeća Agencije.

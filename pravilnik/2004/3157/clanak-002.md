@@ -1,0 +1,15 @@
+## Pojmovi i značenje
+# Članak 2.
+U smislu ovoga Pravilnika pojedini pojmovi imaju sljedeće značenje:
+1. davatelj usluga: pravna ili fizička osoba koja pruža javne telekomunikacijske usluge na tržištu koristeći se telekomunikacijskom mrežom,
+2. javne govorne usluge u nepokretnoj telekomunikacijskoj mreži: javno dostupne usluge prijenosa govora putem javne telekomunikacijske mreže, koje omogućuju obostranu govornu komunikaciju korisnika usluga, koja započinje u nepokretnoj telekomunikacijskoj mreži, a završava u nepokretnoj telekomunikacijskoj mreži ili u bilo kojoj drugoj telekomunikacijskoj mreži. Ove usluge moraju zadovoljavati mjerila iz članka 29. ovoga Pravilnika,
+3. javne govorne usluge u pokretnoj telekomunikacijskoj mreži: javno dostupne usluge prijenosa govora putem javne telekomunikacijske mreže, koje omogućuju obostranu govornu komunikaciju korisnika usluga, koja započinje u pokretnoj telekomunikacijskoj mreži, a završava u pokretnoj telekomunikacijskoj mreži ili u bilo kojoj drugoj telekomunikacijskoj mreži. Ove usluge moraju zadovoljavati mjerila iz članka 29. ovoga Pravilnika,
+4. javna telekomunikacijska mreža: nepokretna ili pokretna telekomunikacijska mreža koja se upotrebljava za javne telekomunikacije,
+5. korisnik usluga: fizička ili pravna osoba koja se koristi javnim telekomunikacijskim uslugama ili ih zahtijeva,
+6. obračunska jedinica: jedinični vremenski interval koji se upotrebljava za obračun i naplatu javnih govornih usluga u nepokretnoj i pokretnoj telekomunikacijskoj mreži,
+7. operator: pravna osoba koja na temelju propisa i/ili ugovora raspolaže javnom telekomunikacijskom mrežom ili dijelovima povezanim s tom mrežom,
+8. priključna točka: svi fizički priključci i njihova priključna tehnička specifikacija koji su dio telekomunikacijske mreže i koji su potrebni za priključenje na tu mrežu i za djelotvorno uspostavljanje telekomunikacijskih veza putem te mreže,
+9. usluge davanja u najam telekomunikacijskih vodova: telekomunikacijske usluge koje se pružaju za određene prijenosne kapacitete između završnih točaka telekomunikacijske mreže, a ne obuhvaćaju telekomunikacijske vodove bez prijenosnih kapaciteta, niti komutacijske usluge na zahtjev i pod nadzorom korisnika usluga,
+10. usluge s dodanom vrijednosti: bilo koje usluge koje zahtijevaju obradu podataka o telekomunikacijskom prometu ili podataka o lokaciji izvan opsega nužnog za komunikaciju putem telekomunikacijske mreže ili za obračun troškova,
+11. usluge kabelske distribucije: telekomunikacijske usluge prijenosa radijskih i televizijskih programa i s njima povezanih podataka, odašiljanih iz jednog središta korisnicima kabelske distribucijske mreže, putem koje se mogu pružati i druge telekomunikacijske usluge,
+12. zajednički pristup javne govorne i širokopojasne usluge na mjesnu pristupnu mrežu: tehnička mogućnost opreme ugrađene s obje strane lokalne petlje kojom se omogućuje istodobna uporaba lokalne petlje za javne govorne usluge i za širokopojasni prijenos podataka (xDSL), putem različitih davatelja usluga pristupa Internetu.
