@@ -1,0 +1,2 @@
+# Članak 5.
+Kontejneri se grade od čvrstog materijala koji može izdržati težinu životinja koje se utovaruju odnosno istovaruju. Kontejneri moraju imati na uzdužnim i poprečnim stranama dovoljno visoku i čvrstu zaštitnu ogradu koja sprečava da životinje za vrijeme utovara odnosno istovara ispadnu. Ako se utovaruju ili istovaruju sitne životinje, kontejneri moraju biti zaštićeni i s gornje strane kako bi se spriječilo iskakanje životinja iz kontejnera za vrijeme utovara ili istovara.

@@ -1,0 +1,2 @@
+# Članak 9.
+U blizini staje ili obora odnosno rampe moraju se nalaziti gnojište, kante ili druge naprave za smještaj gnoja i drugih otpadaka životinjskog podrijetla Gnojište mora biti izgrađeno od nepropusilog materijala i mora biti pokriveno. Na kolodvorima i pristaništima u kojima nije veliki opseg utovara i istovara životinja, gnoj i drugi otpaci životinjskog podrijetla mogu se zatrpati na za to određenom mjestu.

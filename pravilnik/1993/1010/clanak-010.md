@@ -1,0 +1,4 @@
+# Članak 10.
+Rampe (stalne i pokretne), kontejneri, obori i staje, pribor i oprema koji služe za utovar odnosno istovar životinja moraju biti čisti i ispravni. Staje i obori moraju se čistiti i dezinficirati nakon svakog pražnjenja, a rampe, kontejneri i putovi kojima su se kretale životinje - nakon svakog utovara odnosno istovara životinja. Čišćenje i dezinfekcija obavljaju se sredstvima i na način propisan Pravilnikom o naćinu dezinfekcije prijevoznih sredstava kojima se prevoze pošiljke životinja, proizvodi životinjskog podrijetla i otpadna animalna tvar ("Narodne novine", br. 7/92).
+Čianak 11.
+Na dan stupanja na snagu ovog pravilnika prestaje važiti Pravilnik o uvjetima kojima moraju udovoljavati kolodvori i pristaništa za utovar, pretovar i istovar pošiljki životinja ("Službeni list SFRJ", br. 6/88 i "Narodne novine", br. 52/91). Ovaj pravilnik stupa na snagu osmog dana od dana objave u "Narodnim novinama".
