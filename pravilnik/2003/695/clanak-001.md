@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se postupak stjecanja viših zvanja u muzejskoj struci, sukladno Zakonu o muzejima, i to za zvanja: viši kustos, muzejski savjetnik, viši muzejski pedagog, muzejski pedagog savjetnik, viši dokumentarist, dokumentarist savjetnik, viši informatičar, informatičar savjetnik, viši restaurator, restaurator savjetnik, viši preparator, viši muzejski tehničar, te viši fotograf.
