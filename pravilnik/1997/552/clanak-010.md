@@ -1,0 +1,4 @@
+# Članak 10.
+Radno vrijeme u ordinacijama primarne zdravstvene zaštite koje imaju sklopljen ugovor s Hrvatskim zavodom za zdravstveno osiguranje, kao i u ordinacijama domova zdravlja u kojima je ugovoren zakup na temelju Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta ("Narodne novine", br. 6/96 i 29/97) mora biti organizirano najmanje kao radno vrijeme iz članka 6. i 7. ovoga Pravilnika.
+Zdravstveni djelatnici iz ordinacija navedenih u stavku 1. ovoga članka dužni su sudjelovati u službi hitne medicinske pomoći ukoliko je, temeljem ugovora s Hrvatskim zavodom za zdravstveno osiguranje, obavlja dom zdravlja na čijem se području nalazi njihova ordinacija, odnosno s kojim su sklopili ugovor o zakupu prostora.
+Za organiziranje radnog vremena i službe hitne medicinske pomoći iz stavaka 1. i 2. ovoga članka nadležan je ravnatelj doma zdravlja.

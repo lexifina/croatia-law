@@ -1,0 +1,3 @@
+# Članak 7.
+U ordinacijama primarne zdravstvene zaštite u kojima djelatnici osim rada u ordinaciji obavljaju i kućne posjete, radno vrijeme u ordinaciji počinje u 8 sati, a završava u 14,30 sati. Kućne posjete obavljaju se od 14,30 do 15,30 sati. U poslijepodnevnoj smjeni radno vrijeme u ordinaciji počinje u 14 sati, a završava u 20,30 sati, a kućne posjete obavlaju se od 20.30 do 21.30 sati. Razdoblje preklapanja radnog vremena od 14 do 14,30 sati ako se radi o timovima koji obavljaju rad u istoj ordinaciji, služi za pripremu, odnosno raspremanje oba tima.
+Ostatak od 2,5 sata tjedno do punog mjesečnog fonda sati preraspodjeluje se na rad subotama, prema stavku 1. članku 5. ovoga Pravilnika.
