@@ -1,0 +1,2 @@
+# Članak 2.
+Ovom uredbom uređuje se nadležnos1 i način funkcioniranja ministarstva nadležnog za poslove pošte i telekomunikacija i općinskih organa uprave nadležnih za poslove pošta i telekomunikacija "u daljnjem tekstu: organi uprave za veze), poduzeća HPT - Hrvatska pošta i telekomunikacije "u daljnjem tekstu: HPT), poduzeća Hrvatska radiotelevizija "u daljnjem tekstu: HRTV), posjednika os1alih sus1ava veza.,posjednika sredstava veza, kao i način ko rištenja radio-stanica koje posjeduju gradani, u ratnim uvjetima.
