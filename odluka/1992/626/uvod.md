@@ -1,0 +1,1 @@
+Temeljem članka 5. Uredbe o uvjetima i načinu održavanja likvidnosti u plaćanjima prema inozemstvu ("Narodne novine" broj 24/92) i članka 67. pod 26) Uredbe o Narodnoj banci Hrvatske ("Narodne novine", broj 71/91) Savjet Narodne banke Hrvatske na sjednici održanoj 30. travnja 1992. godine donio je
