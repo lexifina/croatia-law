@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, broj 33/02.), a uz suglasnost ministra unutarnjih poslova, broj: 511-01-52-88404/02, od 13. ožujka 2003. donosim
