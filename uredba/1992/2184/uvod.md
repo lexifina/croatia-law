@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlsti Vlade Republike Hrvatske da donosi uredbe kojima se uređuju pojedina pitanja iz djelbkruga Sabora Republike Hrvatske ("Narodne novine", broj 74/92.), Vlada Republike Hrvatske na sjednici održanoj 4. prosinca 1992. godine donijela je
