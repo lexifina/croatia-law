@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Repubiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih preživača, genetskog materijala, dijagnostičkih uzoraka i bioloških pripravaka podrijetlom od domaćih i divljih preživača iz Bugarske- regija Bourga, Iambol, Hasskovo i Kardjali
