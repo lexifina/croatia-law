@@ -1,0 +1,3 @@
+# Članak 15.
+Komisiju iz članka 14. ovog pravilnika imenuje ravnatelj, a sastavljena je od ravnatelja, glavne sestre zdravstvene ustanove, doktora medicine specijaliste epidemiologa, mikrobiologa, infektologa i zdravstvenog djelatnika VI/I stupnja stručne spreme posebno osposobljenog za provedbu naprijed navedenih mjera (medicinska sestra - higijeničar s punim radnim vremenom), voditelja zdravstvenih djelatnosti te predstavnika drugih zdravstvenih ustanova.
+Ravnatelj imenuje predsjednika Komisije. Rad Komisije odvija se u redovitim sastancima svaka 2 - 3 mjeseca, a u slučaju pogoršane epidemiološke situacije i češće.
