@@ -1,0 +1,11 @@
+# Rev-270/1995-2, Vrhovni sud Republike Hrvatske, 19.1.2000.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=ea5d1598-41b7-41d1-bfaf-a480952cb15b
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 2000-01-19
+- Publication date on source: 2003-08-22
+- ECLI: ECLI:HR:VSRH:2000:5075
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
