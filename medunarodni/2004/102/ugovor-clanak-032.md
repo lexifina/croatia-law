@@ -1,0 +1,8 @@
+# Članak 32.
+Rješavanje nesuglasica oko tumačenja ili primjene ovoga Sporazuma
+1. Sve nesuglasice koje se tiču tumačenja ili primjene ovoga Sporazuma između dvije ili više država stranaka ili između Suda i države stranke rješavat će se konzultacijama, pregovorima ili drugim usuglašenim načinom rješavanja.
+2. Ako se spor ne riješi u skladu sa stavkom 1. ovoga članka u roku od tri mjeseca nakon pisanog zahtjeva jedne od stranaka u sporu, spor će se, na zahtjev bilo koje od stranaka, podnijeti arbitražnom sudu u skladu s postupkom iz stavka 3. do 6. ovoga članka.
+3. Arbitražni sud bit će sastavljen od tri člana: po jednoga će odabrati svaka stranka, a trećeg, koji će biti predsjedatelj suda, odabrat će druga dva člana. Ako bilo koja od stranaka propusti imenovati člana suda u roku od dva mjeseca od imenovanja člana od strane druge stranke, ta druga stranka može pozvati Predsjednika Međunarodnoga suda da obavi takvo imenovanje. Ako se prva dva člana ne slože glede imenovanja predsjedatelja suda u roku od dva mjeseca nakon njihova imenovanja, bilo koja od stranaka može pozvati Predsjednika Međunarodnoga suda da izabere predsjedatelja.
+4. Ukoliko se stranke u sporu drugačije ne dogovore, arbitražni sud utvrdit će svoj vlastiti postupak, a troškove će snositi stranke na temelju procjene suda.
+5. Arbitražni sud, koji odlučuje većinom glasova, donijet će odluku o sporu na temelju odredbi ovoga Sporazuma i primjenjivih propisa Međunarodnoga prava. Odluka arbitražnog suda bit će konačna i obvezujuća za stranke u sporu.
+6. Odluka arbitražnog suda dostavit će se strankama u sporu, Tajniku i glavnom tajniku.

@@ -1,0 +1,4 @@
+# Članak 9.
+Povrat davanja i/ili poreza
+1. Sud, u načelu, neće zahtijevati oslobođenje od davanja i/ili poreza koji su uključeni u cijenu pokretne i nepokretne imovine i poreza koji se plaćaju na usluge. Međutim, kad Sud za svoje službene potrebe kupuje imovinu, dobra ili usluge veće vrijednosti u čiju su cijenu uračunati ili se mogu uračunati takva davanja i porezi, države stranke usvojit će prikladne administrativne mjere radi oslobađanja od takvih naplata ili radi povrata iznosa naplaćenih davanja i/ili poreza.
+2. Dobra kupljena uz takvo izuzeće ili povrat ne smiju se prodavati niti se njima na drugi način smije raspolagati, osim u skladu s uvjetima koje je utvrdila država stranka koja je odobrila izuzeće ili povrat. Izuzeće ili povrat ne odobrava se glede komunalnih naknada za usluge pružene Sudu.
