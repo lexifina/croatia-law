@@ -1,0 +1,1 @@
+Odluka o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima i osobama koje se nakon završenog obrazovanja nalaze na obaveznom praktičnom radu ili na dobrovoljnoj praksi 1990.l

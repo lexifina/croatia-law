@@ -1,0 +1,12 @@
+o visini mirovinske osnovice za određivanje invalidske mirovine osobama osiguranim pod određenim okolnostima i osobama koje se nakon završenog obrazovanja nalaze na obaveznom praktičnom radu ili na dobrovoljnoj praksi u godini 1990.
+1. Osobama koje nemaju svojstvo osiguranika, a osigurane su u određenim okolnostima (čl. 22. i 23. i od 25. do 28. Zakona o mirovinskom i invalidskom osiguranju u daljnjem tekstu: Zakon), za mirovinsku osnovicu od koje se određuje invalidska mirovina uzimaju se slijedeči iznosi, i to:
+1) osiguranim osobama iz čl. 22, 23. i 25. do 27. Zakona:
+a) 923,00 dinara za osobe sa stručnom spremom sedmog ili osmog stupnja (visoka stručna sprema) i za studente koji se obrazuju prema programu za stjecanje stručne spreme sedmog stupnja,
+b) 788,60 dinara za osobe sa stručnom spremom petog ili šestog stupnja (viša stručna sprema odnosno sprema visokokvalificiranog radnika) i za učenike odnosno studente koji se obrazuju prema programu za stjecanje stručne spreme petog ili šestog stupnja,
+c) 727,80 dinara za osobe sa stručnom spremom trečeg i četvrtog stupnja (srednja stručna sprema odnosno sprema kvalificiranog radnika) i za učenike koji se obrazuju prema propisima za stjecanje stručne spreme trećeg ili četvrtog stupnja,
+d) 563,10 dinara za osigurane osobe sa stručnom spremom prvog ili drugog stupnja (niža stručna sprema odnosno sprema polukvalificiranog radnika) i za učenike koji se obrazuju prema programu za stjecanje stručne spreme prvog ili drugog stupnja,
+e) 463,90 dinara za ostale osigurane osobe bez stručne spreme;
+2) Osiguranim osobama iz člana 28. Zakona koje se nalaze na izdržavanju kazne zatvora, maloljetničkog zatvora ili na izvršavanju odgojne mjere upućivanja u odgojnu ustanovu, dom za preodgoj ili posebnu odgojnu ustanovu 463,90 dinara.
+2. Osiguranicima - osobama koje se nakon završenog obrazovanja nalaze na obveznom praktičnom radu ili na dobrovoljnoj praksi, ako rade s punim radnim vremenom, bez obzira na to primaju li za svoj rad naknadu (čl.14. stav 1. točka 4. Zakona), za mirovinsku osnovicu od koje se određuje invalidska mirovina uzimaju se osnovice utvrđene odlukom za obračunavanje i plaćanje doprinosa i određivanje prava iz mirovinskog i invalidskog osiguranja.
+3. Osnovica iz točke 1. ove odluke usklađuje se prema porastu nominalnih osobnih dohodaka svih radnika zaposlenih na teritoriju Socijalističke Republike Hrvatske u prethodnoj godini.
+4. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1990.
