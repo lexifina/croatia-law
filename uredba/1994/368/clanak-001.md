@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežno državnom vlasništvu ("Narodne novine"; broj 11/94), u članku 1. stavku 2. riječi: "uz uvjet da kamatna stopa iznosi do 2.1% mjesečno zamjenjuju se riječima: "uz uvjet da kamatna stopa nije veća od 15% godišnje", a u članku 2. riječi: "1. ožujka 1994. godine" zamjenjuju se riječima "1. travnja 1994. godine".
