@@ -1,0 +1,4 @@
+## III. UPRAVLJANJE I RUKOVOĐENJE
+# Članak 12.
+Radi utjecaja javnosti na radijske i televizijske programe od značenja za Republiku utemeljuje se Vijeće Hrvatske radio-televizije (u daljnjem tekstu: Vijeće HRTV).
+Vijeće HRTV čini 35 članova, od kojih petnaest imenuje Sabor Republike Hrvatske iz sastava zastupnika, razmjerno stranačkoj strukturi Sabora, a po jednoga člana imenuje Zajednica sveučilišta Hrvatske, Hrvatska akademija znanosti i umjetnosti, Matica hrvatska, Društvo hrvatskih književnika, Hrvatsko novinarsko društvo, Hrvatsko društvo dramskih umjetnika, Hrvatsko društvo glazbenih umjetnika, Katolička crkva, Srpska pravoslavna crkva i Islamska zajednica, dok deset članova biraju djelatnici iz organizacijskih dijelova programa u Javnom poduzeću Hrvatska radio-televizija, iz svojih redova, na način utvrđen Statutom.

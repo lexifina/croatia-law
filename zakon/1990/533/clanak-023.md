@@ -1,0 +1,4 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 23.
+Do imenovanja direktora Javnoga poduzeća Hrvatska radio-televizija, ravnatelja dijelova Javnoga poduzeća iz članka 4. ovoga Zakona, glavnih i odgovornih urednika radijskih i televizijskih programa po postupku utvrđenome Zakonom o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji ("Narodne novine", br. 35/91.), generalni direktor SOUR-a Radio-televizija Zagreb, direktori radnih organizacija Radio Zagreb, Televizija Zagreb i Odašiljači i veze, te glavni i odgovorni urednici radijskih i televizijskih programa od značenja za Republiku članovi su Upravnoga odbora Javnoga poduzeća po funkciji.
+Zastupnike radnika Javnoga poduzeća u Upravnome odboru imenuju, do njihova izbora na način utvrđen Statutom, upravljačka tijela radnih organizacija Radio Zagreb, Televizija Zagreb i Odašiljači i veze.
