@@ -1,0 +1,2 @@
+# Članak 1.
+Potpisnici ovog Ugovora suglasni su da je predmet ovog Ugovora nacionalni konsenzus socijalnih partnera o slijedećem - o načelima promicanja kolektivnog pregovaranja i poticanja tarifne autonomije - o temeljnim načelima suradnje socijalnih partnera na području zapošljavanja, radnih odnosa i socijalnog osiguranja - o lemeljnim načelima za rješavanje sporova između socijalnih partnera - o temeljnim načelima za ostvarivanje prava na štrajk.
