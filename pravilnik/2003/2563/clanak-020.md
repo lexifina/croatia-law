@@ -1,0 +1,2 @@
+# Članak 20.
+Ako je kliničko ispitivanje završeno prije nego što je određeno planom kliničkoga ispitivanja ili je privremeno obustavljeno, ispitivač i pravna osoba kojoj je dano prethodno odobrenje ministra nadležnog za zdravstvo za kliničko ispitivanje, obvezni su uz navođenje detaljnog objašnjenja uzroka izvijestiti o tome, u roku od 15 dana, nadležno etičko povjerenstvo koje je dalo pozitivno mišljenje te ministra nadležnog za zdravstvo.
