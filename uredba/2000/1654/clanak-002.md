@@ -1,0 +1,4 @@
+# Članak 2.
+Ured radi po nalozima, uputama i pod nadzorom Povjerenstva za strategiju razvitka kojem predsjedava potpredsjednik, zamjenik predsjednika Vlade, a čine ga članovi Radne skupine Vlade Republike Hrvatske za izradu strategije razvitka Republike Hrvatske, ministar znanosti i tehnologije i zamjenici ministara svih ministarstava.
+Pri Uredu, kao stručno tijelo, djeluje Središnji savjet za izradu strategije razvitka kojeg čine stručnjaci za područje strategije razvitka koje odredi Povjerenstvo za strategiju razvitka. Sjednice Savjeta održavaju se po potrebi, a saziva ih i njima predsjedava predstojnik Ureda.
+Povjerenstvo za strategiju razvitka može pri Uredu osnovati i druge ekspertne skupine za pojedina područja ili pitanja strategije razvitka. Odlukom o osnivanju ekspertnih skupina određuje se njihov sastav, područje i način njihova rada.
