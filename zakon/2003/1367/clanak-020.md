@@ -1,0 +1,6 @@
+# Članak 20.
+Članak 75. mijenja se i glasi:
+»Zahtjev za priznavanje svojstva mirnodopskoga vojnog invalida po osnovi oštećenja organizma nastaloga zbog bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 7. stavka 1. ovoga Zakona može se podnijeti nakon otpuštanja iz oružanih snaga Republike Hrvatske, a najkasnije u roku od pet godina od dana otpuštanja iz oružanih snaga.
+Zahtjev za priznavanje prava na obiteljsku invalidninu po osnovi osobe koja je od bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 7. stavka 1. ovoga Zakona, umrla u roku od godinu dana od otpuštanja iz oružanih snaga Republike Hrvatske, može se podnijeti u roku od pet godina od dana smrti te osobe.
+Zahtjev za priznavanje prava na obiteljsku invalidninu po osnovi osobe koja je od bolesti dobivene, odnosno pogoršane ili ispoljene pod okolnostima iz članka 8. stavka 2. ovoga Zakona, umrla u roku od godinu dana od dana zlostavljanja, odnosno otpuštanja iz zatočeništva, može se podnijeti u roku od pet godina od dana smrti te osobe.
+Pod otpuštanjem iz oružanih snaga podrazumijeva se prekidanje obveze služenja vojnog roka, otpuštanje ročnika nakon odsluženja vojnog roka ili zbog nesposobnosti za vojnu službu i otpuštanje vojnog obveznika s vojne vježbe u vojnim postrojbama, odnosno vojnim ustanovama.«
