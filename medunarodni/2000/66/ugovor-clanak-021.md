@@ -1,0 +1,4 @@
+# Članak 21.
+1. Svaka država može, u trenutku potpisivanja ili polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, odrediti na koje će se područje ili područja primjenjivati ova Konvencija.
+2. Svaka ugovorna stranka može, pri polaganju svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu ili kasnije u svako doba, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na svako drugo u izjavi određeno područje i za čije međunarodne odnose je odgovorna ili u čije ime je ovlaštena preuzimati obveze.
+3. Svaka izjava dana prema prethodnom stavku može se, glede svakog područja određenog u takvoj izjavi, povući notifikacijom upućenom glavnom tajniku. Takav otkaz proizvodi učinak prvog dana mjeseca koji slijedi nakon isteka razdoblja od šest mjeseci od dana kad glavni tajnik primi notifikaciju.

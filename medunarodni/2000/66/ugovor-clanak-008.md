@@ -1,0 +1,2 @@
+# Članak 8.
+U svezi s hvatanjem ili ubijanjem divljih vrsta faune, navedenih u Dodatku III. i u iznimnim slučajevima, u skladu s člankom 9., vrsta navedenih u Prilogu II., ugovorne stranke će zabraniti upotrebu svih neselektivnih sredstava hvatanja i ubijanja te upotrebu svih sredstava koja mogu prouzročiti lokalno nestajanje ili ozbiljno uznemiravanje populacije tih vrsta, a posebno sredstva navedena u Dodatku IV.
