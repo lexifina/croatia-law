@@ -1,0 +1,6 @@
+# Članak 42.
+(1) Plaćeni porez na dodanu vrijednost na uvoznu i u tuzemstvu nabavljenu opremu za tehnologijsko-istraživačke i znanstvenoistraživačke projekte u 2003. godini, vratit će se iz Proračuna, iz tekuće zalihe, ovlaštenim znanstvenim ustanovama registriranima po posebnim propisima koje nisu upisane u registar obveznika poreza na dodanu vrijednost.
+(2) Ministarstvo znanosti i tehnologije verificirat će projekte i izdati suglasnost za nabavu opreme koja služi za realizaciju projekata iz stavka 1. ovoga članka.
+(3) Znanstvene ustanove iz stavka 1. ovoga članka, na temelju suglasnosti iz stavka 2. ovoga članka i računa o uvezenoj i nabavljenoj opremi, mogu za uvezenu opremu, odnosno opremu nabavljenu u tuzemstvu ostvariti pravo na povrat plaćenog poreza na dodanu vrijednost.
+(4) Ministarstvo znanosti i tehnologije dužno je Vladi Republike Hrvatske tromjesečno dostavljati izvješće o nabavi opreme i visini utrošenih sredstava iz stavka 1. ovoga članka.
+(5) Ministarstvo financija će u roku 60 dana od dana stupanja na snagu ovoga Zakona, u suglasnosti s Ministarstvom znanosti i tehnologije, donijeti naputak o uvjetima i načinu ostvarenja prava na povrat poreza na dodanu vrijednost iz ovoga članka.

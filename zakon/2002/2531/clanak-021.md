@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Naknada plaće za vrijeme korištenja porodnog dopusta od šest mjeseci do jedne godine djetetova života, porodnog dopusta do dvije godine života djeteta za blizance, trojke, četvorke, odnosno više djece jednake dobi, posvojiteljskog dopusta i skraćenog radnog vremena do jedne godine djetetova života iznosi 1.600,00 kuna, za rad u punom radnom vremenu.
+(2) Novčana naknada za vrijeme korištenja porodnog dopusta roditelju, roditelju na redovitom školovanju, roditelju koji ostvaruje pravo na invalidsku mirovinu zbog profesionalne nesposobnosti za rad i roditelju korisniku mirovine iznosi 900,00 kuna. Osnovica za obračun naknade plaće za vrijeme stanke za dojenje djeteta iz članka 60. Zakona o radu iznosi 1.600,00 kuna.
+(3) Naknada za opremu novorođenog djeteta iznosi 1.360,00 kuna.
