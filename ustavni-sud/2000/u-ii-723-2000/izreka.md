@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuju se prijedlozi za pokretanje postupka ocjene suglasnosti s Ustavom i zakonom odredbe članka 65. Odluke o socijalnoj skrbi Općine Podravske Sesvete (“Službeni glasnik Koprivničko-križevačke županije”, broj 3/2000), Odluke o jednokratnoj pomoći starijim osobama (“Službeni glasnik Koprivničko-križevačke županije”, broj 12/1999), i Programa javnih potreba socijalne skrbi u 2000. godini (“Službeni glasnik Koprivničko-križevačke županije”, broj 12/1999).
