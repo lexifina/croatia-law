@@ -1,0 +1,1 @@
+Na osnovi članka 71. stavka 3. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01., 88/02., 149/02. i 117/03.) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02. i 24/02.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 31. sjednici, održanoj 14. listopada 2003. godine donijelo je

@@ -1,0 +1,4 @@
+## II. Kriteriji za izraČun prosjeČnog troŠka po osiguraniku
+# Članak 3.
+Obveznik uplate doprinosa stječe pravo na povrat dijela uplaćenog posebnog doprinosa, ako njegovi troškovi po osnovi ozljede na radu i profesionalne bolesti, nastali u prethodnoj kalendarskoj godini, ne prelaze 50% prosječne visine troškova propisanih člankom 5. ovog Pravilnika za granu djelatnosti u koju je razvrstan prema odluci Vlade Republike Hrvatske o nacionalnoj klasifikaciji djelatnosti za tu godinu.
+Prosječna visina troška iz stavka 1. ovog članka utvrđuje se na način, da se ukupni troškovi iz članka 2. stavka 1. podstavka 2. ovog Pravilnika nastali u prethodnoj godini, podijele s ukupnim brojem osiguranika iz članka 2. stavka 1. podstavka 1. ovog Pravilnika, te tako dobijeni trošak po osiguraniku pomnoži s koeficijentom grane djelatnosti u koju je obveznik uplate doprinosa razvrstan.
