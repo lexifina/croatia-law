@@ -1,0 +1,1 @@
+Na temelju članka 30.a stavka 1. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 127/00, 59/01), i članka 27. stavka 1. točka 4. Statuta Općine Cernik (»Služeni glasnik Općine Cernik« 5/01), Općinsko vijeće Općine Cernik na svojoj 5. sjednici održanoj 28. studenoga 2001. godine donijelo je
