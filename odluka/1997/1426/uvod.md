@@ -1,0 +1,1 @@
+Na osnovi članka 71. podstavke 1. Zakona o zdravstvenom osiguranju ("Narodne novine", broj 1/97 - pročišćeni tekst), članka 10. podstavke 8. i članka 13. podstavke 2. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine", broj 1/94) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 33. sjednici održanoj 25. srpnja 1997. donosi
