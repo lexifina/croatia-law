@@ -1,0 +1,1 @@
+Naredba o provođenju nadzora radi sprječavanja pojavljivanja smeđe truleži gomolja krumpira - Ralstonia solanacearum (Smith) Yabuuchi et al. i prstenaste truleži gomolja krumpira - Clavibacter michiga
