@@ -1,0 +1,26 @@
+## Upute ponuditeljima
+# Članak 27.
+Upute ponuditeljima sadrže sljedeće bitne podatke:
+1. ime, adresu naručitelja, broj telefona i telefaksa,
+2. mjesto isporuke, izvođenja radova ili obavljanja usluge,
+3. opis predmeta nabave, vrstu, kvalitetu, opseg ili količinu,
+4. opis i oznaku grupa ili dijelova predmeta nabave i odredbu ako je dopušten takav način nuđenja grupe ili dijelova predmeta nabave,
+5. način dokazivanja, dokaze i dokumentaciju koje ponuditelji trebaju podnijeti u svrhu dokazivanja sposobnosti,
+6. pravni oblik ako je primjereno i uvjete koje zajednički ponuditelji i nositelj ponude moraju ispuniti za zajedničku ponudu,
+7. način izračuna cijene predmeta nabave, sadržaj cijene, troškove prijevoza, osiguranja, provizije, carine, poreza, nepromjenjivost cijene ili način promjene cijene,
+8. valutu u kojoj cijena ponude treba biti izražena i način preračunavanja valute,
+9. rok, način i uvjete plaćanja,
+10. zahtjev u svezi s jamstvom za ponudu i za izvršenje ugovora,
+11. početak i rok isporuke ili završetka, ili dinamiku isporuke,
+12. rok valjanosti ponude,
+13. dodatne kriterije odabira najpovoljnije ponude uz cijenu, ako se primjenjuju, razmjernu vrijednost pojedinih kriterija, te način primjene i obračuna,
+14. jezik ili jezike na kojima se dostavlja ponuda,
+15. datum, vrijeme i mjesto podnošenja i otvaranja ponuda,
+16. naziv i adresu službe, ime osobe naručitelja za vezu i način komunikacije s ponuditeljima,
+17. potrebne izjave,
+18. zabranu inačica (varijanti) i alternativnih ponuda, te minimalne uvjete, način usporedbe i ocjenjivanja takvih ponuda ako su dopuštene,
+19. opis načina izrade, oblik i sadržaj ponude,
+20. opće uvjete ugovora ili prijedlog ugovora, ako je primjereno,
+21. način i rok priopćavanja odabira,
+22. pravo podnošenja prigovora,
+23. ostale bitne uvjete u svezi s predmetom nadmetanja sukladno stručnim pravilima ili propisanim drugim zakonom.
