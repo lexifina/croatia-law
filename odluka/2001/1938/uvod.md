@@ -1,0 +1,1 @@
+Na temelju članka 3. i 24. Zakona o izmjenama i dopunama o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 117/93., 69/97., 33/00., 73/00., 127/00. i 59/01.) i članka 28. Statuta Općine Popovača (Službene novine Općine Popovača br. 6/01), Općinsko vijeće Popovače na 5. sjednici održanoj 10. prosinca 2001. god., donijelo je
