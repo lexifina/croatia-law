@@ -1,0 +1,3 @@
+# Članak 53.
+Prostorne planove i dokumente prostornog uređenja iz članka 13. stavka 1. točke 2. alineje 6. i točke 3. Zakona o prostornom uređenju ("Narodne novine", br. 30/94.) čija je poterba izrade određena programom mjera ili čija izrada je u tijeku predstavnička tijela županije, Grada Zagreba, općina i gradova mogu donijeti kao prostorne planove iz članka 10. ovoga Zakona.
+Planovi i dokumenti iz članka 13. stavka 1. točke 2. alineje 6. i točke 3. Zakona o prostornom uređenju ("Narodne novine", br. 30/94.) koji su donijeti do stupanja na snagu ovoga Zakona uskladit će se s odredbama ovoga Zakona u roku od dvije godine od dana stupanja na snagu ovoga Zakona, a ako se ne usklade, istekom toga roka prestaju biti na snazi.
