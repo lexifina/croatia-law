@@ -1,0 +1,1 @@
+Na temelju članka 16. Uredbe o povlasticama u unutarnjem putničkom prometu ("Narodne novine", br. 40/94.), ministar financija uz suglasnost ministarstva pomorstva, prometa i veza, ministra rada i socijalne skrbi, ministra znanosti i telnologije i ministra kulture i prosvjete, donosi
