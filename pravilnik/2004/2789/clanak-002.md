@@ -1,0 +1,5 @@
+# Članak 2.
+Stručna organizacija iz članka 273. Zakona o sigurnosti prometa na cestama (u daljnjem tekstu: stručna organizacija) razvija jedinstveno programsko rješenje za automatsku obradu podataka o tehničkim pregledima, registraciji vozila i ovjeri produženja valjanosti prometne dozvole (u daljnjem tekstu: jedinstveno programsko rješenje).
+Sastavni dio jedinstvenoga programskog rješenja moraju biti dodatni programi koji omogućuju obračun, evidenciju i naplatu propisanih obveza za koje je utvrđeno da se bez njihove uplate ne može obaviti registracija ili ovjeriti produženje valjanosti prometne dozvole (naknada za ceste, obvezno osiguranje, te posebna naknada za okoliš).
+Sastavni dio jedinstvenoga programskog rješenja mogu biti i dodatni programi koji omogućuju rad, evidenciju i naplatu ostalih poslova koji se obavljaju u stanicama (homologacija vozila, ispitivanje vozila, pregled vozila za obavljanje javnoga cestovnog prijevoza i prijevoza za vlastite potrebe itd.).
+Funkcionalnost jedinstvenoga programskog rješenja potvrđuje Ministarstvo unutarnjih poslova.
