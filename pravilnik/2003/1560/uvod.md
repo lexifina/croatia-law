@@ -1,0 +1,1 @@
+Na temelju članka 37. Zakona o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 103/03), Savjet Agencije za nadzor mirovinskih fondova i osiguranja (u daljnjem tekstu Agencija) na sjednici održanoj 15. srpnja 2003. godine, donio je
