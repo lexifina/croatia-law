@@ -1,0 +1,3 @@
+# Članak 10.
+Osobi koja pristupi provjeri, policijski službenik utvrđuje identitet i daje mu upute o provedbi provjere. Policijski službenik neće dopustiti provjeru vozaču: 1. koji zbog bolesti ili duševnog i tjelesnog stanja u kojem se nalazi nije sposoban za provjeru znanja, 2. koji je pristupio provjeri znanja umjesto drugog vozača, 3. koji nije uplatio troškove provjere.
+Policijski službenik udaljit će vozača sa provjere koji ometa provedbu provjere ili se tijekom provjere služi nedopuštenim sredstvima (prepisuje, traži ili pruža pomoć, došaptava se i sl.) Vozaču iz stavka 2. i 3. ovoga članka omogućit će se ponovna provjera, uz dodatnu uplatu propisane naknade, u roku koji odredi policijska uprava, a koji ne može biti dulji od 30 dana.

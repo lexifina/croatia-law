@@ -1,0 +1,2 @@
+# Članak 3.
+Poziv na predavanje iz članka 2. ovoga Pravilnika upućuje vozaču policijska uprava odnosno policijska postaja najkasnije u roku 30 dana od dana određivanja kaznenih bodova. Predavanje se održava u roku od 15 do 30 dana od upućivanja poziva. Pozivom se određuje mjesto i vrijeme održavanja predavanja i posljedice neodazivanja pozivu te visina troškova koju je vozač dužan uplatiti za troškove predavanja.

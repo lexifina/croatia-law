@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se sadržaj programa i način održavanja predavanja o posljedicama prometnih nezgoda za vozače kojima je u roku od dvije godine zbog prekršaja u prometu određeno najmanje pet kaznenih bodova, te sadržaj programa i način provjere poznavanja prometnih propisa (u daljnjem tekstu: provjera) vozača kojima je na temelju članka 294. stavka 4., 5: i 7. Zakona o sigurnosti prometa na cestama oduzeta vozačka dozvola.

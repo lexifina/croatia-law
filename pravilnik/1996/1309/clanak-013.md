@@ -1,0 +1,2 @@
+# Članak 13.
+Vozač ima pravo prigovora na ocjenu policijskog službenika koji provodi provjeru. Prigovor se podnosi policijskom službeniku koji provodi provjeru odmah nakon izvršene provjere. Policijski službenik dužan je vozaču saopćiti zbog čega nije zadovoljio na provjeri i prigovor sa dokumentacijom dostaviti načelniku policijske uprave na rješavanje. Načelnik policijske uprave dužan je rješenje o prigovoru donijeti u roku dva dana od izvršene provjere. Rješenje iz stavka 4. ovoga članka je konačno.
