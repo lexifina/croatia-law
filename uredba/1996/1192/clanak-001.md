@@ -1,0 +1,2 @@
+# Članak 1.
+Ured za suradnju s Međunarodnim kaznenim sudom (u daljnjem teksu: Ured) osniva se kao stručna služba Vlade Republike Hrvatske koja za Vladu Republike Hrvatske obavlja stručne i administrativne poslove u svezi poslova suradnje Republike Hrvatske s Međunarodnim kaznenim sudom koji su prema Ustavnom zakonu o suradnji Republike Hrvatske s Međunarodnim kaznenim sudom ("Narodne novine", broj 32/96) u nadležnosti Vlade Republike Hrvatske.
