@@ -1,0 +1,4 @@
+I.
+Carinske stope za sljedeću robu snižavaju se i iznose: ________________________________________________________________________________ Tarifni | Tarifna |  |  |  | Šifra |  | Jedinica | Carinska broj |  | oznaka |  | Naziv |  |  | tarifnog | mjere |  | stopa |  |  |  |  |  |  | stavka ________________________________________________________________________________ 39.04 |  |  | Polimeri viniklorida ili |  |  | drugih halogeniranih |  |  | olefina, u primarnim |  |  | oblicima: ________________________________________________________________________________ |  |  | 3904.10 | - polivinilklorid, |  |  | nepomiješan s drugim | 390410000 | kg |  | sl |  |  | tvarima ________________________________________________________________________________
+II.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
