@@ -1,0 +1,4 @@
+# Članak 41.
+Hrvatski državni arhiv, kao središnji i matični državni arhiv, obavlja arhivsku službu u odnosu na arhivsko i registraturno gradivo državnih tijela, državnih i javnih ustanova i poduzeća, te pravnih osoba, obitelji i pojedinaca, čija se djelatnost prostirala ili se prostire na čitavom ili većem dijelu Republike Hrvatske, odnosno koja ima značenje za Republiku Hrvatsku.
+Područni državni arhivi obavljaju arhivsku službu u odnosu na arhivsko i registraturno gradivo državnih tijela, pravnih osoba s javnim ovlastima i javnih službi koje obavljaju djelatnost na području jedne ili više jedinica lokalne samouprave i uprave i u odnosu na gradivo koje nastaje na području djelovanja toga arhiva.
+Arhivi jedinica lokalne samouprave i uprave čuvaju, zaštićuju, obrađuju i koriste javno arhivsko gradivo tijela lokalne samouprave i uprave i njihovih javnih službi.

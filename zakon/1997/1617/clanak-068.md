@@ -1,0 +1,2 @@
+# Članak 68.
+Arhivsko gradivo koje se čuva u državnim arhivima, u smislu Zakona o zaštiti arhivske građe i arhivima ("Narodne novine", br. 25/78. i 47/86.), arhivsko gradivo nastalo do 31. prosinca 1990. za koje je po istom Zakonu postojala obveza predaje arhivima (članak 15.-17.) i arhivsko gradivo bivših društveno-političkih organizacija, državno je vlasništvo i smatra se javnim arhivskim gradivom prema odredbama ovoga Zakona.
