@@ -1,0 +1,5 @@
+# Članak 22.
+Na, prihod ostvaren izdavanjem namještenih soba ili dijela stana podstanarima, porez na prihod od imovine plaća se u paušalnom godišnjem iznosu.
+U slučaju prestanka izdavanja namještenih soba ili dijela stana podstanarima tijekom godine, na zahtjev obveznika otpisat će se razmjerni dio poreza u paušalnom iznosu što otpada na vrijeme od prvog idućega mjeseca po prestanku izdavanja do kraja godine, pod uvjetom da je zahtjev podnesen najkasnije u roku od osam dana nakon prestanka izdavanja. U protivnom, dio poreza otpisat će se prvoga sljedećega mjeseca nakon podnošenja zahtjeva.
+U slučaju izdavanja namještenih soba ili dijela stana podstanarima na unaprijed određeno vrijeme u godini, porez se razrezuje u godišnjem paušalnom iznosu, prema mjesečnom bruto-prihodu i smanjuje razmjerno vremenu u kojem je prihod ostvaren.
+Porez na prihod od imovine od prihoda ostvarenog izdavanjem namještenih soba ili dijela stana, ne plaćaju osobe kod kojih postoji stjecaj okolnosti naveden u točkama 1. i 2. stavka 1. članka 18. ove Odluke.

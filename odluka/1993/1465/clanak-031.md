@@ -1,0 +1,2 @@
+# Članak 31.
+Ova Odluka primjenjuje se od dana stupanja na snagu do 31. prosinca 1993. godine.
