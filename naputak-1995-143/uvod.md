@@ -1,0 +1,1 @@
+Na osnovi članka 75. Zakona o Narodnoj banci Hrvatske ("Narodne novine" broj 74/92, 26/93 i 79/93) i točke VII. Odluke o načinu raspoređivanja rizične aktive i odgovarajućih izvanbilančnih stavki banaka i štedionica ("Narodne novine" broj 107/93 i 15/94) donosim
