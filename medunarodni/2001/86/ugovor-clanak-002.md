@@ -1,0 +1,2 @@
+# Članak 2.
+Ugovorne stranke u skladu s načelima Svjetske trgovinske organizacije (GATT 1994) odobravaju jedna drugoj status najpovlaštenije nacije, što znači da se u trgovini proizvodima podrijetlom, iz ili koji se izvoze na državno područje druge ugovorne stranke, odobrava postupanje koje nije nepovoljnije od onog što se odobrava proizvodima podrijetlom iz, ili koji se izvoze na državno područje bilo koje treće zemlje.

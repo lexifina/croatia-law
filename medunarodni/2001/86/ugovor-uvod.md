@@ -1,0 +1,2 @@
+TRGOVINSKI UGOVOR IZMEĐU VLADE REPUBLIKE HRVATSKE I SAVEZNE VLADE SAVEZNE REPUBLIKE JUGOSLAVIJE
+Vlada Republike Hrvatske i Savezna vlada Savezne Republike Jugoslavije (u daljnjem tekstu: ugovorne stranke), vođene željom za razvijanjem trgovinskih i gospodarskih odnosa na temelju ravnopravnosti i u skladu s međunarodnom praksom i pravilima, imajući u vidu obostrane interese razvitka trgovinskih odnosa subjekata ugovornih stranaka, te u cilju učinkovita uključivanja u međunarodno tržište, sporazumjele su se kako slijedi:
