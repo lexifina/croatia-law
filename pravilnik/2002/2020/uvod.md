@@ -1,0 +1,1 @@
+Na temelju članka 4. stavaka 3., članka 7. stavak 4. i članka 13. stavak 3. Zakona o uvjetima za obavljanje poslova zastupanja u carinskom postupku (»Narodne novine«, br. 92/01), ministar financija donosi
