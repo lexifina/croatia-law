@@ -1,0 +1,6 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza I. kategorije PoŽane
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Požane nalazi se na 5,80 km državne ceste D 201 i 1 100 metara od granične crte u dubini Republike Hrvatske. Dužina graničnog prijelaza iznosi 270 metara i proteže se od ugibališta s postavljenom pločom graničnog prijelaza, do ploče s natpisom graničnog prijelaza Požane u zavoju i prosječnom širinom od 23 metra bez pripadajućih zelenih površina. Navedeno područje obuhvaća sljedeće k.č. 691/1, 691/2, 691/4, 691/5, 691/9, 653/3, 657, 658/3 i 679 k.o. Črnica.
+Područje graničnog prijelaza obuhvaća četiri ulazno-izlazne prometne trake, svaka širine 3,5 metra, deset kontejnera koje koriste djelatnici granične policije, djelatnici carine, djelatnici špedicije, djelatnici poštanskog ureda-banke, sanitarni čvor, nadstrešnicu dužine 15,40 m i širine 25,20 m s dvije kućice za smještaj djelatnika carine i djelatnika policije koji obavljaju kontrolu na graničnom prijelazu.
+Područje graničnog prijelaza obuhvaća i dva parkirališna prostora koji se nalaze s jedne i druge strane ulazno-izlaznih rampi ukupne dužine 120 metara i širine 5,20 metara.
+Ukupna površina područja graničnog prijelaza iznosi 6 210 m2.
