@@ -1,0 +1,2 @@
+# Članak 24.
+Kvartalna i godišnje izvješće o upravljanju robnim zalihama sačinjavaju prikaz ostvarenih prihoda i izdataka poslovanja, stanje obveza i potraživanja, prikaz stanja robnih zaliha, prodaje i nabave robe, kontrole državnih robnih zaliha, prelokacije robe, realizaciju odluka i zaključaka Vlade Republike Hrvatske, osiguranje skladišnog prostora za smještaj državih robnih zaliha i pregled poduzetih pravnih postupaka.

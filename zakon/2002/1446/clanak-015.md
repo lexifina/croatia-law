@@ -1,0 +1,3 @@
+# Članak 15.
+U doba ratnog stanja ili neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske, Vlada može mijenjati način stvaranja, uporabe i korištenja, obnavljanja robnih zaliha i održavanja skladišnog prostora za smještaj i čuvanje tih zaliha, utvrđen Bilancom i Godišnjim programom, vodeći računa da se one prioritetno koriste za potrebe obrane.
+Vlada može obvezati pravne i fizičke osobe koje proizvode, odnosno koje obavljaju promet određenim vrstama robe koje čine robne zalihe, da u doba ratnog satnja ili neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske moraju proizvoditi, odnosno prodavati tu vrstu robne radi popune, odnosno obnavaljnja robnih zaliha.
