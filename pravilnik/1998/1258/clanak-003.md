@@ -1,0 +1,17 @@
+## POŠILJKE PROIZVODA ŽIVOTINJSKOG PODRIJETLA U UVOZU
+# Članak 3.
+Utvrđuje se da rješenje o veterinarsko-zdravstvenim uvjetima za uvoz nije potrebno za slijedeće pošiljke proizvoda životinjskog podrijetla:
+1. pošiljke toplinski obrađenih proizvoda životinjskog podrijetla, bez obzira na njihovu namjenu, uz uvjet da nadležni veterinar zemlje izvoznice u međunarodnoj svjedodžbi o zdravstvenoj ispravnosti pošiljke, koja mora pratiti pošiljku potvrdi:
+- da je proizvod dobiven od zdravih životinja pod kontrolom nadležne veterinarske inspekcije, da je pri proizvodnji podvrgnut određenom toplinskom postupku, koji isključuje mogućnost prijenosa zaraznih bolesti i štetnog djelovanja na korisnike tih proizvoda, uključujući i razinu štetnih ostataka (rezidua) pesticida, antibiotika, sulfonamida, hormona, teških metala i dr.;
+- da proizvod potječe iz objekta registriranog za izvoz i da je taj objekt pod stalnim veterinarskim nadzorom;
+- da razina radiološke kontaminacije proizvoda u pošiljci nije veća od dopuštene u Republici Hrvatskoj.
+Pod toplinski obrađenim proizvodima razumijevaju se: konzerve svih vrsta, proizvodi koji su prije ili tijekom proizvodnje podvrgnuti toplinskoj obradi postizanjem temperature u središtu proizvoda od najmanje 700C ili su podvrgnuti toplinskoj obradi u hermetički zatvorenoj ambalaži sa Fo vrijednosti 3 i više, sterilizirano i pasterizirano mlijeko u maloprodajnoj ambalaži, pasterizirani i sterilizirani mliječni proizvodi, osim sireva, u maloprodajnoj ambalaži, mlijeko u prahu, mesni ekstrakt, sladoled, želatina i maslac;
+2. pošiljke mliječnih čokolada, slatkiša, tjestenina punjenih mesom, sirom ili jajima, ukoliko ih prati međunarodna svjedodžba o zdravstvenoj ispravnosti pošiljke, te ukoliko gore navedeni proizvodi potječu iz objekata koji su registrirani za izvoz i pod nadzorom veterinarske inspekcije u zemlji podrijetla;
+3. pošiljke sirila i starter kultura koje se upotrebljavaju u proizvodnji mliječnih proizvoda, pošiljke aditiva i kultura mikroorganizama koji se koriste u mesnoj industriji;
+4. pošiljke štavljenih ili poluštavljenih (piklovanih, kromiranih, wet blue i sl.) koža, tvornički prerađene vune (prana, češljana, bijeljena, tops, moher i sl.) dlake i perja ako su tvornički prani i sortirani, i puževih kućica, uz uvjet da te pošiljke prati međunarodna svjedodžba o zdravstenoj ispravnosti pošiljke kojom se potvrđuje stupanj obrade i njihova ispravnost;
+5. pošiljke hrane za akvarijske ribe, hrane za pse i mačke i druge kućne ljubimce, hrane za laboratorijske životinje, ukoliko nadležni veterinar zemlje izvoznice u međunarodnoj svjedodžbi o zdravstvenoj ispravnosti pošiljke koja prati pošiljku potvrdi:
+- da hrana potječe iz mjesta u kojima ne vladaju zarazne bolesti životinja i da je proizvodni proces pod stalnom veterinarskom kontrolom, čime se osigurava da se tom pošiljkom ne mogu prenijeti zarazne bolesti životinja;
+- da hrana u ovoj pošiljci ne sadrži štetne tvari (pesticide, antibiotike, hormone, sulfonamide i dr.) u skladu sa Pravilnikom o kakvoći stočne hrane ("Narodne novine" 26/98);
+- da nije kontaminirana radioaktivnim Cezijem 134 i 137;
+- da je hrana mikrobiološki ispravna;
+6. pošiljke sirovina i aditiva, koji nisu životinjskog podrijetla, a služe za proizvodnju stočne hrane, ukoliko odgovaraju uvjetima propisanima Pravilnikom o kakvoći stočne hrane ("Narodne novine" br. 26/98), mlijeko u prahu za prehranu stoke.
