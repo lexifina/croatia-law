@@ -1,0 +1,26 @@
+# Članak 2.
+Članak 6. mijenja se i glasi: "Recept mora sadržavati:
+1. puni naziv Zavoda,
+2. broj područnog ureda Zavoda osigurane osobe,
+3. broj područnog ureda Zavoda obveznika uplate doprinosa,
+4. broj osigurane osobe,
+5. oznaku osnove osiguranja,
+6. oznaku nositelja ili člana obitelji,
+7 rok valjaikosti Iskaznice,
+8. JMBG ili MB (matični broj stranca),
+9. oznaku države osiguranja (za ino-osigurane osobe),
+10 ime i prezime osigurane osobe
+11. broj obveze,
+12. adresu stanovanja osigurane osobe,
+13. šifru dijagnoze prema Međunarodnoj klasifikaciji bolesti, ozljeda i uzroka smrti,
+14. mjesto i datum propisivanja lijeka,
+15. oznaku o nesudjelovanju osigurane osobe u troškovima za lijek,
+16. puno zaštićeno ime lijeka i šifru lijeka sa Liste lijekova Zavoda,
+17. farmaceutski oblik lijeka,
+18. količinu lijeka, nabavnu cijenu lijeka i cijenu usluge,
+19. način upotrebe lijeka,
+20. potpis i faksimil sa šifrom izabranog doktora,
+21. pečat zdravstvene ustanove, odnosno ordinacije doktora medicine privatne prakse,
+22. šifra zdravstvene ustanove ili ordinacije privatne prakse,
+23. oznaku recepta,
+24. oznaku serije i broja recepta. Podatke navedene u točki 2. do 11. stavke 1. ovog članka, na tiskanicu recepta unosi se preslikom s Iskaznice zdravstveno osigurane osobe, odnosno na način propisan člankom 5. ovog Pravilnika".
