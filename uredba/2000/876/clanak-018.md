@@ -1,0 +1,3 @@
+# Članak 18.
+4. Odjel međunarodne suradnje
+Odjel međunarodne suradnje potiče, priprema i koordinira provedbu projekata u području poljoprivrede s međunarodnim financijskim institucijama; priprema i koordinira provedbu projekata iz donacija i tehničke pomoći; provodi u suradnji s pravnom službom učlanjivanje Republike Hrvatske u međunarodne organizacije i koordinira suradnju s njima; koordinira i izravno sudjeluje u aktivnostima regionalnih organizacija; potiče dvostranu i višestranu suradnju s ministarstvima i institucijama drugih zemalja; sudjeluje u pripremi međunarodnih sporazuma i protokola o suradnji; koordinira sudjelovanje Ministarstva u mješovitim gospodarskim odborima u području poljoprivrede.

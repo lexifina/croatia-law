@@ -1,0 +1,3 @@
+# Članak 48.
+3. Odjel slatkovodnog ribarstva
+Odjel slatkovodnog ribarstva analizira prikupljene podatke o slatkovodnom ribolovu i uzgoju; predlaže mjere za racionalno gospodarenje ribolovnim područjima; analizira prikupljene podatke o prerađivačko- prehrambenoj industriji riba i drugih vodenih organizama; priprema stručne podloge za donošenje zakona i drugih propisa iz područja slatkovodnog ribarstva; vodi upisnik ribolovnih područja i ribolovnih zona; izdaje povlastice za gospodarski ribolov; izdaje dozvole za akvakulturu; vodi upisnike o izdanim povlasticama i dozvolama; vodi postupak u svezi s tiskanjem i raspodjelom dozvola za rekreacijsko-športski ribolov.

@@ -1,0 +1,3 @@
+# Članak 15.
+1.2. Odsjek za poljoprivredne informacije i dokumentaciju
+Odsjek za poljoprivredne informacije i dokumentaciju prikuplja, dorađuje i statističko-informatički obrađuje podatke nužne za analizu poljoprivredne politike; osigurava razmjenu statističkih podataka unutar i izvan Ministarstva te surađuje s ostalim ustanovama s ciljem unapređivanja poljoprivredne statistike; prikuplja informacije o cijenama i temeljnim obilježjima ponude i potražnje na lokalnim hrvatskim i međunarodnim tržištima; sudjeluje u izradi izvješća po temeljnim skupinama poljoprivrednih proizvoda kao i za poljoprivredne inpute s ciljem podupiranja transparentnosti hrvatskoga poljoprivrednog tržišta.

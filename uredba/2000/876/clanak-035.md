@@ -1,0 +1,3 @@
+# Članak 35.
+3. Odjel distribucije i skladištenja
+Odjel distribucije i skladištenja prati i analizira stanje i mogućnosti, te razvijenost pojedinih distribucijskih kanala; planira i predlaže rješenja iz područja distribucije primarnih sirovina i finalnih proizvoda; vodi evidenciju i analizira stanje postojećih skladišnih kapaciteta, njihovu veličinu i popunjenost, te stanje pojedine robe na skladištima, od interesa za planiranje i izradu proizvodno potrošnih bilanci; brine o izradi i prilagodbi propisa i općih akata iz nadležnosti, sa smjernicama i zakonima EU, daje inicijativu za rješavanje pojedinih pitanja; obavlja i ostale poslove iz svoje nadležnosti.

@@ -1,0 +1,3 @@
+# Članak 30.
+4.2. Odsjek upravnih poslova sredstava za zaštitu bilja
+Odsjek upravnih poslova sredstava za zaštitu bilja obavlja upravne poslove iz područja sredstava za zaštitu bilja; priprema propise iz područja sredstava za zaštitu bilja; donosi rješenja - dozvole za stavljanje u promet sredstava za zaštitu bilja, vodi očevidnik o odobrenim i registriranim sredstvima za zaštitu bilja, priprema i izrađuje izvješća o proizvodnji, prometu i primjeni sredstava za zaštitu bilja, vodi evidenciju uvoza sredstava za zaštitu bilja, izrađuje izvješća prema međunarodnim standardima i dostavlja ih nadležnim međunarodnim institucijama te obavlja i druge poslove propisane zakonom.

@@ -1,0 +1,3 @@
+# Članak 51.
+2. Odjel plana, analize i nadzora
+Odjel plana analize i nadzora prati izvršenje ugovora koje je sklopio ministar u svezi s korištenjem poljoprivrednog zemljišta u vlasništvu države, surađuje s drugim nadležnim tijelima u izradi prijedloga zemljišne politike s posebnim osvrtom na oblike raspolaganja poljoprivrednim zemljištem u vlasništvu države, izrađuje odgovarajuće stručne podloge (izvješća, elaborate, analize, evidencije) te na drugi način prikuplja saznanja o radu u svom djelokrugu; vodi bazu podataka o poljoprivrednom zemljištu u vlasništvu države, te provodi nadzor u skladu s posebnim zakonom.
