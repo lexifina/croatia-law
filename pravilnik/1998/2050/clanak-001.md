@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim pravilnikom propisuju se uvjeti za uvođenje elektroničke obrade podataka koji se prikupljaju u toku tehničkih pregleda i registracije vozila i ostalih poslova koji se obavljaju u stanicama za tehničke preglede vozila (u daljnjem tekstu: stanica), a u okviru funkcioniranja jedinstvenog sustava tehničkih pregleda i registracije vozila. Ovim pravilnikom uređuju se i međusobna prava i obveze Centra za vozila Hrvatske i stanica u području jedinstvenog informatičkog sustava i obrade podataka tehničkih pregleda i registracije vozila.
