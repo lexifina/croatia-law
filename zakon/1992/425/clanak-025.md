@@ -1,0 +1,2 @@
+# Članak 25.
+Popis birača, nakon njegova zaključenja dostavlja se na potvrdu komisiji za popise birača općinske skupštine. Uz popis birača komisiji se dostavljaju zahtjevi građana za upis u popis birača odnosno za njegovu dopunu ili ispravak koje nadležni organ nije uvažio. Ako se popis birača vodi u obliku kartoteke, komisiji za popise birača dostavljaju se samo rješenja nadležnog općinskog organa uprave o zaključenju popisa birača i zahtjevi građana koji nisu uvaženi, s obrazloženjem zašto ti zahtjevi nisu uvaženi.

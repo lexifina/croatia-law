@@ -1,0 +1,2 @@
+# Članak 31.
+Hrvatski državljani koji imaju biračko pravo a nisu upisani u izvode zaključenih i potvrđenih popisa birača , dostavljenih na biračka mjesta, mogu na dan izbora dokazivati pravo na glasovanje potvrdom nadležnog organa (potvrda za glasovanje). U potvrdu za glasovanje upisuju se podaci iz popisa birača te utvrđenje da je osoba upisana u popis birača za dotično biračko mjesto. Potvrde za glasovanje u izbornom materijalu sastavni su dio izvoda iz popisa birača za dotično biračko mjesto.
