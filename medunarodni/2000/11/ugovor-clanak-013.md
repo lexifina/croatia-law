@@ -1,0 +1,3 @@
+# Članak 13.
+1. Glavni ravnatelj i zamjenik glavnog ravnatelja biraju se dvotrećinskom većinom glasova Vijeća i mogu biti ponovno izabrani za još jedan dodatni mandat. Njihov je redovni mandat pet godina ali u iznimnim slučajevima može biti kraći, ako tako odluči Vijeće dvotrećinskom većinom glasova. Oni vrše svoju službu na temelju ugovora koje odobri Vijeće, a koje u ime Organizacije potpisuje predsjedavajući Vijeća.
+2. Glavni ravnatelj je odgovoran Vijeću. Glavni ravnatelj obavlja upravne i izvršne zadaće Organizacije u skladu s ovim Statutom, politikama i odlukama Vijeća te pravilima i propisima koje ono donese. Glavni ravnatelj utvrđuje prijedloge za primjereno djelovanje Vijeća.

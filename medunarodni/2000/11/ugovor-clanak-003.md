@@ -1,0 +1,2 @@
+# Članak 3.
+Svaka država članica može predati obavijest o povlačenju iz Organizacije koja proizvodi učinak na kraju financijske godine. Takva obavijest mora biti u pisanom obliku i mora biti dostavljena glavnom ravnatelju Organizacije najmanje četiri mjeseca prije kraja financijske godine. Financijske obveze prema Organizaciji države članice koja je predala obavijest o povlačenju odnose se na cijelu financijsku godinu u kojoj je predana obavijest.

@@ -1,0 +1,4 @@
+# Članak 15.
+1. U obavljanju svojih dužnosti, glavni ravnatelj, zamjenik glavnog ravnatelja i osoblje ne smiju niti tražiti niti primati upute od bilo koje države ili od bilo koje vlasti izvan Organizacije. Oni se moraju suzdržati od svakog djelovanja koje bi se moglo negativno odraziti na njihov položaj međunarodnih službenika.
+2. Svaka država članica preuzima obvezu poštivati isključivi međunarodni značaj odgovornosti glavnog ravnatelja, zamjenika glavnog ravnatelja i osoblja i suzdržati se od pokušaja utjecaja na njih u obavljanju njihovih odgovornosti.
+3. Učinkovitost, osposobljenost i moralni integritet nužno treba uzeti u obzir kod odabira i zapošljavanja osoblja koje se, osim u posebnim okolnostima, odabire iz redova državljana država članica Organizacija, uzimajući u obzir načelo pravične zemljopisne raspodjele.

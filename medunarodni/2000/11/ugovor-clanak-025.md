@@ -1,0 +1,3 @@
+# Članak 25.
+1. Glavni ravnatelj priopćuje tekstove predloženih izmjena ovog Statuta vladama država članica najmanje tri mjeseca prije nego ih razmotri Vijeće.
+2. Izmjene i dopune koje podrazumijevaju temeljne promjene Statuta Organizacije ili nove obveze za države članice stupaju na snagu kad ih Vijeće usvoji dvotrećinskom većinom glasova svojih članova i kad ih prihvati dvije trećine država članica u skladu s postupcima propisanim njihovim ustavnim postupcima. O tome da li izmjena i dopuna podrazumijeva temeljne promjene Statuta odlučuje Vijeće dvotrećinskom većinom glasova. Ostale izmjene i dopune stupaju na snagu kad ih Vijeće usvoji dvotrećinskom većinom glasova.

@@ -1,0 +1,4 @@
+# Članak 4.
+1. Država članica koja je u zaostatku s plaćanjem svojih financijskih doprinosa Organizaciji nema pravo glasa ako je iznos zaostataka jednak ili veći od dugovanja za prethodne dvije godine. Međutim, članica gubi pravo glasovanja po proteku jedne godine od dana kada Vijeće prima obavijest da je dotična članica u zaostatku koji ima za posljedicu gubitak prava glasovanja, ako je u to vrijeme članica još uvijek toliko u zaostatku. Unatoč tome Vijeće može, natpolovičnom većinom glasova ostaviti ili vratiti pravo glasa takvoj državi članici ako se uvjeri da je neplaćanje prouzročeno uvjetima izvan kontrole države članice.
+2. Svakoj državi članici može se obustaviti članstvo dvotrećinskom većinom glasova Vijeća ako uporno krši načela ovog Statuta. Vijeće je ovlašteno obnoviti takvo članstvo natpolovičnom većinom glasova.
+Poglavlje III - organi
