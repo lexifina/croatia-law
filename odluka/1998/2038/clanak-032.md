@@ -1,0 +1,2 @@
+# Članak 32.
+Na sekundarnoj i tercijarnoj razini zdravstvene zaštite, cijene zdravstvene usluge utvrđuju se primjenom Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima, utvrđene cijene boda za bolničku, odnosno specijalističko-konzilijarnu zdravstvenu zaštitu, cijene penziona bolničkog smještaja i cijene lijeka i potrošnog materijala koji su primijenjeni u liječenju osigurane osobe, a iskazani su na temperaturnoj listi ili u povijesti bolesti osigurane osobe.

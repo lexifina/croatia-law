@@ -1,0 +1,3 @@
+# Članak 22.
+Za provođenje specijalističko-konzilijarne zdravstvene zaštite, Zavod sklapa ugovore s poliklinikama i bolnicama, državnim zdravstvenim zavodima, te iznimno s domovima zdravlja, privatnim zdravstvenim djelatnicima - specijalistima u zakupu u domu zdravlja i do sada ugovorenim privatnim zdravstvenim djelatnicima - specijalistima u vlastitom prostoru.
+Iznimno od stavke 1. ovog članka Zavod će sklopiti ugovor za provođenje specijalističko-konzilijarne zdravstvene zaštite s privatnim zdravstvenim djelatnicima - specijalistima na hrvatskim otocima uz uvjet da je na tom području bila otvorena specijalistička ordinacija najmanje 2 godine do dana stupanja na snagu ove Odluke i uz uvjet da dom zdravlja nema ugovorenu tu djelatnost.

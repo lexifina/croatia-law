@@ -1,0 +1,4 @@
+# Članak 16.
+Doktori medicine i doktori stomatologije zaposleni u domovima zdravlja, koji provode primarnu zdravstvenu zaštitu iz djelatnosti za koje se sklapa ugovor, na posebnoj tiskanici supotpisuju ugovoreni broj osiguranih osoba koje su ih izabrale.
+Poradi osiguranja prava na zdravstvenu zaštitu pod jednakim uvjetima za sve osigurane osobe Zavoda, a na načelima dostupnosti i kontinuiranosti korištenja rečenog prava, doktori medicine i doktori stomatologije iz stavke 1. ovog članka potpisuju i poseban Izvadak iz ugovora o provođenju primarne zdravstvene zaštite doma zdravlja sa Zavodom.
+Kada u tijeku godine pojedini timovi primarne zdravstvene zaštite u domovima zdravlja rješenjem ministra zdravstva postanu privatni doktori - zakupnici, obvezni su sa Zavodom sklopiti ugovor o provođenju zdravstvene zaštite za osigurane osobe o kojima su dotad skrbili.

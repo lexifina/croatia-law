@@ -1,0 +1,3 @@
+# Članak 14.
+Iznimno od odredaba članka 13. ove Odluke, u područjima gdje postoje veća odstupanja u organiziranju zdravstvene zaštite zbog nedostatka Standardom propisanog broja osiguranih osoba po timu, odnosno broja timova (gustoća naseljenosti i sl.), povjerenstvo Zavoda na razini Direkcije, utvrdit će poseban standard prema popisu osiguranih osoba po pojedinom timu i mogućnost, odnosno potrebu sklapanja ugovora o provođenju zdravstvene zaštite.
+Povjerenstvo iz stavke 1. ovog članka utvrdit će i posebne uvjete ugovaranja zdravstvene zaštite na hrvatskim otocima, a sukladno projektu - Poboljšanje zdravstvene zaštite na hrvatskim otocima.
