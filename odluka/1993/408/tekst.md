@@ -1,0 +1,6 @@
+o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikacju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993.
+1. Naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje koje su ostvarene do 31. prosinca 1992, povećavaju se od 1. siječnja 1993. za 20,2%.
+2. Naknade osobnog dohotka u svezi s pravom na prekvelifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje koje osigurava i isplaćuje Republički fond mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske, a ostvarene su 1. siječnja 1993. ili poslije toga dana, povećavaju se od 1. siječnja 1993. za 123,2%.
+3. Kao osnovica za povećanje naknada prema točki 1. ove odluke služi svota naknade koja je invalidu rada pripada1a na dan 1. siječnja 1993, a kao osnovica za povećanje naknade prema točki 2. odluke, služi svota naknade koja je invalidu rada pripadala, odnosno pripada, na dan ostvarivanja prava na naknadu.
+4. Povećanje naknade iz toč.1. i 2. ove odluke obavit će se po službenoj dužnosti, bez donošenja rješenja.
+5. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1993.
