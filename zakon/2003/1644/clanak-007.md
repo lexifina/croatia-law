@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 37. stavak 3. mijenja se i glasi:
+»U slučaju kad se osnovica za naknadu ne može utvrditi prema stavku 1. ovoga članka, osnovicu za naknadu čini plaća isplaćena do dana nastanka slučaja na osnovi kojeg se stječe pravo na naknadu plaće, odnosno plaća pripadajuća prema ugovoru o radu, s tim da tako određena osnovica, kada se naknada isplaćuje na teret sredstava Zavoda, ne može biti veća od najniže osnovice osiguranja propisane općim aktom Zavoda koja služi za obračun doprinosa za osnovno zdravstveno osiguranje, važeće za mjesec koji prethodi mjesecu u kojem je nastupio osigurani slučaj.«
