@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-487/2001 od 31. listopada 2001.
+
+- Case: `U-III-487/2001`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2001-10-31`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C1256A25004A262AC1256AF80035229F>
+- Official database page SHA-256: `6a7023558e16d8bbce6ae92b65175f0f374215593226dab3cabae294783e3d72`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
