@@ -1,0 +1,2 @@
+# Članak 2.
+Ugovorne stranke izražavaju svoju odlućnost da njihovi bilateralni odnosi budu vodeni načelima koje dopušta međunarodno pravo kao što su jednakost, suverenost, poštovanje prava na suverenost, nekorištenje sile ili prijetnje silom, nepovredivost granica, teritorijalna cjelovitost država, rješavanje sukoba mirnim putem, nemiješanje u unutarnje stvari, poštovanje ljudskih prava i sloboda, jednakost naroda i njihovo pravo na odlučivanje o vlastitoj sudbini, suradnja među zemljama, te svjesno ispunjenje svih obveza koje proizlaze iz međunarodnog prava.

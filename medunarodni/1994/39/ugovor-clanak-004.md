@@ -1,0 +1,3 @@
+# Članak 4.
+Ugovorne će stranke, polazeći od načela Povelje Ujedinjenih naroda, završnog helsinškog dokumenta KESS-a i ostalih međunarodnih obveza, doprinositi smanjenju oružanih snaga i naoružanja u Europi na uravnoteženu i najnižu moguću razinu, dovoljnu za obranu, ukljućujući i dodatne mjere za smanjivanje regionalne neravnoteže na vojnom polju.
+Ugovorne će stranke, u svezi s odredbom u prethodnom stavku ovoga Članka, poticati bilateralnu suradnju na vojnom polju potpisivanjem posebnih ugovora, odnosno sporazuma, a posebnu će painju posvećivati konzultacijama i povremenim susretima vojnih predstavnika, ukljućujući i susrete ministara obrane i zapovjednika glavnih stoiera.
