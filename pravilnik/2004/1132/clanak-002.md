@@ -1,0 +1,8 @@
+## Visina naknade
+# Članak 2.
+(1) Visine godišnjih naknada iz članka 1. stavka 1. ovoga Pravilnika utvrđene su u Tablicama 1., 2., 3., 4., 5. i 6. u Prilogu 1. koji čini sastavni dio ovoga Pravilnika.
+(2) U ukupan prihod iz Tablica 1., 2., 3. i 4. u Prilogu 1. ovoga Pravilnika računaju se svi fakturirani prihodi u proteklih dvanaest mjeseci, koji su ostvareni obavljanjem pripadajućih telekomunikacijskih usluga.
+(3) Osobe na koje se primjenjuje ovaj Pravilnik moraju u pisanom obliku izvijestiti Agenciju o ostvarenim prihodima iz stavka 2. ovoga članka, i to najkasnije do petnaestog u sljedećem mjesecu nakon isteka razdoblja od dvanaest mjeseci za koje je godišnja naknada plaćena.
+(4) Agencija ili revizor, kojeg je odabralo Vijeće Agencije, može pregledati računovodstvene knjige i obračune prihoda osoba iz stavka 3. ovoga članka. U slučaju da se pregledom utvrde prihodi različiti od prihoda prijavljenih prema stavku 3. ovoga članka, troškove pregleda plaća osoba kod koje se obavlja pregled računovodstvenih knjiga i obračuna prihoda. Agencija ili revizor, kojeg je odabralo Vijeće Agencije, može pregledati računovodstvene knjige i obračune prihoda na teret osobe koja u pisanom obliku ne izvijesti Agenciju o ostvarenim prihodima u roku utvrđenom u stavku 3. ovoga članka.
+(5) Davatelji usluga kabelske distribucije ne plaćaju naknadu za drugu i treću godinu obavljanja usluga, već plaćaju naknadu utvrđenu u Tablici 3. pod rednim brojem 4. za četvrtu i ostale godine obavljanja usluga.
+(6) Davatelji usluga pristupa Internetu i davatelji usluga multi-videokonferencije plaćaju naknadu utvrđenu u Tablici 4. pod rednim brojem 1. i 3. samo za prvu godinu obavljanja usluga.
