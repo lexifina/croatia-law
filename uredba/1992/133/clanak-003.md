@@ -1,0 +1,2 @@
+# Članak 3.
+Predmet obveznog prebijanja obaeza i potraživanja su sve obveze pravnih osoba iz Republike Hrvatske prema pravnim osobama iz Socijalističke Republike Bosne i Hercegovine iz dužničko-vjerovničkih odnosa po osnovi prometa robe i obavljanja usluga, obveze s naslova osiguranja i obveze po osnovi otplate kredita, koje su nastale do zaključno 31. prosinca 1991. godine a nisu izmirene do dana prijavljivanja.
