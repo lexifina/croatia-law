@@ -1,0 +1,1 @@
+Na temelju članka 61. stavak 1. Zakona o cestama pročišćeni tekst ("Narodne novine " br. 56/91, 61/91, 49/92 i 26/93), članka 47. Zakona o prijevozu u unutarnjem cestovnom prometu ("Narodne novine" br. 77/92 i 26/93) i Članka 91. Zakona o upravi ("Narodne novine" br. 16/78, 50/78, 29/85, 41/90, 47/90 i 53A/91), ministar pomorstva, prometa i veza donosi
