@@ -1,4 +1,3 @@
 ## III. POREZNI OBVEZNIK
 # Članak 7.
-Porezni obveznik posebnog poreza na duhanske prerađevine jest proizvodač
-odnosno uvoznik.
+Porezni obveznik posebnog poreza na duhanske proizvode jest proizvođač, odnosno uvoznik.

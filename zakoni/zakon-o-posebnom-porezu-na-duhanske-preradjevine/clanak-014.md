@@ -1,6 +1,4 @@
-## IX. UVOZ I IZVOZ DUHANSKIH PRERAĐEVINA
+## IX. UVOZ I IZVOZ DUHANSKIH PROIZVODA
 # Članak 14.
-Uvoziti i izvoziti duhanske prerađevine mogu pravne osobe upisane u
-sudski registar za obavljanje vanjskotrgovinskog prometa na osnovi odobrenja
-koje na njihov zahtjev izdaje Ministarstvo financija - Središnji ured Porezne
-uprave.
+(1) Uvoziti i izvoziti duhanske proizvode i opskrbljivati zračne luke, zrakoplove koji lete međunarodnim zračnim prostorom, brodove koji prometuju međunarodnim vodama i slobodne carinske prodavaonice mogu pravne osobe upisane u sudski registar za obavljanje djelatnosti trgovine na osnovi odobrenja koje na njihov zahtjev daje Ministarstvo financija - Središnji ured Carinske uprave.
+(2) Ako se pravna osoba iz stavka 1. ovoga članka ne pridržava odredbi ovoga Zakona ili je pravomoćnim rješenjem kažnjena za porezni prekršaj ili je porezni dužnik, Ministarstvo financija - Središnji ured Carinske uprave može joj uskratiti davanje odobrenja, oduzeti odobrenje ili rješenjem zabraniti uvoz i izvoz duhanskih proizvoda na određeno vrijeme, a u ponovljenom slučaju trajno.

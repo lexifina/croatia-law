@@ -1,4 +1,3 @@
 ## II. PREDMET OPOREZIVANJA
 # Članak 3.
-Duhanskim prerađevinama u smislu ovoga Zakona smatraju se cigarete i
-ostale duhanske prerađevine.
+Duhanskim proizvodima u smislu ovoga Zakona smatraju se cigarete i ostali duhanski proizvodi.

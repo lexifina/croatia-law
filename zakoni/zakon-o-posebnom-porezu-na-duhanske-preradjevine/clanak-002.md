@@ -1,2 +1,2 @@
 # Članak 2.
-Posebni porez na duhanske prerađevine prihod je državnog proračuna.
+Posebni porez na duhanske proizvode prihod je državnog proračuna.
