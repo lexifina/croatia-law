@@ -1,0 +1,3 @@
+# Članak 72.
+Odjel za komercijalne i opće poslove, obavlja stručne poslove vezane za praćenje odvijanja i poduzimanje mjera s ciljem povećanja ostvarivanja na tržištu sredstava temeljem djelatnosti Zavoda; planira i realizira investicije u proširenje i nadogradnju tehničke osnovice rada; prati i analizira uplate po osnovi stjecanja i održavanja prava industrijskog vlasništva, te obavljanja informacijskih usluga u području intelektualnog vlasništva; sudjeluje u izgradnji modela komercijalizacije aktivnosti Zavoda po osnovi vlastite djelatnosti; obavlja tehničke poslove u svezi službenog prijevoza, dostave, fotokopiranja i umnožavanja.
+8.2. Odjel za kadrovske i pravne poslove

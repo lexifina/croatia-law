@@ -1,0 +1,8 @@
+## 4. UPRAVA ZA AUTORSKO PRAVO I
+## SRODNA PRAVA
+# Članak 36.
+Uprava za autorsko pravo i srodna prava priprema i izrađuje nacrte prijedloga zakona, pravilnika i drugih propisa za provedbu i primjenu zakona kojima se uređuju prava autora književnih, znanstvenih i umjetničkih djela (autorsko pravo) te prava umjetnika izvođača, proizvođača fonograma i organizacija za radiodifuziju (srodna prava); daje stručna mišljenja i objašnjenja u svezi s primjenom i provedbom zakona; sustavno prati razvitak doktrine, teorije i prakse europskog i međunarodnog autorskog prava i srodnih prava te relevantnih nacionalnih propisa; obavlja upravne i stručne poslove vezane uz sklapanje, potvrđivanje odnosno pristupanje te provedbu međunarodnih ugovora koji u području autorskog prava i srodnih prava obvezuju Republiku Hrvatsku; organizira i ostvaruje suradnju s domaćim i međunarodnim subjektima relevantnima za funkcioniranje sustava autorskog i srodnih prava u zemlji; organizira i provodi stručno - edukativne seminare iz područja autorskog prava i srodnih prava; provodi upravni postupak po zahtjevima za odobravanjem obavljanja djelatnosti zastupanja u području ostvarivanja autorskog prava i srodnih prava; provodi neposredni inspekcijski nadzor nad radom udruga autora te udrugama nositelja pojedinih srodnih prava koje obavljaju djelatnost kolektivnog ostvarivanja autorskog prava odnosno pojedinih srodnih prava i obavlja druge poslove iz svojeg djelokruga.
+U upravi za autorsko pravo i srodna prava ustrojavaju se sljedeći odjeli:
+4.1. Odjel za prava autora književnih, znanstvenih i umjetničkih djela
+4.2. Odjel za prava umjetnika izvođača, proizvođača fonograma i organizacija za radiodifuziju.
+4.1. Odjel za prava autora književnih, znanstvenih i umjetničkih djela

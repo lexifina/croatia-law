@@ -1,0 +1,3 @@
+# Članak 8.
+Odsjek za formalno ispitivanje prijava patenata obavlja upravne i stručne poslove vezane za ispitivanje i obradu prijava patenata i podnesaka u odnosu na formalno-pravne razloge; priprema i kontrolira podatke za objavu prijave u službenom glasilu Zavoda; vodi Registar prijava patenata; obavlja kontrolu uplaćenih upravnih pristojbi i naknada troškova upravnog postupka i vodi postupak za oslobađanje od njihovog plaćanja u fazi do objave prijave patentne; izdaje svjedodžbe o pravu prvenstva; izrađuje opise objavljenih patentnih prijava; informira o načinu podnošenja prijave patenta.
+2.1.2. Odsjek za administriranje postupka supstancijalnog ispitivanja

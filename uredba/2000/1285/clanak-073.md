@@ -1,0 +1,3 @@
+# Članak 73.
+Odjel za kadrovske i pravne poslove prati mjere kadrovske politike i obavlja kadrovske poslove; vodi poslove oko raspoređivanja državnih službenika i namještenika; obavlja poslove oko izbora kandidata u državnu službu; vodi osobni očevidnik; prati statusna prava djelatnika, njihov rad i promicanje u službi; izrađuje, donosi i realizira planove stručnog usavršavanja državnih službenika; prati i nadzire primjenu i učinke zakona i propisa relevantnih za tijela državne uprave; priprema i izrađuje razne ugovore za potrebe Zavoda; obavlja sve pravne poslove prilikom pripreme i provođenja javnih natječaja.
+8.3. Odjel za financije i računovodstvo

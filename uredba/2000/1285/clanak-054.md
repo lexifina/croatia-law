@@ -1,0 +1,2 @@
+# Članak 54.
+Odsjek za standarde u elektroničkoj razmjeni podataka razrađuje i predlaže uvođenje standarda za elektroničku razmjenu podataka; prati trendove razvoja elektroničke razmjene podataka na području intelektualnog vlasništva; predlaže postupke za harmonizaciju tehničkih rješenja s preporukama Svjetske organizacije za intelektualno vlasništvo te obavlja i ostale stručne poslove vezane uz elektroničku razmjenu podataka.

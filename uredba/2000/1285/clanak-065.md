@@ -1,0 +1,3 @@
+# Članak 65.
+Odsjek za suradnju sa gospodarskim entitetima obavlja stručne poslove definiranja i provedbe aktivnosti za postizanje primjerene zastupljenosti intelektualnog vlasništva u djelovanju gospodarskih entiteta; osmišljava i provodi promociju djelatnosti Zavoda u gospodarskim entitetima; osmišljava i implementira model diseminacije informacija relevantnih za gospodarstvo; osmišljava i realizira sustav savjetovanja o zaštiti industrijskog vlasništva; surađuje sa stranim relevantnim institucijama; prati razvoj stručnog područja.
+6.3.3. Odsjek za županijske informacijske centre i Hrvatski savez inovatora

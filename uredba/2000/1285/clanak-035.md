@@ -1,0 +1,2 @@
+# Članak 35.
+Odsjek za međunarodnu zaštitu industrijskog obličja te zemljopisnih oznaka podrijetla proizvoda obrađuje međunarodne registracije industrijskog obličja za Republiku Hrvatsku; vodi registar međunarodnih registracija industrijskog obličja za Republiku Hrvatsku; priprema i kontrolira podatke za objavu u službenom glasilu Zavoda; informira o zatraženim i registriranim pravima po međunarodnim prijavama industrijskog obličja; daje uputa o načinu podnošenja prijava za međunarodnu registraciju industrijskog obličja.

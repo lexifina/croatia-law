@@ -1,0 +1,3 @@
+# Članak 64.
+Odsjek za suradnju sa znanstvenoistraživačkim i visokoobrazovnim institucijama obavlja stručne poslove definiranja i provedbe aktivnosti za postizanje primjerene zastupljenosti intelektualnog vlasništva u djelovanju znanstveno-istraživačkih, razvojnih, visokoobrazovnih institucija; osmišljava i provodi promociju djelatnosti Zavoda u znanstvenoistraživačkim i visokoobrazovnim institucijama; osmišljava i implementira model diseminacije informacija relevantnih za znanost i istraživanje; osmišljava i realizira sustav savjetovanja o zaštiti industrijskog vlasništva; surađuje sa stranim relevantnim institucijama; prati razvoj stručnog područja.
+6.3.2. Odsjek za suradnju sa gospodarskim entitetima

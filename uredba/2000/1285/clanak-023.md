@@ -1,0 +1,2 @@
+# Članak 23.
+Odsjek za međunarodnu zaštitu patenata u okviru Ugovora sa EPO-om obavlja upravne i stručne poslove provedbe postupka međunarodne zaštite u skladu s odredbama ugovora o suradnji s Europskom patentnom organizacijom; vodi Registar međunarodnih prijava patenata i patenata; informira o zatraženim i dodijeljenim patentima po međunarodnim prijavama za Republiku Hrvatsku; daje upute o načinu podnošenja međunarodnih prijava patenata.

@@ -1,0 +1,3 @@
+# Članak 31.
+Odsjek za formalno ispitivanje i klasificiranje obavlja upravne i stručne poslove vezane za formalno ispitivanje svih prijava u Odjelu; klasificira prijave industrijskog obličja prema Lokarnskom sporazumu o međunarodnoj klasifikaciji industrijskoga obličja; priprema i kontrolira podatke za objavu prijave te konačnu objavu u službenom glasilu Zavoda; prati odgodu objave prijava industrijskog obličja; unosi podatke u registre i Očevidnik Odjela; upisuje promjene i produljenja vrijednosti u registre i Očevidnik Odjela te pruža strankama dostupne i odobrene informacije o upisanim podacima.
+3.2.2. Odsjek za prigovore, hitne i posebne postupke

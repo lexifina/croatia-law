@@ -1,0 +1,2 @@
+# Članak 70.
+Odjel za registrirane zastupnike pri Zavodu obavlja stručne poslove sustavnog praćenja svih aspekata primjene pozitivnih propisa o zastupanju pri nadležnom tijelu za industrijsko vlasništvo; koordinira aktivnosti u svezi polaganja stručnih ispita za zastupnike u području prava industrijskog vlasništva; vodi Registar zastupnika; vodi Registar generalnih punomoći; prati i analizira propise pojedinih zemalja o zastupanju; sudjeluje u izradi nacrta zakona i propisa o zastupanju.
