@@ -1,0 +1,3 @@
+## o preuzimanju sredstava Agencije Federacije za osiguranje depozita i sanaciju banaka
+# Članak 1.
+Društvena sredstva koja su, temeljem Zakona o Agenciji Federacije za osiguranje depozita i sanaciju banaka ("Službeni list". broj 84/89, 63/90 i 20/91; u daljnjem tekstu: Agencija), data u vidu kredita bankama sa sjedištem u Republici Hrvatskoj, a nisu vraćena Agenciji postaju zajedno s obračunatom i naplaćenom kamatom sredstva Republike Hrvatske. Sredstva iz prethodnog stavka koristit će se za nadoknadu izvora sredstava kod Poštanske štedionice, filijale za Hrvatsku od koje je bilanca prenijeta na Hrvatsku poštansku banku, d. d. Zagreb.
