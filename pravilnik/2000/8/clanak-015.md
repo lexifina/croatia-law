@@ -1,0 +1,4 @@
+# Članak 15.
+U članku 61. dodaju se stavci 8. i 9. koji glase:
+»(8) Obveznici poreza na dohodak koji obavljaju samostalne djelatnosti, za koje nisu obveznici poreza na dodanu vrijednost, a pretežni dio poslovnih primitaka ostvaruju prodajom dnevnog tiska, duhana i duhanskih prerađevina, lutrije, športske prognoze, lota, velda, maraka i drugih poštanskih vrijednosnica te prodajom na tržnicama i otvorenim prostorima, nisu obvezni ispostavljati račune iz stavka 7. ovoga članka.
+(9) Tržnicama i otvorenim prostorima u smislu Zakona i ovoga Pravilnika, smatraju se mjesta koja mjerodavna tijela odrede kao tržnice ili mjesta gdje se može prigodno trgovati ili se mogu obavljati usluge. Prodajom na otvorenim prostorima, u smislu ovoga Pravilnika smatra se i prodaja karata u sredstvima javnog prijevoza i prodaja putem automata.«
