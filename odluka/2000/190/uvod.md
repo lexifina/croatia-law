@@ -1,0 +1,1 @@
+Na temelju članka 108. stavka 2. i stavka 3. Zakona o izdavanju i prometu vrijednosnim papirima ("Narodne novine" br. 107/95 i 142/98) Središnja depozitarna agencija na 74. sjednici Uprave održanoj 30. prosinca 1999. godine donosi

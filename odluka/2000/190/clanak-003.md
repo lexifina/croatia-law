@@ -1,0 +1,6 @@
+## ROKOVI DOSTAVE
+# Članak 3.
+Za vijednosne papire iz članka 2. ove Odluke koji su izdani kao isprave propisani su ovi rokovi dostave podataka:
+1. za dionice koje su izrađene prije stupanja na snagu Zakona o izdavanju i prometu vrijednosnim papirima, a glase na donositelja izdavatelj je obvezan dostaviti podatke nakon dospijeća posljednjeg kupona u kuponskom arku koji postoji u trenutku stupanja na snagu ovoga zakona, ali najkasnije do 4. siječnja 2006. godine (članak 111. stavak 2. Zakona o izdavanju i prometu vrijednosnim papirima),
+2. za dionice koje su izrađene prije stupanja na snagu Zakona o izdavanju i prometu vrijednosnim papirima, a glase na ime, izdavatelj je obvezan dostaviti podatke nakon dospijeća posljednjeg kupona u kuponskom arku koji postoji u trenutku stupanja na snagu ovoga zakona, ali najkasnije do 4. siječnja 2001. godine (članak 111. stavak 3. Zakona o izdavanju i prometu vrijednosnim papirima),
+3. Za vrijednosne papire koji su fizički izrađeni prije stupanja na snagu Zakona o izdavanju i prometu vrijednosnim papirima, a nisu spomenuti u stavcima 1. i 2. ovoga članka, izdavatelj je obvezan dostaviti podatke do 4. siječnja 2006.godine (članak 111. stavak 3. Zakona o izdavanju i prometu vrijednosnim papirima).

@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Izdavatelji vrijednosnih papira koji na dan stupanja na snagu ove Odluke u smislu članka 4. ove odluke istovremeno udovoljavaju po dva ili više postavljenih kriterija za određivanje rokova dostave, obvezni su postupiti sukladno prvom od kriterija kojima udovoljavaju.
+(2) Iznimno od stavka 1. ovog članka, izdavatelj čiji vrijednosni papiri nakon stupanja na snagu ove odluke budu uvršteni u neku od kotacija iz članka 4. točke 1. i 2. dužni su su dostaviti podatke Središnjoj depozitarnoj agenciji u rokovima propisanim tim točkama, a ukoliko su ovi rokovi u trenutku uvrštenja istekli, dužni su dostaviti podatke najkasnije u roku od 30 dana od dana uvrštenja vrijednosnih papira u kotaciju.
