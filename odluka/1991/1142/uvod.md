@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o pravima i dužnostima organa društveno-političkih zajednica u pogledu sredstava u društvenom vlasništvu koja koriste ("Narodne novine", broj 13/90), Vlada Republike Hrvatske na svojoj sjednici od 22. kolovoza 1991. godine donijela je
