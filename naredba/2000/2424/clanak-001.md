@@ -1,0 +1,5 @@
+# Članak 1.
+U Naredbi o obaveznom atestiranju električnih aparata za kućanstvo (»Službeni list« broj 43/88), točka 10. mijenja se i glasi:
+»10. Izgled i upotreba potvrdbenog znaka za proizvode iz točke 1. naredbe utvrđeni su Pravilnikom o izgledu i upotrebi potvrdbenog (certifikacijskog) znaka (»Narodne novine« broj 88/98, 165/98 i 8/99), s tim što se utvrđuje i ovo:
+a) visina »B« potvrdbenog znaka može biti od 3 mm do 25 mm
+b) označivanje potvrdbenim znakom s dopunskim oznakama obavlja se na samom proizvodu.«
