@@ -1,0 +1,7 @@
+## 6. UPRAVA ZA SANITARNU INSPEKCIJU
+# Članak 76.
+Uprava za sanitarnu inspekciju obavlja upravne i druge stručne poslove koji se odnose na zaštitu pučanstva od zaraznih i nezaraznih bolesti, ionizirajućih i neionizirajućih zračenja, zdravstvenu ispravnost namirnica i predmeta opće uporabe; proizvodnju, promet, uporabu i zbrinjavanje otrova; sanitarni nadzor nad proizvodnjom i prometom lijekova, medicinskih i homeopatskih proizvoda; obavlja poslove sanitarnog nadzora nad osobama i djelatnostima, građevinama, prostorijama, prostorima, postrojenjima i uređajima koji mogu na bilo koji način štetno utjecati na zdravlje ljudi te sanitarni nadzor u međunarodnom prometu na državnoj granici; vodi registar sanitarnih inspektora u Republici Hrvatskoj; brine o unapređenju rada i stručnom osposobljavanju i usavršavanju sanitarnih inspektora; surađuje s drugim tijelima državne uprave na području zaštite zdravlja pučanstva i zaštite i unapređenja zdravog okoliša; priprema izvješća Vladi Republike Hrvatske i Hrvatskom državnom saboru s prijedlogom mjera za unapređenje stanja, daje stručna tumačenja i upute u vezi primjene zakona, tehničkih i drugih propisa iz područja zaštite zdravlja ljudi, sudjeluje u ostvarivanju poslova međunarodne suradnje te obavlja i druge poslove koje odredi ministar.
+Za obavljanje poslova iz djelokruga Uprave za sanitarnu inspekciju ustrojavaju se:
+a) Odjel za sanitarnu inspekciju,
+b) Odjel za graničnu sanitarnu inspekciju.
+a) Odjel za sanitarnu inspekciju

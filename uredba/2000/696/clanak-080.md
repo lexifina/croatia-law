@@ -1,0 +1,3 @@
+# Članak 80.
+Pododsjek za praćenje i suzbijanje zaraznih bolesti prati kretanje zaraznih bolesti u Republici Hrvatskoj; prikuplja podatke i izrađuje izvješća o kretanju zaraznih bolesti; surađuje sa zavodima za javno zdravstvo u izradi planova i programa provođenja protuepidemijskih mjera; organizira i sudjeluje na stručnim sastancima glede pojave i suzbijanja zaraznih bolesti; donosi rješenja za prijenos umrlih osoba iz inozemstva u Republiku Hrvatsku; sudjeluje u izradi propisa o zaštiti pučanstva od zaraznih bolesti: obavlja i druge poslove koje mu odredi ministar.
+2. Odsjek za namirnice i predmete opće uporabe

@@ -1,0 +1,3 @@
+# Članak 85.
+Pododsjek za sanitarni nadzor provodi nadzor nad korisnicima izvora ionizirajućih zračenja te nad ispunjavanjem propisanih uvjeta u pogledu zaštitnih sredstava, opreme, prostorija i djelatnika; provodi nadzor u pogledu provedbe propisanih zdravstvenih pregleda osoba koje rade s izvorima ionizirajućih zračenja; zabranjuje rad u zoni zračenja privremeno ili trajno nesposobnim osobama na temelju ocjene radne sposobnosti ovlaštene službe medicine rada; korisniku izvora ionizirajućih zračenja naređuje otklanjanje nedostataka te obavlja i druge poslove koje odredi ministar.
+3.2. Pododsjek za praćenje ozračenosti pučanstva

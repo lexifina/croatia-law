@@ -1,0 +1,2 @@
+# Članak 59.
+Odjel za unutarnji nadzor i kontrolu obavlja upravne i stručne poslove vezane za unutarnji nadzor upravnih, financijsko--računovodstvenih i drugih stručnih poslova vezane na provedbu propisa iz djelokruga Ministarstva; nadzire i kontrolira utrošak proračunskih sredstava; podnosi mjesečna izvješća i upozorenja ministru na eventualne nepravilnosti te obavlja druge poslove koje mu povjeri ministar.

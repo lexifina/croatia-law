@@ -1,0 +1,3 @@
+# Članak 90.
+Odsjek za sanitarni nadzor nad proizvodnjom i prometom na veliko lijekova, medicinskim i homeopatskim proizvodima provodi sanitarni nadzor nad proizvodnjom i prometom na veliko lijekovima, medicinskim i homeopatskim proizvodima; pruža stručnu pomoć i obavlja nadzor nad radom sanitarnih inspekcija u Republici Hrvatskoj; sudjeluje u radu stručnih povjerenstava za utvrđivanje uvjeta; prati i analizira stanje i pojave u vezi primjene propisa iz područja lijekova, medicinskih i homeopatskih proizvoda te predlaže mjere za unapređenje; obavlja i druge poslove koje odredi ministar.
+6. Odsjek za zdravstvenu ekologiju

@@ -1,0 +1,2 @@
+# Članak 75.
+Odjel za međunarodnu suradnju i usklađivanje pravnih propisa iz oblasti zdravstva i zdravstvenog osiguranja sa Europskom unijom sudjeluje u postupku sklapanja međunarodnih-bilateralnih ugovora o socijalnom osiguranju u dijelu zdravstvene zaštite i zdravstvenog osiguranja te prati njihovu primjenu, sudjeluje u radnim skupinama i surađuje sa drugim tijelima državne uprave u postupku usklađivanja pravnih propisa Republike Hrvatske sa propisima Europske unije.

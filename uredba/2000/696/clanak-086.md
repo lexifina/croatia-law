@@ -1,0 +1,3 @@
+# Članak 86.
+Pododsjek za praćenje ozračenosti pučanstva vodi bazu podataka svih izvora zračenja, korisnika izvora i osoba koje rade s izvorima ionizirajućih zračenja; odobrava nabavu i uporabu rengenskih uređaja zdravstvenim ustanovama; odobrava nabavu i uporabu zatvorenih izvora zračenja u industriji i gospodarstvu; odobrava djelatnost s otvorenim izvorima zračenja u medicini i znanosti; sudjeluje u radu stručnih povjerenstava za ovlašćivanje obavljanja uvoza i prijevoza izvora zračenja, zaštite od zračenja te ovlašćivanje službi medicina rada za obavljanje zdravstvenih pregleda osoba koje rade s izvorima ionizirajućih zračenja.
+4. Odsjek za otrove

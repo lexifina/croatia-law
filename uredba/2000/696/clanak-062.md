@@ -1,0 +1,3 @@
+# Članak 62.
+Odsjek za normativnu djelatnost priprema nacrte prijedloga zakona i prijedloge drugih propisa iz područja zdravstvene zaštite i zdravstvenog osiguranja, priprema mišljenja o prijedlozima za ocjenu ustavnosti odnosno zakonitosti propisa iz područja zdravstvene zaštite i zdravstvenog osiguranja, priprema odgovore na tužbe u upravnim sporovima, priprema odgovore u postupcima iz nadležnosti Pučkog pravobranitelja Republike Hrvatske te daje mišljenja na izvješća Pučkog pravobranitelja Republike Hrvatske o ostvarivanju prava građana iz područja zdravstvene zaštite i zdravstvenog osiguranja.
+2. Odsjek za osnivanje privatnih zdravstvenih ustanova i privatnih praksi

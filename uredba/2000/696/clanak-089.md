@@ -1,0 +1,3 @@
+# Članak 89.
+Pododsjek obavlja poslove Povjerenstva za otrove vezano za registraciju otrova i razvrstavanje otrova u skupine otrovnosti; sudjeluje u radu stručnih povjerenstava Ministarstva zdravstva za utvrđivanje uvjeta u pogledu opreme, prostora i stručne spreme djelatnika za obavljanje djelatnosti proizvodnje otrova, prometa na veliko otrova, uporabe otrova skupine I, djelatnost dezinfekcije, dezinsekcije i deratizacije kao i mjere za sprečavanje i suzbijanje zaraznih bolesti pučanstva; izdaje odobrenja za uvoz, obavlja i druge poslove koje odredi ministar.
+5. Odsjek za sanitarni nadzor nad proizvodnjom i prometom na veliko lijekovima, medicinskim i homeopatskim proizvodima
