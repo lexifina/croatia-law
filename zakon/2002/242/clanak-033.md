@@ -1,0 +1,5 @@
+# Članak 33.
+Davatelj usluga certificiranja je dužan o prekidu ugovora zbog mogućeg stečaja ili potrebe, odnosno namjere prestanka poslovanja obavijestiti svakog potpisnika i Ministarstvo najmanje tri mjeseca prije isteka ugovorom povjerenih mu usluga certificiranja.
+Davatelj usluge certificiranja je dužan osigurati kod drugog davatelja usluga certificiranja nastavak obavljanja usluga certificiranja za potpisnike kojima je izdao certifikate, a ukoliko za to nema mogućnosti, dužan je opozvati sve izdane certifikate i o tome odmah obavijestiti Ministarstvo.
+Davatelj usluga certificiranja koji prekida s obavljanjem usluga certificiranja dužan je dostaviti svu dokumentaciju u svezi s obavljenim uslugama certificiranja drugom davatelju usluga na kojega prenosi obveze s osnove obavljanja usluga certificiranja, odnosno Ministarstvu ako nema drugog davatelja usluga.
+Ministarstvo mora odmah osigurati izvršenje opoziva svih certifikata koje je izdao davatelj usluga koji je iz bilo kojih razloga prekinuo obavljanje certificiranja, a nije osigurao nastavak obavljanja kod drugog davatelja usluga certificiranja i nije opozvao izdane certifikate.
