@@ -1,0 +1,1 @@
+Na temelju članka 10. Uredbe o plaćama (" Narodne novine", broj 40/92) i članka 91. Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 48/85. 41/90, 47/90 i 53a/91), ministar rada, socijalne skrbi i obitelji donosi
