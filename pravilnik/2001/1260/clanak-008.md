@@ -1,0 +1,3 @@
+# Članak 8.
+Oprema uvezena uz oslobađanje od plaćanja carine prema članku 22. Zakona ne smije se prodati ili otuđiti po drugom osnovu, posuditi, dati drugome na uporabu, u zalog, najam ili dati kao osiguranje druge obveze prije isteka roka od pet godina od dana uvoznoga carinjenja, bez prethodne pisane obavijesti Carinskoj upravi o tome i prije izvršenja obračuna carine i plaćanja carinskog duga.
+U slučaju nastupa okolnosti iz stavka 1. ovoga članka obračun carine obavlja se po stopi koja se primjenjuje na dan nastupa tih okolnosti, a na osnovu vrste robe i carinske vrijednosti koju je na taj dan utvrdila ili prihvatila carinarnica.

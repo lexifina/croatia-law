@@ -1,0 +1,3 @@
+# Članak 2.
+Carinska povlastica pri uvozu inicijalne opreme za obnovu i razvoj Grada Vukovara ostvaruje se temeljem rješenja Carinarnice Osijek, donijetog po prethodno pribavljenoj suglasnosti Ministarstva za javne radove, obnovu i graditeljstvo (u daljnjem tekstu: Ministarstvo) u postupku puštanja robe u slobodan promet.
+Inicijalnom opremom u smislu stavka 1. ovoga članka smatra se oprema koja je potrebna za optimalno obavljanje gospodarskih aktivnosti ili društvenih djelatnosti na području Grada Vukovara određenih člankom 2. Zakona, a uvozi se tijekom 5 godina od dana donošenja prvog rješenja o ostvarivanju carinske povlastice.
