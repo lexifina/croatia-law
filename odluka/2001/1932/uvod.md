@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinice lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 127/00 i 59/2001) i članka 59. Statuta Grada Novi Vinodolski (»Službene novine Primorsko-goranske županije«, br. 24/2001) Gradsko vijeće Grada Novi Vinodolski na sjednici održanoj dana 22. studenoga 2001. g. donosi
