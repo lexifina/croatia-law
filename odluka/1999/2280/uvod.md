@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 16. Zakona o telekomunikacijama (»Narodne novine«, br. 76/99 i 128/99) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1999. godine donijela
