@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 2. Zakona o cestama pročišćeni tekst ("Narodne novine", br. 56/81, 61/91, 49/92 i 26/93) i članka 22. stavak 1. Statuta poduzeća "Hrvatske ceste" - poduzeće za održavanje, zaštitu, rekonstrukciju i gradnju cesta u Hrvatskoj (pročišćeni tekst), Upravni odbor poduzeća "Hrvatske ceste" na 8. sjednici održanoj 21. svibnja 1993. godine donio je

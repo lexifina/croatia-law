@@ -1,0 +1,2 @@
+# Članak 2.
+Godišnja naknada za ceste što se plaća za cestovna motorna vozila s pogonom na plin (propan, butan i sl.) iznosi 66 bodova. Korisnici vozila koja imaju ugrađen pogon na plin, plaćaju uz godišnju naknadu iz stavka 1. ovog članka, prilikom registracije i produženja registracije vozila i godišnju naknadu prema radnom obujmu motora prema odredbama Odluke o visini godišnje naknade za uporabu cesta što se plaća za cestovna motorna i priključna vozila ("Narodne novine", br. 38/93).
