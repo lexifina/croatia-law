@@ -1,0 +1,2 @@
+# Članak 2.
+Republički zavod za plan, analize i prognoze će prijedloge iz članka 1. stavka 2. ove uredbe po isteku roka iz članka 1. stavka 1. ove uredbe utvrditi ukupan iznos obveza poduzeća prema bankama koji se predlaže podmiriti obveznicima. Ukoliko je taj iznos veći od 24.500,000.000 dinara svaki prijedlog za dodjelu obveznica će se umanjiti proporcionalno da bi se ova dva iznosa izjednačila.
