@@ -1,0 +1,4 @@
+# Članak 98.
+(1) Zaštita potrošača provodi se u javnom interesu, a provođenje ove zaštite osigurava Republika Hrvatska.
+(2) Tijela koja dodjeljuju koncesije za obavljanje javnih usluga: opskrbe energijom, gradskog i prigradskog prijevoza, komunalnih i javnih govornih telekomunikacijskih usluga, dužna su osigurati da koncesionar pruža usluge na socijalno prihvatljiv način vodeći računa da osobe sa slabijim prihodima ili s posebnim socijalnim potrebama mogu koristiti javnu uslugu.
+(3) Nadležna tijela državne uprave i lokalne i područne (regionalne) samouprave dužna su stvarati uvjete za tržišno natjecanje na području javnih usluga. U uvjetima monopolskog obavljanja ovih usluga nadležna tijela su dužna osigurati da se javne usluge obavljaju na socijalno prihvatljiv način, vodeći računa da osobe sa slabijim prihodima ili s posebnim socijalnim potrebama mogu koristiti javnu uslugu.
