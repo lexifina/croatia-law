@@ -1,0 +1,1 @@
+Na temelju članka 403. Zakona o upravi ("Narodne novine", broj 16/78, 50/78, 29/85, 48/85, 17/86, 41/90, 47/90, 53/91 i 53A/91), Vlada Republike Hrvatske je na sjednici održanoj 29. srpnja 1993. donijela
