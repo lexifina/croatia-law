@@ -1,0 +1,1 @@
+Na temelju članka 68. Zakona o bankama (»Narodne novine«, br. 161/98), članka 74. stavak 1. točka 7. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« br. 35/95 - pročišćeni tekst) i Odluke o obvezi dostavljanja izvješća »Neto potraživanja banke od središnje države« (»Narodne novine«, br. 11/2001), guverner Hrvatske narodne banke donosi sljedeću
