@@ -1,0 +1,10 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 75.
+(1) Državni službenici i namještenici zatečeni na poslovima i u svezi s poslovima iz članka 12. ovoga Zakona u županijskim uredima i uredima Grada Zagreba preuzimaju se danom stupanja na snagu ovoga Zakona u Državni inspektorat i nastavljaju obavljati poslove prema odredbama ovoga Zakona i drugih propisa.
+(2) Vlada Republike Hrvatske donijet će Uredbu o unutarnjem ustrojstvu Državnog inspektorata u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+(3) Glavni inspektor donijet će Pravilnik o unutarnjem redu Državnog inspektorata u roku 30 dana od dana stupanja na snagu Uredbe iz stavka 2. ovoga članka.
+(4) Rješenja o postavljenju u zvanja i imenovanju na položaj preuzetih državnih službenika te rješenja o raspoređivanju na radna mjesta preuzetih namještenika iz stavka 1. ovoga članka glavni će inspektor donijeti u roku od 30 dana od dana donošenja Pravilnika iz stavka 3. ovoga članka.
+(5) Do donošenja rješenja iz stavka 4. ovoga članka preuzeti državni službenici zadržavaju zvanja i položaje, a preuzeti namještenici zadržavaju radna mjesta na kojima su zatečeni na dan stupanja na snagu ovoga Zakona.
+(6) Inspektori zatečeni u obavljanju poslova tržišne, turističke, stočarske, vinarske, ribarske, šumarske ili lovne inspekcije postavljaju se u zvanja višeg gospodarskog inspektora, gospodarskog inspektora ili gospodarskog inspektora treće vrste zvanja, ovisno o ispunjavanju uvjeta propisanih odredbama članka 12. ovoga Zakona.
+(7) U zvanje višeg gospodarskog inspektora ne može se postaviti državni službenik koji ima višu stručnu spremu, a koji je sukladno propisima o državnim službenicima i posebnim propisima o pojedinom upravnom području ili pojedinoj inspekciji stekao zvanje inspektora (I. vrste zvanja).
+(8) Na radnopravni položaj preuzetih državnih službenika i namještenika koji nakon donošenja Pravilnika iz stavka 3. ovoga članka ne budu postavljeni u zvanja odnosno raspoređeni na radna mjesta, primjenjuju se propisi koji se odnose na državne službenike i namještenike u slučaju ukidanja tijela državne uprave.

@@ -1,0 +1,3 @@
+# Članak 73.
+(1) Za prekršaj iz članka 68. koji se odnosi na članak 59. stavak 1. i 2., članak 61. , članak 62. stavak 2. i.3. i članka 72. ovoga Zakona počinjen drugi put uz novčanu kaznu izreći će se i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od jednog do tri mjeseca, a za prekršaj počinjen treći put uz novčanu kaznu izreći će se i zaštitna mjera zabrane obavljanja djelatnosti od tri do šest mjeseci.
+(2) Smatra se da je prekršaj iz stavka 1. ovoga članka počinjen drugi put, odnosno treći put, ako je počinjen u roku od tri godine od pravomoćnosti posljednjeg rješenja o prekršaju.

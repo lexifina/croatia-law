@@ -1,0 +1,2 @@
+# Članak 40.
+Ako je u postupku inspekcijskog nadzora potrebno utvrditi odgovaraju li proizvodi u proizvodnji ili prometu propisanom ili deklariranom sastavu odnosno propisanoj i deklariranoj kakvoći (u daljnjem tekstu: kakvoća), inspektor može uzimati uzorke u proizvodnji i prometu i dati ih zapečaćene i propisno označene na ispitivanje stručnoj instituciji ovlaštenoj za ispitivanje kakvoće proizvoda (u daljnjem tekstu: stručna institucija).

@@ -1,0 +1,5 @@
+# Članak 34.
+(1) Pravne i fizičke osobe koje podliježu nadzoru inspektora dužne su mu omogućiti obavljanje nadzora sukladno odredbi članka 31. stavka 1., 3. i 4. ovoga Zakona i osigurati mu uvjete za neometan rad.
+(2) Smatra se da nadzirana pravna ili fizička osoba nije omogućila obavljanje nadzora iz stavka 1. ovoga članka i u slučaju ako u roku određenom u zapisniku inspektoru ne osigura uvid u proizvode, traženu poslovnu dokumentaciju i druge isprave potrebne za utvrđivanje činjeničnog stanja u započetu nadzoru.
+(3) Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su na traženje inspektora privremeno obustaviti poslovanje nadziranog objekta za vrijeme inspekcijskog nadzora ako inspektor ne bi mogao na drugi način obaviti inspekcijski nadzor ili utvrditi činjenično stanje.
+(4) Inspektor može od nadzirane pravne i fizičke osobe nakon obavljenog inspekcijskog nadzora tražiti izvršenje pojedine radnje u postupku radi potpunog utvrđivanja činjeničnog stanja i odrediti rok izvršenja te radnje.

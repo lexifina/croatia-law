@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Ako inspektor utvrdi da je povredom propisa učinjen prekršaj, privredni prijestup ili kazneno djelo, uz rješenje za čije je donošenje ovlašten, odnosno uz zapisnik ako ne postoji ovlaštenje za donošenje rješenja, dužan je bez odgađanja, a najkasnije u roku od 15 dana od dana završetka nadzora s utvrđenim činjenicama odlučnim za poduzimanje mjera, podnijeti zahtjev za pokretanje prekršajnog postupka, odnosno prijavu za pokretanje postupka zbog privrednog prijestupa, odnosno kaznenog djela.
+(2) Sudbeno tijelo kojemu je podnesen zahtjev, odnosno prijava u smislu stavka 1. ovoga članka, dužno je o ishodu postupka obavijestiti podnositelja zahtjeva, odnosno prijave.

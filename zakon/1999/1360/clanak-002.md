@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Državni inspektorat obavlja inspekcijske poslove koji se odnose na nadzor obavljanja poslova i provedbu propisa o: prometu robom, radu i zaštiti na radu, elektroenergetici, rudarstvu, posudama pod tlakom, stočarstvu i vinarstvu, slatkovodnom i morskom ribarstvu, šumarstvu i lovstvu, šumskom sjemenu i šumarskom sadnom materijalu, obračunu, naplati i uplati boravišne pristojbe i o ugostiteljskoj i turističkoj djelatnosti.
+(2) Državni inspektorat obavlja inspekcijske poslove i u drugim upravnim područjima kad je to određeno posebnim zakonom.
+(3) Glavni inspektor i ministar obrane, odnosno glavni inspektor i ministar unutarnjih poslova zajedno propisuju koje će poslove nadzora iz stavka 1. ovoga članka obavljati Državni inspektorat za potrebe Ministarstva obrane, odnosno Ministarstva unutarnjih poslova.

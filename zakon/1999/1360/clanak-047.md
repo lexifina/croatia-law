@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Protiv rješenja koja na temelju ovoga Zakona ili drugog propisa donosi inspektor u područnoj jedinici, odnosno u ispostavi područne jedinice Državnog inspektorata, može se u roku od osam dana od dana dostave rješenja izjaviti žalba Državnom inspektoratu.
+(2) Ako inspektor u područnoj jedinici, odnosno u ispostavi područne jedinice Državnog inspektorata nađe da je podnijeta žalba dopuštena, pravovremena i izjavljena od ovlaštene osobe, a nije novim rješenjem zamijenio rješenje koje se žalbom pobija, dužan je bez odgode, a najkasnije u roku od pet dana od dana primitka žalbe dostaviti žalbu sa spisima koji se odnose na predmet na rješavanje Državnom inspektoratu.
+(3) Žalba protiv rješenja donijetih na temelju ovoga Zakona odgađa izvršenje rješenja, osim ako ovim Zakonom nije drukčije uređeno.
