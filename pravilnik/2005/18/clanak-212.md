@@ -1,0 +1,3 @@
+## XIX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 212.
+Stupanjem na snagu ovog Pravilnika prestaju važiti odredbe Pravilnika o priznavanju sorti strnih žitarica (»Narodne novine« broj 61/01), Pravilnika o priznavanju hibrida kukuruza (»Narodne novine« broj 61/01), Pravilnika o priznavanju sorti i hibrida uljarica (»Narodne novine« broj 61/01), Pravilnika o priznavanju hibrida šećerne repe (»Narodne novine« broj 61/01), Pravilnika o priznavanju sorti stočne repe (»Narodne novine« broj 61/01), Pravilnika o priznavanju sorti krumpira (»Narodne novine« broj 61/01), Pravilnika o obrascu zahtjeva za priznavanje sorti poljoprivrednog bilja (»Narodne novine« broj 71/01).

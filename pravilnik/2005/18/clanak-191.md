@@ -1,0 +1,2 @@
+# Članak 191.
+Analizom varijance obradit će se prinos zrakosuhe stabljike sa sjemenom, prirod zrakosuhe stabljike nakon močenja, prinos ukupnog vlakna, visina biljke, tehnička duljina, promjer stabljike i udio ukupnog vlakna. Zrakosuha stabljika sadrži vlagu kojom se može čuvati (skladištiti ili kamariti). Zbog visoke higroskopnosti stabljike, ovisno od zasićenosti zraka vlagom, sadržaj vlage u stabljici je promjenjiv.
