@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o Financijskoj agenciji (»Narodne novine«, br. 117/01), članka 14. Zakona o platnom prometu u zemlji (»Narodne novine«, br. 117/01) i članka 98. Zakona o bankama (»Narodne novine, br. 161/98), ministar financija donio je
