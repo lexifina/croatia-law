@@ -1,0 +1,3 @@
+# Članak 3.
+Dopušteni gubici utvrđuju se na temelju iskustva struke do iznosa od:
+________________________________________________________________ Tehnološki proces |  |  |  |  | Stopa |  |  |  |  |  |  | (%) ________________________________________________________________ 1. DORADA MEDA - uklanjanje nečistoća u komori za predgrijavanje | 2,5 - izlijevanje/cijeđenje zagrijanog meda |  | 3,0 - filtriranje meda |  |  |  |  | 3,0 - punjenje u ambalažu |  |  |  |  | 0,5 - ispiranje linije |  |  |  |  | 1,0 2. DORADA DRUGIH PČELINJIH PROIZVODA - pakiranje meda u saću |  |  |  | 15,0 - propolis |  |  |  |  |  | 20,0 - cvjetni prah |  |  |  |  |  | 16,0
