@@ -1,5 +1,4 @@
 # Članak 342.
-(1) Ako optuženik u tijeku glavne rasprave u zasjedanju počini kazneno djelo ili ako se u tijeku glavne rasprave otkrije koje prije počinjeno optuženikovo kazneno djelo, vijeće će u pravilu prema optužbi ovlaštenog tužitelja, koja može biti i usmeno iznesena, proširiti glavnu raspravu i na to djelo. Protiv te optužbe nije dopušten prigovor.
-(2) Radi pripremanja obrane sud može u takvu slučaju odgoditi glavnu raspravu, a može nakon ispitivanja stranaka odlučiti da se za djelo iz stavka 1. ovoga članka posebice sudi.
-(3) Ako je za suđenje o djelu iz stavka 1. ovoga članka nadležan viši sud, vijeće će nakon ispitivanja tužitelja odlučiti hoće li i predmet o kojem vodi glavnu raspravu ustupiti nadležnomu višem sudu radi suđenja.
-9. Govori stranaka
+(1) Prije ispitivanja vještaka predsjednik vijeća upozorit će ga na dužnost da nalaz i mišljenje dade po najboljem znanju i upozoriti ga da je davanje lažnog nalaza i mišljenja kazneno djelo.
+(2) Vijeće može odlučiti da vještak prije vještačenja dade obećanje da će iskazati istinu. Obećanje se daje na način koji odgovara načinu obećanja svjedoka da će iskazati istinu (članak 256.). Stalno prisegnuti postavljeni vještak samo će se upozoriti na položenu prisegu.
+(3) Vještak izlaže usmeno na glavnoj raspravi svoj nalaz i mišljenje. Ako je vještak prije glavne rasprave pripremio pisano svoj nalaz i mišljenje, može mu se dopustiti da ga pročita, u kojem će se slučaju njegov pisani sastav priložiti zapisniku.

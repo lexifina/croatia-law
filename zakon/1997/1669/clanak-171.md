@@ -1,3 +1,3 @@
 # Članak 171.
-(1) Sva tijela državne vlasti i sve pravne osobe dužne su prijaviti kaznena djela za koja se progoni po službenoj dužnosti, koja su im dojavljena ili za koja su sami saznali.
-(2) Podnoseći prijavu, tijela državne vlasti i pravne osobe navest će dokaze koji su im poznati i poduzeti sve da bi se sačuvali tragovi kaznenog djela, predmeti na kojima je ili kojima je počinjeno djelo te drugi dokazi.
+(1) Kaznenu evidenciju ustrojava i vodi ministarstvo nadležno za poslove pravosuđa na način koji sudovima i državnim odvjetništvima osigurava u realnom vremenu neposredan pristup tim podacima.
+(2) Propise o evidenciji izrečenih odgojnih mjera donosi ministar za rad i socijalnu skrb.

@@ -1,4 +1,3 @@
 # Članak 195.
-(1) Istraga se vodi samo u svezi s onim kaznenim djelom i protiv onog okrivljenika na koje se odnosi rješenje o provođenju istrage.
-(2) Ako se u tijeku istrage pokaže da postupak treba proširiti na drugo kazneno djelo ili protiv druge osobe, istražni će sudac o tome izvijestiti državnog odvjetnika. U takvu slučaju mogu se poduzeti istražne radnje koje ne trpe odgodu, ali o svemu što je poduzeto mora se izvijestiti državni odvjetnik.
-(3) U svezi s proširenjem istrage vrijede odredbe članka 188. i 189. ovoga Zakona.
+Redarstvene vlasti mogu osobne podatke građana, pohranjene u bazama i drugim registrima sravnjivati s redarstvenim evidencijama, registrima i bazama s automatskom obradom podataka ako postoje osnove sumnje da je počinjeno kazneno djelo, navedeno u članku 192. ovoga Zakona. Tako prikupljene obavijesti će se, uz izvješće o tome državnom odvjetniku, izbrisati iz navedenih evidencija čim prestanu biti potrebne za uspješno vođenje kaznenog postupka, ali najkasnije u roku od šest mjeseci od dana njihove pohrane. Taj rok može istražni sudac na prijedlog državnog odvjetnika iznimno produljiti za tri mjeseca ako je vjerojatno da će se na taj način uspješno okončati raspisana potraga za određenom osobom ili predmetima.
+5. Hitne istražne radnje

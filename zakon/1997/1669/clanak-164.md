@@ -1,8 +1,7 @@
 # Članak 164.
-Kazneni postupak započinje:
-1) donošenjem rješenja o provođenju istrage,
-2) davanjem suglasnosti istražnog suca ovlaštenom tužitelju da može neposredno podignuti optužnicu,
-3) određivanjem glavne rasprave na temelju optužnice podignute prema odredbi članka 191. stavka 6. ovoga Zakona i privatne tužbe podnesene prema odredbi članka 267. stavka 2. ovoga Zakona, ako protiv nje nije bilo prigovora ili zahtjeva predsjednika vijeća prema odredbi članka 282. ovoga Zakona,
-4) pravomoćnošću optužnice podignute po odredbi članka 191. stavka 6. ovoga Zakona ili privatne tužbe podnesene prema odredbi članka 267. stavka 2. ovoga Zakona ako je prigovor protiv nje odbijen ili odbačen i sudsko se vijeće suglasilo s optužnicom ili privatnom tužbom,
-5) određivanjem glavne rasprave na temelju optužnog prijedloga ili privatne tužbe u skraćenom postupku.
-6) izdavanjem kaznenog naloga prema odredbi članka 446. stavka 1. ovoga Zakona.
+(1) Svakomu, u čijemu je to opravdanom interesu, može se dopustiti razgledavanje, prepisivanje i preslikavanje pojedinih kaznenih spisa.
+(2) Kad je postupak u tijeku, razgledavanje, prepisivanje i preslikavanje spisa dopušta tijelo pred kojim se vodi postupak, a kad je postupak završen, razgledavanje, prepisivanje i preslikavanje spisa dopušta predsjednik suda ili službena osoba koju on odredi. Ako se spisi nalaze kod državnog odvjetnika, odobrenje za razgledavanje, prepisivanje i preslikavanje daje državni odvjetnik.
+(3) Sud će državnom odvjetniku, na njegov obrazložen zahtjev, dostaviti kazneni spis radi razgledavanja. Ako je u tijeku rok za izjavu redovitoga pravnog lijeka ili ako to zahtijevaju probitci postupka, sud će odrediti u kojem roku državni odvjetnik treba vratiti spise.
+(4) Privatni tužitelj i oštećenik kao tužitelj imaju pravo razgledati, prepisivati i preslikavati spise. Oštećeniku se može privremeno uskratiti razgledavanje, prepisivanje i preslikavanje spisa u slučaju iz članka 54. stavka 3.ovoga Zakona.
+(5) Okrivljenik ima pravo razgledati, prepisivati i preslikavati spise i predmete koji služe za utvrđivanje činjenica u postupku.
+(6) Ako postoji bojazan iz članka 248. stavka 4. ovoga Zakona istražni sudac će na zahtjev državnog odvjetnika, svjedoka ili po službenoj dužnosti na odgovarajući način (prijepisom zapisnika ili službene zabilješke bez podataka o istovjetnosti osobe, njihovim izdvajanjem u posebni omot i sl.) zaštititi tajnost podataka o osobama čije se izjave ili iskazi nalaze u spisima.

@@ -1,2 +1,4 @@
 # Članak 483.
-Osoba kojoj je dopušteno razgledavanje i prepisivanje spisa koji se odnose na neopravdanu osudu ili na neosnovano oduzimanje slobode ne može upotrijebiti podatke iz tih spisa na način koji bi bio štetan za rehabilitaciju osobe protiv koje je vođen kazneni postupak. Predsjednik suda dužan je na to upozoriti osobu kojoj je dopušteno razgledavanje, i to će se zabilježiti na spisu uz potpis te osobe.
+(1) Imovinska korist postignuta izvršenjem kaznenog djela utvrđuje se u kaznenom postupku po službenoj dužnosti.
+(2) Sud i drugo tijelo pred kojima se vodi kazneni postupak dužni su u tijeku postupka prikupljati dokaze i istraživati okolnositi koje su važne za utvrđivanje imovinske koristi.
+(3) Ako je oštećenik stavio imovinskopravni zahtjev glede povrata stvari pribavljenih kaznenim djelom, odnosno glede svote koja odgovara vrijednosti stvari, imovinska korist utvrđivat će se samo u onom dijelu koji nije obuhvaćen imovinskopravnim zahtjevom.

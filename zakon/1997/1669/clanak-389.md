@@ -1,2 +1,2 @@
 # Članak 389.
-Ako drugostupanjski sud pri razmatranju žalbe ustanovi da je za suđenje u prvom stupnju stvarno nadležan, ukinut će prvostupanjsku presudu, predmet uputiti nadležnom vijeću i o tome izvijestiti prvostupanjski sud.
+Primjerak žalbe dostavit će prvostupanjski sud protivnoj stranci, koja može podnijeti odgovor na žalbu. Žalbu će sa spisom prvostupanjski sud dostaviti drugostupanjskom sudu koji će razmotriti i odgovor na žalbu zaprimljen do sjednice vijeća.

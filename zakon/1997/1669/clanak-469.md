@@ -1,2 +1,2 @@
 # Članak 469.
-Odredbe članka 364. stavka 2. i 3. i članka 372. i 376. ovoga Zakona primjenjivat će se glede žalbe protiv odluke o oduzimanju imovinske koristi.
+Pri donošenju presude povodom prigovora sudac pojedinac izreći će da se kazneni nalog u odnosu na okrivljenika koji je podnio prigovor stavlja izvan snage. Pri tome sudac pojedinac nije vezan na zahtjev državnog odvjetnika iz članka 465. stavka 2. ovoga Zakona, kao niti na zabranu iz članka 398. ovoga Zakona.

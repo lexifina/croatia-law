@@ -1,2 +1,2 @@
 # Članak 166.
-Kad se u tijeku postupka utvrdi da je okrivljenik umro rješenjem će se obustaviti kazneni postupak.
+Kada novčana kazna, izrečena prema odredbama ovoga Zakona nije uplaćena u cijelosti ili djelomično u određenom roku, sud je može zamijeniti zatvorom koji će se odrediti smislenom primjenom odredaba Kaznenog zakona.

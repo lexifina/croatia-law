@@ -1,7 +1,4 @@
 # Članak 424.
-(1) Ako je pravomoćna presuda ukinuta i predmet vraćen na ponovno suđenje, za osnovu će se uzeti prijašnja optužnica ili onaj njezin dio koji se odnosi na ukinuti dio presude.
-(2) Sud je dužan izvesti sve postupovne radnje i raspraviti sva pitanja na koja ga je upozorio Vrhovni sud Republike Hrvatske.
-(3) Pred prvostupanjskim, odnosno drugostupanjskim sudom stranke mogu isticati nove činjenice i podnositi nove dokaze.
-(4) Sud je pri donošenju nove odluke vezan zabranom propisanom u članku 381. ovoga Zakona.
-(5) Ako je pored odluke nižeg suda ukinuta i odluka višeg suda, predmet se dostavlja nižem sudu preko višeg suda.
-4. Zahtjev za izvanredno preispitivanje pravomoćne presude
+(1) Zahtjev za obnovu kaznenog postupka mogu podnijeti stranke i branitelj, a nakon smrti osuđenika državni odvjetnik i osobe navedene u članku 380. stavku 2. ovoga Zakona.
+(2) Zahtjev se može podnijeti i nakon što je osuđenik izdržao kaznu i bez obzira na zastaru, oprost ili pomilovanje.
+(3) Ako sud koji bi bio nadležan za odlučivanje o obnovi postupka sazna da postoji razlog za obnovu kaznenog postupka, obavijestit će o tome osuđenika, odnosno osobu koja je ovlaštena da podnese zahtjev.

@@ -1,4 +1,2 @@
 # Članak 418.
-(1) Protiv pravomoćnih sudskih odluka i protiv sudskog postupka koji je prethodio tim pravomoćnim odlukama državni odvjetnik Republike Hrvatske može podignuti zahtjev za zaštitu zakonitosti ako je povrijeđen zakon.
-(2) Državni odvjetnik Republike Hrvatske podignut će zahtjev za zaštitu zakonitosti protiv sudske odluke donesene u postupku na način koji predstavlja kršenje temeljnih ljudskih prava i sloboda zajamčenih Ustavom, zakonom ili međunarodnim pravom.
-(3) Zahtjev za zaštitu zakonitosti ne može se podignuti protiv odluke s kojom je odlučeno o zahtjevu za zaštitu zakonitosti.
+Kazneni postupak koji je dovršen pravomoćnim rješenjem ili pravomoćnom presudom može se na zahtjev ovlaštene osobe obnoviti samo u slučajevima i uz uvjete propisane u ovom Zakonu.

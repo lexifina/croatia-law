@@ -1,5 +1,6 @@
 # Članak 427.
-Zahtjev za izvanredno preispitivanje pravomoćne presude može se podnijeti:
-1) zbog povrede kaznenog zakona na štetu osuđenika predviđene u članku 368. točki 1. do 4. ovoga Zakona ili zbog povrede iz točke 5. toga članka ako se prekoračenje ovlasti odnosi na odluku o kazni, sigurnosnu mjeru ili oduzimanje imovinske koristi,
-2) zbog povrede odredaba kaznenog postupka predviđenih u članku 367. stavku 1. točki 1., 5., 8., 9. i 10., odnosno u članku 367. stavka 2. ovoga Zakona ili zbog sudjelovanja u odlučivanju u drugom, odnosno trećem stupnju suca ili suca porotnika koji se morao izuzeti (članak 36. stavak 1.), ili zbog toga što je okrivljeniku, protivno njegovu zahtjevu, uskraćeno da na glavnoj raspravi ili na raspravi pred drugostupanjskim sudom upotrebljava svoj jezik (članak 7.),
-3) zbog povrede prava okrivljenika na obranu na glavnoj raspravi ili zbog povrede odredaba kaznenog postupka u žalbenom postupku, ako je ta povreda mogla utjecati na presudu.
+(1) Kad državni odvjetnik vrati spise, sud će, ako ne odredi da se izvidi dopune, na temelju rezultata izvida zahtjev uvažiti i dopustiti obnovu kaznenog postupka ili će zahtjev odbiti ako novi dokazi nisu prikladni da dovedu do obnove kaznenog postupka.
+(2) Ako sud ustanovi da razlozi iz kojih je dopustio obnovu postoje i za kojeg suoptuženika koji nije podnio zahtjev, postupit će po službenoj dužnosti kao da takav zahtjev postoji.
+(3) U rješenju kojim se dopušta obnova kaznenog postupka sud će odlučiti da se odmah odredi nova glavna rasprava ili da se stvar vrati u stanje istrage, odnosno da se provede istraga ako je nije bilo.
+(4) Ako sud smatra, s obzirom na podnesene dokaze, da osuđenik u obnovljenom postupku može biti osuđen na takvu kaznu da bi se uračunavanjem već izdržane kazne imao pustiti na slobodu, ili da može biti oslobođen optužbe, ili da optužba može biti odbijena, odredit će da se izvršenje presude odgodi, odnosno prekine.
+(5) Kad rješenje kojim se dopušta obnova kaznenog potupka postane pravomoćno, obustavit će se izvršenje kazne i sud će, na prijedlog državnog odvjetnika, odrediti pritvor ako postoje uvjeti iz članka 105. ovoga Zakona.

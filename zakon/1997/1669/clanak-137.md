@@ -1,4 +1,3 @@
 # Članak 137.
-(1) Ako je riječ o stvarima koje nedvojbeno pripadaju oštećeniku, a ne služe za utvrđivanje činjenice u kaznenom postupku, te će se stvari predati oštećeniku i prije završetka postupka.
-(2) Ako se više oštećenika spori o vlasništvu stvari, uputit će se na parnicu, a sud će u kaznenom postupku odrediti samo čuvanje stvari kao privremenu mjeru osiguranja.
-(3) Stvari koje služe za utvrđivanje činjenica oduzet će se privremeno i nakon završetka postupka vratiti vlasniku. Ako je takva stvar prijeko potrebna vlasniku, ona mu se može vratiti i prije završetka postupka uz obvezu da je na zahtjev donese.
+(1) Sud pred kojim se vodi postupak ispitat će okrivljenika o činjenicama navedenim u prijedlogu i izvidjeti okolnosti koje su važne za utvrđivanje imovinskopravnog zahtjeva. Ali i prije nego što je stavljen takav prijedlog, sud je dužan prikupiti dokaze i izvidjeti što je potrebno za odlučivanje o zahtjevu.
+(2) Ako bi se izviđanjem o imovinskopravnom zahtjevu znatno odugovlačio kazneni postupak, sud će se ograničiti na prikupljanje onih podataka čije utvrđivanje kasnije ne bi bilo moguće ili bi bilo znatno otežano.

@@ -1,3 +1,2 @@
 # Članak 349.
-(1) Ako sud tijekom vijećanja ne utvrdi da treba ponovno otvoriti glavnu raspravu radi dopune postupka ili razjašnjenja pojedinih pitanja, izreći će presudu.
-(2) Presuda se izriče i javno proglašuje u ime Republike Hrvatske.
+U slučajevima iz članka 344. i 348. ovoga Zakona, a i u drugim slučajevima kad je to potrebno, vijeće može odlučiti da se na glavnoj raspravi, uz čitanje zapisnika, reproducira snimka ispitivanja (članak 79.).

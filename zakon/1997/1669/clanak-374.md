@@ -1,8 +1,5 @@
 # Članak 374.
-(1) O sjednici vijeća izvijestit će se onaj optuženik i njegov branitelj, oštećenik kao tužitelj ili privatni tužitelj koji je u roku predviđenom za žalbu ili za odgovor na žalbu zahtijevao da bude izviješten o sjednici ili je predložio održavanje rasprave pred drugostupanjskim sudom. Predsjednik vijeća ili vijeće može odlučiti da se o sjednici vijeća izvijeste stranke i kad nisu to zahtijevale ili da se o sjednici izvijesti i stranka koja to nije zahtijevala, ako bi njihova nazočnost bila korisna za razjašnjenje stvari.
-(2) Ako je optuženik u pritvoru ili na izdržavanju kazne i ima branitelja, osigurat će se nazočnost optuženika samo ako predsjednik vijeća ili vijeće smatraju da je svrhovito.
-(3) Sjednica vijeća počinje izvješćem suca izvjestitelja o stanju stvari. Vijeće može od stranaka koje su nazočne na sjednici zatražiti potrebna objašnjenja u svezi sa žalbenim navodima. Stranke mogu predložiti da se radi dopune izvješća pročitaju pojedini spisi i mogu, uz dopuštenje predsjednika vijeća, dati potrebna objašnjenja za svoje stavove iz žalbe, odnosno odgovora na žalbu ne ponavljajući ono što je sadržano u izvješću.
-(4) Sjednica se može održati i u odsutnosti stranaka koje su o njoj bile uredno izviještene, ako optuženik nije izvijestio sud o promjeni boravišta ili stana, može se održati sjednica vijeća iako on o sjednici nije bio izviješten.
-(5) Sa sjednice vijeća javnost se može isključiti samo uz uvjete propisane ovim Zakonom (članak 292. do 294.).
-(6) Zapisnik o sjednici vijeća priključuje se spisima prvostupanjskog i drugostupanjskog suda.
-(7) Rješenja iz članka 385. i 386. ovoga Zakona mogu se donijeti i bez obavijesti strankama o sjednici vijeća.
+(1) Nakon objave presude predsjednik vijeća poučit će stranke o pravu na žalbu te o pravu na odgovor na žalbu.
+(2) Ako je optuženiku izrečena uvjetna osuda, upozorit će ga predsjednik na značenje uvjetne osude i na uvjete kojih se mora držati.
+(3) Predsjednik vijeća upozorit će stranke da do pravomoćnog završetka postupka o svakoj promjeni adrese obavijeste sud.
+4. Izrada i dostava pisane presude

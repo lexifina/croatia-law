@@ -1,6 +1,2 @@
 # Članak 264.
-(1) Ako se pojavi sumnja da je isključena ili smanjena ubrojivost okrivljenika zbog trajne ili privremene duševne bolesti, privremene duševne poremećenosti ili zaostaloga duševnog razvoja, odredit će se vještačenje psihijatrijskim pregledom okrivljenika.
-(2) Ako je prema mišljenju vještaka potrebno dulje promatranje, okrivljenik će se poslati na promatranje u odgovarajuću zdravstvenu ustanovu. Rješenje o tome donosi istražni sudac. Promatranje se može produljiti više od dva mjeseca samo na obrazloženi prijedlog ravnatelja zdravstvene ustanove nakon prethodno pribavljenog mišljenja vještaka, ali ne može ni u kojem slučaju trajati dulje od roka za pritvor.
-(3) Ako vještaci ustanove da je duševno stanje okrivljenika poremećeno, odredit će narav, vrstu, stupanj i trajnost poremećenosti i dati svoje mišljenje o tome kakav je utjecaj takvo duševno stanje imalo i kakav još ima na shvaćanje i postupke okrivljenikove te je li i u kojoj mjeri poremećaj duševnog stanja postojao u vrijeme počinjenja kaznenog djela.
-(4) Ako se u zdravstvenu ustanovu upućuje okrivljenik koji se nalazi u pritvoru, istražni sudac obavijestit će tu ustanovu o razlozima zbog kojih je određen pritvor da bi se poduzele mjere potrebne za osiguranje svrhe pritvora.
-(5) Vrijeme provedeno u zdravstvenoj ustanovi uračunat će se okrivljeniku u pritvor, odnosno u kaznu ako bude izrečena.
+Vještačenje se određuje kad za utvrđivanje ili ocjenu neke važne činjenice treba pribaviti nalaz i mišljenje od osobe koja raspolaže potrebnim stručnim znanjem.

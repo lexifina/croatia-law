@@ -1,4 +1,2 @@
 # Članak 132.
-(1) O imovinskopravnim zahtjevima odlučuje sud.
-(2) U presudi kojom okrivljenika proglašava krivim sud može oštećeniku dosuditi imovinskopravni zahtjev u cijelosti ili mu može imovinskopravni zahtjev dosuditi djelomično, a za ostatak uputiti ga na parnicu. Ako podaci kaznenog postupka ne daju pouzdanu osnovu ni za potpuno ni za djelomično presuđenje, sud će oštećenika uputiti da imovinskopravni zahtjev u cijelosti može ostvarivati u parnici.
-(3) Kad sud donese presudu kojom se okrivljenik oslobađa optužbe ili kojom se optužba odbija ili kad rješenjem obustavi kazneni postupak, uputit će oštećenika da imovinskopravni zahtjev može ostvarivati u parnici. Kad se sud proglasi nenadležnim za kazneni postupak, uputit će oštećenika da imovinskopravni zahtjev može prijaviti u kaznenom postupku koji će početi ili nastaviti nadležni sud.
+Potanje propise o naknadi troškova u kaznenom postupku donosi ministar nadležan za poslove pravosuđa.

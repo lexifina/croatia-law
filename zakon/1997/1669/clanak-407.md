@@ -1,4 +1,3 @@
 # Članak 407.
-(1) Zahtjev za obnovu kaznenog postupka mogu podnijeti stranke i branitelj, a nakon smrti osuđenika državni odvjetnik i osobe navedene u članku 363. stavku 2. ovoga Zakona.
-(2) Zahtjev se može podnijeti i nakon što je osuđenik izdržao kaznu i bez obzira na zastaru, oprost ili pomilovanje.
-(3) Ako sud koji bi bio nadležan za odlučivanje o obnovi postupka sazna da postoji razlog za obnovu kaznenog postupka, obavijestit će o tome osuđenika, odnosno osobu koja je ovlaštena da podnese zahtjev.
+(1) Drugostupanjski će sud, prihvaćajući žalbu ili po službenoj dužnosti, presudom preinačiti prvostupanjsku presudu ako utvrdi da su odlučne činjenice u prvostupanjskoj presudi pravilno utvrđene i da se s obzirom na utvrđeno činjenično stanje po pravilnoj primjeni zakona ima donijeti drukčija presuda, a prema stanju stvari i u slučaju povreda iz članka 384. stavka 1. točke 5., 9. i 10. ovoga Zakona.
+(2) Ako su se zbog preinake prvostupanjske presude stekli uvjeti da se odredi, odnosno ukine pritvor na temelju članka 105. stavka 4. i članka 108. stavak 4. ovoga Zakona, drugostupanjski će sud o tome donijeti posebno rješenje, protiv kojeg nije dopuštena žalba.

@@ -1,3 +1,3 @@
 # Članak 352.
-(1) Presudom se optužba odbija ili se optuženik oslobađa optužbe ili se proglašava krivim.
-(2) Ako optužba obuhvaća više kaznenih djela, u presudi će se izreći da li se i za koje djelo optužba odbija ili se optuženik oslobađa optužbe ili se proglašava krivim.
+(1) Kad optuženik pri ispitivanju na glavnoj raspravi odstupi od svojega prijašnjeg iskaza, predsjednik vijeća upozorit će ga na odstupanje i upitati ga zašto sada iskazuje drukčije, a po potrebi pročitat će se njegov prijašnji iskaz ili dio tog iskaza.
+(2) Kad optuženik prije ispitivanja na glavnoj raspravi ne želi iskazivati ili odgovarati na pojedino pitanje, pročitat će se njegovi prijašnji iskazi ili njihov dio.

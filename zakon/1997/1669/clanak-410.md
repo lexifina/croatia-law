@@ -1,6 +1,7 @@
 # Članak 410.
-(1) Kad državni odvjetnik vrati spise, sud će, ako ne odredi da se izvidi dopune, na temelju rezultata izvida zahtjev uvažiti i dopustiti obnovu kaznenog postupka ili će zahtjev odbiti ako novi dokazi nisu prikladni da dovedu do obnove kaznenog postupka.
-(2) Ako sud ustanovi da razlozi iz kojih je dopustio obnovu postoje i za kojeg suoptuženika koji nije podnio zahtjev, postupit će po službenoj dužnositi kao da takav zahtjev postoji.
-(3) U rješenju kojim se dopušta obnova kaznenog postupka sud će odlučiti da se odmah odredi nova glavna rasprava ili da se stvar vrati u stanje istrage, odnosno da se provede istraga ako je nije bilo.
-(4) Ako sud smatra, s obzirom na podnesene dokaze, da osuđenik u obnovljenom postupku može biti osuđen na takvu kaznu da bi se uračunavanjem već izdržane kazne imao pustiti na slobodu, ili da može biti oslobođen optužbe, ili da optužba može biti odbijena, odredit će da se izvršenje presude odgodi, odnosno prekine.
-(5) Kad rješenje kojim se dopušta obnova kaznenog potupka postane pravomoćno, obustavit će se izvršenje kazne i sud će, na prijedlog državnog odvjetnika, odrediti pritvor ako postoje uvjeti iz članka 102. ovoga Zakona.
+(1) Prvostupanjski sud kojem je predmet upućen na suđenje uzet će za osnovu prijašnju optužnicu. Ako je prvostupanjska presuda djelomično ukinuta, taj će sud za osnovu uzeti samo onaj dio optužbe koji se odnosi na ukinuti dio presude.
+(2) Na novoj glavnoj raspravi stranke mogu isticati nove činjenice i iznositi nove dokaze.
+(3) Prvostupanjski sud dužan je izvesti sve postupovne radnje i raspraviti sva sporna pitanja na koja je upozorio drugostupanjski sud u svojoj odluci.
+(4) Pri izricanju nove presude prvostupanjski sud vezan je zabranom iz članka 398. ovoga Zakona.
+(5) Ako je optuženik u pritvoru, vijeće prvostupanjskog suda postupit će prema odredbi članka 111. stavka 2. ovoga Zakona.
+2. Žalba protiv drugostupanjske presude

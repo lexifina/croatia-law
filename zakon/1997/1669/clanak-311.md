@@ -1,4 +1,4 @@
 # Članak 311.
-(1) Izvan slučajeva posebice propisanih u ovom Zakonu predsjednik vijeća može prekinuti glavnu raspravu radi odmora, ili zbog proteka radnog vremena, ili radi toga da se u kratkom vremenu pribave određeni dokazi, ili radi pripremanja optužbe ili obrane.
-(2) Prekinuta rasprava nastavlja se uvijek pred istim vijećem.
-(3) Ako se glavna rasprava ne može nastaviti pred istim vijećem ili ako je prekid glavne rasprave trajao dulje od osam dana, postupit će se prema odredbama članka 309. ovoga Zakona.
+(1) Isključenje javnosti ne odnosi se na stranke, oštećenika, njihove zastupnike i branitelja.
+(2) Vijeće može dopustiti da na glavnoj raspravi iz koje je javnost isključena budu nazočne pojedine službene osobe, znanstveni i javni radnici, a na zahtjev optuženika može to dopustiti i njegovu bračnom, odnosno izvanbračnom drugu i njegovim bliskim srodnicima.
+(3) Predsjednik vijeća upozorit će osobe koje budu na glavnoj raspravi iz koje je javnost isključena da su dužne kao tajnu čuvati sve ono što su na raspravi saznale i da je odavanje tajne kazneno djelo.

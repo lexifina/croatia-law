@@ -1,5 +1,8 @@
 # Članak 370.
-(1) Presuda, odnosno rješenje o sudskoj opomeni može se pobijati zbog odluke o kazni i uvjetnoj osudi kad tom odlukom nije prekoračena zakonska ovlast (članak 368. točka 5.), ali sud nije pravilno odmjerio kaznu s obzirom na okolnosti koje utječu na to da kazna bude veća ili manja, i zbog toga što je sud primijenio ili nije primijenio odredbe o ublažavanju kazne, o oslobađanju od kazne, o uvjetnoj osudi iako su za to postojali zakonski uvjeti.
-(2) Odluka o sigurnosnoj mjeri ili o oduzimanju imovinske koristi može se pobijati ako ne postoji povreda zakona iz članka 368. točke 5. ovoga Zakona, ali je sud nepravilno donio tu odluku ili nije izrekao sigurnosnu mjeru, odnosno oduzimanje imovinske koristi iako su za to postojali zakonski uvjeti. Zbog istih razloga može se pobijati odluka o troškovima kaznenog postupka.
-(3) Odluka o imovinskopravnom zahtjevu te odluka o objavi presude u sredstvima javnog priopćavanja može se pobijati kad je sud o tim pitanjima donio odluku suprotno zakonskim propisima.
-d) Postupak o žalbi
+Presudu kojom se optužba odbija sud će izreći:
+1) ako za suđenje nije stvarno nadležan,
+2) ako je postupak vođen bez zahtjeva ovlaštenog tužitelja,
+3) ako je tužitelj tijekom glavne rasprave odustao od optužbe,
+4) ako nije bilo potrebnog prijedloga za progon ili odobrenja za progon ili ako je ovlaštena osoba, odnosno državno tijelo odustalo od prijedloga, odnosno odobrenja,
+5) ako je optuženik za isto djelo već pravomoćno osuđen, oslobođen optužbe ili je postupak protiv njega rješenjem pravomoćno obustavljen, a ne radi se o rješenju o obustavi postupka iz članka 420. ovoga Zakona,
+6) ako je optuženik oprostom, odnosno pomilovanjem oslobođen kaznenog progona ili se kazneni progon ne može poduzeti zbog zastare, ili ako postoje druge okolnosti koje isključuju kazneni progon.

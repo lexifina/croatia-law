@@ -1,2 +1,2 @@
 # Članak 397.
-Ako u ovom Zakonu nije drukčije propisano, podnošenjem žalbe protiv rješenja odgađa se izvršenje rješenja protiv kojeg je podnesena žalba.
+Na povredu iz članka 384. stavka 1. točke 2. ovoga Zakona žalitelj se može pozvati u žalbi samo ako tu povredu nije mogao iznijeti u tijeku glavne rasprave, ili je iznio, ali ju prvostupanjski sud nije uzeo u obzir.

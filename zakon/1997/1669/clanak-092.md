@@ -1,4 +1,5 @@
 # Članak 92.
-(1) Jamčevina uvijek glasi na svotu novca koja se određuje s obzirom na težinu kaznenog djela, osobne i obiteljske prilike okrivljenika, te imovno stanje okrivljenika i osobe koja daje jamstvo.
-(2) Jamčevina se sastoji u polaganju gotovog novca, vrijednosnih papira, dragocjenosti ili drugih pokretnina veće vrijednosti koje se lako mogu unovčiti i čuvati ili u stavljanju hipoteke za iznos jamstva na nekretnine osobe koja daje jamstvo ili u osobnoj obvezi jedne ili više osoba da će u slučaju bijega okrivljenika platiti utvrđeni iznos jamstva.
-(3) Ako okrivljenik pobjegne, rješenjem će se, sukladno propisima, odrediti kome će pripasti vrijednost dana kao jamčevina.
+(1) Rješenje kojim nalaže mjeru opreza sud dostavlja i tijelu koje izvršava mjeru opreza.
+(2) Mjeru opreza zabrane napuštanja boravišta, zabrane posjećivanja određenog mjesta ili područja, zabrane približavanja određenoj osobi i zabrane uspostavljanja ili održavanja veze s određenom osobom, privremenog oduzimanja putne i druge isprave za prijelaz državne granice, te privremenog oduzimanja dozvole za upravljanje motornim vozilom, izvršava redarstvena vlast.
+(3) Mjeru opreza obveze okrivljenika da se povremeno javlja određenoj osobi ili državnom tijelu izvršava redarstvena vlast ili drugo državno tijelo kojemu se okrivljenik mora javljati.
+(4) Mjeru opreza zabrane poduzimanja poslovnih aktivnosti izvršava tijelo nadležno za nadzor nad poslovnom aktivnosti i redarstvena vlast.

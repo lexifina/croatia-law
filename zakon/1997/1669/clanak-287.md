@@ -1,5 +1,3 @@
 # Članak 287.
-(1) Stranke i oštećenik mogu i nakon zakazivanja glavne rasprave zahtijevati da se na glavnu raspravu pozovu novi svjedoci ili vještaci ili pribave drugi novi dokazi. U svome obrazloženom zahtjevu stranke moraju naznačiti koje bi se činjenice imale dokazati i kojim od predloženih dokaza.
-(2) Ako predsjednik vijeća odbije prijedlog za pribavljanje novih dokaza, taj se prijedlog može ponoviti u tijeku glavne rasprave.
-(3) Predsjednik vijeća može i bez prijedloga stranaka narediti pribavljanje novih dokaza za glavnu raspravu.
-(4) O odluci kojom se nalaže pribavljanje novih dokaza izvijestit će se stranke prije početka glavne rasprave.
+(1) Ako je podnesena privatna tužba za kazneno djelo za koje nije vođena istraga, osim ako se privatna tužba podnosi za kazneno djelo za koje se provodi skraćeni postupak, predsjednik prvostupanjskog vijeća će, ako smatra da nema mjesta progonu zbog postojanja okolnosti iz članka 292. točke 1. do 3. ovoga Zakona zatražiti odluku vijeća općinskog suda (članak 18. stavak 4.), odnosno vijeća županijskog suda (članak 20 stavak 2.).
+(2) Protiv rješenja vijeća privatni tužitelj ima pravo žalbe.

@@ -1,3 +1,5 @@
+## D. Posebne odredbe za postupak pred općinskim sudom
+## Glava XXVI.
+## SKRAĆENI POSTUPAK
 # Članak 447.
-(1) Sudac pojedinac odbacit će zahtjev za izdavanjem kaznenog naloga u slučajevima iz članka 437. ovoga Zakona ako se radi o kaznenom djelu za koje se takav zahtjev ne može postaviti ili ako je državni odvjetnik zatražio izricanje kazne ili mjere koje po zakonu nije dopušteno. O žalbi državnog odvjetnika protiv rješenja o odbačaju odlučuje sudsko vijeće (članak 18. stavak 3.) u roku od četrdeset osam sati.
-(2) Ako sudac pojedinac smatra da podaci u optužnom prijedlogu ne pružaju dovoljno osnova za izdavanje kaznenog naloga ili da se prema tim podacima može očekivati izricanje neke druge kazne ili mjere, a ne one koju je zatražio državni odvjetnik, po primitku optužnog prijedloga u sudu zakazat će glavnu raspravu i na nju pozvati osobe prema odredbama članka 438. ovoga Zakona. Okrivljeniku će se u tom slučaju uz poziv dostaviti samo prijepis optužnog prijedloga, bez zahtjeva državnog odvjetnika za izdavanje kaznenog naloga.
+U postupku pred općinskim sudom za kaznena djela za koja je kao glavna kazna propisana novčana kazna ili zatvor do pet godina primjenjivat će se odredbe članka 448. do 464. ovoga Zakona, a ako u tim odredbama nije što posebno propisano, primjenjivat će se ostale odredbe ovoga Zakona.

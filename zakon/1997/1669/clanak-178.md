@@ -1,2 +1,2 @@
 # Članak 178.
-Redarstvene vlasti imaju pravo osobe zatečene na mjestu počinjenja kaznenog djela uputiti istražnom sucu ili ih zadržati do njegova dolaska, ako bi te osobe mogle dati podatke važne za kazneni postupak i ako je vjerojatno da se njihovo ispitivanje kasnije ne bi moglo obaviti ili bi bilo skopčano sa znatnim odugovlačenjem ili drugim teškoćama. Zadržavanje tih osoba na mjestu počinjenja kaznenog djela ne može trajati dulje od šest sati.
+Sva državna tijela dužna su sudovima i drugim tijelima koja sudjeluju u kaznenom postupku pružiti potrebnu pomoć.

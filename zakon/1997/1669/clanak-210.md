@@ -1,6 +1,3 @@
 # Članak 210.
-(1) Stranke i oštećenik mogu se uvijek obratiti pritužbom predsjedniku suda pred kojim se vodi postupak zbog odugovlačenja postupka i drugih nepravilnosti u tijeku istrage.
-(2) Predsjednik suda ispitat će navode u pritužbi, a ako je podnositelj zahtijevao, obavijestit će ga o tome što je poduzeo u tijeku istrage.
-Glava XVIII.
-ISTRAŽNE RADNJE
-1. Pretraga stana i osoba
+(1) Stranke i oštećenik mogu u tijeku istrage stavljati istražnom sucu prijedloge da se obave pojedine istražne radnje. Ako se istražni sudac ne složi s prijedlogom državnog odvjetnika da se obavi pojedina istražna radnja, zatražit će da o tome odluči vijeće iz članka 20. stavka 2. ovoga Zakona.
+(2) Stranke i oštećenik mogu prijedloge iz stavka 1. ovoga članka stavljati i istražnom sucu ili redarstvenoj vlasti kojima je povjereno obavljanje pojedinih istražnih radnji. Ako se istražni sudac, odnosno redarstvene vlasti ne slože s prijedlogom, obavijestit će o tome predlagatelja koji prijedlog može ponovno staviti istražnom sucu nadležnog suda.

@@ -1,2 +1,3 @@
 # Članak 279.
-Ako su od više okrivljenika samo neki podnijeli prigovor protiv optužnice, a razlozi iz kojih je sud našao da nema mjesta optužbi koriste i nekim od okrivljenika koji nisu podnijeli prigovor, vijeće će postupiti kao da su i oni podnijeli prigovor.
+(1) Ako postoji sumnja o trovanju, uputit će se sumnjive tvari koje su nađene u tijelu ili na drugom mjestu, na vještačenje ustanovi koja obavlja toksikološka ispitivanja.
+(2) Pri pregledu sumnjivih tvari vještak će posebno utvrditi vrstu, količinu i djelovanje nađenog otrova, a ako je riječ o pregledu tvari uzetih iz tijela, po mogućnosti i količinu upotrijebljenog otrova.

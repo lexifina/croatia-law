@@ -1,3 +1,5 @@
 # Članak 371.
-(1) Žalba se podnosi sudu koji je izrekao prvostupanjsku presudu u dovoljnom broju primjeraka za sud te za protivnu stranku i branitelja radi davanja odgovora.
-(2) Nepravodobnu (članak 385.) i nedopuštenu (članak 386.) žalbu odbacit će rješenjem predsjednik vijeća prvostupanjskog suda.
+Presudu kojom se optuženik oslobađa od optužbe sud će izreći:
+1) ako djelo za koje se optužuje po zakonu nije kazneno djelo,
+2) ako ima okolnosti koje isključuju krivnju,
+3) ako nije dokazano da je optuženik počinio djelo za koje se optužuje.

@@ -1,5 +1,8 @@
 # Članak 411.
-(1) Za novi postupak koji se vodi na temelju rješenja kojim je dopuštena obnova kaznenog postupka važe iste odredbe kao i za prvi postupak. U novom postupku sud nije vezan za rješenja donesena u prijašenjem postupku.
-(2) Ako se novi postupak obustavi do početka glavne rasprave, sud će rješenjem o obustavi postupka ukinuti i prijašnju presudu.
-(3) Kad sud u novom postupku donese presudu, izreći će da se prijašnja presuda djelomično ili u cijelosti stavlja izvan snage ili da se ostavlja na snazi. U kaznu koju odredi novom presudom sud će optuženiku uračunati izdržanu kaznu, a ako je obnova određena samo za neko od djela za koja je osuđenik bio osuđen, sud će izreći novu jedinstvenu kaznu prema odredbama Kaznenog zakona.
-(4) Sud je u novom postupku uvijek vezan zabranom propisanom u članku 381. ovoga Zakona.
+(1) Protiv drugostupanjske presude dopuštena je žalba trećestupanjskom sudu samo:
+1) ako je drugostupanjski sud izrekao kaznu dugotrajnog zatvora ili je potvrdio prvostupanjsku presudu kojom je izrečena takva kazna,
+2) ako je drugostupanjski sud na temelju održane rasprave utvrdio činjenično stanje drukčije nego prvostupanjski sud i na tako utvrđenom činjeničnom stanju utemeljio svoju presudu,
+3) ako je drugostupanjski sud preinačio prvostupanjsku presudu kojom je optuženik oslobođen optužbe i izrekao presudu kojom se optuženik proglašava krivim.
+(2) O žalbi protiv drugostupanjske presude rješava trećestupanjski sud u sjednici vijeća prema odredbama koje važe za drugostupanjski postupak. Pred tim sudom ne može se održati rasprava.
+(3) Odredbe članka 400. ovoga Zakona primijenit će se i na suoptuženika koji nije imao pravo podnijeti žalbu protiv drugostupanjske presude.
+3. Žalba protiv rješenja

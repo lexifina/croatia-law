@@ -1,2 +1,4 @@
 # Članak 157.
-Kada novčana kazna, izrečena prema odredbama ovoga Zakona nije uplaćena u cijelosti ili djelomično u određenom roku, sud je može zamijeniti zatvorom koji će se odrediti smislenom primjenom odredaba Kaznenog zakona.
+(1) Poziv za glavnu raspravu i drugi pozivi dostavljaju se privatnom tužitelju i oštećeniku kao tužitelju, odnosno njihovu zakonskom zastupniku osobno (članak 154.), a njihovim opunomoćenicima prema članku 155. ovoga Zakona. Na isti način dostavljaju im se i odluke za koje od dana dostave teče žalbeni rok te žalba protivne stranke koja se dostavlja radi odgovora.
+(2) Ako se osobama iz stavka 1. ovoga članka ili oštećeniku poziv, odluka ili žalba ne može dostaviti na dosadašnju adresu, sud će poziv, odnosno odluku ili žalbu istaknuti na oglasnu ploču suda, i protekom roka od osam dana od dana isticanja smatra se da je dostava postala pravovaljanom.
+(3) Ako oštećenik, oštećenik kao tužitelj ili privatni tužitelj ima zakonskog zastupnika ili opunomoćenika, dostava će se obaviti njemu, a ako ih ima više, samo jednom od njih.

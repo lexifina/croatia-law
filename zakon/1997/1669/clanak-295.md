@@ -1,4 +1,3 @@
 # Članak 295.
-(1) Odluku o isključenju javnosti donosi vijeće rješenjem, koje mora biti obrazloženo i javno objavljeno.
-(2) Žalba na rješenje iz stavka 1. ovoga članka ne zadržava izvršenje.
-2. Upravljanje glavnom raspravom
+(1) Ako ne donese ni jedno rješenje iz članka 291., 292. i 293. ovoga Zakona, vijeće će odbiti prigovor kao neosnovan.
+(2) U istom rješenju vijeće će odlučiti i o prijedlozima za spajanje ili razdvajanje postupka.

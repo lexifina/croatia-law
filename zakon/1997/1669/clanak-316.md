@@ -1,4 +1,5 @@
 # Članak 316.
-(1) U zapisnik o glavnoj raspravi unosi se potpuna izreka presude (članak 359. stavak 3. do 5.), uz naznaku je li presuda javno objavljena. Izreka presude sadržana u zapisniku o glavnoj raspravi predstavlja izvornik.
-(2) Ako je doneseno rješenje o pritvoru (članak 102. stavak 4.), mora se i ono unijeti u zapisnik o glavnoj raspravi.
-6. Početak glavne rasprave i optuženikova izjava o osnovanosti optužbe
+(1) Dužnost je predsjednika vijeća brinuti se o održavanju reda u sudnici i dostojanstvu suda. On može odmah nakon otvaranja zasjedanja upozoriti osobe koje budu na glavnoj raspravi da se pristojno ponašaju i ne ometaju rad suda. Predsjednik vijeća može odrediti pretragu osoba koje budu na glavnoj raspravi.
+(2) Vijeće može naložiti da se iz zasjedanja uklone sve osobe koje kao slušatelji budu nazočni na glavnoj raspravi ako se mjerama za održavanje reda propisanim u ovom Zakonu ne bi moglo osigurati neometano održavanje glavne rasprave.
+(3) U sudnici se ne smiju obavljati fotografska, filmska, televizijska i druga snimanja tehničkim uređajima. Iznimno, predsjednik županijskog suda može dopustiti fotografsko, a predsjednik Vrhovnog suda Republike Hrvatske, televizijsko i drugo snimanje na pojedinoj glavnoj raspravi. Ako je snimanje dopušteno, vijeće na glavnoj raspravi može iz opravdanih razloga odlučiti da se pojedini dijelovi glavne rasprave ne snimaju.
+(4) Stranke i branitelj smiju tonski snimati tijek glavne rasprave s koje nije isključena javnost. Osobni podaci o okrivljeniku, oštećeniku ili svjedocima koji su tako snimljeni predstavljaju tajnu i smiju se koristiti samo za potrebe kaznenog postupka.

@@ -1,3 +1,4 @@
 # Članak 312.
-Ako se u tijeku glavne rasprave pred vijećem sastavljenim od jednog suca i dva suca porotnika, odnosno dva suca i tri suca porotnika pokaže da činjenice na kojima se temelji optužba upućuju na kazneno djelo za čije je suđenje nadležno vijeće sastavljeno od dva suca i tri suca porotnika, odnosno tri suca i četiri suca porotnika, dopunit će se vijeće i glavna rasprava počet će iznova.
-5. Zapisnik o glavnoj raspravi
+(1) Odluku o isključenju javnosti donosi vijeće rješenjem, koje mora biti obrazloženo i javno objavljeno.
+(2) Žalba na rješenje iz stavka 1. ovoga članka ne zadržava izvršenje.
+2. Upravljanje glavnom raspravom

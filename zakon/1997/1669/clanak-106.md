@@ -1,5 +1,5 @@
 # Članak 106.
-(1) Pritvor određen rješenjem istražnog suca može trajati najviše mjesec dana od dana kada je pritvorenik lišen slobode.
-(2) Iz opravdanih razloga na prijedlog istražnog suca ili državnog odvjetnika, vijeće iz članka 20. stavka 2. ovoga Zakona može pritvor tijekom istrage produljiti za još najviše dva mjeseca.
-(3) Ako se istraga vodi za kazneno djelo za koje se prema zakonu može izreći kazna zatvora u trajanju od pet godina ili više, vijeće iz članka 20. stavka 2. ovoga Zakona može, nakon isteka roka iz stavka 2. ovoga članka, pritvor produljiti za još najviše tri mjeseca.
-(4) Ukupno trajanje pritvora u istrazi, računajući i vrijeme trajanja lišenja slobode prije donošenja rješenja o pritvoru, ne može prijeći šest mjeseci, i istekom tog roka pritvorenik se ima odmah pustiti na slobodu.
+(1) Kad postoje okolnosti iz članka 105. stavka 1. točke 1. i 3. ovoga Zakona, sud može odrediti kućni pritvor ako se svrha određivanja pritvora može postići zabranom da se osoba udaljuje iz stana ili drugog prostora u kojemu boravi.
+(2) Rješenjem o određivanju kućnog pritvora sud može, uz suglasnost osobe, odrediti primjenu vanjskoga elektroničkog ili video nadzora za vrijeme trajanja kućnog pritvora na svim otvorima stana ili drugog prostora u kojem boravi.
+(3) Ako u ovom Zakonu nema posebnih odredaba o kućnom pritvoru, u odnosu na određivanje, ukidanje i produljenje kućnog pritvora na odgovarajući način se primjenjuju odredbe o pritvoru. Ministar nadležan za poslove pravosuđa uz suglasnost ministra unutarnjih poslova donijet će posebne propise kojima se potanje uređuje primjena mjera iz stavka 1. i 2. ovoga članka.
+10. Rješenje o određivanju pritvora

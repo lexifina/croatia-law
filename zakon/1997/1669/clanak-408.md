@@ -1,4 +1,4 @@
 # Članak 408.
-(1) O zahtjevu za obnovu kaznenog postupka odlučuje vijeće općinskog suda iz članka 18. stavka 3., odnosno vijeće županijskog suda iz članka 20. stavka 2. ovoga Zakona koje je u prijašnjem postupku sudilo u prvom stupnju.
-(2) U zahtjevu se mora navesti po kojoj se zakonskoj osnovi traži obnova i kojim se dokazima potkrepljuju činjenice na kojima se zahtjev temelji. Ako zahtjev ne sadrži te podatke, sud će pozvati podnositelja da u određenom roku zahtjev dopuni.
-(3) Pri rješavanju o zahtjevu u vijeću neće sudjelovati sudac koji je sudjelovao u donošenju presude u prijašnjem postupku.
+(1) U obrazloženju presude, odnosno rješenja drugostupanjski sud treba ocijeniti žalbene navode i iznijeti povrede zakona koje je uzeo u obzir po službenoj dužnosti.
+(2) Kad se prvostupanjska presuda ukida zbog bitnih povreda odredaba kaznenog postupka, u obrazloženju treba navesti koje su odredbe povrijeđene i u čemu se povrede sastoje.
+(3) Kad se prvostupanjska presuda ukida zbog pogrešno ili nepotpuno utvrđenoga činjeničnog stanja, navest će se u čemu su nedostaci u utvrđivanju činjeničnog stanja, posebice u odlučivanju o prijedlozima stranaka da se pribave i izvedu pojedini dokazi (članak 339.), odnosno zašto su novi dokazi i činjenice važni za donošenje pravilne odluke.

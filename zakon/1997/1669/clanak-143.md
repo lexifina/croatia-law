@@ -1,4 +1,4 @@
 # Članak 143.
-(1) Ako ovim Zakonom nije drukčije određeno, odluke se priopćuju osobama s pravnim interesom usmenim proglašavanjem ako su nazočne, a dostavom ovjerovljenog prijepisa ako su odsutne.
-(2) Ako je odluka usmeno proglašena, to će se naznačiti u zapisniku ili na spisu, a osoba kojoj je priopćenje dano potvrdit će to svojim potpisom. Ako osoba s pravnim intresom izjavi da se neće žaliti, ovjerovljeni prijepis usmeno priopćene odluke neće joj se dostaviti, ako ovim Zakonom nije drukčije određeno.
-(3) Prijepisi odluka protiv kojih je dopuštena žalba dostavljaju se s uputom o pravu na žalbu.
+(1) Ako je riječ o stvarima koje nedvojbeno pripadaju oštećeniku, a ne služe za utvrđivanje činjenice u kaznenom postupku, te će se stvari predati oštećeniku i prije završetka postupka.
+(2) Ako se više oštećenika spori o vlasništvu stvari, uputit će se na parnicu, a sud će u kaznenom postupku odrediti samo čuvanje stvari kao privremenu mjeru osiguranja.
+(3) Stvari koje služe za utvrđivanje činjenica oduzet će se privremeno i nakon završetka postupka vratiti vlasniku. Ako je takva stvar prijeko potrebna vlasniku, ona mu se može vratiti i prije završetka postupka uz obvezu da je na zahtjev donese.

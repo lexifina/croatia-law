@@ -1,3 +1,2 @@
 # Članak 500.
-Ako se kod suda koji sudi u prvom stupnju zbog nedovoljnog broja sudaca ne može osnovati vijeće predviđeno u odredbama članka 18. stavka 3. i članka 20. stavka 2. ovoga Zakona, poslove iz nadležnosti toga vijeća obavljat će vijeće neposredno višeg suda.
-3. Prestanak važenja Zakona i rješavanje postupaka u tijeku
+Prvostupanjski sud donijet će po službenoj dužnosti rješenje kojim se poništava upis neopravdane osude u kaznenim evidencijama. Rješenje se dostavlja Ministarstvu pravosuđa. Po poništenom upisu ne smiju se nikomu davati podaci iz kaznene evidencije.

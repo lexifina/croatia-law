@@ -1,3 +1,6 @@
 # Članak 223.
-(1) Ako se tijekom jedne godine nitko ne javi za stvari ili za novac dobiven od prodaje stvari, donijet će se odluka da stvar postaje vlasništvo Republike Hrvatske, odnosno da se novac unosi u proračunska sredstva.
-(2) Vlasnik stvari ima pravo u parnici tražiti povrat stvari ili novca dobivenog od prodaje stvari. Zastarijevanje tog prava počinje teći od dana objave oglasa.
+(1) Stranke i oštećenik mogu se uvijek obratiti pritužbom predsjedniku suda pred kojim se vodi postupak zbog odugovlačenja postupka i drugih nepravilnosti u tijeku istrage.
+(2) Predsjednik suda ispitat će navode u pritužbi, a ako je podnositelj zahtijevao, obavijestit će ga o tome što je poduzeo u tijeku istrage.
+Glava XIX.
+ISTRAŽNE RADNJE
+1. Pretraga

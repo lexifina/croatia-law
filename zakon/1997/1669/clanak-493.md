@@ -1,3 +1,4 @@
 # Članak 493.
-(1) Vijeće može zatražiti da nadležna državna tijela prikupe i dostave podatke važne za odluku povodom revizije.
-(2) Podnositelj revizije, njegov opunomoćenik i državni odvjetnik mogu na sjednici davati izjave radi razjašnjenja pojedinih pitanja u svezi s revizijom.
+(1) Ako nadležno tijelo ne donese rješenje o rehabilitaciji osuđena osoba može tražiti da se utvrdi da je rehabilitacija nastupila po zakonu.
+(2) Ako nadležno tijelo ne postupi prema zahtjevu osuđenika u roku od trideset dana od dana primitka zahtjeva, osuđenik može tražiti da prvostupanjski sud donese rješenje o rehabilitaciji.
+(3) O tom zahtjevu odlučuje sud nakon preslušanja državnog odvjetnika ako se postupak vodio na njegov zahtjev.

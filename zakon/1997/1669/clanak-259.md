@@ -1,3 +1,4 @@
 # Članak 259.
-(1) Kad se vještačenje ne obavlja u stručnoj ustanovi, pregled i obdukciju tijela obavlja jedan liječnik, a prema potrebi dva ili više liječnika, koji po mogućnositi trebaju biti sudskomedicinske struke. Tim vještačenjem rukovodi istražni sudac i u zapisnik unosi nalaz i mišljenje vještaka.
-(2) Za vještaka se ne može odrediti liječnik koji je liječio umrloga. On se može ispitati kao svjedok pri obdukciji tijela radi davanja razjašnjenja o tijeku i okolnostima bolesti.
+(1) Ako postoji opravdana bojazan za sigurnost života ili tijela osobe koja obavlja prepoznavanje ili njoj bliskih osoba, ili ako postoji opravdana bojazan da će osoba čije se prepoznavanje obavlja utjecati na tijek prepoznavanja, tijelo koje provodi prepoznavanje provest će ga tako da osoba čije se prepoznavanje obavlja, ne može vidjeti ni čuti osobu koja obavlja prepoznavanje.
+(2) Građani su dužni na poziv, osobno sudjelovati u prepoznavanju i dati na raspolaganje stvari u cilju prepoznavanja, osim ako nemaju opravdani razlog za oslobođenje od te dužnosti. Ako građanin bez opravdanog razloga neće sudjelovati u prepoznavanju, kaznit će se novčanom kaznom do 20.000,00 kuna.
+6. Očevid

@@ -1,4 +1,4 @@
 # Članak 435.
-(1) Kad sud primi optužni prijedlog ili privatnu tužbu, sudac (predsjednik vijeća, odnosno sudac pojedinac) najprije će ispitati je li sud nadležan, treba li provesti pojedinu istražnu radnju te postoje li uvjeti za odbacivanje optužnog prijedloga, odnosno privatne tužbe.
-(2) Ako sudac ne donese ni jedno od rješenja iz stavka 1. ovoga članka, zakazat će odmah glavnu raspravu.
-(3) Ako sudac smatra da treba provesti pojedinu istražnu radnju, provest će je sam ili će zatražiti da to učini istražni sudac.
+(1) Protiv pravomoćnih sudskih odluka i protiv sudskog postupka koji je prethodio tim pravomoćnim odlukama državni odvjetnik Republike Hrvatske može podignuti zahtjev za zaštitu zakonitosti ako je povrijeđen zakon.
+(2) Državni odvjetnik Republike Hrvatske podignut će zahtjev za zaštitu zakonitosti protiv sudske odluke donesene u postupku na način koji predstavlja kršenje temeljnih ljudskih prava i sloboda zajamčenih Ustavom, zakonom ili međunarodnim pravom.
+(3) Zahtjev za zaštitu zakonitosti ne može se podignuti protiv odluke s kojom je odlučeno o zahtjevu za zaštitu zakonitosti.

@@ -1,2 +1,2 @@
 # Članak 154.
-U slučajevima koji nisu ovim Zakonom propisani dostava se obavlja prema odredbama koje važe za parnični postupak.
+Dopis za koji je u ovom Zakonu određeno da se ima osobno dostaviti predaje se neposredno osobi kojoj je upućeno. Ako se osoba kojoj se dopis mora osobno dostaviti ne zatekne tamo gdje se dopis ima dostaviti, dostavljač će se izvijestiti kad i na kojem mjestu može tu osobu zateći i ostaviti joj kod jedne od osoba navedenih u članku 155. ovoga Zakona pisanu obavijest da radi primanja dopisa bude u određen dan i sat u svom stanu ili na svome radnom mjestu. Ako i nakon toga dostavljač ne zatekne osobu kojoj se podnesak ima dostaviti, postupit će se prema odredbi članka 155. stavka 1. ovoga Zakona. Time se smatra da je podnesak dostavljen.

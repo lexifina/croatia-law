@@ -1,2 +1,3 @@
 # Članak 207.
-Ako to zahtijevaju probitci kaznenog postupka, čuvanja tajne, javnog reda ili razlozi morala, istražni sudac ili službena osoba redarstvenih službi kojoj je povjereno poduzimanje pojedine istražne radnje naložit će osobama koje ispituje ili koje su nazočne istražnim radnjama ili razgledaju spise istrage da čuvaju kao tajnu određene činjenice ili podatke koje su tom prilikom saznale i upozoriti ih da je odavanje tajne kazneno djelo. Taj će se nalog unijeti u zapisnik o istražnoj radnji, odnosno zabilježit će se na spisima koji se razgledaju, uz potpis osobe koja je upozorena.
+(1) Istražni sudac kojem je povjereno obavljanje pojedinih istražnih radnji obavit će prema potrebi i druge istražne radnje koje s tim stoje u svezi ili iz njih proistječu.
+(2) Ako istražni sudac kojem je povjereno obavljanje pojedinih istražnih radnji nije za to nadležan, poslat će predmet nadležnom sudu i o tome izvijestiti istražnog suca koji mu je predmet dostavio.

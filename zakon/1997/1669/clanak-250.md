@@ -1,5 +1,4 @@
 # Članak 250.
-(1) Za vještaka se ne može uzeti osoba koja ne može biti ispitana kao svjedok ili osoba koja je oslobođena dužnosti svjedočenja, a ni osoba prema kojoj je kazneno djelo počinjeno, a ako je uzeta, na njezinu nalazu i mišljenju ne može se temeljiti sudska odluka.
-(2) Razlog za izuzeće vještaka postoji i u svezi s osobom koja je zajedno s okrivljenikom ili oštećenikom zaposlena u istom državnom tijelu ili kod istoga poslodavca.
-(3) Za vještaka se, u pravilu, neće uzeti osoba koja je ispitana kao svjedok.
-(4) Kad je dopuštena posebna žalba protiv rješenja kojim se odbija zahtjev za izuzeće vještaka (članak 39. stavak 4.), žalba odgađa obavljenje vještačenja, ako ne postoji opasnost od odgode.
+(1) Ako je svjedok uskratu iznošenja podataka iz članka 249. stavka 1. ovoga Zakona priopćio tijekom ispitivanja, istražni sudac će, ako ocijeni osnovanim postojanje opasnosti iz članka 249. stavka 1. ovoga Zakona, prekinuti ispitivanje i o tome bez odlaganja obavijestiti državnog odvjetnika dostavom prijepisa zapisnika, s pozivom da u roku koji ne može biti dulji od tri dana dostavi pisani obrazloženi prijedlog za primjenu posebnog načina ispitivanja i sudjelovanja svjedoka u postupku i prema potrebi, izvješće o mjerama zaštite svjedoka i njemu bliskih osoba izvan postupka. Ako istražni sudac uskratu iznošenja podataka ocijeni neosnovanom, postupit će prema članku 257. ovoga Zakona.
+(2) Ako državni odvjetnik u roku iz stavka 1. ovoga članka ne podnese prijedlog za posebni način ispitivanja svjedoka ili predloži da se svjedok ispita prema općim pravilima, istražni sudac će zatražiti odluku vijeća iz članka 20. stavka 2. ovoga Zakona.
+(3) U slučaju iz stavka 2. ovoga članka vijeće je dužno donijeti odluku u roku od tri dana.

@@ -1,3 +1,5 @@
 # Članak 162.
-(1) Kaznenu evidenciju ustrojava i vodi Ministarstvo pravosuđa.
-(2) Propise o evidenciji izrečenih odgojnih mjera donosi Ministar za rad i socijalnu skrb.
+(1) Pozivi i odluke koje se donose do završetka glavne rasprave za osobe koje sudjeluju u postupku, osim za okrivljenika, mogu se predati sudioniku u postupku koji pristane da ih uruči onomu komu su upućeni, ako tijelo postupka smatra da je na taj način zajamčeno njihovo dostavljanje.
+(2) O pozivu za glavnu raspravu ili drugom pozivu te o odluci o odgodi glavne rasprave ili drugih zakazanih radnji mogu se osobe iz stavka 1. ovoga članka izvijestiti brzojavom ili telekomunikacijskim sredstvom, ako se prema okolnostima može pretpostaviti da će obavijest upućenu na taj način primiti osoba kojoj je upućena.
+(3) O pozivu i predaji odluke obavljenim na način propisan u stavku 1. i 2. ovoga članka sastavit će se službena zabilješka u spisu.
+(4) Za osobu koja je prema stavku 1. ili stavku 2. ovoga članka bila izviješćena, odnosno kojoj je odluka upućena mogu nastupiti štetne posljedice propisane za propuštanje samo ako se utvrdi da je pravovremeno primila poziv ili odluku i da je bila poučena o posljedicama propusta.

@@ -1,3 +1,2 @@
 # Članak 124.
-(1) Nagradu i nužne izdatke branitelja i opunomoćenika privatnog tužitelja ili oštećenika dužna je platiti zastupana osoba, bez obzira na to tko je prema odluci suda dužan podmiriti troškove kaznenog postupka, osim ako prema odredbama ovoga Zakona nagrada i nužni izdaci branitelja padaju na teret proračunskih sredstava. Ako je okrivljeniku branitelj bio postavljen, a plaćanjem bi nagrade i nužnih izdataka bilo dovedeno u pitanje uzdržavanje okrivljenika ili uzdržavanje osoba koje je on obvezan uzdržavati, nagrada i nužni izdaci branitelja isplatit će se iz proračunskih sredstava. Tako će se postupiti i ako je oštećeniku kao tužitelju bio postavljen opunomoćenik.
-(2) Opunomoćenik koji nije odvjetnik nema pravo na nagradu, već samo na nužne izdatke.
+Ministar nadležan za poslove pravosuđa propisat će kućni red u zatvorima za izdržavanje pritvora kojim će se pobliže urediti izvršavanje pritvora u skladu s odredbama ovoga Zakona.

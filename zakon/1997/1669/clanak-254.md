@@ -1,6 +1,6 @@
 # Članak 254.
-(1) Ako se vještačenje povjerava stručnoj ustanovi ili državnom tijelu, tijelo koje vodi postupak upozorit će da u davanju nalaza i mišljenja ne može sudjelovati osoba iz članka 250. ovoga Zakona ili osoba za koju postoje razlozi za izuzeće od vještačenja propisani u ovom Zakonu te na posljedice davanja lažnog nalaza i mišljenja.
-(2) Stručnoj ustanovi, odnosno državnom tijelu stavit će se na raspolaganje materijal potreban za vještačenje, a ako je potrebno, postupit će se prema odredbama članka 251. stavka 4. ovoga Zakona.
-(3) Stručna ustanova, odnosno državno tijelo dostavlja pisani nalaz i mišljenje potpisan od osoba koje su obavile vještačenje.
-(4) Stranke mogu od upravitelja stručne ustanove, odnosno državnog tijela zahtijevati da im priopći imena stručnjaka koji će obaviti vještačenje.
-(5) Odredbe članka 251. stavka 1. do 3. ovoga Zakona ne primjenjuju se kad je vještačenje povjereno stručnoj ustanovi ili državnom tijelu. Tijelo pred kojim se vodi postupak može tražiti od stručne ustanove ili tijela objašnjenja o danom nalazu i mišljenju.
+(1) Nakon općih pitanja svjedok se poziva da iznese sve što mu je o predmetu poznato, a nakon toga će mu se postavljati pitanja radi provjere, dopune i razjašnjenja. Pri ispitivanju svjedoka nije dopušteno služiti se obmanom niti postavljati takva pitanja u kojima je već sadržano kako bi trebalo odgovoriti.
+(2) Svjedok će se uvijek pitati otkud mu je poznato ono o čemu svjedoči.
+(3) Svjedoci se mogu suočiti ako se njihovi iskazi ne slažu o važnim činjenicama. Suočeni će se o svakoj okolnosti o kojoj se njihovi iskazi međusobno ne slažu svaki posebno ispitati i njihov odgovor unijeti u zapisnik. Istovremeno se mogu suočiti samo dva svjedoka.
+(4) Oštećenik koji se ispituje kao svjedok pitat će se želi li u kaznenom postupku ostvariti imovinskopravni zahtjev.
+(5) S obzirom na životnu dob, tjelesno i duševno stanje, ili druge opravdane interese svjedoka se može ispitati putem tehničkih uređaja za prijenos slike i zvuka na način da mu stranke mogu postavljati pitanja bez nazočnosti u prostoriji gdje se svjedok nalazi. Za potrebe takvog ispitivanja može se odrediti stručna osoba iz članka 211. stavka 8. ovoga Zakona.

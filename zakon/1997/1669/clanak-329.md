@@ -1,4 +1,4 @@
 # Članak 329.
-(1) Ako se na glavnoj rapravi sazna da svjedok ili vještak ne može doći pred sud ili mu je dolazak znatno otežan, vijeće može, ako smatra da je njegov iskaz važan, naložiti da ga izvan glavne rasprave ispita predsjednik vijeća ili sudac član vijeća, ili da se ispitivanje obavi preko istražnog suca na čijem se području svjedok, odnosno vještak nalazi.
-(2) Ako je potrebno obaviti očevid ili rekonstrukciju izvan glavne rasprave, vijeće može odlučiti da te radnje obavi predsjednik vijeća ili sudac član vijeća.
-(3) Stranke i oštećenik izvijestit će se uvijek kad će se i na kojem mjestu ispitati svjedok, odnosno obaviti očevid ili rekonstrukcija, s upozorenjem da mogu biti nazočni tim radnjama. Ako je optuženik u pritvoru, o potrebi njegove nazočnosti tim radnjama odlučuje vijeće. Kad su stranke i oštećenik nazočni izvođenju tih radnji, imaju prava predviđena u članku 198. ovoga Zakona.
+Ako se u tijeku glavne rasprave pred vijećem sastavljenim od jednog suca i dva suca porotnika, odnosno dva suca i tri suca porotnika pokaže da činjenice na kojima se temelji optužba upućuju na kazneno djelo za čije je suđenje nadležno vijeće sa-
+stavljeno od dva suca i tri suca porotnika, odnosno tri suca i četiri suca porotnika, dopunit će se vijeće i glavna rasprava počet će iznova.
+5. Zapisnik o glavnoj raspravi

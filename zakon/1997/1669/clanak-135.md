@@ -1,3 +1,5 @@
 # Članak 135.
-(1) Pravomoćnu presudu kojom je odlučeno o imovinskopravnom zahtjevu može sud u kaznenom postupku izmijeniti samo povodom izvanrednog pravnog lijeka.
-(2) Izvan tog slučaja, osuđenik, odnosno njegovi nasljednici mogu samo u parnici zahtijevati da se pravomoćna presuda kaznenog suda kojom je odlučeno u imovinskopravnom zahtjevu izmijeni, i to ako postoje uvjeti za obnovu postupka prema odredbama koje važe za parnični postupak.
+(1) Prijedlog za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku podnosi se tijelu kome se podnosi kaznena prijava ili sudu pred kojim se vodi postupak.
+(2) Prijedlog se može podnijeti najkasnije do završetka glavne rasprave pred prvostupanjskim sudom.
+(3) Osoba ovlaštena na podnošenje prijedloga dužna je određeno naznačiti svoj zahtjev i podnijeti dokaze.
+(4) Ako ovlaštena osoba nije stavila prijedlog za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku do podignuća optužbe, izvijestit će se da taj prijedlog može staviti do završetka glavne rasprave.

@@ -1,3 +1,2 @@
 # Članak 440.
-(1) Prigovor mjesne nenadležnosti može se staviti najkasnije do početka glavne rasprave.
-(2) Sudac koji je provodio istražne radnje nije izuzet da na glavnoj raspravi sudjeluje kao predsjednik vijeća ili kao sudac pojedinac.
+Ako se pri odlučivanju o zahtjevu za zaštitu zakonitosti pojavi ozbiljna sumnja u istinitost odlučnih činjenica utvrđenih u odluci protiv koje je zahtjev podignut, pa se zbog toga ne može odlučiti o zahtjevu za zaštitu zakonitosti, sud će presudom kojom odlučuje o zahtjevu za zaštitu zakonitosti ukinuti tu odluku i narediti da se održi nova glavna rasprava pred istim ili drugim stvarno nadležnim prvostupanjskim sudom.

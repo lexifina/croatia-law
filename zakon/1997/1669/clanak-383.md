@@ -1,3 +1,6 @@
 # Članak 383.
-Ako drugostupanjski sud u povodu bilo čije žalbe utvrdi da su razlozi zbog kojih je donio odluku u korist optuženika od koristi i za kojeg od suoptuženika koji nije podnio žalbu ili je nije podnio u tom smislu, postupit će po službenoj dužnosti kao da takva žalba postoji.
-f) Odluke drugostupanjskog suda o žalbi
+Presuda se može pobijati:
+1) zbog bitne povrede odredaba kaznenog postupka,
+2) zbog povrede Kaznenog zakona,
+3) zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja,
+4) zbog odluke o kaznenim sankcijama, oduzimanju imovinske koristi, troškovima kaznenog postupka, imovinskopravnim zahtjevima te zbog odluke o objavi presude u sredstvima javnog priopćavanja.

@@ -1,5 +1,11 @@
 # Članak 122.
-(1) Kad sud okrivljenika proglasi krivim, izreći će u presudi da je dužan naknaditi troškove kaznenog postupka.
-(2) Osoba koja je okrivljena za više kaznenih djela neće se osuditi na naknadu troškova u svezi s djelima za koja je oslobođena optužbe ako se ti troškovi mogu izdvojiti iz ukupnih troškova.
-(3) U presudi kojom je više okrivljenika proglašeno krivima sud će odrediti koliki će dio troškova podmiriti svaki od njih, a ako to nije moguće, odlučit će da svi okrivljenici solidarno podmire troškove. Plaćanje paušalne svote odredit će se za svakog okrivljenika pojedinačno.
-(4) U odluci kojom rješava o troškovima sud može osloboditi okrivljenika obveze da naknadi u cijelosti ili djelomično troškove kaznenog postupka iz članka 119. stavka 2. točke 1. do 6. ovoga Zakona ako bi njihovim plaćanjem bilo dovedeno u pitanje uzdržavanje okrivljenika ili osoba koje je on dužan uzdržavati. Ako se te okolnositi utvrde nakon donošenja odluke o troškovima, predsjednik vijeća može posebnim rješenjem osloboditi okrivljenika dužnosti naknade troškova kaznenog postupka.
+(1) Za stegovne prijestupe pritvorenika istražni sudac, sudac pojedinac, odnosno predsjednik vijeća može, na prijedlog upravitelja zatvora, izreći stegovnu kaznu ograničenja posjeta i dopisivanja. To se ograničenje ne odnosi na veze pritvorenika s braniteljem ili susrete s konzularnim službenikom.
+(2) Stegovni prijestupi su sve teže povrede koje se odnose na:
+1) fizičke napade na druge pritvorenike, djelatnike ili službene osobe, odnosno njihovo vrijeđanje,
+2) izrađivanje, primanje, unošenje, krijumčarenje predmeta za napad ili bijeg,
+3) unošenje u zatvor ili pripremanje u zatvoru opojnih sredstava ili alkohola,
+4) povrede propisa o sigurnosti na radu, protupožarnoj zaštiti te sprječavanju posljedica prirodnih nepogoda,
+5) namjerno prouzročenje veće materijalne štete,
+6) nedolično ponašanje pred drugim pritvorenicima ili službenim osobama.
+(3) Protiv rješenja o stegovnoj mjeri dopuštena je žalba vijeću iz članka 18. stavka 4., odnosno članka 20. stavka 2. ovoga Zakona u roku od dvadeset četiri sata. Žalba ne zadržava izvršenje rješenja.
+(4) O primjeni prisilnih mjera prema pritvoreniku uprava zatvora bez odgode izvješćuje istražnog suca.

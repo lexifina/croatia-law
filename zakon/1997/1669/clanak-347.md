@@ -1,5 +1,3 @@
 # Članak 347.
-(1) Govori stranaka ne mogu se ograničiti na određeno vrijeme.
-(2) Predsjednik vijeća može, nakon prethodnog upozorenja, prekinuti osobu koja u svojem govoru vrijeđa javni red i moral ili vrijeđa drugoga ili se upušta u ponavljanja ili izlaganja koja očito nemaju veze s predmetom. U zapisniku o glavnoj raspravi mora se navesti da je govor bio prekinut i zašto je bio prekinut.
-(3) Kad optužbu zastupa više osoba ili obranu više branitelja, izlaganja se ne mogu ponavljati. Zastupnici optužbe, odnosno obrane prema međusobnom sporazumu odabrat će pitanja o kojima će govoriti.
-(4) Nakon svih završnih govora predsjednik vijeća dužan je upitati želi li još tko što izjaviti.
+(1) Zapisnici o očevidu, o pretrazi stana i osoba, o oduzimanju stvari, o prepoznavanju i uzimanju otisaka prstiju i drugih dijelova tijela, isprave, knjige, spisi i drugi dopisi kao i tehničke snimke koje služe za utvrđivanje činjenica, pročitat će se, odnosno reproducirati na glavnoj raspravi radi utvrđivanja njihova sadržaja, a prema ocjeni vijeća može se sadržaj isprava i drugih dopisa ukratko usmeno izložiti. Dopisi koji imaju značenje dokaza podnose se u izvorniku.
+(2) Predmeti koji mogu poslužiti razjašnjenju stvari mogu se u tijeku glavne rasprave pokazati optuženiku, a prema potrebi svjedocima i vještacima.

@@ -1,7 +1,3 @@
 # Članak 293.
-Od otvaranja zasjedanja pa do završetka glavne rasprave vijeće može u svako doba, po službenoj dužnosti ili na prijedlog stranaka, ali uvijek nakon njihova ispitivanja, isključiti javnost za cijelu glavnu raspravu ili njezin dio ako je to potrebno radi:
-1) zaštite sigurnosti i obrane Republike Hrvatske,
-2) čuvanja tajne, kojoj bi štetila javna rasprava,
-3) čuvanja javnog reda i mira,
-4) zaštite osobnog ili obiteljskog života okrivljenika, oštećenika ili drugog sudionika u postupku,
-5) zaštite probitaka maloljetnika.
+(1) Kad rješava o prigovoru protiv optužnice državnog odvjetnika podnesene na temelju članka 204. stavka 6. ovoga Zakona, ili o zahtjevu predsjednika vijeća u povodu te optužnice (članak 299.), ili kad rješava u povodu neslaganja predsjednika prvostupanjskog vijeća s privatnom tužbom u slučajevima iz članka 287. stavka 1. ovoga Zakona, vijeće će rješenjem odbaciti optužnicu, odnosno privatnu tužbu ako ustanovi da postoje razlozi iz članka 292. točke 1. do 3. ovoga Zakona, a ako su provedene istražne radnje i iz razloga navedenog u točki 4. toga članka.
+(2) Ako je u povodu prigovora protiv optužnice državnog odvjetnika iz stavka 1. ovoga članka ili na zahtjev predsjednika vijeća u povodu te optužnice (članak 299.) provedena istraga, a vijeće nakon provedene istrage ustanovi da postoje razlozi iz članka 214. ovoga Zakona, odlučit će rješenjem da se kazneni postupak obustavlja.

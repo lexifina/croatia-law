@@ -1,5 +1,9 @@
+## Glava XXVII.
+## POSTUPAK ZA IZDAVANJE KAZNENOG NALOGA
 # Članak 465.
-(1) Kad dolazi u obzir oduzimanje imovinske koristi pribavljene kaznenim djelom, osoba na koju je imovinska korist prenesena, a i predstavnik pravne osobe, pozvat će se radi ispitivanja u prethodnom postupku i na glavnoj raspravi. U pozivu će se upozoriti da će se postupak provesti i bez njihove nazočnosti.
-(2) Predstavnik pravne osobe ispitat će se na glavnoj raspravi nakon okrivljenika koji se očitovao da ne osporava osnovanost optužbe, a inače na početku dokaznog postupka. Na isti način postupit će se prema osobi na koju je imovinska korist prenesena, ako nije pozvana kao svjedok.
-(3) Osoba na koju je imovinska korist prenesena, a i predstavnik pravne osobe ovlašten je da u svezi s utvrđivanjem imovinske koristi predlaže dokaze i da, po dopuštenju predsjednika vijeća, postavlja pitanja okrivljeniku, svjedocima i vještacima.
-(4) Ako sud tek u tijeku glavne rasprave utvrdi da dolazi u obzir oduzimanje imovinske koristi, prekinut će glavnu raspravu i pozvati osobu na koju je imovinska korist prenesena, a i predstavnika pravne osobe.
+(1) Za kaznena djela iz nadležnosti suca pojedinca, a za koja je saznao na temelju vjerodostojnog sadržaja kaznene prijave, može državni odvjetnik u optužnom prijedlogu zatražiti da sud izda kazneni nalog u kojem će optuženiku izreći određenu kaznu ili mjeru bez provođenja glavne rasprave.
+(2) Državni odvjetnik može zatražiti izricanje jedne ili više od sljedećih kazni ili mjera:
+1) novčanu kaznu u visini od deset do sto prosječnih dnevnih prihoda u Republici Hrvatskoj (članak 51. stavak 4. Kaznenog zakona),
+2) uvjetnu osudu za izricanje kazne zatvora do tri mjeseca ili novčane kazne, ili sudsku opomenu,
+3) oduzimanje imovinske koristi pribavljene kaznenim djelom i objavljivanje kaznenog naloga u sredstvima javnog priopćavanja,
+4) zabranu upravljanja motornim vozilom do dvije godine, odnosno oduzimanje predmeta.

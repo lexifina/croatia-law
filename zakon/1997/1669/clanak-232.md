@@ -1,4 +1,3 @@
 # Članak 232.
-(1) Kao svjedoci pozivaju se osobe za koje je vjerojatno da će moći dati obavijesti o kaznenom djelu i počinitelju i o drugim važnim okolnostima.
-(2) Oštećenik, oštećenik kao tužitelj i privatni tužitelj mogu se ispitati kao svjedoci.
-(3) Svaka osoba koja se kao svjedok poziva dužna je odazvati se pozivu, a ako ovim Zakonom nije drukčije propisano, obvezna je i svjedočiti.
+Ako je pretraga obavljena bez pisanog sudskog naloga (članak 228. stavak 1.) ili bez osoba koje moraju biti nazočne pretrazi (članak 229. stavak 1. i 2.) ili su je redarstvene vlasti poduzele suprotno odredbama članka 231. stavka 1. i 2. ovoga Zakona, zapisnici o pretrazi i ostali dokazi pribavljeni pretragom ne mogu se upotrijebiti kao dokazi u kaznenom postupku.
+2. Privremeno oduzimanje predmeta

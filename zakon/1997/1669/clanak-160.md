@@ -1,4 +1,5 @@
 # Članak 160.
-(1) Ako ovim Zakonom nije drukčije propisano, rješenja se izvršavaju kad postanu pravomoćna. Nalozi se izvršavaju odmah ako tijelo koje je nalog izdalo ne odredi drukčije.
-(2) Pravomoćnost rješenja nastupa kad se ono ne može pobijati žalbom ili kad žalba nije dopuštena.
-(3) Rješenja i naloge, ako nije drukčije propisano, izvršavaju tijela koja su ih donijela. Ako je sud rješenjem odlučio o troškovima kaznenog postupka, ti se troškovi naplaćuju prema odredbama članka 159. stavka 2. ovoga Zakona.
+(1) Vojnim osobama, pripadnicima redarstvene vlasti i pripadnicima pravosudne policije poziv se dostavlja preko njihova zapovjedništva, odnosno neposrednog zapovjednika, a prema potrebi mogu im se na taj način dostavljati i ostali dopisi.
+(2) Osobama kojima je oduzeta sloboda poziv se dostavlja u sudu ili preko uprave ustanove u kojoj su smještene.
+(3) Osobama koje u Republici Hrvatskoj imaju pravo imuniteta po međunarodnom pravu poziv se dostavlja preko Ministarstva vanjskih poslova, ako međunarodnim ugovorima nije što drugo predviđeno.
+(4) Poziv državljanima Republike Hrvatske u stranoj državi, ako se ne primjenjuje postupak propisan odredbama o međunarodnoj pravnoj pomoći u kaznenim stvarima, dostavlja se posredovanjem diplomatskog ili konzularnog poslanstva Republike Hrvatske u stranoj državi, uz uvjet da se strana država ne protivi takvu načinu dostave i uz privolu primatelja poziva. Ovlašteni djelatnik diplomatskog ili konzularnog poslanstva potpisuje dostavnicu kao dostavljač, ako je poziv uručen u samom poslanstvu, a ako je poziv dostavljen poštom, to potvrđuje na dostavnici.

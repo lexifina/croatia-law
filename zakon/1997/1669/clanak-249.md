@@ -1,5 +1,5 @@
 # Članak 249.
-(1) Osoba koja se poziva kao vještak dužna je odazvati se pozivu i dati svoj nalaz i mišljenje.
-(2) Ako vještak koji je uredno pozvan ne dođe, a izostanak ne opravda, ili ako odbije vještačiti, može se kazniti novčano do 2.000,00 kuna, a u slučaju neopravdanog izostanka može se i prisilno dovesti.
-(3) O žalbi protiv rješenja kojim je izrečena novčana kazna odlučuje vijeće županijskog suda (članak 20. stavak 2.).
-(4) Neovisno od odredbe stavka 2. ovoga članka, tijelo koje vodi postupak može od vještaka zatražiti da navede rok u kojem će podnijeti nalaz i mišljenje te dade obvezu da će u slučaju propuštanja toga roka uplatiti iznos iz stavka 2. ovoga članka u proračunska sredstva. Zapisnik s izjavom vještaka o toj obvezi ima snagu ovršne isprave.
+(1) Ako postoji vjerojatnost da bi svjedok davanjem iskaza ili odgovorom na pojedino pitanje sebe ili njemu blisku osobu izložio ozbiljnijoj opasnosti po život, zdravlje, tjelesnu nepovredivost, slobodu ili imovinu većeg opsega (ugroženi svjedok), svjedok može uskratiti iznošenje podataka iz članka 248. stavka 2. ovoga Zakona, davanje odgovora na pojedina pitanja ili davanje iskaza u cjelini, dok se ne osigura zaštita svjedoka.
+(2) Zaštita svjedoka sastoji se od posebnog načina ispitivanja i sudjelovanja u postupku i mjera zaštite svjedoka i njemu bliskih osoba izvan postupka.
+(3) Posebni načini ispitivanja i sudjelovanja svjedoka u postupku uređuju se ovim Zakonom ukoliko drukčije nije propisano posebnim zakonom, a mogu se primijeniti i prije započinjanja kaznenog postupka.
+(4) Zaštita svjedoka i njemu bliskih osoba izvan postupka uređuje se i provodi prema posebnom zakonu.

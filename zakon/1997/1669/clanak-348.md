@@ -1,6 +1,10 @@
 # Članak 348.
-(1) Ako vijeće nakon završenih izlaganja stranaka ne utvrdi da treba izvesti još neke dokaze, predsjednik vijeća objavit će da je glavna raprava završena.
-(2) Nakon toga će se vijeće povući na vijećanje i glasovanje radi donošenja presude.
-Glava XXII.
-PRESUDA
-1. Izricanje presude
+(1) Zapisnici o iskazima svjedoka, suoptuženika ili već osuđenih sudionika u kaznenom djelu te zapisnici ili drugi dopisi o nalazu ili mišljenju vještaka mogu se prema odluci vijeća pročitati samo:
+1) ako su ispitane osobe umrle, duševno oboljele ili se ne mogu pronaći, ili je njihov dolazak pred sud nemoguć ili znatno otežan zbog starosti, bolesti ili drugih važnih uzroka,
+2) ako svjedoci ili vještaci bez zakonskih razloga neće iskazivati na glavnoj raspravi,
+3) ako je svjedok ili vještak ispitan sukladno odredbi članka 322. stavka 4. ovoga Zakona,
+4) ako su stranke suglasne da se umjesto neposrednog ispitivanja svjedoka, odnosno vještaka koji nije nazočan, bez obzira je li bio pozvan ili ne, pročita zapisnik o njegovu prijašnjem ispitivanju,
+5) ako su svjedoci ili vještaci ispitani pred istim vijećem a postupak se vodi zbog kaznenog djela za koje je propisana kazna zatvora iznad osam godina, odnosno pred istim predsjednikom vijeća a postupak se vodi zbog kaznenog djela za koje je propisana kazna zatvora do osam godina, i to bez suglasnosti stranaka.
+(2) Zapisnici o prijašnjem ispitivanju osoba koje su oslobođene dužnosti svjedočenja (članak 244.) ne smiju se pročitati ako te osobe nisu uopće pozvane na glavnu raspravu ili su na glavnoj raspravi izjavile da neće svjedočiti. Vijeće će odlučiti da se ti zapisnici izdvoje iz spisa i odvojeno čuvaju (članak 78.). Tako će vijeće postupiti i u svezi s drugim zapisnicima i obavijestima predviđenim u članku 78. ovoga Zakona, ako nije prije donesena odluka o njihovu izdvajanju. Protiv rješenja kojim se odlučuje o izdvajanju dopuštena je posebna žalba, osim ako sud ne odluči odmah nastaviti s glavnom raspravom. Odlučujući o žalbi viši sud može naložiti da se nova glavna rasprava održi pred prvostupanjskim sudom pred potpuno izmijenjenim vijećem.
+(3) Nakon pravomoćnosti rješenja izdvojeni zapisnici i obavijesti zatvaraju se u poseban omot i predaju istražnom sucu radi čuvanja odvojeno od ostalih spisa i ne mogu se razgledati niti koristiti u postupku. Izdvajanje zapisnika i obavijesti mora se obaviti prije završetka dokaznog postupka.
+(4) Razlozi zbog kojih se čita zapisnik navest će se u zapisniku o glavnoj raspravi, a pri čitanju priopćit će se je li svjedok ili vještak dao obećanje da će iskazivati istinito ili je ranije, već bio prisegnut.

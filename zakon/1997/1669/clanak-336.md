@@ -1,2 +1,4 @@
 # Članak 336.
-Predsjednik vijeća zabranit će pitanje ili odgovor na već postavljeno pitanje ako je ono nedopušteno (članak 226.) ili se ne odnosi na predmet. Ako predsjednik vijeća zabrani postavljanje određenog pitanja ili davanje odgovora, stranke mogu zahtijevati da o tome odluči vijeće.
+(1) Glavna rasprava počinje čitanjem optužnice, privatne tužbe ili optužnog prijedloga.
+(2) Optužnicu i privatnu tužbu čita, u pravilu, tužitelj, ali predsjednik vijeća može, umjesto toga, ako je riječ o optužnici oštećenika kao tužitelja, o privatnoj tužbi ili o optužnom prijedlogu usmeno izložiti njihov sadržaj. Tužitelju će se dopustiti da dopuni izlaganje predsjednika vijeća.
+(3) Ako je oštećenik nazočan, može obrazložiti imovinskopravni zahtjev, a ako nije nazočan, njegov će prijedlog pročitati predsjednik vijeća.

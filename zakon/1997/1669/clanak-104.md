@@ -1,6 +1,6 @@
 # Članak 104.
-(1) Tijekom istrage pritvor određuje i ukida istražni sudac. O prijedlogu državnog odvjetnika da se odredi pritvor istražni sudac odlučuje odmah a najkasnije u roku od dvadesetčetiri sata. Kad se istražni sudac ne složi s prijedlogom državnog odvjetnika za određivanje ili ukidanje pritvora, donijet će rješenje kojim se njegov prijedlog odbija. U takvu slučaju državni odvjetnik ima pravo žalbe u roku od četrdesetosam sati. Žalba ne zadržava izvršenje, a o njoj odlučuje vijeće iz članka 20. stavka 2. ovoga Zakona u roku od četrdesetosam sati.
-(2) Istražni sudac određuje i ukida pritvor na prijedlog državnog odvjetnika ili po službenoj dužnosti u slučaju kad provodi pojedine istražne radnje u skraćenom postupku ili kad je državni odvjetnik zatražio suglasnost za podignuće optužnice bez provođenja istrage, do njezina podnošenja sudu.
-(3) Nakon podnošenja optužnice ili optužnog prijedloga sudu izvan glavne rasprave do pravomoćnosti presude pritvor određuje i ukida sudsko vijeće iz članka 18. stavka 3., odnosno članka 20. stavka 2. ovoga Zakona. Za trajanja glavne rasprave i do objave presude pritvor određuje, produljuje i ukida vijeće ili sudac pojedinac pred kojim se rasprava vodi.
-(4) Kad odlučuje o žalbi protiv presude, pritvor određuje, produljuje i ukida žalbeno vijeće (članak 20. stavak 2. i 3.).
-(5) Kad sudbeno vijeće koje odlučujući o izvanrednim pravnim lijekovima ukine pobijanu presudu i predmet vrati na ponovni postupak, može odrediti pritvor ako postoje razlozi iz članka 102. ovoga Zakona, a nisu protekli rokovi iz članka 109. ovoga Zakona.
+(1) Pritvor može biti određen samo ako se ista svrha ne može ostvariti drugom mjerom.
+(2) Čim prestanu razlozi zbog kojih je pritvor određen, pritvor se mora ukinuti i pritvorenika pustiti na slobodu.
+(3) Pri odlučivanju o pritvoru, posebno o njegovu trajanju, vodit će se računa o razmjeru između težine počinjenoga kaznenog djela, kazne koja se, prema podacima kojima raspolaže sud, može očekivati u postupku i potrebe određivanja i trajanja pritvora.
+(4) Sudbena tijela pred kojima se vodi postupak postupat će u predmetima u kojima je određen pritvor posebno žurno, te po službenoj dužnosti paziti jesu li prestali razlozi i zakonski uvjeti za pritvor i u tom slučaju ga odmah ukinuti.
+9. Osnove za određivanje pritvora

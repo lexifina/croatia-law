@@ -1,4 +1,7 @@
 # Članak 441.
-(1) Glavna rasprava održat će se ako i ne dođe državni odvjetnik koji je uredno pozvan. U tom slučaju oštećenik ima pravo na glavnoj raspravi zastupati optužbu u granicama optužnog prijedloga.
-(2) Glavna rasprava može se održati ako i ne dođe privatni tužitelj koji ima prebivalište izvan područja suda kojem je podnesena privatna tužba ako je sudu stavio prijedlog da se glavna rasprava održi u njegovoj odsutnosti.
-(3) Ako okrivljenik ne dođe na glavnu raspravu, iako je uredno pozvan ili mu se poziv nije mogao uručiti zbog neprijavljivanja sudu promjene adrese ili boravišta, sud može odlučiti da se glavna rasprava održi i u njegovoj odsutnosti, uz uvjet da njegova nazočnost nije nužna i da je prije toga bio ispitan.
+(1) Ako je pravomoćna presuda ukinuta i predmet vraćen na ponovno suđenje, za osnovu će se uzeti prijašnja optužnica ili onaj njezin dio koji se odnosi na ukinuti dio presude.
+(2) Sud je dužan izvesti sve postupovne radnje i raspraviti sva pitanja na koja ga je upozorio Vrhovni sud Republike Hrvatske.
+(3) Pred prvostupanjskim, odnosno drugostupanjskim sudom stranke mogu isticati nove činjenice i podnositi nove dokaze.
+(4) Sud je pri donošenju nove odluke vezan zabranom propisanom u članku 398. ovoga Zakona.
+(5) Ako je pored odluke nižeg suda ukinuta i odluka višeg suda, predmet se dostavlja nižem sudu preko višeg suda.
+4. Zahtjev za izvanredno preispitivanje pravomoćne presude

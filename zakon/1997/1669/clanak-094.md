@@ -1,3 +1,3 @@
 # Članak 94.
-(1) Svatko smije spriječiti bijeg osobe zatečene u kaznenom djelu za koje se progoni po službenoj dužnosti.
-(2) Zatečenom u kaznenom djelu smatra se ona osoba koju netko vidi kako čini radnju kaznenog djela, odnosno osoba koja je neposredno po počinjenju kaznenog djela zatečena pod okolnostima koje upućuju na to da je upravo ona počinila kazneno djelo.
+(1) Okrivljenik protiv kojeg treba odrediti pritvor ili je pritvor protiv njega već određen zbog bojazni da će okrivljenik pobjeći može se ostaviti na slobodi, odnosno pustiti na slobodu ako on osobno ili tko drugi za njega dade jamstvo da do kraja kaznenog postupka neće pobjeći, a sam okrivljenik obeća da se neće kriti i da bez odobrenja neće napustiti svoje boravište.
+(2) Rješenje o jamstvu i o njegovu ukidanju donosi se sukladno članku 90. stavku 5. do 8. ovoga Zakona.

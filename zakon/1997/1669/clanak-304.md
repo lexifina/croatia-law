@@ -1,3 +1,5 @@
 # Članak 304.
-(1) Ako na glavnu raspravu, koja je zakazana na temelju optužnice državnog odvjetnika, ne dođe državni odvjetnik ili osoba koja ga zamjenjuje, glavna rasprava će se odgoditi.
-(2) Ako na glavnu raspravu ne dođe oštećenik kao tužitelj ili privatni tužitelj, iako su uredno pozvani, a ni njihov opunomoćenik, vijeće će rješenjem obustaviti postupak.
+(1) Stranke i oštećenik mogu i nakon zakazivanja glavne rasprave zahtijevati da se na glavnu raspravu pozovu novi svjedoci ili vještaci ili pribave drugi novi dokazi. U svome obrazloženom zahtjevu stranke moraju naznačiti koje bi se činjenice imale dokazati i kojim od predloženih dokaza.
+(2) Ako predsjednik vijeća odbije prijedlog za pribavljanje novih dokaza, taj se prijedlog može ponoviti u tijeku glavne rasprave.
+(3) Predsjednik vijeća može i bez prijedloga stranaka narediti pribavljanje novih dokaza za glavnu raspravu.
+(4) O odluci kojom se nalaže pribavljanje novih dokaza izvijestit će se stranke prije početka glavne rasprave.

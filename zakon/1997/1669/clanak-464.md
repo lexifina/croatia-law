@@ -1,4 +1,2 @@
 # Članak 464.
-(1) Imovinska korist postignuta izvršenjem kaznenog djela utvrđuje se u kaznenom postupku po službenoj dužnosti.
-(2) Sud i drugo tijelo pred kojima se vodi kazneni postupak dužni su u tijeku postupka prikupljati dokaze i istraživati okolnositi koje su važne za utvrđivanje imovinske koristi.
-(3) Ako je oštećenik stavio imovinskopravni zahtjev glede povrata stvari pribavljenih kaznenim djelom, odnosno glede svote koja odgovara vrijednosti stvari, imovinska korist utvrđivat će se samo u onom dijelu koji nije obuhvaćen imovinskopravnim zahtjevom.
+Kad drugostupanjski sud rješava o žalbi protiv presude prvostupanjskog suda donesene po skraćenom postupku, obje stranke obavijestit će se o sjednici vijeća drugostupanjskog suda ako je u prvostupanjskoj presudi izrečena kazna zatvora i ako su stranke zahtijevale da budu obaviještene o sjednici ili ako predsjednik vijeća ili vijeće drugostupanjskog suda misle da bi nazočnost stranaka ili jedne od njih bilo korisno za razjašnjenje stvari.

@@ -1,2 +1,2 @@
 # Članak 256.
-Ako se podaci vještaka u njihovu nalazu bitno razilaze ili ako je njihov nalaz nejasan, nepotpun ili u proturječnosti sam sa sobom ili s izviđenim okolnostima, a ti se nedostaci ne mogu otkloniti ponovnim ispitivanjem vještaka, obnovit će se vještačenje s istim ili drugim vještacima.
+Od svjedoka se može zatražiti obećanje da će iskazati istinu. Obećanje glasi: Svjestan značenja mojeg iskaza i pravne odgovornosti, obećajem svečano da ću iskazati potpunu istinu i samo istinu te da ništa neću prešutjeti od onoga što mi je poznato.

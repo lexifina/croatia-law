@@ -1,3 +1,4 @@
 # Članak 496.
-(1) Ako u članku 491. do 498. ovoga Zakona nije drukčije određeno, na postupak o reviziji i na postupak o žalbi protiv odluke županijskog suda o reviziji primijenit će se odredbe ovoga Zakona koje se odnose na odlučivanje vijeća u sjednici povodom žalbe na presudu.
-(2) O troškovima revizijskog postupka sud će odlučiti sukladno odredbi članka 125. ovoga Zakona.
+(1) Ako zahtjev za naknadu štete ne bude prihvaćen ili o njemu ne bude odlučeno u roku od tri mjeseca od podnošenja zahtjeva, oštećenik može kod nadležnog suda podnijeti tužbu za naknadu štete. Ako je postignuta nagodba samo o dijelu zahtjeva, oštećenik može tužbu podnijeti glede ostatka zahtjeva.
+(2) Dok traje postupak iz stavka 1. ovog članka, ne teče zastara predviđena u članku 495. stavku 1. ovoga Zakona.
+(3) Tužba za naknadu štete podnosi se protiv Republike Hrvatske.

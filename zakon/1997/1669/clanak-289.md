@@ -1,4 +1,4 @@
 # Članak 289.
-(1) Ako se sazna da neki svjedok ili vještak koji je pozvan na glavnu raspravu, a još nije ispitan, neće moći doći na glavnu raspravu zbog dugotrajne bolesti ili zbog drugih smetnji, može se ispitati u mjestu gdje se nalazi.
-(2) Svjedoka, odnosno vještaka ispitat će, a prema potrebi i prisegnuti, predsjednik vijeća ili sudac član vijeća ili će se njegovo ispitivanje obaviti preko istražnog suca suda na čijem se području svjedok, odnosno vještak nalazi.
-(3) O vremenu i mjestu ispitivanja izvijestit će se stranke i oštećenik, ako je s obzirom na hitnost postupka to moguće. Ako je optuženik u pritvoru, o potrebi njegove nazočnosti na ispitivanju odlučuje predsjednik vijeća. Kad su stranke i oštećenik nazočni ispitivanju, imaju prava iz članka 198. stavka 7. ovoga Zakona.
+(1) Okrivljenik ima pravo podnijeti prigovor protiv optužnice u roku od osam dana od dana dostave. Pri uručenju optužnice sud će okrivljenika poučiti o tome njegovu pravu.
+(2) Prigovor protiv optužnice može podnijeti i branitelj bez posebne okrivljenikove ovlasti, ali ne i protiv njegove volje. Do donošenja odluke o prigovoru može se odustati od podnesenog prigovora.
+(3) Okrivljenik se može odreći prava na podnošenje prigovora protiv optužnice.

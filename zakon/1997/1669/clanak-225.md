@@ -1,10 +1,3 @@
 # Članak 225.
-(1) Kad se okrivljenik prvi put ispituje, pitat će se za ime i prezime, nadimak ako ga ima, ime i prezime roditelja, djevojačko obiteljsko ime majke, gdje je rođen, gdje stanuje, dan, mjesec i godinu rođenja, koje je narodnosti i čiji je državljanin, čime se zanima, kakve su mu obiteljske prilike, zna li pisati, kakve je škole završio, je li, gdje i kada služio vojsku, odnosno ima li čin časnika ili vojnog službenika, vodi li se u vojnoj evidenciji i gdje, je li odlikovan, kakva je imovna stanja, je li, kad i zašto osuđivan, je li i kad izrečenu kaznu izdržao, vodi li se protiv njega postupak za koje drugo kazneno djelo, a ako je maloljetan, tko mu je zakonski zastupnik. Okrivljenik će se poučiti da je dužan odazvati se pozivu i odmah priopćiti svaku promjenu adrese ili namjeru da promijeni boravište, a upozorit će se i na posljedice ako prema tome ne postupi.
-(2) Zatim će se okrivljeniku priopćiti zašto se okrivljuje i koji su osnovi sumnje protiv njega, a upozorit će se da nije dužan iznijeti svoju obranu niti odgovarati na pitanja kao i na pravo da uzme branitelja po svom izboru, koji može biti nazočan ispitivanju. Nakon toga pozvat će se da iznese svoju obranu, prije čijeg iznošenja ima pravo posavjetovati se s braniteljem.
-(3) Okrivljenik se ispituje usmeno. Pri ispitivanju mu se može dopustiti da se služi svojim zabilješkama.
-(4) Pri ispitivanju treba okrivljeniku omogućiti da se u neometanom izlaganju očituje o svim okolnostima koje ga terete i da iznese sve činjenice koje mu služe za obranu.
-(5) Kad okrivljenik završi iskaz, postavit će mu se pitanja ako je potrebno da se popune praznine ili otklone proturječnosti i nejasnoće u njegovu izlaganju.
-(6) Ispitivanje treba obavljati tako da se u potpunosti poštuje ličnost okrivljenika.
-(7) Prema okrivljeniku se ne smije upotrijebiti sila, prijetnja ili druga slična sredstva da bi se došlo do njegove izjave ili priznanja.
-(8) Okrivljenik može biti ispitan i bez branitelja samo ako se izričito odrekao tog prava, a obrana nije obvezna.
-(9) Ako je postupljeno suprotno odredbama stavka 2., 7. i 8. ovoga članka ili ako izjave okrivljenika o korištenju prava da uzme branitelja nisu ubilježene u zapisnik, na iskazu okrivljenika ne može se temeljiti sudska odluka.
+(1) Kod pretrage stana pretražuje se jedna ili više prostorija koje osoba koristi kao svoj dom, te prostorije koje su s tim prostorom povezane istom svrhom korištenja.
+(2) Odredbe o pretrazi drugih prostorija ne odnose se na prirodne, javne i napuštene prostore.

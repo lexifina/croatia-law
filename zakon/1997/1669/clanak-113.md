@@ -1,2 +1,3 @@
 # Članak 113.
-Pritvorenici se smještaju u prostorije odgovarajuće veličine koje udovoljavaju potrebnim zdravstvenim uvjetima. U istu prostoriju ne smiju biti smještene osobe različita spola. U pravilu, pritvorenici se neće smjestiti u istu prostoriju s osobama koje izdržavaju kaznu zatvora. Pritvorenik se neće smjestiti zajedno s osobama koje bi na njega mogle štetno djelovati, ili s osobama s kojima bi druženje moglo štetno utjecati na vođenje postupka.
+(1) Pritvor određen prema članku 105. stavku 1. točki 2. ovoga Zakona ukinut će se čim budu prikupljeni, odnosno izvedeni dokazi zbog čijeg je osiguranja pritvor određen, a najkasnije do završetka glavne rasprave.
+(2) Pritvor određen prema članku 105. stavku 3. ovoga Zakona može trajati najdulje mjesec dana.

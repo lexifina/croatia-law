@@ -1,5 +1,3 @@
 # Članak 151.
-(1) Vojnim osobama, pripadnicima redarstvene vlasti i pripadnicima pravosudne policije poziv se dostavlja preko njihova zapovjedništva, odnosno neposrednog zapovjednika, a prema potrebi mogu im se na taj način dostavljati i ostali dopisi.
-(2) Osobama kojima je oduzeta sloboda poziv se dostavlja u sudu ili preko uprave ustanove u kojoj su smještene.
-(3) Osobama koje u Republici Hrvatskoj imaju pravo imuniteta po međunarodnom pravu poziv se dostavlja preko Ministarstva vanjskih poslova, ako međunarodnim ugovorima nije što drugo predviđeno.
-(4) Poziv državljanima Republike Hrvatske u stranoj državi, ako se ne primjenjuje postupak propisan odredbama o međunarodnoj pravnoj pomoći u kaznenim stvarima, dostavlja se posredovanjem diplomatskog ili konzularnog poslanstva Republike Hrvatske u stranoj državi, uz uvjet da se strana država ne protivi takvu načinu dostave i uz privolu primatelja poziva. Ovlašteni djelatnik diplomatskog ili konzularnog poslanstva potpisuje dostavnicu kao dostavljač, ako je poziv uručen u samom poslanstvu, a ako je poziv dostavljen poštom, to potvrđuje na dostavnici.
+(1) Vijećanje i glasovanje obavljaju se u nejavnom zasjedanju.
+(2) U prostoriji u kojoj se obavlja vijećanje i glasovanje mogu biti nazočni samo članovi vijeća i zapisničar.

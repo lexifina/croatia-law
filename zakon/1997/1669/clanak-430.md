@@ -1,5 +1,3 @@
-## D. Posebne odredbe za postupak pred općinskim sudom
-## Glava XXV.
-## SKRAĆENI POSTUPAK
 # Članak 430.
-U postupku pred općinskim sudom za kaznena djela za koja je kao glavna kazna propisana novčana kazna ili zatvor do tri godine primjenjivat će se odredbe članka 431. do 445. ovoga Zakona, a ako u tim odredbama nije što posebno propisano, primjenjivat će se ostale odredbe ovoga Zakona.
+Odredbe ove glave o obnovi kaznenog postupka će se uporabiti i u slučaju kada je podnesen zahtjev za izmjenu pravomoćne sudske odluke na temelju odluke Ustavnog suda Republike Hrvatske kojom je poništen ili ukinut propis na temelju kojeg je bila donesena pravomoćna osuda ili na temelju odluke Europskog suda za ljudska prava koja se odnosi na neki razlog za obnovu kaznenog postupka ili izvanredno preispitivanje pravomoćne presude.
+2. Izvanredno ublažavanje kazne

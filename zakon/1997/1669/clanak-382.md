@@ -1,2 +1,11 @@
 # Članak 382.
-Žalba zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja ili zbog povrede kaznenog zakona podnesena u korist optuženika sadrži u sebi i žalbu zbog odluke o kaznenoj sankciji, i oduzimanju imovinske koristi.
+(1) Žalba treba sadržavati:
+1) oznaku presude protiv koje se podnosi,
+2) osnove za pobijanje presude (članak 383.),
+3) obrazloženje žalbe,
+4) prijedlog da se pobijana presuda potpuno ili djelomično ukine ili preinači,
+5) potpis osobe koja podnosi žalbu.
+(2) Ako je žalbu podnio optuženik ili druga osoba iz članka 380. stavka 2. ovoga Zakona, a optuženik nema branitelja, ili ako je žalbu podnio oštećenik, oštećenik kao tužitelj ili privatni tužitelj koji nema opunomoćenika, a žalba nije sastavljena sukladno odredbama stavka 1. ovoga članka, prvostupanjski sud pozvat će žalitelja da u određenom roku dopuni žalbu pisanim podneskom ili na zapisnik kod toga suda. Ako se žalitelj tom pozivu ne odazove, sud će odbaciti žalbu ako ne sadrži podatke iz točke 2., 3. i 5. stavka 1. ovoga članka, a ako žalba ne sadrži podatak iz točke 1. stavka 1. ovoga članka, odbacit će se ako se ne može utvrditi na koju se presudu odnosi. Ako je žalba podnesena u korist optuženika, sud će je dostaviti drugostupanjskom sudu ako se može utvrditi na koju se presudu odnosi, a ako se to ne može utvrditi, sud će žalbu odbaciti.
+(3) Ako je žalbu podnio oštećenik, oštećenik kao tužitelj ili privatni tužitelj koji ima opunomoćenika ili državni odvjetnik, a žalba ne sadrži podatke iz stavka 1. točke 2., 3. i 5. ovoga članka ili ako žalba ne sadrži podatak iz točke 1. stavka 1. ovoga članka a ne može se utvrditi na koju se presudu odnosi, sud će žalbu odbaciti. Žalbu s tim nedostacima podnesenu u korist optuženika koji ima branitelja sud će dostaviti drugostupanjskom sudu ako se može utvrditi na koju se presudu odnosi, a ako se to ne može utvrditi, sud će žalbu odbaciti.
+(4) U žalbi se mogu iznositi nove činjenice i novi dokazi, ali žalitelj je dužan navesti razloge zašto ih prije nije iznio. Optuženik koji je u cijelosti priznao osnovanost svih točaka optužbe može u žalbi iznijeti samo one nove činjenice i nove dokaze koji su važni za odluku o kazni. Pozivajući se na nove činjenice, žalitelj je dužan navesti dokaze kojima bi se te činjenice imale dokazati, a pozivajući se na nove dokaze, dužan je navesti činjenice koje tim dokazima želi dokazati.
+c) Osnove zbog kojih se presuda može pobijati

@@ -1,5 +1,5 @@
 # Članak 93.
-(1) Protiv okrivljenika će se, unatoč danom jamstvu, odrediti pritvor ako na uredan poziv ne dođe, a izostanak ne opravda, ako se sprema pobjeći ili ako postoji neka druga zakonska osnova da se protiv njega odredi pritvor.
-(2) U slučaju iz stavka 1. ovoga članka jamstvo se ukida. Položena jamčevina, dragocjenosti, vrijednosni papiri ili druge pokretnine vraćaju se, a hipoteka skida. Na isti se način postupa i kad kazneni postupak pravomoćno završi rješenjem o obustavi postupka ili presudom.
-(3) Ako je presudom izrečena kazna zatvora, jamstvo može trajati do stupanja osuđenika na izdržavanje kazne.
-6. Uhićenje
+(1) Sud može u svako doba naložiti provjeru izvršavanja mjere opreza i zatražiti izvješće od redarstvene vlasti ili drugog tijela koje izvršava mjeru opreza. Tijelo koje izvršava mjeru opreza hitno će provesti naložene provjere i odmah o tome obavijestiti sud.
+(2) O postupanju okrivljenika protivno zabrani ili neispunjavanju obveze naložene mjerom opreza, tijelo koje izvršava mjeru opreza odmah obavještava sud.
+(3) Osobi različitoj od okrivljenika sud može posebnim rješenjem zabraniti aktivnosti kojima se narušavaju mjere opreza prema okrivljeniku. Ako ta osoba, postupi protivno rješenju, kaznit će se novčanom kaznom do 20.000,00 kuna.
+5. Jamstvo

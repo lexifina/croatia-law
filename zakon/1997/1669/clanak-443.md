@@ -1,5 +1,2 @@
 # Članak 443.
-(1) Prije zakazivanja glavne rasprave za kaznena djela iz nadležnosti suca pojedinca za koja se progoni po privatnoj tužbi sudac pojedinac može pozvati samo privatnog tužitelja i okrivljenika na ročište radi prethodnog razjašnjenja stvari, ako smatra da bi to bilo korisno za brži završetak postupka. Okrivljeniku se uz poziv dostavlja i prijepis privatne tužbe.
-(2) Ako ne dođe do izmirenja stranaka i povlačenja privatne tužbe, sudac će uzeti izjave od stranaka i pozvati ih da stave svoje prijedloge glede pribavljanja dokaza.
-(3) Ako sudac pojedinac ne utvrdi da postoje uvjeti za odbacivanje tužbe, donijet će odluku o tome koji će se dokazi izvesti na glavnoj raspravi i zakazat će, u pravilu, odmah glavnu raspravu te priopćiti to strankama.
-(4) Ako sudac pojedinac smatra da nije potrebno pribavljanje dokaza, a ne postoje neki drugi razlozi za posebno zakazivanje glavne rasprave, može odmah otvoriti glavnu raspravu i nakon izvođenja dokaza koji se nalaze pred sudom donijeti odluku u povodu privatne tužbe. Na to će se posebno upozoriti privatni tužitelj i okrivljenik pri dostavi poziva.
+O zahtjevu za izvanredno preispitivanje pravomoćne presude odlučuje Vrhovni sud Republike Hrvatske.

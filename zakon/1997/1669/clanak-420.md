@@ -1,4 +1,2 @@
 # Članak 420.
-(1) Pri odlučivanju o zahtjevu za zaštitu zakonitosti sud će se ograničiti samo na ispitivanje povreda zakona na koje se poziva državni odvjetnik Republike Hrvatske.
-(2) Ako sud ustanovi da razlozi iz kojih je donio odluku u korist osuđenika postoje i za kojeg od suoptuženika glede kojeg nije podignut zahtjev za zaštitu zakonitosti, postupit će se po službenoj dužnosti kao da takav zahtjev postoji.
-(3) Ako je zahtjev za zaštitu zakonitosti podignut u korist osuđenika, sud je pri donošenju odluke vezan zabranom propisanom u članku 381. ovoga Zakona.
+Ako je zahtjev za provođenje istrage pravomoćno odbačen, odnosno odbijen zato što nije bilo zahtjeva ovlaštenog tužitelja ili što nije bilo potrebnog prijedloga za progon ili odobrenja, ili je iz istih razloga kazneni postupak rješenjem pravomoćno obustavljen, ili je optužba odbačena ili je presudom optužba pravomoćno odbijena, ili ako je postupak rješenjem pravomoćno obustavljen zbog toga što je počinitelj nakon počinjenog kaznenog djela obolio od kakve trajne duševne bolesti, postupak će se na zahtjev ovlaštenog tužitelja nastaviti čim prestanu uzroci zbog kojih su donesene navedene odluke.

@@ -1,6 +1,5 @@
 # Članak 428.
-(1) Zahtjev za izvanredno preispitivanje pravomoćne presude mogu podnijeti osuđenik i branitelj.
-(2) Zahtjev za izvanredno preispitivanje pravomoćne presude podnosi se prvostupanjskom sudu.
-(3) Zahtjev koji je podnesen nepravodobno ili ga je podnijela neovlaštena osoba ili je podnesen u slučaju osude na kaznu ili mjeru zbog koje se zahtjev ne može podnijeti (članak 425. stavak 1.) ili po zakonu nije dopušten (članak 425. stavak 3. i 4.), odbacit će rješenjem predsjednik vijeća prvostupanjskog suda ili Vrhovni sud Republike Hrvatske.
-(4) Vrhovni sud Republike Hrvatske dostavit će primjerak zahtjeva sa spisima državnom odvjetniku Republike Hrvatske, koji može u roku od petnaest dana od dana primitka zahtjeva podnijeti odgovor na zahtjev.
-(5) Prvostupanjski sud ili Vrhovni sud Republike Hrvatske može, s obzirom na sadržaj zahtjeva, riješiti da se odgodi, odnosno prekine izvršenje pravomoćne presude. Žalba protiv takva rješenja prvostupanjskog suda ne odgađa njegovo izvršenje.
+(1) Za novi postupak koji se vodi na temelju rješenja kojim je dopuštena obnova kaznenog postupka važe iste odredbe kao i za prvi postupak. U novom postupku sud nije vezan za rješenja donesena u prijašenjem postupku.
+(2) Ako se novi postupak obustavi do početka glavne rasprave, sud će rješenjem o obustavi postupka ukinuti i prijašnju presudu.
+(3) Kad sud u novom postupku donese presudu, izreći će da se prijašnja presuda djelomično ili u cijelosti stavlja izvan snage ili da se ostavlja na snazi. U kaznu koju odredi novom presudom sud će optuženiku uračunati izdržanu kaznu, a ako je obnova određena samo za neko od djela za koja je osuđenik bio osuđen, sud će izreći novu jedinstvenu kaznu prema odredbama Kaznenog zakona.
+(4) Sud je u novom postupku uvijek vezan zabranom propisanom u članku 398. ovoga Zakona.

@@ -1,6 +1,3 @@
 # Članak 97.
-(1) Redarstvene vlasti moraju uhićenika odmah, a najkasnije u roku od dvadesetčetiri sata dovesti istražnom sucu ili ga pustiti na slobodu. Zakašnjenje moraju posebno obrazložiti.
-(2) Kad je neka osoba spriječena u bijegu prema odredbi članka 95. stavka 1. ovoga Zakona, nju će se odmah dovesti istražnom sucu ili redarstvenim vlastima koje će postupiti prema stavku 1. ovoga članka, a ako to nije moguće, o tome će se izvijestiti jedno od tih tijela.
-(3) Prilikom dovođenja uhićenika istražnom sucu podnijet će se pisana obavijest o razlozima i vremenu uhićenja. Takva se obavijest može usmeno predati na zapisnik.
-(4) Istražni će sudac uhićenika koji mu je doveden odmah upozoriti u smislu odredbe članka 6. ovoga Zakona, a po potrebi i pomoći mu da uzme branitelja. Upozorenje i izjava uhićenika unosi se u zapisnik. Ako uhićenik izjavi da neće uzeti branitelja ili u roku od dvadesetčetiri sata od primljenog upozorenja ne uzme branitelja, istražni će sudac uhićenika ispitati i odlučiti o njegovu puštanju na slobodu. U slučaju kad je obrana prema ovom Zakonu obvezatna, istražni će sudac uhićeniku koji nije uzeo branitelja prije ispitivanja odrediti branitelja po službenoj dužnosti.
-7. Zadržavanje
+(1) Svatko smije spriječiti bijeg osobe zatečene u kaznenom djelu za koje se progoni po službenoj dužnosti.
+(2) Zatečena u kaznenom djelu je osoba koju netko opazi u radnji kaznenog djela, odnosno osoba koja je neposredno nakon kaznenog djela zatečena pod okolnostima koje upućuju na to da je upravo ona počinila kazneno djelo.

@@ -1,12 +1,2 @@
 # Članak 355.
-(1) U presudi u kojoj se optuženik proglašava krivim sud će izreći:
-1) za koje se djelo proglašava krivim, uz naznaku činjenica i okolnosti koje čine obilježja kaznenog djela te onih o kojima ovisi primjena određene odredbe kaznenog zakona,
-2) zakonski naziv i opis kaznenog djela i koje su odredbe kaznenog zakona primijenjene,
-3) na kakvu se kaznu osuđuje optuženik ili se prema odredbama kaznenog zakona oslobađa kazne ili mu se kazna zatvora zamjenjuje radom za opće dobro na slobodi,
-4) odluku o uvjetnoj osudi,
-5) odluku o sigurnosnim mjerama i o oduzimanju imovinske koristi,
-6) odluku o uračunavanju pritvora ili već izdržane kazne,
-7) odluku o troškovima kaznenog postupka, o imovinskopravnom zahtjevu te o tome da se pravomoćna presuda ima objaviti u sredstvima javnog priopćavanja.
-(2) Ako je optuženik osuđen na novčanu kaznu, u presudi će se naznačiti rok u kojem se novčana kazna ima platiti kao i visina dnevnog prihoda i ukupan broj dnevnih prihoda.
-(3) Kad sud izrekne kaznu zatvora, može se optuženik koji se nalazi u pritvoru rješenjem predsjednika vijeća uputiti na izdržavanje te kazne i prije pravomoćnosti presude ako on to zahtijeva.
-3. Objava presude
+Vijeće može iznimno odlučiti da se optuženik privremeno udalji iz sudnice ako suoptuženik ili svjedok odbija dati iskaz u njegovoj nazočnosti ili ako okolnosti pokazuju da u njegovoj nazočnosti neće govoriti istinu. Nakon povratka optuženika u zasjedanje pročitat će mu se iskaz suoptuženika, odnosno svjedoka. Optuženik ima pravo postavljati pitanja suoptuženiku, odnosno svjedoku, a predsjednik vijeća upitat će ga ima li što primijetiti na njihov iskaz. Prema potrebi može se obaviti suočenje.

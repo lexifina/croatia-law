@@ -1,4 +1,3 @@
 # Članak 369.
-(1) Presuda se može pobijati zbog pogrešno ili nepotpuno utvrđenoga činjeničnog stanja.
-(2) Pogrešno utvrđeno činjenično stanje postoji ako je sud kakvu odlučnu činjenicu pogrešno utvrdio, odnosno kad sadržaj isprava, zapisnika o izvedenim dokazima ili tehničkih snimki ozbiljno dovodi u sumnju pravilnost ili pouzdanost utvrđenja odlučne činjenice.
-(3) Nepotpuno utvrđeno činjenično stanje postoji ako sud kakvu odlučnu činjenicu nije utvrdio.
+(1) Presudom se optužba odbija ili se optuženik oslobađa optužbe ili se proglašava krivim.
+(2) Ako optužba obuhvaća više kaznenih djela, u presudi će se izreći da li se i za koje djelo optužba odbija ili se optuženik oslobađa optužbe ili se proglašava krivim.

@@ -1,4 +1,5 @@
 # Članak 325.
-(1) Prije ispitivanja vještaka predsjednik vijeća upozorit će ga na dužnost da nalaz i mišljenje dade po najboljem znanju i upozoriti ga da je davanje lažnog nalaza i mišljenja kazneno djelo.
-(2) Vijeće može odlučiti da vještak prije vještačenja dade obećanje da će iskazati istinu. Obećanje se daje na način koji odgovara načinu obećanja svjedoka da će iskazati istinu (članak 242.). Stalno prisegnuti postavljeni vještak samo će se upozoriti na položenu prisegu.
-(3) Vještak izlaže usmeno na glavnoj raspravi svoj nalaz i mišljenje. Ako je vještak prije glavne rasprave pripremio pisano svoj nalaz i mišljenje, može mu se dopustiti da ga pročita, u kojem će se slučaju njegov pisani sastav priložiti zapisniku.
+(1) Ako svjedok ili vještak unatoč urednom pozivu neopravdano izostane, vijeće može naložiti da se odmah prisilno dovede.
+(2) Glavna rasprava može početi i bez nazočnosti pozvanog svjedoka ili vještaka. U tom će slučaju vijeće tijekom glavne rasprave odlučiti treba li zbog odsutnosti svjedoka ili vještaka glavnu raspravu prekinuti ili odgoditi.
+(3) Svjedoka ili vještaka koji je uredno pozvan, a izostanak nije opravdao, vijeće može kazniti novčanom kaznom do 20.000,00 kuna, a može naložiti da se na novu glavnu raspravu dovede prisilno. Vijeće može u opravdanom slučaju opozvati odluku o kazni.
+4. Odgoda i prekid glavne rasprave

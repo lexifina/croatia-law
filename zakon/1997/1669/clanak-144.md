@@ -1,5 +1,3 @@
-## Glava XIII.
-## DOSTAVA ODLUKA, PODNESAKA I DOPISA TE RAZGLEDANJE SPISA
 # Članak 144.
-(1) Odluke, podnesci i drugi dopisi dostavljaju se u pravilu poštom. Dostava se može obavljati i preko službene osobe tijela koje je odluku donijelo ili neposredno kod tog tijela.
-(2) Poziv za glavnu raspravu ili druge pozive sud može i usmeno dati osobi koja se nalazi pred sudom, uz pouku o posljedicama nedolaska. Poziv predan na taj način zabilježit će se u zapisniku, koji će pozvana osoba potpisati, osim ako je taj poziv zabilježen u zapisniku o glavnoj raspravi. Smatra se da je time dostava postala pravovaljanom.
+(1) Ako oštećenik ima zahtjev prema trećoj osobi zato što se kod nje nalaze stvari pribavljene kaznenim djelom ili zato što je ona zbog kaznenog djela došla do imovinske koristi, može sud u kaznenom postupku, na prijedlog ovlaštenih osoba (članak 134.), a prema odredbama koje vrijede za ovršni postupak, odrediti privremene mjere osiguranja i prema toj trećoj osobi. Odredbe članka 142. stavka 2. ovoga Zakona vrijede i u tom slučaju.
+(2) U presudi kojom se okrivljenik proglašava krivim sud će ili ukinuti mjere iz stavka 1. ovoga članka, ako već prije toga nisu ukinute, ili će oštećenika uputiti na parnicu, s tim da će se te mjere ukinuti ako parnica ne bude pokrenuta u roku koji odredi sud.

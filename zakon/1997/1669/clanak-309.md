@@ -1,4 +1,4 @@
 # Članak 309.
-(1) Izvan slučajeva posebice predviđenih u ovom Zakonu glavna rasprava odgodit će se rješenjem vijeća ako treba pribaviti nove dokaze, ili ako se u tijeku rasprave utvrdi da je kod optuženika nakon počinjenoga kaznenog djela nastupila privremena duševna bolest ili poremećenost ili ako postoje druge smetnje da se glavna rasprava uspješno provede. Rješenje o odgodi glavne rasprave doneseno zbog toga što je kod optuženika nakon počinjenja kaznenog djela nastupila privremena duševna bolest ili privremena duševna poremećenost dostavit će se po potrebi sudu nadležnom za postupak prema odredbama Zakona o zaštiti osoba s duševnim smetnjama.
-(2) U rješenju kojim se odgađa glavna rasprava odredit će se, kad je to moguće, dan i sat kad će se glavna rasprava nastaviti. Istim rješenjem vijeće može odrediti da se prikupe dokazi koji bi se s vremenom mogli izgubiti.
-(3) Protiv rješenja iz stavka 2. ovoga člana nije dopuštena žalba.
+(1) Glavna rasprava jest javna.
+(2) Glavnoj raspravi mogu biti nazočne punoljetne osobe.
+(3) Osobe koje budu na glavnoj raspravi ne smiju nositi oružje ili opasno oruđe, osim čuvara okrivljenika koji može biti naoružan.

@@ -1,3 +1,3 @@
 # Članak 453.
-(1) Presuda sa sudskom opomenom može se pobijati zbog razloga navedenih u članku 366. točki 1. do 3. ovoga Zakona, a i zbog toga što nisu postojale okolnosti koje opravdavaju izricanje sudske opomene.
-(2) Ako presuda sa sudskom opomenom sadrži odluku o sigurnosnim mjerama, o troškovima kaznenog postupka, o oduzimanju imovinske koristi ili o imovinskopravnom zahtjevu, ta se odluka može pobijati zato što sud nije pravilno primijenio sigurnosnu mjeru ili oduzimanje imovinske koristi, odnosno što je odluku o troškovima kaznenog postupka ili imovinskopravnom zahtjevu donio protivno zakonskim odredbama.
+(1) Ako sudac (predsjednik vijeća, odnosno sudac pojedinac) utvrdi da je za suđenje nadležan drugi sud, ustupit će predmet nakon pravomoćnosti rješenja tom sudu, a ako ustanovi da je za suđenje nadležan viši sud, ustupit će predmet na daljnji postupak državnom odvjetniku koji postupa pred višim sudom. Ako državni odvjetnik smatra da je za suđenje nadležan sud koji mu je dostavio predmet, zatražit će odluku vijeća suda pred kojim postupa.
+(2) Nakon zakazivanja glavne rasprave sud se ne može po službenoj dužnosti proglasiti mjesno nenadležnim

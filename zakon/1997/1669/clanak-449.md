@@ -1,6 +1,4 @@
 # Članak 449.
-(1) Kazneni nalog dostavlja se okrivljeniku i njegovu branitelju ako ga ima te državnom odvjetniku.
-(2) Okrivljenik ili njegov branitelj može u roku od osam dana po primitku podnijeti prigovor protiv kaznenog naloga u pisanom obliku ili usmeno na zapisnik kod suda. Prigovor ne mora biti obrazložen, u njemu se mogu predložiti dokazi u korist obrane. Optuženik se može odreći prava na prigovor, ali od podnesenog prigovora nakon zakazane glavne rasprave ne može odustati. Platež novčane kazne prije isteka roka za prigovor ne smatra se odricanjem od prava na prigovor.
-(3) Okrivljeniku koji iz opravdanih razloga propusti rok za podnošenje prigovora predsjednik vijeća dopustit će povrat u prijašnje stanje. Na odlučivanje o molbi za povrat u prijašnje stanje primijeniti će se odredbe članka 84. i 85. ovoga Zakona.
-(4) Ako sudac pojedinac ne odbaci prigovor kao nepravodoban ili podnesen od neovlaštene osobe, zakazat će glavnu raspravu o optužnom prijedlogu državnog odvjetnika i dalje postupati po odredbama članka 438. do 442. ovoga Zakona.
-(5) O žalbi protiv rješenja o odbačaju prigovora protiv kaznenog naloga odlučuje sudsko vijeće (članak 20. stavak 2.).
+(1) Prije podnošenja optužnog prijedloga tužitelj može predložiti istražnom sucu da poduzme određene istražne radnje. Ako se istražni sudac složi s tim prijedlogom, poduzet će istražne radnje, a nakon toga zapisnike dostaviti tužitelju. Istražne radnje provode se što je moguće brže.
+(2) Ako se istražni sudac ne složi s prijedlogom za poduzimanje istražnih radnji, zatražit će odluku vijeća županijskog suda (članak 20. stavak 2.).
+(3) Kad u slučajevima iz stavka 1. i 2. ovoga članka državni odvjetnik primi zapisnike, odnosno spise može odlučiti da podnese optužni prijedlog ili donijeti rješenje o odbačaju kaznene prijave.

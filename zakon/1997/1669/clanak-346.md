@@ -1,5 +1,7 @@
 # Članak 346.
-(1) Branitelj ili sam optuženik izložit će u svojem govoru obranu i može se osvrnuti na navode tužitelja i oštećenika.
-(2) Poslije branitelja optuženik ima pravo sam govoriti, očitovati se o tome prihvaća li obranu branitelja i dopuniti je.
-(3) Tužitelj i oštećenik imaju pravo odgovoriti na obranu, a branitelj, odnosno optuženik osvrnuti se na te odgovore.
-(4) Posljednja riječ pripada uvijek optuženiku.
+(1) Ako se na glavnoj raspravi sazna da svjedok ili vještak ne može doći pred sud ili mu je dolazak znatno otežan, vijeće može, ako smatra da je njegov iskaz važan, naložiti da ga izvan glavne rasprave ispita predsjednik vijeća ili sudac član vijeća, ili da se ispitivanje obavi preko istražnog suca na čijem se području svjedok, odnosno vještak nalazi.
+(2) Na način iz stavka 1. ovoga članka vijeće može postupiti ako se kao svjedok ispituje maloljetna osoba (članak 248. stavak 5.) ili svjedoci iz članka 248. stavka 6. ovoga Zakona. Na ispitivanje tih svjedoka na odgovarajući način se primjenjuju odredbe o posebnom načinu ispitivanja svjedoka iz članka 248. stavka 4. i 6. ovoga Zakona.
+(3) Ako se kao svjedoka na glavnoj raspravi treba ispitati dijete oštećeno kaznenim djelom vijeće može odlučiti da ga izvan glavne rasprave ispita predsjednik vijeća. Ispitivanje djeteta uvijek će se obaviti uz odgovarajuću primjenu članka 248. stavka 5. ovoga Zakona.
+(4) Na ispitivanje ugroženog svjedoka (članak 249. stavak 1.) na odgovarajući način se primjenjuju odredbe članka 249. do 253. ovoga Zakona. Protiv odluke vijeća o prihvaćanju prijedloga državnog odvjetnika za ispitivanje ugroženog svjedoka dopuštena je posebna žalba.
+(5) Ako je potrebno obaviti očevid ili rekonstrukciju izvan glavne rasprave, vijeće može odlučiti da te radnje obavi predsjednik vijeća ili sudac član vijeća.
+(6) Stranke i oštećenik izvijestit će se uvijek kad će se i na kojem mjestu ispitati svjedok, odnosno obaviti očevid ili rekonstrukcija, s upozorenjem da mogu biti nazočni tim radnjama osim ako što drugo nije propisano ovim Zakonom. Ako je optuženik u pritvoru, o potrebi njegove nazočnosti tim radnjama odlučuje vijeće. Kad su stranke i oštećenik nazočni izvođenju tih radnji, imaju prava predviđena u članku 211. ovoga Zakona.

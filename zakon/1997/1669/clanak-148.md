@@ -1,4 +1,5 @@
+## Glava XIII.
+## DONOŠENJE I PROGLAŠAVANJE ODLUKA
 # Članak 148.
-(1) Poziv za glavnu raspravu i drugi pozivi dostavljaju se privatnom tužitelju i oštećeniku kao tužitelju, odnosno njihovu zakonskom zastupniku osobno (članak 145.), a njihovim opunomoćenicima prema članku 146. ovoga Zakona. Na isti način dostavljaju im se i odluke za koje od dana dostave teče žalbeni rok te žalba protivne stranke koja se dostavlja radi odgovora.
-(2) Ako se osobama iz stavka 1. ovoga članka ili oštećeniku poziv, odluka ili žalba ne može dostaviti na dosadašnju adresu, sud će poziv, odnosno odluku ili žalbu istaknuti na oglasnu ploču suda, i protekom roka od petnaest dana od dana isticanja smatra se da je dostava postala pravovaljanom.
-(3) Ako oštećenik, oštećenik kao tužitelj ili privatni tužitelj ima zakonskog zastupnika ili opunomoćenika, dostava će se obaviti njemu, a ako ih ima više, samo jednom od njih.
+(1) U kaznenom postupku odluke se donose u obliku presude, rješenja i naloga.
+(2) Presudu donosi samo sud, a rješenja i naloge donose i druga tijela koja sudjeluju u kaznenom postupku.

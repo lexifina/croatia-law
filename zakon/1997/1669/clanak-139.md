@@ -1,5 +1,2 @@
-## Glava XII.
-## DONOŠENJE I PROGLAŠAVANJE ODLUKA
 # Članak 139.
-(1) U kaznenom postupku odluke se donose u obliku presude, rješenja i naloga.
-(2) Presudu donosi samo sud, a rješenja i naloge donose i druga tijela koja sudjeluju u kaznenom postupku.
+Ako se imovinskopravni zahtjev odnosi na povrat stvari, a sud ustanovi da stvar pripada oštećeniku i da se nalazi kod okrivljenika ili kod kojeg od sudionika kaznenog djela ili kod osobe ili tijela kod kojeg se stvar nalazi, odredit će u presudi da se stvar preda oštećeniku.

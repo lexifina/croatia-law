@@ -1,7 +1,2 @@
 # Članak 416.
-(1) O zahtjevu za izvanredno ublažavanje kazne odlučuje Vrhovni sud Republike Hrvatske, osim u slučaju iz stavka 4. ovoga članka.
-(2) Zahtjev za izvanredno ublažavanje kazne podnosi se prvostupanjskom sudu.
-(3) Predsjednik vijeća prvostupanjskog suda odbacit će zahtjev koji je podnijela neovlaštena osoba.
-(4) Prvostupanjski sud izvidjet će postoje li razlozi za ublažavanje, pa će nakon ispitivanja državnog odvjetnika, ako se postupak vodio na njegov zahtjev, spise sa svojim obrazloženim prijedlogom dostaviti sudu nadležnom za odlučivanje o zahtjevu za izvanredno ublažavanje kazne. Ako prvostupanjski sud, nakon provedenih izvida, ustanovi da postoje okolnosti koje opravdavaju novu odluku o visini dnevnih prihoda novčane kazne, primijenit će se odredbe članka 402. ovoga Zakona i preinačiti pravomoćna presuda u tom dijelu odluke o kazni. Protiv presude prvostupanjskog suda dopuštena je žalba Vrhovnom sudu Republike Hrvatske.
-(5) Ako je u pitanju kazneno djelo za koje se postupak vodio na zahtjev državnog odvjetnika, sud koji odlučuje o zahtjevu za izvanredno ublažavanje kazne prije donošenja rješenja dostavit će spise državnom odvjetniku Republike Hrvatske. On može staviti pisani prijedlog sudu.
-(6) Sud će zahtjev odbiti ako ustanovi da nije udovoljeno zakonskim uvjetima za izvanredno ublažavanje kazne. Ako zahtjev prihvati, sud će rješenjem preinačiti pravomoćnu presudu glede odluke o kazni.
+Na postupak o žalbi protiv rješenja će se primjenjivati odredbe članka 379., 381. stavka 3., članak 382. do 388., članak 390. stavka 1., 3. i 4. te članka 398. i 400. ovoga Zakona.

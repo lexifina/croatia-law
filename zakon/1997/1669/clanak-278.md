@@ -1,3 +1,3 @@
 # Članak 278.
-(1) Ako ne donese ni jedno rješenje iz članka 274., 275. i 276. ovoga Zakona, vijeće će odbiti prigovor kao neosnovan.
-(2) U istom rješenju vijeće će odlučiti i o prijedlozima za spajanje ili razdvajanje postupka.
+(1) Pri pregledu i obdukciji začetka treba posebno utvrditi njegovu starost, sposobnost za izvanmaternični život i uzrok umiranja.
+(2) Pri pregledu i obdukciji tijela novorođenčeta utvrdit će se posebno je li rođeno živo ili mrtvo, je li bilo sposobno za život, koliko je dugo živjelo te vrijeme i uzrok smrti.

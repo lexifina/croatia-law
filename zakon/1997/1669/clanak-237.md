@@ -1,4 +1,11 @@
 # Članak 237.
-(1) Svjedok se poziva dostavom pisanog poziva, u kojem će se navesti ime, prezime, zanimanje pozvanog, vrijeme i mjesto dolaska, kazneni predmet u svezi s kojim se poziva, naznaku da se poziva kao svjedok i upozorenje o posljedicama neopravdanog izostanka.
-(2) Pozivanje kao svjedoka maloljetne osobe koja nije navršila šesnaest godina obavlja se preko njezinih roditelja, odnosno zakonskog zastupnika, osim ako to nije moguće zbog potrebe da se hitno postupa ili zbog drugih okolnosti.
-(3) Svjedoci koji se zbog starosti, bolesti ili teških tjelesnih mana ne mogu odazvati pozivu mogu se ispitati u svojem stanu.
+(1) Kad se okrivljenik prvi put ispituje, pitat će se za ime i prezime, nadimak ako ga ima, ime i prezime roditelja, djevojačko obiteljsko ime majke, gdje je rođen, gdje stanuje, dan, mjesec i godinu rođenja, koje je narodnosti i čiji je državljanin, čime se zanima, kakve su mu obiteljske prilike, zna li pisati, kakve je škole završio, je li, gdje i kada služio vojsku, odnosno ima li čin časnika ili vojnog službenika, vodi li se u vojnoj evidenciji i gdje, je li odlikovan, kakva je imovna stanja, je li, kad i zašto osuđivan, je li i kad izrečenu kaznu izdržao, vodi li se protiv njega postupak za koje drugo kazneno djelo, a ako je maloljetan, tko mu je zakonski zastupnik. Okrivljenik će se poučiti da je dužan odazvati se pozivu i odmah priopćiti svaku promjenu adrese ili namjeru da promijeni boravište, a upozorit će se i na posljedice ako prema tome ne postupi.
+(2) Okrivljeniku će se priopćiti zašto se okrivljuje i koje su osnovne sumnje protiv njega, a upozorit će se da nije dužan iznijeti svoju obranu niti odgovarati na pitanja.
+(3) Zatim će se okrivljenika upozoriti na pravo da uzme branitelja po svom izboru ili da će mu se, pod uvjetima koje određuje ovaj Zakon, postaviti branitelj na teret proračunskih sredstava koji može biti nazočan ispitivanju.
+(4) Okrivljenik se ispituje usmeno. Pri ispitivanju mu se može dopustiti da se služi svojim zabilješkama.
+(5) Pri ispitivanju treba okrivljeniku omogućiti da se u neometanom izlaganju očituje o svim okolnostima koje ga terete i da iznese sve činjenice koje mu služe za obranu.
+(6) Kad okrivljenik završi iskaz, postavit će mu se pitanja ako je potrebno da se popune praznine ili otklone proturječnosti i nejasnoće u njegovu izlaganju.
+(7) Ispitivanje treba obavljati tako da se u potpunosti poštuje ličnost okrivljenika.
+(8) Prema okrivljeniku se ne smije upotrijebiti sila, prijetnja ili druga slična sredstva da bi se došlo do njegove izjave ili priznanja.
+(9) Okrivljenik može biti ispitan i bez branitelja samo ako se izričito odrekao tog prava, a obrana nije obvezna.
+(10) Ako je postupljeno suprotno odredbama stavka 2., 3., 8. i 9. ovoga članka ili ako izjave okrivljenika o korištenju prava da uzme branitelja nisu ubilježene u zapisnik, iskaz okrivljenika ne može se upotrijebiti kao dokaz u kaznenom postupku.

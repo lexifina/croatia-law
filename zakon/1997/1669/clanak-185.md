@@ -1,3 +1,3 @@
 # Članak 185.
-(1) Kad je počinitelj kaznenog djela nepoznat, državni odvjetnik može zatražiti da redarstvene vlasti poduzmu pojedine istražne radnje ako bi, s obzirom na okolnosti slučaja, bilo svrhovito da se i prije pokretanja istrage poduzmu takve radnje. Ako državni odvjetnik smatra da pojedine istražne radnje treba poduzeti istražni sudac, ili ako treba obaviti obdukciju ili ekshumaciju tijela, predložit će istražnom sucu da poduzme te radnje. Ako se istražni sudac ne složi s tim prijedlogom, zatražit će da o tome odluči vijeće (članak 20. stavak 2.).
-(2) Zapisnike o poduzetim istražnim radnjama istražni sudac dostavlja državnom odvjetniku.
+Glavni državni odvjetnik Republike Hrvatske može pod uvjetima i na način propisan posebnim zakonom rješenjem odbaciti kaznenu prijavu ili odustati od kaznenog progona tijekom kaznenog postupka protiv osobe koja je postala pripadnikom zločinačke organizacije ako je to, razmjerno težini počinjenih kaznenih djela i važnosti iskaza te osobe, važno za otkrivanje kaznenih djela i članova zločinačke organizacije.
+3. Izvidi kaznenih djela

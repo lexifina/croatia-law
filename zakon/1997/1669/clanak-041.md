@@ -1,5 +1,5 @@
 # Članak 41.
-(1) Odredbe o izuzeću suca i sudaca porotnika primjenjivat će se i na državne odvjetnike i osobe koje su na temelju Zakona o državnom odvjetništvu ovlaštene da državnog odvjetnika zastupaju u postupku, zapisničare, tumače i stručne osobe, a i na vještake, ako za njih nije što drugo određeno (članak 250.).
+(1) Odredbe o izuzeću suca i sudaca porotnika primjenjivat će se i na državne odvjetnike i osobe koje su na temelju Zakona o državnom odvjetništvu ovlaštene da državnog odvjetnika zastupaju u postupku, zapisničare, tumače i stručne osobe, a i na vještake, ako za njih nije što drugo određeno (članak 267.).
 (2) Državni odvjetnik odlučuje o izuzeću osoba koje su na temelju Zakona o državnom odvjetništvu ovlaštene da ga zastupaju u kaznenom postupku. O izuzeću državnog odvjetnika odlučuje neposredno viši državni odvjetnik. O izuzeću državnog odvjetnika Republike Hrvatske odlučuje kolegij svih zamjenika državnog odvjetnika Republike Hrvatske.
 (3) O izuzeću zapisničara, tumača, stručne osobe, vještaka i branitelja odlučuje vijeće, predsjednik vijeća ili sudac.
 (4) Kad redarstvene vlasti poduzimaju istražne radnje na temelju ovoga Zakona, o njihovu izuzeću odlučuje istražni sudac. Ako pri poduzimanju tih radnji sudjeluje zapisničar, o njegovu izuzeću odlučuje službena osoba koja poduzima radnju.

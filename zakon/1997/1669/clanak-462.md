@@ -1,5 +1,4 @@
 # Članak 462.
-(1) Odredbe ovoga Zakona o optužnici, optužnom prijedlogu, glavnoj raspravi i presudi primijenit će se i u postupku prema osobama koje su kazneno djelo počinile u stanju neubrojivosti, smanjene ubrojivosti ili pod djelovanjem ovisnosti o alkoholu ili drogama ako odredbama članka 456. do 461. ovoga Zakona nije propisano što drugo.
-(2) Odredbe o žalbi na rješenje o određivanju pritvora primijenit će se i glede žalbe na rješenje o zadržavanju u zdravstvenoj ustanovi iz članka 458. stavka 1. i 4. ovoga Zakona.
-(3) Odredbe ovoga Zakona o žalbi na presudu primijenit će se glede žalbe na presudu iz članka 460. stavka 1., 3. i 4., te glede presude i rješenja iz članka 460. stavka 2. ovoga Zakona.
-2. Postupak za oduzimanje imovinske koristi i za opoziv uvjetne osude
+(1) Prije zakazivanja glavne rasprave za kaznena djela iz nadležnosti suca pojedinca za koja se progoni po privatnoj tužbi sudac pojedinac može pozvati samo privatnog tužitelja i okrivljenika na ročište radi prethodnog razjašnjenja stvari, ako smatra da bi to bilo korisno za brži završetak postupka. Okrivljeniku se uz poziv dostavlja i prijepis privatne tužbe.
+(2) Ako ne dođe do izmirenja stranaka i povlačenja privatne tužbe, ili odbačaja tužbe, sudac pojedinac može odmah otvoriti glavnu raspravu na što će se posebno upozoriti privatni tužitelj i okrivljenik pri dostavi poziva.
+(3) Ako sudac pojedinac ne otvori glavni raspravu donijet će odluku o tome koje dokaze će izvesti na glavnoj raspravi i odredit će glavnu raspravu.

@@ -1,4 +1,3 @@
 # Članak 495.
-(1) Protiv odluke vijeća županijskog suda podnositelj revizije i državni odvjetnik mogu podnijeti žalbu u roku od petnaest dana.
-(2) O žalbi odlučuje Vrhovni sud Republike Hrvatske u vijeću od pet sudaca.
-(3) Vrhovni sud Republike Hrvatske svojom odlukom može potvrditi, preinačiti ili ukiniti odluku županijskog suda o reviziji.
+(1) Pravo na naknadu štete zastarijeva za tri godine od dana pravomoćnosti prvostupanjske presude kojom je okrivljenik oslobođen optužbe ili kojom je optužba odbijena, odnosno pravomoćnosti prvostupanjskog rješenja kojim je postupak obustavljen, a ako je u povodu žalbe rješavao viši sud - od dana primitka odluke višeg suda.
+(2) Prije podnošenja tužbe za naknadu štete oštećenik je dužan obratiti se sa svojim zahtjevom Ministarstvu pravosuđa radi postignuća nagodbe o postojanju štete te vrsti i visini naknade.

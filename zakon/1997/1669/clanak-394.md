@@ -1,8 +1,5 @@
 # Članak 394.
-(1) Protiv drugostupanjske presude dopuštena je žalba trećostupanjskom sudu samo:
-1) ako je drugostupanjski sud izrekao kaznu dugotrajnog zatvora ili je potvrdio prvostupanjsku presudu kojom je izrečena takva kazna,
-2) ako je drugostupanjski sud na temelju održane rasprave utvrdio činjenično stanje drukčije nego prvostupanjski sud i na tako utvrđenom činjeničnom stanju utemeljio svoju presudu,
-3) ako je drugostupanjski sud preinačio prvostupanjsku presudu kojom je optuženik oslobođen optužbe i izrekao presudu kojom se optuženik proglašava krivim.
-(2) O žalbi protiv drugostupanjske presude rješava trećestupanjski sud u sjednici vijeća prema odredbama koje važe za drugostupanjski postupak. Pred tim sudom ne može se održati rasprava.
-(3) Odredbe članka 383. ovoga Zakona primijenit će se i na suoptuženika koji nije imao pravo podnijeti žalbu protiv drugostupanjske presude.
-3. Žalba protiv rješenja
+(1) Rasprava pred drugostupanjskim sudom počinje izvješćem suca izvjestitelja, koji izlaže stanje stvari ne dajući svoje mišljenje o osnovanosti žalbe.
+(2) Na prijedlog ili po službenoj dužnosti pročitat će se presuda ili dio presude na koji se odnosi žalba, a po potrebi i zapisnik o glavnoj raspravi.
+(3) Nakon toga pozvat će se žalitelj da obrazloži žalbu, a onda protivnik da mu odgovori. Optuženik i njegov branitelj imaju uvijek posljednju riječ.
+(4) Stranke mogu na raspravi iznositi nove dokaze i činjenice.

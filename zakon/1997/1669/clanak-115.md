@@ -1,6 +1,7 @@
 # Članak 115.
-(1) Po odobrenju istražnog suca i pod njegovim nadzorom ili nadzorom osobe koju on odredi pritvorenika imaju pravo posjećivati, u okviru kućnog reda, njegovi srodnici, a na njegov zahtjev liječnik i druge osobe. Pojedini se posjeti mogu zabraniti ako bi zbog toga mogla nastati šteta za vođenje postupka.
-(2) Istražni će sudac odobriti konzularnom službeniku strane zemlje posjet pritvoreniku koji je državljanin te zemlje, sukladno kućnom redu pritvora.
-(3) Pritvorenik se smije dopisivati s osobama izvan zatvora sa znanjem i pod nadzorom istražnog suca, a nakon podignute optužnice, predsjednika vijeća. Pritvoreniku se može zabraniti odašiljanje i primanje pisama i drugih pošiljaka, ali ne i odašiljanje molbe, pritužbe ili žalbe.
-(4) Pritvorenik ima pravo, sukladno kućnom redu, o svom trošku obavljati telefonske razgovore. Uprava pritvora u tu svrhu pritvorenicima osigurava potreban broj javnih telefonskih priključaka. Istražni sudac, sudac pojedinac ili predsjednik vijeća mogu zbog razloga sigurnosti ili postojanja nekog od razloga iz članka 102. stavka 1. i stavka 2. točke 1., 2. i 3. ovoga Zakona rješenjem ograničiti ili zabraniti pritvoreniku korištenje telefona.
-(5) Pritvorenik ima pravo slobodne i neometane veze s braniteljem.
+(1) Žalbu protiv rješenja kojim se određuje, produljuje ili ukida pritvor mogu podnijeti okrivljenik, njegov branitelj i državni odvjetnik u roku od dva dana. Protiv rješenja vijeća Vrhovnog suda Republike Hrvatske kojim se određuje, produljuje ili ukida pritvor žalba nije dopuštena, osim kad vijeće Vrhovnoga suda odlučujući prema članku 108. stavku 4. i 5. ovoga Zakona odredi pritvor okrivljeniku protiv kojega nije bio određen pritvor. Žalba protiv tog rješenja ne zadržava njegovo izvršenje. O žalbi odlučuje vijeće Vrhovnoga suda sastavljeno od petero sudaca. U vijeću koje odlučuje o žalbi ne mogu sudjelovati suci koji su donijeli odluku o određivanju pritvora.
+(2) Žalba protiv rješenja o određivanju, produljenju ili ukidanju pritvora ne zadržava njegovo izvršenje.
+(3) O žalbi iz stavka 1. ovoga članka podnesenoj protiv rješenja suca pojedinca i istražnog suca odlučuje vijeće iz članka 18. stavka 4., odnosno članka 20. stavka 2. ovoga Zakona.
+(4) Kad je rješenje o određivanju, produljenju ili ukidanju pritvora donijelo vijeće, o žalbi protiv rješenja odlučuje vijeće višeg suda.
+(5) Vijeće će donijeti odluku o žalbi iz stavka 1. ovoga članka u roku od četrdeset osam sati.
+14. Izvršenje pritvora i postupanje s pritvorenicima

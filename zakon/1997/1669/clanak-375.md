@@ -1,3 +1,8 @@
 # Članak 375.
-(1) Drugostupanjski sud donosi odluku u sjednici vijeća ili na temelju održane rasprave.
-(2) Hoće li održati raspravu, odlučuje drugostupanjski sud u sjednici vijeća.
+(1) Objavljena presuda mora se napisati i otpremiti u roku od mjesec dana nakon objave. Taj se rok produljuje za petnaest dana ako je glavna rasprava trajala dulje od tri dana uzastopce, odnosno za još petnaest dana ako je glavna rasprava trajala dulje od osam dana i nije morala iznova započeti u smislu odredbe članka 327. stavka 2. ovoga Zakona.
+(2) Rokovi za pisanu izradu presude iz stavka 1. ovoga članka mogu se iznimno prekoračiti ako ih se predsjednik vijeća koje je sudilo u kaznenom predmetu iz nepredvidivih ili neotklonjivih razloga nije mogao pridržavati te o tome obavijestio predsjednika suda.
+(3) Presudu potpisuju predsjednik vijeća i zapisničar.
+(4) Ovjerovljeni prijepis presude dostavit će se tužitelju, optuženiku osobno i njegovu branitelju. Ako se optuženik nalazi u pritvoru ovjerovljeni prijepisi presude moraju biti poslani u rokovima koji su za polovicu kraći od rokova iz stavka 1. ovoga članka.
+(5) Optuženiku, privatnom tužitelju i oštećeniku kao tužitelju dostavit će se i uputa o pravu na žalbu.
+(6) Ovjerovljeni prijepis presude sud će s uputom o pravu na žalbu dostaviti oštećeniku ako ima pravo na žalbu, osobi čiji je predmet oduzet tom presudom te pravnoj osobi prema kojoj je izrečeno oduzimanje imovinske koristi. Oštećeniku koji nema pravo na žalbu prijepis presude dostavit će se u slučaju iz članka 56. stavka 2. ovoga Zakona s uputom o pravu na traženje povrata u prijašnje stanje. Pravomoćna presuda dostavit će se oštećeniku ako on to zahtijeva.
+(7) Ako je sud primjenom odredaba o odmjeravanju jedinstvene kazne za kaznena djela u stjecaju izrekao kaznu uzimajući u obzir i presude koje su donijeli i drugi sudovi, dostavit će ovjerovljeni prijepis pravomoćne presude tim sudovima.

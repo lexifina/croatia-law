@@ -1,2 +1,3 @@
 # Članak 161.
-Kad je odluka kojom je odlučeno o imovinskopravnom zahtjevu postala pravomoćna, oštećenik može zahtijevati od suda koji je odlučio u prvom stupnju da mu izda ovjerovljeni prijepis odluke s naznakom da je odluka ovršna.
+(1) Državnom odvjetniku odluke i drugi dopisi dostavljaju se predajom pisarnici državnog odvjetništva ili putem telekomunikacijskog sredstva.
+(2) Kad se dostavljaju odluke od kojih od dana dostave teče rok, danom dostave smatra se dan predaje dopisa pisarnici državnog odvjetništva ili dan slanja odluke putem telekomunikacijskog sredstva.

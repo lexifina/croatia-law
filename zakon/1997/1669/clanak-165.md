@@ -1,4 +1,7 @@
+## Glava XV.
+## IZVRŠENJE ODLUKA
 # Članak 165.
-(1) Kad je kazneni postupak pokrenut protiv stranca, sud će postupiti i prema odredbama odgovarajuće konzularne konvencije koja je na snazi u Republici Hrvatskoj.
-(2) O pokretanju istrage protiv djelatnih vojnih osoba, vojnih službenika i vojnih namještenika sud će obavijestiti Ministarstvo obrane, te mu dostaviti rješenje o provođenju istrage. Na isti način sud će postupiti i glede rješenja o pritvoru, optužnice koja je postala pravomoćna, optužnog prijedloga i nepravomoćne presude.
-(3) Tijela unutarnjih poslova obavijestit će Ministarstvo kulture o izvidima koje poduzima kada se kazneno djelo odnosi na spomenike kulture, arhivsku građu ili umjetnička djela od važnosti za hrvatsku ili svjetsku kulturnu baštinu. Isto će postupiti i državni odvjetnik kada podigne optužnicu ili optužni prijedlog te sud kada nastupi pravomoćnost presude koja se odnosi na takva kaznena djela.
+(1) Presuda postaje pravomoćna kad se više ne može pobijati žalbom ili kad žalba nije dopuštena.
+(2) Pravomoćna presuda izvršava se kad je uredno dostavljena i kad za njezino izvršenje ne postoje zakonske smetnje. Ako nije podnesena žalba ili su se stranke odrekle ili odustale od žalbe, presuda je izvršna protekom roka za žalbu, odnosno od dana odricanja ili odustanka od podnesene žalbe.
+(3) Ako sud koji je donio presudu u prvom stupnju nije nadležan za njezino izvršenje, dostavit će ovjereni prijepis presude s potvrdom o izvršnosti tijelu koje je nadležno za izvršenje.
+(4) Ako je djelatna vojna osoba, vojni službenik ili vojni namještenik osuđen na kaznu, sud će ovjerovljeni prijepis pravomoćne presude dostaviti Ministarstvu obrane, a ako je pričuvni časnik ili dočasnik osuđen na kaznu, sud će ovjerovljeni prijepis pravomoćne presude dostaviti tijelu nadležnom za poslove obrane u kojemu se osuđenik vodi u vojnoj evidenciji.

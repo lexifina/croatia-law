@@ -1,4 +1,2 @@
 # Članak 220.
-(1) Ako se privremeno oduzimaju spisi koji mogu poslužiti kao dokaz, oni će se popisati. Ako to nije moguće, spisi će se staviti u omot i zapečatiti. Vlasnik spisa može na omot staviti i svoj pečat.
-(2) Osoba od koje su spisi oduzeti pozvat će se da bude na otvaranju omota. Ako se ona ne odazove pozivu ili je odsutna, omot će se otvoriti, spisi pregledati i popisati u njezinoj odsutnosti.
-(3) Pri pregledavanju spisa mora se paziti da njihov sadržaj ne saznaju neovlaštene osobe.
+Ako to zahtijevaju probitci kaznenog postupka, čuvanja tajne, javnog reda ili razlozi morala, istražni sudac ili službena osoba redarstvenih službi kojoj je povjereno poduzimanje pojedine istražne radnje naložit će osobama koje ispituje ili koje su nazočne istražnim radnjama ili razgledaju spise istrage da čuvaju kao tajnu određene činjenice ili podatke koje su tom prilikom saznale i upozoriti ih da je odavanje tajne kazneno djelo. Taj će se nalog unijeti u zapisnik o istražnoj radnji, odnosno zabilježit će se na spisima koji se razgledaju, uz potpis osobe koja je upozorena.

@@ -1,2 +1,2 @@
 # Članak 360.
-Kad je optuženiku izrekao samo novčanu kaznu ili uvjetnu osudu, sud neće pisano obrazlagati presudu ako su se stranke i oštećenik odrekli prava na žalbu protiv presude.
+Nakon završenoga dokaznog postupka predsjednik vijeća daje riječ strankama, oštećeniku i branitelju. Prvo govori tužitelj, zatim oštećenik, branitelj, pa optuženik.

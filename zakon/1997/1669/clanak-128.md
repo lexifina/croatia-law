@@ -1,2 +1,5 @@
 # Članak 128.
-Prijedlog za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku može podnijeti osoba koja je ovlaštena da takav zahtjev ostvaruje u parnici.
+(1) Kad sud okrivljenika proglasi krivim, izreći će u presudi da je dužan naknaditi troškove kaznenog postupka.
+(2) Osoba koja je okrivljena za više kaznenih djela neće se osuditi na naknadu troškova u svezi s djelima za koja je oslobođena optužbe ako se ti troškovi mogu izdvojiti iz ukupnih troškova.
+(3) U presudi kojom je više okrivljenika proglašeno krivima sud će odrediti koliki će dio troškova podmiriti svaki od njih, a ako to nije moguće, odlučit će da svi okrivljenici solidarno podmire troškove. Plaćanje paušalne svote odredit će se za svakog okrivljenika pojedinačno.
+(4) U odluci kojom rješava o troškovima sud može osloboditi okrivljenika obveze da naknadi u cijelosti ili djelomično troškove kaznenog postupka iz članka 125. stavka 2. točke 1. do 6. ovoga Zakona te nagradu i nužne izdatke postavljenog branitelja ako bi njihovim plaćanjem bilo dovedeno u pitanje uzdržavanje okrivljenika ili osoba koje je on dužan uzdržavati. Ako se te okolnosti utvrde nakon donošenja odluke o troškovima, predsjednik vijeća može posebnim rješenjem osloboditi okrivljenika dužnosti naknade troškova kaznenog postupka.

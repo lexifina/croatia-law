@@ -1,3 +1,3 @@
 # Članak 136.
-(1) Na prijedlog ovlaštenih osoba (članak 128.) mogu se u kaznenom postupku prema odredbama koje vrijede za ovršni postupak odrediti privremene mjere osiguranja imovinskopravnog zahtjeva nastalog zbog počinjenja kaznenog djela.
-(2) Rješenje iz stavka 1. ovoga članka donosi u istrazi istražni sudac. Nakon podignute optužnice rješenje donosi izvan glavne rasprave predsjednik vijeća, a na glavnoj raspravi vijeće. Žalba na rješenje o privremenoj mjeri ne zadržava njegovo izvršenje.
+(1) Ovlaštene osobe (članak 134.) mogu do završetka glavne rasprave odustati od prijedloga za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku i ostvarivati ga u parnici. U slučaju odustanka od prijedloga takav se prijedlog ne može ponovno staviti, osim ako ovim Zakonom nije što drugo određeno.
+(2) Ako je imovinskpravni zahtjev nakon stavljenog prijedoga a prije završetka glavne rasprave prešao po pravilima imovinskog prava na drugu osobu, pozvat će se ta osoba da se očituje ostaje li pri prijedlogu. Ako se uredno pozvani ne odazove, smatrat će se da je odustao od stavljenog prijedloga.

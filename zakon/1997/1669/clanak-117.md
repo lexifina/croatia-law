@@ -1,5 +1,8 @@
 # Članak 117.
-(1) Nadzor nad izvršenjem pritvora obavlja predsjednik nadležnog suda.
-(2) Predsjednik suda ili sudac kojega on odredi dužan je najmanje jedanput tjedno obići pritvorenike i ako nađe da je potrebno, i bez nazočnosti pravosudnog policajca, izvijestiti se kako se pritvorenici hrane, kako zadovoljavaju ostale potrebe i kako se s njima postupa. Predsjednik suda, odnosno sudac kojeg on odredi, dužan je poduzeti potrebne mjere da se otklone nepravilnosti uočene pri obilasku zatvora. Predsjednik suda ne može odrediti da istražni sudac umjesto njega obavlja nadzor nad izvršavanjem pritvora.
-(3) Predsjednik suda i istražni sudac ili predsjednik vijeća, odnosno sudac pojedinac pred kojim se vodi postupak, neovisno o nadzoru iz stavka 2. ovoga članka, mogu u svako doba obilaziti pritvorenike, s njima razgovarati i od njih primati pritužbe.
-(4) Ako tijekom pregleda ili povodom pritužbe pritvorenika sudac iz stavka 2. ovoga članka utvrdi da je istekao rok trajanja pritvora određen u rješenju o pritvoru ili da ne postoji zakonita odluka o oduzimanju slobode, odmah će odrediti pritvorenikovo puštanje na slobodu.
+(1) Osobi protiv koje je određen kućni pritvor, sud može iznimno odobriti da se za određeno vrijeme udalji iz stana ili drugog prostora:
+1. ako je to neophodno potrebno radi liječenja osobe ili
+2. ako to nalažu posebne okolnosti uslijed kojih bi mogle nastupiti teške posljedice po život, zdravlje ili imovinu.
+(2) Ako se osoba protiv koje je određen kućni pritvor udalji iz stana ili drugog prostora protivno zabrani suda, ili se u određeno vrijeme ne vrati u stan ili drugi prostor, ili se ne pridržava zabrane komuniciranja s osobama ili zabrane uporabe sredstava komuniciranja, ili izbjegava ili ometa provođenje mjera video ili elektroničnog nadzora, protiv te osobe odredit će se pritvor. O tome će se osoba upozoriti u rješenju o određivanju kućnog pritvora.
+(3) Sud nadzire kućni pritvor, a nadzor može u svako doba nalogom zahtijevati od redarstvene vlasti. Redarstvena vlast može i bez naloga suda u svako doba nadzirati kućni pritvor. O postupanju protivno rješenju o određivanju kućnog pritvora redarstvena vlast odmah obavještava sud.
+(4) O nadzoru nad kućnim pritvorom sud i redarstvena vlast vode evidenciju.
+(5) Propise o vođenju evidencije iz stavka 4. ovoga članka donosi ministar nadležan za poslove pravosuđa uz suglasnost ministra unutarnjih poslova.

@@ -1,2 +1,3 @@
 # Članak 454.
-Povreda kaznenog zakona u slučaju izricanja sudske opomene postoji, osim u pitanjima navedenim u članku 368. točki 1. do 4. ovoga Zakona, i kad je odlukom o sudskoj opomeni, sigurnosnoj mjeri ili oduzimanju imovinske koristi prekoračena ovlast koju sud ima po zakonu.
+(1) Sudac (predsjednik vijeća, odnosno sudac pojedinac) odbacit će optužni prijedlog ili privatnu tužbu ako ustanovi da postoje razlozi za obustavu postupka predviđeni u članku 214. stavku 1. točki 1. do 3. ovoga Zakona, a ako su provedene istražne radnje i iz razloga propisanog u članku 214. stavku 1. točki 4. ovoga Zakona.
+(2) Rješenje se dostavlja državnom odvjetniku, oštećeniku kao tužitelju ili privatnom tužitelju te okrivljeniku.

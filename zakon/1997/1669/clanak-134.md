@@ -1,2 +1,2 @@
 # Članak 134.
-Ako se imovinskopravni zahtjev odnosi na poništaj određenoga pravnog posla,a sud ustanovi da je zahtjev osnovan, izreći će u presudi potpun ili djelomičan poništaj toga pravnog posla, s posljedicama koje otuda proistječu, ne dirajući prava trećih osoba.
+Prijedlog za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku može podnijeti osoba koja je ovlaštena da takav zahtjev ostvaruje u parnici.
