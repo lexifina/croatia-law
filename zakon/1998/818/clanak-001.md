@@ -1,0 +1,8 @@
+# Članak 1.
+U Zakonu o ugostiteljskoj djelatnosti ("Narodne novine", br. 48/95., 20/97. i 46/97. - pročišćeni tekst) iza članka 67. dodaje se članak 67a. koji glasi:
+"Članak 67a.
+Iznimno od odredaba članka 60. ovoga Zakona ugostitelji koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost u ugostiteljskim objektima koji se ne kategoriziraju, dužni su minimalne uvjete u tim objektima uskladiti s ovim Zakonom do 16. kolovoza 1998., a ugostitelji koji obavljaju ugostiteljsku djelatnost u ugostiteljskim objektima koji se kategoriziraju dužni su u istom roku za te objekte podnijeti zahtjev za utvrđivanje minimalnih uvjeta i uvjeta za kategorizaciju.
+U slučaju da ugostiteljski objekti koji se kategoriziraju ne ispunjavaju neki od propisanih uvjeta dužni su, iznimno od odredbe stavka 1. ovoga članka, minimalne uvjete i uvjete za kategoriju u tim objektima uskladiti s ovim Zakonom do 1. svibnja 1999.
+Odredbe stavka 1. i 2. ovoga članka ne odnose se na ugostitelje koji u svojim ugostiteljskim objektima na dan 16. kolovoza 1998. imaju smještene prognanike i izbjeglice.
+Ugostitelji iz stavka 3. ovoga članka dužni su podnijeti zahtjev za utvrđivanje minimalnih uvjeta i uvjeta za kategoriju u roku od godine dana od dana iseljenja prognanika i izbjeglica o čemu su dužni odmah obavijestiti Ministarstvo turizma.
+Ugostitelju koji u roku utvrđenom u stavku 1., 2. i 4. ovoga članka ne uskladi minimalne uvjete, odnosno ne podnese zahtjev za utvrđivanje minimalnih uvjeta i uvjeta za kategoriju, obavljanje ugostiteljske djelatnosti u tom ugostiteljskom objektu zabranit će se rješenjem nadležnog ureda."
