@@ -1,0 +1,5 @@
+1. Kovani novac kuna i lipa s oznakom godine kovanja »2004.« izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.) s osnovnim obilježjima (osim godine kovanja) utvrđenima u Odluci o osnovnim obilježjima kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka, na naličju kovanog novca (»Narodne novine«, br. 47/1995.) pušta se u optjecaj 26. travnja 2004.
+2. Iz točke 1. ove odluke izuzima se kovani novac od 1 kune glede oznake godine kovanja i datuma puštanja u optjecaj. Kovani novac od 1 kune imat će ispred oznake godine kovanja »2004.« istaknutu godinu »1994.«, i to na sljedeći način: »1994.-2004.«. Navedenom oznakom Hrvatska narodna banka obilježit će 10. obljetnicu uvođenja kune kao novčane jedinice Republike Hrvatske.
+3. Kovani novac od 1 kune iz točke 2. ove odluke pustit će se u optjecaj 24. svibnja 2004. godine.
+4. Ova odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 646/2004.
