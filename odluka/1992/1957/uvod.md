@@ -1,0 +1,1 @@
+Temeljem članka 6. Uredbe o uvjetima i načinu odravanja likvidnosti u plačanjima prema inozemstvu ("Narodne novine", broj 61/92). članka 28. i 67. pod 4) Uredbe o Narodnoj banci Hrvatske ("Narodne novine", broj 71/91); Savjeć Narodne banke Hrvatske na sjednici odrenoj 30. listopada 1992. godine, donio je
