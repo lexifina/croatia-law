@@ -1,0 +1,4 @@
+## o dopuni Uredbe o načinu utvrđivanja cijene stana i garaže
+# Članak 1.
+U Uredbi o načinu utvrđivanja cijene stana i garaže ("Narodne novine", broj 35/92 i 72/92) u članku 5. dodaje se novi stavak 2. koji glasi:
+"Gradevinska vrijednost etalonskog objekta (Ce) umanjuje se za 10% na ratom ugroženim područjima koja su do stupanja na snagu Zakona o područjima županija, gradova i općina u Republici Hrvatskoj ("Narodne novine". broj 90/92) obuhvaćala područja ranijih općina i to: Drniš, Dubrovnik, Duga Resa, Gospić, Karlovac, Kostajnica, Metković, Nova Gradiška, Novska, Osijek, Otočac, Pakrac, Petrinja, Podravska Slatina, Šibenik, Sinj, Sisak, Slavonska Orahovica, Slavonski Brod, Slunj, Valpovo, Vinkovci, Vukovar, Zadar, Beli Manastir, Benkovac, Daruvar, Dvor, Glina, Gračac, Grubišno Polje, Knin, Obrovac, Titova Korenica, Vojnić, Vrginmost, Županja, Ogulin i Biograd na moru".
