@@ -1,0 +1,1 @@
+Na osnovi čl. 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 17/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01) čl. 23. Statuta Općine Markušica (»Sl. vjesnik« br. 14/01) Općinsko vijeće Općine Markušica na sjednici održanoj 16. srpnja 2003. donijelo je
