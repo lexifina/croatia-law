@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Veterinar kojemu je licenca prestala važiti iz razloga navedenih u članku 10. točka 1., 2. i 3. ovog Pravilnika može podnijeti zahtjev za ponovno dobivanje licence nakon isteka šest mjeseci od dana prestanka važenja licence, uz dokaz o udovoljenju obvezi stručnog usavršavanja.
+(2) Veterinar kojemu je licenca oduzeta iz razloga navedenih u članku 11. stavku 1. točka 1., 2. i 3. te stavku 2. točka 1. ovog Pravilnika može podnijeti zahtjev za ponovno dobivanje privremeno oduzete licence, kada stekne uvjete za obavljanje veterinarske djelatnosti, odnosno po isteku izrečene stegovne mjere.
