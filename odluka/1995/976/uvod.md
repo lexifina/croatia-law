@@ -1,0 +1,1 @@
+Na temelju članka 67. stavka 1. točke 23. Zakona o Narodnoj barkci Hrvatske ("Narodne novine" br. 35/95 - pročišćeni tekst), Savjet Narodne banke Hrvatske na svojoj sjednici održanoj 3. srpnja 1995. godine, donio je
