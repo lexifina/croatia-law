@@ -1,0 +1,3 @@
+# Članak 3.
+1. Aktivnosti suradnje prema ovom Ugovoru ostvarivat će se prema provedbenim pismenim utanačenjima ili daljnjim sporazumima zakljačenim između vladinih agencija obiju stranaka (u daljnjem tekstu: »provedbeni sporazumi«). Takovi provedbeni sporazumi mogu obuhvaćati pitanja suradnje, postupanja, financiranja, podjele troškova i ostala relevantna pitanja.
+2. Postojeće znanstvene i tehnološke aktivnosti suradnje između suradnih organizacija ugovornih stranaka temeljene na Sporazumu iz 1988. između Vlade Socijalističke Federativne Republike Jugoslavije i Vlade Sjedinjenih Američkih Država o znanstvenoj i tehnološkoj suradnji, nastavit će se prema odredbama ovog Ugovora.
