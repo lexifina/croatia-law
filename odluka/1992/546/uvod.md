@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o Hrvatskom Crvenom križu ("Narodne novine". broj 61/91) i članka 23 stavak 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 4 t /90, 8/91, 14/91, 53A/91 i 9/92), Vlada Republike Hrvatske na sjednici održanoj 17. travnja 1992. godine, donijela je
