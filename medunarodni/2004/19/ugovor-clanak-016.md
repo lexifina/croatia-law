@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Predmeti koji su namijenjeni službenoj upotrebi na službenim mjestima za obavljanje granične kontrole ili za potrebe službenih osoba susjedne države za vrijeme obavljanja posla u domaćoj državi, oslobođeni su svih uvoznih i izvoznih davanja. Za njih nije potrebno polagati jamčevinu. Za te predmete ne vrijede zabrane uvoza i izvoza te uvozna i izvozna ograničenja. Isto vrijedi za službena i vlastita vozila koja službene osobe koriste u obavljanju svog posla.
+(2) Spise, dokumentaciju i nosače podataka koje službene osobe iz susjedne države koriste u obavljanju svog posla u domaćoj državi, te službene pošiljke i službenu opremu, službene osobe domaće države ne pregledavaju i ne oduzimaju.
