@@ -1,0 +1,3 @@
+# Članak 81.
+(1) Davatelj državne potpore dostavit će Agenciji do 15. lipnja tekuće godine prijedlog državne potpore koji namjerava uključiti u prijedlog državnog proračuna, proračuna jedinica lokalne i područne (regionalne) samouprave ili financijskog plana izvanproračunskog korisnika proračuna.
+(2) Tijela nadležna za izradu nacrta proračuna i konsolidiranog proračuna države i jedinica lokalne i područne (regionalne) samouprave temeljem Zakona o proračunu, neće uvrstiti prijedlog državne potpore iz stavka 1. ovoga članka u nacrt proračuna i konsolidiranog proračuna ako isti ne sadrži odobrenje Agencije.

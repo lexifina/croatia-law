@@ -1,0 +1,4 @@
+# Članak 47.
+Prijedlog regionalne državne potpore namijenjene velikim projektima ulaganja, koji se izvode u okviru općih regionalnih državnih potpora, potrebno je dostaviti Agenciji sukladno člancima 11. i 13. Zakona o državnim potporama, ako ti projekti ispunjavaju jedan od sljedećih kriterija:
+- ukupan opseg troškova projekta ulaganja prelazi 375 milijuna kuna (za tekstilnu industriju i industriju odjeće prag iznosi 112,5 milijuna kuna), intenzitet državne potpore prelazi 50% dopuštenog intenziteta za regionalne državne potpore, te državna potpora za otvaranje ili očuvanje radnih mjesta prelazi 300.000 kuna po radnome mjestu (za tekstilnu industriju i industriju odjeće prag iznosi 225.000 kuna po radnome mjestu), ili ako
+- iznos državne potpore prelazi 375 milijuna kuna (u industriji motornih vozila i sintetičkih vlakana 225 milijuna kuna).

@@ -1,0 +1,4 @@
+# Članak 82.
+(1) U svrhu naknadnog odobrenja državne potpore sukladno članku 15. Zakona o državnim potporama davatelji državne potpore dužni su Agenciji dostaviti podatke o davatelju državne potpore, korisniku državne potpore, pravnom temelju, uvjetima i datumu dodjele i trajanju državne potpore, obrazloženje sukladno stavcima 3. i 4. članka 80. ove Uredbe, opravdane objektivne razloge iz stavka 1. članka 15. Zakona o državnim potporama, dodijeljeni iznos državne potpore razvrstan prema razinama dodjele, namjenama, vrstama i oblicima državne potpore, te ukupan bruto i neto iznos dodijeljene državne potpore.
+(2) Podatke iz stavka 1. ovoga članka davatelji državne potpore dostavljaju Agenciji u pisanom i elektronskom obliku.
+(3) Agencija uređuje sadržaj obrazaca za dostavu podataka iz stavka 1. ovoga članka.

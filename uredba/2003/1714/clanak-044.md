@@ -1,0 +1,8 @@
+# Članak 44.
+(1) Državna potpora iz članka 43. ove Uredbe za početna materijalna i nematerijalna ulaganja, izražena u neto ekvivalentu državne potpore, može se dodijeliti:
+- u Područjima A do 50% opravdanih troškova odnosno 40% opravdanih troškova u područjima gdje je bruto domaći proizvod po stanovniku prema kupovnoj moći veći od 60% prosjeka Europske unije. Za male i srednje poduzetnike gornja granica može se povećati za 15% opravdanih troškova u bruto iznosu,
+- u Područjima B do 20% opravdanih troškova odnosno 10% opravdanih troškova u područjima gdje je bruto domaći proizvod po stanovniku prema kupovnoj moći viši a stupanj nezaposlenosti niži od prosjeka Europske unije. Za male i srednje poduzetnike gornja granica može se povećati za 10% opravdanih troškova u bruto iznosu.
+(2) Gornja granica državne potpore za male i srednje poduzetnike sukladno stavku 1. ovoga članka ne može se povećati poduzetnicima za djelatnost prometa.
+(3) Visina državne potpore iz stavka 1. ovoga članka izračunava se temeljem opravdanih troškova ulaganja ili temeljem troškova otvaranja novih radnih mjesta povezanih s ulaganjem. Ako je visina državne potpore izračunata temeljem opravdanih troškova otvaranja novih radnih mjesta, potrebno je uzeti u obzir sljedeće uvjete:
+- radno mjesto mora biti povezano s provedbom projekta početnog ulaganja, odnosno radno mjesto mora biti otvoreno kao posljedica povećane učinkovitosti kapaciteta stvorenih ulaganjem, te mora biti otvoreno najmanje tri godine nakon dovršenja ulaganja;
+- projekt ulaganja mora voditi prema povećanju broja radnika u poduzeću u usporedbi s prosjekom zaposlenih u proteklih dvanaest mjeseci.

@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Najviši iznos državne potpore koji može biti dodijeljen poduzetniku za sanaciju i/ili restrukturiranje ne smije premašiti 75 milijuna kuna, uključivši državne potpore iz drugih općih državnih potpora. Viši iznos državne potpore može se dodijeliti samo temeljem plana restrukturiranja i odobrenja iz članka 13. Zakona o državnim potporama.
+(2) Prijedlog državne potpore za sanaciju i restrukturiranje velikog poduzetnika potrebno je dostaviti Agenciji sukladno člancima 11. i 13. Zakona o državnim potporama, te prijedlogom predvidjeti mjere koje onemogućavaju negativan utjecaj na tržišno natjecanje.

@@ -1,0 +1,5 @@
+# Članak 28.
+(1) Poduzetniku se može dodijeliti državna potpora za otvaranje novih radnih mjesta za invalidne osobe ili osobe koje se teže zapošljavaju.
+(2) Ispunjavanje uvjeta otvaranja novih radnih mjesta utvrđuje se usporedbom prosjeka dodatnog zapošljavanja tijekom proteklih 12 mjeseci. Uvjet otvaranja novih radnih mjesta nije potrebno ispuniti ako je postojeće radno mjesto postalo nepopunjeno dobrovoljnim odlaskom, umirovljenjem, dobrovoljnim skraćivanjem radnog vremena ili otkaza zbog nesposobnosti ili krivnje, osim ako je postojeće radno mjesto ostalo nepopunjeno kao rezultat odlaska viška zaposlenih iz poduzeća.
+(3) Intenzitet svih vrsta državnih potpora dodijeljenih za zapošljavanje osoba koje se teže zapošljavaju ili invalidnih osoba ne smije prijeći 50% troškova godišnje bruto plaće osoba koje se teže zapošljavaju, odnosno 60% troškova godišnje bruto plaće invalidnih osoba.
+(4) Osobe koje se teže zapošljavaju i invalidne osobe moraju biti neprekidno zaposlene najmanje godinu dana, osim u slučaju otkaza zbog nesposobnosti ili krivnje.
