@@ -1,0 +1,11 @@
+# I Kž-725/1996-3, Vrhovni sud Republike Hrvatske, 18.11.1999.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=4a2a0a45-99fc-45b2-8955-a3ea126df74d
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1999-11-18
+- Publication date on source: 2003-08-22
+- ECLI: ECLI:HR:VSRH:1999:3698
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
