@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 26. Statuta Općine Pokupsko (»Glasnik Zagrebačke županije« br. 19/2001.), Općinsko vijeće Općine Pokupsko na svojoj 5. sjednici održanoj dana 7. prosinca 2001. godine, donijelo je
