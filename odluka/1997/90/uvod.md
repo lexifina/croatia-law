@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o utvrđivanju plaće i drugih primanja dužnosnika ("Narodne novine", br. 60/92, 75/92 i 58/93) Vlada Republike Hrvatske je na sjednici održanoj 15. siječnja 1997. godine, donijela
