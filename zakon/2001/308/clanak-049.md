@@ -1,0 +1,2 @@
+# Članak 49.
+Na temelju akta o podjeli sredstava, prava i obveza Vlada Republike Hrvatske donijet će najkasnije do 31. prosinca 2001. potrebne akte na temelju kojih će se provesti upis u sudski registar Javne ustanove Hrvatska radiotelevizija i trgovačkog društva Odašiljači i veze, a do 1. srpnja 2002. potrebne akte na temelju kojih će se provesti upis u sudski registar Javne ustanove Hrvatska televizija i Javne ustanove Hrvatski radio.

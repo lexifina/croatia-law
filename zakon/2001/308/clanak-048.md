@@ -1,0 +1,6 @@
+# Članak 48.
+(1) Sredstva, prava i obveze Javne ustanove HRT-a podijelit će se na sredstva Javne ustanove Hrvatska radiotelevizija i trgovačkog društva Odašiljači i veze sa stanjem u poslovnim knjigama Javnog poduzeća HRT-a na dan 31. prosinca 2000.
+(2) Sredstva, prava i obveze Javne ustanove HRT-a podijelit će se na sredstva Javne ustanove Hrvatska televizija i Javne ustanove Hrvatski radio sa stanjem u poslovnim knjigama Javne ustanove HRT-a na dan 31. prosinca 2001.
+(3) Diobenu bilancu i akt o podjeli sredstava, prava i obveza iz stavka 1. ovoga članka na prijedlog ravnatelja HRT-a donijet će Upravno vijeće Javne ustanove HRT-a uz prethodnu suglasnost Zastupničkog doma Hrvatskoga sabora najkasnije do 1. listopada 2001., a diobenu bilancu i akt o podjeli sredstava, prava i obveza iz stavka 2. ovoga članka najkasnije do 1. travnja 2002.
+(4) Republika Hrvatska zadržava vlasništvo u stopostotnom udjelu na svim sredstvima za rad koja će na temelju akta o podjeli sredstava, prava i obveza pripasti Javnoj ustanovi Hrvatska televizija i Javnoj ustanovi Hrvatski radio te trgovačkom društvu Odašiljači i veze.
+(5) Za privatizaciju kapitala trgovačkog društva Odašiljači i veze, u bilo kojem obliku, donijet će se posebni zakon.
