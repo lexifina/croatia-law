@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Upravitelj Zaklade zastupa Zakladu, odgovoran je za zakonitost rada Zaklade, vodi poslove Zaklade sukladno odlukama Upravnog odbora, predlaže Upravnom odboru financijski plan i završni račun, podnosi izvješća Upravnom odboru o stanju poslova i financijskom stanju Zaklade, te obavlja druge poslove u skladu s ovim Zakonom, drugim propisima i Statutom Zaklade, koji nisu izričito povjereni drugim tijelima Zaklade.
+(2) Upravitelj Zaklade ne može biti imenovan iz redova članova Upravnog odbora, ali ima pravo sudjelovanja u radu Upravnog odbora bez prava glasa, te pravo predlaganja pitanja koja treba uvrstiti u dnevni red sjednice Upravnog odbora.
