@@ -1,0 +1,4 @@
+# Članak 30.
+Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj ovlaštena pravna osoba ako ne obavlja poslove zaštite od zračenja u skladu s ovim Zakonom, te ako ne vodi evidencije i ne dostavlja izvješća i podatke na način utvrđen ovim Zakonom i propisima donesenim na temelju ovoga Zakona (članak 19. stavak 3. i 4.).
+Za prekršaj iz stavka 1. ovoga članka počinjen drugi put kaznit će se ovlaštena pravna osoba i zabranom obavljanja djelatnosti u trajanju do 6 mjeseci, a za isti prekršaj počinjen treći put kaznit će se i trajnim oduzimanjem ovlaštenja za obavljanje djelatnosti iz područja zaštite od neionizirajućih zračenja.
+Za prekršaj iz stavka 1. ovoga članka kaznit će se za prekršaj i odgovorna osoba u ovlaštenoj pravnoj osobi novčanom kaznom u iznosu od 1.500,00 do 5.000,00 kuna.

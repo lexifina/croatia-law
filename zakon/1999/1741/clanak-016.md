@@ -1,0 +1,3 @@
+# Članak 16.
+Pravna ili fizička osoba kojoj je dano odobrenje ministra zdravstva za uporabu i stavljanje u promet izvora neionizirajućih zračenja obvezna je djelatnicima koji su tijekom rada izloženi neionizirajućim zračenjima osigurati osobna zaštitna sredstva, osigurati provjeru ispravnosti tih sredstava, mjerenje razina neionizirajućih zračenja u propisanim rokovima, te provjeru ispravnosti zaštitne opreme i mjernih uređaja.
+Ministar zdravstva propisuje osobna zaštitna sredstva djelatnika koji su tijekom rada izloženi neionizirajućim zračenjima, te rokove i načine provjere ispravnosti zaštitne opreme.

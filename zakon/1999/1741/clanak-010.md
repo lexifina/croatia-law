@@ -1,0 +1,5 @@
+# Članak 10.
+Uređaji, postrojenja i građevine koji su izvor elektromagnetskih polja ili sadrže izvore elektromagnetskih polja smiju se rabiti i stavljati u promet samo ako ispunjavaju bitne zahtjeve sukladno njihovoj namjeni i u uvjetima primjene ne izlažu ljude elektromagnetskim poljima iznad graničnih razina određenih provedbenim propisom.
+Bitni zahtjevi za uređaje iz stavka 1. ovoga članka jesu sigurnost, točnost, izdržljivost, utjecaj na okoliš, nadzor nad količinom i vrstom zračenja koje proizvode, potrebite oznake značajki uređaja, pripadajuća dokumentacija te upute za uporabu.
+Ministar zdravstva donosi provedbeni propis kojim se utvrđuju granične razine elektromagnetskih polja, postupci njihova provjeravanja i uvjeti za dobivanje ovlasti za obavljanje tih postupaka, kao i posebni zahtjevi za uređaje, postrojenja i građevine iz stavka 1. ovoga članka, sukladno hrvatskim, međunarodnim i harmoniziranim europskim normama.
+Provedbeni propis iz stavka 3. ovoga članka donosi ministar zdravstva uz prethodno mišljenje ministra nadležnog za poslove graditeljstva.
