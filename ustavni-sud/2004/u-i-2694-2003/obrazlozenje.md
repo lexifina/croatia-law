@@ -1,0 +1,51 @@
+Obrazloženje
+1. Petar M. Radelj iz Zagreba podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom Obiteljskog zakona (»Narodne novine«, broj 116/03) u cijelosti.
+2. Smatrajući da je Obiteljski zakon organski zakon, predlagatelj ističe da je za njegovo donošenje, prema odredbi članka 82. stavka 2. Ustava Republike Hrvatske, bila potrebna većina glasova svih zastupnika u Hrvatskom saboru.
+Obrazlažući svoje stajalište da je osporavani Zakon organski zakon, predlagatelj navodi da Obiteljski zakon razrađuje brojna Ustavom zajamčena ljudska prava i slobode, a osobito ona sadržana u člancima 32., 34., 35., 40., 56., 61., 62., 63. i 64. Ustava.
+Predlagatelj navodi da je na sjednici Hrvatskog sabora, na kojoj je donesen Obiteljski zakon (14. srpnja 2003. godine), bilo nazočno 85 zastupnika, od kojih je 71 zastupnik glasovao »za« donošenje Obiteljskog zakona, dok je 14 zastupnika bilo »suzdržano«. S obzirom na činjenicu da je Hrvatski sabor u tom sazivu imao ukupno 151 zastupnika, za donošenje tog Zakona, prema mišljenju predlagatelja, trebalo je glasovati 76 zastupnika.
+Slijedom iznijetog, predlagatelj smatra da je Obiteljski zakon donesen manjim brojem glasova od broja koji je Ustavom utvrđen kao potreban i dostatan za donošenje organskih zakona. Ističući, dakle, formalnu protuustavnost Obiteljskog zakona, predlaže da Ustavni sud pokrene postupak za ocjenu njegove suglasnosti s Ustavom te da ga u cijelosti ukine.
+3. Podredno, predlagatelj osporava odredbe Obiteljskog zakona koje sadrže riječ »razvod braka«. Obrazlažući taj dio prijedloga, predlagatelj u bitnom ističe da bi nakon stupanja na snagu osporenoga Obiteljskog zakona, na sve neokončane brakorazvodne parnice trebalo primjenjivati taj Zakon, što međutim, prema mišljenju predlagatelja, nije moguće zbog »terminološke neusuglašenosti« Obiteljskog zakona i zakona koji uređuju sudsku nadležnost u sporovima radi »rastave braka«. Predlagatelj u prijedlogu opširno navodi »povijesno-pravne« i »jezikoslovne« razloge protiv instituta »razvoda braka« te zaključuje da je pojam »razvod braka« suprotan odredbi članka 12. stavka 1. te odredbi članka 5. stavka 1. Ustava.
+Prijedlog nije osnovan.
+4. Obiteljski zakon je Hrvatski sabor donio na sjednici održanoj dana 14. srpnja 2003. godine. Zakon je objavljen u »Narodnim novinama«, broj 116 od 22. srpnja 2003. godine, a stupio je na snagu danom objave.
+5. Iz fonograma navedene sjednice Hrvatskog sabora, koji prileži spisu, proizlazi da je pri glasovanju kod donošenja Obiteljskog zakona u sabornici bilo nazočno osamdeset i pet (85) zastupnika. Također je razvidno da je za njegovo donošenje glasovao sedamdeset i jedan (71) zastupnik te da je četrnaest (14) zastupnika bilo suzdržano.
+Ustavni sud je, nadalje, utvrdio da je Hrvatski sabor u sazivu 2000. godine imao stotinu pedeset i jednog (151) zastupnika pa je za donošenje zakona, za koje se traži većina glasova svih zastupnika, bilo potrebno sedamdeset i šest (76) glasova zastupnika.
+6. Za razmatranje pravne naravi Obiteljskog zakona kao cjeline i ocjenu njegove formalne ne/ustavnosti bitne su odredbe Ustava sadržane u Glavi III., odjeljku 3., pod nazivom »Gospodarska, socijalna i kulturna prava«, koje glase:
+»Članak 61.
+Obitelj je pod osobitom zaštitom države.
+Brak i pravni odnosi u braku, izvanbračnoj zajednici i obitelji uređuju se zakonom.
+Članak 62.
+Država štiti materinstvo, djecu i mladež te stvara socijalne, kulturne, odgojne, materijalne i druge uvjete kojima se promiče ostvarivanje prava na dostojan život.
+Članak 63.
+Roditelji su dužni odgajati, uzdržavati i školovati djecu te imaju pravo i slobodu da samostalno odlučuju o odgoju djece.
+Roditelji su odgovorni osigurati pravo djetetu na potpun i skladan razvoj njegove osobnosti.
+Tjelesno i duševno oštećeno i socijalno zapušteno dijete ima pravo na osobitu njegu, obrazovanje i skrb.
+Djeca su dužna brinuti se za stare i nemoćne roditelje.
+Država osobitu skrb posvećuje maloljetnicima bez roditelja i onima za koje se ne brinu roditelji.
+Članak 64.
+Dužnost je svih da štite djecu i nemoćne osobe.
+Djeca ne mogu biti primljena na rad prije zakonom određene dobi niti smiju biti prisiljavana na rad koji štetno utječe na njihovo zdravlje ili ćudoređe, niti im se takav rad smije dopustiti.
+Mladež, majke i invalidne osobe imaju pravo na osobitu zaštitu na radu.«.
+7. Odredba članka 82. stavka 2. Ustava propisuje:
+»Zakone (organski zakoni) kojima se razrađuju Ustavom utvrđena ljudska prava i temeljne slobode, izborni sustav, ustrojstvo, djelokrug i način rada državnih tijela te ustrojstvo i djelokrug lokalne i područne (regionalne) samouprave Hrvatski sabor donosi većinom glasova svih zastupnika.«
+8. Ocjenjujući osnovanost prijedloga za ocjenu suglasnosti s Ustavom Obiteljskog zakona s aspekta njegove formalne ustavnosti, Ustavni sud je pošao od stajališta izraženog u odluci broj: U-I-2566/2003, U-I-2892/2003 od 27. studenoga 2003. godine, objavljenoj u »Narodnim novinama«, broj 190/03.
+Ustavni sud je u toj odluci utvrdio mjerila za ocjenu koji se zakon, čijim se odredbama razrađuju Ustavom utvrđena ljudska prava i temeljne slobode, ima smatrati organskim zakonom u smislu prvog dijela rečenice članka 82. stavka 2. Ustava. Stoga se citira sljedeće:
+»Glava III. Ustava pod nazivom »Zaštita ljudskih prava i temeljnih sloboda« podijeljena je na sljedeće odjeljke:
+1. Zajedničke odredbe (članak 14. do 20.),
+2. Osobne i političke slobode i prava (članak 21. do 47.), te
+3. Gospodarska, socijalna i kulturna prava (članak 48. do 69.).
+Polazeći od sadržaja svih odredaba koje se nalaze u Glavi III. Ustava, razvidno je da u zakonodavnoj praksi gotovo i nema zakona koji u određenom broju svojih odredaba barem dijelom ne razrađuje neko od ljudskih prava ili temeljnih sloboda. Sukladno tome, svaki ili gotovo svaki zakon izglasan u Hrvatskom saboru mogao bi se svrstati među organske zakone.
+Takva široka ustavna interpretacija, međutim, u cijelosti bi izbrisala razliku između »običnog« (ordinarnog) zakona i organskog zakona, što očito nije bio cilj ustavotvorca kad je oblikovao normativni sadržaj prvog dijela rečenice članka 82. stavka 2. Ustava.
+Zbog toga, u odgovoru na pitanje koji se od zakona - čijim se odredbama u većoj ili manjoj mjeri razrađuju pojedina Ustavom utvrđena ljudska prava i temeljne slobode ima smatrati organskim zakonom, treba se ograničiti na područje slobode, jednakosti i poštivanja prava čovjeka, kao temeljnih ustavnih vrednota propisanih u članku 3. Ustava. Njihov je sadržaj - za razliku od gospodarskih, socijalnih i kulturnih prava - određen samim Ustavom i individualiziran zajamčenom pravnom zaštitom na nacionalnoj i međunarodnoj razini.
+Polazeći od izloženog, organskim zakonom kojim se razrađuju Ustavom utvrđena ljudska prava i temeljne slobode u smislu prvog dijela rečenice članka 82. stavka 2. Ustava ima se smatrati samo onaj zakon kojemu su temeljni predmet uređenja pojedino ili pojedina Ustavom utvrđena osobna i politička prava i slobode čovjeka. Jesu li ispunjene pretpostavke za utvrđenje određenog zakona organskim u smislu prvog dijela rečenice članka 82. stavka 1. Ustava ispituje se - u slučaju sumnje - zasebno u svakom konkretnom slučaju.«
+9. Sukladno ustavnim odredbama, Obiteljski zakon uređuje brak, odnose roditelja i djece, posvojenje, skrbništvo, učinke izvanbračne zajednice žene i muškarca te postupke nadležnih tijela u svezi s obiteljskim odnosima i skrbništvom (članak 1. Obiteljskog zakona).
+Razvidno je, dakle, da Obiteljski zakon razrađuje ljudska prava i temeljne slobode utvrđene u Glavi III. Ustava. Međutim, polazeći od stajališta ovog Suda glede pitanja koji se zakon, čijim se odredbama razrađuju pojedina Ustavom utvrđena ljudska prava i temeljne slobode, ima smatrati organskim zakonom, u smislu prvog dijela rečenice članka 82. stavka 2. Ustava (točka 4. rješenja), te činjenice da je prava, koja su uređena Obiteljskim zakonom, Ustav svrstao među socijalna prava, Ustavni sud ocjenjuje da Obiteljski zakon nije organski zakon za čije je donošenje, sukladno članku 82. stavku 2. Ustava, potrebna većina glasova svih zastupnika Hrvatskog sabora.
+10. Odredba članka 81. stavka 1. Ustava glasi:
+»Ako Ustavom nije drugačije određeno, Hrvatski sabor donosi odluke većinom glasova ukoliko je na sjednici nazočna većina zastupnika.«
+Na temelju činjenica utvrđenih uvidom u fonogram sjednice Hrvatskog sabora, održane 14. srpnja 2003. godine, na kojoj je donesen Obiteljski zakon (točka 3.), Ustavni sud utvrđuje da je Obiteljski zakon donesen prema postupku koji je sukladan odredbama Ustava.
+11. Predlagatelj, podredno, osporava odredbe Obiteljskog zakona koje sadrže riječ »razvod«, ističući da te odredbe nisu suglasne s odredbama članka 12. stavka 1. Ustava, kojom je propisano da je u Republici Hrvatskoj u službenoj uporabi hrvatski jezik i latinično pismo te odredbom članka 5. stavka 1. Ustava, prema kojoj u Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom, a ostali propisi i s Ustavom i sa zakonom.
+12. U odnosu na taj dio prijedloga, Ustavni sud ističe sljedeće:
+Uređujući načine prestanka braka, osporeni Obiteljski zakon je dotadašnji naziv »rastava braka« zamijenio izrazom »razvod braka«. Ustavni sud smatra da određivanje pravnog nazivlja u razradi pojedinih zakonskih instituta, pa tako i u slučaju pravnih naziva »rastava braka« ili »razvod braka«, jest ovlast zakonodavca i da oni sami po sebi ne mogu biti predmet ustavnosudske ocjene.
+Naime, propisivanje istog pravnog nazivlja za istovjetne pravne institute u svim zakonima, u kojima se oni pojavljuju, potrebno je radi osiguranja načela vladavine prava, osobito načela pravne sigurnosti i izvjesnosti. Usuglašavanje pravnog nazivlja, međutim, nije u nadležnosti Ustavnog suda, već zakonodavca.
+Ocijenivši, dakle, da odredbe Obiteljskog zakona, koje sadrže riječi »razvod braka«, nisu u suprotnosti s odredbama Ustava koje je istaknuo predlagatelj, Ustavni sud i ovaj dio prijedloga smatra neosnovanim.
+13. Slijedom navedenog, temeljem odredbe članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 49/02 - pročišćeni tekst), riješeno je kao pod točkom I. izreke.
+14. Objava rješenja (točka II. izreke) temelji se na odredbi članka 29. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
