@@ -1,0 +1,4 @@
+## o izmjenama i dopunama Pravilnika o podnošenju isprava u carinskom postupku
+# Članak 1.
+Članak 63. stavak 1. Pravilnika o podnošenju isprava u carinskom postupku ("Službeni list SFRJ", broj 71/80, 69/91, 42/83, 52/83, 47/84, 66/84, 72/85, 40/86, 8/87, 85/87, 73/89, 88/89 i 49/91) mijenja se i glasi: " Obrasci novih carinskih isprava od I - XXVI tiskani od strane Carinske uprave Republike Hrvatske njegov su sastavni dio i obavezno se podnose u carinskom postupku."
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase: "Dosadašnji obrasci isprava koje se podnose u carinskom postupku istih brojčanih oznaka više se ne mogu podnositi u carinskom postupku. Kodeks šifara primjenjivat će se u onom dijelu u kojem odgovara potrebama Republike Hrvatske." Dosadašnji stavci 2., 3., 4., 5. i 6. postaju stavci 4., 5., 6., 7. i 8.

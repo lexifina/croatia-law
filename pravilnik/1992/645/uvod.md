@@ -1,0 +1,1 @@
+Na temelju članka 76. stavak 3., članka 123. stavak 3., članka 164. stavak 2., članka 192. stavak 1., članka 198. stavak 1., članka 233. stavak 5., članka 267. stavak 4. i članka 369. stavak 2. Carinskog zakona ("Narodne novine". broj 53A/91), direktor Carinske uprave Republike Hrvatske donosi
