@@ -1,0 +1,2 @@
+# Članak 3.
+U postupku vještačenja o uzročno-posljedičnoj vezi bolesti, pogoršanja bolesti, pojave bolesti, smrti, samoubojstva hrvatskog branitelja iz Domovinskog rata kao moguće posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske vještačenje će vršiti stručni timovi sastavljeni od triju ovlaštenih sudskih vještaka, liječnika specijalista iz potrebne grane medicine s najmanje 5 godina specijalističkoga radnog staža i s najmanje znanstvenim zvanjem magistar znanosti.

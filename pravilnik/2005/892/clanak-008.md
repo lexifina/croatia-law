@@ -1,0 +1,4 @@
+## IV. NALAZ I MIŠLJENJE ZDRAVSTVENE USTANOVE
+# Članak 8.
+U postupku vještačenja o uzročno-posljedičnoj vezi bolesti, pogoršanja bolesti, pojave bolesti, smrti, samoubojstva hrvatskog branitelja iz Domovinskog rata kao moguće posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske stručni tim liječnika vještaka dužan je opsežno opisati početak, tijek i razvoj bolesti i posljedica bolesti te na kraju vještačkog nalaza u zaključku stručno i profesionalno konstatirati ili negirati moguće postojanje uzročno-posljedične veze osobito imajući u vidu ratni put i ostalu dokumentaciju koja se odnosi na sudjelovanje u obrani suvereniteta Republike Hrvatske.
+U postupku vještačenja uzročno-posljedične veze koristit će se najsuvremenijim dostignućima medicinske znanosti za područje medicine koje se vještači.
