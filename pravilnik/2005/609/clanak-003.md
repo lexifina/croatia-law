@@ -1,0 +1,3 @@
+# Članak 3.
+Očevidnik o postupku dopuštenja sklapanja braka osobi potpuno lišenoj poslovne sposobnosti ili nesposobnoj za rasuđivanje propisan je na obrascu OSB i sastavni je dio ovoga Pravilnika.
+U obrazac OSB upisuju se sljedeći podaci: ime i prezime osobe potpuno lišene poslovne sposobnosti ili nesposobne za rasuđivanje za koju sud traži mišljenje centra za socijalnu skrb za sklapanje braka, ime i prezime njenog skrbnika, ime i prezime osobe s kojom namjerava sklopiti brak, datum i mjesto rođenja nevjeste i ženika, datum primitka zahtjeva suda, dano mišljenje (pozitivno ili negativno), broj odluke i naziv suda koji je odluku donio, izjavljenu žalbu centra za socijalnu skrb, odluku po izjavljenoj žalbi.
