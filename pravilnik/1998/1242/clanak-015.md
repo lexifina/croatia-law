@@ -1,0 +1,2 @@
+# Članak 15.
+Časnik odgovoran za palubnu stražu ako je jedini motritelj za dnevnog svjetla, obvezan je s osobitom pozornošću procijeniti postojeće stanje, uzimajući u obzir sve utjecajne čimbenike, kao što su: vremenske prilike, vidljivost, gustoća prometa, blizina plovidbenih opasnosti, opasnost plovidbe kroz područja odvojene plovidbe ili u njihovoj blizini, te odmah pozvati pomoć, ako prilike to zahtjevaju.

@@ -1,0 +1,4 @@
+# Članak 38.
+Časnik odgovoran, za stražu u stroju, mora s posebnom pozornošću voditi računa o održavanju postrojenja, uključujući, mehaničke, električne, hidraulične i pneumatske sustave, njihove upravljačke uređaje, pripadajuću sigurnosnu opremu, sustave i uređaje u prostorima za smještaj posade, te zabilježiti pričuvne dijelove i njihovu uporabu.
+Časnik odgovoran za stražu u stroju, mora isključiti sve one sustave i uređaje iz stavka 1. ovog članka, na kojima se tijekom straže mora obaviti održavanje, što se mora posebno zabilježiti.
+U slučaju da je strojarnica u stanju pripravnosti, časnik odgovoran za stražu u stroju, mora poduzeti mjere osiguranja, kako bi svi sustavi i uređaji iz stavka 1. ovog članka, koji bi se mogli naći u uporabi tijekom manevra, bili u stanju neposredne pripravnosti, što podrazumijeva nužnost osiguranja potrebne pričuve električne energije.
