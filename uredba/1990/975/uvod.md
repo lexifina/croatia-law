@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 2. i članka 26. stavka 2. i 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 41/90), Vlada Republike Hrvatske na sjednici održanoj 5. prosinca 1990. donijela je

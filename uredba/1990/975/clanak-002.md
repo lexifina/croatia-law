@@ -1,0 +1,4 @@
+# Članak 2.
+Ured obavlja stručne poslove koji se odnose na: financijsko-materijalno poslovanje i rukovanje imovinom; uredsko poslovanje, administrativno-tehničke usluge i automatska obrada podataka; tekuće i investicijsko održavanje objekata, poslovnog prostora, stambenog prostora, prostora za reprezentativne i posebne namjene, inventara i opreme; usluge prijevoza; ugostiteljske usluge; imovinskopravne poslove i poslove iz oblasti radnih odnosa i socijalne zaštite te preventivne i primarne zdravstvene zaštite.
+Ured po potrebi obavlja i druge poslove koji mu se stave u nadležnost, a po svojoj prirodi spadaju u djelokrug općih službi.
+Osim za potrebe organa iz članka 1. ove uredbe Ured može, u slučaju racionalnosti, pojedine poslove iz svoje nadležnosti obavljati i za druge republičke organe (u daljnjem tekstu: korisnici usluga).
