@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Visinu stambenog kredita utvrđuje Ministarstvo obrane na temelju kriterija iz ove Uredbe te neposrednog izvida propisanog člancima 17. i 20. ove Uredbe.
+(2) Iznimno, stambeni kredit iz članka 14. ove Uredbe može se odobriti prema odredbama ove Uredbe i osobi koja je član obitelji vlasnika ili suvlasnika u ratu uništene ili oštećene stambene zgrade (ili zaštićenog najmoprimca u tim zgradama), a koja je ostvarila pravo na obnovu potrebne stambene površine u obiteljskom domu u opsegu 10 m˛ po članu uže obitelji te osobe.
+(3) Na iznos kredita koji se odobrava osobi iz stavka 1. ovoga članka odgovarajuće se primjenjuju odredbe članka 15. i 17. ove Uredbe, s tim da se visina iznosa kredita obvezatno umanjuje za vrijednost stambene površine prema metru kvadratnom koju je ostvario u obiteljskom domu u smislu odredbe stavka 1. ovoga članka.
+(4) Iznos sredstava za koji se umanjuje kredit, u smislu odredbe stavka 2. ovoga članka, utvrđuje Ministarstvo razvitka i obnove, i to prema izračunu novčanih sredstava koje je to Ministarstvo utrošilo u obnovu odnosne obiteljske kuće, odnosno stana.
+(5) Osoba iz stavka 1. ovoga članka ne može ostvariti pravo na bilo koji drugi oblik stambenog zbrinjavanja temeljem ove Uredbe.
