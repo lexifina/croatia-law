@@ -1,0 +1,11 @@
+o usklađivanju mirovina od 1. siječnja 1990.
+1. Mirovine korisnika mirovina povećavaju se od 1. siječnja 1990. za 405,35%, s tim da je u taj postotak uključeno povećanje od 379,96% prema Odluci o usklađivanju mirovina od 1. siječnja 1990. ("Narodne novine" broj 39/90), tako da će se te mirovine povećati još za 5,29%.
+2. Korisnicima razmjernog dijela mirovine ostvarene primjenom međunarodnih ugovora o socijalnom osiguranju pripada razmjerni dio mirovine povećan prema odredbama ove odluke.
+3. Privremene mirovine određene prema propisima Zakona o privremenoj mirovini jugoslavenskih državljana, koji su stekli pravo pri inozemnom nosiocu socijalnog osiguranja, usklađuju se prema točki 1. ove odluke. Tako povećana mirovina ne može biti veća od granične svote najnižega mirovinskog primanja utvrđene za razdoblje navedeno u točki 1. ove odluke.
+4. Mirovine boraca narodnooslobodilačkog rata prije 9. rujna 1943. i španjolskih boraca, koje su određene ili usklađene primjenom zajamčene mirovinske osnovice prema članu 53. stavu 4. odnosno članu 58. stavu 2. Zakona o osnovnim pravima iz mirovinskog i invalidskog osiguranja ("Službeni list SFRJ", br. 23/82, 77/82, 75/85, 8/87, 65/87, 87/89 i 44/90), usklađuju se od 1. siječnja 1990. prema odredbama točke 1. ove odluke.
+5. Kao osnovica za povećanje mirovina prema toč.1. do 4. ove odluke uzima se konačno usklađena mirovina koja je korisniku pripadala na dan 1. siječnja 1990. odnosno na dan stjecanja prava, ako je to pravo stečeno poslije toga dana.
+6. Usklađivanje mirovina prema ovoj odluci obavit će područne službe Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske po službenoj dužnosti, bez donošenja rješenja, uz obračun isplaćenih svota mirovina povećanih prema Odluci o usklađivanju mirovina od 1. siječnja 1990. ("Narodne novine" broj 39/90).
+7. Najveća starosna i invalidska mirovina utvrđena na dan 1. siječnja 1990. iznosi 2.796,80 dinara, a povećana od 1. siječnja 1990. za 405,35% iznosi 14.133,60 dinara.
+8. Danom stupanja na snagu ove odluke prestaje važiti Odluka o usklađivanju mirovina od 1. siječnja 1990. ("Narodne novine", broj 39/90).
+9. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnim novinama", a primjenjuje se od 1. siječnja 1990.
+Klasa 140-13/90-01/2949
