@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o pravima zastupnika u Saboru Republike Hrvatske (»Narodne novine«, br. 39/92., 75/92., 86/92. - pročišćeni tekst, 87/94. i 72/95.) naziv ovoga Zakona mijenja se i glasi: »Zakon o pravima zastupnika u Hrvatskom državnom saboru«, a u svim odredbama ovoga Zakona riječi: »Sabor Republike Hrvatske« u određenom padežu zamjenjuju se riječima: »Hrvatski državni sabor« u odgovarajućem padežu.
