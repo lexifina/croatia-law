@@ -1,0 +1,3 @@
+# Članak 43.
+Stupanjem na snagu ovoga Zakona, povremene kazališne grupe, osnovane na temelju Zakona o kazalištima ("Narodne novine", br. 61/91), nastavljaju s radom kao kazališne družine, te su dužne upisati se u sudski registar, odnosno registar umjetničkih organizacija, te uskladiti svoje ustrojstvo i poslovanje s odredbama ovoga Zakona, u roku od 6 mjeseci od dana njegova stupanja na snagu.
+Povremena kazališna grupa koja ne uskladi svoje ustrojstvo i poslovanje s odredbama ovoga Zakona i ne upiše se u odgovarajući registar, sukladno sa stavkom 1. ovoga članka, prestaje s radom i brisat će se iz registra.
