@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se pravilnikom propisuju uvjeti koje moraju zadovoljavati potvrđeni mjeriteljski laboratoriji (u daljnjem tekstu: laboratoriji) za servisiranje i pripremanje za ovjeravanje manometara, vakuumometara i manovakuumometara (u daljnjem tekstu: manometri).

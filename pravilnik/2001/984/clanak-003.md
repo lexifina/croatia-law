@@ -1,0 +1,2 @@
+# Članak 3.
+Priprema manometara za ovjeravanje u smislu ovog pravilnika podrazumijeva: pripremu manometara za postavljanje na uređaj za ispitivanje manometara (primjerice tlačnu vagu, tlačnu crpku s pretvornicima tlaka i druge slične uređaje), pripremu uređaja za ispitivanje manometara, ispitivanje manometara to jest provjeru mjeriteljskih značajki manometara te pisanje izvješća o ispitivanju manometara.
