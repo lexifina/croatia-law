@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o obavljanju ribolova pridnenom povlačnom mrežom koćom ("Narodne novine", br. 67/97, 97/97 i 136/97) članak 13. mijenja se i glasi:
+"Iznimno od odredbe članka 12. ovog Pravilnika, na zapadnoj obali Istre od morske granice s Republikom Slovenijom od plićine Albanež u kursu 221° u pravcu vanjske granice teritorijalnog mora Republike Hrvatske, u razdoblju od 1. ožujka do 30. rujna, radi izlovljavanja muzgavaca dozvoljena je uporaba pridnene koće kod koje veličina oka mrežnog tega ni na jednom dijelu ne smije biti manja od 14 milimetara, a na košulji (pokrovu) veličina oka mrežnoga tega ne smije biti manja od 28 milimetara."
