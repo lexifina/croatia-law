@@ -1,0 +1,1 @@
+Na temelju člana 3. stava 2. odluke o visini naknada za zaštitu voda na vodnom području primorsko-istarskih slivova ("Narodne novine", br.18/89) Izvršni odbor Skupštine Samoupravne vodoprivredne interesne zajednice za vodno područje primorsko-istarskih slivova u Rijeci, na sjednici održanoj 27. prosinca 1989. donio je
