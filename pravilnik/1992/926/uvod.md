@@ -1,0 +1,1 @@
+Na temelju članka 242. stavak 1. točka 2. Zakona o osnovama sigurnosti prometa na cestama i članka 1. stavka 1. točke 4. Zakona o preuzimanju saveznih zakona iz oblasti unutarnjih poslova koji se u Republici Hrvatskoj primjenjuju kao republički propisi ("Narodne novine", broj 83/91.) ministar prometa i veza u suglasnosti s ministrom unutarnjih poslova donosi
