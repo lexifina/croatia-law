@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom propisuju se minimalne stope i visine slivne vodne naknade (u daljnjem tekstu: vodna naknada) s obzirom na stupanj izgrađenosti i opseg korištenja vodnog sustava na pojedinim slivnim područjima, te koeficijenti u odnosu na prosječnu vodnu naknadu na slivnom području prema kojima se, s obzirom na gospodarsko značenje djelatnosti i vrijednosti nekretnina, određuje stopa odnosno visina vodne naknade za pojedine kategorije obveznika iz članka 18. Zakona o financiranju vodnog gospodarstva.
