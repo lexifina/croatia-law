@@ -1,0 +1,8 @@
+# Članak 8.
+Članak 222. mijenja se i glasi:
+"(1) Radi prodaje robe putnicima koji neposredno odlaze u inozemstvo, na graničnim prijelazima u zračnim lukama otvorenim za međunarodni promet može se otvoriti slobodna carinska prodavaonica.
+(2) Slobodnu carinsku prodavaonicu iz stavka 1. ovoga članka može otvoriti poduzeće koje dobije koncesiju za otvaranje slobodne carinske prodavaonice na određenom graničnom prijelazu u zračnoj luci otvorenoj za međunarodni promet. Koncesija se izdaje za petogodišnje razdoblje na temelju natječaja.
+(3) Ovlašćuje se Vlada Republike Hrvatske da uredi potanje uvjete za davanje koncesije za otvaranje slobodne carinske prodavaonice na graničnim prijelazima u zračnim lukama otvorenim za međunarodni promet, te postupak za izbor najpovoljnije ponude za dodjelu koncesije.
+(4) Rješenje o dodjeli koncesije o otvaranju slobodne carinske prodavaonice na određenom graničnom prijelazu donosi ministar financija na prijedlog stručne komisije koju imenuje Vlada Republike Hrvatske.
+(5) Ovlašćuje se ministar financija za sklapanje ugovora s poduzećem kojemu je odobrena koncesija za otvaranje slobodne carinske prodavaonice na određenom graničnom prijelazu, glede uređenja odnosa u svezi s radom i poslovanjem slobodile carinske prodavaonice na tom graničnom prijelazu.
+(6) Ako se posjednik slobodne carinske prodavaonice ne pridržava propisa kojima se uređuje njihovo poslovanje, ovlaštena carinarnica rješenjem može privremeno zatvoriti određenu slobodnu carinsku prodavaonicu, a u ponovlje nom slučaju rješenjem Ministarstva financija može se oduzeti koncesija za vođenje slobodne carinske prodavaonice i prije isteka razdoblja za koja je dodijeljena."
