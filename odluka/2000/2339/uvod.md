@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o izvlaštenju (»Narodne novine«, br. 9/94 i 35/94), a u svezi s odredbom članka 15. stavka 2. Zakona o šumama (»Narodne novine«, br. 52/90, 5/91, 9/91, 61/91, 26/93 i 29/94), Vlada Republike Hrvatske je na sjednici održanoj 7. prosinca 2000. godine, donijela
