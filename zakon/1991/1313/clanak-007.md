@@ -1,0 +1,2 @@
+# Članak 7.
+Stalno mjesečno novčano primanje osobama odlikovanim ordenom narodnog heroja, osnovica za određivanje stalnog mjesečnog novčanog primanja nosiocima "Partizanske spomenice 1941." i borcima španjolskog nacionalnooslobodilačkog i revolucionarnog rata od 1936-1939. godine kao i naknada pogrebnih troškova određuju se u iznosima koje korisnici ostvaruju na dan stupanja na snagu ovoga zakona.

@@ -1,0 +1,2 @@
+# Članak 8.
+Iznos stalnoga mjesečnog novčanog primanja, odnosno osnovice za određivanje tog primanja utvrđene prema članku 7. ovoga zakona valorizira ministar rada i socijalne skrbi početkom kalendarske godine, uzimajući u obzir kretanje prosječne mjesečne plaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini. Iznose naknade pogrebnih troškova valorizira ministar rada i socijalne skrbi početkom svakog tromjesečja prema porastu plaća svih zaposlenih u Republici Hrvatskoj u prethodnom tromjesečju.
