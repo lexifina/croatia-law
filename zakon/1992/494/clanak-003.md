@@ -1,0 +1,2 @@
+# Članak 3.
+Republički hidrografski institut preuzima radnike koji su na dan stupanja na snagu ovoga zakona zatećeni u Republici Hrvatskoj na obavljanju poslova preuzetih od bivšeg Hidrografskog instituta jugoslavenske ratne mornarice. Republički hidrografski institut preuzima arhivu i drugu dokumentaciju, poslovni prostor, opremu i sredstva sa žiro-računa Hidrografskog instituta jugoslavenske ratne mornarice.
