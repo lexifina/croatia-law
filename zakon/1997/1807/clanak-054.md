@@ -1,0 +1,3 @@
+# Članak 54.
+Izvanredna provjera kakvoće provodi se na zahtjev Ministarstva zdravstva zbog znakova neuobičajenih pojava ili sumnji u kakvoću određenog lijeka i medicinskoga proizvoda, a obavljaju je Hrvatski zavod za kontrolu lijekova i Hrvatski zavod za kontrolu imunobioloških preparata.
+Troškove provjere kakvoće lijeka i medicinskoga proizvoda iz stavka 1. ovoga članka snosi Ministarstvo zdravstva ako je lijek i medicinski proizvod ispravan, a pravna ili fizička osoba ako je nepropisnim postupanjem u prometu, proizvodnji ili izradbi prouzročila neispravnost u kakvoći lijeka i medicinskoga proizvoda.

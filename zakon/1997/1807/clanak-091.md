@@ -1,0 +1,18 @@
+# Članak 91.
+Do donošenja propisa iz članka 90. ovoga Zakona ostaju na snazi propisi:
+1. Pravilnik o pobližim uvjetima kojima moraju udovoljavati organizacije koje stavljaju lijekove u promet ili ispituju i kontroliraju lijekove što se upotrebljavaju u medicini ("Narodne novine", br. 53/91.),
+2. Pravilnik o načinu propisivanja i izdavanja lijeka ("Narodne novine", br. 53/91.),
+3. Pravilnik o kliničkom ispitivanju lijekova ("Narodne novine", br. 53/91.),
+4. Pravilnik o posebnim uvjetima za stavljanje u promet pomoćnih ljekovitih sredstava ("Narodne novine", br. 53/91.),
+5. Uputstvo o metodi za laboratorijsko ispitivanje lijekova radi njihova stavljanja u promet ("Narodne novine", br. 53/91.),
+6. Pravilnik o stavljanju u promet ljudske krvi, njezinih sastojaka i derivata ("Narodne novine", br. 53/91.),
+7. Pravilnik o organiziranju praćenja, načinu obavještavanja i podacima što se dostavljaju u vezi s utvrđenim neželjenim pojavama pri upotrebi lijeka ("Narodne novine", br. 53/91.),
+8. Naredba o lijekovima koji podliježu posebnoj kontroli prije stavljanja u promet ("Narodne novine", br. 53/91.),
+9. Naredba o higijensko-tehničkim mjerama koje moraju poduzeti radne organizacije koje se bave proizvodnjom i prometom krvi i krvnih derivata ("Narodne novine", br. 53/91.),
+10. Zakon o proizvodnji i prometu opojnih droga ("Narodne novine", br. 53/91.),
+11. Evidencija o potrošnji lijekova i opojnih droga što ih vode ljekarne ("Narodne novine", br. 53/91.),
+12. Pravilnik o uvjetima i postupku za izdavanje dozvola za uvoz i izvoz opojnih droga ("Narodne novine", br. 53/91.),
+13. Pravilnik o sadržaju i načinu vođenja evidencije i izvještaja i rokovima dostave podataka o proizvodnji i prometu opojnih droga ("Narodne novine", br. 53/91.),
+14. Rješenje o utvrđivanju opojnih droga koje se mogu stavljati u promet u medicinske i veterinarske svrhe ("Narodne novine", br. 53/91.),
+15. Rješenje o jedinstvenoj klasifikaciji lijekova ("Narodne novine", br. 53/91.),
+16. Rješenje o utvrđivanju Jugoslavenske farmakopeje IV ("Narodne novine", br. 53/91.),
