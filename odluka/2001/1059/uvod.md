@@ -1,0 +1,1 @@
+Na temelju članka 6. stavke 1. alineja 1. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« br. 66/91, 73/91 i 77/93) i članka 21. točke 1. alineje 1. Statuta Hrvatske gospodarske komore (»Narodne novine« br. 11/94 - pročišćeni tekst, br. 108/95 i 19/96) Skupština Hrvatske gospodarske komore na 3. sjednici 10. srpnja 2001. godine donijela je
