@@ -1,0 +1,2 @@
+# Članak 1.
+U ostvarivanju i unapređivanju uvjeta (adaptacija prostora, strojeva i drugih uređaja i drugih sredstava za rad, otvaranje radnih mjesta i drugo), radi zapošljavanja nezaposlenih invalida rada i djece ometene u psihičkom ili fizičkom razvoju, koji primaju novčanu naknadu prema propisima Zakona o mirovinskom i invalidskom osiguranju, Republićki fond mirovinskog i invalidskog osiguranja radnika Hrvatske (u nastavku teksta: Fond) sudjeluje dodjelom bespovratnih sredstava.
