@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 2. Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (»Narodne novine« br. 48/99), članka 13. stavka 2. i članka 29. stavka 1. Zakona o zaštiti prirode (»Narodne novine« br. 30/94 i 72/94), ravnatelj Državne uprave za zaštitu prirode i okoliša, uz prethodno pribavljeno mišljenje ministra poljoprivrede i šumarstva, donosi
