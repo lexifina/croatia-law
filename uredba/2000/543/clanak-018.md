@@ -1,0 +1,2 @@
+# Članak 18.
+Odjel za normativne poslove usklađuje i sudjeluje u izradi nacrta prijedloga zakona i prijedloga drugih propisa iz djelokruga Ministarstva u suradnji s drugim upravnim organizacijama u Ministarstvu; izrađuje naputke, pravilnike, naredbe radi provođenja zakona, daje stručna mišljenja i objašnje u svezi s primjenom i provedbom zakona iz upravnog područja ovog Ministarstva; po potrebi sudjeluje u postupku sklapanja međudržavnih i drugih ugovora u svezi s izradom i provedbom zakona i drugih propisa iz djelokruga Ministarstva.

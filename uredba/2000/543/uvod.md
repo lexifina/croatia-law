@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93 i 48/99, 15/2000), a suglasno članku 21c. Zakona o ustrojstvu i djelokrugu ministarstva i državnih upravnih organizacija (»Narodne novine«, br. 48/99 i 15/2000), Vlada Republike Hrvatske je na sjednici održanoj dana 2. ožujka 2000. godine, donijela

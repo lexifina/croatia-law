@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel za restrukturiranje malog i srednjeg poduzetništva predlaže mjere restrukturiranja trgovačkih društava malog i srednjeg poduzetništva; prati postupke restrukturiranja malog i srednjeg poduzetništva; utvrđuje pravce razvitka i restrukturiranja malog i srednjeg poduzetništva; predlaže mjere za unapređenje sustava industrijskog vlasništva; predlaže mjere za poticanje uvođenja novih tehnologija, povećanje obrazovne razine upravljačkih struktura i zaposlenih, informatičko opismenjavanje i povezivanje; surađuje s drugim tijelima državne uprave i institucijama; te obavlja i druge poslove iz svog djelokruga.
+5. Odjel za međunarodnu suradnju

@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel za razvoj malog i srednjeg poduzetništva prati i prikuplja informacije te analizira stanje i sastavlja izvješća o malom i srednjem poduzetništvu; prati provedbu zakona i podzakonskih propisa iz područja poduzetništva i trgovačkih društava; prati međunarodne propise s ovog područja; obrađuje temeljna pitanja rada malog i srednjeg poduzetništva; predlaže mjere i programe razvitka malog i srednjeg poduzetništva; unapređuje međunarodnu suradnju; surađuje s tijelima državne uprave i drugim institucijama na rješavanju problema vezanih uz poslovanje malog i srednjeg poduzetništva; daje stručna mišljenja i objašnjenja iz područja malog i srednjeg poduzetništva, te obavlja i druge poslove iz svog djelokruga.
+2. Odjel za promidžbu i informiranje
