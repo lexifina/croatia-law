@@ -1,0 +1,2 @@
+# Članak 6.
+Hrana se ne smije stavljati u promet ako sadrži količine ostataka nekih veterinarskih lijekova iz Tablice II. (kloramfenikol i metaboliti nitrofurana) i Tablice III. (medroksiprogesteron acetat) u količinama većim od granica određivanja naznačenim u Tablici IV. - Najmanje potrebne granice određivanja analitičkih metoda (NPGO), a koja se nalazi u privitku ovoga Pravilnika i njegov je sastavni dio.

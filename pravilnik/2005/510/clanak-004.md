@@ -1,0 +1,2 @@
+# Članak 4.
+Hrana koja sadrži ostatke farmakološki aktivnih tvari nabrojanih u Tablici II. - Liste farmakološki aktivnih supstancija koje su zabranjene u veterinarskoj medicini i za koje nije propisana NDK koja se nalazi u privitku ovoga Pravilnika i njegov je sastavni dio, ne smije se stavljati u promet ako se u njoj nalaze količine ostataka nabrojanih veterinarskih lijekova veće od granice osjetljivosti metode.
