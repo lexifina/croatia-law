@@ -1,0 +1,4 @@
+# Članak 13.
+Nadležni ured za obranu poziva i upućuje novake na zdravstvene i druge preglede te psihološka ispitivanja i novačenje na temelju plana pregleda i plana novačenja koje utvrđuje Ministarstvo obrane.
+Na zdravstvene i druge preglede te psihološka ispitivanja ne poziva se novake koji boluju od neizlječive bolesti, odnosno imaju tjelesne mane ili nedostatke koji se liječenjem ne mogu ispraviti (sljepilo na oba oka, potpuna gluhoća na oba uha, duševna zaostalost, teža duševna bolest, uzetost cijelog tijela ili pojedinih ekstremiteta, nedostatak jednog ekstremiteta i slični nedostaci koji ih čine očito nesposobnima za vojnu obvezu).
+Novacima iz stavka 2. ovoga članka sposobnost za vojnu obvezu utvrđuje nadležno novačko povjerenstvo na temelju priložene specijalističke zdravstvene dokumentacije kojom raspolažu ili je mogu pribaviti.

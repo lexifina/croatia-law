@@ -1,0 +1,3 @@
+# Članak 30.
+Ročnika kod kojeg je nastala promjena zdravstvenog stanja koja utječe na njegovu sposobnost za vojnu obvezu liječnik vojne pošte upućuje na ocjenu sposobnosti za vojnu obvezu novačkom povjerenstvu na čijem se području nalazi vojna pošta u kojoj ročnik služi vojni rok.
+Na temelju ocjene nadležnog novačkog povjerenstva o nesposobnosti ili privremenoj nesposobnosti ročnika za vojnu obvezu zapovjednik samostalne bojne, njemu ravne ili više razine donosi rješenje o prekidu služenja vojnog roka te u njegov jedinični karton i vojnu iskaznicu upisuje temelj i datum prekida služenja vojnog roka i otpusta iz Oružanih snaga.

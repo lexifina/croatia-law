@@ -1,0 +1,2 @@
+# Članak 44.
+Uz zahtjev pričuvnika za odgodu vojne vježbe zbog toga što su iz njegova kućanstva u isto vrijeme pozvana na vojnu vježbu dva člana ili više članova ili se jedan član već nalazi na vojnoj vježbi odnosno služenju vojnog roka, ne prilažu se dokazi, već nadležna uprava za obranu po službenoj dužnosti utvrđuje te činjenice na temelju evidencije o vojnim obveznicima pozvanim na vojnu vježbu, odnosno služenje vojnog roka.

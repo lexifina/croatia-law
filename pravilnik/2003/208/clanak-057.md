@@ -1,0 +1,3 @@
+# Članak 57.
+Novak koji se preseli u drugu zemlju ili izvan područja diplomatske misije odnosno konzularnog ureda Republike Hrvatske gdje će boraviti dulje od jedne godine, obvezan je prijaviti se diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske nadležnom za područje na koje se doselio.
+Diplomatska misija ili konzularni ured Republike Hrvatske nadležan za područje na koje se novak doselio obvezan je u roku od 15 dana od dana prijave zatražiti evidencijski karton od diplomatske misije odnosno konzularnog ureda koji je do tada vodio novaka u evidenciji vojnih obveznika na boravku u inozemstvu.

@@ -1,0 +1,2 @@
+# Članak 55.
+O novaku kojega upisuje u vojnu evidenciju diplomatska misija odnosno konzularni ured Republike Hrvatske uzima sljedeće podatke: matični broj građana; ime i prezime; očevo ili majčino ime; datum, mjesto, općinu i državu rođenja; državljanstvo; narodnost; adresu u inozemstvu; datum početka boravka u inozemstvu; adresu prebivališta u Republici Hrvatskoj; zadnju adresu prebivališta roditelja u Republici Hrvatskoj; zanimanje; školsku spremu; godinu novačenja; sposobnost za vojnu obvezu; državu, mjesto i vrijeme služenja vojnog roka te znanja važna za Oružane snage.

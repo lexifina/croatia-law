@@ -1,0 +1,2 @@
+# Članak 22.
+Ured za obranu povlači poziv za služenje vojnog roka samo u slučajevima ako se novaku u skladu s odredbama Zakona i ovoga Pravilnika odgodi služenje vojnog roka, ako je nakon primitka poziva ocijenjen privremeno nesposobnim ili nesposobnim za vojnu obvezu odnosno ako donese dokaz da je u tekućoj nastavnoj godini upisan na visoko učilište, veleučilište ili visoku školu, ako mu je u međuvremenu odobrena civilna služba te ako ministar obrane, odnosno osoba koju on ovlasti, naloži povlačenje poziva.

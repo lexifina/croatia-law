@@ -1,0 +1,3 @@
+# Članak 18.
+Novake ocijenjene privremeno nesposobnima za vojnu obvezu poziva se na zdravstvene i druge preglede i psihološka ispitivanja, te na novačenje, u pravilu, nakon isteka vremena za koje su ocijenjeni privremeno nesposobnima za vojnu obvezu.
+Vojni obveznik ocijenjen privremeno nesposobnim za vojnu obvezu može iznimno, na osobni zahtjev, biti upućen na ponovnu ocjenu sposobnosti za vojnu obvezu nakon isteka najmanje pola vremena za koje mu je bila utvrđena privremena nesposobnost za vojnu obvezu ako uz zahtjev priloži zdravstvenu dokumentaciju iz koje je vidljivo da je došlo do promjene zdravstvenog stanja koje utječe na ocjenu sposobnosti za vojnu obvezu.
