@@ -1,0 +1,34 @@
+# Članak 15.
+U Direkciji Zavoda obavljaju se sljedeći poslovi:
+- koordinacija i nadzor u primjeni Zakona, Statuta i drugih općih akata Zavoda, te međunarodnih ugovora o socijalnom osiguranju,
+- provedba politike razvoja i unapređenja zdravstvenog osiguranja predlaganjem ministru nadležnom za zdravstvo poduzimanja potrebnih mjera i iniciranjem donošenja odgovarajućih propisa,
+- sudjelovanje u međudržavnim pregovorima i pregovorima s inozemnim nositeljima socijalnog osiguranja u vezi s provedbom međunarodnih ugovora o socijalnom osiguranju i zaključenjem novih ugovora iz toga područja,
+- pružanje međunarodne pravne pomoći u provedbi međunarodnih ugovora o socijalnom osiguranju,
+- izrada prijedloga općih akata za provedbu zdravstvenog osiguranja i drugih općih akata Zavoda,
+- planiranje, prikupljanje i raspoređivanje sredstava za ostvarivanje prava iz zdravstvenog osiguranja, utvrđivanje ekonomske politike, te nadzor nad provedbom utvrđene ekonomsko-financijske politike Zavoda,
+- rješavanje u drugom stupnju o pravu na zdravstveno osiguranje i pravima i obvezama iz zdravstvenog osiguranja,
+- postupak u vezi s upravnim sporovima,
+- rješavanje u drugom stupnju o uplati dospjelih doprinosa za zdravstveno osiguranje,
+- poslovi u vezi s naknadom štete, koja je nastala u inozemstvu,
+- poslovi osiguranja informatičke podrške poslovnom sustavu,
+- priprema sjednica tijela Zavoda i davanje službenih priopćenja sredstvima javnog priopćavanja,
+- drugi poslovi utvrđeni općim aktom iz članka 14. ovog Statuta.
+U područnim uredima Zavoda obavljaju se sljedeći poslovi:
+- utvrđivanje prava na osnovno i dopunsko zdravstveno osiguranje (prijave na zdravstveno osiguranje, promjene i odjave sa zdravstvenog osiguranja, izdavanje zdravstvenih iskaznica)
+- provođenje osnovnog i dopunskog zdravstvenog osiguranja (ovjera ortopedskih i drugih pomagala, obračun naknada plaća za vrijeme porodnog dopusta, porodnog dopusta nezaposlenih majki do 3 godine, putnih troškova, sklapanje ugovora o dopunskom osiguranju i dr.)
+- obrada i kontrola računa za pružene zdravstvene usluge
+- unos podataka o statusu osiguranika
+- vođenje prvostupanjskog upravnog postupka o pravima iz osnovnog i dopunskog zdravstvenog osiguranja
+- kontrola bolovanja
+- provođenje zdravstvenog osiguranja po sporazumima o socijalnom osiguranju sa drugim državama
+- obračun i povrat troškova zdravstvene zaštite inozemnih nositelja
+- izdavanje potvrda o korištenju zdravstvene zaštite u inozemstvu
+- planiranje i kontrola provođenja ugovorene zdravstvene zaštite
+- ugovaranje primarne zdravstvene zaštite
+- kontrola obračuna i uplate doprinosa
+- obrada, kontrola i unos zaprimljenih računa
+- računovodstveni poslovi i statistički poslovi vezani uz osnovno i dopunsko zdravstveno osiguranje
+- pravni poslovi zdravstvenog osiguranja, imovinsko-pravni poslovi, poslovi regresnog postupka, poslovi zastupanja u sporovima iz ugovornih odnosa i dr.
+- unos podataka u informatički sustav
+- administrativno-tehnički poslovi i
+- drugi poslovi utvrđeni općim aktom o unutarnjem ustrojstvu Zavoda.

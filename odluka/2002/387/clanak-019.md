@@ -1,0 +1,21 @@
+# Članak 19.
+Upravno vijeće Zavoda donosi sljedeće opće akte za provedbu osnovnog zdravstvenog osiguranja:
+- o pravima, uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja
+- o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja
+- o visini naknade plaće i najvišem iznosu naknade plaće koja se isplaćuje na teret Zavoda
+- o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu
+- o osnovicama i stopama doprinosa, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz osnovnog zdravstvenog osiguranja
+- o načinu kontrole plaćanja doprinosa
+- o utvrđivanju liste lijekova i načinu propisivanja i izdavanja lijekova koji se osiguranim osobama mogu propisivati na teret sredstava Zavoda
+- o standardima i normativima te iznosu potrebnih sredstava za zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja
+- o načinu provođenja zdravstvene zaštite i osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima koji čine osnovnu mrežu zdravstvene djelatnosti, te cijenama zdravstvene zaštite u ukupnom iznosu za punu vrijednost prava iz osnovnoga zdravstvenog osiguranja
+- o uvjetima pod kojima se smatra da je osoba nesposobna za samostalan život i rad i nema vlastitih sredstava za uzdržavanje
+- o opsegu, načinu i postupku ostvarivanja prava na ortopedska i druga pomagala, te stomatološko protetske nadomjestke
+- o postupku, načinu, uvjetima i rokovima utvrđivanja i ostvarivanja prava i obveza s osnove ozljede na radu, odnosno profesionalne bolesti
+- o najnižem i najvišem iznosu naknade plaće koja se isplaćuje na teret sredstava Zavoda
+- o načinu i mjestu vođenja, obliku, sadržaju i rokovima evidencije, te obveznicima vođenja evidencija
+- o sadržaju i obliku isprave kojom se utvrđuje status osigurane osobe kao i načinu njezina izdavanja
+- o načinu prijavljivanja i odjavljivanja osigurane osobe Zavoda
+- o načinu ostvarivanja prava na slobodan izbor doktora medicine i doktora stomatologije primarne zdravstvene zaštite
+- o sastavu, ovlastima i načinu rada liječničkog povjerenstva i višeg liječničkog povjerenstva Zavoda
+- o drugim pitanjima utvrđenim Zakonom, drugim propisom ili općim aktom Zavoda.

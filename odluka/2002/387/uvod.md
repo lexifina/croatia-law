@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 92. stavka 1. Zakona o zdravstvenom osiguranju (»Narodne novine«, broj 94/2001), Vlada Republike Hrvatske je na sjednici održanoj 14. veljače 2002. godine donijela
