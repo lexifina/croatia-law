@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 2. Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda (»Narodne novine«, broj 12/01.), ministar poljoprivrede i šumarstva, uz prethodno mišljenje Ministarstva gospodarstva, Ministarstva zaštite okoliša i prostornog uređenja i Ministarstva za obrt, malo i srednje poduzetništvo, donosi
