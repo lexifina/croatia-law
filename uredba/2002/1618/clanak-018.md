@@ -1,0 +1,2 @@
+# Članak 18.
+Mimo utvrđenog redoslijeda na Listi prvenstva, ministar hrvatskih branitelja iz Domovinskog rata, zbog izvanrednih okolnosti, može dati prijedlog Stambenoj komisiji da donese Odluku o dodjeli stambenih kredita osobi iz članka 5. ove Uredbe, ali najviše do 3% od ukupno predviđenog broja stambenih kredita, odnosno raspoloživih novčanih sredstava namijenjenih za stambene kredite u toj godini.

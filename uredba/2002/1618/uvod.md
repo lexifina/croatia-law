@@ -1,0 +1,1 @@
+Na temelju članka 72. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 94/2001), Vlada Republike Hrvatske je na sjednici održanoj 8. kolovoza 2002. godine donijela
