@@ -1,0 +1,2 @@
+# Članak 10.
+Pokazatelji ispravnosti tehničkog rješenja, uz uobičajeni sadržaj ovisan o vrsti građevine, radi osiguranja pristupačnosti osobito sadrži: sagledavanje pristupačnosti u odnosu na namjenu građevine i predvidivi broj osoba smanjene pokretljivosti koji će koristiti ili pristupati građevini i drugog, što proizlazi iz osnovnih proračuna o potrebnom broju prostorija, prostora, staza i drugog namijenjenog kretanju, boravku i radu osoba sa smanjenom pokretljivošću te urbanističke, geometrijske i uporabne parametre građevine i građevinske parcele na kojoj se nalazi.

@@ -1,0 +1,3 @@
+# Članak 15.
+Tekstualni dio, uz sve tehničke tehnološke i druge podatke, tehničke i druge proračune i rješenja kojima se dokazuje da građevina udovoljava bitnim zahtjevima za građevinu, radi osiguranja pristupačnosti osobito obuhvaća podatke, proračune i rješenja kojima se dokazuje da građevina ispunjava i propisane uvjete pristupačnosti.
+Svi podaci o građevini odnosno njezinom dijelu, uključivo mjere i tehnička rješenja kojima se osigurava ispunjavanje propisanih uvjeta pristupačnosti, ovisno o vrsti (struci) projekta sadržani su u tehničkom opisu, propisanim prilozima (prikaz mjera zaštite od požara, zaštite na radu i ostale zaštitne mjere), odgovarajućim proračunima, programu kontrole i osiguranja kakvoće, posebnim tehničkim uvjetima i dr.

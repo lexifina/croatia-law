@@ -1,0 +1,6 @@
+# Članak 30.
+Elementi pristupačnosti označeni u Pravilniku o prostornim standardima, urbanističko-tehničkim uvjetima i normativima za sprječavanje stvaranja arhitektonsko-urbanističkih barijera kao »iznimni« primjenjuju se samo u slučaju rekonstrukcije pojedinačne građevine ili javne pješačke površine koja se nalazi u urbanističkoj cjelini, koja je upisana u Registar kulturnih dobara Republike Hrvatske.
+Iznimno od stavka 1. ovog članka, ako se pri rekonstrukciji pojedinačne građevine iz članka 3. stavka 1. točke 5. ovog Pravilnika, koja se nalazi u urbanističkoj cjelini koja je upisana u Registar kulturnih dobara Republike Hrvatske ne može osigurati propisane elemente pristupačnosti, a da se ne naruši spomeničko svojstvo kulturnog dobra, može se odstupiti od propisanih elemenata pristupačnosti uz prethodnu suglasnost Ministarstva zaštite okoliša i prostornog uređenja.
+Zahtjev za davanje suglasnosti podnosi se prije podnošenja zahtjeva za izdavanje načelne odnosno građevne dozvole.
+Suglasnost za odstupanje iz stavka 2. ovog članka donosi se uz prethodno mišljenje tijela nadležnog za zaštitu kulturnih dobara i drugih nadležnih tijela državne uprave.
+Suglasnost iz stavka 4. ovog članka nije upravni akt.
