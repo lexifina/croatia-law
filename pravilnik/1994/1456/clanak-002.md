@@ -1,0 +1,2 @@
+# Članak 2.
+(1) Državni inspektor pošte je obvezan voditi očevidnik o obavljenom nadzoru poštanskih objekata i opreme HPT-a, funkcioniranja poštanskog prometa i pružanja poštanskih usluga od strane HPT-a, te postavljanja poštanskih kovčežića od strane investitora ili vlasnika stambene zgrade ili obiteljske kuće (u daljnjem štivu: očevidnik o obavljenom nadzoru), prema obrascu koji je sastavni dio ovog pravilnika.
