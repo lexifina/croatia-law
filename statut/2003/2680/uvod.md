@@ -1,0 +1,1 @@
+Na temelju članka 80.b stavka 1. Zakona o socijalnoj skrbi (»Narodne novine«, br. 73/97, 27/2001, 59/2001, 82/2001 i 103/2003) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99) Upravno vijeće Hrvatskog zavoda za socijalni rad na sjednici održanoj 29. rujna 2003. donijelo je

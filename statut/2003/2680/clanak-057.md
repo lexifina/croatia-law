@@ -1,0 +1,2 @@
+# Članak 57.
+Danom početka rada Zavod preuzima dio poslova Uprave socijalne skrbi, dio poslova Uprave za financijsko-gospodarske poslove, njezinu arhivu i dokumentaciju, te dio poslova Tajništva Ministarstva rada i socijalne skrbi na temelju sporazuma, a preuzet će odgovarajući broj službenika i namještenika Uprave socijalne skrbi, Uprave za financijsko-gospodarske poslove i Tajništva Ministarstva rada i socijalne skrbi.
