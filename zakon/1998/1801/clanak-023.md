@@ -1,0 +1,2 @@
+# Članak 23.
+U svim odredbama Zakona o Hrvatskoj radioteleviziji riječi: "glavni i odgovorni urednik" zamjenjuju se riječima: "glavni urednik", riječi: "Sabor Republike Hrvatske" zamjenjuju se riječima "Hrvatski državni sabor", riječ: "informiranje" zamjenjuje se riječju: "priopćavanje", riječ: "stanica" zamjenjuje se riječju: "postaja", a uz riječ: "Republika" dodaje se riječ: "Hrvatska", sve u odgovarajućem padežu.

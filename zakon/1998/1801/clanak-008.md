@@ -1,0 +1,5 @@
+# Članak 8.
+U članku 12. stavak 2. mijenja se i glasi:
+"Vijeće HRT-a čini dvadesettri člana koje imenuje i razrješuje Zastupnički dom Hrvatskoga državnog sabora, od kojih deset članova iz reda zastupnika, razmjerno stranačkoj zastupljenosti u Zastupničkom domu Hrvatskoga državnog sabora s tim da jedan od članova bude iz reda zastupnika pripadnika hrvatskog naroda izvan Hrvatske - zastupnika s posebne liste, te jedan član pripadnika nacionalnih manjina, a po jednog člana na prijedlog hrvatskih sveučilišta, Hrvatske akademije znanosti i umjetnosti, Matice hrvatske, Društva hrvatskih književnika, Hrvatskoga novinarskog društva, Hrvatskoga društva glazbenih umjetnika, društava filmskih i dramskih umjetnika, udruga iz Domovinskog rata, strukovnih udruga u osnovnom i srednjem školstvu, Hrvatskoga olimpijskog odbora, Hrvatske matice iseljenika, Katoličke crkve, te jednog predstavnika svih drugih vjerskih zajednica."
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+"Zaposlenici HRT-a ne mogu biti menovani u Vijeće HRT-a."
