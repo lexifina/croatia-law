@@ -1,0 +1,2 @@
+# Članak 4.
+Planiranje nastave za razrede koji ne završavaju obrazovni program obavlja se na osnovi 35 nastavnih tjedana, a za završne razrede na temelju 32 nastavna tjedna. Nastava se organizira u petodnevnom ili šestodnevnom radnom tjednu što se utvrđuje godišnjim planom i programom škole, a u posebnim i spornim slučajevima odluku donosi organ uprave nadležan za poslove školstva općine odnosno grada Zagreba uz prethodnu suglasnost ministra prosvjete, kulture i športa.
