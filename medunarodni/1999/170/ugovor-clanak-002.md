@@ -1,0 +1,5 @@
+# Članak 2.
+Pravo vlasništva i druga stvarna prava koja su fizičke i pravne osobe jedne ugovorne stranke stekle na pokretnim i nepokretnim stvarima na teritoriju druge ugovorne stranke, imaju na teritoriju te ugovorne stranke jednaku pravnu zaštitu pred sudovima i drugim državnim tijelima kakva je zajamčena domaćim fizičkim i pravnim osobama.
+Pod pravom vlasništva i drugim stvarnim pravima u smislu ovog Ugovora smatraju se i pravo korištenja, upravljanja i raspolaganja stečena na sredstvima u društvenom vlasništvu, naplatnim pravnim putem.
+Ako su sredstva u društvenom vlasništvu iz prethodnog stavka ovog članka stečena zajedničkim ulaganjem pravnih, odnosno fizičkih osoba ugovornih stranaka, primijenit će se propisi o suvlasništvu, koji su na snazi na teritoriju one ugovorne stranke na kojoj se sredstva u društvenom vlasništvu nalaze, u omjeru koji se utvrđuje ovisno o doprinosu u zajedničkim ulaganjima.
+Odredbe stavaka 2. i 3. ovog članka ne odnose se na slučajeve koji su uređeni odredbama članaka 8., 9. i 10. ovog Ugovora.

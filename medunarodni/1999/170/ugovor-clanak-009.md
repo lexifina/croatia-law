@@ -1,0 +1,3 @@
+# Članak 9.
+Kod pravnih osoba upisanih u sudski registar na teritoriju jedne od ugovornih stranaka, a osnovanih od poslovnih jedinica i drugih organizacijskih oblika bez svojstva pravne osobe (predstavništva i sl.), pravnih osoba sa sjedištem na teritoriju druge ugovorne stranke, ugovorne stranke suglasne su da je bez obzira na mjesto upisa u sudski registar riječ o kapitalu u vlasništvu osnivača, pravne osobe druge ugovorne stranke, osim društvenog kapitala iz stavka 2. ovog članka.
+Ulaganje društvenog kapitala druge ugovorne stranke u pravne osobe iz stavka 1. ovoga članka uračunavaju se u kapital te ugovorne stranke i na toj osnovi se određuje udio društvenog kapitala, sukladno članku 10. ovog Ugovora.
