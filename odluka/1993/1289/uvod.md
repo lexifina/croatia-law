@@ -1,0 +1,1 @@
+Na osnovi točke IV. stavke 3. Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite ("Narodne novine" broj 29/93 i 51/93) Izvršni odbor Skupštine Republičkog fonda zdravstvenog osiguranja i zdravstva Hrvatske na 25. sjednici, održanoj 28. lipnja 1993. godine, donio je
