@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 2., članka 20. stavka 2., članka 39. stavka 3. točke 4., članka 40. stavka 1. točke 1., 2., 4. i 5. Zakona o morskom ribarstvu ("Narodne novine", br. 74/94 i 57/96) ministar poljoprivrede i šumarstva donosi
