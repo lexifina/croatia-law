@@ -1,0 +1,4 @@
+## III. NOVIGRADSKO I KARINSKO MORE
+# Članak 5.
+(1) Akvatorij Novigradskog i Karinskog mora se proteže od spojnice rt Ždrijac - Maslenica i obuhvaća cijelo područje Novigradskog i Karinskog mora, osim akvatorija, koji je određen kao posebno stanište ušća rijeke Zrmanje u članku 2. točci 6. ovog Pravilnika.
+(2) Dozvoljeno je u akvatoriju Novigradskog i Karinskog mora obavljanje ribolova plivaricom srdelarom, plivaricom palamidarom, plivaricom ciplaricom, potegačom srdelarom, potegačom oližnicom, jednostrukim mrežama stajačicama oližnicama, gavunarama, girarama, vojgama, menularama, bukvarama, prosticama, polandarama i psarama, trostrukim mrežama stajačicama poponicama, dredžom kunjkarom, vršama za lov ribe i škampa, udičarskim ribolovnim alatima, ostima s i bez uporabe osvjetljenja, te skupljanje školjaka ronjenjem na dah.

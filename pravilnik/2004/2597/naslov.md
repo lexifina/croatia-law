@@ -1,0 +1,1 @@
+Pravilnik o posebnim staništima riba i drugih morskih organizama i regulacije ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu

@@ -1,0 +1,3 @@
+# Članak 3.
+(1) U posebnim staništima iz članka 2. ovog Pravilnika zabranjeno je obavljanje svakog ribolova i lova drugih morskih organizama, kao i sakupljanje morskih organizama.
+(2) Iznimno od odredbe stavka 1. ovoga članka u posebnom staništu akvatorija ušća rijeke Mirne (Tarska vala) iz članka 2. točke 2. ovog Pravilnika dozvoljeno je obavljanje ribolova uz naknadu, mrežom potegačom tratom - ciplaricom čija veličina oka mrežnog tega ne smije biti manja od 26 mm, od 01. prosinca do 31. siječnja. Uvjete obavljanja ribolova u navedenom razdoblju odredit će ministar raspisivanjem javnog natječaja.
