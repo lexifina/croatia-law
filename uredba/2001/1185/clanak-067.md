@@ -1,0 +1,11 @@
+# Članak 67.
+U Deviznom inspektoratu ustrojavaju se:
+1. Sektor za devizni nadzor
+2. Odjel za devizne prekršaje.
+Sektor za devizni nadzor obavlja neposredni inspekcijski nadzor nad pravnim i fizičkim osobama u primjeni i provedbi zakona i drugih propisa u području deviznog i kreditnog poslovanja i trgovine s inozemstvom; izdaje naloge za otklanjanje nepravilnosti i nezakonitosti u poslovanju nadziranih osoba; podnosi prekršajne i kaznene prijave; predlaže i organizira provedba ciljanih akcija nadzora nad primjenom pojedinih propisa; izvješćuje nadležna tijela o otkrivenim nepravilnostima i poduzetim mjerama iz svoje nadležnosti; obavlja kontrolu po zahtjevu Ureda za sprječavanje pranja novca, Hrvatske narodne banke i drugih nadležnih tijela; i drugi poslovi nadzora koji proizlaze iz zakonskih ovlasti kao i poslovi po nalogu ministra.
+U Sektoru za devizni nadzor ustrojavaju se:
+1.1. Odjel za devizni nadzor banaka, mjenjača i financijskih posrednika
+1.2. Odjel za devizni nadzor trgovine s inozemstvom
+Odjel za devizni nadzor banaka, mjenjača i financijskih posrednika obavlja inspekcijski nadzor nad poslovanjem banaka, štedionica, te podružnica i predstavništva stranih banaka, mjenjača i financijskih posrednika, osiguravajućih društava, investicijskih fondova, mirovinskih fondova, ovlaštenih trgovaca vrijednosnim papirima, brokera i drugih ovlaštenih subjekata tržišta kapitala u primjeni propisa iz područja deviznog i kreditnog poslovanja s inozemstvom.
+Odjel za devizni nadzor trgovine s inozemstvom obavlja inspekcijski nadzor domaćih i stranih osoba, te predstavništva i podružnica domaćih i stranih pravnih osoba u primjeni propisa iz područja trgovine, te deviznih i kreditnih poslova s inozemstvom.
+Odjel za devizne prekršaje vodi prekršajni postupak u prvom stupnju zbog deviznih prekršaja, prekršaja iz područja trgovine s inozemstvom i kreditnih odnosa s inozemstvom propisanih Zakonom o osnovama deviznog sustava, deviznog poslovanja i prometa zlata, Zakonom o trgovini, Zakonom o kreditnim poslovima s inozemstvom i Zakonom o Deviznom inspektoratu Republike Hrvatske. U Odjelu se obavljaju i opći i administrativni poslovi za potrebe Deviznog inspektorata, a posebno se za Odjel za devizne prekršaje obavljaju poslovi prijepisa i drugi poslovi potrebni za nesmetano obavljanje poslova Odjela za devizne prekršaje.

@@ -1,0 +1,4 @@
+## UPRAVA ZA MEĐUNARODNE FINANCIJSKE
+## INSTITUCIJE I EUROPSKE INTEGRACIJE
+# Članak 8.
+Uprava za međunarodne financijske institucije i europske integracije je upravna organizacija u sastavu Ministarstva koja priprema nacrte prijedloga zakonskih i drugih propisa, obavlja poslove u svezi multilateralne financijske suradnje i obveza iz članstva Republike Hrvatske u međunarodnim i regionalnim financijskim institucijama, priprema i prati financijsku provedbu investicijskih projekata i programa te tehničke pomoći putem međunarodnih financijskih institucija, provodi poslove iz područja djelokruga Ministarstva, koji se odnose na suradnju i približavanje Republike Hrvatske europskim integracijama, daje mišljenja na nacrte prijedloga zakona i drugih propisa koji se odnose na multilateralne financijske odnose s inozemstvom, te obavlja i druge poslove koje joj odredi ministar.
