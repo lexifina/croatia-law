@@ -1,0 +1,5 @@
+# Članak 7.
+U članku 25. stavku 1. riječ: "porodiljskog" zamjenjuje se riječju: "porodiljnog".
+Stavak 2. mijenja se i glasi:
+"Pravo na nadoknadu plaće za vrijeme korištenja obveznoga porodiljnog dopusta, porodiljnog dopusta do jedne, odnosno tri godine života djeteta, posvojiteljskog dopusta, prava na rad u skraćenom radnom vremenu do jedne, odnosno tri godine života djeteta iz članka 21. stavka 1. točke 7. ovoga Zakona, dopusta iz čanka 21. stavka 1. točke 8. ovoga Zakona, stanke za dojenje djeteta iz članka 21. stavka 1. točke 9. ovoga Zakona za osiguranike, te pravo na novčanu nadoknadu nezaposlenim majkama za vrijeme korištenja porodiljnog dopusta za blizance, treće i svako sljedeće dijete do navršene treće godine djetetova života iz članka 21. stavka 2. ovoga Zakona osigurava se u visini iznosa od tri najniže plaće koju utvrđuje Vlada Republike Hrvatske. Tako određena nadoknada pripada osiguranicima iz članka 21. stavak 1. točke 6., 7., 8. i 9. ovoga Zakona, ako je povoljnija od nadoknade plaće utvrđene prema članku 33. i članku 34. stavku 2. točka 3. ovoga Zakona."
+Stavak 4. briše se.

@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 30. stavak 3. mijenja se i glasi:
+"Za vrijeme trudnoće, korištenja porodiljnog dopusta, posvojiteljskog dopusta, prava na rad u skraćenom radnom vremenu do jedne, odnosno tri godine života djeteta, dopusta iz članka 57. Zakona o radu, korištenja stranke za dojenje djeteta iz članka 60. Zakona o radu osiguranika koji koristi jedno od navedenih prava obračunava se nadoknada plaće, a nezaposlenim majkama za vrijeme korištenja porodiljnog dopusta za blizance, treće i svako sljedeće dijete do navršene treće godine djetetova života novčana nadoknada na način utvrđen u ovom Zakonu, do isteka korištenja istog prava."
