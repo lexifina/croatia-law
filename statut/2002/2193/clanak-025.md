@@ -1,0 +1,7 @@
+## Predsjedništvo Hrvatske stranke zelenih-Eko saveza
+# Članak 25.
+Predsjedništvo čine predsjednik Hrvatske stranke zelenih-Eko saveza, dva dopredsjednika od kojih jedan u slučaju spriječenosti predsjednika predstavlja stranku prema ovlasti predsjednika ili ukoliko predsjednik nije u mogućnosti dati ovlast, po odluci predsjedništva, Glavni tajnik i predsjednik mladeži Hrvatske stranke zelenih-Eko saveza.
+Predsjedništvo se redovito sastaje i donosi odluke iz trećeg stavka ovog članka.
+Predsjedništvo na svoju sjednicu može pozvati i druge osobe koje sudjeluju u radu predsjedništva, ali pri tome nemaju pravo glasovanja i odlučivanja.
+Predsjedništvo Hrvatske stranke zelenih-Eko saveza odlučuje o bitnim političkim pitanjima, imenuje i razrješava predsjednika, dopredsjednike, Glavnog tajnika, blagajnika, Glavnog urednika stranačkog glasila, odlučuje o prigovorima, protiv odluka, o raspuštanju nižih tijela Hrvatske stranke zelenih-Eko saveza i, donosi odluku o sazivanju Skupštine, proširenog predsjedništva, donosi pravilnike iz svoje nadležnosti, verificira pravilnike nižih tijela i organa, određuje kandidate na državnim listama te raspravlja, odlučuje o adresi sjedišta stranke, odlučuje o visini članarine i odlučuje o svim drugim pitanjima koja nisu stavljena u djelokrug drugih tijela Hrvatske stranke zelenih-Eko saveza.
+Predsjedništvo formira po potrebi Komisiju za prijedlog izmjena i dopuna Statuta od tri člana, a predsjednik komisije je član Predsjedništva.
