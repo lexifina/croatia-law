@@ -1,0 +1,5 @@
+# Članak 27.
+(1) Psihijatrijska ustanova koja je prisilno zadržala osobu s duševnim smetnjama iz članka 22. ovoga Zakona dužna je o tome bez odgode, a najkasnije u roku od 12 sati od donošenja odluke o prisilnom zadržavanju, neposredno ili putem elektronskih sredstava komuniciranja dostaviti županijskom sudu na području kojega se nalazi psihijatrijska ustanova obavijest o prisilnom zadržavanju zajedno sa liječničkom dokumentacijom o pregledu osobe s duševnim smetnjama s obrazloženjem razloga za prisilno zadržavanje.
+(2) Psihijatrijska ustanova dužna je obavijest o prisilnom zadržavanju i liječničku dokumentaciju dostaviti u roku iz stavka 1. ovoga članka zakonskom zastupniku prisilno zadržane osobe, nadležnom centru za socijalnu skrb i povjerenstvu za zaštitu osoba s duševnim smetnjama.
+(3) Obrazac s odgovarajućim sadržajem obavijesti o prisilnom zadržavanju propisuje ministar zdravstva.
+(4) Centar za socijalnu skrb iz stavka 2. ovoga članka nadležan je prema posljednjem prebivalištu odnosno boravištu prisilno zadržane osobe, a ako je prebivalište odnosno boravište prisilno zadržane osobe nepoznato prema području na kojem se nalazi psihijatrijska ustanova.

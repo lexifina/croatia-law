@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Sud iz članka 40. stavka 2. ovoga Zakona donijet će rješenje o otpustu prisilno smještene osobe iz psihijatrijske ustanove i prije isteka vremena prisilnog smještaja određenog u rješenju o prisilnom smještaju ako utvrdi da su prestali razlozi za prisilni smještaj iz članka 22. ovoga Zakona. Ovo rješenje sud donosi po službenoj dužnosti ili na prijedlog prisilno smještene osobe, njezinoga zakonskog zastupnika, bliskog srodnika, punomoćnika, povjerenstva za zaštitu osoba s duševnim smetnjama ili psihijatrijske ustanove u kojoj je osoba smještena.
+(2) U postupku radi otpusta sud će na odgovarajući način primijeniti odredbe glave V. ovoga Zakona.

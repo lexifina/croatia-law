@@ -1,0 +1,5 @@
+## VII. POSTUPCI PREMA OSOBAMA S DUŠEVNIM SMETNJAMA PROTIV KOJIH SE VODI KAZNENI ILI PREKRŠAJNI POSTUPAK ILI KOJE SU OSUĐENICI
+# Članak 44.
+(1) Kada sud u kaznenom postupku utvrdi da je osoba u vrijeme kada je ostvarila opis kaznenog djela bila neubrojiva te zbog toga donese odgovarajuću odluku po Zakonu o kaznenom postupku, a ta se osoba nalazi u pritvoru ili psihijatrijskoj ustanovi, neće se pustiti na slobodu već će sud donijeti rješenje o njezinu privremenom zadržavanju do najviše deset dana od donošenja tog rješenja.
+(2) Sud koji je sudio u kaznenom postupku može po donošenju presude i rješenja iz stavka 1. ovoga članka posebnim rješenjem odrediti prisilno zadržavanje neubrojive osobe prema odredbama ovoga Zakona na vrijeme koje ne može trajati duže od 8 dana od pravomoćnosti presude iz stavka 1. ovoga članka.
+(3) Osoba iz stavka 2. ovoga članka prisilno će se zadržati u psihijatrijskoj ustanovi koja se nalazi u mjestu njezina prebivališta ili boravišta, a ako u tom mjestu nema psihijatrijske ustanove, u psihijatrijskoj ustanovi koja je najbliža mjestu njezina prebivališta ili boravišta, ili mjestu gdje je vođen kazneni postupak.

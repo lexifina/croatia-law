@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Postupak propisan člankom 26. i 27. ovoga Zakona primjenjuje se i na osobu s duševnim smetnjama koja se prisilno zadržava u slučaju kad je već smještena na liječenje u psihijatrijsku ustanovu uz njezin pristanak pa pristanak opozove, ali su u međuvremenu nastupili uvjeti koji odgovaraju uvjetima za prisilni smještaj iz članka 22. ovoga Zakona te na osobu glede koje su ispunjeni uvjeti iz članka 22. ovoga Zakona koja se na drugi način našla u psihijatrijskoj ustanovi.
+(2) Rok od 12 sati za dostavu obavijesti o prisilnom zadržavanju i liječničku dokumentaciju županijskom sudu, centru za socijalnu skrb, povjerenstvu za zaštitu osoba s duševnim smetnjama i zakonskom zastupniku osobe s duševnim smetnjama, počinje teći od opoziva pristanka smještene osobe.

@@ -1,0 +1,4 @@
+# Članak 59.
+(1) Ovlaštene službene osobe Ministarstva unutarnjih poslova dužne su na poziv doktora medicine pružiti pomoć zdravstvenim djelatnicima pri savladavanju tjelesnog otpora osobe iz članka 22. ovoga Zakona, ali samo dok ta osoba pruža tjelesni otpor te dok se ne osigura zbrinjavanje i otklanjanje neposredne opasnosti te osobe.
+(2) Kada postoji izravna opasnost da će osoba s duševnim smetnjama svojim ponašanjem u psihijatrijskoj ustanovi napasti na život ili tijelo neke osobe ili otuđiti, uništiti ili teže oštetiti imovinu te ustanove, službene osobe Ministarstva unutarnjih poslova dužne su na poziv ravnatelja ili zdravstvenog djelatnika kojeg je za to ovlastio ravnatelj psihijatrijske ustanove žurno pružiti odgovarajuću pomoć.
+(3) Osoba koja je uputila pozive iz stavka 1. i 2. ovoga članka dužna ga je naknadno u pisanom obliku obrazložiti te to obrazloženje uložiti u liječničku dokumentaciju.

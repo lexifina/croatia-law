@@ -1,0 +1,2 @@
+# Članak 24.
+Osobu s duševnim smetnjama za koju se osnovano sumnja da može neposredno ugroziti vlastiti život ili zdravlje odnosno život ili zdravlje drugih u osobito žurnim slučajevima mogu ovlaštene službene osobe Ministarstva unutarnjih poslova dovesti u psihijatrijsku ustanovu nadležnu prema prebivalištu ili boravištu osobe odnosno prema mjestu na kojem je osoba trenutačno zatečena bez prethodnoga liječničkog pregleda iz članka 23. stavka 1. ovoga Zakona.
