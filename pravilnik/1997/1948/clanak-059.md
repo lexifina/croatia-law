@@ -1,0 +1,3 @@
+## Prostorija za pregled i liječenje te kirurške zahvate kod malih životinja
+# Članak 59.
+Prostorija ili odvojeni prostor iz članka 57. stavak 2. i prostorija za kirurške zahvate iz članka 56. stavak 2. ovoga Pravilnika, za pregled i liječenje malih životinja, odnosno prostorija za kirurške zahvate, mora, glede visine i veličine, uređenja podova i odvodnje, površine i boje zidova, površine stolarije, namještaja i drugih uređaja, održavanja čistoće, snabdijevanja toplom i hladnom tekućom vodom, uređenja prozora i intenziteta osvjetljenja, udovoljavati propisanim uvjetima iz članka 20. ovoga Pravilnika.

@@ -1,0 +1,2 @@
+# Članak 6.
+Raspored prostorija i putevi komunikacije između pojedinih radnih, pomoćnih i sanitarnih prostorija, unutar objekta za obavljanje zdravstvene zaštite životinja i veterinarske djelatnosti, moraju odgovarati logičnom slijedu rada, svih poslova i pravaca kretanja u pružanju zdravstvenih usluga te time osigurati nesmetani rad, sigurnost i kretanje stručnog osoblja i stranaka, kao i zaštitu od neovlaštenog ulaza u službene i radne prostorije.

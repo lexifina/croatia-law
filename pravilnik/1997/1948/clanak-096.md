@@ -1,0 +1,5 @@
+# Članak 96.
+(1) Veterinarska klinika za male i velike životinje mora raspolagati s rentgenskim i ultrazvučnim uređajem.
+(2) Veterinarska bolnica za male i velike životinje mora osigurati mogućnost rentgenske i ultrazvučne dijagnostike za potrebe svojih pacijenata pomoću odgovarajućih vlastitih uređaja ili putem ugovora za obavljanje rentgenske, odnosno ultrazvučne dijagnostike kod drugih pravnih i fizičkih osoba u obavljanju veterinarske djelatnosti.
+(3) Vlastiti stacionarni rentgenski aparat mora biti smješten u zasebnoj zaštićenoj prostoriji, sa svim propisanim zaštitnim sredstvima, opremom i priborom za razvijanje i očitavanje snimaka ili se mora raspolagati sa pokretnim, zaštićenim rentgenskim aparatom. Rentgenski uređaji moraju biti ispitani te posjedovati atest za upotrebu izdan od nadležnih tijela kontrole izvora zračenja.
+(4) Veterinarska klinika i veterinarska bolnica koja koristi rentgensku i ultrazvučnu dijagnostiku pomoću vlastitih uređaja, mora raspolagati sa veterinarom-specijalistom određenog profila - magistrom znanosti ili specijalistom iz područja rentgenske i ultrazvučne dijagnostike.

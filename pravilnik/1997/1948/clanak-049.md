@@ -1,0 +1,5 @@
+## IV. UVJETI KOJIMA MORA UDOVOLJAVATI VETERINARSKA AMBULANTA
+# Članak 49.
+(1) Veterinarska ambulanta kao manja, samostalna pravna osoba u obavljanju veterinarske djelatnosti mora imati poslovni objekt s odgovarajućim, ovim Pravilnikom propisanim, prostorijama i prostorima za obavljanje zdravstvene zaštite životinja te mora imati prostoriju za obavljanje administrativno-stručnih i pomoćnih poslova.
+(2) Administrativno-stručni, knjigovodstveno-računovodstveni i pomoćni poslovi ili samo pojedini od ovih poslova, mogu se obavljati i izvan poslovnog objekta veterinarske ambulante ili povjeravanjem istih poslova drugim ovlaštenim pravnim osobama za vođenje knjigovodstveno financijskog poslovanja, ako to ne šteti funkcionalnom organiziranju poslova i ne stvara poteškoće u pružanju usluga.
+(3) Veterinarska ambulanta mora biti vidljivo označena natpisnom pločom sa punim nazivom, adresom i telefonskim brojem. Dopunska promjenjiva pločica na ulaznom dijelu mora pružati obavijesti o dežurnom veterinaru izvan redovnog radnog vremena, s imenom, adresom i telefonskim brojem.

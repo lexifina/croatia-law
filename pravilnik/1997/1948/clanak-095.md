@@ -1,0 +1,5 @@
+# Članak 95.
+(1) Veterinarska klinika za male životinje mora imati uposlena najmanje tri veterinara s odobrenjem za rad i specijalizacijom iz područja unutarnjih bolesti, krirurgije, rentgenologije i ultrazvučne dijagnostike, te patologije domaćih mesoždera (magistar specijalista ili magistar znanosti ili doktor znanosti iz dotičnog područja.)
+(2) Veterinarska klinika za velike životinje mora imati uposlena najmanje tri veterinara s odobrenjem za rad i specijalizacijom iz područja unutarnjih bolesti, kirurgije, rentgenologije i ultrazvučne dijagnostike, teriogenealogije-reprodukcije i umjetnog osjemenjivanja te patologije i terapije domaćih papkara i kopitara (magistar specijalista ili magistar znanosti ili doktor znanosti iz dotičnog područja.)
+(3) Veterinarska klinika mora imati uposlenog najmanje jednog timaritelja životinja i jednog veterinarskog tehničara.
+(4) Veterinarska klinika u obavljanju poslova javnih ovlasti mora, u okviru uposlenih stručnih djelatnika veterinara, raspolagati najmanje s jednim veterinarom s položenim državnim stručnim ispitom za zvanje veterinarskog inspektora i imenovanjem za ovlaštenog veterinara.

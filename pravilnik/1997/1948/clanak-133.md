@@ -1,0 +1,7 @@
+# Članak 133.
+(1) Laboratorij za bakteriologiju za obavljanje osnovne djelatnosti mora raspolagati sa:
+1. prostorijom za prijem i primarnu obradu dijagnostičkog materijala, prostorijom za čuvanje dijagnostičkog materijala i dijagnostikuma, prostorijom za identifikaciju bakterija, prostorijom za serološke pretrage, prostorijom za imunofluorescentnu dijagnostiku, kabinetom za obradu rezultata i pripremu izvještaja;
+2. sitnim laboratorijskim posuđem i priborom, plinskim plamenicima i bakteriološkim instrumentarijem, suhim i vlažnim sterilizatorima, termostatom, hladnjakom, zamrzivačem, vodenom kupelji sa regulacijom temperature, vakuum sisaljkom, čitačem (brojač) bakterija, pH metrom, vagom sa jednom decimalom, aparatom za automatsko rastakanje i razređivanje (dilutor) ili mikrodilucijski sistem s optičkim čitačem, mikroskopom optičkim sa imerzijom, mikroskopom fluorescentnim, centrifugom.
+(2) Za obavljanje specijalizirane djelatnosti laboratorij za bakteriologiju mora, uz prostorije, opremu i uređaje iz stavka 1. ovog članka raspolagati sa:
+1. prostorijom za rad s posebno opasnim bakterijama;
+2. aparatom za usitnjavanje dijagnostičkog materijala, aparatom za filtraciju, liofilizatorom, fermentorom, komorom za sterilni rad, posudom ili termostatom s anaerobnim uvjetima i regulacijom ugljičnog dioksida i vlage, mješalicom, mućkalicom, kolorimetrom, faznokontrastnim mikroskopom, stereomikroskopom, aparatom za automatsko izvođenje imunoenzimatskog testa (ELISA) i osobnim računalom.

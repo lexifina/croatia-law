@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju uvjeti, glede uređenja objekata, prostora, prostorija, veterinarske opreme i stručnih djelatnika, kojima za obavljanje veterinarske djelatnosti, moraju udovoljavati veterinarske organizacije: veterinarske stanice s područnim ambulantama, veterinarske ambulante, veterinarske bolnice, veterinarske klinike, veterinarski dijagnostički i analitički laboratoriji te veterinarska privatna praksa i veterinarska služba ustrojena u pravnim osobama koje obavljaju djelatnost uzgoja stoke i stočarske proizvodnje (u daljnjem tekstu: veterinarska služba).
+(2) Ovim se Pravilnikom propisuju i veterinarsko-zdravstveni uvjeti kojima moraju udovoljavati veterinarske organizacije, veterinarska privatna praksa i veterinarska služba pri osnivanju, u postupku dobivanja veterinarsko-zdravstvene suglasnosti, kao i posebni uvjeti u obavljanju poslova javnih ovlasti u prenijetim im poslovima državne uprave.

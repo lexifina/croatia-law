@@ -1,0 +1,2 @@
+# Članak 58.
+Prostorija ili natkriveni prostor - nadstrešnica iz članka 57. stavka 4. ovoga Pravilnika, za pregled i liječenje velikih životinja mora, glede visine i veličine, uređenja podova i odvodnje, površine i boje zidova, površine stolarije, namještaja i drugih uređaja, održavanja čistoće, tekuće vode, uređenja prozora i intenziteta osvjetljenja, udovoljavati propisanim uvjetima iz članka 19. ovoga Pravilnika.

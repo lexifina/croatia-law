@@ -1,0 +1,3 @@
+# Članak 120.
+(1) Veterinarski dijagnostički i analitički laboratoriji u obavljanju poslova laboratorijske i analitičke djelatnosti iz članka 117. ovog Pravilnika, moraju udovoljavati uvjetima za obavljanje osnovnih djelatnosti iz članka 119. točke 1.,3.,6.,7.,13.,14. i 15. ovog Pravilnika a mogu udovoljavati uvjetima i za obavljanje drugih osnovnih ili specijaliziranih djelatnosti u skladu sa unutarnjim ustrojstvom i razdiobom poslova zavoda.
+(2) Glede uređenja prostorija, opreme i uređaja te kadrova, laboratoriji odnosno prostorije, moraju odgovarati općim i posebnim uvjetima propisanim ovim Pravilnikom za pojedine osnovne ili specijalizirane djelatnosti.

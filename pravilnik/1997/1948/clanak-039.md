@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Prostorija ili prostor za osnovne laboratorijske pretrage i prostorija za čišćenje, pranje i sterilizaciju instrumenata i pribora područne veterinarske ambulante mora imati pod od čvrstog materijala koji se lako pere i nije sklizak, a površine zidova, koje su udaljene manje od jednog metra od radnog stola moraju biti, u visini od najmanje 1,60 metra obložene zidnim keramičkim pločicama ili ravne i glatke površine izrađene od materijala koji se lako pere i dezinficira.
+(2) Područna veterinarska ambulanta mora raspolagati odgovarajućom lupom za kontrolu pokretljivosti sjemena za umjetno osjemenjivanje i lupom ili mikroskopom sa priborom za trihinoskopski pregled mesa ukoliko se isti ne vrši isključivo pri ambulanti u sjedištu veterinarske stanice.
+(3) U prostoriji ili prostoru za osnovne laboratorijske pretrage mora se nalaziti oprema i uređaji iz članka 23. stavak 2. točke 1., 2., 4., 6., 8., 12. i 13. ovog Pravilnika.
+(4) U prostoriji za čišćenje, pranje i sterilizaciju instrumenata i pribora područne veterinarske ambulante mora se nalaziti pribor i oprema sukladno odredbama članka 24., stavak 3. točke 1., 2., 3., 4., 7. i 8. ovoga Pravilnika.

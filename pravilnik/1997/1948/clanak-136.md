@@ -1,0 +1,6 @@
+# Članak 136.
+(1) Laboratorij za virusologiju u obavljanju osnovne djelatnosti mora raspolagati sa:
+1. prostorijom za prijem, čuvanje i primarnu obradu dijagnostičkog materijala, prostorijom za imunofluorescentnu dijagnostiku bjesnoće i drugih virusnih bolesti, prostorijom za serološke pretrage, prostorijom, kabinetom za obradu rezultata pretraga i pripremu izvještaja;
+2. sitnim laboratorijskim posuđem i priborom, centrifugom, hladnjakom, zamrzivačem, termostatom, vodenom kupelji sa regulacijom temperature, aparatom za automatsko rastakanje i razrjeđivanje (diluter), aparatom za izvođenje imunoenzimskog testa (ELISA), pH metrom, vagom laboratorijskom, vakuum sisaljkom, sterilizatorom suhim i vlažnim, autoklavom, mikroskopom svjetlosnim s imerzijom i mikroskopom fluorescentnim.
+(2) Za obavljanje specijalizirane djelatnosti, uz prostorije, pribor i uređaje iz stavka 1. ovoga članka, laboratorij za virusologiju mora raspolagati sa:
+Aparatom za usitnjavanje dijagnostičkog materijala, ultracentrifugom, kontejnerom s tekućim dušikom, termostatom s regulacijom atmosfere (vlaga, ugljični dioksid), termostatom, inkubatorom za embrioniranje jaja, mješalicom, mućkalicom, liofilizatorom, priborom za filtraciju, invertnim mikroskopom i osobnim računalom.

@@ -1,0 +1,3 @@
+# Članak 130.
+(1) Namještaj u prostorijama dijagnostičko-analitičkih laboratorija mora biti takve izvedbe da odgovara namjeni svake pojedine prostorije te stručno-tehničkim, higijenskim i estetskim zahtjevima i da se može lako održavati čistim i urednim.
+(2) U svim prostorijama gdje se pretražuje infektivni dijagnostički materijal i obavljaju poslovi sa sterilnim priborom i hranjivim podlogama, zabranjeno je držanje namještaja, pribora i predmeta od nezaštićenog drva i drugih poroznih materijala koji ne pružaju mogućnosti sigurne dezinfekcije, kao i držanje ukrasnih biljaka lončanica i zavjesa na prozorima.
