@@ -1,0 +1,3 @@
+# Članak 25.
+Odsjek za plan i analizu socijalne skrbi izrađuje nacrt prijedloga proračuna za djelatnost socijalne skrbi; izrađuje mjesečne i godišnje financijske planove za djelatnost socijalne skrbi, priprema izmjene i dopune proračuna i zahtjeve za preraspodjelu sredstava proračuna za djelatnost socijalne skrbi; planira nabavu u sustavu socijalne skrbi; priprema, planira, predlaže i analizira kapitalna ulaganja za djelatnost socijalne skrbi; izrađuje potrebna izvješća i analize; na bazi analitičkih pokazatelja predlaže korištenje i racionalizaciju sredstava; sudjeluje u izradi kriterija i mjerila minimalnih standarda za decentralizirane funkcije; radi na izradi analiza cijena usluga ustanova socijalne skrbi.
+5.2. Odjel za investicije i nabavu u zdravstvu

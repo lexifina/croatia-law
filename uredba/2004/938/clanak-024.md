@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek za plan i analizu zdravstva prikuplja prijedloge proračuna zdravstvenih ustanova i Hrvatskog zavoda za zdravstveno osiguranje; planira nabavu u sustavu zdravstva; sudjeluje u izradi financijskih planova Hrvatskog zavoda za zdravstveno osiguranje; priprema i izrađuje bazu podataka o financijskom poslovanju i opremljenosti zdravstvenih ustanova; analizira kapitalna ulaganja u zdravstvene ustanove; priprema i izrađuje podloge za donošenje odluke o decentraliziranim sredstvima i prati njihovu realizaciju; izrađuje potrebna izvješća i analize; na bazi analitičkih pokazatelja predlaže korištenje i racionalizaciju sredstava.
+5.1.3. Odsjek za plan i analizu socijalne skrbi

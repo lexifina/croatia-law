@@ -1,0 +1,2 @@
+# Članak 47.
+Odjel za provedbu projekata stručno-tehničke pomoći potiče, priprema i koordinira provedbu projekata iz programa CARDS i drugih programa stručno-tehničke pomoći Republici Hrvatskoj iz djelokruga rada Uprave; priprema i planira godišnje i višegodišnje zahtjeve za projekte; predlaže nove projekte; izrađuje hodogram aktivnosti projekata; priprema podloge za financiranje; evaluira ponude; pregovara s izvođačima radova i izrađuje izvješća o provedbi projekata; koordinira aktivnost s drugim ministarstvima i relevantnim institucijama.

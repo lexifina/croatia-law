@@ -1,0 +1,7 @@
+# Članak 22.
+Odjel za plan i analizu: priprema upute za izradu proračuna proračunskih korisnika u skladu sa smjernicama i projekcijom fiskalne politike; izrađuje nacrt prijedloga plana državnog proračuna za razdjel; koordinira aktivnosti na pripremi i izradi nacrta prijedloga proračuna svih proračunskih korisnika po glavama unutar razdjela; izrađuje mjesečne i godišnje financijske planove proračunskih korisnika za sve glave i razdjel; priprema izmjene i dopune proračuna i zahtjeve za preraspodjelu sredstava proračuna; planira, predlaže i analizira kapitalna ulaganja i investicije u ustanove zdravstva i socijalne skrbi; planira nabavu za potrebe Ministarstva; priprema i izrađuje bazu podataka o opremljenosti ustanova u nadležnosti Ministarstva; priprema i izrađuje mjerila i kriterije za utvrđivanje cijena usluga domova socijalne skrbi; priprema i izrađuje mjerila i kriterije za financiranje programa i decentraliziranih funkcija; izrađuje potrebna izvješća i analize; na bazi analitičkih pokazatelja predlaže korištenje i racionalizaciju sredstava; prikuplja, obrađuje i analizira financijske pokazatelje poslovanja ustanova u sustavu zdravstva.
+Za obavljanje poslova Odjela za plan i analizu ustrojavaju se:
+5.1.1. Odsjek za plan i analizu Ministarstva,
+5.1.2. Odsjek za plan i analizu zdravstva,
+5.1.3. Odsjek za plan i analizu socijalne skrbi.
+5.1.1 Odsjek za plan i analizu Ministarstva

@@ -1,0 +1,3 @@
+# Članak 23.
+Odsjek za plan i analizu Ministarstva izrađuje nacrt prijedloga proračuna za Ministarstvo; izrađuje mjesečne i godišnje financijske planove Ministarstva; priprema izmjene i dopune proračuna i zahtjeve za preraspodjelu sredstava proračuna za Ministarstvo; priprema, planira, predlaže i analizira kapitalna ulaganja Ministarstva; planira nabavu za potrebe Ministarstva; sudjeluje u izradi kriterija i mjerila minimalnih standarda za decentralizirana sredstva; izrađuje potrebna izvješća i analize; na bazi analitičkih pokazatelja predlaže korištenje i racionalizaciju sredstava.
+5.1.2. Odsjek za plan i analizu zdravstva

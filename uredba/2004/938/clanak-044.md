@@ -1,0 +1,3 @@
+# Članak 44.
+Odjel za sanitarnu inspekciju: obavlja inspekcijske, upravne i stručne poslove koji se odnose na zaštitu pučanstva od zaraznih bolesti, ionizirajućih i neionizirajućih zračenja, proizvodnju, promet, uporabu i zbrinjavanje otrova; obavlja sanitarno-inspekcijski nadzor nad izgradnjom građevina koje podliježu sanitarnom nadzoru, građevinama i uređajima za javnu vodoopskrbu za preko 50.000 ekvivalentnih stanovnika te uređajima za pročišćavanje otpadnih voda za više od 50.000 ekvivalentnih stanovnika; obavlja nadzor nad provođenjem mjera za zaštitu zdravlja ljudi od štetnih čimbenika okoliša; izrađuje stručne upute za rad i provodi stručni nadzor nad radom županijskih sanitarnih inspektora.
+7.2. Odjel za upravni nadzor i pravne poslove

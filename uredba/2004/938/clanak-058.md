@@ -1,0 +1,3 @@
+# Članak 58.
+U Odsjeku upravnih poslova obavljaju se poslovi rješavanja u upravnim stvarima u drugom stupnju povodom žalbi izjavljenih protiv rješenja centara za socijalnu skrb iz područja obiteljsko-pravne zaštite, zaštite djece i mladeži s poremećajima u ponašanju, socijalne skrbi, rješenja upravnog tijela Grada Zagreba iz područja socijalne skrbi, te rješenja drugih tijela sukladno posebnom zakonu; rješavanje o izvanrednim pravnim lijekovima; rješavanje o sukobu nadležnosti između centara za socijalnu skrb; rješavanje o izuzeću centara za socijalnu skrb i ravnatelja; provođenje upravnog nadzora nad radom centara za socijalnu skrb u pogledu provedbe zakona i drugih propisa u prenijetim im javnim ovlastima.
+8.3.2. Odsjek pravnih poslova

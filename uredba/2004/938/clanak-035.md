@@ -1,0 +1,3 @@
+## 6. UPRAVA ZA PRAVNE POSLOVE
+# Članak 35.
+Uprava za pravne poslove upravna je organizacija u sastavu Ministarstva koja obavlja upravne poslove izrade nacrta strategija, nacionalnih programa, prijedloga zakona i podzakonskih akata iz područja zdravstvene zaštite, zdravstvenog osiguranja i socijalne skrbi; prati usklađenost propisa iz područja zdravstvene zaštite, zdravstvenog osiguranja i socijalne skrbi s propisima Europske unije; obavlja upravne poslove vezane uz provođenje zakona i drugih propisa iz područja zdravstvene zaštite i zdravstvenog osiguranja; vodi propisane registre te prikuplja podatke radi izrade potrebnih izvješća i analiza iz svog djelokruga rada.

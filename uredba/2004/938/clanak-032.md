@@ -1,0 +1,3 @@
+# Članak 32.
+Odsjek za izvršavanje financijskih planova Ministarstva obavlja poslove: pravodobne naplate vlastitih i drugih namjenskih prihoda u skladu s propisima; izvršava rashode i izdatke u skladu s namjenama i izvorima; prati obveze po dodijeljenim sredstvima; izrađuje dinamičke planove po izvorima sredstava; izvršava financijske planove; izrađuje izvješća o izvršavanju financijskih planova; izvršava i prati kapitalne izdatke po programima i projektima; prati kapitalne izdatke decentraliziranih funkcija i ispostavlja zahtjev za potpore izravnanja.
+5.5.2. Odsjek za izvršavanje financijskih planova socijalne skrbi
