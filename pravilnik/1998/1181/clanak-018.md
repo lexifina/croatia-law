@@ -1,0 +1,32 @@
+# Članak 18.
+U Ribolovnoj zoni F određuju se slijedeći dijelovi te zone (akvatoriji) na kojima se smije obavljati ribolov ludrom, zagonicom i fružatom:
+1. akvatorij oko otoka Tun Veliki;
+2. akvatorij oko otoka Zverinac, uključujući akvatorije otočića Sparušnjak i Šilo;
+3. akvatorij od rta Križ do uvale Dumbočica na sjevernoj i zapadnoj obali otoka Sestrunj;
+4. akvatorij oko otočića Tri Sestrice;
+5. akvatorij od rta Borji do rta Sveta Nedjelja na sjeveroistočnoj obali Dugoga otoka;
+6. akvatorij oko otočića Magarčić;
+7. akvatorij od rta Dumboka do rta Kamičina na sjeveroistočnoj obali Dugoga otoka uključujući akvatorije oko otočića Mali i Veliki Planatak, Tatišnjak i Utra;
+8. akvatorij od rta Pelegrin do uvale Velo žalo na istočnoj obali Dugoga otoka, uključujući akvatorij oko otočića Mrtovnjak;
+9. akvatorij od rta Zaglavić do rta Komorina na istočnoj obali otoka Rava;
+10. akvatorij od rta uvale Pešćenica do rta Poljišinac na sjeveroistočnoj i sjeverozapadnoj obali otoka Iž, uključujući akvatorij otočića Beli, Glurović, Mali i Sridnji;
+11. akvatoriji otočića Fulija i Kudica;
+12. akvatorij od uvale Pešćenice do uvale Brašanj na jugozapadnoj i jugoistočnoj obali otoka Iž, uključujući akvatorij otočića Mrtovnjak, Temešnjak i Vodenjak;
+13. akvatorij od rta Ovčjak do rta Zaglav na sjeverozapadnoj obali otoka Ugljan;
+14. akvatorij od uvale Kablin do uvale Sveti Ante na zapadnoj obali otoka Pašman;
+15. akvatorij od uvale Sveti Ante do rta Borovnjak na južnoj obali otoka Pašman, uključujući akvatorij otočića Gangaro, Maslinjak, Mala i Velika Kotula, Mali i Veliki Ošljak, Obun, Runjava Kotula i Žižanj;
+16. akvatorij oko otočića Borovnik, Brušnjak, Gangarol, Mala i Velika Balabra, Pelin, Sit i Šćitna te plićaka Balabra;
+17. akvatorij oko otočića Božikovac, Glamoč, Kurba Mala, Mala Lavdara, Mala i Velika Skala, Ravna sika, Rončić, Trimulići, Trstikovac, Pinizelić te hridi Baba, Did i Krbarić;
+18. akvatorij oko otočića Bikarijica, Blitvica, Mali i Veli Bubuljaši, Ravna sika, Tovarnjak i Žutska Aba, hridi Dinarići, Galijolica i Sanđela te grebena Dinarići i Miši;
+19. akvatorij oko otoka Murvenjak, otočića Lončarić, Mali i Veli Školjik, Oblik, Obrovanj, Prišnjak, Šipnat, Školjić, Visovac, Vrtlić i hridi Mišine;
+20. akvatorij oko otočića Kukuljari i Vodnjak, hridi Kamičić i plićine Mioka;
+21. akvatorij oko otočića Čavlin, Dužac, Tetovišnjak i plićine Čavin;
+22. akvatorij od uvale Mikavica do uvale Tratinska na sjeveroistočnoj i sjeverozapadnoj obali otoka Žirje, uključujući akvatorij otočića Kosmerka, Mikavica, Proklandica, Raparašnjak, Vrtlač i hridi Balun;
+23. akvatorij od uvale Balun do rta Rasoka na zapadnoj obali otoka Žirje, uključujući akvatorij otočića Bakul, Gušteranski i Škrovada;
+24. akvatorij od rta Remetić do rta Oštrica na sjeverozapadnoj i sjeveroistočnoj obali otoka Kaprije;
+25. akvatorij od rta Lemeš do prolaza između otoka Kaprije i otočića Oštrica, uključujući akvatorij otočića Oštrica;
+26. akvatorij od ravne crte koja spaja južni rt otoka Veli Borovnjak s najbližom obalom otoka Kakan do uvale Podprisliga na sjeveroistočnoj i sjeverozapadnoj obali otoka Kakan uključujući akvatorij otočića Mali i Veli Borovnjak;
+27. akvatorij od uvale Tepli bok do rta Kakan na jugozapadnoj obali otoka Kakan, uključujući akvatorij otočića Mali i Veli Kamešnjak;
+28. akvatorij oko otočića Bavljenac, Kraljak, Mali i Veli Mišnjak, Ravan i Sokol;
+29. akvatorij oko otoka Zmajan i Obonjan, uključujući akvatorij oko otočića Dugo, Komorica i Mala i Velika Sestrica;
+30. akvatorij oko otočića Grbavac, Lukovnjak, Maslinovik, Svilan i Tmara;
