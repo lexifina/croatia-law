@@ -1,0 +1,9 @@
+# Članak 30.
+Iznosi iskazani u eurima
+1. Za primjenu odredaba članka 21., stavak (1), točka (b), i članka 26., stavak (3), u slučajevima kada su proizvodi fakturirani u valuti koja nije euro, Ugovorne stranke jednom će u godini utvrditi iznos u svojoj nacionalnoj valuti koji predstavlja protuvrijednost iznosa iskazanoga u eurima.
+2. Na pošiljke će se primjenjivati povlastica iz odredaba članka 21., stavak (1), točka (b), ili članka 26., stavak (3), pozivanjem na valutu u kojoj je račun ispostavljen, a u skladu s iznosom koji je utvrdila odnosna zemlja.
+3. Iznosi koji će se rabiti u nekoj nacionalnoj valuti predstavljat će protuvrijednosti u toj valuti iznosa iskazanih u eurima prvoga radnoga dana u listopadu a primjenjivati će se od 1. siječnja sljedeće godine. Za potrebe primjene odredaba stavka 2 Ugovorne stranke će pri uvozu priznati iznos kojega pismeno dostavi odnosna zemlja ili Europska komisija.
+4. Ugovorna strana može naviše ili naniže zaokružiti iznos koji nastane zbog konverzije iznosa iskazanoga u eurima u svoju nacionalnu valutu. Takav zaokruženi iznos ne smije odstupati od iznosa koji je dobiven konverzijom više od 5 posto. Ugovorna stranka može zadržati nepromijenjenom protuvrijednost u nacionalnoj valuti iznosa koji je iskazan u eurima ako u trenutku godišnjega usklađivanja predviđenoga u stavku 3. konverzija toga iznosa prije zaokruživanja za ishod ima povećanje manje od 15 posto u protuvrijednosti u nacionalnoj valuti. Protuvrijednost se u nacionalnoj valuti može zadržati nepromijenjenom ako konverzija za ishod ima smanjenje te protuvrijednosti.
+5. Iznose u eurima preispitivat će Zajednički odbor na zahtjev Ugovornih stranaka. Pri preispitivanju Zajednički odbor u obzir će uzimati poželjnost očuvanja realnoga učinka ograničenja. U tu svrhu Odbor može donijeti odluku o preinaci iznosa koji su iskazani u eurima.
+GLAVA VI.
+ORGANIZACIJA UPRAVNE SURADNJE
