@@ -1,0 +1,2 @@
+# Članak 2.
+Zdravstvenu zaštitu i zdravstveno osiguranje osiguravaju i provode organizacije zdravstva i zdravstveni djelatnici koji obavljaju poslove zdravstvene zaštite samostalno osobnim radom i Republički fond zdravstvenog osiguranja i zdravstva Hrvatske (u daljnjem tekstu: Republički fond). U pružanju zdravstvene zaštite sudjeluju i organi odgovarajućih inspekcijskih službi, Civilne zaštite i Crveni križ Hrvatske

@@ -1,0 +1,3 @@
+## o zdravstvenoj zaštiti i zdravstvenom osiguranju u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske
+# Članak 1.
+Ovom uredbom uređuje se zdravstvena zaštita i zdravstveno osiguranje u slučaju ratnog stanja ili neposredne ugroženosti. neovisnosti i jedinstvenosti Republike. Propisi kojima se uređuje zdravstvena zaštita i zdravstveno osiguranje koji vrijede na dan stupanja na snagu ove uredbe, primjenjuju se i u slučaju ratnog stanja ili neposredne ugroženosti neovisnosti i jedinstvenosti Republike Hrvatske, ako ovom ili drugim uredbama sa zakonskom snagom nije drugačije određeno.

@@ -1,0 +1,2 @@
+# Članak 12.
+Osiguranik koji je u toku ostvarivanja prava na naknadu osobnog dohotka promijenio mjesto boravka zbog ratnog stanja ili neposredne ugroženosti, neovisnosti i jedinstvenosti Republike, nastavlja ostvarivanje tog prava na području gdje boravi. Osnovicu za naknadu osobnog dohotka za vrijeme privremene spriječenosti za rad čine prosječni iznos osobnog dohotka koji je osiguranik ostvario u posljednjih šest mjeseci. Republički fond utvrđuje minimalni iznos dnevne naknade koji se isplaćuje kada osiguranik ne može pribaviti podatke o osobnom dohotku.
