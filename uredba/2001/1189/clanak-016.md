@@ -1,0 +1,5 @@
+## Pododsjek za psihosocijalnu pomoć
+# Članak 16.
+Pododsjek za psihosocijalnu pomoć provodi nacionalni program psihosocijalne pomoći stradalnicima iz Domovinskog rata i njihove rehabilitacije u svim dijelovima i njihovo uključivanje u redoviti život, osmišljava, prati i nadzire provedbu programa psihosocijalne pomoći i rehabilitacije, te obavlja i druge poslove iz ovog područja.
+Pododsjek za psihosocijalnu pomoć putem svojih županijskih i gradskih središta ostvaruje psihosocijalne programe i usklađuje rad stručnih psihosocijalnih timova u županijama i gradovima, brine o njihovoj opremljenosti, edukaciji, stručno-istraživačkom radu i stalnoj evaluaciji programa.
+Pododsjek skrbi o tome da se program odvija po najvišim svjetskim profesionalnim standardima u cilju unapređenja rada psihosocijalnih timova na terenu i najveće moguće skrbi o obiteljima poginuloga, umrloga, zatočenog ili nestaloga hrvatskog branitelja, HRVI iz Domovinskog rata, razvojačenih hrvatskih branitelja i članova njihovih obitelji, te mirnodopskih vojnih invalida.
