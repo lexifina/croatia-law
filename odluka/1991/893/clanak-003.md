@@ -1,0 +1,2 @@
+# Članak 3.
+Osiguranici iz stavke 1. članka 1. ove odluke. koji su zaposleni u poduzećima ili drugim pravnim subjektima ili kod poslodavca s naznačenog područja, za vrijeme dok izvanredne okolnosti traju. ostvarit će pravo na naknadu osobnog dohotka na teret sredstava Republičkog fonda za vrijeme privremene nesposobnosti za rad. Isplatu naknade iz prethodne stavke ovog članka obavlja Stručna služba ispostave Republičkog fonda na teret svojih sredstava na osnovi propisanih dokumenata, kako je navedeno u članku 1. stavki 3. ove odluke.
