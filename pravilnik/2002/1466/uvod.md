@@ -1,0 +1,1 @@
+Na temelju članka 52. stavka 3. Zakona o obrtu (»Narodne novine«, broj 77/93, 90/96 i 64/01) ministar za obrt, malo i srednje poduzetništvo nakon prethodno pribavljena mišljenja Hrvatske obrtničke komore i uz suglasnost ministara prosvjete i športa donosi
