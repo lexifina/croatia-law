@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 4. Zakona o zaštiti žrtava fašističkog terora i građanskih žrtava rata ("Narodne novine", br. 57/85, 55/86. 27/88 i 57/89) ministar rada, socijalne skrbi i obitelji izdaje
