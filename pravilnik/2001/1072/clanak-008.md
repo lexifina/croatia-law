@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Agencija je ovlaštena nadzirati rad agenata, zaposlenika i povezanih osoba s kojima je mirovinsko društvo sklopilo ugovor ili ih ovlastilo na informativni kontakt s budućim članovima obveznog fonda.
+(2) Svaka zainteresirana stranka u postupku marketinga mirovinskih fondova ima pravo podnijeti Agenciji prijavu protiv agenta, povezane osobe ili zaposlenika mirovinskih društava koji u postupku prodaje i marketinga i oglašavanja mirovinskog fonda postupa protivno odredbama Zakona o obveznim i dobrovoljnim mirovinskom fondovima (u daljnjem tekstu Zakon) i ovog pravilnika.
+(3) Prijave se podnose Agenciji u pisanoj formi i moraju biti potpisane. Agencija neće uzimati u obzir nepotpisane i anonimne prijave.
+(4) Ako Agencija, postupajući po potpisanoj i neanonimnoj prijavi, utvrdi da su agenti, zaposlenici i povezane osobe mirovinskih društava u postupku prodaje i marketinga mirovinskog fonda prekršili odredbe Zakona i ovog pravilnika, o tome će upozoriti mirovinsko društvo koje ih je angažiralo.
+(5) Učestalo kršenje odredbi o prodaji ili marketingu mirovinskih fondova, od strane agenata, povezanih osoba ili zaposlenika nekog mirovinskog društva, može biti razlogom za oduzimanje odobrenja za rad tog mirovinskog društva.

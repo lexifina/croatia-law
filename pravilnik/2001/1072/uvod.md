@@ -1,0 +1,1 @@
+Na temelju članka 65. i 67. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 49/99; 63/00), Savjet Agencije za nadzor mirovinskih fondova i osiguranja na sjednici održanoj 16. srpnja 2001. donio je
