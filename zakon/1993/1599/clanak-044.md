@@ -1,0 +1,5 @@
+## Potpisivanje javnobilježničkih isprava
+# Članak 44.
+(1) Javni bilježnik je dužan javnobilježničku ispravu vlastoručno potpisati na njenom kraju. Pored potpisa stavit će svoj službeni pečat. Na kraj isprave, ali iznad potpisa javnog bilježnika, stavljaju se i potpisi sudionika te svjedoka ako su i oni sudjelovali u sastavljanju isprave.
+(2) Ako sudionik ne zna pisati, to će se u ispravi naznačiti. Ako sudionik ne može pisati, u ispravi će se naznačiti i razlog tome.
+(3) Ako stranka ne zna ili ne može pisati, pozvat će se, na njen zahtjev, dva svjedoka ili još jedan javni bilježnik, pred kojima će ona svojeručno staviti na ispravu svoj rukoznak, dok će njeno ime potpisati jedan od svjedoka ili drugi javni bilježnik, označavajući sebe kao potpisnika imena stranke.Javni bilježnik je dužan upozoriti stranku na pravo da potpisivanju isprave budu nazočni svjedoci odnosno drugi javni bilježnik i to će upozorenje unijeti u ispravu. Ako stranka ne zatraži sudjelovanje svjedoka ili drugog javnog bilježnika, stavit će, ako to može, na ispravu svoj rukoznak, dok će njeno ime potpisati javni bilježnik označavajući sebe kao potpisnika imena stranke.

@@ -1,0 +1,3 @@
+## Postupak pri sastavljanju javnobilježničkog akta
+# Članak 57.
+Pri sastavljanju javnobilježničkog akta javni bilježnik mora, ako je to moguće, ispitati da li su stranke sposobne i ovlaštene za poduzimanje i sklapanje posla, objasniti strankama smisao i posljedice posla i uvjeriti se o njihovoj pravoj i ozbiljnoj volji .Javni bilježnik će izjave sudionika potpuno jasno i određeno sastaviti pismeno i onda sam pročitati strankama i neposrednim pitanjima uvjeriti se da li sadržaj javnobilježničkog akta odgovara volji stranaka. Prilozi će se uvijek pročitati, osim ako se stranke ne odreknu tog prava i izjave da su upoznate s njihovim sadržajem, što mora biti utvrđeno u javnobilježničkom aktu.

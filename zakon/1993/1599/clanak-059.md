@@ -1,0 +1,6 @@
+## Potvrda (solemnizacija) privatnih isprava
+# Članak 59.
+( 1) Ako nisu u pitanju pravni poslovi iz članka 53. ovoga Zakona, sudionici u pravnom poslu, svi ili neki od njih, mogu isprave o pravnom poslu potvrditi kod javnog bilježnika. Potvrđena isprava ima snagu javnobilježničkog akta, a ako je sastavljena po propisima članka 54. ovoga Zakona ima snagu i izvršnog javnobilježničkog akta.
+(2) Javni će bilježnik privatnu ispravu ispitati u skladu s odredbama članka 34., 57. i 58. ovoga Zakona i ako za to ne nađe zapreka potvrdit će je.
+(3) Ako privatna isprava odgovara po svom obliku propisima javnobilježničke isprave (članak 43. do 48) i propisima članka 69. ovaga Zakona o sadržaju javnobilježničkog akta, ona će se potvrditi bez sastavljanja posebnog javnobilježničkog akta na taj način što će se na ispravu staviti posvjedočenja navedena u članku 69. točki 1., 3. i 5. ovoga Zakona.
+(4) Ako privatna isprava po svom obliku i sadržaju ne odgovara zahtjevima iz stavka 3. ovoga članka, potvrda će se izvršiti sastavljanjem posebnog javnobilježničkog akta. Privatna se isprava u tom slučaju mora proširiti s javnobilježničkim aktom, i smatrat će se sastavnim dijelom i dopunom javnobilježničkog akta. U tom slučaju privatnu ispravu potpisuje i javni bilježnik i svjedoci.

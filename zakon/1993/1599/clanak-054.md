@@ -1,0 +1,9 @@
+## Izvršnost javnobilježničkog akta
+# Članak 54.
+(1) Javnobilježnički akt je izvršna isprava ako je u nje nku utvrđena određena obveza na činidbu o kojoj se stranke mogu nagoditi i ako sadrži izjavu obvezanika o tome da se na temelju tog akta može radi ostvarenja dužne činidbe, nakon dospjelosti obveze, neposredno provesti prisilno izvršenje.
+(2) Na temelju javnobilježničkog akta koji sadrži obvezu da se osnuje, prenese, ograniči ili ukine koje zemljišno knjižno pravo može se neposredno provesti upis u zemljišne knjige ako je obvezanik izričito na to pristao u tom aktu.
+(3) Na temelju javnobilježničkog akta, na temelju kojega je u zemljišnim knjigama upisana hipoteka na određenoj nekretnini, može se neposredno tražiti izvršenje na toj nekretnini radi naplate osiguranog potraživanja, nakon njegove dospjelosti, ako je dužnik na to u tom aktu izričito pristao.
+(4) Ako obveza ovisi o uvjetu ili roku koji nije određen kalendarski, za izvršnost javnobilježničkog akta je potrebno da se javnom ispravom ili, ako to nije moguće, pravomoćnom presudom donesenom u parničnom postupku dokaže da je nastupio uvjet ili da je protekao rok.
+(5) Ako je javnobilježnički akt iz stavka 1., 2. i 3. ovoga članka sastavljen na temelju punomoći ili ovlasti moraju punomoć ili ovlast koji nisu javne isprave biti sudski ili javnobilježnički ovjereni i priloženi u izvorniku ili u ovjerenom prijepisu.
+(6) Isti učinak kao i isprava iz stavka 1. ovoga članka ima i privatna isprava takvog sadržaja na kojoj je javni bilježnik ovjerio potpis dužnika. Ako privatna isprava ne sadrži izjavu o pristanku dužnika da se neposredno na temelju nje može tražiti prisilno izvršenje, takovu izjavu može u privatnu ispravu, uz pristanak stranaka, unijeti javni bilježnik prigodom ovjere potpisa dužnika.
+(7) U slučajevima iz stavka 1., 3. i 6. ovoga članka javni će bilježnik, na zahtjev stranke, sam staviti na ispravu potvrdu o njenoj izvršnosti.
