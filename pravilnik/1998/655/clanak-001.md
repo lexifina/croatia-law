@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o specijalističkom usavršavanju zdravstvenih djelatnika ("Narodne novine" broj 33/94) u članku 8. stavku 4. riječi "pravovremenu odluku o izboru kandidata, ovjerenu fotokopiju diplome, ovjerenu fotokopiju uvjerenja o položenom državnom ispitu" zamjenjuju se riječima "pravomoćnu odluku o izboru kandidata, te ovjerene preslike diplome, uvjerenja o položenom državnom ispitu, odobrenja za samostalan rad".
