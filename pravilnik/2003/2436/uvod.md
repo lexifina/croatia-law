@@ -1,0 +1,1 @@
+Na temelju članka 34. Zakona o zaštiti tajnosti podataka (»Narodne novine«, broj 108/96), a u svezi s člankom 29. Zakona o sigurnosnim službama Republike Hrvatske (»Narodne novine« broj 32/02), donosim

@@ -1,0 +1,4 @@
+# Članak 22.
+Radi osiguranja povjerljivosti klasificiranih informacija koje se prenose komunikacijskim putem moraju se primijeniti kriptografska sredstva, metode i produkti koji su u skladu s člankom 87. Zakona o sigurnosnim službama (»Narodne novine«, broj 32/02) odobreni od strane Zavoda za informacijsku sigurnost i kriptozaštitnu tehnologiju, a na zahtjev VSA.
+Kriptografska sredstva, metode i produkte predlaže Služba za informacijsku i komunikacijsku tehnologiju za sustave unutar Ministarstva obrane, odnosno Uprava za zapovjedne informacijsko-komunikacijske sustave za sustave unutar Oružanih snaga u koordinaciji s ustrojstvenom jedinicom koja je operativni korisnik komunikacijskog sustava. Prijedlog se dostavlja VSA koja, ukoliko je suglasna s predloženim, podnosi zahtjev za odobrenjem prema Zavodu iz stavka 1. ovoga članka.
+Do osnivanja Zavoda iz stavka 1. ovoga članka privremeno odobrenje za korištenje kriptografskih sredstava, metoda i produkata daje VSA.

@@ -1,0 +1,3 @@
+# Članak 2.
+Pod pratećim servisima i resursima u smislu ovoga Pravilnika podrazumijevaju se servisi i resursi koji su neophodni za osiguravanje postizanja sigurnosnih ciljeva na sustavu (na primjer: kriptografski mehanizmi i oprema, komunikacijski sigurnosni materijali i komunikacijska oprema, programska rješenja i kontrola fizičke zaštite).
+Pod klasificiranim informacijama podrazumijevaju se sve informacije koje su u skladu sa Zakonom o zaštiti tajnosti podataka (»Narodne novine«, broj 108/96) i Pravilnikom o zaštiti tajnosti podataka obrane (»Narodne novine«, broj 112/97) označene određenim stupnjem tajnosti.

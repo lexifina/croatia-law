@@ -1,0 +1,2 @@
+# Članak 11.
+Za definiranje i uspostavu posebno štićena područja iz članka 8. ovoga Pravilnika zadužuju se čelnici ustrojstvenih jedinica razine načelnika službe u Ministarstvu obrane, odnosno načelnika uprave, načelnika odjela, grana i korpusa, zapovjednika brigade, zapovjednika samostalne bojne ili zapovjednika samostalne satnije u Oružanim snagama (u daljnjem tekstu: čelnici ustrojstvenih jedinica).

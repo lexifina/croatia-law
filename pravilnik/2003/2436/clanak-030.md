@@ -1,0 +1,2 @@
+# Članak 30.
+Na temelju zahtjeva za provedbu daljnjeg postupka VSA u skladu sa Zakonom o sigurnosnim službama Republike Hrvatske i Pravilniku o unutarnjem redu VSA poduzima mjere iz svoga djelokruga te o rezultatima izvješćuje osobu iz članka 29. ovoga pravilnika, ministra obrane i načelnika Glavnog stožera Oružanih snaga te predlaže pokretanje kaznenog i vojnostegovnog postupka protiv osobe za koju se utvrdi da je odgovorna za nastalu štetu.
