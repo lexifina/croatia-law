@@ -1,0 +1,10 @@
+# Članak 18.
+Ispred članka 52. dodaje se naslov »a) Ispunjavanje sudačkih obveza«, a članak 52. mijenja se i glasi:
+»Predsjednik suda u sudu u kojem sudac obnaša sudačku dužnost uvrđuje za prethodnu kalendarsku godinu:
+1. je li sudac donio onaj broj odluka koje je trebao donijeti na temelju okvirnih mjerila za rad sudaca, pri čemu će se utvrditi rezultat rada po vrstama predmeta, u apsolutnim brojevima i postotku,
+2. je li sudac poštovao rokove u kojima je u obvezi objaviti, napisati i otpremiti odluku, na način da su rokovi u cijelosti poštovani, odnosno poštovani iznad 75% i ispod 75%,
+3. koliko je protiv prvostupanjskih odluka izjavljeno žalbi i kakve su odluke donesene u žalbenom postupku (potvrđene, ukinute ili preinačene), u apsolutnom broju i u postotku, te koliko je odluka ukinuto zbog bitnih povreda postupka,
+4. koliko je protiv drugostupanjskih odluka izjavljeno izvanrednih pravnih lijekova (potvrđene, ukinute ili preinačene), u apsolutnom broju i u postotku,
+5. je li sudac sudjelovao u oblicima stručnog usavršavanja i postdiplomskim studijima, u kojima i kako, kao sudionik-polaznik ili kao predavač, je li objavljivao znanstvene i stručne radove ili sudjelovao kao nastavnik ili suradnik u nastavi na pravnim fakultetima, te u radnim tijelima za pripremu nacrta propisa. U takvim slučajevima sudac je najkasnije do 31. prosinca kalendarske godine dužan pisano izvijestiti predsjednika suda o obliku i trajanju aktivnosti,
+6. je li protiv suca izrečena mjera privremenog udaljenja od sudačke dužnosti, pokrenut stegovni postupak i kakva je odluka donijeta u tom postupku. Ako je stegovni postupak u istoj godini pokrenut i dovršen donošenjem odluke Državnoga sudbenog vijeća o obustavi tog postupka ili sudac bude oslobođen od odgovornosti, činjenica pokretanja i vođenja tog postupka ne smije se navoditi u odluci predsjednika suda kojem utvrđuje ispunjavanje sudačkih obveza. Ako je takva odluka donesena u sljedećoj godini, ta će se okolnost utvrditi u sljedećem rješenju,
+7. ostale aktivnosti i postupke koji omogućuju da se što potpunije utvrdi kako sudac ispunjava svoje sudačke obveze.«
