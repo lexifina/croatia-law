@@ -1,0 +1,1 @@
+Na temelju odredbe članka 2. i 9. Zakona o obilježavanju i održavanju groblja i grobova poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika na području Republike Hrvatske u I. i II. svjetskom ratu ("Narodne novine", broj 91/92), ministar graditeljstva i zaštite okoliša, donosi
