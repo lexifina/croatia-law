@@ -1,0 +1,1 @@
+Na temelju članka 52. i članka 60. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93 i 48/99), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 1999. godine, donijela
