@@ -1,0 +1,2 @@
+# Članak 8.
+Mjerenje brzine mogu obavljati samo za to osposobljene službene osobe koje imaju potrebno teoretsko i praktično znanje o postavljanju, radu i načinu uporabe svake pojedine vrste mjerila brzine i pripadnoga pribora. Osposobljavanje službenih osoba za rad s mjerilima brzine provest će mjerodavna služba Ministarstva unutarnjih poslova u suradnji s proizvođačem mjerila i Državnim zavodom za normizaciju i mjeriteljstvo. Nakon uspješno završenog osposobljavanja polaznici osposobljavanja trebaju o tome dobiti potvrdu.
