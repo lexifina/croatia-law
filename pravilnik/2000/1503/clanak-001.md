@@ -1,0 +1,3 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se postupak i način ostvarivanja prava na obnovu, utvrđuju se prioriteti korisnika prava na obnovu obiteljskih kuća i stanova IV.-VI. stupnja oštećenja, potpore za popravak I.-III. stupnja oštećenja i opremanje obiteljskih kuća i stanova I.-VI. stupnja oštećenja, te korisnika prava na povrat vlastito uloženih sredstava u obnovu, a u skladu s raspoloživim sredstvima državnog proračuna i ostalim sredstvima iz članka 10. Zakona o obnovi (»Narodne novine«, broj 24/96, 54/96, 87/96 i 57/00).
+Ovim Pravilnikom uređuje se i način i postupak ostvarivanja prava na potporu za opremanje obiteljskih kuća i stanova I.-VI. stupnja oštećenja i organizacija nabave predmeta opremanja.
