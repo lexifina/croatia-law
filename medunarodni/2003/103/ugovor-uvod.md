@@ -1,0 +1,16 @@
+PROTOKOL O SURADNJI U SPRJEČAVANJU ONEČIŠĆAVANJA S BRODOVA I, U SLUČAJEVIMA OPASNOSTI, U SUZBIJANJU ONEČIŠĆAVANJA SREDOZEMNOG MORA
+Ugovorne stranke ovoga Protokola,
+kao stranke Konvencije o zaštiti Sredozemnog mora od onečišćavanja usvojene u Barceloni 16. veljače 1976. i izmijenjene 10. lipnja 1995.,
+želeći provoditi članke 6. i 9. navedene Konvencije,
+prepoznajući da značajno onečišćavanje voda na području Sredozemnog mora naftom i opasnim i štetnim tvarima ili opasnost od istog predstavlja opasnost za obalne države i morski okoliš,
+smatrajući da je za sprječavanje onečišćavanja s brodova i za reagiranje na iznenadna onečišćenja, nezavisno od njihovog podrijetla, potrebna suradnja svih obalnih država Sredozemnog mora,
+priznajući ulogu Međunarodne pomorske organizacije i važnost suradnje u okviru ove organizacije, posebno na promicanju usvajanja i izrade međunarodnih pravila i normi za sprječavanje, smanjenje i nadzor onečišćavanja morskog okoliša s brodova,
+naglašavajući nastojanja koja sredozemne obalne države poduzimaju u provedbi ovih međunarodnih pravila i normi,
+priznajući također doprinos Europske zajednice provedbi međunarodnih normi u pogledu pomorske sigurnosti i sprječavanja onečišćavanja s brodova,
+prepoznajući također važnost suradnje na području Sredozemnog mora u promicanju djelotvorne provedbe međunarodnih propisa za sprječavanje, smanjenje i nadzor onečišćavanja morskog okoliša s brodova,
+prepoznajući nadalje važnost brzog i djelotvornog djelovanja na nacionalnoj, subregionalnoj i regionalnoj razini kroz poduzimanje mjera za slučaj opasnosti u cilju postupanja s onečišćenjem morskog okoliša ili opasnošću od takvog onečišćenja,
+primjenjujući načelo predostrožnosti, načelo »onečišćivač plaća« i metodu procjene utjecaja na okoliš te koristeći najbolje raspoložive tehnike i najbolje postupke za zaštitu okoliša, kako je određeno u članku 4. Konvencije,
+imajući u vidu odgovarajuće odredbe Konvencije Ujedinjenih naroda o pravu mora sačinjene u Montego Bay 10. prosinca 1982., koja je stupila na snagu i čije su stranke mnoge sredozemne obalne države i Europska zajednica,
+uzimajući u obzir međunarodne konvencije posebn o sigurnosti na moru, sprječavanju onečišćavanja s brodova, spremnosti za i regiranju na iznenadna onečišćenja te odgovornosti i naknadi za štete uslijed onečišćenja,
+želeći dalje razvijati međusobnu pomoć i suradnju u sprječavanju i suzbijanju onečišćavanja,
+sporazumjele su se kako slijedi:
