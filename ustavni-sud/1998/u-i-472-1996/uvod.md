@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu predsjednik Jadranko Crnić, te suci Zdravko Bartovčak, dr. Velimir Belajec, dr. Nikola Filipović, Ante Jelavić Mitrović, mr. Vojislav Kučeković, Jurica Malčić, mr. Hrvoje Momčinović, Ivan Marijan Severinac i Mladen Žuvela, u postupku ocjene suglasnosti zakona s Ustavom, na sjednici održanoj dana 25. ožujka 1998. godine donio je
