@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Djelatnici koji su tijekom rada s rendgenskim uređajem stalno u području nadzora ne smiju biti izloženi izravnom snopu rendgenskog zračenja, ne smiju pridržavati pacijente i ne smiju pridržavati kasete s filmovima tijekom snimanja.
+(2) Zdravstveni djelatnici koji nisu radiološke struke, a koji tijekom rendgenskog pregleda pridržavaju nepokretne bolesnike i druge osobe koje ne mogu samostalno ostati u potrebnom položaju za pregled, moraju koristiti zaštitne pregače jednakovrijednog zaštitnog učinka kao i olovo debljine od najmanje 0,5 mm, a po potrebi i zaštitne rukavice, zaštitne okovratnike i naočale s olovnim staklima istog zaštitnog učinka.
+(3) Zdravstveni djelatnici iz stavka 2. ovoga članka obvezno moraju imati propisani osobni dozimetar tijekom rendgenskog pregleda.
+(4) Ako osobu tijekom rendgenskog pregleda pridržavaju pratitelji (najviše dvije osobe), odnosno, osoba koja nije zdravstveni djelatnik, isti moraju nositi zaštitnu pregaču zaštitnog učinka jednakovrijednog kao i olovo debljine od najmanje 0,5 mm.

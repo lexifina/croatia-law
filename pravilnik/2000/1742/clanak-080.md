@@ -1,0 +1,2 @@
+# Članak 80.
+Prostorija za ozračivanje mora imati ugrađen poseban uređaj za provjetravanje odgovarajuće učinkovitosti u svrhu uklanjanja ozona koji nastaje u zraku prolazom zračenja tijekom ozračivanja elektronima, uklanjanja neutrona i uklanjanje radionuklida koji nastaju aktivacijom neutronima koji su nastali fotodezintegracijom neutralnih jezgri u zraku prolazom rendgenskog zračenja energije iznad 10 MeV tijekom ozračivanja pacijenta.

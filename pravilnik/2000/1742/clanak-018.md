@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Pravna ili fizička osoba u roku 15 dana od završetka montiranja uređaja obvezna je Ministarstvu zdravstva i Hrvatskom zavodu za zaštitu od zračenja dostaviti osnovne podatke o uređaju koji je montiran i naziv krajnjeg korisnika kojem je uređaj predat na obrascu iz Priloga I. koji je njegov sastavni dio.
+(2) Ako krajnji korisnik rendgenskog uređaja, akceleratora ili drugog uređaja koji proizvodi ionizirajuća zračenja, prestane isti koristiti, rashoduje ga, otpiše ili otuđi obvezan je u roku od 15 dana o tomu izvijestiti Ministarstvo zdravstva i Hrvatski zavod za zaštitu od zračenja.

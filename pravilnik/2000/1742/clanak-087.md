@@ -1,0 +1,4 @@
+## IV. UVJETI ZA UPORABU RENDGENSKIH UREĐAJA, AKCELERATORA I DRUGIH UREĐAJA KOJI PROIZVODE IONIZIRAJUĆA ZRAČENJA U GOSPODARSTVU I OPĆOJ UPORABI
+# Članak 87.
+(1) Rendgenski uređaji ili akcelerator za industrijsku radiografiju, rendgenski uređaji za ispitivanje, popravljanje i restauraciju umjetnina, kao i rendgenski uređaji koji se koriste za ispitivanje sastava tvari ili se koriste u tehnološkim procesima moraju se postaviti u najmanje dvije prostorije. U jednu se postavljaju dijelovi koji zrače i stol za ispitivanje predmeta koji se ispituje, a u drugu upravljački uređaj ili vremenski prekidač kojim se uključuje zračenje.
+(2) Iznimno, rendgenski uređaji za industrijsku radiografiju mogu se koristiti i u proizvodnim tvorničkim i skladišnim postorima, ako se u njima uspostavi područje nadzora sukladno članku 11. ovoga Pravilnika.

@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Ministar zdravstva daje uporabnu dozvolu za rendgenski uređaj, akcelerator ili drugi električni uređaj koji proizvodi ionizirajuća zračenja na temelju pisanog zahtjeva uz priloženo mišljenje ovlaštene pravne osobe o udovoljenju uvjetima propisanim ovim Pravilnikom i potvrde o upisu uređaja u središnji registar izvora ionizirajućeg zračenja Hrvatskog zavoda za zaštitu od zračenja.
+(2) Potvrdu o upisu u središnji registar izvora ionizirajućih zračenja Hrvatski zavod za zaštitu od zračenja daje po prijmu popunjenog prijavnog lista o upisu rendgenskog uređaja, akceleratora ili drugog uređaja koji proizvodi ionizirajuća zračenja na obrascu tiskanom u Prilogu I. ovoga Pravilnika koji je njegov sastavni dio.

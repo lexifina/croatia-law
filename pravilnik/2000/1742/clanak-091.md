@@ -1,0 +1,4 @@
+# Članak 91.
+(1) Djelatnici koji rade s rendgenskim uređajima za industrijsku radiografiju izvan posebno opremljenih prostorija ili na radilištu moraju za svoju zaštitu tijekom snimanja koristiti pokretne zaštitne paravane ili upravljački uređaj postaviti na zaštićeno mjesto tako da njihovo izlaganje ionizirajućim zračenjima bude što niže ispod propisanih granica.
+(2) Upravljački uređaj odnosno dio rendgenskog uređaja sa zračnikom mora imati dostatno duge priključne vodiče na generator radi osiguranja dovoljne udaljenosti djelatnika koji uključuje zračenje od mjesta gdje se nalazi zračnik.
+(3) Tijekom rada izvan posebno opremljenih prostorija djelatnici moraju osigurati prostor oko rendgenskog uređaja od pristupa drugih osoba koje mogu doći na mjesto rada i biti slučajno izloženi rendgenskom zračenju.

@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Odobrenje za obavljanje određene djelatnosti s rendgenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuće zračenje daje ministar zdravstva ako je udovoljeno uvjetima koji su propisani Zakonom o zaštiti od ionizirajućih zračenja (dalje u tekstu: Zakon), odredbama ovoga Pravilnika i odredbama drugih propisa donesenih temeljem Zakona.
+(2) Djelatnosti za koje je potrebno odobrenje iz stavka 1. ovoga članka jesu: uporaba, proizvodnja, uvoz, montiranje i servisiranje rendgenskih uređaja, akceleratora i drugih uređaja koji proizvode ionizirajuća zračenja osim za elektroničke mikroskope i katodne cijevi koje se ugrađuju u TV prijamnike i TV monitore.
