@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine« broj 159/03), Vlada Republike Hrvatske je na sjednici održanoj 22. srpnja 2004. godine donijela
