@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Ovlašteni upravitelj podnosi Agenciji zahtjev za obnavljanje licenci najkasnije do 31. siječnja godine u kojoj je proteklo punih pet kalendarskih godina od izdavanja ili posljednjeg obnavljanja licence.
+(2) Zahtjevu iz stavka 1. ovoga članka prilažu se dokazi iz članka 12. stavak 3. ovog Pravilnika, te izjava o sudjelovanju na stručnim aktivnostima iz članka 13. stavci 1. do 5. ovog Pravilnika tijekom proteklih pet kalendarskih godina, uz potrebne dokaze.
+(3) Ravnatelj Agencije u pravilu iz redova zaposlenika stručnih službi Agencije imenuje i razrješava potreban broj članova Povjerenstva za utvrđivanje ispunjavanja uvjeta za obnavljanje licenci, čija je zadaća da utvrdi koji su ovlašteni upravitelji ispunili, odnosno koji nisu ispunili uvjete za obnavljanje licence.
+(4) Ovlašteni upravitelj kojem je Agencija odbila zahtjev za obnavljanje licence ne može obnašati dužnost odgovorne osobe u mirovinskom osiguravajućem društvu u razdoblju od pet godina od dana izdavanja rješenja o neispunjavanju uvjeta za obnavljanje licence.
