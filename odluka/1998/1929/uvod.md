@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 101/98), a u svezi s odredbom članka 63. Zakona o sustavu državne uprave ("Narodne novine", broj 75/93), Vlada Republike Hrvatske je na sjednici održanoj 3. prosinca 1998. godine donijela
