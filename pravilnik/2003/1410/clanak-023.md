@@ -1,0 +1,2 @@
+# Članak 23.
+Pravnim osobama ovlaštenima za obavljanje tehničkog pregleda automata koje djelatnost ne obavljaju u skladu s odredbama članka 20. i 21. ovoga Pravilnika, koje nestručno obavljaju djelatnost ili zloporabe ovlasti, te koje se neprofesionalno odnose kod obavljanja djelatnosti, Ministarstvo financija ukinut će izdanu ovlast za obavljanje tehničkog pregleda automata u skladu s važećim zakonskim propisima.
