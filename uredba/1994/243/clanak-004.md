@@ -1,0 +1,2 @@
+# Članak 4.
+Tijela državne vlasti, tijela jedinica lokalne samouprave i uprave i pravne osobe, osim onih iz članka 2. ove Uredbe, mogu isplatiti najvišu mjesečnu plaću u ožujku koje ne može biti veća od 6 prosječnih mjesečnih plaća Republike Hrvatske prema posljednjem objavljenom podatku, što iznosi 11.116.289 HRD, ako odlukom Sabora Republike Hrvatske ili Vlade Republike Hrvatske nije drugačije određeno.
