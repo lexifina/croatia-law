@@ -1,0 +1,1 @@
+Na temelju člana 41. i 106. Statuta Privredne komore Zagreb i prijedloga Predsjedništva Privredne komore Zagreb sa sjednice od 28. ožujka 1990. Skupština Komore na sjednici održanoj 5. travnja 1990. utvrđuje
