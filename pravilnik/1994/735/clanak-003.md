@@ -1,0 +1,2 @@
+# Članak 3.
+Zdravstveni inspektor je ovlašten obavljati nadzor nad svim zdravstvenim ustanovama i zdravstvenim djelatnicima u privatnoj praksi u svako doba. kada je to u interesu zaštite života i zdravlja pučanstva. Zdravstveni inspektor može obavljati nadzor i bez prethodne najave, ali je prije početka obavljanja nadzora dužan o svome prisustvu obavijestiti odgovornog djelatnika u privatnoj praksi.

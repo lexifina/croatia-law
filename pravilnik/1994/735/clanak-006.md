@@ -1,0 +1,16 @@
+## II. NAČIN OBAVLJANJA NADZORA
+# Članak 6.
+Nadzor u smislu ovog Pravilnika obuhvaća:
+1. Ustrojstvo rada u ordinacijama, zdravstvenim ustanovama i dijelovima zdravstvenih ustanova:
+Ispituje se postojanje i sukladnost ustrojstva s aktom o unutarnjem ustrojstvu; aktom o provodenju unutarnjeg nadzora nad stručnim radom i ispunjavanje uvjeta glede prostora medicinsko-tehničke opreme i kadrova u skladu sa propisom;
+2. Rad stručnoga vijeća zdravstvene ustanove:
+Ispituje se način.pripreme. sadržaj i redovitost sastanaka, suradnja ustrojstvenih jedinica, a posebno u odnosu na dijagnostičke djelatnosti;
+3. Vođenje zdravstvenih podataka o bolesniku: Ispituje se postupak prijema i uzimanja osobnih identifikacijskih podataka o bolesniku; opis zdravstvenog stanja bolesnika i postavljanje dijagnoze; plan obrade bolesnika; tijek svih zahvata (dijagnostičkih i terapijskih) te urednost vođenja dokumentacije, kartoteke i registra,
+4. Provođenje dijagnostičkih i terapijskih postupaka: Ispituje se početni plan rada i početna dijagnoza te provedena dijagnostika u odnosu na završnu dijagnozu; poštivanje principa racionalizacije; priznavanje nalaza drugih ustanova do prijema bolesnika; opravdanje primjene pojedinih dijagnostičkih, laboratorijskih odnosno radioloških postupaka u odnosu na stručni algoritam pojedinih dijagnoza; način i redoslijed primjene terapijskih postupaka i poštivanja znanstvenih spoznaja o načinu liječenja pojedinih bolesti;
+5. Odnos preina bolesnicima: Ispituje se način naručivanja i obračanja bolesniku pri prijemu i u tijeku liječenja te davanje informacija o bolesti i postupcima liječenja; utvrđuje se postojanje knjiga pritužbi kao i broj podnesenih žalbi od strane bolesnika;
+6. Sprečavanje bolničkih infekcija i provođenje mjera protiv zaraznih bolesti: Ispituju se preventivni postupci radi zaštite zdravlja bolesnika unutar ordinacije i zdravstvene ustanove kao i zdravstvenih djelatnika, a posebno prevencije hepatitisa, sindroma stečenog nedostatka imuniteta, toksičnih oštećenja i bolesti nastalih zbog izloženosti ionizirajućem zračenju;
+7. Nadzor u ljekarnama: Ispituje se opskrba pučanstva lijekovima, pomoćnim ljekovitim sredstvima, medicinskim i ostalim proizvodima propisanim zakonom kao predmet poslovanja ljekarne te njihovo čuvanje i uskladištenje; stručna kontrola recepata i izrada propisanih pripravaka; pračenje učinaka i nuspojava lijekova kao i prijavljivanje istih referentnom centru; vođenje propisanih knjiga evidencije davanje jasnih uputa bolesnicima kao i savjeta za atomedikaciju te održavanje i unapredivanje stručnosti sa svrhom utjecaja na racionalno i ekonomično propisivanje lijekova prema principima suvremene farmakoterapije;
+8. Održavanje primjerenog izgleda gradevine, higijene okoline i unutrašnjosti zdravstvene ustanove ili ordinacije, te higijenska dispozicija otpada;
+9. Evaluacija stručnosti rada zdravstvenih djelatnika: Ispituje se sudjelovanje na znanstvenim i drugim skupovima, način pračenja i unapredivanja struke i suradnje sa drugim djelatnostima i drugim zdravstvenim djelatnicirna;
+10. Ispunjavanje obveza u smislu davanja izvješća i podmirivanja obveznih pristojbi sukladno propisima;
+11. Ispunjavanje ugovornih obveza prema Hrvatskom zavodu za zdravstveno osiguranje i drugim osigurateljima.
