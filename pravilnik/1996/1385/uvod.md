@@ -1,0 +1,1 @@
+Na temelju članka 99. u svezi s člankom 119. točka 3. Zakona o prijevozu opasnih tvari ("Narodne novine", br. 97/93), ministar pomorstva, prometa i veza, u suglasnosti s ministrom unutarnjih poslova i ministrom zdravstva, donosi
