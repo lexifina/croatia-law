@@ -1,0 +1,2 @@
+# Članak 17.
+Rješenje o zabrani održavanja javnog okupljanja donosi nadležna policijska uprava. Rješenje o zabrani održavanja javnog okupljanja nadležna policijska uprava dužna je dostaviti organizatoru najkasnije 24 sati prije održavanja javnog okupljanja, ako je okupljanje prijavljeno sukladno članku 3. stavku 1. ovoga zakona. Žalba protiv rješenja iz stavka 1. ovoga članka ne odgađa izvršenje rješenja.
