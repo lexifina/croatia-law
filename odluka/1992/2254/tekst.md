@@ -1,0 +1,3 @@
+o izmjeni Odluke o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. do 30. studenoga 1991.
+1. U odluci o usklađivanju naknada osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. do 30. studenoga 1991. ("Narodne novine", broj 31/92), stavlja se izvan snage točka 4. Točka5. postaje točka 4.
+2. Ova odluka stupa na snagu osmoga dana od dana objave u "Narodnim novinama", aprimjenjuje se od 1. sijećnja 1991.

@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o usklađivanju naknada osobnoga dohotka u vezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1991. d
