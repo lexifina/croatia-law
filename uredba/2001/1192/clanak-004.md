@@ -1,0 +1,11 @@
+## III. DJELOKRUG UPRAVNIH ORGANIZACIJA U SASTAVU MINISTARSTVA TE UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. UPRAVA POMORSTVA
+# Članak 4.
+Uprava pomorstva obavlja upravne i stručne poslove koji se odnose na osiguravanje provođenja utvrđene politike i izvršavanja zakona i drugih propisa iz oblasti pomorskog brodarstva, pomorskog prometa, pomorskog dobra, morskih luka, pomorskih agencija, pripremanje nacrta, prijedloga zakona i drugih propisa iz područja pomorskog brodarstva, pomorskog prometa, pomorskog dobra, morskih luka, pomorskih agencija, praćenje i analiziranje stanja, poslovanja i razvoja gospodarskih subjekata, pomorskih brodara, iskorištavanja, zaštite i gospodarenja pomorskim dobrom i pomorskih agencija, morskih luka te utjecaj uvjeta gospodarenja na njihovo poslovanje, pripremanje i izrada izvješća, analize, prijedloga mjera, rješenja i drugih akata iz oblasti pomorskog brodarstva, pomorskog prometa, pomorskog dobra i pomorske infrastrukture za potrebe Vlade Republike Hrvatske i Hrvatskoga sabora, obavlja poslove upravnog postupka i upravnog nadzora iz oblasti pomorstva, sudjeluje u radu međunarodnih organizacija i izrađuje nacrte prijedloga sporazuma i drugih međunarodnih akata iz područja pomorstva, obavlja nadzor nad radom Hrvatskog registra brodova, Plovputa, Jadrolinije, Hrvatskog hidrografskog instituta, lučkih uprava i drugih pravnih subjekata iz djelatnosti pomorstva, priprema usuglašavanje pomorskog zakonodavstva s propisima Europske Unije, vodi drugostupanjske prekršajne postupake za pomorske prekršaje, te ostale poslove iz područja sigurnosti plovidbe.
+Za obavljanje poslova Uprave pomorstva ustrojavaju se sljedeći odjeli:
+a) Odjel upravno-pravnih i međunarodnih poslova
+b) Odjel pomorskog prometa
+c) Odjel morskih luka i pomorskog dobra
+d) Odjel stručno-tehničkih poslova i sigurnosti prometa
+Za obavljanje poslova državne uprave utvrđenih Zakonom o lučkim kapetanijama ustrojeno je osam područnih jedinica u sastavu Uprave pomorstva.
+a) Odjel upravno-pravnih i međunarodnih poslova

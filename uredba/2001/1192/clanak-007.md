@@ -1,0 +1,3 @@
+# Članak 7.
+Odjel morskih luka i pomorskog dobra prati i analizira stanje, poslovanje i razvoj morskih luka, sudjeluje u izradi nacrta zakona i drugih propisa iz područja morskih luka i pomorskog dobra, obavlja upravni nadzor nad gospodarenjem i korištenjem pomorskog dobra i provođenjem koncesijskog sustava na pomorskom dobru, koordinira i daje uputstva Stručnom povjerenstvu za granice pomorskog dobra, obavlja stručno tehničke poslove u svezi određivanja granica pomorskog dobra, vodi očevidnik granica pomorskog dobra, priprema prijedloge odluka i ugovora u svezi koncesija na pomorskom dobru, nadzire i koordinira rad lučkih uprava.
+d) Odjel stručno-tehničkih poslova i sigurnosti prometa

@@ -1,0 +1,2 @@
+# Članak 33.
+Odjel pomorske inspekcije i unutarnje plovidbe obavlja poslove nautičke inspekcije sigurnosti plovidbe, poslove brodostrojarske inspekcije sigurnosti plovidbe, poslove brodograđevne inspekcije sigurnosti plovidbe, poslove hidrograđevinske sigurnosti plovidbe, poslove radio inspekcije sigurnosti plovidbe, poslove zaštite mora i unutarnjih voda od onečišćenja s plovila, poslove inspekcije životnih i radnih uvjeta posade brodova, poslove nadzora pomorskog i vodnog dobra i koncesijskog sustava na pomorskom i vodnom dobru.

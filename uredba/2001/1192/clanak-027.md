@@ -1,0 +1,2 @@
+# Članak 27.
+Odjel stručno-tehničkih poslova i gospodarstva predlaže politiku gospodarskog razvitka unutarnje plovidbe, izrađuje i provodi programe razvitka i izgradnje luka i lučkih terminala, sudjeluje u pripremi stručnih podloga za planiranje poslovanja kapetanija, prati i analizira stanje, poslovanje i razvoj brodarstva i lučkih sustava unutarnje plovidbe, sudjeluje u radu i izrađuje prijedloge gospodarskih rezolucija, analiza, izvješća te izrađuje druge gospodarske akte, obavlja i druge srodne stučno tehničke i gospodarske poslove Uprave unutarnje plovidbe.

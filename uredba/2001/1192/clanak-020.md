@@ -1,0 +1,2 @@
+# Članak 20.
+Odjel željezničkog i kombiniranog prijevoza obavlja upravno pravne i druge stručne poslove u svezi izrade nacrta i prijedloga sustavnih i drugih propisa, donošenja provedbenih propisa, neposredne primjene zakona i međunarodnih propisa, upravnog postupka, upravnog nadzora, pračenja stanja, pripreme informacija i drugih stručnih materijala, te izrada stručnih podloga i prijedloga za unapređenje željezničkog prijevoza.

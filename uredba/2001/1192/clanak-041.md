@@ -1,0 +1,3 @@
+# Članak 41.
+Odsjek za financije, računovodstvo i obračun plaća obavlja poslove evidencije financijskih promjena u Glavnoj knjizi I, Glavnoj knjizi II i pomoćnim knjigama, vodi knjige ulaznih i knjige izlaznih faktura, vrši financijsku i računovodstvenu kontrolu, likvidaciju računa i njihovo plaćanje, blagajničke poslove, obračun plaća, bolovanja i ostalih naknada za zaposlene, izrađuje statistička i financijska izvješća, izrađuje tromjesečne, polugodišnje i godišnje obračune, izrađuje izračun pokazatelja za izradu financijskih planova, usklađuje inventuru s knjigovodstvenim stanjem, kontira i knjiži sve primitke i izdatke, usklađuje stanje sredstava s njihovim izvorima, te obavlja i druge poslove koje odredi ministar.
+b) Odjel za nabavu
