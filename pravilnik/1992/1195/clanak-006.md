@@ -1,0 +1,2 @@
+# Članak 6.
+Prijedlog za dodjelu Nagrade mora sadržavati: a) tijek rada i opis umjetničkog ostvarenja kandidata, b) temeljito obrazloženje uz posebnu napomenu ako se kandidat predlaže za Nagradu za životno djelo, c) područje za koje se predlaže Nagrada. Ako pojedini prijedlog za dodjelu Nagrade nije potpun ili ne sadrži dovoljno elemenata za odlučivanje, Odbor odnosno komisija može od predlagača zatražiti dopunu prijedloga.

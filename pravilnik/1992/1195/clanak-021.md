@@ -1,0 +1,2 @@
+# Članak 21.
+Sredstva za Nagradu i materijalne troškove osiguravaju se iz Foda na način propisan Zakonom. Financijski plan donosi Odbor uz suglasnost ministra prosvjete, kulture i športa do 31. prosinca tekuče godine za slijedeću godinu. Iz sredstava financijskog plana podmiruju se troškovi rada Odbora i komisija, te nagrade odnosno naknade za rad članova Odbora i komisija. Visinu nagrade odnosno naknade za članove Odbora i komisija utvrđuje Odbor. Naredbodavac za izvršenje financijskog plana je ministar posvjete, kulture i športa.

@@ -1,0 +1,2 @@
+# Članak 5.
+Prijedloge za dodjelu Nagrade mogu davati ustanove, poduzeča i druge zainteresirane organizacije i institucije, strukovna udruženja, građani i njihova udruženja, te pojedini kulturni stvaraoci i djelatnici. Prijedlozi za dodjelu Nagrade moraju biti pismeno obrazloženi. Prijedlozi za dodjelu Nagrade upućuju se Odboru u pravilu do 15. travnja svake godine. Odbor i pojedina komisija odbora može samostalno davati prijedloge za dodjelu Nagrade i izvan roka utvrđenog stavkom 3. ovog članka.

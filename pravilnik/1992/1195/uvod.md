@@ -1,0 +1,1 @@
+Na temelju članka 91. Zakona o upravi ("Narodne novine", br. 16/78, 50/78, 29/85, 48/85, 41/90. i 53A/91) i članka 7. stavka 1. Zakona o "Nagradi Vladimir Nazor" ("Narodne novine", br. 27/91), ministar prosvjete, kulture i športa donosi
