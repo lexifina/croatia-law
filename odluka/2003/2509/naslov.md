@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti za sklapanje ugovora o financiranju između Europske investicijske banke i Trgovačkog društva Plinacro d.o.o., iz Zagreba, za Projekt izgradnje plinovodnog sustava u Republici Hrvatskoj
