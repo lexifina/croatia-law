@@ -1,0 +1,2 @@
+# Članak 10.
+Ugovorne će stranke po potrebi osnovati radnu grupu čiji će zadatak biti praćenje provođenja ovog Sporazuma, predlaganje odgovarajućih mjera u interesu njegova izvršavanja, održavanje razmjene iskustava na području turizma i praćenje poštivanja načela poštenog natjecanja. Ova radna grupa će se sastati naizmjenično u Republici Hrvatskoj i u Slovačkoj Republici nakon prethodnog dogovora. Prema potrebi, ova radna grupa može donijeti dnevni red.

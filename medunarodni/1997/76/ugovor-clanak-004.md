@@ -1,0 +1,2 @@
+# Članak 4.
+Ugovorne će stranke u okviru svojih mogućnosti, a u interesu razvoja turizma, poduzeti odgovarajuće mjere s ciljem potpomaganja, proširivanja, usavršavanja i koordinacije međusobnih veza na svim područjima turizma uz posebno vođenje računa o ekološki štedljivom prometu i u tom smislu će potpomagati i podržavati, i kooperacijske ugovore između poduzeća na području prometa i turizma dviju država.
