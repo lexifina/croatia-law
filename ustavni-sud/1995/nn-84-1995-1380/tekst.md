@@ -1,0 +1,6 @@
+Ustavni sud Republike Hrvatske u postupku nadzora ustavnosti i zakonitosti izbora, temeljem odredbi lanka 125. alineja 7. Ustava Republike Hrvatske i članka 40. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 13/91), u povodu podnesaka Hrvatske radiotelevizije od 14. i 16. listopada 1995. godine, glede pisma Izborne komisije Republike Hrvatske Klasa: 013-01/95-01/01, Urbroj: 56605-95-131 od 13. listopada 1995. godine, na sjednici održanoj 19. listopada 1995. godine, izdaje slijedeće
+PRIOPĆENJE 3 Ustavnog suda Republike Hrvatske
+Izborna komisija Republike Hrvatske u pismu od 13. listopada 1995. godine, izrazila je stajalište, da nije bilo valjane osnove da Hrvatska radiotelevizija odbije emitiranje naručenih promidžbenih spotova HSLS-a.
+Ustavni sud Republike Hrvatske utvrđio je, da je navedeno stajalište Izborne komisije Republike Hrvatske u skladu s odredbama članka 18. i 19. Zakona o izborima zastupnika u Sabor Republike Hrvatske ("Narodne novine", br.11/94 i b8/95).
+Hrvatska radiotelevizija dužna je pridržavati se navedenog stajališta Izborne komisije Republike Hrvatske.
+Ustavni sud temeljem odredbi članka 40. Ustavnog zakona o Ustavnom sudu Republike Hrvatske obavještava o tome javnost putem sredstava javnog priopćavanja.
