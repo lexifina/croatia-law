@@ -1,0 +1,1 @@
+Na temelju čl. 23. Statuta Hrvatske obrtničke komore (»Narodne novine« br. 116/02 - prečišćeni tekst i 158/02/ Skupština Hrvatske obrtničke komore na svojoj 3. sjednici održanoj 9. prosinca 2003. godine donosi
