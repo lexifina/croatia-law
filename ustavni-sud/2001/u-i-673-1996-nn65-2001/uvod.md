@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, dopredsjednik Suda, te suci Marijan Hranjski, Petar Klarić, Mario Kos, Jurica Malčić, Ivan Matija, Ivan Mrkonjić, Željko Potočnjak, Agata Račan, Emilija Rajić, Vice Vukojević i Milan Vuković, odlučujući o prijedlogu Vlade Republike Hrvatske, na sjednici održanoj dana 12. srpnja 2001. godine, donio je
