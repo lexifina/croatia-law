@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o društvenoj kontroli cijena ("Narodne novine, broj 27/85 i 53/91) i članka 13. Zakona o sustavu kontrole cijena ("Narodne novine". broj 53/91, 73/91 i 29/92), Vlada Republike Hrvatske ne sjednici održanoj 9. listopada 1992. godine donijela je
