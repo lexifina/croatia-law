@@ -1,0 +1,16 @@
+I.
+Ministarstvo financija je ovlašteno od Vlade Republike Hrvatske izdati, a ministar financija ili zamjenik ministra financija potpisati, jamstvo za otplatu kredita Erste Bank, Beč, koji će ugovoriti Istarska banka d.d., Pula, za potrebe kreditiranja isporuke motokultivatora s priključcima TPS "Labinprogres", d.d., Labin.
+II.
+Jamstvo za otplatu kredita Erste Bank, Beč daje se pod slijedećim uvjetima:
+Iznos kredita: 7,752.832,00 DEM (protuvrijednost kuna: 27,560.542,48 kn)
+Rok otplate: 5 godina s jednom godinom počeka od dana potpisivanja ugovora o kreditu
+Kamata: LIBOR na DEM uvećan za 0,7% godišnje
+Troškovi: 0,5% jednokratna naknada
+III.
+Istarska banka d.d., Pula ovlaštena je voditi poslove banke platnog agenta i sklapanja ugovora te osiguranja naplate od domaćih krajnjih korisnika motokultivatora, a za isporuku od Vlade Republike Hrvatske ovlaštena je Poljoopskrba VT d.o.o., Zagreb.
+Za ove poslove Istarska banka d.d. Pula naplaćivat će od krajnjeg korisnika kredita kamatu i naknadu troškova od ukupno 6% godišnje. Ako bi se LIBOR na DEM povećao za više od 0,5% godišnje, Istarska banka d.d. Pula ima pravo promijeniti svoje kamatne stope za isti postotak na kredit krajnjem korisniku.
+Jednokratnu naknadu Erste Bank, Beč u visini od 0,5% odobrenog kredita preuzet će TPS "Labinprogres", Labin i Poljoopskrba VT d.o.o., Zagreb.
+IV.
+Ova odluka stupa na snagu na dan donošenja.
+V.
+Odluka će se objaviti u "Narodnim novinama".
