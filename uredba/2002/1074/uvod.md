@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (Narodne novine, br. 76/93, 29/97, 47/99) i članka 35. stavka 2. Zakona o normizaciji (»Narodne novine«, broj 55/96), Vlada Republike Hrvatske je na sjednici održanoj 16. svibnja 2002. godine donijela
