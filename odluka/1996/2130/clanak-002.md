@@ -1,0 +1,2 @@
+# Članak 2.
+Usklađivanje doplatka za djecu sadašnjim korisnicima obavit će, prema ovoj odluci, područne službe Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske po službenoj dužnosti, uz obračun isplaćenih svota doplatka za djecu prema Odluci o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1996. ("Narodne novine", broj 26/96)
