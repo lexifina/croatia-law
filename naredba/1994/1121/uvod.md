@@ -1,0 +1,1 @@
+Na temelju članka 190. stavka 1. Zakona o sigurnosti prometa na cestama ("Narodne novine". broj 84/92. 5/93 i 26/93), ministar unutarnjih poslova, u suglasnosti s ministrom pomorstva, prometa i veza donosi
