@@ -1,0 +1,1 @@
+Na temelju člana 1. Uredbe o naknadama za putne i druge troškove koji se Republičkim organima uprave priznaju u materijalne troškove ("Narodne novine", broj 31/5, 55/86, 14/87 i 43/87)" Vlada Republike Hrvatske na sjednici odžanoj 27. studenoga 1990, godine donijela je
