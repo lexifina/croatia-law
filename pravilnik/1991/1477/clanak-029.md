@@ -1,0 +1,3 @@
+# Članak 29.
+Kategorija vozila za koju je vozačka dozvola izdana označava se stavljanjem pečata nadležnog tijela koji je dozvolu izdao, uz odgovarajuću oznaku (A, B, C, D i E) upisom datuma polaganja vozačkog ispita i potpisom ovlaštene osobe u svaku rubriku obrasca vozačke dozvole u kojoj su navedena vozila kojima vozač ima pravo upravljati, a rubrike kategorija za koju dozvola ne važi poništavaju se.
+Pri zamjeni vozačke dozvole izdane u stranoj državi, umjesto datuma polaganja vozačkog ispita na odgovarajuće mjesto obrasca vozačke dozvole upisuje se datum kad je zamijenjena inozemna vozačka dozvola.

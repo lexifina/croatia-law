@@ -1,0 +1,2 @@
+# Članak 32.
+Danom stupanja na snagu ovog pravilnika prestaje važiti Pravilnik o registraciji motornih i priključnih vozila ("Službeni list SFRJ", br. 74/89) i Pravilnik o obrascu vozačke dozvole ("Službeni list SFRJ", br. 74/89), preuzeti kao republički propisi člankom 2. a u svezi s člankom 1. točkom 4. Zakona o preuzimanju saveznih propisa iz oblasti unutarnjih poslova koji se u Republici Hrvatskoj primjenjuju kao republički propisi ("Narodne novine", br. 53/91).

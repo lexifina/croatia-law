@@ -1,0 +1,3 @@
+# Članak 21.
+Za novoproizvedena, prepravljena i popravljena vozila kojima se u prometu na javnim oestama obavlja probna vožnja, za vozila koja se kreću od sjedišta poduzeća u kojem su proizvedena do sjedišta poduzeća u kojem će biti dovršena ili do skladišta trgovinskog poduzeća, za vozila koja se voze na tehnički pregled, na sajam ili radi prodaje te za vozila koja se kreću od mjesta u kojem su preuzeta do mjesta u kojem će biti registrirana, izdaju se probne pločice.
+Probne pločice izdaju se i za registrirana vozila koja se kreću od mjesta u kojem su registarske pločice uništene ili nestale do mjestau kojem će se za ta vozila izdati nove registarske pločice.
