@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 2. stavka 3. Zakona o Hrvatskoj gospodarskoj komori ("Narodne novine". br. 66/91), te članka 43. točka 6. i članka 89. Statuta Saveza udruženja samostalnih privrednika Hrvatske Skupština Saveza na svojoj 11. redovnoj sjednici održanoj dana 26. veljače 1992. godine. donijela je
