@@ -1,0 +1,4 @@
+# Članak 3.
+Mirovina ostvarena u tekućoj godini i usklađena prema članku 30. stavku 4. Zakona o osnovnim pravima iz mirovinskog i invalidskog osiguranja, usklađuje se od 1. srpnja tekuće godine prema kretanju prosječne plaće svih zaposlenih za mjesec lipanj prema prosječnoj plaći svih zaposlenih u mjesecu siječnju tekuće godine.
+U slučaju kada se mirovina ostvarena u tekućoj godini prvi put usklađuje u smislu članka 1. stavka 2. ovog pravilnika, usklađivanje mirovina obavlja se prema kretanju prosječne plaće u mjesecu u kojem su se stekli uvjeti u od nosu na prosječnu plaću za mjesec siječanj tekuće godine.
+U svim daljnjim usklađivanjima nema razlike u načinu usklađivanja mirovina ostvarenih u tekućoj godini i mirovina ostvarenih u proteklim godinama.
