@@ -1,0 +1,1 @@
+Na temelju točke V. Odluke o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvatske u prvom tromjesečju 2004. godine (»Narodne novine«, br. 152/2003 i 6/2004), Vlada Republike Hrvatske je na sjednici održanoj 3. veljače 2004. godine donijela
