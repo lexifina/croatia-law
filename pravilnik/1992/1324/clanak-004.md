@@ -1,0 +1,2 @@
+# Članak 4.
+Postupak utvrđivanja uvjeta za početak rada srednje škole vodi stručna komisija od najmanje 3 člana koju imenuje ministar prosvjete. Komisija iz stavka 1. ovoga članka utvrđuje činjenice od važnosti za donošenje zakonitog rješenja na podlozi podataka iz članka 3. stavka 2. ovoga pravilnika ili u posebnom ispitnom postupku, te o tome podnosi izvještaj i nacrt rješenja ministru prosvjete.
