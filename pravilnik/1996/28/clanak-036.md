@@ -1,0 +1,5 @@
+# Članak 36.
+Za profesora praktične nastave u strukovnoj školi za područje rada iz članka 35. ovoga pravilnika može biti izabrana osoba koja ima odgovarajuću visoku stručnu spremu iz članka 35. ovoga pravilnika i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Za stručnog učitelja koji izvodi praktičnu nastavu u strukovnoj školi za područje rada iz članka 35. ovoga pravilnika može biti izabrana osoba koja ima višu ili srednju stručnu spremu odgovarajućeg smjera i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Za suradnike u nastavi koji sudjeluje u izvođenju praktične nastave u strukovnoj školi za područje rada iz članka 35. ovoga pravilnika može biti izabrana osoba koja ima srednju stručnu spremu odgovarajućeg zanimanja i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Odgovarajućom stručnom spremom stručnog učitelja koji izvodi vježbe predmeta iz članka 35. točke 5. ovoga pravilnika smatra se viša stručna sprema odgovarajućeg smjera utvrđena nastavnim planom i programom.

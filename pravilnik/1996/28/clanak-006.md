@@ -1,0 +1,5 @@
+# Članak 6.
+Za profesora praktične nastave i radioničkih vježbi u strukovnoj školi za područje rada iz članka 5. ovoga pravilnika može biti izabrana osoba koja ima odgovarajuću stručnu spremu utvrđenu u članku 5. ovoga pravilnika i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Za stručnog učitelja koji izvodi praktičnu nastavu i radioničke vježbe u strukovnoj školi za područje rada iz članka 5, ovoga pravilnika može biti izabrana osoba koja ima odgovarajuću višu stručnu spremu odgovarajućeg smjera i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Odgovarajućom stručnom spremom stručnog učitelja i suradnika u nastavi koji izvodi vježbe predmeta iz članka 5. ovoga pravilnika smatra se viša ili srednja stručna sprema odgovarajućeg smjera utvrđena u nastavnom planu i programu.
+Za suradnika u nastavi koji sudjeluje u izvođenju praktične nastave u strukovnoj školi za područje rada iz članka 5. ovoga pravilnika može biti izabrana osoba koja ima srednju stručnu spremu odgovarajućeg zanimanja utvrđenog nastavnim planom i programom.

@@ -1,0 +1,4 @@
+# Članak 22.
+Za profesora koji izvodi praktičnu nastavu ili vježbe u strukovnoj školi za područje rada iz članka 21. ovoga pravilnika može biti izabana osoba koja ima odgovarajući visoku stručnu spremu iz članka 21. ovoga pravilnika i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Za stručnog učitelja koji izvodi praktičnu nastavu ili vježbe u strukovnoj školi za područje rada iz članka 21. ovoga pravilnika može biti izabana osoba koja ima višu stručnu spremu odgovarajućeg smjera i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Za suradnika u nastavi koji sudjeluje u izvođenju praktične nastave ili vježbi u strukovnoj školi za područje rada iz članka 21. ovoga pravilnika može biti izabana osoba koja ima srednju stručnu spremu odgovarajućeg zanimanja i ispunjava druge uvjete utvrđenje nastavnim planom i programom.

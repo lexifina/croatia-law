@@ -1,0 +1,4 @@
+# Članak 32.
+Za profesora praktične nastave i vježbi u strukovnoj školi za područje rada iz članka 31. ovoga pravilnika može biti izabrana osoba koja ima odgovrajuću stručnu spremu iz članka 32. ovoga pravilnika i ispunjava druge uvjete utvrđene nastavnim planom i programom.
+Za stručnog učitelja koji izvodi praktičnu nastavu u strukovnoj školi za područje rada iz članka 31. ovoga pravilnika može biti izabrana osoba koja ima višu stručnu spremu odgovarajućeg smjera i ispunjava uvjete utvrđene nastavnim planom i programom.
+Za suradnika u nastavi koji sudjeluje u izvođenju praktične nastave i vježbi u strukovnoj školi za područje rada iz članka 31. ovog pravilnika može biti izabrana osoba koja ima srednju stručnu spremu odgovarajućeg zanimanja i ispunjava druge uvjete utvrđene nastavnim planom i programom.

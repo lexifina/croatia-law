@@ -1,0 +1,3 @@
+# Članak 60.
+Nastavnici koji u pogledu stručne spreme ne ispunjavaju uvjete utvrđene ovim pravilnikom, a zatečeni su u srednjoškolskoj ustanovi u radnom odnosu na neodređeno vrijeme na dan stupanja na snagu ovoga pravilnika, mogu nastaviti s obavljanjem poslova na kojima su zatečeni ako su ispunjavali uvjete za obavljanje tih poslova prema propisima koji su važili prije stupanja na snagu ovoga pravilnika.
+Postupci ostvarivanja pojedinačnih prava nastavnika započeti prije stupanja na snagu ovoga pravilnika, dovršit će se po propisima koji su važili do stupanja na snagu ovoga pravilnika, ako ovim pravilnikom pravo nastavnika na izvođenje nastave pojedinog predmeta nije uređeno na povoljniji način.
