@@ -1,0 +1,31 @@
+KONVENCIJA UJEDINJENIH NARODA O SUZBIJANJU DEZERTIFIKACIJE U ZEMLJAMA POGOĐENIM JAKIM SUŠAMA I/ILI DEZERTIFIKACIJOM, OSOBITO U AFRICI
+Stranke ove Konvencije:
+Potvrđujući da su stanovnici na pogođenim ili ugroženim područjima najvažnija briga pri suzbijanju dezertifikacije i ublažavanja posljedica suša,
+Izražavajući ozbiljnu zabrinutost međunarodne zajednice, uključujući države i međunarodne organizacije, glede štetnih utjecaja dezertifikacije i suše,
+Svjesne da aridna, semiaridna i suha subhumidna područja zajedno čine značajan dio kopnenog dijela Zemlje i stanište su i izvor života za veliki dio tamošnje populacije,
+Potvrđujući da su dezertifikacija i suša problemi globalnih dimenzija, jer pogađaju sve regije svijeta i da je potrebno zajedničko djelovanje međunarodne zajednice za suzbijanje dezertifikacije i/ili ublažavanje posljedica suše,
+Imajući u vidu veliku brojnost zemalja u razvoju, osobito najslabije razvijenih zemalja, pogođenih jakim sušama i/ili dezertifikacijom i osobito tragične posljedice ovih pojava u Africi,
+Imajući također u vidu da dezertifikaciju uzrokuju složena međudjelovanja fizičkih, bioloških, političkih, socijalnih, kulturnih i gospodarskih činitelja,
+Razmatrajući utjecaj trgovine i relevantnih aspekata međunarodnih ekonomskih odnosa na sposobnost pogođenih zemalja za odgovarajuće suzbijanje dezertifikacije,
+Svjesne da su održiv gospodarski rast, socijalni razvoj i iskorjenjivanje siromaštva primarni zadaci pogođenih zemalja u razvoju, osobito u Africi i da su izuzetno važni za postizavanje ciljeva održivosti,
+Uzimajući u obzir da dezertifikacija i suša utječu na održivi razvoj preko njihovih međusobnih odnosa prema važnim socijalnim problemima kao što su siromaštvo, slabo zdravlje i prehrana, nedostatak zaliha hrane, te problemima koji proizlaze iz migracija, raseljavanja i demografske dinamike,
+Cijeneći značenje dosadašnjih napora i iskustava država i međunarodnih organizacija u suzbijanju dezertifikacije i ublažavanju posljedica suše, osobito u provedbi Plana djelovanja za suzbijanje dezertifikacije usvojenog 1977. godine na Konferenciji Ujedinjenih naroda o dezertifikaciji,
+Shvaćajući da, unatoč naporima u prošlosti, nije postignut očekivani napredak u suzbijanju dezertifikacije i ublažavanju posljedica suše, te da je potreban nov i učinkovitiji pristup na svim razinama u okviru održivog razvoja,
+Uviđajući vrijednost i značenje odluka usvojenih na Konferenciji Ujedinjenih naroda o okolišu i razvoju, osobito Agende 21, poglavlja 12., koji određuju osnovu za suzbijanje dezertifikacije,
+Ponovno potvrđujući, u tom svjetlu, obveze razvijenih zemalja sadržane u stavku 13. poglavlja 33. Agende 21,
+Uzimajući u obzir Rezoluciju 47/188. Opće skupštine, osobito prioritete određene za Afriku, te sve druge relevantne rezolucije Ujedinjenih naroda, odluke i programe o dezertifikaciji i suši, kao i relevantne deklaracije afričkih zemalja i zemalja drugih regija,
+Potvrđujući Deklaraciju o okolišu i razvoju iz Rio de Janeira koja u svom Načelu 2. kaže da, sukladno s Poveljom Ujedinjenih naroda i načelima međunarodnog prava, države imaju suvereno pravo koristiti se vlastitim prirodnim dobrima sukladno sa svojim vlastitim politikama okoliša i razvoja, te odgovornost da osiguraju kako djelovanja u okviru njihove jurisdikcije ili kontrole ne bi izazivala štete po okoliš drugih država ili područja izvan granica nacionalne jurisdikcije,
+Uviđajući da nacionalne vlade igraju ključnu ulogu u suzbijanju dezertifikacije i ublažavanju posljedica suša i da napredak u tom smislu ovisi o lokalnoj provedbi programa djelovanja u pogođenim regijama,
+Također, uviđajući važnost i potrebu međunarodne suradnje i partnerstva u suzbijanju dezertifikacije i ublažavanju posljedica suše,
+Uviđajući važnost opskrbe pogođenih zemalja u razvoju, osobito u Africi, učinkovitim mjerama, kao što su, između ostalog, znatna financijska sredstva, uključujući nove i dodatne fondove, kao i pristup tehnologijama bez kojih će im biti teško potpuno provesti njihove obveze određene ovom Konvencijom,
+Izražavajući zabrinutost zbog utjecaja dezertifikacije i suše na pogođene zemlje u Središnjoj Aziji i Zakavkazju,
+Naglašavajući važnu ulogu žena na područjima pogođenim dezertifikacijom i/ili sušom, osobito u ruralnim područjima zemalja u razvoju, te važnost osiguranja potpunog sudjelovanja i muškaraca i žena na svim razinama u programima za suzbijanje dezertifikacije i ublažavanje posljedica suše,
+Naglašavajući osobitu ulogu nevladinih udruga i drugih velikih skupina u programima za suzbijanje dezertifikacije i ublažavanje posljedica suše,
+Imajući u vidu odnos između dezertifikacije i ostalih globalnih problema okoliša s kojima se suočavaju međunarodne i nacionalne zajednice,
+Imajući, također, u vidu doprinos koji suzbijanje dezertifikacije može imati u postizanju ciljeva Okvirne konvencije Ujedinjenih naroda o promjeni klime, Konvencije o biološkoj raznolikosti i drugih konvencija o okolišu,
+Uvjerene da će strategije za suzbijanje dezertifikacije i ublažavanje posljedica suše biti vrlo učinkovite ako budu zasnovane na odgovarajućem sustavnom promatranju i strogim znanstvenim spoznajama i ako budu neprekidno provjeravane,
+Uviđajući hitnu potrebu poboljšavanja učinkovitosti i koordinacije međunarodne suradnje kako bi se olakšalo provedba nacionalnih planova i prioriteta,
+Odlučne da poduzmu prikladne radnje u suzbijanju dezertifikacije i ublažavanju posljedica suše za dobrobit današnjih i budućih generacija,
+Sporazumjele su se kako slijedi:
+DIO I.
+UVOD

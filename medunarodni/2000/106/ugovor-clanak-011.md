@@ -1,0 +1,3 @@
+# Članak 11.
+SUBREGIONALNI I REGIONALNI PROGRAMI DJELOVANJA
+Stranke - pogođene zemlje savjetovat će se i surađivati pri pripremi, u odgovarajućoj mjeri, sukladno s relevantnim regionalnim provedbenim prilozima, subregionalnim i/ili regionalnim programima djelovanja kako bi se uskladila, dopunila i povećala učinkovitost nacionalnih programa. Odredbe članka 10. primijenit će se, mutatis mutandis, na subregionalne i regionalne programe. Takva suradnja može uključivati dogovorene zajedničke programe za održivo gospodarenje prekograničnim prirodnim dobrima, znanstvenu i tehničku suradnju i jačanje relevantnih institucija.

@@ -1,0 +1,4 @@
+# Članak 14.
+SURADNJA U IZRADI I PROVEDBI PROGRAMA DJELOVANJA
+1. Stranke će usko surađivati direktno ili preko relevantnih međuvladinih organizacija u izradi i provođenju programa djelovanja.
+2. Stranke će razvijati mehanizme djelovanja, osobito na nacionalnim i područnim razinama, kako bi se osigurala najcjelovitija moguća suradnja među strankama - razvijenim zemljama, strankama - zemljama u razvoju i relevantnim međuvladinim organizacijama i nevladinim udrugama, kako bi se izbjeglo ponavljanje, uskladile intervencije i pristupi i maksimalno povećala učinkovitost pomoći. U strankama - pogođenim zemljama u razvoju, prednost će se dati usklađivanju djelovanja koja se odnose na međunarodnu suradnju kako bi se maksimalno povećalo učinkovito korištenje prirodnih dobara, te osigurala odgovarajuća pomoć i olakšalo provođenje nacionalnih programa djelovanja i prioriteta iz ove Konvencije.

@@ -1,0 +1,7 @@
+# Članak 34.
+RATIFIKACIJA, PRIHVAT, ODOBRENJE
+I PRISTUP
+1. Konvencija podliježe ratifikaciji, prihvatu, odobrenju ili pristupu država i regionalnih organizacija za ekonomske integracije. Konvencija će biti otvorena za pristup dan nakon datuma kad se zatvori za potpisivanje. Isprave o ratifikaciji, prihvatu, odobrenju ili pristupu položit će se kod depozitara.
+2. Svaka regionalna organizacija za ekonomske integracije koja postaje stranka ove Konvencije, pri čemu ni jedna od njezinih država članica nije stranka ove Konvencije, bit će vezana svim obvezama iz ove Konvencije. Ako je jedna ili više država članica takve organizacije također stranka Konvencije, organizacija i njezine države članice odlučit će o svojim pojedinačnim odgovornostima za izvršavanje obveza prema Konvenciji. U tim slučajevima, organizacija i države članice ne mogu istodobno izvršavati prava iz ove Konvencije.
+3. U svojim ispravama o ratifikaciji, prihvatu, odobrenju ili pristupu, regionalne organizacije za ekonomske integracije dat će izjavu o svojoj nadležnosti s obzirom na pitanja iz ove Konvencije. Također će odmah obavijestiti depozitara, koji će zatim obavijestiti stranke o svim bitnim promjenama opsega njihove nadležnosti.
+4. U svojoj ispravi o ratifikaciji, prihvatu, odobrenju ili pristupu, svaka stranka može izjaviti da će svaki dodatni regionalni provedbeni prilog ili izmjena regionalnog provedbenog priloga stupiti na snagu tek nakon polaganja njezine isprave o ratifikaciji, prihvatu, odobrenju ili pristupu istome.
