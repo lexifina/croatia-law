@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 35. stavka 2. Zakona o vlasništvu i drugim stvarnim pravima »Narodne novine«, broj 91/96), Vlada Republike Hrvatske je na sjednici održanoj 20. srpnja 2000. godine donijela
