@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o društvenoj kontroli cijena ("Narodne. novine", broj 27/85, 53/90 i 26/93) i članka 13. Zakona o sustavu kontrole cijena ("Narodne novine", broj 53/91, 73/91, 29/92, 26/93 i 43/93), Vlada Republike Hrvatske je na sjednici održanoj 1. lipnja 1993. godine donijela
