@@ -1,0 +1,2 @@
+# Članak 8.
+Ovlašćuje se Odbor za zakonodavstvo Zastupničkog doma Hrvatskoga državnog sabora da utvrdi i izda pročišćeni tekst Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu.
