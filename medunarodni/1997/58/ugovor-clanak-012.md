@@ -1,0 +1,3 @@
+# Članak 12.
+ODNOSI IZMEĐU ODREĐENIH ZRAČNIH PRIJEVOZNIKA
+Zračni prijevoznici koje su odredile ugovorne stranke moraju se sporazumjeti o svim komercijalnim i tehničkim pitanjima koja nisu obuhvaćena ovim Sporazumom ili drugim sporazumima između ugovornih stranaka, u svezi s korištenjem usluga ili prijevozom putnika, prtljage, robe i pošte na odobrenim linijama kao i o pitanjima komercijalne suradnje, posebice izradi redova letenja, kapaciteta u skladu s odredbama stavka 4. članka 6. ovog Sporazuma, i učestalosti letova. Sporazum postignut između određenih zračnih prijevoznika i sve unijete promjene podliježu odobrenju zrakoplovnih vlasti ugovornih stranaka.

@@ -1,0 +1,8 @@
+# Članak 3.
+DAVANJE PRAVA
+1. Svaka ugovorna stranka daje drugoj ugovornoj stranci sljedeća prava u pogledu svih propisanih i nepropisanih usluga u međunarodnom zračnom prometu:
+- prelijetanje teritorija druge ugovorne stranke bez slijetanja;
+- nekomercijalno međuslijetanje na teritorij druge ugovorne stranke.
+2. Svaka ugovorna stranka daje drugoj ugovornoj stranci prava specificirana u ovom Sporazumu zbog uspostavljanja i vršenja usluga u međunarodnom zračnom prometu na linijama navedenim na popisu linija u dodatku ovom Sporazumu. Za prometovanje u ugovorenom prometu na utvrđenim linijama, zračni prijevoznik kojega određuje svaka od ugovornih stranaka uživat će, osim prava specificiranih u stavku 1. ovog članka, i pravo slijetanja na teritorij druge ugovorne stranke na mjestima označenim na utvrđenim linijama zbog ukrcavanja ili iskrcavanja putnika, robe ili pošte kad se radi o kombiniranom prometu u smjeru, ili iz smjera teritorija stranke koja ga je odredila.
+3. Nijedna odredba ovog Sporazuma se ne može tumačiti kao da jedna ugovorna stranka daje pravo prijevozniku kojega je odredila da na teritoriju druge ugovorne stranke ukrcava putnike, robu ili poštu, uz naplatu ili na temelju ugovora o najmu, određene za drugo mjesto na teritoriju te druge ugovorne stranke.
+4. Zbog primjene odredbi ovog članka svaka ugovorna stranka ima pravo pobliže označiti smjer puta iznad svog teritorija i zračne luke koje može koristiti prijevoznik kojega je odredila druga ugovorna stranka. Zračni prijevoznik kojega je odredila svaka ugovorna stranka uživat će u tom pogledu bar isto toliko povoljan postupak kakav se primjenjuje na prijevoznika koji vrši slične usluge u međunarodnom prometu.

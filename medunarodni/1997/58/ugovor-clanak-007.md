@@ -1,0 +1,5 @@
+# Članak 7.
+PRIMJENA ZAKONA I PROPISA
+1. Zakoni, propisi i postupci jedne ugovorne stranke kojima se uređuje ulazak na njezin teritorij, kao i izlazak s njena teritorija zrakoplova kojima se obavljaju usluge u međunarodnom zračnom prometu, ili kojima se uređuje korištenje i vođenje tih letjelica, primjenjuju se na zrakoplove zračnog prijevoznika kojega je odredila druga ugovorna stranka, a rečeni zrakoplovi ih moraju poštivati pri dolasku, odlasku, i za vrijeme nazočnosti na teritoriju prve ugovorne stranke.
+2. Zakoni i propisi jedne od ugovornih stranaka koji se tiču formalnosti za ulazak, odlazak, tranzit, useljenje, carinskih formalnosti i karantenu primjenjuju se na putnike, prtljagu, posade, robu i poštu koje prevoze zrakoplovi zračnog prijevoznika kojega je odredila druga ugovorna stranka za vrijeme njihova boravka na teritoriju prve ugovorne stranke.
+3. Zakoni i propisi spomenuti u stavcima 1. i 2. ovog članka su isti kao oni koji se primjenjuju na domaće zrakoplove koji se koriste za slične usluge u međunarodnom zračnom prometu kao i na putnike, prtljagu, posade, robu i poštu koji se prevoze tim zrakoplovima.

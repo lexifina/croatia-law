@@ -1,0 +1,3 @@
+# Članak 25.
+OTKAZ
+Svaka ugovorna stranka može u bilo kojem trenutku diplomatskim putem službeno saopćiti drugoj ugovornoj stranci da otkazuje ovaj Sporazum. Službena obavijest se istovremeno javlja i Međunarodnoj organizaciji civilnog zrakoplovstva. U tom slučaju Sporazum prestaje važiti dvanaest (12) mjeseci nakon što je druga ugovorna stranka primila službenu obavijest, osim ukoliko rečena obavijest nije sporazumno povučena prije isteka tog roka. Ako druga ugovorna stranka nije potvrdila primitak, smatra se da joj je službena obavijest stigla petnaest (15) dana nakon što ju je primila Međunarodna organizacija civilnog zrakoplovstva.
