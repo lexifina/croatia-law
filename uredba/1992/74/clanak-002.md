@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 8. iza stavka 2. dodaje se stavak 3. koji glasi: "Pravna osoba nastala organizacijom po odredbama Uredbe o zabrani raspolaganja osnovnim sredstvima, pokretnom imovinom i pravima određenih poduzeća i drugih osoba na teritoriju Republike Hrvatske ("Narodne novine", broj 39/91 i 44/91) i ove uredbe zadržava prava nastala poslovanjem poslovne jedinice ili drugog organizacijskog oblika (poslovni prostor, zakup, najam, potraživanja)".

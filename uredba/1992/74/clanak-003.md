@@ -1,0 +1,8 @@
+# Članak 3.
+Iza članka 10. dodaju se novi članci 10a, 10b. i 10c. koji glase:
+"Članak 10a.
+Dioničari banke i organizacije za osiguranje sa sjedištem na teritoriju Republike Srbije, Republike Crne Gore, autonomnih pokrajina Kosova i Vojvodine evidentirani u registru dionica ili u knjigama filijale ili druge odgovarajuće organizacijske jedinice te banke odnosno organizacije za osiguranje na teritoriju Republike Hrvatske (u daljnjem tekstu: jedinica) mogu stvarima koje koristi ili kojima raspolaže ta jedinica osnovati dioničko društvo (u daljnjem tekstu: društvo). Odluku o osnivanju društva donose dioničari iz stavka 1. ovog članka koji su u svojstvu dioničara evidentirani u registru dionica ili u knjigama jedinice na dan donošenja odluke i imaju sjedište u Republici Hrvatskoj. Odluka iz stavka 2. ovog članka donosi se većinom glasova dioničara iz stavka 1. računajući prema nominalnoj vrijednostl dionica banke odnosno organizacije za osiguranje temeljem kojih su upisani u registar ili u knjige jedinice.
+Članak 10b.
+U društvu osnovanom u skladu s ovom uredbom dioničari dobivaju onaj broj dionica koji je razmjeran ukupnoj nominalnoj vrijednosti dionica koje su im pripadale u banci odnosno organizaciji za osiguranje čijim se sredstvima osniva društvo, a prema stanju u registru dionica odnosno u knjigama jedinice na dan donošenja odluke iz članka 10a. ove uredbe.
+Članak 10c.
+Dionice društva osnovanog prema odredbama ove uredbe, a koje pripadaju dioničarima koji nisu glasovali za osnivanje društva i koji ih odbijaju preuzeti, čuvaju se u društvu koje je osnovano u skladu s ovom uredbom. Ako ih dioničari ne preuzmu u roku određenom u statutu, društvo će ih u ime i za račun dioničara povjeriti na čuvanje osobi ovlaštenoj za čuvanje vrijednosnih papira."
