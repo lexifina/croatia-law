@@ -1,0 +1,2 @@
+# Članak 5.
+S izabranom zdravstvenom ustanovom, odnosno izabranim zdravstvenim djelatnikom privatne prakse, Zavod sklapa ugovor o provođenju zdravstvene zaštite na pojedinoj razini zdravstvene djelatnosti. Zdravstvena ustanova, odnosno zdravstveni djelatnik privatne prakse iz prethodne stavke je ugovorna zdravstvena ustanova, odnosno ugovorni zdravstveni djelatnik privatne prakse. Ugovorna zdravstvena ustanova, odnosno ugovorni zdravstveni djelatnik privatne prakse dužni su istaknuti taj naziv sa naznakom ugovorene zdravstvene djelatnosti.

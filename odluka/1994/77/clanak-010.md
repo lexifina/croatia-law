@@ -1,0 +1,2 @@
+# Članak 10.
+Osnova i uvjet za sklapanje ugovora za provođenje primarne zdravstvene zaštite u patronažnoj zdravstvenoj skrbi, laboratorijskoj dijagnostici i hitnoj medicinskoj pomoći je utvrđen standard i normativ za tu djelatnost. U utvrdenom standardu uključen je ugovoreni broj osiguranih osoba pri domu zdravlja i kod doktora medicine na razini primarne zdravstvene zaštite u privatnoj praksi koji gravitiraju toj zdravstvenoj ustanovi.

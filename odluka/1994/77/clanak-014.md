@@ -1,0 +1,2 @@
+# Članak 14.
+Za provođenje najsloženijih oblike zdravstvene zaštite iz specijalističkih djelatnosti koji se provode na tercijarnoj razini, Zavod sklapa ugovore s državnim zdravstvenim zavodima, klinikama, kliničkim bolnicama i kliničkim bolničkim centrima prema utvrđenom standardu. Za obavljanje javno-zdravstvene djelatnosti Zavod sklapa ugovore sa državnim zdravstvenim zavodima na osnovi ugovorenog programa kojim se utvrđuju potrebni djelatnici, sredstva i vremensko razdoblje za izvršenje.
