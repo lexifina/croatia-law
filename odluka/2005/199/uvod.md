@@ -1,0 +1,1 @@
+Na temelju članka 11. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2005. godinu (»Narodne novine«, broj 171/2004), Vlada Republike Hrvatske je na sjednici održanoj 20. siječnja 2005. godine donijela
