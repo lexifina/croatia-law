@@ -1,0 +1,4 @@
+# Članak 10.
+Pravo na osnovne radove obnove iz stavka 2. članka 3. ove Uredbe mogu imati i korisnici kredita iz stavka 2. članka 7. ove Uredbe, koji su dobili kredit za obnovu obiteljske kuće V. ili VI. stupnja oštećenja a radove obnove nisu ni otpočeli. Ovo pravo mogu ostvariti ako su ispunjeni uvjeti iz članka 5. ove Uredbe, te ako prije sklapanja ugovora iz članka 9. ove Uredbe vrate odjednom, putem banke koja je odobrila kredit, odredeni dio kredita HKBO.
+Iznos kreditnih sredstava iz stavka 1. ovoga članka koji je korisnik kredita dužan vratiti HKBO je razlika odobrenog kredita i iznosa kredita propisanog u posebnom propisu za radove unutarnjeg uredenja obiteljske kuće.
+Osoba iz stavka 1. ovoga članka dužna je preostalim iznosom kredita koji je utvrđen za unutarnje uređenje izvesti radove unutarnjeg uređenja obiteljske kuće.

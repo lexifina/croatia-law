@@ -1,0 +1,6 @@
+# Članak 11.
+Pravo na nastavak započetih osnovnih radova obnove obiteljske kuće iz stavka 2. članka 3. ove Uredbe mogu imati i oni korisnici kredita iz stavka 2. članka 7. ove Uredbe koji su dobili kredit za obnovu obiteljske kuće V. ili VI. stupnja a koji su obnovu samo dijelom izvršili.
+Pravo iz stavka 1. ovoga članka može se ostvariti ako su ispunjeni uvjeti iz članka 5. ove Uredbe, ako korisnici kredita za nastavak radova obnove prilože pisani izračun o vrsti, opsegu i vrijednosti izvedenih osnovnih radova obnove na obiteljskoj kući ovjeren od Ministarstva razvitka i obnove - područnog povjerenstva, te ako prije sklapanja ugovora iz članka 9. ove Uredbe vrate odjednom, putem banke koja je odobrila kredit, odredeni dio kredita HKBO.
+Iznos kreditnih sredstava koje je korisnik kredita dužan vratiti HKBO je razlika odobrenog kredita i iznosa kredita propisanog u posebnom propisu za radove unutarnjeg uređenja kojemu je pribrojen iznos iz ovjerenog izračuna.
+Osoba iz stavka 1. ovoga članka dužna je preostalim iznosom kredita koji je utvrđen za unutarnje uređenje izvesti radove unutarnjeg uređenja obiteljske kuće.
+U slučaju iz ovoga članka ne ostvaruje se pravo otpisa dobivenih kreditnih sredstava na teret Državnog proračuna.
