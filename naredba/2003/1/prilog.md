@@ -1,0 +1,5316 @@
+Prilog 1
+Popis računa za redovno poslovanje proračuna županija i gradova/općina po županijama
+Naziv
+Oznaka
+županije/grada/općine
+Broj računa
+grada/
+općine
+I. Z ŽUPANIJA
+(sjedište u Zagrebu)
+ZAGREBAČKA ŽUPANIJA 2340009 - 1800001006 710
+BEDENICA 2360000 - 1855000006 550
+BRCKOVLJANI 2360000 - 1803300002 33
+BRDOVEC 2360000 - 1803400003 34
+BISTRA 2360000 - 1854700001 547
+PUŠĆA 2360000 - 1836200001 362
+DUBRAVA 2360000 - 1809700008 97
+DUBRAVICA 2360000 - 1854900003 549
+DUGO SELO 2360000 - 1810100008 101
+FARKAŠEVAC 2360000 - 1811400003 114
+STUPNIK 2360000 - 1855100007 551
+GRADEC 2360000 - 1813500009 135
+IVANIĆ GRAD 2340009 - 1815800006 158
+JAKOVLJE 2360000 - 1816300003 163
+JASTREBARSKO 2503007 - 1816900009 169
+KLINČA SELO 2360000 - 1819000005 190
+KLOŠTAR IVANIĆ 2340009 - 1819300008 193
+KRAŠIĆ 2360000 - 1853300005 533
+KRAVARSKO 2360000 - 1854500009 545
+KRIŽ 2340009 - 1821300009 213
+LUKA 2360000 - 1854800002 548
+MARIJA GORICA 2360000 - 1853900001 539
+ORLE 2360000 - 1854200006 542
+PISAROVINA 2360000 - 1833100004 331
+POKUPSKO 2360000 - 1854400008 544
+PRESEKA 2360000 - 1835600003 356
+RAKOVEC 2360000 - 1853600008 536
+RUGVICA 2360000 - 1837600008 376
+SAMOBOR 2484008 - 1838000004 380
+SVETA N>SVETA NEDJELJA 2360000 - 184360000yle='mso-tab-count:1'> 436
+SVETI IVAN ZELINA 2360000 - 1842900004 429
+VELIKA GORICA 2360000 - 1854100005 541
+VRBOVEC 2360000 - 1850800003 508
+ZAPREŠIĆ 2360000 - 1854300007 543
+ŽUMBERAK 2360000 - 1854000004 540
+II. KRAPINSKO-ZAGORSKA ŽUPANIJA
+(sjedište u Krapini)
+KRAPINSKO-ZAGORSKA
+ŽUPANIJA 2340009 - 1800002009 211
+BEDEKOVČINA 2360000 - 1801100006 11
+BUDINŠĆINA 2360000 - 1804100003 41
+DESINIĆ 2360000 - 1807000008 70
+DONJA STUBICA 2360000 - 1807900007 79
+ĐURMANEC 2360000 - 1810800005 108
+GORNJA STUBICA 2360000 - 1812500007 125
+JESENJE 2340009 - 1855200008 552
+HRAŠĆINA 2360000 - 1814600002 146
+HUM NA SUTLI '> 2360000 - 1815200000 152
+KLANJEC 2360000 - 1818700000 187
+KONJŠČINA 2360000 - 1820000004 200
+KRALJEVEC NA SUTLI 2360000 - 1820800002 208
+KRAPINA 2340009 - 1821100007 211
+KRAPINSKE TOPLICE 2340009 - 1821200008 212
+KUMROVEC 2360000 - 1855300009 553
+LOBOR 2360000 - 1823600006 236
+MAČE 2360000 - 1824800009 248
+MARIJA BISTRICA 2360000 - 1825600009 256
+MIHOVLJAN 2360000 - 1826500000 265
+NOVI GOLUBOVEC 2360000 - 1855400000 554
+OROSLAVJE 2360000 - 1831100001 311
+PETROVSKO 2360000 - 1832900000 329
+PREGRADA 2360000 - 1835200009 352
+RADOBOJ 2360000 - 1836400003 364
+STUBIČKE TOPLICE 2360000 - 1842200007 422
+SVETI KRIŽ ZAČRETJE 2360000 - 1843000007 430
+TUHELJ 2360000 - 1846600000 466
+VELIKO TRGOVIŠĆE 2360000 - 1848100009 481
+ZABOK 2360000 - 1851900006 519
+ZAGORSKA SELA 2360000 - 1852100000 521
+ZLATAR 2340009 - 1852600005 526
+ZLATAR BISTRICA 2360000 - 1852700006 527
+III. SISAČKO-MOSLAVAČKA
+ŽUPANIJA
+(sjedište u Sisku)
+SISAČKO-MOSLAVAČKA
+ŽUPANIJA 2419008 - 1800003001 391
+DONJI KUKURUZARI 2340009 - 1808300003 83
+DVOR 2419008 - 1810200009 102
+GLINA 2419008 - 1812100003 121
+GVOZD 2400008 - 1851000007 510
+HRVATSKA DUBICA 2340009 - 1814900005 149
+HRVATSKA KOSTAJNICA 2340009 - 1815000008 150
+JASENOVAC 2340009 - 1816800008 168
+KUTINA 2340009 - 1822000008 220
+LEKENIK 2419008 - 1822800006 228
+LIPOVLJANI 2340009 - 1823200002 232
+MAJUR 2340009 - 1855500001 555
+MARTINSKA VES 2419008 - 1825900002 259
+NOVSKA 2340009 - 1829300005 293
+PETRINJA 2419008 - 1832800009 328
+POPOVAČA 2340009 - 1834700002 347
+SISAK 2419008 - 1839100007 391
+SUNJA 2419008 - 1842600001 426
+TOPUSKO 2400008 - 1845700009 457
+VELIKA LUDINA 2340009 - 1847700003 477
+IV. KARLOVAČKA ŽUPANIJA
+(sjedište u Karlovcu)
+KARLOVAČKA ŽUPANIJA 2340009 - 1800004004 179
+BARILOVIĆ 2400008 - 1800700000 7
+BOSILJEVO 2400008 - 1803000009 30
+CETINGRAD 2400008 - 1804900001 49
+DRAGANIĆ 2400008 - 1809000001 90
+DUGA RESA 2400008 - 1809900000 99
+GENERALSKI STOL 2340009 - 1812000002 120
+JOSIPDOL 2400008 - 1817200003 172
+KARLOVAC 2400008 - 1817900000 179
+KRNJAK 2400008 - 1821600002 216
+LASINJA 2340009 - 1822500003 225
+NETRETIĆ 2400008 - 1828100000 281
+OGULIN 2300007 - 1829700009 297
+OZALJ 2400008 - 1831500005 315
+PLAŠKI 2300007 - 1833300006 333
+RAKOVICA 2400008 - 1836500004 365
+RIBNIK 2400008 - 1855600002 556
+SABORSKO 2300007 - 1837800000 378
+SLUNJ 2400008 - 1840000001 400
+TOUNJ 2300007 - 1855700003 557
+VOJNIĆ 2400008 - 1850300008 503
+ŽAKANJE 2400008 - 1853000002 530
+V. VARAŽDINSKA ŽUPANIJA
+(sjedište u Varaždinu)
+VARAŽDINSKA ŽUPANIJA 2391004 - 1800005007 472
+BEDNJA 2391004 - 1801200007 12
+BERETINEC 2391004 - 1801900004 19
+BREZNICA 2391004 - 1803600005 36
+BREZNIČKI HUM 2391004 - 1815100009 151
+CESTICA 2391004 - 1804800000 48
+DONJA VOĆA 2391004 - 1808000000 80
+DONJI MARTIJANEC 2360000 - 1808500005 85
+GORNJI KNEGINEC 2391004 - 1812900001 129
+IVANEC 2391004 - 1815600004 156
+JALŽABET 2391004 - 1816500005 165
+KLENOVNIK 2391004 - 1818900002 189
+LEPOGLAVA 2391004 - 1822900007 229
+LJUBEŠĆICA 2391004 - 1824700008 247
+LUDBREG 2391004 - 1824400005 244
+MALI BUKOVEC 2360000 - 1825100004 251
+MARUŠEVEC 2391004 - 1826000005 260
+NOVI MAROF 2391004 - 1828900008 289
+PETRIJANEC 2391004 - 1832600007 326
+SRAČINEC 2391004 - 1841000003 410
+SVETI ĐURĐ 2391004 - 1843700004 437
+SVETI ILIJA 2391004 - 1843800005 438
+TRNOVEC BARTOLOVEČKI 2391004 - 1846200006 462
+VARAŽDIN 2391004 - 1847200008 472
+VARAŽDINSKE TOPLICE 2391004 - 1847300009<> 473
+VELIKI BUKOVEC 2391004 - 1855800004 558
+VIDOVEC 2391004 - 1848400002 484
+VINICA 2391004 - 1848600004 486
+VISOKO 2391004 - 1849300003 493
+VI. KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA
+(sjedište u Koprivnici)
+KOPRIVNIČKO-KRIŽEVAČKA
+ŽUPANIJA 2386002 - 1800006000 201
+DRNJE 2386002 - 1809600007 96
+ĐELEKOVEC 2386002 - 1810400001 104
+ĐURĐEVAC 2360000 - 1810700004 107
+FERDINANDOVAC 2360000 - 1811500004 115
+GOLA 2386002 - 1812200004 122
+GORNJA RIJEKA 2360000 - 1861800000 618
+HLEBINE 2386002 - 1814500001 145
+KALINOVAC 2360000 - 1855900005 559
+KALNIK 2360000 - 1856000008 560
+KLOŠTAR PODRAVSKI 2360000 - 1819400009 194
+KOPRIVNICA 2386002 - 1820100005 201
+KOPRIVNIČKI BREGI 2386002 - 1820200006 202
+KOPRIVNIČKI IVANEC 2386002 - 1820300007 203
+KRIŽEVCI 2360000 - 1821400000 214
+LEGRAD 2402006 - 1822700005 227
+MOLVE 2402006 - 1827000007 270
+NOVIGRAD PODRAVSKI 2386002 - 1829200004 292
+NOVO VIRJE 2402006 - 1856100009 561
+PETERANEC 2386002 - 1832400005 324
+PODRAVSKE SESVETE 2360000 - 1861600008 616
+RASINJA 2386002 - 1836600005 366
+SOKOLOVAC 2386002 - 1840500006 405
+SVETI IVAN ŽABNO 2360000 - 1843900006 439
+SVETI PETAR OREHOVEC 2360000 - 1844200001 442
+VIRJE 2360000 - 1849000000 490
+VII. BJELOVARSKO-BILOGORSKA ŽUPANIJA
+(sjedište u Bjelovaru)
+BJELOVARSKO-BILOGORSKA
+ŽUPANIJA 2402006 - 1800007002 24
+BEREK 2402006 - 1801800003 18
+BJELOVAR 2402006 - 1802400001 24
+ČAZMA 2402006 - 1806300009 63
+DARUVAR 2340009 - 1806700003 67
+DEŽANOVAC 2402006 - 1807100009 71
+ĐULOVAC 2340009 - 1810500002 105
+GAREŠNICA 2402006 - 1811900008 119
+GRUBIŠNO POLJE 2386002 - 1813900003 139
+HERCEGOVAC 2402006 - 1814400000 144
+IVANSKA 2340009 - 1816100001 161
+KAPELA 2402006 - 1817600007 176
+KONČANICA 2402006 - 1819900004 199
+NOVA RAČA 2402006 - 1828700006 287
+ROVIŠĆE 2402006 - 1837500007 375
+SEVERIN 2402006 - 1856200000 562
+SIRAČ 2340009 - 1839000006 390
+ŠANDROVAC 2402006 - 1856400002 564
+ŠTEFANJE 2340009 - 1845000002 450
+VELIKA PISANICA 2402006 - 1847800004 478
+VELIKA TRNOVITICA 2402006 - 1856500003 565
+VELIKI GRĐEVAC 2360000 - 1848000008 480
+VELIKO TROJSTVO 2402006 - 1848300001 483
+ZRINSKI TOPOLOVAC 2402006 - 1856600004 566
+VIII. PRIMORSKO-GORANSKA ŽUPANIJA
+(sjedište u Rijeci)
+PRIMORSKO-GORANSKA
+ŽUPANIJA 2300007 - 1800008005 373
+BAKAR 2325004 - 1800400007 4
+BAŠKA 2300007 - 1800800001 8
+BROD MORAVICE 2300007 - 1803800007 38
+CRES 2300007 - 1805200006 52
+CRIKVENICA 2300007 - 1805300007 53
+ČABAR 2300007 - 1805500009 55
+ČAVLE 2485003 - 1806100007 61
+DELNICE 2300007 - 1806900005 69
+DOBRINJ 2300007 - 1807400002 74
+FUŽINE 2300007 - 1811700006 117
+JELENJE 2325004 - 1817000001 170
+KASTAV 2300007 - 1818000003 180
+KLANA 2300007 - 1818600009 186
+KOSTRENA 2300007 - 1853800000 538
+KRALJEVICA 2300007 - 1820900003 209
+KRK 2300007 - 1821500001 215
+LOKVE 2300007 - 1823700007 237
+LOVRAN 2300007 - 1824200003 242
+MALI LOŠINJ 2300007 - 182520000yle='mso-tab-count:1'> 252
+MALINSKA-DUBAŠNICA 2325004 - 1825300006 253
+MATULJI 2300007 - 1826100006 261
+MOŠČENIČKA DRAGA 2300007 - 1827300000 273
+MRKOPALJ 2300007 - 1827500002 275
+NOVI VINODOLSKI 2300007 - 1829000002 290
+OMIŠALJ 2300007 - 1830100009 301
+OPATIJA 2300007 - 1830200000 302
+PUNAT 2325004 - 1836000009 360
+RAB 2325004 - 1836300002 363
+RAVNA GORA 2325004 - 1836900008 369
+RIJEKA 2300007 - 1837300005 373
+SKRAD 2300007 - 1839300009 393
+VINODOLSKA OPĆINA 2300007 - 1848800006 488
+VIŠKOVO 2412009 - 1849500005 495
+VRBNIK 2300007 - 1850700002 507
+VRBOVSKO 2300007 - 1850900004 509
+IX. LIČKO-SENJSKA ŽUPANIJA
+(sjedište u Gospiću)
+LIČKO-SENJSKA ŽUPANIJA 2340009 - 1800009008 130
+BRINJE 2300007 - 1803700006 37
+DONJI LAPAC 2340009 - 1808400004 84
+GOSPIĆ 2340009 - 1813000004 130
+KARLOBAG 2340009 - 1817800009 178
+LOVINAC 2340009 - 1824000001 240
+NOVALJA 2300007 - 1828800007 288
+OTOČAC 2300007 - 1831300003 313
+PERUŠIĆ 2300007 - 1832300004 323
+PLITVIČKA JEZERA 2340009 - 1845500007 455
+SENJ 2300007 - 1838700001 387
+UDBINA 2340009 - 1846700001 467
+VRHOVINE 2340009 - 1851200009 512
+X. VIROVITIČKO-PODRAVSKA ŽUPANIJA
+(sjedište u Virovitici)
+VIROVITIČKO-PODRAVSKA
+ŽUPANIJA<> 2360000 - 1800010009le='mso-tab-count:1'> 491
+CRNAC 2412009 - 1805400008 54
+ČAČINCI 2393000 - 1805600000 56
+ČAĐAVICA 2412009 - 1805700001 57
+GRADINA 2360000 - 1813600000 136
+LUKAČ 2360000 - 1824500006 245
+MIKLEUŠ 2412009 - 1826600001 266
+NOVA BUKOVICA 2412009 - 1828300002 283
+ORAHOVICA 2393000 - 1830700005 307
+PITOMAČA 2402006 - 1833200005 332
+SLATINA 2412009 - 1839500001 395
+SOPJE 2412009 - 1840700008 407
+SUHOPOLJE 2360000 - 1842400009 424
+ŠPIŠIĆ BUKOVICA 2360000 - 1844900008 449
+VIROVITICA 2360000 - 1849100001 491
+VOĆIN 2412009 - 1 499
+ZDENCI 2393000 - 1852400003 524
+XI. POŽEŠKO-SLAVONSKA ŽUPANIJA
+(sjedište u Požegi)
+POŽEŠKO-SLAVONSKA
+ŽUPANIJA 2405004 - 1800011001 351
+BRESTOVAC 2405004 - 1803500004 35
+ČAGLIN 2405004 - 1805800002 58
+JAKŠIĆ 2405004 - 1816400004 164
+KAPTOL 2412009 - 1817700008 177
+KUTJEVO 2405004 - 1822100009 221
+LIPIK 2340009 - 1823100001 231
+PAKRAC 2484008 - 1831800008 318
+PLETERNICA 2405004 - 1833400007 334
+POŽEGA 2405004 - 1835100008 351
+VELIKA 2405004 - 1847500001 475
+XII. BRODSKO-POSAVSKA ŽUPANIJA
+(sjedište u Slavonskom Brodu)
+BRODSKO-POSAVSKA
+ŽUPANIJA 2340009 - 1800012004 396
+BEBRINA 2340009 - 1801000005 10
+BRODSKI STUPNIK 2340009 - 1803900008 39
+BUKOVLJE 2340009 - 1856700005 567
+CERNIK 2360000 - 1804600008 46
+DAVOR 2360000 - 1806800004 68
+DONJI ANDRIJEVCI 2340009 - 1808100001 81
+DRAGALIĆ 2360000 - 1856800006 568
+GARČIN 2360000 - 1811800007 118
+GORNJA VRBA 2489004 - 1856900007 569
+GORNJI BOGIČEVCI 2360000 - 1812700009 127
+GUNDINCI 2340009 - 1814000006 140
+KLAKAR 2489004 - 1818500008 185
+NOVA GRADIŠKA 2360000 - 1828400003 284
+NOVA KAPELA 2360000 - 1828500004 285
+OKUČANI 2360000 - 1829900001 299
+OPRISAVCI 2340009 - 1830300001 303
+ORIOVAC 2340009 - 1830900007 309
+PODCRKAVLJE 2340009 - 1833800001 338
+REŠETARI 2360000 - 1837200004 372
+SIBINJ 2360000 - 1838800002 388
+SIKIREVCI 2489004 - 1857000000 570
+SLAVONSKI BROD 2340009 - 1839600002 396
+SLAVONSKI ŠAMAC 2340009 - 1839700003 397
+STARA GRADIŠKA 2360000 - 1841200005 412
+STARO PETROVO SELO 2360000 - 1841800001 418
+VELIKA KOPANICA 2340009 - 1847600002 476
+VRBJE 2489004 - 1850600001 506
+VRPOLJE 2340009 - 1851400001 514
+XIII. ZADARSKA ŽUPANIJA
+(sjedište u Zadru)
+ZADARSKA ŽUPANIJA 2330003 - 1800013007 520
+BENKOVAC 2330003 - 1801700002 17
+<> 2407000 - 1802000007 20
+BIOGRAD NA MORU 2330003 - 1802200009 22
+GALOVAC 2330003 - 1857100001 571
+GRAČAC 2340009 - 1813100005 131
+JASENICE 2407000 - 1816700007 167
+KALI 2407000 - 1817300004 173
+KUKLJICA 2407000 - 1857200002 572
+LIŠANE OSTROVIČKE 2407000 - 1823400004 234
+NIN 2402006 - 1828200001 282
+NOVIGRAD (ZADAR) 2402006 - 1853700009 537
+OBROVAC 2500009 - 1829600008 296
+PAG 2500009 - 1831600006 316
+PAKOŠTANE 2407000 - 1831700007 317
+PAŠMAN 2330003 - 1832000001 320
+POLAČA 2330003 - 1834400009 344
+POan style='mso-tab-count:1'> 2330003 - 1834500000 345
+POSEDARJE 2407000 - 1834900004 349
+POVLJANA 2500009 - 1857300003 573
+PREKO 2407000 - 1835400001 354
+PRIVLAKA 2407000 - 1857400004 574
+RAŽANAC 2407000 - 1837100003 371
+SALI 2407000 - 1837900001 379
+STANKOVCI 2407000 - 1841100004 411
+STARIGRAD 2407000 - 1841600009 416
+SUKOŠAN 2407000 - 1842500000 425
+SVETI FILIP I JAKOV 2407000 - 1842800003 428
+ŠKABRNJA 2330003 - 1844500004 445
+TKON 2407000 - 1857500005 575
+VIR 2330003 - 1848900007 489
+ZADAR 2407000 - 1852000009 520
+ZEMUNIK DONJI 2407000 - 1852500004 525
+XIV. OSJEČKO-BARANJSKA ŽUPANIJA
+(sjedište u Osijeku)
+OSJEČKO-BARANJSKA
+ŽUPANIJA 2393000 - 1800014000 312
+ANTUNOVAC 2393000 - 1800200005 2
+BELI MANASTIR 2393000 - 1801300008 13
+BELIŠĆE 2340009 - 1801600001 16
+BILJE 2340009 - 1802100008 21
+BIZOVAC 2340009 - 1802300000 23
+ČEMINAC 2340009 - 1806400000 64
+ČEPIN 2393000 - 1806500001 65
+DARDA 2340009 - 1806600002 66
+DONJA MOTIČINA 2393000 - 1857600006 576
+DONJI MIHOLJAC 2412009 - 1808600006 86
+DRAŽ 2340009 - 1809100002 91
+DRENJE 2393000 - 1809400005 94
+ĐAKOVO 2393000 - 1810300000 103
+103
+ĐURĐENOVAC 2340009 - 1810600003 106
+ERDUT 2393000 - 1811000009 110
+ERNESTINOVO 2393000 - 1811100000 111
+FERIČANCI 2393000 - 1811600005 116
+GORJANI 2393000 - 1812400006 124
+JAGODNJAK 2393000 - 1860900008 609
+KNEŽEVI VINOGRADI 2393000 - 1819500000 195
+KOŠKA 2393000 - 1820500009 205
+LEVANJSKA VAROŠ 2485003 - 1823000000 230
+MAGADENOVAC 2393000 - 1857800008 578
+MARIJANCI 2393000 - 1825700000 257
+MOSLAVINA PODRAVSKA 2412009 - 1827100008 271
+NAŠICE 2393000 - 1827800005 278
+OSIJEK 2340009 - 1831200002 312
+PETLOVAC 2340009 - 1832500006 325
+PETRIJEVCI 2340009 - 1832700008 327
+PODGORAČ 2393000 - 1834000005 340
+POPOVAC 2340009 - 1834600001 346
+PUNITOVCI 2393000 - 1836100000 361
+SATNICA ĐAKOVAČKA 2393000 - 1838100005 381
+SEMELJCI 2393000 - 1838600000 386
+STRIZIVOJNA 2393000 - 1842100006 421
+ŠODOLOVCI 2393000 - 1861400006 614
+TRNAVA 2393000 - 1846100005 461
+VALPOVO 2340009 - 1847100007 471
+VILJEVO 2393000 - 1848500003 485
+VIŠKOVCI 2393000 - 1849400004 494
+VLADISLAVCI 2393000 - 1857900009 579
+VUKA 2393000 - 1851700004 517
+XV. ŠIBENSKO-KNINSKA ŽUPANIJA
+(sjedište u Šibeniku)
+ŠIBENSKO-KNINSKA ŽUPANIJA 2411006 - 1800015002 444
+BISKUPIJA 2330003 - 1831000000 310
+CIVLJANE 2411006 - 1805100005 51
+DRNIŠ 2330003 - 1809500006 95
+ERVENIK 2330003 - 1811300002 113
+KIJEVO 2411006 - 1818300006 183
+KISTANJE 2330003 - 1818400007 184
+KNIN 2411006 - 1819600001 196
+MURTER 2411006 - 1861700009 617
+PIROVAC 2411006 - 1858100002 581
+PRIMOŠTEN 2411006 - 1835700004 357
+PROMINA 2411006 - 1829800000 298
+ROGOZNICA 2411006 - 1858200003 582
+RUŽIĆ 2485003 - 1837700009 377
+SKRADIN 2411006 - 1839400000 394
+ŠIBENIK 2411006 - 1844400003 444
+TISNO 2407000 - 1845400006 454
+UNEŠIĆ 2411006 - 1846900003 469
+VODICE 2411006 - 1850000005 500
+XVI. VUKOVARSKO-SRIJEMSKA ŽUPANIJA
+(sjedište u Vukovaru)
+VUKOVARSKO-SRIJEMSKA
+ŽUPANIJA 2340009 - 1800016005 518
+ANDRIJAŠEVCI 2340009 - 1800100004 1
+BABINA GREDA 2340009 - 1800300006 3
+BOGDANOVCI 2393000 - 1802600003 26
+BOROVO 2393000 - 1802900006 29
+BOŠNJACI 2485003 - 1803200001 32
+CERNA 2340009 - 1804400006 44
+DRENOVCI 2485003 - 1809200003 92
+GRADIŠTE 2340009 - 1813700001 137
+GUNJA 2485003 - 1814100007 141
+ILOK 2412009 - 1815400002 154
+IVANKOVO 2340009 - 1815900007 159
+JARMINA 2340009 - 1816600006 166
+LOVAS 2393000 - 1823900009 239
+MARKUŠICA 2340009 - 1861000002 610
+NEGOSLAVCI 2393000 - 1861200004 612
+NIJEMCI 2340009 - 1829500007 295
+NUŠTAR 2340009 - 1829400006 294
+OTOK 2393000 - 1853500007 535
+PRIVLAKA 2340009 - 1858300004 583
+STARI JANKOVCI 2485003 - 1841400007 414
+STARI MIKANOVCI 2340009 - 1841500008 415
+TOMPOJEVCI 2393000 - 1845600008 456
+TORDINCI 2340009 - 1845800000 458
+TOVARNIK 2340009 - 1845900001 459
+TRPINJA 2393000 - 1846400008 464
+VINKOVCI 2340009 - 1848700005 487
+VOĐINCI 2340009 - 1858400005 584
+VRBANJA 2340009 - 1850500000 505
+VUKOVAR 2393000 - 1851800005 518
+ŽUPANJA 2340009 - 1853400006 534
+XVII. SPLITSKO-DALMATINSKA ŽUPANIJA
+(sjedište u Splitu)
+SPLITSKO-DALMATINSKA
+ŽUPANIJA 2330003 - 1800017008 409
+BAŠKA VODA 2360000 - 1800900002 9
+BOL 2360000 - 1802700004 27
+BRELA 2330003 - 1807700005 77
+CISTA PROVO 2330003 - 1805000004 50
+DICMO 2330003 - 1807200000 72
+DUGI RAT 2330003 - 1810000007 100
+DUGOPOLJE 2340009 - 1858500006 585
+GRADAC 2330003 - 1813400008 134
+HRVACE 2330003 - 1814800004 148
+HVAR 2500009 - 1815300001 153
+IMOTSKI 2500009 - 1815500003 155
+JELSA 2330003 - 1817100002 171
+KAŠTELA 2330003 - 1818100004 181
+KLIS 2330003 - 1819200007 192
+KOMIŽA 2330003 - 1819700002 197
+LEĆEVICA 2330003 - 1858600007 586
+LOKVIČIĆI 2330003 - 1858700008 587
+LOVREĆ 2330003 - 1824300004 243
+MAKARSKA 2360000 - 1824900000 249
+MARINA 2481000 - 1825800001 258
+MILNA 2360000 - 1826700002 267
+MUĆ 2330003 - 1808700007 87
+NEREŽIŠĆA 2330003 - 1828000009 280
+OKRUG 2360000 - 1858800009 588
+OMIŠ 2330003 - 1830000008 300
+OTOK 2330003 - 1831400004 314
+PODBABLJE 2330003 - 1833700000 337
+PODGORA 2330003 - 1833900002 339
+PODSTRANA 2503007 - 1834100006 341
+POSTIRA 2407000 - 1835000007 350
+PRGOMET 2330003 - 1858900000 589
+PRIMORSKI DOLAC 2330003 - 1859000003 590
+PROLOŽAC 2330003 - 1808800008 88
+PUČIŠĆA 2330003 - 1835800005 358
+RUNOVIĆ 2330003 - 1859100004 591
+SEGET 2330003 - 1838200006 382
+SELCA 2330003 - 1838300007 383
+SINJ 2330003 - 1838900003 389
+SOLIN 2330003 - 1840600007 406
+SPLIT 2500009 - 1840900000 409
+STARIpan>STARI GRAD 2330003 - 18span style='mso-tab-count:1'> 413
+SUĆURAJ 2330003 - 1842300008 423
+SUPETAR 2330003 - 1842700002 427
+SUTIVAN 2330003 - 1859200005 592
+ŠESTANOVAC 2330003 - 1844300002 443
+ŠOLTA 2360000 - 1844700006 447
+TRILJ 2330003 - 1846000004 460
+TROGIR 2330003 - 1846300007 463
+TUČEPI 2330003 - 1859300006 593
+VIS 2330003 - 1849200002 492
+VRGORAC 2330003 - 1851100008 511
+VRLIKA 2330003 - 1851300000 513
+ZADVARJE 2330003 - 1859500008 595
+ZAGVOZD 2330003 - 1852200001 522
+ZMIJAVCI 2330003 - 1852800007 528
+XVIII. ISTARSKA ŽUPANIJA
+(sjedište u Pazinu)
+ISTARSKA ŽUPANIJA 2416000 - 1800018003 321
+BALE 2416000 - 1800500008 5
+BARBAN 2416000 - 1800600009 6
+BRTONIGLA 2360000 - 1804000002 40
+BUJE 2300007 - 1804200004 42
+BUZET 2416000 - 1804300005 43
+CEROVLJE 2416000 - 1804700009 47
+FAŽANA 2484008 - 1861900001 619
+GRAČIŠĆE 2300007 - 1813200006 132
+GROŽNJAN 2300007 - 1813800002 138
+KANFANAR 2300007 - 1817500006 175
+KAROJBA 2300007 - 1859600009 596
+KAŠTELIR-LABINCI 2380006 - 1859700000 597
+KRŠAN 2402006 - 1821700003 217
+LABIN 2416000 - 1822200000 222
+LANIŠĆE 2416000 - 1822300001 223
+LIŽNJAN 2416000 - 1823500005 235
+LUPOGLAV 2416000 - 1824600007 246
+MARČANA 2484008 - 1825400007 254
+MEDULIN 2416000 - 1826300008 263
+MOTOVUN 2300007 - 1827400001 274
+NOVIGRAD 2380006 - 1829100003 291
+OPRTALJ 2300007 - 1830400002 304
+PAZIN 2300007 - 1832100002 321
+PIČAN 2416000 - 1833000003 330
+POREČ 2380006 - 1834800003 348
+PULA 2416000 - 1835900006 359
+RAŠA 2300007 - 1836800007 368
+ROVINJ 2416000 - 1837400006 374
+SVETA NEDELJA 2300007 - 1843200009 432
+>432
+SVETI LOVREČ 2380006 - 1843100008 431
+SVETI PETAR U ŠUMI 2300007 - 1843300000 433
+SVETVINČENAT 2416000 - 1843500002 435
+TINJAN 2416000 - 1845300005 453
+UMAG 2380006 - 1846800002 468
+VIŠNJAN 2380006 - 1849700007 497
+VIŽINADA 2360000 - 1849800008 498
+VODNJAN 2416000 - 1850200007 502
+VRSAR 2300007 - 1851600003 516
+ŽMINJ 2416000 - 1853100003 531
+XIX. DUBROVAČKO-NERETVANSKA ŽUPANIJA
+(sjedište u Dubrovniku)
+DUBROVAČKO-NERETVANSKA
+ŽUPANIJA 2401003 - 1800019006 98
+BLATO 2340009 - 1802500002 25
+DUBROVAČKO PRIMORJE 2401003 - 1859800001 598
+DUBROVNIK 2401003 - 1809800009 98
+JANJINA 2401003 - 1859900002 599
+KONAVLE 2401003 - 1819800003 198
+KORČULA 2500009 - 1820400008 204
+KULA NORINSKA 2330003 - 1821900005 219
+LASTOVO 2330003 - 1822600004 226
+LUMBARDA 2330003 - 1860000009 600
+METKOVIĆ 2330003 - 1826400009 264
+MLJET 2401003 - 1826800003 268
+OPUZEN 2340009 - 1830600004 306
+OREBIĆ 2330003 - 1830800006 308
+PLOČE 2330003 - 1833500008 335
+POJEZERJE 2330003 - 1834300008 343
+SLIVNO 2340009 - 1839900005 399
+SMOKVICA 2401003 - 1840200003 402
+STON 2401003 - 1841900002 419
+TRPANJ 2401003 - 1860100000 601
+VELA LUKA 2330003 - 1847400000 474
+ZAŽABLJE 2401003 - 1852300002 523
+ŽUPA DUBROVAČKA 2401003 - 1860200001 602
+XX. MEĐIMURSKA ŽUPANIJA
+(sjedište u Čakovcu)
+MEĐIMURSKA ŽUPANIJA 2392007 - 1800020004 60
+BELICA 2392007 - 1801500000 15
+ČAKOVEC 2392007 - 1806000006 60
+DEKANOVEC 2392007 - 1860300002 603
+DOMAŠINEC 2392007 - 1807500003 75
+DONJA DUBRAVA 2392007 - 1807800006 78
+DONJI KRALJEVEC 2392007 - 1808200002 82
+DONJI VIDOVEC 2392007 - 1808900009 89
+GORIČAN 2392007 - 1812300005 123
+GORNJI MIHALJEVAC 2392007 - 1860400003 604
+KOTORIBA 2392007 - 1820600000 206
+MALA SUBOTICA 2392007 - 1825000003 2
+MURSKO SREDIŠĆE 2392007 - 1827600003 276
+NEDELIŠĆE 2392007 - 1827900006 279
+OREHOVICA 2392007 - 1860500004 605
+PODTUREN 2392007 - 1834200007 342
+PRELOG 2392007 - 1835500002 355
+PRIBISLAVEC 2392007 - 1862000004 620
+SELNICA 2392007 - 1838500009 385
+STRAHONINEC 2392007 - 1860600005 606
+SVETA MARIJA 2392007 - 1860700006 607
+SVETI JURAJ NA BREGU 2392007 - 1844000009 440
+SVETI MARTIN NA MURI 2392007 - 1844100000 441
+ŠENKOVEC 2484008 - 1860800007 608
+ŠTRIGOVA 2392007 - 1845200004 452
+VRATIŠINEC 2392007 - 1850400009 504
+XXI. GRAD ZAGREB
+GRAD ZAGREB 2360000 - 1813300007 133
+NAPOMENA: oznaka grada kod županijaa grada u kojem je sjedište županije. Izuzetak je Zagrebačka županija koja ima oznaku 710.
+Prilog 2
+PREGLED BROJČANIH OZNAKA VRSTE PRIHODA I DOPUŠTENIH MODELA
+(za vlastite prihode državnog, županijskih i gradskih/općinskih proračuna)
+Brojčana oznaka vrste
+prihoda
+Modeli
+21
+22
+23
+24
+26
+27
+28
+29
+60
+61
+62
+63
+64
+66
+1007
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1015
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1201
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-p>
+-
+-
+-
+1210
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1228
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1040
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1058
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+10
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1074
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1082
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1090
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1104
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1112
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1120
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3000
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3034
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3042
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3050
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3069
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3077
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3085
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3093
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3107
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3115
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3123
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4006
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4014
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5002
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5010
+21
+22
+-
+-
+-
+-
+-
+-
+-
+| rap colspan=2 valign=bottom style='border-top:none;border-left:none; border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt; padding:.75pt .75pt 0cm .75pt;height:12.75pt'>
+-
+-
+-
+-
+-
+5029
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5045
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5053
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5061
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5070
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5096
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5142
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5169
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5177
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5185
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5193
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5207
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5215
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5223
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5231
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5240
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+| <td nowrap colspan=2 valign=bottom style='border-top:none;border-left:none; border border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt; padding:.75pt .75pt 0cm .75pt;height:12
+-
+-
+5258
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5266
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5274
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5282
+21
+-
+-
+-
+-
+-
+>-
+-
+-
+-
+-
+-
+-
+-
+-
+5290
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5509
+21
+22
+P3 = oznaka podvrste prihoda (3 znamenke uključujući i kontrolni br
+-
+-
+5517
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5525
+21
+22
+za 21 P-3 = oznaka mjeseca i godine (mmgg) a za 22 P3= (mmg)
+5533
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5541
+21
+22
+-
+-
+-
+-
+-
+29
+-
+-
+-
+-
+-
+--
+5550
+21
+22
+P3 = oznaka grada/općine u kojem je sjedište županije (3 znamenke)
+-
+-
+5576
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5584
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5592
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5606
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6009
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6017
+-
+-
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6025
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6033
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6041
+21
+-
+-
+-
+-
+27
+-
+-
+-
+-
+-
+-
+-
+-
+6050
+-
+-
+23
+-
+26
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6068
+-
+-
+23
+-
+26
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6076
+-
+-
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6084
+-
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6092
+21
+22
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6106
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6114
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6122
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6130
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6149
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7005
+21
+22
+-
+--
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7013
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7021
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7030
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7048
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7056
+21
+22
+-
+-
+-
+-
+-
+29
+-
+-
+-
+-
+-
+7064
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7072
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7080
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7110
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7129
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+64
+-
+7137
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+62
+63
+-
+-
+7145
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+62
+63
+-
+-
+'>-
+7153
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+62
+63
+-
+-
+7161
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7170
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7188
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7196
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7200
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7226
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7234
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7250
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7269
+-
+-
+-
+-
+26
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7277
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7285
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7293
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7501
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7510
+21
+22
+-
+-
+| 12.75pt'>
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7528
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7536
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7552
+21
+-
+P3 = oznaka vrste kredita
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7560
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7609
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7617
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7625
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7633
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7641
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7676
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7684
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7692
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8109
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8117
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8125
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8133
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8141
+-
+-
+P3 = razd.uplate dopr.-4 znam.(mmgg)
+60
+-
+-
+-
+-
+-
+8150
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8168
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8176
+21
+-
+P3 = oznaka identifikatora s Obrasca R-S
+60
+-
+-
+-
+-
+66
+8184
+-
+-
+-
+-
+26
+-
+-
+-
+60
+-
+-
+-
+-
+-
+8192
+21
+22
+-
+-
+26
+-
+-
+-
+60
+-
+-
+-
+-
+66
+P3 = oznaka identifikatora s Obrasca R-S
+8206
+-
+-
+-
+-
+26
+-
+-
+-
+60
+-
+-
+-
+-
+-
+8214
+-
+-
+-
+-
+26
+-
+-
+-
+60
+-
+-
+-
+-
+-
+8222
+-
+-
+-
+-
+-
+-
+-
+-
+-
+61
+-
+-
+-
+-
+8249
+21
+-
+P3 = oznaka identifikatora s Obrasca R-S
+-
+66
+8257
+-
+-
+P3 = razd.uplate dopr.- 4 znam.(mmgg)
+60
+-
+-
+-
+-
+8265
+-
+-
+P3 = razd.uplate dopr.- 4 znam.(mmgg)
+60
+-
+-
+-
+-
+-
+8281
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8290
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8400
+21
+-
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8419
+-
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8427
+-
+22
+P3 = razdoblje uplate dopr.- 3 znam.(gmm)
+-
+-
+-
+-
+-
+-
+8435
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8443
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8451
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+>-
+-
+8460
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8478
+-
+22
+P3 = razd.uplate doprinosa - 3 znamenke (gmm)
+-
+-
+-
+-
+-
+8486
+-
+22
+P3 = razd. uplate doprinosa - 3 znamenke (gmm)
+-
+-
+-
+-
+-
+8494
+-
+22
+P3 = razd. uplate doprinosa - 3 znamenke (gmm)
+-
+-
+-
+-
+-
+8508
+21
+22
+P3 = razd.uplate doprinosa - 3 znamenke (gmm)
+-
+-
+-
+-
+-
+8516
+-
+22
+P3 = razd.uplate doprinosa - 3 znamenke (gmm)
+-
+-
+-
+-
+66
+8524
+21
+-
+P3 = oznaka identifikatora s Obrasca R-S
+-
+>
+-
+-
+-
+8532
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+66
+8540
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8559
+21
+-
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8567
+-
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+-
+8575
+-
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+-
+8583
+21
+22
+P3 = razd. uplate dopr. - 3 znam. (gmm)
+-
+-
+-
+-
+-
+-
+8591
+-
+22
+P3 = razd. uplate dopr. - 3 znam. (gmm)
+-
+-
+-
+-
+-
+-
+8605
+-
+22
+P3 = razd. uplate dopr. - 3 znam. (gmm)
+-
+-
+-
+-
+-
+-
+8613
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8621
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8630
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8648
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8656
+-
+22
+P3 = razd. uplate dopr.- 3 znam. (gmm)
+-
+-
+8664
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8702
+21
+22
+P3 = oznaka identifikatora s Obrasca R-S
+-
+-
+-
+-
+-
+66
+8710
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+B. Vlastiti prihodi županijskih proračuna županijskih proračuna
+1309
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1317
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1325
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1333
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1341
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5304
+21
+22
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5312
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5320
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5339
+21
+22
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5347
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5355
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6300
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6319
+-
+-
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6327
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7307
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7315
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7323
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7331
+n>
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7340
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7358
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7366
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7374
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7382
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7390
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7404
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7412
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7439
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7447
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+C. Prihodi gradskih i općinskih proračuna
+1708
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1716
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1724
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1732
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1740
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1759
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1767
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1775
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5703
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+5711
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5720
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+5738
+21
+22
+-
+24
+26
+| 75pt'>
+-
+28
+-
+-
+-
+-
+-
+-
+-
+5746
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5754
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5762
+21
+22
+-
+-<>
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5770
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+5789
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+5797
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5800
+21
+22
+-
+-
+-
+-
+-
+-
+-center'>-
+-
+-
+-
+-
+-
+5819
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5827
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5835
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+6700
+-
+-
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6718
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7706
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7714
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-al'>
+-
+-
+7722
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7730
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7749
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7757
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7765
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7773
+21
+22
+-
+24
+26
+-
+28
+-
+n>
+-
+-
+-
+-
+-
+-
+7781
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7790
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7803
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7811
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7820
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7838
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7854
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7862
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7870
+-
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7889
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7897
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+7900
+21
+22
+-
+24
+26
+-
+28
+-
+-
+-
+-
+-
+-
+-
+4502
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Prilog 3
+PREGLED DOPUŠTENIH MODELA
+(za zajedničke prihode proračuna i druge prihode za financiranje javnih potreba)
+A. ZAJEDNIČKI PRIHODI PRORAČUNA
+1. ZAJEDNIČKI PRIHODI DRŽAVNOG, GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Spomenička renta
+-
+5
+12
+-
+-
+-
+Naknada za koncesiju za crpljenje mineralnih i termalnih voda
+-
+5
+12
+-
+-
+-
+Naknada za koncesiju od zahvaćanje vode za javnu vodoopskrbu
+-
+5
+12
+-
+-
+-
+Naknada za promjenu namjene poljopr. zemljišta u građevinsko zemljište
+-
+5
+12
+-
+-
+-
+Naknada za koncesiju i korištenje poljoprivr. zemljišta u vlasništvu države
+-
+5
+12
+-
+-
+-
+2. ZAJEDNIČKI PRIHOD DRŽAVNOG, ŽUPANIJSKIH I GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun<>
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Porez na dobit
+endif]>
+1651
+-
+-
+21
+22
+-
+1660
+-
+-
+21
+22
+-
+1678
+-
+-
+21
+22
+-
+1686
+-
+-
+21
+22
+-
+1694
+-
+-
+21
+22
+-
+Porez na dohodak i prirez porezu na dohodak
+1406
+-
+-
+21
+22
+66
+1414
+-
+-
+-
+22
+-
+1422
+-
+-
+-
+22
+-
+1430
+-
+-
+22
+-
+1449
+-
+-
+-
+22
+-
+1457
+-
+-
+-
+22
+-
+1465
+-
+-
+-
+22
+-
+1473
+-
+21
+22
+-
+1503
+-
+-
+-
+22
+-
+1511
+-
+-
+-
+22
+-
+1538
+-
+-
+-
+22
+-
+1546p>
+-
+-
+-
+22
+-
+1570
+-
+-
+-
+22
+-
+| 1589
+-
+-
+-
+22
+-
+1597
+-
+-
+-
+22
+-
+p>
+1600
+-
+-
+-
+22
+-
+1619
+-
+-
+-
+22
+-
+1627
+-
+-
+21
+22
+-
+1635
+-
+-
+-
+22
+-<>
+Porez na promet nekretnina
+-
+5
+12
+-
+-
+-
+Prodaja državnih biljega
+-
+5
+12
+-
+-
+-
+Zakup poljoprivrednog zemljišta u vlasništvu države
+-
+5
+12
+-
+-
+-
+Prodaja poljoprivrednog zemljišta u vlasništvu države
+-
+5
+12
+-
+-
+-
+3. ZAJEDNIČKI PRIHODI ŽUPANIJSKIH I GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Naknada za iskorištavanje mineralnih sirovina
+-
+5
+12
+-
+-
+-
+B. PRIHODI JAVNIH PODUZEĆA
+1. PRIHODI HRVATSKIH VODA
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Naknada za korištenje voda
+<>
+Naknada za zaštitu voda
+Naknada za vađenje pijeska, šljunka i kamena
+Naknada za vađenje pijeska, šljunka i kamena
+Slivna vodna naknada
+Sliv.vod.nakn.koju plać.vl.odnos.korisn.zemljiš.i nekret.na slivnom područ.
+Pri uplati na ove račune u »poziv na broj odobrenja« sadržaj propisuju »Hrvatske vode« odnosno vodnogospodarska ispostava za slivno područje vodnogospodarska ispostava za slivno područje
+2. PRIHODI JAVNOG PODUZEĆA HRVATSKE ŠUME
+Račun
+brojčana oznaka
+model
+![endif]>
+vrste prihoda
+5
+12
+21
+22
+66
+Naknada za korištenje općekorisnih funkcija šuma
+-
+5
+12
+-
+-
+-
+Sredstava za jednostavnu biološku reprodukciju šuma
+-
+5<>
+12
+-
+-
+-
+Sredstva za proširenu biološku reprodukciju šuma
+-
+5
+12
+-
+-
+-
+Dopr. za šume obračunan od katastar.prihoda šuma i šumskog zemljišta
+5
+12
+-
+-
+-
+3 .PRIHODI UPRAVA ZA CESTE
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+66
+Naknada za izvanaredni prijevoz
+Naknada za prekomjernu uporabu javne ceste
+Naknada za korištenje cestovnog zemljišta
+Naknada za obavljenje pratećih djelatnosti
+Godišnja nakn. za uporabu javnih cesta pri registr.motor i prijključ. vozila
+Naknada za izvanredni prijevoz
+| <td width=76 valign=top style='width:2.0cm;border-top:none;border-left:none; border-bottom:solid windowtext .25pt;border-right:solid windowtext .5pt; mso-border-top-alt:stop-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt; padding:0cm 5.4pt 0cm 5.4pt;height:21.0
+Naknada za prekomjernu uporabu javne ceste
+Naknada za obavljanje pratećih djelatnosti
+Pri uplati na ove račune u »poziv na broj odobrržaj propisuju županijske uprave za ceste
+C. OSTALI PRIHODI ZA JAVNE POTREBE
+1. PRIHODI TURISTIČKIH ZAJEDNICA
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Članarina turističkim zajednicama
+-
+5
+12
+-
+-
+-
+Boravišna pristojba
+-
+5
+12
+-
+-
+-
+2. PRIHODI OBRTNIČKIH KOMORA
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Komorski doprinos u paušalnom iznosu
+-
+5
+12
+-
+-
+-
+Komorski doprinos od dohotka, dobiti ili plaće
+-
+5
+12
+-
+-
+-
+3. PRIHODI HRVATSKE GOSPODARSKE KOMORE
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Članarina Hrvatskoj gospodarskoj komori
+-
+5
+-
+-
+-
+-
+Doprinos za obavljanje javnih ovlasti Hrvatske gospodarske komore
+-
+5
+-
+-
+-
+-
+D. SREDSTVA DOPRINOSA ZA MIROVINSKO OSIGURANJE NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE
+Račun
+brojčana oznaka
+model
+vrste prihoda
+5
+12
+21
+22
+66
+Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje
+2003
+-
+-
+21
+22
+66
+2011
+-
+-
+21
+22
+66
+.6pt'>
+2194
+-
+-
+21
+22
+66
+2208
+-
+-
+21
+22
+66
+2020
+-
+-
+21
+22
+66
+2038
+-
+-
+-
+22
+-
+2046
+-
+-
+-
+22
+-
+2054
+-
+-
+-
+22
+66
+2062
+-
+-
+-
+22
+-
+2070
+-
+-
+21
+-
+66
+2089
+-
+-
+21
+-
+66
+2100
+-
+-
+21
+-
+66
+2119
+-
+-
+21
+-
+66
+2127
+-
+-
+21
+-
+66
+2135
+-
+-
+21
+22
+66
+2143
+-
+-
+21
+22
+66
+2151
+-
+-
+21
+-
+-
+2160
+-
+-
+21
+-
+-
+2178
+-
+-
+21
+-
+-
+2186
+-
+-
+21
+-
+-
+Prilog 4
+PREGLED
+osnovnih modela »poziva na broj« s objašnjenjem za njihovu primjenu
+Broj modela
+Sadržaj modela (raspored polja i
+pozicija kontrolnog broja u modelu)
+05
+P1 (K) - P2 - P3
+12
+P1 (K) - P2 - P3
+21
+P1 (K) - P2(K) - P3
+22
+P1 (K) - P2(K) - P3
+23
+P1 (K) - P2 - P3 - P4
+24
+P1 (K) - P2 - P3 - P4
+26
+P1 (K) - P2(K) - P3(K)
+27
+P1 (K) - P2(K)
+28
+P1 (K) - P2(K) - P3(K) - P4
+29
+P1 (K) - P2(K) - P3(K)
+60
+P1 (K) - P2(K) - P3
+61
+P1 (K) - P2(K)(K) - P3
+62
+P1 (K) - P2(K) - P3(K) - P4
+63
+P1 (K) - P2(K) - P3(K)
+64
+P1 (K) - P2(K) - P3 - P4
+66
+P1 (K) - P2(K) - P3
+Broj osnovnog modela upisuje se u pretpolje, a sadržaj u polje elementa »poziv na broj«. Sadržaj »poziva na broj« može biti upisan kao jedan podatak, kao dva podatka, kao tri podatka (P1 - P2 - P3), a u modelima 23, 24, 28, 62 i 64 kao četiri podatka (P1 - P2 - P3 - P4).
+Duljina jednog podatka ograničena je, osim u modelu broj 12, 22 i 26, na dvanaest znamenaka. U modelu 12 podatak P1 i u modelu 22 podatak P2 imaju trinaest znamenaka. U modelu 26 podatak P3 može ali nemora imati trinaest znamenaka.
+Ukupna duljina svih podataka ograničena je u modelima s tri podatka na 20 znamenaka odnosno u modelima s četiri podatka na 19 znamenaka.
+Podaci se odvajaju crticom (-), a ukupan broj svih podataka i crtica koje ih odvajaju ne smije prijeći 22 znaka.
+1. Kontrolna znamenka (K) izračunana je po metodi modula 11 ovako:
+Svaka znamenka nekoga broja množi se s određenim brojem, i to tako da se prva znamenka s desne strane množi sa 2, druga znamenka sa 3,… Brojevi se redom uvećavaju za 1.
+Zbroj dobivenih pojedinačnih umnožaka dijeli se sa 11, pri čemu se dijeljenje ograničava samo na cijele brojeve. Ostatak dobiven pri dijeljenju oduzima se od broja 11 i dobiveni rezultat predstavlja kontrolni broj. Iznimke su sljedeće: ako je ostatak 0 i ako je ostatak 1, kontrolni broj je 0.
+2. Iznimka od točke 1. je sljedeća:
+- u modelu 12 podatak P1, modelu 22 podatak P2 i modelu 26 podatak P3 (JMBG ili matični broj za strance) kontrolni broj izračunava se ovako: dvanaesteroznamenkasti broj množi se slijeva udesno s određenim brojem, i to tako da se prva znamenka s lijeve strane množi sa 2, druga znamenka sa 3,... Brojevi se redom uvećavaju za 1, do broja 7. Nakon toga postupak se ponavlja s time da se sedma znamenka množi sa 2... Zbroj pojedinačnih umnožaka dijeli se sa 11. Ostatak dobiven pri dijeljenju oduzima se od broja 11 i dobiveni rezultat predstavlja kontrolni broj.
+- u modelu 60 podatak P2 izračunan je prema posebnom algoritmu: slijevaprva brojka množi se sa 4, druga sa 3, treća sa 2, četvrta sa 7, peta sa 6, šesta sa 5, sedma sa 4, osma sa 3, deveta sa 2. Zbroj dobivenih pojedinačnih umnožaka dijeli se sa 11, pri čemu se dijeljenje ograničava samo na cijele brojeve. Ostatak dobiven pri dijeljenju oduzima se od broja 11 i dobiveni rezultat predstavlja kontrolni broj. Iznimke su sljedeće: ako je ostatak 0, kontrolni broj je 5 i ako je ostatak 1, kontrolni broj je 0. Podatak ima 10 znamenaka, od kojih je prva znamenka 3, a posljednja je kontrolni broj;
+- u modelu 61 podatak P2 ima 11 znamenaka računajući i dva kontrolna broja, a prva znamenka je 0. Deseta znamenka izračunava se po modulu 10, a jedanaest se po modulu 11. Kontrolna znamenka po metodi modula 10 izračunava se ovako: zdesna ulijevo znamenke se množe naizmjenično brojevima 2 i 1. Zbroj pojedinačnih umnožaka (ako je rezultat pojedinačnog umnoška dvoznamenkasti broj, znamenke se zbrajaju) dijeli se brojem 10, pri čemu se dijeljenje ograničava samo na cijele brojeve. Ostatak dobiven pri dijeljenju oduzima se od broja 10. Dobiveni rezultat predstavlja kontrolni broj;
+- u modelu 62, 63 i 64 podatak P2 izračunan je po međunarodnoj metodi ISO 7064 uz primjenu modula 11, 10.
+- u modelu 66 podatak P2 ima dvanaest znamenaka od kojih je prvih osam znamenaka matični broj poslovnog subjekta. Osma znamenka je kontrolni broj prethodnih sedam.
+Prilog 5
+FORMAT ZA »MN IZVADAK«
+»MN IZVADAK« na magnetnom nositelju obvezno sadrži ove vrste slogova:
+- Tip sloga »0« koji sadrži - SLOG PAKETA - »LABELU«
+- Tip sloga »3« koji sadrži - VODEĆI SLOG GRUPE PODATAKA
+- Tip sloga »5« koji sadrži - SLOG POJEDINAČNE TRANSAKCIJE
+- Tip sloga »7« koji sadrži - ZAKLJUČNI SLOG GRUPE PODATAKA
+- Tip sloga »9« koji sadrži - ZAKLJUČNI SLOG PAKETA
+1. SLOG PAKETA (LABELA) - TIP SLOGA = 0
+Opisuje paket i pojavljuje se jednom na početku magnetnog nositelja podataka.
+SADRŽAJ SLOGA ZA TIP SLOGA »0«
+Red.
+Naziv
+Opis
+Broj
+Broj
+broj
+polja
+polja
+F
+od
+do
+mjesta
+bytes
+01.
+IZ0BRZAP
+Operativni broj
+N
+1
+5
+5
+5
+02.
+IZ0TKS
+Tip kodne stranice
+C
+6
+6
+1
+1
+03.
+IZ0VDP
+Vrsta digitalnog potpisa
+C
+7
+7
+1
+1
+04.
+IZ0DATUM
+Datum obrade (DDMMYY)
+N
+8
+13
+6
+6
+05.
+IZ0MPRIM
+Identifikacijski broj korisnika primatelja
+MN-izvatka
+N
+14
+20
+7
+7
+06.
+IZ0VRIZ
+Vrsta izvatka = 250
+N
+21
+23
+3
+3
+08.
+IZ0REZ1
+Rezerva
+C
+23
+191
+168
+168
+07.
+IZ0D2000
+Prošireni datum (DDMMGGGG)
+N
+192
+199
+8
+8
+08.
+IZ0REZ2
+Rezerva
+C
+200
+249
+50
+50
+09.
+IZ0TIPSL
+Tip sloga
+N
+250
+250
+1
+1
+2. VODEĆI SLOG GRUPE PODATAKA - TIP SLOGA = 3
+Javlja se najmanje jedan put u jednom paketu.
+Podaci koji određuju grupu su: identifikator imatelja računa - račun za koji se formira izvadak, datum izvršenog plaćanja (obrade) i broj izvatka.
+Vodeći slog grupe podataka, zajedno sa slogovima pojedinačnih transakcija (naloga) i zaključnim slogom grupe podataka čine »logičku cjelinu«, tj. Izvadak na magnetnom nositelju podataka.
+Kontrola ispravnosti prijenosa odnosno prijema na razini paketa za cijelu grupu obavlja se preko podatka »redni broj grupe u paketu« (polje »IZ3BRGRU«). Za svaku sljedeću »grupu« ovaj podatak se mijenja s inkrementom »1«. Ako dođe do razlike, dio paketa od zadnjeg ispravno zaključenog sloga grupe, ne prihvaća se kao ispravan.
+SADRŽAJ SLOGA ZA TIP SLOGA »3«
+Red.
+Naziv
+Opis
+Broj
+Broj
+broj
+polja
+polja
+F
+od
+do
+mjesta
+bytes
+01.
+IZ3RNPRI
+Račun korisnika »MN IZVATKA«
+C
+1
+18
+18
+18
+02.
+IZ3NAPRI
+Naziv korisnika »MN IZVATKA«
+C
+19
+53
+35
+35
+03.
+IZ3RBIZV
+Redni broj Izvatka
+N
+54
+56
+3
+3
+04.
+IZ3DATUM
+Datum izvatka (DDMMYY)
+N
+57
+62
+6
+6
+05.
+IZ3PRETI
+Broj pretinca
+N
+63
+67
+5
+5
+06.
+IZ3BRGRU
+Redni broj grupe na magnetnom nositelju
+N
+68
+71
+4
+4
+07.
+IZ3NAZAP
+Naziv
+C
+72
+106
+35
+35
+08.
+IZ3PRESJ
+Broj dnevnog presjeka
+N
+107
+109
+3
+3
+09.
+IZ3TKS
+Tip kodne stranice
+C
+110
+110
+1
+1
+10.
+IZ3VDP
+Vrsta digitalnog potpisa
+C
+111
+111
+1
+1
+11.
+IZ3VRIZ
+Vrsta izvatka = 250
+N
+112
+114
+3
+3
+12.
+IZ3VBDI
+Vodeći broj banke
+N
+115
+121
+7
+7
+13.
+IZ3KONSTR
+Oznaka konstrukcije računa
+C
+122
+122
+1
+1
+14.
+IZ3REZ1
+Rezerva
+C
+123
+191
+69
+69
+15.
+IZ3D2000
+Prošireni datum (DDMMGGGG)
+N
+192
+199
+8
+8
+16.
+IZ3REZ2
+Rezerva
+C
+200
+249
+50
+50
+17.
+IZ3TIPSL
+Tip sloga
+N
+250
+250
+1
+1
+3. SLOG POJEDINAČNE TRANSAKCIJE - TIP SLOGA = 5
+Pojedinačnom (izvršenom) transakcijom označava se svaki prijenos novčanih sredstava (izvršenjem naloga za plaćanje) »na teret«, odnosno »u korist« računa proračuna.
+Red.
+Naziv
+Opis
+Broj
+Broj
+broj
+polja
+polja
+F
+od
+do
+mjesta
+bytes
+01.
+IZ5OZTRA
+Oznaka transakcije
+N
+1
+2
+2
+2
+02.
+IZ5RNPVD
+Račun vjerovnika - dužnika
+C
+3
+20
+18
+18
+03.
+IZ5NAZVD
+Naziv vjerovnika - dužnika
+C
+21
+55
+35
+35
+04.
+IZ5MJEVD
+Mjesto vjerovnika - dužnika
+C
+56
+65
+10
+10
+05.
+IZ5IZNOS
+Iznos
+N
+66
+78
+13
+13
+06.
+IZ5PNBZA
+Poziv na broj zaduženja
+C
+79
+102
+24
+24
+08.
+IZ5PNBOD
+Poziv na broj odobrenja
+C
+103
+126
+24
+24
+09.
+IZ5VEZOZ
+Vezna oznaka
+N
+127
+128
+2
+2
+10.
+IZ5SVDOZ
+Opis svrhe doznake
+C
+129
+164
+36
+36
+11.
+IZ5KONSTR
+Oznaka konstrukcije računa
+C
+165
+165
+1
+1
+12.
+IZ5REKLA
+Broj za reklamaciju
+C
+166
+197
+32
+32
+13.
+IZ5VBDI
+Vodeći broj banke vjerovnika/dužnika
+N
+198
+204
+7
+7
+14.
+IZ5VRPRIH
+Vrsta prihvata
+N
+205
+207
+3
+3
+15.
+IZ5IZVDOK
+Izvor dokumenta
+N
+208
+210
+3
+3
+16.
+IZ5DATVAL
+Datum valute (DDMMGGGG)
+N
+211
+218
+8
+8
+17.
+IZ5REZ2
+Rezerva
+N
+219
+249
+31
+31
+18.
+IZ5TIPSL
+Tip sloga
+N
+250
+250
+1
+1
+Polje »IZ5OZTRA« može imati podatak »10« i »20« . Izvršenje naloga »NA TERET« računa korisnika »MN IZVATKA« (DUGUJE) označeno je u slogu pojedinačne transakcije oznakom transakcije »10«. Tada se u polju »IZ5RNPVD« nalazi RAČUN VJEROVNIKA.
+Izvršenje naloga »U KORIST« računa korisnika »MN-IZVATKA« (POTRAŽUJE) označeno je u slogu pojedinačne transakcije oznakom transakcije »20«. Tada se u polju »IZ5RNPVD« nalazi RAČUN DUŽNIKA.
+4. ZAKLJUČNI SLOG GRUPE PODATAKA - TIP SLOGA = 7
+Slijedi pojedinačne slogove (stavke) unutar grupe podataka. Koristi se za potvrdu pripadnosti pojedinačnih slogova (stavaka), određenoj grupi podataka, te za kontrolu potpunosti prijenosa podataka iz grupe.
+U sebi nosi kumulativne podatke za izvršene pojedinačne transakcije. Kumulira se podatak »iznos«iz pojedinačnih slogova (stavaka), prema oznaci vrste transakcije.
+Kontrola ispravnosti prijenosa odnosno prijema na razini paketa za cijelu grupu obavlja se preko podatka (»redni broj grupe u paketu« polje »IZ7BRGRU«). Za svaku sljedeću »grupu« ovaj podatak se mijenja s inkrementom »1«. Ako dođe do veće razlike, dio paketa od zadnjeg ispravnog zaključnog sloga grupe ne prihvaća se kao ispravan.
+SADRŽAJ SLOGA ZA TIP SLOGA »7«
+Red.
+Naziv
+Opis
+Broj
+Broj
+broj
+polja
+polja
+F
+od
+do
+mjesta
+bytes
+01.
+IZ5OZTRA
+Oznaka transakcije
+N
+1
+2
+2
+2
+01.
+IZ7RNPRI
+Račun korisnika »MN IZVATKA«
+C
+1
+18
+18
+18
+02.
+IZ7NAPRI
+Naziv korisnika »MN IZVATKA«
+C
+19
+53
+35
+35
+03.
+IZ7RBIZV
+Redni broj Izvatka
+N
+54
+56
+3
+3
+04.
+IZ7DATUM
+Datum izvatka (DDMMYY)
+N
+57
+62
+6
+6
+05.
+IZ7PRSAL
+Prethodni saldo
+N
+63
+77
+15
+15
+ss=T-98-2 align=left style='margin-bottom:3.2pt;text-align:left; text-indent:0cm;tab-stops:36.0pt 107.65pt'>06.
+IZ7KDUGU
+Ukupni dnevni dugovni promet
+N
+78
+92
+15
+15
+07.
+IZ7KPOTR
+Ukupni dnevni potražni promet
+N
+93
+107
+15
+15
+08.
+IZ7KOSAL
+Novi saldo
+N
+108
+122
+15
+15
+09.
+IZ7BRGRU
+Redni broj grupe na magnetnom nositelju
+N
+123
+126
+4
+4
+10.
+IZ7BRSTA
+Broj stavaka u grupi
+N
+127
+132
+6
+6
+11.
+IZ7NAZAP
+Naziv FINE
+C
+133
+167
+35
+| :14.1pt'>
+35
+12.
+IZ7PRESJ
+Broj dnevnog presjeka
+N
+168
+170
+3
+3
+13.
+IZ7PPPOS
+Predznak početnog stanja
+C
+171
+171
+1
+1
+14.
+IZ7PRNOS
+Predznak novog stanja
+C
+172
+172
+1
+1
+15.
+IZ7RAZSD
+Razlika na dugovnoj stavci
+C
+173
+173
+1
+1
+16.
+IZ7RAZSP
+Razlika na potražnoj stavci
+C
+174
+174
+1
+1
+18.
+IZ7REZ1
+Rezerva
+C
+175
+191
+17
+17
+19.
+IZ7D2000
+Prošireni datum (DDMMGGGG)
+N
+192
+199
+8
+8
+20.
+IZ7VBDI
+Vodeći broj banke
+N
+200
+206
+7
+7
+21.
+IZ7KONSTR
+Oznaka konstrukcije računa
+C
+207
+207
+1
+1
+22.
+IZ7REZ2
+Rezerva
+C
+208
+249
+42
+42
+23.
+IZ7TIPSL
+Tip sloga
+N
+250
+250
+1
+1
+5. ZAKLJUČNI OZNAKA PAKETA - TIP SLOGA = 9
+Određuje kraj formata (PAKETA) i javlja se jednom na kraju magnetnog nositelja podataka.
+SADRŽAJ OZNAKA ZA TIP SLOGA »9«
+Red.
+Naziv
+Opis
+Broj
+Broj
+broj
+polja
+polja
+F
+od
+do
+mjesta
+bytes
+01.
+IZ9BRZAP
+Operativni broj
+N
+1
+5
+5
+5
+02.
+IZ9REZ1
+Rezerva
+C
+6
+7
+2
+2
+03.
+IZ9DATUM
+Datum obrade (DDMMYY)
+N
+8
+13
+6
+6
+04.
+IZ9MPRIM
+Identifikacijski broj
+N
+14
+20
+7
+7
+05.
+IZ9UKGRU
+Ukupan broj grupa/paket
+N
+21
+25
+5
+5
+06.
+IZ9UKSLG
+Ukupan broj slog/paket
+N
+26
+31
+6
+6
+07.
+IZ9REZ2
+Rezerva
+C
+32
+191
+160
+160
+08.
+IZ9D2000
+Prošireni datum (DDMMGGGG)
+N
+192
+199
+8
+8
+09.
+IZ9REZ3
+Rezerva
+C
+200
+249
+50
+50
+10.
+IZ9TIPSL
+Tip sloga
+N
+250
+250
+1
+1
+6. ZAKLJUČNI SLOG DATOTEKE - TIP SLOGA = P
+Nakon zaključnog sloga tipa »9« nalazi se slog tipa P. Iza toga sloga je MS-DOS EOF.
+SADRŽAJ OZNAKA ZA TIP SLOGA »P«
+Red.
+broj
+Naziv
+polja
+Opis
+polja
+Mandat ory/Opt ional
+F
+od
+do
+Broj
+mjesta
+Broj
+bytes
+1.
+IZPREZ
+Rezervirana mjesta
+O
+C
+1
+349
+349
+349
+2.
+IZPTIPSL
+Tip posla (oznaka P)
+M
+C
+350
+350
+1
+1
