@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o uvjetima za dolazak i boravak stranih jahti namijenjenih športu i razonodi u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske (»Narodne novine«, br. 16/2001 i 118/2001) u članku 7. stavku 1. riječi: »Ministarstva pomorstva, prometa i veza« zamjenjuju se riječima: »Ministarstva mora, turizma, prometa i razvitka«.
+U stavku 4. riječi »Vijeće za dodjelu koncesijskih odobrenja Ministarstva pomorstva, prometa i veza«, zamjenjuju se riječima: »Vijeće za dodjelu Odobrenja za iznajmljivanje jahti i brodica pod stranom zastavom (charter licenca) Ministarstva mora, turizma, prometa i razvitka koje imenuje ministar nadležan za poslove mora.«
