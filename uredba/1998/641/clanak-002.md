@@ -1,0 +1,2 @@
+# Članak 2.
+Kada stranka ili druga osoba koja ima pravni interes zatraži da se utvrdi da je akt konvalidiran, upravno tijelo će bez odlaganja o tome obavijestiti svaku drugu osobu za koju ocijeni da može imati pravni interes u ovoj upravnoj stvari, te Državno odvjetništvo Republike Hrvatske i Državno pravobraniteljstvo Republike Hrvatske, s pozivom da u roku od 8 dana istaknu eventualne prigovore zbog kojih se ne bi mogla utvrditi valjanost konvalidacije akta u skladu s odredbama Zakona o konvalidaciji i odredbom članka 1. ove Uredbe.
