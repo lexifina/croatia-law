@@ -1,0 +1,353 @@
+Prilog 1
+Popis raČuna za redovno poslovanje proraČuna Županija
+i gradova/opĆina po Županijama
+Naziv
+županije/grada/općine
+Broj računa
+Oznaka
+grada/općine
+Mjerodavna ispostava
+Porezne uprave
+IV. KARLOVAČKA ŽUPANIJA (sjedište u Karlovcu)
+KAMANJE
+2400008
+-
+1862300007
+623
+OZALJ
+V. VARAŽDINSKA ŽUPANIJA (sjedište u Varaždinu)
+VARAŽDINSKA ŽUPANIJA
+2360000
+-
+1800005007
+472
+BEDNJA
+2360000
+-
+1801200007
+012
+IVANEC
+BERETINEC
+2360000
+-
+1801900004
+019
+VARAŽDIN
+BREZNICA
+2360000
+-
+1803600005
+036
+NOVI MAROF
+BREZNIČKI HUM
+2360000
+-
+1815100009
+151
+NOVI MAROF
+DONJA VOĆA
+2360000
+-
+1808000000
+080
+IVANEC
+GORNJI KNEGINEC
+2360000
+-
+1812900001
+129
+VARAŽDIN
+IVANEC
+2360000
+-
+1815600004
+156
+IVANEC
+JALŽABET
+2360000
+-
+1816500005
+165
+VARAŽDIN
+KLENOVNIK
+2360000
+-
+1818900002
+189
+IVANEC
+LEPOGLAVA
+2360000
+-
+1822900007
+229
+IVANEC
+LJUBEŠĆICA
+2360000
+-
+1824700008
+247
+NOVI MAROF
+LUDBREG
+2360000
+-
+1824400005
+244
+LUDBREG
+MARUŠEVEC
+2360000
+-
+1826000005
+260
+IVANEC
+NOVI MAROF
+2360000
+-
+1828900008
+289
+NOVI MAROF
+PETRIJANEC
+2360000
+-
+1832600007
+326
+VARAŽDIN
+SRAČINEC
+2360000
+-
+1841000003
+410
+VARAŽDIN
+SVETI ĐURĐ
+2360000
+-
+1843700004
+437
+LUDBREG
+SVETI ILIJA
+2360000
+-
+1843800005
+438
+VARAŽDIN
+TRNOVEC BARTOLOVEČKI
+2360000
+-
+1846200006
+462
+VARAŽDIN
+VARAŽDIN
+2360000
+-
+1847200008
+472
+VARAŽDIN
+VARAŽDINSKE TOPLICE
+2360000
+-
+1847300009
+473
+NOVI MAROF
+VELIKI BUKOVEC
+2360000
+-
+1855800004
+558
+LUDBREG
+VIDOVEC
+2360000
+-
+1848400002
+484
+VARAŽDIN
+VINICA
+2360000
+-
+1848600004
+486
+VARAŽDIN
+VISOKO
+2360000
+-
+1849300003
+493
+NOVI MAROF
+XIX. DUBROVAČKO - NERETVANSKA ŽUPANIJA (sjedište u Dubrovniku)
+ŽUPA DUBROVAČKA
+2340009
+-
+1860200001
+602
+DUBROVNIK
+Prilog 2
+PREGLED BROJČANIH OZNAKA VRSTE PRIHODA I DOPUŠTENIH MODELA
+(za vlastite prihode državnog, županijskih i gradskih/općinskih proračuna)
+Broj. oznaka
+vrste prihoda
+Modeli
+A. Vlastiti prihodi državnog proračuna
+21
+22
+23
+24
+26
+27
+28
+29
+60
+61
+62
+63
+64
+66
+5533
+21
+22
+-
+-
+26
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5622
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7188
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+64
+-
+7285
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+64
+-
+B. Vlastiti prihodi županijskih proračuna
+7471
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7480
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+C. Prihodi gradskih i općinskih proračuna
+5843
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7749
+21
+22
+-
+-
+26
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7935
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7943
+21
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
