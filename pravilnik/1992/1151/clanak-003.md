@@ -1,0 +1,2 @@
+# Članak 3.
+Dezinfekcijom se smatra primjena mehaničkih, fizikalnih ili kemijskih metoda i sredstava za uništavanje uzročnika zaraznih bolesti. Dezinsekcijom se smatra primjena fizikalnih ili kemijskih metoda i sredstava za uništavanje insekata odnosno člankonožaca koji mogu prenijeti uzročnike zaraznih bolesti. Deratizacijom se smatra primjena bioloških, mehaničkih ili kemijskih metoda i sredstava za uništavanje glodavaca koji prenose uzročnike zaraznih bolesti, ili su rezervoari uzročnika zaraznih bolesti.
