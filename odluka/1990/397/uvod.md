@@ -1,0 +1,1 @@
+Na temelju amandmana XXI na Ustav Socijalističke Republike Hrvatske i člana 79. Zakona o stambenim odnosima, Sabor Socijalističke Republike Hrvatske na sjednici Vijeća udruženog rada 25. travnja 1990, Vijeća općina 25. travnja 1990. i na sjednici Društveno-političkog vijeća 25. travnja 1990, donio je
