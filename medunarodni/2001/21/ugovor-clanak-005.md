@@ -1,0 +1,11 @@
+# Članak 5.
+IZUZEĆA
+1. Zrakoplovi koje na međunarodnim linijama upotrebljavaju zrakoplovni prijevoznici imenovani od strane bilo koje od Ugovornih stranaka, njihova redovita oprema, zalihe goriva i maziva i opće zalihe u takvom zrakoplovu (uključujući hranu, piće i duhan) bit će izuzeti svih carinskih davanja te sličnih pristojbi ili taksa po dolasku na teritorij druge Ugovorne stranke, pod uvjetom da takva oprema i zalihe ostanu u zrakoplovu do trenutka kada se ponovno izvezu.
+2. Izuzeti od istih davanja i taksi, osim kada su u pitanju naknade za pružene usluge, bit će:
+a) zalihe zrakoplova koje se ukrcavaju na teritoriju bilo koje od Ugovornih stranaka, u granicama koje utvrdi Vlast navedene Ugovorne stranke, namijenjene korištenju u zrakoplovu koji leti na međunarodnoj zračnoj liniji druge Ugovorne stranke;
+b) rezervni dijelovi unijeti na teritorij bilo koje od Ugovornih stranaka za održavanje i popravak zrakoplova koje imenovani zrakoplovni prijevoznik koristi na međunarodnoj zračnoj liniji druge Ugovorne stranke, i
+c) gorivo i mazivo namijenjeno opskrbi zrakoplova koje imenovani zrakoplovni prijevoznici druge Ugovorne stranke koriste u međunarodnom zračnom prometu čak i kada se ono koristi na dijelu puta iznad teritorija Ugovorne stranke u kojoj su ukrcani,
+d) tiskani svežnjevi karata, tovarni listovi te bilo koji tiskani materijal koji nosi na sebi znak tvrtke te uobičajeni reklamni materijal koje imenovani zrakoplovni prijevoznici dijele bez naknade.
+Od stavaka koje se spominju pod gore navedenim slovima a), b), c) i d) može se zahtijevati da budu stavljene pod carinski nadzor ili kontrolu.
+3. Redovita zrakoplovna oprema, kao i materijali i zalihe u zrakoplovima bilo koje od Ugovornih stranaka može se iskrcati na teritoriju druge Ugovorne stranke jedino uz odobrenje carinskih organa na tom teritoriju. U tom slučaju mogu se staviti pod nadzor gore navedenih organa sve dok se ne izvezu, ili se njome može raspolagati na neki drugi način u skladu sa carinskim propisima.
+4. Osim ukoliko se ne zahtijeva drugačije u sigurnosne svrhe, putnici u tranzitu kroz teritorij bilo koje Ugovorne stranke bit će podložni tek skraćenoj kontroli. Prtljaga i roba u direktnom tranzitu bit će izuzeti od carinskih davanja te ostalih sličnih taksi koje se ubiru na uvoz.

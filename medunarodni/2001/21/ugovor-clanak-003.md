@@ -1,0 +1,7 @@
+# Članak 3.
+IMENOVANJE ZRAČNIH PRIJEVOZNIKA
+1. Svaka Ugovorna stranka će imati pravo imenovati pismenim putem jednog ili više zračnih prijevoznika u svrhu obnašanja dogovorenih zračnih usluga na utvrđenim pravcima te zamijeniti ranije imenovanog nekim drugim.
+2. Po primitku takvog imenovanja, druga Ugovorna stranka će, prema odredbama stavaka 3. i 4. ovog članka, bez odgađanja dati imenovanim zračnim prijevoznicima odgovarajuće dozvole za obnašanje linije.
+3. Zrakoplovna vlast jedne Ugovorne stranke može zahtijevati od zračnog prijevoznika kojega je imenovala druga Ugovorna stranka da ju uvjeri kako je sposoban udovoljiti uvjetima propisanim zakonima i propisima koji se obično i razumno primjenjuju na letenje u međunarodnom zračnom prometu od strane tih Vlasti i u skladu s odredbama Konvencije.
+4. Svaka Ugovorna stranka ima pravo odbiti dodjelu dozvole obnašanja zrakoplovne linije koja se spominje u stavku 2. ovog članka ili nametnuti takve uvjete koji joj se čine neophodnim za izvršenje od strane imenovanog zračnog prijevoznika, prava utvrđenih u članku 2. ovog Sporazuma kada rečena Ugovorna stranka nije uvjerena da se pretežno vlasništvo i stvarna kontrola tog zrakoplovnog prijevoznika nalaze u rukama Ugovorne stranke koja je imenovala zrakoplovnog prijevoznika ili njenih državljana.
+5. Kada je zrakoplovni prijevoznik na gore navedeni način imenovan i ovlašten, on može u bilo koje doba započeti obnašanjem dogovorene linije, pod uvjetom da je u odnosu na tu liniju na snazi tarifa utvrđena u skladu s odredbama članka 7. ovog Sporazuma.

@@ -1,0 +1,6 @@
+# Članak 13.
+PRIJENOS VIŠKA PRIHODA
+1. Na temelju reciprociteta i nediskriminacije u odnosu na bilo kojeg drugog zrakoplovnog prijevoznika koji leti međunarodni promet, zrakoplovni prijevoznici imenovani od Ugovornih stranaka bit će slobodni prodavati usluge u zrakoplovnom prometu na teritorijima obje Ugovorne stranke bilo direktno ili putem zastupnika i u bilo kojoj valuti sukladno prema zakonima koji su na snazi u svakoj Ugovornoj stranci.
+2. Zrakoplovni prijevoznici svake Ugovorne stranke bit će slobodni prenijeti sa teritorija prodaje na svoj vlastiti teritorij višak, na teritoriju prodaje, prihoda u odnosu na rashod. Uključeni u takav čisti transfer bit će prihod od prodaje, stečen direktno ili putem zastupnika, usluga zrakoplovnog prometa, te od pomoćnih ili dodatnih usluga te uobičajenih komercijalnih kamata stečenih na takvim prihodima dok pohranjeni čekaju prijenos.
+3. Takve doznake će se moći poslati bez obzira na bilo kakvu pravnu obvezu koja je na snazi na teritoriju bilo koje Ugovorne stranke.
+4. Zrakoplovnim prijevoznicima koje imenuju Ugovorne stranke će biti dodijeljene odgovarajuće ovlasti kako bi se takve doznake poslale pravovremeno u konvertibilnoj valuti po službenom tečajnom kursu koji je na snazi u vrijeme dostavljanja zahtjeva.
