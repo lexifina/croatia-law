@@ -1,0 +1,4 @@
+# Članak 96.
+(1) Pravne osobe koje su na temelju odredbi Zakona o zaštiti okoliša (»Narodne novine«, br. 82/94. i 128/99.) i Uredbe o uvjetima za izdavanje suglasnosti za obavljanje stručnih poslova zaštite okoliša (»Narodne novine«, br. 7/97.) dobile suglasnost za obavljanje stručnih poslova praćenja stanja okoliša i emisija u zrak, dužne su u roku od godinu dana od dana početka primjene ovoga Zakona Ministarstvu podnijeti zahtjev za izdavanje dozvole za obavljanje poslova praćenja kakvoće zraka i emisija u zrak prema odredbama ovoga Zakona.
+(2) Pravnim osobama iz stavka 1. ovoga članka, ako u roku iz stavka 1. ovoga članka ne podnesu zahtjev, prestaje pravo na obavljanje stručnih poslova praćenja stanja okoliša i emisija u zrak.
+(3) Pravna osoba iz članka 53. stavka 1. ovoga Zakona dužna je zahtjev za izdavanje suglasnosti podnijeti Ministarstvu u roku od godinu dana od dana početka primjene ovoga Zakona.

@@ -1,0 +1,6 @@
+# Članak 40.
+(1) Postupno smanjivanje potrošnje tvari koje oštećuju ozonski sloj, postupanje s tim tvarima, postupanje s proizvodima koji sadrže te tvari ili su pomoću tih tvari proizvedeni, postupanje s tim tvarima nakon prestanka uporabe proizvoda koji ih sadrži, način prikupljanja, oporabe i trajnog zbrinjavanja tih tvari, način obračuna troškova oporabe tih tvari i način označivanja proizvoda koji sadrže ove tvari propisuje Vlada.
+(2) Propisom iz stavka 1. ovoga članka određuju se uvjeti koje moraju udovoljavati pravne i fizičke osobe koje obavljaju djelatnost održavanja i/ili popravka te isključivanja iz uporabe proizvoda koji sadrže tvari koje oštećuju ozonski sloj.
+(3) Pravna i fizička osoba koja obavlja djelatnost održavanja i/ili popravka te isključivanja iz uporabe proizvoda iz stavka 2. ovoga članka mora osigurati obuku uposlenih radnika prema programu stručnog usavršavanja koji propisuje ministar u suradnji s ministrom nadležnim za obrazovanje.
+(4) Dozvolu za obavljanje djelatnosti održavanja i/ili popravka te isključivanja iz uporabe proizvoda iz stavka 2. ovoga članka izdaje Ministarstvo.
+(5) Protiv upravnog akta iz stavka 4. ovoga članka nije dopuštena žalba ali se može pokrenuti upravni spor.

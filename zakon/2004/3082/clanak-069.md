@@ -1,0 +1,3 @@
+# Članak 69.
+(1) Nadzirana pravna i fizička osoba dužna je inspektoru omogućiti provedbu inspekcijskog nadzora, dati na uvid svu potrebnu dokumentaciju te na pisano traženje inspektora dostaviti ili pripremiti bez naplate dodatne podatke potrebne za obavljanje inspekcijskog nadzora.
+(2) Smatra se da nadzirana pravna ili fizička osoba nije omogućila obavljanje inspekcijskog nadzora, ako inspektoru nije dopustila ući u građevine i druge poslovne prostore, odnosno ako mu u roku određenom u zapisniku, ne osigura uvid u traženu dokumentaciju i druge isprave potrebne za utvrđivanje činjeničnog stanja.

@@ -1,0 +1,2 @@
+# Članak 58.
+Podaci iz informacijskog sustava o kakvoći zraka koriste se za razmjenu informacija o postajama u mreži za praćenje kakvoće zraka i tehnikama mjerenja, podataka dobivenih praćenjem kakvoće zraka u državnoj mreži i lokalnim mrežama, te podataka o emisijama iz izvora onečišćivanja zraka za potrebe izvješćivanja prema međunarodnim ugovorima i drugim međunarodnim obvezama, na način koji pravilnikom propisuje ministar.

@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Učinkovitost zaštite i poboljšanja kakvoće zraka osiguravaju Hrvatski sabor (u daljnjem tekstu: Sabor) i Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) te predstavnička i izvršna tijela jedinice lokalne i područne (regionalne) samouprave unutar svoje i ovim Zakonom određene nadležnosti.
+(2) Upravne i stručne poslove zaštite i poboljšanja kakvoće zraka te provedbu mjera zaštite i poboljšanja kakvoće zraka provode i osiguravaju središnja tijela državne uprave, uredi državne uprave u županijama, tijela jedinica lokalne i područne (regionalne) samouprave nadležne za obavljanje poslova zaštite okoliša te druge pravne osobe koje imaju javne ovlasti.
+(3) Praćenje kakvoće zraka i praćenje emisija u zrak obavljaju pravne osobe registrirane za ovu djelatnost.
+(4) Građani, ili kao pojedinci ili organizirani radi zaštite zraka u strukovne udruge i udruge za zaštitu zraka, pridonose ostvarivanju ciljeva zaštite i poboljšanja kakvoće zraka i provedbu učinkovite zaštite i poboljšanja kakvoće zraka.

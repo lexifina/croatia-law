@@ -1,0 +1,2 @@
+# Članak 98.
+Do donošenja propisa iz članka 97. ovoga Zakona primjenjivat će se Uredba o graničnim vrijednostima emisije onečišćujućih tvari u zrak iz stacionarnih izvora (»Narodne novine«, br. 140/97., 105/02., 108/03. i 100/04.), Uredba o preporučenim i graničnim vrijednostima kakvoće zraka (»Narodne novine«, br. 101/96. i 2/97.), Uredba o određivanju lokacija postaja u državnoj mreži za trajno praćenje kakvoće zraka (»Narodne novine«, br. 4/02.) i Program mjerenja kakvoće zraka u državnoj mreži za trajno praćenje kakvoće zraka (»Narodne novine«, br. 43/02.).

@@ -1,0 +1,2 @@
+# Članak 65.
+Inspekcijski nadzor koji se odnosi na provedbu ovoga Zakona i propisa donesenih na temelju njega kojima se propisuju granične vrijednosti u vezi sa sastavom proizvoda i/ili drugih značajki kakvoće proizvoda, način utvrđivanja kakvoće proizvoda, stavljanje proizvoda u promet na domaćem tržištu, te način dokazivanja sukladnosti provodi gospodarski inspektor Državnog inspektorata na način propisan posebnim zakonom.
