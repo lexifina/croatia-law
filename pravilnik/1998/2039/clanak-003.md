@@ -1,0 +1,3 @@
+# Članak 3.
+U Popisu pod rednim brojem 468., šifra pomagala BTTGO 4E naziv pomagala: "Četverokanalni kasetofon za slijepe" u stupcu 10. "Rok uporabe pomagala prema dobi osigurane osobe (članak 15. Pravilnika)" sve brojke: "5" zamjenjuju se brojkama: "7", a u stupcu 12. "Jedinična vrijednost pomagala izražena u kunama s uračunanim PDV-om" i stupcu 13. "Ukupna vrijednost pomagala izražena u kunama s uračunanim PDV-om", umjesto brojke: "3.129,50 upisuje se brojka: 2.600,00".
+U Popisu pod rednim brojem 469., šifra pomagala BTTGO 5C u stupcu 2. "Naziv pomagala, materijala, rezervnih dijelova, potrošnih materijala i popravka pomagala "na kraju teksta iza riječi: "osobu" dodaju se riječi: "elektroničko pomagalo za pisanje namijenjeno slijepim osobama".

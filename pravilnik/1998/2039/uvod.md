@@ -1,0 +1,1 @@
+Na osnovi članka 16. i 17. a u svezi članka 104. Zakona o zdravstvenom osiguranju ("Narodne novine" broj 1/97 - pročišćeni tekst, 109/97, 13/98, 88/98 i 150/98) i članka 14. točke 10. Statuta Hrvatskog zavoda za zdravstveno osiguranje ("Narodne novine" 1/94), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 7. sjednici, održanoj 22. prosinca 1998. godine, donijelo je
