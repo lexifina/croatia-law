@@ -1,0 +1,3 @@
+# Članak 3.
+Osnovna škola obvezna je tijekom nastavne godine ostvariti broj radnih dana potreban za provedbu broja nastavnih sati po nastavnim predmetima, utvrđen propisanim nastavnim planom i programom i to najmanje 175 radnih dana u petodnevnom radnom tjednu, odnosno 210 radnih dana u šestodnevnom radnom tjednu.
+Ako škola ne ostvari propisani nastavni plan i program i broj radnih dana propisan stavkom prvim ovoga članka, nastavna godina se može produljiti i nakon 16. odnosno 17. lipnja 2000. godine odlukom županijskoga ureda odnosno gradskog ureda Grada Zagreba nadležnog za školstvo, uz prethodnu suglasnost Ministarstva prosvjete i športa.
