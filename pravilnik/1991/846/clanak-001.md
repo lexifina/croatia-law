@@ -1,0 +1,3 @@
+## o izmjeni Pravilnika o načinu isplaćivanja novčanih primanja i vođenju evidencije prema akonu o posebnoj novčanoj naknadi borcima narodnooslobodilačkog rata i predratnim revolucionarima
+# Članak 1.
+U Pravilniku o načinu isplaćivanja novčanih primanja i vođenju evidencije prema Zakonu o posebnoj novčanoj naknadi borcima narodnooslobodilačkog rata i predratnim revolucionarima ("Narodne novine", broj 54/88) član 2. mijenja se i glasi: "Novčana primanja i druge troškove iz člana 1. ovoga pravilnika isplaćuje općinski organ uprave nadležan za poslove boraca i vojnih invalida (u daljem tekstu: isplatni organ) na teret sredstava proračuna Republike Hrvatske - sredstva za posebnu novčanu naknadu, preko odgovarajućeg prolaznog računa općine."
