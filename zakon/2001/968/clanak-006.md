@@ -1,0 +1,9 @@
+# Članak 6.
+Članak 18. mijenja se i glasi:
+»(1) Upravni nadzor nad radom kaznionica, zatvora i Centra za izobrazbu i provedbom ovoga Zakona obavlja Središnji ured Uprave za zatvorski sustav u skladu s propisima.
+(2) U provedbi upravnog nadzora nadzire se osobito zakonitost rada i postupanja, zakonitost akata iz nadležnosti upravitelja, svrhovitost unutarnjeg ustroja kaznionica, zavoda i Centra za izobrazbu, osposobljenost državnih službenika i namještenika, djelotvornost, ekonomičnost i svrhovitost rada u obavljanju poslova iz djelokruga kaznionica, zatvora i Centra za izobrazbu.
+(3) Središnji ured Uprave za zatvorski sustav osim ovlasti iz općeg propisa u svezi s obavljanjem nadzora, ovlašten je poništiti ili ukinuti svaki nepravilan ili nezakonit opći ili pojedinačni akt upravitelja, ili sam donijeti akt, odnosno odluku koju upravitelj nije donio.
+(4) Inspekcijski nadzor nad radom kaznionica, zatvora i Centra za izobrazbu obavljaju ovlaštene službene osobe Središnjeg ureda Uprave za zatvorski sustav. U provedbi inspekcijskog nadzora provodi se izravan uvid u opće i pojedinačne akte, uvjete i način rada u kaznionicama, zatvorima i Centru za izobrazbu, te postupanje sa zatvorenicima. Ovlaštena službena osoba može tijekom inspekcijskog nadzora narediti otlkanjanje utvrđenih nezakonitosti, nedostataka ili nepravilnosti koje će upravitelj bez odgode izvršiti i izvijestiti nalogodavca.
+(5) Upravitelj će po saznanju i bez odgode pisanim putem izvijestiti Središnji ured Uprave za zatvorski sustav o svakom nezakonitom postupanju.
+(6) Ministar nadležan za poslove pravosuđa donosi Pravilnik o načinu provedbe inspekcijskog nadzora nad radom kaznionica, zatvora i Centra za izobrazbu.
+(7) Nadzor nad pružanjem zdravstvene zaštite zatvorenicima obavlja ministarstvo nadležno za poslove zdravstvene zaštite, a nad programima izobrazbe za kažnjenike i njihovom provedbom ministarstvo nadležno za poslove prosvjete.«
