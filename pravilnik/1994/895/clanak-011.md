@@ -1,0 +1,2 @@
+# Članak 11.
+lnspektor rada kojemu prestane radni odnos ili je razriješen dužnosti inspektora rada dužan je danom prestan ka radnoga odnosa odnosno danom razrješenja iskaznicu predati neposrednom rukovoditelju. Inspektoru rada će se privremeno oduzeti iskaznica ako je protiv njega otvorena istraga ili je podignuta cptužnica bez istrage ili je udaljen sa obavljanja poslovži inspektora rada, do okončanja postupka.

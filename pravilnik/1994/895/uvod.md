@@ -1,0 +1,1 @@
+Na temelju stavka 2. članka 25. Zakona o sustavu državne uprave ("Narodne novine", br. 75/93), a u svezi sa člankom 15. Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave ("Narodne novine" br. 55/92, 44/93, 94/93 i 117/93) ministar rada i socijalne skrbi donosi

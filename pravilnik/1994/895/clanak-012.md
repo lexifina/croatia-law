@@ -1,0 +1,2 @@
+# Članak 12.
+Iskaznice izdane po dosadašnjim propisima inspekturima rada preuzetim u županije i Grad Zagreb zamijenit će se u roku od e dana od dana imenovanja inspektora ržsda prema stavku 2. člankom 15. Zakona o izmjenama i o dopunama Zakona o inspekciji rada ("Narodne novirke"". br. 29/94), do kada su izdane iskaznice važeće. Iskaznice izdane po dosadašnjim propisima inspekto rima rada u Inspektoratu rada Ministarstva rada i socijalne skrbi vrijede do isteka vremena na koje je inspektor imenovan.
