@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 101/98, 15/2000 i 117/2001.) i članka 15. stavka 1. Uredbe o osnivanju Središnjeg registra osiguranika (»Narodne novine« broj 101/99), Vlada Republike Hrvatske je na sjednici održanoj 23. svibnja 2002. godine donijela
