@@ -1,0 +1,3 @@
+## Odsjek za sistemsko administriranje i pomoć korisnicima
+# Članak 14.
+Odsjek za sistemsko administriranje i pomoć korisnicima nadzire tekuće održavanje informatičke opreme, premješta postojeću opremu pri internoj preraspodjeli, surađuje sa servisom za održavanje informatičke opreme, kreira sistemske podatke potrebne za omogućavanje rada u mreži (korisnička imena, šifre, dozvole i sl.), održava operativni i mrežni sustav Ministarstva, obučava službenike i namještenike glede uvođenja novoinstalirane opreme i programa, brine se o antivirusnoj zaštiti informacijskog sustava, instalira operativne sustave i aplikativni softver na servere i radne stanice, provodi backup strategiju, brine se o administriranju korisničkih računa za pristup Internetu.

@@ -1,0 +1,3 @@
+## Odjeljak za knjigovodstvo
+# Članak 77.
+Odjeljak za knjigovodstvo obavlja knjiženje svih prispjelih dokumenta, kontiranje i knjiženje svih prihoda i rashoda, vodi knjigu kapitalne imovine, izrađuje analitički računski plan; prati knjigovodstvene propise, izrađuje mjesečna, tromjesečna, polugodišnja i godišnja izvješća, uključujući i konsolidirana izvješća; prati obveze i potraživanja; prati i usklađuje prihode s Odjeljkom riznice; prati realizaciju prihoda i rashoda ustanova i usklađuje iste s ustanovama; usklađuje glavnu knjigu s pomoćnim; vodi knjige kapitalne imovine, sitnog inventara i nabave; godišnji popis i obračun amortizacije.

@@ -1,0 +1,5 @@
+## Odsjek za podizanje kvalitete obiteljskog života
+# Članak 41.
+Odsjek za podizanje kvalitete obiteljskog života promiče obiteljske vrijednosti, promiče odgovorno roditeljstvo, analizira i predlaže povlastice za obitelj, prati i predlaže mjere za poboljšanje položaja jednoroditeljskih obitelji, proučava i istražuje suvremene probleme obitelji, potiče osnivanje i koordinira rad obiteljskih centara, savjetovališta i servisa za obitelj, potiče usklađivanje obiteljskog i profesionalnog života te obiteljskog poduzetništva putem međuresorne suradnje, potiče dostupnost kulturnih sadržaja obitelji, prati provedbu procjenjuje i evaluira programe i projekte udruga za obitelj, unaprjeđuje sustav zaštite od obiteljskog nasilja te potiče osnivanje obiteljskog fonda.
+Odsjek sustavno prati propise i isplatu doplatka za djecu te obavlja nadzor nad zakonitošću provedbe, sustavno prati propise i isplatu rodiljnih naknada, obavlja stručnu analizu učinaka mjera iz nadležnosti Odsjeka te predlaže mjere za poboljšanje učinaka doplatka za djecu i rodiljnih naknada, predlaže mjere radi poboljšanja uzdržavanja djece.
+2. Odjel za djecu i mladež

@@ -1,0 +1,7 @@
+## Odsjek za nabavu, tehničke i pomoćne poslove
+# Članak 9.
+Odsjek za nabavu, tehničke i pomoćne poslove provodi nabavu roba, usluga i opreme za Ministarstvo po postupku propisanim zakonom, nadzire tekuće održavanje voznog parka, te skrbi o dokumentaciji vozila. Odsjek daje stručna mišljenja prilikom izrade planova ustanova koje obavljaju djelatnost iz djelokruga Ministarstva o opravdanosti ulaganja koja imaju karakter tekućeg održavanja, sudjeluje u pripremi postupka javne nabave, kontrolira i obrađuje ponude te daje mišljenje i ocjenu najpovoljnije ponude, kontrolira ispostavljene situacije i račune, prati izgradnju i opremanje objekata iz nadležnosti Ministarstva, vodi evidenciju nekretnina, izrađuje ugovore u vezi izgradnje, opremanja i projektiranja ustanova iz svoje nadležnosti, sudjeluje u pripremi postupka, obradi ponuda te pisanju mišljenja i prijedloga izbora najpovoljnije ponude, te izrađuje ugovore u svezi usluga i nabave roba.
+Odsjek obavlja poslove dostave pošte koja zahtijeva osobnu dostavu, koordinira preuzimanje i predaje poštanskih pošiljaka Hrvatskim poštama i unutar Grada Zagreba, kontrole ispravnosti funkcioniranja telefonskih linija, osiguravanja urednog funkcioniranja čajne kuhinje, održavanja higijene radnog prostora, održavanja zgrade i uredskih prostorija u uporabnom, ispravnom i sigurnom stanju za rad i boravak ljudi.
+Odsjek za nabavu, tehničke i pomoćne poslove u svom sastavu ima dva odjeljka:
+1. Odjeljak za nabavu;
+2. Odjeljak za tehničke i pomoćne poslove.

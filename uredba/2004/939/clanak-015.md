@@ -1,0 +1,3 @@
+## Odsjek za održavanje i razvoj korisničkih programa i baza podataka
+# Članak 15.
+Odsjek za održavanje i razvoj korisničkih programa i baza podataka administrira postojeće baze podataka, izrađuje sigurnosne kopije baza podataka, održava i unaprjeđuje postojeće korisničke programe, pruža pomoć korisnicima prilikom korištenja istih. Radi na izradi i implementaciji novih korisničkih programa i njihovo integriranje u informatički sustav Ministarstva, radi izvještaje po posebnom zahtjevu korisnika, prikuplja podatke iz drugih tijela državne uprave i obrađuje ih po potrebi, priprema podatke za objavljivanje na Internetu i za druga tijela državne uprave.

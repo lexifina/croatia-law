@@ -1,0 +1,7 @@
+# Članak 53.
+Odjel dokumentacije, publicistike i bibliotekarskih poslova obavlja poslove publiciranja i distribucije literature, brošura, priručnika i drugih materijala namijenjenih promicanju i afirmaciji prava djece, mladih, obitelji, osoba s invaliditetom i starijih osoba; prevođenja, publiciranja i distribucije međunarodnih dokumenata usmjerenih promicanju i afirmaciji prava djece, mladih, obitelji, osoba s invaliditetom i starijih osoba; tiskanja i distribucije tiskovina; kao i bibliotekarske poslove.
+Odjel obavlja poslove koordiniranja i pripreme tekstova za publikacije; koordiniranja i suradnje s autorima tekstova i urednicima publikacija; organiziranja poslova lekture, redakture, korekture, grafičkog uređivanja i tiskanja; suradnje s pripadajućim uredima NSK (ISBN; CIP); suradnje na raspisivanju relevantnih natječaja sukladno Zakonu o javnoj nabavi; organizacije prevođenja i prevođenje međunarodnih dokumenata i druge korespondencije vezanih uz propisani djelokrug rada; dobave, čuvanja i obrade bibliotečne građe; organizacije ustrojavanja baze podataka i unosa svih naslova prema odgovarajućim kriterijima; redovnog ažuriranja baze sukladno izlazu i ulazu publikacija, organizacije smještanja i ažuriranja baze podataka biblioteke na web-stranici poradi pristupačnosti javnosti.
+Odjel obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.
+Odjel dokumentacije, publicistike i bibliotekarskih poslova u svom sastavu ima dva odsjeka:
+1. Odsjek dokumentacije i publicistike;
+2. Odsjek za bibliotekarske poslove.

@@ -1,0 +1,15 @@
+## 5. UPRAVA ZA OBITELJ
+# Članak 38.
+Uprava za obitelj izrađuje nacrte prijedloga zakona i prijedloge drugih propisa koji se odnose na područje rada Uprave; provodi međuresornu i međunarodnu suradnju; unaprjeđuje organizaciju, sadržaje i načine rada ustanova iz svog djelokruga; obavlja stručne poslove vezane za promicanje obiteljskih vrijednosti; analizira demografska kretanja, predlaže i provodi mjere pronatalitetne i populacijske politike; potiče osnivanje obiteljskog fonda; potiče i osniva obiteljske centre, savjetovališta i servise; obavlja stručne poslove vezane za promicanje obiteljskih vrijednosti, potiče i predlaže mjere za sprječavanje i rješavanje problema u obitelji; procjenjuje, prati i evaluira programe i projekte udruga usmjerenih dobrobiti djece, mladih, osoba s invaliditetom i obitelji; obavlja stručno-analitičke poslove, potiče programe i predlaže mjere usmjerene dobrobiti djece, mladih, obitelji i osoba s invaliditetom; potiče razvoj izvaninstitucionalnih oblika skrbi; analizira kvalitetu života djece smještene u dječjim domovima i udomiteljskim obiteljima te predlaže mjere unaprjeđenja kvalitete njihova života; sudjeluje u edukaciji stručnjaka koji rade s djecom, mladima, osobama s invaliditetom i njihovim obiteljima te organizira nadzor.
+Sustavno prati propise i isplatu doplatka za djecu, nadzire zakonitost provedbe te predlaže mjere za poboljšanje učinka doplatka za djecu i rodiljnih naknada; analizira stanje i predlaže mjere za poticanje obiteljskog i ženskog poduzetništva te poboljšanje socioekonomskog standarda mladih, osoba s invaliditetom i obitelji; prati provedbu YOUTH programa; potiče aktivno sudjelovanje mladih u društvu i osnivanje centara za mlade; potiče aktivnosti usmjerene prevenciji poremećaja u ponašanju djece, mladih, maloljetničke delinkvencije te u borbi protiv svih oblika ovisnosti.
+Promiče prava djece i mladih; promiče prava osoba s invaliditetom na ravnopravnost u svim područjima života te senzibilizira javnost o problematici osoba s invaliditetom.
+Uprava za obitelj rješava u upravnim stvarima; provodi upravni i inspekcijski nadzor; sudjeluje u kolektivnom pregovaranju u sustavu; prati stanje i predlažu mjere radi unaprjeđenja rada, izrađuje stručne podloge za postupak odlučivanja u državnim tijelima; izrađuje nacrte ustroja te odluka u svezi s osnivanjem, početkom, trajanjem i prestankom rada ustanova u nadležnosti Ministarstva; postupa po predstavkama, pritužbama i upitima građana; organizira, provodi i potiče različite oblike stručnog usavršavanja; osigurava suradnju stručnih, znanstvenih, vladinih i nevladinih ustanova i udruga u zemlji i inozemstvu; vodi akcijska i primijenjena istraživanja i izdaje stručne publikacije.
+Uprava obavlja i druge poslove koji su joj stavljeni u nadležnost posebnim zakonom ili drugim propisima.
+Za obavljanje poslova iz djelokruga Uprave za obitelj ustrojavaju se:
+1. Odjel za obitelj;
+2. Odjel za djecu i mladež;
+3. Odjel za zaštitu djece i obitelji;
+4. Odjel za osobe s invaliditetom;
+5. Odjel za upravno-pravne poslove;
+6. Odjel dokumentacije, publicistike i bibliotekarskih poslova.
+1. Odjel za obitelj

@@ -1,0 +1,4 @@
+## Odsjek za suradnju s udrugama
+# Članak 62.
+Odsjek za suradnju s udrugama obavlja poslove suradnje s humanitarnim i vjerskim organizacijama, sa srodnim ili istovrsnim organizacijama u inozemstvu, razmatra programe, projekte i prijedloge nevladinih udruga; surađuje s udrugama u provođenju programa za osiguranje života starijih u sigurnoj sredini koja se može prilagoditi osobnim potrebama i promijenjenim sposobnostima, programa za osiguranje života u vlastitom domu što je duže moguće; surađuje s udrugama prilikom uključivanja starijih u koristan rad u društvenoj zajednici, u aktivnosti koje su primjerene njihovih interesima i sposobnostima i radi na zaštiti od izrabljivanja i tjelesnog i duševnog zlostavljanja; potiče udruge za provođenje programa uslužnih djelatnosti za starije osobe.
+3. Odjel za praćenje primjene propisa i međunarodnu suradnju
