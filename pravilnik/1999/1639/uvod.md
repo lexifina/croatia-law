@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 3. alineje 2. i stavka 4. Zakona o prostornom uređenju (»Narodne novine«, br. 30/94, 68/98 i 35/99 - Uredba), ministar prostornog uređenja, graditeljstva i stanovanja, donosi
