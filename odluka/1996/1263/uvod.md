@@ -1,0 +1,1 @@
+Na temelju članka 40. Zakona o poljoprivrednom zemljištu ("Narodne novine", broj 54/94 - pročišćeni tekst i 48/95), a u svezi s člankom 24b. Zakona o dopunama Zakona o cestama ("Narodne novine", broj 48/96), Vlada Republike Hrvatske je na sjednici održanoj 25. srpnja 1996. godine, donijela
