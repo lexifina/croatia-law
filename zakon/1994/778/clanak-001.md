@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o prodaji stanova na kojima postoji stanarsku pravo ("Narodne novine" br. 43/92. - pročišćeni tekst i 62/92., 25/93., 48/93. i 2/94.) u članku 4. stavak 2. mijenja se i glasi "Zahtjev iz stavka 1. ovoga članka podnosi se do 31. prosinca 1995., a sklapanje ugovora o kupoprodaji stana (u daljnjem tekstu: ugovor) mora kupac zatražiti u roku od šest mjeseci od dana podnošenja zahtjeva za kupnju stana.
