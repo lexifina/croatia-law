@@ -1,0 +1,1 @@
+Rev-1492/1994-2, Vrhovni sud Republike Hrvatske, 21.6.1995.
