@@ -1,0 +1,1 @@
+Odluka o osnovicama osiguranja koje se uzimaju za obračunavnje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završenog obrazovanja nalaze n

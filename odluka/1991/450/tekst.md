@@ -1,0 +1,8 @@
+o osnovicama osiguranja koje se uzimaju za obračunavnjei plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskogosiguranja za osobe koje se nakon završenog obrazovanja nalaze na obaveznompraktičnom radu ili na dobrovoljnoj praksi za godinu 1991.
+1. Osnovice osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosai za određivanje prava iz mirovinskog i invalidskog osiguranja za osobekoje se nakon završenog obrazovanja nalaze na obaveznom praktičnom raduili na dobrovoljnoj praksi (članak 14. stavak 1. točka 4. Zakona o mirovinskomi invalidskom osiguranju), za godinu 1991. određuju se ovisno o stupnjustručne spreme stečene nakon završenog obrazovanja te iznose:
+1) 7.383,00 dinara za osobe koje imaju stručnu spremu sedmog ili osmogstupnja (visoka stručna sprema),
+2) 5.695,00 dinara za osobe koje imaju stručnu spremu petog ili šestogstupnja (viša stručna sprema odnosno sprema visokokvalificiranog radnika),
+3) 4.206,00 dinara za osobe koje imaju stručnu spremu trećeg i četvrtogstupnja (srednja stručna sprema odnosno sprema kvalificiranog radnika).
+2. Doprinos za mirovinsko i invalidsko osiguranje osoba iz točke 1.ove odluke obračunava se i plaća prema Zakonom utvrđenoj stopi za obračunavanjei plaćanje doprinosa kada se osobni dohodak utvrđuje u neto svoti.
+3. Danom stupnja na snagu ove odluke prestaje važiti Odluka o osnovicamaosiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanjeprava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završenogobrazovanja nalaze na obaveznom praktičnom radu ili na dobrovoljnoj praksiza godinu 1990. ("Narodne novine", broj 14/90).
+4. Ova odluka stupa na snagu osmoga dana nakon objave u "Narodnimnovinama", a primjenjuje se od 1. siječnja 1991.
