@@ -1,0 +1,5 @@
+# Članak 1.
+1. Protokolu 4. Srednjoeuropskog ugovora o slobodnoj trgovini i razmjeni poljoprivrednih koncesija između Češke Republike i Slovačke Republike s jedne strane i Republike Mađarske s druge strane nadodat će se novi stavak 3.a i 4.a, koji glase:
+»3.a Uvozne carine koje se primjenjuju u Češkoj Republici i Slovačkoj Republici na proizvode podrijetlom iz Republike Mađarske, a koji su navedeni u Prilogu C1 ovoga Protokola bit će snižene unutar količinskih ograničenja ili unutar kvota navedenih u Prilogu C1 na razinu utvrđenu Prilogom C1 od 15. srpnja 2003.«
+»4.a Uvozne carine koje se primjenjuju u Republici Mađarskoj na proizvode podrijetlom iz Češke Republike ili Slovačke Republike navedene u Prilogu D1 ovoga Protokola bit će snižene unutar količinskih ograničenja ili unutar kvota navedenih u Prilogu D1 na razinu utvrđenu Prilogom D1 od 15. srpnja 2003.«
+2. Ovime se uspostavljaju Prilozi 1. i 2. ovoga Dodatnog protokola koji su dodani Protokolu 4. kao Prilozi C1 i D1 te su oni njegov sastavni dio.
