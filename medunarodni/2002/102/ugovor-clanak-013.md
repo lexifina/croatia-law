@@ -1,0 +1,11 @@
+# Članak 13.
+POREZI I CARINE
+1. Porezi, carinske i uvozne pristojbe ne financiraju se iz potpore EZ-a.
+2. Uvoz u državu PRIMATELJA na temelju ugovora o nabavi robe koje su sklopila službena tijela PRIMATELJA, a financiraju se iz potpore EZ-a, dopustit će se bez carinskih pristojbi, uvoznih pristojbi, poreza ili fiskalnih troškova s jednakim učinkom.
+3. PRIMATELJ će osigurati da dotični uvoz bude propušten od mjesta ulaska u zemlju radi isporuke izvođaču, kao što stoji u odredbama ugovora, i za neposredno korištenje potrebno za normalnu provedbu ugovora, bez obzira na kašnjenja ili sporove zbog rješavanja spomenutih pristojbi, poreza ili troškova.
+4. Ugovori za nabavu robe ili usluga koje pružaju hrvatske ili strane tvrtke, koji se financiraju iz potpore EZ-a, u državi PRIMATELJU ne podliježu plaćanju poreza na dodanu vrijednost, biljega, pristojbi za registraciju ili fiskalnih troškova s jednakim učinkom, bilo da takve pristojbe već postoje ili ih tek treba uvesti.
+5. Fizičke i pravne osobe iz država članica Europske zajednice, uključujući osoblje privremeno nastanjeno izvan svoje zemlje, koje izvršavaju ugovore o tehničkoj suradnji financirane iz potpore EZ-a, bit će oslobođene poreza na poslovanje i poreza na dohodak u državi PRIMATELJA.
+6. Osobna imovina i stvari kućanstva uvezeni za osobnu uporabu fizičkih osoba (i članova njihovih užih obitelji), osim onih angažiranih lokalno, koje su angažirane za obavljanje poslova definiranih ugovorima o tehničkoj suradnji, bit će izuzeti od carinskih pristojbi, uvoznih pristojbi, poreza i drugih fiskalnih troškova s jednakim učinkom, s tim da navedena osobna imovina i stvari kućanstva budu ili ponovno izvezeni ili otuđeni u državi u skladu s propisima koji su na snazi u državi PRIMATELJA nakon isteka ugovora.
+7. Fizičke i pravne osobe koje uvoze profesionalnu opremu, kao što je predviđeno u članku 11., ako to zatraže, mogu koristiti pravo na privremeni uvoz, kao što je definirano nacionalnim zakonodavstvom PRIMATELJA s obzirom na navedenu opremu.
+Glava IV.
+IZVRŠAVANJE UGOVORA
