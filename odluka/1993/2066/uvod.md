@@ -1,0 +1,1 @@
+Na temelju članka 66. stavka 1. Zakona o redovnim sudovima ("Narodne novine", br. 32/88 - pročišćeni tekst, 16/90., 41/90., 14/91. i 66/91.). Zastupnički dom Sabora Republike Hrvatske na sjednici 25. studenoga 1993., donio je
