@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Imovina na kojoj je udruga imala pravo raspolaganja ili pravo korištenja do donošenja Zakona o udrugama (»Narodne novine« br. 70/97., 106/97. i 20/00.), osim imovine sindikalnih udruga na koje se primjenjuju odredbe članka 38. stavka 3. i 4. Zakona o udrugama (»Narodne novine«, br. 70/97., 106/97. i 20/00.), danom primjene ovoga Zakona postaje vlasništvo udruge koja je njezin pravni sljednik.
+(2) Imovina udruga koje su prestale postojati, a koje nemaju udrugu koja je njihov pravni sljednik, danom primjene ovoga Zakona postaju vlasništvo jedinice lokalne samouprave na čijem je području bilo sjedište udruge.
+(3) Na zahtjev zainteresiranih jedinica lokalne samouprave o pravu na imovinu udruge iz stavka 2. ovoga članka odlučuje Ured državne uprave za imovinsko pravne poslove koji svoju odluku dostavlja nadležnom državnom odvjetniku radi podnošenja zahtjeva za prijenos te imovine u vlasništvo jedinica lokalne samouprave.
