@@ -1,0 +1,6 @@
+# Članak 25.
+POSTUPAK ZAJEDNIČKOG DOGOVARANJA
+1. Ako jedna osoba drži da postupci jedne ili obiju država ugovornica kao posljedicu imaju ili će imati oporezivanje te osobe koje nije u skladu s odredbama ovog Ugovora, ona može, neovisno o pravnomu lijeku predviđenom u domaćem zakonodavstvu tih država, uputiti pismenu molbu nadležnom tijelu države ugovornice čiji je rezident, navodeći razloge za traženje revizije takvog oporezivanja. Da bi se uzela u razmatranje, spomenuta molba mora biti podnesena u roku od dvije godine od prve obavijesti o postupku koji je doveo do oporezivanja koje nije u skladu s odredbama ovog Ugovora.
+2. Ako nadležno tijelo spomenuto u stavku 1. bude držalo da je prigovor opravdan i ako ga samostalno ne bude moglo riješiti na zadovoljavajući način, nastojat će to učiniti u dogovoru s nadležnim tijelom druge države ugovornice, radi izbjegavanja oporezivanja koje nije u skladu s ovim Ugovorom.
+3. Nadležna tijela država ugovornica nastojat će zajedničkim dogovorom riješiti sve teškoće ili dvojbe koje se pojave pri tumačenju ili primjeni ovog Ugovora.
+4. Nadležna tijela država ugovornica mogu se dogovarati o uklanjanju dvostrukog oporezivanja u slučajevima koji nisu predviđeni ovim Ugovorom te mogu izravno međusobno izmjenjivati mišljenja u svrhu primjene ovog Ugovora.

@@ -1,0 +1,6 @@
+# Članak 6.
+DOHODAK OD NEKRETNINA
+1. Dohodak koji rezident jedne države ugovornice stekne od nekretnina (uključujući dohodak od poljoprivrede ili šumarstva), smještenih u drugoj državi ugovornici, može se oporezivati u toj drugoj državi.
+2. Za potrebe ovog Ugovora izraz »nekretnina« ima ono značenje koje ima prema zakonu koji propisuje oporezivanje nekretnina države ugovornice u kojoj se ta nekretnina nalazi. Taj izraz u svakom slučaju uključuje imovinu što pripada uz nekretninu, stoku i opremu koje se koriste u poljoprivredi i šumarstvu, prava na koja se primjenjuju odredbe općeg zakona o zemljišnom vlasništvu, služnosti nekretnine te prava na isplate u promjenljivom ili stalnom iznosu kao naknade za iskorištavanje ili pravo na iskorištavanje rudnih nalazišta, izvora i drugih prirodnih bogatstava. Pomorski brodovi i zrakoplovi ne smatraju se nekretninama.
+3. Odredbe stavka 1. primjenjuju se i na dohodak koji se ostvaruje od izravnog korištenja, iznajmljivanja ili drugog načina korištenja nekretnina i na dohodak od otuđenja te nekretnine.
+4. Odredbe stavaka 1. i 3. primjenjuju se i na dohodak od nekretnina poduzeća i na dohodak od nekretnina koje se koriste u obavljanju samostalnoga rada.
