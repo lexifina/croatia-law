@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o Vladi Republike Hrvatske ("Narodne novine", broj 41/90, 8/91, 14/91, 53A/91) i članka 8. Zakona o ustrojstvu republičke uprave ("Narodne novine", broj 41/90, 43/90, 59/90, 53A/91, 61/91, 73/91), Vlada Republike Hrvatske na sjednici održanoj 31. siječnja 1992. godine, donijela je
