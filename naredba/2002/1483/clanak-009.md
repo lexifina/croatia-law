@@ -1,0 +1,4 @@
+# Članak 9.
+(1) U zaraženim područjima zabranjuje se proizvodnja bilja domaćina krumpirovih cistolikih nematoda namijenjenog za presađivanje (sadnog materijala i presadnica). Zabrana se ne odnosi na proizvodnju u kontejnerima, loncima i sl. ako se u proizvodnji u cijelosti koriste supstrati za rast bilja.
+(2) U zaraženim područjima, proizvodnja povrća i ostalog bilja domaćina krumpirovih cistolikih nematoda namijenjenog za konzumnu prodaju na tržištu (plodovi rajčice, patliđana i sl.), dopuštena je uz pridržavanje četverogodišnjeg plodoreda.
+(3) Iznimno, dopušta se sadnja bilja iz stavka 1. i 2. ovoga članka bez pridržavanja uvjeta navedenih u tim stavcima, ako je vlasnik/korisnik parcele prije sadnje izvršio analizu tla u stručnoj ili znanstvenoj instituciji osposobljenoj za provođenje analize na nematode (državni zavodi, fakulteti i sl.) i ako je analizom potvrđeno da parcela nije zaražena krumpirovim cistolikim nematodama.
