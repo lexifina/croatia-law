@@ -1,0 +1,3 @@
+o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1993.
+1. U Odluci o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1993. ("Narodne novine", broj 23/93) točka 5. stavak 1. mijenja se i glasi: "Naknada za troškove prehrane i izbivanja izvan mjesta prebivališta ili boravišta pripada u punoj ili smanjenoj svoti, ovisno o trajanju putovanja i izbivanja i iznosi 70 % od dnevnice za službeno putovanje u zemlji za korisnike koji se financiraju iz sredstava državnog proračuna".
+2. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama".
