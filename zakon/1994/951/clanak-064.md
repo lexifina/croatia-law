@@ -1,0 +1,6 @@
+## Odredbe o uporabi jezika
+# Članak 64.
+(1) Koncesionar radija i televizije mora emitirati program na hrvatskom jeziku.
+(2) Iznimno od odredbe iz stavka 1. ovoga članka koncesionar radija i televizije na lokalnoj razini može emitirati program i na narječjima hrvatskog jezika kojim se služi pučanstvo na području koncesije i na jezicima etničkih i nacionalnih zajednica ili manjina koje obitavaju na području koncesije.Trajanje programa na narječjima hrvatskog jezika u tijeku dana može biti najviše 20% prosječnog dnevnog trajanja programa. Trajanje programa na jeziku etnićke i nacionalne zajednice ili manjine u tijeku dana, iskazano postotkom prosječnog dnevnog trajanja programa, mora, što je više moguće, odgovarati postotku etničke i nacionalne zajednice ili manjine u ukupnom broju žitelja na području koncesije, s tim da ne može prijeći 50% prosječnog dnevnog trajanja programa.
+(3) Iznimno od odredbe iz stavka 1. ovoga članka koncesionar radija i televizije može emitirati informativni program i uslužne informacije za potrebe stranih gostiju na jezicima prema zastupljenosti stranih gostiju.
+(4) Odredba iz stavka (1) ovUga članka ne odnosi se na filmske i glazbene reprodukcije, prijenos vjerskih, kazališnih i glazbenih događaja, te obrazovne emisije za učenje stranog jezika.

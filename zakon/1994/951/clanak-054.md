@@ -1,0 +1,5 @@
+## VIl. TELEKOMUNIKACIJE MINISTARSTVA OBRANE, MINISTARSTVA UNUTARNJIH POSLUVA I MINISTARSTVA VANJSKIH POSLOVA
+# Članak 54.
+(1) Ministarstvo obrane, Ministarstvo unutarnjih poslova i Ministarstvo vanjskih poslova, prigodom izgradnje i uporabe svojih radijskih komunikacija, pridržavaju se odredaba ovoga Zakona i propisa donesenih na temelju ovoga Zakona, koji se odnose na namjenu radio-frekvencijskog spelstra i vrste emisija, te na poduzimanje mjera za sprječavanje štetnih smetnji i na pružanje pomoći u slučaju opasnosti
+(2) Kad radijska postaja Ministarstva obrane, Ministarstva unutarnjih poslova ili Ministarstva vanjskih poslova sudjeluje u radijskim službama drugih sustava, njena uporaba mora se prilagoditi odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona
+(3) Uvjete za postavljanje, uporabu, održavanje i kontrolu emisija i nadzor radijskih postaja Ministarstva obrane, Ministarstva urlutarnjih poslova i Ministarstva vanjskih poslova, te istraživanje i otklanjanje štetnih smetnji između tih i drugih radijskih postaja, utvrđuje ministar obrane, ministar unutarnjih poslova ili ministar vanjskih poslova u sporazumu s ministrom.

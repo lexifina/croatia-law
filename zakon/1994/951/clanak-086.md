@@ -1,0 +1,19 @@
+## Ovlasti inspektora
+# Članak 86.
+(1) Poslove nadzora iz članka 85. stavka 1. ovoga Zakona obavlja državni inspektor telekomunikacija, koji ima ovlast:
+1. zabraniti uvoz, prodaju, iznajmljivanje i uporabu tehničke opreme koja se ugrađuje ili priključuje na javne telekomunikacije ako ne postoji propisana potvrda da udovoljava tehničkim uvjetima i normama ili ako nije označena propisanom oznakom, te odrediti mjere kojima se onemogućuje prodaja, iznajmljivanje i uporaba te tehničke opreme,
+2. zabraniti uvoz, prodaju, iznajmljivanje i uporabu električne i druge tehničke opreme ako ne postoji propisana potvrda da su na njoj provedene mjere za suzbijanje elektromagnetskih smetnji ili ako nije označena propisanom oznakom, te odrediti mjere kojima se onemogućuje prodaja, iznajmljivanje i uporaba te električne i druge tehničke opreme,
+3. zabraniti uvoz, prodaju, iznajmljivanje i uporabu radijske postaje ako ne postoji propisana potvrda da udovoIjava tehničkim uvjetima i nornkama ili ako nije označena propisanom oznakom, te odrediti mjere kojima se onemogućuje prodaja, iznajmljivanje i uporaba te radijske postaje,
+4. zabraniti obavljanje djelatnosti javnih telekomunikacija ako nema propisanu koncesiju ili ako nije sklopljen propisani ugovor o ostvarivanju koncesije i odrediti mjere kojima se onemogućuje obavljanje te djelatnosti,
+5. zabraniti rad radijske postaje koja nema propisanu dozvolu i odrediti mjere kojima se onemogućuje njezin rad,
+6. trajno zabraniti uporabu radijske postaje za koju se opetovano utvrdi da ne ispunjava propisane uvjete i norme i odrediti mjere kojima se onemogućuje njezin rad,
+7. zabraniti izvođenje radova i podizanje objekata u zaštitnoj zoni ili radijskom koridoru radijskih postaja,
+8. privremeno zabraniti rad radijske postaje koja stvara štetnu smetnju dok se smetnja ne ukloni,
+9. privremeno obustaviti izvođenje radova u blizini telekomunikacijskih objekata, opreme ili spojnog puta, koji bi mogli oštetiti ili ometati rad tih objekata, opreme ili spojnog puta, ako prije nije pribavljena suglasnost vlasnika dotičnih telekomunikacija, dok se ta suglasnost ne pribavi,
+10. narediti uklanjanje nedostataka na električnoj ili drugoj tehničkoj opremi koja stvara elektromagnetske smetnje u radu telekomunikacija ili radijske postaje ili u prijamu radijskih ili televizijskih programa,
+11. narediti uklanjanje nedostataka ako se prigodom izgradnje, održavanja ili uporabe telekomunikacija ili ra dijske postaje, te ako se prigodom pružanja usluga ili obavljanja koncesionirane djelatnosti, ne primjenjuje Zakon, propisi doneseni na temelju Zakona i tehnički uvjeti i norme,
+12. u okviru mjera iz točke 1. do 8. ovoga stavka, može i pečatiti ili privremeno oduzeti navedenu tehničku i drugu opremu i radijsku postaju u cijelosti ili samo određene dijelove, o čemu izdaje potvrdu.
+(2) Državni inspektor iz stavka 1. ovoga članka ima ovlast osobno obaviti ili narediti obavljanje potrebnih mjerenja i ispitivanja na telekomunikacijskoj opremi i radijskim postajama, te se može, za potrebe nadzora koristiti odgovarajućim tehničkim sredstvima i pomagalima vlasnika telekomunikacija i radijske postaje.
+(3) Državni djelatnik koji obavlja poslove kontrole radio-frekvencijskog spektra, kada utvrdi da radijska postaja stvara štetnu smetnju, ili da za radijsku postaju nije pribavljena propisana dozvola ima ovlast iz stavka 1. točke 12. i iz stavka 2. ovoga članka, te ima ovlast podnijeti prijavu nadležnom tijelu za učinjeno kazneno djelo ili prekršaj. O poduzetink mjerama pismeno izvješćuje državnog inspektora koji obavlja poslove nadzora iz članka 85. stavka 1. ovoga Zakona.
+(4) Državni inspektor iz stavka 1. i državni djelatnik iz stavka 3. ovoga članka vode oćevidnik o obavljenom nadzoru i moraju imati propisanu iskaznicu.
+(5) Iskaznice i način vođenja oćevidnika iz stavka 4. ovoga članka i pečat za pečaćenje iz stavka 1. točke 12. ovoga članka propisuje i izdaje ministar.

@@ -1,0 +1,2 @@
+# Članak 94.
+Novčanom kaznom u protuvrijednosti domaće valute od 1.000 do 3.000 DEM kazoit će se za prekršaj zapovjednik zrakoplova ili zapovjednik plovila, ili druga odgovorna osoba na zrakoplovu ili plovilu ako, protivno odredbama članka 38. i 39. ovoga Zakona, upotrebljava radijsku postaju za vrijeme dok se zrakoplov nalazi u zračnoj luci ili za vrijeme dok se plovilo nalazi u luci ili pristaništu.

@@ -1,0 +1,21 @@
+## Pojmovi
+# Članak 2.
+Znaćenje pojmova što se upotrebljavaju u ovom Zakonu:
+1. telekomunikacije: žićni, bežićni, svjetlosni ili drugi elektromagnetski sustav za prijenos, odašiljanje i prijam znakova, signala, pisanog teksta, slika i zvukova ili priopćenja bilo koje prirode,
+2. javne telekomunikecije:telekomunikacije koje su na raspolaganju javnosti i čiji uredi i postaje moraju udovoljiti svim potrebama za komunikacijama zbog kojih postoje,
+3. telekomunikecije za vlastite potrebe: telekomunikacije koje služe za obavljanje vlastite djelatnosti i kojima se ne mogu pružati usluge drugima,
+4. radijske komunikacije: bežićne telekomunikacije,
+5. radio: javne telekomunikacije koje odašilju zvuk i druge signale namijenjene za izravan prijam putem odašiljača na Zemlji i satelitu,
+6. televizija: javne telekomunikacije koje odašilju zvuk, sliku i druge signale namijenjene za izravan prijam putem odašiljača na Zemlji i satelitu,
+7. kabelska televizija: javne telekomunikacije koje prenose zvuk, sliku i druge signale do korisnika putem kabelskog sustava,
+8. radio-frekvencijski spektar: elektromagnetski valovi u rasponu frekvencija od 3 kHz do 3000 GHz, koji se rasprostiru bez umjetnog vođenja,
+9. radijska postaja: jedan ili više odašiljača ili prijamnika ili kombinacija jednog ili više odašiIjaća i prijamnika, ukljućujući pripadnu opremu, koja je potrebna na određenom mjestu za obavljanje radijskih komunikacija,
+10. radijska mreža: skup tri ili više radijskih postaja kojima se omogućuje radijska komunikacija između tri ili više lokacija,
+11. amaterska radijska postaja: radijska postaja koja radi u frekvencijskom području narnijenjenom radio-amaterskoj službi,
+12 gradanska radijska postaja (CB) radijska postaja kojtk radi u frekvencijskom području namijenjenom gradanima,
+13. pokretni radiotelefon: pokretna radijska postaja koja je uključena u javnu telefonsku mrežu kao pokretan priključak,
+14. bežićni telefon (CT): dvije radijske postaje, nepokretna i pokretna. koje su uključene u javnu telefonsku mrežu putem nepokretnog priključka,
+15. radiofar: radijska postaja u radio-navigacijskoj službi čija emisija omogućuje pokretnoj radijskoj postaji određivanje njezinog položaja ili pravca kretanja u odnosu na radiofar,
+16. zajedriički antenski sustav: skup tehničke opreme koja služi za izravan prijam radijskih i televizijskih emisija za skupinu korisnika prijamnika u stambenom ili poslovnom objektu ili na ograničenom području do 50 priključaka putem vodova za distribuciju radijskih i televizijskih programa,
+17. štetna smetnja: smetnja koja dovodi u opasnost funkcloniranje radio-navigacijske službe ili druge službe za sigurnost, ili ozbitjno pogoršava, sprečava ili opetovano prekida radio-komunikacijsku službu koja radi u skladu s propisima o radijskim komunikacijama,
+18. vlasnik telekomunikacija, telekomunikacijskog objekta ili opreme, ili r-adijske postaje: pravna ili fizička osoba koja samostalno raspolaže i upravlja telekomunikacijama, telekomunikacijskim objektom ili opremom, ili radijskom postajom,
