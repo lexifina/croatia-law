@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o obvezama i pravima državnih dužnosnika ("Narodne novine", br. 101/98 i 135/98), Vlada Republike Hrvatske je na sjednici održanoj 4. veljače 1999. godine, donijela
