@@ -1,0 +1,2 @@
+# Članak 14.
+Strategija prostornog uređenja Države određuje dugoročne ciljeve prostornog razvoja i planiranja u skladu s ukupnim gospodarskim, društvenim i kulturnim razvojem. Strategija iz stavka 1. ovoga članka sadrži osnove za usklađivanje i usmjeravanje prostornog razvoja, organizaciju prostora Države, razvojne prioritetne djelatnosti te planske cjeline zajedničih prostornih i razvojnih obilježja za koje će se donositi prostorni planovi ili drugi dokumenti prostornog uređenja.

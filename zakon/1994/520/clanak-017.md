@@ -1,0 +1,2 @@
+# Članak 17.
+Strategiju i Program prostornog uređenja Države donosi Sabor Republike Hrvatske. O Prijedlogu Strategije i Programa prostornog uređenja Države pribavlja se mišljenje predstavničkih tijela jedinica lokalne samouprave i uprave. Prijedlog Strategije i Programa prostornog uređenja Države te pribavljena mišljenja iz stavka 2. ovoga Članka ocjenjuje Savjet. Program prostornog uređenja Države objavljuje se u "Narodnim novinama".

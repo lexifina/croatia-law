@@ -1,0 +1,3 @@
+## III. DOKUMENTI PROSTORNOG UREĐENJA
+# Članak 10.
+Za potrebe praćenja stanja u prostoru, izrade i praćenja provedbe dokumenata prostornog uređenja, te drugih dokumenata, tijela državne uprave i druga upravna tijela nadležna za poslove prostornog uređenja vode dokumentaciju prostora. O stanju prostora na području Države, županije, Grada Zagreba, općine i grada izrađuje se dvogodišnje izvješće (u daljnjem tekstu: Izvješće). Izvješće o stanju u prostoru sadrži analizu provođenja dokumenata prostornog uređenja i drugih dokumenata, ocjenu provedenih mjera i njihove učinkovitosti na svrhovito gospodarenje prostorom, na zaštitu vrijednosti prostora i okoliša te druge elemente od važnosti za prostor za koji se izrađuje.
