@@ -1,0 +1,13 @@
+## II. POJMOVI I ODREĐENJA
+# Članak 3.
+U ovom Pravilniku pojedini pojmovi imaju sljedeća određenja:
+- sustav za dojavu požara je skup elemenata, funkcionalno povezanih i neprenosivih (automatski i ručni javljači požara, centrala za dojavu požara, uređaji za signalizaciju požara, uređaji za napajanje i dr.) koji se rabe za otkrivanje i dojavu požara u unaprijed odabranom prostoru;
+- sustav za gašenje požara je skup elemenata, funkcionalno povezanih i neprenosivih (sustavi za gašenje vodom, ugljičnim dioksidom, prahom, halonom, pjenom i dr.) koji se rabe za gašenje požara. Mogu djelovati samostalno ili zajedno sa sustavom za dojavu požara te zaštitnim uređajima i instalacijom za sprečavanje širenja požara i nastajanje eksplozija;
+- sustav za dojavu prisutnosti zapaljivih plinova i para je skup elemenata, funkcionalno povezanih i neprenosivih (mjerna glava, centrala, uređaji signalizacije, napajanje i dr.) koji se rabe za otkrivanje i dojavu prisutnosti zapaljivih plinova i para u unaprijed odabranom prostoru. Mogu djelovati samostalno ili zajedno sa uređajima i instalacijom za sprečavanje istjecanja opasnih koncentracija zapaljivih plinova i para;
+- uređaji i instalacije za sprečavanje širenja požara i nastajanje eksplozija je skup elemenata, funkcionalno povezanih i neprenosivih (protupožarne zaklopke, protupožarna vrata sa uređajem za automatsko zatvaranje, uređaji za odvođenje dima, topline i pritiska nastalih u požaru i dr.) koji se rabe za sprečavanje nastajanja i širenja požara i eksplozija. Mogu djelovati samostalno ili zajedno sa sustavom za dojavu i/ili gašenje požara;
+- elementi sustava su pojedinačni dijelovi sustava za dojavu i gašenje požara, dojavu prisutnosti zapaljivih plinova i para te uređaja i instalacija za sprečavanje širenja požara i nastajanja eksplozija koji omogućuju njihovo funkcionalno djelovanje;
+- sredstva sustava su tvari koje se pojedinačno ili u kombinaciji primjenjuju na požar poradi njegova gašenja;
+- prvo ispitivanje je provjera ispravnosti sustava koja se obavlja prije tehničkog pregleda novoizgrađenog objekta odnosno poslije izvršene rekonstrukcije sustava;
+- periodično ispitivanje je provjera ispravnosti sustava koja se obavlja periodično, u propisanim vremenskim razmacima poslije prvog ispitivanja;
+- odobrena projektna dokumentacija je projektna dokumentacija na koju je izdana suglasnost na predviđene mjere zaštite od požara, a sukladno važećim propisima;
+- usvojena pravila tehničke prakse su inozemne norme ili propisi te preporuke proizvođača koji se rabe pri projektiranju, izvođenju i ispitivanju sustava u nedostatku hrvatskih normi i propisa.
