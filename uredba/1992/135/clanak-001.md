@@ -1,0 +1,3 @@
+## o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo
+# Članak 1.
+U Zakonu o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", br. 27/91 i 6/92) iza članka 3. dodaje se novi članak 3a. koji glasi: "Stanovi koji su postali vlasništvo Republike Hrvatske temeljem Uredbe o preuzimanju sredstava JNA i SSNO na teritoriju Republike Hrvatske u vlasništvo Republike Hrvatske ("Narodne novine", br. 52/91) i Uredbe o preizimanju sredstava bivše SFRJ u vlasništvo Republike Hlvatske ("Narodne novine", br. 68/91) neće se prodavati do donošenja propisa kojima će se utvrditi posebni kriteriji za prodaju tih stanova."
