@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 2. Pravilnika o porezu na dodanu vrijednost (»Narodne novine« br. 60/96 113/97 i 7/99), a u svezi Zakona o porezu na dodanu vrijednost (»Narodne novine« br. 40/95 i 106/96) i članka 23. Statuta Hrvatske obrtničke komore (»Narodne novine« br. 21/99) Skupština Hrvatske obrtničke komore na sjednici održanoj 7. prosinca 1999. donijela je

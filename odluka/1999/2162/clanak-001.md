@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Odlukom o dopuštenoj visini kala, rastepa, kvara i loma na žitaricama i proizvodima od žitarica i brašna, pekarskih i slastičarskih proizvoda (u daljnjem tekstu: Odluka) utvrđuje se dopuštena visina kala, rastepa, kvara i loma tijekom prihvata, sušenja, zapremanja, čuvanja, prerade, pakiranja i isporuke žitarica i proizvoda od žitarica i brašna, te povrata pekarskih i slastičarskih proizvoda, do koje fizičke i pravne osobe koje obavljaju djelatnost na temelju Zakona o obrtu, (»Narodne novine« br. 77/93 i 90/96), mogu navedene rashode knjižiti kao troškove poslovanja.
