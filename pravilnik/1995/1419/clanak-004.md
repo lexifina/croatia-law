@@ -1,0 +1,2 @@
+# Članak 4.
+Prema ovom pravilniku odgojno-obrazovnom ustanovom smatra se svaka javna i privatna osnovna i srednja škola s pravom izdavanja javno priznatih svjedodžaba, javna i druga škola, ustanova za odgoj, obrazovanje, osposobljavanje i ruhabilitaciju djece i mladeži s teškoćama u duševnom, tjelesnom i socijalnom razvoju, svaki javni i drugi dom za djecu s posebnom zaštitom i pomoći države te svaki učenički dom (u daljem tekstu ŠKOLA).

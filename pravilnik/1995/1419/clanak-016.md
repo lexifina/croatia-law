@@ -1,0 +1,3 @@
+# Članak 16.
+Ako pripravnik tijekom pripravničkog staža prijeđe u drugu školu, stažiranje se nastavlja u školi u koju je prešao prema postupku iz članka 10. ovog pravilnika. Škola u kojoj je ostvaren dio pripravničkog staža obvezna je o promjeni odmah izvijestiti Ministarstvo prosvjete i športa - Upravu za nadzor i sastaviti izvješće (na tiskanici 51-B) o ostvarenom dotadašanjem stažu. Jedan primjerak izvješća šalje se, zajedno s drugom dokumentacijom, u školu gdje se pripravnik zaposlio ili mu se predaje osobno zbog dalje uporabe.
+Jedan primjerak izvješća, zajedno s drugim dokumentima, dostavlja se Ministarstvu prosvjete i športa - Upravi za školstvo u vrijeme prijavljivanja pripravnika za polaganje stručnog ispita.
