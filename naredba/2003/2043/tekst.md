@@ -1,0 +1,2 @@
+1. U točki 12. Naredbe o homologaciji naprave za zaštitu od prednjega podlijetanja, vozila s obzirom na ugradbu naprave za zaštitu od prednjega podlijetanja homologiranoga tipa te vozila s obzirom na njegovu zaštitu od prednjega podlijetanja (»Narodne novine« broj 70A/01), na kraju rečenice iza riječi »godine« dodaje se tekst »za nova vozila i za rabljena proizvedena nakon tog datuma.«.
+2. Ova naredba stupa na snagu osmog dana nakon objave u »Narodnim novinama«.
