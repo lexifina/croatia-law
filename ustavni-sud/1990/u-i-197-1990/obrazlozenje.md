@@ -1,0 +1,4 @@
+Obrazloženje
+Prema odredbi člana 23. u izreci navedene Odluke ta Odluka stupa na snagu osmoga dana nakon objavljivanja, s tim da se primjenjuje od 1. siječnja 1988. godine.
+Prijedlog za ocjenu ustanvosti Odluke, objavljene 23. svibnja 1988. godine, podnio je Upravni sud Hrvatske, radi ocjene njezine ustanvosti sa stajališta odredaba člana 295. Ustava Republike Hrvatske.
+Prema odredbama stava 1. i 2. člana 295. Ustava zakoni i drugi propisi i opći akti organa društveno-političkih zajednica ne mogu imati povratno djelovanje, i samo se zakonom može odrediti da pojedine njegove odredbe imaju povratno djelovanje, kad se u posebnom postupku utvrdi da je to u općem društvenom interesu. Utvrdivši da je Odluci o komunalnoj naknadi, suprotno citiranoj ustavnoj odredbi, dano povratno djelovanje, ustavni sud je odlučio kao u izreci.
