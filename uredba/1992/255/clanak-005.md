@@ -1,0 +1,3 @@
+# Članak 5.
+Do imenovanja Upravnog odbora u skladu sa Statutom Lutrije Hrvatske d. o. o. Zagreb, postove Upravnog odbora obavlja privremeni Upravni odbor koji ima pet članova od kojih četiri imenuje Vlada Republike Hrvatske na prijedlog Ministarstve financija, a jednog člana biraju članovi Kolegija Lutrije Hrvatske.
+Do donošenja Statuta i drugih akata privremeni Upravni odbor uredit če pitanja u svezi organizacije i načina rada Lutrije Hrvatske, te če utvrditi način razrješenja odnosa sa stranim ulagačima u poduzeče Lutrija Hrvatska radi osnivanja poduzeča u mješovitom vlasništvu kao i obavljati druge poslove iz nadležnosti Upravnog odbora Lutrije Hrvatske.
