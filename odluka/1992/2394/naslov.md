@@ -1,0 +1,1 @@
+Odluka o određivanju banaka sa sjedištem u Republici Hrvatskoj koje će obavljati poslove likvidacije poslovanja glavnih filijala Jugobanke d.d. Beograd koje su poslovale na teritoriju Republike Hrvats
