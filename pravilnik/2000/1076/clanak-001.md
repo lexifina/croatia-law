@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o ortopedskim i drugim pomagalima (»Narodne novine«, broj 108/96, 13/97, 92/98, 97/98, 104/98, 165/98, 34/99, 73/99, 114/99, 129/99 i 18/00) u Popisu iz članka 3. stavke 1., koji je sastavni dio Pravilnika, pod rednim brojem 651. u stupcu 12. »Jedinična vrijednost pomagala izražena u kunama« broj: »1,08« zamjenjuje se brojem: »1,16«, a u stupcu 13. »Ukupna vrijednost pomagala izražena u kunama« broj: »108,00« zamjenjuje se brojem: »116,00«
+- pod rednim brojem 652. u stupcu 12. »Jedinična vrijednost pomagala izražena u kunama« broj: »1,08« zamjenjuje se brojem: »1,16«, a u stupcu 13. »Ukupna vrijednost pomagala izražena u kunama« broj: »950,40« zamjenjuje se brojem: »1.020,80«
+- pod rednim brojem 655. u stupcu 12. »Jedinična vrijednost pomagala izražena u kunama« broj: »1,18« zamjenjuje se brojem: »1,26«, a u stupcu 13. »Ukupna vrijednost pomagala izražena u kunama« broj: »885,00« zamjenjuje se brojem: »945,00«.
