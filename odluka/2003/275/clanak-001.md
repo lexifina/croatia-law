@@ -1,0 +1,2 @@
+# Članak 1.
+Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na osnovi odredbi Pravilnika o izmjeni Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta (»Narodne novine« broj 7/03.) stavlja sa danom 22. siječnja 2003. godine izvan snage Odluku o kriterijima za utvrđivanje minimalnog broja zaposlenika uprave doma zdravlja (»Narodne novine« broj 29/96. i 131/00.).
