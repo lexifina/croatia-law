@@ -1,0 +1,2 @@
+# Članak 2.
+Uredbe iz članka 1. ovoga zakona prestat će vrijediti kada njima uređena pitanja Sabor Republike Hrvatske drugačije uredi, ili kada Sabor Republike Hrvatske utvrdi prestanak njihovog važenja, ili kada pod Ustavom Republike Hrvatske utvrđenim uvjetima Predsjednik Republike Hrvatske određeno pitanje uredi uredbom sa zakonskom snagom, a najkasnije do prvog redovnog zasjedanja Sabora Republike Hrvatske.
