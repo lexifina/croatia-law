@@ -1,0 +1,3 @@
+# Članak 13.
+U vrijeme provedeno u obavljanju vojne obveze računa se vrijeme u kojem je vojni obveznik obavljao vojnu obvezu i određeno vrijeme koje je pri dolasku proveo na putu od svoga prebivališta, odnosno boravišta do mjesta u kojem se trebao javiti nadležnom tijelu, a pri povratku određeno vrijeme koje je proveo na putu do svoga prebivališta, odnosno boravišta.
+Ukoliko vojni obveznik boravi u inozemstvu, u vrijeme iz stavka 1. ovoga članka računa se vrijeme koje je pri dolasku proveo na putu od granice do mjesta u kojem se trebao javiti nadležnom tijelu, a pri povratku na putu od mjesta u kojem je obavio vojnu obvezu do granice.
