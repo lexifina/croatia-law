@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91 i 9/92), a u svezi članka 20. točke 16. Zakona o obrani ("Narodne novine", br. 49/91, 73/91 i 19/92), na sjednici održanoj 17. rujna 1992. godine, Vlada Republike Hrvatske donijela je
