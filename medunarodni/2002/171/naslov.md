@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Konvencije o međunarodnim izložbama potpisane u Parizu, 22. studenoga 1928, te izmijenjene i nadopunjene protokolima od 10. svibnja 1948., 16. studenoga 1966., 30. studenoga 1972.
