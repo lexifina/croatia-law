@@ -1,0 +1,2 @@
+# Članak 13.
+U obavljanju inspekcijskog nadzora, ako drugim propisom nije drukčije određeno, inspektor će donijeti rješenje kojim će narediti otklanjanje utvrđenih nepravilnosti, ako utvrdi da se prijevoz u cestovnom prometu ne obavlja u skladu s međudržavnim sporazumima, zakonom i propisima donešenim na temelju zakona, drugim propisima kojima se uređuje obavljanje prijevoza u cestovnom prometu, ako utvrdi nedostatke i nepravilnosti na javnim cestama, koji su u suprotnosti s propisima o javnim cestama, te u svim slučajevima u kojima je ovlašten u članku 6. ovoga Zakona.
