@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 1. Ustava Republike Hrvatske, članka 108. stavka 1. i članka 109. stavka 1. Poslovnika Zastupničkog doma Sabora Republike Hrvatske, Zastupnički dom Sabora Republike Hrvatske na sjednici 20. rujna 1995. godine donosi
