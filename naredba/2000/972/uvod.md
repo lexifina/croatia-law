@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 1. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92, 77/92, 58/93, 2/94, 76/94 i 108/95), a sukladno članku 3. stavku 2. i članku 27. stavku 3. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godine (»Narodne novine«, br. 33/00), ministar rada i socijalne skrbi, donosi
