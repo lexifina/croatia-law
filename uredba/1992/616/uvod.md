@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 1. i točke 1. Zakona o Službi društvenog knjigovodstva Hrvatske ("Narodne novine", broj 53/91), Vlada Republike Hrvatske, na sjednici održanoj 30. travnja 1992. godine, donijela je
