@@ -1,0 +1,2 @@
+# Članak 4.
+Na dan stupanja na snagu ovog Zakona Ugovor o pitanjima sukcesije nije na snazi, ali se u skladu s člankom 12. Ugovora, njegov članak 4. stavak 3., članak 5 Aneksa A, članci 1. te 5.-6. Aneksa B, kao i članak 6 te Dodatak Aneksa C, privremeno primjenjuju od dana potpisivanja Ugovora, te će se podaci o njegovom stupanju na snagu objaviti, u skladu s odredbom članka 30. stavka 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora.
