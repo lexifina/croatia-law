@@ -1,0 +1,14 @@
+## I. UVODNE ODREDBE
+# Članak 1.
+DEFINICIJE
+U svrhu jasnoće primjene i tumačenja ove Uredbe, sljedeći termini će imati značenje kako slijedi, ukoliko ovom Uredbom nije izričito drugačije određeno:
+a) PROGRAM - RAZVOJ NA ZNANJU UTEMELJENIH PODUZEĆA (u daljnjem tekstu: Program), označuje dokument definiran Smjernicama za provedbu Programa hrvatskog inovacijskog tehnologijskog razvitka, koje je utvrdilo Ministarstvo znanosti i tehnologije;
+b) NA ZNANJU UTEMELJENA PODUZEĆA, za potrebe ove Uredbe, označuju mala i srednja trgovačka društva sa sjedištem u Republici Hrvatskoj, koja svoju konkurencijsku prednost, tehnologijsku sposobnost, tj. razvoj i rast, postižu korištenjem znanja, odnosno razvoja i istraživanja pretočenih u napredne tehnologije (procese/postupke, usluge, proizvode);
+c) MREŽA TEHNOLOGIJSKIH CENTARA (u daljnjem tekstu: mreža centara), označuje tehnologijske centre koji se u trenutku usvajanja Uredbe nalaze u sustavu potpore Ministarstva znanosti i tehnologije, kao i tehnologijske centre koji će ući u takav sustav nakon usvajanja Uredbe. U trenutku usvajanja Uredbe u mreži centara nalaze se sljedeći tehnologijski centri: Tehnološki centar Split d.o.o., Tehnološko-inovacijski centar Rijeka d.o.o. i Centar za transfer tehnologije d.o.o. Zagreb;
+d) KORISNIK, označuje na znanju utemeljeno malo i srednje poduzeće, u pretežito privatnom vlasništvu, te koje nije ovisno i/ili koje nije podvrgnulo vođenje poslova drugom društvu u smislu Zakona o trgovačkim društvima, a kojemu su dodijeljena financijska sredstva u skladu s ovom Uredbom;
+e) NATJECATELJ, označuje trgovačko društvo sa sjedištem u Republici Hrvatskoj i/ili hrvatskog državljanina s prebivalištem u Republici Hrvatskoj koji sudjeluje u postupku dodjele financijskih sredstava iz ovog Programa;
+f) PRETPRIJAVA je sastavnim dijelom procesa prijave, a obuhvaća obrazac i prateće dokumente koji se dostavljaju jednom od tehnologijskih centara na način određen ovom Uredbom;
+g) PRIJAVA, označuje postupak u kojem se izrađuje poslovni plan/investicijska studija, radi donošenja odluke o financiranju projekta;
+h) KONZULTANTI su nezavisni stručnjaci, fizičke i pravne osobe, koji izrađuju poslovni plan/investicijsku studiju i/ili pružaju znanstvenoistraživačke i druge konzultantske usluge korisnicima, tehnologijskim centrima ili Poslovno-inovacijskom centru Hrvatske - BICRO-u (u nastavku: BICRO);
+i) KRITERIJI I AKTIVNOSTI U REALIZACIJI PROGRAMA, označuje dokument koji donosi BICRO uz prethodnu suglasnost Ministarstva znanosti i tehnologije, a kojim se razrađuju kriteriji ocjenjivanja projekata i aktivnosti u realizaciji Programa;
+j) PRORAČUN PROGRAMA U PRORAČUNSKOJ GODINI, označuje dokument koji donosi BICRO uz prethodnu suglasnost Ministarstva znanosti i tehnologije, a kojim se za svaku pojedinu proračunsku godinu utvrđuje proračun Programa.

@@ -1,0 +1,11 @@
+# Članak 16.
+PRIJAVA PROJEKTA
+(1) Ocjena prijavljenog projekta ostvaruje se izradom dva međusobno nezavisna poslovna plana ili investicijske studije.
+(2) Poslovni plan se izrađuje za projekte do 300.000 kn, a investicijska studija za projekte iznad 300.000 kn.
+(3) BICRO povjerava izradu poslovnih planova ili investicijskih studija konzultantima, od kojih barem jedna mora biti povjerena tehnologijskom centru koji je zaprimio pretprijavu, ili drugom centru temeljem dogovora s natjecateljem.
+(4) Na temelju rezultata izrađenog poslovnog plana/investicijske studije, konzultanti donose ocjenu projekta prema kriterijima određenima u Kriterijima i aktivnostima u realizaciji Programa.
+(5) Izrada poslovnog plana/investicijske studije za pojedini projekt mora biti izvršena u roku 90 dana od dana kada BICRO naruči izradu od konzultanata. Ukoliko zbog prirode projekta nije moguće izvršiti ocjenu projekta u roku iz ovog stavka, natjecatelj će biti pisano obaviješten o krajnjem roku izradbe ocjene projekta.
+(6) U slučaju dostatne usuglašenosti nalaza dviju nezavisnih analiza projekta, BICRO donosi odluku o financiranju ili nefinanciranju projekta, prema redu prvenstva određenim u članku 17. ove Uredbe. Izostane li usklađenost nalaza, BICRO može zatražiti i daljnje nezavisne analize projekta. BICRO je ovlašten protumačiti stupanj usuglašenosti nalaza nezavisnih analiza projekta.
+(7) BICRO pisano obavještava natjecatelja o odluci o financiranju ili nefinanciranju pojedinog projekta.
+(8) U slučaju donošenja odluke o financiranju projekta, natjecatelj koji nije trgovačko društvo dužan je u roku od 15 dana od dana dostave obavijesti o odluci o financiranju projekta podnijeti zahtjev za upis osnivanja trgovačkog društva u sudski registar nadležnog suda.
+(9) U roku 30 dana od dana donošenja odluke BICRO-a o financiranju projekta, BICRO i korisnik zaključuju ugovor o financiranju projekta, kojim se detaljno određuju prava i obveze svih ugovornih strana. Iznimno, u slučaju iz stavka (8) ovog članka, BICRO i korisnik zaključuju ugovor o financiranju projekta u roku 15 dana od dana donošenja rješenja nadležnog trgovačkog suda o upisu osnivanja društva u sudski registar, a najkasnije u roku od 90 dana od dana donošenja odluke BICRO-a o financiranju projekta.
