@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o zabrani prijenosa prava raspolaganja i korištenja određenih nekretnina u društvenom vlasništvu na druge korisnike odnosno u vlasništvo fizičkih i pravnih osoba ("Narodne novineđ, broj 53/90), a povodom zahtjeva Šobot Mladena iz Dubrovnika. Župska 3, Vlada Republike Hrvatske, na sjednici održanoj 17. srpnja 1991. donijela je
