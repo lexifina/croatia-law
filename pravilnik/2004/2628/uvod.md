@@ -1,0 +1,1 @@
+Na temelju članka 7. stavak 2. i 3. Zakona o pošti (»Narodne novine«, broj 172/03 i 15/04), ministar mora, turizma, prometa i razvitka, uz suglasnost ministrice nadležne za pravosuđe i državnog tajnika nadležnog za upravu, donosi

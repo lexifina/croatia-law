@@ -1,0 +1,9 @@
+# Članak 30.
+(1) Cijenu za poštansku uslugu (u daljnjem tekstu: poštarina) plaća korisnik koji zahtijeva poštansku uslugu, prema cjeniku davatelja poštanskih usluga.
+(2) Za označavanje poštarine mogu se upotrebljavati poštanske marke i otisci strojeva za označavanje poštarine koji moraju sadržavati podatke o davatelju poštanskih usluga i iznosu naplaćene poštarine. Davatelj poštanskih usluga svojim općim uvjetima propisuje uvjete za uporabu strojeva za označavanje poštarine. Uvjeti za uporabu strojeva za označavanje poštarine u međunarodnom prometu propisani su aktima Svjetske poštanske unije.
+(3) Za označavanje poštarine mogu se upotrebljavati i druge odgovarajuće oznake na pošiljci propisane aktima Svjetske poštanske unije i općim uvjetima davatelja poštanskih usluga.
+(4) Davatelj poštanskih usluga obvezan je uručiti pisma i dopisnice koje je pošiljatelj ubacio u poštanski kovčežić ili predao na drugi posredan način, a za koje poštarina nije plaćena ili nije dovoljno plaćena. S takvim pošiljkama davatelj poštanskih usluga postupa na način propisan svojim općim uvjetima i aktima Svjetske poštanske unije u međunarodnom prometu. Davatelj poštanskih usluga nije obvezan od istog pošiljatelja primiti takva pisma i dopisnice u većem broju, već ih vraća pošiljatelju, a ako to nije moguće smatraju se neuručivima.
+(5) Za pošiljke iz stavka 4. ovog članka poštarinu plaća primatelj, odnosno pošiljatelj prilikom vraćanja takve pošiljke, prema cjeniku davatelja poštanskih usluga.
+(6) Primatelj pošiljke prigodom preuzimanja pošiljke adresirane za poste restante plaća poštarinu propisanu Cjenikom davatelja poštanskih usluga.
+(7) Pobliže odredbe o cijenama poštanskih usluga, te načinu i uvjetima plaćanja propisuje davatelj poštanskih usluga svojim općim uvjetima.
+2. Oslobađanje plaćanja poštarine
