@@ -1,0 +1,2 @@
+# Članak 13.
+Iznimno od odredbe članka 12. stavka 1. ovoga Pravilnika, na zapadnoj obali Istre od morske granice s Republikom Slovenijom do plićine Albanež u kursu 221o u pravcu vanjske granice teritorijalnog mora Republike Hrvatske, u razdoblju od 1. ožujka do 30. rujna, radi izlovljavanja muzgavaca dozvoljena je uporaba pridnene koće kod koje otvor oka ni na jednom dijelu ne smije biti manji od 30 milimetara, a na košulji (pokrovu) ne smije biti manji od 60 milimetara.
