@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 10. stavku t. točka 1. briše se. Točka 2. mijenja se i glasi: "2. za ortopedske cipele iz članka 16. točke 1, 3, 4, 6. i 10. općeg akta Republičkog fonda, u visini 20% od cijene, a za ostalu ortopedsku obuću iz toga članka, u visini 30% od cijene". Točka 2. postaje točka 1. U točki 7. iza riječi "te" dodaje se riječ "lijevane". Dosadašnje točke 3. do 13. postaju točke 1. do 12.

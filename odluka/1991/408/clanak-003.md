@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 10b. u stavku 1. iza točke 1. dodaje se nova točka koja glasi: "2. za vrijeme liječenja u dnevnom stacionaru, u iznosu od 50,00 dinara za svaki dan liječenja". U točki 2. na kraju rečenice umjesto točke, stavlja se zarez i dodaju riječi "osim kad se takvo liječenje ostvaruje kao nastavak bolničkog liječenja (premještaj) i tada se učešće plaća nastavno iznosu plaćenom prema točki 1. ovog stavka". Točka 2. postaje točka 3.
