@@ -1,0 +1,2 @@
+# Članak 17.
+Ministar zdravstva će zabraniti obavljanje poslova zdravstvene zaštite zdravstvenom radniku u organizaciji zdravstva ili njezinoj radnoj jedinici odnosno zdravstvenom radniku koji obavlja poslove zdravstvene zaštite samostalno osobnim radom, ako u roku od tri mjeseca po primitku odluke ne pristupi izobrazbi, odnosno ako istu ne dovrši u predviđenom roku ili ne udovolji programu izobrazbe.

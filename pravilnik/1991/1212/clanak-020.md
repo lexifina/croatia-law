@@ -1,0 +1,2 @@
+# Članak 20.
+Ministar zdravstva zabranit će obavljanje djelatnosti organizaciji zdravstva odnosno zdravstvenom radniku koji obavlja poslove zdravstvene zaštite samostalno osobnim radom ako na osnovu izvještaja o izvršenom nadzoru nad stručnim radom utvrđi da su nedostaci u radu takve prirode da bi nastavljanje djelatnosi moglo prouzročiti štetne posljedice ili opasnost po život i zdravlje korisnika zdravstvene zaštite i drugih građana.

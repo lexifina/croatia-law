@@ -1,0 +1,3 @@
+# Članak 13.
+Nakon primitka izvještaja ministar zdravstva odlučuje o predloženim mjerama koje treba poduzeti za otklanjanje nedostataka, donosi rješenje i utvrđuje rok za njihovo otklanjanje o čemu izvješćuje ravnatelja organizacije zdravstva odnosno zdravstvenog radnika koji obavlja poslove zdravstvene zaštite samostalno osobnim radom.
+Nakon isteka roka predviđenog za otklanjanje nedostataka ravnatelj organizacije zdravstva, odnosno zdravstveni radnik koji obavlja poslove zdravstvene zaštite samostalno osobnim radom dužan je odmah dostaviti pismeni izvještaj o poduzetim mjerama za otklanjanje nedostataka.

@@ -1,0 +1,4 @@
+# Članak 10.
+U slučaju neposredne opasnosti za život i zdravlje korisnika zdravstvene zaštite, kao i neposredne opasnosti od velike materijalne štete, stručnjaci u toku nadzora mogu pismeno narediti da se odmah poduzmu mjere radi otklanjanja tih opasnosti.
+Pismeno naređenje potpisuju stručnjaci koji su u tijeku obavljanja nadzora predložili mjere za otklanjanje opasnosti, a kopija naređenja dostavlja se ravnatelju organizacije zdravstva, odnosno zdravstvenom radniku koji obavlja poslove zdravstvene zaštite samostalno osobnim radom.
+Ravnatelj organizacije zdravstva, odnosno zdravstveni radnik koji obavlja poslove zdravstvene zaštite samostalno osobnim radom može uložiti prigovor ministru zdravstva na predložene mjere za otklanjanje opasnosti u roku od 24 sata od primitka koji će u daljnjem roku od 24 sata odlučiti o opravdanosti prigovora i donijeti odgovarajuće rješenje.
