@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98 i 15/2000) i članka 21. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 30/94 i 72/94), Vlada Republike Hrvatske je na sjednici održanoj 31. svibnja 2001. godine, donijela
