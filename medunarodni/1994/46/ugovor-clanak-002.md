@@ -1,0 +1,12 @@
+# Članak 2.
+DEFINICIJE
+Za svrhu ovog Ugovora:
+Izraz "prijevoznik" znači svaku fizičku ili pravnu osobu ovlaštenu za prevoženje osoba ili stvari u skladu sa zakonima, propisima i pravilima ugovornih stranaka.
+Izraz "vozilo" znači cestovo motorno vozilo namijenjeno za prijevoz osoba koje, osim sjedišta za vozača ima više od osam sjedišta, kojem može biti pridodana prikolica za prijevoz prtljage, odnosno cestovno motorno vozilo ili skup vozila koje se sastoji od vučnog vozila i prikolice ili poluprikolice, a namijenjeno je za prijevoz stvari.
+Izraz "dozvola" znači dozvole koje se izdaju za cestovna vozila registrirana u jednoj ugovornoj stranki, a od strane druge ugovorne stranke da bi se dozvolio ulazak, izlazak ili prijelaz preko teritorija ove druge ugovorne stranke, kao i ostale "dozvole" omogućene u skladu s onim Ugovorom.
+Izraz "kontingent" znači broj dozvola koje se godišnje izdaju od strane nadležnih organa svake od ugovornih stranaka.
+Izraz "redovne autobusne linije" znači prijevoz putnika između teritorija dviju ugovornih stranaka po unaprijed propisanoj ruti u skladu sa nacionalnim voznim redovima i tarifama, pri ćemu se putnici mogu ukrcavati ili iskrcavati na unaprijed određenim stajalištima.
+Izraz "redovne tranzitne autobusne linije" znaći redovne autobusne linije koje poćinju na teritoriju jedne od ugovornih stranaka, prelaze preko teritorija druge ugovorne stranke bez iskrcaja ili ukrcaja putnika i završavaju na teritoriju treće zemlje.
+Izraz "naizmjenični prijevoz" znači organizirani međunarodni prijevoz putnika koji su prethodno formirani u grupe u skladu sa duljinom njihovog boravka, od iste točke polaska do iste točke odredišta, i njihov povratak do točke polaska na kraju prethodno određenog perioda (putnici koji putuju u jednoj grupi moraju se svi vratiti sa istom grupom, pri čemu se prvi povratni prijevoz od i zadnji dolazni prijevoz do točke doredišta obavlja vozilom bez putnika).
+Izraz "vožnja zatvorenih vratiju" (turistički prijevozi) znači međunarodni prijevoz koji počinje i završava na teritoriju ugovorne stranke u kojoj je vozilo registrirano, pri čemu se ista grupa putnika prevozi istim vozilom na čitavom itinereru i vraća se u mjesto polaska, bez usputnog ukrcaja i iskrcaja putnika.
+Izraz "ti-anzitni prijevoz" znači prijevoz putnika i stvari preko teritorija jedne ugovorne stranke, između točaka polaska i odredišta koje se nalaze izvan teritorija te ugovorne stranke.
