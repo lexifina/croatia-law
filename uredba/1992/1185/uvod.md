@@ -1,0 +1,1 @@
+Na temelju članka 23. stavak 1. Zakona o Vladi Republike Hrvatske ("Narodne novine". broj 41/90, 8/91, 14/91. 53A/91 i 9/92) i članka 15. stavak 2. Zakona o inspekciji rada ("Narodne novine", broj 9/83,17/86 i 9/91), Vlada Republike Hrvatske na sjednici održanoj 23. srpnja 1992. godine donijela je
