@@ -1,0 +1,1 @@
+Na temelju članka 56. Zakona o samostalnom obavljaju privrednih djelatnosti osobnim radom ("Narodne novine", br 19/90 i 53/90) i članka 2. stavka 3. Zakona o Hrvatskoj gospodarskoj komori ("Narodne novine". br. 66/91) i članka 35. i 99. stavka 1. Statuta Skupština Saveza udruženja samostalnih privrednika Hrvatske na sjednici 26. veljače 1992. donijela je
