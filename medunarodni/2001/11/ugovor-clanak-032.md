@@ -1,0 +1,4 @@
+# Članak 32.
+STUPANJE NA SNAGU
+1. Ovaj Ugovor stupa na snagu tridesetog dana od datuma primitka zadnje obavijesti, diplomatskim putem u pisanom obliku, koja ukazuje na završetak unutarnjih pravnih postupaka nužnih u svakoj zemlji za stupanje na snagu ovog Ugovora. Ovaj Ugovor primjenjivat će se na dohodak stečen ili nastao i imovinu posjedovanu tijekom poreznih godina i razdoblja započetih na ili nakon 1. siječnja kalendarske godine koja slijedi iza godine u kojoj je ovaj Ugovor stupio na snagu.
+2. S obzirom na odnose između Hrvatske i Nizozemske, Sporazum između Kraljevine Nizozemske i Socijalističke Federativne Republike Jugoslavije o izbjegavanju dvostrukog oporezivanja porezima na dohodak i na imovinu potpisan u Beogradu 22. veljače 1982. godine, prestat će se primjenjivati nakon stupanja na snagu ovog Ugovora. Odredbe tog Sporazuma, međutim, nastavit će se primjenjivati za porezne godine i razdoblja koja isteknu prije stupanja na snagu ovog Ugovora.

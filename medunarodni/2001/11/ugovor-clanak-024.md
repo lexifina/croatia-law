@@ -1,0 +1,15 @@
+# Članak 24.
+OFFSHORE AKTIVNOSTI
+1. Odredbe ovog članka primjenjuju se neovisno o drugim odredbama ovog Ugovora. Međutim, ovaj se članak ne primjenjuje kad offshore aktivnosti osobe čine stalnu poslovnu jedinicu te osobe prema odredbama članka 5. ili njeno stalno sjedište prema odredbama članka 14.
+2. U ovom članku izraz "offshore aktivnosti" znači aktivnosti koje se vrše offshore u svezi s istraživanjem ili iskorištavanjem podmorja i njegovog dna i njihovih prirodnih bogatstava, smještenih u državi ugovornici.
+3. U skladu sa stavkom 4. ovog članka, smatra se da društvo države ugovornice koje obavlja offshore aktivnosti u drugoj državi ugovornici, obavlja posao u svezi s tim aktivnostima putem stalne poslovne jedinice smještene u drugoj državi, osim ako se te offshore aktivnosti ne obavljaju u drugoj državi u razdoblju ili razdobljima koja sveukupno ne prelaze 30 dana u bilo kojem razdoblju od 12 mjeseci.
+Za potrebe ovog stavka:
+a) kada je društvo koje obavlja offshore aktivnosti u drugoj državi ugovornici povezano s drugim društvom i kada to drugo društvo nastavi, kao dio istog projekta, iste offshore aktivnosti koje obavlja ili je obavljalo prvospomenuto društvo i kada gore spomenute aktivnosti koje obavljaju oba društva, u ukupnom zbroju prelaze razdoblje od 30 dana, smatra se da svako društvo obavlja svoje aktivnosti u razdoblju koje prelazi razdoblje od 30 dana u 12 mjesečnom razdoblju;
+b) smatra se da je jedno društvo povezano s drugim društvom ako jedno od njih izravno ili neizravno posjeduje najmanje trećinu kapitala drugog društva ili ako jedna osoba izravno ili neizravno posjeduje najmanje trećinu kapitala oba društva.
+4. Međutim, za potrebe stavka 3. ovog članka izraz "offshore aktivnosti" ne uključuje:
+a) jednu ili bilo koju kombinaciju aktivnosti spomenutih u članku 5. stavak 4.;
+b) postupak tegljenja i sidrenja što ga obavljaju brodovi posebno namijenjeni za tu svrhu i bilo koje druge aktivnosti što ih obavljaju ti brodovi;
+c) prijevoz robe i osoblja brodom i zrakoplovom u međunarodnom prometu.
+5. Smatra se da rezident države ugovornice koji obavlja offshore aktivnosti u drugoj državi ugovornici koje se sastoje od profesionalnih usluga ili drugih samostalnih aktivnosti, obavlja te aktivnosti iz stalnog sjedišta u drugoj državi ugovornici ako one neprekidno traju 30 ili više dana.
+6. Plaće i druga slična primanja koja rezident države ugovornice ostvari u svezi sa zaposlenjem koje je povezano s offshore aktivnostima koje se obavljaju putem stalne poslovne jedinice u drugoj državi ugovornici, mogu se oporezivati u toj drugoj državi do opsega do kojeg je to zaposlenje izvršeno offshore u toj drugoj državi.
+7. Kada iz dokumenata jasno proizlazi da je porez bio plaćen u Hrvatskoj na dijelove dohotka koji mogu biti oporezivani u Hrvatskoj u skladu s člankom 7. i člankom 14., a u svezi sa stavcima 3., 5. i 6. ovog članka, Nizozemska će odobriti smanjenje svog poreza koji je obračunat u skladu s pravilima utvrđenim u stavku 3. (točka b) članka 23.
