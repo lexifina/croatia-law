@@ -1,0 +1,2 @@
+# Članak 5.
+Iznimno od odredbi članka drugog i četvrtog ovoga pravilnika Ministarstvo prosvjete i športa može utvrditi i druge nadnevke početka i završetka nastavne godine te nadnevke početka i završetka odmora učenika za škole pojedine županije odnosno Grada Zagreba ako, na prijedlog županijskog ureda odnosno Gradskog ureda za obrazovanje i šport Grada Zagreba, utvrdi da za to postoji opravdan razlog.
