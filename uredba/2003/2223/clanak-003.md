@@ -1,0 +1,9 @@
+# Članak 3.
+U članku 3. u stavku 1. briše se točka i dodaje sljedeći tekst: »te na jedinice lokalne samouprave koje financiraju decentralizirane funkcije vatrogastva.«.
+U stavku 2. iza riječi: »4. Zdravstvo 2,5%« briše se točka, stavlja zarez i dodaju riječi:
+»5. Vatrogastvo
+- javne vatrogasne postrojbe 1%.«.
+Stavak 3. mijenja se i glasi:
+»Korisnici pomoći izravnanja ostvaruju pravo na sredstva iz Državnog proračuna Republike Hrvatske za 2003. godinu, sa Razdjela 025, Glave 06 Dodatna sredstva izravnanja za decentralizirane funkcije - 3631 Tekuće pomoći unutar opće države, ako iz dodatnog udjela poreza na dohodak iz stavka 2. ovog članka ne ostvare sredstva do iznosa prenesene obveze za decentralizirane funkcije za 2003. godinu, utvrđenog u Zbirnom pregledu sredstava za decentralizirane funkcije za 2003. godinu po županijama - Tablica 0, Pregledu sredstava za decentralizirane funkcije za osnovno školstvo po županijama u 2003. godini - Tablica 1. žup., Pregledu sredstava za decentralizirane funkcije za osnovno školstvo po gradovima u 2003. godini - Tablica 1. grad. i Pregledu sredstava za decentraliziranu funkciju vatrogastva po općinama/gradovima za razdoblje od 1. rujna do 31. prosinca 2003. godine - Tablica 2. općine/gradovi« u daljnjem tekstu: Pregled, koji su sastavni dio ove Uredbe.«.
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»Ako općina, grad ili Grad Zagreb koji financira decentraliziranu funkciju vatrogastva (javnih vatrogasnih postrojbi) od dodatnog udjela od poreza na dohodak, na godišnjoj razini, ostvari više sredstava nego je to određeno minimalnim standardom, nalogom Ministarstva financija, višak sredstava treba vratiti na račun Državnog proračuna Republike Hrvatske 2003. godine, pozicija A 539150 DODATNA SREDSTVA IZRAVNANJA ZA DECENTRALIZIRANE FUNKCIJE.«.
