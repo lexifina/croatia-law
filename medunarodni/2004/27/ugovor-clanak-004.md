@@ -1,0 +1,9 @@
+# Članak 4.
+REZIDENT
+1. U ovome Ugovoru izraz »rezident države ugovornice« označava svaku osobu koja, prema propisima te države, u njoj podliježe oporezivanju na temelju svoga prebivališta, boravišta, mjesta registracije, mjesta uprave ili nekoga drugog obilježja slične prirode, i također uključuje tu državu i njenu lokalnu vlast. Međutim, ovaj izraz ne obuhvaća osobu koja u toj državi podliježe oporezivanju samo dohotka iz izvora u toj državi ili imovine koja se u njoj nalazi.
+2. Ako je prema odredbama stavka 1. fizička osoba rezident obiju država ugovornica, onda se njezin status određuje na sljedeći način:
+a) smatra se rezidentom samo one države u kojoj ima prebivalište; ako ima prebivalište u objema državama, smatrat će se rezidentom samo one države s kojom ima uže osobne i gospodarske veze (središte životnih interesa);
+b) ako se ne može odrediti u kojoj državi ima središte životnih interesa ili ako ni u jednoj državi nema prebivalište, smatrat će se rezidentom samo one države ugovornice u kojoj ima uobičajeno boravište;
+c) ako osoba ima uobičajeno boravište u objema državama ili ga nema ni u jednoj od njih, smatrat će se rezidentom samo one države ugovornice čiji je državljanin;
+d) ako ga obje države smatraju vlastitim državljaninom ili ako nije državljanin nijedne od njih, nadležna tijela država ugovornica riješit će pitanje međusobnim dogovorom.
+3. Kad je, sukladno odredbama stavka 1., osoba koja nije fizička, rezident obiju država ugovornica, tada će se smatrati rezidentom samo one države ugovornice u kojoj se nalazi njezino mjesto stvarne uprave. Ako se država u kojoj se nalazi njezino mjesto stvarne uprave ne može odrediti, nadležna tijela država ugovornica riješit će to pitanje međusobnim dogovorom.
