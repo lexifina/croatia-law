@@ -1,0 +1,6 @@
+# Članak 15.
+PRAVO NA NAKNADU ZA EMITIRANJE I PRIOPĆAVANJE JAVNOSTI
+1. Umjetnici izvođači i proizvođači fonograma uživaju pravo na jedinstvenu pravičnu naknadu za neposrednu ili posrednu uporabu fonograma izdanih u komercijalne svrhe za emitiranje ili za bilo koje priopćavanje javnosti.
+2. Ugovorne stranke mogu svojim nacionalnim zakonodavstvom odrediti da jedinstvenu pravičnu naknadu mogu od korisnika zahtijevati umjetnik izvođač ili proizvođač fonograma ili oba. Ugovorne stranke mogu odrediti nacionalnim zakonodavstvom, kad nedostaje sporazum između umjetnika izvođača i proizvođača fonograma, uvjete prema kojima će umjetnici izvođači i proizvođači fonograma dijeliti jedinstvenu pravičnu naknadu.
+3. Svaka ugovorna stranka može, u notifikaciji koja se polaže kod glavnog direktora WIPO-a, izjaviti da će odredbe iz stavka 1. primjenjivati samo u pogledu određenih uporaba, ili da će njihovu primjenu ograničiti na neki drugi način, ili da uopće neće primjenjivati te odredbe.
+4. Za potrebe ovog članka, smatra se da su fonogrami koji su stavljeni na raspolaganje javnosti putem žica ili bez žica na način da im svatko može pristupiti s mjesta i u vrijeme koje pojedinačno odabere, izdani u komercijalne svrhe.

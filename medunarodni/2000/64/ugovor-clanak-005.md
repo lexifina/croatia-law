@@ -1,0 +1,6 @@
+# Članak 5.
+MORALNA PRAVA UMJETNIKA IZVOĐAČA
+1. Neovisno o imovinskim pravima umjetnika izvođača, čak i nakon prijenosa tih prava, umjetnik izvođač ima, u pogledu svojih zvučnih izvedbi uživo ili izvedbi fiksiranih na fonograme, pravo zahtijevati da bude označen kao izvođač svojih izvedbi, osim ako je izostavljanje diktirano načinom uporabe te izvedbe, i protiviti se bilo kakvom iskrivljavanju, sakaćenju ili drugim promjenama njegovih izvedbi koje bi štetile njegovu ugledu.
+2. Prava priznata umjetniku izvođaču u skladu sa stavkom 1., održat će se nakon njegove smrti najmanje do isteka imovinskih prava, a moći će ih izvršavati osobe ili ustanove ovlaštene zakonodavstvom ugovorne stranke u kojoj se zaštita zahtijeva. Međutim, ugovorne stranke čije zakonodavstvo u vrijeme ratifikacije ili pristupa ovom Ugovoru, ne predviđa, nakon smrti umjetnika izvođača, zaštitu svih prava iz prethodnog stavka, mogu predvidjeti da se neka od tih prava prestanu održavati nakon njegove smrti.
+3. Sredstva za očuvanje prava priznatih ovim člankom određuju se prema zakonodavstvu ugovorne stranke u kojoj se zaštita zahtijeva.
+3. Sredstva za očuvanje prava priznatih ovim člankom određuju se prema zakonodavstvu ugovorne stranke u kojoj se zaštita zahtijeva.
