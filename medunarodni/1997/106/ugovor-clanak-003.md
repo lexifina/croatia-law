@@ -1,0 +1,5 @@
+# Članak 3.
+Eksproprijacija i naknada
+1. Ulaganja se neće eksproprirati, nacionalizirati te izravno ili neizravno potpasti pod mjere koje imaju sličan učinak, osim ako se to čini u javnom interesu, na nediskriminatorski način, i uz plaćanje pravovremene i odgovarajuće naknade, a sve prema zakonskom postupku i općim načelima uvjeta navedenim u članku 2. ovog Ugovora.
+2. Takva naknada mora biti jednaka tržišnoj vrijednosti koju je eksproprirano ulaganje imalo prije no što je eksproprijacija izvršena ili obavljena. Naknada mora biti plaćena bez odlaganja i biti potpuno prenosiva kako je navedeno u stavku 2. članak 4.
+3. Ulagatelji obiju ugovornih stranki čija ulaganja trpe štetu na teritoriju druge ugovorne stranke radi rata, ustanka, građanskih nereda ili drugih sličnih događaja imaju pravo dobiti od te druge ugovorne stranke iste uvjete koji su ponuđeni domaćim ulagateljima ili ulagateljima iz treće zemlje, koje god od toga bude povoljnije, a u svezi s mjerama koje ta ugovorna stranka usvoji glede takvih šteta.
