@@ -1,0 +1,3 @@
+# Članak 25.
+Ako se prilikom tehničkog pregleda utvrdi da na izgrađenom rudarskom objektu ili postrojenju postoje nedostaci koji se mogu otkloniti, tijelo državne uprave koje je izdalo dozvolu za građenje pozvat će rudarsko trgovačko društvo ili rudarskog obrtnika da ih otkloni u određenom roku.
+Ako rudarsko trgovačko društvo ili rudarski obrtnik u određenom roku ne otklone utvrđene nedostatke, ili ako se prilikom tehničkog pregleda utvrdi da se nedostaci izgrađenog rudarskog objekta odnosno postrojenja ne mogu otkloniti, tijelo iz članka 24. stavka 1. ovoga pravilnika odbit će zahtjev za izdavanje dozvole za uporabu.

@@ -1,0 +1,3 @@
+# Članak 10.
+Rješenje kojim je odobreno eksploatacijsko polje za eksploataciju mineralnih sirovina iz članka 3. točke 1. do 6. Zakona o rudarstvu i zemljovid eksploatacijskog polja bit će dostavljeno podnositelju zahtjeva, županijskim tijelima državne uprave nadležnim za poslove rudarstva i prostornog uređenja, te općini ili gradu na čijem se području nalazi eksploatacijsko polje.
+Rješenje kojim je odobreno eksploatacijsko polje za eksploataciju mineralnih sirovina iz članka 3. točke 7. Zakona o rudarstvu, županijsko tijelo državne uprave nadležno za poslove rudarstva dužno je dostaviti Ministarstvu gospodarstva, županijskom tijelu državne uprave nadležnom za poslove prostornog uređenja, te općini ili gradu na čijem se području nalazi eksploatacijsko polje.
