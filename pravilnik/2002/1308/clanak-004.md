@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Mirovinsko društvo je obvezno u pisanom obliku obavijestiti Agenciju za nadzor mirovinskih fondova i osiguranja (u daljnjem tekstu: Agencija) o neto imovinskoj vrijednosti i vrijednosti obračunske jedinice svog fonda na zadnji radni dan zadnjeg mjeseca tekućeg tromjesečja i na zadnji radni dan prije 12 mjeseci te stopi nominalnog prinosa iz članka 2. stavka 1. ovoga pravilnika za navedeno razdoblje i to najkasnije tri radna dana od zadnjeg radnog dana zadnjeg mjeseca prethodnog tromjesečja)
+(2) Mirovinsko društvo je obvezno obavijestiti Agenciju o stopi realnog prinosa iz članka 2. stavka 2. ovoga pravilnika, najkasnije tri radna dana od objave stope inflacije za prethodnu godinu Državnog zavoda za statistiku.
