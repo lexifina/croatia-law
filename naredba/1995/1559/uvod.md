@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 5. Zakona o priznavanju novostvorenih, odobravanju uvođenja u proizvodnju stranih i zaštiti sorti poljoprivrednog i šumskog bilja ("Narodne novine", Mr. 53/91 i 26/93), ministar poljoprivrede i šumarstva izdaje
