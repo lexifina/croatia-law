@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom, sukladno odredbi članka 13. Zakona o privatizacijskim investicijskim fondovima ("Narodne novine" br. 109/97.), utvrđuju se pravila i mjerila prema kojima je društvo za upravljanje investicijskim fondovima (u daljnjem tekstu: Društvo) obvezno procijeniti ukupnu vrijednost dionica koje je prikupilo u kuponskoj privatizaciji zamjenom za privatizacijske kupone, radi osnivanja privatizacijskog investicijskog fonda.
+(2) Ovim Pravilnikom također se propisuje dodatni obvezni sadržaj izvješća o osnivanju privatizacijskog investicijskog fonda, u dijelu u kojem se izvješće odnosi na procjenu vrijednosti prikupljenih dionica.
