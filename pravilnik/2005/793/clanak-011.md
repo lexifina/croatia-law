@@ -1,0 +1,8 @@
+# Članak 11.
+Proizvođač mora osigurati sustav vođenja dokumentacije koji se temelji na zahtjevima kakvoće proizvoda, proizvodnoj recepturi, uputama za proizvodnju i postupke opremanja gotovog proizvoda, te radnim postupcima i zapisima koji pokrivaju različite proizvodne aktivnosti. Dokumentacija mora biti jasna i ažurirana.
+Dokumentacija iz stavka 1. ovoga članka mora omogućiti uvid u slijed proizvodnih postupaka svake proizvedene serije lijeka kao i promjene tijekom razvoja lijeka namijenjenog ispitivanju.
+Dokumentaciju o seriji lijeka treba držati pohranjenu najmanje godinu dana nakon isteka roka valjanosti serije na koju se odnosi ili 5 godina nakon stavljanja serije lijeka u promet, ovisno o tome koje je razdoblje dulje.
+Proizvođač lijeka namijenjenog ispitivanju, dokumentaciju o seriji lijeka namijenjenog ispitivanju mora čuvati najmanje 5 godina nakon završetka posljednjega kliničkog ispitivanja u kojem je serija lijeka korištena.
+Ako se koriste elektronički, fotografski ili neki drugi sustavi pohrane podataka, proizvođač mora validirati sustav dokazujući da će podaci biti sačuvani tijekom predviđenog roka. Kada se koriste elektronički zapisi, mora postojati zaštita od neovlaštenog ulaska u bazu podataka te neizbrisivi zapis svakog unosa ili pregleda baze s podatkom o osobi koja je taj posao obavljala.
+Podatke evidentirane na način opisan u stavku 5. ovoga članka potrebno je zaštititi od gubitka ili oštećenja izradom kopija ili prijenosom u drugi sustav pohrane podataka, a podaci o provedenom postupku trebaju se pohraniti.
+Podaci koji su pohranjeni na način opisan u ovom članku trebaju biti dostupni i čitljivi i moraju se dostaviti nadležnom tijelu na njegov zahtjev.

@@ -1,0 +1,5 @@
+# Članak 12.
+Različite proizvodne postupke treba provoditi prema unaprijed postavljenim pisanim uputama i postupcima te u skladu s dobrom proizvođačkom praksom. Za provođenje procesne provjere moraju se osigurati primjerena i dostatna sredstva. Sva odstupanja od postupaka i oštećenja proizvoda moraju biti na odgovarajući način dokumentirana i temeljito istražena.
+U cilju sprječavanja unakrsne kontaminacije ili podmješavanja treba poduzeti sve potrebne tehničke, odnosno organizacijske mjere. U slučaju lijeka namijenjenog ispitivanju, posebna pažnja mora se obratiti na rukovanje lijekom tijekom i nakon bilo kojeg postupka maskiranja identiteta lijeka.
+Svaki novi proizvodni postupak ili važniju izmjenu postojećeg proizvodnog postupka potrebno je validirati. Kritične faze proizvodnog postupka treba obvezno revalidirati u određenim vremenskim periodima.
+Za lijek namijenjen ispitivanju proizvodni proces treba validirati u potpunosti, uzimajući u obzir stupanj razvoja proizvoda. Svakako moraju biti validirane kritične faze procesa, kao što je sterilizacija. Sve faze dizajna i razvoja proizvodnog procesa moraju biti u potpunosti dokumentirane.
