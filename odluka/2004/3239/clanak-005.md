@@ -1,0 +1,5 @@
+## ZAVRŠNE ODREDBE
+# Članak 5.
+Timovima kojima gravitira više od maksimalno dopuštenog broja osiguranih osoba, a Mreža se iz objektivnih razloga ne može popuniti, iznimno se dopušta ugovaranje svih stvarno opredijeljenih osiguranih osoba.
+Zavod i domovi zdravlja mogu za djelatnost za koju ne postoji dostatan broj doktora specijalista sklopiti ugovor za »tim bez nositelja« koji se ugovara prema stvarnom broju opredijeljenih osiguranih osoba.
+Ako timu gravitira značajno veći broj osiguranih osoba od onog koji je opredijeljen timu na punktu, odnosno ako na području gdje je broj timova usklađen s odredbama Mreže zdravstvene djelatnosti, a tim iz iste djelatnosti zbog broja opredijeljenih osiguranih osoba primjenom odredaba iz ove Odluke ostvaruje godišnje 25% sredstava više od godišnje novčane vrijednosti standardnog tima, novčana naknada za tim obračunava se s koeficijentom prve niže skupine od koeficijenta skupine koja mu inače pripada prema mjerilima propisanim ovom Odlukom, a kada nema niže skupine tim se ugovara prema stvarnom broju opredijeljenih osiguranih osoba.
