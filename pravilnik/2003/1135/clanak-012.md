@@ -1,0 +1,3 @@
+# Članak 12.
+Ako pripravnik tijekom pripravničkog staža prijeđe u drugu školu, stažiranje se nastavlja u školi u koju je prešao. Škola u kojoj je ostvaren dio pripravničkog staža obvezna je sastaviti izvješće (tiskanica - SI-2) o ostvarenom pripravničkom stažu. Jedan primjerak izvješća šalje se zajedno s popratnom dokumentacijom u školu u koju je pripravnik prešao, a drugi se predaje osobno pripravniku.
+U slučajevima kao što su dulje bolovanje, vojna obveza, porodiljski dopust i sl., pripravnički staž se prekida, a nastavlja se kad navedeni razlozi prestanu, o čemu škola izvješćuje Ministarstvo - Zavod.

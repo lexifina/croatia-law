@@ -1,0 +1,1 @@
+Na temelju članka 75. Zakona o osnovnom školstvu (»Narodne novine«, broj 59/90., 26/93., 27/93., 7/96., 59/01. i 114/01.) i članka 80. stavka 5. Zakona o srednjem školstvu (»Narodne novine« broj, 19/92., 27/93., 50/95., 59/01. i 114/01.), ministar prosvjete i športa donosi

@@ -1,0 +1,3 @@
+# Članak 28.
+Vjeroučitelji katoličkog vjeronauka zaposleni u osnovnoj ili srednjoj školi u prijelaznom razdoblju uvođenja vjeronauka kao izbornog nastavnog predmeta koji su do dana stupanja na snagu Pravilnika o izmjenama i dopunama Pravilnika o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom i srednjem školstvu (»Narodne novine« broj 148/99) stekli potrebnu stručnu spremu nisu obvezni polagati stručni ispit.
+Vjeroučitelji drugih konfesija zaposleni s propisanom stručnom spremom u osnovnoj ili srednjoj školi prije stupanja na snagu ovoga pravilnika nisu obvezni polagati stručni ispit.
