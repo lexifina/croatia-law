@@ -1,0 +1,2 @@
+# Članak 12.
+Visina naknade za obvezni veterinarsko-sanitarni pregled i kontrolu iz članaka 7. i 8. ovog pravilnika može se utvrditi prema radnom vremenu ovlaštenog veterinarskog inspektora raspoređenog na poslove i zadatke veterinarsko-sanitarnog pregleda i kontrole u visini obraćunskog sata prema cjeniku veterinarske stanice, ako se proces rada ne odvija kontinuirano ili planovi klanja i prerade u većoj mjeri podbacuju.

@@ -1,0 +1,4 @@
+## o visini naknade ža obvezne veterinarsko-sanitarne preglede i kontrole
+# Članak 1.
+Za obavljeni obvezni veterinarsko-sanitarni pregled i kontrolu pošiljke životinja, proizvoda životinjskog podrijetla i otpadne animalne tvari namijenjene utilizaciji iz članke 40. stavka 1. i članka 44. stavka 1. i 2. Zakona o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti ("Narodne novine", broj 52/91 - u daljem tekstu: Zakon), kopitara, papkara, peradi i kunića prije klanja; mesa kopitara, papkara, peradi, kunića i divljači, ribe, mlijeka i jaja te proizvoda od mesa, ribe, mlijeka i jaja, med, rakovi, školjke, puževi i žabe te proizvodi od rakova, školjki, puževa i žaba koji su namijenjeni javnoj potrošnji iz članka 51. stavka 1. Zakona, plača se naknada.
+Naknada za obvezne veterlnarsko-sanitarne preglede i kontrole utvrđuje se u fiksnom iznosu.
