@@ -1,0 +1,4 @@
+# Članak 4.
+Zimski odmor učenika počinje 22. prosinca 2001. godine u petodnevnom radnom tjednu, odnosno 23. prosinca 2001. godine u šestodnevnom radnom tjednu, a završava 6. siječnja 2002. godine.
+Proljetni odmor učenika Zadarske, Šibensko-kninske, Splitsko-dalmatinske i Dubrovačke županije počinje 28. ožujka, a završava 1. travnja 2002. godine. Proljetni odmor učenika iz ostalih županija počinje 25. ožujka, a završava 1. travnja 2002. godine.
+Ljetni odmor učenika Zadarske, Šibensko-kninske, Splitsko-dalmatinske i Dubrovačko-neretvanske županije počinje 8. lipnja 2002. godine u petodnevnom radnom tjednu, odnosno 9. lipnja 2002. godine u šestodnevnom radnom tjednu. Ljetni odmor učenika ostalih županija počinje 15. lipnja 2002. godine u petodnevnom radnom tjednu, odnosno 16. lipnja 2002. godine u šestodnevnom radnom tjednu.
