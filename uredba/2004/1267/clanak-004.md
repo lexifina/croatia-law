@@ -1,0 +1,2 @@
+# Članak 4.
+U Kabinetu ravnatelja obavljaju se protokolarni i drugi poslovi za ravnatelja i njegova zamjenika, poslovi u svezi s informiranjem javnosti i odnosima sa sredstvima javnog priopćavanja, poslovi međunarodne suradnje, pribavljanja dokumentacije i materijala od ustrojstvenih jedinica Zavoda te njihovog pravodobnog zaprimanja, rješavanja i dostavljanja, pohranu pošte označene određenim stupnjem tajnosti, izrađivanje i čuvanje zapisnika sa stručnih kolegija i drugih sastanaka, te drugi stručni i administrativni poslovi za ravnatelja i njegova zamjenika.

@@ -1,0 +1,2 @@
+# Članak 5.
+Uz Kabinet ravnatelja utvrđuju se samostalni izvršitelji - savjetnici za posebne službene potrebe Zavoda. Poslovi savjetnika ravnatelja zahtijevaju neovisnost i posebno postupanje, a obuhvaćaju osobito: poslove unutarnje kontrole - nadzora pravilnosti korištenja proračunskih sredstava, poslovi marketinga, te poslove standardizacije, prihvaćanja i obrade meteoroloških i hidroloških propisa i ključeva.
