@@ -1,0 +1,5 @@
+# Članak 12.
+Predsjednik Centra predstavlja Centar, predlaže imenovanje i razrješenje izmiritelja na Listu izmiritelja te, imenuje izmiritelje u pojedinim postupcima mirenja, ukoliko ih nisu izabrale same stranke, te donosi druge odluke u skladu s ovim Pravilnikom.
+Predsjedništvo prati primjenu propisa i drugih akata koji se primjenjuju u radu Centra, priprema i predlaže Upravnom odboru HOK-a promjenu tih akata radi njihova usklađivanja sa zakonodavstvom RH kao i praksom u području mirenja.
+Predsjedništvo Centra, uz suglasnost Upravnog odbora HOK-a, organizira stručne skupove, tečajeve za izmiritelje i savjetovanja radi promoviranja instituta mirenja i djelatnosti Centra u javnosti, a posebno među članovima Hrvatske obrtničke komore.
+Predsjednik i Predsjedništvo Centra, u skladu s odlukama odnosno u dogovoru s nadležnim tijelima HOK-a mogu poduzeti aktivnosti radi uspostavljanja suradnje s organizacijama koje se bave sličnom djelatnošću, te s redovnim sudovima, tijelima državne vlasti, tijelima državne uprave, te drugim domaćim i stranim institucijama.

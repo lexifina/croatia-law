@@ -1,0 +1,1 @@
+Na temelju točke III. Odluke Skupštine Hrvatske obrtničke komore od 30. 6. 2004. g. u svezi s provođenjem Zakona o mirenju (»Narodne novine« br. 163/2003), Upravni odbor Hrvatske obrtničke komore na svojoj 23. sjednici održanoj 30. ožujka 2005. godine donosi
