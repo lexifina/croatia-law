@@ -1,0 +1,4 @@
+1. U skladu s Uredbom o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina ("Narodne novine", broj 91/94) novčane naknade za tjelesno oštećenje ostvarene do 1. prosinca 1994. ili poslije tog dana određuju se od 1. prosinca 1994. od osnovice za određivanje visine novčane naknade za tjelesno oštećenje u skladu s člankom 41. Zakona o mirovinskom i invalidskom osiguranju vojnih osiguranika, koja iznosi 1056,20 kn.
+2. Novčane naknade za tjelesno oštećenje određene od osnovice navedene u točki 1. ove odluke, povećavaju se od 1. prosinca 1994. za 21,51%.
+3. Određivanje novčanih naknada za tjelesno oštećenje prema točki 1. i povećanje novčanih naknada prema točki 2. ove odluke, obavit će se po službenoj dužnosti, bez donošenja rješenja.
+4. Ova odluka stupa na snagu idućeg dana od dana objave u "Narodnim novinama".
