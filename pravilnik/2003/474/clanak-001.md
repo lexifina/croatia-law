@@ -1,0 +1,4 @@
+## o odreĐivanju podruČja stalnog meĐunarodnog cestovnog graniČnog prijelaza II. kategorije Hrvatska Kostajnica
+# Članak 1.
+Područje stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Hrvatska Kostajnica smješteno je u Hrvatskoj Kostajnici, ulica Kreše Hajdića, na dijelovima k.č. 1450, 1451, 1440 i 1468 k.o. Hrvatska Kostajnica, a proteže se ulicom Kreše Hajdića od k.br. 3 gdje je postavljena ploča s oznakom graničnog prijelaza, do početka mosta preko Unčice. Dužina područja iznosi 46 metara, dok je širina najšireg dijela 27,3 metra. Područje graničnog prijelaza obuhvaća jednu ulaznu i jednu izlaznu prometnu traku, tri kontejnera sa sanitarnim čvorom koriste službenici policije i carine Republike Hrvatske te tri kontejnera sa sanitarnim čvorom koje koriste službenici Državne granične službe i carine Bosne i Hercegovine.
+Ukupna površina područja graničnog prijelaza iznosi 978 m2.
