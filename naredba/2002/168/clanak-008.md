@@ -1,0 +1,2 @@
+# Članak 8.
+Ukoliko se analizom iz članka 7. stavka 2. ove Naredbe potvrdi da se radi o zarazi krumpirovim cistolikim nematodama, proizvedeni krumpir može se koristiti samo u konzumne svrhe. Krumpir se mora u cijelosti očistiti od tla (uređajima za četkanje ili pranje gomolja vodom) unutar karantenskog područja, a prije stavljanja u promet mora biti pakiran isključivo u novu, neupotrebljavanu ambalažu.
