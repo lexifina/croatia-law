@@ -1,0 +1,3 @@
+## o izinjenaina i dopunama Pravilnika o naičnu utvrđivanja vrijednosti i kvalitete stana te načinu i postupku utvriđivanja visine stanarine za pojedini stan
+# Članak 1.
+U Pravilniku o načinu utvrdivanja vrijednosti i kvalitete stana te načinu i postupku utvrđivanja visine stanarine za pojedini stan ("Narodne novine", br. 20/87 i 49/90), članak 4. mijenja se i glasi: "Prosječni troškovi građenja kvadratnog metra stana na području općina odnosno grada (T) i minimalni postotak od kvalitete i vrijednosti stana (p), određuje se najmanje tromjesečno, a objavljuje ih Ministarstvo graditeljstva i zaštite okoliša."
