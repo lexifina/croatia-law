@@ -1,0 +1,1 @@
+Na temelju člana 22. Zakona o fondovima zajedničkih rezervi ("Narodne novine" br. 9/78,12/78,13/78,15/78 i 7/88) generalni direktor Službe društvenog knjigovodstva u Republici Hrvatskoj u suglasnosti s republičkim ministrom za financije donosi
