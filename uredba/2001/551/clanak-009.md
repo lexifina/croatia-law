@@ -1,0 +1,3 @@
+# Članak 9.
+Ministarstvo gospodarstva može obaviti raspodjelu kvota iz Priloga 1. ove Uredbe odjednom ili više puta godišnje, pri čemu raspodjela ukupne kvote mora biti obavljena najmanje mjesec dana prije isteka godine.
+Ako su podneseni zahtjevi za raspodjelu kvota za određeni proizvod manji od kvote iz Priloga 1. ove Uredbe za određeni proizvod ili unutar roka određenog za uvoz robe nije u cijelosti izvršen uvoz u dodijeljenoj količini, ministar gospodarstva može, na prijedlog Povjerenstva iz članka 4. ove Uredbe, objaviti ponovnu raspodjelu kvota za taj proizvod i odrediti rok za podnošenje zahtjeva.

@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o potvrđivanju Protokola o pristupanju Republike Hrvatske Marakeškom ugovoru o osnivanju Svjetske trgovinske organizacije (»Narodne novine - Međunarodni ugovori«, broj 13/2000) i članaka 2. i 4. Zakona o carinskoj tarifi (»Narodne novine«, br. 61/2000 i 125/2000), Vlada Republike Hrvatske je na sjednici održanoj 5. travnja 2001. godine, donijela
