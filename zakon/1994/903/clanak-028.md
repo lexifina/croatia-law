@@ -1,0 +1,2 @@
+# Članak 28.
+Porezni obveznik iz članka 5. ovoga Zakona koji izvozi alkohol ili alkoholna pića obvezan je nadležnoj carinarnici, prema svome sjedištu, do kraja mjeseca dostaviti, kopije carinskih deklaracija s potvrdom nadležne carinarnice da je obavljeno izvozno carinjenje i da je alkohol ili alkoholno piće napustilo područje Republike Hrvatske, i to za sve količine alkohola i alkoholnih pića izvezenih u prethodnom mjesecu.
