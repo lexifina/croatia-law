@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03, 198/03, 105/04, 174/04) Nacionalno vijeće za znanost na 5. sjednici održanoj 1. ožujka 2005. godine donijelo je
