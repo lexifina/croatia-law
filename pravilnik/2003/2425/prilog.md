@@ -1,0 +1,42 @@
+Prilog A
+(Memorandum banke garanta)
+Na zahtjev tvrtke --------- iz -------- kao nalogodavaca za izdavanje ove bankovne garancije (u daljnjem tekstu: nalogodavac), sukladno članku 5. Pravilnika o načinu polaganja, povratu ili unovčavanju instrumenata osiguranja za namirenje troškova čuvanja i održavanja robe pri provedbi carinskih mjera zbog povrede prava intelektualnog vlasništva (»Narodne novine«, br. 167/03), ------------ d.d., --------- kao banka garant izdaje
+BANKOVNU GARANCIJU br. …
+1. Ova bankovna garancija važi kao instrument za zajedničko osiguranje za namirenje naknade svih troškova čuvanja i održavanja robe iz članka 11. stavak 2. Uredbe o provedbi carinskih mjera u vezi s robom kojom se povrjeđuje pravo intelektualnog vlasništva, koji nastanu tokom razdoblja privremenog zadržavanja i zadržavanja robe u svim postupcima za provedbu carinskih mjera, koje na osnovi zahtjeva nalogodavca za izdavanje ove garancije iz članka 9. stavak 1. navedene Uredbe pokrene ili provodi Carinska uprava Republike Hrvatske tijekom razdoblja naznačenog u točki 3. ove garancije.
+2. Banka garant se obvezuje da će na prvi poziv i bez prigovora platiti Carinskoj upravi, te posjedniku carinskog skladišta ili drugoj osobi koja po nalogu ili odobrenju Carinske uprave čuva i održava robu iz točke 1. ove garancije (korisnik garancije) naknadu troškova čuvanja i održavanja, ako nalogodavac o dospijeću Carinskoj upravi ili korisniku ove garancije ne plati svaku svotu na ime naknade troškova čuvanja i održavanja, a najviše do ukupne svote od ------ (slovima: -----------) kuna.
+3. Ova garancija važi za razdoblje od ------ do ------, s tim da se naplata po osnovi ove garancije može izvršiti i u produženom roku od 30 dana (respiro razdoblje).
+4. Važenje ove garancije može se produljiti za naredno jamstveno razdoblje pisanom izjavom banke garanta, dostavljenom Carinskoj upravi najkasnije osam dana prije isteka roka njezina važenja.
+5. Ova garancija izdana je u četiri primjerka, od kojih Carinska uprava jedan zadržava za svoje potrebe, jedan izravno dostavlja korisniku garancije, te po jedan dostavlja nalogodavcu za izdavanje garancije i banci garantu.
+---------------------- (štambilja) --------------------
+(Mjesto i datum izdavanja) (potpis ovlaštene osobe)
+Carinska uprava Republike Hrvatske prihvaća ovu bankovnu garanciju kao zajedničko osiguranje za namirenje naknade troškova čuvanja i održavanja robe nastalih u svim postupcima za provedbu carinskih mjera, koje će na zahtjev nalogodavca za izdavanje ove garancije iz članka 9. stavak 1. Uredbe o provedbi carinskih mjera u vezi s robom kojom se povrjeđuje pravo intelektualnog vlasništva i u roku važenja ove garancije provoditi ova Carinska uprava, sukladno rješenju, klasa ------, urbroj ------ od --------.
+U Zagrebu, -------------- (MP) -----------------------
+(datum) (potpis ovlaštenog službenika)
+Prilog B
+(Memorandum banke garanta)
+Na zahtjev tvrtke --------- iz -------- kao nalogodavaca za izdavanje ove bankovne garancije (u daljnjem tekstu: nalogodavac), sukladno članku 5. Pravilnika o načinu polaganja, povratu ili unovčavanju instrumenata osiguranja za namirenje troškova čuvanja i održavanja robe pri provedbi carinskih mjera zbog povrede prava intelektualnog vlasništva (»Narodne novine«, br. 167/03), ------------ d.d., --------- kao banka garant izdaje
+BANKOVNU GARANCIJU br. …
+1. Ova bankovna garancija važi kao instrument za pojedinačno osiguranje za namirenje naknade svih troškova čuvanja i održavanja robe iz članka 14. stavak 4. u vezi s člankom 11. stavak 2. Uredbe o provedbi carinskih mjera u vezi s robom kojom se povrjeđuje pravo intelektualnog vlasništva, koji nastanu tokom razdoblja privremenog zadržavanja ili zadržavanja robe u postupku pokrenutom po osnovi članka 9. stavak 1. iste Uredbe, koji je na zahtjev nalogodavaca za izdavanje ove garancije pokrenula Carinska uprava Republike Hrvatske.
+2. Banka garant se obvezuje da će na prvi poziv i bez prigovora platiti Carinskoj upravi, te posjedniku carinskog skladišta ili drugoj osobi koja po nalogu ili odobrenju Carinske uprave čuva i održava robu iz točke 1. ove garancije (korisnik garancije) naknadu troškova čuvanja i održavanja, ako nalogodavac o dospijeću Carinskoj upravi ili korisniku ove garancije ne plati svaku svotu na ime naknade troškova čuvanja i održavanja, a najviše do ukupne svote od ------ (slovima: -----------) kuna.
+3. Ova garancija važi za razdoblje od ------ do ------, s tim da se naplata po osnovi ove garancije može izvršiti u produženom roku od 30 dana (respiro razdoblje).
+4. Važenje ove garancije može se produljiti za naredno jamstveno razdoblje pisanom izjavom banke garanta, dostavljenom Carinskoj upravi najkasnije osam dana prije isteka roka njezina važenja.
+5. Ova garancija izdana je u četiri primjerka, od kojih Carinska uprava jedan zadržava za svoje potrebe, jedan izravno dostavlja korisniku garancije, te po jedan dostavlja nalogodavcu za izdavanje garancije i banci garantu.
+---------------------- (štambilja) --------------------
+(Mjesto i datum izdavanja) (potpis ovlaštene osobe)
+Carinska uprava Republike Hrvatske prihvaća ovu bankovnu garanciju kao pojedinačno osiguranje za namirenje naknade troškova čuvanja i održavanja robe nastalih u vezi s provedbom carinskih mjera, koje na zahtjev nalogodavca za izdavanje ove garancije, utemeljenom na članku 14. stavak 1. u vezi s člankom 9. stavak 1. Uredbe o provedbi carinskih mjera u vezi s robom kojom se povrjeđuje pravo intelektualnog vlasništva, provodi ova Carinska uprava sukladno rješenju, klasa ------, urbroj ------ od --------.
+U Zagrebu, -------------- (MP) -----------------------
+(datum) (potpis ovlaštenog službenika)
+Prilog C
+(Memorandum banke garanta)
+Na zahtjev tvrtke --------- iz -------- kao nalogodavaca za izdavanje ove bankovne garancije (u daljnjem tekstu: nalogodavac), sukladno članku 5. Pravilnika o načinu polaganja, povratu ili unovčavanju instrumenata osiguranja za namirenje troškova čuvanja i održavanja robe pri provedbi carinskih mjera zbog povrede prava intelektualnog vlasništva (»Narodne novine«, br. 167/03), ------------ d.d., --------- kao banka garant izdaje
+BANKOVNU GARANCIJU br. …
+1. Ova bankovna garancija važi kao instrument za pojedinačno osiguranje za namirenje naknade svih troškova čuvanja i održavanja robe iz članka 20. stavak 2. u vezi s člankom 11. stavak 2. Uredbe o provedbi carinskih mjera u vezi s robom kojom se povrjeđuje pravo intelektualnog vlasništva, koji nastanu tokom razdoblja privremenog zadržavanja ili zadržavanja robe u postupku pokrenutom po osnovi članka 9. stavak 1. iste Uredbe, koji (je) na zahtjev nalogodavaca za izdavanje ove garancije pokrene(ula) Carinska uprava Republike Hrvatske.
+2. Banka garant se obvezuje da će na prvi poziv i bez prigovora platiti Carinskoj upravi, te posjedniku carinskog skladišta ili drugoj osobi koja po nalogu ili odobrenju Carinske uprave čuva i održava robu iz točke 1. ove garancije (korisnik garancije) naknadu troškova čuvanja i održavanja, ako nalogodavac o dospijeću Carinskoj upravi ili korisniku ove garancije ne plati svaku svotu na ime naknade troškova čuvanja i održavanja, a najviše do ukupne svote od ------ (slovima: -----------) kuna.
+3. Ova garancija važi za razdoblje od ------ do ------, s tim da se naplata po osnovi ove garancije može izvršiti u produženom roku od 30 dana (respiro razdoblje).
+4. Važenje ove garancije može se produljiti za naredno jamstveno razdoblje pisanom izjavom banke garanta, dostavljenom Carinskoj upravi najkasnije osam dana prije isteka roka njezina važenja.
+5. Ova garancija izdana je u četiri primjerka, od kojih Carinska uprava jedan zadržava za svoje potrebe, jedan izravno dostavlja korisniku garancije, te po jedan dostavlja nalogodavcu za izdavanje garancije i banci garantu.
+---------------------- (štambilja) --------------------
+(Mjesto i datum izdavanja) (potpis ovlaštene osobe)
+Carinska uprava Republike Hrvatske prihvaća ovu bankovnu garanciju kao pojedinačno osiguranje za namirenje naknade troškova čuvanja i održavanja robe nastalih u vezi s provedbom carinskih mjera, koje na zahtjev nalogodavca za izdavanje ove garancije, utemeljenom na članku 20. Uredbe o provedbi carinskih mjera u vezi s robom kojom se povrjeđuje pravo intelektualnog vlasništva, provodi ova Carinska uprava sukladno rješenju, klasa ------, urbroj ------ od --------.
+U Zagrebu, -------------- (MP) -----------------------
+(datum) (potpis ovlaštenog službenika)
