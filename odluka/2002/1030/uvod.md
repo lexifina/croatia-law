@@ -1,0 +1,1 @@
+Na temelju članka 23. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 14/2000 i 117/2001), Vlada Republike Hrvatske je, na sjednici održanoj 9. svibnja 2002. godine, donijela
