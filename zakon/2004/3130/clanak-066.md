@@ -1,0 +1,9 @@
+## Uplata na račune
+# Članak 66.
+(1) Sredstva iz članka 62. točke 1. ovoga Zakona uplaćuju se na račun županijske uprave za ceste, odnosno proračuna Grada Zagreba i koriste za županijske i lokalne ceste na području županije, odnosno Grada Zagreba u kojoj su ostvarena. Način naplate, postupak uplate sredstava na račune županijskih uprava za ceste, odnosno proračuna Grada Zagreba, vođenje evidencije i ovlast za provođenje kontrole nad postupkom naplate propisuje ministar financija.
+(2) Sredstva iz članka 62. točke 2. ovoga Zakona od cestarine na autocestama i posebnim objektima s naplatom na državnim cestama uplaćuju se na račun Hrvatskih autocesta d.o.o. sredstva od cestarine na autocestama i objektima s naplatom u koncesiji na račun korisnika koncesije.
+(3) Sredstva iz članka 62. točke 3. ovoga Zakona uplaćuju se na račun Hrvatskih cesta d.o.o.
+(4) Sredstva iz članka 62. točke 4. ovoga Zakona uplaćuju se na račun Hrvatskih cesta d.o.o. Kada su dozvolu za izvanredni prijevoz izdale Hrvatske autoceste d.o.o., županijska uprava za ceste, odnosno korisnik koncesije, sredstva se uplaćuju na račun izdavatelja dozvole. Kada je dozvolu za izvanredni prijevoz izdalo Upravno tijelo Grada Zagreba, sredstva se uplaćuju u proračun Grada Zagreba.
+(5) Sredstva iz članka 62. točke 5. ovoga Zakona uplaćuju se na račun Hrvatskih cesta d.o.o., županijske uprave za ceste, odnosno Upravnog tijela Grada Zagreba koje je izdalo rješenje o prekomjernoj uporabi javne ceste.
+(6) Sredstva iz članka 62. točke 6. i 7. ovoga Zakona uplaćuju se na račun Hrvatskih autocesta d.o.o., Hrvatskih cesta d.o.o., županijske uprave za ceste, odnosno u proračun Grada Zagreba, ovisno o ugovoru o korištenju cestovnog zemljišta, odnosno ugovoru o obavljanju pratećih djelatnosti.
+(7) Sredstva iz članka 62. točke 8. ovoga Zakona uplaćuju se u državni proračun.

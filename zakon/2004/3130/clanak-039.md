@@ -1,0 +1,8 @@
+## Obavljanje radova uz javnu cestu
+# Članak 39.
+(1) Zabranjeno je poduzimati bilo kakve radove ili radnje na javnoj cesti i njezinom zemljišnom pojasu bez suglasnosti Hrvatskih autocesta d.o.o., Hrvatskih cesta d.o.o., županijske uprave za ceste, Upravnog tijela Grada Zagreba odnosno korisnika koncesije ako bi ti radovi ili radnje mogli oštetiti javnu cestu, kao i ugrožavati ili ometati promet na njoj.
+(2) Ako se na javnoj cesti izvode ili izvedu radovi ili radnje koji mogu oštetiti javnu cestu ili ugroziti sigurnost prometa na njoj, Hrvatske autoceste d.o.o., Hrvatske ceste d.o.o., županijska uprava za ceste, Upravno tijelo Grada Zagreba, odnosno korisnik koncesije dužni su poduzeti sve mjere za otklanjanje opasnosti za oštećenje javne ceste i sigurnosti prometa na njoj.
+(3) U slučajevima iz stavka 2. ovoga članka trgovačko društvo, ustanova, odnosno Upravno tijelo Grada Zagreba koje upravlja javnom cestom ovlašteno je obustaviti radove ili radnje iz stavka 2. ovoga članka i naložiti plaćanje troškova.
+(4) Troškove poduzimanja mjera iz stavka 2. ovoga članka snosi izvođač radova, odnosno naručitelj radova, odnosno osobe koje izvode radnje na javnoj cesti.
+(5) Sportske priredbe i druge manifestacije na javnim cestama mogu se održavati pod uvjetima i na način utvrđen posebnim zakonom.
+(6) Zabranjeno je poduzimati bilo kakve radove ili radnje u zaštitnom pojasu javne ceste bez suglasnosti Hrvatskih autocesta d.o.o., Hrvatskih cesta d.o.o., županijske uprave za ceste, odnosno Upravnog tijela Grada Zagreba ako bi ti radovi ili radnje mogli oštetiti javnu cestu, kao i ugrožavati ili ometati promet na njoj.

@@ -1,0 +1,5 @@
+## Promjena namjene poljoprivrednog zemljišta, izdvajanje šume i šumskog zemljišta
+# Članak 28.
+(1) U slučaju izdvajanja iz šumsko-gospodarskog područja šuma i šumskog zemljišta radi građenja, rekonstrukcije i održavanja javnih cesta u korist Republike Hrvatske, županije, odnosno Grada Zagreba, ne plaća se naknada za prava prenesena prema posebnom zakonu kojim se uređuje gospodarenje šumama.
+(2) U slučaju da se izvlaštenje, odnosno promjena namjene poljoprivrednog zemljišta radi građenja, rekonstrukcije i održavanja javnih cesta provodi u korist Republike Hrvatske, županije, odnosno Grada Zagreba, ne plaća se naknada zbog umanjenja vrijednosti i površine poljoprivrednog zemljišta kao dobra od interesa za Republiku Hrvatsku prema zakonu kojim se uređuje gospodarenje poljoprivrednim zemljištem.
+(3) O izdvajanju šume i šumskog zemljišta iz šumsko-gospodarskog područja te promjeni namjene poljoprivrednog zemljišta rješava ured državne uprave u županiji nadležan za imovinskopravne poslove, odnosno tijelo Grada Zagreba za imovinskopravne poslove.

@@ -1,0 +1,7 @@
+## Radovi na javnoj cesti
+# Članak 40.
+(1) Prekopavanje, potkopavanje i drugi radovi na javnoj cesti mogu se obavljati samo uz suglasnost Hrvatskih autocesta d.o.o., Hrvatskih cesta d.o.o., županijske uprave za ceste, Upravnog tijela Grada Zagreba, odnosno korisnika koncesije.
+(2) U suglasnosti za obavljanje radova iz stavka 1. ovoga članka određuje se način rada i uvjeti osiguranja i regulacije prometa, način sanacije prekopa, odnosno potkopa te nadzor nad obavljanjem tih radova.
+(3) Suglasnost iz stavka 1. ovoga članka nije potrebna ako su oštećenjima uređaja i instalacija, ugrađenih u javnu cestu, neposredno ugroženi siguran promet, odnosno život i zdravlje građana ili bi mogla nastati veća gospodarska šteta.
+(4) Vlasnik ili korisnik uređaja i instalacija uz javnu cestu na kojima je došlo do oštećenja zbog kojih može nastati neposredna opasnost za javnu cestu i sudionike u prometu i okoliš dužan je o tome obavijestiti Hrvatske autoceste d.o.o., Hrvatske ceste d.o.o., županijsku upravu za ceste, Upravno tijelo Grada Zagreba, odnosno korisnika koncesije koji upravljaju javnom cestom, Ministarstvo i Ministarstvo unutarnjih poslova.
+(5) Vlasnik ili korisnik uređaja i instalacija iz stavka 4. ovoga članka mora u što kraćem roku otkloniti oštećenja na njima radi dovođenja javne ceste i prometa u prvobitno stanje i o tome obavijestiti trgovačko društvo, ustanovu, odnosno Upravno tijelo Grada Zagreba koje upravlja javnom cestom, Ministarstvo i Ministarstvo unutarnjih poslova.
