@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske, članka 35. Poslovnika Zastupničkog doma Sabora Republike Hrvatske i članka 33. stavaka 2. i 4. Zakona o financiranju javnih potreba ("Narodne novine", br. 58/90), Zastupnički dom Sabora Republike Hrvatske na sjednici 30. prosinca 1992. donio je
