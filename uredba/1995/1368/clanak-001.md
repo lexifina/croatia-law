@@ -1,0 +1,4 @@
+# Članak 1.
+Radi izmirenja dospjelih financijskih obveza prema inozemnim kreditorima zemalja članica "Paris cluba", Republika Hrvatska se zadužuje kod Narodne banke Hrvatske uzimanjem kredita u iznosu od 70 milijuna USD u protuvrijednosti u kunama
+Kredit iz stavka I. ovog članka koristi se za otplate kredita prema zemljama članicama "Paris cluba" i to: Republici Austriji, Kraljevini Bclgiji, Kraljevini Danskoj, Republici Francuskoj, Republici Finskoj, Saveznoj Republici Njemačkoj, Talijanskoj Republici, Japanu, Državi Kuwaitu, Kraljevini Nizozemskoj, Kraljevini Norveškoj, Kraljevini Španjolskoj, Kraljevini Švedskoj, Švicarskoj Konfederaciji, Ujedinjenoj Kraljevini Velike Britanije i Sjeverne Irske i Sjedinjenim Američkim Državama.
+U odnosu na navedene zemlje Republika Hrvatska je izravni dužnik (nealocirani dug) ili garant (alocirani dug).
