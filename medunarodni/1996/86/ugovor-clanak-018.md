@@ -1,0 +1,3 @@
+# Članak 18.
+1. Ne ispunjava li osoba uvjete za stjecanje prava na davanje iz mirovinskog i invalidskog osiguranja, predviđene hrvatskim pravnim propisima, isključivo na osnovi razdoblja osiguranja priznatih prema hrvatskim pravnim propisima, razdoblja osiguranja, navršena prema švicarskim pravnim propisima, zbrajaju se s hrvatskim razdobljima osiguranja radi stjecanja prava i određivanja davanja, pod uvjetom da se ne poklapaju.
+2. Ako i pored primjene stavka 1. osoba iz članka 3. slovo a) ili b) ne ispunjava uvjete za stjecanje prava na davanje, hrvatski će nositelji uzeti u obzir i razdoblja osiguranja navršena u nekoj trećoj državi s kojom je Hrvatska sklopila ugovor o socijalnom osiguranju koji predviđa zbrajanje razdoblja osiguranja.

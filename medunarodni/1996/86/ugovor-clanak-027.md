@@ -1,0 +1,6 @@
+# Članak 27.
+Podnesu li zaposlenici, koji su prema pravnim propisima jedne od država ugovornica primali ili primaju nadoknadu za profesionalnu bolest, u slučaju pogoršanja te profesionalne bolesti zahtjev za davanje za profesionalnu bolest iste vrste prema pravnim propisima druge države ugovornice, primjenjivat će se sljedeća pravila:
+a) Ako zaposlenik nije na području druge države ugovornice obavljao posao koji je mogao uzrokovati ili pogoršati profesionalnu bolest, mjerodavni je nositelj prve države ugovornice i dalje obvezan isplaćivati davanja na vlastiti teret i prema vlastitim pravnim propisima, uzimajući u obzir i pogoršanje.
+b) Ako je zaposlenik obavljao takav posao na području druge države ugovornice, mjerodavni nositelj prve države ugovornice i dalje je obvezan isplaćivati davanja prema svojim pravnim propisima, ne uzimajući u obzir pogoršanje; mjerodavni nositelj druge države ugovornice odobrava taj osobni dodatak čija se svota određuje prema pravnim propisima te države, a jednaka je razlici između svote davanja koja pripada nakon pogoršanja i svote koja bi pripadala da je bolest prije pogoršanja nastupila na području tog drugog nositelja.
+4. POGLAVLJE
+OBITELJSKI DOPLATCI

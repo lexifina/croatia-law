@@ -1,0 +1,3 @@
+# Članak 34.
+1. Ima li osoba, kojoj prema pravnim propisima jedne države ugovornice pripadaju davanja za štetu nastalu na području druge države ugovornice, prema pravnim propisima te druge države pravo na nadoknadu štete protiv treće osobe, pravo na odštetu prelazi na nositelja prve države koji je obvezan na davanja prema pravnim propisima koji za njega vrijede; druga država ugovornica priznaje taj prijelaz.
+2. Imaju li u primjeni stavka 1. nositelji obiju država ugovornica pravo na odštetu zbog davanja za isti slučaj štete, oni su zajednički vjerovnici. U međusobnom odnosu dužni su se namiriti razmjerno davanjima koja pružaju.

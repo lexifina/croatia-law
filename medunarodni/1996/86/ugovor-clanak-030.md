@@ -1,0 +1,3 @@
+# Članak 30.
+1. Tijela, sudovi i nositelji obiju država ugovornica pružaju jedni drugima pomoć u provedbi ovog ugovora, kao da se radi o primjeni njihovih vlastitih pravnih propisa. Ta je pomoć, s izuzetkom novčanih troškova, besplatna.
+2. Stavak 1. prva rečenica vrijedi i za liječničke preglede. Troškove pregleda, putne troškove, troškove smještaja u svrhu medicinskog promatranja kao i ostale novčane troškove (gubitak zarade, dnevnice i sl.), s izuzetkom poštarine, snosi strana koja je tražila pregled. Troškovi se ne nadoknađuju ako je liječnički pregled u interesu mjerodavnih nositelja obiju država ugovornica.

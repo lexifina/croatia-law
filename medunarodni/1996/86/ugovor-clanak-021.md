@@ -1,0 +1,5 @@
+# Članak 21.
+1. Osobe koje su osigurane prema pravnim propisima jedne države ugovornice, a doživjele su nesreću na poslu ili profesionalno oboljele na području druge države ugovornice, mogu od nositelja u mjestu boravka zatražiti sva potrebna davanja u naravi.
+2. Imaju li osobe prema pravnim propisima jedne države ugovornice zbog nesreće na poslu ili profesionalne bolesti pravo na davanja u naravi, ona će im se odobriti i onda ako za vrijeme liječenja privremeno presele na područje druge države ugovornice. Za promjenu boravišta potrebno je prethodno odobrenje nositelja koji je obvezan pružiti davanje; odobrenje se izdaje ako nema zamjerki s liječničkog gledišta i ako osoba odlazi k svojoj rodbini.
+3. Davanja u naravi koja mogu zatražiti osobe navedene u stavcima 1. i 2. odobravaju se prema pravnim propisima koji vrijede za nositelja u mjestu boravka.
+4. Proteze i druga davanja u naravi od većeg značaja pružaju se, osim u slučajevima osobite hitnosti, samo uz prethodno odobrenje nositelja koji je dužan pružiti davanja.

@@ -1,0 +1,2 @@
+# Članak 24.
+Predviđaju li pravni propisi jedne države ugovornice da se pri određivanju stupnja nesposobnosti za privređivanje uslijed nesreće na poslu ili profesionalne bolesti u smislu tih pravnih propisa uzimaju u obzir i nesreće na poslu i profesionalne bolesti koje su nastale ranije, tada to vrijedi i za ranije nastale nesreće na poslu i profesionalne bolesti koje su bile obuhvaćene pravnim propisima druge države ugovornice, kao da su nastale prema pravnim propisima prve države ugovornice.

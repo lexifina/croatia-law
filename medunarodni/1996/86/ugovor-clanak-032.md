@@ -1,0 +1,2 @@
+# Članak 32.
+Zahtjevi, izjave i pravna sredstva koja prema pravnim propisima jedne države ugovornice treba u određenom roku predati upravnom tijelu, sudu ili nositelju te države ugovornice, smatraju se predanima u roku ako su unutar toga roka dostavljeni odgovarajućoj službi, odgovarajućem sudu ili odgovarajućem nositelju druge države ugovornice. U takvim slučajevima dotična služba upisuje datum prispijeća na predani dokument i prosljeđuje ga mjerodavnoj službi druge države ugovornice.

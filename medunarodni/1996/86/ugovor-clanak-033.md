@@ -1,0 +1,4 @@
+# Članak 33.
+1. Ako je nositelj jedne države ugovornice bespravno odobrio novčana davanja, bespravno se isplaćena svota može odbiti od odgovarajućeg davanja prema pravnim propisima druge države ugovornice u korist tog nositelja.
+2. Ako je nositelj jedne države ugovornice isplatio predujam na osnovi prava na neko davanje prema pravnim propisima druge države ugovornice, isplaćenu svotu treba oduzeti od zaostataka u korist tog nositelja.
+3. Ima li osoba prema pravnim propisima jedne države ugovornice pravo na novčano davanje za razdoblje za koje su toj osobi ili članovima njene obitelji odobrena davanja od nositelja socijalne skrbi druge države ugovornice, to se novčano davanje zadržava, na zahtjev i u korist nositelja socijalne skrbi koji ima pravo na nadoknadu, kao da je sjedište tog nositelja socijalne skrbi na području prve države ugovornice.
