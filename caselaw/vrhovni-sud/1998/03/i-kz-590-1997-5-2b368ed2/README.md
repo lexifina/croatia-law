@@ -1,0 +1,11 @@
+# I Kž-590/1997-5, Vrhovni sud Republike Hrvatske, 19.3.1998.
+
+- Source: https://sudskapraksa.csp.vsrh.hr/Document/View?id=2b368ed2-e976-47b6-bff4-dea095382868
+- Court: Vrhovni sud Republike Hrvatske
+- Decision date: 1998-03-19
+- Publication date on source: 2003-08-22
+- ECLI: ECLI:HR:VSRH:1998:1443
+- Decision type: Presuda
+- Finality: Pravomoćna odluka
+
+Text is the anonymised text as published by the official court-practice portal.
