@@ -1,0 +1,24 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+Y X
+TOČKA 1 5 607 687.74 4 805 253.71
+TOČKA 2 5 607 701.98 4 805 251.10
+TOČKA 3 5 607 679.86 4 805 208.29
+TOČKA 4 5 607 668.44 4 805 185.46
+TOČKA 5 5 607 643.97 4 805 179.10
+TOČKA 6 5 067 627.26 4 805 178.45
+TOČKA 7 5 607 607.68 4 805 173.01
+TOČKA 8 5 607 597.28 4 805 178.87
+TOČKA 9 5 607 595.75 4 805 182.44
+TOČKA 10 5 607 530.37 4 805 222.88
+TOČKA 11 5 607 523.77 4 805 225.87
+TOČKA 12 5 607 520.20 4 805 233.67
+TOČKA 13 5 607 503.63 4 805 251.23
+TOČKA 14 5 607 497.40 4 805 264.26
+TOČKA 15 5 607 488.83 4 805 281.81
+TOČKA 16 5 607 487.88 4 805 289.14
+TOČKA 17 5 607 479.72 4 805 332.14
+TOČKA 18 5 607 477.63 4 805 361.20
+TOČKA 19 5 607 456.71 4 805 426.90
+TOČKA 20 5 607 468.57 4 805 431.33
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Grohote, broj lista plana 6, u mjerilu 1:2000 i na snimci stvarnog stanja u mjerilu 1:1000.
