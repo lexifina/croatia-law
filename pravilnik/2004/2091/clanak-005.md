@@ -1,0 +1,5 @@
+# Članak 5.
+U svrhu provedbe tehničkog pregleda i utvrđivanja je li građevina izgrađena u skladu s građevinskom dozvolom povjerenstvo obavlja očevid na građevini za koju je zatražena uporabna dozvola, te uvid u dokumentaciju koja se prilaže uz zahtjev za izdavanje uporabne dozvole, kao i dokumentaciju koju je prema građevinskoj dozvoli odnosno propisima u skladu s kojima je građevina izgrađena, investitor dužan povjerenstvu dati na uvid.
+Tehnički pregled vodi i radom Povjerenstva upravlja predsjednik Povjerenstva.
+Pojedine radnje na tehničkom pregledu, osim predsjednika i članova povjerenstva, mogu obaviti i pojedine stručne osobe koje nisu članovi povjerenstva.
+Po provedbi radnji iz stavka 1. i 3. ovoga članka predsjednik povjerenstva i svaki član povjerenstva u okviru nadležnosti tijela državne uprave odnosno pravne osobe s javnim ovlastima čiji je predstavnik i u okviru uvjeta utvrđenih građevinskom dozvolom, odnosno glavnim projektom, daje pisano mišljenje o tome je li građevina izgrađena u skladu s građevinskom dozvolom, te ovisno o tome i mišljenje da se građevina može rabiti, odnosno mišljenje o utvrđenim nedostacima.

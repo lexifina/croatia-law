@@ -1,0 +1,8 @@
+# Članak 6.
+Ako se na tehničkom pregledu utvrdi nedostatak zbog kojeg građevina ne ispunjava koji od bitnih zahtjeva za građevinu, uvjete nesmetanog pristupa i kretanja u građevini ili da nije izgrađena u skladu s kojim od lokacijskih uvjeta, odnosno ako nije priključena na javno-prometnu površinu i druge objekte i uređaje komunalne infrastrukture određene lokacijskim uvjetima, a taj se nedostatak može otkloniti bez izmjene i/ili dopune građevinske dozvole, predsjednik povjerenstva odredit će rok za otklanjanje takvog nedostatka, te članove povjerenstva koji su dužni provesti kontrolni pregled nakon što taj nedostatak bude otklonjen.
+Članovi povjerenstva iz stavka 1. ovog članka dužni su zapisnik s kontrolnog pregleda dostaviti tijelu graditeljstva najkasnije u roku od 30 dana od dana primitka obavijesti investitora da je utvrđeni nedostatak otklonjen.
+Ako zapisnik s kontrolnog pregleda nije dostavljen tijelu graditeljstva u roku iz stavka 2. ovoga članka tijelo graditeljstva pisanim će putem zatražiti dostavu tog zapisnika, a ako taj zapisnik ne bude dostavljen u roku od 8 dana, smatra se da je nedostatak na građevini otklonjen, te će tijelo graditeljstva izdati uporabnu dozvolu.
+U slučaju iz stavka 1. ovoga članka tijelo graditeljstva odbit će zahtjev za izdavanje uporabne dozvole ako:
+- investitor u određenom roku ne otkloni utvrđene nedostatke ili
+- investitor u roku od 15 dana od proteka roka iz stavka 1. ovoga članka ne obavijesti tijelo graditeljstva i članove povjerenstva zadužene za provedbu kontrolnog pregleda da su utvrđeni nedostaci otklonjeni.
+Tijelo graditeljstva odbit će zahtjev za izdavanje uporabne dozvole ako utvrdi nedostatke koje nije moguće otkloniti bez izmjene i/ili dopune građevinske dozvole.

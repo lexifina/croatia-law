@@ -1,0 +1,6 @@
+## II. OBAVLJANJE TEHNIČKOG PREGLEDA
+# Članak 2.
+U svrhu obavljanja tehničkog pregleda građevine tijelo graditeljstva nadležno za izdavanje uporabne dozvole, zaključkom osniva Povjerenstvo za obavljanje tehničkog pregleda (u daljnjem tekstu: povjerenstvo), imenuje predsjednika tog povjerenstva, određuje tijela državne uprave i pravne osobe s javnim ovlastima koje određuju svog predstavnika kao člana tog povjerenstva, te određuje mjesto, dan i sat početka tehničkog pregleda.
+Zaključak iz stavka 1. ovoga članka dostavlja se i investitoru koji je o mjestu, danu i satu početka tehničkog pregleda dužan obavijestiti ostale sudionike u gradnji te osigurati njihovu prisutnost na tehničkom pregledu.
+Predsjednik odnosno član Povjerenstva za tehnički pregled građevine ne može biti osoba koja je u svojstvu odgovorne osobe obavljala poslove projektiranja, kontrole projekta, nostrifikacije projekta, stručnog nadzora ili građenja građevine za koju je zatražena uporabna dozvola.
+Zaključak iz stavka 1. ovoga članka dostavlja se i građevinskoj inspekciji koja je dužna, bez odlaganja, a najkasnije u roku od 10 dana od dana primitka zaključka, dostaviti tijelu graditeljstva podatke o postupanju građevinske inspekcije u vezi s građevinom za koju je zatražena uporabna dozvola.
