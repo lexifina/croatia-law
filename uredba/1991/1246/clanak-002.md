@@ -1,0 +1,4 @@
+# Članak 2.
+Zabranjuje se pravnim osobama sa sjedištem izvan teritorija Republike Hrvatske kao i organima i institucijama federacije, republika i Autonomnih pokrajina Kosova i Vojvodine da pravnim poslom ili aktom internog poslovanja sredstva svojih poslovnih jedinica i drugih organizacijskih oblika, bez obzira imaju li svojstvo pravne osobe na teritoriju Republike, te njihova druga sredstva na tom teritoriju uključujući dionice i udjele u drugim poduzećima, opterećuju ili daju u zakup osobama čije je sjedište ili prebivalište izvan teritorija Republike ili prenose izvan njenog teritorija.
+Zabrana iz stavka 1. ovog članka ne odnosi se na proizvode i robe koje jedinice i organizacijski oblici iz stavka 1. ovog članka prenose obavljanjem maloprodaje i veleprodaje.
+Zabrana iz stavka 1. ovog članka prestaje danom upisa u sudski registar pravne osobe nastale organiziranjem zaposlenih u poslovnoj ili drugoj organizacijskoj jedinici u skladu s odredbama ove uredbe.

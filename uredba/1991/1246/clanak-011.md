@@ -1,0 +1,2 @@
+# Članak 11.
+Zahtjevi za upis u registar pravnih osoba nastalih organiziranjem iz poslovnih jedinica i organizacijskih oblika pravnih osoba sa sjedištem na teritoriju Republike Srbije, Autonomnih pokrajina Kosova i Vojvodine te Republike Crne Gore i za upis njihovog pripajanja drugim pravnim osobama na teritoriju Republike koji su podneseni nadležnom sudu prije stupanja na snagu ove uredbe, a temeljem kojih još nije obavljen upis, rješavat će se po odredbama ove uredbe.
