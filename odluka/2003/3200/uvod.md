@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000 i 117/2001) i članka 7. stavka 2. Uredbe o preoblikovanju Energetskog instituta »Hrvoje Požar« u ustanovu (»Narodne novine«, broj 53/2003), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 2003. godine donijela
