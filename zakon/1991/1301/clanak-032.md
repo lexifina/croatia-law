@@ -1,0 +1,3 @@
+# Članak 32.
+U članku 264. stavak 1. mijenja se i glasi:
+"Prvostepeno rješenje može poništiti ili ukinuti po pravu nadzora drugostepeni organ. Ako nema drugostepenog organa ili se radi o rješenju drugostepenog organa, rješenje može po pravu nadzora poništiti ili ukinuti organ određen zakonom. Ako taj organ nije zakonom određen, rješenje može po pravu nadzora poništiti ili ikinuti ministarstvo ili drugi republički državni organ uprave, u čiji djelokrug pripada upravna stvar koja je predmet postupka. Ako se ne može ustanoviti u čiju nadležnost spada određena upravna stvar, ili ako se radi o drugostepenom rješenju ministarstva ili drugog republičkog državnog organa uprave, za poništavanje ili ukidanje rješenja nadležna je Vlada Republike Hrvatske."
