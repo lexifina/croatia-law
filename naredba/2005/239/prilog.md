@@ -1,0 +1,41 @@
+Prilog I.
+- Češka - regije: Breclav, Kromeriz, Vyskov, Hodonin, Uherske Hradiste, Zlin, Znojmo i Prerov,
+- Francuska - područje Bas-Rhine,
+- Italija - regija Sardinija,
+- Luksemburg,
+- Njemačka - regija Rheinland-Pfalz,
+- Slovačka Republika - regije: Banska Bystrica, Banovce nad Bebravou, Hlohovec, Ilava, Komarno, Krupina, Lucenec, Levice, Nitra, Nove Mesto nad Vahom, Nove Zamky, Partizanske, Prievidza, Rimavska Sobota, Topolžčany, Zarnovica, Ziar nad Hronom i Zvolen.
+Prilog II.
+- Bahrain,
+- Bocvana,
+- Kina,
+- Kolumbija,
+- Etiopija,
+- Hong Kong,
+- Izrael,
+- Indija,
+- Island,
+- Kenija,
+- Maroko,
+- Madagaskar,
+- Makedonija,
+- Mauricijus,
+- Namibija,
+- Singapur,
+- Svaziland,
+- Tajland,
+- Tunis,
+- Urugvaj,
+- Zimbabve.
+Prilog III.
+- Argentina,
+- Brazil,
+- Bjelorusija,
+- Paragvaj,
+- Rusija,
+- Južnoafrička Republika.
+Prilog IV.
+- Bugarska,
+- Srbija i Crna Gora,
+- Meksiko,
+- Rumunjska.
