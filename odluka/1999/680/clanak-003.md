@@ -1,0 +1,4 @@
+# Članak 3.
+1) U hitnim i medicinski opravdanim slučajevima može se odobriti upotreba i skupljeg, odnosno posebnoga prijevoznog sredstva (brzi ili ekspresni vlak, spavaća kola, viši razred u vlaku, automobil, zrakoplov i dr.), ako je to potrebno s obzirom na zdravstveno stanje osigurane osobe ili na dužinu puta.
+2) Korištenje skupljeg, odnosno posebnog prijevoznog sredstva odobrava ovlašteno tijelo Zavoda, na prijedlog nadležnog liječnika zdravstvenog osiguranja ili stručnog tijela vještačenja. Osigurana osoba kojoj je odobrena upotreba prijevoznoga sredstva iz stavka 1. ovog članka dužna je za obračun naknade prijevoznih troškova podnijeti dokaz o korištenju toga prijevoznog sredstva.
+3) Naknada za troškove prijevoza skupljim prijevoznim sredstvom javnog prometa pripada, osim u slučajevima iz članka 1. ove odluke, i u slučaju kada su ukupni putni troškovi (članak 1.) manji troškovi koji bi nastali da se osigurana osoba koristila jeftinim prijevoznim sredstvom.
