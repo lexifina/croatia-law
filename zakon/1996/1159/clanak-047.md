@@ -1,0 +1,3 @@
+# Članak 47.
+Predsjednik Rektorskog zbora dužan je do 16. prosinca 1996. godine sazvati sjednicu predsjednika podružnica studentskih zborova Hrvatskoga studentskog zbora na visokim školama ustrojenim izvan veleučilišta ili sveučilišta radi izbora prvog predstavika u Predsjedništvo Hrvatskoga studentskog zbora.
+Predsjednik Rektorskog zbora dužan je u roku od 20 dana, od izbora predsjednika studentskih zborova sveučilišta i predstavnika studenata podružnica Hrvatskoga studentskog zbora na visokim školama ustrojenim izvan sastava veleučilišta ili sveučilišta, sazvati sjednicu za prvo imenovanje predsjednika Hrvatskoga studentskoga zbora.

@@ -1,0 +1,4 @@
+# Članak 39.
+Članove Predsjedništva Hrvatskoga studentskog zbora čine predsjednici studentskih zborova sveučilišta te predstavnik studenata podružnica Hrvatskog studentskog zbora na visokim školama ustrojenim izvan sastava veleučilišta ili sveučilišta.
+Predstavnika studenata podružnica Hrvatskoga studentskog zbora na visokim školama ustrojenim izvan sastava veleučilišta ili sveučilišta biraju iz svojih redova predsjednici podružnica studentskih zborova Hrvatskoga studentskog zbora na visokim školama ustrojenim izvan sastava veleučilišta ili sveučilišta tajnim glasovanjem na sjednici koju saziva predsjednik Hrvatskoga studentskog zbora.
+U radu Predsjedništva Hrvatskoga studentskog zbora mogu prisustvovati i predstavnici studenata sveučilišta izvan Republike Hrvatske na kojima od ukupno upisanih studenata najmanje jednu trećinu čine pripadnici hrvatskog naroda.

@@ -1,0 +1,4 @@
+# Članak 17.
+Podružnica Studentskog zbora na fakultetu, neposredno bira studentske predstavnike u fakultetsko vijeće, odnosno u odgovarajuće vijeće umjetničke akademije, sveučilišnog ili veleučilišnog odjela i visoke škole (u daljnjem tekstu: fakultetsko vijeće).
+Broj studentskih predstavnika i njihovih zamjenika, koji se biraju u fakultetsko vijeće, utvrđuje se da svaka godina studija bira po jednog predstavnika i zamjenika. Ukoliko visoko učilište ustrojava i izvodi više studija, način izbora predstavnika svake godine studija utvrđuje se statutom ili općim aktom visokog učilišta.
+Podružnica Studentskog zbora na fakultetu bira neposredno studentske predstavnike i u druga tijela propisana statutom ili drugim općim aktom visokog učilišta. Ako statutom ili općim aktom nije drukčije propisano, izbori se provode u postupku propisanim za izbor studentskih predstavnika u fakultetsko vijeće.
