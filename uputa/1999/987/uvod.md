@@ -1,0 +1,1 @@
+Na temelju članka 75. Zakona o Hrvatskoj narodnoj banci ("Narodne novine" br. 35/95 - pročišćeni tekst) a u svezi točke IV. stavak 3. Odluke o uvjetima i načinu obavljanja devizne dokumentarne kontrole ("Narodne novine" br. 51/99) guverner Hrvatske narodne banke donosi
