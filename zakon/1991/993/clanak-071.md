@@ -1,0 +1,11 @@
+## XIII. PRELAZNE I ZAVRŠNE ODREDBE
+# Članak 71.
+Proizvode zatečene na zalihama na dan stupanja na snagu ovoga zakona porezni obveznici će popisati i formirati nove prodajne cijene s uračunatim porezom na promet po tarifnim brojevima tarife uz ovaj zakon.
+Za 1991. godinu neće se obavljati razrez poreza po ovom zakonu, na naknade za one usluge za koje je obavljen i razrez u paušalnom iznosu po oćinskim odlukama što su bile na snazi do dana stupanja na snagu ovoga zakona, već će tako razrezana porezna obveza važiti za 1991. godinu, osim za usluge prijevoza putnika i robe iz članka 23. točke 2. ovoga zakona, za koje će se poreznim obveznicima otpisati dio poreza na promet, koji se odnosi na razdoblje od dana stupanja na snagu ovoga zakona do konca 1991. godine.
+Porezni obveznik iz stavka 2. ovoga članka koji porez na dobit plaća u paušalnom iznosu, porez na promet usluga plaća na način i u rokovima propisanim za plaćanje poreza na dobit.
+Porez na promet koji je plaćen prema stvarno oštvarenom prometu, po propisima koji su važili prije stupanja na snagu ovoga zakona priznaje se kao dio akontacije za 1991. godinu.
+Od dana primjene ovoga zakona do konca 1991. godine plaća se porez na promet za pojedine proizvode po višim stopama od poreznih stopa propisanih tarifom osnovnog poreza na promet proizvoda i to:
+1) na promet suvenira, rukotvorina iz tar. broja 1. tarife, te ukrasnih predmeta iz tarifnog broja 7. točke 1, 2. i 5. osnovnog poreza na promet proizvoda; na području općine Dubrovnik plaća se i po dodatnoj stopi od l0% osim na promet proizvoda iz članka 51. Zakona o obnovi ugrožene spomeničke cjeline Dubrovnika;
+2) na promet alkoholnih i bezalkoholnih pića iz tar. broja 4. točke 1. do 4. tarife plaća se osnovni porez na promet na području općine Dubrovnik po propisanim stopama uvećanim za 10%;
+3) na promet suvenira i rukotvorina iz tar. broja 1. tarife, te ukrasnih i drugih proizvoda iz tarifnog broja 7. točke 1, 2. i 5. tarife, na području općine Split plaća se osnovni porez na promet i po dodatnoj stopi od l0%.
+U 1991. godini prijava načina obračunavanja i plaćanja akontacije poreza na promet podnosi se Službi društvenog knjigovodstva Hrvatske odnosno Općinskoj upravi društvenih prihoda u roku od deset dana od dana stupanja na snagu ovoga zakona.

@@ -1,0 +1,2 @@
+# Članak 11.
+Opremom u smislu članka l0. stavka 1. ovoga zakona smatraju se osnovna sredstva za obavljanje djelatnosti, stvari sitnog inventara odredene prema propisima o amortizaciji. uređaji i dijelovi uredaja za zaštitu čovjekova okoliša, sredstva za zaštitu na radu i osobnu zaštitu, opre ma i rezervni dijelovi za tu opremu, osim osobnih automobila iz tarifnog broja 5. Tarife osnovnog poreza na promet proizvoda. namještaja za opremanje administrativnih prostorija, tepiha te ukrasnih i drugih proizvoda iz tar. broja 7. Tarife.

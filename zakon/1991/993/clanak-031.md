@@ -1,0 +1,2 @@
+# Članak 31.
+Kod utvrđivanja akontacija za plaćanje obračunatog poreza na promet proizvoda, taj porez na promet može se utvrđivati i primjenom preračunate porezne stope koja se primjenjuje na prodajnu cijenu sa uračunatim porezom na promet proizvoda. Preračunate porezne stope mogu se primjenjivati i za plaćanje poreza na promet usluga pod uvjetom da je prethodno u naknadu za obavljene usluge uračunat porez na promet usluga.

@@ -1,0 +1,5 @@
+# Članak 33.
+Porezni obveznik - pravna osoba utvrđuje i plaća akontacije poreza na promet usluga u roku od pet dana po isteku svakih petnaest dana u mjesecu, odnosno po isteku mjeseca za sve naknade za usluge obavljene i naplaćene u tom razdoblju (naplaćena realizacija). odnosno za sve usluge obavljene u tom razdoblju (fakturirana realizacija).
+Porezni obveznik iz stavka 1. ovoga članka može plaćati akontacije poreza na promet usluga iz prethodnog tromjesečja:
+Porezni obveznik iz stavka I. ovoga članka može plaćati akontacije poreza na promet usluga i u visini jedne šestine utvrđenog poreza iz prethodnog tromjesečja.
+Porezni obveznik iz stavka 1. ovoga članka koji utvrduje i plaća akontacije poreza na promet usluga na osnovi jedne šestine obračunatog poreza iz prethodnog tromjesečnog obračuna. a prvi put počinje obavljati djelatnost (novoosnovana poduzeća i druge pravne osobe,statusne promjene i sl.) utvrđuje i plaća akontacije poreza na promet usluga do prvog tromjesečnog obračuna, na osnovi podataka o naplaćenim ili fakturiranim naknadama za obavljene usluge, za razdoblje za koje utvrduje akontaciju.

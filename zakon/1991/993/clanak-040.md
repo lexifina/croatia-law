@@ -1,0 +1,4 @@
+# Članak 40.
+Porezni obveznik - fizička osoba iz članka 5. stavka 2. ovoga zakona koja plaća porez na promet prema stvarno ostvarenom prometu. dužan je do kraja siječnja tekuće godine podnijeti konačan obračun poreza na promet zajedno sa poreznom prijavom o ukupnom ostvarenom i naplaćenom prometu.
+Konačno utvrđivanje poreza na promet za poreznog obveznika iz stavka I. ovoga članka obavlja općinski organ uprave za poslove društvenih prihoda, na osnovi podataka iz konačnog obračuna i podataka s kojima taj organ raspolaže u rokovima za utvrđivanje poreza od obavljanja djelatnosti.
+Ako se u postupku pregleda utvrdi da poslovne knjige nisu vođene ili nisu vođene uredno porez na promet obračunat će se na osnovi raspoloživih podataka o ostvarenom prometu ili principom usporedivanja sa drugim obveznikom iste ili slične djelatnosti koji tu djelatnost obavlja pod približno jednakim uvjetima, na način propisan za utvrđivanje poreza od obavljanja djelatnosti.

@@ -1,0 +1,8 @@
+# Članak 10.
+Pravne osobe koje obavljaju registriranu djetatnost mogu nabavljati, pod uvjetima iz članka 9. ovoga zakona opremu i reprodukcijski materijal po nižim - povlaštenim poreznim stopama.
+Nabavljeni reprodukcijski materijal i oprema, se ne mogu prodati odnosno otuđiti u roku od pet godina od dana nabavke, osim ako su ispunjeni uvjeti iz članka 9. ovoga zakona. Ako porezni obveznik taj reprodukcijski materijal ili opremu proda ili otuđi bez naknade prije proteka roka od pet godina od dana nabavke, dužan je platiti porez na promet proizvoda koji nije plaćen pri nabavi odnosno razliku poreza između povlaštene i pune porezne stope.
+Materijal i oprema po povlaštenoj poreznoj stopi može se, pod uvjetima iz članka 9. ovoga zakona. prodati i mjesnoj zajednici za izgradnju resta, vodovoda, kanalizacijske mreže, plinovoda, električne i telefonske mreže ili drugih komunalnih objekata infrastrukture na njezinom području. a na temelju odobrenog plana te usvojenog i odobrenog investicijskog programa. odnosno građevinskog elaborata.
+Osobe iz ovoga članka mogu pod navedenim uvjetima nabavljati opremu i reprodukcijski materijal direktno iz uvoza koji je ureden posebnim propisima.
+Pravne osobe s područja zdravstva, mogu nabavljati proizvode i potrošni materijal po povlaštenoj poreznoj stopi - za potrošnju u liječenju i njezi bolesnika.
+Ministar financija propisat će što se smatra proizvodima i potrošnim materijatom iz prethodnog stavka.
+Muzeji, biblioteke, arhivi, zavodi za zaštitu spomenika kulture, arheološke i restauratorske institucije mogu za svoju djelatnost nabavljati opremu i reprodukcijski materijal po povlaštenim poreznim stopama.
