@@ -1,0 +1,1 @@
+Na temelju članka 73. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98. i 127/00.) i članka 19. točke 1. i članka 20. točke 4. Statuta Hrvatskog zavoda za mirovinsko osiguranja (»Narodne novine«, broj 163/98.), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 22. ožujka 2001., donosi
