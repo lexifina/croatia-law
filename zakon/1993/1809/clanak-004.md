@@ -1,0 +1,2 @@
+# Članak 4.
+Iza članka 24. dodaje se novi članak 24a. koji glasi: "Članak 24a. Državna direkcija za robne rezerve obavlja stručne i upravne poslove koji se odnose na: formiranje i korištenje robnih rezervi i osiguranje skladišnog prostora za smještaj i čuvanje robnih rezervi: intervencije na tržištu; obavljanje i drugih poslova koji su joj stavljeni u nadležnost Državna direkcija za robne rezerve ima svojstvo pravne osobe."
