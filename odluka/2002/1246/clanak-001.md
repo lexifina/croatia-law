@@ -1,0 +1,10 @@
+## o utvrĐivanju cijena rada i materijala zubotehniČara za izradu stomatoloŠko-
+## -protetskih pomagala, ortodonskih ureĐaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe za razdoblje od.1. srpnja do 31. prosinca 2002. godine
+# Članak 1.
+Cijena rada zubotehničara za izradu stomatološko- protetskog pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje prema Pravilniku o ortopetskim i drugim pomagalima (»Narodne novine« broj 63 - pročišćeni tekst , 77/00, 85/00, 106/00,131/00,60/01,71/01, 31/02 i 76/02.) utvrđuje se na osnovi broja bodova iz Popisa dijagnostičkih i terapijskih postpaka u zdravstvenim djelatnostima (»Narodne novine« broj 15/92., 29/93., 65/93., 31/95., 73/99., 3/00., 18/00., 118/01., 44/02. i 76/02.) koji su utvrđeni za zubotehničara za svako pojedino stomatološko-protetsko pomagalo i cijene boda iz članka 27. tablica 2. pod točkom 1. Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za razdoblje od 1. srpnja do 31. prosinca 2002. godine, te cijene materijala zubotehničara za izradu pomagala.
+Cijena rada i materijala za izradu stomatološko-protetskih pomagala utvrđena na način propisan stavkom 1. ovog članka navedena je u talici 1. koja je sastavni dio ove Odluke.
+Cijena rada i materijala zubotehničara za izradu ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora utvrđena na način kako je to navedeno u stavku 1. ovog članka, navedena je u tablici 2. koja je sastavni dio ove Odluke.
+Čanak 2.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«, a primjenjuje se od 1. srpnja 2002. godine.
+Članak 3.
+Danom primjene ove Odluke prestaje vrijediti Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje (Narodne novine broj 131/00. i 09/02).
