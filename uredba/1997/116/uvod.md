@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 1. Zakona o Vladi Republike Hrvatske ("Narodne novine", br. 41/90, 8/91, 14/91, 53A/91, 9/92, 55/92 i 29/94), a u svezi s člankom 30. Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija ("Narodne novine", br. 72/94 i 92/96), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 1997. donijela
