@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. podstavka 1. Zakona o hrani (»Narodne novine«, br.117/03, 130/03 i 48/04) ministar zdravstva i socijalne skrbi uz prethodno pribavljeno mišljenje ministra poljoprivrede, šumarstva i vodnoga gospodarstva donosi
