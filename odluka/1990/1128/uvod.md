@@ -1,0 +1,1 @@
+Na temelju člana 41. Zakona o udruživanju u privredne komore i člana 55. stava 1. točke 10. Statuta Privredne komore regije Bjelovar, Izvršni odbor Komore na sjednici od 18. prosinca 1990. godine, donosi
