@@ -1,0 +1,12 @@
+1. Hrvatska narodna banka u povodu obilježavanja 10. obljetnice međunarodnog priznanja Republike Hrvatske, 15. 1. 1992. - 15. 1. 2002., izdaje prigodni optjecajni kovani novac od 25. kuna.
+2. Prigodni optjecajni kovani novac iz točke 1. ove odluke izdaje se u količini od 200.000 komada i u ukupnom iznosu od 5.000.000,00 kuna.
+3. Prigodni optjecajni kovani novac od 25 kuna izrađen je od dvodijelne kovine. Jezgra prigodnoga optjecajnoga kovanog novca od 25 kuna izrađena je od slitine 92% bakra, 6% aluminija i 2% nikla, a prsten je izrađen od slitine srebrnasta sjaja, koja se sastoji od 75% bakra i 25% nikla.
+4. Prigodni optjecajni kovani novac od 25 kuna ima oblik pravilnog dvanaesterokuta, kojemu opisana kružnica ima promjer od 32 milimetra. Prigodni optjecajni kovani novac od 25 kuna ima masu od 12,75 grama.
+Jezgra prigodnoga optjecajnoga kovanog novca od 25 kuna ima promjer od 18 milimetara i masu od 4,05 grama.
+Prsten prigodnoga optjecajnoga kovanog novca od 25 kuna ima unutarnji promjer od 18 milimetara i masu od 8,70 grama.
+5. Prigodni optjecajni kovani novac od 25 kuna s lica izgleda ovako: u središnjem dijelu jezgre kovanog novca prikaz je reljefa Republike Hrvatske, preko kojeg su istaknute vodoravne i okomite blago zaobljene linije koje simboliziraju paralele i meridijane planeta Zemlje, tvoreći prikaz pojave Republike Hrvatske kao samostalne države na svjetskom globusu. Centralno, uz donji rub, istaknuti su datumi »15. 1. 1992. - 15. 1. 2002.«. U nastavku istaknutih datuma, zatvarajući krug na kovanom novcu, s lijeve na desnu stranu, ispisan je tekst »10. OBLJETNICA MEĐUNARODNOG PRIZNANJA RH«.
+6. Prigodni optjecajni kovani novac od 25 kuna s naličja izgleda ovako: u središnjem dijelu jezgre kovanog novca brojčana je oznaka nominalne vrijednosti »25«. Kroz konture brojaka vidi se kuna zlatica okrenuta udesno, čije je tijelo ukomponirano u brojčanu oznaku nominalne vrijednosti. U donjemu središnjem dijelu prstena kovanog novca grb je Republike Hrvatske. Na kružnu površinu prstena lijevo od grba položena je grančica lovora u cvatu, a desno grančica hrasta lužnjaka s plodovima. U gornjoj kružnoj površini prstena istaknut je natpis »REPUBLIKA HRVATSKA«.
+7. Obod prigodnoga optjecajnoga kovanog novca od 25 kuna je gladak.
+8. Autor idejnoga i likovnog rješenja je Damir Mataušić, akademski kipar.
+9. Ova odluka stupa na snagu danom objave u »Narodnim novinama«.
+O.br. 605/2001.
