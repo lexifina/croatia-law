@@ -1,0 +1,1 @@
+Na temelju članka 129. stavka 2. podstavka 21. Zakona o policiji (»Narodne novine«, broj 129/00.) i članka 16. Zakona o sudjelovanju pripadnika oružanih snaga Republike Hrvatske, policije, civilne zaštite te državnih službenika i namještenika u mirovnim operacijama i drugim aktivnostima u inozemstvu (»Narodne novine«, broj 33/02.), ministar unutarnjih poslova donosi
