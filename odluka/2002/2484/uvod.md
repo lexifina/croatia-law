@@ -1,0 +1,1 @@
+Na temelju članka 30.a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 16. Statuta općine Davor (»Službeni vjesnik Brodsko-posavske županije« broj 11/01) Općinsko vijeće Općine Davor na svojoj 11. sjednici održanoj 10. prosinca 2002. godine, donijelo je
