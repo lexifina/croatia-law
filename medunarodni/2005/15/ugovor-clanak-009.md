@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Prijevoznici iz jedne ugovorne stranke, koji obavljaju prijevoz prema ovom Ugovoru na teritoriju druge ugovorne stranke, uključujući i tranzit, plaćat će poreze i pristojbe u skladu s nacionalnim propisima važećim na njenom teritoriju, uz iznimku plaćanja pristojbi za izdavanje dozvola kod prijevoza osoba ili tereta.
+(2) Gortivo u uobičajenim, fiksnim spremnicima koje je proizvođač ugradio u vozilo, a koje je namijenjeno za pogon motornog vozila i za pogon rashladnog uređaja hladnjače prilikom obavljanja prijevoza, kao i mazivo i rezervni dijelovi oslobođeni su plaćanja svih uvoznih pristojbi na teritoriju druge ugovorne stranke, uz uvjet da prijevoznik poštuje sve njezine važeće carinske propise.
