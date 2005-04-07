@@ -1,0 +1,2 @@
+# Članak 10.
+Odredbe ovog Pravilnika primjenjuju se i na fizičke i pravne osobe kojima je izdano odobrenje za iznajmljivanje jahti i brodica pod stranom zastavom u teritorijalnom moru i unutrašnjim morskim vodama Republike Hrvatske (čarter-licencija) prije stupanja na snagu Pomorskog zakonika (»Narodne novine« br. 181/04), a koje na temelju valjane čarter licencije obavlja djelatnost iznajmljivanja jahti i brodica na dan stupanja na snagu ovog Pravilnika.
