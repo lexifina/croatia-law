@@ -1,0 +1,2 @@
+# Članak 4.
+Nakon što Ministarstvo poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo), na temelju dostavljenih podataka o ulovu tuna, utvrdi da je izlovljena dopuštena izlovna kvota tuna za plivarice tunolovke i/ili udičarske alate, ministar će donijeti odluku o zabrani daljnjeg ribolova tuna za 2005. godinu uz uporabu određenih ribolovnih alata, koje će se objaviti putem sredstava javnog priopćavanja.
