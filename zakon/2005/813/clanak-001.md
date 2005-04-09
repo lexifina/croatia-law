@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o područjima posebne državne skrbi (»Narodne novine«, br. 44/96., 57/96., 124/97., 78/99., 73/00., 87/00., 127/00., 94/01. i 88/02.) članak 14. a mijenja se i glasi:
+»Porezni prihodi s naslova poreza na dohodak i poreza na dobit koji se ostvare na području posebne državne skrbi, a prema članku 45. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br 117/93., 69/97., 33/00., 73/00., 127/00., 59/01., 107/01., 117/01., 150/02. i 147/03.) pripadaju državnom proračunu, prihodi su jedinica lokalne samouprave na područjima posebne državne skrbi.«
