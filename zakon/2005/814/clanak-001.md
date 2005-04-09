@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o brdsko-planinskim područjima (»Narodne novine«, br. 12/02., 32/02. i 117/03.) članak 7.c mijenja se i glasi:
+»Porezni prihodi s naslova poreza na dohodak i poreza na dobit koji se ostvare na području jedinica lokalne samouprave koje imaju status brdsko-planinskih područja, a prema članku 45. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93., 69/97., 33/00., 73/00., 127/00., 59/01., 107/01., 117/01., 150/02. i 147/03.) pripadaju državnom proračunu, prihodi su jedinica lokalne samouprave koje imaju status brdsko-planinskog područja«.
