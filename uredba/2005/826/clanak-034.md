@@ -1,0 +1,10 @@
+## 2. SLUŽBA ZA MEĐUNARODNU SURADNJUI EUROPSKE INTEGRACIJE
+# Članak 34.
+Služba za međunarodnu suradnju i europske integracije obavlja upravne i druge stručne poslove koji se odnose na međunarodnu suradnju i kontaktiranje s inozemnim poreznim upravama te međunarodnim organizacijama; vođenje i organiziranje poslova i aktivnosti oko priprema za pridruživanje Republike Hrvatske Europskoj uniji u dijelu koji se odnosi na nadležnost Porezne uprave; analiziranje i koordiniranje usklađivanje poreznog zakonodavstva Republike Hrvatske sa zakonodavstvom Europske unije; organiziranje, vođenje i održavanje sustava izmjene podataka o porezu na dodanu vrijednost (dalje u tekstu: VIES) te razmjenu podataka s drugim zemljama Europske unije kao središnjeg ureda za vezu (dalje u tekstu: CLO); praćenje i promicanje suradnje te razmjene podataka s pojedinim državama, integracijama i regionalnim inicijativama; koordiniranje priprema i provedbu programa i projekata međunarodne tehničke pomoći.
+U službi za međunarodnu suradnju i europske integracije ustrojavaju se:
+2.1. Odjel za međunarodnu suradnju
+2.2. Odjel za europske integracije.
+2.1. Odjel za međunarodnu suradnju
+Odjel za međunarodnu suradnju obavlja upravne i druge stručne poslove koji se odnose na međunarodnu suradnju i kontaktiranje s inozemnim poreznim upravama te međunarodnim organizacijama.
+2.2. Odjel za europske integracije
+Odjel za europske integracije obavlja upravne i druge stručne poslove koji se odnose na vođenje i organiziranje poslova i aktivnosti oko priprema za pridruživanje Republike Hrvatske Europskoj uniji u dijelu koji se odnosi na nadležnost Porezne uprave; analiziranje i koordiniranje usklađivanje poreznog zakonodavstva Republike Hrvatske sa zakonodavstvom Europske unije; organiziranje, vođenje i održavanje sustava VIES te razmjenu podataka s drugim zemljama Europske unije kao CLO; praćenje i promicanje suradnje te razmjene podataka s pojedinim državama, integracijama i regionalnim inicijativama; koordiniranje priprema i provedbu programa i projekata međunarodne tehničke pomoći.

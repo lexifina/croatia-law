@@ -1,0 +1,4 @@
+# Članak 53.
+ISPOSTAVE PODRUČNOG UREDA
+Ispostave Područnog ureda obavljaju upravne i druge stručne poslove koji se odnose na zaprimanje poreznih prijava, bilježenje poreznih obveza u poreznom knjigovodstvu i praćenje naplate poreza i doprinosa; utvrđivanje porezne osnovice i porezne obveze u prvom stupnju; provođenje ovrhe radi naplate poreza i doprinosa pljenidbom novčanih sredstava; podnošenje prijava za pokretanje prekršajnog postupka; izdavanje isprava o činjenicama o kojima Porezna uprava vodi službenu evidenciju; provođenje ovrhe radi naplate drugih javnih davanja po zahtjevima tijela državne uprave i sudova u skladu s posebnim zakonima; vođenje upisnika poreznih obveznika; administrativno-tehničke poslove.
+U ispostavama u kojima su ustrojeni pododsjeci, poslovi ispostave obavljaju se unutar pododsjeka.

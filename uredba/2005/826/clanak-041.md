@@ -1,0 +1,13 @@
+## 9. SLUŽBA ZA OPĆE, PRAVNE I RAČUNOVODSTVENEPOSLOVE
+# Članak 41.
+Služba za opće, pravne i računovodstvene poslove obavlja za potrebe Porezne uprave i Financijske policije upravne i druge stručne poslove koji se odnose na izradu plana proračuna, analiza prihoda i potrošnje, izradu godišnjih obračuna, nabavu sredstava; pripremanje i obradu materijala povjerenstva za nabavu roba, usluga i ustupanje radova iz područja investicijskog održavanja; provođenje javnog nadmetanja i pripremu kompletne natječajne dokumentacije pozivnih nadmetanja i ostalih načina nabave; obavljanje poslova u svezi s nekretninama, opremom i sredstvima prijevoza te ostalom imovinom; obavljanje godišnjeg popisa imovine; obavljanje poslova prijamne kancelarije, prijepisa, pismohrane i otpreme pošte; obavljanje pravnih poslova (izrade izvješća, planova rada i sl.); rješavanje o žalbama protiv rješenja Porezne uprave prvog stupnja u prekršajnim postupcima pokrenutima prije 1. listopada 2002.; obavljanje knjigovodstveno-financijskih poslova.
+U Službi za opće, pravne i računovodstvene poslove ustrojavaju se:
+9.1. Odjel za opće poslove
+9.2. Odjel za pravne poslove
+9.3. Odjel za računovodstvene poslove.
+9.1. Odjel za opće poslove
+Odjel za opće poslove obavlja za potrebe Porezne uprave i Financijske policije upravne i druge stručne poslove koji se odnose na izradu plana proračuna, analizu prihoda i potrošnje, izradu godišnjih obračuna, nabavu sredstava; pripremanje i obradu materijala povjerenstva za nabavu roba, usluga i ustupanje radova iz područja investicijskog održavanja; provođenje javnog nadmetanja i pripremu kompletne natječajne dokumentacije pozivnih nadmetanja i ostalih načina nabave; obavljanje poslova u svezi s nekretninama, opremom, prijevoznim sredstvima te ostalom imovinom; obavljanje godišnjeg popisa imovine; obavljanje poslova prijamne kancelarije, prijepisa, pismohrane i otpreme pošte.
+9.2. Odjel za pravne poslove
+Odjel za pravne poslove obavlja za potrebe Porezne uprave i Financijske policije upravne i druge stručne poslove koji se odnose na izradu ugovora iz djelokruga rada Službe, posebice o kupnji i opremanju nekretnina; kontrolira izvršenje ugovornih obveza i rokova; surađuje s drugim državnim tijelima, posebice s Državnim odvjetništvom prilikom nastanka sporova vezanih uz imovinsko-pravne odnose; obavlja poslove koji se odnose na rješavanje o žalbama protiv rješenja Porezne uprave prvog stupnja u prekršajnim postupcima pokrenutima prije 1. listopada 2002.
+9.3. Odjel za računovodstvene poslove
+Odjel za računovodstvene poslove obavlja za potrebe Porezne uprave i Financijske policije upravne i druge stručne poslove koji se odnose na obavljanje knjigovodstveno-financijskih poslova.
