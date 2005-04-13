@@ -1,0 +1,2 @@
+# Članak 104.
+Poslodavac je dužan poduzimati opće i posebne mjere zaštite na radu za uredsko i drugo osoblje čiji se rad zasniva na intenzivnom radu na kompjutorima više od 25 sati tjedno ili 5 sati dnevno. Poslodavac je obvezan sačiniti popis tih radnih mjesta na kojima je radnicima ugrožen vid i radnicima na tim radnim mjestima osigurati pregled kod nadležnog liječnika i osigurati sredstva za nabavu optičkih naočala sa zaštitom.
