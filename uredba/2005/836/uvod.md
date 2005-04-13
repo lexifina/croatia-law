@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99, 15/2000, 127/2000, 59/2001 i 199/2003) i članka 9. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine«, broj 22/2005), Vlada Republike Hrvatske je na sjednici održanoj 31. ožujka 2005. godine donijela

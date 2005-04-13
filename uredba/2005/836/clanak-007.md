@@ -1,0 +1,3 @@
+# Članak 7.
+Odsjek za izdavačku djelatnost Zavoda obavlja poslove na izdavanju norma te drugih dokumenata i publikacija iz djelokruga rada Zavoda te izdaje periodične publikacije (Glasilo Zavoda, Katalog hrvatskih norma i Program rada na pripremi hrvatskih norma), obavlja poslove na oblikovanju i izdavanju hrvatskih norma i drugih normizacijskih dokumenata i publikacija na elektroničkim nosačima (disketama, CD-ima, putem Interneta), sudjeluje u prikupljanju podataka o hrvatskim normama i oblikovanju kataloga, organizira i vodi poslove na terminološkom ujednačivanju i korigiranju tekstova publikacija koje izdaje Zavod, provodi razredbu hrvatskih norma za potrebe njihova katalogiziranja.
+2.4. Odsjek za informacijsko-dokumentacijske poslove

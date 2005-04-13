@@ -1,0 +1,3 @@
+# Članak 20.
+Odsjek za mjeriteljstvo i potvrđivanje proizvoda obavlja upravne i stručne poslove koji se odnose na provođenje zakona o mjeriteljskoj djelatnosti, mjernih jedinica i ispitivanja i označavanja predmeta od plemenitih kovina, osiguravanje sljedivosti etalona u zakonom reguliranom području, provođenje postupka tipnog ispitivanja mjerila, umjeravanje mjerila i etalona, ispitivanje količina punjenja pakovina, dodjelu znaka proizvođača predmeta od plemenitih kovina, upravne i stručne poslove u području potvrđivanja proizvoda, homologacije vozila, suradnju s međunarodnim organizacijama iz ovih područja i vođenje propisane evidencije.
+6.1.2.-6.1.5. Odsjeci mjeriteljskih poslova

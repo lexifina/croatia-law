@@ -1,0 +1,2 @@
+# Članak 21.
+U odsjecima mjeriteljskih poslova u područnim jedinicama u Zagrebu, Rijeci, Splitu i Osijeku obavljaju se upravni i stručni poslovi kao što su sudjelovanje u poslovima postupka tipnog ispitivanja mjerila, poslovi osiguravanja mjeriteljske sljedivosti mjernih rezultata etalona, poslovi umjeravanja etalona i ovjeravanja mjerila, poslovi ispitivanja sukladnosti mjerila, poslovi ispitivanja i označavanja predmeta od plemenitih kovina, nadzora predmeta od plemenitih kovina te ispitivanja pakovina.

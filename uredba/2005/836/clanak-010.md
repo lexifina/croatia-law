@@ -1,0 +1,2 @@
+# Članak 10.
+U Odsjeku za međunarodnu suradnju obavljaju se poslovi: pripreme programa i provedbe CARDS projekata i ostalih projekata pomoći Republici Hrvatskoj, suradnje s međunarodnim organizacijama za normizaciju (ISO, IEC), suradnje s europskim organizacijama za normizaciju (CEN, CENELEC, ETSI), suradnje s nacionalnim normirnim tijelima drugih država, organizacija i praćenje sudjelovanja hrvatskih predstavnika u radu međunarodnih i europskih organizacija u području normizacije.
