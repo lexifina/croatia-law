@@ -1,0 +1,3 @@
+# Članak 3.
+U sklopu radnih dana tijekom nastavne godine broj nastavnih radnih dana potrebnih za provedbu broja nastavnih sati po nastavnim predmetima, utvrđenih propisanim nastavnim planom i programom, ne smije biti manji od 175 dana u petodnevnom radnom tjednu, odnosno 210 dana u šestodnevnom radnom tjednu.
+Ako škola ne ostvari propisani nastavni plan i program i broj nastavnih radnih dana propisan stavkom 1. ovoga članka, nastavna se godina može produljiti i nakon 14. lipnja 2006. godine odlukom ureda državne uprave u županiji, odnosno ureda Grada Zagreba nadležnog za školstvo, uz prethodnu suglasnost Ministarstva znanosti, obrazovanja i športa.
