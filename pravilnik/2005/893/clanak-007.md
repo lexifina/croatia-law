@@ -1,0 +1,4 @@
+## Prestanak valjanosti standardne ponude
+# Članak 7.
+(1) Ako Vijeće Agencije rješenjem utvrdi da proglašeni operator prestaje biti operator sa znatnijom tržišnom snagom na mjerodavnom tržištu usluga nepokretnih javnih telefonskih mreža u skladu s člankom 60. stavkom 1. Zakona, taj proglašeni operator nije više obvezan sklapati nove ugovore o pristupu izdvojenoj lokalnoj petlji, i to od dana konačnosti rješenja Vijeća Agencije. Ova obveza proglašenog operatora prestaje i u slučaju kad je zahtjev operatora korisnika za pristup izdvojenoj lokalnoj petlji zaprimljen prije dana konačnosti rješenja Vijeća Agencije.
+(2) Za operatore korisnike, koji s proglašenim operatorom imaju sklopljen ugovor o pristupu izdvojenoj lokalnoj petlji, standardna ponuda prestaje vrijediti istekom roka od 90 dana od dana konačnosti rješenja iz stavka 1. ovoga članka.
