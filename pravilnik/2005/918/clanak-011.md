@@ -1,0 +1,7 @@
+# Članak 11.
+Brojilo treba imati kućište koje se može osigurati žigovima, tako da unutrašnji dijelovi brojila budu pristupačni tek nakon uništenja žigova.
+Kućište brojila štiti unutrašnjost brojila, odnosno mjerni sustav od prašine i vlage, te od neovlaštenih zahvata kojima bi se moglo utjecati na mjerna svojstva brojila.
+Ako poklopac brojila nije proziran, za očitavanje mora biti ugrađen jedan ili više prozorčića od prozirnoga gradiva koji se mogu skinuti tek nakon uništenja žiga (žigova). Veličina i smještaj prozorčića moraju biti takvi da se s udaljenosti od 2 m podaci o brojilu mogu lako čitati, i da se prilikom ispitivanja brojila može lako promatrati brojčanik i znak na kolutu rotora.
+Brojilo čije je kućište u cijelosti ili djelomično kovinsko, predviđeno za referencijski napon veći od 250 V prema zemlji, mora biti opremljeno stezaljkom zaštitnog uzemljenja i vijkom najmanje M4. Dio za uzemljenje treba se nalaziti na pristupačnom mjestu osnovne ploče brojila, a njegova namjena mora biti jasno označena simbolom za uzemljenje.
+Dijelovi za ovješenje i pričvršćivanje brojila moraju imati eliptične rupe koje omogućavaju učvršćenje brojila s vijkom M5 ili većim.
+Kućište brojila razreda točnosti 0,5 treba biti konstruirano tako da se na mjestu mjerenja koje odgovara uputama proizvođača brojila i drugim zahtjevima, može lako postaviti u normalan radni položaj, s odstupanjem ne većim od 0,5° u svim smjerovima.
