@@ -1,0 +1,11 @@
+Na temelju članka 80. Ustava Republike Hrvatske, Hrvatski sabor na sjednici 13. travnja 2005. donosi
+DEKLARACIJU O ANTIFAŠIZMU
+1. Hrvatski sabor, u povodu 60. obljetnice pobjede nad fašizmom, koja se obilježava u Europi i cijelom svijetu, potvrđuje antifašističku demokratsku utemeljenost i opredijeljenost Republike Hrvatske i hrvatskog društva te duboku privrženost vrijednostima suvremene demokracije.
+2. Pridružuje se obilježavanju pobjede demokratskih snaga svijeta nad strašnim zlom novije povijesti utjelovljenom u fašističkoj zavjeri protiv slobode i čovječnosti.
+3. Naglašava da su vrijednosti i visoki doprinos hrvatskog naroda u borbi protiv fašizma u Drugom svjetskom ratu ugrađeni u temelje samostalne Republike Hrvatske, u izvorišnim osnovama Ustava Republike Hrvatske, kojima su afirmirane i Odluke Zemaljskog antifašističkog vijeća narodnog oslobođenja Hrvatske.
+4. Potvrđuje da su temeljne vrijednosti antifašizma jednoznačno prihvaćene u Republici Hrvatskoj.
+5. Poziva na trajnu afirmaciju ii njegovanje antifašističkih vrijednosti te zaštitu i očuvanje stečevina antifašizma.
+6. Naglašava duboku i trajnu povezanost hrvatskog antifašizma s općim demokratskim stečevinama i izgradnjom suvremene demokratske Europe.
+7. Naglašava važnost europskog odabira Dana pobjede nad fašizmom kao Dana Europe, podsjećajući da su temelji Europske unije povezani s pobjedom nad fašizmom i pridružujući se europskom opredjeljenju za demokraciju, slobodu, toleranciju, solidarnost i odbacivanje svakog oblika ekstremizma i totalitarizma.
+8. Poziva državna tijela i javne institucije na objektivno, cjelovito i nepristrano sagledavanje povijesnog razdoblja Drugog svjetskog rata i antifašizma u Republici Hrvatskoj, ne izjednačavajući antifašistički pokret s ideologijom komunizma.
+9. Poziva državna tijela da zakonskim sredstvima i djelatnošću čuvaju i unaprjeđuju antifašističke stečevine, vrijednosti i opredjeljenja hrvatskog društva i Republike Hrvatske te rade na očuvanju dostojanstva i skrbi nad sudionicima antifašističke borbe, na očuvanju antifašističke spomeničke baštine kao općeg kulturnog dobra i na ukupnoj zaštiti i afirmaciji temeljnih vrijednosti antifašizma kao zalog civilizacijske budućnosti i demokratskog europskog opredjeljenja.
