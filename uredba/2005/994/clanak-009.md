@@ -1,0 +1,2 @@
+# Članak 9.
+U članku 41.a riječi: »obavlja inspekcijske poslove koji se odnose na nadzor nad primjenom propisa o radu i načinu obavljanja stručnih poslova zrakoplovnog, pomoćnoga zrakoplovnog i drugoga stručnog osoblja, stručnom osposobljavanju i dozvolama tog osoblja, njihovoj stručnoj i zdravstvenoj sposobnosti, trajanju radnog vremena i vremena letenja, trajanju prijevoza i spremnosti, broju uzlijetanja i slijetanja (u tijeku radnog vremena), te dužini dnevnog odmora članova posade zrakoplova.« brišu se.
