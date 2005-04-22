@@ -1,0 +1,9 @@
+## VI. POSTUPAK ZA ISPLATU TROŠKOVA PRIJEVOZA KORISNIKA RADI PREGLEDA PRED LIJEČNIČKIM POVJERENSTVIMA
+# Članak 10.
+1) Korisnicima prava po Zakonu pripada naknada za prijevoz u drugo mjesto ako su od nadležnog tijela upućeni, odnosno pozvani u drugo mjesto radi pregleda pred liječničkim povjerenstvom.
+2) Korisnik prava kojemu nadležni liječnik odredi pratitelja za putovanje radi pregleda pred liječničkim povjerenstvom ima pravo na naknadu troškova prijevoza i za pratitelja.
+3) Troškovi prijevoza nadoknađuju se prema cijeni vozne karte za prijevoz autobusom, odnosno drugim razredom željeznice ili brodom.
+4) HRVI I. skupine sa stopostotnim tjelesnim oštećenjem organizma kao i HRVI od II. do IV. skupine čije utvrđeno oštećenje organizma ima za posljedicu oštećenje funkcije donjih ekstremiteta ili gubitak vida, a putuju osobnim automobilom u slučaju iz stavka 1). ovog članka, imaju pravo na nadoknadu putnih troškova sukladno priloženoj potvrdi izdanoj u originalnom primjerku o cijeni vozne karte prijevoznog sredstva navedenog u stavku 3). ovog članka.
+5) Ostalim korisnicima u slučaju iz stavka 1). ovog članka troškovi prijevoza nadoknađuju se po dostavljenoj voznoj karti (original).
+6) Troškove prijevoza korisnika radi pregleda kod prvostupanjskog liječničkog povjerenstva isplaćuje tijelo uprave koje rješava u prvom stupnju, a troškove prijevoza za korisnika radi pregleda kod Drugostupanjskog liječničkog povjerenstva isplaćuje Ministarstvo.
+7) Kako bi Ministarstvo podmirilo troškove prijevoza korisnika radi pregleda kod Drugostupanjskog liječničkog povjerenstva, tijela uprave koja rješavaju u prvom stupnju dužna su uz iznos putnog troška navedenog u mjesečnom zahtjevu za isplatu invalidnina dostaviti Odjelu poziv Drugostupanjskog liječničkog povjerenstva u izvorniku i voznu kartu na način kako je navedeno u stavku 4). ovog članka.
