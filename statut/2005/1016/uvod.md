@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« broj 76/93, 29/97 i 47/99), i članka 4. stavka 2. Uredbe o osnivanju Agencije za strukovno obrazovanje (»Narodne novine« br. 10/05), Upravno vijeće Agencije je na sjednici održanoj 13. travnja 2005. godine donijelo
