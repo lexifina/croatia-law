@@ -1,0 +1,4 @@
+# Članak 11.
+1. Bilo kakav spor između dvije ili više država stranaka glede tumačenja ili primjene ove Konvencije, koji se ne može riješiti putem pregovora bit će, na zahtjev jedne od njih, podvrgnut arbitraži. Ukoliko se unutar šest mjeseci od dana zahtjeva za arbitražom stranke još uvijek ne mogu složiti oko organizacije arbitraže, bilo koja od tih stranaka može spor predati Međunarodnom sudu uz zahtjev dan u skladu sa Statutom Suda.
+2. Svaka država stranka može u vrijeme potpisivanja, ratifikacije, prihvata ili odobrenja ove Konvencije, ili pak pristupanja istoj dati izjavu da se ne smatra vezanom prethodnim stavkom. Druge države stranke neće biti vezane prethodnim stavkom u odnosu na države stranke koje su dale takvu rezervu.
+3. Bilo koja država stranka koja je dala rezevu u skladu s prethodnim stavkom može u svako vrijeme povući takvu rezervu notifikacijom depozitaru.

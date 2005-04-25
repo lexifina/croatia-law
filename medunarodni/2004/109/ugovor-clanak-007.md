@@ -1,0 +1,7 @@
+# Članak 7.
+1. Bilo koja država stranka može unutar devedeset dana od dana objave predložene izmjene Tehničkog aneksa ove Konvencije Vijeću poslati svoje primjedbe. Vijeće će primjedbe u najbržem roku prenijeti Odboru na razmatranje. Vijeće će bilo koju državu stranku koja ima primjedbe ili ulaže prigovore na predložene izmjene pozvati na savjetovanje s Odborom.
+2. Odbor će razmotriti stajališta država stranaka koje su u skladu s prethodnim stavcima, te to prijaviti Odboru. Nakon razmatranja prijavka Odbora, te uzevši u obzir prirodu izmjena i primjedbi država stranaka, uključujući države proizvođače, Vijeće može svim državama strankama predložiti izmjenu na usvajanje.
+3. Ukoliko na predloženu izmjenu nema prigovora od strane pet ili više država stranaka u obliku pisane objave Vijeću unutar devedeset dana od dana objave izmjene od strane Vijeća, izmjena će se smatrati usvojenom, te će stupiti na snagu 180 dana nakon toga, ili nakon nekog drugog vremenskog razdoblja utvrđenog u predloženoj izmjeni za države stranke koje na nju nisu jasno uložile prigovor.
+4. Države stranke koje su izričito uložile prigovor na predložene izmjene mogu naknadno, putem polaganja isprave o prihvatu ili odobrenju, izraziti svoj pristanak da budu vezane odredbama izmjene.
+5. Ukoliko pet ili više država stranaka imaju prigovor na predloženu izmjenu, Vijeće će to proslijediti Odboru na daljnje razmatranje.
+6. Ukoliko predložena izmjena nije usvojena u skladu sa stavkom 3. ovoga članka, Vijeće isto tako može sazvati konferenciju svih država stranaka.
