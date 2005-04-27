@@ -1,0 +1,7 @@
+# Članak 34.
+Članak 64. mijenja se i glasi:
+»(1) Kad subjekt upisa ne podnese sudu prijavu za upis razloga za prestanak koji je po zakonu dužan podnijeti ili to ne učini kada društvo prestaje iz razloga navedenih u članku 367. stavku 1. točki 1. Zakona o trgovačkim društvima, registarski sud će po službenoj dužnosti pokrenuti postupak za upis tog razloga u registar.
+(2) U slučaju iz stavka 1. ovoga članka, registarski sud će pozvati društvo, odnosno subjekt upisa da podnese prijavu u roku od 15 dana od dana primitka zaključka.«
+(3) Ako društvo, odnosno subjekt upisa ne postupi po prvom pozivu, registarski sud će ga ponovo pozvati da to učini uz upozorenje da će po proteku ostavljenog roka, koji ne može biti duži od 15 dana, po službenoj dužnosti upisati u sudski registar da je nastao razlog za prestanak društva i da će imenovati likvidatore.«
+(4) Kada sud utvrdi da razlozi za prestanak društva odnosno subjekta upisa, postoje, donijet će rješenje o upisu nastanka razloga za prestanak društva odnosno subjekta upisa, imenovanju likvidatora i promjeni tvrtke ili naziva s naznakom »u likvidaciji«. Kada registarski sud utvrdi da nema osnova za upis razloga za prestanak društva, odnosno subjekta upisa, rješenjem će obustaviti postupak.
+(5) Pravomoćno rješenje o prestanku društva, odnosno subjekta upisa i upisa prestanka subjekta objavljuje se u »Narodnim novinama«. Po pravomoćnosti rješenja, registarski sud će upisati postojanje razloga za prestanak subjekta upisa.«

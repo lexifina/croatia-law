@@ -1,0 +1,6 @@
+# Članak 27.
+Članak 51. mijenja se i glasi:
+»(1) Predmet poslovanja / djelatnost upisuju se u sudski registar u skladu s posebnim zakonima.
+(2) Ako djelatnost nije propisana posebnim zakonom, ista se upisuje u skladu sa zahtjevom za upis i aktom subjekta upisa, uz uvjet da djelatnost nije zabranjena posebnim zakonom ni protivna moralu društva, te da se ne odnosi na djelatnost državnih tijela, osoba koje obavljaju javne poslove, političkih stranaka ili drugih osoba propisanih zakonom.
+(3) Ako je zakonom za pojedine djelatnosti propisano da ih mogu obavljati samo određeni oblici subjekata upisa, te da se pojedine djelatnosti mogu obavljati samo na temelju suglasnosti, dozvole ili drugoga akta državnog tijela ili neke institucije, takve djelatnosti mogu obavljati samo oni subjekti upisa za koje je to zakonom određeno, odnosno samo ako za to dobiju propisanu suglasnost, dozvolu ili drugi akt državnog tijela ili institucije.
+(4) Ako je za pojedine djelatnosti zakonom propisano da se mogu obavljati samo na temelju suglasnosti, dozvole ili drugog akta državnog tijela ili neke institucije, upis te djelatnosti u sudski registar provest će se samo na temelju prethodne suglasnosti ili dozvole toga tijela ili institucije.«
