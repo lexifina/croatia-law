@@ -1,0 +1,10 @@
+# Članak 7.
+Uvjeti za ustanove koje rade u inozemstvu i konzultantske tvrtke
+Za ustanove, konzultantske tvrtke ili druge pravne osobe iz zemalja osim Hrvatske, koje je Švedska angažirala za izvođenje zadataka u Hrvatskoj u okviru razvojne suradnje između Švedske i Hrvatske, vrijedi sljedeće:
+1. Kako je utvrđeno člankom 6. ovoga Ugovora, uvjeti za osoblje koje je upućeno na rad u inozemstvo vrijede i za osoblje takvih poduzeća/ustanova i njihove bračne drugove, osobe s kojima žive u izvanbračnoj zajednici i članove obitelji.
+2. Njih se ne smatra odgovornim za neispunjenje njihovih zadataka ako su tome uzrok upute ili preporuke glede sigurnosti koje je dalo Veleposlanstvo Švedske.
+3. One imaju pravo na istu zaštitu od zahtjeva trećih osoba kao što je utvrđeno u članku 6. stavku 4. ovoga Ugovora.
+4. One imaju pravo uvesti i ponovo izvesti, bez carinskih pristojbi i drugih sličnih davanja, profesionalnu opremu i robu potrebnu za obavljanje svojih zadaća, ili prodati takvu opremu u Hrvatskoj uz plaćanje carine i drugih sličnih davanja, kada im više nije potrebna.
+5. Izuzete su od poreza i sličnih nameta na dobit, promet ili po sličnim osnovama, i na honorare i naknade koje im plaća Švedska za njihove usluge u okviru programa razvojne suradnje. Ovo izuzeće se ne odnosi na neizravne poreze koji su normalno ugrađeni u cijenu robe i usluga kupljenih u Hrvatskoj.
+6. One imaju pravo otvoriti inozemne bankovne račune i koristiti ih za ispunjenje svojih zadataka. Hrvatska se obvezuje izdati odobrenja za kupnju deviza i primijeniti nacionalne propise o kontroli deviznog poslovanja bez ikakve diskriminacije prema Švedskoj u odnosu na bilo koje treće zemlje. Hrvatska se obvezuje odobravati dozvole neophodne za povrat sredstava u odnosu na izvršenje posebnih ugovora, u skladu s deviznim propisima koji su na snazi u Hrvatskoj.
+7. Izuzimaju se od svih obveza registriranja u Hrvatskoj radi stručnog ovlaštenja, poreza ili drugih razloga, osim ako se ne bave poslovnim aktivnostima u Hrvatskoj koje ne potpadaju pod ovaj Ugovor.
