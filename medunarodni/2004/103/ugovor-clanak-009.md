@@ -1,0 +1,5 @@
+# Članak 9.
+Obavijesti
+(1) ŠDostatna obavijestš Svaka obavijest koju pošalje Ured u skladu s odredbama ovoga Ugovora ili Pravilnika na adresu za dopisivanje ili na adresu za dostavu iz članka 8. stavka (6), ili na bilo koju drugu adresu predviđenu Pravilnikom u smislu ove odredbe, a koja udovoljava odredbama koje se odnose na tu obavijest, dostatna je za potrebe ovoga Ugovora i Pravilnika.
+(2) ŠAko nisu podneseni podaci koji omogućavaju kontaktš Ništa u ovom Ugovoru i Pravilniku ne obvezuje Ugovornu stranku da podnositelju prijave, vlasniku ili drugoj zainteresiranoj osobi pošalje obavijest ako Uredu nisu podneseni podaci koji omogućavaju stupanje u kontakt s podnositeljem prijave, vlasnikom ili drugom zainteresiranom osobom.
+(3) ŠNeobavješćivanješ Podložno članku 10. stavku (1), ako Ured ne obavijesti podnositelja prijave, vlasnika ili drugu zainteresiranu osobu o neispunjavanju uvjeta prema ovom Ugovoru ili Pravilniku, nepostojanje obavijesti ne oslobađa podnositelja prijave, vlasnika ili drugu zainteresiranu osobu od obveze ispunjavanja toga uvjeta.

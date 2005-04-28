@@ -1,0 +1,26 @@
+# Članak 1.
+Skraćeni izrazi
+Za potrebe ovoga Ugovora, osim ako je izričito drukčije navedeno:
+(i) »Ured« znači tijelo države ugovornice kojemu je povjereno priznavanje patenata ili druga pitanja obuhvaćena ovim Ugovorom,
+(ii) »prijava« znači prijavu za priznavanje patenta navedenu u članku 3.,
+(iii) »patent« znači patent naveden u članku 3.,
+(iv) upućivanja na »osobu« tumače se kao upućivanja koja uključuju posebice fizičku i pravnu osobu,
+(v) »podnesak« znači svaku prijavu ili svaki zahtjev, izjavu, dokument, dopisivanje ili druge podatke podnesene Uredu, koji se odnose na prijavu ili na patent, bez obzira na to odnose li se oni na postupak po ovom Ugovoru ili ne,
+(vi) »registar Ureda« znači zbirku podataka koju vodi Ured, a koja uključuje podatke koji se odnose na prijave patenata podnesene tom Uredu ili drugom tijelu i patente priznate od strane tog Ureda ili drugog tijela s učinkom za dotičnu Ugovornu stranku, bez obzira na medij na kojem se čuvaju ti podaci,
+(vii) »upis u registar« znači svaki unos podataka u registar Ureda,
+(viii) »podnositelj prijave« znači osobu koja je, u skladu sa zakonom koji se primjenjuje, navedena u registru Ureda kao podnositelj prijave patenta ili kao druga osoba koja podnosi prijavu ili sudjeluje u postupku povodom prijave,
+(ix) »vlasnik« znači osobu koja je navedena u registru Ureda kao vlasnik patenta,
+(x) »zastupnik« znači zastupnika u skladu sa zakonom koji se primjenjuje,
+(xi) »potpis« znači svako sredstvo osobne identifikacije,
+(xii) »jezik prihvaćen od strane Ureda« znači svaki jezik prihvaćen od strane Ureda za vođenje odgovarajućeg postupka pred tim Uredom,
+(xiii) »prijevod« znači prijevod na jezik prihvaćen od strane Ureda ili, ako je prikladno, transliteraciju u abecedu ili grafijski sustav prihvaćen od strane Ureda,
+(xiv) »postupak pred Uredom« znači svaku radnju u postupku pred Uredom u pogledu prijave za priznavanje patenta ili patenta,
+(xv) osim ako iz konteksta proizlazi drukčije, riječi u jednini uključuju i množinu i obratno, a osobne zamjenice muškog roda uključuju i ženski rod,
+(xvi) »Pariška konvencija« znači Parišku konvenciju za zaštitu industrijskog vlasništva potpisanu 20. ožujka 1883., kako je revidirana i dopunjena,
+(xvii) »Ugovor o suradnji na području patenata« znači Ugovor o suradnji na području patenata potpisan 19. lipnja 1970., s Pravilnikom i Administrativnim uputama prema tom Ugovoru, kako su revidirani, izmijenjeni i dopunjeni i preinačeni,
+(xviii) »Ugovorna stranka« znači svaku državu ili međuvladinu organizaciju koja je članica ovoga Ugovora,
+(xix) »zakon koji se primjenjuje« znači zakon dotične države, ako je ugovorna stranka država, a ako je ugovorna stranka međuvladina organizacija, zakonske odredbe na temelju kojih ta organizacija djeluje,
+(xx) »isprava o ratifikaciji« tumači se tako kao da uključuje ispravu o prihvatu ili ispravu o odobrenju,
+(xxi) »Organizacija« znači Svjetsku organizaciju za intelektualno vlasništvo,
+(xxii) »Međunarodni ured« znači Međunarodni ured Organizacije,
+(xxiii) »glavni direktor« znači glavnog direktora Organizacije.

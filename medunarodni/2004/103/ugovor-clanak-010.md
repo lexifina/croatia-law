@@ -1,0 +1,5 @@
+# Članak 10.
+Valjanost patenta, opoziv
+(1) ŠValjanost patenta na koju ne utječe neispunjavanje određenih formalnih uvjetaš Neispunjavanje jednog formalnog uvjeta ili više njih što se odnose na prijavu patenta iz članka 6. stavka (1), članka 4., članka 5. i članka 8. stavka od (1) do (4) ne može biti razlogom za opoziv ili poništaj, bilo potpun bilo djelomičan, osim ako je neispunjavanje formalnih uvjeta posljedica prijevarne namjere.
+(2) ŠMogućnost očitovanja, izmjena ili ispravaka u slučaju namjeravanog opoziva ili poništajaš Patent se ne smije opozvati ili poništiti, bilo u potpunosti bilo djelomično, a da vlasniku nije dana mogućnost da se u razumnom roku očituje o namjeravanom opozivu ili poništaju i da izvrši izmjene ili ispravke ako je to dopušteno po zakonu koji se primjenjuje.
+(3) ŠNepostojanje obveze u pogledu posebnih postupakaš Odredbe iz stavaka (1) i (2) ne nameću nikakvu obvezu uvođenja sudskih postupaka za zaštitu patentnih prava od njihove povrede koji se razlikuju od onih za provedbu zakona općenito.

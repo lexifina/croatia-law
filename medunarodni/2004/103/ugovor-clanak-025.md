@@ -1,0 +1,5 @@
+# Članak 25.
+Jezici Ugovora
+(1) ŠIzvorni tekstoviš Ovaj je Ugovor potpisan u jednom izvorniku na engleskom, arapskom, kineskom, francuskom, ruskom i španjolskom jeziku, pri čemu su svi tekstovi jednako i isključivo vjerodostojni.
+(2) ŠSlužbeni tekstoviš Službeni tekst na bilo kojem drugom jeziku, koji nije naveden u stavku (1), utvrđuje glavni direktor nakon savjetovanja sa zainteresiranim strankama. U svrhu ovoga stavka zainteresirana stranka znači svaku državu koja je stranka ovoga Ugovora ili državu koja ispunjava uvjete da postane strankom Ugovora prema članku 20. stavku (1), a o čijem je službenom jeziku ili jednom od službenih jezika riječ, Europska patentna organizacija, Euroazijska patentna organizacija i Afrička regionalna organizacija za industrijsko vlasništvo i bilo koja druga međuvladina organizacija koja je stranka Ugovora ili bi mogla postati strankom Ugovora, ako je riječ o jednom od njezinih službenih jezika.
+(3) ŠPrednost izvornog tekstaš U slučaju razlika mišljenja u tumačenju izvornih i službenih tekstova, izvorni tekst ima prednost.

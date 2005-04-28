@@ -1,0 +1,4 @@
+# Članak 16.
+UČinci revizija, izmjena i dopuna i preinaka Ugovora o suradnji na području patenata
+(1) ŠPrimjena revizija, izmjena i dopuna Ugovora o suradnji na području patenataš Podložno stavku (2), svaka revizija, izmjena ili dopuna Ugovora o suradnji na području patenata, koja je u skladu sa člancima ovoga Ugovora, a uslijedila je nakon (2) lipnja 2000., primjenjuje se u smislu ovoga Ugovora i Pravilnika ako tako u konkretnom slučaju odluči Skupština tročetvrtinskom većinom danih glasova.
+(2) ŠNeprimjena prijelaznih odredaba Ugovora o suradnji na području patenataš Bilo koja odredba Ugovora o suradnji na području patenata, na temelju koje se revidirana, izmijenjena ili dopunjena odredba toga Ugovora ne primjenjuje na državu članicu toga Ugovora ili na Ured te države ili na Ured koji radi za tu državu, sve dok ova druga odredba nije u skladu sa zakonom koji ta država ili taj Ured primjenjuje, ne primjenjuje se u svrhu ovoga Ugovora i Pravilnika.
