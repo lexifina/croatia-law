@@ -1,0 +1,2 @@
+# Članak 177.
+Danom stupanja na snagu ovoga Pravilnika prestaje vrijediti Pravilnik o rukovanju opasnim tvarima, uvjetima i načinu ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama te načinu sprječavanja širenja isteklih ulja u lukama (»Narodne novine« br. 108/95), kao i Pravilnik o načinu obavljanja prijevoza opasnih tvari u pomorskom prometu (»Narodne novine«, 79/96 i 76/02).

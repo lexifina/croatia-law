@@ -1,0 +1,3 @@
+# Članak 6.
+Lučka uprava dužna je dostaviti zapovjedniku broda odnosno pomorskom agentu broda koji prevozi opasne tvari operativno uputstvo s informacijama o svim bitnim činjenicama i okolnostima za pristajanje i boravak broda u luci, o rukovanju opasnim tvarima u luci, smještanju zaštitnih sredstava, načinu pozivanja zaštitnih službi u luci, snabdijevanju broda i dr.
+Pomorski agent dužan je upoznati zapovjednika broda koji prevozi opasne tvari s odredbama ovoga Pravilnika, posebnim aktom iz članka 4. ovoga Pravilnika i drugim propisima koji se primjenjuju u luci za vrijeme rukovanja opasnim tvarima.

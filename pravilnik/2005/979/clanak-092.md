@@ -1,0 +1,4 @@
+# Članak 92.
+Ako za vrijeme rukovanja radioaktivnim tvarima dođe do oštećenja, razlijevanja ili curenja tih tvari, mjesto rukovanja se mora odmah potpuno izolirati ograđivanjem, obustaviti daljnje rukovanje i zabraniti pristup nestručnim osobama, a radnici koji su rukovali radioaktivnim tvarima moraju se odmah podvrgnuti zdravstvenoj kontroli.
+U slučaju iz stavka 1. ovoga članka brod, vozilo, sredstva rada i mjesto rukovanja moraju se podvrgnuti dekontaminaciji, koju može izvršiti ustanova ovlaštena od Ministarstva zdravstva, a na mjesto rukovanja može pristupiti samo stručno osposobljena osoba koja određuje mjere za otklanjanje opasnosti.
+Ovlaštenik koncesije, dužan je o događaju iz stavka 1. ovoga članka obavijestiti kapetaniju, lučku Upravu, Ministarstvo zdravstva, Ministarstvo unutarnjih poslova i imatelja prava na teret.

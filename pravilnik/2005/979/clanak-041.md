@@ -1,0 +1,4 @@
+# Članak 41.
+Ako stručna osoba pod čijim se nadzorom obavlja rukovanje opasnim tvarima utvrdi da se rukovanje ne obavlja stručno, da nisu provedene sigurnosne, zaštitne i druge mjere, da zaštitna sredstva i uređaji nisu ispravni ili da ambalaža u kojoj su pakirane opasne tvari nije u ispravnom stanju ili propisno označena, te ako za vrijeme rukovanja opasnim tvarima nastupi opasnost, dužna je odmah prekinuti rukovanje i o tome obavijesti kapetaniju i lučku upravu.
+Ako osoba koja rukuje opasnim tvarima primijeti opasnost za vrijeme rukovanja opasnim tvarima, dužna je odmah prekinuti rukovanje i o tome obavijestiti zapovjednika broda ili stručnu osobu pod čijim se nadzorom obavlja rukovanje opasnim tvarima.
+U slučaju iz stavka 1. i 2. ovoga članka, kapetanija može zabraniti daljnje rukovanje opasnim tvarima.

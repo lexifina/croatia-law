@@ -1,0 +1,2 @@
+# Članak 151.
+Na prijevoz i rukovanje krutih rasutih tereta, pored odredaba ovoga Pravilnika, odgovarajuće se primjenjuju i Pravila Priznate organizacije, odredbe SOLAS Konvencije iz 1974. s Protokolima i svim izmjenama i dopunama, Međunarodnog kodeksa za sigurno rukovanje krutim rasutim teretima (BC Code) i Međunarodnog kodeksa za sigurno ukrcavanje i iskrcavanje brodova za prijevoz rasutih tereta (BLU Code) iz 1998. godine (Code of Practice for safe Loading and Unloading of Bulk Carriers).

@@ -1,0 +1,7 @@
+# Članak 19.
+Lučka uprava dužna je osigurati da su poduzete sve propisane opće i posebne sigurnosne mjere za rukovanje pojedinim vrstama opasnih tvari, te kontinuirano za vrijeme rukovanja opasnim tvarima provoditi red na području luke gdje se vrši rukovanje opasnim tvarima.
+Zapovjednik odnosno ovlašteni časnik na brodu i stručna osoba u luci pod čijim se nadzorom obavlja rukovanje opasnim tvarima, moraju prije početka rukovanja opasnim tvarima na brodu međusobno izmijeniti izvještaje o ispravnosti sredstava za zaštitu od požara i svih drugih sredstava i uređaja na brodu, odnosno na obali pomoću kojih se rukuje opasnim tvarima, načinu obavještavanja za slučaj opasnosti, tehničkim svojstvima opasnih tvari i posebnim mjerama koje se primjenjuju za rukovanje opasnim tvarima, te o tome sastaviti Sigurnosnu kontrolnu listu za rukovanje opasnim tvarima osim tankera koju odobrava lučka uprava, a čiji je tekst s prijevodom na engleski jezik sastavni dio ovog pravilnika (Prilog 2.).
+Rukovanje opasnim tvarima na brodu ne smije započeti bez odobrenja lučke uprave.
+Ako lučka uprava ne odobri početak rukovanja opasnim tvarima na brodu o tome će odmah uz obrazloženje pisanim putem izvijestiti Kapetaniju.
+Lučka uprava dužna je dostaviti odobreni primjerak sigurnosne kontrolne liste Kapetaniji odmah po odobrenju istog.
+Stručnom osobom za potrebe ove glave smatra se osoba koja pored uvjeta navedenih u članku 2. ovoga Pravilnika posjeduje i Svjedodžbu o osposobljenosti za rad s opasnim teretima (D-22).
