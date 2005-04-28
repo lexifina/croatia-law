@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o načinu prijavljivanja i odjavljivanja te trajanju statusa osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja (»Narodne novine« broj 28/02. i 43/03.) članak 2. mijenja se i glasi:
+»Status osigurane osobe utvrđuje Zavod na osnovi prijave na osnovno zdravstveno osiguranje, njezine ovjere te izdavanjem isprave propisane Odlukom o sadržaju i obliku isprave kojom se utvrđuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja.
+Status osigurane osobe Zavoda utvrđuje se prema područnom uredu Zavoda na području kojega osoba za koju je podnesena prijava na osnovno zdravstveno osiguranje ima prebivalište, odnosno boravište.
+Prijava na osnovno zdravstveno osiguranje podnosi se područnom uredu Zavoda ili njegovoj ispostavi nadležnima prema mjestu prebivališta, odnosno boravišta osobe, odnosno prema sjedištu pravne ili fizičke osobe obveznika uplate doprinosa za osnovno zdravstveno osiguranje (u daljnjem tekstu: nadležni područni ured).
+Članovima obitelji osiguranika status osigurane osobe, u pravilu, utvrđuje područni ured Zavoda koji je nositelju osiguranja utvrdio status osiguranika.«
