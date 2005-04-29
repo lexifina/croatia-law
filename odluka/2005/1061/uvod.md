@@ -1,0 +1,1 @@
+Na temelju članka 11. i 12. Statuta Državne agencije za osiguranje štednih uloga i sanaciju banaka i sukladno članku 3. st. 1. toč. 4. Zakona o osiguranju depozita (»Narodne novine« br. 177/2004), Uprava Agencije je na svojoj 88. sjednici održanoj 6. travnja 2005. godine donijela
