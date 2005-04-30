@@ -1,0 +1,2 @@
+# Članak 4.
+Ravnatelj samostalne knjižnice, odnosno voditelj knjižnice u sastavu dužan je u roku od godine dana od donošenja ovoga Pravilnika donijeti Plan mjera za slučaj opasnosti iz članka 3. ovoga Pravilnika i odrediti osobu odgovornu za njegovo provođenje. Pri izradi plana potrebno je voditi računa o posebnostima knjižnice i knjižnične građe (vrsta građevinskog objekta, okoliš, vrsta i starost građe i sl.).

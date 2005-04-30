@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 1. Zakona o knjižnicama (»Narodne novine«, br. 105/97, 5/98. i 104/00) a na prijedlog Hrvatskoga knjižničnog vijeća, ministar kulture, uz prethodnu suglasnost ministra znanosti, obrazovanja i športa donosi
