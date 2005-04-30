@@ -1,0 +1,7 @@
+## Poglavlje IV.
+## POJAVA BOLESTI KOJE SE PRENOSE HRANOM
+## Epidemiološko istraživanje bolesti koje se prenose hranom
+# Članak 8.
+1) Nadležna tijela iz članka 2. ovoga Pravilnika jamče da će u slučaju kada subjekt u poslovanju s hranom bude davao podatke istima u skladu s člankom 6. ovoga Pravilnika, sačuvati dotični prehrambeni proizvod ili njegov odgovarajući uzorak kako se ne bi otežalo njegovo pretraživanje u laboratoriju ili istraživanje o pojavi bilo koje bolesti koje se prenose hranom.
+2) Nadležno tijelo iz članka 2. ovoga Pravilnika istražuje izbijanje bolesti koje se prenose hranom. Istraživanje pruža podatke o epidemiološkom profilu, prehrambenim proizvodima koji su moguće bili povezani s izbijanjem bolesti i mogućim uzrocima izbijanja bolesti. Istraživanja će uključiti, što je više moguće, provedbu odgovarajućih epidemioloških i mikrobioloških studija. Nadležno tijelo šalje Međuresornom povjerenstvu za zoonoze sažetak izvješća o rezultatima provedenih istraživanja, obuhvaćajući podatke iz Poglavlja E Dodatka IV. ovoga Pravilnika.
+3) Stavci 1. i 2. ovoga članka primjenjuju se ne dovodeći u pitanje i u skladu s odredbama posebnih propisa o sigurnosti proizvoda, o sustavima ranog upozorenja i odgovora na sprječavanje i kontrolu prenosivih bolesti u ljudi i životinja, higijeni hrane, posebice onih o hitnim mjerama i postupcima za povlačenje hrane i stočne hrane s tržišta.
