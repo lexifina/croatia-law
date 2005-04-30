@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 6. Zakona o otocima (»Narodne novine« 34/99, 149/99 i 32/02) a u svezi s člankom 37. Zakona o izmjenama i dopunama Zakona o otocima (»Narodne novine« 32/02), ministar mora, turizma, prometa i razvitka uz suglasnost ministra financija donosi

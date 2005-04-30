@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom utvrđuju se uvjeti i način ostvarivanja prava besplatnoga javnoga pomorskog prijevoza korisnicima iz članka 10. stavak 2. Zakona o otocima (u daljnjem tekstu: Zakon) koji imaju prebivalište na otocima, te postupak izračuna i ostvarivanja naknade dijela neostvarenih prihoda iz članka 10. stavak 4. Zakona prijevoznicima (u daljnjem tekstu: brodari) koji obavljaju usluge javnoga pomorskog prijevoza na linijama koje povezuju otoke s kopnom i otoke međusobno.
