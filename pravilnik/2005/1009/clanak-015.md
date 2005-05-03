@@ -1,0 +1,2 @@
+# Članak 15.
+Danom stupanja na snagu ovoga pravilnika prestaju važiti odredbe članaka 1. do 3., 5. do 11. te 13. do 16. Pravilnika o uvjetima ovlašćivanja pravnih osoba i servisa, o postupku ispitivanja i ovjeravanja, o tehničkim i mjeriteljskim zahtjevima za manometre, vakuumometre i manovakuumometre, mjerne pretvornike tlaka, uređaje za mjerenje krvnog tlaka i tlakomjere za gume (»Narodne novine« br. 142/04.), a koje se odnose na ovlaštene pravne osobe.
