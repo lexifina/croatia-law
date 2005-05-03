@@ -1,0 +1,3 @@
+## Elektronski tlakomjeri
+# Članak 17.
+Elektronski tlakomjeri za gume su samostojeći uređaji ugrađeni u nosač, a omogućavaju namještanje željenog tlaka te njegovo automatsko podešavanje. Na uređaju se nalaze priključci vanjskog izvora komprimiranog zraka i priključak za odvod zraka na ventil gume. Unutar uređaja se nalaze ventili preko kojih se obavlja otvaranje i zatvaranje priključaka i oduška za ispuštanje viška zraka. Ventilima se upravlja ugrađenom automatikom. Mjernoj ćeliji se preko tipkala na prednjoj ploči može zadavati željeni tlak. Načelo rada je u naizmjeničnom mjerenju i podešavanju tlaka ventilima. Nakon postizanja namještenog tlaka, uređaj mora dati zvučni signal.
