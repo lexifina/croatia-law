@@ -1,0 +1,2 @@
+# Članak 35.
+Postupci povodom zahtjeva za davanje odobrenja za stavljanje medicinskog proizvoda u promet podnesenih nadležnim tijelima do dana stupanja na snagu ovoga Pravilnika dovršit će se sukladno odredbama Pravilnika o postupku i načinu davanja odobrenja za stavljanje u promet medicinskog proizvoda (»Narodne novine«, broj 92/99) i Pravilnik o posebnim uvjetima za stavljanje u promet u Republici Hrvatskoj medicinskog proizvoda koji ima odobrenje za stavljanje u promet u zemljama Europske unije (»Narodne novine«, broj 6/03).

@@ -1,0 +1,2 @@
+# Članak 16.
+Odluke Agencije iz Dodatka II. i III., odnosno za »in vitro« dijagnostičke medicinske proizvode za odluke koje su donešene u skladu s Dodacima III., IV. i V. za »in vitro« dijagnostiku, važe za razdoblje od najviše pet godina i na temelju pisanog zahtjeva mogu se produžiti za slijedeće razdoblje na pet godina na zahtjev proizvođača koji mora biti podnesen najkasnije šest mjeseci prije isteka roka za koji je dana ocjena sukladnosti.

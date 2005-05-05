@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 3., članka 102. stavka 3., članka 105. stavka 5. i članka 110. stavka 3. Zakona o lijekovima i medicinskim proizvodima (»Narodne novine«, broj 121/03 i 177/04) ministar zdravstva i socijalne skrbi, donosi

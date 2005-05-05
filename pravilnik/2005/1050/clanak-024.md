@@ -1,0 +1,2 @@
+# Članak 24.
+Za sve »in vitro« dijagnostičke medicinske proizvode za samotestiranje koji nisu navedeni u Dodatku II. za »in vitro« dijagnostiku i za medicinske proizvode koji nisu za evaluaciju proizvođač će, prije pisanja izjave o sukladnosti ispuniti dodatne zahtjeve navedene u Dodatku III. za »in vitro« dijagnostiku, točka 6. Umjesto tog postupka proizvođač može primjeniti postupak koji se odnosi na stavke 2. ili 3 Dodatka III. za »in vitro« dijagnostiku.

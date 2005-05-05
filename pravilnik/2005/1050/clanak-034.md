@@ -1,0 +1,2 @@
+# Članak 34.
+Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o postupku i načinu davanja odobrenja za stavljanje u promet medicinskog proizvoda (»Narodne novine«, broj 92/99) i Pravilnik o prometu lijekovima i medicinskim proizvodima (»Narodne novine«, br. 143/98) u dijelu koji se odnosi na medicinske proizvode te Pravilnik o posebnim uvjetima za stavljanje u promet u Republici Hrvatskoj medicinskog proizvoda koji ima odobrenje za stavljanje u promet u zemljama Europske unije (»Narodne novine«, broj 6/03).
