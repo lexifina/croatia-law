@@ -1,0 +1,1 @@
+Na temelju članka 10. i članka 11. stavka 1. točke 5. i stavka 2. Zakona o zaštiti tržišnog natjecanja (»Narodne novine«, broj 122/2003),Vlada Republike Hrvatske je na sjednici održanoj 21. travnja 2005. godine donijela
