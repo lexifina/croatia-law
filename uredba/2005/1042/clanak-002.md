@@ -1,0 +1,80 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
+Y
+X
+TOČKA 1
+5 567 300.19
+4 843 072.12
+TOČKA 2
+5 567 309.18
+4 843 085.81
+TOČKA 3
+5 567 315.32
+4 843 078.70
+TOČKA 4
+5 567 326.50
+4 843 080.06
+TOČKA 5
+5 567 339.26
+4 843 072.72
+TOČKA 6
+5 567 364.82
+4 843 063.02
+TOČKA 7
+5 567 371.66
+4 843 065.12
+TOČKA 8
+5 567 395.40
+4 843 059.71
+TOČKA 9
+5 567 427.65
+4 843 053.95
+TOČKA 10
+5 567 459.67
+4 843 048.92
+TOČKA 11
+5 567 477.12
+4 843 043.17
+TOČKA 12
+5 567 502.62
+4 843 040.17
+TOČKA 13
+5 567 527.49
+4 843 038.60
+TOČKA 14
+5 567 561.88
+4 843 038.81
+TOČKA 15
+5 567 570.71
+4 843 051.41
+TOČKA 16
+5 567 590.05
+4 843 040.12
+TOČKA 17
+5 567 603.20
+4 843 033.07
+TOČKA 18
+5 567 618.19
+4 843 027.48
+TOČKA 19
+5 567 635.91
+4 843 017.35
+TOČKA 20
+5 567 654.57
+4 843 009.81
+TOČKA 21
+5 567 674.52
+4 843 001.64
+TOČKA 22
+5 567 696.68
+4 842 998.28
+TOČKA 23
+5 567 718.01
+4 842 993.56
+TOČKA 24
+5 567 743.08
+4 842 985.15
+TOČKA 25
+5 567 739.14
+4 842 976.15
+a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Zaton - Martinska, broj lista plana 30, u mjerilu 1 : 2904 i na snimci stvarnog stanja u mjerilu 1 : 500.
