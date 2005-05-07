@@ -1,0 +1,2 @@
+# Članak 19.
+Ako se termometar napaja iz mreže, pokazivanje termometra mora ostati unutar granica NDP pri promjeni napona napajanja ± 10% i pri promjeni frekvencije ± 2%. Ako termometar ima napajanje iz baterije ili vanjskog izvora, termometar mora imati uređaj koji daje jasan signal upozorenja kada napon padne ispod od proizvođača određene granice. Za napone unutar dopuštenih granica, prikaz temperature se ne smije promijeniti za više od jednog digita najniže prikazane znamenke (LSD).

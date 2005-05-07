@@ -1,0 +1,3 @@
+# Članak 18.
+Termometar mora imati sklop za provjeru ispravnosti, čija je točnost jednaka ili bolja od najveće dopuštene pogreške termometra iz specifikacije proizvođača. Sklop za provjeru ispravnosti mora provjeravati ispravnost termometra nakon svakog uključivanja i automatski svakih sat vremena (ili kraće) u toku rada termometra. Sklop za provjeru ispravnosti mora provjeravati elektronički sklop za obradu signala iz priključene temperaturne sonde u specificiranom mjernom području i u slučaju ustanovljene pogreške mora dati jasan signal upozorenja.
+Proizvođač u dokumentaciji termometra mora dati objašnjenje provjere i signala upozorenja.
