@@ -1,0 +1,1 @@
+Na temelju članka 32. stavak 5. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 2005. godinu (»Narodne novine«, br. 171/04.), Ministarstvo financija, u suglasnosti s Ministarstvom znanosti, obrazovanja i športa, donosi
