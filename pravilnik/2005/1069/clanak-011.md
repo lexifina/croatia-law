@@ -1,0 +1,4 @@
+# Članak 11.
+Zahtjev za posebnu provjeru kakvoće prve serije gotovoga lijeka podnosi Agenciji nositelj odobrenja, a može ga po ovlaštenju nositelja odobrenja podnijeti veleprodaja, odnosno uvoznik (u daljnjem tekstu: podnositelj zahtjeva).
+Uz zahtjev je potrebno priložiti dovoljnu količinu uzorka za analizu, certifikat analize za navedenu seriju, podatke o svim ugrađenim sirovinama u prvu seriju lijeka nakon davanja odobrenja za stavljanje u promet te druge podatke na zahtjev Agencije.
+Uz zahtjev za posebnu provjeru kakvoće prve serije lijeka iz ljudske krvi ili plazme te imunološkog lijeka, osim certifikata i podataka iz stavka 2. ovoga članka, podnositelj zahtjeva mora dostaviti detaljne podatke o izvornoj sirovini, protokole proizvodnje, izvješća o provedenim ispitivanjima te dovoljan broj uzoraka izvorne sirovine.

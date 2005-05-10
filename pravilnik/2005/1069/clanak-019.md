@@ -1,0 +1,5 @@
+# Članak 19.
+Uz zahtjev za posebnu provjeru kakvoće svake serije gotovog lijeka potrebno je priložiti dovoljnu količinu uzorka za analizu, certifikat analize za navedenu seriju i dokumentaciju proizvođača koja se odnosi na rizične sirovine.
+Uz zahtjev za posebnu provjeru kakvoće lijekove iz ljudske krvi ili plazme te imunoloških lijekova, podnositelj zahtjeva mora dostaviti dovoljnu količinu uzorka za analizu, certifikat analize za navedenu seriju, proizvodnu dokumentaciju proizvođača, podatke o provjeri kakvoće i nalaz ovlaštenog laboratorija Europske unije ili zemlje proizvođača za proizvođača izvan Republike Hrvatske, detaljne podatke o izvornoj sirovini, izvješća o provedenim ispitivanjima te dovoljan broj uzoraka izvorne sirovine.
+Dokumentaciju iz stavka 1. i stavka 2. ovoga članka potrebno je priložiti u izvorniku ili u ovjerenoj kopiji, odnosno kopiju dokumenata s izjavom odgovorne osobe podnositelja zahtjeva o vjerodostojnosti podataka.
+Zahtjev za posebnu provjeru kakvoće lijeka može podnijeti i Hrvatski zavod za javno zdravstvo za serume i cjepiva.

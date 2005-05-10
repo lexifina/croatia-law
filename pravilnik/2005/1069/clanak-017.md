@@ -1,0 +1,2 @@
+# Članak 17.
+Ako proizvođač gotovog lijeka ima sjedište izvan Republike Hrvatske te podaci na unutarnjem pakovanju lijeka nisu na hrvatskome jeziku, Agencija može izdati nalaz o provjeri kakvoće prve serije pod uvjetom da je postavljen zahtjev za izdavanjem nalaza o provjeri kakvoće prve serije na temelju danog odobrenja za stavljanje u promet te da su ispunjeni svi drugi uvjeti za izdavanje toga nalaza.

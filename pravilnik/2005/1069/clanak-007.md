@@ -1,0 +1,3 @@
+# Članak 7.
+Agencija će kakvoću lijeka provjeriti prema analitičkim postupcima prihvaćenima u postupku donošenja odobrenja o stavljanju lijeka u promet, u obimu koji odredi Agencija.
+O provedenoj provjeri kakvoće Agencija će izdati nalaz. Ako je lijek ispravan, u nalazu će biti navedeno da kakvoća lijeka odgovara prihvaćenom zahtjevu kakvoće u roku valjanosti lijeka u pogledu ispitanih parametara kada su rezultati dobiveni analizom unutar prihvaćenih granica kakvoće. Ako dobiveni rezultat odstupa od prihvaćenog zahtjeva kakvoće, Agencija će o tome nalazom izvijestiti veleprodaju koja tu seriju lijeka ne smije staviti u promet.

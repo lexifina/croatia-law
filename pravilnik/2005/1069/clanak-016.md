@@ -1,0 +1,2 @@
+# Članak 16.
+Prvom serijom lijeka smatra se prva serija lijeka proizvedena nakon dobivanja prvog ili obnovljenog odobrenja za proizvođača gotovoga lijeka sa sjedištem u Republici Hrvatskoj, odnosno prva serija lijeka proizvedena i označena u skladu s dokumentacijom prihvaćenom u postupku donošenja prvog ili obnovljenog odobrenja za proizvođača gotovoga lijeka izvan Republike Hrvatske, uključivo označavanje na hrvatskome jeziku.
