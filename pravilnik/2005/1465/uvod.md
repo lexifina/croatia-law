@@ -1,0 +1,1 @@
+Na temelju članka 31. Statuta Hrvatske obrtničke komore (»Narodne novine« broj 116/02. pročišćeni tekst, 158/02., 101/04. i 187/04.), Upravni odbor Hrvatske obrtničke komore, na svojoj 24. sjednici održanoj 12. svibnja 2005. godine, donio je
