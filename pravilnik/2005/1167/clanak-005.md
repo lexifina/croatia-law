@@ -1,0 +1,3 @@
+# Članak 5.
+Ako Nacionalni ENIC/NARIC ured zaprimi zahtjev za priznavanje inozemne visokoškolske kvalifikacije ili zahtjev za priznavanje razdoblja studija uz koji nije dostavljen dokaz da je uplaćena naknada za troškove postupka ili ako naknada nije uplaćena u punom iznosu, pismenim putem će pozvati podnositelja zahtjeva da dostavi dokaz o plaćenoj naknadi, odnosno dokaz da je oslobođen plaćanja naknade, sukladno članku 7. ovog pravilnika, u roku 15 dana od dana dostave pisane obavijesti.
+Rješenje o priznavanju inozemne visokoškolske kvalifikacije neće biti dostavljeno podnositelju zahtjeva prije nego što dostavi dokaz o plaćenoj naknadi, odnosno dokaz da je oslobođen od plaćanja naknade.
