@@ -1,0 +1,1 @@
+Na temelju članka 23. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 2005. godine donijela
