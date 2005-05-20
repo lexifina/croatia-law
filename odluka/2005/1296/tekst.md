@@ -1,0 +1,1351 @@
+I.
+Na temelju zahtjeva postojećih ovlaštenika koncesije za gospodarsko korištenje pomorskog dobra unutar područja Posebnog rezervata Malostonskog zaljeva i Malog mora Vlada Republike Hrvatske (u daljnjem tekstu: Davatelj koncesije), daje koncesiju za gospodarsko korištenje pomorskog dobra kako slijedi:
+Red. br.
+ovlaštenik
+koncesije
+svrha koncesije
+površina koncesije (m2)
+koordinate
+1.
+Malo more d.o.o., Split
+21000 Split
+Jeretova 7
+uzgoj riba
+4.200
+A - X 6459573 Y 4753170
+B - X 6459646 Y 4753075
+C - X 6459545 Y 4753149
+D - X 6459618 Y 4753054
+2.
+Franušić d.o.o., Ston 20230 Ston, Luka Rusan 6
+uzgoj riba
+3.000
+A - X 4747455 Y 6472754
+B - X 4747432 Y 6472804
+C - X 4747406 Y 6472731
+D - X 4747383 Y 6472781
+3.
+Mario Radibratović
+20231 Doli
+Zamaslina
+uzgoj školjaka
+5.000
+A - X 4748933 Y 6470026
+B - X 4748867 Y 6470101
+C - X 4748895 Y 6479993
+D - X 4748830 Y 6470069
+4.
+Ivo Franušić
+20230 Ston, Hodilje
+uzgoj školjaka
+967
+A - X 4747386 Y 6474745
+B - X 4747402 Y 6474756
+C - X 4747364 Y 6474804
+D - X 4747356 Y 6474791
+5.
+Blue Adria d.o.o.,
+Janjina
+20246 Janjina
+Drače 88
+uzgoj školjaka
+12.507
+A - X 4752843 Y 6457315
+B - X 4752783 Y 6457453
+C - X 4752765 Y 6457882
+D - X 4752707 Y 6457415
+6.
+Pero Hausović 20230 Ston, Luka
+uzgoj školjaka
+2.784
+A - X 4746961 Y 6474344
+B - X 4746984 Y 6474371
+C - X 4746932 Y 6474427
+D - X 4746906 Y 6474402
+7.
+Nikša Gate
+20000 Dubrovnik,
+M. Kneževića 6/10
+uzgoj školjaka
+4.335
+A - X 4748085 Y 6471351
+B - X 4748144 Y 6471386
+C - X 4748100 Y 6471437
+D - X 4748046 Y 6471398
+8.
+Igor Grljević
+20236 Mokošica
+Od izvora 80
+uzgoj školjaka
+4.400
+A - X 4744421 Y 6477837
+B - X 4744353 Y 6477911
+C - X 4744388 Y 6477807
+D - X 4744321 Y 6477881
+9.
+Bogdan Šegović 20246 Janjina
+uzgoj školjaka
+7.770
+A - X 4752753 Y 6457276
+B - X 4752693 Y 6457414
+C - X 4752706 Y 6457256
+D - X 4752646 Y 6457393
+10.
+Ljiljana Bebek
+20230 Ston
+Mali Ston
+Donja ulica 1
+uzgoj školjaka
+5.000
+A - X 4744893 Y 6476694
+B - X 4744830 Y 6476771
+C - X 4744855 Y 6476662
+D - X 4744791 Y 6476739
+11.
+Franušić d.o.o., Ston 20230 Ston, Rusan
+uzgoj školjaka
+5.500
+A - X 4747409 Y 647304
+B - X 4747335 Y 6473108
+C - X 4747298 Y 6473067
+D - X 4747371 Y 6473000
+12.
+Mišo Franušić
+20230 Ston, Rusan
+uzgoj školjaka
+5.500
+A - X 4749064 Y 6469900
+B - X 4748998 Y 6469975
+C - X 4749023 Y 6469864
+D - X 4748957 Y 6469939
+13.
+Milo Šatara
+20248 Putnikovići Brijesta
+uzgoj školjaka
+1.310
+A - X 4751251 Y 6461766
+B - X 4751287 Y 6461787
+C - X 4751301 Y 6461764
+D - X 4751267 Y 6461737
+14.
+Ante Mihočević 20230 Ston, Duba
+uzgoj školjaka
+2.173
+A - X 4747729 Y 6471646
+B - X 4747708 Y 6471704
+C - X 4747699 Y 6471625
+D - X 4747678 Y 6471687
+15.
+Cvijetko Matković 20205 Topolo, Stupa 6
+uzgoj školjaka
+7.700
+A - X 4747229 Y 6475009
+B - X 4747179 Y 6475096
+C - X 4747162 Y 6474971
+D - X 4747112 Y 6475059
+16.
+Želko Ledinić
+20230 Ston, Ponikve
+uzgoj školjaka
+4.182
+A - X 4752597 Y 6457332
+B - X 4752581 Y 6457340
+C - X 4752612 Y 9457213
+D - X 4752581 Y 6457213
+E - X 4752560 Y 6457350
+17.
+Pero Bajurin
+20000 Dubrovnik, Sv. Josipa 10
+uzgoj školjaka
+485
+A - X 4746078 Y 6475202
+B - X 4746100 Y 6475171
+C - X 4746110 Y 6475182
+D - X 4746091 Y 6475207
+18.
+Ante Mekišić
+20230 Ston, Luka 57
+uzgoj školjaka
+5.398
+A - X 4747436 Y 6473019
+B - X 4747390 Y 6472987
+C - X 4747457 Y 6472906
+D - X 4747495 Y 6472934
+19.
+Ivo Škrabo
+20231 Doli, Zaton Doli
+uzgoj školjaka
+1.761
+A - X 4743258 Y 6479114
+B - X 4743290 Y 6479123
+C - X 4743272 Y 6479180
+D - X 4743246 Y 6479171
+20.
+Ivo Radinković
+20231 Doli
+Zabrežje 3
+uzgoj školjaka
+2.575
+A - X 4743848 Y 6479025
+B - X 4743793 Y 6479114
+C - X 4743825 Y 6479012
+D - X 4743777 Y 6479087
+21.
+Mato Franušić
+23230 Ston, Luka 8
+uzgoj školjaka
+4.956
+A - X 4746792 Y 6475245
+B - X 4746836 Y 6475278
+C - X 4746881 Y 6475198
+D - X 4746832 Y 6475169
+22.
+Dario Franušić 20230 Ston, Luka
+uzgoj školjaka
+5.169
+A - X 4747386 Y 6474745
+B - X 4747402 Y 6474756
+C - X 4747364 Y 6474804
+D - X 4747356 Y 6474791
+23.
+Dattmar d.o.o., Kaštelir
+52464 Kaštelir Kaštelir 109
+uzgoj školjaka
+10.000
+A - X 4747344 Y 6472594
+B - X 4747310 Y 6472688
+C - X 4747249 Y 6472561
+D - X 4747216 Y 6472655
+24.
+Miho Sabljić
+20230 Ston, Luka
+uzgoj školjaka
+2.472
+A - X 4747668 Y 6472818
+B - X 4747617 Y 6472904
+C - X 4747648 Y 6472808
+D - X 4747595 Y 6472889
+25.
+Ante Franušić
+20230 Ston, Luka 30
+uzgoj školjaka
+3.290
+A - X 4746878 Y 6475010
+B - X 4746912 Y 6475020
+C - X 4746960 Y 6474947
+D - X 4746930 Y 6474926
+26.
+Ante Korać
+20230 Ston, Duba
+uzgoj školjaka
+4.400
+A - X 4747487 Y 6472091
+B - X 4747438 Y 6472178
+C - X 4747488 Y 6472069
+D - X 4747400 Y 6472156
+27.
+Venci Krile
+20230 Ston, Hodilje
+uzgoj školjaka
+969
+A - X 4746751 Y 6475139
+B - X 4746740 Y 6475131
+C - X 4746697 Y 6475186
+D - X 4746707 Y 6475195
+28.
+Medi & Company d.o.o.
+20230 Ston
+Radovani 5
+uzgoj školjaka
+5.945
+A - X 4751444 Y 6461502
+B - X 4751402 Y 6461483
+C - X 4751441 Y 6461367
+D - X 4751489 Y 6461395
+29.
+Ilija Dražeta
+20230 Ston
+Hodilje 68
+uzgoj školjaka
+3.221
+A - X 4746199 Y 6474876
+B - X 4746214 Y 6474890
+C - X 4746243 Y 6474850
+D - X 4746230 Y 6474835
+A - X 4746227 Y 6474895
+B - X 4746264 Y 6474922
+C - X 4746293 Y 6474884
+D - X 4746256 Y 6474857
+30.
+Slobodan Kunica 20231 Doli
+Zamaslina
+uzgoj školjaka
+2.572
+A - X 4743646 Y 6478074
+B - X 4743613 Y 6478144
+C - X 4743590 Y 6478136
+D - X 4743629 Y 6478057
+A - X 4743920 Y 6478849
+B - X 4743912 Y 6478847
+C - X 4743973 Y 6478770
+D - X 4743967 Y 6478790
+31.
+Kate Štrbinić
+20231 Doli
+Zamaslina
+uzgoj školjaka
+2.689
+A - X 4743792 Y 6477901
+B - X 4743745 Y 6477956
+C - X 4743720 Y 6477940
+D - X 4743751 Y 6477879
+32.
+Ivo Mihočević
+20231 Dol
+Zamaslina
+uzgoj školjaka
+5.570
+A - X 4743816 Y 6478924
+B - X 4743848 Y 6478877
+C - X 4743897 Y 6478867
+D - X 4743910 Y 6478898
+E - X 4743890 Y 6478966
+33.
+Nikša Roko
+20231 Doli
+Zamaslina
+uzgoj školjaka
+3.998
+A - X 4743263 Y 6479244
+B - X 4743274 Y 6479251
+C - X 4743300 Y 6479231
+D - X 4743237 Y 6479307
+E - X 4743247 Y 6479319
+A - X 4743324 Y 6478897
+B - X 4743301 Y 6478982
+C - X 4743274 Y 6478984
+D - X 4743292 Y 6478898
+34.
+Niko Maškarić
+20231 Doli
+Zamaslina
+uzgoj školjaka
+4.310
+A - X 4743350 Y 6479013
+B - X 4743315 Y 6479110
+C - X 4743274 Y 6479103
+D - X 4743308 Y 6479005
+35.
+Božo Radibratović 20231 Doli
+Zamaslina 5
+uzgoj školjaka
+962
+A - X 4743401 Y 6478534
+B - X 4743344 Y 6478594
+C - X 4743340 Y 6478590
+D - X 4743365 Y 6478547
+36.
+Ivica Antunica
+23230 Ston, Hodilje
+uzgoj školjaka
+456
+A - X 4751366 Y 6461846
+B - X 4751382 Y 6461854
+C - X 4751388 Y 6461823
+D - X 4751378 Y 6461817
+37.
+Baldo Delo
+20230 Ston, Hodilje
+uzgoj školjaka
+1.765
+A - X 4745956 Y 6475349
+B - X 4745945 Y 6475342
+C - X 4745967 Y 6475309
+D - X 4745987 Y 6475296
+E - X 4745989 Y 6475299
+A - X 4746020 Y 6475315
+B - X 4746003 Y 6475312
+C - X 4746054 Y 6475276
+D - X 4746029 Y 6475267
+38.
+Ivo Čikato
+20000 Dubrovnik
+S. Cvijića 12 b
+uzgoj školjaka
+4.728
+A - X 4744999 Y 6477276
+B - X 4744985 Y 6477267
+C - X 4744956 Y 6477266
+D - X 4744961 Y 6477155
+E - X 4745012 Y 6477200
+39.
+Baldo Štrbinić
+20231 Doli
+Zamaslina
+uzgoj školjaka
+1.518
+A - X 4743692 Y 6477950
+B - X 4743684 Y 6478040
+C - X 4743634 Y 6478034
+D - X 4743680 Y 6477940
+40.
+Mato Matuško
+20231 Doli
+Zamaslina
+uzgoj školjaka
+2.282
+A - X 4744033 Y 6477975
+B - X 4744011 Y 6477960
+C - X 4743955 Y 6478024
+D - X 4743976 Y 6478040
+41.
+Josip Maškarić 20230 Ston, Sige 5
+uzgoj školjaka
+13.397
+A - X 4744295 Y 6477712
+B - X 4744302 Y 6477706
+C - X 4744321 Y 6477698
+D - X 4744336 Y 6477665
+E - X 4744409 Y 6477685
+F - X 4744390 Y 6477742
+A - X 4744227 Y 6477719
+B - X 4744231 Y 6477722
+C - X 4744242 Y 6477714
+D - X 4744258 Y 6477712
+E - X 4744272 Y 6477705
+F - X 4744275 Y 6477700
+G - X 4744282 Y 6477686
+H - X 4744276 Y 6477671
+I - X 4744273 Y 6477668
+J - X 4744258 Y 6477668
+K - X 4744243 Y 6477685
+L - X 4744232 Y 6477706
+A - X 4744570 Y 6476926
+B - X 4744567 Y 6476921
+C - X 4744564 Y 6476925
+D - X 4744531 Y 6476900
+E - X 4744534 Y 6476887
+F - X 4744522 Y 6476879
+G - X 4744517 Y 6476860
+H - X 4744521 Y 6476856
+I - X 4744533 Y 6476867
+J - X 4744526 Y 6476874
+.
+A - X 4744581 Y 6476886
+B - X 4744600 Y 6476857
+C - X 4744544 Y 6476809
+D - X 4744524 Y 6476838
+A - X 4744545 Y 6476760
+B - X 4744537 Y 6476771
+C - X 4744564 Y 6476793
+D - X 4744576 Y 6476777
+E - X 4744521 Y 6476735
+F - X 4744518 Y 6476739
+A - X 4744586 Y 6476777
+B - X 4744589 Y 6476751
+C - X 4744537 Y 6476710
+D - X 4744531 Y 6476716
+A - X 4744507 Y 6477430
+B - X 4744530 Y 6477457
+C - X 4744565 Y 6477394
+D - X 4744538 Y 6477370
+42.
+Ante Šerlija
+20230 Ston
+M. Držića 8
+uzgoj školjaka
+8.519
+A - X 4744521 Y 6477547
+B - X 4744556 Y 6477578
+C - X 4744491 Y 6477662
+D - X 4744451 Y 6477632
+A - X 4745483 Y 6476510
+B - X 4745487 Y 6476512
+C - X 4745478 Y 6476530
+D - X 4745438 Y 6476566
+E - X 4745405 Y 6476584
+F - X 4745418 Y 6476567
+A - X 4744935 Y 6477517
+B - X 4744945 Y 6477521
+C - X 4744956 Y 6477493
+D - X 4744952 Y 6477491
+E - X 4744939 Y 6477505
+A - X 4744828 Y 6477686
+B - X 4744842 Y 6477697
+C - X 4744786 Y 6477756
+D - X 4744792 Y 6477760
+E - X 4744817 Y 6477743
+A - X 4744796 Y 6477670
+B - X 4744750 Y 6477761
+43.
+Darko Daničić
+20231 Doli
+Zamaslina
+uzgoj školjaka
+3.629
+A - X 4743385 Y 6478714
+B - X 4743411 Y 6478714
+C - X 4743408 Y 6478775
+D - X 4743389 Y 6478804
+E - X 4743356 Y 6478787
+F - X 4743353 Y 6478763
+44.
+Miro Franušić 20230 Ston, Luka
+uzgoj školjaka
+2.732
+A - X 4746918 Y 6474803
+B - X 4746943 Y 6474814
+C - X 4746880 Y 6474851
+D - X 4746910 Y 6474871
+A - X 4746915 Y 6474894
+B - X 4746899 Y 6474893
+C - X 4746872 Y 6474937
+D - X 4746877 Y 6474952
+45.
+Ivo Matković
+20205 Topolo
+Stupa 4
+uzgoj školjaka
+4.134
+A - X 4744997 Y 6477149
+B - X 4744971 Y 6477126
+C - X 4744995 Y 6477058
+D - X 4745012 Y 6477072
+A - X 4745026 Y 6477171
+B - X 4745004 Y 6477171
+C - X 4745023 Y 6477088
+D - X 4745051 Y 6477079
+46.
+Ivo Kunica
+20231 Doli
+Zamaslina
+uzgoj školjaka
+3.912
+A - X 4743599 Y 6478260
+B - X 4743563 Y 6478315
+C - X 4743523 Y 6478354
+D - X 4743501 Y 6478339
+E - X 4743579 Y 6478237
+47.
+Baldo Ljubišić 20236 Mokošica
+Od izvora 13
+uzgoj školjaka
+1.662
+A - X 4743668 Y 6479238
+B - X 4743683 Y 6479254
+C - X 4743723 Y 6479205
+D - X 4743708 Y 6479178
+48.
+Mato Ledinić
+20000 Dubrovnik Iva Vojnovića 66
+uzgoj školjaka
+2.778
+A - X 4752639 Y 6457345
+B - X 4752667 Y 6457220
+C - X 4752644 Y 6457219
+D - X 4752618 Y 6457340
+49.
+Đuro Bobić
+20230 Ston, Supavo
+uzgoj školjaka
+1.719
+A - X 4744446 Y 6478175
+B - X 4744467 Y 6478195
+C - X 4744501 Y 6478143
+D - X 4744474 Y 6478127
+50.
+Mirko Radetić 20230 Ston, Mali Ston
+uzgoj školjaka
+525 (105x5)
+A - X 4744548 Y 6478035
+B - X 4744499 Y 6478127
+51.
+Dalmacijabilje Marikultura d.o.o. Ston, 20230 Ston
+Bistrina bb
+uzgoj školjaka i riba
+uzgoj školjaka
+397.348 54.944
+47.180
+107.790
+187.434
+A - X 4747779 Y 6476043
+B - X 4747696 Y 6476151
+C - X 4747182 Y 6475891
+D - X 4747265 Y 6475857
+A - X 4747639 Y 6476226
+B - X 4747571 Y 6476324
+C - X 4747164 Y 6476032
+D - X 4747157 Y 6475955
+A - X 4746480 Y 6475608
+B - X 4746318 Y 6475840
+C - X 4746572 Y 6476027
+D - X 4746855 Y 6475940
+A - X 4747342 Y 6472420
+B - X 4747734 Y 6472639
+C - X 4747999 Y 6472273
+D - X 4747697 Y 6472077
+52.
+Josip Vlahušić 20236 Mokošica
+Od izvora 43
+uzgoj školjaka
+320 (64x5)
+A - X 4744006 Y 6477616
+B - X 4743959 Y 6477660
+53.
+Ivica Antunica
+20230 Ston
+Hodilje 30
+uzgoj školjaka
+1.989
+A - X 4744893 Y 6477613
+B - X 4744889 Y 6477611
+C - X 4744895 Y 6477593
+D - X 4744915 Y 6477568
+E - X 4744935 Y 6477527
+F - X 4744940 Y 6477530
+G - X 4744922 Y 6477567
+H - X 4744911 Y 6477599
+I - X 4744907 Y 6477602
+A - X 4744693 Y 6476723
+B - X 4744704 Y 6476733
+C - X 4744718 Y 6476733
+D - X 4744728 Y 6476723
+E - X 4744710 Y 6476705
+A - X 4744095 Y 6477539
+B - X 4744048 Y 6477594
+A - X 4744602 Y 6477987
+B - X 4744258 Y 6478038
+54.
+Pero Bazdan
+20205 Topolo, Stupa
+uzgoj školjaka
+5.985
+A - X 4744239 Y 6478405
+B - X 4744303 Y 6478317
+C - X 4744349 Y 6478345
+D - X 4744302 Y 6474302
+55.
+Nedjeljko Perić 20248 Putnikovići Brijesta 10
+uzgoj školjaka
+1.481,50
+A - X 4751499 Y 6461703
+B - X 4751479 Y 6461749
+C - X 4751450 Y 6461741
+D - X 4751470 Y 6461696
+56.
+Albin Glavor
+20248 Putnikovići
+uzgoj školjaka
+582
+A - X 4751852 Y 6458992
+B - X 4751857 Y 6459004
+C - X 4751909 Y 6458984
+D - X 4751915 Y 6458991
+57.
+Ivo Rabušić
+20248 Putnikovići
+Dubrava
+uzgoj školjaka
+456
+A - X 4752280 Y 6458587
+B - X 4752269 Y 6458574
+C - X 4752243 Y 6458581
+D - X 4752248 Y 6458594
+58.
+Tomislav Dedović 20230 Ston
+uzgoj školjaka
+2.925
+A - X 4748600 Y 6470118
+B - X 4748573 Y 6470084
+C - X 4748526 Y 6470139
+D - X 4748563 Y 6470165
+59.
+Vicko Lazić
+20 248 Putnikovići Brijesta
+uzgoj školjaka
+4.015
+A - X 4751337 Y 6462056
+B - X 4751329 Y 6462048
+C - X 4751379 Y 6461995
+D - X 4751359 Y 6462004
+A - X 4751324 Y 6462043
+B - X 4751284 Y 6462018
+C - X 4751357 Y 6461995
+D - X 4751326 Y 6461951
+60.
+Ivo Bautović
+20 248 Putnikovi Brijesta
+uzgoj školjaka
+2.915
+A - X 4751337 Y 6461775
+B - X 4751364 Y 6461728
+C - X 4751411 Y 6461753
+D - X 4751385 Y 6461800
+61.
+Nikša Mekišić 20230 Ston, Luka
+uzgoj školjaka
+3.826
+A - X 4747154 Y 6474647
+B - X 4747113 Y 6474714
+C - X 4747117 Y 6474622
+D - X 4747070 Y 6474686
+62.
+Stanko Gučić
+20 230 Ston
+Đonta konto d.o.o. 20 230 Ston, Mali Ston, Donja ulica 23
+uzgoj školjaka
+4.594
+4.594
+A - X 4744200 Y 6477948
+B - X 4744156 Y 6477923
+C - X 4744107 Y 6478000
+D - X 4744146 Y 6478027
+A - X 4744200 Y 6477948
+B - X 4744156 Y 6477923
+C - X 4744107 Y 6478000
+D - X 4744146 Y 6478027
+63.
+Niko Škrabo 20231 Doli, Donji Zaton 15
+uzgoj školjaka
+2.520
+A - X 4743400 Y 6479371
+B - X 4743383 Y 6479356
+C - X 4743358 Y 6479367
+D - X 4743327 Y 6479404
+E - X 4743358 Y 6479428
+64.
+Vlaho Sabljić
+20230 Ston, Luka
+uzgoj školjaka
+2.460
+A - X 4746906 Y 6474453
+B - X 4746874 Y 6474436
+C - X 4746833 Y 6474483
+D - X 4746856 Y 6474511
+65.
+Liborio Perić
+20 248 Putniković Brijesta
+uzgoj školjaka
+1.852
+A - X 4751322 Y 6461762
+B - X 4751297 Y 6461741
+C - X 4751324 Y 6461692
+D - X 4751351 Y 6461709
+66.
+Pero Đuračić
+20248 Putnikovići
+uzgoj školjaka
+6.963
+A - X 4751390 Y 6461487
+B - X 4751380 Y 6461485
+C - X 4751377 Y 6461471
+D - X 4751368 Y 6461465
+E - X 4751374 Y 6461452
+F - X 4751393 Y 6461432
+G - X 4751406 Y 6461439
+A - X 4751795 Y 6461123
+B - X 4751703 Y 6461198
+C - X 4751749 Y 6461092
+D - X 4751669 Y 6461157
+67.
+Marko Popić
+20248 Putnikovići, Brijesta
+uzgoj školjaka
+313,20 (62,64x5) 311,80 (62,36x5)
+A - X 4751262 Y 6462004
+B - X 4751209 Y 6462020
+A - X 4751248 Y 6461974
+B - X 4751275 Y 6461918
+68.
+Mato Franušić
+20230 Ston, Luka 8
+uzgoj školjaka
+3.029
+A - X 4746290 Y 6474778
+B - X 4746293 Y 6474780
+C - X 4746299 Y 6474783
+D - X 4746339 Y 6474749
+E - X 4746319 Y 6474760
+F - X 4746312 Y 6474749
+G - X 4746334 Y 6474745
+A - X 4747154 Y 6474273
+B - X 4747140 Y 6474341
+C - X 4747108 Y 6474331
+D - X 4747131 Y 6474245
+69.
+Mario Radibratović
+20231 Doli
+Zamaslina
+uzgoj školjaka
+5.805
+A - X 4743495 Y 6478631
+B - X 4743438 Y 6478714
+C - X 4743459 Y 6478588
+D - X 4743393 Y 6478690
+70.
+Dragan Maškarić 20230 Ston, Zamirje bb
+uzgoj školjaka
+1.202
+A - X 4744505 Y 6477088
+B - X 4744456 Y 6477131
+C - X 4744439 Y 6477119
+D - X 4744491 Y 6477070
+71.
+Antun Pavlović 20230 Ston, Pelješki put 1
+uzgoj školjaka
+5.420
+A - X 4744862 Y 6476605
+B - X 4744866 Y 6476602
+C - X 4744857 Y 6476566
+D - X 4744842 Y 6476533
+E - X 4744832 Y 6476552
+F - X 4744842 Y 6476583
+A - X 4744888 Y 6476462
+B - X 4744908 Y 6476472
+C - X 4744919 Y 6476421
+D - X 4744901 Y 6476406
+72.
+Blue Adria d.o.o.
+Janjina
+20246 Janjina Drače 86
+uzgoj školjaka
+1.970
+A - X 4751893 Y 6460456
+B - X 4751943 Y 6460467
+C - X 4751954 Y 6460431
+D - X 4751899 Y 6460420
+73.
+Jozo Soko pok. Iva 20230 Ston, Stonska Duba
+uzgoj školjaka
+4.000
+A - X 4748292 Y 6471119
+B - X 4748360 Y 6471150
+C - X 4748302 Y 6471234
+D - X 4748243 Y 6471178
+74.
+Mato Vukas
+20230 Ston, Ponikve
+uzgoj školjaka
+2.582
+A - X 4752572 Y 6457213
+B - X 4752552 Y 6457214
+C - X 4752536 Y 6457348
+D - X 4752554 Y 6457349
+75.
+Nikola Herceg 20248 Putnikovići
+uzgoj školjaka
+1.024
+A - X 4751473 Y 6461885
+B - X 4751483 Y 6461886
+C - X 4751503 Y 6461849
+D - X 4751492 Y 6461849
+A - X 4751276 Y 6461885
+B - X 4751274 Y 6461886
+C - X 4751271 Y 6461849
+D - X 4751292 Y 6462083
+E - X 4751308 Y 6462080
+76.
+Janja Bautović 20248 Putnikovići
+uzgoj školjaka
+228
+A - X 4751157 Y 6462030
+B - X 4751150 Y 6462030
+C - X 4751160 Y 6462009
+D - X 4751177 Y 6461999
+77.
+Ivica Antunica
+20230 Ston, Hodilje 30
+uzgoj školjaka
+196
+A - X 4744198 Y 6477178
+B - X 4744194 Y 6477123
+C - X 4744189 Y 6477118
+D - X 4744193 Y 6477113
+A - X 4744183 Y 6477116
+B - X 4744178 Y 6477123
+C - X 4744173 Y 6477118
+D - X 4744177 Y 6477112
+A - X 4744173 Y 6477109
+B - X 4744169 Y 6477115
+C - X 4744167 Y 6477105
+D - X 4744163 Y 6477111
+A - X 4744166 Y 6477119
+B - X 4744162 Y 6477125
+C - X 4744160 Y 6477115
+D - X 4744156 Y 6477122
+78.
+Davorin Pečko 20248 Putnikovići
+uzgoj školjaka
+6.236
+A - X 4751552 Y 6461431
+B - X 4751506 Y 6461529
+C - X 4751455 Y 6461506
+D - X 4751503 Y 6461403
+79.
+Zoran Bezek
+20248 Putnikovići
+uzgoj školjaka
+2.321
+A - X 4751832 Y 6458913
+B - X 4751833 Y 6458925
+C - X 4751974 Y 6458903
+D - X 4751970 Y 6458885
+A - X 4751808 Y 6461885
+B - X 4751807 Y 6461886
+C - X 4751827 Y 6461849
+D - X 4751826 Y 6458926
+80.
+Kristian Buble 20000 Dubrovnik
+J. Pupačića 15
+uzgoj školjaka
+1.747
+A - X 4752632 Y 6457215
+B - X 4752613 Y 6457339
+C - X 4752596 Y 6457354
+D - X 4752620 Y 6457215
+81.
+Ivo Prčević
+20248 Putnikovići Dančanje
+uzgoj školjaka
+724
+A - X 4751292 Y 6461796
+B - X 4751317 Y 6461809
+C - X 4751329 Y 6461782
+D - X 4751307 Y 6461773
+82.
+Josip Lahalo
+20248 Putnikovići
+uzgoj školjaka
+6.340
+A - X 4751479 Y 6461557
+B - X 4751453 Y 6461620
+C - X 4751399 Y 6461505
+D - X 4751373 Y 6461568
+83.
+Šima Giljević
+20248 Putnikovići
+uzgoj školjaka
+5.931
+A - X 4751838 Y 6460824
+B - X 4751885 Y 6460896
+C - X 4751914 Y 6460874
+D - X 4751914 Y 6460874
+A - X 4751902 Y 6460929
+B - X 4751953 Y 6460987
+C - X 4751980 Y 6460955
+D - X 4751931 Y 6460909
+84.
+Niko Kvestić
+20230 Ston, Stonska Duba
+prijenos na Nikšu Kvestića, 20230 Ston, Duba stonska 29
+uzgoj školjaka
+uzgoj školjaka
+2.959
+A - X 4748192 Y 6471220
+B - X 4748228 Y 6471239
+C - X 4748186 Y 6471294
+D - X 4748144 Y 6471280
+85.
+Plankton-farma d.o.o. 20246 Janjina
+uzgoj školjaka
+uzgoj ribe
+2.843
+1.200
+A - X 4754627 Y 6457526
+B - X 4754564 Y 6457546
+C - X 4754566 Y 6457584
+D - X 4754638 Y 6457570
+A - X 4754633 Y 6457544
+B - X 4754638 Y 6457561
+C - X 4754570 Y 6457581
+D - X 4754565 Y 6457565
+86.
+Plankton-trade d.o.o. Metković Ribogojilište
+20246 Janjina
+uzgoj ribe
+uzgoj ribe
+808
+1.213
+A - X 4753408 Y 6457506
+B - X 4753395 Y 6457494
+C - X 4753371 Y 6457517
+D - X 4753384 Y 6457529
+A - X 4753433 Y 6457461
+B - X 4753428 Y 6457543
+C - X 4753448 Y 6457442
+D - X 4753452 Y 6457450
+A - X 4753408 Y 6457506
+B - X 4753368 Y 6457546
+C - X 4753359 Y 6457534
+D - X 4753395 Y 6457494
+A - X 4753433 Y 6457461
+B - X 4753428 Y 6457453
+C - X 4753448 Y 6457442
+D - X 4753452 Y 6457450
+87.
+Pero Baćina
+20248 Putnikovići Zaradež 14
+uzgoj školjaka
+7.484
+A - X 4751832,7 Y 6461007,6
+B - X 4751895,2 Y 6461082,8
+C - X 4751844,5 Y 6461136,7
+D - X 4751790,4 Y 6461082,7
+E - X 4751782,5 Y 6461062,8
+88.
+Anto Vitković 20248 Putnikovići
+uzgoj školjaka
+2.052
+A - X 4751895,11 Y 6460401,34
+B - X 4751900,62 Y 6460368,73
+C - X 4751964,17 Y 6460382,27
+D - X 4751960,02 Y 6460411,75
+89.
+Mario Vukotić 20248 Putnikovići Vukotići 2
+uzgoj školjaka
+1.100
+A - X 4752052,13 Y 6460778,28
+B - X 4752057,74 Y 6460791,11
+C - X 4751982,54 Y 6460807,13
+D - X 4751978,28 Y 6460793,79
+90.
+Ostriga d.o.o.
+Ston 20230 Ston Hodilje
+uzgoj školjaka
+13.565
+A - X 4746552,84 Y 6475480,00
+B - X 4746675,31 Y 6475566,34
+C - X 4746733,02 Y 6475490,04
+D - X 4746598,42 Y 6475411,48
+91.
+Ivica Medi
+20230 Ston, Mali Ston
+uzgoj školjaka
+4.000
+A - X 4745152,15 Y 6476851,51
+B - X 4745101,08 Y 6476937,49
+C - X 4745066,69 Y 6476917,06
+D - X 4745117,77 Y 6476831,08
+92.
+Ante Šerlija
+20230 Ston
+Široka 8
+uzgoj školjaka
+1.500
+A - X 4744961,55 Y 6477401,43
+B - X 4744912,70 Y 6477488,76
+C - X 4744886,48 Y 6477474,18
+D - X 4744935,50 Y 6477386,55
+93.
+Franušić d.o.o.
+Ston 20230 Ston Luka Rusan 6
+uzgoj školjaka
+10.000
+A - X 4748430,31 Y 6471751,32
+B - X 4748367,10 Y 6471828,51
+C - X 4748289,73 Y 6471765,14
+D - X 4748352,95 Y 6471687,96
+94.
+Tezoro d.o.o.
+20230 Ston, Duba Stonska
+uzgoj školjaka
+497
+A - X 4747526,22 Y 6471893,59
+B - X 4747537,27 Y 6471900,23
+C - X 4747521,22 Y 6471933,26
+D - X 4747508,99 Y 6471925,78
+95.
+Ivo Bautović
+20248 Putnikovići Brijesta
+uzgoj školjaka
+5.000
+A - X-4751477,20 Y 6461798,84
+B - X 4751433,06 Y 6461888,58
+C - X 4751388,19 Y 6461866,51
+D - X 4751432,33 Y 6461776,77
+96.
+Frano Daničić 20000 Dubrovnik Grbava 8
+uzgoj školjaka
+2.000
+A - X 4751667,76 Y 6461185,58
+B - X 4751681,17 Y 6461204,27
+C - X 4751638,18 Y 6461245,41
+D - X 4751662,60 Y 6461228,49
+E - X 4751622,20 Y 6461208,20
+F - X 4751642,07 Y 6461192,68
+97.
+Kristijan Buble 20000 Dubrovnik Marka Marulića 12
+uzgoj školjaka
+5.000
+A - X 4753183,00 Y 6457125,00
+B - X 4753127,17 Y 6457207,97
+C - X 4753141,50 Y 6457097,00
+D - X 4753085,72 Y 6457179,97
+98.
+Željko Pilato
+20236 Mokošica Bartola Kašića 14
+uzgoj školjaka
+5.500
+A - X 4747161,75 Y 6474775,84
+B - X 4747100,90 Y 6474855,19
+C - X 4747057,25 Y 6474821,72
+D - X 4747118,11 Y 6474742,37
+99.
+Ante Franušić
+20230 Ston, Luka 21
+uzgoj školjaka
+2.000
+A - X 4747067,04 Y 6474841,83
+B - X 4747006,18 Y 6474921,18
+C - X 4746990,31 Y 6474909,01 D - X 4747051,17 Y 6474829,66
+100.
+Ivo Franušić
+20230 Ston Hodilje 2
+uzgoj školjaka
+3.000
+A - X 4747386,4 Y 6474745,1
+B - X 4747353,5 Y 6474759,3
+C - X 4747312,0 Y 6474767,4
+D - X 4747344,9 Y 6474717,2
+101.
+Ivan Vukojević
+20246 Janjina, Drače, Uz obalu 35
+Dagnja d.o.o.
+Janjina
+20246 Janjina
+Drače, Uz obalu 35
+uzgoj školjaka
+uzgoj školjaka
+3.000
+3.00
+A - X 4753124,9 Y 6457085,8
+B - X 4753069,0 Y 6457168,7
+C - X 4753044,2 Y 6457152,0
+D - X 4753100,0 Y 6457069,0
+A - X 4753124,9 Y 6457085,8
+B - X 4753069,0 Y 6457168,7
+C - X 4753044,2 Y 6457152,0
+D - X 4753100,0 Y 6457069,0
+102.
+Ante Franušić (Baro)
+20230 Ston, Luka 19
+uzgoj školjaka
+5.000
+A - X 4747216,8 Y 6474669,9
+B - X 4747157,7 Y 6474750,6
+C - X 4747117,4 Y 6474721,0
+D - X 4747176,4 Y 6474640,3
+103.
+Mario Radibratović
+20231 Doli, Zamasline
+uzgoj školjaka
+5.000 10.000
+A - X 4744132,82 Y 6478061,45
+B - X 4744076,35 Y 6478143,98
+C - X 4744035,08 Y 6478115,75
+D - X 4744091,55 Y 6478033,22
+A - X 4748761,00 Y 6470148,00
+B - X 4748705,04 Y 6470230,88
+C - X 4748621,42 Y 6470175,13
+D - X 4748677,00 Y 6470092,00
+104.
+Miroslav Matković 20230 Ston,
+B. Mihanovića b.b.
+uzgoj školjaka
+245
+A - X 4744198,41 Y 6477213,42
+B - X 4744194,01 Y 6477209,09
+C - X 4744188,81 Y 6477208,22
+D - X 4744193,21 Y 6477203,89
+A - X 4744204,43 Y 6477085,40
+B - X 4744200,29 Y 6477019,19
+C - X 4744194,45 Y 6477087,02
+D - X 4744198,71 Y 6477081,06
+Goran Totić
+20205 Topolo, Stupa
+uzgoj školjaka
+245
+A - X 4744194,83 Y 6477078,62
+B - X 4744190,73 Y 6477084,35
+C - X 4744185,03 Y 6477080,28
+D - X 4744189,11 Y 6477074,58
+A - X 4744187,53 Y 6477088,82
+B - X 4744183,45 Y 6477098,52
+C - X 4744181,83 Y 6477084,75
+D - X 4744177,76 Y 6477090,44
+A - X 4744180,25 Y 6477098,99
+B - X 4744176,18 Y 6477104,68
+C - X 4744174,56 Y 6477098,91
+D - X 4744170,49 Y 6477100,61
+A - X 4744198,41 Y 6477213,42
+B - X 4744194,01 Y 6477209,09
+C - X 4744188,81 Y 6477208,22
+D - X 4744193,21 Y 6477203,89
+A - X 4744204,43 Y 6477085,40
+B - X 4744200,29 Y 6477019,19
+C - X 4744194,45 Y 6477087,02
+D - X 4744198,71 Y 6477081,06
+A - X 4744194,83 Y 6477078,62
+B - X 4744190,73 Y 6477084,35
+C - X 4744185,03 Y 6477080,28
+D - X 4744189,11 Y 6477074,58
+A - X 4744187,53 Y 6477088,82
+B - X 4744183,45 Y 6477098,52
+C - X 4744181,83 Y 6477084,75
+D - X 4744177,76 Y 6477090,44
+A - X 4744180,25 Y 6477098,99
+B - X 4744176,18 Y 6477104,68
+C - X 4744174,56 Y 6477098,91
+D - X 4744170,49 Y 6477100,61
+105.
+Matičević d.o.o. 20230 Ston
+Nuncijata bb
+uzgoj školjaka
+6.000
+A - X 4744691,32 Y 6477316,43
+B - X 4744655,33 Y 6477364,44
+C - X 4744575,29 Y 6477304,70
+D - X 4744611,31 Y 6477256,45
+106.
+Ante Mekišić
+20230 Ston, Luka
+uzgoj školjaka
+10.000
+A - X 4748360,9 Y 6471836,4
+B - X 4748297,4 Y 6471913,6
+C - X 4748220,0 Y 6471850,2
+D - X 4748283,5 Y 6471773,0
+107.
+Ljiljana Bebek 20230 Ston, Donja ulica 1
+uzgoj školjaka
+10.000
+A - X 4744780,4 Y 6477195,7
+B - X 4744720,8 Y 6477276,1
+C - X 4744700,2 Y 6477135,9
+D - X 4744640,6 Y 6477216,4
+108.
+Mato Vodopić 20230 Ston, Mihajla Viševića 3
+uzgoj školjaka
+4.000
+A - X 4748376,4 Y 6471165,6
+B - X 4748317,5 Y 6471216,2
+C - X 4748347,8 Y 6471142,4
+D - X 4748286,3 Y 6471221,2
+109.
+Željko Ledinić
+20230 Ston, Ponikve
+uzgoj školjaka
+20.000
+A - X 4753140 Y 6457500
+B - X 4753100 Y 6457592
+C - X 4752948 Y 6457415
+D - X 4752908 Y 6457507
+110.
+Matičević d.o.o. 20230 Ston, Nuncijata b.b.
+uzgoj školjaka
+196
+A - X 4744183,32 Y 6477136,33
+B - X 4744178,92 Y 6477141,79
+C - X 4744173,73 Y 6477137,11
+D - X 4744178,12 Y 6477131,65
+A - X 4744175,36 Y 6477146,21
+B - X 4744170,96 Y 6477151,67
+C - X 4744165,76 Y 6477146,99
+D - X 4744170,16 Y 6477141,53
+A - X 4744167,39 Y 6477156,11
+B - X 4744162,99 Y 6477161,57
+C - X 4744157,79 Y 6477156,88
+D - X 4744162,19 Y 6477151,42
+A - X 4744159,24 Y 6477166,22
+B - X 4744154,91 Y 6477171,60
+C - X 4744149,71 Y 6477166,91
+D - X 4744153,95 Y 6477161,47
+111.
+Vicko Lazić
+20248 Putnikovići Brijesta
+uzgoj školjaka
+10.000
+A - X 4752365,00 Y 6461626,00
+B - X 4752375,40 Y 6461725,40
+C - X 4752265,60 Y 6461636,50
+D - X 4752276,00 Y 6461735,90
+112.
+Pero Radibratović
+20230 Ston
+Zamasline
+uzgoj školjaka
+2.082
+A - X 4744169,10 Y 6478086,70
+B - X 4744100,50 Y 6478160,10
+C - X 4744090,90 Y 6478154,00
+D - X 4744105,70 Y 6478125,10
+113.
+Ante Prlaguzić 20248 Putnikovići Brijesta
+uzgoj školjaka
+4.500
+A - X 4751276,03 Y 6461912,08
+B - X 4751226,84 Y 6461987,45
+C - X 4751184,97 Y 6461960,11
+D - X 4751234,17 Y 6461884,75
+114.
+Ante Franušić-Čuturić
+20230 Ston, Luke
+uzgoj školjaka
+4.000
+A - X 4747044,70 Y 6474703,50
+B - X 4746976,90 Y 6474777,10
+C - X 4746947,50 Y 6474749,90
+D - X 4747015,31 Y 6478061,40
+115.
+Ivo Lahalo
+20248 Putnikovići
+uzgoj školjaka
+2.500 (25x100)
+X - 4752263,48 Y 6461712,14
+B - X 4752266,07 Y 6461736,92
+C - X 4752166,57 Y 6461747,35
+D - X 4752163,98 Y 6461722,65
+116.
+Mario Lobaš 20000 Dubrovnik Radnička 25
+uzgoj ribe
+5.000 (100x50)
+A - X 4739805 Y 6487135
+B - X 4739859 Y 6487219
+C - X 4739763 Y 6487162
+D - X 4739817 Y 6487246
+117.
+Božo Franušić
+20360 Ston Hodilje 2
+uzgoj školjaka
+967
+A - X 4747386, Y 6474745
+B - X 4747402, Y 6474756
+C - X 4747364, Y 6474804
+D - X 4747356, Y 6474791
+Snimak stvarnog stanja sa ucrtanim poljima izradit će se prije potpisa ugovora iz točke VII. ove Odluke, te će činiti sastavni dio Ugovora.
+II.
+Koncesija se daje u svrhu gospodarskog korištenja pomorskog dobra za obavljanje djelatnosti uzgoja školjaka/riba postojećim uzgajivačima, a prema uvjetima iz lokacijske dozvole klase: UP/I-350-05/04-01/218 od 31. ožujka 2005. godine, Ureda državne uprave u Dubrovačko-neretvanskoj županiji, Službe za prostorno uređenje, zaštitu okoliša, graditeljstvo i imovinsko-pravne poslove.
+Ovlaštenik koncesije se obvezuje, da pomorsko dobro koje ovom Odlukom dobiva na gospodarsko korištenje koristi za obavljanje djelatnosti uzgoja školjaka/riba i to na način i u opsegu, kako se određuje prema Zakonu o morskom ribarstvu (»Narodne novine«, br. 74/94, 57/96, 46/97 - pročišćeni tekst, 76/99 i 48/2005).
+III.
+Ovlaštenik koncesije je dužan gospodarski koristiti dodijeljeno pomorsko dobro u skladu sa hrvatskim zakonima i podzakonskim aktima, te je dužan za svaku eventualnu rekonstrukciju na dodijeljenom području u redovnoj proceduri ishoditi prethodnu suglasnost davatelja koncesije.
+IV.
+Ovlaštenik koncesije ne može prava stečena koncesijom ni djelomično niti u cijelosti prenositi na drugog, bez izričitog odobrenja Davatelja koncesije.
+V.
+Davatelj koncesije daje na korištenje pomorsko dobro navedeno u točki I. ove Odluke Ovlašteniku koncesije na vremensko razdoblje do 31. prosinca 2010. godine.
+VI.
+Za korištenje pomorskog dobra navedenog u točki I. ove Odluke Ovlaštenik koncesije se obvezuje da će uredno plaćati Davatelju koncesije godišnju naknadu.
+Godišnja naknada koju Ovlaštenik koncesije plaća za korištenje pomorskog dobra sastoji se iz dva dijela:
+1) za uzgoj riba i riblje mlađi
+a) stalni dio u iznosu od 0,50 kuna po m zauzete površine pomorskog dobra godišnje
+b) promjenjivi dio naknade u iznosu od 0,30% od ukupnog godišnjeg prihoda koji se ostvaruju na predmetnom pomorskom dobru.
+2) za uzgoj školjaka
+a) stalni dio u iznosu od 0,20 kuna po m zauzete površine pomorskog dobra godišnje
+b) promjenjivi dio naknade u iznosu od 0,20% od ukupnog godišnjeg prihoda koji se ostvaruju na predmetnom pomorskom dobru.
+Navedena naknada plaća se na sljedeći način:
+- stalni dio naknade plaća se od trenutka zaključivanja ugovora o koncesiji, u roku 45 dana. Za sljedeće godine naknada se plaća uvijek za tekuću godinu unaprijed do 1. ožujka. Za godinu u kojoj je dana koncesija i za godinu u kojoj koncesija istječe naknada se plaća razmjerno mjesecima korištenja.
+- promjenjivi dio naknade plaća se unatrag, u jednom obroku, do 1. ožujka naredne godine.
+VII.
+Na temelju ove Odluke ovlašćuje se ministar mora, turizma, prometa i razvitka, da, u roku od 60 dana od dana donošenja ove Odluke, sklopi ugovore o koncesiji pomorskog dobra sa svakim od ovlaštenika koncesije, kojim će se detaljno urediti ovlaštenja Davatelja koncesije, te prava i obveze Ovlaštenika koncesije, posebice u odnosu na zaštitu okoliša, sigurnost plovidbe, te ostale eventualne statusne promjene na strani ovlaštenika koncesije.
+Ako Ovlaštenik koncesije u roku iz stavka 1. ove točke ne potpiše ugovor o koncesiji pomorskog dobra, gubi sva prava određena ovom Odlukom.
+VIII.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
