@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, zamjenik predsjednika Suda, te suci Marijan Hranjski, Mario Kos, Ivan Matija, Ivan Mrkonjić, Željko Potočnjak, Agata Račan, Smiljko Sokol, Vice Vukojević i Milan Vuković, rješavajući o prijedlogu za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj dana 24. svibnja 2005. godine, donio je
