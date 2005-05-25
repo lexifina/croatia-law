@@ -1,0 +1,3 @@
+# Članak 9.
+Odjel službene dokumentacije stranih zemalja i međunarodnih organizacija prikuplja službenu dokumentaciju stranih zemalja i međunarodnih organizacija; obrađuje podatke, izrađuje zbirke i uspostavlja baze podataka, izrađuje kataloge zbirki i drugih izdanja iz djelokruga Odjela na papirnom i elektroničkom mediju, surađuje s međunarodnim organizacijama i institucijama u postupku prikupljanja službene dokumentacije i podataka, osigurava korištenje podataka koje prikuplja, te pruža informacijske, dokumentacijske i referalne usluge korisnicima.
+3. Odjel službene dokumentacije Europske unije

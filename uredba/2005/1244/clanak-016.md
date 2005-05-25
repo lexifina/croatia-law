@@ -1,0 +1,3 @@
+# Članak 16.
+Odjel za pravne, kadrovske i opće poslove obavlja upravne i stručne poslove u vezi s primjenom i provedbom zakona i drugih propisa iz djelokruga rada HIDRA-e; usklađuje rad na izradbi nacrta prijedloga propisa iz djelokruga rada HIDRA-e; priprema i usklađuje rad na izradi općih akata HIDRA-e; koordinira i vodi poslove u vezi sa zapošljavanjem službenika i namještenika; prati, nadzire i poduzima mjere za unaprjeđenje rada službenika i namještenika; surađuje s drugim tijelima državne uprave i drugim institucijama u poslovima iz djelokruga Odjela; vodi evidencije u okviru djelokruga Odjela; obavlja administrativne poslove za potrebe ravnatelja te kadrovske, pomoćne i tehničke poslove za potrebe HIDRA-e.
+8. Odjel za računovodstveno-financijske poslove

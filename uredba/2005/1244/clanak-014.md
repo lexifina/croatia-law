@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel za promotivnu djelatnost i koordinaciju obavlja poslove u svezi s usklađivanjem rada unutarnjih ustrojstvenih jedinica HIDRA-e; koordinira poslove i usklađuje rad na realizaciji osnovne djelatnosti i posebnih projekata HIDRA-e, te poslove u svezi s ostvarivanjem godišnjeg plana rada HIDRA-e; organizira i vodi promotivne aktivnosti HIDRA-e, te poslove u vezi s informiranjem javnosti; vodi evidenciju korisnika u skladu sa zakonom; prati rad Vlade Republike Hrvatske i Hrvatskog sabora i njihovih tijela u okviru djelokruga HIDRA-e; organizira i koordinira obavljanje stručnih zadaća iz djelokruga rada HIDRA-e, te surađuje s drugim tijelima državne uprave i institucijama u ostvarivanju zadaća HIDRA-e.
+6. Odjel za razvoj informatičke podrške

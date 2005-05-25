@@ -1,0 +1,3 @@
+# Članak 13.
+Odsjek za razvoj i primjenu pojmovnika oblikuje i izgrađuje baze podataka pojmovnika koje kao normativna infrastruktura služe za sadržajnu obradu podataka; prikuplja podatke, pohranjuje ih na elektronički medij i obrađuje; pomaže u primjeni pojmovnika te sudjeluje u izgradnji nacionalnih pojmovnika za potrebe klasifikacije službenih informacija; oblikuje upute o strukturiranju normativnih podatka, te izgradnji, dogradnji i primjeni pojmovnika i klasifikacija; surađuje s drugim državnim tijelima i institucijama radi uspostave procesa razmjene i protoka informacija.
+5. Odjel za promotivnu djelatnost i koordinaciju

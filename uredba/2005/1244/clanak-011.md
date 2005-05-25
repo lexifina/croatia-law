@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel za razvoj baza podataka definira, oblikuje i organizira izgradnju baza podataka informacijskog sustava HIDRA-e; definira modele i strukture podataka za izgradnju i održavanje baza podataka; oblikuje, izgrađuje i održava normativnu infrastrukturu za sadržajnu obradu podataka; utvrđuje upute za pohranu i razmjenu podataka na elektroničkom mediju; sudjeluje u pripremi izdavanja publikacija na papirnom i elektroničkom mediju, te surađuje s drugim državnim tijelima i srodnim institucijama radi uspostave procesa razmjene i protoka informacija.
+4.1. Odsjek za formalnu standardizaciju i obradu podataka

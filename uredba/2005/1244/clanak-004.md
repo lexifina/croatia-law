@@ -1,0 +1,2 @@
+# Članak 4.
+Poslove iz svoga djelokruga HIDRA obavlja za potrebe Hrvatskoga sabora, Vlade Republike Hrvatske, Predsjednika Republike, ministarstava, državnih upravnih organizacija i središnjih državnih ureda, te drugih tijela Republike Hrvatske iz zakonodavne, izvršne i sudbene vlasti, pravnih osoba u području javnih djelatnosti, lokalne i područne (regionalne) samouprave, državnih i predstavničkih tijela stranih zemalja, međunarodnih organizacija te znanstvenih i obrazovnih institucija, gospodarstvenika i drugih zainteresiranih korisnika.

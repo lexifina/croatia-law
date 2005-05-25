@@ -1,0 +1,3 @@
+# Članak 10.
+Odjel službene dokumentacije Europske unije prikuplja službenu dokumentaciju Europske unije, a posebno onu koja se odnosi na proces priključivanja Republike Hrvatske Europskoj uniji; informacije i podatke o dostupnosti fondova javne dokumentacije Europske unije; informacije i podatke o tijelima Europske unije, te institucijama Republike Hrvatske koje posjeduju zbirke službene dokumentacije pojedinih područja djelatnosti Europske unije; obrađuje podatke, uređuje zbirku i uspostavlja baze podataka; izrađuje kataloge i druge publikacije iz svoga djelokruga na papirnom i elektroničkom obliku; osigurava korištenje podataka koje prikuplja, te pruža informacijske, dokumentacijske i referalne usluge korisnicima.
+4. Odjel za razvoj baza podataka
