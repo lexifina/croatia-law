@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 174/04.) i članka 19. točke 1. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 163/98. i 86/03.), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 4. svibnja 2005., donosi
