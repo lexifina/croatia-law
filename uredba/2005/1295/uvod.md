@@ -1,0 +1,1 @@
+Na temelju članka 78. stavaka 1. i 2. i članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/2001), Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 2005. godine donijela
