@@ -1,0 +1,4 @@
+# Članak 5.
+Stranke će s posebnom pozornošću pratiti ostvarivanje kulturnih, prosvjetnih i vjerskih potreba pripadnika manjina na području Republike Hrvatske, odnosno na području Srbije i Crne Gore. Poticat će osnivanje kulturnih i prosvjetnih centara kao i rad drugih ustanova nacionalnih manjina na području Republike Hrvatske, odnosno na području Srbije i Crne Gore.
+U tu će svrhu podupirati slanje knjiga, časopisa, nosača slike i zvuka takvim ustanovama u nekomercijalne svrhe, vlastitu izdavačku djelatnost manjina, gostovanja profesionalnih i amaterskih kulturno-umjetničkih skupina te organizaciju kulturnih i umjetničkih nastupa, koji pridonose obogaćivanju kulture i identiteta pripadnika manjina u obje zemlje.
+Stranke se obvezuju da će štititi kulturna dobra na svom području koja su vezana uz povijest manjina, odnosno podupirati takve aktivnosti manjina.
