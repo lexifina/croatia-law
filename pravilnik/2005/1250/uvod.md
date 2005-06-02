@@ -1,0 +1,1 @@
+Na temelju članka 81. stavak 2. Zakona o vodama (»Narodne novine«, broj 107/95), ministar poljoprivrede, šumarstva i vodnoga gospodarstva, uz suglasnost ravnatelja Državnog zavoda za mjeriteljstvo, donosi

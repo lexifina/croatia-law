@@ -1,0 +1,6 @@
+# Članak 6.
+U članku 7. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»Iznimno od stavka 1. ovog članka laboratorij, koji do sada nije imao ovlaštenje, a posjeduje uvjete iz članka 8., 9. i 10. ovoga Pravilnika, koje je utvrdilo stručno povjerenstvo iz članka 19., može obavljati analize iz članka 3. i članka 4. ovog Pravilnika s time da je dužan u roku od godine dana provesti međulaboratorijska poredbena ispitivanja, te zatražiti ovlaštenje u skladu s uspješnosti provedenih ispitivanja.«.
+Iza dosadašnjeg stavka 2. koji postaje novi stavak 3. dodaje se stavak 4. koji glasi:
+»Ovlaštenje za svoje potrebe - interno ovlaštenje, je ovlaštenje kojim laboratorij može pratiti samo one pokazatelje, koje je potrebno kontrolirati učestalije (svakodnevno ili tjedno). Takav laboratorij treba provesti usporedna ispitivanja s onim ovlaštenim laboratorijem koji prema ugovoru sustavno prati sastav i kakvoću otpadnih voda tog zagađivača. Za potrebe nadzora, interno ovlašteni laboratorij mora imati pohranjene rezultate usporednih ispitivanja, sa oznakom vremena, mjesta uzorkovanja, osoba zaduženih za uzorkovanje, obradu uzoraka i ispitivanje, kao i ispitnih rezultata.«
+Dosadašnji stavak 3. postaje stavak 5.
