@@ -1,0 +1,5 @@
+## o dopuni Uredbe o uvjetima i postupku ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji
+# Članak 1.
+U Uredbi o uvjetima i postupku ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 12/2005), iza članka 22. dodaje se novi članak 22.a koji glasi:
+»Članak 22.a
+HRVI iz Domovinskog rata i članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata koji nisu ostvarili pravo sukladno članku 22. stavku 2. ove Uredbe, a koji su do stupanja na snagu ove Uredbe zaključili pravni posao o kupoprodaji osobnog automobila, odnosno zahtjevom pokrenuli postupak, nadležna carinarnica će odobriti podnošenje carinske deklaracije za puštanje robe u slobodan promet, uz primjenu carinske i poreznih olakšica sukladno Uredbi o uvjetima i postupku ostvarivanja carinske i poreznih olakšica hrvatskih branitelja i članova njihovih obitelji (»Narodne novine«, broj 50/2001).«
