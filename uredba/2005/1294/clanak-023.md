@@ -1,0 +1,8 @@
+## 5. SLUŽBA NADZORA U PODRUČJU ELEKTROENERGETIKE, RUDARSTVAI POSUDA POD TLAKOM
+# Članak 23.
+Služba nadzora u području elektroenergetike, rudarstva i posuda pod tlakom je ustrojstvena jedinica u sastavu Inspektorata koja obavlja inspekcijske i druge poslove koji se odnose na: gradnju, uporabu i održavanje elektroenergetskih dijelova građevina, postrojenja, procesa, opreme i instalacija u svezi s električnom energijom, kakvoću i racionalnu uporabu električne energije, istraživanje i eksploataciju mineralnih sirovina, primjenu tehničkih normi i zaštite od požara u rudarstvu, rudarska mjerenja, zaštitu potrošača, uvjete za obavljanje poslova, kontrolu poslovanja u djelatnosti eksploatacije mineralnih sirovina, kotlovska postrojenja i opremu postrojenja pod tlakom, kakvoću materijala za izgradnju postrojenja i opreme pod tlakom, uvjete zaposlenih na poslovima u kotlovnicama i osoba koje projektiraju, konstruiraju, izrađuju i montiraju kotlovska postrojenja; izrađuje i predlaže naputke za rad inspektora za provođenje nadzora i daje mišljenja o primjeni propisa iz svog djelokruga, izrađuje nacrte drugostupanjskih rješenja, izrađuje prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe, u suradnji sa Službom pravnih poslova obavlja nadzor nad radom inspektora glede pravilnosti vođenja inspekcijskog i upravnog postupka te obavlja i druge poslove koje odredi glavni inspektor.
+Za obavljanje poslova Službe nadzora u području elektroenergetike, rudarstva i posuda pod tlakom ustrojavaju se odjeli:
+5.1. Odjel u području elektroenergetike
+5.2. Odjel u području rudarstva
+5.3. Odjel u području posuda pod tlakom
+5.1. Odjel u području elektroenergetike
