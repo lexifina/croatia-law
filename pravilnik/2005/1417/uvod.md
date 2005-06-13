@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 2. Zakona o obrtu (»Narodne novine«, br. 49/03 - pročišćeni tekst) ministar gospodarstva, rada i poduzetništva nakon prethodno pribavljenog mišljenja Hrvatske obrtničke komore donosi
