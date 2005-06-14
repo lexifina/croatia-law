@@ -1,0 +1,3 @@
+# Članak 8.
+Kako bi se smanjilo opterećenje pri radu sa zaslonom poslodavac mora na temelju mjera iz članka 5. stavka 2. ovoga Pravilnika planirati aktivnosti radnika na takav način da se rad sa zaslonom tijekom rada periodički izmjenjuje s drugim aktivnostima. Ukoliko ne postoji mogućnost promjene aktivnosti radnika, odnosno radnik nema spontanih prekida tijekom rada, poslodavac mu ovisno o težini radnih zadataka i posljedičnog vidnog i statodinamičnog napora tijekom svakog sata rada mora osigurati odmore u trajanju od najmanje 5 minuta i organizirati vježbe rasterećenja.
+Način provedbe odmora i vježbi mora biti primjeren stručnim doktrinama sukladno preporukama specijalista medicine rada.
