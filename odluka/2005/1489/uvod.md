@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 1. Uredbe o osnivanju Hrvatske akreditacijske agencije (»Narodne novine«, br. 158/2004 i 44/2005), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2005. godine donijela
