@@ -1,0 +1,2 @@
+# Članak 11.
+Zahtjev za tranzit mora sadržavati osobne podatke i podatke o državljanstvu osobe koja se udaljava, datum tranzita, sat i mjesto ulaska na državno područje ugovorne stranke od koje se traži tranzit, sat i mjesto odlaska s državnog područja ugovorne stranke od koje se traži tranzit u državu odredišta, druge podatke vezane za tranzit, jamstvo da će dotična osoba biti primljena u državu odredišta te podatke o osobama u službenoj pratnji.
