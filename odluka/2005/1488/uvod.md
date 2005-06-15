@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. Uredbe o osnivanju Hrvatskog zavoda za norme (»Narodne novine«, br. 154/2004 i 44/2005), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2005. godine donijela
