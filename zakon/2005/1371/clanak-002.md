@@ -1,0 +1,26 @@
+## Značenje izraza
+# Članak 2.
+Izrazi rabljeni u ovom Zakonu imaju značenje:
+1. Sredstva za zaštitu bilja (u daljnjem tekstu: sredstva) jesu konačni oblici aktivnih tvari i pripravci namijenjeni za:
+- zaštitu bilja i biljnih proizvoda od štetnih organizama ili za sprječavanje djelovanja tih organizama,
+- utjecaj na životne procese bilja na način drukčiji od hranjiva (npr. regulatori rasta),
+- čuvanje biljnih proizvoda, ako nisu predmet drugih propisa,
+- uništavanje neželjenog bilja, biljnih dijelova, zadržavanje ili sprječavanje neželjenog rasta bilja.
+2. Ostaci sredstava jesu jedna ili više tvari prisutne na bilju ili proizvodima biljnog podrijetla, ili u bilju ili proizvodima biljnog podrijetla, jestivim proizvodima životinjskog podrijetla ili bilo gdje drugdje u okolišu, a posljedica su uporabe sredstava, uključujući njihove metabolite i proizvode nastale njihovom razgradnjom ili reakcijom.
+3. Tvari jesu kemijski elementi i njihovi spojevi koji se pojavljuju prirodno ili su dobiveni u proizvodnom procesu, uključujući bilo koju nečistoću koja je neizbježiva posljedica proizvodnoga procesa.
+4. Aktivne tvari jesu tvari ili mikroorganizmi, uključujući viruse, koje imaju opći ili poseban učinak na štetne organizme ili na bilje, biljne dijelove ili biljne proizvode.
+5. Popis aktivnih tvari sadrži popis aktivnih tvari koje su dopuštene za uporabu u sredstvima u Republici Hrvatskoj (u daljnjem tekstu: Popis). Popis se usklađuje sa službenim Popisom aktivnih tvari dopuštenih u sredstvima u Europskoj uniji (u daljnjem tekstu: EU).
+6. Stare aktivne tvari jesu aktivne tvari koje nisu na Popisu i koje su bile registrirane i stavljene u promet prije 26. srpnja 1993. godine u bilo kojoj državi članici EU.
+7. Nove aktivne tvari jesu aktivne tvari koje nisu na Popisu, a bile su registrirane i stavljene u promet nakon 26. srpnja 1993. godine u bilo kojoj državi članici EU.
+8. Pripravci su smjese ili otopine dviju ili više tvari od kojih je najmanje jedna aktivna tvar, a rabe se kao sredstva za zaštitu bilja.
+9. Sredstva za zaštitu bilja jesu istovjetna kad je sadržaj aktivne tvari i drugih sastojaka u njima jednak unutar međunarodno propisanih odstupanja, uključujući nečistoće i druge sastojke u aktivnoj tvari, te ako se podudaraju fizikalno-kemijska svojstva pripravka, oznake, pakiranje i ambalaža, osim trgovačkog naziva pripravka.
+10. Bilje jest živo bilje i živi biljni dijelovi, uključujući svježe voće i sjeme.
+11. Biljni proizvodi jesu neprerađeni proizvodi biljnog podrijetla ili proizvodi biljnog podrijetla koji su prošli jednostavnu preradu, kao što je mljevenje, sušenje ili prešanje, isključujući bilje definirano u točki 10. ovoga članka.
+12. Štetni organizmi bilja ili biljnih proizvoda jesu organizmi biljnog ili životinjskog svijeta te virusi, bakterije, fitoplazme i drugi patogeni organizmi koji su štetni za bilje i biljne proizvode.
+13. Životinje su one životinjske vrste koje uobičajeno čovjek hrani, drži ili konzumira.
+14. Promet je bilo koja opskrba sredstvima za zaštitu bilja, bilo naplaćena ili besplatna, uporaba i primjena, te uvoz koji podrazumijeva unošenje sredstva na carinsko područje Republike Hrvatske, osim skladištenja radi otpreme s carinskog područja Republike Hrvatske ili skladištenja radi njihova zbrinjavanja.
+15. Registracija sredstva jest propisani upravni postupak u kojem nadležna uprava nakon primitka pisanog zahtjeva za registraciju sredstva od pravne ili fizičke osobe (podnositelja zahtjeva) upisane u Upisnik, obavlja registraciju sredstva, odnosno dopušta promet sredstva na području Republike Hrvatske.
+16. Dobra poljoprivredna praksa jest obavljanje poljoprivredne djelatnosti na način kojim se omogućuje dobro gospodarenje poljoprivrednim zemljištem i reprodukcijskim materijalom uz uvažavanje prirodnih obilježja poljoprivrednog područja. Dobra poljoprivredna praksa obuhvaća optimalnu kombinaciju agrotehničkih mjera, uključujući primjenu sredstava za zaštitu bilja, s ciljem sačuvanja prirodne plodnosti poljoprivrednog zemljišta, sprječavanja onečišćenja okoliša, prekomjerne uporabe mineralnih i organskih gnojiva i sredstava, te da uzgojeno bilje ili biljni proizvodi namijenjeni za prehranu sadrže što je moguće manje ostataka sredstava. Pri tome primjenu sredstva treba prilagoditi karakteristikama okoliša.
+17. Integrirana zaštita bilja jest racionalna primjena kombinacije bioloških, biotehnoloških, kemijskih ili oplemenjivačkih mjera kultiviranja bilja, pri čemu je uporaba kemijskih sredstava ograničena na najnužniju mjeru potrebnu za održavanje populacije štetnih organizama ispod razine koja može prouzročiti znatnu gospodarsku štetu ili gubitak.
+18. Uređaji za primjenu sredstava jesu strojevi i uređaji za primjenu sredstava uključujući i njihove sastavne dijelove, koji utječu na ispravnost primjene.
+19. Nadležna uprava za registraciju sredstava jest unutarnja ustrojstvena jedinica Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: nadležna uprava) koja provodi upravne poslove u području prometa sredstava, uporabe uređaja za primjenu sredstava, nadzora nad provođenjem ovoga Zakona, razmjene informacija, uspostave sustava uzajamnog obavještavanja i izvješćivanja Europske komisije.

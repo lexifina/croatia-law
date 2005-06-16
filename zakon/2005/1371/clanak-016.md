@@ -1,0 +1,7 @@
+## Dokumentacija za ocjenu sredstva za zaštitu bilja
+# Članak 16.
+(1) Uz zahtjev za registraciju sredstva podnositelj zahtjeva prilaže propisanu dokumentaciju za ocjenu aktivne tvari i sredstva.
+(2) Ako sredstvo sadrži aktivnu tvar koja se već nalazi na Popisu aktivnih tvari, aktivnu tvar ne treba ponovno ocjenjivati ako se stupanj čistoće i vrste nečistoća znatno ne razlikuju od sastava navedenog u dokumentaciji za uvrštavanje aktivne tvari na Popis. Zahtjevu za registraciju sredstva potrebno je priložiti i dokaz o istovjetnosti aktivne tvari.
+(3) Iznimno od odredbe iz stavka 1. ovoga članka, podnositelj zahtjeva može, ako svi zahtijevani podaci nisu dostupni, umjesto podataka koji nedostaju priložiti odgovarajuće obrazloženje. Nadležna uprava ocijenit će opravdanost obrazloženja za svaki pojedini slučaj.
+(4) Za sredstvo koje je već registrirano u nekoj od država članica EU, u skladu s odredbama članka 24. ovoga Zakona može se podnijeti zahtjev za priznavanje registracije uz koji je potrebno priložiti podatke o identitetu aktivne tvari, podatke o identitetu sredstva, dokaz o registraciji sredstva u nekoj od država članica EU uz ovjereni prijevod na hrvatski ili engleski jezik, izvatke dokumentacije iz članka 15. stavka 3. ovoga Zakona i stavka 5. ovoga članka, te obrazloženje opravdanosti primjene toga sredstva u uvjetima u Republici Hrvatskoj.
+(5) Sadržaj dokumentacije iz stavka 1. ovoga članka i način postupanja s dokumentacijom propisuje pravilnikom ministar uz suglasnost ministra nadležnog za gospodarstvo.

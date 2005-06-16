@@ -1,0 +1,6 @@
+## Ostaci sredstava za zaštitu bilja
+# Članak 10.
+(1) Ostaci sredstava na bilju ili biljnim proizvodima ili u bilju ili biljnim proizvodima, te u hrani ne smiju biti prisutni u koncentracijama višim od propisanih.
+(2) Kada se utvrdi da su ostaci sredstava na bilju ili biljnim proizvodima, ili u bilju ili biljnim proizvodima te u hrani veći od propisane maksimalno dopuštene koncentracije, takvo bilje, biljne proizvode ili hranu treba uništiti ili na drugi način spriječiti njihovu uporabu za prehranu ljudi ili životinja.
+(3) Maksimalno dopuštene koncentracije ostataka sredstava u hrani, na bilju ili biljnim proizvodima, ili u bilju ili biljnim proizvodima, bilje i biljne proizvode i hranu za koje se utvrđuju maksimalno dopuštene koncentracije ostataka sredstava, mjere i postupke koji se moraju poduzeti kada se laboratorijskim metodama utvrdi prekoračenje maksimalno dopuštenih koncentracija, te ostale mjere i postupke nadležnih tijela propisuje ministar uz suglasnost ministra nadležnog za zdravstvo.
+(4) Metode uzorkovanja za utvrđivanje ostataka sredstava u hrani, na proizvodima biljnog i životinjskog podrijetla i u njima propisuje ministar uz suglasnost ministra nadležnog za zdravstvo.

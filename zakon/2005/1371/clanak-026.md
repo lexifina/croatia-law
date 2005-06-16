@@ -1,0 +1,5 @@
+## Privremena registracija
+# Članak 26.
+(1) Kada sredstvo sadrži novu aktivnu tvar za koju je podnositelj zahtjeva iz članka 13. ovoga Zakona podnio dokumentaciju iz članka 15. stavka 3. i članka 16. stavka 5. ovoga Zakona i za koju je Europska komisija izdala odluku o potpunosti dokumentacije, nadležna uprava može unutar tri godine od datuma izdavanja odluke Europske komisije izdati rješenje o privremenoj registraciji sredstva na rok od najviše tri godine, uz uvjet da sredstvo ispunjava uvjete iz članka 23. stavka 2. točke 1. - 5. ovoga Zakona.
+(2) U rješenju o privremenoj registraciji iz stavka 1. ovoga članka privremeno se utvrđuju maksimalno dopuštene koncentracije ostataka sredstva u poljoprivrednim proizvodima. Pri određivanju privremene maksimalne dopuštene koncentracije ostataka uzimaju se u obzir uvjeti predložene primjene sredstva.
+(3) Kad Europska komisija odlukom produlji rok iz prvoga stavka ovoga članka, nadležna uprava može produljiti rok privremene registracije sredstva.
