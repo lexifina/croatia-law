@@ -1,0 +1,2 @@
+# Članak 191.
+Radi sprječavanja nastanka neotklonjivih šteta na zaštićenoj prirodnoj vrijednosti, biološkoj i krajobraznoj raznolikosti, odnosno radi naređivanja hitnih zaštitnih mjera, ili radi otklanjanja neposredne opasnosti za život i zdravlje ljudi ili za imovinu, rješenje u tijeku nadzora može se donijeti i usmeno. Usmeno se rješenje unosi u zapisnik uz naznaku da će se otprema pisanog rješenja izvršiti u roku i na način propisan posebnim propisom.

@@ -1,0 +1,5 @@
+# Članak 107.
+(1) Pravna i fizička osoba koja obavlja trgovačku djelatnost živim životinjama zavičajnih ili stranih divljih svojti, dužna je osigurati odgovarajuće uvjete za držanje životinja sukladno ovom Zakonu i drugim propisima, te voditi evidenciju o trgovini životinjama.
+(2) Trgovinom se smatra prodaja i kupovina, stjecanje u komercijalne svrhe, izlaganje javnosti radi stjecanja dobiti, korištenje u svrhu stjecanja dobiti, držanje radi prodaje, nuđenje na prodaju ili prijevoz radi prodaje, te najam i razmjena životinja, gljiva i biljaka. Trgovati se može samo primjercima uzgojenim u prijavljenom uzgoju ili koji imaju ispravu o dopuštenom porijeklu, uz uvjet da je primjerak ili pošiljka propisno obilježena.
+(3) Prilikom trgovine zaštićenim životinjama, prodavatelj, odnosno vlasnik dužan je novome vlasniku izdati potvrdu o podrijetlu životinje i račun.
+(4) Pravne i fizičke osobe za obavljanje djelatnosti iz stavka 2. ovoga članka dužne su pribaviti dopuštenje, odnosno suglasnost Ministarstva.

@@ -1,0 +1,4 @@
+# Članak 40.
+(1) Ako se zahvat u prirodi ili korištenje prirodnih dobara izvede bez utvrđenih uvjeta zaštite prirode ili suprotno izdanim uvjetima zaštite prirode, te zbog toga nastanu oštećenja prirode, nositelj zahvata odnosno korištenja prirodnih dobara dužan je bez odgađanja i na vlastiti trošak otkloniti štetne posljedice svog djelovanja.
+(2) Ako nositelj zahvata u prirodi odnosno korištenja prirodnih dobara ne otkloni štetne posljedice svog djelovanja u skladu sa stavkom 1. ovoga članka, te zbog toga nastanu oštećenja prirode na ekološki značajnim područjima, zaštićenim područjima ili drugim prirodnim vrijednostima, Ministarstvo će nositelju zahvata odnosno korisniku prirodnih dobara rješenjem odrediti kompenzacijski uvjet, koji je dužan provesti sukladno članku 39. ovoga Zakona te iznos nadoknade štete zbog nanesenih oštećenja prirodi.
+2. Zaštita ekoloških sustava

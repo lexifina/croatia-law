@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Sredstva za zaštitu bilja i mineralna gnojiva smiju se koristiti na temelju stručnih prosudbi i rezultata provjere cjelokupnog stanja na ugroženim vrstama, na prirodi prihvatljiv način, sukladno posebnim propisima.
+(2) U slučaju osnovane sumnje da se uporabom sredstava za zaštitu bilja ili mineralnih gnojiva ugrožava biološka raznolikost ili prirodna vrijednost, odnosno da uporaba nije ekološki prihvatljiva, ministar će uz prethodno mišljenje središnjeg tijela državne uprave nadležnog za poslove poljoprivrede i šumarstva naredbom privremeno ograničiti ili trajno zabraniti uporabu sredstava za zaštitu bilja ili mineralnih gnojiva kojima se ugrožava biološka raznolikost ili prirodna vrijednost.

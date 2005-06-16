@@ -1,0 +1,25 @@
+# Članak 196.
+(1) Novčanom kaznom u iznosu od 15.000,00 kuna do 25.000,00kuna kaznit će se za prekršaj pravna osoba ako:
+- ne provodi mjere zaštite propisane Zakonom dok je prirodna vrijednost pod preventivnom zaštitom (članak 26.),
+- ne dopusti obilazak i pregled prirodnina (članak 31.),
+- ne prijavi otkriće speleološkog objekta ili njegovog dijela u propisanom roku (članak 47. stavak 3.),
+- obavlja istraživanja bez suglasnosti Ministarstva ili (članak 67.),
+- ne postupa sukladno planu upravljanja za zaštićeno područje (članak 80. stavak 4. i članak 81.),
+- bez opravdanog razloga hvata, ozljeđuje ili ubija divlje životinje (članak 85. stavak 2.),
+- bez opravdanog razloga uklanja divlje svojte (biljke i gljive) iz njihovih staništa, smanjuje njihove populacije ili ih uništava (članak 85. stavak 2.),
+- bere, skuplja, uništava, siječe ili iskopava samonikle strogo zaštićene biljke ili gljive (članak 97. stavak 1.),
+- drži strogo zaštićene biljke i gljive (članak 97. stavak 2.),
+- obavlja istraživanja strogo zaštićenih svojti bez dopuštenja Ministarstva (članak 100. stavak 1.),
+- drži u zatočeništvu u neprikladnim uvjetima i bez odgovarajuće skrbi, odnosno suprotno propisanim uvjetima životinje divljih svojti (članak 104. stavak 1.),
+- prikazuje u zoološkim vrtovima, akvarijima, terarijima ili sličnim prostorima životinje zavičajnih ili stranih divljih svojti bez dopuštenja Ministarstva (članak 105. stavak 1.),
+- uzgaja zavičajne i strane divlje svojte bez dopuštenja odnosno suglasnosti Ministarstva (članak 106. stavak 1. i 2.),
+- uzgojene životinje divljih svojti ne obilježi na propisani način (članak 106. stavak 3.),
+- ne osigura da uzgojena životinja ne pobjegne u prirodu i prouzroči štetu (članak 106. stavak 4.),
+- obavlja djelatnosti na mjestu nalaza koje mogu dovesti do uništenja ili oštećivanja nalaza minerala, sigovina ili fosila (članak 111. stavak 3.),
+- istražuje nalazišta minerala, sigovina i fosila bez dopuštenja (članak 111. stavak 5.),
+- organizira posjećivanje i razgledavanje zaštićene prirodne vrijednosti suprotno zabrani ili ograničenjima (članak 128.),
+- ne dopušta pristup zaštićenoj prirodnoj vrijednosti prema propisanim uvjetima (članak 129. stavak 1.),
+- obavlja skrb odnosno zaštitu nad prirodnom vrijednosti u zaštićenom području bez ugovora ili protivno uvjetima iz ugovora (članak 131. i 132.),
+- pri uzimanju minerala, sigovina i fosila koristi strojeve ili druga nedopuštena sredstva (članak 149. stavak 1.),
+- ne omogući sudjelovanje javnosti tijekom izrade propisa odnosno akata o proglašavanju zaštićenih prirodnih vrijednosti, dokumenta prostornog uređenja, planova upravljanja i korištenja zaštićenim područjima i prirodnim dobrima (članak 166.).
+(2) Novčanom kaznom u iznosu od 5.000,00 do 20.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba i odgovorna osoba u pravnoj osobi.

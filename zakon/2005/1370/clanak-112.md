@@ -1,0 +1,9 @@
+## Pravo prvokupa
+# Članak 112.
+(1) Vlasnik nekretnine unutar nacionalnog parka, parka prirode, strogog ili posebnog rezervata koji namjerava tu nekretninu prodati, dužan ju je najprije ponuditi na prodaju Republici Hrvatskoj, zatim županiji ili Gradu Zagrebu, te potom gradu ili općini na čijem se području nekretnina nalazi, a vlasnik nekretnine u ostalim zaštićenim područjima, koji namjerava tu nekretninu prodati, dužan ju je najprije ponuditi županiji ili Gradu Zagrebu, a zatim Republici Hrvatskoj, te potom gradu ili općini na čijem se području nekretnina nalazi.
+(2) Vlasnik nekretnine unutar zaštićenog područja dužan je u ponudi navesti cijenu i uvjete prodaje.
+(3) Republika Hrvatska, županija ili Grad Zagreb, grad ili općina dužni su se o ponudi očitovati u roku od šezdeset dana od primitka pisane ponude.
+(4) Ako ponuda ne bude prihvaćena unutar propisanog roka, vlasnik može nekretninu prodati uz iste ili povoljnije uvjete od onih iz ponude.
+(5) Ako vlasnik proda nekretninu u zaštićenom području, a nije postupio u skladu sa stavkom 1. i 4. ovoga članka, Republika Hrvatska, županija ili Grad Zagreb, grad ili općina imaju pravo tužbom protiv prodavatelja i kupca zahtijevati poništenje ugovora o kupoprodaji u roku do devedeset dana od dana saznanja za sklapanje toga ugovora, ali najkasnije u roku od pet godina od dana sklapanja ugovora o kupoprodaji.
+(6) Republika Hrvatska, županija ili Grad Zagreb mogu u roku iz stavka 5. ovoga članka zahtijevati da se utvrdi ništavost ugovora o kupoprodaji nekretnine u zaštićenom području i kad je taj ugovor sklopljen u obliku darovanja, ili kad su visina cijene ili uvjeti prodaje prividni, a stvarna cijena i uvjeti ugovora povoljniji za kupca.
+(7) Pravo prvokupa iz stavka 1. ovoga članka upisuje se u zemljišne knjige kod nadležnog suda.

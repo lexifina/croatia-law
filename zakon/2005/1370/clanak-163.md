@@ -1,0 +1,4 @@
+# Članak 163.
+(1) Ministarstvo, Zavod, zavodi za zaštitu prirode županija i Grada Zagreba, uredi državne uprave, nadležna tijela jedinica lokalne samouprave i jedinica područne (regionalne) samouprave, javne ustanove koje upravljaju zaštićenim prirodnim vrijednostima dužni su osigurati javnost podataka u svezi sa stanjem i zaštitom prirode, osim ako posebnim zakonom ili aktom mjerodavnog tijela nije propisana tajnost podataka.
+(2) Nadležna tijela i pravne osobe iz stavka 1. ovoga članka dužni su voditi očevidnik o podacima o stanju i zaštiti prirode, i u slučaju oštećenja prirode dužni su o tome izvijestiti javnost s uputama o postupanju radi njezine zaštite i očuvanja. U slučaju bilo kakve neposredne prijetnje prirodi i zdravlju ljudi javnost se izvješćuje o poduzimanju potrebitih mjera i radnji u cilju sprječavanja ili ublažavanje šteta koje bi mogle proisteći iz te opasnosti.
+(3) Informacije moraju biti pravodobne i istinite.

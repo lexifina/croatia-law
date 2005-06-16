@@ -1,0 +1,4 @@
+# Članak 51.
+(1) U vlažnim staništima nije dopušteno pregrađivanje vodotokova, isušivanje, zatrpavanje ili mijenjanje izvora i ponora, bara i dr. ako se time ugrožava opstanak prirodnih vrijednosti i očuvanje biološke raznolikosti.
+(2) Količinu vode u vlažnim staništima iz stavka 1. ovoga članka koja je nužna za opstanak prirodnih vrijednosti i očuvanje biološke raznolikosti, određuje Ministarstvo uz prethodno pribavljenu suglasnost središnjeg tijela državne uprave nadležnog za vode, na temelju studije o potrebnim količinama vodnih zaliha u vlažnim staništima koju izrađuje Zavod u suradnji s pravnom osobom za obavljanje poslova upravljanja vodama.
+(3) Nadležna tijela u sklopu svoga djelokruga, te fizičke i pravne osobe u obavljanju djelatnosti, dužni su osigurati biološki minimum vode u vlažnim staništima.

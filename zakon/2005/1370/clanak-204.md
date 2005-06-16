@@ -1,0 +1,4 @@
+# Članak 204.
+(1) Vlada i ministar će se u roku od godine dana od dana stupanja na snagu ovoga Zakona donijeti propise za koje su ovlašteni ovim Zakonom.
+(2) Do stupanja na snagu provedbenih propisa utvrđenih ovim Zakonom ostaju na snazi provedbeni propisi u području zaštite prirode koji su na snazi do dana stupanja na snagu ovoga Zakona i/ili doneseni na temelju Zakona o zaštiti prirode (»Narodne novine« br. 162/03.) u dijelu u kojem njihove odredbe nisu u suprotnosti s odredbama ovoga Zakona.
+(3) Mjere zaštite koje su donijela poglavarstva županija i poglavarstvo Grada Zagreba za zaštićene dijelove prirode na svom području, na temelju odredbi Zakona o zaštiti prirode (»Narodne novine«, br. 162/03.), ostaju na snazi do donošenja provedbenih propisa o mjerama zaštite tih zaštićenih prirodnih vrijednosti sukladno ovom Zakonu, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.
