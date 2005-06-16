@@ -1,0 +1,6 @@
+# Članak 28.
+Podnositelj prijave dužan je putem ovlaštene pravne osobe prije podnošenja prijave za dobivanje dopuštenja za namjerno uvođenje GMO-a u okoliš izraditi procjenu rizika za namjeravano uvođenje.
+U procjeni se utvrđuje, na temelju analize karakteristika GMO-a i njegovoga namjeravanog uvođenja u okoliš i ekološkog sustava u koji bi se GMO uveo te biološke raznolikosti koja bi mogla biti izložena rizicima, ocjena mogućih negativnih utjecaja i njihove moguće posljedice, stupanj opasnosti i potrebne mjere za nadzor, uzimajući u obzir i utjecaj na zdravlje ljudi.
+Podnositelj prijave može priložiti procjenu rizika koju je za jednako namjerno uvođenje istog GMO-a u okoliš izradio drugi podnositelj, te ako je za to dobio pisanu suglasnost toga podnositelja.
+Sadržaj i opseg procjene rizika za namjerno uvođenje GMO-a u okoliš i metodologiju za izradu procjene i uvjete koje mora ispunjavati pravna osoba za izradu procjene rizika propisat će pravilnikom čelnik središnjeg tijela državne uprave nadležnog za zaštitu prirode, uz suglasnost čelnika središnjeg tijela državne uprave za poljoprivredu, šumarstvo i vodno gospodarstvo i čelnika središnjeg tijela državne uprave za zdravstvo.
+Procjenu rizika izrađuju pravne osobe koje ovlasti čelnik središnjeg tijela državne uprave nadležan za zaštitu prirode uz suglasnost središnjeg tijela državne uprave za zdravstvo.

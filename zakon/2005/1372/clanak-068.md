@@ -1,0 +1,26 @@
+# Članak 68.
+Novčanom kaznom u iznosu od 100.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ako:
+- obavlja poslove ovlaštenog laboratorija bez dopuštenja nadležnog tijela ili suprotno dopuštenom načinu rada (članak 10.),
+- uvozi GMO bez dopuštenja ili na nedopušten način (članak 12.),
+- provodi ograničenu uporabu GMO-a suprotno propisanim kontrolnim i drugim sigurnosnim mjerama i suprotno propisanim kriterijima vezanim uz razinu opasnosti (članak 14.),
+- koristi zatvoreni sustav bez prijave nadležnom tijelu i upisa u upisnik GMO-a (članak 15.),
+- ne uvrsti ograničenu uporabu GMO-a u odgovarajuću razinu opasnosti (članak 16.),
+- ne izradi plan mjera za slučaj nesreće (članak 17. stavak 1.),
+- ne dostavi podatke o planu mjera nadležnom tijelu i drugom nadležnom tijelu, te podatke ne učini dostupne javnosti (članak 17. stavak 2. i 3.),
+- uporabljuje GMO iz 1. razine opasnosti bez potvrde o upisu u upisnik GMO-a (članak 20. stavak 1.),
+- ne dostavi nadležnom tijelu na njegov zahtjev procjenu rizika (članak 20. stavak 2.),
+- provodi ograničenu uporabu GMO-a iz 2. razine opasnosti bez prijave nadležnom tijelu i suprotno propisanim uvjetima (članak 21.),
+- provodi ograničenu uporabu GMO-a iz 3. i 4. razine opasnosti bez dopuštenja nadležnog tijela ili suprotno uvjetima utvrđenim u dopuštenju (članak 22.),
+- ne postupa sukladno zahtjevima nadležnog tijela (članak 23. i 24.),
+- se u slučaju nesreće ne pridržava plana mjera utvrđenih za slučaj nesreće ili o njoj ne obavijesti nadležno tijelo (članak 25.),
+- ne izradi procjenu rizika, odnosno opasnosti i plan mjera za slučaj nekontroliranog širenja GMO-a (članak 28. i 29.),
+- ne izvijesti nadležno tijelo o promjenama i ne postupi po zahtjevu nadležnog tijela da izmijeni uvjete uvođenja GMO-a u okoliš (članak 36.),
+- ne dostavi nadležnom tijelu izvješće o rezultatima namjernog uvođenja GMO-a u okoliš u propisanom roku (članak 37. stavak 1.),
+- u slučaju neplaniranog širenja GMO-a u okoliš ne djeluje u skladu s planom mjera i o događaju ne obavijesti nadležno tijelo (članak 38. stavak 1.),
+- stavlja proizvod od GMO-a na tržište bez dopuštenja ili suprotno dopuštenju (članak 39. i 46. stavak 2.),
+- ne izvijesti nadležna tijela o opasnostima proizvoda od GMO-a i ne podnese novu prijavu (članak 50.),
+- stavlja na tržište proizvod od GMO-a bez potrebne dokumentacije, ili koji nije označen na propisani način (članak 51. i 52.),
+- u rukovanju, pakiranju, prijevozu i provozu GMO-a ne primjenjuje propise o prijevozu opasnih tvari (članak 53.),
+- ne zbrinjava i trajno neškodljivo ne uništava nastali otpad koji sadrži i/ili se sastoji ili potječe od GMO-a na propisan način (članak 54.),
+- ako ne nadoknadi štetu koju prouzroči nedopuštenim prekograničnim prijenosom, provozom, uporabom, namjernim uvođenjem u okoliš ili stavljanjem GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a na tržište (članak 55.).
+Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.

@@ -1,0 +1,7 @@
+# Članak 22.
+Za svaku ograničenu uporabu GMO-a uvrštenu u treću i četvrtu razinu opasnosti, koja će se obavljati u zatvorenom sustavu za koji je dobivena potvrda sukladno članku 15. ovoga Zakona, potrebno je ishoditi dopuštenje nadležnog tijela.
+Detaljan sadržaj prijave iz stavka 1. ovoga članka propisat će čelnik središnjeg tijela državne uprave nadležan za znanost.
+Nadležno tijelo provjerava udovoljava li prijava propisanim uvjetima i nakon što je pribavilo mišljenje Odbora za ograničenu uporabu GMO-a u roku od četrdeset i pet dana po podnošenju prijave, izdaje dopuštenje ako će se radnje obavljati u zatvorenim sustavima za koji je već prije bilo izdano dopuštenje za ograničenu uporabu iz treće i četvrte razine opasnosti, i ako su bile ispunjene sve propisane mjere nadzora.
+Ako se ne radi o slučajevima iz stavka 3. ovoga članka nadležno tijelo će provjeriti udovoljava li prijava propisanim uvjetima i nakon pribavljanja mišljenja Odbora za ograničenu uporabu GMO-a izdat će dopuštenje najkasnije devedeset dana po podnošenju prijave.
+Odbor za ograničenu uporabu GMO-a dužan je svoje pisano mišljenje dati u roku od dvadeset i jedan dan, odnosno u roku od četrdeset i pet dana za slučajeve iz stavka 4. ovoga članka računajući od dana kada mu je dostavljena preslika prijave.
+Nadležno tijelo izdaje dopuštenje iz stavka 1. ovoga članka najdulje za razdoblje koje je podnositelj naveo u svojoj prijavi.

@@ -1,0 +1,4 @@
+# Članak 27.
+Genetski modificiran reprodukcijski biljni materijal dopušteno je uvoditi u okoliš samo na površinama koje će na prijedlog središnjeg tijela državne uprave nadležnog za poljoprivredu i šumarstvo a uz suglasnost središnjeg tijela državne uprave nadležnog za zaštitu prirode, uredbom utvrditi Vlada Republike Hrvatske.
+Nije dopušteno uvođenje GMO-a u okoliš u zaštićenim područjima i u područjima ekološke mreže, područjima namijenjenim ekološkoj proizvodnji poljoprivrednih proizvoda i ekološkim oblicima turizma te područjima koja predstavljaju zaštitne zone utjecaja.
+Zaštitne zone utjecaja iz stavka 2. ovoga članka obuhvaćaju prostore koji sprječavaju širenje GMO-a na područja na kojima nije dopušteno namjerno uvođenje GMO-a u okoliš, koje se utvrđuju uvjetima zaštite prirode koji su sastavni dio dopuštenja o namjernom uvođenju GMO-a u okoliš.

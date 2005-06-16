@@ -1,0 +1,4 @@
+# Članak 4.
+Pri namjernom uvođenju GMO-a i/ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a u okoliš nadležno tijelo iz članka 3. stavka 1. podstavka 2. ovoga Zakona dužno je pribaviti suglasnost središnjeg tijela državne uprave za poslove poljoprivrede i šumarstva.
+Pri stavljanju na tržište hrane i/ili hrane za životinje koja je GMO i/ili sadrži i/ili se sastoji od GMO-a primjenjuju se odredbe Zakona o hrani. Ako je hrana živi GMO ili sadrži žive GMO, tijelo državne uprave nadležno po Zakonu o hrani dužno je pribaviti suglasnost središnjeg tijela državne uprave za poslove zaštite prirode.
+Za pružanje stručne pomoći nadležnim upravnim tijelima u provedbi ovoga Zakona mjerodavna su znanstveno-stručna tijela osnovana ovim Zakonom, a središnje i koordinativno tijelo za obavljanje stručnih poslova u vezi s GMO-om je središnje tijelo državne uprave za poslove zdravstva.

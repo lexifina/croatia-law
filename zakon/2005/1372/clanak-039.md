@@ -1,0 +1,7 @@
+## Stavljanje na tržište GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a
+# Članak 39.
+Podnositelj prijave dužan je pribaviti dopuštenje za svaki GMO ili proizvod koji sadrži i/ili se sastoji ili potječe od GMO-a koji namjerava prvi put staviti na tržište.
+Podnositelj prijave dužan je prije podnošenja prijave za izdavanje dopuštenja za stavljanje na tržište GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a izraditi procjenu rizika koji može izazvati namjeravano stavljanje na tržište.
+U procjeni se utvrđuje, na temelju analize karakteristika GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a, te njegove uporabe, ocjena mogućih štetnih utjecaja i posljedica na biološku raznolikost, okoliš i zdravlje ljudi, stupanj opasnosti, kao i potrebne mjere za nadzor.
+Sadržaj i opseg procjene rizika za stavljanje na tržište GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a, metodologiju za izradu procjene i uvjete koje mora ispunjavati pravna osoba za izradu procjene rizika, propisat će pravilnikom čelnik središnjeg tijela državne uprave nadležnog za zdravstvo uz suglasnost čelnika središnjeg tijela državne uprave nadležnog za poljoprivredu, šumarstvo i veterinarstvo.
+Procjenu rizika izrađuju pravne osobe koje ovlasti čelnik središnjeg tijela državne uprave nadležnog za zdravstvo uz suglasnost čelnika središnjeg tijela državne uprave nadležnog za poljoprivredu, šumarstvo i veterinarstvo.

@@ -1,0 +1,2 @@
+# Članak 13.
+Vlada Republike Hrvatske će na prijedlog nadležnog tijela privremeno ili trajno ograničiti ili zabraniti uvoz i uporabu GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a u slučaju nedostatka znanstvenih informacija i znanja o mogućim razmjerima negativnih posljedica na biološku raznolikost, okoliš i/ili zdravlje ljudi, ili ako postoje novi ili dodatni znanstveno utemeljeni podaci o tome da proizvod može izazvati opasnosti za biološku raznolikost, okoliš i/ili zdravlje ljudi.

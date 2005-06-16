@@ -1,0 +1,5 @@
+# Članak 46.
+Nadležno tijelo odlučuje o dopuštenju za stavljanje na tržište GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a nakon provedenog ispitivanja udovoljava li prijava propisanim uvjetima, te nakon pribavljanja mišljenja Odbora za uvođenje GMO-a u okoliš i/ili Hrvatske agencije za hranu, a nakon provedene javne rasprave i izrade izvješća o procjeni prikladnosti stavljanja na tržište GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a, u roku od sto i pet dana od dana zaprimanja prijave.
+Dopuštenje za stavljanje na tržište izdaje se najdulje na rok od pet godina, uz mogućnost produljenja sukladno odredbama ovoga Zakona.
+Provedbene propise kojima će se urediti postupci za izdavanje dopuštenja donijet će čelnik nadležnog tijela sukladno nadležnostima utvrđenim člankom 39. stavkom 4. ovoga Zakona.
+Na proizvodnju, zdravstvenu ispravnost, deklariranje i označavanje hrane i hrane za životinje, te stavljanje na tržište hrane i hrane za životinje koja sadrži ili potječe od GMO-a, primjenjuju se odredbe ovoga Zakona i posebnih propisa.

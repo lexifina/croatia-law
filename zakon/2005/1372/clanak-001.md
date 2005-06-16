@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom uređuje postupanje s genetski modificiranim organizmima (u daljnjem tekstu: GMO), prekogranični prijenos GMO-a, proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a, ograničena uporaba GMO-a, namjerno uvođenje GMO-a u okoliš, stavljanje GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a na tržište, rukovanje, prijevoz i pakiranje GMO-a, postupanje s otpadom nastalim uporabom GMO-a, odgovornost za štetu nastalu nedopuštenom uporabom GMO-a, tijela nadležna za provedbu ovoga Zakona, te obavljanje upravnog i inspekcijskog nadzora nad provedbom ovoga Zakona.

@@ -1,0 +1,5 @@
+# Članak 5.
+Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju hrane i hrane za životinje koja sadrži i/ili se sastoji i/ili potječe od GMO-a, a koji nisu uređeni ovim Zakonom, primjenjuju se odredbe Zakona o hrani.
+Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju lijekova koji sadrže i/ili se sastoje ili potječu od GMO-a, primjenjuju se odredbe ovoga Zakona samo kada je to izričito propisano.
+Odredbe ovoga Zakona ne primjenjuju se na mutagenezu i staničnu fuziju (uključujući fuziju protoplasta) biljnih stanica organizama koji mogu razmjenjivati genetski materijal tradicionalnim uzgojnim metodama, pod uvjetom da ove tehnike/metode genetske modifikacije ne obuhvaćaju korištenje rekombinantnih molekula nukleinske kiseline ili genetski modificiranih organizama različitih od onih proizvedenih jednom ili više tehnika/metoda.
+U slučajevima iz stavka 1. i 2. ovoga članka obvezno se izrađuje pripadajuća tehnička dokumentacija s obavijestima, procjena rizika te plan nadzora nad učincima na okoliš sukladno ovom Zakonu.
