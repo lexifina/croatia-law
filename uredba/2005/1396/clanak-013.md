@@ -1,0 +1,2 @@
+# Članak 13.
+Središnja tijela državne uprave koja vode službene evidencije o materijalnim sredstvima koja se mogu staviti na popis materijalnih sredstava za potrebe obrane i pravne osobe koje su vlasnici navedenih materijalnih sredstava dužni su, na zahtjev nadležne uprave za obranu, dostaviti podatke o tim sredstvima radi uvođenja na popis i vođenja evidencije materijalnih sredstava za potrebe obrane države.
