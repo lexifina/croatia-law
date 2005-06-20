@@ -1,0 +1,1 @@
+Na temelju članka 45. Zakona o trgovini (»Narodne novine«, broj, 49/03 pročišćeni tekst, 96/03, 103/03, 170/03 i 55/04) i na temelju članka 6. i 7. Uredbe o mjerama zaštite domaće proizvodnje od prekomjernog uvoza (»Narodne novine«, broj 73/02 i 33/03) Ministarstvo gospodarstva, rada i poduzetništva donosi
