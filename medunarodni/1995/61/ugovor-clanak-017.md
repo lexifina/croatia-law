@@ -1,0 +1,3 @@
+# Članak 17.
+OTKAZIVANJE
+Bilo koja ugovorna stranka može u bilo koje doba pismeno dojaviti drugoj ugovornoj stranki svoju odluku o otkazivanju ovog Sporazuma. Takva obavijest će biti istovremeno dojavljena Međunarodnoj organizaciji civilnog zrakoplovstva. Ovaj Sporazum će biti ukinut u ponoć (u mjestu prijema dojave) neposredno prije prve godišnjice datuma primitka dojave od druge ugovorne stranke, ukoliko se dojava ne povuče dogovorom prije isteka tog razdoblja. U nedostatku potvrde primitka od strane druge ugovorne stranke, obavijest će se smatrati primljenom 14 dana nakon primitka te obavijesti u Međunarodnoj organizaciji civilnog zrakoplovstva.

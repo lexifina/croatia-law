@@ -1,0 +1,4 @@
+# Članak 13.
+KORISNIČKE NAKNADE
+(1) Nijedna ugovorna stranka neće nametnuti ili dozvoliti da se nametnu prema određenim prijevoznicima druge ugovorne stranke korisničke naknade veće od onih nametnutih svojim vlastitim zračnim prijevoznicima koji obavljaju sličan međunarodni zračni promet.
+(2) Svaka ugovorna stranka će poticati konzultacije o korisničkim naknadama između nadležnih vlasti koje utvrduju naknade zračnih prijevoznika koje koriste usluge i sredstva pružena od tih nadležnih vlasti, gdje god je to moguće kroz predstavničke organizacije zračnih prijevoznika. Razumnu obavijest o bilo kojim prijedlozima za izmjene korisničkih naknada dat će tim korisnicima u svrhu omogućavanja davanja njihovog mišljenja prije donošenja tih izmjena. Svaka ugovorna stranka će također poticati svoje mjerodavne vlasti koje utvrduju naknade i njihove korisnike na razmjenu odgovarajućih informacija u svezi korisničkih naknada.
