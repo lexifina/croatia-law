@@ -1,0 +1,2 @@
+# Članak 4.
+Jednokratna novčana pomoć u iznosu do dvije osnovice utvrđene Zakonom o izvršavanju državnog proračuna Republike Hrvatske za obračun naknada za tekuću godinu, odobrava se osobama iz članka 1. ove Uredbe koji zbog teške novčano-materijalne situacije nisu u mogućnosti zadovoljiti osnovne životne potrebe, a nakon što su iscrpljeni svi drugi oblici pomoći putem socijalnih - jednokratnih novčanih pomoći po Zakonu o socijalnoj skrbi.

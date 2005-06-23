@@ -1,0 +1,1 @@
+Na temelju članka 74. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 174/2004), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2005. godine donijela
