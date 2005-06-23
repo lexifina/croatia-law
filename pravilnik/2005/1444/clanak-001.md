@@ -1,0 +1,3 @@
+# Članak 1.
+U nazivu Pravilnika o sadržaju i obliku iskaznice stručnih djelatnika centara za socijalnu skrb i iskaznica inspektora u Ministarstvu rada i socijalne skrbi (»Narodne novine«, broj 26/98), u članku 1. i članku 8. te na prednjoj stranici Obrasca A i Obrasca B koji su tiskani uz ovaj Pravilnik i čine njegov sastavni dio, riječ: »rada« zamjenjuje se riječju: »zdravstva«.
+U nazivu i cijelom tekstu Pravilnika te u Obrascu iskaznice stručnih djelatnika centara za socijalnu skrb, koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio, riječ: »djelatnik« zamjenjuje se riječju: »radnik« u odgovarajućem padežu.
