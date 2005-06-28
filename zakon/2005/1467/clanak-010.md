@@ -1,0 +1,6 @@
+## Otkrivanje pojave štetnog organizma
+# Članak 10.
+(1) Ako posjednik ili bilo koja druga osoba koja zbog prirode svojega posla na bilju, biljnim proizvodima ili drugim nadziranim predmetima uoči novu i neuobičajenu pojavu štetnih organizama ili simptome koji upućuju na sumnju o zarazi štetnim organizmima navedenim u Popisu I., dijelu A, ili Popisu II., dijelu A, a za zaštićeno područje: u Popisu I., dijelu B, ili Popisu II., dijelu B, obvezni su o tome odmah izvijestiti nadležnog inspektora, koji o tome odmah izvješćuje nadležnu upravu.
+(2) U slučaju sumnje na zarazu štetnim organizmom iz stavka 1. ovoga članka nadležni inspektor uzima službeni uzorak i šalje ga u laboratorij da bi se obavila laboratorijska analiza i utvrdila zaraza i uzročnik zaraze ili opovrgnula sumnja na zarazu štetnim organizmom. Sa službenim se uzorcima mora postupati tako da se osigura identitet uzorka i izbjegne opasnost od širenja štetnog organizma.
+(3) Laboratorijsku analizu iz stavka 2. ovoga članka obavljaju Zavod za zaštitu bilja u poljoprivredi i šumarstvu Republike Hrvatske (u daljnjem tekstu: Zavod) i Šumarski institut, Jastrebarsko (u daljnjem tekstu: Šumarski institut), svaki u sklopu svoje nadležnosti, ili drugi laboratorij koji u skladu sa člankom 65. ovoga Zakona za to ovlasti ministar.
+(4) Način izvješćivanja iz stavka 1. ovoga članka propisuje ministar.

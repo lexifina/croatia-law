@@ -1,0 +1,11 @@
+## Fitosanitarni certifikat
+# Članak 39.
+(1) Bilje, biljne proizvode i druge nadzirane predmete navedene u Popisu V., dijelu B, mora pratiti izvornik fitosanitarnog certifikata, odnosno fitosanitarnog certifikata za reeksport.
+(2) Kao jednako valjana prihvaća se i elektronička inačica fitosanitarnog certifikata, ako su ispunjeni propisani uvjeti.
+(3) U iznimnim slučajevima, kada tako propiše ministar, prihvaća se i službeno ovjerena kopija fitosanitarnog certifikata.
+(4) Fitosanitarne certifikate za bilje, biljne proizvode i druge nadzirane predmete za koje su u Popisu IV., dijelu A i B, propisani posebni zahtjevi izdaje nadležno tijelo zemlje podrijetla. Kada se posebnim zahtjevima može udovoljiti i izvan mjesta podrijetla, tada fitosanitarni certifikat može biti izdan u zemlji koja nije zemlja podrijetla.
+(5) Bilje, biljne proizvode i druge nadzirane predmete navedene u Popisu V., dijelu B, koji su otpremljeni iz zemlje podrijetla i u drugoj zemlji skladišteni, razdijeljeni, združeni s drugima ili prepakirani, mora osim izvornoga fitosanitarnog certifikata ili njegove ovjerene preslike pratiti fitosanitarni certifikat za reeksport izdan u toj drugoj zemlji.
+(6) Ako su bilje, biljni proizvodi i drugi nadzirani predmeti navedeni u Popisu V, dijelu B bili uzastopno uvezeni u više različitih zemalja i ako je izdano više fitosanitarnih certifikata za reeksport, uz posljednji fitosanitarni certifikat za reeksport moraju biti priloženi svi prethodno izdani fitosanitarni certifikati za reeksport ili njihove ovjerene preslike.
+(7) Fitosanitarni certifikat i fitosanitarni certifikat za reeksport moraju biti izdani u skladu s predlošcima koji su određeni Međunarodnom konvencijom o zaštiti bilja (u daljnjem tekstu: Konvencija) i popunjeni na nekom od jezika koje odredi ministar.
+(8) Iznimno od odredbe stavka 7. ovoga članka, prihvaća se i fitosanitarni certifikat izdan u zemlji izvoznici koja nije ratificirala Konvenciju, pod uvjetima koje propiše ministar.
+(9) Fitosanitarni certifikat i fitosanitarni certifikat za reeksport prestaju važiti ako je proteklo više od 14 dana od dana njihova izdavanja do dana kada su bilje, biljni proizvodi i drugi nadzirani predmeti za koje su izdani prešli granicu zemlje u kojoj su izdani.

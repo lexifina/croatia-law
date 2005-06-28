@@ -1,0 +1,27 @@
+## Djelokrug i poslovi Ministarstva
+# Članak 51.
+Radi provedbe ovoga Zakona Ministarstvo poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo) ima sljedeće zadaće i nadležnosti:
+1. surađuje u oblikovanju i provedbi politike biljnoga zdravstva,
+2. priprema nacrte propisa iz područja biljnoga zdravstva i skrbise o njihovoj provedbi,
+3. provodi stalni nadzor nad štetnim organizmima,
+4. analizira i procjenjuje fitosanitarnu situaciju u Republici Hrvatskoj i izvan nje da bi se utvrdila možebitna pojava štetnog organizma i njegova rasprostranjenost,
+5. prati provođenje laboratorijskih analiza bilja, biljnih proizvoda i drugih nadziranih predmeta radi otkrivanja štetnih organizama navedenih u Popisu I. i II.,
+6. procjenjuje stupanj opasnosti od pojave štetnih organizama i donosi odgovarajuće stručne upute i mjere,
+7. izrađuje stručne podloge za određivanje granica zaštićenog područja i područja pod posebnim nadzorom,
+8. uspostavlja i vodi upisnike, evidencije i popise,
+9. priprema programe preventivnih mjera koje se poduzimaju radi sprječavanja unošenja i širenja štetnih organizama i skrbi se o provedbi tih programa,
+10. predlaže mjere sprječavanja, suzbijanja i iskorjenjivanja štetnih organizama, usklađuje njihovu provedbu i prema potrebi ih provodi,
+11. obavlja stručni nadzor nad provedbom poslova i zadaća pravnih osoba s javnim ovlastima, u skladu s ovim Zakonom,
+12. izvješćuje o pojavama, izbijanju napada i širenju štetnih organizama u zemlji i inozemstvu,
+13. izvješćuje zemlje izvoznice o zadržanim pošiljkama koje ne udovoljavaju fitosanitarnim zahtjevima Republike Hrvatske,
+14. priprema izvješća, analize, informacije i druge materijale u vezi s pojavom i širenjem štetnih organizama, koje je Republika Hrvatska obvezna pripremati i razmjenjivati u skladu s propisima i potpisanim međunarodnim ugovorima i sporazumima iz područja biljnoga zdravstva,
+15. sudjeluje u pripremi međunarodnih sporazuma koje sklapa Vlada Republike Hrvatske u području biljnoga zdravstva, te se skrbi o njihovoj provedbi,
+16. skrbi se o informiranju javnosti i svih zainteresiranih za pitanja biljnoga zdravstva te o izdavanju publikacija,
+17. skrbi se o provedbi jednolikih radnih postupaka u skladu s propisima i međunarodnim zahtjevima,
+18. uspostavlja i održava informacijski sustav u području biljnoga zdravstva,
+19. skrbi se o stručnom osposobljavanju svojih zaposlenika,
+20. surađuje s drugim službama, državnim tijelima i organizacijama iz područja biljnoga zdravstva u zemlji i inozemstvu,
+21. predstavlja Republiku Hrvatsku u međunarodnim tijelima i organizacijama iz područja biljnoga zdravstva,
+22. izdaje biljne putovnice kad je to propisano ovim Zakonom,
+23. priprema naputke za izvršavanje poslova i zadataka propisanih ovim Zakonom i propisima donijetima na temelju ovoga Zakona,
+24. obavlja druge poslove koji se odnose na biljno zdravstvo.
