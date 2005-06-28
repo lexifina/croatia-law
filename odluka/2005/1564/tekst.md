@@ -1,0 +1,3 @@
+o izmjeni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Istanbulu, Republika Turska
+U Odluci o osnivanju Generalnog konzulata Republike Hrvatske u Istanbulu, Republika Turska, urbroj: 95-455/1 od 3. ožujka 1995. (u daljnjem tekstu: Odluka), u sadržaju Odluke riječi: »s konzularnim područjem koje obuhvaća cjelokupni teritorij Republike Turske« zamjenjuju se riječima: »s konzularnim područjem koje obuhvaća teritorij regija Edirne, Kirklareli, Tekirdag, Istanbul, Yalova, Kocaeli, Sakarya, Duzce, Canakkale, Balikesir, Antalya, Bursa, Bilecik, Kutahya, Manisa, Izmir, Usak, Aydin, Denizli, Mugla, Burdur.«
+Ova odluka stupa na snagu danom donošenja.
