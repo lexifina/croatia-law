@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o financiranju javnih potreba u kulturi (»Narodne novine«, br. 47/90 i 27/93) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 30. lipnja 2005. godine donijela
