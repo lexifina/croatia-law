@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 2. Zakona o zaštiti potrošača (»Narodne novine«, broj 96/2003) i točke IV. 4. Nacionalnog programa zaštite potrošača za razdoblje 2005. - 2006. (»Narodne novine«, broj 31/2005) Vlada Republike Hrvatske je na sjednici održanoj 30. lipnja 2005. godine donijela
