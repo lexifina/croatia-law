@@ -1,0 +1,7 @@
+# Članak 7.
+PRISTOJBE
+(1) Teretna vozila i putnička vozila koja su registrirana na teritoriju jedne ugovorne stranke, a privremeno su uvezena na teritorij druge ugovorne stranke, ne podliježu plaćanju poreza i naknada za cestovnu upotrebu ili za posjedovanje vozila, niti plaćanju poreza i naknada za obavljanje prijevoza na teritoriju druge ugovorne stranke.
+(2) Oslobođenje spomenuto u stavku (1) ovog članka važit će na teritoriju svake od ugovornih stranaka ukoliko su ispunjeni uvjeti iz važećih carinskih propisa za dotični teritorij kojima se regulira privremeni uvoz takvih vozila na dotični teritorij bez plaćanja carinskih i ostalih uvoznih pristojbi.
+(3) Oslobođenje spomenuto u stavku (1) ovog članka ne odnosi se na poreze i pristojbe koji su uključeni u cijenu goriva, niti na cestarine ili pristojbe koje se naplaćuju za korištenje pojedinih mostova, tunela, trajekata, cesta ili pojedinih cestovnih dionica ili vrsta cesta.
+(4) Gorivo koje se nalazi u standardnim spremnicima vozila oslobođeno je od plaćanja poreza i pristojbi.
+(5) Rezervni dijelovi koji se privremeno uvoze na teritorij druge ugovorne stranke radi popravljanja vozila koja obavljaju usluge u skladu s ovim Ugovorom, nisu podložni plaćanju carinskih i ostalih uvoznih pristojbi u skladu sa carinskim propisima. Zamijenjeni dijelovi trebaju se ponovno izvesti ili uništiti pod nadzorom nadležnih carinskih službenika druge ugovorne stranke.
