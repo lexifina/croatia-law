@@ -1,0 +1,6 @@
+## Posebnosti u načinu rješavanja zamolbe
+# Članak 10.
+(1) Prilikom pružanja međunarodne pravne pomoći domaće pravosudno tijelo udovoljit će formalnostima i postupcima koji su u zamolbi izričito navedeni kao nužni prema pravu države moliteljice, osim ako međunarodnim ugovorom nije što drugo predviđeno i pod uvjetom da takve formalnosti i postupci nisu u suprotnosti s načelima domaćeg pravnog poretka.
+(2) Domaće pravosudno tijelo rješava po zamolbi stranoga pravosudnog tijela bez odgode, uzimajući u obzir procesne rokove, te druge posebno određene rokove koji su obrazloženi u zamolbi.
+(3) Ako domaće pravosudno tijelo može predvidjeti da neće moći udovoljiti posebno određenom roku za rješavanje zamolbe, a u obrazloženju iz stavka 2. ovoga članka izričito se navodi da će svaka odgoda dovesti do znatnog narušavanja postupka pred stranim pravosudnim tijelom, domaće pravosudno tijelo će bez odgode navesti procijenjeno vrijeme potrebno za izvršenje zamolbe. Domaće i strano pravosudno tijelo mogu se nakon toga dogovoriti o daljnjim radnjama koje je potrebno poduzeti u vezi sa zamolbom.
+(4) Ako se zamolba stranoga pravosudnog tijela ne može izvršiti, ili se ne može izvršiti u potpunosti u skladu s postavljenim uvjetima, domaće pravosudno tijelo bez odgode o tome obavještava strano pravosudno tijelo, uz navođenje uvjeta pod kojima se zamolba može riješiti.

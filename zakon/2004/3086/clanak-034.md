@@ -1,0 +1,6 @@
+# Članak 34.
+(1) Stranac koji je na temelju odluke stranoga pravosudnog tijela države koja izručenje traži, okrivljen ili osuđen radi kaznenih djela kažnjivih u skladu sa zakonom te države, izručit će se toj državi, radi vođenja kaznenog postupka, odnosno radi izvršenja sankcija koja uključuje lišavanje slobode, ako takva djela sadrže bitna obilježja kaznenih djela i prema domaćem pravu.
+(2) Izručenje radi vođenja kaznenog postupka može se odobriti samo za kaznena djela koja su prema domaćem pravu kažnjiva kaznom zatvora ili sigurnosnom mjerom s lišenjem slobode na najduže razdoblje od barem jedne godine ili primjenom strože kazne.
+(3) Izručenje radi izvršenja sankcija lišavanjem slobode može se odobriti kada je, u slučaju kaznenih djela iz stavka 1. ovoga članka, donesena pravomoćna presuda na kaznu zatvora ili sigurnosnu mjeru s lišavanjem slobode, koja je odmjerena u trajanju od najmanje četiri mjeseca.
+(4) Iznimno, ako je zamolbom za izručenje obuhvaćeno nekoliko zasebnih kaznenih djela od kojih pojedina ne udovoljavaju uvjetima iz stavka 1. i 2. ovoga članka u odnosu na duljinu kazne koja se može izreći ili se radi o kaznenim djelima za koja je propisana samo novčana kazna, izručenje se može odobriti i za ta kaznena djela.
+(5) Izručenje će se dopustiti ako država moliteljica jamči da bi izvršila istovrsnu zamolbu Republike Hrvatske.

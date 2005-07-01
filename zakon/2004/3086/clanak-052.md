@@ -1,0 +1,5 @@
+## Pravo na saslušanje
+# Članak 52.
+(1) Prigodom donošenja rješenja o pritvoru radi izručenja, nadležni sud utvrdit će je li izručenik osoba naznačena u zamolbi, a nakon toga će mu bez odgađanja priopćiti zbog čega se i na temelju kojih dokaza traži njegovo izručenje i pozvati ga da navede što ima u svoju obranu. Obrazložit će mu pretpostavke za izručenje, te ga upoznati s pravom na žalbu i pravom na branitelja, odnosno postavit će mu branitelja po službenoj dužnosti ako je u pitanju kazneno djelo za koje je obrana obvezna po Zakonu o kaznenom postupku, a također će obavijestiti izručenika o mogućnosti davanja pristanka na predaju državi moliteljici po pojednostavljenom postupku izručenja i odricanja od prava iz članka 54. stavka 1. ovoga Zakona.
+(2) Izručenik se ukratko ispituje o osobnim prilikama, državljanstvu i odnosima prema državi moliteljici, te da li se i iz kojih razloga protivi uhićenju ili izručenju. U ispitivanju može sudjelovati i branitelj izručenika.
+(3) O ispitivanju i obrani sastavlja se zapisnik.
