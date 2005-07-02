@@ -1,0 +1,2 @@
+# Članak 12.
+Ništa se u ovoj Konvenciji ne tumači kao nametanje obveze izručenja ili pružanja međusobne pravne pomoći, ukoliko zamoljena država stranka ima utemeljene razloge vjerovati da je zahtjev za izručenjem za kaznena djela navedena u članku 2. ili međusobnom pravnom pomoći u odnosu na takva kaznena djela, podnesen u svrhu kaznenog progona ili kažnjavanja osobe zbog rase, vjere, nacionalnosti, etničkog podrijetla ili političkog mišljenja te osobe, ili ako bi udovoljavanje zahtjeva toj osobi naštetilo zbog bilo kojih od tih razloga.

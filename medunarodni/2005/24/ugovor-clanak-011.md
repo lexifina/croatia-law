@@ -1,0 +1,2 @@
+# Članak 11.
+Niti jedno kazneno djelo navedeno u članku 2. se ne smatra, u svrhe izručenja ili međusobne pravne pomoći, političkim kaznenim djelom ili kaznenim djelom povezanim s političkim kaznenim djelom ili kaznenim djelom nadahnutim političkim motivima. Sukladno tome, zahtjev za izručenjem ili međusobnom pravnom pomoći koji se temelji na takvom kaznenom djelu ne može biti odbijen isključivo na osnovi povezanosti s političkim kaznenim djelom ili kaznenim djelom povezanim s političkim kaznenim djelom ili kaznenim djelom nadahnutim političkim motivima.

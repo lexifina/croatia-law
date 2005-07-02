@@ -1,0 +1,2 @@
+# Članak 14.
+Svakoj osobi koja je pritvorena ili protiv koje su poduzete bilo koje druge mjere, ili se provodi sudski postupak u skladu s ovom Konvencijom, zajamčeno je pravedno postupanje, što uključuje uživanje svih prava i jamstava u skladu sa zakonima države na čijem se državnom području ta osoba nalazi, te u skladu s primjenjivim odredbama međunarodnog prava, uključujući međunarodno pravo na području ljudskih prava.

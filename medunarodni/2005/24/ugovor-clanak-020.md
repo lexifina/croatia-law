@@ -1,0 +1,4 @@
+# Članak 20.
+1. Svaki spor između dvije ili više država stranaka, a koji se odnosi na tumačenje ili primjenu ove Konvencije i koji se ne može riješiti pregovorima u razumnom vremenskom roku bit će, na zahtjev jedne od tih država, predan na arbitražu. Ako se u roku od šest mjeseci od dana podnošenja zahtjeva za arbitražu stranke ne mogu dogovoriti o organizaciji arbitraže, svaka od njih može spor uputiti Međunarodnom sudu pravde, sukladno Statutu Suda.
+2. Svaka država može, prilikom potpisivanja, ratifikacije, prihvata ili odobrenja ove Konvencije, ili pristupa Konvenciji izjaviti da se ne smatra vezanom odredbama stavka 1. Ostale države stranke neće biti obvezane odredbama stavka 1., u odnosu na svaku državu stranku koja je izjavila takvu rezervu.
+3. Svaka država koja je stavila rezervu u skladu sa stavkom 2., može u bilo kojem trenutku povući rezervu notifikacijom glavnom tajniku Ujedinjenih naroda.

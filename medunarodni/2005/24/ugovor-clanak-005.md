@@ -1,0 +1,2 @@
+# Članak 5.
+Svaka država stranka usvaja takve mjere koje bi mogle biti potrebne, uključujući, gdje je to prikladno, nacionalno zakonodavstvo, kako bi osigurala da kaznena djela u okviru ove Konvencije, posebice koja imaju za cilj izazivanje straha u javnosti ili unutar grupe ljudi ili kod određenih osoba, ni u kakvim okolnostima ne budu opravdana razlozima političke, filozofske, ideološke, rasne, etničke, vjerske ili neke druge slične naravi, te da se kažnjavaju odgovarajućim sankcijama koje su u skladu s njihovom težinom.

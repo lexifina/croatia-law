@@ -1,0 +1,2 @@
+# Članak 3.
+Ova se Konvencija ne primjenjuje ako je kazneno djelo počinjeno unutar jedne države, ako su osoba za koju postoji osnovana sumnja da je počinila kazneno djelo i žrtve državljani te države, ako je osoba za koju postoji osnovana sumnja da je počinila kazneno djelo pronađena na državnom području te države, te nijedna druga država, prema članku 6. stavku 1. ili članku 6. stavku 2. ove Konvencije, nije nadležna, osim što se u tim slučajevima primjenjuju odredbe članka 10. - 15.

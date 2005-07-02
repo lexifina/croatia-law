@@ -1,0 +1,7 @@
+# Članak 9.
+1. Kaznena djela navedena u članku 2. smatraju se kaznenim djelima koja podliježu izručenju u bilo kojem ugovoru o izručenju koji postoji između bilo kojih država stranaka prije stupanja na snagu ove Konvencije. Države stranke se obvezuju uključiti takva kaznena djela kao kaznena djela koja podliježu izručenju u svaki ugovor o izručenju koje će kasnije međusobno sklopiti.
+2. Kada država stranka koja uvjetuje izručenje postojanjem ugovora zaprimi zahtjev za izručenje od druge države stranke s kojom nema sklopljen ugovor o izručenju, zamoljena država stranka može, prema svom nahođenju, ovu Konvenciju smatrati pravnom osnovom za izručenje s obzirom na kaznena djela navedena u članku 2.
+Izručenje će biti podložno drugim uvjetima koje određuje pravo zamoljene države.
+3. Države stranke koje izručenje ne uvjetuju postojanjem ugovora, uzajamno priznaju kaznena djela navedena u članku 2., kao kaznena djela koja podliježu izručenju, pod uvjetima koje određuje pravo zamoljene države.
+4. Ukoliko bude nužno, kaznena djela navedena u članku 2., smatrat će se, u svrhe izručenja između država stranaka, ne samo kao da su počinjena na mjestu na kojem su se dogodila, već i na područjima država koje su uspostavile svoju nadležnost sukladno članku 6. stavku 1. i 2.
+5. Odredbe svih međunarodnih ugovora i dogovora o izručenju između država stranaka s obzirom na kaznena djela navedena u članku 2., smatrat će se preinačenim između država stranaka u mjeri u kojoj su nespojive s ovom Konvencijom.

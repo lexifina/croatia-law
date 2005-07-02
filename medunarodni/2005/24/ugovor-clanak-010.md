@@ -1,0 +1,3 @@
+# Članak 10.
+1. Države stranke pružaju jedna drugoj svu moguću pomoć vezano uz kriminalističke istrage, ili kaznene postupke ili postupke izručenja u odnosu na kaznena djela naveda u članku 2., uključujući pomoć u pribavljanju dokaza kojima raspolažu, a koji su potrebni za postupak.
+2. Države stranke izvršavaju svoje obveze iz stavka 1. u skladu sa svim međunarodnim ugovorima ili drugim dogovorima o uzajamnoj pravnoj pomoći koji mogu postojati između njih. U slučaju nepostojanja takvih međunarodnih ugovora ili drugih dogovora, države stranke će jedna drugoj pružiti pomoć u skladu s njihovim domaćim pravom.
