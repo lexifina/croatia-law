@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Protokol protiv nezakonite proizvodnje i trgovanja vatrenim oružjem, njegovim dijelovima i komponentama te streljivom kojim se dopunjuje Konvencija Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta usvojen Rezolucijom br. 55/255, na Općoj skupštini Ujedinjenih naroda održanoj 31. svibnja 2001., u izvorniku na arapskom, kineskom, engleskom, francuskom, ruskom i španjolskom jeziku.

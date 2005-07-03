@@ -1,0 +1,4 @@
+# Članak 18.
+Stupanje na snagu
+1. Ovaj Protokol stupa na snagu devedesetoga dana od datuma polaganja četrdesete isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, ali neće stupiti na snagu prije stupanja na snagu Konvencije. Za potrebe ovoga stavka, svaka isprava koju položi regionalna organizacija za gospodarsku integraciju ne pribraja se onima koje su položile države članice te organizacije.
+2. Za svaku državu ili regionalnu organizaciju za gospodarsku integraciju koja ratificira, prihvati ili odobri ovaj Protokol ili mu pristupi nakon što bude položena četrdeseta isprava u tu svrhu, Protokol stupa na snagu tridesetoga dana od datuma kad ta država ili organizacija položi mjerodavnu ispravu, ili na dan stupanja na snagu ovoga Protokola u skladu s odredbama stavka 1. ovoga članka, prema tome koji je datum kasniji.

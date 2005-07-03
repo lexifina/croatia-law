@@ -1,0 +1,4 @@
+# Članak 3.
+Na temelju članka 13. stavka 2. Protokola protiv nezakonite proizvodnje i trgovanja vatrenim oružjem, njegovim dijelovima i komponentama te streljivom, kojim se dopunjuje Konvencija Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta, Republika Hrvatska obavještava o sljedećem:
+OBAVIJEST
+»Sukladno članku 13. stavku 2. Protokola protiv nezakonite proizvodnje i trgovanja vatrenim oružjem, njegovim dijelovima i komponentama te streljivom, kojim se dopunjuje Konvencija Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta, tijelo za kontakt, koje će služiti za vezu s drugim državama strankama glede pitanja koja se odnose na Protokol protiv nezakonite proizvodnje i trgovanja vatrenim oružjem, njegovim dijelovima i komponentama te streljivom, kojim se dopunjuje Konvencija Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta, bit će Ministarstvo unutarnjih poslova.«

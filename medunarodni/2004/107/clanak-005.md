@@ -1,0 +1,2 @@
+# Članak 5.
+Na dan stupanja na snagu ovoga Zakona Protokol protiv nezakonite proizvodnje i trgovanja vatrenim oružjem, njegovim dijelovima i komponentama te streljivom, kojim se dopunjuje Konvencija Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta, nije na snazi u odnosu na Republiku Hrvatsku, te će se podatak o stupanju na snagu objaviti naknadno u skladu s člankom 30. stavkom 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora.
