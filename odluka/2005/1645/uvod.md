@@ -1,0 +1,1 @@
+Na temelju članka 24. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2005. godinu (»Narodne novine«, br. 171/2004), Vlada Republike Hrvatske je na sjednici održanoj 8. srpnja 2005. godine donijela
