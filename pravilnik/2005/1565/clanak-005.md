@@ -1,0 +1,5 @@
+## Homonimi
+# Članak 5.
+(1) Zaštita homonima oznakom zemljopisnog podrijetla ili oznakom izvornosti odobrit će se svim podnositeljima zahtjeva koji ispunjavaju uvjete propisane Zakonom o hrani i ovim Pravilnikom, ali samo u slučaju da takav naziv ne dovodi javnost i potrošača u zabludu o zemljopisnom podrijetlu prehrambenog proizvoda odnosno da proizvod dolazi iz nekoga drugog područja.
+(2) Homonimi iz stavka 1. moraju se rabiti na način da se neposredno pored zaštićena naziva mjesta podrijetla prehrambenog proizvoda naznači naziv zemlje i/ili mjesta njegova podrijetla i to u svim oblicima označavanja prehrambenog proizvoda, kao i u ispravama, promidžbenome materijalu i u medijskim porukama.
+(3) Naziv koji je homonim nekog već registriranog naziva, neće biti registriran ako dovodi javnost i potrošača u zabludu o zemljopisnom podrijetlu prehrambenog proizvoda odnosno, upućuje da isti dolazi iz nekoga drugog područja, premda je naziv ispravan u pogledu njegovog izričaja koji uključuje pravo zemljopisno područje, regiju ili mjesto podrijetla.

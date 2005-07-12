@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+## Predmet pravilnika
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje postupak za registraciju oznaka izvornosti i oznaka zemljopisnog podrijetla hrane (u daljnjem tekstu: prehrambeni proizvod), podaci koje sadrži zahtjev za registraciju i specifikacija proizvoda, sadržaj, oblik i način vođenja Registra oznaka izvornosti i Registra oznaka zemljopisnog podrijetla prehrambenih proizvoda (u daljnjem tekstu: Registri), postupak upisa i brisanja korisnika iz Upisnika korisnika registriranih oznaka izvornosti i Upisnika korisnika registriranih oznaka zemljopisnog podrijetla prehrambenih proizvoda (u daljnjem tekstu: Upisnici), sadržaj, oblik i način vođenja Upisnika, sustav utvrđivanja sukladnosti, uvjeti koje moraju zadovoljiti pravne osobe koje provode postupak ocjenjivanja sukladnosti te način kontrole.
+(2) Odredbe ovog Pravilnika ne primjenjuju se na prirodne mineralne i izvorske vode, jaka alkoholna pića, vina, voćna vina i druge proizvode od grožđa i vina, osim vinskog octa, koji su uređeni posebnim propisima.
