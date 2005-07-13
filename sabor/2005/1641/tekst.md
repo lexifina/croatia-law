@@ -1,0 +1,8 @@
+Na temelju članka 120. Poslovnika Hrvatskoga sabora, Hrvatski sabor na sjednici 7. srpnja 2005., donio je
+DEKLARACIJU
+O POTPORI HRVATSKO-MAĐARSKOJ KANDIDATURI ZA ORGANIZACIJU EUROPSKOGA NOGOMETNOG PRVENSTVA UEFA EURO 2012. GODINE
+Šport ima značajnu ulogu u odgoju mladeži, u formiranju njihove osobnosti, kao i u jačanju kohezije među pojedinim članovima i skupinama društva. Pružiti mjesto završnom turniru Europskoga nogometnog prvenstva UEFA EURO 2012. (u daljnjem tekstu: UEFA EURO 2012.) za zemlju domaćina donosi prestiž, razvoj infrastrukture te gospodarski i socijalni napredak.
+Hrvatski sabor:
+1. daje podršku zajedničkom nastojanju Vlade Republike Hrvatske, Vlade Republike Mađarske, Hrvatskoga nogometnog saveza te Mađarskoga nogometnog saveza, da se Hrvatski nogometni savez i Mađarski nogometni savez zajednički kandidiraju za stjecanje prava organiziranja završnice UEFA EURO 2012., koja će se održati 2012. godine,
+2. imajući u vidu očekivani povoljni gospodarski i društveni utjecaj organiziranja završnice UEFA EURO 2012., uključivanjem mogućih najširih krugova društva, založit će se za nacionalni konsenzus i združivanje snaga, koji su potrebni u interesu uspješne kandidature,
+3. poziva Vladu Republike Hrvatske da u svezi s kandidaturom poduzme sve u interesu sveobuhvatnog razvoja hrvatskog športa, imajući u vidu osim općih športskodruštvenih ciljeva i stvaranje uvjeta za uspješan nastup na završnici UEFA EURO 2012. kojega se želi organizirati, budući da je podnošenje kandidature za organiziranje završnice UEFA EURO 2012. ujedno odgovorna nacionalna odluka koja se odnosi i na sveobuhvatni razvoj hrvatskog športa.
