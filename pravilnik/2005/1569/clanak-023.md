@@ -1,0 +1,2 @@
+# Članak 23.
+Kad se pri ispitivanju tipa brojila utvrdi da se pojedini ili svi mjerni rezultati nalaze izvan granica postotnih pogrešaka koje su dane u tablicama 11. i 12. iz članka 33. ovoga pravilnika, vrši se pomak apscisne osi paralelno s njom za vrijednost ± 1,0% za brojila razreda točnosti 2, a ± 1% za brojila razreda točnosti 3. Ako svi mjerni rezultati pri tome ostanu u granicama postotnih pogrešaka koje su dane u tablicama 11. i 12. iz članka 33. ovoga pravilnika, brojilo je ispravno.
