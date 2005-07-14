@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. te članka 63. stavka 2. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01, 7/03, 174/04, 10/05 - ispravak i 49/05 - pročišćeni tekst), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
