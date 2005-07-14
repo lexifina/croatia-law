@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produživanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima aviona (»Narodne novine«, broj 99/01), u članku 8. stavak 2. riječi »koja su započeta prije 1. srpnja 2002. a završe najkasnije do 30. lipnja 2005.«, zamjenjuju se riječima »koja su započeta prije 1. srpnja 2002. a završe najkasnije do 30. prosinca 2005.«.
