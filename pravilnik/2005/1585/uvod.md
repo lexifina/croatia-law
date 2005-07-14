@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 1. Zakona o hrani (»Narodne novine« broj 117/03, 130/03, 48/04) ministar poljoprivrede, šumarstva i vodnoga gospodarstva, uz suglasnost ministra zdravstva i socijalne skrbi donosi
