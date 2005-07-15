@@ -1,0 +1,8 @@
+## 4. UPRAVA POLJOPRIVREDE
+# Članak 24.
+Uprava poljoprivrede izvršava zakone i propise u području poljoprivrede; izravno je nadležna za provođenje Zakona o sjemenu i sadnom materijalu i priznavanju sorti poljoprivrednog bilja, Zakona o zaštiti sorti poljoprivrednog bilja, Zakona o stočarstvu, Zakona o zaštiti bilja, Zakona o gnojivima i poboljšivačima tla, Zakona obrani od tuče, obavlja poslove po prenijetoj nadležnosti iz drugih zakona; rješava u upravnim i inspekcijskim stvarima u području poljoprivrede; priprema nacrte i donošenje zakona i podzakonskih akata iz područja poljoprivrede i njihovo usklađenje sa smjernicama Europske unije; sudjeluje u izradi proračuna i sustava potpore u poljoprivredi; obavlja inspekcijski nadzor nad provođenjem zakona i općih akata kojima je uređeno područje poljoprivrede, zaštite bilja, korištenje potpora u poljoprivredi i ribarstvu i gospodarenja poljoprivrednim zemljištem; obavlja zdravstveni nadzor bilja u proizvodnji i u prometu pošiljaka bilja preko državne granice u skladu s propisima o zaštiti bilja; daje inicijativu za rješavanje pojedinih pitanja i odgovorna je za stanje u svom djelokrugu; provodi upravni nadzor u skladu s propisima u nadležnosti i ostale upravne poslove iz područja poljoprivrede, prati i koordinira rad ustanova koje izvršavaju prenijete poslove iz zakona koji su u nadležnosti uprave; obavlja poslove međunarodne suradnje, prati i provodi međunarodne projekte iz područja nadležnosti.
+Za obavljanje poslova ustrojavaju se sljedeće ustrojstvene jedinice:
+4.1. Odjel za poljoprivrednu proizvodnju
+4.2. Odjel za zaštitu bilja
+4.3. Odjel inspekcijskih poslova.
+4.1. Odjel za poljoprivrednu proizvodnju

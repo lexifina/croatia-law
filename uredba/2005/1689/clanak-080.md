@@ -1,0 +1,3 @@
+# Članak 80.
+Odjel pravnih poslova, javnih nabava i ugovaranja u SAPARD programu izrađuje nacrte natječaja, prati provedbu natječaja sukladno pravilima definiranim u Priručniku Europske komisije pod nazivom »Ugovori o uslugama, nabavi i radovima sklopljeni u okviru suradnje Zajednice s trećim državama«; koordinira i provodi poslove javnih nabava i ograničenih prikupljanja ponuda; priprema nacrte ugovora i prati aktivnosti sklapanja ugovora u provedbi SAPARD programa; rješava žalbe, priprema odgovore na tužbe i druga pravna pitanja u okviru aktivnosti SAPARD programa, obavlja i druge poslove sukladno posebnim propisima.
+10.5. Sektor za financije

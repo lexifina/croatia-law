@@ -1,0 +1,3 @@
+# Članak 46.
+Odsjek za Tržišni informacijski sustav u poljoprivredi prikuplja informacije o cijenama poljoprivredno-prehrambenih proizvoda i inputa u poljoprivredi i temeljnim obilježjima ponude i potražnje na lokalnim hrvatskim i međunarodnim tržištima; osigurava razmjenu podataka o cijenama unutar i izvan ministarstva te surađuje s ostalim ustanovama; priprema podloge za oblikovanje mjera tržišno--cjenovne politike; prikuplja podatke i priprema izvješća o cijenama poljoprivredno-prehrambenih proizvoda i inputa u poljoprivredi za potrebe Europske komisije i drugih međunarodnih institucija; surađuje s međunarodnim institucijama u provedbi projekata unaprjeđenja tržišnog informacijskog sustava u poljoprivredi.
+6.2. Odjel za Europsku uniju i trgovinske integracije

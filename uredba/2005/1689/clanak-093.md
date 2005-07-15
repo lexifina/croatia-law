@@ -1,0 +1,3 @@
+# Članak 93.
+Odsjek za biostatistiku i ekonomiku u ribarstvu prikuplja, obrađuje i analizira podatke o svim kategorijama ribolova, uzgoja riba i drugih morskih organizama, vodi evidenciju o ograničenima ulova i predlaže zabranu daljnjeg ribolova u slučaju njihova prekoračenja, sudjeluje u izradi kvota i praćenju izlova istih, izrađuje ekonomske analize obavljanja ribolova na temelju prikupljenih i obrađenih podataka, predlaže način praćenja stanja bioloških bogatstava, obavlja kontrolu zahtjeva za isplatu poticaja u morskom ribarstvu, surađuje s Državnim zavodom za statistiku i s drugim stručnim i znanstvenim institucijama, priprema stručne podloge za donošenje zakona i drugih propisa iz morskog ribarstva.
+11.1.3. Odsjek ribolova

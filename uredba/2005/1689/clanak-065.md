@@ -1,0 +1,4 @@
+# Članak 65.
+Odjel za predpristupne programe i promotivne aktivnosti vodi i koordinira programe i mjere vezane uz predpristupne fondove u djelokrugu poljoprivrede i ruralnog razvitka; predlaže i provodi programe za korištenje predpristupnih fondova; nadzire i prati ispunjavanje preuzetih obveza i provedbu programa koji se financiraju iz predpristupnih fondova; predlaže i sudjeluje u izradi zakona i propisa potrebnih za provedbu programa financiranih iz predpristupnih fondova; prati događanja u području ruralnog razvitka u EU i zemljama kandidatima za članstvo u EU.
+Organizira i provodi promotivne aktivnosti potrebne za provedbu programa i mjera predpristupnih fondova; organizira javne rasprave, predavanja i radionice, te edukacijski materijal za popularizaciju mjera, odnosno za njihovo donošenje; usklađuje svoje aktivnosti sa zahtjevima i procedurama Europske zajednice za donošenje mjera ruralnog razvitka.
+9.5. Odjel za koordinaciju programa i mjera

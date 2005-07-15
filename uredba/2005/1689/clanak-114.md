@@ -1,0 +1,6 @@
+# Članak 114.
+Odjel vodne politike i međunarodnih projekata koordinira proces približavanja Europskoj uniji na području vodnoga gospodarstva unutar Ministarstva; s tim u vezi provodi koordinaciju s drugim tijelima uprave i relevantnim institucijama; potiče i koordinira suradnju s relevantnim tijelima Europske unije; potiče prilagodbu hrvatske nacionalne politike s politikom Europske unije vezanom uz upravljanje vodama; organizira preuzimanje pravne stečevine EU na području upravljanja vodama; organizira stručno usavršavanje za proces približavanja Europskoj uniji; priprema i koordinira provedbu projekata iz predpristupnih programa Europske unije; izrađuje izvješća o provedbi ovih programa u dijelu upravljanja vodama; potiče, priprema i koordinira provedbu ostalih projekata u području međunarodne suradnje s međunarodnim financijskim institucijama, drugim izvorima financiranja te međunarodnih donacijama i tehničkom pomoći; izrađuje godišnje planove rada, stručne naputke i izvješća, te obavlja i druge poslove koji mu se stave u nadležnost.
+Za obavljanje poslova iz stavka 1. ovog članka utvrđuju se sljedeće ustrojstvene jedinice:
+14.4.1. Odsjek za Europsku uniju
+14.4.2. Odsjek za međunarodne projekte i pretpristupne programe Europske unije.
+14.4.1. Odsjek za Europsku uniju
