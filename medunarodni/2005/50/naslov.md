@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Okvirnog ugovora o zajmu broj F/P 1498 (2004) za Projekt izgradnje objekata komunalne i društvene infrastrukture na hrvatskim otocima između Republike Hrvatske i Razvojne banke Vi
