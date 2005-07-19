@@ -1,0 +1,4 @@
+# Članak 6.
+Zatezne kamate
+Bez obzira na druge protumjere koje su CEB-u na raspolaganju slijedom ovoga Ugovora, Pravila o zajmovima ili na drugi način, ako Zajmoprimac ne plati sveukupan iznos kamata ili neki drugi iznos koji dospijeva na plaćanje slijedom ovoga Ugovora, najkasnije do navedenoga datuma dospijeća, Zajmoprimac mora platiti dodatne kamate na dospjeli iznos koji nije u cijelosti plaćen i to na temelju jednomjesečne EURIBOR2 stope za valutu zakašnjeloga plaćanja koja vrijedi na datum dospijeća (ako to nije radni dan na koji radi TARGET sustav, onda na prvi sljedeći radni dan), u 11 sati ujutro (po briselskom vremenu), plus 2,5% godišnje, za razdoblje od datuma dospijeća navedenog iznosa do datuma stvarnog plaćanja.
+Primjenjiva jednomjesečna EURIBOR3 stopa ažurirat će se svakih 30 dana.
