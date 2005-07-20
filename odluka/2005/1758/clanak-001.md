@@ -1,0 +1,3 @@
+## o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu
+# Članak 1.
+U Odluci o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstvenogo osiguranje za 2005. godinu (»Narodne novine« broj 188/04. i 30/05.) u članku 1. stavku 2. u Tablici 1. pod šifrom pomagala 93080 u stupcu »Broj bodova« broj: »6,35« zamjenjuje se brojem: »6,80«.
