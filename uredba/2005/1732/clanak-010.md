@@ -1,0 +1,3 @@
+# Članak 10.
+Odsjek za financijsko-računovodstvene poslove organizira, koordinira i prati izvršenje svih financijskih i računovodstvenih poslova sukladno zakonskim propisima, izvršava plaćanja za odobrene tekuće i kapitalne izdatke po pozicijama Državnog proračuna, obavlja poslove obračuna plaća i naknada zaposlenima, vodi blagajničko poslovanje, kontira, knjiži i knjigovodstveno prati izvršenje primitaka i izdataka po pozicijama državnog proračuna, priprema i izrađuje periodične obračune, završni račun i konsolidira financijska izvješća na razini Razdjela, organizira godišnji popis imovine, obveza i potraživanja, vodi knjigovodstvo osnovnih sredstva, sitnog inventara i kancelarijskog materijala, te obavlja druge poslove iz svog djelokruga.
+2.1.3. Odsjek za javnu nabavu

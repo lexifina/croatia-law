@@ -1,0 +1,6 @@
+# Članak 26.
+Odjel za strateško planiranje i energetske bilance obavlja poslove u vezi s provedbom zacrtane energetske politike Republike Hrvatske odnosno strategije razvitka energetike, izrađuje prijedloge zakona i propisa iz područja energetike, toplinske energije, elektroenergetike, nafte, naftnih derivata i prirodnog plina, predlaže mjere za usklađivanje razvoja energetskog sektora s razvojnim planovima Republike Hrvatske, koordinira poslove u svezi s gospodarenjem električnom energijom, analizira i ocjenjuje planove razvoja energetskog sektora, sudjeluje u izradi programa racionalnog korištenja energije i povećanja energetske učinkovitosti, koordinira i sudjeluje u izradi energetskih bilanci, kontinuirano prati i analizira izvršavanje energetske bilance, kontinuirano prati i analizira sigurnost opskrbe energentima, priprema za tiskanje publikaciju »Energija u Hrvatskoj«, surađuje s drugim institucijama Republike Hrvatske zaduženim za energetiku.
+U Odjelu za strateško planiranje i energetske bilance ustrojavaju se:
+3.3.1. Odsjek za energetske bilance, analize i tržište
+3.3.2. Odsjek za zajedničke poslove i međunarodnu suradnju.
+3.3.1. Odsjek za energetske bilance, analize i tržište

@@ -1,0 +1,3 @@
+# Članak 14.
+Odjeljak za kadrovske poslove obavlja poslove u svezi sa zapošljavanjem i rasporedom službenika i namještenika, vodi osobne očevidnike službenika i namještenika, izrađuje i vodi izvještaje iz područja službeničkih odnosa, obavlja poslove u svezi ostvarivanja prava iz mirovinskog i zdravstvenog osiguranja službenika i namještenika, obavlja administrativno tehničke poslove u vezi s polaganjem državnih stručnih ispita i osposobljavanjem službenika, izdaje rješenje i potvrde u vezi sa statusnim pravima službenika i namještenika te druge poslove iz svojeg djelokruga.
+2.3.2. Odjeljak za opće poslove

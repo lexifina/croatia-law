@@ -1,0 +1,3 @@
+# Članak 22.
+Odsjek za obnovljive izvore i energetsku učinkovitost priprema nacionalne programe za učinkovitije korištenje energije i usklađuje njihovu provedbu, prati aktivnosti za učinkovitije korištenje energije, predlaže nacionalne programe i mjere za korištenje obnovljivih izvora i novih tehnologija te mjere za uklanjanje prepreka, prati njihovu provedbu, sudjeluje u aktivnostima Fonda za zaštitu okoliša i energetsku učinkovitost, te u aktivnostima vezanim uz sporazume Republike Hrvatske s drugim državama i međunarodnim organizacijama na području energetske učinkovitosti i obnovljivih izvora; organizira promotivne aktivnosti te obavlja druge poslove iz svog djelokruga.
+3.2. Odjel za rudarstvo

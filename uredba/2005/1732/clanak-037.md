@@ -1,0 +1,9 @@
+# Članak 37.
+Odjel za unaprjeđenje trgovine, tržišta i elektroničku trgovinu obavlja upravne i stručne poslove u vezi s unaprjeđenjem i razvojem trgovine, i elektroničke trgovine Republike Hrvatske, te poduzima aktivnosti u vezi s prilagodbom hrvatskog zakonodavstva koje se odnosi na trgovinu i elektroničko poslovanje sa zakonodavstvom Europske unije; prati i predlaže modele razvoja trgovine u skladu s nastalim uvjetima na tržištu kao i razvitak i organizaciju robnih burzi i dražbi; priprema analitičke podloge i predlaže mjere unaprjeđenja trgovine na malo s aspekta njenog približavanja potrebama potrošača, te osigurava ravnomjeran razvoj trgovine na cijelom teritoriju Republike Hrvatske, vodeći računa o specifičnim potrebama pojedinih kategorija potrošača i očuvanju urbanih središta; predlaže mjere u vezi s radnim vremenom trgovine; provodi prvostupanjski i drugostupanjski upravni postupak i obavlja upravni nadzor iz djelokruga Uprave; predlaže i provodi mjere, vezano za unaprjeđenje i uvođenje novih oblika i tehnologija u obavljanju trgovine osobito onih koje se odnose na razvoj elektroničke trgovine; obavlja upravne i stručne poslove u vezi s elektroničkim potpisom, te prati usklađenost nacionalnog zakonodavstva na području elektroničkog poslovanja i primjene elektroničkog potpisa, sa zakonodavstvom Europske unije; pruža stručnu pomoć tijelima i jedinicama lokalne i područne (regionalne) samouprave i uprave, nadležnim za poslove trgovine; surađuje s drugim ministarstvima i institucijama; obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Odjela za unaprjeđenje trgovine, tržišta i elektroničku trgovinu ustrojavaju se sljedeći odsjeci:
+5.1.1. Odsjek za trgovinu,
+5.1.2. Odsjek za tržište i cijene
+5.1.3. Odsjek za primjenu novih tehnologija i elektroničku trgovinu
+5.1.4. Odsjek za drugostupanjski postupak
+5.1.5. Odsjek za provedbu mjera trgovinske politike.
+5.1.1. Odsjek za trgovinu

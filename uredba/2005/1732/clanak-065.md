@@ -1,0 +1,3 @@
+# Članak 65.
+U Odjelu zaštite na radu obavljaju se upravni i stručni poslovi vezani na aktivnu politiku zaštite na radu i to: stvaranje sustava za praćenje broja i vrsta ozljeda na radu i profesionalnih bolesti, istraživanje rizika glede ozljeda na radu i profesionalnih bolesti, utvrđivanje kriterija i postupaka u vezi s organizacijom rada prilagođenom radnicima, davanje prijedloga glede unapređenja zaštite na radu, izrada analiza i stručnih mišljenja na području zaštite na radu, sudjelovanje i predlaganje propisa na području zaštite na radu, organizacija i provođenje stručnih ispita sukladno Zakonu o zaštiti na radu, te druge poslove koje odredi ministar.
+9.4. Odjel za upravljanje projektima i programima pomoći Europske unije na području radai socijalne sigurnosti

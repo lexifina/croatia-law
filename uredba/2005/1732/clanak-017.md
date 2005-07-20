@@ -1,0 +1,3 @@
+# Članak 17.
+Odjeljak za sigurnosne i informatičke poslove obavlja sigurnosne poslove koji se odnose na cjelovitu zaštitu osoba, imovine i objekata ministarstva, priprema planove i predlaže mjere zaštite, prati stanje civilnih obrambenih priprema, te u suradnji s Ministarstvom obrane predlaže mjere; obavlja informatičke poslove koji se odnose na pripremu podataka i održavanje informacijskog sustava ministarstva, brine o tehničkom održavanju računalne opreme, o stabilnosti i sigurnosti informacijskih sustava, educira državne službenike i namještenike za rad sa standardnim informatičkim proizvodima, predlaže mjere za unaprjeđivanje rada informacijskog sustava ministarstva, obavlja i druge poslove iz svog djelokruga.
+2.4.2. Odjeljak za vozni park

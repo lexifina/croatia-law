@@ -1,0 +1,2 @@
+# Članak 53.
+Odjel za odnose s međunarodnim institucijama sudjeluje u radu međunarodnih gospodarskih tijela i inicijativa u vezi sa suradnjom u regiji, kao što su Jadransko-jonska inicijativa, SECI, SEI; ostvaruje i koordinira suradnju s tijelima ostalih međunarodnih gospodarskih organizacija i institucija (UN, UNCTAD, ECOSOC i sl.), daje mišljenja na pred¬mete iz svoga djelokruga, koordinira suradnju s drugim državnim tijelima i institucijama.

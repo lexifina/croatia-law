@@ -1,0 +1,3 @@
+# Članak 11.
+Odsjek za javnu nabavu obavlja poslove nabave roba i usluga za potrebe Ministarstva po postupku propisanom Zakonom o javnoj nabavi, vrše poslove prijema i raspodjele opreme i materijala te vodi materijalne evidencije o istome, pruža stručnu pomoć povjerenstvima za nabavu, prati odvijanje postupaka nabave sukladno planu nabave i sredstvima osiguranim planom proračuna u pogledu zadanih okvira visine i namjene sredstava, priprema i izrađuje ugovore iz područja nabave te prati izvršavanje istih, vodi evidencije o postupcima nabave i evidencije zaključenih ugovora, vodi evidenciju osnovnih sredstava, te obavlja druge poslove koje odredi tajnik ili ministar neposredno.
+2.2. Odjel za pravne poslove

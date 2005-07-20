@@ -1,0 +1,3 @@
+# Članak 15.
+Odjeljak za opće poslove organizira poslove u vezi rada pisarnice, vodi djelovodnik i upisnik prvostupanjskih i drugostupanjskih predmeta, utvrđuje klasifikacijske oznake predmeta, preuzima predmete na otpremu i obavlja administrativno tehničku obradu tih predmeta, ulaže predmete po arhivskim znakovima i vodi arhivsku knjigu, obavlja prijepis teksta, vrši fotokopiranje i umnožavanje, obavlja vanjsku i unutarnju dostavu pošte po organizacijskim jedinicama u zgradi i sjedištima organa na području grada Zagreba, te obavlja druge poslove iz svojeg djelokruga.
+2.4. Odjel za sigurnosne, pomoćno-tehničkei informatičke poslove
