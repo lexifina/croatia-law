@@ -1,0 +1,5 @@
+# Članak 4.
+ZAŠTITA ULAGANJA
+1. Ulaganja fizičkih i pravnih osoba jedne Ugovorne stranke izvršena unutar teritorija druge Ugovorne stranke uživat će kod druge Ugovorne stranke punu pravnu zaštitu i pravedan tretman koji nije manje povoljan od onog odobrenog vlastitim ulagateljima ili ulagateljima bilo koje treće države koji se nalaze u usporedivom položaju.
+2. Ni jedna Ugovorna stranka neće na svom teritoriju podvrgnuti državljane ili društva druge Ugovorne stranke, glede upravljanja, održavanja, korištenja, uživanja ili raspolaganja njihovim ulaganjima, postupku manje povoljnom od onoga što ga odobrava vlastitim ulagateljima ili društvima ili ulagateljima ili društvima neke treće države.
+3. Ako jedna Ugovorna stranka odobri posebna prava i povlastice jednom ili više ulagatelja neke treće države temeljem nekog postojećeg ili budućeg ugovora kojim se osniva slobodna trgovinska zona, carinska unija, zajedničko tržište ili slična regionalna organizacija i/ili temeljem nekog ugovora o izbjegavanju dvostrukog oporezivanja, ona nije obvezna odobriti takva prava i povlastice ulagateljima druge Ugovorne stranke.
