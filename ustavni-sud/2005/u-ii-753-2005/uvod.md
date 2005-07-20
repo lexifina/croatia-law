@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, predsjednik Suda, te suci Marijan Hranjski, Mario Kos, Ivan Matija, Ivan Mrkonjić, Željko Potočnjak, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, odlučujući o prijedlogu za pokretanje postupka za ocjenu suglasnosti drugog propisa s Ustavom i zakonom, na sjednici održanoj 13. srpnja 2005. godine, donio je
