@@ -1,0 +1,10 @@
+# Članak 12.
+(1) Članovi Upravnog vijeća Agencije dužnost obavljaju kao jedino zanimanje.
+(2) Član Upravnog vijeća Agencije mora biti hrvatski državljanin s prebivalištem u Republici Hrvatskoj, koji ima najmanje visoku stručnu spremu tehničke, pravne ili ekonomske struke, koji dobro poznaje engleski jezik, i ima najmanje sedam godina radnog iskustva, od čega pet godina na poslovima s područja energetike.
+(3) Članom Upravnog vijeća ne može biti imenovana osoba iz članka 16. stavka 2. Zakona.
+(4) Član Upravnog vijeća Agencije i članovi njegove uže obitelji ne mogu biti vlasnici, dioničari ili imatelji udjela u energetskim subjektima više od 0,5 % temeljnoga dioničkog kapitala, članovi uprave ili nadzornih odbora ili bilo kojih drugih tijela u energetskim subjektima, te im nije dopušteno imati materijalni interes u području energetskih djelatnosti i nije im dopušteno obavljati druge poslove u energetskom subjektu na kojega se primjenjuju odredbe ovoga Zakona, zbog čega bi moglo doći do sukoba interesa.
+(5) Članovi Upravnog vijeća Agencije mogu pisati i objavljivati stručne i/ili znanstvene radove te sudjelovati u radu stručnih i/ili znanstvenih skupova u zemlji i inozemstvu kao i u nastavi na sveučilištima, veleučilištima i visokim školama temeljem ugovora o djelu.
+(6) Članovi Upravnog vijeća Agencije ostvaruju sva prava i dužnosti s danom imenovanja.
+(7) Članovi Upravnog vijeća Agencije, zamjenik predsjednika Upravnog vijeća Agencije i predsjednik Upravnog vijeća Agencije zaključuju ugovor o radu s Agencijom.
+(8) Ugovorom o radu iz stavka 7. ovoga članka podrobnije se uređuju prava i obveze članova Upravnog vijeća po osnovi rada, kao i druga prava za vrijeme obnašanja dužnosti u Upravnom vijeću Agencije.
+(9) Nakon razrješenja s dužnosti član Upravnog vijeća Agencije ima pravo nastaviti s radom u stručnoj službi Agencije, osim u slučajevima razrješenja zbog: teže povrede dužnosti utvrđene statutom Agencije; pravomoćne osude za kazneno djelo koje ga čini nedostojnim obavljanja dužnosti; te nastupa okolnosti sukoba interesa.
