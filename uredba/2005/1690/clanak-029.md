@@ -1,0 +1,2 @@
+# Članak 29.
+Stanove i kuće iz članka 27. ove Uredbe, čijim je korisnicima utvrđeno pravo na stambeno zbrinjavanje, Ministarstvo unutarnjih poslova, Ministarstvo obrane, Ministarstvo pravosuđa, Ministarstvo mora, turizma, prometa i razvitka, Agencija za pravni promet i posredovanje nekretninama i Središnji državni ured za upravljanje državnom imovinom predaje Ministarstvu sa cjelokupnom dokumentacijom, kao i službenom evidencijom kojom raspolaže, a koja se popisuje u zapisniku o izvršenoj primopredaji.

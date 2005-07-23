@@ -1,0 +1,2 @@
+# Članak 4.
+Pravo na dodjelu i otkup stana ili kuće, te na dodjelu stambenog kredita za namjene propisane u članku 2. ove Uredbe ostvaruju osobe iz članka 5. ove Uredbe, državljani Republike Hrvatske, a strani državljani samo ako ih ne ostvaruju od države čiji su državljani ili od države na čijem području imaju prebivalište, za čije stambeno zbrinjavanje ne postoje zapreke propisane člankom 37. Zakona.

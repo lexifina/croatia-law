@@ -1,0 +1,2 @@
+# Članak 36.
+Stupanjem na snagu ove Uredbe prestaje važiti Uredba o dodjeli stambenih kredita članovima obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata (»Narodne novine«, broj 97/2002) i Odluka o raspolaganju stanovima u vlasništvu Republike Hrvatske namijenjenim za stambeno zbrinjavanje obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata (»Narodne novine«, br. 33/2003, 11/2004 i 23/2004).

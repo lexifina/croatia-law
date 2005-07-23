@@ -1,0 +1,10 @@
+# Članak 14.
+Stambeni kredit za nadogradnju, odnosno nastavak izgradnje i dovršenje obiteljske kuće odobrava se za odgovarajuću površinu iz članka 11. ove Uredbe prema zapisniku stručne komisije, a sukladno kategoriji potrebnih radova, za:
+a) finalnu etapu izvedbe objekta (nabava i montaža sanitarija, armature, rasvjetnih tijela, polaganje podnih obloga, montaže grijaćih tijela i sl. radovi), po m2 stambene površine, u iznosu od 130 EUR
+b) etapu dovršenja građevine od »roh-bau« do potpuna završenja građevine (radovi iz kategorije a), obrada površina, zidova i stropova, montaža unutarnje stolarije i razvod instalacija bez glavnih vodova), po m2 stambene površine, u iznosu od 250 EUR
+c) etapu dovršenja građevine od konstrukcije do potpunog završenja građevine (radovi iz kategorije b), te izvedbe kompletna razvoda svih instalacija, pregradnih zidova i vanjske stolarije) po m2 stambene površine, u iznosu od 400 EUR.
+Stambeni kredit za poboljšanje uvjeta stanovanja odobrava se za odgovarajuću površinu stana iz članka 11. ove Uredbe, prema zapisniku Stručne komisije, sukladno kategoriji potrebnih radova, za:
+a) obnovu radova u završnoj etapi izvedbe objekta (radovi ličenja stolarije i zidova, promjena dijela keramičkih pločica, brušenje i lakiranje parketa, izmjena dijela armature i izmjena dijela rasvjetnih tijela) po m2 stambene površine, u iznosu od 90 EUR
+b) djelomičnu obnovu obrtničkih radova na građevini (radovi kategorije a), te radovi zamjene dijela vanjske stolarije, zamjene dijela limarije, zamjene dijela pokrova, zamjene dijela podova i sl. radove) po m2 stambene površine, u iznosu od 150 EUR
+c) obnovu obrtničkih radova na građevini (radovi kategorije b), te obnovu obloga zidova, obnovu unutarnje stolarije, zamjenu kompletne limarije, obnovu fasade, obnovu pokrova i sl. radove) po m2 stambene površine, u iznosu od 260 EUR.
+Kada je za poboljšanje stambenih uvjeta potrebno izvesti više radova od radova iz stavka 1. ovog članka, iznos kredita ne može se odobriti u iznosu većem od iznosa određena za obnovu obrtničkih radova na građevini (kategorija c).
