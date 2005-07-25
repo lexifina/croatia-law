@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna, posvećen obilježavanju stjecanja kandidatskog statusa Republike Hrvatske za članstvo u Europskoj uniji 18. VI. 2004., izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenim u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004.« (»Narodne novine«, br. 88/2005.), pušta se u optjecaj 4. kolovoza 2005.
+2. Ova odluka stupa na snagu danom objave u »Narodnim novinama«.
+O br. 674/2005.
