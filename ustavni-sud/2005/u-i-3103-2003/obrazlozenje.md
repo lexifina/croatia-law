@@ -1,0 +1,43 @@
+Obrazloženje
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 11. stavka 1. točaka 8. i 12., članka 36. stavka 3., članka 41. stavka 1. točke 7. i članka 45. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, broj 32/02., 86/02. - ispravak, 114/03. i 151/03. - ispravak) podnio je Milan Jelečanin iz Osijeka (u daljnjem tekstu: predlagatelj).
+Člankom 4. Zakona o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, broj 114/03. ) izmijenjen je članak 11. stavak 1. na način da su točke 8. i 12. stavka 1. članka 11. postale točke 7. i 11.
+2. Osporene odredbe glase:
+»Članak 11.
+(1) Zavod prestaje voditi osobu kao nezaposlenu u osnovnoj evidenciji, ako ta osoba:
+7) ispuni uvjete za prijevremenu starosnu mirovinu, starosnu mirovinu, odnosno ostvari obiteljsku mirovinu ili ostvari invalidsku mirovinu zbog opće nesposobnosti za rad,
+11) navrši 65 godina života ako ispunjava uvjete za mirovinu po bilo kojoj osnovi.
+Članak 36.
+(3) Nezaposlena osoba (muškarac) koja je provela na radu 35 godina, odnosno nezaposlena osoba (žena) koja je provela na radu 30 godina, ima pravo na novčanu naknadu sve do ponovnog zaposlenja, odnosno nastupanja okolnosti iz članka 41. ovoga Zakona.
+Članak 41.
+(1) Pravo na novčanu naknadu prestaje nezaposlenoj osobi ako:
+7) ispuni uvjete za prijevremenu starosnu mirovinu, starosnu mirovinu, odnosno ostvari obiteljsku mirovinu, ostvari invalidsku mirovinu zbog opće nesposobnosti za rad ili ostvari invalidsku mirovinu zbog profesionalne nesposobnosti za rad u iznosu višem od utvrđene novčane naknade.
+Članak 45.
+Pravo na mirovinsko osiguranje iz članka 43. ovoga Zakona nezaposlena osoba gubi nastupanjem okolnosti iz članka 41. ovoga Zakona osim okolnosti iz članka 41. stavka 1. točke 2. istoga članka.«
+3. Predlagatelj smatra da su osporene odredbe nesuglasne s odredbom članka 57. stavka 1. Ustava Republike Hrvatske.
+Obrazlažući prijedlog, u bitnom, ističe da je osporenim odredbama jedna cijela generacija sadašnjih i budućih nezaposlenih osoba dovedena u neravnopravan položaj i diskriminirana u odnosu na druge nezaposlene osobe. Ističe da osobe koje ispunjavaju uvjete za prijevremenu starosnu i starosnu mirovinu ne mogu ostvariti Ustavom zajamčenu zaštitu u slučaju nezaposlenosti te ponovno zapošljavanje »jer ih zakonodavac praktički po sili zakona tjera u prijevremenu starosnu mirovinu ili starosnu mirovinu, a onda im zbog neispunjavanja uvjeta ostvarenog staža trajno umanjuje mirovinu...«.
+Pored navedenog, predlagatelj ukazuje i na nesuglasnost osporenih odredaba s odredbama članaka 4. i 7. osporenog Zakona.
+4. Na temelju članka 42. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, 99/99., 29/02. i 49/02. - pročišćeni tekst), od Ministarstva gospodarstva, rada i poduzetništva zatraženo je i dobiveno očitovanje o prijedlogu.
+Prijedlog nije osnovan.
+5. Neposredno mjerodavne za ocjenu suglasnosti osporenih odredaba s Ustavom su odredbe članaka 1. stavka 1., 5. stavka 1. i 57. stavka 1. Ustava.
+»Članak 1.
+(1) Republika Hrvatska jedinstvena je i nedjeljiva demokratska i socijalna država.
+Članak 5. stavak 1.
+U Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom (...).
+Članak 57. stavak 1.
+Slabim, nemoćnima i drugim, zbog nezaposlenosti ili nesposobnosti za rad, nezbrinutim osobama država osigurava pravo na pomoć za podmirenje osnovnih životnih potreba.«
+6. Zakonom o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (u daljnjem tekstu: Zakon) uređuje se posredovanje pri zapošljavanju, profesionalno usmjeravanje, obrazovanje u cilju povećanja zapošljavanja radne snage, osiguranje za slučaj nezaposlenosti, aktivno djelovanje na tržištu rada u cilju poticanja prostorne i profesionalne pokretljivosti radne snage, te novog zapošljavanja i samozapošljavanja, izvori sredstava za djelatnosti Hrvatskog zavoda za zapošljavanje, te ustroj, upravljanje i obavljanje djelatnosti Zavoda (članak 1. Zakona).
+Prema odredbi članka 4. stavka 1. Zakona, za slučaj nezaposlenosti obvezno su osigurani svi radnici u radnom odnosu. Stavkom 2. istog članka propisano je da se osiguranje za osobe iz stavka 1. ovoga članka provodi na načelu solidarnosti.
+Osiguranjem su obuhvaćena prava na novčanu naknadu, mirovinsko osiguranje, novčanu pomoć i naknadu troškova za vrijeme obrazovanja, jednokratnu novčanu pomoć i naknadu putnih i selidbenih troškova, te zdravstveno osiguranje (članak 5. Zakona).
+7. Razlog predlagateljevog osporavanja odredaba Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti temelji se na predlagateljevom stajalištu da su osporene odredbe (prema kojima određena prava po osnovi nezaposlenosti gube nezaposlene osobe koje ispunjavaju uvjete za prijevremenu starosnu mirovinu, starosnu mirovinu, odnosno osobe koje ostvare obiteljsku ili invalidsku mirovinu) suprotne ustavnoj obvezi države da nezaposlenim osobama osigurava pravo na pomoć za podmirenje osnovnih životnih potreba. Predlagatelj smatra da osporenim odredbama zakonodavac prisiljava te osobe na umirovljenje (pod nepovoljnijim uvjetima od onih pod kojima ostale osobe ostvaruju pravo na mirovinu).
+8. Razmatrajući osnovanost prijedloga sa stajališta mjerodavnih odredaba Ustava, Ustavni sud polazi od sljedećeg:
+Republika Hrvatska, kao socijalna država, nezbrinutim osobama osigurava pravo na pomoć za podmirenje osnovnih životnih potreba.
+Pravo na pomoć za podmirenje osnovnih životnih potreba u smislu odredbe članka 57. stavka 1. Ustava pripada, između ostalog, osobama koje zbog nezaposlenosti ne mogu osigurati materijalna sredstva za podmirenje osnovnih životnih potreba.
+Sukladno navedenoj ustavnoj obvezi, država je osporenim Zakonom nezaposlenim osobama priznala određena prava, među kojima su i pravo na novčanu naknadu, mirovinsko osiguranje, zdravstveno osiguranje (članak 5. Zakona).
+Osporenim odredbama Zakona utvrđeni su uvjeti pod kojima Hrvatski zavod za zapošljavanje prestaje voditi osobu kao nezaposlenu u osnovnoj evidenciji (s tim da se ta osoba može prijaviti u pomoćnu evidenciju), te uvjeti pod kojima nezaposlenoj osobi prestaje pravo na novčanu naknadu i mirovinsko osiguranje.
+Imajući u vidu činjenicu da prema osporenim odredbama nezaposlene osobe gube prava po osnovi nezaposlenosti kad ispune uvjete za mirovinu, dakle, nastupanjem okolnosti koje omogućavaju njihovo materijalno zbrinjavanje po drugoj osnovi, ocjena je Ustavnog suda da osporene odredbe nisu u nesuglasju s odredbom članka 57. stavka 2. Ustava.
+Osvrćući se na predlagateljevu tvrdnju da osporene odredbe onemogućavaju ponovno zapošljavanje osoba koje ispunjavaju uvjete za prijevremenu starosnu mirovinu, te da dovode do umirovljenja određenih kategorija nezaposlenih osoba protiv njihove volje, Ustavni sud ističe da takva tvrdnja nema uporišta u sadržaju osporenih odredaba. Osporene odredbe nezaposlenim osobama koje ispunjavaju uvjete za prijevremenu starosnu mirovinu ne onemogućavaju ponovno zapošljavanje, već im samo uskraćuju pomoć države zbog nastupa okolnosti koje omogućavaju njihovo materijalno zbrinjavanje po osnovi mirovine. Stoga predlagateljevu tvrdnju o neravnopravnosti nezaposlenih osoba na koje se odnose osporene odredbe i ostalih nezaposlenih osoba (na koje se osporene odredbe ne odnose), Ustavni sud ocjenjuje neosnovanom.
+9. Što se tiče osporene odredbe članka 36. stavka 3. Zakona, potrebno je napomenuti da će primjena te odredbe započeti 2007. godine, jer je člankom 70. osporenog Zakona utvrđeno prijelazno razdoblje (od 2002. do 2007. godine), u kojemu se svake godine povećava broj godina provedenih na radu kao uvjet za ostvarivanje prava nezaposlene osobe na novčanu naknadu do ponovnog zaposlenja, odnosno nastupa okolnosti iz članka 41. osporenog Zakona. Na taj su način zaštićene starije osobe koje ispunjavaju uvjete mirovinskog staža za ostavrivanje prava na jednu od starosnih mirovina, ali ne ispunjavaju uvjet godina života.
+Polazeći od svega iznijetog, predlagateljev navod o nesuglasnosti navedene odredbe s Ustavom, Ustavni sud ocjenjuje neutemeljenim.
+10. Sud nije razmatrao navode predlagatelja o suprotnosti osporenih odredaba s odredbama članaka 4. i 7. osporenog Zakona jer međusobna usklađenost zakonskih odredaba nije predmet ustavnosudske ocjene u smislu članka 128. Ustava.
+11. Slijedom iznijetog, na temelju članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno je kao u točki I. izreke.
+12. Objava rješenja temelji se na odredbi članka 29. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
