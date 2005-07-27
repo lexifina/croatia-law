@@ -1,0 +1,9 @@
+# Članak 10.
+Rješavanje sporova između ugovorne stranke i ulagatelja druge ugovorne stranke
+1. Svaki ulagački spor između ugovorne stranke i ulagatelja druge ugovorne stranke rješavat će se pregovorima.
+2. Ako se spor iz stavka 1. ovog članka ne može riješiti u roku od šest (6) mjeseci od pisane obavijesti, spor će se na zahtjev ulagatelja rješavati kako slijedi:
+a) putem nadležnog suda ugovorne stranke; ili
+b) mirenjem ili arbitražom Međunarodnog centra za rješavanje ulagačkih sporova (ICSID), osnovanog Konvencijom o rješavanju ulagačkih sporova između država i državljana drugih država, otvorenoj za potpis u Washingtonu, 18. ožujka 1965. godine. U slučaju arbitraže, svaka ugovorna stranka temeljem ovog Ugovora unaprijed neopozivo pristaje, čak i u nedostatku posebnog ugovora o arbitraži između ugovorne stranke i ulagatelja, spor podnijeti ovom Centru. Ovaj pristanak podrazumijeva odustajanje od zahtjeva da moraju biti iscrpljeni svi unutarnji administrativni ili sudski pravni lijekovi; ili
+c) ad hoc arbitražom sukladno Arbitražnim pravilima Komisije Ujedinjenih naroda za međunarodno trgovačko pravo (UNCITRAL). U slučaju arbitraže, svaka ugovorna stranka temeljem ovog Ugovora unaprijed neopozivo pristaje, čak i ako ne postoji posebni ugovor o arbitraži između ugovorne stranke i ulagatelja podnijeti spor navedenom sudu.
+3. Odluka će biti konačna i obvezujuća, izvršena sukladno nacionalnom pravu, svaka ugovorna stranka osigurat će priznanje i izvršenje arbitražne odluke u skladu sa svojim relevantnim zakonima i ostalim propisima.
+4. Ugovorna stranka koja je stranka u sporu neće, ni u kojem stadiju postupka mirenja ili arbitraže ili izvršenja odluke, uložiti prigovor da je ulagatelj, koji je druga stranka u sporu, primio odštetu u obliku jamstva glede ukupnosti ili dijela njegovih gubitaka.
