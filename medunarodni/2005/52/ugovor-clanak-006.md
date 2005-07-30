@@ -1,0 +1,6 @@
+# Članak 6.
+TRANZIT
+1. Ugovorna stranka će, na pisani zahtjev druge ugovorne stranke dopustiti tranzit preko svog državnog područja državljanima trećih država ili osobama bez državljanstva koji se vraćaju s državnog područja ugovorne stranke koja zahtjeva tranzit. Ugovorna stranka koja podnosi zahtjev može zamoliti ugovornu stranku kojoj je zahtjev upućen da osigura pratnju tijekom prolaska njezinim državnim područjem.
+2. Ugovorna stranka kojoj je zahtjev upućen će odobriti besplatnu tranzitnu vizu praćenoj osobi i osobama iz njezine pratnje.
+3. Ukoliko državljaninu treće države ili osobi bez državljanstva koji podliježe postupku prihvata ne bude odobren ulazak na državno područje treće države, ili ukoliko, bez obzira na razloge, nastavak putovanja bude onemogućen, ugovorna stranka koja podnosi zahtjev će preuzeti na sebe potpunu odgovornost za tog državljanina treće države te će ga vratiti, bez odgode, na svoje državno područje.
+4. Ukoliko postoje očite indikacije da osoba za koju je upućen zahtjev za tranzit može predstavljati prijetnju javnom redu, nacionalnoj sigurnosti ili zdravlju građana, i također ako se smatra da jamstva iz ovoga članka nisu zadovoljavajuća, ugovorna stranka kojoj je zahtjev upućen zadržava svoje pravo da odbije takav zahtjev.
