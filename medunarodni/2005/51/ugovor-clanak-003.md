@@ -1,0 +1,2 @@
+# Članak 3.
+Ugovorne će stranke poduzimati odlučne i učinkovite postupke kako bi sprječile terorističke napade i organizirani kriminal u svim njegovim oblicima, ili korištenje svojih državnih područja u planiranju, organiziranju ili izvršavanju takvih kaznenih djela, uključujući sprječavanje da se teroristički ili kriminalni elementi infiltriraju ili da borave u njihovim državama, u grupama ili pojedinačno, ili da dobivaju financijsku potporu, tjelesnu ili vojnu obuku.

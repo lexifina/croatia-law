@@ -1,0 +1,2 @@
+# Članak 7.
+Ugovorne stranke smiju održavati zajedničke sastanke viših službenika, na mjestu i u vrijeme koje objema odgovara, kako bi razmotrile rezultate zajedničkih aktivnosti i utvrdile ciljeve i strategije kojih se treba pridržavati u provedbi ovoga Ugovora. Financijske i materijalne troškove ovih sastanaka snosit će domaćin, na temelju reciprociteta. Troškove međunarodnog putovanja snosi strana koja šalje izaslanstvo.

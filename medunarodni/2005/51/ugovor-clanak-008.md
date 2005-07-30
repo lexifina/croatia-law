@@ -1,0 +1,3 @@
+# Članak 8.
+1. Ugovorne stranke obvezne su štititi informacije i tajnost podataka koje je bilo koja od ugovornih stranaka klasificirala kao povjerljive, u skladu s nacionalnim zakonodavstvom ugovorne stranke koja ih predaje, osobito ako je ta ugovorna stranka iskazala rezervu u odnosu na prenošenje informacija trećoj strani ili trećim osobama. Ugovorna stranka koja daje informacije određuje stupanj tajnosti informacija koje predaje.
+2. Materijali, informacije te napredna tehnička sredstva i oprema, osigurani na temelju ovoga Ugovora, ne mogu se prenijeti ili posuditi trećoj strani bez suglasnosti donatora odgovarajuće stvari ili ustrojstvene jedinice ugovorne stranke koja ih je osigurala.
