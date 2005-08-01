@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine« broj 136/2004), a u prigodi 10. obljetnice Vojno-redarstvene akcije »Oluja«, Vlada Republike Hrvatske je na sjednici održanoj 22. srpnja 2005. godine donijela

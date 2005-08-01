@@ -1,0 +1,4 @@
+# Članak 6.
+Ministarstvo obrane, Ministarstvo unutarnjih poslova te Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti, dužni su, na zahtjev Ministarstvu mora, turizma, prometa i razvitka, dostaviti sve podatke o kojima se vodi službena evidencija, a tiču se osobnog i stambenog statusa osoba iz članka 1. ove Uredbe.
+Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti dostavit će Ministarstvu mora, turizma, prometa i razvitka popis osoba koje su prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 174/2004) podnijele zahtjev za stambeno zbrinjavanje, a koje prebivaju na područjima posebne državne skrbi.
+Agencija za pravni promet i posredovanje nekretninama (APN) dužna je na zahtjev Ministarstvu mora, turizma, prometa i razvitka dostaviti sve podatke o stambenim objektima, koji su kupljeni na području posebne državne skrbi od strane Agencije.
