@@ -1,0 +1,4 @@
+# Članak 25.
+1. Osim odredbe stavka 2., razdoblja osiguranja i izjednačena razdoblja, navršena u skladu s hrvatskim zakonodavstvom o mirovinskom osiguranju, zbrajaju se, ako je to potrebno, pod uvjetom da se ne preklapaju s razdobljima osiguranja navršenim prema belgijskom zakonodavstvu u cilju stjecanja, održavanja ili ponovnog priznanja prava na davanja.
+2. Kada belgijsko zakonodavstvo uvjetuje pravo na neka davanja činjenicom da su razdoblja osiguranja navršena u određenom zvanju, za priznanje prava na ta davanja zbrajaju se samo razdoblja osiguranja ili izjednačena razdoblja navršena u istom zvanju u Hrvatskoj.
+3. Kada belgijsko zakonodavstvo uvjetuje pravo na neka davanja činjenicom da su razdoblja osiguranja navršena u određenom zvanju i kada ta razdoblja nisu dovela do priznanja prava na takva davanja, navedena razdoblja smatraju se pravovaljanim za priznanje prava na davanja iz općeg sustava osiguranja radnika.

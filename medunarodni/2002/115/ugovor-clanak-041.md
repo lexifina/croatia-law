@@ -1,0 +1,5 @@
+# Članak 41.
+ZAHTJEVI, IZJAVE I ŽALBE
+1. Zahtjevi, izjave ili žalbe koje treba podnijeti u smislu zakonodavstva jedne države ugovornice, u određenom roku, nekom tijelu, nositelju ili sudskoj vlasti te države ugovornice, smatraju se podnijetim u istom roku, ako su podnijeti nadležnom tijelu, nositelju ili sudu druge države ugovornice. U tom slučaju, to tijelo, nositelj ili sud bez odlaganja te zahtjeve, izjave ili žalbe dostavlja tijelu, nositelju ili sudu prve države ugovornice bilo izravno, bilo putem nadležnih tijela država ugovornica. Datum kada su ti zahtjevi, izjave ili žalbe podnijeti tijelu, nositelju ili sudu druge države ugovornice smatra se datumom podnošenja zahtjeva nadležnom tijelu, nositelju ili sudu.
+2. Zahtjev za davanje podnijet nadležnom nositelju jedne države ugovornice, vrijedi istodobno i kao zahtjev podnijet za odgovarajuće davanje nadležnom nositelju druge države ugovornice.
+3. Zahtjev ili dokument ne smije se odbiti zbog toga jer je napisan na službenom jeziku druge države ugovornice.

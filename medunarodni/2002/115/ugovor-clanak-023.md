@@ -1,0 +1,3 @@
+# Članak 23.
+1. Ako je žrtva profesionalne bolesti bila zaposlena prema zakonodavstvu obiju država ugovornica na poslovima koji su mogli uzrokovati tu bolest, davanja koja će žrtva ili nadživjeli članovi obitelji ostvariti priznaju se isključivo prema zakonodavstvu države ugovornice na čijem je teritoriju bilo posljednje zaposlenje i pod uvjetom da zainteresirani ispunjava uvjete predviđene tim zakonodavstvom, uzimajući u obzir, ako je to potrebno, odredbu stavka 2.
+2. Ako je priznanje prava na davanje zbog profesionalne bolesti prema zakonodavstvu jedne države ugovornice uvjetovano činjenicom da je bolest medicinski utvrđena prvi put na njenom teritoriju, smatra se da je ovaj uvjet ispunjen ako je bolest utvrđena prvi put na teritoriju druge države ugovornice.

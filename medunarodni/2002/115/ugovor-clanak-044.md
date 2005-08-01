@@ -1,0 +1,6 @@
+# Članak 44.
+POTRAŽIVANJE PREPLAĆENIH SVOTA DAVANJA
+1. Ako je prilikom priznanja ili revizije prava na davanja u smislu ovog Ugovora, nositelj jedne države ugovornice isplatio korisniku veću svotu davanja od one koja korisniku pripada, taj nositelj može od nadležnog nositelja druge države ugovornice zatražiti zadržavanje više isplaćene svote od zaostataka koje taj nositelj treba isplatiti korisniku. Način primjene ove odredbe bit će sporazumno dogovoren između nadležnih belgijskih i hrvatskih tijela. Ako se veća svota koja je isplaćena ne može nadoknaditi iz zaostataka, primijenit će se odredba stavka 2.
+2. Ako je nositelj jedne države ugovornice isplatio korisniku svotu na koju on nije imao pravo, taj nositelj može, pod uvjetima i ograničenjima predviđenim zakonodavstvom koje on primjenjuje, zatražiti od nositelja druge države ugovornice da zadrži tu svotu od svota davanja koje on isplaćuje korisniku. Ovaj posljednji nositelj zadržava isplaćenu svotu pod uvjetima po kojima je takva kompenzacija dozvoljena zakonodavstvom koje on primjenjuje, kao da se radi o svotama davanja koje je sam isplatio i tako zadržanu svotu transferira nositelju vjerovniku.
+Odjeljak V.
+PRIJELAZNE I ZAKLJUČNE ODREDBE

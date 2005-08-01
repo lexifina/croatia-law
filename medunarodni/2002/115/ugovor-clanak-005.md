@@ -1,0 +1,5 @@
+# Članak 5.
+IZVOZ DAVANJA
+1. Osim ako ovim Ugovorom nije drugačije određeno, davanja za invalidnost, zbog nesreće na poslu i profesionalne bolesti kao i ona koja se odnose na starosne i obiteljske mirovine, stečene prema zakonodavstvu jedne od država ugovornica ne mogu se obustaviti, smanjivati ili mijenjati zbog toga što korisnik boravi ili prebiva na teritoriju druge države ugovornice.
+2. Davanja koja se odnose na starosne i obiteljske mirovine, kao i davanja zbog nesreće na poslu i profesionalne bolesti stečena prema belgijskom zakonodavstvu, isplaćivat će se hrvatskim državljanima na teritoriju treće države pod istim uvjetima kao da se radi o belgijskim državljanima koji prebivaju na teritoriju treće države.
+3. Davanja za invalidnost, zbog nesreće na poslu i profesionalne bolesti kao i ona koja se odnose na starosne i obiteljske mirovine stečene prema hrvatskom zakonodavstvu isplaćivat će se belgijskim državljanima koji prebivaju na teritoriju treće države pod istim uvjetima kao da se radi o hrvatskim državljanima koji prebivaju na teritoriju te treće države.

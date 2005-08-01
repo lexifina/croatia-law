@@ -1,0 +1,6 @@
+# Članak 46.
+REVIZIJA, ZASTARA, GUBITAK PRAVA
+1. Davanje koje nije isplaćeno ili koje je obustavljeno zbog državljanstva zainteresirane osobe ili zbog prebivališta na području države ugovornice različite od one u kojoj se nalazi nositelj dužnik, bit će isplaćeno ili ponovno stavljeno u tečaj stupanjem na snagu ovog Ugovora, a na zahtjev zainteresirane osobe.
+2. Prava koja su priznata prije stupanja na snagu ovog Ugovora, pravo na mirovinu ili rentu, revidirat će se, na zahtjev zainteresirane osobe, u skladu s odredbama ovog Ugovora. Ni u kom slučaju revizija ne smije dovesti do smanjenja dosadašnjih prava korisnika.
+3. Ako je zahtjev iz stavka 1. ili 2. ovog članka podnijet u roku od dvije godine od dana stupanja na snagu ovog Ugovora, prava se priznaju od tog datuma, s tim da se odredbe zakonodavstva jedne ili druge države ugovornice o zastari ili gubitku prava ne mogu primjenjivati na zainteresirane osobe.
+4. Ako je zahtjev iz stavka 1. ili 2. ovoga članka podnijet nakon isteka roka od dvije godine nakon stupanja na snagu ovog Ugovora, prava kod kojih nije došlo do zastare priznaju se od dana podnošenja zahtjeva, uz rezervu povoljnijih odredaba zakonodavstva države ugovornice o kojoj se radi.

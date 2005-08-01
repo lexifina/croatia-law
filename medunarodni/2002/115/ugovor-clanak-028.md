@@ -1,0 +1,3 @@
+# Članak 28.
+1. Ako pravo na belgijsko invalidsko davanje postoji samo uz zbrajanje razdoblja osiguranja navršenih u Hrvatskoj i u Belgiji u smislu članka 27., visina se davanja utvrđuje u skladu s člankom 26. stavkom 2.
+2. Kada pravo na belgijsko invalidsko davanje postoji bez da je nužno primijeniti odredbu članka 27. i ako je ukupan zbroj hrvatskog i belgijskog davanja obračunat u smislu stavka 1. ovoga članka, manji od visine davanja obračunatog na temelju samo belgijskog zakonodavstva, nadležni belgijski nositelj priznaje pravo na dodatak u visini razlike između navedenih dviju svota davanja i visine koja pripada samo u smislu belgijskih pravnih propisa.

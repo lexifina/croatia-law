@@ -1,0 +1,3 @@
+# Članak 16.
+1. Korisnik invalidskih naknada, mirovina ili renta, koje su priznate prema zakonodavstvu obiju država ugovornica, koristi za sebe i za članove svoje obitelji davanja u naravi u skladu sa zakonodavstvom države na čijem teritoriju prebiva, i na teret nadležnog nositelja te države.
+2. Korisnik invalidske naknade, mirovine ili rente, koja je priznata isključivo na temelju zakonodavstva jedne od država ugovornica, koji prebiva na teritoriju druge države ugovornice, koristi za sebe i za članove svoje obitelji davanja u naravi. Davanja u naravi pruža, na teret nadležnog nositelja, nositelj mjesta prebivališta prema propisima koje on primjenjuje.
