@@ -1,0 +1,10 @@
+# Članak 34.
+(1) Zapovjednik broda kojim se obavlja međunarodni pomorski prijevoz mora najaviti dolazak u luku faksom, elektronskom poštom odnosno putem agenta kapetaniji i tijelu koje upravlja lukom uz slijedeće podatke:
+- podaci o brodu: ime broda, država zastave, luka upisa, pozivni znak, IMO broj, MMSI broj, bruto tonaža, nosivost broda, neto tonaža, dužina preko svega, širina, godina gradnje, gaz dolaska, gaz odlaska, luka i država iz koje dolazi, procijenjeno vrijeme dolaska, luka i država odredišta, procijenjeno vrijeme odlaska,
+- podaci o teretu: ukrcaj/iskrcaj tereta, vrsta tereta, vrsta i klasa opasnog tereta
+- podaci o posadi i putnicima: popis posade i putnika na IMO propisanim obrascima, podaci o ukrcanim/iskrcanim članovima posade i putnika, ukupan broj osoba na brodu.
+- podaci o sigurnosti broda: pozicija broda u trenutku slanja podataka, Medunarodna svjedodžba o sigurnosnoj zaštiti broda (ISSC svjedodžba), s datumom valjanosti i tijelom koje je istu izdalo, ime i prezime časnika odgovornog za sigurnosnu zaštitu broda (SSO), ime i prezime osobe odgovorne osobe za sigurnosnu zaštitu u društvu (CSO), stupanj sigurnosti broda, posljednjih 10 luka u koje je brod uplovio, podaci o agentu broda.
+- mjesto i datum najave, ime i prezime osobe koja je sastavila podatke u najavi, potpis službene osobe
+(2) Najava dolaska broda iz stavka 1. ovog članka dostavlja se barem 24 sata prije uplovljenja broda u luku ili najkasnije po isplovljenju iz prethodne luke ako je trajanje putovanja kraće od 24 sata ili ako luka odredišta nije poznata u trenutku isplovljenja iz prethodne luke je promijenjena za vrijeme putovanja, odmah po saznanju tih podataka.
+(3) lznimno, brodovi koji obavljaju međunarodni putnički linijski pomorski promet ne moraju najaviti svoj dolazak u luku kada plove između hrvatskih luka.
+(4) Brodovi koji uplovljavaju u luke s opasnim teretom na brodu moraju tijelu koje upravlja lukom dostaviti Deklaraciju o opasnim i onečišćujućim tvarima sukladno propisima o prijevozu opasnih tvari u pomorskom prometu.

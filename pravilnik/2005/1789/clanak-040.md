@@ -1,0 +1,8 @@
+# Članak 40.
+(1) Zapovjednik broda koji dolazi iz inozemstva mora pored prijave o dolasku u luku kapetaniji predati i opću izjavu, izvadak popisa posade i popis putnika a brodovi hrvatske državne pripadnosti i knjigu popisa posade.
+(2) Zapovjednik broda mora u slučaju iz stavka 1. ovog članka dati tijelu nadležnom za poslove zdravstva međunarodnu izjavu o zdravstvenom stanju osoba na brodu.
+(3) Opća izjava sadrži: ime i vrstu broda, zastavu, podatke o registraciji broda, tonažu, ime i prezime zapovjednika broda, ime/naziv agenta, kratak opis tereta, broj članova posade, broj putnika, kratak opis putovanja, dan i sat dolaska odnosno odlaska iz luke, luka dolaska/odlaska, mjesto broda u iuci.
+(4) Popis posade sadrži: ime i zastavu broda, ime i prezime člana posade, državljanstvo, datum i mjesto rođenja, zvanje i dužnost, broj i mjesto izdanja pomorske knjižice, luka i datum dolaska broda.
+(5) Popis putnika sadrži: ime i zastavu broda, ime i prezime putnika, državljanstvo, datum i mjesto rođenja, luku ukrcaja, luku iskrcaja, datum i luka dolaska broda.
+(6) Opća izjava, popisa posade i popisa putnika moraju osobito u pogledu sadržaja, potpisnika i tehničkih pojedinosti biti onakvi kako su propisani Konvencijom o olakšicama u međunarodnom pomorskom prometu iz 1965. godine (IMO FAL Convention 1965).
+(7) Zapovjednik stranog broda koji uplovljava iz domaće luke mora pored prijave o dolasku broda u luku kapetaniji predati opću izjavu, izvadak popisa posade i popis putnika samo za one osobe koje se iskrcavaju i ukrcavaju u toj luci, a zapovjednik broda hrvatske državne pripadnosti samo prijavu o dolasku broda u luku.

@@ -1,0 +1,5 @@
+# Članak 23.
+(1) Nasukani, neupotrebljivi potonuli pomorski objekt odnosno potonula stvar smije se nalaziti u luci samo na osnovi odobrenja tijela koje upravlja lukom i uz suglasnost kapetanije.
+(2) Ako pomorski objekt odnosno potonula stvar iz stavka 1. ovog članka ugrožava sigurnost plovidbe ili postoji opasnost onečišćenja mora, brodar odnosno vlasnik pomorskog objekta ili potonule stvari dužni su, na zahtjev kapetanije, premjestiti pomorski objekt odnosno potonulu stvar iz luke na mjesto koje odredi tijelo koje upravlja lukom.
+(3) Ako brodar odnosno vlasnik pomorskog objekta ili potonule stvari ne postupi prema zahtjevu kapetanije iz stavka 2. ovog članka kapetanija će narediti tijelu koje upravlja lukom da pomorski objekt odnosno potonulu stvar.premjesti iz luke na mjesto koje odredi tijelo koje upravlja lukom uz prethodnu suglasnost kapetanije, a na teret i rizik brodara, vlasnika pomorskog objekta, odnosno potonule stvari.
+(4) Plovni objekt u raspremi može se držati u luci samo na osnovi odobrenja tijela koje upravlja lukom, uz prethodnu suglasnost kapetanije.

@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Tijelo koje upravlja lukom, uz prethodnu obavijest kapetaniji, određuje plovnom objektu mjesto za privez uz operativnu obalu, odnosno mjesto na lučkom sidrištu.
+(2) Kapetanija može plovnom objektu iz razloga sigurnosti plovidbe, sigurnosti i zaštite ljudskih života i okoliša, lučkih i drugih objekata uz prethodnu, a iznimno i uz naknadnu obavijest tijela koje upravlja lukom, narediti da se već privezani i usidreni plovni objekt premjesti na drugi vez ili da se pomakne s dodijeljenog mu mjesta, te da se djelomično ili potpuno nakrcani plovni objekt ukloni s operativne obale na određenu poziciju
