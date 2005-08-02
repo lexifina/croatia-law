@@ -1,0 +1,5 @@
+# Članak 2.
+Članak 40. mijenja se i glasi:
+»Osigurana osoba u ostvarivanju prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja ima pravo na naknadu troškova prijevoza ako je radi korištenja zdravstvene zaštite upućena izvan mjesta prebivališta, odnosno boravka.
+Osigurana osoba iz stavka 1. ovoga članka ima pravo na naknadu troškova prijevoza ako je zdravstvenu zaštitu koristila u ugovornoj zdravstvenoj ustanovi, odnosno ordinaciji ugovornog doktora privatne prakse koja je udaljena više od 100 kilometara od mjesta njezina prebivališta, odnosno boravka jer potrebnu zdravstvenu zaštitu nije mogla ostvariti u bližoj ugovornoj zdravstvenoj ustanovi, odnosno ordinaciji ugovornog doktora privatne prakse s ugovorenom djelatnošću za tu vrstu zdravstvene zaštite.
+Pravo na naknadu troškova prijevoza ima i osigurana osoba upućena na liječenje u inozemstvo sukladno općem aktu Zavoda, osigurana osoba darivatelj organa, tkiva stanica te osigurana osoba koja hemodijalizu koristi kao kronični bubrežni bolesnik.«
