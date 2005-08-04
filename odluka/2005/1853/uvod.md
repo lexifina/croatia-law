@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokane i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 73/00 i 59/01) i članka 19. Statuta Općine Rakovica, Općinsko vijeće Općine Rakovica na 2. sjednici održanoj 28. lipnja 2005. godine, donijelo je
