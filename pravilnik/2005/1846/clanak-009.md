@@ -1,0 +1,3 @@
+# Članak 9.
+Izabrani liječnik opće/obiteljske medicine i liječnik druge specijalnosti obvezan je obavijestiti nadležnu policijsku upravu o tome da je kod određene osobe promijenjeno zdravstveno stanje tako da bitno utječe na sigurno upravljanje vozilom.
+U slučaju iz stavka 1. ovoga članka policijska uprava upućuje vozača na izvanredni zdravstveni pregled. Nova vozačka dozvola izdaje se s rokom važenja navedenom u uvjerenju o zdravstvenoj sposobnosti; u slučaju privremene nesposobnosti uskraćuje se za vrijeme trajanja privremene nesposobnosti, dok se kod trajne nesposobnosti izdavanje dozvole uskraćuje trajno.

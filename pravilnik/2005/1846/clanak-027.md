@@ -1,0 +1,2 @@
+# Članak 27.
+Opseg izvanrednog nadzornog zdravstvenog pregleda iz članka 231. stavka 3. Zakona o sigurnosti prometa ma cestama utvrđuje doktor medicine specijalist medicine rada ovisno o razlogu upućivanja na izvanredni nadzorni zdravstveni pregled u zdravstvenoj ustanovi, trgovačkom društvu i specijalističkoj ordinaciji medicine rada sukladno članku 231. stavku 7. Zakona o sigurnosti prometa na cestama.
