@@ -1,0 +1,2 @@
+# Članak 13.
+Vlada Republike Hrvatske će u roku od 30 dana od dana stupanja na snagu ove Uredbe, na prijedlog ministra znanosti, obrazovanja i športa, imenovati privremenog ravnatelja Centra koji će obaviti poslove u vezi s upisom Centra u sudski registar i organizirati početak rada Centra. Mandat privremenog ravnatelja Centra traje do imenovanja ravnatelja Centra, ne dulje od šest mjeseci od stupanja na snagu ove Uredbe.
