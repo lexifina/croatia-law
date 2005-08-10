@@ -1,0 +1,2 @@
+# Članak 2.
+GVE oksida sumpora izraženih kao SO2 kod uređaja za loženje, plinskih turbina i motora s unutarnjim izgaranjem koji postoje ili su u izgradnji na dan stupanja na snagu ove Uredbe, a koji koriste uobičajena i posebna tekuća goriva propisani Uredbom o graničnim vrijednostima onečišćujućih tvari u zrak iz stacionarnih izvora (»Narodne novine«, broj 140/98, 105/02, 108/03 i 100/04), primjenjuje se od 1. siječnja 2010. godine.

@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 1., a u vezi s člankom 97. stavkom 2. Zakona o zaštiti zraka (»Narodne novine«, broj 178/04), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2005. godine donijela
