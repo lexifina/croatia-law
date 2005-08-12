@@ -1,0 +1,3 @@
+# Članak 16.
+1) Proizvođači, trgovci i posrednici koji stavljaju proizvode i sirovine na tržište moraju voditi evidenciju o reklamacijama i povlačenju proizvoda.
+2) Proizvođači i posrednici koji stavljaju proizvode i sirovine na tržište moraju imati pisani program za primanje i rješavanje pritužbi te sustav za povlačenje proizvoda iz distribucijske mreže. Ukoliko je povod za povlačenje proizvoda zdravstvena neispravnost ili prisutnost nedozvoljenih tvari u proizvodu, proizvođač mora izvijestiti nadležnu veterinarsku inspekciju, koja će odrediti mjere. Prije ponovnog stavljanja proizvoda na tržište povučeni proizvod treba biti ponovo kvalitativno i higijenski zdravstveno ispitan. O provedenim postupcima, mjerama i kontrolama treba voditi evidenciju.

@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 4. Zakona o veterinarstvu (»Narodne novine«, broj 70/97, 105/01 i 172/03), te članka 79. stavka 2. Zakona o hrani (»Narodne novine«, broj 117/03, 130/03 i 48/03), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
