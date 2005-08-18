@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom utvrđuju se poslovi koje je Financijska agencija (u daljnjem tekstu: Agencija) ovlaštena pružati poduzetnicima i drugim pravnim i fizičkim osobama prema odredbama članka 4.a Zakona o Financijskoj agenciji, te administrativno tehnički poslovi, u vezi s osiguravanjem elektroničkog povezivanja tijela državne uprave, drugih državnih tijela, tijela jedinica lokalne i područne (regionalne) samouprave i pravnih osoba s javnim ovlastima, prema članku 4.c Zakona o Financijskoj agenciji.

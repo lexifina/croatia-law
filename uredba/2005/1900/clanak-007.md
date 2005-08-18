@@ -1,0 +1,2 @@
+# Članak 7.
+Agencija je ovlaštena obavljati administrativno-tehničke poslove povezivanja tijela državne uprave, drugih državnih tijela, tijela jedinica lokalne i područne (regionalne) samouprave i pravnih osoba s javnim ovlastima (u daljnjem tekstu: korisnici mreže) u zajedničku računalno komunikacijsku mrežu, obavljati poslove izgradnje, nadzora, upravljanja i održavanja te mreže, te poduzeti sve radnje za cjelovitu komunikaciju između korisnika mreže. Agencija će za tu svrhu instalirati mrežnotehničku opremu kod korisnika mreže i osigurati mrežnu infrastrukturu.

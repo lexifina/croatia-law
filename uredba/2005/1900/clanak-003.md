@@ -1,0 +1,2 @@
+# Članak 3.
+Agencija je ovlaštena, za potrebe poduzetnika i drugih pravnih osoba pribavljati podatke, isprave, odobrenja i druge akte elektroničkim putem od nadležnih državnih tijela, tijela jedinica lokalne i područne (regionalne) samouprave i pravnih osoba s javnim ovlastima, kada su im te usluge potrebne radi obavljanja poslova iz članka 2. ove Uredbe, te dostavljati te podatke, isprave, odobrenja i druge akte tijelima nadležnim za odlučivanje o zahtjevima i drugim podnescima podnositelja i od njih ih preuzimati.
