@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine«, broj 28/96) i članka 29. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2005. godine donijela
