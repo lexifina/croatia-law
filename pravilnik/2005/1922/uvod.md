@@ -1,0 +1,1 @@
+Na temelju članka 146. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 102/98., 127/00., 59/01., 109/01., 147/02., 117/03., 30/04. i 177/04.) i članka 19. točke 1. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, br. 163/98. i 86/03.), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 26. srpnja 2005. donosi
