@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Okvirni sporazum između Republike Hrvatske i Europske zajednice o općim načelima sudjelovanja Republike Hrvatske u programima Zajednice, potpisan u Bruxellesu 22. studenoga 2004., u izvorniku na češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, latvijskom, litavskom, mađarskom, nizozemskom, njemačkom, poljskom, portugalskom, slovačkom, slovenskom, španjolskom, švedskom, talijanskom i hrvatskom jeziku.
