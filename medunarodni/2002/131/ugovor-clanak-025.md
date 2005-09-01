@@ -1,0 +1,3 @@
+# Članak 25.
+1. Ovaj Ugovor stupit će na snagu prvog dana drugog mjeseca od datuma primitka druge od dviju obavijesti, kojima će ugovorne stranke službeno obavijestiti jedna drugu o ispunjenju uvjeta predviđenih njihovim unutarnjim zakonodavstvom za stupanje ovog Ugovora na snagu.
+2. Stupanjem na snagu ovog Ugovora, Ugovor o međusobnoj administrativnoj pomoći u prevenciji i suzbijanju carinskih prijevara između Socijalističke Federativne Republike Jugoslavije i Talijanske Republike, potpisan u Beogradu, 10. studenog 1965. godine, bit će stavljen izvan snage u odnosima između dviju ugovornih stranaka.

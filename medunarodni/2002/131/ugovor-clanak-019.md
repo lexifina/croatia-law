@@ -1,0 +1,6 @@
+# Članak 19.
+1. Podaci, priopćenja i dokumenti primljeni u kontekstu administrativne pomoći mogu biti korišteni u građanskim, kaznenim i upravnim postupcima, u uvjetima utvrđenim važećim odnosnim zakonodavstvom, samo u svrhe iz ovog Ugovora.
+2. Takvi podaci, priopćenja i dokumenti mogu biti priopćeni drugim državnim tijelima, osim onih predviđenih ovim Ugovorom, samo ako carinska služba koja ih je dostavila to izričito odobri i dozvoli, pod uvjetom da unutarnji zakoni carinske službe primateljice ne zabranjuju takvo priopćavanje.
+3. Odredbe stavka 2 ovog članka nisu primjenjive na podatke koje se odnose na prekršaje povezane s opojnim drogama i psihotropnim travama. Takvi podaci mogu biti priopćeni drugim tijelima izravno uključenim u borbu protiv nedozvoljenog prometa droga.
+4. Međutim, sukladno obavezama koje potječu iz članstva Talijanske Republike u Europskoj Uniji, odredbe navedene u stavku 2 ne zabranjuju da se primljeni podaci, priopćenja i dokumenti mogu, kada je potrebno, prenijeti Europskoj Komisiji i drugim državama članicama prije spomenute Unije.
+5. Podaci, priopćenja i dokumenti dostupni carinskoj službi ugovorne stranke tražiteljice uživaju, prema ovom Ugovoru, jednaku zaštitu kao ona što je odobrena unutarnjim zakonima prije spomenute ugovorne stranke za dokumente i informacije istovjetne prirode.
