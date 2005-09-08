@@ -1,0 +1,1 @@
+Na temelju članka 8. stavak 2. Zakona o prijevozu u cestovnom prometu (»Narodne novine« br. 178/2004.) ministar mora, turizma, prometa i razvitka uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva donosi
