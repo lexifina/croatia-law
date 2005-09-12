@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom utvrđuju se: postupci izvršavanja poslova tehničkog održavanja unutarnjih plovnih putova i objekata sigurnosti plovidbe (u daljnjem tekstu: tehničko održavanje), poslovi osposobljavanja postojećih plovnih putova i objekata sigurnosti plovidbe koji su onesposobljeni za plovidbu zbog elementarnih nepogoda i drugih iznimnih događanja (u daljnjem tekstu osposobljavanje), posebni uvjeti glede tehničke opremljenosti i kadrovske osposobljenosti zaposlenika, koje moraju ispunjavati pravne ili fizičke osobe koje mogu obavljati pojedine poslove tehničkog održavanja, te poslovi, uvjeti i oprema za nadziranje, kontrolu i praćenje stanja plovnih putova.

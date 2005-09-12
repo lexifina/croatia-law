@@ -1,0 +1,3 @@
+# Članak 26.
+Agencija je dužna do 15. rujna tekuće godine predložiti usuglašene Godišnje programe u smislu članka 4. ovog Pravilnika za sljedeću godinu, i dostaviti ih Ministru radi donošenja. Agencija mora svoj godišnji plan rada i godišnji financijski plan uskladiti s Godišnjim programom uređenja i tehničkog održavanja i izvorima financiranja za njegovo ostvarenje.
+Agencija, kao ovlašteno tijelo za održavanje plovnih putova, može sačiniti ugovor o sufinanciranju dijela troškova održavanja plovnih putova s »Hrvatskim vodama« sukladno članku 13. Zakona o vodama. Odluku o sklapanju ugovora donosi Upravno vijeće Agencije. Sastavni dio ugovora čini popis objekata čije održavanje se zajednički financira s naznakom udjela sudionika u financiranju.

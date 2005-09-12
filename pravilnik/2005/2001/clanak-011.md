@@ -1,0 +1,3 @@
+# Članak 11.
+Snimanja pojasa korita vodotoka obavlja se u svrhu utvrđivanja cjelokupnog stanja korita u cilju izrade i ažuriranja idejnih projekata. Obuhvaća detaljno podvodno snimanje korita i snimanje obalnih pojasa geodetskim postupcima, a obavlja se na dionicama plovnih putova koje predstavljaju tehničke cjeline u vremenskim intervalima od 10 godina. Na kraćim dionicama na kojima nastanu veće promjene položaja korita, snimanje se može obaviti po potrebi i češće.
+Snimanja objekta sigurnosti plovidbe za poboljšanje uvjeta plovidbe obavljaju se radi detaljnog utvrđivanja stanja pojedinih objekata u cilju izrade projekata održavanja, adaptacije ili rekonstrukcije istih.

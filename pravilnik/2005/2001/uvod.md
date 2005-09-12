@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 5., članka 14. stavka 2., članka 19c. stavka 3. i članka 16. stavak 3. Zakona o plovidbi unutarnjim vodama (»Narodne novine« broj 19/98 i 151/03), ministar mora, turizma, prometa i razvitka, uz prethodnu suglasnost Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva i Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, donosi

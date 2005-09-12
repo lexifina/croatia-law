@@ -1,0 +1,5 @@
+# Članak 7.
+Godišnji program obilježavanja obuhvaća poslove sukladno članku 11. stavak 2. točka 5. i 8. i članka 16. Zakona, a sadrži: podatke o stanju sustava obilježavanja plovnih putova, komunikacijskog i riječnog informacijskog sustava i službe ophodnje, prijedlog mjera redovnog održavanja pojedinih sustava, dopune objekata sigurnosti u cilju održavanja potrebnog stanja sigurnosti plovidbe, tabelarni pregled planiranih radova i aktivnosti po dionicama plovnih putova i objektima po pozicijama radova sa iskazanim potrebnim financijskim sredstvima, tehničko obrazloženje pojedinih radova po pozicijama i dinamiku planiranog izvršenja radova.
+Planirani radovi iskazuju se i u obliku specifikacija po pojedinim grupama s navedenim opisom i količinom radova po pozicijama i čine prilog Godišnjeg programa.
+Programom se planiraju i financijska sredstva u svrhu postavljanja oznaka na postojeće ili nove lokacije u skladu s nalozima inspektora nadležnog za sigurnost unutarnje plovidbe.
+2. Snimanje plovnih putova s izradom tehničke dokumentacije
