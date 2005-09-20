@@ -1,0 +1,12 @@
+## Obveze operatora i davatelja usluga
+# Članak 3.
+(1) Operatori i davatelji usluga moraju omogućiti korisnicima javnih telekomunikacijskih usluga besplatne pozive na broj 112, kao i na postojeće telefonske brojeve za hitne službe, što obuhvaća i besplatno preusmjeravanje tih poziva na druge telefonske brojeve koje upotrebljavaju hitne službe.
+(2) Besplatni pozivi iz stavka 1. ovoga članka moraju biti omogućeni 24 sata svakoga dana u tjednu, i to s bilo kojega telefonskog uređaja, uključujući i sve javne telefonske govornice.
+(3) Popis telefonskih brojeva iz stavka 1. ovoga članka, koje upotrebljavaju hitne službe, sastavni je dio standardnih operativnih postupaka, koje propisuje čelnik tijela državne uprave nadležnog za zaštitu i spašavanje u skladu s odredbama Zakona o zaštiti i spašavanju.
+(4) Operatori i davatelji usluga moraju Centru 112 bez naknade dostavljati sve raspoložive podatke o ostvarenom telekomunikacijskom prometu prema broju 112, uključujući osobito, kad je to tehnički ostvarivo, podatke o imenu i prezimenu ili nazivu pozivatelja, pozivajućem telefonskom broju, vremenu i trajanju poziva te lokaciji s koje je upućen poziv.
+(5) Podaci iz stavka 4. ovoga članka dostavljaju se Centru 112 na način, u obliku i u rokovima utvrđenima standardnim operativnim postupcima iz stavka 3. ovoga članka. Centar 112 mora postupati s podacima iz stavka 4. ovoga članka u skladu s posebnim propisima o zaštiti osobnih podataka.
+(6) Podaci o pozivajućem telefonskom broju iz stavka 4. ovoga članka dostavljaju se Centru 112 i u slučaju kad je telefonski broj prikriven.
+(7) Operatori i davatelji usluga odgovorni su za pravilno postupanje s pozivima upućenima na broj 112 u okviru tehničkih mogućnosti svojih telekomunikacijskih sustava, u skladu s kojima moraju osigurati da telekomunikacijski promet, ostvaren preusmjeravanjem poziva iz stavka 1. ovoga članka, dodatno ne opterećuje komunikacije Centra 112.
+(8) Operatori moraju osigurati mogućnost prijave smetnji i kvarova na pristupnom vodu do Centra 112 tijekom 24 sata svakoga dana u tjednu.
+(9) Operatori moraju, u slučaju utvrđivanja smetnje ili kvara iz stavka 8. ovoga članka, osigurati preusmjeravanje poziva na broj 112 putem odgovarajućih zamjenskih telekomunikacijskih vodova.
+(10) Utvrđivanje i uklanjanje smetnji i kvarova iz stavka 8. ovoga članka ima prednost u odnosu na utvrđivanje i uklanjanje svih drugih vrsta smetnji i kvarova u telekomunikacijskoj mreži operatora.
