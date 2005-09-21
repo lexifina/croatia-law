@@ -1,0 +1,1 @@
+Na temelju članaka 59. b i 59. c Zakona o izboru članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 33/2001, 10/2002, 155/2002, 45/2003, 43/2004, 40/2005 i 44/2005 - pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 15. rujna 2005. godine donijela
