@@ -1,0 +1,1 @@
+Odluka o raspisivanju izbora za Gradsko vijeće Grada Visa, Općinsko vijeće Općine Stari Mikanovci, Općinsko vijeće Općine Stara Gradiška, Općinsko vijeće Općine Dvor, Općinsko vijeće Općine Petlovac i
