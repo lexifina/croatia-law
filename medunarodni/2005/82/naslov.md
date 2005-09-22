@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Okvirnog ugovora o zajmu broj F/P 1511 (2005) za projekt "Istraživanje, obnova i revitalizacija kulturne baštine Ilok-Vukovar-Vučedol" između Republike Hrvatske i Razvojne banke V
