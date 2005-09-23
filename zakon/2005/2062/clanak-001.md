@@ -1,0 +1,6 @@
+# Članak 1.
+U Zakonu o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj (»Narodne novine«, br. 33/96., 96/01. i 13/02), u članku 2. stavku 1. iza riječi: »nezavisnost,« riječ: »te« briše se, a na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »25. rujna - Dan donošenja Odluke o sjedinjenju Istre, Rijeke, Zadra i otoka s maticom zemljom Hrvatskom, 9. siječnja - Dan donošenja Rezolucije o odcjepljenju Međimurja od mađarske države i 15. siječnja - Dan međunarodnog priznanja Republike Hrvatske.«.
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+»Dan donošenja Odluke o sjedinjenju Istre, Rijeke, Zadra i otoka s maticom zemljom Hrvatskom, kao dan spomena značajan za očuvanje jedinstvenosti hrvatskog teritorija, obilježava se primjereno i dostojanstveno.
+Dan donošenja Rezolucije o odcjepljenju Međimurja od mađarske države, kao dan spomena značajan za očuvanje jedinstvenosti hrvatskog teritorija, obilježava se primjereno i dostojanstveno.
+Dan međunarodnog priznanja Republike Hrvatske, s obzirom na njegovu ulogu u potvrdi državnosti i ostvarivanju pune afirmacije hrvatske države u okviru međunarodne zajednice, obilježava se primjereno i dostojanstveno.«
