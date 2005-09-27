@@ -1,0 +1,47 @@
+Tablica br. 1
+Broj stanovnika
+Broj
+istovremenih požara
+Najmanja količina vode u l/s po jednom požaru, bez obzira na otpornost objekata prema požaru
+do 5000
+1
+10
+5001-10000
+1
+15
+10001-25000
+2
+20
+25001-50000
+2
+25
+50001-100000
+2
+35
+100001-200000
+3
+40
+200001-300000
+3
+45
+300001-400000
+3
+50
+400001-500000
+3
+55
+500001-600000
+3
+60
+600001-700000
+3
+65
+700001-800000
+3
+70
+800001-1000000
+3
+80
+Iznad 1000000
+4
+90
