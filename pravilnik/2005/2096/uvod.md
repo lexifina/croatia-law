@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 3., a u svezi članka 37. stavak 2. i članka 38. stavak 2. Zakona o otpadu (»Narodne novine« broj 178/04), ministrica zaštite okoliša, prostornog uređenja i graditeljstva, uz suglasnost ministra gospodarstva, rada i poduzetništva, donosi
