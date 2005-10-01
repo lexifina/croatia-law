@@ -1,0 +1,13 @@
+# Članak 3.
+Područje primjene
+1. Stranke se obvezuju da će ovu Konvenciju primjenjivati na automatizirane zbirke podataka i automatiziranu obradu osobnih podataka u javnom i u privatnom sektoru.
+2. Svaka država može, pri potpisivanju ili pri polaganju svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, ili kasnije u svako doba, izjavom upućenom glavnom tajniku Vijeća Europe priopćiti:
+a. da ovu Konvenciju neće primjenjivati na određene kategorije automatiziranih zbirki osobnih podataka, popis kojih će položiti. U taj popis ne smije, međutim, uključiti kategorije automatiziranih zbirki podataka koje su prema njezinu unutarnjem pravu predmet odredaba o zaštiti podataka. Slijedom toga, taj će popis izmijeniti i dopuniti novom izjavom kad god dodatne kategorije automatiziranih zbirki osobnih podataka postanu predmetom odredaba o zaštiti podataka prema njezinu unutarnjem pravu,
+b. da će ovu Konvenciju također primjenjivati na obavijesti koje se odnose na skupine osoba, udruge, zaklade, društva, korporacije i sva ostala tijela koja izravno ili neizravno čine fizičke osobe, bez obzira na to imaju li ili nemaju takva tijela pravnu osobnost,
+c. da će ovu Konvenciju također primjenjivati na zbirke osobnih podataka koje nisu predmet automatizirane obrade.
+3. Svaka država koja je nekom od izjava predviđenih točkama b. ili c. gornjega stavka 2. proširila područje primjene ove Konvencije može, spomenutom izjavom, naznačiti da će se takva proširenja primjenjivati samo na određene kategorije zbirki osobnih podataka, popis kojih će položiti.
+4. Svaka stranka koja je izjavom predviđenom točkom a. gornjega stavka 2. isključila određene kategorije automatiziranih zbirki osobnih podataka ne može od stranke koja ih nije isključila zahtijevati primjenu ove Konvencije na takve kategorije.
+5. Isto tako, stranka koja nije napravila jedno ili drugo od proširenja, predviđenih u točkama b. ili c. gornjeg stavka 2., ne može u odnosu na stranku koja je napravila takvo proširenje zahtijevati primjenu ove Konvencije u tim pitanjima.
+6. Izjave predviđene u gornjem stavku 2. proizvest će učinak, u odnosu na državu koja ih je dala, u trenutku stupanja Konvencije na snagu ako ih je ta država dala pri potpisivanju ili polaganju svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, ili tri mjeseca nakon što ih primi glavni tajnik Vijeća Europe ako su dane kasnije u bilo koje vrijeme. Te se izjave mogu u cijelosti ili djelomično povući notifikacijom upućenom glavnom tajniku Vijeća Europe. To povlačenje proizvodi učinak tri mjeseca nakon datuma primitka takve notifikacije.
+POGLAVLJE II.
+Temeljna načela za zaštitu podataka

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Konvencija za zaštitu osoba glede automatizirane obrade osobnih podataka, sastavljena u Strasbourgu, 28. siječnja 1981. i Dodatni protokol uz Konvenciju za zaštitu osoba glede automatizirane obrade osobnih podataka u svezi nadzornih tijela i međunarodne razmjene podataka, sastavljen u Strasbourgu 8. studenoga 2001., u izvorniku na engleskom i francuskom jeziku., a koje je Republika Hrvatska potpisala 5. lipnja 2003. u Strasbourgu.
