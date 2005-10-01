@@ -1,0 +1,6 @@
+# Članak 13.
+(1) Za provedbu ovog Ugovora osniva se Mješovito povjerenstvo koje čine predstavnici nadležnih ministarstava ugovornih stranaka. Sastanak Mješovitog povjerenstva može sazvati svaka ugovorna stranka, a pritom se sastanak mora održati najmanje svake četiri godine. Mješovito povjerenstvo u pravilu zasjeda naizmjence u Republici Hrvatskoj i Republici Austriji. Sastankom predsjeda voditelj izaslanstva ugovorne stranke domaćina.
+(2) Mješovito povjerenstvo izrađuje i sklapa programe za provedbu ovog Ugovora i s tim povezana organizacijska i financijska pitanja.
+(3) Za područja u provedbi ovog Ugovora, koja su u ugovornim strankama pretežito u nadležnosti određenog ministarstva, nadležna ministarstva mogu utvrditi zajedničke programe i izravno surađivati u njihovoj provedbi. Na svakom sastanku Mješovitog povjerenstva obje strane moraju izvijestiti o provedbi aktualnih radnih programa ove vrste i stupnju njihove realizacije.
+(4) Ugovorne će se stranke diplomatskim putem u pisanom obliku međusobno izvješćivati o sastavu izaslanstva svojih predstavnika u Mješovitom povjerenstvu, kao i o naknadnim promjenama.
+(5) Oba izaslanstva Mješovitog povjerenstva sporazumno će utvrđivati zaključke.
