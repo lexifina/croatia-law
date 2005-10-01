@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 18.a stavka 1. Zakona o zdravstvenom osiguranju (»Narodne novine«, br. 94/2001, 88/2002, 149/2002, 117/2003, 30/2004, 177/2004 i 90/2005), Vlada Republike Hrvatske je na sjednici održanoj 15. rujna 2005. godine donijela
