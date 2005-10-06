@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 54. stavka 1. podstavka 1. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 121/2003 i 48/2005), Vlada Republike Hrvatske je na sjednici održanoj 6. listopada 2005. godine donijela
