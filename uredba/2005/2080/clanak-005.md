@@ -1,0 +1,39 @@
+# Članak 5.
+Čimbenik korekcije određuje se na temelju podataka o klasi i stupnju prekrivenosti masnim tkivom, a dobije se postupkom klasiranja toplog trupa na temelju Pravilnika. Čimbenik korekcije određuje se prema sljedećoj tablici:
+Klasa
+Stupanj prekrivenosti masnim tkivom
+1
+2
+3
+4
+5
+E
+1,0750
+1,1000
+1,1250
+1,1000
+1,0750
+U
+1,0125
+1,0375
+1.0625
+1,0375
+1,0125
+R
+0,9500
+0,9750
+1,0000
+0,9750
+0,9500
+O
+0,8875
+0,9125
+0,9375
+0,9125
+0,8875
+P
+0,6500
+0,6750
+0,7000
+0,6750
+0,6500
