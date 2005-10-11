@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Da bi se spriječilo ili svelo na najmanju moguću mjeru svako kašnjenje tijekom prijevoza ili bilo kakve patnje životinja zbog štrajka ili drugih nepredvidljivih okolnosti tijekom prijevoza, moraju biti poduzete mjere kojima će se osigurati provođenje odredbi ovoga Pravilnika.
+(2) Potrebne mjere moraju biti poduzete i u lukama, zračnim lukama, na željezničkim kolodvorima, ranžirnim kolodvorima i na graničnim veterinarskim prijelazima, u svrhu prijevoza životinja bez zastoja, u skladu s odredbama ovoga Pravilnika.
+(3) Ne utječući na odredbe propisa iz područja zdravlja životinja, ni jedna pošiljka životinja neće biti zadržana tijekom prijevoza ukoliko to nije izričito potrebno zbog dobrobiti životinja. Ukoliko bilo koja pošiljka životinja mora biti zadržana tijekom prijevoza dulje od 2 sata, moraju biti poduzete mjere za zaštitu životinja i, ovisno o potrebama, istovar i smještaj životinja.
+(4) Pošiljke živih životinja pri provođenju izvoznih, uvoznih i tranzitnih postupaka imaju prednost pred drugim pošiljkama.
+(5) Zbog učinkovitog provođenja u stavku 4. ovoga članka navedenih postupaka, pošiljka se mora nadležnom graničnom veterinarskom inspektoru najaviti najmanje 24 sata prije dolaska na državnu granicu.
