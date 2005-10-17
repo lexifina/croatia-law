@@ -1,0 +1,10 @@
+I. Poništava se odluka Vijeća, klasa: 612-12/05-02-69, urbroj: 567-01/05-01 od 1. srpnja 2005. kojom je koncesija za obavljanje djelatnosti radija na području Grada Nina (G-NN) dodijeljena trgovačkom društvu »Adria ittm« d.o.o. iz Zadra.
+II. Trgovačko društvo »Adria ittm« d.o.o. nema pravo na naknadu štete.
+III. Ova odluka stupa na snagu danom objave »Narodnim novinama«.
+Obrazloženje
+Vijeće za elektroničke medije na svojoj 40. sjednici održanoj dana 19. travnja 2005. godine donijelo je Odluku o raspisivanju Javnog natječaja broj 01/05 za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije. Javni natječaj objavljen je u »Narodnim novinama« broj 53/05 od 25. travnja 2005. godine i u propisanom roku na javni je natječaj ponudu dostavio ponuditelj »Adria Ittm« d.o.o. Vijeće je razmatranjem zaprimljene ponude utvrdilo da ponuditelj ispunjava uvjete propisane Javnim natječajem te je na 51. sjednici održanoj 27. lipnja 2005. odlučeno da se koncesija za obavljanje djelatnosti radija na području Grada Nina dodjeli ponuditelju Adria Ittm d.o.o.
+Istom su odlukom bili određeni rokovi za podnošenje zahtjeva za obavljanje tehničkog pregleda i za potpisivanje ugovora o koncesiji za obavljanje djelatnosti radija. Hrvatska agencija za telekomunikacije dopisom je obavijestila Vijeće za elektroničke medije da do danas trgovačko društvo »Adria ittm« d.o.o. nije podnijelo zahtjev za obavljanje tehničkog pregleda.
+Vijeće je utvrdilo da trgovačko društvo »Adria ittm« d.o.o. nije poduzelo niti jednu radnju određenu Odlukom o dodjeli koncesije za obavljanje djelatnosti radija na području Grada Nina te da se ista sukladno zakonskim propisima mora poništiti.
+Slijedom navedenoga riješeno je kao u dispozitivu.
+UPUTA O PRAVNOM LIJEKU
+Protiv ove odluke nije dopuštena žalba, jer je ona konačna, ali se može pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske u roku od 30 dana od dana primitka odluke. Tužba se predaje ili šalje neposredno sudu Republike Hrvatske u Zagrebu, a može se podnijeti i na zapisnik kod redovnog suda nadležnog za obavljanje pravne pomoći.
