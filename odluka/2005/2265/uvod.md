@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 1. podstavka 2., članka 61. stavak 1. i članka 63. stavka 3. Zakona o elektroničkim medijima (»Narodne novine« broj 122/03) Vijeće za elektroničke medije na svojoj 57. sjednici održanoj 27. rujna 2005. donijelo je sljedeću
