@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Grčke - Regija Peloponnese, Japana - općina Fukuoka i Južnoafričke Republike - općina Camperdown/Richmond radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti
