@@ -1,0 +1,1 @@
+Odluka kojom postavljam TOMISLAVA VIDOŠEVIĆA za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu. Ova Odluka stupa na snagu 17. listopada 2005. godine.
