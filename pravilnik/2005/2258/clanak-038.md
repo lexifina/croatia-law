@@ -1,0 +1,3 @@
+## IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 38.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti odredbe Pravilnika o kvaliteti octene i razblažene octene kiseline (»Narodne novine« 53/91 i 158/03) i Pravilnika o metodama uzimanja uzoraka i metodama kemijskih i fizikalnih analiza radi kontrole kvalitete octa i razblažene octene kiseline (»Narodne novine« 53/91 i 158/03) koje se odnose na vinski i voćni ocat, odredbe Pravilnika o vinu (»Narodne novine« br. 96/96, 7/97, 117/97 i 57/00) koje se odnose na proizvodnju vinskog i voćnog octa i na uzorkovanje vinskog i voćnog octa te članak 46. Pravilnika o proizvodnji vina (»Narodne novine« 2/05).
