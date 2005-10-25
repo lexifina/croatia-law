@@ -1,0 +1,7 @@
+# Članak 1.
+U Zakonu o područjima i sjedištima sudova (»Narodne novine«, br. 3/94., 104/97. i 59/01.) u članku 2. - Glava XXI. mijenja se i glasi:
+»1. ŽUPANIJSKI SUD U ZAGREBU za područje općinskih sudova u Sesvetama, Zagrebu i Novom Zagrebu.
+Općinski sud u Sesvetama za područje naselja: Adamovec, Belovar, Blaguša, Budenec, Cerje, Dobrodol, Drenčec, Dumovec, Đurđekovec, Gajec, Glavničica, Glavnica Donja, Glavnica Gornja, Goranec, Jasenovec, Kašina, Kašinska Sopnica, Kučilovina, Kućanec, Lužan, Markovo Polje, Moravče, Paruževina, Planina Donja, Planina Gornja, Popovec, Prekvršje, Prepuštovec, Sesvete, Soblinec, Šašinovec, Šimunčevec, Vuger Selo, Vugrovec Donji, Vugrovec Gornji, Vurnovec i Žerjavinec.
+Općinski građanski sud u Zagrebu za područje naselja: Ivanja Reka i Zagreb (bez gradskih četvrti južno od rijeke Save).
+Općinski kazneni sud u Zagrebu za područje naselja: Ivanja Reka i Zagreb (bez gradskih četvrti južno od rijeke Save).
+Općinski sud u Novom Zagrebu za područje naselja: Botinec, Brebernica, Brezovica, Buzin, Demerje, Desprin, Donji Čehi, Donji Dragonožec, Donji Trpuci, Drežnik Brezovički, Goli Breg, Gornji Čehi, Gornji Dragonožec, Gornji Trpuci, Graničari, Havidić Selo, Horvati, Hrašće Turopoljsko, Hrvatski Leskovac, Hudi Bitek, Ježdovec, Kupinečki Kraljevec, Lipnica, Lučko, Mala Mlaka, Odra, Odranski Obrež, Starjak, Strmec, Veliko Polje, Zadvorsko i Zagreb (bez gradskih četvrti sjeverno od rijeke Save).«
