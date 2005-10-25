@@ -1,0 +1,3 @@
+# Članak 8.
+Član Upravnog odbora ne može glasovati, odnosno odlučivati o pitanjima u kojima on, njegov bračni drug, njegov usvojitelj ili usvojenik, njegov srodnik po krvi u pravoj liniji, a u pobočnoj liniji do četvrtog stupnja zaključno te njegov srodnik po tazbini do drugog stupnja zaključno, ima imovinski interes.
+Ministar će razriješiti člana Upravnog odbora ako svoju dužnost ne obavlja savjesno, u skladu sa Zakonom i drugim općim aktima Zaklade, ako nesudjelovanjem u radu na sjednicama ili na drugi način ne ispunjava svoje obveze, ako se utvrdi da ima osobne ili poslovne interese koji su suprotni interesima Zaklade, ili ne ispunjava koji od uvjeta iz članka 21. stavka 1. Zakona o zakladama i fundacijama.

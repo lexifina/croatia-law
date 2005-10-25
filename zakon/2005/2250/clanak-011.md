@@ -1,0 +1,2 @@
+# Članak 11.
+Upravni odbor može osnovati stručne službe te stalne i povremene komisije radi prikupljanja podataka o okolnostima i potrebama obitelji ili roditelja poginulih policijskih službenika, teško oboljelih i socijalno ugroženih policijskih službenika ili članova njihove najuže obitelji, radi analize i ocjene tih potreba, obrade zamolbi, izrade prijedloga Upravnom odboru i za obavljanje drugih poslova iz svoga djelokruga.
