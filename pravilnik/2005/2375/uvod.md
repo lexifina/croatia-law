@@ -1,0 +1,1 @@
+Na temelju odredbe članka 12. stavak 8. Zakona o prijevozu u cestovnom prometu (»Narodne novine« br. 178/04) Skupština Hrvatske obrtničke komore na sjednici održanoj 30. lipnja 2005. godine i Upravni odbor Hrvatske gospodarske komore, na sjednici održanoj 30. rujna 2005. godine, donijeli su
