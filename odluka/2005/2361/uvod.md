@@ -1,0 +1,1 @@
+Na temelju članka 5. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2005. godinu (»Narodne novine«, br. 171/2004 i 89/2005) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 26. listopada 2005. godine donijela
