@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se postupak, način i rokovi dostave izvješća o raspodjeli i iskorištenosti stranih dozvola, i to prema vrsti dozvola po pojedinim državama i korisnicima dozvola (u daljem tekstu: izvješće) koji Hrvatska gospodarska komora i Hrvatska obrtnička komora (u daljnjem tekstu: komore) mjesečno, polugodišnje i godišnje za prethodno razdoblje podnose Ministarstvu mora, turizma, prometa i razvitka.
