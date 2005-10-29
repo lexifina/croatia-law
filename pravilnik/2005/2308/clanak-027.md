@@ -1,0 +1,4 @@
+## Dostavljanje podataka Agenciji
+# Članak 27.
+(1) Davatelji osnovnih usluga moraju, do 1. ožujka svake godine za prethodnu kalendarsku godinu, dostaviti Agenciji, uz godišnje izvješće iz članka 5. ovoga Pravilnika, i izvješće o ostvarivanju obveza u obavljanju osnovnih usluga, utvrđenih odredbama Zakona o telekomunikacijama i ovoga Pravilnika, koje osobito sadrži podatke o kakvoći usluge, pokrivenosti korisnika usluga, cijenama osnovnih usluga, troškovima obavljanja osnovnih usluga, ukupnom prihodu ostvarenom obavljanjem tih usluga, broju ostvarenih i odbijenih zahtjeva za uspostavu osnovnih usluga te razlozima za odbijanje zahtjeva za uspostavu osnovnih usluga.
+(2) Ako davatelj osnovnih usluga ne dostavi podatke o ostvarenom ukupnom prihodu od obavljanja tih usluga iz stavka 1. ovoga članka, Vijeće Agencije ima pravo izraditi procjenu ukupnog prihoda davatelja osnovnih usluga.

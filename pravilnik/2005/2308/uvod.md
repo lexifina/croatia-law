@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 3., članka 38. stavka 3., članka 40. stavka 6. i članka 41. stavka 6. Zakona o telekomunikacijama (»Narodne novine«, broj 122/03., 158/03., 60/04. i 70/05.) ministar mora, turizma, prometa i razvitka donosi

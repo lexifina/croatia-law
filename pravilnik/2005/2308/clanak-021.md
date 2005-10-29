@@ -1,0 +1,9 @@
+## Opći uvjeti poslovanja davatelja osnovnih usluga
+# Članak 21.
+(1) Opći uvjeti poslovanja davatelja osnovnih usluga, koji pruža i druge vrste telekomunikacijskih usluga, sastavni su dio općih uvjeta poslovanja iz članka 62. stavka 1. Zakona o telekomunikacijama.
+(2) Davatelji osnovnih usluga moraju za svoje opće uvjete poslovanja pribaviti prethodnu suglasnost Vijeća Agencije.
+(3) Uvjeti obavljanja i cijena pojedine vrste osnovnih usluga iz članka 2. ovoga Pravilnika, koju obavlja davatelj osnovnih usluga na određenom području, moraju biti jednaki za cijelo područje obavljanja te usluge.
+(4) Davatelji osnovnih usluga moraju, za potrebe socijalno ugroženih slojeva korisnika usluga (korisnika usluga s niskom razinom prihoda i korisnika usluga s posebnim socijalnim potrebama), pripremiti posebne ponude osnovnih usluga, s prilagođenim cijenama i uvjetima pružanja usluga, koji se razlikuju od uobičajenih tržišnih cijena i uvjeta, te omogućuju tim slojevima korisnika usluga pristup i korištenje javno dostupnom telefonskom uslugom.
+(5) Posebne ponude osnovnih usluga iz stavka 4. ovoga članka odobrava Vijeće Agencije.
+(6) Ako pretplatnik nije podmirio dospjelo dugovanje za obavljene osnovne usluge, a nije podnio prigovor na iznos kojim je zadužen, u skladu s odredbama članka 49. Zakona o telekomunikacijama, davatelj osnovnih usluga može privremeno isključiti pretplatničku terminalnu opremu iz telekomunikacijske mreže u skladu s odredbama članka 27. Pravilnika o telekomunikacijskim uslugama.
+(7) Za vrijeme privremenog isključenja pretplatničke terminalne opreme, a prije trajnog isključenja te opreme, odnosno raskidanja pretplatničkog odnosa, koje davatelj osnovnih usluga može izvršiti uz uvjete iz članka 28. Pravilnika o telekomunikacijskim uslugama, pretplatnik u razdoblju od najmanje 30 dana ima pravo primati dolazne pozive, te pravo pozivanja svih hitnih službi, uključujući i jedinstveni europski broj za hitne službe.
