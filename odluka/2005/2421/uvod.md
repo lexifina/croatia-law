@@ -1,0 +1,1 @@
+Na temelju članka 40.a Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2005. godinu (»Narodne novine«, br. 171/2004 i 89/2005) Vlada Republike Hrvatske je na sjednici održanoj 26. listopada 2005. godine donijela
