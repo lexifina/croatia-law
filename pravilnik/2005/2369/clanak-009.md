@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Vijeće Agencije provodi postupak utvrđivanja da davatelj usluga ili operator koji ima tržišni udjel manji od 25%, ima znatniju tržišnu snagu na mjerodavnom tržištu, po službenoj dužnosti ili na temelju zahtjeva davatelja usluga ili operatora.
+(2) Vijeće Agencije je obvezno donijeti rješenje o prihvaćanju ili o odbijanju zahtjeva iz stavka 1. ovoga članka, najkasnije u roku od 30 dana od zaprimanja zahtjeva, ili iznimno zbog prikupljanja podataka i u duljem roku koji ne može biti dulji od 60 dana od zaprimanja zahtjeva.
+(3) Vijeće Agencije će u postupku iz stavka 1. ovoga članka osobito razmotriti utemeljenost zahtjeva odnosno odgovarajuće ekonomske pokazatelje koji ukazuju da davatelj usluga ili operator ispunjava uvjete da ima znatniju tržišnu snagu na mjerodavnom tržištu. Ako je iz zahtjeva vidljiva moguća prostorno ograničena zloporaba položaja znatnije tržišne snage, Vijeće Agencije može izmijeniti ranije utvrđenu geografsku dimenziju predmetnog mjerodavnog tržišta.
+(4) Ako je HH indeks na utvrđenom, odnosno izmijenjenom mjerodavnom tržištu u skladu sa stavkom 3. ovoga članka, manji ili jednak 1000, Vijeće Agencije će odbiti taj zahtjev.
+(5) U postupcima iz stavka 1. ovoga članka primjenjuju se mjerila iz članka 51. stavaka 8. i 9. Zakona.

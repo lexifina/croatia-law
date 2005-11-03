@@ -1,0 +1,4 @@
+## Dostava podataka
+# Članak 3.
+(1) Davatelji usluga i operatori obvezni su na zahtjev Vijeća Hrvatske agencije za telekomunikacije (u daljnjem tekstu: Vijeće Agencije) u roku od 15 dana od dana zaprimanja zahtjeva, dostaviti tražene podatke u vezi s utvrđivanjem znatnije tržišne snage. Na zahtjev davatelja usluga ili operatora, Vijeće Agencije može, u slučaju potrebe obrade složenijih skupova podataka, odrediti dulji rok za dostavu traženih podataka, koji ne može biti dulji od 45 dana od dana zaprimanja zahtjeva.
+(2) Ako davatelji usluga i operatori ne dostave u roku iz stavka 1. ovoga članka podatke iz stavka 1. ovoga članka Vijeće Agencije može donijeti rješenje u vezi s utvrđivanjem znatnije tržišne snage davatelja usluga i operatora i na temelju podataka prikupljenih na druge odgovarajuće načine.
