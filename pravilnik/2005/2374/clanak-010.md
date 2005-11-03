@@ -1,0 +1,3 @@
+# Članak 10.
+Željeznički prijevoznik dokazuje ispunjavanje uvjeta iz članka 3. točke 7. dokumentima iz kojih je vidljivo da željeznička vozila (prijevozna i vučna) udovoljavaju uvjetima propisa o sigurnosti u željezničkom prometu, te drugim međunarodnim propisima za gradnju i održavanje željezničkih vozila.
+Održavanje željezničkih vozila, sukladno propisima iz stavka 1. ovog članka, kao i način nadzora i kontrole ispravnosti vozila, željeznički prijevoznik dokazuje aktom o unutrašnjoj organizaciji dijela tvrtke zadužene za gradnju i održavanje željezničkih vozila, odnosno izjavom o predviđenom načinu održavanja i kontrole ispravnosti vozila.

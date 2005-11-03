@@ -1,0 +1,4 @@
+# Članak 19.
+Ako kod željezničkog prijevoznika, odnosno Upravitelja infrastrukture, za vrijeme važenja dozvole nastupe statusne promjene ili se promijene okolnosti ili činjenice od značaja za obavljanje djelatnosti za koje je dozvola izdana, željeznički prijevoznik, odnosno Upravitelj infrastrukture je o tome dužan obavijestiti Ministarstvo, te prijaviti nastale promjene u roku od 30 dana od njihovog nastanka.
+Po primitku prijave, iz stavka 1. ovog članka, Ministarstvo odlučuje, ovisno o opsegu nastale promjene, postoji li potreba podnošenja novog zahtjeva za izdavanje dozvole.
+U slučaju da Ministarstvo utvrdi da je potrebno izdavanje nove dozvole, može odobriti željezničkom prijevozniku, odnosno Upravitelju infrastrukture, nastavak obavljanja djelatnosti u onoj mjeri u kojoj mu je to dopuštala ranija dozvola, do izdavanja nove dozvole.

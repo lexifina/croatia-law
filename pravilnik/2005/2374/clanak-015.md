@@ -1,0 +1,2 @@
+# Članak 15.
+Ako se izvršenom provjerom Ministarstva utvrdi da željeznički prijevoznik, odnosno Upravitelj infrastrukture kojem je izdana dozvola, ne ispunjava uvjet iz članka 3. stavak 1. točke 5. ovog Pravilnika, a koji se odnosi na njegovu financijsku sposobnost ispunjavanja obveza u poslovanju, Ministarstvo će mu narediti, pod uvjetom da time nije ugrožena sigurnost željezničkog prometa, otklanjanje nedostataka u roku ne dužem od 6 mjeseci od dana saznanja za njihovo postojanje.
