@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Danske, Francuske - regija Pas - de Calais, Grčke - regija Peloponnese, Izraela, Japana - općina Fukuoka, Južnoafričke Republike - općina Camperdown/Richmond i Makedonije radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti
