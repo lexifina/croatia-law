@@ -1,0 +1,2 @@
+# Članak 12.
+U infrastrukturnom pojasu mogu se nalaziti i dijelovi sustava željezničkog prijevoza te drugih sustava koji nisu dio željezničkog sustava kao što su telekomunikacijski, elektroenergetski, cestovni, (dijelovi denivelacija i željezničko-cestovnih prijelaza u razini i sl.) vodni i plovni, lučki, pogranično-carinski i sl., te zgrade, dijelovi zgrada, prostorije, prostori, površine i oprema koji se ne smatraju željezničkom infrastrukturom, kao i instalacije od općeg interesa, ali sve u skladu s propisima i uz suglasnost upravitelja željezničke infrastrukture.
