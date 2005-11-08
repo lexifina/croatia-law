@@ -1,0 +1,5 @@
+# Članak 15.
+U članku 51. dodaju se novi stavci 2. i 3. koji glase:
+»(2) Ako inspektor utvrdi da postoji osnovana sumnja da se u stanu ili drugom prostoru obavlja određena djelatnost bez odobrenja nadležnog tijela, inspektor će bez odlaganja zatražiti od nadležnoga sudbenog tijela da po hitnom postupku izda pisani nalog za pretragu stana ili drugog prostora te zapljenu sredstava, predmeta i dokumentacije koji služe obavljanju neregistrirane djelatnosti. Nadležno sudbeno tijelo će o zahtjevu riješiti u roku od 24 sata.
+(3) Iznimno od stavka 1. ovoga članka, inspektor neće podnijeti zahtjev za pokretanje prekršajnog postupka ako su utvrđene nepravilnosti otklonjene tijekom inspekcijskog nadzora ili najkasnije u roku od osam dana od dana provedenoga inspekcijskog nadzora, uz uvjet da je donja granica iznosa propisane novčane kazne za prekršaj pravne osobe jednaka ili manja od 3.000,00 kuna, a za prekršaj fizičke osobe jednaka ili manja od 1.000,00 kuna.«
+Dosadašnji stavak 2. postaje stavak 4.
