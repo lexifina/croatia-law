@@ -1,0 +1,4 @@
+## V. PRIJAM U SLUŽBU VANJSKIH POSLOVA ZA POJEDINE DRŽAVNE SLUŽBENIKE BEZ NATJEČAJA I OKVIRNI BROJ
+# Članak 202.
+Natječaj nije obavezan za prijam u službu vanjskih poslova za pojedine državne službenike u VII. UPRAVI - Upravi za sigurnosnu analitiku, komunikacije i zaštitu, pod uvjetom da ispunjavaju uvjete za obavljanje određenih poslova, u skladu s Pravilnikom o unutarnjem redu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu.
+Za ugovorno diplomatsko i administrativno-tehničko osoblje, te za državljane države primateljice, natječaj za prijam u službu vanjskih poslova nije obavezan pod uvjetom da ispunjavaju uvjete za obavljanje određenih poslova, u skladu s Pravilnikom o unutarnjem redu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu.

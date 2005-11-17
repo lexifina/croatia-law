@@ -1,0 +1,6 @@
+# Članak 121.
+Odjel za upravljanje ljudskim potencijalima provodi postupak prikupljanja materijala u postupku odabira kandidata; organizira i provodi javni natječaj, te selekcijski postupak odabira kandidata; organizira i provodi interni natječaj za popunu slobodnih mjesta u DM/KU; provodi upućivanje djelatnika na pripreme za odlazak na mandat u DM/KU; predlaže raspored djelatnika po povratku iz DM/KU; kontinuirano prati karijerni razvoj i promicanje djelatnika; vodi osobne očevidnike državnih službenika i namještenika u službi vanjskih poslova; koordinira postupak kandidature državnih službenika i ostalih građana RH za rad u međunarodnim organizacijama i njihovim terenskim misijama; priprema prijedloge za raspored državnih službenika i namještenika na radna mjesta unutar Ministarstva te u DM/KU; vodi evidencije kandidata za zapošljavanje u Ministarstvu; vrši istraživanja i analize poslova i zadataka iz djelokruga rada službe vanjskih poslova, te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova i zadaća iz djelokruga Odjela za upravljanje ljudskim potencijalima ustrojavaju se sljedeći odsjeci:
+12.3.1. Odsjek za planiranje i odabir osoblja;
+12.3.2. Odsjek za praćenje karijernog razvoja.
+12.3.1. Odsjek za planiranje i odabir osoblja

@@ -1,0 +1,3 @@
+# Članak 82.
+Odjel za web stranice oblikuje, izrađuje, održava i ažurira internetske i intranetske stranice službe vanjskih poslova; sadržajno priprema, ažurira, uređuje i prevodi javne web stranice Ministarstva, izrađuje web stranice DM/KU, obučava djelatnike DM/KU za rad na web stranicama, pruža podršku pri održavanju i administriranju web stranica DM/KU, planira daljnji razvoj web stranica, priprema i postavlja materijale na zaštićene intranetske stranice Ministarstva; koordinira internu i eksternu elektronsku komunikaciju; distribuira i otprema interne biltene elektronskim putem; fotografira i izrađuje foto-arhiv Ministarstva, održava elektronsku arhivu Odjela, te obavlja druge poslove iz svog djelokruga.
+9.5. Odjel za obrazovanje o europskim integracijama

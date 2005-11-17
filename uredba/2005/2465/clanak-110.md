@@ -1,0 +1,3 @@
+# Članak 110.
+Odsjek za regionalnu, transnacionalnu i prekograničnu suradnju koordinira programe prekogranične, transnacionalne i međuregionalne suradnje koje se provode unutar Inicijative EZ Interreg, obavlja stručne i administrativne poslove za potrebe Nacionalnog odbora za provedbu Inicijative Interreg III, razvija odgovarajuću komunikacijsku i informacijsku strategiju u svrhu informiranja sudionika u programima i projektima unutar Inicijative EZ Interreg; priprema izvješća o provedbi Inicijative EZ Interreg u RH; usko surađuje s tijelima državne uprave, a posebno tijelima regionalne i lokalne samouprave, te informira i obrazuje sve sudionike u procesu, te obavlja i druge poslove iz svog djelokruga.
+11.3.2. Odsjek za bilateralnu suradnju sa zemljama članicama EU

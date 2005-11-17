@@ -1,0 +1,3 @@
+# Članak 184.
+Odsjek za jezičnu redakturu i koordinaciju obavlja prevođenje, koordinaciju prevođenja, redakture i lekture hrvatskog zakonodavstva na engleski odnosno na neki od službenih jezika EU, izrade priručnika, glosara i pojmovnika u svrhu ujednačenih prijevoda hrvatskih propisa na engleski jezik; organizira programe stručne izobrazbe za djelatnike Odsjeka i za vanjske suradnike; unosi podatke u bazu podataka u svrhu koordinacije svih područja rada prevoditelja i terminologa; održava sadržaj baze podataka prijevoda propisa RH na jednom od službenih jezika EU te obavlja i druge poslove iz svog djelokruga.
+15.2.2. Odsjek za terminološko usklađivanje.

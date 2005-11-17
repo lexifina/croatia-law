@@ -1,0 +1,3 @@
+# Članak 5.
+Odjel za potporu ministru obavlja sve administrativne, stručne, organizacijske i protokolarne poslove koji su u neposrednoj vezi s dnevnim aktivnostima ministra; po nalogu ministra neposredno koordinira postupanje po pitanjima iz djelokruga rada pojedinih uprava i samostalnih ustrojstvenih jedinica Ministarstva; u suradnji s glasnogovornikom planira i priprema nastupe ministra u zemlji i inozemstvu; zaprima predstavke i pritužbe građana te brine o daljnjem postupanju; u cilju koordinacije aktivnosti ministra i državnih tajnika neposredno surađuje s Odjelom za potporu državnim tajnicima, te obavlja i druge poslove iz svog djelokruga.
+1.2. Odjel za potporu državnim tajnicima

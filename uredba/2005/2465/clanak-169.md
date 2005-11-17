@@ -1,0 +1,3 @@
+# Članak 169.
+Odsjek za ceremonijal vodi brigu o dočeku stranih novoakreditiranih veleposlanika, o predaji njihovih kopija vjerodajnica; posebice vodi brigu o ceremonijalnom diplomatskom dopisivanju; po potrebi organizira i suorganizira godišnja i druga okupljanja diplomatskog zbora u organizaciji Ureda predsjednika RH, predsjednika Hrvatskog sabora, predsjednika Vlade RH i Ministarstva; posreduje pri dodjeli odlikovanja kako za hrvatske državljane od stranih veleposlanstava, tako i strane državljane putem naših DM/KU; osmišljava darove ministra i državnih tajnika za strane dužnosnike; organizira vođenje evidencije uručenih darova, te obavlja i druge poslove iz svog djelokruga.
+13.2.2. Odsjek za posjete

@@ -1,0 +1,3 @@
+# Članak 16.
+Odsjek za EU politike analizira glavne EU politike koje imaju utjecaj na sadašnje odnose između RH i EU i koje će imati utjecaj na proces pridruživanja RH EU: proračun EU, Zajednička poljoprivredna politika, strukturni fondovi i programi EU, Ekonomska i monetarna unija, Lisabonska agenda, financijska perspektiva i druge, kao i njihov utjecaj na političke odnose unutar EU; surađuje s drugim tijelima državne uprave u formiranju stajališta RH o pojedinim pitanjima iz EU politika; po potrebi sudjeluje u pripremi materijala i radu Pododbora za praćenje provedbe SSP-a te u pripremi stajališta za pregovore RH s EU, te obavlja i druge poslove iz svog djelokruga.
+2.3. Odjel za zapadnu Europu

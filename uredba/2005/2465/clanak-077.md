@@ -1,0 +1,6 @@
+# Članak 77.
+Odjel za informiranje o europskim integracijama priprema i provodi komunikacijsku strategiju za informiranje javnosti o raznim aspektima europskih integracija RH; daje potporu pregovaračkom timu te informira javnost o procesu pregovora, obavlja poslove razmjene i prijenosa informacija o raznim aspektima integriranja RH u EU i pristupanja europskim organizacijama unutar Ministarstva te između Ministarstva i radnih tijela Vlade, tijela državne uprave te tijela lokalne i područne (regionalne) samouprave kao i nevladinih organizacija; obavještava opću javnost i interesne skupine o procesu integriranja RH u EU, te općenito o euroatlantskim integracijskim procesima; u području poslova iz svojeg djelokruga organizira i provodi posebne projekte, obavlja poslove promotivnih aktivnosti, koncipira i piše informativne materijale, organizira i koordinira rad Nacionalnog foruma za pristupanje EU, te obavlja i druge poslove iz svog djelokruga.
+U Odjelu za informiranje o europskim integracijama ustrojavaju se:
+9.1.1. Odsjek za posebne projekte, promotivne aktivnosti i publicistiku;
+9.1.2. Odsjek za Nacionalni forum.
+9.1.1. Odsjek za posebne projekte, promotivne aktivnosti i publicistiku

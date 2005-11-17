@@ -1,0 +1,7 @@
+# Članak 109.
+Odjel za koordinaciju programa regionalne, transnacionalne i prekogranične suradnje te praćenje korištenja inozemne pomoći koordinira programe pomoći i programe razvojne suradnje koje države članice EU stavljaju na raspolaganje RH; izrađuje strateške dokumente za korištenje strane pomoći u procesu pristupanja EU te koordinira programe prekogranične, transnacionalne i međuregionalne suradnje koji se odvijaju u okviru inicijative Interreg III, održava bazu podataka o završenim, tekućim te planiranim projektima strane pomoći u RH; u okviru obavljanja poslova iz djelokruga Uprave vezane za programe pomoći i programe razvojne suradnje koje države članice stavljaju na raspolaganje RH, organizira i koordinira informativne aktivnosti u suradnji s drugim ustrojstvenim jedinicama Ministarstva i tijelima državne uprave i kao i ostalim korisnicima programa pomoći suradnje s EU te vodi posebnu arhivu svih materijala putem kojih se javnost informira o projektima koji se financiraju iz stranih izvora pomoći, te obavlja i druge poslove iz svog djelokruga.
+U Odjelu za koordinaciju programa regionalne, transnacionalne i prekogranične suradnje te praćenje korištenja inozemne pomoći ustrojavaju se:
+11.3.1. Odsjek za regionalnu, transnacionalnu i prekograničnu suradnju;
+11.3.2. Odsjek za bilateralnu suradnju sa zemljama članicama EU;
+11.3.3. Odsjek za programiranje i praćenje korištenja inozemne pomoći.
+11.3.1. Odsjek za regionalnu, transnacionalnu i prekograničnu suradnju

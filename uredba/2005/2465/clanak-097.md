@@ -1,0 +1,3 @@
+# Članak 97.
+Odsjek za informatičku potporu procesu pristupanja EU obavlja poslove vezane uz održavanje i obnavljanje baze podataka za potporu procesu pregovora s EU: obrađuje i unosi podatke, redovito obnavlja podatke i pruža tehničku potporu korisnicima baze podataka; koordinira korištenje baze podataka za potporu procesu pregovora s EU; koordinira izradu sadržaja i redovito obnavlja podatke na službenim internetskim stranicama Pregovaračke skupine; surađuje s drugim ustrojstvenim jedinicama Ministarstva na izradi materijala za informiranje šire javnosti o procesu pregovora, te obavlja i druge poslove iz svog djelokruga.
+11. X. UPRAVA - Uprava za koordinaciju programa pomoći i suradnje s Europskom unijom

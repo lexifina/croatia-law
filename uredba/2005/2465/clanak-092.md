@@ -1,0 +1,3 @@
+# Članak 92.
+Odsjek za praćenje provedbe SSP-a i institucionalnu suradnju koordinira i prati ispunjavanje obveza preuzetih SSP-om između Europskih zajednica i njihovih država članica i RH, koordinira izradu izvješća o napretku RH o ispunjavanju provedbe kriterija za članstvo u EU, pruža stručnu podršku tijelima uključenim u provedbu Sporazuma; vodi baze podataka o Planu provedbe SSP-a; izrađuje redovita izvješća o provedbi SSP-a, upućuje ih u postupak Vlade RH, dostavlja ih tijelima državne uprave i tijelima EU te ih objavljuje na službenim internetskim stranicama Ministarstva te obavlja i druge poslove iz svog djelokruga.
+10.2.2. Odsjek za koordinaciju izrade i praćenje provedbe Nacionalnog programa RH za pridruživanje EU

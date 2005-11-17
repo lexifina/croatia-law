@@ -1,0 +1,7 @@
+# Članak 83.
+Odjel za obrazovanje o europskim integracijama u suradnji s ostalim tijelima državne uprave utvrđuje potrebe za usavršavanjem u području europskih integracija, što uključuje razvoj specifičnih znanja, vještina i sposobnosti, sve s ciljem što boljeg prilagođavanja i razvitka državne uprave RH za procese integriranja RH u EU, uključujući pregovore za ulazak RH u EU; izrađuje plan usavršavanja i organizira i koordinira programe obuke i usavršavanja državnih službenika i drugih zainteresiranih skupina u području europskih integracija (predavanja, seminari, konferencije, tečajevi, kraći stručni boravci u inozemnim institucijama); surađuje sa stranim vladama, te stranim i domaćim institucijama (akademskim, zakladama, stručnim udrugama i dr.) u organizaciji obrazovnih aktivnosti; organizira dodjeljivanje stipendija za poslijediplomske europske studije u zemlji i inozemstvu, te potiče uvođenje predmeta koji se odnose na pitanja europskih integracija u programe hrvatskih škola, visokih učilišta i sveučilišta i osnivanje specijaliziranih poslijediplomskih europskih studija; u suradnji s drugim tijelima državne uprave planira zapošljavanje stipendista Vlade RH iz područja europskih integracija, te obavlja i druge poslove iz svog djelokruga.
+U Odjelu za obrazovanje o europskim integracijama ustrojavaju se:
+9.4.1. Odsjek za stipendije i stručna usavršavanja;
+9.4.2. Odsjek za projekte bilateralne suradnje;
+9.4.3. Odsjek za organizaciju seminara i predavanja.
+9.5.1. Odsjek za stipendije i stručna usavršavanja

@@ -1,0 +1,3 @@
+# Članak 85.
+Odsjek za projekte bilateralne suradnje utvrđuje potrebe za usavršavanjem državnih službenika u području europskih integracija i sukladno tomu, planira, organizira i koordinira programe usavršavanja (seminare, tečajeve i studijska putovanja) u području europskih integracija za državne službenike i druge zainteresirane skupine u okviru bilateralne suradnje s vladama država članica i kandidata za članstvo u EU, različitim institucijama u inozemstvu i RH, zakladama, sveučilištima i sl.; koordinira provedbu programa tehničke pomoći u području obrazovanja s drugim upravama i tijelima državne uprave, te obavlja i druge poslove iz svog djelokruga.
+9.5.3. Odsjek za organizaciju seminara i predavanja

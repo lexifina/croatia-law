@@ -1,0 +1,6 @@
+# Članak 173.
+Odjel za diplomatsko usavršavanje i izdavaštvo osmišljava, predlaže, organizira i provodi stručno usavršavanje iz područja međunarodnih odnosa, vanjske politike i diplomacije za državne službenike Ministarstva i drugih tijela državne uprave koja se bave odnosima RH s inozemstvom; predlaže, organizira i provodi stručni diplomatski studij i specijalističke diplomatske, konzularne i administrativne tečajeve; organizira i provodi ad-hoc tečajeve, savjetničke i druge stručne ispite u službi vanjskih poslova; kontinuirano prati, predlaže, provodi i kontrolira stručna usavršavanja djelatnika Ministarstva u suradnji s Odjelom za upravljanje ljudskim potencijalima i Odjelom za radno-pravna pitanja; organizira međunarodne i domaće seminare, simpozije, konferencije i tečajeve; oblikuje i provodi međunarodnu suradnju u području edukacije; objavljuje publikacije; stvaraju sadržaje za potrebe Internet stranice Ministarstva iz svog djelokruga i daje »e-learning usluge«, te obavlja i druge poslove iz djelokruga usavršavanja u području vanjskih poslova i diplomacije, te obavlja ostale poslove iz svog djelokruga.
+Za obavljanje poslova i zadaća iz ovog članka u Odjelu za diplomatsko usavršavanje i izdavaštvo ustrojavaju se sljedeći odsjeci:
+14.1.1. Odsjek za diplomatsko usavršavanje;
+14.1.2. Odsjek za izdavaštvo.
+14.1.1. Odsjek za diplomatsko usavršavanje

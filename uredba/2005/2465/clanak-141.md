@@ -1,0 +1,3 @@
+# Članak 141.
+Pododsjek za skladište obavlja poslove zaprimanja robe; provjere količine zaprimljene robe po otpremnici, razvrstavanje iste po artiklima; unošenje primki; unos po karticama artikala (robno--materijalni program); izdavanje robe po zahtjevima organizacijskih jedinica Ministarstva i DM/KU; materijalna likvidacija računa za zaprimljenu robu na skladištu; šifriranje artikala; šifriranje dobavljača i potrošača; praćenje stanja skladišta radi pravovremene nabave; suradnja sa Odjelom za tehničke poslove na pripremi otpreme razne robe sa skladišta poradi dostave u DM/KU, te obavlja ostale poslove iz svog djelokruga.
+12.8. Odjel za financijsko-računovodstvene poslove

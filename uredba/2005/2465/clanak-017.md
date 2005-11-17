@@ -1,0 +1,6 @@
+# Članak 17.
+Odjel za zapadnu Europu prati, proučava i stručno obrađuje politička zbivanja i bilateralne odnose RH i zemalja zapadne Europe; surađuje s DM/KU u tim zemljama, te sa stranim diplomatskim misijama i konzularnim uredima u RH u vezi s razvojem političkih i ukupnih odnosa sa zemljama zapadne Europe; prikuplja i obrađuje potrebne podatke, informacije i druga saznanja o državama iz navedene oblasti; analizira podatke, informacije i saznanja iz diplomatskih krugova i drugih izvora; izrađuje izvješća, analize, bilješke, podsjetnike i druge dokumente pri čemu se posebice vodi računa o prioritetima u provedbi vanjske politike u odnosu na zemlje iz djelokruga rada Odjela; predlaže mjere i priprema prijedloge za adekvatno praćenje i analizu stanja odnosa s tim državama, za razvijanje i unapređivanje odnosa te poticanje bilateralne suradnje; surađuje s drugim organizacijskim jedinicama u Upravi, Ministarstvu, državnim tijelima RH, organizacijama, udrugama i drugim subjektima u cilju usklađivanja, poticanja i praćenja radnih aktivnosti na provedbi vanjske politike te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje opisanih poslova iz djelokruga rada Odjela ustrojavaju se sljedeći odsjeci:
+2.3.1. Odsjek za države Sjeverne i Zapadne Europe;
+2.3.2. Odsjek za države Sredozemlja.
+2.3.1. Odsjek za države Sjeverne i Zapadne Europe

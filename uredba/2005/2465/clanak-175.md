@@ -1,0 +1,3 @@
+# Članak 175.
+Odsjek za izdavaštvo objavljuje publikacije za potrebe službe vanjskih poslova te ostalih tijela državne uprave, akademske zajednice, gospodarskih i kulturnih institucija RH; predstavlja knjige i publikacije iz područja međunarodnih odnosa, europskih integracija, vanjske politike i diplomacije; upoznaje javnost s radom Diplomatske akademije putem internetske stranice; nabavlja literaturu za potrebe diplomatskih studija i tečajeva u organizaciji Diplomatske akademije; organizira rad knjižnice i čitaonice Diplomatske akademije; priprema obrazovne sadržaje za korištenje »e-learning sustavom«, te obavlja i druge poslove iz svog djelokruga.
+14.2. Odjel za pripreme za rad u DM/KU i strane jezike

@@ -1,0 +1,3 @@
+# Članak 119.
+Odsjek za statusna pitanja obavlja poslove vezane uz prijam i prestanak radnog odnosa šefova DM/KU, državnih službenika i namještenika u Ministarstvu; obavlja poslove vezane uz utvrđivanje svih prava i obveza prilikom rasporeda djelatnika na rad u DM/KU i boravka članova obitelji u inozemstvu; provodi postupak prijava na mirovinsko i zdravstveno osiguranje, te zdravstvenu zaštitu djelatnika i članova njihovih obitelji u inozemstvu; priprema materijale za postupak ocjenjivanja; surađuje s drugim odjelima Ministarstva, te obavlja i druge poslove iz svog djelokruga.
+12.2.2. Odsjek za radno-pravna pitanja

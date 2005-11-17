@@ -1,0 +1,9 @@
+# Članak 76.
+VIII. UPRAVA - Uprava za informiranje i obrazovanje, kao upravna organizacija u sastavu Ministarstva, priprema i provodi komunikacijsku strategiju za informiranje javnosti o raznim aspektima integracije RH u EU; obavlja poslove razmjene i prijenosa informacija unutar Ministarstva te između Ministarstva i radnih tijela Vlade, tijela državne uprave te tijela lokalne i područne (regionalne) samouprave kao i nevladinih organizacija; obavlja poslove upoznavanja i informiranja javnosti o EU i Vijeću Europe; oblikuje, izrađuje, održava i ažurira internetske i intranetske stranice Ministarstva; obavlja poslove dnevnog informiranja Ministarstva i DM/KU; u suradnji s drugim nadležnim tijelima državne uprave, utvrđuje potrebe za obrazovanjem i usavršavanjem u području europskih integracija, organizira i koordinira programe obuke i usavršavanja za europske integracije (predavanja, seminari, konferencije, tečajevi, kraći stručni boravci u inozemnim institucijama); priprema i provodi program stipendiranja poslijediplomskih europskih studija u inozemstvu, te poslijediplomskih i specijalističkih studija u zemlji, a u suradnji s drugim tijelima državne uprave planira zapošljavanje stipendista Vlade RH iz područja europskih integracija; potiče i podupire uvođenje predmeta koji se odnose na pitanja europskih integracija u programe hrvatskih škola, visokih učilišta i sveučilišta i osnivanje specijaliziranih poslijediplomskih europskih studija, te obavlja i druge poslove iz svog djelokruga.
+U VIII. UPRAVI - Upravi za informiranje i obrazovanje ustrojavaju se:
+9.1. Odjel za informiranje o europskim integracijama;
+9.2. Odjel za vanjsku komunikacijsku strategiju;
+9.3. Odjel za informiranje službe vanjskih poslova;
+9.4. Odjel za web stranice;
+9.5. Odjel za obrazovanje o europskim integracijama.
+9.1. Odjel za informiranje o europskim integracijama

@@ -1,0 +1,3 @@
+# Članak 93.
+Odsjek za koordinaciju izrade i praćenje provedbe Nacionalnog programa RH za pridruživanje EU koordinira izradu i prati provedbu Nacionalnog programa RH za pridruživanje EU; koordinira aktivnosti tijela državne uprave radi učinkovitog usvajanja pravne stečevine EU te pruža potrebnu stručnu podršku tijelima državne uprave tijekom procesa usvajanja pravne stečevine EU; vodi baze podataka o Nacionalnom programu RH za pridruživanje EU; izrađuje redovita izvješća o provedbi Nacionalnog programa i dostavlja ih Vladi RH i tijelima državne uprave te obavlja i druge poslove iz svog djelokruga.
+10.2.3. Odsjek za analizu i praćenje prilagodbe sustavu EU
