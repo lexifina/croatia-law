@@ -1,0 +1,6 @@
+# Članak 9.
+Biološki i genski testovi provode se s ciljem prikupljanja podataka koji se koriste kod donošenja uzgojno-selekcijskih odluka i pri provjeri podrijetla. U uzgojnom programu mora biti točno opisano provođenje bioloških i genskih testova. Opis mora sadržavati:
+- način i vrijeme uzimanja uzoraka odnosno mjerenja i ocjenjivanja,
+- metode i postupke,
+- način upotrebe dobivenih rezultata u provedbi uzgojno-selekcijskog rada.
+Rezultati testova iz prijašnjeg stavka moraju biti uključeni i korišteni pri odabiru uzgojno valjanih kopitara.
