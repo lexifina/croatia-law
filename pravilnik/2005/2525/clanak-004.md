@@ -1,0 +1,9 @@
+## II. STAVLJANJE NA TRŽIŠTE I U UPORABU
+# Članak 4.
+(1) Ne smije se zabraniti, ograničiti ili spriječiti stavljanje na tržište ili u uporabu aparata i kotlova koji udovoljavaju zahtjevima ovoga Pravilnika i uvjetima koji su propisani drugim propisima, a odnose se na zaštitu ljudi, životinja, materijalnih dobara i okoliša i koji imaju oznaku sukladnosti i Izjavu o sukladnosti prema člancima 7. i 8. ovoga Pravilnika, osim ako nije drugačije propisano posebnim propisom.
+(2) U svrhu sigurne i pravilne uporabe kotlova i aparata na području Republike Hrvatske upute za uporabu, ugradnju i održavanje, Certifikat o ispitivanju tipa i Izjava o sukladnosti moraju biti na hrvatskom jeziku.
+(3) Etažni i ugradbeni kotlovi iz članka 2. ovoga Pravilnika mogu se staviti na tržište i u uporabu pod uvjetom da njihov stupanj djelovanja kod nazivnog učina i djelomičnog učina od 30% nije za više od 4% manji od zahtjeva za standardne kotlove propisanih člankom 5. stavkom 1. ovoga Pravilnika.
+(4) Kada kotlovi podliježu zahtjevima drugih propisa kojima je predviđeno stavljanje oznake sukladnosti ona označuje da je kotao sukladan sa zahtjevima tih propisa.
+Kada jedan ili više propisa dopušta proizvođaču da odabere koje će propise primijeniti, oznaka sukladnosti označuje sukladnost samo s onim propisima koje je proizvođač primijenio. U tom slučaju pojedinosti o tim propisima moraju se navesti u dokumentima, obavijestima i uputama koji se prilažu uz kotao.
+(5) Proizvođač ili njegov ovlašteni predstavnik registrirani u Republici Hrvatskoj odgovorni su za stavljanje kotlova iz članka 1. ovoga Pravilnika na tržište i u uporabu na području Republike Hrvatske.
+Kada proizvođač ili njegov ovlašteni predstavnik nisu registrirani u Republici Hrvatskoj, uvoznik je osoba odgovorna za stavljanje kotlova na tržište Republike Hrvatske i preuzima odgovornosti koje ima proizvođač prema odredbama ovoga Pravilnika.

@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Provedbu postupaka za ocjenu sukladnosti prema zahtjevima ovoga Pravilnika mogu obavljati tijela za ocjenu sukladnosti na temelju rješenja ministra nadležnog za gospodarstvo ukoliko su osposobljena u skladu sa zahtjevima iz Dodatka V. ovoga Pravilnika.
+(2) Tijelo iz stavka 1. ovoga članka ispunjava kriterije iz Dodatka V. ovoga Pravilnika ukoliko zadovoljava zahtjeve za osposobljenost koji su utvrđeni u odgovarajućim hrvatskim normama. Popis ovlaštenih tijela ministarstvo nadležno za gospodarstvo objavljuje u »Narodnim novinama«.
+(3) Ministar nadležan za gospodarstvo povući će rješenje ako utvrdi da tijelo za ocjenu sukladnosti više ne zadovoljava kriterije iz stavka 1. ovoga članka.
+(4) Ministarstvo nadležno za gospodarstvo objavljuje i obnavlja popis ovlaštenih tijela u »Narodnim novinama«.
+(5) Nadzor nad radom i zadovoljavanjem kriterija za tijela iz stavka 1. ovoga članka provodi ministarstvo nadležno za gospodarstvo.
+(6) Ministarstvo nadležno za gospodarstvo izvještava Komisiju i ostale države članice o tijelima koja je ovlastilo, prema članku 11. Zakona o tehničkim zahtjevima za proizvode i ocjeni sukladnosti, za provedbu postupaka prema stavku 1. ovoga članka i identifikacijskim brojevima koje im je dodijelila Komisija, kao i o onima koja više ne zadovoljavaju propisane kriterije. Komisija objavljuje i obnavlja u Službenom listu Europskih zajednica popis prijavljenih tijela zajedno s njihovim identifikacijskim brojevima i ovlastima.
