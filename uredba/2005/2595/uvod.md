@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 3. Zakona o poljoprivredi (»Narodne novine«, br. 66/2001 i 83/2002), a u vezi s člankom 35. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine«, broj 28/96), Vlada Republike Hrvatske je na sjednici održanoj 17. studenoga 2005. godine donijela
