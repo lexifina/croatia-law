@@ -1,0 +1,6 @@
+R J E Š E N J E
+I. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom Zakona o sudskim pristojbama ("Narodne novine", broj 74/95.), Zakona o izmjenama i dopunama Zakona o sudskim pristojbama ("Narodne novine", broj 57/96.) i Tarife sudskih pristojbi, koja je sastavni dio Zakona o sudskim pristojbama.
+II. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 17. stavka 1. i članka 48. Zakona o sudskim pristojbama ("Narodne novine", broj 74/95.).
+III. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 9., članka 13. stavka 2., članka 15. stavaka 2. i 4. i članka 38. Zakona o sudskim pristojbama ("Narodne novine", broj 74/95.) te tarifnih brojeva 33., 34. i 41. Tarife sudskih pristojbi.
+IV. Obustavlja se postupak u povodu prijedloga Luje Medvidovića za pokretanje postupka za ocjenu suglasnosti s Ustavom Zakona o sudskim pristojbama ("Narodne novine", broj 74/95.) i prijedloga Dragutina Hamiltona za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 15. Zakona o sudskim pristojbama ("Narodne novine", broj 74/95.).
+V. Odbacuju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 13. stavka 3. Zakona o sudskim pristojbama ("Narodne novine", broj 74/95.).
