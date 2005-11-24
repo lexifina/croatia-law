@@ -1,0 +1,8 @@
+I.
+U platnom prometu s inozemstvom obvezno se primjenjuju troznamenkaste brojčane oznake šifara osnova naplate i plaćanja, u skladu s knjigovodstvenim tretmanom istovrsnog prihoda ili troška u knjigovodstvenim ispravama nalogodavatelja odnosno korisnika naplate. U slučaju kada nalogodavatelj ili korisnik naplate nije obveznik vođenja knjigovodstvenih isprava, šifra osnova naplate ili plaćanja određuje se temeljem pisane izjave nalogodavatelja odnosno korisnika naplate. Oznake šifara osnova unose se kao obavezan podatak u odgovarajuće polje platnih naloga definiranih Uputom o provedbi Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom. Šifre osnova naplate i plaćanja, kao i njihovi opisi sastavni su dio ove upute. Za ispravnost primjene šifara osnova naplate i plaćanja u platnom prometu s inozemstvom odgovoran je nalogodavac (korisnik) plaćanja (naplate).
+Navedene šifre osnova i njihovi opisi pripremljeni su u skladu s Vodičem platnobilančnih šifara za standardne komponente i dopunske pozicije (Guide to the Balance of Payments Codes for Standard Components and Additional Items) Međunarodnoga monetarnog fonda iz 1999. godine.
+II.
+Početkom primjene ove upute prestaju se primjenjivati šifre osnova u platnom prometu s inozemstvom s pripadajućim opisima, definirane Uputom o provedbi Odluke o načinu obavljanja platnog prometa s inozemstvom i načinu dostavljanja podataka o platnom prometu s inozemstvom, Prilog br. 8 pod I. (»Narodne novine«, br. 35/1996., 72/1999., 30/2000. i 77/2001.).
+III.
+Ova uputa stupa na snagu osmog dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. travnja 2006.
+O. br.: 424-020/11-05/ŽR
