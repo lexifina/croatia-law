@@ -1,0 +1,4 @@
+## Automatska i mehanička oprema
+# Članak 27.
+(1) Posjednik mora osigurati pregled automatske i mehaničke opreme u objektima jednom dnevno. Uočeni kvarovi moraju biti odmah otklonjeni, a ako to nije moguće treba osigurati odgovarajuće mjere za osiguranje zdravlja i dobrobiti životinja. Dok se kvar ne popravi moraju biti osigurane alternativne metode radi održavanja zdravlja i zaštite životinja.
+(2) U slučaju umjetnog prozračivanja objekata mora biti osiguran alarmni sustav koji osobu koja se brine za životinje upozorava na kvar u sustavu za prozračivanje. Alarmni sustav mora biti redovno održavan i provjeravan u skladu sa uputama proizvođača. Mora biti osiguran i alternativni sustav prozračivanja koji je, do uklanjanja kvara na glavnom sustavu, dovoljan za očuvanje zdravlja i zaštitu životinja.

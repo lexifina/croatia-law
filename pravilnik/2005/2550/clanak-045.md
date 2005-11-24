@@ -1,0 +1,4 @@
+## Odjeljci i oprema
+# Članak 45.
+(1) Odjeljke i opremu koji se koriste za svinje treba redovno čistiti i dezinficirati.
+(2) Feces i mokraću te nepojedenu ili razbacanu hranu treba redovno odstranjivati.

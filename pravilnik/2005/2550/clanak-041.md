@@ -1,0 +1,3 @@
+## Buka
+# Članak 41.
+U objektima u kojima se drže svinje buka ne smije biti viša od 85 dB. Treba izbjegavati stalnu ili iznenadnu buku.
