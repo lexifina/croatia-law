@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice (»Narodne novine«, broj 134/98., 23/99., 138/99., 98/00. i 9/03.), u članku 1. točki 1., članku 2. točki 1., članku 5. točki 1., članku 8. točki 1. i članku 10. točki 1., iza riječi »društvenog«, dodaju se riječi: »ili humanističkog«.
