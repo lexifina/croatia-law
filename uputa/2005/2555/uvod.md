@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) te točke XVII. Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom (»Narodne novine«, br. 88/2005.) guverner Hrvatske narodne banke donosi
