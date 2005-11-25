@@ -1,0 +1,2 @@
+# Članak 19.
+Godišnja osnovica za obračun doprinosa, prema članku 23.c Zakona, za obveznika doprinosa po osnovi »druga djelatnost« je dohodak od te djelatnosti iskazan u godišnjoj prijavi poreza na dohodak odnosno dohodak utvrđen u postupku utvrđivanja osnovice poreza na dohodak, prema propisima o porezu na dohodak, ali ne može iznositi više od umnoška prosječne plaće i koeficijenta 0,65 te brojke 12, odnosno više od 48.352,20 kuna.
