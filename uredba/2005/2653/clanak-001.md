@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o tržnom redu za pšenicu u 2005. godini (»Narodne novine«, broj 86/2005), u članku 15. stavak 3. mijenja se i glasi:
+»3) Sredstva za potporu trženju pšenice iz stavka 2. ovog članka osiguravaju se iz proračuna Republike Hrvatske, s proračunske stavke Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva, pozicija A568050 - Intervencije Ravnateljstva za tržišnu i strukturnu potporu u poljoprivredi u iznosu od 14.000.000,00 kuna i s naslova povrata sredstava ranije plasiranih kredita putem Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva, unutar razdjela Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva u iznosu od 31.300.000,00 kuna«.
