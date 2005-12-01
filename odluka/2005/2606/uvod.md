@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03) članka 26. Statuta općine Jakovlje (Službeni glasnik općine Jakovlje broj 6/01), Općinsko vijeće općine Jakovlje na 4. sjednici održanoj dana 3. studenoga 2005. godine donijelo je
