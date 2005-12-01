@@ -1,0 +1,1 @@
+Na temelju članka 29. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 15. u vezi sa člancima 20. i 29. Zakona o strancima (»Narodne novine«, br. 109/2003 i 182/2004), Vlada Republike Hrvatske je na sjednici održanoj 21. listopada 2005. godine donijela
