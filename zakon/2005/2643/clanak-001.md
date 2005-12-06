@@ -1,0 +1,4 @@
+## I. TEMELJNE ODREDBE
+## Sadržaj zakona
+# Članak 1.
+Ovim se Zakonom uređuje proizvodnja, promet i uvoz šumskoga reprodukcijskog materijala (u daljnjem tekstu: reprodukcijski materijal), proizvodnja i promet božićnih drvaca, uvjeti koje moraju zadovoljavati dobavljači reprodukcijskog materijala i božićnih drvaca (u daljnjem tekstu: dobavljači) u postupku upisa u upisnike, postupak upisa sjemenskog objekta u Registar šumskih sjemenskih objekata (u daljnjem tekstu: Registar), uspostava i korištenje rezervi sjemenskog materijala, genetska banka šumskog drveća i sjemenska banka, osnivanje povjerenstva za reprodukcijski materijal, dobivanje, korištenje i izmjena podataka i informacija, troškove vezane uz provedbu mjera propisanih ovim Zakonom, tijela nadležna za provedbu ovoga Zakona, te nadzor nad njegovom provedbom.

@@ -1,0 +1,5 @@
+## Opći uvjeti proizvodnje
+# Članak 7.
+(1) Za proizvodnju reprodukcijskog materijala koriste se samo oni šumski sjemenski objekti (u daljnjem tekstu: sjemenski objekti), koji su u skladu s odredbama ovoga Zakona upisani u Registar kojega uspostavlja i vodi središnje tijelo državne uprave za poslove poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo).
+(2) Iznimno, reprodukcijski materijal iz kategorije »poznato podrijetlo« kojega šumoposjednici dobivaju iz vlastite šume i sami ga proizvode za korištenje u vlastitoj šumi, mogu ga koristiti u istoj ili susjednoj šumskoj sastojini iz kojeg je reprodukcijski materijal bio prvobitno dobiven samo uz prethodno pribavljeno stručno mišljenje Šumarske savjetodavne službe.
+(3) U slučaju da planovi gospodarenja iz članka 32. ovoga Zakona ne sadrže uvjete zaštite prirode, za prikupljanje reprodukcijskog materijala na zaštićenim područjima koja su proglašena zaštićenim prema posebnim propisima, potrebno je ishoditi dopuštenje ministarstva nadležnog za poslove zaštite prirode, odnosno nadležnog ureda državne uprave, ovisno o kategoriji zaštite.

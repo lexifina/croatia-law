@@ -1,0 +1,5 @@
+## Uvoz u slučaju pomanjkanja reprodukcijskog materijala
+# Članak 37.
+(1) Kad je na teritoriju Republike Hrvatske zbog pomanjkanja odgovarajućeg reprodukcijskog materijala ugrožena opskrba krajnjih korisnika reprodukcijskog materijala, može se uvoziti i reprodukcijski materijal koji ne odgovara svim uvjetima za stavljanje u promet u skladu s ovim Zakonom.
+(2) Ministar na prijedlog dobavljača, a na temelju mišljenja Povjerenstva iz članka 42. ovoga Zakona rješenjem odobrava uvoz reprodukcijskog materijala iz stavka 1. ovoga članka, u kojem se podrobno navode naziv svojte, odnosno križanca, kategorija reprodukcijskog materijala, namjena korištenja, količina, podrijetlo reprodukcijskog materijala i rok do kojeg se smije ovaj reprodukcijski materijal stavljati u promet na teritoriju Republike Hrvatske.
+(3) U prometu reprodukcijskim materijalom, koji je uvezen u skladu sa stavkom 1. ovoga članka, u dokumentu dobavljača mora biti navedeno: »Ne ispunjava sve propisane uvjete«, a iz podataka u dokumentu mora se vidjeti koje uvjete materijal ne ispunjava.
