@@ -1,0 +1,2 @@
+# Članak 11.
+Ukoliko Trgovačko društvo i šumoposjednici, te pravne osobe koje koriste šumu ili šumsko zemljište ne izvrše mjere naređene na osnovi ovoga Zakona i na osnovi njega donesenih propisa, kao i na temelju posebnih propisa, ove će mjere provesti tijelo koji ih je naredilo ili pravna osoba koju ono ovlasti, na trošak Trgovačkog društva, šumoposjednika ili pravne osobe koja koristi šumu ili šumsko zemljište, a bila je dužna izvršiti naređene mjere.

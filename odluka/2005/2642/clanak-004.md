@@ -1,0 +1,6 @@
+# Članak 4.
+(1) U smislu ovoga Zakona, šumom se smatra zemljište obraslo šumskim drvećem u obliku sastojine na površini većoj od 10 ari.
+(2) Šumom se smatraju i: šumski rasadnici i sjemenske plantaže koje su sastavni dio šume, šumska infrastruktura, protupožarni prosjeci te ostala manja otvorena područja unutar šume, šume u zaštićenim područjima prema posebnom propisu, šume od posebnoga ekološkoga, znanstvenoga, povijesnog ili duhovnog interesa, vjetrobrani i zaštitne zone - zaštitni pojasevi drveća površine veće od 10 ari i širine veće od 20 m.
+(3) Šumom se ne smatraju odvojene skupine šumskoga drveća na površini do 10 ari, šumski rasadnici i sjemenske plantaže koje nisu sastavni dio šume, vjetrobrani i zaštitne zone - zaštitni pojasevi drveća površine manje od 10 ari i širine manje od 20 m, drvoredi i parkovi u naseljenim mjestima.
+(4) Šumskim zemljištem, u smislu ovoga Zakona, smatra se zemljište na kojem se uzgaja šuma ili koje je radi svojih prirodnih obilježja i uvjeta gospodarenja predviđeno kao najpovoljnije za uzgajanje šuma.
+(5) U slučaju sumnje ili spora smatra li se neko zemljište obraslo šumskim drvećem šumom, odnosno smatra li se neko zemljište šumskim zemljištem odlučuje središnje tijelo državne uprave nadležno za poslove šumarstva (u daljnjem tekstu: Ministarstvo).

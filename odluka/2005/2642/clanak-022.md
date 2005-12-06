@@ -1,0 +1,8 @@
+# Članak 22.
+(1) Šumskogospodarske planove, njihovu obnovu ili reviziju odobrava Ministarstvo, i to za šume u vlasništvu Republike Hrvatske na prijedlog Trgovačkog društva, a za šume šumoposjednika na prijedlog Šumarske savjetodavne službe.
+(2) Osnova područja odobrava se na temelju mišljenja stručnoga povjerenstva o njezinoj usklađenosti s Nacionalnim šumarskim programom i prostornim planovima županija, a za dio Osnove područja koji se odnosi na šume s posebnom namjenom, uz mišljenje tijela državne uprave koja ih koriste.
+(3) Osnove i programi gospodarenja odobravaju se na temelju mišljenja stručnoga povjerenstva o njihovoj usklađenosti s Osnovom područja i odredbama ovoga Zakona.
+(4) Stručno povjerenstvo iz stavka 2. ovoga članka osniva ministar, a članove imenuje iz reda šumarskih stručnjaka i predstavnika ministarstva nadležnog za zaštitu okoliša i prostorno planiranje i predstavnika ministarstva nadležnog za zaštitu prirode, a za stručno povjerenstvo iz stavka 3. ovoga članka iz reda šumarskih stručnjaka.
+(5) Trgovačko društvo i Šumarska savjetodavna služba dužni su izrađivati šumskogospodarske planove i redovito ih obnavljati ili revidirati.
+(6) Troškovi izrade, obnove ili revizije šumskogospodarskih planova za šume u vlasništvu Republike Hrvatske i troškovi rada stručnog povjerenstva iz stavka 3. ovoga članka terete Trgovačko društvo, a troškovi izrade, obnove ili revizije programa gospodarenja šumoposjednika i troškovi rada stručnog povjerenstva iz stavka 3. ovoga članka terete Šumarsku savjetodavnu službu.
+(7) Trgovačko društvo i Šumarska savjetodavna služba dužni su voditi propisane evidencije za osnove, odnosno programe gospodarenja.

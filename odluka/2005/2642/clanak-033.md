@@ -1,0 +1,5 @@
+# Članak 33.
+(1) Iznimno od odredaba članka 32. ovoga Zakona, pod uvjetom da nije u suprotnosti sa šumskogospodarskim planovima i posebnim propisima, Trgovačko društvo može u šumama u vlasništvu Republike Hrvatske predvidjeti za svoje potrebe i za potrebe građana uz naknadu sakupljanje šumskih proizvoda, iskorištavanje humusa i smolarenje, a pašarenje i žirenje u šumama i na šumskim zemljištima, osim u prebornim šumama, plantažama i regularnim šumama za trajanja obnove i rasta mladika i kultura u prvomu dobnom razredu, uz obvezatno čuvanje stoke.
+(2) Trgovačko društvo utvrđuje vrstu šumskih proizvoda, visinu naknade za sakupljanje te uvjete pod kojima ih građani mogu sakupljati, kao i način korištenja šume za odmor i rekreaciju općim aktom.
+(3) Općim aktom iz stavka 2. ovoga članka, u skladu sa šumskogospodarskim planom, Trgovačko društvo iznimno može predvidjeti određene površine degradiranih šuma i šikara na kojima se može dopustiti brst pod uvjetima da takve površine čine cjelovit kompleks od najmanje 2 ha po grlu i uz obvezatno čuvanje stoke.
+(4) Opći akt iz stavka 2. ovoga članka donosi Trgovačko društvo, uz prethodnu suglasnost Ministarstva.
