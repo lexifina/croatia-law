@@ -1,0 +1,7 @@
+## Prethodno obvezujuće mišljenje Agencije
+# Članak 10.
+(1) Ministarstva i druga tijela državne uprave, prije upućivanja nacrta prijedloga zakona koji sadrže državne potpore Vladi Republike Hrvatske, dužna su dostaviti prijedlog državne potpore Agenciji na prethodno obvezujuće mišljenje.
+(2) Mišljenje Agencije iz stavka 1. ovoga članka dostavlja se Vladi Republike Hrvatske i Hrvatskom saboru zajedno s nacrtom prijedloga zakona koji sadrži prijedlog državne potpore.
+(3) Nacrti prijedloga akata iz stavka 1. ovoga članka koji se dostave u postupak Vladi Republike Hrvatske i Hrvatskom saboru bez pozitivnog mišljenja Agencije iz stavka 1. ovoga članka vraćaju se predlagatelju na doradu.
+(4) Prijedloge akata iz stavka 1. ovoga članka koji sadrže prijedlog državne potpore Vlada Republike Hrvatske ne može donijeti bez pozitivnog mišljenja Agencije.
+(5) Prethodno obvezujuće mišljenje iz stavka 1. ovoga članka Agencija donosi u roku od 30 dana od dana primitka prijedloga akta iz stavka 1. ovoga članka. Ako Agencija u ovome roku ne donese ovo mišljenje, predmetni predlagatelj prijedloga akta predmnijeva da je Agencija donijela pozitivno mišljenje te obavještava Agenciju o istome. Predlagatelj akta može dostaviti prijedlog akta u postupak Vladi Republike Hrvatske zajedno s predmetnom obavijesti ako u roku od 15 radnih dana od dostave navedene obavijesti Agenciji Agencija ne donese ovo mišljenje.

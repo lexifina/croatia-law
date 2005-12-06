@@ -1,0 +1,6 @@
+## Dostava podataka i isprava
+# Članak 9.
+(1) Agencija je ovlaštena u svrhu postupka odobravanja državne potpore od davatelja državne potpore i/ili korisnika državne potpore pisanim aktom zahtijevati sve podatke i isprave koje smatra potrebnima za provedbu toga postupka.
+(2) Davatelj državne potpore i/ili korisnik državne potpore dužni su pisanim putem u roku koji odredi Agencija, a koji ne može biti kraći od 8 dana niti dulji od 30 dana, dostaviti Agenciji sve tražene podatke i isprave iz stavka 1. ovoga članka.
+(3) Ako i nakon ponovljenog zahtjeva iz stavka 1. ovoga članka davatelj državne potpore i/ili korisnik državne potpore ne dostavi tražene podatke i isprave, smatra se da je davatelj državne potpore povukao prijedlog za odobravanje državne potpore i o tome Agencija donosi zaključak.
+(4) Ako i nakon ponovljenog zahtjeva iz stavka 1. ovoga članka davatelj državne potpore ne dostavi tražene podatke i isprave uz pisano obrazloženje u kojem smatra da je prijedlog za odobravanje državne potpore potpun budući traženi podaci i isprave ne postoje ili su već dostavljene Agenciji, Agencija postupa u roku iz članka 13. stavka 1. ovoga Zakona koji započinje danom primitka ovog obrazloženja.
