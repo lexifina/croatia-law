@@ -1,0 +1,2 @@
+# Članak 47.
+Izrada lovnogospodarske osnove, programa uzgoja divljači ili programa zaštite divljači te njihove revizije može se povjeriti pravnoj osobi koja je registrirana za tu djelatnost i ima zaposlenog djelatnika sa završenim šumarskim fakultetom šumarskog smjera, agronomskim i veterinarskim fakultetom s položenim kolegijem iz lovstva ili fizičkoj osobi s navedenom stručnom spremom s položenim stručnim ispitom te koji je ovlašten za poslove lovstva.

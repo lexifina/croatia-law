@@ -1,0 +1,3 @@
+# Članak 52.
+(1) Zabranjeno je loviti i uznemiravati ženku dlakave divljači kad je visoko bređa ili dok vodi sitnu mladunčad te pernatu divljač kad sjedi na jajima i dok hrani mladunčad; za vrijeme hibernacije; uništavanje i prisvajanje mladunčadi te uništavanje i oštećivanje legla, gnijezda i jaja divljači.
+(2) Iznimno od stavka 1. ovoga članka lovoovlaštenik može dopustiti za potrebe znanosti, nastave, lovne obuke ptica grabljivica, zooloških vrtova, muzeja te sokolarskih i kinoloških priredbi, uz prethodno dopuštenje Ministarstva, u granicama tih potreba, lov divljači i njihove mladunčadi u vrijeme kad je lov zabranjen, oštećivanje legla i gnijezda te sakupljanje jaja.

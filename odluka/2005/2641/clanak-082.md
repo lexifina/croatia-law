@@ -1,0 +1,3 @@
+# Članak 82.
+(1) Radi zdravstvene zaštite ljudi i životinja, županija, odnosno Grad Zagreb, lovoovlaštenik, pravne i fizičke osobe koje obavljaju djelatnosti poljoprivrede i šumarstva dužne su organizirati smanjivanje broja divljači na ugroženim područjima na podnošljiv broj, odnosno sudjelovati u tome.
+(2) U lovištu i na površini izvan lovišta na kojoj je proglašena zarazna bolest ili se može očekivati njezina pojava, lovoovlaštenik ili osoba koja zaštićuje divljač obvezatna je osigurati provedbu mjera u skladu s propisima o zdravstvenoj zaštiti životinja, uz obavještavanje nadležne veterinarske službe, dok takva zaraza ili opasnost od njezina širenja traje.

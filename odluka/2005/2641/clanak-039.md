@@ -1,0 +1,6 @@
+# Članak 39.
+(1) Na temelju odluke o izboru najpovoljnije ponude, ministar i lovozakupnik sklapaju ugovor o zakupu državnog lovišta u pisanom obliku.
+(2) Ugovor iz stavka 1. ovoga članka može se na zahtjev lovozakupnika produljiti najranije u predzadnjoj lovnoj godini, a najkasnije u roku od 90 dana prije isteka ugovora i to jednokratno, za isto razdoblje ako je lovozakupnik provodio mjere i radnje propisane ugovorom i ovim Zakonom.
+(3) Iznimno u slučajevima investicijskih ulaganja u lovnotehničke i lovnogospodarske objekte na državnom zemljištu i u državnom lovištu u skladu s lovnogospodarskom osnovom, koje lovoovlaštenik ne može amortizirati za vrijeme važenja ugovora, Ministarstvo može na zahtjev lovoovlaštenika izmijeniti ugovorni odnos zakupa državnog lovišta u koncesiju, na način opisan u članku 21. stavku 2. ovoga Zakona.
+(4) Sva investicijska ulaganja iz stavka 3. ovoga članka u državnom lovištu postaju vlasništvo Republike Hrvatske nakon prestanka koncesije, odnosno zakupa po bilo kojoj osnovi.
+(5) Odredbe članka 23., stavka 2., 4. i stavka 5. točke 2., 3., 4. i 5., članka 24., 25. i 29. stavka 2. i 3., članka 30., 31., 32., 33. i 34. ovoga Zakona, odgovarajuće se primjenjuju na zakup državnih lovišta.

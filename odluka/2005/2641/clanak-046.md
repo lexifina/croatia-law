@@ -1,0 +1,4 @@
+# Članak 46.
+(1) Lovnogospodarska osnova, program uzgoja divljači i program zaštite divljači moraju biti u skladu s osnovama gospodarenja gospodarskim jedinicama i programima za gospodarenje šumama, uvjetima i načinom iskorištavanja poljoprivrednog zemljišta, vodoprivrednom osnovom, dokumentima prostornog uređenja, odnosno posebnim propisima iz područja prostornog uređenja i zaštite okoliša i potpisanim međunarodnim ugovorima iz područja lova, zaštite prirode i prirodnih staništa divljači te odredbama propisa o zaštiti prirode.
+(2) Provedba lovnogospodarske osnove, programa uzgoja divljači i programa zaštite divljači obveza je lovoovlaštenika prava lova, odnosno pravnih i fizičkih osoba koje zaštićuju divljač na površinama izvan lovišta.
+(3) Sadržaj, način izrade i postupak donošenja, odnosno odobravanja lovnogospodarske osnove, programa uzgoja divljači i programa zaštite divljači propisuje ministar uz prethodno mišljenje ministra nadležnog za zaštitu prirode.

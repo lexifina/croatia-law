@@ -1,0 +1,2 @@
+# Članak 81.
+Ministarstvo može donijeti naredbu o zabrani lova ili smanjenju brojnog stanja pojedine vrste divljači koja ugrožava zdravlje ljudi, stoke, druge divljači ili čini drugu štetu, a na zahtjev korisnika zemljišta donijeti rješenje o smanjenju brojnog stanja pojedine vrste divljači koja čini veliku štetu ako mjere predviđene u članku 75., 76. i 77. ovoga Zakona nisu dovoljno uspješne ili ne bi bile gospodarski opravdane.

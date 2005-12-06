@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Privatna lovišta i privatna uzgajališta divljači, kao i promjene granica tih lovišta i uzgajališta, ustanovljuje županijska skupština, odnosno Gradska skupština Grada Zagreba (u daljnjem tekstu: nadležno tijelo), uz prethodnu suglasnost Ministarstva.
+(2) Ako vlasnik zemljišta iz stavka 1. ovoga članka želi koristiti pravo lova u privatnom lovištu ili privatnom uzgajalištu divljači, podnijet će pisani zahtjev za ustanovljenje privatnog lovišta ili uzgajališta divljači nadležnom tijelu na području na kojem se nalazi zemljište, odnosno veći dio zemljišta. Zahtjev se podnosi najkasnije do 1. veljače za narednu lovnu godinu.
+(3) Uz pisani zahtjev iz stavka 2. ovoga članka, prilažu se isprave kojima se dokazuje pravo vlasništva na zemljištu i dokazi o ispunjavanju uvjeta iz članka 13. stavka 1., 2. i 3., članka 23. stavka 5. točke 2., 3., 4. i 5. i stavka 6. i 7. ovoga Zakona.
+(4) Vlasnik zemljišta stječe pravo lova danom dobivanja suglasnosti na lovnogospodarsku osnovu privatnog lovišta ili na program uzgoja divljači u privatnom uzgajalištu divljači.

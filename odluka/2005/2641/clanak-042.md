@@ -1,0 +1,6 @@
+# Članak 42.
+(1) Lovnogospodarska osnova jest desetogodišnji planski akt za gospodarenje lovištem kojim se utvrđuje gospodarenje za razdoblje od dana davanja suglasnosti na lovnogospodarsku osnovu do 31. ožujka desete lovne godine.
+(2) Lovnogospodarska osnova temelji se na brojnom stanju svih vrsta divljači koje stalno ili sezonski žive u lovištu i na broju divljači koja se može uzgajati u lovištu, vodeći računa o prisutnosti zaštićene faune, ne narušavajući pritom prirodne odnose među vrstama.
+(3) Brojno stanje divljači i struktura populacije koja se uzgaja, odnosno može uzgajati u lovištu, mora se postići u roku utvrđenom lovnogospodarskom osnovom, koji ne može biti duži od pet godina za sitnu, a deset godina za krupnu divljač.
+(4) Planiranje odstrjela divljači mora biti u skladu s brojnim stanjem, dobnom i spolnom strukturom divljači u lovištu i potrebama za opstanak zaštićene faune.
+(5) Iznimno od stavka 2. i 3. ovoga članka, u slučajevima kada se za uzgoj, zaštitu i korištenje pojedinih vrsta divljači donesu posebni nacionalni i akcijski planovi gospodarenja, s tim vrstama divljači gospodarit će se u skladu s navedenim planovima bez obzira na propis važećih lovnogospodarskih osnova.

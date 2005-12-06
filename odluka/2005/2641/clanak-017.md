@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Ako vlasnik zemljišta ne podnese zahtjev za ustanovljenje privatnog lovišta ili uzgajališta divljači u roku iz članka 16. stavka 2. ovoga Zakona ili odbije primiti enklave ili poluenklave pod uvjetima iz članka 13. stavka 3. i članka 14. ovoga Zakona, njegovo će se zemljište obuhvatiti državnim ili zajedničkim lovištem.
+(2) Ako se privatno lovište ili uzgajalište divljači prodajom, diobom ili kojim drugim načinom izmijeni tako da više nije prirodna cjelina ili ne ispunjava uvjete propisane člankom 9. stavkom 1., člankom 10. ili člankom 13. stavkom 1. ovoga Zakona, nadležno tijelo po službenoj dužnosti pripojit će njegove površine lovištu, odnosno lovištima prema odredbama članka 9. stavka 1. i članka 11. ovoga Zakona.
+(3) Spajanjem dvaju ili više zemljišta raznih vlasnika ne može se ostvariti pravo na ustanovljenje privatnog lovišta ili uzgajališta divljači.

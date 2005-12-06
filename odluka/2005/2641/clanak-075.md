@@ -1,0 +1,3 @@
+# Članak 75.
+(1) Mjere za sprječavanje štete od divljači jesu: smanjivanje broja divljači do brojnog stanja koje se može uzgajati u lovištu, osiguravanje dovoljno vode i hrane za divljač u lovištu, čuvanje usjeva i nasada, izgon divljači s ugroženog zemljišta, ograđivanje zemljišta te uporaba mehaničkih, električnih i kemijskih zaštitnih sredstava, vidljivih i zvučnih plašila, elektronskih detektora divljači kao i ostale uobičajene mjere zaštite za određeno područje i vrstu divljači.
+(2) Nadležno tijelo utvrđuje uobičajene mjere iz stavka 1. ovoga članka za područje županije, odnosno Grada Zagreba.

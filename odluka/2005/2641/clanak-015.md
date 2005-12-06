@@ -1,0 +1,6 @@
+# Članak 15.
+(1) Državna lovišta ustanovljuje ministar odlukom o ustanovljenju državnog lovišta ili uzgajališta divljači na prijedlog stručne komisije Ministarstva.
+(2) Do stjecanja prava lova u državnom lovištu ili uzgajalištu divljači, u skladu s ovim Zakonom, Ministarstvo će povjeriti izvršavanje prava lova i/ili izvršavanje mjera uzgoja i zaštite divljači u tim lovištima pravnoj ili fizičkoj osobi koja koristi zemljište u državnom vlasništvu, znanstvenoistraživačkim i znanstvenonastavnim ustanovama, odnosno pravnim osobama od interesa za Republiku Hrvatsku.
+(3) S pravnom osobom iz stavka 2. ovoga članka, a kojoj je povjereno izvršavanje prava lova, Ministarstvo može sklopiti ugovor direktnom pogodbom na 30 lovnih godina, na temelju kojeg će biti određene obveze i prava potpisnika ugovora.
+(4) S pravnom ili fizičkom osobom koje su stekle pravo lova na temelju zakupa ili koncesije, ministar sklapa ugovor, kojim će se odrediti prava i obveze između potpisnika ugovora.
+(5) U uzgajalištima divljači na zemljištu u vlasništvu Republike Hrvatske iz članka 10. stavka 6. ovoga Zakona, izvršavanje prava lova Ministarstvo može povjeriti korisniku zemljišta uz naknadu koja se utvrđuje sukladno odredbama članka 22. ovoga Zakona.
