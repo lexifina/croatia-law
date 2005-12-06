@@ -1,0 +1,6 @@
+# Članak 43.
+(1) Sadni materijal stavlja se na tržište u ujednačenim partijama, originalno pakiran i plombiran, označen certifikatom o sadnom materijalu na pakiranju i mora ga pratiti certifikat o sadnom materijalu uz otpremnicu u boji propisanoj za kategoriju sadnog materijala.
+(2) Ministar će propisati odstupanja od odredbi iz stavka 1. ovoga članka za sadnice zasađene u posudama, košarama ili sanducima.
+(3) U slučaju stavljanja na tržište genetski modificirane sorte sadnog materijala na certifikatu o sadnom materijalu na pakiranju i uz otpremnicu te na svim ostalim službenim i neslužbenim dokumentima, koji su pričvršćeni ili koji prate sadni materijal mora se jasno i uočljivo navesti da je sorta sadnog materijala genetski modificirana, isticanjem riječi »genetski modificirani organizam«.
+(4) U slučaju prodaje sadnog materijala na malo na mjestu proizvodnje neprofesionalnom krajnjem korisniku zahtjevi iz stavka 1. ovoga članka, koji se odnose na označavanje, mogu se pojednostaviti.
+(5) Način pakiranja, plombiranja i označavanja sadnog materijala iz stavka 1. ovoga članka i način označavanja iz stavka 4. ovoga članka za pojedine vrste bilja i njihove kategorije propisat će ministar.

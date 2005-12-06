@@ -1,0 +1,9 @@
+# Članak 47.
+(1) Uvoz sadnog materijala može obavljati uvoznik sadnog materijala koji je upisan i registriran u Upisniku dobavljača sadnog materijala.
+(2) Sadni materijal može se uvoziti i staviti na tržište ako je sorta upisana u Sortnu listu Republike Hrvatske za vrste bilja za koje je Sortna lista Republike Hrvatske obvezna i ako je istovjetan sadnom materijalu proizvedenom prema ovome Zakonu.
+(3) Sadni materijal podrijetlom iz trećih zemalja koji se uvozi istovjetan je sadnom materijalu proizvedenom prema ovom Zakonu ako propisi države u kojoj je sadni materijal proizveden s obzirom na uvjete kvalitete, uvjete i način provođenja stručnog nadzora, odnosno nadzora dobavljača, te obveze dobavljača i ukupna primjena tih propisa, osiguravaju da je takav sadni materijal u skladu sa zahtjevima koji su propisani ovim Zakonom.
+(4) Zavod će po nalogu Ministarstva ili vlastitoj procjeni ili na prijedlog uvoznika provjeriti jesu li ispunjeni uvjeti za priznavanje istovjetnosti proizvedenoga sadnog materijala u drugoj državi.
+(5) Uvoz sadnog materijala iz trećih zemalja može se odobriti ako za to postoji suglasnost nadležnog tijela Zajednice da je sadni materijal proizveden u trećoj zemlji istovjetan sadnom materijalu proizvedenom prema ovome Zakonu.
+(6) Sadni materijal iz trećih zemalja koji uveze druga država članica Zajednice uz suglasnost iz stavka 5. ovoga članka neće podlijegati nikakvim ograničenjima stavljanja na tržište prema ovom Zakonu.
+(7) Uvoznik sadnog materijala mora voditi evidenciju i dostaviti Zavodu izvješće o uvozu sadnog materijala.
+(8) Dokumente koji prilikom uvoza moraju pratiti sadni materijal i/ili biti na pakiranju, izdane od nadležnog tijela da bi se osigurala istovjetnost iz stavka 3. ovoga članka, uvjete za uvoz i stavljanje na tržište sadnog materijala u pogledu pakiranja, plombiranja i označavanja, kao i evidencije i izvješća o uvozu iz stavka 7. ovoga članka propisat će ministar.

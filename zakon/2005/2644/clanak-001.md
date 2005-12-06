@@ -1,0 +1,4 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom uređuje proizvodnja, stavljanje na tržište i uvoz poljoprivrednoga reprodukcijskog materijala, priznavanje sorti poljoprivrednog bilja, upis sorti poljoprivrednog bilja u sortne liste, održavanje sorti poljoprivrednog bilja, nadležnost pojedinih tijela u poslovima iz ovoga Zakona i propisa donesenih na temelju ovoga Zakona, inspekcijski nadzor kao i druga pitanja od značenja za provedbu jedinstvenog sustava poljoprivrednog sjemenarstva i rasadničarstva.
+(2) Na proizvodnju, stavljanje na tržište i uvoz genetski modificiranoga poljoprivrednoga reprodukcijskog materijala te priznavanje sorti genetski modificiranoga poljoprivrednoga reprodukcijskog materijala, primjenjuju se i odredbe Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/05.) te posebnih propisa koji reguliraju ovo područje.

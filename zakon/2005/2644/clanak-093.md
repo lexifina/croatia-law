@@ -1,0 +1,6 @@
+# Članak 93.
+(1) Novčanom kaznom od 100.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. ako stavlja na tržište sjeme genetski modificirane sorte, a da na certifikatu o sjemenu na pakiranju i na certifikatu o sjemenu koji prati sjeme na tržištu te na svim ostalim službenim i neslužbenim dokumentima, koji su pričvršćeni ili koji prate sjeme, nije jasno i uočljivo navedeno da je sjeme sorte genetski modificirano, isticanjem riječi »genetski modificirani organizam« (članak 24. stavak 1.),
+2. ako stavlja na tržište genetski modificiranu sortu sadnog materijala, a da na certifikatu o sadnom materijalu na pakiranju i na certifikatu koji prati sadni materijal na tržištu te na svim ostalim službenim i neslužbenim dokumentima, koji su pričvršćeni ili koji prate sadni materijal, nije jasno i uočljivo navedeno da je sorta sadnog materijala genetski modificirana, isticanjem riječi »genetski modificirani organizam« (članak 43. stavak 3.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 15.000,00 do 50.000,00 kuna.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba novčanom kaznom od 15.000,00 do 50.000,00 kuna.

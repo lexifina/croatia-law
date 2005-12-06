@@ -1,0 +1,8 @@
+# Članak 21.
+(1) Za određene vrste bilja i njihove kategorije sjemena za koje se provodi nadzor pod stručnom kontrolom, dobavljač je dužan čuvati uzorke sjemena i voditi evidenciju za svaku partiju sjemena koju stavlja na tržište.
+(2) Vrste bilja i kategorije sjemena na koje se odnosi odredba stavka 1. ovoga članka te uvjete o načinu provođenja nadzora i izdavanju certifikata o sjemenu za sjeme iz stavka 1. ovoga članka, način uzimanja i čuvanja uzoraka sjemena te vođenje evidencije iz stavka 1. ovoga članka propisat će ministar.
+(3) Iznimno od članka 20. stavka 1. ovoga Zakona, Zavod može izdati certifikat o sjemenu i sjeme se može staviti na tržište u slučaju:
+- kada kategorija osnovnog sjemena odstupa od propisanih minimalnih zahtjeva o klijavosti iz članka 19. stavka 6. ovoga Zakona. Dobavljač mora navesti i jamčiti određenu klijavost u cilju izdavanja certifikata o sjemenu, uz posebne uvjete vezane uz označavanje takvog sjemena,
+- kada certifikacija nije provedena s obzirom da sjeme nema konačnu analizu klijavosti ovlaštenog laboratorija, ali je izdano privremeno analitičko izvješće i dobavljač sjemena jamči klijavost navedenu u privremenom izvješću. Takvo sjeme može se u cilju osiguranja brže opskrbe sjemenom kategorija osnovno i certificirano, a kod određenih vrsta bilja i kategorije komercijalno, staviti na tržište do prvog kupca kojem je poznato ime i adresa, uz posebne uvjete vezane uz označavanje takvog sjemena.
+(4) Odredbe stavka 3. ovoga članka ne primjenjuju se na sjeme koje se uvozi i podrijetlom je iz trećih zemalja.
+(5) Način označavanja sjemena iz stavka 3. ovoga članka propisat će ministar.

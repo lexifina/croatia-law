@@ -1,0 +1,10 @@
+# Članak 23.
+(1) Sjeme se stavlja na tržište u ujednačenim partijama, originalno pakirano i označeno certifikatom o sjemenu na pakiranju u boji propisanoj za kategoriju sjemena, s time da je osigurana nepovredivost pakiranja.
+(2) Način i uvjete u vezi s pakiranjem, plombiranjem i označavanjem sjemena iz stavka 1. ovoga članka, za pojedine vrste bilja i njihove kategorije sjemena propisat će ministar.
+(3) Sjeme koje se stavlja na tržište pored certifikata o sjemenu iz stavka 1. ovoga članka, mora pratiti i certifikat o sjemenu uz otpremnicu u boji propisanoj za kategoriju sjemena.
+(4) Pored certifikata o sjemenu iz stavka 1. ovoga članka pakiranja sjemena mogu biti označena i certifikatom proizvođača.
+(5) Ako se osiguraju sve potrebne mjere u pogledu potvrđivanja identiteta sjemena u vrijeme kada se razdjeljuje partija, može se odobriti da se određene kategorije sjemena stavljaju na tržište kao sitno pakiranje, koje je originalno pakirano i plombirano pod stručnim nadzorom ili u okviru nadzora pod stručnom kontrolom.
+(6) U slučaju stavljanja na tržište sjemena pakiranog u sitna pakiranja, moguća su odstupanja od odredbi u pogledu pakiranja, plombiranja i označavanja iz stavka 1. i 2. ovoga članka.
+(7) Iznimno od odredbi stavka 1. i 2. ovoga članka, Zavod može ovlastiti dobavljače za stavljanje na tržište sitnih pakiranja mješavina, različitih vrsta i sorti sjemena povrća kategorije standardno sjeme.
+(8) Iznimno od odredbi stavka 1. i 2. ovoga članka, ministar može odobriti stavljanje na tržište malih količina sjemena koja su namijenjena krajnjem korisniku.
+(9) Obrazac certifikata o sjemenu te detaljne uvjete i način označavanja iz stavka 3. i 4. ovoga članka, iznimke vezane uz sitna pakiranja iz stavka 6. ovoga članka koje se odnose na način pakiranja, plombiranja i označavanja, veličinu sitnog pakiranja za pojedine vrste bilja, način i uvjete pakiranja, plombiranja i označavanja za sjeme iz stavka 7. ovoga članka, iznimke vezane uz pakiranja malih količina sjemena iz stavka 8. ovoga članka propisat će ministar.
