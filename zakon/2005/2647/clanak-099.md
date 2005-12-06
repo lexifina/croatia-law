@@ -1,0 +1,4 @@
+# Članak 99.
+Članak 243. mijenja se i glasi:
+»Pravna i odgovorna osoba u pravnoj osobi te fizička osoba kod koje se zatekne u posjedu roba, odnosno koja kupi, proda, preda drugom, primi na dar, prikrije, primi na čuvanje ili na prijevoz, upotrijebi ili primi po bilo kojoj drugoj osnovi robu za koju zna ili je prema okolnostima slučaja mogla znati da je riječ o robi koja je predmet prekršaja iz članka 240. i 241. ovoga Zakona, kaznit će se kao da je sama počinila prekršaj, istom kaznom koja je propisana za počinitelja prekršaja.
+Novčanom kaznom iz članka 240. stavka 2. i članka 241. stavka 2. ovoga Zakona, kaznit će se za prekršaj iz stavka 1. ovoga članka i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj počinila u vezi s obavljanjem njezina obrta ili druge samostalne djelatnosti.«

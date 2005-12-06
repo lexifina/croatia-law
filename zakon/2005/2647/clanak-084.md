@@ -1,0 +1,3 @@
+# Članak 84.
+Članak 216. mijenja se i glasi:
+»Ako je carinskim propisima predviđeno povoljnije carinsko postupanje s robom zbog njezine prirode ili uporabe u posebne svrhe ili potpuno ili djelomično oslobođenje od uvoznih ili izvoznih carina na temelju članka 22., 94., 153. ili 187. do 190. ovoga Zakona, takvo povoljnije postupanje ili oslobođenje također se primjenjuje u slučajevima kada je carinski dug nastao na temelju članka 205. do 208., 213. ili 214. ovoga Zakona, pod uvjetima da korisnik odobrenja za povoljnije postupanje ili oslobođenje nije postupao prijevarno ili s grubim nemarom te ako podnese dokaze o ispunjavanju ostalih uvjeta za primjenu povoljnijeg postupanja ili oslobođenja.«
