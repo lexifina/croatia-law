@@ -1,0 +1,5 @@
+# Članak 15.
+Podnaslov iznad članka 12. i članak 12. mijenjaju se i glase:
+»10. Odjel za politički sustav
+Članak 12.
+Odjel za politički sustav obavlja upravne i stručne poslove koji se odnose na sustav i ustrojstvo lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, teritorijalno ustrojstvo i organizacijski ustroj lokalnih i područnih (regionalnih) jedinica, provedbu referenduma i drugih oblika osobnog izjašnjavanja građana, ostvarivanje prava pripadnika nacionalnih manjina na zastupljenost u predstavničkim tijelima lokalnih i područnih (regionalnih) jedinica te decentralizaciju poslova, prati stanje i predlaže mjere za unapređenje ustrojstva lokalne i područne (regionalne) samouprave i izbornog sustava te područnog ustrojstva Republike Hrvatske, obavlja poslove vezane za izradu nacrta prijedloga zakona, provedbenih propisa i drugih akata iz područja političkog i izbornog sustava, analizira i daje prijedloge za usklađenje tih propisa sa standardima i pravom Europske unije te daje stručna mišljenja o provedbi propisa iz područja političkog i izbornog sustava.«
