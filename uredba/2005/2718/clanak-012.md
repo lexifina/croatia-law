@@ -1,0 +1,2 @@
+# Članak 12.
+Ako županije, Grad Zagreb, gradovi i općine koje financiraju decentralizirane funkcije, na godišnjoj razini, od dodatnog udjela poreza na dohodak i pomoći izravnanja, ostvare više sredstava nego je to utvrđeno minimalnim standardom, višak sredstava trebaju do 28. siječnja 2007. godine vratiti na račun Državnog proračuna Republike Hrvatske 21-7196 (Povrat neiskorištenih sredstava iz ranijih godina) - MB uplatitelja.
