@@ -1,0 +1,3 @@
+# Članak 4.
+Postupak odobravanja povoljnijeg tarifnog postupanja za određenu robu, za koju je ovom Uredbom propisana smanjena ili nulta stopa carine radi njezine uporabe u posebne svrhe, provodi se sukladno odgovarajućim odredbama Uredbe za provedbu Carinskog zakona.
+Roba za koju je odobreno povoljnije tarifno postupanje ostaje pod carinskim nadzorom sve dok se primjenjuju uvjeti utvrđeni za odobrenje smanjene ili nulte stope carine, dok se roba ne izveze ili uništi, ili se za nju odobri uporaba u druge svrhe od onih utvrđenih za primjenu smanjene ili nulte stope carine, uz uvjet da je plaćen carinski dug.
