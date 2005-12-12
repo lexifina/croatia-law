@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 1. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 121/03 i 48/05) i članka 12. stavka 1. Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta (»Narodne novine«, br. 6/96, 29/97, 1/98, 45/99, 121/99, 112/00, 87/02, 150/02 i 7/03), ministar zdravstva i socijalne skrbi donosi
