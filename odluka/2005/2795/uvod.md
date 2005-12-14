@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 58. stavka 2., a u vezi s člankom 56. Zakona o otpadu (»Narodne novine«, broj 178/2004), Vlada Republike Hrvatske je na sjednici održanoj 8. prosinca 2005. godine donijela
