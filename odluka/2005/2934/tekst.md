@@ -1,0 +1,657 @@
+I.
+Javni natječaj za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske raspisuje se za poljoprivredno zemljište koje se nalazi u Virovitičko-podravskoj županiji, na području Grada Slatine, a prema posjedovnom listu Područnog ureda za katastar Virovitica, Ispostava Slatina, Državne geodetske uprave, označeno je kao:
+k.o. Bistrica
+k.č.br.
+kultura
+klasa
+ha a m2
+naknada u kunama
+515/2
+ORANICA
+1
+35 61
+118,23
+516/1
+ORANICA
+1
+75 20
+249,66
+516/2
+ORANICA
+1
+37 58
+124,77
+516/3
+ORANICA
+1
+37 58
+124,77
+517/1
+ORANICA
+1
+34 28
+113,81
+517/2
+ORANICA
+1
+34 28
+113,81
+518
+ORANICA
+1
+68 55
+227,59
+519
+ORANICA
+1
+74 01
+245,71
+520/1
+ORANICA
+1
+37 84
+125,63
+520/2
+ORANICA
+1
+37 84
+125,63
+521/1
+ORANICA
+1
+37 84
+125,63
+521/2A
+ORANICA
+1
+18 92
+62,81
+521/2C
+ORANICA
+1
+9 46
+31,41
+522/1
+ORANICA
+1
+0 97
+3,22
+522/2
+ORANICA
+1
+0 83
+2,76
+522/3
+ORANICA
+1
+0 43
+1,43
+523/1
+ORANICA
+1
+45 75
+151,89
+523/2
+ORANICA
+1
+45 93
+152,49
+523/3
+ORANICA
+1
+46 32
+153,78
+524
+ORANICA
+1
+36 07
+119,75
+525
+ORANICA
+1
+35 72
+118,59
+526
+ORANICA
+1
+1 15
+3,82
+528
+ORANICA
+2
+6 73
+20,11
+529/1
+ORANICA
+2
+38 29
+114,41
+529/2
+ORANICA
+2
+30 27
+90,45
+530/1
+ORANICA
+3
+61 35
+162,95
+533
+ORANICA
+3
+5 97
+15,86
+534
+ORANICA
+3
+70 81
+188,07
+535
+ORANICA
+3
+83 29
+221,22
+536/2
+ORANICA
+3
+39 81
+105,74
+540/1
+ORANICA
+3
+35 53
+94,37
+540/2
+ORANICA
+3
+22 05
+58,56
+541
+ORANICA
+2
+77 25
+230,82
+542
+ORANICA
+2
+63 20
+188,84
+543
+ORANICA
+2
+68 08
+203,42
+544
+ORANICA
+2
+5 36
+16,02
+545
+ORANICA
+2
+5 65
+16,88
+546
+ORANICA
+2
+69 16
+206,65
+547/1
+ORANICA
+2
+37 12
+110,91
+547/2
+ORANICA
+2
+37 12
+110,91
+548/1
+ORANICA
+2
+2 88
+8,61
+548/2
+ORANICA
+2
+2 88
+8,61
+549/1
+ORANICA
+1
+61 53
+204,28
+549/2
+ORANICA
+1
+61 50
+204,18
+550
+ORANICA
+1
+83 09
+275,86
+551/2
+ORANICA
+1
+73 34
+243,49
+552
+ORANICA
+1
+70 38
+233,66
+554
+ORANICA
+1
+72 43
+240,47
+555/1
+ORANICA
+1
+71 94
+238,84
+555/2A
+ORANICA
+1
+35 97
+119,42
+555/2B
+ORANICA
+1
+35 97
+119,42
+556/2
+ORANICA
+1
+48 52
+161,09
+557/1
+ORANICA
+1
+35 82
+118,92
+557/2
+ORANICA
+1
+35 82
+118,92
+558
+ORANICA
+1
+74 81
+248,37
+560/1
+ORANICA
+1
+21 04
+69,85
+561/2
+ORANICA
+1
+27 84
+92,43
+562/1
+ORANICA
+1
+30 64
+101,72
+563/2
+ORANICA
+2
+34 10
+101,89
+564/5
+ORANICA
+3
+5 83
+15,48
+565/2
+ORANICA
+2
+31 22
+93,29
+569/1
+ORANICA
+3
+46 41
+123,26
+570
+PAŠNJAK
+4
+4 46
+5,12
+572
+PAŠNJAK
+4
+0 72
+0,83
+574
+PAŠNJAK
+2
+1 44
+2,13
+599/1
+ORANICA
+2
+49 89
+149,07
+599/2
+ORANICA
+2
+68 52
+204,74
+601/1
+ORANICA
+2
+37 92
+113,30
+601/2
+ORANICA
+2
+37 88
+113,19
+606/2
+ORANICA
+2
+6 25
+18,68
+607
+ORANICA
+2
+60 91
+182,00
+608/2
+ORANICA
+2
+29 98
+89,58
+610
+ORANICA
+2
+80 14
+239,46
+828/1
+ORANICA
+3
+1 02 43
+272,05
+828/1
+ORANICA
+4
+1 02 48
+238,16
+828/4
+ORANICA
+3
+31 83
+84,54
+828/4
+ORANICA
+4
+31 87
+74,07
+828/5
+ORANICA
+3
+0 14
+0,37
+828/5
+ORANICA
+4
+0 14
+0,33
+828/6
+ORANICA
+3
+0 11
+0,29
+828/6
+ORANICA
+4
+0 11
+0,26
+828/7
+ORANICA
+3
+32 73
+86,93
+828/7
+ORANICA
+4
+32 73
+76,06
+828/10
+ORANICA
+3
+2 10 40
+558,82
+828/10
+ORANICA
+4
+2 10 40
+488,97
+828/12
+ORANICA
+3
+6 76
+17,95
+828/12
+ORANICA
+4
+6 76
+15,71
+828/13
+ORANICA
+3
+98 73
+262,23
+828/13
+ORANICA
+4
+98 73
+229,45
+828/20
+ORANICA
+3
+14 13
+37,53
+828/20
+ORANICA
+4
+14 12
+32,81
+828/21
+ORANICA
+3
+14 19
+37,69
+828/21
+ORANICA
+4
+14 18
+32,95
+828/23
+ORANICA
+3
+1 30 23
+345,89
+828/23
+ORANICA
+4
+1 30 27
+302,75
+828/24
+ORANICA
+3
+1 11 96
+297,37
+828/24
+ORANICA
+4
+1 12 00
+260,29
+828/25
+ORANICA
+3
+18 27
+48,53
+828/25
+ORANICA
+4
+18 27
+42,46
+828/26
+ORANICA
+3
+7 23
+19,20
+828/26
+ORANICA
+4
+7 23
+16,80
+828/27
+ORANICA
+3
+78 51
+208,52
+828/27
+ORANICA
+4
+78 54
+182,53
+828/28
+ORANICA
+3
+44 42
+117,98
+828/28
+ORANICA
+4
+44 42
+103,23
+828/29
+ORANICA
+3
+50 68
+134,61
+828/29
+ORANICA
+4
+50 71
+117,85
+828/32
+ORANICA
+3
+75 63
+200,87
+828/32
+ORANICA
+4
+75 67
+175,86
+828/43
+ORANICA
+3
+19 60
+52,06
+828/43
+ORANICA
+4
+19 59
+45,53
+k.o. Sladojevci
+k.č.br.
+kultura
+klasa
+ha a m2
+naknada u kunama
+4
+ORANICA
+3
+19 69 55
+5.231,12
+5
+ORANICA
+2
+28 28 65
+8.452,01
+48
+ORANICA
+3
+37 34 89
+9.919,87
+49
+ORANICA
+3
+44 65 20
+11.859,57
+50
+ORANICA
+3
+39 98 50
+10.620,02
+91
+ORANICA
+2
+35 72 54
+10.674,75
+660
+ORANICA
+2
+12 91
+38,58
+661
+ORANICA
+2
+1 08 36
+323,78
+663
+ORANICA
+2
+1 14 15
+341,08
+667
+ORANICA
+2
+3 29 75
+985,29
+669
+ORANICA
+2
+1 80 89
+540,50
+676
+ORANICA
+2
+4 78 67
+1.430,27
+678
+ORANICA
+2
+3 79 48
+1.133,89
+680
+ORANICA
+3
+98 77
+262,33
+682
+ORANICA
+2
+4 07 43
+1.217,40
+683
+ORANICA
+3
+1 27 53
+338,72
+Sveukupna površina: 277 ha 54 a 74 m2.
+Sveukupna početna visina godišnje koncesijske naknade iznosi: 77.502,22 kune.
+II.
+Koncesija za korištenje poljoprivrednog zemljišta iz točke I. ove Odluke, kao proizvodno-tehnološke cjeline, može se dati pravnoj i fizičkoj osobi za biljnu i stočarsku proizvodnju na vrijeme od 30 godina, koja priloži dokaze o ispunjavanju uvjeta propisanih člankom 44. Zakona o poljoprivrednom zemljištu i člankom 4. Zakona o koncesijama (»Narodne novine«, broj 89/92).
+III.
+Postupak natječaja prema ovoj Odluci provest će Povjerenstvo za dodjelu koncesija za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske, uz objavu zakonom propisanih natječajnih uvjeta.
+IV.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
