@@ -1,0 +1,10 @@
+# Članak 7.
+Javni sektor
+1. Svaka je država stranka dužna, kad je to primjereno i u skladu s temeljnim načelima svoga pravnog poretka, nastojati donijeti, održavati i jačati sustave za angažiranje, zapošljavanje, zadržavanje, promaknuća i umirovljenje državnih službenika te, kad je to primjereno, drugih državnih službenika koji ne podliježu izborima:
+(a) koji se temelje na načelima učinkovitosti, transparentnosti te objektivnim mjerilima, kao što su zasluge, pravičnost i sposobnost,
+(b) koji uključuju odgovarajuće postupke odabira i izobrazbe pojedinaca za javne položaje koji se smatraju posebno podložnima korupciji te premještanje, kad je to primjereno, tih pojedinaca na druge položaje,
+(c) koji promiču odgovarajuće nagrađivanje i pravične ljestvice plaća, uzimajući u obzir razinu gospodarskog razvitka pojedine države stranke,
+(d) koji promiču takve programe obrazovanja i izobrazbe koji će im omogućiti da zadovolje zahtjeve korektnog, časnog i pravilnog obavljanja javne službe i koji će im pružiti specijaliziranu i primjerenu izobrazbu u svrhu veće osviještenosti o rizicima korupcije koji su svojstveni obavljanju njihovih službi. Takvi se programi mogu pozivati na kodekse i norme ponašanja iz primjenjivih područja.
+2. Svaka je država stranka također dužna razmotriti donošenje odgovarajućih zakonodavnih i administrativnih mjera, sukladnih ciljevima ove Konvencije i u skladu s temeljnim načelima svoga domaćeg prava, kako bi propisala i kriterije kandidiranja za izbor u državnu službu.
+3. Svaka je država stranka također dužna razmotriti poduzimanje odgovarajućih zakonodavnih i administrativnih mjera, sukladnih ciljevima ove Konvencije i u skladu s temeljnim načelima svoga domaćeg prava, kako bi povećala transparentnost financiranja kandidatura za izbornu državnu službu te, gdje je to primjenjivo, financiranja političkih stranaka.
+4. Svaka je država stranka dužna, u skladu s temeljnim načelima svoga domaćeg prava, nastojati donijeti, održavati i jačati sustave koji promiču transparentnost i sprječavaju sukobe interesa.

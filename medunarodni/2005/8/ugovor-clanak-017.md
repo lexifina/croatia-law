@@ -1,0 +1,3 @@
+# Članak 17.
+Pronevjera, protupravno prisvajanje ili drugo preusmjeravanje imovine od strane državnog službenika
+Svaka je država stranka dužna donijeti zakonodavne i druge mjere potrebne kako bi se kao kazneno djelo, u slučaju namjernog počinjenja, odredile pronevjera, protupravno prisvajanje tuđe imovine ili drugo preusmjeravanje od strane državnog službenika u svoju korist ili u korist druge osobe ili pravnog subjekta, bilo kakve imovine, državnog ili privatnog novca ili vrijednosnih papira, ili bilo kakve druge vrijedne stvari, povjerenih državnom službeniku u okviru njegovog ili njezinog položaja.

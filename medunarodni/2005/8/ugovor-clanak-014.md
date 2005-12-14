@@ -1,0 +1,14 @@
+# Članak 14.
+Mjere za sprječavanje pranja novca
+1. Svaka je država stranka dužna:
+(a) uvesti u okviru svoje nadležnosti sveobuhvatni domaći regulatorni i nadzorni režim za banke i nebankarske financijske institucije, uključujući fizičke ili pravne osobe koje pružaju formalne ili neformalne usluge prijenosa novca ili vrijednosti te, kad je to primjereno, druga tijela posebno podložna pranju novca, kako bi zaustavila i otkrila sve oblike pranja novca, a unutar tog režima mora se staviti naglasak na identificiranje stranke i, kad je to primjereno, stvarnog korisnika, vođenje evidencije i prijavljivanje sumnjivih transakcija,
+(b) ne dovodeći u pitanje primjenu članka 46. ove Konvencije, osigurati da upravne i zakonodavne vlasti, organi unutarnjih poslova i drugi organi vlasti zaduženi za borbu protiv pranja novca (uključujući, kad je to primjereno u okviru domaćeg prava, sudske vlasti) imaju mogućnost surađivati i razmjenjivati informacije na nacionalnoj i međunarodnoj razini u okviru uvjeta propisanih njenim domaćim pravom, te je dužna u tu svrhu razmotriti osnivanje financijske obavještajne jedinice koja bi služila kao nacionalna središnjica za prikupljanje, analizu i širenje informacija koje se tiču potencijalnog pranja novca.
+2. Države stranke dužne su razmotriti primjenu provedivih mjera radi otkrivanja i praćenja kretanja gotovog novca i odgovarajućih prenosivih instrumenata preko svojih granica, u skladu s načelima koja osiguravaju ispravno korištenje informacija te tako da ni na koji način ne priječe kretanje zakonitog kapitala. Takve mjere mogu uključivati zahtjev da pojedinci i poslovni subjekti prijave prekogranični prijenos znatnih količina gotovog novca i odgovarajućih prenosivih instrumenata.
+3. Države stranke dužne su razmotriti primjenu odgovarajućih i provedivih mjera koje bi od financijskih institucija, uključujući one koje se bave prosljeđivanjem novca zahtijevale:
+(a) uvrštavanje na obrasce za elektronički prijenos novca i s tim povezane poruke, točne i razumljive informacije o onome od koga prijenos potječe,
+(b) zadržavanje takve informacije tijekom cijelog lanca plaćanja, te
+(c) primjenjivanje pojačane provjere onih prijenosa novca koji ne sadrže potpunu informaciju o onome od koga potječu.
+4. Pri uvođenju domaćeg regulatornog i nadzornog režima sukladno uvjetima iz ovoga članka, a ne dovodeći u pitanje primjenu bilo kojeg drugog članka ove Konvencije, države stranke pozvane su koristiti se, kao smjernicama, relevantnim inicijativama regionalnih, međuregionalnih i multilateralnih organizacija protiv pranja novca.
+5. Države stranke dužne su nastojati razviti i promicati globalnu, regionalnu, podregionalnu i bilateralnu suradnju među sudskim vlastima, organima unutarnjih poslova te financijskim regulatornim vlastima, u cilju borbe protiv pranja novca.
+Poglavlje III.
+Inkriminacija i djelatnost organa unutarnjih poslova

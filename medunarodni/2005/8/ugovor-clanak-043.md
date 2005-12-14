@@ -1,0 +1,4 @@
+# Članak 43.
+Međunarodna suradnja
+1. Države stranke dužne su surađivati u kaznenim stvarima u skladu sa člankom 44.-50. ove Konvencije. Kad je to primjereno i u skladu s njihovim domaćim pravnim poretkom, države stranke dužne su razmotriti mogućnost međusobne pomoći u istragama i postupcima u građanskim i upravnim stvarima koje se tiču korupcije.
+2. Kad god se u predmetima međunarodne suradnje kao uvjet postavlja dvostruka inkriminiranost, smatra se da je taj uvjet ispunjen ako ponašanje, koje je podloga kaznenog djela za koje se pomoć traži, predstavlja kazneno djelo prema zakonima obiju država stranaka, bez obzira spada li predmetno kazneno djelo u zakonodavstvu zamoljene države stranke u istu kategoriju i koristi li se u njegovom nazivu ista terminologija kao i u državi stranci koja podnosi zahtjev.

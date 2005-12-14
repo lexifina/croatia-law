@@ -1,0 +1,14 @@
+# Članak 31.
+Zamrzavanje sredstava, zapljena i konfiskacija
+1. Svaka je država stranka dužna poduzeti, do najvećega mogućeg stupnja u okviru svog domaćeg pravnog poretka, mjere potrebne kako bi bila moguća konfiskacija:
+(a) imovinske koristi ostvarene kaznenim djelima određenim u skladu s ovom Konvencijom ili imovine čija vrijednost odgovara toj imovinskoj koristi,
+(b) imovine, opreme ili drugih sredstava uporabljenih ili namijenjenih za uporabu u počinjenju kaznenih djela određenih u skladu s ovom Konvencijom.
+2. Svaka je država stranka dužna poduzeti mjere potrebne radi identifikacije, ulaženja u trag, zamrzavanja ili zapljene bilo kojeg predmeta iz stavka 1. ovoga članka, u svrhu moguće konfiskacije.
+3. Svaka je država stranka dužna donijeti, u skladu sa svojim domaćim pravom, zakonodavne i druge mjere potrebne kako bi se uredilo upravljanje od strane nadležnih vlasti zamrznutom, zaplijenjenom ili konfisciranom imovinom obuhvaćenom stavkom 1. i 2. ovoga članka.
+4. Ako je ta imovinska korist ostvarena kaznenim djelom preoblikovana ili prerađena, dijelom ili u cijelosti, u drugu imovinu, takva je imovina podložna mjerama iz ovoga članka umjesto imovinske koristi ostvarene kaznenim djelom.
+5. Ako je ta imovinska korist ostvarena kaznenim dijelom sjedinjena s imovinom stečenom iz zakonitih izvora, takva je imovina, ne dovodeći u pitanje ovlasti u pogledu zamrzavanja ili zapljene, podložna konfiskaciji do procijenjene vrijednosti s njom sjedinjene imovinske koristi ostvarene kaznenim djelom.
+6. Prihod ili druge koristi proizašle iz imovinske koristi ostvarene kaznenim djelom, iz imovine u koju je imovinska korist ostvarena kaznenim djelom preoblikovana ili prerađena ili iz imovine s kojom je imovinska korist ostvarena kaznenim djelom sjedinjena, također su podložni mjerama iz ovoga članka, na isti način i do istog stupnja kao i imovinska korist ostvarena kaznenim djelom.
+7. U svrhu ovoga članka i članka 55. ove Konvencije, svaka je država stranka dužna ovlastiti svoje sudove i druga nadležna tijela za izricanje naloga za stavljanje na uvid ili zapljenu bankovnih, financijskih, ili poslovnih podataka. Država stranka ne smije odbiti postupiti sukladno odredbama ovog stavka pravdajući se tajnošću bankovnih podataka.
+8. Države stranke mogu razmotriti mogućnost zahtijevanja da počinitelj dokaže zakonitost porijekla takve imovinske koristi navodno ostvarene kaznenim djelom ili druge imovine podložne konfiskaciji, do mjere do koje je takav zahtjev sukladan temeljnim načelima njihovoga domaćeg prava i prirodi sudskih i drugih postupaka.
+9. Odredbe ovoga članka ne smiju se tumačiti na način koji bi doveo u pitanje prava trećih koji su u dobroj vjeri.
+10. Ništa u ovom članku ne utječe na načelo da se mjere o kojima on govori određuju i provode u skladu s odredbama domaćeg prava države stranke i na temelju njih.

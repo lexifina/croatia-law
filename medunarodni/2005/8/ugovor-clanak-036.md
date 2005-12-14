@@ -1,0 +1,3 @@
+# Članak 36.
+Specijalizirana tijela vlasti
+Svaka je država stranka dužna, u skladu s temeljnim načelima svoga pravnog poretka, osigurati postojanje jednog ili više tijela ili osoba specijaliziranih za borbu protiv korupcije putem djelovanja organa unutarnjih poslova. Takvom tijelu ili tijelima ili osobama mora se osigurati potrebna neovisnost, u skladu s temeljnim načelima pravnog poretka države stranke, kako bi mogli izvršavati svoje dužnosti djelotvorno i bez ikakvoga nepropisnog utjecaja. Osobe ili osoblje tog ili tih tijela trebaju imati odgovarajuću izobrazbu i sredstva kako bi mogli izvršavati svoje zadatke.

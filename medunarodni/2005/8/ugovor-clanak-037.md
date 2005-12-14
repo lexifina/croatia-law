@@ -1,0 +1,7 @@
+# Članak 37.
+Suradnja s organima unutarnjih poslova
+1. Svaka je država stranka dužna poduzeti odgovarajuće mjere kako bi potaknula osobe koje sudjeluju ili su sudjelovale u počinjenju kaznenog djela određenog u skladu s ovom Konvencijom da pruže informacije korisne nadležnim tijelima u istražne i dokazne svrhe te da pruže stvarnu, konkretnu pomoć nadležnim tijelima, koja može pridonijeti oduzimanju imovinske koristi ostvarene kaznenim djelom od počinitelja i njenom povratu.
+2. Svaka je država stranka dužna razmotriti osiguravanje mogućnosti, da se, u odgovarajućim slučajevima, ublaži kazna optuženoj osobi koja pruži značajnu suradnju u istrazi ili progonu kaznenog djela određenog u skladu s ovom Konvencijom.
+3. Svaka je država stranka dužna razmotriti osiguravanje mogućnosti da se, u skladu s temeljnim načelima njenoga domaćeg prava, odobri imunitet od progona osobi koja pruži značajnu suradnju u istrazi ili progonu kaznenog djela određenog u skladu s ovom Konvencijom.
+4. Zaštita takvih osoba mora biti, mutatis mutandis, u skladu sa člankom 32. ove Konvencije.
+5. Ako osoba iz stavka 1. ovoga članka koja se nalazi u jednoj državi stranci može pružiti značajnu suradnju nadležnim tijelima druge države stranke, dotične države stranke mogu razmotriti sklapanje sporazuma ili dogovora, u skladu sa svojim domaćim pravom, u pogledu mogućeg osiguranja mjera iz stavka 2. i 3. ovoga članka od strane druge države stranke.

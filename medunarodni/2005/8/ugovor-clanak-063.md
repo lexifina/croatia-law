@@ -1,0 +1,16 @@
+# Članak 63.
+Konferencija država stranaka Konvencije
+1. Ovime se osniva Konferencija država stranaka Konvencije u svrhu poboljšanja sposobnosti i suradnje između država stranaka i ostvarivanja ciljeva utvrđenih ovom Konvencijom te promicanja i praćenja njezine provedbe.
+2. Glavni tajnik Ujedinjenih naroda sazvat će Konferenciju država stranaka najkasnije godinu dana nakon stupanja ove Konvencije na snagu. Nakon toga, redoviti sastanci Konferencije država stranaka održavat će se u skladu s poslovnikom koji donosi Konferencija.
+3. Konferencija država stranaka donosi poslovnik i pravila koja uređuju odvijanje aktivnosti utvrđenih ovim člankom, uključujući pravila koja se tiču prihvaćanja i sudjelovanja promatrača i plaćanja troškova nastalih u obavljanju tih aktivnosti.
+4. Konferencija država stranaka dogovara aktivnosti, postupke i metode rada u svrhu ostvarivanja ciljeva utvrđenih u stavku 1. ovoga članka, uključujući:
+(a) pomoć aktivnostima država stranaka sukladno članku 60. i 62. i poglavljima II. - V. ove Konvencije, između ostalog i poticanjem dobrovoljnih priloga,
+(b) olakšavanje razmjene informacija između država stranaka o oblicima i trendovima korupcije i o uspješnoj praksi u pogledu njenog sprječavanja i borbe protiv nje te vraćanja imovinske koristi ostvarene kaznenim djelom, što se postiže, između ostalog, objavljivanjem relevantnih informacija kao što je navedeno u ovom članku,
+(c) suradnju s relevantnim međunarodnim i regionalnim organizacijama i mehanizmima te nevladinim udrugama,
+(d) primjerenim korištenjem relevantnih informacija pribavljenih uz pomoć drugih međunarodnih i regionalnih mehanizama radi borbe protiv korupcije i njenog sprječavanja kako bi se spriječilo nepotrebno udvostručavanje posla,
+(e) povremene provjere provedbe ove Konvencije od strane država stranaka,
+(f) davanje preporuka u svrhu poboljšanja Konvencije i njene provedbe,
+(g) uzimanje na znanje zahtjeva država stranaka za tehničku pomoć u vezi s provedbom ove Konvencije i predlaganje akcija koje se s tim u vezi pokažu neophodnima.
+5. U svrhu stavka 4. ovoga članka, Konferencija država stranaka stjecat će neophodna znanja o mjerama koje države stranke poduzimaju u svrhu provedbe ove Konvencije, kao i o teškoćama na koje pritom nailaze i to putem informacija koje dostavljaju i dodatnih mehanizama preispitivanja koje uspostavlja Konferencija država stranaka.
+6. Svaka je država stranka dužna Konferenciji država stranaka dostavljati informacije o svojim programima, planovima i praksi, kao i o zakonskim i administrativnim mjerama za provedbu ove Konvencije, kako bude tražila Konferencija država stranaka. Konferencija država stranaka utvrdit će najdjelotvorniji način primanja tih informacija i postupanja na temelju njih uključujući, između ostalog, i informacije primljene od država stranaka i nadležnih međunarodnih organizacija. Može se razmotriti i pitanje doprinosa mjerodavnih nevladinih udruga propisno akreditiranih u skladu s postupcima o kojima će odlučiti Konferencija država stranaka.
+7. Sukladno stavku 4. - 6. ovoga članka, Konferencija država stranaka utvrđuje, ako to smatra potrebnim, odgovarajući mehanizam ili tijelo koje će pomagati u djelotvornoj provedbi Konvencije.

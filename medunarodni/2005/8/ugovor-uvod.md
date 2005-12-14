@@ -1,0 +1,19 @@
+Države stranke ove Konvencije,
+zabrinute zbog ozbiljnosti problema i prijetnji koje korupcija predstavlja za stabilnost i sigurnost društava, podrivajući institucije i vrijednosti demokracije, etičke vrijednosti i pravdu te ugrožavajući održiv razvitak i vladavinu prava,
+zabrinute također zbog veza između korupcije i drugih oblika kriminala, osobito organiziranog kriminala i gospodarskog kriminala, uključujući pranje novca,
+zabrinute nadalje zbog slučajeva korupcije kod kojih se radi o ogromnim količinama imovine, koja može činiti značajan dio sredstava država, a koji predstavljaju prijetnju političkoj stabilnosti i održivom razvitku tih država,
+uvjerene da korupcija više nije lokalni problem već transnacionalna pojava koja pogađa sva društva i gospodarstva, zbog čega je za njeno sprječavanje i nadziranje nužna međunarodna suradnja,
+uvjerene također da je za djelotvorno sprječavanje i borbu protiv korupcije potreban sveobuhvatan i multidisciplinaran pristup,
+uvjerene nadalje da dostupnost tehničke pomoći može igrati značajnu ulogu u povećanju sposobnosti država, što uključuje jačanje kapaciteta i izgradnju institucija, za djelotvorno sprječavanje i borbu protiv korupcije,
+uvjerene da nezakonito stjecanje osobnog bogatstva može biti osobito štetno za demokratske institucije, nacionalna gospodarstva te vladavinu prava,
+odlučne na djelotvorniji način sprječavati, otkrivati i zaustaviti međunarodno prenošenje nezakonito stečene imovine te ojačati međunarodnu suradnju u pogledu povrata imovine,
+priznajući temeljna načela propisno i pravično vođenog kaznenog postupka, te građanskog ili upravnog postupka u pogledu dosuđenja imovinskih prava,
+imajući u vidu da su za sprječavanje i iskorjenjivanje korupcije odgovorne sve države te da one moraju međusobno surađivati kako bi njihova nastojanja na ovom području bila djelotvorna, uz potporu i sudjelovanje pojedinaca i skupina izvan javnog sektora, kao što su civilno društvo, nevladine udruge te udruge koje djeluju na razini lokalne zajednice,
+imajući također u vidu načela pravilnog upravljanja javnim poslovima i državnom imovinom, pravednosti, odgovornosti te jednakosti pred zakonom, kao i potrebu očuvanja čestitosti i poticanja kulture odbijanja korupcije,
+odajući priznanje Povjerenstvu za suzbijanje kriminala i kaznenopravnu zaštitu te Uredu Ujedinjenih naroda za droge i kriminal, za rad na području sprječavanja i borbe protiv korupcije,
+podsjećajući na rad koji na ovom području obavljaju druge međunarodne i regionalne organizacije, uključujući aktivnosti Afričke unije, Vijeća Europe, Vijeća za carinsku suradnju (poznatog i pod nazivom Svjetska carinska organizacija), Europske unije, Lige arapskih država, Organizacije za gospodarsku suradnju i razvitak te Organizacije američkih država,
+uvažavajući multilateralne instrumente kojima je cilj sprječavanje i borba protiv korupcije, uključujući, između ostalog, Inter-američku konvenciju protiv korupcije, koju je 29. ožujka 1996. donijela Organizacija američkih država, Konvenciju o borbi protiv korupcije u koju su umiješani službenici Europskih zajednica ili službenici država članica Europske unije, koju je 26. svibnja 1997. donijelo Vijeće Europske unije, Konvenciju o borbi protiv podmićivanja stranih državnih službenika u međunarodnim poslovnim transakcijama, koju je 21. studenoga 1997. donijela Organizacija za gospodarsku suradnju i razvoj, Kaznenopravnu konvenciju o korupciji, koju je 27. siječnja 1999. donio Odbor ministara Vijeća Europe, Građanskopravnu konvenciju o korupciji, koju je 4. studenoga 1999. donio Odbor ministara Vijeća Europe te Konvenciju Afričke unije o sprječavanju i borbi protiv korupcije koju su čelnici država i vlada Afričke unije donijeli 12. srpnja 2003.,
+pozdravljajući stupanje na snagu Konvencije Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminala 29. rujna 2003.,
+sporazumjele su se kako slijedi:
+Poglavlje I.
+Opće odredbe

@@ -1,0 +1,3 @@
+# Članak 56.
+Posebna suradnja
+Ne dovodeći u pitanje svoje domaće pravo, svaka je država stranka dužna nastojati poduzimati mjere koje joj omogućuju da drugoj državi stranci i bez prethodnog zahtjeva dostavi informacije o imovinskoj koristi ostvarenoj kaznenim djelima određenim u skladu s ovom Konvencijom, a da time ne nanosi štetu vlastitoj istrazi, kaznenom progonu ili sudskom postupku, ako smatra da otkrivanje takvih informacija može pomoći državi stranci primateljici da pokrene ili vodi istragu, kazneni progon i sudski postupak ili dovesti do toga da ta država stranka uputi zahtjev u skladu s ovim poglavljem Konvencije.

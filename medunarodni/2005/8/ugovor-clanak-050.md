@@ -1,0 +1,8 @@
+# Članak 50.
+Posebne istražne tehnike
+1. U svrhu djelotvorne borbe protiv korupcije, svaka će država stranka, u mjeri u kojoj joj to dopuštaju osnovna načela njenoga domaćega pravnog poretka i u skladu s uvjetima koje propisuje njeno domaće pravo, poduzimati potrebne mjere, u okviru svojih mogućnosti, kako bi omogućila da njena nadležna tijela na primjeren način primijene metodu nadzirane isporuke i, kada to smatra primjerenim, druge istražne tehnike kao što su elektronički i drugi oblici prismotre i tajnih operacija na njenom teritoriju te kako bi omogućila dopuštenost na taj način pribavljenih dokaza na sudu.
+2. U svrhu istraga za kaznena djela obuhvaćena ovom Konvencijom, države stranke potiču se na sklapanje, kad je to potrebno, odgovarajućih dvostranih ili višestranih ugovora ili sporazuma radi upotrebe takvih posebnih istražnih tehnika u smislu suradnje na međunarodnoj razini. Ti ugovori ili sporazumi sklapaju se i primjenjuju na način da se u cijelosti poštuje načelo suverene jednakosti država i provode se uz strogo pridržavanje njihovih uvjeta.
+3. U pomanjkanju ugovora ili sporazuma iz stavka 2. ovoga članka, odluka o upotrebi posebnih istražnih tehnika na međunarodnoj razini donosi se od slučaja do slučaja i može, kad je to potrebno, uzeti u obzir financijske sporazume i dogovore u vezi s ostvarivanjem nadležnosti od strane dotičnih država stranaka.
+4. Odluka o primjeni metode nadzirane isporuke na međunarodnoj razini može, uz suglasnost dotičnih država stranaka, uključivati metode poput presretanja i dopuštanja da roba ili sredstva netaknuta nastave put ili da u cijelosti ili djelomice budu oduzeta ili zamijenjena.
+Poglavlje V.
+Povrat imovine
