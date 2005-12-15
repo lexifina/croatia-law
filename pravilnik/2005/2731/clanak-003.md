@@ -1,0 +1,6 @@
+# Članak 3.
+Pojedini izrazi u smislu ovog Pravilnika imaju sljedeće značenje:
+(a) »subjekt« je svaka fizička ili pravna osoba, svaka udruga ili skupina osoba koje nisu pravne osobe, a koje obavljaju profitne ili neprofitne poslove prijevoza, utovara ili istovara opasnih roba;
+(b) »sigurnosni savjetnik za prijevoz opasnih roba« (u daljnjem tekstu: sigurnosni savjetnik) je svaka osoba koju odredi rukovoditelj ili uprava subjekta, a čija je zadaća izvršavanje naloga opisanih u članku 7. ovoga Pravilnika i koja je ishodila potvrdu o obučenosti opisanu u članku 11. ovoga Pravilnika.
+(c) »opasna roba« je tvar ili predmet koju kao opasnu opisuje ADR-a, RID-a, ADN-a ili materije ili predmeti čiji je prijevoz zabranjen prema ADR-a, RID-a, ADN-a ili je dozvoljen po uvjetima predviđenim u tim sporazumima.
+(d) »Povjerenstvo za prijevoz opasnih roba« je tijelo u čijem je sastavu najmanje pet stručnjaka za prijevoz opasnih roba koje imenuje ministar mora, turizma, prometa i razvitka (u daljnjem tekstu: ministar) od kojih su najmanje dva člana djelatnici ministarstva mora, turizma, prometa i razvitka (u daljnjem tekstu: ministarstva), koji rade na poslovima vezanim uz prijevoz opasnih roba. Rad Povjerenstva za prijevoz opasnih roba regulira Poslovnik o radu, kojeg donosi ministar.

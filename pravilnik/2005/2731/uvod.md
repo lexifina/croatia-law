@@ -1,0 +1,1 @@
+Na temelju članaka 4a., 4b. i 4c. Zakona o prijevozu opasnih tvari (»Narodne novine« 97/93 i 151/03) ministar mora, turizma, prometa i razvitka, uz suglasnost ministra unutarnjih poslova i ministra znanosti, obrazovanja i športa donosi

@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju glavne zadaće sigurnosnih savjetnika, uvjeti za stjecanje statusa sigurnosnog savjetnika, ovlast za tijela koja mogu provoditi obuku i provjeru znanja sigurnosnih savjetnika, sadržaj, izgled i rok važenja potvrde o obučenosti sigurnosnog savjetnika.
+(2) Svi subjekti čija djelatnost obuhvaća transport ili s transportom u cestovnom, željezničkom ili unutarnjem plovnom prijevozu povezan utovar ili istovar opasnih roba moraju imenovati jednog ili više sigurnosnih savjetnika za transport opasnih roba, odgovornih za pomoć u prevenciji rizika povezanih s takvim djelovanjima s obzirom na ljude, imovinu i okoliš.

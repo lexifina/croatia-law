@@ -1,0 +1,3 @@
+# Članak 10.
+Ukoliko je pri prijevozu, utovaru ili istovaru poduzetom od strane nekog subjekta došlo do nezgode, pri kojoj su ozlijeđeni ljudi i/ili značajnije oštećena imovina i/ili okoliš, tada je sigurnosni savjetnik po prikupljenim informacijama obvezan sastaviti izvješće o nezgodi upravi subjekta, Povjerenstvu za prijevoz opasnih roba i ukoliko je to traženo i nadležnim tijelima lokalne (regionalne) samouprave.
+Izvješće iz stavka 1. ovoga članka ne zamjenjuje niti jedno drugo izvješće koje može biti zatraženo na temelju međunarodnog ugovora koji obvezuje Republiku Hrvatsku ili odgovarajućih propisa u Republici Hrvatskoj.
