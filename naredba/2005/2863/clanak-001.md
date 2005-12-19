@@ -1,0 +1,4 @@
+# Članak 1.
+Ovom Naredbom propisuje se mjesečna osnovica za obračun doprinosa za sva obvezna osiguranja člana posade broda hrvatske državne pripadnosti u međunarodnoj plovidbi i strane državne pripadnosti u međunarodnoj plovidbi ako je zakupoprimac ili neizravno putem svog inozemnog poduzeća vlasnik stranog broda hrvatsko brodarsko društvo.
+Prijavu i odjavu za mirovinsko i zdravstveno osiguranje člana posade broda iz stavka 1. podnosi poslodavac putem svog zastupnika hrvatske pravne osobe registrirane za obavljanje djelatnosti u Republici Hrvatskoj.
+Ministarstvo nadležno za poslove mora utvrdit će popis brodova strane državne pripadnosti iz stavka 1. ovoga članka i isti dostaviti Poreznoj upravi - Ministarstva financija, Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje.
