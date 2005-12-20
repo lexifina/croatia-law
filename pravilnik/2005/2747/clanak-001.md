@@ -1,0 +1,4 @@
+# Članak 1.
+1. Ovim Pravilnikom propisuju se najviše količine brašna utrošene za proizvodnju pojedinih pekarskih proizvoda i način vođenja evidencije o tome.
+2. Najviša količina brašna utrošena za proizvodnju pojedinih pekarskih proizvoda (u daljnjem tekstu: utrošak brašna) u smislu ovog Pravilnika podrazumijeva najvišu količinu brašna koju pravne i fizičke osobe koje se bave proizvodnjom pekarskih proizvoda (u daljnjem tekstu: proizvođači pekarskih proizvoda) mogu utrošiti za proizvodnju proizvoda iz članka 2. ovoga Pravilnika za zamjes i posip.
+3. Za proizvode koji nisu navedeni u članku 2. ovoga Pravilnika u pogledu vrste ili pojedinačne mase gotovog proizvoda, utrošak brašna računa se prema sličnoj vrsti proizvoda iz tablice, a za različite mase gotovog proizvoda razmjerno pojedinačnim masama navedenim u tablici.
