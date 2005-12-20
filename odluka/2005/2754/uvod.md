@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj: 117/93, 69/97, 33/00, 73/00. 127/00, 59/01, 107/01, 117/01, 150/02, 147/03.), članka 30. Statuta Općine Visoko (Službeni vjesnik Varaždinske županije broj: 22/2001), Općinsko vijeće Općine Visoko, na sjednici održanoj 30. studenoga 2005. godine, donosi

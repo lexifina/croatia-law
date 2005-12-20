@@ -1,0 +1,2 @@
+# Članak 8.
+Sredstva prikupljena od prireza porezu na dohodak koristit će se za izgradnju komunalne infrastrukture, izgradnju školske športske dvorane, rekonstrukciju zgrada koje predstavljaju zaštićena kulturna dobra, izgradnju dječjeg vrtića ili igraonice, igrališta, rekonstrukciju Društvenog i vatrogasnih domova, za izradu nužnih planova prostornog uredenja, kao i drugih objekata društvene, gospodarske i komunalne infrastrukture.
