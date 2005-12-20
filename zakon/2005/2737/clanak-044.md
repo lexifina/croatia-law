@@ -1,0 +1,4 @@
+# Članak 44.
+(1) Komora provodi nadzor i provjeru kvalitete rada obavljenih revizija, izvještaja revizorskih društava i samostalnih revizora, ugovora i naknada obavljenih revizija, ocjenu sustava unutarnje kontrole kvalitete revizorskog društva, provjeru vlasničke i upravljačke strukture, zapošljavanja ovlaštenih revizora i provjeru drugih područja u skladu s odredbama ovoga Zakona (u daljnjem tekstu: provjera kvalitete rada).
+(2) Komora provodi provjeru kvalitete rada najmanje jednom u šest godina, odnosno najmanje jednom u tri godine kod samostalnog revizora ili revizorskog društva koje obavlja reviziju subjekata od javnog interesa.
+(3) Komora je dužna u pisanom obliku o provjeri kvalitete rada obavijestiti revizorsko društvo i samostalnog revizora 30 dana prije početka obavljanja provjere kvalitete rada.

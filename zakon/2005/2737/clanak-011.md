@@ -1,0 +1,4 @@
+## Dodatne djelatnosti uz revizorske usluge
+# Članak 11.
+(1) Revizorsko društvo može, pored usluga revizije, u okviru svoje registrirane djelatnosti obavljati i usluge s područja financija i računovodstva, usluge financijskih analiza i kontrola, usluge poreznog i ostaloga poslovnog savjetovanja, usluge procjenjivanja vrijednosti poduzeća, imovine i obveza, usluge sudskog vještačenja, usluge izrade i ekonomske ocjene investicijskih projekata.
+(2) Obavljanje usluga s područja financija i računovodstva, poreznog i ostaloga poslovnog savjetovanja, procjenjivanja vrijednosti poduzeća, imovine i obveza te sudskog vještačenja isključuje mogućnost obavljanja usluga revizije u istoj pravnoj osobi za istu poslovnu godinu. Zabrana obavljanja usluga revizije odnosi se na sva povezana društva revidiranog subjekta kao i revizorskog društva.
