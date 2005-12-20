@@ -1,0 +1,3 @@
+# Članak 20.
+Kada se elektroenergetsko postrojenje postavlja u građevinu koja služi i za druge namjene, dijelovi postrojenja podložni požaru, koji sadrže ulje, moraju se smjestiti u posebne požarne sektore čiji zidovi, stropovi i podovi, moraju imati otpornost na požar od najmanje 90 minuta. Vrata između požarnih sektora moraju imati otpornost na požar kao i zid požarnog sektora.
+Iznimno od stavka 1. ovog članka, dopušteno je da se elektroenergetsko postrojenje s transformatorima s količinom ulja do 1.500 kg, smjesti u tvorničku halu, uz uvjet da su primijenjene druge jednako vrijedne mjere zaštite od nastanka i širenja požara.

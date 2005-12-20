@@ -1,0 +1,3 @@
+# Članak 11.
+Radi sprječavanja razornog djelovanja eksplozije, zbog kratkog spoja ili drugog kvara u elektroenergetskom postrojenju, moraju se primijeniti mjere za rasterećenje od prekomjernog tlaka i za bezopasno usmjeravanje eksplozivnog vala iz uređaja odnosno postrojenja.
+Mjere iz stavka 1. ovog članka su, postavljanje automatskih odušnika (jedan ili više) na energetske transformatore, postavljanje sigurnosnih, konstrukcijski predviđenih i izvedenih oslabljenih mjesta, koja će prva popustiti pri nedopuštenom porastu tlaka, ili druge mjere koje zadovoljavaju zahtjev iz prvog stavka ovog članka.

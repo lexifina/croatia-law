@@ -1,0 +1,2 @@
+# Članak 21.
+Ako se elektroenergetsko postrojenje visokog napona postavlja u stambenu ili poslovnu građevinu, bolnicu, vrtić, školu, robnu kuću ili trgovački centar, zatvorenu veliku garažu ili športski objekt, dijelovi postrojenja koji sadrže ulje moraju se smjestiti u posebne požarne sektore čiji zidovi, stropovi i podovi, moraju imati otpornost na požar od najmanje 120 minuta, a vrata između požarnih sektora moraju biti iste vatrootpornosti.

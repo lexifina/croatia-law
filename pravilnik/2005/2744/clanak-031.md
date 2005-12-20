@@ -1,0 +1,4 @@
+# Članak 31.
+Kod energetskih transformatora ili uređaja koji sadrže do 1.500 kg ulja, izvođenje sustava za odvođenje ulja nije obvezno, a umjesto njega mogu se koristiti slijedeće mjere zaštite:
+a) kada se elektroenergetsko postrojenje nalazi u građevini koja služi i za druge namjene, prostorija u kojoj je postavljen energetski transformator ili uređaj mora imati dovoljno izdignut prag na vratima tako da cjelokupna količina ulja u slučaju izlijevanja ostane unutar prostorije. Pod ove prostorije te zidovi do visine praga na vratima moraju biti nepropusni za ulje,
+b) kada se energetsko postrojenje nalazi na otvorenom prostoru u posebnoj građevini, koja služi isključivo za takvu namjenu, te na otvorenom prostoru izvan građevine, dopušteno je da se ulje ispod transformatora skuplja u posebno izgrađenu jamu koja je sagrađena od nepropusnog materijala (betona), kapaciteta koji može primiti ukupnu količinu ulja koja se nalazi u transformatoru ili uređaju.

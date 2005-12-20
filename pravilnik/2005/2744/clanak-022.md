@@ -1,0 +1,2 @@
+# Članak 22.
+Kada se elektroenergetsko postrojenje postavlja u građevinu koja služi i za druge namjene, a u njega se ugrađuje transformator bez ulja i sa izolacijom koja ne podržava gorenje, isti se može smjestiti u istu prostoriju u koju se postavljaju drugi dijelovi pripadnog elektroenergetskog postrojenja (blok visokog napona, niskonaponski razvodni ormari i slično) bez vatrootpornog pregrađivanja prema tom postrojenju i prema susjednim prostorijama građevine, uz uvjet da su primijenjene druge jednako vrijedne mjere za zaštitu osoba koje u tim objektima rade ili borave.

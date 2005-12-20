@@ -1,0 +1,2 @@
+# Članak 2.
+Odredbe ovog Pravilnika ne odnose se na elektroenergetska postrojenja i uređaje u postrojenjima ugroženim od eksplozivne atmosfere ili zapaljive prašine, u postrojenjima u kojima se radi s eksplozivima i u rudnicima s podzemnom eksploatacijom kao ni na postrojenja električne vuče, ako ova postrojenja nisu sastavni dio postrojenja proizvodnje, prijenosa ili distribucije električne energije.
