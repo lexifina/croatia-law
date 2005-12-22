@@ -1,0 +1,5 @@
+# Članak 2.
+Nacionalni fond i nacionalni dužnosnik za ovjeravanje
+1. Primatelj je dužan uspostaviti Nacionalni fond kao tijelo u okviru Državne riznice koje će biti u nadležnosti nacionalnog dužnosnika za ovjeravanje (dalje u tekstu: NDO) u Ministarstvu financija, kako bi mogao upravljati pretpristupnom pomoći Zajednice dodijeljenoj Primatelju u skladu s odredbama članka 164. FU-a.
+2. NDO je dužnosnik s ministarskim ili državnotajničkim statusom, kojeg imenuje Primatelj. NDO ne može istodobno obavljati dužnost nacionalnog koordinatora za programe pomoći (dalje u tekstu: NKP) ili nacionalnog koordinatora za program ISPA (dalje u tekstu: NKPI), odnosno predsjedatelja upravljačkog tijela. Iako zadržava sveukupnu odgovornost (kao što je definirano u članku 3. stavku 1.), NDO može neke od povjerenih mu zadaća prenijeti na najviše jednog službenika po pretpristupnom instrumentu, no on ostaje u konačnici odgovoran za sve obveze koje su mu/joj utvrđene prema ovome Memorandumu i ostalim sporazumima.
+3. Opseg i odgovornost NF-a i NDO-a utvrđuju se u kontekstu sporazuma koji obuhvaćaju odgovarajuće pretpristupne instrumente PHARE, ISPA i SAPARD.

@@ -1,0 +1,9 @@
+MEMORANDUM O SUGLASNOSTI O OSNIVANJU NACIONALNOG FONDA
+Europska zajednica (dalje u tekstu: EZ), koju zastupa Europska komisija (dalje u tekstu: Komisija), i Vlada Republike Hrvatske, koja djeluje u ime Republike Hrvatske (dalje u tekstu: Primatelj),
+SMATRAJUĆI
+da je cilj napredne pretpristupne strategije omogućiti svim državama kandidatima za članstvo da u konačnici postanu članice Europske unije te da se u tu svrhu što je moguće više usklade s pravnom stečevinom Zajednice prije pristupanja,
+da je Europsko partnerstvo, ili Pristupno partnerstvo nakon toga, ključni čimbenik napredne pretpristupne strategije koja će pokrenuti sve oblike pomoći državama kandidatima za članstvo unutar jedinstvenog sustava,
+da je važno poboljšati postojeće upravljačke sustave kako bi se ostvarili ciljevi navedeni u Europskom partnerstvu, ili Pristupnom partnerstvu nakon toga, stoga da je neophodno uspostaviti mehanizam Nacionalnog fonda koji će obuhvaćati, u prvoj fazi, programe PHARE, ISPA i SAPARD, istodobno uzimajući provedbene postupke svakog od tih instrumenata, a u drugoj fazi jedinstveni Pretpristupni instrument (IPA) i njegove provedbene odredbe od 1. siječnja 2007.,
+da je pomoć Zajednice uređena Općim odredbama Okvirnog sporazuma između Vlade Republike Hrvatske i Europske komisije u svezi sa sudjelovanjem Republike Hrvatske u programima pomoći Europske zajednice, koji su potpisale Europska komisija i Republika Hrvatska 27. ožujka 2002. (dalje u tekstu: Okvirni sporazum), a koji obuhvaća programe PHARE, CARDS i OBNOVA1 , te koji će u dogledno vrijeme biti proširen kako bi uključio cjelokupnu pretpristupnu pomoć.,
+da je sukladno odredbama članka 166. stavka 1. Financijske uredbe EZ-a (dalje u tekstu: FU) potrebno, u svrhu provedbe vanjskih aktivnosti, zaključiti sporazum o financiranju2 između Komisije i treće zemlje korisnice,
+sporazumjele su se kako slijedi:
