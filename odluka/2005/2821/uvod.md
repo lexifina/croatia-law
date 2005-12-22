@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00 i 59/01) i članka 26. Statuta Općine Beretinec (»Službeni vjesnik Varaždinske županije« broj 20/01), Općinsko vijeće Općine Beretinec na sjednici održanoj 5. prosinca 2005. godine donosi
