@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01., 150/02. i 147/03.), te članka 17. Statuta Grada Čazme (»Službeni vjesnik« broj 19/01), Gradsko vijeće Grada Čazme na 6. sjednici održanoj 6. 12. 2005. godine donijelo je
