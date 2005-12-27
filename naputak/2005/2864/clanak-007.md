@@ -1,0 +1,2 @@
+# Članak 7.
+Nakon što je obavio pečaćenje ulaza u poslovne prostorije odnosno sredstava rada, inspektor će na vidnome mjestu zapečaćenih ulaznih vrata ili zapečaćenih sredstava rada istaknuti OBAVIJEST u kojoj će istaći naziv akta na temelju kojega je pečaćenje provedeno uz isticanje KLASE, URBROJA i datuma donošenja toga akta te upozorenje o kaznenom djelu skidanja i povrede službenog pečata ili znaka (članak 323. Kaznenog zakona, »Narodne novine« br. 110/97, 27/98, 50/00, 129/00, 51/01, 111/03, 190/03, 105/04 i 84/05).

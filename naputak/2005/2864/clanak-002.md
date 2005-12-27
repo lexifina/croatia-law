@@ -1,0 +1,3 @@
+# Članak 2.
+Kada se izvršenje provodi pečaćenjem na temelju rješenja ili usmenog rješenja u zapisniku o obavljenom inspekcijskom nadzoru, inspektor će odmah, nakon što je utvrdio sve odlučne činjenice, pečatiti prostorije, postrojenja, uređaje i drugu opremu za rad i onemogućiti korištenje prostorija, postrojenja, strojeva, uređaja i druge opreme za rad kojima se ili u kojima se obavlja djelatnost.
+Ako se izvršenje rješenja pečaćenjem odnosi na iste prostorije, postrojenja, uređaje i drugu opremu za rad, a rješenje su donijeli stvarno nadležni inspektori, o izvršenju mjere pečaćenja i trajanju te mjere, inspektori su se dužni međusobno pisano obavijestiti u svrhu zamjene obavijesti iz članka 7. ovoga Naputka.
