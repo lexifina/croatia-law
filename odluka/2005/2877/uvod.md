@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine«, broj 117/93. i 59/01) i članka 21. Statuta Općine Kijevo (»Službeni vjesnik Šibensko-kninske županije«, broj 10/01, i 06/04), Općinsko vijeće Općine Kijevo na svojoj 4. sjednici održanoj 4. kolovoza 2005. donijelo je
