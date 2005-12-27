@@ -1,0 +1,7 @@
+# Članak 7.
+U članku 9. stavku 1. druga rečenica briše se.
+Stavak 4. mijenja se i glasi:
+»(4) Ako nastupi dužnikova neurednost u podmirivanju obveza prema banci, a banka ne poduzme potrebne pravne radnje za naplatu svojih tražbina pomoću raspoloživih instrumenata osiguranja naplate, banka je dužna plasmane koji su na temelju instrumenata osiguranja naplate bili raspoređeni u rizičnu skupinu A, rasporediti u rizičnu skupinu B te za njih provesti odgovarajući ispravak vrijednosti odnosno rezerviranje. U smislu ovog stavka smatra se da je nastupila dužnikova neurednost u podmirivanju obveza prema banci ako je proteklo više od 90 dana od dana dospijeća.
+Bez obzira na pravne radnje poduzete radi naplate tražbina banke pomoću instrumenata osiguranja tražbina, ako naplata nije izvršena u roku od dvije godine, računajući od dana kada je nastupila dužnikova neurednost u podmirivanju njegovih obveza, banka je dužna nenaplaćeni plasman rasporediti u rizičnu podskupinu B-2 ili B-3 iz članka 11. stavka 3. Odluke te, uzimajući u obzir preostale izglede za naplatu, provesti ispravak vrijednosti u visini od najmanje 30% knjigovodstvenog iznosa glavnice navedenog plasmana.
+Odredbe ovog stavka jednako se odnose i na plasmane koji po kriterijima iz članka 8. Odluke pripadaju »portfelju malih kredita«.«
+U stavku 6. iza riječi »najduže« broj »60« zamjenjuje se brojem »90«, te iza riječi »od« broj »60« zamjenjuje se brojem »90«.

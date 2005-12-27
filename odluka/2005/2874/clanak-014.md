@@ -1,0 +1,9 @@
+# Članak 14.
+Iza članka 22. dodaje se članak 22.a, koji glasi:
+»Članak 22.a
+(1) Banka je dužna posebnim internim aktom pobliže propisati procedure u vezi s praćenjem sudskih sporova koji se vode protiv banke te s procjenom rizika i rezerviranjima za obveze koje nisu iskazane u poslovnim knjigama banke, a koje mogu nastati s osnove izgubljenih sudskih sporova i arbitraža. U smislu ovog stavka pod sudskim sporovima koji se vode protiv banke podrazumijevaju se oni sporovi u kojima je banka tuženik odnosno okrivljenik te čija posljedica, ako ih banka izgubi, može biti povećanje obveza banke i odljev novčanih sredstava za podmirenje tih obveza. Sudski sporovi koji se eventualno vode protiv banke radi smanjenja tužiteljevih obveza prema banci (npr. radi proglašenja ovrhe u korist banke nedopuštenom i sl.), nisu obuhvaćeni ovim stavkom jer ih (u smislu članka 4. stavka 1. Odluke) treba evidentirati i pratiti u sklopu kreditnih spisa.
+(2) Internim aktom iz stavka 1. ovog članka banka propisuje procedure u vezi sa sustavnim praćenjem sudskih sporova koji se vode protiv banke. U procedurama treba minimalno propisati odnosno odrediti:
+• način vođenja evidencije o sudskim spisima,
+• postupke, kriterije, rokove i odgovorne osobe za procjenu rizika i utvrđivanje potrebnih rezerviranja za pokriće obveza koje proizlaze iz pokrenutih sudskih sporova protiv banke,
+• način izvješćivanja uprave o sudskim sporovima (sadržaj izvješća, nositelji i intervali izvješćivanja, koji ne bi trebali biti duži od šest mjeseci računajući od prethodnog izvješća).
+(3) Iznos rezerviranja iz stavka 2. ovog članka utvrđuje se u skladu s MRS-om 37 - Rezerviranja, nepredviđene obveze i nepredviđena imovina, a knjiži se u poslovnim knjigama banke kao trošak rezerviranja razdoblja u kojem je rezerviranje priznato, te u pasivi bilance kao rezerviranje za sudske sporove pokrenute protiv banke.«
