@@ -1,0 +1,6 @@
+# Članak 13.
+1) Ako se pri izradi lijeka važe njegova masa, doktor veterinarske medicine na receptu mora označiti količinu lijeka iskazanu u gramima i to arapskim brojevima na dvije decimale bez pisanja kratice »g« odnosno rimskim brojevima ako je riječ o kapima, pilulama, tabletama, supozitorijima, ampulama, dražejama i bolusima.
+2) Ako je u sastavu lijeka tekućina, količina se iskazuje u mililitrima na dvije decimale uz obvezno navođenje kratice »ml«. Manje količine tekućine se iskazuju u kapima, a broj kapi se piše rimskim brojevima.
+3) Pri propisivanju gotovog lijeka, koji se nalazi u prometu u određenom pakiranju, doktor veterinarske medicine mora na receptu, u nalogu za izdavanje, rimskim brojevima i latinskim jezikom označiti broj pakiranja koja propisuje.
+4) Ako se propisuje gotov lijek koji se nalazi u prometu u raznim farmaceutskim oblicima, veličinama odnosno jačinama, doktor veterinarske medicine na receptu mora označiti farmaceutski oblik, veličinu odnosno jačinu.
+5) Ako doktor veterinarske medicine na vlastitu odgovornost propiše veću dozu lijeka od maksimalno odobrene, obvezan je takvu dozu označiti i riječima, pokraj te oznake staviti uskličnik (!) i uz taj znak staviti svoj potpis.
