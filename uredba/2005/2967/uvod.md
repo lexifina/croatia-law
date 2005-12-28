@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine«, br. 115/2005 i 121/2005 - ispravak) Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2005. godine donijela
