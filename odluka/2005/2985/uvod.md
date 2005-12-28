@@ -1,0 +1,1 @@
+Na temelju članka 30, Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02 i 147/03) i članka 27. Statuta Općine Jelsa (»Službeni glasnik Općine Jelsa« br. 6/01), Općinsko vijeće Općine Jelsa na sjednici održanoj dana 14. prosinca 2005., donosi
