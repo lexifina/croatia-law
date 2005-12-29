@@ -1,0 +1,6 @@
+# Članak 45.
+(1) Izbori se moraju održati najkasnije 15 dana prije isteka mandata sudačkoga vijeća. Dan i mjesto izbora određuje sudačko vijeće, vodeći računa o tome da se svim sucima omogući nesmetano glasovanje.
+(2) Izbori se provode tako da svaki sudac na listi kandidata koju mu je dostavilo izborno povjerenstvo zaokruži najviše onoliko kandidata koliko se članova sudačkog vijeća bira.
+(3) Na temelju provedenih izbora izborno će povjerenstvo u roku od dva dana utvrditi redoslijed kandidata po broju glasova koje su dobili te objaviti imena kandidata koji su izabrani za članove sudačkih vijeća. Rezultati se objavljuju na oglasnoj ploči sudova za koje se sudačko vijeće bira.
+(4) Za članove sudačkog vijeća izabrani su kandidati koji su dobili najveći broj glasova. Kandidati koji su po broju glasova iza izabranih članova vijeća smatraju se njihovim zamjenicima. Ako je s istog suda izabrano više kandidata od dopuštenog broja, smatrat će se izabranim samo oni kandidati s tog suda koji imaju više glasova do maksimalnog broja sudaca koji mogu biti izabrani s tog suda.
+(5) U slučaju da dva ili više kandidata imaju jednak broj glasova, izabran je kandidat koji je dulje obnašao sudačku dužnost u sudu za koji se izbori provode, a ako su oba kandidata jednako dugo obnašala tu dužnost, izabran je stariji kandidat.

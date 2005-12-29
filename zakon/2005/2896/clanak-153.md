@@ -1,0 +1,2 @@
+# Članak 153.
+Kad korisnik sudskog pologa ne preuzme sudski polog u roku od dvije godine po pravomoćnosti rješenja kojim se određuje izdavanje pologa, sud će ga ponovno pozvati na preuzimanje pologa. Ako nakon ponovnog poziva suda korisnik ne preuzme sudski polog, sud će rješenjem utvrditi prestanak prava korisnika na izručenje pologa i polog prenijeti u korist državnog proračuna Republike Hrvatske.

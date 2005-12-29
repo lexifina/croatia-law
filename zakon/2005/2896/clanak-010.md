@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Poslovi se sucima i vijećima raspodjeljuju prema rasporedu utvrđenom za svaku godinu. Predmet koji je prema takvom rasporedu dodijeljen određenom sucu ili vijeću, smije biti dodijeljen drugom sucu ili vijeću samo u slučaju njihove spriječenosti.
+(2) Predsjednik Vrhovnog suda Republike Hrvatske može odrediti da u pojedinoj vrsti predmeta postupa drugi stvarno nadležni sud, ako sud koji je po zakonu mjesno i stvarno nadležan zbog velikog broja predmeta koje ima u radu, ne može u razumnom roku raspraviti te predmete i donijeti odluku.
+(3) Predsjednik Vrhovnog suda Republike Hrvatske odredit će rješenjem koji se predmeti ustupaju drugom stvarno nadležnom sudu na suđenje.
+(4) Sud koji ustupa predmet o tome će dopisom obavijestiti stranke, odnosno njihove punomoćnike ili zastupnike.
+(5) U slučaju iz stavka 2. ovoga članka strankama i njihovim punomoćnicima pripada pravo na naknadu troškova javnog prijevoza. Odvjetnicima pripada naknada troškova za izbivanje iz pisarnice za vrijeme putovanja i naknada troškova prijevoza određena Tarifom o nagradama i naknadi troškova za rad odvjetnika. Troškovi iz stavka 1. ovoga članka isplatit će se na teret državnog proračuna, ako su ti troškovi veći od onih koje bi stranke imale da se postupak vodi pred mjesno nadležnim sudom.

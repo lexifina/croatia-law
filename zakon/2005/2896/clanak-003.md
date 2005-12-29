@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Sudovi štite Ustavom i zakonima utvrđeni pravni poredak Republike Hrvatske, te osiguravaju jedinstvenu primjenu zakona, ravnopravnost i jednakost svih pred zakonom.
+(2) Sudovi odlučuju u sporovima o osnovnim pravima i obvezama čovjeka, o pravima i obvezama Republike Hrvatske, jedinica lokalne i područne (regionalne) samouprave, izriču kazne i druge mjere počiniteljima kaznenih djela i prekršaja utvrđenih zakonom i drugim propisima, odlučuju o zakonitosti pojedinačnih akata upravnih vlasti i osoba koje imaju javne ovlasti, rješavaju sporove o osobnim odnosima građana, radne, trgovačke, imovinske i druge građanskopravne sporove, te odlučuju u drugim pravnim stvarima kad je to zakonom određeno.

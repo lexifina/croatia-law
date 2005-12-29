@@ -1,0 +1,4 @@
+# Članak 125.
+(1) U državnu službu za službenika pravosudne policije može se primiti osoba koja osim općih uvjeta za prijam u državnu službu ima i posebnu zdravstvenu sposobnost, sukladno pravilniku o posebnoj zdravstvenoj sposobnosti kojega donosi ministar pravosuđa uz suglasnost ministra nadležnog za poslove zdravstvene zaštite.
+(2) Službenici pravosudne policije postavljaju se u posebna zvanja obilježena odgovarajućim znakovljem, a za vrijeme službe nose posebnu odoru, službenu iskaznicu i značku. Propise o zvanjima, znakovlju, odori i službenoj iskaznici donosi Vlada Republike Hrvatske.
+(3) Službenicima pravosudne policije se zbog težine i naravi posla i posebnih uvjeta rada: smjenski rad, rad na državne blagdane, izloženost stresu, svakih dvanaest mjeseci provedenih na takvim poslovima računa kao šesnaest mjeseci staža osiguranja.
