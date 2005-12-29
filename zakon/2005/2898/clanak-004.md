@@ -1,0 +1,14 @@
+# Članak 4.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+1. elektronička isprava - jednoznačno povezan cjelovit skup podataka koji su elektronički oblikovani (izrađeni pomoću računala i drugih elektroničkih uređaja), poslani, primljeni ili sačuvani na elektroničkom, magnetnom, optičkom ili drugom mediju, i koji sadrži svojstva kojima se utvrđuje izvor (stvaratelj), utvrđuje vjerodostojnost sadržaja te dokazuje postojanost sadržaja u vremenu. Sadržaj elektroničke isprave uključuje sve oblike pisanog teksta, podatke, slike i crteže, karte, zvuk, glazbu, govor,
+2. dokumentacijsko svojstvo - obvezatni skup podataka, poput elektroničkog potpisa, vremena izrade, naziva stvaratelja i drugih, koji se ugrađuju u elektroničku ispravu u svrhu zadržavanja vjerodostojnosti, cjelovitosti i valjanosti kroz vremensko razdoblje utvrđeno zakonima i drugim propisima,
+3. elektronički potpis - znači napredan elektronički potpis utvrđen Zakonom o elektroničkom potpisu i kojim se pouzdano jamči identitet potpisnika i udovoljava zahtjevima sadržanim u članku 4. Zakona o elektroničkom potpisu,
+4. stvaratelj - fizička ili pravna osoba koja primjenom elektroničkih sredstava (uređaji i programi) izrađuje, oblikuje i potpisuje elektroničku ispravu svojim naprednim elektroničkim potpisom,
+5. pošiljatelj - fizička ili pravna osoba koja šalje ili u ime koje se primatelju šalje elektronička isprava i ne uključuje informacijskog posrednika,
+6. primatelj - fizička ili pravna osoba koja prima njoj upućenu elektroničku ispravu i ne uključuje informacijskog posrednika,
+7. dokumentacijski ciklus - promet elektroničke isprave od trenutka izrade do arhiviranja uključujući radnje izrade, slanja, primanja, pohranjivanja i čuvanja s pridruženim postupcima unošenja i ovjere podataka kojima se potvrđuje stvaratelj, pošiljatelj, primatelj, vrijeme otpreme i vrijeme prijema, vjerodostojnost i cjelovitost elektroničke isprave,
+8. informacijski sustav - informacijsko-komunikacijski sklop kao skup programa, informatičkih i telekomunikacijskih uređaja, metoda i postupaka primijenjenih u postupcima izrade, slanja, primanja, provjere i čuvanja elektroničkih isprava,
+9. djelatnik informacijskog sustava - fizička osoba koja izravno djeluje u informacijskom sustavu u postupcima rukovanja elektroničkim ispravama,
+10. informacijski posrednik - fizička ili pravna osoba koja u ime drugih obavlja otpremu, prijem, prijenos i čuvanje elektroničkih isprava,
+11. elektronička arhiva - skup elektroničkih isprava uređenih u dokumentacijske cjeline u skladu sa zakonom i drugim propisima kojima se uređuju postupci čuvanja i arhiviranja isprava,
+12. tijela javne vlasti - su državna tijela, tijela jedinica lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima i druge osobe na koje su prenesene javne ovlasti.
