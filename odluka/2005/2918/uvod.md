@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« 117/93, 69/97, 33/00, 127/00. i 59/01.) i članka 21. Statuta Općine Cestica (»Službeni vjesnik Varaždinske županije« br. 18/01. i 22 /05.) Općinsko vijeće Općine Cestica na sjednici održanoj dana 9. prosinca 2005. godine, donijelo je
