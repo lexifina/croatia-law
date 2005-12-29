@@ -1,0 +1,2 @@
+# Članak 48.
+Postojeći suvlasnički udio Hrvatskih voda stečen nad objektima komunalne infrastrukture na temelju članka 2. točke 4. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 107/95., 19/96. i 88/98.) prenose se na jedinicu lokalne samouprave, koja je s Hrvatskim vodama suvlasnik na toj infrastrukturi. Troškove prijenosa snose stjecatelji. Hrvatske vode će stjecateljima izdati izjavu o prijenosu suvlasničkoga dijela na stjecatelja koja ima jednak učinak kao ugovor o darovanju.

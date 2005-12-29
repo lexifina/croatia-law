@@ -1,0 +1,3 @@
+# Članak 52.
+Do stupanja na snagu propisa iz članka 38.g stavka 3. ovoga Zakona, tijelo ili osoba iz članka 38.g stavka 2. ovoga Zakona, koja na temelju posebnih propisa isplaćuje poticaje, iste će isplatiti primatelju samo ako on potvrdom Hrvatskih voda dokaže da je podmirio svoj dug po osnovi slivne vodne naknade do 31. prosinca 2005., odnosno naknade za melioracijsku odvodnju od 1. siječnja 2006. do 1. siječnja 2009.
+Odredba članka 45. ovoga Zakona primjenjuje se na odgovornu osobu tijela ili osobe iz stavka 1. ovoga članka koja ne postupi po odredbi ili postupi protivno odredbi iz stavka 1. ovoga članka.

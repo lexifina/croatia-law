@@ -1,0 +1,2 @@
+# Članak 54.
+Danom stupanja na snagu ovoga Zakona, svi ugovori sklopljeni na temelju članka 31. stavka 4. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 107/95., 19/96. i 88/98.), te ugovori sklopljeni na temelju članka 33. stavka 4. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 107/95., 19/96. i 88/98.) smatraju se raskinutim. Ova odredba ne utječe na pravne učinke raskida.

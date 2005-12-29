@@ -1,0 +1,3 @@
+# Članak 49.
+U razdoblju od tri godine od dana stupanja na snagu ovoga Zakona Vlada Republike Hrvatske propisivat će visinu naknade za melioracijsku odvodnju, Hrvatske vode će izvršavati prava i obveze županija iz članka 38.c, 38.d, 38.e, 38.f i 38.g ovoga Zakona, a naknada će biti prihod Hrvatskih voda u tom razdoblju i koristit će se na slivnom području na kojem je ostvarena.
+Danom stupanja na snagu propisa iz stavka 1. ovoga članka prestaju važiti odluke županijskih skupština o stopama i visini slivne vodne naknade donesene na temelju članka 22. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 107/95., 19/96. i 88/98.).
