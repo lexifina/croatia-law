@@ -1,0 +1,3 @@
+# Članak 46.
+Prostorije i ormari u kojima se drže opasne kemikalije iz članka 2. točke 9. podtočke a), b), c), f), g), i) s oznakom: izaziva teške opekotine, l), m) i n) ovoga Zakona moraju biti zaključani, a ključevi moraju biti pohranjeni kod radnika odgovornog za smještaj i čuvanje opasne kemikalije u pravnoj osobi koja obavlja djelatnost proizvodnje, prometa i korištenja opasne kemikalije, odnosno kod fizičke osobe koja koristi opasne kemikalije.
+Na svim vratima prostorija i ormara u kojima se drže opasne kemikalije mora stajati znak opasnosti i natpis kojima se upozorava na vrstu opasnih kemikalija iz članka 2. točke 9. ovoga Zakona.
