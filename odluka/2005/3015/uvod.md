@@ -1,0 +1,1 @@
+Na osnovi odredbe članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 25. sjednici održanoj 21. prosinca 2005. godine, donijelo je
