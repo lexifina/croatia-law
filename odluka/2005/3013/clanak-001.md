@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu (»Narodne novine« broj 188/04., 30/05., 51/05., 60/05., 88/05 i 112/05., u daljnjem tekstu: Odluka o osnovama za 2005. godinu) u članku 4. stavku 1. iza riječi: »sklapanja ugovora sa « dodaju se riječi: »do sada ugovorenim kao i novim«, a u stavku 2. iza riječi: »područje« dodaju se riječi: »gdje Mreža nije popunjena«.
