@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom produljuje se primjena Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu (»Narodne novine« broj 188/04. i 30/05.) do donošenja Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2006. godinu.
