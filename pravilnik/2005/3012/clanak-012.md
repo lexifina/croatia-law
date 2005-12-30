@@ -1,0 +1,2 @@
+# Članak 12.
+Zdravstvenu zaštitu u djelatnostima na sekundarnoj razini u smislu ovog Pravilnika provode klinički bolnički centri, kliničke bolnice, klinike, opće bolnice, specijalne bolnice, poliklinike čiji je osnivač Republika Hrvatska, županija, odnosno Grad Zagreb i iznimno domovi zdravlja, privatne poliklinike, privatni zdravstveni radnici, ugovorni privatni zdravstveni radnici specijalisti i zdravstvene ustanove i privatni zdravstveni radnici više i srednje stručne spreme za obavljanje djelatnosti fizikalne terapije u kući bolesnika koji su u Mreži.
