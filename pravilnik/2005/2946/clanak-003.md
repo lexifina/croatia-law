@@ -1,0 +1,6 @@
+# Članak 3.
+Bolesnike - kandidate za presađivanje alogenim nesrodnim krvotvornim matičnim stanicama na temelju medicinskih indikacija i prioriteta za liječenje raspoređuje na nacionalnu listu čekanja Povjerenstvo zdravstvene ustanove koja ima odobrenje ministra nadležnog za zdravstvo za liječenje presađivanjem alogenih nesrodnih krvotvornih matičnih stanica (u daljnjem tekstu: Povjerenstvo).
+Prijedlog za liječenje presađivanjem alogenih nesrodnih krvotvornih matičnih stanica (u daljnjem tekstu: ANKMS) daje liječnik specijalist.
+Odgovorni liječnik specijalist iz stavka 2. ovoga članka jest liječnik specijalist interne medicine s užom specijalizacijom iz hematologije; liječnik specijalist interne medicine s užom specijalizacijom iz internističke onkologije ili liječnik specijalist pedijatrije s užom specijalizacijom iz pedijatrijske hematologije i onkologije ili pedijatrijske alergologije i kliničke imunologije.
+Prijedlog iz stavka 2. ovog članka ocjenjuje i prihvaća Povjerenstvo, koje bolesnika upisuje na listu čekanja za presađivanje ANKMS, a Referentni centar za tipizaciju tkiva ministarstva nadležnog za zdravstvo pokreće pretraživanje Registra.
+Prije upisa bolesnika na listu čekanja iz stavka 4. ovoga članka treba ishoditi pisani pristanak bolesnika, odnosno njegovog zakonskog zastupnika ili skrbnika za postupak alogene nesrodne transplantacije.
