@@ -1,0 +1,14 @@
+## Pojmovi
+# Članak 20.
+Pojmovi koji se koriste u ovom dijelu Pravilnika imaju sljedeće značenje:
+1) slot: dopuštenje koje daje koordinator slotova u skladu s odredbama ovoga dijela Pravilnika za korištenje kompletne infrastrukture zračne luke, koja je potrebna za obavljanje zračnog prometa u nekoj koordiniranoj zračnoj luci, na neki određeni datum i u neko određeno vrijeme, koje mu je u svrhu slijetanja ili uzlijetanja odredio koordinator slotova u skladu s ovim Pravilnikom;
+2) novi sudionik:
+(a) zračni prijevoznik koji traži, kao dio jedne serije slotova, slot u nekoj zračnoj luci, na bilo koji dan, gdje bi ako se njegov zahtjev prihvati, on ukupno držao manje od pet slotova na taj dan, ili
+(b) zračni prijevoznik koji traži seriju slotova za letove uključene u red letenja između dvije zračne luke, ako na taj dan najviše dva druga zračna prijevoznika obavljaju iste takve letove između tih zračnih luka, gdje bi, ako se njegov zahtjev prihvati, taj zračni prijevoznik i dalje držao manje od pet slotova za redovni promet na taj dan.
+Zračni prijevoznik, koji drži više od 5% ukupnih raspoloživih slotova za neki određeni dan u nekoj određenoj zračnoj luci, ne smatra se novim sudionikom u toj zračnoj luci;
+3) razdoblje reda letenja: ljetna ili zimska sezona koja se koristi u redovima letenja zračnih prijevoznika;
+4) zračni prijevoznik: pravna osoba registrirana za obavljanje javnog zračnog prometa koja posjeduje važeću operativnu dozvolu ili drugi odgovarajući dokument, najkasnije 31. siječnja za sljedeću ljetnu sezonu odnosno 31. kolovoza za sljedeću zimsku sezonu. Za potrebe tumačenja ovoga Pravilnika, definicija zračnog prijevoznika odnosi se odgovarajuće i na sve operatore civilnih zrakoplova;
+5) koordinirana zračna luka: svaka zračna luka u kojoj, da bi mogao sletjeti ili uzletjeti, zračni prijevoznik mora imati slot koji mu je dodijelio koordinator slotova, osim državnih letova, nužnih slijetanja i humanitarnih letova;
+6) regulirana zračna luka (»schedules facilitated airport«): zračna luka u kojoj postoji mogućnost zakrčenja u nekim dijelovima dana, tjedna ili godine, koje se može riješiti dragovoljnom suradnjom između zračnih prijevoznika i u kojoj je imenovan jedan regulator (»schedules facilitator«) da bi regulirao operacije zračnih prijevoznika koji prometuju ili namjeravaju prometovati u toj zračnoj luci;
+7) serija slotova: najmanje pet slotova koji se traže za isto vrijeme u istom danu tjedna u istom razdoblju reda letenja i koji su na taj način i dodijeljeni ili, ako to nije moguće, koji su dodijeljeni za približno isto vrijeme;
+8) koordinacijski parametri: iskazivanje, u operativnom smislu, svih raspoloživih kapaciteta za dodjelu slotova u nekoj zračnoj luci tijekom svakog koordinacijskog razdoblja, uzimajući u obzir sve tehničke, operativne i druge faktore koji utječu na funkcioniranje infrastrukture zračne luke i njenih različitih podsustava.

@@ -1,0 +1,6 @@
+## Informacije za regulatore i koordinatora slotova
+# Članak 26.
+(1) Zračni prijevoznici, koji prometuju ili namjeravaju prometovati u nekoj reguliranoj ili koordiniranoj zračnoj luci, dužni su regulatoru, odnosno koordinatoru slotova, dostaviti sve relevantne informacije koje oni zatraže. Sve relevantne informacije moraju biti dostavljene u obliku i unutar roka koje odredi regulator ili koordinator slotova. Zračni prijevoznik dužan je, u trenutku podnošenja zahtjeva za dodjelu slotova, obavijestiti koordinatora slotova o tome hoće li, u odnosu na tražene slotove, koristiti status novog sudionika, u skladu s člankom 20. točka 2. ovoga Pravilnika.
+(2) Za neregulirane i nekoordinirane zračne luke, operator te zračne luke će na zahtjev koordinatora slotova dostaviti sve informacije koje posjeduje o planiranim letovima zračnih prijevoznika.
+(3) Ako zračni prijevoznik ne dostavi informacije iz stavka 1. i 2. ovoga članka, osim ako opravda razloge, ili ako dostavi netočne informacije, koordinator slotova ne smije uzeti u razmatranje njegov zahtjev. Koordinator slotova takvom zračnom prijevozniku mora omogućiti da dostavi svoje očitovanje.
+(4) Regulator ili koordinator slotova, operator zračne luke i nadležna kontrola zračne plovidbe moraju razmjenjivati sve informacije koje su im potrebne za obavljanje njihovih poslova, uključujući podatke o letovima i slotove.

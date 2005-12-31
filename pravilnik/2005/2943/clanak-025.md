@@ -1,0 +1,7 @@
+## Parametri koordiniranja za dodjelu slotova
+# Članak 25.
+(1) Operator zračne luke, na koordiniranoj zračnoj luci, dva puta godišnje utvrđuje parametre koordiniranja za dodjelu slotova vodeći računa o svim relevantnim tehničkim, operativnim ograničenjima te ograničenjima vezanim uz specifično okruženje, kao i o svim promjenama istih.
+(2) Utvrđivanje parametara koordiniranja za dodjelu slotova mora se temeljiti na objektivnoj analizi mogućnosti prihvaćanja zračnog prometa, uvažavajući različite vrste zračnog prometa, moguća zakrčenja zračnog prostora za vrijeme koordinacijskog razdoblja te stanje glede kapaciteta.
+(3) Parametri koordiniranja za dodjelu slotova moraju biti dostavljeni koordinatoru slotova na vrijeme i prije početka prve dodjele slotova pred konferenciju o redovima letenja.
+(4) Za koordiniranu zračnu luku na kojoj se nisu utvrdili parametri koordiniranja za dodjelu slotova, koordinator slotova treba konzultirati Povjerenstvo za nadzor koordiniranja o statusu parametara koordiniranja na toj zračnoj luci.
+(5) Prije donošenja konačne odluke o parametrima za dodjelu slotova, u Povjerenstvu za nadzor koordiniranja treba detaljno raspraviti o utvrđivanju parametara i korištenoj metodologiji kao i o eventualnim izmjenama istih, u cilju povećavanja kapaciteta i broja raspoloživih slotova za dodjelu. Zainteresiranim stranama, na njihov zahtjev, treba dati na uvid sve relevantne dokumente.

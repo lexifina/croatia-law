@@ -1,0 +1,5 @@
+## Pristup objektima
+# Članak 13.
+(1) Pružatelji zemaljskih usluga i samostalni pružatelji usluga moraju imati pristup objektima zračne luke uključujući centraliziranu infrastrukturu, u mjeri koja je potrebna za obavljanje njihovih djelatnosti. Prostor za pružanje zemaljskih usluga mora biti podijeljen između različitih pružatelja zemaljskih usluga i samostalnih pružatelja usluga, na način potreban za ostvarenje njihovih prava te pošteno i djelotvorno natjecanje, a na temelju relevantnih, objektivnih, transparentnih i ne diskriminirajućih pravila i kriterija.
+(2) Operator zračne luke će odrediti pristojbu za pristup infrastrukturi prema relevantnim, objektivnim, transparentnim i nediskriminirajućim kriterijima.
+(3) Operator zračne luke može pružateljima zemaljskih usluga i samostalnim pružateljima usluga odrediti pristojbu i za korištenja drugih objekata zračne luke. Visina ovih pristojba mora biti određena prema relevantnim, objektivnim, transparentnim i nediskriminirajućim kriterijima.
