@@ -1,0 +1,4 @@
+# Članak 41.
+Radnicima koji po pisanom nalogu poslodavca, a iz tehnoloških razloga moraju za vrijeme dnevnog ili tjednog odmora, odnosno za vrijeme blagdana utvrđenih zakonom, biti pripravni kod kuće da bi zbog uklanjanja kvarova ili iz drugih opravdanih razloga došli na rad, od ostvarenih sati pogonske pripravnosti, obračunski se priznaje 20% radnim danom, odnosno za vrijeme dnevnog i tjednog odmora i 30% na dane blagdana utvrđene zakonom kao odrađeni sati u redovnom radnom vremenu te im se preraspodjelom radnog vremena osigurava korištenje takvih obračunskih sati pogonske pripravnosti kod kuće kao slobodnih dana.
+Obračunski sati iz stavka 1. ne ulaze u fond radnog vremena radniku za obračun plaće i ostvarenje prava iz radnog odnosa.
+Posebnom odlukom poslodavca odredit će se broj i struktura radnika, odnosno radnih mjesta po organizacijskim jedinicama, a kojima bi moglo biti naloženo da budu pripravni kod kuće.
