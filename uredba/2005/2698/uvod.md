@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 1. Zakona o Državnom inspektoratu (»Narodne novine«, br. 76/99, 96/2003, 151/2003, 160/2004, 174/2004, 33/2005, 48/2005 i 129/2005) i članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2001, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 24. studenoga 2005. godine donijela
