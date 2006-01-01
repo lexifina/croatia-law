@@ -1,0 +1,8 @@
+## Odobrenje za pripajanje ili spajanje
+# Članak 53.
+(1) Društvo za uzajamno osiguranje, prije pripajanja ili spajanja s drugim društvom za uzajamno osiguranje, mora dobiti odobrenje nadzornog tijela. Na donošenje odluke o odobrenju za pripajanje ili spajanje odgovarajuće se primjenjuju odredbe članka 59. do 61. ovoga Zakona.
+(2) Nadzorno tijelo može odbiti zahtjev za izdavanje odobrenja za pripajanje ili spajanje ako tijelo, ustrojeno za kontrolu konkurencije odbije zahtjev za suglasnost za pripajanje ili spajanje, odnosno zabrani pripajanje ili spajanje na temelju zakona koji uređuje kontrolu konkurencije.
+(3) Ako će nova pravna osoba koja nastaje spajanjem obavljati poslove osiguranja, prije upisa pripajanja ili spajanja u sudski registar, potrebno je dobiti dozvolu nadzornog tijela za obavljanje poslova osiguranja.
+(4) Ako se društvo za uzajamno osiguranje pripoji društvu preuzimatelju, koje nije društvo za uzajamno osiguranje, odnosno ako dio obveza društva za uzajamno osiguranje dijeljenjem s preuzimateljem preuzme društvo preuzimatelj, koje nije društvo za uzajamno osiguranje, te ako će društvo preuzimatelj obavljati poslove osiguranja, tada društvo preuzimatelj prije upisa u sudski registar mora dobiti dozvolu nadzornog tijela za obavljanje poslova osiguranja.
+(5) U slučaju navedenom u stavku 3., odnosno 4. ovoga članka, nadzorno tijelo spaja postupak donošenja odluke o odobrenju za pripajanje ili spajanje s postupkom izdavanja dozvole za obavljanje poslova osiguranja.
+(6) Odredbe stavka 1. do 5. ovoga članka odgovarajuće se primjenjuju i u slučaju podjele društva za uzajamno osiguranje.

@@ -1,0 +1,11 @@
+## Odlučivanje o odobrenju za stjecanje kvalificiranog udjela
+# Članak 22.
+(1) Zahtjevu za izdavanje odobrenja za stjecanje kvalificiranog udjela osoba koja želi steći kvalificirani udjel mora priložiti dokumente iz članka 59. točke 4., odnosno 5. ovoga Zakona.
+(2) Nadzorno tijelo odbit će zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela ako iz podataka kojima raspolaže proizlazi:
+- da bi zbog pravnog, odnosno financijskog položaja budućeg imatelja kvalificiranog udjela, odnosno zbog djelatnosti ili poslova koje obavlja budući imatelj kvalificiranog udjela ili s njime povezane osobe, odnosno zbog postupaka koje su budući imatelj kvalificiranog udjela ili s njime povezane osobe činili, moglo biti ugroženo poslovanje dioničkog društva za osiguranje sukladno pravilima o ograničavanju rizika,
+- da bi zbog djelatnosti ili poslova koje obavlja budući imatelj kvalificiranog udjela odnosno s njime povezane osobe, odnosno zbog načina povezanosti među ovim osobama moglo biti onemogućeno odnosno bitno otežano obavljanje nadzora nad dioničkim društvom za osiguranje.
+(3) Nadzorno tijelo odbit će zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela stranom budućem imatelju kvalificiranog udjela ako bi, uzimajući u obzir propise države te osobe, odnosno uzimajući u obzir praksu države te osobe glede primjene i izvršavanja tih propisa, obavljanje nadzora sukladno ovom Zakonu moglo biti onemogućeno, odnosno bitno otežano.
+(4) Prije donošenja odluke na temelju stavka 2., odnosno 3. ovoga članka nadzorno tijelo mora toj osobi odrediti rok koji ne smije biti kraći od 15 niti dulji od 30 dana da se očituje o razlozima odbijanja.
+(5) Ako je pravna osoba podnijela zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja, postupak odlučivanja o odobrenju iz stavka 1. ovoga članka objedinjuje se s postupkom odlučivanja o izdavanju dozvole za obavljanje poslova osiguranja.
+(6) Ako nadzorno tijelo o zahtjevu za izdavanje odobrenja iz članka 21. stavka 1., odnosno stavka 2. ovoga Zakona, ne odluči u roku dva mjeseca od dana podnošenja zahtjeva, podrazumijeva se da je odobrenje izdano.
+(7) U slučaju iz stavka 6. ovoga članka, nadzorno tijelo na zahtjev imatelja kvalificiranog udjela mora izdati odluku kojom se potvrđuje da je odobrenje izdano u roku od 8 dana od primitka zahtjeva za izdavanje utvrđene odluke.

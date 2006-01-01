@@ -1,0 +1,4 @@
+## Zastupnici i posrednici u osiguranju
+# Članak 299.
+(1) Osobe koje na dan stupanja na snagu ovoga Zakona imaju ovlaštenje za obavljanje poslova zastupanja, odnosno posredovanja u osiguranju izdano od ministra financija, dužna su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona podnijeti zahtjev nadzornom tijelu za izdavanje ovlaštenja za obavljanje poslova zastupanja, odnosno posredovanja u osiguranju. Zahtjevu je osoba dužna priložiti dokaz da nije osuđivana za kaznena djela iz područja gospodarskog kriminala, odnosno da nije pod istragom.
+(2) Nadzorno tijelo izdat će osobi iz stavka 1. ovoga članka na temelju ovlaštenja za obavljanje poslova zastupanja, odnosno posredovanja u osiguranju izdanog od ministra financija ovlaštenje za obavljanje poslova zastupanja u osiguranju iz članka 248. ovoga Zakona, odnosno ovlaštenje za obavljanje poslova posredovanja u osiguranju iz članka 249. ovoga Zakona.

@@ -1,0 +1,4 @@
+## Promjena podataka iz obavijesti
+# Članak 78.
+(1) Odredbe članka 77. ovoga Zakona na odgovarajući način se primjenjuju i u slučaju kada društvo za osiguranje, koje je sukladno članku 77. stavka 6. i 7. ovoga Zakona počelo obavljati poslove osiguranja u državi članici, namjerava obavljanje poslova osiguranja proširiti na poslove u vrstama osiguranja koje nisu navedene u obavijesti iz članka 77. stavka 1. ovoga Zakona, odnosno ako se promijene druge okolnosti ili uvjeti o kojima je nadzorno tijelo obavijestilo nadležno nadzorno tijelo putem obavijesti iz članka 77. stavka 4. ovoga Zakona.
+(2) Iznimno od odredbe stavka 1. ovoga članka, nadzorno tijelo dužno je neodgodivo obavijestiti nadležno nadzorno tijelo države članice ako društvo za osiguranje ne ispunjava propisanu razinu adekvatnosti kapitala.

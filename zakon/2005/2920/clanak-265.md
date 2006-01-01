@@ -1,0 +1,7 @@
+## Obavljanje djelatnosti zastupanja i posredovanja u osiguranju u državi članici
+# Članak 265.
+(1) Društvo za zastupanje, odnosno posredovanje u osiguranju na području države članice može obavljati djelatnost zastupanja, odnosno posredovanja u osiguranju za koju je dobilo dozvolu nadzornog tijela, neposredno ili preko podružnice, ako ispunjava uvjete određene propisima te države članice.
+(2) Društvo za zastupanje, odnosno posredovanje u osiguranju koje namjerava započeti s obavljanjem djelatnosti zastupanja, odnosno posredovanja u osiguranju u državi članici dužno je o tome obavijestiti nadzorno tijelo.
+(3) Nadzorno tijelo dužno je obavijest iz stavka 2. ovoga članka u roku od mjesec dana proslijediti nadležnom nadzornom tijelu države članice, ako je ono to zatražilo, te o tome obavijestiti društvo za zastupanje, odnosno posredovanje u osiguranju.
+(4) Društvo za zastupanje odnosno posredovanje u osiguranju može započeti obavljati djelatnost zastupanja, odnosno posredovanja u osiguranju u drugoj državi članici istekom mjesec dana od dana primitka obavijesti nadzornog tijela navedene u stavku 3. ovoga članka. Društvo za zastupanje odnosno posredovanje u osiguranju može odmah započeti obavljati djelatnost zastupanja, odnosno posredovanja u osiguranju ako nadležno nadzorno tijelo države članice nije zatražilo obavijest iz stavka 2. ovoga članka.
+(5) Odredbe ovoga članka na odgovarajući se način primjenjuju na obavljanje poslova zastupnika, odnosno posrednika u osiguranju u državi članici.

@@ -1,0 +1,15 @@
+## Odobrenje za člana uprave društva za osiguranje
+# Članak 28.
+(1) Članom uprave dioničkog društva za osiguranje može biti imenovana osoba koja dobije odobrenje nadzornog tijela za obavljanje funkcije člana uprave društva za osiguranje.
+(2) Zahtjev za izdavanje odobrenja iz stavka 1. ovoga članka podnosi nadzorni odbor društva za osiguranje za mandat koji ne može biti duži od pet godina.
+(3) Zahtjevu iz stavka 2. ovoga članka moraju se priložiti dokazi o ispunjavanju uvjeta iz članka 27. ovoga Zakona koji ne smiju biti stariji od tri mjeseca osim dokaza iz stavka 1. podstavka 1. i 2. toga članka. Sadržaj potrebne dokumentacije, kojom kandidat za člana uprave dokazuje ispunjava li uvjete iz članka 27. ovoga Zakona, propisuje nadzorno tijelo.
+(4) Nadzorno tijelo može odlučiti da kandidat za člana uprave u postupku odlučivanja o odobrenju mora predstaviti program vođenja poslova društva za osiguranje.
+(5) Nadzorno tijelo izdat će odobrenje iz stavka 1. ovoga članka ako na temelju dokumenata iz stavka 2. ovoga članka i predstavljenog programa iz stavka 4. ovoga članka zaključi da kandidat ispunjava uvjete za člana uprave društva za osiguranje.
+(6) Nadzorno tijelo odbit će izdavanje odobrenja ako iz podataka kojima raspolaže proizlazi da bi, zbog djelatnosti i poslova kojima se osoba bavi, odnosno zbog postupaka koje je osoba činila, bilo ugroženo poslovanje društva za osiguranje sukladno pravilima o ograničavanju rizika ili ako na temelju navoda iz stavka 4. ovoga članka prosudi da kandidat neće izvršavati poslove društva za osiguranje sukladno propisima donesenim na temelju ovoga Zakona te drugih zakona i propisa koji uređuju poslovanje društva za osiguranje ili ako utvrdi da je osoba u zahtjevu za izdavanje odobrenja, odnosno tijekom predstavljanja iz stavka 4. ovoga članka navela netočne podatke.
+(7) Ako je osoba dobila odobrenje za obavljanje funkcije člana uprave mora prije imenovanja na tu funkciju u drugom društvu za osiguranje dobiti odobrenje nadzornog tijela. Na odobrenje se na odgovarajući način primjenjuju odredbe stavka 4., 5, i 6. ovoga članka.
+(8) Ako je pravna osoba podnijela zahtjev za izdavanje odobrenja za obavljanje poslova osiguranja, postupak odlučivanja o odobrenju iz stavka 1. ovoga članka objedinjuje se s postupkom odlučivanja o odobrenju za obavljanje poslova osiguranja.
+(9) Odobrenje iz stavka 1. ovoga članka prestaje važiti ako:
+- osoba u roku od šest mjeseci od primitka odobrenja za obavljanje funkcije člana uprave ne bude imenovana za člana uprave društva za osiguranje na koje se odobrenje odnosi, te je postupak izdavanja odobrenja bio spojen s postupkom izdavanja odobrenja za obavljanje poslova osiguranja društva za osiguranje,
+- osoba u roku od tri mjeseca od primitka odobrenja za obavljanje funkcije člana uprave ne bude imenovana za člana uprave dioničkog društva za osiguranje na koje se odobrenje odnosi,
+- osobi prestaje funkcija člana uprave društva za osiguranje, na koju se odobrenje odnosi, s danom prestanka funkcije,
+- osobi istekne ugovor o radu u društvu za osiguranje, na koje se odobrenje odnosi, s danom isteka ugovora.

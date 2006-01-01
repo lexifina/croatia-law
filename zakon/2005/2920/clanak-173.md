@@ -1,0 +1,7 @@
+## Ocjena rezultata posebne uprave
+# Članak 173.
+(1) Nadzorno tijelo dužno je najmanje jednom u tri mjeseca ocijeniti rezultate posebne uprave.
+(2) Nadzorno tijelo dužno je prihvatiti konačnu ocjenu rezultata posebne uprave najmanje tri mjeseca nakon primitka izvješća iz članka 171. stavka 2. ovoga Zakona.
+(3) Ako nadzorno tijelo procijeni da se za vrijeme trajanja posebne uprave financijsko stanje društva za osiguranje poboljšalo do mjere da je društvo za osiguranje dostiglo granicu solventnosti iz članka 98., odnosno 99. ovoga Zakona, odnosno da je u stanju redovito izvršavati dospjele obveze, nadzorno tijelo dužno je donijeti odluku o prestanku posebne uprave i opozivu posebnih upravitelja.
+(4) Ako nadzorno tijelo procijeni da se za vrijeme trajanja posebne uprave financijsko stanje društva za osiguranje nije poboljšalo do mjere da društvo za osiguranje dostigne granicu solventnosti iz članka 98., odnosno 99. ovoga Zakona, odnosno da bi bilo u stanju izvršavati dospjele obveze, donijet će odluku o početku likvidacije, odnosno o utvrđivanju uvjeta za početak likvidacije.
+(5) U slučaju iz stavka 4. ovoga članka nadzorno tijelo može donijeti i odluku o produženju posebne uprave na rok od najviše šest mjeseci ako ne postoje uvjeti za početak stečaja društva za osiguranje te ako nadzorno tijelo procijeni da će društvo za osiguranje u sljedećih šest mjeseci dostići granicu solventnosti iz članka 98., odnosno 99. ovoga Zakona.
