@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Praćenje kakvoće zraka obavlja se u postajama iz državne mreže i lokalnih mreža za praćenje kakvoće zraka prema propisanom programu mjerenja kakvoće zraka, načinu mjerenja, mjernim postupcima i prikupljanju podataka, načinu obrade i prikaza rezultata te načinu dostave podataka za potrebe informacijskog sustava kakvoće zraka i načinu redovitog obavješćivanja javnosti prema Zakonu o zaštiti zraka.
+(2) U državnoj i lokalnoj mreži za trajno praćenje kakvoće zraka potrebno je osigurati mjerenje koncentracija PM2,5, po mogućnosti na mjernim mjestima gdje se određuje koncentracija PM10.
