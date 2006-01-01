@@ -1,0 +1,2 @@
+# Članak 83.
+U slučaju prekoračenja ograničenja ulaganja iz članka 79. ovoga Zakona koja su posljedica transakcija koje je sklopilo društvo za upravljanje, a kojima su se u trenutku njihova sklapanja prekoračila navedena ograničenja, društvo za upravljanje dužno je uskladiti ulaganja fonda sukladno odredbi članka 78. ovoga Zakona odmah po saznanju za prekoračenje. Društvo za upravljanje dužno je fondu nadoknaditi tako nastalu štetu.

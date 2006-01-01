@@ -1,0 +1,5 @@
+# Članak 125.
+(1) Kupnja udjela u otvorenom investicijskom fondu s privatnom ponudom obavlja se uplatama novčanih sredstava, čime kupac po kupnji udjela ulazi u ugovorni odnos s društvom za upravljanje koje se obvezuje da će uplaćenim novčanim sredstvima, upravljati kao dijelom zajedničke imovine fonda, u skladu s uvjetima naznačenim u prospektu.
+(2) Iznimno od stavka 1. ovoga članka, kupnja udjela u fondu može se obaviti dodjelom novih udjela na ime isplate udjela u dobiti ili prilikom smanjivanja vrijednosti udjela na ime dodjele novih udjela, odnosno u drugim slučajevima propisanim prospektom fonda.
+(3) Društvo za upravljanje smije trajno ili privremeno obustaviti daljnje kupnje udjela u otvorenom investicijskom fondu s privatnom ponudom. U slučaju obustave kupnje udjela, društvo za upravljanje mora informaciju o obustavi kupnje s obrazloženjem dostaviti svim postojećim članovima fonda i Nadzornom tijelu.
+(4) Kupnja udjela u fondu i/ili isplata udjela se obavlja u vrijeme i na način naznačenima u prospektu fonda, a najmanje jednom godišnje tijekom svake poslovne godine fonda.

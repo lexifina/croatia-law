@@ -1,0 +1,2 @@
+# Članak 74.
+U slučaju oduzimanja odobrenja za rad društvu za upravljanje ili nastanka kakve druge okolnosti koja onemogućuje nastavak obavljanja poslova upravljanja zatvorenim investicijskim fondom s javnom ponudom, nadzorni odbor je obvezan u roku od šezdeset dana od nastupanja takvih okolnosti potpisati ugovor iz članka 76. ovoga Zakona s novim društvom za upravljanje. U suprotnom, nadzorni odbor je dužan sazvati glavnu skupštinu fonda.

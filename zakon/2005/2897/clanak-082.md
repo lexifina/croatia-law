@@ -1,0 +1,2 @@
+# Članak 82.
+U slučaju prekoračenja ograničenja ulaganja iz članka 79. ovoga Zakona, koja su posljedica kretanja cijena na tržištu, odnosno prekoračenja iz članka 81. ovoga Zakona, društvo za upravljanje, nastojeći sačuvati interese dioničara, dužno je uskladiti ulaganja fonda sukladno odredbi članka 78. ovoga Zakona u roku od godine dana, nastojeći pri tome eventualni gubitak svesti na najmanju moguću mjeru.

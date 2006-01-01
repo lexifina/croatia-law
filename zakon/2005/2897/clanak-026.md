@@ -1,0 +1,10 @@
+# Članak 26.
+Članovi društva za upravljanje, kao niti članovi uprave ili nadzornog odbora tog društva ne mogu biti:
+1. osobe koje su u razdoblju od tri godine prije stjecanja članstva u društvu za upravljanje imale najmanje 10% udjela u temeljnom kapitalu u društvu za upravljanje, banci ovlaštenoj za obavljanje poslova depozitne banke, zatvorenom investicijskom fondu, brokerskom društvu ili banci ovlaštenoj za obavljanje poslova kupnje i prodaje vrijednosnih papira, osiguravajućem društvu ili mirovinskom fondu u privatnom vlasništvu, u vrijeme kada je tim društvima oduzeto odobrenje za rad,
+2. osobe koje su izgubile članstvo u strukovnoj udruzi zbog nepridržavanja pravila udruge, ili kojima je Nadzorno tijelo odnosno odgovarajuće nadležno tijelo, izreklo mjeru oduzimanja dozvole za obavljanje poslova s vrijednosnim papirima,
+3. osobe koje su kažnjene za kazneno djelo uzrokovanja stečaja, povrede obveze vođenja poslovnih knjiga, oštećenja vjerovnika, pogodovanja vjerovniku, zlouporabe u stečajnom postupku, neovlaštenog otkrivanja i pribavljanja poslovne ili proizvodne tajne, te kaznenog djela prijevare, i to na vrijeme od pet godina nakon pravomoćnosti presude kojom su osuđene, a u to vrijeme se ne računa vrijeme provedeno na izdržavanju kazne,
+4. osobe protiv kojih su izrečene mjere sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno predmetom poslovanja društva za upravljanje dok traje zabrana,
+5. osobe koje su kažnjene za kazneno djelo prema Zakonu o tržištu vrijednosnih papira i osobe koje su više puta kažnjene za prekršaje propisane odgovarajućim zakonima,
+6. osobe kojima je oduzeta poslovna sposobnost,
+7. osobe koje posjeduju važeću dozvolu Nadzornog tijela za brokera ili investicijskog savjetnika odnosno odgovarajuće odobrenje nadležnog tijela, te stvarno obavljaju te poslove kao zaposlenici brokerskog društva ili banke ovlaštene za poslove s vrijednosnim papirima,
+8. osobe koje trenutno obnašaju neku dužnost u državnoj službi i koje su trenutno namještenici državne ili lokalne i područne (regionalne) samouprave ili tijela odgovornih Vladi Republike Hrvatske ili Hrvatskom saboru.

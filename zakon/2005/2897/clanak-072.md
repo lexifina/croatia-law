@@ -1,0 +1,2 @@
+# Članak 72.
+U godišnjem financijskom izvješću zatvorenoga investicijskog fonda s javnom ponudom objavljuje se ukupni iznos naknada i troškova plaćenih članu nadzornog odbora, kao i broj i vrijednost svih dionica kojima pojedini član nadzornog odbora raspolaže u fondu. Članovima nadzornog odbora nije dopušteno primanje nikakve nagrade od izdavatelja vrijednosnih papira u koje fond ulaže svoja sredstva, osim primanja koja mu pripadaju temeljem ugovora o radu.

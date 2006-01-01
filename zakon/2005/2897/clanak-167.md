@@ -1,0 +1,2 @@
+# Članak 167.
+Nadzorno tijelo će donijeti pravilnik kojim se uređuju osnova, sastavnice, način i rokovi izračuna kod utvrđivanja vrijednosti i cijena otvorenih investicijskih fondova, sastavnice, ograničenja, način izračuna, naplata i objavljivanje naknada za udjele u otvorenim investicijskom fondovima, trajanje i uvjeti propisanog razdoblja ponude, postupak, rokovi i provođenje prodaje i otkupa udjela, kao i obustava i nastavak njihove prodaje te otkup »in specie« i zamjena udjela u jednom fondu za udjele u drugom fondu kojime upravlja isto društvo za upravljanje.

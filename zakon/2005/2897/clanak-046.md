@@ -1,0 +1,6 @@
+## Dobrovoljni prestanak djelatnosti društva za upravljanje investicijskim fondovima
+# Članak 46.
+Društvo za upravljanje može prestati obavljati svoju registriranu djelatnost, pod sljedećim pretpostavkama:
+1. najmanje šezdeset dana prije dana prestanka upravljanja mora uputiti pisanu obavijest depozitnoj banci, u slučaju kada fond koristi usluge depozitne banke, Nadzornom tijelu u slučaju ako upravlja otvorenim investicijskim fondom ili nadzornom odboru i Nadzornom tijelu ako upravlja zatvorenim investicijskim fondom,
+2. ako nastupe okolnosti iz kojih nedvojbeno proizlazi da društvo za upravljanje nije ili neće biti u mogućnosti ispunjavati svoje obveze, dužno je o tome odmah izvijestiti Nadzorno tijelo ako upravlja otvorenim investicijskim fondom, odnosno nadzorni odbor ako upravlja zatvorenim investicijskim fondom,
+3. ako u roku od šezdeset dana od upućivanja obavijesti iz točke 1. ili 2. ovoga stavka društvo za upravljanje koje upravlja otvorenim investicijskim fondom ne provede postupak prijenosa upravljanja drugom ovlaštenom društvu za upravljanje sukladno članku 45. ovoga Zakona, odnosno ako isto ne učini nadzorni odbor u slučaju zatvorenoga investicijskog fonda, pokreće se postupak likvidacije fonda sukladno odredbama glave IX. ovoga Zakona.

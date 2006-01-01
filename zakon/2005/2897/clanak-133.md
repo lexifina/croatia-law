@@ -1,0 +1,3 @@
+# Članak 133.
+(1) Naknada društvu za upravljanje otvorenim investicijskim fondom s privatnom ponudom određuje se samostalnom odlukom društva za upravljanje. Naknada za upravljanje mora biti naznačena u prospektu fonda.
+(2) Naknada za upravljanje otvorenim investicijskim fondom s privatnom ponudom, odnosno jedan njen dio smije biti utvrđena na način da ovisi o prinosu fonda. Naknada, odnosno njezin dio koji ovisi o prinosu fonda, računa se kao umnožak razlike ulazne cijene i izlazne cijene, odnosno ulazne cijene i cijene fonda na zadnji radni dan poslovne godine i broja udjela. Visinu naknade, način njenog obračuna i plaćanja utvrđuje društvo za upravljanje u prospektu fonda.

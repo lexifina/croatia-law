@@ -1,0 +1,6 @@
+## Početna ponuda i utvrđivanje cijene udjela ili dionica fonda
+# Članak 155.
+(1) Razdoblje za početnu ponudu udjela u otvorenom fondu, odnosno dionica zatvorenog fonda ne smije trajati dulje od trideset dana. Tijekom tog razdoblja ukupni iznos primljenih novčanih sredstava drži se kao depozit i ne smije se ulagati sve do trenutka kada fond ne prijeđe zakonom utvrđeni prag najniže vrijednosti imovine fonda.
+(2) Ulaganje prikupljenih novčanih sredstava, osim ulaganja u depozit, smije početi tek po isteku razdoblja ponude.
+(3) Cijena inicijalnog odnosno prvog izdanja zatvorenoga investicijskog fonda jest nominalna cijena svake dionice. Cijena kasnijih izdanja jest tržišna cijena dionice, pri čemu se ne dira u pravo postojećih dioničara da im se dodatne dionice ponude u srazmjeru s njihovim trenutačnim udjelom u fondu.
+(4) Kod inicijalne, odnosno početne ponude otvorenoga investicijskog fonda cijenu izdanja određuje društvo za upravljanje i navodi je u prospektu fonda. Nakon početne ponude, cijena udjela u otvorenom investicijskom fondu jest jedinstvena cijena jednaka neto vrijednosti imovine fonda po udjelu koja se izračunava na temelju tržišne cijene svih vrijednosnih papira iz portfelja fonda.

@@ -1,0 +1,3 @@
+## Pojam otvorenoga investicijskog fonda s privatnom ponudom
+# Članak 123.
+Otvoreni investicijski fond s privatnom ponudom jest zasebna imovina bez pravne osobnosti, koju uz odobrenje Nadzornog tijela osniva društvo za upravljanje, s ciljem prikupljanja novčanih sredstava privatnom ponudom udjela u fondu, čija se sredstva ulažu u skladu s ciljevima ulaganja i ograničenjima ulaganja utvrđenim prospektom fonda, te čiji imatelji udjela imaju pravo, pored prava na razmjerni udio u dobiti fonda, na način i pod uvjetima utvrđenim prospektom fonda, zahtijevati isplatu udjela i na taj način istupiti iz fonda.

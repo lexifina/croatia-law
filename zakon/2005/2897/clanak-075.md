@@ -1,0 +1,2 @@
+# Članak 75.
+U slučaju oduzimanja odobrenja za rad depozitnoj banci zatvorenoga investicijskog fonda s javnom ponudom ili nastanka kakve druge okolnosti koja depozitnoj banci fonda onemogućuje nastavak obavljanja ugovorenih poslova, nadzorni odbor je obvezan u roku od šezdeset dana od nastupanja takvih okolnosti potpisati ugovor s drugom depozitnom bankom. U suprotnom, nadzorni odbor je dužan sazvati glavnu skupštinu fonda.

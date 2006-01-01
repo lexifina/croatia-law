@@ -1,0 +1,27 @@
+## Ograničenja ulaganja
+# Članak 79.
+(1) Ulaganje imovine zatvorenoga investicijskog fonda s javnom ponudom podliježe sljedećim ograničenjima:
+1. najviše 15% neto vrijednosti imovine fonda može biti uloženo u vrijednosne papire ili instrumente tržišta novca jednog te istog izdavatelja uz iznimku da:
+a) u vrijednosne papire ili instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, država članica ili jedinica lokalne uprave države članice, država koja nije članica Europske unije ili međunarodna javna organizacija u kojoj su članovi jedna ili više država članica, može se ulagati bez ograničenja pod uvjetom da:
+- u prospektu i statutu fonda budu jasno naznačene države, jedinice lokalne uprave ili međunarodne organizacije u čije se vrijednosne papire i instrumente tržišta novca može ulagati više od 35% imovine fonda,
+- da se imovina fonda sastoji od barem šest različitih vrijednosnih papira ili instrumenata tržišta novca, i
+- da vrijednost niti jednoga pojedinoga vrijednosnog papira ili instrumenta tržišta novca iz točke 1. podtočke a) ovoga stavka ne prelazi 30% imovine fonda,
+b) ako fond nastoji replicirati neki dionički indeks ili indeks dužničkih vrijednosnih papira, Nadzorno tijelo može dozvoliti da se u dionice ili dužničke vrijednosne papire jednog te istog izdavatelja može uložiti do 20% imovine fonda, a u iznimnim okolnostima da se u dionice ili dužničke vrijednosne papire jednog te istog izdavatelja može uložiti do 35% imovine fonda ako je to neophodno za repliciranje tog indeksa, ulaganje do 35% imovine fonda u dionice ili dužničke vrijednosne papire jednog te istog izdavatelja dozvoljeno je samo za jednog izdavatelja, takav fond mora u svom prospektu i statutu jasno naznačiti da mu je investicijski cilj repliciranje indeksa,
+2. osobe koje čine povezana društva sukladno odredbama Zakona o trgovačkim društvima i ovoga Zakona smatraju se jednim izdavateljem u smislu članka 78. ovoga Zakona i odredbama ovoga članka, pri čemu najviše 20% neto vrijednosti imovine fonda može biti uloženo u vrijednosne papire ili instrumente tržišta novca čiji su izdavatelji osobe koje čine grupu povezanih društava,
+3. ograničenja iz stavka 1. točke 1. ovoga članka ne odnose se na:
+a) depozite,
+b) financijske izvedenice kojima se trguje na drugim organiziranim tržištima (OTC),
+4. najviše 20% neto vrijednosti imovine može se položiti kao depozit u jednu te istu banku iz članka 78. stavka 1. točke 4. ovoga Zakona,
+5. izloženost prema jednoj osobi na temelju financijskih izvedenica ugovorenih s tom osobom na drugom organiziranom tržištu (OTC) ne smije biti veća od:
+a) 10% neto vrijednosti imovine fonda ako se radi o banci iz članka 78. stavka 1. točke 4. ovoga Zakona,
+b) 5% neto vrijednosti imovine fonda ako se radi o nekoj drugoj pravnoj osobi,
+6. ukupna vrijednost ulaganja u vrijednosne papire ili instrumente tržišta novca čiji je izdavatelj jedna te ista osoba, i vrijednosti depozita položenih kod te osobe i izloženosti na temelju financijskih izvedenica kojima se trguje na drugom organiziranom tržištu (OTC) ugovorenih sa tom osobom ne smije prijeći 20% neto vrijednosti imovine fonda,
+7. najviše 20% neto vrijednosti imovine fonda može biti uloženo u udjele ili dionice jednog te istog investicijskog fonda iz članka 78. stavka 1. točke 2. ovoga Zakona, uz uvjet da najviše 30% imovine fonda može biti uloženo u fondove izvan članka 15. stavka 1. točke 2. i 3. ovoga Zakona i najviše 10% imovine fonda može biti uloženo u fondove s privatnom ponudom,
+8. ulaganje u udjele ili dionice investicijskih fondova ne može preći 25% neto vrijednosti imovine pojedinog fonda koji se ulaže,
+9. ukoliko se imovina fonda ulaže u udjele ili dionice investicijskih fondova kojima izravno ili neizravno upravlja isto društvo za upravljanje, ili kojima upravlja drugo društvo s kojim je to društvo povezano zajedničkom upravom ili kontrolom, ili izravnim ili neizravnim vlasničkim udjelom, na takva se ulaganja fondu ne smije naplatiti ulazna ili izlazna naknada,
+10. ukoliko se imovina fonda može ulagati u udjele ili dionice drugih investicijskih fondova, u prospektu fonda, uz maksimalnu naknadu za upravljanje koja se smije naplatiti na imovinu tog fonda, mora biti jasno naznačena i maksimalna naknada za upravljanje koja se smije naplatiti na imovinu fondova u koje namjerava ulagati, a u godišnjim izviješćima fonda mora jasno biti naznačena maksimalna ukupna naknada za upravljanje koja je bila naplaćena i tome fondu i drugom fondu u koji je taj fond uložio, izražena u postotku imovine fonda koji je uložio u udjele ili dionice drugoga investicijskog fonda,
+11. fond u svom vlasništvu ne može imati više od 25% dionica s pravom glasa jednog te istog izdavatelja ili vrijednosnih papira iz jednog te istog izdanja obveznica,
+12. ukupna izloženost fonda prema financijskim izvedenicama ni u kom slučaju ne smije biti veća od 10% neto vrijednosti imovine fonda,
+13. ako fond više od 40% svoje neto vrijednosti imovine namjerava uložiti u neuvrštene vrijednosne papire, tvrtka fonda treba uključivati riječi »zatvoreni investicijski fond s javnom ponudom za ulaganje u neuvrštene vrijednosne papire«,
+14. nikakva se ulaganja ne mogu obavljati u društva s ograničenom odgovornošću, kao ni u bilo kakve vrijednosne papire koji nisu slobodno prenosivi.
+(2) Nadzorno tijelo će donijeti pravilnik kojim se uređuju ograničenja ulaganja zatvorenih investicijskih fondova s javnom ponudom.

@@ -1,0 +1,2 @@
+# Članak 59.
+U slučaju raskida ugovora o pohrani, depozitna banka je dužna svu imovinu investicijskih fondova koju ima u pohrani prenijeti na pohranu depozitnoj banci s kojom društvo za upravljanje, odnosno nadzorni odbor zaključe ugovor o pohrani, pri čemu mora predati i knjige računa, evidenciju i sve druge dokumente i materijale bitne za poslovanje fondova za koje je do tada obavljala poslove depozitne banke, i to bilo u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.

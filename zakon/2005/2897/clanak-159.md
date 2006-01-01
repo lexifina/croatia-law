@@ -1,0 +1,4 @@
+## Otkup udjela u otvorenim investicijskim fondovima
+# Članak 159.
+(1) Otkup udjela u otvorenom investicijskom fondu se obavlja po cijeni koja u skladu s prospektom fonda i propisima vrijedi u trenutku primitka valjanog zahtjeva za prodaju, umanjenoj za izlaznu naknadu ukoliko se naplaćuje.
+(2) Otkup »in specie«, odnosno otkup prijenosom odgovarajućeg postotka svake vrste imovine fonda u vrijednosti jednakoj vrijednosti udjela koji se time otkupljuju, dopušten je u slučaju kada bi se prodajom imovine fonda, neophodnom za zadovoljenje zahtjeva za otkup velike vrijednosti, u nepovoljan položaj doveli trajni ulagatelji u fond, pod uvjetom da statut i prospekt fonda predviđaju otkup »in specie«. Otkup »in specie« se može obaviti samo prijenosom dijela svake vrste imovine fonda koji je razmjeran postotnom omjeru broja udjela ulagatelja koji traži otkup prema ukupnoj vrijednosti imovine fonda.

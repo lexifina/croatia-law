@@ -1,0 +1,6 @@
+## Pripajanje i likvidacija otvorenoga investicijskog fonda
+# Članak 181.
+(1) Dva otvorena investicijska fonda mogu se pripojiti uz suglasnost Nadzornog tijela. Postupak, uvjete i način pripajanja propisat će Nadzorno tijelo posebnim pravilnikom.
+(2) Likvidaciju otvorenoga investicijskog fonda provodi društvo za upravljanje fondom u likvidaciji, osim u slučajevima u kojima je društvo za upravljanje u stečaju ili mu je Nadzorno tijelo privremeno ili trajno oduzelo odobrenje za rad.
+(3) U slučaju nemogućnosti provedbe likvidacije otvorenoga investicijskog fonda od strane društva za upravljanje iz razloga naznačenih stavkom 1. ovoga članka, likvidaciju provodi depozitna banka fonda. Ukoliko je depozitna banka fonda u stečaju ili je Hrvatska narodna banka privremeno ili trajno oduzela odobrenje za rad depozitnoj banci fonda, likvidaciju provodi ovlašteni likvidator fonda imenovan od strane Nadzornog tijela.
+(4) Nadzorno tijelo je dužno imenovati likvidatora fonda iz stavka 3. ovoga članka bez odgode, postupajući pri tom s povećanom pažnjom i brinući se o pravima i interesima imatelja udjela u fondu. Nadzorno tijelo je odgovorno imateljima udjela u fondu za svako neopravdano kašnjenje ili odugovlačenje s imenovanjem likvidatora fonda, odnosno za postupanje protivno načelu povećane pažnje, uslijed čega su imatelji udjela pretrpili bilo koju štetu.

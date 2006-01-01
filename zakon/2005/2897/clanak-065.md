@@ -1,0 +1,5 @@
+## Troškovi zatvorenoga investicijskog fonda s javnom ponudom
+# Članak 65.
+(1) Troškovi i naknade u svezi s osnivanjem zatvorenoga investicijskog fonda s javnom ponudom mogu se plaćati na teret imovine fonda jedino ako je tako određeno prospektom i statutom. Najviši iznos troškova i naknada osnivanja koje se isplaćuju na teret imovine fonda u prospektu se iskazuje kao postotak novčanih sredstava uplaćenih u fond prilikom osnivanja. Sve ostale troškove i naknade u svezi s osnivanjem koji prelaze tako utvrđeni postotak snosi društvo za upravljanje, odnosno nadzorni odbor, ovisno o tome tko ih je prouzročio.
+(2) Ako zatvoreni investicijski fond s javnom ponudom ne uspije doseći najniži iznos temeljnog kapitala, troškove i naknade u svezi s osnivanjem snose osnivači koji su usvojili statut, a novčani ulozi se u cijelosti vraćaju ulagateljima.
+(3) Troškovi i naknade u svezi s osnivanjem plaćeni iz imovine zatvorenoga investicijskog fonda s javnom ponudom ne smiju prelaziti 3,5% ukupnih novčanih sredstava prikupljenih izdavanjem dionica.

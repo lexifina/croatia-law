@@ -1,0 +1,4 @@
+## Tvrtka društva za upravljanje
+# Članak 21.
+(1) Riječi: »društvo za upravljanje fondovima«, »investicijsko društvo«, »uprava fondova«, »investitor«, »invest« ili »investirati«, same ili zajedno s drugim riječima, smiju u nazivu tvrtke ili njegovu dodatku upotrebljavati samo društva za upravljanje investicijskim fondovima sa svrhom označavanja predmeta poslovanja te u promidžbene svrhe.
+(2) Stavak 1. ovoga članka ne odnosi se na društva koja riječi: »upravljati fondovima«, »investicija«, »investitor« ili »investirati« upotrebljavaju u kontekstu koji isključuje privid da je sadržaj predmeta poslovanja usmjeren na osnivanje i upravljanje investicijskim fondovima, odnosno ulaganje novčanih sredstava u vlastito ime i za zajednički račun imatelja udjela u otvorenom investicijskom fondu, odnosno u ime i za račun zatvorenoga investicijskog fonda, te upravljanje tim sredstvima.

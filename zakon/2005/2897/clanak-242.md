@@ -1,0 +1,5 @@
+## GLAVA XIV.
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+## Usklađivanje s odredbama ovoga Zakona
+# Članak 242.
+Trgovačka društva osnovana do dana stupanja na snagu ovoga Zakona, koji u nazivu djelatnosti ili u tvrtki imaju riječ: »fond«, izvedenice riječi: »fond« ili druge riječi utvrđene člankom 21. ovoga Zakona ili potpadaju pod pojam investicijskog fonda prema određenju pojma iz članka 3. ovoga Zakona, obvezni su uskladiti svoje unutarnje ustrojstvo, akte i poslovanje s odredbama ovoga Zakona koje se odnose na oblik, ustrojstvo, visinu temeljnoga kapitala i djelatnosti, te način zastupanja i upravljanja investicijskim fondovima, te Nadzornom tijelu podnijeti zahtjev za izdavanje odobrenja za nastavak poslovanja, i to najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona ili u istom roku prijaviti brisanje ili promjenu tvrtke ili njenoga dijela riječi: »fond«, izvedenice riječi: »fond«, djelatnosti upravljanja investicijskim fondovima, odnosno drugih suprotnosti s člankom 21. ovoga Zakona i o tome izvijestiti Nadzorno tijelo.
