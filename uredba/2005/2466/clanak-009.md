@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Prekoračenje granične vrijednosti (dugoročnog cilja) za ozon određuje se na osnovi koncentracija ozona izmjerenih u prethodnom petogodišnjem razdoblju na postajama za trajno praćenje prema posebnom propisu.
+(2) Na području, gdje nema podataka o koncentracijama ozona u prethodnom petogodišnjem razdoblju iz stavka 1. ovoga članka, za utvrđivanje prekoračenja granične vrijednosti (dugoročnog cilja) primjenjuju se kratkotrajna mjerenja u razdobljima i na mjestima za koja se sumnja da imaju najviše razine onečišćenja ozonom te se kombiniraju s rezultatima dobivenim iz popisa emisija i modeliranjem.

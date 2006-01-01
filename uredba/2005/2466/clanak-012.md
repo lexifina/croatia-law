@@ -1,0 +1,2 @@
+# Članak 12.
+Ispunjenje ciljeva iz članka 10. stavka 1. ove Uredbe, osigurava se na način iz članka 8. stavaka 1. i 2. ove Uredbe, tako da je 2010. godina prva godina trogodišnjeg razdoblja za utvrđivanje prekoračenja tolerantne vrijednosti (ciljne vrijednosti) za zaštitu zdravlja ljudi i petogodišnjeg razdoblja za utvrđivanje prekoračenja tolerantne vrijednosti (ciljne vrijednosti) za zaštitu vegetacije.

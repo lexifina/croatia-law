@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Za područje koje je razvrstano u III. kategoriju kakvoće zraka, u kojem razina ozona u zraku prekoračuje tolerantnu vrijednost (ciljnu vrijednost) iz tablice 1. ove Uredbe, moraju se poduzeti mjere utvrđene u Planu djelovanja zaštite i poboljšanja kakvoće zraka kojima će se razine ozona smanjiti, tako da od 2010. godine razine ozona u zraku ne prekoračuju tolerantne vrijednosti (ciljne vrijednosti) propisane ovom Uredbom.
+(2) Ako nije moguće postići tolerantne vrijednosti (ciljne vrijednosti) do 2010. godine u području iz stavka 1. ovoga članka, potrebno je primijeniti najmanje one mjere koje ne iziskuju pretjerano visoke troškove, u cilju osiguranja smanjivanja razine ozona u zraku koliko je god to moguće.
