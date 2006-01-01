@@ -1,0 +1,4 @@
+## Nemogućnost ispunjenja za koju ne odgovara nijedna strana
+# Članak 373.
+(1) Kad je ispunjenje obveze jedne strane u dvostranoobveznom ugovoru postalo nemoguće zbog izvanrednih vanjskih događaja nastalih nakon sklapanja ugovora a prije dospjelosti obveze, koji se u vrijeme sklapanja ugovora nisu mogli predvidjeti, niti ih je ugovorna strana mogla spriječiti, izbjeći ili otkloniti te za koje nije odgovorna ni jedna ni druga strana, gasi se i obveza druge strane, a ako je ova nešto ispunila od svoje obveze, može zahtijevati vraćanje po pravilima o vraćanju stečenog bez osnove.
+(2) U slučaju djelomične nemogućnosti ispunjenja zbog događaja za koji nije odgovorna ni jedna ni druga strana, druga strana može raskinuti ugovor ako djelomično ispunjenje ne odgovara njezinim potrebama, inače ugovor ostaje na snazi, a druga strana ima pravo zahtijevati razmjerno smanjenje svoje obveze.

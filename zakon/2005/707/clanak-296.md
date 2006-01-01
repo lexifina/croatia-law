@@ -1,0 +1,5 @@
+## Ništetnost pojedinih odredaba
+# Članak 296.
+(1) Ništetne su odredbe općih uvjeta ugovora koje, suprotno načelu savjesnosti i poštenja, prouzroče očiglednu neravnopravnost u pravima i obvezama strana na štetu suugovaratelja sastavljača ili ugrožavaju postizanje svrhe sklopljenog ugovora, čak i ako su opći uvjeti koji ih sadrže odobreni od nadležnog tijela.
+(2) Prilikom ocjene ništetnosti određene odredbe općih uvjeta ugovora uzimaju se u obzir sve okolnosti prije i u vrijeme sklapanja ugovora, pravna narav ugovora, vrsta robe ili usluge koja je objekt činidbe, ostale odredbe ugovora kao i odredbe drugog ugovora s kojim je ta odredba općih uvjeta ugovora povezana.
+(3) Odredba stavka 1. ovoga članka ne primjenjuje se na one odredbe općih uvjeta ugovora čiji je sadržaj preuzet iz važećih propisa ili se prije sklapanja ugovora o njima pojedinačno pregovaralo, a druga je strana pritom mogla utjecati na njihov sadržaj te na odredbe o predmetu i cijeni ugovora ako su jasne, razumljive i lako uočljive.
