@@ -1,0 +1,3 @@
+## Primjena Zakona
+# Članak 2.
+Odredbe ovoga Zakona primjenjuju se na državne službenike u tijelima državne uprave, pravosudnim tijelima, kaznenim tijelima, stručnoj službi Hrvatskoga sabora, Ureda predsjednika Republike Hrvatske, stručnoj službi i uredima Vlade Republike Hrvatske, stručnoj službi Ustavnog suda Republike Hrvatske, stručnoj službi pučkog pravobranitelja, stručnoj službi pravobranitelja za djecu, stručnoj službi pravobranitelja za ravnopravnost spolova, Državnom uredu za reviziju i u drugim tijelima koja se osnivaju za obavljanje državne službe (u daljnjem tekstu: državna tijela).
