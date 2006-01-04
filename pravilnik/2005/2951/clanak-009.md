@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Za mješavine voćnog soka i voćnog soka od koncentriranog voćnog soka, te za voćni nektar proizveden u potpunosti ili djelomično od jednog ili više koncentriranih proizvoda, na deklaraciji u blizini naziva proizvoda, istaknuto od pozadine s jasno vidljivim slovima, mora biti navedeno »proizvedeno od koncentriranog...« odnosno »djelomično proizvedeno od koncentriranog...«.
+(2) Za voćne nektare, na deklaraciji se mora navesti minimalni udio voćnog soka, voćne kaše ili smjese tih sastojaka, riječima »udio voća: najmanje...%«. Ovaj podatak se mora nalaziti u istom vidnom polju kao i naziv proizvoda.
