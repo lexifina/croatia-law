@@ -1,0 +1,3 @@
+# Članak 5.
+U bolničkim zdravstvenim ustanovama koje nemaju mogućnost dovršenja postupka potvrđivanja smrti mozga, liječnici su dužni u skladu s medicinskim kriterijima, započeti postupak utvrđivanja smrti mozga i s nacionalnim transplantacijskim koordinatorom (u daljnjem tekstu NTK) dogovoriti dolazak mobilnog tima za potvrdu smrti mozga, ako je isti dostupan ili osigurati prijevoz bolesnika u zdravstvenu ustanovu u kojoj je moguće provesti postupak potvrđivanja smrti mozga.
+U slučaju prijevoza bolesnika, obrazac zapisnika o utvrđivanju smrti treba priložiti ostaloj medicinskoj dokumentaciji bolesnika koja se dostavlja zdravstvenoj ustanovi iz stavka 1. ovoga članka.
