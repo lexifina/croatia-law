@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93., 69/97., 33/00., 73/00.,127/00. i 59/01.) i 16. članka Statuta Općine Lupoglav (»Službene novine Grada Pazina« broj 20/01), Općinsko vijeće Općine Lupoglav na sjednici održanoj dana 13. prosinca 2005. godine donijelo je
