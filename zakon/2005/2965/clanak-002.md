@@ -1,0 +1,3 @@
+# Članak 2.
+Zaposlenici iz članka 1. ovoga Zakona imaju pravo na starosnu mirovinu, bez obzira na godine života, ako imaju navršenih najmanje 30 godina mirovinskog staža, od čega najmanje 10 godina stvarno provedenih na poslovima pretraživanja, razminiranja, nadzora ili tehničkog izvida u trgovačkom društvu, kod obrtnika, u Ministarstvu obrane, Ministarstvu unutarnjih poslova ili Hrvatskom centru za razminiranje.
+U mirovinski staž od 10 godina stvarno provedenih na poslovima pretraživanja, razminiranja, nadzora ili tehničkog izvida, priznaje se vrijeme sudjelovanja u Domovinskom ratu u jednostrukom trajanju.
