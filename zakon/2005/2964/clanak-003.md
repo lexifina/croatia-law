@@ -1,0 +1,3 @@
+# Članak 3.
+Poslovima humanitarnog razminiranja, u smislu ovoga Zakona, ne smatraju se poslovi onesposobljavanja ili uništavanja pronađenih minsko-eksplozivnih sredstava (u daljnjem tekstu: MES) kada se radi o hitnim intervencijama koje su vezane za sigurnost ljudi, na područjima i/ili građevinama koje nisu minski sumnjive sukladno odredbama ovoga Zakona ili na minski podvodnim područjima.
+Ukoliko nadležne službe Ministarstva unutarnjih poslova (u daljnjem tekstu: Ministarstvo) ili postrojbe Oružanih snaga Republike Hrvatske prilikom obavljanja poslova iz stavka 1. ovoga članka utvrde da se radi o minski sumnjivom području izvijestit će Hrvatski centar za razminiranje (u daljnjem tekstu: HCR).

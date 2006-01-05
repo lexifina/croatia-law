@@ -1,0 +1,5 @@
+# Članak 48.
+Nakon završene profesionalne rehabilitacije osobe iz članka 36. ovoga Zakona prijavljuju se Hrvatskom zavodu za zapošljavanje i pripada im naknada plaće iz članka 47. stavka 2. ovoga Zakona, najduže 24 mjeseca od dana završene profesionalne rehabilitacije, pod uvjetom da se u roku od 30 dana od dana završetka profesionalne rehabilitacije, prijave nadležnoj službi za zapošljavanje i da se sukladno propisima o zapošljavanju redovito prijavljuju toj službi.
+Hrvatski zavod za mirovinsko osiguranje obvezan je uputiti osobe iz članka 36. ovoga Zakona na profesionalnu rehabilitaciju najkasnije u roku od 30 dana od dana pravomoćnosti rješenja o priznavanju prava na profesionalnu rehabilitaciju.
+Tijela državne uprave i druga državna tijela, tijela sudbene vlasti, tijela lokalne i područne (regionalne) samouprave, javne službe, izvanproračunski fondovi, pravne osobe te pravne osobe u vlasništvu ili pretežnom vlasništvu Republike Hrvatske obvezni su primiti na profesionalnu rehabilitaciju osobe iz članka 36. ovoga Zakona koje uputi Hrvatski zavod za mirovinsko osiguranje.
+2. Prava članova obitelji nakon smrti pirotehničara i s njima izjednačenim osobama

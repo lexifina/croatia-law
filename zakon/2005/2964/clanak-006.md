@@ -1,0 +1,2 @@
+# Članak 6.
+Županijsko poglavarstvo na čijem području postoje minski sumnjiva područja i/ili građevine ovlašteno je od tijela državne vlasti te pravnih i fizičkih osoba na njenom području prikupljati podatke o minski sumnjivim područjima i/ili građevinama te na temelju prikupljenih podataka u suradnji s HCR-om, u Planu iz članka 4. stavka 2. ovoga Zakona, predložiti prioritete humanitarnog razminiranja.

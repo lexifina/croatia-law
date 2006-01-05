@@ -1,0 +1,2 @@
+# Članak 54.
+Djeca smrtno stradalih osoba iz članka 36. ovoga Zakona imaju pravo na besplatne obvezatne udžbenike za potrebe redovitog školovanja u osnovnim i redovitog ili izvanrednog školovanja u srednjim školama, pod uvjetom ako to pravo ne mogu ostvariti po drugim propisima i ako im redoviti prihodi mjesečno po članu kućanstva ne prelaze prosjek neto plaće državnog službenika u Republici Hrvatskoj.
