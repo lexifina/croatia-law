@@ -1,0 +1,2 @@
+Na osnovi članka 100. stavka 4., te članka 132. Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01., 88/02., 149/02., 117/03., 30/04., 177/04. i 90/05) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 25. sjednici održanoj 21. prosinca 2005. godine donijelo je
+ODLUKU
