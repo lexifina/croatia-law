@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o Uredu za ljudska prava (»Narodne novine«, br. 22/2001 i 70/2001), u tabelarnom prikazu okvirnog broja državnih službenika i namještenika, mijenja se okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Ureda.
+Novi okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Ureda prikazan je u tabeli koja je sastavni dio ove Uredbe i koja se ne objavljuje u »Narodnim novinama«.
