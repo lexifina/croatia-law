@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Memorandum o suglasnosti između Vlade Republike Hrvatske i Europskog zapovjedništva Sjedinjenih Američkih Država koje djeluje u ime Vlade Sjedinjenih Američkih Država u vezi s korištenjem zračnog prostora, poligona, zračnih i pomorskih luka i objekata za obuku od strane američkih oružanih snaga u Europi (u daljnjem tekstu: Memorandum), potpisan u Ramsteinu AB GE 15. srpnja 2004., u izvorniku na engleskom i hrvatskom jeziku.
