@@ -1,0 +1,4 @@
+# Članak 38.
+Svaki presadak mora imati prateću dokumentaciju nakon izdavanja.
+Izdatnica za presadak iz banke tkiva mora sadržavati: naziv banke koja ga izdaje, šifru presatka u registru banke, jedinstveni identifikacijski broj darivatelja, podatke o vrsti i veličini presatka, datum pohrane i datum isteka roka, naziv metode održavanja sterilnosti i /ili obrade presatka, nalaz mikrobiološkog testiranja presatka, nalaze laboratorijskog testiranja darivatelja, upute o načinu pripreme presatka za korištenje, datum izdavanja presatka, osobne podatke primatelja, dijagnozu bolesti primatelja, ime i prezime liječnika operatera, predviđeni datum operacijskog zahvata, naziv zdravstvene ustanove u kojoj će se obaviti operacijski zahvat, odnosno naziv zdravstvene ustanove ili banke tkiva koja potražuje presadak.
+Izdatnicu u dva primjerka potpisuju odgovorna osoba banke tkiva te liječnik koji je preuzeo presadak, a originalni primjerak ostaje u arhivi banke tkiva.

@@ -1,0 +1,2 @@
+# Članak 26.
+Registar banke tkiva pridaje svakom presatku šifru. Putem šifre u registru se očitava: jedinstveni identifikacijski broj darivatelja, ime i prezime darivatelja, dob darivatelja, vrsta presatka, metoda obrade i/ili sterilizacije, datum skladištenja, datum isteka roka, datum izdavanja, ime i prezime primatelja, vrsta operacijskog zahvata, naziv zdravstvene ustanove ili banke tkiva kojoj je presadak izdan, datum uništavanja presatka.
