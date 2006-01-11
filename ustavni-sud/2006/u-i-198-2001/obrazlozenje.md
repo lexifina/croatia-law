@@ -1,0 +1,57 @@
+O b r a z l o ž e n j e
+1. Krešimir Panjaković iz Osijeka podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 72. stavka 1. i članka 173. stavka 5. Stečajnog zakona ("Narodne novine", broj 44/96., 29/99.) s Ustavom (U-I-198/2001), te prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 29. Zakona o izmjenama i dopunama Stečajnog zakona ("Narodne novine", broj 129/00.), koji prijedlog je izdvojen u poseban predmet (U-I-262/2001).
+2. Člankom 72. Stečajnog zakona ("Narodne novine", broj 44/96., 29/99.), koji uređuje tražbine nižih isplatnih redova, propisano je:
+(1) Nakon tražbina viših isplatnih redova, kao tražbine nižih isplatnih redova, namiruju se prema navedenom redoslijedu:
+1. kamate na tražbine stečajnih vjerovnika od otvaranja stečajnoga postupka,
+2. troškovi koji za pojedine vjerovnike nastanu njihovim sudjelovanjem u postupku,
+3. novčane kazne za kazneno ili prekršajno djelo kao i takve sporedne posljedice kaznenoga ili prekršajnoga djela kojima se nameće obveza plaćanja novca,
+4. tražbine za besplatnu činidbu dužnika,
+5. tražbine za povrat zajma kojim se nadomješta kapital nekoga člana društva ili odgovarajuće tražbine.
+(2) Tražbine iz stavka 1. ovoga članka koje spadaju u isti isplatni red namiruju se razmjerno.
+(3) Tražbine za koje je između vjerovnika i dužnika ugovoreno da će u stečajnom postupku biti nižega isplatnoga reda, u slučaju dvojbe, namirivat će se nakon tražbina iz stavka 1. ovoga članka.
+(4) Kamate na tražbine stečajnih vjerovnika nižih isplatnih redova i troškovi koji za te vjerovnike nastanu njihovim sudjelovanjem u postupku, istoga su reda kao i tražbine tih vjerovnika.
+Člankom 173. Stečajnog zakona, koji uređuje prijavljivanje tražbine, propisano je:
+(1) Stečajni vjerovnici prijavu svojih tražbina podnose stečajnom upravitelju u dva primjerka. Prijavi se u prijepisu prilažu isprave iz kojih tražbina proizlazi, odnosno kojima se dokazuje.
+(2) U prijavi je potrebno navesti osnovu i iznos tražbine u kunama te broj Žiro-računa ili drugoga računa vjerovnika, ako ga ima.
+(3) Ako se prijavljuju tražbine o kojima se vodi parnica, u prijavi treba navesti sud pred kojim se vodi parnica s naznakom broja spisa.
+(4) Razlučni vjerovnici označuju u prijavi dio imovine dužnika na koji se njihovo pravo odnosi te iznos do kojega njihove tražbine neće biti pokrivene razlučnim pravom.
+(5) Tražbine vjerovnika nižih isplatnih redova prijavljuju se samo ako stečajno vijeće posebno pozove i te vjerovnike da prijave svoje tražbine. U prijavi takvih tražbina treba naznačiti da se radi o tražbini nižega isplatnoga reda te označiti redno mjesto na koje vjerovnik ima pravo.
+Člankom 29. Zakona o izmjenama i dopunama Stečajnog postupka ("Narodne novine", broj 129/00., u daljnjem tekstu: ZID Stečajnog zakona), koji je stupio na snagu 30. prosinca 2000. godine, propisano je:
+Članak 71. mijenja se i glasi:
+U tražbine viših isplatnih redova spadaju:
+1. tražbine zaposlenika stečajnoga dužnika i tražbine Hrvatskog zavoda za zdravstveno osiguranje i Hrvatskog zavoda za mirovinsko osiguranje, koje se iz tih tražbina po zakonu obvezatno namiruju kao doprinosi iz plaće i na plaću, osim tražbina za koje je zakonom određeno da će se namiriti kao troškovi stečajnoga postupka ili kao ostale obveze stečajne mase,
+2. sve ostale tražbine prema dužniku, osim onih koje su razvrstane u niže isplatne redove (opći isplatni red).
+Člankom 72.ZID-a Stečajnog zakona propisano je:
+Na stečajne postupke pokrenute do stupanja na snagu ovoga Zakona primjenjivat će se odredbe ovoga Zakona.
+Iznimno od odredbe stavka 1. ovoga članka, na stečajne postupke pokrenute do stupanja na snagu ovoga Zakona primjenjivat će se odredbe Stečajnoga zakona (»Narodne novine«, br. 44/96. i 29/99.) na odnose uređene odredbama članaka 7., 9., 10., 16., 17., 18., 20., 27., 29., 34., 51. i 64. ovoga Zakona, te članka 39. ovoga Zakona u dijelu koji se odnosi na odredbu članka 173.a stavka 2. ovoga Zakona.
+Predlagatelj izrijekom ne osporava članak 72. stavak 2. ZID-a Stečajnog zakona, koji kao prijelazna zakonska odredba uređuje primjenu članka 29. ZID-a Stečajnog zakona, osporenog u ovom ustavnosudskom postupku.
+3. Predlagatelj smatra da su osporene zakonske odredbe u nesuglasnosti s člancima 3. (osobito u dijelu tog članka koji se odnosi na jednakost, socijalnu pravdu, poštivanje prava čovjeka i vladavinu prava) i 5. stavkom 1., člankom 14. stavkom 2. i člankom 49. (osobito stavcima 3. i 4.) Ustava, koji glase:
+Članak 3.
+Sloboda, jednakost, nacionalna ravnopravnost i ravnopravnost spolova, mirotvorstvo, socijalna pravda, poštivanje prava čovjeka, nepovredivost vlasništva, (...), vladavina prava (...) najviše su vrednote ustavnog poretka Republike Hrvatske i temelj za tumačenje Ustava.
+Članak 5. stavak 1.
+U Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom, a ostali propisi i s Ustavom i zakonom.
+Članak 14. stavak 2.
+Svi su pred zakonom jednaki.
+Članak 49.
+Poduzetnička i tržišna sloboda temelj su gospodarskog ustroja Republike Hrvatske.
+Država osigurava svim poduzetnicima jednak pravni položaj na tržištu. Zabranjena je zlouporaba monopolskog položaja određenog zakonom.
+Država potiče gospodarski napredak i socijalno blagostanje građana i brine se za gospodarski razvitak svih svojih krajeva.
+Prava stečena ulaganjem kapitala ne mogu se umanjiti zakonom niti drugim pravnim aktom. (...)
+4. U odnosu na razloge osporavanja članka 72. stavka 1. i članka 173. stavka 5. Stečajnog zakona, kojima su uređena namirenja i prijave tražbina nižih isplatnih redova, te članka 29. ZID-a Stečajnog zakona, koji uređuje tražbine viših isplatnih redova, predlagatelj navodi:
+"Pravno je nemoguće prihvatiti da se pored proklamirane jednakosti svih pred zakonom citiranom izmijenjenom odredbom (predlagatelj misli na članak 29. ZID Stečajnog zakona - op. Suda) umanjuju stečena poduzetnička prava trgovačkih društava i osoba koje obavljaju profesionalnu djelatnost. Propisom da su tražbine svrstane u viši isplatni red te da se vjerovnici zbog toga što su svrstani u viši isplatni red namiruju iz troškova stečajnog postupka su u suprotnosti sa Ustavom Republike Hrvatske. (...) Protivno je Ustavu, što se citiranom zakonskom odredbom vjerovnicima viših isplatnih redova gotovo bezuvjetno garantira namirenje tražbine koji predstavljaju, i naplaćuju se iz stečajne mase u dijelu koji se odnosi na njihove troškove, dok su suprotno tome svi ostali vjerovnici odnosno njihove tražbine koje nisu svrstane u viši isplatni red, a utvrđene su kao neosporene, razvrstane u niže isplatne redove (članak 72. Stečajnog zakona), koje se namiruju nakon tražbina viših isplatnih redova. (...) Zbog protuustavnih odredbi o određivanju isplatnih redova te načinu namirenja vjerovnika prema kojoj su neki vjerovnici "jednakiji" od drugih te nemogućnosti namirenja odnosno zabrane podnošenja prijave u stečajnu masu glede troškova, kamata (članak 72. st. 1.) i sl., povrijeđene su temeljne vrednote Ustava o jednakosti svih prema zakonu, monopolističkom položaju, poduzetnička i tržišna sloboda kao temelja gospodarskog ustroja RH (...), što je sve nedvojbeno učinjeno taksativnim navođenjem (čl. 29. st. 1. i 2.) vjerovnika čije tražbine spadaju u tražbine viših isplatnih redova i namiruju se prije tražbina nižih isplatnih redova (članak 72. Stečajnog zakona)."
+Predlagatelj u bitnome smatra da su osporene zakonske odredbe "koje određuju prioritete u naplati" u nesuglasnosti s Ustavom i "da ih treba ukinuti te propisati kao što Ustav propisuje da su svi vjerovnici nezavisno o tražbinama jednaki u pravima kako u redoslijedu tako i prilikom isplata, dakle što znači da vjerovnici moraju biti bez obzira o kojim se vjerovnicima radi svrstani u isti isplatni red sa jednakim pravima i obvezama".
+5. Na temelju članka 25. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 99/99., 29/02. i 49/02. - pročišćeni tekst) od Ministarstva pravosuđa Republike Hrvatske zatraženo je očitovanje, koje Sudu nije dostavljeno.
+Prijedlozi nisu osnovani.
+6. Razmatrajući navode prijedloga, Ustavni sud polazio je od ciljeva stečajnog postupka. Provedbom stečajnog postupka uklanja se iz gospodarskog i pravnog poretka pravna osoba koja svoje financijske obveze ne može uredno ispunjavati. Stečajnim postupkom, koji je po svojoj naravi hitan postupak, osigurava se skupno namirenje vjerovnika, prema Stečajnom zakonu i ZID-om Stečajnog zakona utvrđenim isplatnim redovima, unovčenjem imovine stečajnog dužnika i potom njenom raspodjelom na vjerovnike, razmjerno veličini njihove tražbine.
+Na temelju ovlasti propisane člankom 2. stavkom 4. alinejom 1. Ustava, polazeći od socijalne pravde kao jedne od najviših vrednota ustavnog poretka Republike Hrvatske i temelja za tumačenje Ustava, zakonodavac je mogao odlučiti da provedbu stečajnog postupka uredi propisivanjem posebnog redoslijeda isplatnih redova te posebnog načina prijavljivanja tražbina. Stajalište je Ustavnog suda da je razrađujući svoju ustavnu ovlast za uređenje gospodarskih, pravnih i političkih odnosa u Republici Hrvatskoj, zakonodavac bio ovlašten odabrati i rješenja koja predlagatelj osporava u ovom ustavnosudskom postupku, te odrediti prioritete u namirenju vjerovnika, osobito kada se radi o tražbinama zaposlenika i tražbinama u svezi s tražbinama zaposlenika.
+Predlagatelj se stoga neosnovano poziva na nejednakost poduzetnika u "načinu namirenja vjerovnika" tijekom provedbe stečajnog postupka, međusobno uspoređujući Stečajnim zakonom i ZID-om Stečajnog zakona propisane isplatne redove.
+7. Navedeno načelno stajalište Ustavnog suda odnosi se i na članak 25. Zakona o izmjenama i dopunama Stečajnog zakona ("Narodne novine", broj 123 od 31. srpnja 2003. godine, koji Zakon je stupio na snagu 30. kolovoza 2003. godine), kojim je proširen članak 71. stavak 1. točka 1. Stečajnog zakona, na način da su tražbine viših isplatnih redova proširene na ranije zaposlenike stečajnog dužnika i na tražbine Hrvatskog zavoda za zapošljavanje.
+Člankom 59. stavkom 3. navedenog Zakona o izmjenama i dopunama Stečajnog zakona /2003. propisano je da će se na stečajne postupke pokrenute do stupanja na snagu Zakona o izmjenama i dopunama Stečajnog zakona /2003. primjenjivati odredbe tog Zakona.
+8. Predlagatelj podredno osporava i postupak prijave tražbina, navodeći da je "odredbom članka 72. i 173. stavak 5. Stečajnog zakona umanjeno pravo, primjerice, odvjetnicima, obrtnicima, trgovačkim društvima odnosno istima je onemogućeno da mogu pod jednakim uvjetima prijavljivati tražbine bez obzira u koji su red svrstane (...) te je ostavljeno isključivo sudu da odlučuje o tome da li uopće navedenu tražbinu mogu ravnopravno kao i svi ostali vjerovnici prijaviti u stečajnu masu.".
+U tom smislu, ocjenjujući ustavnost članaka 72. i 173. stavka 5. Stečajnog zakona sa stajališta njihovih mogućih pravnih učinaka, Ustavni sud nije našao da bi osporene norme bile u suprotnosti sa zahtjevima vladavine prava. Temeljne ustavnopravne standarde koje moraju ispunjavati zakoni da bi bili u skladu s vladavinom prava Ustavni sud je utvrdio u odluci i rješenju broj: U-I-659/1994 i dr. od 15. ožujka 2000. godine ("Narodne novine", broj 31/00.).
+9. Slijedom navedenog, na temelju članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj:
+U-I-198/2001
+U-I-262/2001
+Zagreb, 11. siječnja 2006.
