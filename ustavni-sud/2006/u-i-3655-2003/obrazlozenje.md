@@ -1,0 +1,16 @@
+Obrazloženje
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 15. stavka 3. Zakona o zaštiti potrošača (»Narodne novine«, broj 96/03. - u daljnjem tekstu: Zakon), podnio je »KAUFLAND HRVATSKA« k.d. Zagreb, kojeg zastupa Marcela B. Horvatinović, odvjetnik iz Zagreba.
+2. Osporena odredba članka 15. stavka 3. Zakona glasi:
+»(3) Ambalaža u obliku vrećica i torbi koje imaju logotip i/ili naziv proizvođača ili trgovca, smatra se promidžbenim sredstvom. Takvu ambalažu trgovac ne smije naplatiti.«
+Predlagatelj navodi da je ambalaža za čiju je nabavku morao uložiti svoja sredstva njegovo vlasništvo koje osporene odredbe ograničavaju na način koji nije suglasan odredbama članka 16. Ustava, jer se ne radi o ograničavanju koje bi bilo uzrokovano razlozima iz odredbe stavka 1. toga članka, niti je razmjerno naravi potrebe ograničenja iz stavka 2. toga članka, pa smatra da je time povrijeđena i njegova poduzetnička sloboda iz članka 50. stavka 2. Ustava.
+Smatra da osporene odredbe nisu u suglasnosti s načelima iz odredaba članka 3., te da su u suprotnosti s odredbama članka 16., članka 48. stavaka 1. i 2., članka 49. stavaka 1. i 2. i članka 50. stavka 2. Ustava.
+Predlaže pokrenuti postupak i ukinuti osporene odredbe.
+Na temelju odredbe članka 25. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 99/99., 29/02. i 49/02. - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon) prijedlog je dostavljen Ministarstvu gospodarstva, koje je Ustavnom sudu dostavilo mišljenje o prijedlogu.
+Prijedlog nije osnovan.
+3. Sadržaj osporenih odredaba jest da trgovac ne smije naplaćivati vrećice ili torbe sa svojim logotipom ili nazivom, jer se takva ambalaža smatra njegovim promidžbenim sredstvom. Sredstva koja trgovac uloži u izradu takve ambalaže predstavljaju sredstva koja je on uložio u svoju promidžbu, pa i troškove treba sam snositi.
+Naplaćivanjem vrećica i torbi kao ambalaže koja je ujedno i trgovčevo promidžbeno sredstvo, prebacuje se trošak njegove promidžbe na kupca.
+Osporavane odredbe u funkciji su zaštite kupaca kao potrošača od prebacivanja troškova promidžbe s trgovca na njih.
+4. Ustavni sud ocjenjuje da osporavane odredbe nisu u nesuglasnosti s odredbama članka 48. stavka 1. Ustava, jer trgovac ambalažu u svojem vlasništvu može naplatiti ako na njoj nije istaknut njegov logotip ili znak. S obzirom da nije sporno da isticanje trgovčevog logotipa ili znaka na ambalaži služi isključivo njegovoj promidžbi, ne može on troškove te promidžbe prebacivati na kupca, pa kada osporene odredbe to uređuju na način da on to ne smije učiniti, nije to u nesuglasnosti s ustavnim jamstvom prava vlasništva, ni s dužnošću nositelja vlasničkog prava da pridonose općem dobru, kako to propisuje stavak 2. članka 48. Ustava. Stoga nije osnovan ni navod predlagatelja da se u konkretnom slučaju radi o ograničenju koje nije u skladu s odredbom članka 16. stavka 1., ni načelu razmjernosti iz stavka 2. istoga članka Ustava.
+5. Iz razloga navedenih pod točkom 4. ovog obrazloženja, Ustavni sud ocjenjuje da osporene odredbe nisu nesuglasne ni s odredbama članka 3., članka 49. stavaka 1. i 2. i članka 50. stavka 2. Ustava.
+6. Stoga je na temelju članka 43. stavka 1. Ustavnog zakona riješeno kao u izreci.
+Objava ovog rješenja temelji se na odredbi članka 29. stavka 1. Ustavnog zakona.
