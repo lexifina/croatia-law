@@ -1,0 +1,1 @@
+Temeljem članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 127/00. 59/01, 117/01, 150/02 i 147/93) i članka 19. Statuta općine Rešetari (»Sl. glasnik« br. 3/01), Općinsko vijeće na 7. sjednici održanoj 19. prosinca 2005. g. donijelo je
