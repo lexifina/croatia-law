@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« br. 117/93, 69/97, 33/00 i 51/01) i članka 67. Statuta Općine Podbablje (»Službeni glasnik Općine Podbablje« 1/01) Općinsko vijeće Općine Podbablje je na III. sjednici održanoj 29. 12. 2005. donijelo
