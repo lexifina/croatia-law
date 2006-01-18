@@ -1,0 +1,6 @@
+## NAČIN OBJAVE I SADRŽAJ JAVNOG NATJEČAJA
+# Članak 4.
+Javni natječaj se obvezno objavljuje u »Narodnim novinama«, na web stranici državnog tijela koje raspisuje natječaj i na web stranici središnjeg tijela državne uprave nadležnog za službeničke odnose, a može se objaviti i u dnevnom listu.
+Javni natječaj mora sadržavati: naziv državnog tijela i naziv ustrojstvene jedinice u koje se osoba prima, naziv radnog mjesta i opis poslova, opće i posebne uvjete za prijam u državnu službu i raspored na radno mjesto, obvezu pristupanja testiranju, trajanje probnog rada odnosno dužinu vježbeničkog staža (ako se primaju vježbenici), uputu o web stranici na kojoj se nalaze podaci o plaći radnog mjesta za koje se vrši prijam, isprave koje se trebaju priložiti kao dokaz o ispunjavanju uvjeta, adresu na koju se mogu podnijeti prijave na javni natječaj, rok za podnošenje prijava i rok u kome će kandidati biti obaviješteni o rezultatima javnog natječaja.
+U javnom natječaju se mora naznačiti da u državnu službu ne može biti primljena osoba za čiji prijam postoje zapreke iz članka 49. Zakona o državnim službenicima.
+Rok za podnošenje prijava na javni natječaj je 15 dana od dana objave u »Narodnim novinama«.
