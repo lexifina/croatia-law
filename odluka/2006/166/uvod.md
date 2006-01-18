@@ -1,0 +1,1 @@
+Na temelju članka 11. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2006. godinu (»Narodne novine«, broj 148/2005), Vlada Republike Hrvatske je na sjednici održanoj 12. siječnja 2006. godine donijela
