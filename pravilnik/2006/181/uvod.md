@@ -1,0 +1,1 @@
+Na temelju članka 242. stavka 4. i članka 303. stavka 1. Zakona o sigurnosti prometa na cestama (»Narodne novine«. broj 105/04) i članka 143 n. Ovršnog zakona (»Narodne novine«, broj 57/96, 29/99., 42/00., 173/03. 151/04., i 88/05), ministar unutarnjih poslova u suglasnosti s ministrom mora, turizma, prometa i razvitka donosi
