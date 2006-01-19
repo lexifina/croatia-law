@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003i 30/2004) i članka 4. stavka 2. Uredbe o osnivanju Zavoda za telemedicinu (»Narodne novine«, broj 120/2005), Vlada Republike Hrvatske je na sjednici održanoj 19. siječnja 2006. godine donijela
