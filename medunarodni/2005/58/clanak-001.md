@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Memorandum između Vlade Ruske Federacije i Vlade Bosne i Hercegovine, Vlade Republike Hrvatske, Vlade Republike Makedonije, Vlade Srbije i Crne Gore i Vlade Republike Slovenije o reguliranju uzajamnih financijskih potraživanja po obračunima vezanim uz robnu razmjenu između bivšeg SSSR-a i bivše SFRJ, sklopljen u Moskvi, 17. rujna 2003. godine, u izvorniku na ruskom i engleskom jeziku.
