@@ -1,0 +1,1 @@
+Na temelju članka 57. stavka 4. Zakona o zaštiti prirode (»Narodne novine« br. 70/05) i članka 15. stavka 2. Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine« br. 199/03, 30/04 i 136/04) ministar kulture donosi

@@ -1,0 +1,5 @@
+# Članak 11.
+U svrhu održavanja ili uspostavljanja povoljnog stanja ugroženih i rijetkih stanišnih tipova, provode se opće mjere očuvanja stanišnih tipova kojima se ostvaruju ciljevi zaštite navedeni u Prilogu III. koji je sastavni dio ovoga Pravilnika.
+Posebne mjere očuvanja stanišnih tipova koje se ugrađuju u pojedine dokumente prostornog uređenja i planove gospodarenja prirodnim dobrima, odnosno u planove i projekte zahvata u prirodu za koje se provodi ocjena prihvatljivosti za prirodu, utvrđuju se u uvjetima zaštite prirode koji se izdaju sukladno članku 37. stavku 1., članku 38., članku 123. stavku 3., članku 124. te članku 127. Zakona o zaštiti prirode.
+Mjere očuvanja stanišnih tipova obvezne su za sve fizičke i pravne osobe koje na područjima ugroženih i rijetkih stanišnih tipova obavljaju djelatnosti upravljanja i korištenja prirodnih dobara ili izvode zahvate u prirodu u smislu Zakona o zaštiti prirode.
+Za područja stanišnih tipova koji su proglašeni zaštićenim područjima i/ili dijelovima Nacionalne ekološke mreže provode se posebne mjere upravljanja i zaštite sukladno Zakonu o zaštiti prirode.
