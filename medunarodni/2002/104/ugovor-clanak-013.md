@@ -1,0 +1,3 @@
+# Članak 13.
+PROMJENA I PRIJENOS PRIHODA
+Svaka ugovorna stranka dat će određenom zračnom prijevozniku druge ugovorne stranke pravo na slobodan prijenos preostalog prihoda iznad rahoda koji je navedeni zračni prijevoznik ostvario na teritoriju prve ugovorne stranke u svezi s prijevozom putnika, prtljage, pošte i tereta. Takav će se prijenos obavljati prema važećem deviznom tečaju, ako isti postoji, ili prema tečaju jednakom onom koji je vrijedio u trenutku kada je prihod ostvaren. Ukoliko su takvi prijenosi sredstava uređeni posebnim sporazumom između ugovornih stranaka, primjenjivat će se navedeni posebni sporazum.

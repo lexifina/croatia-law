@@ -1,0 +1,5 @@
+# Članak 4.
+PROMJENA ZAKONA I PROPISA
+1. Zakoni i propisi jedne ugovorne stranke koji se odnose na ulazak ili izlazak zrakoplova uključenog u obavljanje međunarodne zračne plovidbe sa njezinog teritorija, ili koji se odnose na letenje tog zrakoplova iznad njezinog teritorija, primjenjivat će se na određenog zračnog prijevoznika druge ugovorne stranke.
+2. Zakoni i propisi jedne ugovorne stranke koji se odnose na ulazak, boravak i izlazak sa njezinog teritorija putnika, posade, prtljage, tereta ili pošte, kao što su postupci koji se odnose na ulazak, izlazak, iseljenje i useljenje, kao i carinjenje i sanitarne mjere, primjenjivat će se na putnike, posade, prtljagu, teret ili poštu prevezenu zrakoplovom određenog zračnog prijevoznika druge ugovorne stranke dok se nalaze na navedenom teritoriju.
+3. Niti jedna ugovorna stranka neće davati bilo kakvu prednost svom vlastitom zračnom prijevozniku u odnosu na zračnog prijevoznika druge ugovorne stranke pri primjeni zakona i propisa navedenih u ovom članku.

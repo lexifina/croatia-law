@@ -1,0 +1,3 @@
+# Članak 15.
+PODNOŠENJE REDOVA LETENJA
+Određeni zračni prijevoznik jedne ugovorne stranke podnijet će zrakoplovnim vlastima druge ugovorne stranke, što je prije moguće, ali ne manje od trideset (30) dana unaprijed, prije uvođenja dogovorenog zračnog prometa, ili bilo kakve izmjene istog, ili u roku od trideset (30) dana od primitka zahtjeva od strane zrakoplovnih vlasti, obavijest glede naravi zračnog prometa, redova letenja, tipa zrakoplova uključujući i obavijest o osiguranom kapacitetu na svakoj navedenoj liniji, te sve daljnje obavijesti koje mogu biti zatražene kako bi dokazao zrakoplovnim vlastima druge ugovorne stranke da se valjano pridržava zahtjeva ovog sporazuma.
