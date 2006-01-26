@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4., a u vezi s člankom 1020. stavkom 1. alinejom 1. Pomorskog zakonika (»Narodne novine«, broj 181/2004), Vlada Republike Hrvatske je na sjednici održanoj 12. siječnja 2006. godine donijela
