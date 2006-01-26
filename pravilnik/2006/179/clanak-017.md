@@ -1,0 +1,4 @@
+# Članak 17.
+Za sudionike u mirovnim operacijama i drugim aktivnostima u inozemstvu obvezno se osigurava odgovarajuća zdravstvena zaštita u inozemstvu.
+Zapovjednik odnosno čelnik ustrojstvene jedinice određene za nositelja aktivnosti dužan je Hrvatskom zavodu za zdravstveno osiguranje podnijeti prijavu za profesionalnu bolest odnosno ozljedu na radu za sudionika koji oboli ili bude ozlijeđen u svezi s obavljanjem djelatnosti u mirovnoj operaciji odnosno drugoj aktivnosti u inozemstvu.
+Troškove propisane specifične terapije ili zdravstvene usluge za bolest odnosno ozljedu iz stavka 2. ovoga članka koju Hrvatski zavod za zdravstveno osiguranje ne prizna kao ozljedu na radu odnosno profesionalnu bolest i/ili ne snosi troškove, snosit će Ministarstvo obrane ako Uprava za ljudske resurse utvrdi da se dogodila u izravnoj svezi s obavljanjem poslova na kojima je sudionik bio angažiran.

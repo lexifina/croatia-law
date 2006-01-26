@@ -1,0 +1,2 @@
+# Članak 26.
+Vojna sigurnosna agencija u suradnji s drugim sigurnosnim službama prikuplja, analizira, obrađuje i ocjenjuje podatke koji su značajni za sudjelovanje u mirovnim operacijama i drugim aktivnostima u inozemstvu te dostavlja ministru obrane i načelniku Glavnog stožera redovna mjesečna, a po potrebi i izvanredna izvješća s prijedlogom mjera za unaprjeđenje sigurnosnih mjera u cilju zaštite sudionika u inozemstvu.
