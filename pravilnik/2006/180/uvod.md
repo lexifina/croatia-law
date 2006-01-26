@@ -1,0 +1,1 @@
+Na temelju članka 53. stavka 2. Zakona o zaštiti od požara (»Narodne novine« broj 58/93. i 33/05) ministar unutarnjih poslova, u suglasnosti s ministrom zaštite okoliša, prostornog uređenja i graditeljstva donosi
