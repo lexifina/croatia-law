@@ -1,0 +1,1 @@
+Temeljem članka 17. Zakona o sustavu državne uprave (»Narodne novine«, br. 190/03 - pročišćeni tekst), vezano uz članak 28. Zakona o mjeriteljstvu (»Narodne novine«, br. 163/03), ravnatelj Državnog zavoda za mjeriteljstvo donosi
