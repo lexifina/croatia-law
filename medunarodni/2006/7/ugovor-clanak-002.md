@@ -1,0 +1,11 @@
+# Članak 2.
+Pružanje pomoći
+1. Ako državi stranki zatreba pomoć u slučaju nuklearne nesreće ili radiološke opasnosti, bez obzira na to je li nesreća ili opasnost nastala na njezinu državnom području ili drugom području pod njezinom jurisdikcijom ili kontrolom, ona može zatražiti takvu pomoć od bilo koje države stranke, neposredno ili preko Agencije, te od same Agencije ili, prema potrebi, od drugih međunarodnih međuvladinih organizacija (u nastavku teksta »međunarodne organizacije«).
+2. Država stranka koja zatraži pomoć navest će opseg i vrstu pomoći koja joj je potrebna i ako to bude moguće, dostaviti stranki koja pruža pomoć informacije potrebne za određivanje opsega u kojem će ona biti u mogućnosti odgovoriti na takav zahtjev. Ako stranka koja traži pomoć nije u mogućnosti navesti opseg i vrstu potrebne pomoći, država koja traži pomoć i država koja pruža pomoć, međusobnim dogovorom, odlučit će o opsegu i uvjetima pomoći koja bi mogla biti pružena.
+3. Svaka država stranka kojoj je poslan takav zahtjev za pomoć odmah će donijeti odluku i obavijestiti državu koja traži pomoć, izravno ili preko Agencije, je li u mogućnosti pružiti traženu pomoć, te kakvi su opseg i uvjeti pomoći koja bi mogla biti pružena.
+4. Država stranka će, u granicama svojih mogućnosti, utvrditi i obavijestiti Agenciju o stručnjacima, opremi i materijalu što bi ih ona mogla staviti na raspolaganje za pružanje pomoći drugim državama strankama u slučaju nuklearne nesreće ili radiološke opasnosti te o uvjetima, prije svega financijskim, uz koje bi takva pomoć mogla biti pružena.
+5. Svaka država stranka može zatražiti pomoć koja se odnosi na medicinsko liječenje ili privremenu relokaciju ljudi na državnom području druge države stranke koji su bili izloženi nuklearnoj nesreći ili radiološkoj opasnosti.
+6. Agencija će, u skladu sa svojim Statutom i odredbama ove Konvencije, na zahtjev države stranke i države članice za pomoć u slučaju nuklearne nesreće ili radiološke opasnosti odgovoriti tako što će:
+(a) staviti na raspolaganje odgovarajuća sredstva izdvojena u tu svrhu,
+(b) odmah poslati zahtjev drugim državama i međunarodnim organizacijama koje, prema informacijama Agencije, mogu raspolagati potrebnim sredstvima,
+(c) ako to zatraži država koja podnosi zahtjev, koordinirati pomoć na međunarodnoj razini koja bi na taj način postala dostupnom.
