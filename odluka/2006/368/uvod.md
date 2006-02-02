@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 74. stavka 1. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, broj 158/2003), Vlada Republike Hrvatske je na sjednici održanoj 2. veljače 2006. godine donijela
