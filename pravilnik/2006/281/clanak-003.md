@@ -1,0 +1,2 @@
+# Članak 3.
+Priprema taksimetra za ovjeravanje, u smislu ovoga Pravilnika, podrazumijeva pregled i po potrebi popravak taksimetra (servisiranje) i ugradnju taksimetra u taksivozilo, pripremu taksimetra za ispitivanje, pripremu uređaja za ispitivanje taksimetra, ispitivanje taksimetra, tj. provjeru mjeriteljskih značajki taksimetra i vozila u koje je ugrađeno, te pisanje izvješća o ispitivanju taksimetra.
