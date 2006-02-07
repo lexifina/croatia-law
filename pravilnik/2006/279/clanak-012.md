@@ -1,0 +1,2 @@
+# Članak 12.
+Stezaljke mjerila vremena smještene su u priključnicu i zaštićene su posebnim poklopcem, koji se može osigurati žigom neovisno o poklopcu mjerila vremena. Poklopac priključnice treba poklapati same stezaljke, vijke za pričvršćenje vodiča i potrebnu dužinu vodiča i njihovu izolaciju, tako da se time onemogućuju vanjski zahvati kojima bi se preko stezaljki moglo utjecati na rad mjerila vremena.
