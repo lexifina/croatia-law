@@ -1,0 +1,1 @@
+Na temelju članka 40. stavak 3. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 105/04.), ministar mora, turizma, prometa i razvitka uz suglasnost ministra zdravstva i socijalne skrbi donosi
