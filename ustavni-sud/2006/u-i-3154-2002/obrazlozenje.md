@@ -1,0 +1,21 @@
+Obrazloženje
+1. Grad Čakovec, zastupan po gradonačelniku Branku Šalamonu podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 43. stavka 1. Zakona o udrugama (»Narodne novine«, broj 88/01. i 11/02.).
+2. Zakon o udrugama donio je Hrvatski sabor 28. rujna 2001. godine, a objavljen je u »Narodnim novinama«, broj 88 od 11. listopada 2001. godine.
+Osporena odredba glasi:
+Imovina na kojoj je udruga imala pravo raspolaganja ili pravo korištenja do donošenja Zakona o udrugama (»Narodne novine«, broj 70/97., 106/97. i 20/00.), osim imovine sindikalnih udruga na koje se primjenjuju odredbe članka 38. stavka 3. i 4. Zakona o udrugama (»Narodne novine«, broj 70/97., 106/97. i 20/00.), danom primjene ovoga Zakona postaje vlasništvo udruge koja je njezin pravni sljednik.
+3. Predlagatelj navodi da osporena odredba nije u suglasnosti s odredbama članka 89. stavaka 4. i 5. Ustava Republike Hrvatske, jer se propisuje povratno djelovanje navedene odredbe. Navodi da mogućnost stjecanja vlasništva nekretnina od strane udruga nije bila predviđena člankom 38. Zakona o udrugama (»Narodne novine«, broj 70/97., 106/97. i 20/00.), te stoga takvo propisivanje nije moguće ni u novom Zakonu o udrugama.
+4. Prijedlog je dostavljen na očitovanje Središnjem državnom uredu za upravu, koji je dostavio traženo očitovanje.
+Prijedlog nije osnovan.
+5. Odredbe članka 89. stavaka 4. i 5. Ustava propisuju:
+Zakoni i drugi propisi državnih tijela i tijela koja imaju javne ovlasti ne mogu imati povratno djelovanje.
+Iz posebno opravdanih razloga samo pojedine odredbe zakona mogu imati povratno djelovanje.
+Osporenom odredbom uređuje se prijenos prava državnog vlasništva na pravne sljednike udruga koje su prije pretvorbe 1997. godine bile nositelji prava raspolaganja ili prava korištenja na dotičnim nekretninama.
+Člankom 38. stavkom 1. i 3. Zakona o udrugama (»Narodne novine«, broj 70/97., 106/97. i 20/00.), bilo je propisano:
+Nekretnine u društvenom vlasništvu na kojima su, do dana stupanja na snagu ovoga Zakona, društvene organizacije imale pravo raspolaganja ili pravo korištenja, danom stupanja na snagu ovoga Zakona postaju nekretnine u vlasništvu Republike Hrvatske, ako ovim zakonom nije drukčije određeno.
+Vlada Republike Hrvatske ili od nje ovlašteno nadležno ministarstvo, može, prema mjerilima koje na prijedlog Vlade Republike Hrvatske utvrdi Sabor Republike Hrvatske, u roku od godine dana od dana kada je Sabor Republike Hrvatske utvrdio mjerila, nekretnine, koje su postale vlasništvo Republike Hrvatske na temelju odredbe stavka 1. ovoga članka, prenijeti u vlasništvo one udruge koja je prema odredbi članka 36. ovoga Zakona pravni sljednik bivše društvene organizacije ili u vlasništvo jedne ili više jedinica lokalne samouprave i uprave.
+Navedenim zakonskim odredbama izvršena je pretvorba prava korištenja i prava upravljanja na nekretninama društvenih organizacija u pravo vlasništva Republike Hrvatske. Ujedno je otvorena pravna mogućnost prijenosa tih nekretnina u vlasništvo udruge koja je pravni sljednik bivše društvene organizacije i to provođenjem posebnih pojedinačnih postupaka na temelju mjerila koje je trebao donijeti Hrvatski sabor.
+Hrvatski sabor nije donio mjerila iz članka 38. stavka 3. Zakona o udrugama iz 1997. godine, tako da pojedinačni postupci prijenosa nekretnina iz državnog u vlasništvo pojedine udruge, nisu mogli biti provedeni.
+Osporenom odredbom zakonodavac je imovinu koja je na temelju članka 38. stavka 1. Zakona o udrugama iz 1997. godine prenesena u vlasništvo Republike Hrvatske, prenio u vlasništvo udruga koje su na istim nekretninama imale pravo korištenja ili pravo raspolaganja.
+Osporena odredba nema povratno djelovanje i nije suprotno odredbama članka 89. stavaka 4. i 5. Ustava. Hrvatski Sabor, naime, kao najviše zakonodavno tijelo Republike Hrvatske, može imovinom u vlasništvu Republike Hrvatske slobodno raspolagati.
+6. Slijedom navedenog, na temelju članka 43. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, broj 99/99., 29/02. i 42/02. - pročišćeni tekst), riješeno je kao u izreci.
+Rješenje o objavi (točka II. izreke) temelji se na odredbi članka 29. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
