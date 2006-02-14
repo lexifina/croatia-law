@@ -1,0 +1,1 @@
+Na temelju članka 143a. stavka 2. Ovršnog zakona (»Narodne novine« broj 57/96, 29/99, 42/00, 173/03, 194/03, 151/04 i 88/05) ministar gospodarstva, rada i poduzetništva uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva donosi
