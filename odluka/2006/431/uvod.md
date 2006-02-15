@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o potvrđivanju Ugovora o sveobuhvatnoj zabrani nuklearnih pokusa (»Narodne novine - Međunarodni ugovori«, broj 1/2001), Vlada Republike Hrvatske je na sjednici održanoj 9. veljače 2006. godine donijela
