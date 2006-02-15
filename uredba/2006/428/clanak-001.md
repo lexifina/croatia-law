@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom određuju se kriteriji za utvrđivanje korisnika i način raspodjele dijela prihoda od igara na sreću planiranih u Državnom proračunu Republike Hrvatske za 2006. godinu (»Narodne novine«, broj 148/2005) za financiranje programa organizacija koje djeluju u područjima propisanima člankom 10. stavkom 1. Zakona o priređivanju igara na sreću i nagradnih igara (u daljnjem tekstu: Zakon), u skladu sa člankom 36. Zakona o izvršavanju Državnog proračuna za 2006. godinu (»Narodne novine«, broj 148/2005).
