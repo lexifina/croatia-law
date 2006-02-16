@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 1. Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92, 57/92, 77/92, 86/92 - pročišćeni tekst, 58/93, 2/94, 76/94, 108/95, 108/96, 82/01 i 103/03)ministar zdravstva i socijalne skrbi, donosi
