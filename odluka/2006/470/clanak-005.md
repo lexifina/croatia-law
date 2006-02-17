@@ -1,0 +1,2 @@
+# Članak 5.
+Za razdoblje od 1. veljače 2006. godine do primjene Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu primjenjivat će se cijene utvrđene u Odluci o izmjeni i dopuni Odluke i Odluci o dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu (»Narodne novine« broj 155/05.)
