@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu (»Narodne novine« broj 188/04., 30/05., 88/05 i 155/05) u članku 1. stavku 2. i 3. mijenjaju se tablica 1. i tablica 2. koje su prilog ovoj Odluci.
