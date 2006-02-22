@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-4836/2004 od 22. veljače 2006.
+
+- Case: `U-IIIA-4836/2004`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2006-02-22`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C12571220031C5F2>
+- Official database page SHA-256: `8fb4c3ed01e7b96ad5b85c1487bd75d21479704c0fadfbde5f2f6bcd7e89b5be`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
