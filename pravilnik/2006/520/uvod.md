@@ -1,0 +1,1 @@
+Na osnovi članka 108. stavka 1. točke 11. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj 174/04, 92/05), potpredsjednica Vlade Republike Hrvatske i ministrica obitelji, branitelja i međugeneracijske solidarnosti uz suglasnost ministra zdravstva i socijalne skrbi donosi
