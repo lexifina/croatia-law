@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju lokalne (regionalne) samouprave »Narodne novine« br. 117/93, 69/97, 33/00, 127/00, 59/2001), te članka 29. Statuta Općine Gornji Bogićevci (»Službeni glasnik Brodsko-posavske županije«, br. 18/02) Općinsko vijeće općine Gornji Bogićevci na svojoj 8. sjednici održanoj 9. veljače 2006. godine, donijelo je
