@@ -1,0 +1,6 @@
+# Članak 13.
+(1) Ovlašteni mjenjač može stranu gotovinu polagati na devizni račun te s deviznog računa podizati stranu gotovinu ako ta gotovina proizlazi iz mjenjačke djelatnosti ili je namijenjena za njezino obavljanje.
+(2) Obveza ovlaštenog mjenjača da prema ugovoru, a najmanje jednom na mjesec, izvrši prodaju cijelog iznosa strane gotovine i čekova koji glase na stranu valutu, ne umanjuje se za iznos položene strane gotovine na devizni račun.
+(3) Ovlašteni mjenjač može prenositi gotovinu u kunama, odnosno stranu gotovinu iz blagajne jednoga mjenjačkog mjesta u blagajnu drugoga mjenjačkog mjesta.
+(4) Evidentiranje kunske protuvrijednosti strane gotovine na mjenjačkom mjestu koje prima stranu gotovinu od drugoga mjenjačkog mjesta, obavlja se uz korištenje osnovnoga kupovnog tečaja koji se primjenjuje na mjenjačkom mjestu koje šalje stranu gotovinu, za dan kada je evidentirana isplata strane gotovine na mjenjačkom mjestu koje šalje stranu gotovinu.
+(5) Pri prijenosu gotovine iz prethodnog stavka ovog članka ovlašteni mjenjač mora imati dokument s popisom specificiranih iznosa u kunama, odnosno stranoj valuti, koji su predmet prijenosa, potpisan od odgovorne osobe ovlaštenog mjenjača, odnosno osobe koja obavlja mjenjačke poslove na mjenjačkom mjestu s kojeg se strana gotovina prenosi.

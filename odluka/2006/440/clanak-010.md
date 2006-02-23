@@ -1,0 +1,32 @@
+# Članak 10.
+(1) Ovlašteni mjenjač može obavljati mjenjačke poslove na jednom ili na više mjenjačkih mjesta.
+(2) Za obavljanje mjenjačkih poslova ovlašteni mjenjač mora na svakome mjenjačkom mjestu imati:
+1. blagajnu za sigurno čuvanje kuna, stranog novca i čekova, isključivo za obavljanje mjenjačkih poslova, na svakom blagajničkom mjestu,
+2. odobrenje Hrvatske narodne banke za obavljanje mjenjačkih poslova,
+3. istaknut natpis »Mjenjačnica« na hrvatskom jeziku i na najmanje jednom stranom jeziku; ako ovlašteni mjenjač u istom prostoru osim mjenjačkih obavlja i druge poslove, natpis »Mjenjačnica« mora istaknuti u dijelu prostora u kojem obavlja samo mjenjačke poslove,
+4. istaknutu važeću tečajnu listu s tečajevama stranih valuta kojima trguje, na mjestu i na način vidljiv za stranke,
+5. istaknutu obavijest o visini mjenjačke provizije (ako je obračunava) na mjestu i na način vidljiv za stranke,
+6. istaknutu obavijest o tvrtki ugovorne banke s kojom ima sklopljen ugovor o obavljanju mjenjačkih poslova za to mjenjačko mjesto, na mjestu i na način vidljiv za stranke,
+7. na mjestu vidljivom za stranke obavijest sljedećeg sadržaja: »Za svaku kupnju ili prodaju strane gotovine i otkup čekova koji glase na stranu valutu mjenjačnica vam je dužna izdati potvrdu o otkupu, odnosno potvrdu o prodaji.«,
+8. Izvješća »Blagajnički dnevnik za evidentiranje transakcija« i »Obračun dnevne blagajne - stanje blagajničkog dnevnika« odvojena od dokumentacije za ostalo poslovanje, ako ga obavlja u istom poslovnom prostoru.
+(3) Ako se ovlašteni mjenjač u istom poslovnom prostoru, osim mjenjačke djelatnosti, bavi i drugim djelatnostima, a stranu gotovinu i čekove drži u trezoru, gotovina i čekovi koji proizlaze iz mjenjačke djelatnosti moraju biti odvojeni od gotovine i čekova koji proizlaze iz obavljanja druge djelatnosti.
+(4) Ovlašteni mjenjač unutar mjenjačkog mjesta ne smije imati gotovinu ili čekove koji nisu evidentirani certificiranim programom ili za koje ne postoji odgovarajuća dokumentacija.
+(5) Za potrebe kontrole nadzornog tijela iz članka 58. stavka 2. Zakona o deviznom poslovanju i ugovorne banke, na svakome mjenjačkom mjestu treba biti pohranjena i sljedeća dokumentacija:
+1. preslik ugovora o obavljanju mjenjačkih poslova za to mjenjačko mjesto,
+2. preslik rješenja o upisu mjenjačke djelatnosti u sudski, odnosno obrtni registar,
+3. potvrde o otkupu, odnosno potvrde o prodaji i izvješća »Blagajnički dnevnik za evidentiranje transakcija« te »Obračun dnevne blagajne - stanje blagajničkog dnevnika« na mediju za automatsku obradu podataka, za tekuću i prethodnu kalendarsku godinu,
+4. vlastite tečajne liste, odnosno tečajne liste koje je ovlašteni mjenjač primio od ugovorne banke ako se koristi njezinim tečajnim listama, za tekuću i prethodnu kalendarsku godinu (bančine tečajne liste na papirnatom mediju, a vlastite tečajne liste na mediju za automatsku obradu podataka),
+5. izvješća »Dnevnik otkupa strane gotovine i čekova koji glase na stranu valutu« i »Dnevnik prodaje strane gotovine«, na mediju za automatsku obradu podataka, za tekuću i prethodnu kalendarsku godinu,
+6. izvješća »Specifikacija strane gotovine i čekova koji glase na stranu valutu« potvrđene od banke, za tekuću i prethodnu kalendarsku godinu,
+7. dokumenti na osnovi kojih je izvršio uplate i isplate, za tekuću i prethodnu kalendarsku godinu,
+8. potvrda o autentičnosti ugovorenoga zaštićenog programa,
+9. izvješća »Izvješće o kupnji, odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu«, za tekuću i prethodnu kalendarsku godinu,
+10. potpisana izvješća »Blagajnički dnevnik za evidentiranje transakcija« i »Obračun dnevne blagajne - stanje blagajničkog dnevnika«, za tekuću i prethodnu kalendarsku godinu,
+11. podatci o identifikaciji klijenata i njihovim transakcijama prikupljenim na način koji je propisan Zakonom o sprječavanju pranja novca, koje je ovlašteni mjenjač dužan dostaviti Uredu za sprječavanje pranja novca, na njegov zahtjev.
+(6) Odgovorne osobe ovlaštenog mjenjača i osobe koje obavljaju mjenjačke poslove na mjenjačkom mjestu dužne su Deviznom inspektoratu Ministarstva financija omogućiti obavljanje izravnog nadzora.
+(7) Osobe koje obavljaju mjenjačke poslove na mjenjačkom mjestu moraju se znati koristiti certificiranim programom i uz hrvatski jezik moraju se znati služiti najmanje jednim stranim jezikom.
+(8) Odgovorne osobe ovlaštenog mjenjača i osobe koje obavljaju mjenjačke poslove od vlastitog novca na mjenjačkom mjestu smiju imati samo kune potrebne za osobne dnevne izdatke, i to do svote iz ugovora o obavljanju mjenjačkih poslova.
+(9) Ovlašteni mjenjač može otvoriti prigodno mjenjačko mjesto. Prigodno mjenjačko mjesto je mjenjačko mjesto gdje ovlašteni mjenjač na mjestu i u vrijeme održavanja priredaba, sajmova ili sličnih događanja obavlja mjenjačke poslove. Ovlašteni mjenjač mora najkasnije osam dana prije otvaranja prigodnoga mjenjačkog mjesta sklopiti dodatak ugovoru o obavljanju mjenjačkih poslova za to mjenjačko mjesto. Preslik takvog ugovora o obavljanju mjenjačkih poslova ugovorna banka dužna je dostaviti Deviznom inspektoratu Ministarstva financija u roku od tri radna dana od dana njegova potpisivanja.
+(10) Na prigodno mjenjačko mjesto na odgovarajući se način primjenjuju odredbe Odluke. Ako okolnosti na prigodnome mjenjačkom mjestu ne omogućavaju primjenu računalne tehnologije, ovlašteni mjenjač mjenjačke poslove obavlja ručno i upotrebljava tiskane obrasce potvrda o otkupu, odnosno potvrda o prodaji.
+(11) O kupnjama i prodajama strane gotovine te otkupu čekova koji glase na stranu valutu, ovlašteni mjenjač obvezan je jedanput u tekućem mjesecu, a najkasnije (uključujući) sedmoga kalendarskog dana u tekućem mjesecu dostaviti ugovornoj banci izvješće »Izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu« za prethodni kalendarski mjesec. Ako je sedmi kalendarski dan u tekućem mjesecu neradni dan ili blagdan, izvješće »Izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu« se dostavlja najkasnije do isteka prvoga sljedećega radnog dana. Za potrebe izvješćivanja u vezi s ovim stavkom, radnim se danom ne smatra subota.
+(12) Ako ovlašteni mjenjač ima ugovor o obavljanju mjenjačkih poslova s više banaka, svakoj ugovornoj banci dostavlja izvješće »Izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu« za sva mjenjačka mjesta koja su predmet ugovora o obavljanju mjenjačkih poslova.

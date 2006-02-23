@@ -1,0 +1,8 @@
+# Članak 12.
+(1) Ovlašteni se mjenjač smije koristiti ili samo tečajnom listom koju primjenjuje ugovorna banka ili samo vlastitom tečajnom listom, a u skladu s ugovorom o obavljanju mjenjačkih poslova.
+(2) Tijekom jednoga radnog dana ovlašteni se mjenjač može na jednom mjenjačkom mjestu koristiti samo jednom tečajnom listom.
+(3) Kupovni tečaj na tečajnoj listi ovlaštenog mjenjača jest tečaj po kojem ovlašteni mjenjač otkupljuje stranu gotovinu i čekove koji glase na stranu valutu, a prodajni tečaj na tečajnoj listi ovlaštenog mjenjača jest tečaj po kojem ovlašteni mjenjač prodaje stranu gotovinu.
+(4) Ako se ovlašteni mjenjač bavi otkupom strane gotovine i čekova koji glase na stranu valutu i prodajom strane gotovine, za svaku stranu valutu kojom trguje mora na tečajnoj listi istaknuti njezin kupovni i prodajni tečaj. Ako se ovlašteni mjenjač bavi samo otkupom strane gotovine, za svaku stranu valutu kojom trguje mora na tečajnoj listi istaknuti njezin kupovni tečaj.
+(5) Na tečajnoj listi ovlašteni mjenjač može istaknuti povoljnije kupovne, odnosno povoljnije prodajne tečajeve. Uz povoljnije tečajeve moraju biti navedeni minimalni iznosi u kunama za koje vrijede ti povoljniji tečajevi.
+(6) U svakom radnom danu najpovoljniji prodajni tečaj ovlaštenog mjenjača za stranu valutu ne smije biti jednak ili niži od njegova najpovoljnijega kupovnog tečaja za istu valutu. Po prodajnom tečaju za stranu valutu koji je manji od njegova najnepovoljnijega kupovnog tečaja za tu stranu valutu, ovlašteni mjenjač može prodavati stranu gotovinu samo banci.
+(7) Ovlašteni mjenjač koji otkupljuje stranu gotovinu i čekove koji glase na stranu valutu i prodaje stranu gotovinu, ne smije zaračunavati mjenjačku proviziju.

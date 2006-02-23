@@ -1,0 +1,15 @@
+## POJMOVNIK
+# Članak 2.
+Za potrebe Odluke pojmovi navedeni u ovom članku imaju sljedeće značenje:
+1. Podnositelj zahtjeva jest rezident pravna osoba, trgovac pojedinac, obrtnik, pravna osoba u osnivanju te fizička osoba koja namjerava obavljati mjenjačku djelatnost kao trgovac pojedinac, odnosno obrtnik, koji Hrvatskoj narodnoj banci podnosi zahtjev za izdavanje odobrenja za obavljanje mjenjačkih poslova.
+2. Kvalificirani vlasnik podnositelja zahtjeva, odnosno ovlaštenog mjenjača, jest fizička ili pravna osoba koja je imatelj više od 25% udjela ili dionica podnositelja zahtjeva pravne osobe.
+3. Mjenjačko mjesto jest prostorna i organizacijska jedinica ovlaštenog mjenjača u kojoj se obavljaju mjenjački poslovi, a može sadržavati jedno ili više blagajničkih mjesta te može biti dio poslovne prostorije u kojoj se obavljaju i druge djelatnosti.
+4. Blagajničko mjesto dio je mjenjačkog mjesta na kojem se obavljaju mjenjački poslovi sa strankom.
+5. Potvrda o autentičnosti ugovorenoga zaštićenog programa potpisana je izjava proizvođača zaštićenog programa da je program koji je predmet ugovora između njega i podnositelja zahtjeva, odnosno ovlaštenog mjenjača, certificirala Hrvatska narodna banka.
+6. Potvrda o autentičnosti ugrađenoga zaštićenog programa potpisana je izjava proizvođača zaštićenog programa da je ugrađeni program identičan onome programu za koji je s ovlaštenim mjenjačem sklopio ugovor o kupnji i za koji je izdao potvrdu o autentičnosti ugovorenoga zaštićenog programa.
+7. Zaštićeni program jest računalni program koji udovoljava svim zahtjevima iz članka 7. Odluke.
+8. Certificirani program jest zaštićeni program za koji je Hrvatska narodna banka izdala certifikat.
+9. Ugovorna banka jest banka čije odobrenje za rad sadrži i odobrenje za pružanje usluga trgovanja u svoje ime i za svoj račun ili u svoje ime i za račun klijenta stranim sredstvima plaćanja, uključujući mjenjačke poslove, s kojom je podnositelj zahtjeva, odnosno ovlašteni mjenjač, sklopio ugovor ili predugovor o obavljanju mjenjačkih poslova.
+10. Ugovor o obavljanju mjenjačkih poslova jest ugovor sklopljen između ugovorne banke i podnositelja zahtjeva, odnosno ovlaštenog mjenjača, koji sadrži sve bitne elemente propisane Odlukom, a može biti sklopljen i pod uvjetom da stupi na snagu nakon dobivanja odobrenja za obavljanje mjenjačkih poslova.
+11. Ugovor o kupnji zaštićenog programa jest ugovor sklopljen između proizvođača zaštićenog programa i podnositelja zahtjeva, odnosno ovlaštenog mjenjača, u kojem je točno utvrđen program koji je predmet ugovora i kojim podnositelj zahtjeva, odnosno ovlašteni mjenjač stječe pravo korištenja zaštićenog programa, a može biti sklopljen i pod uvjetom da stupi na snagu nakon dobivanja odobrenja za obavljanje mjenjačkih poslova.
+12. Predugovor o obavljanju mjenjačkih poslova jest ugovor kojim se podnositelj zahtjeva i ugovorna banka obvezuju na sklapanje ugovora o obavljanju mjenjačkih poslova, a koji mora sadržavati sve bitne elemente ugovora o obavljanju mjenjačkih poslova propisane Odlukom.
