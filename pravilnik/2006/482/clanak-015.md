@@ -1,0 +1,6 @@
+# Članak 15.
+U Procjeni je potrebno utvrditi:
+a) Postojeće kapacitete i snage koje se mogu angažirati na sprječavanju nastanka i otklanjanju posljedica katastrofe i veće nesreće na području za koje se donosi Procjena, a odnose se na redovne službe i pravne osobe, snage civilne zaštite, fizičke osobe, materijalne resurse i druge operativne snage zaštite i spašavanja, te posebno:
+- sveukupne ljudske i materijalne kapacitete, s naglaskom na kapacitete i spremnost sposobnosti koje se zaštitom i spašavanjem bave u okviru redovne djelatnosti, snage civilne zaštite, fizičke osobe te raspoložive materijalne resurse za provođenje svake od mjera zaštite i spašavanja i svake od mjera civilne zaštite.
+b) Potrebne snage za zaštitu i spašavanje stanovništva, materijalnih i kulturnih dobara te okoliša na ugroženom području za svaku pojedinu vrstu katastrofe i veće nesreće. Razrađuju se, sukladno očekivanim mogućim posljedicama, operativne snage potrebne za reagiranje kako bi se otklonila opasnost, smanjila stradanja i oštećenja i/ili uklonile posljedice katastrofe i veće nesreće i to svi potrebni ljudski i materijalno-tehnički resursi, struktura i veličina snaga, osobito pregled redovnih službi po razinama spremnosti za provođenje zadaća u sustavu zaštite i spašavanja određene razine te veličina i namjena snaga civilne zaštite.
+6. Zaključne ocjene

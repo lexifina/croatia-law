@@ -1,0 +1,3 @@
+# Članak 49.
+Plan mobilizacije pravnih osoba, redovnih službi i djelatnosti izrađuje se na temelju izvoda iz Plana mobilizacije Republike Hrvatske, županija, gradova i općina.
+Planom mobilizacije nositelji iz stavka 1. ovog članka razrađuju način uručivanja mobilizacijskog poziva svakom djelatniku s priopćenim rasporedom na temelju radne obveze, sukladno sposobnostima potrebnim za djelovanje u sustavu zaštite i spašavanja, a u uvjetima kada se formalno proglasi stanje neposredne prijetnje, katastrofe i veće nesreće te započne s postupanjem po Operativnom planu i po nalozima i drugim aktima zapovjedništava zaštite i spašavanja.

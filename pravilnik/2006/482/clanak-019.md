@@ -1,0 +1,2 @@
+# Članak 19.
+Središnja tijela državne uprave, znanstvene i stručne institucije, tijela jedinica lokalne i područne (regionalne) samouprave i pravne osobe koje raspolažu podacima od značaja za izradu Procjene dužne su aktivno sudjelovati u njenoj izradi na razini Republike Hrvatske i razinama jedinica lokalne i područne (regionalne) samouprave te su dužne, na zahtjev Državne uprave ili nadležnog područnog ureda zaštite i spašavanja Državne uprave, dostaviti tražene podatke.

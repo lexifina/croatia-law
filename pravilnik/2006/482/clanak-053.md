@@ -1,0 +1,3 @@
+# Članak 53.
+Planiranje i sudjelovanje vatrogasnih snaga (javnih vatrogasnih postrojbi, dobrovoljnih vatrogasnih postrojbi, vatrogasnih zajednica, snaga pod ugovorom i intervencijskih snaga) u provođenju mjera zaštite i spašavanja planira se posebnim planovima izrađenim sukladno posebnim propisima i standardnim operativnim postupcima operativnih snaga u katastrofama i većim nesrećama.
+Planiranje i sudjelovanje Hrvatske gorske službe spašavanja, drugih udruga, klubova i organizacija u aktivnostima zaštite i spašavanja u kojima sudjeluju kao operativne snage radi ublažavanja i otklanjanja posljedica velikih nesreća i katastrofa planira Državna Uprava Planovima koji se donose na razini Republike Hrvatske, županija, Grada Zagreba, gradova i općina.

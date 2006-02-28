@@ -1,0 +1,3 @@
+# Članak 56.
+Osim sadržaja utvrđenog člankom 44. ovog Pravilnika, mjere civilne zaštite uključuju i postojeće planove na području zaštite i spašavanja donesene na temelju posebnih propisa (Zakon o zaštiti od požara, Zakon o zaštiti na radu i dr.) u čije provođenje se uključuju snage civilne zaštite na način uređen standardnim operativnim postupcima.
+Svi podaci u okviru svake mjere civilne zaštite, koji nisu najizravnije vezani za uporabu snaga civilne zaštite, osiguravaju se isključivo kao potpora za potrebe djelovanja zapovjedništava za zaštitu i spašavanje, usmjerenog na usklađivanje djelovanja operativnih snaga zaštite i spašavanja na područjima za koja su ta tijela operativno nadležna.

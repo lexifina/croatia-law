@@ -1,0 +1,5 @@
+# Članak 3.
+Procjene i Operativne planove dužne su donijeti pravne osobe koje svojom djelatnošću mogu ugroziti život ili zdravlje ljudi ili okoliš, pravne osobe čija djelatnost je vezana uz opskrbu energijom i vodom, te pravne osobe koje proizvode, prevoze, prerađuju, skladište ili u tehnološkom procesu postupaju s opasnim i štetnim tvarima.
+Procjene i Operativni planovi pravnih osoba iz stavka 1. ovog članka obuhvaćaju objekte i prostor u njihovom vlasništvu ili na korištenju te prostor oko tih objekata koji može biti ugrožen opasnim učincima akcidenta nastalog na postrojenjima u kojima obavljaju djelatnost.
+Procjenu i Operativne planove donose i pravne osobe kojima su Planovima Republike Hrvatske, županija, gradova i općina određene posebne zadaće u provođenju zaštite i spašavanja.
+Operativne planove dužne su donijeti i pravne osobe, redovne službe i djelatnosti, vlasnici i korisnici javnih objekata u kojima se okuplja veći broj ljudi (kazališta, kina, poslovne zgrade, putnički terminali, robne kuće, diskoteke, sportski objekti, škole) te korisnici objekata kritične infrastrukture.
