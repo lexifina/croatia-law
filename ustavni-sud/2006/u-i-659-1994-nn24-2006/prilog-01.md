@@ -1,0 +1,10 @@
+U-I-1955/2001
+U-I-2393/2003
+U-I-311/2004
+U-I-503/2004
+U-I-1173/2004
+U-I-1262/2005
+Zagreb, 8. veljače 2006.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Predsjednik
+dr. sc. Petar Klarić, v. r.
