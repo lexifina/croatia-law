@@ -1,0 +1,3 @@
+# Članak 55.
+Odjel za opće programe, gimnazije, umjetničke škole i učeničke domove prati stanje i predlaže mjere za unaprjeđivanje programa i rada u gimnazijama, glazbenim i likovnim školama te u učeničkim domovima; sudjeluje u izradi metodologije i kriterija za planiranje mreže ustanova i programa kao i za planiranje upisa učenika; priprema prijedloge za rad povjerenstava na utvrđivanju uvjeta u ustanovama za izvođenje programa obrazovanja i za odobravanje rada za redovno obrazovanje, te analizira ekonomičnost ustroja rada škola i učeničkih domova. Odjel obavlja i druge poslove koje odredi ministar.
+9.3. Odjel za obrazovanje odraslih

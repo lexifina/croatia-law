@@ -1,0 +1,8 @@
+## 2. TAJNIŠTVO MINISTARSTVA
+# Članak 6.
+U Tajništvu Ministarstva obavljaju se pravni, kadrovski i organizacijski poslovi u vezi s: ostvarivanjem plana i programa rada Ministarstva; izradom prijedloga godišnjeg plana rada Ministarstva i ujedinjavanjem izvješća o radu unutarnjih ustrojstvenih jedinica Ministarstva; tehničkim usklađivanjem rada unutarnjih ustrojstvenih jedinica i upravnih organizacija u sastavu Ministarstva; brigom o upravljanju kadrovima i njihovom razvoju, daje mišljenja o pitanjima koja se odnose na državnu službu, priprema prijedloge planova prijama u državnu službu usklađujući raspored državnih službenika s planovima središnjeg tijela državne uprave nadležnog za službeničke odnose, sudjeluje u izradi strategija, programa i planova izobrazbe za Ministarstvo, vodi osobne očevidnike službenika i namještenika redovito dostavljajući nove podatke u središnji popis državnih službenika, te provodi postupak prijama u državnu službu u suradnji sa središnjim tijelom državne uprave nadležnim za službeničke odnose. Tajništvo obavlja i druge poslove koje odredi ministar.
+U Tajništvu se obavljaju poslovi u svezi sa skrbi o urednom i pravilnom korištenju imovine i sredstava za rad, opremanju prostora Ministarstva, voznom parku i korištenju vozila, načinu održavanja sredstava i opreme, organiziranju prijevoza dužnosnika i službenika, te pomoćni i tehnički poslovi prijevoda, lektoriranja i umnožavanja, pisarnice, otpreme i pismohrane, ekonomata, telefonista, vratara, održavanja prostora, opreme i čistoće, kao i drugi poslovi koje odredi ministar.
+U Tajništvu se ustrojavaju:
+2.1. Odjel za opće i kadrovske poslove
+2.2. Odjel za tehničke poslove i gospodarenje imovinom.
+2.1. Odjel za opće i kadrovske poslove

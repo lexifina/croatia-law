@@ -1,0 +1,3 @@
+# Članak 36.
+Odsjek za informacijsku infrastrukturu osnovnog i srednjeg obrazovanja i športa obavlja upravne i stručne poslove planiranja, organiziranja i provođenja informatizacije osnovnog i srednjeg obrazovanja i športa, što uključuje planiranje, organiziranje i provođenje razvoja računalno-komunikacijske infrastrukture i informacijskog sustava i aplikacija osnovnog i srednjeg obrazovanja i športa, kao i pripremu, koordinaciju i izradu nacrta stručnih, organizacijskih i provedbenih dokumenata i propisa potrebnih za rad informacijske infrastrukture osnovnog i srednjeg obrazovanja i športa. Odsjek obavlja i druge poslove iz svoga djelokruga, kao i poslove koje odredi ministar.
+5.2.3. Odsjek za informacijsku integraciju s EU

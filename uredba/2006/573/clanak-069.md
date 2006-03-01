@@ -1,0 +1,2 @@
+# Članak 69.
+Odjel za priznavanje inozemnih obrazovnih kvalifikacija obavlja poslove priznavanja inozemnih školskih kvalifikacija o završenom osnovnom i srednjem obrazovanju, dijelovima tog obrazovanja i o oblicima stručne osposobljenosti i usavršavanja za određene poslove i zanimanja. Odjel rješava o žalbama protiv rješenja o priznavanju inozemnih visokoškolskih kvalifikacija, te obavlja i druge poslove koje odredi ministar.

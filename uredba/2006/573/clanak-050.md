@@ -1,0 +1,3 @@
+# Članak 50.
+Odjel za programe i projekte obavlja upravne i stručne poslove u vezi s: izradom i praćenjem nacionalnoga znanstvenog programa; djelokrugom rada ostalih subjekata znanstvene djelatnosti; prijamom prijedloga projekata, programa i tema; upućivanjem programa i projekata na recenzije; pripremom ugovora za programe, projekte i teme; praćenjem rezultata rada na programima i projektima; financijskim praćenjem programa i projekata, ocjenom završnih izvješća programa i projekata, programom odabira, praćenja i usavršavanja znanstvenih novaka, te pripremom materijala za sjednice povjerenstava. Odjel obavlja i druge poslove iz svoga djelokruga, kao i poslove koje odredi ministar.
+8.2. Odjel za razvoj

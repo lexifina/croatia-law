@@ -1,0 +1,2 @@
+# Članak 45.
+Odjel za europsku integraciju obavlja i koordinira poslove vezane za približavanje i pridruživanje Republike Hrvatske Europskoj uniji u području znanosti, tehnologije, obrazovanja i športa (programi EU, predpristupni fondovi EU, CARDS program, FP6, Leonardo, Marie Curie, TEMPUS, ERASMUS, MUNDUS, Šesti okvir i dr.). Odjel obavlja i druge poslove iz svoga djelokruga, kao i poslove koje odredi ministar.

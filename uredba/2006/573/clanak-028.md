@@ -1,0 +1,6 @@
+# Članak 28.
+Odjel za normativne poslove priprema i izrađuje nacrte prijedloga zakona i drugih propisa iz djelokruga Ministarstva; upućuje nacrte prijedloga zakona i drugih propisa iz djelokruga Ministarstva u proceduru Vladi Republike Hrvatske; daje mišljenja na nacrte prijedloga zakona i drugih propisa iz djelokruga drugih tijela državne uprave; prati primjenu i provedbu zakona i drugih propisa u području znanosti, obrazovanja i športa; prati promjene u zakonodavstvu Republike Hrvatske i usklađuje propise iz djelokruga Ministarstva s propisima iz djelokruga drugih tijela državne uprave; priprema i izrađuje nacrte propisa koje donosi ministar; izrađuje upute, stručna mišljenja i objašnjenja u svezi s primjenom i provedbom zakona i drugih propisa iz djelokruga Ministarstva; priprema odgovore na zastupnička pitanja, te pruža pravnu pomoć drugim ustrojstvenim jedinicama u sastavu Ministarstva pri izradi složenijih pravnih akata i pravnih stajališta iz djelokruga drugih ustrojstvenih jedinica Ministarstva. Odjel obavlja i druge poslove koje odredi ministar.
+U Odjelu se ustrojavaju:
+4.1.1. Odsjek za izradu normativnih akata
+4.1.2. Odsjek za tumačenje, praćenje primjene i provedbu propisa.
+4.1.1. Odsjek za izradu normativnih akata

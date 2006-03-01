@@ -1,0 +1,3 @@
+# Članak 54.
+Odjel za strukovno obrazovanje prati stanje u strukovnim školama u odnosu na hrvatske potrebe i stanje u strukovnom školstvu članica EU, te predlaže potrebne sistemske, organizacijske, programske, materijalne i zakonske mjere za unapređivanje tog dijela školskog sustava; sudjeluje u izradi metodologije i kriterija za planiranje mreže srednjih strukovnih škola i programa, te za upise učenika u strukovne škole; sudjeluje u izradi stručnih podloga za nacrte standarda i zakona, te drugih propisa. Odjel obavlja i druge poslove koje odredi ministar.
+9.2. Odjel za opće programe, gimnazije, umjetničke škole i učeničke domove
