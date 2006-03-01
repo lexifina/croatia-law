@@ -1,0 +1,6 @@
+# Članak 29.
+Davanja za profesionalne bolesti
+(1) Istovrsna davanja za profesionalne bolesti, koja se nadoknađuju, prema pravnim propisima obiju ugovornih stranaka, padaju na teret nadležnog nositelja ugovorne stranke na čijem je području posljednji put obavljana djelatnost koja je utjecala na nastanak profesionalne bolesti.
+(2) Ako je osiguranik, prema pravnim propisima jedne ugovorne stranke, već ostvario davanje na temelju profesionalne bolesti, nositelj te ugovorne stranke je obvezan pružati davanja i u slučaju pogoršanja bolesti. Ako je, međutim, osiguranik nakon pružanja prava na davanje prema pravnim propisima prve ugovorne stranke, bio u drugoj ugovornoj stranci zaposlen na poslovima koji sadrže isti posebni rizik za koji je ostvareno davanje i ako je došlo do pogoršanja bolesti, davanja za to pogoršanje obveza su nositelja druge ugovorne stranke, s time da nositelj prve ugovorne stranke ostaje u obvezi pružanja prije odobrenog davanja. U navedenom slučaju nositelj druge ugovorne stranke odobrava davanje samo u visini razlike između davanja koje bi pripadalo nakon pogoršanja prema pravnim propisima koje on primjenjuje i davanja koje bi pripadalo prema tim pravnim propisima prije pogoršanja.
+POGLAVLJE 4.
+Nezaposlenost

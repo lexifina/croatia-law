@@ -1,0 +1,6 @@
+# Članak 20.
+Obračun razmjernog dijela davanja
+Ako prema pravnim propisima jedne ugovorne stranke, pravo na davanje postoji samo uz primjenu članka 18. ovoga Ugovora, nadležni nositelj te ugovorne stranke utvrđuje davanje isključivo na osnovi razdoblja osiguranja koja se uzimaju u obzir prema pravnim propisima koji se primjenjuju. Ako davanje nije moguće odrediti na način iz prethodne rečenice, davanje se određuje na sljedeći način:
+1. nadležni nositelj najprije utvrđuje teorijsku svotu davanja na koju bi osiguranik imao pravo kada bi sva zbrojena razdoblja osiguranja bila navršena unutar pravnih propisa koje on primjenjuje. Svota davanja koja ne zavisi od dužine mirovinskog staža, uzima se također kao teorijska svota,
+2. zatim, nadležni nositelj utvrđuje stvarnu svotu davanja na koju osiguranik ima pravo, tako da teorijsku svotu iz točke 1. ovoga članka svodi na odnos između razdoblja osiguranja navršenih prema pravnim propisima koje on primjenjuje i ukupno zbrojenih razdoblja osiguranja,
+3. ako je ukupno trajanje razdoblja osiguranja, zbrojenih prema članku 18., duže od najdužega trajanja razdoblja propisanog pravnim propisima jedne ugovorne stranke za izračunavanje najveće svote davanja, nadležni nositelj za izračunavanje davanja prema točkama 1. i 2. ovoga članka uzima u obzir to najduže trajanje, umjesto ukupno zbrojenih razdoblja.

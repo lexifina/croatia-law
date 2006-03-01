@@ -1,0 +1,6 @@
+# Članak 37.
+Podnošenje zahtjeva
+(1) Zahtjevi, izjave ili pravna sredstva, koja se primjenom ovoga Ugovora ili pravih propisa jedne ugovorne stranke podnose nadležnom tijelu, nositelju ili nekoj drugoj nadležnoj službi jedne ugovorne stranke, smatraju se zahtjevima, izjavama ili pravnim sredstvima podnesenim nadležnom tijelu, nositelju ili drugoj nadležnoj službi druge ugovorne stranke.
+(2) Zahtjev za davanje, podnesen prema pravnim propisima jedne ugovorne stranke, smatra se također i zahtjevom za odgovarajuće davanje, prema pravnim propisima druge ugovorne stranke, koje dolazi u obzir primjenom ovoga Ugovora. To ne vrijedi ako podnositelj zahtjeva izričito zahtijeva da se odgodi utvrđivanje prava na davanje, prema pravnim propisima druge ugovorne stranke.
+(3) Zahtjevi, izjave ili pravna sredstva, koja se primjenom pravnih propisa jedne ugovorne stranke trebaju podnijeti u određenom roku nadležnom tijelu, nositelju ili drugoj nadležnoj službi te ugovorne stranke, mogu se u tom istom roku podnijeti odgovarajućem nadležnom tijelu, nositelju ili drugoj nadležnoj službi druge ugovorne stranke.
+(4) Pri primjeni ovoga članka navedene službe odmah prosljeđuju zahtjeve, izjave ili pravna sredstva izravno ili putem tijela za vezu ugovornih stranaka, odgovarajućem nadležnom tijelu, nositelju ili drugoj nadležnoj službi druge ugovorne stranke.

@@ -1,0 +1,3 @@
+# Članak 22.
+Razdoblje obveznog osiguranja kraće od 365 dana
+Ako ukupno trajanje razdoblja obveznog osiguranja, navršeno prema pravnim propisima jedne ugovorne stranke, ne ispunjava bar 365 dana i ako, uzimajući u obzir samo ta razdoblja, ne proizlazi nikakvo pravo na davanja, nositelj te ugovorne stranke nije dužan pružiti davanja za ta razdoblja. Ova će razdoblja osiguranja uzeti u obzir nadležni nositelj druge ugovorne stranke kako zbog stjecanja prava na davanja u smislu pravnih propisa te ugovorne stranke, tako i za njihovo obračunavanje, kao da je to razdoblje navršeno prema njezinim pravnim propisima.
