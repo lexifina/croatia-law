@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 4. Zakona o Umirovljeničkom fondu (»Narodne novine« br. 93/05), Uprava Hrvatske agencije za nadzor financijskih usluga je na sjednici održanoj 16. veljače 2006. godine, donijela
