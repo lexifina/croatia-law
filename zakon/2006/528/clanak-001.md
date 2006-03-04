@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom osniva te uređuje temeljni ustroj, djelokrug, javne ovlasti, članstvo i financiranje u Hrvatskoj komori inženjera šumarstva i drvne tehnologije (u daljnjem tekstu: Komora).
+(2) U Komoru se obvezno udružuju inženjeri šumarstva i drvne tehnologije koji obavljaju stručne poslove iz područja šumarstva, lovstva i drvne tehnologije (u daljnjem tekstu: ovlašteni inženjeri), radi zastupanja i usklađivanja zajedničkih interesa, zaštite javnog interesa i zaštite interesa trećih osoba.
+(3) Stručni poslovi iz stavka 2. ovoga članka jesu: projektiranje, izrada, procjena, izvođenje i nadzor radova iz područja uzgajanja, uređivanja, iskorištavanja i otvaranja šuma, lovstva, zaštite šuma, hortikulture, rasadničarske proizvodnje, savjetovanja, ispitivanja kvalitete proizvoda, sudskog vještačenja, izrade i revizije stručnih studija i planova, kontrola projekata i stručne dokumentacije, izgradnja uređaja, izbor opreme, objekata, procesa i sustava, stručno osposobljavanje i licenciranje radova u šumarstvu, lovstvu i preradi drva.
