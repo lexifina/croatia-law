@@ -1,0 +1,2 @@
+# Članak 3.
+Osoba koja je do 19. lipnja 1991. o svome trošku uz suglasnost tadašnjih stanara, odnosno skupa stanara ili bivše mjesne zajednice provela prenamjenu zajedničkih prostorija u stambenoj zgradi u društvenom vlasništvu u stan za potrebe vlastitog stanovanja i u njemu stalno stanuje, a ne ispunjava uvjete iz članka 372. Zakona o vlasništvu i drugim stvarnim pravima, stupanjem na snagu ovoga Zakona stječe pravo na kupnju tog stana.

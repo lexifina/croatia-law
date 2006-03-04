@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ako je osoba iz članka 2. stavka 1., odnosno članka 3. ovoga Zakona preminula prava iz ovoga Zakona stječe bračni drug, odnosno član obiteljskog kućanstva koji u vrijeme stupanja na snagu ovoga Zakona taj stan koristi, a kojeg članovi obiteljskog kućanstva sporazumno odrede.
+(2) Članovima obiteljskog kućanstva, u smislu ovoga Zakona, osim bračnog druga smatraju se i srodnici po krvi u pravoj liniji i njihovi bračni drugovi, braća i sestre, pastorčad i usvojenici, očuh i maćeha te osoba koja s osobom iz članka 2. stavka 1., odnosno članka 3. ovoga Zakona živi u izvanbračnoj zajednici.

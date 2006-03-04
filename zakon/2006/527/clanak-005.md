@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Pravo na kupnju stana osoba iz članka 2., odnosno članka 4. ovoga Zakona može ostvariti pod uvjetom da u istom mjestu nema u vlasništvu useljivu kuću ili stan, odnosno ako nije tu nekretninu prodala, darovala ili na bilo koji način otuđila nakon 5. studenoga 1996.
+(2) Pravo na kupnju stana osoba iz članka 3. ovoga Zakona može ostvariti pod uvjetom da u istom mjestu nema u vlasništvu useljivu kuću ili stan, odnosno ako nije tu nekretninu prodala, darovala ili na bilo koji način otuđila nakon 19. lipnja 1991.
+(3) Ako se osoba iz stavka 1., odnosno stavka 2. ovoga članka nalazi na listi reda prvenstva za kupnju stana prema Zakonu o društveno poticanoj stanogradnji ili je prema tom zakonu sklopila predugovor o kupoprodaji stana s Agencijom za pravni promet i posredovanje nekretninama - APN (u daljnjem tekstu: Agencija) nema pravo na kupnju stana prema ovome Zakonu, ukoliko ne odustane od kupnje stana prema Zakonu o društveno poticanoj stanogradnji.
+(4) Potvrdu o činjenicama iz stavka 3. ovoga članka prodavatelju dostavlja Agencija.
