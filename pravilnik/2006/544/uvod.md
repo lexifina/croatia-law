@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 4. Zakona o stočarstvu (»Narodne novine« br. 70/97., 36/98., 76/99. i 151/03.) i članka 24. stavka 4. Zakona o veterinarstvu (»Narodne novine« br. 70/97., 105/01. i 172/03.) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
