@@ -1,0 +1,12 @@
+# Članak 4.
+Za potrebe popune Osnovne mreže zdravstvene djelatnosti (»Narodne novine« broj 188/04., u daljnjem tekstu: Mreža) Zavod osnovom odredaba članka 85., a u skladu s odredbama članka 86. Zakona raspisuje natječaj za sklapanje ugovora za provođenje zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja i to primarne, specijalističko-konzilijarne i bolničke zdravstvene zaštite za 2006. godinu s do sada ugovorenim zdravstvenim ustanovama i privatnim zdravstvenim radnicima kao i zdravstvenim ustanovama i privatnim zdravstvenim radnicima koji do sada nisu imali sklopljen ugovor sa Zavodom, te uz suglasnost ministra nadležnog za zdravstvo donosi odluku o odabiru najpovoljnijeg ponuditelja.
+Kada se na natječaj iz stavka 1. ovog članka i to isključivo za djelatnost i područja gdje Mreža nije popunjena, prijavi više ponuditelja od traženog broja izvršitelja, a koji zadovoljavaju propisane kriterije za sklapanje ugovora iz određene djelatnosti, prednost će imati ponuditelji prema kriterijima i redoslijedu kako slijedi:
+1. ponuditelj specijalist medicine za djelatnost za koju se raspisuje natječaj
+2. ponuditelj doktor stomatologije za djelatnost polivalentne stomatološke zdravstvene zaštite
+3. ponuditelj s većim brojem opredijeljenih osiguranih osoba
+4. ponuditelj čija je ordinacija dostupnija najvećem broju opredijeljenih osiguranih osoba s obzirom na područje za koje se raspisuje natječaj
+5. ponuditelj kojem se sjedište zdravstvene ustanove ili privatne prakse ili ordinacije nalazi na području za koje se raspisuje natječaj, odnosno kojem je sjedište najbliže području za koje se raspisuje natječaj
+6. ponuditelj koji prvi podnese ponudu u vrijeme raspisanog natječaja, pod uvjetom da ispunjava propisane uvjete.
+Pri donošenju odluke o odabiru ponuda prema kriterijima iz stavka 2. ovog članka, kriteriji se primjenjuju načinom eliminacije i to tako da se prvo procjenjuje prvi kriterij, ako ga niti jedan ponuditelj ne zadovoljava ili ga više ponuditelja zadovoljavaju, procjenjuje se drugi kriterij i tako redom dok se ne dobije najpovoljniji ponuditelj.
+Kada ni nakon primjene svih kriterija propisanih stavkom 2. ovog članka i nadalje ostanu dva ili više jednako pravna i prihvatljiva ponuditelja, odluku o izboru najpovoljnijeg ponuditelja donosi arbitraža iz članka 86. stavka 4. Zakona.
+S odabranim ponuditeljem iz ovog članka Zavod sklapa ugovor o provođenju zdravstvene zaštite na pojedinoj razini zdravstvene djelatnosti za 2006. godinu.

@@ -1,0 +1,2 @@
+# Članak 2.
+Način i uvjeti pod kojima Zavod sklapa ugovore o provođenju zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja na primarnoj, sekundarnoj, tercijarnoj razini i razini zdravstvenih zavoda utvrđuju se osnovom Zakona o zdravstvenom osiguranju (»Narodne novine« broj 94/01., 88/02., 149/02., 117/03., 30/04., 177/04. i 90/05., u daljnjem tekstu: Zakon), u skladu s Pravilnikom o standardima i normativima prava iz osnovnoga zdravstvenog osiguranja za 2006. godinu (u daljnjem tekstu: Pravilnik), te drugim općim aktima Zavoda.

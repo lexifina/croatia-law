@@ -1,0 +1,5 @@
+# Članak 17.
+Doktori medicine i stomatologije u zdravstvenim ustanovama, odnosno privatni zdravstveni radnici obvezni su prilikom propisivanja lijekova na recept pridržavati se potvrđenih kliničkih smjernica.
+Doktori medicine i stomatologije u zdravstvenim ustanovama, odnosno privatni zdravstveni radnici mogu, rukovodeći se kliničkim smjernicama, načelima farmakoekonomike, te vodeći računa o interakcijama i kontraindikacijama, osiguranoj osobi Zavoda propisati i lijek različit od lijeka koji je preporučio doktor specijalist, vodeći računa o tome da se radi o lijeku istog razreda učinkovitosti u odgovarajuće jakim dozama.
+Zdravstveni radnici ustanove, odnosno privatni zdravstveni radnici ne smiju propisivati lijekove na recept osiguranoj osobi Zavoda koja se nalazi na bolničkom liječenju.
+Zdravstveni radnici ustanove, odnosno privatni zdravstveni radnici ne mogu, osiguranim osobama Zavoda koje su uključene u klinička ispitivanja lijekova na teret osnovnoga zdravstvenog osiguranja propisivati lijekove i dijagnostičke postupke koji su vezani uz klinička ispitivanja.

@@ -1,0 +1,4 @@
+# Članak 44.
+Sudjelovanje osigurane osobe u pokriću dijela troškova zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja utvrđeno je u skladu s člankom 17. stavkom 2. točkom 2. - 6. i stavkom 3. istog članka Zakona, kao i Odlukom o opsegu prava na zdravstvenu zašititu iz osnovnoga zdravstvenog osiguranja za 2006. godinu.
+Za izračun troškova sudjelovanja osigurane osobe u vrijednosti stomatološkog pomagala utvrđenog Pravilnikom o ortopedskim i drugim pomagalima, na razini primarne zdravstvene zaštite koristi se utvrđena vrijednost boda za primarnu zdravstvenu zaštitu.
+Iznos naplaćenog sudjelovanja osiguranoj osobi, odnosno osiguravatelju dopunskoga zdravstvenog osiguranja u dijelu troškova za pruženu zdravstvenu zaštitu čini prihod zdravstvene ustanove, odnosno privatnoga zdravstvenog radnika.

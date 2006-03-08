@@ -1,0 +1,4 @@
+# Članak 18.
+Radi praćenja medicinske opravdanosti provođenja zdravstvene njege, Zavod će mjesečno pratiti izvršenje zdravstvene njege po izabranom doktoru, kontrolirati bodovno izvršenje u odnosu na standard i osnovom izvješća o ostvarenom izvršenju poduzimati odgovarajuće mjere iz svoje nadležnosti u skladu sa sklopljenim ugovorom o provođenju primarne zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja.
+Radi praćenja medicinske opravdanosti upućivanja na specijalističko-konzilijarnu i bolničku zdravstvenu zaštitu Zavod će tromjesečno pratiti troškove rečene zdravstvene zaštite za osigurane osobe po izabranom doktoru.
+Zavod će pratiti po izabranom doktoru troškove provođenja i medicinsku opravdanost specijalističko-konzilijarne i bolničke zdravstvene zaštite koju osigurane osobe opredijeljene za ugovorne doktore Zavoda koriste bez izdane uputnice.

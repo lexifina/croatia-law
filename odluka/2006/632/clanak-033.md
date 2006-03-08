@@ -1,0 +1,2 @@
+# Članak 33.
+Privatni zdravstveni radnici u zakupu doma zdravlja obvezni su, prilikom određivanja plaća svojih radnika, usklađivati obračun plaća s odredbama Kolektivnog ugovora za djelatnost zdravstva i zdravstvenog osiguranja (»Narodne novine« broj 9/05. i 20/06.), razmjerno visini novčane naknade koja je ugovorena između Zavoda i privatnog zdravstvenog radnika za ugovorene i izvršene zdravstvene usluge.

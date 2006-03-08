@@ -1,0 +1,4 @@
+# Članak 36.
+Za djelatnost hitne medicinske pomoći, koja nije organizirana u skladu s Pravilnikom o izvanbolničkoj hitnoj medicinskoj pomoći cijena se utvrđuje prema vrijednosti standardnog tima za hitnu medicinsku pomoć, sanitetski prijevoz, prijavno-dojavnu jedinicu, dežurstvo i pripravnost.
+Za izvršene usluge prijevoza u hitnoj medicinskoj pomoći i sanitetskom prijevozu, koji se ugovaraju prema stavku 1. ovog članka, cijena se utvrđuje po prijeđenom kilometru, prema priloženim radnim, odnosno putnim nalozima.
+Za djelatnost hitne medicinske pomoći organizirane u skladu s odredbama Pravilnika o izvanbolničkoj hitnoj medicinskoj pomoći, cijena se utvrđuje umnoškom utvrđenog novčanog iznosa po stanovniku, broja stanovnika i pripadajućeg koeficijenta za županiju/Grad Zagreb.

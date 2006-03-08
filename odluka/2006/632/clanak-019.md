@@ -1,0 +1,4 @@
+# Članak 19.
+Doktori medicine i doktori stomatologije, odnosno dipl. ing. medicinske biokemije ili specijalisti medicinske biokemije zaposleni u domovima zdravlja, radi osiguranja prava na zdravstvenu zaštitu pod jednakim uvjetima za sve osigurane osobe Zavoda, a na načelima dostupnosti i kontinuiranosti korištenja rečenog prava, potpisuju s domom zdravlja poseban izvadak iz ugovora o provođenju primarne zdravstvene zaštite sklopljen između Zavoda i doma zdravlja.
+Izvadak iz stavka 1. ovog članka prilog je ugovoru o provođenju primarne zdravstvene zaštite.
+Kada tijekom godine osnovom rješenja ministra nadležnog za zdravstvo pojedini timovi primarne, odnosno specijalističko-konzilijarne zdravstvene zaštite u domovima zdravlja, odnosno ljekarničke jedinice u ljekarničkim ustanovama postanu: privatni doktori - zakupnici, privatne ljekarne u zakupu, privatni laboratorij u zakupu sklapaju sa Zavodom ugovor o provođenju zdravstvene zaštite.
