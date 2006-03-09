@@ -1,0 +1,1 @@
+Temeljem članka 164. stavka 8. Zakona o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03) i članka 11. stavka 3. Pravilnika o stručnim mjerilima i postupku izdavanja odobrenja za obavljanje djelatnosti kolektivnog ostvarivanja prava i o naknadama za rad Vijeća stručnjaka (»Narodne novine«, br. 72/04), ministar znanosti, obrazovanja i športa donosi
