@@ -1,0 +1,4 @@
+# Članak 2.
+Pod pravom na naknadu troškova u smislu ovog Pravilnika podrazumijeva se pravo na naknadu troškova javnog prijevoza i pravo na dnevnice u visini propisanoj odlukom Vlade Republike Hrvatske o visini dnevnice za službena putovanja u zemlji i inozemstvu, o visini naknada za terenski dodatak i za korištenje osobnog automobila u službene svrhe, te o visini naknade za odvojeni život od obitelji.
+Članovi vijeća i predstavnici nacionalnih manjina ostvaruju pravo na naknadu u visini cijene povratne karte javnog prijevoza od mjesta svog prebivališta do mjesta održavanja sjednice, po svakoj održanoj sjednici vijeća ili njegovog radnog tijela.
+Ako nije organiziran mjesni javni prijevoz koji omogućava redoviti dolazak, članovi vijeća i predstavnici nacionalnih manjina imaju pravo na naknadu troškova prijevoza koja se utvrđuje u visini cijene karte javnog prijevoza najbližeg mjesta u kojem je taj prijevoz organiziran u visini cijene godišnje karte.

@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Ustavnog zakona o pravima nacionalnih manjina u Republici Hrvatskoj (»Narodne novine«, broj 155/02) i članka 17. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/93, 92/96, 48/99, 15/00, 59/01, 190/03 i 199703) državni tajnik Središnjeg državnog ureda za upravu donosi
