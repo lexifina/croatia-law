@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu (»Narodne novine« broj 12/06. - pročišćeni tekst - u daljnjem tekstu: Pravilnik) u članku 11. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»Iznimno, osigurana osoba može ostvariti pravo na upućivanje na liječenje u inozemnu zdravstvenu ustanovu i zbog bolesti i posljedica ozljeda koje nisu utvrđene u skladu sa stavkom 2. ovog članka, ako je nalazom, mišljenjem i ocjenom liječničkog povjerenstva Direkcije Zavoda, prema prethodno pribavljenom mišljenju doktora specijalista - konzultanata iz članka 12. stavka 2. Pravilnika utvrđeno da takvo liječenje nije moguće provesti u ugovornim zdravstvenim ustanovama u Republici Hrvatskoj, te ako je na taj nalaz, mišljenje i ocjenu svoju suglasnost dalo posebno povjerenstvo iz članka 12. stavka 5. Pravilnika.«.
+Dosadašnji stavak 3. postaje stavak 4.

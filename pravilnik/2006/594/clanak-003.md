@@ -1,0 +1,2 @@
+# Članak 3.
+Do imenovanja doktora specijalista - konzultanata i posebnog povjerenstva iz članka 12. stavka 2. i 5. Pravilnika, o pravu na upućivanje na liječenje u inozemnu zdravstvenu ustanovu, a osnovom zaprimljenih zahtjeva osiguranih osoba odlučivat će se na osnovi nalaza, mišljenja i ocjene liječničkog povjerenstva Direkcije Zavoda koje je donijeto prema prethodno pribavljenom mišljenu, u pravilu, tri doktora specijalista određene specijalnosti iz ugovornih zdravstvenih ustanova na tercijarnoj razini u Republici Hrvatskoj.
