@@ -1,0 +1,1 @@
+Na temelju članka 62. stavka 4. i članka 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i članka 49. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003. i 140/2005.) guverner Hrvatske narodne banke donosi
