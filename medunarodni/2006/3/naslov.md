@@ -1,0 +1,1 @@
+Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Republike Mađarske o uspostavi graničnog prijelaza Goričan - Letenye II za kontrolu graničnog prometa osoba na zajedničkom mjestu na aut

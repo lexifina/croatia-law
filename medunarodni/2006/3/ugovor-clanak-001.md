@@ -1,0 +1,5 @@
+# Članak 1.
+(1) Ugovorne stranke će na državnom području Republike Mađarske, nadovezujući se na most na Muri koji će se izgraditi na europskom cestovnom prometnom koridoru V/B, između graničnih oznaka B57 i B58, između naselja Goričan na državnom području Republike Hrvatske i naselja Letenye na državnom području Republike Mađarske, uspostaviti granični prijelaz na autocesti pod nazivom Goričan - Letenye II (u daljnjem tekstu: granični prijelaz) sa ciljem kontrole graničnog prometa na zajedničkom mjestu.
+(2) Na graničnom prijelazu će se na državnom području Republike Mađarske uspostaviti službeno mjesto na kojem će hrvatske službene osobe obavljati kontrolu graničnog prometa.
+(3) Na graničnom prijelazu obavljat će se međunarodni promet osoba na način i u radnom vremenu utvrđenom člankom 7. Protokola o provedbi Ugovora o kontroli graničnog prometa.
+(4) Nakon otvaranja graničnog prijelaza, postojeći granični prijelaz Goričan - Letenye I koristit će se za promet na način i s radnim vremenom navedenim u članku 6. Protokola o provedbi Ugovora o kontroli graničnog prometa.
