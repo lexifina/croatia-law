@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o zabrani uporabe, stvaranja zaliha, proizvodnje i prijenosa protupješačkih mina i o njihovom uništenju (»Narodne novine«, broj 141/2004), Vlada Republike Hrvatske je na sjednici održanoj 2. ožujka 2006. godine, donijela
