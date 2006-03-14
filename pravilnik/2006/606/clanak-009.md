@@ -1,0 +1,4 @@
+# Članak 9.
+Članove zapovjedništva zaštite i spašavanja grada imenuje gradonačelnik, odnosno predsjednik predstavničkog tijela grada u kojem se na temelju posebnih zakona ne bira gradonačelnik, u pravilu, iz redova pravnih osoba kojima je zaštita i spašavanje redovna djelatnost te ureda gradske uprave.
+Članovi zapovjedništva iz stavka 1. ovog članka po dužnosti su načelnik odjela za zaštitu i spašavanje nadležnog područnog ureda Uprave, zapovjednik javne vatrogasne postrojbe grada ili zapovjednik vatrogasnih postrojbi vatrogasne zajednice grada u kojem nema javne vatrogasne postrojbe i predstavnik nadležne policijske uprave ili postaje.
+Zapovjednik zapovjedništva iz stavka 1. ovog članka je gradonačelnik, odnosno predsjednik predstavničkog tijela grada u kojem se na temelju posebnih zakona ne bira gradonačelnik.

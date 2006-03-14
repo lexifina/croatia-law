@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se ustroj i način pozivanja, mobiliziranja i aktiviranja zapovjedništava zaštite i spašavanja i zapovjedništava civilne zaštite, način pozivanja, mobiliziranja i aktiviranja službi i postrojbi civilne zaštite, službi i postrojbi Državne uprave za zaštitu i spašavanje (u daljnjem tekstu: Uprava), službi i postrojbi pravnih osoba i središnjih tijela državne uprave koje se zaštitom i spašavanjem bave u svojoj redovnoj djelatnosti i drugih operativnih snaga zaštite i spašavanja (u daljnjem tekstu: operativne snage) u slučaju neposredne prijetnje, katastrofe i veće nesreće na području Republike Hrvatske.

@@ -1,0 +1,8 @@
+# Članak 14.
+U slučaju neposredne prijetnje, katastrofe i veće nesreće na području općine ili grada, za zapovijedanje aktivnostima, snagama i sredstvima civilne zaštite poziva se, mobilizira i aktivira zapovjedništvo civilne zaštite grada ili općine.
+Zapovjednike i članove zapovjedništava iz stavka 1. ovog članka imenuje gradonačelnik ili načelnik općine, odnosno predsjednik predstavničkog tijela grada ili općine u kojima se na temelju posebnih zakona ne bira gradonačelnik/općinski načelnik na prijedlog pročelnika nadležnog područnog ureda za zaštitu i spašavanje Uprave.
+Članovi zapovjedništava civilne zaštite iz stavaka 1 ovog članka imenuju se, u pravilu, iz redova djelatnika odjela za zaštitu i spašavanje nadležnih područnih ureda za zaštitu i spašavanje Uprave, općinske i gradske uprave i pravnih osoba od značaja za civilnu zaštitu.
+Gradonačelnik i načelnik općine mogu, po vlastitoj procjeni ili na prijedlog pročelnika nadležnog područnog ureda za zaštitu i spašavanje Uprave odnosno načelnika odjela za zaštitu i spašavanje nadležnog područnog ureda za zaštitu i spašavanje Uprave, imenovati članove zapovjedništava iz stavka 1. ovog članka i iz redova zapovjednika postrojbi civilne zaštite te stručnjaka iz djelatnosti zaštite i spašavanja sa svog područja.
+Članovi zapovjedništva iz stavka 4. ovog članka mobiliziraju se temeljem radne obveze ili obveze sudjelovanja u civilnoj zaštiti.
+Zapovjedništvo civilne zaštite grada i općine poziva se, mobilizira i aktivira putem nadležnog područnog ureda za zaštitu i spašavanje Uprave, a na zahtjev zapovjednika zapovjedništva za zaštitu i spašavanje grada odnosno općine.
+Zapovjedništva civilne zaštite grada i općine pozivaju se sukladno planu zaštite i spašavanja grada odnosno općine.

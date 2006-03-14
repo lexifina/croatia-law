@@ -1,0 +1,5 @@
+# Članak 20.
+Centri 112 primaju i prenose zapovijedi, naloge, odluke i izvješća o pozivanju, mobilizaciji i aktiviranju operativnih snaga zaštite i spašavanja, službi i postrojbi pravnih osoba i središnjih tijela državne uprave koje se zaštitom i spašavanjem bave u svojoj redovitoj djelatnosti, humanitarnih i drugih nevladinih organizacija i drugih sudionika zaštite i spašavanja.
+Centri 112 vode evidenciju odgovornih osoba u operativnim snagama zaštite i spašavanja, središnjim i drugim tijelima državne uprave, tijelima lokalne i područne (regionalne) samouprave, pravnim osobama od posebnog značaja za zaštitu i spašavanje i drugim tijelima i pravnim osobama za potrebe pozivanja, mobiliziranja i aktiviranja radi sudjelovanja u zaštiti i spašavanju, na području svoje nadležnosti.
+Odgovorne osobe iz stavka 2. ovog članka dužni su na zahtjev nadležnog centra 112, Službe za civilnu zaštitu Uprave i samostalno, po nastanku promjene dostaviti osobne i druge podatke i promjene tih podataka potrebnih za provođenje pozivanja, mobilizacije i aktiviranja u funkciji zaštite i spašavanja.
+Centri 112 dužni su redovno ažurirati podatke i evidencije iz stavka 2. ovog članka.
