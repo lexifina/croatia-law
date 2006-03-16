@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o Fondu za regionalni razvoj Republike Hrvatske (»Narodne novine«, broj 107/2001), a u vezi s člankom 6. Pravilnika o uvjetima i načinu korištenja sredstava Fonda za regionalni razvoj Republike Hrvatske (»Narodne novine«, br. 65/2002 i 81/2004), Vlada Republike Hrvatske je na sjednici održanoj 16. ožujka 2006. godine donijela
