@@ -1,0 +1,2 @@
+# Članak 2.
+Sredstva za lijekove iz članka 1. ove Odluke, koji se iskazuju u računima za izvršeno liječenje osiguranih osoba Zavoda u okviru prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja u provođenju ugovorene bolničke i specijalističko-konzilijarne zdravstvene zaštite u bolničkim zdravstvenim ustanovama prema cijenama iz vrijedeće Liste lijekova ne uračunavaju se u maksimalno utvrđen iznos novčanih sredstava iz osnovnog zdravstvenog osiguranja za 2006. godinu pojedine bolničke zdravstvene ustanove.
