@@ -1,0 +1,1 @@
+Na temelju odredbe članka 14. Pravilnika o mjerilima za prijam na vježbenički staž stručnih djelatnika u ustanovama socijalne skrbi (»Narodne novine«, br. 121/00) ministar zdravstva i socijalne skrbi, donosi
