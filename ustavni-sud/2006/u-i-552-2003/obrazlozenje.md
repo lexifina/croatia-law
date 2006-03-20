@@ -1,0 +1,40 @@
+Obrazloženje
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 3. Zakona o izmjenama i dopunama Zakona o osobnoj iskaznici (»Narodne novine« broj 122/02.; u daljnjem tekstu: ZID-a Zakona o osobnoj iskaznici) podnio je Petar Marija Radelj iz Zagreba (u daljnjem tekstu: predlagatelj).
+2. Članak 3. ZID-a Zakona o osobnoj iskaznici glasi:
+Članak 3.
+Članak 26. mijenja se i glasi:
+Novčanom kaznom od 100,00 kuna kaznit će se za prekršaj osoba koja uz sebe nema osobnu iskaznicu (članak 15. stavak 1.) te osoba starija od 16 a mlađa od 18 godina koja nema osobnu iskaznicu (članak 3. stavak 1.).
+3. Predlagatelj ističe da osporena odredba članka 3. ZID-a Zakona o osobnoj iskaznici nije suglasna s člankom 3., člankom 14., te s člankom 26. Ustava Republike Hrvatske.
+Obrazlažući prijedlog, predlagatelj ističe da je osobna iskaznica osnovna identifikacijska isprava, koju je, prema članku 3. Zakona o osobnoj iskaznici (»Narodne novine« broj 11/02.), dužna imati svaka osoba starija od 16 godina koja ima prebivalište u Republici Hrvatskoj.
+Predlagatelj navodi da je odredbom članka 25. točke 1. Zakona o osobnoj iskaznici (do stupanja na snagu osporenog ZID-a Zakona o osobnoj iskaznici) bilo propisano da će se novčanom kaznom kazniti za prekršaj osoba starija od 16 godina koja nema osobnu iskaznicu. Međutim, zakonodavac je osporenim ZID-om Zakona o osobnoj iskaznici, brisao navedenu odredbu. Sankciju za nepoštivanje odredbe članka 3. Zakona o osobnoj iskaznici (prema kojoj je dužnost svih osoba starijih od 16 godina imati osobnu iskaznicu), propisao je osporenom odredbom članka 3. ZID-a Zakona o osobnoj iskaznici na način kojim je, prema predlagateljevom mišljenju, povrijeđena jednakost, kao jedna od najviših vrednota ustavnog poretka Republike Hrvatske (članak 3. Ustava). Pored toga, predlagatelj smatra da osporena odredba uvodi diskriminaciju prema rođenju, jer prekršajnom kažnjavanju za neposjedovanje osobne iskaznice podliježu samo osobe u dobi od 16 do 18 godina.
+Predlagatelj ukazuje i na nesuglasnost osporene odredbe (u dijelu kojim je propisana novčana kazna u iznosu od 100,00 kuna) sa Zakonom o prekršajima (»Narodne novine« broj 88/02., 122/02. i 187/03.) ističući da prema Zakonu o prekršajima, novčana kazna ne može biti propisana niti izrečena u iznosu manjem od 300,00 kuna, dok se globa (za fizičke osobe) može propisati u rasponu od 50,00 do 500,00 kuna.
+Slijedom iznijetog, predlaže pokretanje postupka za ocjenu suglasnosti s Ustavom i poništavanje dijela članka 3. ZID-a Zakona o osobnoj iskaznici u dijelu koji glasi: »a mlađa od 18«, te ukidanje dijela članka 3. ZID-a Zakona o osobnoj iskaznici u dijelu koji glasi: »od 100,00 kuna«.
+4. Na temelju članka 25. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02.-pročišćeni tekst), zatraženo je i dobiveno očitovanje Ministarstva unutarnjih poslova Republike Hrvatske.
+Prijedlog je osnovan.
+5. Neposredno mjerodavne za ocjenu suglasnosti s Ustavom članka 3. ZID-a Zakona o osobnoj iskaznici jesu odredbe članka 3., članka 5. stavka 1. i članka 14. stavka 2. Ustava.
+Prema članku 3. Ustava, jednakost je jedna od najviših vrednota ustavnog poretka Republike Hrvatske i temelj za tumačenje Ustava.
+Prema članku 5. stavku 1. Ustava, u Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom (...).
+Prema članku 14. stavku 2. Ustava, svi su pred zakonom jednaki.
+6. Prema članku 1. Zakona o osobnoj iskaznici (u daljnjem tekstu: Zakon), osobna iskaznica je javna isprava kojom državljanin Republike Hrvatske dokazuje identitet, hrvatsko državljanstvo, spol, datum rođenja, prebivalište i adresu stanovanja.
+Prema članku 3. stavku 1. Zakona, osoba starija od 16 godina života koja ima prebivalište u Republici Hrvatskoj dužna je imati osobnu iskaznicu.
+Prema članku 15. stavku 1. Zakona, osoba je dužna imati kod sebe osobnu iskaznicu i dati je na uvid zakonom ovlaštenim osobama.
+7. Obveza iz članka 3. stavka 1. Zakona odnosi se na sve osobe starije od 16 godina. Svaka osoba starija od 16 godina s prebivalištem u Republici Hrvatskoj koja nema osobnu iskaznicu ne poštuje odredbu članka 3. stavka 1. Zakona.
+Obveza iz članka 15. stavka 1. Zakona, odnosi se na sve osobe koje sukladno članku 3. stavku 1. Zakona moraju imati osobnu iskaznicu. Njihova je dužnost imati kod sebe osobnu iskaznicu.
+8. Do stupanja na snagu ZID-a Zakona o osobnoj iskaznici, prekršajna odgovornost osoba koje ne poštuju članak 3. stavak 1. i članak 15. stavak 1. Zakona bila je uređena na sljedeći način:
+Prema članku 25. točki 1. Zakona, novčanom kaznom (...) kaznit će se za prekršaj osoba koja je starija od 16 godina i nema osobnu iskaznicu (članak 3. stavak 1.).
+Prema članku 26. Zakona, novčanom kaznom (...) kaznit će se za prekršaj osoba koja uz sebe nema osobnu iskaznicu (članak 15. stavak 1.).
+9. Osporenim ZID-om Zakona o osobnoj iskaznici, odredba članka 25. točke 1. Zakona brisana je, a odredba članka 26. izmijenjena tako da glasi:
+Novčanom kaznom od 100,00 kuna kaznit će se za prekršaj osoba koja uz sebe nema osobnu iskaznicu (članak 15. stavak 1.) te osoba starija od 16 a mlađa od 18 godina koja nema osobnu iskaznicu (članak 3. stavak 1.).
+Iz navedenih zakonskih odredaba razvidno je da je Zakon propisivao prekršajnu odgovornost svih osoba koje, suprotno odredbi članka 3. stavka 1. Zakona, nemaju osobnu iskaznicu, te osoba koje, suprotno članku 15. stavku 1. Zakona, uz sebe nemaju osobnu iskaznicu.
+10. Nakon stupanja na snagu ZID-a Zakona o osobnoj iskaznici, osobe koje (suprotno članku 15. stavku 1. Zakona) uz sebe nemaju osobnu iskaznicu, podliježu prekršajnoj odgovornosti (kao što su podlijegale i do ZID-a Zakona o osobnoj iskaznici).
+Međutim, osobe koje ne poštuju odredbu članka 3. stavka 1. Zakona osporeni ZID Zakona o osobnoj iskaznici podijelio je u dvije skupine.
+Osporenom odredbom članka 3. ZID-a Zakona o osobnoj iskaznici propisana je prekršajna odgovornost samo jedne skupine osoba koje ne poštuju odredbu članka 3. stavka 1. Zakona. To su osobe starije od 16 a mlađe od 18 godina. Na taj je način uvedena razlika između osoba koje se nalaze u istovjetnom pravnom položaju (tj. osoba koje, ne poštujući članak 3. Zakona, nemaju osobnu iskaznicu).
+11. Ustavom zajamčena jednakost svih pred zakonom (članak 14. stavak 2. Ustava) pretpostavlja jednaka prava i obveze u istovjetnom pravnom položaju.
+Da bi zakonske odredbe kojima je uređen pravni položaj osoba koje, suprotno članku 3. stavku 1. Zakona, nemaju osobnu iskaznicu, udovoljile zahtjevu kojeg postavlja odredba članka 14. stavka 2. Ustava, pravni položaj tih osoba mora biti istovjetan.
+Stoga izdvajanje samo jedne skupine osoba koje, suprotno odredbi članka 3. stavka 1. Zakona, nemaju osobnu iskaznicu i propisivanje njihove prekršajne odgovornosti (za djelo koje čine i sve druge osobe starije od 18 godina koje nemaju osobnu iskaznicu, ali koje za to djelo ne podliježu prekršajnoj odgovornosti), sa stajališta odredbe članka 14. stavka 2. Ustava nije prihvatljivo.
+Razlikovanje u propisivanju prekršajne odgovornosti osoba koje ne poštuju određenu zakonsku odredbu, na način da samo osobe u dobi između 16 i 18 godina podliježu prekršajnoj odgovornosti, nema ustavnopravnog opravdanja.
+Slijedom iznijetog, Ustavni sud utvrđuje da je odredba članka 3. ZID-a Zakona o osobnoj iskaznici, u dijelu koji glasi: »a mlađe od 18« nesuglasna s člankom 14. stavkom 2. Ustava.
+12. S obzirom na navedeno, na temelju članka 55. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske odlučeno je kao u točki I. izreke.
+13. Prema članku 128. alineje 1. Ustava, Ustavni sud Republike Hrvatske odlučuje o suglasnosti zakona s Ustavom. Iz navedene ustavne odredbe proizlazi da Ustavni sud Republike Hrvatske ne ocjenjuje međusobnu usklađenost zakona, odnosno propisa iste pravne snage.
+Stoga Sud nije razmatrao navode predlagatelja o suprotnosti osporene odredbe sa Zakonom o prekršajima.
+14. Objava odluke (točka II. izreke) temelji se na odredbi članka 29. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
