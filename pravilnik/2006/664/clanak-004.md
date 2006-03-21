@@ -1,0 +1,2 @@
+# Članak 4.
+U postupku priključenja građevine na mrežu ili povećanja priključne snage, proizvođač ili kupac zaključuju ugovor o priključenju s operatorom prijenosnog sustava ili operatorom distribucijskog sustava, sukladno propisanim uvjetima iz prethodne elektroenergetske suglasnosti, odredbama Općih uvjeta za opskrbu električnom energijom, Mrežnih pravila elektroenergetskog sustava i ovoga Pravilnika, kojim se utvrđuje iznos naknade za priključenje.

@@ -1,0 +1,2 @@
+# Članak 2.
+Izrazi koji se koriste u ovom Pravilniku imaju značenja utvrđena Zakonom o energiji (»Narodne novine« broj 68/01 i 177/04), Zakonom o tržištu električne energije (»Narodne novine« broj 177/04), Općim uvjetima za opskrbu električnom energijom (»Narodne novine«, broj 14/06), tarifnim sustavom za opskrbu električnom energijom, s iznimkom povlaštenih kupaca, tarifnim sustavom za prijenos električne energije, tarifnim sustavom za distribuciju električne energije i Mrežnim pravilima elektroenergetskog sustava.

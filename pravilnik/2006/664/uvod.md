@@ -1,0 +1,1 @@
+Na temelju članka 29.a stavka 1. Zakona o energiji (»Narodne novine« broj 68/01 i 177/04), Upravno vijeće Hrvatske energetske regulatorne agencije, na svojoj sjednici održanoj 6. ožujka 2006. godine donijelo je

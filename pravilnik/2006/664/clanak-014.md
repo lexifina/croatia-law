@@ -1,0 +1,2 @@
+# Članak 14.
+Troškovi izgradnje priključka na mrežu srednjeg napona 35(30) kV ili 10(20) kV, ovisno o tehničkom rješenju priključenja, obuhvaćaju troškove izgradnje srednjonaponskoga priključnog voda, odnosno dvostrukoga priključnog voda, opreme pripadnih vodnih polja s odgovarajućim dijelom sabirnica u postrojenju operatora distribucijskog sustava te opreme vodnih i mjerno-spojnog polja u postrojenju kupca.

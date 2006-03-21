@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Proizvođač ili kupac ima pravo priključiti svoju građevinu odnosno svoj elektroenergetski objekt i instalaciju na mrežu (u daljnjem tekstu: građevina), a već priključeni ima pravo na povećanje priključne snage, sukladno propisanim uvjetima.
+(2) Kupac s vlastitom elektranom snage do uključivo 30 kW, koja je predviđena za paralelni pogon s mrežom i koja se koristi pretežno za vlastite potrebe, ne smatra se proizvođačem u smislu ovoga Pravilnika.
+(3) Kupcu s vlastitom elektranom snage preko 30 kW, koja je predviđena za paralelni pogon s mrežom i ima jedno obračunsko mjerno mjesto, naknada za priključenje na mrežu izračunava se prema metodologiji za priključenje kupca na mrežu i prema metodologiji za priključenje proizvođača na mrežu, a kupac je dužan platiti samo jednu i to veću naknadu za priključenje.
