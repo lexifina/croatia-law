@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-2706/2004 od 22. ožujka 2006.
+
+- Case: `U-IIIA-2706/2004`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2006-03-22`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C1257139004011D5>
+- Official database page SHA-256: `7253b1c0454a6bcfca95ee4fa0fdb9b8b47c6377d0be53c74b71aa5c0ca6d403`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
