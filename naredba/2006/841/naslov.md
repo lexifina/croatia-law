@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi iz određenih zemalja članica Europske unije i pridruženih zemalja radi sprječavanja unošenja influence ptica
