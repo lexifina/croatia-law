@@ -1,0 +1,1 @@
+Na temelju odredbi članka 29. stavak 2. točke 5. i 6. i stavka 5. Zakona o investicijskim fondovima (»Narodne novine«, br. 150/05), Uprava Hrvatske agencije za nadzor financijskih usluga je na sjednici održanoj 9. ožujka 2006. godine, donijela
