@@ -1,0 +1,1 @@
+Na temelju članka 25. i 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine« br. 36/01), te članka 87. stavka 2. i članka 105. stavka 1. točke 2. Zakona o bankama (»Narodne novine« br. 84/02) guverner Hrvatske narodne banke donio je 3. ožujka 2006. godine
