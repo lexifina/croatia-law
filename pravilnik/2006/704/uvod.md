@@ -1,0 +1,1 @@
+Na temelju odredbe članka 27. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine«, br. 106/99 i 63/00) Uprava Hrvatske agencije za nadzor financijskih usluga, donijela je na sjednici održanoj 8. ožujka 2006. godine
