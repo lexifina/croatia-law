@@ -1,0 +1,1 @@
+Na temelju odredbe članka 120. Zakona o investicijskim fondovima (»Narodne novine«, br. 150/05), Uprava Hrvatske agencije za nadzor financijskih usluga donijela je na sjednici održanoj 9. ožujka 2006. godine
