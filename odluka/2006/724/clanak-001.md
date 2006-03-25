@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o načinu osiguravanja i raspolaganja sredstvima dopunskog zdravstvenog osiguranja (»Narodne novine« broj 198/03., 142/04. i 125/05.) u članku 11. stavak 3. mijenja se i glasi:
+»Prijedlog za donošenje rješenja o ovrsi na temelju vjerodostojne isprave javnom bilježniku u pravilu podnosi područni ured Hrvatskog zavoda za zdravstveno osiguranje (nadalje: Zavod) u kojem je ovršenik sklopio ugovor o dopunskom zdravstvenom osiguranju, osim u slučaju provođenja postupka ovrhe na pokretninama ili nekretninama, kada prijedlog za ovrhu podnosi područni ured na području mjesno mjerodavnog suda.«
