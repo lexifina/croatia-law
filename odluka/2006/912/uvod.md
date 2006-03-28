@@ -1,0 +1,1 @@
+Na temelju članka 10. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 35. stavka 2. Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96, 68/98, 137/99, 22/2000, 73/2000 i 114/2001), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2006. godine donijela
