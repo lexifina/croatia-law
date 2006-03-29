@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« 117/93, 69/97, 33/00, 127/00 i 59/01) i članka 31. Statuta Općine Bednja (»Službeni vjesnik Varaždinske županije« br. 20/01.) Općinsko vijeće Općine Bednja na 7. sjednici održanoj 17. ožujka 2006. godine, donijelo je
