@@ -1,0 +1,1 @@
+Naredba o izmjenama i dopunama Naredbe o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, ovjeravanja mjerila, ispitivanja pakovina, ispitivanja osposobljenosti pravnih osoba i ovlaštenih servisa
