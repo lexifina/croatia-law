@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 6. stavak 3., rečenica pod 3) »Vrijednosti dopuštenoga negativnog odstupanja T2% stvarne količine punjenja pakovina, kad su prema tablici 1 stavku 3. ovog članka izražene u postotku, određuju se zaokruživanjem:« mijenja se i glasi: »Vrijednosti dopuštenoga negativnog odstupanja T2% stvarne količine punjenja pakovina, kad su prema tablici 1 stavku (2) ovog članka izražene u postotku, određuju se zaokruživanjem:«

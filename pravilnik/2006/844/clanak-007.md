@@ -1,0 +1,2 @@
+# Članak 7.
+U prilogu 3a, točka 8.5. »Standardno dvostruko ispitivanje uzoraka prema planu uzorkovanja u tablici g) točke 4. ovog priloga«, stavak 3, u rečenici »Grupa se odbija odmah nakon prvog koraka ako je broj nesukladnih pakovina u prvom uzorku veći od kriterija odbijanja »dk« odnosno nakon drugog koraka ako je broj nesukladnih pakovina jednak kriteriju odbijanja »dk« (ili veći)« oznaka »dk« mijenja se u »d1«.
