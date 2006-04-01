@@ -1,0 +1,5 @@
+# Članak 64.
+Brodari, koji na dan stupanja na snagu ovoga Zakona održavaju županijske i lokalne linije nastavljaju održavati liniju do trenutka preuzimanja linije od brodara koji je dobio koncesiju, sukladno odredbama ovoga Zakona.
+Brodari koji na dan stupanja na snagu ovoga Zakona održavaju županijsku liniju na temelju rješenja o davanju odobrenja za održavanje linije nastavljaju održavati postojeću liniju do isteka roka određenog u rješenju.
+U slučaju da brodar iz stavka 1. ovoga članka ne može održavati liniju ili prestane ispunjavati uvjete za održavanje određene linije, nadležno županijsko, gradsko ili općinsko poglavarstvo odredit će drugog brodara koji ispunjava uvjete za održavanje te linije, da obavlja prijevoz na toj liniji do preuzimanja linije od brodara koji je dobio koncesiju za obavljanje prijevoza na toj liniji, sukladno odredbama ovoga Zakona.
+Za održavanje županijskih i lokalnih linija prema stavku 1. ovoga članka na kojima se iz ostvarenih prihoda ne mogu podmiriti ukupni troškovi prijevoza, razlika sredstava osigurat će u proračunu nadležne županije, grada ili općine.
