@@ -1,0 +1,1 @@
+Na temelju članka 32. stavak 6. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2006. godinu (»Narodne novine«, br. 148/05), Ministarstvo financija, u suglasnosti s Ministarstvom znanosti, obrazovanja i športa, donosi
