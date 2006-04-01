@@ -1,0 +1,1 @@
+Na temelju članka 128. Zakona o policiji (»Narodne novine«, broj 129/00.), a u svezi s člankom 25. stavkom 1. točkom 10. Zakona o zaštiti od ionizirajućih zračenja (»Narodne novine«, broj 27/99. i 173/03.) ministar unutarnjih poslova donosi
