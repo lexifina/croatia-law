@@ -1,0 +1,3 @@
+# Članak 5.
+Pravo na povrat poreza na dodanu vrijednost ostvaruje se za opremu plaćenu u razdoblju od 1. siječnja do 31. prosinca 2006. godine, a zahtjev se može podnositi najkasnije do 31. siječnja 2007. godine za opremu plaćenu do 31. prosinca 2006. godine.
+Za opremu nabavljenu u 2005. godini a plaćenu u 2006. godini za koju je ostvaren povrat poreza na dodanu vrijednost temeljem Naputka o povratu plaćenog poreza na dodanu vrijednost za nabavljenu opremu za obavljanje vatrogasne djelatnosti u 2005. godini (»Narodne novine«, br. 56/05) ne može se ostvariti pravo na povrat poreza na dodanu vrijednost temeljem ovog Naputka.
