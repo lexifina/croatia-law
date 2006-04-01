@@ -1,0 +1,1 @@
+Na temelju članka 56. c Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/2001, 60/2001 - vjerodostojno tumačenje i 129/2005) Vlada Republike Hrvatske je na sjednici održanoj 22. ožujka 2006. godine donijela
