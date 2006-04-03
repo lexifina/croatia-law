@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjega profesionalnog razvoja vojnika i dočasnika (»Narodne novine« broj: 98/04) članak 23. mijenja se i glasi:
+»Za dočasnika koji je navršio najmanje 3 godine u činu i 20 godina staža osiguranja na njegov zahtjev donijet će se zaključak o nemogućnosti daljnjeg profesionalnog razvoja ako podnese zahtjev za prestanak djelatne vojne službe s pravom na mirovinu u skladu s odredbom članka 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba te ako je prestanak službe u skladu s godišnjim planom izdvajanja.«
