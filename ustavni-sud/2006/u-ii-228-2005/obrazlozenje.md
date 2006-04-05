@@ -1,0 +1,37 @@
+O b r a z l o ž e n j e
+1. Zoran Roso, odvjetnik iz Zagreba, podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i Zakonom o odvjetništvu (“Narodne novine”, broj 9/94.) članka 2. tarifnog broja 1., 4., 5., 7. i 8. točke 1. i 4. Pravilnika o visini nagrade odvjetniku određenom za branitelja po službenoj dužnosti (“Narodne novine”, broj 3/05. - dalje u tekstu: Pravilnik).
+2. Osporene odredbe Pravilnika glase:
+Članak 2.
+Odvjetniku određenom za branitelja po službenoj dužnosti pripada nagrada za izvršeni rad po odredbama tarife, i to:
+Tbr. 1.
+Obrana okrivljenika u prethodnom postupku, istražnom postupku i na raspravi pred sudovima, za svaki dan rasprave:
+- za kaznena djela za koja je predviđena novčana kazna ili kazna zatvora do 3. godine - 10 bodova
+- za kaznena djela za koja je predviđena kazna do 5. godina zatvora - 15 bodova
+- za kaznena djela za koja je predviđena kazna do 10 godina zatvora - 20 bodova
+- za kaznena djela za koja je predviđena kazna zatvora preko 10 godina zatvora - 25 bodova
+Ako rasprava traje dulje od jednog sata, za svaki sljedeći započeti sat, odvjetniku kao branitelju po službenoj dužnosti pripada nagrada od 10 bodova.
+Tbr. 4. Za sastavljanje podnesaka s navođenjem činjenica i obrazloženim dokaznim prijedlozima, odvjetniku kao branitelju po službenoj dužnosti pripada 50% nagrade iz Tbr. 1.
+Tbr. 5. Za svaki obavljeni razgovor s okrivljenikom koji se nalazi u pritvoru, odvjetniku kao branitelju po službenoj dužnosti pripada nagrada od 15 bodova te za drugi i svaki sljedeći započeti sat nagrada od 15 bodova.
+Tbr. 7. Za prisutnost očevidima i rekonstrukcijama, kao i ostalim sudskim radnjama koje sud izvodi izvan zgrade suda, odvjetniku kao branitelju po službenoj dužnosti pripada nagrada kao za obranu po Tbr. 1 i nagrada od 10 bodova po utrošenom satu.
+Tbr. 8.
+Pravni lijekovi
+1. Za žalbu okrivljenog protiv presude, žalbu na rješenje kojim je odbijen prijedlog za izdvajanje iz spisa nezakonitih dokaza, žalbu protiv odluke o primjeni odgojno-popravnih mjera, o primjeni mjera sigurnosti i o upućivanju u zavod za čuvanje i liječenje, odvjetniku kao branitelju po službenoj dužnosti pripada ista nagrada kao po Tbr. 1., uvećana za 25%.
+4. Za žalbe protiv odluke o trošku odvjetniku kao branitelju po službenoj dužnosti pripada nagrada od 10 bodova.
+3. Predlagatelj navodi da je Pravilnik donesen na temelju članka 18. stavka 2. Zakona o odvjetništvu, no prema njegovoj prosudbi ta odredba ne daje Ministarstvu pravosuđa ovlast da visinu odvjetničke nagrade određuje protivno Tarifi o nagradama i naknadi troškova za rad odvjetnika (“Narodne novine”, broj 91/04. - dalje u tekstu: Tarifa). Mišljenja je da Ministarstvo pravosuđa može deklarativno utvrđivati visinu naknade za obranu po službenoj dužnosti samo u skladu s odredbama Tarife koju je utvrdila i donijela Hrvatska odvjetnička komora, jer bi suprotno značilo da Ministarstvo pravosuđa može donositi i Tarifu, što je protivno Zakonu o odvjetništvu.
+Nadalje, predlagatelj navodi da se osporenim odredbama neovlašteno određuje odvjetnicima kriterij dostojanstvene zarade dirajući u njihovu neovisnost i samostalnost protivno članku 27. Ustava, te ih neizravno stavlja u nejednak položaj prema odvjetnicima koje su okrivljenici sami izabrali, jer kraj takve razlike u cijeni ozbiljno sumnja da odvjetnici pružaju pravnu pomoć na isti način i s jednakom kvalitetom. Smatra da su na taj način povrijeđene i odredbe članka 14. stavka 2. i članka 26. Ustava.
+Predlaže pokrenuti postupak i osporene odredbe poništiti, odnosno ukinuti.
+Na temelju odredbe članka 42. stavka 2. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (“Narodne novine”, broj 99/99., 29/02. i 40/02. - pročišćeni tekst), prijedlog je dostavljen Ministarstvu pravosuđa, koje je kao donositelj osporenog propisa Ustavnom sudu dostavilo odgovor.
+Prijedlog nije osnovan.
+4. Prema odredbi članka 18. stavka 2. Zakona o odvjetništvu, za obranu po službenoj dužnosti visinu nagrade za rad odvjetnika utvrđuje Ministarstvo pravosuđa. Iz navedene zakonske odredbe nedvojbeno proizlazi da je za donošenje Pravilnika, koji sadrži i osporene odredbe, ovlašteno i nadležno Ministarstvo pravosuđa. Istovremeno, iz te odredbe ne može se zaključiti da bi Ministarstvo pravosuđa pri utvrđivanju visine naknade bilo na ikoji način vezano ili ograničeno Tarifom. Upravo suprotno, s obzirom da Tarifa ne utvrđuje visinu nagrade odvjetniku za obranu po službenoj dužnosti, jer Hrvatska odvjetnička komora kao donositelj Tarife (članak 18. stavak 1. Zakona o odvjetništvu) nije za to ovlaštena, visinu te nagrade samostalno utvrđuje Ministarstvo pravosuđa. Stoga nije osnovan navod predlagatelja da ono može tu visinu utvrđivati samo deklaratorno (jer bi u suprotnom propisivalo samu Tarifu), budući da se visina nagrade za obranu po službenoj dužnosti Tarifom uopće ne utvrđuje.
+Stoga Ustavni sud ocjenjuje da osporene odredbe nisu u nesuglasnosti s člankom 18. Zakona o odvjetništvu.
+5. Prema članku 27. Ustava, odvjetništvo kao samostalna i neovisna služba osigurava svakome pravnu pomoć, u skladu sa zakonom.
+Prema članku 18. stavku 1. Zakona o odvjetništvu, odvjetnici imaju pravo na nagradu za svoj rad sukladno Tarifi koju utvrđuje i donosi Komora. Dakle, odvjetnici sami, putem svoje komore utvrđuju tarifu za svoj rad za slučajeve kad ih građani izaberu radi pružanja pravne pomoći. Na taj način i u tom dijelu, u potpunosti se ostvaruje njihova samostalnost i neovisnost.
+Za slučajeve kad odvjetnici pružaju pravnu pomoć po službenoj dužnosti, dakle kad ih državna vlast određuje za branitelje u pojedinačnim slučajevima, Zakon o odvjetništvu u članku 18. stavku 2. daje ovlast Ministarstvu pravosuđa da određuje visinu nagrade za taj rad. Dakle, država određuje odvjetnika koji će u pojedinačnom slučaju pružati pravnu pomoć po službenoj dužnosti i određuje visinu nagrade za taj rad. Radi se o ograničenju koje je razmjerno potrebi građana koji nisu u mogućnosti platiti uslugu pružanja pravne pomoći u visini određenoj Tarifom, da bi se ostvarilo i zaštitilo njihovo pravo iz članka 29. stavka 1. podstavka 4. Ustava. Prema toj ustavnoj odredbi, u slučaju sumnje ili optužbe zbog kažnjivog djela osumnjičenik, okrivljenik ili optuženik ima pravo da se brani sam ili uz branitelja po vlastitom izboru, a ako nema dovoljno sredstava da plati branitelja, ima pravo na besplatnog branitelja pod uvjetom propisanim zakonom.
+Stoga Ustavni sud ocjenjuje da osporene odredbe Pravilnika nisu u nesuglasnosti s člankom 27. Ustava, jer se radi o ograničenju koje je suglasno odredbama članka 16. Ustava.
+6. Predlagatelj smatra da osporene odredbe Pravilnika nisu u suglasnosti ni s odredbama članka 14. stavka 2. Ustava, prema kojoj su svi pred zakonom jednaki, i članka 26. Ustava, prema kojoj su svi državljani Republike Hrvatske i stranci jednaki pred sudovima i drugim državnim i inim tijelima koja imaju javne ovlasti.
+Odredbe članka 18. Zakona o odvjetništvu, uređujući način utvrđivanja nagrade za njihov rad u pružanju pravne pomoći, u svemu se jednako primjenjuju na sve odvjetnike, pa Ustavni sud ocjenjuje da osporene odredbe Pravilnika nisu u nesuglasnosti s člankom 14. stavkom 2. Ustava.
+Konačno, Ustavni je sud utvrdio da osporene odredbe nisu ni u kakvoj vezi s člankom 26. Ustava, pa u tom dijelu prijedlog nije niti ocjenjivan.
+7. Stoga je na temelju odredaba članka 43. stavaka 1. i 2. Ustavnog zakona o Ustavnom sudu Republike Hrvatske riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-228/2005
+Zagreb, 5. travnja 2006.
