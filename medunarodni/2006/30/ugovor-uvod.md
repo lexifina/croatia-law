@@ -1,0 +1,12 @@
+POSEBAN PRETPRISTUPNI PROGRAM ZA POLJOPRIVREDU I RURALNI RAZVOJ U REPUBLICI HRVATSKOJ
+VIŠEGODIŠNJI SPORAZUM O FINANCIRANJU između KOMISIJE EUROPSKIH ZAJEDNICA U IME EUROPSKE ZAJEDNICE i VLADE REPUBLIKE HRVATSKE
+VIŠEGODIŠNJI SPORAZUM O FINANCIRANJU
+Komisija Europskih zajednica, u daljnjem tekstu: »Komisija« djelujući za i u ime Europske zajednice, u daljnjem tekstu: »Zajednica« s jedne strane, i Vlada Republike Hrvatske djelujući za i u ime Republike Hrvatske, u daljnjem tekstu: »Republika Hrvatska« s druge strane, u daljnjem tekstu pod zajedničkim nazivom: »ugovorne stranke«,
+Budući da:
+(1) je uspostavljen poseban pretpristupni program za poljoprivredu i ruralni razvoj (u daljnjem tekstu SAPARD) kojim se regulira financijski doprinos Zajednice i to Uredbom Vijeća (EZ) br. 1268/1999 od 21. lipnja 1999. o potpori Zajednice pretpristupnim mjerama u poljoprivredi i ruralnom razvoju u državama kandidatima iz srednje i istočne Europe tijekom pretpristupnog razdoblja (SL. L. 161, 26. 6. 1999., str. 87 izmijenjen i dopunjen Uredbom Vijeća (EZ) br. 2257/2004, SL. L. 389, 31.12.2004., str. 1.).
+(2) Republika Hrvatska ispunjava uvjete da bude korisnik SAPARD-a.
+(3) je Republika Hrvatska odobrila Plan za poljoprivredu i ruralni razvoj i dostavila ga Komisiji kako bi ga odobrila kao Program.
+(4) je Odlukom donesenom u skladu s člankom 4. stavkom 5. Uredbe EZ-a br. 1268/1999 taj Plan odobren i postao Program za poljoprivredu i ruralni razvoj, nužno je definirati uvjete izvršenja Programa za poljoprivredu i ruralni razvoj, kao i sve izmjene i dopune istog u Republici Hrvatskoj.
+(5) se Program treba izvršavati na decentraliziranoj osnovi kako je definirano Odlukom Komisije o prenošenju ovlasti upravljanja pomoći na Agenciju u Republici Hrvatskoj donesenom u skladu sa člankom 12. stavkom 2. Uredbe Vijeća (EZ) br. 1266/1999 od 21. lipnja 1999. o koordinaciji pomoći u državama kandidatima u okviru pretpristupne strategije i o izmjenama i dopunama Uredbe (EEZ) br. 3906/89 (SL. L. 161, 26. 6. 1999., str. 68).
+(6) je Memorandum o suglasnosti o osnivanju Nacionalnog fonda (nadalje naveden kao »Memorandum o suglasnosti«) dogovoren i potpisan 5. svibnja 2005. između Europskih zajednica i Vlade Republike Hrvatske, a u vezi decentraliziranog upravljanja pretpristupnom pomoći zajednice u svrhu definiranja odnosa između Zajednice i Republike Hrvatske. Sa svrhom definiranja određenih koncepata Višegodišnjeg sporazuma o financiranju relevantne odredbe Memoranduma o suglasnosti će se uzeti u obzir.
+SPORAZUMJELE SU SE KAKO SLIJEDI:
