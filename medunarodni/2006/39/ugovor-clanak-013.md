@@ -1,0 +1,9 @@
+# Članak 13.
+UTVRĐIVANJE CIJENA
+1. Svaka ugovorna stranka dopustit će svakom određenom zračnom prijevozniku da utvrdi cijene za zračni promet na temelju poslovnih prosudbi na tržištu. Upletanje ugovornih stranaka ograničit će se na:
+a) sprječavanje nerazumno diskriminatornih cijena ili postupaka;
+b) zaštitu korisnika od cijena koje su nerazumno visoke ili ograničavajuće zbog zlouporabe istaknutog položaja; i
+c) zaštitu zračnih prijevoznika od cijena koje su umjetno niske zbog izravne ili neizravne vladine subvencije ili potpore.
+Međutim, zračni prijevoznici koje određuje Republika Hrvatska neće temeljem ovog Sporazuma imati pravo uvesti ili nastaviti s nižim cijenama za bilo koji zračni promet na zračnim linijama unutar Europskog gospodarskog prostora koji se već nudi na tržištu, sukladno uredbi Vijeća (EEC) broj 2409/1992 od 23. srpnja 1992. godine o vozarinama i stopama za zračni promet.
+2. Svaka stranka može zatražiti slanje pisane obavijesti o ili predaju svojim zrakoplovnim vlastima cijena koje će naplaćivati zračni prijevoznici druge stranke za zračni promet na ili sa njezinog teritorija. Od zračnih prijevoznika obiju stranaka ne može se zatražiti slanje pisane obavijesti o ili predaja cijena više od 30 dana prije predloženog datuma njihove primjene. U pojedinačnim slučajevima, slanje pisane obavijesti o cijenama ili predaja cijena može se dopustiti u kraćem roku od uobičajeno zahtijevanog roka. Niti jedna stranka neće zahtijevati od zračnih prijevoznika druge ugovorne stranke da šalje pisanu obavijest ili preda cijene koje naručitelji »charter« letova naplaćuju na tržištu, osim ako se isto ne zatraži na nediskriminirajućoj osnovi u svrhu obavještavanja.
+3. Bez obzira na prethodne stavke, svaki određeni zračni prijevoznik ima pravo prilagoditi bilo koju cijenu ponuđenu na tržištu.
