@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 107/95, 19/96, 88/98 i 150/2005), Vlada Republike Hrvatske je na sjednici održanoj 5. travnja 2006. godine donijela
