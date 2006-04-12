@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, predsjednik Suda, te suci Mario Kos, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Željko Potočnjak, Agata Račan, Smiljko Sokol, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, odlučujući o prijedlogu za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj 8. ožujka 2006. godine, donio je
