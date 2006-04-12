@@ -1,0 +1,4 @@
+# Članak 14.
+Podnaslov ispred članka 94. i članak 94. mijenjaju se i glase:
+»d 1) Odsjek za izgradnju školskih objekata
+Odsjek za izgradnju školskih objekata obavlja stručne poslove koji se odnose na planiranje, pripremu, provođenje i stručni nadzor nad provođenjem programa sanacije, nadogradnje i izgradnje školskih objekata; usklađuje i koordinira rad svih sudionika u provedbi programa; izrađuje godišnji i višegodišnji plan i program rada zajedno s ostalim tijelima uprave i drugim sudionicima; prikuplja i obrađuje stručnu dokumentaciju vezanu za provedbu programa; prati tijek izvršenja po odobrenim dinamičkim planovima; zaprima i obrađuje obračunske situacije sudionika, izrađuje izvješća i analize o provedbi programa, analizira probleme u provedbi programa i predlaže rješenja za njihovo otklanjanje, vodi potrebne evidencije i očevidnike, organizira pohranu i čuvanje dokumentacije Odsjeka; te obavlja i druge poslove i zadatke po nalogu nadređenih«.

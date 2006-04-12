@@ -1,0 +1,4 @@
+# Članak 7.
+Podnaslov ispred članka 87. i članak 87. mijenjaju se i glase:
+»b 1) Odsjek za pripremu dokumentacije za nadmetanje
+Odsjek za pripremu dokumentacije za nadmetanje obavlja stručne poslove koji se odnose na pripremu i izradu dokumentacije za nadmetanje, pripremu i oglašavanje tekstova nadmetanja, pripremu i otpravak pozivnih pisama za stjecanje roba i usluga i ustupanje radova, provedbu postupaka nabave, administrativne i stručne poslove na pripremi, umnožavanju i distribuciji dokumentacije za nadmetanje i dokumentacije za rad Stručnog povjerenstva, davanje posebnih uputa ponuditeljima za ispravno i zakonito sastavljanje ponuda, organizira zaprimanje ponuda, vodi propisane i druge evidencije postupaka nabave, pohrane i čuvanja dokumentacije Odjela, te obavlja i druge poslove i zadatke po nalogu nadređenih«.

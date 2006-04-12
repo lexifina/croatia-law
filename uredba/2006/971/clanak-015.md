@@ -1,0 +1,4 @@
+# Članak 15.
+Podnaslov ispred članka 95. i članak 95. mijenjaju se i glase:
+»d 2) Odsjek za izgradnju objekata javne namjene
+Odsjek za izgradnju objekata javne namjene obavlja stručne poslove koji se odnose na planiranje, pripremu, provođenje i stručni nadzor nad provođenjem programa sanacije, nadogradnje i izgradnje objekata javne namjene; usklađuje i koordinira rad svih sudionika programa; izrađuje godišnji i višegodišnji plan i program rada zajedno s tijelima uprave, jedinicama lokalne samouprave i drugim sudionicima; prikuplja i obrađuje stručnu dokumentaciju, dozvole i suglasnosti vezane za provedbu programa, prati tijek izvršenja po odobrenim dinamičkim planovima; organizira primopredaju završenih objekata; zaprima i obrađuje obračunske situacije sudionika; izrađuje izvješća i analize o provedbi programa, analizira probleme i predlaže rješenja za njihovo otklanjanje, te obavlja i druge poslove i zadatke po nalogu nadređenih«.

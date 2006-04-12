@@ -1,0 +1,4 @@
+# Članak 9.
+Podnaslov ispred članka 89. i članak 89. mijenjaju se i glase:
+»b 3) Odsjek za ugovaranje
+Odsjek za ugovaranje obavlja stručne poslove koji se odnose na stručno praćenje provedbe postupaka javne nabave, izradu i otpravak odluka stručnih povjerenstava o odabiru, izradu ugovora, organizira potpisivanje ugovora i njihovu distribuciju o stjecanju roba, obavljanju usluga i ustupanju radova, rješava eventualne prigovore, postupa po zahtjevu nadležnih tijela za provedbu kontrole postupaka nabave, vodi informatičku obradu, praćenje i evidenciju sklopljenih ugovora, organizira pohranu i čuvanje dokumentacije Odsjeka, obavlja i stručne poslove koji se odnose na sklapanje sporazuma i ugovora o zajedničkom financiranju kojima se reguliraju međusobni odnosi s jedinicama lokalne i područne samouprave u realizaciji određenih programa i projekata, te obavlja i druge poslove i zadatke po nalogu nadređenih«.
