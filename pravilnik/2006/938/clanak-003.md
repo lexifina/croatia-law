@@ -1,0 +1,7 @@
+# Članak 3.
+(1) Čamci hrvatske državne pripadnosti mogu ploviti ako je njihova sposobnost za plovidbu utvrđena sukladno odredbama Zakona o plovidbi unutarnjim vodama i ovoga Pravilnika, te ako posjeduju valjanu dozvolu za plovidbu, odnosno svjedodžbu o sposobnosti za plovidbu i ako imaju najmanji broj članova posade potreban za sigurnu plovidbu utvrđen sukladno odredbama ovoga Pravilnika.
+(2) Strani čamac može ploviti unutarnjim vodama Republike Hrvatske, ako udovoljava uvjetima propisanim posebnim propisom i ako je sukladno propisima države čiju zastavu čamac vije sposoban za plovidbu, te ako njime upravlja ili zapovijeda osoba koja je sukladno propisima države čiju zastavu vije osposobljena za upravljanje odnosno zapovijedanje.
+(3) Ako sukladno nacionalnim propisima države čiju zastavu čamac vije osposobljenost nije propisana, osoba koja upravlja čamcem mora biti osposobljen sukladno odredbama ovoga Pravilnika.
+(4) Pravna ili fizička osoba koja iznajmljuje čamac bez posade, dužna je prije iznajmljivanja čamca provjeriti da li najmoprimac posjeduje odgovarajuće uvjerenje odnosno svjedodžbu o osposobljenosti.
+(5) Plovnim objektom duljine jednake ili manje od 3 metara mogu se istovremeno prevoziti najviše dvije osobe.
+(6) Na gliseru koji vuče skijaša, padobranca ili osobu na gumenom jastuku ispunjenom zrakom ili slično, pored najmanjeg broja članova posade propisanim ovim Pravilnikom, mora se nalaziti još jedna osoba koja nadzire skijaša, padobranca ili druge osobe i daje im upute.

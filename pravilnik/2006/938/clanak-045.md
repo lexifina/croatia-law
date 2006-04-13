@@ -1,0 +1,5 @@
+# Članak 45.
+(1) Čamci tijela nadležnih za sigurnost unutarnje plovidbe moraju imati znak za raspoznavanje na obje strane pramca ili na nadgradnji.
+(2) Znak za raspoznavanje iz stavka 1. ovog članka ima oblik romba, bijele je boje i ima plave rubove. U sredini romba nalazi se oznaka čamca ispisana crnom bojom. Vodoravna dijagonala romba iznosi 0,80 metara, a okomita dijagonala - 0,65 metara. Širina rubova romba iznosi 0,10 metara, a visina broja u rombu - 0,20 metara. Dimenzije znaka mogu se, ovisno o veličini čamca, razmjerno povećati ili smanjiti.
+(3) Čamci iz stavka 1. ovog članka tijekom dana viju i jedan plamenac bijele boje, oblika istokračnog trokuta, čije su strane duge 1 metar, a osnovica 0,50 metara. S obiju strana u sredini plamenca nalazi se znak za raspoznavanje propisan u stavku 2. ovog članka.
+(4) Grafičko rješenje znaka za raspoznavanje i plamenca određeni su Pravilnikom o isticanju i vijanju zastave trgovačke mornarice Republike Hrvatske i isticanju znakova na brodovima trgovačke mornarice Republike Hrvatske na unutarnjim plovnim putovima (»Narodne novine« br. 56/2000).

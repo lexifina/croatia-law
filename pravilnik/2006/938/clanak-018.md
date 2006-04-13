@@ -1,0 +1,4 @@
+# Članak 18.
+(1) U Očevidnik čamaca može biti upisan i čamac koji je u cjelini ili dijelom u vlasništvu stranog državljanina ili osobe bez državljanstva koja nema prebivalište u Republici Hrvatskoj, na njihov zahtjev, ako čamac nije upisan u inozemni Očevidnik čamaca i ako pretežno boravi u vodama Republike Hrvatske.
+(2) Vlasnik čamca iz stavka 1. ovog članka dužan je opunomoćiti zastupnika u Republici Hrvatskoj s prebivalištem ili sjedištem na području kapetanije ili ispostave kapetanije gdje je čamac upisan u očevidnik čamaca.
+(3) Vlasnik plutajućeg tijela koje je u cjelini ili dijelom u vlasništvu strane fizičke ili pravne osobe ili osobe bez državljanstva koja nema prebivalište u Republici Hrvatskoj, mora opunomoćiti zastupnika u Republici Hrvatskoj s prebivalištem ili sjedištem na području kapetanije ili ispostave kapetanije gdje je plutajuće tijelo upisano u očevidnik plutajućih tijela.
