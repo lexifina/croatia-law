@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 3., a u vezi s člankom 144. stavkom 3. Zakona o državnim službenicima (»Narodne novine«, broj 92/2005) i članka 39. stavka 3. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/2001), Vlada Republike Hrvatske je na sjednici održanoj 5. travnja 2006. godine donijela
