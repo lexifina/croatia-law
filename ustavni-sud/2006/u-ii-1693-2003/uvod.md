@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, predsjednik Suda, te suci Mario Kos, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Željko Potočnjak, Agata Račan, Emilija Rajić, Smiljko Sokol, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, odlučujući o zahtjevu za ocjenu drugog propisa s Ustavom i zakonom, na sjednici održanoj 8. ožujka 2006. godine, donio je
