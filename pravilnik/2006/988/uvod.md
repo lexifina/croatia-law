@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o Fondu za regionalni razvoj Republike Hrvatske (»Narodne novine«, broj 107/01), Upravni odbor Fonda za regionalni razvoj Republike Hrvatske, na sjednici održanoj dana 8. studenog 2005. godine donio je
