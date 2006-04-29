@@ -1,0 +1,6 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 7.
+Stupanjem na snagu ovoga Zakona Središnji državni ured za razvojnu strategiju nastavlja s radom kao Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije.
+Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije, danom stupanja na snagu ovoga Zakona preuzima poslove Uprave za koordinaciju programa pomoći i suradnje s Europskom unijom iz Ministarstva vanjskih poslova i europskih integracija.
+Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije, danom stupanja na snagu ovoga Zakona preuzima od Ministarstva vanjskih poslova i europskih integracija opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+Državni službenici i namještenici Ministarstva vanjskih poslova i europskih integracija koji su u trenutku stupanja na snagu ovoga Zakona zatečeni na obavljanju preuzetih poslova nastavljaju s radom na poslovima na kojima su zatečeni i zadržavaju plaće prema dosadašnjim propisima, do donošenja rješenja o rasporedu na radna mjesta prema pravilniku iz članka 8. stavka 2. ovoga Zakona.

@@ -1,0 +1,4 @@
+# Članak 6.
+Članak 17.d mijenja se i glasi:
+»Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije obavlja upravne i stručne poslove koji se odnose na pripremu strateških dokumenata koji uređuju nacionalne razvojne ciljeve i prioritete za korištenje sredstava iz fondova Europske unije te prati provedbu mjera i aktivnosti utvrđenih takvim strateškim dokumentima; koordinira poslove vezane uz upravljanje programima Europske unije i programima Zajednice otvorenih Republici Hrvatskoj, te u okviru svojeg djelokruga surađuje s institucijama i tijelima Europske unije i državama članicama Europske unije.
+Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«

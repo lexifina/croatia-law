@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 4. stavku 3. riječi: »Koordinira programe pomoći i suradnje s Europskom unijom i druge programe bilateralne pomoći u svrhu približavanja Europskoj uniji, prati provedbu programa i inicijativa Europske zajednice; osigurava podršku tijelima Vlade pri koordinaciji sveukupne pomoći koju Republika Hrvatska prima iz inozemnih izvora«, zamjenjuju se riječima: »koordinira programe bilateralne pomoći«.
