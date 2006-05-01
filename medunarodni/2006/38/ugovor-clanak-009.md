@@ -1,0 +1,5 @@
+# Članak 9.
+OSTALI UVJETI POSLOVANJA
+1. Trgovina robama između gospodarskih subjekata ugovornih stranaka obavljat će se po tržišnim cijenama, a ugovorne stranke se neće uplitati u cijene pojedinačnih transakcija. Posebice, državne agencije i državna poduzeća nabavljat će uvozne proizvode ili prodavati izvozne proizvode jedino na tržišnim osnovama uključujući cijenu, kakvoću i količinu.
+2. Svaka će ugovorna stranka, sukladno uobičajenoj poslovnoj praksi, odobriti poduzećima druge ugovorne stranke, nediskriminirajući tretman i odgovarajuću mogućnost natjecanja za sudjelovanje u takvim transakcijama i u javnim natječajima.
+3. Niti jedna ugovorna stranka neće zahtijevati da ugovorne stranke u pojedinačnim transakcijama sudjeluju u barter ili kompenzacijskim poslovima, niti ih neće poticati da posluju na takav način. U slučaju kompenzacijskog posla u javnim nabavkama, svaka će ugovorna stranka odobriti dobavljačima druge ugovorne stranke tretman najpovlaštenije nacije te ravnopravne mogućnosti pristupa.
