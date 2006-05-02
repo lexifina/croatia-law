@@ -1,0 +1,2 @@
+# Članak 2.
+Ovlašteni aktuar je osoba koja je dobila ovlaštenje Hrvatske agencije za nadzor financijskih usluga (u daljnjem tekstu Agencija) za obavljanje aktuarskih poslova ovlaštenog aktuara uz uvjete propisane Zakonom o osiguranju (»Narodne novine« broj 151/05), Zakonom o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine« broj 106/99; 63/00) i ovim Pravilnikom.
