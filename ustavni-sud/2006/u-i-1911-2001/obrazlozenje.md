@@ -1,0 +1,22 @@
+O b r a z l o ž e n j e
+1. Zastupnički dom Hrvatskog sabora je 5. studenoga 1999. godine donio Zakon o državnoj izmjeri i katastru nekretnina, koji je objavljen u "Narodnim novinama" broj 128 od 30. studenoga 1999. godine.
+Hrvatska obrtnička komora iz Zagreba, zastupana po tajniku Petru Sindičiću, podnijela je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom odredbe članka 57. stavka 2. Zakona o državnoj izmjeri i katastru nekretnina, koja propisuje:
+Ovlašteni inženjer geodezije koji samostalno obavlja poslove državne izmjere i katastra nekretnina može obavljati te poslove pod uvjetom da nije u radnom odnosu.
+2. Obrazlažući svoj prijedlog, predlagateljica ističe da je osporena odredba u suprotnosti s odredbama članaka 3., 14. stavka 2. i 49. stavka 2. Ustava Republike Hrvatske. Smatra da poslove državne izmjere i katastra nekretnina mogu obavljati i obrtnici. Ocjenjuje da propisivanjem uvjeta prema kojem te poslove može obavljati samo fizička osoba, koja nije u radnom odnosu, nije u suglasnosti s odredbama Zakona o obrtu, jer je time obrtnik stavljen u neravnopravan položaj u odnosu na imatelja udjela ili dionica u trgovačkom društvu koje obavlja taj isti posao.
+3. Zaključno, predlagateljica predlaže Sudu pokrenuti postupak za ocjenu suglasnosti sa zakonom osporene odredbe Zakona, te istu ukinuti.
+4. Prijedlog je dostavljen na očitovanje Državnoj geodetskoj upravi, koja je dostavila traženo očitovanje.
+Prijedlog nije osnovan.
+5. Poslove utvrđene Zakonom o državnoj izmjeri i katastru nekretnina, sukladno članku 55. stavku 1. tog Zakona, mogu, među ostalim, u svojstvu odgovorne osobe obavljati ovlašteni inženjeri geodezije.
+Pravo obavljanja tih poslova imaju inženjeri geodezije koji pravo obavljanja poslova stječu upisom u Imenik ovlaštenih inženjera geodezije pri Hrvatskoj komori arhitekata i inženjera u graditeljstvu, Razred geodezije.
+Dakle, osporenom odredbom propisuju se uvjeti za obavljanje poslova državne izmjere i katastra nekretnina koje obavlja ovlašteni inženjer geodezije koji samostalno obavlja te poslove.
+S ustavnopravnog stajališta nije osnovano uspoređivati pravni položaj "vlasnika" trgovačkog društva ovlaštenoga za obavljanje određenih poslova državne izmjere i katastra nekretnina i ovlaštenog inženjera geodezije koji je, kao odgovorna osoba u smislu Zakona o državnoj izmjeri i katastru nekretnina, ovlašten za obavljanje tih poslova.
+Prije svega, zakonom propisani uvjeti za obavljanje navedenih poslova odnose se na pravne i fizičke osobe koje obavljaju te poslove, a ne na "vlasnike" pravne osobe koja obavlja poslove državne izmjere i katastra nekretnina.
+Naime, pravna osoba ovlaštena za obavljanje navedenih poslova mora imati zaposlenog ovlaštenog inženjera geodezije, a ovlašteni inženjer geodezije da bi smio samostalno obavljati te poslove, ne smije biti zaposlen kod nekog drugog poslodavca.
+S obzirom da se radi o zakonom propisanim uvjetima za obavljanje određenih poslova državne izmjere i katastra nekretnina za dvije različite skupine osoba (pravne i fizičke osobe), to nije s ustavnopravnog stajališta osnovano uspoređivati te uvjete na način kako to čini podnositelj. Što se tiče uvjeta propisanih za fizičke osobe, oni su za sve jednaki, pa nijedna fizička osoba nije dovedena u nejednak položaj u odnosu na neku drugu fizičku osobu u pogledu uvjeta za obavljanje navedenih poslova.
+Ovlaštenje je Hrvatskog sabora da samostalno odlučuje o uređivanju gospodarskih, pravnih i političkih odnosa u Republici Hrvatskoj u skladu s Ustavom i zakonom (članak 2. stavak 4. alineja 1. Ustava). Pri uređivanju tih odnosa zakonodavac je dužan uvažavati zahtjeve koje pred njega postavlja Ustav, a osobito one koji proizlaze iz načela vladavine prava i one kojima se štite određena ustavna dobra i vrednote.
+Uvjet koji je propisan osporenom zakonskom odredbom nije suprotan odredbi članka 49. stavka 2. Ustava, kojom je propisano da država osigurava svim poduzetnicima jednak pravni položaj na tržištu.
+Stoga osporena zakonska odredba nije nesuglasna ni s odredbama članka 3. (vladavina prava kao temelj za tumačenje Ustava) i članka 14. stavka 2. (jednakost pred zakonom) Ustava.
+6. Slijedom iznijetoga, utvrdivši da osporena zakonska odredba nije u nesuglasju s odredbama članaka 3., 14. stavka 2. i 49. stavka 2. Ustava, na temelju članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 42/02.-pročišćeni tekst) riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-I-1911/2001
+Zagreb, 4. svibnja 2006.
