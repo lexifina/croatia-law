@@ -1,0 +1,3 @@
+# Članak 6.
+Na račun državnog proračuna Republike Hrvatske sredstva će se uplaćivati do otvaranja računa Fonda za financiranje razgradnje i zbrinjavanja radioaktivnog otpada i istrošenog nuklearnog goriva Nuklearne elektrane Krško (u daljnjem tekstu: Fond), sukladno Zakonu o Fondu, nakon čega će uplaćena sredstva biti prenijeta na račun Fonda. Sredstva se mogu koristiti kao početna sredstva za rad Fonda i u druge svrhe određene Zakonom o Fondu.
+Ministarstvo gospodarstva, rada i poduzetništva će, do donošenja Zakona o Fondu, dva puta godišnje izvješćivati Vladu Republike Hrvatske o stanju uplaćenih sredstava.
