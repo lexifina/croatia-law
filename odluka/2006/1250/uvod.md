@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 2. Zakona o računovodstvu (»Narodne novine«, broj 146/2005) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 5. svibnja 2006. godine donijela
