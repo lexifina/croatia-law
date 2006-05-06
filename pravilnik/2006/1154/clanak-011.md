@@ -1,0 +1,3 @@
+# Članak 11.
+Pravne osobe iz članka 3. podstavka 1. ovog Pravilnika dužne su u slučaju neposredne opasnosti koja može biti uzrokovana njihovom djelatnosti, putem vlastitog sustava za uzbunjivanje neodložno dati znak neposredne opasnosti i priopćenje za stanovništvo o vrsti opasnosti i mjerama zaštite koje je potrebno poduzeti.
+Pravne osobe iz stavka 1. ovog članka dužne su o okolnostima iz stavka 1. ovog članka neodložno obavijestiti nadležni Centar 112, koji će putem elektroničkih medija te putem SMS poruka, dati priopćenje za stanovništvo o vrsti opasnosti i mjerama zaštite koje je potrebno poduzeti.
