@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o obveznim evidencijama za obračun koncesijske naknade u casinima i automat-klubovima (»Narodne novine«, br. 43/03) u članku 16. iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+(3) Prije podnošenja zahtjeva za otvaranje casina ili automat-kluba, koncesionar je dužan dostaviti podatke o lokaciji na kojoj namjerava priređivati igre na sreću, radi dobivanja prethodnog mišljenja Ministarstva financija. Navedeni podaci moraju sadržavati mjesto i adresu poslovnog prostora s tlocrtom, te izjavu o lokaciji ustanova i objekata navedenih u stavku 4. ovoga Pravilnika u blizini poslovnog prostora.
+(4) Prethodno mišljenje Ministarstvo financija izdaje za određenu lokaciju poslovnog prostora uzimajući u obzir prostornu raspoređenost casina odnosno automat-klubova na određenom području te udaljenost poslovnog prostora od odgojno-obrazovnih i vjerskih objekata, koja ne može biti manja od 200 m.
+(5) Ukoliko koncesionar namjerava otvoriti casino ili automat-klub u objektu koji služi i za stanovanje dužan je uz zahtjev priložiti suglasnost predstavnika stanara.
