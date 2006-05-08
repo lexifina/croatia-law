@@ -1,0 +1,4 @@
+# Članak 35.
+Postupak mirenja
+1. Sile zaštitnice pružaju dobre usluge u svim slučajevima kad to ocijene korisnim u interesu kulturnih dobara, osobito ako postoji nesuglasje između stranaka sukoba o primjeni ili u tumačenju odredaba ovoga Protokola.
+2. U tu svrhu, svaka od sila zaštitnica može, na poziv jedne stranke, glavnog direktora ili samoinicijativno, strankama sukoba predložiti sastanak njihovih predstavnika i, osobito, vlasti odgovornih za zaštitu kulturnih dobara, ako je to primjereno, na području neke države koja nije stranka sukoba. Stranke sukoba dužne su provesti prijedloge o sastanku koji su im podneseni. Sile zaštitnice predložit će strankama sukoba na privolu osobu koja pripada nekoj državi koja nije stranka sukoba ili koju predloži glavni direktor, a koju će se pozvati da u svojstvu predsjedatelja sudjeluje na takvom sastanku.
