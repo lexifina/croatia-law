@@ -1,0 +1,7 @@
+# Članak 11.
+Izmjene i dopune određenih odredbi Sporazuma
+(1) Prijedloge za izmjenu i dopunu članaka 7., 8., 9. i ovoga članka može dati svaka zemlja Posebne unije ili glavni direktor. Te prijedloge glavni direktor mora priopćiti zemljama Posebne unije barem šest mjeseci prije njihova razmatranja na Skupštini.
+(2) Izmjene i dopune članaka navedenih u stavku (1) usvaja Skupština. Za usvajanje je potrebno tri četvrtine danih glasova, pri čemu je za svaku izmjenu i dopunu članka 7. i ovoga stavka potrebno četiri petine danih glasova.
+(3) a) Svaka izmjena i dopuna članaka navedenih u stavku (1) stupa na snagu istekom mjesec dana nakon što glavni direktor primi od tri četvrtine zemalja, koje su u trenutku usvajanja izmjene i dopune bile članice Posebne unije, pisane obavijesti o prihvaćanju izmjena i dopuna sastavljenih u skladu s njihovim odgovarajućim ustavnim postupcima.
+b) Svaka tako prihvaćena izmjena i dopuna navedenih članaka obvezuje sve zemlje koje su članice Posebne unije u trenutku njihova stupanja na snagu, pri čemu svaka izmjena i dopuna koja povećava financijske obveze zemalja Posebne unije obvezuje samo one zemlje koje su izvijestile o prihvaćanju takve izmjene i dopune.
+c) Svaka izmjena i dopuna prihvaćena u skladu s odredbama podstavka a) obvezuje sve zemlje koje postanu članice Posebne unije nakon datuma na koji su te izmjene i dopune stupile na snagu u skladu s odredbama iz podstavka a).
