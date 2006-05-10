@@ -1,1 +1,1 @@
-Odluka o načinu osiguravanja i raspolaganja sredstvima dopunskoga zdravstvenog osiguranja
+Odluka o načinu osiguravanja i raspolaganja sredstvima dopunskog zdravstvenog osiguranja
