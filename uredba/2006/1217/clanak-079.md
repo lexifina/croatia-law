@@ -1,0 +1,7 @@
+## 7.2. ODJEL ZA EUROPSKU UNIJU I TRGOVINSKE INTEGRACIJE
+# Članak 79.
+Odjel za Europsku uniju i trgovinske integracije koordinira aktivnosti u području poljoprivrede i ruralnog razvitka, vezane za Europsku uniju unutar Ministarstva; provodi vanjsku koordinaciju aktivnosti s ustanovama na državnoj i lokalnoj razini; potiče i koordinira suradnju s Upravom za poljoprivredu (DG Agri) pri Europskim zajednicama; potiče prilagodbu hrvatske poljoprivredne politike u skladu s načelima Zajedničke poljoprivredne politike; sudjeluje u dvostranim i višestranim trgovinskim pregovorima u području poljoprivrede, u okviru Svjetske trgovinske organizacije i trgovinskim sporazumima; obavlja aktivnosti vezane za članstvo u CEFTA-i u području poljoprivrede; sudjeluje u provedbi Sporazuma o stabilizaciji i pridruživanju u području poljoprivrede, te sudjeluje u radu Vijeća za stabilizaciju i pridruživanje; priprema i koordinira provedbu projekata iz sredstava CARDS; nadzire i prati ispunjavanje preuzetih obveza i provedbu programa uz potporu Europske unije; izrađuje izvješća o provedbi projekata iz sredstava CARDS-a.
+Za obavljanje poslova iz djelokruga Odjela ustrojavaju se sljedeći odsjeci:
+7.2.1. Odsjek za Europsku uniju,
+7.2.2. Odsjek za pretpristupne fondove EU.
+7.2.1. Odsjek za Europsku uniju

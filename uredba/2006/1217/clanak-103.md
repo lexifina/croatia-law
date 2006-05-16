@@ -1,0 +1,3 @@
+# Članak 103.
+Odsjek za ribe i školjkaše izrađuje prijedloge propisa kojima se reguliraju veterinarsko-sanitarni uvjeti kojima moraju udovoljavati objekti za uzgoj, obradu, preradu i uskladištenje riba, rakova i školjkaša, te proizvoda od istih; sudjeluje u provedbi projekata prilagodbe nacionalnih propisa sa propisima EU; izrađuje izvješća, naputke i daje stručna mišljenja vezana uz provedbu propisa iz djelokruga rada; surađuje s znanstveno-istraživačkim institucijama iz okvira rada nadležnosti. Obavlja i druge upravne i stručne poslove određene zakonom koji se odnose na higijenu proizvoda životinjskog podrijetla i veterinarsko javno zdravstvo.
+9.4.1.5. Odsjek za zbrinjavanje otpada životinjskog podrijetla

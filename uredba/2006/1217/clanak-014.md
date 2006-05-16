@@ -1,0 +1,6 @@
+# Članak 14.
+Odjel za opće pravne poslove i posebne imovinsko-pravne postupke obavlja stručne poslove vezane za provedbu zakona kojima se uređuju imovinsko-pravni odnosi vezani za uređenje služnosti na poljoprivrednom i šumskom zemljištu u vlasništvu Republike Hrvatske, i to: provjera nacrta prijedloga odluka za Povjerenstvo Vlade Republike Hrvatske za upravljanje državnom imovinom, kompletiranje predmeta i sklapanje ugovora o služnosti na zemljištu u vlasništvu Republike Hrvatske; obavljanje poslova izrade nacrta ugovora o služnostima za sadnju višegodišnjih nasada na opožarenom šumskom zemljištu u vlasništvu Republike Hrvatske i drugih ugovora građanskog prava iz djelokruga Ministarstva; ostvarivanje suradnje s drugim tijelima državne uprave, tijelima jedinica lokalne i područne (regionalne) samouprave i Državnim odvjetništvom u postupku izrade i provedbe navedenih ugovora; pruža stručnu pomoć u izradi, odnosno izrađuje nacrte općih akata iz djelokruga Ministarstva; sudjeluje u radu stručnih i drugih povjerenstava i radnih tijela Ministarstva te obavlja druge opće poslove iz djelokruga Službe.
+Za obavljanje poslova iz djelokruga Odjela ustrojavaju se sljedeći odsjeci:
+3.1.3.1. Odsjek za posebne imovinsko-pravne postupke,
+3.1.3.2. Odsjek za opće pravne poslove.
+3.1.3.1. Odsjek za posebne imovinsko-pravne postupke

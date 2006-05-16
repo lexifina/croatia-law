@@ -1,0 +1,3 @@
+# Članak 144.
+Odjel za informacijsko upravljanje utvrđuje razvoj namjenske informatičke opreme za provedbu svih poslova Ravnateljstva koji osigurava visoke sigurnosne zahtjeve, preglednost i dosljednost u skladu s europskim standardima i metodama; provodi analize sustava; izrađuje metodološke i tehnološke podloge za provedbu razvoja; održava informatički sustav; vodi izgradnju i osuvremenjivanje informacijske infrastrukture, brine za održavanje i sigurnost informacijskog sustava, organizira i brine za sustav arhiviranja programskih i podatkovnih baza, te njihovo održavanje.
+11.6.2. Odjel za tehničku pomoć

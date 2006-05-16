@@ -1,0 +1,9 @@
+## 10.1. SEKTOR ZA ODRŽIVI RAZVITAK SEOSKOG PROSTORA
+# Članak 118.
+Sektor za održivi razvitak seoskog prostora provodi mjere strukturne politike koje obuhvaćaju vođenje postupka provedbe projekata i administracije drugih oblika potpora koje se odnose na poticanje dopunskih aktivnosti i unaprjeđenje strukture na obiteljskim gospodarstvima; unaprjeđenje fizičke i socijalne infrastrukture; zaštitu okoliša od onečišćenja od poljoprivrede; očuvanje prirodne i kulturne baštine, školovanje i obuku ruralnog stanovništva; promicanje autohtonih proizvoda i preradu poljoprivrednih proizvoda; prati rad tijela lokalne i područne (regionalne) samouprave u provedbi mjera strukturne politike; potiče prilagodbu politike ruralnog razvitka u skladu s načelima Europske zajednice; provodi mjere i projekte za potporu proizvodnom i interesnom udruživanju poljoprivrednih proizvođača; prati stanje u području ekološke proizvodnje i prerade poljoprivrednih i prehrambenih proizvoda, vodi upisnike proizvođača u ekološkoj proizvodnji, upisnik uvoznika, upisnik ovlaštenih nadzornih stanica i upisnik laboratorija, rješava u upravnim stvarima, sudjeluje u izradi stručnih podloga za izradu zakona i podzakonskih propisa; predlaže rješavanje pojedinih pitanja u okviru svog djelokruga; sudjeluje u pripremi propisa i drugih općih akata; sudjeluje u pripremi i izradi prijedloga državnog proračuna, provodi upravni nadzor i druge upravne i stručne poslove iz područja nadležnosti.
+Za obavljanje poslova iz djelokruga Sektora ustrojavaju se sljedeći odjeli:
+10.1.1. Odjel za održivi razvitak seoskog prostora,
+10.1.2. Odjel za ekološku i održivu poljoprivredu,
+10.1.3. Odjel za zadrugarstvo i udruge,
+10.1.4. Odjel za koordinaciju programa i mjera.
+10.1.1. Odjel za održivi razvitak seoskog prostora

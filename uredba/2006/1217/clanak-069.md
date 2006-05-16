@@ -1,0 +1,3 @@
+# Članak 69.
+Odsjek za geodetske poslove izvršava zakone, propise i druge akte koji se odnose na poljoprivredno zemljište, izrađuje odgovarajuće stručne podloge (izvješća, elaborate analize), surađuje s drugim nadležnim tijelima radi određivanja prioriteta nove geodetske izmjere i usklađenja stanja površina između stvarnog stanja u naravi i katastarske i zemljišnoknjižne evidencije; rješava pravno-geodetske poslove; daje mišljenja na promjenu stanja u katastarskom operatu; pokreće i vodi poslove okrupnjavanja poljoprivrednog zemljišta, osim imovinskopravnih poslova; provodi upravni nadzor po posebnim propisima, te provodi nadzor u skladu s posebnim zakonom; daje stručna mišljenja i objašnjenja.
+6.2.2. Odsjek za primjenu GIS-a u raspolaganju poljoprivrednim zemljištem

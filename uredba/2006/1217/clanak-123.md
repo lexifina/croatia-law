@@ -1,0 +1,7 @@
+## 10.2. SEKTOR ZA PROGRAMIRANJE I UPRAVLJANJE PROGRAMIMA EU
+# Članak 123.
+Sektor za programiranje i upravljanje programima EU potiče prilagodbu politike ruralnog razvitka u skladu s načelima Europske zajednice; priprema, koordinira i provodi programe za korištenje pretpristupnih fondova Europske zajednice; nadzire i prati ispunjavanje preuzetih obveza i provedbu programa koji se financiraju iz pretpristupnih fondova; koordinira i izvješćuje o praćenju i evaluaciji SAPARD programa u Republici Hrvatskoj; uspostavlja sustav sakupljanja financijskih i statističkih informacija o napretku Programa, te podatke prosljeđuje Odboru za praćenje, predlaže prilagodbe Programa Europskoj komisiji, sastavlja godišnji izvještaj o provedbi i prosljeđuje ga Europskoj komisiji, konzultira i informira Europsku komisiju o aktivnostima s ciljem informiranja javnosti o ulozi koju Europska zajednica ima u Programu i postignutim rezultatima; sudjeluje u izradi stručnih podloga za izradu zakona i podzakonskih propisa; predlaže rješavanje pojedinih pitanja u okviru svog djelokruga; sudjeluje u pripremi propisa i drugih općih akata; sudjeluje u pripremi i izradi prijedloga državnog proračuna, provodi upravni nadzor i druge upravne i stručne poslove iz područja nadležnosti.
+Za obavljanje poslova iz djelokruga Sektora ustrojavaju se sljedeće ustrojstvene jedinice:
+10.2.1. Odjel za pretpristupne programe i promotivne aktivnosti,
+10.2.2. Upravna direkcija SAPARD programa, Tajništvo odbora za praćenje SAPARD programa.
+10.2.1. Odjel za pretpristupne programe i promotivne aktivnosti

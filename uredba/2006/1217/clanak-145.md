@@ -1,0 +1,2 @@
+# Članak 145.
+Odjel za tehničku pomoć utemeljen je s namjerom neometanog rada Ravnateljstva; priprema dokumentaciju o dostupu do podataka, priprema potrebne obrasce, omogućuje tehničku potporu krajnjim korisnicima i organizira obrazovanje korisnika informacijske infrastrukture, te obavlja druge poslove koje odredi ravnatelj.

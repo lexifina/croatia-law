@@ -1,0 +1,7 @@
+## 13.1. ODJEL ZA GOSPODARENJE ŠUMAMA
+# Članak 162.
+Odjel za gospodarenje šumama prati izvršavanje zakona, propisa i drugih općih akata u okviru svoje nadležnosti; radi na izradbi nacrta provedbenih propisa iz djelokruga potrajnog gospodarenja šumama (uređivanja šuma) i šumarske ekologije, te na prilagodbi propisa i općih akata iz svoje nadležnosti; prati provedbu međunarodnih konvencija, direktiva EU i ugovora, te stanje u djelokrugu planiranja šumarstva; sudjeluje u radu međunarodnih institucija i ministarstava u okviru svog djelokruga, te procesu ulaska u europske integracije; nadzire upravne i stručne poslove u svezi s provedbom propisa šumskogospodarske osnove područja, osnova gospodarenja, programa za gospodarenje i godišnjih planova; prati stanje u djelokrugu šumarske ekologije, stanje šuma i šumskog zemljišta, kao i njihove općekorisne funkcije, poduzima mjere za unaprjeđenje stanja, te inicira rješavanje pojedinih pitanja iz navedenih područja; izdaje uvjete i suglasnosti za izradu tehničke dokumentacije za zahvate u prostoru, te sudjeluje u odobravanju studija utjecaja na okoliš; daje stručna mišljenja i objašnjenja o načinu provedbe zakona.
+Za obavljanje poslova iz djelokruga Odjela ustrojavaju se sljedeći odsjeci:
+13.1.1. Odsjek za uređivanje i inventarizaciju šuma,
+13.1.2. Odsjek za održivi planski razvoj na šumi i šumskom zemljištu.
+13.1.1. Odsjek za uređivanje i inventarizaciju šuma

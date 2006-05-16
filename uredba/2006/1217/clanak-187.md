@@ -1,0 +1,2 @@
+# Članak 187.
+Odsjek za nadzor provedbe projekata i plaćanje organizira, provodi i prati provedbu projekata; obavlja nadzor nad provedbom projekata; izrađuje dokumente potrebne za provedbu projekata; izrađuje izvješća o provedbi projekata, organizira čuvanje, arhiviranje dokumentacije vezano uz provedbu projekata; obavlja kontrolu i ovjeravanje/suovjeravanje računa pristiglih po provedbi projekata u ime Ministarstva i plaćanje istih; izrađuje godišnje planove rada, stručne naputke i izvješća, te obavlja i druge poslove koji mu se stave u nadležnost.

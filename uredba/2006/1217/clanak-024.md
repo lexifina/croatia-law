@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek za stručno usavršavanje obavlja poslove vezane za provedbu i uspješnost procesa stručnog usavršavanja službenika Ministarstva, izrađuje nove obrazovne metode, utvrđuju strategije obrazovanja, praćenja i kontroling obrazovanja, potiču se znanstveni radovi i sudjelovanje u EU obrazovnim programima, obavlja poslove finalizacije obrazovnog plana i obrazovanje trenera, utvrđuje individualne potrebe za školovanjem, obavlja koordinaciju edukacije po područnim uredima Ministarstva, obavlja poslove sudjelovanja u organizaciji temeljnog obrazovanja i vođenje projekata za školovanje.
+3.2.2. Odjel za nabave, sigurnosne i pomoćne poslove

@@ -1,0 +1,3 @@
+# Članak 191.
+Odsjek za vodno dobro nadzire upravljanje vodnim dobrom i njegovo korištenje, priprema nacrte odluka o utvrđivanju granice vodnog dobra, provodi postupke utvrđivanja statusa vodnog dobra te njegova upisa u javne knjige, sudjeluje u pripremama propisa i drugih općih akata iz svoje nadležnosti, sudjeluje u postupku izrade dokumenata prostornog uređenja, obavlja stručne poslove na izradi rješenja o pripadnosti ili prestanku pripadanja zemljišnih čestica vodnom dobru, izrađuje godišnje planove rada, stručne naputke i izvješća, te obavlja i druge poslove koji mu se stave u nadležnost.
+16.1.1.2. Odsjek za zaštitu od štetnog djelovanja voda

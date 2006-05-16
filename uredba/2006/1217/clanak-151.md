@@ -1,0 +1,3 @@
+# Članak 151.
+Odsjek marikulture obavlja upravne i druge stručne poslove, koji se odnose na proizvodnju riblje mlađi, uzgoj riba i drugih morskih organizama, prikuplja i analizira podatke o uzgoju, predlaže normativna rješenja za poticanje uzgoja, prometa i prerade uzgojene ribe i drugih morskih organizama, vodi brigu o prilagodbi propisa i općih akata iz marikulture; vodi upisnike o izdanim povlasticama za uzgoj ribe i drugih morskih organizama; daje inicijativu za rješavanje pojedinih pitanja razvoja; obavlja i ostale poslove iz svoje nadležnosti.
+12.1.2 Odsjek za biostatistiku i ekonomiku u ribarstvu

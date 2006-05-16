@@ -1,0 +1,3 @@
+# Članak 140.
+Odjel za financijske poslove izrađuje prijedlog Plana proračuna Ravnateljstva, prati njegovo izvršavanje; izrađuje financijske planove i kontrolira namjensko trošenje novčanih sredstava u skladu s planiranim aktivnostima i projektima; obavlja poslove Državne riznice za nacionalna plaćanja; dostavlja zahtjeve Ministarstvu financija i kontrolira trošenje transferiranih sredstava kod njihovih korisnika; izvršava najvećim dijelom plaćanja za nacionalne mjere tržišno-cjenovne politike; evidentira investicije i troškove Ravnateljstva; pored nacionalnih plaćanja Odjel izvršava plaćanja sredstava na osnovi programa SAPARD; te obavlja i druge poslove sukladno posebnim propisima.
+11.5.2. Odjel za računovodstvo

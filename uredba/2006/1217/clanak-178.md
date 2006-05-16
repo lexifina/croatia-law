@@ -1,0 +1,6 @@
+# Članak 178.
+Odjel međunarodne suradnje osigurava provedbu međudržavnih ugovora i sporazuma i drugih međunarodnih akata iz područja vodnoga gospodarstva; priprema postupak za sklapanje i potvrđivanje međunarodnih ugovora iz navedenog područja te prati njihovu provedbu; priprema učlanjivanje Republike Hrvatske u međunarodne i međudržavne organizacije; organizira i sudjeluje u radu međudržavnih i međunarodnih komisija i tijela iz područja vodnoga gospodarstva; vodi evidenciju o međunarodnim ugovorima i zapisnicima sa sastanaka i drugim dokumentima u svezi s time; organizira sastanke s međunarodnim institucijama i organizacijama; priprema zaključke o sudjelovanju osoba u međunarodnim komisijama i drugim tijelima; osigurava koordinaciju aktivnosti na međunarodnoj suradnji s drugim tijelima uprave i relevantnim institucijama; predlaže relevantne izmjene nacionalne legislative o vodama radi provedbe međunarodnih obveza, izrađuje godišnje planove rada, stručne naputke i izvješća te obavlja i druge poslove koji mu se stave u nadležnost.
+Za obavljanje poslova iz djelokruga Odjela ustrojavaju se sljedeći odsjeci:
+15.1.2.1. Odsjek za bilateralu,
+15.1.2.2. Odsjek za multilateralu.
+15.1.2.1. Odsjek za bilateralu

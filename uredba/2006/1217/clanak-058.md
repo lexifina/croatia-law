@@ -1,0 +1,9 @@
+## 5.3. SEKTOR INSPEKCIJSKIH POSLOVA
+# Članak 58.
+Sektor inspekcijskih poslova obavlja inspekcijski nadzor nad provođenjem Zakona o poljoprivredi, Zakona o poljoprivrednom zemljištu, Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu, Zakona o gnojivima i poboljšivačima tla, Zakona o duhanu, Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda, Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja, Zakona o zaštiti bilja, Zakona o stočarstvu, Zakona o dobrobiti životinja i Zakona o vinu; obavlja izravni uvid u ispunjavanje uvjeta i obavljanje djelatnosti nadziranih pravnih i fizičkih osoba te poduzima mjere određene zakonima i propisima donesenim na temelju njih; rješava u upravnim stvarima iz područja nadležnosti poljoprivredne inspekcije, stočarske inspekcije i vinarske inspekcije; rješava o upravnom stvarima iz područja svoje nadležnosti u prvom i drugom stupnju; obavlja poslove u svezi s izvršenjem inspekcijskih rješenja, prati i nadzire provedbu mjera za unapređenje zakonitosti iz djelokruga Ministarstva; sudjeluje u pripremi i izradi prijedloga državnog proračuna iz svojeg djelokruga; daje stručna mišljenja, objašnjenja i upute u svezi s primjenom propisa u području inspekcijskog nadzora; priprema i izrađuje godišnje planove rada i godišnja izvješća o radu; daje prijedloge i sudjeluje u pripremanju zakona i podzakonskih propisa iz područja svoga djelokruga; sudjeluje u pripremi i provedbi međunarodnih projekata; surađuje s upravnim tijelima, stručnim ustanovama i znanstvenim institucijama, te obavlja i druge poslove propisane zakonom.
+Za obavljanje poslova iz djelokruga Sektora ustrojavaju se sljedeći odjeli:
+5.3.1. Odjel poljoprivredne inspekcije,
+5.3.2. Odjel stočarske inspekcije,
+5.3.3. Odjel vinarske inspekcije,
+5.3.4. Odjel za ovršni postupak i unapređenje rada.
+5.3.1. Odjel poljoprivredne inspekcije

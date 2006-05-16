@@ -1,0 +1,3 @@
+# Članak 12.
+Odsjek za upravne postupke koordinira upravne postupke i provodi upravni nadzor u upravnim stvarima iz djelokruga Ministarstva, ako ti poslovi zakonom, drugim propisom ili ovom Uredbom nisu stavljeni u djelokrug druge unutarnje ustrojstvene jedinice Ministarstva; pruža stručnu pomoć drugim ustrojstvenim jedinicama Ministarstva u vođenju upravnog postupka, u obavljanju inspekcijskog nadzora te u uredskom poslovanju; prati i osigurava primjenu zakona i drugih propisa; ostvaruje suradnju s tijelima jedinica lokalne i područne (regionalne) samouprave glede primjene zakona i drugih propisa iz djelokruga Ministarstva.
+3.1.2.2. Odsjek za sudske postupke

@@ -1,0 +1,2 @@
+# Članak 48.
+Odsjek za računovodstvene analize i kontrolu vrši računovodstvenu analizu i kontrolu namjenske i svrhovite upotrebe proračunskih sredstava po upravama, programima i aktivnostima, te po proračunskim korisnicima (Zavodima). Izrađuje analize i izvještaje o korištenju proračunskih sredstava, te iskazuje odstupanja ostvarenih i planiranih prihoda i primitaka, rashoda i izdataka za potrebe ministra, državnih tajnika i pomoćnika ministra, te obavlja i druge poslove.
