@@ -1,0 +1,2 @@
+# Članak 5.
+Na temelju Nacionalnog transplantacijskog programa koji donosi ministar, NTK donosi plan rada NTM, odgovoran je za njihovo praćenje i ostvarenje, predstavlja NTM na nacionalnoj i međunarodnoj razini, odgovoran je za unaprjeđenje međunarodne suradnje i razmjene organa/tkiva u svrhu presađivanja, organizira vođenje propisanih evidencija na području uzimanja, presađivanja, pohranjivanja i razmjene dijelova ljudskog tijela u Republici Hrvatskoj te za organiziranje i provođenje svih drugih aktivnosti potrebnih za djelotvorno ostvarivanje zadataka NTM.
