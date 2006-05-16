@@ -1,0 +1,10 @@
+# Članak 9.
+Laboratorij za ispitivanje mora biti odgovarajuće veličine, konstrukcije i na primjerenoj lokaciji, radi ispunjavanja uvjeta ispitivanja i radi smanjivanja mogućih ometanja koja mogu utjecati na valjanost ispitivanja.
+Raspoloživi prostori laboratorija trebaju osigurati odgovarajuću razdvojenost različitih aktivnosti, kako bi se osiguralo pravilno provođenje svakog ispitivanja.
+Laboratoriji trebaju imati dovoljno prostorija ili površina kako bi se osigurala izolacija sustava za ispitivanje i izolacija pojedinačnih projekata u kojima se koriste tvari ili organizmi za koje se sumnja da su biološki opasni.
+Na raspolaganju trebaju biti prikladne prostorije ili površine za dijagnozu, liječenje i kontrolu bolesti, čime se osigurava da sustavi za ispitivanje ne dotraju do nedopuštenog stupnja.
+Laboratorij za ispitivanje mora imati odgovarajući prostor s raspoloživim površinama za čuvanje zaliha i opreme. Skladišni prostori ili površine moraju biti odvojeni od prostora ili površina u kojima se nalaze sustavi za ispitivanje te moraju pružati odgovarajuću zaštitu od zaraze, kontaminacije ili propadanja.
+Posebni prostori ili površine potrebni su za primanje i čuvanje ispitivanih i usporednih tvari i za miješanje ispitivanih tvari s nosačima radi sprečavanja kontaminacije ili miješanja.
+Skladišni prostori ili površine za ispitivane tvari moraju biti odvojeni od prostora za operativne sustave. Moraju biti primjereni za očuvanje identiteta, koncentracije, čistoće i stabilnosti te osigurati sigurno pohranjivanje opasnih tvari.
+Prostor za pohranu podataka mora biti raspoloživ za sigurno čuvanje i pristup planovima ispitivanja, izvornim podacima, završnim izvješćima i uzorcima ispitivanih tvari i kontrolnim uzorcima.. Izvedba prostora i uvjeti u prostoru za pohranu podataka moraju zaštiti njegov sadržaj od prijevremene dotrajalosti.
+Postupanje s otpadom i njegovo uklanjanje mora biti obavljeno tako da ne ugrožava cjelovitost ispitivanja. To uključuje osiguravanje odgovarajućih prostorija za njegovo sakupljanje, čuvanje i uklanjanje te postupke prijevoza i obrade.
