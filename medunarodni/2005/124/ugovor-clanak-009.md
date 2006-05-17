@@ -1,0 +1,6 @@
+# Članak 9.
+1. U pogledu bilo kojega iznosa naknade za štetu zbog onečišćenja koji je Dopunski fond isplatio u skladu sa člankom 4. stavkom 1. ovoga Protokola, Dopunski fond subrogacijom stječe prava koja bi osoba kojoj je šteta na taj način naknađena imala na temelju Konvencije o odgovornosti iz 1992. godine u postupku protiv vlasnika ili njegova jamca.
+2. Dopunski fond subrogacijom stječe prava koja bi osoba kojoj je Dopunski fond naknadio štetu imala na temelju Konvencije o Fondu iz 1992. godine u postupku protiv Fonda iz 1992. godine.
+3. Nijedna odredba ovoga Protokola neće utjecati na pravo regresa ili subrogacije Dopunskog fonda prema osobama koje nisu spomenute u prethodnom stavku. U svakom slučaju, pravo Dopunskog fonda na subrogaciju prema takvoj osobi neće biti manje povoljno od prava osiguratelja osobe kojoj je isplaćena naknada štete.
+4. Bez utjecaja na bilo koje drugo pravo na subrogaciju ili regres prema Dopunskom fondu, koje može postojati, država ugovornica ili agencija koja je isplatila naknadu štete zbog onečišćenja u skladu s odredbama nacionalnog prava stječe subrogacijom prava koja bi osoba kojoj je šteta na taj način naknađena imala na temelju ovoga Protokola.
+DOPRINOSI

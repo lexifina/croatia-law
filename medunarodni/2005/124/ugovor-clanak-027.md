@@ -1,0 +1,5 @@
+# Članak 27.
+IZVANREDNA ZASJEDANJA SKUPŠTINE
+1. Svaka država ugovornica može u roku od devedeset dana nakon polaganja isprave o otkazu zbog kojega će se, po njezinu mišljenju, znatno povećati visina doprinosa ostalih država ugovornica, zahtijevati od direktora Dopunskog fonda da sazove izvanredno zasjedanje Skupštine. Direktor Dopunskog fonda sazvat će Skupštinu najkasnije u roku od šezdeset dana od dana primitka zahtjeva.
+2. Direktor Dopunskog fonda može na vlastitu inicijativu sazvati izvanredno zasjedanje Skupštine u roku šezdeset dana nakon polaganja bilo koje isprave o otkazu, ako smatra da će se zbog toga otkaza znatno povećati visina doprinosa ostalih država ugovornica.
+3. Ako na izvanrednom zasjedanju sazvanom u skladu sa stavkom 1. ili 2. Skupština odluči da će se zbog otkaza povećati visina doprinosa ostalih država ugovornica, svaka takva država može, najkasnije sto dvadeset dana prije datuma od kojega takav otkaz proizvodi učinak, otkazati ovaj Protokol s učinkom od istoga datuma.

@@ -1,0 +1,6 @@
+# Članak 15.
+1. Ako u državi ugovornici ne postoji osoba koja ispunjava uvjete iz članka 10., država ugovornica će, u svrhu ovoga Protokola, izvijestiti o tome direktora Dopunskog fonda.
+2. Dopunski fond neće isplatiti naknadu štete zbog onečišćenja uljem na teritoriju, teritorijalnom moru, ili gospodarskom pojasu ili prostoru državne ugovornice uspostavljenom u skladu sa člankom 3. (a)(ii) ovoga Protokola za određenu nezgodu ili zaštitne mjere, bilo gdje poduzete, radi sprječavanja ili umanjenja takve štete, dok se u pogledu odnosne države ugovornice ne ispune uvjeti podnošenja izvješća direktoru Dopunskog fonda, u skladu sa člankom 13. stavkom 1. i stavkom 1. ovoga članka, za sve godine koje su prethodile nastanku nezgode. Skupština će u Unutrašnjim pravilima odrediti pod kojim će se okolnostima smatrati da je država ugovornica propustila ispuniti svoje obveze.
+3. Ako se naknada štete za određenu nezgodu privremeno uskrati u skladu sa stavkom 2., ta će se naknada uskratiti trajno, ukoliko se obveza dostavljanja izvješća direktoru Dopunskog fonda na temelju članka 13. stavka 1. ne ispuni unutar godine dana od dana kada je direktor Dopunskog fonda obavijestio državu ugovornicu o njezinom propustu.
+4. Svaki doprinos koji se duguje Dopunskom fondu odbit će se od naknade štete dužniku ili njegovim opunomoćenicima.
+ORGANIZACIJA I UPRAVA

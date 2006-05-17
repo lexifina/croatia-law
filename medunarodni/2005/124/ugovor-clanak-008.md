@@ -1,0 +1,3 @@
+# Članak 8.
+1. Bez utjecaja na bilo kakvu odluku o raspodjeli o kojoj je riječ u članku 4. stavku 3. ovoga Protokola, svaka presuda protiv Dopunskog fonda, koju nadležni sud donese u skladu sa člankom 7. ovoga Protokola, kada postane ovršna u državi u kojoj je donesena i više se protiv nje u toj državi ne mogu podnositi redoviti pravni lijekovi, priznaje se i ovršna je u svakoj državi ugovornici uz iste uvjete propisane u članku X. Konvencije o odgovornosti iz 1992. godine.
+2. Država ugovornica može primijeniti druge propise za priznavanje i ovrhu presuda pod uvjetom da ovi osiguraju da presude budu priznate i ovršne barem u istom opsegu kao što su to na temelju stavka 1.

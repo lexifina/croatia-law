@@ -1,0 +1,3 @@
+# Članak 20.
+PODACI O ULJU KOJE PODLIJEŽE DOPRINOSU
+Prije nego što ovaj Protokol stupi na snagu za neku državu, ona će prilikom potpisivanja ovoga Protokola u skladu sa člankom 19. stavkom 2. (a) ili kod polaganja isprave spomenute u članku 19. stavku 4., a nakon toga svake godine na datum koji odredi Glavni tajnik, dostavljati Glavnome tajniku ime i adresu svake osobe koju je ta država zadužila da uplaćuje doprinos Dopunskom fondu prema članku 10., kao i podatke o odnosnim količinama ulja koje podliježe doprinosu, a koje je takva osoba primila na području te države tijekom protekle kalendarske godine.

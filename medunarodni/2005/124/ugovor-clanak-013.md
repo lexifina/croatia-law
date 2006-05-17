@@ -1,0 +1,3 @@
+# Članak 13.
+1. Države ugovornice podnosit će direktoru Dopunskog fonda izvješća o zaprimljenom ulju u skladu sa člankom 15. Konvencije o Fondu iz 1992. godine, pod uvjetom da se izvješća podnesena direktoru Fonda iz 1992. godine na temelju članka 15. stavka 2. Konvencije o Fondu iz 1992. godine smatraju podnesenima na temelju ovoga Protokola.
+2. Ukoliko država ugovornica ne ispunjava svoju obvezu podnošenja izvješća navedenih u stavku 1., a to rezultira financijskim gubitkom za Dopunski fond, ta je država ugovornica obvezna Dopunskom fondu naknaditi nastali gubitak. Skupština će, na prijedlog direktora Dopunskog fonda, odlučiti hoće li se naknada naplatiti od te države ugovornice.
