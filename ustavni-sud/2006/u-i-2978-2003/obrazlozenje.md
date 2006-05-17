@@ -1,0 +1,37 @@
+O b r a z l o ž e n j e
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 1. stavka 3. Zakona o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti ("Narodne novine", broj 114/03., u daljnjem tekstu: ZID Zakona) podnio je Hrvatski ferijalni i hostelski savez, Zagreb (u daljnjem tekstu: predlagatelj), kojeg zastupa predsjednik Lavoslav Torti.
+2. Predlagatelj smatra da je osporena odredba ZID-a Zakona nesuglasna s člankom 14. stavkom 2. i člankom 49. stavcima 1. i 2. Ustava Republike Hrvatske.
+Obrazlažući prijedlog, predlagatelj u bitnom ističe da je osporenom odredbom zakonodavac uveo monopolistički položaj srednjoškolskih ustanova u poslovima posredovanja za povremeni rad redovnih učenika, te suprotno Ustavu, ograničio krug ovlaštenika za obavljanje tih poslova, čime je spriječio učeničke i studentske udruge u obavljanju njihove djelatnosti. Mišljenja je da je zakonodavac trebao omogućiti obavljanje navedene djelatnosti i drugim pravnim osobama.
+Predlaže pokretanje postupka za ocjenu suglasnosti osporene odredbe s Ustavom i njezino ukidanje.
+3. Osporenom odredbom članka 1. stavka 3. ZID-a Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti dopunjen je članak 3. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti ("Narodne novine", broj 32/02. i 86/02.).
+Članak 1. ZID-a Zakona, čiji stavak 3. osporava predlagatelj, glasi:
+Članak 1.
+U Zakonu o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti ("Narodne novine", br. 32/02. i 86/02.) u članku 3. stavku 2. iza riječi: "obavljati i" dodaju se riječi: "pravne osobe kao trgovačka društva, a fizičke osobe kao samostalnu djelatnost", a riječi: "druge pravne i fizičke osobe" brišu se.
+Stavak 3. mijenja se i glasi:
+(3) Pravne i fizičke osobe koje obavljaju djelatnosti istraživanja tržišta i ispitivanja javnog mijenja, te djelatnosti savjetovanja u vezi s poslovanjem i upravljanjem, mogu obavljati i djelatnosti iz članka 1. ovoga Zakona.
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+(4) Iznimno od stavka 2. i 3. ovoga članka srednjoškolske ustanove mogu obavljati samo poslove posredovanja za povremeni rad redovnih učenika.
+Dosadašnji stavak 4. postaje stavak 5.
+Dosadašnji stavci 5. i 6. brišu se.
+4. Na temelju članka 42. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", 99/99., 29/02. i 49/02. - pročišćeni tekst), od Ministarstva gospodarstva, rada i poduzetništva zatraženo je i dobiveno očitovanje o prijedlogu.
+Prijedlog nije osnovan.
+5. Zakonom o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (u daljnjem tekstu: Zakon) uređuje se posredovanje pri zapošljavanju, profesionalno usmjeravanje, obrazovanje u cilju povećanja zapošljavanja radne snage, osiguranje za slučaj nezaposlenosti, aktivno djelovanje na tržištu rada u cilju poticanja prostorne i profesionalne pokretljivosti radne snage, te novog zapošljavanja i samozapošljavanja, izvori sredstava za djelatnosti Hrvatskog zavoda za zapošljavanje, te ustroj, upravljanje i obavljanje djelatnosti Zavoda (članak 1. Zakona).
+Prema članku 3. stavku 1. Zakona, djelatnosti iz članka 1. tog Zakona (između ostalog i posredovanje pri zapošljavanju) u zemlji i inozemstvu obavlja Hrvatski zavod za zapošljavanje.
+Prema članku 3. stavku 2. Zakona, djelatnosti iz članka 1. Zakona, osim osiguranja za slučaj nezaposlenosti, mogu u zemlji obavljati pravne osobe kao trgovačka društva, a fizičke osobe kao samostalnu djelatnost.
+6. Razmatranjem prijedloga, te osporene zakonske odredbe Ustavni sud je utvrdio da navodi predlagatelja ne daju osnove za sumnju u nesuglasje osporene zakonske odredbe s odredbama Ustava Republike Hrvatske na koje ukazuje predlagatelj.
+Ocjenjujući osnovanost prijedloga, prije svega valja imati u vidu članak 2. stavak 4. alineju 1. Ustava, koji daje ovlast zakonodavcu da samostalno, a u skladu s Ustavom, odlučuje o uređivanju gospodarskih, pravnih i političkih odnosa u Republici Hrvatskoj.
+7. Predlagatelj ističe da osporena odredba nije suglasna s člankom 14. stavkom 2. Ustava jer dovodi do nejednakosti između srednjoškolskih ustanova (kojima je omogućeno posredovanje za povremeni rad redovnih učenika) i svih ostalih pravnih osoba, osobito učeničkih i studentskih udruga, kojima je, prema predlagateljevom mišljenju, onemogućeno obavljanje tog posla.
+Osporena odredba članka 1. stavka 3. ZID-a Zakona omogućava srednjoškolskim ustanovama obavljanje poslova posredovanja za povremeni rad redovnih učenika. Dakle, osporenom je odredbom pravo na obavljanje posredovanja za povremeni rad redovnih učenika (dakle, ograničenog kruga korisnika) priznato određenoj vrsti ustanova.
+Prema članku 2. stavku 1. Zakona o udrugama ("Narodne novine", broj 88/01.), udruga je svaki oblik slobodnog i dobrovoljnog udruživanja više fizičkih, odnosno pravnih osoba, koje se, radi zaštite njihovih probitaka ili zauzimanja za zaštitu ljudskih prava i sloboda, te ekološka, humanitarna, informacijska, kulturna, nacionalna, pronatalitetna, prosvjetna, socijalna, strukovna, športska, tehnička, zdravstvena, znanstvena ili druga uvjerenja i ciljeve, a bez namjere stjecanja dobiti, podvrgavaju pravilima koja uređuju ustroj i djelovanje toga oblika udruživanja.
+Prema članku 5. stavku 1. Zakona o udrugama, udruga može obavljati djelatnosti kojima se ostvaruju njezini ciljevi utvrđeni statutom. Stavkom 2. tog članka propisano je da uz djelatnosti iz stavka 1., udruga može obavljati djelatnost kojom se stječe prihod, sukladno zakonu.
+Polazeći od navedenog, a imajući u vidu činjenicu da prema članku 3. Zakona, poslove posredovanja pri zapošljavanju u zemlji mogu obavljati (pored Hrvatskog zavoda za zapošljavanje) i druge pravne osobe kao trgovačka društva, te fizičke osobe kao samostalnu djelatnost, Ustavni sud ističe da su poslovi posredovanja pri zapošljavanju dostupni svim fizičkim i pravnim osobama koje ispunjavaju Zakonom propisane uvjete za obavljanje te djelatnosti. Dakle, pravo je svake fizičke i pravne osobe da pod jednakim, Zakonom propisanim uvjetima, obavlja navedenu djelatnost.
+Slijedom iznijetog, ocjena je Suda da osporenom odredbom (kojom je krug subjekata ovlaštenih za obavljanje posredovanja pri zapošljavanju redovnih učenika proširen i na srednjoškolske ustanove) nije ograničeno ničije pravo na obavljanje te djelatnosti.
+Stoga Ustavni sud ocjenjuje da osporena odredba članka 1. stavka 3. ZID-a Zakona nije nesuglasna s Ustavom zajamčenom jednakošću svih pred zakonom (članak 14. stavak 2. Ustava).
+8. Predlagatelj smatra da je osporena odredba nesuglasna s člankom 49. stavcima 1. i 2. Ustava.
+Prema članku 49. stavku 1. Ustava, poduzetnička i tržišna sloboda temelj su gospodarskog ustroja Republike Hrvatske.
+Prema članku 49. stavku 2. Ustava, država osigurava svim poduzetnicima jednak pravni položaj na tržištu. Zabranjena je zlouporaba monopolskog položaja određenog zakonom.
+Imajući u vidu razloge osporavanja odredbe članka 1. stavka 3. ZID-a Zakona, kao i činjenicu da niti srednjoškolske ustanove, a niti učeničke i studentske udruge nisu poduzetnici, Ustavni sud ocjenjuje da odredbe članka 49. stavaka 1. i 2. Ustava nisu mjerodavne u konkretnom slučaju.
+9. Slijedom iznijetog, na temelju članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-I-2978/2003
+Zagreb, 17. svibnja 2006.
