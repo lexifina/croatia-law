@@ -1,0 +1,2 @@
+# Članak 4.
+Pojedinci i ekipe za spašavanje koji sudjeluju u pružanju žurne pomoći mogu prelaziti državnu granicu i izvan područja graničnih prijelaza na temelju suglasnosti nadležnih tijela za kontrolu prelaska državne granice (Ministarstva unutarnjih poslova, Ministarstva financija - Carinske uprave te veterinarskih, sanitarnih i fitosanitarnih nadzornih tijela) obiju država ili temeljem bilateralnih međunarodnih sporazuma.

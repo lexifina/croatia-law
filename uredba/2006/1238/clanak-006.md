@@ -1,0 +1,2 @@
+# Članak 6.
+U slučaju primjenjivanja viznog režima za pojedince i/ili ekipe za spašavanje, koje šiljateljica upućuje u Republiku Hrvatsku, u diplomatskim i konzularnim predstavništvima Republike Hrvatske vize se izdaju u hitnom postupku, a iznimno se mogu izdavati i putem tijela nadležnog za kontrolu prelaska državne granice odnosno putem ovlaštenih djelatnika Ministarstva financija - Carinske uprave.
