@@ -1,0 +1,1 @@
+Na temelju čl. 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93., 69/97., 33/00., 127/00., 59/01., 107/01., 150/02. i 147/03.) i čl. 30. Statuta Općine Erdut (Službeni glasnik Općine Erdut, br. 14/01. i 26/05.), Općinsko vijeće Općine Erdut na 6. sjednici održanoj 5. travnja 2006. donosi
