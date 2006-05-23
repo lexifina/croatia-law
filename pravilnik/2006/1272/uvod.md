@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o sredstvima za zaštitu bilja (»Narodne novine«, br. 70/05), ministar poljoprivrede, šumarstva i vodnoga gospodarstva uz suglasnost ministra nadležnog za zdravstvo donosi
