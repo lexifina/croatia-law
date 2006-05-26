@@ -1,0 +1,19 @@
+ODLUKU
+I. Pokreće se postupak za ocjenu suglasnosti s Ustavom članka 9. Zakona o izmjenama i dopunama Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (»Narodne novine« broj 92/01.) u dijelu koji se odnosi na odredbe novog članka 8.h, te se novi članak 8.h ukida.
+II. Ova odluka objavit će se u »Narodnim novinama«.
+| Obrazloženje
+1. Na temelju ovlaštenja propisanog člankom 38. stavkom 2. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst) Ustavni sud Republike Hrvatske sam je pokrenuo postupak za ocjenu suglasnosti s Ustavom članka 9. Zakona o izmjenama i dopunama Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (»Narodne novine« broj 92/01.; u daljnjem tekstu: ZID Zakona o referendumu) u dijelu koji se odnosi na odredbe novog članka 8.h.
+Člankom 9. ZID Zakona o referendumu dopunjen je Zakon o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (»Narodne novine« broj 33/96.; u daljnjem tekstu: Zakon o referendumu) novom Glavom II. pod nazivom »Izjašnjavanje birača o potrebi da se zatraži raspisivanje referenduma« i novim člancima 8.a do 8.h.
+Članak 9. ZID Zakona o referendumu, u dijelu koji se odnosi na novi članak 8.h glasi:
+Članak 8.h
+Kada zaprimi zahtjev za raspisivanje referenduma Hrvatski sabor može u roku od 30 dana zatražiti da Ustavni sud Republike Hrvatske utvrdi je li referendumsko pitanje, odnosno način izjašnjavanja birača o potrebi da se zatraži raspisivanje referenduma u skladu s Ustavom i zakonom.
+Ako Ustavni sud Republike Hrvatske utvrdi da referendumsko pitanje, odnosno način izjašnjavanja birača o potrebi da se zatraži raspisivanje referenduma nije u skladu s Ustavom i zakonom referendum se neće raspisati.
+2. Nadležnost Ustavnog suda Republike Hrvatske određena je člankom 128. Ustava Republike Hrvatske.
+U postupcima vezanim uz izbore i državni referendum nadležnost Ustavnog suda određena je člankom 128. alinejom 9. Ustava. Prema toj ustavnoj odredbi, Ustavni sud Republike Hrvatske nadzire ustavnost i zakonitost izbora i državnog referenduma i rješava izborne sporove koji nisu u djelokrugu sudova.
+Ustavni sud Republike Hrvatske, prema odredbi članka 128. alineje 10. Ustava, obavlja i druge poslove određene Ustavom.
+Prema tome, nadležnost Ustavnog suda Republike Hrvatske propisana je Ustavom, a uređuje se Ustavnim zakonom o Ustavnom sudu Republike Hrvatske u skladu s člankom 131. Ustava.
+3. Ustavni sud utvrđuje da nadležnost Ustavnog suda u odnosu na državni referendum, propisana člankom 9. ZID Zakona o referendumu u dijelu koji se odnosi na novi članak 8.h, nije u suglasnosti s člankom 128. Ustava Republike Hrvatske.
+4. Ustavni sud nadalje ocjenjuje da članak 9. ZID Zakona o referendumu u dijelu koji se odnosi na odredbu osporenog članka 8.h, a kojom se propisuje da Ustavni sud utvrđuje suglasnost referendumskog pitanja sa zakonom nije u suglasnosti s odredbama članka 86. stavaka 1. i 2. Ustava.
+U članku 86. stavcima 1. i 2. Ustava taksativno su navedena pitanja o kojima se može raspisati referendum. Sadržaj referendumskih pitanja, dakle, u cijelosti je uređen Ustavom i pripada području tzv. ustavnih rezervata. Ocjenjivati se stoga može samo suglasnost referendumskog pitanja s Ustavom, ali ne i sa zakonom. Zakonodavac nije bio ovlašten propisati mogućnost ocjenjivanja suglasnosti referendumskog pitanja sa zakonom.
+5. Zbog navedenih razloga, Ustavni sud je ukinuo članak 9. ZID Zakona o referendumu u dijelu koji se odnosi na odredbe članka 8.h Zakona o referendumu.
+Odluka o objavi temelji se na članku 29. stavku 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske.
