@@ -1,0 +1,2 @@
+# Članak 13.
+Odsjek za koordinaciju horizontalnih programa obavlja stručne i administrativne poslove vezane uz uključivanje Republike Hrvatske u horizontalne programe Europske unije koji su namijenjeni za više država korisnica, koordinira uključivanje tijela državne uprave u programe Zajednice, te obavlja stručne i administrativne poslove za potrebe Koordinacijske skupine i Tehničke skupine Vlade Republike Hrvatske za praćenje sredstava koje Republika Hrvatska dobiva iz inozemnih izvora.

@@ -1,0 +1,3 @@
+## Kabinet državnog tajnika
+# Članak 4.
+U Kabinetu državnog tajnika obavljaju se stručni i administrativni poslovi za državnog tajnika i njegove zamjenike, poslovi praćenja rada, pripreme dokumenata i komuniciranja s Vladom Republike Hrvatske, Hrvatskim saborom i njihovim radnim tijelima, protokolarni poslovi, prevođenje, informatički poslovi, poslovi u svezi odnosa sa sredstvima javnog priopćavanja, organiziraju se i koordiniraju informativne aktivnosti (informativne kampanje, predstavljanje programa i projekata Europske unije), vodi posebna arhiva svih materijala putem kojih se javnost informira o projektima koji se financiraju iz stranih izvora pomoći, te obavljaju drugi poslovi za službene potrebe državnog tajnika i njegovih zamjenika.
