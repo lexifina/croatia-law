@@ -1,0 +1,7 @@
+# Članak 44.
+Pristup Internetu zabranjen je na računalnim jedinicama i mrežnim poslužiteljima (serverima) koji se koriste za prikupljanje, unos, obrade, uporabu do pohrane i uništavanje službenih podataka 1. nazivne sigurnosne razine.
+Pristup Internetu dozvoljen je na računalnim jedinicama koje u trenutku konekcije na Internet nemaju i istovremenu konekciju s Informatičkim sustavom Ministarstva niti bilo kojim njegovim dijelom.
+Zabranjeno je uporabom računalnog modema uspostavljati izravnu telekomunikacijsku vezu s javnim pružateljima usluge pristupa Internetu izbjegavajući uporabu središnjeg uređaja za nadzor i upravljanje internetskim prometom Ministarstva iz stavka 3. ovoga članka, izuzev za potrebe obrade kaznenih djela kompjutorskog odnosno kibernetičkog kriminaliteta.
+Pristup Internetu dozvoljen je djelatnicima Ministarstva uz pisanu suglasnost neposrednog rukovoditelja kao pomagalo u obavljanju službenih zadaća.
+Službeni informatičko-telekomunikacijski sustavi i jedinice (računala, komunikacijska, mjerna i slična oprema) mogu koristiti internetski prijenosni sustav kao i svaki drugi javni otvoreni sustav za međusobno povezivanje i umrežavanja samo uz obveznu primjenu sigurnosno-zaštitnih sustavnih rješenja koja će u cijelosti jamčiti sigurnost i tajnost podataka u skladu s njihovim značenjem, sigurnosnim oznakama i djelatnom sigurnosnom razinom te odredbama ovoga Pravilnika.
+3.2.3. Nazivno označavanje informatičkih medija

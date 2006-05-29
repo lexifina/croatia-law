@@ -1,0 +1,12 @@
+# Članak 2.
+Pojedini izrazi korišteni u ovom Pravilniku imaju sljedeće značenje:
+- BRZOJAVNA SLUŽBA je stalna sigurnosno-specijalistička služba ustrojena u svrhu obavljanja sustavnog kriptološkog osiguranja i zaštite svih službenih podataka i dokumenata koji se brzojavno razmjenjuju kroz odgovarajuće tehnološke sustave.
+- BRZOJAVNI PROMET je način prometovanja svih službenih podataka i dokumenata iste pravne snage na polaznoj i na odredišnoj strani brzojavnog sustava, uz zajamčenu razinu sigurnosti, tajnosti i vrijeme dostave i virtualnu neovisnost o stanju prijenosnih putova.
+- KLASIFIKACIJA PODATAKA je postupak kojim se svakom podatku dodjeljuje odgovarajuće značenje te oznaka osjetljivosti, ugroženosti ili tajnosti u skladu sa zakonom i drugim propisom, a u cilju jednoznačnog odabira sustavnog rješenja za osiguranje i zaštitu.
+- NAZIVNA SIGURNOSNA RAZINA je očima čitljiva sigurnosna oznaka pridodana podatku na temelju zakona i drugih propisa, a koja u postupku nastajanja, pristupa, obrade, primopredaje i prijenosa do pohrane ili uništenja podataka zahtijeva primjenu konkretnih sigurnosnih mehanizama odgovarajuće snage; određena je s obvezatnom naznakom vrste podatka (tajne) i naziva tajnosti.
+- DJELATNA SIGURNOSNA RAZINA je mjera i postupak koji se poduzima radi osiguranja podataka određene nazivne sigurnosne razine.
+- NAZIVNO VRIJEME DOSTAVE je očima čitljiva oznaka kojom se određuje prvenstvo ili prioritet službenog dokumenta u prometovanju putem brzojavne službe Ministarstva te raspoloživo vrijeme za operativno-izvršno postupanje ili krajnji rok dostave.
+- SIGURNOSNA OZNAKA je očima ili strojno čitljiva oznaka koju tvore oznaka vrste podatka, naziv tajnosti ili nazivno sigurnosna razina, naziv sredstva i nazivno vrijeme dostave.
+- INFOSEC je sigurnosno sustavno rješenje koje omogućava ravnopravno povezivanje i rad različitih tehnologija i sustava za potrebe sjedinjenog sigurnosnog poslovanja s podacima neovisno da li se radi o sustavu klasičnog i informatiziranog uredskog poslovanja (DATASEC), o informatičkom računalnom sustavu poslovanja (COMPUSEC) ili o sustavu telekomunikacijskog poslovanja (COMSEC) s podacima.
+- ZBIRKE PODATAKA MINISTARSTVA su sve zbirke koje se vode u Ministarstvu na temelju zakona i drugih propisa,
+- RADNO GRADIVO su podaci, proračuni, grafikoni, nacrti, skice, slike, pokretne slike (filmovi i videozapisi) i zvučni zapisi te drugo gradivo potrebno za izradu službenih dokumenata.

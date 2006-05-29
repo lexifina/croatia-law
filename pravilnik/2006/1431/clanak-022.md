@@ -1,0 +1,5 @@
+# Članak 22.
+Dokumenti 1., 2. i 3. NSR upisuju se u VT upisnik.
+Na omotnici (kuverti) u kojoj se dostavljaju službeni dokumenti, u lijevom gornjem uglu upisuje se urudžbeni broj dokumenta i stavlja se pečat. Kod dokumenata 1., 2. i 3. NSR u desnom gornjem uglu omotnice (kuverte) upisuje se vrsta tajne i nazivna sigurnosna razina, a ispod toga upisuju se odgovarajuća oznaka načina dostave te oznaka nazivnog vremena dostave. Na sredini omotnice (kuverte) upisuje se naziv i adresa primatelja, a za dokumente 1. NSR i ime te funkcija osobe kojoj se dokument dostavlja.
+Upisivanje i zatvaranje omotnice (kuverte) u kojoj se dostavljaju podaci 1. NSR obavlja rukovoditelj koji je u potpisu dokumenta ili osoba koju on za to ovlasti, a otvaranje omotnice (kuverte) označene 1. NSR obavlja rukovoditelj na kojega je dokument naslovljen ili osoba koju on za to ovlasti.
+Prilikom dostave između različitih ustrojstvenih jedinica smještenih u istom objektu, dokumenti i podaci koji sadržavaju podatke 1. NSR moraju biti zatvoreni u omotnici (kuverti) i označeni sukladno stavku 2. ovoga članka.

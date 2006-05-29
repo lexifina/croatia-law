@@ -1,0 +1,5 @@
+## 5. TEHNIČKO OPREMANJE PROSTORA ZA RAD S TAJNIM PODACIMA
+# Članak 55.
+Kod izgradnje i uređenja objekata Ministarstva, mora se voditi računa da prostori u kojima će se koristiti, obrađivati, pohranjivati ili uništavati službeni podaci označeni 1. nazivnom sigurnosnom razinom budu na 1. katu ili višim katovima građevinskog objekta s neprozirnim zavjesama na prozorima koje onemogućuju pogled u unutrašnjost prostora te sa sigurnosnim zvučno izoliranim ulaznim vratima s mehanizmom za samozatvaranje, bez ostakljenja iznad vrata.
+Iznimno, ako građevinski objekt nema više katova ili iskoristiv prostor na višim katovima, prostori u kojima će se koristiti, obrađivati, pohranjivati ili uništavati službeni podaci označeni 1. nazivnom sigurnosnom razinom mogu biti u prizemlju. Navedeni prostori moraju ispunjavati sve uvjete navedene u stavku 1. ovog članka te imati postavljene sigurnosne metalne rešetke na prozorima.
+Ako su prostori iz stavka 1. ovog članka u potkrovlju građevine, ne smiju imati krovne prozore.

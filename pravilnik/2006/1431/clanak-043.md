@@ -1,0 +1,2 @@
+# Članak 43.
+Neposredni rukovoditelj dužan je odmah pisanim putem obavijestiti ustrojstvenu jedinicu Ministarstva nadležnu za informatičke sustave u slučaju kada djelatniku prestaje radni odnos, kada se premješta na rad u drugu ustrojstvenu jedinicu Ministarstva ili je privremeno udaljen iz službe, kako bi se njegova ovlaštenja u Informatičkom sustavu Ministarstva mogla ukinuti ili promijeniti u skladu s potrebama novog radnog mjesta ili novog stanja.

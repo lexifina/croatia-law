@@ -1,0 +1,3 @@
+# Članak 42.
+Djelatnicima je zabranjena uporaba privatnih fotografskih uređaja te uređaja za audio ili video snimanje kao i privatne informatičke i telekomunikacijske opreme te prijenosnih medija u prostorima Ministarstva za vrijeme dok se u njima koriste podaci 1. nazivne sigurnosne razine.
+Uporaba službenih fotografskih uređaja te uređaja za audio ili video snimanje u prostorima Ministarstva za vrijeme dok se u njima koriste podaci 1. nazivne sigurnosne razine, dozvoljena je samo uz odobrenje neposrednog rukovoditelja ustrojstvene jedinice u čijim se prostorima žele koristiti navedeni uređaji.
