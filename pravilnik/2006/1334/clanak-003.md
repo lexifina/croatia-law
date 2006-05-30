@@ -1,0 +1,6 @@
+# Članak 3.
+Na međunarodnim graničnim prijelazima za željeznički promet, na peronu gdje se obavlja granična kontrola, postavlja se obavijesna ploča na kojoj je grb Republike Hrvatske, a ispod natpis Republika Hrvatska.
+Obavijesna ploča je veličine 600 × 400 mm, bijele boje s retroreflektirajućom folijom, obrubljena sa crveno-bijelo-plavim rubom širine 15 mm, u gornjem dijelu ploče je grb Republike Hrvatske visine 150 mm, u središnjem dijelu je natpis »REPUBLIKA« visine slova 50 mm, a u donjem djelu natpis »HRVATSKA« visine slova 80 mm.
+Ploča se postavlja na metalnim nosačima ili s prenosivim postoljem visine cca 600-700 mm od donjeg ruba ploče, do razine podloge ispred mjesta za obavljanje granične kontrole.
+Na međunarodnim graničnim prijelazima za zračni promet obavijesna ploča iz stavka 2. ovog člana postavlja se na ulazu ispred mjesta za obavljanje granične kontrole pred ulazom u aerodromsku zgradu, odnosno na prilazu zrakoplova ispred prostora gdje se obavlja granična kontrola.
+Na graničnim prijelazima za međunarodni pomorski promet i međunarodni promet na unutarnjim vodama obavijesna ploča iz stavka 2. ovog članka postavlja se na ulazu u omeđeni dio luke ili pristaništa, kao i na obali predviđenoj za pristajanje plovila u blizini ulaza u luku ili pristanište, okrenuta prema moru.

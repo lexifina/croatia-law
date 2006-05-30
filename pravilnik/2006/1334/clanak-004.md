@@ -1,0 +1,3 @@
+# Članak 4.
+Područje međunarodnog graničnog prijelaza označava se s obavijesnom pločom veličine 1000 × 700 mm, podloga ploče je bijele boje s retroreflektirajućom folijom, obrubljena s crveno-bijelo-plavim rubom širine 15 mm, grb Republike Hrvatske je visine 250 mm, a ispod natpis »PODRUČJE GRANIČNOG PRIJELAZA ZA MEĐUNARODNI PROMET« visine slova 40 mm, u središnjem dijelu ploče je naziv graničnog prijelaza veličine slova 70 mm, a ispod natpis »KRETANJE OGRANIČENO« visine slova 40 mm.
+Područje graničnog prijelaza označava se postavljanjem pokretnih ili nepokretnih oznaka i signalizacija (ograda, odnosno zapreka).

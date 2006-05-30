@@ -1,0 +1,5 @@
+# Članak 8.
+Područje graničnog prijelaza za pogranični promet označava se na ulazu u područje graničnog prijelaza s obavijesnom pločom veličine 600 × 400 mm, podloga ploče je bijele boje s retroreflektirajućom folijom, obrubljena s crveno-bijelo-plavim rubom širine 10 mm. U gornjem dijelu obavijesne ploče je grb Republike Hrvatske visine 150 mm, u središnjem dijelu je natpis »PODRUČJE GRANIČNOG PRIJELAZA ZA POGRANIČNI PROMET« visine slova 25 mm, a u donjem dijelu naziv graničnog prijelaza veličine slova 50 mm.
+Obavijesna ploča se na cestovnim graničnim prijelazima postavlja na metalnim nosačima, a donji joj je rub na 1200 -1400 mm od razine ceste, odnosno zemljišta.
+Na ostalim graničnim prijelazima obavijesna ploča se može postaviti i na drugi prikladan način.
+Kad granični prijelaz za pogranični promet nije otvoren 24 sata, ispod obavijesne ploče dodaje se dopunska ploča veličine 600 × 300 mm. Ploča je bijele boje s crnim rubom širine 10 mm na kojoj je natpis »OTVORENO» visine slova 70 mm, a ispod kojeg je upisano vrijeme rada graničnog prijelaza visine slova 70 mm (npr. 6-22 h).

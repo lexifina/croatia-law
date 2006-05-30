@@ -1,0 +1,6 @@
+## II. OZNAKE I SIGNALIZACIJA NA GRANIČNOM PRIJELAZU I NJEGOVOM PODRUČJU
+# Članak 2.
+Na međunarodnim cestovnim graničnim prijelazima, prijelazima za pogranični promet i privremenim graničnim prijelazima na ulazu u Republiku Hrvatsku postavlja se obavijesna ploča veličine 1000 × 700 mm, na kojoj je u gornjem središnjem dijelu grb Republike Hrvatske, a ispod njega natpis »REPUBLIKA HRVATSKA«.
+Obavijesna ploča je bijele boje s retroreflektirajućom folijom, obrubljena s crveno-bijelo-plavim rubom širine 15 mm, grb Republike Hrvatske je visine 250 mm, natpis »REPUBLIKA« je visine 100 mm, a natpis »HRVATSKA« 120 mm, tip slova koji se koristi je HRCPN ili HRCPU crne boje, a koristi se na svim obavijesnim i dopunskim pločama.
+Obavijesna ploča iz stavka 1. ovog članka postavlja se na graničnoj crti, odnosno u njenoj neposrednoj blizini, a ako granična crta prolazi mostom ili tunelom postavlja se na izlazu iz tunela, na početku mosta, na pomorskom i riječnom graničnom prijelazu te na ulazu u područje graničnog prijelaza.
+Ploča se na cestovnim graničnim prijelazima postavlja na metalnim nosačima a donji joj je rub na 1200-1400 mm od razine ceste, odnosno zemljišta i okrenuta je prema susjednoj državi, a na ostalim graničnim prijelazima ploča se može postaviti i na drugi prikladan način.
