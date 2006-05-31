@@ -1,0 +1,6 @@
+# Članak 2.
+POTICANJE I ZAŠTITA ULAGANJA
+(1) Svaka ugovorna stranka poticat će i stvarati povoljne uvjete za ulaganja ulagatelja druge ugovorne stranke na njezinom državnom području te će, u skladu sa svojim zakonima i propisima, dopuštati takva ulaganja.
+(2) Ulaganjima ulagatelja svake ugovorne stranke uvijek će se odobriti pošten i pravičan tretman i ista će uživati punu zaštitu i sigurnost na državnom području druge ugovorne stranke u skladu s međunarodnim pravom i odredbama ovog Ugovora.
+(3) Niti jedna ugovorna stranka neće neopravdanim ili diskriminacijskim mjerama ometati rad, upravljanje, održavanje, korištenje, uživanje ili raspolaganje ulaganjima ulagatelja druge ugovorne stranke na svojem državnom području.
+(4) Svaka će od ugovornih stranaka dozvoliti, sukladno svojim zakonima i propisima te postupcima u svezi s ulaskom, boravkom i radom fizičkih osoba, bez obzira na državljanstvo, ulazak, boravak i rad na svom državnom području rukovodećem osoblju uključujući vrhunske menadžere i tehničko osoblje koje je zaposleno za potrebe ulaganja na njezinom državnom području. Članovima uže obitelji (supružnici i maloljetna djeca) rukovodećeg osoblja bit će dodijeljen jednak tretman glede ulaska i privremenog boravka u ugovornoj stranci domaćinu.
