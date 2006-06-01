@@ -1,0 +1,5 @@
+## IV. OBVEZNE ZALIHE NAFTE I NAFTNIH DERIVATA
+# Članak 11.
+(1) Obvezne zalihe nafte i naftnih derivata formiraju se za osiguranje opskrbe naftom i naftnim derivatima u slučaju prijetnje energetskoj sigurnosti države, uslijed izvanrednih poremećaja opskrbe.
+(2) Obvezne zalihe nafte i naftnih derivata formiraju se u visini 90-dnevne prosječne potrošnje naftnih derivata u prethodnoj kalendarskoj godini do 31. srpnja tekuće godine.
+(3) Obvezne zalihe nafte i naftnih derivata ne uključuju strateške robne zalihe, uređene Zakonom o strateškim robnim zalihama, te operativne zalihe uređene člankom 22. Zakona o energiji i člankom 10. ovoga Zakona, količine goriva sadržane u spremnicima vozila i ostalim prometnim sredstvima, a koje služe isključivo za njihov pogon, količine goriva koje se nalaze u spremnicima brodova, cjevovodima, željezničkim cisternama, autocisternama, spremnicima benzinskih stanica, količine goriva uskladištene kod krajnjih potrošača, kao niti zalihe goriva u vlasništvu Hrvatske vojske, odnosno količine goriva koje su rezervirane za potrebe Hrvatske vojske.
