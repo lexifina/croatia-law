@@ -1,0 +1,1 @@
+Odluka o davanju ovlaštenja Ministarstvu poljoprivrede, šumarstva i vodnoga gospodarstva za donošenje odluka o izdvajanju šuma i/ili šumskog zemljišta u vlasništvu Republike Hrvatske iz šumsko-gospodarskog područja Republike Hrvatske
