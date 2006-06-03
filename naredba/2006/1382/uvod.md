@@ -1,0 +1,1 @@
+Temeljem članka 17. Zakona o sustavu državne uprave (»Narodne novine« broj 75/93. i 190/2003.), te članaka 28. stavak 3. i 237. stavak 1. Zakona o plovidbi unutarnjim vodama (»Narodne novine« broj 19/98. i 151/2003.) ministar mora, turizma, prometa i razvitka donosi:
