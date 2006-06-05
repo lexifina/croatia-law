@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 2. točke 10., članka 34. i članka 38. stavka 1. točke 3. Zakona o reviziji (»Narodne novine« broj 146/05.) i članka 13. stavka 1. točke 3. Statuta Hrvatske revizorske komore, Skupština Hrvatske revizorske komore na sjednici održanoj 20. svibnja 2006., donijela je
