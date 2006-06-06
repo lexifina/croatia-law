@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 5. Zakona o sredstvima za zaštitu bilja (»Narodne novine«, br. 70/05.), ministar poljoprivrede, šumarstva i vodnoga gospodarstva uz suglasnost ministra gospodarstva, rada i poduzetništva donosi
