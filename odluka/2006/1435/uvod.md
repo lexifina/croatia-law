@@ -1,0 +1,1 @@
+Temeljem članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 33/00., 73/00, 59/01, 107/01, 150/02 i 147/03.) i članka 14. Statuta Grada Siska (»Službeni glasnik Sisačko-moslavačke županije«, broj 5/06) Gradsko vijeće Grada Siska je na 8. sjednici održanoj 8. svibnja 2006, godine, donijelo
