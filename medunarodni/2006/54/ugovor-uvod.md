@@ -1,0 +1,2 @@
+POJEDINAČNI UGOVOR IZMEĐU REPUBLIKE HRVATSKE I KRALJEVINE ŠVEDSKE O »ŠVEDSKOM FONDU ZA POTPORU INSTITUCIJA U REPUBLICI HRVATSKOJ»
+Republika Hrvatska (u daljnjem tekstu: Hrvatska) koju zastupa Ministarstvo vanjskih poslova i europskih integracija (MVPEI) i Kraljevina Švedska (u daljnjem tekstu: Švedska), koju zastupa Švedska agencija za međunarodnu razvojnu suradnju (Sida), sporazumjele su se kako slijedi:
