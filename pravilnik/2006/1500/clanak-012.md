@@ -1,0 +1,2 @@
+# Članak 12.
+Radi obuke ili ispita lovačkih pasa tijekom godine ovlaštenik prava lova može u lovištu kojim gospodari odrediti primjerenu površinu, ne manju od 100 ha, na kojoj će se obučavati lovački psi, te će o tome izvijestiti susjedne ovlaštenike prava lova i nadležno upravno tijelo u županiji za zajednička lovišta, odnosno Ministarstvo poljoprivrede, šumarstva i vodnoga gospodarstva za državna lovišta.
