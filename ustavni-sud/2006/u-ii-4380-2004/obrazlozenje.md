@@ -1,0 +1,17 @@
+O b r a z l o ž e n j e
+1. Marijan Marković, Branka Štulić-Marinović, Dalibor Delić, Ivan Malbaša, Marija Kaurić i Refik Okić, svi iz Zagreba, podnijeli su prijedloge za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 104. i članka 111. Kolektivnog ugovora za državne službenike i namještenike ("Narodne novine", broj 92/04.), kojeg su sklopili Vlada Republike Hrvatske i Sindikati državnih službi, dana 2. srpnja 2004. godine, smatrajući da su u suprotnosti s odredbom članka 43. Ustava Republike Hrvatske i člankom 187. Zakona o radu ("Narodne novine", broj 38/95., 54/95., 65/95., 17/01., 82/01., 114/03., 142/03., 30/04. i 137/04 - pročišćeni tekst).
+Ustavni sud nije nadležan za odlučivanje.
+2. Prema članku 128. alineji 2. Ustava, Ustavni sud odlučuje o suglasnosti drugih propisa s Ustavom i zakonom.
+Pod drugim propisom u smislu navedene ustavne odredbe podrazumijeva se propis donesen unutar zakonskog ovlaštenja od strane nadležnog tijela državne vlasti radi provedbe zakona, odnosno propis kojeg tijela jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe s javnim ovlastima donose unutar svog djelokruga utvrđenog Ustavom i zakonom.
+Dakle, pod drugim propisom podrazumijeva se akt općeobveznog karaktera, donesen od strane nadležnih tijela državne vlasti ili tijela jedinica lokalne i područne (regionalne) samouprave te drugih pravnih osoba s javnim ovlastima, koji uređuje odnose na općenit način i koji se odnosi u pravilu na neodređeni krug adresata.
+3. O pravnoj prirodi kolektivnog ugovora u odnosu na odredbe članka 128. Ustava, Sud je već izrazio ovakvo stajalište u predmetima broj: U-II-464/1996 od 12. srpnja 2001. godine, broj: U-II-188/2002 od 6. veljače 2002. godine, U-II-361/2002 od 20. ožujka 2002. godine i dr.
+4. Ustavni sud, međutim, smatra potrebnim napomenuti da su usprkos značajnom ograničenju autonomije subjekata radnih odnosa od strane države, u radnim odnosima prisutni i privatnopravni elementi. U hrvatskom radnom zakonodavstvu privatnopravni pristup radnim odnosima je izražen, među ostalim, u odredbi članka 6. Zakona o radu koja predviđa supsidijarnu primjenu općih propisa obveznog prava u slučaju ako određeno pitanje nije uređeno propisima radnog prava. Ta odredba izričito predviđa da će se i na pitanja u vezi s kolektivnim ugovorima koja nisu uređena odredbama tog ili drugog zakona primijeniti, u skladu s naravi toga ugovora, opći propisi obveznog prava.
+Temeljem navedenog, Ustavni sud smatra da o protivnosti kolektivnog ugovora s Ustavom Republike Hrvatske, prisilnim propisima te moralom društva odlučuju sudovi, primjenom propisa obveznog prava o ništetnosti ugovora. Ustavni sud tek u povodu eventualne ustavne tužbe odlučuje jesu li sudskom presudom, donesenom u takvom sporu, povrijeđena ljudska prava i temeljne slobode zajamčene Ustavom.
+5. Prema odredbi članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 99/99., 29/02. i 49/02. - pročišćeni tekst), Sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ako nije nadležan za odlučivanje, ako su nepravodobni i u drugim slučajevima kada ne postoje pretpostavke za odlučivanje o biti stvari.
+Slijedom utvrđenja da akt u kojem su sadržane osporene odredbe nije drugi propis u smislu odredbe članka 128. alineje 2. Ustava, a na temelju odredbe članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj:
+U-II-4380/2004
+U-II-4594/2004
+U-II-1528/2005
+Zagreb, 14. lipnja 2006.
