@@ -1,0 +1,45 @@
+O b r a z l o ž e n j e
+1. Prijedloge za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 102. stavka 6. i članka 119. stavka 1. Zakona o znanstvenoj djelatnosti i visokom obrazovanju ("Narodne novine", broj 123/03., 198/03., 105/04. i 174/04., u daljnjem tekstu: ZZDVO) podnijeli su prof. dr. sc. Sanja Steiner iz Zagreba i Tomislav Lamut iz Zagreba (u daljnjem tekstu: predlagatelji).
+Predlagateljica osporava članak 102. stavak 6., a predlagatelj članak 119. stavak 1. ZZDVO-a.
+2. Osporene odredbe glase:
+Članak 102.
+(6) Zaposleniku na znanstveno-nastavnom, umjetničko-nastavnom i nastavnom radnom mjestu na visokom učilištu istekom akademske godine u kojoj je navršio 65 godina života prestaje ugovor o radu radi odlaska u mirovinu.
+Članak 119.
+(1) S osobama koje su na dan stupanja na snagu ovoga Zakona zatečene na radnim mjestima znanstvenog novaka, mlađeg asistenta i asistenta, sklopit će se novi ugovor o radu za radno mjesto asistenta, sukladno prvom sklopljenom ugovoru o radu na određeno ili neodređeno vrijeme, najkasnije do 31. prosinca 2004.
+3. Predlagateljica smatra da je članak 102. stavak 6. ZZDVO-a, u dijelu koji glasi "radi odlaska u mirovinu", nesuglasan s člankom 54. Ustava Republike Hrvatske.
+Predlagatelj smatra da je članak 119. stavak 1. ZZDVO-a nesuglasan s člankom 44. Ustava.
+Obrazlažući prijedlog predlagateljica navodi da osporena odredba članka 102. stavka 6. ZZDVO-a zaposlenike na znanstveno-nastavnim, umjetničko-nastavnim i nastavnim radnim mjestima s navršenih 65 godina (odnosno 70 godina u stavku 7. osporenog članka), prisiljava na umirovljenje te im onemogućava pod Ustavom zajamčenim, jednakim uvjetima ostvarivanje prava na rad izvan sustava visokih učilišta. Predlagateljica ističe da prema Zakonu o radu ("Narodne novine", broj 38/95., 54/95. - ispravak, 64/95. - ispravak, 17/01., 82/01., 114/03., 142/03. - ispravak, 30/04. i 137/04. - pročišćeni tekst, u daljnjem tekstu: ZR) radnik može ostati u radnom odnosu nakon što navrši 65 godina života ako se dogovori s poslodavcem. Stoga predlagateljica smatra da bi pod istim uvjetima i zaposlenicima u znanstveno-nastavnim zvanjima s navršenih 65 odnosno 70 godina trebalo omogućiti ostvarivanje prava na rad izvan sustava visokih učilišta.
+Predlagatelj u bitnom ističe da je članak 119. stavak 1. ZZDVO-a, u dijelu koji se odnosi na osobe koje su na dan stupanja na snagu ZZDVO-a zatečene na radnim mjestima znanstvenih novaka, u nesuglasnosti s člankom 44. Ustava. Kao razlog osporavanja navedene odredbe predlagatelj ističe činjenicu da su osobe koje su u vrijeme stupanja na snagu ZZDVO-a zatečene na radnim mjestima znanstvenih novaka odabrane na temelju članka 56. stavka 1. Zakona o znanstvenoistraživačkoj djelatnosti ("Narodne novine", broj 59/96. - pročišćeni tekst, u daljnjem tekstu: ZZD) koji je, prema predlagateljevom mišljenju, u suprotnosti s Ustavom. Polazeći sa stajališta da je članak 56. stavak 1. ZZD-a nesuglasan s Ustavom, predlagatelj smatra da je i osporena odredba članka 119. stavka 1. ZZDVO-a nesuglasna s Ustavom budući da prema predlagateljevom mišljenju potvrđuje protuustavno stanje.
+4. Na temelju članka 42. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine", broj 99/99., 29/02. i 49/02. - pročišćeni tekst), od Ministarstva znanosti, obrazovanja i športa zatraženo je i dobiveno očitovanje o prijedlozima.
+Prijedlozi nisu osnovani.
+5. Neposredno mjerodavni za ocjenu suglasnosti osporenih odredaba s Ustavom su članci 16. i 54. Ustava Republike Hrvatske koji glase:
+Članak 16.
+Slobode i prava mogu se ograničiti samo zakonom da bi se zaštitila sloboda i prava drugih ljudi te pravni poredak, javni moral i zdravlje.
+Svako ograničenje slobode ili prava mora biti razmjerno naravi potrebe za ograničenjem u svakom pojedinom slučaju.
+Članak 54.
+Svatko ima pravo na rad i slobodu rada.
+Svatko slobodno bira poziv i zaposlenje i svakomu je pod jednakim uvjetima dostupno svako radno mjesto i dužnost.
+6. Osporenim člankom 102. stavkom 6. ZZDVO-a propisano je da zaposleniku na znanstveno-nastavnom, umjetničko-nastavnom i nastavnom radnom mjestu na visokom učilištu, istekom akademske godine u kojoj je navršio 65 godina života, prestaje ugovor o radu radi odlaska u mirovinu. Predlagateljica osporava samo dio navedenog članka koji glasi "radi odlaska u mirovinu" smatrajući da osporeni dio odredbe prisiljava osobe na koje se odnosi na umirovljenje, te im suprotno Ustavu i ZR-u, onemogućava ostvarivanje prava na rad izvan sustava visokih učilišta.
+Osporenim člankom 102. stavkom 6. ZZDVO-a zaposlenicima na znanstveno-nastavnim, umjetničko-nastavnim i nastavnim radnim mjestima na visokom učilištu ograničeno je pravo na rad u okviru visokog učilišta na način da tim osobama prestaje ugovor o radu istekom akademske godine u kojoj navrše 65 godina života.
+Prema stavku 7. članka 102. ZZDVO-u, kad postoji potreba za nastavkom rada, visoko učilište može redovitom profesoru u trajnom zvanju i profesoru visoke škole u trajnom zvanju produljiti radni odnos do isteka akademske godine u kojoj navršava 70 godina.
+Ustavom zajamčeno pravo na rad (članak 54. stavak 1. Ustava) ne znači apsolutno pravo koje ni na koji način ne može biti ograničeno.
+Polazeći od činjenice da je osobama na koje se osporena odredba odnosi ograničeno samo pravo na rad u sustavu visokog učilišta (a ne i izvan tog sustava), ocjena je Ustavnog suda da je ograničenje propisano osporenom odredbom razmjerno naravi potrebe zbog koje je propisano.
+Pored toga valja istaknuti i činjenicu da je stavkom 7. članka 102. ZZDVO-a predviđena iznimka od pravila iz stavka 6. tog članka (kojim je propisano ograničenje). Odredba stavka 7. (prema kojoj visoko učilište može redovitom profesoru u trajnom zvanju i profesoru visoke škole u trajnom zvanju produljiti radni odnos do isteka akademske godine u kojoj navršava 70 godina) upućuje na zaključak da zakonodavac uvažava činjenicu o postojanju potrebe za odstupanjem od pravila propisanog u osporenom stavku 6. članka 102. ZZDVO-a.
+Polazeći od utvrđenja ovog Suda da osporeni članak 102. stavak 6. ZZDVO-a (osobama na koje se odnosi) ne onemogućava ostvarivanje prava na rad izvan sustava visokog učilišta, niti osporena odredba propisuje obvezu njihovog umirovljenja, predlagateljičinu tvrdnju o nesuglasnosti osporene odredbe s Ustavom s navedenog stajališta Ustavni sud ocjenjuje neosnovanom.
+7. Sud nije razmatrao navode predlagateljice o suprotnosti osporenog ZZDVO-a sa ZR-om jer međusobna usklađenost zakona nije predmet ustavnosudske ocjene u smislu članka 128. Ustava.
+8. Kao razlog osporavanja članka 119. stavka 1. ZZDVO-a predlagatelj ističe činjenicu da su osobe, koje su u vrijeme stupanja na snagu ZZDVO-a zatečene na radnim mjestima znanstvenih novaka, odabrane na temelju članka 56. stavka 1. ZZD-a koji je, prema predlagateljevom mišljenju, u suprotnosti s Ustavom. Smatrajući da je članak 56. stavak 1. ZZD-a nesuglasan s Ustavom, predlagatelj smatra da je i osporena odredba članka 119. stavka 1. ZZDVO-a nesuglasna s Ustavom.
+Na sjednici održanoj 17. srpnja 2003. godine Hrvatski sabor je donio ZZDVO, koji je objavljen u "Narodnim novinama ", broj 123 od 31. srpnja 2003. godine.
+Člankom 123. stavkom 1. ZZDVO-a propisano je, između ostaloga, da danom stupanja na snagu tog Zakona (15. kolovoza 2003. godine) prestaje važiti ZZD, osim onih odredaba za koje je ZZDVO-om navedeno da će se primjenjivati do određenog vremena i nakon stupanja na snagu tog Zakona.
+Za vrijeme važenja ZZD-a, Ustavni sud je zaprimio nekoliko prijedloga za ocjenu suglasnosti s Ustavom ZZD-a (među ostalim i članka 56. stavka 1. ZZD-a).
+Stupanjem na snagu ZZDVO-a prestale su postojati pretpostavke za vođenje ustavnosudskog postupka za ocjenu suglasnosti s Ustavom ZZD-a. Stoga je Ustavni sud na temelju članka 61. Ustavnog zakona o Ustavnom sudu Republike Hrvatske donio rješenje o obustavi tog postupka (U-I-263/1997 i dr. od 8. studenoga 2005. godine), tako da suglasnost ZZD-a s Ustavom nije bila predmetom ocjene Ustavnog suda.
+Članak 56. stavak 1. ZZD-a glasio je:
+Članak 56. stavak 1.
+(1) Odabir znanstvenih novaka provodi se na prijedlog odgovornog nositelja projekta iz članka 66. ovog Zakona uz prethodno odobrenje ministra.
+S obzirom da je ZZD prestao važiti 2003. godine, Ustavni sud utvrđuje da je protekao rok propisan člankom 56. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske u kojemu je Sud bio ovlašten ocjenjivati suglasnost ZZD-a s Ustavom, te stoga u konkretnom slučaju vrijedi presumpcija ustavnosti navedenog Zakona.
+Polazeći od navedenog, a imajući u vidu razloge osporavanja članka 119. stavka 1. ZZDVO-a (koji se temelje na predlagateljevoj tvrdnji da članak 119. stavak 1. ZZDVO-a potvrđuje pravnu situaciju nastalu na temelju "neustavnog članka 56. stavka 1. ZZD-a"), Ustavni sud ocjenjuje da konkretni razlozi osporavanja članka 119. stavka 1. ZZDVO-a ne dovode u sumnju njegovu suglasnost s Ustavom.
+9. Stoga je na temelju članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske riješeno kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj:
+U-I-3912/2003
+U-I-614/2004
+Zagreb, 14. lipnja 2006.
