@@ -1,0 +1,3 @@
+# Članak 7.
+Odsjek za radnopravne poslove obavlja upravne poslove i izdaje rješenja u vezi sa statusnim pravima vezano za prijam, raspored, premještaj i prestanak službe državnih službenika; godišnjim odmorima, plaćenim i neplaćenim dopustima, ocjenama; povredama službene dužnosti; izrađuje odgovore na žalbe i tužbe u predmetima vezanim za prava službenika; obavlja stručne poslove vezane za radnopravni status namještenika; obavlja administrativne poslove vezano za polaganje državnih stručnih ispita; vodi propisane evidencije i osobne očevidnike i izdaje potvrde iz tih evidencija; obavlja stručne poslove vezano za ostvarivanje prava njegovatelja na mirovinsko i zdravstveno osiguranje.
+2.1.2. Odsjek za upravljanje kadrovima

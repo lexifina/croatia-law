@@ -1,0 +1,4 @@
+# Članak 39.
+Odjel za normativnu djelatnost i praćenje propisa obavlja stručne poslove u vezi s izradom nacrta prijedloga zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, te svih propisa koje Vlada Republike Hrvatske ili ministar donosi za izvršenje zakona: pravilnika, naredbi i naputaka. Prati sve propise iz djelokruga drugih ministarstava, a u kojima su regulirana prava hrvatskih branitelja i članova njihovih obitelji i mirnodopskih vojnih invalida (u daljnjem tekstu: MVI), te surađuje s ministarstvima u izradi prijedloga tih zakona. Prati stanje u primjeni i provedbi Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji i drugih propisa iz djelokruga Uprave i predlaže izmjene i dopune.
+Odjel obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.
+4.4. Odjel za pravnu pomoć

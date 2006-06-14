@@ -1,0 +1,5 @@
+# Članak 29.
+Odjel za psihosocijalnu pomoć provodi Nacionalni program psihosocijalne pomoći stradalnicima iz Domovinskoga rata i njihove rehabilitacije u svim dijelovima i njihovo uključivanje u redoviti život, osmišljava, prati i nadzire provedbu programa psihosocijalne pomoći i rehabilitacije, te obavlja i druge poslove iz ovog područja.
+Odjel za psihosocijalnu pomoć putem županijskih i gradskih središta za psihosocijalnu pomoć ostvaruje psihosocijalne programe i usklađuje rad stručnih psihosocijalnih timova u županijama i gradovima, brine o njihovoj opremljenosti, edukaciji, stručno-istraživačkom radu i stalnoj evaluaciji programa.
+Odjel skrbi o tome da se program odvija po najvišim svjetskim profesionalnim standardima u cilju unaprjeđenja rada psihosocijalnih timova na terenu i najveće moguće skrbi o obiteljima poginuloga, umrloga, zatočenog ili nestaloga hrvatskog branitelja, HRVI iz Domovinskoga rata, razvojačenih hrvatskih branitelja i članova njihovih obitelji, te mirnodopskih vojnih invalida.
+Odjel obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.

@@ -1,0 +1,6 @@
+# Članak 85.
+Odsjek za područnu riznicu i plan obavlja poslove riznice, radi na izvršavanju rashoda i izdataka državnog proračuna za razdjel sukladno izvorima financiranja, obavlja poslove unosa rezervacije sredstava i ispostavlja zahtjeve za plaćanje sa jedinstvenog računa riznice, izvješćuje o ostvarenju prihoda u skladu s odgovarajućim zakonima i propisima i izvršavanju svih rashoda u skladu s namjenama i izvorima, prati obveze po dodijeljenim financijskim sredstvima u skladu s financijskim planovima, izrađuje dinamički plan izvršavanja po svim izvorima, izvršava financijske planove, prati i predlaže unaprjeđivanje poslovnih procesa izvršavanja i poslovanja područne riznice, izrađuje izvješća o izvršavanju financijskih planova i obavlja usklađivanje s Odjelom za računovodstveno-knjigovodstvene poslove, priprema podlogu za izradu mjesečnih i godišnjih financijskih planova korisnika Odsjeku za proračun i analizu, izrađuje upute o izvršavanju financijskih planova proračunskih korisnika, brine o racionalnom i zakonitom korištenju sredstava.
+Odsjek za područnu riznicu i plan u svom sastavu ima dva odjeljka:
+9.1.2.1. Odjeljak za područnu riznicu;
+9.1.2.2. Odjeljak za plan.
+9.1.2.1. Odjeljak za područnu riznicu

@@ -1,0 +1,9 @@
+## 2. TAJNIŠTVO MINISTARSTVA
+# Članak 5.
+Tajništvo Ministarstva poduzima mjere za osiguranje učinkovitosti u radu te tehnički usklađuje rad unutarnjih ustrojstvenih jedinica Ministarstva i upravnih organizacija u sastavu Ministarstva; izrađuje prijedlog plana rada Ministarstva na temelju nacrta planova rada uprava i drugih ustrojstvenih jedinica; usklađuje poslove na ostvarivanju plana rada; daje stručno mišljenje o ugovorima dostavljenim ministru na potpis; izrađuje odgovore na tužbe i prigovore na ovrhe podnijete protiv Ministarstva te izrađuje očitovanja za Državno odvjetništvo u svim predmetima koji nisu u nadležnosti drugih uprava u sastavu Ministarstva; koordinira aktivnosti u cilju usklađivanja pravnih propisa iz svih područja koja su u nadležnosti Ministarstva te sukladno tome inicira i predlaže izmjene i donošenje zakona i drugih propisa u skladu s propisima Europske unije; skrbi o stanju kadrova u Ministarstvu, izrađuje i realizira strategije i mjere vezano za upravljanje kadrovima; nadzire rad državnih službenika i namještenika; osigurava i nadzire nabavu roba, radova i usluga; nadzire i usklađuje provođenje mjera cjelovite zaštite osoba, imovine i objekata Ministarstva; nadzire i usklađuje provedbu obrambenih i sigurnosnih mjera; nadzire i usklađuje obavljanje stručnih i administrativnih poslova koji se odnose na pisarnicu; nadzire obavljanje tehničkih i pomoćnih poslova; nadzire rad informacijskog sustava i predlaže mjere za unapređenje; te obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.
+Za obavljanje poslova iz djelokruga Tajništva Ministarstva ustrojavaju se:
+2.1. Odjel za radnopravne poslove, upravljanje kadrovima i javnu nabavu;
+2.2. Odjel za sigurnosne, opće i tehničke poslove;
+2.3. Odjel za opće pravne poslove i europske integracije;
+2.4. Odjel za informatičke poslove.
+2.1. Odjel za radnopravne poslove, upravljanje kadrovima i javnu nabavu

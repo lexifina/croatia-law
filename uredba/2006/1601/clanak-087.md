@@ -1,0 +1,3 @@
+# Članak 87.
+Odjeljak za plan obavlja poslove unosa mjesečnih i godišnjih planova, izvješćuje o ostvarenju prihoda u skladu s odgovarajućim zakonima i propisima i izvršavanju svih rashoda u skladu s namjenama i izvorima, prati obveze po dodijeljenim financijskim sredstvima u skladu s financijskim planovima, izrađuje dinamički plan izvršavanja po svim izvorima, priprema podlogu za izradu mjesečnih i godišnjih financijskih planova ustanova Ministarstva i dostavlja je Odsjeku za proračun i analizu, izrađuje upute o izvršavanju financijskih planova ustanova Ministarstva.
+9.2. Odjel za računovodstveno-knjigovodstvene poslove

@@ -1,0 +1,3 @@
+# Članak 64.
+Odsjek pravnih poslova obavlja poslove izrade odluka, rješenja i odobrenja glede uvjeta za rad, osnivanja i prestanka rada ustanova iz nadležnosti Uprave; izrade odobrenja za obavljanje usluga obiteljskog savjetovanja vjerskim zajednicama, udrugama i drugim pravnim osobama, te izrade rješenja o ispunjavanju propisanih uvjeta za njihov rad; davanja suglasnosti na statute i druge opće akte, statusne promjene ustanova kojih je osnivač Ministarstvo iz nadležnosti Uprave, vođenja propisanih očevidnika; donošenja odluka o početku i prestanku rada obiteljskih centara i njihovih podružnica, savjetovališta za obitelj, djecu i mladež te savjetovališta za žrtve nasilja u obitelji.
+6.4.2. Odsjek za inspekcijski nadzor

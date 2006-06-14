@@ -1,0 +1,7 @@
+# Članak 72.
+Odjel za međuresornu suradnju i suradnju s udrugama obavlja poslove iniciranja mjera za poticanje obitelji za zadržavanje starijih i nemoćnih članova u krugu obitelji; potiče druge sustave za međugeneracijsku solidarnost; inicira mjere za poticanje rada udruga, organizacija i pojedinaca; predlaže izmjene zakonodavstva koje stvara razlike među starijim građanima istog statusa; daje potpore otvaranju vlastitih uslužnih djelatnosti udruga, organizacija i ustanova; potiče organiziranje prednosti kod specijalističkih pregleda; predlaže mjere za uvođenje olakšica i popusta na obrtničke i uslužne djelatnosti, popusta u prijevozu željeznicom i cijena ulaznica za razne priredbe za starije osobe; predlaže organiziranje tečajeva, predavanja i izdavanje brošura za obitelji koje skrbe o starijima; potiče uvođenje dežurnih telefona; potiče ustanove u kulturi, medije, organizacije da ponude moguće oblike suradnje sa starijom populacijom.
+Odjel obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.
+Odjel za međuresornu suradnju i suradnju s udrugama u svom sastavu ima dva odsjeka:
+7.2.1. Odsjek za međuresornu suradnju;
+7.2.2. Odsjek za suradnju s udrugama.
+7.2.1. Odsjek za međuresornu suradnju

@@ -1,0 +1,4 @@
+## III. DJELOKRUG UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET MINISTRA
+# Članak 4.
+U Kabinetu ministra obavljaju se administrativni i stručni poslovi za ministra i državne tajnike; protokolarni poslovi; poslovi iz područja odnosa sa sredstvima javnog priopćavanja; poslovi u vezi predstavki i pritužbi građana; poslovi u vezi odnosa s Hrvatskim saborom, Vladom Republike Hrvatske, ministarstvima i tijelima državne uprave, te s pravnim osobama koje imaju javne ovlasti iz djelokruga Ministarstva; poslovi u vezi sa zaprimanjem i rješavanjem pošte upućene ministru i državnim tajnicima; poslovi u vezi s evidencijom i pohranom povjerljive pošte; drugi stručni i administrativni poslovi u vezi s ostvarivanjem programa rada i djelovanja ministra i državnih tajnika.

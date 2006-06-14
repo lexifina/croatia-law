@@ -1,0 +1,2 @@
+# Članak 43.
+Odsjek za suradnju s pravosudnim tijelima u Republici Hrvatskoj izrađuje očitovanje na zahtjev Državnog odvjetništva Republike Hrvatske i Pučkog pravobranitelja Republike Hrvatske vezano za predmete iz upravnog postupka, izrađuje prijedlog zahtjeva za zaštitu zakonitosti Državnom odvjetništvu protiv presuda Upravnog suda Republike Hrvatske, surađuje s pravosudnim tijelima u Republici Hrvatskoj u građanskim parnicama u postupcima iz nadležnosti ovoga Ministarstva, vodi evidenciju postupanja po tužbama u građanskim parnicama.

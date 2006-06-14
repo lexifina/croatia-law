@@ -1,0 +1,6 @@
+# Članak 9.
+Odsjek za javnu nabavu obavlja poslove nabave roba, radova i usluga po postupku propisanim Zakonom o javnoj nabavi; definira načine, procedure i predmete nabave sukladno Zakonu; samostalno ili u suradnji s odgovarajućim stručnim službama ovisno o predmetu nabave priprema i izrađuje tendersku dokumentaciju za provođenje postupaka nabave; daje tehničku i stručnu podršku povjerenstvima za nabavu i sudjeluje u njihovom radu; vodi brigu da se nabava odvija sukladno planu proračuna u pogledu zadanih okvira financijskih sredstava i namjene istih; definira obvezno-pravne odnose Ministarstva i pravnih subjekata te fizičkih osoba iz djelokruga rada Odsjeka; priprema i izrađuje ugovore iz područja nabave; prati izvršenje ugovornih obveza osim izvršenja obveza iz ugovora u nadležnosti drugih ustrojstvenih jedinica Ministarstva; sukladno odredbama Zakona o javnoj nabavi vodi sve evidencije o postupcima nabave i ugovorima zaključenim temeljem istih; vodi kontrolu i prati izvršavanje ugovornih obveza iz svoga djelokruga rada; vodi evidenciju ugovora o zakupu poslovnih prostora u kojima se Ministarstvo nalazi u ulozi zakupodavca ili zakupoprimca.
+Odsjek za javnu nabavu u svom sastavu ima dva odjeljka:
+2.1.3.1. Odjeljak za nabavu;
+2.1.3.2. Odjeljak za praćenje ugovornih obveza i vođenje evidencija.
+2.1.3.1. Odjeljak za nabavu

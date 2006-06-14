@@ -1,0 +1,3 @@
+# Članak 66.
+Odsjek za međunarodnu suradnju prati međunarodne propise i usklađuje hrvatsko zakonodavstvo s preuzetim obvezama iz djelokruga rada Uprave, izrađuje nacrte prijedloga međunarodnih ugovora iz djelokruga Uprave; izravno i putem nadležnih tijela Republike Hrvatske obavlja poslove međunarodne suradnje iz djelokruga Uprave: predlaže, potiče i koordinira bilateralnu i multilateralnu suradnju s ministarstvima ili srodnim organizacijama; surađuje na pripremi međunarodnih projekata i obavlja poslove vezane uz međunarodne susrete iz djelatnosti Uprave; sudjeluje u radu, održava i unaprjeđuje odnose s međunarodnim institucijama i institucijama iz djelokruga obitelji i predlaže načine unaprjeđivanja međunarodne suradnje.
+6.5. Odjel dokumentacije i publicistike
