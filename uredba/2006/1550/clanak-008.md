@@ -1,0 +1,2 @@
+# Članak 8.
+Ravnatelj Službe rukovodi Službom, zastupa i predstavlja Službu i odgovoran je za njezin rad, te u sklopu prava i dužnosti utvrđenih ovom Uredbom organizira i osigurava zakonito i učinkovito obavljanje poslova iz djelokruga Službe, predlaže Upravnom vijeću Službe donošenje akata iz njegove nadležnosti, izvršava odluke Upravnog vijeća Službe, te obavlja i druge poslove koji su mu statutom i drugim aktom stavljeni u nadležnost.
