@@ -1,0 +1,2 @@
+# Članak 44.
+Pravne i fizičke osobe, tijela državne uprave te tijela jedinica lokalne i područne (regionalne) samouprave obvezne su na zahtjev ravnatelja Državnog zavoda za zaštitu od zračenja u roku od 15 dana dostaviti točne i potpune podatke, obavijesti i dokumente, uključujući i dokumentaciju proizvođača, a koja je Državnom zavodu za zaštitu od zračenja potrebna za obavljanje upravnih i drugih poslova iz područja zaštite od ionizirajućeg zračenja.

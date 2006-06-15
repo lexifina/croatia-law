@@ -1,0 +1,3 @@
+# Članak 35.
+Prijevoz i provoz radioaktivnih izvora mogu obavljati pravne i fizičke osobe uz odobrenje Državnog zavoda za zaštitu od zračenja, a po ispunjenju uvjeta iz članka 24. ovoga Zakona i uvjeta propisanih podzakonskim propisima na temelju ovoga Zakona, uvjeta iz Zakona o prijevozu opasnih tvari i podzakonskih propisa na temelju Zakona o prijevozu opasnih tvari te Pomorskog zakonika i podzakonskih propisa donesenih na temelju Pomorskog zakonika ili preuzetih Pomorskim zakonikom.
+Odobrenje iz stavka 1. ovoga članka daje se, odnosno uskraćuje rješenjem protiv kojeg nije dopuštena žalba, već se protiv toga rješenja može pokrenuti upravni spor.

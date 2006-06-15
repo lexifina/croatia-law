@@ -1,0 +1,3 @@
+# Članak 7.
+Načelo optimalizacije zaštite od ionizirajućeg zračenja u odnosu na djelatnosti s izvorima ionizirajućeg zračenja ostvaruje se provedbom mjera zaštite kojima se izlaganje radnika i drugih osoba ionizirajućem zračenju od svih djelatnosti s izvorima ionizirajućeg zračenja i svih izvora ionizirajućeg zračenja smanjuje toliko nisko koliko je razumno moguće unutar propisanih granica, uvažavajući tehničke, organizacijske, gospodarske, zdravstvene i socijalne čimbenike.
+Načelo optimalizacije u odnosu na intervencije ostvaruje se tako da provedba, opseg i trajanje svake intervencije mora postići najveći razumno moguć pozitivan učinak.

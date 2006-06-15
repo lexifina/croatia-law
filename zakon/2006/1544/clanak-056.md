@@ -1,0 +1,3 @@
+# Članak 56.
+Pravne osobe ovlaštene za obavljanje stručnih poslova zaštite od ionizirajućih zračenja na temelju Zakona o zaštiti od ionizirajućih zračenja (»Narodne novine«, br. 27/99. i 173/03.) obvezne su uskladiti svoj rad i poslovanje s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu pravilnika iz članka 36. ovoga Zakona.
+Pravnim osobama iz stavka 1. ovoga članka koje ne usklade svoj rad i poslovanje do isteka roka iz stavka 1. ovoga članka prestaje ovlast za obavljanje stručnih poslova zaštite od ionizirajućih zračenja iz članka 36. ovoga Zakona, o čemu će rješenjem odlučiti ravnatelj Državnog zavoda za zaštitu od zračenja.

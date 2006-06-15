@@ -1,0 +1,2 @@
+# Članak 14.
+Uvažavajući granice ozračenja propisane odredbama članka 11. i 13. ovoga Zakona, granice izlaganja za određene organe ili tkiva čovjekova tijela, granice izlaganja osoba koje se obučavaju ili obrazuju za rad s izvorima ionizirajućih zračenja, granice izlaganja u posebnim okolnostima zbog provedbe intervencija u izvanrednom događaju te granice između područja nadgledanja i posebnog nadgledanja propisat će pravilnikom ministar nadležan za zdravstvo.
