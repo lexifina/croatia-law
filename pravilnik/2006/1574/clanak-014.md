@@ -1,0 +1,6 @@
+## Izuzeci
+# Članak 14.
+(1) Odredbe članka 4. stavka 5. ovoga Pravilnika o najmanjem raspoloživom neto kapitalu u iznosu od 80.000 € primjenjivat će se od 1. siječnja 2009., do kada zračni prijevoznik koji namjerava steći ili produžiti valjanost Svjedodžbe, u svrhu ocjene financijske sposobnosti, mora predočiti dokaz o najmanje raspoloživom neto kapitalu u iznosu od 40.000 € ili jamstvo financijske institucije na isti iznos.
+(2) Odredba članka 4. stavka 5. ovoga Pravilnika o najmanjem raspoloživom neto kapitalu ne primjenjuju se pri stjecanju i produživanju valjanosti Svjedodžbe za panoramsko letenje koje se obavlja isključivo u hrvatskom zračnom prostoru.
+(3) Iznimno od odredbe članka 9. stavka 4. ovoga Pravilnika, Ministarstvo može, na zahtjev zračnog prijevoznika, odobriti upisivanje u Svjedodžbu i zrakoplova koji nije upisan u Hrvatski registar civilnih zrakoplova u skladu s rokovima iz članka 43. Zakona o zračnom prometu.
+(4) U razdoblju do godinu dana nakon stupanja na snagu ovoga Pravilnika, Ministarstvo može izdati ili produžiti valjanost Svjedodžbe i zračnom prijevozniku koji ne ispunjava sve propisane uvjete iz Dodataka 1. ovoga Pravilnika ako procijeni da se u konkretnom slučaju ne odstupa od propisane minimalne razine sigurnosti.
