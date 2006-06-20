@@ -1,0 +1,3 @@
+# Članak 68.
+Predsjednik Suda:
+Zastupa i predstavlja Sud, osigurava uvjete za pravilan rad i poslovanje Suda, brine o urednom i pravodobnom obavljanju poslova Suda, podnosi Hrvatskoj gospodarskoj komori godišnji Izvještaj o radu Suda časti, na prijedlog tajnika Suda imenuje suca pojedinca, predsjednika i članove prvostupanjskih i drugostupanjskih vijeća, odlučuje o izuzeću predsjednika i članova prvostupanjskih i drugostupanjskih vijeća, saziva i predsjedava sjednicama Predsjedništva, brine o održavanju i razvijanju suradnje s istim ili sličnim sudovima, drugim organizacijama ili tijelima iz zemlje i inozemstva, a čija je djelatnost od interesa za rad Suda, te obavlja druge poslove određene aktima Suda i odlukama Predsjedništva.

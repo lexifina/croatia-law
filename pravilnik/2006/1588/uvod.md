@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« broj 66/91, 73/91, 77/93. i članka 21. stavak 1. točke 1. alineje 3. Statuta Hrvatske gospodarske komore (»Narodne novine«» broj 11/94. - pročišćeni tekst, 16/96. i 64/01.) Skupština Hrvatske gospodarske komore na 5. sjednici održanoj 31. svibnja 2006. godine donijela je

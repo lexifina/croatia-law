@@ -1,0 +1,3 @@
+# Članak 66.
+Predsjedništvo Suda:
+Vrši opći nadzor nad radom Suda časti, brine o pravilnoj primjeni pravilnika i drugih općih akata Suda, raspravlja o spornim pravnim pitanjima, donosi godišnji Program rada Suda časti, razmatra i prihvaća Izvješće o radu Suda časti za proteklu godinu, utvrđuje visinu nagrade predsjedniku Suda i članovima Predsjedništva za obavljanje poslova Suda izvan pojedinih predmeta za tekuću godinu, odobrava isplatu nagrada sucima prvostupanjskog i drugostupanjskog vijeća za sudjelovanje na raspravnom ročištu, odnosno sjednici vijeća, te izradu presuda i obrazloženih rješenja, razmatra prijedloge općih akata Suda te obavlja druge poslove određene ovim Pravilnikom i drugim aktima Suda časti.
