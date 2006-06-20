@@ -1,0 +1,2 @@
+# Članak 3.
+Djela namijenjena nacionalnim manjinama na njihovim jezicima koja se smatraju hrvatskim audiovizualnim djelima u smislu članka 1. stavka 2. su ona djela koja udovoljavaju kriterijima iz članaka 1., 2., 4. i 5. ovoga Pravilnika a u čijoj je originalnoj verziji jezik nacionalne manjine kojoj je djelo namijenjeno upotrebljavan isključivo ili u većem dijelu, osim u slučaju opravdanih iznimki, kada se iz umjetničkih ili drugih smislenih razloga ne upotrebljava jezik nacionalne manjine ili se uopće ne upotrebljava govor.

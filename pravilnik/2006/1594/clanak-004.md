@@ -1,0 +1,8 @@
+# Članak 4.
+Hrvatska audiovizualna djela su djela koja potječu iz Republike Hrvatske. Djelima koja potječu iz Hrvatske smatraju se ona djela koja su ostvarili pretežito autori i radnici s prebivalištem u Republici Hrvatskoj ako udovoljavaju sljedećim uvjetima:
+- ako su proizvođači tih djela osnovani, odnosno registrirani u Republici Hrvatskoj,
+- ako je pojedino djelo nastalo pod kontrolom jednoga ili više proizvođača iz Republike Hrvatske, ili
+- ako je doprinos koproducenta iz Hrvatske prevladavajući u odnosu na ukupnu cijenu koprodukcije, a koprodukciju ne kontrolira jedan ili više proizvođača osnovanih izvan Republike Hrvatske.
+Hrvatskim audiovizualnim djelima smatraju se i djela koja potječu iz drugih država ako su ostvarena u koprodukciji proizvođača osnovanih i registriranih u Republici Hrvatskoj s proizvođačima osnovanima i registriranima u jednoj ili više drugih država s kojima je Republika Hrvatska sklopila sporazume na audiovizualnom području, ako su ta djela pretežno ostvarili autori i radnici s prebivalištem u Republici Hrvatskoj.
+Djela koja se ne smatraju hrvatskim djelima u smislu stavka 1. ovoga članka, a nastala su u okviru bilateralnih koprodukcijskih ugovora sklopljenih između Republike Hrvatske i drugih država, smatrat će se hrvatskim djelima ako većinski dio ukupnih troškova proizvodnje snose koproducenti iz Republike Hrvatske, a proizvodnju ne nadzire jedan ili više proizvođača registriranih izvan Republike Hrvatske.
+Djela koja se ne smatraju hrvatskim djelima u smislu stavka 1. ovoga članka, a nastala su pretežito radom autora i radnika s prebivalištem u Republici Hrvatskoj, smatrat će se hrvatskim djelima u razmjeru odgovarajućem veličini doprinosa koproducenata iz Republike Hrvatske u ukupnim troškovima proizvodnje.
