@@ -1,0 +1,6 @@
+# Članak 7.
+IZVLAŠTENJE
+1. Ulaganja ulagatelja niti jedne od ugovornih stranaka neće biti nacionalizirana, izvlaštena ili podvrgnuta mjerama koje imaju učinak jednak nacionalizaciji ili izvlaštenju (u daljnjem tekstu »izvlaštenje«) na teritoriju druge ugovorne stranke osim u javnom interesu. Izvlaštenje će se provoditi u skladu sa zakonom i uz pravovremenu, učinkovitu i odgovarajuću naknadu.
+2. Naknada će biti jednaka stvarnoj tržišnoj vrijednosti izvlaštenog ulaganja neposredno prije nego što je došlo do izvlaštenja. Stvarna tržišna vrijednost neće odražavati nikakvu promjenu vrijednosti koja je nastala zbog toga što je izvlaštenje postalo ranije javno poznato.
+3. Takva će se tržišna vrijednost obračunat u slobodno konvertibilnoj valuti po tržišnom tečaju važećem za tu valutu na dan procjene. Naknada će uključivati kamatu obračunatu po šestomjesečnoj LIBOR stopi, važećoj na dan izvlaštenja, od datuma izvlaštenja do datuma plaćanja. Naknada će biti plaćena bez odgađanja i moći će se slobodno prenositi i potpuno ostvariti.
+4. Ulagatelj čija su ulaganja izvlaštena imat će pravo, sukladno zakonodavstvu ugovorne stranke, na pravovremeno ispitivanje slučaja od strane sudskog ili drugog ovlaštenog tijela te ugovorne stranke, kao i na vrednovanje svog ulaganja i plaćanje sukladno odredbama ovog članka.
