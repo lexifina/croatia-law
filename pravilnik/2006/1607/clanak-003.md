@@ -1,0 +1,2 @@
+# Članak 3.
+Korisnici SLE su Ministarstvo, županije i Grad Zagreb - upravni odjeli nadležni za poslove lovstva, tijela javne vlasti, lovoovlaštenici i pravne i fizičke osobe kojima je povjereno pravo lova (u daljnjem tekstu: ovlaštenici prava lova), pravne i fizičke osobe ovlaštene za izradu lovnogospodarskih osnova, programa uzgoja divljači i programa zaštite divljači (u daljnjem tekstu: izrađivači) i javnost u skladu s dozvoljenom ili dogovorenom razinom pristupa.
