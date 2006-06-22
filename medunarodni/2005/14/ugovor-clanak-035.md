@@ -1,0 +1,2 @@
+# Članak 35.
+Članovi Pododbora za sprečavanje i članovi nacionalnih mehanizama za sprečavanje će dobiti one povlastice i imunitete koji su potrebni za neovisno izvršavanje njihovih funkcija. Članovi Pododbora za sprečavanje će dobiti povlastice i imunitete navedene u odjeljku 22. Konvencije o povlasticama i imunitetima Ujedinjenih naroda od 13. veljače 1946. koje regulira odjeljak 23. te Konvencije.

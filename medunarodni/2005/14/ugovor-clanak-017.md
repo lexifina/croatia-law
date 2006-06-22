@@ -1,0 +1,2 @@
+# Članak 17.
+Svaka država stranka će održavati, imenovati ili osnovati, najkasnije jednu godinu nakon stupanja ovoga Protokola na snagu ili njegove ratifikacije ili pristupanja, jedan ili nekoliko neovisnih nacionalnih mehanizama za sprečavanje mučenja na nacionalnoj razini. Mehanizmi koje su utemeljile decentralizirane jedinice mogu biti proglašeni nacionalnim mehanizmima za sprečavanje u smislu ovoga Protokola, ako su u skladu s njegovim odredbama.

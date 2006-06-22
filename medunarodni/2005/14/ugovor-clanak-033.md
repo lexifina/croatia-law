@@ -1,0 +1,4 @@
+# Članak 33.
+1. Svaka država stranka može u bilo kojem trenutku otkazati ovaj Protokol pisanom obaviješću koju upućuje glavnom tajniku Ujedinjenih naroda, koji će o tome obavijestiti ostale države stranke ovoga Protokola i Konvencije. Takav otkaz proizvodi učinak godinu dana od dana kad glavni tajnik primi obavijest.
+2. Takav otkaz ne oslobađa državu stranku od njenih obveza prema ovom Protokolu u slučaju bilo kakvog čina ili situacije koja se može pojaviti prije dana kad otkaz proizvede učinak, ili mjera koje je Pododbor za sprečavanje odlučio ili može odlučiti poduzeti prema predmetnoj državi stranci, a niti će na bilo koji način prejudicirati nastavak razmatranja predmeta koji je već u postupku razmatranja pred Pododborom za sprečavanje prije dana kad je otkaz proizveo učinak.
+3. Nakon datuma kada otkaz neke države stranke proizvede učinak, Pododbor za sprečavanje neće započeti razmatranje novog predmeta koji se odnosi na tu državu stranku.
