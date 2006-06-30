@@ -1,0 +1,6 @@
+# Članak 5.
+Olakšice, povlastice i imuniteti
+1. Organizacija može osnovati i držati ured u Republici Hrvatskoj, a u svrhu ostvarivanja tehničko-savjetodavne suradnje predviđene ovim Temeljnim sporazumom i na temelju njega sklopljenim zajedničkim programima i planovima suradnje.
+2. Vlada će na Organizaciju, njezin Ured, osoblje, sredstva, imovinu i aktivu u Republici Hrvatskoj primjenjivati odgovarajuće odredbe Konvencije o povlasticama i imunitetima specijaliziranih ustanova.
+3. Osoblje organizacije i savjetnici koje Organizacija angažira kao članove osoblja zadužene za provedbu tehničko-savjetodavne suradnje prema ovom Temeljnom sporazumu smatrat će se službenicima u smislu navedene Konvencije i uživat će povlastice i imunitete kako je predviđeno odjeljcima 19. i 20. navedene Konvencije. Programski koordinator/predstavnik Svjetske zdravstvene organizacije u Republici Hrvatskoj tretirat će se kako je predviđeno odjeljkom 21. navedene Konvencije.
+4. Svjetska zdravstvena organizacija će periodički podnositi Ministarstvu vanjskih poslova Republike Hrvatske popis s imenima, mjestom i datumom rođenja, državom podrijetla, fotografijama, nazivima funkcija i položaja osoba iz stavka 3. ovog članka.
