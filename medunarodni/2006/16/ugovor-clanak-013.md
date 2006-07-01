@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Zahtjevi, izjave i žalbe podneseni radi primjene ovoga Ugovora nadležnim tijelima, nositeljima i tijelima za vezu jedne države ugovornice smatraju se kao zahtjevi, izjave ili žalbe podnesene odgovarajućim državnim tijelima, nositeljima ili tijelima za vezu druge države ugovornice.
+(2) Zahtjev za davanje u novcu podnesen nositelju jedne države ugovornice smatra se istodobno zahtjevom za odgovarajuće davanje u novcu prema pravnim propisima druge države ugovornice.
+(3) Žalbe koje treba podnijeti u određenom roku nadležnim tijelima ili nositeljima jedne države ugovornice smatraju se podnesenima u roku ako su u istom roku podnesene odgovarajućem nadležnom tijelu ili nositelju druge države ugovornice. U tom slučaju nadležno tijelo ili nositelj kojem je žalba podnesena, bez odgađanja prosljeđuje ju nadležnom tijelu ili nositelju druge države ugovornice.
+(4) Radi primjene ovoga Ugovora, nadležna tijela, nositelji i tijela za vezu dviju država ugovornica uspostavljaju izravno međusobne odnose kao i odnose s osobama koje sudjeluju u postupku ili s njihovim opunomoćenicima na hrvatskom jeziku ili na službenim jezicima druge države ugovornice.
