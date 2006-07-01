@@ -1,0 +1,6 @@
+# Članak 30.
+IZABRANI SUCI1.
+Glavni tajnik će odrediti i po potrebi ažurirati vijeće sudaca. Svaka članica može imenovati dvojicu svojih državljana u vijeće izabranih sudaca.
+2. Arbitražni sud sastavljen je od jednog, dvojice ili trojice izabranih sudaca, sukladno sa sporazumom o arbitraži. Izabrani suci, odabrani su od osoba koje su članovi vijeća spomenutog u st. 1. Ipak, ako sporazum o arbitraži predviđa pet izabranih sudaca, svaka strana može izabrati jednog izabranog suca koji nije član vijeća. Ako sporazum o arbitraži predviđa jednog suca, on se izabire zajedničkim dogovorom strana. Ako sporazum o arbitraži predviđa tri ili pet izabranih sudaca, svaka strana izabire jednog ili dvojicu sudaca, već prema slučaju; ti suci zajedničkim dogovorom imenuju trećega, odnosno petoga izabranog suca, koji je predsjednik arbitražnog suda. Ako se strane ne mogu usuglasiti o izboru jedinoga izabranog suca, ili se izabrani suci ne mogu usuglasiti oko imenovanja trećega, odnosno petog izabranog suca, imenovanje će izvršiti glavni tajnik.
+3. Jedini izabrani sudac, ili treći ili peti izabrani sudac, ne može biti iste nacionalnosti kao strane u sporu, osim ako su obje strane iste nacionalnosti.
+4. Intervencija treće strane u sporu ne djeluje na sastav Arbitražnog suda.

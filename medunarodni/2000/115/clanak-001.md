@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Protokol od 3. lipnja 1999. o izmjenama Konvencije o međunarodnom željezničkom prijevozu (COTIF) od 9. svibnja 1980. (Protokol 1999.) potpisan u Vilniusu 3. lipnja 1999. i Konvencija o međunarodnom željezničkom prijevozu (COTIF) od 9. svibnja 1980. u verziji Protokola o izmjenama od 3. lipnja 1999. s pripadajućim dodacima, u izvorniku na francuskom, engleskom i njemačkom jeziku.

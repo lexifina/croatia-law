@@ -1,0 +1,9 @@
+# Članak 34.
+ODLUKE OPĆE SKUPŠTINE
+1. Glavni tajnik obavještava države članice o izmjenama Konvencije, o kojima odlučuje Opća skupština.
+2. Izmjene same Konvencije, o kojima odlučuje Opća skupština, stupaju na snagu za sve države članice dvanaest mjeseci pošto su ih odobrile dvije trećine država članica, uz izuzetak onih koje su, prije stupanja na snagu, dale izjavu da ne odobravaju te izmjene.
+3. Izmjene u dodatcima Konvenciji, o kojima odlučuje Opća skupština, stupaju na snagu za sve države članice dvanaest mjeseci pošto ih je odobrila polovica država članica koje nisu dale izjavu na temelju članka 42. st. 1., prva rečenica, uz izuzetak onih koje su, prije stupanja na snagu, dale izjavu da ne odobravaju te izmjene i uz izuzetak onih koje su dale izjavu na temelju članka 42. st. 1., prva rečenica.
+4. Države članice uputit će svoje obavijesti u svezi s odobrenjem izmjena Konvencije o kojima odlučuje Opća skupština, kao i svoje izjave o tome da ne odobravaju te izmjene, glavnom tajniku, glavni tajnik će o njima obavijestiti ostale države članice.
+5. Rok spomenut u stavcima 2. i 3. počinje teći od dana obavijesti od glavnog tajnika da su uvjeti za stupanje izmjena na snagu ispunjeni.
+6. Glavni tajnik može odrediti, u trenutku prihvaćanja izmjene, da je ona takva da svaka država članica koja bude dala izjavu na temelju st. 2. ili st. 3. i koja ne odobri izmjenu u roku od 18 mjeseci od njezina stupanja na snagu, prestaje, nakon isteka tog roka, biti članicom Organizacije.
+7. Kad se odluke Opće skupštine odnose na dodatke Konvenciji, primjena dodatka o kojem je riječ suspendirat će se, u potpunosti, od stupanja na snagu odluka za promet s državama članicama koje su se sukladno sa st. 3. usprotivile odlukama u okviru dopuštenog roka, te promet između njih. Glavni tajnik obavijestit će države članice o toj suspenziji; ona završava nakon isteka jednog mjeseca od dana kad je glavni tajnik obavijestio ostale države članice o povlačenju protivljenja.

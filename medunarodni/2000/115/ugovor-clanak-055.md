@@ -1,0 +1,5 @@
+# Članak 55.
+POTRAŽIVANJA
+1. Potraživanja što se odnose na odgovornost prijevoznika u slučaju usmrćenja ili osobne povrede putnika, moraju se predati u pisanom obliku prijevozniku protiv kojega se pokreće postupak. U slučaju prijevoza prema jednom ugovoru, a koji obavlja nekoliko uzastopnih prijevoznika, potraživanja se također mogu postaviti protiv prvog ili posljednjeg prijevoznika kao i protiv prijevoznika koji ima glavno mjesto poslovanja ili poslovnicu ili agenciju koja je zaključila ugovor o prijevozu u državi gdje putnik ima stalno ili uobičajeno boravište.
+2. Ostala potraživanja koja se odnose na ugovor o prijevozu bit će dana prijevozniku u pisanom obliku navedenom u članku 56. stavcima 2. i 3.
+3. Dokumenti koje osoba koja ima pravo smatra potrebnim priložiti zahtjevu, mogu se dati u originalu ili njihove preslike, gdje je primjenjivo, s tim da preslike moraju biti valjano ovjerene ako to traži prijevoznik. Nakon rješenja zahtjeva, prijevoznik može zatražiti predaju karte, prtljažnice i potvrde o prijevozu.

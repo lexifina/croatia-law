@@ -1,0 +1,4 @@
+# Članak 57.
+FORUM
+1. Postupci koji se temelje na Jedinstvenim pravilima, mogu se pokrenuti pred sudovima ili tribunalima država članica određenim ugovorom među stranama ili pred sudovima ili tribunalima država članica na čijem teritoriju optuženik ima boravište ili uobičajeno boravište, svoje glavno mjesto poslovanja odnosno poslovnicu ili agenciju koja je zaključila ugovor o prijevozu. Na drugim sudovima ili tribunalima postupak se ne može pokrenuti.
+2. U slučaju kad je postupak temeljen na ovim Jedinstvenim pravilima, u tijeku pred sudom ili tribunalom ovlaštenim na temelju st. 1., ili kad je u tom sporu presudu donio sud ili tribunal, ne može se pokrenuti nijedan novi postupak između istih strana na istoj osnovi, osim ako presuda suda ili tribunala pred kojim je pokrenut prvi postupak, nije pravovaljana u državi u kojoj se pokreće novi postupak.
