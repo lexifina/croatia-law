@@ -1,0 +1,3 @@
+# Članak 16.
+Uslužni Žigovi
+Svaka ugovorna stranka mora registrirati uslužne žigove i na takve žigove primjenjivati odredbe Pariške konvencije koje se odnose na robne žigove.
