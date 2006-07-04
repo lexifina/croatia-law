@@ -1,0 +1,2 @@
+_______
+1 Za svaki vrijednosni papir koji se prije početka primjene ovog Pravilnika drži do dospijeća i vrednuje se metodom linearne amortizacije, prvog dana primjene ovog Pravilnika izračunava se nova amortizacijska tablica koja se temelji na primjeni efektivne kamatne stope. Kao vrijednost početnog mjerenja uzima se vrijednost tog vrijednosnog papira na prethodni dan vrednovanja. Na prvi dan primjene ovog Praivlnika vrijednosni papir se amortizira za odgovarajući iznos iz nove amortizacijske tablice.
