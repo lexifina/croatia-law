@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99) i članka 16. stavka 1. Zakona o muzejima (»Narodne novine«, broj 142/98), Vlada Republike Hrvatske je na sjednici održanoj 29. lipnja 2006. godine donijela
