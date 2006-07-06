@@ -1,0 +1,8 @@
+## VII. ŠPORTSKA NATJECANJA
+# Članak 61.
+(1) Načela i osnovne elemente sustava športskih natjecanja u Republici Hrvatskoj te uvjete sudjelovanja hrvatskih športaša i športskih klubova na međunarodnim športskim natjecanjima utvrđuje Hrvatski olimpijski odbor.
+(2) Sustav, uvjete i organizaciju športskih natjecanja u pojedinom športu utvrđuje nacionalni športski savez u skladu s načelima i elementima sustava koje je utvrdio Hrvatski olimpijski odbor, i prema pravilima športa i normama međunarodnih športskih udruženja. Sustav natjecanja mora se donijeti najmanje jednu godinu prije početka primjene tog sustava.
+(3) Nacionalni športski savez organizira i vodi športska natjecanja, vođenje i organiziranje natjecanja može povjeriti svojoj članici ili drugoj pravnoj osobi registriranoj za obavljanje športske djelatnosti.
+(4) Međunarodna športska natjecanja i međunarodne športske priredbe organiziraju se u skladu s ovim Zakonom i u skladu s uvjetima koje propisuju međunarodna športska udruženja.
+(5) Odluku o organiziranju sustava športskih natjecanja za područje više država ili više inozemnih regija te odluku o sudjelovanju športskih klubova i športaša iz Republike Hrvatske u višedržavnim ili inozemnim regionalnim sustavima natjecanja donosi nacionalni športski savez.
+(6) Odluku o organizaciji i organiziranje športskih natjecanja za područje jedne ili više jedinica lokalne i područne (regionalne) samouprave, odnosno Grada Zagreba, u skladu s aktom iz stavka 2. ovoga članka donose i organiziraju športski savezi osnovani na tim područjima, a za područje države nacionalni športski savezi.

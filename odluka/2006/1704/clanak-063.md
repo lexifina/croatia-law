@@ -1,0 +1,5 @@
+# Članak 63.
+(1) Prijedlog za održavanje olimpijskih igara, mediteranskih igara, kao i ostalih međunarodnih multišportskih natjecanja i priredaba u Republici Hrvatskoj daje Hrvatski olimpijski odbor, a za održavanje svjetskih i europskih prvenstava i kupova u pojedinim športovima daje nacionalni športski savez uz suglasnost Hrvatskoga olimpijskog odbora.
+(2) Kriterije i mjerila za isticanje kandidature i održavanje međunarodnih športskih natjecanja u Republici Hrvatskoj iz stavka 1. ovoga članka općim aktom utvrđuje Hrvatski olimpijski odbor.
+(3) Pri isticanju kandidature za održavanje olimpijskih igara, svjetskih i europskih prvenstava te međunarodnih regionalnih športskih natjecanja na teritoriju Republike Hrvatske, potrebna je prethodna suglasnost Vlade Republike Hrvatske.
+(4) Prijedlog za održavanje svjetskih i europskih prvenstava i kupova u pojedinim športovima za osobe s invaliditetom i gluhe osobe daje nacionalni športski savez uz suglasnost Hrvatskoga paraolimpijskog odbora, odnosno Hrvatskoga športskog saveza gluhih.

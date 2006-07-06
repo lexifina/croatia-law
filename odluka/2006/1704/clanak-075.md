@@ -1,0 +1,18 @@
+# Članak 75.
+(1) Javne potrebe u športu na državnoj razini jesu:
+1. poticanje i promicanje športa, osobito športa djece, mladeži, studenata i osoba s invaliditetom,
+2. poticanje planiranja i izgradnje športskih građevina,
+3. skrb o vrhunskim športašima,
+4. djelovanje nacionalnih športskih saveza, Hrvatskoga olimpijskog odbora, Hrvatskoga paraolimpijskog odbora i Hrvatskoga športskog saveza gluhih,
+5. djelovanje informacijskog sustava u športu,
+6. rad i djelovanje Agencije,
+7. dodjeljivanje državne nagrade za šport »Franjo Bučar« i državnih nagrada za vrhunska športska postignuća,
+8. međunarodna športska suradnja i međunarodne obveze Republike Hrvatske u športu,
+9. znanstveni i razvojni programi u športu.
+(2) Programe javnih potreba iz stavka 1. ovoga članka donosi Hrvatski sabor na prijedlog Vlade Republike Hrvatske, zajedno s državnim proračunom.
+(3) Za izvršenje programa javnih potreba iz stavka 1. ovoga članka osiguravaju se sredstva u državnom proračunu i iz dijela prihoda od priređivanja igara na sreću i nagradnih igara u smislu Zakona o priređivanju igara na sreću i nagradnih igara.
+(4) Programe zadovoljavanja javnih potreba iz stavka 1. ovoga članka koji se odnose na djelovanje Hrvatskoga olimpijskog odbora i nacionalnih športskih saveza, organiziranje i provođenje nacionalnih prvenstava i međunarodnih športskih natjecanja reprezentativne razine i skrbi o vrhunskim športašima, predlaže Hrvatski olimpijski odbor koji je odgovoran za izvršenje programa i utrošak financijskih sredstava. O izvršenju programa javnih potreba i utrošku financijskih sredstava Hrvatski olimpijski odbor podnosi izvješće Hrvatskom saboru i ministarstvu u rokovima propisanim u Zakonu o proračunu.
+(5) Programe zadovoljavanja javnih potreba iz stavka 1. ovoga članka koji se odnose na djelovanje Hrvatskoga paraolimpijskog odbora i Hrvatskoga športskog saveza gluhih predlažu Hrvatski paraolimpijski odbor i Hrvatski športski savez gluhih, svaki u svom djelokrugu i odgovorni su za izvršenje programa za koje su sredstva osigurana. Izvješća o izvršenju programa i utrošku financijskih sredstava Hrvatski paraolimpijski odbor i Hrvatski športski savez gluhih u rokovima i postupku propisanim za donošenje državnog proračuna podnose ministarstvu u rokovima propisanim u Zakonu o proračunu.
+(6) Programe za zadovoljavanje javnih potreba iz stavka 1. ovoga članka koji se odnose na financiranje studentskih športskih udruga i Hrvatskoga studentskoga športskog saveza predlaže ministarstvu Hrvatski studenski športski savez u rokovima i postupku donošenja državnog proračuna te je odgovoran za izvršenje programa za koje su sredstva osigurana u državnom proračunu, a izvješća o izvršenju programa i utrošku financijskih sredstava podnosi ministarstvu u rokovima propisanim u Zakonu o proračunu.
+(7) Programe za zadovoljavanje javnih potreba iz stavka 1. ovoga članka koji se odnose na financiranje športa djece i mladeži, posebice športske djelatnosti Hrvatskoga školskoga športskog saveza, poticanje planiranja i izgradnje športskih građevina, dodjeljivanje državne nagrade za šport »Franjo Bučar« i državnih nagrada za vrhunska športska postignuća, za međunarodnu športsku suradnju i međunarodne obveze Republike Hrvatske u športu, znanstvene i razvojne programe u športu, djelovanje informacijskog sustava u športu te rad i djelovanje Agencije Vladi Republike Hrvatske predlaže ministarstvo u rokovima i postupku propisanom za donošenje državnog proračuna.
+(8) Za izvršenje programa javnih potreba iz stavka 7. ovoga članka ministarstvo određuje nositelje provedbe, prati i nadzire izvršenje programa te prati korištenje i utrošak sredstava.

@@ -1,0 +1,4 @@
+# Članak 95.
+(1) Ministar će propise iz članka 7. stavka 2., članka 17. stavka 4., članka 20. stavka 2., članka 24. stavka 5., članka 26. stavka 6., članka 39. stavka 3., članka 55. stavka 5., članka 60. stavka 5., članka 66. stavka 4., članka 80. stavka 6. i članka 94. stavka 3. ovoga Zakona donijeti u roku od mjesec dana od dana stupanja na snagu ovoga Zakona.
+(2) Ministarstvo nadležno za poslove zdravstva utvrdit će listu ovlaštenih liječnika-specijalista športske medicine, odnosno specijalista medicine rada i športa koji će utvrđivati opću i posebnu zdravstvenu sposobnost iz članka 71. stavka 2. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(3) Ministar nadležan za zdravstvo će propis iz članka 71. stavka 3. ovoga Zakona donijeti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

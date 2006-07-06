@@ -1,0 +1,9 @@
+## Obveza preoblikovanja športskog kluba-udruge za natjecanje u športsko dioničko društvo
+# Članak 41.
+(1) Športski klub-udruga za natjecanje mora se preoblikovati u š.d.d. u skladu s odredbama članka 43. i 44. ovoga Zakona ako su kumulativno ispunjeni sljedeći uvjeti:
+1. da se radi o profesionalnom športskom klubu u smislu članka 24. ovoga Zakona u nogometu, košarci i rukometu i da je izdano rješenje o upisu u Registar profesionalnih športskih klubova,
+2. da na temelju revizije iz članka 40. ovoga Zakona proizlazi da su se kod športskog kluba-udruge za natjecanje stekli uvjeti za pokretanje stečajnog postupka prema posebnim propisima, a on nije pokrenut, odnosno da se postojanje navedenih uvjeta može utvrditi i na temelju dokumenata koje je športski klub-udruga za natjecanje obvezan slati Povjerenstvu u skladu sa člankom 24. stavkom 6. ovoga Zakona ili da se na temelju godišnjega financijskog izvješća i godišnjega revizorskog izvješća utvrdi da postoje uvjeti za pokretanje stečajnog postupka, a on ne bude pokrenut ni u roku od 30 dana od dana kada su ti uvjeti ostvareni.
+(2) Ministar, u roku od mjesec dana od dana dostave revizorskog izvješća iz članka 40. stavka 4. ovoga Zakona, uz prethodnu suglasnost Povjerenstva, rješenjem utvrđuje da su ispunjeni uvjeti za obvezno preoblikovanje iz stavka 1. ovoga članka.
+(3) Povjerenstvo je dužno suglasnost iz stavka 2. ovoga članka dati u roku od 15 dana od dana primitka revizorskog izvješća ili druge dokumentacije iz članka 24. stavka 6. ovoga Zakona.
+(4) Rješenje iz stavka 2. ovoga članka je konačno i protiv njega se može pokrenuti upravni spor.
+(5) Ministar, na prijedlog Povjerenstva za profesionalne športske klubove, može donijeti odluku kojom se pored športova iz stavka 1. točke 1. ovoga članka uvodi obveza preoblikovanja športskog kluba-udruge za natjecanje u športsko dioničko društvo i u nekom drugom športu.

@@ -1,0 +1,7 @@
+## IX. ZDRAVSTVENA ZAŠTITA
+# Članak 71.
+(1) U športskom natjecanju može sudjelovati osoba za koju je u razdoblju od šest mjeseci prije športskog natjecanja utvrđena opća zdravstvena sposobnost, a kada je to propisano pravilnikom koji donosi ministar nadležan za zdravstvo uz suglasnost ministra i posebna zdravstvena sposobnost, ako propisima nacionalnoga športskog saveza nije određeno kraće razdoblje.
+(2) Opću i posebnu zdravstvenu sposobnost utvrđuje ovlašteni liječnik-specijalist športske medicine, odnosno specijalist medicine rada i športa. Listu ovlaštenih liječnika utvrđuje ministarstvo nadležno za poslove zdravstva uz suglasnost ministra.
+(3) Uvjete za obavljanje zdravstvenih pregleda, vrstu i opseg pregleda, način vođenja evidencije i medicinske dokumentacije športaša te rokove u kojima se provode zdravstveni pregledi za učenike koji sudjeluju u natjecanjima školskih športskih društva, pravilnikom propisuje ministar nadležan za zdravstvo uz prethodno mišljenje ministra.
+(4) Obveza utvrđivanja zdravstvene sposobnosti postoji i za druge osobe u športu sukladno odredbama akata nacionalnih športskih saveza.
+(5) Opću i posebnu zdravstvenu sposobnost učenika za sudjelovanje na natjecanjima školskih športskih društava utvrđuje nadležan liječnik specijalist školske medicine, odnosno izabrani liječnik specijalist pedijatar ili izabrani liječnik specijalist opće i/ili obiteljske medicine.

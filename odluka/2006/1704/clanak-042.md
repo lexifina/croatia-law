@@ -1,0 +1,4 @@
+# Članak 42.
+(1) Republika Hrvatska može prenijeti svoje tražbine prema športskim klubovima-udrugama za natjecanje, koje su obvezne preoblikovati se u š.d.d., na jedinicu lokalne samouprave, u kojoj je sjedište športskog kluba-udruge za natjecanje, prema posebnom ugovoru o prijenosu u kojem će se utvrditi prava i obveze ugovornih strana.
+(2) Pravne osobe u kojima Republika Hrvatska ima većinski udio ili većinsko pravo glasa mogu prenijeti svoje tražbine prema športskom klubu-udruzi za natjecanje, koja je obvezna preoblikovati se u š.d.d., na jedinicu lokalne samouprave, u kojoj je sjedište športskog kluba-udruge za natjecanje, prema posebnom ugovoru o prijenosu u kojem će se utvrditi prava i obveze ugovornih strana.
+Postupak provođenja obveznog preoblikovanja športskog kluba-udruge za natjecanje u š.d.d.

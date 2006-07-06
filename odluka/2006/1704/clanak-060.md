@@ -1,0 +1,6 @@
+# Članak 60.
+(1) Stručne poslove u športu iz članka 59. podstavka 1. i 2. ovoga Zakona mogu obavljati osobe koje imaju odgovarajuću stručnu spremu najmanje na razini trenera prvostupnika i osobe koje su osposobljene putem ustanove za osposobljavanje kadra na temelju programa za stjecanje licencije krovnih svjetskih ili europskih udruženja određenog športa.
+(2) Stručne poslove u športu iz članka 59. podstavka 3. ovoga Zakona mogu obavljati osobe koje imaju odgovarajuću stručnu spremu najmanje na razini trenera prvostupnika.
+(3) Stručne poslove u športu iz članka 59. podstavka 4. ovoga Zakona mogu obavljati osobe koje imaju odgovarajuću stručnu spremu na razini sveučilišnog studija i ispunjavaju uvjete za učitelja odnosno nastavnika tjelesne i zdravstvene kulture sukladno posebnom propisu.
+(4) Stručne poslove u športu iz članka 59. podstavka 5. ovoga Zakona mogu obavljati osobe koje su osposobljene za rad u športu putem ustanova za osposobljavanje kadra u športu.
+(5) Stručnu spremu, odnosno stručnu osposobljenost iz stavka 1., 2., 3. i 4. ovoga članka potrebnu za obavljanje stručnih poslova u športu iz članka 59. ovoga Zakona, prema vrsti i složenosti određenih poslova, pravilnikom propisuje ministar.

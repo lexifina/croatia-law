@@ -1,0 +1,2 @@
+# Članak 78.
+Informacijski sustav u športu osobito prikuplja i ažurira informacije o aktivnostima osoba koje obavljaju športske djelatnosti, utrošku sredstava namijenjenih programu provedbe Nacionalnog programa športa, sustavu natjecanja, stručnom kadru u športu, planiranju, izgradnji i održavanju športskih građevina, djeci športašima, kategoriziranim športašima i rekreativnim aktivnostima građana.

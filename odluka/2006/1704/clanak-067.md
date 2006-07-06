@@ -1,0 +1,5 @@
+# Članak 67.
+(1) Športske građevine od posebnog interesa za Republiku Hrvatsku, u smislu ovoga Zakona, su građevine utvrđene Nacionalnim programom športa.
+(2) Osim športskih građevina od posebnog interesa za Republiku Hrvatsku utvrđenih sukladno stavku 1. ovoga članka, športskom građevinom od posebnog interesa za Republiku Hrvatsku smatra se i Hrvatski olimpijski centar Bjelolasica.
+(3) Interes iz stavka 2. ovoga članka ostvaruje se osobito kroz ovlast Vlade Republike Hrvatske koju provodi zajedno s drugim pravnim osobama, koje drže u vlasništvu nekretnine koje čine ovu športsku građevinu, kroz trgovačko društvo za obavljanje športske djelatnosti, pri čemu Republika Hrvatska mora imati više od polovine udjela ili dionica na temelju uloženih nekretnina ili novčanih sredstava.
+(4) Izgradnja športskih građevina, koja se utvrđuje Nacionalnim programom športa, potiče se financiranjem iz državnog proračuna, jedinica lokalne i područne (regionalne) samouprave, iz dijela prihoda od igara na sreću i ulaganjem privatnih osoba te poticanjem partnerstva vladinih, nevladinih organizacija u športu i privatnog poduzetništva.

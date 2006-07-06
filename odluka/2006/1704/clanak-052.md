@@ -1,0 +1,6 @@
+# Članak 52.
+(1) Pri Hrvatskom olimpijskom odboru djeluju Vijeće športske arbitraže i Športsko arbitražno sudište kao samostalna i nezavisna tijela za športsku arbitražu i za rješavanje sporova u vezi sa športom.
+(2) Vijeće športske arbitraže odlučuje o zahtjevu za izvanrednim preispitivanjem odluka športskih saveza, športskih zajednica, športskih klubova i drugih športskih udruga protiv kojih su iscrpljena ili ne postoje druga sredstva pravne zaštite, a riječ je o športu ili pitanju važnom za izvršavanje zadaća Hrvatskoga olimpijskog odbora koje su utvrđene ovim Zakonom.
+(3) Športsko arbitražno sudište odlučuje o zahtjevu stranaka koje su ugovorile nadležnost tog sudišta u sporovima nastalim u vezi s obavljanjem športske djelatnosti, a o pravima kojima mogu slobodno raspolagati ako zakonom nije određeno da za odlučivanje o određenoj vrsti sporova postoji isključiva nadležnost redovnog suda.
+(4) Vijeće športske arbitraže obavlja opći nadzor nad radom Športskoga arbitražnog sudišta i daje pravna mišljenja na zahtjev Hrvatskoga olimpijskog odbora ili na prijedlog nacionalnih športskih saveza, športskih klubova i športskih udruga.
+(5) Aktima Hrvatskoga olimpijskog odbora pobliže se uređuje nadležnost, sastav i ustroj te pravila o postupku pred Vijećem športske arbitraže i Športskim arbitražnim sudištem.
