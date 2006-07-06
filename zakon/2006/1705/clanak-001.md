@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o sprječavanju nereda na športskim natjecanjima (»Narodne novine«, br. 117/03.) u članku 3. stavak 1. mijenja se i glasi:
+»(1) Športskim natjecanjem u smislu ovoga Zakona smatra se svako pojedino natjecanje u okviru sustava športskih natjecanja uspostavljenog na temelju Zakona o športu, u kome se natječu domaći i gostujući športski klub, međunarodno natjecanje organizirano na području Republike Hrvatske, natjecanje u sustavu europskih i svjetskih športskih organizacija, natjecanje za koje postoji procjena mogućnosti izbijanja nereda i nasilja te natjecanje u inozemstvu u kojem sudjeluje reprezentacija ili športski klub iz Republike Hrvatske.«
+U stavku 4. iza riječi: »natjecanje« dodaju se riječi: »te prostor na kojem se ulazak i kretanje osoba uvjetuje posjedovanjem ulaznice ili posebne dozvole koju izdaje organizator natjecanja«.

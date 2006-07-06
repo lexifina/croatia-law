@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 16. stavku 1. riječi: »sustav nadziranja gledatelja« zamjenjuju se riječima: »neprekidni videonadzor s mogućnošću ispisa i pohranjivanja snimljenog zapisa o ponašanju gledatelja na ulazima, izlazima i cijelom prostoru športskog objekta gdje se nalaze gledatelji, kojeg organizator športskog natjecanja, vlasnik ili korisnik športskog objekta mora dostaviti policiji na njezin zahtjev, radi korištenja u prekršajnom ili kaznenom postupku«.
