@@ -1,0 +1,6 @@
+# Članak 15.
+Visoka škola za turistički menadžment u Šibeniku pripaja se Veleučilištu i prestaje s radom danom upisa Veleučilišta u sudski registar.
+Danom pripojenja Visoke škole za turistički menadžment u Šibeniku Veleučilištu, Veleučilište preuzima sve poslove, te sve radnike zatečene na preuzetim poslovima, opremu, pismohranu, sredstva za rad, prostor, financijska sredstva, kao i prava i obveze Visoke škole za turistički menadžment u Šibeniku.
+Studenti upisani u Visoku školu za turistički menadžment u Šibeniku, danom pripojenja Visoke škole za turistički menadžment u Šibeniku Veleučilištu, postaju studenti Veleučilišta.
+Studenti upisani u Visoku školu za turistički menadžment u Šibeniku, danom pripojenja Visoke škole za turistički menadžment u Šibeniku postaju studenti Veleučilišta i imaju pravo dovršiti studij prema nastavnom programu i uvjetima prema kojima su upisali prvu godinu studija sukladno Zakonu i Statutu Veleučilišta.
+Danom pripojenja Visoke škole za turistički menadžment u Šibeniku Veleučilištu, prestaje mandat dekana, prodekana i ostalih tijela Visoke škole za turistički menadžment u Šibeniku, utvrđenih Uredbom o osnivanju Visoke škole za turizam u Šibeniku (»Narodne novine«, br. 40/97 i 76/2005) i Statutom Visoke škole za turistički menadžment u Šibeniku.
