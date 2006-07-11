@@ -1,0 +1,2 @@
+# Članak 7.
+Državna uprava upućuje pripadnika operativnih snaga, predviđenog za upućivanje u akcije zaštite i spašavanja u inozemstvu, na redoviti zdravstveni pregled koji se obavlja u zdravstvenoj ustanovi koja u svom sastavu ima medicinu rada ili kod privatnog zdravstvenog djelatnika - specijaliste medicine rada, najmanje jednom u dvije godine, ako nije drugačije uređeno odredbama Pravilnika o unutarnjem redu Državne uprave.

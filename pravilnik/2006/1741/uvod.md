@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o sudjelovanju pripadnika oružanih snaga Republike Hrvatske, policije, civilne zaštite te državnih službenika i namještenika u mirovnim operacijama i drugim aktivnostima u inozemstvu (»Narodne novine«, br. 33/2002) i članka 61. stavak 3. Zakona o zaštiti i spašavanju (»Narodne novine«, br. 174/2004), donosim

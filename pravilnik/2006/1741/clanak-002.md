@@ -1,0 +1,2 @@
+# Članak 2.
+Pripadnici operativnih snaga mogu se uputiti u inozemstvo radi sudjelovanja u aktivnostima žurne pomoći u katastrofama na temelju bilateralnih i multilateralnih ugovora i sporazuma koje je Republika Hrvatska sklopila o suradnji u zaštiti od katastrofa i radi sudjelovanja u okviru misija Organizacije ujedinjenih naroda, Europske unije, Sjevernoatlantskog partnerskog vijeća i drugih međunarodnih organizacija ili saveza kojima je Republika Hrvatska pristupila ili im pristupa na temelju potpisanih međunarodnih ugovora.

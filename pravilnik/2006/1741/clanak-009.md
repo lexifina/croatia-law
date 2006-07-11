@@ -1,0 +1,2 @@
+# Članak 9.
+Državna uprava za vrijeme trajanja akcije u inozemstvu obavezno ugovara osiguranje pripadnika operativnih snaga od posljedica nesretnog slučaja (nezgode) koje obuhvaća: smrt kao posljedicu nezgode, potpunu ili djelomičnu invalidnost, naknadu za dane spriječenosti za rad ako pripadnici operativnih snaga nisu osigurani na teret međunarodne organizacije nositelja akcije zaštite i spašavanja u inozemstvu.
