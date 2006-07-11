@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 3. i članka 71., a u svezi s člankom 72. stavkom 1. podstavkom 9. Zakona o biljnom zdravstvu (»Narodne novine«, br. 75/05), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
