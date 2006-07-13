@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 1, a u svezi s člankom 4. stavak 1, 2. i 3, člankom 7. i člankom 17. Zakona o nuklearnoj sigurnosti (»Narodne novine« br. 173/2003), ravnatelj Državnog zavoda za nuklearnu sigurnost donosi
