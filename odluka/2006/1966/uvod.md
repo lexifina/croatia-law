@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske i članka 43. Poslovnika Hrvatskoga sabora te na temelju Nacionalnog programa suzbijanja korupcije 2006.-2008. Hrvatski sabor na sjednici13. srpnja 2006., donio je
