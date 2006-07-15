@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Primjenom odredbi članka 6. stavka 7., članka 7. stavka 4., članka 8. stavka 5. i članka 10. stavka 7. ovog Pravilnika, ukupna mjesečna naknada u odobrenom objektu po ovlaštenom veterinaru ili veterinarskom inspektoru ne može prijeći iznos od 30.000,00 kn.
+(2) Mjesečni račun iz članka 16. stavka 2. ovog Pravilnika mora sadržavati iskaz svih propisanih pregleda i kontrola s adekvatnim obračunom. Ukoliko ukupan iznos svih propisanih naknada, u odnosu na stavak. 1. ovog članka, prelazi 30.000,00 kn po ovlaštenom veterinaru ili nadležnom veterinarskom inspektoru, tada se na obrascu računa ukupan iznos naknade mora ispraviti u skladu s odredbama stavka 1. ovog članka, na računu u za to predviđenoj rubrici (rubrika 1.3.).
+(3) Ukoliko obračunom naknada iz stavka 1. ovog članka, ukupan mjesečni iznos naknada ne prelazi 30.000,00 kn po ovlaštenom veterinaru, tada se obračunava stvarno obračunati iznos naknada.
