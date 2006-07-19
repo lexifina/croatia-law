@@ -1,0 +1,26 @@
+## 9. UPRAVA ZA GOSPODARENJE I FINANCIRANJE
+# Članak 11.
+U Upravi za gospodarenje i financiranje obavljaju se upravni i stručni poslovi u vezi sa: izradom prijedloga financijskog plana, praćenjem ostvarivanja donesenog financijskog plana, predlaganjem proračuna za financiranje kulturnih djelatnosti i kulturnih potreba, zaštite prirode i javnog informiranja, izradom proračuna Ministarstva, suradnjom na izradi i praćenju propisa koji se odnose na financijske i računovodstvene poslove, financiranjem javnih potreba u kulturi (financiranje javnih ustanova u kulturi čiji je osnivač Republika Hrvatska, kao i financiranje pojedinih programa odobrenih temeljem natječaja, odnosno javnog poziva), predlaganjem kriterija i modela financiranja kulture u Republici Hrvatskoj, financiranjem zaštite prirode, pribavljanjem izvješća i nadzorom nad namjenskim trošenjem sredstava, sastavljanjem financijskih izvješća (kvartalnih i godišnjih), vođenjem knjigovodstvenih evidencija i analitike, ostvarivanjem investicijskih programa koji se financiraju iz državnog proračuna kao i iz drugih izvora, obavljanjem računovodstvenih poslova Ministarstva, te obavljaju i druge poslove po nalogu i naputku ministra i čelnika Uprave.
+U Upravi se ustrojavaju:
+9.1. Odjel za planiranje i financiranje
+U Odjelu za planiranje i financiranje izrađuje se prijedlog državnog proračuna za Ministarstvo i proračunske korisnike u nadležnosti Ministarstva, financiranje redovne djelatnosti ustanova i stručnih udruga iz djelokruga Ministarstva, prati i analizira trošenje proračunskih sredstava u skladu s financijskim planovima, planira i prati izvršenje programa investicijskih ulaganja kulturnih djelatnosti i potreba, zaštite kulturne baštine, zaštite prirode i javnog informiranja, te programa odobrenih temeljem natječaja, prati, proučava i stručno obrađuje ekonomska pitanja vezana za porezni i carinski sustav, kao i praćenje izvršenja istih, te obavljaju i ostali poslovi po nalogu i naputku čelnika Odjela odnosno Uprave.
+U Odjelu se ustrojavaju:
+9.1.1. Odsjek za dokumentacijsko-analitičke poslove i investicije
+U Odsjeku za dokumentacijsko-analitičke poslove i investicije planira se i prati izvršenje programa zaštite kulturnih dobara (pokretnih i nepokretnih), planira i prati izvršenje programa investicijskih ulaganja za kulturne potrebe, obavljaju dokumentacijsko analitički poslovi za područje kulture, održavaju aktualne baze podataka o kulturnom razvitku i kulturnoj politici, temeljem statističkih i dokumentacijskih istraživanja prate se razvojna kretanja i analiziraju mjere kulturne politike, te izrađuju izvješća o kulturnim djelatnostima i kulturnoj politici.
+9.1.2. Odsjek za financiranje i porezni i carinski sustav
+U Odsjeku za financiranje i porezni i carinski sustav izrađuje se prijedlog državnog proračuna za Ministarstvo i proračunske korisnike u nadležnosti Ministarstva, financiranje redovne djelatnosti ustanova i stručnih udruga iz djelokruga Ministarstva, prati i analizira trošenje proračunskih sredstava u skladu sa financijskim planovima, te prate i obrađuju pitanja vezana uz porezne i carinske olakšice i oslobođenja.
+9.2. Odjel za računovodstvo
+U Odjelu za računovodstvo organiziraju se, koordiniraju i prate svi stručni i operativni poslovi vezani uz sustav Državne riznice, izradu financijskih izvješća za Ministarstvo u skladu sa zakonom, kao i konsolidiranih izvješća za ustanove kulture, obračun plaća, blagajna i vođenje svih knjigovodstvenih evidencija i analitike u skladu sa zakonom i Pravilnikom o proračunskom računovodstvu i računskom planu; sudjeluje se u izradi državnog proračuna, te obavljaju i drugi poslovi po nalogu i naputku čelnika Odjela odnosno Uprave.
+U Odjelu se ustrojavaju:
+9.2.1. Odsjek za financijsko knjigovodstvo i likvidaturu
+U Odsjeku za financijsko knjigovodstvo i likvidaturu izrađuju se financijska izvješća za Ministarstvo u skladu sa zakonom, kao i konsolidirana izvješća za ustanove kulture, obračun plaća, blagajna i vođenje svih knjigovodstvenih evidencija i analitike u skladu sa zakonom i Pravilnikom o proračunskom računovodstvu i računskom planu.
+9.2.1.1. Odjeljak za financijsko knjigovodstvo i riznicu
+U Odjeljku za financijsko knjigovodstvo i riznicu obavljaju se poslovi obrade financijske dokumentacije, knjiženje i izrada bilance u skladu s Pravilnikom o proračunskom računovodstvu, te poslovi vezani uz sustav Državne riznice (planovi, zahtjevi, izvješća).
+9.2.1.2. Odjeljak likvidature i deviznog plaćanja
+U Odjeljku likvidature i deviznog plaćanja vrše se sva plaćanja po računima i ugovorima, devizna plaćanja, kao i vode sve potrebne evidencije o istima.
+9.2.2. Odsjek za plaće i blagajnu
+U Odsjeku za plaće vrši se obračun plaća za Ministarstvo i konzervatorske odjele, izrada svih izvješća vezanih za plaće u skladu sa zakonom, te poslovi vezani uz isplate po putnim nalozima, ugovorima o djelu, isplate troškova prijevoza, te devizna blagajna.
+9.2.2.1. Odjeljak za plaće
+U Odjeljku za plaće vrši se obračun plaća za Ministarstvo i konzervatorske odjele, te izrada svih izvješća vezanih za plaće u skladu sa zakonom.
+9.2.2.2. Odjeljak za blagajnu i osobne rashode
+U Odjeljku za blagajnu i osobne rashode obavljaju se poslovi vezani uz isplate po putnim nalozima, ugovorima o djelu, isplate troškova prijevoza, te devizna blagajna.
