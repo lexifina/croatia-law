@@ -1,0 +1,7 @@
+## III. 2. Ulaganja imovine za pokriće matematičke pričuve
+# Članak 5.
+(1) Vrijednost imovine za pokriće matematičke pričuve mora u svakom trenutku biti najmanje jednaka visini traženog pokrića.
+(2) Društvo za osiguranje mora krajem svakog tromjesečja za račun imovine za pokriće matematičke pričuve steći dodatnu imovinu ako je to nužno radi usklađivanja vrijednosti imovine za pokriće matematičke pričuve s visinom traženog pokrića.
+(3) Prema odredbama članka 120. Zakona o osiguranju, kod životnih osiguranja i zdravstvenih osiguranja kod kojih je nužno oblikovati matematičku pričuvu sukladno članku 107. stavku 5. Zakona, traženo pokriće obuhvaća pored matematičkih pričuva i pričuve za prijenosne premije, pričuve šteta te pričuve za bonuse i popuste.
+(4) Kod životnih osiguranja kod kojih ugovaratelj snosi rizik ulaganja, obračunava se matematička pričuva za pokriće rizika smrti, troškova obavljanja djelatnosti ili drugih rizika poput garantiranih isplata o dospijeću ili garantiranih otkupnih vrijednosti, na način propisan Mjerilima i načinom obračuna tehničkih pričuva iz članka 107. stavka 7. Zakona o osiguranju. Imovinu koja se odnosi na pokriće ove matematičke pričuve društvo ne smije ulagati u uzajamne, odnosno investicijske fondove s čijim društvima za upravljanje čini povezanu osobu.
+(5) Traženo pokriće izračunava se odvojeno za svaku vrstu osiguranja iz članka 121. stavka 1., odnosno članka 107. stavka 5. Zakona o osiguranju.

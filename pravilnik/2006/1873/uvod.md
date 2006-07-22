@@ -1,0 +1,1 @@
+Na temelju članka 101. stavak 1. t. 6. i 9.; članka 103. stavak 1. t. 6. i 7., članka 118. stavak 2. Zakona o osiguranju (»Narodne novine« br. 151/2005.) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 6. srpnja 2006. godine:
