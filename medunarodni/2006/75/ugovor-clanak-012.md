@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Diplomatske misije i konzularni uredi države jedne ugovorne stranke mogu izdavati jednokratne vize za ulazak na državno područje države te ugovorne stranke, s rokom valjanosti do devedeset (90) dana, državljanima države druge ugovorne stranke nositeljima valjanih putnih isprava koji putuju u organizirani turistički posjet - uz predočenje odgovarajuće potvrde turističke agencije odnosno vaučera o uplaćenom turističkom aranžmanu.
+(2) Osobama navedenim u stavku 1. ovoga članka vize se izdaju na osnovi potvrde odnosno vaučera, bez predočenja pozivnog pisma predviđenog unutarnjim zakonodavstvom država ugovornih stranaka.
+(3) Nadležna tijela ugovornih stranaka odlučit će o zahtjevu za izdavanje vize osobama navedenim u stavku 1. ovoga članka u roku ne duljem od dva (2) radna dana od dana kada diplomatska misija ili konzularni ured primi sve isprave potrebne za provedbu postupka za izdavanje vize.

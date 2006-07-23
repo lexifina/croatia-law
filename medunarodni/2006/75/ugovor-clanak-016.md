@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Državljani država ugovornih stranaka, čije su putne isprave izgubljene, oštećene, uništene ili nestale tijekom boravka na državnom području države druge ugovorne stranke, dužni su o tome izvijestiti nadležna tijela te ugovorne stranke, a ova su im dužna bez naplate izdati ispravu kojom se ta činjenica potvrđuje.
+(2) Na osnovi isprave izdane prema stavku 1. ovoga članka, diplomatska misija ili konzularni ured izdaje svojim državljanima nove putne isprave. Izlazak s državnog područja države druge ugovorne stranke za povratak u zemlju državljanstva dopustit će se na osnovi nove putne isprave te isprave iz stavka 1. ovoga članka, uz koje nije potrebna nikakva druga dozvola ili pristojba.

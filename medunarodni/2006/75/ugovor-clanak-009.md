@@ -1,0 +1,7 @@
+# Članak 9.
+(1) Diplomatske misije i konzularni uredi države jedne ugovorne stranke mogu izdavati višekratne vize s rokom valjanosti do jedne (1) godine, sljedećim kategorijama državljana države druge ugovorne stranke nositeljima valjanih putnih isprava te ugovorne stranke:
+- gospodarstvenicima koji redovito poslovno putuju na državno područje države druge ugovorne stranke - uz predočenje preporuke Hrvatske gospodarske komore odnosno Trgovinsko-industrijske komore Ukrajine ili nadležnih ministarstava ugovornih stranaka;
+- osnivačima, suosnivačima pravnih osoba ili ulagačima u državi druge ugovorne stranke, radi obavljanja poslova koji nemaju karakter radnog odnosa - uz predočenje odgovarajućih isprava,
+- članovima posade prijevoznih sredstava u međunarodnom željezničkom putničkom i robnom transportu, te članovima posade prijevoznih sredstava u međunarodnom cestovnom putničkom transportu - uz predočenje odgovarajućih isprava.
+(2) Osobama navedenim u stavku 1. ovoga članka vize se izdaju na osnovi navedenih preporuka, odnosno odgovarajućih isprava, bez predočenja pozivnog pisma predviđenog unutarnjim zakonodavstvom država ugovornih stranaka.
+(3) Nadležna tijela ugovornih stranaka odlučit će o zahtjevu za izdavanju vize osobama navedenim u stavku 1. ovoga članka u roku ne duljem od deset (10) radnih dana od dana kada diplomatska misija ili konzularni ured primi sve isprave potrebne za provedbu postupka za izdavanje vize.

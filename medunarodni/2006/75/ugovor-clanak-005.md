@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Državljani države jedne ugovorne stranke, nositelji pomorske odnosno brodarske knjižice, koji djeluju u okvirima svojih profesionalnih obveza, mogu bez vize ulaziti na državno područje države druge ugovorne stranke, prolaziti kroz njega i napuštati ga, uz uvjet da su upisani u popis članova posade.
+(2) Osobe iz stavka 1. ovoga članka mogu boraviti na državnom području države druge ugovorne stranke najviše do trideset (30) dana. Na osnovi pisanog podneska nadležnih tijela jedne ugovorne stranke, nadležna tijela druge ugovorne stranke mogu produljivati boravak, u skladu s unutarnjim zakonodavstvom.

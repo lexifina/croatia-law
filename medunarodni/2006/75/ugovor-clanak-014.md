@@ -1,0 +1,2 @@
+# Članak 14.
+Državljani države jedne ugovorne stranke nositelji valjanih putnih isprava navedenih u Dodatku ovom Sporazumu mogu ulaziti na državno područje države druge ugovorne stranke i napuštati ga na svim graničnim prijelazima otvorenima za međunarodni putnički promet, pod uvjetom da udovoljavaju uvjetima za ulazak, kretanje i boravak stranaca predviđenim unutarnjim zakonodavstvom države druge ugovorne stranke.
