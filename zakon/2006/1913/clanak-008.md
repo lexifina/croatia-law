@@ -1,0 +1,2 @@
+# Članak 8.
+Vlada Republike Hrvatske će razriješiti predsjednika, zamjenika predsjednika i člana Upravnog odbora ako svoju dužnost ne obavlja savjesno, u skladu sa Zakonom i drugim općim aktima Zaklade, ako nesudjelovanjem u radu na sjednicama ili na drugi način ne ispunjava svoje obveze, ako se utvrdi da ima osobne ili poslovne interese koji su suprotni interesima Zaklade, ili ne ispunjava koji od uvjeta iz članka 21. stavka 1. Zakona o zakladama i fundacijama.

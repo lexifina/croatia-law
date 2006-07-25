@@ -1,0 +1,3 @@
+# Članak 20.
+Upravni odbor Zaklade je obvezan dostaviti Upravnom odboru Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji izvješća iz članka 19. ovoga Zakona prije njihove dostave Vladi Republike Hrvatske radi razmatranja i davanja suglasnosti, a Statutom Zaklade mogu se utvrditi i kraća razdoblja za dostavu Upravnom odboru Fonda izvješća iz članka 19. ovoga Zakona.
+Upravni odbor je obvezan prije donošenja Statuta Zaklade, izmjena i dopuna Statuta Zaklade, Poslovnika o radu ili drugoga općeg akta kojim se utvrđuju pojedina pitanja ustrojstva ili rada Zaklade, iste dostaviti Upravnom odboru Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji radi razmatranja i davanja suglasnosti.
