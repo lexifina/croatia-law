@@ -1,0 +1,2 @@
+# Članak 21.
+Uvjete i mjerila za ostvarivanje prava na stipendiju tijekom redovitoga srednjoškolskog obrazovanja, redovitoga sveučilišnog i stručnog studija i prava na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima osobama iz članka 2. ovoga Zakona propisat će ministar znanosti, obrazovanja i športa uz suglasnost ministra obitelji, branitelja i međugeneracijske solidarnosti u roku od trideset dana od dana stupanja na snagu ovoga Zakona.

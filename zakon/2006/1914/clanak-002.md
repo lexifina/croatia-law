@@ -1,0 +1,2 @@
+# Članak 2.
+Fond se osniva sa svrhom ostvarenja prava na stipendiju tijekom redovitoga srednjoškolskog obrazovanja, redovitoga sveučilišnog i stručnog studija i prava na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima hrvatskim braniteljima iz Domovinskog rata, djeci smrtno stradalih hrvatskih branitelja iz Domovinskog rata, djeci zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata, hrvatskim ratnim vojnim invalidima iz Domovinskog rata i djeci HRVI iz Domovinskog rata, dragovoljaca i djeci dragovoljaca iz Domovinskog rata.
