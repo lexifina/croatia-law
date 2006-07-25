@@ -1,0 +1,22 @@
+# Članak 3.
+U ovom su Zakonu u uporabi pojmovi sa sljedećim značenjem:
+- »alpinist« je osoba koja je nakon školovanja i propisanih uvjeta i ispita stekla stručno zvanje u Hrvatskom planinarskom savezu,
+- »dežurstvo u gorskom spašavanju« je neposredna nazočnost u planinskom i drugim nepristupačnim područjima kod rizičnih događanja (masovni skupovi, pohodi, natjecanja, športske aktivnosti: penjanje, skijanje, rafting, paragliding, lov te druge aktivnosti poput razminiranja i dr.) radi preventivnog i trenutačnog djelovanja,
+- »gorska služba spašavanja« je služba osposobljena za spašavanje u planinskom području i na drugim neurbanim i teško pristupačnim područjima i pri nepovoljnim vremenskim uvjetima i drugim izvanrednim okolnostima,
+- »gorsko spašavanje« je niz radnji i postupaka za spašavanje ljudskog života, zdravlja i imovine u složenom pristupu unesrećenom i pružanje prve medicinske pomoći u planini i na drugim neurbanim i teško pristupačnim područjima,
+- »IKAR-CISA« je međunarodna udruga gorskih službi spašavanja,
+- »intervencijska sposobnost« je spremnost osoba i opreme za djelovanje u slučaju nesreće u planinskim i drugim nepristupačnim područjima,
+- »litice« su strme i okomite planinske padine po kojima je moguće kretanje (penjanje) samo uz uporabu planinarsko-alpinističkog znanja i posebne opreme,
+- »nepristupačna područja« su područja u kojima kretanje i transport nisu mogući uobičajenim javnim sredstvima bez posebnih znanja i vještina za spašavanje,
+- »nesreća« je događaj u planinskim i drugim nepristupačnim područjima koji ugrožava zdravlje i život ljudi, odnosno uzrokuje štetu,
+- »neuređena skijališta« su snijegom pokriveni planinski tereni na kojima se odvijaju razni oblici skijanja (turno, lang-lauf te tzv. planinarsko skijanje) koji se ne uređuju strojevima, niti postoji vertikalni transport (žičara),
+- »obuka za gorskog spašavatelja« je osposobljavanje pripadnika gorske službe spašavanja u okviru gorske službe, koje traje nekoliko godina, kroz tečajeve (zimskog, ljetnog i speleološkog spašavanja), vježbe i seminare,
+- »osposobljavanje i uvježbavanje spašavanja u planini« je obuka za stjecanje naslova gorskog spašavatelja, upoznavanje novih tehnika i opreme, održavanje stalne tjelesne pripremljenosti te održavanje alpinističkih, speleoloških, skijaških i drugih vještina i znanja te poznavanja prve pomoći,
+- »penjališta« su strma stjenovita područja uređena fiksnim klinovima i sidrištima u kojima se obavlja športsko penjanje,
+- »ponor« je strmina velikog nagiba po kojoj je nemoguće kretanje bez posebne opreme i alpinističkih znanja i vještina,
+- »pripravnost za spašavanje u planini« je stalna spremnost pripadnika Hrvatske gorske službe spašavanja (24 sata dnevno svakog dana u godini, bez obzira na vremenske uvjete) za spašavanje u planinskim i drugim nepristupačnim područjima,
+- »specifične aktivnosti« su aktivnosti u planinskim i drugim nepristupačnim područjima koja nisu dostupna nadležnim hitnim službama i u kojima se ugroženoj osobi može pristupiti uz primjenu sposobnosti, tehnike i opreme pripadnika Hrvatske gorske službe spašavanja,
+- »speleološki objekti« su špilje, jame, ponori i ostale prirodne šupljine u zemlji,
+- »stanica Hrvatske gorske službe spašavanja« je temeljna teritorijalna jedinica gorskog spašavanja kadrovski ekipirana i opremljena za samostalno djelovanje,
+- »uređena skijališta« su planinski tereni koji se uređuju strojevima, imaju organiziran vertikalni transport (žičara) te u vrijeme sezone i uredovnog vremena imaju stalnu dežurnu ekipu gorskih spašavatelja,
+- »veća nesreća« je događaj izazvan iznenadnim djelovanjem prirodnih sila, tehničko-tehnoloških ili drugih faktora koji ugrožava zdravlje ili život ljudi, odnosno uzrokuje štetu na materijalnim i drugim dobrima, a svojim razvojem može poprimiti karakteristike katastrofe.

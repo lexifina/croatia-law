@@ -1,0 +1,2 @@
+# Članak 22.
+Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj osoba iz članka 13. ovoga Zakona koja ugrožava vlastiti život i život, zdravlje i materijalna sredstva drugih osoba te se ne pridržava sigurnosnih upozorenja i uputa Hrvatske gorske službe spašavanja, kao i pravila ponašanja u športsko-turističkim objektima i prostorima, na skijaškim stazama i drugim planinskim i nepristupačnim područjima.

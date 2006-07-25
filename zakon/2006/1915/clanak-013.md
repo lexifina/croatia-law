@@ -1,0 +1,2 @@
+# Članak 13.
+Sudionici športskih, turističkih i drugih aktivnosti u planinskim i drugim nepristupačnim područjima dužni su pridržavati se sigurnosnih upozorenja i uputa Hrvatske gorske službe spašavanja, kao i pravila ponašanja u športsko-turističkim objektima i prostorima, na skijaškim stazama, planinskim i drugim nepristupačnim područjima tako da ne ugrožavaju vlastiti život te život, zdravlje i materijalna sredstva drugih osoba.
