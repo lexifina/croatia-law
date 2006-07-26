@@ -1,0 +1,1 @@
+Na temelju članka 94. stavka 1. Zakona o socijalnoj skrbi (»Narodne novine«, broj 73/97, 27/01, 59/01, 82/01, 103/03 i 44/06), uz prethodno pribavljena mišljenja jedinica područne (regionalne) samouprave ministar zdravstva i socijalne skrbi donosi
