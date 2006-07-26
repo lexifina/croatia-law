@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 2. Zakona o Upisniku sudskih i javnobilježničkih osiguranja tražbina vjerovnika na pokretnim stvarima i pravima (»Narodne novine« broj 121/05.) i članka 7. stavka 2. Pravilnika o obliku i sadržaju Upisnika te unutarnjem ustrojstvu i radu Službe upisa (»Narodne novine« broj 77/06.), ministar nadležan za poslove pravosuđa donosi
