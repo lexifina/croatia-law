@@ -1,0 +1,2 @@
+## TABELA
+# Članak 24.
