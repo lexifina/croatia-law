@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 5. Zakona o lovstvu (»Narodne novine«, broj 140/05.), i prethodnog mišljenja središnjeg tijela državne uprave nadležnog za poslove zaštite prirode (Ministarstvo kulture, Uprave za zaštitu prirode) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
