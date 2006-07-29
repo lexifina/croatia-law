@@ -1,0 +1,3 @@
+# Članak 28.
+U članku 39.a stavak 1. mijenja se i glasi:
+»(1) Vjerovnik koji predlaže pokretanje stečajnoga postupka dužan je pri podnošenju prijedloga uz sudsku pristojbu na prijedlog za pokretanje stečajnoga postupka uplatiti i dodatnu pristojbu u iznosu od 10.000,00 kuna radi osnivanja Fonda za pokriće troškova stečajnog postupka koji se ne mogu namiriti iz imovine dužnika (članak 63. stavak 4.), odnosno za predujmljivanje sredstava za vođenje stečajnog postupka dok se u tom postupku ne prikupe za to potrebna sredstva. Na pozivanje i naplatu ovih pristojbi na odgovarajući način se primjenjuju odredbe Zakona o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96., 137/02., 26/03. - pročišćeni tekst).«

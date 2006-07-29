@@ -1,0 +1,3 @@
+# Članak 80.
+Članak 179. mijenja se i glasi:
+»Ako je u vrijeme otvaranja stečajnog postupka već pokrenut parnični postupak o tražbini pred državnim ili arbitražnim sudom, postupak radi utvrđivanja tražbine nastavit će se preuzimanjem te parnice. Prijedlog za nastavak parnice može staviti vjerovnik čija je tražbina osporena, u roku od 8 dana od primitka rješenja o upućivanju u parnicu. Osporavatelj parnicu nastavlja u ime i za račun dužnika. Ako vjerovnik osporene tražbine koji je upućen na parnicu ne predloži nastavak parnice u tom roku, smatrat će se da je odustao od prava na vođenje parnice.«
