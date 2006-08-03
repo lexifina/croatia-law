@@ -1,0 +1,5 @@
+# Članak 73.
+Sukladno aktu iz članka 72. ovoga Zakona Zavod u skladu s utvrđenim potrebama za popunu osnovne mreže zdravstvene djelatnosti u pravilu svake treće godine objavljuje natječaj za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za provođenje zdravstvene zaštite iz obveznoga zdravstvenog osiguranja u djelatnostima na primarnoj, specijalističko-konzilijarnoj i bolničkoj zdravstvenoj zaštiti.
+Na temelju ponuda zdravstvenih ustanova i privatnih zdravstvenih radnika za provođenje zdravstvene zaštite prema objavljenom natječaju, Zavod, uz suglasnost ministra nadležnog za zdravstvo, donosi odluku o izboru najpovoljnijih ponuditelja.
+Zdravstvena ustanova, odnosno privatni zdravstveni radnik koji je podnio ponudu iz stavka 2. ovoga članka, a koji nije izabran, može zahtijevati da o izboru odluči arbitraža.
+U arbitražu iz stavka 3. ovog članka imenuju se po dva predstavnika Zavoda, jedan predstavnik nadležne komore, jedan predstavnik podnositelja ponude te jedan predstavnik ministarstva nadležnog za zdravstvo.

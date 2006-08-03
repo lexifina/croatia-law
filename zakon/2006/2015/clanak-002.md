@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Zakonom uređuje sustav obveznoga zdravstvenog osiguranja u Republici Hrvatskoj koje provodi Zavod, opseg prava na zdravstvenu zaštitu i druga prava i obveze osoba osiguranih prema ovom Zakonu, uvjeti i način njihova ostvarivanja i financiranja kao i prava i obveze nositelja obveznoga zdravstvenog osiguranja, uključujući i prava i obveze ugovornih subjekata nositelja provedbe zdravstvene zaštite.

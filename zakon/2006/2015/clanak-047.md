@@ -1,0 +1,4 @@
+# Članak 47.
+Naknada plaće pripada osiguraniku u visini propisanoj ovim Zakonom, odnosno propisima i općim aktima donesenim na temelju ovoga Zakona pod uvjetom, da prije dana nastanka slučaja na osnovi kojeg se stječe pravo na naknadu ima ostvaren staž osiguranja u Zavodu na temelju radnog odnosa ili obavljanja gospodarske djelatnosti, odnosno obavljanja profesionalne djelatnosti samostalno u obliku zanimanja od najmanje 12 mjeseci neprekidno ili 18 mjeseci s prekidima u posljednje dvije godine (prethodno osiguranje).
+Osiguraniku, koji ne ispunjava uvjet prethodnog osiguranja iz stavka 1. ovoga članka, naknada plaće, za sve vrijeme trajanja bolovanja, pripada u iznosu od 25% od proračunske osnovice, osim u slučaju korištenja prava na obvezni rodiljni dopust.
+NOVČANA NAKNADA ZBOG NEMOGUĆNOSTI OBAVLJANJA POSLOVA NA TEMELJU KOJIH SE OSTVARUJU PRIMICI OD KOJIH SE UTVRĐUJE DRUGI DOHODAK SUKLADNOPROPISIMA O DOPRINOSIMA ZA OBVEZNA OSIGURANJA

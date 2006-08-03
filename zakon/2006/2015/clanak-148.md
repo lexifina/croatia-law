@@ -1,0 +1,2 @@
+# Članak 148.
+Do dana stupanja na snagu posebnog zakona kojim će se urediti pitanje ostvarivanja prava na pomoć za opremu novorođenog djeteta kao i isplate novčane naknade za vrijeme rodiljnog dopusta nezaposlenih majki, majki na redovitom školovanju i nezaposlenih majki korisnica invalidske mirovine zbog profesionalne nesposobnosti za rad ostaje na snazi Pravilnik o uvjetima i načinu korištenja prava za pomoć za opremu novorođenog djeteta (»Narodne novine«, br. 58/94.).

@@ -1,0 +1,5 @@
+# Članak 34.
+Pravo na naknadu plaće za vrijeme bolovanja radi njege osigurane osobe - člana uže obitelji (djeteta i supružnika) iz članka 31. točke 5. ovoga Zakona s kojima osiguranik živi u zajedničkom kućanstvu traje za svaku utvrđenu bolest najviše do 6 radnih dana, a za djecu do 7 godina starosti do 12 radnih dana.
+Iznimno, ako doktor medicine primarne zdravstvene zaštite ocijeni da postoje opravdani razlozi vezani uz zdravstveno stanje člana obitelji iz stavka 1. ovoga članka, može produljiti trajanje prava na potrebu njege, ali najviše do 30 radnih dana za njegu djeteta do 7 godina starosti te do 14 radnih dana za njegu djeteta iznad 7 godina starosti, odnosno supružnika.
+Ako je prema ocjeni doktora medicine primarne zdravstvene zaštite zdravstveno stanje člana obitelji - djeteta do 18. godine života takvo da duljina trajanja njege roditelja određena u stavku 2. ovoga članka neće biti dostatna, potrebno trajanje njege određuje liječničko povjerenstvo koje imenuje Zavod.
+Pod zajedničkim kućanstvom u smislu stavka 1. ovoga članka smatra se zajednica života, privređivanja i trošenja ostvarenih prihoda obitelji.

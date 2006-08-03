@@ -1,0 +1,2 @@
+# Članak 75.
+Vrsta, opseg, kvaliteta i rokovi za ostvarivanje ugovorene zdravstvene zaštite iz obveznoga zdravstvenog osiguranja prema standardima i normativima za pojedine djelatnosti na razini primarne, specijalističko-konzilijarne i bolničke zdravstvene zaštite te cijene, način obračuna i rokovi plaćanja zdravstvene zaštite, nadzor nad ostvarivanjem ugovornih obveza, ugovorne kazne zbog neizvršavanja ugovornih obveza, uvjeti pod kojima dolazi do raskida ugovora kao i druga međusobna prava i obveze ugovornih strana određuju se ugovorom iz članka 74. stavka 1. ovoga Zakona.

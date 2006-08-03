@@ -1,0 +1,3 @@
+# Članak 25.
+U prihod iz članka 23. ovoga Zakona uračunava se: naknada za vrijeme privremene spriječenosti za rad (bolovanje), naknada za rodiljni dopust, novčana naknada za slučaj nezaposlenosti, pomoć za uzdržavanje, doplatak za pripomoć u kući, pomoć za podmirenje troškova stanovanja, doplatak za pomoć i njegu, doplatak za djecu, ortopedski doplatak, osobna invalidnina, opskrbnina i obiteljska invalidnina ostvareni prema posebnim propisima.
+Prihod iz članka 23. ovoga Zakona umanjuje se za iznos koji na temelju propisa o obitelji član obitelji plaća za uzdržavanje osobe koja nije član te obitelji.

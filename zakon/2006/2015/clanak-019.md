@@ -1,0 +1,2 @@
+# Članak 19.
+Standarde i normative zdravstvene zaštite iz obveznoga zdravstvenog osiguranja, uključujući popis vrsta i broja terapijskih i dijagnostičkih postupaka po osiguranoj osobi na godišnjoj razini, iznos potrebnih sredstava u skladu s osiguranim sredstvima, kao i način ostvarivanja prava osiguranih osoba na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja u pravilu, za svaku kalendarsku godinu donosi upravno vijeće Zavoda uz suglasnost ministra nadležnog za zdravstvo, po prethodno pribavljenom mišljenju nadležnih komora.

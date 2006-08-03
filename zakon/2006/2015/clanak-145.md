@@ -1,0 +1,2 @@
+# Članak 145.
+Osigurane osobe koje su na dan stupanja na snagu ovoga Zakona zatečene u statusu zdravstveno osigurane osobe utvrđenom prema članku 5. točki 13., 14., 16. i 17. Zakona o zdravstvenom osiguranju (»Narodne novine«, br. 94/01., 88/02., 149/02., 117/03., 30/04., 177/04. i 90/05.) zadržavanju taj status u trajanju od najviše 24 mjeseca bez prijave u evidenciju nezaposlenih osoba kod Hrvatskog zavoda za zapošljavanje.

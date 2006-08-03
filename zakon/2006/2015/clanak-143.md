@@ -1,0 +1,3 @@
+# Članak 143.
+Osigurane osobe koje su započele ostvarivati pravo na zdravstvenu zaštitu i druga prava koja proizlaze iz obveznog zdravstvenog osiguranja prije stupanja na snagu ovoga Zakona, od dana njegova stupanja na snagu ostvaruju ta prava prema njegovim odredbama.
+Osobe iz stavka 1. ovoga članka koje prema odredbama ovoga Zakona ne ispunjavaju propisane uvjete za korištenje prava priznatog prema dosadašnjim propisima, nastavljaju započeto korištenje tim pravom prema odredbama ovoga Zakona kao da ispunjavaju uvjete propisane ovim Zakonom, odnosno na temelju ovoga Zakona, sve dok traje bolest i potreba liječenja.

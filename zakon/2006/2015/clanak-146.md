@@ -1,0 +1,3 @@
+# Članak 146.
+Osigurane osobe Zavoda koje su pravo na oslobađanje od pokrića dijela troškova zdravstvene zaštite ostvarile na temelju Zakona o oslobađanju od plaćanja dijela troškova zdravstvene zaštite (»Narodne novine«, br. 32/02 i 30/04). zadržavaju to pravo i nakon stupanja na snagu ovoga Zakona, a najdulje do isteka važenja potvrde iz članka 9. toga Zakona.
+Od dana stupanja na snagu dopunske liste lijekova Zavoda iz članka 16. stavka 4. ovoga Zakona osigurana osoba ne može na temelju potvrde iz stavka 1. ovoga članka ostvariti pravo na oslobađanje od plaćanja doplate za lijekove s dopunske liste lijekova Zavoda.

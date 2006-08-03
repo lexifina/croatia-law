@@ -1,0 +1,22 @@
+# Članak 139.
+Do stupanja na snagu propisa iz članka 137. i 138. ovoga Zakona ostaju na snazi:
+1. Pravilnik o pravima, uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja (»Narodne novine«, br. 93/03., 158/03., 198/03., 81/04., 174/04., 30/05., 62/05. i 112/05),
+2. Pravilnik o načinu ostvarivanja prava osiguranih osoba Hrvatskog zavoda za zdravstveno osiguranje na slobodan izbor doktora medicine i doktora stomatologije primarne zdravstvene zaštite (»Narodne novine«, br. 106/04.),
+3. Pravilnik o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući (»Narodne novine«, br. 26/96., 79/97., 31/99., 51/99. i 73/99.),
+4. Pravilnik o sastavu, ovlastima i načinu rada liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 76/02. i 73/03.),
+5. Pravilnik o načinu propisivanja, izdavanja i naplaćivanja lijekova (»Narodne novine », br. 155/05. i 24/06.),
+6. Pravilnik o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala (»Narodne novine«, br. 25/05., 41/05., 88/05., 125/05., 155/05., 24/06., 36/06. i 46/06.),
+7. Pravilnik o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2006. godinu (»Narodne novine«, br. 155/05.),
+8. Pravilnik o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu (»Narodne novine », br. 76/02., 43/03., 198/03., 30/05., 155/05., 12/06. - pročišćeni tekst i 24/06.),
+9. Pravilnik o načinu prijavljivanja i odjavljivanja, te trajanju statusa osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja (»Narodne novine«, br. 28/02., 43/03. i 51/05.),
+10. Pravilnik o uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja za provođenje zdravstvene njege u kući (»Narodne novine«, br. 76/02.),
+11. Pravilnik o rokovima najduljeg trajanja bolovanja ovisno o vrsti bolesti (»Narodne novine«, br. 5/03.),
+12. Pravilnik o načinu obavljanja kontrole poslovanja ugovornih subjekata i ustrojstvenih jedinica Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 32/03.),
+13. Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 19/06.),
+14. Odluka o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja (»Narodne novine«, br. 28/02., 11/03., 158/03., 161/04., 51/05. i 155/05.),
+15. Odluka o maksimalnom trajanju postupaka zdravstvene njege u kući (»Narodne novine«, br. 73/99.),
+16. Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2006. godinu (»Narodne novine«, br. 26/06.),
+17. Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnoga zdravstvenog osiguranja za 2006. godinu (»Narodne novine«, br. 26/06.),
+18. Odluka o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 26/06.),
+19. Odluka o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi (»Narodne novine«, br. 15/92., 29/93., 65/93., 31/95., 73/99., 3/00., 18/00., 118/01., 44/02., 76/02., 85/02., 92/02., 130/02., 151/02., 11/03., 32/03., 43/03., 203/03., 30/05. i 88/05.),
+20. Pravilnik o mjerilima i postupku za utvrđivanje nesposobnosti za samostalan život i rad i nedostatak sredstava za uzdržavanje za osobe s prebivalištem u Republici Hrvatskoj kojima se zdravstvena zaštita ne osigurava po drugoj osnovi (»Narodne novine«, br. 39/02.).
