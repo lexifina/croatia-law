@@ -1,0 +1,1 @@
+Na temelju odredbi članka 26. stavka 2. Zakona o zaštiti okoliša (»Narodne novine«, br. 82/94. i 128/99.) i članka 12. Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine«, br. 199/03, 30/04, 136/04, 22/05 i 44/06.) ministrica zaštite okoliša, prostornog uređenja i graditeljstva donosi
