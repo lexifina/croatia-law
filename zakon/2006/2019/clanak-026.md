@@ -1,0 +1,5 @@
+# Članak 26.
+Iznimno od odredbe članka 25. ovoga Zakona, tijela carinske službe mogu, na zahtjev uvoznika, na temelju suglasnosti graničnog sanitarnog inspektora ocariniti pošiljku i bez dokaza o njezinoj zdravstvenoj ispravnosti ako je pošiljka podvrgnuta zdravstvenom nadzoru.
+Suglasnost iz stavka 1. ovoga članka dostavlja se inspektoru nadležnom za obavljanje zdravstvenog nadzora u mjestu isporuke, odnosno skladištenja.
+Suglasnost iz stavka 1. ovoga članka sadrži i podatke o mjestu i uvjetima skladištenja, načinu prijevoza i obvezama skladištara i uvoznika te druge uvjete važne za očuvanje zdravstvene ispravnosti pošiljke.
+Uvoznik ne smije stavljati na tržište niti prerađivati pošiljku iz stavka 1. ovoga članka do donošenja rješenja kojim se utvrđuje da je pošiljka zdravstveno ispravna. Ako se laboratorijskim ispitivanjima utvrdi da pošiljka iz stavka 1. ovoga članka, glede zdravstvene ispravnosti, ne udovoljava propisanim uvjetima, uvoznik će o svojemu trošku postupiti u skladu s rješenjem donesenim na temelju ovlasti iz članka 29. ovoga Zakona.
