@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 10. stavka 2. Uredbe o osnivanju Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom (»Narodne novine«, br. 116/2003 i 48/2004), Vlada Republike Hrvatske je na sjednici održanoj 3. kolovoza 2006. godine donijela
