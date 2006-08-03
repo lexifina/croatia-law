@@ -1,0 +1,3 @@
+# Članak 76.
+Osigurane osobe koje su do dana stupanja na snagu ovoga Zakona započele ostvarivati pravo na zdravstvenu zaštitu i druga prava koja proizlaze iz osnovnoga zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti sukladno Zakonu o zdravstvenom osiguranju (»Narodne novine«, br. 94/01., 88/02., 149/02., 117/03., 30/04., 177/04. i 90/05.) nastavljaju koristiti prava utvrđena tim Zakonom kod Hrvatskog zavoda za obvezno zdravstveno osiguranje na teret sredstava Zavoda.
+Danom stupanja na snagu općih akata iz članka 73. ovoga Zakona osigurane osobe prava iz stavka 1. ovoga članka nastavljaju koristiti kod Zavoda.

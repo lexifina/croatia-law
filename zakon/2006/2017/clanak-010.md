@@ -1,0 +1,4 @@
+# Članak 10.
+Za prava na zdravstvenu zaštitu iz članka 12. ovoga Zakona za slučaj profesionalne bolesti u statusu osigurane osobe osigurani su i umirovljenici te nezaposlene osobe koje su bile profesionalno izložene fibrogenim prašinama ili karcinogenima ako su bile zaposlene kod pravnih ili fizičkih osoba s registriranom djelatnošću u Republici Hrvatskoj.
+Pored osoba iz stavka 1. ovoga članka za prava na zdravstvenu zaštitu za slučaj ozljede na radu i profesionalne bolesti osigurani su i umirovljenici te nezaposlene osobe kojima je bolest, odnosno ozljeda neposredna posljedica priznate ozljede na radu, odnosno profesionalne bolesti.
+Sredstva za zdravstvenu zaštitu osoba iz stavka 1. i 2. ovoga članka osiguravaju se iz sredstava doprinosa za zaštitu zdravlja na radu sukladno posebnome zakonu.

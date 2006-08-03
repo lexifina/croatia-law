@@ -1,0 +1,5 @@
+# Članak 16.
+Privremenu nesposobnost osiguranika za rad uzrokovanu ozljedom na radu, odnosno profesionalnom bolešću utvrđuje doktor specijalist medicine rada u zdravstvenoj ustanovi, odnosno trgovačkom društvu koje u svom sastavu ima djelatnost medicine rada ili specijalist medicine rada u privatnoj praksi, odnosno liječničko povjerenstvo Hrvatskog zavoda za medicinu rada, sukladno općem aktu koji donosi Zavod uz suglasnost ministra nadležnog za zdravstvo.
+Nadzor nad ostvarivanjem prava s osnove privremene nesposobnosti za rad sukladno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavlja Zavod.
+Poslodavac osiguranika može zahtijevati od Zavoda kontrolu opravdanosti korištenja prava s osnove privremene nesposobnosti za rad osiguranika.
+O utvrđenoj privremenoj nesposobnosti osiguranika kao i o prestanku privremene nesposobnosti osiguranika za rad doktor specijalist medicine rada iz stavka 1. ovoga članka obvezno u roku od 3 dana dostavlja obavijest izabranom doktoru medicine primarne zdravstvene zaštite osiguranika sukladno Zakonu o obveznom zdravstvenom osiguranju.
