@@ -1,0 +1,6 @@
+# Članak 9.
+U članku 26. stavku 1. riječi: »zdravstveni radnik srednje stručne spreme« zamjenjuju se riječima: »zdravstveni radnik prvostupnik, zdravstveni radnik više ili srednje stručne spreme«.
+Stavak 2. mijenja se i glasi:
+»Poslove u zdravstvenoj djelatnosti na primarnoj razini obavljaju doktori medicine, specijalisti obiteljske (opće) medicine, specijalisti medicine rada, specijalisti medicine rada i sporta i specijalisti školske medicine u timu s medicinskom sestrom-medicinskim tehničarom, doktori stomatologije u timu sa stomatološkim asistentom, odnosno medicinskom sestrom-medicinskim tehničarom, specijalisti epidemiologije, zdravstvene ekologije i javnog zdravstva, specijalisti medicinske biokemije, odnosno osobe sa završenim diplomskim sveučilišnim studijem medicinske biokemije u timu s osobom sa završenim preddiplomskim sveučilišnim ili stručnim studijem laboratorijske dijagnostike, odnosno laboratorijskim tehničarom te magistri farmacije u timu s farmaceutskim tehničarom.«
+U stavku 3. iza riječi: »pedijatrije« dodaju se riječi: »u timu s medicinskom sestrom - medicinskim tehničarom«, a iza riječi: »ginekologije« dodaju se riječi: »u timu s medicinskom sestrom-medicinskim tehničarom ili primaljom.«
+U stavku 4. iza riječi: »školskog uzrasta« dodaju se riječi: »osoba starijih od 65 godina«.

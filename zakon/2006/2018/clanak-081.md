@@ -1,0 +1,2 @@
+# Članak 81.
+Zdravstvenim radnicima kojima je do dana stupanja na snagu ovoga Zakona dano odobrenje ministra nadležnog za zdravstvo za rad u svojoj struci izvan punoga radnog vremena, ali ne dulje od jedne trećine punoga radnog vremena, koristeći prostor i medicinsko-tehničku opremu zdravstvene ustanove kod koje su u radnom odnosu prestaje rad izvan punoga radnog vremena danom stupanja na snagu ovoga Zakona.
