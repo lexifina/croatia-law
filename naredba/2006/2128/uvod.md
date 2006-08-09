@@ -1,0 +1,1 @@
+Na temelju članka 50. točke 3. i 7., a u svezi sa člankom 5., člankom 6. stavkom 1. i 3. i člankom 65. Zakona o biljnom zdravstvu (»Narodne novine« br. 75/05), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi

@@ -1,0 +1,2 @@
+# Članak 4.
+Zavod za herbologiju Agronomskog fakulteta u Zagrebu i Zavod za zaštitu bilja u poljoprivredi i šumarstvu Republike Hrvatske, provodit će program posebnog nadzora Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva nad ovom štetnom biljnom vrstom, u cilju istraživanja raširenosti na području Republike Hrvatske, određivanja intenziteta zakorovljenosti, postojanja rezistentnosti i polimorfnosti, te izrade preporuka i informiranja javnosti o mjerama suzbijanja.
