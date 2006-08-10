@@ -1,0 +1,92 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala (»Narodne novine« broj 25/05., 41/05., 88/05., 125/05., 155/05., 24/06., 36/06. i 46/06. - u daljnjem tekstu: Pravilnik) u Popisu pomagala iz članka 3. Pravilnika pod rednim brojem:
+- 110. i 111. u stupcu 6. riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 113. do 117. u stupcu 6. riječi: »Liječničko povjerenstvo za pomagala Direkcije« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 122. u stupcu 6. riječi: »Liječničko povjerenstvo za pomagala Direkcije« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 125. u stupcu 6. riječi: »Liječničko povjerenstvo za pomagala Direkcije« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 127. u stupcu 6. riječi: »Liječničko povjerenstvo za pomagala Direkcije« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 129. do 138. u stupcu 6. riječi: »Liječničko povjerenstvo za pomagala Direkcije« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 141. i 142. u stupcu 6. riječi: »Liječničko povjerenstvo za pomagala Direkcije« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 143. do 184. u stupcu 6. riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«
+- 197. u stupcu broj 14 briše se zagrada i riječi: »gotov proizvod«
+- 216. u stupcu broj 13 riječ: »serijski« zamjenjuje se riječju: »individualno«
+- 282. u stupcu broj 9 broj: »1« zamjenjuje se riječima: »do 2«, u stupcu broj 12 broj: »85« zamjenjuje se brojem: »170«, a tekst u stupcu broj 14 briše se
+- 283. u stupcu broj 9 broj: »1« zamjenjuje se riječima: »do 2«, u stupcu broj 12 broj: »75« zamjenjuje se brojem: »150«, a tekst u stupcu broj 14 briše se
+- 284. u stupcu broj 9 broj: »1« zamjenjuje se riječima: »do 2«, u stupcu broj 12 broj: »80« zamjenjuje se brojem: »160«, a tekst u stupcu broj 14 briše se
+- 285. u stupcu broj 9 broj: »1« zamjenjuje se riječima: »do 2«, u stupcu broj 12 broj: »80« zamjenjuje se brojem: »160«, a tekst u stupcu broj 14 briše se
+- 286. do 291. tekst u stupcu broj 14 briše se
+- 292. u stupcu broj 6 iza riječi: »pomagala« dodaje se riječ: »Direkcije«
+- 304. u stupcu broj 5 iza riječi: »izabrani doktor« dodaje se zarez i riječi: »ortoped, fizijatar«
+- 334. u stupcu broj 5 iza riječi: »kirurg,« dodaje se riječ: »dermatovenerolog«, a u stupcu 14. dodaje se tekst: » kao kompresivna terapija kod ulcusa crurisa koji je u tretmanu pokrivalima, te kod dokazane tromboze«
+- 352. i 353. u stupcu broj 14 riječ: »nekoliko« zamjenjuje se riječju: »više«
+- 354. u stupcu broj 9 broj: »10« zamjenjuje se brojem: »20«, a u stupcu broj 12 broj: »91,70« zamjenjuje se brojem: »183,40«
+- 355. u stupcu broj 9 broj: »10« zamjenjuje se brojem: »20«, a u stupcu broj 12 broj: »173,40« zamjenjuje se brojem: »346,80«
+- 356. u stupcu broj 9 broj: »10« zamjenjuje se brojem: »20«, a u stupcu broj 12 broj: »331,40« zamjenjuje se brojem: »662,80«
+- 367. u stupcu broj 9 broj: »10« zamjenjuje se brojem: »30«, a u stupcu broj 12 broj: »84,10« zamjenjuje se brojem: »252,30«
+- 368. u stupcu broj 9 broj: »10« zamjenjuje se brojem: »30«, a u stupcu broj 12 broj: »88,50« zamjenjuje se brojem: »265,50«
+- 374. u stupcu broj 8 brišu se riječi: »15 g«, a u stupcu broj 9 broj: »10« zamjenjuje se riječima: »150 g«
+- 375. u stupcu broj 9 broj: »10« zamjenjuje se riječima: »150 g«
+- 376. u stupcu broj 9 broj: »1« zamjenjuje se brojem: »2«, a u stupcu broj 12 broj: »100,00« zamjenjuje se brojem: »200,00«
+- 377. u stupcu broj 9 broj: »1« zamjenjuje se brojem: »2«, a u stupcu broj 12 broj: »476,00« zamjenjuje se brojem: »952,00«
+- 378. tekst u stupcu broj 14 mijenja se i glasi: » odobrava se osiguranoj osobi kod amputacije dojke«
+- 383. u stupcu broj 9 riječi:« 30 vrećica« zamjenjuju se riječima: »30 do 60 vrećica«, a u stupcu broj 12 iza broja: »399,60« dodaju se riječi: »do 799,20 (odobrena količina x 13,32)«
+- 384. u stupcu broj 9 riječi:« 30 vrećica« zamjenjuju se riječima: »30 do 60 vrećica«, a u stupcu broj 12 iza broja: »326,40« dodaju se riječi: » do 652,80 (odobrena količina x 10,88)«
+- 385. u stupcu broj 9 riječi:« 30 vrećica i 10 baznih pločica« zamjenjuju se riječima: »30 do 60 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »222,00 162,20 zamjenjuju se riječima: » 222,00 do 444,00 i 162,20 do 324,40 (odobrena količina x 7,40 vr., odnosno x 16,22 pl.)«
+- 386. u stupcu broj 9 riječi: »30 vrećica i 10 baznih pločica« zamjenjuju se riječima: »30 do 60 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »234,90 171,50« zamjenjuju se riječima: » 234,90 do 469,80 i 171,50 do 343,00 (odobrena količina x 7,83 vr., odnosno x 17,15 pl.)«
+- 387. u stupcu broj 9 riječi:« 30 vrećica i 10 baznih pločica« zamjenjuju se riječima: »30 do 60 vrećica i 10 do 20 baznih pločica », a u stupcu broj 12 brojevi: »234,90 171,50 » zamjenjuju se riječima: » 234,90 do 469,80 i 171,50 do 343,00 (odobrena količina x 7,83 vr., odnosno x 17,15 pl.)«
+- 388. u stupcu broj 9 riječi:« 30 vrećica i 10 baznih pločica« zamjenjuju se riječima: »30 do 60 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »234,90 171,50 » zamjenjuju se riječima: »234,90 do 469,80 i 171,50 do 343,00 (odobrena količina x 7,83 vr., odnosno x 17,15 pl.)«
+- 389. u stupcu broj 9 riječi: »30 vrećica i 10 baznih pločica« zamjenjuju se riječima: »30 do 60 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »221,10 204,00« zamjenjuju se riječima: »221,10 do 442,20 i 204,00 do 408,00 (odobrena količina x 7,37 vr., odnosno x 20,40 pl.)«
+- 390. u stupcu broj 9 riječi:« 30 vrećica i 10 baznih pločica« zamjenjuju se riječima: »30 do 60 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »221,10 204,00« zamjenjuju se riječima: » 221,10 do 442,20 i 204,00 do 408,00 (odobrena količina x 7,37 vr., odnosno x 20,40 pl.)«
+- 391. u stupcu broj 9 riječi:« 30 zatvarača« zamjenjuju se riječima: »30 do 60 zatvarača«, a u stupcu broj 12 iza broja: »279,60« dodaju se riječi: »do 559,20 (odobrena količina x 9,32)«
+- 392. u stupcu broj 9 riječi: »30 vrećica« zamjenjuju se riječima: »30 do 60 vrećica«, a u stupcu broj 12 iza broja: »498,30« dodaju se riječi: » do 996,60 (odobrena količina x 16,61)«
+- 393. u stupcu broj 9 riječi: »30 vrećica i 2 kvačice« zamjenjuju se riječima: »30 do 60 vrećica », a u stupcu broj 12 iza broja: »372,60« dodaju se riječi: » do 745,20 (odobrena količina x 12,42)«
+- 394. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »134,90 171,50« zamjenjuju se riječima: »134,90 do 269,80 i 171,50 do 343,00 (odobrena količina x 13,49 vr., odnosno x 17,15 pl.)«
+- 395. u stupcu broj 9 riječi:« 10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »134,90 171,50« zamjenjuju se riječima: »134,90 do 269,80 i 171,50 do 343,00 (odobrena količina x 13,49 vr., odnosno x 17,15 pl.)«
+- 396. u stupcu broj 9 riječi:« 10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »134,90 171,50« zamjenjuju se riječima: »134,90 do 269,80 i 171,50 do 343,00 (odobrena količina x 13,49 vr., odnosno x 17,15 pl.)«
+- 397. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »134,90 171,50« zamjenjuju se riječima: »134,90 do 269,80 i 171,50 do 343,00 (odobrena količina x 13,49 vr., odnosno x 17,15 pl.)«
+- 398. u stupcu broj 9 riječi:« 10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »166,50 203,40« zamjenjuju se riječima: » 166,50 do 333,00 i 203,40 do 406,80 (odobrena količina x 16,65 vr., odnosno x 20,34 pl.)«
+- 399. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »166,50 203,40« zamjenjuju se riječima: »166,50 do 333,00 i 203,40 do 406,80 (odobrena količina x 16,65 vr., odnosno x 20,34 pl.)«
+- 400. u stupcu broj 9 riječi: »30 zatvarača« zamjenjuju se riječima: »30 do 60 zatvarača«, a u stupcu broj 12 iza broja: »279,60« dodaju se riječi: »do 559,20 (odobrena količina x 9,32)«
+- 405. tekst u stupcu broj 14 mijenja se i glasi: »kod erozije kože oko stome«
+- 406. tekst u stupcu broj 14 mijenja se i glasi: » kod erozije kože oko stome, te kod parastomalnog dermatitisa«
+- 407. u stupcu broj 9 broj: »4« zamjenjuje se riječima: »do 12«, a u stupcu broj 12 broj: »143,20« zamjenjuje se riječima: » do 429,60 (odobrena količina x 35,80)«
+- 408. u stupcu broj 9 riječi: »30 vrećica i 2 adaptera« zamjenjuju se riječima: »30 do 60 vrećica », a u stupcu broj 12 iza broja:»619,50« dodaju se riječi: »do 1.239,00 (odobrena količina x 20,65)«
+- 409. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, tekst u stupcu broj 11 zamjenjuje se riječima: » vr. 18,32 pl. 20,40«, a brojevi u stupcu broj 12 zamjenjuju se riječima: »183,20 do366,00 i 204,00 do 408,00 (odobrena količina x 18,32 vr., odnosno x 20,40 pl.)«
+- 410. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »199,30 170,10« zamjenjuju se riječima: »199,30 do 398,60 i 170,10 do 340,20 (odobrena količina x 19,93 vr., odnosno x 17,01 pl.)«
+- 411. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu broj 12 brojevi: »199,30 170,10« zamjenjuju se riječima: »199,30 do 398,60 i 170,10 do 340,20 (odobrena količina x 19,93 vr., odnosno x 17,01 pl.)«
+- 412. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, a u stupcu 12 brojevi: »199,30 170,10« zamjenjuju se riječima: »199,30 do 398,60 i 170,10 do 340,20 (odobrena količina x 19,93 vr., odnosno x 17,01 pl.)«
+- 413. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, tekst u stupcu broj 11 zamjenjuje se riječima: » vr.18,32 pl. 20,40«, a brojevi u stupcu broj 12 zamjenjuju se riječima: »183,20 do 366,00 i 204,00 do 408,00 (odobrena količina x 18,32 vr., odnosno x 20,40 pl.)«
+- 414. u stupcu broj 9 riječi: »10 vrećica i 10 baznih pločica« zamjenjuju se riječima: »10 do 20 vrećica i 10 do 20 baznih pločica«, tekst z stupcu broj 11 zamjenjuje se riječima: »vr.18,32 pl. 20,40«, a brojevi u stupcu broj 12 zamjenjuju se riječima: »183,20 do 366,00 i 204,00 do 408,00 (odobrena količina x 18,32 vr., odnosno x 20,40 pl.)«
+- 432. u stupcu broj 9 broj: »1100« zamjenjuje se brojem: »1830«, a u stupcu broj 12 broj: »1.925,00« zamjenjuje se brojem: »3.202,50«
+- 433. u stupcu broj 9 broj: »1100« zamjenjuje se brojem: »1460«, a u stupcu broj 12 broj: »2.475,00« zamjenjuje se brojem: »3.285,00«
+- 434. u stupcu broj 9 broj: »1100« zamjenjuje se brojem: »1460«, a u stupcu broj 12 broj: »3.278,00« zamjenjuje se brojem: »4.350,80«
+- 465. u stupcu broj 5 riječi: »internist dijabetolog« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«
+- 467. u stupcu broj 5 riječi: » internist dijabetolog« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«
+- 469. u stupcu broj 5 riječi: »internist dijabetolog, izabrani doktor« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«, a tekst u stupcu broj 14 mijenja se i glasi: »liječenje šećerne bolesti inzulinom u više oblika inzulina, dvije i više doza dnevno«
+- 478. u stupcu 5. riječi: »internist, pedijatar, dijabetolog« zamjenjuju se riječima: »internist, internist dijabetolog, pedijatar dijabetolog«
+- 479. u stupcu 5. riječi: » internist dijabetolog« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«
+- 481. u stupcu 5. riječi: » internist dijabetolog« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«, a tekst u stupcu broj 14 mijenja se i glasi: »osobe koje šećernu bolest liječe tabletama ili primaju inzulin jedan puta dnevno, a koje dnevno provode više od jedne kontrole glukoze, uz predočenje dnevnika samokontrole«
+- 483. u stupcu 5. riječi: »internist dijabetolog, izabrani doktor« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«, a tekst u stupcu broj 14 mijenja se i glasi: »osobe koje u liječenju šećerne bolesti primaju inzulin dva do tri puta dnevno i koje dnevno provode više od jedne kontrole glukoze, uz predočenje dnevnika samokontrole«
+- 484. u stupcu 5. riječi: »internist dijabetolog« zamjenjuju se riječima: »internist, internist dijabetolog, izabrani doktor«, u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala«, u stupcu broj 9 broj: »1000« zamjenjuje se brojem: »1500«, a u stupcu broj 12 broj: »4.450,00« zamjenjuje se brojem: »6.675,00«
+- 575. do 577. u stupcu broj 5 briše se riječ: »klinike«
+- 579. i 580. u stupcu broj 5 briše se riječ: »klinike«
+- 581. do 589. u stupcu broj 6. briše se riječ: »Direkcije«
+- 596. u stupcu broj 10 pod II brišu se riječi: »3 god.«, a tekst u stupcu broj 14 mijenja se i glasi: »kontraindikacija su kronične upalne promjene vanjskog zvukovoda uha, egzostoze i druge malformacije«
+- 597. u stupcu broj 14 na kraju teksta upisuje se zarez i dodaju riječi: » nagluhost 93 dB i više«
+- 600. u stupcu broj 10 pod I brišu se riječi: »2 god.«, pod II brišu se riječi: »5 god.«, a tekst u stupcu broj 14 mijenja se i glasi: » kontraindikacija je kronična upalna promjena«
+- 609. u stupcu broj 9 broj: »24« zamjenjuje se brojem: »18«, a u stupcu broj 12 broj: »252,00**« zamjenjuje se brojem: »189,00**«
+- 610. u stupcu broj 9 broj: »24« zamjenjuje se brojem: »18«, a u stupcu broj 12 broj: »235,20**« zamjenjuje se brojem: »176,40**«
+- 611. u stupcu broj 9 broj: »24« zamjenjuje se brojem: »18«, a u stupcu broj 12 broj: »171,12**« zamjenjuje se brojem: »128,34**«
+- 612. u stupcu broj 9 broj: »24« zamjenjuje se brojem: »18«, a u stupcu broj 12 broj: »171,12**« zamjenjuje se brojem: »128,34**«
+- 613. u stupcu broj 9 broj: »24« zamjenjuje se brojem: »18«, a u stupcu broj 12 broj: »182,40**« zamjenjuje se brojem: »136,80**«
+- 618. do 637. u stupcu 10. pod II, III i IV riječi: »3 god.« zamjenjuju se riječima: »1 god.«
+- 638. u stupcu broj 6 briše se riječ: »Direkcije«
+- 642. u stupcu broj 10 pod II brišu se riječi: »10 god.«, pod IV upisuju se riječi: »10 god.« ; a tekst u stupcu broj 14 mijenja se i glasi: » osobe s potpunim gubitkom sluha koje žive same ili u kućanstvu s osobama koje također imaju potpuni gubitak sluha«
+- 643. i 644. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: » Liječničko povjerenstvo za pomagala Direkcije«
+- 645. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: » Liječničko povjerenstvo za pomagala Direkcije, a u stupcu broj 10 pod I, II, III, i IV riječi: »1 god.« zamjenjuje se riječima: » 3 god.«
+- 646. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala Direkcije«, a tekst u stupcu broj 14 mijenja se i glasi: »kod osigurane osobe koja je ostvarila pravo na govornu protezu«
+- 647. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala Direkcije«, a u stupcu broj 14 dodaju se riječi: »kod osigurane osobe koja je ostvarila pravo na govornu protezu«
+- 648. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala Direkcije«, u stupcu broj 9 broj: »30« zamjenjuju se brojem: »400«, u stupcu broj 11 broj: »585,40« zamjenjuje se brojem: »29,27«, u stupcu broj 12 broj: »17.562,00« zamjenjuje se brojem: »11.708,00«, a u stupcu broj 14 dodaju se riječi: »nakon totalne laringektomije, trajna traheostoma«
+- 649. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: » Liječničko povjerenstvo za pomagala Direkcije«, u stupcu broj 10 pod I, II, III i IV riječi: »1 god.« zamjenjuje se riječima: »3 god.«,
+- 650. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala Direkcije«, u stupcu broj 9 broj: »30« zamjenjuju se brojem: »250«, u stupcu broj 11 broj: »680,00« zamjenjuje se brojem: »34,00«, u stupcu broj 12 broj: »20.400,00« zamjenjuje se brojem: »8.500,00«, a u stupcu broj 14 dodaju se riječi: »nakon totalne laringektomije, trajna traheostoma«
+- 651. do 664. u stupcu broj 6 riječi: »Liječničko povjerenstvo PU« zamjenjuje se riječima: »Liječničko povjerenstvo za pomagala Direkcije«.
