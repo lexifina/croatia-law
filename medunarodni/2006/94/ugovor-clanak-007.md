@@ -1,0 +1,7 @@
+# Članak 7.
+OPĆE ODREDBE O RAZMJENI INFORMACIJA
+1. Ugovorne stranke razmjenjuju informacije samo u svrhu i u skladu s odredbama ovog Sporazuma.
+2. Razmjena informacija kao što je to pobliže određeno ovim Sporazumom vrši se između Europola i Odsjeka Europola MUP-a. Ugovorne stranke će se pobrinuti da se razmjena informacija može odvijati 24 sata dnevno. Odsjek Europola MUP-a će se pobrinuti da se informacije mogu razmjenjivati bez odgode s nadležnim tijelima kao što je to navedeno u članku 6. stavak 1. ovog Sporazuma.
+3. Europol će Republici Hrvatskoj dostaviti samo one informacije koje su prikupljene, pohranjene i poslane u skladu s relevantnim odredbama Konvencije i njenih provedbenih odredbi.
+4. Republika Hrvatska će Europolu dostaviti samo one informacije koje su prikupljene, pohranjene i poslane u skladu sa svojim nacionalnim propisima. U tom kontekstu Europol će biti obvezan prema članku 4. stavak 4. Zakona Vijeća od 3. studenog 1998. koji definira pravila u vezi zaprimanja informacija od strane Europola.
+5. Pojedinci imaju pravo pristupa informacijama koje se odnose na njih, koje su poslane prema ovom Sporazumu, i pravo da te informacije provjere, isprave ili izbrišu, u skladu s nacionalnim propisima Republike Hrvatske ili primjenjivim odredbama Konvencije. U slučajevima kada se koristi to pravo, stranka-pošiljatelj će biti konzultirana prije donošenja konačne odluke o zahtjevu.

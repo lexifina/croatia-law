@@ -1,0 +1,6 @@
+# Članak 16.
+ODGOVORNOST
+1. Republika Hrvatska je sukladno svom nacionalnom zakonodavstvu odgovorna za bilo kakvu štetu nanesenu pojedincu, a koja je rezultat pravnih ili stvarnih grešaka u informacijama razmijenjenim s Europolom. Republika Hrvatska se neće opravdavati time da je Europol dostavio netočne podatke kako bi izbjegla svoju odgovornost prema svojim nacionalnim propisima, a u odnosu na oštećene stranke.
+2. Ako su te pravne i stvarne greške rezultat greškom priopćenih informacija ili nepoštivanja obveza od strane Europola ili zemalja članica Europske unije ili neke treće stranke, Europol će biti dužan na zahtjev platiti iznose koji se plaćaju kao naknada prema stavku 1., osim kad je informacija korištena protivno ovom Sporazumu.
+3. U slučajevima kad je Europol obvezan platiti zemljama članicama Europske unije ili nekoj trećoj stranci novčanu naknadu za štetu nanesenu oštećenoj stranci, a šteta je rezultat nepoštivanja obveza koje Republika Hrvatska ima prema ovom Sporazumu, Republika Hrvatska se obvezuje, na zahtjev, naknaditi iznose koje je Europol isplatio zemljama članicama ili nekoj trećoj stranci.
+4. Ugovorne stranke neće tražiti jedna od druge naknadu štete prema gore navedenim stavcima 2. i 3. u mjeri u kojoj je naknada štete provedena kao kaznena, povećana ili nekompenzacijska šteta.
