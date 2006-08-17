@@ -1,0 +1,5 @@
+# Članak 12.
+Podnaslov ispred članka 67. i članak 67. mijenjaju se i glase:
+»Odjel za strance
+Članak 67.
+Odjel za strance obavlja poslove koji se odnose na izvješćivanje stranih DM/KU o postupanjima prema strancima na osnovi Bečke konvencije o konzularnim odnosima; deportaciju stranaca iz Republike Hrvatske; prosljeđivanje i dostavu upravnih i drugih akata hrvatskih državnih tijela, koji se odnose na strance; dostavu stranim DM/KU isprava i ostalih predmeta u vlasništvu stranaca; izdavanja diplomatskih odobrenja za prelet i slijetanje stranih državnih i vojnih zrakoplova te uplovljavanje stranih državnih i vojnih brodova; ishođenje diplomatskih odobrenja za prelet i slijetanje hrvatskih državnih i vojnih zrakoplova i uplovljavanje hrvatskih državnih i vojnih brodova; posredovanje u vezi s ishođenjem odobrenja za ulazak u Republiku Hrvatsku i/ili prelazak stranih vojnih osoba i vozila te vojnih transporta; izrada izvješća, naputaka i stručnih mišljenja koji se odnose na poslove iz djelokruga Odjela, te obavlja i druge poslove iz svog djelokruga.«
