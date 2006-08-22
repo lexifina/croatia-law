@@ -1,0 +1,5 @@
+# Članak 3.
+TRAJANJE I VREMENSKI ROK
+Za predmetnu MJERU, NOVČANA POTPORA EZ-a na raspolaganju je za ugovaranje do 30. studenoga 2007. podložno odredbama ovog Sporazuma. Svi ugovori moraju biti potpisani do tog datuma. Bilo kakav ostatak sredstava iz NOVČANA POTPORA EZ-a koji do tog datuma nije ugovoren bit će ukinut.
+Krajnji rok za izvršenje ugovora u sklopu NOVČANA POTPORA EZ-a je 30. studenoga 2008. uz iznimku projekta HR/2005/5/6 Tempus (PHARE/2005/017-779), gdje je krajnji rok za izvršenje ugovora 28. veljače 2010. KOMISIJA se ipak, u iznimnim okolnostima, može suglasiti s odgovarajućim produženjem razdoblja za ugovaranje ili razdoblja za izvršenje ugovora, ukoliko PRIMATELJ to pravovremeno zatraži i valjano opravda.
+Isplate sredstava mogu se nastaviti do 12 mjeseci nakon krajnjeg roka za izvršenje ugovora kako bi se ispunile obveze opravdano nastale tijekom izvršenja ugovora koji su sklopljeni pod ovim programom. Ovaj Sporazum o financiranju ističe nakon što su završene takve isplate. Sva sredstva koje se do tog vremena nije isplatilo vraćaju se Komisiji.
