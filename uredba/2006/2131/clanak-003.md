@@ -1,0 +1,4 @@
+# Članak 3.
+Mobilizirani građani koji nisu u radnom odnosu, a ostvaruju pravo na novčanu naknadu zbog nezaposlenosti, za vrijeme mobilizacije imaju pravo na novčanu naknadu u iznosu koji se dobije kada se od iznosa neto isplaćene plaće u Republici Hrvatskoj za prethodno razdoblje odbije iznos novčane naknade koju mobilizirani građanin mjesečno prima s osnova privremene nezaposlenosti.
+Mobilizirani građani koji nisu u radnom odnosu i ne ostvaruju pravo na novčanu naknadu zbog nezaposlenosti za vrijeme mobilizacije imaju pravo na novčanu naknadu u visini neto isplaćene plaće u Republici Hrvatskoj za prethodno razdoblje.
+Zahtjev za isplatu novčane naknade iz stavaka 1. i 2. ovog članka mobilizirani građanin podnosi na obrascu »Zahtjev za isplatu« koji je u prilogu ove Uredbe i čini njen sastavni dio (Prilog 2).
