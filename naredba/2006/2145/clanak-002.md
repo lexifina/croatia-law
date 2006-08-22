@@ -1,0 +1,2 @@
+# Članak 2.
+Za pokriće troškova ispitivanja sukladnosti izvora optičkog zračenja i uređaja s ugrađenim izvorima optičkog zračenja i mjerenja razine ozračenja, snage i energije te drugih značajki izvora optičkog zračenja, podnositelji zahtjeva plaćaju naknadu utvrđenu ovom naredbom i Tarifom naknade za ispitivanje izvora optičkog zračenja i mjerenje razine ozračenja (u daljnjem tekstu: Tarifa), koja je dana u dodatku ove naredbe i čini njen sastavni dio.

@@ -1,0 +1,1 @@
+Na temelju članka 36. Pravilnika o temeljnim zahtjevima koji proizvode optičko zračenje te uvjetima i mjerama zaštite od optičkog zračenja (»Narodne novine« broj 204/03) ministar zdravstva i socijalne skrbi donosi
