@@ -1,0 +1,2 @@
+# Članak 6.
+U svezi s člankom 16. Srednjoeuropskog ugovora o slobodnoj trgovini, Protokol 7a, koji se odnosi na definiciju »proizvoda s podrijetlom« te načine administrativne suradnje primjenjivat će se umjesto Protokola 7 s obzirom na trgovinu između Republike Makedonije i bilo koje druge stranke, a u skladu s odredbama Dodatka članku 6., koji je sastavni dio ovog Ugovora. Protokol 7a, koji je sastavni dio Dodatka ovog članka, zamijenit će Protokol 7a iz članka 6. Ugovora o pristupanju Republike Hrvatske Srednjoeuropskom ugovoru o slobodnoj trgovini (CEFTA-i).
