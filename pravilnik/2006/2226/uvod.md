@@ -1,0 +1,1 @@
+Na temelju članka 73. stavka 3. Zakona o izvršavanju kazne zatvora (»Narodne novine«, broj 190/03. - pročišćeni tekst) i članka 118. stavak 3. Zakona o kaznenom postupku (»Narodne novine«, broj 63/03. - počišćeni tekst), ministrica pravosuđa donosi
