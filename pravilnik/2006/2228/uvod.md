@@ -1,0 +1,1 @@
+Na osnovi članka 17., a u svezi s člankom 139. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 85/06.) i članka 19. podstavka 11. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 35. sjednici održanoj 24. kolovoza 2006. godine donijelo je
