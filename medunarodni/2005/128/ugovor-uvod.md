@@ -1,0 +1,3 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I KABINETA MINISTARA UKRAJINE O UZAJAMNOJ ZAŠTITI TAJNOSTI PODATAKA
+Vlada Republike Hrvatske i Kabinet ministara Ukrajine (u daljnjem tekstu: stranke), s ciljem jačanja političke, vojne, gospodarske, pravne, znanstvene i tehničke suradnje između stranaka, voljne osigurati zaštitu svih tajnih podataka nastalih suradnjom ili razmjenom između stranaka, potvrđujući da ovaj Sporazum neće utjecati na obveze stranaka proizašle iz drugih međunarodnih sporazuma te da se neće koristiti protiv interesa, sigurnosti i teritorijalne cjelovitosti drugih država,
+sporazumjele su se kako slijedi:
