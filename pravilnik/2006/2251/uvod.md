@@ -1,0 +1,1 @@
+Na temelju članka 22. stavak 2. Zakona o investicijskim fondovima (»Narodne novine«, br. 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 31. kolovoza 2006. godine
