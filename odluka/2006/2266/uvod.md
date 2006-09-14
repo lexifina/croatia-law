@@ -1,0 +1,1 @@
+Temeljem članka 30. Zakona o financiranju jedinica lokalne (područne) samouprave (»Narodne novine« br. 117/93; 69/97; 33/00; 127/00 i 59/01) te članaka 14. i 44. Statuta grada Pregrade (»Službeni glasnik Krapinsko-zagorske županije« broj 22-09/01), Gradsko vijeće grada Pregrade na sjednici održanoj 6. lipnja 2006. godine, donijelo je
