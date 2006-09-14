@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), a u vezi s člankom 19.h stavkom 1. točkom 12. Zakona o plovidbi unutarnjim vodama (»Narodne novine«, br. 19/98 i 151/2003), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 2006. godine donijela
