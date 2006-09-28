@@ -1,0 +1,2 @@
+# Članak 24.
+Odsjek za mjerila u zdravstvu i veterinarstvu obavlja poslove ispitivanja tipa mjerila te razvoj postupaka i metoda ispitivanja mjerila u zdravstvu, vodi propisane evidencije te sudjeluje u izradi propisa iz područja djelovanja Odsjeka. Odsjek nadalje sudjeluje u radu Odbora međunarodnih i europskih organizacija s državnim tijelima i ustanovama Republike Hrvatske u području mjerila u zdravstvu i veterinarstvu, te prati stanje i predlaže mjere za zakonito i stručno obavljanje poslova u području rada Odsjeka.

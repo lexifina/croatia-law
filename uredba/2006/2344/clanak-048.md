@@ -1,0 +1,4 @@
+# Članak 48.
+Odsjek za mjerenja mase obavlja poslove nacionalnoga mjeriteljskog laboratorija za masu, poslove ispitivanja u postupcima ocjene sukladnosti mjerila mase s propisanim mjeriteljskim zahtjevima, obavlja umjeravanja etalona mase niže mjeriteljske razine. Odsjek sudjeluje u međulaboratorijskim usporedbenim ispitivanjima u području mjerenja mase, održava međunarodnu akreditaciju u području mjerenja mase, prati razvoj na području mjerenja mase, te sudjeluje u radu međunarodnih tijela i ekspertnih skupina u području masenog mjeriteljstva.
+Odsjek sudjeluje u radu odbora međunarodnih i regionalnih mjeriteljskih organizacija iz područja mjerenja mase, te surađuje s nacionalnim laboratorijima za masu drugih država, sudjeluje u međunarodnim i europskim projektima usporedbenih mjerenja mase, prati europske i međunarodne projekte iz područja mase te sudjeluje na tim projektima.
+5.3. Odsjek za fizikalno-kemijska mjerenja

@@ -1,0 +1,3 @@
+# Članak 42.
+Odsjeci za plemenite kovine i kemijska mjerenja u područnim jedinicama u Zagrebu, Rijeci, Splitu i Osijeku obavljaju upravne i stručne poslove koji se odnose na provođenje zakona i podzakonskih akata u području ispitivanja, označavanja i žigosanja (potvrđivanja) predmeta od plemenitih kovina, ispitivanja njihovih slitina i referencijskih materijala. Odsjeci obavljaju ovlašćivanje proizvođača predmeta od plemenitih kovina, vode postupke za dodjelu znaka proizvođača odnosno znaka sukladnosti predmeta od plemenitih kovina, te vode propisane evidencije o znakovima proizvođača (znakovima sukladnosti), ispitanim i žigosanim predmetima od plemenitih kovina i obavljenim kemijskim mjerenjima.
+4.2. Odjel za homologaciju
