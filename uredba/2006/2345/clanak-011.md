@@ -1,0 +1,4 @@
+# Članak 11.
+Ministarstvo će po primitku odluke iz članka 9. ove Uredbe i ovjerenog parcelacijskog elaborata, zatražiti od Hrvatskih šuma d.o.o. obračun naknade za služnost za predmetno zemljište.
+Obračun naknade za služnost na šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske, u iznosu do 50.000,00 kuna plaća se jednokratno prije sklapanja ugovora o služnosti na šumama i šumskom zemljištu (u daljnjem tekstu: Ugovor o služnosti). Ukoliko obračun iznosi više od 50.000,00 kuna, ovlaštenik prava služnosti mora platiti 50.000,00 kuna jednokratno prije sklapanja Ugovora o služnosti, a preostali iznos u najviše tri jednogodišnje rate.
+Naknada se uplaćuje na žiro-račun Trgovačkog društva Hrvatske šume d.o.o., a utvrđuje se prema posebnom propisu kojom se uređuje naknada za prenesena ili ograničena prava na šumi ili šumskom zemljištu.
