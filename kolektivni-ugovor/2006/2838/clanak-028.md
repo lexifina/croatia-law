@@ -1,0 +1,2 @@
+# Članak 28.
+Poslodavac je dužan izvijestiti Sindikate jedanput godišnje o stanju sigurnosti i zaštite na radu i primati primjedbe zaposlenih na primjenu propisa i provedbu mjera zaštite pri radu. Radnici imaju pravo izabrati svoga povjerenika zaštite na radu koji mora biti obaviješten o svim promjenama od utjecaja na sigurnost i zdravlje zaposlenih i primati primjedbe zaposlenih na primjenu propisa i provedbu mjera zaštite na radu.
