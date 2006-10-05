@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 4. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 66/2001, 87/2002, 48/2005 i 90/2005),Vlada Republike Hrvatske je na sjednici održanoj 5. listopada 2006. godine, donijela
