@@ -1,0 +1,1 @@
+Na temelju članka 53. stavka 6. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine« br. 87/02, 117/03, 82/04, 12/05 i 85/06), ministar poljoprivrede, šumarstva i vodnoga gospodarstva, donosi
