@@ -1,0 +1,7 @@
+# Članak 4.
+Članak 49. mijenja se i glasi:
+»Odjel pravnih i kadrovskih poslova priprema, usklađuje, izrađuje i upućuje u proceduru nacrte prijedloga zakona i drugih propisa iz djelokruga Zavoda, daje mišljenje na nacrte prijedloga zakona i drugih propisa iz djelokruga drugih središnjih tijela državne uprave, prati primjenu, provedbu i promjene u zakonodavstvu Republike Hrvatske, izrađuje pravilnike, naredbe, upute i druge akte iz djelokruga Zavoda, daje stručna mišljenja i objašnjenja u vezi s primjenom i provedbom zakona, drugih propisa i akata iz djelokruga Zavoda, izrađuje nacrte ugovora i sporazuma iz djelokruga Zavoda, daje stručno mišljenje na dostavljene nacrte ugovora i sporazuma, izrađuje sve ugovore koje Zavod sklapa s pravnim i fizičkim osobama, pruža stručnu pravnu pomoć svim ustrojstvenim jedinicama Zavoda, obavlja sve druge pravne poslove Zavoda.
+Brine se o upravljanju kadrovima i njihovu razvoju, daje stručna mišljenja koja se odnose na državnu službu, priprema prijedlog plana prijama u državnu službu, sudjeluje u izradi strategija, programa i planova izobrazbe za Zavod, vodi osobne očevidnike službenika i namještenika, brine se o ostvarivanju prava, obveza i odgovornosti državnih službenika i namještenika, izrađuje sva rješenja, odluke i ugovore iz radnih odnosa, izrađuje izvješća o stanju kadrova, obavlja uslužne poslove, daje stručnu pravnu pomoć.
+U Odjelu pravnih i kadrovskih poslova ustrojavaju se:
+10.1.1. Odsjek za pravne poslove
+10.1.2. Odsjek za razvoj i upravljanje kadrovima.«.

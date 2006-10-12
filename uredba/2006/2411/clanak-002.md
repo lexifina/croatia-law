@@ -1,0 +1,6 @@
+# Članak 2.
+Članak 4. mijenja se i glasi:
+»U Kabinetu ravnatelja obavljaju se administrativni, protokolarni, koordinacijski, korespondencijski, prevoditeljski, analitički i razvojni poslovi; poslovi u vezi s obavješćivanjem javnosti i odnosima sa sredstvima javnog priopćavanja; poslovi vezani za Hrvatski sabor, Vladu Republike Hrvatske i središnja tijela državne uprave; poslovi u vezi s evidencijom i pohranom povjerljive pošte; poslovi vezani za uvođenje i održavanje sustava upravljanja kvalitetom te drugi stručni i administrativni poslovi za službene potrebe ravnatelja; poslovi međunarodne suradnje s tijelima Europske unije (dalje u tekstu: EU) i zemalja članica, drugih zemalja i međunarodnih organizacija; poslovi na pripremi i koordiniranju zajedničkih nacionalnih stanovišta u izradi novih akata pravnog naslijeđa Europskih zajednica; poslovi na pripremi programskih dokumenata Državnog zavoda za statistiku (dalje u tekstu: Zavod) i sudjelovanja u pripremi programskih dokumenata drugih središnjih tijela državne uprave; poslovi na pripremi i provedbi projekata financiranih iz predpristupnih fondova EU-a i darovnica.
+U Kabinetu ravnatelja ustrojavaju se:
+1.1. Odjel za međunarodnu suradnju
+1.2. Odjel za provedbu projekata.«.
