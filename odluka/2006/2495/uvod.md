@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. Zakona o priređivanju igara na sreću i nagradnih igara (»Narodne novine«, br. 83/2002 i 149/2002) i točke I. Odluke o broju koncesija koje se daju priređivačima igara na sreću u casinima na području Republike Hrvatske (»Narodne novine«, broj 132/2002), Vlada Republike Hrvatske je na sjednici održanoj 13. listopada 2006. godine donijela
