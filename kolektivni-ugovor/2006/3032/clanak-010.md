@@ -1,0 +1,4 @@
+# Članak 10.
+Poslodavac će sukladno važećim propisima koji se odnose na područje zaštite na radu, procijeniti rizike za sigumost i zdravlje radnika na radu, uključujući i one kojima su izvrgnute skupine radnika te odlučiti o zaštitnim mjerama koje će se primjenjivati i ukoliko je potrebno, o zaštitnoj opremi koja će se upotrijebiti.
+Poslodavac će radnike i njihove predstavnike (radničko vijeće i povjerenika za zaštitu na radu) u skladu sa važećim propisima koji se odnose na zaštitu na radu i Zakon o radu obavještavati o opasnostima za sigumost zdravlja, o zaštitnim mjerama općenito i na radnom mjestu i o mjerama koje poslodavac poduzima da bi radnici biti pravodobno obaviješteni o ozbiljnim i neizbježnim opasnostima i potrebi hitnog napuštanja radnog mjesta u takvim slučajevima.
+Poslodavac je dužan osigurati sudjelovanje povjerenika za zaštitu na radu u izradi procjene opasnosti i revizije procjene opasnosti.
