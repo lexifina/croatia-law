@@ -1,0 +1,1 @@
+Na temelju Zakona o arhivskom gradivu i arhivima (»Narodne novine« br. 105/97 i 63/2004), članka 17. Pravilnika o zaštiti i čuvanju arhivskog i registraturnog gradiva izvan arhiva (»Narodne novine« br. 63/2004) i Pravilnika o vrednovanju te postupku odabiranja i izlučivanja arhivskoga gradiva (»Narodne novine« br. 90/2002) ravnatelj donosi

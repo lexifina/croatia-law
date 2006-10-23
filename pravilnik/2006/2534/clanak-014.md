@@ -1,0 +1,5 @@
+# Članak 14.
+Dokumentacija u pismohrani treba biti uredno odložena na police, odnosno u drugu za to namijenjenu opremu. Ne smije se držati na podu, stolovima ili drugim mjestima koja nisu namijenjena za njezino odlaganje.
+Dokumentacija u pismohrani razvrstava se i odlaže prema klasifikacijskim oznakama, za određeno razdoblje nastanka. Unutar pojedinih cjelina dokumentacija se odlaže prema redu koji je primjeren pojedinoj cjelini.
+Ako se u pismohrani čuva i dokumentacija drugog stvaratelja, takva se dokumentacija odlaže zasebno.
+Tehničke jedinice u koje je dokumentacija uložena (fascikli, mape, kutije i dr.) trebaju biti označene tako da je razvidno koja se dokumentacija nalazi u pojedinoj tehničkoj jedinici. Na prikladno mjesto na tehničkoj jedinici ispisuje se: naziv stvaratelja, broj (broj tehničke jedinice), sadržaj (klasifikacijska oznaka ili raspon oznaka sadržane dokumentacije ili kratki izraz koji primjereno identificira vrstu ili prirodu sadržane dokumentacije), godina nastanka.

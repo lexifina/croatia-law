@@ -1,0 +1,3 @@
+# Članak 5.
+Službe i zaposlenici DUZS dužni su završene predmete i drugu dokumentaciju u svezi sa završenim poslovima, odnosno dokumentaciju koja im više nije potrebna u tekućem poslovanju, predati nadležnoj pisarnici ili službi najkasnije u roku od godinu dana po zaključenju predmeta.
+Ravnatelj DUZS, pomoćnik ravnatelja ili pročelnik Područnog ureda može, ako priroda posla to zahtijeva, iznimno odrediti da se određena dokumentacija čuva izvan nadležne pisarnice ili službe i u roku duljem od godinu dana. U odluci o tome obvezno se imenuje i osoba koja će biti zadužena za skrb o toj dokumentaciji do predaje u pisarnicu, odnosno nadležnu službu.

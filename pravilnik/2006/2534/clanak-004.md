@@ -1,0 +1,4 @@
+# Članak 4.
+Za dokumentaciju u obradi skrbe se pisarnice DUZS. Pisarnica se, kao služba ili poslovna funkcija, odnosno zaduženje zaposlenika obvezno ustrojava pri sjedištu DUZS (za Kabinet ravnatelja, Odjel za unutarnju kontrolu i Službu zajedničkih poslova), Službi za vatrogastvo, Službi za civilnu zaštitu, Službi za sustav 112, Učilištu vatrogastva i zaštitu i spašavanje te u Područnim uredima za zaštitu i spašavanje DUZS.
+Skrb za određene cjeline dokumentacije, kao što su službene evidencije s pripadajućom dokumentacijom, tehnička i slična dokumentacija u svezi s poslovima u nadležnosti pojedine službe, može se povjeriti službi koja je vodi ili koristi.
+Za svaku pisarnicu i službu kojoj je povjerena skrb za određenu cjelinu dokumentacije obvezno se utvrđuje osoba zadužena za evidentiranje, zaštitu i postupanje s pripadajućom dokumentacijom.

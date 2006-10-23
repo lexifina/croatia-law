@@ -1,0 +1,6 @@
+# Članak 7.
+Sve pisarnice i službe koje skrbe za dokumentaciju sukladno članku 4. ovoga Pravilnika ili po bilo kojoj drugoj osnovi dužne su tu dokumentaciju redovito i pravovremeno evidentirati i popisati te nadležnoj pismohrani do kraja prvog tromjesečja u godini dostaviti popis dokumentacije koju posjeduju, sa stanjem na kraju prethodne godine.
+Sve pisarnice i službe iz prethodnog stavka dužne su dokumentaciju koja više nije potrebna u tekućem poslovanju predati nadležnoj pismohrani najkasnije u roku od dvije godine.
+Odlukom ravnatelja DUZS, pomoćnika ravnatelja ili pročelnika područnog ureda može se odrediti da se određena cjelina dokumentacije ne predaje u pismohranu u roku iz prethodnog stavka, odnosno da se u duljem roku zadrži u pisarnici ili službi kod koje se nalazi.
+U odluci iz prethodnog stavka potrebno je točno utvrditi na koju se dokumentaciju odnosi, da li će se i u kojem drugom roku predati nadležnoj pismohrani te tko je zadužen skrbiti se za takvu dokumentaciju.
+Pisarnice i službe koje čuvaju dokumentaciju i nakon roka iz stavka 2. ovoga članka dužne su u svezi s tom dokumentacijom obavljati poslove koji su ovim Pravilnikom utvrđeni kao poslovi pismohrane, a odnose se na evidentiranje, čuvanje i korištenje dokumentacije u pismohrani.
