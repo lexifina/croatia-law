@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 70., 72. i 78. a u svezi članka 69. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 49/99., 63/00., 103/03. i 177/04.) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj dana 19. listopada 2006.
