@@ -1,0 +1,5 @@
+# Članak 17.
+POGORŠANJE PROFESIONALNE BOLESTI
+U slučaju pogoršanja profesionalne bolesti za koju je hrvatski ili danski državljanin primao ili prima davanja prema zakonodavstvu jedne ugovorne stranke, primijenit će se sljedeća pravila:
+a) ako korisnik, za vrijeme primanja davanja, nije obavljao poslove prema zakonodavstvu druge ugovorne stranke koji su mogli uzrokovati ili pogoršati tu bolest, nadležni nositelj prve ugovorne stranke obvezan je snositi davanja, prema svojem zakonodavstvu, uzimajući u obzir i pogoršanje,
+b) ako je korisnik, za vrijeme primanja davanja, bio zaposlen prema zakonodavstvu druge ugovorne stranke, na poslovima koji su mogli uzrokovati ili pogoršati tu bolest, nadležni je nositelj prve ugovorne stranke obvezan snositi davanja prema svojem zakonodavstvu, ne uzimajući u obzir pogoršanje. U tom slučaju, nadležni će nositelj druge ugovorne stranke priznati dodatak korisniku, a njegova će se svota odrediti prema zakonodavstvu koje on primjenjuje i bit će jednaka razlici između davanja koja pripadaju nakon pogoršanja i onih koja bi mu pripadala prije pogoršanja, da je do bolesti došlo prema zakonodavstvu te ugovorne stranke.

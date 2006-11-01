@@ -1,0 +1,6 @@
+# Članak 31.
+ZBRAJANJE RAZDOBLJA
+1. Danski državljani imaju pravo na davanja na temelju hrvatskog zakonodavstva uz iste uvjete kao i hrvatski državljani, bez obzira na to jesu li stalno nastanjeni na području Republike Hrvatske ili Kraljevine Danske.
+2. Ne ispunjava li osoba uvjete za stjecanje prava na mirovinu samo na temelju razdoblja osiguranja navršenih prema hrvatskom zakonodavstvu, razdoblja prebivanja navršena u Kraljevini Danskoj uzet će se u obzir ako je osoba bila zaposlena ili je bila samostalni djelatnik prema danskom zakonodavstvu najmanje 12 mjeseci.
+3. Ne ispunjava li osoba uvjete za ostvarivanje prava na davanja primjenom stavka 2. ovoga članka, hrvatski nadležni nositelj uzet će u obzir i razdoblja osiguranja ili druga priznata razdoblja koja su državljani ugovornih stranaka navršili u trećim državama s kojima je Republika Hrvatska vezana posebnim ugovorom o socijalnom osiguranju, koji predviđa zbrajanje razdoblja koja se uzimaju u obzir, ako tim ugovorom nije drugačije određeno. Davanje priznato na temelju ovoga stavka određuje se uz odgovarajuću primjenu odredaba članka 33. ovoga Ugovora.
+4. Odredbe stavka 2. i 3. ovog članka neće se primijeniti ako je ukupno razdoblje osiguranja navršeno prema hrvatskom zakonodavstvu kraće od 12 mjeseci.

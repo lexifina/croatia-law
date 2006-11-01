@@ -1,0 +1,4 @@
+# Članak 25.
+IZVOZ MIROVINA
+1. Socijalna će se mirovina isplaćivati hrvatskom državljaninu koji prebiva na području Republike Hrvatske samo onda ako je ta osoba obavljala zanimanje u svojstvu radnika ili samostalnog djelatnika na području Kraljevine Danske u trajanju od najmanje 12 mjeseci mirovinskog staža određenog Zakonom o socijalnim mirovinama.
+2. Ako uvjeti iz stavka 1. ovoga članka nisu ispunjeni, socijalna će se mirovina nastaviti isplaćivati hrvatskom državljaninu koji je na socijalnu mirovinu ostvario pravo i nakon njegova preseljenja na područje Republike Hrvatske pod uvjetom da je ta osoba, tijekom razdoblja mirovinskog staža određenog Zakonom o socijalnim mirovinama, neprekidno prebivala u Kraljevini Danskoj najmanje 10 godina, od kojih najmanje 5 godina neposredno prije podnošenja zahtjeva za mirovinu.
