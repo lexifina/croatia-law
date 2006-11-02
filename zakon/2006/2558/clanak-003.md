@@ -1,0 +1,24 @@
+# Članak 3.
+Iza članka 162. dodaje se »Glava XIV.a PRAVNA POMOĆ« i članci 162.a, 162.b i 162.c koji glase:
+»Glava XIV.a
+PRAVNA POMOĆ
+Članak 162.a
+(1) Redarstvena vlast te državni odvjetnik i sud mogu za potrebe vođenja kaznenog postupka zahtijevati pomoć od sudova, državnih odvjetništava, tijela državne uprave i drugih državnih tijela. Ona će takvom zahtjevu udovoljiti u najkraćem roku, a moguće zapreke priopćiti bez odgode. Po potrebi njima se može dostaviti preslika dijela kaznenog spisa.
+(2) Tijela državne uprave i druga državna tijela mogu zahtjev iz stavka 1. ovoga članka odbiti obrazloženom odlukom ako bi njegovo ispunjenje povrijedilo obvezu čuvanja službene, državne ili vojne tajne - dok nadležno tijelo nije ukinulo tu obvezu ili ako bi njegovo ispunjenje bilo protivno obvezi čuvanja tajne (računalno, sistemski) prikupljenih i obrađenih osobnih podataka.
+(3) Osobne podatke prikupljene prema ovome Zakonu redarstvena vlast, državno odvjetništvo i sudovi mogu, u skladu sa zakonom, dostavljati tijelima državne uprave uključujući i sigurnosne službe te njihovim nadzornim tijelima. O započinjanju kaznenog postupka (članak 164. ovoga Zakona) protiv državnog službenika ili namještenika sud će u roku od osam dana izvijestiti njegovog čelnika (članak 104. Zakona o državnim službenicima, »Narodne novine«, br. 92/05.).
+(4) Ako je istražnom sucu potrebna pomoć redarstvene vlasti (kriminalističkotehnička i sl.) ili drugih državnih tijela, oni su mu dužni na njegov zahtjev tu pomoć dati.
+Članak 162.b
+(1) Istražni sudac može, na zahtjev suda pred kojim se vodi kazneni postupak, pisanim nalogom odrediti da se ispitivanje osumnjičenika ili okrivljenika (članci 225. - 231.), ispitivanje svjedoka (članci 232. - 243.), prepoznavanje (članak 243.a), ispitivanje vještaka i razmjena obavijesti važnih za kazneni postupak provede uz pomoć zatvorenoga tehničkog uređaja za vezu na daljinu (audio--video konferencija).
+(2) Nalog sadrži mjesto i vrijeme poduzimanja audio-video konferencije te imena i adrese osoba čije se ispitivanje traži. U svezi sa sadržajem poziva na okrivljenika i svjedoke primijenit će se odredbe članka 88. i 237. ovoga Zakona.
+(3) U nalogu se može odrediti da osoba koja drži predmete koji se prema Kaznenom zakonu imaju oduzeti ili koji mogu poslužiti za utvrđivanje činjenica u kaznenom postupku te predmete na zahtjev suda pokaže tijekom audio-video konferencije, a nakon nje ih preda sudu prema odredbama članka 218. ovoga Zakona.
+(4) Sudac koji je zatražio izdavanje naloga može nakon utvrđivanja podataka iz stavka 2. ovoga članka neposredno postavljati pitanja ispitivanoj osobi. Stranke mogu biti nazočne audio-video konferenciji sukladno odredbama članka 198. stavka 4. - 6. te u njoj sudjelovati sukladno odredbi članka 198. stavka 7. ovoga Zakona. Okrivljeniku koji je u pritvoru na prikladan će se način omogućiti praćenje audio-video konferencije te postavljanje pitanja i iznošenje primjedaba.
+(5) Audio-video konferenciji mora biti nazočna i stručna osoba iz članka 198. stavka 8. ovoga Zakona.
+(6) O audio-video konferenciji sud koji vodi kazneni postupak:
+1) sačinjava tehničku snimku koja sadrži podatke iz članka 75. stavka 1. ovoga Zakona te
+2) sastavlja zapisnik u kojem se navodi vrijeme i mjesto ove radnje, osobe koje su bile nazočne te vrsta i stanje tehničkog uređaja za vezu na daljinu na početku i na kraju radnje. Ovaj zapisnik može voditi sudski savjetnik ili sudački vježbenik.
+(7) Tijelo koje vodi kazneni postupak može nalog iz stavka 1. ovoga članka izdati i na zamolbu stranoga nadležnog tijela. U takvom slučaju može se udovoljiti i posebnostima te zamolbe glede oblika i sadržaja audio-video konferencije pod uvjetima iz članka 10. Zakona o međunarodnoj pravnoj pomoći u kaznenim stvarima (»Narodne novine«, br. 178/04.).
+(8) Ministarstvo pravosuđa Republike Hrvatske skrbi za nabavu i održavanje zatvorenih tehničkih uređaja za audio-video konferenciju na daljinu u županijskim sudovima.
+Članak 162.c
+(1) Redarstvena vlast i državni odvjetnik u izvidima prikupljanjem obavijesti od građana (članak 174. stavak 4. i članak 177. stavak 2. i 4. ovoga Zakona) mogu alibi i druge važne činjenice za pokretanje i vođenje kaznenog postupka provjeriti korištenjem telefonske veze koja ispitivanim osobama omogućava istodobnu komunikaciju (telefonska konferencija).
+(2) Bilješka ili zapisnik o telefonskoj konferenciji mora sadržati podatke o istovjetnosti osoba u telefonskoj komunikaciji, podatak u kojem svojstvu daje izjavu te ostale podatke iz članka 79. stavka 4. ovoga Zakona.
+(3) Uz pristanak ispitivane osobe i stranaka, pred sudom se tehnička snimka telefonske konferencije može koristiti kao dokaz u kaznenom postupku osim snimke o prikupljenim obavijestima od osumnjičenika koja se može koristiti pod uvjetom iz članka 174. stavka 4. ovoga Zakona.«
