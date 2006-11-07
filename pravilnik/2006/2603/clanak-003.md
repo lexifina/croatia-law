@@ -1,0 +1,2 @@
+# Članak 3.
+Ako osoba koja je dobila odobrenje Agencije za stjecanje kvalificiranog udjela u društvu za osiguranje u slučajevima iz članka 21. stavak 1. ili 2. Zakona o osiguranju, namjerava otuđiti svoje dionice tako da bi se uslijed toga njen udio smanjio ispod granice za koju je dobila odobrenje, mora o tome prethodno obavijestiti Agenciju, dostavljanjem izvješća o načinu otuđenja i osobama koje stječu te dionice, bez odlaganja.

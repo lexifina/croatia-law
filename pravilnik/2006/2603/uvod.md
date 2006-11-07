@@ -1,0 +1,1 @@
+Na temelju odredbi članka 158. stavak 5., članka 21. stavak 6. i članka 263. stavak 1. točka 2. Zakona o osiguranju (»Narodne novine« broj 151/05) Hrvatska agencija za nadzor financijskih usluga donijela je 19. listopada 2006. godine

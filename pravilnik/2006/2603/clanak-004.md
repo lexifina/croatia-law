@@ -1,0 +1,5 @@
+# Članak 4.
+Društvo za zastupanje, odnosno posredovanje u osiguranju dužno je Agenciju izvještavati o:
+1. promjeni podataka koji se upisuju u sudski registar, dostavljanjem preslika prijave, odnosno zahtjeva sa svim prilozima, istodobno kada se dostavljaju sudskom registru, a preslik rješenja o upisu u sudski registar najkasnije u roku od tri dana od njegova primitka,
+2. o strukturi i opsegu poslova zastupanja, odnosno posredovanja u osiguranju prema društvima za osiguranje koje je obavilo u pojedinoj godini, dostavljanjem izvješća i preslika zaključenih ugovora o zastupanju, odnosno pružanju usluga posredovanja, sa stanjem na dan 30. lipnja i 31. prosinca, u roku od mjesec dana od dana isteka izvještajnog datuma,
+3. o ispunjavanju obveza iz članka 237., odnosno 243. Zakona o osiguranju, dostavljanjem ugovora o osiguranju od odgovornosti obavljanja djelatnosti zastupanja, odnosno posredovanja u osiguranju, ili dokaz o odgovarajućem jamstvu, u roku od osam dana od sklapanja ugovora, odnosno dobivanja jamstva.
