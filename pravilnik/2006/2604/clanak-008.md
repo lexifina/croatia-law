@@ -1,0 +1,3 @@
+# Članak 8.
+(1) U administrativnom prostoru i prostoru namijenjenom za korisnike usluga ne smiju biti izvješene reklame niti jednog osiguratelja. U istim prostorima mora biti izvješen popis, po abecednom redu, svih osiguratelja koji u Republici Hrvatskoj obavljaju djelatnost osiguranja od automobilske odgovornosti, uz koji mora biti istaknuta visina premije po registarskim oznakama za osnovni premijski stupanj uz naznaku da je to »premija za osnovni premijski stupanj za vozilo 33-44 kW u tom registarskom području«.
+(2) Popis iz stavka 1. ovoga članka mora biti napisan na čitljiv način (veličina slova mora biti najmanje 12 točkica), kao i visina premije za osnovni premijski stupanj.
