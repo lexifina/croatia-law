@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 115/2000, 117/2001, 199/2003 i 30/04) i članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99, 15/2000, 127/2000, 59/2001 i 193/2003), Vlada Republike Hrvatske je na sjednici održanoj 2. studenoga 2006. godine donijela
