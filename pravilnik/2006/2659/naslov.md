@@ -1,0 +1,1 @@
+Pravilnik o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanje prstenaste truleži gomolja krumpira, koju prouzrokuje bakterija Clavibacter michiganensis (Smith) Davi set al. ssp. Sepedonicus (Spieckermann et Kotthoff) Davi set al.
