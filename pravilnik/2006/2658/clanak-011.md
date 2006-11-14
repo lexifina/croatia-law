@@ -1,0 +1,13 @@
+## Opseg vjerojatne zaraze glavnih biljaka domaćina
+# Članak 11.
+Fitosanitarni inspektor određuje za glavne biljke domaćine opseg vjerojatne zaraze iz članka 9. točke 3. ovoga Pravilnika, na temelju mogućih doticaja prije, poslije i tijekom proizvodnje, navodnjavanja ili prskanja ili na temelju klonske srodnosti s biljkama ili gomoljima koji su označeni kao zaraženi, uzimajući u obzir:
+1. glavne biljke domaćine uzgojene na mjestu proizvodnje koje je označeno kao zaraženo,
+2. mjesto ili mjesta proizvodnje koja su u bilo kakvoj vezi s proizvodnjom glavnih biljaka domaćina koje su označene kao zaražene, uključujući i ona na kojima su se koristili ista oprema za proizvodnju i objekti,
+3. glavne biljke domaćine koje su proizvedene na mjestima proizvodnje iz točke 2. ovoga članka ili su se nalazile na tim mjestima proizvodnje u vrijeme dok su glavne biljke domaćini koje su označene kao zaražene u skladu s člankom 9. točkom 2. alinejom 1. ovoga Pravilnika bile prisutne na mjestima proizvodnje iz točke 1. ovoga članka,
+4. posjede na kojima se nalaze ili dorađuju glavne biljke domaćini koje potječu s mjesta proizvodnje iz točke 1. do 3. ovoga članka,
+5. svaki stroj, prijevozno sredstvo, skladište, ili njihov dio, te druge objekte ili predmete, uključujući i materijal za pakiranje, koji su mogli doći u dodir s glavnim biljkama domaćinima koje su označene kao zaražene u skladu s člankom 9. točkom 2. alinejom 1. ovoga Pravilnika,
+6. sve glavne biljke domaćine koje su bile uskladištene ili u doticaju s nekim od objekata ili predmeta iz točke 5. ovoga članka prije njihova čišćenja i dezinfekcije,
+7. biljke rajčice koje potječu iz istih izvora kao i rajčica koja je označena kao zaražena, odnosno gomolje ili biljke krumpira koji su sestrinski ili roditeljski klonski povezani s gomoljima i/ili biljkama krumpira koji je označen kao zaražen štetnim organizmom, i koji se, iako su rezultati testiranja provedenih sukladno propisanim postupcima negativni, smatraju vjerojatno zaraženima radi klonske srodnosti s krumpirom označenim kao zaraženim, a kod rajčice, radi istog izvora kao i rajčica označena kao zaražena. Kada je potrebno, može se provesti i test sortnosti da bi se provjerio identitet zaraženih i klonski srodnih gomolja ili biljaka krumpira,
+8. mjesta proizvodnje glavnih biljaka domaćina navedenih u točki 7. ovoga članka,
+9. mjesta proizvodnje glavnih biljaka domaćina na kojima se za navodnjavanje ili prskanje upotrebljava voda koja je označena kao zaražena,
+10. glavne biljke domaćine proizvedene na poljima koja su bila poplavljena površinskom vodom za koju je utvrđeno da je zaražena štetnim organizmom.

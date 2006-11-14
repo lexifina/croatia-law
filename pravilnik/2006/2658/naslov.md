@@ -1,0 +1,1 @@
+Pravilnik o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanja smeđe truleži gomolja krumpira i bakterijskog venuća krumpira i rajčice, koju prouzrokuje bakterija Ralstonia solanacearum (Smith) Yabuuchi et al.
