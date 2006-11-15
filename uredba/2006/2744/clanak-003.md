@@ -1,0 +1,2 @@
+# Članak 3.
+Na imenovanje predsjednika i članova Stegovno-disciplinskog suda i Višega stegovno-disciplinskog suda, vrste stegovnih prijestupa, odnosno povreda službene, odnosno radne dužnosti, postupovna pravila pred stegovno-disciplinskim sudovima, vrste kazni i druga pitanja od značaja za rad stegovno-disciplinskih sudova primjenjuju se odgovarajuće odredbe Zakona o službi u oružanim snagama Republike Hrvatske, Zakona o državnim službenicima, te Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske.

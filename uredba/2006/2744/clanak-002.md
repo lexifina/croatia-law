@@ -1,0 +1,4 @@
+# Članak 2.
+Stegovno-disciplinski sud ustrojava se za odlučivanje u prvom stupnju zbog stegovnih prijestupa, odnosno zbog težih povreda službenih, odnosno radnih dužnosti zaposlenika Vojne sigurnosno-obavještajne agencije (u daljnjem tekstu: VSOA).
+Viši stegovno-disciplinski sud ustrojava se za odlučivanje u drugom stupnju povodom žalbi protiv odluka Stegovno-disciplinskog suda u postupku zbog stegovnih prijestupa, odnosno težih povreda službenih, odnosno radnih dužnosti zaposlenika VSOA-e.
+Stegovno-disciplinski sud iz stavka 1. ovog članka nadležan je odlučivati i povodom žalbe protiv oduke ravnatelja VSOA-e ili osoba koje on odredi u postupku zbog stegovne pogreške, odnosno lake povrede službene, odnosno radne dužnosti, povodom žalbe protiv rješenja o udaljenju iz službe, te povodom prijedloga za obnovu stegovnog postupka.
