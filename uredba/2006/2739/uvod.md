@@ -1,0 +1,1 @@
+Na temelju članka 62. stavka 1. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 79/2006 i 105/2006), Vlada Republike Hrvatske je, na prijedlog ravnatelja Sigurnosno-obavještajne agencije, a uz prethodnu suglasnost Predsjednika Republike Hrvatske, na sjednici održanoj 10. studenoga 2006. godine donijela
