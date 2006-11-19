@@ -1,0 +1,7 @@
+# Članak 1.
+1. Za potrebe ove Konvencije:
+(a) izraz nadležno tijelo znači ministar, imenovani službenik, vladin odjel ili drugo tijelo koja ima ovlasti donositi propise, naredbe ili druge upute koje imaju snagu zakona glede zapošljavanja i raspoređivanja pomoraca,
+(b) izraz služba za zapošljavanje ili raspoređivanje znači bilo koja osoba, tvrtka, institucija, agencija ili druga organizacija, u javnom ili privatnom sektoru, koja se bavi zapošljavanjem pomoraca u ime poslodavaca ili raspoređivanjem pomoraca kod poslodavaca,
+(c) izraz brodovlasnik znači vlasnik broda ili bilo koja druga organizacija, ili osoba, kao što je poslodavac, agent ili zakupoprimac koja je preuzela odgovornost za upravljanje broda od brodovlasnika i koja je preuzimanjem takve odgovornosti pristala preuzeti sve popratne obveze i odgovornosti,
+(d) izraz pomorac znači bilo koja osoba koja ispunjava uvjete da bude zaposlena ili angažirana u bilo kojem svojstvu na pomorskom brodu, osim na vladinim brodovima koji se koriste u vojne ili netrgovačke svrhe.
+2. U mjeri koja se smatra provedivom, nakon konzultacija s predstavnicima organizacija vlasnika ribarskih brodova i ribara ili vlasnika pomorskih mobilnih odobalnih jedinica i pomoraca koji plove na takvim jedinicama, već prema svakom pojedinačnom slučaju, nadležno tijelo može primijeniti odredbe Konvencije na ribare ili pomorce koji rade na pomorskim mobilnim odobalnim jedinicama.
