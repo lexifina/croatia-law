@@ -1,0 +1,2 @@
+# Članak 11.
+Mjesečna osnovica, prema članku 16. Zakona, za obračun doprinosa za osiguranika po osnovi »samostalna djelatnost slobodnih zanimanja i to: sportaš te umjetnik (iz članka 10. Zakona o pravima samostalnih umjetnika i poticanju kulturnog i umjetničkog stvaralaštva)« a od te djelatnosti predujam poreza na dohodak obračunava i plaća isplatitelj primitka, po odbitku, umnožak je prosječne plaće i koeficijenta 1,0 te iznosi 6.565,00 kuna.
