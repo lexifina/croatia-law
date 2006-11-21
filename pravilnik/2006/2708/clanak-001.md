@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti i mjerila za ostvarivanje prava na stipendiju tijekom redovitoga srednjoškolskog obrazovanja, redovitoga sveučilišnog i stručnog studija i prava na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima (u daljnjem tekstu: stipendija), hrvatskim braniteljima iz Domovinskog rata, djeci smrtno stradalih hrvatskih branitelja iz Domovinskog rata, djeci zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata, hrvatskim ratnim vojnim invalidima iz Domovinskog rata i djeci hrvatskih ratnih vojnih invalida iz Domovinskog rata, dragovoljcima i djeci dragovoljaca iz Domovinskog rata (u daljem tekstu: kandidat).
