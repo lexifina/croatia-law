@@ -1,0 +1,6 @@
+# Članak 21.
+Prema stupnju onečišćenja, otpadna maziva ulja se razvrstavaju u četiri kategorije:
+I. kategorija - otpadna ulja mineralnog porijekla sa sadržajem halogena ispod 0,2% i ukupnim polikloriranim bi- i terfenilima ispod 20 mg/kg. Ova se ulja mogu obraditi i ponovo koristiti za proizvodnju svježih ulja.
+II. kategorija - otpadna ulja mineralnog, sintetičkog i biljnog porijekla sa sadržajem halogena iznad 0,2% i ispod 0,5% i ukupnim polikloriranim bi- i terfenilima iznad 20 mg/kg i ispod 30 mg/kg. Ova se ulja mogu koristiti kao gorivo u energetskim i proizvodnim postrojenjima instalirane snage uređaja veće ili jednake 3 MW ili u pećima za proizvodnju klinkera u tvornicama cementa.
+III. kategorija - otpadna ulja nepoznatog porijekla i sva druga otpadna ulja sa sadržajem halogena iznad 0.5 %, ukupnim polikloriranim bi- i terfenilima iznad 30 mg/kg i plamištem ispod 550 C. Ova se ulja moraju spaljivati u pećima za spaljivanje opasnog otpada minimalne djelotvornosti 99,99 %.
+IV. kategorija - poliglikoli/oliglikoli, otpadna ulja na bazi poliglikola/oliglikola koja se radi nemiješanja s ostalim uljima I. i II. kategorije i posebnih zahtjeva u postupku odstranjivanja moraju skupljati i oporabiti i/ili zbrinuti odvojeno.
