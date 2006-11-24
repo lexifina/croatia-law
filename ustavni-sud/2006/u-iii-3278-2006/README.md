@@ -1,0 +1,9 @@
+# Odbačaj radi nenadležnosti Ustavnog suda Republike Hrvatske broj: U-III-3278/2006 od 24. studenoga 2006.
+
+- Case: `U-III-3278/2006`
+- Decision: Odbačaj radi nenadležnosti
+- Decision date: `2006-11-24`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C1257234002F5043>
+- Official database page SHA-256: `053647a936d093a69b5062e143749ea9a0885c3f7fdd4253606988ef3f7143c6`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
