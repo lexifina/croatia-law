@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Doktor medicine ili stomatolog koji predlaže (propisuje) dijagnostički postupak ili liječenje s uporabom izvora ionizirajućeg zračenja obvezan je za svakog bolesnika procijeniti zdravstvenu opravdanost primjene ionizirajućeg zračenja uzimajući u obzir i drugačije postupke bez uporabe ionizirajućeg zračenja.
+(2) Zdravstvena opravdanost dijagnostičkog postupka ili liječenja s uporabom izvora ionizirajućeg zračenja procjenjuje se ovisno o vrsti i težini bolesti, stupnju neposredne ugroženosti života i zdravlja bolesnika, starosti i spolu bolesnika, te mogućoj popratnoj štetnoj posljedici od predloženog postupka za bolesnika.

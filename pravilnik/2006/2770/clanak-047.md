@@ -1,0 +1,2 @@
+# Članak 47.
+Za terapijski postupak proveden rendgenskim uređajem, akceleratorom ili zatvorenim radioaktivnim izvorom u zdravstvenu dokumentaciju bolesnika upisuje se doza koju je tijekom ozračivanja primio, a po potrebi i odgovarajući skup relevantnih podataka na temelju kojih je moguće procijeniti dozu koju je tijekom pregleda bolesnik primio ovisno o vrsti izvora ionizirajućeg zračenja koji je primijenjen.

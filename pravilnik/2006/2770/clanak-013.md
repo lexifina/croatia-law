@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Zdravstvena ustanova, trgovačko društvo koje obavlja zdravstvenu djelatnost ili ordinacija koja primjenjuje izvore ionizirajućeg zračenja u svrhu dijagnostike ili terapije mora uspostaviti i održavati program osiguranja kakvoće prilagođen vrsti, raznolikosti i opsegu postupaka koje obavlja. Svrha programa osiguranja kakvoće je sprečavanje, otkrivanje i ispravljanje mogućih pogrešaka dijagnostičkog ili terapijskog postupka.
+(2) Osobe koje odobravaju, planiraju i provode dijagnostički ili terapijski postupak moraju biti upoznate s Programom osiguranja kakvoće iz stavka 1. ovoga članka.

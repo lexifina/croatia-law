@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Preporučene (referencijske) vrijednosti veličina i pridjeljenih doza za provedbu određenog dijagnostičkog postupka sadržane su u Tablici 1. koja je tiskana u prilogu ovoga Pravilnika i njegov je sastavni dio.
+(2) Preporučene vrijednosti iz Tablice 1. nisu obvezne vrijednosti za dijagnostički postupak koje treba postići etaloniranjem (umjeravanjem), te ih treba smatrati smjernicama optimalnim za tipičnog odraslog bolesnika. Za svakog pojedinog bolesnika, a naročito za djecu, tijekom planiranja i pripreme dijagnostičkog postupka potrebno je uzeti u obzir njegovu dob, građu i težinu.

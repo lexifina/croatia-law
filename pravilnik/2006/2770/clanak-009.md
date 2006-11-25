@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Doktor medicine ili stomatolog odgovarajuće specijalnosti koji odobrava dijagnostički ili terapijski postupak s uporabom izvora ionizirajućeg zračenja može odbiti provedbu predloženog dijagnostičkog ili terapijskog postupka ako procijeni da nisu prikladni obzirom na navedene medicinske pokazatelje u uputnici i ostaloj priloženoj medicinskoj dokumentaciji, te da neće bitno pridonijeti postavljanju ispravne dijagnoze, odnosno, neće polučiti željeni terapijski učinak.
+(2) Doktor medicine ili stomatolog iz stavka 1. ovog članka mora pisano obrazložiti odbijanje provedbe predloženog dijagnostičkog ili terapijskog postupka.
