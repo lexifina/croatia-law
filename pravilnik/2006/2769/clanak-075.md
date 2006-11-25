@@ -1,0 +1,3 @@
+# Članak 75.
+(1) Prvo ispitivanje parametara kojim se postavljaju referencijske vrijednosti parametara akceleratora koji utječu na kakvoću terapije osigurava isporučitelj. Zapisnik s rezultatima prvog ispitivanja bitnih značajki akceleratora supotpisuje imenovani predstavnik krajnjeg korisnika koji je nazočan ispitivanju. Isporučitelj akceleratora obvezan je uz ostalu dokumentaciju dostaviti krajnjem korisniku rezultate prvog ispitivanja bitnih značajki akceleratora.
+(2) Krajnji korisnik akceleratora obvezan je donijeti svoj program održanja i nadzora kakvoće tijekom uporabe akceleratora na temelju referencijskih vrijednosti iz prvog ispitivanja i ispitivanja određenih značajki terapijskog postupka u rokovima koji su sadržani u Tablici 1. Priloga II. ovoga Pravilnika.

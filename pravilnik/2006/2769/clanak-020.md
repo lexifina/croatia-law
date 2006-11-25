@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Za rendgenski uređaj obvezno je od početka uporabe ustrojiti, održavati i provoditi odgovarajući program osiguranja kakvoće sukladno vrsti i namjeni rendgenskog uređaja zbog postizanja optimalnog dijagnostičkog učinka uz što manje ozračivanje pacijenta.
+(2) Program osiguranja kakvoće za rendgenski uređaj provodi se ispitivanjem bitnih značajki rendgenskog sustava obvezno prije početka uporabe i tijekom uporabe najmanje svakih dvanaest mjeseci. Temeljni zahtjevi kakvoće za pojedinu vrstu rendgenskog uređaja koji se koriste u medicini i stomatologiji te rokovi ispitivanja njihovih bitnih značajki sadržani su u Prilogu I. ovoga Pravilnika koji je njegov sastavni dio.

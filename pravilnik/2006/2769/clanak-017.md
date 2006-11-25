@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Radnici koji su tijekom rada s rendgenskim uređajem stalno u području izloženosti ne smiju biti izloženi izravnom snopu rendgenskog zračenja, ne smiju pridržavati pacijente i ne smiju pridržavati kasete s filmovima tijekom snimanja.
+(2) Radnici koji nisu izloženi radnici, a koji tijekom rendgenskog pregleda pridržavaju nepokretne bolesnike i druge osobe koje ne mogu samostalno ostati u potrebnom položaju za pregled, moraju koristiti zaštitne pregače jednakovrijednog zaštitnog učinka kao i olovo debljine od najmanje 0,5 mm, a po potrebi i zaštitne rukavice, zaštitne okovratnike i naočale s olovnim staklima istog zaštitnog učinka.
+(3) Ako osobu tijekom rendgenskog pregleda pridržavaju osobe u pratnji, odnosno, osobe koja nisu izloženi radnici, isti moraju nositi zaštitnu pregaču zaštitnog učinka jednakovrijednog kao i olovo debljine od najmanje 0,5 mm.

@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Prostorije u kojima se koriste rendgenski uređaji, akceleratori i drugi uređaji koji proizvode ionizirajuće zračenje moraju biti projektirane, izgrađene i opremljene tako da zidovi, vrata, dovratnici, prozori i strop tijekom uporabe tih uređaja u svim uvjetima rada ne propuštaju dozu ili brzinu doze iznad propisanih granica.
+(2) Doza ili brzina doze iz stavka 1. ovoga članka mora biti ispod propisanih granica i to toliko niska koliko je to razumno moguće postići uzimajući u obzir tehničke, gospodarske, socijalne i ostale čimbenike prilikom projektiranja, gradnje i opremanja prostorije.

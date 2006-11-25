@@ -1,0 +1,4 @@
+# Članak 82.
+(1) Prije početka rada s rendgenskim uređajima za provjeru kakvoće radiografijom izvan posebno opremljenih prostorija ili na radilištu u otvorenom prostoru, mjesto ozračivanja treba odabrati tako da se koriste postojeće zapreke koje mogu smanjiti ozračivanje radnika, a tijekom rada moraju se koristiti i pokretni zaštitni paravani ili daljinski upravljački uređaj postaviti na takvo mjesto da njihovo izlaganje bude što niže, a svakako ispod propisanih granica.
+(2) Upravljački uređaj, odnosno dio rendgenskog uređaja sa zračnikom mora imati dostatno duge priključne vodiče na generator radi osiguranja dovoljne udaljenosti radnika koji uključuje uređaj od mjesta gdje se nalazi zračnik.
+(3) Tijekom rada izvan posebno opremljenih prostorija radnici moraju osigurati prostor oko rendgenskog uređaja od pristupa drugih osoba koje mogu doći na mjesto rada i biti slučajno izloženi rendgenskom zračenju.
