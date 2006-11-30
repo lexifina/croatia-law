@@ -1,0 +1,6 @@
+# Članak 90.
+Za poslodavce koji obavljaju djelatnost s jednim radnikom ili s manjim brojem izvršilaca/radno mjesto, pa u svom području ingerencije ne može, ili teško može mjeriti rad radnika s drugim radnicima istoga radnog mjesta, pojam primjerene plaće za svog radnika/e, tj. plaće za jednaki rad, poslodavac utvrđuje u usporedbi s plaćama kolege iste struke i statusa - poslodavac iz članka 1. ovoga Kolektivnog ugovora.
+Zbog primjene odredbi prethodnog stavka, Udruga u časopisu »Privatna praksa u zdravstvu« objavljuje za radnika početnika maksimalni iznos primjerene plaće, na osnovi podataka o udjelu troška plaće radnika istoga radnog mjesta/poslodavac iz članka 1. ovoga Kolektivnog ugovora u njihovom prihodu/mjesec/godina.
+Udruga postupa u smislu rečenog u prethodnom stavku i za poslodavce iz članka 1. ovoga Kolektivnog ugovora koji obavljaju djelatnost i s većim brojem radnika, tj. 21 i više i koji ne ulazi u kategoriju tzv. malih poslodavaca.
+Kada poslodavac iz stavka 1. i 3. ovog članka, postupkom usklađenja plaće/prihod, dostigne razinu/visinu primjerene plaće iz stavka 2. ovog članka, ispunio je uvjet obračuna primjerene plaće radniku prema ovom Kolektivnom ugovoru.
+Veći iznos plaće, u odnosu na iznos iz prethodnog stavka, poslodavac obračunava/isplaćuje prema mogućnostima i vlastitoj prosudbi/interesu, uz uvjete, sukladno ovom Kolektivnom ugovoru.

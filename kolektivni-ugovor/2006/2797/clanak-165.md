@@ -1,0 +1,2 @@
+# Članak 165.
+Radniku, kojem je uručen otkaz ugovora o radu, a on nije u tijeku korištenja jednog od prava navedenih u članka 160. Kolektivnog ugovora, prestaje ugovor o radu danom isteka otkaznog roka, s tim, da naknadno stečeno pravo prema opisu iz istog članka Kolektivnog ugovora, radnik ostvaruje prema propisima koji reguliraju ostvarenje tih/tog prava, bilo na teret poslodavca ili HZZO-a ili MO ili..... (na primjer prava iz zdravstvenog osiguranja i sl.).

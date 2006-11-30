@@ -1,0 +1,3 @@
+# Članak 95.
+Zbog primjene odredbi prethodnog članka, Udruga u časopisu »Privatna praksa u zdravstvu« objavljuje maksimalni iznos primjerene plaće/radnik/radno mjesto iz članka 90. stavak 2. ovoga Kolektivnog ugovora, na osnovi podataka o udjelu troška plaće radnika na istom radnom mjestu, svih profila/poslodavac iz članka 1. ovoga Kolektivnog ugovora u njihovom prihodu/mjesec/godina.
+U duhu i smislu rečenog u prethodnom stavku, Udruga izrađuje kalkulacije financijskog plana za djelatnosti primarne i sekundarne zdravstvene zaštite, prilagođavajući parametre HZZO-a i druge parametre diktiranoj prodajnoj cijeni usluge/programa, bilo od strane HZZO-a, kao jedinog ili pretežnog kupca usluga/poslodavac ili od tržišta.

@@ -1,0 +1,5 @@
+## Prihodi koji se izuzimaju iz prihoda iz članka 97. ovoga Kolektivnog ugovora
+# Članak 98.
+Iz prihoda/porezno razdoblje, poslodavac, za ocjenu i usporedbu s primicima iz članka 97. ovoga Kolektivnog ugovora, izuzima primitke koje je realizirao za sebe - nositelja tima ili za svog radnika, naplaćene za dežurstvo/pripravnost od doma zdravlja ili druge zdravstvene ustanove, za koju je/su obavili dežurstvo/pripravnost po rasporedu.
+Iz prihoda u poreznom razdoblju, radi obračuna plaće radniku u smislu članka 92. ovoga Kolektivnog ugovora, pored primitaka iz prethodnog stavka, poslodavac koji obavlja stomatološku djelatnost, izuzima iznose koje je naplatio od korisnika zdravstvene zaštite za usluge zubotehničkog laboratorija, koji je kao kooperant poslodavca, u eksternoj realizaciji sudjelovao u ostvarenju ukupne stomatološke zdravstvene zaštite korisnika usluga poslodavca i to za usluge iz mobilne i/ili fiksne protetike, usluge RTG-a i sl.
+Izračun primjerene plaće za radnika koji obavlja djelatnost primarne razine zz za poslodavca dipl. ing. med. biokemije u medicinsko-biokemijskom laboratoriju (MBL)

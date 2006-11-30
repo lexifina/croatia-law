@@ -1,0 +1,2 @@
+# Članak 107.
+Za ostale poslodavce, doktore medicine/stomatologe, koji obavljaju djelatnost sekundarne - specijalističko-konzilijarne zdravstvene zaštite, glede obračuna plaće radnika primjenjuju se ista mjerila kako je propisano člankom 88. i 92. Kolektivnog ugovora, tj. za izračun kalkulativne plaće i izračun primjerene plaće za rad radnika/poslodavac, ako su uključeni u Mrežu osnovne zdravstvene djelatnosti.

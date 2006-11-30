@@ -1,0 +1,5 @@
+# Članak 35.
+Ako poslodavac postupi na način kako je propisano u prethodnom članku, pa zdravstvenom radniku, zaposlenom u drugoj zdravstvenoj ustanovi povjeri poslove, temeljem kojih bi on na teret poslodavca stekao primitak od drugog dohotka, ukupna vremenska angažiranost zdravstvenog radnika za poslodavca, za njega drugog poslodavca, može trajati najviše do 1/3 punoga radnog vremena.
+Obveza radnika je dobiti suglasnost svog poslodavca za takav rad kod drugog poslodavca, ako se ne želi izlagati riziku primjene pravnih posljedica zbog »zakonske zabrane utakmice«.
+Obveza poslodavca u realizaciji ugovora o djelu je »iz« primitka od drugog dohotka radnika obračunati doprinos za m.o., poreze/prirez prema propisanim stopama, a doprinos za z.o. »na« teret svojih posebnih sredstava, prema iznosu iste osnovice, sve pod prijetnjom novčane kazne za prekršaj, u smislu propisa o državnom inspektoratu.
+Izvršitelj rada po ugovoru o djelu ima i određena prava iz zdravstvenog i mirovinskog osiguranja, u obimu, kako je propisano posebnim zakonima
