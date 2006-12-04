@@ -1,0 +1,3 @@
+# Članak 12.
+Članak 214. mijenja se i glasi:
+»Služba za opću upravu i zajedničke poslove obavlja upravne i stručne poslove koji se odnose na poslove opće uprave, stručne poslove za potrebe predstojnika i zamjenika predstojnika, nadzor nad zakonitošću općih akata predstavničkih tijela jedinica lokalne samouprave i jedinica područne (regionalne) samouprave, opće, kadrovske, informatičke, planske, materijalno-financijske, računovodstvene, administrativne i pomoćno-tehničke poslove, poslove planiranja, razvoja i upravljanja kadrovima, te druge upravne i stručne poslove koji nisu u djelokrugu koje druge unutarnje ustrojstvene jedinice Ureda državne uprave«.
