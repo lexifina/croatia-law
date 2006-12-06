@@ -1,0 +1,1 @@
+Na temelju članka 48., a u vezi s člankom 47. stavkom 1. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003 i 100/2004), Vlada Republike Hrvatske je na sjednici održanoj 30. studenoga 2006. godine donijela
