@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, predsjednik Suda, te suci Marijan Hranjski, Ivan Matija, Ivan Mrkonjić, Jasna Omejec, Agata Račan, Emilija Rajić, Smiljko Sokol, Nevenka Šernhorst, Vice Vukojević i Milan Vuković, u povodu zahtjeva Prekršajnog suda u Zagrebu, za rješavanje sukoba nadležnosti, na sjednici održanoj 8. studenoga 2006. godine, donio je
