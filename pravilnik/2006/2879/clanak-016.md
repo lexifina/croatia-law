@@ -1,0 +1,3 @@
+# Članak 16.
+Brodarima koji su obavljali javni obalni linijski pomorski promet temeljem Zakona o javnom prijevozu u linijskom obalnom pomorskom prometu (»Narodne novine«, br. 131/97), na dan stupanja na snagu ovoga Pravilnika, može se utvrditi i manja brzina od utvrđene u članku 5. tablici broj 1. i članku 6. tablici broj 2. kao i veća starost broda od utvrđene u članku 8. ovoga Pravilnika, uz uvjet da se koncesija ne može dati za državne linije na rok duži od 5 godina, za županijske i međužupanijske linije na rok duži od 3 godine i za lokalne linije na rok duži od 2 godine.
+Nakon isteka koncesije dobivene na temelju odredbi iz stavka 1. ovoga članka brodar se ne može s istim brodom javiti na natječaj za obavljanje javnog prijevoza.

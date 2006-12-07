@@ -1,0 +1,2 @@
+# Članak 12.
+Brodar koji obavlja javni prijevoz dužan je uz zahtjev na suglasnost za red plovidbe, Agenciji dostaviti i odobrenje za plovidbu na redovnoj liniji izdanu od lučke kapetanije, na osnovi zadovoljavajućih rezultata početne provjere i početnog posebnog pregleda, sukladno postupku definiranom u Pravilniku o inspekcijskom nadzoru sigurnosti plovidbe (»Narodne novine«, broj 127/05) odnosno zapisnik o obavljenom redovnom posebnom pregledu od strane nadležnog inspektora lučke kapetanije, za brod koji je već bio u liniji.
