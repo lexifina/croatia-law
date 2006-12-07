@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o proglašenju Parka prirode »Lastovsko otočje« (»Narodne novine«, broj 111/2006) i članka 72. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, broj 70/2005), Vlada Republike Hrvatske je na sjednici održanoj 23. studenoga 2006. godine donijela
