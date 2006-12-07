@@ -1,0 +1,1 @@
+Na temelju članka 242. stavka 4. i članka 303. stavka 1. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 105/04.) i članka 44. Zakona o upisniku sudskih i javnobilježničkih osiguranja tražbina vjerovnika na pokretnim stvarima i pravima (»Narodne novine«, broj 121/05.) ministar unutarnjih poslova u suglasnosti s ministrom mora, turizma, prometa i razvitka donosi
