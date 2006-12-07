@@ -1,0 +1,3 @@
+# Članak 6.
+Pored dokaza iz članka 5. ovoga Pravilnika za brzi putnički brod brodar mora imati i dozvolu za rad brzog plovila suglasno točki 1.9.3. međunarodnog Pravilnika o sigurnosti brzih plovila (HSC Pravilnik).
+U postupku izdavanja dozvole iz stavka 1. ovoga članka država zastave broda mora uključiti ministarstvo nadležno za pomorstvo u cilju uspostavljanja ili održavanja ograničenja rada sukladno lokalnim prilikama, a radi zaštite ljudskih života, prirodnih resursa i obalnih aktivnosti te poduzimanje mjera za stupanje na snagu ovih ograničenja sukladno odredbama točke 1.9.3. međunarodnog Pravilnika o sigurnosti brzih plovila (HSC Pravilnik).
