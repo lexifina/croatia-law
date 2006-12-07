@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka (2) pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001.) i točke 11.1. Odluke o adekvatnosti kapitala banaka (»Narodne novine«, br. 17/2003.) guverner Hrvatske narodne banke donosi
