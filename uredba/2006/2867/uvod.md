@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 1. Zakona o zdravstvenom osiguranju zaštite zdravlja na radu (»Narodne novine«, broj 85/2006) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvatske je na sjednici održanoj 23. studenoga 2006. godine donijela
