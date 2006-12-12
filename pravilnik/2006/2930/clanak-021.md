@@ -1,0 +1,4 @@
+## Sajmovi, tržnice ili druga okupljališta ptica i ispuštanje pernate divljači
+# Članak 21.
+1) Zabranjeno je održavanje sajmova, tržnica ili drugih okupljališta peradi ili ptica koje se drže u zatočništvu u zaraženim područjima.
+2) Zabranjeno je ispuštanje peradi ili drugih ptica koje se drže u zatočeništvu za nadopunjavanje populacije pernate divljači u zaražnim područjima.

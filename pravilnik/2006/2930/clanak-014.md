@@ -1,0 +1,4 @@
+## Mjere u slučaju izbijanja VPIP u izdvojenim proizvodnim jedinicama
+# Članak 14.
+1) U slučajevima izbijanja VPIP na gospodarstvu koje se sastoji od dviju ili više izdvojenih jedinica, nadležno tijelo može odobriti odstupanje od mjera određenih u članku 11. stavku 2. točki a) ovoga Pravilnika, za proizvodne jedinice u kojima se nalazi zdrava perad ili druge ptice koje se drže u zatočeništvu, za koje ne postoji sumnja na VPIP, pod uvjetom da takva odstupanja ne ugrožavaju kontrolu bolesti.
+2) Takva odstupanja će se odobriti samo u slučaju dviju ili više odvojenih proizvodnih jedinica gdje je nadležni veterinarski inspektor, uzimajući u obzir strukturu, veličinu, način proizvodnje, način smještaja, hranjenja, napajanja, opremu, osoblje i posjetitelje na gospodarstvu, utvrdio da su one potpuno nezavisne od drugih proizvodnih jedinica, u smislu lokacije i svakodnevnog načina uzgoja i držanja peradi ili drugih prica koje se drže u zatočeništvu.

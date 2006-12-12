@@ -1,0 +1,4 @@
+## Mjere koje se primjenjuju u klaonicama
+# Članak 36.
+1) U slučaju sumnje ili potvde VPIP u klaonici, nadležno tijelo na temelju procjene rizika mora narediti klanje ili usmrćivanje sve peradi u klaonici, što je prije moguće, pod službenim nadzorom. Kada se takva perad kolje, meso peradi i nusproizvodi klanja te peradi i meso peradi i nusproizvodi klanja sve druge peradi koja može biti kontaminirana u postupku klanja i prerade, mora se držati odvojeno i pod službenim nadzorom sve dok nije provedeno istraživanje u skladu s Dijagnostičkim priručnikom.
+2) Ako je potvrđena VPIP, meso peradi i nusproizvodi klanja te peradi i meso peradi i nusproizvodi klanja sve druge peradi koji su mogli biti kontaminirani u postupku klanja i prerade, moraju se neškodljivo uništiti pod službenim nadzorom, što je prije moguće.
