@@ -1,0 +1,1 @@
+Na temelju članka 80. stavak 8. Zakona o investicijskim fondovima (»Narodne novine«, br. 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 23. studenoga 2006. godine
