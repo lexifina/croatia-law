@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 4. Zakona o tržištu nafte i naftnih derivata (»Narodne novine«, broj 57/2006) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 14. prosinca 2006. godine donijela
