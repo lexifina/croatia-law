@@ -1,0 +1,1 @@
+Na temelju članka 66. stavka 1., a u vezi s člankom 29. stavkom 2. člankom 39. i člankom 50. stavkom 2. Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, broj 33/2006), Vlada Republike Hrvatske je na sjednici održanoj 30. studenoga 2006. godine donijela
