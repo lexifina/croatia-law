@@ -1,0 +1,1 @@
+Na temelju članka 1018. i članka 33. Pomorskog zakonika (»Narodne novine«, br. 181/04.), a u svezi sa člankom 55. Konvencije Ujedinjenih naroda o pravu mora, Hrvatski sabor je na sjednici 15. prosinca 2006., donio
