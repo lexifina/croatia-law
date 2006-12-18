@@ -1,0 +1,5 @@
+# Članak 2.
+Pod tehnološkim manjkom u smislu ove Odluke razumijevaju se gubici nastali u procesima proizvodnje boja i lakova, koji nastaju kao posljedica tehnoloških procesa u proizvodnji i obradi ulaznih sirovina i prirodnih svojstava proizvoda.
+Tehnološki manjak iskazuje se prema ulaznoj sirovini (vezivo, otapalo, aditivi, punila i pigmenti), kao i prema ambalaži (metalna, plastična, kartonska i papirna) i izražava se u postotku mase (%m/m), postotku obujma (%v/v) ili postotku komada (%kom/kom) u odnosu na količinu ulazne sirovine.
+Tehnološki manjak nastaje uslijed gubitaka kod radnji izvršenih tijekom proizvodnje: isparavanja, šaržiranja, dispergiranja, ribanja, homogenizacije, nijansiranja, punjenja proizvoda u ambalažu, pranja linija punjenja, pranja rezervoara i homogenizera.
+Kalo, rastep, kvar i lom nastaju uslijed gubitka kod radnji izvršenih tijekom proizvodnog procesa: unutarnjeg transporta repromaterijala, manipulacije, pranja i čišćenja spremnika, kretanja i zaustavljanja proizvodnje.
