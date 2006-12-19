@@ -1,0 +1,7 @@
+## Prijevoz i razbacivanje gnoja i gnojnice dobivenih od životinja prijemljivih vrsta u ugroženom području
+# Članak 41.
+(1) Zabranjen je prijevoz i razbacivanje gnoja i gnojnice unutar i izvan ugroženog područja, s gospodarstva i iz drugih objekata iz članka 16. ovoga Pravilnika, a koji se nalaze u ugroženom području i u kojima se drže životinje prijemljivih vrsta.
+(2) Iznimno od zabrane iz stavka 1. ovoga članka, nadležno tijelo može, u posebnim okolnostima, dopustiti prijevoz gnoja i gnojnice, u prijevoznim sredstvima koja su temeljito očišćena i dezinficirana prije i nakon uporabe, kako bi se razbacali u odobrenom području koje se nalazi unutar ugroženog područja i na dovoljnoj udaljenosti od gospodarstava na kojima se drže životinje prijemljivih vrsta, pod sljedećim uvjetima:
+a) pregledom koji je službeni veterinar obavio na svim životinjama prijemljivih vrsta na gospodarstvu, isključena je prisutnost životinja za koje se sumnja da su zaražene virusom slinavke i šapa, a gnoj i gnojnica se odmah razbacuju po tlu kako bi se izbjeglo stvaranje aerosola te se odmah zaoravaju; ili
+b) kliničkim pregledom koji je službeni veterinar obavio na svim životinjama prijemljivih vrsta na gospodarstvu, nisu utvrđeni znakovi na temelju kojih se može postaviti sumnja na slinavku i šap, a gnoj se zaorava ili zakopava u tlo; ili
+c) na gnoj se primjenjuje odredba članka 29. stavka 2. ovoga Pravilnika.

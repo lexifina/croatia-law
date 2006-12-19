@@ -1,0 +1,9 @@
+## Dodatne mjere u slučaju potvrde izbijanja slinavke i šapa
+# Članak 14.
+(1) Na gospodarstvu na kojem je potvrđena slinavka i šap nadležno tijelo može, osim usmrćivanja i neškodljivog uklanjanja prijemljivih vrsta životinja, narediti usmrćivanje i preradu životinja koje nisu prijemljive na slinavku i šap, na način da se izbjegne svaka opasnost od širenja virusa slinavke i šapa. Mjera iz ovoga stavka ne primjenjuje se na životinje vrsta koje nisu prijemljive na slinavku i šap, koje je moguće izolirati, učinkovito očistiti i dezinficirati, a uz uvjet da su pojedinačno označene, a kako bi se, u slučaju kopitara, omogućila kontrola njihovog kretanja u skladu s posebnim propisima.
+(2) Nadležno tijelo može narediti provedbu mjera navedenih u članku 10. stavku 1. točki a) ovoga Pravilnika na epidemiološki povezanim proizvodnim jedinicama ili susjednim/pridruženim gospodarstvima kada se na temelju epidemioloških podataka ili drugih dokaza opravdano sumnja da su ta gospodarstva kontaminirana. U tome slučaju, uzorkovanje i kliničko pretraživanje životinja mora biti provedeno u skladu s alinejom 1. podtočkom 2.1.1. točkom 2. Dodatka III. ovoga Pravilnika. O provedbi navedenih mjera nadležno tijelo mora izvijestiti Europsku komisiju, prije njihove provedbe.
+(3) Odmah nakon potvrde prvog izbijanja slinavke i šapa, nadležno tijelo mora provesti sve aktivnosti potrebne za primjenu hitnog cijepljenja na području najmanje veličine ugroženog područja u skladu s člankom 21. ovoga Pravilnika.
+(4) Nadležno tijelo može narediti provedbu mjera iz članka 7. i 8. ovoga Pravilnika.
+Odjeljak 4.
+MJERE KOJE SE PRIMJENJUJU U POSEBNIM SLUČAJEVIMA
+Mjere koje se primjenjuju u slučaju izbijanja slinavke i šapa u blizini ili unutar određenih objekata u kojima se stalno ili povremeno drže prijemljive vrste životinja

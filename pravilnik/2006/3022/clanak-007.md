@@ -1,0 +1,5 @@
+## Privremena zona kontrole
+# Članak 7.
+(1) Nadležno tijelo može odrediti privremenu zonu kontrole kada to zahtijeva epidemiološka situacija i osobito kada se radi o velikoj gustoći prijemljivih vrsta životinja i intenzivnom kretanju i premještanju životinja ili osoba koje su u kontaktu s prijemljivim vrstama životinja te kada se radi o nepravovremenoj prijavi sumnje na pojavu bolesti ili nedostatku informacija o mogućem izvoru i putovima unošenja virusa slinavke i šapa.
+(2) Nadležno tijelo mora na gospodarstvima u privremenoj zoni kontrole narediti najmanje mjere određene člankom 4. stavkom 2. i 3. točkom a), b) i d) te člankom 5. stavkom 1. ovoga Pravilnika.
+(3) Nadležno tijelo može narediti da mjere koje se primjenjuju u privremenoj zoni kontrole budu nadopunjene privremenom zabranom kretanja i stavljanja u promet svih životinja na većem području ili na cijelom području države. Zabrana kretanja i stavljanja u promet životinja onih vrsta koje nisu prijemljive na slinavku i šap ne smije trajati dulje od 72 sata, osim ako je to opravdano izuzetnim okolnostima.

@@ -1,0 +1,12 @@
+## Nacionalni laboratoriji
+# Članak 67.
+(1) U odnosu na dijagnostiku slinavke i šapa:
+a) laboratorijsko pretraživanje na slinavku i šap mora se obavljati u laboratorijima koje je nadležno tijelo odobrilo za takva pretraživanja;
+b) laboratorijsko pretraživanje u svrhu potvrđivanja prisustva virusa slinavke i šapa ili virusa drugih vezikularnih bolesti mora se obavljati u skladu s člankom 70. ovoga Pravilnika, u laboratoriju kojeg je odobrilo nadležno tijelo;
+c) nacionalni referentni laboratorij za slinavku i šap je Hrvatski veterinarski institut koji je odgovoran za usklađivanje dijagnostičkih standarda i metoda za dijagnostiku slinavke i šapa u Republici Hrvatskoj;
+d) nacionalni referentni laboratorij za slinavku i šap mora obavljati najmanje poslove i zadaće navedene u Dodatku XIII. ovoga Pravilnika;
+e) nacionalni referentni laboratorij iz točke c) ovoga stavka mora biti povezan s Referentnim laboratorijem Europske unije, a naročito mora osigurati slanje odgovarajućih uzoraka u Referentni laboratorij Europske unije.
+(2) Nacionalni referentni laboratorij iz točke c) stavka 1. ovoga članka može pružati usluge nacionalnoga referentnog laboratorija drugim državama. Suradnja između nacionalnih referentnih laboratorija uređuje se uzajamnim sporazumom između nadležnih tijela država članica, o kojemu treba obavijestiti Europsku komisiju.
+(3) Laboratorijska pretraživanja u skladu s ovim Pravilnikom provode se prije svega u svrhu potvrđivanja ili isključivanja prisutnosti slinavke i šapa kao i za isključivanje druge vezikularne bolesti. Kad se potvrdi izbijanje slinavke i šapa i utvrdi serotip virusa, određuju se antigenske značajke tog virusa u odnosu na referentni cjepni soj, prema potrebi uz pomoć Referentnog laboratorija za slinavku i šap Europske unije. Uzorci domaćih životinja koje pokazuju znakove vezikularne bolesti i koje su negativne na virus slinavke i šapa i, gdje je bitno, na virus vezikularne bolesti svinja, moraju biti poslani na daljnja pretraživanja u Referentni laboratorij Europske unije.
+(4) Nacionalni referentni laboratorij mora raspolagati odgovarajućom opremom i primjerenim brojem stručno osposobljenog osoblja za obavljanje laboratorijskih pretraga koje se provode u skladu s odredbama ovoga Pravilnika.
+Sigurnosne norme, smjernice za nadzor i Kodeks dobre prakse za odobrene laboratorije i ustanove u kojima se radi sa živim virusom slinavke i šapa
