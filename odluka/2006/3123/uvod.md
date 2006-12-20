@@ -1,0 +1,1 @@
+Na temelju članka 40.a Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2006. godinu (»Narodne novine«, br. 148/2005, 83/2006 i 131/2006), Vlada Republike Hrvatske je na sjednici održanoj 14. prosinca 2006. godine donijela
