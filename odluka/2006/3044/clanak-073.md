@@ -1,0 +1,6 @@
+## Nadzor poslovanja
+# Članak 73.
+(1) Leasing društvo, pravna osoba povezana s leasing društvom ili druga pravna osoba dužna je ovlaštenoj osobi Agencije, na njezin zahtjev, omogućiti obavljanje nadzora poslovanja u svom sjedištu kao i u drugim prostorijama u kojima obavljaju djelatnosti i poslove u vezi s kojima Agencija provodi nadzor.
+(2) Leasing društvo, pravna osoba povezana s leasing društvom ili druga pravna osoba dužna je ovlaštenoj osobi Agencije, na njezin zahtjev, omogućiti pregled poslovnih knjiga, poslovne dokumentacije i administrativnih, odnosno poslovnih evidencija u opsegu nužnom za obavljanje pojedinog nadzora, odnosno u opsegu određenom zakonom kojim se uređuje pojedini nadzor.
+(3) Leasing društvo, pravna osoba povezana s leasing društvom ili druga pravna osoba dužna je ovlaštenoj osobi Agencije, na njezin zahtjev, izručiti računalne ispise, odnosno preslike poslovnih knjiga, poslovne dokumentacije i administrativnih odnosno poslovnih evidencija.
+(4) Agencija je dužna nadzor poslovanja obavljati na način da time u većoj mjeri nego je to nužno ne ometa normalno poslovanje leasing društva, pravnih osoba povezanih s leasing društvom ili drugih pravnih osoba u skladu s predmetom pojedinog nadzora.
