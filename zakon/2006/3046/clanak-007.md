@@ -1,0 +1,7 @@
+# Članak 7.
+Naslov iznad članka 36. mijenja se i glasi: »Zabrana kreditiranja javnog sektora«.
+Članak 36. mijenja se i glasi:
+»(1) Hrvatska narodna banka ne može odobravati kredite Republici Hrvatskoj, izvanproračunskim fondovima Republike Hrvatske, jedinicama lokalne i područne (regionalne) samouprave i drugim javnim tijelima u Republici Hrvatskoj, niti smije izravno od njih kupovati njihove dužničke instrumente.
+(2) Pravni posao koji Hrvatska narodna banka sklopi sa Republikom Hrvatskom, izvanproračunskim fondovima Republike Hrvatske, jedinicama lokalne i područne (regionalne) samouprave i drugim javnim tijelima u Republici Hrvatskoj ne može imati obilježja kredita niti se može upotrijebiti za odobravanje kredita Republici Hrvatskoj, izvanproračunskim fondovima Republike Hrvatske, jedinicama lokalne i područne (regionalne) samouprave i drugim javnim tijelima u Republici Hrvatskoj ili trećim osobama, posredstvom kojih bi Republika Hrvatska bila krajnji korisnik kredita.
+(3) Kreditom iz stavka 1. ovoga članka neće se smatrati kupnja od strane Hrvatske narodne banke zadužnica koje je izdala Republika Hrvatska, izvanproračunski fondovi Republike Hrvatske, jedinice lokalne i područne (regionalne) samouprave i druga javna tijela u Republici Hrvatskoj, ako je ta kupnja izvršena na sekundarnom tržištu, u skladu s ciljevima monetarne politike Hrvatske narodne banke.
+(4) Iznimno, zabrane iz stavaka 1. i 2. ovoga članka ne primjenjuju se na unutardnevne kredite odobrene Republici Hrvatskoj, uz uvjet da nije moguće produženje kredita na sljedeći dan.«
