@@ -1,0 +1,3 @@
+# Članak 4.
+Kod utvrđivanja obujma građevine za obračun komunalnog doprinosa, uz zapreminu zatvorenog dijela neke građevine uračunavaju se i loggie, natkrivene terase, odnosno natkriveni dijelovi terasa, trijemovi, natkriveni prolazi i drugi dijelovi te građevine koji nisu zatvoreni, ali su natkriveni i omeđeni prema van.
+Zapremina otvorenih dijelova građevine iz stavka 1. ovoga članka utvrđuje se u m3 kao stvarna zapremina tih prostora do visine jedan metar od gornje kote površine njihovog poda, te odgovara stvarnoj tlocrtnoj površini u m2 poda tih prostora ili dijelova prostora koji su natkriveni.

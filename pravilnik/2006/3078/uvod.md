@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 11. Zakona o komunalnom gospodarstvu (»Narodne novine« broj 26/03, pročišćeni tekst, 82/04 i 178/04), ministrica zaštite okoliša, prostornog uređenja i graditeljstva, donosi
