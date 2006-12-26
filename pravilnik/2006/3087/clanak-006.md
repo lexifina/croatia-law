@@ -1,0 +1,6 @@
+## V. OBVEZA DOSTAVE PODATAKA
+# Članak 6.
+(1) Porezna uprava dužna je primjerak rješenja iz članka 2. ovoga pravilnika, kojim se utvrđuje da je nastupila zastara prava na naplatu doprinosa ili otpis doprinosa zbog nenaplativosti, dostaviti Zavodu.
+(2) Porezna uprava dužna je primjerak rješenja iz članka 2. ovoga pravilnika, kojim se utvrđuje da je nastupila zastara prava na naplatu doprinosa ili otpis doprinosa zbog nenaplativosti, dostaviti Središnjem registru osiguranika, za osiguranike koji su u razdoblju za koje su doprinosi otpisani bili osiguranici mirovinskog osiguranja na temelju individualne kapitalizirane štednje.
+(3) Zavod je dužan primjerak rješenja iz članka 2. ovoga pravilnika, kojim se utvrđuje da je nastupila zastara prava na naplatu doprinosa ili otpis doprinosa zbog nenaplativosti, dostaviti Poreznoj upravi.
+(4) Zavod je dužan primjerak rješenja iz članka 2. ovoga pravilnika, kojim se utvrđuje da je nastupila zastara prava na naplatu doprinosa ili otpis doprinosa zbog nenaplativosti, dostaviti Središnjem registru osiguranika, za osiguranike koji su u razdoblju za koje su doprinosi otpisani bili osiguranici mirovinskog osiguranja na temelju individualne kapitalizirane štednje.

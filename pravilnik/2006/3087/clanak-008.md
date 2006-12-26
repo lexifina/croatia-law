@@ -1,0 +1,4 @@
+## VI. POSTUPAK BRISANJA PODATAKA O STAŽU I OSNOVICI OSIGURANJA ZA RAZDOBLJE ZA KOJE SU DOPRINOSI OTPISANI
+# Članak 8.
+(1) Na temelju rješenja iz članka 2. ovoga pravilnika kojim se utvrđuje da je nastupila zastara prava na naplatu doprinosa ili otpis doprinosa zbog nenaplativosti, unutarnja ustrojstvena jedinica mjerodavna za poslove matične evidencije mjesno nadležne područne službe Zavoda brisat će podatke o stažu i osnovici osiguranja za razdoblje za koje su doprinosi otpisani uspostavom prijave BBP i uspostaviti prijavu-odjavu osiguranja za razdoblje osiguranja koje je pokriveno uplaćenim doprinosima.
+(2)Ako je dug za doprinose otpisan za dio razdoblja u godini, unutarnja ustrojstvena jedinica mjerodavna za ekonomsko-financijske poslove mjesno nadležne područne službe Zavoda uspostavit će prijavu o promjeni podataka o stažu osiguranja i osnovici osiguranja - tiskanicu M-8, M-8/Klp, M-8P ili MPP.
