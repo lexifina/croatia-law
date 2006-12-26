@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 4. Zakona o genetski modificiranim organizmima (»Narodne novine«, broj 70/05) (u daljnjem tekstu: Zakon), ministar kulture, uz suglasnosti ministra nadležnog za poslove poljoprivrede, šumarstva i vodnoga gospodarstva i ministra nadležnog za poslove zdravstva, donosi
