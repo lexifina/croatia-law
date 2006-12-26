@@ -1,0 +1,1 @@
+Na temelju članka 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 117/93, 69/97, 33/00, 127/00, 59/01, 107/01, 150/02 i 147/03) i članka 26. Statuta Grada Skradina (»Službeni vjesnik Šibensko-kninske županije«, broj 12/01, 4/03 i 3/06), Gradsko vijeće Grada Skradina, na 11. sjednici, od 23. studenoga 2006. godine, donosi
