@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u Osnovnoj mreži zdravstvene djelatnosti (»Narodne novine« broj 94/05.- u daljnjem tekstu: Pravilnik) u članku 3. dodaje se novi stavak 3. koji glasi:
+»Uz zahtjev za izdavanje mišljenja o opravdanosti osnivanja privatne prakse na novoj adresi podnositelj zahtjeva koji je privatnu praksu obavljao u domu zdravlja na osnovi ugovora o zakupu obvezan je uz dokumentaciju iz stavka 1. ovog članka priložiti i odlukU upravnog vijeća doma zdravlja o raskidu ugovora o zakupu odnosno svoj otkaz ugovora o zakupu ovjeren kod javnog bilježnika.«
