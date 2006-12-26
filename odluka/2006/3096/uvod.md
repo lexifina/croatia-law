@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 117/93., 69/97., 33/00., 137/00., 59/01, i 107/01,) i članka 20. Statuta Općine Višnjan na sjednici Općinskog vijeća Općine Višnjan (»Službeni glasnik Grada Poreča« 10/01 i 1/06) održanoj 7. prosinca 2006. god. donosi se
