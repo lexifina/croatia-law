@@ -1,0 +1,5 @@
+## HRVATSKE KOMORE INŽENJERA ŠUMARSTVA I DRVNE TEHNOLOGIJE
+## I. OPĆE ODREDBE
+# Članak 1.
+(sadržaj Statuta)
+Ovim se Statutom pobliže uređuje ustrojstvo Hrvatske komore inženjera šumarstva i drvne tehnologije (dalje u tekstu: Komora), način odlučivanja, biranja i trajanja, odnosno opoziva mandata članova u tijelima Komore; sazivanju i održavanju sjednica tijela Komore; postupku upisa u imenike ovlaštenih inženjera; načinu vođenja imenika ovlaštenih inženjera; strukovnim zadacima i stručnim smjerovima ovlaštenih inženjera; pravima i dužnostima ovlaštenih inženjera; lakšim i težim povredama dužnosti i ugleda ovlaštenih inženjera i kaznama za te povrede; stegovnom postupku za utvrđivanje povrede dužnosti i ugleda ovlaštenih inženjera; tijelima za pokretanje i vođenje stegovnog postupka; ustrojstvo i djelokrug Stručne službe Komore; načinu ostvarivanja interesa članova; javnosti rada Komore te druga pitanja od značaja za njezine članove ako drugačije nije određeno Zakonom o Hrvatskoj komori inženjera šumarstva i drvne tehnologije (dalje u tekstu: Zakon).
