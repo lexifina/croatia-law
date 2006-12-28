@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o tržištu vrijednosnih papira (»Narodne novine«, br. 84/02.) članak 1. mijenja se i glasi:
+»Ovim se Zakonom uređuju ovlaštenja Hrvatske agencije za nadzor financijskih usluga u postupku nadzora, postupak izdavanja vrijednosnih papira, poslovi s vrijednosnim papirima i osobe ovlaštene za obavljanje poslova s vrijednosnim papirima, uvjeti za organizirano javno trgovanje vrijednosnim papirima, zaštita ulagatelja i nositelja prava iz vrijednosnih papira, nematerijalizirani vrijednosni papiri te ustrojstvo i ovlaštenja središnje depozitarne agencije, burzi i uređenih javnih tržišta.«
