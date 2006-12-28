@@ -1,0 +1,3 @@
+# Članak 12.
+Tim stomatološke zdravstvene zaštite (polivalentne) provodi stomatološku zdravstvenu zaštitu uključujući stomatološko-protetske postupke i stomatološka pomagala, te je obvezan iskazati najmanje 20% bodova za izrađena stomatološko-protetska pomagala mjesečno, što znači da se od ukupnoga mjesečnog broja bodova za tim sa standardnim brojem osiguranih osoba, a koji iznosi 2592 boda, najmanje 518 bodova mora odnositi na stomatološko-protetske postupke, a 518 bodova na obvezne preventivne postupke.
+Navedeno izvršenje iskazuje se razmjerno broju i dobnoj strukturi ugovorenih osiguranih osoba.
