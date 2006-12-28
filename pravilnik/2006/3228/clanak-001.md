@@ -1,0 +1,3 @@
+# Članak 1.
+U članku 6. Pravilnika o obračunavanju i plaćanju vodnoga doprinosa (»Narodne novine« broj 30/06) dodaje se stavak 3. koji glasi:
+»Ako se na mjestu građevine koja se uklanja gradi građevina s dvije ili više namjena navedenih u stavku 1. članka 4. Uredbe o visini vodnoga doprinosa (»Narodne novine« broj 14/06, 35/06 i 39/06; dalje u tekstu: Uredba), vodni doprinos će se obračunati tako da svaka od pojedinih namjena sudjeluje u povećanim mjerama razmjerno njenom sudjelovanju u mjerama cijele nove građevine, neovisno o sudjelovanju pojedinih namjena u mjerama građevine koja se uklanja.«
