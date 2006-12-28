@@ -1,0 +1,3 @@
+# Članak 58.
+Bolničke zdravstvene ustanove koje provode liječenje bolesnika oboljelih od akutnih bolesti na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti u svrhu praćenja troškova, osim načina obračuna cijena utvrđenog ovom Odlukom, ispostavljat će Zavodu tijekom 2007. godine račune za izvršenu bolničku zdravstvenu zaštitu i prema dijagnostičko-terapijskim skupinama (DTS).
+Dijagnostičko-terapijske skupine (DTS) su skupine u koje se razvrstavaju bolesnici na bolničkom liječenju, oboljeli od akutnih bolesti koji imaju sličnu bolničku potrošnju i slične kliničke osobitosti, a koje će biti utvrđene odlukom Upravnog vijeća Zavoda.

@@ -1,0 +1,5 @@
+# Članak 26.
+Zavod u skladu s odredbama članka 5. ove Odluke sklapa ugovore s ljekarnama za opskrbu osiguranih osoba lijekovima utvrđenim Osnovnom listom lijekova i Dopunskom listom lijekova, te za opskrbu osiguranih osoba zavojnim materijalom za potrebe kućnog liječenja.
+Ljekarne su obvezne nabavljati i isporučivati osiguranim osobama Zavoda sve lijekove utvrđene listama lijekova iz stavka 1. ovog članka koji se izdaju na recept, te zavojni materijal za potrebe kućnog liječenja koji doktori primarne zdravstvene zaštite propisuju na recept.
+Ljekarnik ima pravo izdati na recept samo onaj lijek koji je propisan na receptu i pod uvjetom da je propisan u skladu s odredbama Zakona, Zakona o lijekovima i medicinskim proizvodima, Pravilnika o načinu razvrstavanja lijekova, te propisivanju i izdavanju lijekova Pravilnika o načinu propisivanju i izdavanju lijekova na recept i drugih općih akata Zavoda.
+Ako ljekarna nema propisan lijek, obvezna ga je na zahtjev osigurane osobe odmah, a najkasnije u roku od tri dana pribaviti ili njegovo izdavanje osiguranoj osobi osigurati u drugoj ljekarni.

@@ -1,0 +1,2 @@
+# Članak 20.
+Iznimno od odredaba članka 19. ove Odluke Upravno vijeće Zavoda odlukom utvrđuje poseban standard po timu i kriterije za njegovu primjenu za provođenju primarne zdravstvene zaštite u područjima gdje postoje veća odstupanja u organiziranju zdravstvene zaštite zbog nedostatka standardom propisanog broja opredijeljenih osiguranih osoba po timu, odnosno broja timova (zemljopisno-demografska obilježja, prometna povezanost, gustoća naseljenosti, morbiditetna specifičnost i sl.).

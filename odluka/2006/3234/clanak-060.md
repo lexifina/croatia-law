@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 60.
+Iznimno od članka 4. ove Odluke Zavod neće raspisivati natječaj za sklapanje ugovora u djelatnosti hitne medicinske pomoći i sanitetskog prijevoza do donošenja pravilnika ministra nadležnog za zdravstvo iz članka 77. stavka 3. i 78. Zakona o zdravstvenoj zaštiti i s tim u vezi donošenja izmjena i dopuna općih akata Zavoda o ugovaranju zdravstvene zaštite iz obveznog zdravstvenog osiguranja kojima se potonji usklađuju s propisima ministra nadležnog za zdravstvo.
+Do usklađenja općih akata iz stavka 1. ovog članka i izbora najpovoljnijeg ponuditelja za provođenje djelatnosti hitne medicinske pomoći i sanitetskog prijevoza, a po provedenom natječaju u skladu s člankom 73. Zakona, primjenjivat će se ugovori o provođenju hitne medicinske pomoći za 2006. godinu.

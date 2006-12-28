@@ -1,0 +1,3 @@
+# Članak 39.
+Higijensko-epidemiološku zdravstvenu zaštitu, te preventivno-odgojne mjere za zdravstvenu zaštitu školske djece i studenata provode županijski zavodi za javno zdravstvo i Zavod za javno zdravstvo Grada Zagreba s kojim je Zavod sklopio ugovor o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja u skladu sa Zakonom i ovom Odlukom.
+Specijalističko-konzilijarnu zdravstvenu zaštitu, kao i zdravstvenu zaštitu prema posebnim programima utvrđenim odlukom Upravnog vijeća Zavoda provode državni zdravstveni zavodi i županijski zavodi za javno zdravstvo, odnosno Zavod za javno zdravstvo Grada Zagreba, s kojima je Zavod sklopio ugovor o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja u skladu sa Zakonom i ovom Odlukom.
