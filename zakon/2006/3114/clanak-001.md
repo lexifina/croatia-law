@@ -1,0 +1,12 @@
+# Članak 1.
+U Zakonu o priznavanju inozemnih obrazovnih kvalifikacija (»Narodne novine«, br. 158/03.) članak 2. mijenja se i glasi:
+»U ovom Zakonu u uporabi su pojmovi sa sljedećim značenjem:
+- Inozemna obrazovna kvalifikacija - podrazumijeva formalni naziv za određenu razinu odnosno stupanj stečenih znanja, vještina i kompetencija koji se dokazuje inozemnom školskom svjedodžbom, diplomom i drugom javnom ispravom koje izdaje nadležna ustanova.
+- Priznavanje - podrazumijeva formalno potvrđivanje vrijednosti inozemne obrazovne kvalifikacije, odnosno razdoblja obrazovanja, koje je izdalo nadležno tijelo, u svrhu pristupa obrazovanju ili zapošljavanju.
+- Stručno priznavanje - podrazumijeva priznavanje inozemne visokoškolske kvalifikacije u svrhu zapošljavanja u Republici Hrvatskoj.
+- Akademsko priznavanje - podrazumijeva priznavanje inozemne visokoškolske kvalifikacije u svrhu nastavka obrazovanja u Republici Hrvatskoj.
+- Priznavanje razdoblja studija - podrazumijeva priznavanje razdoblja studija provedenog na inozemnoj visokoškolskoj ustanovi, u svrhu nastavka visokoškolskog obrazovanja u Republici Hrvatskoj.
+- Nacionalni ENIC/NARIC ured - izvještajni je centar o akademskoj pokretljivosti i priznavanju visokoškolskih kvalifikacija i član Europske mreže nacionalnih izvještajnih centara o akademskoj pokretljivosti i priznavanju (ENIC - European Network of Information Centres) te Nacionalnoga informacijskog centra za akademsko priznavanje (NARIC - National Academic Recognition Information Center).
+- Vijeće za vrednovanje inozemnih visokoškolskih kvalifikacija - stručno tijelo Agencije za znanost i visoko obrazovanje, koje provodi vrednovanje inozemnih visokoškolskih kvalifikacija.
+- Ured za akademsko priznavanje - osniva se na svakom sveučilištu, veleučilištu i visokoj školi radi obavljanja stručnih i administrativnih poslova za akademsko priznavanje inozemnih visokoškolskih kvalifikacija i razdoblja studija, sukladno općim aktima sveučilišta, veleučilišta i visokih škola. Ustroj, djelokrug i način rada Ureda propisuje se općim aktom sveučilišta, veleučilišta i visokih škola sukladno ovom Zakonu.
+- Vrednovanje inozemnih visokoškolskih kvalifikacija - podrazumijeva procjenu razine, odnosno stupnja inozemne visokoškolske kvalifikacije pojedinca, koju daje Vijeće za vrednovanje inozemnih visokoškolskih kvalifikacija, odnosno u slučaju akademskog priznavanja stručno tijelo visokog učilišta određeno statutom, na temelju kriterija koje utvrđuje Nacionalni ENIC/NARIC ured.«
