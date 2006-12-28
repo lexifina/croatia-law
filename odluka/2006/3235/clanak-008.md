@@ -1,0 +1,2 @@
+# Članak 8.
+Na osnovi mjerila iz članka 2. ove Odluke, a prema odredbama članka 3. ove Odluke utvrđuju se posebni standardi za provođenje zdravstvene zaštite iz obveznog zdravstvenog osiguranja u djelatnostima: opće/obiteljske medicine, zdravstvene zaštite predškolske djece, zdravstvene zaštite žena, stomatološke zdravstvene zaštite (polivalentne), higijensko-epidemiološke zdravstvene zaštite, preventivno-odgojnih mjera za zdravstvenu zaštiti školske djece i studenata, patronažne zdravstvene zaštite, primarne laboratorijske dijagnostike i hitne medicinske pomoći.
