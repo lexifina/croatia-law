@@ -1,0 +1,2 @@
+# Članak 54.
+Ugostiteljima koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost u smještanim objektima iz skupine »Hoteli« koji se kategoriziraju, a do stupanja na snagu ovoga Zakona nisu ishodili rješenje o kategorizaciji sukladno Pravilniku o razvrstavanju, kategorizaciji, posebnim standardima i posebnoj kvaliteti smještajnih objekata iz skupine »Hoteli« (»Narodne novine«, br. 48/02., 108/02., 132/03. i 73/04.) Ministarstvo će rješenjem zabraniti obavljanje ugostiteljske djelatnosti i utvrditi prestanak važenja izdanog rješenja o kategorizaciji.

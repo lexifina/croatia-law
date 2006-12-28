@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Za pojedine vrste ugostiteljskih objekata iz skupine »Hoteli« mogu se, na zahtjev ugostitelja, utvrditi posebni standardi i dodijeliti oznaka kvalitete.
+(2) Ministar pravilnikom propisuje vrste ugostiteljskih objekata iz skupine »Hoteli« za koje se mogu utvrditi posebni standardi i dodijeliti oznaka kvalitete, vrste posebnih standarda iz stavka 1. ovoga članka, uvjete i elemente koji moraju biti ispunjeni za pojedini standard, oznake i način označavanja posebnih standarda, način utvrđivanja posebnih standarda, uvjete za dodjelu oznake kvalitete, način dodjele te izgled oznake kvalitete.

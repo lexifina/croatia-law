@@ -1,0 +1,4 @@
+# Članak 58.
+(1) Predstavničko tijelo dužno je donijeti propise na osnovi ovlaštenja iz ovoga Zakona u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Do stupanja na snagu propisa iz stavka 1. ovoga članka Zakona ostaju na snazi propisi koje su predstavnička tijela donijela na temelju ovlaštenja iz Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 48/95., 20/97., 68/98., 45/99., 76/99., 92/01., 117/01., 4/02., 117/03. i 42/05.) u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.
+(3) Pojedinačna rješenja poglavarstva jedinice lokalne samouprave donesena na temelju članka 11. stavka 2. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 48/95., 20/97., 68/98., 45/99., 76/99., 92/01., 117/01., 4/02., 117/03. i 42/05.) koja su u suprotnosti s odredbama ovoga Zakona prestaju važiti od dana stupanja na snagu ovoga Zakona.

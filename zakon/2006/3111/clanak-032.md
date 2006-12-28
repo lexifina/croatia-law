@@ -1,0 +1,2 @@
+# Članak 32.
+Boravak više od 15 osoba koje nisu članovi uže obitelji sukladno posebnom propisu kojim se propisuje obveza plaćanja boravišne pristojbe, u stanovima, apartmanima i kućama za odmor, u turističkim mjestima kojima je posebnim propisom razdobljem glavne sezone obuhvaćeno razdoblje od 15. lipnja do 15. rujna, u tom razdoblju smatra se pružanjem ugostiteljskih usluga građana u domaćinstvu.

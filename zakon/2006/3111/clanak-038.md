@@ -1,0 +1,11 @@
+# Članak 38.
+(1) Seljačko domaćinstvo u smislu ovoga Zakona je seljačko gospodarstvo ili obiteljsko poljoprivredno gospodarstvo upisano u Upisnik poljoprivrednih gospodarstava sukladno propisima iz nadležnosti ministarstva nadležnog za poljoprivredu i koje pruža ugostiteljske usluge sukladno odredbama ovoga Zakona.
+(2) U seljačkom domaćinstvu mogu se pružati sljedeće ugostiteljske usluge:
+1. pripremanje i usluživanje toplih i hladnih jela te pića i napitaka iz pretežito vlastite proizvodnje za najviše 50 gostiju (izletnika) istodobno,
+2. usluživanje (kušanje) mošta, vina, voćnih vina, drugih proizvoda od vina i voćnih vina, jakih alkoholnih i alkoholnih pića te domaćih narezaka iz vlastite proizvodnje u uređenom dijelu stambenog ili gospodarskog objekta, u zatvorenom, natkrivenom ili na otvorenom prostoru za najviše 50 gostiju (izletnika) istodobno,
+3. usluge smještaja u sobi i apartmanu do najviše 10 soba odnosno za 20 gostiju istodobno, odnosno usluge smještaja u kampu s najviše 10 smještajnih jedinica, odnosno za 30 gostiju istodobno, samo za goste kojima se pružaju usluge prehrane, točenja pića i napitaka (doručak ili polupansion ili puni pansion) iz pretežito vlastite proizvodnje.
+(3) Jela, pića i napici koji se uslužuju u seljačkom domaćinstvu moraju biti uobičajeni za kraj u kojem je seljačko domaćinstvo.
+(4) Ministar pravilnikom propisuje minimalne uvjete za vrstu, kategorije, uvjete za kategorije, oznake za kategorije, način označavanja kategorija te način kategorizacije objekata u kojima se pružaju usluge smještaja iz stavka 2. točke 3. ovoga članka što se smatra pretežito vlastitom proizvodnjom, a što jelima, pićima i napicima uobičajenim za kraj u kojem je seljačko domaćinstvo, te vrste proizvoda koji ne moraju biti iz vlastite proizvodnje u smislu stavka 2. točke 1. i 2. ovoga članka.
+(5) Na pružanje usluga u seljačkom domaćinstvu na odgovarajući način primjenjuju se odredbe članka 28. do 35. i članka 37. ovoga Zakona, s tim da se pri pružanju usluga smještaja mora vidno istaknuti odnosno navesti u računu iznos boravišne pristojbe.
+(6) Rješenje o odobrenju za pružanje usluga u seljačkom domaćinstvu upisuje se u Upisnik o pružanju ugostiteljskih usluga u seljačkom domaćinstvu koji vodi nadležni ured.
+(7) Ministar pravilnikom propisuje oblik, sadržaj i način vođenja Upisnika iz stavka 5. ovoga članka.

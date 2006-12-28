@@ -1,0 +1,2 @@
+# Članak 56.
+Rok iz članka 23. stavka 1. ovoga Zakona u kojem je Ministarstvo dužno provesti ponovnu kategorizaciju ugostiteljskih objekata iz članka 22. stavka 1. ovoga Zakona i ponovno utvrđivanje posebnog standarda i oznake kvalitete za ugostiteljske objekte iz članka 16. stavka 1. ovoga Zakona za ugostiteljske objekte kojima je do stupanja na snagu ovoga Zakona rješenjem utvrđena kategorija, odnosno posebni standard i oznaka kvalitete teče od dana konačnosti tih rješenja.

@@ -1,0 +1,2 @@
+# Članak 43.
+Ako gospodarski inspektor utvrdi da je oprema za kampiranje postavljena izvan kampova iz skupine »Kampovi i druge vrste ugostiteljskih objekata za smještaj« i prostora određenih za kampiranje izvan kampa u skladu sa člankom 27. stavkom 2. i 3. ovoga Zakona, u svrhu kampiranja, usmenim rješenjem će narediti uklanjanje šatora, kamp-kućica, kamp-prikolica i druge opreme za kampiranje i zahtijevati izvršavanje mjere bez odlaganja (odmah).

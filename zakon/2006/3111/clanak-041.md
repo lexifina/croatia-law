@@ -1,0 +1,7 @@
+# Članak 41.
+(1) Gospodarski inspektor usmenim rješenjem koje će izreći na licu mjesta ugostitelju ili njegovu predstavniku, zabranit će pružanje ugostiteljskih usluga ugostitelju koji se ne pridržava propisanoga radnog vremena i izvršiti pečaćenje uređaja, opreme i ostalih prostorija u kojima se obavlja ugostiteljska djelatnost, te u roku od pet dana donijeti pisano rješenje o zabrani rada, u trajanju od 30 dana od dana donesenoga usmenog rješenja.
+(2) Ukoliko se u ugostiteljskom objektu nalaze pokvarljive namirnice, ugostitelj je dužan pisanim putem, u roku od 24 sata od dana pečaćenja poslovnih prostorija, zatražiti da se zapečaćene prostorije privremeno otpečati i u prisutnosti gospodarskog inspektora iz istih odmah iznijeti pokvarljive namirnice, nakon čega će gospodarski inspektor poslovne prostorije ponovno zapečatiti.
+(3) Žalba se može izjaviti samo na pisani otpravak rješenja iz stavka 1. ovoga članka.
+(4) Žalba protiv rješenja ne zadržava izvršenje rješenja.
+(5) Iznimno se mjera pečaćenja iz stavka 1. ovoga članka neće izvršiti ako ugostitelj najkasnije u roku od 2 dana od donošenja usmenog rješenja o zabrani pružanja ugostiteljskih usluga dostavi gospodarskom inspektoru dokaz o izvršenoj uplati novčanog iznosa od 30.000,00 kuna u korist državnog proračuna.
+(6) U slučaju iz stavka 5. ovoga članka, gospodarski inspektor zaključkom će obustaviti upravni postupak i poništiti usmeno rješenje iz stavka iz stavka 1. ovoga članka.

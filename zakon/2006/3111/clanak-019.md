@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Ugostitelj ne može obavljati ugostiteljsku djelatnost bez rješenja nadležnog ureda odnosno Ministarstva da ugostiteljski objekt ispunjava uvjete propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona.
+(2) Iznimno od odredbe stavka 1. ovoga članka, ugostitelj može početi obavljati ugostiteljsku djelatnost u pojedinim vrstama ugostiteljskih objekata iz skupine »Hoteli« i prije nego što od Ministarstva pribavi rješenje o kategoriji objekta ukoliko je za građevinu, koja je, odnosno u kojoj se nalazi ugostiteljski objekt, u skladu s posebnim propisom ishodio odgovarajući akt prema kojem se građevina smije početi rabiti, odnosno staviti u pogon.
+(3) Ministarstvo, na zahtjev ugostitelja, u slučaju iz stavka 2. ovoga članka, rješenjem utvrđuje ispunjavanje uvjeta za početak obavljanja ugostiteljske djelatnosti.
+(4) Rješenjem iz stavka 3. ovoga članka utvrđuje se privremeno obavljanje ugostiteljske djelatnosti u određenom objektu i to najdulje godinu dana od dana njegove konačnosti.
+(5) Ministar propisuje vrste ugostiteljskih objekata iz stavka 2. ovoga članka u kojima i pod kojim uvjetima ugostitelj može početi obavljati ugostiteljsku djelatnost prije nego što pribavi rješenje o kategoriji objekta.

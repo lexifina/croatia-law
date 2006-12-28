@@ -1,0 +1,2 @@
+# Članak 61.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o ugostiteljskoj djelatnosti (»Narodne novine«, br. 48/95., 20/97., 68/98., 45/99., 76/99., 92/01., 117/01., 4/02., 117/03. i 42/05.) i odredbe članka 58. stavka 5. Zakona o Državnom inspektoratu (»Narodne novine«, br. 76/99., 93/03., 151/03., 160/04., 174/04., 33/05., 48/05., 129/05. i 140/05.) u dijelu koji se odnosi na provedbu inspekcijskog nadzora u području ugostiteljske djelatnosti, odnosno pružanje ugostiteljskih usluga.
