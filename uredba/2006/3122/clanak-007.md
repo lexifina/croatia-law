@@ -1,0 +1,5 @@
+# Članak 7.
+Iza članka 59. dodaje se članak 59a. i naslov iznad njega, koji glase:
+»I. Odjel za protokol, odnose s javnošću i koordinaciju aktivnosti Carinske uprave
+Članak 59a.
+U okviru Odjela, u koordinaciji s Ministarstvom financija obavljaju se poslovi komuniciranja s medijima, koordiniranja rada s ustrojstvenim jedinicama Carinske uprave, suradnje s Vladom Republike Hrvatske kada se raspravlja o poslovima iz djelokruga Carinske uprave, suradnja s drugim tijelima državne uprave, praćenja cjelokupne aktivnosti Carinske uprave i prikupljanje svih podataka potrebnih za predstavljanje rada Carinske uprave, obavljanja protokolarnih i ostalih poslova u svezi s realizacijom programa aktivnosti ravnatelja, obavljanje poslova u svezi s predstavkama i pritužbama građana, poslovi vezano uz međunarodnu razmjenu carinskih stručnjaka, poslovi vezano uz pravovremeno dostavljanje materijala i izvješća za ravnatelja, ministra financija i druga tijela državne vlasti, poslovi vezano uz pripremu i održavanje sastanaka kolegija ravnatelja.«.
