@@ -1,0 +1,1 @@
+Na temelju članka 181. stavka 1. Zakona o investicijskim fondovima (»Narodne novine«, br.150/05; u daljnjem tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: Agencija) donijela je na sjednici održanoj 14. prosinca 2006. godine
