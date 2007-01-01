@@ -1,0 +1,6 @@
+# Članak 11.
+1) Nakon bakteriološkog, patološkog, tuberkulinskog ili molekularnog ispitivanja životinja, životinje u kojih je službeno potvrđena tuberkuloza te one životinje koje nadležno tijelo smatra zaraženima, moraju, što je prije moguće, biti zaklana pod službenim nadzorom, a najkasnije 30 dana nakon što je njihov vlasnik ili odgovorna osoba službeno izviještena o rezultatima testiranja te o svojoj obvezi da, prema planu iskorjenjivanja tuberkuloze, uputi zaražena goveda na klanje u navedenom roku.
+2) U životinja s pozitivnim nalazom na tuberkulozu goveda koje ne pokazuju kliničke znakove bolesti, nadležno tijelo može produljiti rok iz stavka 1. ovoga članka na razdoblje ne dulje od tri mjeseca, u slučaju:
+a) kada se radi o ženki koja se treba oteliti u roku od tri mjeseca,
+b) kada je naređeno klanje svih goveda iz stada s više od 20 životinja na području na kojemu se, zbog nedostatnih kapaciteta klaonica određenih za tu svrhu, klanje ne može izvršiti u roku od 30 dana.
+3) U Svjedodžbu o zdravstvenom stanju i mjestu podrijetla životinje (u daljnjem tekstu: Svjedodžba) koja prati goveda upućena na klanje, kad je kod njih utvrđena pozitivna ili sumnjiva reakcija na tuberkulin, upisuje se: »TBC goveda«.

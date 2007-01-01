@@ -1,0 +1,4 @@
+# Članak 12.
+1) Nakon klanja goveda iz članka 11. ovoga Pravilnika, a prije uvođenja novih životinja u stado, staje i druge nastambe u kojima životinje borave te svi kontejneri, posude, oprema i ostali predmeti korišteni u radu sa životinjama moraju se očistiti, oprati i dezinficirati pod službenim nadzorom u skladu s posebnim propisima i uputama ovlaštenog veterinara.
+2) Sva prijevozna sredstva, kontejneri, oprema i mjesta na kojima je izvršen utovar životinja moraju se oprati i dezinficirati nakon upotrebe, utovara i prijevoza životinja iz zaraženog stada ili materijala koji potječu od takvih životinja ili materijala i tvari s kojima su zaražene životinje bile u kontaktu.
+3) Sredstva za dezinfekciju koja se koriste te njihove koncentracije moraju biti odobrena za uporabu u skladu s posebnim propisima.
