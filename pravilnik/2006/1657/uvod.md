@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 6., članka 28. stavka 3., članka 58. stavka 2. i 3., članka 66. stavka 5. Zakona o veterinarstvu (»Narodne novine«, broj 70/97, 105/01 i 172/03) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
