@@ -1,0 +1,791 @@
+ZBIRNI PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE U 2007. GODINI PO ŽUPANIJAMA
+Tablica 1.
+|  | ŽUPANIJA
+|  | ŠKOLSTVO
+|  | SOCIJALNA SKRB
+|  | ZDRAVSTVO
+|  | VATROGASTVO
+|  | SVEUKUPNE
+|  | OBVEZE ZA
+|  | DECENTRALIZIRANE FUNKCIJE
+|  | OSNOVNO ŠKOLSTVO (OBVEZA GRADOVA I ŽUPANIJA)
+|  | SREDNJE
+|  | ŠKOLSTVO
+|  | CENTRI |  | ZA SOCIJALNU SKRB I POMOĆ ZA OGRJEV
+|  | DOMOVI |  | ZA
+|  | STARIJE I
+|  | NEMOĆNE OSOBE
+|  | ZDRAVSTVENE USTANOVE
+|  | JAVNE |  | VATROGASNE POSTROJBE (OBVEZA
+|  | OPĆINA I GRADOVA)
+1
+2
+3
+4
+5
+6
+7
+8 |  | (2+3+4+5+6+7)
+ZAGREBAČKA
+73.916.341
+15.987.150
+|  | 4.982.150
+|  | 0
+|  | 17.623.793
+|  | 15.006.237
+|  | 127.515.671
+KRAPINSKO-ZAGORSKA
+30.804.486
+13.952.930
+|  | 2.863.500
+|  | 0
+|  | 16.086.124
+|  | 8.204.134
+|  | 71.911.174
+SISAČKO-MOSLAVAČKA
+44.094.904
+16.087.749
+|  | 6.792.850
+|  | 9.111.000
+|  | 20.853.883
+|  | 13.339.737
+|  | 110.280.123
+KARLOVAČKA
+33.080.940
+15.252.900
+|  | 4.829.400
+|  | 4.080.000
+|  | 16.101.640
+|  | 10.387.650
+|  | 83.732.530
+VARAŽDINSKA
+41.329.800
+19.330.793
+|  | 3.552.650
+|  | 8.018.000
+|  | 19.888.000
+|  | 6.056.547
+|  | 98.175.790
+KOPRIVNIČKO-KRIŽEVAČKA
+28.150.107
+10.447.825
+|  | 2.846.300
+|  | 7.283.000
+|  | 13.378.425
+|  | 10.989.841
+|  | 73.095.498
+BJELOVARSKO-BILOGORSKA
+31.037.806
+14.588.844
+|  | 3.904.550
+|  | 4.332.000
+|  | 15.073.843
+|  | 11.746.883
+|  | 80.683.926
+PRIMORSKO-GORANSKA
+52.599.686
+33.429.605
+|  | 5.224.750
+|  | 21.004.000
+|  | 34.692.185
+|  | 30.131.820
+|  | 177.082.046
+LIČKO-SENJSKA
+16.831.823
+4.897.683
+|  | 1.721.550
+|  | 6.833.000
+|  | 7.946.855
+|  | 6.253.500
+|  | 44.484.411
+VIROVITIČKO-PODRAVSKA
+22.805.281
+9.100.672
+|  | 2.833.750
+|  | 0
+|  | 10.684.531
+|  | 5.083.491
+|  | 50.507.725
+POŽEŠKO-SLAVONSKA
+21.972.644
+9.759.678
+|  | 2.467.600
+|  | 7.596.000
+|  | 9.324.665
+|  | 2.141.474
+|  | 53.262.061
+BRODSKO-POSAVSKA
+40.682.400
+15.775.872
+|  | 5.135.000
+|  | 4.829.000
+|  | 17.204.862
+|  | 7.016.669
+|  | 90.643.803
+ZADARSKA
+36.659.247
+20.744.469
+|  | 4.090.900
+|  | 6.604.000
+|  | 16.725.173
+|  | 22.651.348
+|  | 107.475.137
+OSJEČKO-BARANJSKA
+69.897.580
+36.422.416
+|  | 10.103.450
+|  | 13.288.000
+|  | 32.686.852
+|  | 14.613.864
+|  | 177.012.162
+ŠIBENSKO-KNINSKA
+25.440.374
+10.291.165
+|  | 7.149.250
+|  | 6.321.000
+|  | 15.706.917
+|  | 12.069.373
+|  | 76.978.079
+VUKOVARSKO-SRIJEMSKA
+41.925.661
+17.944.001
+|  | 5.319.300
+|  | 10.319.000
+|  | 20.398.855
+|  | 10.524.901
+|  | 106.431.718
+SPLITSKO-DALMATINSKA
+91.168.849
+50.069.172
+|  | 9.193.000
+|  | 21.768.000
+|  | 41.916.904
+|  | 18.542.681
+|  | 232.658.606
+ISTARSKA
+48.120.312
+22.872.102
+|  | 3.133.000
+|  | 17.013.000
+|  | 20.704.444
+|  | 31.056.418
+|  | 142.899.276
+DUBROVAČKO-NERETVANSKA
+29.024.199
+14.975.595
+|  | 2.526.550
+|  | 12.437.000
+|  | 15.636.777
+|  | 17.680.504
+|  | 92.280.625
+MEĐIMURSKA
+25.152.071
+10.743.685
+|  | 2.973.350
+|  | 6.220.000
+|  | 12.465.292
+|  | 4.649.836
+|  | 62.204.234
+GRAD ZAGREB
+132.521.716
+95.584.570
+|  | 9.905.700
+|  | 56.845.000
+|  | 77.538.257
+|  | 41.761.137
+|  | 414.156.380
+UKUPNO
+937.216.227
+458.258.876
+|  | 101.548.550
+|  | 223.901.000
+|  | 452.638.277
+|  | 299.908.045
+|  | 2.473.470.975
+PREGLED SREDSTAVA ZA DECENTRALIZIRANU FUNKCIJU OSNOVNOG ŠKOLSTVA PO ŽUPANIJAMA U 2007. GODINI
+Tablica 2.ž.
+Žup.
+|  | broj
+|  | Nositelj financiranja - županije
+|  | Sveukupno
+|  | kuna
+1
+2
+3
+1.
+ZAGREBAČKA
+42.993.615
+2.
+|  | KRAPINSKO-ZAGORSKA
+28.464.365
+3.
+|  | SISAČKO-MOSLAVAČKA
+29.180.573
+4.
+KARLOVAČKA
+21.838.237
+5.
+VARAŽDINSKA
+32.864.763
+6.
+|  | KOPRIVNIČKO-KRIŽEVAČKA
+21.149.718
+7.
+|  | BJELOVARSKO-BILOGORSKA
+23.527.395
+8.
+|  | PRIMORSKO-GORANSKA
+30.134.001
+9.
+LIČKO-SENJSKA
+13.393.279
+10.
+|  | VIROVITIČKO-PODRAVSKA
+17.552.358
+11.
+|  | POŽEŠKO-SLAVONSKA
+16.289.383
+12.
+|  | BRODSKO-POSAVSKA
+26.564.322
+13.
+ZADARSKA
+25.089.114
+14.
+|  | OSJEČKO-BARANJSKA
+52.162.166
+15.
+|  | ŠIBENSKO-KNINSKA
+16.426.501
+16.
+|  | VUKOVARSKO-SRIJEMSKA
+35.486.172
+17.
+|  | SPLITSKO-DALMATINSKA
+65.199.262
+18.
+ISTARSKA
+17.990.937
+19.
+|  | DUBROVAČKO-NERETVANSKA
+20.763.249
+20.
+MEĐIMURSKA
+19.926.804
+21.
+GRAD ZAGREB
+132.521.716
+UKUPNO |  | ŽUPANIJE
+689.517.930
+PREGLED SREDSTAVA ZA DECENTRALIZIRANU FUNKCIJU OSNOVNOG ŠKOLSTVA PO GRADOVIMA U 2007. GODINI
+Tablica 2. g.
+Red.
+|  | broj
+|  | Nositelj financiranja - gradovi
+|  | Sveukupno
+|  | kuna
+1
+2
+3
+1.
+VELIKA GORICA
+13.609.470
+2.
+SAMOBOR
+8.272.654
+3.
+VRBOVEC
+4.510.163
+4.
+ZAPREŠIĆ
+4.530.439
+5.
+KRAPINA
+2.340.121
+6.
+SISAK
+9.632.357
+7.
+KUTINA
+5.281.974
+8.
+KARLOVAC
+11.242.703
+9.
+VARAŽDIN
+8.465.037
+10.
+KOPRIVNICA
+7.000.389
+11.
+BJELOVAR
+7.510.411
+12.
+RIJEKA
+19.433.035
+13.
+CRIKVENICA
+1.713.583
+14.
+OPATIJA
+1.319.067
+15.
+GOSPIĆ
+3.438.544
+16.
+VIROVITICA
+5.252.923
+17.
+POŽEGA
+5.683.261
+18.
+SLAVONSKI BROD
+14.118.078
+19.
+ZADAR
+11.570.133
+20.
+OSIJEK
+17.735.414
+21.
+ŠIBENIK
+9.013.873
+22.
+VINKOVCI
+6.439.489
+23.
+MAKARSKA
+2.265.174
+24.
+SPLIT
+23.704.413
+25.
+PULA - POLA
+10.289.027
+26.
+LABIN
+2.812.348
+27.
+PAZIN
+6.427.993
+28.
+POREČ - PARENZO
+4.535.228
+29.
+ROVINJ - ROVIGNO
+2.639.381
+30.
+UMAG - UMAGO
+3.425.398
+31.
+DUBROVNIK
+8.260.950
+32.
+ČAKOVEC
+5.225.267
+UKUPNO GRADOVI
+247.698.297
+PREGLED SREDSTAVA ZA DECENTRALIZIRANU FUNKCIJU VATROGASTVA PO OPĆINAMA/GRADOVIMA U 2007. GODINI
+Tablica 3. općine/gradovi
+|  | Red.broj
+|  | Nositelj financiranja
+|  | općina/grad
+Naziv |  | javne vatrogasne postrojbe
+|  | Sveukupno
+|  | kuna
+1
+2
+3
+4
+1.
+Grad Zagreb
+JVP ZAGREB
+41.761.137
+2.
+Grad Zaprešić
+JVP ZAPREŠIĆ
+3.747.320
+3.
+Grad Samobor
+JVP SAMOBOR
+2.910.753
+4.
+Grad Velika Gorica
+JVP VELIKA GORICA
+4.673.743
+5.
+Grad Ivanić Grad
+JVP IVANIĆ GRAD
+3.674.421
+6.
+ZAGORSKA JVP
+6.414.652
+Grad Zabok (9,22%)
+591.432
+Grad Klanjec (3,18%)
+203.986
+Grad Oroslavje (6,15%)
+394.501
+Grad Pregrada (7,05%)
+452.233
+Grad Zlatar (6,40%)
+410.537
+Grad Donja Stubica (5,83%)
+373.974
+Općina Bedekovčina (8,34%)
+534.982
+Općina Budinšćina (2,75%)
+176.402
+Općina Desinić (3,42%)
+219.381
+Općina Gornja Stubica (5,63%)
+361.145
+Općina Hrašćina (1,80%)
+115.464
+Općina Konjšćina (4,01%)
+257.228
+Općina Kraljevec na Sutli (1,79%)
+114.822
+Općina Krapinske Toplice (5,65%)
+362.428
+Općina Kumrovec (1,82%)
+116.747
+Općina Marija Bistrica (6,50%)
+416.952
+Općina Stubičke Toplice (2,71%)
+173.837
+Općina Sveti Križ Začretje (6,51%)
+417.594
+Općina Tuhelj (2,15%)
+137.915
+Općina Veliko Trgovišće (5,13%)
+329.072
+Općina Zagorska Sela (1,18%)
+75.693
+Općina Zlatar Bistrica (2,78%)
+178.327
+7.
+Grad Krapina
+JVP KRAPINA
+1.789.482
+8.
+Grad Sisak
+JVP SISAK
+6.074.256
+9.
+Grad Petrinja
+JVP PETRINJA
+3.667.522
+10.
+Grad Kutina
+JVP KUTINA
+3.597.959
+11.
+Grad Karlovac
+JVP KARLOVAČKA
+7.109.621
+12.
+Grad Ogulin
+JVP OGULIN
+3.278.029
+13.
+Grad Varaždin
+JVP VARAŽDIN
+6.056.547
+14.
+Grad Koprivnica
+JVP KOPRIVNICA
+4.737.892
+15.
+Grad Đurđevac
+JVP ĐURĐEVAC
+3.378.733
+Grad Đurđevac (69,40%)
+2.344.840
+Općina Virje (10,70%)
+361.524
+Općina Klištar Podravski (5,08%)
+171.640
+Općina Kalinovac (4,88%)
+164.882
+Općina Molve (4,05%)
+136.838
+Općina Ferdinandovac (2,97%)
+100.349
+Općina Podravske Sesvete (1,84%)
+62.169
+Općina Novo Virje (1,84%)
+36.491
+16.
+Grad Križevci
+JVP KRIŽEVCI
+2.873.216
+17.
+Grad Bjelovar
+JVP BJELOVAR
+5.513.373
+18.
+Grad Daruvar
+JVP DARUVAR
+2.571.219
+Grad Daruvar (78,00%)
+2.005.551
+Općina Sirač (7,00%)
+179.985
+Općina Končanica (5,00%)
+128.561
+Općina Đulovac (5,00%)
+128.561
+Općina Dežanovac (5,00%)
+128.561
+19.
+Grad Garešnica
+JVP GAREŠNICA
+1.974.212
+20.
+Grad Čazma
+JVP ČAZMA
+1.688.079
+21.
+Grad Rijeka
+JVP RIJEKA
+16.303.897
+22.
+Grad Mali Lošinj
+JVP LOŠINJ
+2.800.062
+23.
+Grad Crikvenica
+JVP |  | CRIKVENICA
+2.102.092
+24.
+Grad Krk
+JVP KRK
+2.940.047
+25.
+Grad Opatija
+JVP OPATIJA
+4.260.098
+26.
+Grad Delnice
+JVP DELNICE
+1.725.624
+27.
+Grad Gospić
+JVP GOSPIĆ
+2.708.739
+28.
+Općina Plitvička Jezera
+JVP PLITVIČKA
+|  | JEZERA
+1.729.787
+29.
+Grad Senj
+JVP SENJ
+1.814.974
+30.
+Grad Virovitica
+JVP |  | VIROVITICA
+2.851.623
+31.
+Grad Slatina
+JVP SLATINA
+2.231.868
+32.
+Grad Požega
+JVP POŽEGA
+2.141.474
+33.
+Grad Slavonski Brod
+JVP SLAVONSKI |  | BROD
+7.016.669
+34.
+Grad Zadar
+JVP ZADAR
+13.659.049
+35.
+Grad Biograd na Moru
+JVP BIOGRAD
+3.028.173
+36.
+Grad Benkovac
+JVP BENKOVAC
+2.705.322
+37.
+Općina Gračac
+JVP GRAČAC
+3.258.804
+38.
+Grad Osijek
+JVP OSIJEK
+12.014.053
+39.
+Grad Beli Manastir
+JVP BELI |  | MANASTIR
+2.599.811
+40.
+Grad Šibenik
+JVP ŠIBENIK
+7.218.122
+41.
+Grad Drniš
+JVP DRNIŠ
+2.027.637
+42.
+Grad Knin
+JVP KNIN
+2.823.614
+43.
+Grad Vinkovci
+JVP VINKOVCI
+3.329.705
+44.
+Grad Vukovar
+JVP VUKOVAR
+5.351.563
+45.
+Grad Ilok
+JVP ILOK
+1.843.633
+46.
+Grad Split
+JVP SPLIT
+14.137.323
+47.
+Grad Solin
+JVP SOLIN
+1.804.561
+48.
+Grad Imotski
+JVP IMOTSKI
+2.600.797
+49.
+JVP PULA
+9.753.878
+Grad Pula - Pola (68,92%)
+6.722.372
+Općina Barban (3,27%)
+318.952
+Općina Fažana - Fasana (3,78%)
+368.697
+Općina |  | Ližnjan - Lisignano (3,45%)
+336.509
+Općina Marčana (4,59%)
+447.703
+Općina Medulin (6,88%)
+671.066
+Općina Svetvinčenat (2,61%)
+254.577
+Grad Vodnjan - Dignano (6,50%)
+634.002
+50.
+JVP PAZIN
+3.651.317
+Grad Pazin (49,29%)
+1.799.734
+Općina Cerovlje (9,55%)
+348.701
+Općina Gračišće (7,66%)
+279.691
+Općina Lupoglav (5,15%)
+188.043
+Općina Karojba (7,73%)
+282.247
+Općina Motovun - Montona (5,78%)
+211.046
+Općina Tinjan (9,58%)
+349.796
+Općina Sveti Petar u Šumi (5,26%)
+192.059
+51.
+JVP POREČ
+3.814.100
+Grad Poreč - |  | Parenzo (73,90%)
+2.818.619
+Općina Sveta |  | Nedelja (sjedište Nedešćina) (2,13%)
+81.241
+Općina |  | Višnjan - Visignano (2,61%)
+99.548
+Općina |  | Kaštelir - Labinci - Castelliere - S. Domenica (1,36%)
+51.872
+Općina |  | Vižinada - Visinada (1,44%)
+54.923
+Općina Vrsar |  | - Orsera (18,56%)
+707.897
+52.
+JVP ROVINJ
+3.486.251
+Grad Rovinj - |  | Rovigno (88,17%)
+3.073.827
+Općina Bale - |  | Valle (2,10%)
+73.212
+Općina |  | Kanfanar (3,20%)
+111.560
+Općina Žminj |  | (6,53%)
+227.652
+53.
+JVP LABIN
+3.202.926
+Grad Labin |  | (49,90%)
+1.598.261
+Općina Pićan |  | (8,20%)
+262.640
+Općina Raša |  | (15,90%)
+509.265
+Općina Kršan |  | (13,20%)
+422.786
+Općina Sveti |  | Lovreč (12,80%)
+409.974
+54.
+JVP BUZET
+2.620.039
+Grad Buzet |  | (80%)
+2.096.031
+Općina |  | Lanišće (20%)
+524.008
+55.
+JVP UMAG
+4.527.907
+Grad Umag - |  | Umago (51,70%)
+2.340.927
+Grad Novigrad |  | - Cittanova
+|  | (13,70%)
+620.323
+Grad Buje - |  | Buie (22,65%)
+1.025.571
+Općina |  | Grožnjan - Grisignana (3,65%)
+165.269
+Općina |  | Brtonigla - Verteneglio (5,85%)
+264.883
+Općina |  | Oprtalj - Portole (2,45%)
+110.934
+56.
+Grad |  | Dubrovnik
+JVP |  | DUBROVAČKI VATROGASCI
+8.369.792
+57.
+Općina |  | Konavle
+JVP KONAVLE
+1.753.561
+58.
+Općina |  | Dubrovačko primorje
+JVP |  | DUBROVAČKO PRIMORJE
+1.724.608
+59.
+Grad Ploče
+JVP PLOČE
+2.132.807
+60.
+Grad Metković
+JVP METKOVIĆ
+1.755.120
+61.
+Općina Mljet
+JVP MLJET
+1.944.616
+62.
+Grad Čakovec
+JVP ČAKOVEC
+4.649.836
+UKUPNO
+299.908.045
