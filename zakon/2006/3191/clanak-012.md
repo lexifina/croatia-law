@@ -1,0 +1,7 @@
+# Članak 12.
+(1) Odredbe članka 7. ovoga Zakona primjenjuju se na grla koja su stavljena u tov nakon stupanja na snagu Zakona o izmjeni i dopuni Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 85/06.).
+(2) Za grla koja su stavljena u tov prije stupanja na snagu Zakona o izmjeni i dopuni Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 85/06.) primjenjuju se odredbe članka 35. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04. i 12/05. - ispravak).
+(3) Odredbe iz stavka 2. ovoga članka primjenjuju se i na utovljenu junad koja su prodana i isporučena kao živa grla drugim pravnim i fizičkim osobama, osim članka 35. stavaka 3. 4. i 5. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04. i 12/05. - ispravak).
+(4) Odredbe ovoga Zakona koje se odnose na poticaje za grašak za industrijsku preradu primjenjivat će se i na grašak proizveden, prodan i isporučen na preradu u 2006. godini.
+(5) Za 2006. godinu korisnici poticaja iz članka 9. ovoga Zakona ostvarit će pravo na poticaj za med i pčelinje zajednice u skladu s Dodacima II. i III. ovoga Zakona.
+(6) Na poticaje za proizvodnju ribljih proizvoda u 2006. godini primjenjuju se odredbe Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04. i 12/05. - ispravak).
