@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 6. Zakona o sredstvima za zaštitu bilja (»Narodne novine«, br. 70/05.), ministar poljoprivrede, šumarstva i vodnoga gospodarstva uz suglasnost ministra zdravstva i socijalne skrbi donosi
