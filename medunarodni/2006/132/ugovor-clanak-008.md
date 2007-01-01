@@ -1,0 +1,4 @@
+# Članak 8.
+KONTROLIRANA ISPORUKA
+1. Ugovorne stranke mogu, uzajamnim dogovorom, dopustiti kretanje nezakonitih ili sumnjivih roba iz, kroz ili unutar svojeg državnog područja, uz znanje i kontrolu nadležnih tijela, u svrhu istrage i suzbijanja prekršaja. Ako davanje takve dozvole nije u nadležnosti carinske službe, ta služba će nastojati inicirati suradnju s nacionalnom službom koja ima takvu nadležnost ili će proslijediti predmet toj službi.
+2. Odredbe članka 7. i članka 8. će se primjenjivati također i u odnosu na opojne droge, psihotropne tvari i prekursore, navedene u Jedinstvenoj konvenciji o opojnim drogama (1961.), kako je izmijenjena i dopunjena Protokolom (1972.), Konvenciji o psihotropnim supstancama (1971.) i Konvenciji Ujedinjenih naroda protiv nedozvoljene trgovine opojnim drogama i psihotropnim tvarima (1988.).
