@@ -1,0 +1,6 @@
+# Članak 9.
+Pri utvrđivanju opravdanosti potpora iz članka 7. i članka 8. ovoga Zakona, posebno se uzimaju u obzir sljedeći uvjeti:
+- novo radno mjesto, kao i usavršavanje mora biti povezano s provedbom projekta početnog ulaganja, odnosno radno mjesto mora biti otvoreno kao posljedica povećane učinkovitosti kapaciteta stvorenih ulaganjem, te mora biti otvoreno tijekom razdoblja korištenja statusa nositelja poticajnih mjera, i sačuvano pet godina nakon njegova otvaranja,
+- potpora za nova radna mjesta i usavršavanje povezano s početnim ulaganjem odobrava se za nova radna mjesta otvorena u razdoblju od tri godine od početka ulaganja, odnosno od stjecanja statusa nositelja poticajnih mjera,
+- ako nositelj poticajnih mjera ne zadrži nova radna mjesta utvrđena odredbama ovoga članka najmanje pet godina od njihovog otvaranja, prestaje mu pravo korištenja potpora za novo radno mjesto, kao i usavršavanje uz obvezu povrata sredstava ostvarenih korištenjem odobrenih potpora uvećanih za iznos zakonske zatezne kamate,
+- projekt početnog ulaganja mora voditi prema povećanju broja radnika kod nositelja poticajnih mjera u usporedbi s prosjekom zaposlenih u proteklih dvanaest mjeseci, odnosno od bruto otvorenih radnih mjesta određenog razdoblja, treba oduzeti broj izgubljenih radnih mjesta u istom razdoblju.
