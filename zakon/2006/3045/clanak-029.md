@@ -1,0 +1,3 @@
+# Članak 29.
+(1) U obrazovne svrhe ne smiju se obavljati pokusi na životinjama koji uzrokuju bol, patnju i ozljedu ili smrt životinje.
+(2) Iznimno od odredbe stavka 1. ovoga članka, nadležno tijelo može odobriti pokuse ako se izvode u visokoškolskim ili znanstvenoistraživačkim ustanovama i ako su neophodni za obrazovanje veterinara, liječnika, stručnjaka farmaceutsko-biokemijske struke, agronoma - stočara, biologa i stomatologa te ako se zadovoljavajući rezultati ne mogu postići drugim nastavnim pomagalima (npr. kompjutorske simulacije, filmovi, slike, modeli, preparati i sl.), uz uvjet da se za svaku skupinu smije upotrijebiti samo jedna životinja.
