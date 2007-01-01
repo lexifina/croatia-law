@@ -1,0 +1,3 @@
+# Članak 92.
+U članku 220. stavak 1. mijenja se i glasi:
+»Ako sporazumi sklopljeni između Republike Hrvatske i drugih zemalja predviđaju odobravanje povoljnijeg tarifnog postupanja pri uvozu robe hrvatskog podrijetla u te zemlje, u smislu tih sporazuma, pod uvjetom da je roba dobivena u postupku unutarnje proizvodnje, roba koja nije podrijetlom iz Republike Hrvatske ili zemlje s kojom je sklopljen sporazum, a sadržana je u toj robi s podrijetlom, podliježe plaćanju uvoznih carina. Uvozni carinski dug nastaje potvrđivanjem isprava koje su potrebne za dobivanje takvoga povoljnijega tarifnog postupanja u drugoj zemlji.«

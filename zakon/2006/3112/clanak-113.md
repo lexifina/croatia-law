@@ -1,0 +1,5 @@
+# Članak 113.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2007., s tim da:
+- odredba članka 103. stavak 2. točka e) iz članka 53. ovoga Zakona i odredba članka 109. stavak 2. točka e) iz članka 58. ovoga Zakona stupaju na snagu danom stupanja na snagu Zakona o potvrđivanju Sjevernoatlantskog ugovora od 4. travnja 1949. godine,
+- odredbe članka 106.a stavka 1. i 2. Carinskog zakona (»Narodne novine«, br. 78/99., 117/99., 73/00., 92/01., 47/03. i 140/05.) prestaju važiti danom stupanja na snagu Zakona o potvrđivanju Konvencije o zajedničkom provoznom postupku i Konvencije o pojednostavnjenju formalnosti u robnom prometu,
+- odredbe članka 106.a stavka 3. i 4., članka 108. stavka 2. i 3. i članka 219. stavka 5. i 6. Carinskog zakona (»Narodne novine«, br. 78/99., 117/99., 73/00., 92/01., 47/03. i 140/05.) stupaju na snagu danom stupanja na snagu Zakona o potvrđivanju Konvencije o zajedničkom provoznom postupku i Konvencije o pojednostavnjenju formalnosti u robnom prometu.
