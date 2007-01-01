@@ -1,0 +1,2 @@
+# Članak 10.
+Goveda u kojih je bruceloza službeno potvrđena u skladu s člankom 6. ovoga Pravilnika te životinje koje nadležno tijelo smatra zaraženima moraju, što je prije moguće, biti zaklane pod službenim nadzorom, a najkasnije 30 dana nakon što je njihov posjednik ili odgovorna osoba službeno obaviještena o rezultatima pretraživanja i obvezi da, prema programu iskorjenjivanja bruceloze, uputi zaražena goveda na klanje u navedenom roku.
