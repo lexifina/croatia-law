@@ -1,0 +1,2 @@
+# Članak 5.
+Ako društvo za osiguranje ne izmiri obveze na način i po postupku utvrđenom u spomenutim aktima HUO iz članka 3. ovog Pravilnika, Upravni odbor HUO preispitat će opravdanost daljnjeg članstva toga društva u HUO i predložiti Hrvatskoj agenciji za nadzor financijskih usluga da protiv imenovanog društva pokrene prekršajni postupak te poduzme druge zakonske mjere uključujući i oduzimanje odobrenja za obavljanje poslova osiguranja iz članka 2. stavak 1. ZOOP-a.
