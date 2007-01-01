@@ -1,0 +1,3 @@
+# Članak 15.
+Pravne osobe koje su do stupanja na snagu ovog Pravilnika dobile suglasnost za obavljanje stručnih poslova praćenja kakvoće zraka ili emisija u zrak prema Uredbi o uvjetima za izdavanje suglasnosti za obavljanje stručnih poslova zaštite okoliša (»Narodne novine«, br. 7/97) dužne su dostaviti potvrdu nacionalnog akreditacijskog tijela o pokrenutom postupku za ocjenu stručne i tehničke osposobljenosti prema zahtjevu norme HRN EN ISO/IEC 17025 do 30. lipnja 2007.
+Potvrda nacionalnog akreditacijskog tijela o pokrenutom postupku za ocjenu stručne i tehničke osposobljenosti prema zahtjevu norme HRN EN ISO/IEC 17025 do stupanja na snagu ovog Pravilnika smatra se dokazom da je ispunjen uvjet iz članka 3. podstavka 3 i 4. ovog Pravilnika.

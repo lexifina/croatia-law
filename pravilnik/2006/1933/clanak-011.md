@@ -1,0 +1,3 @@
+# Članak 11.
+Pravna osoba koja je dobila dozvolu ili suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva dužna je poslove praćenja kakvoće zraka ili emisija u zrak iz stacionarnih izvora obavljati kvalitetno i odgovorno, u skladu s pravilima struke, te je odgovorna za istinitost i stručnu utemeljenost podataka i obavljenih poslova.
+Pravna osoba koja je dobila dozvolu ili suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva mora osigurati nepristranost svojih zaposlenika i oni ne smiju ovisiti ni o kakvim poslovnim, financijskim i drugim pritiscima koji mogu utjecati na njihovu tehničku prosudbu.

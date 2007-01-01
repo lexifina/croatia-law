@@ -1,0 +1,7 @@
+## II. UVJETI ZA IZDAVANJE DOZVOLE
+# Članak 3.
+Dozvola za obavljanje djelatnosti praćenja kakvoće zraka ili praćenja emisija u zrak iz stacionarnih izvora izdaje se pravnoj osobi registriranoj za obavljanje tih djelatnosti koja udovoljava sljedećim uvjetima:
+- najmanje tri zaposlenika, u punom radnom vremenu, visoke stručne spreme prirodnih ili tehničkih znanosti, s najmanje pet godina radnog iskustva na poslovima praćenja razine onečišćenosti zraka odnosno praćenja emisija u zrak iz stacionarnih izvora,
+- radni prostor u vlasništvu ili zakupu unutar kojeg je ispitni laboratorij za obavljanje dijela postupka analize uzoraka, prikupljanja, obrade i prikaza mjernih rezultata i provjere mjernih postupaka i podataka dobivenih mjerenjem ili uzorkovanjem osim onih koji se po prirodi stvari obavljaju u otvorenom prostoru odnosno izravno na ispustu otpadnih plinova,
+- za praćenje kakvoće zraka raspolaže mjernom opremom za obavljanje poslova praćenja kakvoće zraka prema metodama ispitivanja (mjerenja) propisanim Pravilnikom o praćenju kakvoće zraka i da je stručno i tehnički osposobljena prema zahtjevu norme HRN EN ISO/IEC 17025,
+- za praćenje emisija u zrak iz stacionarnih izvora raspolaže mjernom opremom za obavljanje poslova praćenja emisija u zrak iz stacionarnih izvora prema metodama ispitivanja (mjerenja) propisanim Pravilnikom o praćenju emisija onečišćujućih tvari u zrak iz stacionarnih izvora i da je stručno i tehnički osposobljena prema zahtjevu norme HRN EN ISO/IEC 17025.

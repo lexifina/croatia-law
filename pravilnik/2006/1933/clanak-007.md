@@ -1,0 +1,5 @@
+# Članak 7.
+Suglasnost za obavljanje poslova praćenja kakvoće zraka ili emisija u zrak iz stacionarnih izvora izdaje se pravnoj osobi vlasniku ili korisniku izvora onečišćivanja zraka koji, unutar svoje registrirane djelatnosti, samostalno obavlja poslove praćenja kakvoće zraka ili praćenja emisija iz stacionarnih izvora, koja je stručno i tehnički osposobljena prema zahtjevu norme HRN EN ISO/IEC 17025.
+Uz zahtjev za izdavanje suglasnosti, koji se podnosi Ministarstvu zaštite okoliša, prostornog uređenja i graditeljstva, pravna osoba vlasnik ili korisnik izvora onečišćivanja zraka iz stavka 1. ovog članka prilaže:
+- izvadak iz sudskog registra u izvorniku ili ovjerenoj preslici ne stariji od šest mjeseci,
+- ovjerenu preslika potvrde nacionalnog akreditacijskog tijela o stručnoj i tehničkoj osposobljenosti prema zahtjevu norme HRN EN ISO/IEC 17025 za obavljanje poslova praćenja kakvoće zraka, odnosno praćenja emisija u zrak ili ovjerena preslika potvrde o akreditaciji prema zahtjevu norme HRN EN ISO/IEC 17025.
