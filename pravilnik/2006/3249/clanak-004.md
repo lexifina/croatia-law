@@ -1,0 +1,9 @@
+## 4. UTVRĐIVANJE PAUŠALNOG POREZANA DOHODAK
+# Članak 4.
+(1) Godišnji paušalni porez na dohodak utvrđuje se rješenjem i to primjenom poreznih stopa iz članka 8. Zakona na godišnji paušalni dohodak utvrđen člankom 3. ovoga Pravilnika.
+(2) Iznos godišnjeg paušalnog poreza na dohodak iz stavka 1. ovoga članka povećava se i za prirez porezu na dohodak koji je uveden odlukom jedinice lokalne samouprave prema prebivalištu ili uobičajenom boravištu poreznog obveznika.
+(3) Mjesečni paušalni porez na dohodak utvrđuje se na način da se godišnji paušalni porez na dohodak iz stavka 1. ovoga članka podijeli na dvanaest (12) mjeseci odnosno na razmjeran broj mjeseci poreznog razdoblja (kalendarske godine) u kojima porezni obveznik obavlja samostalnu djelatnost.
+(4) Rješenjem iz stavka 1. ovoga članka osobito se utvrđuje iznos godišnjeg paušalnog dohotka, godišnji i mjesečni iznos paušalnog poreza na dohodak i prireza porezu na dohodak te rokovi plaćanja paušalnog poreza na dohodak i prireza porezu na dohodak.
+(5) Rješenje iz stavka 1. ovoga članka donosi nadležna ispostava područnog ureda Porezne uprave prema prebivalištu ili uobičajenom boravištu poreznog obveznika, a vrijedi do donošenja novog rješenja.
+(6) U skladu s člankom 41. točkom 2. Zakona, rješenjem utvrđen godišnji paušalni porez na dohodak i prirez porezu na dohodak je konačan, pa porezni obveznik po toj osnovi ne može podnijeti godišnju poreznu prijavu.
+(7) Ako tijekom poreznog razdoblja prestanu uvjeti za utvrđivanje paušalnog dohotka i plaćanje paušalnog poreza na dohodak iz članka 44. stavka 6. Zakona i članka 2. ovoga Pravilnika, Porezna uprava ukinuti će rješenje o godišnjem dohotku i porezu na dohodak u paušalnom iznosu i donijeti rješenje o plaćanju predujma poreza u skladu s člankom 47. stavkom 1. Zakona. Rješenje se izdaje najkasnije do kraja mjeseca koji slijedi iza mjeseca u kojem su prestali uvjeti za utvrđivanje paušalnog dohotka i plaćanje paušalnog poreza na dohodak.

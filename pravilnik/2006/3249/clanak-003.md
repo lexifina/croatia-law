@@ -1,0 +1,7 @@
+## 3. UTVRĐIVANJE GODIŠNJEG PAUŠALNOG DOHOTKA
+# Članak 3.
+(1) Godišnji paušalni dohodak za samostalnu djelatnost iz članka 1. ovoga Pravilnika i članka 2. stavka 1. ovoga Pravilnika utvrđuje se u iznosu 12.750,00 kuna što je razlika između primitaka u iznosu 85.000,00 kuna i porezno priznatih izdataka u visini 85%.
+(2) Godišnji paušalni dohodak iz stavka 1. ovoga članka jest i godišnja porezna osnovica za utvrđivanje godišnjeg paušalnog poreza.
+(3) Porezno priznati izdaci iz stavka 1. ovoga članka uključuju sve nastale izdatke i iznos izdatka za uplaćene doprinose za obvezna osiguranja po posebnim propisima.
+(4) U slučaju nastanka porezne obveze (početka obavljanja samostalne djelatnosti) odnosno prestanka porezne obveze (prestanka obavljanja samostalne djelatnosti ili prestanka uvjeta za utvrđivanje dohotka i poreza na dohodak u paušalnom iznosu) tijekom poreznog razdoblja, godišnji paušalni dohodak iz stavka 1. ovoga članka utvrđuje se razmjerno broju mjeseci obavljanja djelatnosti i to u korist poreznog obveznika.
+(5) U slučaju privremene obustave obavljanja samostalne djelatnosti koja je prijavljena nadležnom tijelu kod kojega je djelatnost registrirana i nadležnoj ispostavi Porezne uprave u roku određenom propisima o obrtu odnosno samostalnom obavljanju djelatnosti i Zakonom, godišnji paušalni dohodak iz stavka 1. ovoga članka utvrđuje se razmjerno broju mjeseci obavljanja djelatnosti i to u korist poreznog obveznika, a porezna se obveza za to razdoblje ne utvrđuje.
