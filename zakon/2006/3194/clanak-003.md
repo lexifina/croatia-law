@@ -1,0 +1,3 @@
+# Članak 3.
+Na dan stupanja na dužnost Vlade Republike Hrvatske nakon prvih sljedećih parlamentarnih izbora položaji tajnika ministarstva, zamjenika tajnika Vlade, predstojnika ureda Vlade, zamjenika državnog tajnika središnjega državnog ureda te zamjenika i pomoćnika ravnatelja državne upravne organizacije, postaju radna mjesta državnih službenika, a dosadašnji položaji pomoćnika ministra ukidaju se.
+Na osobe zatečene na položajima iz stavka 1. ovoga članka i raspisivanje javnog natječaja za imenovanje na te položaje primjenjuju se odredbe članka 151. Zakona o državnim službenicima (»Narodne novine«, br. 92/05.).
