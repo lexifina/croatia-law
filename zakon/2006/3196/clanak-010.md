@@ -1,0 +1,4 @@
+# Članak 10.
+U članku 74. dodaju se stavci 3. i 4. koji glase:
+»Lučko područje luka otvorenih za javni promet županijskog i lokalnog značaja obuhvaća područje namijenjeno za obavljanje linijskog pomorskog prometa, komunalni vez koji obuhvaća vez plovnog objekta čiji vlasnik ima prebivalište na području jedinice lokalne samouprave ili plovni objekt pretežito boravi na tom području i upisan je u upisnik brodova nadležne lučke kapetanije ili očevidnik brodica nadležne lučke kapetanije ili ispostave, nautički vez za nautička plovila, ribarski vez i privezišta.
+Kriterije za određivanje namjene pojedinog dijela luke prema prethodnom stavku, način plaćanja, uvjete korištenja, te određivanja visine naknade i raspodjele propisati će ministar uz suglasnost ministra nadležnog za prostorno planiranje.«
