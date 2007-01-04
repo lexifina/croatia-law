@@ -1,0 +1,1 @@
+Vladimir Šeks, v. r.

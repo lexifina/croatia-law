@@ -1,0 +1,10 @@
+## VI. PODUZIMANJE RADNJI PROTIV NEPRAVILNOSTI I PRIJEVARA
+# Članak 36.
+(1) Čelnik korisnika proračuna obvezan je sprječavati rizik nepravilnosti i prijevare te poduzimati radnje protiv nepravilnosti i prijevara.
+(2) Čelnik korisnika proračuna obvezan je imenovati osobu zaduženu za nepravilnosti, koja će zaprimati obavijesti o nepravilnostima i sumnjama na prijevaru ili samostalno poduzimati radnje protiv nepravilnosti i prijevara.
+(3) Unutarnji revizori, osobe uključene u financijsko upravljanje i kontrole, kao i drugi zaposlenici, o sumnjama na prijevaru ili o odgovarajućim nalazima o nepravilnostima istodobno će obavijestiti čelnika korisnika proračuna i osobu zaduženu za nepravilnosti.
+(4) Ako unutarnji revizor posumnja na prijevaru u tijeku obavljanja revizije, o tome obavještava voditelja jedinice za unutarnju reviziju, koji je obvezan prekinuti izvođenje revizije i podnijeti pisano izvješće čelniku korisnika proračuna i osobi zaduženoj za nepravilnosti.
+(5) Nakon primljene obavijesti o nepravilnosti ili sumnji na prijevaru, čelnik korisnika proračuna ili osoba zadužena za nepravilnosti poduzet će potrebne mjere i o tome obavijestiti Državno odvjetništvo Republike Hrvatske i nadležno tijelo za nepravilnosti i prijevare pri Ministarstvu financija, a u roku od 15 dana u pisanom će obliku o poduzetim mjerama obavijestiti osobu koja je upozorila na nepravilnosti ili prijevaru, osim u slučaju anonimne prijave.
+(6) Ako osobe iz stavka 3. ovoga članka ne dobiju informaciju o poduzimanju odgovarajućih mjera, o tome će obavijestiti nadležna tijela za nepravilnosti i prijevare iz stavka 5. ovoga članka. Središnja harmonizacijska jedinica Ministarstva financija nije nadležno tijelo za prijavu nepravilnosti i prijevara.
+(7) Osobama iz stavka 3. ovoga članka jamči se zaštita identiteta i stečenih prava u radnom odnosu na temelju zakonskih propisa Republike Hrvatske.
+(8) U slučaju nepravilnosti i prijevara postupci prema nadležnim tijelima Republike Hrvatske i Europske unije te druga pitanja s tim u svezi uredit će se posebnim propisima.

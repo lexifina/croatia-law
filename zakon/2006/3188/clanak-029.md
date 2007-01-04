@@ -1,0 +1,8 @@
+## Izvješćivanje i praćenje preporuka unutarnje revizije
+# Članak 29.
+(1) Za svaku obavljenu reviziju izrađuje se revizorsko izvješće koje sadrži upravljački sažetak, ciljeve i opseg revizije, nalaze, zaključke i preporuke, kao i očitovanje ovlaštene osobe revidirane jedinice.
+(2) Konačno revizorsko izvješće odobrava voditelj jedinice za unutarnju reviziju i dostavlja ga čelniku korisnika proračuna koji odlučuje o prihvaćanju preporuka u roku ne dužem od 30 dana.
+(3) Ako čelnik korisnika proračuna ne prihvati ili djelomično prihvati preporuke, neprihvaćene preporuke i razlozi neprihvaćanja navode se u očitovanju revidirane jedinice u pisanom obliku i zapisniku sa završnog sastanka. U slučaju da se preporuka unutarnjeg revizora odnosi na visokorizično područje, čelnik korisnika proračuna treba bez odgode poduzeti odgovarajuće mjere.
+(4) Čelnik korisnika proračuna odlučuje i sastavlja plan djelovanja koji uključuje prihvaćene preporuke i radnje koje je potrebno poduzeti, uključujući sredstva za organizaciju i detaljno praćenje provedbe.
+(5) Čelnik korisnika proračuna dostavlja prihvaćeni plan djelovanja voditelju jedinice za unutarnju reviziju. Unutarnja revizija nije uključena u izradu i provedbu plana djelovanja. Čelnik korisnika proračuna odlučuje o početku, odgodi, otkazivanju i završetku provedbe pojedinih preporuka iz plana djelovanja, što se navodi u očitovanju revidirane jedinice.
+(6) Unutarnja revizija prati provode li se preporuke pravilno, djelotvorno i pravodobno. Aktivnosti praćenja provedbe preporuka danih u revizorskom izvješću uključuju se u godišnji plan unutarnje revizije za iduće razdoblje.

@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Za uspostavu, provedbu i razvoj financijskog upravljanja i kontrola, osim čelnika korisnika proračuna, zaduženi su:
+a) voditelj za financijsko upravljanje i kontrole,
+b) koordinator za financijsko upravljanje i kontrole.
+(2) Voditelj za financijsko upravljanje i kontrole, kojeg imenuje čelnik korisnika proračuna, odgovoran je za uspostavu, provedbu i razvoj financijskog upravljanja i kontrola kod korisnika proračuna. Voditelj je obvezan, uz suglasnost čelnika korisnika proračuna, izraditi plan uspostave financijskog upravljanja i kontrola te metodologiju za provođenje plana.
+(3) Čelnik korisnika proračuna, uvažavajući potrebe i posebnosti u poslovanju korisnika, može imenovati koordinatora za financijsko upravljanje i kontrole ili ustrojiti jedinicu za financijsko upravljanje i kontrole. Koordinator operativno provodi i koordinira uspostavu i razvoj financijskog upravljanja i kontrola kod korisnika proračuna. On ne provodi kontrolne aktivnosti iz članka 12. ovoga Zakona.
+(4) Osobe zadužene za uspostavu i razvoj financijskog upravljanja i kontrola iz stavka 1. ovoga članka i osobe zadužene za provođenje pojedinih oblika kontrola iz članka 12. stavaka 5. i 6. ovoga Zakona dužne su proći izobrazbu vezanu uz financijsko upravljanje i kontrole na temelju programa koji donosi ministar financija, te surađivati sa Središnjom harmonizacijskom jedinicom Ministarstva financija u vezi s uspostavom i razvojem financijskog upravljanja i kontrola.
