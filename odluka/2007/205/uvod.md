@@ -1,0 +1,1 @@
+Temeljem članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 17/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03 i 132/06) i članka 16. Statuta Općine Otok (Sl. glasnik općine Otok br. 2/03) Općinsko vijeće Općine Otoke na 10. sjednici održanoj 11. prosinca 2006. god. donijelo je
