@@ -1,0 +1,4 @@
+# Članak 9.
+Sredstva iz članka 7. ovoga Zakona raspoređuju se na način da se utvrdi jednaki iznos sredstava za svakog zastupnika u Hrvatskom saboru tako da pojedinoj političkoj stranci pripadaju sredstva razmjerno broju njezinih zastupnika u trenutku konstituiranja Hrvatskoga sabora.
+Ukoliko pojedini zastupnik (ili zastupnici) nakon konstituiranja Hrvatskoga sabora napuste ili promijene članstvo u političkoj stranci, financijska sredstva koja se raspoređuju sukladno stavku 1. ovoga članka ostaju političkoj stranci kojoj je zastupnik pripadao u času konstituiranja Hrvatskoga sabora.
+U slučaju udruživanja dviju ili više političkih stranaka, financijska sredstva koja se raspoređuju sukladno stavku 1. ovoga članka pripadaju političkoj stranci koja je pravni sljednik političkih stranaka koje su udruživanjem prestale postojati.
