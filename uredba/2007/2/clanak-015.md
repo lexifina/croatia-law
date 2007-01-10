@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Ustrojstvo i format podataka pohranjenih u Registru mora biti u skladu s tehničkim normama prihvaćenim od strane nadležnog tijela Konvencije i Europske komisije radi osiguranja točne, transparentne i učinkovite razmjene podataka između Registara, Registra mehanizama čistog razvoja i Međunarodnog dnevnika transakcija Tajništva Konvencije i Dnevnika transakcija Zajednice.
+(2) Upute o standardiziranom i zaštićenom sustavu registara kojima se propisuju detaljni funkcionalni i tehnički opis Registra, zahtjevi u odnosu na njegovo upravljanje, rad i održavanje, te sustav komunikacije između Registra, Dnevnika transakcija Zajednice, Međunarodnog dnevnika transakcija Tajništva Konvencije moraju biti dostupne javnosti i objavljuju se na web stranici Ministarstva.
