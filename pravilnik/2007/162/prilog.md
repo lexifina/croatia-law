@@ -1,0 +1,366 @@
+DODATAK
+1.SI JEDINICE I NJIHOVI DECIMALNI VIŠEKRATNICI I NIŽEKRATNICI
+1.1. Osnovne SI jedinice
+|  |  |  | Veličina
+|  |  |  |  |  | Jedinica
+|  |  |  |  |  | Naziv(1)
+|  |  |  | Znak
+|  |  |  | duljina
+|  |  |  | metar
+|  |  |  | m
+|  |  |  | masa
+|  |  |  | kilogram
+|  |  |  | kg
+|  |  |  | vrijeme
+|  |  |  | sekunda
+|  |  |  | s
+|  |  |  | električna struja
+|  |  |  | amper
+|  |  |  | A
+|  |  |  | termodinamička temperatura
+|  |  |  | kelvin
+|  |  |  | K
+|  |  |  | množina (količina tvari)
+|  |  |  | mol
+|  |  |  | mol
+|  |  |  | svjetlosna jakost
+|  |  |  | kandela
+|  |  |  | cd
+|  |  |  | (1) U zagradi je izvorni naziv na engl. jeziku jedinice nazvane po |  | znanstveniku, različit od hrvatskoga.
+Definicije osnovnih SI jedinica
+Jedinica duljine
+Metar je duljina puta koji svjetlost prijeđe u praznini za vrijeme jednog 299 792 458-og dijela sekunde.
+(Sedamnaesta CGPM1 (1983.), 1. zaključak)
+Jedinica mase
+Kilogram je jedinica mase; jednak je masi međunarodne pramjere kilograma.
+(Treća CGPM (1901.)), 70. stranica izvješća konferencije)
+Jedinica vremena
+Sekunda je trajanje 9 192 631 770 perioda zračenja koje odgovara prijelazu između dviju hiperfinih razina osnovnog stanja atoma cezija 133.
+Pritom je atom cezija u osnovnome stanju na temperaturi 0 K.
+(Trinaesta CGPM (1967.)), 1. zaključak, koji je prihvatio i dopunio CIPM2 (1997.).
+Jedinica električne struje
+Amper je jakost stalne električne struje koja bi, tekući dvama usporednim, neizmjerno dugačkim ravnim vodičima, zanemarivo malena kružnoga presjeka, razmaknutim u praznini jedan metar, proizvela među tim vodičima silu od 2×10-7 njutna po metru njihove duljine.
+(CIPM (1946.)), 2. zaključak, koji je odobrila CGPM (1948.)).
+Jedinica termodinamičke temperature
+Kelvin je termodinamička temperatura koja je jednaka 273,16-om dijelu termodinamičke temperature trojnoga stanja vode.
+(Trinaesta CGPM (1967.), 4. zaključak)
+Jedinica množine
+(1) Mol je množina sustava koji sadržava toliko elementarnih jedinki koliko ima atoma u 0,012 kilograma ugljika 12.
+(2) Kada se upotrebljava mol, treba iskazati elementarne jedinke; to mogu biti atomi, molekule, ioni, elektroni, druge čestice ili pojedinačno navedene skupine takvih čestica.
+(Četrnaesta CGPM (1971.), 3. zaključak)
+Jedinica svjetlosne jakosti
+Kandela je svjetlosna jakost u određenome smjeru iz izvora koji odašilje jednobojno zračenje frekvencije 540 × 1012 herca i kojemu je zračena jakost u tome smjeru (1/683) vata po steradijanu.
+(Šesnaesta CGPM (1979.), 3. zaključak)
+______
+1 CGPM, Opća konferencija za utege i mjere
+2 CIPM, Međunarodni odbor za utege i mjere
+1.1.1. Posebni naziv i znak SI jedinice temperature za izražavanje Celzijeve temperature
+|  | Veličina
+|  | Jedinica
+|  | Naziv
+|  | Znak
+Celzijeva |  | temperatura
+|  | Celzijev stupanj
+|  | °C
+Celzijeva temperatura t definira se kao razlika, t = T - T0, dviju termodinamičkih temperatura T i T0, gdje je T0 = 273,15 kelvina. Temperaturna razlika može se izražavati u kelvinima ili u Celzijevim stupnjevima. Jedinica »Celzijev stupanj« jednaka je jedinici »kelvin«.
+1.2. Druge SI jedinice
+1.2.1. Izvedene SI jedinice
+Izvedene SI jedinice skladno su izvedene iz osnovnih jedinica, a definirane se umnošcima određenih potencija osnovnih jedinica brojčanim faktorom jednakom 1.
+1.2.2. Izvedene SI jedinice s posebnim nazivima i znakovima
+|  |  |  |  |  | Veličina
+|  |  |  |  |  | Jedinica
+|  |  |  |  |  | Izraz
+|  |  |  |  |  | Naziv(1)
+|  |  |  |  |  | Znak
+|  |  |  | S |  | pomoću drugih jedinica
+|  |  |  | S |  | pomoću osnovnih SI jedinica
+|  |  |  | ravninski kut
+|  |  |  | radijan
+|  |  |  | rad
+|  |  |  | m∙m-1 = 1
+|  |  |  | prostorni kut (ugao)
+|  |  |  | steradijan
+|  |  |  | sr
+|  | m2∙m-2 = 1
+|  |  |  | frekvencija
+|  |  |  | herc (hertz)
+|  |  |  | Hz
+|  | s-1
+|  |  |  | sila
+|  |  |  | njutn
+|  | (newton)
+|  | N
+|  |  |  | m∙kg∙s-2
+|  |  |  | tlak, naprezanje
+|  |  |  | paskal
+|  | (pascal)
+|  |  |  | Pa
+|  |  |  | N∙m-2
+|  | m-1∙kg∙s-2
+|  |  |  | rad, energija, toplina
+|  |  |  | džul (joule)
+|  | J
+|  |  |  | N∙m
+|  | m2∙kg∙s-2
+|  |  |  | snaga(2), zračeni tijek
+|  |  |  | vat (watt)
+|  | W
+|  |  |  | J∙s-1
+|  | m2∙kg∙s-3
+|  |  |  | električni naboj
+|  |  |  | kulon
+|  | (coulomb)
+|  | C
+|  |  |  | s∙A
+|  |  |  | električni potencijal, napon, elektromotorna sila
+|  |  |  | volt
+|  | V
+|  |  |  | W∙A-1
+|  | m2∙kg∙s-3∙A-1
+|  |  |  | električni otpor
+|  |  |  | om (ohm)
+|  | Ω
+|  |  |  | V∙A-1
+|  | m2∙kg∙s-3∙A-2
+|  |  |  | električna vodljivost
+|  |  |  | simens
+|  | (siemens)
+|  | S
+|  |  |  | A∙V-1
+|  | m-2∙kg-1∙s3∙A2
+|  |  |  | kapacitet
+|  |  |  | farad
+|  | F
+|  |  |  | C∙V-1
+|  | m-2∙kg-1∙s4∙A2
+|  |  |  | magnetski tijek
+|  |  |  | veber
+|  | (weber)
+|  |  |  | Wb
+|  |  |  | V∙s
+|  | m2∙kg∙s-2∙A-1
+|  |  |  | gustoća magnetskoga tijeka
+|  |  |  | tesla
+|  | T
+|  |  |  | Wb∙m-2
+|  |  |  | kg∙s-2∙A-1
+|  |  |  | induktivnost
+|  |  |  | henri (henry)
+|  | H
+|  |  |  | Wb∙A-1
+|  | m2∙kg∙s-2∙A-2
+|  |  |  | svjetlosni tijek
+|  |  |  | lumen
+|  |  |  | lm
+|  |  |  | cd∙sr
+|  | m2∙m-2∙cd
+|  |  |  | osvjetljenje
+|  |  |  | luks
+|  |  |  | lx
+|  |  |  | lm∙m-2
+|  | m2∙m-4∙cd
+|  |  |  | aktivnost (radionuklida)
+|  |  |  | bekerel (becquerel)
+|  |  |  | Bq
+|  | s-1
+|  |  |  | apsorbirana doza, kerma, specifična predana energija, indeks apsorbirane |  | doze
+|  |  |  | grej (gray)
+|  |  |  | Gy
+|  |  |  | J∙kg-1
+|  | m2∙s-2
+|  |  |  | ekvivalentna doza, dozni ekvivalent
+|  |  |  | sivert (sievert)
+|  |  |  | Sv
+|  |  |  | J∙kg-1
+|  | m2∙s-2
+|  |  |  | katalitička aktivnost
+|  |  |  | katal(3)
+|  |  |  | kat
+|  | s-1∙mol
+(1) U zagradama su izvorni nazivi na engl. jeziku jedinica nazvanih po znanstvenicima ako se razlikuju od hrvatskih.
+(2) Posebni su nazivi za jedinicu snage: voltamper (znak VA) koji se upotrebljava se izražavanje prividne snage izmjenične električne struje, i var (znak var) za izražavanje jalove snage izmjenične električne struje.
+(3) Jedinicu katal i njezin znak kat prihvatila je dvadesetprva CGPM (1999.), 12. zaključak.
+Napomena: Jedinice izvedene iz osnovnih jedinica mogu se izražavati i drugim jedinica navedenim u točki 1.
+Izvedene SI jedinice mogu se izražavati i jedinicama s posebnim nazivima i znakovima iz prethodne tablice. Npr. SI jedinica dinamičke viskoznosti može se izražavati kao m-1·kg·s-1 ili kao N·s·m-2 ili kao Pa·s.
+Definicije jedinica ravninskoga i prostornoga kuta
+Jedinica ravninskoga kuta
+Radijan je ravninski kut između dvaju polumjera kružnice koji omeđuju obodni luk duljine jednake polumjeru.
+(HRN ISO 31-1)
+Jedinica prostornoga kuta
+Steradijan je prostorni kut na vrhu stošca u središtu kugle, koji na površini kugle omeđuje površinu ploštine jednake kvadratu sa stranicama jednakim polumjera te kugle.
+(HRN ISO 31-1)
+1.3.Predmetci i njihovi znakovi za označivanje određenih decimalnih višekratnika i nižekratnika
+|  | Faktor
+|  | Predmetak
+|  | Znak
+|  | Faktor
+|  | Predmetak
+|  | Znak
+|  | 1024
+|  | jota
+|  | Y
+|  | 10-24
+|  | jokto
+|  | y
+|  | 1021
+|  | zeta
+|  | Z
+|  | 10-21
+|  | zepto
+|  | z
+|  | 1018
+|  | eksa
+|  | E
+|  | 10-19
+|  | ato
+|  | a
+|  | 1015
+|  | peta
+|  | P
+|  | 10-15
+|  | femto
+|  | f
+|  | 1012
+|  | tera
+|  | T
+|  | 10-12
+|  | piko
+|  | p
+|  | 109
+|  | giga
+|  | G
+|  | 10-9
+|  | nano
+|  | n
+|  | 106
+|  | mega
+|  | M
+|  | 10-6
+|  | mikro
+|  | μ
+|  | 103
+|  | kilo
+|  | k
+|  | 10-3
+|  | mili
+|  | m
+|  | 102
+|  | hekto
+|  | h
+|  | 10-2
+|  | centi
+|  | c
+|  | 101
+|  | deka
+|  | da
+|  | 10-1
+|  | deci
+|  | d
+Nazivi i znakovi decimalnih višekratnika i nižekratnika jedinice mase tvore se dodavanjem predmetaka nazivu »gram« i njihovih znakova znaku »g«.
+Kada se izvedena jedinica izražava kao omjer jedinica od kojih je izvedena, decimalni se višekratnici mogu tvoriti dodavanjem predmetaka jedinicama u brojniku odnosno jedinicama u nazivniku.
+Ne mogu se upotrebljavati složeni predmetci, tj. ne može se istodobno za jednu jedinicu upotrijebiti nekoliko predmetaka.
+1.4. Posebni dopušteni nazivi i znakovi decimalnih višekratnika i nižekratnika SI jedinica
+|  |  |  |  |  | Veličina
+|  |  |  |  |  | Jedinica
+|  |  |  |  |  | Naziv
+|  |  |  |  |  | Znak
+|  |  |  | Vrijednost
+|  |  |  | obujam
+|  |  |  | litra
+|  |  |  | l ili L(1)
+|  |  |  | 1 L = 1 dm3 = 10-3 m-3
+|  |  |  | masa
+|  |  |  | tona
+|  |  |  | t
+|  |  |  | 1 t = 1 Mg = 103 kg
+|  |  |  | tlak, naprezanje
+|  |  |  | bar(2)
+|  |  |  | bar
+|  |  |  | 1 bar = 105 Pa
+(1) Za jedinicu litra mogu se upotrebljavati dva znaka »l« ili »L« (Šesnaesta CGPM (1979.), 6. zaključak).
+(2) Jedinica bar navedena je u brošuri: BIPM i OICM, Međunarodni sustav jedinica (SI). 8. izdanje 2006.
+Napomena: Predmetci i njihovi znakovi navedeni u tablici u točki 1.3. mogu se upotrebljavati zajedno s jedinicama i znakovima navedenim u tablici u točki 1.4.
+2.JEDINICE KOJE SE DEFINIRAJU NA TEMELJU SI JEDINICA, ALI NISU NJIHOVI DECIMALNI VIŠEKRATNICI ILI NIŽEKRATNICI
+|  | Veličina
+|  | Jedinica
+ravninski kut
+|  | Naziv
+|  | Znak
+|  | Vrijednost
+okretaj(1)
+1 okretaj = 2 π rad
+gon ili grad
+|  | gon
+1 gon = (π/200) rad
+stupanj
+|  | °
+1° = (π/180) rad
+kutna minuta
+|  | ′
+1′ = (π/10 800) rad
+kutna sekunda
+|  | ″
+1″ = (π/648 000) rad
+vrijeme
+minuta
+|  | min
+1 min = 60 s
+sat
+|  | h
+1 h = 3 600 s
+dan
+|  | d
+1 d = 86 400 s
+(1) Ne postoji međunarodno dogovoren znak.
+Napomena: Predmetci navedeni u tablici u točki 1.3. mogu se upotrebljavati samo uz jedinicu »gon« ili »grad«, a njihovi znakovi samo uz znak »gon«.
+3.JEDINICE KOJE SE UPOTREBLJAVAJU UZ SI JEDINICE, A KOJIH SE VRIJEDNOSTI DOBIVAJU POKUSOM
+|  | Veličina
+|  | Jedinica
+|  | Naziv
+|  | Znak
+|  | Definicija
+|  | energija
+|  | elektronvolt
+|  | eV
+|  | Elektronvolt kinetička je energija koju |  | dobije elektron pri prolazu u praznini kroz razliku potencijala od 1 |  | volt.
+|  | masa
+|  | ujednačena atomska jedinica mase
+|  | dalton(1)
+|  | u
+|  | Da
+|  | Ujednačena atomska jedinica mase jednaka |  | je 1/12 mase atoma ugljika 12C.
+|  | Dalton je drugi naziv za ujednačenu |  | atomsku jedinicu mase (Da = u).
+(1)Jedinicu dalton i njezin znak Da donosi brošura: BIPM i OICM: Međunarodni sustav jedinica (SI), 8. izdanje 2006.
+Napomena: Predmetci i njihovi znakovi navedeni u tablici u točki 1.3. mogu se upotrebljavati zajedno s jedinicama i njihovim znakovima navedenim u točki 3.
+4.JEDINICE I NAZIVI JEDINICA KOJE SU DOPUŠTENE SAMO U POSEBNIM PODRUČJIMA
+|  | Veličina
+|  | Jedinica
+|  | Naziv
+|  | Znak
+|  | Vrijednost
+|  | jakost optičkih sustava
+|  | dioptrija
+|  | 1 dioptrija = 1 m-1
+|  | masa dragoga kamenja
+|  | metrički karat
+|  | 1 metrički karat = 2 × 10-4 kg
+|  | ploština poljoprivrednoga ili građevnoga |  | zemljišta
+|  | ar
+|  | ar
+|  | 1 a = 102 m2
+|  | duljinska masa tekstilnoga vlakna i pređe
+|  | teks
+|  | tex
+|  | 1 tex = 10-6 kg∙m-1
+|  | krvni tlak i tlak drugih tjelesnih |  | tekućina
+|  | milimetar žive
+|  | mmHg
+|  | 1 mmHg = 133,322 Pa
+|  | efektivna ploština presjeka
+|  | barn
+|  | b
+|  | 1 b = 10-28 m2
+Napomena 1.: Predmetci i njihovi znakovi navedeni u tablici 1.3. mogu se upotrebljavati zajedno s jedinicama i njihovim znakovima navedenim u tablici u točki 4., osim s jedinicom milimetar žive i njezinim znakom.
+Napomena 2.: Decimalni višekratnik 100 ara naziva se hektarom.
+5. SLOŽENE JEDINICE
+Složene su jedinice kombinacije prethodno navedenih jedinica.
