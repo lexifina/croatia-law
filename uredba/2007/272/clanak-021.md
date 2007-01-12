@@ -1,0 +1,3 @@
+# Članak 21.
+Korisnici oslobođenja iz članka 187. stavak 1. točka 11. Carinskog zakona, koji u Republiku Hrvatsku preseljavaju radi školovanja, mogu bez plaćanja carine uvoziti pomagala za učenje (predmete i instrumente), namijenjene svojoj osobnoj upotrebi tijekom školovanja ili studiranja. Pri tome se dozvoljava unos pomagala za učenje za cijelo vrijeme školovanja.
+Oslobođenje od plaćanja carine ostvaruje se uz podnošenje nadležnoj carinarnici, isprava iz članka 18. stavka 2. ove Uredbe, potvrde odnosne obrazovne ustanove o pohađanju škole ili studija, te mišljenja nadležnog tijela državne uprave (ministarstva), kojom se identificira korisnik, vrsta, količina i vrijednost pomagala, te njena neophodnost za odnosnu vrstu školovanja odnosno studija.

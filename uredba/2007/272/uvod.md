@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 1. i članka 187. stavka 5. Carinskog zakona (»Narodne novine«, br. 78/99, 73/2000, 92/2001, 47/2003,140/2005 i 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 5. siječnja 2007. godine donijela

@@ -1,0 +1,5 @@
+## 3. OSLOBOĐENJE OD PLAĆANJA CARINE ROBE U OSOBNOJ PRTLJAZI PUTNIKA
+# Članak 4.
+Oslobođenje od plaćanja carine na robu u osobnoj prtljazi putnika (članak 187. stavak 1. točka 2. Carinskog zakona) odnosi se na uvoz robe nekomercijalne naravi, koju putnici iz inozemstva unose u svojoj osobnoj prtljazi.
+Osobnom prtljagom se smatra cjelokupna prtljaga koju putnik daje na uvid nadležnim carinskim tijelima pri ulasku u carinsko područje Republike Hrvatske, kao i sva prtljaga koju naknadno predoči istim tijelima nakon dolaska u carinsko područje, ukoliko dostavi dokaze da je prilikom odlaska iz druge zemlje odnosnu robu predao prijevozniku kao svoju osobnu prtljagu, radi prijevoza u Republiku Hrvatsku.
+Robom nekomercijalne naravi, u smislu stavka 1. ovog članka smatraju se svi predmeti (novi ili rabljeni) kakve bi putnik mogao logično zatrebati za osobnu uporabu ili uporabu njegove obitelji, ili koji su namijenjeni darovanju, pri čemu po svojoj prirodi i količini ukazuju da se ne uvoze iz komercijalnih razloga.
