@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 5. Zakona o genetski modificiranim organizmima (»Narodne novine«, broj 70/05), ministar kulture, uz suglasnosti ministrice nadležne za poslove zaštite okoliša, prostornog uređenja i graditeljstva, donosi
