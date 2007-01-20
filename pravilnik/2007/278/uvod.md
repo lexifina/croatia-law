@@ -1,0 +1,1 @@
+Na temelju članka 87. stavka 3. Zakona o zaštiti prirode (»Narodne novine« br. 70/05), ministar kulture, uz suglasnost ministra mora, turizma, prometa i razvitka i ministrice zaštite okoliša, prostornog uređenja i graditeljstva, donosi
