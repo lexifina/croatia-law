@@ -1,0 +1,1 @@
+Na temelju odredbi članka 213. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 28. prosinca 2006. godine
