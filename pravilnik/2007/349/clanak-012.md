@@ -1,0 +1,7 @@
+## Financijska imovina koja se vrednuje po amortiziranom trošku
+# Članak 12.
+(1) Depoziti i ulaganja koja se drže do dospijeća, te dužnički vrijednosni papiri izdavatelja iz Republike Hrvatske koje društvo klasificira kao ulaganje koje se drži do dospijeća, vrednuju se po amortiziranom trošku primjenom metode efektivne kamatne stope ostvarene prilikom svakog početnog pojedinačnog ulaganja.
+(2) Ukoliko je transakcija prodaje imovine iz portfelja koji se drži do dospijeća zaključena između investicijskih fondova kojima upravlja isto društvo, ista mora odražavati fer vrijednost instrumenta koja se utvrđuje na način opisan u stavku 1. ovog članka.
+(3) U slučaju prodaje dijela imovine koja se drži do dospijeća ili uslijed promjene namjere društva ili promjene sposobnosti da se drži do dospijeća, cjelokupnu imovinu koja se drži do dospijeća treba ponovno mjeriti po fer vrijednosti. Od datuma nastanka slučaja djelomične prodaje ili reklasifikacije tijekom naredne dvije financijske godine niti jedan preostali vrijednosni papir ne smije se vrednovati na način primjeren financijskoj imovini koja se drži do dospijeća. Izuzetak od navedenog su slučajevi prodaje i reklasifikacije s obilježjima koja opisuje MRS 39.9.
+(4) Financijska imovina koja se drži do dospijeća sukladno MRS-u 39, podliježe provjeri testa umanjenja vrijednosti imovine na svaki datum bilance.
+(5) Financijska imovina klasificirana kao zajmovi i potraživanja vrednuje se po amortiziranom trošku, primjenom metode efektivne kamatne stope.
