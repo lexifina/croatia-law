@@ -1,0 +1,2 @@
+# Članak 13.
+Broj pripravnika srednje stručne spreme koji obavljaju pripravnički staž u zdravstvenoj ustanovi ili trgovačkom društvu koje obavlja zdravstvenu djelatnost, sa sklopljenim ugovorom o provođenju zdravstvene zaštite sa Zavodom, mora biti najmanje dvostruko veći od ukupnog broja pripravnika visoke i više stručne spreme koji obavljaju pripravnički staž u toj zdravstvenoj ustanovi ili trgovačkom društvu.

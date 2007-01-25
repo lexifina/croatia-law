@@ -1,0 +1,3 @@
+# Članak 11.
+Zdravstveni radnici koji obavljaju privatnu praksu i koji ispunjavaju uvjete iz članka 131. stavka 3. Zakona o zdravstvenoj zaštiti mogu primiti u radni odnos na pripravnički staž po jednog pripravnika istog zdravstvenog usmjerenja.
+Trgovačka društva koja obavljaju zdravstvenu djelatnost bez sklopljenog ugovora o provođenju zdravstvene zaštite sa Zavodom, poliklinike i ljekarničke zdravstvene ustanove čiji osnivač nije županija, odnosno Grad Zagreb, prema registriranoj djelatnosti mogu primati na pripravnički staž po 1 pripravnika visoke stručne spreme odgovarajućeg zdravstvenog usmjerenja.

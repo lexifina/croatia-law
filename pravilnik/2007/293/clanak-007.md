@@ -1,0 +1,5 @@
+# Članak 7.
+Kliničke zdravstvene ustanove i opće bolnice obvezne su primati na pripravnički staž medicinske sestre/medicinske tehničare prema sljedećem mjerilu - 1 pripravnik na 12 bolesničkih postelja.
+Specijalne bolnice i trgovačka društva koja obavljaju zdravstvenu djelatnost, sa sklopljenim ugovorom o provođenju zdravstvene zaštite sa Zavodom, u kojima se može obavljati dio propisanog pripravničkog staža, obvezna su primati na pripravnički staž medicinske sestre/medicinske tehničare prema sljedećem mjerilu - 1 pripravnik na 25 bolesničkih postelja.
+Poliklinike čiji je osnivač županija, odnosno Grad Zagreb, domovi zdravlja, ustanove za hitnu medicinsku pomoć te ustanove za zdravstvenu njegu obvezne su primati na pripravnički staž medicinske sestre/medicinske tehničare prema sljedećem mjerilu - 1 pripravnik na 6 zaposlenih medicinskih sestara/medicinskih tehničara.
+Medicinske sestre/medicinski tehničari mogu obavljati pripravnički staž u trgovačkim društvima koja obavljaju zdravstvenu djelatnost bez sklopljenog ugovora o provođenju zdravstvene zaštite sa Zavodom.
