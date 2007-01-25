@@ -1,0 +1,3 @@
+## Prijelazne i završne odredbe
+# Članak 7.
+Ovaj Pravilnik stupa na snagu osmog dana od objave u »Narodnim novinama«.
