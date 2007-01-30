@@ -1,0 +1,1 @@
+Temeljem članka 30, i 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 117/93., 69/97., 33/00, 137/00. i 107/01.) i članka 62. Privremenog Statuta Općine Štitar, Općinsko vijeće Štitar na 2. sjednici održanoj 27. prosinca 2006. godine donijelo je
