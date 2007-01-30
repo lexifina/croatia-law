@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004 i 174/2004) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 i 47/99), Vlada Republike Hrvatske je na sjednici održanoj 18. siječnja 2007. godine donijela
