@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 2., članka 46. stavka 2., članka 47. stavka 5. i članka 64. stavka 7. Zakona o hrani (»Narodne novine« broj 117/03, 130/03, 48/04, 85/06) uz suglasnost ravnatelja Hrvatske akreditacijske agencije, ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
