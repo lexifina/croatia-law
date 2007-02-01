@@ -1,0 +1,1 @@
+Na temelju članka 25. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2007. godinu (»Narodne novine«, broj 137/2006), Vlada Republike Hrvatske je na sjednici održanoj 1. veljače 2007. godine donijela
