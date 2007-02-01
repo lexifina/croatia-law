@@ -1,0 +1,10 @@
+## Sumnja na pojavu newcastleske bolesti u golubova pismonoša ili ptica koje se drže u zatočeništvu
+# Članak 19.
+(1) Kad postoji sumnja da su golubovi pismonoše ili ptice koje se drže u zatočeništvu zaražene newcastleskom bolesti, nadležni veterinarski inspektor mora odmah započeti sa službenim postupcima istrage u svrhu potvrđivanja ili prijave prisutnosti bolesti, a naročito mora odmah uzeti odgovarajuće uzorke za laboratorijske pretrage ili provjeriti da su isti uzeti.
+(2) Odmah po primitku obavijesti o sumnji, nadležni veterinarski inspektor mora staviti gospodarstvo ili golubarnik pod službeni nadzor i narediti da niti jedan golub ili ptica koja se drži u zatočeništvu i ništa drugo što bi moglo prenijeti virus newcastleske bolesti ne smije napustiti golubarnik ili gospodarstvo.
+(3) Mjere određene u stavku 1. i 2. ovoga članka moraju ostati na snazi dok Uprava ne isključi sumnju na newcastlesku bolest.
+(4) Nakon što je prisutnost newcastleske bolesti službeno potvrđena, nadležni veterinarski inspektor odmah mora narediti:
+a) primjenu mjera kontrole i iskorjenjivanja bolesti određenih člankom 5. stavkom 1. točkom a), b), e) i f) ovoga Pravilnika, za golubove pismonoše ili ptice koje se drže u zatočeništvu i golubarnike zaražene newcastleskom bolesti; ili
+b) najmanje, zabranu premještanja golubova ili ptica koje se drže u zatočeništvu izvan golubarnika ili gospodarstva tijekom najmanje 60 dana nakon nestanka kliničkih znakova newcastleske bolesti i uništenje ili obradu bilo kojeg materijala ili otpada koji bi mogli biti kontaminirani. Obrada mora biti provedena na način da je uništen sav prisutni virus newcastleske bolesti i sav otpad koji se nakupio tijekom toga 60-dnevnog razdoblja; i
+c) epidemiološko istraživanje u skladu s člankom 7. ovoga Pravilnika.
+(5) Kad je potrebno, a u svrhu pravilne primjene odredbi ovoga članka, Uprava mora dostaviti Europskoj komisiji podatke o stanju bolesti i mjerama kontrole koje se primjenjuju, u skladu s obrascem iz Dodatka VI. ovoga Pravilnika.
