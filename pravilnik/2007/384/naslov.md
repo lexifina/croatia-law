@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-zdravstvenim uvjetima kojima moraju udovoljavati objekti registrirani za obradu, preradu i uskladištenje proizvoda životinjskog podrijetla na obiteljskim poljoprivrednim gospodarstvima (OPG)
