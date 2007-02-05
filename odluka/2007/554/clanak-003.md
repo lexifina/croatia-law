@@ -1,0 +1,2 @@
+# Članak 3.
+Iznimno od članka 2. stavka 1. ove Odluke osigurane osobe Zavoda pravo na posebno skupe lijekove, koji su u Popisu posebno skupih lijekova iz članka 1. stavka 2. ove Odluke navedeni pod rednim brojem 3. Hormoni - samo za djecu do 18 godina i pod rednim brojem 4. Lijekovi za liječenje zloćudnih bolesti i to: L01BC05 061-062 gemcitabin, L01CD01 001-002, 061-062 i 071-072 paklitaksel, ostvaruju samo na osnovi prijedloga povjerenstva za lijekove bolničke zdravstvene ustanove u kojoj se osigurana osoba liječi.
