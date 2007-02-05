@@ -1,0 +1,6 @@
+# Članak 14.
+Elektronički dokumenti i drugi elektronički zapisi arhiviraju se i čuvaju u najmanje dva primjerka. Barem jedan primjerak treba biti takav da je iz njega moguće obnoviti podatke i mogućnost njihova pregledavanja i korištenja u slučaju gubitka ili oštećenja podataka u računalnom sustavu u kojem se obavlja pohrana i obrada zapisa.
+Pri izradi arhivske kopije obvezno se u pisanom obliku utvrđuje predmet arhiviranja, format i struktura zapisa, vrijeme i odgovornost za izradu kopije, te da li se zapisi i dalje čuvaju u izvorišnom informacijskom sustavu ili brišu iz njega.
+Prije predaje arhivskih kopija na mjesto čuvanja obvezno se provjerava njihova cjelovitost, čitljivost i ispravnost.
+Arhivske se kopije predaju na mjesto čuvanja s programima, odnosno aplikacijama koje su potrebne za njihovo pregledavanje i korištenje, ili s podrobnim uputama o hardverskim i softverskim zahtjevima za prikaz i korištenje i navodom o informacijskom sustavu koji trenutno to omogućuje.
+Cjelovitost, čitljivost i ispravnost arhivskih kopija elektroničkih zapisa redovito se provjerava najmanje jednom godišnje. Presnimavanje na novi medij vrši se najmanje svake pete godine, a obvezno ako su prilikom provjere uočene pogreške ili ako je primjerak arhivske kopije nečitljiv, oštećen ili izgubljen.

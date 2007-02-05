@@ -1,0 +1,1 @@
+Sukladno odredbama Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97 i 64/00.), te na temelju članka 11. stavka 3. Pravilnika o vrednovanju te postupku odabiranja i izlučivanja arhivskoga gradiva (»Narodne novine«, br. 90/02) i članka 17. stavka Pravilnika o zaštiti i čuvanju arhivskog i registraturnog gradiva izvan arhiva (»Narodne novine«, br. 63/04) donosi se
