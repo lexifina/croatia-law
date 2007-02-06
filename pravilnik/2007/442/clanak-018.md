@@ -1,0 +1,4 @@
+# Članak 18.
+U članku 28. iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»Gospodarstva koja se bave ekološkom proizvodnjom smiju uspostaviti suradnju jedino s ostalim gospodarstvima koja proizvode sukladno odredbama ovog Pravilnika, s namjerom da podijele višak gnojiva dobivenog ekološkom proizvodnjom. Maksimalno ograničenje od 170 kg dušika po godini/hektaru poljoprivrednog područja izračunava se na temelju svih ekoloških gospodarstava koja su uključena u takvu suradnju.
+Kako bi se osiguralo ispravno upravljanje gnojivom, kapacitet skladišnih prostora za stajnjak mora biti veći od kapaciteta potrebnog za najduža godišnja razdoblja tijekom kojih je uporaba gnojiva za tlo neprikladna ili kada je takva uporaba zabranjena u slučajevima gdje je proizvodna jedinica smještena u blizini zona koje su nitratno osjetljive.«

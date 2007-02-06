@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 2., članka 13. stavka 1., članka 20. stavka 3. Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda (»Narodne novine«, broj 12/01.), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
