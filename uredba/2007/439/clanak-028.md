@@ -1,0 +1,4 @@
+## Specijalizirani programi namijenjeni pojedinim grupama državnih službenika
+# Članak 28.
+Specijalizirani programi namijenjeni pojedinim grupama državnih službenika su programi koji omogućavaju kontinuirano stručno usavršavanje državnih službenika, a državnim službenicima koji ih pohađaju omogućavaju stjecanje novih znanja potrebnih za uspješno obavljanje povjerenih zadaća.
+Programi iz stavka 1. ovog članka mogu se provoditi na osnovnom i naprednom stupnju te obuhvaćaju opće i posebne teme iz oblasti javne uprave, poput strateškog planiranja i vođenja projekata; planiranja, upravljanja i razvoja ljudskih potencijala; upravnog prava, upravnog postupka i izrade pravnih akata; financijskog upravljanja; teme povezane s ulaskom Republike Hrvatske u Europsku uniju i drugim područjima iz djelokruga pojedinih državnih tijela.

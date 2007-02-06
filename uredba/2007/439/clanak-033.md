@@ -1,0 +1,7 @@
+## OPĆE ODREDBE
+## Organizacija i provedba izobrazbe
+# Članak 33.
+Programe opće izobrazbe namijenjene državnim službenicima zaposlenima u više od jednog državnog tijela (u daljnjem tekstu: »opći programi izobrazbe«) te specijalističke programe izobrazbe namijenjene državnim službenicima iz dva ili više državnih tijela (u daljnjem tekstu: »opći specijalistički programi izobrazbe«) organizira posebna ustrojstvena jedinica u središnjem tijelu državne uprave nadležnom za službeničke odnose.
+Specijalističke programe izobrazbe namijenjene državnim službenicima zaposlenima u jednom državnom tijelu (u daljnjem tekstu: »posebni specijalistički programi izobrazbe«) organiziraju središnja tijela državne uprave.
+Neposredna provedba programa izobrazbe državnih službenika može se, pod uvjetima propisanim ovom Uredbom, povjeriti i odgovarajućim domaćim i stranim državnim, javnim i privatnim, prosvjetnim, znanstvenim ili drugim organizacijama, institucijama ili tvrtkama koje se bave izobrazbom ili zapošljavaju osobe s potrebnim posebnim znanjima, vještinama i sposobnostima za provedbu pojedinih programa izobrazbe ili njihovih dijelova.
+Prije povjeravanja provedbe posebnih specijalističkih programa izobrazbe državnih službenika organizacijama, institucijama ili tvrtkama iz stavka 2. ovoga članka, državno tijelo koje to namjerava učiniti, dužno je provjeriti može li to organizirati ili provesti posebna ustrojstvena jedinica u središnjem tijelu državne uprave nadležnom za službeničke odnose.

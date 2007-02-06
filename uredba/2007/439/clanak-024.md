@@ -1,0 +1,7 @@
+## Prilagodbeni program za državne službenike koji imaju obvezu polaganja državnog stručnog ispita
+# Članak 24.
+Prilagodbeni program za državne službenike koji imaju obvezu polaganja državnog stručnog ispita sastoji se od Općeg dijela zajedničkog za sve državne službenike primljene u službu izvanrednim postupkom i nalaze se na probnom radu i Posebnog dijela koji obuhvaća aktivnosti izobrazbe potrebne za djelotvorno i učinkovito obavljanje poslova radnog mjesta na koje je državni službenik primljen te njegovu pripremu za državni stručni ispit.
+Opći dio prilagodbenog programa te dio Posebnog dijela koji se odnosi na pripreme za polaganje općeg dijela državnog stručnog ispita utvrđuje i organizira provedbu središnje tijelo državne uprave nadležno za službeničke odnose.
+Posebni dio prilagodbenog programa, osim dijela koji se odnosi na pripreme za polaganje općeg dijela državnog stručnog ispita, utvrđuje te organizira provedbu jedinica za službeničke odnose državnog tijela u koje je državni službenik primljen, temeljem rezultata procjene znanja, vještina i sposobnosti državnog službenika i zahtjeva njegovog radnog mjesta.
+Plan provedbe Prilagodbenog programa za svakog pojedinog državnog službenika iz ovog članka izrađuje jedinica za službeničke odnose.
+Plan iz stavka 4. ovoga članka mora biti uručen državnom službeniku najkasnije prilikom uručenja rješenja o rasporedu na radno mjesto.
