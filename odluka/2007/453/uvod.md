@@ -1,0 +1,1 @@
+Na temelju čl. 41. stav 2. Zakona o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave (»Narodne novine« br. 59/01.) i čl. 25. Statuta Općine Lastovo, na 16. sjednici Općinskog vijeća Općine Lastovo, održanoj 30. lipnja 2006. godine, donesena je
