@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Š.d.d. je obvezan u tekstu obavijesti iz članka 6. ovoga Pravilnika navesti točnu i objektivnu informaciju o poslovnom događaju tako da Povjerenstvo može, temeljem takve informacije, objektivno procijeniti utjecaj poslovnog događaja na poslovanje š.d.d.-a, a posebno mjesto, vrijeme i sudionike poslovnog događaja te dokumentaciju koja se odnosi na odgovarajući poslovni događaj, ako takva dokumentacija postoji.
+(2) Prilikom dostavljanja obavijesti iz članka 6. ovoga Pravilnika š.d.d dostavlja i primjerak ugovora sklopljenog u pisanom obliku, a ako ugovor nije sklopljen u pisanom obliku, š.d.d. dostavlja sadržaj ugovora.
+(3) Š.d.d. na isti način dostavlja i sve dodatke ugovoru, a ako je sklopljen predugovor, isti se dostavlja uz ugovor.
+(4) Ako dokumentacija koja se dostavlja nije uredna ili potpuna, odnosno, ako dostavljena informacija o poslovnom događaju nije takva da Povjerenstvo može temeljem iste informacije objektivno procijeniti utjecaj poslovnog događaja na poslovanje š.d.d.-a, š.d.d. će na poziv Povjerenstva dostaviti dodatna očitovanja ili dokumentaciju.
