@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima helikoptera (»Narodne novine«, broj 93/05) u članku 8. stavak 2. riječi »koja su započeta prije 1. srpnja 2004., a završe najkasnije do 31. prosinca 2006.« zamjenjuju se riječima »koja su započeta prije 1. srpnja 2004., a završe najkasnije do 30. lipnja 2007.«
