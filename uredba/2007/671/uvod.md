@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o potvrđivanju (ratifikaciji) Konvencije o nadzoru prekograničnog prometa opasnog otpada i njegovu odlaganju (»Narodne novine - međunarodni ugovori«, broj 3/94) i članka 103. podstavka 3. Zakona o otpadu (»Narodne novine«, br. 178/2004 i 111/2006), Vlada Republike Hrvatske je na sjednici održanoj 7. veljače 2007. godine donijela
