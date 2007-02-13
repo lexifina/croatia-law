@@ -1,0 +1,1 @@
+Na temelju članka 3. i 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave i uprave (»Narodne novine« br. 117/93, 67/97, 33/00, 73/00, 127/00, 59/01 i) u članka 17. Statuta Općine Vojnić (»Glasnik« Karlovačke županije br. 28/05, 51/05 i 07/06) Općinsko vijeće Općine Vojnić na svojoj 9. sjednici održanoj 1. prosinca 2006.g. donijelo je
