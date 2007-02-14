@@ -1,0 +1,4 @@
+# Članak 10.
+Tijelo nadležno za upravljanje i provedbu treće komponente programa IPA Regionalni razvoj - zaštita okoliša je Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva, Uprava za strateške i integracijske procese u zaštiti okoliša, koja na obavljanju poslova surađuje s Ministarstvom poljoprivrede, šumarstva i vodnog gospodarstva.
+Za poslove iz članka 6., točke e), f), h), i), k), m) zaduženo je Ministarstvo financija, Uprava za financiranje programa i projekata pomoći Europske unije - Središnja jedinica za financiranje i ugovaranje, za dio programa u okviru sektorske nadležnosti Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva.
+Za poslove iz članka 6., točke e), f), h), i), j), k), m) zadužene su Hrvatske vode, za dio programa u okviru sektorske nadležnosti Ministarstva poljoprivrede, šumarstva i vodnog gospodarstva, dijela vodnog gospodarstva.

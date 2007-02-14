@@ -1,0 +1,4 @@
+# Članak 11.
+Tijelo nadležno za upravljanje i provedbu treće komponente programa IPA Regionalni razvoj - regionalna konkurentnost je Ministarstvo gospodarstva, rada i poduzetništva, koje na obavljanju poslova surađuje s Ministarstvom znanosti, obrazovanja i športa, Ministarstvom mora, turizma, prometa i razvitka i Središnjim državnim uredom za e-Hrvatsku.
+Ministarstvo gospodarstva, rada i poduzetništva će, u roku 30 dana od stupanja na snagu ove Uredbe, uspostaviti organizacijsku jedinicu koja će obavljati poslove upravljanja trećom komponentom programa IPA Regionalni razvoj - Regionalna konkurentnost.
+Za poslove iz članka 6., točke e), f), h), i), k), m) zaduženo je Ministarstvo financija, Uprava za financiranje programa i projekata pomoći Europske unije - Središnja jedinica za financiranje i ugovaranje.
