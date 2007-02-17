@@ -1,0 +1,2 @@
+# Članak 70.
+Katastarski operat katastra nekretnina može se izrađivati i postupno, prevođenjem jedne ili više katastarskih čestica katastra zemljišta u katastarske čestice katastra nekretnina (osnivanje katastarskih čestica katastra nekretnina za dio katastarske općine) u katastarskim općinama u kojima postoje preduvjeti propisani ovim Zakonom i odgovarajuća odluka središnjeg ureda Državne geodetske uprave o postupnoj izradbi katastra nekretnina.

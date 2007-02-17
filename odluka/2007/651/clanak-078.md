@@ -1,0 +1,2 @@
+# Članak 78.
+U registru prostornih jedinica (u daljnjemu tekstu: registar) vode se podaci o sljedećim prostornim jedinicama: državi, županiji, Gradu Zagrebu, gradu, općini, naselju, dostavnom području poštanskog ureda, jedinici mjesne samouprave, zaštićenim i štićenim područjima, katastarskoj općini, statističkome krugu, popisnome krugu, ulici i trgu, zgradi i pripadajućim kućnim brojevima te o drugim prostornim jedinicama za koje je to posebno određeno posebnim propisima.
