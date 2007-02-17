@@ -1,0 +1,3 @@
+# Članak 50.
+U članku 103. stavak 3. mijenja se i glasi:
+»(3) Oglas o slobodnim mjestima iz stavka 1. ovoga članka objavljuje se u pravilu u »Narodnim novinama«, a po potrebi i na drugi način, a sadrži poziv kandidatima da u roku, koji ne smije biti kraći od 15 dana a niti dulji od 30 dana, podnesu prijavu s dokazima da ispunjavaju uvjete propisane za imenovanje zamjenika državnog odvjetnika kao i podatke o svom radu, te pisanu izjavu da pristaju na sigurnosne provjere koje se provode u skladu s posebnim propisom. Ako su zatražene provjere kandidat ima pravo upoznati se s rezultatima u skladu s posebnim propisima kojima je propisan postupak vršenja provjera.«

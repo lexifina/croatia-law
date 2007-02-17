@@ -1,0 +1,9 @@
+# Članak 38.
+Članak 80. mijenja se i glasi:
+»(1) Državni odvjetnik ili zamjenik državnog odvjetnika općinskog ili županijskoga državnog odvjetništva može se privremeno, za potrebe službe, uputiti na rad u drugo državno odvjetništvo istog ili nižeg stupnja za rad u određenom predmetu ili na određeno vrijeme, ali najdulje šest mjeseci.
+(2) Državni se odvjetnik ili zamjenik državnog odvjetnika može uz svoj pristanak uputiti na rad u drugo državno odvjetništvo istog stupnja i na dulje vrijeme ili trajno premjestiti.
+(3) Rješenje o privremenom upućivanju na rad u drugo državno odvjetništvo donosi Glavni državni odvjetnik, a za trajni premještaj Državnoodvjetničko vijeće.
+(4) Zahtjev za trajni premještaj zamjenika državnog odvjetnika dostavlja Državnom odvjetništvu Republike Hrvatske županijsko državno odvjetništvo u koje zamjenik prelazi na rad ili na čijem se području nalazi općinsko državno odvjetništvo u koje prelazi na rad. Uz zahtjev se dostavlja pisani pristanak zamjenika za trajni premještaj i suglasnost državnog odvjetnika u kojem zamjenik radi.
+(5) Ako je suglasan s trajnim premještajem, Glavni državni odvjetnik dostavit će Državnoodvjetničkom vijeću zahtjev za trajni premještaj. Uz zahtjev se prilaže i pisani pristanak zamjenika te suglasnost iz stavka 4. ovoga članka.
+(6) Protiv rješenja o privremenom upućivanju na rad u drugo državno odvjetništvo državni odvjetnik ili zamjenik državnog odvjetnika ima pravo prigovora Glavnom državnom odvjetniku u roku od osam dana od dostave rješenja. Odluka Glavnoga državnog odvjetnika po prigovoru je konačna.
+(7) U slučaju ukidanja ili preustroja državnog odvjetništva Glavni državni odvjetnik premjestit će državnog odvjetnika ili zamjenika državnog odvjetnika na mjesto zamjenika državnog odvjetnika u državno odvjetništvo istog stupnja.«

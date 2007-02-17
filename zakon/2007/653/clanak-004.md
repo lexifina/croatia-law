@@ -1,0 +1,5 @@
+# Članak 4.
+U članku 14. dodaju se stavci 3., 4. i 5. koji glase:
+»(3) Pred trgovačkim sudom koji je mjesno nadležan za područje za koje su mjesno nadležna dva ili više županijskih državnih odvjetništava, postupat će županijsko državno odvjetništvo prema registriranom sjedištu pravne osobe, odnosno registriranom sjedištu ili prebivalištu trgovca pojedinca ili obrtnika koji je stranka u postupku, odnosno nad kojim se provodi postupak stečaja ili likvidacije.
+(4) Kad kao stranke u postupku sudjeluje više osoba iz stavka 3. ovoga članka, s područja mjesne nadležnosti više županijskih državnih odvjetništava te strana pravna ili fizička osoba, postupat će županijsko državno odvjetništvo na čijem se području nalazi sjedište trgovačkog suda koji vodi postupak.
+(5) Županijsko državno odvjetništvo koje je započelo zastupanje u postupku pred trgovačkim sudom nastavit će zastupanje do kraja postupka i ako se promijene okolnosti iz stavka 3. i 4. ovoga članka po kojima je bila određena njegova nadležnost.«
