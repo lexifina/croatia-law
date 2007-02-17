@@ -1,0 +1,2 @@
+# Članak 83.
+U cijelom tekstu Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94. i 162/98.) riječi: »Ministar pravosuđa, Ministarstvo pravosuđa, izvršenje, izvršnost, krivično, disciplinska, zakleti sudski tumač i druge izvedenice ovih riječi« u određenom padežu, zamjenjuju se riječima: »ministar nadležan za poslove pravosuđa, ministarstvo nadležno za poslove pravosuđa, ovrha, ovršnost, kazneno, stegovna, stalni sudski tumač i drugim izvedenicama ovih riječi« u odgovarajućem rodu, broju i padežu«.

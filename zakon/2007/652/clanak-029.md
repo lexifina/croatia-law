@@ -1,0 +1,5 @@
+# Članak 29.
+Članak 56. mijenja se i glasi:
+»(1) Osim zakonom određenih, svi drugi ugovori mogu se pred javnim bilježnikom sastaviti u obliku javnobilježničkog akta, i bez istodobno nazočnosti svih ugovaratelja, tako da javni bilježnik odvojeno utvrdi ponudu i prihvat. U ponudi se mora navesti određeno vrijeme, kalendarski utvrđeno, do kojega se i prihvat mora utvrditi javnobilježničkim aktom. Ako se to ne učini u određenom roku, smatrat će se da ugovor nije sklopljen u obliku javnobilježničkog akta.
+(2) Pravno je valjan i javnobilježnički akt sastavljen u nazočnosti samo nekih ugovaratelja ako je u aktu naznačeno da svi ugovaratelji nisu bili istodobno nazočni, uz uvjet da su svi ugovaratelji akt potpisali pred javnim bilježnikom koji ga je sastavio, te da su u odnosu na sve ugovaratelje u potpunosti poštivane odredbe članka 57. i 58. ovoga Zakona.
+(3) Akte o ponudi i prihvatu ne mora sastaviti isti javni bilježnik. U takvom slučaju morat će drugi javni bilježnik svoj akt o prihvatu ponude poslati na čuvanje onom javnom bilježniku koji je utvrdio ponudu.«

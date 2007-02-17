@@ -1,0 +1,4 @@
+# Članak 55.
+Članak 116. mijenja se i glasi:
+»(1) Ministar pravosuđa će javnobilježničkim poslovnikom propisati vrste, oblik i sadržaj upisnika i knjiga koje vodi javni bilježnik.
+(2) Prije stavljanja u uporabu upisnici i knjige iz stavka 1. ovoga članka, osim imenika, moraju biti povezani, njihovi listovi rednim brojevima označeni, jamstvenikom prošiveni te pečatom Komore ovjereni. Upisi se unose bez odgađanja, redom kako stigne koji predmet, čitko i bez ostavljanja praznih rubrika. Brisanja unesenih podataka nisu dozvoljena, a ispravak upisa pogrešnog podatka vrši se precrtavanjem vodoravnom crtom, tako da precrtani podatak ostane čitak. Ispunjene upisnike i knjige, prije odlaganja u svoj arhiv, javni će bilježnik zaključiti podvlačenjem ravne crte na zadnjoj stranici knjige iza posljednjeg upisa, navođenjem ukupnog broja izvršenih upisa te potpisati i staviti svoj pečat.«
