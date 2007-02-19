@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 1. Zakona o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, broj 150/2005), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 2007. godine donijela
