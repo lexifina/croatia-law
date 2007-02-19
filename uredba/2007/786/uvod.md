@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 1. Zakona o financiranju vodnog gospodarstva (»Narodne novine«, br. 107/95, 19/96, 88/98 i 150/2005), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 2007. godine donijela
