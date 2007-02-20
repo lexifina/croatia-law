@@ -1,0 +1,1 @@
+Na temelju članka 61.g Zakona o morskom ribarstvu (»Narodne novine«, broj 74/94, 57/96, 76/99 i 48/05) te članka 68.g Zakona o slatkovodnom ribarstvu (»Narodne novine«, broj 106/01, 7/03, 174/04 i 10/05), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
