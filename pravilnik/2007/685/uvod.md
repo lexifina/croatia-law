@@ -1,0 +1,1 @@
+Na temelju odredbe članka 76.b stavka 4. Zakona o tržištu vrijednosnih papira (»Narodne novine« br. 84/02 i 138/06), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj 1. veljače 2007. godine donijela
