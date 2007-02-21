@@ -1,0 +1,1 @@
+Na temelju članka 10. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), a u vezi s člankom 119. stavkom 5. Zakona o telekomunikacijama (»Narodne novine«, br. 122/2003, 158/2003, 60/2004 i 70/2005), Vlada Republike Hrvatske je na sjednici održanoj 21. veljače 2007. godine donijela

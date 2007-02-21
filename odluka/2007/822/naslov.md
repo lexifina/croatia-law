@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na usklađenje Ugovora o koncesiji za obavljanje javnih govornih usluga u nepokretnoj mreži i tržišnih telekomunikacijskih usluga u nepokretnoj mreži, sklopljenog između Vl
