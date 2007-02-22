@@ -1,0 +1,1 @@
+Na temelju članaka 5., 6., 9., 12. i članka 13. stavka 2. Zakona o sustavu provedbe programa Europske unije i sustavu provedbe projekata financiranih iz sredstava zajmova i darovnica iz ostalih inozemnih izvora (»Narodne novine«, broj 58/2006, u daljnjem tekstu: Zakon), Vlada Republike Hrvatske je na sjednici održanoj 7. veljače 2007. godine donijela
