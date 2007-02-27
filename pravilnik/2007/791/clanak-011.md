@@ -1,0 +1,9 @@
+# Članak 11.
+Ministarstvo će po pravomoćnosti rješenja o registraciji, oznaku pića staviti na Listu jakih alkoholnih i aromatiziranih pića podrijetlom iz Hrvatske.
+Podnositelj zahtjeva se upisuje u Upisnik korisnika registrirane oznake koji vodi Ministarstvo.
+Upisnik sadrži:
+- registarski broj oznake pića;
+- podatke o korisniku registrirane oznake (ime i prezime odnosno naziv pravne ili fizičke osobe ili poljoprivrednog obiteljskog gospodarstva, punu adresu odnosno sjedište te matični broj istih);
+- registriranu oznaku pića za koju je korisnik dobio pravo uporabe;
+- datum donošenja i broj rješenja o pravu uporabe registrirane oznake;
+- datum upisa korisnika.

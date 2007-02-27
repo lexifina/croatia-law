@@ -1,0 +1,2 @@
+# Članak 27.
+Travarica je tradicionalno alkoholno piće. Za aromatiziranje i/ili spravljanje macerata travarice upotrebljava se odabrano aromatsko bilje u količini i sastavu prema vlastitim recepturama proizvođača s osnovnom karakteristikom da prevladavaju aromatske komponente karakteristične za goransko-mediteransko podneblje. Lagano obojenje ovog proizvoda potječe od dodanih macerata aromatskog bilja, a proizvod može sadržavati dijelove biljaka s kojima je aromatiziran.

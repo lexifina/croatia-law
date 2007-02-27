@@ -1,0 +1,4 @@
+# Članak 24.
+Slavonska šljivovica je tradicionalno alkoholno piće proizvedeno kao voćna rakija od autohtonih sorti šljiva koje imaju dugogodišnju tradiciju uzgoja na ovim područjima, a daju destilat vrlo specifičnog i prepoznatljivog karaktera oplemenjenog odležavanjem u drvenim bačvama izrađenim od slavonske hrastovine.
+Tradicionalni postupak vrenja provodi se epifitnim mikroorganizmima u drvenim posudama u trajanju 3 - 4 tjedna.
+Tradicionalni postupak destilacije provodi se na jednostavnom bakrenom destilacijskom uređaju radnog volumena od 100-500 litara zagrijavanog otvorenim plamenom, s razdvajanjem frakcija tako da gotov proizvod sadrži od 37,5 - 42,5% vol. alkohola; minimalno 200 g hlapivih tvari po hektolitru, preračunato na 100% vol. alkohola; maksimalno 1200 g metilnog alkohola po hektolitru, preračunato na 100% vol. alkohola; maksimalno 10 g cijanovodične kiseline po hektolitru, preračunato na 100% vol. alkohola.

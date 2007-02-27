@@ -1,0 +1,3 @@
+# Članak 22.
+Za proizvodnju stare šljivovice koristi se šljiva koja daje rakiju s izraženim aromatskim karakteristikama. Plodovi šljive kod prerade otkoštičavaju se i muljaju, nakon čega masulj fermentira. Destilacija fermentiranog masulja provodi se tako da je alkoholna jakost od 60-75% vol. kako bi destilat zadržao bogatstvo mirisa i okusa. Tako dobiven destilat odležava u bačvama od slavonske hrastovine minimalno 12 mjeseci.
+Odležavanjem u bačvama od slavonske hrastovine destilat se oplemenjuje aromatskim sastojcima od drveta i dobiva, ovisno o dužini odležavanja, karakterističnu aromu i boju.

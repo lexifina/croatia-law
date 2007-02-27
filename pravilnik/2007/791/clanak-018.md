@@ -1,0 +1,3 @@
+# Članak 18.
+Loza je tradicionalno bezbojno alkoholno piće proizvedeno isključivo destilacijom fermentiranog grožđanog masulja tako da se po osebujnim senzorskim karakteristikama i detektiranim analitičkim parametrima ovo alkoholno piće razlikuje od alkoholnih pića od vinskog destilata koja se proizvode destilacijom vina i od rakije od grožđanog tropa ili koma koja se proizvodi destilacijom tropa ili koma.
+Destilacija se provodi tako da destilat sadrži od 60 - 75% vol. alkohola; minimalno 50 g estera po hektolitru, preračunato na 100% vol. alkohola; minimalno 150 g viših alkohola po hektolitru, preračunato na 100% vol. alkohola; metilnog alkohola od 80 - 400 g po hektolitru, preračunato na 100% vol. alkohola.

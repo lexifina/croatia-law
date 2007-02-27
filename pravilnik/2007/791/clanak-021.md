@@ -1,0 +1,3 @@
+# Članak 21.
+Stara šljivovica je tradicionalno alkoholno piće proizvedeno kao voćna rakija od šljive (Prunus domestica L) koja ima dugogodišnju tradiciju uzgoja na ovim područjima i daje destilat vrlo specifičnog i prepoznatljivog karaktera oplemenjenog odležavanjem u drvenim bačvama izrađenim od slavonske hrastovine.
+Destilacija se provodi tako da destilat sadrži od 60 - 75% vol. alkohola; minimalno 200 g hlapivih tvari po hektolitru, preračunato na 100% vol. alkohola; maksimalno 1200 g metilnog alkohola po hektolitru, preračunato na 100% vol. alkohola; maksimalno 10 g cijanovodične kiseline po hektolitru, preračunato na 100% vol. alkohola.

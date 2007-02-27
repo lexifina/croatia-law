@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 4., članka 40. stavka 3., članka 43. stavka 5., članka 45. stavka 2. i članka 47. stavka 5. Zakona o hrani (»Narodne novine« br. 117/03, 130/03, 48/04, 85/06), ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi

@@ -1,0 +1,2 @@
+# Članak 19.
+Za proizvodnju loze koristi se grožđe s 10 - 15% šećera i 6 - 12% kiselina, koje je pogodno za proizvodnju stolnih vina. Grožđe se izmulja u cijelosti, osim peteljkovine, i podvrgne fermentaciji. Nakon fermentacije koja se provodi do kraja (bez ostatka šećera), destilira se zajedno tekući i kruti sadržaj masulja na uređajima za destilaciju ili koloni za destilaciju na kojima je moguća destilacija krutog i tekućeg dijela masulja. Nakon destilacije proizvod se uz dodatak demineralizirane vode svodi na željenu jačinu.
