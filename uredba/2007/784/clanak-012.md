@@ -1,0 +1,3 @@
+# Članak 12.
+U Odsjeku se obavljaju izdavački poslovi: uređuju periodička, monografska i druga izdanja (publikacije, katalozi, leci, mape, prikazi itd.) na papirnom i elektroničkom mediju te izvori informacija i usluga dostupnih na mreži; izrađuju se kriteriji za odabir podataka, način prikaza i grafičko uređenje izdanja; prevode se, lektoriraju i korigiraju tekstovi; organizira se tiskanje i objavljivanje te distribucija tiskanih izdanja odnosno obnova podataka izvora informacija i usluga dostupnih na mreži. Prati se razvoj djelatnosti i izrađuju podloge za unaprjeđivanje dostupnosti službene dokumentacije i podataka primarnim korisnicima i najširemu krugu korisnika.
+3.2. Odsjek za pružanje korisničkih usluga

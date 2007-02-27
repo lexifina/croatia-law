@@ -1,0 +1,3 @@
+# Članak 10.
+U Odsjeku se prikupljaju podaci i izgrađuju normativne baze podataka: pojmovnici i klasifikacije; prate se norme za izradu normativnih baza podataka i pripremaju za primjenu; oblikuju se upute o izgradnji, dogradnji i načinu korištenja pojmovnika i klasifikacija. Odsjek pomaže u primjeni normativnih podataka; surađuje s drugim državnim tijelima i srodnim institucijama radi normirane izgradnje dokumentacijskih normativnih alata te razmjene normativnih podataka na elektroničkom mediju i protoka informacija; sudjeluje u razvoju alata za unaprjeđivanje i korištenje normativne infrastrukture potpomognute računalom.
+3. Odjel za diseminaciju informacija

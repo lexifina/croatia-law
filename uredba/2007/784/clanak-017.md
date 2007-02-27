@@ -1,0 +1,3 @@
+# Članak 17.
+U Odjelu se obavljaju upravni i stručni poslovi u svezi s primjenom i provedbom zakona i drugih propisa iz djelokruga HIDRA-e; usklađuje se rad na izradi nacrta prijedloga propisa iz djelokruga HIDRA-e; priprema se i usklađuje izrada općih akata HIDRA-e; koordiniraju se i vode poslovi u vezi sa zapošljavanjem službenika i namještenika; prate se, nadziru i poduzimaju mjere za unaprjeđivanje rada službenika i namještenika; surađuje se s drugim tijelima državne uprave i drugim institucijama u poslovima iz djelokruga Odjela; vodi se evidencija iz djelokruga Odjela; obavljaju se administrativni poslovi za potrebe ravnatelja te kadrovski, pomoćni i tehnički poslovi za potrebe HIDRA-e.
+8. Odjel za računovodstveno-financijske poslove, plan i nabavu

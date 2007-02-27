@@ -1,0 +1,3 @@
+# Članak 16.
+U Odjelu se planiraju, organiziraju, pripremaju i vode predstavljanja, predavanja, seminari i prezentacije HIDRA-ine djelatnosti; pripremaju se i vode kontakti s medijima; planira se, organizira i prati izobrazba HIDRA-inih službenika; planira se, organizira i prati izobrazba korisnika iz područja HIDRA-ina rada; prate se i predlažu programi financiranja drugih domaćih i inozemnih institucija i programa te vode organizacijski i administrativni poslovi u vezi s projektima, donacijama i novčanom pomoći u kojima HIDRA sudjeluje samostalno ili u suradnji s drugim institucijama.
+7. Odjel za pravne, kadrovske i opće poslove

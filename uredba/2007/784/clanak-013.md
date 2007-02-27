@@ -1,0 +1,3 @@
+# Članak 13.
+U Odsjeku se pružaju informacijske usluge namijenjene korisnicima: zaprimaju i evidentiraju korisnički upiti; provode korisnički intervjui; pretražuju službeni informacijski izvori HIDRA-e, drugih tijela javne vlasti Republike Hrvatske, stranih zemalja, Europske unije i drugih međunarodnih organizacija te drugih srodnih institucija; selektiraju se i organiziraju podaci i dokumentacijska građa prema korisničkim upitima te dostavlja korisnicima na papirnom i/ili elektroničkom mediju; analiziraju se korisnički upiti i izgrađuju i dorađuju kriteriji za razvoj usluga koje pružaju informacijski specijalisti.
+4. Odjel za primjenu i razvoj korisničke programske podrške

@@ -1,0 +1,3 @@
+# Članak 8.
+U Odsjeku se formalno obrađuje službena dokumentacija i podaci te izgrađuju i dopunjavaju bibliografske/dokumentacijske baze podataka; prate se i pripremaju za primjenu norme i preporuke za formalnu obradu službene dokumentacije i podataka; pripremaju se podaci za objavu na papirnom i elektroničkom mediju te izgradnju i održavanje izvora informacija i usluga dostupnih na mreži. Odsjek surađuje s drugim državnim tijelima i srodnim institucijama radi normiranja obrade službene dokumentacije i podataka te razmjene podataka na elektroničkom mediju i protoka informacija; sudjeluje u razvoju alata za formalnu obradu službene dokumentacije i podataka potpomognutu računalom.
+2.2. Odsjek za sadržajnu obradu službene dokumentacije i podataka
