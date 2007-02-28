@@ -1,0 +1,31 @@
+I.
+Ovom Odlukom uređuje se provođenje mjera iz Rezolucije 1718 (2006) Vijeća sigurnosti Ujedinjenih naroda.
+II.
+Zabranjuje se pravnim i fizičkim osobama koje djeluju s teritorija Republike Hrvatske izravnu ili neizravnu opskrbu, prodaju ili prijenos u DNR Koreju, kao i korištenje plovila ili zrakoplova pod zastavom Republike Hrvatske u tu svrhu, bez obzira na to potječe li s teritorija Republike Hrvatske ili ne:
+1. svih bojnih tenkova, oklopnih bojnih vozila, topništva velikog kalibra, bojnih zrakoplova, bojnih helikoptera, ratnih brodova, raketa ili raketnih sustava kako je to definirano za potrebe UN-ova Registra konvencionalnoga oružja, ili povezanoga vojnoga materijala uključujući rezervne dijelove, ili predmete koje utvrdi Vijeće sigurnosti ili Odbor Vijeća sigurnosti;
+2. svih predmeta, materijala, opreme, robe i tehnologije kako je navedeno u popisima u dokumentima Vijeća sigurnosti Ujedinjenih naroda S/2006/814 i S/2006/815 i također uzimajući u obzir popis u dokumentu Vijeća sigurnosti Ujedinjenih naroda S/2006/816, kao i ostale predmete, materijale, opremu, robu i tehnologiju koje utvrdi Vijeće sigurnosti ili Odbor Vijeća sigurnosti, a koji bi mogli pridonijeti programima DNR Koreje koji se odnose na nuklearno oružje, balističke rakete ili drugo oružje za masovno uništenje;
+3. luksuzne proizvode. Lista luksuznih proizvoda nalazi se u Prilogu ove Odluke i njezin je sastavni dio.
+Zabranjuje se nabava predmeta iz stavaka 1., 2. i 3. točke II. ove Odluke, iz DNR Koreje, i korištenje plovila ili zrakoplova pod zastavom Republike Hrvatske u tu svrhu, bez obzira na to potječu li s teritorija DNR Koreje ili ne.
+Zabranjuje se bilo kakav prijenos u DNR Koreju od strane svojih državljana ili sa svojeg teritorija, ili iz DNR Koreje ili od strane njezinih državljana ili s njezina teritorija, tehničke obuke, savjeta, usluga ili pomoći u svezi s nabavom, proizvodnjom, održavanjem ili korištenjem predmeta, iz stavaka 1., 2. i 3 točke II. ove Odluke.
+III.
+Zabranjuje se raspolaganje imovinom, financijskim sredstvima u Republici Hrvatskoj, od dana stupanja na snagu ove Odluke, koji su u vlasništvu ili koje kontroliraju, izravno ili neizravno, fizičke i pravne osobe koje Odbor Vijeća sigurnosti ili Vijeće sigurnosti označi kao one koji sudjeluju ili podupiru, uključujući i drugim protuzakonitim sredstvima, u programima DNR Koreje, koji su povezani s nuklearnim oružjem, drugim oružjem za masovno uništenje, te s balističkim raketama, ili fizičke i pravne osobe koji djeluju u njihovo ime ili prema njihovim uputama.
+IV.
+Zabranjuje se ulazak ili prolaz kroz teritorij Republike Hrvatske osoba koje Odbor Vijeća sigurnosti ili Vijeće sigurnosti označi kao odgovorne, uključujući i putem podupiranja ili poticanja, za strategiju DNR Koreje u odnosu na programe DNR Koreje vezane za nuklearno oružje, balističke rakete i drugo oružje za masovno uništenje, zajedno s članovima njihovih obitelji.
+V.
+Mjere iz točke IV. ove Odluke neće se primjenjivati kad Odbor Vijeća sigurnosti za svaki pojedinačni slučaj odredi da je takvo putovanje opravdano iz razloga humanitarne potrebe, uključujući vjerske obveze, ili kad Odbor Vijeća sigurnosti zaključi da bi izuzeće koristilo promicanju ciljeva Rezolucije 1718.
+VI.
+Radi sprječavanja protuzakonite trgovine nuklearnim, kemijskim ili biološkim oružjem, njihovim nosačima i povezanim materijalima, Republika Hrvatska će prema potrebi, a u skladu s ovlastima i zakonskim propisima, te sukladno međunarodnom pravu, provesti združenu akciju sa drugim državama članicama Ujedinjenih naroda, uključujući i inspekcije tereta za DNR Koreju ili iz DNR Koreje.
+VII.
+Obveze iz točke III. ove Odluke ne odnose se na imovinu, financijska sredstva koje je Republika Hrvatska odredila:
+1. kao nužne za osnovne izdatke, uključujući plaćanje prehrane, najma ili hipoteke, lijekova i liječenja, poreza, premija osiguranja i naknada za komunalne usluge, ili isključivo za plaćanje realnih profesionalnih naknada i povrat troškova nastalih u svezi s pružanjem pravnih usluga, ili naknade ili pristojbe za usluge, u skladu s zakonima Republike Hrvatske, za rutinsko držanje ili čuvanje zamrznutih sredstava, druge imovine, financijskih sredstava, nakon obavijesti od strane Republike Hrvatske Odboru Vijeća sigurnosti o namjeri da odobri, kada je to primjereno, pristup tim sredstvima, drugoj imovini, financijskim sredstvima i ako Odbor Vijeća sigurnosti ne donese negativnu odluku u roku od pet radnih dana po primitku obavijesti;
+2. kao nužne za izvanredne izdatke, pod uvjetom da je o takvoj odluci Republika Hrvatska obavijestila Odbor Vijeća sigurnosti i da je takva odluka odobrena od strane Odbora Vijeća sigurnosti;
+3. ako podliježu sudskom, upravnom ili arbitražnom založnom pravu ili presudi, u kojem slučaju imovina, financijska sredstva mogu biti korištena da se podmiri to založno pravo ili presuda pod uvjetom da je založno pravo ili presuda donesena prije dana donošenja ove Rezolucije Vijeća sigurnosti Ujedinjenih naroda (1718), da nije u korist osoba iz točke III. ove Odluke ili fizičkih i pravnih osoba i pojedinaca označenih od strane Vijeća sigurnosti ili Odbora Vijeća sigurnosti.
+VIII.
+Međuresorska radna skupina za provođenje i praćenje Zakona o međunarodnim restriktivnim mjerama zadužuje se za predlaganje, praćenje i koordinaciju provedbe, te izvještavanje o ovoj Odluci.
+Tijela državne uprave nadležna za primjenu međunarodnih restriktivnih mjera dužna su dostaviti podatke Međuresorskoj radnoj skupini o poduzetim mjerama kako bi ona o istom mogla izvješćivati Vladu Republike Hrvatske, te pripremati izvješća za Vijeće sigurnosti UN-a.
+IX.
+Međuresorska radna skupina za provođenje i praćenje Zakona o međunarodnim restriktivnim mjerama zadužuje se po uspostavi liste fizičkih i pravnih osoba iz Rezolucije 1718 Vijeća sigurnosti Ujedinjenih naroda navedene liste proslijediti nadležnim tijelima državne uprave, na provedbu i postupanje.
+X.
+Izmjenu i dopunu lista restriktivnih mjera iz Rezolucije 1718 Vijeća sigurnosti Ujedinjenih naroda vodit će Ministarstvo vanjskih poslova i europskih integracija, te će se u skladu s njima izvještavati nadležna tijela.
+XI.
+Ova Odluka stupa na snagu danom donošenja a objavit će se u »Narodnim novinama«.
