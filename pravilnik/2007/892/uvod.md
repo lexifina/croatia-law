@@ -1,0 +1,1 @@
+Na temelju članka 97. Zakona o sudovima (»Narodne novine«, broj 155/05 i 16/07) i članka 65. Zakona o izmjenama i dopunama Zakona o državnom odvjetništvu (»Narodne novine«, broj 16/07), ministrica pravosuđa donosi

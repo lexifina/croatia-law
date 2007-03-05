@@ -1,0 +1,4 @@
+# Članak 2.
+Suci, državni odvjetnici i zamjenici državnih odvjetnika obvezni su u roku od 30 dana od dana stupanja na dužnost dostaviti Ministarstvu pravosuđa pisano izvješće o svojoj imovini, imovini bračnog druga i maloljetne djece, na dan stupanja na dužnost, kao i na dan prestanka obnašanja sudačke odnosno državnoodvjetničke dužnosti.
+Ako je tijekom obnašanja sudačke odnosno državnoodvjetničke dužnosti došlo do bitne promjene u imovini suca, državnog odvjetnika ili zamjenika državnog odvjetnika, bračnog druga ili maloljetne djece, tako da premašuje jednogodišnji iznos neto-prihoda suca, državnog odvjetnika i zamjenika državnog odvjetnika, suci odnosno državni odvjetnici i zamjenici državnog odvjetnika dužni su prijaviti nastalu promjenu istekom godine u kojoj je promjena nastala.
+Izvješće sadrži popis imovine suca, državnog odvjetnika ili zamjenika državnog odvjetnika, bračnog druga i maloljetne djece.
