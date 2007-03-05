@@ -1,0 +1,3 @@
+# Članak 25.
+Odsjek gospodarstvenih poslova u rudarstvu vodi evidenciju o rezervama mineralnih sirovina te izrađuje godišnju bilancu rezervi mineralnih sirovina; provodi postupke provjere elaborata o rezervama mineralnih sirovina; vodi katastar istražnih prostora i eksploatacijskih polja mineralnih sirovina; prati poslovanje rudarskih gospodarstvenih subjekata; prati i analizira gospodarske mjere od utjecaja na položaj rudarskih gospodarstvenih subjekata; utvrđuje strategiju gospodarenja mineralnim sirovinama; sudjeluje u izradi i provedbi zakonskih i podzakonskih akata iz područja rudarstva, te obavlja druge poslove iz svog djelokruga.
+3.3. Odjel za strateško planiranje i energetske bilance

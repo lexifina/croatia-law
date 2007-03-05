@@ -1,0 +1,3 @@
+# Članak 54.
+Odsjek za pravne aspekte trgovinske politike u sklopu Odjela obavlja sljedeće upravne i stručne poslove: surađuje na izradi nacrta zakona; izrađuje očitovanja na prijedloge zakona i podzakonskih propisa; prati pravne učinke članstva Republike Hrvatske u međunarodnim organizacijama i integracijama; prati promjene zakonodavstva EU; prati proces prilagodbe hrvatskog zakonodavstva pravnoj stečevini EU; sudjeluje u aktivnostima prilagodbe zakonodavstva u nadležnosti Ministarstva; prati i sudjeluje u procesu implementacije pravila Svjetske trgovinske organizacije u hrvatsko zakonodavstvo; daje mišljenja na predložene zakonske i podzakonske akte koji nisu iz nadležnosti Ministarstva.
+6.2. Odjel za međunarodne gospodarske odnose

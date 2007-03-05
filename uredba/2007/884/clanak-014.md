@@ -1,0 +1,3 @@
+# Članak 14.
+Odsjek za razvoj i upravljanje kadrovima obavlja upravne i druge stručne poslove koji se odnose na upravljanje kadrovima i njihov razvoj, daje mišljenja o pitanjima koja se odnose na državnu službu, priprema prijedloge planova prijama u državnu službu usklađujući raspored državnih službenika s planovima središnjeg tijela državne uprave nadležnog za službeničke odnose, provodi postupak prijama u državnu službu u suradnji sa središnjim tijelom državne uprave nadležnim za službeničke odnose, sudjeluje u izradi strategija, programa i planova izobrazbe, vodi osobne očevidnike službenika i namještenika redovito dostavljajući nove podatke u središnji popis državnih službenika.
+2.3.3. Odsjek za opće poslove

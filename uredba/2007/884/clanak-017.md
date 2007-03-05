@@ -1,0 +1,3 @@
+# Članak 17.
+Pododsjek za sigurnosne i informatičke poslove obavlja sigurnosne poslove koji se odnose na cjelovitu zaštitu osoba, imovine i objekata Ministarstva, priprema planove i predlaže mjere zaštite, prati stanje civilnih obrambenih priprema, te u suradnji s Ministarstvom obrane predlaže mjere; obavlja informatičke poslove koji se odnose na pripremu podataka i održavanje informacijskog sustava Ministarstva, brine o tehničkom održavanju računalne opreme, o stabilnosti i sigurnosti informacijskih sustava, educira državne službenike i namještenike za rad sa standardnim informatičkim proizvodima, predlaže mjere za unaprjeđivanje rada informacijskog sustava Ministarstva, obavlja i druge poslove iz svog djelokruga.
+2.4.2. Pododsjek za vozni park

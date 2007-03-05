@@ -1,0 +1,3 @@
+# Članak 59.
+Odsjek za analitiku u sklopu Odjela obavlja sljedeće upravne i stručne poslove: priprema periodičke statističke preglede; usklađuje i objedinjuje periodičke sektorske/ granske preglede iz područja nadležnosti Ministarstva; izrađuje i održava bazu znanja; izrađuje analitičke prikaze, priprema podloge za strateške dokumente Vladi Republike Hrvatske; izrađuje podloge za pripremu mjera za unaprjeđivanje međunarodne gospodarske suradnje; osigurava standard za dokumentiranje; osigurava transparentnost rada Uprave izradom minimuma standarda za periodičko izvješćivanje; upravlja informacijama, dokumentima i znanjem unutar Uprave.
+6.3. Odjel za europske integracije
