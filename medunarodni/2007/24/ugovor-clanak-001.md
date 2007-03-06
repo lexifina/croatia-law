@@ -1,0 +1,13 @@
+# Članak 1.
+DEFINICIJE
+U ovom Sporazumu, ako iz konteksta ne proizlazi drukčije:
+1. »Širenje OMU morskim putem« znači prijevoz OMU, sustava njegove isporuke i materijala vezanih uz to brodom u ili iz državnih i nedržavnih čimbenika povezanih sa širenjem OMU;
+2. »Oružje za masovno uništenje« (OMU) znači nuklearno, kemijsko, biološko i radiološko oružje.
+3. »Materijali vezani uz to« znači materijali, oprema i tehnologija, bilo koje naravi i vrste, namijenjeni uporabi za razvoj, proizvodnju, korištenje i isporuku OMU i vezani uz nju.
+4. »Državni ili nedržavni čimbenici povezani sa širenjem OMU« znači one države ili entitete koji bi trebali podlijegati zabrani jer sudjeluju ili se vjeruje da sudjeluju u: (1) nastojanjima razvitka ili nabavke OMU ili sustava njegove isporuke; ili (2) nedopuštenoj trgovini (prodaji, primanju ili nabavci) OMU, sustava njegove isporuke ili materijala vezanih uz to.
+5. »Službenici snaga sigurnosti« znači:
+a. za Republiku Hrvatsku, uniformirani i/ili na drugi način jasno prepoznatljivi pripadnici Hrvatske ratne mornarice (HRM), propisno ovlašteni od strane Vlade Republike Hrvatske, te prijavljeni nadležnom tijelu Sjedinjenih Američkih Država; i
+b. za Sjedinjene Američke Države, uniformirani ili na drugi način jasno prepoznatljivi pripadnici Obalne straže Sjedinjenih Američkih Država i Ratne mornarice Sjedinjenih Američkih Država, koje mogu pratiti jasno prepoznatljivi službenici za provedbu zakona iz Ministarstva domovinske sigurnosti i/ili Ministarstva pravosuđa i/ili drugi, jasno prepoznatljivi službenici, propisno ovlašteni od strane Vlade Sjedinjenih Američkih Država te prijavljeni nadležnom tijelu Republike Hrvatske.
+6. »Plovila snaga sigurnosti« znači ratni brodovi i ostala plovila stranaka ili, prema dogovoru stranaka, trećih država, na koja se mogu ukrcati službenici snaga sigurnosti jedne ili obiju stranaka, jasno označena i prepoznatljiva da su u državnoj službi za to ovlaštena, uključujući sva plovila i letjelice u koje se ukrcavaju službenici snaga sigurnosti ili plovila i letjelice u pratnji takvih plovila.
+7. »Sumnjivo plovilo« znači plovilo korišteno u komercijalne ili privatne svrhe za koje postoji osnovana sumnja da se bavi širenjem OMU morskim putem.
+8. »Nadležno tijelo« znači, za Republiku Hrvatsku, zapovjednik Hrvatske ratne mornarice (uključujući bilo kojeg djelatnika imenovanog od strane zapovjednika za obnašanje takve dužnosti), a za Sjedinjene Američke Države, zapovjednik Obalne straže Sjedinjenih Američkih Država (uključujući bilo kojeg službenika imenovanog od strane zapovjednika za obnašanje takve dužnosti).

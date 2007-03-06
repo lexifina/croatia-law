@@ -1,0 +1,5 @@
+# Članak 5.
+SUDSKA NADLEŽNOST NAD ZADRŽANIM PLOVILIMA
+1. Sudska nadležnost stranaka. U svim slučajevima predviđenim člankom 4. vezanim uz plovila neke od stranaka lociranim izvan teritorijalnog mora država, ta će stranka imati sudsku nadležnost nad zadržanim plovilom, teretom i/ili osobama na njemu (uključujući i zapljenu, oduzimanje uhićenje i kazneno gonjenje). Stranka sa sudskom nadležnošću može se, u skladu sa svojim Ustavom i zakonima, odreći sudske nadležnosti te odobriti provedbu zakona druge stranke protiv tog plovila, tereta i/ili osoba na njemu.
+2. Sudska nadležnost u vanjskom pojasu neke od stranaka. U slučajevima koji se pojave u vanjskom pojasu neke od stranaka, a ne radi se o tome da sumnjiva plovila bježe iz teritorijalnih voda te stranke ni o tome da se očituju da imaju državnu pripadnost te stranke, u kojima obje stranke imaju sudsku nadležnost gonjenja, stranka koja vrši ukrcaj i pretraživanje imat će pravo primjene sudske nadležnosti.
+3. Upute. Naputci u svezi sa sudskom nadležnošću sukladno stavcima 1. i 2. ovoga članka dat će se putem nadležnih tijela bez odgode.

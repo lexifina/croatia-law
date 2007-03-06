@@ -1,0 +1,5 @@
+# Članak 13.
+POTRAŽIVANJA
+1. Ranjavanje ili gubitak života. Sva potraživanja za slučaj ranjavanja ili smrti službenika snaga sigurnosti neke od stranaka tijekom obavljanja akcija koje proizlaze iz ovog Sporazuma rješavat će se u skladu sa zakonima te stranke.
+2. Ostala potraživanja. Bilo kakav drugi zahtjev za naknadu štete, oštećenja, ranjavanja, smrti ili gubitka za koje se tvrdi da su nastali uslijed akcija koje je izvršila neka od stranaka prema ovom Sporazumu, može se podnijeti stranci koja je obavila ukrcaj ili državi zastave broda, a rješavat će se u skladu s domaćim zakonodavstvom stranke u kojoj je zahtjev podnesen i na način sukladan međunarodnom pravu.
+3. Savjetovanje. U slučaju bilo kakvog gubitka, ozljede ili smrti nastalih uslijed bilo kakve radnje službenika snaga sigurnosti jedne stranke koja nije u skladu s ovim Sporazumom, ili ako neka od stranaka poduzme bilo kakvu neodgovarajuću ili nerazumnu radnju u odnosu na isti, stranke će se, bez prejudiciranja drugih raspoloživih zakonskih prava, posavjetovati, na zahtjev bilo koje od njih, kako bi riješile problem te odlučile o bilo kakvim pitanjima vezanim uz naknadu ili plaćanje.
