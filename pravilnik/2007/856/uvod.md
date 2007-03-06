@@ -1,0 +1,1 @@
+Na temelju odredbe članka 91. stavka 2. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05; u daljnjem tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: Agencija) donijela je na sjednici održanoj 15. veljače 2007. godine
