@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine«, broj 28/1996), Vlada Republike Hrvatske je na sjednici održanoj 25. siječnja 2007. godine donijela
