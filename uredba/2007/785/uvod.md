@@ -1,0 +1,1 @@
+Na temelju članka 11. i članka 31. Zakona o trgovini (»Narodne novine«, br. 11/96, 101/98, 30/99, 75/99, 76/99, 62/2001, 109/2001, 49/2003, 96/2003, 103/2003, 170/2003 i 55/2004), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 2007. godine donijela
