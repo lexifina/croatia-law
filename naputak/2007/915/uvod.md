@@ -1,0 +1,1 @@
+Na temelju članka 33. stavak 6. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2007. godinu (»Narodne novine«, br. 137/06), Ministarstvo financija, u suglasnosti s Ministarstvom znanosti, obrazovanja i športa, donosi
