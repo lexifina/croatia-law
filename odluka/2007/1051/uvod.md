@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1., a u vezi s člankom 19. stavkom 3. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004 i 141/2006), Vlada Republike Hrvatske je na sjednici održanoj 16. ožujka 2007. godine donijela
