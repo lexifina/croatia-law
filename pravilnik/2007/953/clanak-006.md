@@ -1,0 +1,2 @@
+# Članak 6.
+Iznimno od odredbi članka 2. ovoga Pravilnika, ljekarna ili podružnica ljekarničke ustanove može se osnovati na području za koje nisu ispunjeni uvjeti iz toga članka ovoga Pravilnika, ako je cestovna udaljenost do najbliže ljekarne veća od 5 kilometara ili je najbliža ljekarna izvan granica javnog mjesnog prijevoza, pod uvjetom da se ljekarna ili podružnica ljekarničke ustanove osniva na otoku, odnosno na području određenom Zakonom o brdsko-planinskim područjima i Zakonom o područjima posebne državne skrbi.

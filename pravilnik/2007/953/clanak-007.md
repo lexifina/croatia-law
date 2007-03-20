@@ -1,0 +1,2 @@
+# Članak 7.
+Ljekarna, odnosno podružnica ljekarničke ustanove osnovana na području općine, grada, odnosno gradske četvrti Grada Zagreba nakon prestanka rada na određenog lokaciji može nastaviti rad na drugoj lokaciji na području iste općine, grada, odnosno gradske četvrti Grada Zagreba pod uvjetom međusobne udaljenosti od najbliže postojeće ljekarne, odnosno podružnice ljekarničke ustanove određene člankom 5. ovoga Pravilnika.

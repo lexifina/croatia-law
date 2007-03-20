@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 3. Zakona o ljekarništvu (»Narodne novine« br. 121/03) ministar zdravstva i socijalne skrbi po prethodno pribavljenom mišljenju Hrvatskog zavoda za zdravstveno osiguranje i Hrvatske ljekarničke komore donosi
