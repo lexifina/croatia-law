@@ -1,0 +1,2 @@
+# Članak 11.
+MB sastoji se od: - dvoznamenkastoga broja iz registra Komore, kod kojega je upisano osnivanje subjekta upisa, - šesteroznamenkastoga tekućeg broja, te - jednoznamenkastoga kontrolnog broja. Dvoznamenkasti broj registra Komore određuje se abecednim redom iz naziva Komore. Tekući broj određuje se subjektima upisa po redoslijedu otvaranja registarskih uložaka počevši od 000001. Kontrolni broj određuje se postupkom »Modula 11,10 - redni broj postupka 6«, utvrđenim međunarodnom normom ISO 7064.

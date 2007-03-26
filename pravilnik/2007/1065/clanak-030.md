@@ -1,0 +1,3 @@
+## 16. ZAVRŠNE ODREDBE
+# Članak 30.
+Ovaj Pravilnik stupa na snagu danom objave u »Narodnim novinama«.

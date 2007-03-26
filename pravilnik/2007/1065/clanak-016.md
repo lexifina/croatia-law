@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Izvadak iz registra (u daljnjem tekstu: izvadak) sadrži podatke upisane u registre koji važe na dan izdavanja, a može sadržavati i dodatne podatke iz zbirke isprava.
+(2) Izvadak iz registra sadrži: MB subjekta upisa, skraćenu tvrtku ili naziv subjekta upisa sa sjedištem, upisane podatke (tvrtka, sjedište, predmet poslovanja, itd.) s rednim brojem upisa ispred svakog podatka i datumom kada je taj upis proveden, podaci o svim upisima počevši od rednog broja jedan (1) i to: a) redni broj upisa, b) poslovni broj iz registra pod kojim je doneseno rješenje o upisu, c) datum upisa i d) naziv registra koji je proveo upis.

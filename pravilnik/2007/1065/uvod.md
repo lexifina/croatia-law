@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 1., članka 56. Zakona o reviziji (»Narodne novine« broj: 146/05) i članka 44. stavka 3. Statuta Hrvatske revizorske komore (»Narodne novine« broj: 63/06), Upravno vijeće Hrvatske revizorske komore na sjednici održanoj 5. veljače 2007. usvojilo je
