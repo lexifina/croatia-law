@@ -1,0 +1,3 @@
+1. Određuje se naknada za korištenje usluge tranzita električne energije prijenosnom mrežom u iznosu od 20,66 kuna/MWh (2,8 EUR preračunato u kune po srednjem tečaju za devize Hrvatske narodne banke na dan donošenja ove Odluke; 1 EUR = 7,379067 kuna).
+2. Ova Odluka stupa na snagu danom donošenja, a primjenjuje se od 1. travnja 2007. do dana početka primjene pravne stečevine Europske zajednice iz područja energetike, a kako je utvrđeno člankom 10. i 11 te Dodatkom I. Ugovora o energetskoj zajednici (»Narodne novine, Međunarodni ugovori«, broj 6/06).
+3. Ova Odluka objavit će se u »Narodnim novinama«.

@@ -1,0 +1,1 @@
+Na temelju točke 4.1.3.1. stavak 2. Mrežnih pravila elektroenergetskog sustava (»Narodne novine«, broj 36/06), a na prijedlog HEP - Operatora prijenosnog sustava d.o.o., Hrvatska energetska regulatorna agencija na 57. sjednici Upravnog vijeća održanoj 26. ožujka 2007. godine donijela je
