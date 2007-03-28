@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/93, 47/99 i 30/2004) i članka 19.j stavka 2. Zakona o plovidbi unutarnjim vodama (»Narodne novine«, br. 19/98, 151/2003 i 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2007. godine donijela
