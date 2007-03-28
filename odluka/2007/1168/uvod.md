@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2000, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2007. godine donijela
