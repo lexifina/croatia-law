@@ -1,0 +1,2 @@
+# Članak 4.
+U pravilu, Državna nagrada ne može se dodijeliti posmrtno. Iznimno, ako se Državna nagrada dodjeljuje posmrtno, novčani iznos nagrade predat će se nasljednicima dobitnika prema Zakonu o nasljeđivanju, a medalja i diploma uručit će se bračnom drugu dobitnika. Ako nema bračnog druga, diploma i medalja uručit će se najstarijem nasljedniku ako se nasljednici ne dogovore drugačije. Ako dobitnik nema nasljednika ili su nasljednici nepoznati, nagrada se predaje pravnim ili fizičkim osobama koje su dale prijedlog za pokretanje postupka za dodjelu nagrade.

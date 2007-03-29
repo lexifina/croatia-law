@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Državna nagrada dodjeljuje se za višegodišnje uspješno djelovanje u športu, osvajanje olimpijske medalje, iznimno znanstveno, stručno i pedagoško ostvarenje ili športsko dostignuće. Državna nagrada dodjeljuje se kao godišnja nagrada i nagrada za životno djelo. Svaka od tih nagrada može se jednom kandidatu dodijeliti samo jednom. Godišnje se može dodijeliti najviše petnaest Državnih nagrada, od toga tri nagrade za životno djelo.
+(2) Uvjet za dobivanje Državne nagrade za životno djelo prethodno je dodijeljena godišnja nagrada. Ako Odbor Državne nagrade ocijeni da za to postoje opravdani razlozi i posebno ih obrazloži, Državna nagrada za životno djelo može se, iznimno, dodijeliti i kandidatu kojem prethodno nije dodijeljena godišnja nagrada.
