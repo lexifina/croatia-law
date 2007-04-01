@@ -1,0 +1,8 @@
+PRIVREMENI UGOVOR O SLOBODNOJ TRGOVINI IZMEĐU VLADE REPUBLIKE HRVATSKE I PRIVREMENE MISIJE UJEDINJENIH NARODA NA KOSOVU (UNMIK) U IME PRIVREMENIH INSTITUCIJA SAMOUPRAVE NA KOSOVU
+Vlada Republike Hrvatske i Privremena misija Ujedinjenih naroda na Kosovu (UNMIK) u ime Privremenih institucija samouprave na Kosovu (u daljnjem tekstu »stranke«),
+UZIMAJUĆI U OBZIR Rezoluciju Vijeća sigurnosti Ujedinjenih naroda 1244 (1999) od 10. lipnja 1999. kojom se glavni tajnik ovlašćuje da uspostavi međunarodnu civilnu prisutnost na Kosovu, poznatu kao Privremena misija Ujedinjenih naroda na Kosovu (UNMIK), i ovlast posebnog predstavnika glavnog tajnika (SRSG) koja proizlazi iz te rezolucije,
+PODSJEĆAJUĆI na svoju namjeru da aktivno sudjeluju i potiču proces jačanja uzajamnih trgovinskih odnosa u okviru procesa regionalne suradnje i integracije u jugoistočnoj Europi te izražavajući spremnost na suradnju u iznalaženju načina i sredstava za jačanje tog procesa,
+UZIMAJUĆI U OBZIR Zagrebačku deklaraciju od 29. studenoga 2005. o kriterijima za članstvo u Srednjoeuropskom ugovoru o slobodnoj trgovini i Zajedničku deklaraciju predsjednika vlada od 6. travnja 2006. o pokretanju formalnih pregovora o izmjeni i dopuni i pristupanju Srednjoeuropskom ugovoru o slobodnoj trgovini,
+POTVRĐUJUĆI svoju predanost načelima tržišnog gospodarstva i poštivanju temeljnih sloboda demokracije i ljudskih prava,
+SHVAĆAJUĆI da se niti jedna odredba Privremenog ugovora ne smije tumačiti kao da se stranke mogu osloboditi svojih obveza prema drugim međunarodnim sporazumima, posebno prema Općem sporazumu o carinama i trgovini (GATT 1994) i Marakeškom sporazumu o osnivanju Svjetske trgovinske organizacije (WTO),
+Sporazumjele su se kako slijedi:

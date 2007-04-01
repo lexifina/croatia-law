@@ -1,0 +1,5 @@
+# Članak 11.
+PRAVILA O PODRIJETLU ROBE I SURADNJI U CARINSKIM POSLOVIMA
+1. Stranke su suglasne da u međusobnoj trgovinskoj razmjeni primjenjuju europska preferencijalna pravila o podrijetlu robe, uključujući sve dosadašnje i buduće izmjene i dopune. U slučaju izmjena i dopuna europskih pravila o podrijetlu robe Zajednički odbor pokrenut će postupak o izmjenama i dopunama pravila o podrijetlu robe.
+2. Protokol uz ovaj Privremeni ugovor utvrđuje pravila o podrijetlu robe, te s tim povezane načine administrativne suradnje.
+3. Stranke će poduzeti odgovarajuće mjere, uključujući i redoviti nadzor od strane Zajedničkog odbora te dogovore oko administrativne suradnje, radi osiguranja učinkovite i usklađene provedbe europskih pravila o podrijetlu robe i članaka 3. do 8., te članaka 12. i 20. ovoga Privremenog ugovora kako bi se u najvećoj mogućoj mjeri smanjile formalnosti propisane u trgovini i postigla obostrano zadovoljavajuća rješenja za sve poteškoće koje proizađu iz provedbe tih odredbi.

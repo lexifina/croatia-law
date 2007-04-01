@@ -1,0 +1,4 @@
+# Članak 15.
+PRIJEVARA
+Obje stranke suglasne su da će surađivati s ciljem smanjivanja mogućnosti prijevara u primjeni ovoga Privremenog ugovora.
+Bez obzira na druge odredbe ovog Privremenog ugovora, ako stranka smatra da postoji dovoljan dokaz o prijevari, kao što je znatno povećanje trgovine proizvodima od jedne stranke prema drugoj stranki iznad razine koja odražava gospodarske uvjete kao što su normalni proizvodni i izvozni kapaciteti, ili nepružanje administrativne suradnje koja je nužna za provjeru dokaza o podrijetlu robe od strane druge stranke, obje će stranke odmah započeti s konzultacijama kako bi iznašle odgovarajuće rješenje. Dok se takvo rješenje ne pronađe, stranka koje se to tiče smije poduzeti odgovarajuće mjere koje smatra potrebnim. U odabiru mjera prednost se mora dati onima koje najmanje ometaju provedbu dogovora utvrđenih u ovom Privremenom ugovoru.
