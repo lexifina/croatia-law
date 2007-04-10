@@ -1,0 +1,4 @@
+# Članak 4.
+Iznos naknade za melioracijsku odvodnju određuje se rješenjem.
+Izreka rješenja o obračunu naknade za melioracijsku odvodnju mora, uz sastavnice propisane Zakonom o općem upravnom postupku, sadržavati i: oznaku nekretnine za koju se obračunava naknada u vidu upućivanja na obrazloženje rješenja, utvrđeni iznos naknade, iznos za uplatu, broj uplatnoga računa, rok odnosno rokove plaćanja, iznose obroka i dospijeće pojedinih obroka.
+Obrazloženje rješenja mora, uz sastavnice propisane Zakonom o općem upravnom postupku, sadržavati i: mjesto nekretnine (županija, slivno područje, područna jedinica Državne geodetske uprave, katastarska općina,), površinu i katastarsku kulturu nekretnine, obračun (visinu po pojedinim katastarskim kulturama i iznos naknade), izuzeće po točki VI. Odluke o visini naknade za melioracijsku odvodnju, umanjenje iz članka 21. stavka 1. ovoga Pravilnika.
