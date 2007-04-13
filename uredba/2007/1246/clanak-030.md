@@ -1,0 +1,7 @@
+# Članak 30.
+Služba za financijsko planiranje i pripremu državnog proračuna, knjigovodstvo i računovodstvo je unutarnja ustrojstvena jedinica u Upravi za financijsko poslovanje koja prikuplja nužne podatke i informacije za dobivanje preciznog pregleda o potrebama koje treba zadovoljiti u financijskom smislu s ciljem pripreme, praćenja i ažuriranja državnog proračuna; priprema i izrađuje mjerila i kriterije za financiranje programa i decentraliziranih funkcija; prikuplja, obrađuje i analizira financijske pokazatelje poslovanja ustanova u sustavu zdravstva; prikuplja i obrađuje zahtjeve korisnika, provjerava utemeljenost zahtjeva na pozitivnim propisima, nacionalnim programima i drugim smjernicama i aktima, te usklađenost istih sa usvojenim smjernicama makroekonomske politike vezano na pripremu državnog proračuna; izrađuje prijedlog državnog proračuna; pruža stručnu pomoć svim organizacijskim jedinicama u Ministarstvu u evaluaciji financijskih efekata donošenja zakona i drugih propisa iz nadležnosti Ministarstva, u kojoj se izdaju nalozi i zahtjevi za plaćanje te osigurava zakonita, odgovorna i točna uporaba informatičkih sustava uspostavljenih za potrebe računovodstva i državnog proračuna.
+U Službi za financijsko planiranje, pripremu i izvršenje državnog proračuna, knjigovodstvo i računovodstvo ustrojavaju se:
+6.1.1. Odjel za financijsko planiranje i pripremu državnog proračuna
+6.1.2. Odjel za izvršenje državnog proračuna
+6.1.3. Odjel za računovodstvo i knjigovodstvo.
+6.1.1. Odjel za financijsko planiranje i pripremu državnog proračuna

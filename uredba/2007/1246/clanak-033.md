@@ -1,0 +1,3 @@
+# Članak 33.
+Odjel za računovodstvo i knjigovodstvo obavlja knjigovodstvene poslove; vodi knjigovodstvo u vezi troškova; u skladu sa zakonom priprema sve vrste financijskih izvješća; obavlja ovjeru zakonitosti i svrhovitosti trošenja javnog novca za namjene utvrđene proračunom i financijskim planom; potvrđuje dostatnost sredstava državnog proračuna; vodi sve poslovne knjige proračunskog korisnika (dnevnik, glavna knjiga, pomoćne knjige); brine da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+6.2. Služba za nabavu u sustavu zdravstva i socijalne skrbi i za Ministarstvo

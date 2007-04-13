@@ -1,0 +1,7 @@
+# Članak 45.
+Služba za upravno-pravne poslove i za suradnju s pravosudnim tijelima u Republici Hrvatskoj je unutarnja ustrojstvena jedinica u Upravi za pravne poslove koja obavlja upravne poslove koji se odnose na osnivanje, utvrđivanje uvjeta te davanje odobrenja za početak rada zdravstvenih ustanova; vodi upravne postupke vezano uz proširenje i promjenu djelatnosti zdravstvenih ustanova; vodi postupak i priprema nacrte rješenja u postupku osnivanja, početka rada, preseljenja, privremene obustave rada, te prestanka rada privatnih praksi; priprema odgovore na tužbe u upravnim sporovima; provodi postupak utvrđivanja uvjeta specijalističkog staža i verifikaciju specijalističkog staža obavljenog u inozemstvu; prati provođenje pripravničkog i specijalističkog staža; planira i provodi stručne ispite zdravstvenih djelatnika visoke stručne spreme; sudjeluje u postupku naknade štete od korisnika prava socijalne skrbi; vodi registre u vezi postupanja u procesu rada; surađuje s pravosudnim tijelima u Republici Hrvatskoj; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu.
+Za obavljanje poslova Službe za upravno-pravne poslove i za suradnju s pravosudnim tijelima u Republici Hrvatskoj ustrojavaju se:
+7.2.1. Odjel registracije zdravstvenih ustanova i privatne prakse
+7.2.2. Odjel za stručno usavršavanje djelatnika u sustavu zdravstva
+7.2.3 Odjel za suradnju s pravosudnim tijelima Republike Hrvatske.
+7.2.1. Odjel registracije zdravstvenih ustanova i privatne prakse

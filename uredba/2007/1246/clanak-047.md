@@ -1,0 +1,3 @@
+# Članak 47.
+Odjel za stručno usavršavanje zdravstvenih djelatnika u sustavu zdravstva provodi postupak utvrđivanja uvjeta specijalističkog staža i verifikaciju specijalističkog staža obavljenog u inozemstvu; prati provođenje pripravničkog i specijalističkog staža; planira i provodi stručne ispite zdravstvenih djelatnika visoke stručne spreme; analizira funkcije iz djelokruga rada Odjela; planira kratkoročne i srednjoročne radne zadatke; vodi registre u vezi postupanja u procesu rada; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; brine da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+7.2.3. Odjel za suradnju s pravosudnim tijelima Republike Hrvatske

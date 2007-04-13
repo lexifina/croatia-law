@@ -1,0 +1,8 @@
+## 10. UPRAVA ZA ZAŠTITU ŽRTAVA I SUDIONIKA RATA
+# Članak 82.
+Uprava za zaštitu žrtava i sudionika rata je upravna organizacija u sastavu Ministarstva koja obavlja upravne i druge stručne poslove zaštite civilnih žrtava iz Domovinskog rata, zaštite hrvatskih državljana sudionika II. svjetskog rata; zaštite vojnih i civilnih invalida II. svjetskog rata, zaštite osoba stradalih u obavljanju obvezne vojne službe od 15. svibnja 1945. do 17. kolovoza 1990. i članova njihovih obitelji te poslove koji se odnose na obavljanje vojne obveze u civilnoj službi i to: sustavno prati stanja u vezi s društvenim i socijalnim položajem i zaštitom žrtava i sudionika rata, izrađuje analitičke, koncepcijske i druge stručne podloge te predlaže mjere od značenja za njihovu zaštitu; pruža stručnu pomoć i osigurava provedbu; rješava u upravnim stvarima u drugostupanjskom postupku i obnovi postupka te reviziju prvostupanjskih rješenja; provodi upravni nadzor; postupa po predstavkama i upitima građana, tijela državne uprave i udruga; definira i primjenjuje odgovarajući informacijski sustav i podsustav, te korisničke zahtjeve i programska rješenja; zaprima i obrađuje zahtjeve za doznaku proračunskih sredstava; izrađuje naloge za isplatu i likvidaciju faktura; vodi evidenciju o izvršenim isplatama i o broju i strukturi korisnika; izrađuje financijska, statistička i druga izvješća; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu.
+U Upravi za zaštitu žrtava i sudionika rata ustrojavaju se:
+10.1. Odjel za zaštitu žrtava i sudionika II. svjetskog rata i poraća
+10.2. Odjel za zaštitu civilnih žrtava iz Domovinskog rata
+10.3. Odjel za obavljanje poslova civilne službe.
+10.1. Odjel za zaštitu žrtava i sudionika II. svjetskog rata i poraća

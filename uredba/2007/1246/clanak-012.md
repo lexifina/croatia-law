@@ -1,0 +1,3 @@
+# Članak 12.
+Odsjek za stručne poslove obavlja stručne poslove vezane uz izradu prijedloga godišnjeg plana rada Ministarstva i objedinjavanja izvješća o radu unutarnjih ustrojstvenih jedinica u Ministarstvu, koordinaciju provedbe Zakona o pravu na pristup informacijama; izradu očitovanja na pravna pitanja koja nisu u djelokrugu rada ostalih upravnih organizacija i unutarnjih ustrojstvenih jedinica; pripremu podloga za donošenje odluka tajnika Ministarstva i ministra iz djelokruga rada Odjela; izradu nacrta propisa i odluka vezanih uz organizaciju rada iz djelokruga Odjela; raspored, trajanje i prestanak civilne službe za civilne ročnike raspoređene u Ministarstvo, te izradu rješenja o službenim putovanjima u inozemstvo.
+4.2.1.2. Odsjek za informatičku podršku
