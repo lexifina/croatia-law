@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-5131/2005 od 19. travnja 2007.
+
+- Case: `U-IIIA-5131/2005`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2007-04-19`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C12572C300318C55>
+- Official database page SHA-256: `cbacd2043099ed8355fc36f0184d24a374518ac820f5ecb0178811d0eeb1cb67`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
