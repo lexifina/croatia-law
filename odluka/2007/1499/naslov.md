@@ -1,0 +1,1 @@
+Odluka o dodjeli koncesije za obavljanje djelatnosti distribucije plina koja obuhvaća izgradnju distribucijskog sustava plinovoda na području općine Jasenovac koji će se povezati na postojeći distribucijski sustav
