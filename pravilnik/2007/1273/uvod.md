@@ -1,0 +1,1 @@
+Na temelju odredbi članka 137. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05), Uprava Hrvatske agencije za nadzor financijskih usluga donijela je na sjednici održanoj 29. ožujka 2007.
