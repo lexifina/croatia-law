@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 6., a u vezi s člankom 24. Zakona o Umirovljeničkom fondu (»Narodne novine«, br. 93/2005 i 41/2007), Vlada Republike Hrvatske je na sjednici održanoj 21. travnja 2007. godine, donijela
