@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Statuta Hrvatske agencije za nadzor financijskih usluga, (»Narodne novine«, br. 31/06) Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu Agencija) donijela je na sjednici održanoj 26. travnja 2007. sljedeću
