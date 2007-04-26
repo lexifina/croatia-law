@@ -1,0 +1,5 @@
+# Članak 3.
+U članku 9. Pravilnika iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+»Liječničko povjerenstvo područnog ureda Zavoda kada daje odobrenje za bolničku medicinsku rehabilitaciju iz stavka 1. i 2. ovog članka obvezno u nalazu, mišljenju i ocjeni navodi naziv ugovorne specijalne bolnice za medicinsku rehabilitaciju za koju daje odobrenje i koja može pružiti traženu bolničku medicinsku rehabilitaciju, te broj odobrenih dana bolničke medicinske rehabilitacije.
+Osigurana osoba koja odobrenu bolničku medicinsku rehabilitaciju želi ostvariti u drugoj specijalnoj bolnici za medicinsku rehabilitaciju, a ne u onoj za koju je odobrenje dalo liječničko povjerenstvo područnog ureda Zavoda ima pravo potonju ostvariti u skladu s člankom 43. Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja bez prava na naknadu troškova prijevoza, odnosno prava na sanitetski prijevoz na teret sredstava Zavoda.«
+Dosadašnji stavci 3. i 4. postaju stavci 5. i 6.
