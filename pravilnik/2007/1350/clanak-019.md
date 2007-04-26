@@ -1,0 +1,11 @@
+# Članak 19.
+1. U skladu s odredbama Pravilnika o poslovima s posebnim uvjetima rada poslodavac mora svakog radnika, koji obavlja radove iz članka 3. ovoga Pravilnika prije početka rada na tim poslovima uputiti na prethodni liječnički pregled u zdravstvenu ustanovu koja u svom sastavu ima medicinu rada ili u privatnu ordinaciju specijaliste medicine rada, kako bi se utvrdilo da li ispunjava propisane zahtjeve za rad na tim poslovima.
+Liječnički pregled se obavlja u skladu s odredbama citiranog Pravilnika te Priloga ovoga Pravilnika, a koji obvezno uključuje poseban pregled plućnog koša.
+Ponovni pregled obavlja se najmanje svake dvije godine odnosno i prije navedenog roka kada to ocijeni za potrebno nadležni specijalist medicine rada.
+Zdravstvena ustanova koja u svom sastavu ima medicinu rada ili privatna ordinacija specijalista medicine rada mora voditi i čuvati zdravstvenu dokumentaciju za svakog radnika u skladu s posebnim propisima još najmanje 40 godina od prvog izlaganja radnika prašini azbesta ili materijala, koji sadrži azbest.
+Ako poslodavac prekine obavljanje djelatnosti mora specijalist medicine rada zdravstvenu dokumentaciju predati Hrvatskom zavodu za medicinu rada.
+Specijalist medicine rada mora savjetovati radnike o za njih primjerenom zdravstvenom nadzoru nakon prestanka izlaganja prašini azbesta.
+2. Nakon liječničkog pregleda iz točke 1., specijalist medicine rada može savjetovati ili odrediti da se poduzmu sve pojedinačne zaštitne ili preventivne mjere, što može uključivati da se ne dozvoli rad radniku na poslovima na kojima bi mogao biti ugrožen izlaganju azbestu.
+3. Radnicima se moraju pružiti informacije i savjeti u vezi sa svakom ocjenom njihovog zdravstvenog stanja koja se obavlja nakon prestanka izloženosti.
+Specijalist medicine rada ili tijelo ovlašteno za zdravstveni nadzor radnika može navesti da se zdravstveni nadzor nakon prestanka izloženosti mora nastaviti koliko god vremena smatra da je potrebno za zaštitu zdravlja dotične osobe. Takav kontinuirani zdravstveni nadzor provodit će se u skladu s posebnim propisima.
+4. Dotični radnik ili poslodavac mogu zahtijevati reviziju ocjena zdravstvenog stanja određenih točkom 2., u skladu s posebnim propisima.

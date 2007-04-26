@@ -1,0 +1,2 @@
+# Članak 16.
+Radove na rušenju i odstranjivanju azbesta kao i radove na održavanju može obavljati pravna ili fizička osoba registrirana za gradnju objekata ili održavanje uređaja, pod uvjetima i na način, utvrđen propisom koji utvrđuje uvjete pod kojima se mogu pri rekonstrukciji ili rušenju objekata kao i pri radovima na održavanju na objektima, instalacijama ili uređajima odstranjivati materijali, koji sadrže azbest.

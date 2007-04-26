@@ -1,0 +1,4 @@
+# Članak 10.
+1. Tamo gdje je prekoračena granična vrijednost propisana člankom 9. treba utvrditi razloge prekoračenja granične vrijednosti, te što je prije moguće poduzeti odgovarajuće mjere za poboljšanje stanja. Rad se ne smije nastaviti na ugroženom području dok se ne poduzmu odgovarajuće mjere za zaštitu izloženih radnika.
+2. Kako bi se provjerila djelotvornost provedenih mjera iz točke 1., mora se odmah izvršiti novo mjerenje koncentracije azbesta u zraku.
+3. Tamo gdje se izloženost ne može smanjiti na drugi način te gdje je radi usklađenosti s graničnim vrijednostima nužno nošenje osobne zaštitne opreme za disanje, to ne smije biti trajno i za svakog se radnika treba svesti na najmanju moguću mjeru. Tijekom razdoblja rada kad je nužna uporaba takve opreme potrebno je osigurati stanke u skladu s fizičkim i klimatskim uvjetima.Također se vezano za stanke, kada je to relevantno, obavljaju konzultacije s radnicima i/ili povjerenicima radnika.
