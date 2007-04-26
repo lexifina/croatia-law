@@ -1,0 +1,5 @@
+## Odluka o zahtjevu za davanje koncesije
+# Članak 19.
+(1) Poglavarstvo jedinice područne (regionalne) samouprave donosi odluku o zahtjevu za davanje koncesije za distribuciju plina na području gdje postoji distribucijski sustav u roku od šest mjeseci od dana primitka zahtjeva i objavljuje ju u »Narodnim novinama«, na internetskim stranicama jedinice područne (regionalne) samouprave i najmanje još jednim dnevnim novinama koje se uobičajeno prodaju na području za koje se daje koncesija.
+(2) Poglavarstvo jedinice područne (regionalne) samouprave donosi odluku o zahtjevu za davanje koncesije za izgradnju distribucijskog sustava i distribuciju plina na sustavu koji će se povezati na postojeći distribucijski sustav u roku od šest mjeseci od dana primitka zahtjeva i objavljuje ju u »Narodnim novinama«, na internetskim stranicama jedinice područne (regionalne) samouprave i najmanje još jednim dnevnim novinama koje se uobičajeno prodaju na području za koje se daje koncesija.
+(3) U slučaju da odlukom iz stavka 1. i 2. ovoga članka nije dana koncesija, poglavarstvo jedinice područne (regionalne) samouprave mora raspisati javni natječaj za davanje koncesije.
