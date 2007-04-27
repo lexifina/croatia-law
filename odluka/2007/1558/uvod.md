@@ -1,0 +1,1 @@
+Na temelju članka 80. Ustava Republike Hrvatske i članka 110. stavka 6. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 70/06. i 105/06.) Hrvatski sabor na sjednici 27. travnja 2007. donio je
