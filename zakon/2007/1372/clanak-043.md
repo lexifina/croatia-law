@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Službena kontrola provodi se u svim fazama proizvodnje, prerade, skladištenja i distribucije hrane životinjskog podrijetla, na životinjama i proizvodima. Navedena kontrola obuhvaća kontrole subjekata u poslovanju s hranom životinjskog podrijetla, uporabu hrane životinjskog podrijetla, skladišta hrane životinjskog podrijetla, svih procesa, materijala, tvari, aktivnosti ili postupaka, uključujući i prijevoz koji se odnosi na hranu.
+(2) Službene kontrole/inspekcijski nadzori provode se bez prethodne najave, osim u slučajevima kad se provode revizije, kad je potrebno prethodno obavijestiti subjekt u poslovanju s hranom životinjskog podrijetla.

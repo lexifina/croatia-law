@@ -1,0 +1,5 @@
+# Članak 69.
+(1) Posjednici životinja i proizvoda životinjskog podrijetla te osobe koje obavljaju prijevoz moraju na zahtjev veterinarskog inspektora ili službenog veterinara predočiti svjedodžbu, potvrdu ili drugu propisanu ispravu.
+(2) Osobe koje obavljaju prijevoz i službene osobe nadležne policijske uprave kao i druge službene ovlaštene osobe moraju prijaviti prometnu nezgodu u tijeku prijevoza životinja i proizvoda životinjskog podrijetla nadležnom veterinarskom uredu, odnosno najbližoj veterinarskoj organizaciji ili veterinarskoj praksi.
+(3) Veterinarska organizacija ili veterinarska praksa dužne su osigurati veterinarsku pomoć povrijeđenim životinjama, te o postupku i poduzetim mjerama žurno izvijestiti nadležni veterinarski ured, koji naređuje mjere za osiguranje proizvoda i organizira prijevoz povrijeđenih i uginulih životinja, a po potrebi i prijevoz zdravih životinja.
+(4) Troškove pružanja veterinarskih usluga i provođenja mjera iz stavka 3. ovoga članka snosi posjednik životinja ili proizvoda.

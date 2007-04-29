@@ -1,0 +1,2 @@
+# Članak 21.
+Kad se pojavi zarazna ili nametnička bolest koja se brzo širi i koja može nanijeti veliku gospodarsku štetu, kao i u slučajevima ugroženosti od pojave ili pojave pojedine bolesti iz članka 7. ovoga Zakona, nadležni veterinarski ured dužan je odrediti skupine veterinarskih djelatnika, radi provođenja mjera za suzbijanje i iskorjenjivanje bolesti, a ovisno o razini ugroženosti može zatražiti i sudjelovanje civilne zaštite.

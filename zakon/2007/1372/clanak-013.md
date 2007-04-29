@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Ako se pojavi zarazna ili nametnička bolest ili znaci na temelju kojih se može posumnjati da je životinja oboljela ili uginula od zarazne ili nametničke bolesti, posjednik životinje mora navedeni slučaj odmah prijaviti veterinaru veterinarske organizacije, privatne prakse ili veterinarskom uredu.
+(2) Posjednik životinje mora odmah ograničiti kretanje životinji za koju posumnja da je oboljela od zarazne ili nametničke bolesti, ili spriječiti doticaj ljudi i životinja s oboljelom životinjom ili lešinom do veterinarskog pregleda te nakon pregleda provesti naređene ili propisane mjere.

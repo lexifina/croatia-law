@@ -1,0 +1,33 @@
+# Članak 137.
+Državni veterinarski inspektor:
+1. provodi nadzor nad:
+- radom službenih veterinara,
+- radom ovlaštenih veterinara,
+- radom kontrolnih tijela,
+- radom veterinarskih organizacija, veterinarske prakse i veterinarskih službi u sustavu provedbe veterinarske djelatnosti,
+- udovoljavanjem propisanim uvjetima veterinarskih organizacija, veterinarske prakse i veterinarskih službi u sustavu provedbe veterinarske djelatnosti,
+- udovoljavanjem veterinarskim uvjetima farmi i uzgoja životinja namijenjenih pokusima, objektima za provođenje pokusa i načinom provođenja pokusa, valionica, sabirnih centara, stočnih sajmišta, tržnica, otkupnih mjesta i odmorišta za životinje te javnim smotrama,
+- objektima za proizvodnju i skladištenje sjemena za umjetno osjemenjivanje životinja i oplođenih jajnih stanica u svezi s udovoljavanjem veterinarsko-zdravstvenim uvjetima, njihovim radom i provedbom umjetnoga osjemenjivanja i embriotransfera životinja,
+- objektima za klanje životinja, obradu, preradu i uskladištenje proizvoda životinjskoga podrijetla u svezi s udovoljavanjem propisanim uvjetima,
+- sredstvima za prijevoz životinja i načinom prijevoza životinja u svezi s udovoljavanjem propisanim uvjetima,
+- provedbom mjera za sprječavanje, otkrivanje, suzbijanje, iskorjenjivanje zaraznih ili nametničkih bolesti životinja,
+- provedbom mjera za zaštitu od zoonoza,
+- provedbom mjera za zaštitu zdravlja životinja,
+- držanjem, proizvodnjom i prometom životinja,
+- označavanjem životinja i radom osoba ovlaštenih za označavanje,
+- proizvodnjom, skladištenjem i prometom proizvoda životinjskoga podrijetla,
+- proizvodnjom, skladištenjem i prometom hrane za životinje,
+- proizvodnjom, skladištenjem i prometom veterinarskih lijekova i veterinarsko-medicinskih proizvoda te sredstava za dezinfekciju, dezinsekciju i deratizaciju,
+- ostacima štetnih tvari (reziduama), u životinjama i proizvodima životinjskoga podrijetla koji su namijenjeni ljudskoj prehrani,
+- prometom sirovih koža, nusproizvoda životinjskog podrijetla, vode za napajanje životinja i proizvodnju proizvoda životinjskog podrijetla,
+- provedbom mjera zaštite okoliša od negativnih utjecaja vezanih uz zaštitu zdravlja životinja, uzgoj životinja i obradu, preradu, skladištenje i promet proizvoda životinjskog podrijetla,
+- radom objekata za obradu, preradu, uskladištenje i uništavanje nusproizvoda životinjskog podrijetla, provođenjem mjera veterinarske zaštite okoliša, kao i nad radom objekata za daljnje iskorištavanje toplinski prerađenih nusproizvoda životinjskog podrijetla,
+- radom i opremom pravnih i fizičkih osoba koje obavljaju sakupljanje i prijevoz nusproizvoda životinjskog podrijetla,
+- radom dijagnostičkih i analitičkih laboratorija te
+- uzima uzorke dijagnostičkog materijala za laboratorijske pretrage radi utvrđivanja zdravstvenog stanja životinja, zdravstvene ispravnosti proizvoda životinjskog podrijetla i hrane za životinje,
+- obavlja nadzor nad izdavanjem svjedodžbi o zdravstvenom stanju životinja i uplati naplaćenih naknada kao i nadzor nad izdavanjem druge propisane dokumentacije te nadzor nad obavljanjem veterinarskih pregleda i kontrola i izdavanjem propisane dokumentacije i naplate naknada za te preglede,
+- pregledava poslovne knjige koje se odnose na provođenje propisa o obavljanju veterinarske djelatnosti, zdravstvenoj ispravnosti proizvoda životinjskog podrijetla, propisa o stavljanju lijekova u promet na malo i propisa o mjerama za promicanje stočarstva i poticajnih mjera,
+- provodi veterinarsku kontrolu dezinfekcije prijevoznih sredstava kojima su otpremane pošiljke životinja, proizvoda životinjskog podrijetla ili otpadne životinjske tvari,
+- izdaje uvjerenja o udovoljavanju propisanim uvjetima objekata namijenjenih provođenju karantenskih mjera za pošiljke životinja i životinjskih proizvoda iz uvoza, obavlja nadzor nad provedbom propisanih mjera u karanteni za uvezene životinje te donosi rješenje o zatvaranju ili produžavanju karantene, odnosno daljnjem postupku sa životinjama ili proizvodima životinjskog podrijetla,
+- provodi i druge propisane mjere kada je ugroženo zdravlje životinja, dobrobit životinja, zdravstvena ispravnost proizvoda životinjskog podrijetla i hrane za životinje,
+- obavlja i druge poslove za koje je ovlašten ovim Zakonom i drugim propisima, prema ukazanim potrebama.

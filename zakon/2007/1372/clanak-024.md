@@ -1,0 +1,2 @@
+# Članak 24.
+Službene osobe nadležne policijske uprave na zaraženom ili ugroženom području, u granicama svojih ovlasti, pružaju nadležnom veterinarskom uredu, na njegov zahtjev, pomoć pri zaprečivanju zaraženih mjesta i područja, ograničenju prometa životinja, zabrani kretanja životinja i osoba na zaraženom području, kao i pri provedbi drugih mjera za zaštitu zdravlja životinja od zaraznih ili nametničkih bolesti.

@@ -1,0 +1,2 @@
+# Članak 22.
+Radi onemogućavanja unošenja, širenja i poduzimanja mjera suzbijanja određenih bolesti iz članka 7. ovoga Zakona, ministar može, na prijedlog ravnatelja, zatražiti da Vlada Republike Hrvatske odredi način sudjelovanja ustrojstvenih jedinica Ministarstva obrane i Oružanih snaga Republike Hrvatske u provođenju mjera ograničenja ili zabrane kretanja osoba i životinja za određena područja, a po potrebi i dijelova granice Republike Hrvatske.

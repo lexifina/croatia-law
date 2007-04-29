@@ -1,0 +1,3 @@
+# Članak 50.
+(1) Korisnici objekata iz članaka 38., 39. i 40. ovoga Zakona, kao i tržnice i druga mjesta na kojima nastaju nusproizvodi životinjskog podrijetla koji nisu za prehranu ljudi moraju osigurati njihovo privremeno čuvanje u propisanim uvjetima i otpremu na toplinsku preradu na način koji propisuje ministar.
+(2) Pravne i fizičke osobe koje obavljaju poslove sakupljanja i prijevoza moraju osigurati redovito i cjelovito preuzimanje i prijevoz životinjskih lešina i nusproizvoda životinjskog podrijetla koji nisu za prehranu ljudi iz sabirališta i objekata iz članaka 38., 39. i 40. ovoga Zakona.

@@ -1,0 +1,8 @@
+# Članak 133.
+(1) Kad je za obavljanje poslova inspekcijskog nadzora potrebno uzeti uzorke i izvršiti analizu, veterinarski inspektor / službeni veterinar ovlašten je uzeti uzorke i dostaviti ih na laboratorijske pretrage u laboratorije utvrđene u skladu s odredbama ovoga Zakona.
+(2) Veterinarski inspektor/službeni veterinar dužan je u slučaju iz stavka 1. ovoga članka izvijestiti stranku, da za slučaj njezinog zahtjeva za ponovnom analizom, istodobno s uzimanjem uzorka za analizu, mora uzeti i uzorak za ponovnu analizu.
+(3) O rezultatu analize veterinarski je inspektor/službeni veterinar dužan bez odgađanja izvijestiti stranku kod koje su uzorci uzeti.
+(4) Stranka nezadovoljna rezultatom analize može, u roku od osam dana od dana primitka izvješća o rezultatu analize, zahtijevati da se izvrši ponovna analiza u laboratoriju akreditiranom u skladu s hrvatskim normama.
+(5) Troškove analize i ponovne analize nastale u postupku obavljanja veterinarskog nadzora snosi stranka, ako su rezultati analize nezadovoljavajući, odnosno ako su rezultati analize i ponovne analize zadovoljavajući, troškovi se podmiruju iz sredstava državnog proračuna. Rezultat ponovne analize mjerodavan je i za troškove analize.
+(6) Troškove laboratorijske pretrage službenih uzoraka uzetih u okviru provođenja monitoring programa snosi pravna ili fizička osoba kod koje su uzorci uzeti neovisno o rezultatu pretrage, osim u slučajevima kada su za provođenje monitoringa osigurana sredstva u državnom proračunu.
+(7) Uzimanje uzoraka i metode analiza koje se koriste kod službenih kontrola u provođenju odredaba ovoga Zakona propisuje ministar.
