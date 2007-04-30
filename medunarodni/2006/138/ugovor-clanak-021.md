@@ -1,0 +1,7 @@
+# Članak 21.
+Izmjene i dopune Konvencije
+1. Svaka stranka može predložiti izmjene i dopune ove Konvencije.
+2. Izmjene i dopune ove Konvencije usvojit će se na zasjedanju Konferencije stranaka. Tajništvo će tekst svake predložene izmjene i dopune priopćiti strankama najkasnije šest mjeseci prije zasjedanja na kojem će tekst biti predložen na usvajanje. Tajništvo će predložene izmjene i dopune priopćiti i potpisnicima ove Konvencije te na znanje depozitaru.
+3. Stranke će nastojati postići sporazum konsenzusom o svim predloženim izmjenama i dopunama ove Konvencije. Ako se iscrpe sva nastojanja za postizanje konsenzusa, a sporazum nije postignut, izmjena i dopuna će, kao posljednja mogućnost, biti usvojena tročetvrtinskom većinom glasova prisutnih stranaka koje glasuju.
+4. Depozitar će izmjenu i dopunu priopćiti svim strankama radi ratifikacije, prihvata ili odobrenja.
+5. Depozitar će o ratifikaciji, prihvatu ili odobrenju izmjene i dopune biti obaviješten u pisanom obliku. Izmjena i dopuna usvojena u skladu sa stavkom 3. stupit će na snagu za stranke koje su je prihvatile devedesetog dana od datuma polaganja isprave o ratifikaciji, prihvatu ili odobrenju od strane najmanje tri četvrtine stranaka. Potom će izmjena i dopuna stupiti na snagu za svaku drugu stranku devedesetog dana od datuma kada ova stranka položi svoju ispravu o ratifikaciji, prihvatu ili odobrenju izmjene i dopune.

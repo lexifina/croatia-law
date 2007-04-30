@@ -1,0 +1,27 @@
+# Članak 5.
+Mjere za smanjenje ili uklanjanje ispuštanja iz nenamjerne proizvodnje
+Svaka će stranka kao minimum poduzeti sljedeće mjere za smanjenje ukupnog ispuštanja, koje proizlazi iz ljudskog djelovanja, svake od kemikalija navedenih u Dodatku C, a u cilju njezinog stalnog smanjivanja na najmanju mjeru i, gdje je to moguće, konačnog uklanjanja:
+(a) izraditi akcijski plan ili, kada je to primjenjivo, regionalni ili subregionalni akcijski plan, u roku dvije godine od datuma stupanja na snagu ove Konvencije za istu, te ga zatim provoditi kao dio svog provedbenog plana navedenog u članku 7. i namijenjenog za određivanje, karakteriziranje i rješavanje ispuštanja kemikalija navedenih u Dodatku C te olakšati provedbu podstavka (b) do (e). Akcijski plan uključuje sljedeće elemente:
+(i) procjenu trenutačnih i planiranih ispuštanja, uključujući izradu i održavanje popisa izvora i procjenu ispuštanja, a uzimajući u obzir kategorije izvora određene u Dodatku C,
+(ii) procjenu djelotvornosti zakona i politika stranke koji se odnose na upravljanje ovim ispuštanjima,
+(ii) strategije kojima se ispunjavaju obveze iz ovoga stavka, uzimajući u obzir procjene (i) i (ii),
+(iv) korake u cilju promicanja obrazovanja i s tim u vezi obuke te svijesti u vezi s navedenim strategijama,
+(v) pregled, svakih pet godina, navedenih strategija i njihovog uspjeha glede ispunjavanja obveza iz ovoga stavka; ovi pregledi trebaju biti uključeni u izvješća koja se podnose na temelju članka 15.,
+(vi) raspored primjene akcijskog plana, uključujući strategije i mjere određene u istom,
+(b) promicati primjenu raspoloživih, provedivih i praktičnih mjera pomoću kojih je moguće brzo postići realnu i značajnu razinu smanjenja ispuštanja ili uklanjanja izvora;
+(c) promicati razvoj i, gdje se čini primjerenim, zahtijevati uporabu zamjenskih ili modificiranih materijala, proizvoda i procesa u cilju sprečavanja nastanka i ispuštanja kemikalija navedenih u Dodatku C, uzimajući u obzir opće upute o mjerama za sprječavanje i smanjenje ispuštanja u Dodatku C i smjernice koje svojom odlukom treba usvojiti Konferencija stranaka;
+(d) promicati i, u skladu s provedbenim programom akcijskog plana, zahtijevati korištenje najboljih raspoloživih tehnika za nove izvore, unutar kategorija izvora, za koje je stranka u svom akcijskom planu prepoznala da jamče takvo djelovanje, uz posebno početno usredotočenje na kategorije izvora određene u Dijelu II Dodatka C. Zahtjev za korištenje najboljih raspoloživih tehnika za nove izvore u kategorijama navedenim u Dijelu II tog Dodatka postupno će se uvoditi čim bude moguće, no najkasnije četiri godine po stupanju na snagu Konvencije za odnosnu stranku. Za utvrđene kategorije stranke će promicati korištenje najboljih postupaka zaštite okoliša. Kod primjenjivanja najboljih raspoloživih tehnika i najboljih postupaka zaštite okoliša stranke će uzeti u obzir opće upute o mjerama za sprječavanje i smanjenje ispuštanja u tom Dodatku i smjernice o najboljim raspoloživim tehnikama i najboljim postupcima zaštite okoliša koje odlukom treba usvojiti Konferencija stranaka;
+(e) promicati, u skladu sa svojim akcijskim planom, korištenje najboljih raspoloživih tehnika i najboljih postupaka zaštite okoliša:
+(i) za postojeće izvore, u okviru kategorija izvora navedenih u Dijelu II., Dodatka C te unutar kategorija izvora kao što su kategorije u Dijelu III. Dodatka C, i
+(ii) za nove izvore, u okviru kategorija izvora kao što su kategorije navedene u Dijelu III Dodatka C koje stranka nije obuhvatila u podstavku (d).
+U primjeni najboljih raspoloživih tehnika i najboljih postupaka zaštite okoliša stranke moraju uzeti u obzir opće upute o mjerama za sprečavanje i smanjenje ispuštanja u Dodatku C i smjernice o najboljim raspoloživim tehnikama i najboljim postupcima zaštite okoliša koje odlukom treba usvojiti Konferencija stranaka;
+(f) za potrebe ovog stavka i Dodatka C:
+(i) »najbolje raspoložive tehnike« znači najdjelotvorniji i najnapredniji stupanj u razvoju aktivnosti i njihovih metoda rada koje pokazuju praktičnu prikladnost pojedinih tehnika za pružanje, u načelu, osnove za ograničenja ispuštanja namijenjena sprječavanju, a gdje to nije provedivo, općenito smanjenju ispuštanja kemikalija navedenih u Dijelu I Dodatka C i njihovog utjecaja na okoliš u cjelini. U tom pogledu:
+(ii) »tehnike« uključuje i korištenu tehnologiju i način na koji je postrojenje projektirano, konstruirano, održavano, upravljano i isključeno iz rada;
+(iii) »raspoložive« znači one tehnike koje su dostupne onome koji upravlja postrojenjem i koje su razvijene na osnovi koja dopušta primjenu u relevantnom industrijskom sektoru, uz ekonomski i tehnički održive uvjete, vodeći računa o troškovima i prednostima, i
+(iv) »najbolje« znači najdjelotvornije u postizanju visoke opće razine zaštite okoliša u cjelini;
+(v) »najbolji postupci zaštite okoliša« znači primjenu najprikladnije kombinacije mjera i strategija za nadziranje okoliša,
+(vi) »novi izvor« znači svaki izvor čija je konstrukcija ili znatna izmjena započeta najmanje godinu dana od datuma:
+a. stupanja na snagu ove Konvencije za odnosnu stranku, ili
+b. stupanja na snagu za odnosnu stranku izmjene i dopune Dodatka C u slučaju kada izvor podliježe odredbama ove Konvencije samo na temelju te izmjene i dopune.
+(g) stranka može koristiti granične vrijednosti ispuštanja ili standarde izvršenja kako bi ispunila svoje obveze glede najboljih raspoloživih tehnika na temelju ovoga stavka.
