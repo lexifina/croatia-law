@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. Zakona o posebnom porezu na naftne derivate (»Narodne novine«, br. 55/2000, 101/2000, 27/2001, 107/2001, 123/2003 i 57/2006), Vlada Republike Hrvatske je na sjednici održanoj 26. travnja 2007. godine donijela
