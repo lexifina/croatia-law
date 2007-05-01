@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 4. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, broj 131/97, 163/03) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
