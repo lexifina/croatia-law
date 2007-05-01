@@ -1,0 +1,8 @@
+## POGLAVLJE II.
+## UTVRĐIVANJE GSE STATUSA
+## Klasifikacija po kategorijama
+# Članak 5.
+1) GSE status zemlje ili regije, neke druge zemlje ili jedne od njihovih regija (u daljnjem tekstu: »zemlje ili regije«), utvrđuje Europska komisija na temelju kriterija određenih u Dodatku II. Poglavlju A ovoga Pravilnika, te na temelju ishoda analize rizika provedene na temelju svih potencijalnih čimbenika za pojavu goveđe spongiformne encefalopatije kako je to određeno u Dodatku II. Poglavlja B ovoga Pravilnika, te njihovog razvoja tijekom vremena.
+- Za uvoz na područje Republike Hrvatske živih životinja ili proizvoda na koje se odnosi ovaj Pravilnik, nadležno tijelo primjenjuje odluke o kategorizaciji zemalja ili regija donesene u skladu s propisanim posebnim postupkom Europske komisije i na temelju kriterija iz stavka 1. ovoga članaka. Nadležno tijelo zemlje izvoznice dužno je Upravi dostaviti relevantne informacije prema kriterijima određenim u Dodatku II. Poglavlju A ovoga Pravilnika te informacije o potencijalnim faktorima rizika specificiranim u Dodatku II, Poglavlja B ovoga Pravilnika te njihovom kretanju tijekom vremena.
+2) Zemlje koje ne dostave zahtjev u skladu sa stavkom 1. ovoga članka, smatrat će se, što se tiče isporuke živih životinja i proizvoda životinjskog podrijetla s njihovog teritorija, zemljama kategorije 5 prema Dodatku II. Poglavlju C ovoga Pravilnika, sve dok ne podnesu takav zahtjev Europskoj komisiji.
+3) Nadležno tijelo izvještava u najkraćem mogućem roku Europsku komisiju o svakom epidemiološkom dokazu ili drugim informacijama koje bi mogle dovesti do promjene GSE statusa, posebice o rezultatima programa monitoringa iz članka 6. ovoga Pravilnika.

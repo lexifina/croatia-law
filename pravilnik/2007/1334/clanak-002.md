@@ -1,0 +1,3 @@
+## Odvajanje živih životinja i proizvoda životinjskog podrijetla
+# Članak 2.
+Da bi se izbjegla unakrižna kontaminacija ili međusobna zamjena između živih životinja ili proizvoda životinjskog podrijetla iz članka 1. stavka 1. ovoga Pravilnika i proizvoda životinjskog podrijetla iz članka 1. stavka 2. točaka (a), (b) i (c) ovoga Pravilnika ili živih životinja iz članka 1. stavka 2 točke (d) ovoga Pravilnika, isti se moraju u svakom trenutku držati odvojeno, osim ako su te žive životinje ili proizvodi životinjskog podrijetla proizvedeni pod barem jednakim uvjetima zaštite zdravlja u odnosu na TSE.
