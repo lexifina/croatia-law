@@ -1,0 +1,1 @@
+Na temelju odredbe članka 109. stavak 3. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 18. travnja 2007.
