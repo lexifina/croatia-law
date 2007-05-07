@@ -1,0 +1,4 @@
+# Članak 6.
+Ako se statusnom promjenom ili pravnim poslom na novog poslodavca prenese Društvo ili dio Društva, na novog poslodavca se prenose i svi ugovori o radu radnika koji rade u Društvu ili dijelu Društva koji je predmet prenošenja, a na radnike se do sklapanja novog Kolektivnog ugovora, a najdulje dvije godine, nastavlja primjenjivati ovaj Ugovor.
+Radnik čiji je ugovor o radu prenesen u svezi sa stavkom 1. ovoga članka, zadržava u svezi s otkazom, otkaznim rokovima, otpremninom i svim drugim pitanjima iz radnog odnosa sva prava koja je stekao do dana prijenosa ugovora o radu.
+Poslodavac se obvezuje da će u slučaju prestanka rada društva ili poduzeća kojemu je prenesen dio Društva ili je dio društva (poduzeća) dan u zakup, u svezi s ovim člankom u razdoblju kraćem od šest mjeseci, preuzeti na rad radnike tog društva te s njima ponovno sklopiti ugovor o radu.

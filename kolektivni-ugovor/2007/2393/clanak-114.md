@@ -1,0 +1,2 @@
+# Članak 114.
+U provedbi mjera zaštite pri radu, poslodavac je dužan izvijestiti sindikat dva puta godišnje o stanju sigurnosti i zaštite na radu i primati primjedbe zaposlenih na primjenu propisa i provedbu mjera zaštite pri radu. Sindikat ima pravo odrediti svoga povjerenika zaštite na radu koji mora biti obaviješten o svim promjenama od utjecaja na sigurnost i zdravlje zaposlenih i primati primjedbe zaposlenih na primjenu propisa i provedbu mjera zaštite pri radu.

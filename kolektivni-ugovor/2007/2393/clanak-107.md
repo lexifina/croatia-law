@@ -1,0 +1,3 @@
+# Članak 107.
+Radnik koji u slučaju ozbiljne prijeteće i neizbježne opasnosti za život i zdravlje napusti svoje radno mjesto, odnosno opasno područje ili odbije izvršavati poslove na tom radnom mjestu, ne smije biti doveden u lošiji položaj zbog svog postupka te ima zaštitu od bilo kakvih posljedica, osim ako je posebnim propisima ili pravilima struke dužan izložiti se opasnosti radi spašavanja života zdravlja ljudi i imovine.
+U slučajevima iz ovoga i prethodnog članka te drugim slučajevima određenim posebnim zakonom, radnik je dužan obavijestiti odgovornu osobu ili povjerenika zaštite pri radu.
