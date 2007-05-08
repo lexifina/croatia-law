@@ -1,0 +1,5 @@
+## Presađivanje očnih tkivnih presadaka
+# Članak 9.
+Odobrenje ministra nadležnog za zdravstvo (u daljnjem tekstu: ministar) za postupak presađivanja očnih tkivnih presadaka daje se na rok od godine dana zdravstvenoj ustanovi koja ispunjava sljedeće uvjete u pogledu stručnih radnika:
+- ima u radnom odnosu najmanje 1 specijalista oftalmologije s najmanje pet godina kirurškog oftalmološkog iskustva koji je sudjelovao u najmanje 10 postupaka presađivanja očnih tkivnih presadaka i izvršio najmanje 5 postupaka presađivanja uz nadzor specijalista oftalmologije, 1 specijalista anesteziologije, reanimatologije i intenzivnog liječenja te 2 medicinske sestre/medicinska tehničara.
+Zdravstvenoj ustanovi iz stavka 1. ovoga članka daje se odobrenje ministra za obavljanje presađivanja očnih tkivnih presadaka, na prijedlog povjerenstva koje imenuje ministar, bez vremenskog ograničenja, ako je u razdoblju od godinu dana od dana davanja odobrenja izvršila najmanje 10 presađivanja rožnice i 10 presađivanja amnija te 2 presađivanja sklere i limbalnih stanica.
