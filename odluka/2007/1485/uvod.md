@@ -1,0 +1,1 @@
+Na temelju članka 15. stavak 1. alineja 1. Zakona o Umirovljeničkom fondu (»Narodne novine« broj 93/05 i 41/07 - u daljnjem tekstu: Zakon), uz prethodnu suglasnost Vlade Republike Hrvatske, Upravni odbor Fonda je na 23. sjednici donio
