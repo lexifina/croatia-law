@@ -1,0 +1,5 @@
+## VII. OSTACI
+# Članak 21.
+(1) Ostaci iz pogona postrojenja za spaljivanje ili suspaljivanje otpada moraju se obraditi i/ili oporabiti u samom postrojenju kada za to postoje uvjeti ili izvan postojenja prema propisima o gospodarenju otpadom. Količine i štetna svojstva ostataka moraju se smanjiti na minimum; oni se moraju oporabiti ili reciklirati u najvećoj mogućoj mjeri. Ostaci koji se ne mogu niti izbjeći niti iskoristiti moraju se odložiti ili konačno zbrinuti prema važećim propisima o gospodrenju otpadom.
+(2) Prije utvrđivanja postupaka za obradu, oporabu ili konačno zbrinjavanje moraju se propisanim postupcima odrediti fizikalna i kemijska svojstva ostataka, ukupni sadržaj onečišćujućih tvari i ukupan sadržaj vodotopivih tvari kao i vodotopivi sadržaj teških metala. Zapisi analitičkih izvještaja moraju se čuvati najmanje jednu godinu.
+(3) Tijekom rukovanja, otpremanja, prijevoza i međuskladištenja suhog praškastog ostatka od obrade otpadnih plinova mora se osigurati sprječavanje njihovog raspršivanja u zrak i okoliš.

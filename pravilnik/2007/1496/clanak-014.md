@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Svaka linija postrojenja za spaljivanje otpada mora biti opremljena najmanje jednim pomoćnim plamenikom koji se automatski uključuje kada temperatura otpadnih plinova nakon zadnjeg dovoda zraka za izgaranje padne ispod 850 °C, odnosno 1100 °C prema članku 13. stavku 2. ovoga Pravilnika.
+(2) Plamenik se mora aktivirati pri pokretanju i tijekom pogona postrojenja, da bi osiguravao i održavao najnižu temperaturu, prema članku 13. stavku 2. ovoga Pravilnika, u svakom trenutku rada postrojenja, sve dok se neizgoreni otpad nalazi u prostoru izgaranja.
+(3) Tijekom pokretanja ili prekida pogona i kada temperatura plinova izgaranja padne ispod temperatura navedenih u članku 13. stavku 2. ovoga Pravilnka, plamenik se mora opskrbljivati gorivom koje ne može uzrokovati više emisije od onih koje nastaju izgaranjem ekstra lakog loživog ulja, ili prirodnog ili ukapljenog plina.
