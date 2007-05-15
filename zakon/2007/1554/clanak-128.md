@@ -1,0 +1,2 @@
+# Članak 128.
+Do donošenja propisa iz članka 127. ovoga Zakona ostaju na snazi propisi doneseni ili preuzeti na temelju Zakona o hrani (»Narodne novine«, br. 117/03., 130/03., 48/04. i 85/06.), Zakona o veterinarstvu (»Narodne novine«, br. 70/97., 105/01. i 172/03.), Zakona o stočarstvu (»Narodne novine«, br. 70/97., 36/98., 151/03. i 132/06.), Zakona o tehničkim zahtjevima za proizvode i ocjeni sukladnosti (»Narodne novine«, br. 158/03.).

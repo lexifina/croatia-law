@@ -1,0 +1,4 @@
+## Obavještavanje javnosti
+# Članak 10.
+(1) Kada postoji opravdana sumnja da hrana ili hrana za životinje može predstavljati rizik za zdravlje ljudi ili životinja, ne dovodeći u pitanje odredbe posebnog propisa o pravu na pristup informacijama, tada će nadležno tijelo, ovisno o prirodi, ozbiljnosti i opsegu tog rizika, poduzeti odgovarajuće radnje radi obavještavanja javnosti o prirodi rizika za zdravlje, identificirajući u najvećoj mogućoj mjeri hranu ili hranu za životinje ili vrstu hrane ili hrane za životinje, rizik koji može predstavljati i mjere koje se poduzimaju ili će se poduzeti za sprječavanje, smanjivanje ili uklanjanje tog rizika.
+(2) Radi izvršavanja radnji iz stavka 1. ovoga članka, osobe ovlaštene za obavljanje službene kontrole, kontrolna tijela i Agencija dužne su, u okviru svoje nadležnosti, obavijestiti nadležno tijelo o pojavi rizika.

@@ -1,0 +1,7 @@
+## Sljedivost
+# Članak 20.
+(1) Sljedivost mora biti uspostavljena u svim fazama proizvodnje, prerade i distribucije hrane, hrane za životinje, životinja koje se koriste za proizvodnju hrane kao i bilo koje druge tvari koja je namijenjena ugradnji ili se može očekivati da će biti ugrađena u hranu ili hranu za životinje.
+(2) Subjekti u poslovanju s hranom i hranom za životinje moraju biti u mogućnosti identificirati svaku pravnu ili fizičku osobu koja ih je opskrbljivala hranom, hranom za životinje, životinjama koje se koriste za proizvodnju hrane ili bilo kojom drugom tvari koja je namijenjena ugradnji ili se može očekivati da će se ugraditi u hranu ili hranu za životinje. U tom cilju subjekti moraju uvesti sustave i postupke koji omogućavaju da takva informacija bude dostupna nadležnom tijelu na njegov zahtjev.
+(3) Subjekti u poslovanju s hranom i hranom za životinje moraju uvesti sustave i postupke za identifikaciju drugih subjekata kojima su isporučivali svoje proizvode. Ova informacija mora biti dostupna nadležnom tijelu na njegov zahtjev.
+(4) Hrana ili hrana za životinje koja se stavlja na tržište ili je vjerojatno da će biti stavljena na tržište mora biti odgovarajuće označena ili na drugi način identificirana da bi se omogućila njezina sljedivost putem odgovarajuće propisane dokumentacije ili informacija u skladu s propisanim zahtjevima ili drugim specifičnim odredbama.
+(5) Čelnik nadležnog tijela provedbenim propisom propisuje zahtjeve za osiguranje sljedivosti iz ovoga članka.

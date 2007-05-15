@@ -1,0 +1,4 @@
+## Odnos prema žigovima
+# Članak 119.
+(1) Kada su nazivi hrane registrirani kao oznake izvornosti ili oznake zemljopisnog podrijetla u skladu s ovim Zakonom, zahtjev za registraciju žiga koji odgovara jednoj od situacija navedenih u članku 118. ovoga Zakona i koji se odnosi na istu vrstu hrane odbija se, ako je zahtjev za registraciju žiga predan nakon datuma podnošenja zahtjeva za registraciju naziva hrane.
+(2) Žig čija uporaba odgovara jednoj od situacija navedenih u članku 118. ovoga Zakona, koji je registriran u dobroj vjeri u skladu s posebnim propisom prije datuma podnošenja zahtjeva za registraciju naziva hrane kao oznake izvornosti ili oznake zemljopisnog podrijetla, može se nastaviti koristiti pod uvjetom da ne postoji nikakva osnova za njegovo proglašavanje ništavim ili za njegov opoziv.

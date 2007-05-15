@@ -1,0 +1,5 @@
+## Izvoz hrane i hrane za životinje
+# Članak 12.
+(1) Hrana i hrana za životinje koja se izvozi ili se uvozi radi izvoza iz Republike Hrvatske mora udovoljavati odredbama propisa o hrani, osim ako drugačije ne zatraže nadležna tijela države uvoznice ili ukoliko se drugačije utvrdi propisima, standardima, kodeksom prakse i drugim pravnim i upravnim postupcima koji su na snazi u državi uvoznici.
+(2) Iznimno od odredbe stavka 1. ovoga članka, osim u slučaju kada je hrana štetna za zdravlje ili kada je hrana za životinje zdravstveno neispravna, hrana i hrana za životinje može se izvoziti ili uvoziti radi izvoza, ako su nadležna tijela države odredišta s tim izričito suglasna, nakon što su u potpunosti obaviještena o razlozima zbog kojih i okolnostima u kojima se hrana ili hrana za životinje ne smije stavljati na tržište Republike Hrvatske.
+(3) Iznimno od odredbe stavka 1. ovoga članka, ako se primjenjuju odredbe međunarodnog ugovora između Republike Hrvatske i zemlje uvoznice, hrana i hrana za životinje koja se izvozi iz Republike Hrvatske u tu zemlju mora udovoljavati uvjetima sadržanim u međunarodnom ugovoru.

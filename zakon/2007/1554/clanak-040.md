@@ -1,0 +1,5 @@
+## Nacionalna mreža institucija
+# Članak 40.
+(1) Agencija uspostavlja i koordinira nacionalnu mrežu institucija iz članka 25. stavka 6. ovoga Zakona. Cilj ove mreže je stvoriti okvir unutar kojeg se odvija znanstvena suradnja koordinacijom aktivnosti, razmjenom informacija, razvojem i provedbom zajedničkih projekata, razmjenom iskustava i najbolje prakse u okviru djelatnosti Agencije.
+(2) Upravno vijeće, na prijedlog ravnatelja, usvaja i donosi popis institucija iz članka 25. stavka 6. ovoga Zakona, koji objavljuje, a koje mogu pomagati Agenciji, samostalno ili unutar mreže, u obavljanju njezinih zadaća. Agencija može povjeriti ovim institucijama određene zadatke, posebice pripremne radnje za znanstvena mišljenja, znanstvenu i tehničku pomoć, prikupljanje podataka i identifikaciju rizika u nastajanju. Agencija mora planirati financijska sredstva za ovu namjenu.
+(3) Pravila uspostave nacionalne mreže, uvjete i kriterije za uvrštavanje na popis institucija i pravila financiranja iz stavka 1. i 2. ovoga članka, provedbenim propisom propisuje čelnik nadležnog tijela.

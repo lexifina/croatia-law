@@ -1,0 +1,2 @@
+# Članak 135.
+Do osnivanja inspekcije za kakvoću hrane iz članka 86. stavka 5. ovoga Zakona u nadležnom tijelu, poslove službene kontrole hrane sa zaštićenom oznakom zemljopisnog podrijetla, oznakom izvornosti i oznakom tradicionalnog ugleda provodit će na razini proizvodnje, prerade i maloprodaje gospodarski inspektori prema odredbama Zakona o hrani (»Narodne novine«, br. 117/03., 130/03., 48/04. i 85/06.).
