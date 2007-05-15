@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Ovlašteni sudionik na tržištu koji podliježe obvezi izvješćivanja Agencije iz članka 5. ovog Pravilnika, o navedenoj obavijesti ne smije izvijestiti niti jednu drugu osobu, što se posebice odnosi na osobe u čije su ime zadani nalozi odnosno obavljene transakcije ili strane povezane s tim osobama, osim na temelju zakonski utvrđenih odredbi. Ispunjavanje ovog zahtjeva ne izlaže osobu koja je izvršila obavješćivanje nikakvoj vrsti odgovornosti, pod uvjetom da osoba koja je pružila obavijest djeluje u dobroj vjeri.
+(2) Agencija neće otkriti identitet osobe koja je obavijestila o transakcijama ako bi to štetilo toj osobi ili bi joj moglo štetiti.
+(3) Obavješćivanje Agencije u dobroj vjeri ne predstavlja kršenje bilo kojeg ograničenja objavljivanja informacija navedenog ugovorom, zakonskom ili podzakonskom odredbom te ne povlači za sobom nikakvu vrstu odgovornosti osobe koja je dala obavijest u pogledu te obavijesti.
