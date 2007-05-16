@@ -1,0 +1,1 @@
+Na temelju članka 30. stavak 2. Zakona o javnim cestama (»Narodne novine« broj: 180/2004), te članka 17. stavak 2. Izjave o osnivanju Hrvatskih cesta, društva s ograničenom odgovornošću, za upravljanje, građenje i održavanje državnih cesta Zagreb, Vončinina 3, (u daljnjem tekstu Hrvatske ceste), Uprava društva dana 16.ožujka 2007. godine donosi
