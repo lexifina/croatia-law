@@ -1,0 +1,1 @@
+Odluka o kriterijima i mjerilima za dodjelu poticajnih sredstava za razvoj širokopojasne infrastrukture na područjima gdje ne postoji dostatan interes za razvoj i ulaganje u infrastrukturu širokopojas
