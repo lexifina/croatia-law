@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 3. Zakona o otocima («Narodne novine» 34/99., 32/02. i 33/06.) ministar mora, turizma, prometa i razvitka uz suglasnost ministra nadležnog za poljoprivredu, ravnatelja nadležnog za intelektualno vlasništvo i uz prethodno pribavljeno mišljenje Hrvatske gospodarske komore i Hrvatske obrtničke komore donosi

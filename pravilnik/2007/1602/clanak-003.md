@@ -1,0 +1,3 @@
+# Članak 3.
+1. Tradicijskim i inovativnim proizvodima iz članka 2. ovog Pravilnika smatraju se proizvodi nastali kao rezultat otočne tradicije, razvojno-istraživačkog rada, inovacije i invencije čija razina kvalitete mora biti mjerljiva.
+2. Tradicijski i inovativni proizvodi iz čl. 2. ovog Pravilnika moraju zadovoljavati zakonske odrednice o sigurnosti, zaštiti zdravlja, zaštiti okoliša i zaštiti potrošača, te svojim ukupnim svojstvima (sastav, dizajn, ekološki kriteriji i dr.) udovoljiti izražene ili pretpostavljene potrebe potrošača, te zahtjeve utvrđene u normama ili specifikacijama kojima se osigurava razina kvalitete.
