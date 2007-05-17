@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 4. riječi: »prilikom izdavanja diploma koje su stečene na temelju studijskih programa upisanih najkasnije akademske godine 2004./2005.« zamjenjuju se riječima: »pri izdavanju diploma i dopunskih isprava o studiju nakon završetka studija ustrojenih sukladno propisima koji su vrijedili prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03)«.
