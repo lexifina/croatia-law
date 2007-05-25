@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o Državnom izbornom povjerenstvu Republike Hrvatske (»Narodne novine«, br. 44/2006 i 19/2007), Vlada Republike Hrvatske je na sjednici održanoj 25. svibnja 2007. godine, donijela
