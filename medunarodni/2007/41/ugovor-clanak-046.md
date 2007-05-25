@@ -1,0 +1,5 @@
+# Članak 46.
+Podmirenje računa
+1. Vijeće članova određuje svako namirenje računa koje smatra pravičnim uzimajući u obzir sve obveze koje povlače za sobom pravne posljedice za Međunarodno vijeće za masline, a koje bi imale povratni učinak na doprinose člana koji je istupio iz ovoga Sporazuma odnosno koji je isključen iz Međunarodnog vijeća za masline ili je na neki drugi način prestao biti strankom ovog Sporazuma, kao i vrijeme koje je potrebno da se osigura adekvatna tranzicija, posebice kada takve obveze moraju biti ukinute.
+Bez obzira na odredbe gore navedenog podstavka, takav član je obvezan platiti sve dospjele iznose iz njega Međunarodnom vijeću za masline u odnosu na razdoblje tijekom kojega je bio član.
+2. Po isteku ovoga Sporazuma, niti jedan član naveden u stavku 1. ovoga članka neće imati pravo ni na kakav udio u prihodu od raspuštanja ili drugih sredstava Međunarodnog vijeća za masline; niti će biti opterećen ikojim dijelom deficita Međunarodnog vijeća za masline, ukoliko ga bude.

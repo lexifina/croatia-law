@@ -1,0 +1,4 @@
+# Članak 4.
+Zastupanje članova u Međunarodnom vijeću za masline
+1. Svaki član određuje svog predstavnika u Međunarodnom vijeću za masline.
+2. Svako pozivanje u ovom Sporazumu na »vladu« ili »vlade« tumačit će se tako da uključuje Europsku zajednicu i bilo koju međuvladinu organizaciju koja je nadležna za pregovaranje, sklapanje i primjenu međunarodnih ugovora, posebice robnih sporazuma. Sukladno tome, svako pozivanje u ovom Sporazumu na potpisivanje, ratifikaciju, prihvat ili odobrenje, zatim na obavijest o privremenoj primjeni ili pristupu tumačit će se u slučaju Europske zajednice ili takvih međuvladinih organizacija tako da uključuje pozivanje na potpisivanje, ratifikaciju, prihvat ili odobrenje, obavijest o privremenoj primjeni ili pristupanju od strane Europske zajednice ili takvih međuvladinih organizacija.

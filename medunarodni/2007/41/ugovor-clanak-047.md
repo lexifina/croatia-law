@@ -1,0 +1,8 @@
+# Članak 47.
+Trajanje, produljenje i prestanak
+1. Ovaj Sporazum ostaje na snazi do 31. prosinca 2014. osim ukoliko Međunarodno vijeće za masline, djelujući preko svog Vijeća članova, odluči produljiti ili obnoviti odnosno unaprijed raskinuti Sporazum u skladu s odredbama ovoga članka.
+2. Međunarodno vijeće za masline, djelujući preko svog Vijeća članova, može donijeti odluku o produljenju ovoga Sporazum za najdulje dva razdoblja, od po dvije godine svako. Svaki član koji ne prihvaća takvo produljenje ovoga Sporazuma obavijestit će o tome Međunarodno vijeće za masline te će prestati biti strankom Sporazuma od početka produljenog razdoblja.
+3. Ukoliko prije 31. prosinca 2014. ili prije isteka produljenja navedenog u stavku 2. ovoga članka, ako to bude slučaj, bude dogovoren novi sporazum ili protokol o produljenju ovoga Sporazuma koji još nije stupio na snagu bilo konačno bilo privremeno, ovaj Sporazum ostaje na snazi i nakon datuma isteka sve dok novi sporazum ili protokol ne stupe na snagu pod uvjetom da razdoblje takvog produljenja nije dulje od 12 mjeseci.
+4. Međunarodno vijeće za masline, djelujući preko svog Vijeća članova, može u bilo kojem trenutku odlučiti da raskine ovaj Sporazum s učinkom od datuma koji Vijeće odredi.
+5. Bez obzira na istek ili prestanak ovoga Sporazuma, Međunarodno vijeće za masline postojat će koliko god to bude potrebno u svrhu provođenja postupka raspuštanja Međunarodnog vijeća za masline, uključujući i namirenje računa. Vijeće će tijekom toga razdoblja imati takve ovlasti i dužnosti koje su potrebne za navedene svrhe.
+6. Međunarodno vijeće za masline će obavijestiti depozitara o svakoj odluci donesenoj u skladu s ovim člankom.
