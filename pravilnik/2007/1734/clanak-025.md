@@ -1,0 +1,2 @@
+# Članak 25.
+Srednji strojevi: II razina protuminske zaštite i II razina balističke zaštite (STANAG 4569 Aneks A i Aneks B). Izdržljivost strojeva na sve vrste protupješačkih i/ili protuoklopnih mina. Kod aktiviranja protupješačkih mina stroj nema značajnih oštećenja na oklopnom tijelu stroja i njegova radnog alata. Stroj može nastaviti s radom bez većih popravki. U slučaju aktiviranja protuoklopne mine (6 kg TNT) ispod radnog alata moguća su veća oštećenja alata. Stroj može biti značajno oštećen ali bez posljedica na rukovatelja stroja.

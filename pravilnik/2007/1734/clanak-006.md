@@ -1,0 +1,2 @@
+# Članak 6.
+Stroj za razminiranje se sastoji od temeljnog stroja (podvozje) i radnog uređaja (mlatilica, sitnilica-freza). Temeljni stroj je samovozni stroj (gusjenično vozilo, kotačno vozilo). Nadgradnja ima pogonsku jedinicu, upravljačku jedinicu, izvršnu jedinicu i sigurnosnu jedinicu, a priključni stroj prednji članak sa ili bez pogona radnog uređaja ili prikolicu sa ili bez pogona radnog uređaja.
