@@ -1,0 +1,1 @@
+Na temelju članka 79. stavak 3. Zakona o prijevozu opasnih tvari («Narodne novine«, broj 97/93. i 151/03.) ministar mora, turizma, prometa i razvitka u suglasnosti s ministrom unutarnjih poslova i ministrom zdravstva i socijalne skrbi, donosi
