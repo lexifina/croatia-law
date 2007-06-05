@@ -1,0 +1,10 @@
+# Rješenje Ustavnog suda Republike Hrvatske broj: U-II-1550/2003 od 5. lipnja 2007.
+
+- Case: `U-II-1550/2003`
+- Decision: Rješenje o neprihvaćanju prijedloga za ocjenu akata ostalih donosilaca (ministarstva-javna poduzeća-i r sve signatura II)
+- Decision date: `2007-06-05`
+- Conclusion (database): Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom - članka 1. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.) u dijelu u kojem je izmijenjen članak 8. točka 13. Statuta Hrvatske obrtničke komore ("Narodne novine", broj 21/99., 62/02.,158/02., 101/04., 187/04. i 12/06.) i - članka 4. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.) u kojem se dopunjuje članak 40. stavak 2. točka 3. Statuta Hrvatske obrtničke komore. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 43. stavka 3. Statuta obrtničke komore i članka 5. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.). U odnosu na predlagateljicu Područnu obrtničku komoru Primorsko-goranske županije Rijeka, obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom odredbe članka 8. točke 13., članka 40. stavaka 2. i 3. i članka 44. stavka 3. Statuta Hrvatske obrtničke komore ("Narodne novine", broj 21/99. i 62/02.) te članka 1., članka 4. i članka 5. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.).
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C12572F7003ECEBD>
+- Official database page SHA-256: `cf9b79824be7a6dcd6f427b5e84ff83ec12ef443a86e6bd895448cc6ab7c5fc4`
+
+Text as published in the official case-law database of the Constitutional Court (the decision page), anonymised as published; the signature block is left out.

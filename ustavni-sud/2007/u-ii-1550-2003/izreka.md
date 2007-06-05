@@ -1,0 +1,6 @@
+R J E Š E N J E
+I. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom
+- članka 1. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.) u dijelu u kojem je izmijenjen članak 8. točka 13. Statuta Hrvatske obrtničke komore ("Narodne novine", broj 21/99., 62/02.,158/02., 101/04., 187/04. i 12/06.) i
+- članka 4. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.) u kojem se dopunjuje članak 40. stavak 2. točka 3. Statuta Hrvatske obrtničke komore.
+II. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 43. stavka 3. Statuta obrtničke komore i članka 5. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.).
+III. U odnosu na predlagateljicu Područnu obrtničku komoru Primorsko-goranske županije Rijeka, obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom odredbe članka 8. točke 13., članka 40. stavaka 2. i 3. i članka 44. stavka 3. Statuta Hrvatske obrtničke komore ("Narodne novine", broj 21/99. i 62/02.) te članka 1., članka 4. i članka 5. Odluke o izmjenama i dopunama Statuta Hrvatske obrtničke komore ("Narodne novine", broj 158/02.).
