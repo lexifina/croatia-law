@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. stavka 1. točke 1. i 8. a u svezi točke 2. alineje 1. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga, (»Narodne novine« br. 140/05), Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: Agencija), donijela je na sjednici održanoj 24. svibnja 2007. godine
