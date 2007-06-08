@@ -1,0 +1,11 @@
+# Članak 2.
+U članku 34. Pravilnika stavak 2. i 3 mijenjaju se i glase:
+»Nalog za sanitetski prijevoz daje se ugovornom subjektu koji sa Zavodom ima ugovorenu djelatnost sanitetskog prijevoza prema mjestu prebivališta, odnosno boravka osigurane osobe u slučajevima kada se:
+1. osiguranu osobu prevozi iz mjesta prebivališta, odnosno boravka u ugovornu zdravstvenu ustanovu, odnosno ordinaciju ugovornog doktora privatne prakse, odnosno kada se osiguranu osobu prevozi iz ugovorne zdravstvene ustanove, odnosno ordinacije ugovornog doktora privatne prakse u mjesto prebivališta, odnosno boravka
+2. osiguranu osobu premješta iz ugovorne zdravstvene ustanove, odnosno ordinacije ugovornog doktora privatne prakse u ugovornu bolničku ustanovu za liječenje akutnih bolesti koja je najbliža mjestu njezinog prebivališta, odnosno boravka
+3. osiguranu osobu prevozi na liječenje u inozemstvo, odnosno kada se osiguranu osobu prevozi s liječenja u inozemstvu u mjesto prebivališta, odnosno boravka, kao i u slučaju kada se osiguranu osobu iz inozemstva prevozi u ugovornu zdravstvenu ustanovu u Republici Hrvatskoj radi nastavka liječenja.
+Nalog za sanitetski prijevoz daje se ugovornom subjektu koji sa Zavodom ima ugovorenu djelatnost sanitetskog prijevoza prema sjedištu ugovorne zdravstvene ustanove, odnosno ordinacije ugovornog doktora privatne prakse u slučajevima kada se:
+1. osiguranu osobu iz te ugovorne zdravstvene ustanove, odnosno ordinacije ugovornog doktora privatne prakse upućuje u drugu zdravstvenu ustanovu ili ordinaciju ugovornog doktora privatne prakse radi obavljanja terapijskih i dijagnostičkih postupaka, kao i u slučaju kada se osiguranu osobu nakon obavljenih terapijskih i dijagnostičkih postupaka vraća u tu ugovornu zdravstvenu ustanovu, odnosno ordinaciju ugovornog doktora privatne prakse
+2. osiguranu osobu premješta iz ugovorne bolničke ustanove za liječenje akutnih bolesti u ugovornu bolničku ustanovu za liječenje kroničnih bolesti
+3. osiguranu osobu premješta iz jedne ugovorne bolničke ustanove za liječenje akutnih bolesti u drugu ugovornu bolničku ustanovu za liječenje akutnih bolesti koja nije najbliža mjestu prebivališta, odnosno boravka osigurane osobe
+4. osiguranu osobu premješta iz ugovorne bolničke ustanove za liječenje kroničnih bolesti u ugovornu bolničku ustanovu za liječenje akutnih bolesti.«
