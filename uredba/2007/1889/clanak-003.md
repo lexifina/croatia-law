@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 4. iza naslova i teksta točke 2.1.2. dodaje se točka 2.2. koja glasi:
+»2.2. Odjel za planiranje i upravljanje kadrovima
+Odjel za planiranje i upravljanje kadrovima brine o upravljanju kadrovima i njihovom razvoju, daje mišljenja o pitanjima koja se odnose na državnu službu, priprema prijedloge planova prijama u državnu službu usklađujući raspored državnih službenika s planovima središnjeg tijela državne uprave nadležnog za službeničke odnose, sudjeluje u izradi strategija, programa i planova izobrazbe za državno tijelo u čijem se sastavu nalazi, vodi osobne očevidnike službenika i namještenika, te redovito dostavlja nove podatke u središnji popis državnih službenika, provodi postupak prijama u državnu službu u suradnji sa središnjim tijelom državne uprave nadležnim za službeničke odnose i druge poslove po nalogu tajnika Ministarstva.«.
