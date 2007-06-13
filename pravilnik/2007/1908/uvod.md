@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 3. i članka 144. Zakona o gradnji (»Narodne novine« broj 175/03 i 100/04), ministrica zaštite okoliša, prostornog uređenja i graditeljstva, uz suglasnost ministra unutarnjih poslova, donosi

@@ -1,0 +1,2 @@
+# Članak 6.
+U članku 46. stavak 3. mijenja se i glasi: »Obvezni broj pristupačnih soba u hotelu (soba/TWC) s 50 i više soba, u đačkom i studentskom domu hotelskog tipa (soba/TWC), hostelu s 50 i više soba sa zajedničkim sanitarnim jedinicama, đačkom i studentskom domu u kojima se nalaze zajedničke sanitarne jedinice, određuje se na način da se na prvih 50 soba obvezno izvodi jedna pristupačna soba, te po jedna za svakih idućih deset. Ukupni broj pristupačnih soba određuje se zaokruživanjem broja soba na prvu višu deseticu.«
