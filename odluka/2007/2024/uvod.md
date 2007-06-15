@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 1. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 66/2001, 87/2002, 48/2005 i90/2005), Vlada Republike Hrvatske je na sjednici održanoj 15. lipnja 2007. godine donijela
