@@ -1,0 +1,1 @@
+Na temelju članaka 17., 22. stavka 3. i 72. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 79/2006 i 105/2006) te članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2007. godine donijela
