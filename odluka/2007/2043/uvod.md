@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i30/2004) i članka 51. stavka 1. Zakona o šumama (»Narodne novine«, br. 140/2005 i 82/2006), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2007. godine donijela
