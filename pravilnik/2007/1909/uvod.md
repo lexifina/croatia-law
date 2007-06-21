@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 5. i 6., članka 8. stavka 2. i članka 13. stavka 2. Zakona o kemikalijama (»Narodne novine« br. 150/05) ministar zdravstva i socijalne skrbi uz suglasnost ministra gospodarstva, rada i poduzetništva donosi

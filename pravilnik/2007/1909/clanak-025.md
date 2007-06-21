@@ -1,0 +1,3 @@
+# Članak 25.
+Nakon što je procijenjena opasnost (rizik) donesene odluke na temelju članka 24. ovoga Pravilnika, ministarstvo izdaje pisano izvješće koje mora najmanje sadržavati podatke iz priloga V. ovoga Pravilnika. Ministarstvo u skladu s člankom 18. ovoga Pravilnika izvješće dostavlja Europskoj komisiji i obnavlja ga nakon svake revizije procjene koja se provodi na osnovi dodatnih podataka.
+Nakon što se nadležna tijela, u skladu s člankom 18. ovoga Pravilnika, slože oko pisanog izvješća o procjeni opasnosti (rizika) ili oko revizije te procjene, jedan se primjerak na njegov zahtjev dostavlja podnositelju prijave.

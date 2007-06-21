@@ -1,0 +1,6 @@
+# Članak 7.
+Svaki prijavitelj koji je prijavio novu tvar, obvezan je ministarstvo obavijestiti:
+a) ako količina nove tvari, koju je stavio u promet dosegne 10 tona po proizvođaču ili ako ukupna količina tvari stavljene u promet dostigne 50 tona po proizvođaču, ministarstvo može zatražiti da se obave sva ili neka od dodatnih ispitivanja iz Razine 1. Priloga III. ovoga Pravilnika, u roku koji odredi,
+b) ako količina nove tvari stavljene u promet dosegne 100 tona na godinu po proizvođaču, ili ako ukupna količina tvari stavljene u promet dosegne 500 tona po proizvođaču. U tom slučaju prijavitelj je obvezan u roku koji mu odredi ministarstvo obaviti dodatne testove/ispitivanja iz Razine 1. Priloga III. ovoga Pravilnika, osim ako prijavitelj ne iznese opravdani razlog zbog kojeg traženi test/ispitivanje nije primjereno, ili zbog kojeg treba dati prednost izvođenju alternativnog testa/ispitivanja,
+c) ako količina nove tvari stavljene u promet dosegne 1.000 tona na godinu po proizvođaču ili ako ukupna količina tvari stavljene u promet dostigne 5.000 tona po proizvođaču ministarstvo će prijavitelju odrediti rok i program ispitivanja koje mora obaviti u skladu s Razinom 2. Priloga III. ovoga Pravilnika.
+Prijavitelj je obvezan ministarstvo obavijestiti o rezultatima ispitivanja, koje je obavio na temelju stavka 1. ovoga članka ili dobrovoljno.

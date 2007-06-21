@@ -1,0 +1,3 @@
+# Članak 13.
+Ministarstvo po zaprimljenoj prijavi nove tvari, prijavitelju izdaje potvrdu o prijamu i pregledu prijavne dokumentacije. Ako je prijavna dokumentacija potpuna, najkasnije 60 dana od njenoga zaprimanja ministarstvo obavještava prijavitelja o prihvaćanju prijave i prijavitelju izdaje registracijski broj, pod kojim upisuje novu tvar u popis.
+U slučaju da prijavna dokumentacija nije potpuna, ministarstvo od prijavitelja najkasnije u roku od 60 dana po prijamu prijavne dokumentacije zahtijeva njezinu dopunu. U tom slučaju kao datum zaprimanja potpune prijave za novu tvar uzima se datum kada je prijavitelj dostavio dopunjenu dokumentaciju prema zahtjevu ministarstva.

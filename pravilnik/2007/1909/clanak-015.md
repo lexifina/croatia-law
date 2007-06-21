@@ -1,0 +1,3 @@
+# Članak 15.
+Ako ministarstvo ne odluči drukčije, prijavitelj može novu tvar staviti u promet najranije 60 dana po prijamu potpune prijave, odnosno 30 dana od obavijesti i zaprimanja skraćene prijave. Ako ministarstvo prijavitelja nove tvari po skraćenoj prijavi obavijesti o prihvaćanju prijave u roku od 30 dana, prijavitelj može staviti novu tvar u promet, ako je od obavijesti o prihvaćanju skraćene prijave proteklo najmanje 15 dana.
+Ako ministarstvo u rokovima iz članka 14. i ovoga članka ne zahtijeva od podnositelja dopunu prijave, smatra se da je prijava prihvaćena te podnositelj prijave može staviti u promet novu tvar.

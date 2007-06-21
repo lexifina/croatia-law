@@ -1,0 +1,16 @@
+# Članak 21.
+Procjena opasnosti (rizika) mora obuhvaćati utvrđivanje opasnih svojstava i ako je to primjereno, procjenu odnosa doze (koncentracije) i odgovora (učinka), procjenu izloženosti i označavanje opasnosti. Procjena opasnosti (rizika) obavlja se u skladu s postupcima propisanim ovim člankom te člancima 22. i 23. ovoga Pravilnika.
+Neovisno o stavku 1. ovoga članka procjena posebnih učinaka (primjerice stanjivanju ozonskog omotača i slično) za koje se ne mogu primijeniti postupci iz ovoga članka i članka 23. ovoga Pravilnika, procjena opasnosti (rizika) vezana uz takve učinke mora se izraditi za svaki pojedini slučaj. Ministarstvo u pisanom izvješću Europskoj komisiji navodi obrazloženje i poseban opis tih procjena.
+Kod procjenjivanja izloženosti potrebno je voditi računa o ciljanim skupinama ljudi ili dijelovima okoliša za koje je, na osnovi dostupnih podataka, opravdano pretpostaviti da su ili će biti izloženi toj tvari, posebno uzimajući u obzir proizvodnju, prijevoz, skladištenje, izradu pripravka ili druge vrste prerade, uporabu i odlaganje odnosno recikliranje ostataka i otpada.
+Kao rezultat procjene rizika donose se jedna ili više sljedećih odluka:
+a) tvar trenutno nije od biomedicinskog značaja i za sada ju nije potrebno dalje razmatrati kao opasnu, sve dok, sukladno članku 7., članku 9. stavku 3. i 4. odnosno članku 16. stavku 1. ovoga Pravilnika, o njoj ne budu dostupni daljnji podaci;
+b) tvar je od biomedicinskog značaja, a ministarstvo utvrđuje koji su dodatni podaci potrebni za reviziju procjene, no mora odgoditi zahtjev za dostavom tih podataka sve dok količina tvari stavljena u promet ne dostigne količine izražene u tonama prema odredbama članka 7. ovoga Pravilnika odnosno članka 9. stavka 3. ili 4. ovoga Pravilnika i s kojima zatim obnavlja ocjenu opasnosti;
+c) tvar je od biomedicinskog značaja, a ministarstvo zahtijeva odmah dodatne podatke;
+d) tvar je od biomedicinskog značaja, a ministarstvo odmah izrađuje prijedlog za smanjivanje opasnosti (rizika).
+Ako se procjenom opasnosti (rizika) ustanovi da je potrebno donijeti jednu od odluka iz točke b., c. ili d. stavka 4. ovoga članka, ministarstvo o tome obavještava prijavitelja. Prijavitelj ima mogućnost izraziti svoje mišljenje o tim odlukama i dostaviti dodatne podatke za koje smatra da bi bili od utjecaja na rezultate i procjenu opasnosti (rizika).
+Pri izradi prijedloga za smanjenje opasnosti (rizika) koji se odnose na određenu tvar, potrebno je voditi računa o mogućnosti da smanjenje izloženosti nekih ciljanih skupina ljudi ili nekih dijelova okoliša može povećati izloženost drugih skupina ili dijelova okoliša.
+Prijedlozi za smanjivanje rizika mogu između ostaloga uključivati:
+- izmjene ili dopune vezano za razvrstavanje, pakiranje i označavanje nove tvari koju predlaže prijavitelj na temelju članka 6. ili 9. ovoga Pravilnika,
+- izmjene ili dopune Sigurnosno-tehničkog lista kojeg predlaže prijavitelj nove tvari na temelju članka 6. ili 9. ovoga Pravilnika,
+- izmjene ili dopune predloženog postupanja s tvarima i sigurnosne mjere koje u tehničkoj dokumentaciji navede prijavitelj nove tvari prema točkama 2.3, 2.4. i 2.5 Priloga II. ovoga Pravilnika,
+- upute nadležnim upravnim i inspekcijskim tijelima za uvođenjem odgovarajućih mjera za zaštitu stanovništva i okoliša.

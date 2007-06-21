@@ -1,0 +1,3 @@
+# Članak 14.
+Ministarstvo po prijavi skraćene prijave nove tvari pregledava prijavnu dokumentaciju. Ako je prijavna dokumentacija potpuna, ministarstvo najkasnije u roku od 30 dana od zaprimanja prijave, obavještava prijavitelja o prijamu te mu izdaje registracijski broj pod kojim se tvar upisuje u popis.
+Kada prijavna dokumentacija nije potpuna, ministarstvo će od prijavitelja najkasnije u roku od 30 dana po zaprimanju prijavne dokumentacije zahtijevati njezinu dopunu. U tom slučaju kao datum zaprimanja skraćene prijave nove tvari uzima datum kada je prijavitelj dostavio dopunjenu dokumentaciju u skladu sa zahtjevima ministarstva.

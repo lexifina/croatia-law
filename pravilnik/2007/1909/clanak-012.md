@@ -1,0 +1,3 @@
+# Članak 12.
+Povodom zahtjeva ministarstva nova tvar se može uvrstiti u popis ELINCS pod njezinim trgovačkim imenom. Ako tvar nije razvrstana kao opasna kemikalija, tvar se može na popisu ELINCS nalaziti pod svojim trgovačkim nazivom najviše tri godine. U iznimnim slučajevima, kada ministarstvo ocijeni da bi navođenje pravoga kemijskog naziva po IUPAC nomenklaturi otkrilo ključne podatke o proizvodnji ili tržišnoj uporabi te tvari, tvar se može na ELINCS popisu nalaziti pod trgovačkim nazivom sve dok ministarstvo ocijeni da je to potrebno.
+Opasne tvari mogu se u popisu ELINCS navoditi pod trgovačkim nazivom sve dok se ne uvrste u popis iz Priloga I. ovoga Pravilnika kojim je uređeno razvrstavanje, pakiranje i označavanje opasnih kemikalija.

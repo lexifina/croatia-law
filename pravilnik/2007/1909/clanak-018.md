@@ -1,0 +1,5 @@
+# Članak 18.
+Nakon zaprimanja potpune ili skraćene prijave za novu tvar ministarstvo izrađuje procjenu opasnosti (rizika) koje može za čovjeka i okoliš predstavljati stavljanje u promet nove tvari putem za to ovlaštenih pravnih osoba. Procjena opasnosti (rizika) se obnavlja na temelju novih podataka dobivenih u skladu sa člankom 6., 9., i 16. ovoga Pravilnika. Za provjeru, nadzor i izradu procjene opasnosti (rizika) ministarstvo može:
+a) od prijavitelja zahtijevati potrebne količine uzoraka nove tvari, potrebne za analizu,
+b) neovisno o uvjetima iz članka 6. odnosno 9. ovoga Pravilnika od prijavitelja zahtijevati bilo koji od podataka iz Priloga III., odnosno dodatne podatke i ispitivanja, odnosno studije koje su potrebne pri izradi procjene opasnosti.
+Na temelju izrađene procjene opasnosti (rizika) ministarstvo u okviru svoje nadležnosti u suradnji s nadležnim tijelima drugih država uvodi potrebne mjere za siguran promet i uporabu novih tvari, daje upute za smanjivanje ili sprječavanje opasnosti za čovjeka ili okoliš te izdaje smjernice za daljnja ispitivanja.

@@ -1,0 +1,8 @@
+# Članak 23.
+Za svaku tvar koja se prijavljuje na temelju članka 6. ili 9. ovoga Pravilnika mora se izraditi procjena opasnosti (rizika) obzirom na učinke te tvari na okoliš. U prvoj fazi procjena obuhvaća, utvrđivanje opasnih svojstava tvari. Nakon utvrđivanja opasnih svojstava, postupak procjene nastavlja se u sljedećim fazama:
+1. procjena odnosa doze (koncentracije) i učinka, tamo gdje je to primjereno;
+2. procjenu izloženosti dijelova okoliša (npr. vodenog okoliša, kopnenog okoliša i zraka) za koje je vjerojatno da će biti izloženi tvari.
+Postupci za utvrđivanje opasnosti (rizika) moraju biti izvedeni u skladu sa smjernicama koje su utvrđene u Prilogu V. ovoga Pravilnika.
+Iznimno od odredaba stavka 1. ovoga članka:
+1. za tvari koje se prijavljuju u skladu s člankom 7. ovoga Pravilnika, ali nisu razvrstane kao opasne za okoliš, procjenu opasnosti (rizika) nije potrebno nastaviti te se u tom slučaju primjenjuje odluka iz članka 21. stavka 4. točke a) ovoga Pravilnika ako ne postoje drugi opravdani razlozi za zabrinutost i
+2. za tvari koje se prijavljuju u skladu s člankom 9. ovoga Pravilnika ako nema dovoljno podataka da bi se utvrdilo je li tvar primjereno razvrstati kao opasnu po okoliš, kod utvrđivanja rizika mora se prosuditi na osnovi drugih podataka, npr. podataka o fizikalno-kemijskim i otrovnim svojstvima predmetne tvari, postoje li bilo kakvi opravdani razlozi za zabrinutost glede učinaka te tvari na okoliš. Ako takvi opravdani razlozi ne postoje, utvrđivanje opasnosti (rizika) ne mora obuhvaćati postupke iz stavka 1. točke 1. i 2. ovoga članka. U tom slučaju primjenjuje se odluka iz članka 21. stavka 4. točke a) ovoga Pravilnika.
