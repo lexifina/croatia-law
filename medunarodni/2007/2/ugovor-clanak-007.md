@@ -1,0 +1,3 @@
+# Članak 7.
+SUDJELOVANJE JAVNOSTI U SVEZI S PLANOVIMA, PROGRAMIMA I POLITIKAMA KOJE SE ODNOSE NA OKOLIŠ
+Svaka stranka dužna je na odgovarajući praktičan i/ili drugi način osigurati sudjelovanje javnosti za vrijeme izrade planova i programa koji se odnose na okoliš, unutar jasnoga i pravičnog okvira, pruživši javnosti potrebne informacije. U tom okviru treba primjenjivati članak 6., stavke 3., 4. i 8. Nadležno tijelo vlasti utvrdit će koja javnost može sudjelovati, vodeći računa o ciljevima ove Konvencije. U mjeri u kojoj je to prikladno, svaka će stranka nastojati pružiti mogućnosti sudjelovanja javnosti u izradi politika koje se odnose na okoliš.

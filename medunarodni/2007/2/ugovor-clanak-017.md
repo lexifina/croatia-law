@@ -1,0 +1,3 @@
+# Članak 17.
+POTPISIVANJE
+Ova Konvencija bit će otvorena za potpisivanje u Aarhusu (Danska) 25. lipnja 1998., a nakon toga u sjedištu Ujedinjenih naroda u New Yorku do 21. prosinca 1998., državama članicama Gospodarskog povjerenstva za Europu, kao i državama koje imaju savjetodavni status pri Gospodarskom povjerenstvu za Europu sukladno stavcima 8. i 11. Odluke 36(IV) Gospodarskog i društvenog vijeća od 28. ožujka 1947., te organizacijama regionalnih gospodarskih integracija ustanovljenih od suverenih država članica Gospodarskog povjerenstva za Europu na koju su njezine države članice prenijele nadležnost u pitanjima koje uređuje ova Konvencija, uključujući ovlaštenje za sklapanje ugovora u svezi s tim pitanjima.
