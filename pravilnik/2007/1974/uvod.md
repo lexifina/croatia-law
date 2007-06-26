@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 2. Zakona o uzimanju i presađivanju dijelova ljudskog tijela u svrhu liječenja (»Narodne novine«, br. 177/04), uz prethodno pribavljeno mišljenje Hrvatske liječničke komore, ministar zdravstva i socijalne skrbi donosi
