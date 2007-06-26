@@ -1,0 +1,4 @@
+## Dokumentacija za ocjenjivanje biocidnih pripravaka
+# Članak 14.
+Zahtjev za ocjenjivanje biocidnog pripravka uz osobno ime, odnosno tvrtku podnositelja zahtjeva, adresu i sjedište podnositelja zahtjeva, osobno ime, odnosno tvrtku nositelja odobrenja i adresu, odnosno sjedište nositelja odobrenja, mora sadržavati i dokumentaciju o ispitivanjima, na temelju kojih je moguće u skladu s odredbama članka 13. ovoga Zakona, izraditi ocjenu učinkovitosti i opasnosti biocidnog pripravka.
+Iznimno od odredbe stavka 1. ovoga članka, nije potrebno navoditi podatke koji s obzirom na vrstu i očekivanu uporabu biocidnog pripravka nisu potrebni u postupku ocjenjivanja biocidnog pripravka kao ni podatke koje nije moguće navesti, jer to nije potrebno iz znanstvenih razloga ili kada to nije tehnički izvedivo. U takvim slučajevima potrebno je podnijeti Ministarstvu obrazloženje. Ministarstvo ocjenjuje osnovanost svakog zahtjeva zasebno.
