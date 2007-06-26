@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4. i članka 23. Zakona o krvi i krvnim pripravcima (»Narodne novine«, br. 79/06), uz prethodno pribavljeno mišljenje Hrvatske liječničke komore ministar zdravstva i socijalne skrbi donosi
