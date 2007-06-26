@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Svim brodovima odnosno plutajućim objektima i nepomičnim odobalnim objektima koji su prije stupanja na snagu ovog Pravilnika upisani u odgovarajuće upisnike, lučka kapetanija odrediti će najmanji broj članova posade i izdati Uvjerenje o najmanjem broju članova posade u skladu s odredbama ovog Pravilnika najkasnije u roku od 2 godine od dana stupanja na snagu Pravilnika.
+(2) Na zahtjev brodara ili kompanije lučka kapetanija može i prije isteka roka iz stavka 1. ovog članka odrediti najmanji broj članova posade za sigurnu plovidbu i izdati brodu odnosno plutajućem objektu i nepomičnom odobalnom objektu Uvjerenje o najmanjem broju članova posade u skladu s odredbama ovog Pravilnika.

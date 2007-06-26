@@ -1,0 +1,4 @@
+# Članak 25.
+(1) Zapovjednik, upravitelj stroja, svi časnici te članovi posade na putničkim ili ro-ro putničkim brodovima zaduženi za pružanje pomoći putnicima prema rasporedu za uzbunu, pored svjedodžbi iz članaka 19.i 20. ovog Pravilnika moraju imati i odgovarajuću svjedodžbu o mjerama sigurnosti na putničkom brodu, odnosno svjedodžbu o mjerama sigurnosti na ro-ro putničkim brodovima sukladno odredbama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca.
+(2) Zapovjednik, upravitelj stroja i svi časnici na brodovima iz članka 21. i 22. ovog Pravilnika moraju imati odgovarajuće svjedodžbe iz stavka 1. ovog članka.
+(3) Odredba stavka 1. i stavka 2. ovog članka ne primjenjuje se u odnosu na zapovjednike, časnike i članove posade putničkih i ro-ro putničkih brodova do 100 BT u nacionalnoj plovidbi.

@@ -1,0 +1,8 @@
+# Članak 3.
+(1) Svi članovi posade mogu biti ukrcani na poslove iste službe, ali niže razine odgovornosti sa svjedodžbom o osposobljenosti više razine odgovornosti u istoj službi.
+(2) Pored propisanog najmanjeg broja članova posade brod mora imati ukrcan dovoljan broj osposobljenih članova posade sukladno rasporedu za uzbunu, te rasporedu poslova i zadataka na brodu.
+(3) Svi članovi posade moraju imati odgovarajuće svjedodžbe o osposobljenosti i svjedodžbe o dopunskoj osposobljenosti sukladno stavku 1. i 2. ovoga članka.
+(4) Ako se radijski uređaji održavaju metodom održavanja na brodu, brod mora imati ukrcanog jednog radioelektroničara sa svjedodžbom o osposobljenosti radioelektroničara I. klase ili svjedodžbom o osposobljenosti radioelektroničara II. klase.
+(5) Svi putnički brodovi u međunarodnoj plovidbi i svi teretni brodovi u međunarodnoj plovidbi od 500 BT i više moraju imati ukrcanog jednog časnika sa svjedodžbom časnika odgovornog za sigurnosnu zaštitu broda.
+(6) Svi brodovi u kategoriji plovidbe 1 i kategoriji plovidbe 2, odnosno brodovi na međunarodnim putovanjima dužim od 3 dana, a na koje je ukrcano 100 ili više članova posade, odnosno stručnih radnika, moraju imati ukrcanog jednog liječnika u općoj službi.
+(7) Svi zapovjednici i časnici u službi palube moraju imati Potvrdu o osposobljenosti za motrenje i korištenje radarskog uređaja ili Potvrdu o osposobljenosti za motrenje i ucrtavanje radarskim uređajem i korištenje ARPA uređaja na radnoj razini ili Potvrdu o osposobljenosti za motrenje i ucrtavanje radarskim uređajem i korištenje ARPA uređaja na upravljačkoj razini, u skladu s odgovarajućim odredbama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca.
