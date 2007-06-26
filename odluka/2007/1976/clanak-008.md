@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 15., u stavku (2) riječ »tri« zamjenjuje se riječju »dva«, a broj »4« zamjenjuje se brojem »5.«
+U stavku (3), iza riječi »(sto komada novčanica u paketiću)« dodaju se nove riječi, koje glase: »dobre kakvoće, prikladne za promet, kakvoće koja je utvrđena postupkom sortiranja na strojevima za sortiranje i primjenom standarda za sortiranje novčanica prema prikladnosti za promet koje posebnom odlukom utvrđuje Hrvatska narodna banka, ili novotiskane novčanice ukoliko to banka posebno zatraži, i navede u Narudžbi gotovog novca.«
+U istom stavku, iza tabelarnog pregleda kovanog novca, dodaje se nova alineja koja glasi: »- Gotovinski centri mogu, na zahtjev banke, kovani novac predavati zapakiran u odgovarajući svitak (rola valjkastog oblika), u količinama koje za svako pakiranje i apoen utvrdi gotovinski centar.«

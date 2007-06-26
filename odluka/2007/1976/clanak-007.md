@@ -1,0 +1,3 @@
+# Članak 7.
+Članak 13. mijenja se i glasi:
+»(1) Banka je dužna dostaviti svakom gotovinskom centru preko kojega podiže ili polaže gotov novac ovjereni popis ovlaštenih osoba za podizanje/polaganje gotovog novca u ime banke te ovjereni popis registarskih oznaka vozila kojima će gotov novac biti otpremljen/dopremljen. Banka je dužna prvog radnog dana u tekućem mjesecu obnoviti dostavljeni popis ovlaštenih osoba za podizanje/polaganje gotovog novca i popis registarskih oznaka vozila kojima će gotov novac biti otpremljen/dopremljen. Ukoliko banka za podizanje/polaganje gotovog novca u ime banke ovlasti osobe koje nisu zaposlenici banke, u popisu je dužna navesti i naziv specijalizirane tvrtke za prijevoz gotovog novca.«
