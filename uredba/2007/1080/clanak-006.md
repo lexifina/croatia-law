@@ -1,0 +1,2 @@
+# Članak 6.
+Operator tržišta sklapa ugovore o otkupu električne energije s povlaštenim proizvođačima električne energije, koji prema posebnim propisima imaju pravo na poticajnu cijenu za proizvodnju električne energije iz postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja, sve dok ukupna planirana proizvodnja električne energije iz postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja ne dosegne minimalni udio propisan u članku 4. ove Uredbe.

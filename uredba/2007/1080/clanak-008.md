@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Pojedinačnu obvezu opskrbljivača iz članka 7. ove Uredbe, za sljedeću kalendarsku godinu, utvrđuje operator tržišta do 30. studenoga tekuće godine, na temelju relevantnih podataka koje operatoru tržišta dostavljaju operator prijenosnog sustava i operator distribucijskog sustava za razdoblje od 1. siječnja do 31. listopada tekuće godine.
+(2) Relevantni podaci iz stavka 1. ovog članka odnose se na ukupno ostvarenu opskrbu električnom energijom i udio pojedinog opskrbljivača u ukupno ostvarenoj opskrbi električnom energijom.
+(3) U slučaju promjene u udjelima opskrbljivača u ukupnoj opskrbi električnom energijom ili pojave novog opskrbljivača na tržištu električne energije tijekom kalendarske godine, operator tržišta će u roku od 30 dana od dana dostave ugovora o opskrbi odrediti nove minimalne udjele i pojedinačne obveze za sve opskrbljivače.
+(4) Pripadajući udio novog opskrbljivača u ukupnoj opskrbi električnom energijom odredit će se prema podacima iz dostavljenog ugovora o opskrbi.
