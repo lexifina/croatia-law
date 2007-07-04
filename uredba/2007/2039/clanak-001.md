@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o uvjetima kriterijima, visini i načinu ostvarivanja prava dodjele državnih potpora male vrijednosti otočnim poslodavcima za očuvanje radnih mjesta (»Narodne novine«, broj 77/2006), (u daljnjem tekstu: Uredba) u članku 4. alineji 3. iza riječi: »(»Narodne novine, broj 140/2005)« briše se riječ: »i«, dodaje se zarez, a iza riječi: »(»Narodne novine«, broj 50/2006)« dodaju se riječi: »i Odluke o objavljivanju pravila o potporama male vrijednosti (»Narodne novine«, 45/2007).«.
