@@ -1,0 +1,2 @@
+# Članak 11.
+U slučaju nailaska broda na tropski ciklon (tropsku oluju) ili njihov razvoj, vjetar jačine 10 ili više bofora za koji nije primljeno upozorenje o oluji, temperaturu zraka ispod ledišta praćenu vjetrom olujne snage koji uzrokuje opasno nagomilavanje leda na nadgrađima ili opasan led, zapovjednik broda je dužan izvještajem o opasnosti na bilo koji način upozoriti brodove u blizini i nadležno tijelo na kopnu s kojima može stupiti u vezu.

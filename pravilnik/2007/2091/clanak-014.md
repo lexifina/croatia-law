@@ -1,0 +1,3 @@
+# Članak 14.
+Rezultate mjerenja i opažanja brodovi iz članka 3. upisuju u Brodski meteorološki dnevnik ili na odgovarajući magnetni medij, a vremenski izvještaj predaju obalnoj radijskoj postaji ili direktno meteorološkoj službi, što je moguće prije, ali ne kasnije od 12 sati, odnosno u području izuzetno malog broja meteoroloških podataka sa brodova, ne kasnije od 24 sata nakon obavljenog mjerenja i opažanja.
+Odašiljanje meteoroloških izvještaja je besplatno kada se izvještaji predaju prema propisima Međunarodne telekomunikacijske udruge odgovarajućim obalnim radijskim postajama na propisan način.
