@@ -1,0 +1,1 @@
+Na temelju članka 8. stavaka 9. i 10. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 44/96, 57/96, 124/97, 78/99, 70/2000, 73/2000, 87/2000, 127/2000, 94/2001, 88/2002,42/2005 i 90/2005), Vlada Republike Hrvatske je na sjednici održanoj 28. lipnja 2007. godine donijela
