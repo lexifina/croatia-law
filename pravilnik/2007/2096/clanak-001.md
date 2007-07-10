@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuju posebni uvjeti koje moraju ispunjavati pravne osobe koje se bave proizvodnjom, prometom ili korištenjem opasnih kemikalija označenih kao vrlo otrovne kemikalije, otrovne kemikalije, štetne kemikalije, nagrizajuće kemikalije, nadražujuće kemikalije, kemikalije koje dovode do preosjetljivosti, kancerogene kemikalije, mutagene kemikalije i reproduktivno toksične kemikalije, kao i uvjeti koje moraju ispunjavati fizičke osobe koje obavljaju promet na malo ili iste koriste.

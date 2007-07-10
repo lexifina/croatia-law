@@ -1,0 +1,2 @@
+# Članak 25.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o posebnim uvjetima koje moraju ispunjavati pravne i fizičke osobe koje se bave proizvodnjom, prometom, uporabom ili zbrinjavanjem otrova i o uvjetima koje moraju ispunjavati pravne i fizičke osobe koje obavljaju promet na malo ili rabe otrove (»Narodne novine« br. 92/99 i 151/02) i Pravilnik o uvjetima za držanje otrova skupine III u prostorijama koje služe za druge potrebe (»Narodne novine« br. 7/01 i 182/04).

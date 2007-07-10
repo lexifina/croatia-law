@@ -1,0 +1,3 @@
+# Članak 16.
+Prostorije ili ormari u kojima se smještaju i čuvaju opasne kemikalije označene kao vrlo otrovne, otrovne, nagrizajuće s oznakom da izazivaju teške opekotine, kancerogene kemikalije kategorije 1 i 2, mutagene kemikalije kategorije 1 i 2 i reproduktivno toksične kemikalije kategorije 1 i 2 moraju biti osigurane od neovlaštenog pristupa i pod ključem.
+Vrlo otrovne kemikalije moraju se držati u posebnim prostorijama odvojeno od ostalih opasnih kemikalija i pod ključem te se smiju prodati samo pravnoj osobi koja ima odobrenje za rad s ovim opasnim kemikalijama od ministarstva nadležnog za zdravstvo.

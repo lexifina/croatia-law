@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2., članka 42. stavka 3. i članka 45. stavka 3. Zakona o kemikalijama (»Narodne novine« br. 150/05) ministar zdravstva i socijalne skrbi uz suglasnost ministra gospodarstva, rada i poduzetništva donosi

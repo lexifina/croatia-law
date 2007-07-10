@@ -1,0 +1,2 @@
+# Članak 20.
+Pravna i fizička osoba obvezna je osigurati radnicima radnu obuću, odjeću i druga osobna zaštitna sredstva (npr. zaštitnu kacigu, naočale ili štitnik za oči, filtarsku polumasku, zaštitnu masku, samostalni uređaj za disanje, kombinezone, odgovarajuće zaštitne rukavice, pregaču i dr.) izabrana prema hrvatskim normama i prikladnima za opasnu kemikaliju, proces u kojem se koristi i količine u procesu.
