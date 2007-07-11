@@ -1,0 +1,3 @@
+# Članak 5.
+Stručnjaci Hrvatskog zavoda za poljoprivrednu savjetodavnu službu i mjerodavni zaposlenici u uredima državne uprave u županijama, jedinicama lokalne samouprave (općinama i gradovima) dužni su upoznati obveznike iz članka 2. ove Naredbe o obvezi provođenja mjera propisanih člankom 3. ove Naredbe, te o kaznenim odredbama u slučaju neprovođenja istih.
+Inspekcijski nadzor nad provedbom mjera propisanih ovom Naredbom provode fitosanitarna inspekcija i šumarska inspekcija sukladno Zakonu o biljnom zdravstvu, te poljoprivredna inspekcija sukladno Zakonu o poljoprivrednom zemljištu (»Narodne novine«, br. 66/01, 87/02, 48/05 i 90/05).

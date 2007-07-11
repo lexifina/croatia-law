@@ -1,0 +1,2 @@
+# Članak 2.
+Vlasnici i korisnici poljoprivrednog obrađenog i neobrađenog zemljišta (vrtova, oranica, livada itd.), šuma i lovišta, ovlaštenici upravljanja vodotocima i kanalima te površinama uz vodotoke i kanale, ovlaštenici upravljanja i održavanja površina uz javne prometnice i željezničke pruge, ovlaštenici upravljanja parkovima i drugim javnim zelenim površinama (u daljnjem tekstu: obveznici) dužni su provoditi mjere uklanjanja ambrozije propisane člankom 3. ove Naredbe.
