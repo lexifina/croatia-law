@@ -1,0 +1,1 @@
+Na temelju članka 29. i 30. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine« br. 143/02 i 33/05) i članka 11. Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom Upravno vijeće Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom na sjednici održanoj 2. svibnja 2007. godine donosi
