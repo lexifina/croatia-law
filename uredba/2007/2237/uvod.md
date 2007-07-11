@@ -1,0 +1,1 @@
+Na temelju članaka 42. i 62. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 79/2006 i 105/2006), Vlada Republike Hrvatske je na sjednici održanoj 9. srpnja 2007. godine donijela

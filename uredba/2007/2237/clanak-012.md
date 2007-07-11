@@ -1,0 +1,2 @@
+# Članak 12.
+Ured Vijeća za nacionalnu sigurnost i nadležna sigurnosno-obavještajna agencija koja je provodila sigurnosnu provjeru, dužni su izvješće o provedenoj sigurnosnoj provjeri i dokumente nastale u postupku provođenja sigurnosne provjere klasificirati stupnjem tajnosti u skladu s razinom tajnosti za koju se izdaje certifikat, čuvati ih izdvojeno od ostale dokumentacije i postupati s njima sukladno zakonu.
