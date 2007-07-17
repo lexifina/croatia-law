@@ -1,0 +1,1 @@
+Na temelju odredbi članka 149. i članka 223. Zakona o investicijskim fondovima (»Narodne novine«, br. 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 28. lipnja 2007. godine
