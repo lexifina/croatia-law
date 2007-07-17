@@ -1,0 +1,1 @@
+Na temelju odredbi članka 119. stavka 2 i članka 120. Zakona o investicijskim fondovima (»Narodne novine« br. 150/05), Hrvatska agencia za nadzor financijskih usluga donijela je na sjednici održanoj 28. lipnja 2007. godine
