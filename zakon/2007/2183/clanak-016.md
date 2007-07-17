@@ -1,0 +1,6 @@
+# Članak 16.
+U članku 48. stavku 3. iza riječi: »pridodani staž«, zarez se briše i dodaju se riječi: »i staž koji se dodaje za izračun mirovine,«.
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+»(4) Nakon smrti korisnika mirovine, mirovina koja je u dijelu ili u cijelosti bila određena kao osnovna mirovina, u slučaju ostvarivanja prava na obiteljsku mirovinu, obiteljska mirovina se određuje primjenom mirovinskog faktora prema odredbama Zakona o mirovinskom osiguranju.
+(5) Ako je član obveznog fonda korisnik invalidske mirovine zbog profesionalne nesposobnosti umro, a u trenutku smrti je bio zaposlen, odnosno obavljao djelatnost na temelju koje je bio obvezno osiguran, članovi obitelji mogu ostvariti pravo na obiteljsku mirovinu pod istim uvjetima kao i nakon smrti osiguranika.
+(6) Ako je član obveznog fonda korisnik invalidske mirovine zbog profesionalne nesposobnosti za rad umro, a u trenutku smrti nije bio zaposlen, odnosno nije obavljao djelatnost na temelju koje bi bio obvezno osiguran, članovi obitelji mogu ostvariti obiteljsku mirovinu kao i nakon smrti korisnika mirovine samo iz obveznog mirovinskog osiguranja na temelju generacijske solidarnosti, a sredstva s osobnog računa putem Središnjeg registra osiguranika prenose se Hrvatskom zavodu za mirovinsko osiguranje.«

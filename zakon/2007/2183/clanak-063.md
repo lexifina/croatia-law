@@ -1,0 +1,5 @@
+# Članak 63.
+(1) Do dana prijama Republike Hrvatske u Europsku uniju imovina obveznog fonda mora se ulagati u vrijednosne papire čiji je izdavatelj Republika Hrvatska odnosno Hrvatska narodna banka najmanje do 50 % imovine obveznog fonda.
+(2) Do dana prijama Republike Hrvatske u Europsku uniju imovina obveznog fonda može se ulagati u oblike imovine država članica i država članica OECD-a najviše do 20% imovine obveznog fonda.
+(3) Do dana prijama Republike Hrvatske u Europsku uniju imovina obveznog fonda može se ulagati u oblike imovine država članica i država članica OECD-a najviše do 25% imovine dobrovoljnog fonda.
+(4) Do dana prijama Republike Hrvatske u Europsku uniju, ako je godišnji prinos obveznoga mirovinskog fonda kroz razdoblje od prethodne tri kalendarske godine manji od zajamčenog prinosa prema članku 23. ovoga Zakona, mirovinsko društvo uplatit će razliku mirovinskom fondu do zajamčenog prinosa iz jamstvenog pologa, a ako to nije dovoljno, iz kapitala mirovinskog društva do najviše 80% kapitala društva, a preostali iznos je obveza državnog proračuna.

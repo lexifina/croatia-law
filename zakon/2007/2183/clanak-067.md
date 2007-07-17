@@ -1,0 +1,2 @@
+# Članak 67.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, s tim da: odredba članka 6. stavka 4. i 5. iz članka 3. ovoga Zakona; odredba članka 69.b stavka 3. iz članka 32. ovoga Zakona; odredba članka 79. stavka 3. iz članka 37. ovoga Zakona; odredba članka 105. stavka 4. i 5. iz članka 45. ovoga Zakona; odredbe članka 114.a stavka 2. i 114.b stavka 2. iz članka 55. ovoga Zakona i odredba članka 116. stavka 2. i 3. iz članka 57. ovoga Zakona, stupaju na snagu danom prijama Republike Hrvatske u Europsku uniju.
