@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001. i 135/2006.) te članka 12. stavka 4. Zakona o kreditnim unijama (»Narodne novine«, br. 141/2006.) guverner Hrvatske narodne banke donosi
