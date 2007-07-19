@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Ovlaštena osoba za obradu, oporabu i/ili zbrinjavanje opasnog medicinskog otpada, novonastalom otpadu mora odrediti novi ključni broj po posebnom propisu te osigurati materijalnu ili energetsku oporabu korisnih svojstava otpada koji nastaje obradom medicinskog otpada.
+(2) Energetsku oporabu otpada koji nastaje obradom medicinskog otpada, obrađivač je dužan obaviti predajom ovlaštenoj spalionici otpada ili nekom drugom energetskom postrojenju ovlaštenom za spaljivanje ili suspaljivanje neopasnog otpada.
+(3) Ukoliko u županiji i županijama koje graniče sa županijom na čijem prostoru je obrađeni medicinski otpad nastao, ne postoji spalionica otpada ili ovlaštena osoba koja upravlja energetskim postrojenjem za oporabu predmetnog otpada, ovaj otpad dopušteno je odložiti na odlagalište otpada sukladno posebnom propisu.

@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Čelnik velikog izvora medicinskog otpada, dužan je imenovati odgovornu osobu za odvojeno skupljanje i privremeno skladištenje medicinskog otpada na mjestu nastanka, izradu plana gospodarenja medicinskim otpadom na mjestu nastanka sukladno posebnom propisu te obuku pomoćnog osoblja povezanog s razdvajanjem, odvojenim skupljanjem, označavanjem spremnika, privremenim skladištenjem, oporabom i/ili zbrinjavanjem medicinskog otpada na mjestu nastanka i vođenje potrebnih evidencija i dostave podataka temeljem Zakona o otpadu.
+(2) Za poslove iz stavka 1. ovoga članka kad je u pitanju mali izvor medicinskog otpada, odgovorna osoba je čelnik malog izvora medicinskog otpada.

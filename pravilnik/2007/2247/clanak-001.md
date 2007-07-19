@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuju se načini i postupci gospodarenja medicinskim otpadom koji nastaje prilikom pružanja zaštite zdravlja ljudi i životinja i iz srodnih istraživačkih djelatnosti (u daljnjem tekstu: medicinski otpad).
+(2) Gospodarenje medicinskim otpadom u smislu ovoga Pravilnika podrazumijeva odvojeno skupljanje i privremeno skladištenje medicinskog otpada na mjestu nastanka, a u okviru djelatnosti gospodarenja medicinskim otpadom: skupljanje i prijevoz te privremeno skladištenje, obradu, oporabu i/ili zbrinjavanje medicinskog otpada, kao i oporabu i/ili zbrinjavanje otpada koji nastaje obradom, oporabom i/ili zbrinjavanjem medicinskog otpada.
+(3) Odredbe ovoga Pravilnika ne odnose se na gospodarenje radioaktivnim medicinskim otpadom te ostalim vrstama otpada koje nastaju u zdravstvenoj djelatnosti koje se uređuje posebnim propisima.
+(4) Odredbe ovoga Pravilnika ne odnose se na postupke sterilizacije uzgojenih mikroorganizama te tkiva i opreme koji spadaju u djelatnost redovitog radnog procesa mikrobioloških i sličnih laboratorija kao i kirurških i sličnih odjela i ordinacija koji se ne smatraju djelatnošću gospodarenja otpadom i obavljaju se sukladno pravilima medicinske struke.

@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Ovlaštenik koncesije na temelju članka 21. stavak 1. ovoga Pravilnika, dužan je dva puta godišnje dostavljati Agenciji za zaštitu okoliša izviješće o vrstama i količinama obrađenog, oporabljenog i/ili zbrinutog medicinskog otpada i popisom svih proizvođača medicinskog otpada s kojima ima sklopljen ugovor iz članka 22. stavak 1. ovoga Pravilnika.
+(2) Uz podatke iz stavka 1. ovoga članka, ovlaštenik koncesije dužan je Agenciji za zaštitu okoliša dostavljati i podatke o količini, ključnom broju sukladno posebnom propisu te načinu gospodarenja otpadom koji je nastao postupcima obrade, oporabe i/ili zbrinjavanja medicinskog otpada i nazivu ovlaštene osobe koja je preuzela novonastali otpad na oporabu i/ili zbrinjavanje.
