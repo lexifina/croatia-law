@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 2. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004 i 141/2006), u vezi s člankom 11. stavkom 1. alinejom 7. Uredbe o razvrstaju luka otvorenih za javni promet i luka posebne namjene (»Narodne novine«, broj 110/2004), Vlada Republike Hrvatske je na sjednici održanoj 19. srpnja 2007. godine donijela
