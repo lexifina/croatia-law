@@ -1,0 +1,6 @@
+## Označavanje prirodnih izvorskih voda
+# Članak 34.
+Naziv pod kojim se prirodna izvorska voda stavlja na tržište je »prirodna izvorska voda« ili u slučaju dodavanja ugljik (IV)-oksida »prirodna izvorska voda s CO« ili »gazirana prirodna izvorska voda«.
+Iznimno od odredbi stavka 1. ovoga članka naziv pod kojim se prirodna izvorska voda iz članka 22. i 23. stavka 2. i 3. ovoga Pravilnika stavlja na tržište Republike Hrvatske može biti »izvorska voda«.
+Zabranjeno je na ambalaži, deklaraciji ili pri bilo kojoj vrsti reklamiranja, stavljanje oznaka, trgovačkih imena, zaštitnih žigova, naziva marki proizvoda, slikovnih prikaza ili drugih oznaka, bilo da su u obliku amblema ili ne, koji bi mogli dovesti do zamjene s prirodnom mineralnom vodom, a posebno oznake »kiselica«, »mineralna voda«, »mineral« ili bilo koje izvedenice tih riječi.
+U slučaju vode za piće zapakirane u ambalažu, koja ne udovoljava zahtjevima za prirodnu izvorsku vodu propisanim ovim Pravilnikom, zabranjeno je na ambalaži, deklaraciji ili pri bilo kojoj vrsti reklamiranja, stavljanje oznaka, trgovačkih imena, zaštitnih žigova, naziva marki proizvoda, slikovnih prikaza ili drugih oznaka, bilo da su u obliku amblema ili ne, koji bi mogli dovesti do zamjene s prirodnom izvorskom vodom, a posebno oznake »izvorska voda«, »izvor«, »vrelo« ili bilo koje izvedenice tih riječi.

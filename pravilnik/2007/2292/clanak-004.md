@@ -1,0 +1,5 @@
+## Postupak priznavanja prirodnih mineralnih i prirodnih izvorskih voda
+# Članak 4.
+Na tržište Republike Hrvatske pod nazivom »prirodna mineralna voda« i »prirodna izvorska voda« može se stavljati samo voda za koju je proveden postupak priznavanja prirodne mineralne odnosno prirodne izvorske vode (u daljnjem tekstu: postupak priznavanja) i izdano rješenje o priznavanju prirodne mineralne odnosno prirodne izvorske vode sukladno odredbama ovoga Pravilnika.
+Postupak priznavanja provodi Povjerenstvo za priznavanje prirodnih mineralnih i prirodnih izvorskih voda (u daljnjem tekstu: Povjerenstvo), koje se osniva u Ministarstvu poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo), a imenuje ga ministar poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: ministar).
+Povjerenstvo iz stavka 2. ovoga članka sastavljeno je od stalnih članova koji su stručnjaci za kakvoću vode, tehnologiju voda, mikrobiologiju, hidrogeologiju i hidrograđevinu te predstavnika Ministarstva.

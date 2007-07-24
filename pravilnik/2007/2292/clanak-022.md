@@ -1,0 +1,5 @@
+## Priznavanje prirodnih mineralnih i prirodnih izvorskih voda iz Europske unije
+# Članak 22.
+Na postupak priznavanja prirodne mineralne i prirodne izvorske vode koja se crpi iz tla države članice Europske unije i koja je priznata od nadležnog tijela države članice Europske unije ne primjenjuju se odredbe propisane člankom 21., 23., 25., 29. i 30. ovoga Pravilnika.
+Ministar priznaje prirodnu mineralnu odnosno prirodnu izvorsku vodu iz stavka 1. ovoga članka, ako podnositelj zahtjevu priloži službeni dokument izdan od nadležnog tijela države članice Europske unije kojim dokazuje da je prirodna mineralna odnosno prirodna izvorska voda priznata odnosno da se stavlja na tržište sukladno odredbama propisa Europske unije kojima se uređuje područje prirodnih mineralnih i prirodnih izvorskih voda, te je za nju Povjerenstvo dalo pozitivno mišljenje.
+Valjanost službenog dokumenata iz stavka 2. ovoga članka je pet godina od dana izdavanja. Ukoliko službeni dokument bude obnovljen prije isteka navedenog razdoblja neće biti potrebno ponoviti postupak priznavanja.

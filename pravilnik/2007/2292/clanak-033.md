@@ -1,0 +1,3 @@
+# Članak 33.
+Deklaracija prirodne mineralne vode s koncentracijom fluorida većom od 1,5 mg/l mora sadržavati oznaku »sadrži više od 1,5 mg/l fluorida: nije pogodna za uobičajenu prehranu dojenčadi i djece ispod 7 godina starosti« koja se mora nalaziti u neposrednoj blizini trgovačkog naziva, te biti napisana uočljivim slovima.
+Na temelju uvjeta iz stavka 1. ovoga članka na deklaraciji mora biti navedena i stvarna količina fluorida u odnosu na fizikalnokemijski sastav karakterističnih sastojaka prirodne mineralne vode, a mora se nalaziti u navodu analitičkog sastava karakterističnih sastojaka prirodne mineralne vode iz članka 35. stavka 1. podstavka a) ovoga Pravilnika.
