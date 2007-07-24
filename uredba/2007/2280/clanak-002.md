@@ -1,0 +1,23 @@
+# Članak 2.
+Pojedini pojmovi u smislu ove Uredbe imaju sljedeća značenja:
+- emisija CO2 je emisija koja nastaje oksidacijom ugljika u CO2 pri izgaranju goriva fosilnog podrijetla i kemijskom pretvorbom (bez izgaranja) u uređajima, tehnološkim procesima, objektima i industrijskim pogonima kao i pri izgaranju otpada fosilnog podrijetla kod procesa termičke obrade otpada ili kod suspaljivanja u stacionarnim izvorima,
+- gorivo je kruti, tekući ili plinoviti zapaljivi materijal korišten za izgaranje, isključujući otpad,
+- kruto gorivo je ugljen, briketi ugljena bez smole kao veziva, koks, piljevina i briketi od piljevine, prirodno drvo svih oblika,
+- tekuće gorivo je plinsko i loživo ulje prema Uredbi o kakvoći tekućih naftnih goriva,
+- plinovito gorivo je gorivo koje je pri temperaturi 273 K i tlaku 101,3 kPa u plinovitom agregatnom stanju,
+- gorivo od biomase je gorivo u cijelosti ili djelomice biljnog podrijetla iz poljoprivrede ili šumarstva, koji se koristi kao energetski obnovljiva vrsta goriva, kao i sljedeće vrste otpada koje se koriste kao gorivo:
+-biljni otpad iz poljoprivrede ili šumarstva;
+-biljni otpad iz prehrambene industrije, ako se dobivena toplina koristi;
+-vlaknasti biljni otpad iz proizvodnje primarne celuloze i papira iz celuloze, ako se spaljuje na mjestu proizvodnje i ako se dobivena toplina koristi;
+-otpad od pluta;
+-drvni otpad, osim drvnog otpada koji sadrži halogene organske spojeve ili teške metale koji nastaju uporabom proizvoda za zaštitu drveta ili premaza, i koji poglavito uključuje drvni otpad koji potječe od građevinskog otpada ili otpada nastalog rušenjem,
+-gorivo iz otpada (GIO), osim udjela otpada fosilnog podrijetla koji se procjenjuje prema posebnom postupku,
+-otpad fosilnog podrijetla su gume, boje, lakovi, mineralna ulja¸ sintetičke tkanine, plastika i drugi otpad fosilnog podrijetla,
+- biorazgradivi otpad je otpad koja podliježe anaerobnoj ili aerobnoj razgradnji,
+- obveznici plaćanja naknade su pravne i fizičke osobe koje u okviru svoje djelatnosti imaju u vlasništvu ili koriste pojedinačni stacionarni izvor emisije CO2,
+- pojedinačni stacionarni izvori emisije CO2 su tehnološki procesi, industrijski pogoni, uređaji i objekti iz kojih se ispušta CO2 u zrak u količini većoj od 30 tona godišnje,
+- ispust je mjesto ispuštanja CO2 iz pojedinačnog stacionarnog izvora emisije u zrak,
+- iznos dobiti prije oporezivanja je ukupan prihod obveznika plaćanja u kalendarskoj godini umanjen za ostvarene rashode u kalendarskoj godini,
+- ulaganja u energetsku učinkovitost, obnovljive izvore energije i druge projekte smanjenja emisije stakleničkih plinova su ulaganja obveznika plaćanja u projekte i programe energetske učinkovitosti, obnovljive izvore energije i druge projekte i programe smanjenja emisije stakleničkih plinova u kalendarskoj godini,
+- najbolja raspoloživa tehnika je najučinkovitiji i najnapredniji razvojni stupanj djelatnosti i s njome povezanih načina proizvodnje koji je dostupan obvezniku plaćanja naknade na emisiju CO2 i koji može biti primjerena osnova za određivanje graničnih vrijednosti emisija kojima se postiže sprječavanje, odnosno smanjivanje utjecaja na okoliš,
+- dozvoljena kvota (pravo na emisiju) je dopuštenje za emisiju jedne tone ekvivalenta ugljikovog dioksida tijekom određenoga razdoblja, koje se daje posebnim propisom.
