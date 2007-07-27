@@ -1,0 +1,8 @@
+I. Poništava se dio Javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije - tablica 1. djelatnost radija - točka 16. Općina Sutivan (M-SU).
+II. Ova odluka stupa na snagu danom donošenja i objavit će se u »Narodnim novinama«.
+| Obrazloženje
+Vijeće za elektroničke medije na svojoj 138. sjednici održanoj 5. lipnja 2007. godine donijelo je Odluku o raspisivanju Javnog natječaja broj 02/07 za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije. Javni natječaj objavljen je u »Narodnim novinama« broj 58/07 od 6. lipnja 2007. godine i u propisanom roku na javni natječaj ponudu je dostavio ponuditelji Udruga multimedijalne kulture Crno Bili Svit.
+Vijeće je razmatranjem, usporedbom i ocjenom zaprimljenih ponuda utvrdilo da jedini ponuditelj Udruga Crno Bili Svit nije podnijela prijavu koja ispunjava sve uvjete propisane Javnim natječajem budući da joj nedostaje programska osnova s obrazloženom programskom orijentacijom, nazivom, opisom i trajanjem pojedinih emisija, a sve u skladu s odredbama članaka 11. do 37. Zakona o elektroničkim medijima i međunarodnih ugovora koje je Republika Hrvatska potvrdila, podatci o strukturi vlasništva, podatci o financijskoj sposobnosti ponuđača u skladu s Pravilnikom o posebnim uvjetima za obavljanje djelatnosti radija i televizije.
+Slijedom navedenoga odlučeno je kao u dispozitivu.
+UPUTA O PRAVNOM LIJEKU
+Protiv ove odluke nije dopuštena žalba, jer je ona konačna, ali se može pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske u roku od 30 dana od dana primitka odluke. Tužba se predaje ili šalje neposredno sudu Republike Hrvatske u Zagrebu, a može se podnijeti i na zapisnik kod redovnog suda nadležnog za obavljanje pravne pomoći.
