@@ -1,0 +1,2 @@
+# Članak 36.
+Ministar nadležan za poslove financija će uz suglasnost ministra u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona propisati visinu pomorskog dodatka člana posade broda, način iskazivanja podataka o oporezivim primicima i primicima na koje se ne plaća porez na dohodak (pomorski dodatak) te porezno priznatim izdacima i način dokazivanja broja dana u plovidbi (članak 128. stavak 10.).
