@@ -1,0 +1,3 @@
+## ODGODA STUPANJA NA SNAGU ODREDABA O SVJEDODŽBI O DODATNOJ ZAŠTITI I POSEBNA PRAVA U PRIJELAZNOM RAZDOBLJU
+# Članak 50.
+U roku od 6 mjeseci od dana stupanja Republike Hrvatske u punopravno članstvo Europske unije nositelj temeljnog patenta u Republici Hrvatskoj priznatog za lijek namijenjen ljudima ili životinjama odnosno za sredstvo za zaštitu bilja, za koje je na dan stupanja Republike Hrvatske u punopravno članstvo Europske unije u nekoj od država članica Europske unije ili u Republici Hrvatskoj nakon 1. siječnja 2008. godine stečeno odobrenje nadležnog tijela za stavljanje u promet, može zahtijevati izdavanje Svjedodžbe o dodatnoj zaštiti u Republici Hrvatskoj.
