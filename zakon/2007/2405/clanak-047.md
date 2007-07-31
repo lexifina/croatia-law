@@ -1,0 +1,7 @@
+# Članak 47.
+Članak 159. mijenja se i glasi:
+»(1) O molbi i prijedlogu za uvjetni otpust odlučuje Povjerenstvo koje se sastoji od predsjednika i četiri člana. Povjerenstvo imenuje ministar nadležan za poslove pravosuđa i to Predsjednika Povjerenstva iz Središnjeg ureda Uprave za zatvorski sustav, dva člana iz reda sudaca koje predlaže predsjednik Vrhovnog suda Republike Hrvatske, jednog člana iz državnog odvjetništva kojeg predlaže glavni državni odvjetnik Republike Hrvatske, a za jednog člana imenuje suca izvršenja prema mjestu izvršavanja kazne zatvora. Predsjednik i članovi Povjerenstva imaju zamjenike, koje imenuje ministar nadležan za poslove pravosuđa.
+(2) Molba za uvjetni otpust i prijedlog kojeg podnosi državni odvjetnik, podnosi se Povjerenstvu putem uprave kaznionice, odnosno zatvora radi davanja mišljenja.
+(3) Prije donošenja rješenja Povjerenstvo će pregledati osobnik, dokumentaciju, mišljenje i prijedlog kaznionice, odnosno zatvora, preslušati zatvorenika, upravitelja ili osobu koju on ovlasti, zatražiti mišljenje centra za socijalnu skrb, a po potrebi preslušati i druge stručnjake.
+(4) Prigodom odlučivanja o uvjetnom otpustu procjenjivat će se uspješnost u provođenju programa izvršavanja, ranija osuđivanost, životne okolnosti i očekivano djelovanje uvjetnog otpusta na zatvorenika.
+(5) Upravitelj može zatvorenika uvjetno otpustiti do dva mjeseca prije isteka kazne pod uvjetima propisanim Kaznenim zakonom.«
