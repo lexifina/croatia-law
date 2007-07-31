@@ -1,0 +1,4 @@
+# Članak 32.
+Strano audiovizualno djelo može se u Republici Hrvatskoj distribuirati, javno prikazivati i/ili na drugi način prezentirati javnosti za kućnu uporabu ako je obrađeno na standardnom hrvatskom jeziku ili njegovim narječjima te je na odgovarajući način označena njegova kategorizacija sukladno ovom Zakonu.
+Strano audiovizualno djelo može se u Republici Hrvatskoj javno prikazivati iako nije prevedeno i obrađeno na standardnom hrvatskom jeziku, ako se prikazuje u okviru smotri, filmskih sajmova, nacionalnih revija, filmskih retrospektiva, festivala, edukativnih programa, internih zatvorenih projekcija sudionika audiovizualne industrije, realizacije projekta u skladu s bilateralnim ugovorima o kulturnoj suradnji te kada je broj projekcija ograničen. Organizator je dužan najkasnije sedam dana prije početka ovih manifestacija obavijestiti Centar o njihovom održavanju.
+U originalu se mogu prikazivati djela na jezicima nacionalnih manjina.

@@ -1,0 +1,3 @@
+# Članak 15.
+Postupak raspisivanja javnog poziva, uvjeti podnošenja prijave te kriteriji za dodjelu sredstava, rad umjetničkih savjetnika i Umjetničkog vijeća, kao i nadzor nad namjenskom potrošnjom sredstava provode se na način propisan ovim Zakonom i Pravilnikom o postupku, kriterijima i rokovima za provedbu Nacionalnog programa.
+Pravilnikom iz stavka 1. ovoga članka utvrđuje se što se smatra niskoproračunskim ili složenim filmom, kao i program potpora sukladno posebnim propisima o državnim potporama. Pravilnik iz stavka 1. ovoga članka donosi Vijeće na prijedlog ravnatelja, a uz prethodno pribavljeno mišljenje Ministarstva kulture. Pravilnik se objavljuje u »Narodnim novinama«.
