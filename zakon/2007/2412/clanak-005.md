@@ -1,0 +1,3 @@
+# Članak 5.
+Članak 17. mijenja se i glasi:
+»Stavljanjem u promet od strane nositelja isključivih prava iz zaštićene topografije ili uz njegovu izričitu suglasnost, na području Republike Hrvatske, odnosno nakon stupanja Republike Hrvatske u punopravno članstvo Europske unije na području neke od država Europske unije odnosno država koje su stranke ugovornice Ugovora o Europskom ekonomskom prostoru, zaštićene topografije ili poluvodičkog proizvoda proizvedenog korištenjem zaštićene topografije, iscrpljuju se za područje Republike Hrvatske isključiva prava koja proizlaze iz zaštićene topografije.«
