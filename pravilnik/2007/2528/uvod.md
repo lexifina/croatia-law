@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 2. točke 13. i članka 38. stavka 1. točke 6. Zakona o reviziji (»Narodne novine« broj 146/05), te članka 13. stavka 2. točke 4. Statuta Hrvatske revizorske komore, na sjednici Skupštine Hrvatske revizorske komore održane 7. srpnja 2007., usvojen je

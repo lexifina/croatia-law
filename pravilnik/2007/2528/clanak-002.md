@@ -1,0 +1,2 @@
+# Članak 2.
+Komora provodi nadzor i provjeru kvalitete rada revizorskih društava, samostalnih revizora, zajedničkih revizorskih ureda i ovlaštenih revizora prema ovom Pravilniku radi provjere posluju li i obavljaju li reviziju u skladu sa Zakonom o reviziji (Narodne novine broj 146/05, u daljnjem tekstu: Zakon), Međunarodnim revizijskim standardima, drugim propisima i provedbenim aktima i pravilima revizorske struke koje donosi Upravno vijeće Komore.
