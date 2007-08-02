@@ -1,0 +1,6 @@
+## UVJETI IZVANREDNOG NAPREDOVANJA NA RADNA MJESTA VIŠIH DRŽAVNIH SLUŽBENIKA
+# Članak 6.
+Državni službenik koji ima doktorat znanosti u području povezanom s djelokrugom državnog tijela može napredovati na radno mjesto u potkategoriji glavnog savjetnika s četiri godine radnog iskustva na odgovarajućim poslovima u državnoj službi.
+Državni službenik koji ima poslijediplomski znanstveni ili stručni studij odnosno doktorat znanosti u području povezanom s djelokrugom državnog tijela može napredovati na radno mjesto u potkategoriji višeg savjetnika - specijalista s četiri godine radnog iskustva na odgovarajućim poslovima u državnoj službi.
+Državni službenik koji ima poslijediplomski znanstveni ili stručni studij odnosno doktorat znanosti u području povezanom s djelokrugom državnog tijela može napredovati na radno mjesto u potkategoriji višeg savjetnika s tri godine radnog iskustva na odgovarajućim poslovima u državnoj službi.
+Državni službenik može napredovati na radna mjesta u potkategoriji glavnog savjetnika, višeg savjetnika - specijalista i višeg savjetnika i bez ispunjavanja uvjeta višeg stupnja obrazovanja iz stavaka 1. do 3. ovoga članka ako postiže naročito istaknute rezultate u području od značaja za rad državnog tijela.
