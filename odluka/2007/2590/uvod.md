@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 49. stavka 2. Zakona o zdravstvenom osiguranju zaštite zdravlja na radu (»Narodne novine«, broj 85/2006), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2007. godine donijela
