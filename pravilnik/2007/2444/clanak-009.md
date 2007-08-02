@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Iznimno od odredbi članka 4. stavaka 3. i 4. ovoga Pravilnika privremeni obračun iznosa naknade za emisiju CO2 u 2007. godini obavit će se na temelju podataka iz Katastra emisija u okoliš za 2005. godinu te na temelju podataka o ostvarenoj dobiti u poslovanju prije oporezivanja i ulaganjima u energetsku učinkovitost, obnovljive izvore energije i ostale mjere smanjivanja emisije CO2 i drugih stakleničkih plinova u 2005. godinu, i to u visini od 40% utvrđene obveze.
+(2) Rješenje za privremeni obračun naknade iz stavka 1. ovoga članka Fond će donijeti najkasnije do 1. listopada 2007. godine.

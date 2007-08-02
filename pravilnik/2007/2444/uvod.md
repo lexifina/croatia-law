@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« br. 107/03), ministrica zaštite okoliša, prostornog uređenja i graditeljstva uz suglasnost ministra gospodarstva, rada i poduzetništva donosi
