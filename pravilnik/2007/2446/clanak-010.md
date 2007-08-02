@@ -1,0 +1,2 @@
+# Članak 10.
+Ovlaštenom stručnom tehničkom servisu Državni zavod za zaštitu od zračenja oduzet će ovlaštenje za obavljanje određenih stručnih poslova zaštite od ionizirajućeg zračenja i prije isteka roka iz članka 7. ovoga pravilnika ako se inspekcijskim nadzorom utvrdi da je prestao udovoljavati propisanim uvjetima ili ako u roku određenom rješenjem o inspekcijskom nadzoru ne otkloni utvrđene nedostatke.
