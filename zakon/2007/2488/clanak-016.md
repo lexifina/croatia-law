@@ -1,0 +1,3 @@
+# Članak 16.
+Članak 59. mijenja se i glasi:
+»Postojanje vrste, stupnja i težine tjelesnoga ili mentalnoga oštećenja, vrste i težine psihičke bolesti, trajne ili privremene promjene u zdravstvenom stanju, potpune nesposobnosti za rad, prijeke potrebe stalne ili privremene pomoći i njege druge osobe i njezin opseg, postojanje sposobnosti osposobljavanja za samozbrinjavanje, postojanje sposobnosti osposobljavanja za samostalan rad i postojanje potrebe individualnog rada u provođenju psihosocijalne rehabilitacije, iz članka 25., 43., 50., 55., 66.a, 71.a, 71.b i 77.a ovoga Zakona, propisuje ministar nadležan za poslove socijalne skrbi.«
