@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03.) u članku 4. stavak 2. mijenja se i glasi:
+»(2) Odredbe iz ovoga Zakona o definicijama pojedinih autorskih imovinskih prava, o pravu na naknadu za reproduciranje autorskog djela za privatno ili drugo vlastito korištenje, o pravu na naknadu za javnu posudbu, kao i o iscrpljenju prava distribucije, iznimkama i ograničenjima autorskih prava, početku tijeka i učincima isteka rokova trajanja autorskog prava, autorskom pravu u pravnom prometu te o odnosu autorskog prava i prava vlasništva primjenjuju se na odgovarajući način i za srodna prava, ako za njih nije što posebno određeno ili ne proizlazi iz njihove pravne naravi.«
