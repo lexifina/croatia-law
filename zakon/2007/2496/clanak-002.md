@@ -1,0 +1,20 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+1. »Ekološka proizvodnja« (»organska«, »biološka«) poseban je sustav održivog gospodarenja u poljoprivredi i šumarstvu koji obuhvaća uzgoj bilja i životinja, proizvodnju hrane, sirovina i prirodnih vlakana te preradu primarnih proizvoda, a uključuje sve ekološki, gospodarski i društveno opravdane proizvodno-tehnološke metode, zahvate i sustave, najpovoljnije koristeći plodnost tla i raspoložive vode, prirodna svojstva biljaka, životinja i krajobraza, povećanje prinosa i otpornosti biljaka pomoću prirodnih sila i zakona, uz propisanu uporabu gnojiva, sredstava za zaštitu bilja i životinja, sukladno s međunarodno usvojenim normama i načelima,
+2. »Potvrdnica« (certifikat) je isprava kojom ovlaštena pravna osoba za provedbu postupka potvrđivanja (certifikacije) u ekološkoj proizvodnji potvrđuje da su ekološka proizvodnja, proces ili usluga na proizvodnoj jedinici u ekološkoj proizvodnji sukladni s propisanim temeljnim zahtjevima za ekološku proizvodnju,
+3. »Prijelazno razdoblje« jest razdoblje u kojem se proizvodnja ili prerada preusmjerava iz drugih proizvodnji ili prerada u ekološku proizvodnju ili preradu sukladno ovom Zakonu i propisima donesenima na temelju njega,
+4. »Proizvodna jedinica u ekološkoj proizvodnji« cijelo je gospodarstvo ili dio gospodarstva, koji su jasno odvojeni od svake druge jedinice, a proizvode sukladno s odredbama ovoga Zakona i propisima donesenima na temelju njega,
+5. »Proizvođač u ekološkoj proizvodnji« jest pravna ili fizička osoba koja ekološke proizvode gospodarski proizvodi, prerađuje, odnosno njima trguje, a upisana je u Upisnik proizvođača u ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda,
+6. »Ekološki proizvod« svaki je proizvod proizveden i označen sukladno s odredbama ovoga Zakona i propisa donesenih na temelju njega,
+7. »Označavanje« podrazumijeva riječi, robne žigove, zaštitna imena, slike, simbole, logotipove i slično na pakiranju, ispravama, obavijestima, etiketama, trakama koje se nalaze na ekološkom proizvodu,
+8. »Sastojci« su tvari koje uključuju dodatke (aditive) koji se koriste u pripremi i preradi ekološkog prehrambenog proizvoda, a koji su prisutni u ekološkom prehrambenom proizvodu,
+9. »Sredstva za zaštitu bilja« jesu konačni oblici aktivnih tvari i pripravci namijenjeni za zaštitu bilja i biljnih proizvoda od štetnih organizama,
+10. »Homeopatski veterinarski proizvod« je veterinarski medicinski proizvod kako je određeno u Zakonu o veterinarskim lijekovima i veterinarsko-medicinskim proizvodima (»Narodne novine«, br. 79/98.),
+11. »Uzgoj životinja« označava proizvodnju domaćih ili pripitomljenih kopnenih životinja (uključujući kukce), uzgoj divljači na farmama i vodenih vrsta uzgajanih u slatkovodnoj, slanoj ili poluslanoj (boćatoj) vodi. Proizvodi lova divljači i ribolova se neće smatrati dijelom ekološke proizvodnje,
+12. »Poljoprivredni reprodukcijski materijal« je poljoprivredno sjeme i poljoprivredni sadni materijal bilo kao sjeme, cijele biljke ili njihovi dijelovi kada se koriste za umnažanje i proizvodnju poljoprivrednog sjemena, za sjetvu ili sadnju s ciljem proizvodnje poljoprivrednog bilja,
+13. »Genetski modificirani organizam (GMO)« jest organizam, uz iznimku ljudskih bića, u kojem je genetski materijal izmijenjen na način koji se ne pojavljuje prirodnim putem parenjem i/ili prirodnom rekombinacijom,
+14. »Genetski modificirana hrana« je hrana koja sadrži ili se sastoji ili je proizvedena od GMO-a,
+15. »Genetski modificirana hrana za životinje« jest hrana za životinje koja sadrži ili se sastoji ili je proizvedena od GMO-a,
+16. »Nadzorna stanica za ekološku proizvodnju« ovlaštena je pravna osoba koja obavlja stručni nadzor nad ekološkom proizvodnjom i ekološkim proizvodima sukladno s odredbama ovoga Zakona i propisima donesenima na temelju njega,
+17. »Ovlašteni laboratorij« pravna je osoba koja obavlja potrebne analize tla, sirovina, poluproizvoda i proizvoda biljnog i životinjskog podrijetla te ispituje temeljne zahtjeve za ekološke proizvode.«
