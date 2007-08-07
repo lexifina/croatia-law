@@ -1,0 +1,5 @@
+## Oblik prethodne obavijesti
+# Članak 62.
+(1) U primjerenom roku prije sklapanja ugovora ili predugovora davatelj financijske usluge dostavit će potrošaču prethodnu obavijest iz članka 57. ovoga Zakona koja sadrži sve podatke navedene u člancima 58. do 61. ovoga Zakona, u pisanom obliku ili na nekom drugom, potrošaču dostupnom, trajnom mediju.
+(2) Ako je na izričit zahtjev potrošača ugovor sklopljen uporabom sredstva daljinske komunikacije koje ne omogućava da mu se dostavi obavijest o svim podacima koji su navedeni u člancima 58. do 61. ovoga Zakona, davatelj financijske usluge ispunit će svoju obvezu iz stavka 1. ovoga članka odmah nakon sklapanja ugovora.
+(3) U svakom slučaju, potrošač je bilo u kojem trenutku tijekom trajanja ugovornog odnosa ovlašten zahtijevati da mu se dostavi primjerak ugovora koji je sklopio s davateljem financijske usluge. Potrošač je isto tako ovlašten promijeniti sredstvo daljinske komunikacije kojim se koristi, osim ako je to nespojivo sa sklopljenim ugovorom ili prirodom financijske usluge koja mu se pruža.

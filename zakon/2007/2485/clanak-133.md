@@ -1,0 +1,5 @@
+## Teret dokaza
+# Članak 133.
+(1) Ako je postupak iz članka 131. ovoga Zakona pokrenut povodom povrede odredaba članaka 36.do 55. ovoga Zakona, trgovac, odnosno operator sredstva daljinske komunikacije dužan je dokazati da je potrošaču dostavio prethodnu obavijest te pisane potvrde prethodne obavijesti, odnosno da se pridržavao rokova za ispunjenje ugovora sklopljenog putem sredstva daljinske komunikacije.
+(2) Ako je postupak iz članka 131. ovoga Zakona pokrenut povodom povrede odredaba članaka 56. do 70. ovoga Zakona, davatelj financijske usluge dužan je dokazati da je ispunio svoju obvezu prethodnog obavještavanja potrošača te da je potrošač pristao sklopiti ugovor, odnosno pristao na to da mu davatelj financijske usluge počne pružati ugovorenu uslugu prije isteka roka za jednostrani raskid ugovora iz članka 63. ovoga Zakona.
+(3) U slučaju iz stavka 2. ovoga članka, ugovorna odredba kojom je predviđeno da će teret dokaza glede činjenica navedenih u stavku 2. ovoga članka ležati na potrošaču smatra se nepoštenom ugovornom odredbom, u smislu odredaba dijela II. glave 11. ovoga Zakona.

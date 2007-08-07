@@ -1,0 +1,2 @@
+# Članak 134.
+Ako je postupak iz članka 131. ovoga Zakona pokrenut povodom povrede odredaba članaka 107. do 115. ovoga Zakona, prilikom odlučivanja o tome je li poslovna praksa nepoštena neće se uzimati u obzir je li tom praksom nekome prouzročena šteta, odnosno je li vjerojatno da će nekome biti prouzročena šteta, kao niti je li osoba protiv koje se vodi postupak kriva za nedopuštenost poslovne prakse.

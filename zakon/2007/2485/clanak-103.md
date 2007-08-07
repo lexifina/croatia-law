@@ -1,0 +1,4 @@
+## Zahtjev da se zabrani korištenje nepoštenih ugovornih odredaba
+# Članak 103.
+(1) Svaka ovlaštena osoba ima pravo zahtijevati od suda da zabrani korištenje određene ugovorne odredbe u standardnim ugovorima koja je nepoštena u smislu ove glave Zakona, i to bez obzira na to jesu li tim odredbama povrijeđena prava i interesi potrošača u Republici Hrvatskoj ili u nekoj državi članici Europske unije.
+(2) Postupak iz stavka 1. ovoga članka može se pokrenuti protiv pojedinog trgovca ili skupine trgovaca iz istog gospodarskog sektora koji u svojim standardnim ugovorima koriste određenu nepoštenu odredbu, protiv komorskih i interesnih udruga trgovaca koje promiču korištenje određenih nepoštenih odredaba te protiv tvorca pravila postupanja trgovaca postupanja kojim se promiče korištenje nepoštenih ugovornih odredaba.

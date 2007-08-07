@@ -1,0 +1,5 @@
+## Glava VII.
+## UGOVOR SKLOPLJEN NA DALJINU
+## Pojam ugovora sklopljenog na daljinu
+# Članak 36.
+Ugovor na daljinu je ugovor sklopljen između trgovca i potrošača u okviru organizirane prodaje proizvoda ili organiziranog obavljanja usluga trgovca koji za potrebe sklapanja takvih ugovora isključivo koristi jedno ili više sredstava daljinske komunikacije.

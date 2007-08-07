@@ -1,0 +1,5 @@
+# Članak 58.
+(1) Obavijest o davatelju financijske usluge sadrži: njegovo ime, naziv ili tvrtku, punu adresu njegovog prebivališta ili sjedište, bilo koju drugu adresu koja utječe na njegov odnos s potrošačem te njegov matični broj i registar u kojem je upisan.
+(2) Ako je djelatnost davatelja financijske usluge podložna izdavanju određene dozvole ili dopuštenja od strane tijela javne vlasti, obavijest o davatelju usluge uključuje i navođenje pojedinosti te dozvole ili dopuštenja, poput navođenja tijela koje je izdalo dozvolu ili dopuštenje, na koji je rok i s kojim sadržajem izdana ta dozvola ili dopuštenje.
+(3) Ako davatelj financijske usluge u Republici Hrvatskoj ima svog predstavnika, obavijest o davatelju financijske usluge uključuje i ime, naziv ili tvrtku tog predstavnika, kao i punu adresu koja utječe na odnos potrošača s tim predstavnikom.
+(4) Ako potrošač stupa u ugovorni odnos s davateljem financijske usluge putem neke druge osobe, koja nije njegov predstavnik, obavijest o davatelju financijske usluge uključuje i ime, naziv ili tvrtku te osobe, svojstvo u kojemu ona djeluje, te sjedište ili drugu adresu koja utječe na odnos potrošača s tom osobom.

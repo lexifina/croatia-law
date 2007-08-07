@@ -1,0 +1,4 @@
+## Predmnijeva netočnosti činjeničnih navoda
+# Članak 135.
+(1) Ako je postupak iz članka 131. ovoga Zakona pokrenut povodom povrede odredaba članaka 107. do 115. ovoga Zakona, Državni će inspektorat ili drugo nadležno tijelo, ako je to primjereno s obzirom na okolnosti slučaja te uzimajući u obzir opravdane interese trgovca, zahtijevati od trgovca protiv kojeg se postupak vodi da u roku od sedam dana dostavi dokaze koji potvrđuju istinitost činjeničnih navoda iznesenih u okviru poslovne prakse.
+(2) Ako dokazi iz stavka 1. ovoga članka ne budu dostavljeni Državnom inspektoratu ili drugom nadležnom tijelu u ostavljenom roku ili ako Državni inspektorat ili drugo nadležno tijelo smatra da su dostavljeni dokazi nepotpuni ili nedovoljni, smatra se da su činjenični navodi izneseni u okviru poslovne prakse neistiniti.
