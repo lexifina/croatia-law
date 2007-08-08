@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 3. Carinskog zakona (»Narodne novine«, br. 78/99, 117/99, 73/2000, 92/2001, 47/2003, 140/2005 i 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2007. godine donijela
