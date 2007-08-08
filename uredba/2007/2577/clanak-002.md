@@ -1,0 +1,6 @@
+# Članak 2.
+Članak 9. mijenja se i glasi:
+»Poslove sanitarnog inspektora u uredima državne uprave u županijama i uredu Grada Zagreba obavljaju sanitarni inspektori, a u ministarstvu nadležnom za zdravstvo obavljaju sanitarni inspektori, viši sanitarni inspektori, granični sanitarni inspektori i viši granični sanitarni inspektori.
+Poslove sanitarnog inspektora u Ministarstvu, uredima državne uprave u županijama i uredu Grada Zagreba obavlja osoba koja je završila sveučilišni diplomski studij ili specijalistički diplomski stručni studij: medicine, sanitarnog inženjerstva, biokemijskog inženjerstva, prehrambenog inženjerstva, bioprocesnog inženjerstva, kemijskog inženjerstva i tehnologije, profesora biologije, inženjerske biologije, arhitekture, građevinarstva, inženjerske fizike ili strojarstva, s najmanje dvanaest mjeseci radnog staža u struci i položenim državnim stručnim ispitom.
+Poslove graničnog sanitarnog inspektora u Ministarstvu obavlja osoba koja ispunjava uvjete iz stavka 2. ovog članka.
+Poslove višeg sanitarnog inspektora i višeg graničnog sanitarnog inspektora u Ministarstvu obavlja osoba koja ispunjava uvjete iz stavka 2. ovog članka, te ima 5 godina radnog iskustva u struci.«.

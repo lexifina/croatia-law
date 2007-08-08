@@ -1,0 +1,2 @@
+# Članak 7.
+U cijelom tekstu Zakona riječi: »županijski ured ili ured Grada Zagreba« zamjenjuju se riječima: »ured državne uprave u županijama ili ured Grada Zagreba« u odgovarajućem padežu, riječi: »županijski ured« zamjenjuju se riječima: »ured državne uprave« u odgovarajućem padežu, riječi: »ministar zdravstva« zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu, riječi: »župan« zamjenjuju se riječima: »predstojnik ureda« u odgovarajućem padežu.
