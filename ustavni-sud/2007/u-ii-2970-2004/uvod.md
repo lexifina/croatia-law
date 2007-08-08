@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Petar Klarić, predsjednik Suda, te suci Marijan Hranjski, Mario Kos, Davor Krapac, Ivan Matija, Ivan Mrkonjić, Željko Potočnjak, Agata Račan, Emilija Rajić, Smiljko Sokol, Nevenka Šernhorst i Vice Vukojević, odlučujući o zahtjevu za ocjenu suglasnosti drugog propisa s Ustavom i zakonom, na sjednici održanoj 11. srpnja 2007., donio je
