@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala (»Narodne novine« broj 25/05., 41/05, 88/05, 125/05., 155/05., 24/06., 36/06., 46/06., 88/06., 96/06., 112/06., 136/06., 48/07. i 57/07. - u daljnjem tekstu: Pravilnik), u Popisu pomagala iz članka 3. stavka 2. Pravilnika pod rednim brojem 687., šifra pomagala 85626, u stupcu broj 11 broj: »25,56«, zamjenjuje se brojem: »115,02«, a u stupcu broj 12 broj: »299,30«, zamjenjuje se brojem: »209,84«.
