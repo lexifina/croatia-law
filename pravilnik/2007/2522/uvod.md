@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 44. stavka 4., članka 139. stavka 3. Zakona o zdravstvenoj zaštiti (»Narodne novine« broj 121/03.,48/05. i 85/06.), i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 46. sjednici održanoj 22. svibnja 2007. godine, donijelo je

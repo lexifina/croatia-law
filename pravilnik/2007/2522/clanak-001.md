@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u Osnovnoj mreži zdravstvene djelatnosti (»Narodne novine« broj 94/05. i 136/06. - u daljnjem tekstu: Pravilnik) u članku 5. stavak 2. mijenja se i glasi:
+»Za ljekarničku djelatnost Zavod daje mišljenje o opravdanosti osnivanja ljekarne osnovom podataka iz svojih službenih evidencija koje vodi u skladu sa Zakonom o obveznom zdravstvenom osiguranju o broju osiguranih osoba Zavoda na području grada, općine, odnosno gradske četvrti Grada Zagreba u odnosu na broj ugovorenih ljekarni na tom području uzimajući u obzir odredbe Pravilnika o uvjetima za određivanje područja na kojem će se osnivati ljekarna.«
