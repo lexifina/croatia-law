@@ -1,0 +1,2 @@
+# Članak 14.
+Na otocima, područjima određenim Zakonom o brdsko-planinskim područjima i Zakonom o područjima posebne državne skrbi kao i na područjima bez organizirane zdravstvene zaštite ili njezine slabije dostupnosti stanovništvu, zakupodavac, iznimno, u cilju stimuliranja kvalitete i dostupnosti primarne zdravstvene zaštite može dati prostorije i medicinsko-tehničku i drugu opremu u zakup i pod uvjetima povoljnijim za zakupca od uvjeta propisanih odredbom članka 13. ovoga Pravilnika, uključujući i mogućnost oslobađanja od plaćanja zakupnine.

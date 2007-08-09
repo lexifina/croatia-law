@@ -1,0 +1,20 @@
+# Članak 10.
+Ugovor o zakupu jedinice zakupa sadrži najmanje:
+- ime, odnosno naziv ugovornih strana,
+- opis prostorija i građevine u kojoj se jedinica zakupa nalazi,
+- popis i namjenu medicinsko-tehničke i druge opreme,
+- način rukovanja i održavanja medicinsko-tehničke i druge opreme,
+- odredbu o obvezi zakupodavca da snosi troškove zanavljanja medicinsko-tehničke i druge opreme koja je sastavni dio jedinice zakupa,
+- odredbu o obvezi zakupca da snosi troškove održavanja medicinsko-tehničke i druge opreme koja je sastavni dio jedinice zakupa,
+- odredbe o uporabi i održavanju zajedničkih uređaja i prostorija u građevini te okoliša,
+- odredbu o obveznoj zapisnički provedenoj primopredaji prostora i medicinsko-tehničke i druge opreme jedinice zakupa,
+- opis djelatnosti koju će zakupac obavljati u jedinici zakupa,
+- rok u kojem je zakupac obvezan započeti obavljati djelatnost,
+- iznos zakupnine te iznos naknade za uporabu zajedničkih uređaja i prostorija i rok plaćanja,
+- odredbu o trajanju ugovora na neodređeno vrijeme uz uvjet sklopljenog ugovora o provođenju zdravstvene zaštite sa Zavodom,
+- odredbu o obvezi zakupca da na temelju odluke doma zdravlja kao prethodnog poslodavca o prenošenju ugovora o radu na zakupca kao novog poslodavca nastavi radni odnos sa zdravstvenim radnikom više ili srednje stručne spreme s kojim radi u timu sukladno ugovoru o provođenju zdravstvene zaštite sa Zavodom,
+- odredbu o pravu zdravstvenog radnika više ili srednje stručne spreme s kojim zakupac radi u timu sukladno ugovoru o provođenju zdravstvene zaštite sa Zavodom na otpremninu pri odlasku u mirovinu za koju sredstva osiguravaju zakupodavac i zakupac, razmjerno radnom stažu zdravstvenog radnika ostvarenog kod pojedinog poslodavca,
+- način osiguranja obavljanja djelatnosti izvan redovnog radnog vremena, odnosno za vrijeme odsutnosti pojedinih radnika,
+- način korištenja vozila doma zdravlja,
+- odredbu o otkazu i otkaznim rokovima,
+- mjesto i datum sklapanja ugovora i potpise ugovornih strana.
