@@ -1,0 +1,3 @@
+# Članak 3.
+Učenici osnovnih škola koji nisu obuhvaćeni organiziranim besplatnim prijevozom do škole (učenici od 1. do 4. razreda koji putuju do udaljenosti od 3 kilometra, odnosno učenici od 5. do 8. razreda koji putuju do udaljenosti do 5 kilometara) sukladno članku 12. stavku 3. Zakona o osnovnom školstvu (»Narodne novine« 59/90., 26/93., 27/93., 7/96., 59/01., 114/01. i 76/05.), ostvaruju pravo na besplatni prijevoz do škole.
+Osobe iz stavka 1. ovog članka ostvaruju pravo na besplatan prijevoz na način i u rokovima kao i učenici koji to pravo koriste sukladno članku 12. stavku 3. i 4. Zakona o osnovnom školstvu (»Narodne novine« 59/90., 26/93., 27/93., 7/96., 59/01., 114/01. i 76/05.).

@@ -1,0 +1,1 @@
+Temeljem članka 10. stavka 7. Zakona o otocima (»Narodne novine« 34/99., 32/02. i 33/06.) i članka 17. Zakona o sustavu državne uprave (»Narodne novine« 75/93., 92/96., 48/99., 15/00., 59/01., 190/03. i 199/03.) ministar mora, turizma, prometa i razvitka donosi

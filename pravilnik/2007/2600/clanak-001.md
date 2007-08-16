@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom utvrđuju se uvjeti i način ostvarivanja prava na besplatni javni otočni cestovni prijevoz korisnicima iz članka 10. stavka 2. i 5. Zakona o otocima (»Narodne novine« 34/99., 32/02. i 33/06.), te postupak obračuna i ostvarivanja naknade dijela neostvarenih prihoda iz članka 10. stavka 6. istog zakona prijevoznicima koji obavljaju usluge javnog otočnog cestovnog prijevoza.

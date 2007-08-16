@@ -1,0 +1,4 @@
+# Članak 12.
+Invalidne osobe sukladno članku 2. stavku 1. podstavku 3. i 4. Zakona o povlasticama u unutarnjem putničkom prometu (»Narodne novine« 97/00.) i članku 10. stavku 5. Zakona o otocima (»Narodne novine« 34/99., 32/02. i 33/06.) koje zbog invalidnosti ne mogu koristiti usluge javnog otočnog cestovnog prijevoza, sukladno odredbama ovog Pravilnika imaju pravo na novčanu naknadu za nadoknadu troškova vlastitog prijevoza kada putuju na posao, školovanje ili stručno usavršavanje.
+Osobe iz stavka 1. ovog članka dužne su Ministarstvu podnijeti zahtjev i dokaze o putovanju na posao, školovanje ili stručno usavršavanje za koje im se isplaćuje novčana naknada za nadoknadu troškova vlastitog prijevoza.
+Novčana naknada iz stavka 1. ove točke utvrđuje se temeljem Odluke Vlade Republike Hrvatske o visini dnevnice za službeno putovanje i visini naknade za korisnike koji se financiraju iz sredstava državnog proračuna.
