@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Ugostiteljski objekt u smislu ovoga Pravilnika je objekt koji u poslovnom i funkcionalnom pogledu čini cjelinu, te građevinsku cjelinu ukoliko je objekt smješten u građevini ili zasebnom dijelu građevine, ukoliko ovim Pravilnikom nije drugačije propisano.
+(2) Iznimno od stavka 1. ovoga članka ugostiteljski objekt vrste slastičarnica može imati lokacijski odvojene prostorije za pripremanje slastica od prostorija u kojima se gosti uslužuju.
+(3) Postojećim ugostiteljskim objektom u smislu ovoga Pravilnika smatraju se ugostiteljski objekti koji posluju na dan stupanja na snagu ovoga Pravilnika i ugostiteljski objekti koji nakon stupanja na snagu ovoga Pravilnika započinju poslovati u poslovnom prostoru u kojem je već poslovao ugostiteljski objekt iste vrste.
+(4) Postojećim ugostiteljskim objektom u smislu ovoga Pravilnika ne smatra se ugostiteljski objekt za koji je nakon stupanja na snagu ovoga Pravilnika zatražena izmjena vrste.
+(5) Jednostavna jela u smislu ovoga Pravilnika su: naresci, sir, jaja, pržene i slane ribe, pržene lignje, topli i hladni sendviči, hrenovke, kobasice, razne vrste burgera, hot dog, kotleti, ćevapčići, ražnjići, kotlovina, pommes frites, palačinke i slična jela koja ne zahtijevaju složeniju pripremu.

@@ -1,0 +1,10 @@
+## Zahod
+# Članak 46.
+(1) Ugostiteljski objekt mora imati uređen i opremljen zahod za žene i zahod za muškarce, ako ovim Pravilnikom nije drugačije propisano, i to:
+1. zahod za žene koji se sastoji od prostorije u kojoj je zahodska školjka (zahodska kabina) i predprostorije u kojoj je umivaonik,
+2. zahod za muškarce koji se sastoji od prostorije u kojoj je zahodska školjka (zahodska kabina) i predprostorije u kojoj je umivaonik i pisoar koji je od zahodske kabine i umivaonika dijelom odvojen odgovarajućom vizualnom pregradom.
+(2) Iznimno od stavka 1. ovoga članka, u postojećem ugostiteljskom objektu u kojem je površina za usluživanje do 50 m, osim u vrstama restoran, gostionica, bistro, kavana, noćni klub, noćni bar, disco klub, disco bar i pivnica, zahod se može sastojati od jedne zahodske kabine, pretprostora s umivaonikom, te pisoara koji je od zahodske kabine i umivaonika dijelom odvojen odgovarajućom vizualnom pregradom.
+(3) U zahodima mora biti besprijekoran red i čistoća, prostorije se moraju redovito dezinficirati te se mora osigurati prirodna i/ili umjetna ventilacija koja omogućuje izmjenu zraka.
+(4) Iznimno od odredbe stavka 1. ovoga članka ugostiteljski objekti koji su smješteni na plaži, u zračnoj luci, željezničkom i autobusnom kolodvoru, poslovnom centru, tržnici i sl. ili se nalaze u nepokretnom ili priključnom vozilu ne moraju imati zahod, ako je u neposrednoj blizini takvog ugostiteljskog objekta osigurano korištenje javnog zahoda.
+(5) Iznimno od stavka 1. ovoga članka ugostiteljski objekti smješteni na plovnom objektu kojim se obavlja prijevoz putnika i u željezničkom vagonu ne mora imati zahod ukoliko je osigurano korištenje zahoda na tom plovnom objektu odnosno u vlaku.
+(6) Iznimno od stavka 1. ovoga članka zahod ne moraju imati ugostiteljski objekti iz vrste objekt brze prehrane i ugostiteljski objekti iz skupine »Objekti jednostavnih usluga«, koji imaju prostoriju za usluživanje do 15 m˛, a nemaju prostor za usluživanje na otvorenom s niskom stolovima i namještajem za sjedenje.

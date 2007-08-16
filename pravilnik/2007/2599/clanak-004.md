@@ -1,0 +1,13 @@
+## Skupina »Restorani«
+# Članak 4.
+(1) Skupina » Restorani« razvrstava se u vrste ugostiteljskih objekata:
+1. Restoran - ugostiteljski objekt u kojem se pretežito pripremaju i uslužuju topla i hladna jela koja zahtijevaju složeniju pripremu, te ostala jela i slastice, uslužuju pića i pripremaju i uslužuju napici. Restoran može biti klupskog tipa.
+2. Gostionica - ugostiteljski objekt u kojem se pretežito pripremaju i uslužuju gotova uobičajena domaća topla i hladna jela, te uslužuju pića, pripremaju i uslužuju napici. U gostionici gostima se mogu pružati i usluge smještaja u sobama. Gostionica može imati najviše 7 soba.
+3. Zdravljak - ugostiteljski objekt u kojem se pretežito pripremaju i uslužuju mliječna topla i hladna jela, te napici i uslužuju bezalkoholna pića, a mogu se pripremati i usluživati slastice i jela koja ne zahtijevaju složeniju pripremu. Iznimno, umjesto naziva vrste »zdravljak« mogu se koristiti i drugi komercijalni nazivi ovisno u pretežitosti jela koja se pripremaju u ugostiteljskom objektu.
+4. Zalogajnica - ugostiteljski objekt u kojem se na očigled gostiju pripremaju i uslužuju jela i napici, te uslužuju pića. Iznimno, umjesto naziva vrste »zalogajnica« može se koristiti i komercijalni naziv »snack«.
+5. Pečenjarnica - ugostiteljski objekt u kojem se pretežito pripremaju i uslužuju pečena jela, te uslužuju pića, a mogu se pripremati i usluživati i napici. Iznimno, umjesto naziva vrste »pečenjarnica« može se koristiti i komercijalni naziv kao npr. »grill« i sl.
+6. Pizzeria - ugostiteljski objekt u kojem se pretežito pripremaju i uslužuju pizze, te uslužuju pića, a mogu se pripremati i usluživati i druga jela od tjestenine i napici.
+7. Bistro - ugostiteljski objekt u kojem se pretežito pripremaju i uslužuju jednostavna hladna i topla jela, te uslužuju pića i pripremaju i uslužuju napici.
+8. Slastičarnica - ugostiteljski objekt u kojemu se pripremaju i uslužuju slastice (kolači, sladoled i sl.), a mogu se pripremati i usluživati napici, te usluživati bezalkoholna pića. Slastičarnica je i ugostiteljski objekt u kojemu se priprema i uslužuje samo sladoled. Iznimno slastičarnica je i ugostiteljski objekt u kojemu se slastice samo uslužuju gostima, a mogu se pripremati i usluživati napici te usluživati bezalkoholna pića.
+9. Objekt brze prehrane (fast food) - ugostiteljski objekt u kojem se pripremaju jednostavna jela koja se pripremaju i uslužuju na jednostavan i brz način, a koriste se za brzu konzumaciju (npr. razne vrste burgera, slane i pržene ribe, pržene lignje, topli i hladni sendviči, salate, prženi krumpir, hot dog i sl.), a mogu se pripremati i usluživati pića i napici te sladoled.
+(2) Ugostiteljski objekti iz stavka 1. ovoga članka mogu vršiti dostavu jela iz svog asortimana.
