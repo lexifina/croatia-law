@@ -1,0 +1,3 @@
+# Članak 3.
+Osobe koje su prema Uredbi o darovanju stanova i kuća u vlasništvu Republike Hrvatske na područjima posebne državne skrbi hrvatskim braniteljima te članovima obitelji poginulih, zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata (»Narodne novine«, br. 94/2005, 153/2005 i 142/2006) podnijele zahtjev za stambeno zbrinjavanje, a koriste stan ili kuću u vlasništvu Republike Hrvatske na područjima posebne državne skrbi, stječu pravo na darovanje prema odredbama ove Uredbe pod uvjetom da odustanu od zahtjeva za stambeno zbrinjavanje.
+Odustanak od zahtjeva za stambeno zbrinjavanje dokazuje se zaključkom o obustavi postupka koji donosi Ministarstvo mora, turizma, prometa i razvitka.

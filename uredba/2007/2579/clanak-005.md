@@ -1,0 +1,2 @@
+# Članak 5.
+Stručne i administrativne poslove, koji se odnose na postupak darovanja po ovoj Uredbi, obavlja Ministarstvo mora, turizma, prometa i razvitka. Pravo na darovanje po ovoj Uredbi ostvaruju pripadnici Hrvatskog vijeća obrane te članovi obitelji smrtno stradalog pripadnika Hrvatskog vijeća obrane, državljani Republike Hrvatske, koji su podnijeli zahtjev Ministarstvu mora, turizma, prometa i razvitka u roku od šest mjeseci od dana stupanja na snagu ove Uredbe.
