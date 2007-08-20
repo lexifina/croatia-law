@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Memoranduma o suglasnosti između Vlade Republike Hrvatske i Vlade Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske o provedbi vojnih vježbi i obuke i pružanju potpore drž
