@@ -1,0 +1,10 @@
+# Članak 5.
+POSTUPAK PODMIRIVANJA IZNOSA KOJI SE REGULIRA PUTEM ISPORUKA ROBA I USLUGA
+1. Isporuke iz Ruske Federacije u Republiku Hrvatsku roba i usluga na ime podmirivanja iznosa koji se regulira i iznosa kamata ostvaruju se na osnovi individualnih izvozno-uvoznih ugovora (u daljnjem tekstu - ugovori), koji se sklapaju između ruskih isporučitelja i hrvatskih kupaca, a koje određuje svaka od stranaka u skladu s nacionalnim zakonodavstvom.
+2. Obračuni za isporuke roba i pružanje usluga na ime podmirivanja iznosa koji se regulira i iznosa kamata vrše se preko nadležnih banaka stranaka na temelju računa, otpremnih ili drugih dokumenata, predviđenih uvjetima ugovora i to u obliku dokumentarnog akreditiva koji Hrvatska poštanska banka otvara u korist ruskog isporučitelja s aviziranjem i izvršenjem u Vnješekonombanci ili u obliku dokumentarnog inkaso naloga uz prethodni akcept.
+Kod inkaso načina obračuna Hrvatska poštanska banka vrši otpisivanje iznosa koji se regulira i iznosa kamata u visini akceptiranih dokumenata i to u roku od 15 kalendarskih dana od datuma primitka inkaso dokumenata od Vnješekonombanke.
+U slučaju ako u roku 15 kalendarskih dana od kada Hrvatska poštanska banka primi inkaso dokumente od strane Vnješekonombanke, posljednja ne primi od Hrvatske poštanske banke informaciju o plaćanju navedenih dokumenata ili o obrazloženom djelomičnom ili potpunom odbijanju plaćanja, ti se dokumenti smatraju akceptiranim i plaćenim.
+3. Otpisivanje iznosa koji se regulira vrše nadležne banke stranaka na dan koji odgovara datumu sačinjavanja od strane ruskih isporučitelja otpremnih dokumenata za svaku pošiljku robe koja se isporučuje u okviru ugovora ili datumu potvrde od strane hrvatskih kupaca činjenice dobivanja usluga, neovisno o načinu plaćanja koji se primjenjuje.
+4. Kontrolu sklapanja i provedbe ugovora vrše:
+- s hrvatske strane - Ministarstvo financija Republike Hrvatske;
+- s ruske strane - Ministarstvo financija Ruske Federacije i Ministarstvo gospodarskog razvitka i trgovine Ruske Federacije.
