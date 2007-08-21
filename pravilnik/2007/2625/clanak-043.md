@@ -1,0 +1,3 @@
+# Članak 43.
+Sve zgrade i druge građevine izgrađene bez građevinske dozvole do 15. veljače 1968. godine smatraju se građevinama za koje je priložen akt na temelju kojeg su se mogle graditi, ako je u postupku njihovog evidentiranja priložen dokaz o tome da su sagrađene prije 15. veljače 1968. godine ili dokaz da su evidentirane u nekoj dokumentaciji katastarskog ureda ili Središnjeg ureda prije 15. veljače 1968. godine sukladno propisima o gradnji.
+Smatra se da je riječ o istovjetnoj zgradi ako je razlika tlocrtne površine zgrade koja proizlazi iz parcelacijskog ili drugog geodetskog elaborata i tlocrtne površine zgrade koja proizlazi iz dokumentacije katastarskog ureda ili Središnjeg ureda najviše do 15%.

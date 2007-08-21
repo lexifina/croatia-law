@@ -1,0 +1,2 @@
+# Članak 44.
+Sve zgrade i druge građevine izgrađene na temelju građevinske dozvole ili drugog odgovarajućeg akta izdanog do 19. lipnja 1991. godine smatraju se građevinama za koje je priložen akt na temelju kojeg su se mogle graditi ako je u postupku njihovog evidentiranja priložena pravomoćna građevinska dozvola ili drugi odgovarajući akt i potvrda da u vezi s tom građevinom nije u tijeku postupak građevinske inspekcije.

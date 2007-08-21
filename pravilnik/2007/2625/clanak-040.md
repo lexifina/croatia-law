@@ -1,0 +1,5 @@
+# Članak 40.
+Zgrade se evidentiraju na način da se na katastarskom planu prikaže njihov položaj i oblik u skladu s ovim pravilnikom, način njihove uporabe i kućni brojevi, a u popisu katastarskih čestica odnosno u posjedovnom listu način njihove uporabe, njihov naziv i tlocrtna površina te kućni brojevi.
+Zgrade se evidentiraju na način iz stavka 1. ovog članka ako je geodetskom elaboratu koji služi za njihovo evidentiranje priložen akt na temelju kojeg su se mogle graditi.
+Pod aktom na temelju kojeg su se zgrade ili druge građevine mogle graditi podrazumijeva se uporabna dozvola, potvrda glavnog projekta, završno izvješće nadzornog inženjera, rješenje o izvedenom stanju, potvrda izvedenog stanja i potvrda tijela nadležnog za gradnju sukladno propisima o gradnji.
+Zgrade i druge građevine evidentirane u katastarskom operatu do stupanja na snagu ovog pravilnika ostaju evidentirane po pravilima koja su vrijedila u trenutku njihovog evidentiranja, a za promjenu podataka o tim zgradama primjenjuju se odredbe ovog pravilnika.

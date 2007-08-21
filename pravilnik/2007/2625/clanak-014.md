@@ -1,0 +1,3 @@
+## Popis katastarskih čestica
+# Članak 14.
+Popis katastarskih čestica unutar katastarske općine sadrži podatke o broju katastarske čestice, njezinoj adresi, načinu uporabe katastarske čestice i njezinih dijelova koji se upotrebljavaju na različite načine, podatke o zgradama i drugim građevinama evidentiranim u okviru katastarskih čestica, podatke o posebnim pravnim režimima evidentiranim na katastarskim česticama, površini katastarskih čestica i površini dijelova katastarske čestice koje se upotrebljavaju na različiti način, podatke o broju detaljnog lista katastarskog plana, broju posjedovnog lista i broju zemljišnoknjižnog uloška u kojima je katastarska čestica upisana te podatke o rednim brojevima iz popisa promjena koje se odnose na česticu.

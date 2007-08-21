@@ -1,0 +1,3 @@
+# Članak 62.
+U katastarskim općinama za koje nisu osnovane zemljišne knjige upis izvanknjižnog vlasnika u posjedovne listove izvršit će se temeljem kupoprodajnog ugovara ili druge odgovarajuće isprave pod uvjetom da je dokazan pravni slijed do osobe upisane u posjedovni list.
+Odredba stavka 1. ovog članka na odgovarajući se način može primijeniti i na upisivanje izvanknjižnih vlasnika u katastarskim općinama za koje postoje zemljišne knjige ako je stanje katastarskih čestica u katastru zemljišta i zemljišnoj knjizi potpuno različito odnosno i ako je stanje katastarskih čestica u katastru i zemljišnim knjigama identično pod uvjetom da se osobe koje su upisane kao vlasnici katastarskih čestica u zemljišnoj knjizi ne protive upisu izvanknjižnog vlasnika.

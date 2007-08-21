@@ -1,0 +1,2 @@
+# Članak 46.
+Sve zgrade i druge građevine izgrađene na temelju građevinskih dozvola izdanih od 20. lipnja 1991. do stupanja na snagu Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/2207) smatraju se građevinama kojima je priložen akt na temelju kojeg su se mogle graditi ako je u postupku njihovog evidentiranja priložena uporabna dozvola ili uvjerenje da je građevina izgrađena u skladu s građevinskom dozvolom u pogledu vanjskih gabarita i namjene.
