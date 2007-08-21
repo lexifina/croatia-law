@@ -1,0 +1,2 @@
+# Članak 4.
+Vlada Republike Hrvatske prepušta putnicima i dobavljačima pri prijevozu putnika i robe u pomorskom, cestovnom i zračnom prometu, koji se obavlja na temelju odobrenog zajma i odobrene darovnice, slobodan izbor prometnih poduzeća, ona neće poduzimati nikakve mjere kojima bi se isključilo ili otežalo ravnopravno sudjelovanje prometnih poduzeća sa sjedištem u Saveznoj Republici Njemačkoj, te će u danom slučaju izdati potrebne dozvole neophodne za sudjelovanje tih prometnih poduzeća.

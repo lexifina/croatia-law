@@ -1,0 +1,2 @@
+# Članak 3.
+Financijske obveze koje će ili koje bi mogle za Republiku Hrvatsku kao primatelja zajma ili jamca nastati po pojedinačnim ugovorima koji će se zaključiti na temelju Ugovora iz članka 1. ovoga Zakona, podmirivat će se ili planirati u skladu s odredbama propisa o izvršavanju državnih proračuna za godine trajanja zajmova prema planovima otplata ugovorenim u pojedinačnim ugovorima, do njihove konačne otplate.
