@@ -1,0 +1,2 @@
+# Članak 84.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti: Pravilnik o školovanju, specijalizaciji, stručnom osposobljavanju i usavršavanju broj: 511-01-62-11673/1-99. od 24. svibnja 1999. godine, Privremeni naputak o općoj tjelesnoj pripremi i borilačkim športovima i vještinama broj 511-01-62-2030/1-00. od 18. siječnja 2000. godine i Pravilnik o dopunskom stručnom usavršavanju policijskih službenika u policijskim upravama broj: 511-01-52-9785/3-02-494/02. od 11. travnja 2002. godine.

@@ -1,0 +1,2 @@
+# Članak 45.
+Zapovjedništvo specijalne i interventne policije te Uprava za posebne poslove sigurnosti policijski trening u poznavanju i primjeni borilačkih športova i vještina, policijski trening u poznavanju, rukovanju i vještini gađanja vatrenim oružjem, policijski trening u poznavanju, rukovanju i vještini uporabe interventne palice »TONFA« te policijski trening operativno-taktičkog postupanja prilikom provođenja osiguranja i zaštite štićenih osoba, objekata i prostora provode samostalno, po posebnim programima.

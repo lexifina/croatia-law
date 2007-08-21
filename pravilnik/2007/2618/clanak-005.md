@@ -1,0 +1,2 @@
+# Članak 5.
+Zaposlenik Ministarstva koji nije završio niti jedan program temeljnog policijskog obrazovanja iz članka 4. stavka 1. ovoga Pravilnika, a raspoređen je na radno mjesto policijskog službenika u Ravnateljstvu policije, Upravi za posebne poslove sigurnosti i policijskim upravama, uputit će se na odgovarajući program temeljnog policijskog obrazovanja sukladno vrsti i stupnju stručne spreme koju posjeduje, u roku od godinu dana od dana rasporeda na radno mjesto policijskog službenika.

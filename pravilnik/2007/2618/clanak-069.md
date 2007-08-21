@@ -1,0 +1,4 @@
+# Članak 69.
+Za predsjednika Ispitnog povjerenstva za polaganje ispita za zvanja više i visoke stručne spreme kao i srednje stručne spreme za policijske službenike Ministarstva u sjedištu imenuju se policijski službenik Ministarstva u sjedištu, u zvanju glavni policijski savjetnik odnosno u zvanju policijski savjetnik ako je na poslovima policijskog službenika proveo najmanje deset godina odnosno ako ima najmanje akademski stupanj magistra kaznenopravnih znanosti ili magistra kriminalistike.
+Za predsjednika Ispitnog povjerenstva za polaganje ispita za zvanja srednje stručne spreme u policijskim upravama imenuje se policijski službenik u zvanju samostalnog policijskog inspektora ili višem zvanju koji je na poslovima policijskog službenika proveo najmanje deset godina.
+Predsjednik Ispitnog povjerenstva za polaganje ispita za zvanja ispituje sljedeća ispitna područja: Kazneno-materijalno i postupovno pravo te Zakon o zaštiti osoba s duševnim smetnjama.
