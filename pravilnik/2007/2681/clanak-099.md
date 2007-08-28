@@ -1,0 +1,2 @@
+# Članak 99.
+Do izdavanja novih tehničkih specifikacija iz članaka 34., 54., 65. i 72. ovog pravilnika na izgled elaborata, dokumentaciju za mjerenja obavljena uređajima za satelitsko pozicioniranje, standardni oblik i izgled vidljivih trajnih oznaka kojima se obilježavaju lomne točke međa i drugih granica katastarskih čestica, izradbu popisa koordinata u digitalnome obliku i izradbu drugih podataka koji se u okviru elaborata izrađuju u digitalnome obliku odgovarajuće se primjenjuju postojeća pravila za izradbu elaborata i postojeće tehničke specifikacije.

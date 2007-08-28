@@ -1,0 +1,4 @@
+# Članak 66.
+Terenska mjerenja moraju biti obavljena barem istom točnošću kojom je obavljena katastarska izmjera odnosno tehnička reambulacija na temelju koje je izrađen katastarski operat, osim mjerenja koja služe za evidentiranje odnosno promjenu načina uporabe katastarskih čestica.
+Terenska mjerenja za evidentiranje ili promjenu načina uporabe katastarskih čestica (mjerenja granica načina uporabe zemljišta) provode se točnošću koja može biti dvostruko manja od točnosti kojom je obavljena izmjera međa u okviru katastarske izmjere ili tehničke reambulacije temeljem koje je izrađen katastarski operat.
+Mjerenja lomnih točaka međa i drugih granica katastarskih čestica obavljaju se na način da za svaku takvu točku postoji barem jedno kontrolno mjerenje i na način koji omogućuje obnovu tih točaka na terenu.

@@ -1,0 +1,3 @@
+# Članak 31.
+Na području katastarskih općina za koje se vodi katastar zemljišta a za koje se zemljišne knjige vode prema podacima katastarskog plana koji više nije službeni dio katastarskog operata, geodetskim elaboratom za ispravljanje katastarske izmjere može se predložiti evidentiranje u katastarskome operatu onih katastarskih čestica koje su evidentirane samo u zemljišnoj knjizi pod uvjetom da te čestice stvarno postoje na terenu.
+Geodetski elaborat iz stavka 1. ovog članka izrađuje se, u katastarskim općinama za koje je donijeta odluka iz članka 72. Zakona, na način da se geodetskim elaboratom predlaže osnivanje katastarskih čestica katastra nekretnina.

@@ -1,0 +1,3 @@
+# Članak 98.
+Do donošenja pravilnika iz stavka 2. članka 111. Zakona, vođenje podataka o naručenim i izrađenim elaboratima iz članka 58. ovog pravilnika obavlja se u popisu naručenih i izrađenih elaborata.
+Popis iz stavka 1. ovog članka sadržava redni broj naručenog elaborata i godinu narudžbe, podatke o imenu i prezimenu odnosno nazivu i adresi odnosno sjedištu naručitelja elaborata, ime katastarske općine u kojoj je elaborat izrađen, podatke o katastarskim česticama koje su predmet elaborata prema stanju koje prethodi elaboratu, datum izradbe elaborata, datum podnošenja zahtjeva za pregledavanje i potvrđivanje elaborata, datum potvrđivanja elaborata, datum predaje elaborata naručitelju i dokaz da je naručitelj preuzeo elaborat.

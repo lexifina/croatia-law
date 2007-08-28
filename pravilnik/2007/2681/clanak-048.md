@@ -1,0 +1,5 @@
+# Članak 48.
+Izvješće o utvrđivanju međa i drugih granica te o novim razgraničenjima obvezno se sastavlja kada će, zbog provedbe elaborata, doći do promjene tijeka međa katastarskih čestica na katastarskom planu ili do ucrtavanja novih međa i drugih granica katastarskih čestica na katastarski plan.
+Izvješće iz stavka 1. ovog članka obvezno se sastavlja i kada je, ovlašteni geodetski stručnjak, zbog potrebe izradbe elaborata, obavio obilježavanje međa i drugih granica katastarskih čestica vidljivim trajnim oznakama.
+Izvješće iz stavka 1. ovog članka ne sastavlja se u slučajevima kada se izrađuju geodetski elaborati za evidentiranje, brisanje ili promjenu podataka o zgradama ili drugim građevinama kao i geodetski elaborati za evidentiranje ili promjenu načina uporabe zemljišta u okviru kojih se ne predlaže promjena tijeka međa ili drugih granica katastarskih čestica.
+Kada je riječ o evidentiranju zgrada ili drugih građevina smještenih na granicama katastarskih čestica (granica katastarske čestice ide rubom zgrade ili druge građevine) izvješće o utvrđivanju međa potrebno je sastaviti samo za među koja je istovremeno i rub građevine.
