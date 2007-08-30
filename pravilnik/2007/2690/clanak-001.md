@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuje se sadržaj, način i rokovi dostave podataka koje su energetski subjekti koji obavljaju djelatnost uvoza i/ili proizvodnje nafte i/ili naftnih derivata i/ili biogoriva i energetski subjekti koji obavljaju djelatnost trgovine na veliko i/ili trgovine na malo naftnim derivatima i/ili biogorivima (u daljnjem tekstu obveznici) dužni dostavljati Ministarstvu za potrebe energetskog planiranja i izvještavanja.

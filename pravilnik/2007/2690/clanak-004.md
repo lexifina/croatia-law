@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Energetski subjekti koji obavljaju djelatnost proizvodnje i/ili uvoza nafte i/ili naftnih derivata i/ili biogoriva i/ili trgovine na veliko i/ili trgovine na malo naftom i/ili naftnim derivatima i/ili biogorivima dužni su Ministarstvu dostavljati izvješće o proizvedenim, uvezenim, prerađenim, nabavljenim i isporučenim količinama nafte, naftnih derivata i biogoriva.
+(2) Podaci iz stavka 1. ovoga članka moraju se dostaviti do 10. u mjesecu za prethodni mjesec, odnosno do 31. siječnja svake godine za prethodnu godinu ispunjavanjem obrazaca (tablica 3. i tablica 4.) u prilogu ovoga Pravilnika.

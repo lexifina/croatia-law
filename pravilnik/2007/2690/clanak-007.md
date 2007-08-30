@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Podatke iz članka 3., 4. 5. i 6. ovoga Pravilnika obveznici moraju dostavljati Ministarstvu u rokovima propisanim ovim Pravilnikom. Podaci se dostavljaju ispunjavanjem obrazaca (tablice 1., 2., 3., 4., 5. i 6.) koji su prilog i sastavni dio ovoga Pravilnika i to elektroničkim putem na adresu podaci-nafta@mingorp.hr, ako postoje tehničke mogućnosti, ili putem telefaksa. Obrazac tablica 3. je potrebno dostaviti i pismenim putem.
+(2) Ako Ministarstvo ustanovi nedosljednosti u dostavljanju podataka, obveznik je dužan, u roku koji ne smije biti duži od 10 dana, dostaviti obrazloženje.
