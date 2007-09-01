@@ -1,0 +1,3 @@
+# Članak 98.
+Građani koji bez oružnog lista posjeduju oružje koje se prema odredbama ovoga Zakona može posjedovati samo na temelju isprava o oružju, dužni su njegovo posjedovanje prijaviti nadležnom tijelu radi registracije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+Ako građani postupe sukladno stavku 1. ovoga članka, a prije poduzimanja izvidnih radnji policije sukladno Zakonu o prekršajima i započinjanja izvida kaznenih djela te hitnih istražnih radnji sukladno Zakonu o kaznenom postupku, odnosno početka primjene policijskih ovlasti utvrđenih Zakonom o policiji, neće se pokretati prekršajni niti kazneni postupak.

@@ -1,0 +1,2 @@
+# Članak 102.
+Fizičke osobe kojima je izdan oružni list za držanje oružja kao uspomene za oružje kategorije A koje su stekli kao ratni plijen, dužne su u roku jedne godine od dana stupanja na snagu ovoga Zakona dostaviti nadležnom tijelu potvrdu trgovačkog društva ili obrta koje ima odobrenje Ministarstva unutarnjih poslova za obavljanje djelatnosti popravka i prepravka oružja iz koje je vidljivo da je oružje trajno onesposobljeno za uporabu.

@@ -1,0 +1,2 @@
+# Članak 37.
+Kada fizičke ili pravne osobe koje posjeduju oružje na temelju oružnog lista za držanje ili držanje i nošenje oružja, odobrenja za držanje oružja ili odobrenja za sakupljanje starog oružja, promijene osobno ime, prebivalište, naziv ili sjedište, dužne su o tome obavijestiti nadležno tijelo u roku od 15 dana od dana te promjene radi upisa podataka o oružju i vlasniku oružja u službene evidencije nadležnog tijela i u isprave o oružju.

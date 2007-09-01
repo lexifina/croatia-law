@@ -1,0 +1,3 @@
+# Članak 108.
+Zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi koji su ovlašteni za obavljanje zdravstvenih pregleda za držanje ili držanje i nošenje oružja dužne su uskladiti organizaciju i djelatnost u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+Zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi koji obavljaju zdravstvene preglede za držanje i nošenje oružja koji ne usklade svoj rad i organizaciju u roku iz stavka 1. ovoga članka, prestaju s radom obavljanja zdravstvenih pregleda za držanje i nošenje oružja istekom tog roka.

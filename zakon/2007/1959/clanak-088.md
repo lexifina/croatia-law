@@ -1,0 +1,7 @@
+# Članak 88.
+U obavljanju nadzora nad radom pravnih i fizičkih osoba kojima je izdano odobrenje za obavljanje djelatnosti proizvodnje, prometa, popravka i prepravka oružja, smještajem, držanjem, nošenjem i čuvanjem oružja i streljiva, uporabom civilnih strelišta, inspektori iz članka 87. ovoga Zakona ovlašteni su:
+1) pregledati skladišta oružja i streljiva, civilna strelišta i druge prostorije gdje se proizvodi, popravlja ili prepravlja, obavlja promet i čuva oružje i streljivo, izvršiti pregled propisanih evidencija i ostale dokumentacije u vezi s proizvodnjom, popravljanjem ili prepravljanjem, prometom oružja, čuvanjem oružja i streljiva i vođenjem civilnih strelišta,
+2) privremeno zabraniti obavljanje djelatnosti proizvodnje, prometa, popravljanja ili prepravljanja oružja, uporabu civilnih strelišta i narediti da se utvrđene nepravilnosti otklone u roku što ga ono odredi,
+3) zabraniti daljnje bavljenje proizvodnjom, prometom, popravljanjem ili prepravljanjem oružja, uporabu civilnih strelišta ako utvrdi da su u obavljanju tih djelatnosti učinjeni teži propusti u poduzimanju zaštitnih ili drugih sigurnosnih mjera ili druge teže kažnjive radnje, ukoliko je prestao postojati neki od uvjeta pod kojima je odobrenje izdano ili ako se ne postupi po nalogu nadležnog tijela,
+4) oduzeti dopusnicu za neposredno rukovanje vatrenim oružjem osobi koja više ne ispunjava uvjete iz članka 10. stavka 2. točke 1., 3., 4. i 5. ovoga Zakona i članka 10. stavka 3. točke 1. ovoga Zakona,
+5) narediti poduzimanje i drugih propisanih mjera.

@@ -1,0 +1,2 @@
+# Članak 4.
+U smislu ovoga Zakona ne smatra se oružjem: dekorativno oružje, imitacije oružja, oružje koje je trajno onesposobljeno za uporabu tehničkim postupcima koji su određeni posebnim propisima, oružje koje je namijenjeno za alarm, signalizaciju, spašavanje, usmrćivanje životinja, podvodne puške i drugi predmeti koji snagom opruge, napete gume ili stlačenog plina izbacuju osti ili harpun koji su isključivo namijenjeni ribolovu (podvodno oružje), oružje koje se koristi u industrijske ili tehničke svrhe, streljivo za zračno oružje i oružje s tetivom i lažno streljivo.
