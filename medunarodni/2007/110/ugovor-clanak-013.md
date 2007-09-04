@@ -1,0 +1,2 @@
+# Članak 13.
+U slučaju da dođe do spora u tumačenju ili primjeni ovog Ugovora, a na razini imenovanog Povjerenstva za vodno gospodarstvo Republike Hrvatske i Bosne i Hercegovine ne postigne se sporazum o načinu njegova rješavanja, nadležna tijela ugovornih stranaka predložit će rješavanje spora arbitražnom sudu kao što je određeno u dijelu III članak 22. Konvencije o zaštiti i uporabi prekograničnih vodotoka i međunarodnih jezera (Helsinška konvencija).

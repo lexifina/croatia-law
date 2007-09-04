@@ -1,0 +1,3 @@
+# Članak 3.
+Kapacitet Regionalnog odvodnog sustava utvrđen je u Idejnom rješenju »Kanalizacija obalnog područja Malostonskog zaljeva sa dispozicijom u Mljetski kanal« izrađenog od Građevinskog instituta u Zagrebu 1984. godine te se ugovorne stranke obvezuju da će odvodni sustav koristiti do proticajnih količina utvrđenih u tom idejnom rješenju.
+Sukladno prethodnom stavku, područje Komarna, Duboka i Klek ostvaruju pravo na proticajni kapacitet od 20 l/sec. Poradi priključenja ovih naselja na početni objekt Regionalnog odvodnog sustava - crpnu stanicu Neum, korisnici odvodnog sustava i općina Neum sklopit će poseban ugovor kojim će urediti međusobne odnose glede korištenja i održavanja objekata putem kojih se omogućava ovo priključenje.

@@ -1,0 +1,4 @@
+# Članak 2.
+Ugovorne stranke suglasno utvrđuju da su građenje Regionalnog odvodnog sustava financirale sukladno odredbi članka 7. »Ugovora o zajedničkoj izgradnji, pogonu, održavanju i financiranju Regionalnog kanalizacijskog sustava Neum - Mljetski kanal«, slijedom čega je ova vodna građevina u njihovom suvlasništvu.
+Ugovorne stranke su suglasne da omjer ulaganja financijskih sredstava svake od njih, u ukupnoj investiciji Regionalnog odvodnog sustava, predstavlja njihov vlasnički udio, tako da vlasnički udio Republike Hrvatske iznosi 30%, a vlasnički udio Bosne i Hercegovine 70% ukupne vrijednosti odvodnog sustava, bliže opisanog u članku 1. stavku 2. ovog Ugovora.
+Polazeći od stavka 2. ovoga članka ugovorne stranke se, obvezuju da će svaka od njih, sukladno svom unutarnjem zakonodavstvu, provesti uknjižbu ovog suvlasništva u zemljišnim knjigama, te jedna drugoj dopuštaju ovu provedbu bez ikakvih daljnjih odobrenja.
