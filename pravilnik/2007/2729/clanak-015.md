@@ -1,0 +1,5 @@
+## IV. Utvrđivanje prevladavajućeg javnog interesa i kompenzacijskih uvjeta
+# Članak 15.
+(1) U postupku utvrđivanja prevladavajućeg javnog interesa i kompenzacijskih uvjeta utvrđuje se postoje li imperativni razlozi prevladavajućeg javnog interesa nad javnom koristi očuvanja prirode. Ukoliko postoje, uključujući one gospodarske i socijalne naravi ili zbog pomanjkanja drugih pogodnih mogućnosti planirani zahvat je moguće odobriti uz utvrđivanje kompenzacijskih uvjeta. Dopuštenje izdaje Vlada Republike Hrvatske sukladno članku 37. Zakona.
+(2) Ako se na području planiranog zahvata nalazi stanišni tip ili stanište biljne, gljivlje, ili životinjske vrste koje su zaštićene na temelju međunarodnih akata i drugih propisa, prevladavajući javni interes zbog kojeg se prihvaća planirani zahvat može se odnositi samo na zaštitu zdravlja ljudi i javnu sigurnost ili na uspostavljanje bitno povoljnijih uvjeta za prirodu.
+(3) Prevladavajući javni interes utvrđuje se uz prethodno provedenu javnu raspravu sukladno članku 17. ovog Pravilnika.

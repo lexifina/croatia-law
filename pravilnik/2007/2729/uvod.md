@@ -1,0 +1,1 @@
+Na temelju odredbi članka 36. stavka 3. Zakona o zaštiti prirode (»Narodne novine«, br. 70/05), ministar kulture, uz prethodnu suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva donosi

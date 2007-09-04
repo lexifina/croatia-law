@@ -1,0 +1,12 @@
+# Članak 2.
+U ovom Pravilniku u uporabi su pojmovi sa sljedećim značenjem:
+1. ekološka mreža je sustav međusobno povezanih ili prostorno bliskih ekološki značajnih područja, koja uravnoteženom biogeografskom raspoređenošću značajno pridonose očuvanju prirodne ravnoteže i biološke raznolikosti,
+2. ekološki značajno područje je područje koje bitno pridonosi očuvanju biološke raznolikosti u Republici Hrvatskoj,
+3. jamčevina je iznos koji se koristi za uklanjanje mogućih posljedica na prirodu, odnosno ublažavanje štetnih utjecaja planiranih zahvata a daje se u obliku mjenice,
+4. kompenzacijski uvjeti su uvjeti uspostavom kojih se osigurava ponovno ispunjavanje ciljeva očuvanja ekološke mreže, njezina integriteta, povezanosti i očuvanja vrijednosti zbog kojih je područje proglašeno ekološkom mrežom, a provođenjem zahvata izravno je negativno utjecano, oblici kompenzacijskih uvjeta određeni su člankom 39. Zakona o zaštiti prirode (u daljnjem tekstu: Zakon),
+5. mjere ublažavanja su postupci provođenjem kojih se osigurava smanjivanje štetnih utjecaja zahvata na ekološku mrežu na prihvatljivu razinu,
+6. načelo predostrožnosti je načelo koje zahtijeva da se u postupku ocjene prihvatljivosti zahvata za prirodu prednost daje ciljevima očuvanja ekološke mreže kada se ne mogu sa sigurnošću utvrditi štetni utjecaji planiranoga zahvata,
+7. nositelj zahvata (u daljnjem tekstu: Nositelj) je pravna ili fizička osoba koja namjerava ostvariti određeni zahvat u prirodi te je podnijela zahtjev za izvođenje zahvata sukladno ovom Pravilniku,
+8. ocjena prihvatljivosti zahvata za prirodu (u daljnjem tekstu: Ocjena) je postupak ocjene prihvatljivosti za prirodu planiranog zahvata koji sam, ili s drugim zahvatima, može imati bitan utjecaj na ekološku mrežu, u odnosu na ciljeve očuvanja ekološke mreže i njezin integritet,
+9. područje utjecaja zahvata je prostor na kojem se predviđa rasprostiranje utjecaja planiranog zahvata na prirodu, uključujući i prostor kumulativnih utjecaja planiranog zahvata u kombinaciji s drugim zahvatima,
+10. zahvat u prirodu je svako privremeno ili trajno djelovanje čovjeka na prirodu koje može narušiti prirodnu ravnotežu ekološke mreže a odnosi se na djelovanje vezano uz planiranje i uređenje prostora, korištenje prirodnih dobara u vodnom gospodarstvu, šumarstvu i lovstvu, slatkovodnom i morskom ribarstvu, rudarstvu, poljoprivredi, energetici, prometu, telekomunikacijama, turizmu, športu i rekreaciji, i dr.

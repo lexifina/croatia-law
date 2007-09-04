@@ -1,0 +1,2 @@
+# Članak 14.
+Ukoliko se u postupku Ocjene drugih pogodnih mogućnosti utvrdi da niti jedna druga predložena mogućnost nije prihvatljiva, a štetni utjecaji planiranog zahvata ostaju, Ministarstvo izdaje rješenje kojim se odbija Zahtjev za izvođenje planiranog zahvata u prirodu, i uputiti Nositelja na utvrđivanje prevladavajućeg javnog interesa i kompenzacijskih uvjeta. Zahtjev za utvrđivanjem prevladavajućeg javnog interesa Nositelj putem Ministarstva upućuje Vladi Republike Hrvatske sukladno članku 37. stavku 2. Zakona.
