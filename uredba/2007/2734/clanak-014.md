@@ -1,0 +1,7 @@
+# Članak 14.
+(1) Danom upisa Agencije u sudski registar, prestaje s radom Uprava za financiranje programa i projekata pomoći Europske unije - Središnja jedinica za financiranje i ugovaranje u Ministarstvu financija.
+(2) Poslove, pismohranu i ostalu dokumentaciju, opremu te financijska prava i obveze Uprave za financiranje programa i projekata pomoći Europske unije - Središnja jedinica za financiranje i ugovaranje u Ministarstvu financija preuzima Agencija.
+(3) Državnim službenicima u službi na dan stupanja na snagu ove Uredbe u Upravi za financiranje programa i projekata pomoći Europske unije - Središnja jedinica za financiranje i ugovaranje u Ministarstvu financija, ponudit će se sporazumni prestanak državne službe i prijelaz u Agenciju na radna mjesta prema općim propisima o radu.
+(4) U svrhu provedbe stavaka 2. i 3. ovoga članka, ministar financija sklopit će s privremenim ravnateljem Agencije protokol o prijenosu Središnje jedinice za financiranje i ugovaranje, u roku 60 dana od dana stupanja na snagu ove Uredbe.
+(5) Državni službenici iz stavka 3. ovog članka koji ne prihvate sporazumni prestanak državne službe i prijelaz u Agenciju, rasporedit će se na odgovarajuća službenička mjesta u Ministarstvu financija, sukladno propisima o državnim službenicima.
+(6) Ministar financija predložit će Vladi Republike Hrvatske izmjene Uredbe o unutarnjem ustrojstvu Ministarstva financija, vezano za usklađivanje s odredbama ove Uredbe, u roku 60 dana od dana stupanja na snagu ove Uredbe.
