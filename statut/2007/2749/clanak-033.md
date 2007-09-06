@@ -1,0 +1,20 @@
+# Članak 33.
+U vođenju poslovanja Zavoda ravnatelj:
+1. osigurava izvršenje odredaba Zakona, ovog Statuta, financijskog plana i programa rada Zavoda, te općih akata Zavoda,
+2. poduzima sve pravne radnje u ime i za račun Zavoda,
+3. predlaže osnove poslovne politike Zavoda, financijski plan i program rada Zavoda,
+4. donosi odluke u vezi s poslovanjem Zavoda, osim onih o kojima odlučuje Upravno vijeće Zavoda,
+5. donosi opće akte za koje je prema ovome Statutu nije nadležno Upravno vijeće Zavoda,
+6. određuje osobe ovlaštene za potpisivanje dokumentacije Zavoda,
+7. imenuje i razrješava voditelje područnih službi Zavoda,
+8. sklapa ugovore o radu s radnicima Zavoda i odlučuje o svim pravima i obvezama iz radnog odnosa i u vezi s radnim odnosom,
+9. brine se o namjenskom trošenju sredstava Zavoda, djelotvornosti i zakonitosti u radu i poslovanju Zavoda,
+10. podnosi tromjesečna financijska izvješća ministru nadležnom za zdravstvo i ministru nadležnom za financije,
+11. osigurava rad Upravnog vijeća Zavoda i njihovih tijela te provedbu njihovih odluka,
+12. predlaže Upravnom vijeću Zavoda donošenje općih akata Zavoda,
+13. brine se o javnosti rada Zavoda, informiranju javnosti o obavljanju djelatnosti Zavoda, te objavljivanju općih akata Zavoda,
+14. utvrđuje pročišćene tekstove općih akata Zavoda,
+15. na osnovi izvornika općeg akta Zavoda utvrđuje i objavljuje ispravke pogrešaka u objavljenom tekstu toga akta,
+16. obavlja druge poslove na temelju zakona, ovog Statuta i drugih općih akata Zavoda,
+17. odlučuje o svim pitanjima koja nisu u nadležnosti Upravnog vijeća Zavoda,
+18. odgovoran je za zakonitost rada Zavoda, te daje upute i smjernice za rad Zavoda.

@@ -1,0 +1,2 @@
+# Članak 12.
+Općim aktom o unutarnjem ustrojstvu Zavoda utvrđuje se, u skladu sa Zakonom i ovim Statutom, naziv i djelokrug unutarnjih ustrojstvenih jedinica Središnje službe Zavoda i unutarnjih ustrojstvenih jedinica područnih službi Zavoda, odgovornost u vezi s njihovim upravljanjem i radom, kao i upravljanjem i radom ispostava područnih službi Zavoda, radna mjesta, okvirni broj potrebnih radnika, opći i posebni uvjeti za obavljanje poslova iz djelatnosti Zavoda, kao i druga pitanja značajna za obavljanje poslova u Zavodu.

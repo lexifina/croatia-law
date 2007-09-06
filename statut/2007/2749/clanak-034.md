@@ -1,0 +1,5 @@
+# Članak 34.
+Ravnatelj Zavoda u pravnim poslovima o stjecanju, opterećenju ili otuđenju nekretnine i druge imovine, odnosno kod sklapanja drugog pravnog posla samostalno odlučuje i raspolaže imovinom Zavoda u vrijednosti do 200.000,00 kuna.
+Pravne poslove o stjecanju, opterećenju ili otuđenju nekretnine i druge imovine, odnosno o sklapanju drugog pravnog posla u vrijednosti do 500.000,00 kuna ravnatelj Zavoda može poduzimati samo uz prethodnu suglasnost Upravnog vijeća Zavoda.
+Za pravne poslove o stjecanju, opterećenju ili otuđenju nekretnine i druge imovine odnosno o sklapanju drugog pravnog posla čija je vrijednost veća od 500.000,00 kuna potrebna je prethodna suglasnost Upravnog vijeća Zavoda i Vlade Republike Hrvatske.
+Odredbe stavka 2. i 3. ovog članka ne primjenjuju se na pravne poslove vezane uz sklapanje ugovora sa provoditeljima zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu, kao i na poslove vezane uz izvršenja rješenja o pravima iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu.
