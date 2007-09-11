@@ -1,0 +1,2 @@
+# Članak 7.
+Pravne osobe iz članka 1. ovoga Pravilnika za obavljanje mjerenja zvučne izolacije iz članka 2. točka 1 ovoga Pravilnika, moraju imati kao svoje osnovno sredstvo normirani izvor zvuka koji zadovoljava zahtjeve HRN EN ISO 140, HRN EN ISO 717 i HRN EN ISO 3382, normirani izvor udarnog zvuka koji zadovoljava zahtjeve norme HRN EN ISO 140, HRN EN ISO 717 i jedan od navedenih mjernih sustava iz članka 6. ovoga Pravilnika.
