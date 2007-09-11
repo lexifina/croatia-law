@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE MAKEDONIJE O SURADNJI NA PODRUČJU ZDRAVSTVA I MEDICINE
+Vlada Republike Hrvatske i Vlada Republike Makedonije (u daljnjem tekstu: »ugovorne stranke«), u svrhu razvitka i promicanja prijateljstva između dviju zemalja i jačanja razmjene i suradnje na području zdravstva i medicine između obje zemlje, nakon prijateljskih konzultacija, sporazumjele su se kako slijedi:
