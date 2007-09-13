@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje dozvole ili licence za obavljanje poslova brokera, investicijskog savjetnika i ovlaštenog upravitelja mirovinskim fondovima
