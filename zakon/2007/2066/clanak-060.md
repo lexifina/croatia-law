@@ -1,0 +1,4 @@
+# Članak 60.
+(1) Ako turistička agencija koja organizira putovanje (paket-aranžman i izlet) ili pruža uslugu prijevoza putnika ne koristi prijevozna sredstva u kojima su putnici osigurani od posljedica nesretnog slučaja i prtljaga od gubitka i oštećenja, kao i ugostiteljske objekte u kojima su korisnici usluga osigurani od posljedica nesretnog slučaja, gospodarski inspektor izreći će zabranu pružanja tih usluga turističkoj agenciji.
+(2) Iznimno se mjera iz stavka 1. ovoga članka neće primijeniti ako turistička agencija ima sklopljen ugovor s osiguravateljem o odgovornosti od obavljanja djelatnosti za navedene rizike.
+(3) Ako sredstva, oprema i uređaji kojima se pružaju turističke usluge ne udovoljavaju uvjetima propisanim ovim Zakonom, gospodarski inspektor izreći će zabranu korištenja navedenih sredstava, opreme i uređaja za pružanje tih usluga.

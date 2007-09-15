@@ -1,0 +1,4 @@
+# Članak 59.
+(1) Ako poslovni prostor, uređaji ili oprema u kojem ili kojima se pružaju turističke usluge ne udovoljavaju uvjetima propisanim ovim Zakonom i drugim propisima, gospodarski inspektor naredit će otklanjanje utvrđenih nedostataka i nepravilnosti, određujući rok u kojem se ti nedostaci i nepravilnosti moraju otkloniti, ako ih je moguće otkloniti.
+(2) Ako nedostaci i nepravilnosti iz stavka 1. ovoga Zakona ne budu otklonjeni u određenom roku, gospodarski inspektor zabranit će pružanje turističkih usluga u prostoru u kojem su utvrđeni nedostaci i nepravilnosti dok se ti nedostaci i nepravilnosti ne otklone.
+(3) Ako turistička agencija pruža usluge za koje ne ispunjava propisane uvjete ili pruža usluge koje nisu obuhvaćene rješenjem nadležnog tijela, gospodarski inspektor zabranit će turističkoj agenciji pružanje tih usluga.

@@ -1,0 +1,2 @@
+# Članak 80.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o turističkoj djelatnosti (»Narodne novine«, br. 8/96., 19/96., 76/98. i 76/99.) i odredbe članka 58. stavka 5. Zakona o Državnom inspektoratu (»Narodne novine«, br. 76/99., 96/03., 151/03., 160/04., 174/04., 33/05., 48/05., 129/05. i 140/05.) u dijelu koji se odnosi na provedbu inspekcijskog nadzora u području turističke djelatnosti.

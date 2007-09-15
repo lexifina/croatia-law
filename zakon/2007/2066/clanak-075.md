@@ -1,0 +1,2 @@
+# Članak 75.
+Ispitne komisije za polaganje stručnog ispita za voditelja poslovnice i stručnog ispita za turističkog vodiča ustrojene rješenjem ministra na visokim učilištima sukladno Zakonu o turističkoj djelatnosti (»Narodne novine«, br. 8/96., 19/96., 76/98. i 76/99.) i propisima donesenim na temelju toga Zakona nastavljaju s organizacijom i provođenjem stručnih ispita na temelju izdanih rješenja.

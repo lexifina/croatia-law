@@ -1,0 +1,8 @@
+## VIII. TURISTIČKE USLUGE KOJE UKLJUČUJU ŠPORTSKO-REKREATIVNE ILI PUSTOLOVNE AKTIVNOSTI
+# Članak 56.
+(1) Turističke usluge koje uključuju športsko-rekreativne ili pustolovne aktivnosti (skijanje, ronjenje, jedrenje, jahanje, gorsko-planinsko vođenje, splavarenje, uključujući i rafting, vožnju kanuima i drugim sličnim plovilima, padobransko jedrenje /paragliding/, skakanje s užetom /bungee-jumping/ i sl.) pružaju se pod uvjetima propisanim ovim Zakonom, propisima donesenim na temelju ovoga Zakona i drugim propisima i uz uvjet da ih pružaju stručno osposobljene osobe (treneri, instruktori, učitelji, voditelji, vodiči i sl.).
+(2) Prije započinjanja pružanja usluge iz stavka 1. ovoga članka, pružatelj usluge je obvezan istaknutom informacijom u pisanom obliku, te usmeno, upoznati korisnika usluge s vrstama rizika provođenja usluge.
+(3) Za pružanje usluga iz stavka 1. ovoga članka pružatelj usluge obvezan je osigurati korisnike usluga od posljedica nesretnog slučaja.
+(4) Osobama mlađim od 18 godina usluge iz stavka 1. ovoga članka mogu se pružati samo uz pisanu suglasnost roditelja, odnosno skrbnika.
+(5) Pružatelj usluga iz stavka 1. ovoga članka može odbiti pružanje usluga osobi mlađoj od 18 godina bez obzira na suglasnost roditelja odnosno skrbnika.
+(6) Ministar može pravilnikom propisati, uz suglasnost ministra nadležnog za obrazovanje i/ili šport, uvjete za pružanje turističke usluge iz stavka 1. ovoga članka, tehničke uvjete sredstava kojima se pružaju te usluge te način i program stručnog osposobljavanja osoba iz stavka 1. ovoga članka koji nisu regulirani posebnim propisom.

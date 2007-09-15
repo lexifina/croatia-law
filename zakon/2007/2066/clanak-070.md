@@ -1,0 +1,3 @@
+# Članak 70.
+(1) Fizičke osobe (građani) koje na dan stupanja na snagu ovoga Zakona pružaju turističke usluge u nautičkom turizmu iz članka 2. stavka 1. Pravilnika o turističkim uslugama u nautičkom turizmu koje može pružati građanin (»Narodne novine«, br. 109/96.) i turističke usluge iz članka 64. Zakona o turističkoj djelatnosti (»Narodne novine«, br. 8/96., 19/96., 76/98. i 76/99.) dužne su uskladiti svoje poslovanje s odredbama ovoga Zakona u roku od 6 mjeseci od stupanja na snagu ovoga Zakona.
+(2) Fizičkoj osobi (građaninu) koja ne uskladi svoje poslovanje sukladno stavku 1. ovoga članka nadležni ured rješenjem će utvrditi prestanak važenja izdanog rješenja o odobrenju za pružanje usluga.

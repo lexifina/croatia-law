@@ -1,0 +1,10 @@
+# Članak 26.
+(1) Turistički vodič je fizička osoba iz članka 3. stavka 6. ovoga Zakona koja pruža turistima usluge pokazivanja i stručnog objašnjavanja prirodnih ljepota i rijetkosti, kulturno-povijesnih spomenika, umjetničkih djela, etnografskih i drugih znamenitosti, povijesnih događaja, ličnosti, legendi o tim događajima i ličnostima, gospodarskih i političkih tijekova i zbivanja.
+(2) Turistički vodič može osobno pružati usluge turističkog vodiča i kao obrtnik ili trgovačko društvo.
+(3) U smislu ovoga Zakona turističkim vodičem smatra se državljanin Republike Hrvatske koji ispunjava uvjete za turističkog vodiča propisane ovim Zakonom.
+(4) Turističkim vodičem, u smislu ovoga Zakona, smatraju se i državljani država članica Europske unije i Europskoga ekonomskog prostora koji ispunjavaju uvjete za turističkog vodiča propisane ovim Zakonom.
+(5) Turistički vodič može pružati uslugu na području turističkih cjelina (lokaliteta) i na ostalom području Republike Hrvatske koje nije određeno kao turistička cjelina (lokalitet) ako je položio opći dio stručnog ispita za turističkog vodiča te posebni dio toga stručnog ispita koji se odnosi na turističke cjeline (lokalitete).
+(6) Turistički vodič može polagati i samo opći dio stručnog ispita za turističkog vodiča na temelju kojeg može pružati usluge turističkog vodiča na području Republike Hrvatske koje nije određeno kao turistička cjelina (lokalitet).
+(7) Ministar pravilnikom propisuje popis turističkih cjelina (lokaliteta) po županijama uz prethodno mišljenje ministra nadležnog za kulturu i zaštićena područja prirode.
+(8) Ne smatra se turističkim vodičem osoba koji obavlja poslove stručnog vođenja u muzeju, galeriji, zaštićenom području prirode, na arheološkom lokalitetu i sl., gorski vodič, planinski vodič, speleološki vodič, voditelj u ronilačkom turizmu te vodič u lovu i ribolovu.
+(9) Ne smatra se turističkim vodičem u smislu odredaba ovoga Zakona, strani državljanin koji prati organizirana grupna putovanja stranog organizatora koja su započela u stranoj državi i završavaju povratkom u stranoj državi ukoliko ne pruža usluge turističkog vodiča na području turističkih cjelina (lokaliteta).

@@ -1,0 +1,2 @@
+# Članak 2.
+Usluge u turizmu u smislu ovoga Zakona su: pružanje usluga turističke agencije, turističkog vodiča, turističkog pratitelja, turističkog animatora, turističkog zastupnika, turističke usluge u nautičkom turizmu, turističke usluge u seljačkom gospodarstvu ili obiteljskom poljoprivrednom gospodarstvu, turističke usluge u ostalim oblicima turističke ponude i ostale usluge koje se pružaju turistima u svezi s njihovim putovanjem i boravkom.
