@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Proizvođač obavlja kontrolu kakvoće proizvoda iz članka 3. i 4. ove Uredbe prema metodama ispitivanja iz članka 12. ove Uredbe. Ispitivanje kakvoće proizvoda obavlja se u laboratoriju proizvođača.
+(2) Na temelju ispitivanja iz stavka 1. ovoga članka proizvođač je dužan izraditi izvješće o sukladnosti proizvoda s graničnim vrijednostima sadržaja hlapivih organskih spojeva propisanim ovom Uredbom za koje odgovara.
+(3) Ako dođe do promjene procesa proizvodnje proizvoda iz članka 3. i 4. ove Uredbe, odnosno recepture proizvoda, a koja može utjecati na propisane granične vrijednosti sadržaja hlapivih organskih spojeva u proizvodu mora se obaviti novi postupak ispitivanja kakvoće.
+(4) Uvoznik proizvoda iz članka 3. i 4. ove Uredbe osigurava potvrdu o obavljenom ispitivanju kakvoće proizvoda iz članka 3. i 4. ove Uredbe, odnosno izvješće o sukladnosti ili druge odgovarajuće isprave izdane u inozemstvu kojima dokazuje sukladnost proizvoda s graničnim vrijednostima sadržaja hlapivih organskih spojeva propisanim ovom Uredbom za koje odgovara.
