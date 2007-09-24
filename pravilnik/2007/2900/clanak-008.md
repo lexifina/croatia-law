@@ -1,0 +1,2 @@
+# Članak 8.
+Ukoliko obveznici ne omoguće uvid iz članka 6. stavka 3. ovog Pravilnika ili ne dostavljaju podatke ili ne dostavljaju podatke u rokovima propisanim ovim Pravilnikom i drugim propisima vodnog gospodarstva ili dostavljaju očito netočne podatke, Hrvatske vode će naknadu obračunati na temelju podataka nadzora ili najviše dopuštenih količina iz ugovora o koncesiji i/ili vodopravnog akta, a za obveznike iz članka 2. točke 8. ovog Pravilnika i na temelju financijske dokumentacije.
