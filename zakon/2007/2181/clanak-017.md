@@ -1,0 +1,6 @@
+# Članak 17.
+Podnositelj zahtjeva za davanje odobrenja za stavljanje gotovog lijeka u promet iz članka 14. ovoga Zakona obvezan je priložiti rezultate nekliničkih ispitivanja ili rezultate kliničkih ispitivanja:
+a) ako gotov lijek ne odgovara u potpunosti pojmu generičkog lijeka ili kada se bioekvivalentnost ne može dokazati ispitivanjem bioraspoloživosti ili u slučaju izmjena u djelatnoj tvari ili djelatnim tvarima, terapijskim indikacijama, dozi, farmaceutskom obliku ili putu primjene u odnosu na referentni lijek,
+b) za biološki lijek sličan referentnom biološkom lijeku (biosličan lijek) koji ne udovoljava pojmu generičkog lijeka zbog razlika s obzirom na sirovine ili razlika u proizvodnom postupku biosličnog lijeka i referentnog biološkog lijeka.
+Za lijek koji sadrži djelatne tvari koje su bile u sastavu lijekova odobrenih u Republici Hrvatskoj ili Europskoj uniji, ali do sada u toj kombinaciji nisu korištene u terapijske svrhe, podnositelj zahtjeva za davanje odobrenja za stavljanje gotovog lijeka u promet iz članka 14. ovoga Zakona obvezan je priložiti odgovarajuće rezultate novih nekliničkih ispitivanja ili novih kliničkih ispitivanja za tu kombinaciju, a nije obvezan priložiti znanstvene podatke za svaku djelatnu tvar.
+Način dokazivanja bioekvivalentnosti lijekova pravilnikom propisuje ministar.

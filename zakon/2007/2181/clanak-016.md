@@ -1,0 +1,2 @@
+# Članak 16.
+U slučaju iz članka 15. točke a) ovoga Zakona, ako referentni lijek nema odobrenje za stavljanje u promet u Republici Hrvatskoj, podnositelj zahtjeva za davanje odobrenja za stavljanje istovrsnog (generičkog) lijeka u promet obvezan je u zahtjevu navesti državu Europske unije na koju se poziva, a u kojoj referentni lijek ima odobrenje za stavljanje u promet te godinu davanja prvog odobrenja.

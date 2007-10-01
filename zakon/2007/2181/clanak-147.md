@@ -1,0 +1,2 @@
+# Članak 147.
+Danom stupanja na snagu ovoga Zakona prestaju važiti odredbe Zakona o lijekovima i medicinskim proizvodima (»Narodne novine«, br. 121/03. i 177/04.), osim odredaba članka 43. stavka 1., članka 51. stavaka 4., 5., 6., 7. i 8., članka 52., članaka 76. do 86. u dijelu koji se odnosi na medicinske proizvode te članaka 99. do 123., a taj Zakon prestaje važiti na dan isteka roka od godinu dana od dana stupanja na snagu ovoga Zakona.

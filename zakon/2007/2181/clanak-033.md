@@ -1,0 +1,2 @@
+# Članak 33.
+U postupku davanja ocjene o ispunjavanju uvjeta za davanje proizvodne dozvole, pored podataka i dokumenata iz članka 31. ovoga Zakona, Stručno povjerenstvo Agencije utvrđuje jesu li ispunjeni uvjeti dobre proizvođačke prakse iz članka 34. ovoga Zakona u proizvodnji lijeka ili skupine lijekova za koje se dozvola traži, a mišljenje o ispunjavanju uvjeta dobre proizvođačke prakse daje farmaceutski inspektor ministarstva.

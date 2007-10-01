@@ -1,0 +1,11 @@
+# Članak 24.
+Nakon davanja odobrenja za stavljanje gotovog lijeka u promet, nositelj odobrenja obvezan je pratiti najnovija znanstvena i tehnička dostignuća u postupku proizvodnje i provjere kakvoće lijeka te uvoditi potrebne izmjene kako bi osigurao da se lijek proizvodi i da mu se kakvoća provjerava u skladu s općeprihvaćenim znanstvenim metodama.
+Nositelj odobrenja za stavljanje gotovog lijeka u promet obvezan je prije uvođenja izmjena iz stavka 1. ovoga članka koje mogu utjecati na izmjenu odobrenja za stavljanje gotovoga lijeka u promet ili na izmjenu u dokumentaciji prihvaćenoj u postupku davanja odobrenja podnijeti Agenciji zahtjev za odobrenje izmjene.
+Nositelj odobrenja za stavljanje lijeka u promet obvezan je, bez odgode, obavijestiti Agenciju o svakom novom podatku koji utječe na dopunu ili izmjenu u dokumentaciji prihvaćenoj u postupku davanja odobrenja, a osobito podatke koji mogu utjecati na procjenu odnosa rizika i koristi te na mjere ograničenja i zabrana koje su uvele druge države u kojima je lijek stavljen u promet.
+Uz zahtjev za odobrenje izmjene nositelj odobrenja obvezan je priložiti podatke i dokumente, ovisno o vrsti izmjena.
+Izmijenjeno odobrenje iz stavka 9. ovoga članka daje se do isteka roka važenja odobrenja čija se izmjena tražila.
+Ako zahtjev iz stavka 4. ovoga članka nije valjan, Agencija pisanim putem poziva podnositelja zahtjeva da u roku od 30 dana dopuni ili ispravi zahtjev.
+Ako Agencija traži od podnositelja dopunu zahtjeva, rok iz stavka 9. ovoga članka ne teče do dana dostave dopunjenog zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje usmenog ili pisanog obrazloženja.
+Ako odobrena izmjena zahtijeva izmjenu rješenja o odobrenju za stavljanje gotovog lijeka u promet ili njegovih sastavnih dijelova, Agencija donosi rješenje o izmjeni rješenja o odobrenju za stavljanje gotovog lijeka u promet protiv kojeg nije dopuštena žalba već se protiv tog rješenja može pokrenuti upravni spor.
+Izmjenu rješenja o odobrenju za stavljanje gotovog lijeka u promet ili odobrenje izmjene Agencija je obvezna dati ili uskratiti, ovisno o vrsti izmjene, u roku ne duljem od 90 dana od dana primitka valjanoga zahtjeva.
+Ministar će pravilnikom pobliže odrediti postupke prihvaćanja i sadržaj dokumentacije koja se podnosi u svrhu izmjene odobrenja za stavljanje lijeka u promet.

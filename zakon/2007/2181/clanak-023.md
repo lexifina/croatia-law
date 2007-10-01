@@ -1,0 +1,9 @@
+# Članak 23.
+Najkasnije 180 dana prije isteka roka važenja odobrenja za stavljanje u promet gotovog lijeka iz članka 11. stavka 3. ovoga Zakona, Agenciji se može podnijeti zahtjev za obnovu odobrenja za stavljanje u promet gotovog lijeka.
+Odobrenje za stavljanje gotovog lijeka u promet može se obnoviti na sljedećih pet godina.
+Odobrenje za stavljanje u promet gotovog lijeka može se dati na neograničeno vrijeme nakon što Agencija ponovno procijeni odnos rizika i koristi te ako je u svrhu obnove odobrenja za stavljanje u promet gotovog lijeka nositelj odobrenja dostavio Agenciji upotpunjenu dokumentaciju s obnovljenim podacima o kakvoći, sigurnosti primjene i djelotvornosti gotovog lijeka, uključujući sve izmjene od dana dobivanja odobrenja.
+Nakon obnove odobrenja za stavljanje u promet gotovog lijeka provedene sukladno stavku 3. ovoga članka, odobrenje za stavljanje u promet gotovog lijeka vrijedi neograničeno, osim ako Agencija iz razloga koji se odnose na farmakovigilanciju ne zatraži ponovno pokretanje postupka obnove odobrenja sukladno odredbi stavka 3. ovoga članka.
+Obnovu odobrenja za stavljanje u promet gotovoga lijeka Agencija je obvezna dati ili uskratiti rješenjem u roku od 180 dana od dana primitka valjanog zahtjeva.
+Ako zahtjev nije valjan, Agencija poziva podnositelja zahtjeva da u roku ne duljem od 30 dana ukloni nedostatke izričito navedene u pisanoj obavijesti i dostavi dokumentaciju sa zatraženim podacima i dokumentima.
+Ako Agencija traži od podnositelja dopunu zahtjeva, rok iz stavka 5. ovoga članka ne teče do dana dostave dopunjenoga zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje usmenog ili pisanog obrazloženja.
+Sadržaj dokumentacije iz stavka 3. ovoga članka koja se podnosi u svrhu obnove odobrenja za stavljanje u promet gotovog lijeka pravilnikom će propisati ministar.
