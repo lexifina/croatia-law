@@ -1,0 +1,1 @@
+Na temelju članka 7., a u vezi s člankom 2. stavkom 1. točkom 4. i stavkom 4. Zakona o privatizaciji Hrvatskih telekomunikacija d.d. (»Narodne novine«, broj 65/99 i 68/2001), Vlada Republike Hrvatske je na sjednici održanoj 1. listopada 2007. donijela
