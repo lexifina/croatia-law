@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 32/2002,86/2002, 114/2003 i 151/2003), Vlada Republike Hrvatske je na sjednici održanoj 27. rujna 2007. godine donijela
