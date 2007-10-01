@@ -1,0 +1,4 @@
+# Članak 142.
+(1) Sporove o pravu vlasništva i drugim stvarnim pravima nekretnina te o njihovom obliku, veličini i izgrađenosti kao i druge postupke nužne za provedbu postupaka komasacije, osim postupaka čija je provedba u nadležnosti građevinske i urbanističke inspekcije, rješava tijelo nadležno za provedbu komasacije kao prethodno pitanje.
+(2) Mjere zabrane raspolaganja nekretninama koje su predmet postupaka komasacije ili pojedinih radnji u tom postupku donesene od tijela državne vlasti ne sprečavaju provedbu postupka komasacije.
+(3) Utvrđivanjem stvarnog stanja vlasništva i drugih stvarnih prava na nekretninama u smislu članka 141. ovoga Zakona te rješavanjem prethodnih pitanja iz stavka 1. ovoga članka ne dira se u prava trećih osoba na te nekretnine niti na mogućnost uređivanja ovih pitanja pred inače nadležnim tijelima državne vlasti nakon pravomoćnog okončanja postupka komasacije.

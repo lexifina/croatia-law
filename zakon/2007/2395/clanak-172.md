@@ -1,0 +1,4 @@
+# Članak 172.
+(1) Protiv rješenja o komasaciji može se izjaviti žalba Državnom komasacijskom povjerenstvu u roku od petnaest dana od dana dostave izvoda iz rješenja o komasaciji.
+(2) Žalbom iz stavka 1. ovoga članka ne može se pobijati način utvrđivanja i visine utvrđene tržišne vrijednosti nekretnine za koju se plaća ili dobiva naknada, odnosno iznos ove naknade, ali nezadovoljna stranka, odnosno druga osoba može po konačnosti rješenja o komasaciji zatražiti da sud u izvanparničnom postupku utvrdi iznos tržišne vrijednosti komasirane nekretnine te iznos naknade u skladu s ovim Zakonom.
+(3) U postupku iz stavka 2. ovoga članka, ovisno o utvrđenoj tržišnoj vrijednosti nekretnine, sud će jedinici lokalne samouprave, odnosno nezadovoljnoj stranci odrediti plaćanje razlike između utvrđene tržišne vrijednosti nekretnine i dobivene, odnosno plaćene naknade na temelju rješenja o komasaciji s pripadajućom kamatom od dana pravomoćnosti sudske odluke.

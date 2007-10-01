@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Prostorno uređenje temelji se na sveobuhvatnoj prirodi prostornog planiranja u odnosu na planiranje pojedinih gospodarskih područja, uvažavanju opće prihvaćenih načela zaštite prostora, znanstvenih i stručnih spoznaja i najbolje prakse te na poštivanju međunarodnih smjernica i dokumenata u području prostornog uređenja.
+(2) Praćenje stanja u prostoru, izrada, donošenje i provođenje dokumenata prostornog uređenja su trajne aktivnosti prostornog uređenja čija stalnost i neprekidnost pridonosi očuvanju prostornih vrijednosti, ostvarivanju i usuglašavanju interesa te utvrđivanju prioriteta djelovanja.

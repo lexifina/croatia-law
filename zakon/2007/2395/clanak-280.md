@@ -1,0 +1,11 @@
+## Uvjeti za obavljanje poslova inspekcijskog nadzora
+# Članak 280.
+(1) Na radno mjesto glavnoga urbanističkog inspektora može se rasporediti diplomirani inženjer arhitektonske struke s najmanje deset godina radnog iskustva u struci, od čega tri godine u inspekciji i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(2) Na radno mjesto višega urbanističkog inspektora može se rasporediti diplomirani inženjer arhitektonske ili građevinske struke s najmanje deset godina radnog iskustva u struci i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(3) Na radno mjesto urbanističkog inspektora može se rasporediti diplomirani inženjer arhitektonske ili građevinske struke s najmanje pet godina radnog iskustva u struci i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(4) Na radno mjesto glavnoga građevinskog inspektora može se rasporediti diplomirani inženjer arhitektonske ili građevinske struke s najmanje deset godina radnog iskustva u struci od čega tri godine u inspekciji i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(5) Na radno mjesto višeg građevinskog inspektora može se rasporediti diplomirani inženjer arhitektonske ili građevinske struke s najmanje deset godina radnog iskustva u struci i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(6) Na radno mjesto građevinskog inspektora može se rasporediti diplomirani inženjer arhitektonske ili građevinske struke s najmanje pet godina radnog iskustva u struci i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(7) Na radno mjesto nadzornika za građenje s položajem građevinskog inspektora druge vrste zvanja može se rasporediti diplomirani inženjer građevinske struke, odnosno inženjer građevinske struke s najmanje tri godina radnog iskustva i položenim stručnim ispitom iz članka 5. ovoga Zakona.
+(8) Ministar, odnosno osoba koju on odredi može radi hitne potrebe ili ekonomičnijeg obavljanja inspekcijskog nadzora, u skladu s posebnim zakonom, pisano narediti (višem) građevinskom inspektoru iz jedne područne jedinice da privremeno provodi nadzor na području druge područne jedinice, a najmanje trideset dana neprekidno.
+(9) Radna mjesta s ovlastima inspekcijskog nadzora te detaljnijim uvjetima i njihovim ovlastima koje moraju ispunjavati osobe na tim radnim mjestima utvrđuje ministar Pravilnikom o unutarnjem redu Ministarstva.

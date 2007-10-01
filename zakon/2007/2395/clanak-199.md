@@ -1,0 +1,3 @@
+# Članak 199.
+(1) U slučaju da izvedbeni projekt nije izradio projektant glavnog projekta, investitor je dužan projektantu glavnoga projekta prije početka građenja, odnosno izvođenja određenih radova dostaviti izvedbeni projekt ili njegov dio radi davanja mišljenja o usklađenosti izvedbenog projekta s glavnim projektom.
+(2) Mišljenje iz stavka 1. ovoga članka u slučaju neusklađenosti glavnog i izvedbenog projekta, projektant glavnog projekta dužan je dostaviti i Ministarstvu odnosno nadležnom tijelu državne uprave koje je izdalo građevinsku dozvolu odnosno potvrdu glavnog projekta, građevinskoj inspekciji i Hrvatskoj komori arhitekata i inženjera u graditeljstvu.

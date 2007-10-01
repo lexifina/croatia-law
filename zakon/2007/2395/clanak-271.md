@@ -1,0 +1,2 @@
+# Članak 271.
+Održavanje građevine te poslove praćenja stanja građevine, povremene godišnje preglede građevine, izradu pregleda poslova za održavanje i unapređivanje ispunjavanja bitnih zahtjeva za građevine, utvrđivanje potrebe za obavljanje popravaka građevine i druge slične stručne poslove, vlasnik građevine, odnosno osoba koja obavlja poslove upravljanja građevinama prema posebnom zakonu mora povjeriti osobama koje ispunjavaju propisane uvjete za obavljanje tih poslova posebnim zakonom.

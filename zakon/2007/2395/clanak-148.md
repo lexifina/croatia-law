@@ -1,0 +1,6 @@
+## Komasacijsko povjerenstvo županije, Grada Zagreba i velikog grada
+# Članak 148.
+(1) Komasacijsko povjerenstvo za svoje područje osniva predstavničko tijelo županije, Grada Zagreba, odnosno velikog grada.
+(2) Komasacijsko povjerenstvo radi do opoziva.
+(3) Komasacijsko povjerenstvo ima predsjednika i četiri člana. Predsjednik i članovi povjerenstva imaju zamjenike koji ih zamjenjuju u slučaju njihove spriječenosti.
+(4) Predsjednika i članove komasacijskog povjerenstva te njihove zamjenike imenuje i razrješava predstavničko tijelo županije, Grada Zagreba, odnosno velikog grada. Predsjednik i njegov zamjenik imenuju se iz reda službenika županije, Grada Zagreba, odnosno velikog grada koji su diplomirani pravnici. Jedan član i njegov zamjenik imenuju se iz reda službenika županije, Grada Zagreba, odnosno velikog grada koji su diplomirani inženjeri arhitekture. Po jedan član i njegov zamjenik imenuju se iz reda sudaca županijskog suda koji imaju radnog iskustva u građansko-pravnim odnosima, iz reda službenika katastarskog ureda koji je diplomirani inženjer geodezije i reda članova općinskog vijeća, gradskog vijeća odnosno predstavnika Gradske skupštine Grada Zagreba na čijem se području provodi komasacija.

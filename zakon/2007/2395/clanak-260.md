@@ -1,0 +1,5 @@
+# Članak 260.
+(1) Ministarstvo odnosno nadležno upravno tijelo poziva na tehnički pregled sudionike u gradnji čija je prisutnost odlučna za obavljanje tehničkog pregleda. Pozvani sudionici u gradnji dužni su odazvati se pozivu i sudjelovati u radu povjerenstva.
+(2) O mjestu, danu i satu obavljanja tehničkog pregleda, Ministarstvo odnosno nadležno upravno tijelo dužno je obavijestiti investitora. Investitor je dužan osigurati prisutnost sudionika u gradnji na tehničkom pregledu.
+(3) Predsjednik povjerenstva o obavljenom tehničkom pregledu sastavlja zapisnik u koji se unosi i mišljenje članova povjerenstva o tome može li se izgrađena građevina koristiti ili se prethodno moraju otkloniti utvrđeni nedostaci ili se ne može izdati uporabna dozvola.
+(4) Ako predstavnik tijela ili osobe određenih posebnim propisima nije prisustvovao tehničkom pregledu, niti je u roku od osam dana od dana određenog za obavljanje tehničkog pregleda dostavio nadležnom upravnom tijelu mišljenje u skladu sa stavkom 3. ovoga članka, smatrat će se da je mišljenje toga tijela ili osobe dano, da se građevina može koristiti i da se može izdati uporabna dozvola.

@@ -1,0 +1,6 @@
+## Ispitivanje i istraživanje građevine
+# Članak 20.
+(1) Ispitivanje određenih dijelova građevine u svrhu provjere, odnosno dokazivanja ispunjavanja bitnih zahtjeva za građevinu te prethodna istraživanja bitna za projektiranje, građenje ili održavanje građevina, obavljaju ovlaštene osobe.
+(2) Ovlaštenje za obavljanje poslova iz stavka 1. ovoga članka daje i oduzima ministar.
+(3) Uvjete za obavljanje poslova ispitivanja i istraživanja iz stavka 1. ovoga članka u odnosu na osobe, tehničke opremljenosti, način i složenost obavljanja tih poslova, odgovornosti za rezultate ispitivanja, odnosno prethodnih istraživanja, neovisnost u odnosu na osobe koje sudjeluju u projektiranju, građenju ili održavanju građevine i način dokumentiranja rezultata ispitivanja, odnosno prethodnih istraživanja, sredstva kojima pravna osoba dokazuje ispunjavanje tih uvjeta u postupku davanja ovlaštenja iz stavka 2. ovoga članka te uvjete za produženje i oduzimanje tog ovlaštenja, propisuje ministar pravilnikom.
+(4) Uvjete za obavljanje poslova iz stavka 3. ovoga članka koji se odnose na ispitivanje i istraživanje vezano uz zaštitu od požara, uz suglasnost ministra unutarnjih poslova, propisuje ministar pravilnikom.

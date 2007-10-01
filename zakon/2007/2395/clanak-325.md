@@ -1,0 +1,8 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Započeti postupci i izdane dozvole
+# Članak 325.
+(1) Postupci započeti po odredbama Zakona o prostornom uređenju (»Narodne novine«, br. 30/94., 68/98., 61/00., 32/02. i 100/04.) i Zakona o gradnji (»Narodne novine«, br. 175/03. i 100/04.) do stupanja na snagu ovoga Zakona dovršit će se po odredbama tih zakona i propisa donesenih na temelju tih zakona.
+(2) Iznimno od stavka 1. ovoga članka postupak izrade i donošenja prostornog plana i/ili njegovih izmjena i dopuna, u kojemu do stupanja na snagu ovoga Zakona nije objavljena javna rasprava ili je od završetka javne rasprave prošlo više od devet mjeseci dovršit će se prema odredbama ovoga Zakona.
+(3) Stavak 2. ovoga članka ne odnosi se na postupak izrade i donošenja generalnog urbanističkog plana.
+(4) Iznimno od stavka 1. ovoga članka postupak izdavanja lokacijske dozvole za građenje zgrade čija građevinska (bruto) površina nije veća od 400 m i zgrade za obavljanje isključivo poljoprivrednih djelatnosti čija građevinska (bruto) površina nije veća od 600 m na zemljištu na kojemu je izgrađena takva građevina bez građevinske dozvole odnosno drugoga odgovarajućeg akta, započet po odredbama Zakona o prostornom uređenju (»Narodne novine«, br. 30/94., 68/98., 61/00., 32/02. i 100/04.) dovršit će se po odredbama ovoga Zakona kojima se uređuje izdavanje rješenja o izvedenom stanju.
+(5) U postupku izdavanja uporabne dozvole pokrenutom nakon stupanja na snagu ovoga Zakona za građevinu izgrađenu po propisima koji su važili prije stupanja na snagu ovoga Zakona, utvrđuje se je li građevina izgrađena u skladu s građevinskom dozvolom i propisima koji su važili u vrijeme kad je izdana građevinska dozvola za tu građevinu.

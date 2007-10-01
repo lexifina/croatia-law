@@ -1,0 +1,5 @@
+## Mogućnost građenja u građevinskom području
+# Članak 125.
+(1) Lokacijska dozvola, rješenje o uvjetima građenja i rješenje o izvedenom stanju na dijelu građevinskog područja za koji je prema ovom Zakonu propisana obveza donošenja urbanističkog plana uređenja ili detaljnog plana uređenja može se izdati samo na temelju tog plana.
+(2) Lokacijska dozvola, rješenje o uvjetima građenja, rješenje o izvedenom stanju i potvrda izvedenog stanja za zgrade na dijelu građevinskog područja iz stavka 1. ovoga članka, može se izdati samo za građenje na uređenoj građevnoj čestici (pristup s prometne površine, odvodnja otpadnih voda i propisani broj parkirališnih mjesta) u skladu s urbanističkim planom uređenja, odnosno detaljnim planom uređenja ili čije je uređenje započeto na temelju programa gradnje građevina i uređaja komunalne infrastrukture prema posebnom zakonu na način da su izvedeni barem zemljani radovi u skladu s navedenim planom.
+(3) Stavak 1. i 2. ovoga članka ne odnosi se na izdavanje lokacijske dozvole i rješenja o uvjetima građenja za građenje zamjenskih građevina i za rekonstrukciju postojećih građevina.

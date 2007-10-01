@@ -1,0 +1,9 @@
+## Poziv za uvid u idejni projekt
+# Članak 111.
+(1) Ako u postupku izdavanja lokacijske dozvole sudjeluje više od deset stranaka koje su vlasnici ili nositelji drugih stvarnih prava na istoj nekretnini, a koje nemaju zajedničkog predstavnika ili punomoćnika, Ministarstvo, odnosno nadležno upravno tijelo može zaključkom putem jedne od stranaka, narediti da u roku od deset dana odrede tko će ih predstavljati ili da postave zajedničkog punomoćnika. Ako stranke ne postupe po zaključku, zajedničkog predstavnika odredit će nadležno upravno tijelo.
+(2) Ako se lokacijska dozvola izdaje za građevinu koja neposredno graniči s više od deset nekretnina, Ministarstvo, odnosno nadležno upravno tijelo može pozvati stranke radi uvida putem javnog poziva, koji se objavljuje u dnevnom tisku i/ili na lokalno uobičajeni način javnog priopćavanja te na oglasnoj ploči, a nadležno upravno tijelo poziv izlaže i na građevnoj čestici ili građevini na koju se odnosi zahvat u prostoru.
+(3) Javni poziv iz stavka 2. ovoga članka:
+- obvezno sadrži naziv Ministarstva, odnosno nadležnog upravnog tijela, ime, odnosno tvrtku podnositelja zahtjeva, naziv, vrstu i lokaciju građevine, mjesto i vrijeme na kojemu stranka može izvršiti uvid i dati izjašnjenje, te obavijest da se pozivu ne mora odazvati osobno već putem svojeg opunomoćenika i da se lokacijska dozvola može izdati iako se stranka ne odazove pozivu,
+- objavljuje se, odnosno izlaže najmanje osam dana prije dana, koji je u pozivu određen za uvid,
+- izlaže se na građevnoj čestici, odnosno građevini na koju se odnosi zahvat u prostoru na vidljivom i dostupnom mjestu te na način da bude zaštićen od vremenskih prilika, o čemu službenik nadležnog upravnog tijela u spisu predmeta sastavlja službenu zabilješku,
+- smatra se dostavljen danom objave u dnevnom tisku i/ili na drugi lokalno uobičajeni način javnog priopćavanja, čime je ispunjena dužnost nadležnog upravnog tijela iz članka 110. stavka 1. ovoga Zakona.

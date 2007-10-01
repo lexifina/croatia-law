@@ -1,0 +1,3 @@
+# Članak 216.
+(1) Prije izdavanja rješenja o uvjetima građenja, nadležno upravno tijelo dužno je stranci pružiti mogućnost uvida u idejni projekt radi izjašnjenja (u daljnjem tekstu: uvid).
+(2) Stranka u smislu stavka 1. ovoga članka je investitor, vlasnik nekretnine za koju se izdaje rješenje o uvjetima građenja i nositelj drugih stvarnih prava na toj nekretnini, vlasnik i nositelj drugih stvarnih prava na nekretnini koja neposredno graniči s nekretninom za koju se izdaje rješenje te javna ustanova za upravljanje nacionalnim parkom i parkom prirode i jedinica lokalne samouprave na čijem se području nalazi nekretnina.

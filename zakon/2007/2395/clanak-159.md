@@ -1,0 +1,3 @@
+## Dodjeljivanje građevnih i drugih čestica
+# Članak 159.
+Građevne i druge čestice formirane od zemljišta koje je predmet komasacije određene detaljnim planom uređenja za građenje i uređenje građevina i uređaja komunalne infrastrukture i čestice određene za građenje električne i telekomunikacijske infrastrukture, te zdravstvenih, obrazovnih, upravnih i drugih javnih građevina potrebnih za obavljanje poslova iz djelokruga jedinice lokalne samouprave i tijela državne vlasti, te dijelovi zemljišta potrebni za formiranje građevnih čestica na kojima su izgrađene ove građevine, uređaji i zgrade (u daljnjem tekstu: čestice za javnu namjenu), dodjeljuju se u vlasništvo jedinice lokalne samouprave.

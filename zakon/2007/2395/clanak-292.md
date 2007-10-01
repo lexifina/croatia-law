@@ -1,0 +1,3 @@
+# Članak 292.
+(1) U provedbi inspekcijskog nadzora urbanistički inspektor jedinici lokalne, odnosno područne (regionalne) samouprave rješenjem naređuje u primjerenom roku otklanjanje nepravilnosti i/ili nezakonitosti koje utvrdi u izvješću o stanju u prostoru, u odluci o izradi prostornog plana i u dokumentu prostornog uređenja i/ili u postupku njihove izrade, prihvaćanja, odnosno donošenja.
+(2) Ako jedinica lokalne, odnosno područne (regionalne) samouprave ne postupi po rješenju iz stavka 1. ovoga članka, Ministarstvo će na prijedlog urbanističkog inspektora ukinuti izvješće, odnosno donijeti odluku o obustavi od primjene odluke o izradi prostornog plana, odnosno dokumenta prostornog uređenja ili pojedinih odredbi tih akata.

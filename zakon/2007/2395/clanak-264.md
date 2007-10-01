@@ -1,0 +1,5 @@
+# Članak 264.
+(1) Za građevinu za koju je Ministarstvo izdalo građevinsku dozvolu te za građevinu za koju je donesena odluka Vlade o utvrđivanju interesa Republike Hrvatske ili za koju je posebnim zakonom određen interes Republike Hrvatske, može se iznimno izdati privremena uporabna dozvola:
+- ako nema konačnih rezultata ispitivanja glede ocjenjivanja sukladnosti, odnosno dokazivanja kvalitete određenih dijelova građevine, a tehničkim pregledom je utvrđeno da je građevina izgrađena u skladu s građevinskom dozvolom, te da su provedeni svi kontrolni postupci glede ocjenjivanja sukladnosti, odnosno dokazivanja kvalitete određenih dijelova građevine za sve radove tijekom građenja kada je ta obveza određena ovim Zakonom, propisima donesenim na temelju ovoga Zakona, posebnim propisom ili projektom, ili
+- ako građevina ima nedostatke koji nisu člankom 262. stavkom 2. određeni kao razlozi za odbijanje izdavanja uporabne dozvole te koji ne utječu na ispunjavanje bitnih zahtjeva za građevinu prema ovom Zakonu.
+(2) Privremena uporabna dozvola izdaje se na rok koji nije duži od devedeset dana, a istekom tog roka potrebno je ishoditi uporabnu dozvolu.

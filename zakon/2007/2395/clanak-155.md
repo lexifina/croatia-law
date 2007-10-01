@@ -1,0 +1,6 @@
+## Zaključak o provedbi postupka komasacije
+# Članak 155.
+(1) Kada su ispunjene sve formalne pretpostavke za postupanje po zahtjevu za komasaciju, te kada su uz zahtjev priloženi svi propisani i za provedbu komasacije potrebni dokumenti i podaci, komasacijsko povjerenstvo donosi zaključak o provedbi postupka komasacije.
+(2) Ako nisu ispunjene sve formalne pretpostavke za postupanje po zahtjevu za komasaciju, odnosno ako uz zahtjev nisu priloženi svi propisani i za provedbu komasacije potrebni dokumenti i podaci, komasacijsko povjerenstvo će podnositelja zahtjeva zaključkom pozvati da u određenom roku uredi, odnosno dopuni svoj zahtjev.
+(3) Ako podnositelj zahtjeva ne uredi, odnosno ne dopuni svoj zahtjev sukladno zaključku iz stavka 2. ovoga članka, komasacijsko povjerenstvo će rješenjem odbaciti zahtjev za komasaciju.
+(4) Zaključak iz stavka 1. ovoga članka, uz ostalo, obvezno sadrži oznaku nekretnina koje su predmet komasacije i pojedinih radnji u tom postupku, a dostavlja se katastarskom uredu i nadležnom zemljišnoknjižnom sudu, svim strankama javnim priopćenjem u dnevnom tisku i objavom na web stranici jedinice lokalne samouprave, te se izlaže najmanje petnaest dana na oglasnoj ploči nadležnog tijela županije odnosno velikog grada i mjesnih odbora odnosno gradskih četvrti na čijem se području provodi komasacija.

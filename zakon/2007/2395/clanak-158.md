@@ -1,0 +1,5 @@
+## Očitovanje stranaka i utvrđivanje stvarnog stanja nekretnina
+# Članak 158.
+(1) U svrhu utvrđivanja stvarnog stanja nekretnina u pogledu njihova vlasnika, drugih stvarnih prava, oblika, veličine i izgrađenosti te radi pružanja mogućnosti strankama da se izjasne o činjenicama i okolnostima koje su od važnosti za donošenje rješenja, sve stranke pozivaju se na očitovanje osobno i javnim priopćenjem na način propisan člankom 171. stavkom 2. ovoga Zakona.
+(2) Prilikom očitovanja strankama se obvezno objašnjava svrha i pravne posljedice komasacije, predočavaju svi dokumenti koji se nalaze u spisu predmeta, a posebno parcelacijski elaborat, te ih se obvezno upozorava da će za zemljište, koje je predmet komasacije, dobiti naknadu u novcu prema tržišnoj vrijednosti ako ne zatraže dodjelu građevne čestice.
+(3) Ako je za utvrđivanje stvarnog stanja nekretnina glede njihova oblika, veličine i izgrađenosti potrebno stručno znanje geodetske struke dokazi se izvode uz pomoć osobe ovlaštene za obavljanje poslova državne izmjere i katastra nekretnina prema posebnom zakonu.

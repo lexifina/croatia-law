@@ -1,0 +1,4 @@
+# Članak 170.
+(1) Stvarna prava i tereti (pravo doživotnog uživanja, pravo građenja, zabrana raspolaganja nekretninom, hipoteka i sl.) na zemljištu koje je predmet komasacije, a čija svrha nije prestala provedbom komasacije predložit će se rješenjem o komasaciji na odgovarajuću građevnu česticu istog vlasnika.
+(2) Nositelju stvarnog prava ili tereta na zemljištu koje je predmet komasacije čija svrha nije prestala provedbom komasacije, a koje se ne može preložiti jer vlasnik zemljišta umjesto građevne čestice dobiva naknadu u novcu ili iz drugog razloga, pripada naknada u novcu prema tržišnoj vrijednosti tog prava.
+(3) Ako je svrha tereta na zemljištu iz stavka 2. ovoga članka osiguranje tražbine, jedinica lokalne samouprave dužna je u svrhu osiguranja te tražbine položiti odgovarajući iznos kod banke na poseban račun.

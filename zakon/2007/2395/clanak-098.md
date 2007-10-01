@@ -1,0 +1,6 @@
+## Suglasnost župana na prostorne planove lokalne razine
+# Članak 98.
+(1) Prije donošenja prostornog plana uređenja velikog grada, grada i općine, nositelj izrade dužan je pribaviti suglasnost župana, odnosno tijela koje on ovlasti (u daljnjem tekstu: župan).
+(2) Nositelj izrade dostavlja županu zahtjev za suglasnost na prostorni plan iz stavka 1. ovoga članka uz koji obvezno prilaže konačni prijedlog prostornog plana, izvješće o javnoj raspravi s nacrtom odluke o donošenju i prilozima iz članka 58. podstavka 1., 2., 3., 4., 5., 6. i 7. ovoga Zakona.
+(3) U postupku izdavanja suglasnosti zavod za prostorno uređenje županije daje mišljenje o usklađenosti prostornog plana s prostornim planom županije i prostornim planovima susjednih županija te s drugim dokumentima prostornog uređenja od utjecaja na prostorni plan iz stavka 1. ovoga članka.
+(4) Župan je dužan izdati, odnosno odbaciti izdavanje suglasnosti na konačni prijedlog prostornog plana iz stavka 1. ovoga članka, te navesti razloge za odbacivanje i prijedloge za otklanjanje nepravilnosti, najkasnije u roku od trideset dana od zaprimanja potpunog zahtjeva iz stavka 2. ovoga članka. Ako župan u navedenom roku ne izda suglasnost niti odbaci zahtjev za izdavanje suglasnost, smatra se da je suglasnost izdana.

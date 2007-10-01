@@ -1,0 +1,6 @@
+## Ponovno izdavanje suglasnosti na konačni prijedlog prostornog plana
+# Članak 99.
+(1) Ako Ministarstvo, odnosno župan odbaci izdati suglasnost na prostorni plan, nositelj izrade najkasnije u roku od devedeset dana dostavlja Ministarstvu, odnosno županu ponovni zahtjev za suglasnost i ispravljeni prijedlog konačnog prijedloga prostornog plana u skladu s razlozima odbacivanja izdavanja suglasnosti.
+(2) Ako Ministarstvo, odnosno župan najkasnije u roku od trideset dana od dana zaprimanja ponovnog zahtjeva ne izda ili ne odbaci izdati suglasnost na ispravljeni konačni prijedlog prostornog plana na način i prema postupku iz članka 97., odnosno članka 98. ovoga Zakona, smatra se da je suglasnost izdana.
+(3) Ako Ministarstvo, odnosno župan ponovno odbaci izdati suglasnost na prostorni plan, postupak izrade i donošenja takvog prostornog plana se obustavlja.
+(4) Ako se u postupku donošenja prostornog plana iz stavka 1. ovoga članka konačni prijedlog prostornog plana dopunjuje i/ili mijenja amandmanima predstavničkog tijela, donošenju tog prostornog plana pristupa se nakon što nositelj izrade pribavi suglasnost Ministarstva, odnosno župana, koji su je dužni izdati u roku od petnaest dana od dana zaprimanja zahtjeva.

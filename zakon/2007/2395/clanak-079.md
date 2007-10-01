@@ -1,0 +1,7 @@
+## Zahtjevi za izradu prostornog plana
+# Članak 79.
+(1) Nositelj izrade dostavlja odluku o izradi prostornog plana s pozivom, da mu u roku od najviše šezdeset dana, odnosno u roku koji je određen tom odlukom, dostave zahtjeve (podaci, planske smjernice i propisani dokumenti) za izradu prostornog plana, a ako ih ta tijela i osobe ne dostave u tom roku, smatrat će se da ih nemaju. U tom slučaju moraju se u izradi i donošenju prostornog plana poštivati uvjeti, koje za sadržaj prostornog plana određuju odgovarajući važeći propisi i dokumenti.
+(2) Tijela i osobe određeni posebnim propisima moraju u zahtjevima iz stavka 1. ovoga članka odrediti važeće propise i njihove odredbe te druge stručne i ostale dokumente, na kojima temelje svoje zahtjeve u obuhvatu prostornog plana. Ako to tijela i osobe ne učine, nositelj izrade takve zahtjeve nije dužan poštivati, ali je to dužan posebno obrazložiti.
+(3) Tijela i osobe određeni posebnim propisima ne mogu u zahtjevima za provedbeni dokument prostornog uređenja postavljati uvjete, kojima bi se mijenjale smjernice za strateški dokument prostornog uređenja.
+(4) Tijela i osobe određeni posebnim propisima su dužni nositelju izrade na njegov zahtjev dostaviti bez naknade raspoložive podatke i drugu dokumentaciju iz njihovog djelokruga, koji su potrebni za izradu dokumenata prostornog uređenja.
+(5) Nositelj izrade dostavlja odluku o izradi prostornog plana urbanističkoj inspekciji.

@@ -1,0 +1,6 @@
+## Objava i sadržaj odluke o donošenju dokumenta prostornog uređenja
+# Članak 101.
+(1) Odluka o donošenju, odnosno o donošenju izmjena i/ili dopuna dokumenta prostornog uređenja objavljuje se u »Narodnim novinama«, odnosno u službenom glasilu jedinica lokalne i područne (regionalne) samouprave koja je donosi.
+(2) Odluka o donošenju, odnosno o donošenju izmjena i/ili dopuna dokumenta prostornog uređenja sadrži njegove sastavne dijelove i popis obveznih priloga, te naziv pravne osobe ili ovlaštenog arhitekta koji ga je izradio, odredbe za provođenje dokumenta prostornog uređenja, stavljanje izvan snage dokumenta prostornog uređenja koji je bio na snazi do donošenja tog dokumenta, odnosno važećih dokumenata užih područja unutar obuhvata dokumenta prostornog uređenja koji se tom odlukom donosi, adrese mjesta na kojima se može obaviti uvid kao i vremensko važenje dokumenta prostornog uređenja (rok u kojem će stupiti na snagu, odnosno od kada će se primjenjivati).
+(3) Iznimno o stavljanju izvan snage dokumenta prostornog uređenja može se donijeti odluka o stavljanju izvan snage, ako je odlukom o izradi određeno da se postupak izrade i donošenja provodi zasebno.
+(4) Na odluku iz stavka 3. ovoga članka primjenjuju se na odgovarajući način odredbe stavka 1. i 2. ovoga članka.

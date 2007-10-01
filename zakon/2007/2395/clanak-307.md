@@ -1,0 +1,4 @@
+# Članak 307.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba, odnosno ovlašteni arhitekt ako ne imenuje odgovornog voditelja izrade nacrta prijedloga dokumenta prostornog uređenja i/ili za odgovornog voditelja imenuje osobu koja ne ispunjava propisane uvjete (članak 40. stavak 1. i 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 15.000,00 kuna i odgovorna osoba u pravnoj osobi.
+(3) Uz kaznu za prekršaj iz stavka 1. i 2. ovoga članka pravnoj osobi, odnosno ovlaštenom arhitektu može se izreći zaštitna mjera oduzimanja ovlaštenja za obavljanje poslova u trajanju od tri do šest mjeseci, a za prekršaj počinjen drugi puta uz novčanu kaznu izreći će se navedena mjera u trajanju od šest mjeseci do jedne godine.
