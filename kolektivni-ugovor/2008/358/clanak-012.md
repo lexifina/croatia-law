@@ -1,0 +1,3 @@
+# Članak 12.
+Poslodavac će se savjetovati sa predstavnicima radnika (radnička vijeća i povjerenik za zaštitu na radu) o mjerama koje negativno utječu na sigurnost i zdravlje radnika, o zaduženju odgovornih radnika za poslove zaštite i prevencije, o pitanjima u svezi s obvezom obavješćivanja predstavnika radnika, o radu odgovornih radnika za zaštitu i prevenciju i o planiranju i organiziranju izobrazbe iz područja zaštite.
+Predstavnici radnika imaju pravo tražiti od poslodavca primjenu odgovarajućih mjera kao i predlagati mu takve mjere koje će ublažiti opasnosti za radnike i ukloniti izvor opasnosti.

@@ -1,0 +1,3 @@
+# Članak 40.
+Najniža osnovna plaća za najjednostavnije poslove utvrđuje se u mjesečnom iznosu od 2.400,00 kuna do 31. 12. 2007. godine, a od 1. 1. 2008. godine u visini iznosa koji je određen kao najniža osnovica za obračunavanje i plaćanje doprinosa za obvezna osiguranja prema posebnim propisima.
+Svaka ugovorna strana može podnijeti prijedlog za korekciju najniže osnovne plaće u slučaju porasta troškova života ili inflacije veće od 5% i u drugim opravdanim razlozima, koji je druga ugovorna strana dužna razmotriti i ocijeniti njegovu opravdanost. Postupak pregovaranja mora biti okončan u roku od 30 dana od dana podnijetog prijedloga.
