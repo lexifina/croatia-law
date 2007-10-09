@@ -1,0 +1,3 @@
+# Članak 32.
+1) U slučaju kada životinja ne udovoljavaju zahtjevima propisanim člankom 3. ovoga Pravilnika, dok se zahtjevi ne ispune ograničenje se primjenjuje odmah na premještanje te životinje.
+2) Ukoliko na jednom gospodarstvu broj životinja za koje nije u potpunosti udovoljeno zahtjevima za označavanje i registraciju propisanih člankom 3. ovoga Pravilnika prelazi 20%, određuje se odmah ograničenje kretanja svih životinja prisutnih na tom gospodarstvu. Iznimno, kada se na gospodarstvu drži više od 10 životinja, ova se mjera primjenjuje samo ako više od dvije životinje u potpunosti ne udovoljavaju odredbama ovoga Pravilnika.
