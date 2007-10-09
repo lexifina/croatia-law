@@ -1,0 +1,4 @@
+## Postupanje u odnosu na treće zemlje
+# Članak 39.
+1) Ako nadležno tijelo primi obavijest od treće zemlje kojom se ukazuje na postupanje protivno propisima i/ili opasnost po zdravlje ljudi ili životinja, tijelo će proslijediti tu obavijest nadležnim tijelima zemalja članica, ako bude smatralo da za to postoji interes navedenih zemalja, ili ako to one zatraže. Ono će također dostaviti takvu obavijest i Europskoj komisiji ukoliko je ona od značaja na razini Europske zajednice.
+2) Ako je treća zemlja preuzela zakonsku obavezu pružanja potrebne pomoći prikupljanjem dokaza o postupanju protivnom propisima, koje je, ili može biti, u suprotnosti s propisima o hrani i hrani za životinje, informacije dobivene u skladu s odredbama ovoga Pravilnika mogu se dostaviti odnosnoj trećoj zemlji, uz odobrenje nadležnog tijela koje je dalo informaciju, u skladu s odredbama propisa koji se odnose na postupanje s osobnim podacima.

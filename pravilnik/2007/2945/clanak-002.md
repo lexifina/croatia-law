@@ -1,0 +1,25 @@
+## Pojmovnik
+# Članak 2.
+Za potrebe ovoga Pravilnika koriste se pojmovi iz članka 2. i članka 3. točaka 1. - 17., te točaka 19. i 44. Zakona o hrani te sljedeći pojmovi:
+1. »službena kontrola« znači svaki oblik kontrole koju nadležno tijelo, odnosno tijela nadležna za provođenje inspekcije provode sa ciljem verifikacije sukladnosti propisa o hrani i hrani za životinje, o zdravlju i dobrobiti životinja,
+2. »verifikacija« znači provjeravanje, pregledom i razmatranjem objektivnih dokaza, jesu li zadovoljeni utvrđeni uvjeti,
+3. »propisi o hrani za životinje« jesu propisi kojima se općenito regulira područje hrane za životinje i posebno zdravstvena ispravnost hrane za životinje; njima su obuhvaćene sve faze proizvodnje, prerade i distribucije hrane za životinje kao i uporaba hrane za životinje,
+4. »nadležno tijelo« je Ministarstvo poljoprivrede, šumarstva i vodnoga gospodarstva koje je središnje tijelo državne uprave nadležno za zdravstvenu ispravnost, higijenu i kakvoću hrane i hrane za životinje i organizaciju službenih kontrola i predstavlja kontakt točku prema Europskoj komisiji. Određeni poslovi službene kontrole mogu se prenijeti na druga tijela,
+5. »kontrolno tijelo« znači neovisnu treću stranu na koju je nadležno tijelo prenijelo određene kontrolne zadaće,
+6. »revizija« (engl. audit) znači sustavno i neovisno preispitivanje kojim se treba ustanoviti je li djelovanje i uz to povezani rezultati u skladu s planovima, provode li se ti planovi učinkovito i jesu li prikladni za postizanje ciljeva,
+7. »inspekcija« znači kontrolu hrane i hrane za životinje, zdravlja i dobrobiti životinja, kako bi se verificiralo da su zadovoljeni uvjeti propisa o hrani i hrani za životinje, o zdravlju i dobrobiti životinja,
+8. »monitoring« znači sustavno provođenje niza planiranih promatranja ili mjerenja kako bi se dobio opći pregled stanja provedbi propisa o hrani i hrani za životinje, o zdravlju i dobrobiti životinja,
+9. »nadziranje« znači sustavno promatranje jednog ili više subjekata u poslovanju s hranom ili hranom za životinje, ili njihovih aktivnosti,
+10. »nesukladnost« znači neudovoljavanje propisima o hrani i hrani za životinje, o zdravlju i dobrobiti životinja,
+11. »uzimanje uzoraka za analizu« znači uzimanje hrane ili hrane za životinje ili bilo kojih drugih tvari, uključujući one iz okoliša, koji su važni za proizvodnju, preradu i distribuciju hrane ili hrane za životinje ili za zdravlje životinja, kako bi se analizom verificirala provedba propisa o hrani i hrani za životinje, te o zdravlju životinja,
+12. »službeno certificiranje« znači postupak kojim nadležno tijelo ili kontrolno tijelo, ovlašteno za postupanje, izdaje pisanu, elektroničku ili istovrijednu potvrdu o udovoljavanju uvjetima,
+13. »službeno zadržavanje« znači postupak kojim nadležno tijelo i tijela na koja su prenesene ovlasti osigurava da se hrana ili hrana za životinje ne premješta ili da se njome ne raspolaže, dok se ne donese odluka o njenoj namjeni; to obuhvaća skladištenje hrane ili hrane za životinje od strane subjekta u poslovanju s hranom u skladu s uputama nadležnog tijela,
+14. »istovrijednost« znači sposobnost različitih sustava ili mjera da se postignu isti ciljevi; a »istovrijedan« označava različite sustave ili mjere koji omogućavaju postizanje istih ciljeva,
+15. »uvoz« znači puštanje u slobodan promet hrane ili hrane za životinje, ili namjeru da se hrana ili hrana za životinje puste u slobodan promet, u skladu s carinskim propisima,
+16. »unošenje« znači fizičko unošenje pošiljaka na područje Republike Hrvatske s namjenom uvoza, provoza ili skladištenja u slobodnim carinskim zonama, slobodnim skladištima, carinskim skladištima i kod registriranih opskrbljivača brodova,
+17. »dokumentacijski pregled« znači pregled komercijalnih dokumenata, i kada je odgovarajuće, drugih dokumenata koji prate pošiljku kako je određeno propisima o hrani i hrani za životinje,
+18. »identifikacijski pregled« znači vizualnu provjeru kojom se utvrđuje da certifikati ili drugi dokumenti koji prate pošiljku odgovaraju oznakama i sadržaju pošiljke,
+19. »fizički pregled« znači provjeru same hrane ili hrane za životinje, što može uključivati provjere na prijevoznom sredstvu, provjeru pakiranja, označavanja i temperature, uzimanje uzoraka za analizu i laboratorijsko testiranje i ostale provjere potrebne da se verificira udovoljavanje propisima o hrani ili hrani za životinje,
+20. »plan (program) kontrole« znači plan koji je izradilo nadležno tijelo, a koji sadrži opće informacije o ustrojstvu i organizaciji službenih sustava kontrole,
+21. »treće zemlje« su zemlje koje nisu zemlje članice Europske unije, osim Republike Hrvatske,
+22. »zemlje članice« su zemlje članice Europske unije.

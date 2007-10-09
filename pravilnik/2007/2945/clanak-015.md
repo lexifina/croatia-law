@@ -1,0 +1,10 @@
+## Službene kontrole hrane i hrane za životinje koja nije životinjskoga podrijetla
+# Članak 15.
+1) Nadležno tijelo i tijela na koja su prenesene ovlasti provode redovite službene kontrole uvezene hrane i hrane za životinje, koja nije životinjskoga podrijetla a na koju se ne primjenjuje Pravilnik o načinu obavljanja veterinarsko zdravstvenih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske. Kontrole se provode u skladu s višegodišnjim nacionalnim planom kontrole koji je izrađen u skladu s odredbama članaka 41. do 43. ovoga Pravilnika i uzimajući u obzir moguće rizike. Kontrole obuhvaćaju sva područja primjene propisa o hrani i hrani za životinje.
+2) Kontrole iz stavka 1. ovoga članka provode se na odgovarajućem mjestu, uključujući mjesto ulaska roba na područje Republike Hrvatske, na mjestu puštanja u slobodni promet, skladištima, u objektima uvoznika - subjekata u poslovanju s hranom ili hranom za životinje ili drugim mjestima proizvodnog lanca hrane i hrane za životinje.
+3) Navedene kontrole mogu provoditi i na robama koje su podvrgnute:
+(a) propisanim postupcima carinjenja; ili
+(b) propisanim postupcima koji se provode u slobodnim zonama ili slobodnim carinskim skladištima.
+4) Zadovoljavajući rezultati kontrole iz stavka 3. ovoga članka ne isključuju obveze subjekta u poslovanju s hranom i hranom za životinje, da osigura da hrana i hrana za životinje udovoljava odredbama propisa o hrani i hrani za životinje od trenutka puštanja u slobodni promet, niti isključuju provođenje daljnjih službenih kontrola hrane ili hrane za životinje.
+5) Hrana koja predstavlja poznatu ili prijeteću opasnost, a koja se uvozi, podliježe kontroli prije carinjenja na najbližoj carinskoj ispostavi u odnosu na ulazno mjesto.
+Lista hrane i hrane za životinje koja nije životinjskog podrijetla a koja je zbog poznate ili prijeteće opasnosti predmet povećanih službenih kontrola na mjestu ulaska u zemlju, sastavlja se i ažurira u skladu s odredbama članka 84. Zakona o hrani.

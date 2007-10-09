@@ -1,0 +1,5 @@
+## Pomoć u slučaju nesukladnosti
+# Članak 38.
+1) Ako prilikom obavljanja službene kontrole na mjestu odredišta, ili tijekom prijevoza, nadležno tijelo ustanovi da roba ne udovoljava zahtjevima propisa o hrani i hrani za životinje do te mjere da predstavlja opasnost po zdravlje ljudi i životinja, ili da utvrdi postupanje protivno propisima o hrani i hrani za životinje, ono će bez odlaganja kontaktirati nadležno tijelo zemlje članice sa čijeg je područja otpremljena pošiljka.
+2) Nadležno tijelo zemlje koja otprema pošiljku utvrđuje činjenice, poduzima sve potrebne mjere i obavještava nadležno tijelo zemlje članice odredišta o provedenim postupcima i službenim kontrolama, o donesenim odlukama i razlozima zbog kojih su donesene.
+3) Ako nadležno tijelo zemlje odredišta ima razloga vjerovati da provedene mjere ne zadovoljavaju, nadležna tijela dviju zemalja će predložiti odgovarajuće načine i sredstva za rješavanje problema, te prema potrebi, obaviti inspekciju na licu mjesta u skladu s člankom 36. stavcima 3. i 4. ovoga Pravilnika. Ukoliko se nadležna tijela ne usuglase o poduzimanju potrebnih mjera, obavještavaju Europsku komisiju.
