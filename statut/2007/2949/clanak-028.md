@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Direktori sektora i članovi njihove uže obitelji ne mogu biti vlasnici, dioničari ili imatelji udjela u energetskim subjektima više od 0,5 % temeljnoga dioničkog kapitala, članovi uprave ili nadzornih odbora ili bilo kojih drugih tijela u energetskim subjektima, te im nije dopušteno imati materijalni interes u području energetskih djelatnosti i nije im dopušteno obavljati druge poslove u energetskom subjektu na kojega se primjenjuju odredbe Zakona, zbog čega bi moglo doći do sukoba interesa.
+(2) Direktori sektora ne mogu obavljati dužnost zastupnika Hrvatskoga sabora ili člana predstavničkog tijela jedinice lokalne samouprave ili područne (regionalne) samouprave i izvršne vlasti te središnjim tijelima političkih stranaka.
