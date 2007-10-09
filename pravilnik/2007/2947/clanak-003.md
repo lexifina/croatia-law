@@ -1,0 +1,9 @@
+# Članak 3.
+1) Objekti se odobravaju u skladu s odredbama članka 31. stavka 2. Pravilnika o službenim kontrolama koje se provode radi verifikacije postupanja u skladu s odredbama propisa o hrani i hrani za životinje, te propisa o zdravlju i zaštiti životinja.
+2) U slučaju brodova tvornica i brodova hladnjača koji plove pod zastavom Republike Hrvatske, najdulja razdoblja od tri i šest mjeseci na koja se izdaje uvjetno odobrenje za druge objekte može se, prema potrebi, produljiti. Uvjetno odobrenje ne smije trajati dulje od ukupno 12 mjeseci. Veterinarski pregled takvih plovila obavlja se kako je određeno u Prilogu III. ovoga Pravilnika.
+3) Svakom odobrenom objektu, uključujući i one kojima je izdano uvjetno odobrenje, nadležno tijelo dodjeljuje broj odobrenja kojemu se mogu dodati i šifre kako bi se označila vrsta hrane životinjskog podrijetla koja se proizvodi. Broj odobrenja koji se dodjeljuje veletržnicama može uključivati i dodatne brojeve koji označavaju jedinice ili skupine jedinica koje prodaju ili proizvode hranu životinjskog podrijetla.
+4) U slučaju veletržnica, nadležno tijelo može ukinuti ili privremeno oduzeti odobrenje za određene jedinice ili skupine jedinica.
+5) Odredbe stavaka 1. do 3. ovoga članka primjenjuju se na:
+(a) objekte koji hranu životinjskog podrijetla počinju stavljati na tržište nakon stupanja na snagu ovoga Pravilnika; i
+(b) objekte koji hranu životinjskog podrijetla već stavljaju na tržište, ali za koje se prije nije zahtijevalo odobrenje. U ovom slučaju, pregled koji nadležno tijelo obavlja na licu mjesta i koji je propisan stavkom 1. ovoga članka obavlja se što je prije moguće.
+6) Odredba stavka 4. ovoga članka primjenjuje se i na odobrene objekte koji su hranu životinjskog podrijetla stavili na tržište u skladu sa propisima koji su bili na snazi prije primjene ovoga Pravilnika.
