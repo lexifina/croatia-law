@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 6., članka 25. stavak 4. i članka 31. stavak 1. i 4. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 178/04, 48/05 i 111/06) ministar mora, turizma, prometa i razvitka donosi
