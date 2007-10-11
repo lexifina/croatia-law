@@ -1,0 +1,1 @@
+Na temelju članka 10. stavak 2. Zakona o obrtu (»Narodne novine«, br. 77/93., 90/96., 102/98., 64/01., 71/01., 49/03. - pročišćeni tekst, 68/07. i 79/07.), ministar gospodarstva, rada i poduzetništva donosi
