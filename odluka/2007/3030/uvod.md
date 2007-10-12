@@ -1,0 +1,1 @@
+Na temelju članka 8., a u vezi sa člankom 4. stavkom 1. točkom 2. Zakona o privatizaciji INA - Industrije nafte d.d. (»Narodne novine«, broj 32/2002), Vlada Republike Hrvatske je na sjednici održanoj 12. listopada 2007. godine donijela
