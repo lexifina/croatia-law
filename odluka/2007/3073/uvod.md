@@ -1,0 +1,1 @@
+Na temelju članka 28. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00., 53/03., 69/03. - pročišćeni tekst i 19/07.) Hrvatski sabor na sjednici 12. listopada 2007., donio je
