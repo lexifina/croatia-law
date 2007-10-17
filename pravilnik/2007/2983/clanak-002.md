@@ -1,0 +1,20 @@
+# Članak 2.
+Bez akta kojim se odobrava građenje može se pristupiti građenju:
+1. pomoćne građevine koja se gradi na građevnoj čestici postojeće zgrade i to cisterne za vodu i septičke jama zapremine do 27 m3, podzemnog i nadzemnog spremnika goriva zapremine do 10 m3, vrtne sjenice i nadstrešnice tlocrtne površine do 15 m2, bazena tlocrtne površine do 24 m2 i dubine do 2 m i solarnog kolektora,
+2. građevine protugradne obrane,
+3. građevine za sigurnost plovidbe (objekt signalizacije),
+4. građevine za sigurnost zračnog prometa (objekata za smještaj navigacijskog uređaja građevinske (bruto) površine do 12 m2),
+5. šumskog protupožarnog prosjeka, samostalne pješačke staze,
+6. privremene građevine za potrebe sajmova i javnih manifestacija s najdužim rokom trajanja do 90 dana,
+7. kioska i druge građevine gotove konstrukcije na javnoj površini građevinske (bruto) površine do 12 m2 koji se postavlja u skladu s odlukom nadležnog tijela jedinice lokalne samouprave prema propisima kojima se uređuje komunalno gospodarstvo,
+8. dječjeg igrališta,
+9. nadstrešnice za sklanjanje ljudi u javnom prometu,
+10. reklamnog panoa oglasne površine do 12 m2 koji se postavlja u skladu s odlukom nadležnog tijela jedinice lokalne samouprave prema propisima kojima se uređuje komunalno gospodarstvo,
+11. ograde građevinske visine do 1,6 m i potpornog zida građevinske visine do 0,8 m,
+12. priključka kojim se postojeća građevina priključuje na infrastrukturne instalacije (nisko naponsku električnu i telekomunikacijsku mrežu, vodovod, kanalizaciju, plinovod, toplovod, kabelsku televiziju),
+13. grobnice i spomenika na groblju,
+14. spomeničkog ili sakralnog obilježja građevinske (bruto) površine do 4,00 m2 i visine do 4,0 m od razine okolnog tla koje se gradi u skladu s odlukom nadležnog tijela jedinice lokalne samouprave prema propisima kojima se uređuje komunalno gospodarstvo,
+15. postaje za mjerenje kakvoće zraka državne i lokalne mreže za potrebe obavljanja tih mjerenja prema posebnom zakonu na temelju odluke Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, odnosno odluke jedinice lokalne samouprave, a koja se gradi po tipskom projektu za kojeg je izdano rješenje iz članka 196. Zakona o prostornom uređenju i gradnji,
+16. privremene građevine za potrebe građenja građevine kada se izvode unutar građevne čestice odnosno obuhvata zahvata u prostoru određenog lokacijskom dozvolom, osim asfaltne baze, separacije agregata, tvornice betona, dalekovoda i transformatorske stanice radi napajanja gradilišta električnom energijom te prijenosnog spremnika za smještaj, čuvanje ili držanje eksplozivnih tvari osim nadzemnog i podzemnog spremnika ukapljenoga naftnog plina, odnosno nafte zapremine do 5 m3,
+17. privremene građevine namijenjene za istražna mjerenja na temelju odluke tijela nadležnog za ta istražna mjerenja, a koje se grade po tipskom projektu za kojeg je izdano rješenje iz članka 196. Zakona o prostornom uređenju i gradnji, te pod uvjetom najdužeg roka uporabe od tri godine nakon kojeg se ista mora ukloniti,
+18. pješačke staze, promatračnice, obavijesne ploče površine do 6 m i druge opreme zaštićenih dijelova prirode prema odluci javnih ustanova koje upravljaju tim zaštićenim dijelovima prirode.
