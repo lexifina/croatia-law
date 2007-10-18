@@ -1,0 +1,3 @@
+# Članak 4.
+Odluku o prodaji poslovnoga prostora iz članka 1. ove Uredbe, donosi Povjerenstvo, na zahtjev zakupnika, koji uredno izvršava sve obveze iz ugovora.
+Na temelju Odluke Povjerenstva, kojom će se u svakom pojedinačnom slučaju zahtjeva za kupnju poslovnoga prostora u vlasništvu Republike Hrvatske, utvrditi da su ispunjeni svi zakonom i ovom Uredbom propisani uvjeti za prodaju poslovnoga prostora, Republika Hrvatska i kupac (sadašnji zakupnik i zakupnik s kojim je Republika Hrvatska prethodno sklopila novi ugovor o zakupu) sklopit će, u roku 90 dana od dana donošenja Odluke, ugovor o prodaji poslovnoga prostora.

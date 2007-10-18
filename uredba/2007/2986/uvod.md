@@ -1,0 +1,1 @@
+Na temelju članka 33a. Zakona o zakupu i prodaji poslovnog prostora (»Narodne novine«, br. 91/96, 124/97 i 174/2004), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2007. godine donijela

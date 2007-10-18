@@ -1,0 +1,5 @@
+# Članak 1.
+Ovom Uredbom propisuju se uvjeti i postupak za prodaju poslovnoga prostora u vlasništvu Republike Hrvatske, kojeg koristi zakupnik, na temelju zakupnog odnosa s Republikom Hrvatskom, a koji ima status mikro ili malog subjekta maloga gospodarstva, u smislu Zakona o poticanju razvoja malog gospodarstva (»Narodne novine«, br. 29/2002 i 63/2007).
+Pod prodajom poslovnoga prostora u vlasništvu Republike Hrvatske, u smislu ove Uredbe, podrazumijeva se i prodaja suvlasničkog dijela Republike Hrvatske, na određenom poslovnom prostoru.
+Na temelju ove Uredbe, predmetom prodaje mogu biti i poslovni prostori u vlasništvu Republike Hrvatske, koji u smislu Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, br. 69/99, 151/2003, 157/2003 i 100/2004) imaju svojstvo kulturnog dobra.
+Popis poslovnoga prostora u vlasništvu Republike Hrvatske, koji će biti predmetom prodaje, po odredbama ove Uredbe, donosi Povjerenstvo za imovinu Vlade Republike Hrvatske (u daljnjem tekstu: Povjerenstvo), na prijedlog Središnjega državnog ureda za upravljanje državnom imovinom (u daljnjem tekstu: Središnji državni ured).
