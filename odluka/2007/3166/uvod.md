@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. i članka 3. stavka 2. Uredbe o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2007. godinu (»Narodne novine«, broj 83/2007), Vlada Republike Hrvatske je na sjednici održanoj 19. listopada 2007. godine donijela
