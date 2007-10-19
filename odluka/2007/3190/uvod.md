@@ -1,0 +1,1 @@
+Na temelju članka 67. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 66/2001, 87/2002, 48/2005 i 90/2005) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/1998, 15/2000, 117/2001, 199/2003 i 30/2004), te, Vlada Republike Hrvatske je na sjednici održanoj 19. listopada 2007. donijela
