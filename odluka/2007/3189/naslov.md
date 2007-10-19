@@ -1,0 +1,1 @@
+Odluka o dodatnoj pomoći Gradu Vukovaru, za financiranje troškova elektroenergetskog priključka i priključenja na plinovodni sustav, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika iz Domovinskog rata
