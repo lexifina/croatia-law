@@ -1,0 +1,1 @@
+Odluka o dodatnoj pomoći Gradu Drnišu, za financiranje troškova elektroenergetskog priključka i priključenja objekta na vodoopskrbnu mrežu, u svrhu provođenja Programa stambenog zbrinjavanja stradalnika Domovinskog rata
