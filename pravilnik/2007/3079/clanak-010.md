@@ -1,0 +1,2 @@
+# Članak 10.
+Pravne osobe registrirane za obavljanje poslova državne izmjere i katastra nekretnina iz članka 104. stavak 1. Zakona, i ovlašteni inženjeri geodezije koji poslove državne izmjere i katastra nekretnina iz članka 104. st. 2. Zakona, obavljaju samostalno u uredu ovlaštenog inženjera geodezije ili zajedničkom geodetskom uredu, obvezni su uskladiti svoje poslovanje s odredbama ovog Pravilnika do 17. veljače 2008. godine.
