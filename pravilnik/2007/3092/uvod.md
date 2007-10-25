@@ -1,0 +1,1 @@
+Temeljem članka 12. stavka 1. Zakona o zaštiti na radu (»Narodne novine«, br. 59/96, 94/96 i 114/03) i članka 31. stavka 3. Zakona o energiji (»Narodne novine«, br. 68/01 i 177/04) i članka 53. stavak 2. Zakona o zaštiti od požara (»Narodne novine«, br. 58/93 i 33/05) ministar gospodarstva, rada i poduzetništva, uz prethodnu suglasnost ministra unutarnjih poslova, donosi
