@@ -1,0 +1,1 @@
+Na temelju članka 114.c Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99, 63/00, 103/03, 177/04 i 71/07), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 11. listopada 2007. godine, donijela je
