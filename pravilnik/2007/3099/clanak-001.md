@@ -1,0 +1,4 @@
+# Članak 1.
+U članku 7. Pravilnika o zaštiti i čuvanju arhivskog i registraturnog gradiva izvan arhiva (»Narodne novine« broj 63/2004) iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»Popisi iz članaka 5. i 6. ovoga Pravilnika dostavljaju se nadležnom arhivu u elektroničkom obliku, u elektroničkom obrascu, odnosno formatu za razmjenu podataka koji utvrdi Hrvatski državni arhiv ili izravnim upisom u evidenciju dokumentacijskih zbirki imatelja koju vodi nadležni arhiv. Upute o načinu oblikovanja i dostave ovih popisa u elektroničkom obliku imatelju daje nadležni arhiv.
+Imatelj koji popise iz članaka 5. i 6. ovoga Pravilnika nadležnom arhivu dostavlja izravnim upisom u evidenciju dokumentacijskih zbirki imatelja nadležnoga arhiva nije dužan voditi druge, vlastite popise dokumentacijskih zbirki i dokumentacijskih skupina i arhivskih jedinica u njima.«
