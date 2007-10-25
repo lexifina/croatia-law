@@ -1,0 +1,2 @@
+# Članak 2.
+Izvješće iz članka 1. ovog Pravilnika (u daljnjem tekstu: Izvješće) daje svaka pravna osoba registrirana sukladno Zakonu o udrugama, Zakonu o zakladama i fundacijama i Zakonu o radu, vjerska zajednica, javna ustanova, turistička zajednica i druga neprofitna pravna osoba, državno tijelo i tijelo jedinice lokalne i područne (regionalne) samouprave koja je u izvještajnom razdoblju organizirala volontiranje.
