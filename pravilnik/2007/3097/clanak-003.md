@@ -1,0 +1,4 @@
+# Članak 3.
+Služba jest ustrojstvena podjedinica jedinice djelatnosti koja u svom sastavu može imati odjele i dnevnu bolnicu. Služba se može ustrojiti ako u radnom odnosu na neodređeno vrijeme zapošljava najmanje dva specijalista određene uže specijalizacije, odnosno specijalizacije ako u određenoj grani specijalizacije nema uže specijalizacije te ako ima najmanje 15 bolesničkih postelja.
+Iznimno od stavka 1. ovoga članka, služba u kojoj se provodi dijagnostička djelatnost nema uvjet broja bolesničkih postelja.
+Specijalizirana služba jest ustrojstvena podjedinica jedinice djelatnosti koja u svom sastavu nema podjedinice. Specijalizirana služba može se ustrojiti ako u radnom odnosu na neodređeno vrijeme zapošljava najmanje dva specijalista određene uže specijalizacije, odnosno specijalizacije ako u određenoj grani specijalizacije nema uže specijalizacije.
