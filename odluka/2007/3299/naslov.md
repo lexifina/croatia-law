@@ -1,0 +1,1 @@
+Odluka o davanju koncesije na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i bijele ribe na području posebnog rezervata Malostonskog zalj
