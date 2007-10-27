@@ -1,0 +1,6 @@
+# Članak 38.
+(1) Posrednik koji na dan stupanja na snagu ovoga Zakona obavlja djelatnost posredovanja u prometu nekretnina dužan je ishoditi rješenje o ispunjavanju uvjeta za obavljanje posredovanja u prometu nekretnina u skladu s odredbama ovoga Zakona u roku od osamnaest mjeseci (18) od dana stupanja na snagu ovoga Zakona.
+(2) Posredniku koji ne ishodi rješenje sukladno stavku 1. ovoga članka prestaje pravo na obavljanje djelatnosti.
+(3) Posredniku koji ne uskladi svoje poslovanje sukladno odredbama ovoga Zakona nadležno tijelo rješenjem će utvrditi prestanak valjanosti izdanog rješenja o ispunjavanju uvjeta za obavljanje posredovanja u prometu nekretnina.
+(4) Fizičke osobe koje na dan stupanja na snagu ovoga Zakona obavljaju poslove agenta posredovanja dužne su uskladiti obavljanje tih poslova s odredbama ovoga Zakona u roku od 18 mjeseci od dana stupanja na snagu ovoga Zakona.
+(5) Osobe koje su do dana stupanja na snagu ovoga Zakona završile osposobljavanje za posrednike u prometu nekretnina, prema programima verificiranim od ministarstva nadležnog za obrazovanje, prema drugom sličnom obrazovnom programu ili prema programu HGK, dužne su u roku od 18 mjeseci od dana stupanja na snagu ovoga Zakona svoju osposobljenost uskladiti s Programom osposobljavanja za agente posredovanja u prometu nekretnina iz članka 30. ovoga Zakona.

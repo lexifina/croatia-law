@@ -1,0 +1,6 @@
+## Pravo na posredničku naknadu
+# Članak 28.
+(1) Posrednik stječe pravo na naknadu tek nakon sklapanja ugovora za koji je posredovao, osim ako posrednik i nalogodavac nisu ugovorili da se pravo na plaćanje naknade stječe već pri sklapanju predugovora.
+(2) Posrednik ne može zahtijevati djelomično plaćanje naknade unaprijed, odnosno prije sklapanja ugovora, odnosno predugovora u skladu sa stavkom 1. ovoga članka. Troškove dodatnih usluga u vezi s poslom koji je predmet posredovanja posrednik može naplatiti u visini stvarnih troškova ako je to posebno ugovoreno između posrednika i nalogodavca.
+(3) Nakon prestanka ugovora posrednik ima pravo na naknadu u roku ne dužem od vremena trajanja sklopljenog ugovora, ako ugovorom nije drukčije ugovoreno, i u slučajevima kad nalogodavac sklopi s trećom osobom pravni posao koji je pretežito posljedica posrednikova djelovanja prije prestanka ugovora o posredovanju.
+(4) Posrednik nema pravo na naknadu za posredovanje ako s nalogodavcem sam kao stranka sklapa ugovor koji je bio predmet posredovanja, odnosno ako takav ugovor s nalogodavcem sklopi agent koji za posrednika obavlja poslove posredovanja, ali ima pravo tražiti naknadu štete od zaposlene osobe sukladno propisima o radu.
