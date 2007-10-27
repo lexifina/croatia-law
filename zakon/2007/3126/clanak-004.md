@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Završetkom preddiplomskog i diplomskoga sveučilišnog studija ili integriranoga preddiplomskog i diplomskog sveučilišnog studija, čijim završetkom se stječe najmanje 300 ECTS bodova, osoba stječe akademski naziv magistar, odnosno magistra uz naznaku struke (na primjer: magistar/magistra arheologije, magistar/magistra ekonomije, magistar/magistra prava i slično).
+(2) Kratica naziva iz stavka 1. ovoga članka je mag. uz naznaku struke (na primjer: mag. arh., mag. oec., mag. iur. i slično) i stavlja se iza imena i prezimena osobe.
+(3) Iznimno od stavka 1. ovoga članka, završetkom preddiplomskog i diplomskoga sveučilišnog studija ili integriranog preddiplomskog i diplomskoga sveučilišnog studija iz područja tehničkih znanosti, osoba stječe akademski naziv magistar inženjer odnosno magistra inženjerka uz naznaku struke (na primjer: magistar/magistra inženjer/inženjerka geodezije i slično).
+(4) Kratica naziva iz stavka 3. ovoga članka je mag. ing. uz naznaku struke (na primjer: mag. ing. geod. i slično) i stavlja se iza imena i prezimena osobe.
+(5) Iznimno od stavka 1. ovoga članka, završetkom diplomskog sveučilišnog studija medicine, stomatologije ili veterine osoba stječe akademski naziv doktor, odnosno doktorica uz naznaku struke (na primjer: doktor/doktorica medicine i slično).
+(6) Kratica naziva iz stavka 5. ovoga članka je dr. uz naznaku struke (na primjer: dr. med. i slično) i stavlja se iza imena i prezimena osobe.

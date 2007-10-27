@@ -1,0 +1,2 @@
+# Članak 17.
+Za osobe koje su do 8. listopada 1991. godine stekle diplome ili druge isprave na visokim vojnim ili vjerskim učilištima na području bivše SFRJ, za koje se ne može utvrditi odgovarajući stručni naziv ili akademski stupanj, ministarstvo nadležno za visoko obrazovanje utvrdit će stručni naziv ili akademski stupanj na temelju prethodno pribavljenog mišljenja Ministarstva obrane, odnosno Komisije za odnose s vjerskim zajednicama Vlade Republike Hrvatske.

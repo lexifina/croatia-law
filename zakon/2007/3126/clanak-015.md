@@ -1,0 +1,2 @@
+# Članak 15.
+Osobe koje su završile sveučilišni poslijediplomski znanstveni studij kojim se stječe akademski stupanj magistra znanosti te osobe koje su završile sveučilišni poslijediplomski umjetnički studij kojim se stječe akademski stupanj magistra umjetnosti, prema propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03.), zadržavaju akademski stupanj magistra znanosti, odnosno magistra umjetnosti.
