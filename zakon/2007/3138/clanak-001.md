@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine«, br. 106/99. i 63/00.), u članku 2. stavak 1. mijenja se i glasi:
+»(1) Mirovina koja se isplaćuje na temelju odredaba ovoga Zakona određuje se i isplaćuje prema ukupnim kapitaliziranim uplatama doprinosa člana obveznog fonda ostvarenim u obveznom mirovinskom fondu do ostvarivanja prava na mirovinu člana fonda, ili prema prenesenim sredstvima člana dobrovoljnog fonda iz dobrovoljnoga mirovinskog fonda u mirovinsko osiguravajuće društvo, odnosno na temelju izravne jednokratne uplate prema članku 21. ovoga Zakona.«

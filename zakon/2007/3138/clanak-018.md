@@ -1,0 +1,4 @@
+# Članak 18.
+Članak 49. mijenja se i glasi:
+»(1) U slučajevima primjene odredbi članka 47. stavka 2. i članka 48. stavka 2. Zakona o obveznim i dobrovoljnim mirovinskim fondovima, na zahtjev Hrvatskog zavoda za mirovinsko osiguranje, Središnji registar osiguranika dužan je od osiguravajućeg društva pribaviti podatke o mirovini koja bi se ostvarila iz obveznoga mirovinskog osiguranja na temelju individualne kapitalizirane štednje. Osiguravajuće društvo dužno je dostaviti te podatke Središnjem registru osiguranika u roku od sedam dana od dana traženja.
+(2) Hrvatski zavod za mirovinsko osiguranje dužan je u roku od sedam dana od dana donošenja rješenja o ostvarenom pravu na osnovnu mirovinu člana obveznoga mirovinskog fonda, odnosno člana njegove obitelji, izvijestiti Središnji registar osiguranika.«
