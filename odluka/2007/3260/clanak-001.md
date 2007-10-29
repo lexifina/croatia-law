@@ -1,0 +1,35 @@
+# Članak 1.
+U Odluci o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 120/06., 4/07., 32/07, 56/07. - pročišćeni tekst, 77/07. i 96/07. - u daljnjem tekstu: Odluka)
+- u skupini lijekova C
+- pod šifrom C10AA01 184 u stupcu 4. broj »0,66« zamjenjuje se brojem: »1,32«, a u stupcu 8. tekst: »film obl.tbl. 56×40 mg« zamjenjuje se tekstom: »film obl.tbl. 56×20 mg«.
+- u skupini lijekova L
+- pod šifrom L01DB03 072 u stupcu 8. tekst: »konc. otop. za inf., stakl. boč. 1×50mg/10 ml« zamjenjuje se tekstom: »konc. otop. za inf., stakl. boč. 1×50mg/25 ml«.
+- pod šifrom L01XX28 173 u stupcu 8. tekst: »caps. 30×400 mg« zamjenjuje se tekstom: »film obl. tbl. 30×400 mg«.
+- u skupini lijekova V07AC
+- pod šifrom V07AC01 911 u stupcu 9. broj: »0,51« zamjenjuje se brojem: »0,61«, a u stupcu 10 broj: »0,51« zamjenjuje se brojem: »0,61«.
+- pod šifrom V07AC01 912 u stupcu 9. broj: »0,91« zamjenjuje se brojem: »1,09«, a u stupcu 10 broj: »0,91« zamjenjuje se brojem: »1,09«.
+- pod šifrom V07AC01 913 u stupcu 9. broj: »0,59« zamjenjuje se brojem: »0,71«, a u stupcu 10 broj: »0,59« zamjenjuje se brojem: »0,71«.
+- pod šifrom V07AC01 930 u stupcu 9. broj: »0,92« zamjenjuje se brojem: »1,10«, a u stupcu 10 broj: »0,92« zamjenjuje se brojem: »1,10«.
+- pod šifrom V07AC01 915 u stupcu 9. broj: »0,61« zamjenjuje se brojem: »0,73«, a u stupcu 10 broj: »0,61« zamjenjuje se brojem: »0,73«.
+- pod šifrom V07AC01 931 u stupcu 9. broj: »0,61« zamjenjuje se brojem: »0,73«, a u stupcu 10 broj: »0,61« zamjenjuje se brojem: »0,73«.
+- pod šifrom V07AC01 932 u stupcu 9. broj: »0,61« zamjenjuje se brojem: »0,73«, a u stupcu 10 broj: »0,61« zamjenjuje se brojem: »0,73«.
+- pod šifrom V07AC01 933 u stupcu 9. broj: »0,61« zamjenjuje se brojem: »0,73«, a u stupcu 10 broj: »0,61« zamjenjuje se brojem: »0,73«.
+- pod šifrom V07AC01 916 u stupcu 9. broj: »1,30« zamjenjuje se brojem: »1,56«, a u stupcu 10 broj: »1,30« zamjenjuje se brojem: »1,56«.
+- pod šifrom V07AC01 934 u stupcu 9. broj: »1,30« zamjenjuje se brojem: »1,56«, a u stupcu 10 broj: »1,30« zamjenjuje se brojem: »1,56«.
+- pod šifrom V07AC01 917 u stupcu 9. broj: »0,95« zamjenjuje se brojem: »1,14«, a u stupcu 10 broj: »0,95« zamjenjuje se brojem: »1,14«.
+- pod šifrom V07AC01 918 u stupcu 9. broj: »1,82« zamjenjuje se brojem: »2,18«, a u stupcu 10 broj: »1,82« zamjenjuje se brojem: »2,18«.
+- pod šifrom V07AC01 919 u stupcu 9. broj: »0,66« zamjenjuje se brojem: »0,79«, a u stupcu 10 broj: »0,66« zamjenjuje se brojem: »0,79«.
+- pod šifrom V07AC01 920 u stupcu 9. broj: »335,59« zamjenjuje se brojem: »339,37«, a u stupcu 10 broj: »335,59« zamjenjuje se brojem: »339,37«.
+- pod šifrom V07AC01 922 u stupcu 9. broj: »410,87« zamjenjuje se brojem: »485,78«, a u stupcu 10 broj: »410,87« zamjenjuje se brojem: »485,78«.
+- pod šifrom V07AC01 923 u stupcu 9. broj: »199,00« zamjenjuje se brojem: »223,43«, a u stupcu 10 broj: »199,00« zamjenjuje se brojem: »223,43«.
+- pod šifrom V07AC01 935 u stupcu 9. broj: »211,07« zamjenjuje se brojem: »253,28«, a u stupcu 10 broj: »211,07« zamjenjuje se brojem: »253,28«.
+- pod šifrom V07AC01 936 u stupcu 9. broj: »199,00« zamjenjuje se brojem: »223,43«, a u stupcu 10 broj: »199,00« zamjenjuje se brojem: »223,43«.
+- pod šifrom V07AC01 937 u stupcu 9. broj: »211,07« zamjenjuje se brojem: »253,28«, a u stupcu 10 broj: »211,07« zamjenjuje se brojem: »253,28«.
+- pod šifrom V07AC01 925 u stupcu 9. broj: »291,44« zamjenjuje se brojem: »315,77«, a u stupcu 10 broj: »291,44« zamjenjuje se brojem: »315,77«.
+- pod šifrom V07AC01 928 u stupcu 9. broj: »562,26« zamjenjuje se brojem: »565,37«, a u stupcu 10 broj: »562,26« zamjenjuje se brojem: »565,37«.
+- pod šifrom V07AC01 926 u stupcu 9. broj: »293,35« zamjenjuje se brojem: »339,37«, a u stupcu 10 broj: »293,35« zamjenjuje se brojem: »339,37«.
+- pod šifrom V07AC01 927 u stupcu 9. broj: »199,00« zamjenjuje se brojem: »223,43«, a u stupcu 10 broj: »199,00« zamjenjuje se brojem: »223,43«.
+- pod šifrom V07AC01 939 u stupcu 9. broj: »211,07« zamjenjuje se brojem: »253,28«, a u stupcu 10 broj: »211,07« zamjenjuje se brojem: »253,28«.
+- pod šifrom V07AC01 940 u stupcu 9. broj: »199,00« zamjenjuje se brojem: »223,43«, a u stupcu 10 broj: »199,00« zamjenjuje se brojem: »223,43«.
+- pod šifrom V07AC01 941 u stupcu 9. broj: »211,07« zamjenjuje se brojem: »253,28«, a u stupcu 10 broj: »211,07« zamjenjuje se brojem: »253,28«.
+- pod šifrom V07AC01 928 u stupcu 9. broj: »3,50« zamjenjuje se brojem: »4,20«, a u stupcu 10 broj: »3,50« zamjenjuje se brojem: »4,20«.
