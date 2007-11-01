@@ -1,0 +1,6 @@
+# Članak 6.
+Posebne carinske odredbe
+1. Ugovorne stranke su se sporazumjele, da će materijali i proizvodi, potrebni za izgradnju mosta, izvezeni s državnog područja jedne Ugovorne stranke odnosno uvezene na carinsko područje druge Ugovorne stranke, te usluge pružene na državnom području druge Ugovorne stranke biti oslobođeni od carine, poreza i pristojbi, te od svih obveza pribavljanja odobrenja, kao i od svih ograničenja. Neiskorišteni materijali i proizvodi trebaju se vratiti na teritorij one Ugovorne stranke, odakle su isti uvezeni.
+2. Strojevi, vozila, uređaji i sredstva, potrebna za izgradnju mosta oslobođeni su obveze plaćanja carine, poreza, pristojbe i carinske garancije pod uvjetom da će se isti vratiti u državu-šiljateljicu.
+3. Nakon završetka rada neiskorišteni, kao i uvezeni pod obvezom vraćanja i u međuvremenu ne vraćeni materijali i imovinski predmeti, moraju se vratiti na područje države odakle su pristigli, do roka određenog od strane carinskih vlasti Ugovornih stranaka. Imovinske predmete, koji se unatoč tome ne vrate, tereti obveza plaćanja carine, poreza i naknada i ostalih davanja prema važećim pravnim propisima one države, na čijem su području isti ostali.
+4. Provedbu odredbi st. 1. - 3. nadzirat će carinske službe Ugovornih stranaka.
