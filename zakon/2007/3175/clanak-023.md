@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Ovlaštene osobe Obalne straže imaju ovlasti za poduzimanje odgovarajućih mjera i radnji u zaštiti suverenosti, suverenih prava i jurisdikcije Republike Hrvatske iz ovoga Zakona u skladu s pravima koje Republika Hrvatska ima u pojedinim dijelovima mora.
+(2) Ministar nadležan za obranu propisat će posebnim propisom uz suglasnost ministra nadležnog za unutarnje poslove i ministra nadležnog za poslove pomorstva način primjene mjera i sredstava prisile, zaustavljanja i pregleda sumnjivog plovila, uzapćenja plovila, privremenog zadržavanja osoba, vođenje službenih evidencija i druge radnje ovlaštenih osoba Obalne straže potrebne za pokretanje postupka protiv prekršitelja propisa.

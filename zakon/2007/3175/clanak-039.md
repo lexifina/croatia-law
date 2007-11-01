@@ -1,0 +1,2 @@
+# Članak 39.
+Ministar nadležan za obranu, uz suglasnost nadležnih ministara, propisat će ovlasti i postupak inspekcijskog nadzora nad provedbom propisa koji će obavljati ovlaštene osobe Obalne straže, način suradnje ovlaštenih osoba Obalne straže i tijela državne uprave nadležnih za pomorstvo, gospodarstvo, znanost, kulturu, zaštitu okoliša odnosno zaštitu prirode, način razmjene informacija potrebnih za njihovo učinkovito i usklađeno djelovanje.

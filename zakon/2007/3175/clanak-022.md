@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Obalna straža štiti suverena prava Republike Hrvatske nad morskim dnom i podzemljem epikontinentalnog pojasa Republike Hrvatske pri njegovu istraživanju i radi iskorištavanja rudnog i drugoga neživog bogatstva morskog dna i njegova podzemlja te morskih bića koja su u stadiju u kojemu se love, nepokretna na morskome dnu ili ispod njega, ili se mogu kretati samo u stalnom fizičkom dodiru s morskim dnom ili samo u morskom podzemlju.
+(2) Pri zaštiti ostvarivanja prava iz stavka 1. ovoga članka Obalna straža ne smije neopravdano sprječavati plovidbu, ribarenje, zaštitu živih bogatstava mora, ni oceanografska ili druga znanstvena istraživanja.

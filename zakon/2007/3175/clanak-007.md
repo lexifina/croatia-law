@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Koordinacija rada Obalne straže s drugim tijelima nadležnima za nadzor i zaštitu interesa Republike Hrvatske na moru ostvaruje se putem Zapovjedništva Obalne straže.
+(2) Na zahtjev tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru zapovjednik Obalne straže odobrit će korištenje osoblja, plovila, zrakoplova i ostalih sredstava Obalne straže te ukrcati predstavnika nadležnog tijela na plovilo ili zrakoplov Obalne straže.
+(3) Na zahtjev zapovjednika Obalne straže i na temelju Plana zajedničkih aktivnosti tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru druga tijela nadležna za nadzor i zaštitu interesa Republike Hrvatske na moru mogu ukrcati svog predstavnika na plovilo ili zrakoplov Obalne straže radi pomoći u obavljanju zadaća iz nadležnosti Obalne straže.

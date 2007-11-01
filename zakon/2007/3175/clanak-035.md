@@ -1,0 +1,4 @@
+# Članak 35.
+(1) U slučajevima spašavanja propisanih Zakonom o zaštiti i spašavanju Obalna straža usklađuje svoje akcije zaštite i spašavanja osoba i imovine te uklanjanje drugih posljedica hitnih situacija, nesreća, velikih nesreća i katastrofa s Državnom upravom za zaštitu i spašavanje.
+(2) U slučajevima iz stavka 1. ovoga članka Obalna straža je u stalnom kontaktu s Centrom 112 te postupa u skladu sa standardnim operativnim postupcima u svezi hitnih situacija, nesreća i prijetnji od nastanka katastrofe koje propisuje čelnik središnjeg tijela državne uprave nadležnog za zaštitu i spašavanje.
+(3) Ministar nadležan za obranu uz suglasnost ministra nadležnog za poslove unutarnjih poslova propisat će način suradnje ovlaštenih osoba Obalne straže i Državne uprave za zaštitu i spašavanje te način razmjene informacija potrebnih za njihovo učinkovito i usklađeno djelovanje.

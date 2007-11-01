@@ -1,0 +1,5 @@
+## V. SUZBIJANJE PIRATSTVA I DRUGIH OBLIKA KORIŠTENJA OTVORENOG MORA U NEMIROLJUBIVE SVRHE
+# Članak 26.
+(1) Kada brod ili zrakoplov Obalne straže na otvorenom moru presretne strani brod, koji nije ratni ili javni brod, može brod pregledati ako ima ovlasti iz međunarodnih ugovora ili na temelju zahtjeva za suradnju drugih država te ako osnovano sumnja da se brod bavi piratstvom, trgovinom robljem, neovlaštenim emitiranjem, da je brod bez državne pripadnosti i da je brod iako vije stranu zastavu ili odbija istaknuti svoju zastavu zapravo brod hrvatske državne pripadnosti.
+(2) Ako brod plovi pod zastavom dviju ili više država i kojima se služi po svojem nahođenju ne može se pozvati ni na jednu od tih državnih pripadnosti i može se izjednačiti s brodom bez državne pripadnosti.
+(3) Radi provjere prava na vijanje hrvatske zastave brod Obalne straže može na sumnjivi brod poslati tim za provjeru. Ako sumnje ostanu i nakon provjere isprava, on može na brodu pristupiti daljnjem ispitivanju uz sve moguće obzire.

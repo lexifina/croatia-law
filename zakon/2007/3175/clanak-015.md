@@ -1,0 +1,5 @@
+# Članak 15.
+(1) Ako se plovni objekt zatečen u kršenju propisa Republike Hrvatske ili općeprihvaćenih međunarodnih propisa i standarda ne zaustavi na vidljivi ili zvučni poziv Obalne straže za zaustavljanje koji je upućen s udaljenosti koja omogućuje da se poziv vidi ili čuje, brodovi i zrakoplovi Obalne straže mogu samostalno ili u suradnji s drugim ovlaštenim tijelima poduzeti njegov progon.
+(2) Tijekom progona ovlaštene osobe Obalne straže ovlaštene su uporabiti vatreno oružja ako se progonjeni plovni objekt ne zaustavi nakon upućenoga vidljivog ili čujnog poziva na zaustavljanje s udaljenosti koja mu nesumnjivo omogućuje primanje poziva, ispaljivanjem hica u zrak, a ako se plovni objekt ne zaustavi ni nakon upozoravajućih hitaca, vatreno oružje dopušteno je uporabiti i prema plovnom objektu.
+(3) Uporaba vatrenog oružja u svrhu zaustavljanja i sprječavanja bijega plovnog objekta mora biti u skladu s načelima neophodnosti, izuzetnosti i razmjernosti, a intenzitet uporabljene sile mora biti razmjeran povrijeđenom interesu Republike Hrvatske.
+(4) Pri uporabi vatrenog oružja ovlaštene osobe Obalne straže dužne su čuvati živote posade progonjenog plovila.

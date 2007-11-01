@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Kada postoji osnovana sumnja da je plovilo ili njegova posada ili član posade počinio prekršaj ili kazneno djelo u području temeljne ovlasti Obalne straže ovlaštene osobe Obalne straže mogu zaustaviti plovilo, izvršiti pregled plovila i privremeno oduzeti predmete koji su poslužili za izvršenje prekršaja ili kaznenog djela.
+(2) Ovlaštene osobe Obalne straže mogu u slučajevima iz stavka 1. ovoga članka privesti ili privremeno zadržati osobe zatečene u izvršenju prekršaja odnosno kaznenog djela radi predaje nadležnom državnom tijelu i provedbe propisanog postupka protiv prekršitelja propisa.
+(3) Ako se propisane mjere iz stavka 1. ovoga članka ne mogu provesti na moru, Obalna straža može uzaptiti plovilo i zapovjediti da se plovilo uputi u najbližu hrvatsku luku, privremeno ga zadržati te predati nadležnim tijelima radi provođenja daljnjeg postupka.
+(4) Ovlaštena osoba Obalne straže može od zapovjednika plovila zatečenog u prekršaju zatražiti informacije radi utvrđivanja činjenica o okolnostima nastanka i karakteru prekršaja.
+(5) U slučajevima kada kazneno djelo ili prekršaj počini brod strane državne pripadnosti ili njegova posada Obalna straža će postupati sukladno propisima Republike Hrvatske i primjenjivim međunarodnim pravom.

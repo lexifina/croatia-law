@@ -1,0 +1,3 @@
+# Članak 12.
+(1) U provedbi ovoga Zakona Obalna straža neposredno surađuje s drugim zainteresiranim organizacijama, trgovačkim društvima, ustanovama, zajednicama i udrugama.
+(2) Obalna straža putem nadležnih ministarstava surađuje s tijelima međunarodnih organizacija koja se bave suzbijanjem, smanjivanjem i nadziranjem onečišćenja mora i morskog okoliša, traganjem i spašavanjem na moru, osiguranjem povoljnog režima plovidbe, nadziranjem morskog ribarstva, zaštitom osjetljivih ekosustava, postojbina vrsta i drugih ugroženih oblika života u moru, zaštitom podmorskih kulturnih dobara, sprječavanjem širenja oružja za masovno uništavanje te borbom protiv terorizma.

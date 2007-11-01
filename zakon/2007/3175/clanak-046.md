@@ -1,0 +1,2 @@
+# Članak 46.
+Danom stupanja na snagu Uredbe iz članka 43. podstavka 2. ovoga Zakona prestaje važiti Odluka Vlade Republike Hrvatske o osnivanju Koordinacije Vlade Republike Hrvatske za usklađivanje obavljanja poslova nadzora i zaštite unutrašnjih morskih voda, teritorijalnog mora i zaštićenog ekološko-ribolovnog pojasa Republike Hrvatske od 27. kolovoza 2004., klasa: 022-03/04-02/33, urbroj:5030109-04-1.

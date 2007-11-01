@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Središnja koordinacija daje smjernice za izradu plana zajedničkih aktivnosti i posebnih planova nadzora i zaštite prava i interesa Republike Hrvatske na moru te donosi godišnji Plan zajedničkih aktivnosti svih tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru.
+(2) Stručno tijelo, u skladu sa smjernicama Središnje koordinacije, izrađuje i predlaže Središnjoj koordinaciji godišnji Plan zajedničkih aktivnosti svih tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru.
+(3) Tijela nadležna za nadzor i zaštitu prava i interesa Republike Hrvatske na moru samostalno izrađuju i provode posebne planove zaštite i nadzora prava i interesa Republike Hrvatske iz područja svoje nadležnosti o čemu kvartalno izvješćuju Središnju koordinaciju putem Stručnog tijela.
+(4) Na temelju godišnjeg Plana zajedničkih aktivnosti svih tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru Stručno tijelo donosi provedbene tromjesečne planove zajedničkih aktivnosti i izvješćuje Središnju koordinaciju o njihovoj provedbi.
