@@ -1,0 +1,2 @@
+# Članak 151.
+Kada je isključivo pravo obavljanja lučke djelatnosti u luci od državnog ili županijskog značaja vezan uz korištenje javnoga vodnog dobra ili vodnog dobra, lučka uprava je dužna prije izdavanja Odobrenja ishoditi pravo građenja ili prava korištenja na javnom vodnom dobru sukladno propisima o vodama, odnosno ishoditi pravo građenja ili pravo korištenja na vodnom dobru od privatnih vlasnika.

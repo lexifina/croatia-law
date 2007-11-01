@@ -1,0 +1,3 @@
+# Članak 196.
+(1) Ako potonula stvar predstavlja izravnu opasnost ili smetnju za plovidbu, a nadležnoj lučkoj kapetaniji je vlasnik nepoznat ili kad je vlasnik poznat, ali se utvrdi da on ne namjerava vaditi potonulu stvar, ili kad bez opravdanog razloga prekine ili napusti započeto vađenje, vađenje potonule stvari povjerit će se Agenciji.
+(2) Smatra se da vlasnik ne namjerava poduzeti vađenje potonule stvari, odnosno da je prekinuo ili napustio vađenje ako u roku od 15 dana od dana kad je stvar potonula ne dostavi izjavu da namjerava vaditi potonulu stvar ili ako u roku od 15 dana od dobivanja odobrenja ne započne vađenje, odnosno ako ne nastavi radove na vađenju potonule stvari koje je prekinuo ili napustio bez opravdana razloga.

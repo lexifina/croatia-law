@@ -1,0 +1,2 @@
+# Članak 115.
+Agencija u obavljanju svoje djelatnosti provodi plan iz članka 103. ovoga Zakona na način da osigura kontinuirano praćenje troškova prometne infrastrukture te u tu svrhu mora uspostaviti standardni i stalni obračunski sustav za praćenje troškova prometne infrastrukture vodnih putova koji uključuju odvojeno evidentiranje troškova izgradnje, održavanja te operativnih troškova i troškova upravljanja.

@@ -1,0 +1,3 @@
+# Članak 214.
+(1) Ako se u obavljanju inspekcijskog nadzora iz članka 210. stavka 1. točke 2. ovoga Zakona utvrdi da je stanje luka, pristaništa, sidrišta i zimovnika takvo da predstavlja opasnost za sigurnost plovidbe, ljudi, stvari ili okoliša, naredit će upravitelju luke, odnosno Agencije da u cilju otklanjanja utvrđenih nedostataka u određenom roku poduzme odgovarajuće mjere ili obavi potrebne radove.
+(2) Ako mjere i radovi iz stavka 1. ovoga članka ne budu izvršeni u određenom roku, inspektor sigurnosti plovidbe zabranit će pristajanje, sidrenje, uporabu obale, odnosno ograničiti ili zabraniti plovidbu u lučkom akvatoriju.

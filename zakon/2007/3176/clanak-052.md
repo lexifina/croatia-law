@@ -1,0 +1,2 @@
+# Članak 52.
+Član posade mora obavljati poslove na plovilu u skladu sa svojim dužnostima propisanim zakonom i drugim propisima koji se odnose na plovidbu na način da ne dovede u opasnost sigurnost plovidbe, ošteti plovilo ili stvari na njemu, ugrozi sigurnost putnika na plovilu, ostale članove posade ili onečisti okoliš opasnim i štetnim tvarima (uljem, otpacima tekućih goriva i njihovim smjesama, otpadnim vodama i drugim otpadnim tvarima te radioaktivnim i sličnim otpacima) s plovila.

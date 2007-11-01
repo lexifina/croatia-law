@@ -1,0 +1,7 @@
+# Članak 66.
+(1) U slučaju iznimnog događaja koji ugrožava sigurnost plovila ili plovidbe, putnika i drugih osoba, ili prijeti oštećenju stvari na plovilu, ili ako se primijeti onečišćenje uljem ili drugim opasnim tvarima, zapovjednik je obvezan opis tog događaja, odnosno bilješku o opaženom onečišćenju odmah unijeti u brodski dnevnik.
+(2) Zapovjednik je obvezan, u slučaju iznimnog događaja iz stavka 1. ovoga članka, o tim događajima odmah radiovezom ili, ukoliko to nije u mogućnosti, nakon dolaska u prvu luku, podnijeti izvještaj lučkoj kapetaniji zajedno s izvatkom iz brodskog dnevnika.
+(3) Zapovjednik mora unijeti u brodski dnevnik činjenicu rođenja i smrti osobe na plovilu, naznačujući mjesto ili poziciju plovila i vrijeme rođenja, odnosno smrti te primiti izjavu posljednje volje i to primanje unijeti u brodski dnevnik, navodeći vrijeme kad je posljednju izjavu volje primio.
+(4) Zapovjednik je obvezan o činjenici rođenja i smrti te o primanju izjave posljednje volje sastaviti zapisnik na propisani način i dostaviti ga nadležnom tijelu u prvoj domaćoj luci u koju stigne, a u inozemstvu najbližem diplomatskom, odnosno konzularnom predstavništvu Republike Hrvatske.
+(5) Zapovjednik ili brodar mora čim prije moguće izvijestiti nadležno tijelo ili lučku kapetaniju o događajima u vezi s ispuštanjem ulja ili prijetnje od ispuštanja ulja i drugih opasnih tvari.
+(6) Propis o načinu postupanja zapovjednika prema odredbama stavka 3. i 4. ovoga članka donosi ministar.
