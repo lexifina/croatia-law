@@ -1,0 +1,7 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom proglašava se ekološka mreža Republike Hrvatske sa sustavom ekološki značajnih područja i ekoloških koridora s ciljevima očuvanja i smjernicama za mjere zaštite koje su namijenjene održavanju ili uspostavljanju povoljnog stanja ugroženih i rijetkih stanišnih tipova i/ili divljih svojti.
+(2) Područja ekološke mreže s ciljevima očuvanja i smjernicama za mjere zaštite iz stavka 1. ovoga članka navedena su u prilozima 1.1. i 1.2., koji se čuvaju i dostupni su u Ministarstvu kulture (u daljnjem tekstu: Ministarstvo) i Državnom zavodu za zaštitu prirode, sastavni su dijelovi ove Uredbe, i ne objavljuju se u »Narodnim novinama«.
+(3) Osim područja ekološke mreže navedenih u prilozima 1.1. i 1.2., sastavni dio ekološke mreže čine i svi speleološki objekti u smislu Zakona o zaštiti prirode (u daljnjem tekstu: Zakon), uključujući i speleološke objekte u podmorju.
+(4) Područja ekološke mreže za koja su ciljevi očuvanja stanišni tipovi i/ili divlje svojte navedene u odgovarajućim propisima Republike Hrvatske, u međunarodnim ugovorima kojih je Republika Hrvatska potpisnica, propisima Europske unije i aktima VijećA Europe, sadržana su u prilozima 1.1. i 1.2. i obilježena su oznakom #.
+(5) Ekološku mrežu sačinjavaju i ekološki koridori (migracijski putovi) navedeni u Prilogu 2., koji se čuva i dostupan je u Ministarstvu i Državnom zavodu za zaštitu prirode, koji je sastavni dio ove Uredbe, i ne objavljuje se u »Narodnim novinama«.

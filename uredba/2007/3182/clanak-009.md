@@ -1,0 +1,9 @@
+## V. KARTOGRAFSKO PRIKAZIVANJE PODRUČJA EKOLOŠKE MREŽE
+# Članak 9.
+(1) Pregledna karta područja ekološke mreže prikazana je na kartografskom prikazu (u daljnjem tekstu: prikaz) mjerila 1:100000,sastavni je dio ove Uredbe kao prilozi 3.1., 3.2. i 3.3., koji se čuvaju i dostupni su u Ministarstvu i Državnom zavode za zaštitu prirode, i ne objavljuju se u »Narodnim novinama«.
+(2) Obvezuje se Državni zavod za zaštitu prirode da, u suradnji s Državnom geodetskom upravom, ucrta granice područja ekološke mreže na Hrvatskoj osnovnoj karti (HOK-u) mjerila 1:5000, koja je, prema potrebi, dopunjena s ortofoto (aerofotogrametrijskim) snimkom, ili Hrvatskoj osnovnoj karti (HOK-u) mjerila 1:10000 ili na katastarskom planu.
+(3) Podaci o granici područja ekološke mreže dobivaju se tako da se sloj geografskog informacijskog sustava u mjerilu 1:5000 iz stavka 2. ovoga članka prekrije s digitalnim katastarskim planom i tijek granice prikaže točno na katastarskoj čestici.
+(4) Pri utvrđivanju granice iz stavka 3. ovoga članka, u područje ekološke mreže uključuje se cijela katastarska čestica, ako se pola ili više od pola površine katastarske čestice nalazi unutar područja ekološke mreže, osim u slučaju utvrđivanja granica na šumskom zemljištu u državnom vlasništvu kada se u područje ekološke mreže uključuje samo onaj dio katastarske čestice koji je unutar granica ekološke mreže.
+(5) U dvojbi je li neko područje u granicama područja ekološke mreže, za isto će se, prije završetka poslova iz članka 11. stavka 1., izraditi kartografski prikaz u mjerilu 1:5000, sukladno stavku 2. ovog članka.
+(6) U postupku izmjene granica ekološke mreže mora se prethodno pribaviti mišljenje nadležnih tijela za prostorno uređenje, zaštitu okoliša i drugih sastavnica okoliša prema posebnim propisima.
+(7) Prikaz iz stavka 1. i/ili 2. ovog članka Ministarstvo će dostaviti nositelju izrade dokumenta prostornog uređenja kao podlogu za izradu tog dokumenta bez naknade.
