@@ -1,0 +1,1 @@
+Na temelju članka 32. stavaka 3. i 4. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99, 53/2003 i 19/2007), Vlada Republike Hrvatske je na sjednici održanoj 2. studenoga 2007. godine donijela
