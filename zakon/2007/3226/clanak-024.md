@@ -1,0 +1,7 @@
+## Zaštita mora i obalnog područja
+# Članak 24.
+(1) Zaštita mora obuhvaća mjere zaštite mora uključujući morski ekosustav i obalno područje kao nedjeljive cjeline, sprječavanje štetnih zahvata na morski ekosustav, sprječavanja onečišćenja mora iz zraka, s kopna, s plovila i drugih onečišćivača uslijed pomorskog prometa uključujući i onečišćenje prouzročeno odbacivanjem s brodova ili iz zrakoplova sa svrhom potapanja ili spaljivanjem na moru, te prekograničnog onečišćenja, kao i sprječavanje onečišćenja uslijed velikih nesreća i uklanjanje njihovih posljedica.
+(2) Zaštita mora od onečišćenja podrazumijeva: upravljanje obalnim područjem, morskim dnom i morskim podzemljem te morskim okolišem, gospodarenje ribama i drugim morskim organizmima tako da se ne uzrokuje šteta morskom okolišu; osiguravanje održive marikulture trajnim praćenjem stanja i posebnom zaštitom odgovarajućih područja mora, podmorja i obale; te ispunjavanjem obveza iz međunarodnih ugovora.
+(3) Zaštita obalnog područja obuhvaća mjere zaštite obalnih ekosustava i održivo upravljanje obalnim resursima.
+(4) Država poduzima sve odgovarajuće mjere kako bi spriječila, smanjila i suzbila onečišćenje morskog okoliša u skladu s ovim Zakonom i posebnim propisima.
+(5) U cilju osiguranja polazišta za postizanje dobrog stanja morskog okoliša i polazišta za osiguranje njegove zaštite i očuvanje, te sprečavanje propadanja morskog okoliša, donosi se dokument zaštite morskog okoliša sukladno članku 48. ovoga Zakona.

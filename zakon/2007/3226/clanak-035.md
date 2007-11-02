@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Županije i Grad Zagreb u svojem djelokrugu uređuju, organiziraju, financiraju i unapređuju poslove zaštite okoliša koji su im ovim Zakonom i posebnim propisima stavljeni u nadležnost, a od područnog (regionalnog) su značaja za zaštitu okoliša, unapređenje stanja okoliša na području županije odnosno Grada Zagreba.
+(2) Veliki gradovi, gradovi i općine u svojem djelokrugu uređuju, organiziraju, financiraju i unapređuju poslove zaštite okoliša koji su im ovim Zakonom i posebnim propisima stavljeni u nadležnost a od lokalnog su značaja za zaštitu okoliša, unapređenje stanja okoliša na području velikog grada, grada ili općine.
+(3) Iznimno od stavka 2. ovoga članka, na velike gradove na odgovarajući način primjenjuju se i odredbe o poslovima od područnog (regionalnog) značaja za zaštitu okoliša, unapređenje stanja okoliša, ako su im ovim Zakonom odnosno posebnim propisima stavljeni u nadležnost.

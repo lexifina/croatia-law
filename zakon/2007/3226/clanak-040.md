@@ -1,0 +1,10 @@
+## Obveza polaganja stručnog ispita za osobe zaposlene kod ovlaštenika
+# Članak 40.
+(1) Fizičke osobe koje u svojstvu radnika kod ovlaštenika obavljaju poslove iz područja zaštite okoliša (u daljnjem tekstu: stručne osobe ovlaštenika) dužne su položiti stručni ispit za obavljanje poslova iz područja zaštite okoliša prema programu za polaganje stručnih ispita propisanom Pravilnikom iz stavka 6. ovoga članka.
+(2) Stručnim ispitom iz stavka 1. ovoga članka, prema propisanom programu, provjerava se poznavanje važećih propisa iz područja koja uređuje ovaj Zakon i drugih propisa značajnih za primjenu ovoga Zakona, kao i iz područja uređenih posebnim propisima o sastavnicama okoliša i opterećenjima, te poznavanje dokumenata međunarodnog prava iz područja zaštite okoliša.
+(3) Stručni ispit iz stavka 1. ovoga članka polaže se u Ministarstvu. Stručni ispit provodi povjerenstvo koje osniva ministar odlukom. Po potrebi ministar će odlukom imenovati više povjerenstava.
+(4) Članovi povjerenstva imenuju se popisa osoba koje određuje ministar iz redova znanstvenih i stručnih djelatnika, stručnih djelatnika Ministarstva i predstavnika tijela ili osoba predloženih od strane ministara nadležnih za pojedine sastavnice okoliša.
+(5) Troškove polaganja stručnog ispita iz stavka 1. ovoga članka za svoje radnike snosi ovlaštenik.
+(6) Program, uvjete i način polaganja stručnog ispita iz stavka 1. ovoga članka, ustroj i način rada povjerenstva koje provodi stručni ispit, način prijave stručne osobe ovlaštenika i uvjeti koje mora ispuniti za polaganje stručnog ispita, pismena putem kojih se postupak polaganja stručnog ispita provodi, te način plaćanja naknade troškova za polaganje stručnog ispita i druga pitanja s tim u svezi, uz suglasnost ministara nadležnih za pojedine sastavnice okoliša, pobliže propisuje ministar pravilnikom.
+(7) Povjerenstvo koje provodi stručni ispit iz stavka 1. ovoga članka ima pravo na naknadu.
+(8) Iznos i način isplate naknade iz stavka 6. ovoga članka propisuje ministar odlukom.
