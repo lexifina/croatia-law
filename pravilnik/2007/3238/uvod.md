@@ -1,0 +1,1 @@
+Na temelju članka 68. podstavaka 1., 2., 3., 4. i 5. Zakona o humanitarnom razminiranju (»Narodne novine« broj 153/2005) ministar unutarnjih poslova uz prethodno pribavljeno mišljenje ravnatelja Hrvatskog centra za razminiranje donosi
