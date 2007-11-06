@@ -1,0 +1,4 @@
+# Članak 6.
+Nadležni centar za socijalnu skrb u ime Ministarstva podnosi prijavu i odjavu na obvezna osiguranja korisnika prava na status roditelja njegovatelja na način uređen propisima o obveznim osiguranjima.
+U postupku prikupljanja podataka potrebnih za prijavu na osiguranje roditelj-njegovatelj, pored ostalih podataka, daje i pisanu izjavu o statusu u mirovinskom osiguranju odnosno podatak o tome da li je ili nije osiguranik mirovinskog osiguranik za starost na temelju individualne kapitalizirane štednje (II. stup).
+Obrasce o prijavi na osiguranje i odjavi s osiguranja, te izjavu roditelja o statusu u mirovinskom osiguranju i primjerak Obrasca 2. dostavljenog Ministarstvu, centar za socijalnu skrb ulaže u zbirku isprava te na temelju njih upisuje podatke o početku i o prestanku osiguranja u radnu knjižicu roditelja njegovatelja.
