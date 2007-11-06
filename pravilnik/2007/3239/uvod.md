@@ -1,0 +1,1 @@
+Na temelju članka 127. stavka 7. Zakona o izvršavanju kazne zatvora (»Narodne novine«, broj: 128/99., 55/00., 129/00., 59/01., 67/01., 190/03. - pročišćeni tekst i 76/07.), ministrica pravosuđa, donosi
