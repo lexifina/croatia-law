@@ -1,0 +1,2 @@
+# Članak 23.
+Zdravstvene ustanove koje obavljaju djelatnost medicine rada, trgovačka društva koja obavljaju djelatnost medicine rada i privatne ordinacije medicine rada koje imaju odobrenje za obavljanje pregleda osoba iz članka 1. ovoga Pravilnika obvezne su jednom godišnje dostaviti podatke o obavljenim zdravstvenim pregledima osoba iz članka 1. ovoga Pravilnika Hrvatskom zavodu za medicinu rada, na način na koji to određuje ravnatelj Hrvatskog zavoda za medicinu rada.

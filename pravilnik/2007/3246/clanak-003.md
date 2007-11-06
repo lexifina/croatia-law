@@ -1,0 +1,2 @@
+# Članak 3.
+Zdravstvene ustanove koje obavljaju djelatnost medicine rada, trgovačka društva koja obavljaju djelatnost medicine rada i privatne ordinacije medicine rada za dobivanje ovlaštenja za obavljanje pregleda osoba iz članka 1. ovoga Pravilnika moraju, uz uvjete propisane posebnim propisom, za početak rada i obavljanje djelatnosti, zaposliti ili sklopiti ugovor o obavljanju pregleda s doktorom medicine specijalistom oftalmologom i psihologom.
