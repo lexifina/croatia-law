@@ -1,0 +1,5 @@
+# Članak 15.
+1) Uprava nadzire provođenje označavanja svih životinja na gospodarstvu.
+2) Ukoliko se na gospodarstvu nalazi više od 20 životinja, Uprava određuje da se kontrole identifikacije životinja provode na reprezentativnom uzorku životinja koji omogućava otkrivanje 5% životinja koje nisu označene u skladu s odredbama ovoga Pravilnika i propisa iz članka 4. stavka 6. ovoga Pravilnika, s 95%-tnom sigurnošću.
+3) Ako se kontrolama provedenima u skladu sa stavkom 2. ovoga članka utvrdi nesukladnost s zahtjevima za označavanjem i registracijom životinja propisanim člankom 3. stavkom 1. ovoga Pravilnika, sve životinje na gospodarstvu moraju biti obuhvaćene kontrolama.
+4) Iznimno od stavka 3. ovoga članka, Uprava određuje da se kontrole identifikacije životinja provode na reprezentativnom uzorku životinja koji omogućava otkrivanje preko 5% životinja koje nisu označene u skladu s odredbama ovoga Pravilnika i propisa iz članka 4. stavka 6. ovoga Pravilnika s preciznošću od plus ili minus 2%, s 95%-tnom sigurnošću.

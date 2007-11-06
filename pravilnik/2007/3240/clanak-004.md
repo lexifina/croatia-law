@@ -1,0 +1,14 @@
+# Članak 4.
+1) Sve životinje na gospodarstvu, koje su rođene nakon stupanja na snagu ovoga Pravilnika, moraju biti označene u roku od šest mjeseci od rođenja u skladu sa stavkom 3. ovoga članka, a u svakom slučaju prije odlaska s gospodarstva na kojem su rođene. Iznimno, nadležno tijelo može produljiti rok iz ovoga stavka najdulje na devet mjeseci za životinje koje se drže u ekstenzivnim uvjetima.
+2) O produljenju roka iz stavka 1. ovoga članka Uprava obavještava Europsku komisiju.
+3) Životinje moraju biti označene:
+(a) prvim sredstvom za označavanje u skladu sa zahtjevima iz Priloga I. Odjeljka A. točke 1. do 3. ovoga Pravilnika, i
+(b) drugim sredstvom za označavanje koje je odobrilo nadležno tijelo i u skladu s tehničkim karakteristikama navedenim u Prilogu I. Odjeljku A. točki 4. ovoga Pravilnika.
+4) U slučaju uvoza iz država koje nisu članice Europske unije:
+(a) sve životinje, koje su pregledane u skladu s odredbama Pravilnika o načinu obavljanja veterinarsko-zdravstvenog pregleda i kontrola živih životinja u prometu preko granice Republike Hrvatske i koje ostaju na području Republike Hrvatske, označavaju se u skladu sa stavkom 3. ovoga članka na gospodarstvu odredišta, na kojem se obavlja uzgoj životinja, u roku koji nije dulji od 14 dana nakon obavljenog pregleda, a u svakom slučaju prije odlaska s gospodarstva;
+(b) izvorna oznaka države evidentira se u Registru ovaca i koza na gospodarstvu iz članka 5. ovoga Pravilnika, zajedno s identifikacijskim brojem životinje koji joj je dodijeljen u Republici Hrvatskoj;
+(c) označavanje životinja propisano stavkom 1. ovoga članka nije obvezno za životinje namijenjene klanju, ako se životinje prevoze izravno s granične veterinarske postaje u klaonicu koja se nalazi u Republici Hrvatskoj i na njoj su obavljeni pregledi u skladu s točkom (a) ovoga stavka te ako se životinja zakolje u roku od pet radnih dana nakon obavljenih pregleda.
+5) Sve životinje podrijetlom iz država članica Europske unije zadržavaju vlastite izvorne oznake.
+6) Zabranjeno je uklanjanje ili zamjena sredstava za označavanje protivno odredbama ovoga Pravilnika i Pravilnika o provođenju obveznog označavanja i registracije ovaca i koza. Ako je sredstvo za označavanje postalo nečitko ili je izgubljeno, što je prije moguće, životinja se mora označiti zamjenskim sredstvom za označavanje koje nosi isti identifikacijski broj životinje u skladu s ovim člankom. Uz identifikacijski broj životinje i odvojeno od njega, zamjensko sredstvo za označavanje može nositi oznaku koja pokazuje koliko je puta sredstvo za označavanje zamijenjeno.
+7) Način na koji se sredstva za označavanje dodjeljuju gospodarstvu i distribuiraju te na koji se označavaju životinje određuje Uprava.
+8) Uprava obavještava države članice Europske unije i Europsku komisiju o obliku i izgledu sredstava za označavanje i načinu označavanja koji se koristi na području Republike Hrvatske.
