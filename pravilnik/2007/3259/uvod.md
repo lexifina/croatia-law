@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. Zakona o elektroničkim medijima (»Narodne novine«, broj 122/03 i 97/07), uz prethodnu suglasnost ministra nadležnog za telekomunikacije, Vijeće za elektroničke medije, donosi

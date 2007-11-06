@@ -1,0 +1,2 @@
+# Članak 16.
+Ako Vijeće utvrdi da nakladnik, koji ima koncesiju za obavljanje djelatnosti radija i/ili televizije, više ne ispunjava uvjete za obavljanje djelatnosti propisane ovim Pravilnikom, odlukom će utvrditi primjereni roku u kojem je nakladnik obavezan uskladiti obavljanje svoje djelatnosti s propisanim uvjetima. Ako nakladnik ne postupi prema odluci Vijeća u utvrđenom roku, Vijeće će donijeti odluku o privremenom ili trajnom oduzimanju koncesije".
