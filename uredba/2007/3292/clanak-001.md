@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o dražbama (javnim nadmetanjima) određenih drvnih proizvoda (»Narodne novine«, br. 7/99 i 16/2002) u članku 2. stavku 1. iza riječi »Carinske tarife« briše se točka te se dodaju riječi: »osim za ogrjevno drvo u oblicama, cjepanicama, granama, snopovima ili sličnim oblicima iz Tarifne oznake 4401 10 00 10 za ex. rezano na dužine od 25-45 cm iz Uredbe o carinskoj tarifi (»Narodne novine«, br. 134/2006, 73/2007 i 87/2007)«.
