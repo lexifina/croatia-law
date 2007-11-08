@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 6. stavak 1. mijenja se i glasi:
+»Ministarstvo izdaje dozvolu za obavljanje usluga certificiranja s izdavanjem kvalificiranih certifikata onim podnositeljima koji ispunjavaju uvjete predviđene Zakonom, ovim Pravilnikom, Pravilnikom o mjerama i postupcima uporabe i zaštite elektroničkog potpisa i naprednog elektroničkog potpisa, sredstava za izradu elektroničkog potpisa, naprednog elektroničkog potpisa i sustava certificiranja i obveznog osiguranja davatelja usluga izdavanja kvalificiranih certifikata, te Pravilnikom o tehničkim pravilima i uvjetima povezivanja sustava certificirnqja elektroničkih potpisa («Narodne novine«, broj 89/2002).«.
