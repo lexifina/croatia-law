@@ -1,0 +1,5 @@
+# Članak 8.
+JEDNAKA PRAVA (PARI PASSU) I NEGATIVNI ZALOG(INSTRUMENTI OSIGURANJA)
+Zajmoprimac izjavljuje kako nije preuzeo, niti će u budućnosti preuzeti bilo kakvu obvezu na temelju koje bi treća strana mogla dobiti povlašten položaj, povlašteno pravo naplate ili dodatno osiguranje ili jamstvo bilo koje naravi, a što bi moglo za posljedicu imati veća prava trećih strana (u daljnjem tekstu: Instrument osiguranja).
+Ukoliko bi trećoj strani ipak bio dodijeljen takav Instrument osiguranja, Zajmoprimac je suglasan da će uspostaviti ili osigurati istovjetan Instrument osiguranja u korist CEB-a ili, ako postoje prepreke za takav postupak, jednakovrijedan Instrument osiguranja, te da će ugovoriti uspostavu takvog Instrumenta osiguranja u korist CEB-a.
+Ukoliko navedene odredbe ne budu ispunjene, to će značiti kršenje ugovornih odredaba propisano u članku 3.3 (h) Glave 3. Pravila o zajmovima i može za posljedicu imati obustavljanje, otkazivanje ili obvezu trenutačne otplate zajma pod uvjetima propisanima u člancima 3.3, 3.5 i 3.6 Pravila o zajmovima.
