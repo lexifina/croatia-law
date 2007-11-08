@@ -1,0 +1,1 @@
+Na temelju članka 48. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br, 32/02., 86/02., 114/03. i 151/03.) i članka 20. Statuta Hrvatskog zavoda za zapošljavanje (»Narodne novine«, br. 86/03. i 3/06.) Upravno vijeće Hrvatskog zavoda za zapošljavanje na sjednici od 17. listopada 2007. godine donijelo je
