@@ -1,0 +1,4 @@
+# Članak 6.
+1) Kada se prisutnost afričke svinjske kuge potvrdi na gospodarstvu koje se sastoje od dviju ili više odvojenih proizvodnih jedinica, Uprava može, kako bi se završio tov svinja, odobriti odstupanje od primjene odredbe članka 5. stavka 1. točke (a) ovoga Pravilnika, za proizvodne jedinice sa zdravim svinjama unutar zaraženog gospodarstva, uz uvjet da službeni veterinar potvrdi da su struktura, veličina i udaljenost tih proizvodnih jedinica, te postupci koji se u njima provode takvi da te proizvodne jedinice imaju posve odvojene objekte i opremu za smještaj, držanje i hranidbu svinja, tako da se virus ne može širiti iz jedne proizvodne jedinice u drugu.
+2) U slučaju primjene odstupanja iz stavka 1. ovoga članka, Uprava donosi detaljna pravila za njegovu primjenu u svrhu osiguranja zdravlja životinja.
+3) O primjeni odstupanja iz stavka 1. ovoga članka, Uprava mora odmah obavijestiti Europsku komisiju.

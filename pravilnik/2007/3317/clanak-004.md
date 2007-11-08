@@ -1,0 +1,19 @@
+# Članak 4.
+1) Kada se na gospodarstvu nalazi jedna ili više svinja za koje se sumnja da su zaražene virusom afričke svinjske kuge, državni veterinarski inspektor mora odmah provesti službeno ispitivanje kako bi se potvrdila ili isključila pojava navedene bolesti u skladu s postupcima određenim u dijagnostičkom priručniku.
+2) Tijekom nadzora na gospodarstvu službeni veterinar, mora u skladu s Pravilnikom o obveznom označavanju i registraciji svinja (»Narodne novine«, broj 51/07) provesti kontrolu:
+- Registra svinja na gospodarstvu,
+- identifikacijskih oznaka svinja.
+3) Ako Uprava smatra da se pojava afričke svinjske kuge na gospodarstvu ne može isključiti državni veterinarski inspektor odmah mora staviti gospodarstvo pod službeni nadzor i narediti:
+(a) prebrojavanje i popis svih svinja različitih kategorija na gospodarstvu koje pokazuju znakove bolesti, uginule ili sumnjive da su zaražene. Popis se mora ažurirati kako bi se evidentirale novo-oprašene i novo-uginule svinje tijekom razdoblja sumnje. Ovi se podaci na zahtjev moraju pokazati i mogu se provjeriti prilikom svakog nadzora;
+(b) da se sve svinje na gospodarstvu zatvore u objekt u kojem žive ili na neko drugo mjesto gdje se mogu zatvoriti i izolirati;
+(c) da niti jedna svinja ne smije ući na gospodarstvo niti ga napustiti. Ako je potrebno, državni veterinarski inspektor može proširiti zabranu napuštanja gospodarstva i na druge vrste životinja, te zahtijevati primjenu odgovarajućih mjera za uništavanje glodavaca ili insekata;
+(d) da niti jedna lešina svinje ne smije biti iznesena s gospodarstva bez odobrenja državnog veterinarskog inspektora;
+(e) da se s gospodarstva ne smiju iznositi meso, proizvodi od mesa svinja, sjeme, jajne stanice ili embriji svinja, hrana za životinje, oprema, materijali ili otpad kojima bi se mogla prenijeti afrička svinjska kuga, bez odobrenja državnog veterinarskog inspektora. Meso, proizvodi od mesa svinja, sjeme, jajne stanice ili embriji svinja ne smiju se iznositi s gospodarstva u svrhu stavljanja u promet u na tržište Europske unije;
+(f) da kretanje osoba na i s gospodarstva mora pismeno odobriti državni veterinarski inspektor;
+(g) da kretanje vozila na i s gospodarstva mora pismeno odobriti državni veterinarski inspektor;
+(h) da se na ulazima i izlazima iz objekata u kojima su smještene svinje, te na ulazima i izlazima s gospodarstva koristi odgovarajući način dezinfekcije. Svaka osoba koja ulazi ili izlazi s gospodarstava na kojima se drže svinje mora se pridržavati odgovarajućih higijenskih mjera potrebnih za smanjenje rizika od širenja virusa afričke svinjske kuge. Osim toga, sva se prijevozna sredstva prije napuštanja gospodarstva moraju temeljito dezinficirati;
+(i) da se provede epidemiološko istraživanje u skladu s člankom 8. ovoga Pravilnika.
+4) Kada to zahtijeva epidemiološka situacija, državni veterinarski inspektor može:
+(a) na gospodarstvu iz stavka 3. ovoga članka primijeniti mjere predviđene člankom 5. stavkom 1. ovoga Pravilnika. Ako smatra da to okolnosti dopuštaju, državni veterinarski inspektor može ograničiti primjenu ovih mjera samo na svinje za koje se sumnja da su zaražene ili kontaminirane virusom afričke svinjske kuge, te na dio gospodarstva na kojem se one drže, uz uvjet da su te svinje bile smještene, držane i hranjene potpuno odvojeno od drugih svinja na gospodarstvu. U svakom slučaju, od usmrćenih svinja mora se uzeti dovoljan broj uzoraka, kako bi se u skladu s dijagnostičkim priručnikom potvrdila ili isključila prisutnost virusa afričke svinjske kuge;
+(b) uspostaviti privremenu zonu kontrole oko gospodarstva iz stavka 3. ovoga članka. Na gospodarstvima unutar te zone na kojima se drže svinje, primjenjuju se sve ili samo neke mjere iz stavaka 1. do 3. ovoga članka.
+5) Mjere iz stavka 3. ovoga članka ostaju na snazi dok se postojanje afričke svinjske kuge službeno ne isključi.
