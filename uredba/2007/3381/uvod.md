@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 2., a u svezi s člankom 212. stavkom 2. Zakona o prostornom uređenju i gradnji (»Narodne novine«, broj 76/2007), Vlada Republike Hrvatske je na sjednici održanoj 2. studenoga 2007. godine donijela
