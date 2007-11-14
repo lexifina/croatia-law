@@ -1,0 +1,1 @@
+Na temelju članka 65. stavka 1. točke 2. Zakona o elektroničkim medijima (»Narodne novine« broj 122/03 i 79/97) i članka 281. stavka 2. Zakona o općem upravnom postupku (»Narodne novine«, broj 53/91 i 103/96), Vijeće za elektroničke medije na svojoj 153. sjednici održanoj 30. listopada 2007. te na 155. sjednici održanoj 14. studenoga 2007. godine donijelo je sljedeću
