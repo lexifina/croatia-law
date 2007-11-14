@@ -1,0 +1,1 @@
+Na temelju članka 61. Zakona o industrijskom dizajnu (»Narodne novine«, broj 173/2003 i 76/2007) ministar nadležan za rad Državnog zavoda za intelektualno vlasništvo, na prijedlog ravnatelja Državnog zavoda za intelektualno vlasništvo, donosi
