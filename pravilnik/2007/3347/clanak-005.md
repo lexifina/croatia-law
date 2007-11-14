@@ -1,0 +1,3 @@
+# Članak 5.
+Službenici i/ili suradnici Državnog zavoda za zaštitu od zračenja odazvat će se pozivu u najkraćem mogućem roku i postupiti prema pravilima struke kako bi potvrdili ili otklonili sumnju da je materijal onečišćen radionuklidima ili sadrži radioaktivne izvore.
+Prilikom obavljanja poslova iz stavka 1. ovoga članka, službenici i/ili suradnici Državnog zavoda za zaštitu od zračenja, smiju se bez ograničenja kretati i zadržavati na području svih graničnih prijelaza, a iskaznicu sa imenom i prezimenom, fotografijom i podacima o nazivu državnog tijela koje je iskaznicu izdalo moraju nositi na vidljivom mjestu.

@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 4. Zakona o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja (»Narodne novine« broj 64/06), ministar zdravstva i socijalne skrbi, uz suglasnost ministra nadležnog za financije i ministra nadležnog za unutarnje poslove, donosi

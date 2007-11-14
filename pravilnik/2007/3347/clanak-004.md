@@ -1,0 +1,4 @@
+# Članak 4.
+Carinski službenik, službenik granične policije ili granični sanitarni inspektor u slučaju opravdane sumnje iz članka 3. ovoga Pravilnika, obvezan je prije poduzimanja drugih radnji, izdvojiti prijevozno sredstvo, osobu, odnosno pošiljku i neovlaštenim osobama spriječiti pristup na udaljenost na kojoj razina zračenja ne prelazi 10 Sv/h.
+Ako granični prijelaz nije opremljen mjernom opremom, a opravdana sumnja je utvrđena na drugi način, službenik iz stavka 1. ovoga članka obvezan je prijevozno sredstvo, odnosno osobu izdvojiti i neovlaštenim osobama spriječiti pristup na udaljenost od najmanje 10 metara, odnosno pošiljku smjestiti u prostor namijenjen čuvanju opasnih tvari.
+Službenik iz stavka 1. ovoga članka obvezan je bez odlaganja putem službe 112 obavijestiti Državni zavod za zaštitu od zračenja o utvrđenoj sumnji i poduzetim mjerama.
