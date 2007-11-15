@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 207.a stavak 1. mijenja se i glasi:
+»Područni odjel financija Zagreb organizira i provodi financijsko osiguranje, vrši pripremu i unos podataka za obračun plaća i drugih naknada, organizira gotovinski platni promet i vodi financijsko i materijalno knjigovodstvo te prati realizaciju proračuna po mjestu, vremenu i vrsti rashoda za pristožerne postrojbe Glavnog stožera, zapovjedništvo i ustrojstvene jedinice Hrvatskog ratnog zrakoplovstva i protuzračne obrane, za ustrojstvene jedinice Hrvatskog vojnog učilišta i Zapovjedništva za potporu sa sjedištem u Zagrebu, Plesu i Velikoj Buni, za ustrojstvene jedinice Hrvatske kopnene vojske sa sjedištem u Zagrebu, Petrinji i Bjelovaru.«
