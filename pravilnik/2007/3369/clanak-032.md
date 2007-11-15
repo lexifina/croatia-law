@@ -1,0 +1,2 @@
+# Članak 32.
+Doktorima stomatologije, hrvatskim državljanima sukladno članku 137. stavku 2. Zakona o zdravstvenoj zaštiti ministar može, uz prethodno pribavljeno mišljenje Hrvatske stomatološke komore, specijalistički staž obavljen u inozemstvu priznati djelomično ili u cijelosti ako plan, program i trajanje specijalizacije obavljene u inozemstvu bitno ne odstupa od plana i programa propisanog ovim Pravilnikom.
