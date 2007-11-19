@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Memorandum o razumijevanju između Republike Hrvatske i Europske zajednice o pristupanju Republike Hrvatske Šestom okvirnom programu Europske zajednice za istraživanje, tehnološki razvoj i demonstracijske aktivnosti, koji pridonosi stvaranju Europskoga istraživačkog prostora i inovacijama (2002. - 2006.), potpisan 18. studenoga 2005. godine u Zagrebu, u izvorniku na hrvatskom i engleskom jeziku.
