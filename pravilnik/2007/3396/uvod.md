@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 2. Zakona o zapaljivim tekućinama i plinovima (»Narodne novine« broj 108/95) i članka 22. Zakona o prostornom uređenju i gradnji (»Narodne novine« broj 76/2007), ministar unutarnjih poslova uz suglasnost ministrice zaštite okoliša, prostornog uređenja i graditeljstva donosi
