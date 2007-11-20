@@ -1,0 +1,1 @@
+Na temelju odredbe članka 47. stavka 4. Zakona o obrtu (»Narodne novine«, broj 77/93., 90/96., 102/98., 64/01., 49/03 - pročišćeni tekst i 68/07) ministar gospodarstva, rada i poduzetništva, uz prethodno pribavljeno mišljenje Hrvatske obrtničke komore donosi
