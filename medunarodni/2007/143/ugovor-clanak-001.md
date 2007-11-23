@@ -1,0 +1,3 @@
+# Članak 1.
+U cilju promicanja suradnje između ugovornih stranaka, kao potpora procesu gospodarske i socijalne reforme i razvoja u Republici Hrvatskoj, ugovorne stranke sporazumjele su se provesti MJERE na financijskom i tehničkom polju te drugim oblicima suradnje, kao što je navedeno u navedenim uredbama, koje će se financirati i provesti unutar tehničkoga, pravnoga i administrativnog okvira određenog ovim Sporazumom. Pojedinosti svake MJERE (ili niza MJERA) navest će se u Sporazumu koji će ugovorne stranke sklopiti (u daljnjem tekstu »Sporazum o financiranju«), model kojega je u DODATKU C.
+Republika Hrvatska poduzima sve potrebne korake kako bi osigurala pravilno izvršavanje svih MJERA.
