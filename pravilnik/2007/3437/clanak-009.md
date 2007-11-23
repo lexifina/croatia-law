@@ -1,0 +1,6 @@
+## Financijska imovina koja se vrednuje po amortiziranom trošku
+# Članak 9.
+(1) Ulaganja koje je mirovinsko društvo klasificiralo kao ulaganje koje se drži do dospijeća, vrednuju se po amortiziranom trošku primjenom metode efektivne kamatne stope ostvarene prilikom svakog početnog pojedinačnog ulaganja. Efektivna kamatna stopa iskazuje se sa šest (6) decimalnih mjesta, uz zaokruživanje zadnje decimale metodom matematičkog zaokruživanja.
+(2) U slučaju prodaje dijela imovine koji se drži do dospijeća ili uslijed promjene namjere mirovinskog društva ili promjene sposobnosti da se drži do dospijeća, cjelokupnu imovinu koja se drži do dospijeća treba ponovno mjeriti po fer vrijednosti. Od datuma nastanka slučaja djelomične prodaje ili reklasifikacije, tijekom naredne dvije financijske godine niti jedan preostali vrijednosni papir ne smije se vrednovati na način primjeren financijskoj imovini koja se drži do dospijeća. Izuzetak od navedenog su slučajevi prodaje i reklasifikacije imovine s obilježjima koja opisuje MRS 39.9.
+(3) Financijska imovina koja se drži do dospijeća sukladno MRS-u 39, podliježe provjeri testa umanjenja vrijednosti imovine na svaki datum bilance.
+(4) Financijska imovina klasificirana kao zajmovi i potraživanja vrednuje se po amortiziranom trošku, primjenom metode efektivne kamatne stope.
