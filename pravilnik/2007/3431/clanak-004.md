@@ -1,0 +1,4 @@
+# Članak 4.
+1) Dozvoljava se prisutnost nepoželjnih tvari navedenih u Prilogu 1. ovoga Pravilnika u proizvodima namijenjenim hranidbi životinja isključivo uz poštivanje najvećih dopuštenih količina i drugih uvjeta navedenih u navedenom Prilogu.
+2) U svrhu smanjenja ili otklanjanja nepoželjnih tvari u proizvodima namijenjenim hranidbi životinja subjekti u poslovanju s hranom za životinje u suradnji s nadležnim tijelom utvrđuju izvor, podrijetlo i uzrok prisutnosti nepoželjnih tvari u hrani za životinje u slučajevima kada su dopuštene količine prekoračene i kada je to prekoračenje utvrđeno.
+3) Za nepoželjne tvari u hrani za životinje, za koje je propisan prag naveden u Prilogu 2. stupcu (3) ovoga Pravilnika, njihov izvor, podrijetlo i uzrok prisutnosti u hrani za životinje, utvrđuje se u slučaju kada je taj prag prijeđen.
