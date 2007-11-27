@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Memoranduma o razumijevanju između Europske zajednice i Republike Hrvatske o pristupanju Republike Hrvatske Sedmom okvirnom programu Europske zajednice za istraživanje, tehnološki
