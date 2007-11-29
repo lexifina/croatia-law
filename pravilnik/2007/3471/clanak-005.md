@@ -1,0 +1,10 @@
+## III. VODIČ O EKONOMIČNOSTI POTROŠNJE GORIVA I EMISIJE CO2
+# Članak 5.
+Vodič o ekonomičnosti potrošnje goriva i emisije CO2 sadrži sljedeće:
+1. popis svih modela novih osobnih automobila koji su u tekućoj godini dostupni za kupovinu na tržištu u Republici Hrvatskoj, sastavljen abecednim redoslijedom marki automobila;
+2. za svaki model naveden u vodiču: vrsta motornog goriva, brojčana vrijednost službene potrošnje goriva izražena u litrama na 100 kilometara (l/100 km) ili kubičnim metrima na 100 kilometara (m3/100 km) i zaokružena s točnošću od jednog decimalnog mjesta, te brojčana vrijednost službene specifične emisije CO2 izražena u gramima po kilometru (g/km) i zaokružena na najbliži cijeli broj;
+3. istaknut popis deset modela novih osobnih automobila koji se odlikuju najekonomičnijom potrošnjom goriva, poredanih po rastućim vrijednostima službene specifične emisije CO2 za svaku vrstu motornog goriva posebno. Ovaj popis mora sadržavati model, brojčanu vrijednost službene potrošnje goriva i službene specifične emisije CO2;
+4. savjet vozačima o tomu da pravilno korištenje i redovito održavanje osobnog automobila te vozačke navike, primjerice: izbjegavanje agresivne vožnje, vožnja pri manjoj brzini, anticipirano kočenje, odgovarajući tlak u gumama, skraćivanje vremena rada motora u praznom hodu, izbjegavanje opterećivanja prekomjernim teretom, poboljšavaju potrošnju goriva i smanjuju emisiju CO2 njihovih osobnih automobila;
+5. pojašnjenje učinaka emisija stakleničkih plinova i doprinosa emisija iz motornih vozila na moguće klimatske promjene, kao i upućivanja potrošača na mogućnost odabira korištenja drugačijih vrsta motornih goriva, s opisom njihova utjecaja na okoliš na osnovi najnovijih znanstvenih spoznaja i zahtjeva zakonodavstva;
+6. na razini Europske unije utvrđeni cilj prosječne emisije CO2 iz novih osobnih automobila i datum do kojega taj cilj treba postići;
+7. uputu o dostupnosti vodiča o ekonomičnosti potrošnje goriva i emisiji CO2 Europske komisije na Internetu.
