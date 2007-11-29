@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine« broj 76/2007), a u svezi članka 125a Pomorskog zakonika (»Narodne novine« broj 181/2004 i 76/2007) ministar mora, turizma, prometa i razvitka uz suglasnost ministra gospodarstva, rada i poduzetništva donosi

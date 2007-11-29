@@ -1,0 +1,3 @@
+# Članak 6.
+Pravna osoba mora za obavljanje poslova posredovanja pri zapošljavanju pomoraca imati u vlasništvu ili zakupu prostor koji se sastoji od izdvojene prostorije za rad sa strankama, te pomoćne prostorije ili predsoblja koje služi kao čekaonica i zadovoljava najmanje tehničke, sanitarne i druge uvjete za obavljanje djelatnosti posredovanja pri zapošljavanju utvrđene posebnim propisima.
+Pravna osoba mora za obavljanje poslova posredovanja pri zapošljavanju pomoraca imati odgovarajuću tehničku opremu koja osigurava vođenje svih potrebnih poslova u svezi sa posredovanjem pri zapošljavanju pomoraca, te za obavljanje poslova iz članka 20. ovog Pravilnika, uključujući opremu koja jamči sigurnost pohranjenih dokumenata.
