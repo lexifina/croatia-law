@@ -1,0 +1,1 @@
+Na temelju odredbe st. 2. čl. 38. Zakona o odvjetništvu (»Narodne novine« br. 9/94) i članka 65. Statuta Hrvatske odvjetničke komore (»Narodne novine« br. 25/95, br. 92/99, br. 08/05 i br. 117/05) Upravni odbor Hrvatske odvjetničke komore na 9. sjednici održanoj 27. listopada 2007. godine donio je
