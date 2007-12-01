@@ -1,0 +1,11 @@
+## VII. PODACI O FINANCIJSKIM INSTRUMENTIMA
+# Članak 15.
+(1) Ovlašteno društvo koje obavlja djelatnost iz točke 1. članka 34. Zakona, dužno je pružiti klijentima općeniti prikaz svojstava i rizika povezanih s vrijednosnim papirima, a ovlašteno društvo koje obavlja djelatnost iz točke 3. članka 34. Zakona, prikaz svojstava i rizika povezanih i s izvedenicama i drugim oblicima imovine iz članka 74. stavak 6. Zakona, vodeći posebice računa o kategorizaciji klijenta kao malog ili profesionalnog ulagatelja.
+(2) Općenitim prikazom iz stavka 1. ovog članka moraju biti pojašnjena specifična svojstva financijskih instrumenata, kao i rizik povezan sa svakim od njih i to na dovoljno detaljan način koji omogućava klijentu donošenje investicijske odluke Na temelju takvog prikaza.
+(3) Opis rizika iz stavka 2. ovog članka treba obuhvaćati, uzimajući u obzir pojedinačnu vrstu financijskog instrumenta te stupanj znanja svakog klijenta, sljedeće elemente:
+1. rizike povezane s određenom vrstom vrijednosnog papira, izvedenice i/ili drugog oblika imovine (financijskog instrumenta), uključujući pojašnjenje utjecaja na cjelokupnu investiciju,
+2. volatilnost cijene takvog instrumenta kao i svako ograničenje na postojećim tržištima za takve instrumente,
+3. podatak da investitor može, kao rezultat transakcija takvim instrumentima, pretpostaviti financijske obveze kao i druge dodatne obveze, uključujući zavisne obveze, dodatno na troškove stjecanja instrumenta.
+(4). Ako ovlašteno društvo pruža malom ulagatelju podatke o financijskim instrumentima koji su predmet javne ponude za upis i uplatu i za koje je izdan prospekt sukladno odredbama Zakona, ono mora obavijestiti klijenta gdje se prospekt može dobiti na uvid.
+(5). Kada će rizik, povezan s financijskim instrumentom sačinjenim od dva ili više različitih financijskih instrumenata ili usluga, vjerojatno biti veći od rizika vezanih uz svaku od pojedinih komponenti, društvo je dužno navesti odgovarajući opis komponenti takvog instrumenta i način na koji međusobni utjecaj povećava rizik.
+(6). U slučaju financijskog instrumenta koji uključuje jamstvo treće strane, podaci o jamstvu moraju sadržavati dovoljno pojedinosti o jamcu i jamstvu iz kojih mali klijent može donijeti korektnu procjenu jamstva.

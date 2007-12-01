@@ -1,0 +1,1 @@
+Na temelju odredbi članka članka 59. stavak 6. Zakona o tržištu vrijednosnih papira (»Narodne novine« br. 84/02 i 138/06), Uprava Hrvatske agencija za nadzor financijskih usluga je na sjednici održanoj 26. srpnja 2007. godine donijela
