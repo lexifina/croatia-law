@@ -1,0 +1,7 @@
+# Članak 34.
+POSEBAN POSTUPAK IZMJENA I DOPUNA ZADODATKE KONVENCIJI
+1. Ako Svjetska agencija za borbu protiv dopinga preinači Popis zabranjenih sredstava ili Mjerila za odobrenje izuzeća u terapijske svrhe, može, pisanom obaviješću, izvijestiti generalnog direktora UNESCO-a o preinakama. Generalni direktor mora u najkraćem roku obavijestiti sve države stranke o takvim preinakama u obliku izmjena i dopuna na Dodatke ovoj Konvenciji. Izmjene i dopune na Dodatke odobrava Konferencija stranaka ili na jednom od svojih zasjedanja ili kroz pismene konzultacije.
+2. Države stranke imaju na raspolaganju 45 dana od dana zaprimanja obavijesti generalnog direktora, unutar kojih mogu generalnom direktoru iznijeti svoje primjedbe na predloženu izmjenu i dopunu bilo u pisanom obliku, u slučaju konzultacija dopisivanjem, ili na zasjedanju Konferencije stranaka. Izuzev ako dvije trećine država stranaka ne iznesu svoje primjedbe, predložena izmjena i dopuna smatra se odobrenom od strane Konferencije stranaka.
+3. Generalni direktor obavješćuje države stranke o izmjenama i dopunama koje odobri Konferencija stranaka. One stupaju na snagu 45 dana po zaprimanju obavijesti, što se ne odnosi na državu stranku koja je prethodno obavijestila generalnog direktora da ne prihvaća te izmjene i dopune.
+4. Država stranka koja je obavijestila generalnog direktora da ne usvaja neke od izmjena i dopuna, odobrenih u skladu s prethodnim stavkom, ostaje vezana Dodacima koji nisu izmijenjeni i dopunjeni.
+VII. ZAVRŠNE ODREDBE

@@ -1,0 +1,22 @@
+MEĐUNARODNA KONVENCIJA PROTIVDOPINGA U ŠPORTU
+Opća konferencija Organizacije Ujedinjenih naroda za obrazovanje, znanost i kulturu (u daljnjemu tekstu: UNESCO), okupljena u Parizu od 3. do 21. listopada 2005. na svome 33. zasjedanju,
+Uzimajući u obzir da je UNESCO-v cilj pridonositi miru i sigurnosti promicanjem suradnje između država kroz obrazovanje, znanost i kulturu,
+Pozivajući se na postojeće međunarodne instrumente koji se odnose na ljudska prava,
+Upoznata s rezolucijom 58/5 koju je Opća skupština Ujedinjenih naroda prihvatila 3. studenoga 2003., a koja se odnosi na šport kao sredstvo za promicanje obrazovanja, zdravlja, razvoja i mira, osobito njezin stavak 7.,
+Svjesna da bi šport trebao odigrati značajnu ulogu u zaštiti zdravlja, u moralnom, kulturnom i tjelesnom obrazovanju te u promicanju međunarodnoga razvoja i mira,
+Uviđajući potrebu za poticanjem i usklađivanjem međunarodne suradnje u svrhu uklanjanja dopinga iz športa,
+Zabrinuta zbog korištenja dopinga od strane športaša u športu i njegova utjecaja na zdravlje, na načelo poštene igre, na uklanjanje prijevara te na budućnost športa,
+Imajući na umu da doping dovodi u opasnost etička načela i odgojne vrijednosti što ih sadrže Međunarodna povelja UNESCO-a o tjelesnom odgoju i športu i Olimpijska povelja,
+Podsjećajući da su Međunarodna Konvencija o borbi protiv dopinga i Dopunski protokol, koji su bili prihvaćeni u okviru Vijeća Europe, javni međunarodnopravni instrumenti koji su u ishodištu nacionalnih smjernica za borbu protiv dopinga i međuvladine suradnje,
+Podsjećajući na preporuke u pogledu dopinga što su ih prihvatile druga, treća i četvrta Međunarodna konferencija ministara i visokih dužnosnika odgovornih za tjelesni odgoj i šport, koje je UNESCO organizirao u Moskvi (1988.), u Punta del Este (1999.) i u Ateni (2004.) te na Rezoluciju 9/32C koju je Opća konferencija UNESCO-a prihvatila na svome 32. zasjedanju (2003),
+Znajući za Svjetski kodeks protiv dopinga što ga je Svjetska antidoping agencija usvojila na Svjetskoj konferenciji o dopingu u športu 5. ožujka 2003. u Kopenhagenu te za Kopenhašku deklaraciju o borbi protiv dopinga u športu,
+Imajući, također, na umu utjecaj što ga vrhunski športaši ostavljaju na mlade ljude,
+Svjesna stalne potrebe za provođenjem i promicanjem istraživanja u svrhu poboljšavanja načina za otkrivanje dopinga i boljega razumijevanja čimbenika koji djeluju na korištenje, kako bi strategija njegova sprečavanja bila što učinkovitija,
+Svjesna, također, važnosti stalnoga obrazovanja športaša, športskoga osoblja i šire zajednice o sprečavanju korištenja dopinga,
+Znajući za potrebu izgradnje sposobnosti država stranaka za provođenje programa borbe protiv dopinga,
+Svjesna toga da su državna tijela i organizacije koje su nadležne za šport komplementarno odgovorne za sprečavanje i borbu protiv korištenja dopinga u športu, a osobito za osiguravanje pravilnoga vođenja, na osnovi načela poštene igre, športskih događanja i zaštitu zdravlja onih koji u njima sudjeluju,
+Uzimajući u obzir da rečena tijela i organizacije moraju zbog toga surađivati, jamčeći najviši stupanj nezavisnosti i transparentnosti na svim odgovarajućim razinama,
+Odlučna i nadalje čvršće zajednički djelovati na uklanjanju dopinga iz športa,
+Uzimajući u obzir da je uklanjanje dopinga iz športa djelomice ovisno o progresivnom usklađivanju protudopinških normi i postupaka u športu te o suradnji na nacionalnim i globalnim razinama,
+Usvaja ovu Konvenciju devetnaestoga dana listopada 2005.
+I. PODRUČJE PRIMJENE
