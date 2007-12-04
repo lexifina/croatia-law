@@ -1,0 +1,2 @@
+# Članak 11.
+Podnositelj zahtjeva kojem je ministar dao odobrenje za kliničko ispitivanje na temelju pozitivnoga mišljenja Središnjega etičkog povjerenstva, a traži suglasnost za provođenje kliničkoga ispitivanja u dodatnim pravnim osobama obvezan je pribaviti suglasnost Središnjega etičkog povjerenstva za svaku sljedeću pravnu osobu koja će biti uključena u kliničko ispitivanje kao i ishoditi odobrenje ministra.

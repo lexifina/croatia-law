@@ -1,0 +1,2 @@
+# Članak 26.
+Naručitelj/podnositelj zahtjeva za kliničko ispitivanje obvezan je jednom godišnje, do 31. prosinca tekuće godine podnijeti izvješće ministru o statusu odobrenog kliničkog ispitivanja u Republici Hrvatskoj koje je u tijeku, o broju ispitivačkih centara u Republici Hrvatskoj, ukupnom broju uključenih ispitanika po pojedinom centru, prijavljenim nuspojavama na ispitivani lijek, kao i preliminarnom sigurnosnom profilu primjene ispitivanog lijeka.

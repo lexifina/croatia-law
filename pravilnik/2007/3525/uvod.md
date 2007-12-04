@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. i članka 9. stavka 1., Zakona o lijekovima (»Narodne novine«, br. 71/07) te članka 116. i članka 118. stavka 5. Zakona o lijekovima i medicinskim proizvodima (»Narodne novine«, br. 121/03), ministar zdravstva i socijalne skrbi donosi
