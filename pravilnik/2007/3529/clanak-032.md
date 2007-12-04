@@ -1,0 +1,4 @@
+# Članak 32.
+Godišnjim rasporedom poslova određuju se: zamjenik državnog odvjetnika za poslove državnoodvjetničke uprave (prvi zamjenik), voditelji odjela i odsjeka, dužnosnici zaduženi za rad na pojedinim vrstama predmeta i njihov raspored u odjele i odsjeke, dužnosnici koji obavljaju dežurstvo u prethodnom kaznenom postupku, te raspored savjetnika i drugih zaposlenika.
+Godišnjim rasporedom poslova određuje se koji državnoodvjetnički savjetnici u kaznenim odjelima mogu zastupati optužne akte u skraćenom postupku, te koji državnoodvjetnički savjetnici u građansko-upravnim odjelima na temelju posebne punomoći državnog odvjetnika državnih odvjetništava mogu obaviti zastupanja pred sudovima, upravnim i drugim tijelima.
+Odjeli, odsjeci i dužnosnici izvan odjela i odsjeka označuju se rimskim brojevima. Dužnosnici u državnim odvjetništvima mogu se označiti i prezimenom dužnosnika.

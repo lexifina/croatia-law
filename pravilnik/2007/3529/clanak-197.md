@@ -1,0 +1,3 @@
+# Članak 197.
+U Kazneni upisnik zahtjeva za zaštitu zakonitosti (»KZZ-DO«) u Državnom odvjetništvu Republike Hrvatske upisuju se svi prijedlozi za podizanje zahtjeva za zaštitu zakonitosti ili podaci u kaznenim predmetima u kojima po službenoj dužnosti Državno odvjetništvo Republike Hrvatske podiže zahtjev za zaštitu zakonitosti, podaci o osobi koja je podnijela prijedlog za podizanje zahtjeva za zaštitu zakonitosti, podaci o predmetu i sadržaju predmeta, kao i podaci o predspisu, ako je bio razmatran u Državnom odvjetništvu Republike Hrvatske, prema obrascu broj 17 Naputka.
+b) Građanski i upravni upisnici

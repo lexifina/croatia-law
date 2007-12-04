@@ -1,0 +1,5 @@
+# Članak 188.
+Kazneni upisnici za razne kaznene predmete »KR-DO««KR-I-DO«, »KR-II-DO« osnivaju se za razne pritužbe, molbe, upozorenja, izvan kaznenog postupka.
+U Kazneni upisnik za razne kaznene predmete (»KR-DO«) općinskih i županijskih državnih odvjetništava (Obrazac broj 4) i (»KR-I-DO«) Državnog odvjetništva Republike Hrvatske (Obrazac broj 6) upisuju se svi podaci o podnositelju pritužbe i predmetu koji bi bio predmetom raspravljanja i odluke državnog odvjetništva, odnosno njegove izvanpostupovne aktivnosti, kao i drugi podaci prema obrascu i ostali podnesci upućeni Državnom odvjetništvu Republike Hrvatske na pojedine predmete nižih državnih odvjetništava u kojima su odlučivali.
+U Kazneni upisnik (»KR-DO«) Državnog odvjetništva Republike Hrvatske upisuju se razni zahtjevi koji se odnose na izvanredno ublažavanje kazne, preispitivanje sudskih odluka i sukobi nadležnosti, prema obrascu broj 5. Naputka.
+U Kazneni upisnik za razne kaznene predmete (»KR-II-DO«) upisuju se zahtjevi za ustup ili preuzimanje kaznenog progona, zamolnice, izručenja i međunarodnu pravnu pomoć, prema obrascu broj 7 Naputka.

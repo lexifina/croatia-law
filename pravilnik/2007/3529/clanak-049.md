@@ -1,0 +1,4 @@
+# Članak 49.
+Na vratima prostorija u kojima rade dužnosnici stavit će se natpis s oznakom dužnosnika prema vrsti poslova koji se u toj prostoriji pretežno obavljaju, te imenom i prezimenom dužnosnika (npr. zamjenik/ca državnog odvjetnika Petar/Petra Petrović, ili samo zamjenik/ca Petar/Petra Petrović i sl.).
+Ured državnog odvjetnika označit će se posebnim natpisom. Na ostale prostorije stavlja se naziv pisarnice i dr. (npr. prijepis i sl.), prema poslovima koji se u njima pretežito obavljaju. Na ulazna vrata jedne prostorije stavlja se, u pravilu, jedan natpis, a više natpisa samo ako je to potrebno radi boljeg snalaženja stranaka. Uz oznaku naziva stavlja se ime i prezime upravitelja pisarnice ili voditelja službe (npr. pisarnica - upravitelj/upraviteljica Ivan/Ivana Ivanković).
+Imena ostalih zaposlenika ne stavljaju se u natpis.

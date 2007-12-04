@@ -1,0 +1,2 @@
+# Članak 208.
+U Upisnik za podizanje zahtjeva za zaštitu zakonitosti (»G-DO«) Državno odvjetništvo Republike Hrvatske upisuje se prijedloge za podizanje zahtjeva za zaštitu zakonitosti protiv odluka sudova u građanskim stvarima po molbi stranaka ili po službenoj dužnosti. U upisniku se upisuju podaci o imenima stranaka, vrsti spora, njihovoj vrijednosti, ako se tim podacima raspolaže, prema obrascu broj 11 ovoga Pravilnika.

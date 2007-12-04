@@ -1,0 +1,3 @@
+# Članak 137.
+Godišnje izvješće koje Državno odvjetništvo Republike Hrvatske za prethodnu godinu podnosi Hrvatskom saboru i Vladi Republike Hrvatske izrađuje Ured Glavnog državnog odvjetnika Republike Hrvatske na osnovu godišnjih statističkih podataka županijskih državnih odvjetništava, Ureda za suzbijanje korupcije i organiziranog kriminaliteta i Državnog odvjetništva Republike Hrvatske, te tematskih izvješća o radu na pojedinim područjima koje izrađuju pojedini odjeli državnog odvjetništva Republike Hrvatske.
+Godišnje izvješće sadrži podatke o radu državnih odvjetništava na području kaznenog, građanskog i upravnog prava, pravnu problematiku pojedinih područja, pregled organizacije i stanja kadra te prijedloge za unapređenje rada.

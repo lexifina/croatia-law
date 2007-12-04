@@ -1,0 +1,3 @@
+# Članak 242.
+Nabavu kapitalnih sredstava (namještaj, računala, pisaći strojevi i druga oprema, sistemski softveri, telefonske centrale s pripadajućim instalacijama i aparatima, osobni automobili, financijska imovina, priprema, planiranje i upravljanje projektom, izgradnja sudskih zgrada i investicijsko održavanje službenih zgrada, odnosno radnog prostora i sl.) obavlja Ministarstvo pravosuđa na temelju godišnjih planova i visine osiguranih sredstava u državnom proračunu.
+Sredstvima osiguranim državnim odvjetništvima u državnom proračunu za svaku kalendarsku godinu za tekuće poslovanje raspolažu državni odvjetnici sukladno propisima.

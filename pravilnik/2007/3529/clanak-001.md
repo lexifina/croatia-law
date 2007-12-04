@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Pravilnikom o unutarnjem poslovanju u državnim odvjetništvima (u daljnjem tekstu: Pravilnik) propisuju se pravila o uredskom poslovanju, vođenju upisnika i pomoćnih knjiga, vođenju evidencija, obrascima za rad, priopćenjima za javnost, zaštiti tajnosti podataka, provedbenim pravilima o vođenju postupka i dostavljanju odluka na jeziku i pismu etničke i nacionalne zajednice ili manjine, nadzoru materijalnog i financijskog poslovanja i redovitog obavljanja poslova u državnim odvjetništvima, radu odjela i odsjeka, rasporedu radnog vremena u tijeku radnog dana ili tjedna, vođenju statistike, standardima poslovnog prostora i opreme, te drugim pitanjima od značenja za unutarnje poslovanje državnih odvjetništava.
+Ovim se Pravilnikom propisuje način obavljanja zajedničkih poslova za više državnih odvjetništava i drugih tijela, ako imaju sjedište u istoj zgradi.

@@ -1,0 +1,3 @@
+# Članak 140.
+Radi uspješnog vođenja nadzora nad radom nižih državnih odvjetnika, evidentiranja rezultata pregleda nižih državnih odvjetništava, primjedaba na rad pojedinih dužnosnika i evidencije o posebno složenim poslovima koje su obavila pojedina niža državna odvjetništva, više državno odvjetništvo osniva za svako niže državno odvjetništvo poseban spis (fascikl) u kojem se vode podaci u skladu s uputom koju donosi Glavni državni odvjetnik Republike Hrvatske na osnovu članka 65. stavak 2. Zakona o državnom odvjetništvu.
+Uz podatke navedene u stavku 1. ovog članka u poseban spis državnog odvjetništva ulaze i mjesečna izvješća o radu tog odvjetništva (članak 137. Pravilnika).

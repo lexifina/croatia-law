@@ -1,0 +1,4 @@
+# Članak 14.
+Državni odvjetnik može dužnosniku, savjetniku i drugom zaposleniku povjeriti obradu pojedinih pitanja iz primjene propisa, pravomoćno dovršenih postupaka ili nacrta propisa koje donosi zakonodavna ili izvršna vlast, radi razmatranja na sjednici kolegija, a po potrebi i na sastanku svih zaposlenika državnog odvjetništva.
+Državnom odvjetniku ili zamjeniku državnog odvjetnika koji je privremeno upućen na rad u državno odvjetništvo višeg stupnja državni odvjetnik će povjeriti poslove u izradi nacrta odluka iz nadležnosti toga državnog odvjetništva ili druge odgovarajuće poslove koje je u postupku pred sudom i radu na predmetima ovlašten obavljati viši državnoodvjetnički savjetnik, kao i druge odgovarajuće poslove.
+Državni odvjetnik ili zamjenik državnog odvjetnika koji je privremeno upućen na rad u državno odvjetništvo višeg stupnja ima prava i obveze iz članka 79. Zakona koja mu pripadaju na mjestu s kojeg je upućen na rad u više državno odvjetništvo.

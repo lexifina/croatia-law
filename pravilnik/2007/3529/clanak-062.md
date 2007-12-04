@@ -1,0 +1,8 @@
+# Članak 62.
+U skladu s odredbama Zakona o tajnosti podataka stupnjem tajnosti »VRLO TAJNO« klasificiraju se podaci;
+a. Hrvatskog sabora, Vlade Republike Hrvatske, državnih tijela, tijela regionalne i lokalne uprave i samouprave, te drugih pravnih osoba koji su na osnovu Zakona o tajnosti podataka od strane ovlaštenih osoba označeni takvima.
+b. Podaci Državnog odvjetništva Republike Hrvatske koji se odnose na temeljna pitanja Ustavom utvrđenog ustrojstva Republike Hrvatske, neovisnost, cjelovitost i sigurnost Republike Hrvatske, međunarodne odnose Republike Hrvatske, obrambenu sposobnost i sigurnosno-obavještajni sustav, sigurnost građana, osnove gospodarskog i financijskog sustava Republike Hrvatske, čije bi neovlašteno otkrivanje nanijelo nepopravljivu štetu nacionalnoj sigurnosti i vitalnim interesima Republike Hrvatske.
+Stupnjem tajnosti »TAJNO« klasificiraju se podaci Državnog odvjetništva Republike Hrvatske iz stavka 1. ovog članka čije bi neovlašteno otkrivanje teško naštetilo nacionalnoj sigurnosti i vitalnim interesima Republike Hrvatske.
+Stupnjem tajnosti »POVJERLJIVO« klasificiraju se podaci;
+a. Koji su kao takovi označeni od strane ovlaštenih osoba navedenih u stavku 1. točka a. ovog članka,
+b. Podaci državnih odvjetništava koji su nastali tijekom provođenja izvida ili drugog rada državnog odvjetništva, a koji se odnose na neovisnost, cjelovitost i sigurnost Republike Hrvatske, međunarodne odnose Republike Hrvatske, obrambenu sposobnost i sigurnosno-obavještajni sustav, sigurnost građana, osnove gospodarskog i financijskog sustava Republike Hrvatske, a čije bi neovlašteno otkrivanje naštetilo tim vrijednostima.

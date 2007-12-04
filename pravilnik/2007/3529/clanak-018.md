@@ -1,0 +1,4 @@
+## 6. ODNOS PREMA VIŠIM TIJELIMA DRŽAVNOODVJETNIČKE UPRAVE
+# Članak 18.
+U poslovima državnoodvjetničke i pravosudne uprave općinska se državna odvjetništva izravno obraćaju županijskom državnom odvjetništvu, a ovo Državnom odvjetništvu Republike Hrvatske. O poslovima pravosudne uprave Državno odvjetništvo Republike Hrvatske može tražiti mišljenje Ministarstva pravosuđa.
+Glavnom državnom odvjetniku u poslovima državnoodvjetničke uprave osim zamjenika koji ga zamjenjuje u slučaju njegove spriječenosti, pomažu pod uvjetima iz članka 4. stavak 2. Zakona zamjenici - voditelji odjela i tajnik državnog odvjetništva, a u drugim državnim odvjetništvima državnom odvjetniku pod uvjetima iz članka 4. stavak 2. ovog Zakona pomažu zamjenici - voditelji odjela, tajnik državnog odvjetništva ili službenik kojeg odredi državni odvjetnik.

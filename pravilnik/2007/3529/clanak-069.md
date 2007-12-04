@@ -1,0 +1,2 @@
+# Članak 69.
+Klasificirani podaci označeni stupnjevima tajnosti »VRLO TAJNO«, »TAJNO« i »POVJERLJIVO« mogu biti dostupni dužnosnicima i zaposlenicima pod uvjetima i na način propisan u Zakonu o tajnosti podataka, a klasificirani podaci s oznakom tajnosti »OGRANIČENO« mogu biti dostupni samo onim dužnosnicima i zaposlenicima koji u svom radu na njemu ostvaruju uvid radi upravljanja, obrade i drugih oblika rada i rukovanja, i to sve u mjeri u kojoj obavljanje službenih poslova i zadaća to zahtijeva.

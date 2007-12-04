@@ -1,0 +1,2 @@
+# Članak 191.
+U Upisnik za građanske stvari (»G-DO«) - za županijska i općinska državna odvjetništva upisuju se molbe i prijedlozi stranaka za revizije i zahtjeve za zaštitu zakonitosti u raznim građanskim stvarima, kao i izvanredni pravni lijekovi koje državna odvjetništva podnose po službenoj dužnosti, s oznakama imena stranaka koje su podnositelji i njihovih protustranaka u istom predmetu, prema obrascu broj 10 Naputka.

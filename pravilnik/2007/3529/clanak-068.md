@@ -1,0 +1,4 @@
+# Članak 68.
+Svi dužnosnici i zaposlenici u državnom odvjetništvu dužni su čuvati tajnost podataka neovisno o načinu saznanja tajnih podataka ili pribavljanja odnosno stjecanja mogućnosti uvida u tajne podatke.
+Svatko tko takav podatak koristi, ili mu postane dostupan dužan je poduzeti mjere i postupak zaštite takvih podataka u skladu s Zakonom o tajnosti podataka (NN-79/07) i Uredbom o načinu označavanja klasificiranih podataka i sadržaju Uvjerenja o obavljenoj sigurnosnoj provjeri i Izjave o postupanju s klasificiranim podacima (NN-102/07).
+Državni odvjetnik ili zamjenik dužni su čuvati tajnost klasificiranog podatka za vrijeme i nakon prestanka obavljanja dužnosti ili službe, sve dok je podatak utvrđen jednim od stupnjeva tajnosti ili dok se odlukom vlasnika podatka ne oslobode obveze čuvanja tajnosti.

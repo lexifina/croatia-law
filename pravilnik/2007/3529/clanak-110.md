@@ -1,0 +1,2 @@
+# Članak 110.
+Ako se nakon prijema ili prilikom otvaranja pošiljke primljene u zatvorenom omotu, zbog nedostatne adrese pošiljatelja ili iz drugih razloga osnovano posumnja da se njezinim otvaranjem može dovesti u opasnost život ljudi i imovina omot se neće otvarati, već će se o tome izvijestiti djelatnici nadležnog državnog tijela. Zaposlenik koji otvara pošiljku dalje će postupati prema napucima djelatnika tog državnog tijela.
