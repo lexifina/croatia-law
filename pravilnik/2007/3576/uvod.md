@@ -1,0 +1,1 @@
+Na temelju odredbi članka 63. stavak 8. Zakona o tržištu vrijednosnih papira (»Narodne novine« br. 84/02 i 138/06), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj 22. studenoga 2007. godine donijela
