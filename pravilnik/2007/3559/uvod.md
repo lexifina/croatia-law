@@ -1,0 +1,1 @@
+Na temelju članka 123. Zakona o hrani (»Narodne novine« br. 46/07) i članaka 8. i 13. Pravilnika o priznavanju i zaštiti oznaka jakih alkoholnih i aromatiziranih pića (»Narodne novine« br. 20/07) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
