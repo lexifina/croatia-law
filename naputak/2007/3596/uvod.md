@@ -1,0 +1,1 @@
+Na temelju odredaba članka 37. stavka 5. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine«, broj 76/07) i članka 17. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/93, 92/96, 48/99, 15/00, 127/00, 59/01, 199/03 i 79/07) ministar financija, uz suglasnost ministra nadležnog za rad i ministra nadležnog za zdravstvo, donosi

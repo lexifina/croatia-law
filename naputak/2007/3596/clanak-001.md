@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Naputkom potanje opisuje način postupanja u radnjama usklađivanja duga i kriterijima za utvrđivanje broja mjesečnih rata za otplatu duga s osnova doprinosa za obvezna osiguranja nastalog po osnovi osiguranja pomoraca, postupak utvrđivanja prava na obročnu otplatu duga te tijela koja su dužna postupiti, rokovi u kojima se imaju izvršiti pojedine radnje i ostala pitanja vezana uz provedbu odredaba članka 37. Zakona o izmjenama i dopunama Pomorskog zakonika (dalje u tekstu Zakon).

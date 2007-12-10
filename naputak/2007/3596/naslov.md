@@ -1,0 +1,1 @@
+Naputak o načinu postupanja u radnjama usklađivanja duga i kriterijima za utvrđivanje broja mjesečnih rata za otplatu duga s osnova doprinosa za obvezna osiguranja nastalog po osnovi osiguranja pomora
