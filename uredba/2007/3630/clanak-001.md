@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o Uredu za udruge (»Narodne novine«, broj 121/2006), članak 3. mijenja se i glasi:
+»Ured koordinira rad tijela državne uprave na području razvoja suradnje i savjetovanja s udrugama i ostalim organizacijama civilnoga društva u donošenju, provedbi i vrednovanju javnih politika, sustavno prati i unaprjeđuje standarde za financiranje projekata i programa udruga iz državnog proračuna i drugih javnih izvora, izrađuje učinkovit sustav praćenja i evaluacije financiranih projekata i programa udruga, te provodi projekte i programe Europske unije za potporu razvoju civilnoga društva.«.
