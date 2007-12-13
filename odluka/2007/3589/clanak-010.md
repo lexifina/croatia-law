@@ -1,0 +1,2 @@
+# Članak 10.
+Zavod s državnim zavodima, te drugim zdravstvenim ustanovama koje u svrhu unapređenja zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu provode posebne zadaće u djelatnosti zdravstvene zaštite, sklapa ugovore za provođenje programa koje je posebnom odlukom usvojilo Upravno vijeće Zavoda. Programom se utvrđuju poslovi i zadaće od interesa za zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu s rokovima izvršenja, naznakom potrebnih radnika i novčanom naknadom.

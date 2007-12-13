@@ -1,0 +1,2 @@
+# Članak 9.
+Ugovorna zdravstvena ustanova, ugovorno trgovačko društvo i ugovorni privatni zdravstveni radnik obvezni su pružati zdravstvene zaštitu uključujući i lijekove koji se propisuju na recept osobama iz država s kojima Republika Hrvatska ima sklopljen ugovor o socijalnom osiguranju, a koji privremeno borave u Republici Hrvatskoj, pod uvjetima, na način i u opsegu kako je to utvrđeno tim ugovorima, te strancima koji su u Zavodu osigurani prema odredbama Zakona o zdravstvenoj zaštiti stranaca u Republici Hrvatskoj.

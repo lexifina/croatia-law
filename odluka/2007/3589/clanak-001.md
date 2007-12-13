@@ -1,0 +1,4 @@
+## OPĆE ODREDBE
+# Članak 1.
+Ovom Odlukom utvrđuje se način provođenja zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu, te cijene zdravstvene zaštite u ukupnom iznosu za punu vrijednost prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu.
+Ovom Odlukom utvrđuju se uvjeti i način pod kojima Hrvatski zavod za zdravstveno osiguranje zaštite zdravlja na radu (u daljnjem tekstu: Zavod) sklapa ugovore za provođenje zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu sa zdravstvenim ustanovama, trgovačkim društvima koja u svom sastavu imaju djelatnost medicine rada te specijalistima medicine rada u privatnoj praksi u skladu s Zakonom o zdravstvenom osiguranju zaštite zdravlja na radu (u daljnjem tekstu: Zakon), Zakonom o zdravstvenoj zaštiti, drugim propisima i općim aktima Zavoda (u daljnjem tekstu: ugovorni subjekti Zavoda).

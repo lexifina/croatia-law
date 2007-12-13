@@ -1,0 +1,2 @@
+# Članak 32.
+Specijalističko-konzilijarnu specifičnu zdravstvenu zaštitu, kao i specifičnu zdravstvenu zaštitu prema posebnim programima utvrđenim odlukom Upravnog vijeća Zavoda provode državni zdravstveni zavodi i županijski zavodi za javno zdravstvo, odnosno Zavod za javno zdravstvo Grada Zagreba, s kojima je Zavod sklopio ugovor o provođenju specifične zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu u skladu sa Zakonom i ovom Odlukom.
