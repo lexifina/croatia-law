@@ -1,0 +1,5 @@
+# Članak 6.
+Nadležna tijela u skladu s odredbama posebnog propisa kojim su uređeni GMO-i prikupljaju podatke u vezi s podacima iz članka 4. ovoga Pravilnika
+Podaci iz članka 4. ovoga Pravilnika dostavljaju se Europskoj komisiji koristeći za tu svrhu obrazac za dostavu podataka koji je propisala Europska komisija, bilo u trenutku kad dostavljaju izvješće o procjeni ili najkasnije 15 dana poslije toga, kako bi se Europskoj komisiji omogućilo da te podatke uvrsti u upisnik.
+Obrazac iz stavka 2. ovoga članka može ispuniti podnositelj, a nadležna tijela provjeravaju njegov sadržaj.
+U svrhu izbjegavanja udvostručavanja podataka, mogu se koristiti veze s drugim upisnicima ili baze podataka, npr. obavijesni obrazac sažetka podataka (SNIF), mišljenje Europske agencije za sigurnost hrane, izvješće o procjeni nadležnog tijela, podaci Mehanizma za razmjenu podataka o biološkoj sigurnosti (BCH) osnovanog u skladu s Kartagenskim protokolom o biološkoj sigurnosti, odnosno podaci odgovarajućeg nacionalnog tijela i podaci Molekularnog registra Zajedničkog istraživačkog centra te podaci ostalih mjerodavnih međunarodnih i nacionalnih organizacija.

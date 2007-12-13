@@ -1,0 +1,1 @@
+Na temelju članka 62. stavka 7. Zakona o genetski modificiranim organizmima (»Narodne novine« broj 70/05) ministar zdravstva i socijalne skrbi uz suglasnost ministra kulture, ministra poljoprivrede, šumarstva i vodnog gospodarstva i ministra znanosti obrazovanja i športa donosi
