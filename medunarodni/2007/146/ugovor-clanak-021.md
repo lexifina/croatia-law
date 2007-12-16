@@ -1,0 +1,3 @@
+# Članak 21.
+NAKNADA ŠTETE RADI KRŠENJA ZAŠTITE PODATAKA
+Ako je pojedinac zbog razmjene podataka prema ovom Sporazumu protupravno oštećen, za naknadu štete je odgovorno tijelo nadležno za nadzor državne granice koje je primilo podatke, u skladu sa svojim unutarnjim zakonodavstvom. U odnosu na oštećenog odgovornost se ne može prenijeti na tijelo nadležno za nadzor državne granice koje je poslalo podatke. Ako tijelo nadležno za nadzor državne granice koje je primilo podatke naknadi štetu koja je nastala nepravilnim slanjem podataka, tijelo nadležno za nadzor državne granice koje je poslalo podatke vratit će sredstva u visini isplaćene naknade za štetu.
