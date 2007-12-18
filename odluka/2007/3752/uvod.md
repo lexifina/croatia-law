@@ -1,0 +1,1 @@
+Na temelju članka 40.a Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2007. godinu (»Narodne novine«, br. 137/2006 i 78/2007) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 2007. godine donijela
