@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum između Europske zajednice za atomsku energiju (Euroatom) i država nečlanica Europske unije o sudjelovanju potonjih u sustavu Zajednice za ranu razmjenu informacija u slučaju radiološke opasnosti (ECURIE), sastavljen u Bruxellesu, 29. siječnja 2003. u izvorniku na španjolskom, njemačkom, danskom, finskom, francuskom, grčkom, engleskom, talijanskom, nizozemskom, portugalskom i švedskom jeziku.
