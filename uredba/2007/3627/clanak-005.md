@@ -1,0 +1,5 @@
+# Članak 5.
+Članak 8. mijenja se i glasi:
+»1.2. Odjel kontrolno-instruktivnog nadzora i unapređenja rada
+Članak 8.
+Odjel kontrolno-instruktivnog nadzora i unapređenja rada provodi u suradnji s drugim službama Inspektorata kontrolno-instruktivni nadzor nad radom inspektora koji se odnosi na pravilnost vođenja inspekcijskog, upravnog te postupka koji prethodi sudbenim postupcima, a s ciljem utvrđivanja kvantitete i kvalitete obavljenih inspekcijskih zadaća te ujednačavanja i unapređivanja rada. Poduzima mjere zbog povreda službene dužnosti u obavljanju inspekcijskih poslova, poglavito u svezi s neizvršavanjem i nesavjesnim izvršavanjem službeničkih obveza, nezakonitosti rada i propuštanja izvršenja i poduzimanja mjera i radnji na koje je inspektor ovlašten te odbijanja izvršenja zadataka. Radi unapređivanja rada i ujednačavanja postupanja inspektora, surađuje s drugim ustrojstvenim jedinicama Inspektorata. Obavlja i druge poslove koji su mu stavljeni u nadležnost, odnosno poslove koje odredi glavni inspektor.«.

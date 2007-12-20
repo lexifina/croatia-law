@@ -1,0 +1,14 @@
+# Članak 6.
+Iza članka 8. dodaju se članci 8a., 8b. i 8c. koji glase:
+»2. SLUŽBA UPRAVLJANJA LJUDSKIM RESURSIMA
+Članak 8a.
+Služba upravljanja ljudskim resursima je unutarnja ustrojstvena jedinica u sastavu Inspektorata, koja obavlja upravne i druge stručne poslove koji se odnose na organiziranje i provođenje stručnog osposobljavanja i usavršavanja inspektora i drugih državnih službenika, u svrhu općeg povećavanja razine znanja, vještina, sposobnosti i kvalifikacija državnih službenika (inspektora), brine o upravljanju kadrovima u njihovom razvoju, daje mišljenja o pitanjima koja se odnose na državnu službu, priprema prijedloge planova prijama u državnu službu usklađujući raspored državnih službenika s planovima središnjeg tijela državne uprave nadležnog za službeničke odnose, vodi osobne očevidnike službenika i namještenika redovito dostavljajući nove podatke u središnji popis državnih službenika, obavlja prijave i odjave nadležnim tijelima, te obavlja i druge poslove koje odredi glavni inspektor.
+Za obavljanje poslova Službe upravljanja ljudskim resursima ustrojavaju se odjeli:
+2.1. Odjel izobrazbe,
+2.2. Odjel kadrovskih poslova.
+Članak 8b.
+2.1. Odjel izobrazbe
+Odjel izobrazbe planira izobrazbu inspektora i drugih državnih službenika i namještenika u Inspektoratu, unapređuje sustav izobrazbe i sudjeluje u izradi novih modula izobrazbe, u svrhu povećanja razine znanja, vještina i sposobnosti i kvalifikacije državnih službenika, što bi pridonijelo održavanju postojećih sposobnosti i vještina te stjecanju i razvoju novih znanja, vještina i sposobnosti sukladno osobnoj motivaciji, interesima i potrebama Inspektorata, izrađuje godišnje i srednjoročne smjernice i planove izobrazbe, osigurava jedinstveno upravljanje službenicima i namještenicima od uvođenja u evidenciju izobrazbe, planira, usmjerava i nadzire provođenje svih potrebnih aktivnosti (vrste izobrazbe, program izobrazbe, način provedbe izobrazbe) u cilju procjene ukupnih potreba izobrazbe inspektora i drugih službenika i namještenika, te obavlja i druge poslove koje odredi glavni inspektor.
+Članak 8c.
+2.2. Odjel kadrovskih poslova
+Odjel kadrovskih poslova brine o upravljanju kadrovima i njihovom razvoju, daje mišljenja o pitanjima koja se odnose na državnu službu, priprema prijedloge planova prijama u državnu službu usklađujući raspored državnih službenika s planovima središnjeg tijela državne uprave nadležnog za službeničke odnose, sudjeluje u izradi strategija, programa i planova izobrazbe, vodi osobne očevidnike službenika i namještenika redovito dostavljajući nove podatke u središnji popis državnih službenika, provodi postupak prijama u državnu službu u suradnji sa središnjim tijelom državne uprave nadležnim za službeničke odnose, obavlja prijave i odjave nadležnim tijelima mirovinskog i zdravstvenog osiguranja. Obavlja i druge poslove koji su mu stavljeni u nadležnost, odnosno poslove koje odredi glavni inspektor.«.
