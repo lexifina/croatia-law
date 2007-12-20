@@ -1,0 +1,6 @@
+# Članak 27.
+Stupanj izloženosti vanjskom ozračenju radnika iz članka 26. ovoga Pravilnika mjeri se obvezno filmdozimetrima ili termoluminiscentnim dozimetrima (TLD), a po potrebi i drugim dodatnim osobnim dozimetrima uz izravno ili odgođeno očitanje primljene doze.
+Obvezno mjerenje osobnih doza provode ovlašteni stručni tehnički servisi.
+Ako izloženi radnik kod istog nositelja odobrenja radi na više radnih mjesta s različitim izvorima ionizirajućeg zračenja na svim radnim mjestima obvezan je nositi isti osobni dozimetar.
+Ako izloženi radnik radi u području izloženosti dva ili više nositelja odobrenja, svaki od njih mora mu osigurati posebni osobni dozimetar za rad s izvorom ionizirajućeg zračenja. Državni zavod za zaštitu od zračenja u svojoj evidenciji osigurava zbrajanje primljenih doza za tog djelatnika za određeno vremensko razdoblje.
+Osoba odgovorna za zaštitu od ionizirajućeg zračenja koju je sukladno Zakonu o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja imenovao nositelj odobrenja mora najkasnije petnaest dana poslije isteka prethodnog mjernog razdoblja dostaviti osobne dozimetre radniku ovlaštenom stručnom tehničkom servisu koji provodi osobnu dozimetriju.

@@ -1,0 +1,4 @@
+# Članak 31.
+Državni zavod za zaštitu od zračenja najmanje jednom godišnje organizira poredbena ispitivanja među ovlaštenim stručnim tehničkim servisima koji provode mjerenje osobnog ozračenja u cilju osiguranja potrebne točnosti rezultata mjerenja i provjere neprekidnog udovoljavanja zahtjevima za mjerenje osobnog ozračenja propisanih ovim Pravilnikom.
+Ovlašteni stručni tehnički servis koji provodi mjerenje osobnog ozračenja mora surađivati s Državnim zavodom za zaštitu od zračenja i sudjelovati u provedbi programa poredbenih ispitivanja koje organizira Državni zavod za zaštitu od zračenja.
+Ako ovlašteni stručni tehnički servis koji provodi mjerenje osobnog ozračenja ne surađuje s Državnim zavodom za zaštitu od zračenja i odbije sudjelovati u provedbi poredbenih ispitivanja, Državni zavod za zaštitu od zračenja uskratiti ću mu ovlaštenje za provedbu mjerenja osobnog ozračenja.

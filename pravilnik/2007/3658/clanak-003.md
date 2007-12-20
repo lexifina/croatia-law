@@ -1,0 +1,3 @@
+# Članak 3.
+Za pregled izvora ionizirajućeg zračenja i dobivanje vjerodostojnih podataka o njihovoj ispravnosti moraju se koristiti odgovarajuća mjerila, osim ako se ti podaci mogu dobiti očevidom i samom provjerom rada uređaja ili postrojenja s izvorom ionizirajućeg zračenja.
+Mjerila iz stavka 1. ovoga članka, kao i ostala mjerila propisana posebnim propisima koji reguliraju zaštitu od ionizirajućeg zračenja i sigurnost izvora ionizirajućeg zračenja, a koriste se pri obavljanju djelatnosti s izvorima ionizirajućeg zračenja moraju imati važeće ovjernice sukladno propisima koji uređuju područje mjeriteljstva.

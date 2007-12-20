@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se način, opseg i rokovi mjerenja osobnog ozračenja izloženih radnika i osoba izloženih medicinskom ozračenju, pregled izvora ionizirajućeg zračenja i uvjeta rada te mjerenja propisanih elemenata i provjere kvalitete, provjera ispravnosti mjernih instrumenata, mjere osiguranja kvalitete provjere radioaktivnog onečišćenja osoba, predmeta, okoliša, prostorija i zraka u prostorijama u kojima se obavlja djelatnosti ili su smješteni radioaktivni izvori te sadržaj izvješća o nadzoru i mjerenjima, postupak izvješćivanja te obveza vođenja evidencija, sadržaj, način vođenja i rokovi čuvanja.

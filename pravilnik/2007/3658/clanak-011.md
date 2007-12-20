@@ -1,0 +1,10 @@
+# Članak 11.
+Pregled zatvorenih radioaktivnih izvora za terapiju u medicini sastoji se od:
+- provjere neposrednim očevidom da li je zatvoreni radioaktivni izvor i uređaj sa zatvorenim radioaktivnim izvorom smješten tako da se može koristiti na siguran način,
+- provjere podataka o zatvorenom radioaktivnom izvoru i uređaju u koji je ugrađen,
+- provjere neposrednim očevidom da li je mjesto uporabe zatvorenog radioaktivnog izvora opskrbljeno potrebnim zaštitnim sredstvima i opremom propisane kakvoće sukladno namjeni i mjestu uporabe,
+- provjere funkcionalne ispravnosti uređaja za uključivanje i isključivanje uređaja sa zatvorenim radioaktivnim izvorom, pouzdanosti signalnih uređaja i uređaja za upravljanje te da li se ostvaruju gibanja dijelova uređaja sa zatvorenim radioaktivnim izvorom sukladno proizvođačkim specifikacijama,
+- mjerenja doza zračenja u okolišu zatvorenog radioaktivnog izvora, na radnim mjestima radnika te u susjednim prostorijama ovisno o mjestu, uvjetima i načinu uporabe zatvorenog izvora,
+- ispitivanja određenih bitnih značajki zatvorenog radioaktivnog izvora i uređaja u koji je ugrađen u cilju provjere da li je osigurano udovoljavanje temeljnim zahtjevima kakvoće propisanih za određenu vrstu i namjenu zatvorenog radioaktivnog izvora.
+U slučaju prvog pregleda zatvorenih radioaktivnih izvora za terapiju u medicini potrebno je provjeriti posjeduje li krajnji korisnik uputu za rukovanje i održavanje uređaja u koji je ugrađen zatvoreni radioaktivni izvor na hrvatskome jeziku i jamstveni list.
+2.4. Zatvoreni radioaktivni izvori u gospodarstvu, istraživanjima i javnoj uporabi
