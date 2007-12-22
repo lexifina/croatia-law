@@ -1,0 +1,3 @@
+# Članak 5.
+1) Društvo za upravljanje koje upravlja s više fondova može uložiti najviše 20% ukupne neto vrijednosti imovine fondova u sva izdanja jednog te istog izdavatelja vodeći računa o odredbi članka 47. stavka 1. točka 15. Zakona.
+2) Udjeli ili dionice investicijskih fondova s javnom ponudom koji su osnovani na temelju odobrenja nadzornog tijela Republike Hrvatske, države članice Europske Unije ili države izvan Europske Unije, a kojima upravlja isto društvo za upravljanje, smatraju se izdanjem jednog te istog izdavatelja u koje može uložiti najviše 20% ukupne neto vrijednosti imovine fonda.

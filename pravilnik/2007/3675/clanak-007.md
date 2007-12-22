@@ -1,0 +1,6 @@
+# Članak 7.
+1) Ulaganje u terminske i opcijske ugovore i druge oblike financijske imovine dozvoljeno je ako je prospektom i statutom fonda predviđeno zaključivanje takvih transakcija sa svrhom zaštite, postizanja investicijskih ciljeva ili sa svrhom povećanja prinosa, smanjivanjem troškova fonda.
+2) Ulaganjem imovine fonda u terminske ugovore i druge financijske izvedenice fond se ne smije izložiti riziku niti ulaganjima koja su u suprotnosti s prospektom i statutom fonda i propisanim ograničenjima ulaganja.
+3) Društvo za upravljanje može u ime fonda sklapati terminske i opcijske ugovore na tržištima na kojima je moguće pouzdano utvrditi njihovu vrijednost na svakodnevnoj osnovi te se na poticaj fonda isti mogu prodati, likvidirati ili zaključiti prijebojnom transakcijom po fer vrijednosti.
+4) Prije početka korištenja financijskih izvedenica, društvo za upravljanje mora izraditi interne procedure za sklapanje terminskih ugovora i financijskih izvedenica svih vrsta izvedenica te propisati načine mjerenja i upravljanja rizicima investicijskog fonda.
+5) Društvo za upravljanje dužno je na zahtjev Agencije za svaki pojedini fond izvještavati o tipovima terminskih ugovora i financijskih izvedenica u portfelju fonda, pozicijama imovine pod zaštitom, povezanim rizicima, kvantitativnim limitima i implementiranoj metodologiji mjerenja rizika.
