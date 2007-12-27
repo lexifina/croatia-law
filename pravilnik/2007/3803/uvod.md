@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 3. Zakona o državnoj potpori u poljoprivredi, ribarstvu i šumarstvu (»Narodne novine« br. 87/02, 117/03 i 82/04., 85/06. i 141/06.) ministar poljoprivrede, šumarstva i vodnoga gospodstva donosi
