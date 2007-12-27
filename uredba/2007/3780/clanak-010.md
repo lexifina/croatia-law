@@ -1,0 +1,3 @@
+# Članak 10.
+Ugovor o osnivanju prava služnosti iz članka 6. ove Uredbe, osim u slučajevima predviđenima u ugovoru, raskida se u slučaju oduzimanja eksploatacijskog polja ili rudarske koncesije te zbog povrede prisilnih odredbi Zakona o šumama.
+U slučaju raskida ugovora iz članka 6. ove Uredbe, Središnji državni ured za upravljanje državnom imovinom bez odlaganja će o tome obavijestiti Hrvatske šume d.o.o. te nadležno Ministarstvo gospodarstva, rada i poduzetništva, a ovlaštenik prava služnosti je dužan zemljište koje je predmet ugovora predati u posjed Hrvatskim šumama d.o.o., u roku od 30 dana od dana raskida ugovora.
