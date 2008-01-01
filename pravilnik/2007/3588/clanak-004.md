@@ -1,0 +1,2 @@
+# Članak 4.
+U postupku utvrđivanja i priznavanja ozljede ili bolesti za ozljedu na radu, odnosno profesionalnu bolest, nadležna područna služba Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu (u daljnjem tekstu: Zavod) postupat će u skladu s propisima o mirovinskom osiguranju, propisima o zaštiti na radu, drugim propisima, te odredbama Zakona i ovog Pravilnika, važećih na dan nastanka ozljede na radu, odnosno profesionalne bolesti.

@@ -1,0 +1,2 @@
+# Članak 8.
+Prijava o ozljedi na radu, odnosno profesionalnoj bolesti popunjava se u osam primjeraka i to za: obveznika podnošenja prijave, osiguranu osobu, nadležnog doktora specijaliste medicine rada, izabranog doktora primarne zdravstvene zaštite u skladu sa Zakonom o obveznom zdravstvenom osiguranju, Zavodu, Hrvatskom zavodu za medicinu rada, Hrvatskom zavodu za obvezno zdravstveno osiguranje, nadležnom inspektoru rada Državnog inspektorata, Hrvatskom zavodu za javno zdravstvo.
