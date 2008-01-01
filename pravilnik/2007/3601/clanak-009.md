@@ -1,0 +1,5 @@
+# Članak 9.
+1) Laboratorijskom analizom na prisutnost štetnih organizama provodi se po potrebi dio kontrola kvalitete poljoprivrednog sadnog materijala u skladu sa člankom 38. stavkom 1. Zakona.
+2) Zavod provodi nadzor nad radom ovlaštenih laboratorija kontrolom ispunjavanja uvjeta za upis u Upisnik laboratorija za kontrolu kvalitete poljoprivrednog sadnog materijala (u daljnjem tekstu: Upisnik laboratorija) i kontrolom postupaka laboratorijske analize.
+3) Kontrolu postupka laboratorijske analize iz stavka 2. ovoga članka Zavod provodi usporednom analizom istog uzorka biljnog materijala u nekoliko ovlaštenih laboratorija u zemlji, u laboratoriju u inozemstvu ili u laboratoriju znanstvene ustanove ukoliko taj laboratorij ispunjava uvjete za upis u Upisnik laboratorija.
+4) Ako Zavod u kontroli iz stavka 2. ovoga članka utvrdi da laboratorij ne ispunjava uvjete za upis u Upisnik laboratorija i/ili su u postupku laboratorijske analize učinjeni veći propusti predložit će Ministarstvu poljoprivrede, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo) trajno ili privremeno brisanje laboratorija iz Upisnika laboratorija.

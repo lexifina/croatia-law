@@ -1,0 +1,4 @@
+# Članak 6.
+1) Dobavljač sadnog materijala kontinuirano mora poduzimati aktivnosti i voditi evidencije u skladu sa člankom 33. stavkom 2. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (u daljnjem tekstu: Zakona).
+2) Ako rezultat provjera ili drugi podaci dostupni dobavljačima otkrivaju prisustvo jednog ili više štetnih organizama ili u količini većoj od dozvoljene u skladu s posebnim propisom kojim se uređuje biljno zdravstvo, dobavljač će o tome bez odgode obavijestiti fitosanitarnu inspekciju i provesti mjere koje ona odredi ili druge potrebne mjere kako bi se smanjila opasnost od širenja štetnih organizama.
+3) Dobavljač je dužan voditi bilješke o svakoj pojavi štetnih organizama na njegovim površinama i u njegovim prostorima te o svim mjerama koje je u vezi s tim poduzeo.
