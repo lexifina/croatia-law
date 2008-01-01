@@ -1,0 +1,2 @@
+# Članak 16.
+Zdravstvenu zaštitu na primarnoj razini za slučaj profesionalne bolesti i ozljede na radu na temelju sklopljenog ugovora sa Zavodom sukladno članku 12. Zakona, provode zdravstvene ustanove, trgovačka društva koja u svom sastavu imaju djelatnost medicine rada te specijalisti medicine rada u privatnoj praksi kao i zdravstvene ustanove, odnosno zdravstveni radnici privatne prakse ugovorni subjekti HZOZO uključeni u Osnovnu mrežu zdravstvene djelatnosti.

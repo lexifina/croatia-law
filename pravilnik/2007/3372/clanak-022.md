@@ -1,0 +1,2 @@
+# Članak 22.
+Standard u specijalističko-konzilijarnoj zdravstvenoj zaštiti, odnosno u specijalističkoj dijagnostici na sekundarnoj razini utvrđen je kadrovskim i vremenskim normativima iz Popisa postupaka, a iskazuje se po djelatnostima specijalističko-konzilijarne, odnosno dijagnostičke zdravstvene zaštite i standardnom broju osiguranih osoba po specijalističkom timu sukladno propisima iz obveznog zdravstvenog osiguranja.

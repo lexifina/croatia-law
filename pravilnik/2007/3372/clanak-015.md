@@ -1,0 +1,4 @@
+## 2. ZDRAVSTVENA ZAŠTITA ZA SLUČAJ OZLJEDE NA RADU I PROFESIONALNE BOLESTI
+# Članak 15.
+Zdravstvenu zaštitu u djelatnostima na primarnoj, sekundarnoj i tercijarnoj razini za slučaj profesionalne bolesti i ozljeda na radu na temelju ugovora sa Zavodom o provođenju zdravstvene zaštite iz članka 12. Zakona provode zdravstvene ustanove, trgovačka društva koja u svom sastavu imaju djelatnost medicine rada te specijalisti medicine rada u privatnoj praksi, klinički bolnički centri, kliničke bolnice, klinike, opće bolnice, specijalne bolnice, poliklinike i domovi zdravlja te privatne poliklinike, privatni zdravstveni radnici, te zdravstvene ustanove i privatni zdravstveni radnici više i srednje stručne spreme koji obavljaju djelatnosti fizikalne terapije u kući bolesnika i zdravstvenu njegu u kući, ugovorni su subjekti HZOZO uključeni u Osnovnu mrežu zdravstvene djelatnosti.
+2.1. Primarna razina
