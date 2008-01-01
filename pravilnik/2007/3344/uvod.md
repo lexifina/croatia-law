@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 3., članka 24. stavka 6. i članka 25. stavka 2. Zakona o stočarstvu (»Narodne novine« 70/97., 36/98., 151/03. i 132/06.) ministar poljoprivrede, šumarstva i vodnoga gospodarstva donosi
