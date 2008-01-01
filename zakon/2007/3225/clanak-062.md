@@ -1,0 +1,6 @@
+## Programi subvencionirane stanogradnje
+# Članak 62.
+(1) Za ugovore o javnim radovima koji se odnose na projektiranje i izgradnju u sklopu subvencioniranih programa stanogradnje, a čija veličina i složenost te procijenjeno trajanje potrebnih radova zahtijeva da se planiranje od početka temelji na suradnji između predstavnika naručitelja, stručnjaka i izvođača radova odgovornog za izvođenje radova, naručitelj može propisati poseban postupak nabave za odabir najpovoljnijeg izvođača radova kojeg bi se uključilo u tim.
+(2) Javni naručitelj obvezan je u objavi i dokumentaciji za nadmetanje što točnije opisati radove koji se trebaju izvršiti kako bi zainteresiranim gospodarskim subjektima omogućio uvid u sve uvjete i okolnosti nužne za izradu ponude. U objavi i dokumentaciji za nadmetanje naručitelj, u skladu s uvjetima sposobnosti, navodi stručne, tehničke, ekonomske i financijske uvjete koje natjecatelj mora zadovoljiti.
+(3) Ukoliko javni naručitelj propiše postupak iz stavka 1. ovoga članka, obvezan je pridržavati se odredaba ovoga Zakona o načelima javne nabave, objavama o javnoj nabavi, rokovima, načinu dostavljanja informacija, obvezi dokumentiranja i sposobnosti gospodarskih subjekata.
+Odsjek 2.

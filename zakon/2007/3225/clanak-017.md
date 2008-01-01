@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Elektronička dražba dodatni je stupanj otvorenog, ograničenog ili pregovaračkog postupka javne nabave.
+(2) U provedbi otvorenog postupka javne nabave, ograničenog postupka javne nabave, pregovaračkog postupka javne nabave s prethodnom objavom iz članka 14. stavka 1. točke 1., ili članka 15. stavka 1. točke 1., ili članka 16. stavka 1. točke 1., pri sklapanju ugovora o javnoj nabavi na temelju dinamičkog sustava nabave ili pri sklapanju ugovora o javnoj nabavi na temelju okvirnog sporazuma u skladu s odredbama članka 102. stavka 4. točke 2., stavka 5. i stavka 6. ovoga Zakona, može se odabrati sklapanje ugovora o javnoj nabavi na način jednostavne elektroničke dražbe ili na način složene elektroničke dražbe, ako se predmet nabave može opisati jasno i cjelovito. Dražba se može odnositi samo na dijelove ponude koji se na jasan i razumljiv način mogu kvantificirati da ih je moguće prikazati u brojkama ili navesti u postocima.
+(3) Kod jednostavne elektroničke dražbe odluka o odabiru mora se donijeti na temelju najniže cijene.
+(4) Kod složene elektroničke dražbe odluka o odabiru mora se donijeti na temelju ekonomski najpovoljnije ponude.
+(5) Javni naručitelj može slobodno birati između provedbe jednostavne ili složene elektroničke dražbe.

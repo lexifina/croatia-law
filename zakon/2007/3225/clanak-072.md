@@ -1,0 +1,5 @@
+## Alternativna ponuda
+# Članak 72.
+(1) Alternativna ponuda jest ponuda kojom ponuditelj daje alternativni prijedlog za predmet nabave. Javni naručitelj obvezan je u objavi i u dokumentaciji za nadmetanje izrijekom navesti dopuštenost alternativnih ponuda. Alternativne ponude dopuštene su samo kod ugovora koji se sklapaju na temelju kriterija ekonomski najpovoljnije ponude. Ako dokumentacija za nadmetanje ne sadrži navod o dopuštenosti alternativnih ponuda, onda one nisu dopuštene.
+(2) Javni naručitelj obvezan je u dokumentaciji za nadmetanje odrediti minimalne zahtjeve koje alternativne ponude moraju ispunjavati u odnosu na predmet nabave i označiti na koji se način te ponude dostavljaju. Javni naručitelj može uzeti u obzir samo one alternativne ponude koje ispunjavaju minimalne zahtjeve i osiguravaju izvršenje jednakovrijednog (odgovarajućeg) predmeta nabave. Dokaz jednakovrijednosti mora podnijeti ponuditelj.
+(3) Kada je dopušteno podnošenje alternativnih ponuda, javni naručitelj ne smije odbiti dostavljenu alternativnu ponudu zbog toga što bi njezinim odabirom dovelo do ugovora o javnoj nabavi robe, a ne do ugovora o javnim uslugama, ili obrnuto.

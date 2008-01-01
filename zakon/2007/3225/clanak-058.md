@@ -1,0 +1,9 @@
+## Kriteriji za odabir ponude
+# Članak 58.
+(1) Kriteriji na kojima javni naručitelj temelji odabir ponude jesu:
+a) u slučaju ekonomski najpovoljnije ponude sa stajališta javnog naručitelja, kriteriji vezani uz predmet određenog ugovora o javnoj nabavi, kao što su: kvaliteta, cijena, tehničko dostignuće, estetske, funkcionalne i ekološke osobine, operativni troškovi, ekonomičnost, servisiranje nakon prodaje i tehnička pomoć, datum isporuke i rokovi isporuke ili rokovi završetka radova i slično, ili
+b) najniža cijena.
+(2) Ako se odabire na temelju kriterija ekonomski najpovoljnije ponude, javni naručitelj u objavi ili u dokumentaciji za nadmetanje, odnosno u opisnoj dokumentaciji u slučaju natjecateljskog dijaloga, navodi sve kriterije za odabir ponude, čiju primjenu predviđa, u odnosu na relativno značenje koji im pridaje. Značenje kriterija može se izraziti određivanjem niza vrijednosti s odgovarajućim maksimalnim rasponom.
+(3) Ako prema mišljenju javnog naručitelja iz dokazivih razloga nije moguće utvrditi kriterije za odabir na temelju ekonomski najpovoljnije ponude u odnosu na relativno značenje koji im se pridaje, javni naručitelj u objavi i/ili u dokumentaciji za nadmetanje ili opisnoj dokumentaciji u slučaju natjecateljskog dijaloga navodi sve kriterije za odabir ponude, čiju primjenu predviđa, po redoslijedu - od najvažnijeg do najmanje važnog.
+(4) Naručitelj je obvezan sastaviti izvješće o razlozima primjene kriterija za odabir na temelju ekonomski najpovoljnije ponude u odnosu na relativno značenje, te ukoliko je moguće odrediti njihovu razmjernu vrijednost u ukupnom sustavu vrednovanja i način izračuna.
+(5) Kriteriji odabira ne smiju utjecati na primjenu odredaba kojima je propisana novčana naknada za određene usluge, a pri nabavi robe ne smiju utjecati na primjenu odredaba kojima su propisane fiksne cijene.

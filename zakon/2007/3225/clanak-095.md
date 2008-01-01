@@ -1,0 +1,7 @@
+## Odluka o poništenju i rok mirovanja
+# Članak 95.
+(1) Odluku o poništenju s preslikom zapisnika o pregledu i ocjeni ponuda, javni naručitelj obvezan je svakom ponuditelju, bez odgode, dostaviti preporučenom poštom s povratnicom ili na drugi dokaziv način. Odluka o poništenju obvezno sadrži navod o danu isteka roka mirovanja iz odredaba stavka 3. ovoga članka i razloge poništenja.
+(2) U slučaju poništenja postupka javne nabave na temelju odredaba članka 93. i članka 94. stavka 1. točke 4. ovoga Zakona, odluka o poništenju objavljuje se na isti način kao i poziv na nadmetanje, a gospodarskim subjektima kojima je javni naručitelj dao dokumentaciju za nadmetanje dostavlja bez odgode, odluku o poništenju preporučenom poštom s povratnicom ili na drugi dokaziv način. Objava i odluka o poništenju obvezno sadrže navod o danu isteka roka mirovanja i razloge poništenja.
+(3) Odluka o poništenju postupka javne nabave postaje konačna nakon isteka roka mirovanja od 12 dana od dana dostave odluke o poništenju ponuditeljima, odnosno od dana objave odluke o poništenju sukladno odredbi stavka 2. ovoga članka, ako nije pokrenut postupak pravne zaštite.
+(4) Prije isteka roka mirovanja ne smije se pokrenuti novi postupak javne nabave za isti predmet nabave, osim ako je nabava uzrokovana višom silom. U slučaju poništenja postupka javne nabave sukladno odredbama članka 93. ovoga Zakona, pristigle ponude ne smiju se otvarati nakon donošenja odluke o poništenju.
+(5) Nakon što je odluka o poništenju postala konačna, pristigle ponude vraćaju se ponuditelju.

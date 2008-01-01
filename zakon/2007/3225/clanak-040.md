@@ -1,0 +1,11 @@
+## Rokovi za dostavu dokumentacije za nadmetanje i dodatnih informacija
+# Članak 40.
+(1) U otvorenom postupku javne nabave:
+1. dokumentacija za nadmetanje i dodatna dokumentacija gospodarskim se subjektima šalje ili na drugi način stavlja na raspolaganje najkasnije u roku šest dana od dana kada je zatražena, pod uvjetom da je zatražena pravodobno prije krajnjeg roka za dostavu ponuda, osim ako javni naručitelj ne omogući neograničen i potpun izravni pristup putem elektroničkih sredstava,
+2. dodatne informacije vezane uz dokumentaciju za nadmetanje i dodatnu dokumentaciju, uključujući i njezine ispravke ili izmjene, javni je naručitelj obvezan dostaviti najkasnije šest dana prije krajnjeg roka za dostavu ponuda, pod uvjetom da su zatražene pravodobno.
+(2) U ograničenom postupku javne nabave, postupku natjecateljskog dijaloga i pregovaračkom postupku javne nabave s prethodnom objavom:
+1. javni naručitelj istodobno i u pisanom obliku poziva odabrane natjecatelje da podnesu svoje ponude, da pregovaraju ili da sudjeluju u dijalogu,
+2. javni naručitelj obvezan je dodatne informacije vezane uz specifikacije i bilo koje popratne dokumente dostaviti najkasnije četiri dana prije krajnjeg roka za dostavu ponuda, pod uvjetom da su zatražene pravodobno.
+(3) Ako neki subjekt, osim javnog naručitelja, odgovoran za postupak javne nabave raspolaže dokumentacijom za nadmetanje ili njezinim dijelom, u objavi se navodi adresa na kojoj se dokumentacija može dobiti, krajnji rok za traženje dokumentacije, iznos koji se treba platiti za dobivanje dokumentacije, ako je zahtijevan, te način plaćanja. Javni naručitelj ili nadležni subjekt obvezan je poslati dokumentaciju za nadmetanje ili ju staviti na raspolaganje gospodarskom subjektu odmah po traženju i plaćanju cijene, ako je to uvjet.
+(4) Ako dokumentacija za nadmetanje i dodatna dokumentacija ili dodatne informacije, premda pravodobno zatraženi, nisu bilo iz kojih razloga dostavljeni ili stavljeni na raspolaganje pravodobno, ili ako se ponude mogu sastaviti samo nakon posjeta gradilištu ili nakon neposrednog pregleda dokumenata koji potkrepljuju dokumentaciju za nadmetanje, rokovi za dostavu ponuda produžuju se tako da svi zainteresirani gospodarski subjekti mogu biti upoznati sa svim informacijama potrebnima za izradu ponude.
+Odsjek 2.

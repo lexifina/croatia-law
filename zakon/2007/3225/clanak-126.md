@@ -1,0 +1,8 @@
+## Glava V.
+## ODNOSI S DRUGIM ZEMLJAMA
+## Ponude koje obuhvaćaju robu podrijetlom iz drugih zemalja
+# Članak 126.
+(1) Odredbe ovoga članka primjenjuju se na ponude koje obuhvaćaju robu podrijetlom iz drugih zemalja s kojima Europska zajednica nije sklopila sporazum kojim se gospodarskim subjektima iz Europske zajednice osigurava usporediv i uspješan pristup tržištima tih zemalja. Ove odredbe ne dovode u pitanje obveze Europske zajednice ili njezinih država članica u odnosu na druge zemlje.
+(2) Ponuda dostavljena u svrhu nabave robe može se odbiti ako je udio robe podrijetlom iz drugih zemalja, koji je određen u skladu s Uredbom Vijeća (EEZ-a) br. 2913/92 od 12. listopada 1992. kojom se utvrđuje Carinski kodeks Europske zajednice, veći od 50% ukupne vrijednosti robe obuhvaćene ponudom. U smislu ovoga članka, softver koji se koristi u telekomunikacijskoj mrežnoj opremi smatra se robom.
+(3) Ako su ponude dvaju ili više ponuditelja jednake u smislu kriterija za odabir, prednost se daje onim ponudama koje se ne mogu odbiti sukladno stavku 2. ovoga članka. Cijene tih ponuda smatraju se jednakima u smislu ovoga članka ako razlika u cijeni nije veća od 3%. Ponuda nema prednost pred nekom drugom ponudom ako bi njezino prihvaćanje obvezivalo naručitelja da nabavi robu s tehničkim svojstvima drukčijima od svojstava postojeće robe, što bi dovelo do neusklađenosti, tehničkih poteškoća u radu i održavanju ili do nerazmjernih troškova.
+(4) Druge zemlje na koje je proširena pogodnost primjene na temelju Odluke Vijeća EU u skladu sa stavkom 1. ovoga članka ne uzimaju se u obzir za određivanje udjela robe podrijetlom iz zemalja iz stavka 2. ovoga članka.
