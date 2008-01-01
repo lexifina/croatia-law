@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Tijela državne uprave, jedinice lokalne i područne (regionalne) samouprave, pravne i fizičke osobe obvezni su surađivati s pravobraniteljem za osobe s invaliditetom i na njegov zahtjev podnositi izvješća i odgovarati na upite.
+(2) Tijela državne uprave, jedinice lokalne i područne (regionalne) samouprave, pravne i fizičke osobe dužne su odmah, a najkasnije u roku od 15 dana izvijestiti pravobranitelja za osobe s invaliditetom o poduzetom u povodu njegovog upozorenja, prijedloga ili preporuke.
+(3) Ako tijela i pravne osobe iz stavka 1. ovoga članka ne postupe u propisanom roku prema njegovom traženju, pravobranitelj za osobe s invaliditetom će, u roku od 30 dana, o tome obavijestiti tijelo koje obavlja nadzor nad njihovim radom.
+(4) Ako tijelo koje obavlja nadzor nad radom tijela i pravnih osoba iz stavka 1. ovoga članka u roku od 8 dana ne izvijesti o utvrđenim činjenicama i poduzetim mjerama, pravobranitelj za osobe s invaliditetom, u roku od 30 dana, o tome će obavijestiti Vladu Republike Hrvatske.

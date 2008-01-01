@@ -1,0 +1,2 @@
+# Članak 13.
+Ako u obavljanju dužnosti pravobranitelj za osobe s invaliditetom sazna da je osoba s invaliditetom izvrgnuta diskriminaciji, nasilju, spolnoj zloporabi, zlostavljanju, izrabljivanju, zanemarivanju ili nehajnom postupanju, dužan je odmah podnijeti prijavu nadležnom državnom odvjetništvu te upozoriti nadležno tijelo državne uprave i predložiti mjere za zaštitu prava i interesa osoba s invaliditetom.
