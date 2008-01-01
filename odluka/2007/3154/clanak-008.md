@@ -1,0 +1,3 @@
+# Članak 8.
+Pomoći, donacije, prihodi za posebne namjene (kao što su prihodi od igara na sreću, prihodi od spomeničke rente i ostali prihodi za posebne namjene) i namjenski primici planirani su i izvršavaju se u visini ostvarenja u razdoblju prva tri mjeseca 2007. godine.
+Iznimno, uplaćene i prenesene a manje planirane ili neplanirane pomoći, donacije, prihodi za posebne namjene (kao što su prihodi od igara na sreću, prihodi od spomeničke rente i ostali prihodi za posebne namjene) i namjenski primici mogu se izvršavati i iznad visine utvrđene u stavku 1. ovog članka, uz prethodnu suglasnost Mininost Minifinancija.
