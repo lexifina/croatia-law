@@ -1,0 +1,4 @@
+# Članak 179.
+Član obitelji iz članka 156. stavka 2. ovoga Zakona ostvaruje pravo na stalni boravak iako nema neprekidno 5 godina privremeni boravak u Republici Hrvatskoj, ako je državljanin države članice EEP-a umro za vrijeme trajanja privremenog boravka u svrhu rada, a taj je privremeni boravak trajao neprekidno 2 godine prije smrti ili je smrt državljanina države članice EEP-a posljedica ozljede na radu ili profesionalne bolesti.
+Pravo na stalni boravak ostvaruje bračni drug državljanina države članice EEP-a, kojemu je hrvatsko državljanstvo prestalo po zaključenju braka s državljaninom države članice EEP-a ako su u Republici Hrvatskoj boravili zajedno, u slučaju smrti državljanina države članice EEP-a kojem je bio odobren privremeni boravak u svrhu rada.
+Pravo na stalni boravak iz stavka 1. i 2. ovoga članka ostvaruje se bez obzira na trajanje boravka.

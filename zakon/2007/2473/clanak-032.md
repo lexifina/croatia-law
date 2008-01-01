@@ -1,0 +1,4 @@
+# Članak 32.
+Vlada Republike Hrvatske može odrediti da državljani pojedinih država mogu ulaziti i izlaziti iz Republike Hrvatske i s valjanom osobnom iskaznicom, odnosno drugom ispravom kojom se dokazuju identitet i državljanstvo, ako ispunjava uvjete iz članka 31. stavka 1. točke 2., 3., 4. i 5. ovoga Zakona.
+Vlada Republike Hrvatske može odrediti da, pod određenim uvjetima, državljani pojedinih država mogu ulaziti i izlaziti iz Republike Hrvatske uz posjedovanje valjane putne isprave u koju je unesena valjana dozvola boravka jedne od država Schengenskog prostora ili valjana Schengenska viza tipa C, ako ispunjava uvjete iz članka 31. stavka 1. točke 1., 3., 4. i 5. ovoga Zakona.
+Stranac može ući u Republiku Hrvatsku i na temelju obrasca iz članka 22. ovoga Zakona, ako su ispunjeni uvjeti iz članka 31. ovoga Zakona.

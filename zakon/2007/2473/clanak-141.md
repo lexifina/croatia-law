@@ -1,0 +1,2 @@
+# Članak 141.
+Odredbe ovoga Zakona koje se odnose na rad stranaca ne primjenjuju se na stranca koji u Republici Hrvatskoj obavlja poslove i provodi projekte na temelju međunarodnih ugovora o stručno-tehničkoj pomoći, koje je Republika Hrvatska sklopila s Europskom unijom, drugom državom ili međunarodnom organizacijom te na rad volontera koji rade u neprofitnim udrugama i ustanovama u Republici Hrvatskoj.

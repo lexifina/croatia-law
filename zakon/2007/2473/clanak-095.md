@@ -1,0 +1,3 @@
+# Članak 95.
+Zabranjeno je prisilno udaljiti stranca u državu gdje su njegov život ili sloboda ugroženi radi njegove rasne, vjerske ili nacionalne pripadnosti, zbog pripadnosti posebnoj društvenoj skupini ili zbog političkog mišljenja ili gdje bi mogao biti podvrgnut mučenju ili neljudskom i ponižavajućem postupanju ili kažnjavanju te u državu u kojoj mu prijeti opasnost od prisilnog udaljenja u takvu državu.
+Zabranjeno je prisilno udaljiti maloljetnog stranca ako je to u suprotnosti s Konvencijom o zaštiti ljudskih prava i temeljnih sloboda, Europskom konvencijom o sprječavanju mučenja i neljudskog ili ponižavajućeg postupanja ili kažnjavanja i Konvencijom o pravima djece.
