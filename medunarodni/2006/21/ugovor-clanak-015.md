@@ -1,0 +1,6 @@
+# Članak 15.
+SPISI, DOKUMENTI I SVJEDOCI
+1. Carinske službe ugovornih stranaka će, na zahtjev, pribaviti dokumente o prijevozu i otpremi robe iz kojih je vidljiva vrijednost, podrijetlo, raspolaganje i odredište robe.
+2. Izvornici spisa, dokumenata i ostalih materijala zahtijevat će se samo u slučajevima kada su preslike nedostatne. Na izričit zahtjev, preslike takvih spisa, dokumenata i ostalih materijala će biti odgovarajuće ovjerene.
+3. Izvornici spisa, dokumenata i ostalih materijala koji su dostavljeni službi tražiteljici, biti će vraćeni čim prije. Prava zatražene službe ili trećih strana u vezi s njima ostat će nedirnuta. Na zahtjev, izvornici, potrebni za donošenje presuda ili za slične svrhe, biti će vraćeni bez odgode.
+4. Na zahtjev carinske službe jedne ugovorne stranke, carinska služba druge ugovorne stranke će, prema svome nahođenju, dozvoliti svojim službenicima, ako oni na to pristanu, da se pojave kao svjedoci ili vještaci u sudskim ili upravnim postupcima u državi ugovorne stranke tražiteljice, te da predoče spise, isprave i ostale materijale ili njihove ovjerene prijepise, koji su potrebni u postupku. U takvom zahtjevu treba navesti vrijeme, mjesto i vrstu postupka te u kojem svojstvu će službenik svjedočiti.
