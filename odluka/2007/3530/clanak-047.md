@@ -1,0 +1,6 @@
+# Članak 47.
+(1) Iznimno od odredaba članka 40. obveza prijave u izvještajni sustav statistike inozemnog duga nastupit će i za ostala nefinancijska trgovačka društva koja nisu odabrana u uzorak za izvještavanje o ostalim kreditnim poslovima ukoliko im razina stanja inozemne zaduženosti u toku godine premaši iznos ekvivalentan iznosu od 2,0 milijuna EUR, odnosno 0,5 milijuna EUR za trgovačka društva koja su vlasnički povezana s nerezidentnim kreditorom.
+(2) Trgovačka društva iz stavka (1) ovog članka obvezna su Direkciji za statistiku Hrvatske narodne banke dostaviti popis kreditnih poslova s inozemstvom s podatkom o ugovorenom iznosu kreditnog posla, stanjem iskorištene neotplaćene glavnice i stanjem ugovorene i neiskorištene glavnice.
+(3) Temeljem dostavljenog popisa kreditnih poslova Direkcija za statistiku Hrvatske narodne banke donijeti će odluku o potrebi uključivanja trgovačkog društva u uzorak ostalih nefinancijskih društava koja izvještavaju sukladno odredbama članka 44., 45. i 46. ove Odluke.
+(4) O donesenoj odluci Direkcija za statistiku Hrvatske narodne banke pisanim putem obavještava trgovačko društvo iz stavka (1) ovog članka.
+3. Izvješće o kreditnim poslovima stanovništva

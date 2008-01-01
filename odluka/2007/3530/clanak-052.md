@@ -1,0 +1,2 @@
+# Članak 52.
+Obveznici dostavljanja Mjesečnog izvješća o stanju i promjenama računa u inozemstvu su banke i svi rezidenti koji su dobili odobrenje Hrvatske narodne banke za otvaranje računa u inozemstvu, sukladno odredbi članka 29. Zakona. Obveza iz ovog članka ne odnosi se na fizičke osobe kojima je odobrenje za otvaranje deviznog računa u inozemstvu izdano za potrebe školovanja ili liječenja u inozemstvu.
