@@ -1,0 +1,3 @@
+# Članak 87.
+Ovaj ugovor zaključuje se na vrijeme od dvije godine i važi do 31. prosinca 2009. godine, osim za članke 30. i 33. za koje će ugovor važiti do 31. prosinca 2008. godine, te za iste pregovori moraju započeti najkasnije do 15. listopada 2008. godine.
+Ugovorne stranke suglasno utvrđuju da će u slučaju poremećaja na tržištu na kojem Poslodavac djeluje usred povećanja cijena ulaznih troškova (povećanja cijena nafte, valutnog tečaja EUR u odnosu na kunu i dr.) i prije isteka roka na koji je ovaj ugovor zaključen dogovoriti promjenu visine najniže plaće odnosno istu smanjiti radi financijske stabilnosti i sigurnosti Poslodavca.
