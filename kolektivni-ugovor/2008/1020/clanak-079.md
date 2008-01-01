@@ -1,0 +1,2 @@
+# Članak 79.
+Poslodavac je dužan radniku osigurati zaštitu od izravne i neizravne diskriminacije na temelju rase, boje kože, spola, spolnog opredjeljenja, bračnog stanja porodičnih obveza, dobi, jezika, vjere, političkog ili drugog uvjerenja, nacionalnog ili socijalnog podrijetla, imovinskog stanja, rođenja, društvenog položaja, članstva ili nečlanstva u političkoj stranci, članstva ili nečlanstva u sindikatu te tjelesnih ili duševnih nedostataka ili poteškoća.
