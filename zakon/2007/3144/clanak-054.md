@@ -1,0 +1,4 @@
+# Članak 54.
+Članak 350. mijenja se i glasi:
+»(1) Sud koji je donio odluku o uzdržavanju maloljetnoga djeteta ili punoljetne osobe nad kojom roditelji ostvaruju roditeljsku skrb ili u postupku pred kojim su stranke sklopile sudsku nagodbu o uzdržavanju tih osoba (članak 305. stavak 2.) pokrenut će i provesti po službenoj dužnosti ovrhu radi naplate uzdržavanja, osim ako je obveznik uzdržavanja u postupku pred njime dao suglasnost iz članka 236. stavka 1. ovoga Zakona.
+(2) Sud neće pokrenuti ovrhu iz stavka 1. ovoga članka ni u slučaju ako u roku od petnaest dana od ovršnosti odluke ili nagodbe o uzdržavanju dobije od poslodavca obavijest da mu je dostavljena isprava sa suglasnošću iz članka 236. stavka 1. i 2. ovoga Zakona. Uz tu obavijest treba biti priložena ovjerena kopija isprave sa suglasnošću te ovršne isprave na kojoj se ta suglasnost temelji.«
