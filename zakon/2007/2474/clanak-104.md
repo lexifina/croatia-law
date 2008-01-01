@@ -1,0 +1,2 @@
+# Članak 104.
+Ministar nadležan za poslove obrazovanja uz suglasnost ministra nadležnog za unutarnje poslove, donosi program učenja hrvatskog jezika, povijesti i kulture za tražitelje azila i azilante te donosi propis o načinu provođenja programa i provjeri znanja tražitelja azila, azilanata, stranaca pod privremenom zaštitom i stranaca pod supsidijarnom zaštitom, radi pristupa obrazovnom sustavu.
