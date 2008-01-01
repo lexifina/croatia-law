@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o trgovini (»Narodne novine« broj 11/96, 101/98, 30/99, 75/99, 62/01, 109/01, 49/03 - pročišćen tekst, 103/03, 170/03 i 55/04) ministar gospodarstva, rada i poduzetništva donosi
