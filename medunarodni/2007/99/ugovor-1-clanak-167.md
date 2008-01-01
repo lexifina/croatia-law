@@ -1,0 +1,12 @@
+# Članak 167.
+REZERVE
+(1) Svaka država ugovornica može prilikom potpisivanja ili prilikom polaganja isprava o ratifikaciji ili pristupanju staviti samo one rezerve koje su predviđene u stavku 2.
+(2) Svaka država ugovornica može pridržati pravo predvidjeti:
+(a) da europski patenti, sukladno odredbama koje se primjenjuju na nacionalne patente, ne proizvode pravne učinke ili se mogu proglasiti ništavim ako se njima štite kemijski, farmaceutski ili prehrambeni proizvodi kao takvi; ta se rezerva ne odnosi na prava iz patenta koji se odnosi na postupak za proizvodnju ili za uporabu nekog kemijskog proizvoda ili na postupak za proizvodnju farmaceutskog ili prehrambenog proizvoda;
+(b) da europski patenti, sukladno odredbama koje se primjenjuju na nacionalne patente, ne proizvode pravne učinke ili se mogu proglasiti ništavim ako se njima štite postupci u području poljoprivrede ili hortikulture, na koje se ne primjenjuje članak 53. točka (b);
+(c) da europski patenti, sukladno odredbama koje se primjenjuju na nacionalne patente, traju kraće od dvadeset godina
+(d) da nije obvezana Protokolom o priznavanju.
+(3) Sve rezerve koje je stavila država ugovornica mogu proizvoditi učinak najdulje deset godina, računajući od datuma stupanja na snagu ove Konvencije. Ako država ugovornica izjavi neku od rezervi iz stavka 2. točaka (a) i (b), Upravno vijeće može s učinkom za tu državu produljiti navedeno razdoblje za najviše pet godina u pogledu svih ili samo dijela izjavljenih odnosnih rezervi, pod uvjetom da ta država najkasnije godinu dana prije isteka razdoblja od deset godina podnese obrazloženi zahtjev kojim će dokazati Upravnom vijeću da nije u mogućnosti povući odnosnu rezervu do isteka razdoblja od deset godina.
+(4) Čim to okolnosti dopuste, država ugovornica će povući rezervu koju je stavila. Povlačenje se obavlja putem obavijesti Vladi Savezne Republike Njemačke, a proizvodi učinke nakon isteka mjesec dana od primitka takve obavijesti.
+(5) Rezerva stavljena u skladu sa stavkom 2. točkama (a), (b) ili (c) odnosi se na europske patente priznate na temelju europskih patentnih prijava podnesenih tijekom razdoblja trajanja rezerve. Učinak rezerve traje tijekom cijelog trajanja odnosnih patenata.
+(6) Rezerva prestaje proizvoditi učinke nakon isteka razdoblja iz stavka 3. prve rečenice ili, ako je to razdoblje produljeno, nakon isteka produljenog razdoblja. Ova je odredba bez utjecaja na odredbe iz stavaka 4. i 5.

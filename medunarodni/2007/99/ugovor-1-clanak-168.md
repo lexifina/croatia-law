@@ -1,0 +1,5 @@
+# Članak 168.
+PROSTORNO PODRUČJE PRIMJENE
+(1) Država ugovornica može u svojoj ispravi o ratifikaciji ili pristupu ili u bilo kojem trenutku nakon toga, pisanom obaviješću upućenom Vladi Savezne Republike Njemačke izjaviti da se ova Konvencija primjenjuje i na jednom ili više područja za čije je vanjske odnose ona odgovorna. Europski patenti priznati za tu državu ugovornicu imaju učinak i na područjima za koja je takva izjava stupila na snagu.
+(2) Ako je izjava iz stavka 1. sadržana u ispravi o ratifikaciji ili o pristupu, ona proizvodi učinak na isti datum kao i ratifikacija ili pristup; ako je izjava dana u obavijesti nakon polaganja isprave o ratifikaciji ili o pristupanju, proizvodi učinak po isteku šest mjeseci od datuma njezina primitka u Vladi Savezne Republike Njemačke.
+(3) Država ugovornica može u svakom trenutku izjaviti da se Konvencija prestaje primjenjivati na jednom ili više područja u odnosu na koja je dala obavijest prema stavku 1. Takva izjava proizvodi učinak po isteku godine dana od datuma kada je primi Vlada Savezne Republike Njemačke.

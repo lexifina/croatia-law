@@ -1,0 +1,4 @@
+# Članak 160.
+IMENOVANJE ZAPOSLENIKA TIJEKOM PRIJELAZNOG RAZDOBLJA
+(1) Do donošenja Statuta o službi stalnih zaposlenika i uvjeta u ugovorima o radu drugih zaposlenika Europskog patentnog ureda, Upravno vijeće i predsjednik Europskog patentnog ureda u okviru svojih ovlaštenja zapošljavaju potrebno osoblje i s njim zaključuju ugovore na određeno vrijeme. Upravno vijeće može utvrditi opća načela zapošljavanja.
+(2) Tijekom prijelaznog razdoblja čije trajanje određuje Upravno vijeće, ono može, nakon savjetovanja s predsjednikom Europskog patentnog ureda, za članove Proširenog žalbenog vijeća ili za članove Žalbenih vijeća imenovati članove tehničke ili pravne struke iz nacionalnih sudova i nadležnih tijela država ugovornica, koji mogu nastaviti i s radom u nacionalnim sudovima ili nadležnim tijelima. Oni mogu biti imenovani na rok ne dulji od pet i ne kraći od jedne godine i mogu biti ponovno imenovani.

@@ -1,0 +1,3 @@
+# Članak 152.
+EUROPSKI PATENTNI URED KAO OVLAŠTENO TIJELO ZA MEĐUNARODNO PRETRAŽIVANJE ILI OVLAŠTENO TIJELO ZA MEĐUNARODNO PRETHODNO ISPITIVANJE
+Europski patentni ured je, u skladu sa sporazumom između Organizacije i Međunarodnog ureda Svjetske organizacije za intelektualno vlasništvo, Ovlašteno tijelo za međunarodno pretraživanje i Ovlašteno tijelo za međunarodno prethodno ispitivanje u smislu PCT-a, za podnositelje prijava koji su državljani jedne od država ugovornica ove Konvencije ili u državi ugovornici ove Konvencije imaju prebivalište ili sjedište. Tim se sporazumom može predvidjeti da Europski patentni ured djeluje i za druge podnositelje zahtjeva.

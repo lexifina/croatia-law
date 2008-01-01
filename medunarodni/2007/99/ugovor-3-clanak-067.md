@@ -1,0 +1,8 @@
+# Članak 67.
+PRAVA IZ EUROPSKE PATENTNE PRIJAVE NAKON OBJAVE
+(1) Europska patentna prijava od datuma njezine objave privremeno daje svojem podnositelju u državama ugovornicama naznačenim u prijavi takvu zaštitu kakva je propisana u članku 64.
+(2) Svaka država ugovornica može propisati da europska patentna prijava ne daje takvu zaštitu kakva je propisana u članku 64. Međutim, zaštita koju daje europska patentna prijava od datuma njezine objave ne smije biti manja od zaštite koju prema zakonu odnosne države daju neispitane nacionalne patentne prijave koje se obavezno objavljuju. U svakom slučaju, svaka država mora osigurati barem to da od datuma objave europske patentne prijave, podnositelj prijave može od svake osobe koja upotrebljava izum u toj državi u okolnostima u kojima bi prema nacionalnom pravu bila odgovorna za povredu nacionalnog patenta, zahtijevati naknadu koja je razumna s obzirom na te okolnosti.
+(3) Svaka država čiji službeni jezik nije jezik postupka može propisati da privremena zaštita iz stavaka 1. i 2. ne nastaje sve dok se prijevod patentnih zahtjeva na jedan od njezinih službenih jezika po izboru podnositelja prijave ili, kad je ta država propisala upotrebu jednog određenog službenog jezika, prijevod na taj jezik:
+(a) učini dostupnim javnosti na način propisan nacionalnim pravom ili
+(b) dostavi osobi koja se koristi tim izumom u odnosnoj državi.
+(4) Smatra se da europska patentna prijava od početka nije imala učinke navedene u stavcima 1. i 2. ako je povučena, ako se smatra povučenom ili ako je konačno odbijena. Isto se odnosi na učinke europske patentne prijave u državi ugovornici čija je naznaka povučena ili se smatra povučenom.

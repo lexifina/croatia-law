@@ -1,0 +1,8 @@
+# Članak 122.
+POVRAT U PRIJAŠNJE STANJE
+(1) Podnositelju europske patentne prijave ili nositelju europskog patenta koji, unatoč primjeni dužne pažnje koja se obzirom na okolnosti zahtijeva, nije bio u mogućnosti pridržavati se roka u odnosu na Europski patentni ured, dopustit će se na njegov zahtjev povrat u prijašnje stanje, ako su prema ovoj Konvenciji neposredne posljedice nepoštivanja roka odbijanje europske patentne prijave ili nekog zahtjeva, smatranje europske patentne prijave povučenom, proglašenje europskog patenta nevažećim ili gubitak nekog drugog prava ili pravnog sredstva.
+(2) Europski patentni ured će udovoljiti zahtjevu ako su ispunjene pretpostavke iz stavka 1. te uvjeti propisani u Provedbenom pravilniku. U protivnom, odbit će zahtjev.
+(3) Ako je zahtjevu udovoljeno, smatra se da pravne posljedice propuštanja roka nisu nastupile
+(4) Mogućnost povrata u prijašnje stanje isključena je u odnosu na rokove za podnošenje zahtjeva za povrat u prijašnje stanje. U Provedbenom pravilniku se može isključiti mogućnost povrata u prijašnje stanje i u odnosu na druge rokove.
+(5) Osoba koja je tijekom razdoblja između gubitka prava iz stavka 1. i objave podatka o povratu u prijašnje stanje, u naznačenoj državi u dobroj vjeri iskorištavala izum ili je obavila stvarne i ozbiljne pripreme za iskorištavanje izuma koji je predmet europske patentne prijave ili europskog patenta, može u okviru svojeg poslovanja ili za njegove potrebe nastaviti s takvim iskorištavanjem bez plaćanja naknade.
+(6) Ništa iz ovog članka ne ograničava pravo države ugovornice da dopusti povrat u prijašnje stanje u rokovima koji su predviđeni ovom Konvencijom, i koje moraju poštivati tijela te države.

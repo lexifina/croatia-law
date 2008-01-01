@@ -1,0 +1,5 @@
+# Članak 155.
+EUROPSKI PATENTNI URED KAO OVLAŠTENOTIJELO ZA MEĐUNARODNO PRETHODNOISPITIVANJE
+(1) Sukladno sporazumu zaključenom između Organizacije i Međunarodnog ureda Svjetske organizacije za intelektualno vlasništvo, Europski patentni ured je za podnositelje prijava koji su državljani neke od država ugovornica za koju je Poglavlje II Ugovora o suradnji obvezujuće, Ovlašteno tijelo za međunarodno prethodno ispitivanje u smislu tog Poglavlja; jednako je i u slučaju kada podnositelj prijave u takvoj državi ima prebivalište ili sjedište.
+(2) Uz prethodnu suglasnost Upravnog vijeća, Europski patentni ured može biti Ovlašteno tijelo za međunarodno prethodno ispitivanje i za bilo kojeg drugog podnositelja prijave, sukladno sporazumu između Organizacije i Međunarodnog ureda Svjetske organizacije za intelektualno vlasništvo.
+(3) Odluke o prigovoru podnositelja prijave protiv dodatne pristojbe što ju Europski patentni ured naplaćuje za međunarodno prethodno ispitivanje prema odredbama članka 34. stavka 3. točke (a) Ugovora o suradnji, u nadležnosti su žalbenih vijeća.

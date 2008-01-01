@@ -1,0 +1,5 @@
+# Članak 151.
+EUROPSKI PATENTNI URED KAO PRIJAMNI URED
+(1) Europski patentni ured može biti prijamni ured u smislu članka 2. alineje xv Ugovora o suradnji onda kada je podnositelj prijave državljanin države ugovornice ove Konvencije za koju je Ugovor o suradnji stupio na snagu; jednako je i u slučaju kada podnositelj prijave u takvoj državi ima prebivalište ili sjedište.
+(2) Europski patentni ured može biti prijamni ured i onda kada je podnositelj prijave državljanin države koja nije država ugovornica ove Konvencije, ali je država ugovornica Ugovora o suradnji koja je s Organizacijom sklopila sporazum prema kojem je Europski patentni ured prijamni ured umjesto nacionalnog ureda te države; jednako je i u slučaju kada podnositelj prijave u takvoj državi ima prebivalište ili sjedište.
+(3) Uz prethodnu suglasnost Upravnog vijeća, Europski patentni ured može biti prijamni ured i za bilo kojeg drugog podnositelja prijave, sukladno sporazumu između Organizacije i Međunarodnog ureda Svjetske organizacije za intelektualno vlasništvo.

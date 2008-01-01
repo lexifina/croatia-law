@@ -1,0 +1,4 @@
+# Članak 19.
+ODJELI ZA PRIGOVORE
+(1) Odjeli za prigovore nadležni su za ispitivanje prigovora protiv europskih patenata.
+(2) Odjel za prigovore čine tri ispitivača tehničke struke od kojih barem dva nisu sudjelovala u postupku priznavanja patenta na koji se odnosi prigovor. Ispitivač koji je sudjelovao u postupku priznavanja europskog patenta ne može biti Predsjedatelj. Prije donošenja konačne odluke o prigovoru, Odjel za prigovore može povjeriti ispitivanje prigovora jednom od svojih članova. Usmene rasprave vode se isključivo pred Odjelom za prigovore. Ako Odjel za prigovore smatra da to zahtijeva narav odluke, dopunjuje se jednim ispitivačem pravne struke koji nije sudjelovao u postupku priznavanja patenta. U slučaju jednakog broja glasova odlučujući je glas Predsjedatelja Odjela za prigovore.

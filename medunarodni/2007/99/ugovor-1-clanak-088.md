@@ -1,0 +1,6 @@
+# Članak 88.
+ZAHTIJEVANJE PRVENSTVA
+(1) Podnositelj europske patentne prijave koji se želi koristiti prvenstvom prve prijave mora podnijeti izjavu o pravu prvenstva, primjerak prve prijave i, ako jezik te prijave nije jedan od službenih jezika Europskog patentnog ureda, njezin prijevod na jedan od službenih jezika Europskog patentnog ureda. Postupak za provedbu ovih odredaba je propisan u Provedbenom pravilniku.
+(2) Za jednu europsku patentnu prijavu mogu se zahtijevati višestruka prvenstva bez obzira na to što potječu iz različitih zemalja. Kada je to primjereno, višestruka prvenstva se mogu zahtijevati za jedan patentni zahtjev. Kada su zahtijevana višestruka prvenstva, rokovi koji teku od datuma prvenstva počinju teći od najranijeg datuma prvenstva.
+(3) Ako je za europsku patentnu prijavu zahtijevano prvenstvo ili višestruko prvenstvo, pravo prvenstva obuhvaća samo one elemente europske patentne prijave koji su sadržani u prijavi ili u prijavama čije se prvenstvo zahtijeva.
+(4) Ako se određena obilježja izuma za koji se zahtijeva prvenstvo ne nalaze u patentnim zahtjevima iz prve prijave, prvenstvo se ipak može priznati, pod uvjetom da sastavni dijelovi prve prijave kao cjelina jasno otkrivaju ta obilježja.
