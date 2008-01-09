@@ -1,0 +1,1 @@
+Na temelju članka 65. stavka 1. točke 2. Zakona o elektroničkim medijima (»Narodne novine« broj 122/03 i 79/97), Vijeće za elektroničke medije na svojoj 160. sjednici održanoj dana 18. prosinca 2007. donijelo je sljedeću
