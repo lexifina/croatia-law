@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 1. točke 2. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 49/99, 63/00, 103/03, 177/04 i 71/07), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 20. prosinca 2007. godine
