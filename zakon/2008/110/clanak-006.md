@@ -1,0 +1,4 @@
+# Članak 6.
+Stupanjem na snagu ovog Zakona:
+Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva u okviru djelokruga utvrđenog ovim Zakonom preuzima poslove Uprave za regionalnu i lokalnu infrastrukturu, Uprave za integrirani regionalni razvoj, Uprave za obnovu obiteljskih kuća i Uprave za prognanike, povratnike i izbjeglice iz Ministarstva mora, turizma, prometa i razvitka, poslove Uprave šumarstva, Uprave za drvnu industriju, Uprave za lovstvo, Uprave za gospodarenje vodama te Uprave vodne politike i međunarodnih projekata iz Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva,
+Ministarstvo turizma u okviru djelokruga utvrđenog ovim Zakonom preuzima poslove Uprave za turističku politiku i tržište, Uprave za razvoj turizma i Uprave za sustav turističkih zajednica i selektivne oblike turizma iz Ministarstva mora, turizma, prometa i razvitka.

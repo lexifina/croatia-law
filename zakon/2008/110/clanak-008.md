@@ -1,0 +1,3 @@
+# Članak 8.
+Do donošenja Državnog proračuna za 2008. godinu, sredstva za rad Ministarstva mora, prometa i infrastrukture, Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva, Ministarstva poljoprivrede, ribarstva i ruralnog razvoja i Ministarstva turizma utvrdit će se preraspodjelom sredstava osiguranih Odlukom o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvatske u prvom tromjesečju 2008. godine (»Narodne novine«, br. 108/07.), razmjerno preuzetom djelokrugu.
+Ovlašćuje se Vlada Republike Hrvatske da uredbom izvrši preraspodjelu sukladno stavku 1. ovoga članka.
