@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 9. Zakona o obrtu (»Narodne novine« 77/93, 90/96, 102/98, 64/01, 71/01, 68/07) i članka 23. Statuta Hrvatske obrtničke komore (»Narodne novine« 21/99, 62/02, 158/02, 101/04, 187/04, 12/06), Skupština Hrvatske obrtničke komore na svojoj 3. sjednici održanoj 14. prosinca 2007. donosi
