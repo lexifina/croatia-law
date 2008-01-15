@@ -1,0 +1,2 @@
+# Članak 76.
+Viši vojnostegovni sud o odlukama u povodu žalbi protiv odluka donesenih u prvostupanjskom stegovnom postupku, o odlukama u povodu žalbi protiv rješenja o udaljenju iz službe i o odlukama Upravnog suda Republike Hrvatske u povodu tužbi protiv rješenja Višeg vojnostegovnog suda jedanput godišnje, a najkasnije do 31. siječnja tekuće godine za proteklu godinu izvješćuje ministra obrane, a ministar obrane vrhovnog zapovjednika Oružanih snaga do 15. veljače tekuće godine.

@@ -1,0 +1,4 @@
+# Članak 75.
+Osobe ovlaštene za izricanje stegovnih mjera o broju i vrsti stegovnih pogrešaka, broju i statusu stranaka te o izrečenim stegovnim mjerama jedanput godišnje, a najkasnije do 15. siječnja tekuće godine za proteklu godinu, izvješćuju nadređene osobe crtom zapovijedanja i rukovođenja do načelnika Glavnog stožera Oružanih snaga.
+Prvostupanjski vojnostegovni sudovi o broju i vrsti stegovnih prijestupa, broju i statusu stranaka te o izrečenim stegovnim sankcijama jedanput godišnje, a najkasnije do 15. siječnja tekuće godine za proteklu godinu, izvješćuju načelnika Glavnog stožera Oružanih snaga i Viši vojnostegovni sud.
+Načelnik Glavnog stožera Oružanih snaga o podacima iz stavka 1. i 2. ovoga članka izvješćuje ministra obrane najkasnije do 31. siječnja tekuće godine, a ministar obrane vrhovnog zapovjednika Oružanih snaga do 15. veljače tekuće godine.
