@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 9. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 105/04. i 142/06.), državni tajnik Središnjeg državnog ureda za upravu, uz suglasnost ministra unutarnjih poslova od 17. rujna 2007. godine, donosi
