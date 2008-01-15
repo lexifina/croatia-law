@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Nadležna lučka kapetanija će u prijavi ili odjavi na obvezno mirovinsko i obvezno zdravstveno osiguranje navesti datum ukrcaja kao datum s kojim počinje i datum iskrcaja kao datum s kojim prestaje obvezno mirovinsko osiguranje člana posade i obvezno zdravstveno osiguranje člana posade i članova njegove obitelji za koje podnosi prijavu ili odjavu.
+(2) Valjani datum ukrcaja i iskrcaja je onaj koji je kao takav upisan u očevidnik pomorskih knjižica i odobrenja za ukrcavanje odnosno ovjeren u pomorskoj knjižici.
+(3) Ako nadležna lučka kapetanija utvrdi da podaci o ukrcaju navedeni u prijavi na obvezno mirovinsko i obvezno zdravstveno osiguranje ne odgovaraju ovjerenom podatku u pomorskoj knjižici podnijeti će nadležnim tijelima prijavu promjene podataka sukladno posebnim propisima.

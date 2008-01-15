@@ -1,0 +1,4 @@
+# Članak 37.
+(1) Pomorac koji je na dan 1. siječnja 2008. godine zatečen u plovidbi kao član posade pomorskog objekta za kojeg prijavu i odjavu u obvezno mirovinsko i obvezno zdravstveno osiguranje obavlja lučka kapetanija, a kojemu svojstvo osiguranika pomorca u Zavodima nije utvrđeno do 31. prosinca 2007. godine, to svojstvo će se utvrditi počevši od 1. siječnja 2008. godine.
+(2) Pomorac iz stavka 1. ovog članka ili posrednik dužan je nadležnoj lučkoj kapetaniji dostaviti sve podatke i dokumente potrebne za podnošenje prijave i odjave na obvezno mirovinsko i obvezno zdravstveno osiguranje u roku ne duljem od deset dana od dana iskrcaja.
+(3) Pomorac, kompanija ili posrednik člana posade koji je zatečen u plovidbi 1. siječnja 2008. godine dužan je dostaviti podatke sukladno odredbama Glave III. ovog Pravilnika najkasnije u roku od deset dana od dana iskrcaja.

@@ -1,0 +1,7 @@
+# Članak 18.
+(1) Podatke o ukrcaju i iskrcaju člana posade, osim zapovjednika, pomorskog objekta hrvatske državne pripadnosti u međunarodnoj plovidbi kada se ukrcaj ili iskrcaj obavlja u inozemstvu, u pomorsku knjižicu odnosno odobrenje za ukrcavanje upisuje zapovjednik.
+(2) Podatke o ukrcaju i iskrcaju zapovjednika pomorskog objekta iz stavka 1. ovog članka u pomorsku knjižicu upisuje kompanija odnosno zapovjednik temeljem pisanog naloga kompanije.
+(3) Član posade je dužan u roku ne duljem od deset dana od dana iskrcaja s pomorskog objekta iz stavka 1. ovog članka dostaviti lučkoj kapetaniji ili ispostavi lučke kapetanije pomorsku knjižicu odnosno odobrenje za ukrcavanje radi ovjere podataka iz stavka 1. i 2. ovog članka.
+(4) U roku ne duljem od deset dana od dana ukrcaja odnosno iskrcaja kompanija dostavlja podatke o ukrcaju ili iskrcaju iz stavka 1. i 2. u središnju bazu podataka, sukladno članku 35. ovog Pravilnika.
+(5) Podatke iz stavka 1. i 2. ovog članka ovjerava lučka kapetanija ili ispostava lučke kapetanije na temelju podataka dostavljenih sukladno stavku 4. ovog članka. U slučaju dvojbe ili razlike u dostavljenim podacima, lučka kapetanija ili ispostava lučke kapetanije utvrđuje točnost podataka temeljem drugih raspoloživih dokaza iz članka 20. ovog Pravilnika.
+(6) Ovjerene podatke iz stavka 5. ovog članka lučka kapetanija ili ispostava lučke kapetanije unosi u očevidnik pomorskih knjižica i odobrenja za ukrcavanje.

@@ -1,0 +1,9 @@
+## Članovi posade pomorskog objekta strane državne pripadnosti
+# Članak 19.
+(1) Podatke o ukrcaju i iskrcaju člana posade pomorskog objekta strane državne pripadnosti u pomorsku knjižicu odnosno odobrenje za ukrcavanje upisuje zapovjednik, posrednik ili lučka kapetanija.
+(2) Za člana posade pomorskog objekta iz stavka 1. ovog članka kojeg ukrcava kompanija ili se ukrcava putem posrednika, posrednik ili kompanija dužna je u roku ne duljem od deset dana od dana iskrcaja člana posade dostaviti nadležnoj lučkoj kapetaniji pomorsku knjižicu odnosno odobrenje za ukrcavanje radi ovjere podataka iz stavka 1. ovog članka.
+(3) Član posade pomorskog objekta iz stavka 1. ovog članka, osim člana posade iz stavka 2. ovog članka dužan je u roku ne duljem od deset dana od dana iskrcaja dostaviti nadležnoj lučkoj kapetaniji pomorsku knjižicu odnosno odobrenje za ukrcavanje radi ovjere podataka iz stavka 1. ovog članka.
+(4) U slučaju iz stavka 2. ovog članka posrednik ili kompanija dostavlja sukladno članku 35. ovog Pravilnika, u središnju bazu podataka, podatke o ukrcaju i iskrcaju iz stavka 1. ovog članka u roku ne duljem od deset dana od dana ukrcaja odnosno iskrcaja.
+(5) U slučaju iz stavka 3. ovog članka član posade dostavlja nadležnoj lučkoj kapetaniji podatke o ukrcaju i iskrcaju iz stavka 1. ovog članka u roku ne duljem od deset dana od dana ukrcaja odnosno iskrcaja.
+(6) Podatke iz stavka 1. ovog članka ovjerava nadležna lučka kapetanija na temelju podataka dostavljenih sukladno stavku 4. ili 5. ovog članka. U slučaju dvojbe ili razlike u dostavljenim podacima, lučka kapetanija utvrđuje točnost podataka temeljem drugih raspoloživih dokaza iz članka 20. ovog Pravilnika.
+(7) Ovjerene podatke iz stavka 6. ovog članka lučka kapetanija unosi u očevidnik pomorskih knjižica i odobrenja za ukrcavanje.

@@ -1,0 +1,2 @@
+# Članak 23.
+Nadležna lučka kapetanija će u roku od 15 dana od dana ukrcaja ili iskrcaja člana posade, a nakon što član posade ili posrednik dostavi potrebne podatke i dokumente, dostaviti nadležnoj službi Hrvatskog zavoda za mirovinsko osiguranje odgovarajuće prijave i odjave na obvezno mirovinsko osiguranje člana posade te nadležnoj službi Hrvatskog zavoda za zdravstveno osiguranje odgovarajuće prijave i odjave na obvezno zdravstveno osiguranje člana posade i članove njegove obitelji sukladno posebnim propisima.

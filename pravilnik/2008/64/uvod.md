@@ -1,0 +1,1 @@
+Na temelju članka 1021. stavak 1. alineja jedanaesta, Pomorskog zakonika (»Narodne novine« broj 181/2004 i 76/2007) i članka 34. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine« broj 76/2007), ministar mora, turizma, prometa i razvitka, donosi
