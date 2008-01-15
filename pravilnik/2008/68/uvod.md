@@ -1,0 +1,1 @@
+Na temelju članka 32. stavak 3. alineja 1. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine« broj 76/2007), a u svezi članka 112. stavak 3., članka 123. i članka 202. stavak 3. Pomorskog zakonika (»Narodne novine« broj 181/2004)
