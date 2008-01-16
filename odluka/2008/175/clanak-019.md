@@ -1,0 +1,2 @@
+# Članak 19.
+Fond je u obvezi zaprimljeni predmet obraditi i ako ispunjava uvjete, ravnatelj daje preporuku Upravnom vijeću za sklapanje ugovora. Na temelju odluke Upravnog vijeća ravnatelj sklapa ugovor, temeljem kojeg se daje nalog Državnoj riznici za isplatu poticaja poslodavcu, odnosno osobi koja se samozapošljava u roku od 10 dana od dana sklapanja ugovora. Redovan poticaj iz članka 14. ove Odluke se odobrava i isplaćuje na žiro-račun poslodavca odnosno osobe koja se samozapošljava.

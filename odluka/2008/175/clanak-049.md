@@ -1,0 +1,3 @@
+# Članak 49.
+(1) Svi zahtjevi sa priloženom potpunom dokumentacijom, zaprimljeni u Fondu do stupanja ove Odluke na snagu, te svi zahtjevi koji se odnose na zahtjeve vezane uz ostvarivanje prava na naknadu doprinosa, smanjeni radni učinka, osobnog asistenta i radnog terapeuta za 2007. godinu bit će riješeni po Odluci o načinu ostvarivanja poticaja pri zapošljavanju osoba s invaliditetom (NN 141/05, 72/07).
+(2) Iznimno kod zahtjeva naknade razlike za smanjeni radni učinak i naknade troškova osobnog asistenta koji se odnose na 2007. godinu pravo na poticaj će se utvrđivati po Odluci o načinu ostvarivanja poticaja pri zapošljavanju osoba s invaliditetom (NN 141/05, 72/07), a postupak će se provesti po ovoj Odluci.

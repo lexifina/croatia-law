@@ -1,0 +1,3 @@
+# Članak 24.
+Fond je u obvezi zaprimljeni predmet obraditi i ako ispunjava uvjete, prosljeđuje predmet nadležnom Povjerenstvu. Povjerenstvo ako su ispunjeni svi uvjeti daje Upravnom vijeću Fonda preporuku za donošenje odluke o sklapanju ugovora. Na temelju odluke Upravnog vijeća ravnatelj sklapa ugovor, temeljem kojeg se daje nalog Državnoj riznici za isplatu poticaja poslodavcu, odnosno osobi koja se samozapošljava u roku od 20 dana od dana sklapanja ugovora. Poseban poticaj iz članka 21. ove Odluke se odobrava i isplaćuje na žiro-račun poslodavca odnosno osobe koja se samozapošljava.
+1.2. Obrazovanje nezaposlenih osoba s invaliditetom u cilju zapošljavanja

@@ -1,0 +1,2 @@
+# Članak 7.
+Fond je u obvezi zaprimljeni predmet obraditi i ako ispunjava uvjete, ravnatelj daje odobrenje za isplatu, temeljem kojeg se daje nalog Državnoj riznici za isplatu poticaja poslodavcu, odnosno osobi koja se samozapošljava u roku od 10 dana od dana primitka zahtjeva. Novčani poticaj iz članka 3. ove Odluke se odobrava i isplaćuje na žiro-račun poslodavca odnosno osobe koja se samozapošljava.
