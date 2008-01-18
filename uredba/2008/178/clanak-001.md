@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom preraspodjeljuju sredstva koja su planirana Odlukom o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvatske u prvom tromjesečju 2008. godine (»Narodne novine«, broj 108/2007 - u daljnjem tekstu: Odluka) sukladno članku 8. stavku 1. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (u daljnjem tekstu: Zakon), te druga pitanja koja su bitna za izvršavanje Odluke.

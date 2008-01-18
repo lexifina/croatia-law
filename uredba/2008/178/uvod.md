@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine«, broj 5/2008), a u vezi s člancima 35. i 48. Zakona o proračunu (»Narodne novine«, broj 96/2003), Vlada Republike Hrvatske je na sjednici održanoj 17. siječnja 2008. godine donijela
