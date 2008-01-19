@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 3. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj 138/06) i članka 4. stavka 2. Zakona o pružanju usluga u turizmu (»Narodne novine«, broj 68/07) ministar mora, turizma, prometa i razvitka, donosi

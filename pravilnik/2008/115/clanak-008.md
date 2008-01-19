@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Pravne i fizičke osobe iz članka 1. ovoga Pravilnika dužne su odmah po stavljanju prigovora dati prvu kopiju prigovora iz knjige žalbi osobi koja je stavila prigovor, a drugu kopiju u roku od pet dana izjavljenog prigovora dostaviti nadležnoj ispostavi područne jedinice Državnog inspektorata.
+(2) Pravne i fizičke osobe iz članka 1. ovoga Pravilnika dužne su odgovoriti na prigovor u roku od 15 dana od dana unošenja prigovora u knjigu žalbi, a kopiju odgovora istovremeno dostaviti nadležnoj ispostavi područne jedinice Državnog inspektorata.
+(3) Ako se u roku iz stavka 2. ovoga članka ne odgovori na stavljeni prigovor, mora se najkasnije u roku od pet dana od dana isteka toga roka o tome izvijestiti nadležnu ispostavu područne jedinice Državnog inspektorata s obrazloženjem zbog čega nije u roku odgovoreno.
