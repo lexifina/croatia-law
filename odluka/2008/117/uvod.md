@@ -1,0 +1,1 @@
+Na temelju čl. 30. a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06 i 26/07 - Odluka USRH) i članka 21. i 48. Statuta Općine Žminj(Sl. glasnik br. 6/01) Općinsko vijeće Općine Žminj na sjednici održanoj 27. prosinca 2007. donijelo je
