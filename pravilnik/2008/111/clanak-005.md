@@ -1,0 +1,12 @@
+## Promjene u poslovanju
+# Članak 5.
+(1) Zračni prijevoznik mora unaprijed obavijestiti Agenciju o planovima za: uvođenje nove usluge, nove linije, promjenama tipa ili broja korištenih zrakoplova ili znatnoj promjeni opsega djelatnosti.
+(2) Zračni prijevoznik mora unaprijed obavijestiti Agenciju o planovima za uvođenje nove usluge prema kontinentu ili dijelu svijeta a koje ranije nije pružao, promjenama tipa ili broja zrakoplova, znatnijoj promjeni opsega djelatnosti. Također mora unaprijed obavijestiti Agenciju o namjeravanim udruživanjima ili preuzimanjima i u roku od četrnaest dana obavijestiti Agenciju o svakoj promjeni vlasništva koje je 10% ili više od ukupnog vlasništva zračnog prijevoznika ili njegovog matičnog ili osnovnog holding društva. Podnošenje dvanaesto-mjesečnog poslovnog plana dva mjeseca prije razdoblja na koje se odnosi u skladu s ovim stavkom smatra se prihvatljivom obaviješću o promjenama tekućeg poslovanja i/ili uvjeta koji su uključeni u poslovni plan.
+(3) Zračni prijevoznik koji posjeduje važeću Operativnu licenciju - tip A i planira promjenu vlasničke strukture ili djelatnosti što će znatno utjecati na njegove financije, radi procjene daljnje financijske sposobnosti treba priložiti:
+1. Najnoviju internu bilancu uprave i završno financijsko izvješće za prethodnu poslovnu godinu s mišljenjem revizora.
+2. Precizne pojedinosti o svim predloženim promjenama npr. promjeni vrste usluge, predviđenom preuzimanju ili udruživanju, promjenama u dioničkom kapitalu, promjenama dioničara, itd.
+3. Projiciranu bilancu s računom dobiti i gubitka za tekuću financijsku godinu, uključujući sve predložene promjene u strukturi ili djelatnostima koje će znatno utjecati na financijsku sposobnost.
+4. Prethodne i projicirane iznose rashoda i prihoda za stavke kao što su gorivo, prevoznine i tarife, plaće, održavanje, amortizacija, promjene tečaja, aerodromske pristojbe, osiguranje, itd. Prognoze prometa/prihoda.
+5. Izjave o priljevu sredstava i planovima likvidnosti za iduću godinu, uključujući sve predviđene promjene u strukturi ili djelatnostima koje će znatno utjecati na financijsku sposobnost.
+6. Detaljne podatke o financiranju kupnje/leasinga zrakoplova, uključujući u slučaju leasinga, rokove i uvjete iz ugovora.
+(4) Ako promjene značajno utječu na financijski položaj zračnog prijevoznika, zračni prijevoznik mora podnijeti i izmijenjeni poslovni plan koji obuhvaća te promjene i koji pokriva razdoblje od najmanje 12 mjeseci od dana uvođenja promjena.
