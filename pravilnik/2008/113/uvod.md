@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 5., članka 20. stavka 5., članka 22. stavka 4., članka 36. stavka 2. i članka 38. stavka 7. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj 138/06) ministar mora, turizma, prometa i razvitka, donosi
