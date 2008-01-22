@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Vijeće pobliže utvrđuje sadržaj prijave i popis dokumentacije koja se dostavlja uz prijavu, te ih objavljuje kao sastavni dio teksta javnog natječaja.
+(2) Rok za podnošenje prijave na javni natječaj za raspodjelu sredstava Fonda je 45 dana od dana objave natječaja.
+(3) Prijava s natječajnom dokumentacijom dostavlja se u jednom originalnom primjerku i sedam preslika. Najkasnije u roku od 10 dana od isteka roka do kojega je natječaj otvoren, svaki član Vijeća dužan je, uz ovjeru, preuzeti svoj primjerak svake pristigle prijave. Članovi Vijeća mogu svaku prijavu preuzeti i odmah po njenom zaprimanju. Članovi Vijeća preuzimaju prijave u Stručnoj službi Agencije. Ravnatelj Agencije svojom će odlukom odrediti odgovornu osoba za evidentiranje zaprimanja prijava.
+(4) Do donošenja Odluke o dodjeli sredstava prijave se smatraju službenom tajnom. U slučaju ako je to opravdano odgovarajućim zakonskim odredbama, nadležna osoba može proglasiti prijave službenom tajnom i nakon donošenja Odluke o dodjeli sredstava.
