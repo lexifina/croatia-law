@@ -1,0 +1,3 @@
+# Članak 40.
+(1) Skupina računa 24 - Obveze za rashode sadrži obveze koje se u trenutku nastanka priznaju kao rashod na računima razreda 4 - Rashodi, a to su obveze za: zaposlene, materijalne rashode, financijske rashode, prikupljena sredstva pomoći, kazne i naknade šteta te ostale tekuće obveze.
+(2) Obveze za prikupljena sredstva pomoći (područjima pogođenim prirodnim katastrofama, skupinama stanovništva s posebnim potrebama, institucijama za nabavu medicinske opreme i slično) evidentiraju se u trenutku primitka novca na račun. Kada neprofitna organizacija prikupljena sredstva pomoći proslijedi krajnjim korisnicima priznaju se rashodi za danu donaciju i prihodi od donacija.
