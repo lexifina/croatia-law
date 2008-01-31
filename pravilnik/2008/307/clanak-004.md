@@ -1,0 +1,4 @@
+# Članak 4.
+Članak 5. mijenja se i glasi:
+»Ako Nacionalni ENIC/NARIC ured zaprimi zahtjev za stručno priznavanje inozemne visokoškolske kvalifikacije ili ako visoko učilište u Republici Hrvatskoj zaprimi zahtjev za akademsko priznavanje inozemne visokoškolske kvalifikacije ili razdoblja studija, odnosno ECTS bodova, uz koji nije dostavljen dokaz da je uplaćena naknada za troškove postupka ili ako naknada nije uplaćena u punom iznosu, pisanim putem će pozvati podnositelja zahtjeva da dostavi dokaz o plaćenoj naknadi, odnosno dokaz da je oslobođen plaćanja naknade, sukladno članku 7. ovog pravilnika, u roku 15 dana od dana dostave pisane obavijesti.
+Rješenje o akademskom i stručnom priznavanju inozemne visokoškolske kvalifikacije ili razdoblja studija, odnosno ECTS bodova, neće biti dostavljeno podnositelju zahtjeva prije nego što dostavi dokaz o plaćenoj naknadi, odnosno dokaz da je oslobođen od plaćanja naknade.«
