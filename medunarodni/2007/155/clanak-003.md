@@ -1,0 +1,2 @@
+# Članak 3.
+Provedba Sporazuma iz članka 1. ove Uredbe u djelokrugu je Ministarstva gospodarstva, rada i poduzetništva, Ministarstva znanosti, obrazovanja i športa, Ministarstva kulture, Ministarstva zdravstva i socijalne skrbi, Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, Ministarstva mora, turizma, prometa i razvitka, Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva, Ministarstva vanjskih poslova i europskih integracija, Ministarstva pravosuđa i Središnjega državnog ureda za upravu.
