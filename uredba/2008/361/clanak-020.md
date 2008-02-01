@@ -1,0 +1,9 @@
+## ZAPRIMANJE I OTVARANJE ELEKTRONIČKI DOSTAVLJENIH PONUDA
+## Informacijski sustav javne nabave
+# Članak 20.
+(1) Informacijski sustav javne nabave kojeg koriste naručitelji iz članka 3. i članka 4. Zakona o javnoj nabavi, mora omogućiti Uredu za javnu nabavu Vlade Republike Hrvatske, Državnoj komisiji za kontrolu postupaka javne nabave i Državnom odvjetništvu Republike Hrvatske, u svrhu obavljanja poslova iz njihovih nadležnosti, slobodan, bez odgode i besplatan pristup svim podacima iz informacijskog sustava javne nabave, elektronički dostavljenoj dokumentaciji za nadmetanje, ponudama i ispravama koje su u vezi s ocjenom elektronički dostavljene ponude, provedbom elektroničke dražbe i dinamičkog sustava nabave.
+(2) Informacijski sustav javne nabave mora ispunjavati uvjete iz članka 30. i članka 78. stavka 2. Zakona o javnoj nabavi.
+(3) Informacijski sustav javne nabave mora osigurati funkcionalnu, tehnološku i sigurnosnu cjelovitost kojom se osigurava jednaka razina sigurnosti, urednosti i dokumentiranosti svih postupaka i radnji tijekom cijeloga postupka javne nabave.
+(4) Uspostavljeni informacijski sustav javne nabave mora omogućiti elektronički podržanu pohranu podataka o provedenim postupcima javne nabave i sve prateće dokumentacije.
+(5) Sigurnosna razina informacijskog sustava javne nabave mora biti usklađena s važećim propisima u području javne nabave, te propisima kojima se uređuje elektronički potpis, elektronička trgovina, elektroničke isprave i sustav certificiranja i obveznog osiguranja davatelja usluga izdavanja kvalificiranih certifikata.
+(6) U informacijskom sustavu javne nabave Republike Hrvatske kao referentno vrijeme koristi se službeno vrijeme u Republici Hrvatskoj prema Zakonu o računanju vremena (»Narodne novine«, br. 27/93, 33/96), uz dozvoljeno odstupanje od jedne sekunde.
