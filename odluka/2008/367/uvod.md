@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o državnim potporama (»Narodne novine«, broj 140/2005) i članka 3. Uredbe o državnim potporama (»Narodne novine«, broj 50/2006), Vlada Republike Hrvatske je na sjednici održanoj 24. siječnja 2008. godine donijela
