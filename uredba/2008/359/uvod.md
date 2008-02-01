@@ -1,0 +1,1 @@
+Na temelju članka 9., stavka 4., članka 10. stavka 2. i članka 32. stavka 1. alineje 2. Zakona o javnoj nabavi (»Narodne novine«, broj 110/2007), Vlada Republike Hrvatske je na sjednici održanoj 24. siječnja 2008. godine donijela
