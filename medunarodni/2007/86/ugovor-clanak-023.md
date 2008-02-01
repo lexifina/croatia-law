@@ -1,0 +1,6 @@
+# Članak 23.
+KAZNE I MJERE
+1. Svaka će stranka usvojiti zakonodavne ili druge mjere koje su potrebne da osigura da kaznena djela utvrđena u skladu s člancima 18. do 21. budu kažnjiva sankcijama koje su učinkovite, razmjerne i odvraćaju od počinjenja kaznenih djela. Kazne za kaznena djela utvrđena u skladu s člankom 18., kada su počinitelji fizičke osobe, bit će i kazne koje uključuju lišavanje slobode i mogu dovesti do izručenja.
+2. Svaka će stranka osigurati da pravne osobe koje su odgovorne u skladu s člankom 22. budu kažnjene kaznenim ili nekaznenim sankcijama ili mjerama koje su učinkovite, razmjerne i odvraćaju od počinjenja kaznenih djela, uključujući i novčane kazne.
+3. Svaka će stranka usvojiti zakonodavne ili druge mjere koje su potrebne kako bi joj omogućile da zaplijeni ili na drugi način oduzme sredstva počinjenja i zaradu od kaznenih djela utvrđenih u skladu s člancima 18. i 20. stavkom a) ove Konvencije, ili imovinu čija vrijednost odgovara toj zaradi.
+4. Svaka stranka će usvojiti zakonodavne ili druge mjere koje su potrebne da se omogući privremeno ili trajno zatvaranje svakog poslovnog nastana koji je korišten za provođenje trgovanja ljudima, ne dovodeći u pitanje prava trećih osoba koje su djelovale u dobroj vjeri, ili izricanje privremene ili trajne zabrane počinitelju da se bavi djelatnošću tijekom koje je kazneno djelo počinjeno.

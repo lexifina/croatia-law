@@ -1,0 +1,9 @@
+# Članak 10.
+IDENTIFIKACIJA ŽRTAVA
+1. Svaka stranka u svojim će nadležnim tijelima imati osobe koje su prošle izobrazbu i koje su kvalificirane za sprječavanje i suzbijanje trgovanja ljudima, za identifikaciju i pružanje pomoći žrtvama, uključujući djecu, te će osigurati da različita tijela međusobno surađuju, te da surađuju s mjerodavnim potpornim organizacijama, kako bi žrtve bile identificirane u postupku koji na odgovarajući način uzima u obzir posebnu situaciju u kojoj su se našle žrtve koje su žene i djeca i kako bi im se, kad je to potrebno, izdale dozvole boravka u skladu s uvjetima iz članka 14. ove Konvencije.
+2. Svaka će stranka usvojiti zakonodavne ili druge mjere koje su potrebne kako bi se žrtve identificirale na odgovarajući način u suradnji s drugim strankama i mjerodavnim potpornim organizacijama. Svaka stranka će osigurati da, u slučaju da nadležna tijela imaju opravdane razloge za sumnju da je neka osoba bila žrtva trgovanja ljudima, ta osoba ne bude uklonjena s njenog državnog područja sve dok nadležna tijela ne okončaju identifikacijski postupak kojim prepoznaju žrtvu kaznenog djela opisanog u članku 18. ove Konvencije i na sličan će način osigurati da ta osoba dobije pomoć koja je opisana u članku 12. stavcima 1. i 2.
+3. Kad nije sigurno kolika je starosna dob žrtve, a postoje razlozi za vjerovanje da je žrtva dijete, osoba će se smatrati djetetom i pružit će joj se posebne zaštitne mjere sve do utvrđivanja njegove/njezine dobi.
+4. Čim se utvrdi da je dijete bez pratnje žrtva, svaka stranka će:
+a) osigurati da dijete zastupa zakonski skrbnik, organizacija ili tijelo koje će djelovati u najboljem interesu toga djeteta,
+b) poduzeti potrebne mjere za utvrđivanje djetetova identiteta i državljanstva,
+c) poduzeti sve potrebne napore kako bi se pronašla djetetova obitelj, ako je to u djetetovu najboljem interesu.

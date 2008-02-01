@@ -1,0 +1,5 @@
+# Članak 13.
+RAZDOBLJE OPORAVKA I RAZMIŠLJANJA
+1. Svaka će stranka u svom domaćem zakonodavstvu osigurati razdoblje oporavka i razmišljanja u trajanju od najmanje 30 dana, kad postoje opravdani razlozi za vjerovanje da je osoba žrtva. To će razdoblje biti dovoljno da se osoba oporavi i pobjegne od utjecaja počinitelja trgovanja ljudima i/ili da donese upućenu odluku o suradnji s nadležnim tijelima. Tijekom tog razdoblja neće se moći izvršiti nikakav nalog za protjerivanje takve osobe. Ova odredba ne dovodi u pitanje radnje koje nadležna tijela izvršavaju u svim fazama mjerodavnih domaćih postupaka, a posebice kad je riječ o istrazi i kaznenom progonu počinitelja predmetnih kaznenih djela. Tijekom tog razdoblja stranke će osobama na koje se ova odredba odnosi dozvoliti da ostanu u njihovu državnom području.
+2. Tijekom toga razdoblja osobe iz stavka 1. ovoga članka imat će pravo na mjere navedene u članku 12. stavcima 1. i 2.
+3. Stranke nisu dužne poštivati ovo razdoblje ako ih u tome sprečava potreba održavanja javnog reda i mira ili ako se utvrdi da se osoba neutemeljeno pozivala na status žrtve.

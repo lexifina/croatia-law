@@ -1,0 +1,5 @@
+# Članak 44.
+PODRUČJE PRIMJENE
+1. Svaka država ili Europska zajednica mogu, u vrijeme potpisivanja ili prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, odrediti područje ili područja na koje će se ova Konvencija primjenjivati.
+2. Svaka stranka može poslije, u svako doba nakon toga, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na bilo koje drugo područje navedeno u izjavi, a za čije je međunarodne odnose ona odgovorna ili u čije je ime ovlaštena preuzimati obveze. U odnosu na takvo područje, Konvencija stupa na snagu prvoga dana mjeseca nakon isteka razdoblja od tri mjeseca od datuma kad glavni tajnik primi takvu izjavu.
+3. Svaka izjava dana u skladu s dva prethodna stavka, u odnosu na bilo koje područje navedeno u toj izjavi, može se povući obaviješću upućenom glavnom tajniku Vijeća Europe. Povlačenje stupa na snagu prvoga dana mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca nakon datuma kad glavni tajnik primi takvu obavijest.
