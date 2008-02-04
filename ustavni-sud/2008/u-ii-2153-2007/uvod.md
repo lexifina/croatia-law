@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Željko Potočnjak, predsjedavajući sudac, te suci Marko Babić, Mario Kos, Davor Krapac, Ivan Matija, Jasna Omejec, Agata Račan, Aldo Radolović i Nevenka Šernhorst, odlučujući o zahtjevu za ocjenu suglasnosti drugog propisa s Ustavom i zakonom, na sjednici održanoj 16. siječnja 2008. godine, donio je
