@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 16. stavka 6. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 85/06., 105/06., 118/06., 77/07. i 111/07.) i članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 16/02., 24/02. i 58/03.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 53. sjednici održanoj 15. siječnja 2008. godine donijelo je
