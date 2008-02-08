@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Stručne poslove vezane uz održavanje i korištenje baza podataka iz evidencija navedenih u članku 2. ovog Pravilnika, u Ministarstvu obavlja ustrojbena jedinica kojoj je pravilima o unutarnjem ustroju Ministarstva povjereno obavljanje stručnih poslova razvoja i održavanja informacijskog sustava, korisničkih aplikacija i baza podataka te njihovo dokumentiranje.
+(2) Ustrojbena jedinica iz stavka 1. ovog članka će izraditi protokol u kojem će se utvrditi definicije termina, formati, šifrarnici, pravila autorizacije i autentifikacije, pravila za formiranje šifri (ustanova, obrazovnih programa), načine pristupa, prihvata i slanja podataka te mjere zaštite.
