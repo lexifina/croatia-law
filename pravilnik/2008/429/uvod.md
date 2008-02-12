@@ -1,0 +1,1 @@
+Na temelju članka 76. stavka 4. i članka 111. stavka 4. i članka 1022. Pomorskog zakonika (»Narodne novine« broj 181/04 i 76/07) ministar zdravstva i socijalne skrbi uz suglasnost ministra mora, turizma, prometa i razvitka, donosi
