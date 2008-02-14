@@ -1,0 +1,1 @@
+Na temelju članka 123. stavaka 1., 2., 5. i 10. Zakona o zaštiti potrošača (»Narodne novine«, br. 79/2007 i 125/2007), Vlada Republike Hrvatske je na sjednici održanoj 14. veljače 2008. godine, donijela
