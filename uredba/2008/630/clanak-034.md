@@ -1,0 +1,6 @@
+# Članak 34.
+Naslov iznad članka 47. i članak 47. mijenjaju se i glase:
+»5.1.2. Odsjek za savjetodavnu i pravnu pomoć te praćenje kvalitete stanovanja
+Članak 47.
+Odsjek za savjetodavnu i pravnu pomoć te praćenje kvalitete stanovanja obavlja pravne i stručne poslove u svezi s ostvarivanjem prava na stambeno zbrinjavanje, prati stanje u primjeni zakonskih propisa koji reguliraju navedenu oblast, prati i pomaže u postupcima ostvarivanja prava na građevinsko zemljište, građevinsku dozvolu, komunalne priključke, tumači i objašnjava provedbene urbanističke planove, daje savjete, odgovara na dopise i podneske, organizira i provodi natječaje za kupnju stanova na slobodnom tržištu, brine o stanovima koje koriste roditelji koji ih ne mogu otkupiti (II. nasljedni red), koordinira rad Stručne komisije, obavlja izvide na terenu, vrši procjenu nekretnina, provjerava vlasničku dokumentaciju, prati namjensko korištenje dodijeljenih stambenih kredita, radi poslove etažiranja, uknjižbe i prijenos prava vlasništva.
+Izrađuje kupoprodajne ugovore, prati kvalitetu izgrađenih stanova, surađuje s predstavnicima stanova, izvođačima radova, upraviteljima zgrada, organizira otklanjanje nedostataka na izgrađenim stanovima, čuva dokumentaciju kojom se jamči kvaliteta izgrađenih stanova.«.

@@ -1,0 +1,3 @@
+# Članak 52.
+Članak 64. mijenja se i glasi:
+»Odsjek pravnih poslova obavlja poslove izrade odluka i odgovora na predstavke, rješenja i odobrenja glede uvjeta za rad, izrada zakonskih i podzakonskih akata; izrada nacrta osnivačkih akata ustanova iz nadležnosti Uprave; provođenje postupka u svezi javnog natječaja za imenovanje ravnatelja obiteljskih centara i izrada ugovora o radu i prestanku radnog odnosa za ravnatelje obiteljskih centara; izrada odluka o osnivanju i prestanka rada ustanova iz nadležnosti Uprave; davanja suglasnosti na statute i druge opće akte, statusne promjene ustanova kojih je osnivač Ministarstvo iz nadležnosti Uprave, vođenja propisanih očevidnika.«.

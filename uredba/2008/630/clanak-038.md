@@ -1,0 +1,7 @@
+# Članak 38.
+Naslov iznad članka 50. i članak 50. mijenjaju se i glase:
+»5.3. Odjel za gospodarenje
+Članak 50.
+Odjel za gospodarenje obavlja poslove gospodarenja i najma dodijeljenih stanova članovima obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskoga branitelja i HRVI iz Domovinskoga rata, otkup dodijeljenih stanova i izračun cijene stana te šifriranje stanova, te evidenciju dodijeljenih stanova.
+Obavlja poslove otkupa stanova; priprema zahtjeve za otkup stana, prikuplja dokumentaciju vezanu za otkup, pravno obrađuje spis predmeta; obavlja izračun cijene stana, priprema ugovore o kupoprodaji, te ih podnosi Državnom odvjetništvu Republike Hrvatske na mišljenje; obavlja kontrolu uplate mjesečnih obroka za otkupljene stanove koji su prodani na obročnu otplatu, te poduzima mjere naplate neuplaćenih iznosa duga, pruža stručnu i pravnu pomoć korisnicima prava na otkup stanova, a u vezi uknjižbe prava vlasništva, te izdavanje tabularnih isprava, vodi evidenciju i šifriranje stanova, izrađuje ugovore o najmu stanova, anekse ugovora o najmu stanova, vrši kontrolu uplate najamnine, dostavlja mjesečne uplatnice s naslova najamnine kao i opomene zbog neplaćanja iste, te obavlja sve druge financijsko pravne poslove vezane za najam i upravljanje stambenim zgradama, suradnju s predstavnicima stanara i izvođača radova, te otklanjanje nedostataka u jamstvenom roku.
+Odjel obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom ili drugim propisima.«.
