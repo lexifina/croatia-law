@@ -1,0 +1,11 @@
+1. Hrvatska narodna banka u suradnji s Hrvatskim novčarskim zavodom d.o.o. iz Zagreba izdaje prigodni zlatni kovani novac u povodu 150. obljetnice rođenja Andrije Mohorovičića, istaknutog znanstvenika na području meteorologije i seizmologije, koji spada među najveće hrvatske znanstvenike, a svjetski ga geofizičari uvrštavaju među istaknute velikane seizmologije XX. stoljeća.
+2. Prigodni zlatni kovani novac iz točke 1. ove odluke izdaje se u apoenu od 1000 kuna, u količini od 2000 komada i u ukupnom iznosu od 2,000.000,00 kuna.
+3. Prigodni zlatni kovani novac iz točke 2. ove odluke bit će izrađen od zlata stupnja čistoće 986/1000, u specijalnoj tehnici kovanja kojom se postiže kakvoća polirane ploče, s visokosjajnim ravnim površinama i matiranim reljefnim detaljima prigodnih motiva. Zlatni kovani novac imat će masu od 7 grama i promjer od 22 milimetra.
+4. Prigodni zlatni kovani novac od 1000 kuna s lica izgleda ovako: u središnjem dijelu prikaz je portreta Andrije Mohorovičića. Iznad prikaza portreta, polukružno uz rub, ispisan je tekst »ANDRIJA MOHOROVIČIĆ 1857.-1936.«.
+5. Prigodni zlatni kovani novac od 1000 kuna s naličja izgleda ovako: u središnjem je dijelu prikaz planeta Zemlje, sa stiliziranim segmentom kore i plašta Zemlje, unutar kojeg je izdvojena ploha nazvana Mohorovičićevim diskontinuitetom, što je posebno obilježeno natpisom »MOHO« u dodatnom krugu koji je povezan sa stiliziranim segmentom. Iznad prikaza planeta Zemlje, uz rub gornjeg polukruga, ispisan je tekst »REPUBLIKA HRVATSKA«, a ispod teksta godina izdanja »2007.«. Lijevo od prikaza planeta Zemlje, uz rub središnjeg dijela, prikaz je grba Republike Hrvatske. Ispod prikaza planeta Zemlje, uz donji rub, oznaka je nominalne vrijednosti »1000« i oznaka novčane jedinice »KUNA«.
+6. Autor je idejnog i likovnog rješenja zlatnoga kovanog novca od 1000 kuna Stjepan Divković, akademski kipar.
+7. Prigodni zlatni kovani novac iz točke 2. ove odluke prodavat će se po cijeni od 1.700,00 kuna za komad.
+8. Prodaju prigodnoga zlatnoga kovanog novca iz točke 2. ove odluke obavljat će Hrvatska narodna banka i Hrvatski novčarski zavod d.o.o. iz Zagreba.
+9. Prigodni zlatni kovani novac iz točke 2. ove odluke pustit će se u prodaju 25. veljače 2008.
+10. Ova odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 713/2008.
