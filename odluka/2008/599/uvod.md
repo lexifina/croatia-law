@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 1. točke 2. Zakona o bankama (»Narodne novine«, br. 84/2002. i 141/2006.) i članka 25. i 39. stavka 2. pod i) Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001. i 135/2006.) guverner Hrvatske narodne banke donosi sljedeću
