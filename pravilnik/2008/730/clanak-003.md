@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Fizička osoba koja je stalno zaposlena u društvu za upravljanje, ovlaštena za prodaju i promicanje prodaje udjela u investicijskim fondovima s privatnom ponudom mora ispunjavati sljedeće uvjete:
+1. poznavanje hrvatskog jezika (strani državljani dokazuju potvrdom o znanju hrvatskog jezika izdanom od Odsjeka za kroatistiku filozofskih fakulteta u Republici Hrvatskoj),
+2. posjedovanje najmanje srednje stručne spreme (dokazuje se ovjerenom preslikom svjedodžbe o završenoj srednjoj školi, odnosno svjedodžbom o položenoj maturi ili završnom ispitu, a strani državljani odgovarajućom ispravom kojom se dokazuje potreban stupanj obrazovanja, koja mora biti prevedena i potpisana od ovlaštenog sudskog tumača, te ovjerena od javnog bilježnika u Republici Hrvatskoj ili u diplomatskom predstavništvu Republike Hrvatske u inozemstvu) i
+3. da nije pokrenut kazneni postupak za kaznena djela iz područja gospodarskog kriminala (dokazuje se uvjerenjem o nekažnjavanju izdanim od nadležnog tijela Republike Hrvatske, a strani državljani i uvjerenjem nadležnog tijela zemlje čiji su državljani, ovjerenim kao pod točkom 2. ovog stavka).
+(2) Društvo za upravljanje obvezno je, pri dodjeli poslova prodaje udjela investicijskih fondova s privatnom ponudom, provjeriti ispunjavanje uvjeta iz stavka 1. ovog članka.

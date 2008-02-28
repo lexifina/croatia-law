@@ -1,0 +1,1 @@
+Na temelju odredbe članka 193. Zakona o investicijskim fondovima (»Narodne novine« broj 150/05; u daljnjem tekstu: Zakon) Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: Agencija) donijela je 14. veljače 2008. godine
