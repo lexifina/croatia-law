@@ -1,0 +1,3 @@
+# Članak 4.
+Zahtjev za izdavanje suglasnosti stranac podnosi osobno, uredu državne uprave u županiji, odnosno uredu Grada Zagreba prema mjestu sjedišta trgovačkog društva ili obrta, a za pružatelja usluga u ime inozemnog poslodavca prema mjestu sjedišta trgovačkog društva u Republici Hrvatskoj s kojim inozemni poslodavac ima sklopljen ugovor.
+Iznimno, stranac-osnivač vlastitog trgovačkog društva, obrtnik koji ima registriranu poslovnu aktivnost u Republici Hrvatskoj, osoba koja se bavi slobodnim zanimanjem, sukladno propisima Republike Hrvatske i pružatelj usluga u ime inozemnog poslodavca, zahtjev za izdavanje suglasnosti može podnijeti i putem ovlaštenog punomoćnika.

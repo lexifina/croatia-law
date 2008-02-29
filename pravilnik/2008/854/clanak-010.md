@@ -1,0 +1,2 @@
+# Članak 10.
+Iznimno od članka 9. ovoga Pravilnika pružatelji usluga turističkog zastupnika i pružatelji usluga turističkog animatora uz potvrdu o podnesenom zahtjevu za izdavanje poslovne dozvole nadležnoj policijskoj upravi odnosno policijskoj postaji, moraju priložiti potvrdu o upisu u Upisnik ugovora o turističkom zastupanju pri ministarstvu nadležnom za turizam, odnosno ugovor o pružanju usluga turističkog animatora u Republici Hrvatskoj.
