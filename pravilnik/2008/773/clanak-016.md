@@ -1,0 +1,2 @@
+# Članak 16.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o mjerilima za razvrstavanje otrova u skupine (»Narodne novine« br. 47/99), Pravilnik o označavanju i obilježavanju otrova koji se stavljaju u promet (»Narodne novine« br. 47/99 i 187/04), Pravilnik o vrstama ambalaže i načinu rukovanja ambalažom za otrove (»Narodne novine« br. 39/03) i Lista otrova koji se mogu stavljati u promet (»Narodne novine« br. 30/05).
