@@ -1,0 +1,3 @@
+# Članak 5.
+ČLANSTVO MEĐUVLADINIH ORGANIZACIJA
+Svako pozivanje u ovom Sporazumu na »vladu« ili »vlade« tumačit će se tako da uključuje Europsku ekonomsku zajednicu i bilo koju međuvladinu organizaciju koja je nadležna za pregovaranje, sklapanje i primjenu međunarodnih ugovora, posebice robnih sporazuma. Sukladno tome, svako pozivanje u ovom Sporazumu na potpisivanje, ratifikaciju, prihvat ili odobrenje, ili na obavijest o privremenoj primjeni ili pristupu tumačit će se, u slučaju međuvladinih organizacija, tako da uključuje pozivanje na potpisivanje, ratifikaciju, prihvat ili odobrenje, obavijest o privremenoj primjeni ili pristupanju od strane međuvladinih organizacija.

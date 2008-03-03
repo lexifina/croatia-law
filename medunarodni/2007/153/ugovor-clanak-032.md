@@ -1,0 +1,4 @@
+# Članak 32.
+INFORMACIJE I STUDIJE
+1. Organizacija djeluje kao središte za prikupljanje i objavljivanje svih statističkih podataka te studija o svjetskoj proizvodnji, cijenama, izvozu i uvozu, potrošnji i zalihama šećera (uključujući sirovi i prerađeni šećer) te ostalih sladila, kao i o porezima na šećer i ostala sladila.
+2. Članice se obvezuju da će kroz vremenski rok koji može biti utvrđen u poslovniku dostaviti Organizaciji sve dostupne statističke podatke i informacije koje omogućavaju Organizaciji da izvršava svoje zadaće utvrđene ovim Sporazumom. Ukoliko se pojavi potreba, Organizacija će upotrijebiti relevantne informacije dostupne iz drugih izvora. Organizacija neće objavljivati podatke kojima bi se moglo identificirati aktivnosti osoba ili poduzeća koja se bave proizvodnjom, obradom ili trgovinom šećera.
