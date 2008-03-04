@@ -1,0 +1,2 @@
+# Članak 4.
+Suglasnost za izradu nacrta detaljnih planova uređenja i obavljanje poslova u vezi pripreme i donošenja detaljnih planova uređenja daje se ovlaštenom arhitektu koji poslove obavlja samostalno u vlastitom ili zajedničkom uredu ako je magistar inženjer arhitekture, ako ima položeni stručni ispit za poslove prostornog i urbanističkog planiranja, najmanje 5 godina radnog iskustva na stručnim poslovima prostornog uređenja i ako je sudjelovao u izradi prostornih planova.

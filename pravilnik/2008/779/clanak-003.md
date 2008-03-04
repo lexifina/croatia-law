@@ -1,0 +1,2 @@
+# Članak 3.
+Suglasnost za izradu nacrta detaljnih planova uređenja i obavljanje poslova u vezi pripreme i donošenja detaljnih planova uređenja daje se pravnoj osobi koja u punom radnom vremenu na neodređeno vrijeme ima zaposlenog najmanje jednog magistra inženjera arhitekture koji ima status ovlaštenog arhitekta, odnosno ovlaštenog arhitekta urbanista, položeni stručni ispit za poslove prostornog i urbanističkog planiranja i najmanje 5 godina radnog iskustva na stručnim poslovima prostornog uređenja koji je sudjelovao u izradi prostornih planova.
