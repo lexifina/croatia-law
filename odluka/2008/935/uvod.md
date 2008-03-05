@@ -1,0 +1,1 @@
+Na temelju članka 9. stavak 3. Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine« broj 199/03, 30/04, 136/04, 22/05 i 44/06), ministar gospodarstva, rada i poduzetništva donosi
