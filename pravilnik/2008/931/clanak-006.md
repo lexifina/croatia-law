@@ -1,0 +1,4 @@
+# Članak 6.
+Evidencija fizičkih osoba (pojedinac, obrtnik ili odgovorna osoba u pravnoj osobi) sadrži sljedeće podatke: ime i prezime osobe, ime i prezime roditelja, djevojačko prezime majke, datum, mjesto i državu rođenja, državljanstvo, MBG, zanimanje i prebivalište.
+Evidencija pravnih osoba i s njom po Prekršajnom zakonu izjednačenim subjektima sadrži sljedeće podatke: tvrtku odnosno naziv pravne osobe, njezino sjedište i matični broj subjekta (MBS) iz sudskog registra u Republici Hrvatskoj.
+Evidencija pravomoćnih odluka sadrži: naziv suda odnosno tijela državne uprave koje su sankciju izrekle, broj i datum odluke, datum pravomoćnosti, zakonski naziv prekršaja, datum počinjenja prekršaja, koji je zakon primijenjen i koje odredbe zakona, te vrstu prekršajne sankcije koja je izrečena s naznakom njezina trajanja.

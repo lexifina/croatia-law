@@ -1,0 +1,149 @@
+Obrazac br. 1
+___________________
+___________________
+(naziv tijela koje daje podatke)
+Broj:___________________ REPUBLIKA HRVATSKA
+Datum:_________________ MINISTARSTVO PRAVOSUĐA
+Uprava za kazneno pravo
+Odjel za prekršajne evidencije
+Na temelju članka 8. Pravilnika o prekršajnoj evidenciji, dostavlja se
+IZVADAK PODATAKA
+Iz pravomoćne odluke o prekršaju za osuđenika:
+JMB_______________________________________________
+Ime:_______________________________________________
+Prezime:___________________________________________
+Državljanstvo:_______________________________________
+Djev. prezime________________________________________
+Zanimanje:__________________________________________
+Prebivalište (naselje, ulica, kbr., država)____________________
+Ime oca:____________________________________________
+Ime majke:______________Dj. prezime majke______________
+Dan, mjesec i god. rođenja _________ Mjesto rođenja ________
+Država_____________________________________________
+Broj i datum odluke___________________________________
+Pravomoćna_________________ Datum počinjena__________
+Vrsta, visina, vrijeme trajanja kazne:_______________________
+__________________________________________________
+Zaštitna mjera:_______________________________________
+Oduzimanje imovinske koristi____________________________
+Napomena:_________________________________________
+Zakonski naziv i koje su odredbe zakona primijenjene_________
+__________________________________________________
+M.P. _____________________
+(potpis ovlaštene osobe)
+Obrazac br. 2.
+___________________
+___________________
+(naziv tijela koje daje podatke)
+Broj:___________________
+Datum:_________________
+REPUBLIKA HRVATSKA
+MINISTARSTVO PRAVOSUĐA
+Uprava za kazneno pravo
+Odjel za prekršajne evidencije
+Na temelju članka 8. Pravilnika o prekršajnoj evidenciji, dostavlja se
+IZVADAK PODATAKA
+Iz pravomoćne odluke o prekršaju za pravnu osobu ili s njom izjed-
+načenog subjekta:
+Matični broj tvrtke, odnosno pravne osobe__________________
+Tvrtka, odnosno naziv pravne sobe________________________
+__________________________________________________
+Sjedište____________________________________________
+Broj i datum odluke __________________________________
+Pravomoćnost_____________ Datum počinjena prekršaja______
+Vrsta, visina kazne ____________________________________
+Zaštitna mjera _______________________________________
+Oduzimanje imovinske koristi____________________________
+Napomena__________________________________________
+Zakonski naziv i koje su odredbe zakona primijenjene_________
+__________________________________________________
+(Popuniti čitko, pisaćim strojem)
+M.P. _____________________
+(potpis ovlaštene osobe)
+Obrazac br. 3.
+____________________
+____________________
+(naziv tijela koje traži podatke)
+Broj:___________________
+Datum:_________________
+REPUBLIKA HRVATSKA
+MINISTARSTVO PRAVOSUĐA
+Uprava za kazneno pravo
+Odjel za prekršajne evidencije
+PREDMET ____________________________
+Podaci iz prekršajne evidencije, traže se
+JMB________________________________________________
+Prezime:_____________________________________________
+Ime _______________ (djevojačko prezime) ________________
+Prebivalište __________________________________________
+(mjesto, adresa i država stanovanja)
+Ime oca _____________________________________________
+Ime majke:___________(djevojačke prezime majke)___________
+Dan, mjesec i godina rođenja _____________________________
+Mjesto rođenja ________________________________________
+Podaci iz prekršajne evidencije potrebni su nam radi ____________
+____________________________________________________
+(obrazložiti zakonsku osnovu zahtjeva)
+M.P. _____________________
+(potpis ovlaštene osobe)
+Obrazac br. 4.
+_____________________
+_____________________
+(naziv tijela koje traži podatke)
+Broj:___________________
+Datum:_________________
+REPUBLIKA HRVATSKA
+MINISTARSTVO PRAVOSUĐA
+Uprava za kazneno pravo
+Odjel za prekršajne evidencije
+PREDMET ____________________________
+Podaci iz prekršajne evidencije, traže se
+Matični broj tvrtke, odnosno pravne osobe: ____________________
+Tvrtka, odnosno naziv pravne osobe _________________________
+_____________________________________________________
+Sjedište ______________________________________________
+Podaci iz prekršajne evidencije potrebni su nam radi _____________
+_____________________________________________________
+(obrazložiti zakonsku osnovu zahtjeva)
+M.P. _____________________
+(potpis ovlaštene osobe)
+Obrazac br. 5.
+ZAHTJEV
+ZA IZDAVANJE POTVRDE O PODACIMA IZ
+PREKRŠAJNE EVIDENCIJE
+Molim naslov da mi izda potvrdu o činjenicama upisanim u prekršajnoj
+evidenciji.
+O sebi dajem sljedeće podatke:
+PREZIME I IME _____________________________________
+Djevojačko prezime___________________________________
+Ranije promjene u prezimenu (imenu)_____________________
+Ime oca_______, ime i djevojačko prezime majke____________
+Dan, mjesec i godina rođenja__________ MBG_____________
+Mjesto i općina rođenja ________________________________
+Državljanstvo _______________, zanimanje________________
+Prebivalište (adresa) __________________________________
+__________________________________________________
+Potvrda mi je potrebna u svrhu__________________________
+__________________________________________________
+__________________________________________________
+PRILOG (ovlašteni prijevod konkretnog propisa ili zahtjeva tijela
+strane države o potrebi izdavanja potvrde iz prekršajne evidencije):__________________________________________________
+__________________________________________________
+U Zagrebu,_______________ ______________________
+(potpis podnositelja zahtjeva)
+Obrazac br. 6
+ZAHTJEV
+ZA IZDAVANJE POTVRDE O PODACIMA IZ
+PREKRŠAJNE EVIDENCIJE
+Molim naslov da mi izda potvrdu o činjenicama upisanim u prekršajnoj
+evidenciji, za pravnu osobu ili s njom izjednačenog subjekta.
+NAZIV OSUĐENIKA__________________________________
+MATIČNI BROJ_______________________________________
+SJEDIŠTE TVRTKE____________________________________
+POTVRDA MI JE POTREBNA U SVRHU___________________
+_____________________________________________________
+PRILOG (ovlašteni prijevod konkretnog propisa ili zahtjeva tijela strane
+države o potrebi izdavanje potvrde iz prekršajne evidencije) _____________________________________________________
+_____________________________________________________
+U Zagrebu,_______________ ________________________
+(potpis podnositelja zahtjeva)
