@@ -1,0 +1,3 @@
+# Članak 23.
+Odsjek za kapitalne aktivnosti korisnika u sustavu osnovnog i srednjeg školstva izrađuje i prati normative za građenje objekata i daje suglasnost na projektno-tehničku dokumentaciju; planira i izrađuje programe za financiranje i sufinanciranje kapitalnih izdataka i posebnih programa; prati izgradnju, rekonstrukciju, adaptaciju i opremanje ustanova iz djelokruga Ministarstva; prikuplja i ujedinjuje podatke za izradu projekcije proračunskih sredstava, te predlaže odgovarajuća programska rješenja. Odsjek obavlja i druge poslove koje odredi ministar.
+3.3.2. Odsjek za kapitalne aktivnosti korisnika u sustavu znanosti i visokog školstva

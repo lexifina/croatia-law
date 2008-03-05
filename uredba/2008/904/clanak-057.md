@@ -1,0 +1,3 @@
+# Članak 57.
+Odsjek za pretpristupne fondove i pomoć EU obavlja poslove vezane uz programe CARDS i Phare (programi pomoći) i pretpristupne fondove (I. komponenta nacionalnog IPA programa i višekorisnički IPA program). Poslovi uključuju: organizaciju pripreme prijedloga projekata, koordinaciju i sudjelovanje u provedbi odobrenih projekata, praćenje i nadzor nad provedbom projekata). U nadležnosti Odsjeka je i nadzor nad provedbom programa TEMPUS koji se financira iz predpristupnih fondova. Odsjek obavlja i druge poslove iz svog djelokruga, kao i poslove koje odredi ministar.
+6.3.2. Odsjek za programe Europske zajednice i ostale programe

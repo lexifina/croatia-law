@@ -1,0 +1,3 @@
+# Članak 26.
+Odjel za nabavu obavlja poslove nabave roba i usluga za potrebe Ministarstva po postupku propisanom Zakonom o javnoj nabavi; pruža stručnu pomoć povjerenstvima za nabavu pojedinih uprava; prati odvijanje postupaka nabave sukladno planu nabave i sredstvima osiguranim planom proračuna u pogledu zadanih okvira visine i namjene sredstava; priprema i izrađuje ugovore iz područja nabave, te prati izvršavanje istih; vodi evidencije o postupcima nabave, evidencije zaključenih ugovora, te evidenciju nabavljenih osnovnih sredstava. Odjel obavlja i druge poslove koje odredi ministar.
+3.5. Odjel za decentralizirane funkcije školstva i financijsko upravljanje i kontrolu

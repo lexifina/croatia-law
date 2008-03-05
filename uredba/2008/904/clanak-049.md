@@ -1,0 +1,8 @@
+## 6. UPRAVA ZA MEĐUNARODNU SURADNJU I EUROPSKE INTEGRACIJE
+# Članak 49.
+Uprava za međunarodnu suradnju i europske integracije osigurava rad subjekata znanstvene djelatnosti u području međunarodne znanstvene suradnje, te obavlja poslove vezane uz lektorate hrvatskog jezika i književnosti na stranim visokim učilištima i strane lektorate na visokim učilištima u Republici Hrvatskoj, stipendiranje stranih državljana u Hrvatskoj, stipendiranje hrvatskih državljana u inozemstvu, te stipendiranje pripadnika hrvatske nacionalne manjine iz susjednih zemalja u Hrvatskoj, poslove vezane uz organizaciju hrvatske nastave u inozemstvu, upravne i stručne poslove pripreme za sklapanje međunarodnih ugovora u području znanosti i obrazovanja, te njihovu provedbu; obavlja stručne poslove vezane uz Vijeće Europe, međunarodne organizacije, regionalne organizacije, velike međunarodne projekte, kao i poslove vezane za pristupanje Republike Hrvatske Europskoj uniji u području obrazovanja, znanosti, tehnologije i športa (programi Europske zajednice, pretpristupna pomoć i fondovi EU, ostali programi), te poslove vezane uz pripreme raznih baza podataka vezanih uz međunarodnu suradnju. Uprava obavlja upravne i stručne poslove za projekte i programe pretpristupnog fonda IPA, prati i koordinira rad pojedinih komponenti IPA programa od interesa i u nadležnosti Ministarstva. Uprava obavlja i druge poslove iz svoga djelokruga, kao i poslove koje odredi ministar.
+U Upravi se ustrojavaju:
+6.1. Odjel za bilateralnu suradnju
+6.2. Odjel za multilateralnu suradnju
+6.3. Odjel za europske integracije.
+6.1. Odjel za bilateralnu suradnju

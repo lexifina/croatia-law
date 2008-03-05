@@ -1,0 +1,3 @@
+# Članak 66.
+Odsjek za pripremu i provedbu projekata iz fondova EU obavlja stručne poslove vezane za pripremu višegodišnjih ili godišnjih programskih i strateških dokumenata u području znanosti i tehnologije te sudjeluje u identifikaciji prioriteta i mjera Operativnih programa. Odsjek sudjeluje u definiranju kriterija za odabir projekata i pripremi natječajne dokumentacije te predlaže članove prosudbenih skupina i sudjeluje u radu odbora za upravljanje projektima. Odsjek provjerava i odobrava zahtjeve za plaćanje te izdaje naloge za prijenos nacionalnih sredstava za sufinanciranje IPA programa. Odsjek obavlja i druge poslove iz svoga djelokruga, kao i poslove koje odredi ministar.
+8.2.2. Odsjek za vrednovanje i praćenje projekata izfondova EU

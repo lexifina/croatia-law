@@ -1,0 +1,3 @@
+# Članak 42.
+Odsjek za informacijsku infrastrukturu znanosti i visokog obrazovanja obavlja upravne i stručne poslove planiranja, organiziranja i provođenja informatizacije znanosti i visokog obrazovanja, što uključuje planiranje, organiziranje i provođenje razvoja računalno-komunikacijske infrastrukture i informacijskog sustava i aplikacija znanosti i visokog obrazovanja, kao i pripremu, koordinaciju i izradu nacrta stručnih, organizacijskih i provedbenih dokumenata i propisa potrebnih za rad informacijske infrastrukture znanosti i visokog obrazovanja. Odsjek obavlja i druge poslove iz svoga djelokruga, kao i poslove koje odredi ministar.
+5.2.2. Odsjek za informacijsku infrastrukturu osnovnog i srednjeg obrazovanja i športa

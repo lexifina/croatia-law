@@ -1,0 +1,3 @@
+# Članak 68.
+Odsjek za akcijske planove, analizu i statistiku obavlja upravne i stručne poslove utvrđivanja kriterija za financiranje kapitalnih aktivnosti, znanstvene opreme, transfera novca za redovitu djelatnost javnih znanstvenih instituta, praćenja i analize provedbe akcijskih planova povezanih sa znanstvenim sustavom, statističko praćenje svih parametara povezanih sa znanošću i znanstvenim istraživanjima, te rad Nacionalne zaklade za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske, te obavlja i druge poslove koje odredi ministar.
+8.3. Odjel za razvoj znanstvenog sustava

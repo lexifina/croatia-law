@@ -1,0 +1,3 @@
+# Članak 37.
+Odsjek za pravne poslove izrađuje nacrte ugovora i sporazuma iz djelokruga Ministarstva; daje mišljenja na nacrte ugovora i sporazuma iz djelokruga Ministarstva drugim ustrojstvenim jedinicama Ministarstva; izrađuje odgovore i mišljenja na upite i predstavke građana u vezi primjene propisa iz djelokruga Ministarstva, priprema odgovore na tužbe u upravnim sporovima; priprema stručne upute za nadležno državno odvjetništvo kada zastupa Republiku Hrvatsku u sudskim postupcima, te pruža pravnu pomoć drugim ustrojstvenim jedinicama Ministarstva u pripremi izvješća Vladi Republike Hrvatske i Hrvatskome saboru. Odsjek obavlja i druge poslove koje odredi ministar.
+4.3. Odjel za upravni nadzor

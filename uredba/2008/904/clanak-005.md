@@ -1,0 +1,2 @@
+# Članak 5.
+Odjel za potporu ministru obavlja stručne, organizacijske i tehničke poslove protokola za potrebe Ministarstva, te poslove organizacije posebnih svečanih i drugih prigoda. Odjel prikuplja podatke, te priprema kalendar posjeta i putovanja ministra; koordinira upućivanje pisama i ostalih pismena stranim dužnosnicima i međunarodnim organizacijama i subjektima, kao i promotivne aktivnosti vezane uz međunarodnu suradnju. Odjel obavlja i druge poslove iz svoga djelokruga, te poslove koje odredi ministar.

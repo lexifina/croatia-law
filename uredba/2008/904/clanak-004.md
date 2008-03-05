@@ -1,0 +1,3 @@
+# Članak 4.
+Odjel za strategije i odnose s javnošću obavlja poslove praćenja stanja u svim segmentima djelokruga Ministarstva. Odjel prikuplja, objedinjuje i analizira relevantne informacije te ih raspoređuje dužnosnicima; zajedno sa savjetnicima ministra, prati i koordinira rad uprava u strateškom planiranju i izvršavanju poslova; predlaže ministru kratkoročne i dugoročne mjere, razvojne strategije i planove, koji se izrađuju u suradnji sa stručnim tijelima, znanstvenim i stručnim ustanovama; priprema polazišta za donošenje novih, odnosno, izmjene i dopune postojećih propisa iz djelokruga Ministarstva. Odjel obavlja i druge poslove iz svoga djelokruga, te poslove koje odredi ministar.
+1.2. Odjel za potporu ministru
