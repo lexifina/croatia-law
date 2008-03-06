@@ -1,0 +1,3 @@
+## 7. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 26.
+Ustrojstvene jedinice Ministarstva nadležne za materijalno-financijsko poslovanje dužne su u roku od 3 mjeseca od dana stupanja na snagu ovoga Pravilnika pripremiti sve potrebne štambilje za poslovanje svih ustrojstvenih jedinica Ministarstva sukladno odredbama Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima i ovoga Pravilnika (»VRLO TAJNO«, »TAJNO«, »POVJERLJIVO«, »OGRANIČENO«, »NEKLASIFICIRANO«, »KOPIJA«, »RAZMIJENJEN PODATAK«, »ISKLJUČIVO«, »ISTJEK ROKA TAJNOSTI«, »ZABRANJENO UMNOŽAVANJE«, »OBAVEZAN POVRAT NAKON UVIDA«, »OBJAVLJIVO«).

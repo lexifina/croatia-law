@@ -1,0 +1,5 @@
+## 2. KLASIFIKACIJA SLUŽBENIH PODATAKA
+# Članak 4.
+Podatak u bilo kojem izražajnom obliku koji je na temelju zakona ili podzakonskih propisa određen kao tajni podatak mora se označiti potpunom sigurnosnom oznakom.
+Sigurnosnim oznakama označavaju se i svi izvori tajnog podatka kao što su službeni dokumenti, zbirke podataka, nacrti, crteži, skice, slike, pokretne slike (filmovi i videozapisi), zvukovni zapisi, izvješća, obavijesti i identitet osobe koja je dala obavijest, obrade i analize prikupljenih saznanja, dokumentacija očevida, nalazi vještaka, zapisnici, nalozi, planovi za poduzimanje pojedinih mjera i radnji te spisi o poduzetim mjerama i radnjama, službene zabilješke, izjave, isprave, prijave, planovi operativnih akcija, sigurnosne procjene i rješenja, pomoćne uredske i poslovne knjige i drugi izvori podataka, bilo u elektronskom, elektromagnetskom, odnosno netvarnom ili tvarnom obliku.
+Kada se radi o kombinaciji klasificiranih podataka, prilikom označavanja koristi se klasifikacijska oznaka podatka s najvišim stupnjem tajnosti.

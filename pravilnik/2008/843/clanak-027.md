@@ -1,0 +1,2 @@
+# Članak 27.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o sigurnosti i zaštiti službenih podataka Ministarstva unutarnjih poslova (»Narodne novine« broj 59/2006) osim odredaba članka 1. stavka 1. podstavka 2., 6. i 7., članka 23., članaka od 32. do 51., te članaka od 55. do 62. toga Pravilnika, koje ostaju na snazi do donošenja posebnog propisa o mjerama informacijske sigurnosti službenih podataka Ministarstva.

@@ -1,0 +1,7 @@
+## 5. IZRADA I OZNAČAVANJE SLUŽBENOG DOKUMENTA I DRUGIH PREDMETA
+# Članak 14.
+Djelatnik Ministarstva prilikom izrade službenog dokumenta, sukladno odredbama Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima i ovoga Pravilnika, označit će službeni dokument odgovarajućom oznakom stupnja tajnosti.
+Službeni dokumenti s tajnim podacima s oznakom VRLO TAJNO moraju biti naslovljeni na točno određenog primatelja po imenu i prezimenu te nazivu ustrojstvene jedinice.
+Na omotnici u kojoj se dostavljaju službeni dokumenti, u lijevom gornjem uglu upisuje se urudžbeni broj dokumenta i stavlja se pečat. U desnom gornjem uglu omotnice upisuje se oznaka stupnja tajnosti, a ispod toga upisuju se odgovarajuća oznaka načina dostave te oznaka nazivnog vremena dostave. Na sredini omotnice upisuje se naziv i adresa primatelja, a za dokumente s oznakom VRLO TAJNO i ime te funkcija osobe kojoj se dokument dostavlja.
+Upisivanje i zatvaranje omotnice u kojoj se dostavljaju podaci stupnja tajnosti VRLO TAJNO obavlja rukovoditelj koji je u potpisu dokumenta ili osoba koju on za to ovlasti, a otvaranje omotnice označene stupnjem tajnosti VRLO TAJNO obavlja rukovoditelj na kojega je dokument naslovljen ili osoba koju on za to ovlasti.
+Prilikom dostave između različitih ustrojstvenih jedinica smještenih u istom objektu, dokumenti i podaci koji sadržavaju klasificirane podatke moraju biti zatvoreni u omotnici i označeni potpunom sigurnosnom oznakom.
