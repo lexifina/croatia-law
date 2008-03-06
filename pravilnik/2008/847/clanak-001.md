@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o općim uvjetima za obavljanje poštanskih usluga (»Narodne novine«, broj 151/04. i 122/05.) u članku 64. stavku 1. riječi: »ispisuje dan i mjesec primitka slovima, a godinu brojkama«, zamjenjuje se riječima: »dan i mjesec primitka može ispisati slovima, a godinu brojkama, ili može nadnevak primitka potvrditi na dostavnici stavljanjem štambilja s brojčanim oznakama dana, mjeseca i godine primitka«.
