@@ -1,0 +1,8 @@
+# Članak 22.
+(1) Naknada plaće za vrijeme korištenja rodiljnog dopusta od šest mjeseci do jedne godine djetetova života, posvojiteljskog dopusta i skraćenoga radnog vremena do jedne godine djetetova života iznosi od 1.663,00 kune do najviše 2.500,00 kuna, za rad u punom radnom vremenu, ovisno o visini naknade plaće koja je korisniku u skladu sa člankom 35. stavkom 1. Zakona o obveznom zdravstvenom osiguranju utvrđena za vrijeme korištenja obveznoga rodiljnog dopusta.
+(2) Naknada plaće za vrijeme korištenja rodiljnog dopusta od jedne do tri godine djetetova života, rodiljnog dopusta iz članka 58. stavka 9. Zakona o radu, posvojiteljskog dopusta, skraćenoga radnog vremena od jedne do tri godine djetetova života iz članka 59. stavka 1. i 3. Zakona o radu, dopusta iz članka 57. Zakona o radu, za rad u punom radnom vremenu te novčana naknada za vrijeme korištenja rodiljnog dopusta majke poljoprivrednice, nezaposlene majke, majke na redovitom školovanju, majke nesposobne za rad po propisima socijalne skrbi, majke korisnice mirovine, odnosno majke korisnice invalidske mirovine zbog profesionalne nesposobnosti za rad, majke koja je sukladno propisima o radu primljena na stručno osposobljavanje bez zasnivanja radnog odnosa (volonter), iznosi 1.663,00 kune.
+(3) Korisniku prava na naknadu plaće po osnovi rođenja, posvojenja ili skrbništva o djetetu, koji radi s nepunim radnim vremenom, naknada plaće iznosi najmanje 1.663,00 kune mjesečno.
+(4) Svota iz stavka 2. ovoga članka je osnovica za obračun naknade plaće za vrijeme stanke za dojenje djeteta iz članka 60. Zakona o radu.
+(5) Naknada za opremu novorođenog djeteta iznosi 2.328,20 kuna.
+III. UPRAVLJANJE DRŽAVNOM IMOVINOM I DUGOVIMA
+1. Upravljanje državnom imovinom
