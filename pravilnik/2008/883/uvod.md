@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. točka 1. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« br. 140/05)i članka 19.a stavak 4. Zakona o tržištu vrijednosnih papira (»Narodne novine« br. 84/02 i 138/06), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj dana 21. veljače 2008. godine donijela

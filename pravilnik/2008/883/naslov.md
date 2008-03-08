@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o načinu obavještavanja Hrvatske agencije za nadzor financijskih usluga o otuđenju dionica ili poslovnog udjela brokerskog društva, burze ili središnje depozitarne agencije
