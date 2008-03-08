@@ -1,0 +1,1 @@
+Na temelju odredbi članka 25. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine« broj 106/99, 63/00 i 107/07), Hrvatska agencija za nadzor financijskih usluga na sjednici Uprave održanoj 21. veljače 2008. godine, donijela je

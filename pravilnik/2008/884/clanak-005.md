@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Oglas i promidžbeni materijal koji se objave bez prethodne suglasnosti iz članka 4. ovog Pravilnika, oglašivač mora na svoj trošak, po nalogu Agencije, pobiti na isti način, u istom formatu i u istom mediju u kojem su i objavljeni.
+(2) Oglašivač je dužan pobiti oglas i promidžbeni materijal iz stavka 1. ovog članka u roku od 15 dana od dana izdavanja naloga Agencije.
+(3) Oglašivač je dužan sadržaj pobijanja oglasa i promidžbenog materijala, koji su objavljeni bez prethodne suglasnosti Agencije, dostaviti na suglasnost Agenciji. Oglašivaču je zabranjeno objavljivanje pobijanja oglasa i promidžbenog materijala prije nego što dobije pisanu suglasnost Agencije na njegov sadržaj.
+(4) Pisanu suglasnost iz stavka 3. ovog članka oglašivač obvezno dostavlja mediju ili distributeru prigodom objave ili distribucije pobijanja oglasa i promidžbenog materijala.
+(5) Ako oglašivač ne postupi po nalogu Agencije, Agencija će pobiti oglas i promidžbeni materijal na teret oglašivača te postupiti prema ovlaštenjima iz članka 99. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine« broj 106/99, 63/00 i 107/07; u daljnjem tekstu: Zakon).
