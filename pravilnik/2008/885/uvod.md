@@ -1,0 +1,1 @@
+Na temelju odredbi članka 66. stavak 4. Zakona o osiguranju (»Narodne novine« broj 151/2005) i članka 27. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine« broj 106/1999, 63/2000) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 21. veljače 2008.
