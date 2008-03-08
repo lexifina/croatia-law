@@ -1,0 +1,1 @@
+Na temelju članka 53. Zakona o državnim maticama (»Narodne novine« broj 96/93) i članka 365. stavak 1. Obiteljskog zakona (»Narodne novine«, broj 116/03, 17/04, 136/04 i 107/07), državni tajnik Središnjeg državnog ureda za upravu donosi
