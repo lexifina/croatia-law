@@ -1,0 +1,2 @@
+# Članak 1.
+Članak 1. Pravilnika o sadržaju dokumenata koji se prilažu uz zahtjev za izdavanje odobrenja za rad društva za upravljanje investicijskim fondovima (»Narodne novine«, broj 29/06) mijenja se i glasi: »Ovim Pravilnikom propisuju se dokumenti na temelju kojih je moguće utvrditi je li društvo za upravljanje kvalificirano za obavljanje poslova osnivanja i upravljanja investicijskim fondovima, osobito u pogledu osoblja, tehničke opremljenosti i organizacije.«
