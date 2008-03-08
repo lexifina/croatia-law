@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom mijenja se uvod Pravilnika o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje dozvole ili licence za obavljanje poslova brokera, investicijskog savjetnika i ovlaštenog upravitelja mirovinskim fondovima (»Narodne novine« broj 97/06 i 92/07, dalje u tekstu: Pravilnik) tako da se dodaje tekst: i članka 10. stavka 6. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine« broj 106/99, 63/00 i 107/07).
