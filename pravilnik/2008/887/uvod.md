@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 49/99, 63/00, 103/03, 177/04 i 71/07), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 21. veljače 2008. donijela je
