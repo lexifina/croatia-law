@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o načinu obavještavanja Hrvatske agencije za nadzor financijskih usluga o otuđenju dionica ili poslovnog udjela leasing društva (»Narodne novine« br. 11/07) mijenja se odredba članka 2. koja sada glasi:
+Pravna ili fizička osoba koja namjerava otuđiti dionice ili poslovne udjele kojim bi udjel u glasačkim pravima ili kapitalu društva pao ispod limita iz članka 1. Pravilnika, mora prije sklapanja pravnog posla prodaje i prijenosa ili otuđenja dionica odnosno poslovnih udjela dostaviti Agenciji:
+- izjavu ovjerenu od javnog bilježnika kojom se nedvojbeno izražava namjera prodaje i prijenosa ili otuđenja dionica ili poslovnih udjela, ili presliku predugovora ovjerenu od javnog bilježnika kojim se dotadašnji imatelj i budući imatelj obvezuju sklopiti ugovor o prodaji i prijenosu dionica odnosno poslovnih udjela u obliku javnobilježničkog akta ili privatne isprave koju potvrdi javni bilježnik,
+- podatke o pravnoj ili fizičkoj osobi kojoj se namjeravaju prodati i prenijeti dionice ilii poslovni udjeli.
