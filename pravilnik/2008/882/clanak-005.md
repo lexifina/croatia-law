@@ -1,0 +1,5 @@
+# Članak 5.
+Prilikom provedbe svojih poslova određenih člankom 53. stavka 1. Zakona, depozitna banka dužna je:
+1. osigurati da otkup, prodaja, izdavanje, povrat isplata i poništavanje udjela koje je izvršeno za račun društva za upravljanje ili ga je izvršilo društvo za upravljanje, bude obavljeno u skladu sa Zakonom i Prospektima fondova kojima upravlja društvo za upravljanje;
+2. osigurati da joj naknada iz poslova koji uključuju imovinu društva za upravljanje bude doznačena u uobičajenim vremenskim rokovima;
+3. u slučaju primjećivanja trajnijeg kršenja zakona i ugovora od strane društva za upravljanje iz čl. 53. točka 10. Zakona, odmah uputiti društvu za upravljanje zahtjev za prestankom takvog kršenja te odrediti vremenski rok društvu za upravljanje za ispravak kršenja Zakona i ugovora nakon isteka kojeg će kršenje prijaviti Hrvatskoj agenciji za nadzor financijskih usluga, uzimajući u obzir okolnosti svakog konkretnog slučaja, i to na način da društvo za upravljanje ima dovoljno vremena za ispravak nezakonitosti a da istovremeno nezakonitost bude što brže otklonjena.

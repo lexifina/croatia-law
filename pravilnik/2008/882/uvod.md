@@ -1,0 +1,1 @@
+Na temelju odredbe članka 53. stavka 2. Zakona o investicijskim fondovima (»Narodne novine« br. 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 21. veljače 2008. godine
