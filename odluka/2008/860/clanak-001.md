@@ -1,0 +1,2 @@
+# Članak 1.
+Invalidu rada i osiguraniku koji je ostvario pravo na profesionalnu rehabilitaciju koja se obavlja izvan mjesta prebivališta, a nije mu osiguran stalni prijevoz od mjesta stanovanja do mjesta gdje se obavlja rehabilitacija, ni besplatan smještaj i prehrana za vrijeme profesionalne rehabilitacije u drugom mjestu - isplaćuje se, osim naknade plaće u vezi s pravom na rehabilitaciju, i naknada za troškove smještaja i prehrane koja od 1. siječnja 2008. iznosi 1380,39 kn mjesečno.
