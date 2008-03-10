@@ -1,0 +1,2 @@
+# Članak 3.
+U tablici u Prilogu 1., u točki 1.2. Izrada lovnogospodarskih planova, riječi: »1 ovlašteni inženjer šumarstva (na svakih 20 lovnogospodarskih planova godišnje)« zamjenjuju se riječima: »1 ovlašteni inženjer šumarstva (na svakih 20 lovnogospodarskih planova godišnje), 1 dipl. ing. agronomije s položenim kolegijem iz lovstva (na svakih 10 lovnogospodarskih planova godišnje) ili 1 dr. vet. med. s položenim kolegijem iz lovstva (na svakih 10 lovnogospodarskih planova godišnje)«.
