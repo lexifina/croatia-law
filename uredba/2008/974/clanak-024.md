@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek za tehničke poslove izdavaštva obavlja tehničke poslove pripreme i izdavanja službenog glasila Zavoda; poslove izdavanja službenih, stručnih i promidžbeno-informacijskih publikacija te dokumenata i materijala iz područja djelatnosti Zavoda: grafički oblikuje, obrađuje i priprema sadržaj publikacija za izdavanje u konvencionalnom i elektroničkom obliku; pruža tehničku potporu u pripremi isprava i službenih dokumenata te osigurava umnožavanje tiskanih materijala; obavlja druge tehničke poslove vezane uz promidžbene aktivnosti; prati tehnološki razvitak i brine se o tehnološkom unapređenju izdavačkih i promidžbenih aktivnosti u Zavodu.
+4.2. Odjel za korisničke informacije i usluge

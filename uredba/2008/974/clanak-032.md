@@ -1,0 +1,3 @@
+# Članak 32.
+Odsjek za kadrovske i opće poslove prati mjere kadrovske politike u sustavu državne uprave, prati i nadzire primjenu i učinke zakona i drugih propisa, kolektivnih ugovora i drugih akata iz područja radnih odnosa relevantnih za TDU, obavlja kadrovske poslove vezane uz raspoređivanje državnih službenika i namještenika, analitičke poslove, izbor kandidata u državnu službu, osobne očevidnike, praćenje statusnih prava radnika, obavlja tehničke poslove u vezi službenog prijevoza, dostave, sigurnosti i zaštite na radu, fotokopiranja i umnažanja, opskrbe pićem i hranom, obavlja i druge opće i pomoćne poslove.
+5.1.3. Odsjek za upravljanje dokumentima

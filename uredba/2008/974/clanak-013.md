@@ -1,0 +1,7 @@
+## 3. SEKTOR ZA ŽIGOVE I INDUSTRIJSKI DIZAJN
+# Članak 13.
+Sektor za žigove i industrijski dizajn obavlja poslove vezane uz priznanje žiga, industrijskog dizajna, upis oznaka zemljopisnog podrijetla i oznaka izvornosti proizvoda ili usluga (u daljnjem tekstu: zemljopisne oznake), te upis prava korištenja zemljopisnih oznaka; provodi postupke međunarodne zaštite žiga i industrijskog dizajna u skladu s odredbama međunarodnih ugovora kojih je Republika Hrvatska stranka; prati, predlaže i sudjeluje u izradi i usklađivanju zakona i drugih propisa u području žiga, industrijskog dizajna i zemljopisnih oznaka; prati razvoj stručnog područja u međunarodnim okvirima, te predlaže pristupanje Republike Hrvatske daljnjim međunarodnim ugovorima u svom području; sudjeluje u radu međunarodnih radnih skupina i stručnih odbora; predlaže i sudjeluje u provedbi stručne izobrazbe i obuke radnika za područje svoje djelatnosti; sudjeluje u izradi planova i programa rada Zavoda; sudjeluje u promicanju i unapređenju primjene žigova, industrijskog dizajna i zemljopisnih oznaka u odgovarajućim segmentima javnosti odnosno kod odgovarajućih sudionika NSIV-a, te obavlja i druge poslove u okviru svojeg djelokruga.
+Za obavljanje poslova Sektora za žigove i industrijski dizajn ustrojavaju se sljedeći odjeli:
+3.1. Odjel za formalno-pravne, međunarodne i administrativne poslove
+3.2. Odjel za supstancijalno ispitivanje i prigovore.
+3.1. Odjel za formalno-pravne, međunarodne i administrativne poslove

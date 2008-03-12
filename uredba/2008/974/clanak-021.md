@@ -1,0 +1,8 @@
+## 4. SEKTOR ZA RAZVOJ SUSTAVA INTELEKTUALNOG VLASNIŠTVA
+# Članak 21.
+Sektor za razvoj sustava intelektualnog vlasništva obavlja poslove vezane uz područje primjene i upotrebe intelektualnog vlasništva, te razvoja odgovarajuće institucionalne suradnje, posebice: poslove promicanja intelektualnog vlasništva u javnosti, uključujući izdavačku djelatnost; poslove pružanja općih stručnih informacija i specijaliziranih informacijskih usluga korisnicima sustava zaštite intelektualnog vlasništva; poslove interne i javne izobrazbe i obuke u području intelektualnog vlasništva; te druge poslove razvoja i unaprjeđenja primjene intelektualnog vlasništva; u suradnji s drugim ustrojstvenim jedinicama Zavoda osigurava provedbu mjera za razvoj i unaprjeđenje NSIV-a sukladno strategiji razvoja sustava intelektualnog vlasništva (u daljnjem tekstu: Nacionalna strategija), te relevantnim strategijama iz područja inovacijske, gospodarske i drugih društvenih djelatnosti; surađuje s nositeljima prava i njihovim asocijacijama, nadležnim sudovima, carinskom službom, policijom i drugim relevantnim TDU, te ostalim sudionicima NSIV-a; prati razvoj stručnog područja u međunarodnim okvirima te sudjeluje u radu međunarodnih radnih skupina i stručnih odbora; predlaže i sudjeluje u provedbi stručne izobrazbe i obuke radnika za područje svoje djelatnosti; sudjeluje u izradi planova i programa rada Zavoda, te obavlja i druge poslove u okviru svojeg djelokruga.
+Za obavljanje poslova Sektora za razvoj sustava intelektualnog vlasništva ustrojavaju se sljedeći odjeli:
+4.1. Odjel za promidžbu i izdavaštvo
+4.2. Odjel za korisničke informacije i usluge
+4.3. Odjel za izobrazbu i razvoj primjene intelektualnog vlasništva.
+4.1. Odjel za promidžbu i izdavaštvo

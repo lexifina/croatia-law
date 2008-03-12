@@ -1,0 +1,6 @@
+# Članak 14.
+Odjel za formalno-pravne, međunarodne i administrativne poslove obavlja poslove vezane uz provedbu postupka, ispitivanje i obradu prijava žiga i industrijskog dizajna u odnosu na formalno-pravne uvjete; priprema i provjerava podatke za objavu u službenom glasilu Zavoda; vodi registre propisane zakonima i međunarodnim ugovorima kojih je Republika Hrvatska stranka; izdaje svjedodžbe o pravu prvenstva, isprave o dodijeljenim pravima i izvatke iz registara, te ostale potvrde i uvjerenja; sudjeluje u izradi nacrta prijedloga zakonskih i drugih propisa na području žiga i industrijskog dizajna; obavlja poslove vezane uz provedbu postupka međunarodnih registracija žigova i industrijskog dizajna prema međunarodnim ugovorima kojih je Republika Hrvatska stranka; prati stručno područje registracije žigova i industrijskog dizajna u međunarodnim okvirima i predlaže pristupanje Republike Hrvatske daljnjim međunarodnim ugovorima.
+Za obavljanje poslova Odjela za formalno-pravne, međunarodne i administrativne poslove ustrojavaju se sljedeći odsjeci:
+3.1.1. Odsjek za formalno-pravne i administrativne poslove i vođenje registara
+3.1.2. Odsjek za međunarodne registracije.
+3.1.1. Odsjek za formalno-pravne i administrativne poslove i vođenje registara

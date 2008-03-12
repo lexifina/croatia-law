@@ -1,0 +1,3 @@
+# Članak 27.
+Odsjek za usluge pretraživanja i analize organizira u suradnji sa specijalistima za dodjelu prava pruža specijalizirane informacijske usluge korisnicima; pretražuje ili nadzire pretraživanje relevantnih informacija i analizira podatke iz područja patenata, žigova i industrijskog dizajna za vanjske korisnike; izrađuje ili nadzire izradu izvješća o rezultatima pretraživanja i analize; obavlja tehničko-administrativne poslove vezane uz pružanje usluga; sudjeluje u razvoju i održavanju informacijskih resursa u području patenata, žigova i industrijskog dizajna za potrebe pružanja usluga pretraživanja; surađuje s uredima za intelektualno vlasništvo u inozemstvu na pružanju i razvoju usluga.
+4.3. Odjel za izobrazbu i razvoj primjene intelektualnog vlasništva
