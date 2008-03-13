@@ -1,0 +1,5 @@
+I. U Odluci o proširenju jurisdikcije Republike Hrvatske na Jadranskom moru (»Narodne novine«, br. 157/03., 77/04, i 138/06.), u točki 3. stavak 2. mijenja se i glasi:
+»Zaštićeni ekološko-ribolovni pojas Republike Hrvatske privremeno se neće primjenjivati na države članice Europske unije od dana 15. ožujka 2008. godine, do iznalaženja zajedničkog dogovora u EU duhu.«
+II. Republika Hrvatska, kao država kandidat u procesu pristupanja u članstvo u Europskoj uniji, nastavit će i dodatno ojačati dijalog s državama članicama i Europskom komisijom u cilju brzog postizanja dogovora koji će osigurati maksimalnu ekološku i ribolovnu zaštitu Jadrana, vodeći pritom računa o svim legitimnim interesima Republike Hrvatske.
+III. Hrvatski ribari (sve fizičke i pravne osobe sa područja Republike Hrvatske, koje se bave ribolovom na Jadranskom moru) imaju isti status kao i ribari zemalja članica Europske unije, u području Zaštićenog ekološko-ribolovnog pojasa, do postizanja dogovora iz točke II. ove Odluke.
+IV. Ova Odluka stupa na snagu danom donošenja.
