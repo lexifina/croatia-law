@@ -1,0 +1,4 @@
+# Članak 2.
+Laboratorij (u daljnjemu tekstu: referentni laboratorij), u smislu ovoga pravilnika, pravna je osoba ili posebna organizacijska cjelina u pravnoj osobi, ovlaštena za obavljanje fizikalno-kemijskih analiza i određivanja definiranih parametara sukladno mjernim metodama ili posebnim propisima u području mjeriteljstva u kemiji.
+U postupku obavljanja fizikalno-kemijskih analiza i određivanja definiranih parametara sukladno mjernim metodama ili posebnim propisima u području mjeriteljstva u kemiji, referentni laboratorij ostvaruje određene referentne vrijednosti (ovisno o vrsti parametara), koje se upotrebljavaju za prenošenje tih mjeriteljskih parametara.
+Referentna je vrijednost u smislu ovoga pravilnika vrijednost parametra određenoga materijala ili proizvoda koja je određena s točnošću prikladnom za uporabu kao izvor sljedivosti ispitnih rezultata dobivenih od usporedivih materijala ili proizvoda.

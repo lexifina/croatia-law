@@ -1,0 +1,3 @@
+# Članak 4.
+Referentni laboratoriji ovlašteni za mjerne metode iz članka 3. ovoga pravilnika koji obavljaju fizikalno-kemijske analize i određivanja definiranih parametara prema posebnim propisima u području mjeriteljstva u kemiji (primjerice parametara vode, zraka, tla, alkoholnih i nealkoholnih pića i dr.) mogu na temelju obavljenih analiza i rezultata (referentnih vrijednosti) dati mišljenje o sukladnosti s propisanim zahtjevima za pojedinačnu vrstu parametara.
+Referentni laboratoriji iz članka 2. stavka 1. ovoga pravilnika dužni su sudjelovati u odgovarajućim programima provjere stručne osposobljenosti.

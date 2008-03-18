@@ -1,0 +1,2 @@
+# Članak 12.
+Ako dva (2) ili više referentnih laboratorija iz članka 2. stavka 1. ovoga pravilnika ispunjavaju propisane uvjete iz članaka 4., 5., 6., 7., 8. i 9. ovoga pravilnika za isto stručno područje, odabir za nacionalni referentni laboratorij obavit će se na temelju kriterija izvrsnosti, na temelju kriterija sudjelovanja u međunarodnim i nacionalnim projektima te na temelju kakvoće rezultata sudjelovanja u međunarodnim, nacionalnim ili regionalnim međulaboratorijskim ispitivanjima.
