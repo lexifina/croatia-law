@@ -1,0 +1,1 @@
+Na temelju odredbe članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine« broj 109/07) u svezi s člankom 63. stavak 1. Zakona o leasingu (»Narodne novine« broj 135/06) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 28. veljače 2008. godine
