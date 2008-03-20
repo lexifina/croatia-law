@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Podaci upisani u Upisnik ne smiju se brisati niti ispravljati.
+(2) Iznimno od stavka 1. ovoga članka ukoliko se Upisnik vodi u elektroničkom obliku manje pogreške ispravljaju se uz naznaku datuma i imena ovlaštene osobe, a ako se radi o većim pogreškama cijeli upis se poništava upisivanjem na stranici upisa naznake »upis se poništava«, uz datum ispravka i imenom ovlaštene osobe, a ponovni se upis vrši na prvoj slobodnoj stranici Upisnika.
+(3) Iznimno od stavka 1. ovoga članka ukoliko se Upisnik vodi u obliku uvezane knjige manje pogreške ispravljaju se uz naznaku datuma i potpis ovlaštene osobe te precrtavanjem pogreške vodoravnom crvenom crtom, a ako se radi o većim pogreškama cijeli upis se poništava upisivanjem na stranici upisa naznake »upis se poništava«, uz datum ispravka i potpis ovlaštene osobe, te precrtavanjem stranice kosom crvenom crtom, a ponovni se upis vrši na prvoj slobodnoj stranici Upisnika.
