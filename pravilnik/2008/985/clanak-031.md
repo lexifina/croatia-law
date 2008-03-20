@@ -1,0 +1,4 @@
+## III. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 31.
+Diplomirani inženjeri fizike, profesori fizike te profesori fizike i matematike koji rade na radnim mjestima koja uključuju rukovanje izvorima ionizirajućeg zračenja iz članka 9. stavka 2., članka 10. i članka 11., a koji na dan stupanja na snagu ovog Pravilnika imaju manje od tri godine iskustva rukovanja tim izvorima obvezni su u roku od pet godina od dana stupanja na snagu ovoga Pravilnika specijalizirati medicinsku fiziku.
+Diplomirani inženjeri kemije i profesori kemije koji rade na radnim mjestima koja uključuju rukovanje izvorima ionizirajućeg zračenja iz članka 11., a koji na dan stupanja na snagu ovoga Pravilnika imaju manje od tri godine iskustva rukovanja tim izvorima obvezni su u roku od pet godina od dana stupanja na snagu ovoga Pravilnika dopunski se obrazovati.
