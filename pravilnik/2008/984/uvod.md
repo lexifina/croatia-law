@@ -1,0 +1,1 @@
+Na temelju članka 128. Zakona o policiji (»Narodne novine«, broj 129/00.), a u svezi s člankom 6. stavkom 1. točkom 6. Pravilnika o popisu djelatnosti, uvjetima i načinu izdavanja te rokovima važenja odobrenja za djelatnost s izvorima ionizirajućeg zračenja i za korištenje izvora ionizirajućeg zračenja (»Narodne novine«, broj 125/06.), ministar unutarnjih poslova donosi

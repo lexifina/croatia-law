@@ -1,0 +1,5 @@
+# Članak 6.
+Pri korištenju prijenosnih izvora ionizirajućeg zračenja u prostorijama koje nisu namjenski građene za uporabu izvora ionizirajućeg zračenja ili na mjestu policijskog postupanja s izvorom ionizirajućeg zračenja na otvorenom prostoru, potrebno je odrediti područje izloženosti.
+Područje izloženosti jest područje na kojem postoji mogućnost da pojedinac ili grupa ljudi bude izložena ionizirajućem zračenju iznad granice ozračenja propisane za pojedinog stanovnika odnosno da primljena efektivna doza bude iznad 1 mSv u jednoj godini.
+Područje izloženosti dijeli se na područje nadgledanja i područje posebnog nadgledanja.
+Granica područja izloženosti određuje se mjerenjem odgovarajuće brzine doze i proračunom efektivne doze u datim okolnostima te određivanjem minimalne udaljenosti od dijela uređaja koji izravno proizvodi zračenje, do koje se tijekom uključenja uređaja smije odobriti pristup djelatnicima i ostalim osobama odnosno temeljem Izvješća o radiološkim parametrima izdanim od strane ovlaštenog stručnog tehničkog servisa za određeni uređaj.

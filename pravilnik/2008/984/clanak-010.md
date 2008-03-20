@@ -1,0 +1,3 @@
+# Članak 10.
+O povredi propisa o zaštiti od ionizirajućih zračenja kojom su ugroženi život i zdravlje ljudi, osoba odgovorna za zaštitu od ionizirajućeg zračenja obvezna je bez odgađanja izvijestiti rukovoditelja nadležne ustrojstvene jedinice, Državni zavod, ovlašteni stručni tehnički servis i sanitarnog inspektora ministarstva nadležnog za zdravstvo.
+Ako su povredom propisa o zaštiti od ionizirajućih zračenja ugroženi priroda ili okoliš, osoba odgovorna za zaštitu od ionizirajućih zračenja obvezna je o tome bez odgađanja izvijestiti inspektora za zaštitu prirode, odnosno inspektora za zaštitu okoliša.
