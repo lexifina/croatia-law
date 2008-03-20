@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Podaci o izmjenama koje su nastale nakon prvog upisa, a koje su utvrđene rješenjem nadležnog ureda, upisuju se u Upisnik u odjeljak »naknadni upisi«, s naznakom da ranije upisani podaci prestaju važiti.
+(2) Kada se Upisnik vodi u obliku uvezane knjige a odjeljak naknadnih upisa je popunjen, upis se nastavlja na prvoj slobodnoj stranici Upisnika na način da se prepišu svi važeći podaci iz odgovarajućih odjeljaka ranijeg upisa. Na obje stranice upisa upiše se sveza prijenosa upisom broja knjige i odgovarajuće stranice. Stranica s koje su podaci prepisani na novu stranicu Upisnika precrtava se kosom crvenom crtom.
+(3) Prestanak važenja rješenja upisanog u Upisnik upisuje se u odjeljak naknadnih upisa, s naznakom datuma upisa i imena ovlaštene osobe ako se Upisnik vodi u elektroničkom obliku, a ukoliko se Upisnik vodi u obliku uvezane knjige s naznakom datuma i potpisom ovlaštene osobe te precrtavanjem stranice s dvije kose crvene crte.
