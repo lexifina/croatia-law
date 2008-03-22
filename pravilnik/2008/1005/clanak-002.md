@@ -1,0 +1,2 @@
+# Članak 2.
+Društvo za osiguranje dužno je, sukladno odredbama članka 140. Zakona o osiguranju (»Narodne novine« br. 151/05), voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze, te sastavljati financijske izvještaje sukladno Zakonu o trgovačkim društvima, Zakonu o računovodstvu i drugim propisima, poštujući pritom računovodstvene i financijske standarde i načela te opće računovodstvene pretpostavke, ako to Zakonom o osiguranju nije drugačije propisano.
