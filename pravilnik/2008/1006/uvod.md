@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. stavak 1. točka 8. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»»Narodne novine«« broj 140/05) i članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine« br. 109/07) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici Uprave održanoj 28. veljače 2008. godine

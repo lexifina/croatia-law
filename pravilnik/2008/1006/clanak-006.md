@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Mirovinsko osiguravajuće društvo dužno je godišnje financijske izvještaje, godišnje izvješće, revizorsko izvješće, te konsolidirane godišnje financijske izvještaje ako ih je dužno sastavljati sukladno odredbama članka 16. Zakona o računovodstvu, dostaviti Financijskoj agenciji radi javne objave.
+(2) Izvještaje iz stavka 1. ovoga članka mirovinsko osiguravajuće društvo dužno je radi javne objave dostaviti Financijskoj agenciji najkasnije u roku šest mjeseci od zadnjeg dana poslovne godine, a konsolidirane godišnje financijske izvještaje u roku od devet mjeseci od zadnjeg dana poslovne godine.
