@@ -1,0 +1,3 @@
+# Članak 15.
+Pododsjek za kadrovske poslove obavlja poslove pripreme i objave natječaja za prijam u državnu službu, zaprimanja zamolbi, testiranja, te ostale postupke provođenja prijama u državnu službu službenika i namještenika, obavlja administrativne poslove oko izbora kandidata za prijam u državnu službu, pripreme rješenja o prijamu u državnu službu i rasporedu na radno mjesto, te ugovora o radu namještenika, podnošenja prijave o početku i prestanku osiguranja Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje, obavlja poslove u vezi ostvarivanja prava službenika i namještenika temeljem važećih propisa, vođenje osobnih očevidnika.
+5.1.1.2.2. Pododsjek za stručno usavršavanje

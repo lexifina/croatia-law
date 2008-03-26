@@ -1,0 +1,6 @@
+# Članak 57.
+Odjel za upravnopravne poslove vodi upravne postupke po žalbama i izvanrednim pravnim lijekovima, upravne sporove po tužbama Upravnom sudu Republike Hrvatske te priprema drugostupanjska rješenja i odgovore na tužbe iz nadležnosti Uprave; predlaže plan i provodi upravni nadzor u području ugostiteljstva i turizma i predlaže mjere u svrhu otklanjanja nezakonitosti i nepravilnosti utvrđenih u upravnom nadzoru; daje odgovore na predstavke i pritužbe građana u svezi s propisima iz područja ugostiteljstva i turizma iz djelokruga Službe; daje objašnjenja za primjenu zakona i drugih propisa iz područja ugostiteljstva i turizma; surađuje s tijelima jedinica lokalne i područne (regionalne) samouprave, udrugama i drugim institucijama u poslovima iz djelokruga Odjela; izrađuje potvrde, uvjerenja, suglasnosti i druge akte iz nadležnosti Službe; vodi Upisnik ugovora o turističkom zastupanju turističkih agencija; surađuje na izradi nacrta prijedloga zakona i drugih propisa iz djelokruga Službe; obavlja i druge poslove po potrebi.
+Odjel za upravno pravne poslove ima sljedeće ustrojstvene jedinice:
+7.2.2.1. Odsjek za upravnopravne poslove za ugostiteljstvo
+7.2.2.2. Odsjek za upravnopravne poslove za usluge u turizmu.
+7.2.2.1. Odsjek za upravnopravne poslove za ugostiteljstvo

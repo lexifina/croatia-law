@@ -1,0 +1,3 @@
+# Članak 73.
+Odjel za nadzor sustava turističkih zajednica obavlja nadzor nad radom turističkih zajednica; prati funkcioniranje sustava turističkih zajednica i ostvarivanje ciljeva i zakonskih zadaća turističkih zajednica; prati zakonitost rada turističkih zajednica; vodi upravni postupak, surađuje u svezi s pripremom i izradom nacrta prijedloga zakona i prijedloga drugih propisa kojima se uređuje sustav turističkih zajednica; predlaže mjere za unapređenje i poboljšanje sustava turističkih zajednica; prati primjenu i izvršavanje zakona i dr. propisa iz nadležnosti Uprave; obavlja druge poslove iz svog djelokruga.
+10.3. Odjel za promociju i upravljanje destinacijom

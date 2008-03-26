@@ -1,0 +1,4 @@
+# Članak 21.
+Odjel za pripremu i izvršenje proračuna, plansko-analitičke poslove i poslove Državne riznice obavlja stručne poslove vezano uz pripremu i izradu državnog proračuna sukladno zakonskim propisima, sastavlja, analizira i podnosi izvješća o trošenju proračunskih sredstava sukladno namjeni i planiranoj dinamici, kontrolira trošenje sredstava kod korisnika, te naplatu i korištenje sredstava od vlastitih prihoda i analizira financijske pokazatelje.
+Obavlja upravne i stručne poslove vezane za kontrolu ispravnosti dokumentacije za unos u sustav Državne riznice, vodi brigu o rokovima za podnošenje rezervacija i zahtjeva za plaćanje, obavlja unos dostavljene dokumentacije u sustav riznice, kontaktira s nadležnim ministarstvom u svezi rada sustava riznice te obavlja i druge poslove po nalogu nadležne osoba.
+5.2.2. Odjel računovodstvenih poslova i poslova blagajne

@@ -1,0 +1,4 @@
+## III. DJELOKRUG I USTROJSTVO UPRAVNIH ORGANIZACIJA U SASTAVU MINISTARSTVA I UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET MINISTRA
+# Članak 4.
+Kabinet ministra obavlja administrativne, stručne i protokolarne poslove za ministra i državne tajnike, poslove u svezi doticaja i komunikacije s Hrvatskim saborom, Vladom Republike Hrvatske i drugim tijelima državne uprave te pravnim osobama koje imaju javne ovlasti, koordinira poslove sa Samostalnim odjelom za odnose s javnošću, poslove u svezi s evidencijom i pohranom povjerljive pošte, koordinira poslove u svezi davanja primjedbi i mišljenja na prijedloge zakona i drugih propisa, daje stručna mišljenja u svezi s provedbom zakona i drugih propisa, prati provedbu zakona i drugih propisa te predlaže njihovu izmjenu i dopunu, te druge stručne i administrativne poslove u svezi s ostvarivanjem programa rada i djelovanja ministra i državnih tajnika.

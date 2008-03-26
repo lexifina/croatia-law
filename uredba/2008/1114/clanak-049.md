@@ -1,0 +1,6 @@
+# Članak 49.
+Odsjek za evidenciju i analizu učinaka programa ustrojava i vodi odgovarajuće evidencije svih programa iz djelokruga Odjela; sustavno prati i analizira provedbu programa; surađuje s poduzetnicima, korisnicima poticajnih mjera iz programa radi dobivanja podataka i izvješća o neposrednim učincima programa; analizira pokazatelje učinkovitosti mjera iz programa u odnosu na postavljene ciljeve, te po potrebi predlaže odgovarajuće izmjene programa; izrađuje propisana i druga izvješća i informacije o rezultatima provedbe programa; sudjeluje u predlaganju novih mjera poticaja za razvoj malog gospodarstva u turizmu; vodi računa o transparentnosti svih podataka o programima na web-stranicama Ministarstva; obavlja poslove vezane uz primjenu propisa o državnim potporama koji se odnose na djelokrug Odsjeka; sudjeluje u radu na pripremnim dokumentima vezanim za pregovore s EU i pripreme EU povelje za malo gospodarstvo; zajedno s drugim ustrojstvenim jedinicama sudjeluje u pripremi i izradi propisanih planova Ministarstva; obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova Odsjeka ustrojavaju se sljedeći odjeljci:
+7.1.2.2.1. Odjeljak za evidenciju programa
+7.1.2.2.2. Odjeljak za analizu učinaka programa.
+7.1.2.2.1. Odjeljak za evidenciju programa

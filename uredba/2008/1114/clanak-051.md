@@ -1,0 +1,3 @@
+# Članak 51.
+Odjeljak za analizu učinaka programa sustavno prati i analizira provedbu programa; surađuje s poduzetnicima, korisnicima poticajnih mjera iz programa radi dobivanja podataka i izvješća o neposrednim učincima programa; analizira pokazatelje učinkovitosti mjera iz programa u odnosu na postavljene ciljeve, te po potrebi predlaže odgovarajuće izmjene programa; sudjeluje u predlaganju novih mjera poticaja za razvoj malog gospodarstva u turizmu; sudjeluje u radu na pripremnim dokumentima vezanim za pregovore s EU i pripreme EU povelje za malo gospodarstvo; obavlja i druge poslove iz svog djelokruga.
+7.1.2.3. Odsjek za financijsko praćenje i nadzor provedbe programa

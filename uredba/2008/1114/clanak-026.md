@@ -1,0 +1,3 @@
+# Članak 26.
+Odjel za kategorizaciju kampova i luka nautičkog turizma izrađuje i provodi propise o razvrstavanju i kategorizaciji ugostiteljskih i turističkih objekata u neposrednom postupku; sudjeluje u izradi zaključaka, rješenja i drugih akata vezano uz postupak kategorizacije; u neposrednom postupku kategorizacije daje stručna mišljenja i surađuje s nadležnim uredima državne uprave u županijama; prati stanje kategoriziranih objekata i predlaže mjere za poboljšanje propisa o razvrstavanju i kategorizaciji, izrađuje periodične izvještaje i analize iz svojeg djelokruga; obavlja i druge poslove po potrebi.
+6.1.3. Odjel za kvalitetu

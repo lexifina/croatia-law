@@ -1,0 +1,3 @@
+# Članak 77.
+Odsjek za kapitalne projekte turističke infrastrukture sudjeluje u izradi strateških dokumenata na području infrastrukture; sudjeluje u izradi zakonskih i drugih propisa na području infrastrukture; prati razvoj infrastrukture u Republici Hrvatskoj te predlaže mjere za njeno poboljšanje sukladno potrebama turizma; sudjeluje u planiranju razvitka turističke infrastrukture na razini države (kapitalna turistička infrastruktura); sudjeluje u utvrđivanju mjera i prioriteta za provođenje planova kapitalne turističke infrastrukture, te obavlja i druge poslove po potrebi.
+11.1.2. Odsjek za turističku infrastrukturu u užem smislu
