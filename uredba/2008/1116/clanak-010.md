@@ -1,0 +1,2 @@
+# Članak 10.
+Tijelo nadležno za upravljanje prvom komponentom programa IPA Pomoć u tranziciji i jačanje institucija je Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije, ustrojstvena jedinica zadužena za programe Europske unije namijenjene jačanju institucionalne sposobnosti za pridruživanje, a tijelo nadležno za provedbu je Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije.
