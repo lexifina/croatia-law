@@ -1,0 +1,3 @@
+# Članak 243.
+Odjel za informacijsko upravljanje provodi razvoj namjenske programske informatičke podrške za provedbu svih poslova Ravnateljstva, koji osigurava preglednost i dosljednost u skladu s europskim standardima i metodama pri razvoju programske opreme; provodi analize sustava programske podrške; izrađuje metodološke i tehnološke podloge za provedbu razvoja programske podrške na zahtjev jedinica u Ravnateljstvu; priprema dokumentaciju o dostupu do podataka, pomaže pri planiranju održavanja informacijskog sustava u smislu programske podrške, te obavlja druge poslove u okviru svoje nadležnosti.
+13.7.2. Odjel za tehničku pomoć

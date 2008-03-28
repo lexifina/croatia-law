@@ -1,0 +1,6 @@
+# Članak 111.
+Odjel za provedbu raspolaganja i nadzor nad raspolaganjem poljoprivrednim zemljištem izvršava zakone, propise i druge podzakonske akte koji se odnose na poljoprivredno zemljište u vlasništvu države, izrađuje nacrte prijedloga zakona, te podzakonske akte; uređuje pravne odnose na poljoprivrednom zemljištu, obavlja poslove u svezi raspolaganja i gospodarenja poljoprivrednim zemljištem putem javnih natječaja za zakup, prodaju i koncesiju, priprema suglasnost na odluku o raspisivanju javnog natječaja za prodaju i zakup poljoprivrednog zemljišta u vlasništvu države, te suglasnost na odluku o izboru najpovoljnije ponude koju donosi općinsko, odnosno gradsko vijeće, odnosno Skupština Grada Zagreba na čijem se području zemljište nalazi, priprema odluku o zamjeni poljoprivrednog zemljišta u vlasništvu države, daje suglasnost na program raspolaganja poljoprivrednim zemljištem u vlasništvu države, koji donosi jedinica lokalne samouprave, provodi očevide u postupcima raspolaganja,
+Za obavljanje poslova iz djelokruga ovoga Odjela ustrojavaju se sljedeći odsjeci:
+7.1.1.1. Odsjek za provedbu raspolaganja poljoprivrednim zemljištem,
+7.1.1.2. Odsjek za nadzor nad raspolaganjem poljoprivrednim zemljištem.
+7.1.1.1. Odsjek za provedbu raspolaganja poljoprivrednim zemljištem

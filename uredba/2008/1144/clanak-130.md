@@ -1,0 +1,3 @@
+# Članak 130.
+Odsjek za Tržišno informacijski sustav u poljoprivredi obavlja sljedeće poslove: upravlja Tržišno informacijskim sustavom u poljoprivredi pomoću kojega se prate kretanja na tržištu poljoprivredno-prehrambenih proizvoda, propisuje metodologiju prikupljanja i obrade podataka, koordinira prikupljanje podataka o količinama i cijenama poljoprivrednih proizvoda i inputa u poljoprivredi na terenu, vrši obradu, pohranu i publiciranje podataka o kretanjima na tržištu poljoprivredno-prehrambenih proizvoda, održava web-stranicu TISUP-a, unapređuje sustav praćenja i izvješćivanja o cijenama, kako je regulirano tržnim redovima u sklopu Zajedničke poljoprivredne politike EU.
+8.1.3.2. Odsjek za poljoprivredne informacije i dokumentaciju

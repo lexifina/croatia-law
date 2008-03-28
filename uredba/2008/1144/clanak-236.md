@@ -1,0 +1,3 @@
+# Članak 236.
+Odsjek za provedbu mjera SAPARD programa i prioriteta 1 i 3 IPARD programa provodi sljedeće mjere: »Ulaganje u poljoprivredna gospodarstva«, »Ulaganje u preradu i trženje poljoprivrednih i ribljih proizvoda«, »Poboljšanje i razvoj ruralne infrastrukture«, »Diversifikacija i razvitak gospodarskih aktivnosti u ruralnim područjima». Zaprima prijave za dodjelu sredstava za navedene mjere; obavlja administrativnu kontrolu zaprimljenih prijava; procjenjuje prihvatljivost podataka iz zaprimljenih prijava; priprema izvješća o rezultatima provedbe mjera iz svoje nadležnosti.
+13.5.3. Odjel za odobrenje isplata u SAPARD/IPARD programu

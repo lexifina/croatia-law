@@ -1,0 +1,3 @@
+# Članak 25.
+Odsjek za opće poslove vodi, kontrolira, ažurira i daje izvješća iz osobnog očevidnika, obavlja administrativne poslove ostvarivanja prava na zdravstveno i mirovinsko osiguranje državnih službenika, obavlja poslove u svezi Plana godišnjih odmora i rješenja o godišnjim odmorima, izrađuje rješenja po Kolektivnom ugovoru,rješava pitanja koja se odnose na državnu službu, priprema prijedloge planova prijema u državnu službu, sudjeluje u izradi strategija, programa i kadrova, vodi osobne očevidnike službenika i namještenika i dostavlja nove podatke u Središnji popis državnih službenika i provodi postupak prijma u državnu službu u suradnji sa Središnjim uredom državne uprave.
+3.2.2. Odjel za izobrazbu

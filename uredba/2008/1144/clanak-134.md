@@ -1,0 +1,3 @@
+# Članak 134.
+Odsjek za Europsku uniju obavlja sljedeće poslove: koordinira izradu pregovaračkih dokumenata i provedbu pristupnih pregovora s Europskom komisijom u području poljoprivrede; koordinira izradu plana zakonodavnog i administrativnog usklađivanja s propisima Europske unije; priprema radne materijale te sudjeluje u radu zajedničkih tijela osnovanih temeljem Sporazuma o stabilizaciji i pridruživanju (Pododbora za poljoprivredu i ribarstvo, Odbora za stabilizaciju i pridruživanje, Vijeća za stabilizaciju i pridruživanje); obavlja poslove koji proizlaze iz provedbe Sporazuma o stabilizaciji i pridruživanju; koordinira tehničku pomoć putem TAIEX ureda pri Općoj upravi za proširenje Europske komisije.
+8.2.1.2. Odsjek za međunarodne trgovinske odnose u poljoprivredi

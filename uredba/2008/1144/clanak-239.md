@@ -1,0 +1,3 @@
+# Članak 239.
+Odjel za financijske poslove izrađuje Prijedlog plana proračuna Ravnateljstva, prati njegovo izvršavanje; izrađuje financijske planove i kontrolira namjensko trošenje novčanih sredstava u skladu s planiranim aktivnostima i projektima; obavlja poslove Državne riznice za nacionalna plaćanja; dostavlja zahtjeve za sredstva Ministarstvu financija; transferira sredstva ostalih proračunskih pozicija unutar Ravnateljstva; izvršava plaćanja korisnicima nacionalnih potpora i sredstava iz EU fondova; pored nacionalnih plaćanja Odjel provodi zadane procedure na osnovi programa SAPARD/IPARD i ostalih predpristupnih fondova; vrši kontrolu provedenih postupaka i obavlja druge poslove sukladno posebnim propisima.
+13.6.2. Odjel za računovodstvo

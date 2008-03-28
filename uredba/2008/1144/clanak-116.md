@@ -1,0 +1,3 @@
+# Članak 116.
+Odsjek baze podataka poljoprivrednog zemljišta izvršava zakone, propise i druge podzakonske akte koji se odnose na poljoprivredno zemljište i surađuje s drugim tijelima državne uprave u izradi prijedloga zemljišne politike, izrađuje odgovarajuće stručne podloge (izvješća, elaborate analize, evidencije), te na drugi način prikuplja saznanja o radu u svom djelokrugu; radi poslove uspostave informacijskog sustava za raspolaganje poljoprivrednim zemljištem u vlasništvu države; radi na uspostavi i primjeni GIS tehnologije u gospodarenju poljoprivrednim zemljištem.
+7.2. Sektor za zaštitu, promjenu namjene, komasaciju i uređenje poljoprivrednog zemljišta

@@ -1,0 +1,6 @@
+# Članak 215.
+Služba za unutarnju reviziju obavlja unutarnje revizije korištenja sredstava na temelju provedbe programa Europske unije, korištenje sredstava na temelju provedbe mjera nacionalne poljoprivredne politike te ostalih funkcija Ravnateljstva. Unutarnje revizije obavljaju se u skladu s međunarodno prihvaćenim revizijskim standardima i kodeksom strukovne etike unutarnjih revizora. Donosi strateški i godišnji plan unutarnje revizije na kojem se temelji obavljanje budućih unutarnjih revizija iz djelokruga rada Ravnateljstva; identificira sustave i procese te na temelju procjene rizika utvrđuje i procjenjuje funkcioniranje unutarnjih kontrola Ravnateljstva; procjenjuje točnost i pouzdanost financijskih transakcija vezanih za korištenje financijskih sredstava iz nacionalnog proračuna te EU fondova (SAPARD/IPARD). Surađuje sa Upravom za harmonizaciju unutarnje revizije i financijske kontrole Ministarstva financija, a što uključuje dostavu strateških i godišnjih planova te godišnja izvješća ovoj Upravi.
+Za obavljanje poslova iz djelokruga Službe za unutarnju reviziju ustrojavaju se sljedeći odjeli:
+13.1.1. Odjel za unutarnju reviziju korištenja sredstava Europske unije,
+13.1.2. Odjel za unutarnju reviziju korištenja sredstava za provedbe mjera nacionalne poljoprivredne politike.
+13.1.1. Odjel za unutarnju reviziju korištenja sredstava Europske unije

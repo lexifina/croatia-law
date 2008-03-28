@@ -1,0 +1,6 @@
+# Članak 32.
+Odsjek za računovodstvene poslove u okviru svoje nadležnosti obavlja upravne i stručne poslove vezane za ustrojavanje i vođenje zakonom propisanih poslovnih knjiga, vrši formalnu i računsku kontrolu knjigovodstvene dokumentacije, obavlja kontiranje i knjiženje poslovnih događaja u analitičkim evidencijama i glavnoj knjizi, te izrađuje godišnje, polugodišnje, tromjesečne i mjesečne statističke izvještaje. Vrši obračun plaća i ostalih primanja dužnosnika, državnih službenika i namještenika, obračun i isplatu dohotka od intelektualnih i ostalih usluga, izrađuje i dostavlja nadležnim institucijama propisana izvješća o isplatama svih vrsta dohotka te obveznih doprinosa, poreza i prireza. Obavlja i brine o rokovima plaćanja svih obveza, vodi sve potrebne knjigovodstvene evidencije i statistike iz financijskog i materijalnog poslovanja, sudjeluje u ustroju godišnjeg popisa imovine, izrađuje preglede po vrstama rashoda sukladno zakonskim propisima, obavlja devizno poslovanje, obavlja poslove vezane za uplatu i isplatu preko kunske i devizne blagajne, te obavlja druge poslove.
+Za obavljanje poslova iz djelokruga ovoga Odsjeka ustrojavaju se sljedeći pododsjeci:
+3.3.2.1.1. Pododsjek za knjigovodstvene poslove,
+3.3.2.1.2. Pododsjek za platni promet.
+3.3.2.1.1. Pododsjek za knjigovodstvene poslove

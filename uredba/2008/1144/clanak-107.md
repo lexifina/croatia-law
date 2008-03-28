@@ -1,0 +1,3 @@
+# Članak 107.
+Odsjek za upravno-pravne i ovršne postupke obavlja poslove organizacije i osiguranja uvjeta za izvršavanje inspekcijskih rješenja Uprave; priprema odgovore i očitovanja na zahtjev Državnog odvjetništva Republike Hrvatske u postupcima ovrhe i parničnim postupcima; sudjeluje u pripremi i izradi prijedloga državnog proračuna iz djelokruga Uprave; daje mišljenja i objašnjenja u svezi s primjenom zakona; sudjeluje u izradi nacrta zakona, podzakonskih propisa i općih akata iz djelokruga Uprave; sudjeluje u radu povjerenstava za rješavanje o žalbama na prvostupanjska rješenja inspektora te pravno uobličava nacrte prvostupanjskih rješenja; surađuje s upravnim i pravosudnim tijelima.
+6.3.2. Odsjek za unapređenje rada i međunarodnu suradnju

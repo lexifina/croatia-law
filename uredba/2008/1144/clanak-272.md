@@ -1,0 +1,3 @@
+# Članak 272.
+Odsjek za športski ribolov prikuplja i analizira podatke o športskom ribolovu na slatkim vodama; vodi postupak u svezi s tiskanjem i raspodjelom dozvola za športski ribolov; analizira i pohranjuje podatke o športskom ribolovnu na slatkim vodama; predlaže mjere za racionalno, odgovorno i održivo gospodarenje ribolovnim područjima i ribolovnim zonama; predlaže način praćenja stanja bioloških bogatstava (monitoring); predlaže način racionalnog gospodarenja ribama i drugim vodenim organizmima, kao i način njihove zaštite, te predlaže mjere unaprjeđenja slatkovodnog ribarstva; priprema stručne podloge i predlaže nacrte zakona i drugih propisa iz područja športskog ribolova na slatkim vodama.
+14.2. Sektor za strukturne i tržišne mjere u ribarstvu

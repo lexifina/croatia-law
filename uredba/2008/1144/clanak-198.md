@@ -1,0 +1,2 @@
+# Članak 198.
+Odsjek za financiranje službenih kontrola sudjeluje u izradi tehničkog sustava financiranja službenih kontrola; kontrola prikupljanja i raspodjele financijskih sredstava u ovome sustavu. Kontrolira prikupljanje i raspodjelu financijskih sredstava u sustavu službenih kontrola, analizira postojeće stanje i predlaže rješenja za veću učinkovitost sustava, izvještava ravnatelja o svim uočenim nepravilnostima te obavlja i druge poslove u svezi financiranja službenih kontrola.

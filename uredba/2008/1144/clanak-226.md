@@ -1,0 +1,3 @@
+# Članak 226.
+Odjel za intervencije na tržištu provodi intervencijske mjere koje uključuju intervencijsku kupovinu i prodaju, povlačenje poljoprivrednih proizvoda s domaćeg tržišta i potporu skladištenju poljoprivrednih proizvoda; provodi mjere uravnoteženja ponude; priprema obrasce i upute za korisnike, informira korisnike, priprema metodologiju zaprimanja i obrade podataka, zaprima, obrađuje i odobrava zahtjeve, unosi i obrađuje podatke, u suradnji s pravnom službom rješava žalbe u I. stupnju; priprema izvješća za Ministarstvo i institucije EU, surađuje s nacionalnim i međunarodnim organizacijama.
+13.4. Sektor za direktnu potporu

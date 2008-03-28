@@ -1,0 +1,3 @@
+# Članak 240.
+Odjel za računovodstvo prati i provodi propise vezane za financijsko i računovodstveno poslovanje, izrađuje periodična i godišnja izvješća za nacionalna plaćanja i plaćanja za mjere SAPARD/IPARD programa te ostale pretpristupne programe, te ih konsolidira za izvještajna razdoblja; sudjeluje u izradi financijskih planova i vodi računa o namjenskom trošenju sredstava u skladu s planiranim aktivnostima i projektima, obavlja evidencije financijskih događaja u poslovnim knjigama; vrši kontrolu provedenih postupaka i obavlja druge poslove sukladno posebnim propisima.
+13.6.3. Odjel za izvještavanje

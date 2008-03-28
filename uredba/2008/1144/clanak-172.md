@@ -1,0 +1,3 @@
+# Članak 172.
+Odsjek za mlijeko, jaja i med izrađuje prijedloge propisa kojima se reguliraju veterinarsko-zdravstveni uvjeti kojima moraju udovoljavati objekti za proizvodnju, prihvat, obradu, preradu i uskladištenje mlijeka i mliječnih proizvoda te jaja i meda. Prati i analizira međunarodne propise. Izrađuje izvješća, naputke i daje stručna mišljenja vezana uz provedbu propisa iz djelokruga rada. Organizira seminare i stručne skupove. Surađuje s znanstveno-istraživačkim institucijama iz djelokruga nadležnosti. Sudjeluje u provedbi projekata prilagodbe nacionalnih propisa sa propisima EU. Obavlja i druge upravne i stručne poslove određene zakonom koji se odnose na higijenu hrane životinjskog podrijetla i veterinarsko javno zdravstvo.
+10.2.1.4. Odsjek za ribe i školjkaše

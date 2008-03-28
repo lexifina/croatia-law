@@ -1,0 +1,3 @@
+# Članak 125.
+Odsjek za za koordinaciju potpore Svjetske banke obavlja sljedeće poslove: upravlja provedbom Projekta sukladno procedurama Svjetske banke, planira provedbu projektnih aktivnosti i proračun Projekta, koordinira komunikaciju između korisnika Projekta i Svjetske banke, povlači sredstva zajma Svjetske banke i vrši isplate, vodi računovodstvo Projekta, provodi nabavu u sklopu Projekta i vrši isplate dobavljačima, prati izvršenje aktivnosti u sklopu Projekta, izvještava Svjetsku banku i nadležne institucije Republike Hrvatske o provedbi aktivnosti na Projektu, pruža potporu radu Upravljačkom odboru Projekta.
+8.1.2. Odjel za planiranje i analizu poljoprivredne politike

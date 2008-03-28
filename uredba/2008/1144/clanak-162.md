@@ -1,0 +1,3 @@
+# Članak 162.
+Odsjek za zoonoze vodi bazu podataka o pojavi bolesti životinja i posebno ažurira podatke uključujući podatke iz kliničkih i veterinarskih dijagnostičkih laboratorija o izbijanju zoonoza u životinja; istražuje razloge za izbijanje zoonoza; izrađuje mjesečna izvješća o pojavi i distribuciji zoonoza kod životinja; razmjenjuje informacije i surađuje s Ministarstvom zdravstva i socijalne skrbi te Hrvatskim zavodom za javno zdravstvo u cilju unaprjeđenja suradnje po pitanju izbijanja zoonoza kod ljudi i životinja; sudjeluje u usklađivanju veterinarskih propisa koji se odnose na kontrolu zoonoza s propisima EU.
+10.1.2. Odjel za organizaciju veterinarske službe i označavanje životinja

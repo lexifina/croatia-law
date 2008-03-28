@@ -1,0 +1,3 @@
+# Članak 18.
+Odsjek za posebne imovinsko-pravne postupke obavlja stručne poslove vezane za provedbu zakona kojima se uređuju imovinsko-pravni odnosi vezani za uređenje služnosti na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske, od uvida u nacrt prijedloga odluka Povjerenstva Vlade Republike Hrvatske za upravljanje državnom imovinom, kompletiranja predmeta, izrade i sklapanja ugovora o služnosti na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske na temelju odluka o osnivanju služnosti koje donosi Povjerenstvo te ostvarivanje suradnje s drugim tijelima državne uprave, tijelima jedinica lokalne i područne (regionalne) samouprave u postupku izrade i provedbe navedenih ugovora.
+3.1.3.2. Odsjek za opće pravne poslove

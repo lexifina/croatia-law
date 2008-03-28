@@ -1,0 +1,3 @@
+# Članak 30.
+Odsjek za izvršavanje proračuna obavlja upravne i stručne poslove vezane za izvršavanje proračuna, vrši kontrolu ispravnosti dokumentacije za unos u sustav Državne riznice, kontrolira, evidentira i usklađuje obveze s poslovnim partnerima, vrši rezervaciju sredstava u propisanim i ugovorenim rokovima i iznosima usklađenim s dodijeljenim sredstvima i dospjelim obvezama. Ispostavlja zahtjeve za plaćanje unosom podataka iz naloga za plaćanje i dostavljene dokumentacije u sustav Državne riznice, surađuje s Ministarstvom financija u vezi s radom sustava riznice i Financijskom agencijom u vezi s otvaranjem dobavljača u sustavu, modela plaćanja kroz sustav riznice, te obavlja i druge poslove.
+3.3.2. Odjel za računovodstvene poslove

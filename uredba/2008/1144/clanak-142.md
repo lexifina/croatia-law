@@ -1,0 +1,2 @@
+# Članak 142.
+Odsjek za bilateralnu suradnju obavlja sljedeće poslove: prati i analizira suradnju s ministarstvima i institucijama drugih zemalja, sudjeluje u pripremi sastanaka na ministarskoj razini, priprema i prati provedbu međunarodnih sporazuma i protokola o suradnji na području poljoprivrede, prati rad mješovitih međudržavnih gospodarskih odbora u području poljoprivrede, priprema i koordinira provedbu projekata iz donacija i tehničke pomoći, sudjeluje u promotivnim djelatnostima Ministarstva.

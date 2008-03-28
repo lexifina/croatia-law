@@ -1,0 +1,3 @@
+# Članak 131.
+Odsjek za poljoprivredne informacije i dokumentaciju obavlja sljedeće poslove: prikuplja i organizira gotove statističke podatke i statistička izvješća u elektronskom obliku za potrebe rada Ministarstva, vodi arhivu domaćih i stranih tiskanih publikacija vezanih uz statistiku poljoprivrede, prikuplja i organizira informacije i dokumentaciju vezane uz domaću poljoprivredu, što se odnosi na poljoprivrednu legislativu, rezultate studija i projekata te izvješća, surađuje s domaćim i međunarodnim institucijama u području informacija u poljoprivredi, koordinira izradu godišnjeg izvješća o stanju u poljoprivredi (Zeleno izvješće).
+8.2. Sektor za EU i međunarodnu suradnju

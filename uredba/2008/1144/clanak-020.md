@@ -1,0 +1,6 @@
+# Članak 20.
+Služba za razvoj i upravljanje kadrovima brine o upravljanju kadrovima i njihovom razvoju, daje mišljenja o pitanjima koja se odnose na državnu službu, priprema prijedloge planova prijema u državnu službu usklađujući raspored državnih službenika s planovima Središnjeg državnog ureda za upravu, sudjeluje u izradi strategija, programa i kadrova izobrazbe Ministarstva, vodi osobne očevidnike službenika i namještenika i dostavlja nove podatke u Središnji popis državnih službenika i provodi postupak prijama u državnu službu u suradnji sa Središnjim državnim uredom za upravu. Prati i osigurava primjenu zakona i drugih propisa iz područja radnopravnih odnosa, priprema prijedloge rješenja o prijemu i rasporedu službenika i namještenika i ostalih rješenja iz područja radnopravnih odnosa, sudjeluje u izradi, donošenju i provedbi programa obrazovanja osposobljavanja i stručnog usavršavanja, prati statusna stanja dužnosnika, državnih službenika i namještenika i promicanje u službi.
+Za obavljanje poslova iz djelokruga Službe za razvoj i upravljanje kadrovima ustrojavaju se sljedeći odjeli:
+3.2.1. Odjel za službeničke odnose,
+3.2.2. Odjel za izobrazbu.
+3.2.1. Odjel za službeničke odnose

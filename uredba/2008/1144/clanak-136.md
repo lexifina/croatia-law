@@ -1,0 +1,3 @@
+# Članak 136.
+Odjel za trgovinsku politiku obavlja poslove vezane uz: oblikovanje i koordinaciju provedbe trgovinskih mjera u području poljoprivrede u skladu s obvezama Republike Hrvatske prema Svjetskoj trgovinskoj organizaciji te sukladno dogovorenim uvjetima iz sporazuma o slobodnoj trgovini; prati tijek poljoprivredne razmjene i predlaže mjere trgovinske politike u slučaju poremećaja na tržištu poljoprivrednih proizvoda; sudjeluje u izradi Carinske tarife za svaku kalendarsku godinu; izvješćuje Tajništvo Svjetske trgovinske organizacije i nadležna tijela u drugim zemljama o poduzetim mjerama trgovinske politike u području poljoprivrede u Republici Hrvatskoj.
+8.2.3. Odjel za EU programe

@@ -1,0 +1,8 @@
+# Članak 261.
+Sektor upravljanja resursima i flotom obavlja poslove iz područja upravljanja resursima mora i slatkih voda, upravljanja flotom te djelatnosti uzgoja ribe i drugih vodenih organizama; provodi upravni nadzor nad izvršavanjem zakona, propisa i drugih općih akata iz područja ribarstva koji su u nadležnosti Sektora; koordinira i objedinjava rad Odjela upravljanja resursima mora, Odjela upravljanja flotom, Odjela za akvakulturu i Odjela slatkovodnog ribolova; izrađuje zakonske i podzakonske propise i provodi postupak usklađenja hrvatskog zakonodavstva sa zakonodavstvom Europske unije; prati stanje u području upravljanja resursima mora i slatkih voda i flotom te priprema stručne podloge i predlaže potrebne državne mjere u okviru svoje nadležnosti; usmjerava i daje inicijativu za rješavanje pojedinih pitanja i predlaže mjere unapređenja ribarstva; koordinira izradu i objedinjava Nacionalni program razvoja ribarstva u segmentu upravljanja resursima i flotom; sudjeluje u izradi proračuna; predlaže provođenje strukturnih i tržišnih mjera u okviru svoje nadležnosti; obavlja i koordinira poslove međunarodne suradnje na razini Sektora; surađuje sa stručnim i znanstvenim ustanovama iz područja ribarstva te prati i koordinira u okviru ovlasti Ministarstva rad stručnih službi; provodi i ostale poslove koji mu se stave u nadležnost.
+Za obavljanje poslova iz djelokruga Sektora upravljanja resursima i flotom ustrojavaju se sljedeći odjeli:
+14.1.1. Odjel upravljanja resursima mora,
+14.1.2. Odjel upravljanja flotom,
+14.1.3. Odjel za akvakulturu,
+14.1.4. Odjel slatkovodnog ribolov.
+14.1.1. Odjel upravljanja resursima mora

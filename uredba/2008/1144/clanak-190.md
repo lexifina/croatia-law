@@ -1,0 +1,6 @@
+# Članak 190.
+Sektor granične veterinarske inspekcije i međunarodnog prometa obavlja poslove kontrole i nadzora zdravstvenog stanja pošiljaka životinja i proizvoda životinjskog podrijetla u uvozu i provozu; obavlja analizu rizika u svezi s međunarodnim prometom živih životinja i proizvoda životinjskog podrijetla, te nusproizvoda životinjskog podrijetla; obavlja poslove koji se odnose na izradu propisa vezanih uz kontrolu životinja i proizvoda životinjskog podrijetla u uvozu, provozu i izvozu, te druge stručne i upravne poslove iz područja međunarodnog prometa životinja i proizvoda životinjskog podrijetla; sudjeluje u izradi bilateralnih sporazuma vezanih za promet životinja i drugih pošiljaka u međunarodnom prometu; prati uvjete o zdravstvenom stanju u međunarodnom prometu i izrađuje modele i obrasce odgovarajućih certifikata za izvoz, provoz i uvoz; određuje veterinarske uvjete za uvoz i provoz životinja i proizvoda životinjskog podrijetla, te u tom smislu priprema rješenja o nepostojanju veterinarsko-zdravstvenih smetnji.
+Za obavljanje poslova iz djelokruga Sektora granične veterinarske inspekcije i međunarodnog prometa ustrojavaju se sljedeći odjeli:
+11.2.1. Odjel granične veterinarske inspekcije,
+11.2.2. Odjel za međunarodni promet i analizu rizika.
+11.2.1. Odjel granične veterinarske inspekcije

@@ -1,0 +1,3 @@
+# Članak 115.
+Odsjek plana i analize poljoprivrednog zemljišta izvršava zakone, propise i druge podzakonske akte koji se odnose na poljoprivredno zemljište u vlasništvu države daje mišljenje u svezi s raspolaganjem poljoprivrednim zemljištem u vlasništvu države, predlaže koncepte raspolaganja poljoprivrednim zemljištem u vlasništvu države, surađuje s drugim nadležnim tijelima u izradi prijedloga zemljišne politike s posebnim osvrtom na oblike raspolaganja poljoprivrednim zemljištem u vlasništvu države, prikuplja podatke i izrađuje odgovarajuće stručne podloge, izvješća, analize o raspolaganju o poljoprivrednom zemljištu u vlasništvu države.
+7.1.2.2. Odsjek baze podataka poljoprivrednog zemljišta

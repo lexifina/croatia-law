@@ -1,0 +1,3 @@
+# Članak 220.
+Odjel za EU odnose koordinira suradnju između Ravnateljstva i institucija EU, vodi protokole, ima ulogu tijela za usklađivanje pri izradi izvješća za EU i vodi aktivnosti na usklađivanju s postojećim izvješćima (osim financijskih), komunicira s drugim tijelima državne uprave, organizira, vodi i koordinira međunarodnu strukovnu razmjenu te vrši koordinaciju praćenja EU projekata i programa kojima je Ravnateljstvo korisnik (twining i twinning light programi, bilateralna strukovna pomoć, projekti tehničke pomoći), organizira međudržavne posjete, prevodi i tumači za potrebe Ravnateljstva.
+13.2.3. Odjel za upravljanje procesnom dokumentacijom

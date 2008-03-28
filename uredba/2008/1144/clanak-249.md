@@ -1,0 +1,3 @@
+# Članak 249.
+Odjel pravnih poslova u SAPARD i IPARD programu priprema nacrte i prati aktivnosti sklapanja ugovora i sporazuma u provedbi SAPARD i IPARD programa, prati i usklađuje primjenu propisa u provedbi SAPARD i IPARD programa, priprema odgovore na tužbu i druga pravna pitanja u okviru aktivnosti SAPARD i IPARD programa; daje mišljenja na nacrte ugovora u provedbi SAPARD i IPARD programa, priprema stručne upute za nadležno Državno odvjetništvo kada zastupa Republiku Hrvatsku u sudskim postupcima proizašlim iz provedbe SAPARD i IPARD programa; izrađuje mišljenja na nacrte propisa iz djelokruga provedbe SAPARD i IPARD programa.
+13.8.4. Odjel za upravno pravne postupke

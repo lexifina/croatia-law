@@ -1,0 +1,6 @@
+# Članak 267.
+Odjel za akvakulturu prati provedbu zakona, propisa i drugih općih akata u okviru područja uzgoja ribe i drugih vodenih organizama; koordinira prikupljanje i pohranjivanje podataka o uzgoju te vrši njihovu analizu; koordinira radom Odsjeka za morsku akvakulturu i Odsjeka za slatkovodnu akvakulturu; izravno surađuje sa ministarstvima i institucijama nadležnima za pitanja zaštite okoliša, praćenja utjecaja na okoliš, prostornog planiranja i koncesioniranja, vezano za svu problematiku pozicioniranja djelatnosti u prostoru i praćenja utjecaja na okoliš; surađuje sa stručnim i znanstvenim ustanovama iz područja akvakulture; surađuje sa strukovnim udrugama iz područja akvakulture; predlaže mjere za racionalno, odgovorno i održivo gospodarenje; predlaže način praćenja stanja okoliša (monitoring); priprema stručne podloge i predlaže mjere i sudjeluje u provođenju strukturnih potpora za akvakulturu; provodi sve radnje vezano za međunarodne obaveze iz područja akvakulture; priprema i izrađuje izvješća, analize, prijedloge mjera i rješenja u morskoj i slatkovodnoj akvakulturi.
+Za obavljanje poslova iz djelokruga ovoga Odjela ustrojavaju se sljedeći odsjeci:
+14.1.3.1. Odsjek za morsku akvakulturu,
+14.1.3.2. Odsjek za slatkovodnu akvakulturu.
+14.1.3.1. Odsjek za morsku akvakulturu

@@ -1,0 +1,3 @@
+# Članak 248.
+Odjel javne nabave u SAPARD i IPARD programu prati provedbu natječaja sukladno pravilima definiranim u Priručniku Europske komisije pod nazivom »Pravila i procedure za ugovore o uslugama, nabavi i radovima financiranim iz općeg proračuna Europskih zajednica u okviru suradnje s trećim državama«, koordinira i provodi poslove javnih nabava i ograničenih prikupljana ponuda, priprema obavijesti za korisnike natječaja, priprema potrebnu dokumentaciju vezanu za provedbu javne nabave drugim odjelima i sektorima unutar Ravnateljstva za tržišnu i strukturnu potporu u poljoprivredi.
+13.8.3. Odjel pravnih poslova u SAPARD i IPARD programu

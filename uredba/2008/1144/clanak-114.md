@@ -1,0 +1,6 @@
+# Članak 114.
+Odjel plana, analize i baze podataka poljoprivrednog zemljištem izvršava zakone, propise i druge podzakonske akte koji se odnose na poljoprivredno zemljište u vlasništvu države daje mišljenje u svezi s raspolaganjem poljoprivrednim zemljištem u vlasništvu države, predlaže koncepte raspolaganja poljoprivrednim zemljištem u vlasništvu države, surađuje s drugim nadležnim tijelima u izradi prijedloga zemljišne politike s posebnim osvrtom na oblike raspolaganja poljoprivrednim zemljištem u vlasništvu države, prikuplja podatke i izrađuje odgovarajuće stručne podloge, izvješća, analize o raspolaganju o poljoprivrednom zemljištu u vlasništvu države, surađuje s drugim tijelima državne uprave u izradi prijedloga zemljišne politike, izrađuje odgovarajuće stručne podloge (izvješća, elaborate analize, evidencije), te na drugi način prikuplja saznanja o radu u svom djelokrugu; radi poslove uspostave informacijskog sustava za raspolaganje poljoprivrednim zemljištem u vlasništvu države; radi na uspostavi i primjeni GIS tehnologije u gospodarenju poljoprivrednim zemljištem.
+Za obavljanje poslova iz djelokruga ovoga Odjela ustrojavaju se sljedeći odsjeci:
+7.1.2.1. Odsjek plana i analize poljoprivrednog zemljišta,
+7.1.2.2. Odsjek baze podataka poljoprivrednog zemljišta.
+7.1.2.1. Odsjek plana i analize poljoprivrednog zemljišta
