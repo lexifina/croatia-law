@@ -1,0 +1,3 @@
+# Članak 7.
+Ako podnositelj zahtjeva koji je prethodno uredno obaviješten o vremenu obavljanja službene radnje iz članka 10. stavka 2. točke 6. Zakona o oružju, svojom odsutnošću ili odsutnošću osobe koja ga zastupa, onemogući provođenje službene radnje, policijski službenik će ostaviti punoljetnoj osobi, zatečenoj na mjestu provođenja službene radnje ili punoljetnom susjedu podnositelja zahtjeva pisanu obavijest o vremenu narednog pregleda.
+U slučaju da podnositelj zahtjeva ili osoba koja ga zastupa ponovno ne osigura mogućnost obavljanja službene radnje, policijski službenik će o tome sastaviti službenu zabilješku i dostaviti je na postupanje nadležnom tijelu.
