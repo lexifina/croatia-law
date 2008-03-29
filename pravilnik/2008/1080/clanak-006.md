@@ -1,0 +1,2 @@
+# Članak 6.
+Dozvoljene vrste i kalibri dugog vatrenog oružja za samoobranu su repetirajuće i poluautomatske puške s jednom užlijebljenom cijevi u pištoljskim i revolverskim kalibrima, zaključno s nazivnim kalibrom 12,7 mm (0.50 incha) koje nisu slične automatskom vatrenom oružju, a prema popisu dozvoljenih kalibara prikazanom u Tablici 4 koja je tiskana uz ovaj Pravilnik i čini njegov sastavni dio.
