@@ -1,0 +1,27 @@
+IZDVOJENO MIŠLJENJE
+UZ OBRAZLOŽENJE ODLUKE BROJ: U-I-3851/2004
+OD 12. OŽUJKA 2008.
+Odlukom broj: U-I-3851/2004 od 12. ožujka 2008. (dalje u tekstu: Odluka) Ustavni sud ukinuo je članak 8. stavak 2. Zakona o doplatku za djecu (»Narodne novine« broj 94/01., 138/06. i 107/07., dalje u tekstu: ZDD). Moje je mišljenje da Odluka ne sadrži relevantnu ustavnu interpretaciju mjerodavnih odredaba Ustava. Također ne sadrži ni relevantnu interpretaciju odredaba Konvencije o pravima djeteta. Republiku Hrvatsku ova Konvencija obvezuje temeljem notifikacije o sukcesiji (»Narodne novine« broj 12/93.), a dio je unutarnjeg pravnog poretka, po pravnoj je snazi iznad zakona temeljem odredbe članka 140. Ustava.
+Kao mjerodavne odredbe Ustava Ustavni sud u Odluci navodi odredbu članka 14. stavka 2., članka 62., članka 63. stavka 5. i članka 64. Ustava a uzete su u obzir i odredbe članka 2. stavka 1. i članka 3. stavka 2. Konvencije o pravima djeteta.
+Navedene mjerodavne odredbe Ustava sistematizirane su u glavi III. Zaštita ljudskih prava i temeljnih sloboda, posebice odjeljak 3. Gospodarska, socijalna i kulturna prava. Navedene odredbe Ustava, sistematizirane u odjeljku 3., ustavna su osnova za zakonsko uređenje zaštite djece (i obitelji), one glase:
+Članak 62.
+Država štiti, materinstvo, djecu i mladež te stvara socijalne, kulturne, odgojne, materijalne i druge uvjete kojima se promiče ostvarivanje prava na dostojan život.
+Članak 63. stavak 5.
+Država osobitu skrb posvećuje maloljetnicima bez roditelja i onima za koje se ne brinu roditelji.
+Članak 64. stavak 1.
+Dužnost je svih da štite djecu i nemoćne osobe.
+Konvencija o pravima djeteta uređuje prava djeteta kao posebna ljudska prava. Konvencija razlikuje nekoliko skupina prava djeteta: osobna, društvena, obrazovna, zdravstvena, socijalna, ekonomska prava i dr. Socijalna prava podrazumijevaju povlastice iz socijalne sigurnosti u koje ulazi i pravo na doplatak za djecu.
+Odredbom članka 2. stavka 1. Konvencije o pravim djeteta propisano je da će države stranke poštivati i osigurati svakom djetetu prava navedena u toj Konvenciji bez ikakve diskriminacije prema djetetu, njegovim roditeljima ili zakonskim skrbnicima, bez obzira na njihovu rasu, boju kože, spol, jezik, vjeru, političko ili drugo uvjerenje, nacionalno, etničko ili socijalno podrijetlo, imovinu, teškoće u razvoju ili druge okolnosti.
+Odredbom članka 26. Konvencije o pravima djeteta propisano je države stranke priznat će svakom djetetu pravo na povlastice iz socijalne sigurnosti, uključujući socijalno osiguranje, i poduzet će sve potrebne mjere za postizanje potpune primjene ovog prava u skladu s domaćim zakonodavstvom (st.1). Povlastice se moraju podijeliti gdje god je to moguće, uzimajući u obzir sredstva i okolnosti na strani djeteta i osoba koje su odgovorne za uzdržavanje djeteta, kao i svaku drugu okolnost značajnu za zahtjev za dobivanje povlastice, koje je podnijelo dijete osobno ili je podnesen u njegovo ime (st. 2).
+Pravo djeteta u stručnoj literaturi označava se i kao podvrsta ljudskih prava čiji smisao se sastoji u priznavanju posebnih potreba djeteta radi njegove zaštite za vrijeme njegova odrastanja do punoljetnosti.
+Bitno obilježje prava djeteta jest da je dijete ovlaštenik prava, pa tako i prava na doplatak za djecu (pretpostavka je ispunjenje uvjeta propisanih zakonom, imovinski cenzus).
+Uvažavajući hijerarhiju pravnih propisa u pravnom poretku Republike Hrvatske ZDD mora biti u skladu s Ustavom i Konvencijom o pravima djeteta.
+Koncepcija i normativni sadržaj ZDD ne slijedi zahtjeve Ustava i Konvencije o pravima djeteta. Posljedično ZDD različito definira doplatak za djecu, pored ostalog i kao »osobno pravo korisnika određenog ovim Zakonom« (članak 3. stavak 2.), sporazum bračnih drugova ako oba mogu ostvariti pravo na doplatak za djecu (članak 3. stavak 4.), korisnici doplatka za djecu taksativno su navedeni (članak 6. stavak 1.), razlikuje djecu koja imaju i djecu koja nemaju roditelje (članak 8. stavak 2.) itd.
+S obzirom da ZDD doplatak za djecu ne uređuje kao pravo djeteta ima za posljedicu neostvarenje tog prava u slučaju iz članka 8. stavka 2. posebice točka 4. (koji je ukinut) ali i drugim slučajevima. Tako u slučaju »ako oba bračna druga mogu ostvariti pravo na doplatak za djecu« dužni su se sporazumjeti koji od njih će to pravo ostvariti (članak 3. stavak 4.) doplatak za djecu ponekad pripada bračnom drugu koji ne skrbi o djetetu.
+Interpretacija mjerodavnih odredaba članaka 62., 63. i 64. Ustava i to po pravilima teleološke interpretacije trebala je polaziti od stajališta da je pravo na doplatak za djecu pravo djeteta i »slijedi« dijete neovisno o tome živi li dijete u zajedničkom domaćinstvu sa svojim biološkim roditeljima ili je smješteno u udomiteljsku obitelj, odnosno obitelj skrbnika, neovisno o tome je li oduzeta roditeljska skrb. To stajalište kao nesporno proizlazi i iz odredaba Konvencije o pravima djeteta.
+Slijedom izloženog, prema mojem mišljenju, u obrazloženju Odluke Ustavni sud trebao je izraziti stajalište da je doplatak za djecu pravo djeteta, a roditelji, skrbnici (zastupnici) dužni su poduzeti radnje za ostvarenje tog prava.
+Stajalište o pravu djeteta Ustavni sud izrazio je u Odluci broj: U-II-1993/2001 (»Narodne novine« broj 19/02).
+S obzirom da nemam dvojbe o tome da osporena odredba članka 8. stavka 2. ZDD nije suglasna s Ustavom, glasovala sam za Odluku.
+Zagreb, 14. ožujka 2008.
+Sutkinja
+Agata Račan, v. r.
