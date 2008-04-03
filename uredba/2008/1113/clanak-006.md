@@ -1,0 +1,6 @@
+# Članak 6.
+Odjel za proračun obavlja upravne i stručne poslove vezane za planiranje i pripremu, te izvršavanje proračuna, organizira i koordinira rad na izradi planova potrebnih financijskih sredstava za rad svih uprava, sukladno zakonskim propisima služeći se metodom racionalnog i namjenskog korištenja proračunskih sredstava, vrši kontrolu ispravnosti dokumentacije za unos u sustav Državne riznice, kontrolira, prati i primjenjuje promjene u području proračunskog računovodstva i računskom planu proračuna, vrši rezervaciju sredstava u propisanim i ugovorenim rokovima i iznosima usklađenim s dodijeljenim sredstvima i dospjelim obvezama. Ispostavlja zahtjeve za plaćanje unosom podataka iz naloga za plaćanje i dostavljene dokumentacije u sustav Državne riznice, surađuje s Ministarstvom financija u vezi s radom sustava riznice i Financijskom agencijom u vezi s otvaranjem dobavljača u sustavu, modela plaćanja kroz sustav riznice. Analizira i podnosi izvješća o trošenju proračunskih sredstava sukladno namjeni i planiranoj dinamici, te obavlja i druge poslove.
+Za obavljanje poslova Odjela ustrojavaju se sljedeći odsjeci:
+1.1.1.1. Odsjek za pripremu proračuna,
+1.1.1.2. Odsjek za izvršavanje proračuna.
+1.1.1.1. Odsjek za pripremu proračuna

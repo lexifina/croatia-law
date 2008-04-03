@@ -1,0 +1,3 @@
+# Članak 38.
+Pododsjek za dodjelu stanova daje u najam stambene objekte izvan područja posebne državne skrbi, priprema odgovarajuće ugovore o najmu, evidentira i prati izvršenje istih, u slučaju neizvršavanja uvjeta predlaže odgovarajuće mjere, odgovore na pismene primjedbe, predstavke i prigovore stranaka i pravnih subjekata vezano za dodjelu stanova izvan područja posebne državne skrbi, surađuje s regionalnim uredima vezano za dodjelu stanova korisnicima stambenog zbrinjavanje, vodi evidenciju o dodijeljenim stanovima i korisnicima stanova te izdanim ugovorima o najmu, te priprema odgovarajuće statistike i izvještaje.
+2.1.2.2. Odsjek za međunarodne programe

@@ -1,0 +1,7 @@
+# Članak 28.
+Sektor za stambeno zbrinjavanje provodi usvojene mjere koje se odnose na stambeno zbrinjavanje i povratak prognanika i izbjeglica a potiču naseljavanje i ostanak korisnika na područjima posebne državne skrbi, provodi strukturne mjere politike koji obuhvaćaju stambeno zbrinjavanje izvan područja posebne državne skrbi povratnika-bivših nositelja stambenog zbrinjavanja, provodi strukturne mjere politike koji obuhvaćaju povratak i ostanak prognanika i izbjeglica u mjesta prijeratnog prebivališta, sudjeluje u iniciranju i izradi programa, obavlja kontakte i surađuje s domaćim, inozemnim i međunarodnim institucijama i organizacijama oko usklađenja istih, koordinira i usklađuje aktivnosti vezano za suradnju s drugim državama nastalim raspadom bivše SFRJ oko povratka izbjeglica te provodi potpisane sporazume i ugovore vezano za povratak i lokalnu integraciju, vodi evidenciju o realiziranim programima, provodi praćenje i analizu svih poslova i aktivnosti iz nadležnosti Uprave za područja posebne državne skrbi.
+Za obavljanje poslova Sektora za stambeno zbrinjavanje ustrojavaju se sljedeći odjeli:
+2.1.1. Odjel za stambeno zbrinjavanje na područjima posebne državne skrbi,
+2.1.2. Odjel za stambeno zbrinjavanje izvan područja posebne državne skrbi i provedbu međunarodnih programa,
+2.1.3. Odjel za praćenje i analizu.
+2.1.1. Odjel za stambeno zbrinjavanje na područjima posebne državne skrbi

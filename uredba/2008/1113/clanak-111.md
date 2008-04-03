@@ -1,0 +1,3 @@
+# Članak 111.
+Odsjek za održivi razvoj na šumi i šumskom zemljištu obavlja stručne poslove vođenja postupaka za osnivanje služnosti na šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske u svrhu izgradnje infrastrukture, eksploatacije mineralnih sirovina, obavljanja turističkih djelatnosti, uzgoja stoke i divljači i sl. te podizanja višegodišnjih nasada, također provodi postupke davanja u zakup pojedinih šumskih zemljišta do privođenja namjeni određenoj šumskogospodarskim planovima, prati stanje i poduzima mjere u djelokrugu šumarske ekologije, sudjeluje u izradi podzakonskih akata i daje stručna mišljenja i objašnjenja o načinu provedbe zakona, praćenje direktiva EU i ugovora, sudjelovanje u procesima prilagodbe.
+6.1.3. Odjel za privatne šume

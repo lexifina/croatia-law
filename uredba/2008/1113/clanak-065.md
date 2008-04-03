@@ -1,0 +1,3 @@
+# Članak 65.
+Odsjek za koordinaciju i provedbu projekata obavlja stručne poslove koji se odnose na koordinaciju i usklađivanje rada svih sudionika u realizaciji projekata; neposredno organizira provedbu svih planiranih radova; prati izvršenje radova u skladu s odobrenim dinamičkim planom; usmjerava rad nadzornih službi i izvoditelja radova; uočava eventualne nepravilnosti u provedbi programa i poduzima odgovarajuće mjere za njihovo otklanjanje; organizira primopredaju završenih objekata; zaprima i obrađuje obračunske situacije sudionika; vodi očevidnike o izgrađenim objektima i o projektima u tijeku, priprema i izrađuje potrebna izvješća i analize, te obavlja i druge poslove i zadatke po nalogu nadređenih.
+3.1.2. Odjel za izgradnju objekata javne namjene

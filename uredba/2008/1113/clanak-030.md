@@ -1,0 +1,6 @@
+# Članak 30.
+Odsjek za stambeno zbrinjavanje na područjima posebne državne skrbi rješava predmete u postupku ostvarivanja prava na stambeno zbrinjavanje davanjem u najam obiteljske kuće ili stana u državnom vlasništvu, davanjem u najam oštećene obiteljske kuće u državnom vlasništvu i darovanjem građevinskog materijala, darovanjem građevinskog zemljišta u državnom vlasništvu i građevinskog materijala za izgradnju obiteljske kuće, darovanjem građevinskog materijala za popravak, obnovu ili izgradnju obiteljske kuće na područjima posebne državne skrbi, kompletira zaprimljene predmete podnositelja zahtjeva za sklapanje ugovora o najmu ili darovanju, evidentira i prati izvršenje istih, u slučaju neizvršavanja uvjeta predlaže odgovarajuće mjere, priprema odgovore na pismene primjedbe i predstavke stranaka i pravnih subjekata iz područja stambenog zbrinjavanja i povrata imovine, vodi evidenciju o broju podnijetih i riješenih zahtjeva za stambeno zbrinjavanje po pojedinim oblicima stambenog zbrinjavanja.
+Za obavljanje poslova Odsjeka ustrojavaju se sljedeći pododsjeci:
+2.1.1.1.1.Pododsjek za stambeno zbrinjavanje u hrvatskom Podunavlju,
+2.1.1.1.2.Pododsjek za stambeno zbrinjavanje u središnjoj i južnoj Hrvatskoj.
+2.1.1.1.1. Pododsjek za stambeno zbrinjavanje u hrvatskom Podunavlju

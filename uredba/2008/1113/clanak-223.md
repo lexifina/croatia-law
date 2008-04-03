@@ -1,0 +1,3 @@
+# Članak 223.
+Odjeljak za zaštitu na radu i zaštitu od požara obavlja provođenje preventivnih mjera zaštite od požara, obavljanje poslova zaštite na radu, sukladno Zakonu, obavlja poslove o vatrodojavi, gromobranskoj instalaciji i protupožarnoj opremi u Ministarstvu i područnim jedinicama, koordinira poslovima protupožarne zaštite na objektima Ministarstva, organizira snage za gašenje požara, motri i obavještava o pojavama požara, obavlja uviđaje i sastavlja zapisnike o povredama na radu, analizira uzroke povrede na radu, vodi očevidnik povreda na radu, vodi evidenciju o ugovorima i policama osiguranja zaposlenika, surađuje s Medicinom rada.
+12.3.3.2. Pododsjek za upravljanje voznim parkom

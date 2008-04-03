@@ -1,0 +1,3 @@
+# Članak 83.
+Odsjek za obnovu višestambenih zgrada obavlja stručne poslove koji se odnose na: planiranje, pripremu, organizaciju, provođenje i nadzor nad provedbom programa sanacije i izgradnje višestambenih zgrada; prikuplja i obrađuje stručnu dokumentaciju i ostale podatke vezane za provedbu programa sanacije i izgradnje; usklađuje rad svih sudionika i prati tijek izvršenja po odobrenim dinamičkim planovima rada; analizira probleme u provedbi programa i predlaže rješenja za njihovo otklanjanje; zaprima i obrađuje obračunske situacije sudionika, prati dinamiku plaćanja, vodi sve potrebne očevidnike, te izrađuje izvješća i analize o provedbi programa.
+4.1.2. Odjel za provedbu stambenog zbrinjavanja

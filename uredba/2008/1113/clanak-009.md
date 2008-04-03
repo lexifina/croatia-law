@@ -1,0 +1,7 @@
+# Članak 9.
+Odjel za računovodstvene poslove u okviru svoje nadležnosti obavlja upravne i stručne poslove vezane za ustrojavanje i vođenje zakonom propisanih poslovnih knjiga, vrši kontrolu knjigovodstvene dokumentacije, obavlja kontiranje i knjiženje poslovnih događaja, izradu godišnjih, polugodišnjih, tromjesečnih, mjesečnih i statističkih izvješća, obračun plaća i ostalih primanja dužnosnika, državnih službenika i namještenika, obračun i isplatu dohotka od intelektualnih i ostalih usluga, izrađuje i dostavlja nadležnim institucijama propisana izvješća o isplatama svih vrsta dohotka te obveznih doprinosa, poreza i prireza, obavlja i brine o rokovima plaćanja svih obveza, vodi sve potrebne knjigovodstvene evidencije i statistike iz financijskog i materijalnog poslovanja, izrađuje preglede po vrstama rashoda sukladno zakonskim propisima, obavlja poslove vezane za uplatu i isplatu preko blagajne, devizno poslovanje i sl.
+Prikuplja dokumentaciju o nabavi, prodaji i ostalim promjenama vezanim za nefinancijsku imovinu, knjiži promjene u knjizi imovine, koordinira ustrojstvene jedinice Ministarstva u vezi označavanja i evidentiranja nefinancijske imovine, obračunava i knjiži ispravke vrijednosti imovine sukladno propisanim stopama, sudjeluje u organizaciji godišnjeg popisa (inventure), te obavlja i druge poslove koje odredi nadležna osoba.
+Za obavljanje poslova Odjela ustrojavaju se sljedeći odsjeci:
+1.1.2.1. Odsjek za računovodstvene poslove,
+1.1.2.2. Odsjek za praćenje i evidentiranje nefinancijske imovine.
+1.1.2.1. Odsjek za računovodstvene poslove

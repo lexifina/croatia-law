@@ -1,0 +1,6 @@
+# Članak 63.
+Odjel za izgradnju objekata komunalne infrastrukture obavlja upravne i stručne poslove koji se odnose na: aktivnosti u izradi prijedloga i planova programa izgradnje, sanacije i nadogradnje komunalnih infrastrukturnih objekata napose na područjima posebne državne skrbi, brdsko-planinskim područjima, pograničnim područjima prema Republici Sloveniji i drugim područjima čiji razvojni pokazatelji zaostaju za nacionalnim prosjekom; pokreće postupke javne nabave iz svog djelokruga rada, a u skladu s godišnjim planovima rada; usklađuje rad svih sudionika u pripremi i realizaciji radova, neposredno organizira provedbu svih radova, usmjerava i kontrolira rad nadzornih službi i izvoditelja radova; zaprima i obrađuje obračunske situacije sudionika; vodi očevidnike o obuhvaćenim komunalnim infrastrukturnim objektima po fazama realizacije, po sudionicima u provedbi programa, po teritorijalnom ustroju, priprema i izrađuje potrebna izvješća i analize; izrađuje godišnje planove i programe rada, prati njihova izvršenja, te obavlja i druge poslove i zadatke po nalogu nadređenih.
+Za obavljanje poslova u Odjelu ustrojavaju se sljedeći odsjeci:
+3.1.1.1. Odsjek za pripremu planova i projekata,
+3.1.1.2. Odsjek za koordinaciju i provedbu projekata.
+3.1.1.1. Odsjek za pripremu planova i projekata

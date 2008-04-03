@@ -1,0 +1,3 @@
+# Članak 32.
+Pododsjek za stambeno zbrinjavanje u središnjoj i južnoj Hrvatskoj priprema predmete i suglasnosti za najam obiteljske kuće ili stana u državnom vlasništvu, najam oštećene obiteljske kuće u državnom vlasništvu i darovanje građevinskog materijala, darovanje građevinskog zemljišta u državnom vlasništvu i građevinskog materijala za izgradnju obiteljske kuće, darovanje građevinskog materijala za popravak, obnovu ili izgradnju obiteljske kuće u središnjoj i južnoj Hrvatskoj, te priprema odgovore na pismene primjedbe i predstavke stranaka i pravnih subjekata iz područja stambenog zbrinjavanja.
+2.1.1.2. Odsjek za stambene objekte na područjima posebne državne skrbi

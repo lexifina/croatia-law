@@ -1,0 +1,4 @@
+# Članak 110.
+Odsjek za planski razvoj na šumi i šumskom zemljištu obavlja stručne poslove i daje mišljenje u svezi prostorno planske dokumentacije u cilju očuvanja šumskog ekosustava, izdaje posebne uvjete i suglasnosti o utjecaju planiranog zahvata na šumu ili šumsko zemljište, prati stanje i poduzima mjere u djelokrugu šumarske ekologije, sudjeluje u postupku prijenosa prava i ograničenih prava u okviru svoje nadležnosti, zakona propisa i drugih akata, vođenje upravnih i neupravnih postupaka, sudjeluje u radu rješavanja izdvajanja šuma i šumskog zemljišta iz šumskogospodarske osnove područja, sudjeluje u postupku procjene utjecaja na okoliš, sudjeluje u postupku utvrđivanja interesa Republike Hrvatske te postupcima izdavanja akata vezanih za krčenje odnosno čistu sječu šume.
+6.1.2.2. Odsjek za održivi razvoj na šumi i
+šumskom zemljištu

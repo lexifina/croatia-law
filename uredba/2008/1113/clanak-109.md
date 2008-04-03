@@ -1,0 +1,7 @@
+# Članak 109.
+Odjel za održivi planski razvoj na šumi i šumskom zemljištu daje mišljenje na prostorno plansku dokumentaciju u cilju očuvanja šumskog ekosustava, izdaje posebne uvjete i suglasnosti za zahvate u prostoru, prati stanje i poduzima mjere u djelokrugu šumarske ekologije kao i općekorisne funkcije šuma, sudjeluje u postupku prijenosa prava i ograničenih prava u okviru svoje nadležnosti, zakona, propisa i drugih općih akata, radi na izradi nacrta zakona, provedbenih propisa iz djelokruga održivog gospodarenja šumama i šumarske ekologije, te na prilagodbi propisa i općih akata iz svoje nadležnosti; prati provedbu međunarodnih konvencija, direktiva EU i ugovora, sudjeluje u radu međunarodnih institucija i ministarstava u okviru svog djelokruga, te procesu ulaska u europske integracije, inicira rješavanje pojedinih pitanja iz navedenih područja, te sudjeluje u postupku procjene utjecaja na okoliš i drugim radnim tijelima po posebnim propisima, daje stručna mišljenja i objašnjenja o načinu provedbe zakona.
+Za obavljanje poslova u Odjelu ustrojavaju se sljedeći odsjeci:
+6.1.2.1. Odsjek za planski razvoj na šumi i šumskom zemljištu,
+6.1.2.2. Odsjek za održivi razvoj na šumi i šumskom zemljištu.
+6.1.2.1. Odsjek za planski razvoj na šumi i
+šumskom zemljištu

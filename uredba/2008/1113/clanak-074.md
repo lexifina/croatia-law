@@ -1,0 +1,3 @@
+# Članak 74.
+Odsjek za pripremu obavlja administrativne, upravno-pravne i stručne poslove koji se odnose na prikupljanje, obradu i analizu svih relevantnih podataka i informacija o stanju i potrebama za provođenje aktivnosti i mjera iz nadležnosti Odjela, o čemu vodi posebne evidencije i očevidnike, te na temelju kojih u suradnji ostalim stručnim odjelima Uprave i s jedinicama i tijelima lokalne i regionalne (područne) samouprave kao i s ostalim sudionicima priprema i izrađuje godišnje i višegodišnje planove i programe rada, o čemu izrađuje potrebna izvješća i informacije, te obavlja i druge poslove i zadatke po nalogu nadređenih.
+3.2.2.2. Odsjek za provedbu

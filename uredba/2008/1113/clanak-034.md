@@ -1,0 +1,3 @@
+# Članak 34.
+Odsjek za građevinske materijale kompletira predmete podnositelja zahtjeva koji su ostvarili pravo na stambeno zbrinjavanje radi potpisivanja ugovora o darovanju osnovnog građevinskog materijala i ugovora o darovanju zemljišta u vlasništvu Republike Hrvatske, kompletira predmete darovanja i dostavlja na mišljenje Državnom odvjetništvu, sukladno uputi Državnog odvjetništva dopunjava predmet, prati faze izgradnje stambenog objekta, prati faze isporuke građevinskog materijala, temeljem dostavljenih zapisnika o tehničkom pregledu utvrđuje kada je stambeni objekt završen, priprema predmete za isplatu novčane potpore nakon što je stambeni objekt završen.
+2.1.2. Odjel za stambeno zbrinjavanje izvan područja posebne državne skrbi i provedbu međunarodnih programa

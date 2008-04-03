@@ -1,0 +1,6 @@
+# Članak 77.
+Sektor za obnovu i provedbu stambeno zbrinjavanje obavlja stručne i administrativne poslove koji se odnose na: planiranje, pripremu, organizaciju, provedbu i nadzor provedbe programa obnove u ratu oštećenih ili uništenih stambenih jedinica, stambeno zbrinjavanje na području posebne državne skrbi, provedbu programa pomoći Vlade Republike Hrvatske za povratak Hrvata u Bosnu i Hercegovinu i opremanje obnovljenih stambenih jedinica; prikuplja programske i druge informacije od značaja za obnovu stambenih jedinica i stambenog zbrinjavanja; provodi propise iz područja obnove stambenih jedinica i stambenog zbrinjavanja od značaja za popravak, obnovu i izgradnju stambenih jedinica; usklađuje aktivnosti pojedinih službi unutar tijela jedinica lokalne i područne (regionalne) samouprave u svezi aktivnosti vezane s obnovom obiteljskih kuća i stanova; te surađuje s državnim odvjetništvom i drugim tijelima državne uprave u svezi rješavanja pritužbi sudionika u obnovi i stambenom zbrinjavanje.
+Za obavljanje poslova Sektora za obnovu i provedbu stambenog zbrinjavanja ustrojavaju se sljedeći odjeli:
+4.1.1. Odjel za obnovu,
+4.1.2. Odjel za provedbu stambenog zbrinjavanja.
+4.1.1. Odjel za obnovu

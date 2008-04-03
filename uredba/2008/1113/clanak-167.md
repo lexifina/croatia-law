@@ -1,0 +1,3 @@
+# Članak 167.
+Odsjek za žalbe na rješenja vodopravnih inspektora i prvostupanjskih tijela obavlja poslove koji se odnose na: rješavanje u drugostupanjskom postupku u upravnim stvarima iz djelokruga rada Uprave gospodarenja vodama, rješavanje žalbi izjavljenih na rješenja vodopravnih inspektora (državnih i područnih), rješavanje žalbi izjavljenih na upravne akte Hrvatskih voda, županijskih i gradskih ureda iz nadležnosti Uprave gospodarenja vodama, suradnju sa Upravnim sudom u svezi izrade očitovanja u svezi pokrenutih upravnih sporova iz oblasti upravljanja vodama, te obavlja i druge poslove koji su mu stavljeni u nadležnost.
+9.3.3. Odjel državne vodopravne inspekcije

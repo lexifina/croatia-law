@@ -1,0 +1,3 @@
+# Članak 216.
+Odsjek za komunikacije inicira, koordinira i provodi plan razvoja primjene komunikacijske tehnologije u Ministarstvu; provodi planiranje, nabavu i implementaciju komunikacijske opreme (telefonski sustavi, računalno-komunikacijska mreža); brine se za funkcioniranje i održavanje informacijsko-komunikacijske infrastrukture; vodi evidenciju o raspodjeli komunikacijske opreme; predlaže i provodi program sigurnosti komunikacijske infrastrukture; prati korištenje komunikacijske opreme te izrađuje izvješća, analize i prijedloge poboljšanja i unapređenja.
+12.3. Odjel upravljanja imovinom, sigurnosnim i pomoćno tehničkim poslovima Ministarstva

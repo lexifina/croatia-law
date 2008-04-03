@@ -1,0 +1,3 @@
+# Članak 22.
+Odsjek za provedbu programa pomoći EU koordinira i upravlja provedbom projekata iz djelokruga rada Ministarstva koji su odabrani za sufinanciranje od strane EU kroz programe pretpristupne pomoći. Prati trošenje programskih sredstava pomoći EU po pojedinom projektu. Prati ispravnost i redoslijed procedura propisanih od strane EU, ak oje se odnose na provedbu svakog pojedinog projekta. Prati vremenski okvir provedbe svakog projekta. Izrađuje informacije i izvješća za provedbu pojedinog projekta. Izrađuje dokumente potrebne za komisije, odbore i radna tijela vezane na suradnju s EU. Surađuje s drugim Ministarstvima, te obavlja i druge poslove sukladno zahtjevima nadležne osobe.
+1.2.3. Odsjek za analizu financijskog poslovanja

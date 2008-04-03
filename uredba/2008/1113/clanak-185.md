@@ -1,0 +1,6 @@
+# Članak 185.
+Odjel za provedbu projekata organizira, provodi i nadzire provedbu projekata koji su odobreni za financiranje, sufinanciranje iz međunarodnih izvora ili pretpristupnih fondova i strukturnih instrumenata EU; organizira i kontrolira pripremu i provedbu natječajne i ugovorne dokumentacije potrebne za provedbu projekata; daje savjete vezano uz provedbu projekata; organizira i provodi obrazovanje krajnjih korisnika o natječajnim, ugovornim i drugim procedurama vezanim za provedbu projekata; obavlja nadzor nad poslovima Hrvatskih voda u aktivnostima na provedbi međunarodno financiranih/sufinanciranih projekata; organizira i prati provedbu projekata; obavlja nadzor nad provedbom projekata; izrađuje izvješća o provedbi projekata, organizira čuvanje, arhiviranje dokumentacije vezano uz provedbu projekata; obavlja kontrolu i ovjeravanje/suovjeravanje računa pristiglih po provedbi projekata u ime Ministarstva; izrađuje godišnje planove rada, stručne naputke i izvješća, te obavlja i druge poslove koji mu se stave u nadležnost.
+Za obavljanje poslova iz djelokruga Odjela ustrojavaju se sljedeći odsjeci:
+10.2.2.1. Odsjek za natječajni postupak,
+10.2.2.2. Odsjek za nadzor provedbe projekata i plaćanje.
+10.2.2.1. Odsjek za natječajni postupak

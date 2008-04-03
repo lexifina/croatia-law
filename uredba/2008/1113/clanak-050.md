@@ -1,0 +1,3 @@
+# Članak 50.
+Pododsjek za drugostupanjski upravni postupak izrađuje rješenja drugostupanjskog upravnog postupka, izrađuje rješenja po presudama Upravnog suda Republike Hrvatske, izrađuje odgovore na tužbe zaprimljene od Upravnog suda Republike Hrvatske, izrađuje drugostupanjska rješenja po žalbama stranaka, priprema odluke o prestanku statusa prognanika ili povratnika, prikuplja dokaze radi donošenja odluke o prestanku statusa, utvrđuje osnovanost daljnjeg korištenja statusa prognanika povratnika i izbjeglica, dostavlja očitovanja i mišljenja strankama, priprema pismena.
+2.2.1.2.2. Pododsjek za prigovore stranaka

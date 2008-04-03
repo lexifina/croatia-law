@@ -1,0 +1,3 @@
+# Članak 86.
+Odsjek za izgradnju naselja obavlja stručne poslove koji se odnose na: planiranje, pripremu, organizaciju, provođenje i nadzor nad provođenjem programa stambenog zbrinjavanja na lokacijama novih naselja; obavlja poslove pripreme i uređenja građevinskog zemljišta u državnom vlasništvu te njihovo komunalno opremanje; obavlja poslove pripreme i organizacije nabave, isporuke i ugradnje građevinskog materijala za izgradnju obiteljskih kuća ili stanova u naseljima, obavlja poslove pripreme organizirane izgradnje kuća i stanova te njihovo priključenje na osnovnu komunalnu infrastrukturu.
+4.2. Sektor za upravnopravne poslove

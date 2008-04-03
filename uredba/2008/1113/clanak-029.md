@@ -1,0 +1,7 @@
+# Članak 29.
+Odjel za stambeno zbrinjavanje na područjima posebne državne skrbi obavlja stručne i administrativne poslove koji se odnose na aktivnosti: stambenog zbrinjavanja davanjem u najam obiteljskih kuća ili stanova u državnom vlasništvu na područjima posebne državne skrbi, darovanjem građevinskog zemljišta i osnovnog građevinskog materijala, te građevinskog materijala; koordiniranje i usklađivanje aktivnosti radi povrata imovine dodijeljene privremeno u posjed i na korištenje temeljem posebnih propisa na područjima posebne državne skrbi; koordinira i usklađuje aktivnosti oko prodaje državne imovine na područjima posebne državne skrbi temeljem posebnih propisa; organiziranje i usklađivanje aktivnosti rada provođenja sustava organiziranog i privatnog smještaja prognanika, povratnika i izbjeglica, sustava skrbi o starim i nemoćnim osobama s posebnim potrebama, upravlja radom prognaničkih i izbjegličkih naselja; analizira probleme u svezi povrata imovine i stambenog zbrinjavanja, daje prijedloge za njihovo rješavanje, izrađuje analize, prikaze i izvješća, predlaže odgovarajuće mjere.
+Za obavljanje poslova Odjela ustrojavaju se sljedeći odsjeci:
+2.1.1.1. Odsjek za stambeno zbrinjavanje na područjima posebne državne skrbi,
+2.1.1.2. Odsjek za stambene objekte na područjima posebne državne skrbi,
+2.1.1.3. Odsjek za građevinski materijal.
+2.1.1.1. Odsjek za stambeno zbrinjavanje na područjima posebne državne skrbi

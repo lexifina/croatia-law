@@ -1,0 +1,3 @@
+# Članak 72.
+Odsjek za praćenje obavlja administrativne, upravnopravne i stručne poslove koji se odnose suradnju i koordinaciju rada s ostalim stručnim odjelima Uprave i ostalim sudionicima srodnih aktivnosti, a sve u cilju praćenja i analize tijeka realizacije aktivnosti i mjera iz djelokruga rada Uprave, o čemu izrađuje potrebna izvješća i informacije; analizira izvršenje i učinkovitost godišnjih i višegodišnjih planova rada; vodi evidenciju i informatičku obradu o svim aktivnostima i obuhvaćenim objektima; obavlja i druge poslove i zadatke po nalogu nadređenih.
+3.2.2. Odjel za posebne programe regionalnog i lokalnog razvoja

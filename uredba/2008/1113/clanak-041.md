@@ -1,0 +1,3 @@
+# Članak 41.
+Pododsjek za provedbu međunarodnih programa provodi programe Vlade Republike Hrvatske s drugim državama i međunarodnim vladinim i nevladinim organizacijama te domaćim i inozemnim vladinim i nevladinim organizacijama vezano za povratak prognanika i izbjeglica i stambeno zbrinjavanje te gospodarski i socijalni oporavak područja posebne državne skrbi, kontaktira i surađuje s navedenim organizacijama vezano za provedbu i pripremu programa osobito s organizacijama koje su uključene i promatraju provedbu navedenih programa, priprema izvješća i analize o provedbi navedenih programa i drugih aktivnosti Uprave vezano za procese povratka prognanika i izbjeglica, stambenog zbrinjavanja i razvitka područja posebne državne skrbi.
+2.1.3. Odjel za praćenje i analizu

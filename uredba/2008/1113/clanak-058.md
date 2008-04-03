@@ -1,0 +1,3 @@
+# Članak 58.
+Odsjek za tehničku potporu obavlja poslove sistematizacije i analize potreba regionalnih ureda za poslovnim prostorom, uređenjem poslovnog prostora, službenim automobilima, službenim mobitelima, vodi evidenciju službenih automobila danih na korištenje u regionalnim uredima, vodi evidenciju službenih mobitela, prati održavanje službenih automobila i vodi brigu o registriranju službenih automobila, zaprima potrebe za uredskim materijalom regionalnih ureda te predlaže odgovarajuće mjere koje se odnose na poslove telefonske centrale, održavanje poslovnog prostora, čajne kuhinje i sl.
+2.3.2. Odjel za programe socijalnog i gospodarskog oporavka

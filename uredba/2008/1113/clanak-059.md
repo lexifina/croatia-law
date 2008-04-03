@@ -1,0 +1,3 @@
+# Članak 59.
+Odjel za programe socijalnog i gospodarskog oporavka provodi programe Vlade Republike Hrvatske i Svjetske banke koji bespovratno sufinanciraju izgradnju i obnovu objekata javne namjene, komunalne i socijalne infrastrukture, te gospodarskih objekata, priprema godišnje programe, obavlja stručnu i administrativnu pripremu za objavu pozivnih natječaja, daje stručnu pomoć javnim ustanovama, udrugama, tijelima jedinica lokalne samouprave i strankama u izradi programa, odabire programe, prati provedbu programa, potiče jačanje institucionalnih kapaciteta na središnjoj, regionalnoj i lokalnoj razini, izrađuje stručne analize i izvješća, obavlja nadzor, praćenje i reviziju programa i predlaže odgovarajuće mjere.
+2.4. Područne jedinice - regionalni uredi

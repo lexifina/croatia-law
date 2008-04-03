@@ -1,0 +1,3 @@
+# Članak 33.
+Odsjek za stambene objekte na područjima posebne državne skrbi obavlja poslove evidentiranja promjena korisnika i vlasnika u stambenim jedinicama, izdavanja i evidentiranja ugovora o najmu, vodi evidenciju iznajmljenih stambenih objekata u državnom vlasništvu, evidentira zahtjeve za prodaju i najam stambenih objekata kao i njihovu procijenjenu vrijednost, kompletira predmete za ponude i kupnju stambenih jedinica i iste proslijeđuje Agenciji za pravni promet i posredovanje nekretnina u svrhu kupovine kuća radi stambenog zbrinjavanja, koordinira provjeru stambenih objekata na terenu pogodnih za stambeno zbrinjavanje.
+2.1.1.3. Odsjek za građevinske materijale
