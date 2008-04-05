@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Jedinica za unutarnju reviziju u lokalnoj i područnoj (regionalnoj) samoupravi ustrojava se kao zasebna ustrojstvena jedinica na najvišoj organizacijskoj razini, ustrojstveno i funkcionalno neovisna od drugih upravnih tijela, izravno i isključivo odgovorna čelniku korisnika proračuna.
+(2) Jedinica iz stavka 1. ovoga članka osniva se za obavljanje poslova revizije propisane Zakonom i nije vezana za obavljanje drugih poslova iz djelokruga jedinice lokalne i područne (regionalne) samouprave.
+(3) Imenovani unutarnji revizor u lokalnoj i područnoj (regionalnoj) samoupravi u pravilu se postavlja na izdvojeno radno mjesto neposredno do čelnika korisnika proračuna, ili u upravnom odjelu ili službi korisnika proračuna kada je funkcionalno isključivo odgovoran čelniku korisnika proračuna.
