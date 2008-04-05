@@ -1,0 +1,2 @@
+# Članak 5.
+Dozvoljene vrste i kalibri dugog vatrenog oružja za svrhu športa su poluautomatske i repetirajuće puške s užlijebljenom cijevi, zaključno s nazivnim kalibrom 12,7 mm (0.50 incha) i u drugim kalibrima koji se koriste u priznatim domaćim i stranim športskim streljačkim disciplinama, a prema popisu dozvoljenih kalibara prikazanom u Tablici 3 koja je tiskana uz ovaj Pravilnik i čini njegov sastavni dio.

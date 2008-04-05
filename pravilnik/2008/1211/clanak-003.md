@@ -1,0 +1,2 @@
+# Članak 3.
+Dozvoljene vrste i kalibri kratkog vatrenog oružja za svrhu športa su pištolji i revolveri iz kategorije B točke 1., 2., 3. i 10., zaključno s nazivnim kalibrom 12,7 mm (0.50 incha) te u drugim kalibrima koji se koriste u priznatim domaćim i stranim športskim streljačkim disciplinama, a prema popisu dozvoljenih kalibara prikazanom u Tablici 1 koja je tiskana uz ovaj Pravilnik i čini njegov sastavni dio.

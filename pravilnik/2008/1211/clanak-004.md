@@ -1,0 +1,2 @@
+# Članak 4.
+Dozvoljene vrste i kalibri dugog vatrenog oružja za svrhu športa su repetirajuće i poluautomatske puške s jednom glatkom cijevi i jednostrijelne puške s jednom i više glatkih cijevi u nazivnim kalibrima 12, 16, i 20 (12 Ga., 16 Ga., 20 Ga.) koje se koriste u priznatim domaćim i stranim športskim streljačkim disciplinama, a prema popisu dozvoljenih kalibara prikazanom u Tablici 2 koja je tiskana uz ovaj Pravilnik i čini njegov sastavni dio.
