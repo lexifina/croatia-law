@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Pravna ili fizička osoba koja namjerava uvoditi strane divlje svojte ili ponovno uvoditi nestale zavičajne divlje svojte (u daljnjem tekstu: podnositelj zahtjeva) dužna je prethodno obaviti procjenu rizika namjeravanog zahvata izradom Studije.
+(2) Iznimno, za dodatno ponovno uvođenje zavičajnih divljih svojti za koje Ministarstvo na temelju podnesenog zahtjeva utvrdi da će dovesti do povećanja biološke raznolikosti i očuvanja prirode, nije potrebna Studija. Dodatnim uvođenjem ili dodatnim ponovnim uvođenjem smatra se dodavanje jedinki iste svojte već postojećoj populaciji, kako bi se osigurala njena stabilnost,
+(3) Podnositelj zahtjeva koji namjerava uzgajati strane divlje svojte, dužan je obaviti procjenu rizika uzgoja izradom Studije ako se u postupku izdavanja dopuštenja utvrdi da postoji ekološki rizik.

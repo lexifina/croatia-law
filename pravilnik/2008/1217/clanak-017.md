@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Ako je podneseni zahtjev nepotpun, Ministarstvo će podnositelju ostaviti rok za dopunu zahtjeva. Duljinu roka odredit će ovisno o vrsti dopune koja je potrebna. Ukoliko podnositelj ne dopuni zahtjev u određenom roku, Ministarstvo će ga zaključkom odbaciti, sukladno odredbama Zakona o općem upravnom postupku.
+(2) Iznimno, Studija se prilaže zahtjevu za uzgoj naknadno, u postupku izdavanja dopuštenja, ako Ministarstvo tijekom tog postupka utvrdi postojanje ekološkog rizika prema članku 106. stavku 2. Zakona. U tom slučaju Ministarstvo prekida postupak te određuje primjereni rok za izradu Studije. Ako podnositelj zahtjeva Studiju ne dostavi u određenom roku Ministarstvo će odbaciti zahtjev kao nepotpun.

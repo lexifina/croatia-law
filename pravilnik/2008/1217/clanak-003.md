@@ -1,0 +1,6 @@
+## STUDIJA I PROCJENA RIZIKA
+# Članak 3.
+(1) Pod uvođenjem i ponovnim uvođenjem podrazumijeva se jednokratno ili unaprijed planirano višekratno uvođenje (koje se sastoji od parcijalnih uvođenja) tijekom razdoblja od najviše pet godina, ako se radi o uvođenju i uzgoju, odnosno najviše deset godina ako se radi o ponovnom uvođenju.
+(2) Studija se izrađuje za svako uvođenje, i ponovno uvođenje zasebno, kao i za uzgoj prema potrebi, pri čemu se rizik procjenjuje za svaku taksonomsku kategoriju, pa i nižu od vrste. Procjena je potrebna i za pojedinačne dijelove biljaka, životinja i gljiva koje su se sposobne samostalno razmnožavati na bilo koji način.
+(3) Iznimno, rizik se ne procjenjuje za svaki uzgoj posebno ako isti podnositelj zahtjeva uzgaja strane divlje svojte iste taksonomske kategorije od početka uzgoja u istim uvjetima i na istoj lokaciji u razdoblju od pet godina.
+(4) U slučaju dodatnog uvođenja ili uzgoja nakon razdoblja od pet godina od prvog uvođenja, odnosno dodatnog ponovnog uvođenja nakon razdoblja od deset godina od prvoga ponovnog uvođenja, nova procjena rizika se provodi na temelju prvobitne procjene rizika, uz dopunske procjene mogućih posljedica koje su nastale zbog prvobitnog uvođenja, ponovnog uvođenja ili uzgoja, te uz dopune novim znanstvenim i stručnim spoznajama o biologiji, ekologiji, invazivnosti i dr. karakteristikama svojte.
