@@ -1,0 +1,8 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 65.
+(1) Pravne i fizičke osobe koje su po Zakonu o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 131/97. i 163/03.) upisane u:
+1. Upisnik laboratorija za kontrolu kakvoće poljoprivrednog sjemena smatraju se upisanim u Upisnik laboratorija i registrirani za kontrolu kvalitete sjemena prema ovom Zakonu,
+2. Upisnik održivača sorti poljoprivrednog sjemena i sadnog materijala smatraju se upisanim u:
+- Upisnik dobavljača sjemena i registriranima za održavanje sjemena prema ovom Zakonu i to za sjeme biljnih vrsta za koje su bili upisani kao održivači u Upisniku održivača sorti poljoprivrednog sjemena i sadnog materijala,
+- Upisnik dobavljača sadnog materijala i registriranima za održavanje sadnog materijala i to za vrste bilja za koje su bili upisani u Upisnik održivača sorti poljoprivrednog sjemena i sadnog materijala.
+(2) Pravne i fizičke osobe koje su prema stavku 1. ovoga članka upisane u upisnike iz članka 7. stavka 1. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05.) ostaju upisane u trajanju od jedne godine od dana stupanja na snagu podzakonskog propisa iz članka 7. stavka 5. istoga Zakona. Pravne i fizičke osobe upisne u upisnike iz članka 7. stavka 1. istoga Zakona oslobođene su plaćanja troškova upravne pristojbe prema članku 13. stavku 2. točka 1. tarifnom broju 44. Zakona o upravnim pristojbama (»Narodne novine«, br. 8/96., 77/96., 131/97., 68/98., 66/99., 145/99., 30/00., 116/00., 163/03., 17/04., 110/04.,141/04., 150/05., 153/05. i 129/06.).
