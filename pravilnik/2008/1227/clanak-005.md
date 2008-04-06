@@ -1,0 +1,26 @@
+# Članak 5.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 1. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 2. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 3. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 4. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 5. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 6. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 7. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 8. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 9. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 10. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 11. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 12. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 13. ovog Pravilnika čuvaju se 3 godine nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 14. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 15. ovog Pravilnika čuvaju se 5 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 16. ovog Pravilnika čuvaju se 5 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 17. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 18. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 19. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 20. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 21. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 22. ovog Pravilnika čuvaju se 3 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 23. ovog Pravilnika čuvaju se 5 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 24. ovog Pravilnika čuvaju se 5 godina nakon unosa u zbirku.
+Podaci u operativnoj zbirci podataka iz članka 2. točke 25. ovog Pravilnika čuvaju se 10 godina nakon unosa u zbirku.
