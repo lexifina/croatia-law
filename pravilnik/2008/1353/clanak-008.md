@@ -1,0 +1,12 @@
+## OZNAČAVANJE I OBILJEŽAVANJE TEKSTILNIH PROIZVODA
+# Članak 8.
+(1)Tekstilni proizvodi iz članka 2. ovoga Pravilnika moraju se označiti uvijek kada se stavljaju na tržište, bilo u proizvodne ili komercijalne svrhe.
+Kada ti proizvodi nisu namijenjeni prodaji krajnjem potrošaču ili kada se isporučuju prema narudžbi države ili neke druge javno pravne osobe, označavanje se može zamijeniti ili nadopuniti pratećim komercijalnim ispravama.
+(2) a) Nazivi, opisi i pojedinosti o sastavu tekstilnih vlakana, na koje se odnose članci 3. do 6. i Dodatak I ovoga Pravilnika, moraju se jasno navesti u komercijalnim ispravama. Ne smiju se upotrebljavati kratice u prodajnim ugovorima, mjenicama i računima.
+»Mehanizirani procesni kod« može se upotrebljavati ako se u istom dokumentu navede i objašnjenje.
+b) Nazivi, opisi i pojedinosti o sastavu tekstilnih vlakana, na koje se odnose članci 3. do 6. i Dodatak I ovoga Pravilnika, moraju biti jasni, čitljivi i u jedinstvenom natpisu, kada se stavljaju na tržište ili prodaju potrošaču, te u katalozima i prodajnoj literaturi, na pakiranjima, etiketama i oznakama.
+Pojedinosti i podaci koji nisu propisani ovim Pravilnikom moraju se zasebno navoditi. Ova se odredba ne odnosi na robne marke ili ime poduzeća koji mogu stajati neposredno ispred ili iza podataka danih skladno ovom Pravilniku.
+Kada se tekstilni proizvod stavlja na tržište ili prodaje potrošaču, kako je to navedeno u točci 1. ovoga članka, robna marka ili ime poduzeća koje se navodi, sadrži u cijelosti ili kao pridjev ili u korijenu riječi neki od naziva navedenih u Dodatku I ovoga Pravilnika ili naziv koji se lako može s nekim od njih zamijeniti, tada robnoj marki ili imenu poduzeća moraju u obliku jasnog i čitljivog natpisa neposredno prethoditi ili za njim slijediti nazivi, opisi i pojedinosti o sastavu tekstilnih vlakana navedeni u člancima 3. do 6. i u Dodatku I ovoga Pravilnika.
+c) Kada se tekstilni proizvodi stavljaju na tržište ili se prodaju krajnjem potrošaču na području Republike Hrvatske označavanje i obilježavanje mora biti i na hrvatskom jeziku.
+Za sve vrste namotaka, vitica, klubaka ili neke druge male količine konca za šivanje, krpanje ili vezenje, a na koje se ne odnosi točka 18. Dodatka I, na skupnom pakiranju ili izlošku označavanje i obilježavanje mora biti također i na hrvatskom jeziku.
+d) Kod opisa ili pojedinosti propisanih u člancima 3., 4. i 5. ovoga Pravilnika koji se odnose na značajke proizvoda, smiju se upotrijebiti i drugi opisi i pojedinosti ako su u skladu s praksom dobrih poslovnih običaja.

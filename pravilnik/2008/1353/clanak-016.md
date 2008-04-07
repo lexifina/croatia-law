@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Proizvođač ili njegov ovlašteni predstavnik registrirani u Republici Hrvatskoj odgovorni su da su tekstilni proizvodi iz članka 2. ovoga Pravilnika, koji se stavljaju na tržište, sukladni sa odredbama ovoga Pravilnika i odgovorni su za točnost navedenih podataka. Kada proizvođač ili njegov ovlašteni predstavnik nisu registrirani u Republici Hrvatskoj, za stavljanje tekstilnih proizvoda iz članka 2. ovoga Pravilnik na tržište i za točnost navedenih podataka odgovoran je uvoznik, odnosno osoba koja stavlja proizvod na tržište.
+(2) Trgovac na malo odgovoran je da tekstilni proizvodi koje prodaje imaju propisane nazive, opise i pojedinosti o sastavu tekstilnih vlakana, sukladno odredbama ovoga Pravilnika.
