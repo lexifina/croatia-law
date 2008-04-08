@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Memoranduma o razumijevanju između Europske zajednice i Republike Hrvatske o sudjelovanju Republike Hrvatske u programu Zajednice "Posebni program za poduzetništvo i inovacije (EI
