@@ -1,0 +1,7 @@
+## Transparentnost baze troškova
+# Članak 8.
+(1) Ne dovodeći u pitanje stavke 3., 4. i 5 ovoga članka, pružatelji usluga u zračnoj plovidbi moraju organizirati razmjenu informacija o bazama troškova, planiranim investicijama i očekivanom prometu s predstavnicima korisnika zračnog prostora ako oni to zatraže. Nakon toga će podatke o svojim troškovima, utvrđenim u skladu s člankom 6. ovoga Pravilnika, na transparentan način učiniti dostupnima predstavnicima korisnika zračnog prostora, Europskoj Komisiji i EUROCONTROL-u, u skladu s međunarodnim ugovorima koji obvezuju Republiku Hrvatsku.
+(2) Informacije iz stavka 1. ovoga članka moraju se temeljiti na tabelarnim izvještajima i detaljnim pravilima utvrđenim u Dodatku I. ovoga Pravilnika.
+(3) Informacije o pružateljima usluga u zračnoj plovidbi, njihovim poslovnim vezama ili komponentama njihovih troškova, te druge odgovarajuće informacije, povjerljive su naravi i ne smiju se otkrivati.
+(4) Iznimno od odredbe stavka 3. ovoga članka, Agencija kao nacionalno nadzorno tijelo ima pravo otkriti neku informaciju kada je to ključno za svrhu ispunjavanja njezinih obveza, te će u tom slučaju takvo otkrivanje informacija biti razmjerno i uzimat će u obzir opravdane interese pružatelja usluga u zračnoj plovidbi pri zaštiti svojih poslovnih tajni.
+(5) Dozvoljeno je otkrivanje informacija, različitih od informacija povjerljive naravi iz stavka 3. ovoga članka, o uvjetima i provođenju pružanja usluga.
