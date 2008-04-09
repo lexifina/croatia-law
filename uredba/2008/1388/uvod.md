@@ -1,0 +1,1 @@
+Na temelju članaka 36. i 88. Zakona o trgovini (»Narodne novine«, br. 49/2003, 96/2003, 103/2003, 170/2003 i 55/2004), Vlada Republike Hrvatske je na sjednici održanoj 4. travnja 2008. godine donijela
