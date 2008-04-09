@@ -1,0 +1,7 @@
+# Članak 61.
+Odjel za trgovinsku politiku obavlja sljedeće upravne i stručne poslove: predlaže i provodi mjere trgovinske politike uključujući i mjere carinske zaštite, zaštite od prekomjernog uvoza, subvencioniranog uvoza i uvoza po dampinškim cijenama; evaluira primijenjene instrumente trgovinske politike; surađuje s poslovnom zajednicom u pripremi donošenja instrumenata trgovinske politike; prati trgovinske odnose s EU s ciljevima zaštite interesa Republike Hrvatske u okviru trgovinske politike EU; prati provedbu i sudjeluje u radu sjednica Mješovitih odbora za provedbu ugovora o slobodnoj trgovini te gospodarskih i trgovinskih odbora; sudjeluje u izradi analitičkih podloga za pripremu prijedloga zakona i podzakonskih propisa; sudjeluje u pripremi prijedloga zakona i podzakonskih propisa iz područja trgovinske politike; izrađuje očitovanja na prijedloge zakona i podzakonskih propisa s obzirom na njihovu usklađenost s multilateralnim trgovinskim sustavom i drugim međunarodnim obvezama; surađuje u izradi strateških dokumenata; daje mišljenja, priprema očitovanja, izvješća te materijale za ministra i državne dužnosnike; izrađuje periodička izvješća o procesima koje Odjel prati i u kojima sudjeluje; obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Odjela za trgovinsku politiku, ustrojavaju se sljedeći odsjeci:
+6.1.1. Odsjek za mjere trgovinske politike
+6.1.2. Odsjek za Svjetsku trgovinsku organizaciju (WTO)
+6.1.3. Odsjek za pravne aspekte trgovinske politike.
+6.1.1. Odsjek za mjere trgovinske politike

@@ -1,0 +1,3 @@
+# Članak 73.
+Odsjek za razvoj slobodnih zona obavlja poslove u svezi s osnivanjem slobodnih zona i skladišta, te provodi postupke za donošenje odluka o davanju koncesija za osnivanje slobodnih zona i suglasnosti za osnivanje skladišta, koordinira poslove vezane za utvrđivanje uvjeta za početak rada slobodnih zona i skladišta, vodi registar slobodnih zona i skladišta, prati i analizira rad unutar slobodnih zona i skladišta, izrađuje godišnja izvješća o radu slobodnih zona, predlaže i unaprjeđuje zakonsku regulativu u cilju poboljšanja uvjeta za ulaganje, surađuje s drugim državnim tijelima Republike Hrvatske u cilju uspostave potrebne organizacijske strukture za provođenje zakona i drugih akata iz područja slobodnih zona.
+7.2. Odjel za izvoz

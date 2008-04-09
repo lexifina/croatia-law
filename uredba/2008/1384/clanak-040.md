@@ -1,0 +1,2 @@
+# Članak 40.
+Odjel za privatizaciju obavlja upravne i stručne poslove u svezi s pravnim pitanjima privatizacije dionica, udjela, stvari i prava u vlasništvu Republike Hrvatske, izradom prijedloga odluka, odnosno drugih pravnih akata za koje je, sukladno propisima iz područja privatizacije i s tim u svezi drugim propisima, nadležno Ministarstvo; provodi upravni nadzor, daje mišljenja i upute u primjeni i provođenju zakona i drugih propisa iz područja privatizacije, te obavlja i druge poslove iz svoga djelokruga.

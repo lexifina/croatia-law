@@ -1,0 +1,6 @@
+# Članak 120.
+Odjel za analizu postupaka u sustavu javne nabave analizira primjenu zakona i podzakonskih akata u području javne nabave i javno-privatnog partnerstva kroz preventivno-instruktivnu djelatnost; analizira dokumentaciju za nadmetanje i provođenje postupaka javne nabave; prikuplja, evidentira, obrađuje i analizira podatke o javnoj nabavi te izrađuje statistička izvješća; daje mišljenja, upute i pruža stručnu pomoć obveznicima primjene zakona u cilju jedinstvenog postupanja u provođenju postupaka javne nabave; predlaže, priprema i koordinira izradu nacrta prijedloga zakona i drugih propisa o javnoj nabavi te sudjeluje u izradi povezanih propisa; podnosi optužni prijedlog nadležnom prekršajnom sudu, odnosno kaznenu prijavu nadležnom državnom odvjetništvu; surađuje s državnim tijelima radi postizanja ujednačenog tumačenja i pravilne primjene propisa iz područja javne nabave; sudjeluje u pripremi i provedbi programa izobrazbe sudionika sustava javne nabave te promociji sustava javne nabave u obliku seminara i stručnih savjetovanja; obavlja i druge poslove iz nadležnosti Uprave za sustav javne nabave.
+U Odjelu za analizu postupaka u sustavu javne nabave ustrojavaju se:
+14.1.1. Odsjek za preventivno-instruktivnu djelatnost
+14.1.2. Odsjek za analitičko-statističke poslove.
+14.1.1. Odsjek za preventivno-instruktivnu djelatnost

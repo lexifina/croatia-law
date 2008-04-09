@@ -1,0 +1,2 @@
+# Članak 131.
+Odsjek za razvoj i održavanje baze podataka sustava javne nabave priprema i održava dio internetskih stranica vezanih uz Upravu za sustav javne nabave te vodi bazu podataka Uprave za sustav javne nabave. Obavlja poslove pružanja stručne pomoći, radi jedinstvenog postupanja u provođenju zakona, te u tom smislu, daje upute i mišljenja obveznicima primjene Zakona, a u svezi s elektroničkim poslovanjem u okviru Zakona.

@@ -1,0 +1,3 @@
+## 18. ODJEL ZA ODNOSE S JAVNOŠĆU I PROTOKOL
+# Članak 139.
+Odjel za odnose s javnošću i protokol obavlja poslove komuniciranja s medijima i građanima te priprema i provođenje protokola u domaćim i inozemnim aktivnostima ministra, državnih tajnika i ravnatelja ustrojbenih jedinica Ministarstva. Obavlja poslove unutarnjeg informiranja Ministarstva, pripreme i provođenja promotivnih aktivnosti Ministarstva, pripreme materijala za potrebe komunikacije Ministarstva s Hrvatskim saborom, Vladom Republike Hrvatske i drugim tijelima državne uprave kao i pravnim osobama, koje obavljaju javne ovlasti iz djelokruga Ministarstva, te drugi poslovi u okviru djelokruga po nalogu ministra.

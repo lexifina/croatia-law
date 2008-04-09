@@ -1,0 +1,3 @@
+# Članak 27.
+Odsjek za energetsko planiranje, energetske bilance, analize i tržište obavlja poslove u vezi sa stvaranjem uvjeta za provedbu zacrtane energetske politike Republike Hrvatske, odnosno strategije razvitka energetike, provodi mjere za usklađivanje razvoja energetskog sektora s razvojnim planovima Republike Hrvatske, koordinira poslove u svezi s gospodarenjem električnom energijom, analizira i ocjenjuje planove razvoja energetskog sektora, sudjeluje u izradi energetskih bilanci, analizira izvršavanje energetske bilance, kontinuirano prati i analizira sigurnost opskrbe energentima.
+3.3.2. Odsjek za zajedničke poslove i međunarodnu suradnju

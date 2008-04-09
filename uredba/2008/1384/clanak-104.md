@@ -1,0 +1,2 @@
+# Članak 104.
+Odsjek za poduzetničke centre, inkubatore i regionalne razvojne agencije radi na poslovima stvaranja povoljnijeg poduzetničkog okruženja kroz promociju i komunikaciju poduzetnika s tijelima javne uprave, a vezano za projekte poticanja malog i srednjeg poduzetništva; osmišljava i provodi programe poticanja za poduzetnike početnike u inkubiranom prostoru i daje stručna mišljenja o projektima poticanja poduzetništva i financiranja kvalitetnih poduzetničkih projekata na regionalnom području.

@@ -1,0 +1,3 @@
+# Članak 125.
+Odsjek za edukaciju sustava javne nabave prati sustav postojećeg strukovnog obrazovanja i usavršavanja; priprema i provodi izobrazbu i usavršavanje za sudionike sustava javne nabave; izrađuje metodologiju za izradu obrazovnih programa u sustavu javne nabave; organizira posebne (specijalističke) programe izobrazbe u sustavu javne nabave sukladno posebnim propisima; promovira sustav javne nabave; organizira posebne (specijalističke) programe izobrazbe u sustavu javne nabave sukladno posebnim propisima; sudjeluje u izradi prijedloga zakonskih i podzakonskih propisa u sustavu javne nabave; sudjeluje u radu međunarodnih institucija u području sustava javne nabave, te obavlja i druge poslove iz nadležnosti Odjela.
+14.3. Odjel za javno-privatno partnerstvo

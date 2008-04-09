@@ -1,0 +1,2 @@
+# Članak 17.
+Odsjek za vozni park obavlja i koordinira poslovima održavanja voznog parka, organizacija parkirnog prostora u Poslovnom objektu, obavlja prijevoz i vanjsku dostavu za potrebe Ministarstva, upravlja radom prijevoza državnih dužnosnika i potrebama prijevoza za sve uprave, te nadzire rad svih vozača unutar Odsjeka, vodi brigu o održavanju službenih vozila, vodi sve potrebne evidencije svih vozila Ministarstva, te obavlja i druge poslove iz svoga djelokruga.
