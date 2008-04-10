@@ -1,0 +1,7 @@
+# Članak 16.
+Promjena ili ponavljanje oblika plovidbe moguća je samo u sljedećim slučajevima:
+1. S oblika plovidbe A1 na oblik plovidbe A2 samo ako je izmijenjena cjelokupna posada ili su članovi posade određeni za vrstu plovidbe A2 neposredno prije promjene imali osamsatni odmor, od čega šest sati neprekidno izvan plovidbe i ako je na plovilo ukrcana dodatna posada propisana za oblik plovidbe A2.
+2. S oblika plovidbe A2 može se prijeći na oblik plovidbe A1 samo ako je izmijenjena cjelokupna posada ili su članovi posade određeni za vrstu plovidbe A1 neposredno prije promjene imali neprekidan osamsatni odmor izvan plovidbe.
+3. S oblika plovidbe B može se prijeći na oblik plovidbe A1 ili A2, ako je izmijenjena cjelokupna posada ili su članovi posade određeni za oblik plovidbe A1 ili A2 neposredno prije promjene imali neprekidan odmor od osam sati za oblik A1 odnosno šest sati za oblik A2.
+4. S oblika plovidbe A1 ili A2 na oblik plovidbe B samo ako je izmijenjena cjelokupna posada ili su članovi posade određeni za oblik plovidbe B neposredno prije promjene imali neprekidan odmor izvan plovidbe od osam sati za oblik A1 odnosno šest sati za oblik A2 i ako je na plovilo ukrcana dodatna posada propisana za oblik plovidbe B.
+5. Ponavljanje oblika plovidbe A1 ili A2 moguće je samo ako je izmijenjena cjelokupna posada i ako su članovi posade određeni za oblik plovidbe A1 ili A2 neposredno prije promjene imali neprekidan odmor izvan plovidbe od osam sati za oblik A1 odnosno šest sati za oblik A2

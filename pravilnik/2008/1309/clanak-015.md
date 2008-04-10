@@ -1,0 +1,5 @@
+# Članak 15.
+(1) U obliku plovidbe A1 svaki član posade ima pravo na neprekidan odmor od osam sati izvan plovidbe i to za svaka 24 sata računajući od kraja svakog perioda odmora od osam sati.
+(2) U obliku plovidbe A2 svaki član posade ima pravo na odmor od osam sati koji mora uključivati neprekinuti period od šest sati kada plovilo mora biti izvan plovidbe. Članovi posade mlađi od 18 godina imaju pravo na neprekidan odmor od osam sati od čega šest sati izvan plovidbe. Naprijed navedeno odnosi se na svaka 24 sata, računajući od kraja svakog neprekinutog perioda odmora od šest sati izvan plovidbe.
+(3) U obliku plovidbe B svaki član posade ima pravo na odmor od 24 sata u vremenskom razdoblju od 48 sati. Odmor mora iznositi najmanje dva puta šest neprekidnih sati.
+(4) Za vrijeme svoga obveznog odmora, član posade ne smije obavljati nikakve dužnosti, uključujući nadzor i pripravnost, osim u slučajevima nužde koji se odnose na opasnosti po ljudske živote, teret i okoliš. Straža i nadzor nad plovilima koji stoje izvan plovnog puta (sidrišta, luke, pristaništa) prema odredbama Pravilnika o plovidbi unutarnjim vodama ne smatraju se dužnostima u smislu ovoga stavka.

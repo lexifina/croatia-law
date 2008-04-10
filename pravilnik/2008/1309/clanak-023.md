@@ -1,0 +1,4 @@
+## III. OSTALA PLOVILA
+# Članak 23.
+(1) Ako plovila ili sastavi iz članaka 19., 20., 21. i 22. ovoga Pravilnika nisu opremljeni u skladu s odredbama članka 18. stavka 1. ovoga Pravilnika, propisani najmanji broj članova posade za sigurnu plovidbu mora se u obliku plovidbe A1 i A2 uvećati za jednog mornara a u obliku plovidbe B za dva mornara, a ako nisu opremljeni samo u skladu sa točkom i) ili j), članka 18. stavka 1. ovoga Pravilnika, za jednog mornara umjesto dva.
+(2) Ako plovila ili sastavi iz članaka 19., 20., 21. i 22. ovoga Pravilnika nisu opremljeni u skladu s odredbama jednog ili više slova od a) do c) iz članka 18. stavka 1. ovoga Pravilnika, u obliku plovidbe A1 i A2 jedan mornar propisan u stavku 1. ovoga članka treba se zamijeniti pomoćnim strojarom, a u obliku plovidbe B dva mornara iz stavka 1 ovoga članka trebaju se zamijeniti s dva pomoćna strojara.

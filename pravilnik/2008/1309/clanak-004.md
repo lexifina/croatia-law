@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Posada koja je propisana za pojedini oblik rada i sigurnu plovidbu, mora za vrijeme plovidbe stalno biti na plovilu. Zabranjeno je isplovljavanje bez propisane posade.
+(2) Plovila, na kojima uslijed nepredvidivih okolnosti (npr. bolest, nezgoda, nalog tijela vlasti) za vrijeme plovidbe dođe do iskrcaja najviše jednog člana propisane posade, mogu nastaviti plovidbu do narednog sidrišta, a plovila s putnicima do dnevne zadnje stanice, ako se na plovilu uz zapovjednika s odgovarajućom svjedodžbom o stručnoj osposobljenosti nalazi još jedan član propisane posade i ukoliko je moguća neometana veza pomoću propisanih sredstava komunikacije s nadležnom lučkom kapetanijom.
