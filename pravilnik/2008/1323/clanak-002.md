@@ -1,0 +1,10 @@
+# Članak 2.
+Procjena je polazni dokument za izradu Planova, Operativnih planova i Planova CZ, a izrađuje se i donosi za područje općina, gradova, Grada Zagreba, županija i Republike Hrvatske.
+Procjenu su dužne donijeti pravne osobe iz stavka 6. ovog članka i pravne osobe čija je djelatnost vezana uz objekte kritične infrastrukture, odnosno objekte bitne za funkcioniranje zajednice i gospodarstva u područjima koja predstavljaju poseban prioritet u planiranju zaštite i spašavanja s ciljem očuvanja i zaštite njihovih funkcija ili što bržeg oporavka i ponovnog uspostavljanja funkcija u punom obimu i u što kraćem razdoblju nakon katastrofa i velikih nesreća.
+Procjene pravnih osoba iz stavka 2. ovog članka obuhvaćaju objekte i prostor u njihovom vlasništvu ili na korištenju te prostor oko tih objekata koji može biti ugrožen opasnim učincima nesreća na postrojenjima u kojima obavljaju djelatnost, odnosno negativne posljedice po širu zajednicu (okolinu) u slučajevima prekida rada ili značajnijih poremećaja u radu objekata kritične infrastrukture.
+Planovi se izrađuju za područje općina, gradova, Grada Zagreba, županija i Republike Hrvatske.
+Operativne planove izrađuju pravne osobe koje se bave takvom vrstom djelatnosti koja svojom naravi može ugroziti život ili zdravlje ljudi, materijalna dobra ili okoliš, te pravne osobe čija je djelatnost vezana uz opskrbu energijom ili vodom i pravne osobe kojima su Planovima određene razine utvrđene zadaće u zaštiti i spašavanju.
+Pravne osobe - operateri koji posjeduju ili upravljaju postrojenjem ili pogonom u kojem su prisutne opasne tvari po vrstama i količinama iz SEVESO II Direktive, umjesto operativnih planova izrađuju unutarnje planove prema metodologiji koju propisuje središnje tijelo državne uprave nadležno za zaštitu okoliša.
+Planove CZ, kao dio vlastitog Plana izrađuju jedinice lokalne i područne (regionalne) samouprave.
+Vanjske planove, sukladno odredbama Zakona o zaštiti i spašavanju i ovog Pravilnika izrađuju županije i Grad Zagreb.
+Operativni plan djelovanja interventnih specijalističkih postrojbi civilne zaštite Republike Hrvatske izrađuje Državna uprava.

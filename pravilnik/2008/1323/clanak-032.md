@@ -1,0 +1,2 @@
+# Članak 32.
+Unutarnji plan operatera iz članka 2. stavka 6. ovog Pravilnika, pored dijelova koje propisuje nadležno središnje tijelo državne uprave za zaštitu okoliša, sadrži i sljedeće: način sudjelovanja u zaštiti i spašavanju na razini jedinice lokalne i područne (regionalne) samouprave u slučajevima kada se posljedice nesreće na postrojenju prošire izvan poslovnog prostora operatera, s pregledom vlastitih snaga i sredstava za ostvarivanje vanjskog plana.

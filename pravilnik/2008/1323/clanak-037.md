@@ -1,0 +1,2 @@
+# Članak 37.
+Odredbe ovog Pravilnika koje se odnose na sadržaj Planova, Operativnih planova, Planova CZ, vanjskih planova i Operativnog plana djelovanja interventnih specijalističkih postrojbi civilne zaštite Republike Hrvatske, također se primjenjuju i kod uporabe operativnih snaga zaštite i spašavanja u otklanjanju posljedica od ratnih djelovanja i većih posljedica od terorizma na svim razinama za koje se donose.
