@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. i članka 143. stavka 3. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 121/03, 44/05, 48/05 i 85/06) uz prethodno pribavljeno mišljenje Hrvatske stomatološke komore ministar zdravstva i socijalne skrbi donosi
