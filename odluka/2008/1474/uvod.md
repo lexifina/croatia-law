@@ -1,0 +1,1 @@
+Na temelju članka 74. stavka 1. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004 i 141/06), Vlada Republike Hrvatske je na sjednici održanoj 10. travnja 2008. godine donijela
