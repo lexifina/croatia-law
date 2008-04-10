@@ -1,0 +1,4 @@
+# Članak 2.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+Granične vrijednosti izloženosti jesu granice izloženosti elektromagnetskim poljima, koje se neposredno temelje na dokazanim akutnim učincima na zdravlje i njihovim biološkim razmatranjima, a čije poštivanje osigurava zaštitu radnika koji su izloženi elektromagnetskim poljima od svih poznatih dokazanih štetnih učinaka na zdravlje.
+Vrijednosti upozorenja jesu veličine neposredno mjerivih parametara, izraženih putem jakosti električnog polja (E), jakosti magnetskog polja (H), gustoće magnetskog toka (B) i gustoće snage (S), pri kojoj je potrebno poduzeti jednu ili više mjera određenih ovim Pravilnikom, pri čemu je poštivanjem vrijednosti upozorenja zajamčeno i poštivanje utvrđenih graničnih vrijednosti izloženosti.
