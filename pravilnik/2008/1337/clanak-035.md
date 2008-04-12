@@ -1,0 +1,4 @@
+# Članak 35.
+Za zabranu ili ograničavanje daljnje distribucije klasificiranog podatka koristi se oznaka »ISKLJUČIVO« kad se dokument dostavlja primateljima u Republici Hrvatskoj. Pritom se u produžetku oznake »ISKLJUČIVO« stavlja službena kratica tijela javne vlasti ili pravne osobe primatelja klasificiranog podatka ako je ona ima, a ako je nema, stavlja se puni službeni naziv.
+Kada je primatelj klasificiranog podatka unutarnja ustrojstvena jedinica Ministarstva obrane, Glavnog stožera, Oružanih snaga ili VSOA-e stavlja se propisana skraćenica (primjerice HRM), ako je nema, stavlja se puni naziv ustrojstvene jedinice.
+Kada je primatelj strana država ili međunarodna organizacija za zabranu ili daljnje ograničavanje distribucije klasificiranog podatka, koristi se međunarodna oznaka »ONLY« i pritom navodi službena međunarodna kratica države ili organizacije. Ako ne postoji međunarodna kratica, stavlja se puni službeni naziv (prilog broj 8).

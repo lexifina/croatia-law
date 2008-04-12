@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 45.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o zaštiti tajnosti podataka obrane (»Narodne novine«, broj 112/97) osim članaka 35. do 51. u glavi III.: MJERE I POSTUPCI ZA ZAŠTITU TAJNIH PODATAKA koje ostaju na snazi do donošenja Pravilnika o provedbi mjera i standarda informacijske sigurnosti u Ministarstvu obrane i Oružanim snagama iz članka 24. stavka 1. Zakona o informacijskoj sigurnosti (»Narodne novine«, broj 79/07).
+Do donošenja Pravilnika iz stavka 1. ovoga članka na snazi ostaju i propisi koje je donio pomoćnik ministra obrane na temelju ovlasti iz članka 56. Pravilnika o zaštiti tajnosti podataka obrane osim Rokovnika za skidanje oznake tajne odnosno snižavanje stupnja tajnosti tajnih podataka koji prestaje važiti stupanjem na snagu ovoga Pravilnika.
