@@ -1,0 +1,8 @@
+# Članak 7.
+1) Vlasnik klaonice ili odgovorna osoba u klaonici mora osigurati da osobe koje obavljaju poslove sputavanja, omamljivanja, klanja ili usmrćivanja životinja imaju završen tečaj i položen ispit u skladu s programom koji je naveden u Dodatku H ovoga Pravilnika, odobrenom od nadležnog tijela.
+2) Nakon položenog ispita iz stavka 1. ovoga članka polazniku tečaja izdaje se svjedodžba o osposobljenosti za omamljivanje i klanje životinja, a o izdanim svjedodžbama vodi se evidencija.
+3) Do kraja veljače tekuće godine osoba ovlaštena od nadležnog tijela za provođenje tečaja iz stavka 1. ovoga članka mora za prethodnu godinu dostaviti nadležnom tijelu popis izdanih svjedodžbi iz stavka 2. ovoga članka ili navedeni popis na zahtjev veterinarskog inspektora dostaviti na uvid.
+4) Vlasnik klaonice ili odgovorna osoba u klaonici mora osigurati da osobe koje obavljaju poslove premještanja životinja i njihova smještaja u depo posjeduju potrebnu vještinu, sposobnost i znanje za učinkovito i humano obavljanje navedenih poslova u skladu s odredbama ovoga Pravilnika.
+5) Ukoliko veterinarski inspektor odnosno službeni veterinar tijekom nadzora i kontrole utvrdi da:
+(a) osobe iz stavka 1. ovoga članka ne posjeduju dokaz o osposobljenosti ili ako ne posjeduju potrebnu vještinu, sposobnost i znanje, zabranjuje rad takvoj osobi te naređuje osposobljavanje ili ponovno osposobljavanje iz stavka 1. ovoga članka;
+(b) osobe iz stavka 4. ovoga članka ne posjeduju potrebnu vještinu, sposobnost i znanje, zabranjuje rad takvoj osobi te naređuje vlasniku klaonice ili odgovornoj osobi u klaonici da osigura njeno osposobljavanje ili ponovno osposobljavanje.

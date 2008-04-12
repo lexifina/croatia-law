@@ -1,0 +1,3 @@
+# Članak 14.
+1) U slučaju izvoza u zemlje članice Europske unije, meso koje se izvozi mora potjecati od životinja zaklanih u objektima odobrenim u skladu s propisima Europske unije te ga mora pratiti certifikat kojim se potvrđuje da su životinje zaklane ili usmrćene na način koji osigurava zaštitu životinja najmanje jednaku onoj u zemljama članicama Europske unije.
+2) Uvoz mesa iz zemalja koje nisu članice Europske unije mora potjecati od životinja zaklanih u objektima odobrenim u skladu s važećim propisima te ga mora pratiti certifikat kojim se potvrđuje da su životinje zaklane ili usmrćene na način koji osigurava zaštitu životinja najmanje jednaku onoj u Republici Hrvatskoj u skladu s odredbama ovoga Pravilnika.
