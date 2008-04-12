@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 4. Zakona o genetski modificiranim organizmima (»Narodne novine« broj 70/05) ministar zdravstva i socijalne skrbi uz suglasnost ministra poljoprivrede, ribarstva i ruralnog razvoja donosi

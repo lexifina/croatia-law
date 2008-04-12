@@ -1,0 +1,4 @@
+# Članak 14.
+Pravna osoba iz članka 13. stavka 1. ovoga Pravilnika obvezna je uz zahtjev za izdavanje ovlaštenja za izradu procijene rizika za stavljanje GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a priložiti sljedeće:
+- akt o osnivanju pravne osobe, izvadak iz sudskog registra s podacima o predmetu poslovanja, popis zaposlenika i vanjskih stručnih suradnika s dokazom o njihovoj stručnoj spremi, opisom radnog iskustva, nazivom i adresama ranijih poslodavaca (preslika radne knjižice), kojima dokazuje ispunjavanje uvjeta sukladno ovom Pravilniku, te ostale dokaze o radnom iskustvu, istraživanjima i njihovim rezultatima, popisom objavljenih stručnih i/ili znanstvenih radova, domaćoj i/ili međunarodnoj suradnji na području problematike GMO-a, te podatke o specijalističkim stručnim usavršavanjima
+- ostale dokaze po potrebi.
