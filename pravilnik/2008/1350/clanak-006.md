@@ -1,0 +1,4 @@
+## Odgovornost nacionalnih nadzornih tijela
+# Članak 6.
+(1) Za funkcionalne blokove zračnog prostora za koje su uz Republiku Hrvatsku nadležne jedna ili više država, odnosne države moraju sklopiti sporazum o nadzoru pružatelja usluga u zračnoj plovidbi koji pružaju usluge u tim blokovima. Države mogu zaključiti sporazum o nadzoru pružatelja usluga u zračnoj plovidbi koji usluge obavlja u drugoj državi u kojoj nema svoje sjedište.
+(2) Agencija mora s nadležnim tijelom druge države dogovoriti blisku međusobnu suradnju kako bi se osigurao odgovarajući nadzor pružatelja usluga u zračnoj plovidbi certificiranih od strane jedne od država, a koji pružaju usluge u zračnom prostoru za koji je nadležna druga država. Ta suradnja mora obuhvatiti slučajeve neudovoljavanja primjenjivim zajedničkim uvjetima utvrđenim propisom o certificiranju pružatelja usluga u zračnoj plovidbi.

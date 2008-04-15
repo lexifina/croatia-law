@@ -1,0 +1,6 @@
+## Preduzletne zrakoplovne informacije
+# Članak 27.
+(1) Na svakom međunarodnom aerodromu, pružatelj usluga u zračnoj plovidbi dužan je osigurati preduzletne zrakoplovne informacije značajne za sigurnost, redovitost i učinkovitost zračne plovidbe.
+(2) Područje preduzletnog zrakoplovnog informiranja obuhvaća područje letnih informacija Republike Hrvatske, susjedna područja letnih informacija i sve segmente ruta u drugim područjima letnih informacija kroz koji se namjerava obavljati planirani let.
+(3) Pružanje preduzletnih zrakoplovnih informacija uključuje sve elemente Objedinjenog paketa iz članka 27. stavak 1. ovoga Pravilnika te druge publikacije i odgovarajuće dokumente propisane za preduzletno informiranje uključujući sažet pregled važećih NOTAM-a i drugih hitnih informacija koje se korisnicima pružaju u obliku Biltena preduzletnih informacija (PIB). Pružanje preduzletnog zrakoplovnog informiranja uključuje i postupanje s planovima leta pod uvjetima i na način utvrđen odredbama propisa kojim se uređuju pravila letenja zrakoplova.
+(4) Korisnici iz članka 24. stavka 2. točke 1. ovoga Pravilnika mogu i samostalno obaviti preduzletno informiranje (self-briefing) ako je takva vrsta usluge na raspolaganju.
