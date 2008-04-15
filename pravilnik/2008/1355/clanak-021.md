@@ -1,0 +1,4 @@
+# Članak 21.
+U slučaju neposredne prijetnje, katastrofe i velike nesreće čije posljedice nadilaze mogućnosti gotovih operativnih snaga jedinica lokalne i područne (regionalne) samouprave mobiliziraju se postrojbe (specijalističke i opće namjene) i druge organizirane snage civilne zaštite (povjerenici, voditelji skloništa i osoblje za organizaciju boravka u skloništu).
+Povjerenike civilne zaštite i voditelje skloništa imenuju općinski načelnik i gradonačelnik na prijedlog područnog ureda za zaštitu i spašavanje Državne uprave za zaštitu i spašavanje, a raspoređuju ih područni uredi za zaštitu i spašavanje Državne uprave za zaštitu i spašavanje.
+Snage civilne zaštite iz stavka 1. ovog članka mobiliziraju se putem područnih ureda za zaštitu i spašavanje Državne uprave za zaštitu i spašavanje, sukladno operativnim planovima civilne zaštite jedinica lokalne i područne (regionalne) samouprave.

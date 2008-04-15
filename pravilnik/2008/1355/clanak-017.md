@@ -1,0 +1,6 @@
+# Članak 17.
+Za zapovijedanje snagama i sredstvima civilne zaštite u slučaju neposredne prijetnje, katastrofe i velike nesreće na području grada, imenuje se zapovjedništvo civilne zaštite grada.
+Zapovjednik zapovjedništva iz stavka 1. ovog članka je, u pravilu, čelnik upravnog odjela gradske uprave u čijoj nadležnosti su zdravstvo i socijalna skrb.
+Zapovjedništvo iz stavka 1. ovog članka, sukladno općim aktima, imenuje predstavničko tijelo grada iz redova predstavničkog tijela i gradske uprave, predstavnika područnog ureda za zaštitu i spašavanje Državne uprave za zaštitu i spašavanje (samo u gradovima većim od 20.000 stanovnika) te uz prethodno pribavljeno mišljenje pravnih osoba čija redovna djelatnost je zaštita i spašavanje, od stručnih osoba za pojedina područja prirodnih, tehničko - tehnoloških i drugih nesreća iz njihovih redova, sukladno strukturi snaga za provođenje mjera civilne zaštite iz operativnog plana civilne zaštite grada.
+Članovi zapovjedništva civilne zaštite grada mobiliziraju se temeljem radne obveze ili obveze sudjelovanja u civilnoj zaštiti.
+Zapovjedništvo civilne zaštite grada mobilizira se i poziva sukladno operativnom planu civilne zaštite, na prijedlog zapovjednika i po nalogu gradonačelnika, putem županijskog centra 112.

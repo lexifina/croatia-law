@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom uređuje se mobiliziranje, pozivanje i aktiviranje operativnih snaga zaštite i spašavanja te zapovijedanje tijekom njihovog djelovanja u slučaju neposredne prijetnje, katastrofe i velike nesreće na području Republike Hrvatske, i to: stožera zaštite i spašavanja i zapovjedništava civilne zaštite, postrojbi civilne zaštite, službi i postrojbi Državne uprave za zaštitu i spašavanje, službi i postrojbi pravnih osoba i središnjih tijela državne uprave koje se zaštitom i spašavanjem bave u svojoj redovnoj djelatnosti i drugih operativnih snaga zaštite i spašavanja (u daljnjem tekstu: operativne snage).

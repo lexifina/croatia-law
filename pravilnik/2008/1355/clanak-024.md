@@ -1,0 +1,4 @@
+# Članak 24.
+U slučaju neposredne prijetnje, katastrofe i velike nesreće na području Republike Hrvatske pozivaju se i aktiviraju službe ili dijelovi službi (Služba za civilnu zaštitu, Služba za vatrogastvo, Služba za sustav 112, Služba zajedničkih poslova i područni uredi za zaštitu i spašavanje) Državne uprave za zaštitu i spašavanje.
+Službenicima iz službi i ureda iz stavka 1. ovog članka utvrđuje se radna obveza na radna mjesta na koja su raspoređeni temeljem Pravilnika o unutarnjem redu Državne uprave za zaštitu i spašavanje ili akata o imenovanju u stožere zaštite i spašavanja i zapovjedništva civilne zaštite, u suradnji s tijelima uprave za poslove obrane.
+Odluku o pozivanju i aktiviranju službenika iz stavka 1. i 2. ovog članka donosi ravnatelj Državne uprave za zaštitu i spašavanje.

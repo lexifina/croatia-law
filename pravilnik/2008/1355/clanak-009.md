@@ -1,0 +1,3 @@
+# Članak 9.
+Načelnik Stožera zaštite i spašavanja Republike Hrvatske po dužnosti je zamjenik ravnatelja Državne uprave za zaštitu i spašavanje.
+Članovi Stožera zaštite i spašavanja Republike Hrvatske, osim osoba koje ravnatelj Državne uprave za zaštitu i spašavanje predlaže Vladi Republike Hrvatske iz reda rukovodećih državnih službenika središnjih tijela državne uprave, pravnih osoba kojima je zaštita i spašavanje redovna djelatnost i djelatnika Državne uprave za zaštitu i spašavanje, po dužnosti su zapovjednik civilne zaštite Republike Hrvatske, glavni vatrogasni zapovjednik Republike Hrvatske i glavni nadzornik Sustava 112.
