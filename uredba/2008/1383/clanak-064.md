@@ -1,0 +1,3 @@
+# Članak 64.
+Odsjek za ugovaranje obavlja stručne i upravne poslove koji se odnose na: realizaciju pripreme i provedbe javnih nadmetanja i ugovaranja radova; analiziranje i prikupljanje podataka za potrebe izrade planova i ugovaranja; izradu i vođenje baze podataka iz djelokruga Odsjeka; sudjelovanje u odabiru izvoditelja radova i izvršitelja usluga; ugovaranje poslova i usluga u realizaciji investicija i infrastrukturnih projekata; vođenje očevidnika i čuvanje dokumentacije potrebne za ugovaranje i provedbu projekata; praćenje i provedba propisa iz djelokruga Odsjeka, odnosno Odjela; sudjelovanje u izradi prijedloga u donošenju novih propisa te izmjena i dopuna propisa; obavlja i druge poslove po nalogu nadređenih.
+c/3 Odsjek za provedbu i praćenje investicija

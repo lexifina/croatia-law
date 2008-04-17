@@ -1,0 +1,7 @@
+# Članak 58.
+Odjel za provedbu programa održivog razvoja obavlja upravne i stručne poslove koji se odnose na: tumačenje, provedbu, nadzor provedbe i vrednovanje primjene propisa te razvojnih, godišnjih i višegodišnjih infrastrukturnih i suprastrukturnih programa; osiguranje i praćenja provedbe te vrednovanje mjera i njihovih učinaka; unapređivanje razvojnih programa i predlaganje novih; koordinaciju sudionika provedbe razvojnih programa; prikupljanje, analizu, sistematizaciju, vrednovanje i odobravanje projekata za koje se traži financiranje iz sredstava državnog proračuna i drugih sredstava; organiziranje, planiranje, pripremu i odobravanje transfera iz državnog proračuna i sredstava iz drugih izvora namijenjenih za programe i projekte izgradnje komunalne, prometne, društvene, gospodarske infrastrukture, prometnog povezivanja, poticanja gospodarskog razvoja, te drugih projekata i programa; organizacija i izrada pravila i propisa koji se odnose na provedbu razvojnih programa; izradu stručnih analiza, prikaza i izvješća; sudjelovanje u izradi propisa i mišljenja; odgovaranje na upite vezano uz provedbu i vrednovanje otočnih razvojnih programa te izradu i vođenje baze podataka i drugih informacija iz djelokruga Odjela.
+Za obavljanje poslova iz djelokruga Odjela ustrojavaju se sljedeći odsjeci:
+b/1 Odsjek za praćenje provedbe programa održivog razvoja
+b/2 Odsjek za poticanje održivog razvoja
+b/3 Odsjek za analize i baze podataka.
+b/1 Odsjek za praćenje provedbe programa održivog razvoja

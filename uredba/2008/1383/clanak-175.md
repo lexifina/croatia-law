@@ -1,0 +1,3 @@
+# Članak 175.
+Odjel za razvoj i upravljanje kadrovima obavlja poslove vezane uz provedbu i uspješnost procesa stručnog usavršavanja službenika Ministarstva, izrađuje nove obrazovne metode, utvrđuje strategije obrazovanja, potiče znanstvene radove i obrazovanje trenera, utvrđuje individualne potrebe za školovanjem, obavlja koordinaciju edukacije po područnim jedinicama Ministarstva, sukladno katalogu programa izobrazbe Središnjeg državnog ureda za upravu, sudjelovanje u organizaciji temeljnog obrazovanja i vođenje projekata za školovanje, prati rad vježbenika, sudjeluje u postupku izbora mentora vježbenicima i praćenju vježbeničke prakse.
+a/3 Odjel pravnih poslova

@@ -1,0 +1,8 @@
+## 2. UPRAVA UNUTARNJE PLOVIDBE
+# Članak 21.
+Uprava unutarnje plovidbe predlaže politiku razvitka riječnog prometa, osigurava provođenje utvrđene politike i izvršava zakone i druge propise iz područja riječnog prometa, brodarstva riječnih luka i vodnih putova prijevoza i plovidbenih poslova, planira i provodi projekte izgradnje prometne infrastrukture te programe za tehnološki razvitak i inovacije. Predlaže i priprema nacrte prijedloga zakona i drugih propisa, te regulativnih mjera za gospodarenje i upravljanje sustavom unutarnje plovidbe. Sudjeluje u radu međunarodnih organizacija i komisija, te predlaže i sudjeluje u izradi prijedloga sporazuma i drugih međunarodnih akata. Obavlja poslove upravnog nadzora nad primjenom propisa iz unutarnje plovidbe. Koordinira i nadzire rad Lučkih uprava i Agencije za vodne putove unutarnjih voda. Analizira stanje vodnih putova, riječnih luka i poslovanje gospodarskih subjekata unutarnje plovidbe. Predlaže programe razvitka luka, plovnih putova i brodarstva te programe tehnološkog razvitka i inovacija. Osigurava neposrednu suradnju u obavljanju funkcija i objedinjava rad odjela ustrojenih u njenom sastavu, kao i rad odjeljaka koji obavljaju poslove iz djelokruga uprave. Obavlja i druge poslove koji su zakonom ili drugim propisima stavljeni u nadležnosti Ministarstva, a odnose se na riječni promet i plovidbu unutarnjim vodama.
+Za obavljanje poslova Uprave unutarnje plovidbe ustrojavaju se sljedeći odjeli:
+a) Odjel pravnih i međunarodnih poslova
+b) Odjel riječnog prometa i luka
+c) Odjel planiranja i upravljanja projektima.
+a) Odjel pravnih i međunarodnih poslova

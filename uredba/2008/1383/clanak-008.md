@@ -1,0 +1,3 @@
+# Članak 8.
+Odsjek za pomorce obavlja poslove vezane za izobrazbu i obrazovanje pomoraca utjecaj ljudskog faktora na sigurnost plovidbe, praćenje i unaprjeđivanje socijalnog statusa pomoraca, poslove vezane za primjenu radnih, životnih, socijalnih i zdravstvenih uvjeta pomoraca, vodi upravni postupak za izdavanje rješenja o izobrazbi ili suglasnosti na obavljanje naobrazbe pomorskim učilištima, vodi evidenciju o izdanim ovlaštenjima učilištima, obavlja stručnu pripremu za izdavanje dopusnica posrednicima pri zapošljavanju pomoraca, nadzire rad posrednika pri zapošljavanju pomoraca, priprema očitovanja na predstavke građana i drugih tijela iz područja rada Odsjeka, te obavlja i druge poslove iz nadležnosti Odjela.
+b) Odjel pomorskog prometa i brodarstva

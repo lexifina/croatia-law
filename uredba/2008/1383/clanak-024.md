@@ -1,0 +1,3 @@
+# Članak 24.
+Odsjek za pravne poslove priprema nacrte prijedloga zakonskih i podzakonskih akata iz područja unutarnje plovidbe, provodi upravni nadzor nad primjenom propisa unutarnje plovidbe, upravni nadzor nad radom Lučkih uprava unutarnje plovidbe i Agencije za vodne putove, te daje pravna mišljenja i tumačenja o svim pitanjima iz nadležnosti unutarnje plovidbe, tumačenja u vezi s primjenom pozitivnih propisa iz nadležnosti unutarnje plovidbe, priprema mišljenja o upravnim stvarima iz nadležnosti Uprave, priprema očitovanja na predstavke građana i drugih tijela i institucija i obavlja i druge poslove iz nadležnosti Odjela.
+b) Odjel riječnog prometa i luka

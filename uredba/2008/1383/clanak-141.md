@@ -1,0 +1,6 @@
+# Članak 141.
+Odjel računovodstvenih poslova i poslova blagajne, u okviru svoje nadležnosti, obavlja upravne i stručne poslove vezane za ustrojavanje i vođenje propisanih poslovnih evidencija, vrši kontrolu knjigovodstvene dokumentacije, obavlja kontiranje i knjiženje poslovnih događaja, izradu godišnjih, polugodišnjih, tromjesečnih, mjesečnih financijskih i statističkih izvješća, obračun plaća i ostalih isplata dužnosnika, državnih službenika i namještenika, obračun i isplatu dohotka po ugovorima o djelu i autorskih honorara, izrađuje i nadležnim institucijama dostavlja propisana izvješća o isplatama svih vrsta dohotka te obveznih doprinosa, poreza i prireza, obavlja i brine o rokovima plaćanja svih obveza, vodi sve zakonom propisane knjigovodstvene evidencije, sudjeluje u organizaciji godišnjeg popisa nefinancijske imovine (inventure), izrađuje preglede po vrstama troškova, aktivnostima i projektima Ministarstva, te po izvorima financiranja, obavlja poslove vezane za uplatu i isplatu preko blagajne, te obavlja i druge poslove koje odredi nadležna osoba.
+Za obavljanje poslova Odjela ustrojavaju se sljedeći odsjeci:
+b/1a Odsjek za knjigovodstvene poslove, poslove obračuna plaća i blagajne
+b/1b Odsjek za evidentiranje i praćenje nefinancijske imovine.
+b/1a Odsjek za knjigovodstvene poslove, poslove obračuna plaća i blagajne

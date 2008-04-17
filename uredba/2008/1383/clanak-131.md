@@ -1,0 +1,6 @@
+# Članak 131.
+Služba za planiranje i izvršavanje proračuna koordinira poslove izrade proračuna Ministarstva, prikuplja i analizira podatke o potrebnim sredstvima od ustrojstvenih jedinica, te izrađuje prijedlog proračuna i obavlja tehnički unos prijedloga proračuna u sustav Državne riznice. Izrađuje mjesečne financijske planove, preraspodjele sredstava tijekom proračunske godine, analizira ostvarenje financijskih planova i obrazlaže namjenu planiranih sredstava. Prikuplja naloge za plaćanja od ustrojstvenih jedinica, te kontrolira njihovu usklađenost s planiranim sredstvima, prikuplja likvidirane i računovodstveno evidentirane račune, te nakon izvršenih kontrola izrađuje zahtjeve za plaćanje u sustavu Državne riznice i iste dostavlja na plaćanje Ministarstvu financija. Izrađuje izvješća o mjesečnom izvršenju financijskih planova i dostavlja ih ustrojstvenim jedinicama kao podlogu za rezerviranje sredstava za naredni mjesec. Izrađuje godišnja izvješća o izvršenju proračuna, te surađuje sa službama unutarnjih i vanjskih kontrola i revizija.
+U Službi se ustrojavaju sljedeće ustrojstvene jedinice:
+a/1 Odjel za plan i proračun
+a/2 Odjel za izvršavanje proračuna.
+a/1 Odjel za plan i proračun

@@ -1,0 +1,3 @@
+# Članak 38.
+Odsjek inspekcije sigurnosti plovidbe obavlja inspekcijski nadzor i nadzire rad u obavljanju inspekcijskih poslova sigurnosti plovidbe na moru, zaštite okoliša, te nadzire primjenu propisa iz područja sigurnosti plovidbe, prati stanje i predlaže mjere za unapređenje sigurnosti plovidbe i zaštite mora, te obavlja druge inspekcijske poslove koji su utvrđeni posebnim propisima. Surađuje i prati rad Međunarodne pomorske organizacije, Pariškog memoranduma o suglasnosti o nadzoru države luke. Priprema programe osposobljavanja inspektora u području sigurnosti pomorske plovidbe.
+b/1b Odsjek inspekcije sigurnosne zaštite

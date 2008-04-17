@@ -1,0 +1,3 @@
+# Članak 69.
+Odsjek za prijevoz opasnih tvari obavlja upravne i stručne poslove koji se odnose na prijevoz opasnih tvari, vozila kojima se obavlja prijevoz opasnih tvari, stručnu osposobljenost vozača i sigurnosnih savjetnika, prikuplja i obrađuje podatke o prijevozu opasnih tvari, obavlja administrativne poslove za potrebe Povjerenstva za prijevoz opasnih tvari, sudjeluje u radu međunarodnih tijela nadležnih za prijevoz opasnih tvari u cestovnom prometu, surađuje s drugim nadležnim tijelima i ovlaštenom stručnom organizacijom koja provodi postupak sukladno Međunarodnom sporazumu o prijevozu opasnih tvari (ADR-om), te ostale poslove po nalogu nadležne osobe.
+a/3 Odsjek za cestovna motorna vozila

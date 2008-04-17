@@ -1,0 +1,2 @@
+# Članak 139.
+Odsjek za izvršavanje i praćenje kapitalnih projekata i transfera prikuplja i kontrolira dokumentaciju u svezi izdataka za kapitalne projekte i transfere, te ispostavlja zahtjeve za plaćanje unosom podataka u sustav Državne riznice. Analizira utrošak sredstava za kapitalne projekte i transfere, te izvješćuje odgovorne osobe o dinamici kapitalnih ulaganja i transfera krajnjim korisnicima proračunskih sredstava iz nadležnosti Ministarstva. Obavlja i druge poslove koje mu povjeri nadležna osoba.

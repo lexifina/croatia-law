@@ -1,0 +1,6 @@
+# Članak 124.
+Odjel inspekcije elektroničkih komunikacija (telekomunikacija i radijskih komunikacija) obavlja poslove inspekcijskog nadzora nad provedbom propisa koji se odnose na djelatnosti elektroničkih komunikacijskih mreža i usluga, izgradnju, postavljanje, održavanje, sigurnost i uporabu elektroničke komunikacijske infrastrukture i opreme, uvoz, stavljanje na tržište, stavljanje u pogon i uporabu radijske opreme i telekomunikacijske terminalne opreme, uklanjanje štetnih smetnja i drugih smetnja u radijskim komunikacijama, izvođenje radova i građenje novih građevina u zaštitnoj zoni ili radijskom koridoru radijskih postaja ili u zoni elektroničke komunikacijske infrastrukture i opreme ili spojnog puta, primjenu odgovarajućih međunarodnih, europskih i hrvatskih norma, odluka i preporuka, na provedbu međunarodnih ugovora i sporazuma iz područja elektroničkih komunikacija koji obvezuju Republiku Hrvatsku, sudjeluje u radu odgovarajućih tehničkih odbora za izradu telekomunikacijskih norma te inicira izmjene i dopune provedbenih odredaba zakona i podzakonskih propisa.
+Za obavljanje poslova u Odjelu ustrojavaju se slijedeći odsjeci:
+e/2a Odsjek inspekcije telekomunikacija
+e/2b Odsjek inspekcije radijskih komunikacija.
+e/2a Odsjek inspekcije telekomunikacija

@@ -1,0 +1,3 @@
+# Članak 148.
+Odjel za analizu financijskog poslovanja javnih trgovačkih društava prikuplja podatke o financijskom poslovanju javnih trgovačkih društava iz nadležnosti Ministarstva, analizira financijska izvješća o njihovom poslovanju i pruža stručnu pomoć odgovornim osobama i čelnicima ustrojstvenih jedinica u ocjeni financijskih pokazatelja, analizi poslovanja s naglaskom na naplati prihoda i trošenju sredstava državnog proračuna i vlastitih prihoda, sredstava inozemnih pomoći i zajmova, dinamici izvršavanja kapitalnih ulaganja i sl.
+c) Služba za projektno financiranje, zajmove i pomoći međunarodnih institucija, te državne potpore

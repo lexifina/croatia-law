@@ -1,0 +1,3 @@
+# Članak 60.
+Odsjek za poticanje održivog razvoja obavlja stručne poslove koji se odnose na prikupljanje, analizu, sistematizaciju, vrednovanje i odobravanje projekata za koje se traži financiranje iz sredstava državnog proračuna i drugih sredstava namijenjenih održivom razvoju; organizaciju i izradu pravila i propisa koji se odnose na provedbu razvojnih programa; izradu stručnih analiza, prikaza i izvješća; izradu i vođenje baze podataka i drugih informacija vezano uz provedbu i vrednovanje razvojnih programa; odgovaranje na upite i predstavke vezano uz provedbu i vrednovanje razvojnih programa; obavljanje drugih poslova po nalogu nadređenih.
+b/3 Odsjek za analize i baze podataka

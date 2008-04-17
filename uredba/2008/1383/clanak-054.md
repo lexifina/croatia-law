@@ -1,0 +1,7 @@
+# Članak 54.
+Odjel za razvojnu politiku i planiranje obavlja upravne i stručne poslove koji se odnose na: uobličavanje i predlaganje razvojne politike otoka i priobalja; osmišljavanje i predlaganje uspostave cjelovitog sustava planiranja, programiranja, financiranja i upravljanja otočnim i priobalnim održivim razvojem na svim upravnim razinama; planiranje, pripremanje i koordiniranje izrade strateških dokumenata te koordiniranje i vođenje međuresorskih radnih skupina; sudjelovanje u izradi propisa i mišljenja; praćenje i provedbe propisa, te planova i programa otočnoga održivog razvoja s drugim propisima i razvojnim dokumentima; planiranje i predlaganje mjera otočne i priobalne razvojne politike na državnoj razini i njihovo usklađivanje s drugim mjerama; financiranje, izrada ili ustupanje izrade stručnih podloga, razvojne dokumentacije, znanstveno-stručnih studija i elaborata te razvojnih programa i projekata; izradu i/ili nadzor izrade programa održivog razvitka otoka i priobalja; pokretanje, usklađivanje i nadzor poslova tijela lokalne i područne (regionalne) samouprave utvrđenih Nacionalnim programom razvitak otoka i propisima o otočnom i priobalnom održivom razvoju; izradu stručnih analiza, prikaza i izvješća.
+Za obavljanje poslova u Odjelu za otočnu razvojnu politiku i planiranje ustrojavaju se sljedeći odsjeci:
+a/1 Odsjek za razvojnu politiku
+a/2 Odsjek za planove i programe održivog razvoja
+a/3 Odsjek za zakonodavstvo i međunarodnu suradnju.
+a/1 Odsjek za razvojnu politiku

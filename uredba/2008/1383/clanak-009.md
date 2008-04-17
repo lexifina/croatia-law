@@ -1,0 +1,6 @@
+# Članak 9.
+Odjel pomorskog prometa i brodarstva prati i analizira gospodarenje morskim resursima i prostorom uz morsku obalu, te predlaže mjere racionalnog korištenja mora kao prirodnog resursa, analizira poslovanje i razvoj gospodarskih subjekata iz područja pomorskog prometa i brodarstva te pomorskih agencija, priprema i izrađuje izvješća u cilju stvaranja sustavnih uvjeta za poslovanje u ovom području, sudjeluje u pripremi nacrta zakona i drugih propisa iz područja pomorskog prometa i brodarstva, vodi brigu nad održavanjem pomorskoga putničkog prometa na državnim linijama, prati rad Agencije za obalni linijski promet u obavljanju Zakonom povjerenih poslova, provodi drugostupanjski postupak žalbe na odluke u dobivenoj koncesiji za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu na državnim linijama, prati poslovanje Jadrolinije, Plovputa, Hrvatskog registra brodova, prati izradbu razvojnih i drugih studija iz područja pomorskog prometa i pomorskog brodarstva, osigurava provođenje utvrđene politike iz područja pomorskog prometa.
+Za obavljanje poslova Odjela pomorskog prometa i brodarstva ustrojavaju se odsjeci:
+b/1 Odsjek pomorskog prometa i brodarstva
+b/2 Odsjek za potpore u pomorstvu.
+b/1 Odsjek pomorskog prometa i brodarstva

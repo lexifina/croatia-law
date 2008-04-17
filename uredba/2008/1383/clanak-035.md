@@ -1,0 +1,3 @@
+# Članak 35.
+Odjel certifikacije plovila obuhvaća poslove tehničkog nadzornog tijela prema Zakonu o plovidbi i lukama unutarnjih voda, poglavito izdavanje svjedodžbi o sposobnosti plovila za plovidbu na unutarnjim vodama, dodjelu jedinstvenog identifikacijskog broja plovila, vođenje baze podataka o plovilima i izdanim svjedodžbama. Sudjeluje posredno ili neposredno u procesu obavljanja tehničkih pregleda za plovila na unutarnjim vodama. Izrađuje stručne prijedloge za izradu Tehničkih pravila za plovila na unutarnjim vodama, sudjeluje i prati rad međunarodnih tijela iz područja nadležnosti odjela i predlaže mjere za unaprjeđenje tehničkih standarda za plovila na unutarnjim vodama.
+b) Služba sigurnosti pomorskog prometa

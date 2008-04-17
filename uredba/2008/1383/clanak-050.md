@@ -1,0 +1,3 @@
+# Članak 50.
+Odsjek tehničkih poslova planira i provodi tehničko ostvarenje izgradnje i održavanje zgrada, plovila, uređaja i opreme za sigurnost plovidbe lučkih kapetanija, planira i koordinira tekuće održavanje imovine lučkih kapetanija, obavlja poslove održavanja informacijskog sustava, nadzire rad lučkih kapetanija vezano za tehničke poslove. Obavlja poslove vezano za održavanje sustava upravljanja kvalitetom sukladno zahtjevima međunarodne norme ISO 9001 u Upravi i lučkim kapetanijama.
+d) Nacionalna središnjica za usklađivanje traganja i spašavanja na moru, nadzor i upravljanje pomorskim prometom sa sjedištem u Rijeci (MRCC)

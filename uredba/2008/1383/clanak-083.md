@@ -1,0 +1,12 @@
+## 7. UPRAVA ZRAČNOG PROMETA
+# Članak 83.
+Uprava zračnog prometa obavlja upravne i druge stručne poslove koji se odnose na zračni promet, priprema nacrte prijedloga zakonskih i podzakonskih akata za djelatnosti civilnog zrakoplovstva, predlaže prometnu politiku razvoja civilnog zrakoplovstva i osigurava provođenje utvrđene politike u Republici Hrvatskoj, utvrđuje pravna i operativna pitanja vezana za korištenje zračnog prostora iznad teritorija Republike Hrvatske, obavlja upravni nadzor u djelatnostima civilnog zrakoplovstva, prati i analizira stanje i poslovanje u djelatnostima zračnog prometa te provodi tekuću gospodarsku politiku, priprema prijedloge osnova za vođenje i sklapanje međunarodnih ugovora, te sudjeluje na međunarodnim skupovima, sudjeluje u međudržavnim pregovorima o pitanjima civilnog zrakoplovstva, izučava gospodarska, komercijalna i pravna pitanja iz područja međunarodnih ugovora i predlaže nacionalnu prometnu politiku, priprema podloge i predlaže stručne programe osposobljavanja zrakoplovnog i ostalog stručnog osoblja u civilnom zrakoplovstvu, provodi postupke vezane uz licenciranje zračnih prijevoznika, izdavanje, produžavanje valjanosti i promjene svjedodžbi o sposobnosti (AOC) i odobrenja za obavljanje drugih djelatnosti u zračnom prometu, provodi postupke te izdaje posebna odobrenja, izdaje potvrde (certifikate) za homologaciju zrakoplova i opreme domaće ili strane proizvodnje, obavlja osnovne, redovne i izvanredne tehničke preglede zrakoplova i opreme u civilnom zrakoplovstvu, izdaje certifikate o plovidbenosti zrakoplova i opreme za njihovu civilnu upotrebu kao i potvrde o upisu u registar zrakoplova, vodi registar zrakoplova, zrakoplovnog osoblja i aerodroma Republike Hrvatske, provodi i osigurava primjenu zakona i ostalih propisa u civilnom zrakoplovstvu, sudjeluje u radu povjerenstva za tehnički pregled aerodroma, certificira aerodrome, obavlja stručne poslove vezane uz zaštitu zračnog prometa, obavlja poslove vezane uz sigurnost zračnog prostora i pružatelja usluga u zračnoj plovidbi.
+Za obavljanje poslova Uprave zračnog prometa ustrojavaju se sljedeći odjeli:
+a) Odjel pravnih i ekonomskih poslova
+b) Odjel međunarodnih poslova
+c) Odjel letačkih operacija
+d) Odjel licenciranja zrakoplovnog osoblja
+e) Odjel plovidbenosti zrakoplova
+f) Odjel aerodroma i zaštite zračnog prometa
+g) Odjel sigurnosti zračne plovidbe.
+a) Odjel pravnih i ekonomskih poslova

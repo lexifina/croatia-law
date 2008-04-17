@@ -1,0 +1,7 @@
+# Članak 5.
+Odjel upravno-pravnih i međunarodnih poslova priprema nacrte prijedloga zakonskih i podzakonskih akata iz područja pomorskog prometa sigurnosti plovidbe, zaštite mora od onečišćenja, sigurnosne zaštite, vodi prvostupanjski i drugostupanjski upravni postupak iz nadležnosti Uprave, daje upute Upravi za sigurnost plovidbe i zaštitu mora za rad vijeća za prekršaje lučkih kapetanija, daje pravna mišljenja i tumačenja o pravnim pitanjima iz nadležnosti Odjela, provodi upravni nadzor iz nadležnosti Uprave, sudjeluje u radu međunarodnih organizacija, priprema nacrte dvostranih međunarodnih ugovora iz područja pomorstva, sudjeluje u izradi mnogostranih međunarodnih ugovora iz područja prava mora, pomorstva, sigurnosti plovidbe, sigurnosne zaštite, zaštite mora od onečišćenja sa pomorskih objekata, sudjeluje u pripremi drugih međunarodnih akata iz područja pomorstva, priprema akte o pristupanju međunarodnim ugovorima iz područja pomorstva, prati i predlaže mjere za primjenu međunarodnih ugovora iz nadležnosti Uprave, radi na usuglašavanju pomorskog zakonodavstva s propisima Europske unije, sudjeluje u radu i surađuje sa tijelima i organizacijama Europske unije u području pomorstva.
+Za obavljanje poslova Odjela upravno-pravnih i međunarodnih poslova ustrojavaju se odsjeci:
+a/1 Odsjek za međunarodno-pravne poslove i usklađivanje s pravnom stečevinom Europske unije
+a/2 Odsjek za upravno-pravne poslove
+a/3 Odsjek za pomorce.
+a/1 Odsjek za međunarodno-pravne poslove i usklađivanje s pravnom stečevinom Europske unije

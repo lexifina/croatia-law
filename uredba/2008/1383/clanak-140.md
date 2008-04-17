@@ -1,0 +1,6 @@
+# Članak 140.
+Služba za financijsko-računovodstvene poslove i analizu poslovanja javnih trgovačkih društava organizira, kontrolira i prati izvršenje svih financijskih i računovodstvenih poslova sukladno zakonu i brine o zakonitoj primjeni važećih materijalno-financijskih propisa, obavlja obračun plaća, naknade zaposlenima i vodi blagajničko poslovanje, kontira, knjiži i knjigovodstveno prati izvršenje svih primitaka i izdataka po pozicijama državnog proračuna, priprema i izrađuje periodične obračune, završni račun i konsolidira financijska izvješća na razini Razdjela, organizira godišnji popis imovine, obveza i potraživanja, vodi knjigovodstvo osnovnih sredstava, sitnog inventara i kancelarijskog materijala, prikuplja podatke o financijskom poslovanju javnih trgovačkih društava iz nadležnosti Ministarstva, analizira financijska izvješća o njihovom poslovanju, te obavlja druge poslove iz djelokruga Službe.
+U Službi za financijsko-računovodstvene poslove i analizu poslovanja javnih trgovačkih društava ustrojavaju se sljedeće ustrojstvene jedinice:
+b/1 Odjel računovodstvenih poslova i poslova blagajne
+b/2 Odjel za analizu financijskog poslovanja javnih trgovačkih društava.
+b/1 Odjel računovodstvenih poslova i poslova blagajne
