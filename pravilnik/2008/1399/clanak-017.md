@@ -1,0 +1,9 @@
+# Članak 17.
+(1) Arome se označavaju s riječju »aroma(e) « ili s više specifičnim nazivom ili opisom arome.
+(2) Riječ »prirodno« ili neki drugi izraz s jednakim značenjem može se rabiti samo za arome čiji se aromatični sastojci sastoje isključivo od prirodnih aromatičnih tvari ili od aromatičnih pripravaka definiranih kako slijedi:
+- prirodne aromatične tvari jesu tvari dobivene odgovarajućim fizikalnim postupcima (kao što su destilacija i ekstrakcija otapalima i drugim fizikalnim postupcima) enzimskim ili mikrobiološkim postupcima iz materijala biljnoga ili životinjskoga podrijetla, u sirovu stanju ili prerađene za prehranu ljudi tradicionalnim postupcima prerade (uključujući sušenje, prženje i fermentaciju te druge tradicionalne postupke);
+- aromatični pripravak je proizvod različit od tvari koje su određene pojmom prirodne aromatične tvari, koncentriran ili ne, s aromatičnim svojstvima, a koji se dobiva odgovarajućim fizikalnim postupcima (kao što su destilacija i ekstrakcija otapalima i drugi fizikalni postupci), enzimskim ili mikrobiološkim postupcima iz materijala biljnoga ili životinjskoga podrijetla, u sirovu stanju ili prerađenim za prehranu ljudi tradicionalnim postupcima prerade (uključujući sušenje, prženje i fermentaciju te druge tradicionalne postupke).
+(3) Ako naziv arome pod kojim se aroma stavlja na tržište upućuje na hranu ili na prirodnu sirovinu, riječ »prirodno" ili neki drugi izraz istog značenja, može se koristiti samo ako su aromatični sastojci izolirani odgovarajućim fizikalnim, enzimskim ili mikrobiološkim postupcima odnosno dobiveni tradicionalnim postupcima pripremanja pripreme hrane, isključivo ili gotovo isključivo iz imenovane hrane ili prirodnih izvora dobivanja arome.
+(4) Na označavanje aroma primjenjuju se i odredbe posebnog propisa koji se odnosi na arome4.
+II. POSEBNE ODREDBE
+Naziv hrane

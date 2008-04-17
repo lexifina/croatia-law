@@ -1,0 +1,2 @@
+# Članak 48.
+Subjekti u poslovanju s hranom koji su se statusno preoblikovali u skladu s propisima o trgovačkim društvima odnosno kada je bilo izvedeno preuzimanje u skladu s propisima o preuzimanju, mogu upotrebljavati ambalažu koju su upotrebljavali prije statusnog preoblikovanja odnosno preuzimanja i to do potrošnje zaliha te ambalaže odnosno najviše dvije godine od statusnog preoblikovanja odnosno preuzimanja.

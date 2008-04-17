@@ -1,0 +1,11 @@
+# Članak 10.
+(1) Kod označavanja nezapakirane hrane podaci propisani ovim člankom moraju biti istaknuti jasno, vidljivo i čitko na prodajnom mjestu ili na posebnoj ambalaži ukoliko se hrana na prodajnom mjestu drži u njoj.
+(2) Pri označavanju nezapakirane hrane obvezno je navođenje najmanje podataka o nazivu hrane i nazivu proizvođača ili onoga koji hranu stavlja na tržište, osim u slučaju:
+1. napitaka iz automata ili sličnog načina pripreme napitaka, sladoleda koji se prodaju nezapakirani, pekarskih i slastičarskih proizvoda čiji je rok trajanja duži od 24 sata, konditorskih proizvoda i snack proizvoda koji se pakiraju u prisutnosti potrošača kada mora sadržavati i popis sastojaka;
+2. rasječenog mesa domaćih papkara i kopitara, peradi, lagomorfa (kunića i zečeva), divljači i uzgojene divljači te jestivih nusproizvoda kada mora sadržavati zemlju uzgoja, zemlju klanja i broj odobrenja objekta, te naziv osnovnog dijela trupa gdje je to primjenjivo;
+3. proizvoda ribarstva i živih školjkaša kada moraju sadržavati zemlju podrijetla ili mjesto uzgoja koje se označava riječima »ulovljeno u…« odnosno »uzgojeno u…« iza čega slijedi naziv zemlje te druge podatke sukladno posebnim propisima;
+4. voća i povrća, svježeg i/ili obrađenog (u komadu ili rezanog) koji se nude na prodaju bez ambalaže ili u ambalaži i/ili se pakiraju na mjestu prodaje u prozirnu ambalažu kada mora sadržavati i zemlju podrijetla odnosno zemlju gdje je povrće ili voće ubrano te druge podatke sukladno posebnim propisima.
+(3) U slučaju nezapakirane hrane koja je s mikrobiološkog gledišta brzo pokvarljiva potrebno je označiti i rok trajanja odnosno »upotrijebiti do« iza čega slijedi datum.
+(4) Na popratnom dokumentu koji se odnosi na nezapakiranu hranu i koji mora biti otpremljen prije isporuke te hrane ili neposredno s njom, moraju biti navedeni i ostali podaci iz članka 6. ovoga Pravilnika gdje je to primjenjivo te drugi podaci ukoliko je to propisano posebnim propisima.
+(5) Podaci iz stavka 4. ovoga članka moraju se dati na uvid potrošaču u slučaju njegovog zahtjeva.
+(6) Nezapakirana hrana, ukoliko je to primjenjivo, mora biti vid ljivo označena sukladno odredbama članka 11., 13., 14. i 26. ovoga Pravilnika.
