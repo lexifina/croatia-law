@@ -1,0 +1,5 @@
+# Članak 4.
+Zimski odmor učenika počinje 22. prosinca 2008. godine, a završava 9. siječnja 2009. godine.
+Proljetni odmor učenika počinje 9. travnja 2009. godine, a završava 17. travnja 2009. godine.
+Ljetni odmor učenika počinje 12. lipnja 2009. godine, osim za učenike koji polažu razredni, popravni ili završni ispit ili maturu i učenike koji u to vrijeme imaju praktičnu nastavu ili stručnu (ljetnu) praksu, što se utvrđuje godišnjim planom i programom rada škole.
+Iznimno, učenici u jedinstvenom modelu obrazovanja i drugim strukovnim programima sa stručnom (ljetnom) praksom mogu imati i drugačiji raspored odmora, s tim da im ukupni odmor tijekom školske godine ne može biti kraći od 45 radnih dana, što se uređuje ugovorom na temelju Pravilnika o načinu ostvarivanja programa naukovanja i stručnog osposobljavanja za vezane obrte te o pravima, obvezama, praćenju, vrednovanju i ocjenjivanju naučnika (»Narodne novine«, broj 69/04.) i Pravilnika o načinu organiziranja nastave u obrtničkim školama i praktične nastave u drugim strukovnim školama (»Narodne novine«, broj 18/94.).
