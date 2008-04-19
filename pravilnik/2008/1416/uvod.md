@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 3. Zakona o sanitarnoj inspekciji (»Narodne novine«, br. 27/99 i 82/07) ministar zdravstva i socijalne skrbi uz prethodno mišljenje ministrice zaštite okoliša, prostornog uređenja i graditeljstva donosi
