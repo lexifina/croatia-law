@@ -1,0 +1,1 @@
+Na temelju članka 239. stavak 4. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 105/04 i 142/06) ministar mora, prometa i infrastrukture uz suglasnost ministra unutarnjih poslova donosi
