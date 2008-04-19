@@ -1,0 +1,1 @@
+Na temelju članka 37. stavak 6. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2008. godinu (»Narodne novine«, br. 28/2008), Ministarstvo financija u suglasnosti s Ministarstvom znanosti, obrazovanja i športa klasa: 410-01/08-01/00097, urbroj: 533-08-08-0002 od 28. ožujka 2008. godine, donosi
