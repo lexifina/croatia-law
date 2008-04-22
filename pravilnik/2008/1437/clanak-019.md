@@ -1,0 +1,2 @@
+# Članak 19.
+Uz zahtjev za izdavanje rješenja o ispunjavanju posebnih uvjeta iz članka 5. ovoga Pravilnika, stranke, pored dokumentacije iz članka 16. ovoga Pravilnika, prilažu i popis strojeva, alata i ostale opreme sukladne uvjetu iz članka 5. točke 5. ovoga Pravilnika, s oznakom pravne osnove za posjed na istima uz svaku od navedenih stavki (vlasništvo, najam, leasing i dr.) u izvorniku potpisanom od zakonskog zastupnika pravne osobe.
