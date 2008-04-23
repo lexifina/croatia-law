@@ -1,0 +1,3 @@
+## 1. KABINET RAVNATELJA
+# Članak 3.
+U Kabinetu ravnatelja obavljaju se administrativni i stručni poslovi za ravnatelja, protokolarni poslovi, poslovi u vezi s odnosima sa sredstvima javnoga priopćavanja, poslovi u vezi s predstavkama i pritužbama građana, poslovi u vezi s kontaktima i komunikacijom s Hrvatskim saborom i Vladom Republike Hrvatske te njihovim radnim tijelima, drugim tijelima državne uprave, te pravnim osobama koje obavljaju javne ovlasti iz djelokruga Državnog zavoda, poslovi u vezi s primitkom i rješavanjem pošte upućene ravnatelju, poslovi u vezi s evidencijom i pohranom povjerljive pošte, poslovi interne kontrole, kao i drugi stručni i administrativni poslovi u vezi s realizacijom programa rada i aktivnosti ravnatelja.
