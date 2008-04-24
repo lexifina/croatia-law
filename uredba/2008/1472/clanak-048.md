@@ -1,0 +1,4 @@
+# Članak 48.
+Pravna ili fizička osoba - obrtnik, koja uvozi zatvoreni radioaktivni izvor koji sadrži radionuklid čija aktivnost će i poslije deset godina po primitku biti viša od 100 MBq mora ugovorom obvezati proizvođača da pristaje na povrat navedenog zatvorenog radioaktivnog izvora poslije prestanka njegove uporabe i da će isti primiti natrag u roku od 12 mjeseci od postavljanja zahtjeva pravne ili fizičke osobe za povrat.
+Pravna ili fizička osoba - obrtnik, mora svom zahtjevu za ishođenje dozvole za nabavu i uvoz zatvorenog radioaktivnog izvora iz stavka 1. ovoga članka priložiti presliku ugovora s nedvojbenim pristankom proizvođača o povratku zatvorenog radioaktivnog izvora.
+6. NAČIN EVIDENTIRANJA RADIOAKTIVNOG OTPADA, ISKORIŠTENIH ZATVORENIH RADIOAKTIVNIH IZVORA I IZVORA IONIZIRAJUĆEG ZRAČENJA KOJI SE NE NAMJERAVAJU DALJE KORISTITI

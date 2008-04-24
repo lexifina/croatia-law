@@ -1,0 +1,3 @@
+# Članak 35.
+Predstavnik Zavoda sudjeluje u radu povjerenstva za tehnički pregled izgrađenog skladišta radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti.
+Tijelo nadležno za izdavanje uporabne dozvole za skladište radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti neće izdati uporabnu dozvolu ako u prethodnom postupku nije utvrđeno da je građevina izgrađena u skladu s glavnim projektom i u skladu s propisima iz područja zaštite od ionizirajućeg zračenja.

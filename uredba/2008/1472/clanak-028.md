@@ -1,0 +1,2 @@
+# Članak 28.
+Kanalizacijski sustav iz članka 27. ove Uredbe i zaštitni spremnici koji se nalaze u radnim prostorijama, moraju biti zaštićeni tako da brzina ekvivalentne doze na površini bude usklađena s odredbama Pravilnika o granicama izlaganja ionizirajućem zračenju te o uvjetima izlaganja u posebnim okolnostima i za provedbe intervencija u izvanrednom događaju (»Narodne novine«, broj 125/2006).

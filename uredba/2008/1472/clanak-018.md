@@ -1,0 +1,2 @@
+# Članak 18.
+Pravna ili fizička osoba - obrtnik, koja ima odobrenje za obavljanje djelatnosti obrade i/ili kondicioniranja radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti, nakon što obavi predviđene aktivnosti, obvezna je osigurati prijevoz radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti, do skladišta i njegovo preuzimanje.

@@ -1,0 +1,2 @@
+# Članak 9.
+Ako radioaktivni otpad, iskorišteni zatvoreni radioaktivni izvori i izvori ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti imaju i svojstva neke druge opasne tvari koje mogu ugroziti život i zdravlje ljudi, biljni i životinjski svijet ili okoliš, pravne i fizičke osobe kod postupanja s takvim radioaktivnim otpadom, iskorištenim zatvorenim radioaktivnim izvorima i izvorima ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti obvezne su poduzimati zaštitne mjere radi sprječavanja takvih opasnosti.

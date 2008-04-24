@@ -1,0 +1,3 @@
+# Članak 41.
+Kruti produkti izgaranja ugljena s povišenom prirodnom radioaktivnošću, jalovina i drugi otpad iz rudnika ili postrojenja koja koriste mineralne sirovine, kao i drugi materijali kojima je tehnološkim procesima povećana koncentracija aktivnosti (TENORM) mogu se odlagati isključivo na građevinu izgrađenu i uređenu kao odlagalište za tu namjenu, a za koju je izdana uporabna dozvola prema posebnim propisima, prije puštanja u pogon.
+Građevine za odlaganje otpada iz stavka 1. ovoga članka podliježu izradi studije utjecaja na okoliš prema posebnim propisima, uz obvezno sudjelovanje predstavnika Zavoda u radu komisije za procjenu utjecaja na okoliš.

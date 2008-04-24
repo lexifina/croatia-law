@@ -1,0 +1,16 @@
+## 1.1. DEFINICIJE
+# Članak 2.
+Pojmovi koji se koriste u ovoj Uredbi imaju sljedeće značenje:
+Kondicioniranje radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti jest djelatnost koja uključuje postupke kojima se isti prevode u oblik prikladan za prijenos, prijevoz, skladištenje i/ili odlaganje, a sastoji se od aktivnosti imobilizacije te proizvodnje paketa otpada.
+Obrada jest djelatnost koja uključuje postupke karakteriziranja, skupljanja i odvajanja, pakiranje, demontažu, kemijsku i fizikalnu prilagodbu te dekontaminaciju.
+Odlagalište jest građevina na kojoj se kontrolirano, trajno smješta radioaktivni otpad i/ili iskorišteni zatvoreni radioaktivni izvori i/ili izvori ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti.
+Otpad su tvari ili predmeti koje vlasnik i/ili posjednik ne namjerava koristiti ili ih mora odbaciti.
+Otpuštanje iz nadzora (»clearance«) jest prestanak obveze primjenjivanja odredbi propisanih Zakonom o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja (u daljnjem tekstu: Zakon) i podzakonskih propisa donesenih na temelju Zakona, na radioaktivni izvor ili radioaktivni objekt koji je bio uključen u djelatnost s radioaktivnim tvarima.
+Paket otpada jest proizvod koji uključuje otpad s pripadnim kontejnerom s unutarnjim pregradama, pripremljen za rukovanje, prijevoz, skladištenje ili odlaganje, bez namjere daljnje obrade istih.
+Posjednik radioaktivnog otpada jest pravna ili fizička osoba - obrtnik, koja je radioaktivni otpad preuzela od vlasnika, u svrhu obavljanja pojedine djelatnosti zbrinjavanja.
+Prirodna radioaktivna tvar sa svojstvima promijenjenim korištenjem tehnoloških postupaka (Technologically Enhanced Natural Occurring Radioactive Materia - u daljnjem tekstu: TENORM) jest prirodna tvar u kojoj je koncentracija pojedinih radionuklida promijenjena ljudskim djelovanjem izvan nuklearnoga gorivnog ciklusa, tako da je aktivnost ili koncentracija aktivnosti radionuklida koje sadrži takva radioaktivna tvar iznad granice koju pravilnikom propisuje ministar nadležan za zdravstvo (u daljnjem tekstu: ministar).
+Razine otpuštanja iz nadzora (»clearance levels«) jesu granične vrijednosti izražene kao koncentracija aktivnosti i/ili ukupna aktivnost, ispod kojih prestaje obveza primjenjivanja odredbi propisanih Zakonom i podzakonskih propisa donesenih na temelju Zakona, na radioaktivni izvor.
+Procjena sigurnosti jest usporedba rezultata sigurnosne analize s kriterijima prihvatljivosti, njene procjene te konačne prosudbe osnovane na prihvatljivosti procjene.
+Sigurnosna analiza jest analiza i proračun rizika povezanih s primjenom određenih aktivnosti.
+Skladište jest građevina ili prostorija unutar građevine na kojoj se smještaju radioaktivni otpad i/ili iskorišteni zatvoreni radioaktivni izvori, prije ili nakon kondicioniranja ili obrađivanja, odnosno prije otpuštanja iz nadzora, vraćanja proizvođaču, izvoza ili odlaganja, s namjerom obavljanja djelatnosti u budućnosti.
+Vlasnik radioaktivnog otpada jest pravna ili fizička osoba - obrtnik, čijom djelatnošću nastaje radioaktivni otpad ili koji na neki drugi način ostvari vlasništvo nad njim.

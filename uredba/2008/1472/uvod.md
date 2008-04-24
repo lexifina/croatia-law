@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 2. Zakona o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja (»Narodne novine«, broj 64/2006), Vlada Republike Hrvatske je na sjednici održanoj 10. travnja 2008. godine donijela

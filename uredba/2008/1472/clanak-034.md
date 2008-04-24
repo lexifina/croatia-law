@@ -1,0 +1,2 @@
+# Članak 34.
+U postupku izdavanja građevinske dozvole za gradnju i rekonstrukciju, te u postupku izdavanja potvrde za glavni projekt za adaptaciju skladišta radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti, Zavod izdaje potvrdu o usklađenosti glavnog projekta radi provjere sigurnosti glede primjene odgovarajućih mjera zaštite od ionizirajućeg zračenja.

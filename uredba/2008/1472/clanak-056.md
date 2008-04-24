@@ -1,0 +1,2 @@
+# Članak 56.
+Pravna ili fizička osoba - obrtnik, koja obavlja djelatnost skladištenja radioaktivnog otpada, iskorištenih zatvorenih radioaktivnih izvora i izvora ionizirajućeg zračenja koji se ne namjeravaju dalje koristiti, bez odobrenja koje izdaje Zavod, obvezna je u roku od šest mjeseci od dana stupanja na snagu ove Uredbe dostaviti Zavodu izvješće o stanju u skladištu, a prema podacima iz članka 49. ove Uredbe.
