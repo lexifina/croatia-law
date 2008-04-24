@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Prije početka obavljanja poslova upravljanja imovinom i investicijskog savjetovanja za klijenta koji ispunjava kriterije iz članka 13. ovog Pravilnika, Društvo je istoga dužno obavijestiti da će se prema njemu odnositi kao prema profesionalnom ulagatelju, ali i da postoji mogućnost drugačijeg razvrstavanja i postizanja više razine zaštite.
+(2) Na poseban zahtjev klijenta koji je profesionalni ulagatelj, Društvo za upravljanje je dužno istome omogućiti višu razinu zaštite kakva se pruža malim ulagateljima.
+(3) Odredbe o izmjeni razvrstavanja profesionalnog ulagatelja sukladno stavku 2. ovog članka moraju biti sastavni dio ugovora koji klijent sklapa s Društvom, te mora biti naznačeno odnosi li se izmjena razvrstavanja na jednu ili više usluga ili transakcija odnosno na jednu ili više vrsta proizvoda ili transakcija.

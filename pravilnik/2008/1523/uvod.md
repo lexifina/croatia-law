@@ -1,0 +1,1 @@
+Na temelju odredbi članka 23. stavak 5. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj 10. travnja 2008. godine donijela
