@@ -1,0 +1,8 @@
+I. Poništava se dio Javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije - tablica 1. djelatnost radija - točka 13. Grad Gospić (G-GS).
+II. Ova odluka stupa na snagu danom donošenja i objavit će se u »Narodnim novinama«.
+| Obrazloženje
+Vijeće za elektroničke medije na svojoj 168. sjednici održanoj 7. veljače 2008. godine donijelo je Odluku o raspisivanju Javnog natječaja broj 01/08 za davanje koncesija za obavljanje djelatnosti radija i/ili televizije. Javni natječaj objavljen je u »Narodnim novinama« broj 18/08 od 13. veljače 2008. godine i u propisanom roku na javni natječaj za davanje koncesija u tablici 1. pod točkom 13. Grad Gospić ponudu je dostavio ponuditelj Udruga građana »Solidarnost«
+Vijeće je razmatranjem, usporedbom i ocjenom zaprimljenih ponuda utvrdilo da jedini ponuditelj za davanje koncesije za obavljanje djelatnosti radija na području Grada Gospića - Udruga građana »Solidarnost« nije podnio prijavu koja ispunjava sve uvjete propisane Javnim natječajem. Utvrđeno je da ponudi nedostaju podatci o tehničkoj, prostornoj, financijskoj i kadrovskoj sposobnosti ponuđača u skladu s Pravilnikom o posebnim tehničkim, prostornim, financijskim i kadrovskim uvjetima za obavljanje djelatnosti radija i televizije (»Narodne novine« broj 111/07).
+Slijedom navedenoga odlučeno je kao u dispozitivu.
+UPUTA O PRAVNOM LIJEKU
+Protiv ove odluke nije dopuštena žalba, jer je ona konačna, ali se može pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske u roku od 30 dana od dana primitka odluke. Tužba se predaje ili šalje neposredno sudu Republike Hrvatske u Zagrebu, a može se podnijeti i na zapisnik kod redovnog suda nadležnog za obavljanje pravne pomoći.
