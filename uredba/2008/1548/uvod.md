@@ -1,0 +1,1 @@
+Na temelju članka 169. stavka 8. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 33/2002, 58/2002, 175/2003, 136/2004 i 76/2007), Vlada Republike Hrvatske je na sjednici održanoj 18. travnja 2008. godine, donijela
