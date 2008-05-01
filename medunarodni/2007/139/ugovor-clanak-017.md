@@ -1,0 +1,6 @@
+# Članak 17.
+MEĐUNARODNA SURADNJA U KAZNENIMSTVARIMA
+1. Stranke će pružati jedna drugoj najveću moguću pomoć u vezi s kaznenim istragama ili kaznenim postupcima ili postupcima izručenja u odnosu na kaznena djela navedena u člancima 5. do 7. i članku 9. ove Konvencije, uključujući pomoć u pribavljanju dokaza koji se nalaze u njihovom posjedu, a koji su nužni za vođenje postupka.
+2. Stranke će izvršavati obveze iz stavka 1. ovoga članka u skladu s postojećim ugovorima ili drugim sporazumima o uzajamnoj pravnoj pomoći koje su uzajamno sklopile. U slučaju da takvi ugovori ili sporazumi ne postoje, stranke će pružat jedna drugoj pomoć u skladu s njihovim domaćim pravom.
+3. Stranke će surađivati međusobno u najširoj mogućoj mjeri u kojoj to dopuštaju mjerodavni propisi, ugovori, sporazumi i dogovori zamoljene stranke, u odnosu na kaznene istrage ili postupke koji se tiču kaznenih djela za koje se neka pravna osoba u stranci podnositeljici zahtjeva može smatrati odgovornom u skladu s člankom 10. ove Konvencije.
+4. Svaka stranka može razmotriti uspostavu dodatnih mehanizama radi razmjene podataka ili dokaza s drugim strankama, koji su potrebni kako bi se utvrdila kaznena, građanska ili upravna odgovornost u skladu s člankom 10.

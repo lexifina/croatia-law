@@ -1,0 +1,4 @@
+# Članak 18.
+IZRUČENJE ILI KAZNENO GONJENJE
+1. Stranka na čijem se području nalazi navodni počinitelj, kada je nadležna prema članku 14., u slučaju neizručenja te osobe obvezna je, bez iznimke i bez obzira je li djelo počinjeno na njezinom državnom području, bez odgode uputiti predmet svojim nadležnim tijelima radi kaznenog progona, putem postupka u skladu s domaćim zakonima. Ta tijela donosit će odluke na isti način kao i u slučaju bilo kojeg drugog teškog kaznenog djela, u skladu s domaćim pravom.
+2. Kad je prema domaćem pravu stranke dopušteno izručenje ili neki drugi oblik predaje vlastitog državljana, pod uvjetom njegovog vraćanja radi služenja kazne koja mu je izrečena kao rezultat suđenja ili radi provođenja kaznenog postupka za koji su izručenje ili predaja bili zatraženi, a obje države su suglasne s ovim i s drugim uvjetima koje smatraju prikladnima, tada će takvo uvjetno izručenje ili predaja biti dovoljni za ispunjenje obveze iz stavka 1.

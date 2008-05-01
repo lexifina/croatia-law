@@ -1,0 +1,4 @@
+# Članak 12.
+UVJETI I JAMSTVA
+1. Svaka stranka, prilikom utvrđivanja, provedbe i primjene inkriminacija iz članaka 5. do 7. i članka 9. ove Konvencije, osigurat će poštivanje ljudskih prava, posebice prava na slobode izražavanja, udruživanja i vjeroispovijesti utvrđene Konvencijom za zaštitu ljudskih prava i temeljnih sloboda, Međunarodnim paktom o građanskim i političkim pravima, gdje su one primjenjive u odnosu na dotičnu stranku, kao i poštivanje ostalih obveza prema međunarodnom pravu.
+2. Utvrđivanje, provedba i primjena inkriminacija iz članaka 5. do 7. i članka 9. ove Konvencije podliježu načelu proporcionalnosti u skladu sa zacrtanim legitimnim ciljevima, obzirom na njihovu nužnost u demokratskom društvu, isključujući pri tome svaki oblik proizvoljnosti ili diskriminirajućeg ili rasističkog postupanja.

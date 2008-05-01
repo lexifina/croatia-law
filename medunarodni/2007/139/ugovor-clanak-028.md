@@ -1,0 +1,7 @@
+# Članak 28.
+REVIZIJA DODATKA
+1. Kako bi se ažurirao popis ugovora u Dodatku, svaka stranka ili Odbor ministara može predložiti izmjene i dopune. Ovi prijedlozi izmjena i dopuna tiču se samo univerzalnih ugovora sklopljenih u okviru sustava Ujedinjenih naroda, koji se posebno bave međunarodnim terorizmom i koji su na snazi. Glavni tajnik Vijeća Europe o njima će obavijestiti stranke.
+2. Nakon savjetovanja sa strankama koje nisu članice, Odbor ministara može usvojiti predložene izmjene i dopune većinom glasova predviđenom člankom 20.d Statuta Vijeća Europe. Izmjene i dopune stupaju na snagu nakon isteka razdoblja od jedne godine od dana upućivanja istih strankama. Tijekom tog razdoblja, bilo koja stranka može glavnom tajniku Vijeća Europe izraziti prigovor na stupanje na snagu tih izmjena i dopuna u odnosu na tu stranku.
+3. Ako jedna trećina stranaka izrazi glavnom tajniku Vijeća Europe prigovor o stupanju na snagu izmjena i dopuna, one neće stupiti na snagu.
+4. Ako manje od jedne trećine stranaka izrazi prigovor, tada izmjene i dopune stupaju na snagu u odnosu na one stranke koje nisu izrazile prigovor.
+5. Nakon stupanja na snagu izmjena i dopuna u skladu s odredbom stavka 2., u odnosu na stranku koja je izrazila prigovor, izmjene i dopune stupaju na snagu prvog dana mjeseca koji slijedi nakon datuma na koji je ta stranka obavijestila glavnog tajnika Vijeća Europe o njihovom prihvaćanju.
