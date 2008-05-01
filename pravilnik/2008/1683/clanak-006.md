@@ -1,0 +1,7 @@
+## 2. MORNARIČKI DODATAK
+# Članak 6.
+Djelatnoj vojnoj osobi koja ima raspored na ustrojbenom mjestu na brodu (stalno ukrcana osoba) i koja je položila ispit za samostalno obnašanje ustrojbene dužnosti pripada mornarički dodatak u koeficijentu 0,3 od osnovice za obračun plaće.
+Djelatnoj vojnoj osobi koja ima položen ispit za samostalno obnašanje ustrojbene dužnosti na brodu te je premještena na novu dužnost na istom ili drugom brodu, pripada mornarički dodatak u koeficijentu 0,25 od osnovice za obračun plaće do polaganja ispita za samostalno obnašanje ustrojbene dužnosti za tu novu dužnost.
+Zapovjedniku i zamjeniku zapovjednika plovne postrojbe te djelatnim vojnim osobama imenovanim ili raspoređenim u zapovjedništvo plovne postrojbe koje imaju položen ispit za samostalno obnašanje ustrojbene dužnosti, pripada mornarički dodatak u koeficijentu 0,2 od osnovice za obračun plaće.
+Djelatnoj vojnoj osobi koja ima raspored na ustrojbenom mjestu na brodu (stalno ukrcana osoba), a koja nije položila ispit za samostalno obnašanje ustrojbene dužnosti pripada mornarički dodatak u koeficijentu 0,1 od osnovice za obračun plaće.
+Pravo na mornarički dodatak utvrđuje se na temelju pisane potvrde zapovjednika Hrvatske ratne mornarice koju izdaje na prijedlog zapovjednika plovne postrojbe odnosno pisane potvrde zapovjednika Hrvatske kopnene vojske koju izdaje na prijedlog zapovjednika Inženjerijske pukovnije.
