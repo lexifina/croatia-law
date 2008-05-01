@@ -1,0 +1,4 @@
+# Članak 5.
+Iznimno od odredbi članka 4. ove Uredbe, osim ako nije drugačije određeno međunarodnim ugovorom, nositelji valjanih diplomatskih i službenih putovnica sljedećih država ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana, odnosno za prelazak preko državnog područja Republike Hrvatske:
+- Republika Albanija, Republika Armenija, Republika Bolivija, Crna Gora, Arapska Republika Egipat, Republika Filipini, Republika Indija, Republika Indonezija, Islamska Republika Iran, Južnoafrička Republika, Narodna Republika Kina, Republika Kuba, Kraljevina Maroko, Republika Moldova, Ruska Federacija, Republika Srbija, Kraljevina Tajland, Republika Tunis, Ukrajina.
+Iznimno od odredbi članka 4. ove Uredbe, nositelji valjanih diplomatskih putovnica Hašemitske Kraljevine Jordan ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana, odnosno za prelazak preko državnog područja Republike Hrvatske.
