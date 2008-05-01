@@ -1,0 +1,4 @@
+## Odobravanje objekata
+# Članak 13.
+1) Nadležno tijelo nakon obavljenog očevida u objektu od strane stručnog povjerenstva koje imenuje ministar prije započinjanja obavljanja djelatnosti utvrđuje da li objekti ispunjavaju odgovarajuće uvjete propisane ovim Pravilnikom.
+2) Nadležno tijelo može izdati uvjetno odobrenje, ako se očevidom stručnog povjerenstva iz stavka 1. ovoga članka na licu mjesta utvrdi da objekt ispunjava sve uvjete povezane s infrastrukturom i opremom. Odobrenje nadležno tijelo izdaje ako se novim očevidom stručnog povjerenstva koji se obavlja u roku od tri mjeseca od izdavanja uvjetnog odobrenja utvrdi da objekt ispunjava sve uvjete propisane ovim Pravilnikom. Ako se od strane stručnog povjerenstva navedenog u stavku 1. ovoga članka utvrdi očigledan napredak, a objekt još uvijek ne ispunjava sve uvjete, nadležno tijelo može produžiti uvjetno odobrenje, s tim da se uvjetno odobrenje ne smije izdati na rok duži od ukupno šest mjeseci.

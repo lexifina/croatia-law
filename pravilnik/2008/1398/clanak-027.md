@@ -1,0 +1,3 @@
+# Članak 27.
+1) Objekti u kojima posluju subjekti odobreni u skladu s Pravilnikom o uvjetima u poslovanju s hranom za životinje (»Narodne novine«, broj 84/06) mogu nastaviti poslovanje u skladu s odobrenim djelatnostima i moraju uskladiti svoje poslovanje s odredbama ovoga Pravilnika u roku od tri mjeseca od stupanja na snagu ovoga Pravilnika.
+2) Objekti u kojima posluju subjekti za koje je propisana registracija u skladu s ovim Pravilnikom mogu nastaviti obavljati djelatnosti pod uvjetom da do 1. listopada 2008. godine podnesu zahtjev za registracijom nadležnom tijelu u skladu s odredbama članka 9. stavka 2. ovoga Pravilnika, uz priloženu izjavu o udovoljavanju uvjetima iz ovoga Pravilnika.
