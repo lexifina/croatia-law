@@ -1,0 +1,3 @@
+# Članak 19.
+U slučaju elementarne nepogode, iznenadnog onečišćenja vodoopskrbnog sustava ili bilo kojeg drugog uzroka odstupanja od sukladnosti iz Priloga I. ovoga Pravilnika koji se postojećim postupcima prerade vode ne može otkloniti, a ne postoji rezervno izvorište, niti mogućnost opskrbe vodom za piće na drugi način, za daljnji rad, pravna osoba koja obavlja djelatnost javne vodoopskrbe mora zatražiti dozvolu za odstupanje od MDK vrijednosti.
+Odobrenje za odstupanje od MDK vrijednosti daje ministar nadležan za zdravstvo, na prijedlog Stručnog povjerenstva, ako povećane vrijednosti ne predstavljaju moguću opasnost za zdravlje ljudi.
