@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga (»Narodne novine« br. 45/06 i 11/07) u članku 1. alineji 3. iza teksta »Zakonom o preuzimanju dioničkih društava (»Narodne novine« br. « brišu se brojevi »84/02, 87/02, 120/02«), a dodaje se broj »109/07«
+U članku 1. alineji 7. iza teksta »Zakonom o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99, 63/00, 103/03, 177/04)« briše se zagrada i dodaju riječ i broj »i 71/07«
+U članku 1. alineji 8. iza teksta »Zakonom o mirovinskim osiguravajućim društvima i isplati mirovine na temelju individualne kapitalizirane štednje (»Narodne novine« br. 106/99,« briše se riječ »i« dodaje zarez, a iza broja »63/00« briše se zagrada i dodaju riječ i broj »i 107/07«
