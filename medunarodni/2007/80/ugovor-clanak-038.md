@@ -1,0 +1,5 @@
+# Članak 38.
+ODNOS ODBORA S DRUGIM TIJELIMA
+Da bi se potakla učinkovita provedba ove Konvencije i ohrabrila međunarodna suradnja po području koje ova Konvencija obuhvaća:
+(a) specijalizirane ustanove i druga tijela Ujedinjenih naroda imat će pravo biti prisutna pri razmatranju provedbe onih odredbi ove Konvencije koje ulaze u njihov djelokrug rada. Odbor može, kada to procijeni prikladnim, pozvati specijalizirane ustanove i druga nadležna tijela da daju stručno mišljenje o provedbi Konvencije na područjima koja ulaze u njihov djelokrug. Odbor može pozvati specijalizirane ustanove i druga tijela Ujedinjenih naroda da podnesu izvješća o provedbi Konvencije na područjima koja ulaze u njihov djelokrug,
+(b) u vršenju svojega mandata Odbor će konzultirati, kada to bude prikladno, druga odgovarajuća tijela osnovana na temelju međunarodnih pravnih dokumenata o ljudskim pravima u cilju osiguravanja dosljednosti njihovih smjernica o izvješćivanju, prijedloga i općih preporuka, te radi izbjegavanja dupliciranja i preklapanja u obavljanju njihovih dužnosti.

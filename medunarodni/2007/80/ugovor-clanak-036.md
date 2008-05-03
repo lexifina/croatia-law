@@ -1,0 +1,7 @@
+# Članak 36.
+RAZMATRANJE IZVJEŠĆA
+1. Odbor će razmatrati svako izvješće i sačinit će, prema tome kako bude procijenio primjerenim, svoje prijedloge i opće preporuke o izvješću te ih proslijediti odnosnoj državi stranci. Država stranka može potom odgovoriti Odboru navodeći sve podatke koje želi. Odbor može od država stranaka tražiti dodatne podatke relevantne za provedbu ove Konvencije.
+2. Ako država stranka značajno zakasni s podnošenjem izvješća, Odbor može obavijestiti odnosnu državu stranku o potrebi razmatranja provedbe ove Konvencije u toj državi stranci, na temelju pouzdanih podataka dostupnih Odboru, ukoliko se potrebno izvješće ne podnese u roku od tri mjeseca nakon obavijesti. Odbor će pozvati odnosnu državu stranku na sudjelovanje u takvom razmatranju. Ukoliko država stranka odgovori podnošenjem relevantnog izvješća, primjenjivat će se odredbe stavka 1. ovog članka.
+3. Glavni tajnik Ujedinjenih naroda stavit će izvješća na raspolaganje svim državama strankama.
+4. Države stranke će staviti svoja izvješća na raspolaganje javnosti u svojim zemljama i omogućit će pristup prijedlozima i općim preporukama koje se odnose na ova izvješća.
+5. Odbor će prenijeti, kad to bude smatrao prikladnim, izvješća država stranaka specijaliziranim agencijama, fondovima i programima Ujedinjenih naroda i drugim nadležnim tijelima kako bi razmotrili zahtjev ili ukazanu potrebu za tehničkim savjetom ili pomoći koja bi se u njima tražila, zajedno s eventualnim primjedbama i preporukama Odbora o tim zahtjevima ili potrebama.

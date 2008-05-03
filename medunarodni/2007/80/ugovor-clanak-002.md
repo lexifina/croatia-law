@@ -1,0 +1,8 @@
+# Članak 2.
+DEFINICIJE
+Za potrebe ove Konvencije:
+»Komunikacija« uključuje jezike, prikazivanje teksta, Brailleovo pismo, taktilnu komunikaciju, uvećani tisak, dostupne multimedijalne sadržaje, kao i pisani oblik istih, zvučne zapise, obični jezik, osobne čitače i augmentativne i alternativne oblike, sredstva i formate komunikacije, uključujući dostupnu informacijsku i komunikacijsku tehnologiju,
+»Jezik« označava govorne i znakovne jezike te druge vrste jezika koji nemaju formu govornih jezika,
+»Diskriminacija na osnovi invaliditeta« označava svako razlikovanje, isključivanje ili ograničavanje na osnovi invaliditeta koje ima svrhu ili učinak sprečavanja ili poništavanja priznavanja, uživanja ili korištenja svih ljudskih prava i temeljnih sloboda na političkom, ekonomskom, socijalnom, kulturnom, društvenom i svakom drugom području, na ravnopravnoj osnovi s drugima. Ona uključuje sve oblike diskriminacije, uključujući i uskraćivanje razumne prilagodbe,
+»Razumna prilagodba» znači potrebnu i prikladnu preinaku i podešavanja, koja ne predstavljaju nesrazmjerno ili neprimjereno opterećenje, da bi se takvo što u pojedinačnom slučaju, tamo gdje je to potrebno kako bi se osobama s invaliditetom osiguralo uživanje ili korištenje svih ljudskih prava i temeljnih sloboda na ravnopravnoj osnovi s drugima,
+»Univerzalni dizajn« označava oblikovanje proizvoda, okruženja, programa i usluga na način da ih mogu koristiti svi ljudi u najvećoj mogućoj mjeri, bez potrebe prilagođavanja ili posebnog oblikovanja. »Univerzalni dizajn« neće isključivati pomoćne naprave za određene skupine osoba s invaliditetom u onim slučajevima kada je to potrebno.

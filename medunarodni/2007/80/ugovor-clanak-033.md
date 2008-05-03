@@ -1,0 +1,5 @@
+# Članak 33.
+NACIONALNA PROVEDBA I PRAĆENJE
+1. Države stranke će, u skladu sa svojim ustrojem, odrediti, jedno ili više središnjih mjesta unutar vlade za pitanja vezana uz provedbu ove Konvencije, te će posvetiti dužnu pozornost uspostavi ili imenovanju koordinacijskog mehanizma unutar vlade koji će omogućiti povezanu aktivnosti u različitim sektorima i na različitim razinama.
+2. Države stranke će, u skladu sa svojim pravnim i administrativnim sustavom, održavati, osnaživati, imenovati ili uspostaviti okvir za djelovanje unutar odnosne države stranke, uključujući jedan ili više nezavisnih mehanizama, kako bude primjereno, koji će promicati, štititi i nadzirati provedbu ove Konvencije. Prigodom imenovanja ili uspostavljanja tog mehanizma, države stranke će uzeti u obzir načela koja se odnose na status i funkcioniranje nacionalnih institucija za zaštitu i promicanje ljudskih prava.
+3. Civilno društvo, a posebice osobe s invaliditetom i organizacije koje ih predstavljaju, bit će uključene i u punoj će mjeri sudjelovati u procesu praćenja provedbe.

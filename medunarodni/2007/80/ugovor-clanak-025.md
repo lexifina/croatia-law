@@ -1,0 +1,9 @@
+# Članak 25.
+ZDRAVLJE
+Države stranke priznaju pravo osobama s invaliditetom na uživanje najviših ostvarivih zdravstvenih standarda bez diskriminacije na osnovi invaliditeta. Države stranke će poduzeti sve prikladne mjere kako bi osobama s invaliditetom osigurale pristup zdravstvenim službama koje vode računa o njihovom spolu, uključujući rehabilitaciju povezanu sa zdravljem. Države stranke posebno će:
+(a) osigurati osobama s invaliditetom isti opseg, kvalitetu i standard besplatnih ili obzirom na cijenu dostupnih zdravstvenih usluga i programa koji se pružaju drugim osobama, uključujući područje spolnog i reproduktivnog zdravlja i zdravstvene programe kojima je obuhvaćeno cijelo stanovništvo,
+(b) osigurati zdravstvene usluge koje su osobama s invaliditetom posebno potrebne zbog njihovog invaliditeta, uključujući primjerenu ranu identifikaciju i intervenciju, kao i usluge čija je namjena smanjenje i prevencija daljnjeg invaliditeta, uključujući invaliditet kod djece i starijih osoba,
+(c) pružati ove zdravstvene usluge što je moguće bliže zajednicama u kojima osobe s invaliditetom žive, uključujući ruralne krajeve,
+(d) zahtijevati od zdravstvenih radnika pružanje iste kvalitete usluga osobama s invaliditetom kao i drugima, i na osnovi slobodnog i informiranog pristanka, među ostalim podizanjem razine svijesti o ljudskim pravima, dostojanstvu, neovisnosti i potrebama osoba s invaliditetom kroz obuku i promicanje etičkih standarda u javnom i privatnom zdravstvenom sektoru,
+(e) zabraniti diskriminaciju osoba s invaliditetom u pružanju usluga zdravstvenog osiguranja, kao i životnog osiguranja, gdje je to dopušteno nacionalnim zakonom, a što će biti osigurano na pošten i razuman način,
+(f) spriječiti diskriminirajuće uskraćivanje zdravstvene zaštite ili zdravstvenih usluga ili hrane i pića na temelju invaliditeta.
