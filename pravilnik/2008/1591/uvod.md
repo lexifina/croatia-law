@@ -1,0 +1,1 @@
+Temeljem članka 1023. u svezi članka 41. stavak 3., te članka 1018. Pomorskog zakonika (»Narodne novine« 181/04 i 76/07), ministar nadležan za poslove pomorstva uz suglasnost ministrice nadležne za zaštitu okoliša donosi

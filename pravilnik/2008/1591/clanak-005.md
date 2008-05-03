@@ -1,0 +1,2 @@
+# Članak 5.
+Ispuštanje u more ostataka štetnih tekućih tvari razvrstanih u razrede X, Y i Z sukladno Pravilu 6. Priloga II MARPOL Konvencije ili onih koje su privremeno utvrđene kao takve, balastnih voda, voda od pranja tanka ili drugih mješavina koje sadrže takve tvari je zabranjeno, osim ako je takvo ispuštanje obavljeno uz puno udovoljavanje primjenjivim radnim zahtjevima sadržanim u Prilogu II MARPOL Konvencije.

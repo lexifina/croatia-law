@@ -1,0 +1,2 @@
+# Članak 4.
+Fiksne i plutajuće platforme, uključujući platforme za bušenje, plutajuća sredstva za proizvodnju, skladištenje i iskrcavanje koja se koriste za odobalnu proizvodnju i i skladištenje ulja i plutajuće skladišne jedinice za odobalno skladištenje proizvedenog ulja, kao i platforme za proizvodnju plina, moraju udovoljavati zahtjevima Pravila 39. Poglavlja 7. Priloga I MARPOL Konvencije, te Protokola Barcelonske konvencije o odobalnim objektima.
