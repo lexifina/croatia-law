@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o unutarnjem ustrojstvu Središnjeg državnog ureda za razvojnu strategiju i koordinaciju fondova Europske unije (»Narodne novine«, br. 59/2006 i 45/2007), u tabelarnom prikazu okvirnog broja državnih službenika i namještenika mijenja se okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Središnjeg državnog ureda za razvojnu strategiju i koordinaciju fondova Europske unije.
+Okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Središnjeg državnog ureda za razvojnu strategiju i koordinaciju fondova Europske unije utvrđuje se u tablici koja je sastavni dio ove Uredbe, a koja se ne objavljuje u »Narodnim novinama«.
