@@ -1,0 +1,4 @@
+## VI. NADZOR PO IZVRŠENIM ISPLATAMA NOVČANIH PRAVA ZA KORISNIKE KOJI PREBIVALIŠTE IMAJU U INOZEMSTVU
+# Članak 6.
+1) Isplatno tijelo nadležno za novčana prava za korisnike koji prebivalište imaju u inozemstvu, dva puta u kalendarskoj godini zatražit će od korisnika prava u ostavljenom roku dostavu potvrde o životu s ovjerenim osobnim potpisom kod nadležnog tijela države u kojoj korisnik ima prebivalište. Potvrda o životu sadrži i izjavu o zaposlenju, o redovitom školovanju, o priznavanju prava na mirovinu i o zaključenju braka.
+2) Isplatno tijelo iz stavka 1. ovoga članka će u slučaju kada do ostavljenog roka od korisnika novčanog prava ne zaprimi potvrdu o životu iz stavka 1. ovoga članka, poduzeti mjere za sprečavanje isplate nepripadajućih novčanih prava korisnicima novčanih prava od kojih nije zaprimilo potvrdu o životu, odnosno provesti postupak utvrđen člankom 7. ovog Pravilnika.
