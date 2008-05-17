@@ -1,0 +1,3 @@
+# Članak 20.
+U prostorijama u kojima se rukuje otvorenim radioaktivnim izvorima ne smije se uzimati hranu, piće, pušiti te koristiti sredstva za uljepšavanje lica i tijela koja pri uporabi dolaze u neposredan dodir s kožom i sluznicom.
+Radnik s nezaštićenim otvorenim ozljedama na koži ne smije ući u prostorije u kojima se rukuje otvorenim radioaktivnim izvorima. Prije ulaska u taj prostor, otvorene ozljede treba zaštititi vodonepropusnim pokrovom. Ako tijekom rada s otvorenim radioaktivnim izvorima radnik ozlijedi kožu, ranu treba odmah očistiti i provjeriti radioaktivno onečišćenje te provesti čišćenje, ako je potrebno.

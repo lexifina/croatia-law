@@ -1,0 +1,4 @@
+# Članak 10.
+U prostorijama za rad s radioaktivnim izvorima radioaktivno onečišćenje površina prostorije, radnih površina, odjeće i kože radnika ne smije prijeći granice iz Tablice 1. Priloga I. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+Povremena provjera radioaktivnog onečišćenja provodi se izravnim mjerenjem pomoću posebnog uređaja za mjerenje površinskog radioaktivnog onečišćenja ili uzimanjem briseva s odgovarajućih površina i naknadnim mjerenjem kojim se utvrđuje nazočnost i sadržaj radionuklida u brisu.
+Mjerenje radioaktivnog onečišćenja odjeće ili kože radnika obavlja se na najpogodnijem mjestu na površini tijela veličine 100 cm2. Ako se utvrđuje radioaktivno onečišćenje zidova, poda ili stropa prostorije, odabire se površina veličine do 1000 cm2, a za druge površine dovoljna je površina od 300 cm2.

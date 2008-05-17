@@ -1,0 +1,2 @@
+# Članak 16.
+Ako se zatvoreni radioaktivni izvor na radnom stolu pripravlja rezanjem (npr. iridijeva žica) u manje komadiće potrebno je osigurati spremnik za radioaktivni otpad u koji će se pohraniti nepotrebni i otpadni dijelovi. Tijekom rezanja moguće je radioaktivno onečišćenje pribora za rezanje koji se mora provjeriti i odložiti dok se ne provede čišćenje ili dok poslije dovoljno vremena aktivnost ne padne ispod granica iz Tablice 1. Priloga I. ovoga Pravilnika. Radioaktivno onečišćenje treba provjeriti odgovarajućim uređajem za mjerenje ionizirajućeg zračenja.
