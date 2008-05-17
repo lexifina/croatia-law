@@ -1,0 +1,2 @@
+# Članak 2.
+Konvalidiranje odluka i pojedinačnih akata prema ovome Pravilniku obavlja se, na zahtjev zainteresirane osobe, donošenjem novoga akta kojim se utvrđuje da su pojedinačni akt i odluka na temelju kojega je ostvareno neko pravo sukladni ili protivni Ustavu Republike Hrvatske, Ustavnom zakonu o pravima nacionalnih manjina, Konvenciji za zaštitu ljudskih prava i temeljnih sloboda ili zakonima Republike Hrvatske.

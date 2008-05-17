@@ -1,0 +1,1 @@
+Na temelju članka 3. Zakona o konvalidaciji (»Narodne novine«, br. 104/97.), a prema zaključku Vlade Republike Hrvatske od 18. prosinca 2007. godine, ministar gospodarstva, rada i poduzetništva donosi sljedeći
