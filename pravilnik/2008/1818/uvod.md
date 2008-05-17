@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 1. podstavak 32. Statuta HOK-a (»Narodne novine« br. 21/99., 62/02., 158/02., 101/04., 187/04. i 12/06.), točke III. Odluke Skupštine Hrvatske obrtničke komore od 30.6.2004.g., a u svezi s provođenjem Zakona o mirenju (»Narodne novine« br. 163/03.), Upravni odbor Hrvatske obrtničke komore na svojoj 10. sjednici održanoj 19. veljače 2008. godine donosi
