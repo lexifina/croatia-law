@@ -1,0 +1,2 @@
+# Članak 26.
+Na dan prijama Republike Hrvatske u Europsku uniju, djelatnost proizvodnje, prometa i korištenja opasnih kemikalija i uslužno-posredničke poslove s opasnim kemikalijama na području Republike Hrvatske mogu obavljati pravne i fizičke osobe sa sjedištem u bilo kojoj državi članici Europske unije, ako ispunjavaju uvjete propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona.
