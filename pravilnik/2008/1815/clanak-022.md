@@ -1,0 +1,5 @@
+# Članak 22.
+Rješenje kojim je odobren unos primarnog proizvoda na Popis primarnih proizvoda izdaje se na rok od 10 godina i obnavlja se sukladno članku 24. ovoga Pravilnika
+Nakon što je rješenjem odobren unos primarnog proizvoda, nositelj odobrenja za unos primarnog proizvoda kao i bilo koji subjekt u poslovanju s hranom koji upotrebljava odobreni primarni proizvod ili derivirane arome dima, obvezan je pridržavati se svih uvjeta ili zabrana priloženih rješenju.
+Nositelj odobrenja pravodobno izvještava Povjerenstvo o bilo kakvoj znanstvenoj ili tehničkoj obavijesti koja bi mogla utjecati na procjenu sigurnosti odobrenog primarnog proizvoda ili deriviranih aroma dima u odnosu na ljudsko zdravlje. Ako je potrebno, Povjerenstvo će tada ponovo razmotriti mišljenje Agencije iz članka 20. stavka 3.
+Rješenje o odobrenju za unos primarnog proizvoda na Popis primarnih proizvoda ne isključuje građansku i kaznenu odgovornost bilo kojeg subjekta u poslovanju s hranom s obzirom na odobreni primarni proizvod, deriviranu aromu dima ili hranu koja sadrži odobreni primarni proizvod ili deriviranu aromu dima.
