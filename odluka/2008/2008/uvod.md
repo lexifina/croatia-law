@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 1. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 36/2001. i 135/2006.) i Odluke o donošenju Plana izdavanja prigodnoga kovanog novca i numizmatičkih kompleta u 2008. godini, koju je Savjet Hrvatske narodne banke pod Z. br. 1498/2007. donio na sjednici održanoj 10. listopada 2007., guverner Hrvatske narodne banke donio je
