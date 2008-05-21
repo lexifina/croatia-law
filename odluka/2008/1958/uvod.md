@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 1., a u vezi s člankom 2. stavkom 1. točkom 2. Zakona o privatizaciji Hrvatskih telekomunikacija d.d. (»Narodne novine«, br. 65/99 i 68/2001), Vlada Republike Hrvatske je na sjednici održanoj 21. svibnja 2008. godine donijela
