@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o izvršavanju državnog proračuna Republike Hrvatske za 2008. godinu (»Narodne novine«, broj 28/2008), Vlada Republike Hrvatske je na sjednici održanoj 21. svibnja 2008. godine donijela
