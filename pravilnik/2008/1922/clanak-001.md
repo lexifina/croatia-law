@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2008. godinu (»Narodne novine« br. 130/07) u članku 2. stavku 1. točki 2. briše se tekst »posrednici u osiguranju iz članka 241. i 242. ZOS-a i zastupnici u osiguranju iz članaka 234. do 236. ZOS-a«, a dodaje se novi tekst koji glasi »društva za zastupanje u osiguranju iz članka 235. ZOS-a, obrti za zastupanje u osiguranju iz članka 236. ZOS-a, društva za posredovanje u osiguranju iz članka 242. ZOS-a«.
+U točki 9. iza riječi »alineja 8« briše se tekst »Zakona o Agenciji«, a dodaje se novi tekst koji glasi »Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« br. 140/05)«
