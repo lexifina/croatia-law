@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Memorandum o razumijevanju između Europske zajednice i Republike Hrvatske o sudjelovanju Republike Hrvatske u Programu podrške politikama za primjenu informacijskih i komunikacijskih tehnologija (ICT PSP) Okvirnog programa za konkurentnost i inovacije (2007. do 2013.), sklopljen u Bruxellesu 17. listopada 2007. i u Zagrebu 25. listopada 2007., u izvorniku na hrvatskom i engleskom jeziku.
