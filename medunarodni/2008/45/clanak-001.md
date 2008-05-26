@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum između Republike Hrvatske i Međunarodne agencije za atomsku energiju kojim se mijenja i dopunjuje Protokol uz Sporazum između Republike Hrvatske i Međunarodne agencije za atomsku energiju o primjeni garancija u vezi s Ugovorom o neširenju nuklearnog oružja, sklopljen u Beču, razmjenom pisama od 15. prosinca 2005. i 7. siječnja 2008., u izvorniku na engleskom jeziku.
