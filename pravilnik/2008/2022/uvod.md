@@ -1,0 +1,1 @@
+Na temelju odredbi članka 150. stavka 6., članka 153. stavka 9., članka 154. stavka 3. i članka 30. stavka 1. točka 14. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 15. svibnja 2008. godine
