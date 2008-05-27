@@ -1,0 +1,3 @@
+## 2. ZDRAVSTVENA ZAŠTITA ZA SLUČAJ OZLJEDE NA RADU I PROFESIONALNE BOLESTI
+# Članak 15.
+Zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu u djelatnostima na primarnoj, sekundarnoj i tercijarnoj razini za slučaj ozljeda na radu i profesionalnih bolesti na temelju ugovora sa Zavodom o provođenju zdravstvene zaštite iz članka 12. Zakona provode zdravstvene ustanove, trgovačka društva koja u svom sastavu imaju djelatnost medicine rada te specijalisti medicine rada u privatnoj praksi, kao i zdravstvene ustanove, trgovačka društva i zdravstveni radnici privatne prakse uključeni u osnovnu mrežu zdravstvene djelatnosti.

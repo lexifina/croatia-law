@@ -1,0 +1,2 @@
+# Članak 14.
+Standard u specijalističko-konzilijarnoj zdravstvenoj zaštiti, odnosno specijalističkoj dijagnostici koji obuhvaća najsloženije oblike zdravstvene zaštite utvrđen je kadrovskim i vremenskim normativima iz Popisa postupaka, a iskazuje se po djelatnostima specijalističko-konzilijarne, odnosno dijagnostičke zdravstvene zaštite i osigurava se u standardima propisanim Pravilnikom o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja Hrvatskog zavoda za zdravstveno osiguranje.

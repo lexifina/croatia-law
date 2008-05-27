@@ -1,0 +1,2 @@
+# Članak 20.
+U provođenju i ostvarivanju prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu osiguranih osoba iz članka 8., 9. i 10. Zakona, sukladno odredbama članka 12. stavka 2. Zakona i odredbama ovog Pravilnika odgovarajuće se primjenjuju odredbe općih akata Hrvatskog zavoda za zdravstveno osiguranje koje nisu u suprotnosti s odredbama općih akata Zavoda.
