@@ -1,0 +1,3 @@
+# Članak 20.
+Zavod na osnovi ugovorene djelatnosti i ugovorenog broja osiguranih osoba ugovornim subjektima Zavoda tijekom ugovornog razdoblja tromjesečno izdaje potreban broj brojčano označenih tiskanica recepata, uputnica i naloga za sanitetski prijevoz na osnovi prosječnog broja po osiguranoj osobi na godišnjoj razini.
+Zavod je obvezan tromjesečno pratiti potrošnju po izabranom ugovornom doktoru opće/obiteljske medicine i nadležnom doktoru specijalisti medicine rada, kontrolirati utrošak utvrđenog iznosa i osnovom izvješća o potrošnji (mjesečno) poduzimati mjere iz svoje nadležnosti u skladu sa sklopljenim ugovorom o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu.

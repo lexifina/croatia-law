@@ -1,0 +1,3 @@
+# Članak 2.
+Na osnovi odredbe članka 24. Zakona o zdravstvenoj zaštiti zdravstvena djelatnost obavlja se na primarnoj, sekundarnoj i tercijarnoj razini zdravstvene djelatnosti, te na razini zdravstvenih zavoda.
+Način i uvjeti pod kojima Zavod sklapa ugovore o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu na razinama zdravstvene djelatnosti iz stavka 1. ovog članka utvrđuju se Zakonom, Pravilnikom o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu (u daljnjem tekstu: Pravilnik), te drugim općim aktima Zavoda.

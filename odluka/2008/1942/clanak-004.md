@@ -1,0 +1,4 @@
+# Članak 4.
+Zdravstvenu zaštitu za slučaj ozljede na radu i profesionalne bolesti na primarnoj razini zdravstvene djelatnosti osigurane osobe Zavoda (u daljnjem tekstu: osigurane osobe) ostvaruju kod izabranog ugovornog doktora medicine primarne zdravstvene zaštite, koji im pruža zdravstvene usluge u okviru obveznog zdravstvenog osiguranja koje provodi Hrvatski zavoda za zdravstveno osiguranje.
+Zdravstvenu zaštitu za slučaj ozljede na radu i profesionalne bolesti na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti osigurane osobe Zavoda ostvaruju osnovom uputnice izabranog doktora iz stavka 1. ovog članka.
+Pravo na ortopedska i druga pomagala osigurane osobe Zavoda ostvaruju uz prethodno odobrenje ovlaštenog doktora Zavoda, pod uvjetima i na način propisan Pravilnikom o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Pravilnik o ortopedskim i drugim pomagalima).

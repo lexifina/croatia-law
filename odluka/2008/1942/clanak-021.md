@@ -1,0 +1,5 @@
+# Članak 21.
+Ugovorni subjekti Zavoda obvezni su, u pravilu, u provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu za slučaj ozljede na radu i profesionalne bolesti propisivati lijekove utvrđene Osnovnom listom lijekova sukladno općim aktima Hrvatskog zavoda za zdravstveno osiguranje.
+Zdravstveni radnici ugovornih subjekata Zavoda obvezni su u provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu za slučaj ozljede na radu i profesionalne bolesti propisati, odnosno primjeniti lijekove koji su utvrđeni Dopunskom listom lijekova za koje osigurana osoba ispunjava propisane medicinske indikacije, a uz prethodno odobrenje ovlaštenog doktora Zavoda.
+Zdravstveni radnici iz stavka 2. ovoga članka ako su na zahtjev osigurane osobe propisali, odnosno primijenili lijek s Dopunske liste lijekova obvezni su u zdravstveni karton osigurane osobe upisati i podatak da je lijek propisan, odnosno primijenjen na zahtjev osigurane osobe.
+Za lijek propisan, odnosno primijenjen na način iz stavka 3. ovog članka osigurana osoba u cijelosti snosi troškove tako propisanog, odnosno primijenjenog lijeka.

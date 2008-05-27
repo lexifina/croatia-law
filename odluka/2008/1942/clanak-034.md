@@ -1,0 +1,3 @@
+# Članak 34.
+Na primarnoj razini specifične zdravstvene zaštite radnika u djelatnosti medicine rada i djelatnosti psihologije cijena se utvrđuje visinom cijene za pojedinu uslugu u skladu s odredbama standarda iz Pravilnika.
+U svim ostalim djelatnostima specifične zdravstvene zaštite radnika na primarnoj, sekundarnoj i tercijarnoj razini zdravstvene zaštite cijena se utvrđuje sukladno Odluci o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Popis postupaka) i Odluci o ugovaranju Hrvatskog zavoda za zdravstveno osiguranje.
