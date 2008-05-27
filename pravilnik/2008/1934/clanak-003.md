@@ -1,0 +1,3 @@
+# Članak 3.
+Radi obveze usklađivanja osposobljenosti osoba koje su do dana stupanja na snagu Zakona o posredovanju u prometu nekretnina (u daljnjem tekstu: Zakon) završile osposobljavanje za posrednika u prometu nekretnina prema programima verificiranim od ministarstva nadležnog za obrazovanje, prema drugom sličnom obrazovnom programu ili prema programu Hrvatske gospodarske komore, Ministarstvo nadležno za gospodarstvo donosi Program o obveznoj dodatnoj provjeri stručnih znanja (u daljnjem tekstu: Program razlike Stručnog ispita) za osobe koje su do dana stupanja na snagu Zakona položile ispit kod pravnih osoba iz članka 38. stavak 5. Zakona.
+Program razlike Stručnog ispita nalazi se u prilogu ovog Pravilnika i čini njegov sastavni dio.
