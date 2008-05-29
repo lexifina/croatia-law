@@ -1,0 +1,6 @@
+# Članak 3.
+Iza članka 35. dodaju se novi članci 35.a i 35.b koji glase:
+»Članak 35.a
+Na ispunjavanje uvjeta za kategoriju objekata u domaćinstvu koji na dan 1. rujna 2007. godine imaju rješenje o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu, a nemaju obvezu usklađivanja s odredbama članka 28. stavka 4. Zakona o ugostiteljskoj djelatnosti (»Narodne novine« broj 138/06), primjenjivat će se odredbe Pravilnika o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata (»Narodne novine«, broj: 57/95, 110/96, 24/97, 61/98, 137/98, 19/99, 39/99, 52/99, 43/00, 52/00, 57/00, 63/00, 18/01, 33/01, 48/02, 21/03, 175/03, 52/04 i 106/04).«
+»Članak 35.b
+Dok ne usklade pružanje usluga s odredbama članka 28. stavka 4. Zakona o ugostiteljskoj djelatnosti (»Narodne novine« broj 138/06), na domaćinstva iz članka 35.a ovog Pravilnika glede ispunjavanja uvjeta za vrstu odnosno za vrstu i kategoriju objekata u domaćinstvu, primjenjivat će se odredbe Pravilnika o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata (»Narodne novine«, broj: 57/95, 110/96, 24/97, 61/98, 137/98, 19/99, 39/99, 52/99, 43/00, 52/00, 57/00, 63/00, 18/01, 33/01, 48/02, 21/03, 175/03, 52/04 i 106/04).«

@@ -1,0 +1,1 @@
+Na temelju odredbi članka 29. stavka 2. i članka 30. stavka 3. Zakona o ugostiteljskoj djelatnosti (»Narodne novine« broj 138/06), ministar nadležan za ugostiteljstvo i turizam, uz suglasnost ministra nadležnog za zdravstvo, donosi
