@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. točke 4. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 174/04 i 46/07), ministar znanosti, obrazovanja i športa donosi

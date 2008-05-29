@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o mjerilima i kriterijima za osnivanje visokih učilišta (»Narodne novine«, broj 9/05) u članku 6. stavku 1. točki 2. prva rečenica mijenja se i glasi:
+»Potreban broj nastavnog i drugog osoblja s odgovarajućom znanstvenom i stručnom kvalifikacijom, u skladu sa standardnim opterećenjem nastavnih obveza utvrđenih kolektivnim ugovorom za visoko obrazovanje, pri čemu ima zaključen ugovor o radu s punim radnim vremenom s najmanje polovicom potrebnog broja nastavnika u slučaju sveučilišta, odnosno ako ima zaključen ugovor o radu s punim ili nepunim radnim vremenom s najmanje trećinom potrebnog broja nastavnika u slučaju veleučilišta ili visoke škole.«
