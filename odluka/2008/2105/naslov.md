@@ -1,0 +1,1 @@
+Odluka o nastavku pilot-projekta elektroničke komunikacije s registarskim sudom radi upisa društva s ograničenom odgovornošću s temeljnim kapitalom u novcu u sudski registar pod radnim nazivom "on-line registracija«
