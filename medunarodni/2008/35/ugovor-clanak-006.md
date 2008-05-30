@@ -1,0 +1,6 @@
+# Članak 6.
+IZVLAŠTENJE
+1. Ulaganja ulagatelja jedne ugovorne stranke na državnom području druge ugovorne stranke neće se izvlastiti, nacionalizirati ili podvrgavati drugim mjerama koje, izravno ili neizravno, imaju učinak jednak izvlaštenju ili nacionalizaciji (u daljnjem tekstu »izvlaštenje«) osim kad je to u javnom interesu, na nediskriminirajućoj osnovi, te u skladu sa zakonom propisanim postupkom i uz plaćanje pravovremene, odgovarajuće i učinkovite naknade.
+2. Ta naknada bit će jednaka realnoj tržišnoj vrijednosti izvlaštenog ulaganja neposredno prije nego što je izvlaštenje poduzeto ili je postalo javno poznato, što god je od toga ranije, te će se isplatiti bez neopravdane odgode.
+3. Realna tržišna vrijednost iskazat će se u slobodno konvertibilnoj valuti na temelju tržišnog tečaja za tu valutu na dan prijenosa. Naknada će također obuhvatiti kamatu po tržišnoj stopi utvrđenoj na osnovi LIBOR-a za odnosnu valutu od datuma izvlaštenja do datuma stvarnog plaćanja.
+4. Ulagatelj čija se ulaganja izvlašćuju imat će pravo na pravovremeno ispitivanje slučaja od strane sudskog ili nekog drugog ovlaštenog tijela ugovorne stranke domaćina, kao i vrednovanja njegovih ulaganja, u skladu s načelima iznijetim u ovom članku.

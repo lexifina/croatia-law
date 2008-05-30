@@ -1,0 +1,10 @@
+# Članak 14.
+SPOROVI IZMEĐU UGOVORNIH STRANAKA
+1. Sporovi između ugovornih stranaka u svezi s tumačenjem ili primjenom ovog Ugovora, po mogućnosti će se rješavati pregovorima.
+2. Ako se spor na taj način ne može riješiti u roku od šest (6) mjeseci nakon datuma zahtjeva jedne od ugovornih stranaka za pregovorima, na zahtjev jedne od ugovornih stranaka spor će se uputiti pred arbitražni sud ustanovljen u skladu s ovim člankom.
+3. Takav će se arbitražni sud u svakom pojedinačnom slučaju osnovati kako slijedi. U roku od dva (2) mjeseca od datuma primitka zahtjeva za arbitražu, svaka će ugovorna stranka imenovati jednog arbitra. Ta dva arbitra zajedno će potom odabrati državljanina neke treće države koji će po odobrenju od strane dviju ugovornih stranaka biti imenovan predsjednikom arbitražnog suda. Predsjednik će se imenovati u roku od četiri (4) mjeseca od datuma imenovanja druga dva arbitra.
+4. Ako se neophodna imenovanja ne izvrše u rokovima navedenima u stavku 3. ovog članka, bilo koja od ugovornih stranaka može, u nedostatku drugog dogovora, pozvati predsjednika Međunarodnog suda da izvrši potrebna imenovanja. Ako je predsjednik Međunarodnog suda državljanin jedne od ugovornih stranaka ili je na drugi način spriječen u obavljanju spomenute dužnosti, sljedeći po rangu član Međunarodnog suda koji nije državljanin nijedne od ugovornih stranaka niti je na drugi način spriječen u obavljanju spomenute dužnosti bit će pozvan da obavi neophodna imenovanja.
+5. Arbitražni sud će utvrditi vlastita pravila postupka.
+6. Arbitražni sud će donijeti svoju odluku na temelju ovog Ugovora i u skladu s međunarodnim pravom primjenjivim između ugovornih stranka.
+7. Arbitražni će sud donijeti svoju odluku većinom glasova. Odluke Arbitražnog suda konačne su i obvezujuće za obje ugovorne stranke.
+8. Svaka će ugovorna stranka snositi troškove svoga člana arbitražnog suda i svog zastupanja u arbitražnom postupku. Troškove predsjedatelja suda i preostale zajedničke troškove obje će ugovorne stranke snositi u jednakim dijelovima.

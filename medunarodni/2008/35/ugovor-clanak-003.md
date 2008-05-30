@@ -1,0 +1,4 @@
+# Članak 3.
+PRISTUP INFORMACIJAMA ULAGATELJA I TRANSPARENTNOST
+1. Ugovorna stranka domaćin ima pravo zatražiti informacije od potencijalnog ulagatelja ili njegove domicilne države o prijašnjemu vladanju poduzeća i njegovu postupanju kao ulagatelja, uključivo i u njegovoj domicilnoj državi. Ugovorna stranka domaćin štitit će povjerljive poslovne informacije koje primi u tom smislu. Ugovorna stranka domaćin može primljene informacije učiniti javno dostupnima u sredini u kojoj je ulaganje locirano, podložno zaštiti povjerljivih poslovnih informacija i drugom važećem nacionalnom zakonodavstvu.
+2. Svaka ugovorna stranka osigurat će da po mogućnosti njezini zakoni, propisi, postupci, upravna rješenja i sudske odluke opće primjene, kao i međunarodni ugovori nakon njihova stupanja na snagu, a koji mogu utjecati na ulaganja ulagatelja druge ugovorne stranke na njezinom državnom području, budu bez odgode objavljeni ili na drugi način učinjeni javno dostupnim.
