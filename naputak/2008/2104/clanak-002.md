@@ -1,0 +1,2 @@
+# Članak 2.
+Upisi osnivanja društava s ograničenom odgovornošću s temeljnim kapitalom u novcu izvršeni temeljem Naputka o uvjetima i načinu ostvarivanja elektroničke komunikacije s registarskim sudom radi upisa društva s ograničenom odgovornošću u sudski registar (»Narodne novine«, broj: 109/07) u sudskom registru Trgovačkog suda u Varaždinu u razdoblju od 30. travnja 2008. godine do dana stupanja na snagu ovog Naputka smatraju se pravovaljanim.
