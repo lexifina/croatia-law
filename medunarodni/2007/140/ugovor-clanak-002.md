@@ -1,0 +1,27 @@
+# Članak 2.
+TEMELJNE OBVEZE
+1. Stranke će nadzirati i smanjiti emisiju HOS-eva kako bi smanjile njihovo prekogranično strujanje i strujanje nastalih produkata, sekundarnih fotokemijskih oksidanata, radi zaštite ljudskog zdravlja i okoliša od štetnih utjecaja.
+2. Radi ispunjenja zahtjeva iz gornjeg stavka 1., svaka će stranka nadzirati i smanjiti svoju godišnju nacionalnu emisiju HOS-eva ili njihovo prekogranično strujanje na bilo koji od dolje navedenih načina, što će biti utvrđeno nakon potpisivanja:
+(a) Što je moguće prije i kao prvi korak, poduzeti učinkovite mjere za smanjenje svoje godišnje nacionalne emisije HOS-eva za najmanje 30 % do 1999. godine, uzimajući kao baznu razinu iz 1988. godine ili bilo koju drugu godišnju razinu u razdoblju od 1984. do 1990. godine, koju može odrediti nakon potpisivanja ili pristupa ovom Protokolu; ili
+(b) Tamo gdje godišnje emisije jedne stranke pridonose koncentracijama troposferskog ozona u područjima pod jurisdikcijom još jedne ili više drugih stranaka, i takve emisije potječu samo iz područja pod njezinom jurisdikcijom koja su navedena u Dodatku I. kao područja gospodarenja troposferskim ozonom, što je moguće prije i kao prvi korak poduzet će učinkovite mjere kako bi:
+(i) smanjila svoju godišnju emisiju HOS-eva iz spomenutih područja za najmanje 30% do 1999. godine, uzimajući kao baznu razinu iz 1988. godine ili bilo koju drugu godišnju razinu u razdoblju 1984. - 1990. godine koju može odrediti nakon potpisivanja ili pristupa ovom Protokolu, i
+(ii) osigurala da njezine ukupne godišnje nacionalne emisije HOS-eva do 1999. godine ne prekorače razine iz 1988. godine, ili
+(c) Tamo gdje su njezine godišnje nacionalne emisije HOS-eva u 1988. godini iznosile manje od 500.000 tona i 20 kg po stanovniku i 5 tona po km˛, što je moguće prije i kao prvi korak poduzet će učinkovite mjere kako bi osigurala makar da njezine godišnje emisije HOS-eva najkasnije do 1999. godine ne prekorače razinu iz 1988. godine.
+3. (a) Nadalje, najkasnije dvije godine od datuma stupanja na snagu ovoga Protokola svaka će stranka:
+(i) primjenjivati odgovarajuće nacionalne ili međunarodne emisijske standarde za nove stacionarne izvore na osnovi najboljih raspoloživih tehnologija koje su ekonomski izvedive, uzimajući u obzir Dodatak II,
+(ii) primjenjivati nacionalne ili međunarodne mjere za proizvode koji sadrže otapala i promicati korištenje proizvoda s niskim sadržajem ili koji ne sadrže HOS-eve, uzimajući u obzir Dodatak II., uključujući označavanje proizvoda navodeći njihov sadržaj HOS-eva,
+(iii) primjenjivati odgovarajuće nacionalne ili međunarodne emisijske standarde za nove pokretne izvore na osnovi najboljih raspoloživih tehnologija koje su ekonomski izvedive, uzimajući u obzir Dodatak III., i
+(iv) jačati sudjelovanje javnosti u programima nadzora emisija putem javnog informiranja, poticati najbolje korištenje svih oblika prijevoza i promicati planove upravljanja prometom.
+(b) Nadalje, najkasnije pet godina od datuma stupanja na snagu ovoga Protokola, u onim područjima u kojima su prekoračeni nacionalni ili međunarodni standardi za troposferski ozon ili odakle potječe prekogranično strujanje ili se očekuje da će nastati, svaka će stranka:
+(i) primjenjivati najbolje raspoložive tehnologije koje su ekonomski izvedive za postojeće stacionarne izvore iz kategorije glavnih izvora, uzimajući u obzir Dodatak II.;
+(ii) primjenjivati tehnike za smanjenje emisija HOS-eva nastalih pri distribuciji benzina i radnjama punjenja gorivom motornih vozila, te za smanjenje hlapivosti benzina, uzimajući u obzir dodatke II. i III.
+4. Pri izvršavanju svojih obveza iz ovoga članka stranke se pozivaju da najveću prednost daju smanjenju i nadzoru emisija tvari s najvećim POCP-om, uzimajući u obzir podatke koji su navedeni u Dodatku IV.
+5. U provedbi ovoga Protokola, a osobito bilo koje mjere zamjene proizvoda, stranke će poduzeti odgovarajuće korake kako bi osigurale da se otrovni i karcinogeni HOS-evi, te oni koji oštećuju stratosferski ozonski sloj ne zamjene za druge HOS-eve.
+6. U drugoj fazi, stranke će, najkasnije šest mjeseci od datuma stupanja na snagu ovoga Protokola, započeti pregovore o daljnjim koracima za smanjenje godišnje nacionalne emisije hlapljivih organskih spojeva ili prekograničnih strujanja takvih emisija i njihovih pratećih produkata, sekundarnih fotokemijskih oksidanata, vodeći računa o najboljim raspoloživim znanstvenim i tehničkim postignućima, znanstveno utvrđenim kritičnim razinama i međunarodno prihvaćenim ciljnim razinama, te ulozi dušikovih oksida u stvaranju fotokemijskih oksidanata i drugih elemenata, što proizlazi iz programa rada utvrđenog u članku 5.
+7. U tu svrhu stranke će surađivati u cilju uspostavljanja:
+(a) detaljnijih informacija o pojedinim HOS-evima i njihovu POCP-u,
+(b) kritičnih razina za fotokemijske oksidante,
+(c) smanjenja godišnjih nacionalnih emisija ili prekograničnih strujanja HOS-eva i pratećih produkata, sekundarnih fotokemijskih oksidanata, osobito u odnosu na zahtjev za postizanjem dogovorenih ciljeva utemeljenih na kritičnim razinama,
+(d) strategija nadzora, primjerice gospodarski instrumenti, radi omogućivanja sveukupne rentabilnosti troškova u postizanju dogovorenih ciljeva,
+(e) mjera i vremenskog rasporeda za postizanje takvih smanjenja s početkom najkasnije 1. siječnja 2000. godine.
+8. Tijekom ovih pregovora, stranke će razmotriti je li prikladno za svrhe navedene u stavku 1. nadopuniti takve daljnje korake s mjerama za smanjenje metana.
