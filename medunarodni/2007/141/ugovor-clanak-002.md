@@ -1,0 +1,13 @@
+# Članak 2.
+TEMELJNE OBVEZE
+1. Stranke će, što je moguće prije i kao prvi korak, poduzeti učinkovite mjere nadzora i/ili smanjenja svojih godišnjih nacionalnih emisija dušikovih oksida ili njihovih prekograničnih strujanja, tako da one najkasnije do 31. prosinca 1994. godine ne prekorače godišnje nacionalne emisije dušikovih oksida ili prekograničnih strujanja takvih emisija iz kalendarske 1987. godine ili bilo koje prethodne godine koja će biti utvrđena nakon potpisivanja ili pristupa Protokolu, pod uvjetom da osim toga, u odnosu na svaku stranku koja navede tu prethodnu godinu, njezina nacionalna prosječna godišnja prekogranična strujanja ili nacionalne prosječne godišnje emisije dušikovih oksida za razdoblje od 1. siječnja 1987. do 1. siječnja 1996. godine ne prekorače prekogranična strujanja ili nacionalne emisije iz kalendarske 1987. godine.
+2. Nadalje, nakasnije dvije godine nakon datuma stupanja na snagu ovog Protkola, stranke će naročito:
+(a) primjenjivati nacionalne standarde emisija na glavne nove stacionarne izvore i/ili kategorije izvora i na znatno preinačene stacionarne izvore iz kategorije glavnih izvora, na osnovi najboljih raspoloživih ekonomski izvedivih tehnologija uzimajući u obzir tehnički dodatak,
+(b) primjenjivati nacionalne standarde emisija na nove pokretne izvore iz svih kategorija glavnih izvora, na osnovi najbolje raspoloživih ekonomski izvedivih tehnologija, uzimajući u obzir tehnički dodatak i relevantne odluke usvojene u okviru Povjerenstva Komisije za unutarnji promet,
+(c) uvoditi mjere nadzora onečišćenja za glavne postojeće stacionarne izvore, vodeći računa o tehničkom dodatku i značajkama postrojenja, njegovoj starosti i stupnju iskorištenosti te o potrebi da se izbjegnu neželjeni prekidi u radu.
+3. (a) Stranke će, kao drugi korak, najkasnije šest mjeseci od datuma stupanja na snagu ovog Protokola, započeti s pregovorima o daljnjim koracima za smanjenje nacionalnih godišnjih emisija dušikovih oksida ili prekograničnih strujanja takvih emisija, vodeći računa o najboljim raspoloživim znanstvenim i tehnološkim dostignućima, međunarodno prihvaćenim kritičnim opterećenjima i drugim elementima koji proizlaze iz programa rada utvrđenog u članku 6.,
+(b) U tu svrhu, stranke će surađivati radi uspostavljanja:
+(i) kritičnih opterećenja,
+(ii) smanjenja nacionalnih godišnjih emisija dušikovih oksida ili njihovih prekograničnih strujanja, što se zahtijeva radi postizanja dogovorenih ciljeva utemeljenih na kritičnim opterećenjima, i
+(iii) mjera i vremenskog rasporeda za ostvarenje takvih smanjenja, s početkom najkasnije 1. siječnja 1996. godine.
+4. Stranke mogu poduzeti strože mjere od onih zahtijevanih ovim člankom.
