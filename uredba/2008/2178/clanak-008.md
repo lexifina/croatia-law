@@ -1,0 +1,2 @@
+# Članak 8.
+Sigurnosno-obavještajna agencija (SOA) i Vojna sigurnosno--obavještajna agencija (VSOA) u suradnji s redarstvenim vlastima sukladno Zakonu o sigurnosno-obavještajnom sustavu Republike Hrvatske i Zakonu o kaznenom postupku, uz suglasnost Savjeta za koordinaciju sigurnosno-obavještajnih agencija, donose pravila koja se odnose na tehničke zahtjeve, odnosno razvoj odgovarajuće tehničke opreme i programske podrške, pitanja tehničkih sučelja i druga pitanja od važnosti za aktivaciju i primjenu mjera tajnog nadzora telekomunikacija.

@@ -1,0 +1,2 @@
+# Članak 13.
+U slučaju nezakonite primjene mjera tajnog nadzora telekomunikacija, odavanja tajnih podataka odnosno rezultata nastalih primjenom mjera ili drugih zlouporaba rezultatima primjene mjere tajnog nadzora telekomunikacija isključivu odgovornost snosi fizička ili pravna osoba za koju se utvrdi da je nezakonito primjenila mjere ili zlouporabila rezultate primjene mjera tajnog nadzora telekomunikacija odnosno podatke i signale proizvedene primjenom funkcije tajnog nadzora.

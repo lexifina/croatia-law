@@ -1,0 +1,2 @@
+# Članak 5.
+Funkcija tajnog nadzora iz članka 4. ove Uredbe ostvaruje se ugradnjom i održavanjem odgovarajuće tehničke opreme i programske podrške u telekomunikacijski sustav pravnih i fizičkih osoba iz članka 2. ove Uredbe, ugradnjom komunikacijskih vodova do Operativno-tehničkog centra za nadzor telekomunikacija (u daljnjem tekstu: OTC), osiguranjem uvjeta OTC-u za trajan i izravan pristup objektima, komunikacijskim vodovima i tehničkoj opremi te osiguranjem uvjeta za samostalnu provedbu mjera tajnog prikupljanja podataka uporabom odgovarajućih tehničkih sučelja.
