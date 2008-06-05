@@ -1,0 +1,10 @@
+# Članak 6.
+Prijedlogu za stavljanje izvornog lijeka ili proširenje indikacije već stavljenog lijeka na osnovnu, odnosno dopunsku listu lijekova Zavoda moraju se priložiti sljedeći podaci, odnosno sljedeća dokumentacija:
+1. naziv i adresa podnositelja prijedloga te datum podnošenja prijedloga,
+2. odobrenje za stavljanje gotovog lijeka u promet dano od Agencije za lijekove i medicinske proizvode uz Sažetak opisa svojstava lijeka i Uputu o uporabi lijeka,
+3. izračun cijene lijeka sukladno Pravilniku o mjerilima za određivanje cijena lijekova na veliko i o načinu izvještavanja o cijenama na veliko ili sukladno članku 7. ovoga Pravilnika,
+4. popis država u kojima lijek ima odobrenje za stavljanje u promet i status u zdravstvenom osiguranju najmanje 15 država Europske unije s navedenim smjernicama za primjenu i iznosom u dijelu koji pokriva obvezno osiguranje svake države te iznosom doplate,
+5. kliničko-farmakološko mišljenje s farmakoekonomskom analizom sukladno članku 8. ovoga Pravilnika,
+6. pet znanstvenih radova objavljenih u indeksiranim stručnim časopisima po izboru podnositelja prijedloga koji dokazuju prednosti lijeka koji se predlaže pred lijekovima koji su već stavljeni na osnovnu, odnosno dopunsku listu lijekova Zavoda.
+Prijedlogu za stavljanje istovrsnog lijeka na osnovnu, odnosno dopunsku listu lijekova Zavoda mora se priložiti dokumentacija navedena u točkama 1., 2. i 3. stavka 1. ovoga članka.
+Ako Zavod utvrdi da prijedlog za stavljanje lijeka na osnovnu ili dopunsku listu lijekova Zavoda, odnosno prijedlog za promjenu statusa lijeka, nije sukladan odredbama ovoga Pravilnika, Zavod je obvezan u pisanom obliku od podnositelja prijedloga zatražiti usklađivanje prijedloga. Ako je potrebna dopuna prijedloga, Povjerenstvo za lijekove Zavoda može od podnositelja prijedloga zatražiti dopunu dokumentacije ili dodatno mišljenje stručnog društva Hrvatskog liječničkog zbora, referentnog centra ministarstva nadležnog za zdravstvo, Agencije za lijekove i medicinske proizvode, odnosno nekog drugog stručnog tijela.

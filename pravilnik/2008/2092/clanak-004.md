@@ -1,0 +1,4 @@
+# Članak 4.
+Prijedlog za stavljanje lijeka na osnovnu ili dopunsku listu lijekova Zavoda ili prijedlog za promjenu statusa već stavljenog lijeka može podnijeti pravna osoba sa sjedištem u Republici Hrvatskoj koja je nositelj odobrenja za stavljanje gotovoga lijeka u promet u Republici Hrvatskoj danog od Agencije za lijekove i medicinske proizvode (u daljnjem tekstu: nositelj odobrenja).
+Prijedlog za promjenu statusa, odnosno izmjenu ili dopunu smjernica za primjenu lijeka koji je već stavljen na osnovnu ili dopunsku listu lijekova Zavoda mogu, uz pravne osobe iz stavka 1. ovoga članka, podnijeti i povjerenstva za lijekove zdravstvenih ustanova, stručna društva Hrvatskog liječničkog zbora i referentni centri ministarstva nadležnog za zdravstvo.
+Povjerenstvo za lijekove Zavoda može predložiti stavljanje lijeka u listu lijekova po nezaštićenom imenu ako postoji opravdana potreba za njegovu primjenu.

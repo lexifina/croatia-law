@@ -1,0 +1,2 @@
+# Članak 13.
+Ako se primjenom odredaba članka 10. i 11. Pravilniku o mjerilima za određivanje cijena lijekova na veliko i o načinu izvještavanja o cijenama na veliko, odnosno članka 8. ovoga Pravilnika u istoj terapijskoj skupini odrede različite cijene na veliko za istovrsne lijekove ili lijekove podjednakog učinka i neškodljivosti (treća razina ATK klasifikacije) Zavod je obvezan provesti javno nadmetanje sukladno članku 16. stavku 3. Zakona o obveznom zdravstvenom osiguranju.
