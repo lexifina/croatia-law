@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 11. stavak 6. mijenja se i glasi:
+»(6) Iznimno dužnosnici mogu biti članovi u najviše do dva (2) nadzorna odbora trgovačkih društava, ustanova i izvanproračunskih fondova koji su od posebnoga državnog interesa, osim ako posebnim zakonom nije određeno da je dužnosnik član nadzornog odbora trgovačkog društva, ustanove i izvanproračunskog fonda po položaju. Za članstvo u nadzornim odborima trgovačkih društava, ustanovama i izvanproračunskim fondovima dužnosnik nema pravo na ikakvu naknadu, osim prava na naknadu putnih i drugih troškova. Hrvatski sabor utvrđuje popis trgovačkih društava od posebnoga državnog interesa, na prijedlog Vlade Republike Hrvatske.«
