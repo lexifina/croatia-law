@@ -1,0 +1,3 @@
+# Članak 26.
+Državni zavod za zaštitu od zračenja za svaki pojedini slučaj u rješenju iz članka 25. ovoga Pravilnika utvrđuje opseg i vrste ispitivanja vrste i aktivnosti radioaktivnih tvari u okolišu te mjerenja vanjskog zračenja sukladno smjernicama iz Priloga II. ovoga Pravilnika imajući u vidu vrstu, oblik i količinu radionuklida te moguće puteve izloženosti stanovništva ionizirajućem zračenju.
+Državni zavod za zaštitu od zračenja može zatražiti da se u okviru redovnog praćenje stanja okoliša objekta prikupljaju i podaci koji su potrebni za interpretaciju rezultata ispitivanja i mjerenja iz stavka 1. ovog članka te procjenu efektivne doze pojedinca iz referentne skupine stanovništva.

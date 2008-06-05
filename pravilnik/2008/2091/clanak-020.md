@@ -1,0 +1,2 @@
+# Članak 20.
+Ovlašten stručni tehnički servis iz članka 6. ovoga Pravilnika neodgodivo izvješćuje uz obrazloženje Državni zavod za zaštitu od zračenja i ministarstvo nadležno za zdravstvo ako za vrijeme provedbe poslova praćenja stanja okoliša u dva uzastopna mjerenja ustanovi da izmjerene aktivnosti za pojedini radionuklid prelaze dvostruke vrijednosti godišnjeg prosjeka izmjerenih proteklih godina ili vrijednost koja proteklih godina za taj radionuklid nije bila pređena.

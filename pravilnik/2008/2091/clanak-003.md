@@ -1,0 +1,8 @@
+# Članak 3.
+Praćenje stanja okoliša provodi se u svim dijelovima okoliša iz kojeg različitim putevima prijenosa radioaktivnih tvari stanovništvo može biti izloženo ionizirajućem zračenju od vanjskog zračenja te zbog unošenja radionuklida udisanjem i gutanjem.
+Metodologija koja se primjenjuje pri uzimanju, pripremi i mjerenju uzoraka mora zadovoljavati uvjete propisane međunarodno standardiziranim normama za osiguranje kakvoće proizvoda i usluga što su određene za tu svrhu.
+Mjerenje koncentracije aktivnosti radionuklida u uzorcima iz okoliša provodi se gama spektrometrijskim mjerenjima, alfa i beta spektrometrijskim mjerenjima, te metodama specifičnim za ispitivanje vrste i aktivnosti pojedinih radionuklida u skladu s međunarodno standardiziranim metodama i preporukama.
+U slučaju izvanrednog događaja ili u slučaju da je sastav radioaktivnog onečišćenja poznat, a brzo se mijenja s vremenom, mogu se koristiti mjerne metode niže razlučivosti od onih propisanih stavkom 3. ovoga članka.
+Oprema i uređaji koji se koriste za ispitivanja moraju biti umjereni u skladu s pozitivnim propisima.
+U okviru praćenja stanja okoliša moraju se sakupiti i podaci potrebni za interpretaciju rezultata i procjenu efektivne doze (količina oborina, protok rijeka, količina distribuirane vode za piće i sl).
+Rezultati ispitivanja praćenja stanja okoliša moraju biti vrednovani i pripremljeni na način da se mogu upotrijebiti za procjenu izloženosti stanovništva ionizirajućem zračenju iz okoliša, za izračun trenda izloženosti stanovništva od ionizirajućeg zračenja iz okoliša te za donošenje odluka o potrebi poduzimanja mjera zaštite.

@@ -1,0 +1,2 @@
+# Članak 25.
+Ako se na temelju rezultata prethodnog praćenje stanja okoliša objekta ili utvrđivanja postojećeg stanja iz članka 23. ovoga Pravilnika utvrdi da efektivna doza pojedinca iz referentne skupine stanovništva zbog normalnog rada objekta može prijeći ili prelazi 10 µSv godišnje, Državni zavod za zaštitu od zračenja vlasniku ili korisniku objekta rješenjem naređuje izvođenje redovnog praćenja stanja okoliša objekta.
