@@ -1,0 +1,6 @@
+# Članak 6.
+Usporedna cijena lijeka utvrđuje se za svaki farmaceutski oblik posebno. Ako u državama koje služe za usporedbu postoji isti farmaceutski oblik, iste jačine, od raznih proizvođača s različitim cijenama, u izračun se uzima prosječna cijena lijeka u pojedinoj državi.
+Ako u državama koje služe za usporedbu nema jednakoga farmaceutskog oblika, usporediti se može srodan oblik (npr. tableta - dražeja) pri čemu se oblici lijekova produženog ili kontroliranog djelovanja ne mogu izjednačiti s uobičajenima.
+U slučaju različitog broja jedinica doziranja u pakiranju u obzir se uzima pakiranje koje je najbliže po broju jedinica. Usporedna cijena se u tom slučaju izračunava za jedinicu doziranja usporedivog lijeka, a zatim se izračunava broj jedinica doziranja u lijeku pravne osobe iz članka 3. ovoga Pravilnika.
+U slučaju razlike u koncentraciji djelatne tvari u jedinici farmaceutskog oblika ili nedostatka određenog lijeka u državama koje služe za usporedbu za izračun se uzimaju podaci o cijenama lijekova država iz članka 5. stavka 3. ovoga Pravilnika, redoslijedom kako su navedene, na način naveden u stavcima 1., 2. i 3. ovoga članka.
+U slučaju nedostatka tri usporedne cijene za izračun je potrebno utvrditi najmanje dvije usporedne cijene.

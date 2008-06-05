@@ -1,0 +1,4 @@
+# Članak 5.
+Osnova za utvrđivanje usporedne cijene lijeka na veliko jest cijena na veliko istoga lijeka (identičnoga generičkog entiteta i identičnoga farmaceutskog oblika) u Italiji, Francuskoj i Sloveniji, a na način određen člankom 7. ovoga Pravilnika.
+Izvori podataka o cijenama lijekova u usporednim državama su posljednja izdanja sljedećih publikacija: Informatore Farmaceutico, Vidal i Register Zdravil Republike Slovenije, objavljena do dana izračuna iz članka 17. stavka 1. ovoga Pravilnika.
+Ako u izvorima podataka iz stavka 2. ovoga članka nema podataka o cijenama lijekova iz stavka 1. ovoga članka tada se kao izvori podataka koriste cijene lijekova na veliko u Španjolskoj i Češkoj, a kao izvori podataka posljednja izdanja sljedećih publikacija: Catalogo de Medicamentos i Číselníky VZP.

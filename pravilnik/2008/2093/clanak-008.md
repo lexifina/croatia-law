@@ -1,0 +1,2 @@
+# Članak 8.
+Usporedna cijena lijeka na veliko u kunama izračunava se prema obrascu tiskanom u Prilogu 2. koji je sastavni dio ovoga Pravilnika, tako da se usporedna cijena u valuti pojedine države određena prema članku 7. ovoga Pravilnika pomnoži sa srednjim tečajem strane valute prema kuni na tečajnoj listi Hrvatske narodne banke na dan izračuna. Tako izračunate cijene se zbrajaju, a njihov zbroj se dijeli s brojem cijena (prosječna usporedna cijena).

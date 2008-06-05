@@ -1,0 +1,3 @@
+# Članak 14.
+Ako Zavod utvrdi da predložena cijena lijeka o kojoj ga je izvijestila pravna osoba iz članka 3. ovoga Pravilnika nije u skladu s odredbama ovoga Pravilnika ili ako pravna osoba iz članka 3. ovoga Pravilnika nije Zavodu podnijela sve podatke potrebne za određivanje cijene lijeka u skladu s ovim Pravilnikom, Zavod će odrediti toj pravnoj osobi rok za usklađivanje cijene, odnosno za dopunu podneska koji ne smije biti kraći od osam dana.
+Ako pravna osoba iz članka 3. ovoga Pravilnika ne izvijesti Zavod o prijedlogu cijene lijeka ili u naknadnom roku ne uskladi predloženu cijenu lijeka ili ne dopuni svoj podnesak, Zavod će utvrditi cijenu sukladno ovome Pravilniku.
