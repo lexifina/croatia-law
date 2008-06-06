@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. članka 8. stavka 3. i članka 15. stavka 5. Zakona o šumskom reprodukcijskom materijalu (»Narodne novine« broj 140/05.), ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi
