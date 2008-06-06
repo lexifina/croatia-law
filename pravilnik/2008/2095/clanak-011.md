@@ -1,0 +1,6 @@
+# Članak 11.
+Procjena rizika jest utvrđivanje opasnosti i prema potrebi procjenu odnosa doze (koncentracije) - učinka , procjenu izloženosti te karakterizaciju rizika.
+Procjena rizika iz stavka 1. ovoga članka temelji se na podacima o dostavljenoj tvari u skladu s člancima 3. i 4., člankom 7. stavkom 1. i 2., člankom 9. stavkom 1. i 2. te točkom 1. podtočkom 2. Priloga IX ovoga Pravilnika i na drugim dostupnim podacima, uzimajući u obzir članak 10., 12 . i 13. ovoga Pravilnika.
+Neovisno od stavka 1. ovoga članka, u odnosu na posebne učinke kao što je iscrpljivanje ozona i za koje su postupci navedeni u članku 12. i 13. ovoga Pravilnika neostvarivi, rizici povezani s takvim učincima procjenjuju se na temelju postupaka od slučaja do slučaja, a potpuni opis i opravdanje takvih procjena uključuju se u pisano izvješće.
+Pri provođenju procjene izloženosti uzimaju se u obzir one skupine stanovništva ili dijela okoliša čija je izloženost na temelju dostupnoga podatka o tvari poznata ili prihvatljivo predvidiva, posebno u vezi s proizvodnjom, prijevozom, skladištenjem, formulacijom u pripravak ili drugom obradom, uporabom i odlaganjem ili oporabom.
+Kad se tvar, za koju se procjena rizika već provodila sukladno odredbama ovoga Pravilnika, ponovno pojavi na popisu prvenstva, sljedeća procjena rizika mora uzeti u obzir prethodnu/e procjenu/e rizika.

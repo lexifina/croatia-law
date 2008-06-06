@@ -1,0 +1,8 @@
+# Članak 4.
+Ne isključujući primjenu odredbe članka 6. stavka 1. ovoga Pravilnika, svaki proizvođač koji je proizveo odnosno svaki uvoznik koji je uvezao postojeću tvar, bilo u obliku tvari ili u pripravku, u količinama većim od 10 do najviše 1000 tona godišnje najmanje jedanput u tri godine koje prethode stupanju na snagu ovoga Pravilnika i/ili u godini nakon stupanja na snagu obvezan je u skladu s postupkom utvrđenim u članku 6. ovoga Pravilnika, Ministarstvu dostaviti sljedeće podatke:
+(a) naziv i broj tvari prema popisu EINECS;
+(b) proizvedena odnosno uvezena količina tvari;
+(c) razvrstavanje tvari ili privremeno razvrstavanje tvari u skladu s posebnim propisima kojima je uređeno razvrstavanje, označavanje i pakiranje opasnih kemikalija, uključujući razred opasnosti, znak opasnosti, oznake upozorenja i oznake obavijesti;
+(d) podaci o predviđenim primjenama tvari,
+koji su detaljno navedeni u Prilogu IV. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio, u roku od 6 mjeseci od stupanja na snagu ovoga Pravilnika
+Ministarstvo određuje u kojim je slučajevima nužno zahtijevati da proizvođači i uvoznici tvari prijavljenih sukladno stavku 1. ovoga članka dostave dodatne podatke, u okviru Priloga III. ovoga Pravilnika, o fizikalno-kemijskim svojstvima, toksičnosti i ekotoksičnosti tih tvari, izloženosti i drugim aspektima koji su bitni za ocjenjivanje rizika tvari. Ipak, ne dovodeći u pitanje točku 3. podtočku 2. Priloga IX. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio, proizvođači i uvoznici nisu obvezni u tu svrhu obaviti dodatna ispitivanja na životinjama.

@@ -1,0 +1,3 @@
+# Članak 6.
+Ako istu tvar proizvodi ili uvozi više proizvođača odnosno uvoznika, podatke iz članka 3. i članka 4. stavka 2. ovoga Pravilnika može dostaviti jedan proizvođač odnosno uvoznik koji postupa u ime ostalih proizvođača odnosno uvoznika uz njihovu suglasnost. Proizvođači, odnosno uvoznici moraju Ministarstvu dostaviti podatke navedene u točki 1.1. do 1.19. Priloga III. ovoga Pravilnika, i moraju navesti podatke koje je dostavio proizvođač, odnosno uvoznik u njihovo ime.
+Podatke iz članka 3. i članka 4. stavka 1. ovoga Pravilnika proizvođači i uvoznici obvezni su dostaviti elektronskim putem na službenu adresu elektronske pošte Ministarstva.
