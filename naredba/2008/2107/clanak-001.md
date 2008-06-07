@@ -1,0 +1,2 @@
+# Članak 1.
+Naredba o određivanju terminalnih i sličnih uređaja iz područja radiokomunikacija, elektroakustike, registriranja i reprodukcije slike i zvuka, namijenjenih za uporabu u domaćinstvu koji se mogu stavljati u promet samo ako imaju garancijski list, tehničke upute i odredbu o najkraćem garancijskom roku i roku osiguranog servisiranja za te uređaje (»Službeni list SFRJ«, broj 9/81 i »Narodne novine«, broj 53/91) prestaje važiti danom stupanja na snagu ove Naredbe.

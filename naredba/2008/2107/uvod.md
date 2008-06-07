@@ -1,0 +1,1 @@
+Na temelju članka 2. stavak 1. Zakona o zaštiti potrošača (»Narodne novine«, broj 79/07) i članka 5. stavka 1. Zakona o tehničkim zahtjevima za proizvode i ocjeni sukladnosti (»Narodne novine«, broj 158/03 i 79/07) ministar gospodarstva, rada i poduzetništva donosi

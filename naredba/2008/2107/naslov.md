@@ -1,0 +1,1 @@
+Naredba o ukidanju Naredbe o određivanju terminalnih i sličnih uređaja iz područja radiokomunikacija, elektroakustike, registriranja i reprodukcije slike i zvuka, namijenjenih za uporabu u domaćinstvu koji se mogu stavljati u promet samo ako imaju garancijski list, tehničke upute i odredbu o najkraćem garancijskom roku i roku osiguranog servisiranja za te uređaje
