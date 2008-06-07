@@ -1,0 +1,2 @@
+# Članak 37.
+Kad je korisnik pravne pomoći potpuno ili djelomično uspio u postupku te mu sud dosudi imovinu ili primitak, odnosno kad mu u upravnom postupku pripadne određena imovina ili primitak osim imovine i primitaka koji se prema odredbama ovoga Zakona izuzimaju kod utvrđivanja imovnoga stanja podnositelja zahtjeva, korisnik je dužan iznos plaćene pravne pomoći prema obračunatoj uputnici uplatiti u državni proračun, ako taj iznos suprotna strana nije neposredno uplatila u državni proračun.

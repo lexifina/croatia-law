@@ -1,0 +1,2 @@
+# Članak 32.
+Kad pravna pomoć nije odobrena u punom opsegu, podnositelj zahtjeva može podnijeti žalbu u odnosu na dio zahtjeva za koji mu pravna pomoć nije odobrena, na način i pod uvjetima propisanima ovim Zakonom kad je zahtjev za pravnu pomoć odbijen. Žalba ne odgađa korištenje uputnice u odobrenom opsegu. Protiv rješenja ministarstva nadležnog za poslove pravosuđa kojim se žalba odbija može se pokrenuti upravni spor.

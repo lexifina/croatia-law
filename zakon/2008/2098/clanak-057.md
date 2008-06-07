@@ -1,0 +1,7 @@
+# Članak 57.
+(1) Ovlaštena udruga dužna je kvartalno dostaviti uredu popis predanih uputnica i izvješće o pruženoj pravnoj pomoći. Na temelju izvješća ured zaključuje uputnice i o tome izvješćuje ministarstvo nadležno za poslove pravosuđa.
+(2) Visoka učilišta o radu pravnih klinika podnose samo godišnje izvješće o pruženoj pravnoj pomoći na temelju projekta, uz kojeg prilažu uputnice prema kojima je pružena pravna pomoć, kao i popis uputnica prema kojima je pravna pomoć u tijeku na dan 31. prosinca one godine za koju se izvješće podnosi.
+(3) U okviru sredstava koja su ovlaštenoj udruzi ili visokom učilištu za rad pravne klinike dodijeljena na temelju projekta, ovlaštena udruga i pravna klinika pružaju pravnu pomoć na temelju uputnice kojom je korisniku odobreno korištenje pravne pomoći, te utvrđena vrsta i opseg pravne pomoći.
+(4) Ovlaštena udruga i visoko učilište za rad pravne klinike ne obračunavaju uputnicu već uputnica služi kao financijska dokumentacija koja se prilaže uz izvješće o provedbi projekta.
+(5) U slučaju kad je pravna pomoć ostvarena sukladno odredbi članka 15. stavka 2. ovoga Zakona ovlašteni pružatelji primarne pravne pomoći sastavljaju i dostavljaju posebno izvješće o pruženoj pravnoj pomoći koje sadrži podatke i potvrde sukladno članku 16. stavku 4. i 5. ovoga Zakona.
+(6) Ministar nadležan za poslove pravosuđa pravilnikom će propisati oblik posebnog izvješća iz stavka 5. ovoga članka.

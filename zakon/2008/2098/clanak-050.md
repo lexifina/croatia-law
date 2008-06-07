@@ -1,0 +1,7 @@
+# Članak 50.
+(1) Stranka koja ima prebivalište ili uobičajeno boravište u Republici Hrvatskoj, a koja traži pravnu pomoć u prekograničnim sporovima pred sudom druge države, članice Europske unije, svoj zahtjev podnosi uredu prema mjestu svog prebivališta ili boravišta.
+(2) Ured će zahtjev proslijediti ministarstvu nadležnom za poslove pravosuđa u roku od 8 dana od primitka zahtjeva.
+(3) Ministarstvo nadležno za poslove pravosuđa prevest će zahtjev i priloženu dokumentaciju na službeni jezik ili jedan od službenih jezika države članice Europske unije i nadležnoga tijela za primanje, te ga proslijediti nadležnom tijelu države članice Europske unije u kojoj sud postupa ili u kojoj se zahtijeva izvršenje sudske odluke (tijelo za primanje) u roku od 15 dana po primitku zahtjeva. Ako pravna pomoć ne bude odobrena, podnositelj zahtjeva dužan je nadoknaditi troškove prevođenja.
+(4) Ministarstvo nadležno za poslove pravosuđa rješenjem će odbiti zahtjev ako se ne radi o prekograničnom sporu u smislu ovoga Zakona ili ako je zahtjev podnijela stranka koja nema pravo na pravnu pomoć u prekograničnim sporovima.
+(5) Protiv rješenja kojim se zahtjev odbija žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(6) Neovisno o stavku 1. ovoga članka, osoba iz stavka 1. ovoga Zakona zahtjev može podnijeti neposredno tijelu koji je nadležan za primanje zahtjeva u državi članici Europske unije u kojoj postupa sud ili u kojoj treba izvršiti sudsku odluku.

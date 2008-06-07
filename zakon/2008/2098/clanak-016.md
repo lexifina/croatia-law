@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Zahtjev se uredu podnosi na propisanom obrascu uz koji se prilaže pisana izjava podnositelja zahtjeva i članova njegova kućanstva o imovini te pisana izjava podnositelja zahtjeva i punoljetnih članova njegova kućanstva o dopuštenju uvida u sve podatke o imovini i dohotku.
+(2) Iznimno od stavka 1. ovoga članka žrtve obiteljskog nasilja izjave iz stavka 1. ovoga članka podnose samo za sebe.
+(3) Azilanti, stranci pod supsidijarnom zaštitom, stranci pod privremenom zaštitom te žrtve trgovanja ljudima, uz zahtjev prilažu potvrdu nadležnog tijela o svom statusu.
+(4) Iznimno, ako osoba podnosi zahtjev izravno ovlaštenim pružateljima iz članka 15. stavka 2. ovoga Zakona uz propisani obrazac prilaže potvrdu porezne uprave o visini dohotka podnositelja zahtjeva i članova kućanstva kao i izjave podnositelja zahtjeva i članova njegova kućanstva o imovini.
+(5) Podnositelj zahtjeva iz stavka 4. ovoga članka koji je korisnik nekog od prava iz sustava socijalne skrbi i drugih oblika pomoći podnosi uz zahtjev potvrdu nadležnog centra za socijalnu skrb o vrsti i visini primljene pomoći u posljednjih dvanaest mjeseci ili je korisnik prava na opskrbninu prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji te Zakona o zaštiti vojnih i civilnih invalida rata, podnosi uz zahtjev potvrdu ili presliku rješenja o opskrbnini.

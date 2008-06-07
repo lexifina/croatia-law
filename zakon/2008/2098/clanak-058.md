@@ -1,0 +1,5 @@
+# Članak 58.
+(1) Sredstva za pružanje pravne pomoći ovlaštenim udrugama i visokim učilištima za rad pravnih klinika osiguravaju se na temelju projekta.
+(2) Projekt mora sadržavati dokumentirane podatke o broju slučajeva pružene pravne pomoći iz prethodne godine, ako je udruga pružala pravnu pomoć u toj godini, određenje o pravnom području i vrsti postupaka za koje će se pružati pravna pomoć, određenje o području na kojem će djelovati, uz navođenje jedinica lokalne i područne (regionalne) samouprave u kojem udruga namjerava pružiti pravnu pomoć, kao i podatke o broju kvalificiranih osoba za pružanje pravne pomoći i njihovom rasporedu na području djelovanja.
+(3) Natječaj za prihvaćanje projekta raspisuje do kraja siječnja tekuće godine ministar nadležan za poslove pravosuđa, u okviru sredstava koja se za tu namjenu osiguravaju u državnom proračunu.
+(4) Pobliže kriterije za vrednovanje projekta i sadržaj dokumentacije, koja se uz projekt prilaže, propisat će pravilnikom ministar nadležan za poslove pravosuđa.
