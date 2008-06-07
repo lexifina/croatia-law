@@ -1,0 +1,1 @@
+Naredba o ukidanju Naredbe o određivanju športske opreme i rekvizita koji se mogu stavljati u promet samo ako imaju garancijski list, tehničke upute i odredbu o najkraćem garancijskom roku i roku osiguranog servisiranja za proizvode
