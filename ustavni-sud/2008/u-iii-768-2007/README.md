@@ -1,0 +1,9 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-768/2007 od 11. lipnja 2008.
+
+- Case: `U-III-768/2007`
+- Decision: Odluka o usvajanju ustavne tužbe
+- Decision date: `2008-06-11`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C125746A003E690F>
+- Official database page SHA-256: `c923d62bf77e84ab0d2a20371e1818ca3e1da4b3de7a188331b9be18941dbd84`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
