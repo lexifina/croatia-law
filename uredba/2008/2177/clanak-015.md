@@ -1,0 +1,3 @@
+# Članak 15.
+Na sudjelovanje javnosti u postupku izrade nacrta prijedloga zakona i provedbenog propisa odnosno drugog općeprimjenjivog pravno obvezujućeg pravila uključujući i postupke izrade nacrta prijedloga njihovih izmjena i dopuna, a koji bi mogli imati značajan utjecaj na okoliš ili pojedine sastavnice okoliša te opterećenja, odgovarajuće se primjenjuju odredbe članka 14. ove Uredbe.
+IV. NAČIN PROVOĐENJA JAVNE RASPRAVE, JAVNOG UVIDA I JAVNOG IZLAGANJA U POSTUPKU STRATEŠKE PROCJENE UTJECAJA PLANA I PROGRAMA NA OKOLIŠ, PROCJENE UTJECAJA ZAHVATA NA OKOLIŠ I U POSTUPKU UTVRĐIVANJA OBJEDINJENIH UVJETA ZAŠTITE OKOLIŠA
