@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u Osnovnoj mreži zdravstvene djelatnosti (»Narodne novine« broj 94/05.,136/06., 80/07. i 117/07.) u članku 5. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»Iznimno od stavka 1. i 2. ovog članka Zavod izdaje negativno mišljenje o opravdanosti osnivanja, proširenja ili promjene djelatnosti zdravstvenim ustanovama, odnosno osnivanja privatnim praksama i ljekarnama koje u tekućem ugovornom razdoblju, odnosno u ugovornim razdobljima koja su prethodila podnošenju zahtjeva za davanje mišljenja nisu izvršavale ugovorne obveze osnovnom ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja sklopljenih sa Zavodom«.
+Dosadašnji stavak 3. postaje stavak 4.
