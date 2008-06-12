@@ -1,0 +1,7 @@
+# Članak 13.
+(1) Prva sjednica povjerenstva mora se održati u roku od 30 dana od dana imenovanja povjerenstva.
+(2) Na prvoj sjednici povjerenstvo ocjenjuje cjelovitost studije u svezi propisanog obveznog sadržaja, odnosno sadržaja utvrđenog uputom u posebnom postupku. Ocjena stručne utemeljenosti studije može se dati nakon što se utvrdi da je studija cjelovita.
+(3) Kada povjerenstvo na prvoj sjednici utvrdi da studija ima nedostatke, koji u bitnom, nisu odlučujući za utvrđivanje cjelovitosti i/ili stručne utemeljenosti studije, predložit će nadležnom tijelu da od nositelja zahvata zaključkom zatraži dopunu studije u primjerenom roku, kojom prilikom će obrazložiti i u kojem dijelu studiju treba dopuniti.
+(4) U slučaju iz stavka 3. ovoga članka povjerenstvo može predložiti nadležnom tijelu da se nakon dopune, bez ponovnog razmatranja na povjerenstvu, studija uputi na javnu raspravu.
+(5) Ukoliko nositelj zahvata ne dopuni studiju prema zaključku nadležnog tijela iz stavka 3. ovoga članka nadležno tijelo će odlučiti o zahtjevu u skladu sa zakonom.
+(6) Kada povjerenstvo na prvoj sjednici ocijeni da studiju treba dopuniti podacima koji su takve prirode da, u bitnom, utječu na cjelovitost studije a zahtijevaju duže vremensko razdoblje dopune te da studiju nije moguće dopuniti u roku od tri mjeseca od dana dostave zaključka nadležnog tijela (primjerice: zbog potrebnih istraživanja i/ili prikupljanja podataka o postojećem stanju okoliša) predložit će nadležnom tijelu da zahtjev nositelja zahvata odbije kao neutemeljen.

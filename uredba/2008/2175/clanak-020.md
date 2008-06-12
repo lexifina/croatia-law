@@ -1,0 +1,5 @@
+## Način postupanja u pitanjima zaštite prirode
+# Članak 20.
+(1) Kada postupak procjene uključuje i ocjenu o prihvatljivosti zahvata za prirodu te se tijekom postupka utvrdi potreba utvrđivanja prevladavajućeg javnog interesa i utvrđivanja kompenzacijskih uvjeta za ekološku mrežu, nadležno tijelo će donijeti zaključak o prekidu postupka procjene utjecaja zahvata na okoliš dok se to pitanje ne riješi prema zakonu kojim se uređuje zaštita prirode kod tijela nadležnog za poslove zaštite prirode.
+(2) Kada postupak procjene uključuje i ocjenu prihvatljivosti zahvata za prirodu sukladno posebnom propisu o zaštiti prirode, nadležno tijelo je prije donošenja rješenja iz članka 22. ove Uredbe, obvezno mišljenje povjerenstva iz članka 17. ove Uredbe dostaviti na očitovanje tijelu nadležnom za poslove zaštite prirode.
+(3) Tijelo nadležno za poslove zaštite prirode dužno je očitovati se na dostavljeno mišljenje povjerenstva u roku od 30 dana od dana dostave mišljenja. Ukoliko očitovanje ne bude dostavljeno u propisanom roku, smatrat će se da prema posebnim propisima iz područja zaštite prirode nema dodatnih zahtjeva s obzirom na zahvat.

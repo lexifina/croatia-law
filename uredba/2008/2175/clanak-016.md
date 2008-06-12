@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Kada nakon razmotrenih mišljenja, primjedbi i prijedloga sa javne rasprave povjerenstvo utvrdi da je studiju potrebno doraditi i/ili pribaviti mišljenja tijela i/ili osobe određene posebnim propisima i/ili pribaviti mišljenje JLP(R)S, o tome će se očitovati nadležnom tijelu.
+(2) Ukoliko je utvrđena potreba iz stavka 1. ovoga članka, nadležno tijelo provodi daljnji postupak (primjerice: traži mišljenje tijela i/ili osobe određene posebnim propisima i/ili JLP(R)S, odnosno zahtijeva dopunu ili doradu studije od nositelja zahvata). U ovom postupku nadležno tijelo određuje i primjereni rok za izvršenje traženog, ali ne duže od 30 dana.
+(3) Ukoliko nadležno tijelo provodi postupak prema stavku 2. ovoga članka, nakon toga postupka obvezno se saziva sjednica povjerenstva radi donošenja mišljenja o prihvatljivosti zahvata.

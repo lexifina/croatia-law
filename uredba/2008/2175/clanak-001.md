@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom pobliže se određuju zahvati za koje se provodi procjena utjecaja zahvata na okoliš; zahvati koji podliježu ocjeni o potrebi procjene utjecaja zahvata na okoliš; način provedbe postupka procjene utjecaja zahvata na okoliš; način rada i obvezni sadržaj mišljenja koje daje povjerenstvo; način sudjelovanja ovlaštenika; način provedbe postupka ocjene o potrebi procjene utjecaja zahvata na okoliš; način provedbe postupka izdavanja upute o sadržaju studije na zahtjev nositelja zahvata; način informiranja i sudjelovanja javnosti i zainteresirane javnosti u postupcima koji se uređuju ovom Uredbom; kriteriji i način pojedinačnih ispitivanja na temelju kojih se odlučuje o potrebi procjene utjecaja zahvata na okoliš.
+(2) Ovom Uredbom određuju se zahvati koji su u nadležnosti Ministarstva te nadležnog upravnog tijela u županiji odnosno u Gradu Zagrebu.

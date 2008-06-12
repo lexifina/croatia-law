@@ -1,0 +1,6 @@
+# Članak 25.
+(1) Kada se provodi objedinjeni postupak procjene utjecaja zahvata na okoliš i utvrđivanja objedinjenih uvjeta zaštite okoliša, u povjerenstvo se obvezno imenuju i odgovarajući stručnjaci ovisno o tehnološkim i tehničkim obilježjima postrojenja, a prema podacima iz zahtjeva za utvrđivanje objedinjenih uvjeta zaštite okoliša.
+(2) U slučaju iz stavka 1. ovoga članka odgovarajući stručnjaci mogu se u povjerenstvo imenovati i nakon donošenja zaključka iz članka 24. ove Uredbe.
+(3) U radu povjerenstva u postupku iz stavka 1. ovoga članka, nositelj zahvata mora osigurati sudjelovanje i ovlaštenika koji izrađuje tehničko-tehnološko rješenje za postrojenje i projektanta koji ispunjava uvjete sukladno zakonu kojim se uređuje prostorno uređenje i gradnja. Na ovog ovlaštenika i projektanta odgovarajuće se primjenjuju odredbe članka 19. ove Uredbe.
+(4) Na postupak u slučaju iz stavka 1. ovog članka, odgovarajuće se primjenjuju odredbe članaka 9., 10., 11., 12., 13., 14., 15., 16., 17., 18., 19. 20., 21. i 22. ove Uredbe.
+(5) U postupku iz stavka 1. ovoga članka, mišljenje povjerenstva iz članka 17. ove Uredbe sadrži i ocjenu mogućeg utjecaja na okoliš tehnologije i tehnike predložene za postrojenje te prijedlog objedinjenih mjera zaštite okoliša u vezi s postrojenjem.
