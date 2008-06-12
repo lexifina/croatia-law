@@ -1,0 +1,3 @@
+# Članak 76.
+Odsjek za izvršenje proračuna, financijsku analizu i kontrolu obavlja poslove nadzora nad primjenom zakona i drugih propisa koje se odnose na financijsko poslovanje; prati namjensko korištenje financijskih sredstava odobrenih za rad ministarstva; izrađuje sve potrebne analize i izvješća u vezi s financijskim poslovanjem Ministarstva; izrađuje mjesečne planove i rezervira potrebna sredstva u državnom proračunu u skladu s mjesečnom dinamikom trošenja; surađuje s državnom riznicom u Ministarstvu financija; izrađuje potrebna izvješća u vezi s praćenjem trošenja proračunskih sredstava; priprema izliste iz sustava riznice, te obavlja ostale poslove iz svog djelokruga.
+2. Odjel za računovodstvo i knjigovodstvo

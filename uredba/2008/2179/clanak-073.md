@@ -1,0 +1,9 @@
+## 10. UPRAVA ZA FINANCIJSKO-MATERIJALNE POSLOVE
+# Članak 73.
+Uprava za financijsko-materijalne poslove koordinira, povezuje i usmjerava obavljanje poslova planiranja, organizacije, financijskih i računovodstvenih poslova, poslove planiranja i izvršavanja proračuna, brine o pravilnom i racionalnom korištenju materijalno-financijskih sredstava i imovine; poslova nabave, sudjeluje u donošenju prijedloga proračuna i rebalansa proračuna; prati izvršenje Proračuna u službi vanjskih poslova; brine o pravilnom i racionalnom korištenju materijalno-financijskih sredstava i imovine; obavlja poslove podrške službe vanjskih poslova; obavlja računovodstvene, financijske, te poslove vezane uz devizno poslovanje; priprema planove i obavlja postupak nabave za potrebe službe vanjskih poslova sukladno zakonu; obavlja poslove upravljanja imovinom; obavlja stručne poslove oko kupnje i najma novih objekata za potrebe DM/KU, te investicijskog i tekućeg održavanja postojećih; obavlja stručne poslove opremanja novih i postojećih objekata; obavlja stručne poslove rekonstrukcije i adaptacije postojećih objekata u vlasništvu Republike Hrvatske; surađuje i koordinira aktivnosti s Vladom Republike Hrvatske i tijelima državne uprave u poslovima iz djelokruga rada; obavlja stručne poslove oko opremanja i uređenja DM/KU, rezidencija i stanova u vlasništvu Republike Hrvatske; priprema prijedloge ugovora iz svog djelokruga; priprema podloge za donošenje odluka ravnatelja uprave, nadležnog državnog tajnika i ministra, te obavlja ostale poslove iz svog djelokruga.
+Za obavljanje poslova iz svog djelokruga, u Upravi za financijsko-materijalne poslove ustrojavaju se sljedeći odjeli:
+1. Odjel za financijsko planiranje, pripremu, kontrolu i izvršenje proračuna;
+2. Odjel za računovodstvo i knjigovodstvo;
+3. Odjel za nabavu;
+4. Odjel za upravljanje imovinom i podršku službe vanjskih poslova.
+1. Odjel za financijsko planiranje, pripremu, kontrolu i izvršenje proračuna

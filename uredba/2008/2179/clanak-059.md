@@ -1,0 +1,3 @@
+# Članak 59.
+Odsjek za posebne projekte i promotivne aktivnosti planira, organizira i provodi posebne projekte unutar Odjela za komunikacijsku strategiju, kao što su Europski tjedan, EUQUIZ, Login@Europe, Europa 2020, Europa u Hrvatskoj i besplatni info telefon 'Halo EU!', te surađuje sa Županijskim savjetima za europske integracije; održava predavanja za ciljne skupine; organizira i koordinira informativne kampanje, suradnju s medijima, dizajn i izradu promidžbenih materijala; organizira posebna događanja, istraživanja javnog mnijenja, predstavljanje svih aktivnosti i projekata u javnosti zemalja EU o pristupanju RH EU, te obavlja i druge poslove iz svoje nadležnosti.
+1.2. Odsjek za komunikacijsku potporu procesu pristupnih pregovora

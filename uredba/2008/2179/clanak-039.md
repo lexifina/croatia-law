@@ -1,0 +1,3 @@
+# Članak 39.
+Odjel za humanitarno razminiranje prati, sudjeluje i priprema godišnja izvješća prema međunarodnim organizacijama i konvencijama koje se odnose na zabranu ili ograničenja određenih vrsta mina, streljiva i oružja; sudjeluje u izradi nacionalnih programa aktivnosti i vodi diplomatsku komunikaciju o humanitarnom razminiranju; potiče aktivnosti iz djelokruga verifikacije primjene konvencija, osobito u pogledu pomoći žrtvama i njihovoj rehabilitaciji; sudjeluje u praćenju bilateralnih aranžmana pomoći RH u razminiranju i surađuje s International Trust Fund, te obavlja i druge poslove iz svog djelokruga.
+6. Odjel za međunarodnu razvojnu suradnju

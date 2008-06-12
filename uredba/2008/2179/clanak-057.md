@@ -1,0 +1,9 @@
+## 8. UPRAVA ZA POTPORU PROCESU PRISTUPANJA
+## RH EU
+# Članak 57.
+Uprava za potporu procesu pristupanja RH EU prati i koordinira proces pristupnih pregovora RH s EU; prati ispunjavanje kriterija za članstvo u EU; pruža stručnu, tehničku i administrativnu potporu Državnom izaslanstvu, dužnosnicima MVPEI, Pregovaračkoj skupini i radnim skupinama po pojedinim poglavljima pregovora te pregovaračkom procesu u cjelini; izrađuje izvješća o tijeku pregovora po svim poglavljima pregovora; prati i koordinira ispunjavanje obaveza koje proizlaze iz pristupnih pregovora; održava i obnavlja bazu podataka za potporu procesu pregovora s EU; provodi komunikacijsku strategiju za informiranje javnosti o raznim aspektima europskih integracija te pristupanja RH EU; provodi posebne projekte i promotivne aktivnosti vezane uz proces pristupanja RH EU i predstavljanje europskih institucija i procesa hrvatskoj javnosti; priprema prijedloge predstavljanja javnosti procesa pristupnih pregovora pitanja u pojedinim poglavljima pregovorima; priprema informativne materijale i publikacije o procesu pristupanja RH EU i Europskoj uniji; koordinira i provodi opće i specijalizirane obrazovne aktivnosti vezane uz europske integracije i proces pristupanja RH EU; provodi natječaje za jednogodišnje poslijediplomske europske studije u inozemstvu; utvrđuje potrebe za usavršavanjem u području europskih integracija; organizira seminare u okviru ciklusa »Abeceda EU"za državne službenike i druge obrazovne aktivnosti; surađuje s drugim tijelima državne uprave u RH, DM/KU, tijelima EU, diplomatskim predstavništvima u RH i drugim tijelima u pogledu praćenja procesa pristupanja RH EU i drugim temama vezanim uz EU, te obavlja i druge poslove iz svoje nadležnosti.
+U Upravi za potporu procesu pristupanja RH EU ustrojavaju se:
+1. Odjel za komunikacijsku strategiju;
+2. Odjel za obrazovanje;
+3. Tajništvo Pregovaračke skupine.
+1. Odjel za komunikacijsku strategiju

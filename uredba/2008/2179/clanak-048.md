@@ -1,0 +1,6 @@
+# Članak 48.
+Odjel za državljanstvo i putne isprave obavlja poslove koji se odnose na posredovanje i koordinaciju između DM/KU i nadležnih državnih tijela u pogledu zahtjeva za stjecanje i prestanak hrvatskog državljanstva; reguliranje vojne obveze hrvatskih državljana u inozemstvu i vođenje propisanih evidencija; izdavanje sprovodnica; sudjelovanje u pripremanju konzularnih službenika za odlazak na rad u DM/KU u dijelu poslova koji se odnose na stjecanje/prestanak hrvatskog državljanstva; izdavanje putnih isprava hrvatskim državljanima te izdavanja sprovodnica; obavljanje upravnih poslova u vezi s izdavanjem putnih isprava u DM/KU, obradu zahtjeva za izdavanje putovnica po zahtjevima zaprimljenim u DM/KU u sklopu centralizirane izrade putovnica; vođenje evidencija na informacijskom sustavu Ministarstva o izdanim putnim ispravama hrvatskih državljana; izdavanje službenih i diplomatskih putovnica i vođenje o tome odgovarajućih evidencija; sudjelovanje u izradi zakonskih i podzakonskih propisa iz svog djelokruga rada; pripremanje izvješća, naputaka i stručnih mišljenja koje se odnose na poslove iz djelokruga rada Odjela, te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje opisanih poslova iz djelokruga rada Odjela ustrojavaju se sljedeći odsjeci:
+1.1. Odsjek za državljanstvo;
+1.2. Odsjek za putne isprave.
+1.1. Odsjek za državljanstvo

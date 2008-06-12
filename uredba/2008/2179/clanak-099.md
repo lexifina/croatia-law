@@ -1,0 +1,8 @@
+## 12. SAMOSTALNA SLUŽBA ZA HRVATE U INOZEMSTVU I KULTURU
+# Članak 99.
+Samostalna služba za Hrvate u inozemstvu i kulturu brine o uvažavanju statusa hrvatskih autohtonih manjina i ostvarivanju njihovih manjinskih prava; prati provedbu i poštivanje prihvaćenih standarda zaštite manjina u državama u kojima žive; podupire etničku, vjersku, kulturnu i jezičnu samosvijest, te pravo na osobitost vlastitog kulturnog života i nacionalnih tradicija; prati promjene u migracijskoj politici i zakonodavstvu država primateljica; održava stalnu suradnju s predstavnicima hrvatskih manjinskih organizacija; sudjeluje u iniciranju, izradi i primjeni dvostranih ugovora o zaštiti prava hrvatskih nacionalnih manjina; bavi se problematikom Hrvata u inozemstvu te prati njihov pravni i politički položaj; održava stalnu suradnju s predstavnicima Hrvata u inozemstvu; skrbi o očuvanju nacionalnog identiteta svih generacija Hrvata u inozemstvu, te potiče njihov povratak u RH; vodi brigu o doseljenim Hrvatima i njihovoj prilagodbi životu u RH; izrađuje i predlaže provedbene mjere u cilju ostvarivanja smjernica zacrtanih Strategijom povratka Hrvata u inozemstvu u RH; priprema i provodi natječaje usmjerene pružanju potpore Hrvatima u inozemstvu i doseljenim Hrvatima; radi na kontinuiranom, sustavnom i sadržajnom promicanju svih aspekata hrvatske kulture u svijetu, te obavlja i druge poslove iz svog djelokruga.
+U Samostalnoj službi za Hrvate u inozemstvu i kulturu ustrojavaju se:
+1. Odjel za hrvatske manjine u inozemstvu;
+2. Odjel za Hrvate u inozemstvu;
+3. Odjel za kulturu.
+1. Odjel za hrvatske manjine u inozemstvu

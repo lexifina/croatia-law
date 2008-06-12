@@ -1,0 +1,2 @@
+# Članak 133.
+Ustroj DM/KU, broj i struktura diplomatskog, konzularnog i administrativno-tehničkog osoblja, te ostala prava i obveze državnih službenika i namještenika u službi vanjskih poslova, utvrdit će se Pravilnikom o unutarnjem redu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu i Uredbom o plaćama, dodacima i naknadama u službi vanjskih poslova.

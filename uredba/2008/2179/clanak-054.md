@@ -1,0 +1,3 @@
+# Članak 54.
+Odsjek za matičarstvo i legalizaciju isprava obavlja poslove legalizacije javnih isprava; posreduje u međunarodnopravnom prometu državnim maticama rođenih, vjenčanih i umrlih; posreduje između hrvatskih DM/KU, hrvatskih državnih pravosudnih i upravnih tijela, hrvatskih državljana i hrvatskih pravnih osoba pri obavljanju određenih javnobilježničkih poslova koje hrvatske DM/KU obavljaju prema odredbama Bečke konvencije o konzularnim odnosima; izrađuje naputke i stručna mišljenja o postupcima i načinu rada u poslovima iz svog djelokruga, te obavlja i druge poslove iz djelokruga rada Odsjeka.
+4.2. Odsjek za imovinskopravne poslove

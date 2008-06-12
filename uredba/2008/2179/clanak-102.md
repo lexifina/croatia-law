@@ -1,0 +1,3 @@
+# Članak 102.
+Odsjek za Hrvate u inozemstvu radi na očuvanju nacionalnog identiteta svih generacija hrvatskih iseljenika, te potiče njihov povratak u RH; nastoji ojačati položaj hrvatskih iseljenika kao mosta suradnje između država u kojima žive i RH; informira iseljeništvo o političkim, gospodarskim i kulturnim događanjima u RH, te pruža potrebne informacije za poticanje njihovog ulaganja u hrvatsko gospodarstvo; radi na stvaranju čvršćih veza i međusobnog uvažavanja između domovinske i iseljene Hrvatske; radi na ostvarivanju prava hrvatskih iseljenika; pomaže u realizaciji kulturnih, obrazovnih i gospodarskih projekata udruga iseljenih Hrvata, te obavlja ostale poslove iz svog djelokruga.
+2. Odsjek za doseljene Hrvate

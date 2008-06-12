@@ -1,0 +1,3 @@
+# Članak 31.
+Odsjek za Vijeće sigurnosti prati i koordinira aktivnosti RH kao nestalne članice Vijeća sigurnosti, te aktivnosti Vijeća sigurnosti općenito; izrađuje sveobuhvatne dokumente o temama na dnevnom redu VS; priprema nacrte istupa i stajališta RH; u suradnji s donositeljima odluka u segmentu vanjske politike RH, poduzima potrebne aktivnosti za njihovo završno uobličavanje, te daje odgovarajuće naputke Stalnoj misiji RH pri UN u New Yorku o djelovanju RH u Vijeću sigurnosti; prati politička pitanja i aktivnosti, te priprema sudjelovanje i izlaganja RH u radu Opće skupštine UN-a i njenih odbora, kao i međunarodnih organizacija iz sustava UN, te obavlja i druge poslove iz svog djelokruga.
+2.2. Odsjek za gospodarska i socijalna pitanja

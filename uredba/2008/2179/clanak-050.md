@@ -1,0 +1,3 @@
+# Članak 50.
+Odsjek za putne isprave obavlja poslove koji se odnose na posredovanje i koordinaciju između DM/KU i nadležnih državnih tijela u pogledu zahtjeva za izdavanje putnih isprava i vođenje propisanih evidencija; obavljanje upravnih poslova u vezi s izdavanjem putnih isprava u DM/KU; obradu zahtjeva za izdavanje putovnica po zahtjevima zaprimljenim u DM/KU u sklopu centralizirane izrade putovnica; vođenje evidencija na informacijskom sustavu Ministarstva o izdanim putnim ispravama hrvatskih državljana; izdavanje službenih i diplomatskih putovnica i vođenje o tome odgovarajućih evidencija; pripremanje izvješća, naputaka i stručnih mišljenja koje se odnose na poslove iz djelokruga rada Odsjeka, te obavlja i druge poslove iz svog djelokruga.
+2. Odjel za vize

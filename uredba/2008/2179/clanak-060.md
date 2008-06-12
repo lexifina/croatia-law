@@ -1,0 +1,3 @@
+# Članak 60.
+Odsjek za komunikacijsku potporu procesu pristupnih pregovora priprema prijedloge predstavljanja javnosti procesa pristupnih pregovora i ključnih pitanja koja se pojavljuju u pojedinim poglavljima pregovora, u suradnji s glavnim pregovaračem i tajnikom Pregovaračke skupine; prati i analizira medijske objave o procesu pristupnih pregovora, te pojedinih poglavlja pregovora; ažurira internetske stranice o pregovorima s EU; organizira i provodi aktivnosti vezane uz organizaciju susreta Nacionalnog foruma za pristupanje Europskoj uniji; surađuje s Tajništvom Pregovaračke skupine i Odsjekom za publicistiku u izradi materijala za informiranje šire javnosti o procesu pregovora, te obavlja i druge poslove iz svoje nadležnosti.
+1.3. Odsjek za publicistiku

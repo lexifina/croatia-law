@@ -1,0 +1,7 @@
+# Članak 101.
+Odjel za Hrvate u inozemstvu radi na stvaranju čvršćih veza i međusobnog uvažavanja između RH i Hrvata u inozemstvu; skrbi o očuvanju nacionalnog identiteta svih generacija Hrvata u inozemstvu, te potiče njihov povratak u RH; informira Hrvate u inozemstvu o političkim, gospodarskim i kulturnim događanjima u RH, te pruža potrebne informacije za poticanje njihovog ulaganja u hrvatsko gospodarstvo; pomaže i sudjeluje u realizaciji kulturnih, obrazovnih i gospodarskih projekata udruga Hrvata u inozemstvu; vodi brigu o doseljenim Hrvatima i njihovoj prilagodbi životu u RH; pruža administrativnu, upravnu i tehničku pomoć doseljenim Hrvatima pri ostvarivanju prava iz zdravstvenog te mirovinskog i invalidskog osiguranja, ishodovanju hrvatskih dokumenata, ostvarivanju carinskih olakšica, te pruža informacije iz područja rada, ulaganja i poduzetništva; provodi natječaj za dodjelu stipendija učenicima i studentima; provodi natječaj za učenje hrvatskog jezika; organizira smještaj u studentske domove; provodi natječaj VRH za prikupljanje ponuda za financiranje programa i projekata Hrvata u Bosni i Hercegovini; provodi natječaj za prijavu programa udruga koje njeguju suradnju i prijateljstvo među zemljama - društva prijateljstva, te obavlja i druge poslove iz svog djelokruga.
+Za obavljanje opisanih poslova iz djelokruga rada Odjela ustrojavaju se sljedeći odsjeci:
+1. Odsjek za Hrvate u inozemstvu;
+2. Odsjek za doseljene Hrvate;
+3. Odsjek za pripremu i provedbu natječaja.
+1. Odsjek za Hrvate u inozemstvu

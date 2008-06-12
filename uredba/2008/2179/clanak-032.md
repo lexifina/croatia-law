@@ -1,0 +1,3 @@
+# Članak 32.
+Odsjek za gospodarska i socijalna pitanja prati i koordinira aktivnosti RH u radu ECOSOC-a i njegovih funkcionalnih komisija, međunarodnih organizacija u sustavu UN, te priprema stajališta i istupe RH; koordinira nastupe predstavnika drugih tijela državne uprave na međunarodnim konferencijama i drugim međunarodnim skupovima iz svog djelokruga rada; vodi lobističke aktivnosti vezane za kandidature RH za članstvo u UN i međunarodnim organizacijama te nadzire izvršenje financijskih obveza RH prema UN-u i međunarodnim organizacijama; prati i koordinira djelovanje RH u Međunarodnoj organizaciji frankofonije, te obavlja i druge poslove iz svog djelokruga.
+3. Odjel za međunarodne organizacije i ljudska prava

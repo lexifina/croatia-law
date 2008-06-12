@@ -1,0 +1,3 @@
+# Članak 97.
+Odsjek transporta organizira prijevoz dužnosnika i ostalih djelatnika Ministarstva za službene potrebe, organizira dežurstva vozača; organizira i provodi preseljenja dužnosnika i djelatnika Ministarstva pri odlasku ili povratku s rada iz DM/KU; organizira angažiranje vanjskih suradnika, špeditera i prijevoznika za ostale potrebe prijevoza i cargo otpreme (cargo prijevoz u pomorskom, kopnenom i zračnom prijevozu); obavlja različite vrste prijevoza u i iz DM/KU; organizira održavanje vozila voznog parka Ministarstva i pojedinih DM/KU; vodi evidenciju o načinu korištenja usluga voznog parka, te obavlja ostale poslove iz svog djelokruga.
+4. Odsjek za pisarnicu i pismohranu

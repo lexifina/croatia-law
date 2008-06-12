@@ -1,0 +1,2 @@
+# Članak 122.
+Odjel za informacijsko-komunikacijski sustav (IKOS) prima političku dokumentaciju za distribuciju kroz informacijsko-komunikacijski sustav (IKOS) i pregledava je, te po potrebi usklađuje njezine tehničke i druge parametre sukladno utvrđenim standardima; sudjeluje u standardizaciji oblika i vrsta političke dokumentacije koja se stvara u sustavu službe vanjskih poslova; izrađuje dnevne preglede na osnovi objavljenih dokumenata na IKOS-u o najznačajnijim političkim pitanjima; vodi statistiku objavljenih dokumenata, te obavlja i druge poslove iz svog djelokruga.

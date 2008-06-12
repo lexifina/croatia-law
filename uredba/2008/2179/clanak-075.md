@@ -1,0 +1,3 @@
+# Članak 75.
+Odsjek za financijsko planiranje i pripremu izrađuje prijedloge godišnjih i višegodišnjih proračuna sredstava za rad Ministarstva prema izvorima i namjenama; usklađuje prijedloge s odobrenim sredstvima u državnom proračunu; koordinira u izradi pojedinačnih planova svih korisnika i objedinjava ih u konsolidirane planove; daje nalog Odsjeku za izvršenje proračuna, financijsku analizu i kontrolu za unos plana u sustav državne riznice; izrađuje kriterije i podzakonske akte vezane uz potrebe donošenja plana; surađuje s drugim tijelima državne vlasti, te obavlja ostale poslove iz svog djelokruga.
+1.2. Odsjek za izvršenje proračuna, financijsku analizu i kontrolu

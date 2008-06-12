@@ -1,0 +1,3 @@
+# Članak 95.
+Odsjek za sukcesiju i umjetnine obavlja stručne poslove podrške Zajedničkom odboru za sukcesiju imovine bivše SFRJ, surađuje sa Stalnim odborom za sukcesiju Vlade RH i priprema stručne podloge za sukcesiju diplomatsko-konzularne imovine bivše SFRJ; izrađuje analize i prijedloge planova za sukcesiju diplomatsko-konzularne imovine sukladno interesima RH; vodi zbirku umjetnina u vlasništvu Ministarstva, umjetnina posuđenih od galerija, muzeja i umjetnika; koordinira i obavlja poslove praćenja, analize stanja i osiguranja tehničkih pretpostavki za rad službe vanjskih poslova, te obavlja ostale poslove iz svog djelokruga.
+2. Odsjek za održavanje
