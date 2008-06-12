@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Nakon provedene javne rasprave prema odluci iz članka 15. stavka 1. ove Uredbe, nadležno tijelo sva mišljenja, primjedbe i prijedloge iz javne rasprave, i mišljenja iz članka 15. stavka 2. ove Uredbe dostavlja na očitovanje ovlašteniku i izrađivaču. Svojim očitovanjem ovlaštenik će predložiti i konačne mjere zaštite okoliša i program praćenja stanja okoliša vezano za program, odnosno plan.
+(2) Nadležno tijelo priprema nacrt konačnog prijedloga plana i programa te ga dostavlja tijelu nadležnom za donošenje. Središnje tijelo i nadležno upravno tijelo županije te Grada Zagreba, prethodno pribavljaju mišljenje ministarstva nadležnog za poslove zaštite okoliša o provedenoj strateškoj procjeni toga plana i programa.

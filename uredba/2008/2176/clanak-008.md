@@ -1,0 +1,7 @@
+## Mišljenja tijela i/ili osoba određenih posebnim propisima
+# Članak 8.
+(1) Mišljenja iz članka 7. stavka 1. ove Uredbe obvezno sadrže zahtjeve prema posebnim propisima iz djelokruga tijela i/ili osoba određenih tim propisima u odnosu na zahtjeve plana, odnosno programa, te u odnosu na obvezni sadržaj strateške studije sukladno ovoj Uredbi.
+(2) Tijela i/ili osobe određene posebnim propisima, tijela jedinica lokalne samouprave i tijela JP(R)S, te druga tijela, dužni su dostaviti mišljenje iz članka 7. stavaka 1. i 2. ove Uredbe u roku od 30 dana od primitka zahtjeva nadležnog tijela.
+(3) Nadležno tijelo dužno je u svrhu usuglašavanja mišljenja o sadržaju strateške studije i utvrđivanja konačnog sadržaja strateške studije, u tijeku roka iz stavka 2. ovoga članka, koordinirati i provesti raspravu, a po potrebi i više rasprava s predstavnicima tijela i osoba iz članka 7. stavka 1. ove Uredbe. O ovoj raspravi nadležno tijelo vodi zapisnik.
+(4) Na raspravi iz stavka 3. ovoga članka, prema ocijenjenoj potrebi nadležnog tijela, sudjeluju i predstavnici tijela jedinica lokalne samouprave i tijela JP(R)S te predstavnici drugih tijela od kojih je mišljenje zatraženo i izrađivač.
+(5) Kad se provodi postupak utvrđivanja sadržaja strateške studije koja se odnosi na prostorni plan županije, odnosno Prostorni plan Grada Zagreba, rasprava iz stavka 3. ovoga članka održat će se u okviru postupka prethodne rasprave iz zakona kojim se uređuje prostorno uređenje.

@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom uređuje se način provedbe strateške procjene plana i programa koji ima značajan utjecaj na okoliš, a za koji je Zakonom određena obveza strateške procjene, uključujući i postupak izrade strateške studije, obvezni sadržaj mišljenja i drugih akata u tom postupku, rokovi u tom postupku; obvezni sadržaj izvješća o načinu na koji su u plan ili program integrirani uvjeti zaštite okoliša utvrđeni strateškom procjenom, način praćenja stanja okoliša glede značajnih utjecaja plana i programa prilikom njihove provedbe, te način provjere provedbe mjera zaštite okoliša koje su postale sadržajem plana ili programa.
+(2) Ovom Uredbom uređuje se i način provedbe postupka ocjene o potrebi strateške procjene izmjena i/ili dopuna plana, odnosno programa iz stavka 1. ovoga članka, te način pojedinačnih ispitivanja i kriteriji za utvrđivanje vjerojatno značajnog utjecaja na okoliš izmjena i/ili dopuna plana ili programa.
