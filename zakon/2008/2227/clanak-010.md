@@ -1,0 +1,7 @@
+# Članak 10.
+U članku 142. iza stavka 5. dodaju se stavci 6. do 10. koji glase:
+»(6) Nakon pravomoćnosti rješenja o obustavi postupka iz stavka 5. ovoga članka, ovršenik je ovlašten preuzeti pokretnine koje su mu oduzete i smještene kod druge osobe radi čuvanja o svom trošku.
+(7) Ako osoba kojoj su pokretnine predane na čuvanje odbije predati pokretnine ovršeniku, ovršenik je ovlašten zatražiti od suda da toj osobi rješenjem naloži predaju pokretnina.
+(8) Ako ocijeni da ovršenik ima pravo na povrat pokretnina, sud će, nakon što omogući osobi kojoj su pokretnine povjerene na čuvanje da se u roku od osam dana izjasni o zahtjevu ovršenika, rješenjem naložiti toj osobi da ih preda ovršeniku. To rješenje ima značenje rješenja o ovrsi i na temelju njega se može pristupiti oduzimanju pokretnina i njihovoj predaji ovršeniku i prije njegove pravomoćnosti po pravilima o ovrsi radi predaje pokretnina (članci 219. do 224.).
+(9) Javni komisionar kojemu su pokretnine povjerene na čuvanje i prodaju (članak 143.a stavak 1.) ovlašten je uskratiti njihovu predaju ovršeniku dok mu ne budu naknađeni troškovi i nagrada prema odredbi članka 143.d stavka 4. ovoga Zakona.
+(10) U povodu zahtjeva ovršenika za povrat pokretnina, javni komisionar je ovlašten predložiti sudu da zadrži pokretnine koje su mu povjerene na čuvanje kao naknadu troškova i nagrade na koju ima pravo prema odredbama članka 143.d stavka 4. ovoga Zakona. Pravomoćnošću rješenja o prepuštanju pokretnina javnom komisionaru, javni komisionar postaje njihovim vlasnikom.«

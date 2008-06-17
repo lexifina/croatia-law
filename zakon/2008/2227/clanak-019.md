@@ -1,0 +1,9 @@
+# Članak 19.
+U članku 252.d iza stavka 3. dodaju se stavci 4. do 10. koji glase:
+»(4) Javni bilježnik će donijeti odluku iz stavka 1. ovoga članka ili će spis proslijediti sudu sukladno odredbi stavka 2. ovoga članka najkasnije u roku od 30 dana, računajući od dana zaprimanja prijedloga.
+(5) U slučaju iz stavka 3. ovoga članka sud će svoju odluku donijeti u roku od 60 dana, računajući od dana kada je zaprimio spis.
+(6) Nakon dvije uzastopne neuspjele dostave rješenja o ovrsi na temelju vjerodostojne isprave ovrhovoditelju, javni bilježnik će rješenje istaknuti na oglasnoj ploči u čekaonici u svojem uredu. Smatrat će se da je dostava obavljena istekom osmoga dana od dana isticanja rješenja na oglasnoj ploči.
+(7) Nakon dostave rješenja o ovrsi na temelju vjerodostojne isprave ovrhovoditelju te dva bezuspješna pokušaja dostave rješenja na adresu ovršenika fizičke osobe koja ne obavlja registriranu djelatnost, javni bilježnik sve daljnje radnje dostave obavlja na pisani zahtjev ovrhovoditelja.
+(8) Javni bilježnik će obavijest o dva neuspjela pokušaja dostave iz stavka 7. ovoga članka uputiti ovrhovoditelju osobnom dostavom putem pošte, na adresu ovrhovoditelja iz prijedloga, uz upozorenje o pravnim posljedicama iz stavka 9. i 10. ovoga članka.
+(9) Ako dostava obavijesti iz stavka 8. ovoga članka ne uspije, bez obzira na razlog, javni bilježnik će obavijest istaknuti na oglasnoj ploči u čekaonici u svojem uredu. Smatrat će se da je dostava obavljena istekom osmoga dana od dana isticanja obavijesti na oglasnoj ploči.
+(10) Ako ovrhovoditelj u roku od 15 dana od dana dostave obavijesti iz stavka 8. ovoga članka nije od javnog bilježnika zahtijevao poduzimanje daljnje radnje dostave rješenja ovršeniku, smatra se da je postupak obustavljen istekom toga roka. Na zahtjev ovrhovoditelja ili ovršenika javni bilježnik će izdati potvrdu da je na temelju ovoga Zakona postupak obustavljen.«

@@ -1,0 +1,10 @@
+# Članak 15.
+Iznad članka 149. naslov »Ograničenje ovrhe« briše se.
+U članku 149. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) Ako se ovrha provodi na plaći ovršenika, od ovrhe je izuzet iznos u visini 2/3 prosječne neto-plaće u Republici Hrvatskoj, a ako se ovrha provodi radi naplate tražbine po osnovi zakonskog uzdržavanja, naknade štete nastale zbog narušenja zdravlja ili smanjenja, odnosno gubitka radne sposobnosti i naknade štete za izgubljeno uzdržavanje zbog smrti davatelja uzdržavanja, iznos u visini od 1/2 prosječne neto-plaće u Republici Hrvatskoj, osim u slučaju ovrhe radi prisilne naplate novčanih iznosa za uzdržavanje djeteta u kojem slučaju je od ovrhe izuzet iznos koji odgovara iznosu od 1/4 prosječne mjesečne isplaćene neto-plaće po zaposlenom u pravnim osobama Republike Hrvatske za proteklu godinu.
+(2) Ako ovršenik prima plaću koja je manja od prosječne neto-
+-plaće u Republici Hrvatskoj, od ovrhe je izuzet iznos u visini 2/3 plaće ovršenika, a ako se ovrha provodi radi naplate tražbine po osnovi zakonskog uzdržavanja, naknade štete nastale zbog narušenja zdravlja ili smanjenja, odnosno gubitka radne sposobnosti i naknade štete za izgubljeno uzdržavanje zbog smrti davatelja uzdržavanja, iznos u visini 1/2 neto-plaće ovršenika.
+(3) Prosječna neto plaća u smislu stavka 1. ovoga članka je prosječan iznos mjesečne neto-plaće isplaćene po jednom zaposlenom u pravnim osobama u Republici Hrvatskoj, za razdoblje siječanj - kolovoz tekuće godine, koju je dužan utvrditi Državni zavod za statistiku i objaviti je u »Narodnim novinama«, najkasnije do 31. prosinca te godine. Tako utvrđeni iznos primjenjivat će se u narednoj godini.«
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»(4) Odredbe stavka 1. i 2. ovoga članka primjenjuju se i na ovrhu na naknadi umjesto plaće, naknadi za skraćeno radno vrijeme, naknadi zbog umanjenja plaće, mirovini, plaći vojnih osoba te na primanja osoba u pričuvnom sastavu za vrijeme vojne službe i na drugom stalnom novčanom primanju civilnih i vojnih osoba, osim na ovrhu na primanjima iz stavka 5. i 6. ovoga članka.«
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
