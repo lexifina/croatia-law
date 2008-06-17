@@ -1,0 +1,30 @@
+# Članak 214.
+(1) Upravni i inspekcijski nadzor nad radom Hrvatskoga Crvenog križa i
+zdravstvenih ustanova koje osposobljavaju kandidate za vozače iz nastavnog
+predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći u procesu
+osposobljavanja kandidata za vozače obavlja ministarstvo nadležno za zdravstvo.
+(2) Ako Hrvatski crveni križ ili zdravstvena ustanova koja osposobljava
+kandidate za vozače iz nastavnog predmeta Pružanje prve pomoći osobama
+ozlijeđenim u prometnoj nesreći ne obavlja poslove u skladu s propisima,
+ministarstvo nadležno za zdravstvo rješenjem će joj privremeno, na mjesec dana,
+zabraniti obavljanje poslova osposobljavanja kandidata za vozača iz nastavnog
+predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći. Ukoliko
+Hrvatski Crveni križ ili zdravstvena ustanova koja osposobljava kandidate za
+vozače iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u
+prometnoj nesreći ne otkloni nedostatke u roku, ministarstvo nadležno za
+zdravstvo rješenjem će joj zabraniti obavljanje poslova osposobljavanja
+kandidata za vozača iz nastavnog predmeta Pružanje prve pomoći osobama
+ozlijeđenim u prometnoj nesreći.
+(3) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može
+pokrenuti upravni spor.
+(4) Hrvatski Crveni križ ili zdravstvena ustanova koja osposobljava kandidate za
+vozače iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u
+prometnoj nesreći kojoj je izrečena mjera iz stavka 2. ovoga članka ne smije
+osposobljavati kandidate za vozače za vrijeme trajanja mjere.
+(5) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za
+prekršaj Hrvatski Crveni križ ili zdravstvena ustanova ako osposobljava
+kandidate suprotno propisima ili u vrijeme kad joj je izrečena zabrana
+osposobljavanja (stavak 4.).
+(6) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom u iznosu od
+1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.
+4. STJECANJE PRAVA NA UPRAVLJANJE VOZILIMA
