@@ -1,0 +1,1 @@
+Na temelju članka 145. stavka 2. točke 2., a u vezi sa člankom 144. stavkom 3. Zakona o vodama (»Narodne novine«, br. 107/95 i 150/2005), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2008. godine donijela
