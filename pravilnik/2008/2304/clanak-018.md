@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Plovni objekti koji na dan stupanja na snagu ovog Pravilnika imaju rješenje sukladno Pravilniku o vrstama i kategorijama plovnih objekata nautičkog turizma (»Narodne novine« br. 11/97, 105/98, 38/99, 56/00 i 106/00) nemaju obveze usklađivanja s odredbama ovog Pravilnika.
+(2) Na ispunjavanje uvjeta za vrstu i kategoriju plovnih objekata koji na dan stupanja na snagu ovog Pravilnika imaju rješenje sukladno Pravilniku o vrstama i kategorijama plovnih objekata nautičkog turizma (»Narodne novine« br. 11/97, 105/98, 38/99, 56/00 i 106/00) i nadalje će se primjenjivati odredbe tog Pravilnika.
