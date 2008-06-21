@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se posebni prostorni i tehnički uvjeti, zaštita od požara, krađe i drugih zlouporaba i nezgoda koje moraju ispunjavati pravne osobe kojima je izdano odobrenje za nabavu oružja, poslovne prostorije u kojima se obavljaju proizvodnja i smještaj oružja, promet oružja i streljiva, popravljanje i prepravljanje oružja, vođenje civilnih strelišta, te sastav i djelokrug rada povjerenstva za utvrđivanje ispunjavanja navedenih uvjeta.
