@@ -1,0 +1,6 @@
+# Članak 5.
+UVJETI KORIŠTENJA I KORIŠTENJE ŠVEDSKOGA DOPRINOSA
+Samo one aktivnosti koje se izvode tijekom trajanja provedbene faze projekta mogu se financirati iz švedskoga doprinosa i to - pogledati Projektnu dokumentaciju.
+Preduvjet za isplatu financijskih sredstava iz švedskih fondova je da Hrvatska osigura uredski prostor za projekt, ukoliko to ne učini Švedska.
+Švedska, u svako doba, može obustaviti isplate ako dođe do odstupanja od dogovorenih planova i proračuna; ako dođe do zloporabe fondova ili drugih izvora; ako sredstva koja treba doznačiti Hrvatska nisu osigurana prema planu; ako su ugroženi ciljevi projekta; ako se izvješća ne dostavljaju kako je dogovoreno; ako upravljanje financijama nije zadovoljavajuće; ako hrvatske obveze iz prethodnih ugovora između Hrvatske i Švedske o potpori projektu nisu ispunjene; i/ili ako se projekt u bilo kojem važnom pogledu razvija nepovoljno u smislu ostvarenja ciljeva.
+Sida može, ako je došlo do bitnog odstupanja od Projektne dokumentacije i/ili odstupanja od kasnijih operativnih planova, i/ili ako nisu ispunjeni i/ili do kraja poštovani drugi uvjeti iz ovoga članka, zahtijevati od Hrvatske povrat isplaćenoga iznosa, u cjelini ili djelomično.

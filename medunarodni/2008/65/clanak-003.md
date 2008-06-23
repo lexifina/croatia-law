@@ -1,0 +1,2 @@
+# Članak 3.
+Za provedbu ovoga Zakona nadležno je središnje tijelo državne uprave nadležno za poslove poljoprivrede, ribarstva i ruralnog razvoja.
