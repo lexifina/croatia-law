@@ -1,0 +1,1 @@
+Na temelju članka 27a., stavaka 1. i 6. Poslovnika Vlade Republike Hrvatske (»Narodne novine«, br. 107/2000 - pročišćeni tekst, 24/2001, 22/2005, 68/2007 i 10/2008), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2008. godine donijela
