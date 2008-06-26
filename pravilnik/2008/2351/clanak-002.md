@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Posjednik otpada iz proizvodnje titan-dioksida je svaka pravna i/ili fizička osoba obrtnik koji proizvodi titan-dioksid i/ili osoba koja posjeduje otpad koji potječe iz takve proizvodnje.
+(2) Onečišćavanje otpadom iz proizvodnje titan-dioksida (u daljnjem tekstu: onečišćavanje) jest direktno ili indirektno ispuštanje u okoliš otpada ili bilo kojeg ostatka iz procesa proizvodnje titan-dioksida, čije djelovanje može prouzročiti opasnost za ljudsko zdravlje, štetu u okolišu i u ekosustavima i štetu za prirodne znamenitosti ili međudjelovanje s drugim aktivnostima u okolišu.
+(3) Otpad iz proizvodnje titan-dioksida je svaki ostatak iz procesa proizvodnje titan-dioksida kojim posjednik raspolaže i obvezan je istim gospodariti u skladu s važećim zakonskim propisima ili ostatak nastao prilikom postupka obrade otpada iz proizvodnje titan-dioksida, definiran u katalogu otpada sukladno posebnom propisu.
