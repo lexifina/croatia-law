@@ -1,0 +1,7 @@
+## IV. OCJENA STRATEŠKE STUDIJE
+# Članak 9.
+(1) Na prvoj sjednici povjerenstvo ocjenjuje cjelovitost strateške studije u odnosu na zahtjeve određene Zakonom, uredbom kojom se uređuje strateška procjena utjecaja plana i programa na okoliš i odlukom o sadržaju strateške studije, te ocjenjuje stručnu utemeljenost studije. Ukoliko utvrdi da je strateška studija cjelovita i stručno utemeljena, povjerenstvo donosi mišljenje sukladno Zakonu, Uredbi kojom se uređuje strateška procjena i ovom Pravilniku.
+(2) Kada povjerenstvo ocijeni da strateška studija nije cjelovita u smislu stavka 1. ovoga članka, neće utvrđivati stručnu utemeljenost studije i donositi mišljenje.
+(3) U slučaju iz stavka 2. ovoga članka povjerenstvo će predložiti nadležnom tijelu da se strateška studija dopuni ili doradi te će predložiti i u kojem dijelu i obujmu.
+(4) Prijedlogom iz stavka 3. ovoga članka povjerenstvo može predložiti nadležnom tijelu da nakon dopune ili dorade stratešku studiju izravno dostavi izrađivaču.
+(5) Kada povjerenstvo na prvoj sjednici ocijeni da strateška studija ima nedostatke koji su takve prirode da strateška studija ne udovoljava propisanim zahtjevima u vezi s izradom i određenim sadržajem, te odgovarajućom dopunom neće biti moguće otkloniti te nedostatke, predložit će nadležnom tijelu da se studija ponovno izradi. U ovom slučaju povjerenstvo će detaljno navesti područja u kojima strateška studija zahtjeva ponovnu izradu.
