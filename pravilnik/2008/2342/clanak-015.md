@@ -1,0 +1,3 @@
+# Članak 15.
+Ured za obranu poziva kandidate na dragovoljno služenje vojnog roka u pravilu najkasnije 30 dana prije dana upućivanja, prioritet za pozivanje određuje se u pravilu na temelju vremena podnošenja prijave, a samo iznimno za kandidate deficitarnih struka na temelju utvrđenih potreba Oružanih snaga za popunom ustrojbenih mjesta deficitarnih struka.
+Koordinaciju poslova u svezi s određivanjem prednosti kandidata i utvrđivanjem konačne liste kandidata za pozivanje na dragovoljno služenje vojnog roka obavlja Središnjica za upravljanje osobljem, a do njezinog ustrojavanja Uprava za ljudske resurse.
