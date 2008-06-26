@@ -1,0 +1,9 @@
+# Članak 1.
+U Uredbi o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo (»Narodne novine«, br. 86/2000 i 187/2004), u članku 4. stavak 3. briše se i dodaju se novi stavci od 3. do 9., koji glase:
+»Ako naknada troškova u postupcima za priznanje i održavanje u vrijednosti žigova i industrijskog dizajna nije plaćena u trenutku podnošenja podneska ili nije plaćena u propisanom iznosu, Zavod poziva stranku da u roku od 30 dana od dana primitka poziva plati propisanu naknadu troškova, osim u slučajevima propisanima u stavcima 5. do 7. ovoga članka.
+Ako naknada troškova u postupcima za priznanje i održavanje u vrijednosti patenata nije plaćena u trenutku podnošenja podneska ili nije plaćena u propisanom iznosu, Zavod poziva stranku da u roku od 60 dana od dana primitka poziva plati propisanu naknadu troškova, osim u slučaju propisanom stavkom 7. ovoga članka.
+Naknada troškova za pokretanje postupka povodom prigovora na objavu prijave žiga plaća se u propisanom iznosu u trenutku podnošenja prigovora ili najkasnije do isteka roka za podnošenje prigovora na objavu prijave žiga.
+Naknada troškova za prosljeđivanje prijave žiga ili dizajna Zajednice plaća se u propisanom iznosu u trenutku podnošenja prijave žiga ili dizajna Zajednice ili najkasnije u roku od 14 dana od primitka prijave žiga ili dizajna Zajednice u Zavodu.
+Naknada troškova za pokretanje žalbenog postupka u odnosu na bilo koju odluku Zavoda plaća se u propisanom iznosu u trenutku podnošenja žalbe ili najkasnije do isteka roka za žalbu.
+Ako stranka uplati naknadu troškova po pozivu Zavodu iz stavaka 3. ili 4. ovoga članka, smatra se da je ona uredno plaćena od početka.
+Ako stranka ne uplati naknadu troškova po pozivu Zavoda iz stavaka 3. ili 4. ovoga članka, odnosno, ako ne uplati naknadu troškova u roku propisanom u stavcima od 5. do 7., podnesak se zaključkom odbacuje.«.
