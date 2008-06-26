@@ -1,0 +1,2 @@
+# Članak 28.
+Ako u roku tri mjeseca od dana kad je EK primila obavijest, sukladno članku 23. ove Uredbe, EK ili koja država članica EU dostavi detaljno mišljenje da bi propis mogao stvarati zapreke slobodnom kretanju usluga ili slobodi osnivanja pružatelja usluga na unutarnjem tržištu, nadležno tijelo će odgoditi donošenje prijedloga propisa na četiri mjeseca bez obzira na odredbe članka 30. stavka 1. podstavka 2. i članka 30. stavka 2. ove Uredbe.

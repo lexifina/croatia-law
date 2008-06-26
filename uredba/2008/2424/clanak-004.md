@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Središnje tijelo državne uprave (u daljnjem tekstu: nadležno tijelo) koje priprema tehnički propis (u daljnjem tekstu: propis), postupak ocjenjivanja sukladnosti odnosno sanitarni ili fitosanitarni propis, o tome obavještava informacijsku središnjicu, u smislu odredaba stavaka 2. i 3. ovoga članka.
+(2) Informacijska središnjica (u daljnjem tekstu: ISA) za provedbu službenog obavješćivanja u smislu ove Uredbe, prema propisima EU, te za provedbu službenog obavješćivanja prema sporazumu WTO/TBT i WTO/SPS i informiranja prema sporazumu WTO/TBT, djeluje u okviru središnjeg tijela državne uprave, nadležnog za gospodarstvo.
+(3) Informacijska točka za provedbu službenog obavješćivanja u smislu ove Uredbe prema sporazumu WTO/SPS, djeluje u okviru središnjeg tijela državne uprave nadležnog za poljoprivredu.
+(4) Informacijska točka (u daljnjem tekstu: ITA) za provedbu službenog obavješćivanja u smislu ove Uredbe prema propisima EU, te za provedbu službenog obavješćivanja prema sporazumu WTO/TBT u području normizacije, djeluje u okviru nacionalnog normirnog tijela Republike Hrvatske (u nastavku teksta: nacionalno normirno tijelo).
