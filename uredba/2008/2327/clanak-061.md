@@ -1,0 +1,4 @@
+# Članak 61.
+Članak 127. mijenja se i glasi:
+»Služba za opću upravu i zajedničke poslove obavlja upravne i stručne poslove koji se odnose na opću upravu te druge upravne i stručne poslove koji nisu u djelokrugu koje druge unutarnje ustrojstvene jedinice ureda državne uprave.
+Osim poslova iz stavka 1. ovog članka Služba za opću upravu i zajedničke poslove obavlja i stručne poslove za potrebe predstojnika i zamjenika predstojnika, nadzor nad zakonitošću općih akata predstavničkih tijela jedinica lokalne samouprave i jedinica područne (regionalne) samouprave te opće, kadrovske, informatičke, planske, materijalno-financijske, računovodstvene, administrativne i pomoćno-tehničke poslove, poslove koji se odnose na antikorupcijsku politiku i suradnju s Odjelom za etiku Središnjeg državnog ureda za upravu, poslove koji se odnose na odobravanje korištenja besplatne pravne pomoći, te poslove planiranja, razvoja i upravljanja kadrovima za potrebe ureda državne uprave.«.
