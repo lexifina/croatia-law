@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi za provođenje Zakona o konvalidaciji za upravno područje rada, zapošljavanja, mirovinskog i invalidskog osiguranja, doplatka za djecu, socijalne skrbi i zaštite vojnih i civilnih invalida rata (»Narodne novine«, broj 51/98), naziv Uredbe mijenja se i glasi: »Uredba za provođenje Zakona o konvalidaciji za upravno područje rada, zapošljavanja, socijalne skrbi i zaštite vojnih i civilnih invalida rata«.

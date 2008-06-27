@@ -1,0 +1,1 @@
+Uredba o izmjenama Uredbe za provođenje Zakona o konvalidaciji za upravno područje rada, zapošljavanja, mirovinskog i invalidskog osiguranja, doplatka za djecu, socijalne skrbi i zaštite vojnih i civi
