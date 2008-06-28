@@ -1,0 +1,1 @@
+Na temelju odredbe članka 65. stavka 1. i 3. Zakona o leasingu (»Narodne novine«, br. 135/06), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 13. lipnja 2008. godine, donijela je
