@@ -1,0 +1,4 @@
+# Članak 4.
+Organoleptičko ocjenjivanje mošta, vina i drugih proizvoda od grožđa i vina te voćnih vina i drugih proizvoda na bazi voćnih vina u svrhu provođenja superanalize obavlja Komisija za organoleptičko ocjenjivanje vina u čijem sastavu ne smiju sudjelovati ocjenjivači koji su sudjelovali u prethodnom ocjenjivanju.
+Komisiju za organoleptičko ocjenjivanje određuje ovlaštena pravna osoba iz članka 5. ovoga Pravilnika i čine je ocjenjivači koji se nalaze na Popisu članova Povjerenstva za organoleptičko ocjenjivanje vina i drugih proizvoda od grožđa i vina.
+Komisija za organoleptičko ocjenjivanje određuje se za svaki pojedini zahtjev, a organoleptičko ocjenjivanje obavlja se u prostorijama pravne osobe koja posjeduje ovlaštenje ministra poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: ministar) za provođenje organoleptičkog ocjenjivanja.
