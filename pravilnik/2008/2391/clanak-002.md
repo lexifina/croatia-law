@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 3. stavku 1. točki 5. riječi: »odrediti dan od kojeg počinje teći rok iz članka 109. stavak 1. za obavješćivanje imatelja udjela o promjenama«, zamjenjuju se riječima: »odrediti da razdoblje od dva mjeseca za obavješćivanje imatelja udjela o promjenama iz članka 109. stavka 1. Zakona, počinje teći prvi radni dan nakon donošenja odluke uprave o izmjenama prospekta, kada se i počinje sa slanjem obavijesti imateljima udjela i podnosi zahtjev Agenciji za odobrenje izmjena.«
