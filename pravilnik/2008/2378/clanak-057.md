@@ -1,0 +1,2 @@
+# Članak 57.
+Do izdavanja tehničkih specifikacija iz članaka 29. i 39. ovog pravilnika na izgled elaborata vodova, dokumentaciju za mjerenja obavljena uređajima za satelitsko pozicioniranje, izradbu popisa koordinata u digitalnome obliku i izradbu drugih podataka koji se u okviru elaborata vodova izrađuju u digitalnome obliku odgovarajuće se primjenjuju postojeća pravila i postojeće tehničke specifikacije.
