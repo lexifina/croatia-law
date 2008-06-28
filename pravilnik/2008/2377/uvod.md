@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 1. i članka 8., stavka 2. Zakona o nuklearnoj sigurnosti (»Narodne novine« br. 173/03) ravnatelj Državnog zavoda za nuklearnu sigurnost, uz prethodnu suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva i ministra zdravstva i socijalne skrbi, donosi

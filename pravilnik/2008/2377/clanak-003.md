@@ -1,0 +1,5 @@
+## II. UVJETI NUKLEARNE SIGURNOSTI ZA SMJEŠTAJ OBJEKTA U KOJEM SE OBAVLJA NUKLEARNA DJELATNOST
+# Članak 3.
+(1) Lokacija za smještaj objekata u kojima će se obavljati nuklearna djelatnost utvrđuje se na temelju općih eliminacijskih kriterija za objekte u kojima se obavlja nuklearna djelatnost.
+(2) Uz kriterije navedene u stavku (1) ovog članka, lokacija za smještaj nuklearnih elektrana utvrđuje se na temelju posebnih eliminacijskih kriterija za nuklearne elektrane i usporedbenih kriterija za nuklearne elektrane.
+(3) Uz kriterije navedene u stavku (1) ovog članka, lokacija za smještaj odlagališta nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora, utvrđuje se na temelju posebnih eliminacijskih kriterija za odlagalište nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora i usporedbenih kriterija za odlagalište nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora.

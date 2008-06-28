@@ -1,0 +1,7 @@
+## III. UVJETI NUKLEARNE SIGURNOSTI ZA PROJEKTIRANJE OBJEKTA U KOJEM SE OBAVLJA NUKLEARNA DJELATNOST
+# Članak 9.
+(1) Za projektiranje svih objekata u kojima se obavlja nuklearna djelatnost moraju biti ispunjeni opći uvjeti za projektiranje objekta u kojem se obavlja nuklearna djelatnost.
+(2) Za projektiranje objekata u kojima se obavlja nuklearna djelatnost s nuklearnim reaktorima, uz opće uvjete za projektiranje objekta u kojem se obavlja nuklearna djelatnost, moraju biti ispunjeni i posebni uvjeti za projektiranje objekata u kojima se obavlja nuklearna djelatnost s nuklearnim reaktorima.
+(3) Za projektiranje odlagališta nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora, uz opće uvjete za projektiranje objekta u kojem se obavlja nuklearna djelatnost, moraju biti ispunjeni i posebni uvjeti za projektiranje odlagališta nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora.
+(4) Za projektiranje svih objekata u kojima se obavlja nuklearna djelatnost uz uvjete iz stavaka 1., 2. i 3. ovog članka, primjenjuju se preporuke i standardi Međunarodne agencije za atomsku energiju.
+(5) Lokacijska i građevinska dozvola za gradnju objekta u kojem se obavlja nuklearna djelatnost, odnosno dozvola za uklanjanje tog objekta, ne može se izdati bez potvrde Državnog zavoda za nuklearnu sigurnost o usklađenosti idejnog odnosno glavnog projekta s uvjetima iz stavaka 1., 2. i 3. ovog članka.

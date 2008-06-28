@@ -1,0 +1,6 @@
+## IV. UVJETI NUKLEARNE SIGURNOSTI ZA OBJEKT U KOJEM SE OBAVLJA NUKLEARNA DJELATNOST ZA GRADNJU, PUŠTANJE U POGON, POGON, RAZGRADNJU I ZATVARANJE
+# Članak 13.
+(1) Za gradnju, puštanje u pogon, pogon, razgradnju i zatvaranje objekata u kojima se obavlja nuklearna djelatnost moraju biti ispunjeni opći uvjeti za objekt u kojem se obavlja nuklearna djelatnost.
+(2) Za gradnju, puštanje u pogon, pogon, razgradnju i zatvaranje objekata u kojima se obavlja nuklearna djelatnost s nuklearnim reaktorima, uz opće uvjete za objekt u kojem se obavlja nuklearna djelatnost, moraju biti ispunjeni i posebni uvjeti za objekte u kojima se obavlja nuklearna djelatnost s nuklearnim reaktorima.
+(3) Za zatvaranje lokacije odlagališta nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora, uz opće uvjete za objekt u kojem se obavlja nuklearna djelatnost, moraju biti ispunjena i načela za zatvaranje lokacije odlagališta nisko i srednje radioaktivnog otpada u dijelu u kojem se odlaže radioaktivni otpad porijeklom iz reaktora.
+(4) Za gradnju, puštanje u pogon, pogon, razgradnju i zatvaranje objekata u kojima se obavlja nuklearna djelatnost uz uvjete iz stavaka 1. i 2. ovog članka i načela iz stavka 3. ovog članka, primjenjuju se preporuke i standardi Međunarodne agencije za atomsku energiju.
