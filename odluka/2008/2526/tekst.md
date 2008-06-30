@@ -1,0 +1,1778 @@
+I.
+Vlada Republike Hrvatske (u daljnjem tekstu: Davatelj koncesije) dodjeljuje tvrtki AGRO-TOVARNIK d.o.o., Tovarnik, Vlč. Ivana Burika 34 (u daljnjem tekstu: Korisnik koncesije), koncesiju za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Tovarnik koje je prema posjedovnom listu Područnog ureda za katastar Vukovar, Državne geodetske uprave, označeno kao:
+k.o. Tovarnik
+|  | k.č.br.
+|  | kultura
+|  | površina (m²)
+3
+ORANICA
+|  | 3.974
+4
+ORANICA
+|  | 15.816
+5
+ORANICA
+|  | 9.412
+106
+ORANICA
+|  | 429.042
+563/3
+ORANICA
+|  | 159.557
+2987
+ORANICA
+|  | 4.383
+2988
+ORANICA
+|  | 13.310
+2989/1
+ORANICA
+|  | 7.150
+2990
+ORANICA
+|  | 2.937
+2991
+ORANICA
+|  | 9.674
+2992
+ORANICA
+|  | 4.202
+2993
+ORANICA
+|  | 8.286
+2994
+ORANICA
+|  | 6.198
+2995
+LIVADA
+|  | 44.316
+2996
+ORANICA
+|  | 7.886
+2998
+ORANICA
+|  | 10.810
+2999
+ORANICA
+|  | 12.721
+3000
+ORANICA
+|  | 3.447
+3001
+ORANICA
+|  | 5.389
+3002
+ORANICA
+|  | 3.734
+3003
+ORANICA
+|  | 6.762
+3004
+LIVADA
+|  | 70.183
+3005
+LIVADA
+|  | 43.216
+3005
+NEPLODNO
+|  | 1.000
+3006
+ORANICA
+|  | 6.625
+3007
+ORANICA
+|  | 5.055
+3008
+ORANICA
+|  | 6.999
+3009
+ORANICA
+|  | 5.829
+3010
+ORANICA
+|  | 6.075
+3011/1
+ORANICA
+|  | 6.162
+3011/1
+LIVADA
+|  | 6.492
+3011/2
+LIVADA
+|  | 5.832
+3012
+ORANICA
+|  | 2.951
+3012
+LIVADA
+|  | 5.902
+3013
+ORANICA
+|  | 1.678
+3014
+ORANICA
+|  | 1.892
+3015
+ORANICA
+|  | 12.643
+3015
+ORANICA
+|  | 5.755
+3016
+ORANICA
+|  | 20.488
+3017
+ORANICA
+|  | 5.307
+3019
+ORANICA
+|  | 6.980
+3020
+ORANICA
+|  | 4.929
+3021
+ORANICA
+|  | 4.781
+3022
+ORANICA
+|  | 5.629
+3023
+ORANICA
+|  | 10.768
+3024
+ORANICA
+|  | 5.913
+3025
+ORANICA
+|  | 5.965
+3026
+ORANICA
+|  | 10.716
+3027
+ORANICA
+|  | 3.422
+3028
+ORANICA
+|  | 4.244
+3029
+ORANICA
+|  | 15.717
+3029
+PAŠNJAK
+|  | 1.800
+3030
+ORANICA
+|  | 12.453
+3031
+ORANICA
+|  | 8.959
+3032
+ORANICA
+|  | 4.762
+3033
+ORANICA
+|  | 5.467
+3034
+ORANICA
+|  | 4.671
+3034
+PAŠNJAK
+|  | 720
+3035/1
+ORANICA
+|  | 5.155
+3035/1
+PAŠNJAK
+|  | 600
+3035/2
+ORANICA
+|  | 10.574
+3035/2
+PAŠNJAK
+|  | 1.200
+3036
+ORANICA
+|  | 8.925
+3036
+PAŠNJAK
+|  | 720
+3037
+ORANICA
+|  | 5.465
+3037
+PAŠNJAK
+|  | 720
+3038
+ORANICA
+|  | 4.268
+3038
+PAŠNJAK
+|  | 2.880
+3039
+ORANICA
+|  | 7.221
+3039
+PAŠNJAK
+|  | 2.880
+3040
+ORANICA
+|  | 6.355
+3040
+PAŠNJAK
+|  | 5.755
+3041
+ORANICA
+|  | 8.462
+3041
+PAŠNJAK
+|  | 720
+3042
+ORANICA
+|  | 5.320
+3042
+ORANICA
+|  | 5.321
+3043
+ORANICA
+|  | 2.961
+3044
+PAŠNJAK
+|  | 40.442
+3045
+ORANICA
+|  | 8.499
+3046
+ORANICA
+|  | 18.165
+3047
+ORANICA
+|  | 4.568
+3048
+ORANICA
+|  | 7.602
+3049
+ORANICA
+|  | 3.947
+3049
+ORANICA
+|  | 3.948
+3050
+ORANICA
+|  | 1.368
+3050
+ORANICA
+|  | 1.369
+3051
+ORANICA
+|  | 2.493
+3051
+ORANICA
+|  | 2.493
+3052
+ORANICA
+|  | 6.900
+3053
+ORANICA
+|  | 6.034
+3054
+ORANICA
+|  | 2.401
+3055
+ORANICA
+|  | 6.157
+3056
+ORANICA
+|  | 5.860
+3057
+ORANICA
+|  | 5.417
+3059
+ORANICA
+|  | 7.650
+3060/1
+ORANICA
+|  | 7.673
+3060/1
+ORANICA
+|  | 3.836
+3060/2
+ORANICA
+|  | 1.919
+3060/2
+ORANICA
+|  | 959
+3060/3
+ORANICA
+|  | 3.837
+3060/3
+ORANICA
+|  | 1.918
+3060/4
+ORANICA
+|  | 8.043
+3060/4
+ORANICA
+|  | 4.023
+3061
+PAŠNJAK
+|  | 547
+3062
+ORANICA
+|  | 20.271
+3062
+PAŠNJAK
+|  | 360
+3063
+ORANICA
+|  | 8.263
+3064
+ORANICA
+|  | 3.523
+3065
+ORANICA
+|  | 5.899
+3066
+ORANICA
+|  | 9.452
+3067
+ORANICA
+|  | 10.339
+3067
+PAŠNJAK
+|  | 1.080
+3068
+ORANICA
+|  | 5.261
+3069
+ORANICA
+|  | 1.789
+3070
+ORANICA
+|  | 4.662
+3071
+ORANICA
+|  | 4.305
+3072
+ORANICA
+|  | 5.945
+3073
+ORANICA
+|  | 8.850
+3073
+ORANICA
+|  | 8.850
+3074
+ORANICA
+|  | 3.483
+3075
+ORANICA
+|  | 13.911
+3075
+ORANICA
+|  | 3.000
+3076
+ORANICA
+|  | 9.438
+3077
+ORANICA
+|  | 6.456
+3079
+ORANICA
+|  | 7.640
+3081
+ORANICA
+|  | 8.732
+3083
+PAŠNJAK
+|  | 1.281
+3084
+ORANICA
+|  | 6.152
+3085
+ORANICA
+|  | 3.322
+3086/1
+ORANICA
+|  | 11.894
+3086/2
+ORANICA
+|  | 5.947
+3087
+ORANICA
+|  | 11.322
+3088
+ORANICA
+|  | 7.857
+3089
+ORANICA
+|  | 2.874
+3091
+ORANICA
+|  | 19.396
+3092
+ORANICA
+|  | 7.910
+3093
+ORANICA
+|  | 8.958
+3094
+ORANICA
+|  | 18.306
+3095
+ORANICA
+|  | 10.892
+3096
+ORANICA
+|  | 3.935
+3097
+ORANICA
+|  | 5.816
+3098
+ORANICA
+|  | 1.579
+3099
+ORANICA
+|  | 6.205
+3100
+ORANICA
+|  | 15.798
+3101
+ORANICA
+|  | 5.749
+3102
+ORANICA
+|  | 14.238
+3103
+ORANICA
+|  | 10.262
+3104
+ORANICA
+|  | 6.863
+3105
+ORANICA
+|  | 10.118
+3106/1
+ORANICA
+|  | 3.155
+3106/2
+ORANICA
+|  | 11.245
+3107
+ORANICA
+|  | 14.404
+3108
+ORANICA
+|  | 13.057
+3109
+ORANICA
+|  | 5.632
+3110
+ORANICA
+|  | 7.315
+3111
+ORANICA
+|  | 8.512
+3112
+ORANICA
+|  | 6.019
+3113
+ORANICA
+|  | 5.100
+3114
+ORANICA
+|  | 10.155
+3115
+ORANICA
+|  | 6.341
+3116
+ORANICA
+|  | 5.050
+3117
+ORANICA
+|  | 1.990
+3118
+ORANICA
+|  | 5.794
+3119
+ORANICA
+|  | 70.088
+3120
+ORANICA
+|  | 84.977
+3121
+ORANICA
+|  | 17.910
+3122
+ORANICA
+|  | 84.082
+3123
+ORANICA
+|  | 122.313
+3124
+ORANICA
+|  | 7.755
+3125
+ORANICA
+|  | 4.636
+3126
+ORANICA
+|  | 4.584
+3127
+ORANICA
+|  | 12.052
+3128
+ORANICA
+|  | 10.223
+3129
+ORANICA
+|  | 3.596
+3129
+ORANICA
+|  | 3.596
+3130
+ORANICA
+|  | 2.869
+3130
+ORANICA
+|  | 2.869
+3131
+ORANICA
+|  | 3.522
+3131
+ORANICA
+|  | 3.522
+3132
+ORANICA
+|  | 3.132
+3132
+ORANICA
+|  | 3.133
+3133
+ORANICA
+|  | 10.316
+3134
+ORANICA
+|  | 6.549
+3135
+ORANICA
+|  | 5.558
+3136
+ORANICA
+|  | 3.358
+3137
+ORANICA
+|  | 20.144
+3137
+ORANICA
+|  | 10.072
+3138
+ORANICA
+|  | 12.845
+3139
+ORANICA
+|  | 5.710
+3140
+ORANICA
+|  | 5.147
+3141/1
+ORANICA
+|  | 5.755
+3141/2
+ORANICA
+|  | 6.403
+3142
+ORANICA
+|  | 14.995
+3143
+ORANICA
+|  | 5.267
+3144
+ORANICA
+|  | 6.644
+3145
+ORANICA
+|  | 5.277
+3146
+ORANICA
+|  | 7.850
+3147
+ORANICA
+|  | 4.177
+3149
+ORANICA
+|  | 5.995
+3149
+PAŠNJAK
+|  | 3.600
+3150
+ORANICA
+|  | 1.755
+3150
+PAŠNJAK
+|  | 3.600
+3151
+ORANICA
+|  | 4.358
+3151
+PAŠNJAK
+|  | 5.400
+3152
+ORANICA
+|  | 5.728
+3152
+PAŠNJAK
+|  | 2.160
+3153
+ORANICA
+|  | 11.299
+3154
+ORANICA
+|  | 6.791
+3155
+ORANICA
+|  | 8.234
+3156
+ORANICA
+|  | 5.809
+3157
+ORANICA
+|  | 5.512
+3158
+ORANICA
+|  | 5.819
+3159
+PAŠNJAK
+|  | 52.266
+3160
+ORANICA
+|  | 8.155
+3161
+ORANICA
+|  | 2.371
+3162
+ORANICA
+|  | 5.929
+3163
+ORANICA
+|  | 11.382
+3164
+ORANICA
+|  | 3.530
+3165
+ORANICA
+|  | 3.680
+3166
+ORANICA
+|  | 10.178
+3167
+ORANICA
+|  | 1.305
+3168
+ORANICA
+|  | 11.519
+3169
+ORANICA
+|  | 5.981
+3170/1
+ORANICA
+|  | 15.883
+3170/2
+ORANICA
+|  | 1.689
+3171
+ORANICA
+|  | 10.866
+3172
+ORANICA
+|  | 5.401
+3173
+ORANICA
+|  | 6.284
+3174
+ORANICA
+|  | 8.122
+3175
+ORANICA
+|  | 6.165
+3176/1
+ORANICA
+|  | 7.431
+3176/2
+ORANICA
+|  | 4.497
+3177
+ORANICA
+|  | 6.507
+3178
+ORANICA
+|  | 4.894
+3179
+ORANICA
+|  | 15.290
+3180
+ORANICA
+|  | 5.323
+3181
+ORANICA
+|  | 2.313
+3182
+ORANICA
+|  | 3.256
+3183
+ORANICA
+|  | 9.927
+3184
+ORANICA
+|  | 6.837
+3185
+ORANICA
+|  | 16.674
+3186
+ORANICA
+|  | 4.788
+3187
+ORANICA
+|  | 8.205
+3188
+ORANICA
+|  | 1.826
+3189
+ORANICA
+|  | 10.031
+3190
+PAŠNJAK
+|  | 33.216
+3191
+ORANICA
+|  | 8.593
+3192
+ORANICA
+|  | 2.551
+3193
+ORANICA
+|  | 7.299
+3194
+ORANICA
+|  | 5.524
+3195
+ORANICA
+|  | 5.404
+3196
+ORANICA
+|  | 4.446
+3199
+ORANICA
+|  | 4.710
+3200
+ORANICA
+|  | 4.039
+3202
+ORANICA
+|  | 2.087
+3203
+ORANICA
+|  | 5.455
+3206
+ORANICA
+|  | 3.415
+3207
+ORANICA
+|  | 6.633
+3208
+ORANICA
+|  | 3.524
+3209
+ORANICA
+|  | 3.480
+3210
+ORANICA
+|  | 6.351
+3211
+ORANICA
+|  | 4.621
+3212
+ORANICA
+|  | 3.086
+3213
+ORANICA
+|  | 3.144
+3214/1
+ORANICA
+|  | 2.402
+3214/2
+ORANICA
+|  | 1.948
+3215
+ORANICA
+|  | 4.046
+3216
+ORANICA
+|  | 5.153
+3217
+ORANICA
+|  | 3.643
+3218
+ORANICA
+|  | 6.438
+3219/1
+ORANICA
+|  | 4.445
+3219/2
+ORANICA
+|  | 4.444
+3220
+ORANICA
+|  | 7.209
+3221
+ORANICA
+|  | 6.631
+3222
+ORANICA
+|  | 7.226
+3223
+ORANICA
+|  | 4.024
+3224
+ORANICA
+|  | 6.527
+3225
+ORANICA
+|  | 8.106
+3226
+ORANICA
+|  | 4.169
+3227
+ORANICA
+|  | 5.182
+3228
+ORANICA
+|  | 9.278
+3229
+ORANICA
+|  | 8.258
+3230
+ORANICA
+|  | 8.154
+3231
+ORANICA
+|  | 5.267
+3232
+ORANICA
+|  | 6.753
+3233
+ORANICA
+|  | 9.131
+3234
+ORANICA
+|  | 8.372
+3236
+ORANICA
+|  | 9.021
+3237
+ORANICA
+|  | 8.993
+3238
+ORANICA
+|  | 5.144
+3239
+ORANICA
+|  | 9.803
+3240
+ORANICA
+|  | 4.948
+3241
+ORANICA
+|  | 5.176
+3242
+ORANICA
+|  | 9.785
+3244
+ORANICA
+|  | 16.486
+3245
+ORANICA
+|  | 7.713
+3246
+ORANICA
+|  | 10.284
+3247
+ORANICA
+|  | 3.639
+3248
+ORANICA
+|  | 8.119
+3249
+ORANICA
+|  | 15.601
+3250
+ORANICA
+|  | 7.406
+3251
+ORANICA
+|  | 7.172
+3251
+PAŠNJAK
+|  | 720
+3252
+ORANICA
+|  | 6.096
+3252
+PAŠNJAK
+|  | 3.048
+3253
+ORANICA
+|  | 13.015
+3254
+ORANICA
+|  | 7.116
+3255
+ORANICA
+|  | 7.833
+3256
+ORANICA
+|  | 5.031
+3257
+ORANICA
+|  | 3.964
+3258
+ORANICA
+|  | 2.452
+3259
+ORANICA
+|  | 5.206
+3260
+ORANICA
+|  | 9.815
+3261
+ORANICA
+|  | 7.053
+3262
+ORANICA
+|  | 12.310
+3263
+ORANICA
+|  | 9.946
+3264
+ORANICA
+|  | 2.309
+3265
+ORANICA
+|  | 8.207
+3266
+ORANICA
+|  | 3.120
+3267
+ORANICA
+|  | 5.978
+3268
+ORANICA
+|  | 3.367
+3269
+ORANICA
+|  | 4.784
+3270
+ORANICA
+|  | 10.730
+3271
+ORANICA
+|  | 16.326
+3272
+ORANICA
+|  | 5.168
+3273
+ORANICA
+|  | 13.497
+3274
+ORANICA
+|  | 5.553
+3275
+ORANICA
+|  | 3.208
+3276
+ORANICA
+|  | 2.424
+3277
+ORANICA
+|  | 5.269
+3277
+ORANICA
+|  | 5.268
+3278
+ORANICA
+|  | 1.143
+3278
+ORANICA
+|  | 1.143
+3279
+ORANICA
+|  | 7.324
+3280
+ORANICA
+|  | 9.314
+3281
+ORANICA
+|  | 11.878
+3282
+ORANICA
+|  | 7.851
+3283
+ORANICA
+|  | 4.546
+3284
+ORANICA
+|  | 4.339
+3285
+ORANICA
+|  | 6.752
+3286
+ORANICA
+|  | 7.193
+3287
+ORANICA
+|  | 9.045
+3288
+ORANICA
+|  | 4.779
+3289
+ORANICA
+|  | 7.394
+3290/1
+ORANICA
+|  | 5.811
+3290/2
+ORANICA
+|  | 5.755
+3291
+ORANICA
+|  | 8.100
+3292
+ORANICA
+|  | 4.978
+3293
+ORANICA
+|  | 7.155
+3294
+ORANICA
+|  | 6.221
+3295
+ORANICA
+|  | 6.346
+3296
+ORANICA
+|  | 6.712
+3297
+ORANICA
+|  | 9.849
+3298
+ORANICA
+|  | 7.704
+3299/1
+ORANICA
+|  | 9.694
+3299/2
+ORANICA
+|  | 11.509
+3300
+ORANICA
+|  | 22.865
+3301
+ORANICA
+|  | 14.145
+3302
+ORANICA
+|  | 5.833
+3303
+ORANICA
+|  | 3.738
+3304
+ORANICA
+|  | 4.546
+3305
+ORANICA
+|  | 8.428
+3306
+ORANICA
+|  | 9.427
+3307
+ORANICA
+|  | 11.225
+3308
+ORANICA
+|  | 6.417
+3309
+ORANICA
+|  | 6.287
+3310
+ORANICA
+|  | 8.074
+3311
+ORANICA
+|  | 9.210
+3312
+ORANICA
+|  | 5.669
+3313
+ORANICA
+|  | 6.901
+3314
+ORANICA
+|  | 28.413
+3315
+ORANICA
+|  | 10.849
+3316
+ORANICA
+|  | 7.173
+3317
+ORANICA
+|  | 126.699
+3318
+ORANICA
+|  | 6.029
+3318
+ORANICA
+|  | 1.500
+3319
+ORANICA
+|  | 15.671
+3319
+ORANICA
+|  | 2.500
+3320
+ORANICA
+|  | 6.395
+3320
+ORANICA
+|  | 1.000
+3321
+ORANICA
+|  | 10.812
+3321
+ORANICA
+|  | 2.000
+3322
+ORANICA
+|  | 7.186
+3322
+ORANICA
+|  | 1.000
+3323
+ORANICA
+|  | 2.794
+3323
+ORANICA
+|  | 800
+3324
+ORANICA
+|  | 5.229
+3324
+ORANICA
+|  | 1.000
+3325
+ORANICA
+|  | 5.879
+3325
+ORANICA
+|  | 1.200
+3326
+ORANICA
+|  | 4.519
+3326
+ORANICA
+|  | 1.000
+3327
+ORANICA
+|  | 10.677
+3327
+ORANICA
+|  | 1.500
+3328
+ORANICA
+|  | 15.531
+3328
+ORANICA
+|  | 800
+3329
+ORANICA
+|  | 7.605
+3331
+ORANICA
+|  | 12.949
+3332
+ORANICA
+|  | 5.699
+3333
+ORANICA
+|  | 4.668
+3334
+ORANICA
+|  | 20.633
+3335
+ORANICA
+|  | 5.436
+3336
+ORANICA
+|  | 4.577
+3337
+ORANICA
+|  | 4.464
+3338
+ORANICA
+|  | 8.283
+3340
+ORANICA
+|  | 11.155
+3341
+ORANICA
+|  | 7.524
+3342/1
+ORANICA
+|  | 14.101
+3343
+ORANICA
+|  | 11.315
+3344
+ORANICA
+|  | 5.300
+3345
+ORANICA
+|  | 5.534
+3346
+ORANICA
+|  | 6.374
+3347
+ORANICA
+|  | 16.705
+3348
+ORANICA
+|  | 12.047
+3349
+ORANICA
+|  | 3.149
+3350
+ORANICA
+|  | 7.150
+3351
+ORANICA
+|  | 14.107
+3352
+ORANICA
+|  | 8.882
+3353
+ORANICA
+|  | 18.379
+3354
+ORANICA
+|  | 4.584
+3355
+ORANICA
+|  | 10.976
+3356
+ORANICA
+|  | 8.305
+3358
+ORANICA
+|  | 8.142
+3359
+ORANICA
+|  | 6.881
+3360
+ORANICA
+|  | 19.229
+3361/1
+ORANICA
+|  | 8.103
+3361/2
+ORANICA
+|  | 6.243
+3361/3
+ORANICA
+|  | 8.606
+3362
+ORANICA
+|  | 11.529
+3363
+ORANICA
+|  | 5.868
+3364
+ORANICA
+|  | 7.860
+3365
+ORANICA
+|  | 6.797
+3366
+ORANICA
+|  | 9.057
+3367
+ORANICA
+|  | 4.045
+3368
+ORANICA
+|  | 13.889
+3369
+ORANICA
+|  | 6.419
+3370
+ORANICA
+|  | 13.600
+3371
+PAŠNJAK
+|  | 9.216
+3371
+ORANICA
+|  | 9.217
+3372
+PAŠNJAK
+|  | 30.019
+3372
+ORANICA
+|  | 10.008
+3373
+PAŠNJAK
+|  | 9.166
+3374
+ORANICA
+|  | 11.946
+3375
+ORANICA
+|  | 12.328
+3376
+ORANICA
+|  | 9.874
+3377
+ORANICA
+|  | 29.049
+3378
+ORANICA
+|  | 14.409
+3380
+ORANICA
+|  | 7.887
+3381
+ORANICA
+|  | 17.999
+3382
+ORANICA
+|  | 8.622
+3384
+ORANICA
+|  | 7.201
+3385
+ORANICA
+|  | 10.300
+3386
+ORANICA
+|  | 16.143
+3386
+PAŠNJAK
+|  | 1.500
+3387
+ORANICA
+|  | 5.534
+3387
+PAŠNJAK
+|  | 1.000
+3388
+ORANICA
+|  | 3.813
+3388
+PAŠNJAK
+|  | 800
+3389
+ORANICA
+|  | 7.532
+3389
+PAŠNJAK
+|  | 1.500
+3390
+ORANICA
+|  | 15.161
+3390
+PAŠNJAK
+|  | 1.200
+3391
+ORANICA
+|  | 7.969
+3392
+ORANICA
+|  | 11.182
+3393
+ORANICA
+|  | 7.057
+3394
+ORANICA
+|  | 3.347
+3395
+ORANICA
+|  | 8.387
+3396
+ORANICA
+|  | 18.183
+3397
+ORANICA
+|  | 7.312
+3398
+ORANICA
+|  | 5.260
+3399
+ORANICA
+|  | 4.844
+3400
+ORANICA
+|  | 10.565
+3402
+ORANICA
+|  | 5.018
+3403
+ORANICA
+|  | 7.436
+3404
+ORANICA
+|  | 4.475
+3405
+ORANICA
+|  | 8.447
+3406
+ORANICA
+|  | 243.899
+3407
+ORANICA
+|  | 235.773
+3408
+ORANICA
+|  | 14.844
+3408
+ORANICA
+|  | 5.755
+3410
+ORANICA
+|  | 14.092
+3411
+ORANICA
+|  | 6.737
+3412
+ORANICA
+|  | 4.881
+3413
+ORANICA
+|  | 5.613
+3414
+ORANICA
+|  | 13.497
+3415
+ORANICA
+|  | 9.480
+3416
+ORANICA
+|  | 16.669
+3417
+ORANICA
+|  | 7.954
+3418
+ORANICA
+|  | 6.024
+3419
+ORANICA
+|  | 6.601
+3420
+ORANICA
+|  | 30.439
+3420
+PAŠNJAK
+|  | 3.000
+3421
+ORANICA
+|  | 12.178
+3422
+ORANICA
+|  | 9.558
+3423
+ORANICA
+|  | 35.482
+3424
+ORANICA
+|  | 6.941
+3424
+PAŠNJAK
+|  | 1.500
+3425
+PAŠNJAK
+|  | 27.505
+3426
+ORANICA
+|  | 14.465
+3426
+PAŠNJAK
+|  | 800
+3427
+ORANICA
+|  | 123.730
+3428
+ORANICA
+|  | 27.034
+3429
+ORANICA
+|  | 19.534
+3430
+ORANICA
+|  | 14.560
+3430
+ORANICA
+|  | 7.230
+3431
+ORANICA
+|  | 5.320
+3431
+ORANICA
+|  | 10.650
+3432
+ORANICA
+|  | 8.570
+3433
+ORANICA
+|  | 4.908
+3434
+ORANICA
+|  | 5.594
+3435
+ORANICA
+|  | 4.265
+3436
+ORANICA
+|  | 13.716
+3437
+ORANICA
+|  | 1.596
+3438
+ORANICA
+|  | 13.031
+3439
+ORANICA
+|  | 5.989
+3439
+ORANICA
+|  | 800
+3440
+ORANICA
+|  | 5.487
+3440
+ORANICA
+|  | 800
+3441
+ORANICA
+|  | 15.838
+3441
+ORANICA
+|  | 2.000
+3442
+ORANICA
+|  | 19.647
+3443
+ORANICA
+|  | 173.392
+3444
+ORANICA
+|  | 125.973
+3445
+ORANICA
+|  | 120.436
+3446
+PAŠNJAK
+|  | 121.032
+3447
+PAŠNJAK
+|  | 121.591
+3448
+PAŠNJAK
+|  | 120.365
+3485/1
+ORANICA
+|  | 10
+3486/1
+ORANICA
+|  | 20.000
+3486/1
+ORANICA
+|  | 136.062
+3488/1
+ORANICA
+|  | 69.194
+3489/1
+ORANICA
+|  | 59.102
+3490/1
+ORANICA
+|  | 60.946
+3491
+ORANICA
+|  | 223.704
+3492
+ORANICA
+|  | 267.566
+3493
+ORANICA
+|  | 84.596
+3494
+PAŠNJAK
+|  | 20.000
+3494
+ORANICA
+|  | 32.390
+3824
+ORANICA
+|  | 164.964
+3825
+ORANICA
+|  | 251.475
+3826
+ORANICA
+|  | 477.048
+3827
+ORANICA
+|  | 489.280
+3828
+ORANICA
+|  | 509.478
+3018
+ORANICA
+|  | 6.041
+3090
+ORANICA
+|  | 7.313
+3148
+ORANICA
+|  | 8.638
+3205
+ORANICA
+|  | 3.778
+3342/2
+ORANICA
+|  | 3.522
+3357
+ORANICA
+|  | 16.384
+3379
+ORANICA
+|  | 7.363
+3401
+ORANICA
+|  | 5.509
+3409
+ORANICA
+|  | 11.633
+k.o. Ilača
+|  | k.č.br.
+|  | kultura
+|  | površina (m²)
+1980
+ORANICA
+|  | 265.387
+1980
+ORANICA
+|  | 100.000
+1983
+ORANICA
+|  | 354.451
+1984
+ORANICA
+|  | 200.908
+1984
+ORANICA
+|  | 120.000
+1985
+ORANICA
+|  | 117.287
+1985
+ORANICA
+|  | 117.286
+1986
+ORANICA
+|  | 86.360
+1987
+ORANICA
+|  | 144.570
+1987
+ORANICA
+|  | 70.000
+1988/1
+ORANICA
+|  | 190.000
+1988/1
+ORANICA
+|  | 160.000
+1988/1
+ORANICA
+|  | 124.173
+1988/2
+ORANICA
+|  | 8.258
+2011
+ORANICA
+|  | 555.617
+2011
+ORANICA
+|  | 200.000
+2035
+ORANICA
+|  | 200.526
+2035
+ORANICA
+|  | 200.525
+2037
+ORANICA
+|  | 352.956
+2036
+ORANICA
+|  | 202.770
+2036
+ORANICA
+|  | 202.769
+2102
+PAŠNJAK
+|  | 6.831
+2102
+ORANICA
+|  | 107.990
+2103
+ORANICA
+|  | 117.089
+2104
+ORANICA
+|  | 174.860
+2105
+ORANICA
+|  | 193.242
+2106
+ORANICA
+|  | 117.124
+2116
+ORANICA
+|  | 289.929
+2117
+ORANICA
+|  | 182.161
+Sveukupna površina: 14.556.857 m².
+Sveukupna visina godišnje koncesijske naknade iznosi: 656.000,00 kuna.
+II.
+Poljoprivredno zemljište u vlasništvu Republike Hrvatske koje je predmet ove Odluke daje se u koncesiju kao proizvodno-tehnološka cjelina u svrhu biljne i stočarske proizvodnje.
+III.
+Korisnik koncesije dužan je iskorištavati poljoprivredno zemljišta iz točke I. ove Odluke u skladu s Programom iskorištavanja poljoprivrednog zemljišta koji čini sastavni dio ugovora o koncesiji i na način kojim će osigurati najveću moguću zaštitu okoliša.
+IV.
+Korisnik koncesije ne može ući u posjed poljoprivrednog zemljišta koje je minirano, sve do razminiravanja, a troškove razminiravanja sam će snositi.
+V.
+Za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske navedenog u točki I. ove Odluke, Korisnik koncesije dužan je plaćati Davatelju koncesije godišnju naknadu u iznosu navedenom u točki I. ove Odluke.
+Dinamika plaćanja naknade za koncesiju odredit će se ugovorom o koncesiji.
+VI.
+Koncesija iz točke I. ove Odluke dodjeljuje se na vrijeme od 30 godina, počevši od dana sklapanja ugovora o koncesiji predmetnog poljoprivrednog zemljišta.
+VII.
+Dozvoljava se Korisniku koncesije postavljanje gospodarskih objekata, pomoćnih uređaja i objekata za iskorištavanje zemljišta, ako je to u skladu s dokumentima prostornog uređenja i graditeljstva.
+Po isteku koncesije navedeni objekti postaju vlasništvo Davatelja koncesije.
+Davatelj koncesije ima pravo tražiti da Korisnik koncesije o svom trošku ukloni postavljene gospodarske, pomoćne i druge objekte na predmetnom poljoprivrednom zemljištu.
+VIII.
+Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja može otkazati Korisniku koncesije ugovor o koncesiji poljoprivrednog zemljišta iz točke I. ove Odluke, ako Korisnik koncesije i nakon opomene koristi predmetno poljoprivredno zemljište suprotno ugovoru i ne primjenjuje mjere i postupke predviđene propisima o zaštiti i korištenju poljoprivrednog zemljišta.
+IX.
+Ugovor o koncesiji raskida se ako Korisnik koncesije ne plati godišnju koncesijsku naknadu utvrđenu ugovorom o koncesiji u roku 15 dana od dana primitka poziva Davatelja koncesije, te ako predmetno zemljište daje u zakup ili potkoncesiju.
+X.
+Na temelju ove Odluke ovlašćuje se ministar poljoprivrede, ribarstva i ruralnog razvoja da sklopi ugovor o koncesiji poljoprivrednog zemljišta iz točke I. ove Odluke kojim će se detaljno urediti ovlaštenja Davatelja koncesije, te prava i obveze Korisnika koncesije.
+XI.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
