@@ -1,0 +1,9 @@
+## Korištenje općeg dobra i nekretnina drugih na temelju prava puta
+# Članak 28.
+(1) Smatra se da infrastrukturni operator ima pravo puta ako je izgradio elektroničku komunikacijsku infrastrukturu i povezanu opremu na općem dobru ili na nekretninama iz članka 27. stavka 1. ovoga Zakona, uz ispunjavanje bilo kojeg od sljedećih uvjeta:
+- da posjeduje građevinsku dozvolu izdanu na svoje ime ili na ime svojih univerzalnih ili pojedinačnih pravnih prednika,
+- da se koristi elektroničkom komunikacijskom infrastrukturom i povezanom opremom bez sudskog spora s upraviteljem općeg dobra ili vlasnikom nekretnine, na kojoj je izgrađena ta infrastruktura, u razdoblju od najmanje tri godine od početka njezina korištenja.
+(2) U slučaju iz stavka 1. ovoga članka Agencija izdaje potvrdu o pravu puta infrastrukturnom operatoru, u skladu s pravilnikom iz članka 29. stavka 1. ovoga Zakona.
+(3) Upravitelj općeg dobra ili vlasnik nekretnine obvezan je trpjeti pravo puta i suzdržati se od bilo kakve radnje kojom bi se na bilo koji način ometalo ostvarivanje prava puta infrastrukturnog operatora.
+(4) Infrastrukturni operator plaća upravitelju općeg dobra ili vlasniku nekretnine naknadu za pravo puta u skladu s odredbama članka 29. ovoga Zakona, osim ako je infrastrukturni operator ujedno i vlasnik te nekretnine, ili ima koje drugo stvarno pravo na toj nekretnini, ili drugi pravni odnos s upraviteljem općeg dobra ili vlasnikom nekretnine, kojim je utvrđena obveza plaćanja odgovarajuće naknade za korištenje općeg dobra ili nekretnine.
+(5) Upravitelj općeg dobra ili vlasnik nekretnine nema pravo zahtijevati naknadu od operatora korisnika koji se koristi elektroničkom komunikacijskom infrastrukturom i povezanom opremom infrastrukturnog operatora na temelju sklopljenog ugovora iz članka 30. stavka 2. ovoga Zakona, i to na jednak način i uz jednake uvjete kao i infrastrukturni operator.

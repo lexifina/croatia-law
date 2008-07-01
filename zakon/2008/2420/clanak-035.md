@@ -1,0 +1,18 @@
+## VI. UNIVERZALNE USLUGE
+## Opseg univerzalnih usluga
+# Članak 35.
+(1) Univerzalne usluge moraju biti dostupne svim krajnjim korisnicima usluga po pristupačnoj cijeni na cijelom području Republike Hrvatske, na temelju razumnog zahtjeva, neovisno o njihovoj zemljopisnoj lokaciji. Univerzalne usluge pružaju se uz uvažavanje načela objektivnosti, transparentnosti, razmjernosti i nediskriminacije te uz što manje narušavanje tržišnog natjecanja.
+(2) Univerzalne usluge iz stavka 1. ovoga članka obuhvaćaju jednu ili više sljedećih usluga:
+1. pristup javnoj telefonskoj mreži i javno dostupnim telefonskim uslugama na nepokretnoj lokaciji, što omogućuje krajnjim korisnicima usluga slanje i primanje mjesnih, međumjesnih (nacionalnih) i međunarodnih telefonskih poziva, komunikaciju putem telefaksa i podatkovnu komunikaciju, uz brzine prijenosa podataka koje omogućuju djelotvoran pristup internetu, uzimajući u obzir raširene tehnologije kojima se koristi većina pretplatnika, kao i tehnološku ostvarivost,
+2. pristup krajnjih korisnika usluga najmanje jednom sveobuhvatnom imeniku svih pretplatnika javno dostupnih telefonskih usluga, u obliku koji je odobrila Agencija, a koji može biti tiskani i/ili elektronički, te se mora redovito obnavljati u skladu s odredbama članka 47. ovoga Zakona,
+3. pristup krajnjih korisnika usluga, uključujući i korisnike javnih telefonskih govornica, službi davanja obavijesti (informacija) o brojevima pretplatnika u skladu s odredbama članka 47. ovoga Zakona,
+4. postavljanje javnih telefonskih govornica na javnim mjestima dostupnim u svako doba, u skladu s razumnim potrebama krajnjih korisnika usluga u pogledu zemljopisne pokrivenosti, kakvoće usluge, broja javnih telefonskih govornica i njihove dostupnosti osobama s invaliditetom,
+5. posebne mjere za osobe s invaliditetom, uključujući pristup hitnim službama, službi davanja obavijesti (informacija) o brojevima pretplatnika i imeniku pretplatnika, na jednak način kakvim pristupaju drugi krajnji korisnici usluga, te primjeren izbor operatora koji su dostupni većini krajnjih korisnika usluga,
+6. posebne cjenovne sustave prilagođene potrebama socijalno ugroženih skupina krajnjih korisnika usluga.
+(3) Cijena pojedine univerzalne usluge mora biti pristupačna i istovjetna na cijelom području na kojem određeni operator pruža tu univerzalnu uslugu. Cijene univerzalnih usluga iz stavka 2. točke 6. ovoga članka moraju uvažavati pristupačnost za socijalno ugrožene skupine krajnjih korisnika usluga.
+(4) Agencija prati razvoj i razinu maloprodajnih cijena univerzalnih usluga iz stavka 2. ovoga članka, osobito u odnosu na potrošačke cijene i prihode. Operatori univerzalnih usluga iz stavka 2. ovoga članka moraju pribaviti prethodno odobrenje Agencije za maloprodajne cijene tih usluga. O zahtjevu za davanje prethodnog odobrenja Agencija će odlučiti u roku od 30 dana od dana zaprimanja tog zahtjeva.
+(5) Agencija može obvezati operatore univerzalnih usluga u postupku iz članka 36. ovoga Zakona na sljedeće:
+- da osiguraju sustave plaćanja unaprijed za pristup javnoj telefonskoj mreži i korištenje javno dostupnih telefonskih usluga,
+- da potrošačima omoguće obročno plaćanje priključka na javnu telefonsku mrežu.
+(6) Operatori univerzalnih usluga moraju objavljivati na prikladan i javno dostupan način najnovije i odgovarajuće obavijesti i podatke o uvjetima pružanja univerzalnih usluga te ih redovito dostavljati Agenciji.
+(7) Način i uvjeti pružanja te mjerila kakvoće univerzalnih usluga, kao i sadržaj, oblik i način objavljivanja obavijesti i podataka iz stavka 6. ovoga članka mogu se pobliže propisati pravilnikom koji donosi Vijeće Agencije.

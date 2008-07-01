@@ -1,0 +1,6 @@
+## XII. ZAŠTITA PODATAKA I SIGURNOST ELEKTRONIČKIH KOMUNIKACIJA
+## Sigurnost elektroničkih komunikacijskih mreža i usluga
+# Članak 99.
+(1) Operatori javnih komunikacijskih usluga moraju poduzeti odgovarajuće tehničke i ustrojstvene mjere kako bi se zaštitila sigurnost njihovih usluga, a zajedno s operatorima javnih komunikacijskih mreža poduzimaju potrebne mjere radi zaštite sigurnosti elektroničke komunikacijske mreže. Poduzete mjere moraju osigurati razinu sigurnosti koja odgovara postojećoj razini opasnosti za sigurnost mreže, vodeći računa o raspoloživim tehničkim i tehnološkim rješenjima i troškovima tih mjera.
+(2) U slučaju osobite opasnosti za sigurnost mreže operator javno dostupnih elektroničkih komunikacijskih usluga mora obavijestiti korisnike svojih usluga o toj opasnosti. Ako je opasnost izvan opsega mjera koje poduzima operator javno dostupnih elektroničkih komunikacijskih usluga, korisnici usluga moraju biti obaviješteni i o raspoloživim mjerama za uklanjanje opasnosti i/ili njezinih posljedica, uključujući i naznaku mogućih troškova takvih mjera.
+(3) Operator javno dostupnih elektroničkih komunikacijskih usluga obvezan je odrediti odgovornu osobu za provedbu mjera iz ovoga članka.

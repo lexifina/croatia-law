@@ -1,0 +1,3 @@
+# Članak 128.
+(1) Danom stupanja na snagu ovoga Zakona Agencija će po službenoj dužnosti započeti provedbu postupaka iz članka 52. stavka 1. ovoga Zakona, vodeći pritom osobito računa o stanju na tržištu elektroničkih komunikacijskih mreža i usluga u Republici Hrvatskoj te o mjerodavnoj preporuci Komisije o mjerodavnim tržištima podložnima prethodnoj regulaciji.
+(2) Do završetka postupaka iz stavka 1. ovoga članka i određivanja, zadržavanja, izmjene ili ukidanja regulatornih obveza operatorima sa značajnom tržišnom snagom u skladu s odredbama ovoga Zakona, ostaju na snazi i primjenjuju se sve regulatorne obveze koje su određene ili propisane tim operatorima na temelju propisa koji su važili do stupanja na snagu ovoga Zakona.

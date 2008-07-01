@@ -1,0 +1,15 @@
+## Provjera načina upravljanja radiofrekvencijskim spektrom
+# Članak 85.
+(1) Agencija obavlja redovitu provjeru načina upravljanja radiofrekvencijskim spektrom putem javne rasprave kako bi se svim zainteresiranim stranama omogućilo davanje mišljenja, primjedaba i prijedloga u vezi s postojećim načinom upravljanja radiofrekvencijskim spektrom.
+(2) U obavljanju provjere iz stavka 1. ovoga članka, koja može obuhvatiti cijeli radiofrekvencijski spektar ili samo odabrane radiofrekvencijske pojase, Agencija surađuje s Ministarstvom, a u slučaju provjere radiofrekvencijskih pojaseva za potrebe radiodifuzije, surađuje i s tijelom nadležnim za elektroničke medije.
+(3) Agencija obavlja provjeru cijeloga radiofrekvencijskog spektra najmanje jedanput godišnje, a provjeru odabranih radiofrekvencijskih pojasa prema potrebi.
+(4) Javna rasprava u okviru postupka provjere iz stavka 1. ovoga članka provodi se o prijedlogu izmjena i dopuna Tablice namjene radiofrekvencijskog spektra, planova dodjele radijskih frekvencija i pravilnika iz članka 84. stavka 1. točke 2. ovoga Zakona.
+(5) Prigodom izrade prijedloga izmjena i dopuna akata iz stavka 4. ovoga članka, koje objavljuju radi provedbe javne rasprave u skladu sa člankom 22. ovoga Zakona, Agencija i Ministarstvo moraju osobito voditi računa o sljedećem:
+- usklađivanju namjene radiofrekvencijskog spektra na europskoj i međunarodnoj razini,
+- razvoju tehnologije,
+- mogućem učinku predloženih izmjena i dopuna na tržišta elektroničkih komunikacija,
+- mogućem utjecaju predloženih izmjena i dopuna na gospodarsku vrijednost radiofrekvencijskog spektra, i to osobito radijskih frekvencija za koje su već izdane dozvole,
+- mogućem utjecaju predloženih izmjena i dopuna Tablice namjene radiofrekvencijskog spektra na odgovarajuće izmjene i dopune planova dodjele radijskih frekvencija te pravilnika iz članka 82. stavka 4. i članka 84. stavka 1. točke 2. ovoga Zakona.
+(6) Pri konačnom utvrđivanju prijedloga izmjena i dopuna Tablice namjene radiofrekvencijskog spektra i donošenju planova dodjele radijskih frekvencija Agencija će osobito voditi računa o mišljenjima, primjedbama i prijedlozima zaprimljenim tijekom javne rasprave, poštujući pritom načela objektivnosti, transparentnosti, razmjernosti i nediskriminacije te regulatorna načela i ciljeve iz članka 5. ovoga Zakona.
+(7) Pri donošenju izmjena i dopuna Pravilnika o namjeni radiofrekvencijskog spektra i pravilnika iz članka 84. stavka 1. točke 2. ovoga Zakona ministar će osobito voditi računa o prijedlogu Agencije iz stavka 6. ovoga članka te o mišljenjima, primjedbama i prijedlozima zaprimljenim tijekom javne rasprave, poštujući pritom načela objektivnosti, transparentnosti, razmjernosti i nediskriminacije te regulatorna načela i ciljeve iz članka 5. ovoga Zakona.
+(8) Vijeće Agencije će, prema potrebi, uskladiti pravilnik iz članka 82. stavka 4. ovoga Zakona s izmjenama i dopunama pravilnika iz stavka 7. ovoga članka, vodeći pritom računa o mišljenjima, primjedbama i prijedlozima zaprimljenim tijekom javne rasprave.

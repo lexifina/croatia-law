@@ -1,0 +1,7 @@
+# Članak 103.
+(1) Operator javnih komunikacijskih usluga, koji nudi mogućnost prikaza pozivajućeg broja, mora omogućiti korisniku usluga, koji je uputio poziv, jednostavno i besplatno sprječavanje prikaza njegova broja za svaki pojedinačni poziv ili za sve pozive.
+(2) Operator javnih komunikacijskih usluga iz stavka 1. ovoga članka mora omogućiti pozvanom pretplatniku jednostavno i besplatno sprječavanje prikaza pozivajućeg broja kod dolaznih poziva, uz razumnu uporabu ove mogućnosti.
+(3) Operator javnih komunikacijskih usluga iz stavka 1. ovoga članka, kod kojeg se pozivajući broj prikazuje prije uspostave poziva, mora omogućiti pozvanom pretplatniku jednostavan način odbijanja dolaznih poziva u slučaju kada je prikaz pozivajućeg broja spriječio pretplatnik ili korisnik usluga koji je uputio poziv.
+(4) Operator javnih komunikacijskih usluga, koji nudi mogućnost prikaza broja koji je povezan, mora omogućiti pozvanom pretplatniku jednostavno i besplatno sprječavanje prikaza broja koji je povezan s pozivajućim korisnikom usluga.
+(5) Odredbe ovoga članka primjenjuju se i na dolazne i odlazne pozive prema drugim državama.
+(6) Operatori javno dostupnih elektroničkih komunikacijskih usluga, koji nude mogućnost prikaza pozivajućeg broja i/ili s njim povezanog broja, moraju obavijestiti javnost, na prikladan i javno dostupan način, o tim uslugama i njihovim mogućnostima iz stavka 1., 2., 3. i 4. ovoga članka.

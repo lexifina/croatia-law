@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Sadržaj Zakona
+# Članak 1.
+Ovim se Zakonom uređuje područje elektroničkih komunikacija, i to korištenje elektroničkih komunikacijskih mreža i pružanje elektroničkih komunikacijskih usluga, pružanje univerzalnih usluga te zaštita prava korisnika usluga, gradnja, postavljanje, održavanje i korištenje elektroničke komunikacijske infrastrukture i povezane opreme, uvjeti tržišnog natjecanja te prava i obveze sudionika na tržištu elektroničkih komunikacijskih mreža i usluga, adresiranje, numeriranje i upravljanje radiofrekvencijskim spektrom, digitalni radio i televizija, zaštita podataka i sigurnost elektroničkih komunikacija te obavljanje inspekcijskog i stručnog nadzora i kontrole u elektroničkim komunikacijama, kao i osnivanje nacionalnog regulatornog tijela za elektroničke komunikacije i poštanske usluge, njegovo ustrojstvo, djelokrug i nadležnosti te postupak donošenja odluka i rješavanja sporova u elektroničkim komunikacijama.
