@@ -1,0 +1,4 @@
+# Članak 14.
+Iznimke
+1) Meso domaćih svinja može se uvoziti iz trećih zemalja bez obavljene pretrage iz članka 13. ovoga Pravilnika pod uvjetom da dolazi sa gospodarstva, s područja treće zemlje koje je službeno priznato od Europske unije kao slobodno od trihineloze u skladu s člankom 12. Pravilnika o službenim kontrolama hrane životinjskog podrijetla (»Narodne novine«, br 99/07),4 na temelju zahtjeva nadležnog tijela te zemlje i sa priloženim izvješćem Europskoj komisiji koje dokazuje da su ispunjeni zahtjevi iz Poglavlja I. Priloga IV. ovoga Pravilnika.
+2) Meso domaćih svinja može se uvoziti bez obavljene pretrage iz članka 13. ovoga Pravilnika, pod uvjetom da je prethodno podvrgnuto postupku zamrzavanja u skladu s Prilogom I. ovoga Pravilnika, a pod nadzorom nadležnog tijela zemlje izvoznice.
