@@ -1,0 +1,3 @@
+# Članak 1.
+Poslodavci i sindikati suglasno utvrđuju da su 1. srpnja 2008. godine sklopili Kolektivni ugovor za HEP grupu (objavljen u Biltenu broj: 191 od 8. srpnja 2008. godine) te da je člankom 140. Kolektivnog ugovora ugovorena njegova primjena od 1. srpnja 2008. godine do 30. lipnja 2010. godine.
+Uvažavajući gospodarsko-socijalno okruženje u kojem se odvijaju pregovori radi sklapanja novog kolektivnog ugovora za HEP grupu, poslodavci i sindikati suglasni su u procjeni da do isteka roka na koji je sklopljen Kolektivni ugovor za HEP grupu, tj. do 30. lipnja 2010. godine pregovori neće biti okončani i da će se nastaviti i tijekom srpnja 2010. godine.
