@@ -1,0 +1,5 @@
+PRILOG 1.
+KRITERIJI ZA ODREĐIVANJE INDIVIDUALNE KVOTE PO KORISNIKU
+1. Polazni kriterij kod određivanja individualne kvote po korisniku za vrijeme trajanja ove Odluke je članak 6. Pravilnika o primjeni Zakona o posebnom porezu na naftne derivate (Narodne novine, broj 179/2003), što se odnosi na eurodizel-dizelsko gorivo obojeno plavom bojom, kojim se propisuju količine goriva po kulturama i jedinicama.
+2. U poljoprivredi, individualna kvota za razdoblje od 1. srpnja 2008 do 31. prosinca 2008. godine iznosi 60% godišnje kvote koja bi korisniku pripadala temeljem kriterija definiranih pokazateljima potrošnje eurodizel-dizelskog goriva obojenog plavom bojom kako su oni navedeni u Tablici 1. Pravilnika.
+3. U ribarstvu i akvakulturi, individualna kvota za razdoblje od 1. srpnja 2008. do 31. prosinca 2008. iznosi 60% godišnje kvote koja bi korisniku pripala temeljem kriterija definiranih pokazateljima potrošnje eurodizel-dizelskog goriva obojenog plavom bojom kako su oni navedeni u Tablici 1. Pravilnika i to sukladno Knjižici goriva i očevidniku/izvješću o ulovu/uzgoju za 2007. godinu.
