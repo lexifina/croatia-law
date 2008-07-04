@@ -1,0 +1,3 @@
+# Članak 14.
+Mentor za provođenje specijalizacije u pojedinim stručnim dijelovima programa mora biti specijalist u određenom području, zaposlen u ustanovi u kojoj se provodi specijalizacija ili magistar farmacije privatne prakse ili magistar farmacije zaposlen kod magistra farmacije privatne prakse kod kojeg se provodi specijalizacija, s najmanje 3 godine staža na poslovima koji su dio plana i programa specijalizacije.
+Mentora za provođenje specijalizacije u pojedinim stručnim dijelovima programa predlaže stručno tijelo ustanove, magistar farmacije privatne prakse, odnosno proizvođač lijekova.
