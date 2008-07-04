@@ -1,0 +1,3 @@
+# Članak 7.
+Prijedlog za odobrenje specijalizacije, ministarstvu podnosi zdravstvena ustanova kod koje je magistar medicinske biokemije u radnom odnosu, trgovačko društvo koje obavlja zdravstvenu djelatnost, magistar medicinske biokemije privatne prakse ili magistar medicinske biokemije privatne prakse kod kojeg je magistar medicinske biokemije u radnom odnosu, odnosno tijelo/pravna osoba iz članka 5. stavka 2. ovoga Pravilnika.
+Prilikom dostave prijedloga za odobrenje specijalizacije iz stavka 1. ovoga članka, ministarstvu je potrebno dostaviti dokumentaciju o ispunjavanju uvjeta iz članka 6. ovoga Pravilnika.
