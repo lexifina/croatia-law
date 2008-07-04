@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 4. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2008. godinu (»Narodne novine«, broj 28/2008), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2008. godine donijela

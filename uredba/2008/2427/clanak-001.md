@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom propisuje se obvezni sadržaj zahtjeva za davanje prethodne suglasnosti za sklapanje ugovora o javno-privatnom partnerstvu po modelu privatne financijske inicijative za projekte jedinica lokalne i područne (regionalne) samouprave, ustanova čiji je osnivač jedinica lokalne i područne (regionalne) samouprave i trgovačkih društava u većinskom vlasništvu jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: projekt), obvezni prilozi uz zahtjev te način izvještavanja o izvršavanju sklopljenih ugovora.
