@@ -1,0 +1,7 @@
+# Članak 16.
+Sektor za pravosudnu upravu obavlja poslove koji se odnose na izradu okvirnih mjerila te utvrđivanje broja sudaca i zamjenika državnih odvjetnika kao i administrativne i tehničke poslove u postupku imenovanja pravosudnih dužnosnika. Obavlja poslove vezane za davanje prethodne suglasnosti za utvrđivanje broja službenika i namještenika i vježbenika u sudovima i državnim odvjetništvima. Izrađuje prijedlog odluka o materijalnim pravima pravosudnih dužnosnika i stručne poslove koji se odnose na radnopravna i statusna pitanja službenika i namještenika u pravosudnim tijelima. Izrađuje prijedloge odluka kojim se pravosudnim tijelima daju upute ili tumačenja za zakonito i pravilno obavljanje poslova pravosudne uprave i prijedloge odluka kojima se poništavaju ili ukidaju nezakoniti ili nepravilni akti donijeti u obavljanju poslova pravosudne uprave. Osigurava sve organizacijske i kadrovske preduvjete za održavanje pravosudnog ispita, državnog stručnog i posebnih stručnih ispita. Brine o osiguranju pravosudnih tijela. Obavlja i druge poslove u vezi sa svojim utvrđenim djelokrugom koje mu povjeri ministar i ravnatelj Uprave.
+Za obavljanje poslova iz djelokruga Sektora za kadrove u pravosudnim tijelima ustrojavaju se sljedeći odjeli:
+3.2.1. Odjel za kadrove u pravosudnim tijelima
+3.2.2. Odjel osiguranja pravosudnih tijela
+3.2.3. Odjel za racionalizaciju mreže sudova i državnih odvjetništava.
+3.2.1. Odjel za kadrove u pravosudnim tijelima

@@ -1,0 +1,7 @@
+# Članak 67.
+Sektor investicijskih poslova i nabave obavlja upravne i stručne poslove vezane za planiranje potreba i organiziranje nabave i skladištenja opreme i materijala za potrebe Ministarstva, pravosudnih tijela i kaznenih tijela, kontrolu i nadzor nad propisanom i namjenskom uporabom i smještajem opreme, sudjelovanje u izradi državnog proračuna, financijskih planova i programa po korisnicima i namjenama, ispitivanje tržišta, prikupljanje i obrada ponuda, vođenje potrebne dokumentacije, usklađivanje stanja s materijalnim knjigovodstvom, obavlja upravne i stručne poslove vezane za planiranje izgradnje, adaptacije i investicijskog održavanja poslovnih objekata Ministarstva, pravosudnih i kaznenih tijela, osim poslova koji se odnose na kapitalna ulaganja u novu mrežu pravosudnih tijela; daje prijedloge za potrebnim sredstvima za realizaciju projekata iz djelokruga rada, organizira stručne i administrativno-tehničke poslove na realizaciji izgradnje i adaptacije objekata, provodi nadzor nad izvođenjem radova, ovjerava račune i obračunske situacije izvedenih radova, prikuplja i obrađuje ponude, vodi evidencije, te obavlja i druge poslove koje mu povjeri ministar i ravnatelj Uprave.
+Za obavljanje poslova iz djelokruga Sektora investicijskih poslova i nabave ustrojavaju se sljedeći odjeli:
+9.2.1. Odjel investicijskih poslova
+9.2.2. Odjel materijalnog poslovanja i nabave
+9.2.3. Odjel za provedbu postupaka javne nabave i ugovaranje.
+9.2.1. Odjel investicijskih poslova

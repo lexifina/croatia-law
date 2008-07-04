@@ -1,0 +1,6 @@
+# Članak 21.
+Odjel zaprima i analizira izvješća o radu pravosudnih tijela u poslovima sudske i državnoodvjetničke uprave. Predlaže godišnji plan nadzora nad obavljanjem poslova pravosudne uprave u sudovima, provodi nadzor te izrađuje izvješća nakon svakog provedenog nadzora.
+U obavljanju nadzora državnoodvjetničke uprave u državnim odvjetništvima traži izvješća i podatke od Glavnog državnog odvjetnika te iste prati i analizira.
+Po potrebi i u skladu sa Zakonom o državnom odvjetništvu može i neposredno tražiti od državnih odvjetništava podatke o poslovima pravosudne uprave iz djelokruga rada tog državnog odvjetništva, koji su mu potrebni radi nadzora, te u tom dijelu obavljati i izravan uvid u rad državnih odvjetništava i tražiti izvješća o nepostupanju u pojedinim predmetima.
+Krajem kalendarske godine izrađuje izvješće o svim provedenim nadzorima tijekom godine. Izrađuje prijedloge odluka kojima se pravosudnim tijelima daju upute ili tumačenja za zakonito i pravilno obavljanje poslova pravosudne uprave i prijedloge odluka kojima se poništavaju ili ukidaju nezakoniti ili nepravilni akti donijeti u obavljanju poslova pravosudne uprave. Obavlja druge poslove u vezi s nadzorom nad obavljanjem poslova pravosudne uprave u sudovima koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+3.3.2. Odjel za predstavke i pritužbe

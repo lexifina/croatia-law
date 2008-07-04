@@ -1,0 +1,3 @@
+# Članak 65.
+Odjel riznice obavlja upravne i stručne poslove vezane za implementaciju u sustav državne riznice za pravosudna i kaznena tijela, prati propise iz djelokruga državne riznice, obavlja nadzor nad provedbom riznice kod korisnika iz Razdjela Ministarstva, izrađuje upute za implementaciju državne riznice za korisnike Razdjela Ministarstva, priprema i kontrolira ispravnost dokumentacije prije unosa u sustav riznice, vodi brigu o rokovima za podnošenje rezervacija i zahtjeva za plaćanje iz sustava riznice, te obavlja i druge poslove iz svoga područja koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+9.1.3. Odjel računovodstveno-financijskih poslova

@@ -1,0 +1,3 @@
+# Članak 80.
+Odjel za informacijske tehnologije određuje standarde i norme IT opreme i usluga, izrađuje pravilnike vezane uz korištenje informatičkih resursa pravosuđa, prati razvoj informacijskih tehnologija u funkciji pravosuđa, prati potrebe te inicira nabavu i implementaciju nove opreme i programa, nadzire stabilnost i sigurnost informatičkog sustava te korištenja i održavanja opreme, koordinira rad davatelja usluga održavanja sistemske podrške za opremu i mreže Ministarstva, pravosudnih i kaznenih tijela, organizira održavanje informatičke opreme za potrebe Ministarstva, te obavlja i druge poslove koje mu povjeri ministar i ravnatelj Uprave.
+11.3. Odjel za informatičku potporu

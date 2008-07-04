@@ -1,0 +1,4 @@
+## III. DJELOKRUG I USTROJSTVO UPRAVNIH ORGANIZACIJA U SASTAVU MINISTARSTVA I UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET MINISTRA
+# Članak 4.
+Kabinet ministra je posebna ustrojstvena jedinica Ministarstva koja za ministra i državne tajnike kontaktira s upravnim organizacijama i unutarnjim ustrojbenim jedinicama u svezi s predstavkama i pritužbama građana, sudjeluje u pripremi protokolarnih obveza ministra, ministrovih putovanja, koordinira poslove u svezi s odnosima sa sredstvima javnog priopćavanja, koordinira poslove vezane uz ostvarenje plana i programa aktivnosti ministra i državnih tajnika, poslove u svezi s praćenjem rada Vlade Republike Hrvatske i Hrvatskog sabora i njihovih tijela, obavlja druge stručne i administrativne poslove u svezi s ostvarivanjem programa rada i djelovanja ministra i državnih tajnika po nalogu ministra.

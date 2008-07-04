@@ -1,0 +1,3 @@
+# Članak 66.
+Odjel računovodstveno-financijskih poslova obavlja upravne i stručne poslove vezane uz izradu obračuna, analitičkih kontnih planova, kontiranje, knjiženje i kontroliranje knjigovodstvene dokumentacije, obračun plaća i ostalih primanja dužnosnika, državnih službenika i namještenika, obavljanje gotovinskih i bezgotovinskih plaćanja svih obveza, vođenje svih potrebnih knjigovodstvenih evidencija i statistika iz financijskog i materijalnog poslovanja, te obavlja i druge poslove iz ovog područja koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+9.2. Sektor investicijskih poslova i nabave

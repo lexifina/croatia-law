@@ -1,0 +1,3 @@
+# Članak 32.
+Odjel za drugostupanjske upravne postupke provodi drugostupanjske postupke izvlaštenja i naknade za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine, te ostale drugostupanjske postupke, provodi upravni nadzor nad radom tijela državne uprave u županijama i upravnim tijelima u Gradu Zagrebu nadležnim za imovinskopravne poslove u skladu sa zakonom i druge poslove koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+Za obavljanje poslova Odjela ustrojavaju se posebne područne jedinice sa sjedištem u Splitu, Rijeci, Osijeku i Varaždinu. Poslove u područnoj jedinici obavljaju samostalni izvršitelji.

@@ -1,0 +1,3 @@
+# Članak 50.
+Odjel za bilateralnu suradnju prati, proučava, koordinira i unapređuje odnose Republike Hrvatske u području pravosuđa na bilateralnoj razini; sudjeluje zajedno s mjerodavnim ministarstvima u pregovorima o bilateralnim ugovorima iz područja pravosuđa, izrađuje posebne informacije, izvješća i analize iz područja pravosudne bilaterale; sudjeluje u pripremi i izradi međunarodnih ugovora i zakona, prikuplja podatke o pruženoj razvojnoj pomoći trećim državama iz područja pravosuđa, obavlja tehničke i administrativne poslove vezane uz upućivanje pravosudnih dužnosnika u mirovne misije, i druge poslove iz svog djelokruga koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+7.1.2. Odjel za multilateralnu suradnju

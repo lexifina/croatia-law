@@ -1,0 +1,3 @@
+# Članak 69.
+Odjel materijalnog poslovanja i nabave obavlja upravne i stručne poslove vezane za planiranje potreba i organiziranje nabave i skladištenja opreme i materijala za potrebe Ministarstva, pravosudnih tijela i kaznenih tijela, kontrolu i nadzor nad propisanom i namjenskom uporabom i smještajem opreme, sudjeluje u izradi državnog proračuna, financijskih planova i programa po korisnicima i namjenama, ispituje tržište, vodi potrebne dokumentacije, usklađuje stanja s materijalnim knjigovodstvom, te obavlja i druge poslove koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+9.2.3. Odjel za provedbu postupaka javne nabave i ugovaranje

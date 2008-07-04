@@ -1,0 +1,3 @@
+# Članak 79.
+Odjel za razvoj informacijskog sustava vodi i nadzire projekte informatizacije Ministarstva, pravosudnih i kaznenih tijela, analizira korisničke potrebe za informatizacijom poslovnih procesa, predlaže, pripreme i radi reinženjering poslovnih procesa u svrhu učinkovitije informatizacije, kontaktira s tvrtkama davateljima IT usluga koje se bave izradom softvera s ciljem izrade složenijih programskih rješenja, samostalno razvija jednostavnija programska rješenja, organizira informatičku edukaciju djelatnika pravosuđa te obavlja i druge poslove koje mu povjeri ministar i ravnatelj Uprave.
+11.2. Odjel za informacijske tehnologije

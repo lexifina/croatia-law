@@ -1,0 +1,7 @@
+# Članak 73.
+Sektor za pravne poslove i ljudske resurse obavlja pravne i stručne poslove u svezi s provedbom zakona i drugih propisa iz područja radnopravnih odnosa: daje stručna mišljenja i objašnjenja u svezi s primjenom i provedbom zakona, prati i osigurava primjenu zakona i drugih propisa iz iste oblasti, daje stručna mišljenja i objašnjenja u svezi s primjenom i provedbom zakona iz drugih oblasti. Obavlja poslove vezane za status stanova na kojima je postojalo stanarsko pravo. Upravlja, brine i vodi evidenciju o stanovima u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo pravosuđa. Obavlja poslove planiranja i upravljanja kadrovima u državnoj službi, obavlja upravne i stručne poslove koji se odnose na planiranje i zapošljavanje, praćenje stanja i predlaganje mjera za unapređenje upravljanja kadrovima u državnoj službi. Obavlja upravno-pravne poslove u svezi prijama u državnu službu, rasporeda na radna mjesta, vodi osobni očevidnik državnih službenika i namještenika, sudjeluje u izradi i realizaciji programa stručnog usavršavanja i osposobljavanja službenika i namještenika, obavlja poslove pisarnice, druge upravno-stručne i uredske poslove, poslove zaštite na radu, te i druge poslove koje mu povjeri ministar i tajnik Ministarstva.
+Za obavljanje poslova iz djelokruga Sektora za pravne poslove i ljudske resurse ustrojavaju se sljedeći odjeli:
+10.1.1. Odjel za pravne poslove
+10.1.2. Odjel za službeničke odnose i opće poslove
+10.1.3. Odjel za razvoj i upravljanje kadrovima.
+10.1.1. Odjel za pravne poslove

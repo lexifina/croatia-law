@@ -1,0 +1,7 @@
+# Članak 42.
+Sektor za Europsku uniju obavlja stručne poslove vezane uz vođenje dijaloga s institucijama Europske unije u dijelu koji se odnosi na pravosuđe, a posebice u pogledu pitanja koja iz nadležnosti Ministarstva ulaze u kriterije za članstvo u Europskoj uniji, priprema materijale te sudjeluje u radu zajedničkih tijela osnovanih temeljem Sporazuma o stabilizaciji i pridruživanju, te koordinira izradu izvješća o ostvarenom napretku na provođenju reformi iz nadležnosti Ministarstva.
+Nadalje, Sektor za Europsku uniju obavlja stručne poslove priprema za usklađivanje pravosudnog sustava s pravnom stečevinom Europske unije (acquis communautaire), koordinira rad ostalih uprava u okviru Ministarstva na poslovima usklađivanja zakonodavstva u područjima iz djelokruga Ministarstva, surađuje s nadležnim domaćim i inozemnim ustanovama u postupku usklađivanja, prati stanje usklađivanja zakonodavstva u područjima iz djelokruga Ministarstva i izrađuje potrebna izvješća i nacrte programa mjera, obavlja poslove usmjerene na razvijanje bilateralnih i multilateralnih odnosa s državama članicama Europske unije u području pravosuđa, pruža informacije javnosti o pitanjima iz nadležnosti Sektora te obavlja i druge poslove koje mu povjeri ministar i ravnatelj Uprave.
+Za obavljanje poslova iz djelokruga Sektora za Europsku uniju ustrojavaju se sljedeći odjeli:
+6.1.1. Odjel za pregovore s Europskom unijom
+6.1.2. Odjel za prilagodbu hrvatskoga pravnog sustava europskome pravnom sustavu.
+6.1.1. Odjel za pregovore s Europskom unijom

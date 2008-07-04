@@ -1,0 +1,3 @@
+# Članak 68.
+Odjel investicijskih poslova obavlja upravne i stručne poslove vezane za planiranje izgradnje, adaptacije i investicijskog održavanja poslovnih objekata Ministarstva, pravosudnih i kaznenih tijela, organizira stručne i administrativno-tehničke poslove na realizaciji izgradnje i adaptacije objekata, provodi nadzor nad izvođenjem radova, ovjerava račune i obračunske situacije izvedenih radova, vodi evidencije, te obavlja i druge poslove, osim kapitalnih ulaganja u novu mrežu pravosudnih tijela, koje mu povjeri ravnatelj Uprave i načelnik Sektora.
+9.2.2. Odjel materijalnog poslovanja i nabave
