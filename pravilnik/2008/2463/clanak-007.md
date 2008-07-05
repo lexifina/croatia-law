@@ -1,0 +1,4 @@
+# Članak 7.
+Početna hrana za dojenčad proizvodi se od izvora bjelančevina koje su određene u točki 2. Priloga I. ovoga Pravilnika i drugih sastojaka hrane za koje je opće prihvaćenim znanstvenim metodama utvrđeno da su primjereni za posebne prehrambene potrebe dojenčadi od njihova rođenja.
+U slučaju kada se početna hrana proizvodi od bjelančevina kravljeg mlijeka određenih u točki 2.1 Priloga I ovoga Pravilnika, a sadržaj bjelančevina je između najmanje vrijednosti i 0,5 g/100 kJ ili 2 g/100 kcal, mora se dokazati primjerenost početne hrane na način propisan ovim Pravilnikom.
+U slučaju kada se početna hrana proizvodi od hidrolizata bjelančevina određenih u točki 2.2 Priloga I. ovoga Pravilnika, a sadržaj bjelančevina je između najmanje vrijednosti 0,56 g/100kJ ili 2,25 g/100 kcal., mora se dokazati primjerenost početne hrane na način propisan ovim Pravilnikom.

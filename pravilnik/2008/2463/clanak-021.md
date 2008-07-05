@@ -1,0 +1,5 @@
+## VI. REKLAMIRANJE POČETNE I PRIJELAZNE HRANE
+# Članak 21.
+Reklamiranje početne hrane ograničava se na publikacije specijalizirane za njegu dojenčadi te stručne publikacije. Reklamiranje početne hrane podliježe uvjetima propisanima u člancima 14., 16. i 17. ovoga Pravilnika i može sadržavati samo stručne podatke i činjenice koji ne smiju podrazumijevati ili stvarati uvjerenje da je hranjenje na bočicu istovrijedno ili bolje od dojenja.
+Zabranjeno je reklamiranje na prodajnim mjestima i davanje uzoraka ili drugog reklamnog materijala za poticanje prodaje početne hrane za dojenčad izravno potrošaču u maloprodaji, kao što su posebno izlaganje, kuponi za popust, darovi, posebne prodaje, ponuda po reklamnim cijenama i vezana prodaja.
+Proizvođači i distributeri početne hrane za dojenčad ne smiju davati široj populaciji, trudnicama, majkama ili članovima njihovih obitelji besplatne proizvode ili proizvode po nižim cijenama, uzorke ili bilo koje druge reklamne darove, neposredno ili posredno putem zdravstvenog sustava ili zdravstvenih djelatnika.
