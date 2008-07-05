@@ -1,0 +1,2 @@
+# Članak 4.
+Novčana sredstva iz članka 3. ovog Pravilnika temelje se na iznosima iz ugovora o prijevozu ukapljenog naftnog plina na otoke, koji moraju biti sastavljeni sukladno Pravilniku o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja u lukama (»Narodne novine« 51/05), a bit će zaključeni između distributera i brodara.

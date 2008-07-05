@@ -1,0 +1,2 @@
+# Članak 6.
+Novčana sredstva iz članka 3. i 4. ovog Pravilnika isplaćivat će se distributeru na temelju dokumentacije koja će garantirati da je ukapljeni naftni plin prevezen na otok pomorskim prometom sukladno Pravilniku o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja u lukama (»Narodne novine« 51/05).

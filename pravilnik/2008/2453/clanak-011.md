@@ -1,0 +1,2 @@
+# Članak 11.
+Nadzor nad provođenjem odredbi ovog Pravilnika vrši Uprava za otočni i priobalni razvoj Ministarstva, te inspektori sigurnosti plovidbe Ministarstva i lučkih kapetanija i drugi stručni djelatnici Ministarstva i lučkih kapetanija u okviru posebnog ovlaštenja na temelju Pravilnika o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja u lukama (»Narodne novine« 51/05).
