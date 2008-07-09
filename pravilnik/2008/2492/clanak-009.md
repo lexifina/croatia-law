@@ -1,0 +1,2 @@
+# Članak 9.
+Kada nadležno tijelo na temelju novih podataka ili procjenom postojećih podataka smatra da je nužna hitna izmjena dodataka I. do IV. ovoga Pravilnika radi zaštite zdravlja ljudi i životinja, može privremeno prestati primjenjivati odnosne odredbe na vlastitom području. U tom slučaju nadležno tijelo mora odmah obavijestiti države članice Europske unije i Europsku komisiju o mjerama i dostaviti izjavu o razlozima za navedeno postupanje.
