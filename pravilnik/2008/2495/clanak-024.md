@@ -1,0 +1,4 @@
+## IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 24.
+Služba za sustav 112 dužna je izvršiti sve potrebne prilagodbe telekomunikacijskih i informatičkih sustava te kriptološku sigurnost i zaštitu podataka, radi usklađivanja poslovanja DUZS-a s odredbama ovoga Pravilnika, u roku od 12 mjeseci od dana stupanja na snagu ovoga Pravilnika.
+Služba zajedničkih poslova dužna je pripremiti sve potrebne štambilje za poslovanje ustrojstvenih jedinica DUZS-a sukladno odredbama Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima i ovoga Pravilnika (»POVJERLJIVO«, »OGRANIČENO«, »NEKLASIFICIRANO«, »KOPIJA«, »RAZMIJENJEN PODATAK«, »ISKLJUČIVO«, »ISTJEK ROKA TAJNOSTI«, »ZABRANJENO UMNOŽAVANJE«, »OBAVEZAN POVRAT NAKON UVIDA«, »OBJAVLJIVO«), u roku od tri mjeseca od dana stupanja na snagu ovoga Pravilnika.
