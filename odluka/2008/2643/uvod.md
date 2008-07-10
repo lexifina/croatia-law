@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 123. stavaka 1., 2., 5. i 10. Zakona o zaštiti potrošača (»Narodne novine«, br. 79/2007 i 125/2007), Vlada Republike Hrvatske je na sjednici održanoj 10. srpnja 2008. godine donijela
