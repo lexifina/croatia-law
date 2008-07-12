@@ -1,0 +1,2 @@
+# Članak 8.
+U cilju izrade godišnjeg Plana zajedničkih aktivnosti svih nadležnih ministarstava i drugih tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru nadležna ministarstva i druga tijela državne uprave čiji predstavnici sudjeluju u radu Stručnog tijela obvezna su planirati i Stručnom tijelu pravodobno dostavljati podatke o plovilima, letjelicama, osoblju financijskim i drugim sredstvima s kojima će sudjelovati u zajedničkim aktivnostima.

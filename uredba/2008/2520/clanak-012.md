@@ -1,0 +1,4 @@
+# Članak 12.
+Područne jedinice koordinacije izrađuju mjesečne planove zajedničkih aktivnosti do dvadesetog u tekućem mjesecu za naredni mjesec, koje potom dostavljaju Stručnom tijelu na usuglašavanje i odobravanje.
+Temeljem odobrenih mjesečnih planova zajedničkih aktivnosti područne jedinice koordinacije vrše operativnu koordinaciju rada svih tijela nadležnih za nadzor i zaštitu prava i interesa Republike Hrvatske na moru u području svoje nadležnosti, pri čemu prikupljaju podatke i analiziraju događaje i pojave interesantne za zaštitu prava i interesa Republike Hrvatske na moru.
+Izvješće o realizaciji mjesečnih planova zajedničkih aktivnosti, zajedno s obrađenim interesantnim događajima i pojavama te prijedlogom mjera poboljšanja nadzora i zaštite prava i interesa Republike Hrvatske na moru, područne jedinice koordinacije dostavljaju Stručnom tijelu najkasnije do desetog u tekućem mjesecu za prethodni mjesec.
