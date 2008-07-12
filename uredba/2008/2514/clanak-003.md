@@ -1,0 +1,3 @@
+# Članak 3.
+Agencija će u ime i za račun pravnih osoba, ovlaštenih po posebnim propisima za građenje i upravljanje prometnom infrastrukturom, obavljati investitorske poslove koji se odnose na pripremu potrebnih studija (isplativosti, zaštite okoliša i dr), ishođenje lokacijskih, građevinskih i uporabnih dozvola, otkup (izvlaštenje) zemljišta, sklapanje ugovora o financiranju, provođenje postupka javne nabave, sklapanje ugovora o projektiranju, građenju i nadzoru, plaćanje ugovorenih radova i usluga, nadzor nad provođenjem projekata, u odnosu na provedbu projekata prometne infrastrukture financiranih iz fondova Europske unije.
+Odluku o promjeni djelatnosti Agencije donosi Upravno vijeće Agencije, uz suglasnost Vlade Republike Hrvatske.
