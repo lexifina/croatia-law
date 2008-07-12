@@ -1,0 +1,3 @@
+# Članak 3.
+Plovila Obalne straže i plovila koja sudjeluju u provedbi planova područnih jedinica koordinacije moraju biti sposobna za plovidbu u skladu s odredbama Pomorskog zakonika i propisima donesenim na temelju Pomorskog zakonika te opremljena uređajima i opremom potrebnom za obavljanje poslova i zadaća iz svoga djelokruga rada.
+Plovila iz stavka 1. ovoga članka pored udovoljavanja tehničkim zahtjevima gradnje i opremanja moraju imati ukrcan najmanji propisani broj članova posade s odgovarajućim svjedodžbama o osposobljenosti i dopunskoj osposobljenosti koje plovilo mora imati za sigurnu plovidbu.
