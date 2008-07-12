@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 38. stavka 1. Zakona o izmjenama i dopunama Zakona o mjeriteljstvu (»Narodne novine«, broj 111/2007), Vlada Republike Hrvatske je na sjednici održanoj 30. lipnja 2008. godine donijela
