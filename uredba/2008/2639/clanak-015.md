@@ -1,0 +1,2 @@
+# Članak 15.
+Osobama koje su stekle odgovarajući akademski ili stručnih naziv odnosno akademski stupanj prije stupanja na snagu Zakona o akademskim i stručnim nazivima i akademskom stupnju (»Narodne novine«, broj 107/2007), stečeni akademski ili stručni naziv odnosno akademski stupanj izjednačava se s odgovarajućim akademskim ili stručnim nazivom ili akademskim stupnjem u skladu s odredbama članka 14. tog Zakona.

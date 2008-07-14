@@ -1,0 +1,1 @@
+Na temelju članka 74. stavka 10. Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 142/2006, 77/2007, 107/2007 i 27/2008), Vlada Republike Hrvatske je na sjednici održanoj 10. srpnja 2008. godine donijela

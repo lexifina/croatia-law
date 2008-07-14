@@ -1,0 +1,2 @@
+# Članak 9.
+U članku 16. stavku 2. riječi »visoka stručna sprema« zamjenjuju se riječima »završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij«, a riječi »stupanj prvostupnika ili stručnog prvostupnika« zamjenjuju se riječima »završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine«.

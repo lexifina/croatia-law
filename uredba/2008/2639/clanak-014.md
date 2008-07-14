@@ -1,0 +1,2 @@
+# Članak 14.
+Službenici koji nemaju srednju stručnu spremu koja je propisana za raspored na radno mjesto na kojemu su zatečeni na dan stupanja na snagu ove Uredbe mogu nakon stupanja na snagu pravilnika iz članka 28. stavka 4. ove Uredbe i dalje obavljati poslove koji odgovaraju poslovima radnog mjesta na kojemu su zatečeni ako na dan stupanja na snagu ove Uredbe imaju više od 20 godina radnog iskustva na odgovarajućim poslovima.
