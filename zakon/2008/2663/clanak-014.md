@@ -1,0 +1,7 @@
+## V. OBRAZOVANJE
+# Članak 14.
+(1) Državno tijelo nadležno za obrazovanje, agencije vezane za odgoj i obrazovanje te ustanove kojima je obrazovanje primarna djelatnost, sustavno će provoditi mjere osiguravanja jednakog pristupa obrazovanju na svim razinama te aktivnosti vezane za stručno usavršavanje i napredovanje u zvanja radnika/ica u odgoju i obrazovanju.
+(2) Sadržaji vezani za pitanja ravnopravnosti spolova predstavljaju integralni dio predškolskog, osnovnoškolskog i srednjoškolskog odgoja i obrazovanja te visokoškolskog obrazovanja, kao i cjeloživotnog obrazovanja i usavršavanja, te uključuju pripremu oba spola za aktivno i ravnopravno sudjelovanje na svim područjima života.
+(3) Sadržaji iz stavka 2. ovoga članka promicat će nediskriminacijska znanja o ženama i muškarcima, uklanjanje neravnopravnosti spolova i rodnih stereotipa u obrazovanju na svima razinama, kao i uvažavanje rodnih aspekata u svim obrazovnim područjima.
+(4) Na svim razinama odgoja i obrazovanja primjereno će se brinuti o ujednačenoj zastupljenosti po spolu u učeničkoj i studentskoj populaciji, a sve odgojno-obrazovne ustanove će posebnu pozornost posvetiti ujednačenoj zastupljenost obaju spolova u upravljačkim strukturama.
+(5) Sve obrazovne ustanove, kao i sve druge, moraju u sadržajima svjedodžbi, certifikata, licencija i diploma koristiti jezične standarde sukladno ovome Zakonu, navodeći strukovne kvalifikacije, zvanja i zanimanja u ženskom, odnosno muškom rodu, ovisno o spolu primatelja/primateljice dokumenta.

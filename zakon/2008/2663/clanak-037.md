@@ -1,0 +1,2 @@
+# Članak 37.
+Odgovorna osoba u državnom tijelu, pravnim osobama s javnim ovlastima, tijelu jedinica lokalne i područne (regionalne) samouprave, pravnim osobama u pretežitom vlasništvu države, odnosno pravnim osobama u vlasništvu jedinica lokalne i područne (regionalne) samouprave koja na zahtjev pravobranitelja/ice za ravnopravnost spolova u roku od 30 dana od dana zaprimanja zahtjeva ne dostavi očitovanja, podatke i dokumente vezane uz diskriminaciju i ne omogući uvid u njih, kaznit će se za prekršaj novčanom kaznom od 1.000,00 do 5.000,00 kuna.

@@ -1,0 +1,2 @@
+# Članak 4.
+Odredbe ovoga Zakona ne smiju se tumačiti niti primjenjivati na način koji bi ograničio ili umanjio sadržaj jamstava o ravnopravnosti spolova koja izviru iz općih pravila međunarodnog prava, pravne stečevine Europske zajednice, Konvencije Ujedinjenih naroda o uklanjanju svih oblika diskriminacije žena, Ugovorima Ujedinjenih naroda o građanskim i političkim pravima odnosno ekonomskim, socijalnim i kulturnim pravima te Europske konvencije za zaštitu ljudskih prava i temeljnih sloboda.
