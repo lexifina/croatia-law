@@ -1,0 +1,3 @@
+## V. ZAVRŠNE ODREDBE
+# Članak 20.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o hrani za posebne prehrambene potrebe (»Narodne novine«, broj 81/2004) osim odredbi koje se odnose na dodatke prehrani, dodatke prehrani za sportaše, hranu sa zdravstvenim tvrdnjama, posebnih odredbi za hranu za posebne medicinske namjene, hranu namijenjenu redukciji tjelesne mase, hranu namijenjenu osobama oboljelim od šećerne bolesti, hranu s malom, smanjenom i/ili izmijenjenom količinom hranjivih sastojaka, hranu sa značajnim sadržajem bogatu i/ili obogaćenu hranjivim sastojcima, hranu sa smanjenom ili povećanom energetskom vrijednošću i hranu bez glutena.
