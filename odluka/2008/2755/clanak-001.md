@@ -1,0 +1,2 @@
+# Članak 1.
+U Poslovniku Hrvatskoga sabora (»Narodne novine«, br. 71/00., 129/00., 117/01. 6/02. - pročišćeni tekst, 41/02., 91/03., 58/04. i 39/08.) u članku 90. na kraju rečenice briše se točka i dodaju riječi: »iz reda zastupnika a još pet članova Odbora može se imenovati i to: jedan znanstveni djelatnik iz područja telekomunikacija, jedan znanstveni djelatnik iz područja pomorstva, jedan stručni djelatnik iz područja željeznica, jedan stručni djelatnik iz područja cestovnog prometa i jedan stručni djelatnik iz područja pošta.«
