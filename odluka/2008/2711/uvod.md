@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 100. i 101. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05) i članka 12. Pravilnika o dozvoljenim ulaganjima i ograničenjima ulaganja otvorenih investicijskih fondova s javnom ponudom (»Narodne novine«, broj 128/07, 32/08 i 79/08), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 10. srpnja 2008. godine
