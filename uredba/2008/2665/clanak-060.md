@@ -1,0 +1,2 @@
+# Članak 60.
+Pododsjek za računovodstvene poslove obrađuje računovodstveno financijsku dokumentaciju, brine se o zakonitoj primjeni materijalno-financijskih propisa, izrađuje mjesečna, tromjesečna, polugodišnja i godišnja financijska izvješća, obavlja prethodnu kontrolu dostavljenih naloga prije isplate, vodi računovodstvene knjige i pomoćne evidencije, evidentira sve poslovne događaje, vodi knjigovodstvo osnovnih sredstava i sitnog inventara.

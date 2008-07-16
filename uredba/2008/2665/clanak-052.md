@@ -1,0 +1,2 @@
+# Članak 52.
+Pododsjek za klasificiranje i arhiviranje dokumenata obavlja stručne poslove prijma, evidentiranja, klasificiranja i prevođenja u elektronički oblik, raspodjele, tijeka te pohranu i arhiviranje ulaznih i izlaznih dokumenata, organizira i provodi zaprimanje podnesaka, obavlja evidentiranje, prevođenje u elektronički oblik i raspodjelu ulaznih i otpremu izlaznih dokumenata, organizira i prati tok dokumenata, prati razvoj u području klasificiranja i arhiviranja dokumenata u drugim relevantnim tijelima.

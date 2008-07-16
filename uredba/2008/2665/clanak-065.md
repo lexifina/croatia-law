@@ -1,0 +1,2 @@
+# Članak 65.
+Pododsjek za nabavu obavlja stručne poslove nabave opreme, sitnog inventara, materijala za tekuće i investicijsko održavanje, uredskog materijala, potrošnog materijala i usluga, sudjeluje u izradi plana nabave, priprema za ovjeru račune za izvršene usluge i nabavljena materijalna sredstva, u suradnji s odgovarajućim stručnim službama priprema i izrađuje ponudbenu dokumentaciju, daje tehničku i stručnu podršku povjerenstvima za nabavu i sudjeluje u njihovom radu, ugovara nabave materijalnih sredstava i usluga, vodi evidencije o postupcima nabave i ugovorima.

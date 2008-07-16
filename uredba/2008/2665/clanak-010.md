@@ -1,0 +1,3 @@
+# Članak 10.
+Odsjek za multilateralnu suradnju i EU koordinira i aktivno sudjeluje u aktivnostima Državne uprave u multilateralnim okruženjima. Posebno prati i pokriva sudjelovanje predstavnika Državne uprave u tijelima NATO-a, Vijeća Europe, Ujedinjenih naroda, Pakta stabilnosti, Vijeća Jugoistočne Europe za civilno-vojno upravljanje u krizama, Srednjeeuropskoj inicijativi, REMPEC-u i obavlja poslove u svezi suradnje Državne uprave s drugim organizacijama i regionalnim inicijativama. Odsjek prati i predlaže usklađivanje ustroja Državne uprave radi postizanja standarda Europske unije. Priprema i sudjeluje na sastancima u tijelima EU.
+2.2. Odsjek za bilateralnu suradnju

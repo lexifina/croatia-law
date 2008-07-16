@@ -1,0 +1,3 @@
+# Članak 39.
+Odsjek izvodi teorijsku, praktičnu i terensku nastavu iz operativnih stručnih predmeta; brine o primjeni mjera i pravila zaštite pri radu kod izvođenja nastave i vježbi; sudjeluje u izradi nastavnih planova i programa školovanja, osposobljavanja i usavršavanja; skrbi o ispravnosti, servisiranju i redovnom održavanju opreme koja se koristi u nastavnom procesu; sudjeluje u izradi godišnjeg plana i programa rada; prati, razvija i primjenjuje stručne i znanstvene metode u području zaštite i spašavanja; poduzima mjere za poboljšanje i unapređenje izvođenja nastave; izvodi pokazne vježbe; sudjeluje u pripremi i izradi stručne literature.
+7.1.2. Odsjek za preventivu i obrazovanje

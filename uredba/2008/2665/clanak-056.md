@@ -1,0 +1,2 @@
+# Članak 56.
+Odsjek pruža stručnu pomoć u provedbi i unapređivanju zaštite na radu, provodi unutarnji nadzor nad primjenom pravila zaštite na radu, predlaže mjere za otklanjanje nedostataka glede zaštite na radu, prati i raščlanjuje podatke u svezi s ozljedama na radu i profesionalnim bolestima te izrađuje godišnje izvješće, sudjeluje pri osposobljavanju povjerenika i zaposlenika za zaštitu na radu, zaprima primjedbe zaposlenika na primjenu propisa i provedbu mjera zaštite na radu.

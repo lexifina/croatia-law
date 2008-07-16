@@ -1,0 +1,3 @@
+# Članak 70.
+Odsjek za investicije i gospodarenje nekretninama obavlja poslove vezane za planiranje izgradnje i adaptaciju objekata, investicijskog održavanja objekata, organiziranje stručnih i administrativno-
+-tehničkih poslova u realizaciji izgradnje i adaptacije objekata, provođenje nadzora nad izvođenjem nadzora nad izvođenjem radova, ovjeravanje računa i obračunskih situacija izvedenih radova, izradu natječajne dokumentacije, prikupljanje i obrada ponuda vezanih za investicijska ulaganja, ugovaranje investicijskih ulaganja, vođenje evidencije imovine koju koristi Državna uprava, organiziranje stručnih i administrativno-tehničkih poslova u realizaciji zakupa objekata, vođenje evidencije poslovnih prostora.
