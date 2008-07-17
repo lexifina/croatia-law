@@ -1,0 +1,3 @@
+# Članak 5.
+Inspektor je samostalan u obavljanju poslova nadzora, u okviru prava i dužnosti koje su utvrđene zakonom, a drugi državni službenici ministarstva nadležnog za socijalnu skrb i stručnjak iz članka 3. ovoga Pravilnika, samostalni su u obavljanju poslova nadzora u okviru prava i dužnosti koje su utvrđene ovlaštenjem iz članka 3. stavka 2. ovoga Pravilnika.
+Inspektori, u obavljanju poslova iz svog djelokruga, surađuju s tijelima državne uprave, a osobito s inspekcijskim službama, radi usklađivanja planova rada, razmjene podataka i iskustava, s ciljem osiguranja provedbe obuhvatnijih i učinkovitijih inspekcijskih nadzora.

@@ -1,0 +1,28 @@
+# Članak 16.
+Sadržaj stručnog nadzora nad pružanjem usluga skrbi izvan vlastite obitelji djeci i mladeži s poremećajima u ponašanju obuhvaća:
+- analizu prijama i adaptacije novih korisnika (zakonska osnova smještaja, propisana dokumentacija),
+- dijagnostiku i opservaciju korisnika,
+- analizu propisane evidencije i dokumentacije,
+- stručne postupke, kompetencije, multidisciplinarni pristup,
+- primjenu načela i principa odgoja, utemeljenost pedagoških postupaka,
+- primjenu programa u radu s korisnicima (primjerenost, ciljevi, metode, sadržaji, uključivanje u različite aktivnosti, trajanje programa),
+- primjenu programa (godišnjih, mjesečnih, za skupinu, individualnih, primjerenost, usmjerenost na osobnost, podupiru li i razvijaju sposobnosti korisnika),
+- kriterije za smještaj u odgojne skupine (struktura korisnika po dobi, spolu, dijagnozama, brojnost skupine),
+- uvid u grupne procese (grupna atmosfera, kohezija, dinamika),
+- efikasnost i trajnost stimulacije razvoja korisnika (emocionalnog, kognitivnog, fizičkog razvoja) kroz primjenu različitih metoda i sadržaja rada,
+- način provođenja slobodnog vremena korisnika,
+- briga o zdravlju (podjela terapije, praćenje općeg zdravstvenog stanja, organizacija pružanja zdravstvene skrbi i njege),
+- uključenost korisnika u obrazovni proces,
+- poštovanje osobnosti i dostojanstva korisnika,
+- upoznavanje korisnika s pravima, pravo na informiranje,
+- sustav discipliniranja i nagrađivanja,
+- kućni red (pravila, dnevni ritam, fleksibilnost),
+- postupak zadržavanja korisnika protiv njegove volje,
+- socijalni razvoj (interakcije s okolinom),
+- postupak pri prekidu smještaja,
+- suradnja s nadležnim centrima za socijalnu skrb i sudovima za mladež,
+- suradnja s roditeljima i drugim članovima obitelji, te njihova uključenost (članova obitelji) u proces resocijalizacije, odgoja,
+- analizu dokumentacije iz koje je razvidan način i oblici suradnje sa centrima za socijalnu skrb, školama, zdravstvenom službom, policijom, nadležnim općinskim odvjetništvom, sudovima i drugim nadležnim tijelima,
+- uključenost vanjskih stručnjaka,
+- edukacije i stručno osposobljavanje radnika i/ili drugih osoba koje pružaju usluge.
+3. Osobe s tjelesnim ili mentalnim oštećenjem
