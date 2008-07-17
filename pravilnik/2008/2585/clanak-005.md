@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Proračunski nadzor obuhvaća pregled i provjeru računovodstvenih, financijskih i ostalih poslovnih dokumenata proračunskih i izvanproračunskih korisnika, nadzor namjenskog korištenja proračunskih sredstava svih pravnih i fizičkih osoba koje dobivaju sredstva iz proračuna i financijskih planova izvanproračunskih korisnika te kreditnih sredstava s osnove jamstva države i jedinica lokalne i područne (regionalne) samouprave.
+(2) Proračunski nadzor jedinica lokalne i područne (regionalne) samouprave i njihovih proračunskih i izvanproračunskih korisnika postupak je nadziranja zakonitosti korištenja proračunskih sredstava.
+(3) U odnosu na izravno ili neizravno doznačena sredstva iz državnog proračuna, proračunski nadzor jedinica lokalne i područne (regionalne) samouprave i njihovih proračunskih i izvanproračunskih korisnika postupak je nadziranja zakonitosti, svrhovitosti i pravodobnosti korištenja proračunskih sredstava.
