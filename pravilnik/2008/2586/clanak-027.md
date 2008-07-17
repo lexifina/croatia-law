@@ -1,0 +1,3 @@
+# Članak 27.
+1) Ako osoblje ili odgovorna osoba klaonice, ili vlasnik klaonice, ili posjednik životinja ili osoba odgovorna za životinje odbija suradnju s nadležnim tijelom i onemogućuje ga pri nadzoru i uzorkovanju potrebnima radi provedbe Plana, kao i pri drugim pregledima u skladu s odredbama ovoga Pravilnika, nadležno tijelo određuju primjerene sankcije i/ili administrativne mjere.
+2) Ako je utvrđeno da vlasnik ili odgovorna osoba klaonice pomaže u prikrivanju nedopuštene uporabe zabranjenih tvari, nadležno tijelo neće odobriti navedenoj osobi, ukoliko zatraži, pomoć Europske unije u razdoblju od sljedećih 12 mjeseci.

@@ -1,0 +1,2 @@
+# Članak 21.
+Veterinarski stručnjaci Europske komisije mogu u suradnji s nadležnim tijelom na licu mjesta obaviti provjere radi utvrđivanja ujednačene provedbe planova i primjene sustava za provjeru planova od strane nadležnog tijela, u mjeri u kojoj je potrebno za osiguranje ujednačene primjene odredaba ovoga Pravilnika. Nadležno tijelo osigurava svu potrebnu pomoć stručnjacima pri obavljanju provjera.

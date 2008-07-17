@@ -1,0 +1,9 @@
+# Članak 24.
+1) Službeni veterinar na klaonice mora:
+1. u slučaju sumnje ili posjedovanja dokaza da su životinje podvrgnute nedopuštenom liječenju ili su im davane nedopuštene tvari ili proizvodi:
+(a) organizirati odvojeno klanje od životinja iz drugih serija koje dolaze u klaonicu;
+(b) zaplijeniti trupove i iznutrice i obaviti sve postupke uzorkovanja potrebne za otkrivanje navedenih tvari;
+(c) u slučaju pozitivnih rezultata analize, trupovi, iznutrice i druga jestiva tkiva odnosnih životinja moraju biti neškodljivo uništeni u odgovarajućim objektima u skladu s Pravilnikom o načinu postupanja s nusproizvodima životinjskog podrijetla koji nisu za prehranu ljudi (»Narodne novine«, broj 56/06)11, bez mogućnosti naknade. U navedenom slučaju primjenjuju se članci 20. - 23. ovoga Pravilnika;
+2. u slučaju sumnje ili posjedovanja dokaza da su životinje liječene odobrenim tvarima, ali nije do vremena obavljanja klanja protekla propisana karencija, odgoditi klanje životinja dok ne utvrdi da količina rezidua ne prelazi dopuštene granice. Odgoda ne može biti kraća od karencije utvrđene člankom 7. Naredbe o zabrani primjene na životinjama određenih beta-agonista te tvari hormonskog i tireostatskog učinka (»Narodne novine«, broj 21/03)12 za odnosne tvari ili od karencije određene odobrenjem za stavljanje u promet;
+3. u slučaju nužde ili kad je potrebno radi dobrobiti životinja, ili ako je infrastruktura ili oprema klaonice takva da se klanje ne može odgoditi, moguće je zaklati životinje prije isteka zabrane ili odgode. Meso i iznutrice se zadržavaju do nalaza službenih kontrola koje obavlja službeni veterinar klaonice. Samo meso i iznutrice čija količina rezidua ne prelazi dopuštene granice može se koristiti se za ljudsku potrošnju;
+4. odrediti neprikladnima za ljudsku potrošnju trupove i proizvode u kojima količina rezidua prelazi dopuštene granice određene važećim propisima.
