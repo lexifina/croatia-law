@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 11.d stavka 3. Zakona o zračnom prometu (»Narodne novine«, br. 132/98, 178/2004 i 46/2007), Vlada Republike Hrvatske je na sjednici održanoj 17. srpnja 2008. godine donijela
