@@ -1,0 +1,9 @@
+# Odbačaj u izbornim sporovima Ustavnog suda Republike Hrvatske broj: U-VIIA-3266/2008 od 18. srpnja 2008.
+
+- Case: `U-VIIA-3266/2008`
+- Decision: Odbačaj u izbornim sporovima
+- Decision date: `2008-07-18`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE53C125748A00322431>
+- Official database page SHA-256: `b7527e63b79548b34dc12097b4ec75e474721bf33bf2fa4b5b48d786250f90b0`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
