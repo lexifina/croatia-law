@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 3., članka 52. stavka 4., članka, članka 55. stavka 5., članka 60. stavka 4., članka 66. stavka 6., članka 67. stavka 3., članka 70. stavka 6. i članka 71. stavka 4. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 140/05, 35/08) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
