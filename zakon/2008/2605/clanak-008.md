@@ -1,0 +1,4 @@
+# Članak 8.
+Članak 30. a mijenja se i glasi:
+»Obveznici poreza na dobit koji obavljaju djelatnost poljoprivrede i ribarstva na području Grada Vukovara i zapošljavaju više od pet zaposlenika u radnom odnosu na neodređeno vrijeme, pri čemu više od 50% zaposlenika ima prebivalište i boravište na području Grada Vukovara ili brdsko-planinskom području ili području posebne državne skrbi, oslobođeni su od plaćanja poreza na dobit do dana prijama Republike Hrvatske u Europsku uniju.
+Smatra se da obveznik poreza iz stavka 1. ovoga članka zapošljava na neodređeno vrijeme zaposlenika ako je zaposlenik proveo u radnom odnosu kod poreznog obveznika i imao prebivalište i boravio na području Grada Vukovara ili brdsko-planinskom području ili području posebne državne skrbi najmanje devet mjeseci u poreznom razdoblju.«
