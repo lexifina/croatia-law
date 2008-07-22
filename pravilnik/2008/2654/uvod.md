@@ -1,0 +1,1 @@
+Na temelju članka 64. stavak 2. podstavak 9. Zakona o obrtu (»Narodne novine« br. 77/93., 90/96., 102/98., 64/01., 71/01. i 68/07.) i članka 23. stavak 1. podstavak 9. Statuta Hrvatske obrtničke komore (»Narodne novine« br. 21/99., 62/02., 158/02., 101/04., 187/04. i 12/06.), Skupština Hrvatske obrtničke komore na svojoj 4. sjednici održanoj 26. lipnja 2008. godine donijela je
