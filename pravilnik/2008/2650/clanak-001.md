@@ -1,0 +1,8 @@
+# Članak 1.
+U Pravilniku o uvjetima za određivanje područja na kojem će se osnivati ljekarne (»Narodne novine«, br. 26/07 i 118/07) članak 6. mijenja se i glasi:
+»Iznimno od odredbi članka 2. ovoga Pravilnika, ljekarna ili podružnica ljekarničke ustanove može se osnovati na području za koje nisu ispunjeni uvjeti iz toga članka ovoga Pravilnika:
+1. ako je međusobna udaljenost zračnom linijom do najbliže ljekarne u općinama, gradovima, odnosno gradskoj četvrti Grada Zagreba veća od 3 kilometra,
+2. ako se ljekarna ili podružnica ljekarničke ustanove osniva u građevini organiziranoj u složenoj građevini s više od 500 stanova ili više od 1000 stanovnika prema pisanoj izjavi investitora ili vlasnika sukladno detaljnom planu uređenja prostora te ako je ispunjen uvjet međusobne udaljenosti zračnom linijom do najbliže postojeće ljekarne od najmanje 500 metara,
+3. ako se ljekarna ili podružnica ljekarničke ustanove osniva u turističkom naselju u kojem se obavlja turistička djelatnost i u kojem postoji mogućnost smještaja od najmanje 1000 gostiju istodobno te ako je ispunjen uvjet međusobne udaljenosti zračnom linijom do najbliže ljekarne od najmanje 1000 metara,
+4. ako se u društveno poticajnoj stanogradnji u pravilu, u višestambenim zgradama i zgradama u nizu s više od 500 stanova ili s više od 1000 stanovnika prema pisanoj izjavi vlasnika ili investitora (Agencija za pravni promet i posredovanje nekretninama) sukladno detaljnom planu uređenja prostora i na temelju Zakona o društveno poticajnoj stanogradnji osniva prva ljekarna ili podružnica ljekarničke ustanove.
+Druga ljekarna na području utvrđenom u stavku 1. točki 4. ovog članka može se osnovati sukladno članku 2. ovog Pravilnika.«
