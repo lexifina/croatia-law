@@ -1,0 +1,7 @@
+# Članak 2.
+Članak 73. mijenja se i glasi:
+»Odjel za cjeloživotno učenje i upravljanje fondovima EU obavlja poslove analize stanja u sustavu redovitoga obrazovanja i obrazovanja odraslih, surađuje s državnim i međunarodnim tijelima i institucijama, priprema programske okvire razvoja sustava, prati i vrednuje programe u okviru sektorske nadležnosti, provodi sve poslove prema predviđenim procedurama za provedbu projekata fondova EU, prati provedbu projekata, izvještava i nadzire tijek provedbe, te usko surađuje sa svim tijelima i institucijama nadležnima za unaprjeđenje sustava obrazovanja putem europskih fondova; pri provedbi i praćenju obavlja i neposredan uvid u kvalitetu provedbe te pruža stručnu pomoć korisnicima projekata u skladu s propisanim procedurama, prati i analizira stanje te predlaže mjere za unaprjeđivanje sustava obrazovanja odraslih, utvrđuje propisane uvjete za obavljanje djelatnosti obrazovanja odraslih, surađuje sa stručnim tijelima, institucijama i ustanovama na izradi strateških okvira i programskih dokumenata za razvoj obrazovanja odraslih, prati i usklađuje međunarodne i nacionalne prioritete u obrazovanju odraslih i nadzire provedbu projekata opismenjavanja. Odjel obavlja i druge poslove koje odredi ministar.
+U Odjelu se ustrojavaju:
+9.3.1. Odsjek za cjeloživotno učenje, pripremu i praćenje programa iz fondova EU
+9.3.2. Odsjek za pripremu i provedbu projekata iz fondova EU
+9.3.3. Odsjek za obrazovanje odraslih.«.
