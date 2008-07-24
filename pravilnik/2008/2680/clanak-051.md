@@ -1,0 +1,7 @@
+## Ocjena ispita i provjera
+# Članak 51.
+(1) Uspješni prolaz na pojedinom ispitu iz članka 15. ovoga Pravilnika, postiže kandidat koji postigne najmanje 75% uspjeh, dok uspješni prolaz na pojedinom ispitu iz članka 25. i 35. ovoga Pravilnika, postiže kandidat koji postigne najmanje 80% uspjeh.
+(2) Kandidatu se priznaje da je uspješno položio ispit iz teorijskog znanja ako je uspješno položio sve dijelove teorijskog ispita u razdoblju od 6 mjeseci od datuma polaganja prvog ispita.
+(3) Ispit iz teorijskog znanja prihvaća se za stjecanje dozvole, ovlaštenja i/ili posebnih ovlasti tijekom 24 mjeseca od dana uspješno položenog ispita.
+(4) Kandidat koji nije položio praktični dio ispita za stjecanje dozvole kontrolora zračnog prometa - studenta, prije ponovnog pristupanja ispitu, mora završiti dodatno osposobljavanje za ovlaštenje, a ako nije položio praktični dio ispita za stjecanje dozvole kontrolora zračnog prometa ili dodatnog ovlaštenja/posebne ovlasti, prije ponovnog pristupa ispitu, mora završiti osposobljavanje za lokaciju.
+(5) Kandidat treba ponoviti cijeli ispit ako nije položio bilo koji predmet iz četiri pokušaja ili ako nije položio ispite u periodu iz stavka 2. ovoga članka. Prije ponovnog polaganja, kandidat za stjecanje dozvole kontrolora zračnog prometa - studenta treba obaviti inicijalno osposobljavanje. U slučaju polaganja ispita za stjecanje dozvole kontrolora zračnog prometa ili dodatnog ovlaštenja/posebne ovlasti, treba obaviti osposobljavanje za lokaciju.
