@@ -1,0 +1,7 @@
+## Odobrenje promjena specifikacije
+# Članak 12.
+(1) Skupina koja ispunjava uvjete iz članka 7. stavka 1., 2. i 3. ovoga Zakona i koja ima pravni interes može zatražiti odobrenje za izmjenu i dopunu specifikacije, posebno da bi se uvažila dostignuća na području znanosti i tehnologije, ili da bi se izmijenilo zemljopisno područje iz članka 6. stavka 2. točke c) ovoga Zakona. U zahtjevu se moraju opisati zatražene izmjene i dopune specifikacije uz obrazloženja.
+(2) Kada izmjene i dopune specifikacije uključuju jednu ili više izmjena i dopuna jedinstvenog dokumenta, podnošenje zahtjeva za izmjenu i dopunu podliježe postupku navedenom u članku 7., 8., 9. i 10. ovoga Zakona. Ukoliko su predložene izmjene i dopune specifikacije manje, Povjerenstvo odlučuje o odobrenju zahtjeva bez primjene postupka iz članka 8. stavka 4. i članka 9. ovoga Zakona, a u slučaju odobrenja Ministarstvo objavljuje podatke iz članka 8. stavka 4. ovoga Zakona.
+(3) Kada izmjene i dopune specifikacije ne uključuju nikakve promjene jedinstvenog dokumenta, Povjerenstvo odlučuje o odobravanju predloženih izmjena i dopuna.
+(4) Kada se izmjena i dopuna specifikacije odnosi na privremenu promjenu specifikacije zbog obveznih sanitarnih ili fitosanitarnih mjera koje su uvela nadležna javna tijela, primjenjuje se postupak iz stavka 3. ovoga članka.
+(5) Ministar provedbenim propisom propisuje uvjete i način postupka podnošenja zahtjeva za izmjenu i dopunu specifikacije te utvrđuje što uključuje veće ili manje izmjene jedinstvenog dokumenta.

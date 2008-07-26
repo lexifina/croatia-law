@@ -1,0 +1,3 @@
+# Članak 52.
+(1) Do donošenja propisa iz članka 4. stavka 5., članka 7. stavka 2. i 6., članka 8. stavka 5., članka 9. stavka 9., članka 10. stavka 3., članka 11. stavka 5., članka 12. stavka 5. i članka 38. stavka 7. ovoga Zakona ostaje na snazi Pravilnik o oznakama izvornosti i oznakama zemljopisnog podrijetla hrane (»Narodne novine«, br. 80/05. i 11/05.).
+(2) Do donošenja propisa iz članka 23. stavka 5., članka 24. stavka 5., članka 25. stavka 10., članka 27. stavka 9. i članka 38. stavka 7. ovoga Zakona ostaje na snazi Pravilnik o priznavanju posebnih svojstava hrane i dodjeli oznake »tradicionalni ugled« (»Narodne novine«, br. 127/05.).
