@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 2. podstavku 3. na kraju rečenice točka se zamjenjuje zarezom i dodaju se podstavci 4., 5., 6. i 7. koji glase:
+»- provoz znači kretanje robe s dvojnom namjenom preko carinskog područja Republike Hrvatske, koja ulazi u područje te se prevozi kroz njega s namjerom njegova napuštanja,
+- brokerske usluge znače pregovaranje ili ugovaranje poslova za kupovinu, prodaju ili nabavu robe s dvojnom namjenom navedenu u propisu iz članka 3. ovoga Zakona iz jedne strane države u bilo koju drugu stranu državu, prodaja i kupovina robe s dvojnom namjenom navedena u propisu iz članka 3. ovoga Zakona koja se nalazi u jednoj stranoj državi za prijenos u drugu stranu državu. U smislu ovoga Zakona brokerskim uslugama ne smatraju se pomoćne usluge. Pomoćne usluge su prijevozništvo, financijske usluge, osiguranje ili reosiguranje i oglašavanje ili promidžba,
+- broker je pravna ili fizička osoba - obrtnik sa sjedištem na teritoriju Republike Hrvatske koji pruža brokerske usluge,
+- tehnička pomoć znači svaku tehničku potporu u svezi s popravkom, razvojem, proizvodnjom, sastavljanjem, testiranjem, održavanjem ili bilo koju drugu tehničku pomoć koja može imati oblik upute, osposobljavanja, prijenosa poslovnog znanja ili stručnih ili savjetodavnih usluga. Tehnička pomoć uključuje usmene oblike pomoći.«
