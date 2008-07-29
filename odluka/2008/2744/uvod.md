@@ -1,0 +1,1 @@
+Na osnovi članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 57. sjednici održanoj 3. srpnja 2008. godine donijelo je
