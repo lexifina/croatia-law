@@ -1,0 +1,1 @@
+Na temelju članka 17. i članka 18. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93.) i članka 3.b Zakona o otpadu (»Narodne novine«, br. 178/04., 111/06., i 60/08.) ministrica zaštite okoliša, prostornog uređenja i graditeljstva donosi
