@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2. Zakona o potvrđivanju višegodišnjeg sporazuma o financiranju između Republike Hrvatske i Europske komisije, (»Narodne novine broj 03/06 - Međunarodni ugovori«), ministar poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: ministar) donosi
