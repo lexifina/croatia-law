@@ -1,0 +1,2 @@
+# Članak 7.
+Prilikom izricanja posebne mjere iz članka 2. ovoga Pravilnika policija poziva pravnu ili fizičku osobu obrtnika nadležne za održavanje cesta, odnosno pravnu ili fizičku osobu obrtnika s kojom je pravna ili fizička osoba obrtnik ili upravno tijelo nadležno za održavanje cesta sklopilo ugovor o obavljanju poslova uklanjanja vozila na mjesto izvršenja prekršaja te joj izdaje jedan primjerak naredbe o izrečenoj mjeri, na temelju koje će se obaviti premještanje vozila.

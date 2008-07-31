@@ -1,0 +1,1 @@
+Na temelju članka 137. stavka 2. Prekršajnog zakona (»Narodne novine« broj 107/2007), a u svezi s člankom 282. stavkom 8. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 67/2008), ministar unutarnjih poslova donosi
