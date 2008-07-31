@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), a u vezi sa člankom 4. stavkom 1. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 73/2008), Vlada Republike Hrvatske je na sjednici održanoj 31. srpnja 2008. godine donijela
