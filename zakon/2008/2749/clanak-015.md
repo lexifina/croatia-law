@@ -1,0 +1,3 @@
+# Članak 15.
+Europsko tehničko dopuštenje na prijedlog proizvođača, ovlaštenog zastupnika, odnosno uvoznika građevnog proizvoda donosi ovlaštena pravna osoba nakon ispitivanja i ocjenjivanja tehničkih svojstava građevnog proizvoda koje se provodi prema smjernicama za tehničko dopuštenje koje se odnose na taj proizvod ili odgovarajuću skupinu proizvoda. Ako tih smjernica nema, tada se europsko tehničko dopuštenje donosi prema interpretativnim dokumentima uzimajući u obzir odgovarajuće bitne zahtjeve za građevine ako način ocjenjivanja proizvoda sporazumno usvoje tijela ovlaštena za izdavanje europskih tehničkih dopuštenja okupljenih u Europskoj organizaciji tijela za tehnička dopuštenja (EOTA).
+Europsko tehničko dopuštenje nije upravni akt.
