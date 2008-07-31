@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Postupak za ostvarenje prava iz članka 3. ovoga Zakona pokreće se na zahtjev radnika.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se izravno Agenciji ili područnoj službi Zavoda prema mjestu sjedišta poslodavca, odnosno njegove registrirane poslovne jedinice, u roku od 30 dana od dana kada ih je na ispitnom ročištu u stečajnom postupku priznao stečajni upravitelj, a nije ih osporio niti jedan stečajni vjerovnik, odnosno od dana kada je objavljena odluka nadležnog suda da se stečajni postupak neće provoditi.
+(3) Radnici iz odredbe članka 16. ovoga Zakona zahtjev podnose izravno Agenciji ili područnoj službi Zavoda prema mjestu rada ili uobičajenom mjestu rada u roku od 30 dana od dana kada je prema nadležnom nacionalnom zakonodavstvu nadležno tijelo odlučilo pokrenuti postupak nad poslodavcem ili kad je utvrdilo da je posao poslodavca definitivno zatvoren, a dostupna imovina nije dovoljna za pokretanje postupka.

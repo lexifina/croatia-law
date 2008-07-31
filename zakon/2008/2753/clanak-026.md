@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Danom upisa u sudski registar Agencija će preuzeti radnike Fonda za razvoj i zapošljavanje (u daljnjem tekstu: Fond) koji su do dana stupanja na snagu ovoga Zakona radili na poslovima osiguranja radničkih potraživanja u slučaju stečaja poslodavca, sredstva namijenjena za isplatu radničkih potraživanja u slučaju stečaja poslodavca, kao i prava i obveze s osnova osiguranja radničkih potraživanja u slučaju stečaja poslodavca, kao i pismohranu i drugu dokumentaciju koja se odnosi na poslove osiguranja radničkih potraživanja.
+(2) Do dana upisa u sudski registar Agencije i preuzimanja prema stavku 1. ovoga članka sve poslove Agencije utvrđene ovim Zakonom obavljat će Fond.
