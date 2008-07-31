@@ -1,0 +1,2 @@
+# Članak 38.
+Isprave izdane od ovlaštenih ustanova, odnosno trgovačkih društava ovlaštenih za obavljanje poslova zaštite na radu u smislu članka 98. stavka 2., članka 99. stavka 3., članka 100. stavka 2. i članka 101. stavka 2. Zakona o zaštiti na radu (»Narodne novine« br. 59/96., 94/96., 114/03. i 104/04.) prestaju važiti danom isteka njihove valjanosti, a najkasnije do dana prijama Republike Hrvatske u Europsku uniju ili stupanja na snagu međunarodnog sporazuma o ocjeni sukladnosti i prihvaćanju industrijskih proizvoda s Europskom unijom.
