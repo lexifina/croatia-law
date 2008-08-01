@@ -1,0 +1,1 @@
+Na temelju članka 47. Zakona o državnoj potpori u poljoprivredi i ribarstvu (»Narodne novine« br. 87/02., 117/03., 82/04., 85/06., 141/06. i 85/08.) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi

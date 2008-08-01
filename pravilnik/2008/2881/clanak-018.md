@@ -1,0 +1,2 @@
+# Članak 18.
+Tablica 4. i Tablica šifri i naziva kultura za popunjavanje Obrazaca br. 1. i 2. koje su sastavni dio Pravilnika o načinu i uvjetima provedbe modela poticanja proizvodnje (Narodne novine br. 17/07 i 133/07) zamjenjuju se novom Tablicom 4. i novom Tablicom šifri i naziva kultura za popunjavanje Obrazaca br. 1. i 2. koje su prilog i sastavni dio ovog Pravilnika i objavljuju se uz ovaj Pravilnik.
