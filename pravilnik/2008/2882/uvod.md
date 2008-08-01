@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 3. Zakona o državnoj potpori u poljoprivredi i ribarstvu (»Narodne novine«, br. 87/02, 117/03 , 82/04, 12/05. - ispravak, 85/06, 141/06, 134/07 i 85/08), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
