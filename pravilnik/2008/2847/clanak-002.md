@@ -1,0 +1,5 @@
+# Članak 2.
+1) Školovanje tražitelja azila koji je maloljetan, azilanata, stranaca pod privremenom zaštitom i stranaca pod supsidijarnom zaštitom (u daljnjem tekstu: pristupnici) osigurat će se sukladno propisima koji reguliraju predškolsko, osnovno, srednje i visoko obrazovanje, pod jednakim uvjetima kao i hrvatskim državljanima, a provodit će se u skladu s ovim Pravilnikom.
+2) Srednje obrazovanje organizirat će se prema postojećim programima. Ukoliko pristupnik zatraži oblik obrazovanja kojeg nema u obrazovnom sustavu Republike Hrvatske, ministarstvo nadležno za obrazovanje (u daljnjem tekstu: Ministarstvo) se obvezuje osigurati školovanje u najsrodnijem zanimanju.
+3) Ukoliko se radi o pristupniku koji nema završeno osnovnoškolsko obrazovanje a stariji je od petnaest godina, može mu se organizirati osnovnoškolsko obrazovanje po programu obrazovanja odraslih.
+4) Azilanti imaju pravo na usavršavanje, prekvalifikaciju, dokvalifikaciju i specijalizaciju, a stranci pod privremenom zaštitom pravo na prekvalifikaciju i dokvalifikaciju u skladu s posebnim propisima, pod jednakim uvjetima kao i hrvatski državljani.
