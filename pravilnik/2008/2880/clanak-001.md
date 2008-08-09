@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o mjerilima za određivanje plaće vojnodiplomatskim osobama, osobama upućenim na rad u međunarodne organizacije, administrativno-tehničkom osoblju, odnosno nediplomatskom osoblju te članovima njihove uže obitelji (»Narodne novine«, broj 125/03 i 61/07) u članku 10. stavci 4. i 5. mijenjaju se i glase:
+»U slučaju kada VDO u smislu stavka 3. ovoga članka upiše dijete u privatnu školu ima pravo na dodatak na školovanje djeteta u iznosu od 90% od stvarne cijene upisnine i školarine.
+Suglasnost za upis u privatnu osnovnu i srednju školu te pravo na dodatak za školovanje, na temelju pisanog zahtjeva VDO s priloženom posebnom dokumentacijom, daje ravnatelj Uprave za obrambenu politiku posebnom odlukom, imajući u vidu visinu upisnine i školarine, nastavni program te ostale bitne činjenice za donošenje odluke.«
