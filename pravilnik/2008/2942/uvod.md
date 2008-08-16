@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 3. Zakona o lovstvu (»Narodne novine«, broj: 140/05.) i članka 4., 6. i 7. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave (»Narodne novine«, broj: 05/08.), ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi
