@@ -1,0 +1,2 @@
+# Članak 22.
+Prije promjene uvjeta skladištenja uslijed povećanja skladišta i visina polica, promjene požarnog opterećenja u skladišnom prostoru i promjene gorivosti skladištene robe, materijala za pakiranje i skladišnih pomoćnih sredstava, kao i prije građevinskih i tehničkih promjena na građevini ili uređajima, potrebno je provesti odgovarajući postupak kod nadležnog tijela za prostorno uređenje i graditeljstvo.

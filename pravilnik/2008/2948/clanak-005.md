@@ -1,0 +1,10 @@
+# Članak 5.
+Otpornost na požar konstrukcijskih elemenata skladišta određuje se sukladno odredbama ovog Pravilnika.
+Iznimno od odredbe stavka 1. ovoga članka, potrebni stupanj otpornosti na požar može se odrediti i prema odgovarajućim hrvatskim normama Eurocod.
+Prostor skladišta koje je smješteno u objektu druge namjene mora biti odvojen od te namjene (ili tog dijela objekta) požarnim zidom minimalne otpornosti na požar od najmanje 90 minuta. Izvedba požarnog zida mora odgovarati priznatim pravilima tehničke prakse.
+Otpornost na požar građevinskih elemenata na granici požarnih sektora te nosivih građevinskih elemenata prostora različite namjene skladišta, a koje se smatraju dijelom jedne tehnološke cjeline, ili su požarni sektori manjih skladišta, treba biti najmanje 30 minuta kod odvajanja prostora s niskim požarnim opterećenjem, 60 minuta kod odvajanja prostora sa srednjim požarnim opterećenjem odnosno 90 minuta kod odvajanja prostora s visokim požarnim opterećenjem.
+Nosiva konstrukcija slobodnostojećeg objekta skladišta mora zadovoljavati najmanje otpornost na požar od 30 minuta, dok je na granicama požarnih sektora, najmanja otpornost na požar propisana odredbama stavaka 1. i 3. ovoga članka.
+Ukoliko je prostor skladišta iz stavka 3. ovog članka štićen automatskim sustavom za gašenje požara »sprinkler« ili drugim odgovarajućim automatskim sustavom za gašenje požara, nema zahtjeva za otpornost na požar nosive konstrukcije za sva skladišta površine do 6000 m².
+Ukoliko se skladište nalazi u sastavu građevine druge namjene za koju je propisan veći stupanj otpornosti od požara, vatrootpornost konstruktivnih elemenata tog skladišta mora biti najmanje ista kao i same građevine.
+Ako je nosiva konstrukcija skladišta čelična i pritom nije vatrootporno zaštićena, potrebno je dokazati da pri temperaturi od 500oC neće doći do deformacije konstrukcije koje bi izazvale oštećenja koja utječu na otpornost na požar i stabilnost konstrukcije na granici požarnih sektora kroz koje prolazi čelična konstrukcija.
+Iznad evakuacijskih putova ne smiju biti materijali koji gorenjem, kapanjem ili na drugi način ugrožavaju sigurnu evakuaciju.
