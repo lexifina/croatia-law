@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Marko Babić, Snježana Bagić, Slavica Banić, Davor Krapac, Mario Kos, Mario Jelušić, Ivan Matija, Željko Potočnjak, Agata Račan, Aldo Radolović, Duška Šarin i Nevenka Šernhorst, odlučujući o zahtjevu za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj 9. srpnja 2008. godine, donio je

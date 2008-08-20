@@ -1,0 +1,58 @@
+ODLUKU
+I. Ukida se članak 4. točka 3. Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine« broj 86/06., 125/06. - ispravak i 16/07. - ispravak) u dijelu koji glasi »Prekrižje Plešivičko«.
+II. Ukinuta odredba iz točke I. ove izreke prestaje važiti 31. prosinca 2008. godine.
+III. Ova odluka objavit će se u »Narodnim novinama«.
+| Obrazloženje
+1. Zahtjev za pokretanje postupka za ocjenu suglasnosti članka 4. točke 3. Zakona o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine« broj 86/06.,125/06. - ispravak i 16/07. - ispravak, u nastavku: Zakon/06) s Ustavom podnijelo je Gradsko vijeće Grada Samobora (u nastavku: podnositelj zahtjeva), dana 10. listopada 2006. godine.
+2. Osporena odredba članka 4. glasi:
+I. ZAGREBAČKA ŽUPANIJA
+U sastavu Županije su sljedeći gradovi i općine u sastav kojih ulaze sljedeća naselja:
+(…)
+3. JASTREBARSKO
+(…)
+Prekrižje Plešivičko
+(…).
+3. Podnositelj zahtjeva smatra da osporena zakonska odredba nije u suglasnosti s člancima 16. i 133. Ustava.
+U zahtjevu navodi da je Zakonom o područjima županija, gradova i općina u Republici Hrvatskoj (»Narodne novine« broj 10/97., 124/97., 50/98., 68/98., 22/99., 42/99., 117/99., 128/99., 44/00., 129/00., 92/01., 79/02., 83/02., 25/03., 107/03. i 175/03., u nastavku: Zakon/97, prestao važiti 13. srpnja 2006. godine, danom stupanja na snagu Zakona/06), u članku 6. točki 4. Prekrižje Plešivičko bilo utvrđeno kao naselje koje ulazi u sastav Grada Samobora. Sukladno navedenoj zakonskoj odredbi i članku 4. Statuta Grada Samobora (»Službene vijesti Grada Samobora« broj 4/02., 7/02., 8/03. i 1/06.) bilo je utvrđeno da je naselje Prekrižje Plešivičko u sastavu Grada Samobora, a člankom 95. točka 20. tog Statuta utvrđeno je da je to naselje u sastavu MO Manja Vas, Kotari, Bukovje i Prekrižje Plešivičko na području Grada Samobora.
+Zakonom/06 naselje Prekrižje Plešivičko postalo je dio područja Grada Jastrebarsko.
+Podnositelj zahtjeva smatra da je navedena promjena izvršena suprotno članku 30. Zakona/97, jer nije traženo mišljenje stanovnika Prekrižja Plešivičkog, niti mišljenje Gradskog vijeća Grada Samobora i Skupštine Zagrebačke županije.
+Navedeni postupak smatra suprotnim članku 16. Ustava, jer nije poštivana zakonska procedura, čime su ograničene temeljne slobode stanovnika naselja Prekrižje Plešivičko da se izjasne o promjeni i daju svoje mišljenje u sastavu koje jedinice lokalne samouprave će biti njihovo naselje.
+Povrijeđenim smatra i odredbu članka 133. stavka 1. Ustava, kojom je propisano da se područja jedinica lokalne samouprave određuju na način propisan zakonom, a da taj način u konkretnom slučaju nije poštivan.
+Podnositelj zahtjeva predlaže da Ustavni sud ukine osporenu zakonsku odredbu. Ujedno Sudu predlaže postupanje na temelju odredbe sadržane u članku 45. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst, u nastavku: Ustavni zakon). Smatra da bi izvršenjem pojedinačnih akata ili radnji koje se mogu poduzeti na osnovi osporene odredbe za stanovnike naselja Prekrižja Plešivičkog mogle nastupiti teške i nepopravljive posljedice.
+4. Na temelju članka 25. Ustavnog zakona, zatraženo je i dobiveno očitovanje Središnjeg državnog ureda za upravu i Skupštine Zagrebačke županije.
+Prijedlog je osnovan.
+5. Za ocjenu suglasnosti članka 4. točka 3. Zakona/06 s Ustavom mjerodavna je odredba članka 133. stavka 1. Ustava, koja glasi:
+Jedinice lokalne samouprave su općine i gradovi i njihovo područje određuje se na način propisan zakonom.(...)
+i
+Zakon o potvrđivanju Europske povelje o lokalnoj samoupravi (»Narodne novine - međunarodni ugovori«broj 14/97.), koji u članku 5. Europske povelje o lokalnoj samoupravi (u daljnjem tekstu: Europska povelja) propisuje:
+Zaštita područnih granica lokalnih jedinica
+Pri svakoj promjeni lokalnog područja prethodno će se tražiti mišljenje dotične lokalne jedinice, ukoliko je moguće referendumom tamo gdje to zakon dozvoljava.
+6. Zakon/06 donio je Hrvatski sabor na sjednici održanoj 13. srpnja 2006. godine, a objavljen je u Narodnim novinama, broj 86 od 28. srpnja 2006. godine i stupio je na snagu danom objave u »Narodnim novinama«.
+Sukladno članku 133. stavku 1. Ustava postupak promjena područja jedinica lokalne samouprave propisan je člankom 7. stavkom 2. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine« broj 33/01.), koji glasi:
+Pri svakoj promjeni područja jedinice lokalne i područne (regionalne) samouprave prethodno će se tražiti mišljenje stanovnika te jedinice.
+Ustavni sud napominje da je postupak promjene područja jedinica lokalne samouprave bio propisan i odredbama članaka 30. i 31. Zakona/97, koje su glasile:
+Članak 30.
+Promjenu područja ili sjedišta jedinice lokalne samouprave, te osnivanje novih jedinica lokalne samouprave, može predložiti predstavničko tijelo jedinice, odnosno jedna trećina građana s prebivalištem na području za koje se promjena traži, odnosno na području jedinice lokalne samouprave.
+Ukoliko je predlagatelj predstavničko tijelo, ono je dužno pribaviti mišljenje građana s područja za koje se traži promjena. Ukoliko su predlagatelji građani, oni su dužni pribaviti mišljenje predstavničkog tijela.
+(...)
+Članak 31.
+Promjenu područja jedinice lokalne uprave i samouprave može predložiti predstavničko tijelo jedinice, odnosno jedna trećina jedinica lokalne samouprave s područja jedinice lokalne uprave i samouprave.
+7. Nakon uvida u očitovanje Središnjeg državnog ureda za upravu i Skupštine Zagrebačke županije Ustavni sud je utvrdio sljedeće:
+7.1. U očitovanju Središnjeg državnog ureda za upravu, klasa: 023-01/06-01/352, ur.broj: 515-10/07-06-02 od 22. siječnja 2007. godine utvrđen je sljedeći tijek postupanja:
+Prema članku 6. točki 4. Zakona/97 naselje Prekrižje Plešivičko bilo je u sastavu Grada Samobora.
+1994. godine Mjesni odbor Plešivica tražio je od Odbora za predstavke i pritužbe Sabora Republike Hrvatske poništenje Odluke o odcjepljenju naselja Prekrižje Plešivičko iz tadašnje općine Jastrebarsko i pripojenje Gradu Samoboru, budući da su smatrali da je izvršeno jednostrano odcjepljenje navedenog naselja, bez prethodne suglasnosti stanovnika tog naselja.
+Zavod za javnu upravu Ministarstva uprave, u odgovoru Mjesnom odboru Plešivica iz 1994. godine ističe da će se ispravkom Zakona o područjima županija, gradova i općina naselje Plešivičko Prekrižje uvrstiti u područje općine Jastrebarsko, budući je to naselje, očiglednom omaškom, uvršteno u područje Grada Samobora, a ne u područje općine Jastrebarsko, u čije područje evidentno pripada. S obzirom da u postupku donošenja zakona nije udovoljeno traženju, Mjesni odbor Plešivica obratio se Zavodu za javnu upravu Ministarstva uprave s istim traženjem 1996. godine, pa potom 1997. godine.
+Mjesni odbor Plešivica se 2004. godine, ponovno, obratio Odboru za predstavke i pritužbe Hrvatskog sabora sa zahtjevom da se izvrši ispravak na način da se naselje Plešivičko Prekrižje uvrsti u područje Grada Jastrebarskog. Odbor za predstavke i pritužbe Hrvatskog sabora donio je zaključak, klasa: 050-01/04-01/93, ur.broj: 612/20.04.03 od 22. ožujka 2004. godine, kojim je predložio Središnjem državnom uredu za upravu da prilikom prvih izmjena i dopuna Zakona o područjima ispravi očigledan propust i uvrsti naselje Prekrižje Plešivičko u Grad Jastrebarsko te je predložio da Skupština zagrebačke županije o toj promjeni dostavi svoje mišljenje Središnjem državnom uredu za upravu.
+Postupajući po toj inicijativi, Središnji državni ured za upravu uputio je dopis gradonačelniku Grada Jastrebarskog s uputom da se od Skupštine Zagrebačke županije pribavi potrebno mišljenje. To mišljenje nije dostavljeno Središnjem državnom uredu niti nakon požurnice. Središnji državni ured je predsjedniku Odbora za lokalnu i područnu (regionalnu) samoupravu Hrvatskog sabora uputio dopis 5. svibnja 2004. godine, u kojem iznosi problematiku sporne područne promjene.
+U ožujku 2005. godine Vlada Republike Hrvatske je uputila Hrvatskom saboru Konačni prijedlog Zakona o područjima županija, gradova i općina u Republici Hrvatskoj u koji su unesene sve dotadašnje inicijative, pa i inicijativa za navedenu promjenu.
+Zaključno, Središnji državni ured iznosi da je iz navedenog slijeda vidljivo da se radi o ranije zaprimljenoj inicijativi, te da je ista iz opravdanih razloga uvrštena u Zakon/06, s obzirom da je na nedvojben način utvrđena volja stanovnika.
+7.2. Skupština Zagrebačke županije, u aktu, broj: klasa: 021-01/06-01/213, ur.broj: 238/1-01-06-2 od 14. studenog 2006. godine, navodi da postupak promjene područja jedinice lokalne samouprave, u konkretnom slučaju izdvajanje naselja Prekrižje Plešivičko iz sastava Grada Samobora i njegovo pripajanje Gradu Jastrebarskom, nije bio predmetom razmatranja i odlučivanja na sjednici Županijske skupštine Zagrebačke županije budući da takav zahtjev nije nikada bio zaprimljen u Stručnoj službi Skupštine.
+8. Slijedom izloženog Ustavni sud utvrđuje da je osporenom zakonskom odredbom Prekrižje Plešivičko uvršteno u sastav Grada Jastrebarsko, iako takvoj zakonskoj odredbi nije prethodio postupak propisan mjerodavnim zakonskim odredbama odnosno nije zatraženo mišljenje stanovnika Prekrižja Plešivičkog i mišljenje Skupštine Zagrebačke županije.
+Inicijativa na temelju koje je naselje Prekrižje Plešivičko Zakonom/06 izdvojeno iz Grada Samobora i uvršteno u Grad Jastrebarsko, potaknuta je 1994. godine od strane Mjesnog odbora Plešivica, iako se ne radi o inicijativi iznijetoj na formalan način, sukladno zakonu, koja bi svojim obrazloženjem na jasan i nedvojben način izrazila volju stanovnika naselja, naročito uzimajući u obzir protek vremena od početne inicijative do donošenja Zakona/06. Stručni nositelji izrade zakona, kao i zakonodavac prihvatili su, kao mjerodavnu, inicijativu Mjesnog odbora Plešivica iz 1994. godine, koja je kroz duže vremensko razdoblje bila upućivana nadležnim tijelima, iako mjesni odbor nije ovlašteni predlagatelj promjene područja jedinica lokalne samouprave.
+Ustavni sud napominje da je pribavljanje mišljenja stanovnika pri promjeni područja zahtjev je članka 133. Ustava razrađen zakonom, a mišljenje dotične lokalne jedinice zahtjev je Europske povelje. Europska povelja, kako je istaknuto u t. 5. ove odluke, na temelju članka 140. Ustava Republike Hrvatske dio je unutarnjeg pravnog poretka Republike Hrvatske i po pravnoj snazi iznad zakona te se neposredno primjenjuje. U konkretnom slučaju nije pribavljeno niti mišljenje stanovnika područja na koje se promjena odnosi niti mišljenje dotične lokalne zajednice.
+To što način na koji mišljenje stanovnika odnosno jedinice lokalne samouprave o čijoj promjeni područja se radi treba biti izraženo nije izrijekom utvrđeno niti Europskom poveljom niti mjerodavnim zakonom ne utječe na obvezu provođenja propisanog postupka, unatoč tomu što mišljenje ne obvezuje zakonodavca.
+Ovo stajalište Ustavni sud je izrazio u odluci, broj: U-I-103/1997 od 31. ožujka 1998. godine (»Narodne novine« broj 50/98.) i odluci, broj: U-I-772/1997 od 21. travnja 1999. (»Narodne novine« broj 42/99.).
+Slijedom izloženog, Ustavni sud utvrdio je da osporena zakonska odredba nije u suglasnosti s odredbom članka 5. Europske povelje, a time niti s odredbama članka 133. stavka 1. Ustava, te članka 5. stavka 1. Ustava.
+9. Na temelju članka 55. stavka 1. Ustavnog zakona odlučeno je kao u točki I. izreke.
+Odlučivši kao u točki I. izreke Ustavni sud nije odlučivao o prijedlogu podnositelja zahtjeva temeljem članka 45. Ustavnog zakona.
+10. Objava odluke (točka III. izreke) temelji se na članku 29. stavku 1. Ustavnog zakona.
