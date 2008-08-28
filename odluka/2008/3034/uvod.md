@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), a u svezi s člankom 180. stavkom 1. Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 190/2003 - pročišćeni tekst, 76/2007 i 27/2008), Vlada Republike Hrvatske je na sjednici održanoj 28. kolovoza 2008. godine donijela
