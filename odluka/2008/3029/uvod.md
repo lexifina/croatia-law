@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 7. stavka 2. Uredbe o osnivanju Državnog zavoda za zaštitu prirode (»Narodne novine«, broj 126/2002), Vlada Republike Hrvatske je na sjednici održanoj 28. kolovoza 2008. godine donijela
