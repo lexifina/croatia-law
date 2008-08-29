@@ -1,0 +1,6 @@
+# Članak 31.
+1) Za određivanje dužine vegetacije služe standardni hibridi za početak i kraj vegetacijske skupine pri čemu je 10 FAO jedinica razlika 0,5% vlage u berbi.
+2)Standardni hibridi služe i za određivanje tipa zrna gdje se razlikuju dvije skupine:
+a) tvrdunci i
+b) zubani i prijelazni tipovi uključujući i polutvrdunce,
+pri čemu prijavljeni hibrid ne smije odstupati od standarda po tipu zrna, osim kod skupine tvrdunaca koji se uspoređuju sa jednim standardom tipa tvrdunca i jednim standardnom tipa zubana i to rodnijim zubanom u pojedinoj FAO grupi.

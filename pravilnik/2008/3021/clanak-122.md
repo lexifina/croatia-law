@@ -1,0 +1,16 @@
+## Engleski ljulj (Lolium perenne L.)
+## Mačji repak (Phleum pratense L.)
+## Livadna vlasnjača (Poa pratensis L.)
+## Obična vlasnjača (Poa trivialis L.)
+## Zlatnožuta zobika (Trisetum flavescens (L.) P.Beauv.)
+## Lisičji repak (Alopecurus pratensis L.)
+## Lucerna (Medicago sativa)
+## Bijela djetelina (Trifolium repens L.)
+## Smiljkita (Lotus corniculatus L.)
+## Esparzeta (Onobrychis viciifolia Scop.)
+## Švedska djetelina (Trifolium hybridum L.)
+## Dunjica (Medicago lupulina L.)
+## Zubača (Cynodon dactylon L.)
+## Krestac (Cynosorus cristatus L.)
+# Članak 122.
+Zahtjev i prateća dokumentacija iz članka 2. ovoga Pravilnika za trave i leguminoze za voluminoznu masu i ukrasne travnjake podnosi se do: 1. kolovoza.
