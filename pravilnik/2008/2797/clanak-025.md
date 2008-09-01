@@ -1,0 +1,2 @@
+# Članak 25.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o svjedodžbi o zdravstvenom stanju životinja u unutarnjem prometu (»Narodne novine«, broj 20/04) i Pravilnik o načinu utovara, pretovara, istovara i veterinarsko-zdravstvenog pregleda pošiljaka životinja, proizvoda i otpadaka životinjskog podrijetla i higijensko-tehničkim uvjetima kojima moraju udovoljavati prijevozna sredstva i pošiljke u unutarnjem i međunarodnom prometu (»Narodne novine«, broj 13/05) u dijelu koji se odnosi na veterinarske preglede živih životinja u unutarnjem prometu.

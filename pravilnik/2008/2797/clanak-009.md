@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Na gospodarstvu na kojem se drže svinje, ovce, koze i kopitari veterinarski pregled prije izdavanja svjedodžbe nije obvezan ako od prethodnog veterinarskog pregleda, na temelju kojeg je izdana svjedodžba, nije prošlo više od 30 dana.
+(2) U slučajevima iz stavka 1. ovoga članka svjedodžba se izdaje pri otpremi na temelju prethodnog veterinarskog pregleda, od kojeg nije prošlo više od 30 dana i evidencije o propisanom cijepljenju i dijagnostičkom ispitivanju.
+(3) Ako se inspekcijskim nadzorom na gospodarstvu iz stavka 1. ovoga članka utvrdi da posjednik nije postupao u skladu s odredbama propisa o označavanju i registraciji životinja te zaštiti zdravlja i dobrobiti životinja ili nije vodio druge propisane evidencije, svjedodžba se izdaje samo uz prethodno obavljen veterinarski pregled životinja, prije svake otpreme, u razdoblju do sljedećih šest mjeseci, ovisno o utvrđenim nepravilnostima na gospodarstvu.
