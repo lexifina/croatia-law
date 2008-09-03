@@ -1,0 +1,5 @@
+## ARHIVIRANJE I IZDAVANJE ARHIVIRANIH SPISA TE ROKOVI ZA POHRANU SPISA (GRADIVA) U OPĆI ARHIV
+# Članak 7.
+(1) Pošto službena radnja u povodu koje je spis bio osnovan bude obavljena, javni će bilježnik pregledati spis i, ako utvrdi da se u njemu nalaze sva pismena koja se u njemu trebaju nalaziti, a osobito da su prikupljene dostavnice i povratnice o izvršenim dostavama, te da su naplaćene pristojbe odnosno da je pokrenut postupak radi njihove naplate, stavljanjem odgovarajuće štambilje na omot spisa odredit će njegovo arhiviranje.
+(2) Prije stavljanja spisa u arhiv izdvojit će se priloženi spisi. U takvom će se slučaju u upisnicama, popisima pismena i na omotima spisa precrtati olovkom u boji bilješke kojima je označeno prilaganje spisa.
+(3) Prije stavljanja spisa u arhiv u spis i na njegov omot stavit će se štambiljom bilješka o naplaćenoj pristojbi odnosno da je podnesena prijava za naplatu pristojbe i u spis uložen primjerak izvještaja o neplaćenim pristojbama s potvrdom nadležnog tijela o primitku primjerka tog izvještaja.

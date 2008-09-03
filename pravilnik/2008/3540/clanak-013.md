@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Pojedini spisi povijesnog, znanstvenog ili političkog značenja, umijesto u općem arhivu, mogu se čuvati u zasebnom arhivu (kasi ili trezoru) složeni po godištima i njihovoj važnosti, u posebnim svežnjevima na kojima će se s vanjske strane označiti godišta spisa koji se nalaze u svežnju. Na isti način postupa se s gradivom koje je označeno određenim stupnjem tajnosti.
+(2) Pojedini spisi uloženi u tako izdvojene svežnjeve stavljaju se u posebne zatvorene i zapečaćene omote. Na omot u kojem se spis nalazi stavit će se oznaka spisa, naziv predmeta i razlog odvojenog čuvanja (povijesni, politički, gospodarski, itd.).
+(3) U općem arhivu na mjesto svakog tako izdvojenog spisa uložit će se bilješka s naznakom posebnog mjesta čuvanja koja će se uložiti u odgovarajući svežanj u kojem bi se inače trebao čuvati izdvojeni spis. U popisu izdanih spisa (članak 9. Pravilnika) zabilježit će se da je spis trajno izdvojen radi posebnog čuvanja.

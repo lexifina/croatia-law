@@ -1,0 +1,2 @@
+# Članak 2.
+Arhivskim gradivom javnog bilježnika smatra se sve gradivo ili dokumentacija nastala djelovanjem javnog bilježnika u okviru njegovih nadležnosti propisanih Zakonom o javnom bilježništvu (»Narodne novine« 78/93, 29/94 i 16/07) a koje su od trajnog značaja za kulturu, povijest i druge znanosti, bez obzira na mjesto i vrijeme njihova nastanka, neovisno o obliku i nosaču na kojem su sačuvane, te koje je nastalo odabiranjem iz registraturnog gradiva nakon provedenog postupka odabiranja prema popisu koji utvrđuje javni bilježnik.
