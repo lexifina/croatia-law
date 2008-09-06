@@ -1,0 +1,2 @@
+# Članak 2.
+Pri projektiranju i izgradnji prostorija namijenjenih za korištenje ili proizvodnju izvora ionizirajućeg zračenja, odnosno skladištenje radioaktivnog izvora moraju se odrediti odgovarajuće zaštitne mjere: dostatan broj i pravilan raspored prostorija, oprema prostorija, tehnološki tijek rada s optimalnom organizacijom radnih mjesta i mjere održavanja osobne čistoće osoblja, odgovarajući sustav provjetravanja te organiziran i siguran sustav sakupljanja i zbrinjavanja radioaktivnog otpada koji nastaje tijekom rada.

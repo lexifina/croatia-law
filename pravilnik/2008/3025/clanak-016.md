@@ -1,0 +1,4 @@
+# Članak 16.
+Prostorije za terapiju otvorenim radioaktivnim izvorima moraju biti izgrađene i opremljene sukladno vrsti radionuklida i najvećoj aktivnosti koje se primjenjuju, moraju imati posebnu čekaonicu za bolesnike koji čekaju na primjenu izvora, a posebnu čekaonicu za bolesnike kojima su primijenjeni radionuklidi, mjesto gdje se otvoreni radioaktivni izvori primjenjuju ili skladište te sobe gdje će biti smješteni bolesnici s primijenjenim radionuklidima.
+Čekaonica za bolesnike kojima su primijenjeni radionuklidi i sobe gdje će biti smješteni bolesnici s primijenjenim radionuklidima smatraju se područjem izloženosti.
+Mjesto primjene ili laboratorij mora biti u blizini bolesničkog odjela na kojem leže bolesnici tijekom terapije kako bi se izbjeglo njihovo kretanje kroz dijelove građevine koji se ne smatraju područjem izloženosti kao što su dizala, hodnici i slični prostori.

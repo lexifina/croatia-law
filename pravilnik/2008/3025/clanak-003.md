@@ -1,0 +1,3 @@
+# Članak 3.
+Prostorije iz članka 2. ovog Pravilnika moraju biti projektirane, izgrađene i opremljene tako da zidovi vrata, dovratnici, prozori, strop i pod tijekom korištenja izvora ionizirajućeg zračenja u svim uvjetima rada, smanjuju vjerojatnost radioaktivnog onečišćenja na najmanju moguću mjeru.
+Efektivna doza na vanjskoj površini zida prostorije iz stavka 1. ovoga članka mora biti ispod zakonom propisanih granica, i to toliko niska koliko je to razumno moguće postići uzimajući u obzir tehničke, gospodarske, socijalne i ostale čimbenike prilikom projektiranja, gradnje i opremanja prostorije iz članka 2. ovog Pravilnika.

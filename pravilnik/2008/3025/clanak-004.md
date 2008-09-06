@@ -1,0 +1,2 @@
+# Članak 4.
+Vrsta, sastav, debljina, način ugradnje i ostala svojstva gradiva za izgradnju prostorija iz članka 2. ovog Pravilnika moraju se odrediti i specificirati projektom uzimajući u obzir najveću moguću aktivnost radioaktivnih izvora, najveću energiju i jakost zračenja, usmjerenost snopa zračenja, efektivno vrijeme proizvodnje ionizirajućeg zračenja te radna mjesta u susjednim prostorijama, odnosno nazočnost osoba u okolišu prostorije iz članka 2. ovog Pravilnika.
