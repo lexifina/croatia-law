@@ -1,0 +1,7 @@
+# Članak 2.
+1) Otkrivanje vezikularne enterovirusne bolesti svinja i diferencijalno dijagnosticiranje slinavke i šapa temelji se na:
+(a) utvrđivanju kliničkih znakova bolesti;
+(b) dokazivanju virusa, antigena ili genoma u uzorcima epitelnoga tkiva, tekućine iz vezikula ili fecesa;
+(c) utvrđivanju reakcije specifičnih protutijela u uzorcima seruma, u skladu s postupcima, metodama uzimanja uzoraka i kriterijima za procjenu rezultata laboratorijskih testova utvrđenim u Priručniku o dijagnostičkim postupcima, metoda uzimanja uzoraka i kriterijima za procjenu rezultata laboratorijskih testova za dokazivanje i diferencijalno dijagnosticiranje vezikularne enterovirusne bolesti svinja (u daljnjem tekstu: Priručnik) iz Dodatka ovoga Pravilnika.
+2) Osim odredbi iz stavka 1. ovoga članka Nacionalni dijagnostički laboratorij naveden u Dodatku II. Dijelu 5. Pravilnika o kontroli određenih bolesti životinja i posebnim mjerama koje se odnose na vezikularnu enterovirusnu bolest svinja (»Narodne novine«, broj 115/07)2 mogu primijeniti i prilagođene laboratorijske testove navedene u Priručniku iz Dodatka ovoga Pravilnika ili koristiti druge testove pod uvjetom da oni osiguravaju jednaku osjetljivost i specifičnost.
+3) Osjetljivost i specifičnost prilagođenih ili drugih testova navedenih u stavku 2. ovoga članka mora se procijeniti u okviru redovitih usporednih testova koje organizira referentni laboratorij Europske zajednice za vezikularnu enterovirusnu bolest svinja.
