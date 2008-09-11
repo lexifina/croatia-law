@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 2. podstavka 13. Zakona o hrani (»Narodne novine«, br. 46/07) ministar zdravstva i socijalne skrbi uz suglasnost ministra poljoprivrede, ribarstva i ruralnog razvoja donosi
