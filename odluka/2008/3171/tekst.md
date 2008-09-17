@@ -1,0 +1,54 @@
+I.
+Pravila o prodaji javnih zemljišta i zgrada od strane tijela javne vlasti sadržana su u Priopćenju Komisije u vezi s udjelom potpora kod prodaje zemljišta i zgrada od strane tijela javne vlasti. (SL C 209, 10. 7. 1997, str. 3. - 5.)
+II.
+Tekst akta u kojem su sadržana pravila iz točke I. ove Odluke, u prijevodu na hrvatski jezik, glasi:
+PRIOPĆENJE KOMISIJE U VEZI S UDJELOM POTPORA KOD PRODAJE ZEMLJIŠTA I ZGRADA OD STRANE TIJELA JAVNE VLASTI
+(SL C 209, 10. 7. 1997, STR. 3. - 5.)
+I. UVOD
+Posljednjih godina Komisija je u nizu prilika istraživala prodaju zemljišta i zgrada u javnom vlasništvu kako bi ustanovila postoji li element državne potpore u korist kupaca. Komisija je sastavila opće smjernice za države članice kako bi opći pristup problemu državne potpore kroz prodaju zemljišta i zgrada od strane javnih tijela postao transparentan i kako bi se smanjio broj slučajeva koje je potrebno istražiti.
+Sljedeće Priopćenje za države članice:
+- opisuju jednostavni postupak kojim se državama članicama omogućava da se prodaja zemljišta i zgrada odvija na način koji automatski isključuje državnu potporu,
+- navode jasne slučajeve prodaje zemljišta i zgrada o kojima se mora obavijestiti Komisija kako bi se omogućila procjena o tome uključuje li određena transakcija potporu i, ukoliko je to slučaj, o usklađenosti spomenute potpore sa zajedničkim tržištem,
+- omogućavaju Komisiji da brzo odgovori na sve pritužbe ili podneske od trećih strana koje upozoravaju na slučajeve navodne potpore vezano uz prodaju zemljišta i zgrada.
+Ovo Priopćenje uzima u obzir činjenicu da u većini država članica postoje proračunske odredbe koje osiguravaju da se imovina u javnom vlasništvu, u načelu, ne može prodati za cijenu ispod njihove vrijednosti. Iz tog razloga, proceduralne predostrožnosti, koje su preporučene kako bi se izbjeglo uplitanje pravila o državnim potporama, formuliraju se na način koji bi državama članicama trebao omogućiti da se usklade s ovim smjernicama ne mijenjajući nacionalne postupke.
+Ovo Priopćenje se odnosi jedino na prodaju zemljišta i zgrada u javnom vlasništvu. One se ne odnose na javnu kupnju zemljišta i zgrada ili na zakup ili najam zemljišta i zgrada od strane tijela javne vlasti. Spomenute transakcije mogu također uključiti elemente državne potpore.
+Ovo Priopćenje ne utječe na posebne odredbe ili postupke država članica kojima se promiče kakvoća i pristup privatnom stanovanju.
+II. NAČELA
+1. Prodaja kroz postupak bezuvjetne ponude
+Prodaja zemljišta i zgrada kroz dobro oglašavani, otvoreni postupak s bezuvjetnom ponudom, koji se može usporediti s aukcijom i koji prihvaća najbolju ili jedinu ponudu, prema svojoj definiciji ima tržišnu vrijednost te stoga ne uključuje državnu potporu. Ne uzima se u obzir činjenica da je prije postupka ponude postojala drugačija procjena zemljišta i zgrada, npr. u računovodstvene svrhe ili za prijedlog početne najniže ponude.
+(a) Ponuda je »dobro oglašavana« ukoliko je u razumnom roku (dva mjeseca ili više) uzastopno oglašavana u nacionalnome tisku, službenom glasilu, specijaliziranim tiskovinama za nekretnine ili drugim prikladnim publikacijama te preko agencija za nekretnine koje se obraćaju velikom broju potencijalnih kupaca, kako bi se o njoj obavijestili svi potencijalni kupci.
+Skora prodaja zemljišta i zgrada koje bi zbog svoje visoke vrijednosti ili drugih značajki mogle privući ulagače koji posluju na europskoj ili međunarodnoj razini treba se najaviti u publikacijama koje se redovito objavljuju u međunarodnim nakladama. O ovakvim ponudama također obavještavaju agencije koje se obraćaju klijentima na europskoj ili međunarodnoj razini.
+(b) Ponuda je »bezuvjetna« kada svaki kupac, bez obzira na to bavi li se nekom djelatnošću ili bez obzira na vrstu djelatnosti, u načelu ima pravo na kupnju zemljišta i zgrada te na njihovu uporabu u vlastite svrhe. Mogu se uvesti ograničenja radi sprečavanja javnog onečišćenja zbog zaštite okoliša ili izbjegavanja isključivo špekulativnih ponuda. Ograničenja uporabe zemljišta i zgrada, koja se zbog urbanističkog i regionalnog planiranja nameću vlasnicima sukladno domaćem zakonodavstvu, ne utječu na bezuvjetnost ponude.
+(c) Ukoliko se prodaja budućem vlasniku uvjetuje preuzimanjem posebnih obveza - osim onih koje proizlaze iz općega domaćeg zakonodavstva ili odluke urbanističkih tijela ili onih koja se bave općom zaštitom i očuvanjem okoliša ili javnim zdravstvom - u korist javnih tijela ili u općem interesu javnosti, ponuda se smatra »bezuvjetnom« u smislu gornje definicije jedino ako svi potencijalni kupci moraju i mogu ispuniti spomenutu obvezu bez obzira na to bave li se nekom djelatnošću ili bez obzira na vrstu djelatnosti.
+2. Prodaja bez postupka bezuvjetne ponude
+(a) Neovisna stručna procjena
+Ako tijela javne vlasti ne namjeravaju slijediti postupak iz točke 1., prije početka pregovora o prodaji jedan ili više neovisnih vještaka za nekretnine izrađuju neovisnu procjenu kako bi se na temelju općeprihvaćenih tržišnih pokazatelja i normi vrednovanja utvrdila tržišna vrijednost. Tržišna cijena ustanovljena na taj način iznosi minimum kupovne cijene koja se može ugovoriti bez dodjeljivanja državne potpore.
+»Vještak za nekretnine« je osoba od ugleda koja:
+- posjeduje odgovarajuću diplomu priznatog učilišta ili istovrijednu akademsku kvalifikaciju,
+- ima odgovarajuće iskustvo i kompetentna je za izradu procjene zemljišta i zgrada s obzirom na njihovu lokaciju i kategoriju nekretnine.
+Ako u nekoj državi članici nisu ustanovljene odgovarajuće akademske kvalifikacije, vještak za nekretnine je član priznatog stručnog tijela nadležnog za procjenu zemljišta i zgrada i:
+- imenovan je od suda ili tijela istog statusa,
+- posjeduje, barem, priznatu potvrdu o sekundarnom obrazovanju, zadovoljavajući stupanj obuke te najmanje trogodišnje praktično iskustvo, nakon postizanja kvalifikacije i poznavanje postupka procjene zemljišta i zgrada na toj posebnoj lokaciji.
+Vještak za nekretnine je neovisan u izvođenju svojih zadaća, tj. tijela javne vlasti nisu ovlaštena za izdavanje naredbi u pogledu rezultata procjene. Državni uredi za procjenu vrijednosti, javni službenici ili zaposlenici smatraju se neovisnima pod uvjetom da je stvarno isključen svaki nepotrebni utjecaj na njihove zaključke.
+»Tržišna vrijednost« označava cijenu po kojoj bi se zemljište i zgrade mogli prodati na temelju privatnog ugovora između dobrovoljnog prodavača i neovisnog kupca na dan procjene; podrazumijeva se da je imovina javno ponuđena na tržištu, da tržišni uvjeti dozvoljavaju redovnu prodaju i da se, uzimajući u obzir vrstu imovine, raspolaže uobičajenim razdobljem za pregovore o prodaji.
+(b) Odstupanja
+Ako je nakon razumnog napora da se zemljište i zgrade prodaju po tržišnoj cijeni jasno da se ne može postići vrijednost koju je odredio stručnjak za nekretnine, odstupanja do 5% od te vrijednosti smatraju se u skladu s tržišnim uvjetima. Ako je nakon daljnjeg razumnog razdoblja jasno da se zemljište i zgrade ne mogu prodati po cijeni umanjenoj za 5% od one koju je odredio stručnjak za nekretnine, može se provesti nova procjena koja treba uzeti u obzir stečeno iskustvo i primljene ponude.
+(c) Posebne obveze
+Posebne obveze koje se odnose na zemljište i zgrade, a ne na kupca ili njegovu gospodarsku djelatnost, u javnom se interesu mogu vezati uz prodaju pod uvjetom da svi potencijalni kupci moraju i mogu ispuniti spomenute obveze bez obzira na to bave li se nekom djelatnošću ili bez obzira na vrstu djelatnosti. Neovisni stručnjaci trebaju zasebno procijeniti ekonomske gubitke zbog ovakvih obveza i oni se mogu odbiti od kupovne cijene. Obveze, čije je ispunjenje barem djelomično u interesu kupca, trebaju se procijeniti uzevši u obzir tu činjenicu: prednost za kupca može biti, na primjer, u smislu oglašavanja, sponzorstva u sportu ili umjetnosti, imidža, poboljšanja vlastitog okruženja ili rekreativnih sadržaja za osoblje.
+Ekonomsko opterećenje vezano uz obveze koje su na teret svih vlasnika u skladu s uobičajenim zakonodavstvom ne oduzimaju se od kupovne cijene (ove obveze uključuju, na primjer, brigu i održavanje zemljišta i zgrada kao dio redovnih društvenih obveza vezanih uz vlasništvo imovine ili plaćanje poreza ili sličnih izdataka).
+(d) Troškovi javnih tijela
+Primarni troškovi tijela javne vlasti za kupnju zemljišta i zgrada su pokazatelji tržišne vrijednosti osim u slučaju ako je između kupnje i prodaje zemljišta i zgrada proteklo značajno vremensko razdoblje. Iz tog razloga utvrđena tržišna vrijednost ne smije, u načelu, biti manja od primarnih troškova u razdoblju od najmanje tri godine nakon kupnje, osim ako neovisni stručnjak za nekretnine posebno ustanovi opći pad tržišnih cijena zemljišta i zgrada na mjerodavnom tržištu.
+3. Obavješćivanje
+Ne dovodeći u pitanje pravilo o potporama male vrijednosti, države članice naknadno obavještavaju Komisiju o sljedećim transakcijama kako bi se Komisiji omogućilo da utvrdi postojanje državne potpore i, ukoliko je to slučaj, da procijeni njenu usklađenost sa zajedničkim tržištem:
+(a) svaka prodaja koja nije zaključena na temelju postupka otvorene i bezuvjetne ponude, kojim se prihvaća najbolja ili jedina ponuda; i
+(b) svaka prodaja koja je, u odsustvu takvog postupka, zaključena po cijeni manjoj od tržišne vrijednosti koju su odredili neovisni stručnjaci za nekretnine.
+4. Žalbe
+Ako Komisija od trećih strana zaprimi žalbu ili drugi podnesak o navodnom elementu državne potpore vezano uz ugovor o prodaji zemljišta i zgrada u javnom vlasništvu, ona pretpostavlja da nije uključena nikakva državna potpora ukoliko podaci dostavljeni od dotične države članice pokažu da su gore spomenuta načela poštovana.
+III.
+Dopuštenost dodjele potpora kod prodaje zemljišta i zgrada od strane tijela javne vlasti ocjenjuje se sukladno člancima 3. i 4. Zakona o državnim potporama i članku 9. Uredbe o državnim potporama (»Narodne novine«, broj 50/2006) temeljem materijalnih pravila iz točke I. ove Odluke sadržanih u tekstu akta iz točke II. ove Odluke.
+Navedena pravila primjenjuju se na poduzetnike. Poduzetnici su pravne ili fizičke osobe koje, obavljajući gospodarsku djelatnost, sudjeluju u prometu roba i usluga, i to na način određen člankom 29. Pravilnika o porezu na dodanu vrijednost (»Narodne novine«, br. 60/1996, 113/1997, 7/1999, 112/1999, 119/1999, 44/2000, 63/2000, 80/2000, 109/2000, 54/2001, 58/2003, 198/2003, 55/2004, 77/2004 - ispravak, 153/2005, 79/2007 i 34/2008).
+IV.
+Tijela javne vlasti su: tijela državne uprave, jedinice lokalne i područne (regionalne) samouprave te ustanove i pravne osobe koje imaju javne ovlasti.
+Zemljištem i zgradama u javnom vlasništvu u smislu ove Odluke smatraju se nekretnine u vlasništvu Republike Hrvatske, jedinica lokalne i područne (regionalne) samouprave, te drugih tijela javne vlasti iz stavka I. ove točke.
+V.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
