@@ -1,0 +1,1 @@
+Na temelju članka 118. Zakona o strancima (»Narodne novine«, broj 79/2007) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 101/98, 15/2000, 117/2001, 199/2003 i 30/2004), Vlada Republike Hrvatske je na sjednici održanoj 12. rujna 2008. godine donijela
