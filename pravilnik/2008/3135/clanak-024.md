@@ -1,0 +1,3 @@
+# Članak 24.
+Postupak utvrđivanja uporabljivosti građevnog proizvoda, u postupku donošenja europskog tehničkog dopuštenja, provodi se prema predmetu i sadržaju tehničkog dopuštenja sadržanom u smjernicama za donošenje tehničkog dopuštenja.
+Iznimno od stavka 1. ovoga članka, postupak utvrđivanja uporabljivosti građevnog proizvoda, u postupku donošenja europskog tehničkog dopuštenja, provodi se prema interpretativnim dokumentima uzimajući u obzir odgovarajuće bitne zahtjeve za građevine ako predmet i sadržaj tehničkog dopuštenja te način ocjenjivanja proizvoda sporazumno usvoje tijela ovlaštena za izdavanje europskih tehničkih dopuštenja okupljenih u Europskoj organizaciji tijela za tehnička dopuštenja (EOTA).

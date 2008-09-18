@@ -1,0 +1,4 @@
+# Članak 29.
+Ovlaštena osoba dužna je trajno ispunjavati uvjete propisane za dobivanje ovlaštenja, te ove poslove obavljati u skladu s važećim propisima i pravilima struke.
+Ovlaštena osoba dužna je u zakonom određenom roku izvijestiti Ministarstvo o svim promjenama koje mogu utjecati na njenu sposobnost odnosno uvjete za obavljanje poslova za čije je obavljanje ovlaštena, odnosno koje obavlja na temelju ovoga Pravilnika, te dostaviti Ministarstvu svaki nalaz o nadzoru koji je provelo akreditacijsko tijelo u vezi sa ispunjavanjem uvjeta za obavljanje poslova donošenja tehničkih dopuštenja propisanih člankom 3. stavkom 4. ovoga Pravilnika.
+Proizvođač, ovlašteni zastupnik odnosno uvoznik građevnog proizvoda dužni su bez posebnog poziva i odgađanja izvijestiti ovlaštenu osobu i Ministarstvo o svim promjenama koje mogu utjecati na uporabljivost građevnog proizvoda za kojeg im je doneseno tehničko dopuštenje.

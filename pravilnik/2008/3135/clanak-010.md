@@ -1,0 +1,3 @@
+# Članak 10.
+Odgovorna osoba, zaposlenici ovlaštene osobe koji provode radnje pripreme i donošenja tehničkog dopuštenja i koji na drugi način sudjeluju u postupku donošenja tehničkog dopuštenja, te zaposlenici uprave ovlaštene osobe, ne smiju obavljati poslove proizvodnje, zastupanja, uvoza ili distribucije građevnih proizvoda i sirovina za proizvodnju građevnih proizvoda, niti smiju biti vlasnici pravnih osoba registriranih za obavljanje potonjih poslova.
+Svi zaposlenici ovlaštene osobe dužni su saznanja u vezi s građevnim proizvodima do kojih dođu u obavljanju svojega posla čuvati kao poslovnu tajnu, osim ako zakonom ili ovim Pravilnikom nije određeno drukčije.
