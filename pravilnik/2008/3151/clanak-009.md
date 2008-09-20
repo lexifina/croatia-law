@@ -1,0 +1,4 @@
+## Ocjena vrednovanja
+# Članak 9.
+Ocjena znanstvene djelatnosti temelji se na ocjeni ugovorenih i završenih znanstvenih ali i drugih projekata koji se financiraju iz Državnog proračuna, kao i ostalih znanstvenih, tehnologijskih i drugih istraživačkih projekata koji se financiraju iz drugih javnih i privatnih domaćih i međunarodnih izvora.
+Osim ocjene ugovorenih znanstvenih projekata, ocjena znanstvene organizacije uključuje i ocjenu napredovanja u znanstvenim i suradničkim zvanjima znanstvenika, suradnika i znanstvenih novaka sukladno Zakonu, vrsnoću znanstvenika i njihovu kompetentnost za izvođenje istraživanja koja su im povjerena, ustrojstvo, misiju i ciljeve znanstvene organizacije te priznanja i druge pokazatelje vrsnoće, kvalitete i učinkovitosti znanstvene organizacije i njenih zaposlenika.
