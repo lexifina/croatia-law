@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 7. Zakona o sigurnosti u željezničkom prometu (»Narodne novine« broj 40/07), ministar mora, prometa i infrastrukture u suglasnosti s ministrom gospodarstva, rada i poduzetništva donosi
