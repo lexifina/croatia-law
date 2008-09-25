@@ -1,0 +1,3 @@
+# Članak 13.
+U slučaju kad posebni propisi kojima je uređena zdravstvena ispravnost hrane predviđaju posebne identifikacijske sustave, kao što su označavanje oznaka serije za zapakirane proizvode, subjekti u poslovanju nisu obvezatni čuvati podatke iz članka 11. stavka 3. i članka 12. stavka 1. i 2. ovoga Pravilnika pod uvjetom da su ti podaci i oznaka serije jasno označeni na ambalaži i da se podatak o oznakama serije čuva tijekom razdoblja iz članka 11. stavka 4. i članka 12. stavka 2. ovoga Pravilnika.
+Odredba stavka 1. ovoga članka ne primjenjuje se na prvu fazu stavljanja na tržište proizvoda ili primarne izrade ili zapakiranog proizvoda.

@@ -1,0 +1,3 @@
+# Članak 15.
+Zahtjevi za stavljanje GMO-a na tržište moraju sadržavati jedinstveni kod (brojčani i abecedni) za svaki GMO.
+Prema oblicima navedenim u Prilogu IV. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio podnositelji zahtjeva izrađuju jedinstveni kod (brojčani i abecedni) za svaki GMO, pri čemu konzultiraju bazu podataka Organizacije za gospodarsku suradnju i razvoj (u daljnjem tekstu: OECD) za proizvode BioTrack( OECD Bio Track Product Database) i mehanizam za razmjenu informacija o biološkoj sigurnosti (Biosafety Clearing House) kako bi provjerili postoji li već jedinstveni kod (brojčani i abecedni) za taj GMO u skladu s navedenim oblicima.

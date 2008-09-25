@@ -1,0 +1,3 @@
+# Članak 17.
+Jedinstveni kod (brojčani i abecedni) dodjeljuje se svim GMO-ima za čije se stavljanje na tržište izdaje dopuštenje prema odredbama Zakona o genetski modificiranim organizmima.
+Subjekt u poslovanju koji je ishodio dopuštenje ili, po potrebi, nadležno tijelo koje je donijelo dopuštenje za stavljanje na tržište konzultiraju bazu podataka OECD-a za proizvode BioTrack i mehanizam za razmjenu informacija o biološkoj sigurnosti (Biosafety Clearing House) kako bi provjerili postoji li već jedinstveni kod (brojčani i abecedni) za taj GMO u skladu s Prilogom IV. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio.

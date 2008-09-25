@@ -1,0 +1,4 @@
+# Članak 5.
+Prijava za dobivanje dopuštenja za stavljanje na tržište proizvoda koji sadrži genetski modificirane vaskularne biljke (u daljnjem tekstu: GMVB), podnosi se na obrascu iz Priloga II. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio.
+Ispunjeni obrazac iz Priloga II. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio podnositelj prijave predaje nadležnom tijelu u pisanom i elektronskom obliku, koji je dostupan na web-stranici nadležnih tijela (www.mzss.hr i www.mps.hr)
+Kad podnositelj sukladno Zakonu o genetski modificiranim organizmima predlaže da se mu odredi manji opseg prijave iz stavka 2. ovoga članka, nadležno tijelo može donijeti odluku da prijava djelomično ili u cjelini ne mora sadržavati podatke iz točke 8., 9., 10. i 11. poglavlja E Priloga II. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio.
