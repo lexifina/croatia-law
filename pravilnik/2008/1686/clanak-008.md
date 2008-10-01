@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Kandidat koji želi polagati stručni ispit za turističkog vodiča, nakon objavljenog oglasa o održavanju seminara i ispita za turističke vodiče, podnosi prijavu ispitnoj komisiji u roku određenom u oglasu.
+(2) U prijavi kandidat treba navesti da li se prijavljuje za polaganje općeg dijela ili za polaganje općeg i posebnog dijela stručnog ispita ili samo posebnog dijela stručnog ispita ukoliko već ima položen opći dio, za koju županiju ukoliko se na visokom učilištu polaže posebni dio stručnog ispita za više županija, te iz kojeg stranog/stranih jezika želi polagati ispit.
+(3) Kandidati koji su stekli zvanje profesora stranog jezika na filozofskom fakultetu iz jezika za koji su stekli to zvanje ili kandidati koji imaju međunarodno priznatu svjedodžbu o znanju stranog jezika iz kojeg su prijavili polaganje ispita, oslobođeni su obveze polaganja ispita iz toga stranog jezika.
+(4) Kandidat koji želi polagati stručni ispit za turističkog vodiča dužan je prije ispita pohađati seminar za turističkog vodiča pri visokom učilištu.

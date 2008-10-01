@@ -1,0 +1,5 @@
+# Članak 5.
+(1) U ispitnu komisiju pred kojom kandidati za turističkog vodiča polažu ispit, kao članovi imenuju se nastavnici visokih učilišta, stručni djelatnici ministarstva nadležnog za turizam, predstavnici udruge poslodavaca turističkih agencija, a mogu se imenovati i drugi stručni djelatnici na području turizma koji imaju završen fakultet društvenog smjera, te radno iskustvo od najmanje pet godina u području turizma.
+(2) Članovi ispitne komisije, pored održavanja ispita, održavaju predavanja prema programu stručnog ispita i u predviđenom broju sati.
+(3) U ispitnu komisiju imenuje se jedan turistički vodič, i to predstavnik udruge turističkih vodiča s područja za koji se polaže posebni dio stručnog ispita ako je ista osnovana, i jedan predstavnik udruge poslodavaca turističkih agencija.
+(4) Turistički vodič i predstavnik udruge poslodavaca turističkih agencija provodit će i ispitivati predmet Operativno-tehnički poslovi vođenja za turističkog vodiča i to turistički vodič u dijelu koji se odnosi na poslove turističkog vodiča, a predstavnik udruge poslodavaca turističkih agencija u dijelu koji se odnosi na poslove turističkog praćenja.
