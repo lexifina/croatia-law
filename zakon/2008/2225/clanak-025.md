@@ -1,0 +1,5 @@
+# Članak 25.
+Ako zahtjev za upis, izmjenu upisa ili brisanje iz očevidnika proizvođača nije potpun, odnosno uz zahtjev nisu podneseni propisani podaci i dokumenti, Agencija pisanim putem poziva podnositelja zahtjeva da u roku ne duljem od 30 dana od dana primitka poziva ukloni nedostatke izričito navedene u pozivu i dostavi zatražene podatke i dokumente.
+Ako Agencija traži od podnositelja dopunu zahtjeva, rok iz članka 22. stavka 3., članka 23. stavka 4. i članka 24. stavka 3. ovoga Zakona ne teče do dana dostave dopunjenog zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje pisanog ili usmenog obrazloženja.
+Troškove u postupku davanja, uskraćivanja, izmjene i brisanja na zahtjev nositelja upisa iz očevidnika proizvođača medicinskih proizvoda, uz suglasnost ministra odredit će Agencija, a snosi ih podnositelj zahtjeva ili nositelj upisa.
+Postupak i način upisa u očevidnik proizvođača, izmjene upisa te brisanja proizvođača iz očevidnika proizvođača te potrebnu dokumentaciju pravilnikom propisuje ministar.

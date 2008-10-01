@@ -1,0 +1,5 @@
+# Članak 33.
+Ako zahtjev za upis, izmjenu upisa ili brisanje medicinskog proizvoda iz očevidnika nije potpun, odnosno uz zahtjev nisu podneseni propisani podaci i dokumenti, Agencija pisanim putem poziva podnositelja zahtjeva da u roku od 30 dana od dana primitka poziva ukloni nedostatke izričito navedene u pozivu i dostavi zatražene podatke i dokumente.
+Ako Agencija traži od podnositelja dopunu zahtjeva, rok iz članka 30. stavka 4., članka 31. stavka 4. i članka 32. stavka 4. ne teče do dana dostave dopunjenog zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje pisanog ili usmenog obrazloženja.
+Troškove u postupku davanja, uskraćivanja, izmjene i brisanja medicinskog proizvoda na zahtjev nositelja upisa iz očevidnika medicinskih proizvoda, uz suglasnost ministra odredit će Agencija, a snosi ih podnositelj zahtjeva ili nositelj upisa.
+Postupak i način upisa u očevidnik medicinskih proizvoda, izmjene upisa i brisanja medicinskog proizvoda iz očevidnika medicinskih proizvoda te potrebnu dokumentaciju pravilnikom propisuje ministar.

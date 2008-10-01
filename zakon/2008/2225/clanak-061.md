@@ -1,0 +1,2 @@
+# Članak 61.
+Za obavljanje pojedinih radnji u poslovima farmaceutske inspekcije za koje je potrebna posebna stručnost ministar će ovlastiti odgovarajuće stručnjake ako farmaceutski inspektor ne raspolaže potrebnim stručnim znanjem ili opremom za provedbu pregleda ili ispitivanja medicinskog proizvoda, odnosno provedbu pojedinih radnji u okviru inspekcijskog nadzora može povjeriti osposobljenoj ustanovi.

@@ -1,0 +1,5 @@
+# Članak 44.
+Agencija će oduzeti dozvolu za promet na veliko medicinskih proizvoda, dozvolu za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici, dozvolu za uvoz i izvoz medicinskih proizvoda ako utvrdi da podaci i dokumenti priloženi zahtjevu nisu točni ili ako nositelj dozvole više ne ispunjava uvjete na temelju kojih je dozvola dana.
+Na temelju pisanog zahtjeva nositelja dozvole Agencija će rješenjem ukinuti dozvole iz stavka 1. ovoga članka ukoliko nositelj dozvole prestaje s radom.
+Dozvola za promet na veliko medicinskih proizvoda, dozvola za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici i dozvola za uvoz i izvoz medicinskih proizvoda oduzima se i ukida rješenjem protiv kojega nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
+Popis dozvola za promet na veliko medicinskih proizvoda i popis rješenja o oduzimanju i ukidanju dozvola za promet na veliko medicinskih proizvoda objavljuje se u »Narodnim novinama«, jednom godišnje.

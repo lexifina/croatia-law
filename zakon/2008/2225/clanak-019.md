@@ -1,0 +1,5 @@
+# Članak 19.
+Kliničko ispitivanje medicinskog proizvoda provodi se uz poštivanje principa medicinske etike i obvezne zaštite privatnosti i podataka ispitanika u skladu s pravilnikom o kliničkim ispitivanjima medicinskog proizvoda i dobroj kliničkoj praksi koje donosi ministar.
+Kliničko ispitivanje medicinskog proizvoda može se provoditi samo u pravnoj osobi iz članka 16. ovoga Zakona s kojom je podnositelj zahtjeva sklopio ugovor o kliničkom ispitivanju medicinskog proizvoda.
+Ugovorom iz stavka 2. ovoga članka moraju se utvrditi ukupni troškovi provedbe kliničkog ispitivanja medicinskog proizvoda te troškovi koje snosi podnositelj zahtjeva ili naručitelj kliničkog ispitivanja, uključujući troškove medicinskih i drugih usluga pravne osobe iz članka 16. ovoga Zakona te naknade ispitivačima i ispitanicima.
+Naknade ispitivačima i ispitanicima iz stavka 3. ovoga članka podnositelj zahtjeva ili naručitelj kliničkog ispitivanja isplaćuje pravnoj osobi s kojom je sklopio ugovor o kliničkom ispitivanju medicinskog proizvoda.

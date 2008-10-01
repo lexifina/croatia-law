@@ -1,0 +1,6 @@
+# Članak 45.
+Nositelj dozvole za promet na veliko medicinskih proizvoda, dozvole za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici i dozvole za uvoz i izvoz medicinskih proizvoda obvezan je pisanim putem izvijestiti Agenciju o svim izmjenama koje se odnose na uvjete, dokumente i podatke na temelju kojih je dozvola dana.
+Rješenje o izmjeni dozvola iz stavka 1. ovoga članka Agencija daje u roku od 90 dana od dana primitka potpunog zahtjeva.
+Ako zahtjev nije potpun, odnosno uz zahtjev nisu podneseni propisani podaci i dokumenti, Agencija će pisanim putem pozvati podnositelja zahtjeva da u roku ne duljem od 30 dana od dana primitka poziva ukloni nedostatke navedene u pozivu, odnosno dostavi zatražene dokumente i podatke.
+Ako Agencija od podnositelja traži dopunu zahtjeva, rok iz stavka 2. ovoga članka ne teče do dana dostave dopunjenog zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje usmenog ili pisanog obrazloženja.
+Izmjena dozvole za promet na veliko medicinskih proizvoda, dozvole za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici i dozvole za uvoz i izvoz medicinskih proizvoda daje se rješenjem protiv kojega nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
