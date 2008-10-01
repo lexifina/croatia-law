@@ -1,0 +1,5 @@
+# Članak 4.
+ADMINISTRATIVNA POMOĆ U HITNIM SLUČAJEVIMA
+(1) Kada se zamolba ne može pravodobno uputiti preko nadležnih pravosudnih tijela a da se ne ugrozi uspjeh mjere, nadležna policijska tijela mogu u skladu s domaćim pravom policijskim tijelima druge ugovorne stranke neposredno uputiti zamolbu za osiguranje tragova i dokaza uključujući i poduzimanje tjelesnog pregleda kao i pretrage osobe i stana ili zamolbu za privremeno uhićenje. Članak 3. stavak 2. i 3. ovog Sporazuma primjenjuje se na odgovarajući način.
+(2) Policijska tijela dostavljaju zamolbu iz stavka 1. nadležnim pravosudnim tijelima u svojoj državi. Za dostavljanje rezultata mjera ugovornoj stranci moliteljici potrebna je službena zamolba za pružanje pravne pomoći, koju podnosi pravosudno tijelo. Ako je dostavljanje rezultata mjera hitno u smislu stavka 1., zamoljeno će policijsko tijelo dobivene rezultate uz suglasnost nadležnih pravosudnih tijela dostaviti neposredno policijskom tijelu ugovorne stranke moliteljice.
+(3) Na postupanje po zamolbi uključujući i provjeru pretpostavki za postojanje hitnosti primjenjuje se pravo zamoljene ugovorne stranke.
