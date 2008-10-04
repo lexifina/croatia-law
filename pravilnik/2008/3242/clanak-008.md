@@ -1,0 +1,2 @@
+# Članak 8.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 7. stavka 2. u dijelu koji se odnosi na dostavu izvješća o rezultatima monitoringa ministarstvu u pisanom i elektronskom obliku na engleskom jeziku i dijelova Priloga u dijelu u kojem se odnose na obavješćivanje Europske komisije i država članica Europske unije, koje stupaju na snagu danom punopravnog članstva Republike Hrvatske u Europskoj uniji.

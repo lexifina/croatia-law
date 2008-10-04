@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 5. Zakona o genetski modificiranim organizmima (»Narodne novine« broj 70/05) ministar zdravstva i socijalne skrbi uz suglasnost ministra poljoprivrede, ribarstva i ruralnog razvoja i ministra regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi
