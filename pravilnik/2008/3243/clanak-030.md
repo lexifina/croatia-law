@@ -1,0 +1,4 @@
+## Zaštita podataka
+# Članak 30.
+Znanstveni podaci i drugi podaci u primjeni tehničke dokumentacije potrebne prema članku 5. stavku 3. i 5. i članku 17. stavku 3. i 5. ovoga Pravilnika ne mogu se upotrebljavati u korist drugog podnositelja zahtjeva tijekom razdoblja od 10 godina od datuma izdavanja dopuštenja, osim ako se podnositelj zahtjeva i nositelj dopuštenja ne usuglase oko sukorištenja tih podataka.
+Nakon proteka razdoblja od 10 godina rezultati svih ili dijela ocjena koje su provedene na temelju podataka sadržanih u dokumentaciji zahtjeva, Agencija može upotrijebiti u korist drugog podnositelja zahtjeva ako podnositelj zahtjeva dokaže da je hrana i hrana za životinje za koju traži dopuštenje uglavnom slična hrani i hrani za životinje za koju je već u skladu s odredbama ovoga Pravilnika izdano dopuštenje za stavljanje na tržište.

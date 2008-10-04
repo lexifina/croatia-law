@@ -1,0 +1,1 @@
+Na temelju članka 90. stavka 4. i članka 93. stavka 4. Zakona o hrani (»Narodne novine« broj 46/07) ministar zdravstva i socijalne skrbi uz suglasnost ministra poljoprivrede, ribarstva i ruralnog razvoja donosi

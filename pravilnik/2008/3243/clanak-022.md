@@ -1,0 +1,5 @@
+## Izmjena, privremeno ukidanje dopuštenja i ukidanje dopuštenja
+# Članak 22.
+Agencija na vlastitu inicijativu ili na zahtjev Ministarstva nadležnog za zdravstvo uz suglasnost nadležnog tijela izdaje mišljenje o tome ispunjava li još uvijek dopuštenje za proizvod iz članka 15. stavka 1. ovoga Pravilnika uvjete iz ovoga Pravilnika. Agencija odmah šalje mišljenje Ministarstvu nadležnom za zdravstvo i nositelju dopuštenja. Agencija objavljuje svoje mišljenje, nakon brisanja svih podataka koji se u smislu članka 29. ovoga Pravilnika smatraju povjerljivima. Javnost može svoje primjedbe uputiti Ministarstvu nadležnom za zdravstvo u roku 30 dana nakon objave.
+Ministarstvo nadležno za zdravstvo mora razmotriti mišljenje Agencije, što je prije moguće. Sve potrebne mjere poduzimaju se u skladu s člankom 32. ovoga Pravilnika. Ako je to potrebno, dopuštenje se može izmijeniti, privremeno ukinuti ili ukinuti u skladu s postupkom iz članka 19. ovoga Pravilnika.
+Članak 17. stavak 2. i članci 18. i 19. ovoga Pravilnika primjenjuju se na odgovarajući način.
