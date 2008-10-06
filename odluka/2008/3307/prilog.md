@@ -1,0 +1,9 @@
+______
+1 Sadašnje referentne stope ovih država članica su one za koje su države članice odredile da predstavljaju prikladne tržišne stope. Metodologija dobivanja tih stopa razlikuje se od države članice do države članice.
+2 Dostupno na mrežnoj stranici Opće uprave za tržišno natjecanje: http://ec.europa.eu/comm/competition/state_aid/others/
+3 Međubankovna ponuđena kamatna stopa na tržištu novca.
+4 Slučajevi u kojima primatelj iskaže zadovoljavajući rejting (BB) i stopu gubitka nastalog zbog neispunjenja obveza (na engleskom »Loss Given Default (LGD)« između 31% i 59%.
+5 Kako slijedi iz studije, marže većinom ne ovise o ročnosti zajma.
+6 Normalan instrument osiguranja valja razumijevati kao razinu instrumenta osiguranja koju financijske institucije uobičajeno traže kao garanciju za svoj zajam. Razina instrumenta osiguranja može se mjeriti kao gubitak nastao zbog neispunjenja obveze (LGD) što je očekivani gubitak u postocima dužnikove izloženosti, uzimajući u obzir iznose kolaterala koje je moguće povratiti i stečajnu masu; kao posljedica ovoga, gubitak nastao zbog neispunjenja obveze (LGD) je obrnuto proporcionalan valjanosti instrumenta osiguranja. U ovom se Priopćenju pretpostavlja da »visoka« kolateralizacija upućuje na gubitak nastao zbog neispunjenja obveze (LGD) manji ili jednak 30%, »normalna« kolateralizacija ima gubitak nastao zbog neispunjenja obveze (LGD) između 31% i 59%, a »niska« kolateralizacija gubitak nastao zbog neispunjenja obveze (LGD) jednak ili veći od 60%. Za više detalja o definiciji gubitka nastalog zbog neispunjenja obveze (LGD), pogledati dokument Basel II: Međunarodna sukladnost mjerenja kapitala i standarda kapitala: revidirani okvir - sveobuhvatna verzija, dostupan na:
+http://www.bis.org/publ/bcbs128.pdf
+7 Za usporedbu najčešće korištenih mehanizama kreditnog rangiranja, pogledajte na primjer Tablicu 1 u Radnom dokumentu br. 207 Banke za međunarodne namire: http://www.bis.org/publ/work207.pdf
