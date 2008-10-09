@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. točka 1. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« broj 140/05), odredbi članka 101. točka 5. i članka 107. stavak 7. Zakona o osiguranju (»Narodne novine« broj 151/05) Hrvatska agencija za nadzor financijskih usluga na sjednici Uprave održanoj 25. rujna 2008. godine donijela je
