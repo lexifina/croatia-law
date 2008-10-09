@@ -1,0 +1,30 @@
+# Članak 2.
+Uvjeti iz članka 1. ovog Pravilnika osigurat će se u sljedećim rokovima:
+- u Općinskom sudu u Vukovaru, kojem je spojen Općinski sud u Iloku, s danom 1. siječnja 2009. godine.
+- u Općinskom sudu u Delnicama, kojem je spojen Općinski sud u Čabru, s danom 1. siječnja 2009. godine.
+- u Općinskom sudu u Glini, kojem je spojen Općinski sud u Gvozdu, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Hrvatskoj Kostajnici, kojem je spojen Općinski sud u Dvoru, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Gospiću, kojem su spojeni Općinski sud u Gračacu, Donjem Lapcu, Otočcu i Korenici, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Pazinu, kojem je spojen Općinski sud u Buzetu, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Ivanić Gradu, kojem je spojen Općinski sud u Čazmi, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Krapini, kojem je spojen Općinski sud u Pregradi, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Zlataru, kojem je spojen Općinski sud u Donjoj Stubici, do 31. prosinca 2009. godine.
+- u Općinskom sudu u Slatini, kojem je spojen Općinski sud u Orahovici, do 31. prosinca 2010. godine.
+- u Općinskom sudu u Metkoviću, kojem su spojeni Općinski sud u Pločama i Vrgorcu, do 31. prosinca 2010. godine.
+- u Općinskom sudu u Benkovcu, kojem je spojen Općinski sud u Obrovcu, do 31. prosinca 2010. godine.
+- u Općinskom sudu u Ogulinu, kojem je spojen Općinski sud u Vrbovskom, do 31. prosinca 2010. godine.
+- u Općinskom sudu u Valpovu, kojem je spojen Općinski sud u Donjem Miholjcu, do 31. prosinca 2011. godine.
+- u Općinskom sudu u Zaboku, kojem je spojen Općinski sud u Klanjcu, do 31. prosinca 2011. godine.
+- u Općinskom sudu u Kutini, kojem je spojen Općinski sud u Novskoj, do 31. prosinca 2012. godine.
+- u Općinskom sudu u Virovitici, kojem je spojen Općinski sud u Pitomači, do 31. prosinca 2012. godine.
+- u Općinskom sudu u Zadru, kojem je spojen Općinski sud u Biogradu n/M, do 31. prosinca 2013. godine.
+- u Općinskom sudu u Karlovcu, kojem su spojeni Općinski sud u Vojniću, Slunju i Ozlju, do 31. prosinca 2013. godine.
+- u Općinskom sudu u Šibeniku, kojem je spojen Općinski sud u Tisnom, do 31. prosinca 2013. godine.
+- u Općinskom sudu u Čakovcu, kojem je spojen Općinski sud u Prelogu, do 31. prosinca 2014. godine.
+- u Općinskom sudu u Koprivnici, kojem je spojen Općinski sud u Đurđevcu, do 31. prosinca 2015. godine.
+- u Općinskom sudu u Daruvaru, kojem su spojeni Općinski sud u Garešnici, Grubišnom Polju i Pakracu, do 31. prosinca 2016. godine.
+- u Općinskom sudu u Splitu, kojem su spojeni Općinski sud u Omišu, Kaštel Lukšiću i Solinu, do 31. prosinca 2017. godine.
+- u Općinskom sudu u Sesvetama, kojem su spojeni Općinski sud u Dugom Selu i Sv. I. Zelini, do 31. prosinca 2017. godine.
+- u Općinskom sudu u Sisku, kojem je spojen Općinski sud u Petrinji, do 31. prosinca 2018. godine.
+- u Općinskom sudu u Varaždinu, kojem su spojeni Općinski sud u Novom Marofu, Ludbregu i Ivancu, do 31. prosinca 2018. godine.
+- u Općinskom sudu u Crikvenici, kojem je spojen Općinski sud u Senju, do 31. prosinca 2019. godine.
