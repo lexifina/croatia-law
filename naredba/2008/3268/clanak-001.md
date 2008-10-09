@@ -1,0 +1,13 @@
+# Članak 1.
+1) Ovom se Naredbom zabranjuje primjena na farmskim životinjama određenih beta-agonista te tvari hormonskog i tireostatskog učinka.
+2) Za potrebe ove Naredbe primjenjuju se pojmovi za meso i proizvode od mesa iz Pravilnika o higijeni hrane životinjskog podrijetla (»Narodne novine«, broj 99/07)2 i pojam za veterinarsko-medicinski proizvod iz Zakona o veterinarsko-medicinskim proizvodima (»Narodne novine«, broj 84/08)3.
+3) Osim pojmova iz stavka 2. ovoga članka primjenjuju se i sljedeći pojmovi:
+(a) Farmske životinje su domaće životinje vrste goveda, svinje, ovce, koze, domaći kopitari, perad i kunići te divlje životinje navedenih vrsta i divlji preživači koji se uzgajaju na gospodarstvu;
+(b) Neponovljivi recept je recept temeljem kojeg se veterinarsko-medicinski proizvod može izdati samo jedanput i nosi oznaku »non repetatur«;
+(c) Terapijska primjena je primjena odobrenih veterinarsko-medicinskih proizvoda u skladu s člankom 4. ove Naredbe na pojedinim farmskim životinjama, nakon veterinarskoga pregleda u svrhu tretiranja problema plodnosti, uključujući prekid neželjenog graviditeta, i u slučaju primjene beta-agonista u svrhu indukcije kontrakcija glatkih mišića maternice (tokoliza) u krava kod teljenja, te u svrhu liječenja respiratornih problema i induciranja tokolize kod kopitara koji nisu uzgajani za proizvodnju mesa;
+(d) Zootehnička primjena je primjena:
+- na pojedinoj farmskoj životinji nakon veterinarskog pregleda, bilo koje odobrene tvari navedene u članku 5. ove Naredbe, u svrhu sinkronizacije estrusa i pripreme davateljice i primateljice za implantaciju embrija, od strane veterinara ili u skladu s člankom 5. stavkom 2. ove Naredbe pod odgovornošću veterinara
+- kod životinja akvakulture kada se u svrhu promjene spola skupini rasplodnih životinja daje proizvod izdan na veterinarski recept i pod odgovornošću veterinara;
+(e) Nedopuštena primjena je primjena neodobrenih tvari ili proizvoda, ili primjena odobrenih tvari ili proizvoda u druge svrhe od onih za koje su odobrene i/ili u uvjetima drugačijima od onih koji su propisani;
+(f) Proizvodi akvakulture su svi proizvodi ribarstva proizvedeni i uzgojeni u kontroliranim uvjetima do stavljanja u promet kao hrana, uključujući morske ili slatkovodne ribe ili rakove ulovljene u njihovom prirodnom okolišu kao juvenilne koji se drže do postizanja komercijalne veličine za prehranu ljudi. Ribe i rakovi komercijalne veličine ulovljeni u njihovom prirodnom okolišu, koji se održavaju živima u svrhu kasnije prodaje, ne smatraju se proizvodima akvakulture, ukoliko se ne dohranjuju;
+(g) Nadležno tijelo je Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja.
