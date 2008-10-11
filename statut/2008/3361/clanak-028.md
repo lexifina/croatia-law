@@ -1,0 +1,6 @@
+## Postupak javne rasprave
+# Članak 28.
+(1) Prije donošenja odluka i drugih upravnih akata od značajnijeg utjecaja na mjerodavno tržište, koje donosi u skladu s odredbama Zakona, Agencija će objaviti prijedlog odluke ili drugog upravnog akta u svrhu provedbe javne rasprave, kako bi se svim zainteresiranim stranama omogućilo davanje mišljenja, primjedaba i prijedloga u vezi s predloženim mjerama.
+(2) Trajanje javne rasprave iz stavka 1. ovoga članka ne može biti kraće od 30 dana a predmet i postupak Agencija objavljuje u skladu s odredbama članka 27. Statuta.
+(3) Postupak javne rasprave u skladu sA stavkom 1. i 2. ovoga članka primjenjuje se i u postupku donošenja propisa za provedbu Zakona, koji su u nadležnosti Agencije u skladu s odredbama Zakona, te godišnjeg financijskog plana i godišnjeg programa rada Agencije, Plana adresiranja i Plana numeriranja, Tablice namjene radiofrekvencijskog spektra i planova dodjele radijskih frekvencija, te u postupku donošenja njihovih izmjena i dopuna.
+(4) Agencija mora osigurati, u okviru svojih internetskih stranica ili na drugi prikladan način, uspostavu jedinstvenog informacijskog središta koje omogućuje neposredni javni uvid i sudjelovanje u svim trenutno otvorenim javnim raspravama, vodeći pritom računa o tajnosti podataka u skladu s člankom 29. Statuta i posebnih propisa o tajnosti podataka.
