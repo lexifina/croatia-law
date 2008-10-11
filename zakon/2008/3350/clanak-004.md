@@ -1,0 +1,2 @@
+# Članak 4.
+Uredbe koje je Vlada Republike Hrvatske donijela na temelju Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, br. 103/07.) koje vrijede na dan stupanja na snagu ovoga Zakona ostaju na snazi, a najdulje do 31. prosinca 2008., osim Uredbe o izmjeni i dopuni Zakona o trgovini (»Narodne novine« br. 96/08.) koja prestaje vrijediti na dan stupanja na snagu ovoga Zakona.
