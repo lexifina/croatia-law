@@ -1,0 +1,2 @@
+# Članak 35.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 19. stavka 1. točke 3., članka 29. stavka 1. točke 5. i članka 31.a Zakona o sudovima (»Narodne novine«, br. 150/05. i 16/07.) s izmjenama utvrđenim ovim Zakonom koje stupaju na snagu 1. studenoga 2009. te odredbe članka 19. stavka 1. točke 4. i članka 29. stavka 1. točke 6. koje stupaju na snagu na dan prijama Republike Hrvatske u Europsku uniju.
