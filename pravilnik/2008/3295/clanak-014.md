@@ -1,0 +1,4 @@
+# Članak 14.
+Kontrolni postupak ne može provoditi niti u njemu može sudjelovati osoba koja je u razdoblju od 3 godine prije dana utvrđivanja sumnje u svojstva građevnog proizvoda sudjelovala u postupku ocjenjivanja sukladnosti i/ili izdavanja potvrde o sukladnosti proizvoda u čija se svojstva sumnja.
+Danom utvrđivanja sumnje u svojstva građevnog proizvoda smatra se dan njezinog evidentiranja u službenoj bilješci, odnosno u zapisniku o nadzoru građevnog proizvoda u čija svojstva se sumnja, neovisno o datumu zaprimanja eventualne prijave ili drugog načina saznanja o tom proizvodu. Osoba koja provodi nadzor dužna je evidentirati sumnju u svojstva građevnog proizvoda i razloge za nju.
+Osoba određena za provedbu kontrolnog postupka mora se prigodom odgovora na zahtjev za provedbu kontrolnog postupka, bez posebnog poziva, pisanom izjavom izjasniti o činjenicama bitnim za primjenu stavka 1. ovoga članka. Ova se izjava posebno ne ispituje, osim u slučaju sumnje.

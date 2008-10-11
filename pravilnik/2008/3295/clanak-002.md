@@ -1,0 +1,2 @@
+# Članak 2.
+Inspekcijski nadzor građevnih proizvoda u okviru svoje nadležnosti, gospodarski inspektor Državnog inspektorata (u daljnjem tekstu: gospodarski inspektor) i građevinski inspektor Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva (u daljnjem tekstu: građevinski inspektor) provode po službenoj dužnosti u skladu s planom inspekcijskih nadzora ili povodom saznanja o povredi Zakona o građevnim proizvodima.

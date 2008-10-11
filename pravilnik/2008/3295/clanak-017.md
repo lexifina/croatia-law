@@ -1,0 +1,2 @@
+# Članak 17.
+Ako otklanjanje nedostataka građevnog proizvoda za kojeg je naređen povrat nije moguće ili bi to otklanjanje uzrokovalo nerazmjerne troškove, a proizvod se ne može izvesti ili staviti na tržište kao proizvod koji nije građevni, osoba koja je izdala izjavu o sukladnosti građevnog proizvoda mora osigurati da se s njime gospodari kao s otpadom u skladu s propisima o gospodarenju otpadom.
