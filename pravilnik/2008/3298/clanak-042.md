@@ -1,0 +1,6 @@
+# Članak 42.
+Izmjene zbog izvanrednih sigurnosnih mjera sukladno članku 27. Zakona su izmjene zbog novih saznanja u svezi primjene gotovog lijeka zbog kojih je potrebno neodgodivo, a radi zaštite zdravlja stanovništva, ograničiti primjenu lijeka u odnosu na odobrenu primjenu, npr. suziti terapijsko područje, promijeniti doziranje, ograničiti primjenu lijeka na usku populaciju, proširiti kontraindikacije ili mjere upozorenja ili drugo.
+Ako nositelj odobrenja poduzme izvanrednu sigurnosnu mjeru ili mjere obvezan je o poduzetom bez odgode pisano izvijestiti Agenciju.
+Izvanredna sigurnosna mjera ili mjere iz stavka 1. ovoga članka je prihvaćena ako Agencija u roku od 24 sata od primitka pisane obavijesti ne zatraži poduzimanje dodatnih sigurnosnih mjera.
+Nositelj odobrenja obvezan je u slučaju iz stavka 1. i 2. ovoga članka Agenciji podnijeti zahtjev za odobrenje izmjene s dokumentacijom sukladno odredbama ovoga Pravilnika, najkasnije u roku 15 dana od dana primjene izvanredne sigurnosne mjere.
+Ako Agencija naloži nositelju odobrenja poduzimanje izvanredne sigurnosne mjere ili mjera u slučaju iz članka 27. stavka 5. Zakona, nositelj odobrenja obvezan je poduzeti te mjere bez odgode i podnijeti zahtjev za odobrenje izmjene s dokumentacijom sukladno odredbama ovoga Pravilnika u roku koji odredi Agencija.

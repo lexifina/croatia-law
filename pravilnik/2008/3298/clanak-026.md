@@ -1,0 +1,5 @@
+# Članak 26.
+Uz zahtjev za davanje odobrenja za stavljanje u promet lijeka iz članka 17. stavka 1. točke a) Zakona podnositelj zahtjeva obvezan je priložiti dokumentaciju o lijeku propisanu za Modul 1, 2, 3, 4 i/ili 5.
+Modul 4 i/ili Modul 5 sastoji se od kombinacije izvješća o provedenim ograničenim nekliničkim i/ili kliničkim ispitivanjima i podataka iz znanstvene literature.
+U slučaju da djelatna tvar u terapijskom dijelu ima istu strukturu kao i djelatna tvar referentnog lijeka ali je u obliku različitih soli, estera i derivata, potrebno je dokazati da nema razlike u farmakokinetici, farmakodinamici i/ili toksičnosti koja bi mogla utjecati na omjer sigurnosti primjene i/ili djelotvornosti, ili će se ovaj oblik smatrati novom djelatnom tvari.
+Ako je lijek namijenjen za različitu terapijsku primjenu ili je u različitom farmaceutskom obliku, ima drugi put primjene ili je u različitim dozama ili načinu doziranja, potrebno je dostaviti rezultate odgovarajućih toksikoloških, farmakoloških ispitivanja i/ili kliničkih ispitivanja.

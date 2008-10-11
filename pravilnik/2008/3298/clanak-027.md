@@ -1,0 +1,5 @@
+# Članak 27.
+Uz zahtjev za davanje odobrenja za stavljanje u promet biološkog lijeka sličnog referentnom biološkom lijeku iz članka 17. stavka 1. točke b) Zakona potrebno je priložiti dokumentaciju o lijeku propisanu za Modul 1, 2, 3 te Module 4 i 5 koji trebaju sadržavati dodatne podatke o provedenim nekliničkim i kliničkim ispitivanjima u svrhu dokazivanja sličnosti dvaju bioloških lijekova.
+Osim dokumentacije iz stavka 1. ovoga članka opseg i vrstu dodatnih podataka (npr. toksikološki i ostali neklinički te odgovarajući klinički podaci) koji se moraju dostaviti, odredit će Agencija prema pojedinačnom slučaju, u skladu s odgovarajućim znanstvenim saznanjima.
+Zbog različitosti bioloških lijekova u Modulima 4 i 5 podnositelj zahtjeva obvezan je dostaviti podatke o provedenim ispitivanjima uzimajući u obzir specifične karakteristike svakog biološkog lijeka.
+U slučaju kada referentni, izvorni odobreni lijek ima više od jedne indikacije, djelotvornost i sigurnost primjene biosličnog lijeka mora biti obrazložena/opravdana ili, ako je potrebno, dokazana posebno za svaku navedenu indikaciju.

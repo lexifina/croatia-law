@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 4., članka 19. stavka 7., članka 23. stavka 8., članka 24. stavka 10., članka 25. stavka 2., članka 41. stavka 5., članka 46. stavka 2., članka 47. stavka 3. i članka 48. i članka 111. stavka 6. Zakona o lijekovima (»Narodne novine«, br. 71/07) ministar zdravstva i socijalne skrbi donosi

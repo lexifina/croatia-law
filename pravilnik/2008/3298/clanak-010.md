@@ -1,0 +1,4 @@
+# Članak 10.
+U pripremi Modula 1 potrebno je koristiti nazive prema Hrvatskoj farmakopeji za djelatne i pomoćne tvari u sastavu lijeka, a normirane izraze za farmaceutske oblike, načine primjene lijeka i spremnike (unutarnje pakovanje).
+Kada neka tvar nije obuhvaćena Hrvatskom farmakopejom, njen naziv treba tvoriti prema jednakim pravilima kao što su tvoreni hrvatski nazivi u Hrvatskoj farmakopeji.
+Kada za neki farmaceutski oblik, način odnosno put primjene ili spremnik nije naveden hrvatski normirani izraz niti u Hrvatskoj farmakopeji niti u publikaciji »Standard terms: Pharmaceutical dosage forms, Routes of administration, Containers«, tada uz korišteni hrvatski izraz za farmaceutski oblik, način odnosno put primjene ili spremnik treba dostaviti detaljan opis i po mogućnosti engleski izraz.

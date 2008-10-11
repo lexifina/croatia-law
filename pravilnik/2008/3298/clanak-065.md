@@ -1,0 +1,10 @@
+# Članak 65.
+Uz zahtjev za obnovu odobrenja za stavljanje lijeka u promet nositelj odobrenja uz dokumentaciju propisanu za Modul 1 dostavlja Modul 2 i Modul 5.
+Modul 2 sadrži:
+- izvješće stručnjaka o kakvoći ili izjava stručnjaka da je u razdoblju od davanja odobrenja obuhvaćen svaki tehnički i znanstveni napredak u postupku proizvodnje i provjere kakvoće lijeka, da su prijavljene sve izmjene i da su važeći zahtjevi kakvoće za djelatnu tvar i gotov lijek kao i kvalitativni i kvantitativni sastav lijeka,
+- izvješće stručnjaka o nekliničkim podacima ili izjavu stručnjaka koja podržava ponovnu ocjenu odnosa rizika i koristi na temelju nekliničkih podataka sakupljenih nakon davanja odobrenja odnosno od zadnje obnove odobrenja ili bilo koje nove dostupne informacije. Ako takvi podaci ne postoje potrebna je izjava da nema novih raspoloživih nekliničkih podataka koji bi utjecali na izmjenu odnosa rizika i koristi,
+- izvješće stručnjaka o kliničkim podacima mora upućivati na trenutni odnos rizika i koristi na temelju podataka iz Periodičkog izvješća o neškodljivosti i podataka o odnosu sigurnosti i djelotvornosti sakupljenih nakon davanja odobrenja odnosno od zadnje obnove odobrenja ili bilo koje nove dostupne informacije, ili izjava kojom potvrđuje da lijek može biti sa sigurnošću odobren na sljedećih 5 godina, da će Agencija biti obaviještena o svakom dodatnom podatku značajnom za ocjenu odnosa rizika i koristi i da nema raspoloživih kliničkih podataka koji mijenjaju ili zahtijevaju novu ocjenu rizika i koristi.
+Modul 5 sadrži:
+- podatke o iskustvima nakon stavljanja lijeka u promet, ako postoje,
+- vezni PSUR koji obuhvaća period od 4 godine i 4 mjeseca od datuma stavljanja lijeka u promet u Republici Hrvatskoj.
+Iznimno, uz pisano obrazloženje nositelj odobrenja umjesto veznog PSUR-a, može dostaviti dodatni PSUR za vrijeme od zaključenja prethodnog PSUR-a. Dodatni PSUR ne može obuhvatiti razdoblje duže od 12 mjeseci, a datum zaključnih podataka ne smije biti stariji od 60 dana od dana predaje zahtjeva za obnovu odobrenja.

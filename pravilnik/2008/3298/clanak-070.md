@@ -1,0 +1,14 @@
+## VI. PRIJENOS ODOBRENJA ZA STAVLJANJE GOTOVOG LIJEKA U PROMET
+# Članak 70.
+Zahtjev za prijenos odobrenja za stavljanje gotovog lijeka u promet na drugu pravnu osobu sa sjedištem u Republici Hrvatskoj, Agenciji podnosi nositelj odobrenja za stavljanje u promet gotovog lijeka.
+Pisani zahtjev iz stavka 1. ovoga članka podnosi se posebno za svaki naziv lijeka, farmaceutski oblik, jačinu, vrstu i veličinu/e pakovanja.
+Uz zahtjev za prijenos odobrenja podnositelj zahtjeva prilaže:
+1. podatke o gotovome lijeku za koji se traži prijenos odobrenja (naziv gotovog lijeka, farmaceutski oblik, jačinu, vrstu i veličinu/e pakovanja),
+2. presliku važećeg odobrenja za stavljanje gotovog lijeka u promet čiji se prijenos traži s odobrenim Sažetkom opisa svojstava lijeka, uputom o lijeku i označavanjem,
+3. izvornik izjave odgovorne osobe nositelja odobrenja da su suglasni s prijenosom odobrenja za stavljanje gotovog lijeka u promet na drugu pravnu osobu kao i svih prava i dužnosti nositelja odobrenja na tu drugu pravnu osobu te s prijenosom cjelokupne dokumentacije o lijeku na temelju koje je odobrenje dano kao i svih odobrenih izmjena nakon davanja odobrenja za stavljanje u promet gotovog lijeka (navesti za koji gotov lijek, na koju drugu pravnu osobu i druge podatke),
+4. dokaz o upisu pravne osobe sa sjedištem u Republici Hrvatskoj na koju se prenosi odobrenje za stavljanje u promet gotovog lijeka u sudski registar nadležnog trgovačkog suda (izvornik ili preslika ovjerena od javnog bilježnika, ne starija od šest mjeseci od dana podnošenja zahtjeva),
+5. izvornik izjave odgovorne osobe pravne osobe sa sjedištem u Republici Hrvatskoj na koju se prenosi odobrenje za stavljanje u promet gotovog lijeka da prihvaća prijenos odobrenja, prava i dužnosti, odgovornosti za gotovi lijek te da prihvaća cjelokupnu dokumentaciju o lijeku na temelju koje je odobrenje dano kao i sve odobrene izmjene, (navesti za koji gotovi lijek, na koju drugu pravnu osobu i dr. potrebne podatke),
+6. dokaz o pravu zastupanja - ugovor o zastupanju (izvornik ili preslika ovjerena od javnog bilježnika, ako ugovor o zastupanju nije zaključen na hrvatskome jeziku isti mora biti propisno ovjeren i preveden od strane ovlaštenog sudskog tumača),
+7. izjavu odgovorne osobe pravne osobe sa sjedištem u Republici Hrvatskoj na koju se prenosi odobrenje da raspolaže, odnosno da je odredio odgovornu osobu za farmakovigilanciju koja će mu biti neprekidno sukladno članku 72. Zakona biti na raspolaganju (životopis, adresu, broj telefona i telefaksa) te opis farmakovigilancijskog sustava i po potrebi Plana upravljanja rizikom,
+8. prijedlog Sažetka opisa svojstava lijeka, upute o lijeku i označavanja lijeka (s podacima o pravnoj osobi na koju se prenosi odobrenje),
+9. potvrdu o uplaćenoj upravnoj pristojbi i plaćenim troškovima postupka.

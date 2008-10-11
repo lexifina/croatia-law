@@ -1,0 +1,7 @@
+# Članak 52.
+Uz zahtjev za odobrenje veće izmjene II, i to načina izdavanja lijeka na recept u način izdavanja bez recepta potrebno je priložiti sljedeću dokumentaciju:
+- popunjeni obrazac za prijavu izmjene u dokumentaciji o lijeku,
+- kliničko mišljenje s kritičkim osvrtom predloženog načina izdavanja lijeka bez recepta s obzirom na predloženu dozu lijeka i indikacije te obrazloženjem iz kojeg je vidljivo da lijek ima veliku terapijsku širinu i ne predstavlja izravnu ili neizravnu opasnost pri primjeni bez liječničkog nadzora ako se primjenjuje ispravno, odnosno, u skladu sa odobrenom uputom, da su djelotvornost kao i nuspojave lijeka dobro poznate i ne zahtijevaju daljnja ispitivanja, da lijek nije namijenjen za parenteralnu primjenu odnosno da je izdavanje lijeka bez recepta moguće s obzirom na veličinu pakovanja, farmaceutski oblik, najvišu pojedinačnu ili dnevnu dozu ili druge uvjete uporabe lijeka,
+- mišljenje o podnošljivosti lijeka temeljeno na literaturnim podacima ili ispitivanjima koja pokazuju nisku toksičnost lijeka kao i poseban komentar interakcija lijeka i mogućih posljedica u primjeni, moguće posljedice neispravne primjene lijeka s obzirom na dužu uporabu od propisane ili uporabe više doze od propisane i slično temeljeno na praćenju lijeka u primjeni nakon stavljanja u promet, kliničkim ispitivanjima i znanstvenoj literaturi,
+- PSUR,
+- podatke o potrošnji lijeka te posebice podatke koji se odnose na iskustva u primjeni toga lijeka u drugim državama u kojima se izdaje bez recepta.
