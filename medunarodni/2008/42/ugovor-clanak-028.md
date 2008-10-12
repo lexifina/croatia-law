@@ -1,0 +1,7 @@
+# Članak 28.
+IZMJENE I DOPUNE KONVENCIJE
+1. Bilo koja stranka može predložiti izmjene i dopune Konvencije. Takve izmjene i dopune razmatrat će se na Konferenciji stranaka.
+2. Izmjene i dopune Konvencije usvaja Konferencija stranaka. Prijedlog teksta izmjene i dopune Konvencije, strankama priopćuje Tajništvo najmanje šest mjeseci prije sjednice na kojoj će se razmatrati njezino usvajanje. Tajništvo, također, priopćava prijedloge izmjena i dopuna potpisnicama Konvencije i, kao obavijest, depozitaru.
+3. Stranke nastoje jednoglasno postići dogovor oko svakog prijedloga izmjene i dopune ove Konvencije. Ako su sve mogućnosti za jednoglasno postizanja dogovora iscrpljene, a nije postignut nikakav dogovor, izmjena i dopuna se može, kao posljednja mogućnost, usvojiti tročetvrtinskom većinom glasova svih prisutnih stranaka i njihovim glasovanjem na sjednici. U svrhu ovoga članka, prisutne stranke i stranke koje glasuju su stranke koje glasaju za ili protiv. Tajništvo priopćava sve usvojene izmjene i dopune depozitaru, koji ga potom šalje svim strankama na prihvat.
+4. Isprave o prihvatu izmjena i dopuna polažu se kod depozitara. Izmjena i dopuna, koja je prihvaćena sukladno stavku 3. ovoga članka, stupa na snagu za one stranke koje su je prihvatile devedeset dana nakon datuma kada depozitar primi isprave o prihvatu najmanje dviju trećina stranaka Konvencije.
+5. Izmjena i dopuna stupa na snagu za ostale stranke devedeset dana nakon datuma polaganja isprave o prihvatu navedene izmjene i dopune od strane stranke kod depozitara.
