@@ -1,0 +1,5 @@
+## Dopušteno odstupanje od kakvoće
+# Članak 220.
+(1) Za češnjak Ekstra klase u pakiranju može biti masom do 5% češnjaka koji ne udovoljava zahtjevima Ekstra klase, ali udovoljava zahtjevima propisanim za Klasu I, ili je, u iznimnim slučajevima, unutar dopuštenog odstupanja za Klasu I.
+(2) Za češnjak Klase I u pakiranju može biti masom do 10% češnjaka koji ne udovoljava zahtjevima Klase I, ali udovoljava zahtjevima propisanim za Klasu II, ili je, u iznimnim slučajevima, unutar dopuštenog odstupanja za Klasu II. Unutar ovoga odstupanja ne smije biti masom više od 1% lukovica s češnjevima s vanjskim znakovima klijanja.
+(3) Za češnjak Klase II u pakiranju dopušteno je masom do 10% češnjaka koji ne udovoljava zahtjevima Klase II, niti minimalnim zahtjevima kakvoće, osim češnjaka koji je podlegao truljenju, oštećenju od mraza ili sunca, ili kvarenju koje ga čini neprikladnim za potrošnju. Unutar ovoga odstupanja dozvoljeno je masom maksimalno do 5% lukovica s češnjevima s vanjskim znakovima klijanja.
