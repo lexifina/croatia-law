@@ -1,0 +1,14 @@
+# Članak 26.
+Iza članka 104. dodaju se članci 104a., 104b. i 104c. i naslov iznad njih:
+»11.5. Odjel za clustere i zadruge
+Članak 104a.
+Odjel za clustere i zadruge predlaže mjere i aktivnosti za razvoj clustera i zadruga, potiče osnivanje i povezivanje clustera i zadruga, organizira i osigurava provedbu poticajnih mjera, analizira i prati njihove učinke; predlaže i provodi mjere za poticanje razvoja clustera i zadruga; prati i prikuplja informacije te analizira stanje i sastavlja izvješća o radu istih; koordinira aktivnosti na razvoju istih; priprema izvješća o radu clustera i zadruga; prati provedbu zakona i podzakonskih propisa iz ovoga područja; nadzire namjensko korištenje sredstava za clustere i zadruge; obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Odjela za clustere i zadruge, ustrojavaju se sljedeći odsjeci:
+11.5.1. Odsjek za clustere
+11.5.2. Odsjek za zadruge.
+11.5.1. Odsjek za clustere
+Članak 104b.
+Odsjek za clustere obavlja poslove u svezi s osnivanjem, vodi registar clustera, prati i analizira rad unutar clustera, te predlaže mjere za razvoj djelatnosti u njima, obavlja promidžbene, marketinške aktivnosti sa svrhom internacionalizacije hrvatskog gospodarstva i planira i provodi poslove koji se odnose na promidžbeno marketinške aktivnosti s ciljem privlačenja kapitala u clustere, predlaže i unaprjeđuje zakonsku regulativu u cilju poboljšanja uvjeta za ulaganje, surađuje s drugim državnim tijelima Republike Hrvatske u cilju uspostave potrebne organizacijske strukture za provođenje zakona i drugih akata iz područja clustera u Republici Hrvatskoj, izrađuje prijedloge propisa kojima se uređuju pravna pitanja te prati primjenu zakonskih propisa; izrađuje izvješća i pruža stručne informacije iz djelokruga svoje nadležnosti.
+11.5.2. Odsjek za zadruge
+Članak 104c.
+Odsjek za zadruge prati stanje u zadrugarstvu, predlaže i nadzire provođenje mjera za razvoj zadruga i zadrugarstva; prati i analizira stanje u zadrugarstvu; prati i nadzire provođenje zakona i podzakonskih propisa kojima se uređuju uvjeti i način poslovanja zadruga; predlaže mjere gospodarske politike za brži razvoj zadrugarstva te skrbi o provođenju predloženih mjera; poduzima aktivnosti za promidžbu zadrugarstva i poticanje organiziranog nastupa zadruga u zemlji i inozemstvu; priprema nacrte prijedloga zakona i prijedloge drugih propisa iz svoje nadležnosti; prati međunarodne propise iz područja zadrugarstva; predlaže i prati stručnu izobrazbu zadrugara i zaposlenih; izrađuje naputke i daje mišljenja u svezi s provođenjem zakonskih i podzakonskih propisa iz svoga djelokruga; surađuje s drugim tijelima državne uprave i Hrvatskim savezom zadruga na rješavanju problema vezanih uz poslovanje zadruga; surađuje sa znanstvenim i stručnim institutima te obavlja i druge poslove iz svoga djelokruga.«
