@@ -1,0 +1,8 @@
+# Članak 5.
+Iza članka 3. dodaje se članak 3.a i naslov iznad njega koji glasi:
+»POSEBNOSTI POVJERENIČKIH I ZAJEDNIČKIH BANKOVNIH RAČUNA TE BANKOVNIH RAČUNA OPTEREĆENIH ZALOŽNIM PRAVOM
+Članak 3.a
+(1) Ako je na temelju ugovora o otvaranju bankovnoga računa izričito ugovoreno da najmanje dva imatelja taj bankovni račun vode zajednički (zajednički račun), gornja granica prava na obeštećenje iz članka 4. ovoga Zakona kod zajedničkih bankovnih računa utvrđuje se s obzirom na udio u depozitu svakoga pojedinog imatelja zajedničkoga bankovnog računa. Svakom imatelju zajedničkoga bankovnog računa pribrojit će se jednak udio u depozitu po zajedničkome bankovnom računu, osim ako drukčije nije ugovoreno prilikom sklapanja ugovora o otvaranju zajedničkoga bankovnog računa.
+(2) Svi bankovni računi društava bez pravne osobnosti, nasljedničkih i suvlasničkih zajednica smatraju se za potrebe ovoga Zakona depozitom jednog vjerovnika kreditne institucije.
+(3) Ako je na temelju ugovora o otvaranju bankovnog računa izričito ugovoreno da vjerovnik taj bankovni račun vodi u svoje ime, a za račun drugoga (povjerenički račun), gornja granica prava na obeštećenje iz članka 4. ovoga Zakona utvrđuje se s obzirom na osobu za čiji račun se vodi povjerenički bankovni račun.
+(4) Ako je na depozitu zasnovano založno pravo, neovisno o tome je li ono zasnovano dobrovoljno ili u sudskom postupku, zahtjev za obeštećenjem iz članka 6. stavka 6. ovoga Zakona mogu postaviti i založni dužnik i založni vjerovnik. Neovisno o tome tko je postavio zahtjev za obeštećenjem, Agencija će svoju obvezu ispuniti na račun založnoga dužnika, a založno pravo nastavlja teretiti iznos isplaćene naknade za obeštećenje.«
