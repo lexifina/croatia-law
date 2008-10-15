@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) i točke I. Odluke o prestanku važenja Odluke o graničnoj obveznoj pričuvi (»Narodne novine«, br. 116/2008.) guverner Hrvatske narodne banke donio je 13. listopada 2008.
