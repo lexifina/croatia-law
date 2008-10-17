@@ -1,0 +1,1 @@
+Odluka o testnom proširenju pilot-projekta elektroničke komunikacije s registarskim sudom radi upisa društva s ograničenom odgovornošću s temeljnim kapitalom u novcu u sudski registar pod radnim naziv

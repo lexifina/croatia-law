@@ -1,0 +1,1 @@
+Na temelju članka 28. stavak 2. Zakona o izmjenama i dopunama Zakona o sudskom registru (»Narodne novine«, broj 40/07.) te članka 1. stavak 2. i 3. Naputka o uvjetima i načinu ostvarivanja elektroničke komunikacije s registarskim sudom radi upisa društva s ograničenom odgovornošću u sudski registar (»Narodne novine«, broj 109/07., 62/08.), ministrica pravosuđa donosi
