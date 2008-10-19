@@ -1,0 +1,3 @@
+# Članak 10.
+Obveze osnivača prema Kazalištu obuhvaćaju plansko i redovito osiguravanje sredstava u predviđenim rokovima temeljem Zakona o financiranju javnih potreba u kulturi i drugim propisima.
+Obveze Kazališta prema osnivaču obuhvaćaju korištenje sredstava isključivo namjenski, u utvrđenim rokovima izvođenja prihvaćenih programa i u skladu s utvrđenim kriterijima rada Kazališta. Kazališta podnose redovita i pravovremena šestomjesečna i godišnja izvješća o ostvarenju kazališnog programa i izvršenju financijskog plana. Kazališta su dužna omogućiti osnivaču nadzor nad provedbom prihvaćenog programa putem ovlaštenih stručnih tijela, u skladu sa Zakonom o kazalištima i drugim propisima.
