@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Gospodarski inspektor I. vrste obavlja najsloženije inspekcijske poslove koji uključuju rješavanje složenih problema i zadataka uz stupanj odgovornosti za pravilnu primjenu metodologije rada, postupaka i stručnih tehnika.
+(2) Gospodarski inspektor II. vrste obavlja manje složene inspekcijske poslove s međusobno povezanim različitim zadaćama u čijem rješavanju se primjenjuju utvrđene metode rada i postupci inspektora ili stručne tehnike.
+(3) Gospodarski inspektor III. vrste obavlja manje složene inspekcijske poslove koji se odnose na zaštitu potrošača (isticanje i pridržavanje cijena i radnog vremena, ispravnost mjerila i mjernih jedinica, točnost mjerenja i dr.), isticanje tvrtke, iznajmljivanje soba, kuća i stanova za odmor, turističkih apartmana, prijavu i odjavu turista te obračun, naplatu i uplatu boravišne pristojbe.
+(4) Gospodarski inspektor III. vrste može u poslovima nadzora iz stavka 1. ovoga članka izricati kazne na mjestu izvršenja prekršaja za prekršaje za koje je propisana novčana kazna u utvrđenom iznosu i podnositi optužni prijedlog za pokretanje prekršajnog postupka, a u ostalim poslovima nadzora ovlašten je obavljati radnje do donošenja rješenja.
+4. Inspektor rada

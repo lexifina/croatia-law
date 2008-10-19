@@ -1,0 +1,7 @@
+# Članak 10.
+(1) Poslove inspekcijskog nadzora obavljaju inspektori Državnog inspektorata.
+(2) Inspektori Državnog inspektorata, sukladno odredbama ovoga Zakona kojima se propisuje inspekcijski nadzor za pojedina upravna područja i uvjeti koje moraju ispunjavati inspektori, raspoređuju se na radna mjesta: viši gospodarski inspektor-specijalist, viši inspektor rada-specijalist, viši elektroenergetski inspektor-specijalist, viši rudarski inspektor-specijalist, viši inspektor opreme pod tlakom-specijalist, viši gospodarski inspektor, gospodarski inspektor, gospodarski inspektor II. vrste, gospodarski inspektor III. vrste, viši inspektor rada, inspektor rada, viši elektroenergetski inspektor, elektroenergetski inspektor, viši rudarski inspektor, rudarski inspektor, viši inspektor opreme pod tlakom i inspektor opreme pod tlakom.
+(3) Inspektor Državnog inspektorata, po prethodnom ovlaštenju glavnog inspektora osim poslova svoga radnog mjesta povremeno može obavljati inspekcijske poslove radnog mjesta drugog inspektora.
+(4) Inspekcijski poslovi su poslovi kod kojih postoje posebni uvjeti rada.
+(5) Inspektori Državnog inspektorata dužni su, po nalogu nadređenog službenika, inspekcijski nadzor obavljati i duže od punoga radnog vremena, ako je to nužno radi uspješnog i pravodobnog obavljanja tih poslova.
+(6) Inspektorima Državnog inspektorata može se odgoditi početak godišnjeg odmora ili prekinuti započeto korištenje godišnjeg odmora radi obavljanja inspekcijskog nadzora koji ne trpi odgodu.

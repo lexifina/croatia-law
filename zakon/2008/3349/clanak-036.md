@@ -1,0 +1,2 @@
+# Članak 36.
+Ako je u postupku inspekcijskog nadzora potrebno utvrditi odgovaraju li proizvodi u prometu propisanom sastavu, sigurnosnim zahtjevima, propisanoj obavijesti o proizvodu ili obavijesti na proizvodu, inspektor od tih proizvoda može uzimati uzorke i dati ih zapečaćene i propisno označene na ispitivanje i ocjenu sukladnosti, stručnoj instituciji ovlaštenoj za ispitivanje (u daljnjem tekstu: stručna institucija).
