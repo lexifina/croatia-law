@@ -1,0 +1,5 @@
+## Mjere za smanjenje opasnosti od prijenosa visoko patogene influence ptica
+# Članak 3.
+1) Nadležno tijelo poduzima odgovarajuće i primjenjive mjere za smanjenje opasnosti prijenosa visoko patogene influence ptica sa ptica koje žive u divljini na druge ptice koje se drže u zatočeništvu u zoološkim vrtovima i odobrenim tijelima, institutima ili centrima, uzimajući u obzir načela i čimbenike rizika određene u Dodatku I. ovoga Pravilnika.
+2) Odredbe stavka 1. ovoga članka primjenjuju se i u slučaju izbijanja bolesti u peradi u zemlji ili drugim državama što bi moglo ugroziti zdravstveni status drugih ptica držanih u zatočeništvu u zoološkim vrtovima i odobrenim tijelima, institutima ili centrima.
+3) Ovisno o specifičnoj epidemiološkoj situaciji, mjere iz stavka 1. ovoga članka osobito su usmjerene na sprječavanje izravnog i neizravnog kontakta između ptica koje žive u divljini, osobito močvarica, i drugih ptica držanih u zatočeništvu u zoološkim vrtovima i odobrenim tijelima, institutima ili centrima.
