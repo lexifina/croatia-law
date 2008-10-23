@@ -1,0 +1,1 @@
+Na temelju Zakona o otocima (»Narodne novine« br. 34/99, 32/02 i 33/06) i Programa korištenja ukapljenog naftnog plina (UNP) na otocima (2008. - 2012.) (Zaključak Vlade RH od 29. studenoga 2007. godine) ministar mora, prometa i infrastrukture donosi
