@@ -1,0 +1,2 @@
+# Članak 1.
+U pravilniku o utvrđivanju naknade za prenesena i ograničena prava na šumi i šumskom zemljištu (»Narodne novine«, broj 131/06, 74/07. 18/08 i 68/08) članak 19 a. mijenja se i glasi: »Započeti postupci utvrđivanja naknade za potrebe izgradnje poduzetničkih zona koji su započeti prema odredbama Pravilnika o utvrđivanju naknade za prenesena i ograničena prava na šumi i šumskom zemljištu (»Narodne novine«, broj 131/06, 74/07 i 68/08) dovršit će se prema odredbama tog pravilnika.«
