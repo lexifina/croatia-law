@@ -1,0 +1,3 @@
+# Članak 35.
+Viši fizioterapeuti koji na dan stupanja na snagu ovoga Zakona obavljaju djelatnost u fizikalnoj terapiji, a koji obavljaju rad po do sada važećim propisima mogu i dalje obavljati tu djelatnost pod uvjetom da u roku od dvije godine steknu odobrenje za samostalan rad sukladno ovome Zakonu.
+Fizioterapeutski tehničari, radni terapeuti i maseri-kupeljari koji na dan stupanja na snagu ovoga Zakona obavljaju djelatnost u fizikalnoj terapiji, a koji obavljaju rad po do sada važećim propisima mogu i dalje obavljati tu djelatnost pod uvjetom da u roku od dvije godine steknu odobrenje za samostalan rad sukladno ovome Zakonu.
