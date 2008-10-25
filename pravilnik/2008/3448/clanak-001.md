@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o stručnom ispitu za turističke vodiče i ispitnom programu za turističke pratitelje (»Narodne novine«, broj 50/08) iza članka 23. naziv točke IV. mijenja se i glasi: »PRELAZNA I ZAVRŠNA ODREDBA«, te se dodaje članak 23.a koji glasi:
+»Visoka učilišta koja su do stupanja na snagu Pravilnika o stručnom ispitu za turističke vodiče i ispitnom programu za turističke pratitelje (»Narodne novine«, broj 50/08) u cijelosti održala seminar u sklopu stručnog ispita za turističkog vodiča prema ispitnom programu koji je važio do stupanja na snagu toga Pravilnika, mogu u roku od 30 dana od stupanja na snagu ovoga Pravilnika održati ispit prema istom ispitnom programu.«
