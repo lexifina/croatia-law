@@ -1,0 +1,6 @@
+# Članak 14.
+Voditelj tima primaljske skrbi jest primalja koja je završila odgovarajući preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij, koja je upisana u registar primalja pri Hrvatskoj komori primalja (u daljnjem tekstu: registar) i kojoj je dano odobrenje za samostalan rad.
+Primaljsku skrb kao član tima (član zdravstvenog tima u primarnoj zdravstvenoj zaštiti, član tima u bolničkoj zdravstvenoj skrbi) provodi primalja koja je upisana u registar i kojoj je dano odobrenje za samostalan rad primalje-asistentice, odnosno odobrenje za samostalan rad primalje-prvostupnice.
+Pravo na upis u registar ima primalja koja je stekla najmanje temeljno obrazovanje za primalje sukladno članku 7. stavku 1. ili članku 7. stavku 2. ovoga Zakona, obavila pripravnički staž i položila stručni ispit.
+Uvjeti obavljenoga pripravničkog staža i položenoga stručnog ispita iz stavka 3. ovoga članka ne odnose se na državljane država članica Europske unije.
+Na sadržaj, duljinu trajanja pripravničkoga staža i način polaganja stručnoga ispita za primalje primjenjuju se odredbe Zakona o zdravstvenoj zaštiti i provedbenih propisa donesenih na temelju toga Zakona.

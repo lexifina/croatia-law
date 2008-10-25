@@ -1,0 +1,23 @@
+# Članak 27.
+Pored javnih ovlasti iz članka 26. ovoga Zakona Komora obavlja i sljedeće poslove:
+1. donosi etički kodeks primalja,
+2. surađuje s ministarstvom nadležnim za zdravstvo na svim područjima od interesa za primalje te daje stručna mišljenja kod pripreme propisa od utjecaja na struku primalja,
+3. donosi sadržaj protokola za plan i provođenje djelatnosti primaljstva,
+4. predlaže ministru nadležnom za zdravstvo standarde i normative za djelatnost primalja,
+5. utvrđuje potrebu, sadržaj i duljinu trajanja programa dodatnog usavršavanja primalja,
+6. donosi opći akt kojim se utvrđuju sadržaj, rokovi i postupak trajnoga stručnog usavršavanja i provjere stručnosti primalja,
+7. predlaže ministru nadležnom za zdravstvo sadržaj primaljske liste,
+8. propisuje način i uvjete pod kojima se obavlja stručni nadzor nad radom primalja,
+9. utvrđuje najniže cijene za pojedine poslove iz djelatnosti primaljstva za primalje izvan osnovne mreže zdravstvene djelatnosti,
+10. utvrđuje cijene za pojedine poslove iz djelatnosti primaljstva iz opsega dobrovoljnoga zdravstvenog osiguranja,
+11. obavlja stručni nadzor nad radom primalja,
+12. utvrđuje povrede radnih dužnosti primalja,
+13. utvrđuje disciplinske mjere za lakše i teže povrede radne dužnosti primalja,
+14. provodi disciplinski postupak i izriče disciplinske mjere za povrede dužnosti primalja,
+15. surađuje sa zdravstvenom inspekcijom ministarstva nadležnog za zdravstvo,
+16. zastupa interese primalja,
+17. brine za pravnu pomoć svojim članovima,
+18. brine o drugim interesima svojih članova,
+19. koordinira odnose među članovima te aktivno sudjeluje u rješavanju eventualno nastalih sporova,
+20. surađuje sa Svjetskom zdravstvenom organizacijom i drugim međunarodnim organizacijama od interesa za primaljstvo,
+21. obavlja i druge poslove određene ovim Zakonom, Statutom i drugim općim aktima Komore.
