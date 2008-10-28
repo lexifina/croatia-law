@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. i članka 49. stavka 1. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97 i 64/2000) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 16. listopada 2008. godine donijela
