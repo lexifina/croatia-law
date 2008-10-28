@@ -1,0 +1,3 @@
+# Članak 10.
+Naknada za osnivanje prava služnosti obračunava se prema posebnom propisu kojim se uređuje naknada za prenesena ili ograničena prava na šumi ili šumskom zemljištu.
+Naknada se uplaćuje na žiro-račun Hrvatske šume d.o.o. Obračun naknade za služnost na šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske, u iznosu do 50.000,00 kuna plaća se jednokratno prije sklapanja ugovora o osnivanju prava služnosti na šumama i šumskom zemljištu (u daljnjem tekstu: Ugovor o služnosti). Ukoliko obračun iznosi više od 50.000,00 kuna, ovlaštenik prava služnosti mora platiti 50.000,00 kuna jednokratno prije sklapanja Ugovora o služnosti, a preostali iznos u najviše tri jednogodišnje rate.
