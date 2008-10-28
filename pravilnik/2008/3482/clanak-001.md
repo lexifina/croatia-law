@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o gospodarenju otpadnim uljima (»Narodne novine« br. 124/06) članak 26. mijenja se i glasi:
+»(1) Obveznik plaćanja naknade zbrinjavanja otpadnih mazivih ulja koji u tijeku poslovne godine izveze određenu količinu svježih mazivih ulja ima pravo na povrat naknade za izvezenu količinu svježih mazivih ulja kao pojedinačnog proizvoda ili ugrađenih u proizvode nakon čije uporabe nastaju otpadna ulja (npr. transformatori) na temelju jedinstvene carinske deklaracije.
+(2) Za izvezenu količinu mazivih ulja iz stavka 1. ovog članka obveznik plaćanja ostvaruje pravo na povrat plaćene naknade zbrinjavanja otpadnih mazivih ulja po litri izvezenog svježeg mazivog ulja umanjene za 8% iznosa radi manipulativnih troškova.
+(3) Za ostvarenje prava iz st. 1. ovog članka obveznik plaćanja naknade zbrinjavanja otpadnih mazivih ulja mora dostaviti Fondu dokumentaciju kojom dokazuje da je za maziva ulja iz stavka 1. ovog članka, koje je izvezao, platio naknadu zbrinjavanja prilikom uvoza tih svježih mazivih ulja u Republiku Hrvatsku.«
