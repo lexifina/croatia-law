@@ -1,0 +1,1 @@
+Na temelju članka 59. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 32/02., 86/02., 114/03. i 151/03) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. 47/99. i 35/08) Upravno vijeće Hrvatskog zavoda za zapošljavanje na 3. sjednici održanoj 19. 9. 2008. godine donijelo je
