@@ -1,0 +1,7 @@
+# Članak 13.
+DOBIT OD OTUĐENJA IMOVINE
+1. Dobit koju rezident države ugovornice ostvari od otuđenja nekretnina navedenih u članku 6., a koje se nalaze u drugoj državi ugovornici, može se oporezivati u toj drugoj državi ugovornici.
+2. Dobit od otuđenja pokretne imovine koja čini dio poslovne imovine stalne poslovne jedinice koju društvo države ugovornice ima u drugoj državi ugovornici ili pokretne imovine koja pripada stalnom sjedištu rezidenta države ugovornice u drugoj državi ugovornici u svrhu obavljanja samostalne djelatnosti, uključujući dobit od otuđenja takve stalne poslovne jedinice (same ili zajedno s cijelim društvom), može se oporezivati u toj drugoj državi ugovornici.
+3. Dobit koju je društvo države ugovornice ostvarilo od otuđenja brodova, zrakoplova ili cestovnih transportnih vozila i željeznice koji se koriste u međunarodnom prometu ili pokretne imovine što služi za korištenje tih brodova, zrakoplova ili cestovnih transportnih vozila i željeznice oporezuju se samo u državi ugovornici u kojoj se nalazi mjesto stvarne uprave društva.
+4. Dobit od otuđenja udjela ili drugih prava u kapitalu društva, imovina koja se izravno ili neizravno sastoji uglavnom od nekretnina koje se nalaze u drugoj državi ugovornici, može se oporezivati u toj drugoj državi ugovornici.
+5. Dobit od otuđenja bilo koje imovine izuzev one navedene u stavku 1., 2., 3. i 4. ovoga članka, oporezuje se samo u državi ugovornici u kojoj je otuđitelj rezident.
