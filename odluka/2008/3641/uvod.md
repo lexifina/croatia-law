@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o rudarstvu (»Narodne novine«, br. 27/91, 26/93, 92/94, 35/95, 114/2001 i 190/2003), Vlada Republike Hrvatske je na sjednici održanoj 31. listopada 2008. godine donijela
