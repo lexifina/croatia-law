@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 1. točaka 7., 9. i 11. Zakona o priređivanju igara na sreću i nagradnih igara (»Narodne novine«, br. 83/2002 i 149/2002), Vlada Republike Hrvatske je na sjednici održanoj 31. listopada 2008. godine donijela
