@@ -1,0 +1,7 @@
+# Članak 8.
+IZVRŠENJE ZAHTJEVA
+1. Zatražena služba će poduzeti sve odgovarajuće mjere za izvršenje zahtjeva, te će, ako je potrebno, nastojati zatražiti sve službene ili sudske mjere potrebne za udovoljavanje zahtjevu.
+2. Carinska služba jedne ugovorne stranke će, po zahtjevu carinske službe druge ugovorne stranke, provesti sve potrebne istrage, uključujući i ispitivanje stručnjaka i svjedoka ili osoba osumnjičenih za izvršenje prekršaja, te poduzeti provjere, preglede i utvrditi sve činjenice u vezi s predmetima na koje se odnosi ovaj Ugovor.
+3. Na zahtjev, zatražena služba može u najvećoj mogućoj mjeri, dopustiti djelatnicima službe tražiteljice da budu prisutni na državnom području zatražene ugovorne stranke, za vrijeme dok njeni djelatnici istražuju prekršaje koji su od interesa za službu tražiteljicu. Kada su predstavnici jedne ugovorne stranke prisutni na državnom području druge ugovorne stranke oni moraju biti u mogućnosti dokazati svoj službeni status.
+4. Služba tražiteljica će, ako se to zahtijeva, biti obaviještena o vremenu i mjestu poduzimanja radnji vezanih uz zahtjev, kako bi djelovanje biti koordinirano.
+5. Službenici službe tražiteljice, ovlašteni za istragu o prekršaju, mogu zahtijevati da zatražena služba pregleda odgovarajuće knjige, registre i druge dokumente ili nosače podataka te da se pribave njihove preslike ili da se pribave bilo koji podaci vezani uz prekršaj.
