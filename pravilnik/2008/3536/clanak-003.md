@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 10. stavku 3. točki f) alineja četvrta mijenja se i glasi: »svježe meso svinja na koje se odnosi ova točka mora biti prerađeno u istom objektu ili poslano na preradu u drugi objekt koji za to odredi Uprava. Pošiljka mesa koja se šalje u navedeni objekt mora biti zapečaćena prije stavljanja u promet i ostati zapečaćena tijekom prijevoza. Takvo meso i proizvodi od takvog mesa ne smiju biti stavljeni na tržište Europske unije.«

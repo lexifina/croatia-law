@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 11. stavku 1. točka b) mijenja se i glasi: »zabranu premještanja i prijevoza svinja javnim i privatnim putevima osim, kad je to potrebno, dostavnim putevima na gospodarstvu i osim ako je premještanje i prijevoz odobreno od strane Uprave. Ova zabrana ne odnosi se na svinje koje se provoze cestom ili željeznicom kroz ugroženo područje, uz uvjet da se provoz obavlja bez istovarivanja i zaustavljanja, niti na svinje za klanje koje dolaze izvan ugroženog područja ili dolaze na neodgodivo (engl. imediate) klanje u klaonicu smještenu u ugroženom području«.
