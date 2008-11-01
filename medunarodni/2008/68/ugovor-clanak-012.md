@@ -1,0 +1,2 @@
+# Članak 12.
+Podložno primjeni dvostranih ili mnogostranih ugovora o uzajamnoj pomoći sklopljenih između država ugovornica, nadležna će tijela svake stranke, na zahtjev odgovarajućih tijela bilo koje druge stranke, pružiti najveću moguću pomoć u vezi s pitanjima obuhvaćenim ovom Konvencijom. U tu će svrhu svaka država ugovornica odrediti središnje tijelo koje će zaprimati zahtjeve za takvom pomoći i postupati po njima te će o tome izvijestiti glavnoga tajnika Vijeća Europe prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu.
