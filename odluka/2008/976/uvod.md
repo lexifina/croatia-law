@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 1. Zakona o socijalnoj skrbi (»Narodne novine«, br. 73/97, 27/2001, 59/2001, 82/2001, 103/2003,44/2006 i 79/2007), Vlada Republike Hrvatske je na sjednici održanoj 6. ožujka 2008. godine donijela
