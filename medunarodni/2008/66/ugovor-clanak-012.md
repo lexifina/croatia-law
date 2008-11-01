@@ -1,0 +1,5 @@
+# Članak 12.
+REZERVE I IZJAVE
+1. Rezerve i izjave koje izrazi stranka glede neke odredbe Konvencije primjenjuju se i na ovaj Protokol, osim ako stranka drukčije ne naznači pri potpisivanju ili polaganju svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu.
+2. Pismenom obavijesti upućenom glavnome tajniku Vijeća Europe, svaka stranka može, u trenutku potpisivanja ili prigodom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, izjaviti da se služi rezervom(ama) iz članaka 3., 5. i 6. ovoga Protokola. Stranka se istodobno može, s obzirom na odredbe ovoga Protokola, poslužiti rezervom(ama) iz članka 22. stavka 2. i članka 41. stavka 1. Konvencije, neovisno o načinu na koji ta stranka primjenjuje Konvenciju. Nijedna se druga rezerva ne može izjaviti.
+3. Pisanom obaviješću upućenom glavnome tajniku Vijeća Europe, svaka stranka može, u trenutku potpisivanja ili polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, izjaviti da se želi poslužiti mogućnošću da zatraži dodatne elemente iz članka 5. stavka 2. točke a) i članka 6. stavka 2. točke a) ovoga Protokola.
