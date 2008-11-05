@@ -1,0 +1,1 @@
+Na temelju odredbe članka 105. stavka 4. podstavka 1. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« br. 123/03., 105/04. i 174/04.) te sukladno članku 5. stavku 2. Poslovnika Rektorskog zbora, Rektorski zbor na 10. sjednici u akademskoj 2007./2008. godini održanoj 25.rujna 2008. godine donosi
