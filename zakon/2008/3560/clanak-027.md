@@ -1,0 +1,33 @@
+## VI. KAZNENE ODREDBE
+# Članak 27.
+Novčanom kaznom od 30.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+1. proizvodi ili prodaje cigarete koje sadrže više od 10 mg katrana po cigareti (članak 3. stavak 1. podstavak1.),
+2. proizvodi ili prodaje cigarete koje sadrže više od 1 mg nikotina po cigareti (članak 3. stavak 1. podstavak2.),
+3. proizvodi ili prodaje cigarete koje sadrže više od 10 mg ugljičnog monoksida po cigareti (članak 3. stavak 1. podstavak 3.),
+4. ne dostavi ministarstvu nadležnom za zdravstvo propisane podatke u propisanom roku (članak 3. stavak 4.),
+5. proizvodi ili prodaje cigarete koje na bočnoj strani originalnog pakiranja nemaju otisnute podatke o količini katrana, nikotina i ugljičnog monoksida po cigareti ili ima otisnute pogrešne podatke ili ti podaci ne pokrivaju najmanje 10% površine bočne strane originalnog pakiranja cigareta (članak 4.),
+6. proizvodi ili prodaje duhanske proizvode bez otisnutog upozorenja iz članka 5. stavka 1.ovoga Zakona ili ako je to upozorenje otisnuto protivno odredbi članka 5. stavka 2. ovoga Zakona,
+7. proizvodi ili prodaje duhanske proizvode bez upozorenja iz članka 5. stavka 4. ovoga Zakona ili je to upozorenje otisnuto protivno odredbi članka 5. stavka 5. ovoga Zakona ili se upozorenje ne izmjenjuje sukladno članku 5. stavku 6. ovoga Zakona,
+8. proizvodi ili prodaje duhanske proizvode na kojima je upozorenje iz članka 5. stavka 1. ili 4. ovoga Zakona otisnuto na dodatnom prozirnom ovitku pojedinačnog pakiranja duhanskog proizvoda koji se koriste u prodaji na malo (članak 5. stavak 7.),
+9. prodaje na malo duhanske proizvode za žvakanje i sisanje koji nemaju upozorenje iz članka 6. stavka 1. ili je to upozorenje otisnuto protivno članku 6. stavku 2. ovoga Zakona,
+10. prodaje duhanske proizvode, osim cigareta, na kojima je upozorenje iz članka 5. stavka 1. i 4. ovoga Zakona otisnuto protivno članku 7. ovoga Zakona,
+11. proizvodi ili prodaje duhanske proizvode na kojima su podaci iz članka 3. stavka 1. te upozorenja iz članka 6. stavka 1. ovoga Zakona otisnuti protivno članku 8. stavku 1. ovoga Zakona,
+12. proizvodi ili prodaje duhanske proizvode koji nisu cigarete na kojima su podaci iz članka 3. stavka 1. ovoga Zakona te upozorenja iz članka 5. stavka 1. i 4. i članka 6. stavka 1. ovoga Zakona pričvršćeni kao naljepnice koje se mogu ukloniti,
+13. prodaje duhanske proizvode bez serijskog broja ili ekvivalenta koji sadrži podatke o mjestu i datumu proizvodnje (članak 8. stavak 3.),
+14. prodaje duhanske proizvode s uporabom izraza protivno članku 8. stavku 4. ovoga Zakona,
+15. sponzorira događaje, aktivnosti ili pojedince s ciljem, učinkom ili mogućim učinkom izravne ili neizravne promidžbe duhanskog proizvoda ili uporabe duhana (članak 9. stavak 1.),
+16. izravno ili neizravno promiče duhanske proizvode (članak 9. stavak 2.),
+17. oglašava proizvode koji se ne smatraju duhanskim proizvodima, a koji svojim oblikom, nazivom ili namjenom neposredno potiču potrošnju duhanskih proizvoda ili obavlja oglašavanje koje oblikom, nazivom ili namjenom potiče potrošnju duhanskih proizvoda (članak 9. stavak 4.),
+18. oglašava duhanski proizvod putem zaštićene robne marke protivno članku 10. ovoga Zakona,
+19. prodaje duhanske proizvode osobama mlađim od 18 godina (članak 11. stavak 1.),
+20. duhanske proizvode prodaje osoba mlađa od 18 godina (članak 11. stavak 2.),
+21. na prodajnom mjestu na kojem se prodaju duhanski proizvodi ne istakne oznaku o zabrani prodaje duhanskih proizvoda osobama mlađim od 18 godina ili je ne istakne na vidljivom mjestu tako da se može pročitati s udaljenosti od deset metara. (članak 11. stavak 3. i 4.),
+22. prodaje maloljetnicima »biljne pušilice« ili druge proizvode za pušenje koji mogu maloljetnike poticati na pušenje (članak 11. stavak 6.),
+23. prodaje duhanske proizvode putem interneta (članak 11. stavak 7.),
+24. prodaje duhanske proizvode iz automatskih naprava (članak 11. stavak 8.),
+25. prodaje pojedinačne cigarete, odnosno druge duhanske proizvode izvan originalnog pakiranja proizvođača (članak 11. stavak 9.),
+26. prodaje duhan za oralnu uporabu (članak 11. stavak 10.),
+27. dopusti pušenje duhanskih proizvoda prilikom javnih nastupa na televiziji uživo ili objavi u tisku fotografije ili crteže osoba koje puše u promidžbene svrhe (članak 12. stavak 1. i 3.),
+28. ne osigura poštivanje zabrane pušenja u zatvorenom javnom prostoru (članak 13. stavak 1. i 2.),
+29. prostor za pušenje ne ispunjava uvjete iz članka 14. do 20. ovoga Zakona.
+Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba te odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna.
