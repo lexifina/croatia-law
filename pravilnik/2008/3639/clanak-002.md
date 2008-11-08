@@ -1,0 +1,4 @@
+# Članak 2.
+Hrvatski autoklub poslove izdavanja MVD i punomoći obavlja neposredno i posredno. Poslove izdavanja MVD i punomoći mogu obavljati autoklubovi i druge pravne i fizičke osobe ovlaštene odlukom Upravnog odbora Hrvatskog autokluba za obavljanje ovih poslova.
+Subjekti iz stavka 1. ovog članka zadužuju, a Hrvatski autoklub ustupa na korištenje žigove s grbom Republike Hrvatske i natpisom Hrvatski autoklub, koji se mogu koristiti isključivo za ovjeru MVD i punomoći odnosno poništenje državnih biljega.
+U slučaju prestanka rada ili prestanka obavljanja poslova iz stavka 1. ovoga članka subjekti iz tog stavka dužni su izvršiti povrat Hrvatskom autoklubu zaduženih obrazaca MVD, punomoći, upisnika/računalnih evidencija o izdanim dokumentima, zahtjeva za izdavanje MVD i žigova iz stavka 2. ovog članka.

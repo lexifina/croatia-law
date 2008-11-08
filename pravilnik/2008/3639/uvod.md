@@ -1,0 +1,1 @@
+Na temelju članka 228. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 67/08), članka 6. stavak 1. točka 2. i 3. Zakona o Hrvatskom autoklubu (»Narodne novine« broj 2/94) te članka 31. Statuta Hrvatskog autokluba (pročišćeni tekst), Upravni odbor Hrvatskog autokluba na svojoj 5. sjednici održanoj 24. listopada 2008. godine donosi
