@@ -1,0 +1,6 @@
+# Članak 1.
+(1) U članku 8. stavak 6. Pravilnika o uvjetima i načinu održavanja straže, te obavljanju drugih poslova na brodu kojima se osigurava sigurna plovidba i zaštite mora od onečišćenja s brodova (»Narodne novine« br. 125/05) iza riječi »kolektivnim ugovorom« dodaju se riječi: »ili sporazumom o minimalnim radnim i socijalnim standardima s prilozima«.
+(2) Stavak 7. mijenja se i glasi:
+»(7) Kompanija i sindikat pomoraca sukladno propisima o najmanjem broju članova posade, kao i kolektivnog ugovora s prilozima ili sporazuma o minimalnim radnim i socijalnim standardima s prilozima iz stavaka 6. ovog članka, utvrđuju minimalni broj članova posade broda u linijskom obalnom pomorskom prometu u komercijalnoj eksploataciji (formacijski sastav), te o istom donose Izjavu o formacijskom sastavu članova posade broda u javnom obalnom pomorskom prometu za svaki brod na određenoj liniji, koju ovjerava ministarstvo nadležno za poslove mora.
+(3) Iza stavka 10. dodaje se novi stavak 11. koji glasi:
+»(11) Svi propisi kao i druga relevantna dokumentacija (kolektivni ugovor, sporazumi, prilozi i sl.) kojima se uređuje radno vrijeme članova posade, te raspored radnog vremena, moraju se nalaziti na brodu i biti dostupni svim članovima posade.«
