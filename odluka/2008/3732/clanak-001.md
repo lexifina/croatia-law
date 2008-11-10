@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o objavljivanju Međunarodnih standarda financijskog izvještavanja (Narodne novine broj 140/2006) Međunarodni računovodstveni standard 21 - Učinci promjene tečaja stranih valuta, točka 30. mijenja se i glasi:
+»30. Ako je dobit ili gubitak od nemonetarne stavke priznat direktno u rezerve, svaka komponenta promjene stranih valuta te dobiti ili gubitka treba se priznati direktno u rezerve. Suprotno tome, ako je dobit ili gubitak od nemonetarne stavke priznat u računu dobiti i gubitka, svaka komponenta promjene stranih valuta dobiti ili gubitka treba se priznati u računu dobiti i gubitka.«
