@@ -1,0 +1,1 @@
+Na temelju odredbe članka 17. Zakona o sustavu državne uprave (»Narodne novine«, broj 75/93, 92/96, 48/99, 15/00, 127/00, 59/01, 190/03 - proč. tekst, 199/03 i 79/09) i Zakona o besplatnoj pravnoj pomoći (»Narodne novine«, broj 62/08, čl. 17., čl. 34. i čl. 35. st. 2.), ministar pravosuđa, donosi

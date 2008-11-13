@@ -1,0 +1,2 @@
+# Članak 3.
+Zahtjev za odobravanje besplatne pravne pomoći podnosi se na obrascu koji sadrži podatke o imovnom stanju podnositelja zahtjeva i članova njegovog kućanstva, izjavu (ZOBPP-izjava) podnositelja zahtjeva o materijalnoj i kaznenoj odgovornosti za točnost navedenih podataka te izjave podnositelja zahtjeva i punoljetnih članova njegovog kućanstva o dozvoljavanju uvida u sve podatke o njihovoj imovini i dohotku.
