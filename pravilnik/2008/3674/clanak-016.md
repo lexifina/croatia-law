@@ -1,0 +1,2 @@
+# Članak 16.
+U slučaju velike nesreće, operater mora nadležnom tijelu iz članka 15. stavka 1. ovog Pravilnika odmah dostaviti sve bitne informacije kako bi se mogle umanjiti posljedice po ljudsko zdravlje, a ujedno i procijeniti i smanjiti opseg stvarnog ili mogućeg onečišćenja okoliša te ispuniti sve zahtjeve i mjere propisane unutarnjim planom za hitne slučajeve i vanjskim planom donesenim na temelju ovog Pravilnika.

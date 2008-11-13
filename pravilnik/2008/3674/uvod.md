@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 1. točke 3. alineje 6. Zakona o otpadu (»Narodne novine«, 178/04, 111/06 i 60/08) ministrica zaštite okoliša, prostornog uređenja i graditeljstva, uz suglasnost ministra nadležnog za gospodarstvo, donosi

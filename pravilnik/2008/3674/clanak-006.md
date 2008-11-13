@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Operater mora poduzeti sve neophodne mjere kako bi spriječio ili smanjio, koliko je moguće, svaki štetan utjecaj na okoliš i zdravlje ljudi koji nastaje kao posljedica gospodarenja otpadom od mineralnih sirovina. Ove mjere uključuju upravljanje građevinom/postrojenjem za gospodarenje otpadom od mineralnih sirovina i nakon prestanka njenog rada, kao i sprečavanje velikih nesreća i ograničavanje posljedica na okoliš i ljudsko zdravlje.
+(2) Mjere navedene u stavku 1. ovog članka temelje se na najboljim raspoloživim tehnikama, uzimajući u obzir tehničko-tehnološke karakteristike građevine/postrojenja, geografski položaj i stanje okoliša.
