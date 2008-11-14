@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 193/2003 i 30/2004) i članka 6. stavka 6. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, br. 177/2004 i 76/2007), Vlada Republike Hrvatske je na sjednici održanoj 14. studenoga 2008. godine donijela
