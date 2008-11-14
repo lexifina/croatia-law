@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o kontinuiranoj plovidbenosti zrakoplova i aeronautičkih proizvoda, dijelova i uređaja, te o ovlaštenju organizacija i osoblja uključenih u te poslove (»Narodne novine«, broj 136/06 i 32/08), u članku 14. stavak 1. točka 4. mijenja se i glasi:
+»4. Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - zrakoplovno-tehničkom osoblju i zrakoplovno-tehničkom osoblju tehničke pripreme (»Narodne novine«, broj 92/04), osim odredaba koje se odnose na produžavanje i obnavljanje dozvola, koje odredbe ostaju na snazi do 31. prosinca 2009.«
