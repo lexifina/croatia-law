@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Ugovor o JPP-u sklapa se u pisanom obliku i na određeno vrijeme, s time da to razdoblje ne može biti kraće od pet, a niti duže od četrdeset godina, uz mogućnost da se nakon isteka ugovornog razdoblja sklopi novi ugovor uz odabir privatnog partnera sukladno odredbama članka 15. ovoga Zakona.
+(2) Upravno vijeće Agencije će Pravilnikom iz članka 18. ovoga Zakona propisati pravila kojima će se odrediti postupak upisa sklopljenih ugovora o JPP-u u Registar ugovora o JPP-u (u daljnjem tekstu: Registar), kao i sadržaj i opseg javnosti dostupnih elemenata sklopljenih ugovora o JPP-u, pridržavajući se pri tom propisa o zaštiti intelektualnog vlasništva, osobnih podataka, tajnosti podataka i poslovne tajne.

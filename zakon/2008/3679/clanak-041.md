@@ -1,0 +1,4 @@
+# Članak 41.
+(1) Ovaj se Zakon primjenjuje na projekte JPP-a koji su odobreni prije dana stupanja na snagu ovoga Zakona, ukoliko postupak odabira privatnog partnera nije pokrenut do dana stupanja na snagu ovoga Zakona.
+(2) Najkasnije u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona, a radi upisa u Registar, javna tijela dužna su Agenciji dostaviti sve ugovore sklopljene prije dana stupanja na snagu ovoga Zakona, koje je javno tijelo sklopilo na rok duži od 5 godina, a predmet kojih su pružanje javne usluge, gradnje i/ili rekonstrukcija javne infrastrukture, kao i sve izmjene i dopune tih ugovora koje su nastale nakon dana stupanja na snagu ovoga Zakona.
+(3) Odredbe ovoga Zakona o nadzoru provedbe projekata JPP-a primjenjuju se i na projekte JPP-a čija je provedba započela prije dana stupanja na snagu ovoga Zakona.
