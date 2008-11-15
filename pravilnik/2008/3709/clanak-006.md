@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Dnevnik rada s imenikom za polaznike osposobljavanja i usavršavanja dokument je u koji se tijekom izvedbe programa obrazovanja upisuju podaci o polaznicima, nastavnicima i nastavnim sadržajima te drugi podaci važni za pojedinog polaznika ili cijelu obrazovnu skupinu, a sadrži podatke iz članka 5. stavka 4. i 5. ovog pravilnika.
+(2) Na prvoj stranici Dnevnika otisnut je obrazac u koji se upisuje naziv i vrsta programa obrazovanja, vrsta i način izvođenja nastave, oznaka obrazovne skupine i razdoblje za koju se vodi (školska godina, razred, obrazovno razdoblje), te potpisi stručnog voditelja obrazovanja (ravnatelj) i voditelja obrazovne skupine (razrednik).
+(3) Upute o načinu vođenja knjige obvezujuće su i sastavni su dio Dnevnika rada s imenikom.
+(4) Dnevnik rada s imenikom za polaznike osposobljavanja i usavršavanja vodi se na obrascu veličine 24,5 x 34,5 cm, s brojčano označenim stranicama. Uvezuje se u korice tvrdog uveza. Na prednjoj stranici korica otisnute su riječi »DNEVNIK RADA S IMENIKOM ZA POLAZNIKE OSPOSOBLJAVANJA I USAVRŠAVANJA« i podaci za upis naziva ustanove, vrste programa, obrazovne skupine i školske godine.
+(5) Na unutarnjoj stranici korica ispisuje se uputa o obveznom i jedinstvenom načinu vođenja knjige.
