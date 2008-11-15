@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Pristup osobnim podacima iz Upisnika polaznika i Upisnika radnika dopušten je samo ovlaštenim osobama u ustanovi, fizičkim ili pravnim osobama iz članka 4. stavka 2. ovog pravilnika s kojima je ustanova ugovorila poslove elektroničkog oblikovanja i dostave podataka, ovlaštenim osobama u Agenciji te ovlaštenim osobama zaduženim za održavanje i razvitak središnjeg sustava za praćenje stanja u obrazovnom sustavu Republike Hrvatske (e-Matica).
+(2) Svi osobni podaci o polaznicima i radnicima moraju biti zaštićeni od slučajne ili namjerne zlouporabe, uništavanja, gubitka, neovlaštenih pristupa ili promjena.
+(3) Mjere zaštite te pravo pristupa i korištenja osobnim podacima određuju se općim aktom ustanove u skladu sa Zakonom o zaštiti osobnih podataka (»Narodne novine«, broj 103/03, 118/06 i 41/08).
