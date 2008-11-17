@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine« broj 142/06., 13/07., 34/08 i 45/08.) u članku 8.b. iza rednog broja 4. dodaje se novi redni broj 5. koji glasi:
+»5. na način da se bolničkim zdravstvenim ustanovama koje provode liječenje bolesnika oboljelih od akutnih bolesti i imaju sjedište na području posebne državne skrbi dodatna sredstva obračunavaju kao razlika utvrđenog maksimalnog iznosa sredstava za provođenje bolničke i specijalističko-konzilijarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja i računa ispostavljenih za provedenu bolničku i specijalističko-konzilijarnu zdravstvenu zaštitu bolesnika oboljelih od akutnih bolesti.«
