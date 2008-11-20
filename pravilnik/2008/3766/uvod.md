@@ -1,0 +1,1 @@
+Sukladno članku 94. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 174/04, 2/07 Odluka USRH i 46/07) Nacionalno vijeće za visoko obrazovanje na svojoj 56. sjednici održanoj 10. rujna 2008. g. donosi
