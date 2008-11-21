@@ -1,0 +1,16639 @@
+I.
+Vlada Republike Hrvatske preraspodjeljuje sredstva u Državnom proračunu Republike Hrvatske za 2008. godinu (»Narodne novine«, br. 28/2008 i 82/2008).
+II.
+Sredstva iz točke I. preraspodijelit će se kod proračunskih korisnika prema sljedećem rasporedu:
+Šifra
+Naziv
+PLAN
+2008.
+1
+POVEĆANJE
+2
+SMANJENJE
+3
+NOVI PLAN
+2008.
+4
+Sveukupno
+17.661.388.743
+1.167.862.451
+-1.167.862.451
+17.661.388.743
+010
+HRVATSKI SABOR
+10.949.450
+220.000
+-220.000
+10.949.450
+01005
+Hrvatski sabor
+10.949.450
+220.000
+-220.000
+10.949.450
+1000
+ZAKONODAVNA VLAST
+10.949.450
+220.000
+-220.000
+10.949.450
+A501000
+POSLOVANJE HRVATSKOGA SABORA
+10.149.450
+20.000
+-220.000
+9.949.450
+3232
+Usluge tekućeg i investicijskog održavanja
+9.849.450
+0
+-220.000
+9.629.450
+3239
+Ostale usluge
+300.000
+20.000
+0
+320.000
+K250946
+OPREMANJE HRVATSKOGA SABORA
+800.000
+200.000
+0
+1.000.000
+4221
+Uredska oprema i namještaj
+800.000
+200.000
+0
+1.000.000
+015
+PREDSJEDNIK REPUBLIKE HRVATSKE
+27.517.000
+1.360.000
+-1.360.000
+27.517.000
+01505
+Ured Predsjednika Republike Hrvatske
+27.517.000
+1.360.000
+-1.360.000
+27.517.000
+1001
+USTAVNE OVLASTI PREDSJEDNIKA RH U PREDSTAVLJANJU I ZASTUPANJU RH U ZEMLJI I INOZEMSTVU
+27.517.000
+1.360.000
+-1.360.000
+27.517.000
+A504000
+POSLOVANJE UREDA PREDSJEDNIKA
+22.820.000
+625.000
+-1.280.000
+22.165.000
+3111
+Plaće za redovan rad
+15.490.000
+0
+-1.100.000
+14.390.000
+3121
+Ostali rashodi za zaposlene
+205.000
+25.000
+0
+230.000
+3132
+Doprinosi za zdravstveno osiguranje
+2.690.000
+0
+-160.000
+2.530.000
+3133
+Doprinosi za zapošljavanje
+315.000
+0
+-20.000
+295.000
+3211
+Službena putovanja
+1.800.000
+200.000
+0
+2.000.000
+3235
+Zakupnine i najamnine
+400.000
+50.000
+0
+450.000
+3237
+Intelektualne i osobne usluge
+820.000
+150.000
+0
+970.000
+3299
+Ostali nespomenuti rashodi poslovanja
+1.100.000
+200.000
+0
+1.300.000
+A504001
+TEHNIČKI I POMOĆNI POSLOVI UREDA PREDSJEDNIKA
+3.182.000
+405.000
+0
+3.587.000
+3221
+Uredski materijal i ostali materijalni rashodi
+1.150.000
+150.000
+0
+1.300.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+300.000
+20.000
+0
+320.000
+3234
+Komunalne usluge
+1.500.000
+200.000
+0
+1.700.000
+3237
+Intelektualne i osobne usluge
+212.000
+30.000
+0
+242.000
+3433
+Zatezne kamate
+20.000
+5.000
+0
+25.000
+K504003
+OPREMANJE
+415.000
+100.000
+0
+515.000
+4221
+Uredska oprema i namještaj
+415.000
+100.000
+0
+515.000
+K504004
+INFORMATIZACIJA
+1.100.000
+230.000
+-80.000
+1.250.000
+4123
+Licence
+250.000
+0
+-30.000
+220.000
+4221
+Uredska oprema i namještaj
+550.000
+230.000
+0
+780.000
+4262
+Ulaganja u računalne programe
+300.000
+0
+-50.000
+250.000
+017
+USTAVNI SUD REPUBLIKE HRVATSKE
+25.418.207
+777.000
+-777.000
+25.418.207
+01705
+Ustavni sud Republike Hrvatske
+25.418.207
+777.000
+-777.000
+25.418.207
+1003
+ZAŠTITA USTAVNOSTI I ZAKONITOSTI, ZAŠTITA LJUDSKIH PRAVA TE TEMELJNIH SLOBODA ZAJAMČENIH USTAVOM RH
+25.418.207
+777.000
+-777.000
+25.418.207
+A506000
+ZAŠTITA USTAVNOSTI I ZAKONITOSTI, ZAŠTITA LJUDSKIH PRAVA TE TEMELJNIH SLOBODA ZAJAMČENIH USTAVOM RH
+24.678.207
+757.000
+-757.000
+24.678.207
+3111
+Plaće za redovan rad
+18.902.907
+0
+-120.000
+18.782.907
+3121
+Ostali rashodi za zaposlene
+310.000
+120.000
+0
+430.000
+3211
+Službena putovanja
+222.000
+0
+-22.000
+200.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+388.000
+50.000
+0
+438.000
+3223
+Energija
+611.000
+0
+-100.000
+511.000
+3225
+Sitni inventar i autogume
+75.000
+25.000
+0
+100.000
+3231
+Usluge telefona, pošte i prijevoza
+650.000
+80.000
+0
+730.000
+3232
+Usluge tekućeg i investicijskog održavanja
+750.000
+89.000
+0
+839.000
+3233
+Usluge promidžbe i informiranja
+179.000
+21.000
+0
+200.000
+3234
+Komunalne usluge
+165.000
+25.000
+0
+190.000
+3235
+Zakupnine i najamnine
+872.000
+0
+-150.000
+722.000
+3236
+Zdravstvene i veterinarske usluge
+156.000
+0
+-50.000
+106.000
+3237
+Intelektualne i osobne usluge
+630.000
+0
+-315.000
+315.000
+3239
+Ostale usluge
+120.000
+200.000
+0
+320.000
+3294
+Članarine
+607.300
+100.000
+0
+707.300
+3299
+Ostali nespomenuti rashodi poslovanja
+40.000
+47.000
+0
+87.000
+K506003
+INFORMATIZACIJA USTAVNOG SUDA
+240.000
+20.000
+0
+260.000
+4221
+Uredska oprema i namještaj
+240.000
+20.000
+0
+260.000
+K506004
+OPREMANJE USTAVNOG SUDA
+500.000
+0
+-20.000
+480.000
+4221
+Uredska oprema i namještaj
+500.000
+0
+-20.000
+480.000
+020
+VLADA REPUBLIKE HRVATSKE
+1.158.250
+217.050
+-217.050
+1.158.250
+02010
+Ured Vlade Republike Hrvatske za udruge
+893.250
+202.050
+-202.050
+893.250
+1021
+PARTNERSKI ODNOSI I MEĐUSEKTORSKA SURADNJA S NEVLADINIM NEPROFITNIM SEKTOROM U RH
+838.250
+202.050
+-182.050
+858.250
+A509000
+OSNOVNA DJELATNOST UREDA ZA UDRUGE
+474.500
+132.200
+-43.200
+563.500
+3213
+Stručno usavršavanje zaposlenika
+70.000
+0
+-20.700
+49.300
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+4.000
+0
+-4.000
+0
+3225
+Sitni inventar i autogume
+7.000
+0
+-6.000
+1.000
+3231
+Usluge telefona, pošte i prijevoza
+100.000
+22.000
+0
+122.000
+3232
+Usluge tekućeg i investicijskog održavanja
+80.000
+60.000
+0
+140.000
+3236
+Zdravstvene i veterinarske usluge
+1.000
+13.200
+0
+14.200
+3237
+Intelektualne i osobne usluge
+200.000
+37.000
+0
+237.000
+3721
+Naknade građanima i kućanstvima u novcu
+10.000
+0
+-10.000
+0
+3722
+Naknade građanima i kućanstvima u naravi
+2.500
+0
+-2.500
+0
+A509025
+INFORMIRANJE I IZDAVAČKA DJELATNOST UREDA ZA UDRUGE
+162.500
+0
+-57.000
+105.500
+3231
+Usluge telefona, pošte i prijevoza
+30.000
+0
+-22.000
+8.000
+3237
+Intelektualne i osobne usluge
+70.000
+0
+-20.000
+50.000
+3239
+Ostale usluge
+62.500
+0
+-15.000
+47.500
+A509030
+SAVJET ZA RAZVOJ CIVILNOG DRUŠTVA
+48.750
+26.150
+-41.150
+33.750
+3233
+Usluge promidžbe i informiranja
+5.000
+0
+-5.000
+0
+3239
+Ostale usluge
+10.000
+0
+-10.000
+0
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+30.000
+0
+-26.150
+3.850
+3811
+Tekuće donacije u novcu
+3.750
+26.150
+0
+29.900
+A509042
+PROVEDBA NACIONALNOG PROGRAMA SUZBIJANJA KORUPCIJE
+87.500
+0
+-10.000
+77.500
+3233
+Usluge promidžbe i informiranja
+87.500
+0
+-10.000
+77.500
+K509031
+OPREMANJE UREDA ZA UDRUGE
+65.000
+43.700
+-30.700
+78.000
+4221
+Uredska oprema i namještaj
+22.000
+43.700
+0
+65.700
+4222
+Komunikacijska oprema
+23.000
+0
+-13.500
+9.500
+4223
+Oprema za održavanje i zaštitu
+20.000
+0
+-17.200
+2.800
+1647
+RAZVOJ CIVILNOG DRUŠTVA
+55.000
+0
+-20.000
+35.000
+A509024
+PROVEDBA NACIONALNE STRATEGIJE STVARANJA POTICAJNOG OKRUŽENJA ZA RAZVOJ CIVILNOG DRUŠTVA
+55.000
+0
+-20.000
+35.000
+3233
+Usluge promidžbe i informiranja
+55.000
+0
+-20.000
+35.000
+02021
+Savjet za nacionalne manjine
+265.000
+15.000
+-15.000
+265.000
+1018
+OSTVARIVANJE I ZAŠTITA PRAVA I SLOBODA NACIONALNIH MANJINA
+265.000
+15.000
+-15.000
+265.000
+A732002
+KULTURNO STVARALAŠTVO NACIONALNIH MANJINA
+265.000
+15.000
+-15.000
+265.000
+3235
+Zakupnine i najamnine
+125.000
+15.000
+0
+140.000
+3237
+Intelektualne i osobne usluge
+140.000
+0
+-15.000
+125.000
+024
+SREDIŠNJI DRŽAVNI URED ZA UPRAVLJANJE DRŽAVNOM IMOVINOM
+31.763.990
+2.775.000
+-2.775.000
+31.763.990
+02405
+Središnji državni ured za upravljanje državnom imovinom
+31.763.990
+2.775.000
+-2.775.000
+31.763.990
+1031
+UPRAVLJANJE I KONTROLA DRŽAVNOM IMOVINOM
+31.763.990
+2.775.000
+-2.775.000
+31.763.990
+A759005
+UPRAVLJANJE I KONTROLA DRŽAVNOM IMOVINOM
+16.263.990
+550.000
+-2.775.000
+14.038.990
+3111
+Plaće za redovan rad
+5.948.046
+0
+-1.837.650
+4.110.396
+3121
+Ostali rashodi za zaposlene
+250.000
+0
+-20.000
+230.000
+3132
+Doprinosi za zdravstveno osiguranje
+1.067.647
+0
+-284.836
+782.811
+3133
+Doprinosi za zapošljavanje
+117.097
+0
+-31.241
+85.856
+3211
+Službena putovanja
+150.000
+0
+-50.000
+100.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+231.200
+0
+-13.044
+218.156
+3221
+Uredski materijal i ostali materijalni rashodi
+350.000
+50.000
+0
+400.000
+3223
+Energija
+1.600.000
+0
+-300.000
+1.300.000
+3231
+Usluge telefona, pošte i prijevoza
+300.000
+100.000
+0
+400.000
+3233
+Usluge promidžbe i informiranja
+200.000
+0
+-40.000
+160.000
+3234
+Komunalne usluge
+6.000.000
+0
+-198.229
+5.801.771
+3235
+Zakupnine i najamnine
+50.000
+400.000
+0
+450.000
+K520004
+INFORMATIZACIJA
+500.000
+20.000
+0
+520.000
+4262
+Ulaganja u računalne programe
+500.000
+20.000
+0
+520.000
+K759008
+KUPNJA KULTURNIH DOBARA
+15.000.000
+2.205.000
+0
+17.205.000
+4214
+Ostali građevinski objekti
+15.000.000
+2.205.000
+0
+17.205.000
+025
+MINISTARSTVO FINANCIJA
+789.821.896
+158.718.000
+-158.718.000
+789.821.896
+02505
+Ministarstvo financija
+8.800.000
+1.000.000
+-1.000.000
+8.800.000
+1067
+RAZVOJ SUSTAVA DRŽAVNE RIZNICE
+8.800.000
+1.000.000
+-1.000.000
+8.800.000
+K113290
+PROJEKT SUSTAVA DRŽAVNE RIZNICE - IMPLEMENTACIJA
+8.800.000
+1.000.000
+-1.000.000
+8.800.000
+3237
+Intelektualne i osobne usluge
+7.800.000
+1.000.000
+0
+8.800.000
+4123
+Licence
+1.000.000
+0
+-1.000.000
+0
+02510
+Carinska uprava
+101.911.000
+4.138.000
+-4.138.000
+101.911.000
+1044
+MEĐUNARODNA SURADNJA
+4.933.000
+100.000
+-2.138.000
+2.895.000
+A540007
+MEĐUNARODNA CARINSKA SURADNJA
+2.801.000
+100.000
+-50.000
+2.851.000
+3211
+Službena putovanja
+1.382.000
+100.000
+0
+1.482.000
+3294
+Članarine
+1.419.000
+0
+-50.000
+1.369.000
+A540020
+PROGRAM CUSTOMS 2007
+592.000
+0
+-548.000
+44.000
+3294
+Članarine
+592.000
+0
+-548.000
+44.000
+T540022
+CARDS INTEGRIRANO UPRAVLJANJE GRANICOM
+1.540.000
+0
+-1.540.000
+0
+3213
+Stručno usavršavanje zaposlenika
+300.000
+0
+-300.000
+0
+3233
+Usluge promidžbe i informiranja
+1.240.000
+0
+-1.240.000
+0
+1048
+OSNOVNA DJELATNOST CARINSKE UPRAVE
+96.178.000
+3.988.000
+-2.000.000
+98.166.000
+A540000
+OSNOVNA DJELATNOST CARINSKE UPRAVE
+57.178.000
+3.838.000
+-1.520.000
+59.496.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+25.518.000
+2.550.000
+0
+28.068.000
+3213
+Stručno usavršavanje zaposlenika
+800.000
+100.000
+0
+900.000
+3221
+Uredski materijal i ostali materijalni rashodi
+9.100.000
+1.000.000
+0
+10.100.000
+3223
+Energija
+5.950.000
+0
+-1.000.000
+4.950.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+10.000
+0
+-10.000
+0
+3231
+Usluge telefona, pošte i prijevoza
+6.900.000
+100.000
+0
+7.000.000
+3234
+Komunalne usluge
+6.500.000
+38.000
+0
+6.538.000
+3237
+Intelektualne i osobne usluge
+1.400.000
+50.000
+0
+1.450.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+450.000
+0
+-60.000
+390.000
+3299
+Ostali nespomenuti rashodi poslovanja
+550.000
+0
+-450.000
+100.000
+A540005
+ODRŽAVANJE INFORMACIJSKOG SUSTAVA CARINSKE UPRAVE
+30.150.000
+150.000
+-150.000
+30.150.000
+3231
+Usluge telefona, pošte i prijevoza
+15.500.000
+150.000
+0
+15.650.000
+3232
+Usluge tekućeg i investicijskog održavanja
+14.650.000
+0
+-150.000
+14.500.000
+K540008
+INFORMATIZACIJA CARINSKE UPRAVE
+8.850.000
+0
+-330.000
+8.520.000
+4123
+Licence
+8.850.000
+0
+-330.000
+8.520.000
+1069
+SUZBIJANJE KRIJUMČARENJA
+800.000
+50.000
+0
+850.000
+A540004
+SUZBIJANJE KRIJUMČARENJA OD STRANE CARINSKE UPRAVE
+800.000
+50.000
+0
+850.000
+3211
+Službena putovanja
+800.000
+50.000
+0
+850.000
+02515
+Porezna uprava
+178.578.500
+9.200.000
+-9.200.000
+178.578.500
+1042
+IZVRŠNA UPRAVA I ADMINISTRACIJA
+178.578.500
+9.200.000
+-9.200.000
+178.578.500
+A541000
+IZVRŠNA UPRAVA I ADMINISTRACIJA
+129.850.000
+6.900.000
+-1.900.000
+134.850.000
+3121
+Ostali rashodi za zaposlene
+17.000.000
+2.000.000
+0
+19.000.000
+3225
+Sitni inventar i autogume
+800.000
+1.000.000
+0
+1.800.000
+3232
+Usluge tekućeg i investicijskog održavanja
+7.000.000
+2.900.000
+0
+9.900.000
+3236
+Zdravstvene i veterinarske usluge
+1.050.000
+0
+-900.000
+150.000
+3237
+Intelektualne i osobne usluge
+4.000.000
+1.000.000
+0
+5.000.000
+3238
+Računalne usluge
+100.000.000
+0
+-1.000.000
+99.000.000
+A541015
+HUMANITARNE POMOĆI
+150.000
+300.000
+0
+450.000
+3811
+Tekuće donacije u novcu
+150.000
+300.000
+0
+450.000
+K270143
+OBJEKTI ZA POTREBE POREZNE UPRAVE
+25.740.500
+0
+-2.000.000
+23.740.500
+4212
+Poslovni objekti
+25.740.500
+0
+-2.000.000
+23.740.500
+K270151
+OPREMANJE
+8.000.000
+2.000.000
+-2.000.000
+8.000.000
+4221
+Uredska oprema i namještaj
+5.000.000
+0
+-2.000.000
+3.000.000
+4222
+Komunikacijska oprema
+3.000.000
+2.000.000
+0
+5.000.000
+K270160
+INFORMATIZACIJA POREZNE UPRAVE
+14.838.000
+0
+-3.300.000
+11.538.000
+4221
+Uredska oprema i namještaj
+14.838.000
+0
+-3.300.000
+11.538.000
+02520
+Financijska policija
+20.532.396
+380.000
+-380.000
+20.532.396
+1666
+UNAPREĐENJE NAPLATE POREZNIH PRIHODA
+20.532.396
+380.000
+-380.000
+20.532.396
+A542000
+UPRAVA I ADMINISTRACIJA
+19.732.396
+380.000
+-280.000
+19.832.396
+3111
+Plaće za redovan rad
+15.832.396
+0
+-50.000
+15.782.396
+3121
+Ostali rashodi za zaposlene
+500.000
+50.000
+0
+550.000
+3213
+Stručno usavršavanje zaposlenika
+200.000
+0
+-70.000
+130.000
+3223
+Energija
+700.000
+0
+-70.000
+630.000
+3225
+Sitni inventar i autogume
+100.000
+100.000
+0
+200.000
+3233
+Usluge promidžbe i informiranja
+50.000
+0
+-20.000
+30.000
+3235
+Zakupnine i najamnine
+2.100.000
+210.000
+0
+2.310.000
+3237
+Intelektualne i osobne usluge
+50.000
+20.000
+0
+70.000
+3239
+Ostale usluge
+200.000
+0
+-70.000
+130.000
+K542002
+OBNOVA VOZNOG PARKA
+800.000
+0
+-100.000
+700.000
+3235
+Zakupnine i najamnine
+800.000
+0
+-100.000
+700.000
+02530
+Hrvatska banka za obnovu i razvitak
+480.000.000
+144.000.000
+-144.000.000
+480.000.000
+1058
+PROGRAM KREDITIRANJA KROZ OSNIVAČKI KAPITAL HBOR-a,
+POTICANJA IZVOZA, INFRASTRUKTURE I GOSPODARSKIH DJELATNOSTI TE MALOG I SREDNJEG PODUZETNIŠTVA
+190.000.000
+144.000.000
+0
+334.000.000
+A544005
+KREDITIRANJE (KROZ OSNIVAČKI KAPITAL HBOR-a) - POTICANJA IZVOZA, INFRASTRUKTURE I GOSPODARSKIH DJELATNOSTI TE MALOG I SREDNJEG PODUZETNIŠTVA
+190.000.000
+144.000.000
+0
+334.000.000
+5311
+Dionice i udjeli u glavnici banaka i ostalih financijskih institucija u javnom sektoru
+190.000.000
+144.000.000
+0
+334.000.000
+1062
+PROGRAM POVLAŠTENOG FINANCIRANJA PO KREDITNIM PROGRAMIMA HBOR-a
+290.000.000
+0
+-144.000.000
+146.000.000
+A544001
+PROGRAM POVLAŠTENOG FINANCIRANJA PO KREDITNIM PROGRAMIMA HBOR-a
+290.000.000
+0
+-144.000.000
+146.000.000
+3521
+Subvencije bankama i ostalim financijskim institucijama izvan javnog sektora
+290.000.000
+0
+-144.000.000
+146.000.000
+030
+MINISTARSTVO OBRANE
+2.209.045.076
+156.555.517
+-156.555.517
+2.209.045.076
+03005
+Ministarstvo obrane
+2.209.045.076
+156.555.517
+-156.555.517
+2.209.045.076
+1552
+OBRAMBENI PROGRAM MO RH
+2.209.045.076
+156.555.517
+-156.555.517
+2.209.045.076
+A545008
+MEĐUNARODNA SURADNJA
+55.371.966
+1.443.000
+-6.216.000
+50.598.966
+3211
+Službena putovanja
+24.749.506
+0
+-237.000
+24.512.506
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+234.000
+0
+-54.000
+180.000
+3221
+Uredski materijal i ostali materijalni rashodi
+1.004.000
+0
+-16.000
+988.000
+3222
+Materijal i sirovine
+183.000
+0
+-100.000
+83.000
+3223
+Energija
+3.070.000
+0
+-555.000
+2.515.000
+3226
+Vojna oprema
+2.512.000
+210.000
+0
+2.722.000
+3231
+Usluge telefona, pošte i prijevoza
+4.427.460
+0
+-64.000
+4.363.460
+3232
+Usluge tekućeg i investicijskog održavanja
+422.000
+1.153.000
+0
+1.575.000
+3233
+Usluge promidžbe i informiranja
+1.504.000
+80.000
+0
+1.584.000
+3235
+Zakupnine i najamnine
+12.430.000
+0
+-4.740.000
+7.690.000
+3237
+Intelektualne i osobne usluge
+460.000
+0
+-150.000
+310.000
+3239
+Ostale usluge
+4.376.000
+0
+-300.000
+4.076.000
+A545019
+FUNKCIONIRANJE ORUŽANIH SNAGA RH
+843.840.643
+74.909.169
+-39.773.346
+878.976.466
+3211
+Službena putovanja
+13.106.000
+572.300
+0
+13.678.300
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+77.360.000
+1.914.600
+0
+79.274.600
+3221
+Uredski materijal i ostali materijalni rashodi
+102.451.584
+0
+-1.815.322
+100.636.262
+3222
+Materijal i sirovine
+40.745.294
+1.409.733
+0
+42.155.027
+3223
+Energija
+145.085.581
+161.462
+0
+145.247.043
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+62.499.544
+11.014.550
+0
+73.514.094
+3225
+Sitni inventar i autogume
+8.000.001
+0
+-841.130
+7.158.871
+3226
+Vojna oprema
+41.654.755
+1.796.528
+0
+43.451.283
+3231
+Usluge telefona, pošte i prijevoza
+78.299.182
+146.131
+0
+78.445.313
+3232
+Usluge tekućeg i investicijskog održavanja
+102.584.199
+57.072.229
+0
+159.656.428
+3233
+Usluge promidžbe i informiranja
+3.026.689
+302.336
+0
+3.329.025
+3234
+Komunalne usluge
+63.429.029
+0
+-4.794.491
+58.634.538
+3235
+Zakupnine i najamnine
+10.795.000
+0
+-10.000
+10.785.000
+3236
+Zdravstvene i veterinarske usluge
+4.449.000
+318.300
+0
+4.767.300
+3237
+Intelektualne i osobne usluge
+2.974.000
+0
+-92.600
+2.881.400
+3239
+Ostale usluge
+74.135.985
+0
+-22.849.803
+51.286.182
+3292
+Premije osiguranja
+13.164.800
+0
+-9.370.000
+3.794.800
+3294
+Članarine
+20.000
+165.000
+0
+185.000
+3299
+Ostali nespomenuti rashodi poslovanja
+60.000
+36.000
+0
+96.000
+A545023
+IZOBRAZBA I PROFESIONALNI RAZVOJ
+69.155.487
+4.535.500
+-3.203.500
+70.487.487
+3211
+Službena putovanja
+2.206.000
+0
+-373.500
+1.832.500
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+325.000
+0
+-25.000
+300.000
+3213
+Stručno usavršavanje zaposlenika
+2.921.500
+0
+-270.000
+2.651.500
+3221
+Uredski materijal i ostali materijalni rashodi
+5.754.028
+365.500
+0
+6.119.528
+3223
+Energija
+6.026.000
+0
+-270.000
+5.756.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+956.000
+0
+-271.669
+684.331
+3225
+Sitni inventar i autogume
+360.000
+0
+-161.155
+198.845
+3226
+Vojna oprema
+7.966.597
+4.000.000
+0
+11.966.597
+3231
+Usluge telefona, pošte i prijevoza
+2.915.000
+0
+-245.000
+2.670.000
+3232
+Usluge tekućeg i investicijskog održavanja
+11.556.758
+0
+-347.176
+11.209.582
+3233
+Usluge promidžbe i informiranja
+3.100.500
+130.000
+0
+3.230.500
+3234
+Komunalne usluge
+2.760.000
+0
+-10.000
+2.750.000
+3236
+Zdravstvene i veterinarske usluge
+1.235.440
+0
+-360.000
+875.440
+3237
+Intelektualne i osobne usluge
+3.178.000
+0
+-270.000
+2.908.000
+3239
+Ostale usluge
+7.966.664
+40.000
+0
+8.006.664
+3721
+Naknade građanima i kućanstvima u novcu
+9.928.000
+0
+-600.000
+9.328.000
+A545025
+OPREMANJE I MODERNIZACIJA
+448.826.000
+4.200.000
+-51.775.189
+401.250.811
+3221
+Uredski materijal i ostali materijalni rashodi
+4.400.000
+0
+-4.000.000
+400.000
+3226
+Vojna oprema
+439.916.000
+0
+-47.775.189
+392.140.811
+3232
+Usluge tekućeg i investicijskog održavanja
+300.000
+200.000
+0
+500.000
+3237
+Intelektualne i osobne usluge
+3.760.000
+2.000.000
+0
+5.760.000
+3239
+Ostale usluge
+450.000
+2.000.000
+0
+2.450.000
+A545027
+OBJEKTI I INFRASTRUKTURA
+110.250.000
+0
+-12.270.335
+97.979.665
+3226
+Vojna oprema
+93.540.000
+0
+-6.540.000
+87.000.000
+3234
+Komunalne usluge
+3.000.000
+0
+-611.482
+2.388.518
+3237
+Intelektualne i osobne usluge
+13.710.000
+0
+-5.118.853
+8.591.147
+A545029
+UPRAVNI I OPĆI POSLOVI
+182.158.738
+3.199.674
+-14.002.574
+171.355.838
+3211
+Službena putovanja
+7.517.091
+0
+-1.130.500
+6.386.591
+3213
+Stručno usavršavanje zaposlenika
+2.001.000
+0
+-656.100
+1.344.900
+3221
+Uredski materijal i ostali materijalni rashodi
+6.631.500
+418.600
+0
+7.050.100
+3222
+Materijal i sirovine
+8.107.700
+0
+-1.095.000
+7.012.700
+3223
+Energija
+17.338.017
+0
+-2.216.700
+15.121.317
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+2.950.000
+0
+-662.000
+2.288.000
+3225
+Sitni inventar i autogume
+786.421
+2.000
+0
+788.421
+3226
+Vojna oprema
+17.358.900
+0
+-633.727
+16.725.173
+3231
+Usluge telefona, pošte i prijevoza
+32.389.888
+0
+-1.611.974
+30.777.914
+3232
+Usluge tekućeg i investicijskog održavanja
+24.649.000
+1.318.974
+0
+25.967.974
+3233
+Usluge promidžbe i informiranja
+7.472.297
+1.048.000
+0
+8.520.297
+3234
+Komunalne usluge
+18.032.144
+0
+-1.028.000
+17.004.144
+3235
+Zakupnine i najamnine
+1.438.750
+0
+-2.300
+1.436.450
+3236
+Zdravstvene i veterinarske usluge
+4.783.500
+0
+-1.190.000
+3.593.500
+3237
+Intelektualne i osobne usluge
+10.909.750
+412.100
+0
+11.321.850
+3239
+Ostale usluge
+14.483.780
+0
+-2.655.500
+11.828.280
+3292
+Premije osiguranja
+4.231.000
+0
+-913.500
+3.317.500
+3294
+Članarine
+471.000
+0
+-135.273
+335.727
+3434
+Ostali nespomenuti financijski rashodi
+482.000
+0
+-12.000
+470.000
+3721
+Naknade građanima i kućanstvima u novcu
+125.000
+0
+-60.000
+65.000
+A545031
+OBUKA I OSTALE AKTIVNOSTI OS
+29.112.058
+5.881.174
+-3.898.443
+31.094.789
+3211
+Službena putovanja
+1.688.470
+0
+-190.339
+1.498.131
+3213
+Stručno usavršavanje zaposlenika
+2.943.328
+0
+-626.000
+2.317.328
+3221
+Uredski materijal i ostali materijalni rashodi
+266.000
+1.000
+0
+267.000
+3226
+Vojna oprema
+14.570.960
+5.880.174
+0
+20.451.134
+3233
+Usluge promidžbe i informiranja
+1.963.400
+0
+-187.495
+1.775.905
+3236
+Zdravstvene i veterinarske usluge
+871.400
+0
+-500.000
+371.400
+3237
+Intelektualne i osobne usluge
+931.500
+0
+-60.000
+871.500
+3239
+Ostale usluge
+178.800
+0
+-11.144
+167.656
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+5.668.200
+0
+-2.293.465
+3.374.735
+3294
+Članarine
+30.000
+0
+-30.000
+0
+A545035
+PROTUPOŽARNA ZAŠTITA
+145.288.000
+2.262.000
+-5.297.000
+142.253.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+13.550.000
+330.000
+0
+13.880.000
+3221
+Uredski materijal i ostali materijalni rashodi
+1.383.000
+0
+-2.000
+1.381.000
+3222
+Materijal i sirovine
+3.100.000
+0
+-610.000
+2.490.000
+3223
+Energija
+8.560.000
+0
+-320.000
+8.240.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+22.520.000
+0
+-50.000
+22.470.000
+3225
+Sitni inventar i autogume
+427.000
+0
+-15.000
+412.000
+3226
+Vojna oprema
+71.900.000
+0
+-3.200.000
+68.700.000
+3231
+Usluge telefona, pošte i prijevoza
+400.000
+2.000
+0
+402.000
+3232
+Usluge tekućeg i investicijskog održavanja
+22.698.000
+0
+-1.100.000
+21.598.000
+3237
+Intelektualne i osobne usluge
+250.000
+120.000
+0
+370.000
+3239
+Ostale usluge
+500.000
+1.810.000
+0
+2.310.000
+A545036
+TROŠKOVI PREUSTROJA (TRANZICIJA) MINISTARSTVA OBRANE
+80.000.000
+59.000.000
+0
+139.000.000
+3121
+Ostali rashodi za zaposlene
+80.000.000
+59.000.000
+0
+139.000.000
+A545037
+TROŠKOVI MIROVNIH MISIJA
+243.323.184
+1.125.000
+-19.519.130
+224.929.054
+3133
+Doprinosi za zapošljavanje
+345.311
+165.000
+0
+510.311
+3211
+Službena putovanja
+4.381.403
+0
+-1.230.000
+3.151.403
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+111.178.550
+0
+-165.000
+111.013.550
+3221
+Uredski materijal i ostali materijalni rashodi
+18.922.763
+0
+-980.000
+17.942.763
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+8.334.715
+0
+-2.200.000
+6.134.715
+3225
+Sitni inventar i autogume
+2.227.000
+0
+-500.000
+1.727.000
+3226
+Vojna oprema
+31.035.581
+0
+-2.066.000
+28.969.581
+3231
+Usluge telefona, pošte i prijevoza
+11.019.833
+0
+-3.924.000
+7.095.833
+3232
+Usluge tekućeg i investicijskog održavanja
+5.318.000
+960.000
+0
+6.278.000
+3234
+Komunalne usluge
+2.395.190
+0
+-310.000
+2.085.190
+3235
+Zakupnine i najamnine
+2.634.850
+0
+-1.568.850
+1.066.000
+3236
+Zdravstvene i veterinarske usluge
+4.024.000
+0
+-450.000
+3.574.000
+3239
+Ostale usluge
+18.500.233
+0
+-500.000
+18.000.233
+3292
+Premije osiguranja
+21.371.000
+0
+-4.350.000
+17.021.000
+3431
+Bankarske usluge i usluge platnog prometa
+203.555
+0
+-191.080
+12.475
+3433
+Zatezne kamate
+813.200
+0
+-613.200
+200.000
+3831
+Naknade šteta pravnim i fizičkim osobama
+618.000
+0
+-471.000
+147.000
+A545039
+OBALNA STRAŽA
+1.719.000
+0
+-600.000
+1.119.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+1.719.000
+0
+-600.000
+1.119.000
+046
+MINISTARSTVO OBITELJI, BRANITELJA I MEĐUGENERACIJSKE SOLIDARNOSTI
+106.122.407
+3.357.900
+-3.357.900
+106.122.407
+04605
+Ministarstvo obitelji, branitelja i međugeneracijske solidarnosti
+106.122.407
+3.357.900
+-3.357.900
+106.122.407
+1030
+ZATOČENI I NESTALI
+925.200
+0
+-23.442
+901.758
+A522013
+PODRŠKA PROGRAMU ZA ZATOČENE I NESTALE
+925.200
+0
+-23.442
+901.758
+3111
+Plaće za redovan rad
+789.500
+0
+-20.002
+769.498
+3132
+Doprinosi za zdravstveno osiguranje
+122.200
+0
+-3.100
+119.100
+3133
+Doprinosi za zapošljavanje
+13.500
+0
+-340
+13.160
+1522
+MEĐUGENERACIJSKA SOLIDARNOST
+1.798.000
+7.000
+-23.440
+1.781.560
+A754000
+PODRŠKA PROGRAMU ZA MEĐUGENERACIJSKU SOLIDARNOST
+1.798.000
+7.000
+-23.440
+1.781.560
+3111
+Plaće za redovan rad
+1.477.000
+0
+-20.000
+1.457.000
+3132
+Doprinosi za zdravstveno osiguranje
+231.000
+0
+-3.100
+227.900
+3133
+Doprinosi za zapošljavanje
+27.000
+0
+-340
+26.660
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+63.000
+7.000
+0
+70.000
+1571
+SKRB ZA HRVATSKE BRANITELJE IZ DOMOVINSKOG RATA
+38.428.500
+2.670.000
+-1.971.486
+39.127.014
+A558041
+PODRŠKA PROGRAMU ZA SKRB HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA
+22.003.500
+220.000
+-1.571.486
+20.652.014
+3111
+Plaće za redovan rad
+17.583.000
+0
+-1.313.486
+16.269.514
+3121
+Ostali rashodi za zaposlene
+705.000
+100.000
+0
+805.000
+3132
+Doprinosi za zdravstveno osiguranje
+2.735.500
+0
+-232.500
+2.503.000
+3133
+Doprinosi za zapošljavanje
+300.000
+0
+-25.500
+274.500
+3233
+Usluge promidžbe i informiranja
+580.000
+100.000
+0
+680.000
+3299
+Ostali nespomenuti rashodi poslovanja
+100.000
+20.000
+0
+120.000
+A558070
+POVJERENSTVO ZA REVIZIJU OCJENE INVALIDNOSTI
+1.850.000
+50.000
+0
+1.900.000
+3237
+Intelektualne i osobne usluge
+1.850.000
+50.000
+0
+1.900.000
+A558072
+TROŠKOVI POGREBA HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA
+8.400.000
+2.000.000
+0
+10.400.000
+3721
+Naknade građanima i kućanstvima u novcu
+8.400.000
+2.000.000
+0
+10.400.000
+A753014
+NACIONALNI PROGRAM PSIHOSOCIJALNE I ZDRAVSTVENE POMOĆI SUDIONICIMA I STRADALNICIMA DOMOVINSKOG RATA
+5.475.000
+400.000
+0
+5.875.000
+3237
+Intelektualne i osobne usluge
+5.475.000
+400.000
+0
+5.875.000
+A754011
+POBOLJŠANJE KVALITETE ŽIVLJENJA ZA OBITELJ HB I HRVI
+700.000
+0
+-400.000
+300.000
+3237
+Intelektualne i osobne usluge
+700.000
+0
+-400.000
+300.000
+1572
+SOCIJALNO OSNAŽIVANJE OBITELJI, MLADIH I DJECE
+9.183.800
+180.900
+-1.040.540
+8.324.160
+A558047
+POLITIKA ZA MLADE
+1.050.000
+0
+-150.633
+899.367
+3233
+Usluge promidžbe i informiranja
+70.000
+0
+-22.407
+47.593
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+10.000
+0
+-10.000
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+20.000
+0
+-4.800
+15.200
+3631
+Tekuće pomoći unutar opće države
+950.000
+0
+-113.426
+836.574
+A558049
+PROVEDBA MJERA OBITELJSKE I POPULACIJSKE POLITIKE
+299.600
+0
+-64.040
+235.560
+3233
+Usluge promidžbe i informiranja
+249.600
+0
+-23.800
+225.800
+3235
+Zakupnine i najamnine
+50.000
+0
+-40.240
+9.760
+A558065
+OBITELJSKI CENTRI
+215.000
+10.000
+0
+225.000
+3239
+Ostale usluge
+215.000
+10.000
+0
+225.000
+A653000
+PODRŠKA PROGRAMU ZA SOCIJALNO OSNAŽIVANJE OBITELJI, MLADIH, DJECE I OSOBA S INVALIDITETOM
+3.799.500
+15.000
+-117.200
+3.697.300
+3111
+Plaće za redovan rad
+3.113.000
+0
+-100.000
+3.013.000
+3132
+Doprinosi za zdravstveno osiguranje
+487.500
+0
+-15.500
+472.000
+3133
+Doprinosi za zapošljavanje
+55.000
+0
+-1.700
+53.300
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+144.000
+15.000
+0
+159.000
+A653004
+VIJEĆE ZA DJECU
+120.000
+0
+-37.000
+83.000
+3233
+Usluge promidžbe i informiranja
+30.000
+0
+-5.000
+25.000
+3239
+Ostale usluge
+75.000
+0
+-17.000
+58.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+15.000
+0
+-15.000
+0
+A653006
+AFIRMACIJA PRAVA I ZAŠTITA DJECE
+290.000
+89.000
+0
+379.000
+3237
+Intelektualne i osobne usluge
+200.000
+50.000
+0
+250.000
+3239
+Ostale usluge
+90.000
+39.000
+0
+129.000
+A653010
+POVJERENSTVO VLADE RH ZA PREVENCIJU POREMEĆAJA U PONAŠANJU DJECE I MLADIH
+740.000
+0
+-491.068
+248.932
+3233
+Usluge promidžbe i informiranja
+25.000
+0
+-295
+24.705
+3237
+Intelektualne i osobne usluge
+89.000
+0
+-49.000
+40.000
+3239
+Ostale usluge
+120.000
+0
+-45.773
+74.227
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+10.000
+0
+-10.000
+0
+3631
+Tekuće pomoći unutar opće države
+496.000
+0
+-386.000
+110.000
+A653025
+PROJEKTI ZA VIŠEČLANE OBITELJI
+70.000
+0
+-46.350
+23.650
+3299
+Ostali nespomenuti rashodi poslovanja
+30.000
+0
+-6.350
+23.650
+3722
+Naknade građanima i kućanstvima u naravi
+40.000
+0
+-40.000
+0
+A653029
+UNAPREĐENJE ZAŠTITE ŽRTAVA NASILJA U OBITELJI
+100.000
+0
+-25.000
+75.000
+3237
+Intelektualne i osobne usluge
+100.000
+0
+-25.000
+75.000
+A754013
+MEĐUNARODNE AKTIVNOSTI U ZAŠTITI OBITELJI, MLADIH I DJECE
+355.000
+0
+-109.249
+245.751
+3233
+Usluge promidžbe i informiranja
+90.000
+0
+-4.715
+85.285
+3237
+Intelektualne i osobne usluge
+75.000
+0
+-64.578
+10.422
+3239
+Ostale usluge
+90.000
+0
+-12.364
+77.636
+3299
+Ostali nespomenuti rashodi poslovanja
+100.000
+0
+-27.592
+72.408
+K754008
+OPREMANJE OBITELJSKIH CENTARA
+2.144.700
+66.900
+0
+2.211.600
+4124
+Ostala prava
+540.000
+10.000
+0
+550.000
+4221
+Uredska oprema i namještaj
+1.217.800
+3.200
+0
+1.221.000
+4222
+Komunikacijska oprema
+194.900
+33.200
+0
+228.100
+4262
+Ulaganja u računalne programe
+192.000
+20.500
+0
+212.500
+1815
+SOCIJALNO OSNAŽIVANJE OSOBA S INVALIDITETOM
+55.786.907
+500.000
+-298.992
+55.987.915
+A558051
+AFIRMACIJA PRAVA I UNAPREĐIVANJE POLITIKE ZA OSOBE S INVALIDITETOM
+20.592.200
+0
+-253.953
+20.338.247
+3237
+Intelektualne i osobne usluge
+392.200
+0
+-63.938
+328.262
+3811
+Tekuće donacije u novcu
+20.200.000
+0
+-190.015
+20.009.985
+A653009
+POVJERENSTVO VLADE RH ZA OSOBE S INVALIDITETOM
+115.000
+0
+-45.039
+69.961
+3239
+Ostale usluge
+115.000
+0
+-45.039
+69.961
+A754005
+GODIŠNJA NAKNADA ZA UPORABU JAVNIH CESTA I CESTARINA ZA NAJTEŽE INVALIDE
+35.079.707
+500.000
+0
+35.579.707
+3721
+Naknade građanima i kućanstvima u novcu
+35.079.707
+500.000
+0
+35.579.707
+050
+MINISTARSTVO GOSPODARSTVA, RADA I PODUZETNIŠTVA
+280.687.669
+22.044.732
+-22.044.732
+280.687.669
+05005
+Gospodarstvo i poduzetništvo
+199.775.855
+19.304.732
+-19.304.732
+199.775.855
+1111
+INVESTICIJSKO ODRŽAVANJE POSLOVNOG OBJEKTA VLADE RH U ULICI GRADA VUKOVARA 78, ZAGREB
+3.000.000
+0
+-10.602
+2.989.398
+K310113
+INVESTICIJSKO ODRŽAVANJE POSLOVNOG OBJEKTA VLADE RH, ZGRADE JUG, ULICA GRADA VUKOVARA 78
+3.000.000
+0
+-10.602
+2.989.398
+3232
+Usluge tekućeg i investicijskog održavanja
+3.000.000
+0
+-10.602
+2.989.398
+1116
+PROGRAM REINDUSTRIJALIZACIJE
+5.000.000
+0
+-5.000.000
+0
+A560050
+SANACIJA I RESTRUKTURIRANJE INDUSTRIJSKIH GOSPODARSKIH SUBJEKATA
+5.000.000
+0
+-5.000.000
+0
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+5.000.000
+0
+-5.000.000
+0
+1119
+REDOVNA ADMINISTRATIVNA DJELATNOST
+17.309.128
+300.600
+-294.130
+17.315.598
+A560000
+ADMINISTRACIJA I UPRAVLJANJE
+17.309.128
+300.600
+-294.130
+17.315.598
+3211
+Službena putovanja
+3.380.000
+0
+-200.000
+3.180.000
+3235
+Zakupnine i najamnine
+495.000
+250.000
+0
+745.000
+3236
+Zdravstvene i veterinarske usluge
+300.000
+0
+-60.000
+240.000
+3237
+Intelektualne i osobne usluge
+12.738.645
+0
+-4.130
+12.734.515
+3299
+Ostali nespomenuti rashodi poslovanja
+272.000
+0
+-30.000
+242.000
+3432
+Negativne tečajne razlike i valutna klauzula
+3.483
+600
+0
+4.083
+3434
+Ostali nespomenuti financijski rashodi
+120.000
+50.000
+0
+170.000
+1149
+PROMIDŽBA PODUZETNIŠTVA
+6.172.927
+2
+-4.000.000
+2.172.929
+A563018
+NACIONALNO SAVJETOVANJE O MALOM GOSPODARSTVU
+2.172.927
+2
+0
+2.172.929
+3211
+Službena putovanja
+106.644
+1
+0
+106.645
+3233
+Usluge promidžbe i informiranja
+2.066.283
+1
+0
+2.066.284
+A563108
+FOND RIZIČNOG KAPITALA
+4.000.000
+0
+-4.000.000
+0
+3631
+Tekuće pomoći unutar opće države
+4.000.000
+0
+-4.000.000
+0
+1556
+POTICANJE PROIZVODNJE
+538.000
+4.000.000
+0
+4.538.000
+A560099
+POTICANJE PROIZVODNJE - PROIZVODI, INOVACIJA I POVEZIVANJE SA ZNANOŠĆU
+538.000
+4.000.000
+0
+4.538.000
+3811
+Tekuće donacije u novcu
+538.000
+4.000.000
+0
+4.538.000
+1568
+DOKVALIFIKACIJE, PREKVALIFIKACIJE I ZAPOŠLJAVANJE OBRTNIKA
+2.075.800
+4.130
+0
+2.079.930
+A563041
+DOKVALIFIKACIJE, PREKVALIFIKACIJE I ZAPOŠLJAVANJE OBRTNIKA
+2.075.800
+4.130
+0
+2.079.930
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+2.075.800
+4.130
+0
+2.079.930
+1672
+POVEĆANJE KONKURENTNOSTI HRVATSKE INDUSTRIJE
+164.680.000
+0
+-10.000.000
+154.680.000
+A560117
+RESTRUKTURIRANJE I RAZVOJ POJEDINIH GRANA INDUSTRIJE
+164.680.000
+0
+-10.000.000
+154.680.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+164.680.000
+0
+-10.000.000
+154.680.000
+1802
+STRATEGIJA RAZVITKA ELEKTRONIČKOG POSLOVANJA
+1.000.000
+15.000.000
+0
+16.000.000
+A817010
+PROGRAM POTICAJA ZA PRIMJENU ELEKTRONIČKOG POSLOVANJA ZA MALE I SREDNJE PODUZETNIKE
+1.000.000
+15.000.000
+0
+16.000.000
+3811
+Tekuće donacije u novcu
+1.000.000
+15.000.000
+0
+16.000.000
+05030
+Fond za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom
+64.631.314
+1.766.000
+-1.766.000
+64.631.314
+1494
+PROFESIONALNA REHABILITACIJA I ZAPOŠLJAVANJE OSOBA S INVALIDITETOM
+64.631.314
+1.766.000
+-1.766.000
+64.631.314
+A741003
+ADMINISTRATIVNO UPRAVLJANJE FONDA ZA PROFESIONALNU REHABILITACIJU I ZAPOŠLJAVANJE OSOBA S INVALIDITETOM
+1.825.765
+96.000
+-133.000
+1.788.765
+3113
+Plaće za prekovremeni rad
+40.000
+0
+-9.000
+31.000
+3132
+Doprinosi za zdravstveno osiguranje
+221.000
+5.000
+0
+226.000
+3133
+Doprinosi za zapošljavanje
+26.865
+6.000
+0
+32.865
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+30.000
+8.000
+0
+38.000
+3223
+Energija
+100.000
+10.000
+0
+110.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+14.000
+5.000
+0
+19.000
+3225
+Sitni inventar i autogume
+30.000
+10.000
+0
+40.000
+3232
+Usluge tekućeg i investicijskog održavanja
+105.000
+0
+-14.000
+91.000
+3233
+Usluge promidžbe i informiranja
+90.000
+0
+-20.000
+70.000
+3235
+Zakupnine i najamnine
+580.000
+20.000
+0
+600.000
+3236
+Zdravstvene i veterinarske usluge
+7.500
+10.000
+0
+17.500
+3237
+Intelektualne i osobne usluge
+500.000
+0
+-90.000
+410.000
+3239
+Ostale usluge
+80.000
+20.000
+0
+100.000
+3431
+Bankarske usluge i usluge platnog prometa
+1.000
+1.000
+0
+2.000
+3433
+Zatezne kamate
+400
+1.000
+0
+1.400
+A741006
+OLAKŠICE I POTICAJI PRI ZAPOŠLJAVANJU OSOBA S INVALIDITETOM
+50.430.549
+1.650.000
+0
+52.080.549
+3721
+Naknade građanima i kućanstvima u novcu
+50.430.549
+1.650.000
+0
+52.080.549
+A741007
+OSPOSOBLJAVANJE ZA SAMOSTALAN ŽIVOT I RAD
+12.195.000
+0
+-1.613.000
+10.582.000
+3231
+Usluge telefona, pošte i prijevoza
+699.000
+0
+-100.000
+599.000
+3721
+Naknade građanima i kućanstvima u novcu
+11.496.000
+0
+-1.513.000
+9.983.000
+K741004
+OPREMANJE FONDA
+180.000
+20.000
+-20.000
+180.000
+4222
+Komunikacijska oprema
+10.000
+20.000
+0
+30.000
+4262
+Ulaganja u računalne programe
+170.000
+0
+-20.000
+150.000
+05055
+Agencija za promicanje izvoza i ulaganja
+16.280.500
+974.000
+-974.000
+16.280.500
+1119
+REDOVNA ADMINISTRATIVNA DJELATNOST
+16.280.500
+974.000
+-974.000
+16.280.500
+A775000
+ADMINISTRACIJA I UPRAVLJANJE
+14.030.000
+645.500
+-341.000
+14.334.500
+3111
+Plaće za redovan rad
+8.300.000
+0
+-40.000
+8.260.000
+3132
+Doprinosi za zdravstveno osiguranje
+1.245.000
+40.500
+0
+1.285.500
+3133
+Doprinosi za zapošljavanje
+166.000
+0
+-16.000
+150.000
+3211
+Službena putovanja
+400.000
+115.000
+0
+515.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+200.000
+0
+-10.000
+190.000
+3213
+Stručno usavršavanje zaposlenika
+55.000
+70.000
+0
+125.000
+3221
+Uredski materijal i ostali materijalni rashodi
+190.000
+0
+-50.000
+140.000
+3231
+Usluge telefona, pošte i prijevoza
+630.000
+0
+-50.000
+580.000
+3232
+Usluge tekućeg i investicijskog održavanja
+160.000
+0
+-40.000
+120.000
+3233
+Usluge promidžbe i informiranja
+80.000
+130.000
+0
+210.000
+3234
+Komunalne usluge
+324.000
+140.000
+0
+464.000
+3235
+Zakupnine i najamnine
+2.100.000
+0
+-100.000
+2.000.000
+3237
+Intelektualne i osobne usluge
+80.000
+150.000
+0
+230.000
+3292
+Premije osiguranja
+50.000
+0
+-15.000
+35.000
+3299
+Ostali nespomenuti rashodi poslovanja
+50.000
+0
+-20.000
+30.000
+A775003
+POTICANJE IZVOZA I PODRŠKA IZVOZNICIMA
+125.500
+30.500
+-10.000
+146.000
+3211
+Službena putovanja
+85.500
+14.500
+0
+100.000
+3213
+Stručno usavršavanje zaposlenika
+20.000
+0
+-10.000
+10.000
+3237
+Intelektualne i osobne usluge
+20.000
+16.000
+0
+36.000
+A775004
+DJELOVANJE JAVNO PRIVATNOG PARTNERSTVA
+295.000
+43.000
+-43.000
+295.000
+3211
+Službena putovanja
+115.000
+39.000
+0
+154.000
+3213
+Stručno usavršavanje zaposlenika
+20.000
+4.000
+0
+24.000
+3237
+Intelektualne i osobne usluge
+160.000
+0
+-43.000
+117.000
+A775005
+PROMIDŽBA AGENCIJE I ODNOSI S JAVNOŠĆU
+1.450.000
+150.000
+-480.000
+1.120.000
+3233
+Usluge promidžbe i informiranja
+250.000
+70.000
+0
+320.000
+3237
+Intelektualne i osobne usluge
+200.000
+80.000
+0
+280.000
+3239
+Ostale usluge
+1.000.000
+0
+-480.000
+520.000
+K689024
+OPREMANJE
+10.000
+5.000
+0
+15.000
+4222
+Komunikacijska oprema
+10.000
+5.000
+0
+15.000
+K689026
+INFORMATIZACIJA
+370.000
+100.000
+-100.000
+370.000
+3238
+Računalne usluge
+120.000
+0
+-30.000
+90.000
+4123
+Licence
+140.000
+0
+-70.000
+70.000
+4221
+Uredska oprema i namještaj
+80.000
+30.000
+0
+110.000
+4262
+Ulaganja u računalne programe
+30.000
+70.000
+0
+100.000
+055
+MINISTARSTVO KULTURE
+352.925.896
+6.885.103
+-6.885.103
+352.925.896
+05505
+Ministarstvo kulture
+81.189.356
+3.038.168
+-3.663.103
+80.564.421
+1174
+UPRAVLJANJE I ADMINISTRACIJA MINISTARSTVA
+75.389.356
+3.038.168
+-3.088.169
+75.339.355
+A564000
+UPRAVLJANJE I ADMINISTRACIJA MINISTARSTVA
+67.519.356
+1.695.000
+-1.460.000
+67.754.356
+3111
+Plaće za redovan rad
+44.115.173
+250.000
+0
+44.365.173
+3121
+Ostali rashodi za zaposlene
+1.929.785
+0
+-110.000
+1.819.785
+3132
+Doprinosi za zdravstveno osiguranje
+6.739.778
+170.000
+0
+6.909.778
+3133
+Doprinosi za zapošljavanje
+798.084
+20.000
+0
+818.084
+3211
+Službena putovanja
+3.581.608
+0
+-200.000
+3.381.608
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+2.029.694
+75.000
+0
+2.104.694
+3213
+Stručno usavršavanje zaposlenika
+463.524
+0
+-400.000
+63.524
+3221
+Uredski materijal i ostali materijalni rashodi
+2.299.283
+150.000
+0
+2.449.283
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+307.425
+0
+-250.000
+57.425
+3232
+Usluge tekućeg i investicijskog održavanja
+2.428.287
+400.000
+0
+2.828.287
+3233
+Usluge promidžbe i informiranja
+316.277
+0
+-200.000
+116.277
+3235
+Zakupnine i najamnine
+892.284
+280.000
+0
+1.172.284
+3236
+Zdravstvene i veterinarske usluge
+330.000
+0
+330.000
+3238
+Računalne usluge
+318.093
+0
+-100.000
+218.093
+3239
+Ostale usluge
+1.151.269
+0
+-200.000
+951.269
+3431
+Bankarske usluge i usluge platnog prometa
+148.792
+20.000
+0
+168.792
+K310252
+INFORMATIZACIJA MINISTARSTVA
+2.500.000
+1.328.168
+0
+3.828.168
+4221
+Uredska oprema i namještaj
+2.500.000
+1.328.168
+0
+3.828.168
+K402979
+OBNOVA VOZNOG PARKA
+1.500.000
+0
+-1.328.169
+171.831
+4231
+Prijevozna sredstva u cestovnom prometu
+1.500.000
+0
+-1.328.169
+171.831
+K564001
+OPREMANJE POSLOVNIH PROSTORIJA
+2.000.000
+0
+-300.000
+1.700.000
+4221
+Uredska oprema i namještaj
+2.000.000
+0
+-300.000
+1.700.000
+K564013
+OBNOVA ZGRADA MINISTARSTVA I KONZERVATORSKIH ODJELA
+1.870.000
+15.000
+0
+1.885.000
+4511
+Dodatna ulaganja na građevinskim objektima
+1.870.000
+15.000
+0
+1.885.000
+1693
+PROGRAMSKE DJELATNOSTI KULTURE
+5.800.000
+0
+-574.934
+5.225.066
+A565011
+NAGRADE ZA POSTIGNUĆA U KULTURI
+1.800.000
+0
+-200.000
+1.600.000
+3721
+Naknade građanima i kućanstvima u novcu
+1.800.000
+0
+-200.000
+1.600.000
+A565015
+ZDRAVSTVENO I MIROVINSKO OSIGURANJE UMJETNIKA
+4.000.000
+0
+-374.934
+3.625.066
+3433
+Zatezne kamate
+4.000.000
+0
+-374.934
+3.625.066
+05530
+Zaštita i očuvanje prirode
+66.415.127
+1.525.000
+-1.749.000
+66.191.127
+1245
+ZAŠTITA PRIRODE
+66.415.127
+1.525.000
+-1.749.000
+66.191.127
+A779000
+UPRAVLJANJE I ADMINISTRACIJA NACIONALNIH PARKOVA, PARKOVA PRIRODE I DRŽAVNOG ZAVODA ZA ZAŠTITU PRIRODE
+38.086.923
+600.000
+-319.000
+38.367.923
+3111
+Plaće za redovan rad
+31.711.886
+0
+-260.000
+31.451.886
+3132
+Doprinosi za zdravstveno osiguranje
+4.912.843
+0
+-38.000
+4.874.843
+3133
+Doprinosi za zapošljavanje
+545.418
+0
+-21.000
+524.418
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+916.776
+600.000
+0
+1.516.776
+A779006
+ZAŠTITA PRIRODE
+9.842.404
+0
+-380.000
+9.462.404
+3811
+Tekuće donacije u novcu
+9.842.404
+0
+-380.000
+9.462.404
+A779008
+NAKNADE ŠTETE UČINJENE OD ZAŠTIĆENIH ŽIVOTINJA
+990.000
+0
+-150.000
+840.000
+3237
+Intelektualne i osobne usluge
+990.000
+0
+-150.000
+840.000
+A779014
+EDUKACIJA I OSPOSOBLJAVANJE (provedba ACQUIS-a)
+200.000
+0
+-200.000
+0
+3811
+Tekuće donacije u novcu
+200.000
+0
+-200.000
+0
+A779015
+IZVRŠENJE INSPEKCIJSKIH RJEŠENJA
+100.000
+0
+-100.000
+0
+3834
+Ugovorene kazne i ostale naknade šteta
+100.000
+0
+-100.000
+0
+A779018
+PROVEDBA NACIONALNE STRATEGIJE BIOLOŠKE RAZNOLIKOSTI
+400.000
+0
+-400.000
+0
+3211
+Službena putovanja
+35.000
+0
+-35.000
+0
+3213
+Stručno usavršavanje zaposlenika
+50.000
+0
+-50.000
+0
+3233
+Usluge promidžbe i informiranja
+300.000
+0
+-300.000
+0
+3238
+Računalne usluge
+15.000
+0
+-15.000
+0
+A779019
+OČUVANJE EKOLOŠKE MREŽE
+200.000
+0
+-200.000
+0
+3811
+Tekuće donacije u novcu
+200.000
+0
+-200.000
+0
+K779009
+IZGRADNJA, ODRŽAVANJE I OPREMANJE JAVNIH USTANOVA ZA ZAŠTITU PRIRODE
+16.595.800
+925.000
+0
+17.520.800
+3821
+Kapitalne donacije neprofitnim organizacijama
+16.595.800
+925.000
+0
+17.520.800
+05535
+Arhivska djelatnost
+52.981.110
+1.302.500
+0
+54.283.610
+1698
+ARHIVSKA DJELATNOST
+52.981.110
+1.302.500
+0
+54.283.610
+A783000
+ADMINISTRACIJA I UPRAVLJANJE
+52.981.110
+1.302.500
+0
+54.283.610
+3111
+Plaće za redovan rad
+43.137.057
+440.000
+0
+43.577.057
+3121
+Ostali rashodi za zaposlene
+1.586.737
+192.500
+0
+1.779.237
+3132
+Doprinosi za zdravstveno osiguranje
+6.692.864
+70.000
+0
+6.762.864
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+1.564.452
+600.000
+0
+2.164.452
+05540
+Muzejsko galerijska djelatnost
+54.602.345
+510.000
+-461.000
+54.651.345
+1695
+MUZEJSKO GALERIJSKA DJELATNOST
+54.602.345
+510.000
+-461.000
+54.651.345
+A565033
+NOVE MEDIJSKE KULTURE
+6.300.898
+0
+-250.000
+6.050.898
+3811
+Tekuće donacije u novcu
+6.300.898
+0
+-250.000
+6.050.898
+A780000
+ADMINISTRACIJA I UPRAVLJANJE
+48.301.447
+510.000
+-211.000
+48.600.447
+3111
+Plaće za redovan rad
+39.248.095
+0
+-190.000
+39.058.095
+3121
+Ostali rashodi za zaposlene
+1.479.931
+190.000
+0
+1.669.931
+3132
+Doprinosi za zdravstveno osiguranje
+6.081.954
+0
+-21.000
+6.060.954
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+1.491.467
+320.000
+0
+1.811.467
+05545
+Kazališna i glazbeno scenska djelatnost
+71.361.212
+151.435
+-350.000
+71.162.647
+1697
+KAZALIŠNA I GLAZBENO SCENSKA DJELATNOST
+71.361.212
+151.435
+-350.000
+71.162.647
+A782000
+ADMINISTRACIJA I UPRAVLJANJE
+71.361.212
+151.435
+-350.000
+71.162.647
+3111
+Plaće za redovan rad
+59.868.149
+0
+-280.000
+59.588.149
+3121
+Ostali rashodi za zaposlene
+2.145.769
+0
+-30.000
+2.115.769
+3132
+Doprinosi za zdravstveno osiguranje
+9.013.036
+0
+-40.000
+8.973.036
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+334.258
+151.435
+0
+485.693
+05550
+Knjižnična djelatnost
+1.654.211
+133.000
+-350.000
+1.437.211
+1696
+KNJIŽNIČNA DJELATNOST
+1.654.211
+133.000
+-350.000
+1.437.211
+A781000
+MATIČNA SLUŽBA KNJIŽNICA
+1.500.000
+0
+-350.000
+1.150.000
+3631
+Tekuće pomoći unutar opće države
+1.500.000
+0
+-350.000
+1.150.000
+A781001
+ADMINISTRACIJA I UPRAVLJANJE
+154.211
+133.000
+0
+287.211
+3121
+Ostali rashodi za zaposlene
+100.252
+33.000
+0
+133.252
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+53.959
+100.000
+0
+153.959
+05555
+Audio vizuelne djelatnosti i mediji
+314.429
+0
+-70.000
+244.429
+1700
+ADMINISTRACIJA I UPRAVLJANJE
+314.429
+0
+-70.000
+244.429
+A785006
+ADMINISTRACIJA I UPRAVLJANJE
+314.429
+0
+-70.000
+244.429
+3111
+Plaće za redovan rad
+266.910
+0
+-58.000
+208.910
+3132
+Doprinosi za zdravstveno osiguranje
+41.256
+0
+-9.000
+32.256
+3133
+Doprinosi za zapošljavanje
+6.263
+0
+-3.000
+3.263
+05560
+Djelatnost zaštite kulturnih dobara
+24.408.106
+225.000
+-242.000
+24.391.106
+1699
+ADMINISTRACIJA I UPRAVLJANJE HRVATSKIM RESTAURATORSKIM ZAVODOM I ZAVODOM ZA ZAŠTITU DUBROVNIKA
+24.408.106
+225.000
+-242.000
+24.391.106
+A784000
+ADMINISTRACIJA I UPRAVLJANJE
+24.408.106
+225.000
+-242.000
+24.391.106
+3111
+Plaće za redovan rad
+20.135.423
+0
+-200.000
+19.935.423
+3121
+Ostali rashodi za zaposlene
+659.120
+75.000
+0
+734.120
+3132
+Doprinosi za zdravstveno osiguranje
+3.112.137
+0
+-42.000
+3.070.137
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+501.426
+150.000
+0
+651.426
+060
+MINISTARSTVO POLJOPRIVREDE, RIBARSTVA I RURALNOG RAZVOJA
+3.572.590.395
+133.781.390
+-140.281.770
+3.566.090.015
+06005
+Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja
+3.538.579.345
+133.165.390
+-139.665.770
+3.532.078.965
+1176
+ADMINISTRACIJA I UPRAVLJANJE
+121.535.120
+5.245.390
+-3.000.000
+123.780.510
+A568000
+ADMINISTRACIJA I UPRAVLJANJE
+121.535.120
+5.245.390
+-3.000.000
+123.780.510
+3111
+Plaće za redovan rad
+96.988.652
+0
+-2.500.000
+94.488.652
+3133
+Doprinosi za zapošljavanje
+1.466.468
+120.000
+0
+1.586.468
+3223
+Energija
+1.500.000
+100.000
+0
+1.600.000
+3231
+Usluge telefona, pošte i prijevoza
+5.900.000
+1.095.390
+0
+6.995.390
+3233
+Usluge promidžbe i informiranja
+3.180.000
+1.500.000
+0
+4.680.000
+3237
+Intelektualne i osobne usluge
+3.900.000
+2.050.000
+0
+5.950.000
+3238
+Računalne usluge
+1.800.000
+50.000
+0
+1.850.000
+3239
+Ostale usluge
+1.000.000
+100.000
+0
+1.100.000
+3294
+Članarine
+3.700.000
+0
+-500.000
+3.200.000
+3431
+Bankarske usluge i usluge platnog prometa
+1.600.000
+170.000
+0
+1.770.000
+3811
+Tekuće donacije u novcu
+500.000
+60.000
+0
+560.000
+1180
+KONTROLA KVALITETE TLA
+4.600.000
+2.900.000
+-2.900.000
+4.600.000
+K650044
+DOGRADNJA LABORATORIJA ZA ISPITIVANJE KVALITETE TLA
+2.900.000
+0
+-2.900.000
+0
+4212
+Poslovni objekti
+2.900.000
+0
+-2.900.000
+0
+T568212
+OPREMANJE ZAVODA ZA TLO
+1.700.000
+2.900.000
+0
+4.600.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+1.700.000
+2.900.000
+0
+4.600.000
+1185
+POTPORE U POLJOPRIVREDI I RIBARSTVU
+2.766.810.625
+67.000.000
+-37.000.000
+2.796.810.625
+A568024
+POTICANJE POLJOPRIVREDNE PROIZVODNJE I INTERVENCIJE NA TRŽIŠTU
+2.470.000.000
+62.000.000
+0
+2.532.000.000
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+2.470.000.000
+62.000.000
+0
+2.532.000.000
+A568050
+INTERVENCIJE RAVNATELJSTVA ZA TRŽIŠNU I STRUKTURNU POTPORU U POLJOPRIVREDI
+188.810.625
+5.000.000
+0
+193.810.625
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+188.810.625
+5.000.000
+0
+193.810.625
+A568270
+GOVEDARSTVO
+60.000.000
+0
+-20.000.000
+40.000.000
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+60.000.000
+0
+-20.000.000
+40.000.000
+A568303
+SVINJOGOJSTVO
+38.000.000
+0
+-12.000.000
+26.000.000
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+38.000.000
+0
+-12.000.000
+26.000.000
+A650091
+POVRĆARSTVO I CVJEĆARSTVO
+10.000.000
+0
+-5.000.000
+5.000.000
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+10.000.000
+0
+-5.000.000
+5.000.000
+1188
+RIBARSTVO
+6.000.000
+0
+-100.000
+5.900.000
+K568068
+PROJEKT I IZGRADNJA RIBARSKIH VELETRŽNICA
+6.000.000
+0
+-100.000
+5.900.000
+5321
+Dionice i udjeli u glavnici trgovačkih društava u javnom sektoru
+6.000.000
+0
+-100.000
+5.900.000
+1193
+UPISNIK POLJOPRIVREDNIH GOSPODARSTAVA
+23.800.000
+0
+-9.595.770
+14.204.230
+K650068
+USPOSTAVA I ACS-LPIS
+22.000.000
+0
+-9.500.380
+12.499.620
+3237
+Intelektualne i osobne usluge
+22.000.000
+0
+-9.500.380
+12.499.620
+T568078
+USPOSTAVA UPISNIKA
+1.800.000
+0
+-95.390
+1.704.610
+3231
+Usluge telefona, pošte i prijevoza
+1.800.000
+0
+-95.390
+1.704.610
+1194
+VELETRŽNICE U POLJOPRIVREDI
+900.000
+0
+-900.000
+0
+T650070
+SUFINANCIRANJE REGIONALNE VELETRŽNICE RIJEKA - MATULJI
+900.000
+0
+-900.000
+0
+3811
+Tekuće donacije u novcu
+900.000
+0
+-900.000
+0
+1195
+VINARSTVO I VINOGRADARSTVO
+50.000
+0
+-50.000
+0
+T650092
+PROVEDBA DUS ISPITIVANJA DOMAĆIH SORTI LOZE I IZRADA SLUŽBENIH SPISA
+50.000
+0
+-50.000
+0
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-50.000
+0
+1198
+ZDRAVSTVENA ZAŠTITA ŽIVOTINJA
+163.968.600
+3.100.000
+-3.100.000
+163.968.600
+A568001
+ZDRAVSTVENA ZAŠTITA ŽIVOTINJA
+152.745.000
+3.100.000
+-100.000
+155.745.000
+3236
+Zdravstvene i veterinarske usluge
+151.140.000
+3.000.000
+0
+154.140.000
+3239
+Ostale usluge
+1.505.000
+100.000
+0
+1.605.000
+3299
+Ostali nespomenuti rashodi poslovanja
+100.000
+0
+-100.000
+0
+A568057
+UNIŠTAVANJE MESNOG KOŠTANOG BRAŠNA
+4.323.600
+0
+-1.000.000
+3.323.600
+3236
+Zdravstvene i veterinarske usluge
+4.323.600
+0
+-1.000.000
+3.323.600
+T568081
+USLUGE OZNAČAVANJA ŽIVOTINJA
+6.900.000
+0
+-2.000.000
+4.900.000
+3236
+Zdravstvene i veterinarske usluge
+6.900.000
+0
+-2.000.000
+4.900.000
+1597
+UNAPREĐENJE KONTROLE KAKVOĆE HRANE
+1.500.000
+0
+-917.000
+583.000
+A568256
+UNAPREĐENJE KONTROLE KAKVOĆE HRANE
+1.500.000
+0
+-917.000
+583.000
+3237
+Intelektualne i osobne usluge
+1.500.000
+0
+-917.000
+583.000
+1599
+RASPOLAGANJE POLJOPRIVREDNIM ZEMLJIŠTEM U VLASNIŠTVU DRŽAVE
+500.000
+0
+-133.000
+367.000
+K568258
+RASPOLAGANJE POLJOPRIVREDNIM ZEMLJIŠTEM U VLASNIŠTVU DRŽAVE
+500.000
+0
+-133.000
+367.000
+3213
+Stručno usavršavanje zaposlenika
+500.000
+0
+-133.000
+367.000
+1601
+MEĐUNARODNI PROJEKTI
+50.000
+0
+-50.000
+0
+A568260
+SUFINANCIRANJE MEĐUNARODNIH PROJEKATA
+50.000
+0
+-50.000
+0
+3213
+Stručno usavršavanje zaposlenika
+50.000
+0
+-50.000
+0
+1667
+PROJEKT USKLAĐENJA POLJOPRIVREDE S PRAVNOM STEČEVINOM EU
+33.711.000
+1.270.000
+-1.270.000
+33.711.000
+K568273
+PROJEKT USKLAĐENJA POLJOPRIVREDE S PRAVNOM STEČEVIMOM EU (ZAJAM IBRD I UDIO RH)
+33.711.000
+1.270.000
+-1.270.000
+33.711.000
+3221
+Uredski materijal i ostali materijalni rashodi
+61.000
+50.000
+0
+111.000
+3237
+Intelektualne i osobne usluge
+15.000.000
+0
+-220.000
+14.780.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+150.000
+220.000
+0
+370.000
+4212
+Poslovni objekti
+13.500.000
+0
+-1.050.000
+12.450.000
+4221
+Uredska oprema i namještaj
+5.000.000
+1.000.000
+0
+6.000.000
+1838
+RURALNI RAZVOJ
+410.154.000
+53.650.000
+-75.750.000
+388.054.000
+A401097
+RURALNA INFRASTRUKTURA
+25.000.000
+42.400.000
+0
+67.400.000
+3632
+Kapitalne pomoći unutar opće države
+25.000.000
+42.400.000
+0
+67.400.000
+A401101
+OSNIVANJE I RAZVOJ PROIZVOĐAČKIH ORGANIZACIJA I UZGOJNIH UDRUGA
+10.000.000
+0
+-4.000.000
+6.000.000
+3811
+Tekuće donacije u novcu
+10.000.000
+0
+-4.000.000
+6.000.000
+A401103
+GOSPODARSKE MANIFESTACIJE, SAJMOVI, ZNANSTVENI SKUPOVI
+5.000.000
+150.000
+0
+5.150.000
+3811
+Tekuće donacije u novcu
+5.000.000
+150.000
+0
+5.150.000
+A568016
+POTICANJE RADA STRUKOVNIH UDRUŽENJA U POLJOPRIVREDI I RIBARSTVU
+5.000.000
+3.380.000
+0
+8.380.000
+3811
+Tekuće donacije u novcu
+5.000.000
+3.380.000
+0
+8.380.000
+A568028
+POTPORA DOHOTKU NEKOMERCIJALNIM POLJOPRIVREDNICIMA
+180.000.000
+0
+-40.000.000
+140.000.000
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+180.000.000
+0
+-40.000.000
+140.000.000
+A650099
+OČUVANJE KULTURNE BAŠTINE
+6.000.000
+0
+-6.000.000
+0
+3811
+Tekuće donacije u novcu
+6.000.000
+0
+-6.000.000
+0
+A650100
+SUSTAV PRAĆENJA I PROVEDBE SAPARD PROGRAMA
+900.000
+0
+-650.000
+250.000
+3237
+Intelektualne i osobne usluge
+900.000
+0
+-650.000
+250.000
+A650102
+ŠKOLOVANJE, EDUKACIJA I STRUČNA OBUKA SEOSKIH ŽITELJA
+10.000.000
+0
+-6.600.000
+3.400.000
+3213
+Stručno usavršavanje zaposlenika
+10.000.000
+0
+-6.600.000
+3.400.000
+K401100
+DRUŠTVENA INFRASTRUKTURA
+25.000.000
+0
+-18.500.000
+6.500.000
+3632
+Kapitalne pomoći unutar opće države
+25.000.000
+0
+-18.500.000
+6.500.000
+K650103
+PROJEKT RAZVOJA GOSPODARSTVA NA SELU
+143.254.000
+7.720.000
+0
+150.974.000
+3863
+Kapitalne pomoći poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+143.254.000
+7.720.000
+0
+150.974.000
+1839
+SAPARD/IPARD
+5.000.000
+0
+-4.900.000
+100.000
+T650097
+IPARD TEHNIČKA POMOĆ
+5.000.000
+0
+-4.900.000
+100.000
+3237
+Intelektualne i osobne usluge
+5.000.000
+0
+-4.900.000
+100.000
+06010
+Hrvatski zavod za poljoprivrednu savjetodavnu službu
+32.446.050
+511.000
+-511.000
+32.446.050
+1479
+ADMINISTRACIJA I UPRAVLJANJE ZAVODA
+32.446.050
+511.000
+-511.000
+32.446.050
+A569003
+ADMINISTRACIJA I UPRAVLJANJE
+31.145.050
+135.000
+-451.000
+30.829.050
+3111
+Plaće za redovan rad
+21.611.705
+0
+-80.000
+21.531.705
+3113
+Plaće za prekovremeni rad
+10.000
+0
+-2.000
+8.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+6.088.000
+0
+-219.000
+5.869.000
+3213
+Stručno usavršavanje zaposlenika
+180.000
+0
+-5.000
+175.000
+3221
+Uredski materijal i ostali materijalni rashodi
+560.000
+50.000
+0
+610.000
+3223
+Energija
+460.000
+0
+-55.000
+405.000
+3225
+Sitni inventar i autogume
+235.000
+5.000
+0
+240.000
+3231
+Usluge telefona, pošte i prijevoza
+1.270.000
+0
+-40.000
+1.230.000
+3232
+Usluge tekućeg i investicijskog održavanja
+285.345
+30.000
+0
+315.345
+3233
+Usluge promidžbe i informiranja
+85.000
+30.000
+0
+115.000
+3239
+Ostale usluge
+100.000
+5.000
+0
+105.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+145.000
+0
+-40.000
+105.000
+3292
+Premije osiguranja
+100.000
+0
+-10.000
+90.000
+3299
+Ostali nespomenuti rashodi poslovanja
+15.000
+15.000
+0
+30.000
+K569004
+INFORMATIZACIJA
+692.000
+376.000
+0
+1.068.000
+4123
+Licence
+135.000
+130.000
+0
+265.000
+4221
+Uredska oprema i namještaj
+515.000
+230.000
+0
+745.000
+4222
+Komunikacijska oprema
+12.000
+1.000
+0
+13.000
+4262
+Ulaganja u računalne programe
+30.000
+15.000
+0
+45.000
+K569005
+OBNOVA VOZNOG PARKA
+480.000
+0
+-15.000
+465.000
+4231
+Prijevozna sredstva u cestovnom prometu
+480.000
+0
+-15.000
+465.000
+K569006
+OPREMANJE POSLOVNOG PROSTORA
+129.000
+0
+-45.000
+84.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+129.000
+0
+-45.000
+84.000
+06025
+Hrvatska agencija za hranu
+1.565.000
+105.000
+-105.000
+1.565.000
+1779
+ADMINISTRACIJA I UPRAVLJANJE HAH
+1.565.000
+105.000
+-105.000
+1.565.000
+A815001
+ADMINISTRACIJA I UPRAVLJANJE HAH
+1.565.000
+105.000
+-105.000
+1.565.000
+3121
+Ostali rashodi za zaposlene
+80.000
+25.000
+0
+105.000
+3225
+Sitni inventar i autogume
+50.000
+10.000
+0
+60.000
+3231
+Usluge telefona, pošte i prijevoza
+100.000
+10.000
+0
+110.000
+3237
+Intelektualne i osobne usluge
+635.000
+60.000
+0
+695.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+700.000
+0
+-105.000
+595.000
+062
+MINISTARSTVO REGIONALNOG RAZVOJA, ŠUMARSTVA I VODNOGA GOSPODARSTVA
+1.574.331.116
+95.709.892
+-95.709.892
+1.574.331.116
+06205
+Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva
+1.483.050.136
+86.691.891
+-94.696.891
+1.475.045.136
+1192
+SUSTAV ZA NAVODNJAVANJE
+350.000
+200.000
+-50.000
+500.000
+T568108
+SUSTAV ZA NAVODNJAVANJE
+350.000
+200.000
+-50.000
+500.000
+3233
+Usluge promidžbe i informiranja
+300.000
+200.000
+0
+500.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+50.000
+0
+-50.000
+0
+1357
+ISPITIVANJE VODA
+396.779
+0
+-370.259
+26.520
+A650009
+ISPITIVANJE VODA NA POGRANIČNIM TERITORIJIMA
+346.779
+0
+-346.779
+0
+3236
+Zdravstvene i veterinarske usluge
+346.779
+0
+-346.779
+0
+A650019
+SMANJIVANJE NUTRIJENATA U SLIVU RIJEKE DUNAV
+50.000
+0
+-23.480
+26.520
+3211
+Službena putovanja
+50.000
+0
+-23.480
+26.520
+1359
+PRIDRUŽIVANJE EU
+2.070.000
+0
+-1.500.000
+920.000
+A650016
+USKLAĐIVANJE PROPISA RH SA PROPISIMA EU
+2.070.000
+0
+-1.150.000
+920.000
+3211
+Službena putovanja
+70.000
+0
+-50.000
+20.000
+3237
+Intelektualne i osobne usluge
+2.000.000
+0
+-1.100.000
+900.000
+1361
+VODNA DOKUMENTACIJA
+450.000
+0
+-31.840
+418.160
+A650027
+PROCJENA ULAGANJA ZA DODJELU KONCESIJA NA JAVNOM DOBRU
+450.000
+0
+-31.840
+418.160
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+450.000
+0
+-31.839
+418.161
+1507
+PROGRAM REGIONALNOG RAZVOJA
+763.151.024
+34.393.660
+-37.493.889
+760.050.795
+A549017
+OBNOVA I RAZVOJ VUKOVARA
+32.693.300
+8.000.000
+0
+40.693.300
+3821
+Kapitalne donacije neprofitnim organizacijama
+32.693.300
+8.000.000
+0
+40.693.300
+A587032
+POTPORA ZA OSNIVANJE I RAD ŽUPANIJSKIH RAZVOJNIH AGENCIJA
+200.000
+0
+-200.000
+0
+3237
+Intelektualne i osobne usluge
+200.000
+0
+-200.000
+0
+K549024
+OBNOVA I IZGRADNJA ŠKOLSKIH OBJEKATA (CEB V)
+158.500.000
+6.000.000
+0
+164.500.000
+4212
+Poslovni objekti
+158.500.000
+6.000.000
+0
+164.500.000
+K549033
+OBNOVA U RATU STRADALIH ŠKOLSKIH OBJEKATA
+200.000
+0
+-193.889
+6.111
+4212
+Poslovni objekti
+200.000
+0
+-193.889
+6.111
+K549109
+RAZVOJ BRDSKO - PLANINSKIH PODRUČJA
+12.000.000
+0
+-2.100.000
+9.900.000
+3631
+Tekuće pomoći unutar opće države
+2.000.000
+0
+-1.500.000
+500.000
+3632
+Kapitalne pomoći unutar opće države
+10.000.000
+0
+-600.000
+9.400.000
+K549110
+RAZVOJ PODRUČJA POSEBNE DRŽAVNE SKRBI
+31.200.000
+0
+-15.000.000
+16.200.000
+3632
+Kapitalne pomoći unutar opće države
+31.200.000
+0
+-15.000.000
+16.200.000
+K549111
+RAZVOJ POGRANIČNIH PODRUČJA
+8.264.000
+0
+-3.000.000
+5.264.000
+3632
+Kapitalne pomoći unutar opće države
+8.264.000
+0
+-3.000.000
+5.264.000
+K549131
+OBNOVA KOMUNALNE INFRASTRUKTURE U PODRUČJIMA POSEBNE DRŽAVNE SKRBI (EIB)
+98.561.996
+1.900.000
+0
+100.461.996
+3632
+Kapitalne pomoći unutar opće države
+98.561.996
+1.900.000
+0
+100.461.996
+K570341
+REGIONALNI RAZVOJNI PROJEKTI
+51.700.000
+0
+-17.000.000
+34.700.000
+3632
+Kapitalne pomoći unutar opće države
+51.700.000
+0
+-17.000.000
+34.700.000
+T570346
+PROGRAM INTEGRALNOG RAZVOJA LOKALNE ZAJEDNICE (EIB)
+369.831.728
+18.493.660
+0
+388.325.388
+3632
+Kapitalne pomoći unutar opće države
+369.831.728
+18.493.660
+0
+388.325.388
+1512
+PROGRAM POVRATKA PROGNANIKA, IZBJEGLICA I RASELJENIH OSOBA
+465.365.766
+29.700.000
+-32.200.000
+462.865.766
+A549007
+POTICANJE OBNOVE KUĆA I - III STUPANJ OŠTEĆENJA
+6.400.000
+0
+-3.000.000
+3.400.000
+3822
+Kapitalne donacije građanima i kućanstvima
+6.400.000
+0
+-3.000.000
+3.400.000
+K549030
+OBNOVA I IZGRADNJA U RATU OŠTEĆENIH STAMBENIH JEDINICA
+177.500.000
+0
+-13.300.000
+164.200.000
+3822
+Kapitalne donacije građanima i kućanstvima
+177.500.000
+0
+-13.300.000
+164.200.000
+K549034
+OBNOVA I IZGRADNJA OBJEKATA DRUŠTVENE NAMJENE
+15.000.000
+0
+-1.100.000
+13.900.000
+3632
+Kapitalne pomoći unutar opće države
+15.000.000
+0
+-1.100.000
+13.900.000
+K549117
+STAMBENO ZBRINJAVANJE POVRATNIKA IZVAN PODRUČJA POSEBNE DRŽAVNE SKRBI
+11.000.000
+10.000.000
+0
+21.000.000
+3235
+Zakupnine i najamnine
+11.000.000
+10.000.000
+0
+21.000.000
+K570492
+STAMBENO ZBRINJAVANJE NA PODRUČJIMA POSEBNE DRŽAVNE SKRBI
+255.465.766
+19.700.000
+-14.800.000
+260.365.766
+3632
+Kapitalne pomoći unutar opće države
+10.000.000
+0
+-6.400.000
+3.600.000
+3822
+Kapitalne donacije građanima i kućanstvima
+203.130.766
+19.700.000
+0
+222.830.766
+4211
+Stambeni objekti
+42.335.000
+0
+-8.400.000
+33.935.000
+1533
+RAZVOJ VODOOPSKRBNOG SUSTAVA
+10.260.000
+5.353.531
+0
+15.613.531
+K820013
+VODOOPSKRBA - JLP(R)S
+10.260.000
+5.353.531
+0
+15.613.531
+3632
+Kapitalne pomoći unutar opće države
+10.260.000
+5.353.531
+0
+15.613.531
+1534
+OBNOVA I IZGRADNJA VODOOPSKRBNOG I ODVODNOG SUSTAVA
+2.194.500
+805.500
+0
+3.000.000
+K568292
+PRIPREMA PROJEKTNE DOKUMENTACIJE ZA PREDPRISTUPNE FONDOVE EU
+2.194.500
+805.500
+0
+3.000.000
+3632
+Kapitalne pomoći unutar opće države
+2.194.500
+805.500
+0
+3.000.000
+1613
+UNAPREĐENJE DRVNE INDUSTRIJE
+51.700.800
+1.149.200
+0
+52.850.000
+K828006
+MJERE RAZVOJA KONKURENTNOSTI DRVNOG SEKTORA
+51.700.800
+1.149.200
+0
+52.850.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+51.700.800
+1.149.200
+0
+52.850.000
+1633
+ZAŠTITA VODA I MORA OD ZAGAĐENJA
+31.975.619
+13.000.000
+-4.513.949
+40.461.670
+K821013
+ZAŠTITA VODA I MORA OD ZAGAĐENJA - JLP(R)S
+13.461.670
+13.000.000
+0
+26.461.670
+3632
+Kapitalne pomoći unutar opće države
+13.461.670
+13.000.000
+0
+26.461.670
+T650040
+PROJEKT ZAŠTITE JADRANA OD ONEČIŠĆENJA IBRD I DOMAĆA KOMPONENTA
+18.513.949
+0
+-4.513.949
+14.000.000
+3632
+Kapitalne pomoći unutar opće države
+18.513.949
+0
+-4.513.949
+14.000.000
+1676
+ISPA
+53.287.098
+0
+-11.630.000
+41.657.098
+K650038
+ISPA
+53.287.098
+0
+-11.630.000
+41.657.098
+3632
+Kapitalne pomoći unutar opće države
+6.600.000
+0
+-3.000.000
+3.600.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+46.687.098
+0
+-8.630.000
+38.057.098
+1677
+MEĐUNARODNA SURADNJA PO BILATERALNIM I MULTILATERALNIM UGOVORIMA
+126.500
+0
+-69.578
+56.922
+A650037
+MEĐUNARODNA SURADNJA PO BILATERALNIM I MULTILATERALNIM UGOVORIMA
+126.500
+0
+-69.578
+56.922
+3237
+Intelektualne i osobne usluge
+126.500
+0
+-69.578
+56.922
+1690
+PROGRAM POMOĆI VLADE REPUBLIKE HRVATSKE ZA POVRATAK HRVATA U BOSNU I HERCEGOVINU
+27.000.000
+500.000
+0
+27.500.000
+A761014
+SKRB O PROGNANICIMA U FEDERACIJI BIH
+27.000.000
+500.000
+0
+27.500.000
+3611
+Tekuće pomoći inozemnim vladama
+27.000.000
+500.000
+0
+27.500.000
+1782
+STRATEGIJA I PROGRAM INVESTIRANJA IZ MEĐUNARODNIH FONDOVA I PROVOĐENJE PROJEKATA
+215.000
+0
+-48.395
+166.605
+A650067
+STRATEGIJA I PROGRAM INVESTIRANJA IZ MEĐUNARODNIH FONDOVA I PROVOĐENJE PROJEKATA
+215.000
+0
+-48.395
+166.605
+3211
+Službena putovanja
+40.000
+0
+-14.324
+25.676
+3237
+Intelektualne i osobne usluge
+150.000
+0
+-21.681
+128.319
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+25.000
+0
+-12.390
+12.610
+1783
+UNUTARNJE VODE
+1.500.000
+0
+-1.500.000
+0
+K819014
+UNUTARNJE VODE-ZAJAM IBRD-DAROVNICA IZ ZAJMA ZA HRVATSKE VODE
+1.500.000
+0
+-1.500.000
+0
+3434
+Ostali nespomenuti financijski rashodi
+1.500.000
+0
+-1.500.000
+0
+1825
+ADMINISTRACIJA I UPRAVLJANJE
+73.007.050
+1.590.000
+-5.638.984
+68.958.066
+A828001
+ADMINISTRACIJA I UPRAVLJANJE
+70.407.050
+1.590.000
+-4.388.984
+67.608.066
+3111
+Plaće za redovan rad
+31.395.000
+0
+-800.000
+30.595.000
+3121
+Ostali rashodi za zaposlene
+1.616.250
+0
+-250.000
+1.366.250
+3132
+Doprinosi za zdravstveno osiguranje
+4.956.200
+0
+-355.000
+4.601.200
+3133
+Doprinosi za zapošljavanje
+578.100
+0
+-44.000
+534.100
+3211
+Službena putovanja
+2.491.400
+0
+-500.000
+1.991.400
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+2.366.400
+0
+-400.000
+1.966.400
+3213
+Stručno usavršavanje zaposlenika
+586.800
+30.000
+0
+616.800
+3231
+Usluge telefona, pošte i prijevoza
+3.486.600
+300.000
+0
+3.786.600
+3232
+Usluge tekućeg i investicijskog održavanja
+900.000
+50.000
+0
+950.000
+3234
+Komunalne usluge
+1.258.100
+300.000
+0
+1.558.100
+3235
+Zakupnine i najamnine
+7.018.500
+900.000
+0
+7.918.500
+3236
+Zdravstvene i veterinarske usluge
+300.000
+10.000
+0
+310.000
+3237
+Intelektualne i osobne usluge
+8.260.000
+0
+-950.000
+7.310.000
+3238
+Računalne usluge
+1.743.700
+0
+-200.000
+1.543.700
+3239
+Ostale usluge
+500.000
+0
+-248.375
+251.625
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+1.130.000
+0
+-11.942
+1.118.058
+3292
+Premije osiguranja
+300.000
+0
+-70.000
+230.000
+3294
+Članarine
+800.000
+0
+-135.000
+665.000
+3299
+Ostali nespomenuti rashodi poslovanja
+370.000
+0
+-74.667
+295.333
+3423
+Kamate za primljene zajmove od banaka i ostalih financijskih institucija izvan javnog sektora
+300.000
+0
+-300.000
+0
+3434
+Ostali nespomenuti financijski rashodi
+50.000
+0
+-50.000
+0
+K828002
+INFORMATIZACIJA
+2.100.000
+0
+-1.150.000
+950.000
+4123
+Licence
+1.500.000
+0
+-900.000
+600.000
+4222
+Komunikacijska oprema
+300.000
+0
+-150.000
+150.000
+4262
+Ulaganja u računalne programe
+300.000
+0
+-100.000
+200.000
+K828003
+OPREMANJE POSLOVNOG PROSTORA
+500.000
+0
+-100.000
+400.000
+4223
+Oprema za održavanje i zaštitu
+500.000
+0
+-100.000
+400.000
+06210
+Šumarska savjetodavna služba
+10.684.000
+318.000
+-413.000
+10.589.000
+1778
+ADMINISTRACIJA I UPRAVLJANJE ŠUMARSKE SAVJETODAVNE SLUŽBE
+10.684.000
+318.000
+-413.000
+10.589.000
+A816003
+ADMINISTRACIJA I UPRAVLJANJE ŠUMARSKE SAVJETODAVNE SLUŽBE
+10.684.000
+228.000
+-413.000
+10.499.000
+3111
+Plaće za redovan rad
+5.478.000
+0
+-80.000
+5.398.000
+3121
+Ostali rashodi za zaposlene
+260.000
+15.000
+0
+275.000
+3132
+Doprinosi za zdravstveno osiguranje
+854.150
+0
+-20.000
+834.150
+3133
+Doprinosi za zapošljavanje
+99.850
+0
+-5.000
+94.850
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+1.590.000
+0
+-80.000
+1.510.000
+3221
+Uredski materijal i ostali materijalni rashodi
+435.000
+83.000
+0
+518.000
+3232
+Usluge tekućeg i investicijskog održavanja
+180.000
+20.000
+0
+200.000
+3233
+Usluge promidžbe i informiranja
+125.000
+0
+-40.000
+85.000
+3235
+Zakupnine i najamnine
+755.000
+30.000
+0
+785.000
+3237
+Intelektualne i osobne usluge
+305.000
+80.000
+0
+385.000
+3238
+Računalne usluge
+195.000
+0
+-30.000
+165.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+375.000
+0
+-150.000
+225.000
+3721
+Naknade građanima i kućanstvima u novcu
+32.000
+0
+-8.000
+24.000
+K816002
+INFORMATIZACIJA
+0
+90.000
+0
+90.000
+4123
+Licence
+0
+90.000
+0
+90.000
+06215
+Skrb za prognanike i izbjeglice
+80.596.980
+8.700.001
+-600.000
+88.696.981
+1090
+ZBRINJAVANJE PROGNANIKA, POVRATNIKA I IZBJEGLICA
+80.596.980
+8.700.001
+-600.000
+88.696.981
+A761000
+ZBRINJAVANJE PROGNANIKA, POVRATNIKA I IZBJEGLICA
+723.693
+1
+0
+723.694
+3111
+Plaće za redovan rad
+723.693
+1
+0
+723.694
+A761001
+SKRB O PROGNANICIMA (REPUBLIČKI FOND »KRALJ ZVONIMIR«)
+69.773.287
+4.500.000
+0
+74.273.287
+3721
+Naknade građanima i kućanstvima u novcu
+69.773.287
+4.500.000
+0
+74.273.287
+K761002
+INFORMATIZACIJA
+3.500.000
+0
+-600.000
+2.900.000
+3238
+Računalne usluge
+3.500.000
+0
+-600.000
+2.900.000
+K761004
+KAPITALNA POTPORA ZA ODRŽIVI POVRATAK NA PODRUČJU POSEBNE DRŽAVNE SKRBI
+5.000.000
+3.600.000
+0
+8.600.000
+3632
+Kapitalne pomoći unutar opće države
+5.000.000
+3.600.000
+0
+8.600.000
+K761027
+UREĐENJE POSJEDOVNE I VLASNIČKO-PRAVNE EVIDENCIJE DRŽAVNE IMOVINE NA PPDS (INTELEKTUALNE I OSOBNE USLUGE)
+1.600.000
+600.000
+0
+2.200.000
+3237
+Intelektualne i osobne usluge
+1.600.000
+600.000
+0
+2.200.000
+065
+MINISTARSTVO MORA, PROMETA I INFRASTRUKTURE
+2.338.735.510
+196.658.415
+-196.658.415
+2.338.735.510
+06505
+Ministarstvo mora, prometa i infrastrukture
+1.893.061.510
+134.557.680
+-182.374.666
+1.845.244.524
+1200
+ADMINISTRACIJA I UPRAVLJANJE
+136.135.404
+6.450.000
+-10.428.000
+132.157.404
+A250997
+OBVEZE PO SUDSKIM SPOROVIMA
+600.000
+2.080.000
+-150.000
+2.530.000
+3121
+Ostali rashodi za zaposlene
+200.000
+0
+-150.000
+50.000
+3433
+Zatezne kamate
+300.000
+1.950.000
+0
+2.250.000
+3859
+Ostali izvanredni rashodi
+100.000
+130.000
+0
+230.000
+A570000
+ADMINISTRACIJA I UPRAVLJANJE
+119.815.404
+2.970.000
+-5.195.000
+117.590.404
+3111
+Plaće za redovan rad
+70.200.000
+0
+-2.000.000
+68.200.000
+3113
+Plaće za prekovremeni rad
+4.500.000
+350.000
+0
+4.850.000
+3114
+Plaće za posebne uvjete rada
+1.500.000
+0
+-50.000
+1.450.000
+3121
+Ostali rashodi za zaposlene
+3.800.000
+0
+-650.000
+3.150.000
+3133
+Doprinosi za zapošljavanje
+1.331.134
+50.000
+0
+1.381.134
+3211
+Službena putovanja
+5.750.670
+0
+-200.000
+5.550.670
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+2.763.600
+450.000
+0
+3.213.600
+3213
+Stručno usavršavanje zaposlenika
+300.000
+0
+-100.000
+200.000
+3222
+Materijal i sirovine
+100.000
+0
+-100.000
+0
+3223
+Energija
+6.300.000
+400.000
+0
+6.700.000
+3231
+Usluge telefona, pošte i prijevoza
+6.750.000
+300.000
+0
+7.050.000
+3232
+Usluge tekućeg i investicijskog održavanja
+300.000
+0
+-50.000
+250.000
+3233
+Usluge promidžbe i informiranja
+2.300.000
+0
+-300.000
+2.000.000
+3234
+Komunalne usluge
+3.900.000
+300.000
+0
+4.200.000
+3235
+Zakupnine i najamnine
+3.500.000
+0
+-1.500.000
+2.000.000
+3236
+Zdravstvene i veterinarske usluge
+20.000
+0
+-15.000
+5.000
+3237
+Intelektualne i osobne usluge
+5.600.000
+1.000.000
+0
+6.600.000
+3238
+Računalne usluge
+50.000
+0
+-30.000
+20.000
+3299
+Ostali nespomenuti rashodi poslovanja
+300.000
+100.000
+0
+400.000
+3431
+Bankarske usluge i usluge platnog prometa
+100.000
+0
+-50.000
+50.000
+3433
+Zatezne kamate
+150.000
+20.000
+0
+170.000
+3859
+Ostali izvanredni rashodi
+300.000
+0
+-150.000
+150.000
+A570407
+STRUČNO USAVRŠAVANJE SLUŽBENIKA-STIPENDIJE I ŠKOLARINE
+360.000
+0
+-170.000
+190.000
+3721
+Naknade građanima i kućanstvima u novcu
+360.000
+0
+-170.000
+190.000
+A570494
+INSPEKCIJSKI POSLOVI
+590.000
+70.000
+-78.000
+582.000
+3213
+Stručno usavršavanje zaposlenika
+110.000
+30.000
+0
+140.000
+3221
+Uredski materijal i ostali materijalni rashodi
+400.000
+40.000
+0
+440.000
+3232
+Usluge tekućeg i investicijskog održavanja
+10.000
+0
+-10.000
+0
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-48.000
+2.000
+3239
+Ostale usluge
+10.000
+0
+-10.000
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+10.000
+0
+-10.000
+0
+A761005
+PREDSJEDAVANJE RH PROCESOM SURADNJE U JUGOISTOČNOJ EUROPI (SEECP)
+300.000
+0
+-300.000
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+300.000
+0
+-300.000
+0
+K570239
+OTKUP I KUPNJA ZAMJENSKIH STANOVA U KAPETANIJAMA I LUČKIM KAPETANIJAMA
+650.000
+0
+-650.000
+0
+3232
+Usluge tekućeg i investicijskog održavanja
+150.000
+0
+-150.000
+0
+4211
+Stambeni objekti
+500.000
+0
+-500.000
+0
+K570270
+OBNOVA I ODRŽAVANJE POSLOVNOG PROSTORA
+850.000
+400.000
+-340.000
+910.000
+3232
+Usluge tekućeg i investicijskog održavanja
+300.000
+0
+-90.000
+210.000
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-50.000
+0
+4126
+Ostala nematerijalna imovina
+100.000
+0
+-100.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+200.000
+400.000
+0
+600.000
+4521
+Dodatna ulaganja na postrojenjima i opremi
+200.000
+0
+-100.000
+100.000
+K570319
+OBNOVA VOZNOG PARKA
+6.550.000
+730.000
+-500.000
+6.780.000
+3232
+Usluge tekućeg i investicijskog održavanja
+1.250.000
+0
+-150.000
+1.100.000
+3235
+Zakupnine i najamnine
+1.900.000
+0
+-300.000
+1.600.000
+3292
+Premije osiguranja
+500.000
+300.000
+0
+800.000
+3424
+Kamate za primljene zajmove od ostalih trgovačkih društava
+100.000
+0
+-50.000
+50.000
+4231
+Prijevozna sredstva u cestovnom prometu
+2.800.000
+430.000
+0
+3.230.000
+K570320
+OPREMANJE
+1.970.000
+0
+-980.000
+990.000
+4221
+Uredska oprema i namještaj
+900.000
+0
+-430.000
+470.000
+4222
+Komunikacijska oprema
+220.000
+0
+-100.000
+120.000
+4223
+Oprema za održavanje i zaštitu
+300.000
+0
+-150.000
+150.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+550.000
+0
+-300.000
+250.000
+K570321
+INFORMATIZACIJA MINISTARSTVA
+2.500.000
+200.000
+-765.000
+1.935.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+300.000
+0
+-200.000
+100.000
+3235
+Zakupnine i najamnine
+400.000
+200.000
+0
+600.000
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-15.000
+35.000
+4126
+Ostala nematerijalna imovina
+50.000
+0
+-50.000
+0
+4225
+Instrumenti, uređaji i strojevi
+400.000
+0
+-300.000
+100.000
+4262
+Ulaganja u računalne programe
+1.300.000
+0
+-200.000
+1.100.000
+K570437
+REKONSTRUKCIJA POSLOVNE ZGRADE »KOCKICA«
+1.950.000
+0
+-1.300.000
+650.000
+3237
+Intelektualne i osobne usluge
+300.000
+0
+-150.000
+150.000
+4126
+Ostala nematerijalna imovina
+150.000
+0
+-150.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+1.500.000
+0
+-1.000.000
+500.000
+1202
+MEĐUNARODNA SURADNJA UNUTARNJE PLOVIDBE
+3.660.000
+0
+-3.190.000
+470.000
+K570297
+RAD SAVSKE I DUNAVSKE KOMISIJE TE SUDJELOVANJE U RADU MEĐUNARODNIH INSTITUCIJA S PODRUČJA UNUTARNJE PLOVIDBE
+3.660.000
+0
+-3.190.000
+470.000
+3237
+Intelektualne i osobne usluge
+60.000
+0
+-60.000
+0
+3294
+Članarine
+600.000
+0
+-130.000
+470.000
+3622
+Kapitalne pomoći međunarodnim organizacijama
+3.000.000
+0
+-3.000.000
+0
+1204
+RESTRUKTURIRANJE I MODERNIZACIJA ŽELJEZNICE
+171.750.000
+800.000
+-45.308.000
+127.242.000
+A570491
+UNAPREĐENJE STRUKTURNIH REFORMI ŽELJEZNICE U PREDPRISTUPNOM PROCESU
+4.450.000
+800.000
+-1.248.000
+4.002.000
+3237
+Intelektualne i osobne usluge
+2.800.000
+800.000
+0
+3.600.000
+3239
+Ostale usluge
+400.000
+0
+-398.000
+2.000
+3294
+Članarine
+250.000
+0
+-100.000
+150.000
+3811
+Tekuće donacije u novcu
+600.000
+0
+-550.000
+50.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+400.000
+0
+-200.000
+200.000
+K570490
+STUDIJSKE PODLOGE I PLANOVI RAZVITKA ŽELJEZNIČKOG PROMETNOG SEKTORA
+2.300.000
+0
+-560.000
+1.740.000
+4126
+Ostala nematerijalna imovina
+2.300.000
+0
+-560.000
+1.740.000
+T570336
+SREDSTVA ZA ZBRINJAVANJE VIŠKA ZAPOSLENIH
+85.000.000
+0
+-8.500.000
+76.500.000
+3512
+Subvencije trgovačkim društvima u javnom sektoru
+85.000.000
+0
+-8.500.000
+76.500.000
+T587030
+NABAVA NOVIH ŽELJEZNIČKIH VOZILA
+80.000.000
+0
+-35.000.000
+45.000.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+80.000.000
+0
+-35.000.000
+45.000.000
+1205
+MODERNIZACIJA I RAZVOJ LUKA OD DRŽAVNOG ZNAČAJA
+117.759.600
+8.130.000
+-25.292.980
+100.596.620
+A250999
+MODERNIZACIJA, OBNOVA I IZGRADNJA RIBARSKIH LUKA (ZERP)
+12.200.000
+0
+-9.200.000
+3.000.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+12.200.000
+0
+-9.200.000
+3.000.000
+A570293
+POTPORA LUČKOJ UPRAVI RIJEKA ZA VRAĆANJE OBVEZA PO ZAJMU EDCF - PROJEKT »SAMSUNG«
+16.929.600
+0
+-3.392.980
+13.536.620
+3811
+Tekuće donacije u novcu
+16.929.600
+0
+-3.392.980
+13.536.620
+A570294
+POTPORA LUČKOJ UPRAVI RIJEKA ZA REALIZACIJU ZAJMA SVJETSKE BANKE (IBRD) - PROJEKT OBNOVE RIJEČKOG PROMETNOG PRAVCA - DOMAĆA KOMPONENTA
+46.130.000
+5.200.000
+-9.200.000
+42.130.000
+3811
+Tekuće donacije u novcu
+17.730.000
+0
+-9.200.000
+8.530.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+28.400.000
+5.200.000
+0
+33.600.000
+A570325
+GRADNJA I ODRŽAVANJE LUČKE PODGRADNJE U LUKAMA OD DRŽAVNOG ZNAČAJA
+31.000.000
+0
+-1.000.000
+30.000.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+31.000.000
+0
+-1.000.000
+30.000.000
+A570348
+UTVRĐIVANJE GRANICA POMORSKOG DOBRA I PROVEDBA UTVRĐENOG POMORSKOG DOBRA
+2.500.000
+0
+-2.500.000
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+2.500.000
+0
+-2.500.000
+0
+A570464
+POTPORA LUČKOJ UPRAVI DUBROVNIK ZA REALIZACIJU ZAJMA EBRD - PROJEKT IZGRADNJE LUČKE INFRASTRUKTURE-DOMAĆA KOMPONENTA
+9.000.000
+2.930.000
+0
+11.930.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+9.000.000
+2.930.000
+0
+11.930.000
+1209
+POTICANJE HRVATSKIH BRODARA
+79.800.000
+3.280.200
+-33.280.200
+49.800.000
+A250998
+POTICANJE GRADNJE, OBNOVE I MODERNIZACIJE RIBARSKE FLOTE (ZERP)
+20.000.000
+0
+-6.000.000
+14.000.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+20.000.000
+0
+-6.000.000
+14.000.000
+A570288
+POTICANJE GRADNJE BRODOVA ZA HRVATSKE BRODARE TE IZGRADNJA I REKONSTRUKCIJA PLOVNIH OBJEKATA U HRVATSKIM BRODOGRADILIŠTIMA
+45.000.000
+0
+-25.500.000
+19.500.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+45.000.000
+0
+-25.500.000
+19.500.000
+A819015
+PROMOCIJA POMORSTVA
+500.000
+70.000
+0
+570.000
+3233
+Usluge promidžbe i informiranja
+500.000
+70.000
+0
+570.000
+K819001
+GRADNJA ŠKOLSKOG BRODA - »LOGER«
+14.300.000
+3.210.200
+-1.780.200
+15.730.000
+3237
+Intelektualne i osobne usluge
+500.000
+0
+-500.000
+0
+4126
+Ostala nematerijalna imovina
+1.300.000
+0
+-1.280.200
+19.800
+4233
+Prijevozna sredstva u pomorskom i riječnom prometu
+12.500.000
+3.210.200
+0
+15.710.200
+1210
+POTICANJE LUČKOG PROMETA
+50.000
+0
+-50.000
+0
+A570324
+POTICANJE REDOVITIH BRODSKIH KONTEJNERSKIH I RO-RO LINIJA I MEĐUOBALNE PLOVIDBE
+50.000
+0
+-50.000
+0
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-50.000
+0
+1215
+PRAĆENJE I RAZVOJ SUSTAVA POŠTE I POŠTANSKOG PROMETA
+1.400.000
+0
+-380.000
+1.020.000
+A821015
+HAPEK-POTPORA ZA REGULATORNE POSLOVE U PODRUČJU POŠTANSKIH USLUGA
+1.400.000
+0
+-380.000
+1.020.000
+3811
+Tekuće donacije u novcu
+1.340.000
+0
+-350.000
+990.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+60.000
+0
+-30.000
+30.000
+1217
+PRIBLIŽAVANJE NATO SAVEZU PREMA MAP PROGRAMU
+300.000
+0
+-300.000
+0
+A570296
+PRIBLIŽAVANJE NATO SAVEZU - OPREMANJE AERODROMA PREMA NATO (MAP) PROGRAMU
+300.000
+0
+-300.000
+0
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+300.000
+0
+-300.000
+0
+1219
+RAZVOJ CESTOVNOG PROMETA I SIGURNOSTI NA CESTAMA
+920.000
+0
+-800.000
+120.000
+A570014
+SIGURNOST PROMETA NA CESTAMA
+550.000
+0
+-430.000
+120.000
+3233
+Usluge promidžbe i informiranja
+200.000
+0
+-100.000
+100.000
+3237
+Intelektualne i osobne usluge
+200.000
+0
+-200.000
+0
+3239
+Ostale usluge
+50.000
+0
+-50.000
+0
+3631
+Tekuće pomoći unutar opće države
+50.000
+0
+-50.000
+0
+3811
+Tekuće donacije u novcu
+50.000
+0
+-30.000
+20.000
+A570306
+STRUČNO OSPOSOBLJAVANJE ZA OBAVLJANJE DJELATNOSTI JAVNOG CESTOVNOG PRIJEVOZA
+70.000
+0
+-70.000
+0
+3239
+Ostale usluge
+20.000
+0
+-20.000
+0
+3811
+Tekuće donacije u novcu
+50.000
+0
+-50.000
+0
+K570315
+OPREMANJE ŠKOLSKIH PATROLA
+300.000
+0
+-300.000
+0
+4227
+Uređaji, strojevi i oprema za ostale namjene
+300.000
+0
+-300.000
+0
+1221
+RAZVOJ ZRAČNOG PROMETA
+1.660.000
+0
+-700.000
+960.000
+A570001
+POVEZIVANJE I SURADNJA S MEĐUNARODNIM ORGANIZACIJAMA U ZRAKOPLOVSTVU
+640.000
+0
+-100.000
+540.000
+3294
+Članarine
+640.000
+0
+-100.000
+540.000
+A570486
+PROVEDBA JAVNIH OVLASTI U ZRAKOPLOVSTVU (HRVATSKI ZRAKOPLOVNI SAVEZ)
+320.000
+0
+-100.000
+220.000
+3811
+Tekuće donacije u novcu
+320.000
+0
+-100.000
+220.000
+K108887
+REGIONALNE (OTOČNE) ZRAČNE LUKE U RH
+300.000
+0
+-300.000
+0
+3632
+Kapitalne pomoći unutar opće države
+300.000
+0
+-300.000
+0
+K271210
+STRATEGIJA ZRAČNOG PROMETA
+400.000
+0
+-200.000
+200.000
+4126
+Ostala nematerijalna imovina
+400.000
+0
+-200.000
+200.000
+1222
+SIGURNOST I ZAŠTITA U ZRAČNOM PROMETU
+35.340.000
+1.590.000
+-40.000
+36.890.000
+A570016
+ISTRAŽIVANJE NESREĆA I NEZGODA U ZRAČNOM PROMETU
+340.000
+90.000
+-40.000
+390.000
+3213
+Stručno usavršavanje zaposlenika
+40.000
+0
+-40.000
+0
+3237
+Intelektualne i osobne usluge
+300.000
+90.000
+0
+390.000
+A570333
+OSIGURANJE SIGURNOSNO PROMETNIH STANDARDA U ZRAČNIM LUKAMA RH
+35.000.000
+1.500.000
+0
+36.500.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+35.000.000
+1.500.000
+0
+36.500.000
+1224
+SIGURNOST POMORSKOG PROMETA
+55.420.000
+6.226.858
+-20.090.000
+41.556.858
+A570017
+SIGURNOST POMORSKOG PROMETA
+8.970.000
+1.055.000
+-2.355.000
+7.670.000
+3221
+Uredski materijal i ostali materijalni rashodi
+2.200.000
+0
+-800.000
+1.400.000
+3223
+Energija
+3.500.000
+800.000
+0
+4.300.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+500.000
+200.000
+0
+700.000
+3234
+Komunalne usluge
+500.000
+0
+-55.000
+445.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+2.000.000
+0
+-1.500.000
+500.000
+3294
+Članarine
+270.000
+55.000
+0
+325.000
+A570409
+TRAGANJE I SPAŠAVANJE NA MORU I ZAŠTITA MORA OD ONEČIŠĆENJA
+8.650.000
+1.150.000
+0
+9.800.000
+3235
+Zakupnine i najamnine
+4.650.000
+150.000
+0
+4.800.000
+3859
+Ostali izvanredni rashodi
+4.000.000
+1.000.000
+0
+5.000.000
+A570415
+IZGRADNJA VIŠENAMJENSKOG BRODA-RADIONICE, VEZANO ZA SIGURNOST PLOVIDBE
+1.500.000
+0
+-1.105.000
+395.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+1.500.000
+0
+-1.105.000
+395.000
+A587042
+ISKOP NOVOG PLOVNOG PUTA PRIVLAČKI GAZ
+900.000
+0
+-500.000
+400.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+900.000
+0
+-500.000
+400.000
+K103278
+OPREMANJE LUČKIH KAPETANIJA PLOVILIMA, UREĐAJIMA I OSTALOM OPREMOM
+5.150.000
+480.000
+-80.000
+5.550.000
+3232
+Usluge tekućeg i investicijskog održavanja
+250.000
+330.000
+0
+580.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+400.000
+0
+-80.000
+320.000
+4233
+Prijevozna sredstva u pomorskom i riječnom prometu
+4.500.000
+150.000
+0
+4.650.000
+K250796
+USPOSTAVA INFORMACIJSKOG SUSTAVA POMORSKOG PROMETA
+5.700.000
+3.261.858
+-2.400.000
+6.561.858
+3238
+Računalne usluge
+1.500.000
+3.261.858
+0
+4.761.858
+4126
+Ostala nematerijalna imovina
+400.000
+0
+-400.000
+0
+4221
+Uredska oprema i namještaj
+1.800.000
+0
+-300.000
+1.500.000
+4262
+Ulaganja u računalne programe
+2.000.000
+0
+-1.700.000
+300.000
+K407071
+PHARE 2005 - VTS SUSTAV - USPOSTAVA NADZORA PLOVIDBE I SUSTAVA RADIOVEZA ZA PRAĆENJE POMORSKOG PROMETA
+1.700.000
+0
+-500.000
+1.200.000
+4126
+Ostala nematerijalna imovina
+1.700.000
+0
+-500.000
+1.200.000
+K570411
+OBNOVA I ODRŽAVANJE POSLOVNOG PROSTORA LUČKIH KAPETANIJA I ISPOSTAVA
+2.900.000
+0
+-1.300.000
+1.600.000
+3232
+Usluge tekućeg i investicijskog održavanja
+1.400.000
+0
+-400.000
+1.000.000
+4221
+Uredska oprema i namještaj
+400.000
+0
+-100.000
+300.000
+4511
+Dodatna ulaganja na građevinskim objektima
+1.100.000
+0
+-800.000
+300.000
+K570413
+PROŠIRENJE I PRODUBLJENJE PLOVNOG PUTA MALI ŽDRELAC
+13.000.000
+0
+-9.500.000
+3.500.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+13.000.000
+0
+-9.500.000
+3.500.000
+K819013
+VTS SUSTAV - USPOSTAVA NADZORA PLOVIDBE I SUSTAVA RADIOVEZA ZA PRAĆENJE POMORSKOG PROMETA
+4.600.000
+100.000
+-350.000
+4.350.000
+3232
+Usluge tekućeg i investicijskog održavanja
+350.000
+0
+-100.000
+250.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+3.250.000
+100.000
+0
+3.350.000
+4262
+Ulaganja u računalne programe
+1.000.000
+0
+-250.000
+750.000
+K820001
+NABAVA PRIJEVOZNIH SREDSTAVA U POMORSKOM I RIJEČNOM PROMETU ZA OBAVLJANJE POSLOVA OBALNE STRAŽE I NADZORA DRŽAVNE GRANICE (ZERP)
+2.000.000
+0
+-2.000.000
+0
+4126
+Ostala nematerijalna imovina
+2.000.000
+0
+-2.000.000
+0
+K821012
+PHARE 2006 - VTS SUSTAV - USPOSTAVA NADZORA PLOVIDBE I SUSTAVA RADIOVEZA ZA PRAĆENJE POMORSKOG PROMETA
+350.000
+180.000
+0
+530.000
+4126
+Ostala nematerijalna imovina
+350.000
+180.000
+0
+530.000
+1229
+ZAŠTITA OKOLIŠA U TRANSPORTU
+10.900.000
+1.000.000
+-900.000
+11.000.000
+A819003
+MEĐUOBALNA PLOVIDBA - SHORT SEA SHIPPING
+10.000.000
+1.000.000
+0
+11.000.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+10.000.000
+1.000.000
+0
+11.000.000
+K407022
+TRANCRO - PROGRAM ENERGETSKE EFIKASNOSTI U TRANSPORTU
+600.000
+0
+-600.000
+0
+4126
+Ostala nematerijalna imovina
+600.000
+0
+-600.000
+0
+T570498
+PILOT PROJEKT DJELOMIČNOG UVOĐENJA PRIRODNOG PLINA U JAVNI GRADSKI PROMET
+300.000
+0
+-300.000
+0
+3631
+Tekuće pomoći unutar opće države
+100.000
+0
+-100.000
+0
+3632
+Kapitalne pomoći unutar opće države
+200.000
+0
+-200.000
+0
+1497
+IZGRADNJA PROMETNE INFRASTRUKTURE
+173.221.506
+4.180.622
+-7.200.622
+170.201.506
+A820015
+POTPORA ZA OSNIVANJE I RAD AGENCIJE ZA PROMETNU INFRASTRUKTURU
+3.000.000
+0
+-2.970.000
+30.000
+3811
+Tekuće donacije u novcu
+2.300.000
+0
+-2.270.000
+30.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+700.000
+0
+-700.000
+0
+K570344
+PROVEDBA UGOVORA O KONCESIJI ZA IZGRADNJU AUTOCESTE ZAGREB - MACELJ
+169.671.506
+4.180.622
+-3.680.622
+170.171.506
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+151.771.506
+4.180.622
+0
+155.952.128
+5161
+Dani zajmovi tuzemnim trgovačkim društvima,obrtnicima, malom i srednjem poduzetništvu izvan javnog sektora
+17.900.000
+0
+-3.680.622
+14.219.378
+K570421
+RAZVOJ PROJEKATA CESTOVNE INFRASTRUKTURE
+550.000
+0
+-550.000
+0
+4126
+Ostala nematerijalna imovina
+550.000
+0
+-550.000
+0
+1509
+RAZVOJ OTOKA I PRIOBALJA
+229.900.000
+51.960.000
+-12.760.000
+269.100.000
+A570352
+POTICANJE OTOČNOG JAVNOG CESTOVNOG PRIJEVOZA
+25.000.000
+5.000.000
+0
+30.000.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+25.000.000
+5.000.000
+0
+30.000.000
+A570354
+VODOOPSKRBA JADRANSKIH OTOKA
+11.000.000
+4.960.000
+0
+15.960.000
+3512
+Subvencije trgovačkim društvima u javnom sektoru
+11.000.000
+4.960.000
+0
+15.960.000
+A570356
+POTICANJE OTOČNOG GOSPODARSTVA
+18.000.000
+0
+-6.860.000
+11.140.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+10.000.000
+0
+-3.000.000
+7.000.000
+3523
+Subvencije poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+8.000.000
+0
+-3.860.000
+4.140.000
+A570463
+RAZVOJ JADRANSKIH OTOKA
+69.500.000
+17.000.000
+0
+86.500.000
+3632
+Kapitalne pomoći unutar opće države
+69.500.000
+17.000.000
+0
+86.500.000
+A820012
+RAZVOJ PRIOBALJA
+43.500.000
+25.000.000
+0
+68.500.000
+3632
+Kapitalne pomoći unutar opće države
+43.500.000
+25.000.000
+0
+68.500.000
+K587038
+IZRADA STUDIJSKE, PROJEKTNE I PROGRAMSKE DOKUMENTACIJE RAZVITKA OTOKA
+900.000
+0
+-900.000
+0
+3237
+Intelektualne i osobne usluge
+100.000
+0
+-100.000
+0
+4126
+Ostala nematerijalna imovina
+700.000
+0
+-700.000
+0
+4262
+Ulaganja u računalne programe
+100.000
+0
+-100.000
+0
+T570462
+IZGRADNJA OBJEKATA KOMUNALNE I DRUŠTVENE INFRASTRUKTURE NA HRVATSKIM OTOCIMA (CEB IV)
+62.000.000
+0
+-5.000.000
+57.000.000
+3632
+Kapitalne pomoći unutar opće države
+62.000.000
+0
+-5.000.000
+57.000.000
+1510
+RAZVITAK UNUTARNJE PLOVIDBE
+1.175.000
+240.000
+-300.000
+1.115.000
+A821014
+STIPENDIRANJE REDOVITIH STUDENATA FAKULTETA PROMETNIH ZNANOSTI I UČENIKA SREDNJE ŠKOLE BAKAR
+200.000
+0
+-100.000
+100.000
+3721
+Naknade građanima i kućanstvima u novcu
+200.000
+0
+-100.000
+100.000
+K570358
+OBNOVA I ODRŽAVANJE POSLOVNOG PROSTORA KAPETANIJA NA UNUTARNJIM VODAMA
+975.000
+240.000
+-200.000
+1.015.000
+3232
+Usluge tekućeg i investicijskog održavanja
+300.000
+100.000
+0
+400.000
+4223
+Oprema za održavanje i zaštitu
+50.000
+70.000
+0
+120.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+25.000
+70.000
+0
+95.000
+4511
+Dodatna ulaganja na građevinskim objektima
+600.000
+0
+-200.000
+400.000
+1511
+PRAĆENJE I RAZVOJ SUSTAVA POŠTANSKOG I TELEKOMUNIKACIJSKOG TRŽIŠTA
+1.230.000
+0
+-1.227.000
+3.000
+A570340
+RAZVOJ TELEKOMUNIKACIJSKOG I POŠTANSKOG TRŽIŠTA I INFORMACIJSKOG DRUŠTVA
+400.000
+0
+-397.000
+3.000
+3211
+Službena putovanja
+50.000
+0
+-50.000
+0
+3213
+Stručno usavršavanje zaposlenika
+50.000
+0
+-50.000
+0
+3221
+Uredski materijal i ostali materijalni rashodi
+50.000
+0
+-47.000
+3.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+150.000
+0
+-150.000
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+100.000
+0
+-100.000
+0
+K820003
+STUDIJA RAZVOJA ŠIROKOPOJASNE INFRASTRUKTURE I USLUGA ZA LOKALNU SAMOUPRAVU RH
+830.000
+0
+-830.000
+0
+4126
+Ostala nematerijalna imovina
+830.000
+0
+-830.000
+0
+1544
+SIGURNOST I NADZOR PLOVIDBE NA PLOVNIM PUTOVIMA UNUTARNJIH VODA
+4.790.000
+0
+-2.335.000
+2.455.000
+A570442
+TRAGANJE I SPAŠAVANJE U PROMETU UNUTARNJIM VODAMA
+400.000
+0
+-200.000
+200.000
+3859
+Ostali izvanredni rashodi
+400.000
+0
+-200.000
+200.000
+K570441
+OPREMANJE KAPETANIJA SLUŽBENIM PLOVILIMA, PRIJEVOZNIM SREDSTVIMA, ODORAMA I OPREMOM ZA POTREBE SIGURNOSTI RIJEČNE PLOVIDBE
+3.100.000
+0
+-1.395.000
+1.705.000
+3221
+Uredski materijal i ostali materijalni rashodi
+700.000
+0
+-65.000
+635.000
+3232
+Usluge tekućeg i investicijskog održavanja
+700.000
+0
+-390.000
+310.000
+4126
+Ostala nematerijalna imovina
+100.000
+0
+-100.000
+0
+4222
+Komunikacijska oprema
+100.000
+0
+-90.000
+10.000
+4231
+Prijevozna sredstva u cestovnom prometu
+700.000
+0
+-50.000
+650.000
+4531
+Dodatna ulaganja na prijevoznim sredstvima
+800.000
+0
+-700.000
+100.000
+K587028
+INFORMATIZACIJA UNUTARNJE PLOVIDBE
+1.290.000
+0
+-740.000
+550.000
+3232
+Usluge tekućeg i investicijskog održavanja
+500.000
+0
+-500.000
+0
+3237
+Intelektualne i osobne usluge
+40.000
+0
+-40.000
+0
+3238
+Računalne usluge
+150.000
+0
+-150.000
+0
+4262
+Ulaganja u računalne programe
+600.000
+0
+-50.000
+550.000
+1545
+POTICANJE RIJEČNOG PROMETA
+1.500.000
+0
+-180.000
+1.320.000
+A570445
+POTPORA JEDINICAMA LOKALNE I REGIONALNE SAMOUPRAVE ZA POPREČNO PREVOŽENJE
+1.500.000
+0
+-180.000
+1.320.000
+3632
+Kapitalne pomoći unutar opće države
+1.500.000
+0
+-180.000
+1.320.000
+1546
+RAZVITAK LUKA UNUTARNJIH VODA OD DRŽAVNOG ZNAČAJA
+4.300.000
+700.000
+0
+5.000.000
+A570447
+GRADNJA I ODRŽAVANJE LUČKIH GRAĐEVINA U LUKAMA UNUTARNJIH VODA OD DRŽAVNOG ZNAČAJA
+4.300.000
+700.000
+0
+5.000.000
+3811
+Tekuće donacije u novcu
+4.300.000
+700.000
+0
+5.000.000
+1547
+GRADNJA I TEHNIČKO ODRŽAVANJE PLOVNIH PUTOVA UNUTARNJIH VODA
+300.000
+0
+-300.000
+0
+K587027
+UPRAVLJANJE INFRASTRUKTURNIM PROJEKTIMA
+300.000
+0
+-300.000
+0
+4262
+Ulaganja u računalne programe
+300.000
+0
+-300.000
+0
+1659
+PROGRAM ORGANIZACIJE VIŠENAMJENSKE HELIKOPTERSKE SLUŽBE (VHS) U REPUBLICI HRVATSKOJ
+500.000
+0
+-500.000
+0
+A570465
+VHS SUSTAV - USPOSTAVA ORGANIZACIJE VIŠENAMJENSKE HELIKOPTERSKE SLUŽBE U RH
+500.000
+0
+-500.000
+0
+3239
+Ostale usluge
+500.000
+0
+-500.000
+0
+1673
+ZAŠTITA I PROMICANJE RAVNOPRAVNOSTI SPOLOVA
+50.000
+0
+-50.000
+0
+A570493
+PROVEDBA NACIONALNE POLITIKE ZA PROMICANJE RAVNOPRAVNOSTI SPOLOVA
+50.000
+0
+-50.000
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+50.000
+0
+-50.000
+0
+1688
+PROVEDBA NACIONALNOG PROGRAMA ŽELJEZNIČKE INFRASTRUKTURE
+861.000.000
+50.000.000
+-16.762.864
+894.237.136
+K761009
+OSUVREMENJIVANJE I IZGRADNJA ŽELJEZNIČKE INFRASTRUKTURE
+641.000.000
+50.000.000
+0
+691.000.000
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+641.000.000
+50.000.000
+0
+691.000.000
+T570361
+OSUVREMENJIVANJE I IZGRADNJA PRUGA NA VB1 KORIDORU (KFW)
+220.000.000
+0
+-16.762.864
+203.237.136
+3861
+Kapitalne pomoći bankama i ostalim financijskim institucijama i trgovačkim društvima u javnom sektoru
+220.000.000
+0
+-16.762.864
+203.237.136
+06545
+Agencija za obalni linijski promet
+375.462.000
+61.840.000
+-40.000
+437.262.000
+1218
+PROMETNO POVEZIVANJE OTOKA S KOPNOM I MEĐUSOBNO
+375.462.000
+61.840.000
+-40.000
+437.262.000
+A570323
+POTICANJE REDOVITIH POMORSKIH PUTNIČKIH I BRZOBRODSKIH LINIJA
+375.000.000
+61.800.000
+0
+436.800.000
+3512
+Subvencije trgovačkim društvima u javnom sektoru
+375.000.000
+61.800.000
+0
+436.800.000
+A587023
+AGENCIJA ZA OBALNI LINIJSKI PROMET
+462.000
+40.000
+-40.000
+462.000
+3211
+Službena putovanja
+97.000
+0
+-20.000
+77.000
+3232
+Usluge tekućeg i investicijskog održavanja
+43.000
+20.000
+0
+63.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+300.000
+0
+-20.000
+280.000
+3299
+Ostali nespomenuti rashodi poslovanja
+22.000
+20.000
+0
+42.000
+06550
+Agencija za plovne putove unutarnjih voda
+70.212.000
+260.735
+-14.243.749
+56.228.986
+1547
+GRADNJA I TEHNIČKO ODRŽAVANJE PLOVNIH PUTOVA UNUTARNJIH VODA
+70.212.000
+260.735
+-14.243.749
+56.228.986
+A570448
+RAD AGENCIJE ZA VODNE PUTOVE
+580.000
+130.000
+0
+710.000
+3213
+Stručno usavršavanje zaposlenika
+20.000
+10.000
+0
+30.000
+3232
+Usluge tekućeg i investicijskog održavanja
+30.000
+10.000
+0
+40.000
+3233
+Usluge promidžbe i informiranja
+80.000
+40.000
+0
+120.000
+3235
+Zakupnine i najamnine
+140.000
+20.000
+0
+160.000
+3237
+Intelektualne i osobne usluge
+150.000
+30.000
+0
+180.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+160.000
+20.000
+0
+180.000
+K570507
+IZGRADNJA POSLOVNE ZGRADE AGENCIJE
+5.500.000
+0
+-4.500.000
+1.000.000
+4212
+Poslovni objekti
+5.500.000
+0
+-4.500.000
+1.000.000
+K810000
+OPREMANJE
+240.000
+130.000
+0
+370.000
+3232
+Usluge tekućeg i investicijskog održavanja
+150.000
+120.000
+0
+270.000
+4221
+Uredska oprema i namještaj
+90.000
+10.000
+0
+100.000
+K810001
+GRADNJA I TEHNIČKO ODRŽAVANJE PLOVNIH PUTOVA UNUTARNJIH VODA
+63.892.000
+735
+-9.743.749
+54.148.986
+3232
+Usluge tekućeg i investicijskog održavanja
+21.692.000
+0
+-1.559.486
+20.132.514
+4126
+Ostala nematerijalna imovina
+13.000.000
+0
+-6.439.560
+6.560.440
+4214
+Ostali građevinski objekti
+25.500.000
+0
+-1.399.739
+24.100.261
+4511
+Dodatna ulaganja na građevinskim objektima
+1.700.000
+0
+-344.964
+1.355.036
+4541
+Dodatna ulaganja za ostalu nefinancijsku imovinu
+2.000.000
+735
+0
+2.000.735
+090
+MINISTARSTVO TURIZMA
+132.496.526
+22.067.197
+-22.067.197
+132.496.526
+09005
+Ministarstvo turizma
+132.496.526
+22.067.197
+-22.067.197
+132.496.526
+1281
+MEĐUNARODNA SURADNJA
+10.000
+0
+-5.103
+4.897
+A587006
+MEĐUNARODNA SURADNJA
+10.000
+0
+-5.103
+4.897
+3233
+Usluge promidžbe i informiranja
+10.000
+0
+-5.103
+4.897
+1283
+POTICAJ ZA POVEĆANJE KONKURENTNOSTI TURISTIČKOG TRŽIŠTA
+13.000.000
+8.172.119
+-6.900.000
+14.272.119
+A587014
+POTICAJ ZA POVEĆANJE KONKURENTNOSTI TURISTIČKOG TRŽIŠTA
+8.000.000
+4.200.000
+-2.900.000
+9.300.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+1.500.000
+0
+-500.000
+1.000.000
+3632
+Kapitalne pomoći unutar opće države
+2.500.000
+0
+-1.400.000
+1.100.000
+3811
+Tekuće donacije u novcu
+3.000.000
+4.200.000
+0
+7.200.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+1.000.000
+0
+-1.000.000
+0
+A819005
+PROGRAMI OBRAZOVANJA I OBUKE KADROVA U TURIZMU
+5.000.000
+3.972.119
+-4.000.000
+4.972.119
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+3.200.000
+0
+-3.200.000
+0
+3632
+Kapitalne pomoći unutar opće države
+500.000
+3.572.119
+0
+4.072.119
+3811
+Tekuće donacije u novcu
+500.000
+0
+-500.000
+0
+3821
+Kapitalne donacije neprofitnim organizacijama
+300.000
+0
+-300.000
+0
+3822
+Kapitalne donacije građanima i kućanstvima
+500.000
+400.000
+0
+900.000
+1490
+RAZVOJ MALOG I SREDNJEG PODUZETNIŠTVA U TURIZMU
+1.000.000
+0
+-950.000
+50.000
+K761023
+POTICANJE IZGRADNJE MALIH BRODOVA - PLOVEĆIH HOTELA KAO DIJELA HRVATSKE TURISTIČKE PONUDE
+1.000.000
+0
+-950.000
+50.000
+3521
+Subvencije bankama i ostalim financijskim institucijama izvan javnog sektora
+1.000.000
+0
+-950.000
+50.000
+1514
+RAZVOJ TURISTIČKOG SEKTORA
+83.000.000
+10.300.000
+-4.930.000
+88.370.000
+A587001
+TURISTIČKA PROMIDŽBA REPUBLIKE HRVATSKE
+78.000.000
+10.300.000
+0
+88.300.000
+3811
+Tekuće donacije u novcu
+78.000.000
+10.300.000
+0
+88.300.000
+A761022
+PROGRAMI POTICANJA STVARANJA NOVIH TURISTIČKIH PROIZVODA I UPRAVLJANJA DESTINACIJOM
+4.000.000
+0
+-4.000.000
+0
+3632
+Kapitalne pomoći unutar opće države
+1.000.000
+0
+-1.000.000
+0
+3811
+Tekuće donacije u novcu
+2.000.000
+0
+-2.000.000
+0
+3821
+Kapitalne donacije neprofitnim organizacijama
+1.000.000
+0
+-1.000.000
+0
+K819022
+PROJEKT REZERVACIJSKOG SUSTAVA ZA MALE I SREDNJE TURISTIČKE SUBJEKTE
+1.000.000
+0
+-930.000
+70.000
+3238
+Računalne usluge
+140.000
+0
+-140.000
+0
+4123
+Licence
+60.000
+0
+-60.000
+0
+4126
+Ostala nematerijalna imovina
+200.000
+0
+-130.000
+70.000
+4221
+Uredska oprema i namještaj
+100.000
+0
+-100.000
+0
+4262
+Ulaganja u računalne programe
+500.000
+0
+-500.000
+0
+1549
+RAZVOJ SELEKTIVNIH OBLIKA TURIZMA
+2.000.000
+700.000
+-1.200.000
+1.500.000
+A819023
+SELEKTIVNI OBLICI TURIZMA NA MORU
+2.000.000
+700.000
+-1.200.000
+1.500.000
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+500.000
+700.000
+0
+1.200.000
+3631
+Tekuće pomoći unutar opće države
+1.000.000
+0
+-800.000
+200.000
+3811
+Tekuće donacije u novcu
+500.000
+0
+-400.000
+100.000
+1551
+KULTURNA, TRADICIJSKA I PRIRODNA BAŠTINA U FUNKCIJI TURIZMA
+15.000.000
+2.665.000
+-2.650.000
+15.015.000
+A570461
+OBNOVA, VALORIZACIJA I REVITALIZACIJA KULTURNE, TRADICIJSKE I PRIRODNE BAŠTINE KAO NOVI TURISTIČKI PROIZVOD
+8.000.000
+1.250.000
+-1.250.000
+8.000.000
+3632
+Kapitalne pomoći unutar opće države
+1.000.000
+0
+-280.000
+720.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+1.000.000
+0
+-50.000
+950.000
+3822
+Kapitalne donacije građanima i kućanstvima
+3.000.000
+0
+-920.000
+2.080.000
+3863
+Kapitalne pomoći poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+3.000.000
+1.250.000
+0
+4.250.000
+A587045
+POTICANJE RAZVOJA TURISTIČKIH TEMATSKIH PUTOVA
+4.500.000
+755.000
+-755.000
+4.500.000
+3632
+Kapitalne pomoći unutar opće države
+2.000.000
+0
+-585.000
+1.415.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+2.000.000
+755.000
+0
+2.755.000
+3863
+Kapitalne pomoći poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+500.000
+0
+-170.000
+330.000
+A587046
+POTICANJE IZRADE IZVORNIH HRVATSKIH TURISTIČKIH SUVENIRA
+2.500.000
+660.000
+-645.000
+2.515.000
+3632
+Kapitalne pomoći unutar opće države
+500.000
+0
+-240.000
+260.000
+3821
+Kapitalne donacije neprofitnim organizacijama
+1.000.000
+0
+-405.000
+595.000
+3863
+Kapitalne pomoći poljoprivrednicima, obrtnicima, malim i srednjim poduzetnicima
+1.000.000
+660.000
+0
+1.660.000
+1828
+ADMINISTRACIJA I UPRAVLJANJE
+18.486.526
+230.078
+-5.432.094
+13.284.510
+A761016
+ADMINISTRACIJA I UPRAVLJANJE
+16.626.526
+180.078
+-4.767.519
+12.039.085
+3111
+Plaće za redovan rad
+8.800.000
+0
+-3.060.000
+5.740.000
+3113
+Plaće za prekovremeni rad
+550.526
+0
+-27.119
+523.407
+3121
+Ostali rashodi za zaposlene
+140.000
+130.078
+0
+270.078
+3132
+Doprinosi za zdravstveno osiguranje
+1.400.000
+0
+-420.000
+980.000
+3133
+Doprinosi za zapošljavanje
+165.000
+0
+-45.000
+120.000
+3211
+Službena putovanja
+700.000
+0
+-220.000
+480.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+250.000
+0
+-70.000
+180.000
+3213
+Stručno usavršavanje zaposlenika
+150.000
+0
+-70.000
+80.000
+3223
+Energija
+235.000
+0
+-120.000
+115.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+10.000
+0
+-9.500
+500
+3225
+Sitni inventar i autogume
+50.000
+50.000
+0
+100.000
+3231
+Usluge telefona, pošte i prijevoza
+400.000
+0
+-145.000
+255.000
+3232
+Usluge tekućeg i investicijskog održavanja
+50.000
+0
+-35.000
+15.000
+3234
+Komunalne usluge
+50.000
+0
+-50.000
+0
+3235
+Zakupnine i najamnine
+300.000
+0
+-60.000
+240.000
+3236
+Zdravstvene i veterinarske usluge
+1.000
+0
+-1.000
+0
+3237
+Intelektualne i osobne usluge
+2.950.000
+0
+-285.000
+2.665.000
+3238
+Računalne usluge
+50.000
+0
+-25.112
+24.888
+3239
+Ostale usluge
+50.000
+0
+-15.000
+35.000
+3292
+Premije osiguranja
+20.000
+0
+-20.000
+0
+3294
+Članarine
+5.000
+0
+-2.500
+2.500
+3299
+Ostali nespomenuti rashodi poslovanja
+100.000
+0
+-30.000
+70.000
+3431
+Bankarske usluge i usluge platnog prometa
+15.000
+0
+-10.000
+5.000
+3433
+Zatezne kamate
+10.000
+0
+-5.000
+5.000
+3434
+Ostali nespomenuti financijski rashodi
+10.000
+0
+-10.000
+0
+3859
+Ostali izvanredni rashodi
+100.000
+0
+-30.000
+70.000
+5161
+Dani zajmovi tuzemnim trgovačkim društvima,obrtnicima, malom i srednjem poduzetništvu izvan javnog sektora
+65.000
+0
+-2.288
+62.712
+K761018
+INFORMATIZACIJA MINISTARSTVA
+760.000
+0
+-434.575
+325.425
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+10.000
+0
+-9.575
+425
+3232
+Usluge tekućeg i investicijskog održavanja
+100.000
+0
+-100.000
+0
+3235
+Zakupnine i najamnine
+20.000
+0
+-20.000
+0
+3237
+Intelektualne i osobne usluge
+10.000
+0
+-10.000
+0
+3238
+Računalne usluge
+150.000
+0
+-20.000
+130.000
+4123
+Licence
+110.000
+0
+-30.000
+80.000
+4126
+Ostala nematerijalna imovina
+50.000
+0
+-50.000
+0
+4222
+Komunikacijska oprema
+50.000
+0
+-35.000
+15.000
+4225
+Instrumenti, uređaji i strojevi
+10.000
+0
+-10.000
+0
+4262
+Ulaganja u računalne programe
+250.000
+0
+-150.000
+100.000
+K761020
+OPREMANJE
+1.100.000
+50.000
+-230.000
+920.000
+4221
+Uredska oprema i namještaj
+950.000
+0
+-150.000
+800.000
+4222
+Komunikacijska oprema
+50.000
+50.000
+0
+100.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+100.000
+0
+-80.000
+20.000
+100
+MINISTARSTVO ZDRAVSTVA I SOCIJALNE SKRBI
+3.308.114.902
+214.153.508
+-214.153.508
+3.308.114.902
+10005
+Ministarstvo zdravstva i socijalne skrbi
+2.931.771.902
+136.981.007
+-136.981.007
+2.931.771.902
+1259
+CENTRI ZA SOCIJALNU SKRB
+218.999.900
+0
+-3.100.000
+215.899.900
+A734161
+CENTRI ZA SOCIJALNU SKRB
+218.999.900
+0
+-3.100.000
+215.899.900
+3111
+Plaće za redovan rad
+159.556.700
+0
+-2.000.000
+157.556.700
+3114
+Plaće za posebne uvjete rada
+29.654.800
+0
+-600.000
+29.054.800
+3132
+Doprinosi za zdravstveno osiguranje
+29.788.400
+0
+-500.000
+29.288.400
+1268
+PRAVA IZ SUSTAVA SOCIJALNE SKRBI
+1.477.407.021
+52.330.285
+-40.263.108
+1.489.474.198
+A734169
+DOPLATAK ZA POMOĆ I NJEGU
+335.879.886
+10.756.214
+0
+346.636.100
+3721
+Naknade građanima i kućanstvima u novcu
+335.879.886
+10.756.214
+0
+346.636.100
+A734185
+OSOBNA INVALIDNINA
+184.219.179
+4.557.503
+0
+188.776.682
+3721
+Naknade građanima i kućanstvima u novcu
+184.219.179
+4.557.503
+0
+188.776.682
+A734191
+SKRB IZVAN VLASTITE OBITELJI
+333.790.672
+18.029.722
+-2.354.206
+349.466.188
+3237
+Intelektualne i osobne usluge
+960.839
+0
+-397.123
+563.716
+3721
+Naknade građanima i kućanstvima u novcu
+131.025.453
+0
+-1.957.083
+129.068.370
+3722
+Naknade građanima i kućanstvima u naravi
+201.804.380
+18.029.722
+0
+219.834.102
+A789002
+DRUGI OBLICI POMOĆI
+197.474.875
+14.322.104
+-1.193.676
+210.603.303
+3234
+Komunalne usluge
+2.189.431
+136.733
+0
+2.326.164
+3431
+Bankarske usluge i usluge platnog prometa
+32.688.721
+0
+-1.193.676
+31.495.045
+3721
+Naknade građanima i kućanstvima u novcu
+162.596.723
+14.185.371
+0
+176.782.094
+A790002
+POMOĆ I NJEGA U KUĆI
+13.610.398
+0
+-3.917.064
+9.693.334
+3722
+Naknade građanima i kućanstvima u naravi
+13.610.398
+0
+-3.917.064
+9.693.334
+A791001
+OSOBNA NAKNADA UDOMITELJU
+21.891.481
+0
+-489.184
+21.402.297
+3721
+Naknade građanima i kućanstvima u novcu
+21.891.481
+0
+-489.184
+21.402.297
+A791002
+STALNA POMOĆ
+330.128.643
+0
+-12.173.978
+317.954.665
+3721
+Naknade građanima i kućanstvima u novcu
+330.128.643
+0
+-12.173.978
+317.954.665
+A792001
+PRAVO NA STATUS RODITELJA - NJEGOVATELJA
+28.411.887
+4.664.742
+0
+33.076.629
+3721
+Naknade građanima i kućanstvima u novcu
+28.411.887
+4.664.742
+0
+33.076.629
+A792002
+PROVEDBA OBITELJSKOG ZAKONA U SEGMENTU ALIMENTACIJE
+32.000.000
+0
+-20.135.000
+11.865.000
+3721
+Naknade građanima i kućanstvima u novcu
+32.000.000
+0
+-20.135.000
+11.865.000
+1273
+SKRB ZA DJECU BEZ ODGOVARAJUĆE RODITELJSKE SKRBI
+44.357.023
+2.590.000
+-998.091
+45.948.932
+A734192
+SKRB ZA DJECU BEZ ODGOVARAJUĆE RODITELJSKE SKRBI
+44.357.023
+2.590.000
+-998.091
+45.948.932
+3114
+Plaće za posebne uvjete rada
+11.400.000
+0
+-600.000
+10.800.000
+3121
+Ostali rashodi za zaposlene
+3.400.000
+0
+-300.000
+3.100.000
+3133
+Doprinosi za zapošljavanje
+920.000
+10.000
+0
+930.000
+3211
+Službena putovanja
+447.533
+60.000
+0
+507.533
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+2.898.091
+0
+-98.091
+2.800.000
+3213
+Stručno usavršavanje zaposlenika
+105.697
+10.000
+0
+115.697
+3221
+Uredski materijal i ostali materijalni rashodi
+2.040.933
+180.000
+0
+2.220.933
+3222
+Materijal i sirovine
+9.860.665
+900.000
+0
+10.760.665
+3223
+Energija
+4.627.262
+400.000
+0
+5.027.262
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+533.418
+80.000
+0
+613.418
+3225
+Sitni inventar i autogume
+371.652
+10.000
+0
+381.652
+3231
+Usluge telefona, pošte i prijevoza
+598.464
+20.000
+0
+618.464
+3232
+Usluge tekućeg i investicijskog održavanja
+1.555.489
+250.000
+0
+1.805.489
+3233
+Usluge promidžbe i informiranja
+117.837
+30.000
+0
+147.837
+3234
+Komunalne usluge
+1.227.002
+350.000
+0
+1.577.002
+3235
+Zakupnine i najamnine
+261.101
+10.000
+0
+271.101
+3236
+Zdravstvene i veterinarske usluge
+367.652
+20.000
+0
+387.652
+3237
+Intelektualne i osobne usluge
+285.176
+10.000
+0
+295.176
+3239
+Ostale usluge
+185.393
+50.000
+0
+235.393
+3292
+Premije osiguranja
+135.978
+20.000
+0
+155.978
+3299
+Ostali nespomenuti rashodi poslovanja
+151.112
+30.000
+0
+181.112
+3434
+Ostali nespomenuti financijski rashodi
+116.978
+30.000
+0
+146.978
+3721
+Naknade građanima i kućanstvima u novcu
+728.427
+70.000
+0
+798.427
+3722
+Naknade građanima i kućanstvima u naravi
+2.021.163
+50.000
+0
+2.071.163
+1274
+SKRB ZA DJECU I MLADEŽ S POREMEĆAJIMA U PONAŠANJU
+77.920.871
+1.850.000
+-1.878.203
+77.892.668
+A734190
+SKRB ZA DJECU I MLADEŽ S POREMEĆAJIMA U PONAŠANJU
+77.920.871
+1.850.000
+-1.878.203
+77.892.668
+3111
+Plaće za redovan rad
+36.800.000
+0
+-800.000
+36.000.000
+3114
+Plaće za posebne uvjete rada
+10.400.000
+0
+-700.000
+9.700.000
+3121
+Ostali rashodi za zaposlene
+2.550.000
+0
+-200.000
+2.350.000
+3132
+Doprinosi za zdravstveno osiguranje
+7.260.000
+0
+-100.000
+7.160.000
+3211
+Službena putovanja
+384.784
+88.000
+0
+472.784
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+2.318.203
+0
+-78.203
+2.240.000
+3213
+Stručno usavršavanje zaposlenika
+104.697
+50.000
+0
+154.697
+3221
+Uredski materijal i ostali materijalni rashodi
+1.063.976
+100.000
+0
+1.163.976
+3222
+Materijal i sirovine
+7.196.538
+620.000
+0
+7.816.538
+3223
+Energija
+3.663.250
+78.000
+0
+3.741.250
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+339.371
+50.000
+0
+389.371
+3231
+Usluge telefona, pošte i prijevoza
+677.315
+50.000
+0
+727.315
+3232
+Usluge tekućeg i investicijskog održavanja
+1.925.989
+414.000
+0
+2.339.989
+3234
+Komunalne usluge
+1.319.306
+200.000
+0
+1.519.306
+3239
+Ostale usluge
+112.264
+40.000
+0
+152.264
+3292
+Premije osiguranja
+103.697
+10.000
+0
+113.697
+3299
+Ostali nespomenuti rashodi poslovanja
+89.270
+20.000
+0
+109.270
+3431
+Bankarske usluge i usluge platnog prometa
+61.848
+10.000
+0
+71.848
+3433
+Zatezne kamate
+6.599
+10.000
+0
+16.599
+3721
+Naknade građanima i kućanstvima u novcu
+459.663
+80.000
+0
+539.663
+3722
+Naknade građanima i kućanstvima u naravi
+1.084.101
+30.000
+0
+1.114.101
+1275
+SKRB ZA PSIHIČKI BOLESNE ODRASLE OSOBE
+181.766.141
+2.328.981
+-4.668.981
+179.426.141
+A734193
+SKRB ZA PSIHIČKI BOLESNE ODRASLE OSOBE
+181.766.141
+2.328.981
+-4.668.981
+179.426.141
+3111
+Plaće za redovan rad
+67.500.000
+0
+-2.300.000
+65.200.000
+3114
+Plaće za posebne uvjete rada
+18.900.000
+0
+-1.500.000
+17.400.000
+3121
+Ostali rashodi za zaposlene
+6.600.000
+0
+-400.000
+6.200.000
+3132
+Doprinosi za zdravstveno osiguranje
+13.400.000
+0
+-400.000
+13.000.000
+3211
+Službena putovanja
+477.991
+0
+-12.000
+465.991
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+7.617.361
+100.000
+0
+7.717.361
+3221
+Uredski materijal i ostali materijalni rashodi
+5.596.041
+280.000
+0
+5.876.041
+3222
+Materijal i sirovine
+27.357.251
+195.000
+0
+27.552.251
+3223
+Energija
+14.842.195
+700.000
+0
+15.542.195
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+1.336.070
+275.493
+0
+1.611.563
+3225
+Sitni inventar i autogume
+1.417.410
+120.000
+0
+1.537.410
+3231
+Usluge telefona, pošte i prijevoza
+1.147.708
+0
+-20.000
+1.127.708
+3232
+Usluge tekućeg i investicijskog održavanja
+4.551.432
+286.500
+0
+4.837.932
+3233
+Usluge promidžbe i informiranja
+255.538
+20.000
+0
+275.538
+3234
+Komunalne usluge
+6.352.700
+99.498
+0
+6.452.198
+3236
+Zdravstvene i veterinarske usluge
+564.580
+0
+-24.000
+540.580
+3239
+Ostale usluge
+320.694
+0
+-2.981
+317.713
+3292
+Premije osiguranja
+199.685
+16.400
+0
+216.085
+3299
+Ostali nespomenuti rashodi poslovanja
+278.366
+0
+-10.000
+268.366
+3721
+Naknade građanima i kućanstvima u novcu
+2.667.556
+186.090
+0
+2.853.646
+3722
+Naknade građanima i kućanstvima u naravi
+383.563
+50.000
+0
+433.563
+1276
+SKRB ZA TJELESNO I MENTALNO OŠTEĆENU DJECU
+305.571.753
+3.637.226
+-7.133.544
+302.075.435
+A734194
+SKRB ZA TJELESNO I MENTALNO OŠTEĆENU DJECU
+304.207.753
+3.637.226
+-6.769.544
+301.075.435
+3111
+Plaće za redovan rad
+140.350.000
+0
+-2.759.818
+137.590.182
+3114
+Plaće za posebne uvjete rada
+38.100.000
+0
+-2.400.000
+35.700.000
+3121
+Ostali rashodi za zaposlene
+10.920.000
+0
+-520.000
+10.400.000
+3132
+Doprinosi za zdravstveno osiguranje
+27.562.500
+0
+-562.500
+27.000.000
+3211
+Službena putovanja
+1.814.688
+0
+-113.000
+1.701.688
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+9.543.190
+100.000
+0
+9.643.190
+3213
+Stručno usavršavanje zaposlenika
+606.300
+0
+-55.000
+551.300
+3221
+Uredski materijal i ostali materijalni rashodi
+5.714.141
+304.000
+0
+6.018.141
+3222
+Materijal i sirovine
+23.374.638
+1.392.378
+0
+24.767.016
+3223
+Energija
+16.026.642
+533.148
+0
+16.559.790
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+1.723.804
+97.000
+0
+1.820.804
+3225
+Sitni inventar i autogume
+1.426.770
+10.000
+0
+1.436.770
+3231
+Usluge telefona, pošte i prijevoza
+1.738.861
+50.000
+0
+1.788.861
+3232
+Usluge tekućeg i investicijskog održavanja
+6.097.995
+347.700
+0
+6.445.695
+3234
+Komunalne usluge
+4.287.161
+394.000
+0
+4.681.161
+3235
+Zakupnine i najamnine
+1.426.641
+0
+-144.000
+1.282.641
+3236
+Zdravstvene i veterinarske usluge
+660.985
+0
+-70.000
+590.985
+3237
+Intelektualne i osobne usluge
+1.235.106
+84.000
+0
+1.319.106
+3238
+Računalne usluge
+38.179
+0
+-10.000
+28.179
+3239
+Ostale usluge
+546.481
+0
+-70.000
+476.481
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+358.800
+0
+-8.150
+350.650
+3292
+Premije osiguranja
+285.707
+20.000
+0
+305.707
+3299
+Ostali nespomenuti rashodi poslovanja
+546.470
+0
+-29.000
+517.470
+3431
+Bankarske usluge i usluge platnog prometa
+166.010
+10.000
+0
+176.010
+3433
+Zatezne kamate
+45.989
+20.000
+0
+65.989
+3434
+Ostali nespomenuti financijski rashodi
+260.707
+20.000
+0
+280.707
+3721
+Naknade građanima i kućanstvima u novcu
+1.875.491
+0
+-28.076
+1.847.415
+3722
+Naknade građanima i kućanstvima u naravi
+7.474.497
+255.000
+0
+7.729.497
+K618409
+CENTAR ZA REHABILITACIJU MALA TEREZIJA VINKOVCI
+1.364.000
+0
+-364.000
+1.000.000
+4212
+Poslovni objekti
+1.364.000
+0
+-364.000
+1.000.000
+1289
+ADMINISTRACIJA, UPRAVLJANJE I OPREMANJE ZDRAVSTVENOG SUSTAVA
+46.842.178
+8.310.000
+-4.177.646
+50.974.532
+A618207
+ADMINISTRATIVNO UPRAVLJANJE U SUSTAVU ZDRAVSTVA I SOCIJALNE SKRBI
+26.895.564
+6.430.000
+0
+33.325.564
+3113
+Plaće za prekovremeni rad
+2.400.000
+250.000
+0
+2.650.000
+3114
+Plaće za posebne uvjete rada
+902.500
+100.000
+0
+1.002.500
+3133
+Doprinosi za zapošljavanje
+643.750
+50.000
+0
+693.750
+3211
+Službena putovanja
+1.755.708
+300.000
+0
+2.055.708
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+1.178.371
+350.000
+0
+1.528.371
+3213
+Stručno usavršavanje zaposlenika
+570.678
+50.000
+0
+620.678
+3223
+Energija
+1.254.157
+350.000
+0
+1.604.157
+3231
+Usluge telefona, pošte i prijevoza
+3.016.630
+350.000
+0
+3.366.630
+3234
+Komunalne usluge
+217.837
+30.000
+0
+247.837
+3235
+Zakupnine i najamnine
+7.541.575
+1.500.000
+0
+9.041.575
+3237
+Intelektualne i osobne usluge
+1.186.967
+1.000.000
+0
+2.186.967
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+5.949.158
+2.000.000
+0
+7.949.158
+3299
+Ostali nespomenuti rashodi poslovanja
+134.000
+50.000
+0
+184.000
+3433
+Zatezne kamate
+47.135
+20.000
+0
+67.135
+3721
+Naknade građanima i kućanstvima u novcu
+97.098
+30.000
+0
+127.098
+A618373
+SPORAZUM SA UNTAES-om - OBVEZE REPUBLIKE HRVATSKE
+735.304
+0
+-105.304
+630.000
+3811
+Tekuće donacije u novcu
+735.304
+0
+-105.304
+630.000
+A734203
+AGENCIJA ZA KVALITETU I AKREDITACIJU U ZDRAVSTVU
+3.000.000
+0
+-2.217.000
+783.000
+3111
+Plaće za redovan rad
+1.534.527
+0
+-1.300.000
+234.527
+3121
+Ostali rashodi za zaposlene
+200.000
+0
+-100.000
+100.000
+3132
+Doprinosi za zdravstveno osiguranje
+237.852
+0
+-100.000
+137.852
+3133
+Doprinosi za zapošljavanje
+27.621
+0
+-17.000
+10.621
+3811
+Tekuće donacije u novcu
+1.000.000
+0
+-700.000
+300.000
+A734209
+NAKNADA ŠTETE PO SUDSKIM PRESUDAMA
+1.431.236
+0
+-749.236
+682.000
+3111
+Plaće za redovan rad
+300.000
+0
+-199.000
+101.000
+3433
+Zatezne kamate
+353.511
+0
+-237.511
+116.000
+3831
+Naknade šteta pravnim i fizičkim osobama
+777.725
+0
+-312.725
+465.000
+A788001
+DUHOVNA POMOĆ U BOLNICAMA I USTANOVAMA SOCIJALNE SKRBI
+1.561.106
+0
+-87.106
+1.474.000
+3811
+Tekuće donacije u novcu
+1.561.106
+0
+-87.106
+1.474.000
+K618047
+INFORMATIZACIJA MINISTARSTVA ZDRAVSTVA I SOCIJALNE SKRBI
+12.653.350
+1.880.000
+-769.000
+13.764.350
+3213
+Stručno usavršavanje zaposlenika
+466.635
+0
+-220.000
+246.635
+3231
+Usluge telefona, pošte i prijevoza
+84.843
+0
+-66.000
+18.843
+3232
+Usluge tekućeg i investicijskog održavanja
+1.077.641
+0
+-345.000
+732.641
+3238
+Računalne usluge
+6.591.612
+0
+-124.000
+6.467.612
+4123
+Licence
+650.000
+1.880.000
+0
+2.530.000
+4221
+Uredska oprema i namještaj
+2.019.776
+0
+-10.000
+2.009.776
+4262
+Ulaganja u računalne programe
+1.762.843
+0
+-4.000
+1.758.843
+K618048
+OPREMANJE MINISTARSTVA
+565.618
+0
+-250.000
+315.618
+4221
+Uredska oprema i namještaj
+565.618
+0
+-250.000
+315.618
+1291
+BORBA PROTIV HIV-a/AIDS
+3.976.932
+238.400
+-148.568
+4.066.764
+A618168
+PREVENCIJA HIV-a (AIDS)
+3.976.932
+238.400
+-148.568
+4.066.764
+3211
+Službena putovanja
+32.135
+0
+-7.735
+24.400
+3213
+Stručno usavršavanje zaposlenika
+90.000
+0
+-5.970
+84.030
+3239
+Ostale usluge
+141.405
+0
+-37.405
+104.000
+3292
+Premije osiguranja
+65.388
+0
+-38.542
+26.846
+3712
+Naknade građanima i kućanstvima u naravi
+2.396.116
+0
+-58.916
+2.337.200
+3811
+Tekuće donacije u novcu
+1.251.888
+238.400
+0
+1.490.288
+1297
+OSIGURANJE MOBILNOSTI I PRISTUPAČNOSTI OSOBAMA S INVALIDITETOM
+942.697
+0
+-284.701
+657.996
+K618158
+OTKLANJANJE ARHITEKTONSKIH BARIJERA U ZDRAVSTVENIM USTANOVAMA
+942.697
+0
+-284.701
+657.996
+4212
+Poslovni objekti
+942.697
+0
+-284.701
+657.996
+1299
+PODIZANJE KVALITETE I DOSTUPNOSTI ZDRAVSTVENIH USLUGA
+347.762.274
+54.465.255
+-36.949.406
+365.278.123
+K108194
+KLINIČKI BOLNIČKI CENTAR ZAGREB
+25.500.000
+38.000.000
+-3.498.719
+60.001.281
+3632
+Kapitalne pomoći unutar opće države
+22.000.000
+38.000.000
+0
+60.000.000
+4212
+Poslovni objekti
+3.500.000
+0
+-3.498.719
+1.281
+K108209
+KLINIČKA BOLNICA SPLIT
+14.208.077
+317.100
+0
+14.525.177
+4224
+Medicinska i laboratorijska oprema
+14.208.077
+317.100
+0
+14.525.177
+K108217
+KLINIČKA BOLNICA DUBRAVA
+14.788.584
+0
+-4.101.000
+10.687.584
+4224
+Medicinska i laboratorijska oprema
+14.788.584
+0
+-4.101.000
+10.687.584
+K114830
+OPĆA BOLNICA VARAŽDIN
+850.000
+105.136
+0
+955.136
+3632
+Kapitalne pomoći unutar opće države
+850.000
+105.136
+0
+955.136
+K253145
+OPĆA BOLNICA ZABOK
+39.623.144
+5.442.800
+0
+45.065.944
+3632
+Kapitalne pomoći unutar opće države
+11.345.244
+3.000.000
+0
+14.345.244
+4224
+Medicinska i laboratorijska oprema
+28.277.900
+2.442.800
+0
+30.720.700
+K302041
+OBNOVA ZDRAVSTVENE INFRASTRUKTURE (VE II - CEB)
+25.144.119
+5.421.744
+0
+30.565.863
+4212
+Poslovni objekti
+10.126.619
+2.991.504
+0
+13.118.123
+4224
+Medicinska i laboratorijska oprema
+15.017.500
+2.430.240
+0
+17.447.740
+K302050
+OBNOVA ZDRAVSTVENE INFRASTRUKTURE (VE II - DP)
+37.676.080
+600.000
+0
+38.276.080
+4212
+Poslovni objekti
+15.000.000
+300.000
+0
+15.300.000
+4224
+Medicinska i laboratorijska oprema
+22.676.080
+300.000
+0
+22.976.080
+K406492
+OPĆA BOLNICA ČAKOVEC
+5.892.185
+0
+-289.593
+5.602.592
+3632
+Kapitalne pomoći unutar opće države
+5.892.185
+0
+-289.593
+5.602.592
+K618028
+KLINIČKA BOLNICA SESTRE MILOSRDNICE
+4.713.484
+0
+-4.713.484
+0
+4212
+Poslovni objekti
+4.713.484
+0
+-4.713.484
+0
+K618049
+KLINIČKA BOLNICA "MERKUR"
+5.656.181
+0
+-1.260.000
+4.396.181
+4224
+Medicinska i laboratorijska oprema
+5.656.181
+0
+-1.260.000
+4.396.181
+K618175
+PRIPREMA I PRAĆENJE INVESTICIJA
+1.016.165
+5.242
+-517.650
+503.757
+3237
+Intelektualne i osobne usluge
+37.000
+5.242
+0
+42.242
+4212
+Poslovni objekti
+790.626
+0
+-390.919
+399.707
+4224
+Medicinska i laboratorijska oprema
+188.539
+0
+-126.731
+61.808
+K618240
+SB VARAŽDINSKE TOPLICE
+516.500
+0
+-290
+516.210
+3632
+Kapitalne pomoći unutar opće države
+516.500
+0
+-290
+516.210
+K618242
+OBNOVA ZDRAVSTVENE INFRASTRUKTURE (VE III - CEB)
+74.859.254
+0
+-5.421.744
+69.437.510
+4212
+Poslovni objekti
+58.770.000
+0
+-2.991.504
+55.778.496
+4224
+Medicinska i laboratorijska oprema
+16.089.254
+0
+-2.430.240
+13.659.014
+K618244
+OBNOVA ZDRAVSTVENE INFRASTRUKTURE (VE III - DP)
+89.504.000
+4.573.233
+-10.119.915
+83.957.318
+4212
+Poslovni objekti
+66.230.000
+4.573.233
+0
+70.803.233
+4224
+Medicinska i laboratorijska oprema
+23.274.000
+0
+-10.119.915
+13.154.085
+K618250
+KLINIKA ZA ORTOPEDIJU LOVRAN
+54.157
+0
+-54.157
+0
+4212
+Poslovni objekti
+54.157
+0
+-54.157
+0
+K618570
+OPĆA BOLNICA PULA
+7.760.344
+0
+-6.972.854
+787.490
+4212
+Poslovni objekti
+7.760.344
+0
+-6.972.854
+787.490
+1300
+POTICANJE RADA NEPROFITNIH ORGANIZACIJA U ZDRAVSTVU
+160.258
+0
+-16.079
+144.179
+A618157
+OSTALE UDRUGE
+160.258
+0
+-16.079
+144.179
+3211
+Službena putovanja
+5.000
+0
+-2.900
+2.100
+3239
+Ostale usluge
+40.000
+0
+-1.698
+38.302
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+115.258
+0
+-11.481
+103.777
+1305
+PRIPREMANJE ZA SLUČAJEVE VELIKIH NESREĆA I INCIDENTNIH STANJA
+13.108.846
+384.334
+-383.777
+13.109.403
+A618217
+INTEGRIRANO PLANIRANJE ZA INCIDENTNA/KRIZNA STANJA
+122.551
+44.000
+-94.000
+72.551
+3237
+Intelektualne i osobne usluge
+94.270
+0
+-94.000
+270
+3239
+Ostale usluge
+28.281
+44.000
+0
+72.281
+K618218
+HITNE INTERVENCIJE NA ZGRADAMA I OPREMI ZDRAVSTVENIH USTANOVA
+12.986.295
+340.334
+-289.777
+13.036.852
+4212
+Poslovni objekti
+188.539
+340.334
+0
+528.873
+4224
+Medicinska i laboratorijska oprema
+12.797.756
+0
+-289.777
+12.507.979
+1306
+PROGRAM DJELOVANJA ZA DJECU
+238.419
+0
+-173.854
+64.565
+A618091
+HUMANIZACIJA BOLNIČKOG LIJEČENJA DJECE
+62.135
+0
+-25.000
+37.135
+3233
+Usluge promidžbe i informiranja
+62.135
+0
+-25.000
+37.135
+A618097
+IZDAVANJE ZDRAVSTVENE KNJIŽICE ZA DJECU
+18.854
+0
+-17.427
+1.427
+3213
+Stručno usavršavanje zaposlenika
+9.427
+0
+-8.000
+1.427
+3237
+Intelektualne i osobne usluge
+9.427
+0
+-9.427
+0
+A618133
+OČUVANJE ORALNOG ZDRAVLJA
+56.562
+0
+-52.427
+4.135
+3213
+Stručno usavršavanje zaposlenika
+47.135
+0
+-43.000
+4.135
+3299
+Ostali nespomenuti rashodi poslovanja
+9.427
+0
+-9.427
+0
+A734215
+NACIONALNI PROGRAM ZA SUZBIJANJE DISKRIMINACIJE
+86.728
+0
+-70.000
+16.728
+3213
+Stručno usavršavanje zaposlenika
+47.135
+0
+-40.000
+7.135
+3233
+Usluge promidžbe i informiranja
+39.593
+0
+-30.000
+9.593
+A734219
+PROGRAM ZDRAVE PREHRANE ZA JASLICE, VRTIĆE, OSNOVNE I SREDNJE ŠKOLE, TE USTANOVE KOJE SKRBE ZA DJECU
+14.140
+0
+-9.000
+5.140
+3237
+Intelektualne i osobne usluge
+9.427
+0
+-6.000
+3.427
+3299
+Ostali nespomenuti rashodi poslovanja
+4.713
+0
+-3.000
+1.713
+1307
+PROGRAM DJELOVANJA ZA MLADE
+18.854
+0
+-5.000
+13.854
+A618130
+OČUVANJE I UNAPREĐENJE REPRODUKCIJSKOG ZDRAVLJA MLADIH
+18.854
+0
+-5.000
+13.854
+3213
+Stručno usavršavanje zaposlenika
+18.854
+0
+-5.000
+13.854
+1309
+PROGRAM JEDINSTVENE POLITIKE ZA OSOBE SA INVALIDITETOM
+163.826
+13.381
+-23.620
+153.587
+A618085
+EDUKACIJA NA RAZINI PRIMARNE ZDRAVSTVENE ZAŠTITE
+78.983
+0
+-10.239
+68.744
+3211
+Službena putovanja
+4.713
+0
+-4.613
+100
+3213
+Stručno usavršavanje zaposlenika
+74.270
+0
+-5.626
+68.644
+K618567
+PRAĆENJE ZDRAVLJA DJECE IZLOŽENE RIZICIMA
+84.843
+13.381
+-13.381
+84.843
+3239
+Ostale usluge
+28.281
+0
+-13.381
+14.900
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+56.562
+13.381
+0
+69.943
+1310
+PROGRAM LIJEČENJA PO POSEBNIM PROPISIMA
+17.186.295
+0
+-100.000
+17.086.295
+A618211
+LIJEČENJA PO POSEBNIM PROPISIMA - PSIHIJATRIJSKE BOLNICE
+17.186.295
+0
+-100.000
+17.086.295
+3722
+Naknade građanima i kućanstvima u naravi
+17.186.295
+0
+-100.000
+17.086.295
+1311
+PROGRAM OČUVANJA I UNAPREĐENJA ZDRAVLJA ŽENA
+1.362.197
+800.000
+-10.000
+2.152.197
+A618131
+OČUVANJE I UNAPREĐENJE REPRODUKCIJSKOG ZDRAVLJA ŽENA
+18.854
+0
+-10.000
+8.854
+3239
+Ostale usluge
+18.854
+0
+-10.000
+8.854
+A618172
+PREVENCIJA I RANO OTKRIVANJE RAKA DOJKE
+1.343.343
+800.000
+0
+2.143.343
+3233
+Usluge promidžbe i informiranja
+1.343.343
+800.000
+0
+2.143.343
+1312
+PROGRAM OVISNOSTI
+254.528
+0
+-124.556
+129.972
+A618003
+PROVEDBA ZAKONA O OGRANIČAVANJU UPORABE DUHANSKIH PROIZVODA
+230.961
+0
+-114.556
+116.405
+3233
+Usluge promidžbe i informiranja
+141.405
+0
+-25.000
+116.405
+3237
+Intelektualne i osobne usluge
+18.854
+0
+-18.854
+0
+3239
+Ostale usluge
+47.135
+0
+-47.135
+0
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+23.567
+0
+-23.567
+0
+A618258
+PRIMARNA I SEKUNDARNA PREVENCIJA ALKOHOLIZMA
+23.567
+0
+-10.000
+13.567
+3213
+Stručno usavršavanje zaposlenika
+23.567
+0
+-10.000
+13.567
+1313
+PROGRAM PARTNERSTVO ZA MIR I PRISTUPANJE U NATO
+50.000
+0
+-50.000
+0
+A618159
+PARTNERSTVO ZA MIR I PRISTUPANJE U NATO
+50.000
+0
+-50.000
+0
+3237
+Intelektualne i osobne usluge
+30.000
+0
+-30.000
+0
+3239
+Ostale usluge
+20.000
+0
+-20.000
+0
+1314
+PROGRAM PREVENCIJE OVISNOSTI
+871.993
+225.607
+-142.630
+954.970
+A618103
+IZOBRAZBA I OSPOSOBLJAVANJE ZDRAVSTVENIH DJELATNIKA I SURADNIKA NA PREVENCIJI OVISNOSTI, LIJEČENJU I REHABILITACIJI OVISNIKA
+18.854
+0
+-18.854
+0
+3221
+Uredski materijal i ostali materijalni rashodi
+18.854
+0
+-18.854
+0
+A618184
+PREVENCIJA, RANO OTKRIVANJE, LIJEČENJE I REHABILITACIJE OVISNIKA
+263.956
+98.595
+-81.929
+280.622
+3211
+Službena putovanja
+18.854
+0
+-12.492
+6.362
+3233
+Usluge promidžbe i informiranja
+18.854
+0
+-18.854
+0
+3236
+Zdravstvene i veterinarske usluge
+141.405
+98.595
+0
+240.000
+3237
+Intelektualne i osobne usluge
+37.708
+0
+-7.108
+30.600
+3239
+Ostale usluge
+47.135
+0
+-43.475
+3.660
+A618186
+SMANJENJE ŠTETA - PREVENCIJA ZARAZNIH BOLESTI - ŠPRICE, IGLE I SL.
+28.280
+10.000
+-23.567
+14.713
+3239
+Ostale usluge
+23.567
+0
+-23.567
+0
+3299
+Ostali nespomenuti rashodi poslovanja
+4.713
+10.000
+0
+14.713
+A618192
+SURADNJA S UDRUGAMA GRAĐANA
+471.348
+100.000
+0
+571.348
+3811
+Tekuće donacije u novcu
+471.348
+100.000
+0
+571.348
+A618260
+PRAĆENJE STANJA TUBERKULOZE - EDUKACIJA
+89.555
+17.012
+-18.280
+88.287
+3211
+Službena putovanja
+4.713
+0
+-4.713
+0
+3213
+Stručno usavršavanje zaposlenika
+47.135
+12.852
+0
+59.987
+3237
+Intelektualne i osobne usluge
+14.140
+4.160
+0
+18.300
+3239
+Ostale usluge
+18.854
+0
+-8.854
+10.000
+3299
+Ostali nespomenuti rashodi poslovanja
+4.713
+0
+-4.713
+0
+1315
+PROGRAM REFORME SUSTAVA ZDRAVSTVA
+14.825.618
+329.711
+-8.731.522
+6.423.807
+A618125
+NACIONALNA POLITIKA LIJEKOVA
+191.405
+0
+-131.405
+60.000
+3233
+Usluge promidžbe i informiranja
+94.270
+0
+-54.270
+40.000
+3237
+Intelektualne i osobne usluge
+97.135
+0
+-77.135
+20.000
+A618160
+POBOLJŠANJA PRUŽANJA HITNE MEDICINSKE POMOĆI
+18.854
+0
+-5.000
+13.854
+3299
+Ostali nespomenuti rashodi poslovanja
+18.854
+0
+-5.000
+13.854
+A618185
+REORGANIZACIJA BOLNIČKOG SUSTAVA
+22.135
+0
+-10.135
+12.000
+3213
+Stručno usavršavanje zaposlenika
+22.135
+0
+-10.135
+12.000
+A618196
+UNAPREĐENJA KVALITETE U SUSTAVU ZDRAVSTVA
+207.394
+0
+-118.540
+88.854
+3211
+Službena putovanja
+2.135
+0
+-2.135
+0
+3213
+Stručno usavršavanje zaposlenika
+4.270
+0
+-4.270
+0
+3237
+Intelektualne i osobne usluge
+92.135
+0
+-92.135
+0
+3239
+Ostale usluge
+108.854
+0
+-20.000
+88.854
+A618215
+PREVENCIJA MALIGNIH BOLESTI
+10.075.304
+0
+-6.300.032
+3.775.272
+3213
+Stručno usavršavanje zaposlenika
+150.000
+0
+-80.000
+70.000
+3231
+Usluge telefona, pošte i prijevoza
+2.532.303
+0
+-1.201.303
+1.331.000
+3233
+Usluge promidžbe i informiranja
+2.356.000
+0
+-1.751.000
+605.000
+3236
+Zdravstvene i veterinarske usluge
+4.530.055
+0
+-3.237.729
+1.292.326
+3239
+Ostale usluge
+506.946
+0
+-30.000
+476.946
+A618378
+NAŠA LJUBAZNOST POČETAK JE SVAKOG LIJEČENJA
+89.556
+15.000
+-27.421
+77.135
+3237
+Intelektualne i osobne usluge
+42.421
+0
+-27.421
+15.000
+3239
+Ostale usluge
+47.135
+15.000
+0
+62.135
+A618557
+EDUKACIJA MRTVOZORNIKA
+80.129
+610
+-562
+80.177
+3211
+Službena putovanja
+9.427
+100
+0
+9.527
+3213
+Stručno usavršavanje zaposlenika
+28.281
+0
+-281
+28.000
+3237
+Intelektualne i osobne usluge
+28.281
+0
+-281
+28.000
+3239
+Ostale usluge
+14.140
+510
+0
+14.650
+A734211
+POBOLJŠANJE KVALITETE ZDRAVSTVENE NJEGE
+645.746
+314.101
+-277.427
+682.420
+3211
+Službena putovanja
+235.674
+0
+-150.000
+85.674
+3221
+Uredski materijal i ostali materijalni rashodi
+4.713
+10.000
+0
+14.713
+3233
+Usluge promidžbe i informiranja
+188.539
+0
+-118.000
+70.539
+3237
+Intelektualne i osobne usluge
+9.427
+0
+-9.427
+0
+3239
+Ostale usluge
+18.854
+137.101
+0
+155.955
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+188.539
+167.000
+0
+355.539
+K618554
+HRVATSKI TRAUMA CENTRA ZA CIJELOKUPNO STANOVNIŠTVO REPUBLIKE HRVATSKE
+1.504.119
+0
+-750.000
+754.119
+3237
+Intelektualne i osobne usluge
+103.697
+0
+-50.000
+53.697
+3238
+Računalne usluge
+405.360
+0
+-100.000
+305.360
+4221
+Uredska oprema i namještaj
+439.517
+0
+-300.000
+139.517
+4222
+Komunikacijska oprema
+555.545
+0
+-300.000
+255.545
+K618559
+HITNA MEDICINSKA POMOĆ
+1.990.976
+0
+-1.111.000
+879.976
+4262
+Ulaganja u računalne programe
+1.990.976
+0
+-1.111.000
+879.976
+1317
+PROJEKT ZDRAVSTVENOG SUSTAVA (IBRD)
+1.036.967
+0
+-682.809
+354.158
+K797000
+IBRD III ZAJAM - UČEŠĆE RH
+1.036.967
+0
+-682.809
+354.158
+3213
+Stručno usavršavanje zaposlenika
+282.809
+0
+-282.809
+0
+3237
+Intelektualne i osobne usluge
+754.158
+0
+-400.000
+354.158
+1321
+UNAPREĐENJE TRANSPLANTACIJSKOG PROGRAMA
+612.753
+200.000
+-47.135
+765.618
+K618197
+UNAPREĐENJE TRANSPLANTACIJSKOG PROGRAMA
+612.753
+200.000
+-47.135
+765.618
+4221
+Uredska oprema i namještaj
+47.135
+0
+-47.135
+0
+4224
+Medicinska i laboratorijska oprema
+565.618
+200.000
+0
+765.618
+1324
+SANITARNA INSPEKCIJA
+4.790.754
+700.000
+-3.139.248
+2.351.506
+A618221
+DRŽAVNI MONITORING ISPITIVANJA ZDRAVSTVENE ISPRAVNOSTI HRANE I VODE ZA PIĆE
+1.000.000
+0
+-200.000
+800.000
+3236
+Zdravstvene i veterinarske usluge
+1.000.000
+0
+-200.000
+800.000
+A618225
+PRIPREMA TURISTIČKE SEZONE
+386.506
+0
+-135.000
+251.506
+3211
+Službena putovanja
+386.506
+0
+-135.000
+251.506
+A618248
+PROVEDBA PROGRAMA EPIDEMIJSKIH MJERA
+500.000
+700.000
+0
+1.200.000
+3236
+Zdravstvene i veterinarske usluge
+500.000
+700.000
+0
+1.200.000
+A618274
+PROVEDBA MJERA ZDRAVSTVENE EKOLOGIJE
+188.539
+0
+-188.539
+0
+3236
+Zdravstvene i veterinarske usluge
+188.539
+0
+-188.539
+0
+A734201
+HRVATSKI ZAVOD ZA TOKSIKOLOGIJU
+200.000
+0
+-100.000
+100.000
+3237
+Intelektualne i osobne usluge
+200.000
+0
+-100.000
+100.000
+A734217
+KOORDINACIJA NA PODRUČJU GENETSKI MODIFICIRANIH ORGANIZAMA
+141.405
+0
+-141.405
+0
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+141.405
+0
+-141.405
+0
+K618377
+INFORMATIZACIJA SANITARNE INSPEKCIJE
+518.483
+0
+-518.483
+0
+3238
+Računalne usluge
+282.809
+0
+-282.809
+0
+4262
+Ulaganja u računalne programe
+235.674
+0
+-235.674
+0
+K734208
+NADZOR NAD ZDRAVSTVENOM ISPRAVNOŠĆU PREDMETA OPĆE UPORABE
+659.888
+0
+-659.888
+0
+4225
+Instrumenti, uređaji i strojevi
+659.888
+0
+-659.888
+0
+K734212
+PROVEDBA NACIONALNOG PROGRAMA KEMIJSKE SIGURNOSTI
+395.933
+0
+-395.933
+0
+4262
+Ulaganja u računalne programe
+395.933
+0
+-395.933
+0
+K734227
+JAČANJE KAPACITETA NA PODRUČJU ZAŠTITE OD IONIZIRAJUĆEG I NEIONIZIRAJUĆEG ZRAČENJA
+800.000
+0
+-800.000
+0
+3236
+Zdravstvene i veterinarske usluge
+225.000
+0
+-225.000
+0
+3237
+Intelektualne i osobne usluge
+225.000
+0
+-225.000
+0
+3238
+Računalne usluge
+200.000
+0
+-200.000
+0
+4225
+Instrumenti, uređaji i strojevi
+150.000
+0
+-150.000
+0
+1403
+KRIZNE OPERACIJE MINISTARSTVA ZDRAVSTVA I SOCIJALNE SKRBI
+839.079
+180.000
+-180.000
+839.079
+K618201
+OPREMANJE KRIZNOG OPERATIVNOG CENTRA I KRIZNOG STOŽERA
+324.809
+100.000
+-50.000
+374.809
+4223
+Oprema za održavanje i zaštitu
+188.539
+0
+-50.000
+138.539
+4224
+Medicinska i laboratorijska oprema
+136.270
+100.000
+0
+236.270
+K618376
+LOGISTIKA ZA INCIDENTNA - KRIZNA STANJA
+94.270
+50.000
+-30.000
+114.270
+3225
+Sitni inventar i autogume
+47.135
+0
+-30.000
+17.135
+3232
+Usluge tekućeg i investicijskog održavanja
+47.135
+50.000
+0
+97.135
+K793003
+RAZVOJ SPOSOBNOSTI PRUŽANJA INTERVENTNIH ZDRAVSTVENIH USLUGA
+420.000
+30.000
+-100.000
+350.000
+3237
+Intelektualne i osobne usluge
+190.000
+0
+-100.000
+90.000
+4231
+Prijevozna sredstva u cestovnom prometu
+230.000
+30.000
+0
+260.000
+1414
+PROGRAM POVEĆANJA BROJA DONATORA I UNAPREĐENJE TRANSPLANTACIJSKOG PROGRAMA
+208.225
+47.135
+0
+255.360
+A618163
+POVEĆANJE BROJA DONATORA I UNAPREĐENJE TRANSPLANTACIJSKOG PROGRAMA
+208.225
+47.135
+0
+255.360
+3211
+Službena putovanja
+66.820
+17.135
+0
+83.955
+3213
+Stručno usavršavanje zaposlenika
+141.405
+30.000
+0
+171.405
+1416
+POBOLJŠANJE ZDRAVSTVENE ZAŠTITE NA OTOCIMA
+15.527.979
+415.112
+-8.188.947
+7.754.144
+A618254
+OTOČNA MEDICINA
+81.978
+0
+-50.000
+31.978
+3213
+Stručno usavršavanje zaposlenika
+81.978
+0
+-50.000
+31.978
+A734202
+ZAVOD ZA TELEMEDICINU
+3.815.955
+260.198
+-1.630.990
+2.445.163
+3111
+Plaće za redovan rad
+1.160.000
+0
+-82.300
+1.077.700
+3113
+Plaće za prekovremeni rad
+10.000
+10.000
+0
+20.000
+3121
+Ostali rashodi za zaposlene
+24.000
+0
+-750
+23.250
+3132
+Doprinosi za zdravstveno osiguranje
+181.350
+0
+-11.206
+170.144
+3133
+Doprinosi za zapošljavanje
+19.890
+0
+-1.229
+18.661
+3211
+Službena putovanja
+326.000
+0
+-26.000
+300.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+33.500
+0
+-2.300
+31.200
+3213
+Stručno usavršavanje zaposlenika
+15.000
+45.000
+0
+60.000
+3221
+Uredski materijal i ostali materijalni rashodi
+50.708
+33.792
+0
+84.500
+3223
+Energija
+75.416
+0
+-65.416
+10.000
+3225
+Sitni inventar i autogume
+4.200
+0
+-4.200
+0
+3231
+Usluge telefona, pošte i prijevoza
+150.000
+10.000
+0
+160.000
+3232
+Usluge tekućeg i investicijskog održavanja
+32.994
+62.006
+0
+95.000
+3233
+Usluge promidžbe i informiranja
+18.600
+55.400
+0
+74.000
+3234
+Komunalne usluge
+55.000
+25.500
+0
+80.500
+3235
+Zakupnine i najamnine
+1.430.000
+0
+-1.342.000
+88.000
+3236
+Zdravstvene i veterinarske usluge
+4.500
+0
+-500
+4.000
+3239
+Ostale usluge
+10.000
+17.500
+0
+27.500
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+107.100
+0
+-11.000
+96.100
+3292
+Premije osiguranja
+9.427
+0
+-4.819
+4.608
+3299
+Ostali nespomenuti rashodi poslovanja
+94.270
+0
+-79.270
+15.000
+3431
+Bankarske usluge i usluge platnog prometa
+4.000
+1.000
+0
+5.000
+K231786
+POBOLJŠANJE ZDRAVSTVENE ZAŠTITE NA OTOCIMA
+7.426.969
+0
+-4.923.835
+2.503.134
+4212
+Poslovni objekti
+7.426.969
+0
+-4.923.835
+2.503.134
+K790001
+OPREMANJE SUSTAVA TELEMEDICINE
+4.203.077
+154.914
+-1.584.122
+2.773.869
+4221
+Uredska oprema i namještaj
+2.844.122
+0
+-1.444.122
+1.400.000
+4222
+Komunikacijska oprema
+188.539
+55.330
+0
+243.869
+4223
+Oprema za održavanje i zaštitu
+10.000
+0
+-10.000
+0
+4224
+Medicinska i laboratorijska oprema
+1.120.000
+0
+-130.000
+990.000
+4262
+Ulaganja u računalne programe
+40.416
+99.584
+0
+140.000
+1433
+PROGRAMI HRVATSKOG ZAVODA ZA JAVNO ZDRAVSTVO
+110.000
+0
+-35.000
+75.000
+A734204
+AKCIJSKI PLAN ZA PREVENCIJU I SMANJENJE PREKOMJERNE TJELESNE TEŽINE
+110.000
+0
+-35.000
+75.000
+3211
+Službena putovanja
+30.000
+0
+-15.000
+15.000
+3213
+Stručno usavršavanje zaposlenika
+80.000
+0
+-20.000
+60.000
+1481
+ZAŠTITA OKOLIŠA
+216.820
+0
+-216.820
+0
+A618216
+PRAĆENJE RADIOLOŠKE KONTAMINACIJE U OKOLIŠU, ZRAKU, VODI I TLU
+216.820
+0
+-216.820
+0
+3236
+Zdravstvene i veterinarske usluge
+108.410
+0
+-108.410
+0
+3237
+Intelektualne i osobne usluge
+108.410
+0
+-108.410
+0
+1517
+NACIONALNI PROGRAM ZA ROME
+193.253
+0
+-65.000
+128.253
+A618220
+NACIONALNI PROGRAM ZA ROME
+117.837
+0
+-35.000
+82.837
+3211
+Službena putovanja
+18.854
+0
+-5.000
+13.854
+3237
+Intelektualne i osobne usluge
+80.129
+0
+-20.000
+60.129
+3239
+Ostale usluge
+18.854
+0
+-10.000
+8.854
+A618558
+AKCIJSKI PLAN DESETLJEĆA ZA UKLJUČIVANJE ROMA
+75.416
+0
+-30.000
+45.416
+3211
+Službena putovanja
+18.854
+0
+-10.000
+8.854
+3237
+Intelektualne i osobne usluge
+37.708
+0
+-15.000
+22.708
+3239
+Ostale usluge
+18.854
+0
+-5.000
+13.854
+1537
+ZANAVLJANJE STARE OPREME
+47.500.000
+0
+-1.173.602
+46.326.398
+K618229
+ZANAVLJANJE STARE OPREME
+47.500.000
+0
+-1.173.602
+46.326.398
+4224
+Medicinska i laboratorijska oprema
+47.500.000
+0
+-1.173.602
+46.326.398
+1615
+PODIZANJE KVALITETE I DOSTUPNOSTI SOCIJALNE SKRBI
+101.764.730
+7.911.850
+-11.408.420
+98.268.160
+K618352
+ZAJAM SVJETSKE BANKE - DOMAĆA KOMPONENTA
+25.461.732
+3.848.119
+-7.536.333
+21.773.518
+3237
+Intelektualne i osobne usluge
+8.718.070
+0
+-4.472.041
+4.246.029
+4212
+Poslovni objekti
+3.956.666
+1.361.244
+0
+5.317.910
+4221
+Uredska oprema i namještaj
+5.868.468
+0
+-3.064.292
+2.804.176
+4511
+Dodatna ulaganja na građevinskim objektima
+6.918.528
+2.486.875
+0
+9.405.403
+K618354
+ZAJAM SVJETSKE BANKE - INOZEMNA KOMPONENTA
+65.942.998
+3.802.831
+-3.802.831
+65.942.998
+3213
+Stručno usavršavanje zaposlenika
+1.250.000
+68.376
+0
+1.318.376
+3237
+Intelektualne i osobne usluge
+2.538.433
+673.821
+0
+3.212.254
+3292
+Premije osiguranja
+18.749
+7.679
+0
+26.428
+3631
+Tekuće pomoći unutar opće države
+950.645
+699.000
+0
+1.649.645
+4221
+Uredska oprema i namještaj
+26.712.857
+0
+-3.802.831
+22.910.026
+4231
+Prijevozna sredstva u cestovnom prometu
+674.333
+231.426
+0
+905.759
+4511
+Dodatna ulaganja na građevinskim objektima
+33.797.981
+2.122.529
+0
+35.920.510
+K618388
+NABAVA OPREME MANJE VRIJEDNOSTI U SUSTAVU SOCIJALNE SKRBI
+4.400.000
+244.000
+-7.256
+4.636.744
+4221
+Uredska oprema i namještaj
+1.100.000
+175.000
+0
+1.275.000
+4222
+Komunikacijska oprema
+100.000
+0
+-7.256
+92.744
+4227
+Uređaji, strojevi i oprema za ostale namjene
+3.200.000
+69.000
+0
+3.269.000
+K618391
+HITNE INTERVENCIJE U SUSTAVU SOCIJALNE SKRBI
+5.960.000
+16.900
+-62.000
+5.914.900
+4252
+Osnovno stado
+20.000
+0
+-20.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+4.000.000
+0
+-42.000
+3.958.000
+4521
+Dodatna ulaganja na postrojenjima i opremi
+1.940.000
+16.900
+0
+1.956.900
+1617
+HRVATSKI ZAVOD ZA MENTALNO ZDRAVLJE
+1.797.761
+0
+-1.797.761
+0
+A618344
+HRVATSKI ZAVOD ZA MENTALNO ZDRAVLJE
+1.797.761
+0
+-1.797.761
+0
+3712
+Naknade građanima i kućanstvima u naravi
+1.797.761
+0
+-1.797.761
+0
+1639
+PROGRAM PALIJATIVNE SKRBI
+42.421
+0
+-22.000
+20.421
+A618359
+IZRADA PROGRAMA PALIJATIVNE SKRBI
+42.421
+0
+-22.000
+20.421
+3237
+Intelektualne i osobne usluge
+28.281
+0
+-10.000
+18.281
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+14.140
+0
+-12.000
+2.140
+1669
+PRAĆENJE ANTIMIKROBNE REZISTENCIJE U HUMANOJ MEDICINI
+443.068
+23.730
+-110.036
+356.762
+A809002
+PRAĆENJE ANTIMIKROBNE REZIDENCIJE U HUMANOJ MEDICINI
+443.068
+23.730
+-110.036
+356.762
+3211
+Službena putovanja
+28.281
+0
+-17.281
+11.000
+3213
+Stručno usavršavanje zaposlenika
+235.674
+0
+-29.912
+205.762
+3239
+Ostale usluge
+94.270
+23.730
+0
+118.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+47.135
+0
+-25.135
+22.000
+3299
+Ostali nespomenuti rashodi poslovanja
+37.708
+0
+-37.708
+0
+1814
+SKRB O STARIJIM I NEMOĆNIM OSOBAMA
+2.900.468
+0
+-550.943
+2.349.525
+A798001
+SKRB O STARIJIM I NEMOĆNIM OSOBAMA
+2.900.468
+0
+-550.943
+2.349.525
+3111
+Plaće za redovan rad
+1.050.000
+0
+-150.000
+900.000
+3121
+Ostali rashodi za zaposlene
+240.000
+0
+-100.000
+140.000
+3211
+Službena putovanja
+41.211
+0
+-10.000
+31.211
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+126.756
+0
+-50.000
+76.756
+3222
+Materijal i sirovine
+448.862
+0
+-50.000
+398.862
+3223
+Energija
+551.405
+0
+-100.000
+451.405
+3234
+Komunalne usluge
+184.843
+0
+-20.000
+164.843
+3235
+Zakupnine i najamnine
+1.943
+0
+-943
+1.000
+3237
+Intelektualne i osobne usluge
+31.211
+0
+-10.000
+21.211
+3721
+Naknade građanima i kućanstvima u novcu
+88.886
+0
+-30.000
+58.886
+3722
+Naknade građanima i kućanstvima u naravi
+135.351
+0
+-30.000
+105.351
+10025
+Hrvatski zavod za zdravstveno osiguranje zaštite zdravlja na radu
+376.343.000
+77.172.501
+-77.172.501
+376.343.000
+1776
+ZAŠTITA ZDRAVLJA NA RADU
+34.594.550
+1.729.872
+-15.038.301
+21.286.121
+A812000
+ADMINISTRACIJA I UPRAVLJANJE
+27.323.550
+0
+-12.762.250
+14.561.300
+3111
+Plaće za redovan rad
+7.893.550
+0
+-2.200.000
+5.693.550
+3113
+Plaće za prekovremeni rad
+380.000
+0
+-100.000
+280.000
+3121
+Ostali rashodi za zaposlene
+520.000
+0
+-220.000
+300.000
+3132
+Doprinosi za zdravstveno osiguranje
+1.420.250
+0
+-420.250
+1.000.000
+3133
+Doprinosi za zapošljavanje
+209.000
+0
+-59.000
+150.000
+3211
+Službena putovanja
+665.000
+0
+-555.000
+110.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+400.000
+0
+-100.000
+300.000
+3213
+Stručno usavršavanje zaposlenika
+200.000
+0
+-100.000
+100.000
+3221
+Uredski materijal i ostali materijalni rashodi
+2.850.000
+0
+-1.850.000
+1.000.000
+3223
+Energija
+684.000
+0
+-584.000
+100.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+175.000
+0
+-100.000
+75.000
+3225
+Sitni inventar i autogume
+218.500
+0
+-138.500
+80.000
+3231
+Usluge telefona, pošte i prijevoza
+2.850.000
+0
+-1.650.000
+1.200.000
+3233
+Usluge promidžbe i informiranja
+1.567.500
+0
+-459.000
+1.108.500
+3234
+Komunalne usluge
+494.000
+0
+-394.000
+100.000
+3235
+Zakupnine i najamnine
+1.270.000
+0
+-270.000
+1.000.000
+3237
+Intelektualne i osobne usluge
+2.436.750
+0
+-1.000.000
+1.436.750
+3239
+Ostale usluge
+200.000
+0
+-70.000
+130.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+475.000
+0
+-275.000
+200.000
+3292
+Premije osiguranja
+80.000
+0
+-50.000
+30.000
+3294
+Članarine
+30.000
+0
+-25.000
+5.000
+3299
+Ostali nespomenuti rashodi poslovanja
+142.500
+0
+-100.000
+42.500
+3431
+Bankarske usluge i usluge platnog prometa
+1.900.000
+0
+-1.850.000
+50.000
+3433
+Zatezne kamate
+120.000
+0
+-90.000
+30.000
+3434
+Ostali nespomenuti financijski rashodi
+142.500
+0
+-102.500
+40.000
+K812018
+NABAVA NEFINANCIJSKE IMOVINE
+7.271.000
+1.729.872
+-2.276.051
+6.724.821
+4123
+Licence
+547.000
+556.051
+0
+1.103.051
+4124
+Ostala prava
+550.000
+0
+-550.000
+0
+4212
+Poslovni objekti
+1.200.000
+0
+-900.000
+300.000
+4222
+Komunikacijska oprema
+3.724.000
+1.173.821
+0
+4.897.821
+4223
+Oprema za održavanje i zaštitu
+400.000
+0
+-300.000
+100.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+200.000
+0
+-170.000
+30.000
+4231
+Prijevozna sredstva u cestovnom prometu
+250.000
+0
+-6.051
+243.949
+4511
+Dodatna ulaganja na građevinskim objektima
+400.000
+0
+-350.000
+50.000
+1787
+NAKNADA ŠTETE
+14.250.000
+0
+-9.000.000
+5.250.000
+A812001
+NAKNADA ŠTETE
+14.250.000
+0
+-9.000.000
+5.250.000
+3831
+Naknade šteta pravnim i fizičkim osobama
+14.250.000
+0
+-9.000.000
+5.250.000
+1794
+NAKNADE BOLOVANJA I DRUGE ISPLATE OSIGURANINA
+123.998.450
+74.242.629
+-250.000
+197.991.079
+A812010
+NAKNADE BOLOVANJA
+121.908.450
+74.242.629
+0
+196.151.079
+3711
+Naknade građanima i kućanstvima u novcu
+121.908.450
+74.242.629
+0
+196.151.079
+A812011
+OSTALE ISPLATE OSIGURANICIMA
+2.090.000
+0
+-250.000
+1.840.000
+3711
+Naknade građanima i kućanstvima u novcu
+2.090.000
+0
+-250.000
+1.840.000
+1795
+ZDRAVSTVENA ZAŠTITA NA RADU
+203.500.000
+1.200.000
+-52.884.200
+151.815.800
+A812012
+PRIMARNA ZDRAVSTVENA ZAŠTITA
+9.975.000
+0
+-1.975.000
+8.000.000
+3712
+Naknade građanima i kućanstvima u naravi
+9.975.000
+0
+-1.975.000
+8.000.000
+A812013
+ORTOPEDSKI UREĐAJI I POMAGALA
+3.325.000
+0
+-2.525.000
+800.000
+3712
+Naknade građanima i kućanstvima u naravi
+3.325.000
+0
+-2.525.000
+800.000
+A812014
+BOLNIČKA ZDRAVSTVENA ZAŠTITA
+41.800.000
+1.200.000
+0
+43.000.000
+3712
+Naknade građanima i kućanstvima u naravi
+41.800.000
+1.200.000
+0
+43.000.000
+A812015
+SPECIJALISTIČKO KONZILIJARNA ZDRAVSTVENA ZAŠTITA
+18.525.000
+0
+-11.525.000
+7.000.000
+3712
+Naknade građanima i kućanstvima u naravi
+18.525.000
+0
+-11.525.000
+7.000.000
+A812016
+LIJEKOVI NA RECEPTE
+2.375.000
+0
+-975.000
+1.400.000
+3712
+Naknade građanima i kućanstvima u naravi
+2.375.000
+0
+-975.000
+1.400.000
+A812017
+SPECIFIČNA ZDRAVSTVENA ZAŠTITA RADNIKA
+123.500.000
+0
+-33.500.000
+90.000.000
+3712
+Naknade građanima i kućanstvima u naravi
+123.500.000
+0
+-33.500.000
+90.000.000
+A812019
+LIJEČENJE U INOZEMSTVU
+500.000
+0
+-500.000
+0
+3712
+Naknade građanima i kućanstvima u naravi
+500.000
+0
+-500.000
+0
+A812020
+POSEBNI PROGRAMI NA TERCIJARNOJ RAZINI
+3.500.000
+0
+-1.884.200
+1.615.800
+3712
+Naknade građanima i kućanstvima u naravi
+3.500.000
+0
+-1.884.200
+1.615.800
+110
+MINISTARSTVO PRAVOSUĐA
+2.501.470.706
+98.671.573
+-98.671.573
+2.501.470.706
+11005
+Ministarstvo pravosuđa
+343.115.979
+26.111.617
+-65.879.417
+303.348.179
+1027
+SURADNJA S MEĐUNARODNIM SUDOM I MEĐUNARODNIM KAZNENIM SUDOVIMA
+40.028.107
+7.000.000
+-7.500
+47.020.607
+A629171
+SURADNJA S MEĐUNARODNIM SUDOM I MEĐUNARODNIM KAZNENIM SUDOVIMA
+28.000
+0
+-7.500
+20.500
+3213
+Stručno usavršavanje zaposlenika
+3.000
+0
+-2.500
+500
+3231
+Usluge telefona, pošte i prijevoza
+25.000
+0
+-5.000
+20.000
+A629172
+ZASTUPANJE PRED MEĐUNARODNIM SUDOM I MEĐUNARODNIM KAZNENIM SUDOVIMA
+40.000.107
+7.000.000
+0
+47.000.107
+3237
+Intelektualne i osobne usluge
+40.000.107
+7.000.000
+0
+47.000.107
+1326
+ADMINISTRACIJA I UPRAVLJANJE MINISTARSTVA PRAVOSUĐA
+91.019.941
+880.000
+-5.713.900
+86.186.041
+A576237
+PRAĆENJE I ANALIZA PRAKSE SUDA EUROPSKIH ZAJEDNICA
+80.000
+0
+-78.000
+2.000
+3213
+Stručno usavršavanje zaposlenika
+30.000
+0
+-29.000
+1.000
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-49.000
+1.000
+A629000
+ADMINISTRACIJA I UPRAVLJANJE MINISTARSTVA
+87.011.741
+880.000
+-5.249.400
+82.642.341
+3111
+Plaće za redovan rad
+46.000.000
+400.000
+0
+46.400.000
+3121
+Ostali rashodi za zaposlene
+2.400.000
+127.000
+0
+2.527.000
+3131
+Doprinosi za mirovinsko osiguranje
+2.400.000
+50.000
+0
+2.450.000
+3132
+Doprinosi za zdravstveno osiguranje
+7.000.000
+130.000
+0
+7.130.000
+3133
+Doprinosi za zapošljavanje
+820.000
+13.000
+0
+833.000
+3211
+Službena putovanja
+2.200.000
+0
+-200.000
+2.000.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+4.050.000
+160.000
+0
+4.210.000
+3213
+Stručno usavršavanje zaposlenika
+400.000
+0
+-50.000
+350.000
+3221
+Uredski materijal i ostali materijalni rashodi
+2.000.000
+0
+-200.000
+1.800.000
+3223
+Energija
+1.500.000
+0
+-200.000
+1.300.000
+3225
+Sitni inventar i autogume
+250.000
+0
+-100.000
+150.000
+3231
+Usluge telefona, pošte i prijevoza
+4.200.000
+0
+-400.000
+3.800.000
+3234
+Komunalne usluge
+800.000
+0
+-100.000
+700.000
+3235
+Zakupnine i najamnine
+7.432.941
+0
+-1.354.900
+6.078.041
+3237
+Intelektualne i osobne usluge
+4.593.800
+0
+-2.500.000
+2.093.800
+3238
+Računalne usluge
+1.000
+0
+-900
+100
+3239
+Ostale usluge
+60.000
+0
+-40.000
+20.000
+3294
+Članarine
+1.000
+0
+-900
+100
+3299
+Ostali nespomenuti rashodi poslovanja
+900.000
+0
+-100.000
+800.000
+3431
+Bankarske usluge i usluge platnog prometa
+1.000
+0
+-900
+100
+3433
+Zatezne kamate
+1.000
+0
+-900
+100
+3434
+Ostali nespomenuti financijski rashodi
+1.000
+0
+-900
+100
+A629008
+REFORMA KAZNENOG ZAKONODAVSTVA
+60.000
+0
+-40.000
+20.000
+3211
+Službena putovanja
+60.000
+0
+-40.000
+20.000
+A629016
+KOMPENZACIJE NEOSNOVANO PRITVORENIM OSOBAMA
+3.558.200
+0
+-200.000
+3.358.200
+3721
+Naknade građanima i kućanstvima u novcu
+3.558.200
+0
+-200.000
+3.358.200
+A629173
+ZASTUPANJE VLADE PRED EUROPSKIM SUDOM ZA LJUDSKA PRAVA
+260.000
+0
+-97.500
+162.500
+3211
+Službena putovanja
+100.000
+0
+-30.000
+70.000
+3213
+Stručno usavršavanje zaposlenika
+50.000
+0
+-44.000
+6.000
+3231
+Usluge telefona, pošte i prijevoza
+95.000
+0
+-10.000
+85.000
+3233
+Usluge promidžbe i informiranja
+5.000
+0
+-4.500
+500
+3238
+Računalne usluge
+10.000
+0
+-9.000
+1.000
+A629175
+IZVRŠENJE PRESUDA SUDA ZA LJUDSKA PRAVA
+50.000
+0
+-49.000
+1.000
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-49.000
+1.000
+1327
+EDUKACIJA I INFORMIRANJE
+4.055.000
+363.750
+-967.500
+3.451.250
+A629024
+PRAVOSUDNA AKADEMIJA
+3.830.000
+363.750
+-789.500
+3.404.250
+3211
+Službena putovanja
+420.000
+140.000
+0
+560.000
+3213
+Stručno usavršavanje zaposlenika
+400.000
+183.750
+0
+583.750
+3221
+Uredski materijal i ostali materijalni rashodi
+600.000
+0
+-300.000
+300.000
+3225
+Sitni inventar i autogume
+10.000
+10.000
+0
+20.000
+3231
+Usluge telefona, pošte i prijevoza
+200.000
+0
+-50.000
+150.000
+3233
+Usluge promidžbe i informiranja
+40.000
+30.000
+0
+70.000
+3237
+Intelektualne i osobne usluge
+2.140.000
+0
+-420.000
+1.720.000
+3239
+Ostale usluge
+20.000
+0
+-19.500
+500
+A629174
+EDUKACIJA I INFORMIRANJE
+95.000
+0
+-58.000
+37.000
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-15.000
+35.000
+3239
+Ostale usluge
+15.000
+0
+-14.000
+1.000
+3299
+Ostali nespomenuti rashodi poslovanja
+30.000
+0
+-29.000
+1.000
+A629244
+PROVEDBA NACIONALNE POLITIKE ZA RAVNOPRAVNOST SPOLOVA
+80.000
+0
+-77.500
+2.500
+3221
+Uredski materijal i ostali materijalni rashodi
+8.000
+0
+-7.500
+500
+3231
+Usluge telefona, pošte i prijevoza
+4.000
+0
+-3.500
+500
+3233
+Usluge promidžbe i informiranja
+32.000
+0
+-31.500
+500
+3237
+Intelektualne i osobne usluge
+30.000
+0
+-29.500
+500
+3239
+Ostale usluge
+6.000
+0
+-5.500
+500
+A630028
+STIPENDIJE I ŠKOLARINE
+50.000
+0
+-42.500
+7.500
+3721
+Naknade građanima i kućanstvima u novcu
+50.000
+0
+-42.500
+7.500
+1328
+IMENOVANJE PRAVOSUDNIH DUŽNOSNIKA
+2.069.000
+0
+-632.000
+1.437.000
+A629013
+DRŽAVNO SUDBENO VIJEĆE
+1.139.000
+0
+-330.000
+809.000
+3211
+Službena putovanja
+130.000
+0
+-40.000
+90.000
+3221
+Uredski materijal i ostali materijalni rashodi
+70.000
+0
+-40.000
+30.000
+3231
+Usluge telefona, pošte i prijevoza
+39.000
+0
+-15.000
+24.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+900.000
+0
+-235.000
+665.000
+A629018
+DRŽAVNO ODVJETNIČKO VIJEĆE
+930.000
+0
+-302.000
+628.000
+3211
+Službena putovanja
+60.000
+0
+-30.000
+30.000
+3221
+Uredski materijal i ostali materijalni rashodi
+20.000
+0
+-19.000
+1.000
+3231
+Usluge telefona, pošte i prijevoza
+20.000
+0
+-19.000
+1.000
+3232
+Usluge tekućeg i investicijskog održavanja
+20.000
+0
+-19.000
+1.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+800.000
+0
+-206.000
+594.000
+3299
+Ostali nespomenuti rashodi poslovanja
+10.000
+0
+-9.000
+1.000
+1329
+INFORMATIZACIJA
+26.700.000
+6.095.000
+-835.980
+31.959.020
+K301143
+INFORMATIZACIJA MINISTARSTVA I SREDIŠNJIH REGISTARA
+25.341.458
+5.940.000
+-720.575
+30.560.883
+3238
+Računalne usluge
+16.191.458
+5.940.000
+0
+22.131.458
+4221
+Uredska oprema i namještaj
+8.450.000
+0
+-306.690
+8.143.310
+4227
+Uređaji, strojevi i oprema za ostale namjene
+200.000
+0
+-55.000
+145.000
+4262
+Ulaganja u računalne programe
+500.000
+0
+-358.885
+141.115
+K629169
+INFORMATIZACIJA PRAVOSUDNIH TIJELA
+1.358.542
+155.000
+-115.405
+1.398.137
+3238
+Računalne usluge
+691.000
+155.000
+0
+846.000
+4511
+Dodatna ulaganja na građevinskim objektima
+667.542
+0
+-115.405
+552.137
+1330
+IZGRADNJA, OBNOVA, ODRŽAVANJE I OPREMANJE ZGRADA
+81.612.000
+3.000.000
+-43.288.290
+41.323.710
+K403826
+ŽUPANIJSKI SUD U ZADRU (SANACIJA I ADAPTACIJA ZGRADE)
+600.000
+500.000
+0
+1.100.000
+4511
+Dodatna ulaganja na građevinskim objektima
+600.000
+500.000
+0
+1.100.000
+K403883
+KAZNIONICA U GLINI (IZGRADNJA, SANACIJA I OPREMANJE ZGRADA)
+19.000.000
+0
+-12.000.000
+7.000.000
+4212
+Poslovni objekti
+19.000.000
+0
+-12.000.000
+7.000.000
+K629020
+OBVEZE PO UGOVORIMA O GRAĐENJU
+1.300.000
+0
+-100.000
+1.200.000
+4511
+Dodatna ulaganja na građevinskim objektima
+1.300.000
+0
+-100.000
+1.200.000
+K629022
+UREĐENJE I OPREMANJE PRAVOSUDNIH TIJELA
+5.162.000
+300.000
+-1.095.000
+4.367.000
+3225
+Sitni inventar i autogume
+40.000
+0
+-5.000
+35.000
+4221
+Uredska oprema i namještaj
+3.000.000
+300.000
+0
+3.300.000
+4222
+Komunikacijska oprema
+922.000
+0
+-490.000
+432.000
+4223
+Oprema za održavanje i zaštitu
+1.200.000
+0
+-600.000
+600.000
+K629023
+UREĐENJE I OPREMANJE UPRAVE ZA ZATVORSKI SUSTAV
+2.200.000
+0
+-330.000
+1.870.000
+4221
+Uredska oprema i namještaj
+500.000
+0
+-90.000
+410.000
+4222
+Komunikacijska oprema
+500.000
+0
+-40.000
+460.000
+4225
+Instrumenti, uređaji i strojevi
+500.000
+0
+-100.000
+400.000
+4226
+Sportska i glazbena oprema
+200.000
+0
+-30.000
+170.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+500.000
+0
+-70.000
+430.000
+K629031
+ZATVORSKA BOLNICA U ZAGREBU (DOGRADNJA, ADAPTACIJA I OPREMANJE)
+7.000.000
+0
+-7.000.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+7.000.000
+0
+-7.000.000
+0
+K629057
+OPĆINSKI SUD U VELIKOJ GORICI (SANACIJA I ADAPTACIJA ZGRADE)
+2.500.000
+0
+-200.000
+2.300.000
+4511
+Dodatna ulaganja na građevinskim objektima
+2.500.000
+0
+-200.000
+2.300.000
+K629154
+TRG PRAVDE U SPLITU (ADAPTACIJA I OPREMANJE)
+9.100.000
+0
+-800.000
+8.300.000
+4511
+Dodatna ulaganja na građevinskim objektima
+9.100.000
+0
+-800.000
+8.300.000
+K629158
+TRG PRAVDE U ZAGREBU (IZGRADNJA, ADAPTACIJA I OPREMANJE)
+18.500.000
+0
+-13.613.290
+4.886.710
+3237
+Intelektualne i osobne usluge
+1.500.000
+0
+-200.000
+1.300.000
+4511
+Dodatna ulaganja na građevinskim objektima
+17.000.000
+0
+-13.413.290
+3.586.710
+K629176
+VISOKI TRGOVAČKI SUD RH (OTPLATA KREDITA)
+1.000.000
+200.000
+0
+1.200.000
+3423
+Kamate za primljene zajmove od banaka i ostalih financijskih institucija izvan javnog sektora
+1.000.000
+200.000
+0
+1.200.000
+K629221
+VRHOVNI SUD RH (ADAPTACIJA I OPREMANJE DVORIŠNOG DIJELA ZGRADE)
+5.000.000
+0
+-5.000.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+5.000.000
+0
+-5.000.000
+0
+K629236
+OPĆINSKI SUD U SLAVONSKOM BRODU (IZGRADNJA I ADAPTACIJA ZGRADE)
+500.000
+0
+-100.000
+400.000
+4511
+Dodatna ulaganja na građevinskim objektima
+500.000
+0
+-100.000
+400.000
+K629243
+HITNE INTERVENCIJE NA ZGRADAMA PRAVOSUDNIH TIJELA
+1.900.000
+2.000.000
+0
+3.900.000
+4511
+Dodatna ulaganja na građevinskim objektima
+1.900.000
+2.000.000
+0
+3.900.000
+K629257
+KAZNIONICA U ŠIBENIKU (IZGRADNJA I OPREMANJE)
+1.000.000
+0
+-1.000.000
+0
+4212
+Poslovni objekti
+1.000.000
+0
+-1.000.000
+0
+K629259
+DRŽAVNO ODVJETNIŠTVO REPUBLIKE HRVATSKE (DOGRADNJA ZGRADE)
+850.000
+0
+-100.000
+750.000
+4511
+Dodatna ulaganja na građevinskim objektima
+850.000
+0
+-100.000
+750.000
+K630023
+OPĆINSKO DRŽAVNO ODVJETNIŠTVO U RIJECI (ADAPTACIJA ZGRADE)
+500.000
+0
+-250.000
+250.000
+4511
+Dodatna ulaganja na građevinskim objektima
+500.000
+0
+-250.000
+250.000
+K630026
+OPĆINSKO DRŽAVNO ODVJETNIŠTVO U PULI (ADAPTACIJA ZGRADE)
+500.000
+0
+-200.000
+300.000
+4511
+Dodatna ulaganja na građevinskim objektima
+500.000
+0
+-200.000
+300.000
+K630027
+ŽUPANIJSKI SUD U ŠIBENIKU (ADAPTACIJA PODRUMA)
+5.000.000
+0
+-1.500.000
+3.500.000
+4511
+Dodatna ulaganja na građevinskim objektima
+5.000.000
+0
+-1.500.000
+3.500.000
+1331
+MEĐUNARODNA SURADNJA
+2.154.400
+0
+-1.685.000
+469.400
+A576238
+PRILAGODBA ZAKONODAVSTVA RH PRAVU EU
+118.500
+0
+-91.000
+27.500
+3211
+Službena putovanja
+50.000
+0
+-25.000
+25.000
+3213
+Stručno usavršavanje zaposlenika
+50.000
+0
+-49.000
+1.000
+3231
+Usluge telefona, pošte i prijevoza
+8.500
+0
+-8.000
+500
+3299
+Ostali nespomenuti rashodi poslovanja
+10.000
+0
+-9.000
+1.000
+A576239
+MEĐUNARODNA SURADNJA MINISTARSTVA PRAVOSUĐA
+467.100
+0
+-251.000
+216.100
+3211
+Službena putovanja
+218.500
+0
+-180.000
+38.500
+3213
+Stručno usavršavanje zaposlenika
+60.000
+0
+-59.000
+1.000
+3231
+Usluge telefona, pošte i prijevoza
+3.000
+0
+-2.000
+1.000
+3294
+Članarine
+180.600
+0
+-6.000
+174.600
+3299
+Ostali nespomenuti rashodi poslovanja
+5.000
+0
+-4.000
+1.000
+A629006
+MEĐUNARODNA PRAVNA POMOĆ
+110.000
+0
+-59.000
+51.000
+3213
+Stručno usavršavanje zaposlenika
+45.000
+0
+-25.000
+20.000
+3231
+Usluge telefona, pošte i prijevoza
+60.000
+0
+-30.000
+30.000
+3299
+Ostali nespomenuti rashodi poslovanja
+5.000
+0
+-4.000
+1.000
+A629235
+LJUDSKA PRAVA
+270.000
+0
+-98.000
+172.000
+3213
+Stručno usavršavanje zaposlenika
+20.000
+0
+-19.000
+1.000
+3233
+Usluge promidžbe i informiranja
+30.000
+0
+-29.000
+1.000
+3237
+Intelektualne i osobne usluge
+220.000
+0
+-50.000
+170.000
+A629262
+SURADNJA REPUBLIKE HRVATSKE I EUROJUST-a
+1.188.800
+0
+-1.186.000
+2.800
+3211
+Službena putovanja
+20.000
+0
+-19.500
+500
+3221
+Uredski materijal i ostali materijalni rashodi
+20.000
+0
+-19.500
+500
+3231
+Usluge telefona, pošte i prijevoza
+30.000
+0
+-29.500
+500
+3235
+Zakupnine i najamnine
+1.035.000
+0
+-1.034.500
+500
+3721
+Naknade građanima i kućanstvima u novcu
+83.800
+0
+-83.000
+800
+1332
+MODERNIZACIJA SUDSKE UPRAVE I SUDSKOG POSTUPKA
+20.872.531
+0
+-1.831.380
+19.041.151
+K576240
+E-SPIS
+15.961.160
+0
+-1.814.265
+14.146.895
+3238
+Računalne usluge
+15.961.160
+0
+-1.814.265
+14.146.895
+K629170
+PROJEKT TEHNIČKE POMOĆI U VEZI SA STEČAJEVIMA (IBRD 4613 HR)
+4.911.371
+0
+-17.115
+4.894.256
+3238
+Računalne usluge
+4.911.371
+0
+-17.115
+4.894.256
+1334
+OBNOVA VOZNOG PARKA
+1.600.000
+0
+-1.200.000
+400.000
+K629181
+OBNOVA VOZNOG PARKA UPRAVE ZA ZATVORSKI SUSTAV
+1.600.000
+0
+-1.200.000
+400.000
+3235
+Zakupnine i najamnine
+1.600.000
+0
+-1.200.000
+400.000
+1336
+SLUŽBENIČKI POSTUPCI
+10.000
+0
+-9.000
+1.000
+A629160
+SLUŽBENIČKI SUDOVI KAZNIONICA, ZATVORA I ODGOJNIH ZAVODA
+10.000
+0
+-9.000
+1.000
+3211
+Službena putovanja
+10.000
+0
+-9.000
+1.000
+1337
+SUDSKA MEDICINA
+900.000
+0
+-150.000
+750.000
+A629161
+SUDSKA MEDICINA
+900.000
+0
+-150.000
+750.000
+3811
+Tekuće donacije u novcu
+900.000
+0
+-150.000
+750.000
+1338
+SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA
+2.100.000
+0
+-1.100.000
+1.000.000
+A629258
+ANTIKORUPCIJSKA STRATEGIJA
+2.100.000
+0
+-1.100.000
+1.000.000
+3237
+Intelektualne i osobne usluge
+2.100.000
+0
+-1.100.000
+1.000.000
+1339
+SUZBIJANJE ZLOUPORABE OPOJNIH DROGA
+367.000
+0
+-364.000
+3.000
+A629005
+SUZBIJANJE ZLOUPORABE OPOJNIH DROGA
+367.000
+0
+-364.000
+3.000
+3213
+Stručno usavršavanje zaposlenika
+57.000
+0
+-56.000
+1.000
+3225
+Sitni inventar i autogume
+70.000
+0
+-69.000
+1.000
+3237
+Intelektualne i osobne usluge
+240.000
+0
+-239.000
+1.000
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+2.249.000
+0
+-985.000
+1.264.000
+A576241
+PODRŠKA SVJEDOCIMA I ŽRTVAMA KAZNENIH DJELA
+122.000
+0
+-99.500
+22.500
+3211
+Službena putovanja
+30.000
+0
+-20.000
+10.000
+3213
+Stručno usavršavanje zaposlenika
+20.000
+0
+-19.000
+1.000
+3231
+Usluge telefona, pošte i prijevoza
+20.000
+0
+-19.000
+1.000
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-40.000
+10.000
+3299
+Ostali nespomenuti rashodi poslovanja
+2.000
+0
+-1.500
+500
+A629242
+MIRENJE KAO ALTERNATIVNI NAČIN RJEŠAVANJA SPOROVA
+350.000
+0
+-281.000
+69.000
+3211
+Službena putovanja
+100.000
+0
+-97.000
+3.000
+3213
+Stručno usavršavanje zaposlenika
+50.000
+0
+-45.000
+5.000
+3233
+Usluge promidžbe i informiranja
+100.000
+0
+-99.000
+1.000
+3237
+Intelektualne i osobne usluge
+100.000
+0
+-40.000
+60.000
+A630017
+DJELATNOST OVLAŠTENIH SLUŽBENIH OSOBA NA OSIGURANJU PRAVOSUDNIH TIJELA
+1.235.000
+0
+-175.000
+1.060.000
+3221
+Uredski materijal i ostali materijalni rashodi
+1.150.000
+0
+-100.000
+1.050.000
+3236
+Zdravstvene i veterinarske usluge
+85.000
+0
+-75.000
+10.000
+A630019
+IZOBRAZBA OVLAŠTENIH SLUŽBENIH OSOBA NA OSIGURANJU PRAVOSUDNIH TIJELA
+242.000
+0
+-239.500
+2.500
+3213
+Stručno usavršavanje zaposlenika
+60.000
+0
+-59.500
+500
+3221
+Uredski materijal i ostali materijalni rashodi
+50.000
+0
+-49.500
+500
+3233
+Usluge promidžbe i informiranja
+2.000
+0
+-1.500
+500
+3235
+Zakupnine i najamnine
+30.000
+0
+-29.500
+500
+3237
+Intelektualne i osobne usluge
+100.000
+0
+-99.500
+500
+A630020
+NAKNADA TROŠKOVA NASTALIH USTUPANJEM PREDMETA DRUGOM STVARNO NADLEŽNOM SUDU
+300.000
+0
+-190.000
+110.000
+3721
+Naknade građanima i kućanstvima u novcu
+300.000
+0
+-190.000
+110.000
+1341
+ZATVORSKI SUSTAV
+13.989.000
+3.070.000
+-1.145.500
+15.913.500
+A403999
+DUHOVNA POMOĆ U ZATVORSKOM SUSTAVU
+10.000
+0
+-9.500
+500
+3811
+Tekuće donacije u novcu
+10.000
+0
+-9.500
+500
+A629004
+RESOCIJALIZACIJA OSUĐENIH OSOBA KOJE SANKCIJE IZVRŠAVAJU NA SLOBODI
+4.350.000
+3.000.000
+-9.000
+7.341.000
+3211
+Službena putovanja
+10.000
+0
+-9.000
+1.000
+3237
+Intelektualne i osobne usluge
+4.340.000
+3.000.000
+0
+7.340.000
+A629007
+DJELATNOST OVLAŠTENIH SLUŽBENIH OSOBA
+24.000
+0
+-22.000
+2.000
+3221
+Uredski materijal i ostali materijalni rashodi
+20.000
+0
+-19.000
+1.000
+3236
+Zdravstvene i veterinarske usluge
+4.000
+0
+-3.000
+1.000
+A629012
+ZATVORENICI
+4.100.000
+0
+-200.000
+3.900.000
+3221
+Uredski materijal i ostali materijalni rashodi
+4.100.000
+0
+-200.000
+3.900.000
+A630018
+DJELATNOST OVLAŠTENIH SLUŽBENIH OSOBA UPRAVE ZA ZATVORSKI SUSTAV
+4.505.000
+70.000
+-55.000
+4.520.000
+3221
+Uredski materijal i ostali materijalni rashodi
+4.400.000
+0
+-55.000
+4.345.000
+3236
+Zdravstvene i veterinarske usluge
+105.000
+70.000
+0
+175.000
+K630021
+ZATVOR U ZAGREBU (DOGRADNJA ZGRADE)
+1.000.000
+0
+-850.000
+150.000
+4511
+Dodatna ulaganja na građevinskim objektima
+1.000.000
+0
+-850.000
+150.000
+1342
+ZEMLJIŠNE KNJIGE
+26.090.000
+382.867
+-377.867
+26.095.000
+K629167
+PROJEKT SREĐIVANJA ZEMLJIŠNIH KNJIGA I KATASTRA (IBRD 4674 HR, EU CARDS TF051781)
+26.090.000
+382.867
+-377.867
+26.095.000
+3213
+Stručno usavršavanje zaposlenika
+355.000
+0
+-5.000
+350.000
+3221
+Uredski materijal i ostali materijalni rashodi
+70.000
+0
+-6.441
+63.559
+3231
+Usluge telefona, pošte i prijevoza
+70.000
+0
+-7.500
+62.500
+3233
+Usluge promidžbe i informiranja
+270.000
+0
+-19.000
+251.000
+3237
+Intelektualne i osobne usluge
+14.570.000
+84.868
+0
+14.654.868
+3239
+Ostale usluge
+25.000
+0
+-18.559
+6.441
+3299
+Ostali nespomenuti rashodi poslovanja
+150.000
+0
+-10.000
+140.000
+4123
+Licence
+3.650.000
+0
+-298.000
+3.352.000
+4221
+Uredska oprema i namještaj
+6.050.000
+297.999
+0
+6.347.999
+4511
+Dodatna ulaganja na građevinskim objektima
+880.000
+0
+-13.367
+866.633
+1574
+NACIONALNI PROGRAM ZA ROME - BESPLATNA PRAVNA POMOĆ
+450.000
+220.000
+-98.000
+572.000
+A629233
+NACIONALNI PROGRAM ZA ROME - BESPLATNA PRAVNA POMOĆ
+450.000
+220.000
+-98.000
+572.000
+3211
+Službena putovanja
+50.000
+0
+-49.000
+1.000
+3237
+Intelektualne i osobne usluge
+350.000
+220.000
+0
+570.000
+3721
+Naknade građanima i kućanstvima u novcu
+50.000
+0
+-49.000
+1.000
+1675
+PROVOĐENJE SUKCESIJE BIVŠE SFRJ
+170.000
+0
+-169.000
+1.000
+A629245
+PROVOĐENJE SUKCESIJE BIVŠE SFRJ
+170.000
+0
+-169.000
+1.000
+3211
+Službena putovanja
+100.000
+0
+-99.500
+500
+3237
+Intelektualne i osobne usluge
+70.000
+0
+-69.500
+500
+1692
+STRATEGIJA RAZVOJA PRAVOSUĐA
+380.000
+0
+-219.500
+160.500
+A629269
+STRATEGIJA RAZVOJA PRAVOSUĐA
+380.000
+0
+-219.500
+160.500
+3211
+Službena putovanja
+100.000
+0
+-40.000
+60.000
+3213
+Stručno usavršavanje zaposlenika
+140.000
+0
+-100.000
+40.000
+3233
+Usluge promidžbe i informiranja
+100.000
+0
+-40.000
+60.000
+3299
+Ostali nespomenuti rashodi poslovanja
+40.000
+0
+-39.500
+500
+1843
+REFORMA PRAVOSUĐA
+26.300.000
+5.100.000
+-5.100.000
+26.300.000
+K630030
+OPĆINSKI SUD U KNINU (ADAPTACIJA I OPREMANJE ZGRADE) - REFORMA
+2.000.000
+0
+-1.042.000
+958.000
+4511
+Dodatna ulaganja na građevinskim objektima
+2.000.000
+0
+-1.042.000
+958.000
+K630031
+OPĆINSKI SUD U GLINI (ADAPTACIJA I OPREMANJE ZGRADE) - REFORMA
+2.200.000
+0
+-1.472.000
+728.000
+4221
+Uredska oprema i namještaj
+200.000
+0
+-200.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+2.000.000
+0
+-1.272.000
+728.000
+K630032
+OPĆINSKI SUD U HRVATSKOJ KOSTAJNICI (ADAPTACIJA I OPREMANJE) - REFORMA
+2.200.000
+0
+-1.216.000
+984.000
+4221
+Uredska oprema i namještaj
+200.000
+0
+-200.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+2.000.000
+0
+-1.016.000
+984.000
+K630033
+OPĆINSKI SUD U DELNICAMA (ADAPTACIJA I OPREMANJE) REFORMA
+600.000
+100.000
+-100.000
+600.000
+4221
+Uredska oprema i namještaj
+100.000
+0
+-100.000
+0
+4511
+Dodatna ulaganja na građevinskim objektima
+500.000
+100.000
+0
+600.000
+K630035
+OPĆINSKI SUD U METKOVIĆU (KUPNJA NOVE ZGRADE) - REFORMA
+19.000.000
+5.000.000
+-1.000.000
+23.000.000
+4212
+Poslovni objekti
+18.000.000
+5.000.000
+0
+23.000.000
+4221
+Uredska oprema i namještaj
+1.000.000
+0
+-1.000.000
+0
+K630042
+OPĆINSKI SUD U GOSPIĆU (ADAPTACIJA I OPREMANJE ZGRADE) - REFORMA
+300.000
+0
+-270.000
+30.000
+4511
+Dodatna ulaganja na građevinskim objektima
+300.000
+0
+-270.000
+30.000
+11010
+Uprava za zatvorski sustav
+444.352.860
+55.804.700
+0
+500.157.560
+1341
+ZATVORSKI SUSTAV
+444.352.860
+55.804.700
+0
+500.157.560
+A630000
+IZVRŠAVANJE KAZNE ZATVORA, MJERE PRITVORA I ODGOJNE MJERE
+443.507.860
+55.448.200
+0
+498.956.060
+3111
+Plaće za redovan rad
+250.000.000
+19.400.000
+0
+269.400.000
+3121
+Ostali rashodi za zaposlene
+12.935.860
+1.525.000
+0
+14.460.860
+3131
+Doprinosi za mirovinsko osiguranje
+28.200.000
+1.687.000
+0
+29.887.000
+3132
+Doprinosi za zdravstveno osiguranje
+38.600.000
+3.178.900
+0
+41.778.900
+3133
+Doprinosi za zapošljavanje
+4.500.000
+194.300
+0
+4.694.300
+3211
+Službena putovanja
+1.131.000
+30.000
+0
+1.161.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+14.800.000
+2.420.000
+0
+17.220.000
+3213
+Stručno usavršavanje zaposlenika
+177.000
+30.000
+0
+207.000
+3221
+Uredski materijal i ostali materijalni rashodi
+3.985.000
+1.570.000
+0
+5.555.000
+3222
+Materijal i sirovine
+26.936.000
+10.190.000
+0
+37.126.000
+3223
+Energija
+17.480.000
+2.700.000
+0
+20.180.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+4.016.000
+860.000
+0
+4.876.000
+3225
+Sitni inventar i autogume
+452.000
+360.000
+0
+812.000
+3231
+Usluge telefona, pošte i prijevoza
+2.262.000
+240.000
+0
+2.502.000
+3232
+Usluge tekućeg i investicijskog održavanja
+3.328.000
+440.000
+0
+3.768.000
+3233
+Usluge promidžbe i informiranja
+157.000
+98.000
+0
+255.000
+3234
+Komunalne usluge
+10.724.000
+4.970.000
+0
+15.694.000
+3236
+Zdravstvene i veterinarske usluge
+15.016.000
+4.100.000
+0
+19.116.000
+3237
+Intelektualne i osobne usluge
+1.362.000
+400.000
+0
+1.762.000
+3238
+Računalne usluge
+269.000
+200.000
+0
+469.000
+3239
+Ostale usluge
+208.000
+75.000
+0
+283.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+6.364.000
+730.000
+0
+7.094.000
+3292
+Premije osiguranja
+482.000
+20.000
+0
+502.000
+3431
+Bankarske usluge i usluge platnog prometa
+123.000
+30.000
+0
+153.000
+A630012
+CENTAR ZA IZOBRAZBU ZAPOSLENIKA U ZATVORSKOM SUSTAVU
+845.000
+356.500
+0
+1.201.500
+3211
+Službena putovanja
+33.000
+8.000
+0
+41.000
+3213
+Stručno usavršavanje zaposlenika
+270.000
+10.000
+0
+280.000
+3237
+Intelektualne i osobne usluge
+157.000
+165.000
+0
+322.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+365.000
+170.000
+0
+535.000
+3299
+Ostali nespomenuti rashodi poslovanja
+20.000
+3.500
+0
+23.500
+11015
+Vrhovni sud Republike Hrvatske
+35.153.000
+90.000
+-4.639.000
+30.604.000
+1327
+EDUKACIJA I INFORMIRANJE
+65.000
+10.000
+-20.000
+55.000
+A631002
+IZDAVANJE PUBLIKACIJE »IZBOR ODLUKA« I DRUGIH PUBLIKACIJA
+65.000
+10.000
+-20.000
+55.000
+3237
+Intelektualne i osobne usluge
+45.000
+10.000
+0
+55.000
+3239
+Ostale usluge
+20.000
+0
+-20.000
+0
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+35.088.000
+80.000
+-4.619.000
+30.549.000
+A631000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI VRHOVNOG SUDA RH
+35.088.000
+80.000
+-4.619.000
+30.549.000
+3111
+Plaće za redovan rad
+27.600.000
+0
+-3.850.000
+23.750.000
+3132
+Doprinosi za zdravstveno osiguranje
+4.300.000
+0
+-600.000
+3.700.000
+3133
+Doprinosi za zapošljavanje
+471.000
+0
+-60.000
+411.000
+3211
+Službena putovanja
+260.000
+0
+-30.000
+230.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+440.000
+10.000
+0
+450.000
+3213
+Stručno usavršavanje zaposlenika
+120.000
+0
+-30.000
+90.000
+3221
+Uredski materijal i ostali materijalni rashodi
+430.000
+20.000
+0
+450.000
+3223
+Energija
+220.000
+5.000
+0
+225.000
+3231
+Usluge telefona, pošte i prijevoza
+400.000
+0
+-20.000
+380.000
+3232
+Usluge tekućeg i investicijskog održavanja
+445.000
+20.000
+0
+465.000
+3233
+Usluge promidžbe i informiranja
+40.000
+0
+-6.000
+34.000
+3234
+Komunalne usluge
+172.000
+0
+-20.000
+152.000
+3237
+Intelektualne i osobne usluge
+100.000
+15.000
+0
+115.000
+3239
+Ostale usluge
+70.000
+10.000
+0
+80.000
+3292
+Premije osiguranja
+20.000
+0
+-3.000
+17.000
+11020
+Visoki trgovački sud Republike Hrvatske
+19.623.500
+94.256
+-2.437.256
+17.280.500
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+19.623.500
+94.256
+-2.437.256
+17.280.500
+A632000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI VISOKOG TRGOVAČKOG SUDA RH
+19.623.500
+94.256
+-2.437.256
+17.280.500
+3111
+Plaće za redovan rad
+15.000.000
+0
+-1.215.000
+13.785.000
+3121
+Ostali rashodi za zaposlene
+173.000
+0
+-33.000
+140.000
+3132
+Doprinosi za zdravstveno osiguranje
+2.360.000
+0
+-200.000
+2.160.000
+3133
+Doprinosi za zapošljavanje
+260.000
+0
+-20.000
+240.000
+3211
+Službena putovanja
+80.000
+20.756
+0
+100.756
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+295.000
+0
+-10.000
+285.000
+3223
+Energija
+210.000
+0
+-40.000
+170.000
+3225
+Sitni inventar i autogume
+5.000
+1.500
+0
+6.500
+3232
+Usluge tekućeg i investicijskog održavanja
+180.000
+0
+-50.000
+130.000
+3233
+Usluge promidžbe i informiranja
+13.000
+45.000
+0
+58.000
+3237
+Intelektualne i osobne usluge
+750.000
+0
+-730.000
+20.000
+3238
+Računalne usluge
+200.000
+0
+-120.000
+80.000
+3239
+Ostale usluge
+55.000
+25.000
+0
+80.000
+3292
+Premije osiguranja
+15.000
+0
+-7.500
+7.500
+3294
+Članarine
+1.000
+0
+-756
+244
+3299
+Ostali nespomenuti rashodi poslovanja
+10.000
+2.000
+0
+12.000
+3431
+Bankarske usluge i usluge platnog prometa
+6.500
+0
+-1.000
+5.500
+3859
+Ostali izvanredni rashodi
+10.000
+0
+-10.000
+0
+11025
+Upravni sud Republike Hrvatske
+25.768.000
+70.000
+-1.754.000
+24.084.000
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+25.768.000
+70.000
+-1.754.000
+24.084.000
+A633000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI UPRAVNOG SUDA RH
+25.768.000
+70.000
+-1.754.000
+24.084.000
+3111
+Plaće za redovan rad
+20.680.000
+0
+-1.380.000
+19.300.000
+3121
+Ostali rashodi za zaposlene
+406.000
+0
+-24.000
+382.000
+3131
+Doprinosi za mirovinsko osiguranje
+60.000
+0
+-50.000
+10.000
+3132
+Doprinosi za zdravstveno osiguranje
+3.200.000
+0
+-200.000
+3.000.000
+3133
+Doprinosi za zapošljavanje
+350.000
+0
+-20.000
+330.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+446.000
+0
+-10.000
+436.000
+3225
+Sitni inventar i autogume
+35.000
+0
+-20.000
+15.000
+3232
+Usluge tekućeg i investicijskog održavanja
+240.000
+30.000
+0
+270.000
+3233
+Usluge promidžbe i informiranja
+25.000
+0
+-15.000
+10.000
+3234
+Komunalne usluge
+145.000
+40.000
+0
+185.000
+3238
+Računalne usluge
+98.000
+0
+-10.000
+88.000
+3239
+Ostale usluge
+65.000
+0
+-20.000
+45.000
+3299
+Ostali nespomenuti rashodi poslovanja
+18.000
+0
+-5.000
+13.000
+11030
+Državno odvjetništvo Republike Hrvatske
+19.192.600
+0
+-2.760.500
+16.432.100
+1331
+MEĐUNARODNA SURADNJA
+15.000
+0
+-3.000
+12.000
+A634002
+MEĐUNARODNA SURADNJA DRŽAVNIH ODVJETNIŠTAVA
+15.000
+0
+-3.000
+12.000
+3294
+Članarine
+15.000
+0
+-3.000
+12.000
+1335
+PROGON POČINITELJA KAZNENIH I KAŽNJIVIH DJELA, ZAŠTITA IMOVINE RH I PODNOŠENJE PRAVNIH SREDSTAVA ZA ZAŠTITU ZAKONITOSTI
+19.177.600
+0
+-2.757.500
+16.420.100
+A634000
+PROGON POČINITELJA KAZNENIH DJELA, ZAŠTITA IMOVINE RH I PODNOŠENJE PRAVNIH SREDSTAVA ZA ZAŠTITU ZAKONITOSTI
+19.157.600
+0
+-2.745.000
+16.412.600
+3111
+Plaće za redovan rad
+16.172.800
+0
+-2.340.000
+13.832.800
+3121
+Ostali rashodi za zaposlene
+187.000
+0
+-5.000
+182.000
+3132
+Doprinosi za zdravstveno osiguranje
+2.506.800
+0
+-360.000
+2.146.800
+3133
+Doprinosi za zapošljavanje
+291.000
+0
+-40.000
+251.000
+A634012
+UNAPREĐENJE I PRAĆENJE REZULTATA RADA IZ NADLEŽNOSTI DRŽAVNIH ODVJETNIŠTAVA NA SVIM RAZINAMA
+20.000
+0
+-12.500
+7.500
+3235
+Zakupnine i najamnine
+20.000
+0
+-12.500
+7.500
+11040
+Visoki prekršajni sud Republike Hrvatske
+27.234.000
+95.000
+-907.500
+26.421.500
+1327
+EDUKACIJA I INFORMIRANJE
+10.000
+0
+-10.000
+0
+A637002
+OBJAVLJIVANJE »BILTENA ODLUKA« VISOKOG PREKRŠAJNOG SUDA RH
+10.000
+0
+-10.000
+0
+3239
+Ostale usluge
+10.000
+0
+-10.000
+0
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+27.224.000
+95.000
+-897.500
+26.421.500
+A637000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI VISOKOG PREKRŠAJNOG SUDA RH
+27.224.000
+95.000
+-897.500
+26.421.500
+3111
+Plaće za redovan rad
+21.844.000
+0
+-630.000
+21.214.000
+3121
+Ostali rashodi za zaposlene
+235.000
+10.000
+0
+245.000
+3132
+Doprinosi za zdravstveno osiguranje
+3.386.000
+0
+-90.000
+3.296.000
+3133
+Doprinosi za zapošljavanje
+372.000
+0
+-8.000
+364.000
+3211
+Službena putovanja
+100.000
+0
+-10.000
+90.000
+3221
+Uredski materijal i ostali materijalni rashodi
+360.000
+50.000
+0
+410.000
+3223
+Energija
+200.000
+0
+-20.000
+180.000
+3225
+Sitni inventar i autogume
+30.000
+10.000
+0
+40.000
+3231
+Usluge telefona, pošte i prijevoza
+400.000
+0
+-100.000
+300.000
+3232
+Usluge tekućeg i investicijskog održavanja
+130.000
+20.000
+0
+150.000
+3234
+Komunalne usluge
+80.000
+0
+-10.000
+70.000
+3237
+Intelektualne i osobne usluge
+10.000
+5.000
+0
+15.000
+3238
+Računalne usluge
+40.000
+0
+-10.000
+30.000
+3299
+Ostali nespomenuti rashodi poslovanja
+10.000
+0
+-9.500
+500
+3433
+Zatezne kamate
+7.000
+0
+-5.000
+2.000
+3859
+Ostali izvanredni rashodi
+20.000
+0
+-5.000
+15.000
+11045
+Županijski sudovi
+289.441.817
+2.550.000
+-2.180.000
+289.811.817
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+289.441.817
+2.550.000
+-2.180.000
+289.811.817
+A638000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI ŽUPANIJSKIH SUDOVA
+289.441.817
+2.550.000
+-2.180.000
+289.811.817
+3111
+Plaće za redovan rad
+181.200.000
+0
+-500.000
+180.700.000
+3121
+Ostali rashodi za zaposlene
+3.230.000
+540.000
+0
+3.770.000
+3131
+Doprinosi za mirovinsko osiguranje
+2.550.000
+300.000
+0
+2.850.000
+3132
+Doprinosi za zdravstveno osiguranje
+28.100.000
+0
+-30.000
+28.070.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+5.300.000
+60.000
+0
+5.360.000
+3221
+Uredski materijal i ostali materijalni rashodi
+3.231.217
+0
+-200.000
+3.031.217
+3223
+Energija
+5.770.000
+0
+-750.000
+5.020.000
+3225
+Sitni inventar i autogume
+240.000
+0
+-20.000
+220.000
+3231
+Usluge telefona, pošte i prijevoza
+5.650.000
+0
+-80.000
+5.570.000
+3232
+Usluge tekućeg i investicijskog održavanja
+1.809.600
+0
+-30.000
+1.779.600
+3233
+Usluge promidžbe i informiranja
+150.000
+0
+-50.000
+100.000
+3234
+Komunalne usluge
+2.000.000
+0
+-30.000
+1.970.000
+3235
+Zakupnine i najamnine
+220.000
+0
+-30.000
+190.000
+3237
+Intelektualne i osobne usluge
+46.000.000
+1.650.000
+0
+47.650.000
+3238
+Računalne usluge
+100.000
+0
+-30.000
+70.000
+3292
+Premije osiguranja
+150.000
+0
+-30.000
+120.000
+3299
+Ostali nespomenuti rashodi poslovanja
+3.741.000
+0
+-400.000
+3.341.000
+11050
+Trgovački sudovi
+89.840.100
+587.000
+-3.114.500
+87.312.600
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+89.840.100
+587.000
+-3.114.500
+87.312.600
+A639000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI TRGOVAČKIH SUDOVA
+89.840.100
+587.000
+-3.114.500
+87.312.600
+3111
+Plaće za redovan rad
+63.350.000
+0
+-1.840.000
+61.510.000
+3121
+Ostali rashodi za zaposlene
+2.070.000
+420.000
+0
+2.490.000
+3131
+Doprinosi za mirovinsko osiguranje
+22.000
+2.000
+0
+24.000
+3132
+Doprinosi za zdravstveno osiguranje
+9.890.000
+0
+-320.000
+9.570.000
+3133
+Doprinosi za zapošljavanje
+1.100.000
+0
+-50.000
+1.050.000
+3211
+Službena putovanja
+460.000
+0
+-60.000
+400.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+2.700.000
+50.000
+0
+2.750.000
+3221
+Uredski materijal i ostali materijalni rashodi
+2.030.000
+0
+-180.000
+1.850.000
+3231
+Usluge telefona, pošte i prijevoza
+5.900.000
+0
+-480.000
+5.420.000
+3232
+Usluge tekućeg i investicijskog održavanja
+650.600
+0
+-24.000
+626.600
+3234
+Komunalne usluge
+540.000
+0
+-20.000
+520.000
+3235
+Zakupnine i najamnine
+650.000
+115.000
+0
+765.000
+3237
+Intelektualne i osobne usluge
+255.000
+0
+-94.000
+161.000
+3238
+Računalne usluge
+50.000
+0
+-12.000
+38.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+70.000
+0
+-28.000
+42.000
+3431
+Bankarske usluge i usluge platnog prometa
+87.500
+0
+-3.000
+84.500
+3434
+Ostali nespomenuti financijski rashodi
+15.000
+0
+-3.500
+11.500
+11055
+Županijska državna odvjetništva
+79.364.500
+65.000
+-1.295.000
+78.134.500
+1335
+PROGON POČINITELJA KAZNENIH I KAŽNJIVIH DJELA, ZAŠTITA IMOVINE RH I PODNOŠENJE PRAVNIH SREDSTAVA ZA ZAŠTITU ZAKONITOSTI
+79.364.500
+65.000
+-1.295.000
+78.134.500
+A640000
+PROGON POČINITELJA KAZNENIH I KAŽNJIVIH DJELA I ZAŠTITA IMOVINE RH PRED ŽUPANIJSKIM SUDOVIMA I UPRAVNIM TIJELIMA
+79.364.500
+65.000
+-1.295.000
+78.134.500
+3111
+Plaće za redovan rad
+62.500.000
+0
+-780.000
+61.720.000
+3132
+Doprinosi za zdravstveno osiguranje
+9.750.000
+0
+-180.000
+9.570.000
+3133
+Doprinosi za zapošljavanje
+1.075.000
+0
+-20.000
+1.055.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+1.269.500
+25.000
+0
+1.294.500
+3213
+Stručno usavršavanje zaposlenika
+180.000
+20.000
+0
+200.000
+3221
+Uredski materijal i ostali materijalni rashodi
+750.000
+0
+-50.000
+700.000
+3223
+Energija
+790.000
+0
+-110.000
+680.000
+3231
+Usluge telefona, pošte i prijevoza
+1.070.000
+0
+-80.000
+990.000
+3232
+Usluge tekućeg i investicijskog održavanja
+290.000
+0
+-30.000
+260.000
+3233
+Usluge promidžbe i informiranja
+50.000
+0
+-5.000
+45.000
+3234
+Komunalne usluge
+1.210.000
+20.000
+0
+1.230.000
+3235
+Zakupnine i najamnine
+250.000
+0
+-20.000
+230.000
+3238
+Računalne usluge
+65.000
+0
+-5.000
+60.000
+3299
+Ostali nespomenuti rashodi poslovanja
+50.000
+0
+-5.000
+45.000
+3431
+Bankarske usluge i usluge platnog prometa
+43.000
+0
+-5.000
+38.000
+3859
+Ostali izvanredni rashodi
+22.000
+0
+-5.000
+17.000
+11065
+Općinski sudovi
+739.941.450
+12.179.000
+-7.470.000
+744.650.450
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+739.941.450
+12.179.000
+-7.470.000
+744.650.450
+A641000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI OPĆINSKIH SUDOVA
+739.941.450
+12.179.000
+-7.470.000
+744.650.450
+3111
+Plaće za redovan rad
+454.351.000
+0
+-2.000.000
+452.351.000
+3121
+Ostali rashodi za zaposlene
+17.000.000
+1.445.000
+0
+18.445.000
+3132
+Doprinosi za zdravstveno osiguranje
+71.229.800
+0
+-850.000
+70.379.800
+3133
+Doprinosi za zapošljavanje
+7.800.000
+0
+-25.000
+7.775.000
+3211
+Službena putovanja
+1.851.500
+0
+-260.000
+1.591.500
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+28.500.000
+0
+-250.000
+28.250.000
+3213
+Stručno usavršavanje zaposlenika
+920.000
+0
+-30.000
+890.000
+3221
+Uredski materijal i ostali materijalni rashodi
+20.912.000
+0
+-1.658.000
+19.254.000
+3222
+Materijal i sirovine
+108.000
+0
+-2.000
+106.000
+3223
+Energija
+10.654.000
+0
+-240.000
+10.414.000
+3231
+Usluge telefona, pošte i prijevoza
+53.850.000
+0
+-1.595.000
+52.255.000
+3232
+Usluge tekućeg i investicijskog održavanja
+4.902.200
+100.000
+0
+5.002.200
+3234
+Komunalne usluge
+5.002.000
+0
+-190.000
+4.812.000
+3235
+Zakupnine i najamnine
+770.000
+0
+-215.000
+555.000
+3237
+Intelektualne i osobne usluge
+56.098.000
+10.030.000
+0
+66.128.000
+3238
+Računalne usluge
+450.000
+0
+-75.000
+375.000
+3239
+Ostale usluge
+3.100.000
+500.000
+0
+3.600.000
+3292
+Premije osiguranja
+357.000
+0
+-80.000
+277.000
+3299
+Ostali nespomenuti rashodi poslovanja
+1.604.150
+64.000
+0
+1.668.150
+3431
+Bankarske usluge i usluge platnog prometa
+440.000
+30.000
+0
+470.000
+3434
+Ostali nespomenuti financijski rashodi
+41.800
+10.000
+0
+51.800
+11070
+Općinska državna odvjetništva
+157.894.100
+295.000
+-1.390.000
+156.799.100
+1335
+PROGON POČINITELJA KAZNENIH I KAŽNJIVIH DJELA, ZAŠTITA IMOVINE RH I PODNOŠENJE PRAVNIH SREDSTAVA ZA ZAŠTITU ZAKONITOSTI
+157.894.100
+295.000
+-1.390.000
+156.799.100
+A642000
+PROGON POČINITELJA KAZNENIH I KAŽNJIVIH DJELA I ZAŠTITA IMOVINE RH PRED NADLEŽNIM SUDOVIMA I TIJELIMA
+157.894.100
+295.000
+-1.390.000
+156.799.100
+3111
+Plaće za redovan rad
+117.350.000
+0
+-400.000
+116.950.000
+3121
+Ostali rashodi za zaposlene
+2.540.000
+205.000
+0
+2.745.000
+3132
+Doprinosi za zdravstveno osiguranje
+18.180.000
+0
+-45.000
+18.135.000
+3133
+Doprinosi za zapošljavanje
+2.018.000
+0
+-5.000
+2.013.000
+3211
+Službena putovanja
+1.130.000
+20.000
+0
+1.150.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+5.200.600
+50.000
+0
+5.250.600
+3213
+Stručno usavršavanje zaposlenika
+340.000
+20.000
+0
+360.000
+3221
+Uredski materijal i ostali materijalni rashodi
+2.650.000
+0
+-200.000
+2.450.000
+3223
+Energija
+1.250.000
+0
+-50.000
+1.200.000
+3231
+Usluge telefona, pošte i prijevoza
+2.950.000
+0
+-200.000
+2.750.000
+3232
+Usluge tekućeg i investicijskog održavanja
+850.000
+0
+-20.000
+830.000
+3233
+Usluge promidžbe i informiranja
+130.000
+0
+-15.000
+115.000
+3234
+Komunalne usluge
+950.000
+0
+-50.000
+900.000
+3235
+Zakupnine i najamnine
+1.400.000
+0
+-270.000
+1.130.000
+3237
+Intelektualne i osobne usluge
+600.000
+0
+-80.000
+520.000
+3238
+Računalne usluge
+100.000
+0
+-5.000
+95.000
+3299
+Ostali nespomenuti rashodi poslovanja
+120.000
+0
+-10.000
+110.000
+3431
+Bankarske usluge i usluge platnog prometa
+99.000
+0
+-20.000
+79.000
+3859
+Ostali izvanredni rashodi
+36.500
+0
+-20.000
+16.500
+11075
+Prekršajni sudovi
+218.543.800
+530.000
+-4.184.000
+214.889.800
+1340
+VOĐENJE SUDSKIH POSTUPAKA
+218.543.800
+530.000
+-4.184.000
+214.889.800
+A643000
+VOĐENJE SUDSKIH POSTUPAKA IZ NADLEŽNOSTI PREKRŠAJNIH SUDOVA
+218.543.800
+530.000
+-4.184.000
+214.889.800
+3111
+Plaće za redovan rad
+145.280.000
+30.000
+0
+145.310.000
+3121
+Ostali rashodi za zaposlene
+4.130.000
+400.000
+0
+4.530.000
+3131
+Doprinosi za mirovinsko osiguranje
+11.800
+0
+-5.000
+6.800
+3132
+Doprinosi za zdravstveno osiguranje
+22.560.000
+0
+-25.000
+22.535.000
+3133
+Doprinosi za zapošljavanje
+2.515.000
+0
+-2.000
+2.513.000
+3211
+Službena putovanja
+440.000
+30.000
+0
+470.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+6.900.000
+60.000
+0
+6.960.000
+3221
+Uredski materijal i ostali materijalni rashodi
+7.464.000
+0
+-1.100.000
+6.364.000
+3223
+Energija
+1.970.000
+0
+-60.000
+1.910.000
+3231
+Usluge telefona, pošte i prijevoza
+23.350.000
+0
+-2.600.000
+20.750.000
+3234
+Komunalne usluge
+1.410.000
+0
+-110.000
+1.300.000
+3235
+Zakupnine i najamnine
+1.680.000
+0
+-135.000
+1.545.000
+3236
+Zdravstvene i veterinarske usluge
+300.000
+0
+-77.000
+223.000
+3239
+Ostale usluge
+200.000
+0
+-40.000
+160.000
+3299
+Ostali nespomenuti rashodi poslovanja
+180.000
+10.000
+0
+190.000
+3431
+Bankarske usluge i usluge platnog prometa
+96.000
+0
+-10.000
+86.000
+3433
+Zatezne kamate
+57.000
+0
+-20.000
+37.000
+11091
+Ured za suzbijanje korupcije i organiziranog kriminaliteta
+12.005.000
+200.000
+-660.400
+11.544.600
+1338
+SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA
+12.005.000
+200.000
+-660.400
+11.544.600
+A678000
+SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA
+11.835.100
+200.000
+-609.000
+11.426.100
+3111
+Plaće za redovan rad
+9.296.000
+0
+-270.000
+9.026.000
+3121
+Ostali rashodi za zaposlene
+88.000
+0
+-10.000
+78.000
+3132
+Doprinosi za zdravstveno osiguranje
+1.425.500
+0
+-25.000
+1.400.500
+3133
+Doprinosi za zapošljavanje
+167.600
+0
+-4.000
+163.600
+3237
+Intelektualne i osobne usluge
+270.000
+200.000
+0
+470.000
+3299
+Ostali nespomenuti rashodi poslovanja
+588.000
+0
+-300.000
+288.000
+A678008
+MEĐUNARODNA SURADNJA NA SUZBIJANJU ORGANIZIRANOG KRIMINALITETA
+72.800
+0
+-20.000
+52.800
+3213
+Stručno usavršavanje zaposlenika
+31.200
+0
+-10.000
+21.200
+3233
+Usluge promidžbe i informiranja
+41.600
+0
+-10.000
+31.600
+A678009
+SUSTAV ANALITIČKOG PRAĆENJA ORGANIZIRANOG KRIMINALITETA
+97.100
+0
+-31.400
+65.700
+3213
+Stručno usavršavanje zaposlenika
+32.300
+0
+-6.000
+26.300
+3233
+Usluge promidžbe i informiranja
+10.800
+0
+-5.400
+5.400
+3299
+Ostali nespomenuti rashodi poslovanja
+54.000
+0
+-20.000
+34.000
+115
+FOND ZA RAZVOJ I ZAPOŠLJAVANJE
+30.854.000
+2.561.878
+-2.561.878
+30.854.000
+11505
+Fond za razvoj i zapošljavanje
+30.854.000
+2.561.878
+-2.561.878
+30.854.000
+1231
+ADMINISTRACIJA I UPRAVLJANJE OKOLIŠEM, PROSTORNIM UREĐENJEM I GRADITELJSTVOM
+1.530.000
+0
+-1.530.000
+0
+A648084
+PROGRAM ČIŠĆENJA I OBNOVE DETALJNE KANALSKE MREŽE NA PODRUČJU VUKOVARSKO-SRIJEMSKE ŽUPANIJE
+1.530.000
+0
+-1.530.000
+0
+3632
+Kapitalne pomoći unutar opće države
+1.530.000
+0
+-1.530.000
+0
+1343
+FOND GARANTIRANIH RADNIČKIH PLAĆA IZ PODUZEĆA U STEČAJU
+9.783.000
+1.531.570
+0
+11.314.570
+A648075
+OSIGURANJE POTRAŽIVANJA RADNIKA U SLUČAJU STEČAJA POSLODAVCA
+9.783.000
+1.531.570
+0
+11.314.570
+3721
+Naknade građanima i kućanstvima u novcu
+9.783.000
+1.531.570
+0
+11.314.570
+1344
+POTICANJE PROGRAMA ZAPOŠLJAVANJA
+200.000
+0
+-183.531
+16.469
+A648005
+POTICANJE ZAPOŠLJAVANJA
+200.000
+0
+-183.531
+16.469
+3631
+Tekuće pomoći unutar opće države
+200.000
+0
+-183.531
+16.469
+1346
+RAZVOJ MALOG GOSPODARSTVA
+720.000
+0
+-116.469
+603.531
+A648076
+POTICANJE RAZVOJA POSLOVNIH I RAZVOJNIH CENTARA I CENTARA MALOG PODUZETNIŠTVA
+720.000
+0
+-116.469
+603.531
+3522
+Subvencije trgovačkim društvima izvan javnog sektora
+720.000
+0
+-116.469
+603.531
+1404
+RAZVOJ TRGOVAČKIH DRUŠTAVA
+6.525.000
+700.000
+-350.000
+6.875.000
+A648006
+POTICANJE RAZVOJA TRGOVAČKIH DRUŠTAVA ORIJENTIRANIH NA IZVOZ I NOVOZAPOŠLJAVANJE
+6.325.000
+700.000
+-150.000
+6.875.000
+3237
+Intelektualne i osobne usluge
+835.000
+0
+-150.000
+685.000
+3431
+Bankarske usluge i usluge platnog prometa
+5.490.000
+700.000
+0
+6.190.000
+A648082
+POMOĆI TRGOVAČKIM DRUŠTVIMA
+200.000
+0
+-200.000
+0
+3631
+Tekuće pomoći unutar opće države
+100.000
+0
+-100.000
+0
+3632
+Kapitalne pomoći unutar opće države
+100.000
+0
+-100.000
+0
+1413
+ADMINISTRACIJA I UPRAVLJANJE
+4.566.000
+160.308
+-381.878
+4.344.430
+A648003
+ADMINISTRACIJA I UPRAVLJANJE
+4.484.000
+150.308
+-358.378
+4.275.930
+3111
+Plaće za redovan rad
+2.238.800
+0
+-210.000
+2.028.800
+3121
+Ostali rashodi za zaposlene
+52.000
+22.000
+0
+74.000
+3132
+Doprinosi za zdravstveno osiguranje
+347.000
+0
+-23.700
+323.300
+3133
+Doprinosi za zapošljavanje
+38.200
+0
+-2.700
+35.500
+3211
+Službena putovanja
+52.000
+8.000
+0
+60.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+90.000
+0
+-4.900
+85.100
+3213
+Stručno usavršavanje zaposlenika
+80.000
+17.500
+0
+97.500
+3221
+Uredski materijal i ostali materijalni rashodi
+80.000
+0
+-13.600
+66.400
+3223
+Energija
+100.000
+0
+-5.500
+94.500
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+30.000
+32.008
+0
+62.008
+3225
+Sitni inventar i autogume
+45.000
+5.000
+0
+50.000
+3231
+Usluge telefona, pošte i prijevoza
+190.000
+0
+-9.000
+181.000
+3232
+Usluge tekućeg i investicijskog održavanja
+146.000
+21.500
+0
+167.500
+3233
+Usluge promidžbe i informiranja
+40.000
+0
+-6.700
+33.300
+3234
+Komunalne usluge
+24.000
+0
+-10.500
+13.500
+3235
+Zakupnine i najamnine
+550.000
+12.000
+0
+562.000
+3236
+Zdravstvene i veterinarske usluge
+26.000
+5.000
+0
+31.000
+3237
+Intelektualne i osobne usluge
+264.000
+0
+-48.800
+215.200
+3292
+Premije osiguranja
+55.000
+0
+-15.900
+39.100
+3294
+Članarine
+11.000
+0
+-2.378
+8.622
+3431
+Bankarske usluge i usluge platnog prometa
+15.000
+0
+-4.700
+10.300
+3811
+Tekuće donacije u novcu
+10.000
+27.300
+0
+37.300
+K648004
+OPREMANJE
+82.000
+10.000
+-23.500
+68.500
+4123
+Licence
+12.000
+0
+-4.500
+7.500
+4221
+Uredska oprema i namještaj
+40.000
+10.000
+0
+50.000
+4222
+Komunikacijska oprema
+25.000
+0
+-14.000
+11.000
+4223
+Oprema za održavanje i zaštitu
+5.000
+0
+-5.000
+0
+1788
+PODIZANJE VIŠEGODIŠNJIH NASADA
+7.530.000
+170.000
+0
+7.700.000
+A648083
+PROGRAM ZA PRIPREMU ŠUMSKIH POVRŠINA ZA PODIZANJE VIŠEGODIŠNJIH NASADA
+7.530.000
+170.000
+0
+7.700.000
+3632
+Kapitalne pomoći unutar opće države
+7.530.000
+170.000
+0
+7.700.000
+116
+FOND ZA REGIONALNI RAZVOJ
+84.043.525
+33.956.682
+-33.956.682
+84.043.525
+11605
+Fond za regionalni razvoj
+84.043.525
+33.956.682
+-33.956.682
+84.043.525
+1348
+POTICANJE REGIONALNOG RAZVOJA INFRASTRUKTURE I GOSPODARSTVA
+84.043.525
+33.956.682
+-33.956.682
+84.043.525
+A695001
+OPĆI POSLOVI FONDA
+1.183.000
+31.000
+-819.628
+394.372
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+90.000
+3.000
+0
+93.000
+3213
+Stručno usavršavanje zaposlenika
+140.000
+0
+-35.628
+104.372
+3233
+Usluge promidžbe i informiranja
+30.000
+28.000
+0
+58.000
+3237
+Intelektualne i osobne usluge
+923.000
+0
+-784.000
+139.000
+A695076
+REGIONALNI RAZVOJ BJELOVARSKO-BILOGORSKE ŽUPANIJE
+3.175.052
+550.577
+0
+3.725.629
+3632
+Kapitalne pomoći unutar opće države
+3.175.052
+550.577
+0
+3.725.629
+A695077
+REGIONALNI RAZVOJ BRODSKO-POSAVSKE ŽUPANIJE
+3.785.639
+817.181
+0
+4.602.820
+3632
+Kapitalne pomoći unutar opće države
+3.785.639
+817.181
+0
+4.602.820
+A695078
+REGIONALNI RAZVOJ DUBROVAČKO-NERETVANSKE ŽUPANIJE
+2.100.419
+4.485.506
+0
+6.585.925
+3632
+Kapitalne pomoći unutar opće države
+2.100.419
+4.485.506
+0
+6.585.925
+A695080
+REGIONALNI RAZVOJ KARLOVAČKE ŽUPANIJE
+2.881.970
+1.330.000
+0
+4.211.970
+3632
+Kapitalne pomoći unutar opće države
+2.881.970
+1.330.000
+0
+4.211.970
+A695082
+REGIONALNI RAZVOJ KRAPINSKO-ZAGORSKE ŽUPANIJE
+3.675.733
+2.831.105
+0
+6.506.838
+3632
+Kapitalne pomoći unutar opće države
+3.675.733
+2.831.105
+0
+6.506.838
+A695083
+REGIONALNI RAZVOJ LIČKO-SENJSKE ŽUPANIJE
+4.060.403
+200.000
+0
+4.260.403
+3632
+Kapitalne pomoći unutar opće države
+4.060.403
+200.000
+0
+4.260.403
+A695084
+REGIONALNI RAZVOJ MEĐIMURSKE ŽUPANIJE
+2.649.947
+881.816
+0
+3.531.763
+3632
+Kapitalne pomoći unutar opće države
+2.649.947
+881.816
+0
+3.531.763
+A695085
+REGIONALNI RAZVOJ OSJEČKO-BARANJSKE ŽUPANIJE
+3.632.992
+265.351
+0
+3.898.343
+3632
+Kapitalne pomoći unutar opće države
+3.632.992
+265.351
+0
+3.898.343
+A695087
+REGIONALNI RAZVOJ PRIMORSKO-GORANSKE ŽUPANIJE
+2.137.054
+0
+-137.054
+2.000.000
+3632
+Kapitalne pomoći unutar opće države
+2.137.054
+0
+-137.054
+2.000.000
+A695088
+REGIONALNI RAZVOJ SISAČKO-MOSLAVAČKE ŽUPANIJE
+3.175.050
+1.291.921
+0
+4.466.971
+3632
+Kapitalne pomoći unutar opće države
+3.175.050
+1.291.921
+0
+4.466.971
+A695089
+REGIONALNI RAZVOJ SPLITSKO-DALMATINSKE ŽUPANIJE
+3.614.674
+8.410.107
+0
+12.024.781
+3632
+Kapitalne pomoći unutar opće države
+3.614.674
+8.410.107
+0
+12.024.781
+A695090
+REGIONALNI RAZVOJ ŠIBENSKO-KNINSKE ŽUPANIJE
+3.223.899
+800.000
+0
+4.023.899
+3632
+Kapitalne pomoći unutar opće države
+3.223.899
+800.000
+0
+4.023.899
+A695091
+REGIONALNI RAZVOJ VARAŽDINSKE ŽUPANIJE
+2.063.784
+978.347
+0
+3.042.131
+3632
+Kapitalne pomoći unutar opće države
+2.063.784
+978.347
+0
+3.042.131
+A695093
+REGIONALNI RAZVOJ VUKOVARSKO-SRIJEMSKE ŽUPANIJE
+4.151.991
+874.049
+0
+5.026.040
+3632
+Kapitalne pomoći unutar opće države
+4.151.991
+874.049
+0
+5.026.040
+A695094
+REGIONALNI RAZVOJ ZADARSKE ŽUPANIJE
+2.723.218
+3.479.722
+0
+6.202.940
+3632
+Kapitalne pomoći unutar opće države
+2.723.218
+3.479.722
+0
+6.202.940
+A695095
+REGIONALNI RAZVOJ ZAGREBAČKE ŽUPANIJE
+2.808.700
+6.730.000
+0
+9.538.700
+3632
+Kapitalne pomoći unutar opće države
+2.808.700
+6.730.000
+0
+9.538.700
+A695232
+IZGRADNJA KOMUNALNE INFRASTRUKTURE U PODUZETNIČKIM ZONAMA
+33.000.000
+0
+-33.000.000
+0
+3632
+Kapitalne pomoći unutar opće države
+33.000.000
+0
+-33.000.000
+0
+120
+URED PUČKOG PRAVOBRANITELJA
+682.143
+78.600
+-78.600
+682.143
+12005
+Ured pučkog pravobranitelja
+682.143
+78.600
+-78.600
+682.143
+1350
+IZVRŠNA UPRAVA I ADMINISTRACIJA
+682.143
+78.600
+-78.600
+682.143
+A649000
+IZVRŠNA I UPRAVNA ADMINISTRACIJA
+682.143
+78.600
+-78.600
+682.143
+3211
+Službena putovanja
+90.000
+33.000
+0
+123.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+75.000
+9.000
+0
+84.000
+3213
+Stručno usavršavanje zaposlenika
+60.000
+0
+-38.100
+21.900
+3221
+Uredski materijal i ostali materijalni rashodi
+100.243
+25.000
+0
+125.243
+3231
+Usluge telefona, pošte i prijevoza
+91.200
+0
+-5.500
+85.700
+3232
+Usluge tekućeg i investicijskog održavanja
+50.500
+5.500
+0
+56.000
+3235
+Zakupnine i najamnine
+36.000
+4.000
+0
+40.000
+3236
+Zdravstvene i veterinarske usluge
+46.000
+1.300
+0
+47.300
+3237
+Intelektualne i osobne usluge
+50.000
+0
+-15.000
+35.000
+3239
+Ostale usluge
+60.000
+0
+-15.600
+44.400
+3292
+Premije osiguranja
+22.200
+0
+-4.400
+17.800
+3294
+Članarine
+1.000
+800
+0
+1.800
+121
+PRAVOBRANITELJ ZA DJECU
+4.968.200
+505.670
+-505.670
+4.968.200
+12105
+Pravobranitelj za djecu
+4.968.200
+505.670
+-505.670
+4.968.200
+1496
+ZAŠTITA DJECE
+160.000
+32.400
+-10.000
+182.400
+T739005
+OBNAVLJANJE SADRŽAJA I IZGLEDA MREŽNE STRANICE PRAVOBRANITELJICE ZA DJECU
+20.000
+400
+0
+20.400
+3233
+Usluge promidžbe i informiranja
+20.000
+400
+0
+20.400
+T739006
+VANJSKA EVALUACIJA DJELOVANJA I DRUŠTVENIH UČINAKA UREDA PRAVOBRANITELJA ZA DJECU, POVODOM 5 GODINA OD USPOSTAVLJANJA INSTITUCIJE
+140.000
+32.000
+-10.000
+162.000
+3211
+Službena putovanja
+20.000
+0
+-10.000
+10.000
+3237
+Intelektualne i osobne usluge
+120.000
+32.000
+0
+152.000
+1842
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+4.808.200
+473.270
+-495.670
+4.785.800
+A739000
+UPRAVA I ADMINISTRACIJA
+4.757.200
+312.170
+-488.670
+4.580.700
+3111
+Plaće za redovan rad
+3.019.000
+0
+-346.100
+2.672.900
+3121
+Ostali rashodi za zaposlene
+70.000
+0
+-17.600
+52.400
+3132
+Doprinosi za zdravstveno osiguranje
+476.000
+0
+-61.800
+414.200
+3133
+Doprinosi za zapošljavanje
+52.000
+0
+-6.570
+45.430
+3211
+Službena putovanja
+280.000
+50.000
+0
+330.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+78.000
+0
+-13.000
+65.000
+3213
+Stručno usavršavanje zaposlenika
+100.000
+45.000
+0
+145.000
+3221
+Uredski materijal i ostali materijalni rashodi
+163.000
+30.000
+0
+193.000
+3222
+Materijal i sirovine
+8.000
+0
+-3.000
+5.000
+3223
+Energija
+66.000
+0
+-7.000
+59.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+20.000
+0
+-12.600
+7.400
+3225
+Sitni inventar i autogume
+2.000
+0
+-2.000
+0
+3232
+Usluge tekućeg i investicijskog održavanja
+22.000
+6.500
+0
+28.500
+3233
+Usluge promidžbe i informiranja
+103.000
+40.000
+0
+143.000
+3234
+Komunalne usluge
+56.000
+0
+-16.500
+39.500
+3235
+Zakupnine i najamnine
+78.200
+2.000
+0
+80.200
+3237
+Intelektualne i osobne usluge
+87.000
+54.670
+0
+141.670
+3238
+Računalne usluge
+30.000
+73.000
+0
+103.000
+3239
+Ostale usluge
+22.000
+10.000
+0
+32.000
+3292
+Premije osiguranja
+21.000
+0
+-2.500
+18.500
+3431
+Bankarske usluge i usluge platnog prometa
+4.000
+1.000
+0
+5.000
+K739001
+INFORMATIZACIJA UREDA
+36.000
+131.100
+0
+167.100
+4123
+Licence
+5.000
+62.100
+0
+67.100
+4221
+Uredska oprema i namještaj
+25.000
+10.000
+0
+35.000
+4262
+Ulaganja u računalne programe
+6.000
+59.000
+0
+65.000
+K739002
+OPREMANJE UREDA
+15.000
+30.000
+-7.000
+38.000
+4221
+Uredska oprema i namještaj
+5.000
+30.000
+0
+35.000
+4222
+Komunikacijska oprema
+5.000
+0
+-2.000
+3.000
+4223
+Oprema za održavanje i zaštitu
+5.000
+0
+-5.000
+0
+123
+PRAVOBRANITELJ ZA OSOBE S INVALIDITETOM
+282.000
+56.000
+-56.000
+282.000
+12305
+Pravobranitelj za osobe s invaliditetom
+282.000
+56.000
+-56.000
+282.000
+1799
+ZAŠTITA OSOBA S INVALIDITETOM
+282.000
+56.000
+-56.000
+282.000
+A826001
+UPRAVA I ADMINISTRACIJA
+282.000
+56.000
+-56.000
+282.000
+3211
+Službena putovanja
+14.000
+9.000
+0
+23.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+13.000
+0
+-3.000
+10.000
+3213
+Stručno usavršavanje zaposlenika
+30.000
+0
+-7.000
+23.000
+3221
+Uredski materijal i ostali materijalni rashodi
+40.000
+0
+-3.000
+37.000
+3223
+Energija
+20.000
+0
+-6.000
+14.000
+3225
+Sitni inventar i autogume
+25.000
+12.000
+0
+37.000
+3231
+Usluge telefona, pošte i prijevoza
+20.000
+0
+-3.000
+17.000
+3232
+Usluge tekućeg i investicijskog održavanja
+25.000
+25.000
+0
+50.000
+3233
+Usluge promidžbe i informiranja
+45.000
+0
+-10.000
+35.000
+3234
+Komunalne usluge
+18.000
+10.000
+0
+28.000
+3235
+Zakupnine i najamnine
+27.000
+0
+-20.000
+7.000
+3292
+Premije osiguranja
+2.000
+0
+-2.000
+0
+3294
+Članarine
+2.000
+0
+-1.000
+1.000
+3433
+Zatezne kamate
+1.000
+0
+-1.000
+0
+150
+DRŽAVNI ZAVOD ZA MJERITELJSTVO
+10.680.672
+737.012
+-737.012
+10.680.672
+15005
+Državni zavod za mjeriteljstvo
+10.680.672
+737.012
+-737.012
+10.680.672
+1371
+UNAPREĐENJE I ODRŽAVANJE MJERITELJSKE DJELATNOSTI
+10.680.672
+737.012
+-737.012
+10.680.672
+A762000
+UNAPREĐENJE I ODRŽAVANJE MJERITELJSKE DJELATNOSTI
+7.723.672
+560.112
+-565.635
+7.718.149
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+550.000
+0
+-51.000
+499.000
+3213
+Stručno usavršavanje zaposlenika
+100.000
+20.000
+0
+120.000
+3221
+Uredski materijal i ostali materijalni rashodi
+500.000
+0
+-100.000
+400.000
+3223
+Energija
+900.000
+0
+-100.000
+800.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+26.000
+0
+-10.000
+16.000
+3225
+Sitni inventar i autogume
+140.000
+0
+-27.000
+113.000
+3231
+Usluge telefona, pošte i prijevoza
+900.000
+0
+-120.000
+780.000
+3232
+Usluge tekućeg i investicijskog održavanja
+1.537.000
+349.612
+0
+1.886.612
+3234
+Komunalne usluge
+300.000
+0
+-60.000
+240.000
+3235
+Zakupnine i najamnine
+2.113.672
+0
+-80.000
+2.033.672
+3236
+Zdravstvene i veterinarske usluge
+3.000
+0
+-2.335
+665
+3237
+Intelektualne i osobne usluge
+480.000
+120.000
+0
+600.000
+3239
+Ostale usluge
+150.000
+70.000
+0
+220.000
+3299
+Ostali nespomenuti rashodi poslovanja
+5.000
+0
+-3.500
+1.500
+3431
+Bankarske usluge i usluge platnog prometa
+5.000
+500
+0
+5.500
+3433
+Zatezne kamate
+11.000
+0
+-9.500
+1.500
+3434
+Ostali nespomenuti financijski rashodi
+3.000
+0
+-2.300
+700
+K762001
+UMJERAVANJE DRŽAVNIH ETALONA SA MEĐUNARODNIM ETALONIMA
+1.630.000
+73.200
+0
+1.703.200
+4225
+Instrumenti, uređaji i strojevi
+1.630.000
+73.200
+0
+1.703.200
+K762002
+IZGRADNJA I OPREMANJE POSLOVNOG PROSTORA
+1.112.000
+34.200
+-171.377
+974.823
+4221
+Uredska oprema i namještaj
+108.000
+34.200
+0
+142.200
+4222
+Komunikacijska oprema
+4.000
+0
+-1.377
+2.623
+4511
+Dodatna ulaganja na građevinskim objektima
+1.000.000
+0
+-170.000
+830.000
+K762004
+INFORMATIZACIJA ZAVODA
+215.000
+69.500
+0
+284.500
+4221
+Uredska oprema i namještaj
+185.000
+43.500
+0
+228.500
+4262
+Ulaganja u računalne programe
+30.000
+26.000
+0
+56.000
+151
+HRVATSKI ZAVOD ZA NORME
+1.239.500
+65.500
+-65.500
+1.239.500
+15105
+Hrvatski zavod za norme
+1.239.500
+65.500
+-65.500
+1.239.500
+1579
+RAZVOJ NORMIZACIJSKOG SUSTAVA
+1.239.500
+65.500
+-65.500
+1.239.500
+A651002
+RAZVOJ NORMIZACIJSKOG SUSTAVA
+1.237.500
+65.500
+-63.500
+1.239.500
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+282.000
+32.000
+0
+314.000
+3221
+Uredski materijal i ostali materijalni rashodi
+150.000
+10.000
+0
+160.000
+3223
+Energija
+21.000
+0
+-4.000
+17.000
+3225
+Sitni inventar i autogume
+12.000
+16.900
+0
+28.900
+3231
+Usluge telefona, pošte i prijevoza
+401.700
+0
+-50.000
+351.700
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+351.300
+6.600
+0
+357.900
+3292
+Premije osiguranja
+5.000
+0
+-2.000
+3.000
+3299
+Ostali nespomenuti rashodi poslovanja
+10.000
+0
+-5.000
+5.000
+3434
+Ostali nespomenuti financijski rashodi
+4.500
+0
+-2.500
+2.000
+K651006
+IZGRADNJA I OPREMANJE POSLOVNOG PROSTORA
+2.000
+0
+-2.000
+0
+4223
+Oprema za održavanje i zaštitu
+2.000
+0
+-2.000
+0
+152
+HRVATSKA AKREDITACIJSKA AGENCIJA
+3.837.540
+150.000
+-150.000
+3.837.540
+15205
+Hrvatska akreditacijska agencija
+3.837.540
+150.000
+-150.000
+3.837.540
+1581
+RAZVOJ AKREDITACIJSKOG SUSTAVA
+3.837.540
+150.000
+-150.000
+3.837.540
+A652002
+RAZVOJ AKREDITACIJSKOG SUSTAVA
+3.737.540
+150.000
+-109.000
+3.778.540
+3111
+Plaće za redovan rad
+2.798.000
+133.000
+0
+2.931.000
+3121
+Ostali rashodi za zaposlene
+97.000
+0
+-9.000
+88.000
+3132
+Doprinosi za zdravstveno osiguranje
+453.000
+15.000
+0
+468.000
+3133
+Doprinosi za zapošljavanje
+50.500
+2.000
+0
+52.500
+3222
+Materijal i sirovine
+59.000
+0
+-20.000
+39.000
+3231
+Usluge telefona, pošte i prijevoza
+168.000
+0
+-50.000
+118.000
+3233
+Usluge promidžbe i informiranja
+91.600
+0
+-20.000
+71.600
+3299
+Ostali nespomenuti rashodi poslovanja
+20.440
+0
+-10.000
+10.440
+K652004
+OPREMANJE POSLOVNOG PROSTORA
+100.000
+0
+-41.000
+59.000
+4222
+Komunikacijska oprema
+50.000
+0
+-30.000
+20.000
+4223
+Oprema za održavanje i zaštitu
+50.000
+0
+-11.000
+39.000
+156
+DRŽAVNI ZAVOD ZA INTELEKTUALNO VLASNIŠTVO
+16.127.757
+306.952
+-306.952
+16.127.757
+15605
+Državni zavod za intelektualno vlasništvo
+16.127.757
+306.952
+-306.952
+16.127.757
+1374
+INFORMATIZACIJA ZAVODA
+450.000
+20.000
+-10.000
+460.000
+K763001
+INFORMATIZACIJA ZAVODA
+380.000
+20.000
+0
+400.000
+4123
+Licence
+380.000
+20.000
+0
+400.000
+K763003
+INFORMATIZACIJA ZAVODA - PHARE 2006
+70.000
+0
+-10.000
+60.000
+4123
+Licence
+70.000
+0
+-10.000
+60.000
+1375
+OPREMANJE ZAVODA
+50.000
+0
+-3.952
+46.048
+K763002
+OPREMANJE ZAVODA
+50.000
+0
+-3.952
+46.048
+4221
+Uredska oprema i namještaj
+45.000
+0
+-2.285
+42.715
+4222
+Komunikacijska oprema
+5.000
+0
+-1.667
+3.333
+1376
+ZAŠTITA PRAVA INTELEKTUALNOG VLASNIŠTVA
+15.627.757
+286.952
+-293.000
+15.621.709
+A763000
+ZAŠTITA PRAVA INTELEKTUALNOG VLASNIŠTVA
+15.097.757
+286.952
+-258.000
+15.126.709
+3111
+Plaće za redovan rad
+10.350.000
+0
+-190.000
+10.160.000
+3113
+Plaće za prekovremeni rad
+570.000
+30.000
+0
+600.000
+3121
+Ostali rashodi za zaposlene
+449.000
+10.000
+0
+459.000
+3211
+Službena putovanja
+585.000
+15.000
+0
+600.000
+3213
+Stručno usavršavanje zaposlenika
+190.000
+0
+-10.000
+180.000
+3221
+Uredski materijal i ostali materijalni rashodi
+428.757
+30.000
+0
+458.757
+3222
+Materijal i sirovine
+30.000
+0
+-5.000
+25.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+30.000
+0
+-7.000
+23.000
+3231
+Usluge telefona, pošte i prijevoza
+610.000
+0
+-30.000
+580.000
+3232
+Usluge tekućeg i investicijskog održavanja
+154.000
+25.000
+0
+179.000
+3233
+Usluge promidžbe i informiranja
+580.000
+94.952
+0
+674.952
+3237
+Intelektualne i osobne usluge
+787.500
+53.000
+0
+840.500
+3238
+Računalne usluge
+220.000
+0
+-10.000
+210.000
+3294
+Članarine
+95.500
+29.000
+0
+124.500
+3299
+Ostali nespomenuti rashodi poslovanja
+18.000
+0
+-6.000
+12.000
+T763004
+POTICANJE ZAŠTITE INTELEKTUALNOG VLASNIŠTVA - IP4INNO
+530.000
+0
+-35.000
+495.000
+3211
+Službena putovanja
+160.000
+0
+-15.000
+145.000
+3237
+Intelektualne i osobne usluge
+370.000
+0
+-20.000
+350.000
+160
+DRŽAVNI ZAVOD ZA STATISTIKU
+10.387.330
+915.000
+-915.000
+10.387.330
+16005
+Državni zavod za statistiku
+10.387.330
+915.000
+-915.000
+10.387.330
+1379
+OSNOVNA DJELATNOST STATISTIKE
+6.982.000
+915.000
+-83.163
+7.813.837
+A658038
+OSNOVNA DJELATNOST STATISTIKE
+5.442.000
+560.000
+-15.000
+5.987.000
+3211
+Službena putovanja
+270.000
+50.000
+0
+320.000
+3213
+Stručno usavršavanje zaposlenika
+420.000
+90.000
+0
+510.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+54.000
+20.000
+0
+74.000
+3232
+Usluge tekućeg i investicijskog održavanja
+3.120.000
+100.000
+0
+3.220.000
+3234
+Komunalne usluge
+1.563.000
+300.000
+0
+1.863.000
+3299
+Ostali nespomenuti rashodi poslovanja
+15.000
+0
+-15.000
+0
+K658035
+INFORMATIZACIJA ZAVODA
+820.000
+305.000
+-30.000
+1.095.000
+3237
+Intelektualne i osobne usluge
+120.000
+0
+-30.000
+90.000
+4123
+Licence
+100.000
+183.000
+0
+283.000
+4221
+Uredska oprema i namještaj
+600.000
+122.000
+0
+722.000
+K658036
+OPREMANJE ZAVODA
+550.000
+50.000
+-8.163
+591.837
+4221
+Uredska oprema i namještaj
+280.000
+50.000
+0
+330.000
+4227
+Uređaji, strojevi i oprema za ostale namjene
+270.000
+0
+-8.163
+261.837
+K658094
+OBNOVA VOZNOG PARKA
+170.000
+0
+-30.000
+140.000
+4231
+Prijevozna sredstva u cestovnom prometu
+170.000
+0
+-30.000
+140.000
+1381
+STATISTIČKE INFRASTRUKTURE
+805.600
+0
+-675.600
+130.000
+A658096
+REVIZIJA NACIONALNE KLASIFIKACIJE DJELATNOSTI
+805.600
+0
+-675.600
+130.000
+3231
+Usluge telefona, pošte i prijevoza
+805.600
+0
+-675.600
+130.000
+1382
+STRUKTURNE I EKONOMSKE STATISTIKE POLJOPRIVREDE
+2.599.730
+0
+-156.237
+2.443.493
+A658041
+ANKETA O BROJU STOKE
+662.730
+0
+-35.077
+627.653
+3211
+Službena putovanja
+10.000
+0
+-2.317
+7.683
+3237
+Intelektualne i osobne usluge
+652.730
+0
+-32.760
+619.970
+A658063
+PROCJENA BILJNE PROIZVODNJE
+1.781.000
+0
+-65.203
+1.715.797
+3211
+Službena putovanja
+67.000
+0
+-40.000
+27.000
+3237
+Intelektualne i osobne usluge
+1.714.000
+0
+-25.203
+1.688.797
+A658065
+REGISTAR POLJOPRIVREDNIH GOSPODARSTAVA
+156.000
+0
+-55.957
+100.043
+3211
+Službena putovanja
+18.000
+0
+-18.000
+0
+3237
+Intelektualne i osobne usluge
+138.000
+0
+-37.957
+100.043
+180
+DRŽAVNA GEODETSKA UPRAVA
+211.486.760
+13.136.380
+-6.636.000
+217.987.140
+18005
+Državna geodetska uprava
+209.886.760
+11.572.380
+-6.580.000
+214.879.140
+1384
+ADMINISTRACIJA I UPRAVLJANJE DRŽAVNE GEODETSKE UPRAVE
+145.728.760
+9.492.380
+-1.230.000
+153.991.140
+A251923
+OBVEZE PO SUDSKIM SPOROVIMA
+50.000
+0
+-50.000
+0
+3111
+Plaće za redovan rad
+50.000
+0
+-50.000
+0
+A664000
+ADMINISTRACIJA I UPRAVLJANJE DRŽAVNE GEODETSKE UPRAVE
+140.820.000
+3.911.580
+-1.180.000
+143.551.580
+3111
+Plaće za redovan rad
+81.650.000
+0
+-150.000
+81.500.000
+3113
+Plaće za prekovremeni rad
+1.000.000
+550.000
+0
+1.550.000
+3121
+Ostali rashodi za zaposlene
+6.000.000
+0
+-900.000
+5.100.000
+3132
+Doprinosi za zdravstveno osiguranje
+12.863.000
+65.000
+0
+12.928.000
+3133
+Doprinosi za zapošljavanje
+1.500.000
+13.500
+0
+1.513.500
+3211
+Službena putovanja
+2.200.000
+610.000
+0
+2.810.000
+3212
+Naknade za prijevoz, za rad na terenu i odvojeni život
+6.500.000
+250.000
+0
+6.750.000
+3221
+Uredski materijal i ostali materijalni rashodi
+2.751.000
+460.000
+0
+3.211.000
+3223
+Energija
+4.000.000
+107.000
+0
+4.107.000
+3224
+Materijal i dijelovi za tekuće i investicijsko održavanje
+1.600.000
+0
+-10.000
+1.590.000
+3231
+Usluge telefona, pošte i prijevoza
+6.391.000
+140.000
+0
+6.531.000
+3232
+Usluge tekućeg i investicijskog održavanja
+4.080.000
+0
+-120.000
+3.960.000
+3233
+Usluge promidžbe i informiranja
+400.000
+120.000
+0
+520.000
+3234
+Komunalne usluge
+4.230.000
+275.000
+0
+4.505.000
+3235
+Zakupnine i najamnine
+2.485.000
+711.000
+0
+3.196.000
+3237
+Intelektualne i osobne usluge
+1.000.000
+400.080
+0
+1.400.080
+3238
+Računalne usluge
+2.170.000
+210.000
+0
+2.380.000
+K664012
+OBNOVA VOZNOG PARKA
+1.543.760
+250.000
+0
+1.793.760
+4231
+Prijevozna sredstva u cestovnom prometu
+1.543.760
+250.000
+0
+1.793.760
+K664013
+INFORMATIZACIJA UPRAVE
+3.315.000
+5.330.800
+0
+8.645.800
+4123
+Licence
+1.261.000
+1.117.000
+0
+2.378.000
+4221
+Uredska oprema i namještaj
+1.323.000
+2.067.800
+0
+3.390.800
+4262
+Ulaganja u računalne programe
+731.000
+2.146.000
+0
+2.877.000
+1385
+DRŽAVNA IZMJERA
+2.500.000
+280.000
+-230.000
+2.550.000
+A664002
+TEMELJNE GEODETSKE OSNOVE DRŽAVNE IZMJERE
+2.000.000
+180.000
+-180.000
+2.000.000
+3237
+Intelektualne i osobne usluge
+1.400.000
+0
+-180.000
+1.220.000
+3239
+Ostale usluge
+600.000
+180.000
+0
+780.000
+A664004
+USPOSTAVA I ODRŽAVANJE GRANIČNE CRTE RH
+500.000
+100.000
+-50.000
+550.000
+3237
+Intelektualne i osobne usluge
+450.000
+100.000
+0
+550.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+50.000
+0
+-50.000
+0
+1387
+KATASTAR ZEMLJIŠTA I USPOSTAVA KATASTRA NEKRETNINA
+48.940.000
+50.000
+-4.100.000
+44.890.000
+A664001
+ODRŽAVANJE KATASTRA ZEMLJIŠTA I USPOSTAVA KATASTRA NEKRETNINA
+30.976.964
+50.000
+-400.000
+30.626.964
+3237
+Intelektualne i osobne usluge
+30.146.964
+0
+-400.000
+29.746.964
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+830.000
+50.000
+0
+880.000
+A664034
+VOĐENJE I ODRŽAVANJE ZAJEDNIČKOG INFORAMCIJSKOG SUSTAVA ZEMLJIŠNIH KNJIGA I KATASTRA
+4.300.000
+0
+-2.950.000
+1.350.000
+3231
+Usluge telefona, pošte i prijevoza
+500.000
+0
+-450.000
+50.000
+3232
+Usluge tekućeg i investicijskog održavanja
+1.500.000
+0
+-1.400.000
+100.000
+3238
+Računalne usluge
+2.300.000
+0
+-1.100.000
+1.200.000
+T664009
+KATASTAR NEKRETNINA DOLINE NERETVE
+5.343.036
+0
+-400.000
+4.943.036
+3237
+Intelektualne i osobne usluge
+5.343.036
+0
+-400.000
+4.943.036
+T664010
+UREĐENJE POSJEDOVNE I VLASNIČKO PRAVNE EVIDENCIJE NA OTOCIMA
+8.320.000
+0
+-350.000
+7.970.000
+3237
+Intelektualne i osobne usluge
+8.320.000
+0
+-350.000
+7.970.000
+1388
+NACIONALNA INFRASTRUKTURA PROSTORNIH PODATAKA
+5.633.000
+550.000
+-1.020.000
+5.163.000
+A664003
+PROSTORNI INFORMACIJSKI SUSTAV
+2.823.000
+420.000
+-620.000
+2.623.000
+3237
+Intelektualne i osobne usluge
+2.000.000
+0
+-620.000
+1.380.000
+3238
+Računalne usluge
+823.000
+420.000
+0
+1.243.000
+A664006
+REGISTAR PROSTORNIH JEDINICA RH
+1.550.000
+130.000
+-200.000
+1.480.000
+3237
+Intelektualne i osobne usluge
+750.000
+0
+-200.000
+550.000
+3238
+Računalne usluge
+800.000
+130.000
+0
+930.000
+T664029
+USPOSTAVA KATASTRA NEKRETNINA I PROSTORNIH PODLOGA NACIONALNIH PARKOVA I KULTURNIH DOBARA RH PODRŽANO GISOM
+1.260.000
+0
+-200.000
+1.060.000
+3237
+Intelektualne i osobne usluge
+1.260.000
+0
+-200.000
+1.060.000
+1576
+KATASTAR NEKRETNINA-MEĐUNARODNA SURADNJA
+7.085.000
+1.200.000
+0
+8.285.000
+K664022
+PROJEKT SREĐIVANJA ZEMLJIŠNIH KNJIGA I KATASTRA (IBRD 4674 HR, EU CARDS TF051781)
+7.085.000
+1.200.000
+0
+8.285.000
+4221
+Uredska oprema i namještaj
+7.085.000
+1.200.000
+0
+8.285.000
+18010
+Hrvatski geodetski institut
+1.600.000
+1.564.000
+-56.000
+3.108.000
+1386
+DRŽAVNA IZMJERA I KATASTAR NEKRETNINA
+1.600.000
+1.564.000
+-56.000
+3.108.000
+A731003
+ADMINISTRACIJA I UPRAVLJANJE HRVATSKIM GEODETSKIM INSTITUTOM
+1.336.000
+234.000
+-56.000
+1.514.000
+3113
+Plaće za prekovremeni rad
+150.000
+65.000
+0
+215.000
+3121
+Ostali rashodi za zaposlene
+55.000
+25.600
+0
+80.600
+3132
+Doprinosi za zdravstveno osiguranje
+300.000
+16.000
+0
+316.000
+3133
+Doprinosi za zapošljavanje
+40.000
+1.400
+0
+41.400
+3211
+Službena putovanja
+180.000
+10.000
+0
+190.000
+3213
+Stručno usavršavanje zaposlenika
+90.000
+0
+-25.000
+65.000
+3221
+Uredski materijal i ostali materijalni rashodi
+60.000
+13.000
+0
+73.000
+3223
+Energija
+50.000
+10.000
+0
+60.000
+3225
+Sitni inventar i autogume
+20.000
+0
+-18.000
+2.000
+3231
+Usluge telefona, pošte i prijevoza
+75.000
+10.000
+0
+85.000
+3232
+Usluge tekućeg i investicijskog održavanja
+100.000
+45.000
+0
+145.000
+3234
+Komunalne usluge
+70.000
+10.000
+0
+80.000
+3237
+Intelektualne i osobne usluge
+50.000
+28.000
+0
+78.000
+3291
+Naknade za rad predstavničkih i izvršnih tijela, povjerenstava i slično
+96.000
+0
+-13.000
+83.000
+K731004
+INFORMATIZACIJA INSTITUTA
+264.000
+1.330.000
+0
+1.594.000
+4221
+Uredska oprema i namještaj
+55.000
+631.000
+0
+686.000
+4262
+Ulaganja u računalne programe
+209.000
+699.000
+0
+908.000
+185
+DRŽAVNI URED ZA REVIZIJU
+1.593.000
+320.000
+-320.000
+1.593.000
+18505
+Državni ured za reviziju
+1.593.000
+320.000
+-320.000
+1.593.000
+1389
+REDOVNA DJELATNOST DRŽAVNOG UREDA ZA REVIZIJU
+1.593.000
+320.000
+-320.000
+1.593.000
+A665000
+ADMINISTRACIJA I UPRAVLJANJE
+1.593.000
+320.000
+-320.000
+1.593.000
+3221
+Uredski materijal i ostali materijalni rashodi
+833.000
+230.000
+0
+1.063.000
+3225
+Sitni inventar i autogume
+110.000
+50.000
+0
+160.000
+3237
+Intelektualne i osobne usluge
+300.000
+0
+-40.000
+260.000
+3239
+Ostale usluge
+50.000
+40.000
+0
+90.000
+3712
+Naknade građanima i kućanstvima u naravi
+300.000
+0
+-280.000
+20.000
+240
+URED VIJEĆA ZA NACIONALNU SIGURNOST
+687.000
+55.000
+-55.000
+687.000
+241
+OPERATIVNO-TEHNIČKI CENTAR ZA NADZOR TELEKOMUNIKACIJA
+10.609.000
+422.000
+-422.000
+10.609.000
+242
+ZAVOD ZA SIGURNOST INFORMACIJSKIH SUSTAVA
+7.062.000
+440.000
+-440.000
+7.062.000
+255
+DRŽAVNI ZAVOD ZA ZAŠTITU OD ZRAČENJA
+550.320
+85.500
+-85.500
+550.320
+25505
+Državni zavod za zaštitu od zračenja
+550.320
+85.500
+-85.500
+550.320
+1542
+REDOVNA ADMINISTRATIVNA DJELATNOST ZAVODA ZA ZAŠTITU OD ZRAČENJA
+550.320
+85.500
+-85.500
+550.320
+A766000
+UPRAVA I ADMINISTRACIJA
+458.000
+45.500
+-85.500
+418.000
+3221
+Uredski materijal i ostali materijalni rashodi
+35.000
+20.000
+0
+55.000
+3225
+Sitni inventar i autogume
+3.000
+9.000
+0
+12.000
+3232
+Usluge tekućeg i investicijskog održavanja
+15.000
+6.500
+0
+21.500
+3233
+Usluge promidžbe i informiranja
+5.000
+10.000
+0
+15.000
+3235
+Zakupnine i najamnine
+400.000
+0
+-85.500
+314.500
+K766001
+OPREMANJE ZAVODA
+92.320
+40.000
+0
+132.320
+4221
+Uredska oprema i namještaj
+70.000
+10.000
+0
+80.000
+4262
+Ulaganja u računalne programe
+22.320
+30.000
+0
+52.320
+260
+DRŽAVNI ZAVOD ZA NUKLEARNU SIGURNOST
+3.149.000
+118.000
+-118.000
+3.149.000
+26005
+Državni zavod za nuklearnu sigurnost
+3.149.000
+118.000
+-118.000
+3.149.000
+1113
+NUKLEARNA SIGURNOST REPUBLIKE HRVATSKE
+3.149.000
+118.000
+-118.000
+3.149.000
+A769003
+ADMINISTRACIJA I UPRAVLJANJE
+2.629.000
+118.000
+-25.000
+2.722.000
+3111
+Plaće za redovan rad
+2.140.000
+101.000
+0
+2.241.000
+3132
+Doprinosi za zdravstveno osiguranje
+332.200
+15.600
+0
+347.800
+3133
+Doprinosi za zapošljavanje
+36.800
+1.400
+0
+38.200
+3294
+Članarine
+120.000
+0
+-25.000
+95.000
+K769010
+PRIPRAVNOST ZA SLUČAJ NUKLEARNE NESREĆE
+300.000
+0
+-55.000
+245.000
+3237
+Intelektualne i osobne usluge
+300.000
+0
+-55.000
+245.000
+K769011
+KONTROLA NUKLEARNOG MATERIJALA
+220.000
+0
+-38.000
+182.000
+3237
+Intelektualne i osobne usluge
+220.000
+0
+-38.000
+182.000
+III.
+Ova Odluka je sastavni dio Državnog proračuna Republike Hrvatske za 2008. godinu.
+IV.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
