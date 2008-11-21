@@ -1,0 +1,4 @@
+# Članak 3.
+Ugovorne stranke međusobno će se izvještavati o svojim znanstvenim i tehničkim dostignućima i iskustvima s područja zaštite od prirodnih i civilizacijskih katastrofa, u interesu predviđanja, uklanjanja prirodnih i civilizacijskih katastrofa i djelotvorne zaštite i spašavanja. Razmjena podataka i drugih dokumenata obuhvaća prirodne i civilizacijske katastrofe, izradu zajedničkog znanstvenoistraživačkog programa za slučaj ugroženosti, planove za slučaj opće opasnosti od prirodnih i civilizacijskih katastrofa i opasnosti koje su od obostranog interesa za ugovorne stranke te suradnju u izradi planova za zaštitu i spašavanje.
+Suradnja na tom području obavljat će se sukladno nacionalnim zakonodavstvima ugovornih stranaka. Ugovorne stranke će međusobno razmijeniti podatke o njihovom nacionalnom zakonodavstvu koje uređuje to područje.
+POTICANJE RAZVITKA I PROIZVODNJE OPREME ZA ZAŠTITU I SPAŠAVANJE

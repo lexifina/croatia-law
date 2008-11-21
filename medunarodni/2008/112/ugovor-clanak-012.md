@@ -1,0 +1,7 @@
+# Članak 12.
+Zrakoplovi i plovila mogu se koristiti za žurne prijevoze spasilačkih ekipa ili pojedinaca koji sudjeluju u pružanju pomoći, kao i za druge oblike pomoći sukladno ovom Sporazumu.
+O korištenju zrakoplova i plovila pri zaštiti i spašavanju te o pružanju pomoći treba odmah obavijestiti tijelo koje je zatražilo pomoć te mu dostaviti točne podatke o vrsti i oznakama zrakoplova i plovila, posadi i teretu. Vrijeme, predviđeni smjer kretanja te mjesto spuštanja, odnosno pristajanja određuje država primateljica.
+Za posade zrakoplova i plovila kao i za spasilačke ekipe te pojedince koji pomažu odgovarajuće se primjenjuju odredbe članka 10. ovoga Sporazuma koje se odnose na prelazak državne granice, a za zrakoplove i plovila, prevezenu zaštitnu i spasilačku opremu, odnosno humanitarnu pomoć primjenjuju se odredbe članka 11. ovoga Sporazuma.
+Za korištenje zrakoplova vrijede propisi o zračnoj plovidbi ugovornih stranaka, osobito obveza javljanja podataka o letovima nadležnim tijelima za zračnu plovidbu. Svaki plan leta mora sadržavati podatke koji povezuju let s ovim Sporazumom.
+Za gašenje požara otvorenog prostora u graničnom području radi sprječavanja njegovog daljnjeg širenja, ugovorne će stranke omogućiti protupožarnim zrakoplovima prelaženje zračnoga graničnog prostora do dubine 10 km uz prethodni dogovor obiju ugovornih stranaka. Protupožarni zrakoplovi Republike Hrvatske su vojni zrakoplovi, vode se u Registru vojnih zrakoplova i njihovi su piloti vojne osobe.
+KORIŠTENJE VOJNIH ZRAKOPLOVA I PLOVILA ZA PRUŽANJE POMOĆI U ZAŠTITI I SPAŠAVANJU
