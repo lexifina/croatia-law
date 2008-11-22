@@ -1,0 +1,6 @@
+# Članak 18.
+1) Veterinarskim pregledima moraju se podvrgnuti biljni proizvodi koji mogu predstavljati rizik za širenje zaraznih ili infektivnih bolesti životinja, kako bi se provjerilo njihovo podrijetlo i planirano odredište. Nadležno tijelo, a nakon pristupanja Republike Hrvatske u članstvo Europske unije, Europska komisija, određuje sljedeće:
+- veterinarske uvjete koje moraju zadovoljiti treće zemlje i jamstva koja moraju dati, posebice vrstu obrade s obzirom na situaciju vezanu za zdravlje životinja,
+- listu trećih zemalja iz kojih je dozvoljen izvoz biljnih proizvoda iz ovoga stavka u Republiku Hrvatsku,
+- posebne inspekcijske postupke koji se odnose na uzimanje uzoraka, a koji se primjenjuju na ove proizvode, posebno u slučaju uvoza u rasutom stanju.
+2) Svježi proizvodi ribarstva koji se odmah iskrcavaju iz ribarskog plovila koje je pod zastavom treće zemlje i prije uvoza na bilo koje područje navedeno u Dodatku I. ovoga Pravilnika podvrgavaju se veterinarskom pregledu u skladu s Pravilnikom o uvjetima i načinu stavljanja u promet riba i drugih morskih organizama (»Narodne novine«, broj 136/06, 63/08 i 104/08)[38]42 koji se odnosi na ribu, koja je izravno iskrcana iz ribarskog plovila, pod zastavom države članice.

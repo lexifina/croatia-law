@@ -1,0 +1,6 @@
+# Članak 22.
+1) Kada se službenim kontrolama koje se provode na mjestu prodaje proizvoda utvrdi da na graničnoj veterinarskoj postaji, u carinskom skladištu, slobodnoj zoni ili slobodnom skladištu iz članka 12. ovoga Pravilnika država članica ne postupa u skladu s odredbama ovoga Pravilnika, bez odlaganja se obavještava nadležno tijelo odnosne države članice.
+2) Ukoliko nadležno tijelo smatra da su mjere koje je poduzela država članica iz stavka 1. ovoga članka nedovoljne, dogovara s nadležnim tijelom odnosne države članice, moguće načine i sredstva za ispravljanje nepravilnosti, a kada je potrebno i suradnju u smislu međusobnih posjeta.
+3) Kada se kontrolama iz stavka 1. ovoga članka utvrdi učestalo postupanje protivno odredbama ovoga Pravilnika, nadležno tijelo Republike Hrvatske obavještava Europsku komisiju i nadležna tijela država članica.
+4) U slučaju postupanja u skladu s odredbama propisanim ovim člankom nadležno tijelo Republike Hrvatske može pojačati preglede proizvoda koji dolaze iz odnosne države.
+5) Nadležno tijelo obavještava osobu odgovornu za pošiljku ili njegovog predstavnika o donesenim odlukama i razlozima za takve odluke. Ukoliko osoba odgovorna za pošiljku ili njegov predstavnik zahtijeva, navedene odluke i razlozi dostavljaju se u pisanom obliku, s uputom o pravnom lijeku.
