@@ -1,0 +1,3 @@
+# Članak 16.
+Za izvođenje pojedinih nastavnih tema i tematskih jedinica iz programskih cjelina za koje Središte za obuku ne raspolaže s osposobljenim i stručnim izvoditeljima nastave iz svoga sastava ili sastava Hrvatskog vojnog učilišta, zapovjednik Središta za obuku u suradnji sa zapovjednikom Obalne straže angažirat će vanjske predavače.
+Prava i obveze vanjskih predavača uredit će se ugovorom između Zapovjedništva Obalne straže i pojedinog predavača kojim će se između ostaloga utvrditi nastavna cjelina koju će predavati, mjesto i vrijeme izvođenja nastave te visina honorara za izvođenje nastave.
