@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 3. (»Narodne novine«, broj 109/07) i članka 16. Pravilnika o načinu rada Odbora za standarde financijskog izvještavanja Odbor za standarde financijskog izvještavanja donio je na sjednici održanoj 3. studenog 2008. godine
