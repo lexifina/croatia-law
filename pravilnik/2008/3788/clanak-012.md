@@ -1,0 +1,7 @@
+# Članak 12.
+Stručna osposobljenost, u smislu ovoga Pravilnika, priznaje se:
+- osobama koje posjeduju Uvjerenje o osposobljenosti za rukovanje opasnim tvarima prema ADR-u prema programu Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri održavanju i skladištenju istih ovog Pravilnika;
+- osobama koje posjeduju Uvjerenje o položenom ispitu za pirotehničara i dozvolu za miniranje pri razminiranju prema programu Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri uništavanju istih ovog Pravilnika;
+- osobama koje posjeduju dozvolu za nadzemna i/ili podzemna miniranja prema programu Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri održavanju i skladištenju istih, Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri uništavanju istih, Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri miniranju u gospodarstvu ovog Pravilnika;
+- osobama koje posjeduju dozvolu za specijalna miniranja prema programu Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri održavanju i skladištenju istih, Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri uništavanju istih, Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri miniranju u gospodarstvu, Tečaja za rukovanje eksplozivnim tvarima i sredstvima pri proizvodnji eksplozivnih tvari i zbrinjavanju eksplozivnog otpada.
+Osobe iz stavka 1. ovoga članka, protekom roka od godine dana od dana stupanja na snagu ovoga Pravilnika, dužne su stručno se osposobljavati sukladno odredbama ovoga Pravilnika.
