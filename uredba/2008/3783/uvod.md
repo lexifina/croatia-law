@@ -1,0 +1,1 @@
+Na temelju članka 159. stavka 2. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, br. 109/2007 i 132/2007), Vlada Republike Hrvatske je na sjednici održanoj 14. studenoga 2008. godine donijela
