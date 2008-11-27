@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (»Narodne novine« broj 79/07) ministar zdravstva i socijalne skrbi uz prethodno pribavljeno mišljenje Hrvatskog zavoda za medicinu rada i Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu, donosi

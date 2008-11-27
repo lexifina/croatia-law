@@ -1,0 +1,3 @@
+# Članak 3.
+Praćenje zdravstvenog stanja radnika profesionalno izloženih azbestu provode doktori specijalisti medicine rada u zdravstvenoj ustanovi, odnosno trgovačkom društvu koje obavlja djelatnost medicine rada ili specijalisti medicine rada u privatnoj praksi uključeni u mrežu ugovornih subjekata medicine rada kao i u zdravstvenim ustanovama, trgovačkim društvima i kod zdravstvenih radnika privatne prakse uključenih u osnovnu mrežu zdravstvene djelatnosti sukladno Zakonu o zdravstvenom osiguranju zaštite zdravlja na radu.
+Subjekti iz stavka 1. ovoga članka provode i dijagnostičke postupke kod sumnje na postojanje profesionalnih bolesti uzrokovane azbestom.
