@@ -1,0 +1,3 @@
+UGOVOR IZMEĐU REPUBLIKE HRVATSKE I KRALJEVINE ŠVEDSKE KOJIM SE MIJENJA I DOPUNJUJE POJEDINAČNI UGOVOR IZMEĐU REPUBLIKE HRVATSKE I KRALJEVINE ŠVEDSKE O »ŠVEDSKOM FONDU ZA POTPORU INSTITUCIJA U REPUBLICI HRVATSKOJ«
+Republika Hrvatska, koju zastupa Ministarstvo vanjskih poslova i europskih integracija i Kraljevina Švedska, koju zastupa Švedska agencija za međunarodnu razvojnu suradnju (Sida),
+sporazumjele su se o izmjenama i dopunama Pojedinačnog ugovora između Republike Hrvatske i Kraljevine Švedske o »Švedskom fondu za potporu institucija u Republici Hrvatskoj«, potpisanog u Zagrebu, 21. prosinca 2005. godine (u daljnjem tekstu »Pojedinačni ugovor«), kako slijedi:
