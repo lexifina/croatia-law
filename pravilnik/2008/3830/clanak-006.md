@@ -1,0 +1,5 @@
+## Informiranje
+# Članak 6.
+(1) Na upit zainteresirane strane korisnik mora dati informaciju o trgovačkom nazivu primijenjenog sredstva, načinu i datumu tretiranja.
+(2) U vrijeme cvatnje poljoprivrednih kultura, korisnik mora najmanje 48 sati prije tretiranja kontaktnim sredstvom opasnim za pčele obavijestiti pčelare. Obavijest mora sadržavati datum i predviđeni sat tretiranja, trgovački naziv sredstva, naziv korisnika sredstva te podatke o mjestu tretiranja. Ako korisniku pčelar nije poznat, mora obavijestiti najbližu udrugu pčelara ili Hrvatski pčelarski savez.
+(3) Kod primjene sredstva zrakoplovom korisnik je obvezan putem sredstava javnog informiranja na lokalnoj razini obavijestiti javnost minimalno 48 sati prije tretiranja. Obavijest mora sadržavati datum i predviđeni sat tretiranja, trgovački naziv sredstva, informaciju o opasnosti sredstva, naziv korisnika sredstva te podatke o mjestu tretiranja. Ako koristi sredstva opasna za pčele obvezan je obavijestiti i Hrvatski pčelarski savez.

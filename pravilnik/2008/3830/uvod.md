@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 7., članka 11. stavka 3. i članka 37. stavka 3. Zakona o sredstvima za zaštitu bilja (»Narodne novine«, br. 70/05) ministar poljoprivrede, ribarstva i ruralnog razvoja uz suglasnost ministra nadležnog za zdravstvo i ministra nadležnog za gospodarstvo, donosi
