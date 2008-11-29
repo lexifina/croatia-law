@@ -1,0 +1,4 @@
+# Članak 22.
+Signalna pirotehnička sredstva s pogonom na eksplozivno punjenje, pirotehničko punjenje za primjenu u uređajima za jednokratno ispaljivanje i pirotehnička sredstva koja se koriste za vatromete na pozornicama, a koja predstavljaju visok rizik i kojima mogu rukovati samo osobe sa stručnim znanjem te su opasnija od sredstava razvrstanih u razred T1, razvrstavaju se u razred T2.
+Osim temeljnih i posebnih sigurnosnih zahtjeva propisanih ovim Pravilnikom, pirotehnička sredstva razreda P1 i P2 moraju ispunjavati i druge zahtjeve kada je to definirano posebnim normama, propisima, ili zahtjevima koji proizlaze iz njihove namjene odnosno pravilima tehničke i stručne praksa u Republike Hrvatske odnosno zemlje proizvođača.
+c) Zahtjevi za uređaje i sredstva za paljenje pirotehničkih sredstava
