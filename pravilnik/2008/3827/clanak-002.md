@@ -1,0 +1,2 @@
+# Članak 2.
+Sigurnosni savjetnik za prijevoz opasnih tvari u cestovnom prometu, željezničkom prometu i prometu unutarnjim plovnim putovima (u daljnjem tekstu: savjetnik) nakon stručnog osposobljavanja ili tečaja obnove znanja može pristupiti provjeri znanja (u daljnjem tekstu: ispit) pred ispitnim povjerenstvom prema odredbama ugovora iz članka 3. stavak 1., 2. i/ili 3. Zakona o prijevozu opasnih tvari (u daljnjem tekstu: Zakon) i ovoga Pravilnika.
