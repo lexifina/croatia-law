@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 4. i članka 31. stavka 4. Zakona o veterinarstvu (»Narodne novine«, broj 41/07) te članka 24. stavka 6. Zakona o stočarstvu (»Narodne novine«, broj 70/97, 36/98, 151/03 i 132/06), ministar poljoprivrede, ribarstva ruralnog razvoja donosi
