@@ -1,0 +1,11 @@
+# Članak 2.
+U smislu ove Uredbe sljedeći izrazi znače:
+- »Opasne tvari u vodama« su tvari opasne za vodni okoliš koje se utvrđuju temeljem sljedećih kriterija: toksičnost, razgradljivosti i bioakumulacije i štetnost djelovanja na život i zdravlje ljudi i stanje okoliša i prirode.
+- »Ispuštanje« znači ispuštanje u vode tvari iz Popisa 1. Dodatka I. ove Uredbe (u daljnjem tekstu: tvari iz Popisa 1.) i tvari iz Popisa 2. Dodatka I. ove Uredbe (u daljnjem tekstu: tvari iz Popisa 2.).
+- »Prioritetne opasne tvari« su pojedinačna zagađivala ili grupe zagađivala koja predstavljaju značajnu opasnost za vodni okoliš te su posebno klasificirana kao opasna. Mjere poduzete kod takvih zagađivala usmjerene su na prestanak ili postupno isključivanje ispuštanja, emisija i gubitaka. Prioritetne opasne tvari su tvari iz Popisa 1., a posebno su označene u Tablici 1. Dodatka II. ove Uredbe (u daljnjem tekstu: Tablica 1).
+- »Standard kakvoće voda (SKV)« označava koncentraciju određenog pojedinačnog zagađivala ili grupe zagađivala u vodi koja se ne smije premašiti radi zaštite ljudskog zdravlja i okoliša. SKV izražen je kao Prosječna godišnja koncentracija (PGK), odnosno Maksimalna dozvoljena koncentracija (MDK).
+- »Prosječna godišnja koncentracija (PGK)« je prosječna koncentracija pojedinog zagađivala ili grupe zagađivala iz Tablice 1. koja se ne smije premašiti unutar cjeline površinske vode s ciljem izbjegavanja ozbiljnih nepovratnih dugoročnih posljedica za ekosustave.
+- »Maksimalna dozvoljena koncentracija (MDK)« je maksimalna koncentracija pojedinog zagađivala ili grupe zagađivala iz Tablice 1. koja se ne smije premašiti unutar cjeline površinske vode s ciljem izbjegavanja ozbiljnih nepovratnih kratkoročnih posljedica za ekosustave.
+- »Toksičnost« označuje svojstvo neke tvari da u živom organizmu izaziva bolest, nenormalno ponašanje, kancerogene i genetičke promjene, fiziološke smetnje, fizičke deformacije odnosno smrt;
+- »Nerazgradljivost« je svojstvo neke tvari da se sporo razgrađuje ili uopće ne razgrađuje u vodama;
+- »Bioakumulacija« je svojstvo tvari da se ulaskom u žive organizme trajno ugrađuju i nakupljaju u staničnim tkivima, te se ulaskom u lance prehrane organizama višeg reda trajno ugrađuju i nakupljaju u tim organizmima, uključivo i čovjeka.
