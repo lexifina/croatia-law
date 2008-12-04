@@ -1,0 +1,57 @@
+# Članak 5.
+U članku 5. tablica 3. mijenja se i glasi:
+»Tablica 3.
+POKAZATELJI
+MJERNE JEDINICE
+METODE ODREĐIVANJA
+FIZIKALNO-KEMIJSKI
+pH
+HRN ISO 10523:1998
+Alkalitet
+mgCaCO3/l
+HRN EN ISO-1:1998
+Električna vodljivost
+µScm-1
+HRN EN 27888:2008
+REŽIM KISIKA
+Otopljeni kisik
+mgO2/l
+HRN EN 25813:2003
+HRN EN 25814:1998
+Zasićenje kisikom
+%
+računski
+KPK-Mn
+mgO2/l
+HRN EN ISO 8467:2001
+BPK5
+mgO2/l
+HRN EN 1899-1:2004
+HRN EN 1899-2:2004
+HRANJIVE TVARI
+Amonij
+mgN/l
+HRN ISO 5664:1998
+HRN ISO 7150-1:1998
+HRN EN ISO 14911:2001
+Nitriti
+mgN/l
+HRN EN 26777:1998
+HRN EN ISO 10304-1:1998
+Nitrati
+mgN/l
+HRN ISO 7890-1:1998
+HRN ISO 7890-3:1998
+HRN EN ISO 10304-1:1998
+Ukupni dušik
+mgN/l
+HRN ISO 5663:20001 + (NO2-N+NO3-N)
+HRN EN ISO 11905-1:2001
+HRN EN 12260:2008
+Ukupni fosfor
+mgP/l
+HRN ISO 6878:2001
+BIOLOŠKI
+P-B indeks saprobnosti
+indikatorske vrste organizama prema Weglu
+«
