@@ -1,0 +1,4 @@
+# Članak 8.
+Električne instalacije za rasvjetu prodavaonica pirotehničkih sredstava moraju biti najmanje IP44 stupnja zaštite, a uključivanje rasvjete se izvodi izvan prodavaonice. Ako se uključivanje rasvjete obavlja unutar prostora isto mora biti u »S« izvedbi - sigurno za rad u eksplozivnoj atmosferi.
+Grijanje prodavaonice pirotehničkih sredstava smije se obavljati samo uređajima na toplu vodu, vodenu paru ili topli zrak koji se ubacuje izvana. Temperatura vanjske površine grijaćeg tijela ne smije biti viša od 74°C, a temperatura zraka kojim se obavlja zagrijavanje ne smije biti viša od 54°C.
+U prodavaonicama pirotehničkih sredstava zabranjeno je držanje zapaljivih tekućina i plinova, oksidirajućih tvari ili drugih lakozapaljivih materijala, kao i unošenje otvorenog plamena i drugih predmeta koji bi mogli prouzročiti požar.
