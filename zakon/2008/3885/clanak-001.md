@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Zakonom uređuje postupak uvođenja, primjene i ukidanja međunarodnih mjera ograničavanja koje Republika Hrvatska uvodi, primjenjuje i ukida u skladu s pravnim aktima i odlukama prihvaćenim u okviru međunarodnih organizacija s ciljem uspostavljanja i (ili) očuvanja međunarodnog mira i sigurnosti, poštivanja ljudskih prava i temeljnih sloboda, razvoja i jačanja demokracije i pravne države te drugih s međunarodnim pravom usklađenih ciljeva.
