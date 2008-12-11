@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 6. Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj: 67/08.), ministar unutarnjih poslova u suglasnosti s državnim tajnikom Središnjeg državnog ureda za upravu donosi
