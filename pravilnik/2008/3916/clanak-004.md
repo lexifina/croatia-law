@@ -1,0 +1,7 @@
+# Članak 4.
+Prijevoz pošiljki iz članka 2. ovoga Pravilnika u i iz skladišta odobrenih u skladu s člankom 12. stavkom 4. točkom (b) ili člankom 13. stavkom 1. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske8 podliježe sljedećim uvjetima:
+- granični veterinarski inspektor na graničnoj veterinarskoj postaji mora utvrditi, po potrebi kontaktirajući odgovarajuće nadležno tijelo, da je nadležno tijelo odgovorno za objekt odredišta odobrilo skladištu u slobodnoj zoni, slobodnom skladištu, carinskom skladištu ili gospodarskom subjektu koji opskrbljuje pomorska prijevozna sredstva u prekograničnom prometu prihvat navedene vrste proizvoda koji ne udovoljavaju utvrđenim važećim propisima,
+- nadležno tijelo odgovorno za objekte otpreme obavještava nadležno tijelo odgovorno za objekte odredišta putem TRACES sustava,
+- plombe koje se koriste, propisane člankom 12. stavcima 7. i 8. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske9 moraju biti takve da se lome pri svakom otvaranju vozila ili spremnika,
+- kopnena prijevozna sredstva kojima se prevoze nesukladni proizvodi moraju se, ukoliko je potrebno, očistiti i dezinficirati nakon uporabe,
+- pošiljke moraju stići na predviđeno odredište u razdoblju od najviše 30 dana od otpreme, u protivnom se daljnje postupanje ustupa carinskoj službi.
