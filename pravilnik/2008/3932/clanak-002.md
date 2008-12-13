@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 2. stavku 1. podstavak 1. mijenja se i glasi:
+»- postaja je građevina koju čine građevinski dio i postrojenje za zapaljive tekućine i/ili ukapljeni naftni plin (u daljem tekstu: UNP) i/ili stlačeni prirodni plin, bioplin, plin iz biomase, vodik ili mješavina zapaljivih plinova (u daljem tekstu: plinska goriva) kao i ostale vrste energetskih izvora, a koja služi za opskrbu prijevoznih sredstava koja se kreću na kopnu, vodi (samo športska i manja turistička plovila) i zraku (samo manji gospodarski i športski zrakoplovi) i to iz podzemnih, poluukopanih i nadzemnih spremnika, a pomoću dobavnih jedinica,«.
