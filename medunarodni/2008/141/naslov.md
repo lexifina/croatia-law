@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Komisije Europskih zajednica za višegodišnji Operativni program "Promet za pomoć" Zajednice iz Instrumenta pretpristupne pomoći u sklopu komponente "Regionalni razvoj" u Hrvatskoj
