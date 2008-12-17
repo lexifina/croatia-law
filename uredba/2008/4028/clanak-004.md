@@ -1,0 +1,4 @@
+## III. DJELOKRUG UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET RAVNATELJA
+# Članak 4.
+Kabinet ravnatelja obavlja stručne, administrativne i protokolarne poslove potrebne za ostvarivanje plana i programa aktivnosti ravnatelja i zamjenika ravnatelja. Koordinira rad pomoćnika ravnatelja službi i načelnika samostalnih odjela i obavlja poslove u vezi s odnosima s Hrvatskim saborom, Vladom Republike Hrvatske i drugim tijelima državne uprave, iz djelokruga Zavoda. U Kabinetu se izrađuju strateški dokumenti Zavoda i objedinjuju izvješća o radu i planovi rada unutarnjih ustrojstvenih jedinica. Kabinet obavlja sve poslove vezane za sastanke stručnog Kolegija, izradu i pohranu odluka i okružnica ravnatelja, te poslove informacijske sigurnosti. Rješava se pošta upućena ravnatelju te se vodi evidencija i pohrana povjerljive pošte.
