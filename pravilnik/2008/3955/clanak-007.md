@@ -1,0 +1,3 @@
+# Članak 7.
+Katastarskim česticama se u popisima katastarskih čestica i u posjedovnim listovima pridružuju podaci o zgradama koje su na njima sagrađene.
+Katastarskim česticama se u popisima katastarskih čestica i u posjedovnim listovima ne pridružuju podaci o zgradama sagrađenim na pravu građenja, zgradama koje su pravno odvojene od katastarske čestice koncesijom i dijelovima zgrada za koje postoji služnosti temeljem koje netko ima pravo imati dio zgrade na poslužnoj nekretnini. Na takvim katastarskim česticama se zemljište koje je prostorno pod zgradom evidentira kao vrsta uporabe zemljišta - zemljište pod zgradama, osim ako je riječ o podzemnim građevinama.
