@@ -1,0 +1,3 @@
+## Prestanak analognog odašiljanja televizijskih programa
+# Članak 11.
+Nakon ispunjavanja uvjeta prelaska s analognog na digitalno odašiljanje televizijskih programa iz članka 8. ovoga Pravilnika postojeći nakladnici televizije moraju prestati s analognim odašiljanjem televizijskih programa u skladu s rokovima utvrđenima regionalnim planom prelaska iz članka 7. stavka 1. ovoga Pravilnika, a pripadajuće dozvole za odašiljanje radijskog ili televizijskog programa, koje su im izdane prema propisima koji su važili do dana stupanja na snagu Zakona, obvezni su bez odgode dostaviti Agenciji radi ukidanja.

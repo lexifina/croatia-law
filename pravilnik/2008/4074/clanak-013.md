@@ -1,0 +1,5 @@
+## Prijelazne odredbe
+# Članak 13.
+(1) Do izdavanja dozvole za uporabu radiofrekvencijskog spektra, namijenjenog digitalnoj radiodifuziji, operatoru mreže u skladu sa Zakonom, odašiljanje radijskih i televizijskih programa u digitalnoj tehnologiji, koje je odobrilo tijelo nadležno za elektroničke medije, može se obavljati na temelju privremene dozvole za uporabu radiofrekvencijskog spektra, izdane u svrhu tržišnog ili tehničkog ispitivanja, istraživanja ili projektiranja, u skladu s odredbama članka 91. Zakona, i to na rok koji nije dulji od godine dana.
+(2) Agencija će rješenjem odbiti zahtjev za izdavanje privremene dozvole iz stavka 1. ovoga članka koji nije u skladu s načelima propisanima Zakonom, ili ako utvrdi da je zahtjev podnesen isključivo u svrhu izbjegavanja primjene postupka izdavanja dozvole iz članka 89. Zakona.
+(3) Nositelj privremene dozvole iz stavka 1. ovoga članka obvezan je, na zahtjev Agencije, u roku od 48 sati prekinuti s odašiljanjem radijskog ili televizijskog programa u slučaju utvrđivanja smetnja radijskim postajama koje rade na temelju izdanih dozvola za uporabu radiofrekvencijskog spektra iz članka 88., 89. ili 90. Zakona.

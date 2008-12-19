@@ -1,0 +1,1 @@
+Na temelju članka 96. stavka 4. i članka 125. stavka 3. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 73/08.) ministar mora, prometa i infrastrukture, na prijedlog Vijeća Hrvatske agencije za poštu i elektroničke komunikacije, i uz prethodno mišljenje Agencije za elektroničke medije, donosi
