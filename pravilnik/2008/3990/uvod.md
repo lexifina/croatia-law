@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 4. Zakona o veterinarstvu (»Narodne novine«, br. 41/07) te članka 65. podstavka osmog i članka 85. podstavka prvog Zakona o hrani (»Narodne novine«, br. 46/07), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
