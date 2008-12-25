@@ -1,0 +1,5 @@
+# Članak 6.
+Iza članka 152. dodaje se članak 152.a koji glasi:
+»Članak 152.a
+(1) Državni odvjetnici u državnim odvjetništvima koja se spajaju, danom spajanja tih državnih odvjetništava prestaju obnašati dužnost i nastavljaju s radom kao zamjenici državnog odvjetnika u spojenom državnom odvjetništvu.
+(2) Kada državni odvjetnici prestanu obnašati svoju dužnost radi spajanja državnih odvjetništava, državni odvjetnik neposredno višega državnog odvjetništva odredit će zamjenika državnog odvjetnika iz tih državnih odvjetništava, odnosno zamjenika državnog odvjetnika iz neposredno višega državnog odvjetništva da obavlja poslove državnoodvjetničke uprave do imenovanja novoga državnog odvjetnika spojenoga državnog odvjetništva, ali najdulje do godinu dana.«
