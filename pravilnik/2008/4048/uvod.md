@@ -1,0 +1,1 @@
+Na temelju članka 31. stavak 3. i članka 33. stavak 5. Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, broj 60/08.) ministar mora, prometa i infrastrukture donosi
