@@ -1,0 +1,4 @@
+# Članak 52.
+Popis katastarskih čestica sadrži podatke o broju katastarske čestice, o lokalnoj oznaci detaljnog lista katastarskog plana na kojem je katastarska čestica prikazana, o adresi katastarske čestice, o vrstama uporabe katastarske čestice odnosno zgradama koje su sastavni dio katastarskih čestica (podaci o vrsti uporabe, nazivu i kućnim brojevima), o površini pod vrstama uporabe odnosno tlocrtnoj površini zgrada, o ukupnoj površini katastarskih čestica, o posebnim pravnim režimima uspostavljenim na katastarskoj čestici te podatak o broju popisnog lista u koji je katastarska čestica upisana.
+Popis katastarskih čestica prije njegove uporabe za potrebe katastarske izmjere odnosno tehničke reambulacije treba biti odobren od strane Središnjeg ureda.
+U okviru odobravanja popisa katastarskih čestica obavlja se provjera evidentiranih vrsta uporabe katastarskih čestica.

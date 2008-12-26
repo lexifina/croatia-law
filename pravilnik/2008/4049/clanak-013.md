@@ -1,0 +1,6 @@
+# Članak 13.
+Nakon provedene homogenizacije katastarski plan se uspoređuje s podacima u popisima katastarskih čestica i posjedovnim listovima i s digitalnim ortofotoplanom te se izrađuju popisi razlika.
+Ako je rezultat usporedbe iz stavka 1. ovog članka takav da je za maksimalno 30 % katastarskih čestica za neku katastarski općinu ili njezin dio potrebno obaviti izmjeru međa i drugih granica katastarskih čestica, za uspoređeno područje provodi se tehnička reambulacija.
+Za područje za koje je potrebno provesti izmjeru međa i drugih granica podaci potrebni za izradu elaborata tehničke reambulacije prikupljaju se po pravilima katastarske izmjere.
+U slučaju iz stavka 2. ovog članka, podatke o međama i drugim granicama za područje na kojem se neće provoditi izmjera međa i drugih granica treba preuzeti iz postojećeg katastra zemljišta, te ih obraditi i prilagoditi katastru nekretnina. Ostali podaci potrebni za izradu elaborata tehničke reambulacije, prikupit će se i obraditi po pravilima katastarske izmjere.
+Ako je rezultat usporedbe iz stavka 1. ovog članka takav da je za više od 30 % katastarskih čestica potrebno obaviti izmjeru međa i drugih granica katastarskih čestica provodi se katastarska izmjera za ukupno uspoređeno područje.

@@ -1,0 +1,2 @@
+# Članak 68.
+Nadzor na terenu obvezno se provodi pri: uspostavljanju dopunskog polja stalnih točaka geodetske osnove, terenskom mjerenju identičnih točaka u svrhu homogenizacije katastarskog plana, kontroli izmjerenih zgrada i drugih građevina (u odnosu na njihov prikaz na katastarskom planu), obilježavanju lomnih točaka međa i drugih granica, izmjeri lomnih točaka međa i drugih granica, kontroli sadržaja skica izmjere i kontroli sadržaja katastarskog plana.

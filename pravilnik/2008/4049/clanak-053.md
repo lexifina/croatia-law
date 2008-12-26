@@ -1,0 +1,2 @@
+# Članak 53.
+Popis zgrada i drugih građevina sadrži podatke o broju zgrade odnosno građevine u katastarskoj općini, o vrsti uporabe zgrade, o nazivu zgrade odnosno građevine, o kućnim brojevima zgrade, o tlocrtnoj površini zgrade, o katastarskoj čestici koje je zgrada ili građevina sastavni dio, o popisnom listu, te podatke o vrsti i oznaci akata odnosno dokumentacije iz izvješća o zgradama i drugim građevinama.
