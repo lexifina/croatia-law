@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o zdravstvenoj ispravnosti i sigurnosti deterdženata (»Narodne novine« broj 77/07) u članku 18. iza stavka 1. dodaje se stavak 2. koji glasi:
+»Danom stupanja na snagu ovoga Pravilnika prestaju važiti Naredba o obaveznom donošenju proizvođačke specifikacije za deterdžente za strojno i ručno pranje tekstilnih predmeta (»Službeni list SFRJ« broj 53/83), Naredba o pakiranju i deklariranju deterdženata u obliku praška za pranje tekstilnih predmeta (»Službeni list SFRJ« broj 53/83), Naredba o pakiranju i deklariranju tekućeg deterdženta za ručno pranje posuđa (»Službeni list SFRJ« broj 34/90) i Naredba o obaveznom donošenju proizvođačke specifikacije za tekuće deterdžente za ručno pranje posuđa (»Službeni list SFRJ« broj 67/85).«

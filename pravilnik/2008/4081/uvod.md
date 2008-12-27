@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4. Zakona o predmetima opće uporabe (»Narodne novine« broj 85/06) ministar zdravstva i socijalne skrbi uz prethodno pribavljeno mišljenje ministrice zaštite okoliša, prostornog uređenja i graditeljstva, ministra gospodarstva, rada i poduzetništva i ministra regionalnog razvoja, šumarstva i vodnog gospodarstva donosi
