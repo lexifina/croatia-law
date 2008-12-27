@@ -1,0 +1,13 @@
+## III. MDK KOJE SE PRIMJENJUJU NA PROIZVODIMA BILJNOG I ŽIVOTINJSKOG PODRIJETLA
+# Članak 7.
+Sukladnost s MDK
+1) Proizvodi navedeni u Prilogu I. ovoga Pravilnika od trenutka stavljanja na tržište kao hrana ili hrana za životinje ili ako su namjenjeni hranidbi životinja ne smiju sadržavati ostatke pesticida koji prekoračuju:
+a) MDK za te proizvode određene u Prilogu II. i III. ovoga Pravilnika;
+b) 0,01 mg/kg za one proizvode za koje u Prilogu II. i III. ovoga Pravilnika nije određen posebni MDK ili za aktivne tvari koje nisu navedene u Prilogu IV. ovoga Pravilnika, osim ako za aktivnu tvar nisu utvrđene drugačije vrijednosti s obzirom na dostupne rutinske analitičke metode. Te vrijednosti objavljuju se u Prilogu V. ovoga Pravilnika.
+(2) Ne smije se zabraniti ili spriječiti stavljanje na tržište proizvoda ili hranidba životinja koje se uzgajaju za proizvodnju hrane proizvodima koji su navedeni u Prilogu I. ovoga Pravilnika ako ti proizvodi sadrže ostatke pesticida, uz uvjete:
+a) da su ti proizvodi u skladu sa stavkom 1. ovoga članka i člankom 9. ovoga Pravilnika; ili
+b) da je aktivna tvar navedena u Prilogu IV. ovoga Pravilnika.
+(3) Iznimno od odredbe stavka 1. ovoga članka, pri fumigaciji usjeva nakon berbe dopuštene su razine ostataka za aktivnu tvar koje prekoračuju ograničenja određena u Prilogu II. i III. ovoga Pravilnika za proizvode navedene u Prilogu I. ovoga Pravilnika, gdje su kombinacije aktivna tvar/proizvod navedene u Prilogu VII. ovoga Pravilnika, uz uvjete:
+a) da ti proizvodi nisu namjenjeni za neposrednu konzumaciju;
+b) da se provodi odgovarajuća kontrola kako bi se osiguralo da takvi proizvodi nisu dostupni krajnjem korisniku ili potrošaču, a u slučaju da su izravno dostavljeni potrošačima, sve dok ostaci više ne prelaze maksimalne razine određene u Prilogu II. i III. ovoga Pravilnika;
+(4) U iznimnim slučajevima, a posebice vezano uz uporabu sredstava za zaštitu bilja u skladu sa člankom 32. Zakona o sredstvima za zaštitu bilja[13] ili sukladno obvezama navedenim u Zakonu o biljnom zdravstvu (»Narodne novine« br. 75/05), Pravilniku o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama (»Narodne novine« br. 74/06) i Pravilnikom o fitosanitarnim zahtjevima kojima mora udovoljavati drveni materijal za pakiranje u međunarodnom prometu (»Narodne novine« br. 14/06)[14] može se dopustiti stavljanje na tržište i/ili hranidba životinja tretiranom hranom ili hranom za životinje koja nije u skladu sa stavkom 1. ovoga članka uz uvjet da takva hrana ili hrana za životinje ne predstavlja neprihvatljivi rizik za zdravlje ljudi i životinja.
