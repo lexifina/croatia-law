@@ -1,0 +1,6 @@
+# Članak 3.
+Individualno usavršavanje provodi se praćenjem propisa i aktualne stručne i znanstvene literature.
+Stručne aktive u autoškoli organizira i provodi stručni voditelj autoškole prema potrebi, a najmanje jednom dvomjesečno, o čemu autoškola vodi evidenciju. Sudjelovanje u radu stručnih aktiva autoškole evidentira stručni voditelj u knjižicu stručne osposobljenosti.
+Stručne aktive ovlaštenih ispitivača organizira i provodi ovlaštena stručna organizacija prema potrebi, a najmanje jednom dvomjesečno. O sudjelovanju u radu stručnih aktiva vodi se zapisnik, s popisom prisutnih ovlaštenih ispitivača.
+Stručna savjetovanja i seminare ovlaštena stručna organizacija organizira i provodi najmanje dva puta u jednoj kalendarskoj godini. Sudjelovanje na stručnim savjetovanjima i seminarima kao i uspješno održano predavanje na stručnom savjetovanju ili seminaru evidentira ovlaštena stručna organizacija i upisuje u knjižicu stručne osposobljenosti na kraju ciklusa stručnog usavršavanja.
+Kondicijsko upravljanje vozilom određene kategorije organizira ovlaštena stručna organizacija. Ispitivač ili nadzornik mora upravljati vozilom najmanje tri nastavna sata u jednoj kalendarskoj godini za svaku kategoriju vozila za koju posjeduje dopuštenje (licenciju). O obavljenoj kondicijskoj vožnji vodi se evidencija.

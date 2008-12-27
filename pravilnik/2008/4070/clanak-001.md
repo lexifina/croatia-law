@@ -1,0 +1,3 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se program, oblici i način stručnog usavršavanja i provjere stručne osposobljenosti stručnih voditelja autoškola, predavača u autoškoli, instruktora vožnje (u daljnjem tekstu: djelatnici autoškola) te ovlaštenih ispitivača nastavnih predmeta Prometni propisi i sigurnosna pravila i Upravljanje vozilom (u daljnjem tekstu: ispitivači) i ovlaštenih nadzornika nad radom autoškola (u daljnjem tekstu: nadzornici).
+Program stručnog usavršavanja i provjere stručne osposobljenosti (u daljnjem tekstu: Program) tiskan je uz ovaj Pravilnik i čini njegov sastavni dio (Prilog 1).
