@@ -1,0 +1,3 @@
+# Članak 15.
+Fotografije se označavaju na način da se potpuna sigurnosna oznaka ispisuje na vrhu ili u dnu fotografije ukoliko se fotografija izrađuje računalnom tehnologijom, i to na način da potpuna sigurnosna oznaka ne utječe na kvalitetu ili uporabnu vrijednost fotografije. U slučajevima kada to nije moguće, potpuna sigurnosna oznaka otiskuje se na poleđini svake fotografije.
+Negativi fotografija označavaju se na način da se potpuna sigurnosna oznaka utisnuta u plastificiranu markicu pričvrsti kao privjesak na negativ. Pričvršćivanje se mora obaviti na dijelu negativa koji ne sadrži snimljeni materijal.

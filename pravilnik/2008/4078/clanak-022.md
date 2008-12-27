@@ -1,0 +1,2 @@
+# Članak 22.
+Ministarstvo zdravstva i socijalne skrbi obvezno je pripremiti sve potrebne štambilje za poslovanje ustrojstvenih jedinica Ministarstva sukladno odredbama Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima i ovoga Pravilnika, u roku od 30 dana od dana stupanja na snagu ovoga Pravilnika.

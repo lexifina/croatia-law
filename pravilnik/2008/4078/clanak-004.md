@@ -1,0 +1,16 @@
+## II. OZNAČAVANJE STUPNJA TAJNOSTI
+# Članak 4.
+Prema stupnju tajnosti, podaci Ministarstva mogu se označiti kao: VRLO TAJNO, TAJNO, POVJERLJIVO i OGRANIČENO.
+Stupnjem tajnosti VRLO TAJNO označavaju se podaci čije bi neovlašteno otkrivanje nanijelo nepopravljivu štetu nacionalnoj sigurnosti i vitalnim interesima Republike Hrvatske, i to osobito sadržani u Planu obrane iz nadležnosti Ministarstva zdravstva i socijalne skrbi.
+Stupnjem tajnosti TAJNO označavaju se podaci i svi izvori čije bi neovlašteno otkrivanje teško naštetilo javnoj sigurnosti, i to: lokacijske dozvole koje Ministarstvo izdaje povodom zahtjeva Ministarstva obrane i Ministarstva unutarnjih poslova, nacrti i konačni tekstovi pregovaračkih stajališta Republike Hrvatske u predpristupnim pregovorima Republike Hrvatske s Europskom unijom, te zajednička pregovaračka stajališta Europske unije, svi elaborati, procjene, projekti, planovi, rješenja izvodljivosti i prateća dokumentacija o namjeravanim ili ostvarenim uredskim, računalnim i telekomunikacijskim sustavima i sredstvima koja će se koristiti od trenutka nastajanja ili prikupljanja, pristupa, obrade, primopredaje i prijenosa do pohrane ili uništenja podataka s oznakom TAJNO, te mediji za pohranu podataka s istom oznakom.
+Stupnjem tajnosti POVJERLJIVO klasificiraju se podaci i svi izvori čije bi neovlašteno otkrivanje naštetilo sigurnosti građana, i to podaci:
+o propusnicama službenika za pristup podacima, zbirkama i podatkovnim sustavima s oznakom POVJERLJIVO, te prilozi i dokumenti kojima je opremljen Plan obrane iz nadležnosti Ministarstva zdravstva i socijalne skrbi.
+Stupnjem tajnosti POVJERLJIVO označavaju se svi elaborati, procjene, projekti, planovi, rješenja izvodljivosti i prateća dokumentacija o namjeravanim ili ostvarenim uredskim, računalnim i komunikacijskim sustavima i sredstvima koja će se koristiti od trenutka nastajanja ili prikupljanja, pristupa, obrade, primopredaje i prijenosa do pohrane ili uništenja podataka s oznakom POVJERLJIVO, te mediji za pohranu podataka s istom oznakom.
+Stupnjem tajnosti OGRANIČENO označavaju se podaci i svi izvori podataka čije bi neovlašteno otkrivanje naštetilo sigurnosti građana, i to:
+- podaci o djelovanju informatičkog i komunikacijskog sustava Ministarstva,
+- podaci o državnim službenicima i namještenicima Ministarstva koji su sadržani u kadrovskim i drugim zbirkama ako nisu klasificirani drugim stupnjevima tajnosti, osim podataka koji se izdaju na zahtjev osobe na koju se odnose,
+- podaci sadržani u upitniku za potpunu/djelomičnu sigurnosnu provjeru
+- dokumenti integriranog planiranja odgovora na krizne situacije, te
+- podaci o propusnicama službenika za pristup podacima, zbirkama i podatkovnim sustavima s oznakom OGRANIČENO.
+Oznakom OGRANIČENO označavaju se i službeni sustavi i sredstva koja se koriste od trenutka nastajanja, pristupa, obrade, primopredaje i prijenosa do pohrane ili uništenja podataka s oznakom OGRANIČENO, te mediji za pohranu podataka s istom oznakom.
+Za podatke označene kao poslovna, bankovna, javnobilježnička, profesionalna tajna ili neka druga vrsta tajne definirane drugim zakonskim i podzakonskim aktima, provode se sve djelatne mjere i postupci kao da se radi o podacima s oznakom NEKLASIFICIRANO.

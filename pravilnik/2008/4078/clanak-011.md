@@ -1,0 +1,7 @@
+## VI. IZRADA I OZNAČAVANJE SLUŽBENOG DOKUMENTA I DRUGIH PREDMETA
+# Članak 11.
+Službenik Ministarstva prilikom izrade službenog dokumenta, sukladno odredbama Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima, i ovoga Pravilnika, označit će službeni dokument odgovarajućom oznakom stupnja tajnosti.
+Službeni dokumenti koji predstavljaju klasificirani podatak s oznakom tajnosti moraju biti naslovljeni na točno određenog primatelja po imenu i prezimenu te nazivu ustrojstvene jedinice.
+Na omotnici u kojoj se dostavljaju službeni dokumenti, u lijevom gornjem uglu upisuje se urudžbeni broj dokumenta i stavlja se pečat. U desnom gornjem uglu omotnice upisuje se oznaka stupnja tajnosti, a ispod toga upisuju se odgovarajuća oznaka načina dostave te oznaka nazivnog vremena dostave. Na sredini omotnice upisuje se naziv i adresa primatelja, a za dokumente s oznakom i ime te funkcija osobe kojoj se dokument dostavlja.
+Upisivanje i zatvaranje omotnice u kojoj se dostavljaju podaci s oznakom stupnja tajnosti obavlja osoba koja je u potpisu dokumenta ili osoba koju potpisnik za to ovlasti, a otvaranje omotnice označene stupnjem tajnosti obavlja osoba na koju je dokument naslovljen, ili osoba koju on za to ovlasti.
+Prilikom dostave između različitih ustrojstvenih jedinica smještenih u istom objektu, dokumenti i podaci koji sadržavaju klasificirane podatke moraju biti zatvoreni u omotnici i označeni potpunom sigurnosnom oznakom.
