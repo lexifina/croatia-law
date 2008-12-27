@@ -1,0 +1,5 @@
+# Članak 10.
+Iznimno od stavka 1. članka 9. ovoga Pravilnika subjekt u poslovanju s hranom ne mora podnijeti zahtjev za izdavanje notifikacijskog broja za dodatke prehrani bez istaknute namjene, i koji su:
+1. na bazi vitamina i/ili minerala, čiji su kemijski oblici sukladni Prilogu I. ovoga Pravilnika i čiji preporučeni dnevni unos ne prelazi najveći dopušteni dnevni unos sukladno Prilogu IV. i V. ovoga Pravilnika ili
+2. na bazi osušenih sirovina iz članka 3. stavak 2. biljnog podrijetla koje dolaze pojedinačno ili kao mješavine u skladu s listom dozvoljenih biljnih vrsta iz Priloga III. ovoga Pravilnika označenih zvjezdicom.
+Subjekt u poslovanju s hranom za vitamine i minerale s količinom većom od najvećeg dopuštenog dnevnog unosa, koji se nalaze na tržištu zemalja Europske unije uz dokaz da se isti proizvodi nalazi na tržištu zemalja Europske unije, nije obvezan podnijeti zahtjev za izdavanje notifikacijskog broja već izvješćuje Ministarstvo o stavljanju istih na tržište Republike Hrvatske.

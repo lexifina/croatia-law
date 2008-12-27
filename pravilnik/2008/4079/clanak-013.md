@@ -1,0 +1,2 @@
+# Članak 13.
+Povjerenstvo može na temelju općeprihvaćenih znanstvenih i stručnih podataka razmatrati biljne vrste i pripravke s biljnim vrstama koje se ne nalaze u Priloga III. ovoga Pravilnika i dodatke prehrani s količinom vitamina i minerala većom od najvećeg dopuštenog dnevnog unosa, a koje su korisni neškodljivi i sigurni, tj. ako nisu jakog djelovanja, s popratnim nuspojavama i nepoželjnim učincima. Na temelju pozitivnog mišljenja Povjerenstva, ministar im može dodijeliti notifikacijski broj.
