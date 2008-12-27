@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti koje mora ispunjavati ovlaštena stručna organizacija za obavljanje poslova organiziranja i jedinstvenog provođenja vozačkih ispita, stručnog nadzora nad radom autoškola, stručnog usavršavanja i provjere stručne osposobljenosti, organiziranja i provođenja stručnih ispita za predavače u autoškolama, stručne voditelje i ovlaštene ispitivače i nadzornike te drugih poslova obavljanje kojih joj je dodijeljeno kao javna ovlast.
