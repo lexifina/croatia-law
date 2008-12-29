@@ -1,0 +1,5 @@
+# Članak 1.
+[OSNIVANJE POSEBNE UNIJE; PODNOŠENJE ŽIGOVA MEĐUNARODNOM UREDU; DEFINICIJA ZEMLJE PODRIJETLA]
+(1) Zemlje na koje se primjenjuje ovaj Sporazum čine Posebnu uniju za međunarodnu registraciju žigova.
+(2) Državljani svake zemlje ugovornice mogu u svim drugim zemljama strankama ovoga Sporazuma osigurati zaštitu svojih žigova koji se primjenjuju na proizvode ili usluge, a koji su registrirani u zemlji podrijetla, podnošenjem prijava spomenutih žigova Međunarodnom uredu za intelektualno vlasništvo (u daljnjem tekstu: Međunarodni ured) iz Konvencije o osnivanju Svjetske organizacije za intelektualno vlasništvo (u daljnjem tekstu: Organizacija) posredstvom ureda zemlje podrijetla.
+(3) Zemljom podrijetla smatra se zemlja Posebne unije u kojoj podnositelj prijave ima stvarno i djelatno industrijsko ili trgovačko poduzeće; ako nema takvo poduzeće u nekoj zemlji Posebne unije, zemljom podrijetla smatra se zemlja Posebne unije u kojoj podnositelj prijave ima prebivalište; ako nema prebivalište u Posebnoj uniji, a državljanin je neke zemlje Posebne unije, zemljom podrijetla smatra se zemlja čiji je državljanin podnositelj prijave.

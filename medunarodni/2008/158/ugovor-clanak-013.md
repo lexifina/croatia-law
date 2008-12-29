@@ -1,0 +1,5 @@
+# Članak 13.
+[IZMJENE I DOPUNE ČLANAKA OD 10. DO 13.]
+(1) Prijedloge za izmjenu i dopunu članaka 10., 11., 12. i ovoga članka može dati svaka zemlja članica Skupštine ili glavni direktor. Te prijedloge glavni direktor mora dostaviti zemljama članicama Skupštine najmanje šest mjeseci prije njihova razmatranja na Skupštini.
+(2) Izmjene i dopune članaka iz stavka 1. mora usvojiti Skupština. Za usvajanje je potrebno tri četvrtine danih glasova, a za svaku izmjenu i dopunu članka 10. i ovoga stavka potrebno je četiri petine danih glasova.
+(3) Svaka izmjena i dopuna članaka navedenih u stavku 1. stupa na snagu istekom jednoga mjeseca nakon što glavni direktor primi od tri četvrtine zemalja, koje su u trenutku usvajanja izmjene i dopune bile članice Skupštine, pisane obavijesti o njihovu prihvaćanju, sastavljene u skladu s njihovim odgovarajućim ustavnim postupcima. Svaka tako usvojena izmjena i dopuna tih članaka obvezuje sve zemlje koje su članice Skupštine u trenutku stupanja izmjene i dopune na snagu, ili koje to postanu nakon toga datuma.
