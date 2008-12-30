@@ -1,0 +1,1 @@
+Na temelju članka 22. i 23. Zakona o žičarama za prijevoz osoba (»Narodne novine«, broj 79/07) ministar mora, prometa i infrastrukture donosi uz suglasnost ministra nadležnog za zaštitu okoliša, prostornog uređenja i graditeljstva

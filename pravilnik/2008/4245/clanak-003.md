@@ -1,0 +1,5 @@
+# Članak 3.
+Cilj sigurnosne analize
+(1) Kod projektiranja žičara i svih rekonstrukcija sigurnosnih sklopova, podsustava ili infrastrukture potrebno je, na zahtjev investitora/glavnog ugovaratelja gradnje odnosno rekonstrukcije žičare ili njegovog ovlaštenog zastupnika, izraditi sigurnosnu analizu kojom treba dokazati da su kod projektiranja, gradnje i puštanja u rad postrojenja uzeti u obzir svi mogući načini rada, svi mogući čimbenici i najnepovoljniji utjecaji bitni za sigurnost sustava i njegovog okoliša, da je postignuta zadovoljavajuća razina sigurnosti sustava i kojom se na temelju prijašnjih iskustava omogućava identifikacija svih rizika koji bi se mogli dogoditi za vrijeme rada.
+(2) Cilj sigurnosne analize jest da proizvođač postrojenja žičare ili rekonstruiranog dijela žičare i upravitelj žičare utvrde i uzmu u obzir sve moguće opasnosti i rizike koji mogu nastati tijekom rada i da odrede potrebne mjere za osiguravanje sigurnosti.
+(3) Sigurnosna analiza je sastavni dio projektne dokumentacije za izgradnju žičare.
