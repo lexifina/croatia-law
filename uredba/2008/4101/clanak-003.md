@@ -1,0 +1,10 @@
+# Članak 3.
+Članak 124. mijenja se i glasi:
+»(1) Emisija SO2, NO2, CO, krutih čestica, temperatura, volumni udio kisika i emitirani maseni protok otpadnih plinova iz velikih uređaja za loženje toplinske snage veće od 100 MW koji koriste kruta goriva, goriva od biomase, tekuća i plinska goriva, osim prirodnog plina, utvrđuje se kontinuiranim mjerenjem.
+(2) Emisija NO2, CO, volumni udio kisika, emitirani maseni protok i temperatura u otpadnim plinovima iz velikih uređaja za loženje toplinske snage veće od 100 MW koji koriste prirodni plin kao gorivo utvrđuje se kontinuiranim mjerenjem.
+(3) Emisija SO2, NO2, CO, krutih čestica, temperatura, volumni udio kisika i emitirani maseni protok otpadnih plinova iz novih velikih uređaja za loženje toplinske snage veće od 50 MW ali manje od 100 MW koji koriste kruta goriva, goriva od biomase, tekuća i plinska goriva utvrđuje se svakih šest mjeseci.
+(4) Emisija SO2, NO2, CO, krutih čestica, temperatura, volumni udio kisika i emitirani maseni protok otpadnih plinova iz postojećih velikih uređaja za loženje toplinske snage veće od 50 MW ali manje od 100 MW koji koriste kruta goriva, goriva od biomase i tekuća goriva, utvrđuje se kontinuiranim mjerenjem.
+(5) Emisija SO2, NO2, CO, krutih čestica, temperatura, volumni udio kisika i emitirani maseni protok otpadnih plinova iz postojećih velikih uređaja za loženje toplinske snage veće od 50 MW ali manje od 100 MW plinska goriva, osim prirodnog plina, utvrđuje se svakih šest mjeseci.
+(6) Emisije SO2 i krutih čestica kod velikih uređaja za loženje koji koriste prirodni plin kao gorivo utvrđuju se svakih šest mjeseci.
+(7) Emisija NO2, CO, volumni udio kisika, emitirani maseni protok i temperatura u otpadnim plinovima iz postojećih velikih uređaja za loženje toplinske snage veće od 50 MW ali manje od 100 MW koji koriste prirodni plin kao gorivo utvrđuje se svakih šest mjeseci.
+(8) Kod uređaja za odsumporavanje otpadnih plinova, stupanj odsumporavanja utvrđuje se kontinuiranim mjerenjem, ako se primjenjuje članak 114. ove Uredbe.«
