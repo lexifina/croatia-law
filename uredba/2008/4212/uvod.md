@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. Zakona o Fondu za financiranje razgradnje i zbrinjavanja radioaktivnog otpada i istrošenoga nuklearnog goriva Nuklearne elektrane Krško (»Narodne novine«, broj 107/2007), Vlada Republike Hrvatske je na sjednici održanoj 24. prosinca 2008. godine donijela

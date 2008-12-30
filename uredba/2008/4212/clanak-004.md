@@ -1,0 +1,2 @@
+# Članak 4.
+Sredstva se uplaćuju na račun Fonda do prestanka rada Nuklearne elektrane Krško sukladno Ugovoru između Vlade Republike Hrvatske i Vlade Republike Slovenije o uređenju statusnih i drugih pravnih odnosa vezanih uz ulaganje, iskorištavanje i razgradnju Nuklearne elektrane Krško (»Narodne novine - Međunarodni ugovori«, broj 9/2002), odnosno dok se ne ostvari planirani iznos sredstava utvrđen važećim Programom razgradnje.
