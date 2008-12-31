@@ -1,0 +1,1 @@
+Na temelju članka 69. stavka 3. Zakona o zaštiti životinja (»Narodne novine«, broj 135/06) i članka 77. stavka 4. Zakona o veterinarstvu (»Narodne novine«, broj 41/07), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
