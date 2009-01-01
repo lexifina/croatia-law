@@ -1,0 +1,2 @@
+# Članak 12.
+Imovinskopravni odnosi na zemljištu u vlasništvu Republike Hrvatske te pravnih osoba koje su u njezinom vlasništvu ili su od nje osnovane, na kojemu je dokumentima prostornog uređenja predviđena izgradnja igrališta za golf u užem smislu, rješavaju se u pravilu osnivanjem prava građenja i pravom služnosti uključujući i pravo služnosti na šumi i/ili šumskom zemljištu, ukoliko ovim Zakonom nije drugačije propisano.

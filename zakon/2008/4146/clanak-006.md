@@ -1,0 +1,2 @@
+# Članak 6.
+U postupku izdavanja akata na temelju kojih se može graditi dokaz da investitor ima pravo graditi igralište za golf, pored dokaza predviđenih posebnim propisima o prostornom uređenju i gradnji, smatra se i poziv na odredbu članka 4. ovoga Zakona, odnosno u slučaju ako nije ispunjen uvjet članka 10. stavka 1. ovoga Zakona i odluka Vlade Republike Hrvatske o utvrđenom interesu Republike Hrvatske za izgradnju igrališta za golf.

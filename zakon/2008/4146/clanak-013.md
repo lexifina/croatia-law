@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Vlada Republike Hrvatske donosi uredbu kojom se uređuju minimalni standardi, sadržaji i uvjeti za golfsko igralište u skladu sa smjernicama iz članka 3. stavka 1. ovoga Zakona, te mjere, kriteriji, nositelji, način utvrđivanja tržišne cijene, pravo građenja, rokovi, postupak, način kontrole i druga važna pitanja koja se odnose na realizaciju projekata izgradnje i gospodarskog korištenja igrališta za golf na zemljištu u vlasništvu Republike Hrvatske, te pravnih osoba koje su u njezinom vlasništvu ili su od nje osnovane.
+(2) Vlada Republike Hrvatske će na svaki način, a naročito planiranjem i izgradnjom infrastrukture, podržavati razvoj izgradnje igrališta za golf.
