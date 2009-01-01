@@ -1,0 +1,26 @@
+# Članak 100.
+Hrvatski zavod za javno zdravstvo obavlja sljedeće poslove:
+- predlaže i provodi istraživanja iz područja zdravstva u svrhu praćenja, analize i ocjene zdravstvenog stanja stanovništva te iz područja organizacije i rada zdravstvenih službi,
+- planira, predlaže i provodi mjere za očuvanje i unapređenje zdravlja stanovništva,
+- zdravstveno-odgojnim i drugim aktivnostima te promicanjem zdravlja čuva i unapređuje zdravlje stanovništva,
+- planira, predlaže, koordinira i prati specifičnu zdravstvenu zaštitu djece i mladeži, osobito u osnovnim i srednjim školama te na visokim učilištima,
+- prati i analizira epidemiološko stanje, predlaže, organizira i provodi preventivne i protuepidemijske mjere,
+- planira, nadzire i evaluira provođenje obveznih imunizacija,
+- planira i nadzire mjere dezinfekcije, dezinsekcije i deratizacije te provodi preventivne i protuepidemijske postupke dezinfekcije, dezinsekcije i deratizacije,
+- obavlja mikrobiološku djelatnost od interesa za Republiku Hrvatsku uključujući sudjelovanje u provedbi i organizaciji međulaboratorijskih usporednih testova na nacionalnoj i međunarodnoj razini te obavlja potvrdne analize,
+- prati, analizira, proučava i ocjenjuje zdravstvenu ispravnost vode za piće, vode za dijalizu, vode za rekreaciju i fizikalnu terapiju, površinske i otpadne vode, stanje vodoopskrbe na terenu, zdravstvene ispravnosti namirnica i predmeta opće uporabe kao i onih namijenjenih međunarodnom prometu,
+- prati i evaluira prehrambeno stanje stanovništva te predlaže javnozdravstvene mjere za unapređenje prehrane,
+- ispituje, prati, analizira i ocjenjuje utjecaj čimbenika okoliša na zdravlje ljudi te predlaže i sudjeluje u provođenju mjera za sprečavanje njihovih štetnih djelovanja,
+- predlaže program mjera zdravstvene zaštite i sudjeluje u izradi nomenklature usluga i poslova,
+- nadzire i evaluira provođenje preventivnih programa te drugih mjera zdravstvene zaštite,
+- obavlja dio poslova preventivne zdravstvene zaštite za Hrvatsku vojsku,
+- prati, proučava i izvješćuje o zdravstvenom stanju hrvatskih branitelja iz Domovinskog rata,
+- planira, predlaže i provodi aktivnosti na uspostavi, razvoju i upravljanju zdravstvenim informacijskim sustavom,
+- sudjeluje u školovanju zdravstvenih radnika, provodi stručna i znanstvena istraživanja iz područja javnog zdravstva,
+- vodi državne javnozdravstvene registre te nadzire prikupljanje podataka i koordinira rad ostalih registara u zdravstvu,
+- provodi zdravstveni odgoj i prosvjećivanje stanovništva o bolestima ovisnosti,
+- prikuplja podatke i evidencije iz područja bolesti ovisnosti (uključujući duhan, alkohol i psihoaktivne droge),
+- oblikuje doktrinu u liječenju bolesti ovisnosti i nadzire njezinu primjenu,
+- daje prethodno mišljenje ministru na posebne programe mjera za suzbijanje i sprečavanje bolesti ovisnosti,
+- sudjeluje u organizaciji i provedbi trajne izobrazbe zdravstvenih i drugih radnika na području suzbijanja i liječenja bolesti ovisnosti.
+Hrvatski zavod za javno zdravstvo koordinira, stručno usmjerava i nadzire rad zavoda za javno zdravstvo županija.

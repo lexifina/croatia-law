@@ -1,0 +1,3 @@
+# Članak 14.
+Dostupnost zdravstvene zaštite ostvaruje se takvim rasporedom zdravstvenih ustanova, trgovačkih društava koja obavljaju zdravstvenu djelatnost i zdravstvenih radnika na području Republike Hrvatske koji će omogućiti stanovništvu podjednake uvjete zdravstvene zaštite, naročito na primarnoj razini zdravstvene djelatnosti.
+Dostupnost zdravstvene zaštite na svom području jedinica područne (regionalne) samouprave osigurava organiziranjem zdravstvene zaštite u ustanovama čiji je osnivač, davanjem koncesija za obavljanje javne zdravstvene službe, koordiniranjem njihovog rada te sudjelovanjem u osiguravanju sredstava za provođenje zdravstvene zaštite na svom području.

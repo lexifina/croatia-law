@@ -1,0 +1,37 @@
+# Članak 26.
+Zdravstvena zaštita na primarnoj razini obuhvaća:
+- praćenje zdravstvenog stanja stanovnika i predlaganje mjera za zaštitu i unapređenje zdravlja stanovnika,
+- sprečavanje i otkrivanje bolesti kao i liječenje i rehabilitaciju bolesnika,
+- specifičnu preventivnu zdravstvenu zaštitu djece i mladeži, osobito u osnovnim i srednjim školama te visokim učilištima na svom području,
+- zdravstvenu zaštitu osoba starijih od 65 godina,
+- zdravstvenu zaštitu žena,
+- zdravstvenu zaštitu osoba s invaliditetom,
+- preventivnu zdravstvenu zaštitu rizičnih skupina i ostalih stanovnika u skladu s programima preventivne zdravstvene zaštite i organiziranjem obveznih preventivnih pregleda,
+- savjetovanje, zdravstveno prosvjećivanje i promicanje zdravlja radi njegovog očuvanja i unapređenja,
+- higijensko-epidemiološku zaštitu,
+- sprečavanje, otkrivanje i liječenje bolesti zubi i usta s rehabilitacijom,
+- zdravstvenu rehabilitaciju djece i mladeži s poremećajima u tjelesnom i duševnom razvoju,
+- patronažne posjete, zdravstvenu njegu u kući bolesnika,
+- medicinu rada,
+- hitnu medicinu,
+- palijativnu skrb,
+- zaštitu mentalnoga zdravlja,
+- opskrbu i izradu lijekova te opskrbu medicinskim proizvodima,
+- sanitetski prijevoz.
+Zdravstvena zaštita na primarnoj razini pruža se kroz djelatnosti:
+- opće/obiteljske medicine,
+- zdravstvene zaštite predškolske djece,
+- preventivno-odgojnih mjera za zdravstvenu zaštitu školske djece i studenata,
+- javnog zdravstva,
+- zdravstvene zaštite žena,
+- stomatološke zdravstvene zaštite,
+- higijensko-epidemiološke zdravstvene zaštite,
+- medicine rada,
+- zdravstvene zaštite mentalnoga zdravlja, prevencije i izvanbolničkog liječenja ovisnosti,
+- patronažne zdravstvene zaštite,
+- zdravstvene njege u kući bolesnika,
+- hitne medicine,
+- sanitetskog prijevoza,
+- palijativne skrbi,
+- ljekarništva te
+- laboratorijske dijagnostike.

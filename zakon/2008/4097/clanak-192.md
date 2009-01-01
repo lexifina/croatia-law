@@ -1,0 +1,7 @@
+# Članak 192.
+Pokop umrle osobe obavlja se nakon što je smrt utvrđena, a u vremenu od 24 do 48 sati od nastupa smrti.
+Iznimno od odredbe stavka 1. ovoga članka, na temelju posebnog odobrenja sanitarnog inspektora, pokop se može obaviti i prije isteka roka od 24 sata, odnosno nakon isteka roka od 48 sati od nastupa smrti.
+Nakon isteka roka od 48 sati od nastupa smrti može se obaviti i pokop posmrtnih ostataka umrle punoljetne osobe koja je za života dala suglasnost za korištenje njezinoga tijela u znanstvene ili nastavne svrhe nakon smrti.
+Ministar će pravilnikom propisati postupak i način davanja suglasnosti iz stavka 3. ovoga članka.
+Iznimno od odredbe stavka 3. ovoga članka, nakon isteka roka od 48 sati od nastupa smrti može se obaviti i pokop umrle osobe koja se za života u pisanom obliku nije protivila uzimanju dijela svoga tijela nakon smrti sukladno Zakonu o uzimanju i presađivanju dijelova ljudskoga tijela u svrhu liječenja, a čije je tijelo korišteno u nastavne svrhe uz odobrenje Etičkog povjerenstva visokog učilišta zdravstvenog usmjerenja jer nema zakonskog ili ugovornog obveznika uzdržavanja koji je obvezan umrlu osobu pokopati ili ona ne ostvaruje pravo pokopa po posebnim propisima ili na drugi način.
+Pokop umrle osobe iz stavka 3. i 5. ovoga članka obavlja visoko učilište zdravstvenog usmjerenja o svom trošku, uz poštovanje pijeteta prema umrloj osobi, a prema mjesnim i vjerskim običajima.
