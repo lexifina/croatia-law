@@ -1,0 +1,8 @@
+# Članak 50.
+(1) Roditelj koji ostvaruje drugi dohodak, roditelj poljoprivrednik, nezaposleni roditelj i roditelj izvan sustava rada, pripadajuće pravo ostvaruje na način i u postupku propisanom ovim Zakonom i provedbenim propisima donesenim na temelju ovoga Zakona.
+(2) Korisniku iz stavka 1. ovoga članka koji zahtjev za korištenje prava iz ovoga Zakona podnese Zavodu u roku od 30 dana od dana rođenja djeteta, pripada pravo na korištenje odnosnog prava od dana rođenja djeteta.
+(3) Korisniku koji zahtjev za korištenje prava ne podnese u roku propisanom stavkom 2. ovoga članka, a zahtjev podnese u roku od 120 dana od rođenja djeteta, pripada pravo na korištenje odnosnog prava od dana podnošenja zahtjeva.
+(4) U zahtjevu za korištenje prava na rodiljnu ili roditeljsku poštedu od rada ili s osnove rodiljne ili roditeljske brige o djetetu, korisnik obvezno naznačuje način korištenja odnosnog prava.
+(5) Zahtjev za prekid korištenja ili prijenos korištenja prava na drugog roditelja, pod uvjetima iz ovoga Zakona, drugi korisnik podnosi najkasnije 30 dana prije naznačenog roka za prekid ili prijenos korištenog prava na drugog roditelja.
+(6) Iznimno, zahtjev za prekid ili prijenos korištenog prava na drugog roditelja može biti podnijet u roku kraćem od utvrđenog stavkom 5. ovoga članka, a koji ne može biti kraći od 8 dana, ako je uvjetovan nepredviđenim socijalnim okolnostima, kao što je smrt u obitelji, teška bolest jednog od članova obitelji ili drugog roditelja ili zaposlenje ili samozaposlenje, o čemu odlučuje Zavod.
+1.3. Ostvarivanje prava na jednokratnu novčanu potporu za novorođeno dijete

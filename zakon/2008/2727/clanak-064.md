@@ -1,0 +1,2 @@
+# Članak 64.
+Na dan stupanja na snagu ovoga Zakona prestaje važiti Zakon o rodiljnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki (»Narodne novine«, br. 24/96., 109/97., 82/01. i 30/04.) te odredbe Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 85/06., 105/06., 118/06., 77/07., 111/07. i 35/08.) u dijelu u kojem su u suprotnosti s odredbama ovoga Zakona.

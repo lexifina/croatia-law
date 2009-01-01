@@ -1,0 +1,22 @@
+## II. KORISNIK RODILJNIH I RODITELJSKIH POTPORA
+# Članak 7.
+(1) Korisnik rodiljnih i roditeljskih potpora (u daljnjem tekstu: korisnik) prema ovom Zakonu je djetetov roditelj koji:
+1. na temelju zapošljavanja prema propisima o radu ima priznat status osiguranika iz obveznoga zdravstvenog i mirovinskog osiguranja (u daljnjem tekstu: zaposleni roditelj), što obuhvaća:
+- osobe u radnom odnosu kod domaćeg ili stranog poslodavca sa sjedištem u Republici Hrvatskoj,
+- osobe s prebivalištem ili odobrenim stalnim boravkom u Republici Hrvatskoj zaposlene u inozemstvu kod stranog poslodavca koje nemaju zdravstveno osiguranje stranog nositelja zdravstvenog osiguranja, odnosno koje nisu obvezno osigurane prema inozemnim propisima na način kako je to određeno međunarodnim ugovorom o socijalnom osiguranju;
+2. na temelju samozapošljavanja ima priznat status osiguranika iz obveznoga zdravstvenog i mirovinskog osiguranja (u daljnjem tekstu: samozaposleni roditelj), što obuhvaća:
+- osobe koje na području Republike Hrvatske obavljaju gospodarsku djelatnost obrta i s obrtom izjednačenih djelatnosti,
+- osobe koje samostalno u obliku slobodnog zanimanja obavljaju profesionalnu djelatnost te
+- osobe koje u Republici Hrvatskoj obavljaju djelatnost poljoprivrede i šumarstva kao jedino ili glavno zanimanje, ako su obveznici poreza na dohodak ili poreza na dobit, a nisu osigurane po osnovi rada,
+- službenike vjerske zajednice, koja je upisana u evidenciju vjerskih zajednica koju vodi nadležno državno tijelo, ako nisu osigurani po osnovi rada;
+3. ostvaruje drugi dohodak na koji su plaćeni doprinosi prema propisima o doprinosima za obvezna osiguranja te koji je s te osnove stekao status osiguranika iz obveznoga zdravstvenog osiguranja (u daljnjem tekstu: roditelj koji ostvaruje drugi dohodak);
+4. je poljoprivrednik koji u Republici Hrvatskoj obavlja djelatnost poljoprivrede i šumarstva kao jedino ili glavno zanimanje ako je vlasnik, posjednik ili zakupac te ako je s te osnove stekao status osiguranika iz obveznoga zdravstvenog osiguranja, a nije obveznik poreza na dohodak ili poreza na dobit i nije zdravstveno osiguran po osnovi rada;
+5. prema propisima o zapošljavanju ima priznat status nezaposlene osobe ako ovim Zakonom nije drugačije propisano (u daljnjem tekstu: nezaposleni roditelj);
+6. je korisnik mirovine, korisnik prava na profesionalnu rehabilitaciju ili korisnik prava na invalidsku mirovinu zbog profesionalne nesposobnosti za rad prema propisima o mirovinskom osiguranju Republike Hrvatske ili osoba koja se prema propisima iz socijalne skrbi ne smatra sposobnom za rad ili se prema drugim propisima smatra uzdržavanom osobom ili je polaznik redovitog školovanja ili sveučilišnog ili stručnog studija ili korisnik koji nema uvjete za ostvarenje statusa korisnika iz točke 1. do 5. ovoga stavka, a ima priznat status zdravstveno osigurane osobe iz obveznoga zdravstvenog osiguranja (u daljnjem tekstu: roditelj izvan sustava rada).
+(2) Iznimno od stavka 1. točke 1. ovoga članka zaposlenim roditeljem smatraju se i:
+- osobe koje su izabrane ili imenovane na stalne dužnosti u određenim tijelima državne vlasti, odnosno jedinicama lokalne i područne (regionalne) samouprave ako za taj rad primaju plaću i ako po toj osnovi imaju priznat status osiguranika iz obveznoga zdravstvenog i mirovinskog osiguranja,
+- članovi uprave trgovačkih društava ako po toj osnovi imaju priznat status osiguranika iz obveznoga zdravstvenog i mirovinskog osiguranja,
+- osobe koje su prema propisima o radu sklopile ugovor o volonterskom radu, koje se bez zasnivanja radnog odnosa nakon završenog obrazovanja stručno osposobljavaju bez zasnivanja radnog odnosa ako po toj osnovi imaju priznat status osiguranika iz obveznoga zdravstvenog i mirovinskog osiguranja.
+(3) Korisnik rodiljnih i roditeljskih potpora iz ovoga Zakona je i osoba koja je prema propisima o obiteljskim odnosima stekla status posvojitelja koji ima utvrđen status osigurane osobe u obveznom zdravstvenom osiguranju ako ovim Zakonom nije drugačije propisano.
+(4) Korisnik prema odredbama ovoga Zakona i pod uvjetima iz ovoga Zakona je i osoba kojoj je na temelju rješenja nadležnog tijela dijete povjereno na čuvanje i odgoj (skrbnik).
+(5) Korisnik rodiljnih i roditeljskih potpora prema odredbama ovoga Zakona je i stranac s odobrenim stalnim boravkom u Republici Hrvatskoj koji ima priznat status osigurane osobe u obveznom zdravstvenom osiguranju.

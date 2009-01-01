@@ -1,0 +1,6 @@
+# Članak 15.
+(1) Zaposleni roditelj ili samozaposleni roditelj može pravo na rodiljni dopust iz članka 12. stavka 1. ovoga Zakona i roditeljski dopust iz članka 14. stavka 2. ovoga Zakona koristiti i kao pravo na rad s polovicom punoga radnog vremena, prema odredbama iz ovoga Zakona.
+(2) Zaposleni roditelj ili samozaposleni roditelj, nakon isteka obveznoga rodiljnog dopusta iz članka 12. stavka 2. ovoga Zakona, ima pravo koristiti preostali dio rodiljnog dopusta iz članka 12. stavka 1. ovoga Zakona i kao pravo na rad s polovicom punoga radnog vremena.
+(3) Zaposleni roditelj ili samozaposleni roditelj ima pravo nakon navršenih 6 mjeseci života djeteta koristiti rad s polovicom punoga radnog vremena iz stavka 2. ovoga članka u onolikom trajanju koliko je to pravo koristio do 6. mjeseca života djeteta, a najduže do 9. mjeseca života djeteta.
+(4) Zaposleni roditelj ili samozaposleni roditelj, po iskorištenju prava na rodiljni dopust iz članka 12. ovoga Zakona ili prava na rad s polovicom punoga radnog vremena iz stavka 2. i 3. ovoga članka, može pravo na roditeljski dopust iz članka 14. stavka 2. ovoga Zakona koristiti i kao pravo na rad s polovicom punoga radnog vremena u dvostrukom trajanju neiskorištenoga roditeljskog dopusta.
+4. Pravo na rad u skraćenom radnom vremenu radi pojačane njege djeteta

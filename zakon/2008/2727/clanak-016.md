@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Po iskorištenju roditeljskog dopusta iz članka 14. stavka 2. ovoga Zakona ili prava na rad u skraćenom radnom vremenu iz članka 15. stavka 4. ovoga Zakona jedan od zaposlenih roditelja ili samozaposlenih roditelja ima pravo na rad u skraćenom radnom vremenu do navršene 3. godine djetetova života, ako je djetetu, prema nalazu i ocjeni izabranog doktora primarne zdravstvene zaštite i nadležnoga liječničkog povjerenstva Zavoda, zbog njegova zdravlja i razvoja, potrebna pojačana briga i njega.
+(2) Ministar nadležan za zdravstvo uz suglasnost ministra nadležnog za obitelj pravilnikom će propisati uvjete i postupak stjecanja prava na rad u skraćenom radnom vremenu, radi potrebne pojačane brige i njege djeteta do njegove navršene 3. godine života.
+5. Dopust za slučaj smrti djeteta

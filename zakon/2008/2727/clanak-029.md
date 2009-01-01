@@ -1,0 +1,9 @@
+# Članak 29.
+(1) Po isteku prava na rodiljnu poštedu od rada korisnik iz članka 28. ovoga Zakona ima pravo na roditeljsku poštedu od rada u trajanju od:
+- 6 mjeseci, za prvo i drugo rođeno dijete,
+- 30 mjeseci, za blizance, treće i svako sljedeće dijete.
+(2) Korisnik prava iz stavka 1. ovoga članka, može prekinuti korištenje tog prava radi zaposlenja ili samozaposlenja te prenijeti to pravo drugom roditelju, koji je u istom radnopravnom statusu s korisnikom, da koristi preostali dio neiskorištenog prava na roditeljsku poštedu od rada, uz korisnikovu suglasnost.
+(3) Korisnik prava iz stavka 1. ovoga članka može radi zaposlenja ili samozaposlenja prekinuti korištenje prava na roditeljsku poštedu od rada te nastaviti njegovo korištenje, ako je proveo na radu najmanje 9 mjeseci neprekidno prije mjeseca u kojem namjerava započeti koristiti preostali dio pripadajućeg prava, kao zaposleni roditelj ili samozaposleni roditelj pod uvjetima iz ovoga Zakona.
+(4) Korisnik iz stavka 3. ovoga članka koji na radu nije proveo najmanje 9 mjeseci prije mjeseca u kojem namjerava započeti koristiti preostali dio neiskorištene roditeljske poštede od rada iz razloga što mu je prestao radni odnos ili je prestao obavljati djelatnost iz članka 6. točke 2. ovoga Zakona, a na radu je proveo najmanje 3 mjeseca neprekidno, ima pravo nastaviti korištenje preostalog dijela prava na roditeljsku poštedu od rada, kao nezaposleni roditelj ako ispunjava uvjete za nezaposlenog roditelja iz članka 27. ovoga Zakona.
+(5) Korisnik iz stavka 3. i 4. ovoga članka ima pravo koristiti preostali dio neiskorištene roditeljske poštede od rada pod uvjetom da pravo na roditeljsku poštedu od rada nije prenio na drugog roditelja u smislu stavka 2. ovoga članka.
+2. Ostvarivanje prava na novčanu naknadu za vrijeme korištenja prava na rodiljnu i roditeljsku poštedu od rada
