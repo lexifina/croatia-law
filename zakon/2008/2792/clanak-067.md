@@ -1,0 +1,7 @@
+## MEĐUNARODNA SURADNJA UREDA
+## Opće odredbe
+# Članak 67.
+(1) Odredbe ovoga Zakona o međunarodnoj suradnji odnose se na suradnju između Ureda i stranih financijsko-obavještajnih jedinica vezano za razmjenu relevantnih podataka, informacija i dokumentacije na zamolbu Ureda stranoj financijsko-obavještajnoj jedinici, na zamolbu strane financijsko-obavještajne jedinice Uredu te na vlastitu inicijativu (spontano) stranoj financijsko-obavještajnoj jedinici, a u svrhu sprječavanja pranja novca i financiranja terorizma.
+(2) Prije dostave osobnih podataka stranim financijsko-obavještajnim jedinicama, Ured može tražiti jamstva da država ili korisnik kojem se podaci dostavljaju ima uređenu zaštitu osobnih podataka i da će strana financijsko-obavještajna jedinica upotrijebiti osobne podatke samo za namjene određene ovim Zakonom.
+(3) Ured može sa stranim financijsko-obavještajnim jedinicama potpisati memorandume o razumijevanju radi unaprjeđenja suradnje vezano za razmjenu podataka, informacija i dokumentacije u području sprječavanja pranja novca i financiranja terorizma.
+(4) Iznimno od odredaba ovoga članka i članka 68., 69., 70. i 71. ovoga Zakona, uvjet stvarne uzajamnosti neće se primjenjivati na međunarodnu suradnju Ureda sa stranim financijsko-obavještajnim jedinicama i drugim stranim tijelima i međunarodnim organizacijama nadležnima za sprječavanje pranja novca i financiranja terorizma iz država članica.

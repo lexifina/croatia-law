@@ -1,0 +1,4 @@
+## Usklađivanje kod anonimnih proizvoda
+# Članak 103.
+(1) Obveznici su dužni sve anonimne račune, štedne knjižice na šifru ili na donositelja, kao i druge anonimne proizvode, uključujući račune koji glase na lažna imena, koji posredno ili neposredno omogućuju prikrivanje identiteta stranke zatvoriti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+(2) Iznimno od odredaba članka 37. ovoga Zakona, kod anonimnih računa, štednih knjižica na šifru ili donositelja, odnosno kod drugih anonimnih proizvoda, uključujući i račune koji glase na lažna imena za koje nije moguće utvrditi vlasnika, a koji anonimni proizvodi postoje na dan stupanja ovoga Zakona na snagu, obveznici su dubinsku analizu stranke, odnosno drugog korisnika proizvoda, u skladu s odredbama članka 8. ovoga Zakona, dužni izvršiti prilikom prve transakcije koju obavi stranka ili drugi korisnik na temelju takvih proizvoda.

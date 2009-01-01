@@ -1,0 +1,7 @@
+## Nalog obvezniku za stalno praćenje financijskog poslovanja stranke
+# Članak 62.
+(1) Ured može pisano naložiti obvezniku stalno praćenje financijskog poslovanja stranke u vezi s kojom postoje razlozi za sumnju na pranje novca ili financiranje terorizma ili druge osobe za koju je moguće osnovano zaključiti da je pomagala ili sudjelovala u transakcijama ili poslovima osobe u vezi s kojom sumnja postoji, te redovito obavještavanje Ureda o transakcijama ili poslovima koje kod obveznika izvrše ili imaju namjeru izvršiti navedene osobe. U nalogu Ured mora odrediti rokove u kojima obveznici moraju dostavljati tražene podatke.
+(2) Podatke iz stavka 1. ovoga članka obveznik mora dostaviti Uredu prije izvršenja transakcije ili sklapanja posla, a u izvješću navesti rok u kojem će se transakcija ili posao izvršiti.
+(3) Ako zbog prirode transakcije, odnosno posla ili iz drugih opravdanih razloga obveznik ne može postupiti prema stavku 2. ovoga članka, obveznik mora Uredu dostaviti podatke odmah kad je to moguće, a najkasnije sljedeći radni dan. U izvješću obveznik mora obvezno navesti razloge zbog kojih nije postupio sukladno stavku 2. ovoga članka.
+(4) Provođenje mjera iz stavka 1. ovoga članka može trajati najviše tri mjeseca, a u opravdanim slučajevima trajanje mjera može se produljiti svaki puta za još jedan mjesec, s time što provođenje mjera ukupno može trajati najdulje šest mjeseci.
+Zahtjev državnom tijelu, jedinicama lokalne i područne (regionalne) samouprave te pravnoj osobi s javnim ovlastima za dostavu podataka o sumnjivim transakcijama ili osobama

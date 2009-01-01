@@ -1,0 +1,26 @@
+# Članak 91.
+(1) Novčanom kaznom u iznosu od 40.000,00 do 600.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. ako ne osigura provođenje mjera otkrivanja i sprječavanja pranja novca i financiranja terorizma, određenih ovim Zakonom, u svojim poslovnim jedinicama i društvima u kojima ima većinski udio i većinsko pravo u odlučivanju, a koja imaju sjedište u trećoj državi (članak 5. stavak 1.),
+2. ako ne provede sve propisane mjere dubinske analize stranke ili ih ne provede u skladu s postupkom određenim u svom internom aktu, te ako postupke provođenja mjera ne definira svojim internim aktom (članak 8. stavak 1. i 2.),
+3. ako prije uspostavljanja poslovnog odnosa ili izvršenja transakcije, u slučaju kad postoji sumnja u istinitost podataka ili vjerodostojnost isprava na temelju kojih se utvrđuje identitet stranke, zakonskoga zastupnika ili opunomoćenika, ne pribavi pisanu izjavu stranke, zakonskoga zastupnika stranke ili opunomoćenika (članak 17. stavak 5., članak 18. stavak 5., članak 19. stavak 2., članak 20. stavak 5. i članak 21. stavak 4.),
+4. ako u praćenju poslovnih aktivnosti stranke ne primjenjuje propisane mjere (članak 26. stavak 2.),
+5. ako ne izvrši ponovnu godišnju dubinsku analizu strane pravne osobe, odnosno ako ne pribavi propisane podatke i isprave ili ih ne pribavi na propisani način (članak 27. stavak 1., 2., 3., 4., 5., 6. i 7.),
+6. ako izvrši transakciju za stranu pravnu osobu za koju nije izvršila ponovnu godišnju dubinsku analizu stranke (članak 27. stavak 8.),
+7. ako dubinsku analizu stranke povjeri trećoj osobi za koju nije provjerila ispunjava li sve uvjete propisane ovim Zakonom (članak 28. stavak 2.),
+8. ako kao odgovarajuću prihvati dubinsku analizu izvršenu preko treće osobe koja je mjeru utvrđivanja i provjere identiteta stranke provela bez nazočnosti stranke (članak 28. stavak 3.),
+9. ako dubinsku analizu stranke povjeri trećoj osobi koja ne ispunjava pravilnikom propisane uvjete (članak 28. stavak 6.),
+10. ako u svom internom aktu ne odredi postupak utvrđivanja stranih politički izloženih osoba (članak 32. stavak 2.),
+11. ako nakon sklapanja poslovnog odnosa sa strankom koja je strana politički izložena osoba ne prati s posebnom pažnjom transakcije i ostale poslovne aktivnosti koje kod nje obavlja ta osoba (članak 32. stavak 7. točka 3.),
+12. ako uspostavi poslovni odnos sa strankom koja pri utvrđivanju identiteta nije osobno nazočna, a da ne usvoji mjeru kojom osigurava da se prije izvršenja daljnjih transakcija stranke prvo plaćanje provede preko računa koji stranka ima otvoren u kreditnoj instituciji (članak 33. stavak 3.),
+13. ako ne uspostavi politike i procedure za praćenje rizika pranja novca ili financiranja terorizma, a koji bi mogao proizaći iz novih tehnologija koje omogućuju anonimnost, ili ako ne poduzme mjere za sprječavanje upotrebe novih tehnologija u svrhu pranja novca ili financiranja terorizma (članak 34. stavak 1.),
+14. ako nema politike i procedure za rizik koji prati poslovni odnos ili transakcije sa strankama koje nisu fizički nazočne, ili ako ih ne primjenjuje pri uspostavi poslovnog odnosa sa strankom i tijekom provođenja mjera dubinske analize stranke (članak 34. stavak 2.),
+15. ako Uredu u propisanom roku ne dostavi podatke o transakciji koja se izvršava u gotovini čija je vrijednost 200.000,00 kuna ili veća (članak 40. stavak 1., 2. i 3.),
+16. ako ne imenuje ovlaštenu osobu i jednog ili više zamjenika ovlaštene osobe za obavljanje poslova otkrivanja i sprječavanja pranja novca i financiranja terorizma, određenih ovim Zakonom i propisima donesenima na temelju ovoga Zakona (članak 44.),
+17. ako ovlaštenoj osobi ne osigura odgovarajuće ovlasti i uvjete za obavljanje njezinih poslova i zadataka (članak 47.),
+18. ako ne sastavi listu indikatora za prepoznavanje stranaka i transakcija za koje postoje razlozi za sumnju na pranje novca ili financiranje terorizma, odnosno ako je ne sastavi na propisani način ili u propisanom roku (članak 41. i članak 101. stavak 2.),
+19. ako ne donese interni akt kojim se određuju mjere, radnje i postupanja radi sprječavanja i otkrivanja pranja novca i financiranja terorizma, ako u internom aktu propusti odrediti odgovornost ovlaštenih osoba i drugih zaposlenika zaduženih za provedbu ovoga Zakona te ako Uredu na njegov zahtjev ne dostavi primjerak internog akta (članak 48.),
+20. ako podatke i dokumentaciju ne čuva deset godina nakon izvršene transakcije, odnosno prestanka poslovnog odnosa, ulaska stranke u kasino ili pristupa sefu (članak 78. stavak 1.),
+21. ako u propisanom roku ne izvrši provjeru i dubinsku analizu svih postojećih stranaka kod kojih na osnovi odredaba članka 7. ovoga Zakona utvrdi da postoji ili bi mogao postojati visok rizik za pranje novca ili financiranje terorizma (članak 102.),
+22. ako korespondentne odnose koji nisu u suglasnosti s odredbama ovoga Zakona ne raskine u propisanom roku (članak 104.).
+(2) Novčanom kaznom u iznosu od 3.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka član uprave ili druga odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 15.000,00 do 150.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i fizička osoba koja obavlja drugu samostalnu djelatnost.

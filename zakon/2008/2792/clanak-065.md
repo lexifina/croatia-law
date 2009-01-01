@@ -1,0 +1,4 @@
+## Obavijest o transakcijama sa sumnjom na pranje novca i financiranje terorizma
+# Članak 65.
+(1) Kada Ured na temelju analitičke obrade podataka, informacija i dokumentacije koje prikupi u skladu s ovim Zakonom ocijeni da u vezi s transakcijom ili određenom osobom postoje razlozi za sumnju na pranje novca ili financiranje terorizma u zemlji ili inozemstvu, o tome u pisanom obliku, sa svom potrebnom dokumentacijom, obavještava nadležna državna tijela ili strane financijsko-obavještajne jedinice.
+(2) U obavijesti iz stavka 1. ovoga članka Ured ne navodi podatke o zaposleniku obveznika koji mu je prvi dostavio podatke na temelju članaka 42. i 54. ovoga Zakona, osim ako postoje razlozi za sumnju da je obveznik ili njegov zaposlenik počinio kazneno djelo pranja novca ili financiranja terorizma, ili ako su ti podaci potrebni za utvrđivanje ovih djela u kaznenom postupku, a zahtijeva ih nadležni sud u pisanom obliku.

@@ -1,0 +1,5 @@
+## Obavješćivanje Ureda od strane nadzornih tijela o sumnji na pranje novca ili financiranje terorizma
+# Članak 87.
+(1) Nadzorna tijela iz članka 83. stavka 1. točke b) do e) ovoga Zakona obvezna su, bez odgode pismeno izvijestiti Ured o informacijama koje upućuju na povezanost neke osobe ili transakcije s pranjem novca ili financiranjem terorizma, bez obzira na to jesu li do njih došli tijekom obavljanja nadzora po ovom Zakonu ili tijekom obavljanja poslova iz svoga djelokruga.
+(2) Kada tijela nadležna za nadzor nad djelovanjem neprofitnih organizacija, osim nadzornih tijela iz članka 83. ovoga Zakona, tijekom obavljanja nadzora iz svoje nadležnosti utvrde razloge za sumnju na pranje novca ili financiranje terorizma u vezi s djelovanjem neprofitne organizacije, njenih članova ili s njima povezanih osoba, obvezna su bez odgađanja o tome pisano obavijestiti Ured.
+(3) U slučajevima iz stavaka 1. i 2. ovoga članka Ured će, ako procijeni da postoje razlozi za sumnju na pranje novca ili financiranje terorizma, započeti prikupljanje i analiziranje podataka, informacija i dokumentacije u skladu sa svojim zadaćama i nadležnostima.

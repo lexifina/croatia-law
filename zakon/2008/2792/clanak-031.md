@@ -1,0 +1,16 @@
+## Korespondentni odnosi s kreditnim institucijama trećih država
+# Članak 31.
+(1) Pri uspostavljanju korespondentnog odnosa s bankom ili drugom kreditnom institucijom koja ima sjedište u trećoj državi obveznik je, u okviru pojačane dubinske analize stranke, dužan provesti mjere iz članka 8. stavka 1. ovoga Zakona i dodatno prikupiti sljedeće podatke, informacije i dokumentaciju:
+1. datum izdavanja i vrijeme važenja dozvole za obavljanje bankarskih usluga te naziv i sjedište nadležnog tijela treće države koje je izdalo dozvolu,
+2. opis provođenja internih postupaka koji se odnose na sprječavanje i otkrivanje pranja novca i financiranja terorizma, osobito postupaka provjere identiteta stranke, utvrđivanja stvarnih vlasnika, obavješćivanja nadležnih tijela o sumnjivim transakcijama i strankama, vođenja evidencija, interne revizije i drugih postupaka koje je banka odnosno druga kreditna institucija donijela u vezi sa sprječavanjem i otkrivanjem pranja novca i financiranja terorizma,
+3. opis sustavnog uređenja na području sprječavanja i otkrivanja pranja novca i financiranja terorizma koje je na snazi u trećoj državi u kojoj banka ili druga kreditna institucija ima sjedište, odnosno u kojoj je registrirana,
+4. pisanu izjavu kojom se potvrđuje da banka ili druga kreditna institucija ne posluje kao fiktivna banka,
+5. pisanu izjavu kojom se potvrđuje da banka ili druga kreditna institucija nema uspostavljene odnosno da ne uspostavlja poslovne odnose ili ne obavlja transakcije s fiktivnim bankama,
+6. pisanu izjavu kojom se potvrđuje da je banka ili druga kreditna institucija u državi u kojoj ima sjedište, odnosno u kojoj je registrirana, pod pravnim nadzorom, te da je obvezna primjenjivati zakonske i druge propise u području sprječavanja i otkrivanja pranja novca i financiranja terorizma u skladu sa zakonima te države.
+(2) Zaposlenik obveznika koji uspostavlja korespondentne odnose iz stavka 1. ovoga članka i vodi postupak pojačane dubinske analize stranke obvezan je prije uspostavljanja poslovnog odnosa pribaviti pisanu suglasnost nadređene odgovorne osobe.
+(3) Podatke iz stavka 1. ovoga članka obveznik prikuplja uvidom u javne ili druge dostupne evidencije, odnosno uvidom u isprave i poslovnu dokumentaciju koju mu dostavlja banka ili druga kreditna institucija sa sjedištem u trećoj državi.
+(4) Obveznik ne smije uspostaviti ili produžiti korespondentni odnos s bankom ili drugom kreditnom institucijom koja ima sjedište u trećoj državi:
+1. ako prethodno nije prikupio podatke iz stavka 1. točke 1., 2., 4., 5. i 6. ovoga članka,
+2. ako za uspostavljanje korespondentnog odnosa zaposlenik prethodno nije pribavio pisanu suglasnost nadređene odgovorne osobe obveznika,
+3. ako banka ili druga kreditna institucija sa sjedištem u trećoj državi nema uspostavljeni sustav za sprječavanje i otkrivanje pranja novca i financiranja terorizma ili ako u skladu sa zakonima treće države u kojoj ima sjedište, odnosno u kojoj je registrirana, nije obvezna primjenjivati zakonske i druge odgovarajuće propise u području sprječavanja i otkrivanja pranja novca i financiranja terorizma,
+4. ako banka ili druga kreditna institucija sa sjedištem u trećoj državi posluje kao fiktivna banka, odnosno ako uspostavlja korespondentne ili druge poslovne odnose i obavlja transakcije s fiktivnim bankama.

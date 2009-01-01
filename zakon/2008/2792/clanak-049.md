@@ -1,0 +1,5 @@
+## Obveza redovitoga stručnog osposobljavanja i izobrazbe
+# Članak 49.
+(1) Obveznici iz članka 4. stavka 2. ovoga Zakona dužni su u skladu s ovim Zakonom, brinuti se za redovito stručno osposobljavanje i izobrazbu svih djelatnika koji obavljaju zadaće na području sprječavanja i otkrivanja pranja novca te financiranja terorizma.
+(2) Stručno osposobljavanje i izobrazba iz stavka 1. ovoga članka odnosi se na upoznavanje s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, s internim aktima obveznika te s međunarodnim standardima koji proizlaze iz međunarodnih konvencija s područja sprječavanja pranja novca i financiranja terorizma, sa smjernicama i listom indikatora za prepoznavanje sumnjivih transakcijama te s drugim zadaćama propisanim ovim Zakonom.
+(3) Program godišnjega stručnog osposobljavanja i izobrazbe na području sprječavanja i otkrivanja pranja novca te financiranja terorizma za sljedeću kalendarsku godinu obveznik mora pripremiti najkasnije do kraja tekuće godine.

@@ -1,0 +1,7 @@
+## Utvrđivanje i provjera identiteta opunomoćenika pravne ili fizičke osobe
+# Članak 20.
+(1) Ako poslovni odnos u ime pravne osobe umjesto zakonskog zastupnika iz članka 19. ovoga Zakona uspostavlja opunomoćenik, obveznik utvrđuje i provjerava identitet opunomoćenika prikupljanjem podataka iz članka 16. stavak 1. točka 1. ovoga Zakona uvidom u službeni osobni dokument opunomoćenika u njegovoj nazočnosti.
+(2) Ako iz dokumenta iz stavka 1. ovoga članka nije moguće prikupiti sve propisane podatke, podaci koji nedostaju prikupljaju se iz druge važeće javne isprave koju podnese opunomoćenik, odnosno neposredno od opunomoćenika. Podatke iz članka 16. stavka 1. točke 1. ovoga Zakona o zakonskom zastupniku koji je u ime pravne osobe izdao punomoć obveznik prikuplja na temelju podataka iz ovjerene punomoći.
+(3) Ako transakciju iz članka 9. stavka 1. točke 2. ovoga Zakona u ime stranke koja je pravna osoba, fizička osoba, obrtnik ili osoba koja se bavi drugom samostalnom djelatnošću obavlja opunomoćenik, obveznik utvrđuje i provjerava identitet opunomoćenika prikupljanjem podataka iz članka 16. stavka 1. točke 1. ovoga Zakona.
+(4) Podatke iz članka 16. stavka 1. točke 1. i 5. ovoga Zakona o stranci u čije ime nastupa opunomoćenik, obveznik prikuplja na temelju podataka iz ovjerene punomoći.
+(5) Ako pri utvrđivanju i provjeri identiteta opunomoćenika obveznik posumnja u istinitost prikupljenih podataka, mora tražiti i njegovu pisanu izjavu.

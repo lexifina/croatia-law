@@ -1,0 +1,5 @@
+## Dubinska analiza stranke prilikom uspostavljanja poslovnog odnosa
+# Članak 10.
+(1) Prilikom uspostavljanja poslovnog odnosa sa strankom obveznik je propisane mjere iz članka 8. stavka 1. točke 1., 2. i 3. ovoga Zakona dužan provoditi prije uspostavljanja poslovnog odnosa.
+(2) Iznimno od odredbe stavka 1. ovoga članka obveznik može mjere iz članka 8. stavka 1. točke 1., 2. i 3. ovoga Zakona iznimno provesti i tijekom uspostavljanja poslovnog odnosa sa strankom ako je to neophodno kako se ne bi prekinuo uobičajeni način uspostavljanja poslovnih odnosa i ako u skladu s člankom 7. ovoga Zakona postoji neznatan rizik od pranja novca ili financiranja terorizma.
+(3) Iznimno od odredbe stavka 1. ovoga članka, obveznik iz članka 4. stavka 2. točke 10. ovoga Zakona može pri sklapanju poslova životnog osiguranja izvršiti provjeru identiteta korisnika police osiguranja i nakon sklapanja ugovora o osiguranju, ali najkasnije prije ili u vrijeme isplate osigurane svote, odnosno u trenutku kad imatelj prava iz osiguranja zatraži isplatu svojih potraživanja, izjavi da želi dobiti zajam na policu, dati je u zalog ili kapitalizirati.

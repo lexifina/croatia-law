@@ -1,0 +1,5 @@
+## Zamolba stranoj financijsko-obavještajnoj jedinici za dostavom podataka
+# Članak 68.
+(1) Ured može, u okviru provođenja zadaća sprječavanja i otkrivanja pranja novca i financiranja terorizma, stranim financijsko-obavještajnim jedinicama uputiti zamolbu za dostavu podataka, informacija i dokumentacije potrebne za sprječavanje i otkrivanje pranja novca ili financiranja terorizma.
+(2) Podatke, informacije i dokumentaciju pribavljenu na temelju stavka 1. ovoga članka Ured smije upotrijebiti isključivo za potrebe svog analitičko-obavještajnog rada i za namjene određene ovim Zakonom.
+(3) Bez prethodne suglasnosti strane financijsko-obavještajne jedinice Ured primljene podatke, informacije i dokumentaciju ne smije dostavljati ili dati na uvid trećoj osobi, fizičkoj ili pravnoj, odnosno drugom tijelu, ili ih koristiti za namjene u suprotnosti s uvjetima i ograničenjima koje određuje strana financijsko-obavještajna jedinica kojoj je upućena zamolba, i dužan je prema istim podacima primijeniti oznake tajnosti najmanje iste razine kao tijelo koje je podatke i dostavilo.

@@ -1,0 +1,4 @@
+# Članak 54.
+(1) Kada odvjetnik, odvjetničko društvo i javni bilježnik prilikom obavljanja poslova iz članka 52. ovoga Zakona, te revizorsko društvo i samostalni revizor, pravne i fizičke osobe koje obavljaju računovodstvene usluge i usluge poreznog savjetovanja utvrde da u vezi s transakcijom ili određenom osobom postoje razlozi za sumnju na pranje novca ili financiranje terorizma, o tome su dužni bez odgode obavijestiti Ured sukladno odredbama članka 42. ovoga Zakona.
+(2) Osobe koje obavljaju profesionalne djelatnosti dužne su svaki put kada stranka od njih zatraži savjet u vezi s pranjem novca ili financiranjem terorizma o tome obavijestiti Ured, i to odmah, a najkasnije unutar tri radna dana od dana kada je stranka od njih tražila takav savjet.
+(3) Prilikom obavješćivanja o sumnjivoj transakciji osobe koje obavljaju profesionalne djelatnosti dostavljaju Uredu podatke iz članka 16. stavka 1. ovoga Zakona na način koji pravilnikom propiše ministar financija.

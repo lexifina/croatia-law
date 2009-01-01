@@ -1,0 +1,8 @@
+## Odjeljak 2.
+## ČUVANJE PODATAKA
+## Rok čuvanja podataka od strane obveznika
+# Članak 78.
+(1) Obveznici iz članka 4. stavka 2. točke 1. do 15. ovoga Zakona moraju podatke prikupljene u skladu s odredbama ovoga Zakona i na temelju njega donesenih propisa, te pripadajuću dokumentaciju čuvati deset godina nakon izvršene transakcije, prestanka poslovnog odnosa, ulaska stranke u kasino ili pristupa sefu.
+(2) Obveznici iz članka 4. stavka 2. točke 1. do 15. ovoga Zakona moraju podatke i pripadajuću dokumentaciju o ovlaštenoj osobi i zamjeniku ovlaštene osobe, o stručnom osposobljavanju i izobrazbi zaposlenika i provođenju interne revizije iz članaka 44., 49. i 50. ovoga Zakona čuvati četiri godine nakon imenovanja ovlaštene osobe i zamjenika ovlaštene osobe, provedenoga stručnog osposobljavanja i izobrazbe ili obavljene interne revizije.
+(3) Iznimno od odredbe stavka 1. ovoga članka, odvjetnik, odvjetničko društvo i javni bilježnik, revizorsko društvo i samostalni revizor, pravne i fizičke osobe koje obavljaju računovodstvene poslove i poslove poreznog savjetovanja moraju podatke i pripadajuću dokumentaciju prikupljenu na temelju članka 53. ovoga Zakona čuvati deset godina nakon obavljene identifikacije stranke.
+(4) Iznimno od odredbe stavka 2. ovoga članka, odvjetnik, odvjetničko društvo i javni bilježnik, revizorsko društvo i samostalni revizor, pravne i fizičke osobe koje obavljaju računovodstvene poslove i poslove poreznog savjetovanja moraju podatke i pripadajuću dokumentaciju o stručnom osposobljavanju i izobrazbi zaposlenika čuvati četiri godine nakon obavljenoga stručnog osposobljavanja i izobrazbe.

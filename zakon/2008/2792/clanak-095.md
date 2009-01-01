@@ -1,0 +1,4 @@
+# Članak 95.
+(1) Novčanom kaznom u iznosu od 1.500,00 do 8.000,00 kuna kaznit će se za prekršaj odgovorna osoba koja u ime obveznika sklopi korespondentni odnos s bankom ili sličnom kreditnom institucijom sa sjedištem u trećoj državi bez pribavljene pisane suglasnosti nadređene osobe (članak 31. stavak 2.).
+(2) Novčanom kaznom u iznosu od 1.500,00 do 8.000,00 kuna kaznit će se za prekršaj odgovorna osoba koja u ime obveznika uspostavi poslovni odnos sa strankom koja je politički izložena osoba bez pribavljene pisane suglasnosti nadređene osobe (članak 32. stavak 7. točka 2.).
+(3) Novčanom kaznom u iznosu od 15.000,00 do 80.000,00 kuna kaznit će se za prekršaj iz stavka 1. i 2. ovoga članka banka ili druga pravna osoba u čije je ime odgovorna osoba sklopila ugovor ili uspostavila drugi poslovni odnos.

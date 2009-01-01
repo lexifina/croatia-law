@@ -1,0 +1,3 @@
+## Opće odredbe
+# Članak 51.
+Odvjetnik, odvjetničko društvo i javni bilježnik te revizorsko društvo i samostalni revizor, pravne i fizičke osobe koje obavljaju računovodstvene usluge i usluge poreznog savjetovanja (u daljnjem tekstu: osobe koje obavljaju profesionalne djelatnosti), dužne su prilikom obavljanja poslova iz svoga djelokruga određenih u drugim zakonima provoditi mjere sprječavanja i otkrivanja pranja novca, te financiranja terorizma i postupati prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona koji uređuju zadaće i obveze drugih obveznika, ako nije u ovom poglavlju određeno drugačije.
