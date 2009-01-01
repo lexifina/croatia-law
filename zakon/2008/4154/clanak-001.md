@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o humanitarnom razminiranju (»Narodne novine«, br. 153/05. i 63/07.) članak 3. mijenja se i glasi:
+»Ukoliko stručno osposobljeni i opremljeni službenici za protueksplozijsku zaštitu Ministarstva unutarnjih poslova (u daljnjem tekstu: službenici za protueksplozijsku zaštitu Ministarstva) ili postrojbe Oružanih snaga Republike Hrvatske prilikom obavljanja poslova humanitarnog razminiranja utvrde da se radi o minski sumnjivom području, izvijestit će Hrvatski centar za razminiranje (u daljnjem tekstu: HCR), koji je dužan to područje uvrstiti u minski sumnjivo područje ili građevinu.«
