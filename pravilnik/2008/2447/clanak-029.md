@@ -1,0 +1,6 @@
+# Članak 29.
+Kvalitetu specijalističkog usavršavanja doktora medicine provjerava ministarstvo.
+Ministarstvo imenuje stručna povjerenstva za utvrđivanje činjenica važnih za provjeru kvalitete specijalističkog usavršavanja doktora medicine (u daljnjem tekstu: stručno povjerenstvo) te ujedno predlaže metode procjene kvalitete.
+Stručno povjerenstvo sastoji se od najmanje tri člana, po jednog predstavnika medicinskog fakulteta, Hrvatske liječničke komore i stručnog društva Hrvatskog liječničkog zbora, koje delegira svog predstavnika u odgovarajućoj sekciji Europske udruge medicinskih specijalista (UEMS). Svi članovi stručnog povjerenstva moraju biti specijalisti one medicinske grane za koju obavljaju provjeru kvalitete izvođenja specijalističkog usavršavanja i moraju ispunjavati uvjete za glavnog mentora iz članka 9. ovoga Pravilnika.
+Stručno povjerenstvo obavlja provjere zdravstvenih ustanova u kojima se obavlja specijalističko usavršavanje prema strukturiranim obrascima i na način utvrđen u Povelji Europske udruge medicinskih specijalista, koja se objavljuje na web-stranici ministarstva.
+Stručno povjerenstvo predlaže ministru poduzimanje odgovarajućih mjera utvrđenih odredbama ovoga Pravilnika u slučaju negativnog mišljenja o kvaliteti specijalističkog usavršavanja doktora medicine.
