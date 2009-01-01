@@ -1,0 +1,7 @@
+## Nalozi za prijenos i obračunavanje u slučaju otvaranja postupka zbog insolventnosti
+# Članak 7.
+(1) U slučaju otvaranja postupka zbog insolventnosti nad sudionikom nalozi za prijenos i obračunavanje valjani su i obvezujući za treće osobe ako su nalozi za prijenos prihvaćeni u sustav u skladu s pravilima rada sustava prije trenutka otvaranja postupka zbog insolventnosti.
+(2) Obračunavanje jest konverzija potraživanja i obveza koje rezultiraju iz naloga za prijenos koje sudionik ili sudionici zadaju ili primaju od jednog ili više drugih sudionika u jedno neto potraživanje ili jednu neto obvezu, s posljedicom da se potražuje ili duguje samo neto iznos.
+(3) Iznimno od stavka 1. ovoga članka, nalozi za prijenos koji su prihvaćeni u sustav nakon trenutka otvaranja postupka zbog insolventnosti nad sudionikom i provedeni na dan otvaranja tog postupka, valjani su i obvezujući za treće osobe samo ako nakon provedbe namire upravitelj sustava može dokazati da nije znao niti morao znati za otvaranje tog postupka.
+(4) Ništetnost ili pobojnost transakcija i ugovora sklopljenih prije trenutka otvaranja postupka zbog insolventnosti neće imati za posljedicu nevaljanost provedenog obračunavanja.
+(5) U slučaju otvaranja postupka zbog insolventnosti nad sudionikom raspoloživa novčana sredstva ili financijski instrumenti na njegovom računu za namiru mogu se iskoristiti za ispunjenje njegovih obveza u sustavu na dan kad je postupak otvoren.
