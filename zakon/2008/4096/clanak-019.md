@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Doprinosi za mirovinsko i obvezno zdravstveno osiguranje koji su uplaćeni za osiguranike prema članku 23. Zakona o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01., 90/05. i 80/08.), vratit će se poslodavcima sa sjedištem, odnosno s prebivalištem na području Grada Vukovara, Iloka te Lovasa i Tovarnika na teret tih doprinosa.
+(2) Poslodavci iz stavka 1. ovoga članka zahtjev za povrat doprinosa podnose Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje.
+(3) Sredstva za povrat posebnog doprinosa za ozljede na radu i profesionalne bolesti iz članka 71. stavka 3. Zakona o zdravstvenom osiguranju (»Narodne novine«, br. 94/01., 88/02., 149/02., 117/03., 30/04., 177/04. i 90/05.) zaključno s 2. kolovoza 2006. godine vratit će se obveznicima uplate doprinosa na osnovi rješenja Hrvatskog zavoda za zdravstveno osiguranje, a na teret sredstava prihoda ostvarenih tim doprinosom.

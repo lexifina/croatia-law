@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Korisnici su obvezni u svojim financijskim planovima planirati sredstva za obvezno osiguranje vozila, zrakoplova i brodica, odnosno jahti prema posebnim propisima iz djelatnosti osiguranja.
+(2) Iznimno od stavka 1. ovoga članka, u Proračunu su osigurana sredstva za osiguranje prijevoznih sredstava koja su zbog pojačanog rizika i velike pojedinačne vrijednosti više izložena mogućim štetnim događajima u obavljanju redovite djelatnosti.
+(3) Sredstva za nadoknadu štete na neosiguranoj imovini (poslovne zgrade, uređaji, instalacije, oprema i dr.) osigurana su u Proračunu i doznačavat će se korisnicima na njihov zahtjev.
+(4) U Proračunu su osigurana sredstva za osiguranje službenika, namještenika i dužnosnika od posljedica nesretnog slučaja.
