@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Pravnici zaposleni u tijelima državne uprave, lokalne i područne (regionalne) samouprave i drugim pravnim osobama te osobe zaposlene u znanstvenonastavnim, nastavnim i suradničkim zvanjima na pravnim fakultetima kao i druge osobe koje ispunjavaju uvjete iz članka 5. stavka 1. ovoga Zakona koje namjeravaju pristupiti pravosudnom ispitu dužne su radi stručnog obrazovanja provesti na sudu najmanje pola od vremena koliko je utvrđeno odredbom članka 11. stavka 1. i 2. ovoga Zakona za sudske vježbenike.
+(2) Praktični dio vježbeničke prakse provodi se na isti način kao i za pravosudne vježbenike sukladno odredbama članka 11. i 12. ovoga Zakona. Teoretski dio stručnog obrazovanja traje najmanje 150 sati prema programu koji mora biti usklađen s programom Pravosudne akademije.
+(3) Pravnici iz stavka 1. ovoga članka mogu podnijeti zahtjev ministarstvu nadležnom za poslove pravosuđa radi obavljanja vježbe nakon najmanje jedne godine rada na pravnim poslovima. Zahtjevu se prilaže suglasnost poslodavca i ugovor o radu ili rješenje o prijamu u službu.
+(4) Ministar nadležan za poslove pravosuđa raspoređuje pravnike iz stavka 1. ovoga članka na sud na kojem će obavljati stručno obrazovanje.
+(5) Ministar nadležan za poslove pravosuđa odredit će pravilnikom način obavljanja i način financiranja vježbeničke prakse iz stavka 1. i 2. ovoga članka.
