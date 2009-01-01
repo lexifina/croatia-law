@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Ovlaštena pravna osoba iz članka 2. stavak 1. ovog Pravilnika obavezna je u suradnji s ministarstvom nadležnim za promet najmanje jednom godišnje organizirati seminar za sve djelatnike za pregled vozila i osobe koje obrađuju dokumentaciju o važećim propisima prijevoza opasnih tvari i postupcima pregleda te učesnicima izdati potvrdu o osposobljenosti za povjerene poslove.
+(2) Osposobljeni djelatnici iz stavka 1. ovog članka moraju biti pravovremeno upoznati putem okružnica i uputa ministarstva nadležnog za promet i ovlaštene pravne osobe iz članka 2. stavak 1. ovog Pravilnika o važećim odredbama, obvezama, te izmjenama i dopunama Zakona, podzakonskih propisa i priloga A i B ADR sporazuma.
