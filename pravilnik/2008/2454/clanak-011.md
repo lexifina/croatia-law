@@ -1,0 +1,2 @@
+# Članak 11.
+Danom stupanja na snagu ovoga Pravilnika, prestaje važiti Pravilnik o normativima mikrobiološke čistoće i metode njenog određivanja (»Narodne novine«, broj 46/94) i Pravilnik o mikrobiološkim standardima za namirnice (»Narodne novine«, broj 46/94, 20/01, 40/01, 125/03, 32 /04) osim odredbe članka 13. u dijelu koji se odnosi na svježe i smrznute školjkaše i glavonošce, koja prestaje važiti danom stupanja na snagu odredbi točaka 1.16., 1.17., 1.25., 1.26. i 1.27. iz tablice Kriteriji sigurnosti hrane iz Priloga I. Poglavlja 1. ovoga Pravilnika.
