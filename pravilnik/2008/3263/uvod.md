@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. i 2. Zakona o tehničkim zahtjevima za proizvode i ocjeni sukladnosti (»Narodne novine«, broj 158/03. i 79/07.) ministar mora, prometa i infrastrukture, uz prethodno mišljenje ministra nadležnog za gospodarstvo, donosi

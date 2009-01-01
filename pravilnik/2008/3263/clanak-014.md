@@ -1,0 +1,8 @@
+## IV. OCJENJIVANJE SUKLADNOSTI RiTT OPREME
+## Postupci ocjenjivanja sukladnosti RiTT opreme
+# Članak 14.
+(1) Ovlašteno tijelo za ocjenjivanje sukladnosti provodi postupke ocjenjivanja sukladnosti RiTT opreme s odgovarajućim bitnim zahtjevima iz članka 4. ovoga Pravilnika.
+(2) Za telekomunikacijsku terminalnu opremu, koja za svoj rad ne upotrebljava radijske valove, kao i za radijsku opremu koja radi samo kao prijamnik, ocjenjivanje sukladnosti provodi se, prema izboru proizvođača opreme, na jedan od načina utvrđenih u Dodacima 3., 5. i 6. koji su tiskani uz ovaj Pravilnik i čine njegov sastavni dio.
+(3) Za RiTT opremu, koja ne obuhvaća opremu iz stavka 2. ovoga članka, a za koju je proizvođač opreme primijenio norme iz članka 6. ovoga Pravilnika u postupku ocjenjivanja sukladnosti opreme s bitnim zahtjevima iz članka 4. ovoga Pravilnika, ocjenjivanje sukladnosti provodi se, prema izboru proizvođača opreme, na jedan od načina utvrđenih u Dodacima 4., 5. ili 6. koji su tiskani uz ovaj Pravilnik i čine njegov sastavni dio.
+(4) Za RiTT opremu, koja ne obuhvaća opremu iz stavka 2. ovoga članka, a za koju proizvođač opreme nije primijenio norme iz članka 6. ovoga Pravilnika, ili ih je primijenio djelomično u postupku ocjenjivanja sukladnosti opreme s bitnim zahtjevima iz članka 4. ovoga Pravilnika, ocjenjivanje sukladnosti provodi se, prema izboru proizvođača opreme, na jedan od načina utvrđenih u Dodacima 5. ili 6. ovoga Pravilnika.
+(5) Svi zahtjevi i dokumentacija u vezi s postupcima ocjenjivanja sukladnosti RiTT opreme iz stavka 2., 3. i 4. ovoga članka moraju biti na hrvatskom jeziku ili na jeziku koji je odredilo ovlašteno tijelo za ocjenjivanje sukladnosti.
