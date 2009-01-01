@@ -1,0 +1,1 @@
+Na osnovi članka 14.g Zakona o dobrovoljnom zdravstvenom osiguranju (»Narodne novine« broj 85/06. i 150/08.) i članka 20. stavka 1. podstavka 5. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 16/02., 24/02. i 58/03.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 63. sjednici održanoj 30. prosinca 2008. godine donijelo je
