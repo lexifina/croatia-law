@@ -1,0 +1,2 @@
+# Članak 106.
+U zemljišnim knjigama izvršit će se ispravak uknjiženog prava vlasništva na ime obiteljskog poljoprivrednog gospodarstva izvršen na temelju ugovora o prodaji poljoprivrednog zemljišta u vlasništvu države koji su sklopljeni prije stupanja na snagu ovoga Zakona na način da se pravo vlasništva upiše na ime fizičke osobe koja je u vrijeme sklapanja ugovora o prodaji bila kao nositelj upisana u Upisnik poljoprivrednog gospodarstva.

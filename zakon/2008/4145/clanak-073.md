@@ -1,0 +1,4 @@
+# Članak 73.
+Primjerak ugovora o prodaji i zakupu poljoprivrednog zemljišta u vlasništvu države, dugogodišnjem zakupu i koncesiji za ribnjake dostavlja se uredu državne uprave u županiji ili upravnom tijelu Grada Zagreba nadležnom za poljoprivredu, nadležnom područnom uredu za katastar Državne geodetske uprave, odnosno Gradskom uredu za katastar i geodetske poslove Grada Zagreba, Zavodu, Agenciji za poljoprivredno zemljište iz članka 77. ovoga Zakona, Hrvatskim vodama, jedinici područne (regionalne) samouprave, jedinici lokalne samouprave na čijem području se zemljište nalazi, u roku od 30 dana od dana sklapanja ugovora.
+Primjerak ugovora o prodaji i zakupu poljoprivrednog zemljišta u vlasništvu države i dugogodišnjem zakupu dostavlja se ministarstvu nadležnom za financije.
+Primjerak ugovora o koncesiji za ribnjake dostavlja se ministarstvu nadležnom za financije sukladno odredbama propisa o ustroju i vođenju registra koncesija.
