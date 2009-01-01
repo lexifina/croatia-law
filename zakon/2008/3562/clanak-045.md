@@ -1,0 +1,4 @@
+# Članak 45.
+U članku 79. stavci 1. i 2. mijenjaju se i glase:
+»(1) U otvorenom i ograničenom postupku javne nabave obavlja se javno otvaranje ponuda, o čemu se sastavlja zapisnik. Postupak otvaranja ponuda započinje na naznačenome mjestu i u naznačeno vrijeme, istodobno s istekom roka za dostavu ponuda. Ponude otvaraju najmanje dva ovlaštena predstavnika javnog naručitelja. Javnom otvaranju ponuda smiju prisustvovati ovlašteni predstavnici ponuditelja i osobe sa statusom ili bez statusa zainteresirane osobe. Pravo aktivnog sudjelovanja u postupku javnog otvaranja ponuda imaju samo ovlašteni predstavnici naručitelja i ovlašteni predstavnici ponuditelja.
+(2) U ostalim postupcima javne nabave na otvaranju ponuda smiju prisustvovati ovlašteni predstavnici ponuditelja koji su predali konačne ponude.«

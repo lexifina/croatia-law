@@ -1,0 +1,4 @@
+# Članak 100.
+(1) Postupci javne nabave pokrenuti do stupanja na snagu ovoga Zakona u kojima nisu sklopljeni ugovori o javnoj nabavi, ili u povodu kojih se vode sudski ili koji drugi postupci, dovršit će se prema odredbama Zakona o javnoj nabavi koji je na snazi u vrijeme započinjanja postupka javne nabave.
+(2) Do dana stupanja na snagu Uredbe o javnoj nabavi za potrebe obrane i sigurnosti, na ugovore o javnoj nabavi koji su na osnovi propisa Republike Hrvatske određeni kao klasificirani ili čije izvršenje na osnovi zakona ili drugih propisa Republike Hrvatske zahtijeva primjenu mjera informacijske sigurnosti, ovaj se Zakon ne primjenjuje.
+(3) Do dana stupanja na snagu Pravilnika o javnoj nabavi za potrebe diplomatsko-konzularnih predstavništava Republike Hrvatske, na ugovore o javnoj nabavi za potrebe diplomatsko-konzularnih predstavništava Republike Hrvatske u inozemstvu, ovaj se Zakon ne primjenjuje.
