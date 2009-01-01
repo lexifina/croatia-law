@@ -1,0 +1,11 @@
+## Definicije osnovnih pojmova
+# Članak 2.
+Pojmovi koji se rabe u ovom Zakonu imaju sljedeće značenje:
+- »razvojna suradnja« je tehnička suradnja, programska pomoć, zajednička ili izravna ulaganja, kreditna, financijska i izvozna podrška, sudjelovanje u mirovnim operacijama, humanitarna pomoć i doprinosi međunarodnim organizacijama,
+- »razvojna pomoć« je instrument razvojne suradnje, a uključuje pomoć u novcu i investicijama sa svrhom podrške razvoju slabije razvijenih zemalja te prevladavanja hitnih problema i njihovih posljedica,
+- »službena razvojna pomoć« su aktivnosti i mjere osmišljene za promicanje održivog razvoja u slabije razvijenim zemljama koje se financiraju iz proračunskih sredstava Republike Hrvatske, a koriste se u skladu s propisima Odbora za razvojnu pomoć (DAC) Organizacije za gospodarsku suradnju i razvoj (u daljnjem tekstu: Odbor za razvojnu pomoć OECD-a) o službenoj razvojnoj pomoći za pružanje bilateralne, trilateralne, multilateralne razvojne pomoći i humanitarne pomoći inozemstvu,
+- »zemlja primateljica« je zemlja koju je Odbor za razvojnu pomoć OECD-a uvrstio na popis zemalja kvalificiranih za primanje pomoći,
+- »bilateralna službena razvojna pomoć« je provedba razvojnih programa i razvojnih projekata u zemlji primateljici koje financira Republika Hrvatska,
+- »trilateralna službena razvojna pomoć« je sudjelovanje u provedbi razvojnih programa i razvojnih projekata koji se provode u zemlji primateljici, a koje sufinancira Republika Hrvatska,
+- »multilateralna službena razvojna pomoć« su novčani prilozi koji se isplaćuju iz proračunskih ili drugih sredstava Republike Hrvatske međunarodnim organizacijama kojih je Republika Hrvatska članica, uključujući Europsku uniju, a koji se prema pravilima Odbora za razvojnu pomoć OECD-a smatraju službenom razvojnom pomoći,
+- »humanitarna pomoć inozemstvu« su aktivnosti potpore, pomoći i zaštite s ciljem pomoći ljudima u trećim zemljama, naročito najranjivijim među njima, a prvenstveno onima u slabije razvijenim zemljama, žrtvama prirodnih katastrofa, žrtvama kriza izazvanih ljudskim djelovanjem, kao što su ratovi i izbijanje sukoba, ili žrtvama sličnih izvanrednih situacija ili okolnosti, bez obzira na rasnu, etničku, vjersku, spolnu i dobnu pripadnost, nacionalnost ili političko opredjeljenje žrtava, a u skladu s potrebama i interesima žrtava.
