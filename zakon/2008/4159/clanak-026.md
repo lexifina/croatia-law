@@ -1,0 +1,6 @@
+## Organiziranje energetske usluge
+# Članak 26.
+(1) Operator distribucijskog sustava i opskrbljivač električnom energijom, toplinskom energijom i prirodnim plinom, osim malog operatora distribucijskog sustava i/ili malog opskrbljivača, dužan je organizirati ponudu energetskih usluga krajnjim kupcima energije po konkurentnim cijenama.
+(2) Operator distribucijskog sustava i opskrbljivač energijom iz stavka 1. ovoga članka koji se nalazi u okviru sustava vertikalno /ili horizontalno integriranog energetskog subjekta, može djelatnost energetskih usluga organizirati u okviru integriranog energetskog subjekta ili u okviru svoje vlastite organizacije, uz uvjet računovodstvenog razdvajanja ili putem nezavisnih izvođača energetskih usluga.
+(3) Ponuda energetskih usluga će uključivati informacije o pokazateljima energetske učinkovitosti, mjerama energetske učinkovitosti, izvođačima energetskih usluga, cijenama, mehanizmima financiranja, oglednim primjerima ugovora o energetskom učinku i druge informacije.
+(4) Operator distribucijskog sustava i opskrbljivač energijom iz stavka 1. ovoga članka je dužan poticati primjenu mjera energetske učinkovitosti objavom informacija o ponudi energetskih usluga na vlastitoj internetskoj stranici i periodički putem javnih medija.

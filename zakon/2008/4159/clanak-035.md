@@ -1,0 +1,7 @@
+## VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Podzakonski akti
+# Članak 35.
+(1) Ministar donosi provedbene propise iz članka 8. stavka 1., članka 17., članka 19. stavka 6., članka 19. stavka 7., članka 22. stavka 9. i članka 27. stavka 2. ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(2) Ministar nadležan za financije, u suradnji s ministrom i ministrom nadležnim za zaštitu okoliša, prostorno uređenje i graditeljstvo donosi provedbeni propis iz članka 25. stavka 5. ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(3) Ministar, u suradnji s ministrom nadležnim za zaštitu okoliša, prostorno uređenje i graditeljstvo usklađuje tehničke propise koji propisuju posebne tehničke zahtjeve za eko dizajn proizvoda koji koriste energiju, a odnose se na stupnjeve djelovanja novih toplovodnih kotlova na tekuće i plinovito gorivo te na energetsku učinkovitost kućanskih električnih hladnjaka, ledenica i njihovih kombinacija s pravilnikom iz članka 27. stavka 2. ovoga Zakona u roku od godinu dana od dana stupanja na snagu toga pravilnika.
+(4) Ministar, u suradnji s ministrom nadležnim za zaštitu okoliša, prostorno uređenje i graditeljstvo donosi tehnički propis o zahtjevima za energetsku učinkovitost predspojnih naprava (prigušnica) fluorescentne rasvjete, u skladu s pravilnikom iz članka 27. stavka 2. ovoga Zakona u roku od godinu dana od dana stupanja na snagu toga pravilnika.
