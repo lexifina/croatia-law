@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Odgovorna osoba u državnom tijelu i jedinici lokalne i područne (regionalne) samouprave koja na zahtjev pučkog pravobranitelja ili posebnog pravobranitelja, u roku od 30 dana od dana zaprimanja zahtjeva ne podnese očitovanja, podatke i dokumente vezane uz diskriminaciju i ne omogući uvid u njih kaznit će se za prekršaj novčanom kaznom od 1.000,00 do 5.000,00 kuna.
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se za prekršaj odgovorna osoba u državnom tijelu i jedinici lokalne i područne (regionalne) samouprave koja na zahtjev pučkog pravobranitelja ili posebnog pravobranitelja u roku od 30 dana od dana zaprimanja zahtjeva ne omogući uvid u spis.
