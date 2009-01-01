@@ -1,0 +1,4 @@
+# Članak 39.
+Osiguranik ima pravo na teret sredstava Zavoda ostvariti pravo na naknadu plaće za vrijeme bolovanja iz članka 26. točke 1. do 5. i točke 9. ovoga Zakona po istoj dijagnozi bolesti u maksimalnom trajanju od tri godine bez prekida.
+Osiguranik iz stavka 1. ovoga članka ostvaruje pravo na naknadu plaće u visini utvrđenoj u skladu s ovim Zakonom i općim aktima Zavoda do isteka 18 mjeseci trajanja bolovanja, a nakon toga u iznosu 50% zadnje isplaćene naknade plaće na ime toga bolovanja.
+Odredbe stavka 2. ovoga članka u dijelu koji se odnosi na umanjenje naknade plaće na iznos 50% zadnje isplaćene naknade plaće ne odnose se na osiguranika koji je na bolovanju zbog liječenja zloćudnih bolesti, koji je na hemodijalizi ili peritonejskoj dijalizi te koji je na bolovanju u svezi s uzimanjem i presađivanjem dijelova ljudskog tijela.

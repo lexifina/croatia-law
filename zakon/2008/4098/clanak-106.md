@@ -1,0 +1,5 @@
+# Članak 106.
+Zavod ima pravo i obvezu po zaprimanju prijave na obvezno zdravstveno osiguranje kao i za sve vrijeme trajanja statusa osigurane osobe provjeravati postojanje okolnosti na osnovi kojih je prijava podnesena, odnosno na osnovi kojih je osobi priznao taj status.
+Pravne i fizičke osobe, podnositelji prijave na obvezno zdravstveno osiguranje i osigurana osoba obvezni su na traženje Zavoda predočiti sve činjenice i dokaze kojima se dokazuje osnovanost prijave na obvezno zdravstveno osiguranje, odnosno valjanost važećeg statusa osigurane osobe.
+Ako Zavod ne prihvati podnesenu prijavu ili utvrdi status osigurane osobe po nekoj drugoj osnovi, odnosno ospori status osiguranoj osobi u obveznom zdravstvenom osiguranju zbog nepostojanja okolnosti na osnovi kojih joj je taj status utvrđen o tome donosi rješenje koje dostavlja podnositelju prijave i zainteresiranoj osobi sukladno općem aktu Zavoda.
+Opći akt o načinu prijavljivanja i odjavljivanja osigurane osobe te načinu utvrđivanja i kontrole okolnosti koje su osnova za stjecanje statusa osigurane osobe donijet će Zavod.

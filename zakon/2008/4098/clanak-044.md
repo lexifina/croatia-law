@@ -1,0 +1,3 @@
+# Članak 44.
+Novčana naknada zbog nemogućnosti obavljanja poslova na temelju kojih se ostvaruju primici od kojih se utvrđuje drugi dohodak sukladno propisima o doprinosima za obvezna osiguranja određuje se od prosječne osnovice za uplatu doprinosa za obvezno zdravstveno osiguranje.
+Pod prosječnom osnovicom iz stavka 1. ovoga članka podrazumijeva se prosjek osnovica osiguranja na koji je uplaćen doprinos za obvezno zdravstveno osiguranje u posljednjih šest mjeseci prije mjeseca u kojem je nastupila nemogućnost osiguranika za obavljanje poslova na temelju kojih se ostvaruju primici od kojih se utvrđuje drugi dohodak.

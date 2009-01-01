@@ -1,0 +1,2 @@
+# Članak 12.
+Državljani Republike Hrvatske na radu u inozemstvu kod stranog poslodavca obvezni su osigurati na obvezno zdravstveno osiguranje i uplaćivati propisani doprinos za svakog člana svoje obitelji s prebivalištem, odnosno stalnim boravkom u Republici Hrvatskoj koji nije zdravstveno osiguran kod stranog nositelja zdravstvenog osiguranja, a bio je prije njegova odlaska na rad u inozemstvo zdravstveno osiguran u Republici Hrvatskoj kao član njegove obitelji sukladno članku 8. ovoga Zakona.

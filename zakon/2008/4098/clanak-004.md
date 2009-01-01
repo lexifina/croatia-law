@@ -1,0 +1,2 @@
+# Članak 4.
+Na obvezno zdravstveno osiguranje prema odredbama ovoga Zakona obvezno se osiguravaju i stranci s odobrenim privremenim boravkom u Republici Hrvatskoj, a na temelju radnog odnosa kod poslodavca sa sjedištem u Republici Hrvatskoj, odnosno na temelju obavljanja gospodarske, odnosno profesionalne djelatnosti u Republici Hrvatskoj, ako su ispunjeni uvjeti prema posebnim propisima koji uređuju pitanje boravka i rada stranaca u Republici Hrvatskoj i ako međunarodnim ugovorom o socijalnom osiguranju nije drukčije određeno.

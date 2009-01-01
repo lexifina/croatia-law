@@ -1,0 +1,3 @@
+# Članak 105.
+Sve pravne i fizičke osobe obvezne su dostaviti Zavodu sve podatke u svezi s prijavom i odjavom osiguranih osoba, a radi ostvarivanja prava i obveza iz obveznoga zdravstvenog osiguranja i izdavanja posebne isprave iz članka 103. stavka 3. ovoga Zakona.
+Ako obveznik plaćanja doprinosa iz stavka 1. ovoga članka u roku od 30 dana od dana nastanka okolnosti za stjecanje statusa osigurane osobe ne podnese prijavu na obvezno zdravstveno osiguranje Zavod će po službenoj dužnosti donijeti rješenje o priznavanju statusa osiguranika, odnosno osigurane osobe Zavoda sukladno općem aktu Zavoda.

@@ -1,0 +1,3 @@
+# Članak 18.
+Osigurana osoba u okviru prava na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja ima pravo na korištenje lijekova koji su utvrđeni osnovnom i dopunskom listom lijekova Zavoda, pod uvjetima i na način propisan općim aktima Zavoda.
+Iznimno, osigurana osoba kod koje liječenje iz medicinskih razloga nije moguće provoditi lijekovima utvrđenim osnovnom i dopunskom listom lijekova Zavoda, može ostvariti pravo na lijek koji nije utvrđen tim listama lijekova, pod uvjetom da je potrebu korištenja lijeka odobrilo povjerenstvo za lijekove bolnice u kojoj se osigurana osoba liječi, i to na teret sredstava bolničke zdravstvene ustanove koja je obvezna osigurati nabavu lijeka.

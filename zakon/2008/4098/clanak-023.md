@@ -1,0 +1,5 @@
+# Članak 23.
+Osigurane osobe obvezne su sudjelovati u troškovima zdravstvene zaštite iz članka 16. stavka 3. i 4. i članka 17. stavka 5. ovoga Zakona.
+Osigurana osoba troškove zdravstvene zaštite iz stavka 1. ovoga članka plaća osobno prilikom korištenja zdravstvene zaštite ili putem dopunskoga zdravstvenog osiguranja sukladno Zakonu o dobrovoljnom zdravstvenom osiguranju.
+Sredstva ostvarena sudjelovanjem osigurane osobe u troškovima zdravstvene zaštite iz članka 16. stavka 3. i članka 17. stavka 5. ovoga Zakona prihod su ugovornih subjekata Zavoda, ugovornih isporučitelja pomagala, odnosno inozemnih zdravstvenih ustanova u kojima su osigurane osobe koristile zdravstvenu zaštitu u skladu sa člankom 20. ovoga Zakona, a sredstva iz članka 16. stavka 4. prihod su Zavoda.
+U troškovima zdravstvene zaštite iz članka 16. stavka 3. i 4. ovoga Zakona nisu obvezna sudjelovati djeca do navršene 18. godine života i djeca iz članka 10. stavka 5. i 6. ovoga Zakona za sve oblike zdravstvene zaštite u okviru utvrđenog standarda zdravstvene zaštite iz obveznoga zdravstvenog osiguranja.

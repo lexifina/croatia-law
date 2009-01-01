@@ -1,0 +1,25 @@
+# Članak 132.
+Do stupanja na snagu propisa iz članka 130. i 131. ovoga Zakona ostaju na snazi:
+1. Pravilnik o pravima, uvjetima i načinu ostvarivanja prava iz osnovnoga zdravstvenog osiguranja (»Narodne novine«, br. 120/06., 136/06., 56/07., 80/07., 96/07. i 45/08.),
+2. Pravilnik o načinu ostvarivanja prava osiguranih osoba Hrvatskog zavoda za zdravstveno osiguranje na slobodan izbor doktora medicine i doktora stomatologije primarne zdravstvene zaštite (»Narodne novine«, br. 41/07.),
+3. Pravilnik o uvjetima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući (»Narodne novine«, br. 26/96., 79/97., 31/99., 51/99., 73/99. 40/07., 46/07. - pročišćeni tekst i 64/08.),
+4. Pravilnik o sastavu, ovlastima i načinu rada liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 57/07. i 96/07.),
+5. Pravilnik o načinu propisivanja i izdavanja lijekova na recept (»Narodne novine «, br. 120/06., 40/07., 112/07. i 134/07.),
+6. Pravilnik o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala (»Narodne novine«, br. 25/05., 41/05., 88/05., 125/05., 155/05., 24/06., 36/06., 46/06., 88/06., 96/06., 112/06., 136/06., 48/07., 57/07., 80/07., 89/07. - pročišćeni tekst, 134/07., 11/08., 34/08., 79/08. i 128/08.),
+7. Pravilnik o standardima i normativima prava na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja (»Narodne novine«, br. 142/06., 11/07., 80/07., 134/07., 34/08. i 129/08.),
+8. Pravilnik o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu (»Narodne novine«, br. 80/07. i 85/07.),
+9. Pravilnik o načinu prijavljivanja i odjavljivanja, te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju (»Narodne novine«, br. 31/07., 56/07., 96/07., 130/07. i 33/08.),
+10. Pravilnik o uvjetima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja na zdravstvenu njegu u kući osigurane osobe (»Narodne novine«, br. 40/07.),
+11. Pravilnik o rokovima najduljeg trajanja bolovanja ovisno o vrsti bolesti (»Narodne novine«, br. 5/03.),
+12. Pravilnik o ovlastima i načinu rada kontrolora Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 80/07.),
+13. Pravilnik o mjerilima i postupku za utvrđivanje nesposobnosti za samostalan život i rad i nedostatak sredstava za uzdržavanje za osobe s prebivalištem u Republici Hrvatskoj kojima se zdravstvena zaštita ne osigurava po drugoj osnovi (»Narodne novine«, br. 39/02.),
+14. Pravilnik o uvjetima za oslobađanje od plaćanja doprinosa za osnovno zdravstveno osiguranje poljoprivrednika starijih od 65 godine (»Narodne novine«, br. 122/02.),
+15. Odluka o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 132/07., 134/07., 16/08., 33/08., 68/08., 90/08. i 134/08.),
+16. Odluka o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 132/07., 134/07., 68/08. i 134/08.),
+17. Odluka o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja (»Narodne novine«, br. 28/02., 11/03., 158/03., 161/04., 51/05. i 155/05.),
+18. Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« br. (13/07., 77/07., 96/07., 134/07., 64/08., 90/08. i 116/08.)
+19. Odluka o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, br. 142/06., 143/06., 11/07., 41/07., 96/07., 117/07., 119/07., 134/07., 34/08., 45/08., 85/08., i 90/08.),
+20. Odluka o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, br. 142/06., 13/07., 34/08. i 45/08.),
+21. Odluka o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe (»Narodne novine« br. 4/07.),
+22. Odluka o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi (»Narodne novine«, br. 15/92., 29/93., 65/93., 31/95., 73/99., 3/00., 18/00., 118/01., 44/02., 76/02., 85/02., 92/02., 130/02., 151/02., 11/03., 32/03., 43/03., 203/03., 30/05., 88/05., 136/06., 16/07., 40/07., 57/07., 80/07., 84/07., 98/07., 111/07., 130/07., 54/08. i 85/08.),
+23. Opći uvjeti ugovora o provođenju zdravstvene zaštite iz obveznoga zdravstvenog osiguranja (»Narodne novine«, br. 11/07., 40/07., 117/07., 11/08., 21/08. i 45/08.).

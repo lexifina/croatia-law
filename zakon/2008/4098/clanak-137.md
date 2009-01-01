@@ -1,0 +1,3 @@
+# Članak 137.
+Osigurane osobe Zavoda koje su pravo na oslobađanje od doplate ostvarile na temelju Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 85/06., 105/06., 118/06., 77/07., 111/07. i 35/08.) zadržavaju to pravo i nakon stupanja na snagu ovoga Zakona do isteka važenja potvrde o pravu na oslobađanje od doplate, a najdulje do 30. lipnja 2009.
+Osigurane osobe iz stavka 1. ovoga članka imaju pravo za pokriće troškova zdravstvene zaštite iz članka 16. stavka 3. i 4. ovoga Zakona od 1. travnja 2009. osigurati se u dopunskom zdravstvenom osiguranju kod Zavoda u skladu sa odredbama Zakona o dobrovoljnom zdravstvenom osiguranju na teret sredstava državnog proračuna.
