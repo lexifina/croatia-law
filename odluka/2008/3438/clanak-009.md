@@ -1,0 +1,10 @@
+## IV. RJEŠENJE O SIGURNOSTI ZA ŽELJEZNIČKOG PRIJEVOZNIKA
+# Članak 9.
+(1) Za pristup željezničkoj infrastrukturi i obavljanje usluga javnog prijevoza na prugama željezničke mreže u Republici Hrvatskoj, pored dozvole za obavljanje usluga željezničkog prijevoza, željeznički prijevoznici moraju ispunjavati uvjete sigurnosti, te posjedovati rješenje o sigurnosti koje na zahtjev željezničkih prijevoznika izdaje Agencija.
+(2) Rješenjem o sigurnosti, željeznički prijevoznik dokazuje da je uspostavio sustav upravljanja sigurnošću te da ispunjava uvjete propisane propisima Republike Hrvatske i propisima Europske unije, te međunarodnim ugovorima koji obvezuju Republiku Hrvatsku, a kojim se uređuju pitanja sigurnosti željezničkog prometa te uvjete propisane TSI-jem za željezničke pruge od značaja za međunarodni promet, u cilju kontrole rizika i sigurnog prometovanja željezničkom mrežom.
+(3) Ispunjavanje uvjeta sigurnosti dokazuje se rješenjem o sigurnosti koje na zahtjev željezničkog prijevoznika izdaje Agencija.
+(4) Rješenje iz stavka 3. ovoga članka izdaje se na vrijeme od pet godina s mogućnošću produženja na zahtjev željezničkog prijevoznika.
+(5) Ako se inspekcijskim nadzorom ili na drugi način utvrdi da su nastupile okolnosti zbog kojih imalac rješenja o sigurnosti više ne ispunjava uvjete sigurnosti ili utvrdi da imalac rješenja isto nije koristio u godini dana od dana njegovog izdavanja, Agencija će rješenjem ukinuti rješenje o sigurnosti.
+(6) Ako se inspekcijskim nadzorom ili na drugi način utvrde određene nepravilnosti, a koje bitno ne utječu na sigurnost željezničkog prometa, mjerodavni inspektor ili drugi ovlašteni službenik rješenjem će narediti njihovo otklanjanje i odrediti rok u kojem je imalac rješenja to dužan učiniti.
+(7) Ako imalac rješenja o sigurnosti ne otkloni utvrđene nepravilnosti u roku određenom za njihovo otklanjanje, Agencija donosi rješenje kojim se ovo rješenje ukida.
+(8) Odredbe ovoga članka na odgovarajući se način primjenjuju i na pravne osobe koje obavljaju prijevoz za vlastite potrebe.
