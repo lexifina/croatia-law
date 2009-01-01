@@ -1,0 +1,11 @@
+## III. UREĐAJI
+## Postupci ocjenjivanja sukladnosti za uređaje
+# Članak 7.
+(1) Ovlašteno tijelo za ocjenjivanje sukladnosti provodi postupke ocjenjivanja sukladnosti uređaja s bitnim zahtjevima elektromagnetske kompatibilnosti iz članka 5. ovoga Pravilnika.
+(2) Ocjenjivanje sukladnosti uređaja s bitnim zahtjevima elektromagnetske kompatibilnosti iz članka 5. ovoga Pravilnika provodi se, prema izboru proizvođača opreme ili njegova ovlaštenog zastupnika, na jedan od načina utvrđenih u Dodacima 1. i 2. koji su tiskani uz ovaj Pravilnik i čine njegov sastavni dio.
+(3) Za uređaje, koji su proizvedeni u skladu s normama iz članka 6. ovoga Pravilnika, proizvođač, njegov ovlašteni zastupnik ili druga osoba odgovorna za stavljanje uređaja na tržište Republike Hrvatske izdaje Izjavu o sukladnosti kojom potvrđuje sukladnost uređaja s bitnim zahtjevima iz članka 5. ovoga Pravilnika.
+(4) Izjava o sukladnosti mora osobito sadržavati podatke navedene u Dodatku 3. koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio.
+(5) Proizvođač, njegov ovlašteni zastupnik ili druga osoba odgovorna za stavljanje uređaja na tržište Republike Hrvatske obvezna je čuvati Izjavu o sukladnosti i tehničku dokumentaciju u razdoblju od najmanje deset godina od dana proizvodnje posljednjeg takvog uređaja, te je dati na uvid nadležnom inspektoru, u skladu s njegovim zahtjevom.
+(6) Proizvođač, njegov ovlašteni zastupnik ili druga osoba odgovorna za stavljanje uređaja na tržište Republike Hrvatske obvezna je uređaj ili omot za pakiranje (ako postoji), ili upute za uporabu uređaja označiti u skladu s odredbama članka 9. ovoga Pravilnika.
+(7) Proizvođač, njegov ovlašteni zastupnik ili druga osoba odgovorna za stavljanje uređaja na tržište Republike Hrvatske, prije stavljanja tog uređaja na tržište, mora dostaviti ovlaštenom tijelu za ocjenjivanje sukladnosti Izjavu o sukladnosti, presliku izvorne Izjave o sukladnosti (EC Declaration of Conformity) ako uređaj nije proizveden u Republici Hrvatskoj, te pripadajuću tehničku dokumentaciju u skladu s Dodatkom 3. točkom 1. ovoga Pravilnika.
+(8) Ovlašteno tijelo za ocjenjivanje sukladnosti izdaje potvrdu o sukladnosti (certifikat) ako utvrdi sukladnost uređaja iz stavka 7. ovoga članka s bitnim zahtjevima elektromagnetske kompatibilnosti iz članka 5. ovoga Pravilnika.
