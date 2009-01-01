@@ -1,0 +1,7 @@
+# Članak 92.
+Naslov iznad članka 177. mijenja se i glasi: »Obveze društva za osiguranje odnosno društva za reosiguranje u grupi osiguravatelja«.
+Članak 177. mijenja se i glasi:
+»(1) Društva za osiguranje, odnosno društva za reosiguranje u grupi osiguravatelja moraju vladajućem društvu za osiguranje odnosno društvu za reosiguranje, koncernu osiguravatelja, odnosno financijskom koncernu, osiguravateljnom holdingu odnosno mješovitom osiguravateljnom holdingu, odnosno mješovitom financijskom holdingu dostaviti sve podatke i informacije koje su mu potrebne radi ispunjavanja obveza prema nadzornom tijelu, odnosno drugom nadležnom nadzornom tijelu u vezi s nadzorom nad grupom osiguravatelja.
+(2) Vladajuće društvo za osiguranje odnosno društvo za reosiguranje u grupi osiguravatelja odgovorno je za ispunjavanje obveza grupe osiguravatelja kao cjeline.
+(3) Nadzorno tijelo, informacije potrebne za obavljanje nadzora, može tražiti od povezanih društava za osiguranje, odnosno društava za reosiguranje, društava koja imaju udjele u društvu za osiguranje, odnosno društvu za reosiguranje i povezanih društava koja imaju udjele u društvu za osiguranje, odnosno društvu za reosiguranje, u slučaju da je nadzorno tijelo te informacije zahtijevalo od vladajućeg društva za osiguranje, odnosno društva za reosiguranje, a ono ih nije dostavilo.
+(4) Društva za osiguranje, odnosno društva za reosiguranje u grupi osiguravatelja dužna su osigurati odgovarajuće postupke provjere točnosti podataka i informacija iz stavka 1. ovoga članka.«

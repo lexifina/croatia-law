@@ -1,0 +1,4 @@
+# Članak 170.
+Članak 288. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 750.000,00 do 1.500.000,00 kuna kaznit će se za prekršaj financijski koncern, koncern osiguravatelja odnosno vladajuće društvo za osiguranje odnosno društvo za reosiguranje u grupi osiguravatelja koje ne sastavlja izvješća o adekvatnosti kapitala u grupi osiguravatelja odnosno ne izvještava nadzorno tijelo o adekvatnosti kapitala u grupi osiguravatelja sukladno odredbama članka 179. ovoga Zakona odnosno sukladno odredbama propisa donesenih temeljem članka 181. ovoga Zakona.
+(2) Novčanom kaznom u iznosu 20.000,00 do 80.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba financijskog koncerna, koncerna osiguravatelja ili vladajućeg društva za osiguranje odnosno društva za reosiguranje u grupi osiguravatelja.«

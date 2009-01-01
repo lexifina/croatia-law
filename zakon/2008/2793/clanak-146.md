@@ -1,0 +1,5 @@
+# Članak 146.
+Članak 255. mijenja se i glasi:
+»(1) Društvo za zastupanje u osiguranju odnosno posredovanje u osiguranju i reosiguranju koje pripoji drugo društvo za zastupanje u osiguranju odnosno posredovanje u osiguranju i reosiguranju mora prije upisa odluke o pripajanju u sudski registar od nadzornog tijela dobiti odobrenje za pripajanje.
+(2) Društva za zastupanje u osiguranju odnosno posredovanje u osiguranju i reosiguranju koja se spajaju moraju prije upisa odluke o spajanju u sudski registar od nadzornog tijela dobiti odobrenje za spajanje, te dozvolu za obavljanje poslova zastupanja u osiguranju odnosno posredovanja u osiguranju i reosiguranju za novonastalo društvo za zastupanje u osiguranju odnosno posredovanje u osiguranju i reosiguranju.
+(3) Danom upisa novonastalog društva za zastupanje u osiguranju odnosno posredovanje u osiguranju i reosiguranju u sudski registar prestaju postojati društva za zastupanje u osiguranju odnosno posredovanje u osiguranju i reosiguranju koja se spajaju, a njihove dozvole za obavljanje poslova za zastupanje u osiguranju, odnosno posredovanje u osiguranju i reosiguranju prestaju vrijediti.«

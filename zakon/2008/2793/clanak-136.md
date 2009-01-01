@@ -1,0 +1,5 @@
+# Članak 136.
+Članak 245. mijenja se i glasi:
+»(1) Posrednik u osiguranju i reosiguranju dužan je pri obavljanju poslova posredovanja u osiguranju i reosiguranju štititi interese ugovaratelja osiguranja, ugovaratelja reosiguranja odnosno osiguranika.
+(2) Posrednik u osiguranju i reosiguranju dužan je kod obavljanja poslova posredovanja u osiguranju i reosiguranju štititi one interese društva za osiguranje odnosno reosiguranje na koje je inače, prije ili nakon sklapanja ugovora o osiguranju odnosno reosiguranju, obvezan ugovaratelj osiguranja odnosno reosiguranja. Posrednik u osiguranju i reosiguranju, obavljajući poslove pripreme za sklapanje ugovora o osiguranju i reosiguranju, dužan je obavijestiti društva za osiguranje odnosno reosiguranje o svim potrebnim rizicima koji su mu poznati odnosno su mu morali biti poznati.
+(3) Posrednik u osiguranju i reosiguranju dužan je ugovaratelju osiguranja odnosno reosiguranja objasniti sve pravne i ekonomske veze s pojedinim društvom za osiguranje odnosno reosiguranje koje mogu utjecati na pristranost posrednika u osiguranju i reosiguranju pri izvršavanju obveza prema ugovaratelju osiguranja odnosno reosiguranja.«

@@ -1,0 +1,4 @@
+# Članak 54.
+U članku 100. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Iznosi jamstvenog kapitala iz stavka 3. ovoga članka kontroliraju se godišnje od dana pristupa Europskoj uniji kako bi se uzele u obzir promjene u europskom indeksu potrošačkih cijena koji obuhvaća sve države članice kako to objavljuje Eurostat. Iznosi se prilagođavaju automatski na način da se osnovni iznos jamstvenog kapitala povećava postotkom promjene u prethodno citiranom indeksu potrošačkih cijena, koji je nastao u tijeku razdoblja od dana stupanja na snagu ove odredbe i datuma kontrole odnosno jednom godišnje, zaokruženim na iznos višekratnika od 750.000 kuna. Ako je promjena postotaka od zadnje prilagodbe manja od 5 %, prilagodbu nije potrebno provoditi.
+(5) Komisija godišnje obavještava Europski parlament i Vijeće o kontroli i prilagođenim iznosima navedenim u stavku 4. ovoga članka.«

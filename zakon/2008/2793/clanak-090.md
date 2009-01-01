@@ -1,0 +1,12 @@
+# Članak 90.
+Članak 175. mijenja se i glasi:
+»(1) Grupa osiguravatelja sukladno ovome Zakonu postoji onda ako je društvo za osiguranje odnosno društvo za reosiguranje ili koncern osiguravatelja odnosno financijski koncern ili osiguravateljni holding odnosno mješoviti osiguravateljni holding odnosno mješoviti financijski holding sa sjedištem u Republici Hrvatskoj vladajuće društvo nad jednim ili više društava za osiguranje odnosno društava za reosiguranje sa sjedištem u Republici Hrvatskoj, državi članici, odnosno stranoj državi.
+(2) Društvo za osiguranje, odnosno društvo za reosiguranje ili koncern osiguravatelja odnosno financijski koncern ili osiguravateljni holding, odnosno mješoviti osiguravateljni holding, odnosno mješoviti financijski holding smatra se vladajućim društvom nad društvom za osiguranje, odnosno društvom za reosiguranje u smislu stavka 1. ovoga članka ako:
+1. ima sudjelovanje sukladno odredbama članka 9. stavka 1. ovoga Zakona ili,
+2. ako ima većinu glasova u drugom društvu ili
+3. ako ima pravo imenovati odnosno opozvati većinu članova uprave ili nadzornog odbora drugog društva ili
+4. ako ima pravo izvršavati vladajući utjecaj nad drugim društvom na temelju poduzetničkog ugovora odnosno na drugom pravnom temelju ili
+5. ako je većina članova uprave ili nadzornog odbora tog društva, koji su tu funkciju obavljali u prošloj poslovnoj godini i još uvijek je obavljaju za potrebe izrade konsolidiranih izvještaja, bila imenovana isključivo radi izvršavanja prava glasa vladajućeg društva ili
+6. ako je dioničar, odnosno ortak u drugom društvu i ako na temelju dogovora s drugim dioničarima, odnosno ortacima tog društva nadzire većinu prava glasa u tom društvu.
+(3) Grupa osiguravatelja postoji i onda ako je koncern osiguravatelja ili financijski koncern ili osiguravateljni holding, odnosno mješoviti osiguravateljni holding, odnosno mješoviti financijski holding čije je sjedište u državi članici vladajuće društvo najmanje jednom društvu za osiguranje odnosno društvu za reosiguranje sa sjedištem u Republici Hrvatskoj na jedan od načina iz stavka 2. ovoga članka.
+(4) Vladajućim društvom za osiguranje, odnosno društvom za reosiguranje u grupi osiguravatelja se iznimno od stavka 2. ovoga članka ne smatra društvo za osiguranje odnosno društvo za reosiguranje sa sjedištem u Republici Hrvatskoj koje je istodobno podređeno drugom društvu za osiguranje, odnosno društvu za reosiguranje sa sjedištem u Republici Hrvatskoj.«

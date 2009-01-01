@@ -1,0 +1,5 @@
+# Članak 175.
+Naslov iznad članka 299. mijenja se i glasi: »Zastupnici u osiguranju i posrednici u osiguranju i reosiguranju«.
+Članak 299. mijenja se i glasi:
+»(1) Osobe koje na dan stupanja na snagu ovoga Zakona imaju ovlaštenje za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju izdano od ministra financija, dužna su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona podnijeti zahtjev nadzornom tijelu za izdavanje ovlaštenja za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju. Zahtjevu je osoba dužna priložiti dokaz da nije osuđivana za kaznena djela iz područja gospodarskog kriminala, odnosno da nije pod istragom.
+(2) Nadzorno tijelo izdat će osobi iz stavka 1. ovoga članka na temelju ovlaštenja za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju izdanog od ministra financija ovlaštenje za obavljanje poslova zastupanja u osiguranju iz članka 248. ovoga Zakona, odnosno ovlaštenje za obavljanje poslova posredovanja u osiguranju i reosiguranju iz članka 249. ovoga Zakona.«

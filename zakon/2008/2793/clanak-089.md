@@ -1,0 +1,6 @@
+# Članak 89.
+U članku 174. stavku 1. ispred riječi: »nadzor« dodaje se riječ: »dodatni«.
+Stavak 2. mijenja se i glasi:
+»(2) Nadzorno tijelo obavlja dodatni nadzor nad poslovanjem koncerna osiguravatelja, financijskim koncernom, osiguravateljnim holdingom, mješovitim osiguravateljnim holdingom, mješovitim financijskim holdingom i osobama u kojima društvo za osiguranje odnosno društvo za reosiguranje ima kvalificirani udjel, odnosno osobama koje imaju kvalificirani udjel u društvu za osiguranje odnosno društvu za reosiguranje sa sjedištem u Republici Hrvatskoj, državi članici, odnosno stranoj državi.«
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Za provođenje dodatnog nadzora društava za osiguranje, odnosno društava za reosiguranje koja su u vlasništvu istoga financijskog koncerna, koncerna osiguravatelja, osiguravateljnog holdinga, mješovitoga osiguravateljnog holdinga, mješovitoga financijskog holdinga, društva za osiguranje odnosno društva za reosiguranje iz države koja nije članica, a obavljaju poslove osiguranja odnosno poslove reosiguranja u dvije ili više država članica, nadležna su nadzorna tijela država članica, koja se mogu dogovoriti da će jedno od nadležnih nadzornih tijela, odnosno koordinator dodatnog nadzora provesti dodatni nadzor i dostaviti rezultate nadzora ostalim nadležnim nadzornim tijelima.«

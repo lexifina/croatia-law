@@ -1,0 +1,9 @@
+# Članak 124.
+Naslov iznad članka 229. mijenja se i glasi: »Pravo na namirenje iz imovine za pokriće matematičke pričuve«.
+Članak 229. mijenja se i glasi:
+»(1) Danom otvaranja stečajnog postupka, vjerovnici tražbina iz ugovora o osiguranju iz članka 228. ovoga Zakona stječu pravo na namirenje tih tražbina iz imovine za pokriće matematičke pričuve.
+(2) Vjerovnici tražbina iz ugovora o životnim osiguranjima i ostalih ugovora o osiguranju za koja glede obveza društva za osiguranje vrijede pravila o životnim osiguranjima imaju pravo da se iz imovine za pokriće matematičke pričuve, prije isplate ostalih tražbina pokriću kojih je namijenjena imovina za pokriće matematičke pričuve za pojedine vrste životnog osiguranja, isplate njihove tražbine u visini koja odgovara obveznom pokriću u vezi s osiguranjem iz kojeg proizlazi ta tražbina.
+(3) Ako imovina za pokriće matematičke pričuve nije dostatna za cjelokupnu isplatu tražbina iz stavka 2. ovoga članka, tražbine se isplaćuju u visini koja je u jednakom omjeru s obveznim pokrićem u svezi s osiguranjem iz kojeg proizlazi tražbina, kao što je omjer između cjelokupne vrijednosti imovine za pokriće matematičke pričuve i obveznim pokrićem za sva osiguranja koja je društvo za osiguranje sklopilo u vrsti osiguranja u svezi s kojom je oblikovana imovina za pokriće matematičke pričuve.
+(4) Ostale tražbine vjerovnika iz članka 228. ovoga Zakona isplaćuju se iz imovine za pokriće matematičke pričuve koja preostane nakon isplate tražbina iz stavka 2. ovoga članka.
+(5) Ako imovina za pokriće matematičke pričuve nije dostatna za cjelokupnu isplatu ostalih tražbina iz stavka 4. ovoga članka, te se tražbine namiruju razmjerno iz imovine za pokriće matematičke pričuve.
+(6) Glede utvrđivanja visine tražbina i ukupne visine obveznog pokrića mjerodavno je stanje na dan otvaranja stečajnog postupka.«
