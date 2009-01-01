@@ -1,0 +1,2 @@
+# Članak 45.
+Danom stupanja na snagu ovoga Zakona ministarstvo preuzima na korištenje poslovne prostorije i opremu koju su do dana stupanja na snagu ovoga Zakona, u obavljanju poslova koje prema ovome Zakonu obavljaju sanitarni inspektori, koristili državni službenici koji su na dan stupanja na snagu ovoga Zakona zatečeni na poslovima inspekcijskoga nadzora u uredima državne uprave u županijama, te preuzima financijska sredstva iz proračuna Središnjeg državnog ureda za upravu namijenjena za rad državnih službenika koji se preuzimaju iz ureda državne uprave u županijama.

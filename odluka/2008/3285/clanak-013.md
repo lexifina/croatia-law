@@ -1,0 +1,4 @@
+# Članak 13.
+Sanitarna inspekcija na područjima inspekcijskog nadzora utvrđenim ovim Zakonom utvrđuje, za građevine određene pravilnikom iz članka 46. stavka 4. ovoga Zakona, posebne sanitarno-tehničke uvjete te posebne uvjete zaštite od buke u postupku izdavanja lokacijske dozvole i rješenja o uvjetima gradnje, te ispunjavanje tih uvjeta, odnosno uvjeta propisanih posebnim zakonom koji uređuje zaštitu zdravlja ljudi u postupku izdavanja građevinske i uporabne dozvole.
+Sanitarna inspekcija na području obavljanja inspekcijskog nadzora nad zaštitom od buke nadzire provedbu zakona i drugih propisa kojima se uređuju mjere za zaštitu od buke u svrhu zaštite zdravlja ljudi.
+Sanitarna inspekcija na području iz stavka 2. ovoga članka obavlja i nadzor nad pravnim osobama ovlaštenim za stručne poslove zaštite od buke te obavlja i druge poslove kada je to određeno posebnim propisima.

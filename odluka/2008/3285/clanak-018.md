@@ -1,0 +1,2 @@
+# Članak 18.
+Ministarstvo nadležno za zdravstvo (u daljnjem tekstu: ministarstvo) obvezno je osigurati najmanje jednog inspektora na 15.000 stanovnika, vodeći pri tome računa o broju i rizičnosti objekata pod nadzorom, odnosno o povećanju opsega poslova iz područja inspekcijskog nadzora, osobito tijekom turističke sezone na području pojedinih područnih jedinica, u kojem slučaju kao i u slučajevima drugih posebnih okolnosti, ministar može odrediti da inspekcijske poslove obavlja drugi inspektor ministarstva.
