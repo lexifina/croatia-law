@@ -1,0 +1,6 @@
+# Članak 42.
+(1) U skladu s politikom koncesija i nadležnostima ministarstva nadležnog za financije, o svim uočenim nepravilnostima i poduzetim mjerama davatelj koncesije mora u pisanom obliku obavijestiti ministarstvo nadležno za financije pravovremeno, a najkasnije u roku od 30 dana od uočene nepravilnosti odnosno poduzete mjere.
+(2) Koncesionar je dužan postupiti po zahtjevu davatelja koncesije ili ministarstva nadležnog za financije ukoliko se od njega traži potvrda o izvršavanju preuzetih obveza iz ugovora o koncesiji ili drugi važni podaci o poštivanju ugovora o koncesiji u roku od 10 dana od dana primitka zahtjeva.
+(3) U slučaju neispunjavanja zahtjeva iz stavka 2. ovog članka, davatelj koncesije dužan je poduzeti sve pravne radnje u skladu s odredbama ugovora o koncesiji i ovlastima davatelja koncesije.
+(4) U postupcima kada nije moguće ispunjenje obveza iz ugovora o koncesiji, davatelj koncesije dužan je o istome obavijestiti nadležno državno odvjetništvo i ostale nadzorne i inspekcijske službe, te pokrenuti sve nužne mjere radi ispravljanja uočenih nepravilnosti.
+(5) Davatelj koncesije dužan je obavijestiti ministarstvo nadležno za financije o poduzetim mjerama iz stavka 4. ovog članka u roku od 10 dana od poduzimanja tih mjera te redovito izvještavati o svim postupcima pokrenutim za vrijeme provođenja navedenih mjera.

@@ -1,0 +1,7 @@
+## Kriteriji za odabir najpovoljnije ponude
+# Članak 21.
+(1) Kriteriji na kojima davatelj koncesija temelji odabir najpovoljnije ponude jesu:
+1. u slučaju ekonomski najpovoljnije ponude sa stajališta davatelja koncesije, kriteriji vezani uz predmet koncesije, kao što su: kvaliteta, visina naknade, cijena, tehničko dostignuće, estetske, funkcionalne i ekološke osobine, operativni troškovi, ekonomičnost, servisiranje nakon predaje i tehnička pomoć, datum isporuke i rokovi isporuke ili rokovi završetka radova, ili
+2. najviša ponuđena naknada za koncesiju.
+(2) Kada se najpovoljniji ponuditelj odabire na temelju kriterija ekonomski najpovoljnije ponude, davatelj koncesije u dokumentaciji za nadmetanje, te u obavijesti o namjeri davanja koncesije navodi sve kriterije za odabir ponude čiju primjenu predviđa u odnosu na relativno značenje koje im pridaje. Značenje kriterija može se izraziti određivanjem niza maksimalnih vrijednosti u odgovarajućem rasponu. Ako to iz opravdanih razloga nije moguće, davatelj koncesije navodi u obavijesti o namjeri davanja koncesije kriterije poredane po važnosti od najvažnijeg prema najmanje važnom.
+(3) Davatelj koncesije obvezan je odrediti, definirati i, prilikom procjene opravdanosti davanja koncesije, primijeniti i kriterije određene posebnim propisima koji ukazuju na dugoročnu održivost ponuditelja za vrijeme provedbe koncesije u predviđenom razdoblju.

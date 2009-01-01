@@ -1,0 +1,7 @@
+## VIII. POLITIKA KONCESIJA
+# Članak 40.
+(1) Politika koncesija, u smislu ovog Zakona, predstavlja sve mjere i aktivnosti usmjerene uspostavi i održanju učinkovitog sustava davanja koncesija te ustroj i vođenje Registra koncesija.
+(2) U okviru politike koncesija ministarstvo nadležno za financije može samostalno, bez zahtjeva davatelja koncesije, pokrenuti postupak nadzora putem inspekcijskih službi i/ili nadležnih poreznih službi nad koncesionarom koji ne izvršava obveze u skladu s ugovorom o koncesiji, a u okviru djelokruga ministarstva nadležnog za financije.
+(3) Davatelj koncesije, odnosno nadležno tijelo za provođenje ili nadzor nad provedbom zakona kojim se uređuje pojedina koncesija, dužan je poštovati i izvršavati zahtjeve ministarstva nadležnog za financije, te sudjelovati u provedbi svih vrsta nadzora iz stavka 2. ovog članka.
+(4) U slučaju neizvršavanja mjera i preporuka ministarstva nadležnog za financije, te u slučaju nesuradnje, ministarstvo nadležno za financije može zatražiti pokretanje upravnog i inspekcijskog nadzora u skladu s djelokrugom i odredbama propisa kojima se uređuju poslovi tijela nadležnog za državnu upravu.
+(5) Ministarstvo nadležno za financije osim navedenih mjera iz stavka 1. do 4. ovog članka provodi i sve ostale aktivnosti vezane uz suradnju s davateljima koncesija u svrhu preventivnog djelovanja, te usklađivanja svih aktivnosti na području koncesija, a za vrijeme trajanja ugovora o koncesiji.
