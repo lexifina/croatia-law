@@ -1,0 +1,7 @@
+## Posebna pravila za podijeljeni prospekt
+# Članak 366.
+(1) Izdavatelj čiji je registracijski dokument već odobren od Agencije, mora, radi ponude vrijednosnih papira javnosti ili uvrštenja vrijednosnih papira na uređeno tržište, izraditi i obavijest o vrijednosnom papiru i sažetak prospekta.
+(2) Izdavatelj čiji je registracijski dokument potvrdilo nadležno tijelo matične države članice, mora, radi ponude vrijednosnih papira javnosti ili uvrštenja vrijednosnih papira na uređeno tržište, izraditi i obavijest o vrijednosnom papiru i sažetak prospekta.
+(3) U slučajevima iz stavka 1. i 2. ovog članka, obavijest o vrijednosnom papiru mora sadržavati i informacije koje bi inače bile dio registracijskog dokumenta, ako su nakon objave registracijskog dokumenta ili zadnje dopune registracijskog dokumenta, nastupile promjene koje mogu utjecati na odluku ulagatelja.
+(4) U slučajevima iz stavka 1. i 2. ovog članka, izdavatelj mora dobiti posebno odobrenje za obavijest o vrijednosnom papiru i sažetak prospekta. Na odobrenje obavijesti o vrijednosnom papiru i sažetka prospekta, na odgovarajući način primjenjuju se odredbe ove Glave Zakona o odobrenju prospekta.
+(5) Kad o zahtjevu izdavatelja za odobrenje registracijskog dokumenta nije odlučeno, a izdavatelj podnese i zahtjev za odobrenje obavijesti o vrijednosnom papiru i sažetak prospekta, predmet odobrenja će biti svi dokumenti koji čine podijeljeni prospekt, u kojima moraju biti i moguće nove informacije iz stavka 3. ovog članka.

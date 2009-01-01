@@ -1,0 +1,5 @@
+## Nadzorne mjere Agencije u postupku nadzora nad pružanjem investicijskih usluga i obavljanjem investicijskih aktivnosti
+# Članak 255.
+(1) Na temelju zapisnika o obavljenom nadzoru, u skladu s ovim Zakonom i na temelju njega donesenim propisima, Agencija je investicijskom društvu i drugim osobama nad kojima je ovlaštena obavljati nadzor, ovlaštena izreći sve mjere propisane ovim Zakonom kako bi bila u mogućnosti ispunjavati svoje zakonske ovlasti, a posebno osigurati zakonito i uredno trgovanje financijskim instrumentima na uređenom tržištu i MTP-u, zaštititi interese ulagatelja te u slučaju utvrđenih nezakonitosti i nepravilnosti podnijeti odgovarajuću prijavu nadležnom tijelu.
+(2) U smislu ovog Zakona, nezakonitosti su stanja i postupci koji nisu u skladu sa ovim Zakonom, propisima donesenim na temelju ovog Zakona, drugim zakonima i podzakonskim aktima te međunarodnim aktima i propisima.
+(3) U smislu ovog Zakona, nepravilnosti su stanja i aktivnosti kojima se usvojene poslovne politike, mjere i postupci dosljedno ne primjenjuju ako se time ugrožava poslovanje, posebice u svezi organizacijskih zahtjeva i upravljanja rizicima.

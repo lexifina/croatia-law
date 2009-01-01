@@ -1,0 +1,6 @@
+## Obveza čuvanja tajne
+# Članak 519.
+(1) Središnje klirinško depozitarno društvo je dužno čuvati kao tajne sve podatke o pojedinom izdavatelju, imatelju, članu ili o drugoj osobi, bez obzira na to kako je do tog podatka došlo. Središnje klirinško depozitarno društvo je dužno internim aktom propisati podatke koji se smatraju poslovnom tajnom, kao i način korištenja tih podataka, osim kada je drugačije određeno odredbama ovog Zakona i drugim propisima.
+(2) Uprava središnjeg klirinškog depozitarnog društva dužna je jednom mjesečno Agenciji podnijeti izvještaj o stjecanju ili otuđenju financijskih instrumenata članova uprave, nadzornog odbora i zaposlenika središnjeg klirinškog depozitarnog društva.
+(3) Obveza iz stavka 2. ovog članka odnosi se i na stjecanja i otuđenja financijskih instrumenata od strane bračnog druga, djeteta, posvojenika, roditelja ili usvojitelja i drugih osoba koje sa članom uprave, nadzornog odbora ili zaposlenikom središnjeg klirinškog depozitarnog društva žive u zajedničkom kućanstvu, te na stjecanja i otuđenja od strane pravnih osoba u kojima ove osobe imaju većinski udjel.
+(4) Članovi uprave i zaposlenici središnjeg klirinškog depozitarnog društva ne smiju biti članovi upravnih i nadzornih tijela investicijskih društava.

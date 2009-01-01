@@ -1,0 +1,5 @@
+## Izračunavanje postotka glasačkih prava
+# Članak 414.
+(1) U smislu članka 413. ovog Zakona, postotak glasačkih prava koji pripada fizičkoj osobi ili pravnom subjektu u izdavatelju, izračunava se u odnosu na sve dionice izdavatelja istog roda s pravom glasa, uključujući i vlastite dionice izdavatelja i dionice kod kojih je ostvarivanje glasačkih prava isključeno ili ograničeno zakonom ili pravnim poslom, a prema posljednjim podacima objavljenim javnosti sukladno članku 429. ovog Zakona.
+(2) U smislu članka 413. ovog Zakona, kod izračunavanja broja glasačkih prava koja pripadaju fizičkoj osobi ili pravnom subjektu u izdavatelju, pribrajaju se sva glasačka prava koja toj fizičkoj osobi ili pravnom subjektu pripadaju u slučajevima iz članaka 415., 416. i 417. ovog Zakona.
+(3) Iznimno od odredbe stavka 2. ovog članka, u slučaju iz članka 416. stavka 3. točke 1. ovog Zakona, kod izračunavanja broja glasačkih prava koja pripadaju fizičkoj osobi ili pravnom subjektu u izdavatelju, pribrajaju se samo glasačka prava koja toj fizičkoj osobi ili pravnom subjektu pripadaju držanjem financijskih instrumenata iz članka 416. stavka 1. ovog Zakona.

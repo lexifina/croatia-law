@@ -1,0 +1,7 @@
+## Rok za donošenje odluke o odobrenju prospekta
+# Članak 371.
+(1) Agencija će o zahtjevu za odobrenje prospekta donijeti odluku i o odluci izvijestiti podnositelja zahtjeva za odobrenje prospekta u roku od deset radnih dana od zaprimanja urednog zahtjeva. U slučaju da Agencija ne donese odluku u roku iz ovog stavka ili stavka 2. ovog članka, neće se smatrati da je prospekt odobren.
+(2) Kada se zahtjev za odobrenje prospekta odnosi na vrijednosne papire izdavatelja koji ranije nije izdao vrijednosne papire koji su bili ponuđeni javnosti ili uvršteni na uređeno tržište, rok iz stavka 1. ovog članka je dvadeset radnih dana od zaprimanja urednog zahtjeva.
+(3) U slučaju da prospekt nije izrađen u skladu s odredbama ove Glave, ili je zahtjev nepotpun iz drugih razloga, Agencija će u roku od deset radnih dana od dana zaprimanja zahtjeva o tome izvijestiti podnositelja zahtjeva te ga pozvati na ispravak ili dopunu prospekta, odnosno zahtjeva.
+(4) Obavijest Agencije o nepotpunosti ili neurednosti zahtjeva, sadržavat će i rok u kojem prospekt, odnosno zahtjev, mora biti ispravljen ili dopunjen.
+(5) Ako Agencija, u roku iz stavka 3. ovog članka, pozove podnositelja zahtjeva na ispravak ili dopunu prospekta ili zahtjeva, rok iz stavka 1. ovog članka počinje teći iznova ako podnositelj zahtjeva u ostavljenom roku ispravi ili dopuni prospekt, odnosno zahtjev, i to s danom kada Agencija zaprimi ispravak ili dopunu.

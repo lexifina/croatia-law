@@ -1,0 +1,8 @@
+## Oglašavanje
+# Članak 378.
+(1) Bilo kakav oblik oglašavanja u svezi ponude dionica javnosti ili uvrštenja dionica na uređeno tržište, mora biti u skladu s odredbama ovog članka.
+(2) Kada, u skladu s odredbama ovog Zakona postoji obveza izrade i objavljivanja prospekta, svaki oglas u vezi s ponudom dionica javnosti ili uvrštenjem dionica na uređeno tržište mora sadržavati naznaku da je prospekt objavljen, ili da će biti objavljen, te naznaku mjesta i načina na koji ulagatelji mogu pribaviti prospekt.
+(3) Oglas mora biti jasno naznačen kao oglas, a informacije koje sadrži ne smiju biti netočne te ne smiju dovoditi ulagatelje u zabludu. Sve informacije u oglasu moraju biti u skladu s informacijama u prospektu, ako je ranije već objavljen prospekt, ili s informacijama koje će biti uključene u prospekt koji se tek treba objaviti.
+(4) Svaka informacija koja se odnosi na ponudu vrijednosnih papira javnosti ili uvrštenje na uređeno tržište, mora biti u skladu s informacijama koje sadrži prospekt, neovisno o tome je li razotkrivena usmenim ili pisanim putem, i neovisno o tome je li razotkrivena u svrhu oglašavanja.
+(5) Kada, u skladu s odredbama ovog Zakona, nema obveze izrade i objavljivanja prospekta, izdavatelj ili ponuditelj obvezan je svim kvalificiranim ulagateljima, odnosno posebnim skupinama ulagatelja na koje se ponuda odnosi, razotkriti sve informacije u svezi ponude koje je razotkrio jednom od njih.
+(6) Informacije iz stavka 5. ovog članka, razotkrivene u svezi s ponudom kod koje postoji obveza izrade i objavljivanja prospekta u skladu s odredbama ovog Zakona, moraju biti uključene u prospekt ili dopunu prospekta u skladu s odredbama članka 379. ovog Zakona.

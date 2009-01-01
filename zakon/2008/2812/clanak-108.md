@@ -1,0 +1,6 @@
+# Članak 108.
+(1) Sistematski internalizator može, na temelju svoje poslovne politike, vodeći se objektivnim i jednoznačnim načelima, odlučiti kojim će ulagateljima dati pristup svojim ponudama. U tu svrhu dužan je propisati jasne standarde koji uređuju pristup njegovim ponudama.
+(2) Sistematski internalizator može odbiti ući u poslovni odnos s ulagateljem ili isti prekinuti vodeći se poslovnim razlozima, kao što su kreditni status ulagatelja, rizik druge ugovorne strane i konačna namira transakcije.
+(3) U svrhu ograničavanja rizika izloženosti višestrukim transakcijama s istim klijentom, sistematski internalizator može na nepristran način ograničiti broj transakcija koje poduzima s istim klijentom pod objavljenim uvjetima.
+(4) Sistematski internalizator može, na nepristran način i u skladu s odredbama članka 82. do 84. ovog Zakona, ograničiti ukupni broj transakcija s različitim klijentima u isto vrijeme, pod uvjetom da je to dozvoljeno samo kada broj i/ili volumen naloga koje klijenti žele zadati značajno premašuju standard iz članka 25. stavka 2. Uredbe Komisije (EZ-a) broj 1287/2006.
+(5) Na ograničenja broja transakcija iz stavka 3. i 4. ovog članka primjenjivat će se odredbe članka 25. stavka 3. Uredbe Komisije (EZ-a) broj 1287/2006.

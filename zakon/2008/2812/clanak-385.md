@@ -1,0 +1,3 @@
+# Članak 385.
+(1) Kad Republika Hrvatska ima položaj države članice domaćina, a Agencija utvrdi da izdavatelj ili financijska institucija, odgovorna za ponudu vrijednosnih papira javnosti, krši odredbe ove Glave Zakona, Agencija će o tim povredama odredbi Zakona izvijestiti nadležno tijelo matične države članice.
+(2) Ako, unatoč nadzornim mjerama poduzetim od strane nadležnog tijela matične države članice izdavatelja ili zato što su poduzete mjere bile nedovoljne, osoba iz stavka 1. ovog članka i dalje krši odredbe ove Glave, Agencija će, nakon što obavijesti nadležno tijelo matične države članice izdavatelja, poduzeti mjere potrebne za zaštitu ulagatelja. O poduzetim mjerama Agencija će, u što skorijem roku, obavijestiti Europsku komisiju.

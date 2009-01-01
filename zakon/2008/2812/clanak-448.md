@@ -1,0 +1,2 @@
+# Članak 448.
+Agencija je ovlaštena javno objaviti sve poduzete mjere i sankcije koje su izrečene radi utvrđenih nepravilnosti i/ili nezakonitosti u svezi obveza objavljivanja javnosti vezanih uz pojedinog izdavatelja, osim u slučaju kada bi javno objavljivanje moglo ozbiljno utjecati na financijska tržišta ili uzrokovati nerazmjernu štetu osobama ili subjektima uključenim u poduzete mjere i izrečene sankcije.

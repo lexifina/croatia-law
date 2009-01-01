@@ -1,0 +1,9 @@
+## Ovlasti u obavljanju izravnog nadzora
+# Članak 277.
+(1) Ako nadležno tijelo druge države članice predloži u posebnim slučajevima obaviti izravni nadzor poslovanja s ciljem provjere informacija koje se odnose na investicijsko društvo, financijski holding, drugu financijsku instituciju, društvo za upravljanje otvorenim investicijskim fondovima s javnom ponudom, društvo za pomoćne usluge, mješoviti holding, ovisna društva iz članka 271. ovog Zakona ili ovisna društva iz članka 270. stavka 2. ovog Zakona, a koja imaju sjedište u Republici Hrvatskoj, Agenciji će poslati zahtjev za obavljanje izravnog nadzora poslovanja.
+(2) Agencija može postupiti po zahtjevu nadležnog tijela druge države članice na sljedeći način:
+1. samostalno obaviti izravni nadzor poslovanja,
+2. omogućiti nadležnom tijelu druge države članice obavljanje izravnog nadzora poslovanja ili
+3. na temelju ovlaštenja Agencije odrediti ovlaštenog revizora ili drugu stručno osposobljenu osobu za obavljanje izravnog nadzora poslovanja.
+(3) U slučaju kada nadležno tijelo druge države članice ne obavlja izravni nadzor poslovanja iz stavka 1. ovog članka, ima mogućnost sudjelovanja u izravnom nadzoru kojeg obavlja Agencija ili ovlašteni revizor, odnosno druga stručno osposobljena osoba na temelju ovlaštenja Agencije.
+(4) Agencija može u posebnim slučajevima obaviti izravni nadzor poslovanja s ciljem provjere informacija koje se odnose na investicijsko društvo, financijski holding, drugu financijsku instituciju, društvo za upravljanje otvorenim investicijskim fondovima s javnom ponudom, društvo za pomoćne usluge, mješoviti holding, ovisna društva iz članka 271. ovog Zakona ili ovisna društva iz članka 270. stavka 2. ovog Zakona, a koja imaju sjedište u drugoj državi članici, te može zatražiti od nadležnog tijela druge države članice da obavi izravni nadzor poslovanja ili to može učiniti samostalno.

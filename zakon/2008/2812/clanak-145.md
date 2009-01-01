@@ -1,0 +1,7 @@
+## Pružanje investicijskih usluga i obavljanje investicijskih aktivnosti preko podružnice
+# Članak 145.
+(1) Investicijsko društvo sa sjedištem u državi članici može u Republici Hrvatskoj osnovati podružnicu i početi preko nje pružati investicijske usluge i obavljati investicijske aktivnosti u Republici Hrvatskoj, nakon proteka šezdeset dana od dana kada je nadležno tijelo države članice sjedišta investicijskog društva Agenciji dostavilo obavijesti i priloge iz članka 136. stavka 1. i 2. te članka 137. stavka 3. ovog Zakona.
+(2) Ako investicijsko društvo iz države članice u svezi svoje podružnice namjerava izmijeniti podatke iz članka 136. stavka 2. ovog Zakona, dužno je o tome obavijestiti Agenciju trideset dana prije takve promjene.
+(3) Podružnica investicijskog društva sa sjedištem u državi članici kada pruža usluge na području Republike Hrvatske dužna je pridržavati se odredbi članaka 54. do 91. i 100. do 114. ovog Zakona i pravilnika donesenih na temelju ovog Zakona koji te uvjete pobliže propisuju.
+(4) Potraživanja ulagatelja kod podružnice investicijskog društva uključena su u sustav zaštite ulagatelja u državi članici sjedišta investicijskog društva.
+(5) Podružnica investicijskog društva sa sjedištem u državi članici zbog proširenja razine ili opsega zaštite ulagatelja, obzirom na visinu i zaštitu ulagatelja u državi članici sjedišta investicijskog društva, može potraživanja ulagatelja uključiti u sustav zaštite ulagatelja u Republici Hrvatskoj.

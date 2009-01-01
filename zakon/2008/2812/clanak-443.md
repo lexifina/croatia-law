@@ -1,0 +1,3 @@
+# Članak 443.
+(1) U slučaju vrijednosnih papira izdavatelja koji su uvršteni na uređeno tržište bez suglasnosti izdavatelja, obveze izdavatelja propisane odredbama ove Glave i članaka 459. do 462. ovog Zakona, umjesto izdavatelja obvezna je, u cijelosti izvršiti osoba koja je vrijednosne papire izdavatelja uvrstila na uređeno tržište bez njegove suglasnosti.
+(2) Osoba koja je vrijednosne papire izdavatelja uvrstila na uređeno tržište bez njegove suglasnosti odgovara ulagatelju za štetu koju ulagatelj pretrpi radi nepravilnog ispunjenja obveza navedenih u članku 442. ovog Zakona, osim u slučaju kada se dokaže da je prilikom ispunjenja istih postupala s pažnjom dobrog stručnjaka.

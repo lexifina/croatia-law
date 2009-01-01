@@ -1,0 +1,5 @@
+## Iznimke od objavljivanja
+# Članak 220.
+(1) Iznimno, investicijsko društvo nije dužno objaviti jednu ili više informacija iz članka 219. stavka 1. ovog Zakona ako nije materijalno značajna. Informacije u objavama smatrat će se materijalno značajnima ako bi njihovo izostavljanje ili pogrešno izvještavanje moglo promijeniti ili utjecati na procjenu ili ekonomsku odluku osobe koja koristi navedene informacije u svrhu donošenja ekonomskih odluka.
+(2) Iznimno, investicijsko društvo nije dužno objaviti jednu ili više informacija iz članka 219. stavka 1. ovog Zakona ako se radi o podacima koji se smatraju povjerljivim poslovnim podacima ili podacima čije bi objavljivanje moglo ugroziti konkurentski položaj investicijskog društva ili umanjiti vrijednost ulaganja investicijskog društva.
+(3) U slučajevima iz stavka 2. ovog članka, investicijsko društvo je dužno u svojim javnim objavama navesti činjenicu da informacije nisu objavljene i razlog neobjavljivanja te objaviti općenitije informacije o tom predmetu, osim u slučaju kada se i te informacije smatraju informacijama iz stavka 2. ovog članka.

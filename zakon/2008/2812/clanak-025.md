@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Agencija na zahtjev fizičke osobe iz stavka 1., odnosno 2. članka 24. ovog Zakona, izdaje odobrenje za obavljanje poslova sadržanih u investicijskim uslugama iz članka 5. stavka 1. točke 1. i 2. ovog Zakona (odobrenje za rad brokera), odnosno poslova sadržanih u investicijskim uslugama iz članka 5. stavka 1. točke 1., 2., 4. i 5. ovog Zakona (odobrenje za rad investicijskog savjetnika). Agencija će odobrenje iz ovog stavka izdati ako fizička osoba ispunjava uvjete propisane člankom 24. ovog Zakona i pravilnikom iz članka 24. stavka 7. ovog Zakona.
+(2) Odredbe članka 17. ovog Zakona na odgovarajući se način primjenjuju i na izdavanje odobrenja za rad brokeru i investicijskom savjetniku.

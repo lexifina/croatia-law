@@ -1,0 +1,4 @@
+# Članak 270.
+(1) U slučaju kada Agencija isključi ovisno društvo matičnog investicijskog društva u RH iz grupe investicijskog društva u RH na način iz članka 209. stavka 1. točke 2. i 3. ovog Zakona, matično investicijsko društvo u RH je dužno dostaviti informacije nadležnom nadzornom tijelu države u kojoj ovisno društvo ima sjedište na njegov zahtjev, a za potrebe nadzora tog ovisnog društva.
+(2) Ovisna društva investicijskog društva ili financijskog holdinga iz grupe investicijskog društva u RH koja nisu uključena u nadzor na konsolidiranoj osnovi, dužna su na zahtjev Agencije dostaviti informacije potrebne za nadzor pojedinačnih investicijskih društava u grupi investicijskog društva u RH.
+(3) Osobe koje čine upravu financijskog holdinga moraju imati dobar ugled, primjerene sposobnosti i iskustvo u vođenju poslova.

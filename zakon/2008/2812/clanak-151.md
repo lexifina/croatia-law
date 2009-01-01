@@ -1,0 +1,5 @@
+## Sustav zaštite ulagatelja kod podružnice investicijskog društva iz treće države
+# Članak 151.
+(1) Kada je podružnica investicijskog društva iz treće države uključena u sustav za zaštitu ulagatelja u državi sjedišta matičnog investicijskog društva, razina i opseg zaštite ulagatelja koju pruža ne smije premašivati razinu i opseg zaštite ulagatelja utvrđene ovim Zakonom.
+(2) Ako sustav zaštite ulagatelja u državi sjedišta investicijskog društva ne postoji ili je s obzirom na razinu i opseg zaštite manji nego u Republici Hrvatskoj, podružnica investicijskog društva dužna je sudjelovati u sustavu zaštite ulagatelja u Republici Hrvatskoj. O načinu i opsegu sudjelovanja podružnice investicijskog društva sa sjedištem u trećoj državi u sustav za zaštitu ulagatelja u Republici Hrvatskoj, odlučit će Agencija, odobrenjem za osnivanje podružnice.
+(3) Investicijsko društvo iz treće države koje je na području Republike Hrvatske osnovalo podružnicu dužno je svoje klijente i potencijalne klijente u Republici Hrvatskoj, izvijestiti o svim relevantnim podacima koji se odnose na sustav zaštite ulagatelja kojemu pripada, na način propisan člankom 245. ovog Zakona.

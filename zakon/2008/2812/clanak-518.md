@@ -1,0 +1,4 @@
+# Članak 518.
+(1) Središnje klirinško depozitarno društvo je dužno bez odgode obavijestiti Agenciju o svim promjenama osoba iz članka 509. i 510. ovog Zakona, kao i o svim promjenama podataka iz zahtjeva za izdavanje odobrenja za rad.
+(2) Središnje klirinško depozitarno društvo je dužno izraditi godišnje financijske izvještaje i godišnje izvješće u skladu s propisima koji uređuju osnivanje i poslovanje trgovačkih društava, računovodstvo poduzetnika i primjenu standarda financijskog izvještavanja te ih dostaviti Agenciji zajedno s revizorskim izvješćem u roku od petnaest dana od dana zaprimanja revizorskog izvješća, a najkasnije u roku od četiri mjeseca od zadnjeg dana poslovne godine.
+(3) Agencija je ovlaštena pravilnikom propisati sadržaj i strukturu godišnjih financijskih izvještaja središnjeg klirinškog depozitarnog društva te oblik i način njihovog dostavljanja Agenciji.

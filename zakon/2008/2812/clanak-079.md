@@ -1,0 +1,6 @@
+## Mjesta zaprimanja naloga klijenta
+# Članak 79.
+(1) Investicijsko društvo zaprima naloge klijenta za kupnju i prodaju financijskih instrumenata u sjedištu investicijskog društva ili u podružnici investicijskog društva koja izvršava naloge klijenta.
+(2) Investicijsko društvo može zaprimiti pisani nalog klijenta i u podružnici investicijskog društva koja ne izvršava naloge klijenta, ili u sjedištu ili podružnici vezanog zastupnika, koji u ime i za račun investicijskog društva zaprimaju naloge klijenta, ako se klijent osobno javi toj podružnici investicijskog društva, podružnici vezanog zastupnika ili vezanom zastupniku.
+(3) Kada investicijsko društvo zaprima naloge na način iz stavka 2. ovog članka, u posebnim uvjetima poslovanja mora se odrediti rok u kojem nalog mora stići u sjedište investicijskog društva ili podružnicu investicijskog društva koja izvršava prihvaćene naloge klijenta. Na takvu odredbu posebnih uvjeta poslovanja, društvo mora klijenta izričito upozoriti prilikom sklapanja ugovora iz članka 66. ovog Zakona.
+(4) Smatra se da je nalog zaprimljen kada je zaprimljen u sjedištu investicijskog društva ili u podružnici investicijskog društva koja izvršava naloge klijenata.

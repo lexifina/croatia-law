@@ -1,0 +1,5 @@
+## Identitet osobe koja izrađuje preporuke
+# Članak 472.
+(1) U svakoj preporuci mora na jasan i vidljiv način biti naveden identitet osobe odgovorne za njezinu izradu, a posebno ime i naziv radnog mjesta osobe koja je pripremila preporuku te naziv i sjedište pravne osobe odgovorne za njezinu izradu. Kad je Davatelj preporuka investicijsko društvo ili kreditna institucija, u preporuci mora biti navedeno koje je tijelo nadležno za njezin nadzor. Kada Davatelj preporuka nije ni investicijsko društvo niti kreditna institucija, ali podliježe samoregulaciji ili pravilima struke, preporuka mora upućivati na isto.
+(2) Ako se radi o nepisanoj preporuci, smatrat će se da je udovoljeno zahtjevu iz stavka 1. ovog članka ako preporuka upućuje na mjesto na kojem javnost može izravno i jednostavno pristupiti toj informaciji, primjerice na internetskim stranicama Davatelja preporuka.
+(3) Odredbe stavka 1. ovog članka ne primjenjuju se na novinare ako isti podliježu Prikladnim propisima, kojima se postižu učinci istovjetni onima iz stavka 1. ovog članka.

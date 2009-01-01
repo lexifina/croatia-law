@@ -1,0 +1,8 @@
+## Distribucija preporuke koju je izradila treća strana
+# Članak 477.
+(1) Davatelj preporuka koji pod vlastitom odgovornošću distribuira preporuku koju je izradila treća strana, na preporuci mora na jasan i vidljiv način istaknuti svoj identitet.
+(2) Kad osoba koja distribuira preporuku koju je izradila treća strana istu značajno izmijeni, dužna je jasno i detaljno istaknuti tu izmjenu.
+(3) Kad se izmjena iz stavka 2. ovog članka sastoji od promjene smjera preporuke (npr. promjena preporuke »kupiti« u preporuku »držati« ili »prodati« ili obrnuto), osoba koja distribuira preporuku dužna je udovoljavati uvjetima propisanim člancima 472. do 475. ovog Zakona koji se odnose na osobe koje izrađuju preporuke u dijelu na koji se ta izmjena odnosi.
+(4) Davatelj preporuke - pravna osoba koja sama ili putem fizičke osobe distribuira značajno izmijenjenu preporuku, dužna je donijeti obvezujuće interne propise kako bi se osobe koje tu preporuku primaju uputile na mjesto na kojem imaju pristup podacima o identitetu osobe koja je izradila preporuku, samoj preporuci i objavljivanju interesa ili sukoba interesa osobe koja je izradila preporuku, sve dok su te informacije dostupne javnosti.
+(5) Odredbe stavka 2. do 4. ovog članka ne primjenjuju se na vijesti u kojima se izvještava o preporukama koje je izradila treća strana kada bit preporuke nije izmijenjena.
+(6) Davatelj preporuka koji distribuira sažetak preporuke koju je izradila treća strana, dužan je osigurati da je takav sažetak jasan te da ne dovodi u zabludu, kao i da sažetak upućuje na izvorni dokument i mjesto gdje javnost može izravno i jednostavno pristupiti objavama koje se odnose na izvorni dokument, sve dok su te informacije dostupne javnosti.

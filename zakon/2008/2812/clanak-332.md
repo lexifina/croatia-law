@@ -1,0 +1,13 @@
+## Odluka o povlačenju vrijednosnih papira s uvrštenja na uređenom tržištu
+# Članak 332.
+(1) Glavna skupština društva sa sjedištem u Republici Hrvatskoj, čiji su vrijednosni papiri uvršteni na uređenom tržištu u Republici Hrvatskoj ili drugoj državi članici, može donijeti odluku o povlačenju dionica ili drugih vlasničkih vrijednosnih papira s uvrštenja na uređenom tržištu.
+(2) Odluka iz stavka 1. ovog članka donosi se glasovima koji predstavljaju najmanje tri četvrtine temeljnog kapitala, zastupljenog na glavnoj skupštini pri donošenju odluke. Statutom se može odrediti i veća većina za donošenje ovakve odluke.
+(3) Objava prijedloga odluke o povlačenju s uvrštenja na uređenom tržištu, kao predmeta dnevnog reda glavne skupštine, valjana je samo kad uključuje i neopozivu izjavu društva kojom se društvo obvezuje od svih dioničara koji glasuju protiv takve odluke, otkupiti njihove dionice uz pravičnu naknadu.
+(4) Odluka o povlačenju s uvrštenja na uređenom tržištu sadrži podatke o tvrtki, sjedištu, vrijednosnom papiru te druge podatke nužne za provedbu te odluke.
+(5) Svaki dioničar društva koji je glasovao protiv odluke o povlačenju s uvrštenja na uređenom tržištu, može zahtijevati od društva da društvo preuzme njegove dionice, uz pravičnu naknadu. Ovo pravo ima i dioničar koji nije sudjelovao u radu odnosne glavne skupštine zbog toga što je glavna skupština sazvana nepravilno ili nepravovremeno.
+(6) Odluku o povlačenju vrijednosnih papira s uvrštenja na uređenom tržištu nije moguće pobijati zbog toga što novčana naknada za dionice nije pravična. Zahtjev dioničara zastarijeva u roku od dva mjeseca od dana upisa odluke o povlačenju s uvrštenja na uređenom tržištu u sudski registar.
+(7) Odluka o povlačenju s uvrštenja na uređenom tržištu upisuje se u sudski registar i počinje djelovati:
+1. ako je odluka donesena većinom većom od devet desetina potrebnih glasova, danom upisa odluke u sudski registar, izuzev ako je odlukom određeno da počinje djelovati tek protekom određenog roka od upisa odluke u sudski registar,
+2. u svim ostalim slučajevima, protekom 6 mjeseci od dana upisa odluke u sudski registar.
+(8) Društvo mora, po upisu odluke o povlačenju s uvrštenja na uređenom tržištu u sudski registar, izvijestiti uređeno tržište dostavljanjem odluke o povlačenju s uvrštenja, s kojeg će dionice biti povučene iz uvrštenja sljedeći radni dan nakon stupanja na snagu odluke.
+(9) Pravičnom naknadom iz stavka 5. ovog članka, smatra se prosječna cijena dionica ostvarena na uređenom tržištu, izračunata kao ponderirani prosjek svih cijena ostvarenih na uređenom tržištu u zadnja tri mjeseca prije dana objave poziva na glavnu skupštinu u glasilu društva.

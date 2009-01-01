@@ -1,0 +1,3 @@
+# Članak 517.
+(1) Središnje klirinško depozitarno društvo, u svezi s poravnanjem i namirom transakcija na uređenom tržištu, MTP-u ili izvan uređenog tržišta i MTP-a, i drugih poslova s vrijednosnim papirima ili isplatom obveza iz vrijednosnih papira, ne smije kreditirati člana sustava poravnanja i namire, izdavatelja ili druge osobe ili obavljati druge poslove kod kojih bi preuzelo kreditni rizik suprotne strane.
+(2) Središnje klirinško depozitarno društvo je dužno ustrojiti odjel interne revizije, zadužen za provjeru i nadzor učinkovitosti, pouzdanosti i sigurnosti svih sustava i postupaka središnjeg klirinškog depozitarnog društva.

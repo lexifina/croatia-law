@@ -1,0 +1,7 @@
+## Popis upućenih osoba
+# Članak 463.
+(1) Izdavatelji ili osobe koje djeluju u njihovo ime ili za njihov račun, obvezni su sastaviti popis osoba koje za njih rade na temelju ugovora o radu ili na neki drugi način, i koje imaju pristup povlaštenim informacijama koje se neposredno ili posredno odnose na izdavatelja, bilo na redovitoj ili povremenoj osnovi (popis upućenih osoba).
+(2) Popis upućenih osoba, izdavatelji ili osobe koje djeluju u njihovo ime ili za njihov račun, obvezne su redovito ažurirati i dostavljati Agenciji na njezin zahtjev te čuvati barem pet godina nakon što su sastavljeni ili ažurirani.
+(3) Popis upućenih osoba mora, za osobe koje imaju pristup povlaštenim informacijama, obuhvaćati najmanje: ime i prezime, datum rođenja, adresu prebivališta odnosno boravišta, ako je to primjenjivo, razlog zbog kojeg se ta osoba nalazi na popisu te datum kada je popis upućenih osoba sastavljen, odnosno ažuriran.
+(4) Popis upućenih osoba mora se odmah ažurirati kada dođe do promjene razloga zbog kojega je neka osoba na popisu, kada na popis treba dodati novu osobu, ako i kada neka osoba koja je već na popisu više nema pristup povlaštenim informacijama.
+(5) Osobe koje moraju izraditi popis upućenih osoba obvezne su poduzeti potrebne mjere kako bi se jamčilo da je svaka osoba na tom popisu upoznata s propisima koji se odnose na njezine dužnosti i da je svjesna sankcija koje proizlaze iz zlouporabe ili protupravnog širenja tih informacija.

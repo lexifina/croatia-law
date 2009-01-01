@@ -1,0 +1,3 @@
+# Članak 589.
+(1) Investicijska društva, nakon stupanja na snagu ovog Zakona, postojeće profesionalne ulagatelje čije je razvrstavanje provedeno na temelju odgovarajuće procjene stručnosti, iskustva i znanja klijenta, a čija procjena predstavlja razumni temelj, s obzirom na prirodu transakcije ili usluge koja je u pitanju, da je klijent sposoban donositi vlastite investicijske odluke i shvatiti uključene rizike, mogu nastaviti tretirati kao profesionalne ulagatelje u skladu s odredbama ovog Zakona.
+(2) Investicijska društva dužna su obavijestiti svoje klijente o uvjetima razvrstavanja klijenata kako se ono provodi u skladu s odredbama ovog Zakona.

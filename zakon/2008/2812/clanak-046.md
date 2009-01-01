@@ -1,0 +1,2 @@
+# Članak 46.
+Prilikom procjene visine kvalificiranog udjela u investicijskom društvu, Agencija neće uzimati u obzir glasačka prava ili dionice koje investicijsko društvo ili kreditna institucija drže kao rezultat pružanja investicijske usluge iz članka 5. stavka 1. točke 6. ovog Zakona, pod uvjetom da se ta prava ne koriste u svrhu ostvarivanja utjecaja na upravljanje izdavateljem - investicijskim društvom, i da se navedene dionice s pravom glasa otpuste u roku od godine dana od dana stjecanja.

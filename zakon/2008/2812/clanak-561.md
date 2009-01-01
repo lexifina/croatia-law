@@ -1,0 +1,14 @@
+## Osobe na koje se ne odnosi obveza čuvanja povjerljivih informacija
+# Članak 561.
+(1) Agencija može povjerljive informacije proslijediti sljedećim osobama u Republici Hrvatskoj ili u drugoj državi članici:
+1. nadležnim tijelima ovlaštenim za nadzor investicijskih društava, kreditnih i financijskih institucija, te društava za osiguranje, kao i nadzor nad izvršavanjem obveze objave prospekta kod javne ponude ili uvrštenja vrijednosnih papira na uređeno tržište, u obavljanju njihovih zakonom utvrđenih zadataka,
+2. sudu i drugim tijelima ili pravnim osobama ovlaštenim za obavljanje poslova u provođenju postupka likvidacije ili stečaja nadziranih osoba iz točke 1. ovog stavka, ili u drugim sličnim postupcima u obavljanju njihovih zakonom utvrđenih zadataka,
+3. revizorima koji obavljaju reviziju nadziranih osoba iz točke 1. ovog stavka u obavljanju njihovih zakonom utvrđenih zadataka,
+4. tijelima koja su nadležna za nadzor nad tijelima koja obavljaju poslove u postupku likvidacije ili stečaja banke ili u nekom drugom sličnom postupku ako su potrebne za obavljanje njihovih nadzornih zadataka,
+5. tijelima koja su nadležna za nadzor nad revizorima koji obavljaju reviziju nadziranih kreditnih i financijskih institucija ako su potrebne za obavljanje njihovih nadzornih zadataka,
+6. Europskoj središnjoj banci, središnjoj banci ili drugom tijelu s ovlastima i dužnostima provođenja monetarne politike, odnosno drugom tijelu nadležnom za nadzor platnih sustava,
+7. ministarstvu nadležnom za financije, odnosno državnom tijelu druge države članice ovlaštenom za predlaganje zakona iz područja nadzora kreditnih institucija, financijskih institucija, investicijskih društava i društava za osiguranje samo za potrebe provođenja nadzora iz svoje nadležnosti,
+8. klirinškoj organizaciji koje obavlja poslove poravnanja i namire, ako Agencija ocijeni da su ti podaci potrebni za stabilno poslovanje s obzirom na rizik neispunjenja ili mogućeg neispunjenja obveza sudionika tog tržišta.
+(2) Agencija može, u cilju jačanja stabilnosti i cjelovitosti tržišta kapitala, razmjenjivati podatke i s drugim nadležnim tijelima u Republici Hrvatskoj i drugoj državi članici koji u skladu sa zakonom provode postupke istrage i kažnjavanja u slučajevima kršenja prava trgovačkih društava, ako to pisanim putem zatraži ili naloži nadležni sud. Podatke koje je agencija pribavila od drugih nadležnih tijela mogu se priopćiti trećima samo uz suglasnost tijela koje je informaciju dalo.
+(3) Agencija može podatke primljene na temelju članka 558. stavka 4. ovog Zakona, priopćiti tijelima iz stavka 2. ovog članka, samo uz izričitu suglasnost nadležnog tijela od kojeg je podatak primila.
+(4) Osobe kojima Agencija dostavi povjerljive podatke u skladu sa stavkom 1. i 2. ovog članka, mogu ih upotrijebiti samo za svrhe za koje su dane i na njih se primjenjuje obveza čuvanja povjerljivih informacija iz članka 558. ovog Zakona.

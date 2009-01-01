@@ -1,0 +1,6 @@
+## Uključivanje u i izuzimanje iz grupe investicijskog društva u RH
+# Članak 207.
+(1) Agencija će za potrebe nadzora na konsolidiranoj osnovi zahtijevati uključivanje u grupu investicijskog društva u RH u sljedećim slučajevima:
+1. kad ocijeni da investicijsko društvo i bez odnosa sudjelovanja ili nekog drugog oblika kapitalne povezanosti, ima značajan utjecaj na jedno ili više investicijskih društava, drugih financijskih institucija, društva za upravljanje otvorenim investicijskim fondovima s javnom ponudom ili društva za pomoćne usluge ili
+2. kad su dva ili više investicijskih društava sa sjedištem u Republici Hrvatskoj s drugim investicijskim društvima ili drugom financijskom institucijom, društvom za upravljanje otvorenim investicijskim fondovima s javnom ponudom ili društvom za pomoćne usluge pod jedinstvenom upravom koja ne proizlazi iz ugovora niti osnivačkog akta.
+(2) Agencija može, za potrebe nadzora na konsolidiranoj osnovi, iz grupe investicijskog društva u RH izuzeti pojedinog ovisnog člana koji može biti kreditna institucija, investicijsko društvo ili druga financijska institucija, društvo za upravljanje otvorenim investicijskim fondovima s javnom ponudom ili društvo za pomoćne usluge, na način iz članka 209. ovog Zakona ili izuzeti cijelu grupu investicijskog društva u RH na način iz članka 210. ovog Zakona.

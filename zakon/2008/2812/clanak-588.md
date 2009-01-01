@@ -1,0 +1,18 @@
+# Članak 588.
+(1) Kreditne institucije, koje na dan stupanja na snagu ovog Zakona imaju dozvolu za obavljanje poslova s vrijednosnim papirima upisanih u sudski registar, nastavljaju pružati investicijske usluge i obavljati investicijske aktivnosti i s njima povezane pomoćne usluge na temelju postojeće dozvole i to na način da:
+1. posao iz članka 34. stavka 1. točke 1. ZTVP-a nastavljaju obavljati kao investicijsku uslugu iz članka 5. stavka 1. točke 2. ovog Zakona,
+2. posao iz članka 34. stavka 1. točke 2. ZTVP-a nastavljaju obavljati kao investicijsku aktivnost iz članka 5. stavka 1. točke 3. ovog Zakona,
+3. posao iz članka 34. stavka 1. točke 3. ZTVP-a nastavljaju obavljati kao investicijsku uslugu iz članka 5. stavka 1. točke 4. ovog Zakona,
+4. posao iz članka 34. stavka 1. točke 5. ZTVP-a nastavljaju obavljati kao investicijsku uslugu iz članka 5. stavka 1. točke 7. ovog Zakona,
+5. posao iz članka 34. stavka 1. točke 6. ZTVP-a nastavljaju obavljati kao investicijsku uslugu iz članka 5. stavka 1. točke 6. ovog Zakona,
+6. posao iz članka 34. stavka 1. točke 7. ZTVP-a nastavljaju obavljati kao investicijsku uslugu iz članka 5. stavka 1. točke 5. ovog Zakona,
+7. posao iz članka 34. stavka 1. točke 8. ZTVP-a nastavljaju obavljati kao pomoćnu uslugu iz članka 5. stavka 2. točke 1. ovog Zakona.
+(2) Postojeća dozvola za obavljanje poslova iz članka 34. ZTVP-a vrijedi samo u odnosu na obavljanje poslova s financijskim instrumentima iz članka 3. stavka 1. točke 2. podtočke a., b. i c. ovog Zakona.
+(3) Kreditne institucije iz stavka 1. ovog članka dužne su Agenciji dostaviti izvještaj o usklađenju u roku od trideset dana nakon proteka roka iz članka 1. ovog Zakona.
+(4) Izvještaju o usklađenju iz stavka 3. ovog članka potrebno je priložiti:
+1. osnivački akt u obliku javnobilježničke isprave,
+2. dokaze o ispunjavanju uvjeta iz članaka 36. do 42. i pravilnika iz članka 43. ovog Zakona,
+3. dokaz o članstvu u Sustavu zaštite ulagatelja i uplati inicijalnog uloga.
+(5) Ako iz izvještaja i priloženih dokaza iz stavka 4. ovog članka, proizlazi da je kreditna institucija usklađena s odredbama ovog Zakona, Agencija će izdati prethodnu suglasnost o udovoljavanju uvjetima za pružanje investicijskih usluga i obavljanje investicijskih aktivnosti i s njima povezanih pomoćnih usluga, u skladu s odredbama ovog Zakona o izdavanju prethodne suglasnosti kreditnoj instituciji. Ako kreditna institucija u roku od šest mjeseci od dana izdavanja prethodne suglasnosti ne upiše u sudski registar djelatnosti za koje je dobila prethodnu suglasnost, ista prestaje važiti.
+(6) Ako kreditna institucija ne postupi u skladu s odredbama stavka 4. ovog članka, Agencija može kreditnoj instituciji oduzeti dozvolu za obavljanje poslova s vrijednosnim papirima iz stavka 1. ovog članka i o tome obavijestiti Hrvatsku narodnu banku. U tom slučaju, kreditna institucija, od dana dostavljanja rješenja o oduzimanju dozvole za obavljanje poslova s vrijednosnim papirima ne smije obavljati poslove s vrijednosnim papirima na koje se oduzeta dozvola odnosi, te se na odgovarajući način primjenjuju odredbe o oduzimanju odobrenja za rad kreditnoj instituciji u skladu sa zakonom koji uređuje osnivanje i poslovanje kreditnih institucija. Kreditna institucija ponovni zahtjev za izdavanje prethodne suglasnosti u skladu s odredbama ovog Zakona ne može podnijeti prije proteka roka od jedne godine od dana oduzimanja dozvole.
+(7) Kreditna institucija iz članka 223. ovog Zakona dužna je najkasnije trideset dana od proteka roka iz članka 586. ovog Zakona, uplatiti inicijalni doprinos iz članka 237. stavka 2. ovog Zakona.

@@ -1,0 +1,9 @@
+## Dopuna prospekta
+# Članak 379.
+(1) U slučaju da u razdoblju od odobrenja prospekta pa do proteka razdoblja za prihvat ponude, odnosno do početka trgovanja na uređenom tržištu, nastane nova činjenica ili se utvrdi postojanje netočnosti ili nepotpunosti, a koje se odnose na informacije sadržane u prospektu koje mogu utjecati na procjenu vrijednosnih papira, izdavatelj, ponuditelj ili osoba koja je podnijela zahtjev za uvrštenje na uređeno tržište, obvezan je dopuniti prospekt novim, točnim i potpunim informacijama u obliku dopune prospekta. Dopuna prospekta mora sadržavati uputu ulagateljima o pravima iz stavka 7. ovog članka.
+(2) Izdavatelj, ponuditelj ili osoba koja je podnijela zahtjev za uvrštenje na uređeno tržište, obvezan je bez odgode, podnijeti Agenciji zahtjev za dopunu prospekta, u skladu sa stavkom 1. ovog članka te zahtjevu priložiti dopunu prospekta.
+(3) Agencija će odobriti dopunu prospekta u roku od sedam radnih dana od zaprimanja zahtjeva za dopunu prospekta.
+(4) Kad Republika Hrvatska nije matična država članica izdavatelja, zahtjev za dopunu prospekta podnosi se i dopunu prospekta odobrava nadležno tijelo matične države članice izdavatelja, a u tom slučaju smatrat će se da je dopunu prospekta odobrila Agencija.
+(5) Po odobrenju dopune prospekta, izdavatelj, ponuditelj ili podnositelj zahtjeva za dopunu prospekta obvezan je sljedećeg radnog dana objaviti na isti način na koji je objavljen i prospekt.
+(6) Sažetak prospekta, kao i njegov prijevod, moraju biti dopunjeni na način iz stavaka 1. do 3. ovog članka, ako je to potrebno obzirom na sadržaj dopune prospekta.
+(7) Ulagatelji koji su se, prije objave dopune prospekta, obvezali kupiti ili upisati vrijednosne papire u javnoj ponudi, imaju pravo odustati od kupnje ili upisa tih vrijednosnih papira, i to u razdoblju određenom u dopuni prospekta, a koje ne smije biti kraće od dva radna dana od objave dopune prospekta.

@@ -1,0 +1,7 @@
+## Razmjena informacija za potrebe nadzora na konsolidiranoj osnovi
+# Članak 269.
+(1) U slučaju kada matično društvo i bilo koje njemu ovisno investicijsko društvo imaju sjedište u različitim državama članicama, Agencija će s nadležnim tijelima drugih država članica razmjenjivati sve potrebne informacije za provođenje ili olakšavanje provođenja nadzora na konsolidiranoj osnovi.
+(2) U slučaju kada Agencija ne provodi nadzor na konsolidiranoj osnovi, može na zahtjev nadležnog tijela druge države članice odgovornog za provođenje nadzora zatražiti od matičnog društva bilo koju informaciju potrebnu za provođenje nadzora na konsolidiranoj osnovi i proslijediti te podatke nadležnim tijelima drugih država članica.
+(3) Prikupljanje ili posjedovanje podataka iz stavka 2. ovog članka, a koji se odnose na financijski holding, druge financijske institucije, društva za pomoćne usluge, mješoviti holding i njemu ovisna društva koja nisu investicijska društva te društva koja nisu uključena u nadzor na konsolidiranoj osnovi, ne podrazumijeva nadležnost Agencije za nadzor tih društava na pojedinačnoj osnovi.
+(4) Agencija će sastavljati popis matičnih financijskih holdinga sa sjedištem u Republici Hrvatskoj i proslijediti ih nadležnim tijelima drugih država članica i Europskoj komisiji.
+Obveze ovisnih društava investicijskog društva i matičnog financijskog holdinga u slučajevima kada je Agencija nadležna za nadzor na konsolidiranoj osnovi

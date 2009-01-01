@@ -1,0 +1,4 @@
+# Članak 502.
+(1) Poravnanje i namira transakcija sklopljenih na uređenom tržištu i MTP-u u Republici Hrvatskoj s nematerijaliziranim vrijednosnim papirima koji su upisani u središnjem depozitoriju, obavlja se putem sustava poravnanja i namire kojim upravlja središnje klirinško depozitarno društvo, osim ako burza, odnosno operater MTP-a ne izabere sustav poravnanja i namire kojim upravlja drugi operater sukladno odredbama članka 535. ovog Zakona.
+(2) Odredbe stavka 1. ovog članka na odgovarajući se način primjenjuju na potvrde o deponiranim vrijednosnim papirima koje su radi osiguranja poravnanja i namire izdane na način propisan člancima 532. do 534. ovog Zakona.
+Sustav poravnanja i namire transakcija s drugim financijskim instrumentima sklopljenih na uređenom tržištu i MTP-u u Republici Hrvatskoj

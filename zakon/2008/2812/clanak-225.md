@@ -1,0 +1,9 @@
+## ZAŠTIĆENE TRAŽBINE KLIJENATA ČLANA FONDA KOJI NIJE U MOGUĆNOSTI ISPUNJAVATI SVOJE OBVEZE
+# Članak 225.
+(1) Tražbine klijenta osigurane primjenom odredbi ovog poglavlja su:
+1. novčane tražbine u kunama i u valutama država članica koje Član Fonda duguje klijentu ili koje pripadaju klijentu, a koje predmetni Član Fonda drži za predmetnog klijenta vezano za investicijske usluge, ugovorene s istim.
+2. financijski instrumenti koji pripadaju klijentu Člana Fonda, a koje Član Fonda drži, administrira ili s njima upravlja za račun svog klijenta, u svezi s investicijskim uslugama ugovorenima s klijentima.
+(2) Iz primjene odredbi ovog poglavlja izuzeta su sredstva klijenata kreditnih institucija - tražbine koje su osigurane zakonom koji uređuje osiguranje depozita u kreditnim institucijama radi zaštite deponenata u slučaju nedostupnosti depozita.
+(3) Iz primjene odredbi ove glave izuzete su tražbine klijenata Članova Fonda proizašle iz transakcije za koju je pravomoćnom sudskom presudom utvrđeno da je povezana s pranjem novca.
+(4) U slučaju sumnje da tražbina klijenta Člana Fonda proizlazi iz transakcije povezane s pranjem novca ili financiranjem terorizma, isplata tražbine klijenta neće se izvršiti do pravomoćnosti sudske odluke o povezanosti transakcije iz koje je tražbina nastala s pranjem novca ili financiranjem terorizma, neovisno o rokovima iz članka 234. stavka 2. ovog Zakona.
+(5) Iznos zaštićenih tražbina klijenta kod jednog Člana Fonda obračunavat će se kao ukupan iznos potraživanja klijenta iz stavka 1. točke 1. i 2. ovog članka, bilo da ih Član Fonda drži na jednom ili više računa, po jednoj ili više ugovornih osnova ili u svezi jedne ili više investicijskih usluga, u kunama i/ili valuti države članice, do visine osiguranog iznosa iz članka 227. ovog Zakona, u koji iznos su uključene i kamate do dana otvaranja stečajnog postupka nad Članom Fonda ili dana objave rješenja Agencije o nastupanju slučaja iz članka 231. ovog Zakona.

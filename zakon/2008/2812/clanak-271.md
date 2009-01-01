@@ -1,0 +1,6 @@
+## Obveze mješovitog holdinga i njegovih ovisnih društava u svezi nadzora na konsolidiranoj osnovi
+# Članak 271.
+(1) U slučaju kada je mješoviti holding matično društvo jednom ili više investicijskih društava od kojih je barem jedno investicijsko društvo sa sjedištem u Republici Hrvatskoj, mješoviti holding i njemu ovisna društva će, na zahtjev Agencije, izravno ili putem ovisnih društava investicijskog društva sa sjedištem u Republici Hrvatskoj dostaviti sve informacije potrebne za nadzor ovisnih investicijskih društava sa sjedištem u Republici Hrvatskoj.
+(2) Agencija ili druga osoba, na temelju ovlaštenja Agencije, može obaviti izravni nadzor s ciljem provjere informacija dobivenih od mješovitog holdinga i njemu ovisnih društava.
+(3) U slučaju kada je mješoviti holding ili neko od njemu ovisnih društava društvo za osiguranje, Agencija će surađivati s nadležnim tijelom odgovornima za nadzor tog društva i razmjenjivati podatke koji bi mogli omogućiti i olakšati nadzor nad aktivnostima i općim financijskim položajem nadziranih društava.
+(4) U slučaju kada mješoviti holding ili jedno od njemu ovisnih društava ima sjedište u državi članici različitoj od sjedišta ovisnog investicijskog društva, izravni nadzor s ciljem provjere informacija obavit će se u skladu s postupcima iz članka 277. ovog Zakona.

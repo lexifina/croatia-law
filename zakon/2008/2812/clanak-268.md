@@ -1,0 +1,18 @@
+## Razmjena informacija među nadležnim tijelima država članica
+# Članak 268.
+(1) Agencija će surađivati s nadležnim tijelima drugih država članica te im dostavljati informacije koje su bitne ili koje su relevantne za obavljanje nadzora. U tom smislu Agencija će drugom nadležnom tijelu:
+1. na njegov zahtjev dostaviti sve informacije koje su relevantne ili se odnose na obavljanje nadzora od strane tog nadležnog tijela ili
+2. na vlastitu inicijativu dostaviti sve informacije koje su bitne za obavljanje nadzora od strane tog nadležnog tijela.
+(2) Ako Agencija provodi nadzor na konsolidiranoj osnovi matičnog investicijskog društva u EU ili investicijskog društva kojeg kontrolira matični financijski holding u EU, tada treba nadležnim tijelima iz drugih država članica koja nadziru ovisna društva tim matičnim društvima dostaviti sve relevantne informacije. Kod određivanja opsega relevantnih informacija treba uzeti u obzir značaj tih ovisnih društava za financijski sustav države članice čije nadležno tijelo nadzire to ovisno društvo.
+(3) Bitne informacije za procjenu financijske stabilnosti pojedinog člana grupe investicijskog društva u drugoj državi članici su:
+1. značajni podaci o strukturi grupe, o svim značajnim investicijskim društvima u grupi i tijelima koja su nadležna za nadzor nad investicijskim društvima u grupi,
+2. procedure prikupljanja podataka od investicijskih društava u grupi i kontrole tih podataka,
+3. značajnija nepovoljna kretanja u investicijskim društvima ili u drugom članu grupe koja bi mogla ozbiljno utjecati na druge članove grupe te
+4. teži prekršaji i nadzorne mjere koje su izrečene investicijskom društvu u skladu s ovim Zakonom, uključujući dodatne nadzorne mjere za upravljanje rizicima iz članka 264. ovog Zakona i ograničenja za korištenje naprednog pristupa za izračun kapitalnih zahtjeva za operativni rizik iz članka 190. ovog Zakona.
+(4) Ako Agencija provodi nadzor investicijskog društva koje kontrolira matično investicijsko društvo u EU i ako su joj potrebne informacije o korištenju pristupa i metodologije za izračun kapitalnih zahtjeva i ograničenja, tada će od nadležnog tijela za nadzor matičnog investicijskog društva u EU zatražiti informacije dostupne tom tijelu.
+(5) Ako su Agenciji u svezi nadzora na konsolidiranoj osnovi za koji je nadležna potrebne informacije o grupi investicijskih društava, a te informacije su već dostavljene drugom nadležnom tijelu, tada će Agencija, ako je moguće, te informacije zatražiti od tog nadležnog tijela kako bi se izbjeglo duplicirano izvještavanje prema različitim nadležnim tijelima koja su uključena u nadzor.
+(6) Agencija će se konzultirati prije donošenja odluke koja je važna za obavljanje nadzora drugih nadležnih tijela država članica s tim nadležnim tijelima o sljedećem:
+1. promjenama u dioničkoj, organizacijskoj ili upravljačkoj strukturi investicijskog društva u grupi za koje je potrebno odobrenje nadležnog tijela i
+2. težim prekršajima i nadzornim mjerama koje su izrečene investicijskom društvu u skladu s ovim Zakonom, uključujući dodatne nadzorne mjere za upravljanje rizicima iz članka 264. ovog Zakona i ograničenja za korištenje naprednog pristupa za izračun kapitalnih zahtjeva za operativni rizik iz članka 190. ovog Zakona.
+(7) U slučaju iz točke 2. stavka 6. ovog članka, Agencija će se konzultirati s tijelom nadležnim za nadzor na konsolidiranoj osnovi.
+(8) Iznimno od stavka 6. i 7. ovog članka, Agencija se ne mora konzultirati u hitnim slučajevima ili onda kad takva konzultacija može ugroziti djelotvornost odluke. U takvim slučajevima Agencija će bez odgode obavijestiti druga nadležna tijela o donesenoj odluci.

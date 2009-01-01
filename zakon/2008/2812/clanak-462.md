@@ -1,0 +1,2 @@
+# Članak 462.
+Kad izdavatelj ili osoba koja djeluje u njegovo ime ili za njegov račun, otkrije svaku povlaštenu informaciju trećoj strani u redovitom obavljanju svojeg posla, profesije ili dužnosti, obvezan je tu informaciju u potpunosti i učinkovito objaviti javnosti i to istovremeno u slučaju namjernog otkrivanja i bez odgode u slučaju nenamjernog otkrivanja, osim ako je osoba koja je primila informaciju vezana obvezom povjerljivosti, bez obzira na to temelji li se ta obveza na propisu, statutu ili ugovoru.

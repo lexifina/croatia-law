@@ -1,0 +1,3 @@
+## Imatelji kvalificiranog udjela središnjeg klirinškog depozitarnog društva
+# Članak 510.
+Na imatelje i promjenu imatelja kvalificiranog udjela središnjeg klirinškog depozitarnog društva, usku povezanost, pravne posljedice stjecanja kvalificiranog udjela bez odobrenja Agencije, te mjere koje Agencija poduzima u slučajevima kada je upravljanje središnjim depozitorijem i sustavom poravnanja i namire pažnjom dobrog stručnjaka dovedeno u pitanje, na odgovarajući način primjenjuju se odredbe članaka 28. i 29. te članaka 44. do 52. ovog Zakona, pri čemu se na odgovarajući način izraz »investicijsko društvo« zamjenjuje izrazom »središnje klirinško depozitarno društvo«.

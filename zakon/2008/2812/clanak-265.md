@@ -1,0 +1,10 @@
+## Odjeljak 2.
+## Nadzor na konsolidiranoj osnovi
+## Način konsolidacije za potrebe nadzora na konsolidiranoj osnovi
+# Članak 265.
+(1) Agencija će za potrebe nadzora na konsolidiranoj osnovi zahtijevati punu konsolidaciju svih ovisnih investicijskih društava, drugih financijskih institucija, kreditnih institucija, društva za upravljanje otvorenim investicijskim fondovima s javnom ponudom i društva za pomoćne usluge u grupi investicijskog društva u RH.
+(2) Iznimno od stavka 1. ovog članka, Agencija može u pojedinim slučajevima zahtijevati proporcionalnu konsolidaciju kada ocijeni da je odgovornost matičnog investicijskog društva i matičnog financijskog holdinga iz grupe investicijskog društva u RH, ograničena samo na udjel kapitala koji posjeduje, uzimajući u obzir odgovornost drugih dioničara ili članova tih društava čija je solventnost zadovoljavajuća. Odgovornost tih drugih dioničara ili članova društva mora biti jasno utvrđena na način da predoče Agenciji pisani dokument o međusobnim pravima i obvezama.
+(3) U slučaju kad je investicijsko društvo sa sjedištem u Republici Hrvatskoj povezano zajedničkim vođenjem s drugim investicijskim društvima, drugom financijskom institucijom, društvom za upravljanje otvorenim investicijskim fondovima s javnom ponudom ili društvom za pomoćne usluge, Agencija će odlučiti o načinu konsolidacije.
+(4) Agencija će zahtijevati proporcionalnu konsolidaciju ako postoji odnos sudjelovanja u drugim članicama grupe kojima upravlja investicijsko društvo ili financijski holding iz grupe investicijskog društva u RH, zajedno s jednim ili više društava koja nisu uključena u grupu investicijskog društva u RH, ako je odgovornost tih društava ograničena samo na njihove udjele u kapitalu.
+(5) U slučaju odnosa sudjelovanja ili kapitalne povezanosti koji su drugačiji nego što je navedeno u stavku 1. do 4. ovog članka, Agencija će odlučiti hoće li se i na koji način provesti konsolidacija.
+(6) U slučaju uključivanja u grupu investicijskog društva u RH na način iz članka 207. stavka 1. i 2. ovog Zakona, Agencija će odrediti način konsolidacije.
