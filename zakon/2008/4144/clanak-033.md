@@ -1,0 +1,2 @@
+# Članak 33.
+Iznimno od odredbe članka 3. točke 5. ovoga Zakona, korisnici stalnog veza u luci nautičkog turizma, koji su na temelju članka 5a. Zakona o boravišnoj pristojbi (»Narodne novine«, br. 27/91., 109/93., 30/94., 35/95. - pročišćeni tekst, 30/99., 64/00., 42/05. i 68/07.) do dana stupanja na snagu ovoga Zakona uplatili paušalni iznos boravišne pristojbe za korištenje stalnog veza u luci nautičkog turizma za 2009. godinu, u 2009. godini ne plaćaju boravišnu pristojbu u smislu odredbi članka 10. stavka 1. ovoga Zakona.

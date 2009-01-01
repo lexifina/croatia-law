@@ -1,0 +1,2 @@
+# Članak 30.
+Za prekršaje utvrđene člankom 24. i 25. ovoga Zakona počinjene u istom smještajnom objektu ili na istom plovnom objektu nautičkog turizma treći put u roku od dvije godine od pravomoćnosti drugog rješenja o prekršaju, uz novčanu kaznu, izreći će se pravnoj ili fizičkoj osobi koja pruža usluge noćenja u smještajnom objektu, odnosno usluge noćenja na plovnom objektu nautičkog turizma i zaštitna mjera zabrane pružanja usluga noćenja u tom objektu u trajanju od šest mjeseci do godine dana.
