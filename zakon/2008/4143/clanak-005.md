@@ -1,0 +1,41 @@
+# Članak 5.
+Obveznici plaćanja članarine u djelatnosti trgovine razvrstavaju se u posebne skupine i to:
+PRVA SKUPINA
+- Ostala trgovina na malo u nespecijaliziranim prodavaonicama (47.19)
+- Trgovina na malo pićima u specijaliziranim prodavaonicama (47.25)
+- Trgovina na malo duhanskim proizvodima u specijaliziranim prodavaonicama (47.26)
+- Trgovina na malo ostalom opremom za kućanstvo u specijaliziranim prodavaonicama 47.5)
+- Trgovina na malo proizvodima za kulturu i rekreaciju u specijaliziranim prodavaonicama (47.6)
+- Trgovina na malo odjećom u specijaliziranim prodavaonicama (47.71)
+- Trgovina na malo obućom i proizvodima od kože (47.72)
+- Ljekarne (47.73)
+- Trgovina na malo medicinskim pripravcima i ortopedskim pomagalima u specijaliziranim prodavaonicama (47.74)
+- Trgovina na malo kozmetičkim i toaletnim proizvodima u specijaliziranim prodavaonicama (47.75)
+- Trgovina na malo cvijećem, sadnicama, sjemenjem, gnojivom, kućnim ljubimcima i hranom za kućne ljubimce u specijaliziranim prodavaonicama (47.76)
+- Trgovina na malo satovima i nakitom u specijaliziranim prodavaonicama (47.77)
+- Ostala trgovina na malo novom robom u specijaliziranim prodavaonicama (47.78)
+- Trgovina na malo rabljenom robom u specijaliziranim prodavaonicama (47.79)
+- Trgovina na malo na štandovima i tržnicama (47.8)
+- Trgovina na malo izvan prodavaonica, štandova i tržnica (47.9)
+- Trgovina na malo preko pošte ili interneta (47.91)
+- Ostala trgovina na malo izvan prodavaonica, štandova i tržnica (47.99)
+- Trgovina motornim vozilima (45.1)
+- Trgovina na malo dijelovima i priborom za motorna vozila (45.32)
+- Trgovina motociklima, dijelovima i priborom za motocikle te održavanje i popravak motocikala (45.40)
+- Trgovina na malo motornim gorivima i mazivima u specijaliziranim prodavaonicama (47.30)
+DRUGA SKUPINA
+- Trgovina na malo u nespecijaliziranim prodavaonicama (uključuje: trgovinu na malo u nespecijaliziranim prodavaonicama pretežno hranom, pićima i duhanskim proizvodima; ostalu trgovinu na malo u nespecijaliziranim prodavaonicama) (47.1)
+- Trgovina na malo hranom, pićima i duhanskim proizvodima u specijaliziranim prodavaonicama (uključuje: trgovinu na malo voćem i povrćem u specijaliziranim prodavaonicama; trgovinu na malo mesom i mesnim proizvodima u specijaliziranim prodavaonicama; trgovinu na malo ribama, rakovima i školjkama u specijaliziranim prodavaonicama; trgovinu na malo kruhom, pecivom, kolačima, tjesteninama, bombonima i slatkišima u specijaliziranim prodavaonicama; trgovina na malo pićima u specijaliziranim prodavaonicama) (47.2)
+TREĆA SKUPINA
+- Trgovina na veliko i na malo motornim vozilima i motociklima; popravak motornih vozila i motocikala (45)
+- Trgovina na veliko dijelovima i priborom za motorna vozila (45.31)
+- Trgovina motociklima, dijelovima i priborom za motocikle te održavanje i popravak motocikala (45.40)
+- Trgovina na veliko poljoprivrednim sirovinama i živom stokom (uključuje: trgovinu na veliko žitaricama, sirovim duhanom, sjemenjem i stočnom hranom; trgovinu na veliko cvijećem i sadnicama; trgovinu na veliko; trgovinu na veliko živom stokom; trgovinu na veliko sirovom i štavljenom kožom) (46.2)
+- Trgovina na veliko hranom, pićima i duhanom (uključuje: trgovinu na veliko voćem i povrćem; trgovinu na veliko mesom i mesnim proizvodima; trgovinu na veliko mlijekom, mliječnim proizvodima, jajima, jestivim uljima i mastima; trgovinu na veliko pićima; trgovinu na veliko šećerom, čokoladom i bombonima; trgovinu na veliko kavom, čajem, kakaom i začinima; trgovinu na veliko ostalom hranom uključujući ribe, rakove i školjke; nespecijaliziranu trgovinu na veliko hranom, pićima i duhanskim proizvodima) (46.3)
+- Trgovina na veliko proizvodima za kućanstvo (uključuje: trgovinu na veliko tekstilom; trgovinu na veliko odjećom i obućom; trgovinu na veliko električnim aparatima za kućanstvo; trgovinu na veliko porculanom, staklom i sredstvima za čišćenje; trgovinu na veliko parfemima i kozmetikom; trgovinu na veliko farmaceutskim proizvodima; trgovinu na veliko namještajem, sagovima i opremom za rasvjetu; trgovinu na veliko satovima i nakitom; trgovinu na veliko ostalim proizvodima za kućanstvo) (46.4)
+- Trgovina na veliko informacijsko-komunikacijskom opremom (uključuje: trgovinu na veliko računalima, perifernom opremom i softverom; trgovinu na veliko električnim i telekomunikacijskim dijelovima i opremom) (45.5)
+- Ostala specijalizirana trgovina na veliko (uključuje: trgovinu na veliko krutim, tekućim i plinovitim gorivima i srodnim proizvodima; trgovinu na veliko metalima i metalnim rudama; trgovinu na veliko drvom, građevinskim materijalom i sanitarnom opremom; trgovinu na veliko željeznom robom, instalacijskim materijalom i opremom za vodovod i grijanje; trgovinu na veliko kemijskim proizvodima; trgovinu na veliko ostacima i otpacima (46.7)
+- Trgovina na veliko ostalim strojevima, opremom i priborom (uključuje: trgovinu na veliko poljoprivrednim strojevima, opremom i priborom; trgovinu na veliko alatnim strojevima; trgovinu na veliko strojevima za rudnike i građevinarstvo; trgovinu na veliko strojevima za tekstilnu industriju te strojevima za šivanje i pletenje; trgovinu na veliko uredskim namještajem; trgovinu na veliko ostalim uredskim strojevima i opremom) (46.6)
+- Nespecijalizirana trgovina na veliko (46.9)
+ČETVRTA SKUPINA
+Sve djelatnosti iz treće skupine koje se bave i vanjskom trgovinom.
