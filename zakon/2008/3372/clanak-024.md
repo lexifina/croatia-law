@@ -1,0 +1,4 @@
+## Primjena drugih odredbi ovoga Zakona te ostalih propisa na instituciju za elektronički novac iz druge države članice
+# Članak 24.
+(1) Na instituciju za elektronički novac iz druge države članice koja neposredno pruža uslugu izdavanja elektroničkog novca na području Republike Hrvatske na odgovarajući se način primjenjuje Članak 86. stavak 1. Zakona o kreditnim institucijama te odredbe ovoga Zakona koje se odnose na zaštitu potrošača.
+(2) Na instituciju za elektronički novac druge države članice koja preko podružnice pruža uzajamno priznate usluge na području Republike Hrvatske, osim odredbi iz stavka 1. ovoga članka, na odgovarajući se način primjenjuje Članak 86. stavak 2. Zakona o kreditnim institucijama te odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona koje se odnose na izvješća i informacije potrebne za obavljanje poslova iz nadležnosti Hrvatske narodne banke na području praćenja likvidnosnog rizika.

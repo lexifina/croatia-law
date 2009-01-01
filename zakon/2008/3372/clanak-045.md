@@ -1,0 +1,5 @@
+## Iznimke od javnog objavljivanja informacija
+# Članak 45.
+(1) Iznimno, institucija za elektronički novac nije dužna objaviti jednu ili više informacija iz članka 44. stavka 1. ovoga Zakona ako nije materijalno značajna. Informacije koje se javno objavljuju smatrat će se materijalno značajnima ako bi njihovo izostavljanje ili pogrešno navođenje moglo promijeniti procjenu ili poslovnu odluku osobe koja se koristi navedenim informacijama za donošenje svojih poslovnih odluka ili utjecati na njih.
+(2) Iznimno, institucija za elektronički novac nije dužna objaviti jednu ili više informacija iz članka 44. stavka 1. i 2. ovoga Zakona ako se radi o informacijama koji se smatraju povjerljivima ili čije bi objavljivanje moglo ugroziti konkurentski položaj institucije ili umanjiti vrijednost ulaganja institucije za elektronički novac.
+(3) U slučajevima iz stavka 2. ovoga članka institucija za elektronički novac dužna je javno objaviti činjenicu da informacije nisu objavljene i razlog njihova neobjavljivanja te objaviti općenitije informacije o tom predmetu, osim u slučaju kada se i te informacije smatraju informacijama iz stavka 2. ovoga članka.
