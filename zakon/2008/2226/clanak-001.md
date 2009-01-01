@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o zdravstvenom osiguranju zaštite zdravlja na radu (»Narodne novine«, br. 85/06.) u članku 5. stavku 4., članku 16. stavku 1., članku 17. stavku 1., članku 18. stavku 1. i 3., članku 21. stavku 1. podstavku 4. i 5., članku 26. stavku 3., članku 29. i članku 31. riječi: »Hrvatski zavod za medicinu rada«, u odgovarajućem padežu, zamjenjuju se riječima: »zavod nadležan za zaštitu zdravlja i sigurnost na radu« u odgovarajućem padežu.
