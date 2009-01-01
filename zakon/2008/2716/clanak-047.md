@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Za osiguranika po osnovi nezaposlene osobe (članak 9. stavak 1. podstavak 1.) obveznik doprinosa te obveznik obračunavanja i obveznik plaćanja doprinosa jest Hrvatski zavod za zapošljavanje.
+(2) Za osiguranika po osnovi korisnika invalidske mirovine zbog profesionalne nesposobnosti za rad (članak 9. stavak 1. podstavak 2.) obveznik doprinosa i obveznik plaćanja doprinosa jest Republika Hrvatska na teret sredstava državnog proračuna, putem mjerodavnog ministarstva, a obveznik obračunavanja je Hrvatski zavod za mirovinsko osiguranje.
+(3) Za osiguranika po osnovi nezaposlene osobe (članak 9. stavak 1. podstavak 3.) obveznik doprinosa i obveznik plaćanja doprinosa jest Republika Hrvatska na teret sredstava državnog proračuna, putem mjerodavnog ministarstva, a obveznik obračunavanja je Hrvatski zavod za zapošljavanje.

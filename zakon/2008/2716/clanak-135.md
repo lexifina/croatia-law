@@ -1,0 +1,2 @@
+# Članak 135.
+Za osiguranika po osnovi učenika srednjih škola i redovitih studenata visokih učilišta koji nisu osigurani kao članovi obitelji osiguranika (članak 9. stavak 1. točka 25.) obveznik doprinosa, obveznik obračunavanja i obveznik plaćanja doprinosa jest srednja škola za učenike srednjih škola te visoko učilište za redovite studente koji su izvršili prijavu osiguranika na obvezno zdravstveno osiguranje.

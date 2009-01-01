@@ -1,0 +1,5 @@
+# Članak 238.
+(1) Doprinosi se obračunavaju prema propisima važećima za razdoblje osiguranja na koje se obveza odnosi.
+(2) Iznimno od odredbe stavka 1. ovoga članka, za osiguranike po osnovi radnog odnosa i na razdoblje u osiguranju (staž) do zaključno 31. prosinca 2002. doprinosi se obračunavaju prema vrstama doprinosa i stopama za obračun važećima na dan 31. prosinca 2002., osim doprinosa za mirovinsko osiguranje na temelju individualne kapitalizirane štednje i posebnog doprinosa za zdravstveno osiguranje za prava u slučaju ozljede na radu i profesionalne bolesti koji se ne obračunavaju ako se obveza odnosi na razdoblje u kojemu nije postojala obveza tih doprinosa.
+(3) Iznimno od odredbe stavka 1. ovoga članka, osiguranicima koji su sami obveznici plaćanja doprinosa, a to im je svojstvo utvrđeno za razdoblje koje prethodi godini u kojoj je pokrenut postupak za utvrđivanje svojstva osiguranika, doprinosi se obračunavaju prema osnovici te prema vrstama doprinosa i stopama za obračun važećima za godinu u kojoj je postupak pokrenut.
+5. Utvrđivanje obveze doprinosa

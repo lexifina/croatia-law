@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Obveze doprinosa obračunavaju se pojedinačno - za svakog osiguranika i prema plaći za svaki mjesec ili dio mjeseca u kojemu je radnik bio u radnom odnosu, odnosno prema svakom pojedinačno isplaćenom ostalom primitku.
+(2) Iznimno od odredbe stavka 1. ovoga članka, doprinosi na osnovicu iz članka 20. stavka 1. točke 2. ovoga Zakona mogu se za sve osiguranike obračunati i prema zbrojenoj osnovici - isplaćenoj ili obračunanoj ukupnoj plaći svih osiguranika ili prema isplaćenim ukupnim ostalim primicima svih osiguranika, umanjeno za plaću osiguranika koji se prvi put zapošljavaju iz članka 20. stavka 2. ovoga Zakona.
+(3) Poslodavac koji je, sukladno odredbama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom, obveznik posebnog doprinosa za poticanje zapošljavanja osoba s invaliditetom taj doprinos obračunava prema zbrojenoj osnovici svih osiguranika utvrđenoj prema stavku 2. ovoga članka.

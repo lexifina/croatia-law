@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Doprinosi prema ostalim primicima obračunavaju se zajedno s obračunom tih primitaka i dospijevaju na naplatu istodobno s isplatom ostalih primitaka.
+(2) Prema ostalim primicima koji se daju u naravi ili u korištenju nekog prava doprinosi se obračunavaju i dospijevaju na naplatu do posljednjeg dana u mjesecu u kojem je izvršeno davanje ili korištenje.
+(3) Mjesečna osnovica iz članka 29. ovoga Zakona i osnovica iz članka 30. ovoga Zakona, ako se utvrđuju istodobno, mogu se zbrojiti i činiti ukupnu osnovicu za obračun doprinosa iz osnovice pojedinog osiguranika za određeni mjesec. Iznimno, kada je iznos osnovice iz članka 29. ovoga Zakona utvrđen u iznosu najviše mjesečne osnovice, pa se doprinosi iz osnovice prema osnovici iz članka 30. ovoga Zakona obračunavaju odvojeno od obračuna tih doprinosa prema osnovici iz članka 29. ovoga Zakona.

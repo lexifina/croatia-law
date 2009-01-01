@@ -1,0 +1,2 @@
+# Članak 197.
+Doprinos se obračunava na osnovicu prema mjesečnoj osnovici iz članka 198. ovoga Zakona, i to dodatni doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje za staž osiguranja s povećanim trajanjem (za osiguranika mirovinskog osiguranja na temelju individualne kapitalizirane štednje) a koji se obračunava po stopi od 2,01% sukladno odredbi članka 17. stavka 2. ovoga Zakona.

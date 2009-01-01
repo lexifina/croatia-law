@@ -1,0 +1,2 @@
+# Članak 256.
+Za osobu koja se tijekom 2008. prvi put zaposlila na temelju ugovora o radu ili volonterskog ugovora odredbe članka 20. stavka 2. i 3., članka 36. stavka 2. i 3. i članka 43. stavka 2. i 3. ovoga Zakona primjenjuju se pri obračunu doprinosa prema mjesečnim osnovicama koje se odnose na staž u mirovinskom osiguranju od dana stupanja na snagu ovoga Zakona do isteka godine dana od dana prvog zaposlenja.

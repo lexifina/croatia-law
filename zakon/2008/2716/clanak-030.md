@@ -1,0 +1,2 @@
+# Članak 30.
+Osnovicom za obračun doprinosa za osiguranika po osnovi imenovane ili izabrane osobe smatraju se i iznosi ostalih primitaka iz članka 22. ovoga Zakona, oporezivih porezom na dohodak, što ih osiguraniku isplaćuje predstavničko tijelo ili izvršno tijelo državne vlasti, jedinice područne (regionalne) samouprave ili jedinice lokalne samouprave u kojoj osiguranik obavlja dužnost izabrane ili imenovane osobe.

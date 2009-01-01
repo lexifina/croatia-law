@@ -1,0 +1,6 @@
+# Članak 186.
+(1) Godišnja osnovica može iznositi najviše do umnoška iznosa prosječne plaće, koeficijenta 0,65 i brojke 12.
+(2) Kada se doprinosi obračunavaju prema godišnjoj osnovici a razdoblje u kojem je obveznik doprinosa obavljao drugu djelatnost kraće je od godine dana, najviši iznos godišnje osnovice razmjeran je broju mjeseci u kojima je obveznik doprinosa obavljao drugu djelatnost u odnosu na brojku 12.
+(3) U broj mjeseci obavljanja druge djelatnosti iz stavka 2. ovoga članka računa se svaki puni mjesec obavljanja druge djelatnosti uvećan za posljednji mjesec, bez obzira na broj dana obavljanja druge djelatnosti u tom mjesecu te bez umanjenja za mjesece u kojima je djelatnost privremeno obustavljena i mjesece u kojima je korišteno pravo na bolovanje.
+(4) Iznimno od odredbe stavka 3. ovoga članka, u broj mjeseci obavljanja druge djelatnosti obvezniku doprinosa se koji od te djelatnosti porez na dohodak plaća prema paušalnom dohotku ne uzima razdoblje u kojem je privremeno obustavio obavljanje druge djelatnosti, sukladno propisu o obrtu.
+(5) Odredbe stavka 2. i 3. ovoga članka ne primjenjuju se na obveznika doprinosa koji ostvari primitke po osnovi samostalne djelatnosti iz članka 18. stavka 1. točke 3. Zakona o porezu na dohodak.

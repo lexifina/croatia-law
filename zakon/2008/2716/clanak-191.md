@@ -1,0 +1,4 @@
+# Članak 191.
+(1) Za osiguranika iz članka 188. stavka 1. točke 1. ovoga Zakona - izaslanog radnika doprinos se obračunava prema mjesečnoj osnovici za obračun doprinosa izaslanog radnika iz članka 37. stavka 1. ovoga Zakona.
+(2) Za osiguranika iz članka 188. stavka 1. točke 2. ovoga Zakona doprinos se obračunava prema mjesečnoj osnovici - plaći iz članka 21. stavka 1. ovoga Zakona, a za osiguranika iz članka 188. stavka 1. točke 4. ovoga Zakona prema mjesečnoj osnovici - plaći iz članka 29. stavka 1. ovoga Zakona. Ako se za vrijeme službenog boravka u inozemstvu ne isplaćuje plaća, tada se posebni doprinos za osiguranike iz ovoga stavka obračunava prema iznosu prosječne plaće.
+(3) Za osiguranike iz članka 188. točke 3., 5., 6., 7. i 8. i članka 189. ovoga Zakona osnovica za obračun doprinosa jest umnožak iznosa prosječne plaće i koeficijenta 0,35.

@@ -1,0 +1,2 @@
+# Članak 210.
+Iznimno od odredaba članaka 111. do 117. ovoga Zakona, prema primicima od kojih se utvrđuje drugi dohodak, a isplaćuju se osobi koja se na osobni zahtjev upiše u registar obveznika poreza na dohodak po osnovi obavljanja samostalne djelatnosti pa prema tim primicima utvrđuje dohodak na način propisan za utvrđivanje dohotka od samostalne djelatnosti ili prema tim primicima utvrđuje dobit, obveza doprinosa utvrđuje se na način propisan člankom 64. do 71., odnosno člankom 183. do 187. ovoga Zakona, ovisno o statusu u osiguranju.

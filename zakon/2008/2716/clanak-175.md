@@ -1,0 +1,2 @@
+# Članak 175.
+Za osiguranika po osnovi stranca na školovanju, specijalizaciji ili znanstvenom istraživanju kao stipendist tijela državne vlasti Republike Hrvatske ili pravne osobe za čije zdravstveno osiguranje doprinose plaća davatelj stipendije (članak 11. stavak 1. točka 3.) obveznik doprinosa te obveznik obračunavanja i obveznik plaćanja doprinosa jest pravna ili fizička osoba ili drugi subjekt koji je izvršio prijavu osiguranika na obvezno zdravstveno osiguranje.

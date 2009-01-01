@@ -1,0 +1,3 @@
+# Članak 225.
+(1) Porezna uprava dužna je nositeljima obveznih osiguranja i Središnjem registru osiguranika dostaviti podatke o obveznicima doprinosa, o osnovici prema kojoj su doprinosi obračunani i razdoblju na koje se utvrđena osnovica odnosi, o obračunanim i naplaćenim doprinosima te druge podatke prema njihovu zahtjevu i potrebama za njihove službene svrhe.
+(2) Porezna uprava dužna je nositeljima obveznih osiguranja dostaviti podatke o upisu u registar i ispisu iz registra obveznika poreza na dohodak fizičke osobe po osnovi obavljanja ostalih samostalnih djelatnosti iz članka 7. točke 4. i 5. ovoga Zakona.

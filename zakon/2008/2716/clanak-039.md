@@ -1,0 +1,4 @@
+# Članak 39.
+(1) Obveze doprinosa obračunavaju se pojedinačno za svakog osiguranika i prema mjesečnoj osnovici za svaki mjesec ili za dio mjeseca u kojem je radnik bio u radnom odnosu, odnosno prema svakom pojedinačno isplaćenom ostalom primitku.
+(2) Iznimno od odredbe stavka 1. ovoga članka, doprinosi na osnovicu obračunani prema članku 36. stavku 1. točki 2. ovoga Zakona mogu se za sve osiguranike obračunati i prema ukupnoj osnovici svih osiguranika umanjeno za osnovicu osiguranika koji se prvi put zapošljavaju iz članka 36. stavka 2. ovoga Zakona.
+(3) Poslodavac koji je, sukladno odredbama Zakona o profesionalnoj rehabilitaciji i poticanju zapošljavanja osoba s invaliditetom, obveznik posebnog doprinosa za poticanje zapošljavanja osoba s invaliditetom taj doprinos obračunava prema zbrojenoj osnovici svih osiguranika utvrđenoj prema stavku 2. ovoga članka.

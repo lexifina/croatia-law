@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Za osiguranika po osnovi izabranih ili imenovanih osoba (članak 9. stavak 1. točka 2.) obveznik doprinosa iz osnovice je osiguranik, a obveznik doprinosa na osnovicu je predstavničko tijelo ili izvršno tijelo državne vlasti, jedinice područne (regionalne) samouprave ili jedinice lokalne samouprave u kojoj osiguranik obavlja dužnost izabrane ili imenovane osobe.
+(2) Obveznik obračunavanja i obveznik plaćanja svih doprinosa jest predstavničko tijelo ili izvršno tijelo državne vlasti, jedinice područne (regionalne) samouprave ili jedinice lokalne samouprave u kojoj osiguranik obavlja dužnost izabrane ili imenovane osobe.

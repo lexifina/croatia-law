@@ -1,0 +1,3 @@
+## XVIII. OVLASTI MINISTRU FINANCIJA
+# Članak 253.
+Ministar financija provedbene će propise kojima će propisati način postupanja pri utvrđivanju i obračunu doprinosa, način dokazivanja, način izvješćivanja te rokove, oblik i sadržaj izvješća i druga pitanja kojima će se potanko urediti provedba odredaba Zakona i za koja je ovlašten ovim Zakonom donijeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona. Način i rokove izvješćivanja o obračunanim doprinosima te oblik i sadržaj izvješća ministar financija uredit će istim propisom kojim uređuje način i rokove izvješćivanja te oblik i sadržaj izvješća o nastaloj obvezi poreza na dohodak, sukladno propisima o porezu na dohodak.

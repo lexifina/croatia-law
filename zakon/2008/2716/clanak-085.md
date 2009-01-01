@@ -1,0 +1,3 @@
+# Članak 85.
+Osiguranik - obveznik doprinosa iz članka 80. ovoga Zakona koji koristi pravo na bolovanje ili koji kao roditelj djeteta s težim smetnjama u razvoju koristi pravo na dopust poradi njege djeteta ili pravo na rad s pola radnog vremena te na teret sredstava obveznih zdravstvenih osiguranja, sredstava državnog proračuna ili sredstava socijalne skrbi ostvaruje pravo na naknadu plaće a koji za razdoblje u kojemu ostvaruje navedena prava isplati sebi primitak podložan obvezi poreza na dohodak, ima obvezu doprinosa prema tom primitku a obveza se utvrđuje na način propisan člankom 111. do 117. ovoga Zakona za obvezu prema primicima od kojih se utvrđuje drugi dohodak.
+1.14. Za osiguranika po osnovi poljoprivrede

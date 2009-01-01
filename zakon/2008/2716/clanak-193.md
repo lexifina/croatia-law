@@ -1,0 +1,2 @@
+# Članak 193.
+Za osiguranika obveznoga mirovinskog osiguranja po osnovi radnog odnosa iz članka 9. stavka 1. točke 1. i 3. ovoga Zakona koji je, sukladno propisima o stažu osiguranja koji se računa s povećanim trajanjem i posebnim propisima, zaposlen na radnome mjestu na kojemu se staž osiguranja računa s povećanim trajanjem ili koji obavlja poslove zanimanja za koja se staž osiguranja računa s povećanim trajanjem, obveznik dodatnog doprinosa te obveznik obračunavanja i plaćanja doprinosa jest poslodavac.
