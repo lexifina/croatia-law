@@ -1,0 +1,16 @@
+## Prekršaji drugih osoba
+# Članak 364.
+(1) Za prekršaj kaznit će se pravna osoba koja se koristi riječima »kreditna institucija«, »banka«, »štedna banka«, »stambena štedionica« ili »štedionica«, odnosno izvedenicama tih riječi suprotno odredbama članka 3., članka 311. i članka 317. ovoga Zakona novčanom kaznom od 10.000,00 do 50.000,00 kuna.
+(2) Za prekršaj kaznit će se odgovorna osoba iz pravne osobe koja je počinila prekršaj iz stavka 1. ovoga članka novčanom kaznom od 5.000,00 do 20.000,00 kuna.
+(3) Za prekršaj kaznit će se pravna osoba novčanom kaznom u iznosu od 100.000,00 do 500.000,00 kuna ako prikuplja depozite ili druga povratna sredstva od javnosti suprotno zabrani iz članka 57. ovoga Zakona.
+(4) Za prekršaj kaznit će se odgovorna osoba pravne osobe koja počini prekršaj iz stavka 3. ovoga članka novčanom kaznom od 50.000,00 do 100.000,00 kuna.
+(5) Za prekršaj kaznit će se fizička osoba novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna ako prikuplja depozite ili druga povratna sredstva od javnosti suprotno zabrani iz članka 57. ovoga Zakona.
+(6) Za prekršaj kaznit će se dioničar kreditne institucije koji je pravna osoba ako stekne dionice kreditne institucije na način suprotan odredbi članka 34. stavka 1. i 2. ovoga Zakona ili ako ne postupi po nalogu Hrvatske narodne banke iz članka 40. stavka 2. ovoga Zakona novčanom kaznom od 500.000,00 do 1.000.000,00 kuna.
+(7) Za prekršaj kaznit će se odgovorna osoba pravne osobe koja počini prekršaj iz stavka 6. ovoga članka novčanom kaznom od 50.000,00 do 100.000,00 kuna.
+(8) Za prekršaj kaznit će se dioničar kreditne institucije koji je fizička osoba ako stekne dionice kreditne institucije na način suprotan odredbi članka 34. stavka 1. i 2. ovoga Zakona ili ako ne postupi po nalogu Hrvatske narodne banke iz članka 40. stavka 2. ovoga Zakona novčanom kaznom od 50.000,00 do 100.000,00 kuna.
+(9) Za prekršaj kaznit će se imatelj kvalificiranog udjela koji je pravna osoba ako Hrvatsku narodnu banku ne obavijesti, ili ne obavijesti u roku iz članka 34. stavka 8. ovoga Zakona, o postupku pripajanja, spajanja ili podjele društva u kojem sudjeluje ili o svakoj drugoj statusnoj promjeni novčanom kaznom od 50.000,00 do 100.000,00 kuna.
+(10) Za prekršaj kaznit će se odgovorna osoba pravne osobe koja počini prekršaj iz stavka 9. ovoga članka novčanom kaznom od 10.000,00 do 50.000,00 kuna.
+(11) Za prekršaj kaznit će se imatelj kvalificiranog udjela koji je fizička osoba ako Hrvatsku narodnu banku ne obavijesti, ili ne obavijesti u roku iz članka 34. stavka 8. ovoga Zakona o postupku pripajanja, spajanja ili podjele društva u kojem sudjeluje ili o svakoj drugoj statusnoj promjeni novčanom kaznom od 10.000,00 do 50.000,00 kuna.
+(12) Ako pravna osoba iz članka 200. stavka 2. ovoga Zakona Hrvatskoj narodnoj banci ne dostavlja izvješća i informacije ili ne omogući provjeru određenog dijela svojega poslovanja, kaznit će se novčanom kaznom od 100.000,00 do 500.000,00 kuna.
+(13) Za prekršaj kaznit će se odgovorna osoba pravne osobe koja počini prekršaj iz stavka 12. ovoga članka novčanom kaznom od 10.000,00 do 50.000,00 kuna.
+(14) Ako fizička osoba iz članka 200. stavka 2. ovoga Zakona Hrvatskoj narodnoj banci ne dostavlja izvješća i informacije ili ne omogući provjeru određenog dijela svojega poslovanja, kaznit će se novčanom kaznom od 10.000,00 do 50.000,00 kuna.

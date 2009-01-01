@@ -1,0 +1,6 @@
+## Odbijanje revizorskog izvješća
+# Članak 195.
+(1) Ako isto revizorsko društvo obavi reviziju financijskih izvještaja kreditne institucije suprotno članku 192. ili 193. ovoga Zakona, Hrvatska narodna banka neće prihvatiti izvješće o reviziji financijskih izvještaja kreditne institucije za tu godinu.
+(2) Ako Hrvatska narodna banka utvrdi da revizija financijskih izvještaja nije obavljena ili da revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, podzakonskim aktima donesenim na temelju ovoga Zakona, zakona kojim se uređuje revizija i pravilima revizorske struke ili ako obavljenom supervizijom poslovanja kreditne institucije ili na drugi način utvrdi da revizorsko mišljenje o financijskim izvještajima kreditne institucije iz članka 190. ovoga Zakona nije zasnovano na istinitim i objektivnim činjenicama, može odbiti revizorsko izvješće i zahtijevati od kreditne institucije da reviziju obave ovlašteni revizori drugoga revizorskog društva, a na trošak kreditne institucije.
+(3) U slučaju iz prethodnog stavka ovoga članka Hrvatska narodna banka neće u idućih pet godina prihvaćati revizorsko izvješće financijskih izvješća koje je izdalo isto revizorsko društvo.
+(4) Hrvatska narodna banka propisat će razloge za odbijanje revizorskog izvješća iz stavka 2. ovoga članka.

@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 376.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2009., osim odredbi članka 36. stavka 4., članka 56. točke 2., članka 72. do 78., članka 81. do 86., članka 92., članka 127. stavka 3. do 6., članka 158. stavka 2. točke 3., članka 160. stavka 3., članka 209. do 217., članka 219., članka 220., članka 222., članka 227., članka 228. stavka 1. točke 2., članka 282. stavka 4. i 5., članka 285., članka 286. stavka 6., članka 287. do 291., članka 293. do 294., članka 296. stavka 4., članka 298., članka 300., članka 301. stavka 2., članka 303. i članka 331. do 359. ovoga Zakona koje stupanju na snagu na dan prijama Republike Hrvatske u Europsku uniju.

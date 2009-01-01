@@ -1,0 +1,15 @@
+## Osobe na koje se ne odnosi obveza čuvanja povjerljivih informacija
+# Članak 225.
+(1) Hrvatska narodna banka može povjerljive informacije proslijediti sljedećim osobama u Republici Hrvatskoj ili u državama članicama:
+1) nadležnim tijelima ovlaštenim za nadzor kreditnih institucija, financijskih institucija, društava za osiguranje i financijskih tržišta u obavljanju njihovih zakonom utvrđenih zadataka,
+2) sudu i drugim tijelima ili pravnim osobama ovlaštenim za obavljanje poslova u provođenju postupka likvidacije, odnosno stečaja kreditne institucije ili u drugim sličnim postupcima u obavljanju njihovih zakonom utvrđenih zadataka,
+3) revizorima koji obavljaju reviziju kreditnih i financijskih institucija u obavljanju njihovih zakonom utvrđenih zadataka,
+4) institucijama nadležnim za osiguranje depozita ako su potrebne za izvršavanje poslova u vezi s osiguranjem depozita,
+5) tijelima koja su nadležna za nadzor nad tijelima koja obavljaju poslove u postupku likvidacije, odnosno stečaja kreditne institucije ili u nekom drugom sličnom postupku ako su potrebne za obavljanje njihovih nadzornih zadataka,
+6) tijelima koja su nadležna za nadzor nad revizorima koji obavljaju reviziju kreditnih i financijskih institucija ako su potrebne za obavljanje njihovih nadzornih zadataka,
+7) Europskoj središnjoj banci, središnjoj banci ili drugom tijelu s ovlastima i odgovornostima za provođenje monetarne politike, odnosno drugom tijelu nadležnom za nadzor platnih sustava,
+8) ministarstvu nadležnom za financije, odnosno državnom tijelu druge države članice ovlaštenom za predlaganje zakona iz područja supervizije kreditnih institucija, financijskih institucija, investicijskih društava i društava za osiguranje, samo za potrebe provođenja nadzora iz svoje nadležnosti i
+9) klirinškom društvu koje obavlja poslove kliringa i namire, a koje je priznato prema zakonu koji uređuje tržište financijskih instrumenata ako Hrvatska narodna banka ocijeni da su ti podaci potrebni za stabilno poslovanje s obzirom na rizik neispunjenja ili mogućeg neispunjenja obveza sudionika tog tržišta.
+(2) Hrvatska narodna banka može, radi jačanja stabilnosti i cjelovitosti financijskog sustava, razmjenjivati informacije i s drugim nadležnim tijelima i organima u Republici Hrvatskoj i državi članici koji u skladu sa zakonom provode postupke istrage i kažnjavanja u slučajevima kršenja prava trgovačkih društava ako to u pisanom obliku zatraži ili naloži nadležni sud. Informacije koje je Hrvatska narodna banka pribavila od drugih nadležnih tijela mogu se priopćiti trećima samo uz suglasnost tijela koje je informaciju dalo.
+(3) Hrvatska narodna banka može informacije primljene na temelju članka 223. stavka 4. ovoga Zakona priopćiti tijelima iz stavka 1. točke 5., 6. i 9. i stavka 2. ovoga članka samo uz izričitu suglasnost nadležnog tijela od kojeg je informacije primila.
+(4) Osobe kojima Hrvatska narodna banka dostavi povjerljive informacije u skladu sa stavkom 1. i 2. ovoga članka mogu ih upotrijebiti samo za svrhe za koje su dane i na njih se primjenjuje obveza čuvanja povjerljivih informacija iz članka 223. ovoga Zakona.

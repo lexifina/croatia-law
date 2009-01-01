@@ -1,0 +1,8 @@
+## Stopa adekvatnosti jamstvenoga kapitala i kapital iznad minimalno propisanoga
+# Članak 237.
+(1) Hrvatska narodna banka naložit će kreditnoj instituciji da osigura veću stopu adekvatnosti jamstvenoga kapitala, odnosno veći kapital od minimalnog iznosa jamstvenoga kapitala propisanog ovim Zakonom ako se supervizijom utvrdi da minimalni kapital kreditne institucije ne osigurava pokriće svih rizika i odgovarajuće upravljanje rizicima kojima je izložena ili bi ona mogla biti izložena te ako kreditna institucija nije uspostavila i/ili ako dosljedno ne provodi:
+1) odgovarajući sustav upravljanja u skladu s odredbama članka 113. ovoga Zakona i propisima o upravljanju rizicima,
+2) odgovarajuće administrativne i računovodstvene postupke i odgovarajući sustav unutarnjih kontrola za utvrđivanje i praćenje velikih izloženosti u skladu s odredbama članka 113. točke 3. ovoga Zakona ili
+3) odgovarajuće strategije i postupke procjenjivanja adekvatnosti internoga kapitala u skladu s odredbama članka 111. ovoga Zakona i propisima o upravljanju rizicima.
+(2) Hrvatska narodna banka naložit će veću stopu, odnosno veći iznos kapitala iz stavka 1. ovoga članka ako utvrdi da nije izgledno da će se mjerama iz članka 236. ovoga Zakona u naloženom roku postići poboljšanje sustava upravljanja rizicima, odnosno strategija i postupaka procjenjivanja adekvatnosti internoga kapitala u kreditnoj instituciji.
+(3) Rješenjem u kojem se kreditnoj instituciji nalaže da osigura kapital veći od iznosa minimalnoga kapitala iz članka 131. ovoga Zakona Hrvatska narodna banka može naložiti i druge mjere iz članka 236. ovoga Zakona.

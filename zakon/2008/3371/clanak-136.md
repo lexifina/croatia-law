@@ -1,0 +1,5 @@
+## Tehnike smanjenja kreditnog rizika
+# Članak 136.
+(1) Tehnike smanjenja kreditnog rizika su tehnike primjene propisane priznate kreditne zaštite za smanjenje kreditnog rizika povezanog s jednom ili više izloženosti kreditne institucije.
+(2) Kreditna se institucija može pri izračunu iznosa izloženosti ponderiranoga kreditnim rizikom ili iznosa očekivanoga gubitka u odnosu na određenu izloženost koristiti kreditnom zaštitom ako je kreditna zaštita priznata za smanjenje kreditnog rizika i ako udovoljava minimalnim zahtjevima koji osiguravaju njezinu realizaciju.
+(3) Pri izračunu učinaka primijenjene kreditne zaštite kreditna se institucija može koristiti jednostavnom ili složenom metodom financijskoga kolaterala. Kreditna institucija koja se koristi složenom metodom financijskoga kolaterala, može se, ako je za to dobila odobrenje Hrvatske narodne banke, pri izračunu učinaka primijenjene kreditne zaštite koristiti vlastitom procjenom korektivnog faktora. Kreditna se institucija može, ako je za to dobila odobrenje Hrvatske narodne banke, koristiti internim modelima za izračun potpuno prilagođene vrijednosti za standardizirani ugovor o netiranju.

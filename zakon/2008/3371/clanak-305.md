@@ -1,0 +1,6 @@
+## Ugovaranje usluga
+# Članak 305.
+(1) Kreditna institucija dužna je s potrošačem zaključiti ugovor o pružanju pojedine bankovne usluge iz članka 4. ovoga Zakona u pisanom obliku, na hrvatskom jeziku, i najmanje jedan primjerak ugovora predati potrošaču.
+(2) Prije zaključivanja ugovora iz stavka 1. ovoga članka kreditna institucija dužna je potrošaču dati sve informacije koje su mu potrebne da bi usporedio različite ponude radi donošenja odluke o sklapanju ugovora.
+(3) Prije zaključivanja ugovora iz stavka 1. ovoga članka kreditna institucija dužna je potrošaču predočiti, odnosno učiniti dostupnim sve bitne uvjete ugovora iz kojih su jasno vidljiva prava i obveze ugovornih strana, a na zahtjev potrošača kreditna institucija dužna mu je osigurati nacrt ugovora iz stavka 1. ovoga članka bez naknade. Kreditna institucija nije dužna osigurati nacrt ugovora ako je u vrijeme podnošenja zahtjeva potrošača ocijenila da ne želi zaključiti taj pravni posao.
+(4) Ugovor iz stavka 1. ovoga članka može biti zaključen uporabom naprednog elektroničkog potpisa ako posebnim zakonom ili na temelju zakona donesenim propisom nije izričito određena uporaba vlastoručnog potpisa u dokumentima na papiru ili ovjera vlastitog potpisa.

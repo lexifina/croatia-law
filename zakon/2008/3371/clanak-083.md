@@ -1,0 +1,8 @@
+## Pružanje usluga preko podružnice u Republici Hrvatskoj
+# Članak 83.
+(1) Kreditna institucija iz druge države članice ili financijska institucija iz članka 82. ovoga Zakona koja namjerava osnovati podružnicu na području Republike Hrvatske može podnijeti zahtjev za upis podružnice u sudski registar i početi pružati usluge:
+1) nakon što od Hrvatske narodne banke dobije obavijest o uvjetima koje radi zaštite općeg dobra mora poštivati tijekom pružanja usluga na području Republike Hrvatske ili
+2) ako takvu obavijest nije zaprimila, nakon isteka dva mjeseca od dana kada je Hrvatska narodna banka od nadležnog tijela matične države članice zaprimila obavijest i priloge sa sadržajem iz članka 73. ili 74. ovoga Zakona.
+(2) Ako kreditna ili financijska institucija iz stavka 1. ovoga članka naknadno namjerava promijeniti neki od podataka iz članka 73. ili 74. ovoga Zakona dostavljenih nadležnom tijelu matične države članice, dužna je o tome, u pisanom obliku, obavijestiti Hrvatsku narodnu banku najmanje mjesec dana prije izvršenja te promjene.
+(3) Na kreditne ili financijske institucije iz stavka 1. ovoga članka na odgovarajući način primjenjuju se odredbe članka 73. i 74. ovoga Zakona.
+(4) Ako nadležno tijelo matične države članice obavijesti Hrvatsku narodnu banku da financijska institucija ne ispunjava neki od uvjeta iz članka 82. stavka 1. ovoga Zakona, na poslovanje te financijske institucije primjenjivat će se propisi koji reguliraju poslovanje financijskih institucija u Republici Hrvatskoj. U tom slučaju Hrvatska narodna banka dužna je proslijediti tu obavijest nadzornom tijelu u Republici Hrvatskoj.

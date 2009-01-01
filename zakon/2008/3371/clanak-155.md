@@ -1,0 +1,8 @@
+## Prekoračenje najveće dopuštene izloženosti
+# Članak 155.
+(1) Ako kreditna institucija zbog okolnosti na koje ne može utjecati, na osnovi stavki iz knjige banke, prekorači najveću dopuštenu izloženost iz članka 150. do 152. ovoga Zakona, dužna je o tome bez odgađanja obavijestiti Hrvatsku narodnu banku. Kreditna institucija dužna je uz obavijest priložiti opis mjera koje će provesti radi usklađivanja svoga poslovanja sa zahtjevima iz članka 150. do 152. ovoga Zakona i u toj obavijesti navesti rok u kojem će te mjere biti provedene.
+(2) Kreditna institucija može prekoračiti najveću dopuštenu izloženost iz članka 150. ili 151. ovoga Zakona ako su ispunjeni sljedeći uvjeti:
+1) izloženost prema određenoj osobi ili grupi povezanih osoba koja proizlazi iz stavki knjige banke ne prelazi ni ograničenja iz članka 150. ni ograničenja iz članka 151. ovoga Zakona, odnosno da prekoračenje proizlazi isključivo i u cijelosti iz pozicija u knjizi trgovanja,
+2) kreditna institucija je jamstvenim kapitalom pokrila kapitalni zahtjev za prekoračenje dopuštenih izloženosti u skladu sa člankom 141. ovoga Zakona,
+3) ako je od dana prekoračenja proteklo najviše 10 dana, zbroj izloženosti kreditne institucije prema jednoj osobi ili grupi povezanih osoba koja proizlazi iz pozicija knjige trgovanja ne smije prijeći više od 375 posto jamstvenoga kapitala kreditne institucije i
+4) ako je od dana prekoračenja proteklo više od 10 dana, zbroj izloženosti kreditne institucije prema jednoj osobi ili grupi povezanih osoba koji prekoračuje izloženost iz članka 150. i 151. ovoga Zakona ne smije prijeći više od 450 posto jamstvenoga kapitala kreditne institucije.

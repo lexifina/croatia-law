@@ -1,0 +1,5 @@
+## Sazivanje glavne skupštine
+# Članak 252.
+(1) Kada posebna uprava u izvješću iz članka 249. ovoga Zakona predloži spajanje ili pripajanje kreditne institucije ili poduzimanje drugih radnji radi poboljšanja financijske stabilnosti kreditne institucije, o kojima u skladu sa Zakonom o trgovačkim društvima odluke donosi glavna skupština, Hrvatska narodna banka naložit će posebnoj upravi da sazove glavnu skupštinu dioničara kreditne institucije i da joj predloži donošenje odluke.
+(2) Posebna uprava objavit će sazivanje glavne skupštine dioničara radi odlučivanja o pitanjima iz svoje nadležnosti, a koja su u vezi s ostvarivanjem ciljeva poboljšanja stanja u kreditnoj instituciji, najkasnije u roku od osam dana od dana primitka naloga Hrvatske narodne banke iz stavka 1. ovoga članka, a glavna skupština dioničara će se održati najkasnije u roku od petnaest dana od dana objave sazivanja.
+(3) U pozivu za glavnu skupštinu dioničare će se upozoriti na pravne posljedice iz članka 263. stavka 1. točke 2. ovoga Zakona.

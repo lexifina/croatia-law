@@ -1,0 +1,6 @@
+## Razmjena informacija za potrebe supervizije na konsolidiranoj osnovi
+# Članak 298.
+(1) U slučaju kada nadređeno društvo i bilo koja od njemu podređenih kreditnih institucija nemaju sjedište u istoj državi članici, Hrvatska narodna banka će s nadležnim tijelima drugih država članica razmjenjivati sve potrebne informacije za provođenje ili olakšavanje provođenja supervizije na konsolidiranoj osnovi.
+(2) U slučaju kada Hrvatska narodna banka ne provodi superviziju na konsolidiranoj osnovi, može na zahtjev nadležnog tijela druge države članice odgovornog za provođenje supervizije zatražiti od nadređenog društva bilo koju informaciju potrebnu za provođenje supervizije na konsolidiranoj osnovi i proslijediti te podatke nadležnim tijelima drugih država članica.
+(3) Hrvatska narodna banka nije nadležna za superviziju na pojedinačnoj osnovi za financijski holding, druge financijske institucije, društva za pomoćne usluge, mješoviti holding i njemu podređena društva koja nisu kreditne institucije te društva koja nisu uključena u superviziju na konsolidiranoj osnovi, a za koje se prikupljaju ili posjeduju informacije iz stavka 2. ovoga članka.
+Suradnja nadzornih tijela u slučaju kada je jedno od podređenih društava društvo za osiguranje ili društvo ovlašteno za pružanje investicijskih usluga

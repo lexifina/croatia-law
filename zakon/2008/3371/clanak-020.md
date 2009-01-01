@@ -1,0 +1,4 @@
+## Nadređena kreditna institucija u Europskoj uniji i nadređeni financijski holding u Europskoj uniji
+# Članak 20.
+(1) Nadređena kreditna institucija u Europskoj uniji (u nastavku teksta: nadređena kreditna institucija u EU) je kreditna institucija sa sjedištem u državi članici koja ima kao podređeno društvo kreditnu ili financijsku instituciju, odnosno koja ima sudjelujući udio u takvoj instituciji, a koja sama nije podređeno društvo druge kreditne institucije koja je dobila odobrenje za rad u bilo kojoj državi članici, odnosno financijskoga holdinga koji je osnovan u bilo kojoj državi članici.
+(2) Nadređeni financijski holding u Europskoj uniji (u nastavku teksta: nadređeni financijski holding u EU) je financijski holding sa sjedištem u državi članici koji nije podređeno društvo kreditne institucije koja je dobila odobrenje za rad u bilo kojoj državi članici, odnosno nekoga drugoga financijskog holdinga koji je osnovan u bilo kojoj državi članici.

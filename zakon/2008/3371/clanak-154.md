@@ -1,0 +1,5 @@
+## Suglasnost nadzornog odbora
+# Članak 154.
+(1) Za zaključivanje pojedinačnog pravnog posla na temelju kojeg bi ukupna izloženost kreditne institucije mogla rezultirati velikom izloženošću kreditne institucije prema jednoj osobi ili grupi povezanih osoba potrebna je suglasnost nadzornog odbora kreditne institucije. Suglasnost nadzornog odbora potrebna je i za zaključivanje pravnog posla zbog kojeg bi se velika izloženost kreditne institucije prema jednoj osobi ili grupi povezanih osoba povećala tako da postane jednaka ili da prijeđe 15 posto, odnosno 20 posto jamstvenoga kapitala kreditne institucije.
+(2) Za pravni posao zbog kojeg bi nastala ili bi se povećala izloženost kreditne institucije prema osobama iz članka 153. ovoga Zakona potrebna je prethodna suglasnost nadzornog odbora kreditne institucije.
+(3) Iznimno od stavka 2. ovoga članka, za pravni posao kojim nastaje ili se povećava izloženost kreditne institucije prema fizičkim osobama iz članka 153. ovoga Zakona nije potrebna prethodna suglasnost nadzornog odbora kreditne institucije ako se pravni posao sklapa prema uvjetima propisanim općim uvjetima poslovanja kreditne institucije.

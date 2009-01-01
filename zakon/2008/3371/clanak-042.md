@@ -1,0 +1,5 @@
+## Prestanak važenja suglasnosti za stjecanje kvalificiranog udjela
+# Članak 42.
+(1) Ako kvalificirani imatelj u roku iz članka 34. stavka 3. ovoga Zakona ne stekne dionice kreditne institucije na temelju kojih bi dosegnuo najmanje 10 posto udjela u kapitalu, odnosno glasačkim pravima kreditne institucije, suglasnost prestaje važiti u cijelosti.
+(2) Ako kvalificirani imatelj u roku iz članka 34. stavka 3. ovoga Zakona stekne najmanje 10 posto udjela u kapitalu, odnosno glasačkim pravima u kreditnoj instituciji, a u cijelosti ne stekne udio za koji je izdana suglasnost, suglasnost vrijedi samo u dijelu koji je imatelj ostvario, a prestaje važiti u preostalom dijelu za koji je dobio suglasnost.
+(3) Ako je stjecatelj kvalificiranog udjela u roku iz članka 34. stavka 5. ovoga Zakona smanjio udio ispod visine za koju je dobio prethodnu suglasnost, na snazi ostaje suglasnost u dijelu koji prelazi postotak iz članka 34. stavka 1. i 2. ovoga Zakona koji kvalificirani imatelj na dan proteka roka ima.

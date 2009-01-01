@@ -1,0 +1,5 @@
+## Iznimke od javnog objavljivanja informacija
+# Članak 177.
+(1) Iznimno, kreditna institucija nije dužna objaviti jednu ili više informacija iz članka 176. stavka 1. ovoga Zakona ako nije materijalno značajna. Informacije će se smatrati materijalno značajnima ako bi njihovo izostavljanje ili pogrešno navođenje moglo promijeniti procjenu ili poslovnu odluku osobe koja se koristi navedenim informacijama za donošenje poslovnih odluka ili utjecati na njih.
+(2) Iznimno, kreditna institucija nije dužna objaviti jednu ili više informacija iz članka 176. stavka 1. i 2. ovoga Zakona ako je riječ o informacijama koje se smatraju povjerljivima ili čije bi objavljivanje moglo ugroziti konkurentski položaj institucije ili umanjiti vrijednost ulaganja kreditne institucije.
+(3) U slučajevima iz stavka 2. ovoga članka, kreditna institucija dužna je javno objaviti činjenicu da informacije nisu objavljene i razlog njihova neobjavljivanja te objaviti općenitije informacije o tom predmetu, osim u slučaju kada se i te informacije smatraju informacijama iz stavka 2. ovoga članka.

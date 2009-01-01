@@ -1,0 +1,8 @@
+## Postupak odlučivanja o suglasnosti za stjecanje kvalificiranog udjela
+# Članak 36.
+(1) Hrvatska narodna banka će u roku od dva radna dana od dana zaprimanja potpunog zahtjeva za izdavanje suglasnosti za stjecanje kvalificiranog udjela ili udjela iz članka 34. stavka 2. ovoga Zakona (u nastavku teksta: zahtjev), podnositelju zahtjeva izdati pisanu potvrdu o zaprimanju zahtjeva.
+(2) Hrvatska narodna banka će u roku od 60 radnih dana od dana izdavanja pisane potvrde iz stavka 1. ovoga članka o zaprimanju zahtjeva i svih dokumenata koji moraju biti priloženi uz zahtjev iz članka 35. ovoga Zakona, provesti postupak odlučivanja o suglasnosti za stjecanje kvalificiranog udjela (u nastavku teksta: postupak odlučivanja). Hrvatska narodna banka će pri izdavanju potvrde iz stavka 1. ovoga članka obavijestiti podnositelja zahtjeva o danu isteka roka za provođenje postupka odlučivanja.
+(3) Nakon donošenja odluke o zahtjevu Hrvatska narodna banka će o tome u roku od dva radna dana, a u okviru roka iz stavka 2. ovoga članka, pisanim putem obavijestiti podnositelja zahtjeva.
+(4) Ako Hrvatska narodna banka ne odluči o zahtjevu u roku iz stavka 2. ovoga članka, smatra se da je izdala suglasnost za stjecanje kvalificiranog udjela.
+(5) Iznimno od stavka 1. do 4. ovoga članka, ako se zahtjev za stjecanje kvalificiranog udjela podnosi zajedno sa zahtjevom za izdavanje odobrenja za rad, Hrvatska narodna banka donosi odluku o zahtjevu u roku iz članka 329. stavka 1. ovoga Zakona.
+(6) Ako je Hrvatska narodna banka zaprimila dva ili više zahtjeva za stjecanje kvalificiranog udjela, odnosit će se prema svim namjeravanim stjecateljima ravnopravno.

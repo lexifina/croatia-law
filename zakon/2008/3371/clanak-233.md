@@ -1,0 +1,6 @@
+## Rješenje tijekom izravnog nadzora
+# Članak 233.
+Iznimno od članka 232. ovoga Zakona, Hrvatska narodna banka može donijeti rješenje i tijekom izravnog nadzora te naložiti kreditnoj instituciji poduzimanje mjera za otklanjanje određenih nezakonitosti, koje je kreditna institucija bez odgađanja dužna provesti ako:
+1) ovlaštena osoba pri obavljanju izravnog nadzora utvrdi da kreditna institucija nije organizirala svoje poslovanje ili ne vodi poslovne knjige, poslovnu dokumentaciju i ostalu poslovnu evidenciju na način koji u svakom trenutku omogućuje provjeru posluje li kreditna institucija u skladu s propisima i pravilima o upravljanju rizicima,
+2) kreditna institucija obavlja poslove na način koji može pogoršati ili ugroziti njezinu likvidnost ili solventnost ili
+3) ne postoji mogućnost nastavka izravnog nadzora u kreditnoj instituciji.

@@ -1,0 +1,4 @@
+## Obavještavanje Hrvatske narodne banke u vezi s operativnim rizikom
+# Članak 148.
+(1) Kreditna institucija koja primjenjuje jednostavni pristup za izračun kapitalnog zahtjeva za operativni rizik dužna je obavijestiti Hrvatsku narodnu banku o namjeri prelaska na primjenu standardiziranog pristupa za izračun kapitalnog zahtjeva za operativni rizik.
+(2) Kreditna institucija dužna je bez odgađanja obavijestiti Hrvatsku narodnu banku ako prestane ispunjavati uvjete iz članka 146. i 147. ovoga Zakona i podzakonskih akata, koji se odnose na uvjete za kombiniranje pristupa, primjenu standardiziranoga, odnosno naprednog pristupa te postupke izračuna kapitalnog zahtjeva za operativni rizik prema jednostavnom i standardiziranom pristupu, te će predložiti mjere i rok za ispunjavanje propisanih uvjeta.
