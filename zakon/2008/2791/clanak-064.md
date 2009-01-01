@@ -1,0 +1,6 @@
+## OSNIVANJE I PRESTANAK PRAVNIH OSOBA TE STJECANJE I PRODAJA KAPITALNIH ULOGA U TRGOVAČKIM DRUŠTVIMA
+# Članak 64.
+(1) O osnivanju i prestanku pravnih osoba čiji je osnivač ili suosnivač država, odnosno jedinica lokalne i područne (regionalne) samouprave odlučuje Sabor, odnosno predstavničko tijelo na prijedlog Vlade, odnosno poglavarstva, osim ako posebnim zakonima ili Zakonom o lokalnoj i područnoj (regionalnoj) samoupravi nije drugačije utvrđeno.
+(2) Vlada, odnosno predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave može, na prijedlog nadležnog ministra, odnosno poglavarstva odlučiti o kupnji dionica ili udjela u trgovačkom društvu ako su za kupnju osigurana sredstva u proračunu i ako se s time štiti javni interes, odnosno interes jedinica lokalne i područne (regionalne) samouprave.
+(3) Odredbe stavka 2. ovoga članka ne odnose se na jedinice lokalne i područne (regionalne) samouprave koje su korisnici pomoći za područja posebne državne skrbi iz državnog proračuna.
+(4) U slučaju da prestane javni interes Republike Hrvatske, odnosno jedinice lokalne i područne (regionalne) samouprave za vlasništvo dionica ili udjela u kapitalu pravnih osoba, Sabor, odnosno predstavničko tijelo, na prijedlog Vlade, odnosno poglavarstva, odlučuje da se dionice, odnosno udjeli u kapitalu prodaju, ako to nije u suprotnosti s posebnim zakonom.

@@ -1,0 +1,4 @@
+# Članak 70.
+(1) Sredstva od prodaje i zamjene nefinancijske dugotrajne imovine države, odnosno jedinica lokalne i područne (regionalne) samouprave i od nadoknade štete s osnove osiguranja koriste se samo za kapitalne rashode države, odnosno jedinice lokalne i područne (regionalne) samouprave.
+(2) Kapitalni rashodi iz stavka 1. ovoga članka jesu rashodi za nabavu nefinancijske imovine, rashodi za održavanje nefinancijske imovine, kapitalne pomoći koje se daju trgovačkim društvima u kojima država, odnosno jedinica lokalne i područne (regionalne) samouprave ima odlučujući utjecaj na upravljanje za nabavu nefinancijske imovine i dodatna ulaganja u nefinancijsku imovinu te ulaganja u dionice i udjele trgovačkih društava.
+(3) Odredbe ovoga članka u dijelu koji se odnosi na ulaganja u dionice i udjele trgovačkih društava ne odnose se na jedinice lokalne i područne (regionalne) samouprave iz članka 64. stavka 3. ovoga Zakona.

@@ -1,0 +1,7 @@
+## PRERASPODJELA SREDSTAVA
+# Članak 46.
+(1) Proračunska sredstva ne mogu se preraspodijeliti, osim pod uvjetima i na način kako je utvrđeno ovim Zakonom i zakonom o izvršavanju državnog proračuna, odnosno odlukom o izvršavanju proračuna.
+(2) Iznimno, ako se preraspodjela ne izvrši u skladu sa stavkom 1. ovoga članka, preraspodjela sredstava na proračunskim stavkama kod proračunskih korisnika državnog proračuna ili između proračunskih korisnika državnog proračuna, i kod izvanproračunskih korisnika državnog proračuna može se izvršiti najviše do 5% rashoda i izdataka na proračunskoj stavci donesenoj od strane Sabora koja se umanjuje, ako to odobri ministar financija.
+(3) Uz zahtjev za preraspodjelom odobrenih sredstava proračunski korisnik državnog proračuna mora priložiti odgovarajuću dokumentaciju na temelju koje se Ministarstvu financija daju na uvid razlozi potrebe za dodatnim sredstvima na proračunskoj stavci koja se povećava do kraja godine, odnosno razlozi za smanjenje odobrenih proračunskih stavki.
+(4) Proračunska sredstva ne mogu se, osim pod uvjetima propisanima zakonom o izvršavanju državnog proračuna, odnosno odlukom o izvršavanju proračuna, preraspodijeliti između Računa prihoda i rashoda i Računa financiranja.
+(5) Vlada, odnosno poglavarstvo o preraspodjelama izvještava Sabor, odnosno predstavničko tijelo u roku utvrđenom u zakonu o izvršavanju državnog proračuna, odnosno odluci o izvršavanju proračuna.

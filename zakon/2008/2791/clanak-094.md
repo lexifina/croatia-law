@@ -1,0 +1,6 @@
+# Članak 94.
+(1) Izvanproračunski korisnici proračuna jedinica lokalne i područne (regionalne) samouprave mogu se zaduživati i davati jamstva samo za investicije uz suglasnost jedinice lokalne i područne (regionalne) samouprave. Zaduživanje i dano jamstvo uz danu suglasnost uključuje se u opseg mogućeg zaduživanja jedinice lokalne i područne (regionalne) samouprave iz članka 88. ovoga Zakona.
+(2) Jedinica lokalne i područne (regionalne) samouprave obvezna je prije davanja suglasnosti iz stavka 1. ovoga članka ishoditi suglasnost ministra financija.
+(3) Jedinica lokalne i područne (regionalne) samouprave dužna je izvijestiti Ministarstvo financija o sklopljenom ugovoru o zaduživanju i danom jamstvu iz stavka 1. ovoga članka u roku od 8 dana od dana sklapanja.
+(4) Jedinica lokalne i područne (regionalne) samouprave dužna je izvještavati Ministarstvo financija unutar proračunske godine, tromjesečno, do 10. u mjesecu za prethodno izvještajno razdoblje o otplati zajma i o stanju aktivnih jamstava za koja je dana suglasnost.
+(5) Ukupna visina zaduženja i danih jamstava iz stavka 1. ovoga članka utvrđuje se odlukom o izvršavanju proračuna jedinica lokalne i područne (regionalne) samouprave za pojedinu godinu.

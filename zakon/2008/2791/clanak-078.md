@@ -1,0 +1,4 @@
+# Članak 78.
+(1) Ministar financija može pozajmljena sredstva prenijeti državnim tijelima, financijskim institucijama i/ili drugim pravnim subjektima u skladu s ugovornim uvjetima, u slučaju kada se ugovorom o kreditu ili ugovorom o zajmu omogućava namjensko financiranje.
+(2) Državna tijela, financijske institucije i/ili drugi pravni subjekti iz stavka 1. ovoga članka mogu koristiti primljena sredstva za financiranje investicijskih projekata ili aktivnosti trećih strana koje ispunjavaju zahtjeve vjerovnika.
+(3) Državna tijela, financijske institucije i/ili drugi pravni subjekti iz stavka 1. ovoga članka po svakoj poslovnoj promjeni dostavljaju Ministarstvu financija knjigovodstvenu dokumentaciju o stanju i kretanju sredstava u okviru odobrenog kredita ili zajma na način koji odredi ministar financija.

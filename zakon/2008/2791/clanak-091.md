@@ -1,0 +1,8 @@
+# Članak 91.
+(1) Jedinica područne (regionalne) samouprave može dati jamstvo jedinici lokalne samouprave na svojem području uz suglasnost Vlade. Dano jamstvo uključuje se u opseg mogućeg zaduživanja jedinice područne (regionalne) samouprave iz članka 88. ovoga Zakona.
+(2) Jedinica lokalne i područne (regionalne) samouprave može dati jamstvo pravnoj osobi u većinskom izravnom ili neizravnom vlasništvu jedinice lokalne i područne (regionalne) samouprave i ustanovi čiji je osnivač za ispunjenje obveza pravne osobe i ustanove. Dano jamstvo uključuje se u opseg mogućeg zaduživanja jedinice lokalne i područne (regionalne) samouprave iz članka 88. ovoga Zakona.
+(3) Ako statutom ili odlukom jedinice lokalne i područne (regionalne) samouprave nije propisano tko odlučuje o jamstvu iz stavka 2. ovoga članka, odluku donosi predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave, razmjerno njezinu udjelu u vlasništvu.
+(4) Većinski vlasnik, odnosno osnivač obvezan je prije davanja jamstva iz stavka 2. ovoga članka ishoditi suglasnost ministra financija.
+(5) Ugovor o jamstvu iz stavka 1. i 2. ovoga članka u ime jedinice lokalne i područne (regionalne) samouprave sklapa predsjednik poglavarstva.
+(6) Jedinica lokalne i područne (regionalne) samouprave dužna je izvijestiti Ministarstvo financija o sklopljenom ugovoru o jamstvu iz stavka 1. i 2. ovoga članka u roku od 8 dana od dana sklapanja.
+(7) Jedinica lokalne i područne (regionalne) samouprave dužna je izvještavati Ministarstvo financija unutar proračunske godine, tromjesečno, do 10. u mjesecu za prethodno izvještajno razdoblje o stanju aktivnih jamstava za koja je dana suglasnost.

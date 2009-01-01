@@ -1,0 +1,9 @@
+# Članak 90.
+(1) Pravna osoba u većinskom izravnom ili neizravnom vlasništvu jedinice lokalne i područne (regionalne) samouprave i ustanova čiji je osnivač jedinica lokalne i područne (regionalne) samouprave može se dugoročno zaduživati samo za investiciju uz suglasnost većinskog vlasnika, odnosno osnivača.
+(2) U opseg mogućeg zaduživanja jedinice lokalne i područne (regionalne) samouprave iz članka 88. ovoga Zakona uključuju se suglasnosti iz stavka 1. ovoga članka:
+1. za zaduživanje pravnih osoba u većinskom izravnom ili neizravnom vlasništvu jedinice lokalne i područne (regionalne) samouprave koje su u godišnjim financijskim izvješćima za godinu koja prethodi godini u kojoj se zadužuju iskazale gubitak,
+2. za zaduživanje pravnih osoba u većinskom izravnom ili neizravnom vlasništvu jedinice lokalne i područne (regionalne) samouprave koje se zadužuju u razdoblju od dvije godine od dana upisa osnivanja u sudski registar,
+3. za zaduživanje ustanova čiji je osnivač jedinica lokalne i područne (regionalne) samouprave.
+(3) Ako statutom ili odlukom jedinice lokalne i područne (regionalne) samouprave nije propisano tko odlučuje o suglasnosti iz stavka 1. ovoga članka, odluku donosi predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave, razmjerno njezinu udjelu u vlasništvu.
+(4) Jedinica lokalne i područne (regionalne) samouprave dužna je izvijestiti Ministarstvo financija o suglasnostima iz stavka 1. ovoga članka u roku od 8 dana od dane suglasnosti i sklopljenom ugovoru o zaduživanju pravnih osoba i ustanova iz stavka 2. ovoga članka u roku od 8 dana od dana sklapanja.
+(5) Jedinica lokalne i područne (regionalne) samouprave dužna je izvještavati Ministarstvo financija unutar proračunske godine, tromjesečno, do 10. u mjesecu za prethodno izvještajno razdoblje o otplati na temelju ugovora o zaduživanju pravnih osoba i ustanova iz stavka 2. ovoga članka.
