@@ -1,0 +1,7 @@
+# Članak 8.
+(1) U matičnu knjigu upisuje se uzgojno valjano govedo čiste pasmine uzgojeno u skladu s potvrđenim uzgojnim programom koje ispunjava sljedeće uvjete:
+- da su roditelji i roditelji roditelja upisani u matičnu knjigu iste pasmine,
+- da je od rođenja označeno sukladno Pravilniku o provođenju obveznog označavanja i registracije goveda (»Narodne novine« br. 99/07)[2] i uzgojnom programu,
+- da ima rodoslovlje koje je u suglasju s pravilima te matične knjige.
+(2) Iznimno od stavka 1. ovoga članka, čistokrvna goveda ili potomci čistokrvnih roditelja različitih pasmina mogu biti upisani u novu matičnu knjigu tijekom razdoblja uspostave matične knjige za novu pasminu. Razdoblje uspostave nove pasmine određuje se uzgojnim programom pod kontrolom i uz suglasnost Ministarstva poljoprivrede, ribarstva i ruralnog razvoja, odnosno u skladu s odredbama Pravilnika o uvjetima koje moraju ispunjavati uzgojne organizacije za bavljenje uzgojem uzgojno valjanih životinja, te sadržaju očevidnika uzgojnih organizacija (»Narodne novine« br. 164/04)[3]. Novoj pasmini dodijelit će se ime koje se nedvosmisleno razlikuje od imena postojećih pasmina.
+(3) Ako se govedo upisuje u novu matičnu knjigu, a ono ili jedan od njegovih roditelja je upisano u neku već postojeću matičnu knjigu, potrebno je dokumentirati vezu s postojećom matičnom knjigom u kojoj je govedo ili roditelj upisano prvi put nakon rođenja, zajedno s evidencijskim brojem iz matične knjige.

@@ -1,0 +1,3 @@
+[1]Pravilnikom se preuzimaju odredbe Odluke Komisije 84/419/EEC od 19. srpnja 1984. o uvjetima upisa goveda u matične knjige, dopunjenu Odlukom Komisije 2007/371/EC od 29. svibnja 2007.
+[2]Pravilnikom su preuzete odredbe Uredbe (EZ-a) br. 1760/2000 Europskoga parlamenta i Vijeća od 17. srpnja 2000. kojom se uspostavlja sustav označavanja i registracije goveda i označavanja goveđeg mesa i proizvoda, te kojom se ukida Uredba Vijeća (EZ-a) br. 820/97 i njezinim provedbenim propisima.
+[3]3 Pravilnikom su preuzete odredbe Odluke Komisije 84/247/EEZ od 27. travnja 1984. kojom se utvrđuju kriteriji za priznavanje uzgojnih organizacija i udruga koje vode ili izrađuju matične knjige čistokrvnih uzgojno valjanih životinja goveđih vrsta.
