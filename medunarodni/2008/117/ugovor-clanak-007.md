@@ -1,0 +1,6 @@
+# Članak 7.
+Stranke pružaju uzajamnu pomoć u slučaju katastrofa ili velikih nesreća u skladu sa sljedećim odredbama:
+1. Svaka stranka na službeni zahtjev druge stranke pruža svu moguću pomoć u slučaju nužde. Zahtjev za pomoć mora se uputiti uobičajenim diplomatskim putem, mora se točno utvrditi narav katastrofe i dostaviti prvu procjenu njezina opsega, kao i potrebe za pružanjem pomoći.
+2. Zahtjev za pomoć može se odnositi na tehničko vještačenje ili na pojačanje u ljudstvu i materijalno-tehničkim sredstvima.
+3. Primitak zahtjeva za pomoć ne povlači automatski pozitivan odgovor zamoljene stranke. Svaka stranka zadržava svoju potpunu slobodu u odluci da pruži ili uskrati pomoć koja se od nje traži, posebno s obzirom na predvidive rizike na svom području, na svoje vlastite akcije koje su u tijeku i s obzirom na raspoloživost spasilačkih ekipa.
+4. Zamoljena stranka obavještava stranku moliteljicu u najkraćim rokovima o odgovoru koji namjerava dati na njezin zahtjev, o naravi pomoći koju daje, uz navođenje ekipa za pomoć, specijalnosti njezinih stručnjaka te upućenoj opremi, sredstvima za spašavanje i potrošnim dobrima. Ona treba isto tako navesti vrstu prijevoza koji koristi za dolazak na mjesto nesreće kao i predviđenu točku prelaska granice.
