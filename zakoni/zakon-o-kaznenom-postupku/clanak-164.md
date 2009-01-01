@@ -1,0 +1,6 @@
+# Članak 164.
+(1) Odluke vijeća donose se nakon usmenog vijećanja i glasovanja. Odluka je donesena kad je za nju glasovala većina članova vijeća.
+(2) Predsjednik vijeća upravlja vijećanjem i glasovanjem te glasuje posljednji. On je dužan brinuti se da se sva pitanja svestrano i potpuno razmotre.
+(3) Ako se glasovi razdijele na više od dva mnijenja tako da niti jedno nema za sebe većinu glasova, pitanja će se razdvojiti i glasovanje će se ponavljati dok se ne postigne većina. Ako se na taj način ne postigne većina, odluka će se donijeti tako da će se glasovi koji su za okrivljenika najpovoljniji pribrojiti glasovima koji su od njih manje povoljni, sve dok se ne postigne potrebna većina.
+(4) Članovi vijeća ne mogu odbiti glasovati o pitanjima koja postavi predsjednik vijeća, ali član vijeća koji je glasovao da se okrivljenik oslobodi ili da se presuda ukine i ostao u manjini nije dužan glasovati o sankciji. Ako ne glasuje, uzet će se kao da je pristao na glas koji je za okrivljenika najpovoljniji.
+(5) Na zahtjev člana vijeća koji je izdvojio glas, njegovo pisano obrazloženje izdvojenog glasa priložit će se pisanoj odluci.

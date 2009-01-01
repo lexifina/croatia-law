@@ -1,0 +1,2 @@
+# Članak 502.
+Odredbe o obnovi kaznenog postupka će se primijeniti i u slučaju kada je podnesen zahtjev za izmjenu pravomoćne sudske odluke na temelju odluke Ustavnog suda Republike Hrvatske (dalje: Ustavni sud) kojom je poništen ili ukinut propis na temelju kojeg je bila donesena pravomoćna osuda ili na temelju odluke Europskog suda za ljudska prava koja se odnosi na neki razlog za obnovu kaznenog postupka.

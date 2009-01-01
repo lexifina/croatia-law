@@ -1,0 +1,3 @@
+# Članak 138.
+(1) Zatvorenici imaju pravo na osmosatni neprekidni odmor u vremenu od dvadeset četiri sata. Osim toga, njima će se osigurati kretanje na slobodnom zraku najmanje dva sata dnevno.
+(2) Zatvorenik smije kod sebe imati predmete osobne uporabe, higijenske potrepštine, o svom trošku nabavljati knjige, novine i druge tiskovine, sredstva za praćenje javnih medija te imati druge predmete u količini i veličini koja ne ometa boravak u prostoriji i ne remeti kućni red. Prilikom primitka u zatvor od zatvorenika će se nakon osobne pretrage oduzeti predmeti u svezi s kaznenim djelom, a ostali predmeti koje okrivljenik ne smije imati u zatvoru prema njegovoj će se uputi pohraniti i čuvati ili predati osobi koju odredi zatvorenik.

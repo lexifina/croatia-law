@@ -1,0 +1,7 @@
+# Članak 420.
+(1) Svjedoka i vještaka najprije ispituje stranka koja ga je predložila (glavno ispitivanje), zatim protivna stranka (unakrsno ispitivanje) nakon čega svjedoka i vještaka može ponovno ispitati stranka koja ga je pozvala (dodatno ispitivanje).
+(2) Svjedoka i vještaka o okolnostima o kojima je pozvan radi svjedočenja odnosno vještačenja ispituje stranka koja ga je pozvala. Pitanja protivne stranke svjedoku i vještaku ograničavaju se i odnose samo na okolnosti o kojima je svjedok iskazao tijekom izravnog ispitivanja. Pitanja na dodatnom ispitivanju mogu se odnositi samo na pitanja postavljena tijekom unakrsnog ispitivanja.
+(3) Pitanja koja navode na odgovor koji se želi čuti (sugestivna pitanja) ne mogu se postavljati pri izravnom ispitivanju, osim u slučaju potrebe razjašnjenja iskaza svjedoka ili vještaka. Sugestivna pitanja dopuštena su prilikom unakrsnog ispitivanja. Kad stranka pozove svjedoka ili vještaka suprotne stranke ili kada svjedok ili vještak izbjegava odgovor, sud može dopustiti postavljanje sugestivnih pitanja.
+(4) Sud može tijekom izravnog, unakrsnog i dodatnog ispitivanja svjedoku i vještaku postaviti pitanja radi razjašnjenja nejasnoća.
+(5) Oštećenik, zakonski zastupnik i opunomoćenik imaju pravo postavljati pitanja svjedoku i vještaku nakon tužitelja.
+(6) Predsjednik vijeća skrbi da ispitivanje i izvođenje dokaza ostane u okvirima predmeta raspravljanja, bude učinkovito i ekonomično te da se vještaci i svjedoci zaštite od napada na njihovu osobnu nepovredivost.

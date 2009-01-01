@@ -1,0 +1,3 @@
+# Članak 551.
+(1) Osim u slučajevima kada se prema ovom Zakonu može odrediti istražni zatvor protiv okrivljenika, takav zatvor odredit će se i ako postoji vjerojatnost da bi okrivljenik protiv kojeg je državni odvjetnik podnio optužnicu iz članka 550. stavka 1. ovog Zakona mogao zbog težih duševnih smetnji počiniti teže kazneno djelo. Prije određivanja istražnog zatvora pribavit će se mišljenje vještaka psihijatra o ovoj opasnosti okrivljenika. O određivanju istražnog zatvora po ovom osnovu izvijestit će se uprava zatvora radi upućivanja okrivljenika u zdravstvenu ustanovu u smislu odredbe članka 135. stavka 2. ovog Zakona.
+(2) Istražni zatvor iz stavka 1. ovog članka može trajati dok opasnost traje, ali ne dulje od rokova predviđenih u članku 133. ovog Zakona.

@@ -1,0 +1,3 @@
+# Članak 486.
+(1) Drugostupanjski sud će, prihvaćajući žalbu ili po službenoj dužnosti, presudom preinačiti prvostupanjsku presudu ako utvrdi da su odlučne činjenice u prvostupanjskoj presudi pravilno utvrđene i da se s obzirom na utvrđeno činjenično stanje po pravilnoj primjeni zakona ima donijeti drukčija presuda, a prema stanju stvari i u slučaju povreda iz članka 468. stavka 1. točka 5., 9. i 10. ovog Zakona.
+(2) Ako su se zbog preinačenja prvostupanjske presude stekli uvjeti da se odredi, odnosno ukine istražni zatvor, drugostupanjski sud će o tome donijeti posebno rješenje, protiv kojeg nije dopuštena žalba, osim ako drukčije nije propisano ovim Zakonom.

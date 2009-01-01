@@ -1,0 +1,7 @@
+# Članak 76.
+(1) Ako se okrivljenik nalazi u pritvoru ili istražnom zatvoru branitelj se može s njime dopisivati i razgovarati bez nadzora.
+(2) Na prijedlog državnog odvjetnika sudac istrage može odlučiti da se pisma, poruke i razgovori okrivljenika i branitelja nadziru:
+1) u postupku za sljedeća kaznena djela iz Kaznenog zakona: ubojstva (članak 90.), teškog ubojstva (članak 91.), otmice (članak 125.), ubojstva najviših državnih dužnosnika (članak 138.), otmice najviših državnih dužnosnika (članak 139.), protudržavnog terorizma (članak 141.), kaznenih djela protiv vrijednosti zaštićenih međunarodnim pravom (Glava XIII.), krivotvorenja novca (članak 274.) i prikrivanja protuzakonito dobivenog novca (članak 279.),
+2) u postupku za kaznena djela za koja postoje osnove sumnje da ih je počinila grupa ljudi ili zločinačka organizacija ako postoji vjerojatnost da bi razgovor okrivljenika s braniteljem doveo do prikrivanja kaznenih djela, pomoći počiniteljima nakon kaznenog djela ili ako u pogledu okrivljenika postoje okolnosti koje upućuju na opasnost da će ponoviti kazneno djelo, dovršiti pokušano kazneno djelo ili počiniti teže kazneno djelo kojim prijeti.
+(3) Odluku o nadzoru sudac istrage donosi rješenjem. Rješenje o nadzoru dostavlja se, prije stavljanja pod nadzor, branitelju i okrivljeniku. Žalba protiv rješenja ne odgađa njegovo izvršenje.
+(4) Nadzor iz stavka 2. ovog članka, može trajati najdulje dva mjeseca od određivanja istražnog zatvora.

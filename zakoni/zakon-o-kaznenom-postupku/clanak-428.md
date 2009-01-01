@@ -1,0 +1,2 @@
+# Članak 428.
+Ako se na raspravi sazna da svjedok ili vještak ne može doći pred sud ili mu je dolazak znatno otežan, vijeće može na prijedlog stranke koja je pozvala svjedoka ili vještaka, ako smatra da je njegov iskaz važan, naložiti da ga izvan rasprave ispita predsjednik vijeća ili sudac član vijeća, ili da se ispitivanje obavi preko suca istrage na čijem se području svjedok, odnosno vještak nalazi.

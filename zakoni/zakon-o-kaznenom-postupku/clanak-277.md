@@ -1,0 +1,3 @@
+# Članak 277.
+(1) Okrivljeniku treba postavljati pitanja jasno, razgovijetno i određeno, tako da ih može potpuno razumjeti. U ispitivanju se ne smije polaziti od pretpostavke da je okrivljenik priznao nešto što nije priznao, niti se smiju postavljati pitanja u kojima je već sadržano kako na njih treba odgovoriti.
+(2) Ako se kasniji iskazi okrivljenika razlikuju od ranijih, a osobito ako okrivljenik opozove svoje priznanje, pozvat će se da iznese razloge zašto je dao različite iskaze, odnosno zašto je opozvao priznanje.

@@ -1,0 +1,7 @@
+# Članak 521.
+(1) Osim kad mu je to dopušteno prema posebnom zakonu, državni odvjetnik može rješenjem odbaciti kaznenu prijavu ili odustati od kaznenog progona iako postoji osnovana sumnja da je počinjeno kazneno djelo za koje se progoni po službenoj dužnosti i za koje je predviđena novčana kazna ili kazna zatvora do pet godina ako je:
+1) s obzirom na okolnosti vjerojatno da će se u kaznenom postupku protiv okrivljenika primijeniti članak 58. Kaznenog zakona,
+2) protiv okrivljenika u tijeku izvršenje kazne ili sigurnosne mjere, a pokretanje kaznenog postupka za drugo kazneno djelo nema svrhe s obzirom na težinu, narav djela i pobude iz kojih je ono počinjeno, te na rezultate koje je kaznenopravna sankcija ostvarila na počinitelja da ubuduće ne čini kaznena djela,
+3) okrivljenik izručen ili predan stranoj državi ili međunarodnom kaznenom sudu radi provođenja postupka za drugo kazneno djelo,
+4) okrivljenik prijavljen za više kaznenih djela kojima je ostvario bića dvaju ili više kaznenih djela, ali je svrhovito da se počinitelj osudi samo za jedno, jer pokretanje kaznenog postupka za druga kaznena djela ne bi imalo bitnog utjecaja na izricanje kazne ili drugih sankcija počinitelju.
+(2) Rješenje iz stavka 1. ovog članka državni odvjetnik će osim okrivljeniku, dostaviti oštećeniku i podnositelju kaznene prijave, uz pouku oštećeniku da svoj imovinskopravni zahtjev može ostvarivati u parnici. Protiv rješenja državnog odvjetnika žalba nije dopuštena.

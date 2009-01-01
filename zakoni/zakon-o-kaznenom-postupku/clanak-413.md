@@ -1,0 +1,3 @@
+# Članak 413.
+(1) Kad je predsjednik vijeća utvrdio da su na raspravu došle sve pozvane osobe, ili kad je vijeće odlučilo da se rasprava održi u odsutnosti neke od pozvanih osoba, pozvat će predsjednik vijeća optuženika i od njega uzeti osobne podatke (članak 272. stavak 1.) osim podataka o prijašnjoj osuđivanosti da bi se uvjerio u njegovu istovjetnost.
+(2) Predsjednik vijeća će utvrditi je li optuženik primio i razumio pisanu pouku o pravima (članak 239. stavak 1.). Ako optuženik nije primio pouku o pravima, predsjednik vijeća će postupiti prema članku 350. stavku 1. ovog Zakona, a ako je pouku primio ali ju nije razumio, poučit će ga na prikladan način o njegovim pravima.

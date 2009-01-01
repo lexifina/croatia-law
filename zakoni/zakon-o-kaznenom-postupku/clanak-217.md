@@ -1,0 +1,5 @@
+# Članak 217.
+(1) Državni odvjetnik izdaje nalog o provođenju istrage ako postoje osnove sumnje da je počinjeno kazneno djelo za koje se ima provesti istraga. Nalog o provođenju istrage državni odvjetnik donosi u roku od devedeset dana od upisa kaznene prijave u upisnik kaznenih prijava (članak 205. stavak 4.). Izdavanje naloga o provođenju istrage zabilježit će se u upisniku kaznenih prijava.
+(2) Nalog o provođenju istrage mora sadržavati opis djela iz kojeg proizlaze zakonska obilježja kaznenog djela, zakonski naziv kaznenog djela, okolnosti iz kojih proizlaze osnove sumnje, ime i prezime i osobne podatke osobe okrivljenika, ako su poznati, te kratko obrazloženje.
+(3) U nalogu o provođenju istrage državni odvjetnik određuje da se istraže određene okolnosti, da se poduzmu pojedine radnje i da se o određenim pitanjima ispitaju određene osobe.
+(4) Državni odvjetnik može podnijeti sucu istrage obrazloženi prijedlog da se protiv okrivljenika odredi istražni zatvor ili da se poduzmu druge mjere osiguranja prisutnosti ili mjere opreza, te druge mjere neophodne za djelotvorno vođenje kaznenog postupka i zaštitu osoba.

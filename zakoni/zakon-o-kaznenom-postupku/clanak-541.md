@@ -1,0 +1,5 @@
+# Članak 541.
+(1) Ako se sa zahtjevom složi, sudac pojedinac će presudom izdati kazneni nalog.
+(2) U presudi o kaznenom nalogu navest će se samo da se prihvaća zahtjev državnog odvjetnika te optuženiku, čiji osobni podaci moraju biti jasno određeni, izriče kazna ili mjera iz zahtjeva. Izreka presude o kaznenom nalogu obuhvaća podatke iz članka 459. stavak 1. do 3. ovog Zakona, uključujući i odluku o imovinskopravnom zahtjevu, ako je bio postavljen. U obrazloženju će se samo navesti dokazi koji opravdavaju izdavanje kaznenog naloga.
+(3) Ako je državni odvjetnik predložio oduzimanje imovinske koristi pribavljene kaznenim djelom, a oštećenik je podnio imovinskopravni zahtjev, sud će dosuditi imovinskopravni zahtjev. Ako ne dosudi imovinskopravni zahtjev, oduzet će imovinsku korist pribavljenu kaznenim djelom, a oštećenika će uputiti da imovinskopravni zahtjev može ostvarivati u parnici.
+(4) Kazneni nalog sadržava pouku okrivljeniku u smislu članka 542. stavka 2. ovog Zakona te da će po proteku roka za prigovor, ako prigovor ne bude podnesen, kazneni nalog postati pravomoćan i da će se izrečena kazna protiv okrivljenika izvršiti.

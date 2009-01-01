@@ -1,0 +1,5 @@
+# Članak 198.
+(1) Kad je kazneni postupak pokrenut protiv stranca, sud i druga državna tijela postupaju prema odredbama odgovarajuće konzularne konvencije koja je na snazi u Republici Hrvatskoj.
+(2) Obavijest o određivanju pritvora, kućnog zatvora i istražnog zatvora protiv državnog službenika ili namještenika dostavit će se rukovoditelju tijela ili ustanove prema posebnom propisu.
+(3) O pokretanju istrage protiv vojnih osoba i državnih službenika i namještenika na službi u oružanim snagama Republike Hrvatske te o određivanju pritvora, kućnog zatvora i istražnog zatvora državni odvjetnik će obavijestiti ministarstvo nadležno za obranu. Na isti način će sud postupiti kad je potvrđena optužnica ili donesena nepravomoćna presuda.
+(4) Policija će obavijestiti ministarstvo nadležno za kulturu o izvidima koje poduzima kada se kazneno djelo odnosi na zaštićena kulturna dobra, arhivsku gradivo ili umjetnička djela od važnosti za hrvatsku ili svjetsku kulturnu baštinu. Tako će postupiti i državni odvjetnik kad donese nalog o provođenju istrage, ili podigne optužnicu te sud kada nastupi pravomoćnost presude koja se odnosi na takva kaznena djela.

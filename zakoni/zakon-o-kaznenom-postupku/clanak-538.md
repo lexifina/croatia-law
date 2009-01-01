@@ -1,0 +1,5 @@
+# Članak 538.
+(1) Protiv presude žalba se može podnijeti u roku od osam dana od dana dostave prijepisa presude. Ako je presudom izrečena kazna zatvora, prijepis presude uvijek mora sadržavati podatke iz članka 459. ovog Zakona.
+(2) Stranke i oštećenik koji ima pravo žalbe protiv presude (članak 464. stavak 4.) mogu se odreći prava na žalbu odmah nakon objave presude. U takvom slučaju dostavit će im se u roku od tri radna dana prijepis presude bez obrazloženja.
+(3) Ako je tijek rasprave snimljen u smislu članka 533. ovog Zakona, stranke i oštećenik, mogu u roku od tri dana od dana dostave prijepisa presude iz članka 537. ovog Zakona najaviti žalbu. U takvom slučaju, rok za žalbu iz stavka 1. ovog članka žaliteljima započinje teći od dostave prijepisa zvučne snimke.
+(4) Ako protivno odredbi članka 533. stavka 4. ovog Zakona nije prepisana zvučna snimka rasprave, ili ako prijepis presude nije napisan i otpremljen u rokovima iz članka 537. stavka 2. i članka 538. stavka 2., ovog Zakona sudac će izvijestiti o razlozima predsjednika suda.

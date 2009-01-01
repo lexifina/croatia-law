@@ -1,0 +1,4 @@
+# Članak 249.
+(1) Ako se pri pretrazi nađu predmeti koji nisu povezani s kaznenim djelom zbog kojeg je donesen nalog o pretrazi, ali koji upućuju na drugo kazneno djelo za koje se progoni po službenoj dužnosti, ti će se predmeti opisati u zapisniku i privremeno oduzeti, a o njihovu oduzimanju izdat će se odmah potvrda. O tome će se odmah izvijestiti državni odvjetnik.
+(2) Predmeti će se odmah vratiti ako državni odvjetnik ustanovi da nema osnove za pokretanje kaznenog postupka, a ne postoji kakva druga zakonska osnova po kojoj bi se ti predmeti imali oduzeti, o čemu se sastavlja zapisnik. Predmeti upotrijebljeni kod pretrage računala i sličnih uređaja vratit će se nakon pretrage njihovim korisnicima, ako nisu potrebni za daljnje vođenje kaznenog postupka.
+(3) Osobni podaci pribavljeni pretragom mogu se koristiti samo u svrhe kaznenog postupka i izbrisat će se bez odgode kad ta svrha prestane.

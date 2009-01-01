@@ -1,0 +1,5 @@
+# Članak 417.
+(1) Nakon očitovanja optuženika o optužnici i imovinskopravnom zahtjevu predsjednik vijeća poziva stranke da održe uvodne govore. Prvo govori tužitelj, a nakon njega branitelj, odnosno optuženik. Oštećenik može nakon govora tužitelja iznijeti i obrazložiti imovinskopravni zahtjev. Branitelj može izjaviti da će svoj govor održati nakon izvođenja dokaza koje je predložio tužitelj.
+(2) U svojim govorima stranke mogu iznijeti koje odlučne činjenice namjeravaju dokazivati, izložiti dokaze koje će izvesti, odrediti pravna pitanja o kojima će raspravljati odnosno koje sporne činjenice zahtijevaju razjašnjenje potrebno da bi se utvrdilo činjenično stanje važno za odluku. U uvodnom govoru tužitelj ne smije iznositi činjenice ranije osuđivanosti optuženika. Stranka se u uvodnom govoru ne može izjašnjavati o navodima i ponuđenim dokazima protivne stranke.
+(3) Predsjednik vijeća može uvodne govore stranaka ograničiti na određeno vrijeme, a u odnosu na te govore ima prava i dužnosti iz članka 447. ovog Zakona.
+7. Dokazni postupak

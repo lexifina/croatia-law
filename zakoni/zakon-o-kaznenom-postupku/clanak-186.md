@@ -1,0 +1,5 @@
+# Članak 186.
+(1) Policija, državno odvjetništvo i sud prikupljaju, pohranjuju i obrađuju osobne podatke građana koji su važni za svrhe kaznenog postupka, vodeći računa o tome da je to primjereno naravi potrebe za takvim podacima u konkretnom slučaju. Za svaku zbirku osobnih podataka ta tijela uspostavljaju i vode evidenciju prema posebnim propisima.
+(2) Osobni podaci prikupljeni za potrebe kaznenog postupka mogu se dostavljati tijelima državne uprave sukladno posebnom zakonu, a drugim pravnim osobama samo ako državno odvjetništvo ili sud utvrdi da su im ti podaci potrebni u skladu sa zakonom propisanom svrhom. Prilikom dostave, te će se pravne osobe upozoriti da su dužne primijeniti mjere zaštite podataka osoba na koju se podaci odnose.
+(3) Osobni podaci iz stavka 1. ovog članka, mogu se, u skladu s propisima, upotrijebiti u drugim kaznenim postupcima, u drugim postupcima za kažnjive radnje u Republici Hrvatskoj, u postupcima međunarodne kaznenopravne pomoći i međunarodne policijske suradnje.
+(4) Ministar nadležan za pravosuđe donosi propise o automatiziranim zbirkama osobnih podataka za potrebe državnog odvjetništva i sudova.

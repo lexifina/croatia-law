@@ -1,0 +1,5 @@
+# Članak 497.
+(1) Kazneni postupak koji je dovršen pravomoćnim rješenjem ili pravomoćnom presudom može se na zahtjev ovlaštene osobe obnoviti samo u slučajevima i uz uvjete propisane u ovom Zakonu.
+(2) Kazneni postupak u kojem je osoba osuđena u odsutnosti (članak 402. stavak 3. i 4.), a nastupila je mogućnost da joj se ponovno sudi u njezinoj prisutnosti, obnovit će se i izvan uvjeta predviđenih u članku 498. i 501. ovog Zakona, ako osuđenik ili njegov branitelj podnesu zahtjev za obnovu postupka u roku od jedne godine od dana kad je osuđenik saznao za presudu kojom je osuđen u odsutnosti.
+(3) U rješenju kojim se dopušta obnova kaznenog postupka prema odredbi stavka 1. ovog članka, sud će odrediti da se osuđeniku dostavi optužnica ako mu prije nije dostavljena, a može odrediti da se stvar vrati u stanje istrage, odnosno da se provede istraga ako je nije bilo.
+(4) Nakon proteka roka iz stavka 2. ovog članka obnova kaznenog postupka dopuštena je samo uz uvjete predviđene u članku 498. i 501. ovog Zakona.

@@ -1,0 +1,4 @@
+# Članak 303.
+(1) Ako postoji opravdana bojazan za sigurnost života ili tijela osobe koja obavlja prepoznavanje ili njoj bliskih osoba, ili ako postoji opravdana bojazan da će osoba čije se prepoznavanje obavlja utjecati na tijek prepoznavanja, tijelo koje provodi prepoznavanje provest će ga tako da osoba čije se prepoznavanje obavlja, ne može vidjeti ni čuti osobu koja obavlja prepoznavanje.
+(2) Građani su dužni na poziv, osobno sudjelovati u prepoznavanju i dati na raspolaganje stvari ili prostor u cilju prepoznavanja, osim ako nemaju opravdani razlog za oslobođenje od te dužnosti. Ako građanin bez opravdanog razloga neće sudjelovati u prepoznavanju, ili ne da stvar ili ne stavi na raspolaganje prostor, kaznit će se novčanom kaznom do 50.000,00 kuna. Stavljanje na raspolaganje prostora ne odnosi se na dom.
+6. Očevid

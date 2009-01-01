@@ -1,0 +1,7 @@
+# Članak 8.
+(1) U kaznenom postupku u uporabi je hrvatski jezik i latinično pismo, ako za uporabu u pojedinim područjima nije zakonom uveden i drugi jezik ili pismo.
+(2) Stranke, svjedoci i ostali sudionici u postupku imaju pravo služiti se svojim jezikom. Ako se radnja u postupku ne vodi na jeziku osobe, osigurat će se usmeno prevođenje onoga što ona odnosno drugi iznosi te isprava i drugoga pisanoga dokaznog materijala. Prevođenje obavlja tumač.
+(3) O pravu na prevođenje poučit će se prije prvog ispitivanja osoba iz stavka 2. ovog članka, koja se može odreći toga prava ako zna jezik na kojem se vodi postupak. U zapisniku će se zabilježiti da je dana pouka i izjava sudionika.
+(4) Odluke i dopise (pozive i druga pismena) upućuje tijelo koje vodi postupak na hrvatskom jeziku i latiničnom pismu. Na hrvatskom jeziku i latiničnom pismu dostavljaju se sudu tužbe, žalbe i drugi podnesci. Ako je na pojedinom sudskom području u službenu uporabu zakonom uveden i drugi jezik ili pismo, podnesci se mogu sudu dostavljati i na tome jeziku ili pismu. Nakon početka rasprave podnositelj podneska ne može bez dopuštenja suda opozvati svoju odluku o jeziku kojim će se u postupku služiti.
+(5) Uhićeniku, okrivljeniku koji je u pritvoru ili istražnom zatvoru kao i osobi na izdržavanju kazne dostavit će se prijevod odluka, dopisa i poziva na jeziku kojim se služi u postupku.
+(6) Stranac lišen slobode može na raspravi dostavljati sudu podneske na svom jeziku, a prije i nakon toga samo pod uvjetom uzajamnosti.

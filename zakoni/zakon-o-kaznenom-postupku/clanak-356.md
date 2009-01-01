@@ -1,0 +1,7 @@
+# Članak 356.
+(1) Ako vijeće ustanovi da u odnosu na cijelu optužnicu postoje nedostaci u prethodnom postupku ili da činjenični opis djela ne proizlazi iz ranije pribavljenih dokaza, ili da je potrebno bolje razjašnjenje stvari, rješenjem vraća optužnicu tužitelju s navođenjem razloga iz kojih nije potvrđena.
+(2) Ako vijeće ustanovi da samo u odnosu na pojedine dijelove optužnice postoje nedostaci u prethodnom postupku ili da činjenični opis djela ne proizlazi iz ranije pribavljenih dokaza, ili da je potrebno bolje razjašnjenje stvari, rješenjem će razdvojiti postupak i potvrditi optužnicu u dijelu za koji to nalazi osnovanim.
+(3) Ako vijeće nije potvrdilo optužnicu u cijelosti ili dijelu, državni odvjetnik je dužan u roku osam dana od dostave rješenja donijeti nalog za dopunu istrage ili poduzimanje dokazne radnje odnosno odustati od kaznenog progona. Na zahtjev državnog odvjetnika optužno vijeće može produljiti taj rok za daljnjih osam dana, ako je okrivljenik u istražnom zatvoru, a petnaest dana ako je na slobodi.
+(4) Državni odvjetnik dužan je o razlozima propuštanja roka iz stavka 3. ovog članka izvijestiti višega državnog odvjetnika. Ako u daljnjem roku od osam dana nije postupljeno prema stavku 3. ovog članka, smatrat će se da je državni odvjetnik odustao od kaznenog progona.
+(5) Državni odvjetnik će nakon dopune istrage novu optužnicu dostaviti na ponovno ispitivanje (članak 343. do 355.).
+(6) Vijeće će ispitujući optužnicu odlučiti i o prijedlozima za spajanje ili razdvajanje postupka.

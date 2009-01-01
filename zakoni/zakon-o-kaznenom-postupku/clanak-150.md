@@ -1,0 +1,3 @@
+# Članak 150.
+(1) Nagradu i nužne izdatke branitelja i opunomoćenika privatnog tužitelja ili oštećenika dužna je platiti zastupana osoba, bez obzira na to tko je prema odluci suda dužan podmiriti troškove kaznenog postupka, osim ako prema odredbama ovog Zakona nagrada i nužni izdaci branitelja padaju na teret proračunskih sredstava. Ako je okrivljeniku branitelj bio postavljen, nagrada i nužni izdaci branitelja isplatit će se branitelju iz proračunskih sredstava. Tako će se postupiti i ako je oštećeniku kao tužitelju bio postavljen opunomoćenik.
+(2) Opunomoćenik koji nije odvjetnik nema pravo na nagradu, već samo na nužne izdatke.

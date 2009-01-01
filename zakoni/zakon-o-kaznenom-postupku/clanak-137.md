@@ -1,0 +1,2 @@
+# Članak 137.
+Zatvorenici se smještaju u prostorije odgovarajuće veličine koje udovoljavaju potrebnim zdravstvenim uvjetima. U istu prostoriju ne smiju biti smještene osobe različita spola. U pravilu, zatvorenici se neće smjestiti u istu prostoriju s osobama koje izdržavaju kaznu zatvora. Zatvorenik se neće smjestiti zajedno s osobama koje bi na njega mogle štetno djelovati ili s osobama s kojima bi druženje moglo štetno utjecati na vođenje postupka.

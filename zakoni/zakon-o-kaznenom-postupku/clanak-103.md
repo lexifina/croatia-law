@@ -1,0 +1,3 @@
+# Članak 103.
+(1) Sud će rješenjem odrediti jamčevinu koja se sastoji u polaganju gotovog novca, vrijednosnih papira, dragocjenosti ili drugih pokretnina veće vrijednosti koje se lako mogu unovčiti i čuvati ili u stavljanju hipoteke za iznos jamstva na nekretnine osobe koja daje jamstvo.
+(2) Protiv odluke o visini jamstva stranke imaju pravo žalbe u roku od tri dana. Nakon što rješenje o određivanju visine jamstva postane pravomoćno te okrivljenik dade obećanje iz članka 102. stavka 1. ovog Zakona, a jamčevina bude položena, sud će donijeti rješenje o ukidanju istražnog zatvora u kojem će navesti osnovu zbog koje je protiv okrivljenika bio određen istražni zatvor i uvjete kojih se okrivljenik mora pridržavati.

@@ -1,0 +1,5 @@
+# Članak 141.
+(1) Nadzor nad izvršenjem istražnog zatvora obavlja predsjednik nadležnog suda.
+(2) Predsjednik suda ili sudac kojega on odredi dužan je najmanje jedanput tjedno obići zatvorenike i ako je potrebno, i bez prisutnosti pravosudnog policajca, ispitati kako se zatvorenici hrane, kako zadovoljavaju ostale potrebe i kako se s njima postupa. Predsjednik suda, odnosno sudac kojeg on odredi, dužan je poduzeti potrebne mjere da se otklone nepravilnosti uočene pri obilasku zatvora.
+(3) Predsjednik suda i sudac istrage ili predsjednik vijeća, odnosno sudac pojedinac pred kojim se vodi postupak, neovisno o nadzoru iz stavka 2. ovog članka, mogu u svako doba obilaziti zatvorenike, s njima razgovarati i od njih primati pritužbe.
+(4) Ako tijekom pregleda ili povodom pritužbe zatvorenika, sudac iz stavka 2. ovog članka, utvrdi da je istekao rok trajanja istražnog zatvora određen u rješenju o istražnom zatvoru ili da ne postoji zakonita odluka o oduzimanju slobode, odmah će odrediti zatvorenikovo puštanje na slobodu.

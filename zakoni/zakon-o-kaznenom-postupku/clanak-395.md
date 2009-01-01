@@ -1,0 +1,5 @@
+# Članak 395.
+(1) Dužnost je predsjednika vijeća brinuti se o održavanju reda u sudnici i dostojanstvu suda. On može odmah nakon otvaranja zasjedanja upozoriti osobe koje prisustvuju raspravi da se pristojno ponašaju i ne ometaju rad suda. Predsjednik vijeća može odrediti pretragu osoba koje prisustvuju raspravi.
+(2) Vijeće može naložiti da se iz zasjedanja uklone sve osobe koje kao slušatelji prisustvuju raspravi ako se mjerama za održavanje reda propisanim u ovom Zakonu ne bi moglo osigurati neometano održavanje rasprave.
+(3) U sudnici se, osim za potrebe suda, ne smiju obavljati fotografska, filmska, televizijska i druga snimanja tehničkim uređajima. Iznimno, predsjednik višeg suda može odobriti filmsko ili televizijsko, a predsjednik suda fotografsko snimanje.
+(4) Stranke i branitelj smiju tonski snimati tijek rasprave s koje nije isključena javnost pod uvjetom da ne ometaju tijek rasprave i da prethodno o tome izvijeste predsjednika vijeća. Osobni podaci o okrivljeniku, oštećeniku ili svjedoku koji su tako snimljeni predstavljaju tajnu i smiju se koristiti samo za potrebe kaznenog postupka.

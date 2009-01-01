@@ -1,0 +1,2 @@
+# Članak 227.
+Državni odvjetnik će prije završene istrage pribaviti podatke o okrivljeniku navedene u članku 272. stavku 1. ovog Zakona, ako nedostaju ili ih treba provjeriti, te podatke o prijašnjim osudama okrivljenika, a prema potrebi i spise tih predmeta, a ako okrivljenik još izdržava kaznu ili drugu sankciju koja je vezana za lišenje slobode, podatke o njegovu ponašanju za vrijeme izdržavanja kazne ili druge sankcije.

@@ -1,0 +1,6 @@
+# Članak 35.
+(1) O zahtjevu za izuzeće iz članka 34. ovog Zakona odlučuje predsjednik suda. Ako se traži izuzeće i predsjednika suda, odluku o zahtjevu za izuzeće predsjednika vijeća, suca ili suca porotnika donosi zamjenik predsjednika suda ili sudac kojeg je predsjednik suda sebi odredio kao zamjenika između sudaca tog suda.
+(2) Ako se traži izuzeće predsjednika suda, odluku o izuzeću donosi predsjednik neposredno višeg suda, a ako se traži izuzeće predsjednika Vrhovnog suda, odluka o izuzeću donosi se na općoj sjednici tog suda. Protiv tih odluka žalba nije dopuštena.
+(3) Prije donošenja rješenja o izuzeću pribavit će se izjava suca, suca porotnika, odnosno predsjednika suda, a prema potrebi provest će se i drugi izvidi.
+(4) Protiv rješenja kojim je odlučeno o zahtjevu za izuzeće nije dopuštena posebna žalba.
+(5) Ako je zahtjev za otklon iz članka 32. stavka 2. ovog Zakona podnesen nakon početka rasprave ili ako je postupljeno suprotno odredbama članka 34. stavka 4. i 5. ovog Zakona, zahtjev će se odbaciti u cijelosti, odnosno djelomično. Protiv rješenja kojim se zahtjev odbacuje žalba nije dopuštena. Rješenje kojim se zahtjev odbacuje donosi predsjednik suda, a na raspravi vijeće. U donošenju tog rješenja može sudjelovati sudac čije se izuzeće traži.

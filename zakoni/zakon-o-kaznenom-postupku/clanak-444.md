@@ -1,0 +1,2 @@
+# Članak 444.
+Tužitelj će u svojem govoru iznijeti svoju ocjenu dokaza izvedenih na raspravi, nakon toga će izložiti svoje zaključke o činjenicama važnim za odluku te staviti i obrazložiti svoj prijedlog o krivnji optuženika, o odredbama kaznenog zakona koje bi se imale primijeniti, kao i o olakotnim i otegotnim okolnostima koje bi trebalo uzeti u obzir pri odmjeravanju kazne. Tužitelj može predložiti vrstu i mjeru kazne te izricanje sudske opomene ili uvjetne osude i drugih kaznenopravnih sankcija.

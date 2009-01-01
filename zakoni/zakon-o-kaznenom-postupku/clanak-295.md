@@ -1,0 +1,13 @@
+# Članak 295.
+(1) Čim sazna za vjerojatnost postojanja okolnosti iz članka 294. stavka 1. ovog Zakona državni odvjetnik će predložiti sucu istrage posebni način sudjelovanja u postupku i posebni način ispitivanja svjedoka. Prijedlog, uz prethodno obavještavanje svjedoka, državni odvjetnik podnosi sucu istrage u zapečaćenom omotu s naznakom »ugroženi svjedok – tajna«, a predaje ga osobno ili putem istražitelja.
+(2) U prijedlogu će državni odvjetnik označiti posebni način sudjelovanja u postupku (pozivanje svjedoka, pristup na ročište i drugo) i posebni način ispitivanja svjedoka koje predlaže te navesti razloge za to.
+(3) Prijedlog iz stavka 1. ovog članka državni odvjetnik može podnijeti sucu istrage i prije podizanja optužnice. Ako okrivljenik predloži ispitivanje zaštićenog svjedoka, državni odvjetnik može podnijeti odgovarajući prijedlog sucu istrage, a ako se ne složi s prijedlogom zatražit će odluku suca istrage.
+(4) Sudac istrage odlučuje o prijedlogu državnog odvjetnika rješenjem u roku od dvanaest sati od primitka prijedloga. Protiv rješenja suca istrage kojim odbija prijedlog iz stavka 1. ovog članka, državni odvjetnik može podnijeti žalbu u roku od dvanaest sati. O žalbi odlučuje vijeće u roku od dvadeset četiri sata.
+(5) Ako sudac istrage prihvati prijedlog državnog odvjetnika, odredit će rješenjem:
+1) pseudonim zaštićenog svjedoka,
+2) posebni način sudjelovanja u postupku (pozivanje, pristup sudu i slično),
+3) posebni način ispitivanja.
+(6) Protiv rješenja suca istrage žalba nije dopuštena.
+(7) Podatke o zaštićenom svjedoku koji će se ispitati i sudjelovati u postupku na poseban način, sudac istrage će zapečatiti u posebni omot i predati na čuvanje državnom odvjetniku. To će zabilježiti u spisu koristeći pseudonim svjedoka. Osobe koje u bilo kojem svojstvu saznaju podatke o zaštićenom svjedoku dužne su ih čuvati kao tajnu. Tijelo koje vodi radnju osobno je odgovorno za zaštitu tajnosti podataka.
+(8) Zapečaćeni omot s podacima zaštićenog svjedoka može iznimno zatražiti od državnog odvjetnika i otvoriti samo sudac istrage, predsjednik vijeća radi provjere istovjetnosti te drugostupanjski sud kad odlučuje o žalbi protiv presude. Na omotu će se zabilježiti da je otvoren i navesti imena osoba koje su upoznate s njegovim sadržajem. Nakon toga, omot će se ponovo zapečatiti i vratiti državnom odvjetniku.
+(9) Nakon što je donio rješenje o posebnom načinu sudjelovanja u postupku i posebnom načinu ispitivanja, sudac istrage određuje dokazno ročište i provodi ispitivanje zaštićenog svjedoka. Kod pozivanja, pristupa zaštićenog svjedoka na ročište, boravka i odlaska s ročišta, sudac istrage i državni odvjetnik mogu naložiti policiji poduzimanje mjera zaštite svjedoka.

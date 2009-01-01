@@ -1,0 +1,3 @@
+# Članak 336.
+(1) Državni odvjetnik i sudac istrage će na odgovarajući način (prijepisom zapisnika ili službenih zabilješki bez osobnih podataka, izdvajanjem službene zabilješke iz spisa i slično) spriječiti da neovlaštene osobe, te okrivljenik i njegov branitelj ustanove istovjetnost osoba koje su provele radnje iz članka 332. stavka 1. točke 4. i 5. ovog Zakona. Ako se te osobe ispituju kao svjedoci sud će u pravilu postupiti prema odredbama članka 294. do 299. ovog Zakona.
+(2) Osobe koje na bilo koji način saznaju podatke o sadržaju radnji ili o osobama koje su sudjelovale u provođenju radnji iz članka 332. ovog Zakona dužne su čuvati te podatke kao tajnu.

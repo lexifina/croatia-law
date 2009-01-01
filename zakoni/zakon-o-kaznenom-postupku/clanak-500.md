@@ -1,0 +1,4 @@
+# Članak 500.
+(1) Ako je postupak pravomoćno obustavljen prije podnošenja optužnice, na zahtjev ovlaštenog tužitelja može se dopustiti obnova postupka ako se podnesu novi dokazi na temelju kojih se sud može uvjeriti da su se stekli uvjeti za ponovno pokretanje postupka.
+(2) Kazneni postupak pravomoćno obustavljen do početka rasprave može se obnoviti kad je državni odvjetnik odustao od progona, a oštećenik progon nije preuzeo, ako se dokaže da je do odustanka došlo zbog kaznenog djela zlouporabe službenog položaja državnog odvjetnika ili zbog kaznenog djela prisile prema pravosudnom dužnosniku. Glede dokazivanja kaznenog djela državnog odvjetnika primjenjivat će se odredbe članka 501. stavka 2. ovog Zakona.
+(3) Ako je postupak obustavljen zbog toga što je oštećenik kao tužitelj odustao od progona ili što se po zakonu smatra da je odustao, oštećenik kao tužitelj ne može tražiti obnovu postupka.

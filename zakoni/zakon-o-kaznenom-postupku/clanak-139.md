@@ -1,0 +1,6 @@
+# Članak 139.
+(1) Po odobrenju suca istrage odnosno predsjednika vijeća i pod njegovim nadzorom ili nadzorom osobe koju on odredi, zatvorenika imaju pravo posjećivati, u okviru kućnog reda, njegovi srodnici, a na njegov zahtjev, liječnik i druge osobe. Pojedini se posjeti mogu zabraniti ako bi zbog toga mogla nastati šteta za vođenje postupka.
+(2) Sudac istrage odnosno predsjednik vijeća odobrit će konzularnom službeniku strane zemlje posjet zatvoreniku koji je državljanin te zemlje, sukladno kućnom redu zatvora.
+(3) Zatvorenik se smije dopisivati s osobama izvan zatvora sa znanjem i pod nadzorom suca istrage, a nakon podignute optužnice, sa znanjem i pod nadzorom predsjednika vijeća. Zatvoreniku se može zabraniti odašiljanje i primanje pisama i drugih pošiljaka, ali ne i odašiljanje molbe, pritužbe ili žalbe.
+(4) Zatvoreniku će sudac istrage, ili predsjednik vijeća, odobriti da o svom trošku sukladno kućnom redu pod nadzorom uprave zatvora, obavlja telefonske razgovore s određenom osobom. Uprava zatvora u tu svrhu zatvorenicima osigurava javni telefonski priključak koji zatvoreniku omogućava telefoniranje najmanje jednom dnevno u primjerenom trajanju.
+(5) Zatvorenik ima pravo razgovarati s braniteljem, slobodno, neometano i bez nadzora osim u slučaju iz članka 75. stavka 2. i članka 76. stavka 2. ovog Zakona.

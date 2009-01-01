@@ -1,0 +1,5 @@
+# Članak 65.
+(1) Okrivljenik može imati branitelja prije početka i tijekom cijelog kaznenog postupka u skladu s ovim Zakonom, kao i u postupku izvršenja kazne, mjera upozorenja ili sigurnosnih mjera sukladno posebnim propisima.
+(2) Okrivljenika se prije prvog ispitivanja ili druge radnje za koju to predviđa ovaj Zakon, mora poučiti da ima pravo uzeti branitelja i da branitelj može biti prisutan njegovu ispitivanju.
+(3) Branitelja okrivljeniku, osim ako se on tome izričito protivi, mogu uzeti i njegov zakonski zastupnik, bračni ili izvanbračni drug, srodnik u uspravnoj liniji, posvojitelj, posvojenik, brat, sestra hranitelja, hranjenika, smještene osobe ili udomitelja.
+(4) Za branitelja se može uzeti samo odvjetnik, a odvjetnika može zamijeniti odvjetnički vježbenik s položenim pravosudnim ispitom u postupku pred općinskim sudom. Pred županijskim sudom branitelj može biti samo odvjetnik. U postupku za kazneno djelo za koje je propisana kazna dugotrajnog zatvora branitelj može biti samo odvjetnik s najmanje deset godina prakse.

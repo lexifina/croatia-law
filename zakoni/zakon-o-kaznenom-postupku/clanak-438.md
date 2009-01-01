@@ -1,0 +1,2 @@
+# Članak 438.
+Vijeće može iznimno odlučiti da se optuženik privremeno udalji iz sudnice ako suoptuženik ili svjedok odbija dati iskaz u njegovoj prisutnosti ili ako okolnosti pokazuju da u njegovoj prisutnosti neće govoriti istinu. Nakon povratka optuženika u zasjedanje pročitat će mu se iskaz suoptuženika, odnosno svjedoka. Optuženik ima pravo postavljati pitanja suoptuženiku, odnosno svjedoku, a predsjednik vijeća upitat će ga ima li što primijetiti na njihov iskaz. Po prijedlogu stranaka sud može obaviti suočenje.

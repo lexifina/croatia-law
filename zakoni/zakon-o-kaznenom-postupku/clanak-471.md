@@ -1,0 +1,5 @@
+# Članak 471.
+(1) Presuda se može pobijati zbog odluke o kazni, uvjetnoj osudi i sudskoj opomeni kad tom odlukom nije prekoračena zakonska ovlast (članak 469. točka 5.), ali sud nije pravilno odmjerio kaznu s obzirom na okolnosti koje utječu na to da kazna bude veća ili manja i zbog toga što je sud primijenio ili nije primijenio odredbe o ublažavanju kazne, o oslobođenju od kazne, o uvjetnoj osudi ili sudskoj opomeni iako su za to postojali zakonski uvjeti.
+(2) Odluka o sigurnosnoj mjeri ili o oduzimanju imovinske koristi može se pobijati ako ne postoji povreda zakona iz članka 469. točke 5. ovog Zakona, ali je sud nepravilno donio tu odluku ili nije izrekao sigurnosnu mjeru, odnosno oduzimanje imovinske koristi iako su za to postojali zakonski uvjeti. Zbog istih razloga može se pobijati odluka o troškovima kaznenog postupka.
+(3) Odluka o imovinskopravnom zahtjevu te odluka o objavi presude u sredstvima javnog priopćavanja može se pobijati kad je sud o tim pitanjima donio odluku suprotno zakonskim propisima.
+d) Postupak o žalbi

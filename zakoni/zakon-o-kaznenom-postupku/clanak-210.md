@@ -1,0 +1,2 @@
+# Članak 210.
+Policija ima pravo osobe zatečene na mjestu počinjenja kaznenog djela uputiti državnom odvjetniku ili ih zadržati do njegova dolaska, ako bi te osobe mogle dati podatke važne za kazneni postupak i ako je vjerojatno da se njihovo ispitivanje kasnije ne bi moglo obaviti ili bi bilo skopčano sa znatnim odugovlačenjem ili drugim teškoćama. Zadržavanje tih osoba radi upućivanja državnom odvjetniku ili njihovo zadržavanje na mjestu počinjenja kaznenog djela ne može trajati dulje od šest sati od dolaska policije na mjesto događaja.

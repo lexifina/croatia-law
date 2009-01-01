@@ -1,0 +1,7 @@
+# Članak 127.
+(1) Istražni zatvor do podnošenja optužnice određuje sudac istrage na prijedlog državnog odvjetnika, a ukida ga na prijedlog okrivljenika, državnog odvjetnika ili po službenoj dužnosti.
+(2) O prijedlogu državnog odvjetnika da se odredi istražni zatvor, sudac istrage odlučuje odmah, a najkasnije u roku od dvadeset četiri sata od podnošenja prijedloga. Kad se sudac istrage ne složi s prijedlogom državnog odvjetnika za određivanje istražnog zatvora, donosi rješenje kojim se prijedlog odbija. Protiv tog rješenja državni odvjetnik ima pravo žalbe u roku od dvadeset četiri sata. O žalbi odlučuje vijeće u roku od četrdeset i osam sati.
+(3) Ako što drugo nije propisano posebnim zakonom, o produljenju istražnog zatvora odlučuje sudac istrage na prijedlog državnog odvjetnika.
+(4) Nakon podnošenja optužnice, istražni zatvor do potvrđivanja optužnice određuje, produljuje i ukida optužno vijeće. Nakon potvrđivanja optužnice, do pravomoćnosti presude, istražni zatvor određuje, produljuje i ukida raspravni sud u zasjedanju, a izvan zasjedanja vijeće, osim u slučaju iz stavka 5. ovog članka.
+(5) Kad odlučuje o žalbi protiv presude, istražni zatvor određuje, produljuje i ukida vijeće koje odlučuje o žalbi.
+(6) Kad sud koji, odlučujući o izvanrednim pravnim lijekovima, ukine pobijanu presudu i predmet vrati na ponovni postupak, odredit će istražni zatvor ako postoje razlozi iz članka 123. ovog Zakona, a nisu protekli rokovi iz članka 130. i 133. ovog Zakona.

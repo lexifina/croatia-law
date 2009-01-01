@@ -1,0 +1,4 @@
+# Članak 574.
+(1) Kazneni postupak pokrenut prije stupanja na snagu ovog Zakona dovršit će se po odredbama Zakona o kaznenom postupku (»Narodne novine«, br. 110/97., 27/98., 58/99., 112/99., 58/02., 143/02. i 115/06.).
+(2) Ako je do stupanja na snagu ovog Zakona donesena kakva odluka protiv koje je po odredbama zakona po kojem je postupak vođen dopušten pravni lijek ili još teče rok za podnošenje pravnog lijeka, ili je pravni lijek podnesen, ali o njemu još nije odlučeno, u tom postupku primijenit će se odredbe zakona po kojem je donesena odluka, osim ako ovim Zakonom nije drukčije propisano.
+(3) Odredbe članka 497. – 508. ovog Zakona na odgovarajući način će se primjenjivati i u postupcima povodom zahtjeva za obnovu kaznenog postupka podnesenima po odredbama Zakona o kaznenom postupku (»Narodne novine«, br. 110/97., 27/98., 58/99., 112/99., 58/02., 143/02. i 115/06.).

@@ -1,0 +1,5 @@
+# Članak 312.
+(1) Prije početka vještačenja pozvat će se vještak da predmet vještačenja brižljivo prouči, da točno navede sve što zapazi i nađe te da svoje mišljenje iznese nepristrano i u skladu s pravilima znanosti i vještine. On će se posebno upozoriti da je davanje lažnog iskaza kazneno djelo.
+(2) Od vještaka se može tražiti da obeća da će iskazivati istinu. Obećanje glasi: »Obećavam da ću povjerena mi vještačenja obavljati savjesno i prema svom najboljem znanju, a nalaz i mišljenje iznijet ću točno, potpuno i objektivno, sukladno pravilima struke.« Stalno prisegnuti vještak samo će se upozoriti na prisegu.
+(3) Vještaku se može dopustiti da razgleda spise. Vještak može predložiti da se pribave predmeti i podaci koji su od važnosti za davanje nalaza i mišljenja. Ako je prisutan pri očevidu ili drugoj dokaznoj radnji, vještak može predložiti da se razjasne pojedine okolnosti ili da se osobi koja se ispituje postave pojedina pitanja.
+(4) Tijelo koje vodi postupak može prisustvovati radnjama vještaka.

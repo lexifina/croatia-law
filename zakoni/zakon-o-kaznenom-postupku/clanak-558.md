@@ -1,0 +1,5 @@
+# Članak 558.
+(1) Kad dolazi u obzir oduzimanje imovinske koristi pribavljene kaznenim djelom, osoba na koju je imovinska korist prenesena, a i predstavnik pravne osobe, pozvat će se radi ispitivanja u prethodnom postupku i na raspravi. U pozivu će se upozoriti da će se postupak provesti i bez njihove prisutnosti.
+(2) Predstavnik pravne osobe ispitat će se na raspravi nakon okrivljenika koji se očitovao da ne osporava osnovanost optužbe, a inače na početku dokaznog postupka. Na isti način postupit će se prema osobi na koju je imovinska korist prenesena, ako nije pozvana kao svjedok.
+(3) Osoba na koju je imovinska korist prenesena, a i predstavnik pravne osobe ovlašten je u svezi s utvrđivanjem imovinske koristi predlagati dokaze i po dopuštenju predsjednika vijeća, postavljati pitanja okrivljeniku, svjedocima i vještacima.
+(4) Ako sud tek u tijeku rasprave utvrdi da dolazi u obzir oduzimanje imovinske koristi od treće osobe, prekinut će raspravu i pozvati osobu na koju je imovinska korist prenesena, a i predstavnika pravne osobe.

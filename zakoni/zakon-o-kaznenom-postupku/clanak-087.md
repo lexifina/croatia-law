@@ -1,0 +1,9 @@
+# Članak 87.
+(1) Kad je to propisano ovim Zakonom, rasprava, dokazna radnja ili druga radnja snima se uređajima za audio-video ili audio snimanje.
+(2) Izvan slučajeva iz stavka 1. ovog članka, tijelo koje provodi dokaznu radnju, uvijek može odrediti da se izvođenje dokazne radnje snimi uređajima za audio ili audio-video snimanje.
+(3) O snimanju radnje iz stavka 1. i 2. ovog članka, tijelo koje provodi radnju prethodno će upozoriti osobe koje sudjeluju u radnji, da se radnja snima određenim tehničkim uređajem i da snimka može biti upotrijebljena kao dokaz u postupku.
+(4) Snimka mora sadržavati podatke iz članka 83. stavka 1. ovog Zakona, podatke potrebne za identificiranje osobe čija se izjava snima i podatak u kojem svojstvu ta osoba daje izjavu. Kad se snimaju izjave više osoba, mora se osigurati da se iz snimke može jasno razaznati tko je dao koju izjavu. Na zahtjev ispitane osobe snimka će se odmah reproducirati, a ispravci ili objašnjenja te osobe će se snimiti.
+(5) Ako drukčije nije propisano ovim Zakonom, u zapisnik o dokaznoj radnji, osim podataka iz članka 83. stavka 1. ovog Zakona, unosi se i da je obavljeno tehničko snimanje, tko je snimanje obavio, kojim je uređajem snimanje obavljeno, da je osoba koja se ispituje prethodno upoznata o snimanju, kratki sadržaj danih iskaza i izjava i je li snimka reproducirana te gdje se snimka čuva ako nije priložena spisima predmeta.
+(6) Ako drukčije nije propisano ovim Zakonom, tijelo iz stavka 2. ovog članka, može odrediti da se snimka u cijelosti ili djelomično prepiše te preda stranci na njezin zahtjev. Prijepis će se pregledati, ovjeriti potpisom osobe koja je provela radnju i priključiti zapisniku o poduzimanju radnje.
+(7) Snimka učinjena prema odredbama stavka 2. do 6. ovog članka, čuva se, dok se čuva i kazneni spis.
+(8) Ministar nadležan za pravosuđe donijet će posebne propise kojima će odrediti tehničke uvjete, način snimanja, zaštitu snimke od brisanja ili oštećenja.
