@@ -1,0 +1,3 @@
+# Članak 84.
+(1) Komora iz članka 1. stavka 2. ovoga Zakona, s danom početka rada, preuzima članove Hrvatske komore arhitekata i inženjera u graditeljstvu koji su ovlašteni inženjeri geodezije, službenike Stručne službe Hrvatske komore arhitekata i inženjera u graditeljstvu, prava, obveze, imovinu, poslove, imenike, upisnike, evidencije, pismohranu i drugu dokumentaciju Stručne službe Hrvatske komore arhitekata i inženjera u graditeljstvu u skladu s ovim Zakonom i posebnim zakonom iz članka 83. ovoga Zakona.
+(2) Komora iz članka 1. stavka 2. ovoga Zakona pravni je sljednik Hrvatske komore arhitekata i inženjera u graditeljstvu u skladu s posebnim zakonom iz članka 83. ovoga Zakona.

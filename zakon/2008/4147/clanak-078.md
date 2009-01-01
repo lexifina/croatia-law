@@ -1,0 +1,3 @@
+## Obavljanje stručnih geodetskih poslova
+# Članak 78.
+Do stupanja na snagu ovoga Zakona ovlašteni inženjeri geodezije koji su poslove državne izmjere i katastra nekretnina obavljali samostalno u uredu ovlaštenog inženjera geodezije ili u zajedničkom geodetskom uredu i pravne osobe registrirane za obavljanje poslova državne izmjere i katastra nekretnina, koji imaju suglasnost Državne geodetske uprave za obavljanje poslova državne izmjere i katastara nekretnina nastavljaju s radom kao ovlašteni inženjeri geodezije, odnosno pravne osobe koje imaju suglasnost za obavljanje stručnih geodetskih poslova.

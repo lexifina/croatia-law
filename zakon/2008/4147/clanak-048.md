@@ -1,0 +1,4 @@
+# Članak 48.
+(1) Brisanjem iz Imenika ovlaštenih inženjera geodezije gubi se strukovni naziv ovlašteni inženjer geodezije.
+(2) Pravo na obavljanje poslova ovlaštenog inženjera geodezije u svojstvu odgovorne osobe u slučaju iz članka 47. stavka 1. podstavka 1., 7., 8. i 10. ovoga Zakona prestaje danom pravomoćnosti odluke o oduzimanju ili djelomičnom oduzimanju poslovne sposobnosti, odluke kojom se izriče sigurnosna mjera zabrane obavljanja stručnih geodetskih poslova u svojstvu odgovorne osobe, odluke o stegovnoj mjeri zabrane obavljanja stručnih geodetskih poslova, odnosno od dana stupanja u mirovinu.
+(3) Pravo na obavljanje stručnih geodetskih poslova u svojstvu odgovorne osobe u slučaju iz članka 47. stavka 1. podstavka 1. 2., 3., 4. i 5. ovoga Zakona prestaje danom pravomoćnosti rješenja o brisanju člana iz Imenika ovlaštenih inženjera geodezije.

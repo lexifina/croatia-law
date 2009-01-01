@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Strane osobe koje imaju sjedište u državi koja nije članica Europske unije, a koje u toj državi imaju pravo obavljati stručne geodetske poslove, mogu u Republici Hrvatskoj obavljati stručne geodetske poslove ako su na natječaju stekle pravo na izvedbu stručnih geodetskih poslova i ako ishode odobrenje komore.
+(2) Odobrenje iz stavka 1. ovoga članka može se dati, pod pretpostavkom uzajamnosti, ako odgovorna osoba zaposlena u stranoj osobi ishodi rješenje komore o priznavanju inozemne stručne kvalifikacije u skladu s ovim Zakonom, te ako strana osoba ispunjava i druge uvjete propisane ovim Zakonom i posebnim propisima. Pretpostavka uzajamnosti ne primjenjuje se na strane osobe sa sjedištem u zemlji članici Svjetske trgovinske organizacije.
+(3) Odobrenje za obavljanje poslova iz stavka 1. ovoga članka je upravni akt protiv kojeg žalba nije dopuštena, ali se može pokrenuti upravni spor. U ovom slučaju postupak pred Upravnim sudom Republike Hrvatske je hitan.
+(4) Odobrenje za obavljanje poslova iz stavka 1. ovoga članka komora dostavlja Državnoj geodetskoj upravi.

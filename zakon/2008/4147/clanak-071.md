@@ -1,0 +1,6 @@
+## Uvjeti osiguranja
+# Članak 71.
+(1) Uvjete osiguranja za ovlaštene inženjere geodezije utvrđuju osiguravatelji u dogovoru s komorom.
+(2) Osiguravatelji su dužni za svaku iduću godinu odrediti osiguravatelja koji će ih zastupati. Ako osiguravatelji ne odrede zastupnika do konca listopada tekuće godine, zastupnikom će se smatrati osiguravatelj kojega odredi Državna geodetska uprava. Odluka Državne geodetske uprave o tome nije upravni akt.
+(3) Uvjetima osiguranja može se predvidjeti da štetu do određenog iznosa izravno nadoknađuje ovlašteni inženjer geodezije, odnosno pravna osoba registrirana za obavljanje stručnih geodetskih poslova.
+(4) Ako se dogovor iz stavka 1. ili 2. ovoga članka ne postigne u roku od 30 dana od dana postavljanja zahtjeva bilo koje strane drugim stranama, o uvjetima osiguranja na prijedlog bilo koje strane odlučuje Stalno izbrano sudište pri Hrvatskoj gospodarskoj komori. Pravorijek Stalnoga izbranog sudišta kojim se određuju uvjeti osiguranja za iduću godinu pravomoćan je i djeluje prema svim osiguravateljima, Državnoj geodetskoj upravi, komori, ovlaštenim inženjerima geodezije i pravnim osobama koje su registrirane za obavljanje stručnih geodetskih poslova.

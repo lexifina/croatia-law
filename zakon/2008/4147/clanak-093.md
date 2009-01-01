@@ -1,0 +1,2 @@
+# Članak 93.
+Fizičke osobe ovlaštene za obavljanje poslova državne izmjere i katastra nekretnina prema Zakonu o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 16/07.), a koje nisu ovlašteni inženjeri geodezije, mogu nastaviti trajno obavljati poslove izrade parcelacijskih i drugih geodetskih elaborata katastra zemljišta, izrade elaborata katastra vodova, izrade situacijskih nacrta za objekte za koje ne treba izraditi geodetski projekt te poslove iskolčenja građevina.

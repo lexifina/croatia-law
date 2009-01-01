@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Suglasnost iz stavka 1. ovoga članka Državna geodetska uprava će oduzeti rješenjem ako ovlašteni inženjer geodezije koji stručne geodetske poslove obavlja samostalno u uredu ovlaštenog inženjera geodezije ili u zajedničkome geodetskom uredu, odnosno pravna osoba registrirana za obavljanje stručnih geodetskih poslova prestane ispunjavati uvjete propisane za davanje suglasnosti ili ako stručne geodetske poslove obavlja protivno ovom Zakonu, propisima donesenim na temelju ovoga Zakona ili protivno propisima kojima se uređuje pojedino od područja navedenih u članku 2. ovog Zakona.
+(2) Protiv rješenja o oduzimanju suglasnosti žalba nije dopuštena, ali se može pokrenuti upravni spor. U ovom slučaju postupak je hitan.

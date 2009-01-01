@@ -1,0 +1,6 @@
+## VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Započeti postupci
+# Članak 77.
+(1) Postupci davanja i oduzimanja suglasnosti započeti po odredbama članka 103. Zakona o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 16/07.) do stupanja na snagu ovoga Zakona dovršit će se po odredbama Zakona o državnoj izmjeri i katastru nekretnina i propisa donesenih na temelju tog Zakona.
+(2) Postupci za upis u Imenik i upisnike Hrvatske komore arhitekata i inženjera u graditeljstvu koji se odnose na ovlaštene inženjere geodezije i njihove urede i prekršajni postupci koji se odnose na ovlaštene inženjere geodezije započeti po odredbama Zakona o Hrvatskoj komori arhitekata i inženjera u graditeljstvu (»Narodne novine«, br. 47/98.) započeti do stupanja na snagu ovoga Zakona dovršit će se po odredbama Zakona o Hrvatskoj komori arhitekata i inženjera u graditeljstvu i općih akata donesenih na temelju tog Zakona.
+(3) U trajanje propisanog komorskog postupka za vježbenike-kandidate za upis u Imenik ovlaštenih inženjera geodezije obračunat će se i vrijeme koje su kandidati proveli radeći pod nadzorom ovlaštenog inženjera geodezije prema propisima koji su vrijedili do stupanja na snagu ovoga Zakona.
