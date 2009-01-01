@@ -1,0 +1,7 @@
+## Uvjeti osiguranja
+# Članak 132.
+Uvjete osiguranja za ovlaštene arhitekte i ovaštene inženjere zajedno utvrđuju osiguravatelji u dogovoru s komorama.
+Uvjete osiguranja za izvođače i osobe koje obavljaju djelatnost upravljanja projektom zajedno utvrđuju osiguravatelji u dogovoru s Hrvatskom gospodarskom komorom i Hrvatskom obrtničkom komorom.
+Osiguravatelji su dužni za svaku iduću godinu odrediti osiguravatelja koji će ih zastupati. Ako osiguravatelji ne odrede zastupnika do kraja listopada tekuće godine, zastupnikom će se smatrati osiguravatelj kojega odredi Ministarstvo. Odluka Ministarstva o tome nije upravni akt.
+Uvjetima osiguranja može se predvidjeti da štetu do određenog iznosa izravno nadoknađuje ovlašteni arhitekt, ovlašteni inženjer, izvođač, odnosno osoba koja obavlja djelatnost upravljanja projektom.
+Ako se dogovor iz stavka 1. ili 2. ovoga članka ne postigne u roku od 30 dana od dana postavljanja zahtjeva bilo koje strane drugim dvjema stranama, o uvjetima osiguranja na prijedlog bilo koje strane odlučuje Stalno izbrano sudište pri Hrvatskoj gospodarskoj komori. Pravorijek Stalnoga izbranog sudišta kojim se određuju uvjeti osiguranja za iduću godinu pravomoćan je i djeluje prema svim osiguravateljima, komorama, Hrvatskoj gospodarskoj komori, Hrvatskoj obrtničkoj komori, ovlaštenim arhitektima, ovlaštenim inženjerima, pravnim osobama, projektantskim društvima, izvođačima i osobama koje obavljaju djelatnost upravljanja projektom gradnje.

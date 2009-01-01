@@ -1,0 +1,4 @@
+# Članak 26.
+Za osnivanje projektantskog društva osnivači su dužni imati suglasnost odgovarajuće komore koja ocjenjuje je li ugovor o osnivanju sukladan zakonu, statutu i drugim općim aktima komore. Ako projektantsko društvo osnivaju ovlašteni arhitekti ili ovlašteni inženjer istih struka, suglasnost je potrebno dobiti od komore u koju se udružuje njihova struka. Ako projektantsko društvo osnivaju ovlašteni arhitekt i ovlašteni inženjer ili ovlašteni inženjeri različitih struka, suglasnost je potrebno dobiti od komore određene ugovorom o osnivanju društva.
+Komora koja je izdala suglasnost iz stavka 1. ovoga članka na ugovor kojim projektantsko društvo osnivaju ovlašteni arhitekt i ovlašteni inženjer ili ovlašteni inženjeri različitih struka dužna je o tome bez odgađanja obavijestiti druge komore.
+Bez suglasnosti komore iz stavka 1. ovoga članka projektantsko društvo ne može se upisati u sudski registar.

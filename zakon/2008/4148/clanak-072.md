@@ -1,0 +1,5 @@
+# Članak 72.
+Povodom prijave iz članka 69. ovoga Zakona komora je u roku od 30 dana od dana uredno podnesene prijave dužna provjeriti ispunjava li podnositelj prijave propisane uvjete za povremeno, odnosno jednokratno obavljanje poslova projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe te o tome donijeti rješenje.
+Ako komora u roku iz stavka 1. ovoga članka ne donese rješenje podnositelj prijave može započeti povremeno, odnosno jednokratno obavljanje poslova projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe i ove poslove obavljati do donošenja rješenja kojim se utvrđuje da ne ispunjava propisane uvjete.
+Protiv rješenja iz stavka 1. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor. U ovom slučaju postupak je hitan.
+Rješenje iz stavka 1. ovoga članka upisuje se u evidenciju stranih ovlaštenih osoba ovlaštenih za povremeno ili jednokratno obavljanje poslova projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe odgovarajuće komore.

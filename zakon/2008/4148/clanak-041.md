@@ -1,0 +1,3 @@
+# Članak 41.
+Izvođaču pojedinačnom društvu povezanom s više drugih pojedinačnih društava na način da u međusobnom odnosu stoje kao: društvo koje u drugome društvu ima većinski udio ili većinsko pravo u odlučivanju, ovisno i vladajuće društvo, društvo koncerna, društva s uzajamnim udjelima ili društva povezana poduzetničkim ugovorima, suglasnost se daje za građenje građevina određene skupine ili za izvođenje pojedinih radova određene skupine radova koji uvjete stručne osposobljenosti i broja zaposlenika te druge uvjete propisane ovim Zakonom, ispunjava zajedno s tim društvima.
+Davanje suglasnosti jednom povezanom društvu na način iz stavka 1. ovoga članka ne isključuje mogućnost davanja suglasnosti drugim povezanim društvima na isti način.

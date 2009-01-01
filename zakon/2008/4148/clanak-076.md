@@ -1,0 +1,3 @@
+# Članak 76.
+Fizička osoba koja u stranoj državi ima pravo obavljati pojedine poslove u vezi s projektiranjem, odnosno stručnim nadzorom građenja u svojstvu suradnika projektanta, odnosno suradnika nadzornog inženjera ima pravo u Republici Hrvatskoj u okviru zadaća svoje struke pod pretpostavkom uzajamnosti trajno obavljati te poslove u svojstvu suradnika projektanta, odnosno suradnika nadzornog inženjera ako ima stručne kvalifikacije potrebne za obavljanje tih poslova u skladu s ovim Zakonom.
+Pretpostavka uzajamnosti iz stavka 1. ovoga članka ne primjenjuje se na osobu koja je državljanin države članice Europske unije ili države članice Svjetske trgovinske organizacije.

@@ -1,0 +1,7 @@
+## Priznavanje inozemne stručne kvalifikacije
+# Članak 79.
+Postupak priznavanje inozemne stručne kvalifikacije za obavljanje poslova projektiranja i/ili stručnog nadzora građenja, poslova vođenja građenja, odnosno izvođenje pojedinih radova, građevinske, strojarske i elektrotehničke struke, za obavljanje poslova izrade provedbenih dokumenata prostornog uređenja osoba koje nisu arhitektonske struke provodi i rješenje o tome donosi odgovarajuća komora na način propisan posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija.
+Postupak priznavanja inozemne stručne kvalifikacije za obavljanje poslova voditelja projekta gradnje provodi i rješenje o tome donosi Ministarstvo na način propisan posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija.
+Uvjete za priznavanje inozemne stručne kvalifikacije za obavljanje poslova iz stavka 1. i 2. ovoga članka, način i uvjete izvršenja dopunskih mjera u svrhu priznavanja te stručne kvalifikacije te iznos, način plaćanja naknade troškova tih mjera i druga pitanja u vezi sa stručnim kvalifikacijama osoba koje obavljaju te poslove propisuje ministar pravilnikom.
+Stručne kvalifikacije osoba arhitektonske struke za obavljanje poslova iz stavka 1. i 2. ovoga članka stečene u državi članici Europske unije priznaju se kao stručne kvalifikacije stečene u Republici Hrvatskoj pod uvjetima i na način koje propisuje ministar pravilnikom.
+Provjeru ispunjavanja uvjeta iz stavka 3. ovoga članka provodi Hrvatska komora arhitekata.

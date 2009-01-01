@@ -1,0 +1,4 @@
+# Članak 113.
+Prestankom članstva u komori gubi se strukovni naziv ovlašteni arhitekt, odnosno ovlašteni inženjer i pravo na obavljanje poslova koje obavlja osoba s tim nazivom.
+Pravo na obavljanje poslova ovlaštenog arhitekta, odnosno ovlaštenog inženjera u slučaju iz članka 112. stavka 1. podstavka 1., 6., 7., 8. i 9. ovoga Zakona prestaje danom pravomoćnosti odluke o oduzimanju ili djelomičnom oduzimanju poslovne sposobnosti, odluke kojom se izriče sigurnosna mjera zabrane obavljanja poslova, odluke o stegovnoj mjeri zabrane obavljanja poslova, odnosno odluke o stegovnoj mjeri prestanka članstva u komori, odnosno od dana stupanja u mirovinu.
+Pravo na obavljanje poslova ovlaštenog arhitekta, odnosno ovlaštenog inženjera u slučaju iz članka 112. stavka 1. podstavka 2., 3., 4. i 5. ovoga Zakona prestaje danom pravomoćnosti rješenja o brisanju člana iz imenika ovlaštenih arhitekata, odnosno ovlaštenih inženjera.

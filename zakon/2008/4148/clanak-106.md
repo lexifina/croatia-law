@@ -1,0 +1,2 @@
+# Članak 106.
+Strana ovlaštena osoba iz druge države članice Europske unije koja u Republici Hrvatskoj namjerava trajno obavljati poslove projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe pod strukovnim nazivom »ovlašteni arhitekt«, odnosno »ovlašteni inženjer« ispunjavanje uvjeta iz članka 105. stavka 1. podstavak 4., 5. i 6. ovoga Zakona dokazuje rješenjem Ministarstva o priznavanju inozemne stručne kvalifikacije za obavljanje poslova projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe.

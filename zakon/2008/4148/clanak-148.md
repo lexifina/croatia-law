@@ -1,0 +1,4 @@
+## Vježbenički staž kandidata za upis u komoru
+# Članak 148.
+Članak 105. stavak 1. podstavak 5. ovoga Zakona ne odnosi se na osobe koje od završetka odgovarajućeg diplomskog sveučilišnog studija do dana stupanja na snagu ovoga Zakona imaju dvije ili više godina radnog iskustva u struci i na osobe koje od završetka odgovarajućeg specijalističkog diplomskog stručnog studija do dana stupanja na snagu ovoga Zakona imaju četiri ili više godina radnog iskustva u struci.
+Radno iskustvo u struci stečeno od završetka odgovarajućeg diplomskog sveučilišnog studija, odnosno odgovarajućeg specijalističkog diplomskog stručnog studija do dana stupanja na snagu ovoga Zakona koje je kraće od radnog iskustva iz stavka 1. ovoga članka računa se kao vrijeme uspješno provedeno u komorskom postupku za vježbenike buduće kandidate za upis u komoru.

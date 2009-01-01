@@ -1,0 +1,6 @@
+## Zajednički ured
+# Članak 21.
+Više ovlaštenih arhitekata i/ili ovlaštenih inženjera mogu poslove projektiranja i/ili stručnog nadzora građenja obavljati u zajedničkom uredu za obavljanje poslova projektiranja i/ili stručnog nadzora građenja (u daljnjem tekstu: zajednički ured). U tom slučaju međusobna prava ovlašteni arhitekti i/ili ovlašteni inženjeri uređuju pisanim ugovorom.
+Zajednički ured osniva se na temelju ugovora iz stavka 1. ovoga članka upisom u upisnik zajedničkih ureda odgovarajuće komore osnovane prema ovom Zakonu na zahtjev ovlaštenih arhitekata i/ili ovlaštenih inženjera koji su sklopili taj ugovor. Zajednički ured koji osnivaju ovlašteni arhitekti ili ovlašteni inženjeri istih struka osniva se upisom u upisnik zajedničkih ureda komore u koju se udružuje njihova struka. Zajednički ured koji osnivaju ovlašteni arhitekt i ovlašteni inženjer ili ovlašteni inženjeri različitih struka osniva se upisom u upisnik zajedničkih ureda komore određene ugovorom iz stavka 1. ovoga članka.
+Upis zajedničkog ureda u upisnik zajedničkih ureda komora je dužna obaviti u roku od 15 dana od dana primitka urednog zahtjeva za upis.
+Komora koja je u svoj upisnik upisala zajednički ured ovlaštenog arhitekta i ovlaštenog inženjera ili ovlaštenih inženjera različitih struka dužna je o tome bez odgađanja obavijestiti druge komore.

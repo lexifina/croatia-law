@@ -1,0 +1,2 @@
+# Članak 68.
+Strana ovlaštena osoba iz druge države članice Europske unije ima pravo u Republici Hrvatskoj trajno obavljati poslove projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe pod strukovnim nazivom »ovlašteni arhitekt«, odnosno »ovlašteni inženjer« ako je upisana u imenik stranih ovlaštenih arhitekata, odnosno ovlaštenih inženjera odgovarajuće komore ustrojene prema ovom Zakonu.
