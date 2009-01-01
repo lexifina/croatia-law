@@ -1,0 +1,7 @@
+## Iznimke pri utvrđivanju financijskog konglomerata
+# Članak 5.
+(1) Iznimno, ako grupa ne ispunjava uvjet iz članka 4. stavka 2. ovoga Zakona, odgovarajuća nadležna tijela mogu zajednički odlučiti da se takvu grupu ne smatra financijskim konglomeratom ili da nad njom ne provodi dodatnu superviziju u području koncentracije rizika, unutargrupnih transakcija, sustava unutarnjih kontrola i procesa upravljanja rizicima, ako bi provođenje dodatne supervizije nad tom grupom bilo neprikladno ili navodilo na pogrešne zaključke u odnosu na ciljeve dodatne supervizije.
+(2) Pri donošenju odluke iz stavka 1. ovoga članka, odgovarajuća nadležna tijela iz Republike Hrvatske će osobito uzeti u obzir:
+– da prosjek najmanjega financijskog sektora izračunat na način iz članka 4. stavka 2. ovoga Zakona ili postotni udio bilančnih iznosa najmanjega financijskog sektora u ukupnom bilančnom iznosu financijskog sektora ili postotni udio kapitalnih zahtjeva najmanjega financijskog sektora u ukupnim kapitalnim zahtjevima financijskog sektora, ne prelazi pet posto, odnosno
+– da tržišni udio grupe, izračunat kao ukupni bilančni iznos u bankarskom sektoru ili sektoru investicijskih usluga i kao iznos bruto zaračunatih premija u sektoru osiguranja, u bilo kojoj državi članici ne prelazi pet posto.
+(3) Ako je nadležno tijelo iz Republike Hrvatske donijelo odluku iz stavka 1. ovoga članka, o takvoj odluci obavijestit će druga nadležna tijela.

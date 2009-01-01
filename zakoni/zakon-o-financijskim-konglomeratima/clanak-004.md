@@ -1,0 +1,5 @@
+## Utvrđivanje financijskog konglomerata
+# Članak 4.
+(1) U smislu ovoga Zakona, u grupi se većinom obavljaju poslovi iz financijskog sektora ako je postotni udio bilančnih iznosa reguliranih i nereguliranih subjekata iz financijskog sektora u grupi u odnosu prema bilančnim iznosima svih osoba u grupi veći od 40 posto.
+(2) U smislu ovoga Zakona, aktivnosti osoba u grupi pojedinog sektora u financijskom sektoru su značajne ako je prosjek između postotnog udjela bilančnih iznosa pojedinog sektora u ukupnim bilančnim iznosima svih osoba iz financijskog sektora i postotnog udjela kapitalnih zahtjeva pojedinog sektora u ukupnim kapitalnim zahtjevima svih osoba iz financijskog sektora, veći od deset posto. Kapitalni zahtjevi računaju se u skladu sa sektorskim propisima.
+(3) U smislu ovoga Zakona, aktivnosti osoba pojedinog sektora u grupi smatra se značajnom u smislu članka 3. stavka 1. točke 5. ovoga Zakona i u slučaju ako je bilančni iznos najmanjega financijskog sektora u grupi veći od 4,5 milijardi kuna.

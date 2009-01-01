@@ -1,0 +1,4 @@
+## Podaci koji se koriste pri utvrđivanju financijskog konglomerata
+# Članak 10.
+(1) Svi izračuni na temelju članka 4. do 9. ovoga Zakona, a koji se odnose na bilančni iznos, provodit će se na temelju skupnih (agregiranih) bilančnih iznosa pojedinih osoba u grupi iz godišnjih financijskih izvještaja sastavljenih u skladu s posebnim zakonom kojim se uređuje računovodstvo. Za potrebe ovih izračuna, u visinu sudjelujućeg udjela u pojedinoj osobi u grupi uključuje se bilančni iznos razmjeran agregiranom sudjelujućem udjelu svih osoba iz grupe u toj osobi.
+(2) Ako se za grupu mogu sastaviti konsolidirani financijski izvještaji u skladu s posebnim zakonom kojim se uređuje računovodstvo, ti izvještaji mogu se koristiti umjesto izvještaja izrađenih na temelju skupnih (agregiranih) bilančnih iznosa pojedinih osoba u grupi.

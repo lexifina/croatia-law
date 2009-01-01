@@ -1,0 +1,5 @@
+## Pristup informacijama
+# Članak 26.
+(1) Osoba u financijskom konglomeratu dužna je nadležnom tijelu za potrebe obavljanja dodatne supervizije financijskog konglomerata omogućiti dodatnu superviziju nad poslovanjem te osobe u njezinom sjedištu i na ostalim mjestima na kojima ta osoba obavlja djelatnosti i poslove u vezi s kojima nadležno tijelo provodi dodatnu superviziju.
+(2) Osoba u financijskom konglomeratu dužna je nadležnom tijelu omogućiti obaviti kontrolu poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije, kao i kontrolu informacijske tehnologije i drugih pridruženih tehnologija, u opsegu potrebnom za obavljanje dodatne supervizije iz stavka 1. ovoga članka.
+(3) Osoba u financijskom konglomeratu dužna je ovlaštenoj osobi nadležnog tijela, na njezin zahtjev, uručiti računalne ispise, preslike poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije u papirnatom obliku ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba.

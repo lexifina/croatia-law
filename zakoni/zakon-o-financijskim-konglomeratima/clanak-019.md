@@ -1,0 +1,6 @@
+## Koncentracija rizika
+# Članak 19.
+(1) Predvodnik u grupi dužan je redovito, a najmanje jednom godišnje izvještavati koordinatora o značajnoj koncentraciji rizika na razini financijskog konglomerata.
+(2) U svrhu postizanja ciljeva dodatne supervizije, koordinator može u suradnji s drugim nadležnim tijelima, a uzimajući u obzir osobitost svakog pojedinog financijskog konglomerata, za svaki pojedinačni financijski konglomerat odrediti ograničenje izloženosti rizicima (kvantitativna ograničenja) ili naložiti supervizorske mjere, kojima će se ostvariti ciljevi dodatne supervizije, a u svezi s bilo kojom koncentracijom rizika na razini financijskog konglomerata.
+(3) Nadležna tijela iz Republike Hrvatske će u okviru dodatne supervizije nad koncentracijom rizika na razini financijskog konglomerata osobito pratiti opasnost širenja rizika na druge članove financijskog konglomerata, rizik sukoba interesa, rizik zaobilaženja sektorskih propisa kao i iznos ili razinu tih rizika.
+(4) Iznimno, ako postoje sektorski propisi o koncentraciji rizika najznačajnijeg financijskog sektora, a nadređeno društvo u financijskom konglomeratu je mješoviti financijski holding, ti će se propisi primjenjivati na razini cijeloga financijskog konglomerata, uključujući i mješoviti financijski holding.
