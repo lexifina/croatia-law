@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o posebnom porezu na duhanske proizvode i rukovanju markicama za njihovo obilježavanje (»Narodne novine«, br. 112/99., 50/00., 119/01. i 59/03.), dosadašnji Obrasci ZI-NM, PK-DP, ZI-IM-1, PK-DP-1, PR-DP-1, IZVJ-DP-1, IZVJ-DP-2, IZVJ-DP-3, PP-DP-1, PP-DP-2 i IZVJ-DUH zamjenjuje se novim Obrascima ZI-NM, PK-DP, ZI-IM-1, PK-DP-1, PR-DP-1, IZVJ-DP-1, IZVJ-DP-2, IZVJ-DP-3, PP-DP-1, PP-DP-2 i IZVJ-DUH koji su tiskani uz ovaj Pravilnik i njegov su sastavni dio.
