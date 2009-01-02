@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom razrađuje provedba Zakona o osobnom identifikacijskom broju (u daljnjem tekstu: Zakon): postupak određivanja, dodjele i dostave osobnoga identifikacijskog broja, sadržaj evidencije o osobnim identifikacijskim brojevima, oblik i sadržaj zahtjeva za dodjelu osobnoga identifikacijskog broja, podaci potrebni za identifikaciju obveznika broja, povod za praćenje strane osobe, oblik i sadržaj potvrde o dodijeljenom osobnom identifikacijskom broju, način korištenja potvrde o osobnom identifikacijskom broju, način razmjene i korištenja podataka između korisnika broja te naknada za dodjelu osobnoga identifikacijskog broja.
