@@ -1,0 +1,1 @@
+Pravilnik o sadržaju i vrsti podataka o uplatitelju koji prate elektronički prijenos novčanih sredstava, o obvezama pružatelja usluga plaćanja i o iznimkama od obveze prikupljanja podataka pri prijenosu novčanih sredstava
