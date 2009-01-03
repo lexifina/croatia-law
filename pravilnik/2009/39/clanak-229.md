@@ -1,0 +1,3 @@
+# Članak 229.
+(1) Isplatitelj primitka od kojega se utvrđuje drugi dohodak po osnovi novčane pomoći i pomoći u naravi što ih, na temelju odredaba svojih općih akata, isplaćuju ili daju općina, grad, županija i Grad Zagreb u svrhu zaštite majčinstva, roditeljske njege novorođenog djeteta, podizanja i odgoja djeteta, a koje su namijenjene roditelju ili drugoj osobi koja se brine o djetetu, prema posebnom propisu, sukladno članku 209. stavak 1. točka 11. Zakona, izuzima taj primitak od obveze doprinosa, bez obzira na iznos pomoći.
+(2) Radi primjene iznimke isplatitelj primitka mora osigurati dokaz. Dokaz je opći akt isplatitelja kojim su uređeni kriteriji za isplatu pomoći.

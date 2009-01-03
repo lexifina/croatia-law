@@ -1,0 +1,4 @@
+# Članak 243.
+(1) Postupak godišnjeg obračuna radi utvrđivanja prava na povrat plaćenog doprinosa za mirovinsko osiguranje na temelju generacijske solidarnosti koji je obračunan prema osnovici čiji je iznos viši od najviše godišnje osnovice provodi Porezna uprava. Postupak se pokreće na temelju pismenog zahtjeva obveznika doprinosa, sukladno članku 224. stavak 2. Zakona.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se najranije 1. veljače godine koja slijedi iza godine za koju se podnosi.
+(3) Zahtjev može podnijeti i obveznik za kojeg je tijekom obračunskog razdoblja primijenjena najviša godišnja osnovica, sukladno članku 206. stavak 3. i 4. Zakona, ako je za isto razdoblje kod drugog isplatitelja ostvario primitke prema kojima je plaćen doprinos obračunan prema dijelu osnovice koji prelazi iznos najviše godišnje osnovice.

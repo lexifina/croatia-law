@@ -1,0 +1,5 @@
+# Članak 155.
+(1) Prema utvrđenoj ili propisanoj mjesečnoj osnovici obračunava se doprinos na osnovicu, i to: posebni doprinos za korištenje zdravstvene zaštite u inozemstvu:
+1. prema osnovici iz članka 154. točka 1. ovoga Pravilnika (za osiguranika koji službeno boravi u inozemstvu) po stopi od 10% te se obračunava i dospijeva na naplatu istodobno s obračunom i dospijećem na naplatu ostalih doprinosa prema istoj osnovici, a ako se plaća ne isplaćuje doprinos se obračunava i dospijeva na naplatu do 15. dana u mjesecu za prethodni mjesec, sukladno članku 192. stavak 1. točka 2. Zakona
+2. prema osnovici iz članka 154. točka 2. ovoga Pravilnika (za osiguranika koji boravi na službenom putu u inozemstvu) po stopi od 20% te se obračunava i dospijeva na naplatu do 15. dana u mjesecu za prethodni mjesec, sukladno članku 192. stavak 1. točka 3. Zakona.
+(2) O iznosu obračunanog doprinosa, osnovici prema kojoj je obračunan, razdoblju na koje se obveza odnosi i o drugim podacima koje utvrdi, obveznik obračunavanja sastavlja obračunsku ispravu i izvješće sukladno članku 192. stavak 2. Zakona.

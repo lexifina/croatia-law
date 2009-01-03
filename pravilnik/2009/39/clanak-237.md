@@ -1,0 +1,6 @@
+# Članak 237.
+(1) Za utvrđivanje činjenica bitnih za obveze doprinosa za fizičku osobu - stranca uzima se u obzir podatak o tome ima li Republika Hrvatska s državom prebivališta odnosno uobičajenog boravišta te osobe sklopljen ugovor o socijalnom osiguranju.
+(2) Radi tumačenja i kontrole pravilne primjene odredaba međudržavnih ugovora o socijalnom osiguranju što ih je Republika Hrvatska sklopila s drugim državama, bitnih za prosudbu o tome postoji li u konkretnom slučaju obveza osiguranja i/ili obveza doprinosa u Republici Hrvatskoj, Porezna uprava će zatražiti tumačenje mjerodavnog ministarstva odnosno nositelje obveznih osiguranja.
+(3) Kada su tumačenja što ih daju nositelji obveznih osiguranja o obvezi osiguranja i/ili obvezi doprinosa u Republici Hrvatskoj različita, mjerodavna su pojedinačna tumačenja svakog od nositelja osiguranja.
+(4) Strancem se smatra fizička osoba koja u Republici Hrvatskoj nema prebivalište niti uobičajeno boravište a od tuzemnog isplatitelja ostvaruje primitke ili u Republici Hrvatskoj obavlja djelatnost po osnovi koje je, prema propisima o obveznim osiguranjima, propisana obveza osiguranja i/ili obveza doprinosa.
+2. Obveze doprinosa za strance iz države s kojom Republika Hrvatska nije sklopila ugovor o socijalnom osiguranju

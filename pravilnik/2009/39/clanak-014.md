@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Osnovica prema plaći utvrđuje se za svaki mjesec odnosno za dio mjeseca u kojemu je osiguranik od poslodavca prijavljen ili je trebao biti prijavljen na obvezna osiguranja, sukladno članku 23. stavak 1. Zakona.
+(2) Osnovica prema ostalim primicima utvrđuje se prema svakom pojedinačnom primitku te se smatra osnovicom za dane određenog mjeseca ili za mjesec ili za godinu na koju se ostali primici odnose, sukladno članku 220. stavak 1. Zakona.
+(3) Osnovica utvrđena prema ostalim primicima koji nisu neposredno vezani uz određeno razdoblje u osiguranju (dane ili mjesec ili godinu) smatra se osnovicom za godinu u kojoj su doprinosi plaćeni, sukladno članku 220. stavak 2. Zakona.
+(4) Kada se ostali primici isplaćuju istodobno s plaćom mogu činiti jedinstvenu mjesečnu osnovicu a iznimno, za osiguranika čija osnovica utvrđena prema plaći prelazi iznos najviše mjesečne osnovice, a s isplatom plaće istodobno se isplaćuju i ostali primici, osnovica i doprinosi za mirovinska osiguranja prema ostalim primicima obračunavaju se odvojeno od obračuna tih doprinosa prema plaći, sukladno članku 25. stavak 3. Zakona.

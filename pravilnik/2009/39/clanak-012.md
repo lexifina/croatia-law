@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Osnovica prema plaći se utvrđuje i iznosi doprinosa prema toj osnovici obračunavaju se istodobno s obračunom plaće odnosno prije njezine isplate, a najkasnije do posljednjeg dana u mjesecu prema plaći za prethodni mjesec, sukladno članku 24. stavak 1. i 2. Zakona.
+(2) Kada se plaća za određeni mjesec isplaćuje u više navrata, osnovica se utvrđuje i doprinosi obračunavaju za svaki dio tako isplaćene plaće, a za dio plaće koji se ne isplati do posljednjeg dana u mjesecu za prethodni mjesec osnovica se utvrđuje do posljednjeg dana u mjesecu za prethodni mjesec, sukladno članku 24. stavak 2. Zakona.
+(3) Prema plaći koja se daje u naravi ili u korištenju nekog prava osnovica se utvrđuje do posljednjeg dana u mjesecu u kojemu je izvršena isplata, ali najkasnije do posljednjeg dana u mjesecu za prethodni mjesec, sukladno članku 24. stavak 3. Zakona. Vrijednost plaće u naravi ili u korištenju prava utvrđuje se na način uređen propisima o porezu na dohodak.

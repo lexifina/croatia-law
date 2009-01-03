@@ -1,0 +1,4 @@
+# Članak 71.
+(1) Doprinosi se obračunavaju prema svakom pojedinačnom primitku prije njegove isplate i dospijevaju na naplatu istodobno s isplatom primitka, sukladno članku 115. stavak 1. Zakona.
+(2) Iznimno od odredbe stavka 1. ovoga članka, prema primitku što ga fizička osoba ostvari iz inozemstva i prema primitku što ga primatelj naplati od fizičke osobe koja nije poslovni subjekt, doprinosi se obračunavaju i dospijevaju na naplatu u roku od osam dana od dana kada je primitak ostvaren, a prema primitku koji je ostvaren u naravi ili u pravu doprinosi se obračunavaju i dospijevaju na naplatu do posljednjeg dana u mjesecu u kojemu je primitak ostvaren, sukladno članku 115. stavak 2. Zakona.
+(3) O vrsti i iznosima obračunanih doprinosa, osnovici prema kojoj su doprinosi obračunani, razdoblju na koje se obveza odnosi i o drugim podacima koje utvrdi, obveznik obračunavanja sastavlja obračunsku ispravu i izvješće sukladno članku 116. stavak 2. Zakona.

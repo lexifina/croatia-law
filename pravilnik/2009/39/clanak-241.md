@@ -1,0 +1,5 @@
+## VIII. MIROVANJE OBVEZE DOPRINOSA
+# Članak 241.
+(1) Za obveznika doprinosa kojemu se obveza utvrđuje rješenjem Porezne uprave podatke o datumu s kojim započinje i prestaje pravo na mirovanje obveza doprinosa Poreznoj upravi dostavljaju tijela koja utvrđuju prava osiguranika na naknadu plaće, sukladno članku 217. Zakona.
+(2) Obveznik doprinosa po osnovi obavljanja samostalnih djelatnosti obrta, slobodnog zanimanja, poljoprivrede i šumarstva ili ostale djelatnosti koji od te djelatnosti utvrđuje dobit i sam je dužan obračunati doprinose te o tome sastaviti i Poreznoj upravi dostaviti mjesečno izvješće, u slučaju kada ostvaruje pravo na naknadu plaće, uz mjesečno izvješće prilaže dokaz o pravu na mirovanje obveze, sukladno članku 219. stavak 1. Zakona.
+(3) Dokaz o pravu na mirovanje obveze doprinosa jest vjerodostojna isprava o trajanju prava na bolovanje za koje ima pravo na naknadu plaće, izdane od mjerodavnog liječnika odnosno pravomoćno rješenje tijela koje je utvrdilo pravo na naknadu plaće.

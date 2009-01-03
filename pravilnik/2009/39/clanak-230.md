@@ -1,0 +1,4 @@
+# Članak 230.
+(1) Isplatitelj primitka od kojega se utvrđuje drugi dohodak po osnovi naknade za rad osobe mlađe od 15 godina, sukladno članku 209. stavak 1. točka 12. Zakona, izuzima taj primitak od obveze doprinosa, bez obzira na iznos naknade.
+(2) Radi primjene iznimke isplatitelj primitka mora osigurati dokaz. Dokaz jesu pisani dokumenti isplatitelja o vrsti isporuke i o tome da se radi o djetetu mlađem od 15 godina (dokaz datuma rođenja primatelja), te da je riječ o poslovima za koje je prethodno odobrenje izdao inspektor rada odnosno poslovima sudjelovanja u snimanju filmova, pripremanja i izvođenja umjetničkih, scenskih ili drugih sličnih djela na način i u opsegu koji ne ugrožava zdravlje osobe, sve temeljem propisa o radu.
+(3) U postupku nadzora Porezna uprava, po potrebi, za konkretnu će isplatu pismeno zatražiti tumačenje tijela državne uprave mjerodavnog za tumačenje propisa o radu.

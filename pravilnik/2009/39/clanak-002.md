@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici obračunavanja doprinosa (dalje u tekstu: obveznik obračunavanja) jesu poslodavci i druge pravne i fizičke osobe, tijela državne i javne uprave i drugi poslovni subjekti kojima je Zakonom propisana obveza obračunavanja doprinosa za osigurane osobe. Obveznici obračunavanja jesu i sami osiguranici kada im je Zakonom propisana obveza obračunavanja doprinosa za njihovo osobno osiguranje.

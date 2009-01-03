@@ -1,0 +1,2 @@
+# Članak 117.
+Za osiguranika po osnovi djece i mladeži sa smetnjama u tjelesnom i duševnom razvoju na praktičnoj nastavi ili na obveznom praktičnom radu u pravnoj osobi za osposobljavanje (članak 10. stavak 1. točka 4. Zakona) doprinos obračunava škola i/ili visokoškolska ustanova i/ili druga ustanova koja osiguranika upućuje na praktičnu nastavu, stručnu praksu, stručno putovanje ili obvezan praktični rad, sukladno članku 163. točki 1. Zakona.

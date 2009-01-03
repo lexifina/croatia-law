@@ -1,0 +1,12 @@
+# Članak 218.
+(1) Iznos najviše godišnje osnovice za svaku godinu propisuje se naredbom koju na temelju članka članku 254. Zakona donosi ministar financija, i to kao umnožak iznosa prosječne plaće, koeficijenta 6,0 i brojke 12, sukladno članku 208. Zakona.
+(2) Najvišu godišnju osnovicu za pojedinog osiguranika utvrđuje Porezna uprava u postupku godišnjeg obračuna, sukladno članku 206. stavak 2. Zakona.
+(3) Sukladno članku 206. stavak 3. Zakona, najvišu godišnju osnovicu mogu primijeniti i:
+1. poslodavac kao obveznik utvrđivanja osnovice i obračunavanja doprinosa za osiguranika po osnovi radnog odnosa,
+2. predstavničko tijelo ili izvršno tijelo državne vlasti, jedinice područne (regionalne) samouprave i jedinice lokalne samouprave u kojoj osiguranik obavlja dužnost izabrane ili imenovane osobe kao obveznik utvrđivanja osnovice i obračunavanja doprinosa za osiguranika po osnovi izabrane ili imenovane osobe,
+3. poslodavac izaslanog radnika kao obveznik utvrđivanja osnovice i obračunavanja doprinosa za osiguranika po osnovi radnog odnosa - izaslanog radnika i
+4. isplatitelj primitaka od kojih se utvrđuje drugi dohodak kada ti primici podliježu obvezi doprinosa.
+(4) Radi primjene odredbe članka 206. stavak 2. Zakona isplatitelj primitka treba osigurati dokaze da je doprinos za isto razdoblje, od strane istoga isplatitelja, obračunan i plaćen do iznosa propisane najviše godišnje osnovice. Dokaz o tome jeste sažetak - pregled sastavljen na temelju dokumentacije isplatitelja.
+(5) Najvišu godišnju osnovicu mogu utvrditi i primijeniti i Porezna uprava i Financijska policija kada u postupku nadzora poslovanja poslodavca ili isplatitelja primitaka od kojih se utvrđuje drugi dohodak utvrđuju osnovicu za obračun doprinosa za određeno razdoblje i za određenog osiguranika, sukladno članku 206. stavak 4. Zakona.
+(6) Kada je za određenog osiguranika i od istog obveznika utvrđivanja osnovice i obračunavanja doprinosa ispunjen uvjet te je doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti za određenu godinu obračunan i plaćen do iznosa najviše godišnje osnovice, tada prema primicima koji se odnose na istu godinu i isplaćuju se nakon što je taj doprinos obračunan i plaćen do iznosa najviše godišnje osnovice, nema obveze doprinosa za mirovinsko osiguranje na temelju generacijske solidarnosti, sukladno članku 207. stavak 2. Zakona.
+(7) Obveza doprinosa do iznosa najviše godišnje osnovice primjenjuje se bez obzira na broj dana provedenih u osiguranju određene godine, sukladno članku 206. stavak 1. Zakona.

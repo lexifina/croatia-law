@@ -1,0 +1,3 @@
+# Članak 223.
+(1) Isplatitelj primitka od kojega se utvrđuje drugi dohodak po osnovi stipendije i iznad neoporezivog iznosa, sukladno članku 209. stavak 1. točka 5. Zakona, bez obzira na iznos stipendije izuzima taj primitak od obveze doprinosa.
+(2) Radi primjene iznimke isplatitelj stipendije mora osigurati dokaz. Dokaz jeste ugovor o stipendiji sklopljen između isplatitelja i primatelja prije početka isplate stipendije ili rješenje kojim se primatelju utvrđuje pravo na stipendiju, te potvrda izdana od škole odnosno visokog učilišta da primatelj stipendije ima status učenika odnosno redovitog studenta za svaku školsku odnosno akademsku godinu za koju se stipendija isplaćuje.

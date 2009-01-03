@@ -1,0 +1,4 @@
+## IV. UTVRĐIVANJE OBVEZE I OSNOVICE TE OBRAČUN IZNOSA DOPRINOSA RJEŠENJEM POREZNE UPRAVE PREMA GODIŠNJOJ OSNOVICI
+# Članak 208.
+(1) Obveznicima doprinosa po osnovi obavljanja druge djelatnosti iz članka 7. točka 6. Zakona Porezna uprava rješenjem utvrđuje obvezu doprinosa, iznos osnovice te vrste i godišnji iznos svakoga od doprinosa koje je dužan plaćati, sukladno članku 240. stavak 1. Zakona, vezano uz članak 183. stavak 2. Zakona.
+(2) Obveza doprinosa utvrđuje se na temelju službenih podataka o osobi koja ima uređen status u obveznim osiguranjima a pored toga obavlja i samostalnu djelatnost iz članka 7. točke 1. do 5. Zakona i koja je po osnovi obavljanja te djelatnosti upisana u registar obveznika poreza na dohodak ili poreza na dobit, vezano uz članak 5. stavak 2. točke 1. i 3. Zakona.

@@ -1,0 +1,5 @@
+## VI. IZNIMKE OD OBVEZE DOPRINOSA I PROMJENE NAČINA UTVRĐIVANJA OPOREZIVOG DOHOTKA
+# Članak 219.
+(1) Isplatitelj primitka od kojega se utvrđuje drugi dohodak po osnovi naknade za isporučeno autorsko pravo i/ili srodna prava, sukladno članku 209. stavak 1. točka 1. Zakona, izuzima primitak po toj osnovi od obveze doprinosa.
+(2) Radi primjene iznimke isplatitelj primitka mora osigurati dokaz. Dokaz jeste prethodno obračunu sklopljen pisani ugovor s autorom kojim se stječe pravo iskorištavanja autorskog prava, u skladu s propisima o autorskom pravu i srodnim pravima. Kada je riječ o primitku za isporuku autorskog djela za koji nije obvezatno zaključivanje ugovora u pisanom obliku, sukladno odredbama propisa o autorskom pravu i srodnim pravima, isplatitelj primitka dužan je u svojim evidencijama osigurati podatke o vrsti isporuke i dokaze da se radi o isporuci i isplaćenoj naknadi za iskorištavanje autorskog prava.
+(3) U postupku nadzora ili posebnom postupku Porezna uprava, po potrebi, za konkretnu će isporuku pismeno zatražiti tumačenje tijela državne uprave mjerodavnog za tumačenje propisa koji uređuju pitanja prava intelektualnog vlasništva.

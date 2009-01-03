@@ -1,0 +1,5 @@
+# Članak 246.
+(1) U postupku godišnjeg obračuna utvrđuje se iznos ukupne osnovice iz svih osnova te ukupno obračunan i ukupno uplaćen iznos doprinosa za mirovinsko osiguranje na temelju generacijske solidarnosti za određeno razdoblje - godinu.
+(2) Ukupnom osnovicom smatra se iznos svih pojedinačnih osnovica koje se odnose na isto obračunsko razdoblje - godinu, sukladno članku 220. stavak 1. točka 3. Zakona, prema kojima je obračunan i do dana podnošenja zahtjeva za godišnji obračun uplaćen doprinos.
+(3) Ukupno obračunanim iznosom doprinosa smatra se zbroj svih pojedinačno obračunanih doprinosa koji su i evidentirani na temelju obveznih izvješća i/ili rješenja prema pojedinačnim osnovicama.
+(4) Ukupno uplaćenim iznosom doprinosa smatra se zbroj svih pojedinačno uplaćenih doprinosa koji su obračunani prema pojedinačnim osnovicama uz uvjet da su uplaćeni do dana podnošenja zahtjeva za godišnji obračun, bez obzira na to tko je bio obveznik plaćanja doprinosa - sam osiguranik ili je u ime i u korist osiguranika doprinose uplatio poslodavac ili isplatitelj primitka od kojega se utvrđuje drugi dohodak.

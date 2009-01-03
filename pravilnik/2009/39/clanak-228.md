@@ -1,0 +1,4 @@
+# Članak 228.
+(1) Isplatitelj primitka od kojega se utvrđuje drugi dohodak po osnovi naknade športskom sucu i delegatu, sukladno članku 209. stavak 1. točka 10. Zakona, izuzima taj primitak od obveze doprinosa, bez obzira na iznos naknade.
+(2) Radi primjene iznimke isplatitelj naknade mora osigurati dokaz. Dokaz jesu službeni podaci isplatitelja naknade da je riječ o naknadi za sudjelovanje na natjecanjima amaterskih športskih klubova koja se održavaju u skladu s aktom o sustavu natjecanja određenoga nacionalnog športskog saveza, na natjecanjima učeničkih i studentskih športskih klubova te na međunarodnim natjecanjima tih klubova i nacionalnih selekcija koja se, u skladu s propisima o športu, održavaju u Republici Hrvatskoj.
+(3) U postupku nadzora Porezna uprava, po potrebi, za konkretnu će isplatu pismeno zatražiti tumačenje mjerodavnoga nacionalnog športskog saveza odnosno Hrvatskog olimpijskog odbora.

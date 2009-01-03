@@ -1,0 +1,2 @@
+# Članak 121.
+Za ostale osiguranike mirovinskog osiguranja u određenim okolnostima i zdravstvenog osiguranja zaštite zdravlja na radu za slučaj ozljede na radu i profesionalne bolesti (članak 10. stavak 1. točke 5. do 15. Zakona) obračun doprinosa obavlja tijelo državne uprave ili javna ustanova, druga pravna ili fizička osoba ili drugi poslovni subjekt koji imaju obvezu izvršiti prijavu osiguranika na osiguranje, sukladno članku 163. točka 3. Zakona.

@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Postupak utvrđivanja osnovice i obračunavanja doprinosa, rokovi utvrđivanja osnovice i obračuna i dospijeća za uplatu kako je to uređeno člancima 9. do 18. ovoga Pravilnika za osiguranike po osnovi radnog odnosa, primjenjuju se i pri utvrđivanju osnovice i obračunavanju doprinosa za osiguranike po osnovi izabranih ili imenovanih osoba, a obveze koje su tim člancima propisane poslodavcu odnose se i na predstavničko tijelo ili izvršno tijelo državne vlasti, jedinice područne (regionalne) samouprave ili jedinice lokalne samouprave u kojoj osiguranik obavlja dužnost izabrane ili imenovane osobe.
+(2) O vrsti i iznosima obračunanih doprinosa, osnovici prema kojoj su doprinosi obračunani, razdoblju na koje se obveza odnosi i o drugim podacima koje utvrdi, obveznik obračunavanja sastavlja obračunsku ispravu i izvješće, sukladno članku 34. stavak 2. Zakona.
+3. Za osiguranika po osnovi radni odnos - izaslani radnik

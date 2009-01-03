@@ -1,0 +1,6 @@
+# Članak 26.
+(1) Iznimno od odredbe članka 25. ovoga Pravilnika, za osobu koja se prvi put zapošljava obračunavaju se doprinosi iz osnovice, i to:
+1. doprinos za mirovinsko osiguranje - po stopi od 20%, odnosno po stopi od 15% za osiguranika mirovinskog osiguranja na temelju individualne kapitalizirane štednje
+2. doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje (za osiguranika tog osiguranja) - po stopi od 5%.
+(2) Za osiguranika kojemu godina dana od prvog zaposlenja navršava tijekom mjeseca doprinosi se obračunavaju odvojeno i to: razdoblje za u kojemu ima status osobe koja se prvi put zapošljava te se doprinosi obračunavaju prema stavku 1. ovoga članka i za razdoblje u kojemu nema status osobe koja se prvi put zapošljava, za koje se doprinosi obračunavaju prema članku 25. ovoga Pravilnika.
+(3) Za osobu koja se prvi put zapošljava poslodavac je dužan o tome osigurati dokaz. Dokaz je ispis službenih podataka Hrvatskog zavoda za mirovinsko osiguranje o statusu osiguranika iz kojega je vidljivo da je riječ o osobi koja do početka osiguranja po prijavi tog poslodavca, nema evidentiran staž u mirovinskom osiguranju po osnovi rada ili obavljanja samostalne djelatnosti.

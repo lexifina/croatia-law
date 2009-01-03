@@ -1,0 +1,5 @@
+# Članak 60.
+(1) Osnovica prema poduzetničkoj plaći utvrđuje se i iznosi pojedinih doprinosa prema toj osnovici obračunavaju se istodobno s obračunom poduzetničke plaće odnosno prije njezine isplate, a najkasnije do posljednjeg dana u mjesecu prema plaći koja se odnosi na prethodni mjesec, sukladno članku 83. stavak 1. Zakona.
+(2) Ako se poduzetnička plaća za određeni mjesec isplaćuje u više navrata, osnovica se utvrđuje i doprinosi obračunavaju za svaki dio tako isplaćene plaće, a za dio plaće određenog mjeseca koji nije isplaćen do posljednjeg dana u mjesecu za prethodni mjesec osnovica se utvrđuje do posljednjeg dana u mjesecu za prethodni mjesec.
+(3) Prema poduzetničkoj plaći koja se daje u naravi osnovica se utvrđuje do posljednjeg dana u mjesecu u kojemu je izvršeno davanje, ali najkasnije do posljednjeg dana u mjesecu za prethodni mjesec, a iznos tako isplaćene plaće utvrđuje se na način uređen propisima o porezu na dohodak.
+(4) Doprinosi obračunani prema poduzetničkoj plaći dospijevaju na naplatu istodobno s isplatom plaće, a najkasnije do posljednjeg dana u mjesecu za prethodni mjesec, sukladno članku 83. stavak 1. Zakona.

@@ -1,0 +1,2 @@
+# Članak 109.
+Za osiguranika po osnovi učenika i studenata na dodiplomskom studiju za vrijeme praktične nastave i stručne prakse kod poslodavaca te za vrijeme stručnih putovanja (članak 10. stavak 1. točka 2. Zakona) doprinose obračunava škola i/ili visokoškolska ustanova i/ili druga ustanova koja osiguranika upućuje na praktičnu nastavu, stručnu praksu, stručno putovanje ili obvezan praktični rad, sukladno članku 163. točka 1. Zakona.

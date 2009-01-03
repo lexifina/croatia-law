@@ -1,0 +1,4 @@
+## XIII. PRIMJENA PROPISA I UTVRĐIVANJE OBVEZE
+# Članak 256.
+(1) Za osiguranika po osnovi radnog odnosa kojega je poslodavac, prema sudskoj presudi ili nagodbi u tijeku sudskog postupka, dužan prijaviti na obvezna osiguranja ili za kojega je dužan utvrditi osnovicu i obračunati te uplatiti doprinose za razdoblje u osiguranju zaključno do 31. prosinca 2002. obveze se utvrđuju za vrste doprinosa i primjenom stopa za obračun uređenih propisima važećih na dan 31. prosinca 2002., sukladno članku 238. stavak 2. Zakona.
+(2) Osnovica jest plaća koju je poslodavac bio dužan isplatiti za to razdoblje uz primjenu odredaba o najnižoj mjesečnoj osnovici propisanoj za određeno razdoblje osiguranja i uz primjenu odredaba o dospijeću za uplatu doprinosa važećima za to razdoblje. Zatezne kamate na iznose dospjelih obveza obračunavaju se primjenom stopama važećih unutar razdoblja od nastanka obveze do dana uplate doprinosa.

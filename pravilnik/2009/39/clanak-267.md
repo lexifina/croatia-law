@@ -1,0 +1,2 @@
+# Članak 267.
+Osnovice koje objavljuje ministar financija, sukladno odredbi članka 254. stavak 1. Zakona, odnose se na razdoblje koje započinje 1. siječnja (osnovica za siječanj) a završava 31. prosinca (osnovica za prosinac) godine na koju se odnose - kada je riječ o mjesečnoj osnovici, odnosno na razdoblje koje započinje 1. siječnja a završava 31. prosinca godine na koju se odnose - kada je riječ o godišnjoj osnovici.

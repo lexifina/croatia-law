@@ -1,0 +1,3 @@
+# Članak 231.
+(1) Isplatitelj primitka od kojega se utvrđuje drugi dohodak po osnovi rente koju bivši poslodavac isplaćuje članu obitelji bivšeg radnika, sukladno članku 209. stavak 1. točka 13. Zakona, izuzima taj primitak od obveze doprinosa, bez obzira na iznos rente.
+(2) Radi primjene iznimke isplatitelj potpore mora osigurati dokaz. Dokaz jest pravomoćno rješenje suda odnosno nagodba u pisanom obliku isplatitelja i primatelja temeljem koje poslodavac ima obvezu novčano, u obliku rente, obeštetiti članove obitelji radnika koji je kod bivšeg poslodavca pretrpio ozljedu na radu ili je obolio od profesionalne bolesti.

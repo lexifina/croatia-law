@@ -1,0 +1,4 @@
+# Članak 238.
+(1) Prema primicima od kojih se utvrđuje drugi dohodak a isplaćuju se strancu - osobi iz države s kojom Republika Hrvatska nije sklopila ugovor o socijalnom osiguranju, obveza je doprinosa u skladu s odredbama Zakona, bez obzira na status te osobe u osiguranju u državi njezina prebivališta odnosno uobičajenog boravišta, sukladno članku 214. Zakona.
+(2) Fizička osoba iz države s kojom Republika Hrvatska nije sklopila ugovor o socijalnom osiguranju a u Republici Hrvatskoj obavlja djelatnost po osnovi koje je, prema propisima o obveznim osiguranjima propisana obveza osiguranja, obveznik je doprinosa po toj osnovi u skladu s odredbama Zakona bez obzira na status te osobe u osiguranju u državi prebivališta odnosno uobičajenog boravišta, sukladno članku 214. Zakona.
+3. Obveze doprinosa za strance iz države s kojom je Republika Hrvatska sklopila ugovor o socijalnom osiguranju
