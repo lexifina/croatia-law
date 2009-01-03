@@ -1,0 +1,4 @@
+# Članak 10.
+Na dospjele a neuplaćene obroke premije obračunavaju se zatezne kamate po stopi utvrđenoj Zakonom o obveznim odnosima (»Narodne novine« broj 35/05. i 41/08.)
+Na sredstva pričuve odnosno ostvarenog viška prihoda nad izdacima iz članka 9. stavka 2. ove Odluke, a koja se prema posebnoj odluci Upravnog vijeća Zavoda plasiraju izvan namjene dopunskog zdravstvenog osiguranja, obvezno se obračunavaju kamate po eskontnoj stopi godišnje. U slučaju zakašnjenja pri povratu tih sredstava obračunavaju se zatezne kamate po stopi iz stavka 1. ovog članka.
+Ugovarateljima dopunskog zdravstvenog osiguranja (u daljnjem tekstu: ugovaratelj) koji premiju plaćaju putem trajnog naloga uspostavljenog ugovorom između Zavoda i financijske organizacije, ne obračunavaju se kamate iz stavka 1. ovog članka ako je ugovorom o trajnom nalogu utvrđen prijenos tih sredstava poslije dospijeća premije utvrđene policom.

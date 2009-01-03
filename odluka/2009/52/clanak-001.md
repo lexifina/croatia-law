@@ -1,0 +1,3 @@
+# Članak 1.
+Sredstva za provođenje dopunskog zdravstvenog osiguranja u Hrvatskom zavodu za zdravstveno osiguranje (u daljnjem tekstu: Zavod) osiguravaju se iz uplaćenih premija dopunskog zdravstvenog osiguranja (u daljnjem tekstu: premija) osiguranika, odnosno premija uplaćenih iz sredstava državnog proračuna u skladu sa sklopljenim ugovorima o dopunskom zdravstvenom osiguranju.
+Premije se ugovaraju u visini i s rokovima dospijeća u skladu s Pravilima uspostavljanja i provođenja dopunskog zdravstvenog osiguranja, Općim uvjetima ugovora o dopunskom zdravstvenom osiguranju i Odlukom o vrsti i cijeni police dopunskog zdravstvenog osiguranja.
