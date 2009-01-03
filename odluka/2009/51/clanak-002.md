@@ -1,0 +1,2 @@
+# Članak 2.
+Zavod u okviru dopunskog zdravstvenog osiguranja u skladu s člankom 10. Zakona o dobrovoljnom zdravstvenom osiguranju (»Narodne novine« broj 85/06. i 150/08.) osiguranicima osigurava pokriće sudjelovanja u troškovima zdravstvene zaštite iz obveznog zdravstvenog osiguranja iz članka 16. stavka 3. i 4. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08. - u daljnjem tekstu: Zakon) osnovom police koja nosi oznaku PC03.
