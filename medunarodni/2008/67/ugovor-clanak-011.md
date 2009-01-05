@@ -1,0 +1,11 @@
+# Članak 11.
+RJEŠAVANJE SPOROVA
+1. U slučaju spora između bilo koje dvije ili više stranaka u vezi s tumačenjem odnosno primjenom ovog Protokola, stranke o kojima je riječ zatražit će rješenje spora putem pregovora ili na bilo koji drugi miroljubivi način po svom izboru. Stranke u sporu o istom će obavijestiti Izvršno tijelo.
+2. Prilikom ratifikacije, prihvata, odobrenja ili pristupa ovom Protokolu, ili u bilo kojem trenutku nakon toga, stranka koja nije organizacija regionalne gospodarske integracije može izjaviti u pisanoj ispravi podnesenoj depozitaru da u pogledu bilo kojeg spora u vezi s tumačenjem ili primjenom Protokola, priznaje kao obvezno ipso facto i bez posebnog dogovora, u odnosu na svaku stranku koja je prihvatila istu obvezu, jedno od ili oba sljedeća sredstva za rješavanje sporova:
+(a) podnošenje spora Međunarodnom sudu,
+(b) arbitražu sukladno postupcima što će ih usvojiti stranke na zasjedanju Izvršnog tijela, što je prije moguće, u dodatku o arbitraži.
+Stranka koja predstavlja organizaciju regionalne gospodarske integracije može podnijeti izjavu u istu svrhu, a u vezi s arbitražom sukladno postupcima o kojima se govori u prethodnom podstavku (b).
+3. Izjava dana na temelju stavka 2. ostaje na snazi sve do isteka, sukladno vlastitim odredbama, ili tri mjeseca nakon što pisana obavijest o njenom opozivu bude predana depozitaru.
+4. Nova izjava, obavijest o opozivu ili pak istek izjave neće ni na koji način utjecati na tekući postupak Međunarodnoga suda odnosno arbitražnog suda, osim ako stranke u sporu ne odluče drukčije.
+5. Osim u slučaju da su stranke u sporu prihvatile isti način rješavanja spora iz stavka 2., ukoliko dvanaest mjeseci po obavijesti jedne stranke drugoj o postojanju spora među njima, rečene stranke nisu bile u stanju riješiti spor putem sredstava navedenih u stavku 1., spor će, na zahtjev bilo koje od strana u sporu, biti podnesen na mirenje.
+6. Sukladno stavku 5. bit će osnovan odbor za mirenje. Odbor će biti sastavljen od jednakog broja članova što ih je imenovala svaka od zainteresiranih stranaka, ili, tamo gdje stranke u mirenju dijele iste interese, od strane skupine koja te interese i sama dijeli, te predsjedavajućega kojeg će zajedno odabrati na navedeni način imenovani članovi. Odbor će donijeti preporuku, koju će stranke u sporu razmotriti u dobroj vjeri.
