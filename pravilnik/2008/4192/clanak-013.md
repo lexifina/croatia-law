@@ -1,0 +1,2 @@
+# Članak 13.
+Identifikacija i registracija u skladu s člankom 3. stavkom 1. točkom (c) Pravilnika o veterinarskim i zootehničkim pregledima određenih životinja i proizvoda u prometu s državama članicama Europske unije[26]43, osim u slučajevima životinja za klanje i registriranih kopitara obavlja se na mjestu odredišta životinja, ovisno o slučaju nakon razdoblja promatranja utvrđenog člankom 8. stavkom 5. ovoga Pravilnika.

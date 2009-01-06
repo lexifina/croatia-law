@@ -1,0 +1,3 @@
+# Članak 11.
+1) Ne dovodeći u pitanje odredbe ovoga Poglavlja, granični veterinarski inspektor ili nadležno tijelo u slučajevima kada postoji sumnja u postupanje protivno veterinarskim propisima ili sumnja u identitet životinje obavljaju veterinarske preglede koje inspektor ili nadležno tijelo smatra potrebnim.
+2) Nadležno tijelo poduzima odgovarajuće mjere u slučaju postupanja protivno važećim propisima, osobito kad se utvrdi da certifikati ili dokumenti ne odgovaraju stvarnom stanju u odnosu na životinje, da identifikacijske oznake nisu u skladu s važećim propisima, da životinje nisu prijavljene graničnoj veterinarskoj postaji ili nisu otpremljene na prvobitno planirano odredište.

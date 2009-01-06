@@ -1,0 +1,2 @@
+# Članak 25.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o načinu obavljanja veterinarsko-zdravstvenog pregleda i kontrola živih životinja u prometu preko granice Republike Hrvatske (»Narodne novine« broj, 147/04) i Pravilnik o načinu obavljanja veterinarsko-zdravstvenih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske (»Narodne novine« broj, 147/04).
