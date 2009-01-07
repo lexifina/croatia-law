@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Danom upisa Agencije u sudski registar prenose se poslovi provedbe programa koji se financiraju iz sredstava Europske unije iz djelokruga regionalne razvojne politike Republike Hrvatske iz Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva u Agenciju.
+(2) Pismohranu i ostalu dokumentaciju, opremu te financijska prava i obveze iz djelokruga poslova iz stavka 1., ovog članka preuzima Agencija.
+(3) Državnim službenicima zaposlenim na poslovima provedbe programa financiranja iz Europske unije u Ministarstvu regionalnog razvoja, šumarstva i vodnoga gospodarstva, a koji su u službi na dan stupanja na snagu ove Uredbe, ponudit će se sporazumni prestanak državne službe i prijelaz u Agenciju na radna mjesta prema općim propisima o radu.
+(4) U svrhu provedbe stavaka 2. i 3. ovog članka, ministar nadležan za regionalni razvoj sklopit će s privremenim ravnateljem Agencije protokol o prijenosu poslovanja iz stavka 1. ovog članka, u roku od 60 dana od dana stupanja na snagu ove Uredbe.
+(5) Državni službenici iz stavka 3. ovog članka koji ne prihvate sporazumni prestanak državne službe i prelazak u Agenciju, rasporedit će se na odgovarajuća službenička mjesta u Ministarstvu regionalnog razvoja, šumarstva i vodnog gospodarstva sukladno propisima o državnim službenicima.
