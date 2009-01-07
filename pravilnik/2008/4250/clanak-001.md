@@ -1,0 +1,9 @@
+# Članak 1.
+U Pravilniku o načinu isplate novčanih primanja i drugih troškova (»Narodne novine« broj 52/2005.) članak 5. stavak 1. mijenja se i glasi:
+»Isplatu novčanih prava iz članka 2. ovoga Pravilnika korisnicima prava obavlja Ministarstvo uplatom na štedne knjižice i tekuće račune jednom mjesečno putem Hrvatske poštanske banke ili druge poslovne banke koju izabere korisnik prava i s kojom Ministarstvo ima sklopljen Ugovor o poslovnoj suradnji.«
+Iza stavka 1. dodaju se novi stavci 2., 3., 4. i 5. koji glase:
+»2) Korisnik prava podatke o poslovnoj banci i podatke o štednoj knjižici ili tekućem računu za isplatu novčanih prava iz članka 2. ovoga Pravilnika dostavlja tijelu uprave koje rješava u prvom stupnju, a tijelo uprave koje rješava u prvom stupnju će podatke o poslovnoj banci i tekućem računu ili podatke o promjeni poslovne banke i tekućeg računa unijeti u zahtjev iz članka 6. stavka 2. ovoga Pravilnika u slučaju kada se radi poslovnoj banci s kojom je Ministarstvo sklopilo Ugovor o poslovnoj suradnji.
+3) Kada korisnik prava izabere poslovnu banku s kojom Ministarstvo nema sklopljen Ugovor o poslovnoj suradnji, tijelo uprave koje rješava u prvom stupnju će o izabranoj poslovnoj banci ili promjeni poslovne banke odmah po prijemu podataka obavijestiti Ministarstvo u smislu potrebe sklapanja Ugovora o poslovnoj suradnji.
+4) Ministarstvo je obvezno u roku od dva mjeseca od dana prijema zahtjeva iz članka 6. stavka 2. ovoga Pravilnika izvršiti isplatu novčanih prava putem izabrane ili promijenjene poslovne banke s kojom ima sklopljen Ugovor o poslovnoj suradnji.
+5) Ministarstvo je obvezno u roku od šest mjeseci od dana prijema obavijesti o poslovnoj banci i tekućem računu iz članka 5. stavka 3. ovoga Pravilnika izvršiti isplatu novčanih prava putem izabrane ili promijenjene poslovne banke.«
+Dosadašnji stavak 2. postaje stavak 6.
