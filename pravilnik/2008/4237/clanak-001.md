@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti koje mora ispunjavati ovlaštena stručna organizacija za obavljanje poslova organiziranja i jedinstvenog provođenja tehničkih pregleda vozila, organiziranja poslova registracije vozila u stanicama za tehnički pregled vozila i izdavanja pokusnih pločica kao javne ovlasti te obavljanje drugih poslova iz članka 273. Zakona o sigurnosti prometa na cestama koji su joj dodijeljeni kao javna ovlast.
