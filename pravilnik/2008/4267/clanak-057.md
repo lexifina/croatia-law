@@ -1,0 +1,9 @@
+# Članak 57.
+1) Prigovor iz članka 56. stavka 2. ovoga Pravilnika stranka podnosi u dva primjerka Povjerenstvu putem Ravnateljstva u roku od osam (8) dana od dana primitka odluke.
+2) Ukoliko je stranka izjavila prigovor na temelju članka 56. stavka 2. ovoga Pravilnika, a u svezi s člankom 44. stavkom 3. točkom a). ovoga Pravilnika, stranka nije dužna pridržavati se roka navedenoga u članku 45. stavku 2. ovoga Pravilnika do zaprimanja odluke Povjerenstva po prigovoru.
+3) Ukoliko Povjerenstvo po prigovoru na odluku iz članka 44. st.3 točke a. ovoga Pravilnika donese pozitivnu odluku, korisnik je dužan u roku od tri (3) dana od dana zaprimanja odluke Povjerenstva, vratiti Ravnateljstvu sve zaprimljene nepotpisane ugovore koji proizlaze iz odluke na koju je korisnik podnio prigovor.
+4) Ravnateljstvo će u roku od pet (5) dana od dana zaprimanja ugovora iz stavka 3. ovog članka od strane korisnika izdati novi ugovor o dodjeli sredstava iz IPARD programa koji je korisnik dužan vratiti u Ravnateljstvo u roku od 15 dana od dana zaprimanja s javnobilježničkom ovjerom potpisa.
+5) Ravnateljstvo će uz novu odluku o dodjeli sredstava iz IPARD programa, korisniku izdati i novi ugovor o dodjeli sredstava iz IPARD programa, stavljajući van snage odluku o dodjeli sredstava iz IPARD programa na koju je korisnik podnio prigovor.
+6) Ukoliko Povjerenstvo donese negativnu odluku, korisnik je dužan u roku od 15 dana od dana zaprimanja odluke povjerenstva dostaviti već zaprimljene ugovore o dodjeli sredstava iz IPARD programa s javnobilježničkom ovjerom potpisa.
+7) Ukoliko korisnik ne postupi u skladu s propisanim u stavku 6. ovoga članka smatra se da je odustao od sklapanja ugovora o dodjeli sredstava iz IPARD programa.
+8) Odluke Povjerenstva po prigovorima iz članka 56. stavka 2. ovog Pravilnika su konačne.
