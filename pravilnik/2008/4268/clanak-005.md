@@ -1,0 +1,2 @@
+# Članak 5.
+Provedba Mjere 3.1 iz IPARD programa ima za cilj doprinijeti provedbi Zajedničke poljoprivredne politike i ostalih srodnih politika u domeni razvitka osnovne ruralne infrastrukture, osobito razvitak i unapređenje osnovne infrastrukture za poticanje gospodarskih i društvenih aktivnosti za uravnotežen rast, unapređenje uvjeta života i rada u ruralnim područjima, smanjenje depopulacije ruralnih područja kroz poticanje aktivnog stanovništva da ostane ili se vrati u ruralna područja.

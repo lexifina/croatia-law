@@ -1,0 +1,7 @@
+# Članak 18.
+Nakon objave natječaja iz članka 17. stavka 2. ovog Pravilnika, podnositelji dostavljaju prijavu zajedno s propisanom dokumentacijom u dva primjerka (original i preslika numeriranih stranica) na obrascima koji su sastavni dio ovog Pravilnika (Prilog V). Prijave se podnose isključivo preporučenom poštom u roku i na adresu objavljenu u natječaju.
+Pored navedene dokumentacije iz stavka 1 ovog članka podnositelj će u zasebnoj omotnici dostaviti Dosje natječaja i Obavijest o nabavi koristeći standardne dokumente iz članka 20. stavka 2. ovog Pravilnika (preslika i original) s naznakom »za Odjel javne nabave u SAPARD/IPARD programu - NE OTVARAJ«.
+Prijave po objavljenom natječaju iz članka 17. ovog Pravilnika obrađuju se po redoslijedu zaprimanja.
+Nakon provjere kompletnosti i provjere prihvatljivosti te provedenog postupka otvaranja i ocjenjivanja pristiglih ponuda u postupku javne nabave i kontrole na terenu bit će sastavljena rang lista sukladno kriterijima rangiranja iz članka 13. ovog Pravilnika.
+U slučaju kada dva ili više projekata imaju isti broj bodova, prednost će imati onaj s ranijim datumom podnošenja kompletne prijave.
+Ukoliko dva ili više projekata imaju isti broj bodova i isti datum podnošenja kompletne prijave, Ravnateljstvo će provesti postupak izvlačenja u prisutnosti mjesno nadležnoga javnog bilježnika te će o provedenom postupku obavijestiti podnositelje pisanim putem.
