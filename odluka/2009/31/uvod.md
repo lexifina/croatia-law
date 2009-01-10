@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 5., članka 93. stavka 6. i članka 94. stavka 2. Zakona o kreditnim institucijama (»Narodne novine«, br. 117/2008.) te članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donio je
