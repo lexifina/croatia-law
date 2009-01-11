@@ -1,0 +1,2 @@
+# Članak 46.
+Za pruženu zdravstvenu zaštitu za slučaj ozljede na radu i profesionalne bolesti na svim razinama zdravstvene djelatnosti, ugovorne zdravstvene ustanove, ugovorna trgovačka društva i ugovorni privatni zdravstveni radnik uključeni u osnovnu mrežu zdravstvene djelatnosti obvezni su ispostavljati račune u obliku i na način propisan od strane Zavoda, primjenom cijena utvrđenih člankom 33., 34., 35., 36., 37., 38., 39., 40., 41., 42. i 43. ove Odluke, te ih dostavljati Zavodu na daljnju obradu.
