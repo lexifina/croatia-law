@@ -1,0 +1,2 @@
+# Članak 13.
+Osiguranici dopunskoga zdravstvenog osiguranja radi ostvarivanja prava na pokriće troškova zdravstvene zaštite iz članka 6. i 7. ovoga Pravilnika na teret sredstava dopunskoga zdravstvenog osiguranja obvezni su prilikom korištenja zdravstvene zaštite iz obveznoga zdravstvenog osiguranja uz iskaznicu zdravstveno osigurane osobe Zavoda predočiti i iskaznicu dopunskoga zdravstvenog osiguranja osiguravatelja ili Zavoda, odnosno policu dopunskoga zdravstvenoga osiguranja.

@@ -1,0 +1,2 @@
+# Članak 14.
+Zdravstvene ustanove, privatni zdravstveni radnici te isporučitelji ortopedskih i drugih pomagala koji su sa Zavodom sklopili ugovor o provođenju zdravstvene zaštite, odnosno o isporuci ortopedskih i drugih pomagala obvezni su za osiguranika osiguravatelju, odnosno Zavodu ispostaviti račun za pokriće troškova pružene zdravstvene zaštite, odnosno isporučenih ortopedskih i drugih pomagala iz obveznog zdravstvenog osiguranja.
