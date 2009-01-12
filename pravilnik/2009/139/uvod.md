@@ -1,0 +1,1 @@
+Temeljem odredbi članka 175. stavka 2. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08 i 146/08) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) je na sjednici održanoj 7. siječnja 2009. godine donijela
