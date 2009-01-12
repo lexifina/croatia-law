@@ -1,0 +1,15 @@
+# Članak 54.
+Suglasnost obračuna
+1. Ako Komisija smatra da izdaci u okviru IPARD programa nisu nastali u skladu s primjenjivim pravilima, odlučuje koje iznose treba isključiti iz financiranja Zajednice.
+2. Komisija procjenjuje iznose koje treba isključiti na temelju ozbiljnosti evidentirane neusklađenosti. Ona propisno razmatra prirodu i ozbiljnost neusklađenosti i financijske štete uzrokovane Zajednici.
+3. Ako, kao posljedica bilo kojeg ispitivanja, Komisija smatra da izdatak nije učinjen u skladu s primjenjivim pravilima pravila, svoje nalaze javlja DNA-u i NDO-u, i ukazuje na korektivne mjere potrebne kako bi se osigurala buduća usklađenost s navedenim pravilima.
+Priopćenje se poziva na ovaj članak. NDO je dužan odgovoriti u roku od dva mjeseca od primitka priopćenja, uz primjerak DNA-u i tijelu nadležnom za reviziju, i Komisija može mijenjati svoj položaj uslijed toga. U opravdanim slučajevima, Komisija se može složiti da produlji razdoblje za odgovor.
+Nakon isteka razdoblja za odgovor, Komisija saziva dvostrani sastanak i obje stranke nastoje doći do sporazuma o mjerama koje je potrebno poduzeti kao i o procjeni ozbiljnosti povrede i financijske štete uzrokovane proračunu Zajednice.
+4. U roku od dva mjeseca od datuma primitka zapisnika s dvostranog sastanka iz trećeg podstavka stavka 3., NDO javlja sve zatražene informacije tijekom sastanka ili sve druge informacije koje smatra korisnima za tekuće ispitivanje.
+U opravdanim slučajevima, Komisija može, na utemeljen zahtjev NDO-a, odobriti produljenje razdoblja navedenog u prvome podstavku. Zahtjev se upućuje Komisiji, uz primjerak DNA-u i tijelu nadležnom za reviziju, prije isteka navedenoga razdoblja.
+Nakon isteka razdoblja navedenog u prvome podstavku, Komisija formalno priopćava svoje zaključke NDO-u, uz primjerak DNA-u i tijelu nadležnom za reviziju, na temelju informacija primljenih u okviru postupka za suglasnost obračuna. Priopćenje procjenjuje izdatak koji Komisija predviđa da se isključi iz financiranja Zajednice.
+Ako Komisija predlaže financijsku ispravku na osnovi ekstrapolacije ili paušalne stope, NDO se daje mogućnost stvarni opseg nepravilnosti provjerom dostupne dokumentacije. U sporazumu s Komisijom, NDO može ograničiti polje primjene ovog ispitivanja na odgovarajuću mjeru ili uzorak dostupne dokumentacije. Osim u valjano opravdanim slučajevima, ispitivanje i priopćavanje rezultata Komisiji odvija se u roku od dva mjeseca od datuma primitka prijedloga Komisije za financijsku ispravku.
+5. NDO obavještava Komisiju, uz primjerak DNA-u i tijelu nadležnom za reviziju, o korektivnim mjerama koje je poduzeo kako bi osigurao poštivanje primjenjivih pravila i učinkoviti datum njihove provedbe.
+6. Odbijanja od financiranja Zajednice vrši Komisija od sljedećeg privremenog plaćanja ili konačne isplate. Međutim, na zahtjev Hrvatske i ako to opravdava značajnost odbijanja Komisija može odrediti različiti datum za odbijanja.
+7. U skladu sa člankom 35. stavkom 1. Okvirnog sporazuma odbijanja koja je napravila Komisija ne dodjeljuju se ponovno programu IPARD.
+8. Članak 42. Okvirnog sporazuma ne primjenjuje se na suglasnost obračuna.

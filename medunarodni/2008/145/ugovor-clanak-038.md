@@ -1,0 +1,11 @@
+# Članak 38.
+Plaćanje od strane Komisije
+1. Samo pomoć u okviru IPARD programa dodijeljena u skladu sa sporazumima i koju je isplatila IPARD Agencija podliježe sufinanciranju od strane Zajednice.
+2. Isplate doprinosa Zajednice od strane Komisije vrše se u granicama raspoloživih sredstava u skladu s VFS-om iz članka 35. Svaka isplata se knjiži na najranije otvorenoj proračunskoj obvezi napravljenoj za IPARD program.
+3. Isplate se vrše u obliku financiranja predujmom, međuplaćanjima i završnog plaćanja. Izračunavaju se na temelju doprinosa Zajednice financiranju odnosnih operacija, sve do iznosa dobivenog uporabom stope sufinanciranja utvrđene za svaku prioritetnu os u planu financiranja na snazi za prihvatljive izdatke, podložno maksimalnom doprinosu Zajednice za svaki prioritet.
+4. Do 28. veljače svake godine, Hrvatska šalje Komisiji, uporabom modela iz Dodatka IV., najavu vjerojatnih izjava o izdacima za odnosnu financijsku godinu i za sljedeću financijsku godinu, u vezi s programom IPARD. Komisija može tražiti ažuriranje najave ukoliko je potrebno.
+5. Kombinirani ukupni iznos financiranja predujmom i privremenih plaćanja ne smije prijeći 95% doprinosa Zajednice kako je utvrđeno u financijskoj tablici IPARD programa.
+6. Kada se dosegne gornja granica iz stavka 5., NDO i dalje šalje Komisiji ovjerene izjave o izdacima u skladu sa člankom 39., kao i informacije o vraćenim izgubljenim iznosima.
+7. Isplate od strane Komisije Nacionalnom fondu vrše se u eurima na IPARD-ov račun u eurima, sukladno raspoloživosti proračunskih izdvajanja i u skladu s odredbama utvrđenim u člancima 40., 41., 42. i 43. i VFS-u, pod uvjetom da provjere navedene u tim člancima nisu naznačile nikakve probleme.
+8. Hrvatska osigurava da krajnji korisnici pravovremeno i u cijelosti prime ukupan iznos javnog doprinosa. Nikakva posebna pristojba ili druga pristojba s jednakovrijednim učinkom koja bi smanjila iznose za krajnje korisnike neće se ubirati.
+9. Izdatke može pokriti financiranje Zajednice samo ako ih stvarno ima i ako ih plaća krajnji korisnik. Izdaci koje plaćaju krajnji korisnici treba potkrijepiti računima s potvrdom ili računovodstvenim dokumentima jednake dokazne vrijednosti. Ako izdatak ne označava pomoć, drugi odgovarajući dokumenti, kako je određeno u programu IPARD mogu se prihvatiti. U svim slučajevima, izdatak mora potvrditi NDO.

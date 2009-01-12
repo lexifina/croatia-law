@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Komisije Europskih zajednica o pravilima za suradnju u vezi s financijskom pomoći Europske komisije Republici Hrvatskoj i provedbe pomoći u okviru komponente V. (IPARD) Instrumenta pretpristupne pomoći (IPA)

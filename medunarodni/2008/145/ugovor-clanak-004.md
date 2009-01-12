@@ -1,0 +1,6 @@
+# Članak 4.
+Usklađenost s ostalim instrumentima
+1. Pored članka 4. stavka 1. točke (a) Okvirnog sporazuma, Komisija i Hrvatska osiguravaju usklađenost i koordinaciju pomoći unutar i između IPARD programa, ostalih sastavnica u okviru Okvirne uredbe o programu IPA i pomoći od Europske investicijske banke (EIB) i ostalih međunarodnih financijskih instrumenata, na razinama planiranja, programiranja i provedbe.
+2. Svako preklapanje između mjera koje su obuhvaćene pomoći pružene u okviru različitih sastavnica programa IPA izbjegava se i nijedan izdatak neće biti financiran u okviru više od jedne sastavnice.
+3. Hrvatska posebice osigurava da ako bi projekt u okviru IPARD programa, zbog svoje prirode, mogao također biti u cijelosti ili djelomično prihvatljiv za pomoć u okviru jednog od ostalih instrumenta iz stavka 1., ne postoji rizik da bi se izdatak mogao dodijeliti više od jednom. Za sve takve projekte, na svim računima s potvrdama, kako je navedeno u članku 44. stavku 1. točki (b), ovlašteni službenik mora jasno otisnuti pečat »IPARD« prije nego ih IPARD Agencija plati, kako je navedeno u članku 12.
+4. Provedba IPARD programa u skladu je s odgovarajućim pravilima primjenjivim na programe ruralnoga razvoja u državama članicama.

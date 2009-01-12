@@ -1,0 +1,3 @@
+# Članak 35.
+Odluke o financiranju i višegodišnji financijski sporazumi
+Ne ranije od usvajanja financijske odluke od strane Komisije kojom se odobrava IPARD program u skladu sa člankom 39. Provedbene uredbe o programu IPA, i sklapanja Okvirnog sporazuma i ovog Sporazuma, sklapa se Višegodišnji financijski sporazum (u daljnjem tekstu: »VFS«) u skladu sa člankom 8. Provedbene uredbe o programu IPA. VFS utvrđuje raščlambu višegodišnjih pravnih obveza i razdoblje valjanosti navedenih obveza, koje su raščlanjene u nekoliko godina na godišnje obroke. VFS se revidira na godišnjoj osnovi kako bi se uzeli u obzir iznosi previđeni u odnosnom Višegodišnjem indikativnom planskom dokumentu (VIPD) i, po potrebi, izmjene i dopune ovoga Sporazuma.

@@ -1,0 +1,6 @@
+# Članak 42.
+Izračun iznosa za plaćanje
+1. Doprinos Zajednice koji treba platiti s obzirom na prihvatljivi javni izdatak izjavljen za svaku prioritetnu os za svako referentno razdoblje izračunava se na temelju plana financiranja na snazi prvoga dana navedenoga razdoblja.
+2. Iznosi doprinosa Zajednice nadoknađen od krajnjih korisnika u okviru IPARD programa tijekom svakog referentnog razdoblja i dugovi koji nisu prikupljeni unutar 2 godine od onda kada su zabilježeni u knjigu dužnika oduzimaju se od iznosa koji Komisija treba platiti u izjavi o izdacima za to razdoblje u skladu sa člankom 55.
+3. Iznosi koji proizlaze iz potvrde obračuna provedene u skladu sa člankom 53., koji se mogu ponovno upotrijebiti za IPARD program dodaju se ili oduzimaju od iznosa doprinosa Zajednice u vrijeme sljedeće izjave.
+4. Ne dovodeći u pitanje gornju granicu od 95% kako je predviđeno člankom 38. stavkom 5., ako kombinirani ukupni iznos izjava o izdacima prijeđe ukupni programirani iznos za predmetnu prioritetnu os, iznos koji treba platiti ograničava se na programirani iznos za tu prioritetnu os u planu financiranja na snazi. Izdatak isključen kao posljedica toga može se uzeti u obzir u naknadnoj izjavi o izdacima pod uvjetom da Hrvatska preda prilagođeni plan financiranja, a Komisija ga prihvati.

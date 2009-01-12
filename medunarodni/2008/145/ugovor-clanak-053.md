@@ -1,0 +1,12 @@
+# Članak 53.
+Financijska potvrda obračuna
+1. Odluka o potvrdi obračuna iz članka 30. stavka 1. Okvirnog sporazuma određuje iznos izdataka učinjenih u Hrvatskoj tijekom predmetne financijske godine što je prepoznato kao ono što se može zaračunati programu IPARD na temelju računa iz članka 50. i sredstava koja Hrvatska može ponovno koristiti na temelju članka 35. Okvirnog sporazuma.
+2. Komisija, najkasnije do 30. rujna godine nakon odnosne financijske godine, na temelju informacija iz stavka 1., donosi odluku o podmirenju računa Nacionalnog fonda i IPARD Agencije (u daljnjem tekstu »Odluka o potvrdi obračuna«).
+Odluka o potvrdi obračuna obuhvaća cjelokupnost, točnost i istinitost podnijetih računa i ne dovodi u pitanje usvajanje naknadne odluke o suglasnosti obračuna, sukladno članku 54.
+Odluka o potvrdi obračuna također obuhvaća potvrdu obračuna IPARD-ovog računa u eurima i iznose koji se odobravaju u korist toga računa u skladu sa člankom 55. i člankom 52. stavkom 6.
+3. Komisija Hrvatsku također obavještava o rezultatima svoje provjera dobivenih informacija, zajedno sa svim izmjenama i dopunama koje predlaže, najkasnije do 15. srpnja nakon kraja financijske godine.
+4. Ako, iz razloga koji se mogu pripisati Hrvatskoj, Komisija ne može podmiriti račune prije 30. rujna sljedeće godine, Komisija obavještava NDO-a, uz primjerak to DNA-u i tijelu nadležnom za reviziju, o tim dodatnim ispitivanjima koje predlaže poduzeti sukladno članku 26.
+5. Iznos koji se, kao posljedica Odluke o potvrdi obračuna, obično može vratiti ili isplatiti Hrvatskoj utvrđuje se odbijanjem privremenih plaćanja glede odnosne financijske godine od izdatka priznatog za istu godinu u skladu sa stavkom 1. ovoga članka. Taj iznos Komisija odbija od ili dodaje sljedećem privremenom plaćanju ili konačnoj isplati.
+6. Međutim, ako iznos koji je potrebno odbiti, utvrđen Odlukom o potvrdi obračuna prijeđe razinu mogućih naknadnih isplata, NDO osigurava da se iznos koji nije obuhvaćen bilancom odobri u korist Komisije u eurima u roku od dva mjeseca od obavijesti o takvoj odluci. Komisija može međutim, oo slučaja do slučaja, odlučiti da svaki iznos koji mora biti odobren u njezinu korist bude poravnan s plaćanjima koje ona mora učiniti u korist Hrvatske unutar bilo kojeg instrumenta Zajednice.
+7. Ovaj članak primjenjuje se, mutatis mutandis, na isplate financirane predujmom u smislu članka 40.
+8. Članak 42. Okvirnog sporazuma ne primjenjuje se na financijsku potvrdu obračuna.
