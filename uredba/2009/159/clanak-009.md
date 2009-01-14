@@ -1,0 +1,3 @@
+# Članak 9.
+Dozvole za izvoz i uvoz robe iz članaka 1. do 8. ove Uredbe, izdaju ministarstva i nadležna tijela državne uprave na temelju pisanog zahtjeva izvoznika, odnosno uvoznika robe.
+Iznimno, zahtjev za izdavanje dozvola za izvoz i uvoz robe vojne namjene za komercijalne svrhe iz Priloga IV. - Popisa robe vojne namjene, koji je sastavni dio ove Uredbe, te zahtjev za izdavanje dozvola za izvoz i uvoz nevojnih ubojnih sredstava iz Priloga V. - Popisa nevojnih ubojnih sredstava, koji je sastavni dio ove Uredbe podnose se sukladno Zakonu o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava.

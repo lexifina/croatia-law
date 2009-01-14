@@ -1,0 +1,2 @@
+# Članak 6.
+Dozvole za jednokratni uvoz i izvoz opojnih droga, koje su navedene u Popisu opojnih droga koji je sastavni dio ove Uredbe (Prilog I. - Tablica II), izdaje Ministarstvo zdravstva i socijalne skrbi. Dozvole, odnosno rješenje za jednokratni uvoz i izvoz tvari koje se mogu uporabiti za izradu opojne droge (Prilog I. - Tablica I), izdaje Ministarstvo zdravstva i socijalne skrbi, odnosno Ministarstvo gospodarstva, rada i poduzetništva, kako je navedeno u Tablici I Priloga I temeljem Zakona o sprječavanju zlouporabe opojnih droga.

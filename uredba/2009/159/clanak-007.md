@@ -1,0 +1,3 @@
+# Članak 7.
+Dozvole za izvoz i uvoz tvari koje oštećuju ozonski sloj, koje su navedene u Popisu tvari koje oštećuju ozonski sloj, koji je sastavni dio ove Uredbe (Prilog II.), temeljem Uredbe o tvarima koje oštećuju ozonski sloj, izdaje Ministarstvo gospodarstva, rada i poduzetništva, uz prethodno pribavljeno mišljenje Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva.
+Dozvole za uvoz proizvoda koji oštećuju ozonski sloj iz stavka 1. ovoga članka, za posebne namjene, izdaje Ministarstvo gospodarstva, rada i poduzetništva, uz prethodno pribavljeno mišljenje Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva.
