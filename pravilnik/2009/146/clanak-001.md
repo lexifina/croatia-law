@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom pobliže propisuje koje bi se informacije mogle uzeti u obzir pri donošenju odluke o objavi povlaštenih informacija koje se neposredno odnose na izdavatelja, sukladno odredbi članka 459. Zakona o tržištu kapitala (Narodne novine br. 88/2008), okolnosti koje mogu ukazivati na postojanje opravdanog interesa izdavatelja u svrhu privremenog neobjavljivanja takvih povlaštenih informacija, kao i mjere i rješenja koja je izdavatelj obvezan osigurati u svrhu osiguravanja povjerljivosti povlaštene informacije.
