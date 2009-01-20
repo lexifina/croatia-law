@@ -1,0 +1,1 @@
+Na temelju odredbi članka 296. stavak 4. Zakona o tržištu kapitala (»Narodne novine« broj 88/08 i 146/08), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj 7. siječnja 2009. godine donijela
