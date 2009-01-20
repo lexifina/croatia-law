@@ -1,0 +1,1 @@
+Na temelju odredbe članka 370. Zakona o tržištu kapitala (»Narodne novine« br. 88/08 i 146/08), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 7. siječnja 2009. godine
