@@ -1,0 +1,1 @@
+Temeljem odredbi članka 309. stavak 5. Zakona o tržištu kapitala (»Narodne novine« br. 88/8, 146/08), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj 7. siječnja 2009. godine donijela
