@@ -1,0 +1,8 @@
+# Članak 4.
+Postupci konzultacija i objavljivanje odluka
+(1) U svrhu primjene odredaba članaka 455. i 466. stavak 1. točka 1. Zakona o tržištu kapitala Agencija će poštovati postupke utvrđene u stavcima 2. i 3. ovoga članka prilikom razmatranja hoće li prihvatiti ili nastaviti prihvaćati određenu tržišnu praksu.
+(2) Agencija će se, prije prihvaćanja ili neprihvaćanja određene tržišne prakse savjetovati s odgovarajućim relevantnim tijelima, kao što su predstavnici izdavatelja, pružatelji financijskih usluga, potrošači, druga tijela i sudionici na tržištu. Postupak savjetovanja obuhvaća savjetovanja drugih nadležnih tijela, posebno kada postoje usporediva tržišta po strukturi, obujmu ili vrsti transakcija.
+(3) Agencija će javno objaviti svoje odluke o prihvatljivosti dotične tržišne prakse, uključujući odgovarajuće opise tih praksa. Agencija će što je prije moguće poslati svoje odluke Odboru europskih nadzornih tijela za vrijednosne papire, koje ih odmah objavljuje na svojim internetskim stranicama.
+Objavljivanje obuhvaća opis čimbenika koji su uzeti u obzir u određivanju smatra li se praksa prihvatljivom, posebno kada su na tržištima različitih država članica doneseni različiti zaključci u pogledu prihvatljivosti iste prakse.
+(4) Ako je u tijeku nadzor ili istraga na određenim slučajevima, postupci savjetovanja utvrđeni u stavcima 1. do 3. ovog članka mogu se odgoditi do kraja tog nadzora ili istrage i eventualnih sankcija.
+(5) Tržišna praksa koja je bila prihvaćena nakon postupaka savjetovanja utvrđenih u stavcima 1. do 3. ovog članka ne može se mijenjati bez korištenja istih postupaka savjetovanja.
