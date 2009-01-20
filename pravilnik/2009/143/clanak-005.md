@@ -1,0 +1,6 @@
+# Članak 5.
+1) U slučaju da je dionica temeljni instrument vlasničkog vrijednosnih papira za koje se izrađuje prospekt, pored onog što je ovim Pravilnikom propisano za izradu prospekta, odnosno registracijskog dokumenta i obavijesti o vrijednosnom papiru za taj vrijednosni papir, ovi dokumenti moraju sadržavati i posebne informacije propisane Prilogom VI ovog Pravilnika.
+2) Kad je izdavatelj temeljne dionice društvo koje pripada istoj grupi kao i izdavatelj vlasničkog vrijednosnog papira, u prospektu, odnosno registracijskom dokumentu i obavijesti o vrijednosnom papiru moraju biti navedene informacije koje bi inače bile navedene u registracijskom dokumentu za dionice (Prilog I) za izdavatelja temeljne dionice.
+3) Navođenje dodatnih informacija u prospektu, sukladno odredbama stavka 2. ovog članka, obvezno je u svezi vlasničkih vrijednosnih papira koji ispunjavaju sljedeća dva uvjeta:
+1. mogu biti zamijenjeni u dionice, samostalnom i bezuvjetnom odlukom izdavatelja ili ulagatelja, ili sukladno uvjetima utvrđenim pri izdanju, ili na bilo koji drugi način daju mogućnost stjecanja dionica ili drugih prenosivih vrijednosnih papira koji su izjednačeni s dionicama, a
+2. tim dionicama, odnosno vrijednosnim papirima izjednačenim s dionicama ne trguje se na uređenom tržištu.
