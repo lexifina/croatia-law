@@ -1,0 +1,10 @@
+# Članak 2.
+Lažni ili obmanjujući signali i oblikovanje cijena
+(1) Prilikom procjene koje aktivnosti bi mogle predstavljati manipulaciju tržištem iz članka 466. Zakona o tržištu kapitala, stavak 1. točka 1., razmotriti će se sljedeći signali i okolnosti, koji se sami po sebi nužno ne smatraju manipuliranjem tržištem, te ne predstavljaju sveobuhvatnu listu:
+a) u kojoj mjeri zadani nalozi za trgovanje ili izvršene transakcije predstavljaju značajan dio dnevnog opsega transakcija relevantnim financijskim instrumentom na odnosnom uređenom tržištu, posebno kada te aktivnosti vode do značajne promjene cijene financijskog instrumenta;
+b) u kojoj mjeri nalozi za trgovanje koje su izdale osobe sa značajnom kupovnom ili prodajnom pozicijom u financijskom instrumentu ili transakcije koje su te osobe izvršile vode do značajnih promjena cijene financijskog instrumenta ili povezane izvedenice ili odnosne varijable, uvrštenih na uređenom tržištu;
+c) dovode li izvršene transakcije do stvarne promjene vlasništva nad financijskim instrumentom uvrštenim na uređenom tržištu;
+d) u kojoj mjeri zadani nalozi ili izvršene transakcije obuhvaćaju izmjenu pozicija u kratkom razdoblju i predstavljaju značajan dio dnevnog volumena trgovanja relevantnim financijskim instrumentom na odnosnom uređenom tržištu te bi mogli biti povezani sa značajnim promjenama cijene financijskog instrumenta uvrštenog na uređeno tržište;
+e) u kojoj su mjeri zadani nalozi ili izvršene transakcije koncentrirani unutar kratkog vremenskog raspona tijekom dnevnog trgovanja i vode do promjene cijene koja je slijedom toga promijenila smjer kretanja;
+f) u kojoj mjeri zadani nalozi mijenjaju prikaz najboljih cijena ponude ili potražnje financijskog instrumenta uvrštenog na uređeno tržište, ili prikaz dubine tržišta koja je vidljiva sudionicima na tržištu, a uklonjeni su prije nego što su izvršeni;
+g) u kojoj su mjeri nalozi zadani ili transakcije izvršene u specifično vrijeme ili oko specifičnog vremena u kojem se izračunavaju referentne cijene i rade drugi izračuni, a vode do promjena cijena koje imaju učinak na navedene referentne cijene i izračune.
