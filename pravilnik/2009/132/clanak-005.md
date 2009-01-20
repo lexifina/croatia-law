@@ -1,0 +1,3 @@
+# Članak 5.
+Ako je namjeravani stjecatelj financijski holding, pored dokumentacije iz članka 4. ovog pravilnika obvezan je dostaviti:
+- dokumentaciju iz koje je vidljivo da su organizacijski ustroj, procesi i sustavi unutar grupe dosljedni i integrirani na način da je omogućena neometana priprema svih podataka i informacija koje su od značaja za nadzor društva na pojedinačnoj i konsolidiranoj osnovi.
