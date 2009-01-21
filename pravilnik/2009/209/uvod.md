@@ -1,0 +1,1 @@
+Na temelju odredbi članka 263. stavka 1. točke 2. Zakona o osiguranju (»Narodne novine« broj 151/05 i 87/08) Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 15. siječnja 2009. donijela je
