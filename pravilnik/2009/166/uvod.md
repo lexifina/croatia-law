@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 4. Zakona o prijevozu u cestovnom prometu (»Narodne novine« broj 178/04, 48/05, 151/05, 111/06 i 63/08) ministar mora, prometa i infrastrukture, uz suglasnost ministra nadležnog za unutarnje poslove, donosi

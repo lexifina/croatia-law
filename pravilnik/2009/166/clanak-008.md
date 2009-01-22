@@ -1,0 +1,5 @@
+# Članak 8.
+Inspektori cestovnog prometa dužni su zaustavljanje obavljati na dijelu ceste uz desni rub kolnika u pravcu kretanja tako da ostali sudionici u prometu mogu pravovremeno uočiti zaustavljena vozila, vodeći pri tome računa da ne ometaju promet ili ugrožavaju vlastitu sigurnost ili sigurnost drugih sudionika u prometu.
+Zaustavljanje vozila, obavlja se u pravilu na mjestima gdje se vozilo cijelom svojom površinom može ukloniti s kolnika.
+Ako se nadzor vozila obavlja na kolniku, na službenom vozilu mora biti upaljeno plavo rotacijsko svjetlo.
+Prilikom zaustavljanja vozila u prijevozu u cestovnom prometu na cestama noću ili u uvjetima smanjene vidljivosti, inspektor cestovnog prometa na kolniku ispred mjesta na kojem se nalazi zaustavljeno vozilo, postavlja na dovoljnoj udaljenosti trokutasti znak »STOP INSPEKCIJA« koji na vrhu ima treptajuće žuto svjetlo koje se upotrebljava za naglašavanje prometnog znaka iznad kojeg je postavljeno (članak 71. Pravilnika o prometnim znakovima, opremi i signalizaciji na cestama - »Narodne novine« broj 33/05).

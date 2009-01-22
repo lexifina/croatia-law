@@ -1,0 +1,2 @@
+# Članak 9.
+Ako vozač vozila ne poštuje naredbe inspektora cestovnog prometa i ne zaustavi vozilo, inspektor prosljeđuje podatke o vozilu prometnoj policiji ili carinskoj službi na graničnom prijelazu radi njegovog zadržavanja do dolaska inspektora cestovnog prometa radi provedbe postupka po odredbama Zakona o prijevozu u cestovnom prometu i Zakona o inspekciji cestovnog prometa i cesta - »Narodne novine« broj 77/99.
