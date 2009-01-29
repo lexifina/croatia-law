@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 4. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 66/2001, 87/2002, 48/2005 i 90/2005), a u vezi s člankom 99. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 152/2008), Vlada Republike Hrvatske je na sjednici održanoj 29. siječnja 2009. godine donijela
