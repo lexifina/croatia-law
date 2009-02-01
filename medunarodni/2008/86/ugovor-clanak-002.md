@@ -1,0 +1,5 @@
+# Članak 2.
+OSOBE KOJE SU POBJEGLE IZ DRŽAVE PRESUĐENJA
+1. Kad državljanin stranke koji je osuđen pravomoćnom presudom na državnom području druge stranke, nastoji izbjeći izvršenje ili daljnje izvršenje kazne u državi presuđenja bijegom na državno područje prethodne stranke prije nego što je izdržao kaznu, država presuđenja može od druge stranke zatražiti preuzimanje izvršenja kazne.
+2. Na zahtjev države presuđenja, država izvršenja može prije nego što stigne popratna dokumentacija za izvršenje kazne zatvora, odnosno prije odluke o tom zahtjevu, uhititi osuđenu osobu ili poduzeti neku drugu mjeru, kako bi se osiguralo da osuđena osoba ostane na njezinom državnom području do donošenja odluke povodom zahtjeva. Zahtjevi za privremene mjere moraju sadržavati podatke iz članka 4. stavka 3. Konvencije. Osuđena osoba ne smije biti dovedena u teži kaznenopravni položaj zbog vremena provedenog u pritvoru na temelju razloga iz ovog stavka.
+3. Suglasnost osuđene osobe za prijenos izvršenja kazne neće se zahtijevati.

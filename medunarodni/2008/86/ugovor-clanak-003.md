@@ -1,0 +1,12 @@
+# Članak 3.
+OSUĐENE OSOBE U POGLEDU KOJIH SE IZRIČE NALOG ZA IZGON ILI DEPORTACIJU
+1. Na zahtjev države presuđenja, država izvršenja može, u skladu s odredbama ovoga članka, pristati na transfer osuđene osobe bez suglasnosti te osobe, ukoliko presuda koja je u pogledu te osobe izrečena ili upravna odluka temeljena na toj presudi uključuje nalog za izgon ili deportaciju, odnosno neku drugu mjeru na temelju koje se toj osobi ne dopušta daljnji ostanak na državnom području države presuđenja nakon što jednom bude puštena iz zatvora.
+2. Država izvršenja neće dati svoje odobrenje u svrhu stavka 1. ovoga članka, prije nego što razmotri mišljenje osuđene osobe.
+3. U cilju primjene ovoga članka država presuđenja dostavit će državi izvršenja:
+a. izjavu koja sadrži mišljenje osuđene osobe o njegovom ili njezinom predloženom transferu te
+b. primjerak naloga za izgon ili deportaciju, odnosno drugog naloga koji ima učinak da se osuđenoj osobi više ne dopušta ostanak na području države presuđenja nakon što jednom bude puštena iz zatvora.
+4. Protiv niti jedne osobe koja je transferirana na temelju ovoga članka ne smije se pokrenuti postupak, niti smije biti osuđena ili pritvorena radi izvršenja kazne ili naloga za pritvaranje za bilo koje kazneno djelo počinjeno prije transfera te osobe različito od onoga za koje je izrečena kazna koja se ima izvršiti, niti joj se smije ograničiti osobna sloboda iz bilo kojeg razloga, osim u sljedećim slučajevima:
+a. kad država presuđenja dade za to odobrenje: uz zahtjev za odobrenje moraju se podnijeti sve potrebne isprave, kao i zapisnici o svakoj izjavi osuđene osobe, odobrenje će se dati kada djelo za koje je zahtjev podnesen može biti predmetom izručenja prema propisima države presuđenja ili kada bi izručenje moglo biti isključeno jedino zbog težine kazne;
+b. kad osuđena osoba, nakon što je imala prilike napustiti državno područje države izvršenja, nije to učinila unutar 45 dana od svojega konačnog puštanja, ili ukoliko se ponovno vrati na to državno područje nakon što ga je napustila.
+5. Ne dovodeći u pitanje odredbe stavka 4., država izvršenja može poduzeti sve mjere potrebne prema njezinom pravu, uključujući i suđenje u odsutnosti, kako bi spriječila pravne posljedice proteka vremena.
+6. Svaka država ugovornica može, u izjavi upućenoj glavnom tajniku Vijeća Europe, navesti da neće preuzimati izvršenje kazni pod okolnostima opisanim u ovom članku.
