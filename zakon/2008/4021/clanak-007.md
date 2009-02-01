@@ -1,0 +1,2 @@
+# Članak 7.
+U cijelom tekstu Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99., 22/00., 73/00., 114/01., 79/06. i 141/06.), riječi: »telefonski vodovi, radijske i televizijske antene« zamjenjuju se riječima »elektronička komunikacijska infrastruktura«, a riječ: »telekomunikacijskih«, zamjenjuje se riječima: »elektroničkih komunikacijskih« u odgovarajućem padežu.
