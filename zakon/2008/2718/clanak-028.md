@@ -1,0 +1,3 @@
+## Provjerena veterinarsko-medicinska uporaba i zaštita podataka
+# Članak 28.
+Ako nositelj odobrenja za stavljanje VMP u promet za određenu vrstu životinja koje se koriste za proizvodnju hrane podnese zahtjev za izdavanjem odobrenja za stavljanje u promet istog VMP ali za drugu vrstu životinja koje se koriste za proizvodnju hrane, te dostavi nova ispitivanja rezidua VMP u skladu sa posebnim propisom i daljnja klinička ispitivanja, drugi podnositelji zahtjeva ne mogu se pozivati na rezultate iz navedenih ispitivanja ili na rezultate ispitivanja u skladu sa člankom 24. ovoga Zakona u razdoblju od 3 godine od izdavanja odobrenja za stavljanje VMP u promet.
