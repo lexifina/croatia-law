@@ -1,0 +1,9 @@
+# Članak 23.
+OBVEZA ODUZIMANJA
+1. Stranka koja je od druge stranke zaprimila zamolnicu za oduzimanje predmeta ili nezakonitog prihoda ostvarenog kaznenim djelom koji se nalaze na njezinom državnom području:
+a. izvršava nalog za oduzimanje koji je izdao sud stranke moliteljice u odnosu na takve predmete i nezakonit prihod ostvaren kaznenim djelom ili
+b. podnosi zamolnicu svojim nadležnim tijelima radi dobivanja naloga za oduzimanje i, ako je takav nalog izdan, izvršava ga.
+2. U svrhu primjene stavka 1. točke b. ovog članka, svaka stranka je, kad god je to nužno, nadležna pokrenuti postupak oduzimanja prema vlastitom pravu.
+3. Odredbe stavka 1. ovog članka također se primjenjuju na oduzimanje koje se sastoji od zamolnice da se plati novčani iznos koji odgovara vrijednosti nezakonitog prihoda stečenog kaznenim djelom, ako se imovina na kojoj se može izvršiti oduzimanje nalazi u zamoljenoj stranci. U takvim slučajevima, prilikom izvršenja oduzimanja sukladno stavku 1., stranka koja je primila zamolnicu namiruje, ako uplata nije obavljena, potraživanje na bilo kojoj imovini koja je na raspolaganju u tu svrhu.
+4. Ako se zamolnica za oduzimanje odnosi na točno određeni dio imovine, stranke se mogu sporazumjeti da zamoljena stranka može izvršiti oduzimanje u obliku zamolnice za isplaćivanjem novčanog iznosa koji odgovara vrijednosti te imovine.
+5. Stranke u najvećoj mogućoj mjeri surađuju u skladu sa svojim domaćim pravom s onim strankama koje zatraže izvršenje onakvih mjera kao što je oduzimanje, čija je posljedica oduzimanje imovine, a koje nisu kaznenopravne sankcije, ako su takve mjere naložila pravosudna tijela stranke moliteljice u vezi s kaznenim djelom, pod uvjetom da je utvrđeno da imovina predstavlja nezakonit prihod stečen kaznenim djelom ili drugu imovinu u smislu članka 5. ove Konvencije.

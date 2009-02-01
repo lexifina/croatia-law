@@ -1,0 +1,13 @@
+# Članak 54.
+IZMJENE I DOPUNE
+1. Izmjene i dopune Konvencije može predložiti svaka stranka, a priopćuje ih glavni tajnik Vijeća Europe državama članicama Vijeća Europe, Europskoj zajednici te svakoj državi nečlanici koja je pristupila ili koja je pozvana da pristupi ovoj Konvenciji u skladu s odredbama članka 50.
+2. Svaka izmjena i dopuna koju stranka predloži priopćuje se Europskom odboru za pitanja kriminaliteta (CDPC) koji svoje mišljenje o toj predloženoj izmjeni i dopuni predaje Odboru ministara.
+3. Odbor ministara razmatra predloženu izmjenu i dopunu te mišljenje CDPC-a, te može usvojiti tu izmjenu i dopunu većinom glasova, kako je predviđeno člankom 20. stavkom d. Statuta Vijeća Europe.
+4. Tekst svih izmjena i dopuna koje je usvojio Odbor ministara u skladu sa stavkom 3. ovoga članka prosljeđuje se strankama na prihvaćanje.
+5. Sve izmjene i dopune usvojene u skladu sa stavkom 3. ovog članka stupaju na snagu tridesetog dana nakon što su sve stranke obavijestile glavnog tajnika o njihovom prihvaćanju.
+6. Kako bi se ažurirale kategorije kaznenih djela navedene u prilogu te kako bi se izmijenio i dopunio članak 13., sve stranke ili Odbor ministara mogu predložiti izmjene i dopune. Strankama ih priopćuje glavni tajnik Vijeća Europe.
+7. Nakon savjetovanja sa strankama koje nisu članice Vijeća Europe i, po potrebi, CDPC-a, Odbor ministara može usvojiti izmjenu i dopunu predloženu u skladu sa stavkom 6. većinom glasova kako je predviđeno člankom 20.d. Statuta Vijeća Europe. Izmjena i dopuna stupa na snagu nakon proteka godine dana od datuma kada je proslijeđena strankama. Tijekom ovog razdoblja, svaka stranka može notificirati glavnom tajniku moguće prigovore u vezi sa stupanjem na snagu takve izmjene i dopune.
+8. Ako jedna trećina stranaka priopći glavnom tajniku prigovor u vezi sa stupanjem na snagu izmjene i dopune, izmjena i dopuna ne stupa na snagu.
+9. Ako manje od jedne trećine stranaka priopći prigovor, izmjena i dopuna stupa na snagu za one stranke koje nisu notificirale prigovor.
+10. Kada izmjena i dopuna jednom stupi na snagu u skladu sa stavcima 6. do 9. ovog članka, a stranka je priopćila prigovor u vezi s njim, ova izmjena i dopuna stupa na snagu u odnosu na dotičnu stranku prvog dana mjeseca koji slijedi nakon datuma kad je dotična stranka glavnom tajniku Vijeća Europe notificirala svoj prihvat. Stranka koja je uložila prigovor može ga povući u bilo kojem trenutku tako da tu odluku priopći glavnom tajniku Vijeća Europe.
+11. Ako je Odbor ministara usvojio izmjenu i dopunu, država ili Europska zajednica ne može izraziti svoj pristanak da budu vezane Konvencijom, bez istodobnog prihvaćanja te izmjene i dopune.

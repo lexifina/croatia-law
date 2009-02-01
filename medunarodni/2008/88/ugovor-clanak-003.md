@@ -1,0 +1,8 @@
+# Članak 3.
+MJERE ODUZIMANJA
+1. Svaka stranka usvaja one zakonodavne i druge mjere koje mogu biti potrebne da bi mogla oduzimati predmete i nezakonit prihod ostvaren kaznenim djelom, odnosno imovinu čija vrijednost odgovara takvom nezakonitom prihodu i opranoj imovini.
+2. Pod uvjetom da se stavak 1. ovog članka primjenjuje na pranje novca te na kategorije kaznenih djela iz priloga ove Konvencije, svaka stranka može, u vrijeme potpisivanja ili prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju i pristupu, izjavom upućenom glavnom tajniku Vijeća Europe, izjaviti da se stavak 1. ovog članka primjenjuje:
+a. samo ako se kazneno djelo kažnjava lišavanjem slobode ili pritvorom čije najdulje trajanje iznosi više od jedne godine. Međutim, svaka stranka može dati izjavu o ovoj odredbi u odnosu na oduzimanje nezakonitog prihoda ostvarenog kaznenim djelima utaje poreza kako bi bila u mogućnosti oduzeti takav nezakonit prihod, kako na nacionalnoj razini tako i putem međunarodne suradnje, prema nacionalnom i međunarodnom zakonodavstvu o naplati poreznog duga i/ili
+b. samo na popis posebno navedenih kaznenih djela.
+3. Stranke mogu predvidjeti obvezno oduzimanje u slučaju kaznenih djela koja podliježu režimu oduzimanja. Stranke mogu u ovu odredbu uključiti kaznena djela pranja novca, trgovine drogom, trgovine ljudima i sva druga teška kaznena djela.
+4. Svaka stranka usvaja one zakonodavne i druge mjere koje su potrebne da bi mogla zahtijevati da, u odnosu na teška kaznena djela ili kaznena djela utvrđena nacionalnim zakonodavstvom, počinitelj dokaže porijeklo eventualnog nezakonitog prihoda ili druge imovine koja podliježe oduzimanju u mjeri u kojoj je taj zahtjev u skladu s načelima njezinog domaćeg prava.
