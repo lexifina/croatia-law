@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o unutarnjem ustrojstvu Ministarstva obrane (»Narodne novine«, br. 115/2002, 182/2003, 20/2005, 151/2005, 115/2007 i 21/2008) u članku 5. iza riječi: »obavlja opće poslove i poslove središnjeg arhiviranja u Ministarstvu,« dodaju su riječi koje glase: »obavlja poslove vezane uz prijam, pohranu i distribuciju dokumenata svih stupnjeva tajnosti u komunikaciji s NATO-om i EU-om, organizira prijevoz klasificiranih podataka,«.
