@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/1998, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 87. stavka 2. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 150/2008), Vlada Republike Hrvatske je na sjednici održanoj 5. veljače 2009. godine donijela
