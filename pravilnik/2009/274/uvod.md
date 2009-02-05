@@ -1,0 +1,1 @@
+Na temelju odredbe članka 445. stavak 2. i 3. Zakona o tržištu kapitala (»Narodne novine« br. 88/08 i 146/08), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 22. siječnja 2009. godine donijela je

@@ -1,0 +1,7 @@
+## Prestanak vođenja registra
+# Članak 23.
+(1) Kada voditelj registra prestane obavljati poslove vođenja registra za koji ima odobrenje Agencije, dužan je bez odgode o istome obavijestiti Agenciju i svoje izdavatelje.
+(2) Voditelj registra iz stavka 1. ovog članka, dužan je svojim izdavateljima omogućiti dovoljno vremena za uspostavljanje dostavljanja propisanih informacija u drugi registar, a koji rok ne može biti kraći od tri mjeseca od dana obavijesti iz stavka 1. ovog članka.
+(3) U roku iz stavka 2. ovog članka, voditelj registra dužan je na zahtjev izdavatelja dostaviti sve propisane informacije tog izdavatelja u drugi registar s kojim je izdavatelj uspostavio dostavljanje propisanih informacija.
+(4) U slučaju nemogućnosti ispunjenja uvjeta iz stavka 3. ovog članka zbog nepostojanja drugog registra, voditelj registra iz stavka 1. ovog članka ne smije prestati voditi registar pod uvjetima i na način propisan Zakonom i ovim Pravilnikom sve dok Agencija ne prenese ovlast vođenja registra drugoj pravnoj osobi, s tim da vrijeme do prijenosa ovlasti vođenja registra drugoj pravnoj osobi ne može biti duže od jedne godine od dana obavijesti iz stavka 1. ovog članka.
+(5) Ako u roku iz stavka 4. ovog članka Agencija ne prenese ovlast vođenja registra drugoj pravnoj osobi, voditelj registra dužan je svoj registar na vođenje u cijelosti predati Agenciji, uključujući sve podatke pohranjene i obrađene u registru kao i svu popratnu dokumentaciju.
