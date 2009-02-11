@@ -1,0 +1,2 @@
+# Članak 79.
+Vršitelj dužnosti ravnatelja Zavoda imenovan Rješenjem Vlade Republike Hrvatske o imenovanju vršitelja dužnosti ravnatelja Hrvatskog zavoda za zdravstveno osiguranje (klasa: 080-02/09-01/02; urbroj: 50304/2-09-01 od 8. siječnja 2009. godine), zamjenik i pomoćnici direktora Zavoda imenovani na osnovi odredbi Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 16/02., 24/02. i 58/03.), nastavljaju obavljati poslove do imenovanja ravnatelja i zamjenika, odnosno pomoćnika ravnatelja Zavoda prema odredbama Zakona i ovog Statuta.

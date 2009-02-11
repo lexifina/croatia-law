@@ -1,0 +1,7 @@
+# Članak 48.
+Pomoćnikom ravnatelja Zavoda za pravne poslove može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog smjera, pet godina radnog iskustva u struci i tri godine radnog iskustva na poslovima upravljanja.
+Pomoćnikom ravnatelja Zavoda za zdravstvenu zaštitu može biti imenovana osoba koja ima završen sveučilišni diplomski studij zdravstvenog smjera, pet godina radnog iskustva u struci i tri godine radnog iskustva na poslovima upravljanja.
+Pomoćnikom ravnatelja Zavoda za ekonomske poslove može biti imenovana osoba koja ima završen sveučilišni diplomski studij ekonomskog smjera, pet godina radnog iskustva u struci i tri godine radnog iskustva na poslovima upravljanja.
+Pomoćnikom ravnatelja Zavoda za nadzor i kontrolu može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog, ekonomskog, zdravstvenog ili drugog društvenog smjera, pet godina radnog iskustva u struci i tri godine radnog iskustva na poslovima upravljanja.
+Pomoćnikom ravnatelja za informatičku tehnologiju može biti imenovana osoba koja ima završen sveučilišni diplomski studij matematičkog ili drugog tehničkog smjera s usmjerenjem informatike, pet godina radnog iskustva u struci i tri godine radnog iskustva na poslovima upravljanja.
+Pomoćnikom ravnatelja Zavoda za dopunsko zdravstveno osiguranje može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog, ekonomskog zdravstvenog ili drugog društvenog smjera, pet godina radnog iskustva u struci i tri godine radnog iskustva na poslovima upravljanja.
