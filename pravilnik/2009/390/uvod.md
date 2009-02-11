@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 3. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine« broj 85/08. i 110/08.) ministar za obitelj, uz mišljenje v. d. ravnatelja Hrvatskog zavoda za zdravstveno osiguranje, donosi

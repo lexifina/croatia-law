@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Elektronički očevidnik iz članka 1. ovoga Pravilnika vodi se u Hrvatskom zavodu za zdravstveno osiguranje (u daljnjem tekstu: Zavod).
+(2) Elektronički očevidnik predstavlja skup podataka o korisnicima prava i pravima na rodiljne i roditeljske potpore evidentiranim u informatičkom sustavu Zavoda (u daljnjem tekstu: ZOROH) na osnovi Zakonom i drugim važećim propisima propisanih prijava na obvezno zdravstveno osiguranje, izvješća o bolovanju, rješenja o priznatim pravima na rodiljne i roditeljske potpore, te pisanih obavijesti poslodavaca o priznatim pravima iz Zakona čije korištenje neposredno osiguravaju.
