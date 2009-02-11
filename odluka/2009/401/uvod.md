@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 3. točke 13. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) i članka 2. stavka 3. Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (»Narodne novine«, br. 117/2008.) Savjet Hrvatske narodne banke na sjednici održanoj 4. veljače 2009. donio je

@@ -1,0 +1,1 @@
+Odluka kojom se potvrđuje da Hrvatski sustav velikih plaćanja i Nacionalni klirinški sustav udovoljavaju uvjetima iz Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata
