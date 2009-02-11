@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) i točke 12.1. Odluke o adekvatnosti kapitala banaka (»Narodne novine« br. 17/03., 120/03., 149/05., 130/06., 130/07. i 31/08) guverner Hrvatske narodne banke donio je
