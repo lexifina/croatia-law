@@ -1,0 +1,2 @@
+# Članak 9.
+Za sve klasificirane podatke, neovisno o stupnju tajnosti, vodi se jedinstvena evidencija (urudžbeni zapisnik) s oznakama propisanim u članku 4. Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima, osim za podatke koji su zaprimljeni u direktnoj razmjeni s NATO-om i EU-om, za koje se vode izdvojene evidencije.
