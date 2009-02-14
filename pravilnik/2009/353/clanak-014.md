@@ -1,0 +1,4 @@
+## Tvrdnje o smanjenju rizika od neke bolesti i tvrdnje koje se odnose na razvoj i zdravlje djece
+# Članak 14.
+Iznimno od članka 3. točke 2. Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine« br. 41/08)8, tvrdnje o smanjenju rizika od neke bolesti i tvrdnje koje se odnose na razvoj i zdravlje djece, mogu se navoditi sukladno odredbama ovoga Pravilnika i ako subjekt u poslovanju s hranom koji tu hranu stavlja na tržište prethodno ishodi notifikacijski broj sukladno članku 16. ovoga Pravilnika.
+Uz opće i posebne uvjete iz ovoga Pravilnika za tvrdnje za smanjenje rizika od bolesti pri označavanju, reklamiranju i prezentiranju hrane mora se navesti izjava koja navodi da bolest na koju se tvrdnja odnosi ima višestruke faktore rizika te da mijenjanje jednog od tih faktora rizika može, ali i ne mora imati koristan učinak.

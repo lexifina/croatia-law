@@ -1,0 +1,7 @@
+## Prijelazne i završne odredbe
+# Članak 19.
+Hrana stavljena na tržište ili označena prije stupanja na snagu ovoga Pravilnika koja nije sukladna odredbama ovoga Pravilnika može se nalaziti na tržištu do dana pristupanja Republike Hrvatske Europskoj uniji.
+Subjekti u poslovanju s hranom koji su podnijeli zahtjev za notifikaciju zdravstvene tvrdnje prije stupanja na snagu ovoga Pravilnika, a nisu dobili rješenje o notifikaciji prije stupanja na snagu ovoga Pravilnika moraju se uskladiti s odredbama ovoga Pravilnika.
+Prehrambene i zdravstvene tvrdnje koje se navode na hrani nakon stupanja na snagu ovoga Pravilnika moraju u potpunosti udovoljavati odredbama ovoga Pravilnika.
+Ako zbog ažuriranja Priloga II. sukladno članku 10. stavku 2. ovoga Pravilnika navođenje zdravstvenih nije više u skladu s odredbama ovoga Pravilnika, hrana na kojoj su navedene zdravstvene tvrdnje sukladno prethodnoj Listi odobrenih zdravstvenih tvrdnji može se nalaziti na tržištu do 1. 1. 2012. godine.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o hrani za posebne prehrambene potrebe (»Narodne novine« broj 81/2004) u dijelu koji se odnosi na odredbe hrane sa zdravstvenim tvrdnjama, te posebne odredbe koje se odnose na hranu s malom, smanjenom i/ili izmijenjenom količinom hranjivih sastojaka, hranu sa značajnim sadržajem bogatu i/ili obogaćenu hranjivim sastojcima, hranu sa smanjenom ili povećanom energetskom vrijednošću i dodatke prehrani za sportaše.
