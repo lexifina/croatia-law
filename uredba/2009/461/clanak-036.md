@@ -1,0 +1,3 @@
+# Članak 36.
+Odsjek za inspekciju lokalne i područne (regionalne) samouprave obavlja poslove upravne inspekcije u primjeni zakona i drugih propisa o ustrojstvu, djelokrugu i načinu rada tijela jedinica lokalne samouprave i jedinica područne (regionalne) samouprave, nadzor u provedbi zakona i drugih propisa o službenicima i namještenicima u tijelima jedinica lokalne i područne (regionalne) samouprave, nadzor u provedbi općeg upravnog postupka, posebnih postupaka te uredskog poslovanja u tijelima jedinica lokalne i područne (regionalne) samouprave te obavlja i druge upravne i stručne poslove koji su posebnim zakonima i drugim propisima stavljeni u djelokrug upravne inspekcije.
+11. Odjel za unutarnju reviziju

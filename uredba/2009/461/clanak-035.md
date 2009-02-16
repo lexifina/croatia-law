@@ -1,0 +1,3 @@
+# Članak 35.
+Odsjek za inspekciju državne uprave obavlja poslove upravne inspekcije u primjeni zakona i drugih propisa o ustrojstvu, djelokrugu i načinu rada tijela državne uprave i drugih državnih tijela, nadzor u provedbi zakona i drugih propisa o državnim službenicima i namještenicima, nadzor u provedbi općeg upravnog postupka, posebnih postupaka te uredskog poslovanja u tijelima državne uprave, drugim državnim tijelima i pravnim osobama s javnim ovlastima te obavlja i druge upravne i stručne poslove koji su posebnim zakonima i drugim propisima stavljeni u djelokrug upravne inspekcije.
+10.2. Odsjek za inspekciju lokalne i područne (regionalne) samouprave

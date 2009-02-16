@@ -1,0 +1,3 @@
+# Članak 9.
+Odjel za kadrovske i opće poslove obavlja upravne i stručne poslove koji se odnose na statusna i radno-pravna pitanja službenika i namještenika Ureda, poslove upravljanja i razvoja ljudskih potencijala za Ured, vodi osobni očevidnik državnih službenika i namještenika Ureda, obavlja poslove nabave, prijema i raspodjele opreme i materijala te vodi evidencije o tome, obavlja poslove prijema i otpreme pošte, arhiviranja, tekućeg održavanja zgrade, instalacija i uređaja, skrbi o urednom i pravilnom korištenju imovine i sredstava za rad, poslove u svezi korištenja i održavanja vozila, čišćenje i održavanje radnih prostorija i okoliša, te administrativne poslove za Odbor za državnu službu.
+3. Sektor za opću upravu

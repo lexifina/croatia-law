@@ -1,0 +1,7 @@
+# Članak 31.
+Sektor za ljudska prava obavlja stručne poslove koji se odnose na primjenu etičkih načela u javnoj upravi u odnosu na osobno ponašanje službenika i namještenika, mogući sukob interesa, primanje darova i moguće koruptivno i drugo neetičko ponašanje službenika i namještenika; suradnju s nadležnim državnim tijelima u pitanjima iz svojeg djelokruga; zaprimanje prijava i pritužbi o kršenju načela etičkog postupanja u javnoj upravi putem otvorenog telefona i na drugi način, njihovo upućivanje nadležnim tijelima i praćenje njihovog rješavanja; vođenje evidencije o zaprimljenim prijavama i pritužbama i o njihovom rješavanju; surađuje u izradi propisa i poduzima mjere u cilju zaštite službenika i namještenika koji ukazuju na korupciju; izrađuje smjernica o primjeni profesionalne etike u javnoj upravi; potiče programa etičke edukacije te sudjeluje u njihovoj izradi i provođenju.
+Sektor za ljudska prava obavlja upravne i stručne poslove koji se odnose na manjinske izbore; izbore za vijeća i predstavnike nacionalnih manjina; nadzor nad statutima jedinica lokalne i područne (regionalne) samouprave u dijelu koji se odnosi na manjinska prava; registraciju vijeća i predstavnika nacionalnih manjina; zapošljavanje pripadnika nacionalnih manjina u tijelima državne uprave i jedinicama lokalne i područne (regionalne) samouprave, te obavlja druge poslove u okviru svojeg djelokruga.
+U Sektoru za ljudska prava ustrojavaju se:
+9.1. Odjel za etiku
+9.2. Odjel za nacionalne manjine.
+9.1. Odjel za etiku
