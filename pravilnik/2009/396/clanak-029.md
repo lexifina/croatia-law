@@ -1,0 +1,2 @@
+# Članak 29.
+Sredstva Fonda za zbrinjavanje onečišćenih lokacija namijenjena su stvaranju pojedinačnih poticaja kao protuteže učincima negativnih vanjskih utjecaja, u slučaju kad nije moguće pronaći onečišćivača i naplatiti mu troškove štete za okoliš koju je prouzrokovao. U takvim slučajevima, državne potpore mogu biti opravdane ako su troškovi zbrinjavanja veći od posljedičnog porasta vrijednosti te lokacije.

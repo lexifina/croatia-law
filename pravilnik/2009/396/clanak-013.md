@@ -1,0 +1,7 @@
+# Članak 13.
+Radi ulaganja u projekte, programe i slične aktivnosti u području zaštite okoliša i energetske učinkovitosti trgovačkim društvima i drugim pravnim osobama, te obrtnicima i fizičkim osobama Fond u pravilu daje zajmove.
+Kod davanja zajmova Fond provodi postupak procjene izvedivosti ulaganja, odnosno utvrđivanja financijske, gospodarske, tehničke i kadrovske sposobnosti korisnika sredstava zajma, te očekivanih pozitivnih učinaka sredstava koja se namjeravaju ulagati u projekte, programe i slične aktivnosti u području zaštite okoliša, energetske učinkovitosti i korištenja obnovljivih izvora energije.
+U postupku procjene izvedivosti ulaganja u projekte, programe i slične aktivnosti u području zaštite okoliša, energetske učinkovitosti i korištenja obnovljivih izvora energije, odnosno procjene financijske i gospodarske sposobnosti korisnika sredstava, Fond surađuje s Hrvatskom bankom za obnovu i razvoj.
+Upravni odbor Fonda može donijeti odluku o suradnji i s drugim financijskim institucijama radi provjere izvedivosti ulaganja, odnosno procjene financijske i gospodarske sposobnosti korisnika sredstava.
+Radi osiguranja povrata zajmova Fond utvrđuje u uvjetima natječaja minimalne zahtjeve s potrebnim instrumentima osiguranja sredstava, a konkretni instrumenti osiguranja plasmana sredstva Fonda utvrđuju se ugovorom o zajmu za svaki pojedini projekt, program ili sličnu aktivnost u koju se ulažu sredstva Fonda.
+Sredstva zajma Fonda ne mogu se odobriti dok korisnik sredstava ne osigura ugovorene instrumente osiguranja plaćanja.

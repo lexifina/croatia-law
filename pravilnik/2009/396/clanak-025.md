@@ -1,0 +1,7 @@
+# Članak 25.
+Trgovačka društva, obrtnici koji obavljaju gospodarsku djelatnost i druge pravne osobe mogu ostvariti sredstva Fonda za programe i projekte propisane člankom 19. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost, odnosno za programe i projekte utvrđene srednjoročnim i godišnjim programom rada Fonda za zaštitu okoliša i energetsku učinkovitost, prema prioritetima utvrđenim nacionalnim strategijama u području zaštite okoliša i nacionalnim strategijama i programima iz područja energetske učinkovitosti i obnovljivih izvora energije.
+Zaštita okoliša označava svaku djelatnost oblikovanu kako bi se otklonila ili spriječila šteta fizičkoj okolini ili prirodnim bogatstvima kroz korisnikovu djelatnost, kako bi se smanjio rizik nastanka takve štete ili kako bi se uvelo učinkovitije korištenje prirodnih bogatstava, uključujući mjere štednje energije i korištenje obnovljivih izvora energije.
+Mjera štednje energije označava svaku akciju koja omogućuje poduzetnicima da smanje količinu energije koju koriste posebno u svom proizvodnom ciklusu.
+Standard Zajednice označava:
+a) obvezni standard Zajednice koji uspostavlja razine koje pojedinačni poduzetnici trebaju postići u smislu zaštite okoliša, a slijedom toga, standardi ili ciljevi postavljeni na razini Zajednice koji su obvezujući za države članice ali ne i za pojedine poduzetnike ne smatraju se »standardima Zajednice« ili
+b) obvezu prema Direktivi 2008/1/EZ, korištenja najboljih dostupnih tehnologija.
