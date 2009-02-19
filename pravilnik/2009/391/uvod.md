@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 6. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, broj 85/08. i 110/08.) ministrica obitelji, branitelja i međugeneracijske solidarnosti uz suglasnost ministra zdravstva i socijalne skrbi donosi

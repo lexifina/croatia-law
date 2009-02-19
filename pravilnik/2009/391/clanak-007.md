@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Postupak za ostvarivanje prava iz članka 4. stavka 1. i članka 5. ovoga Pravilnika pokreće se na osnovi pisanog zahtjeva zaposlenog roditelja ili samozaposlenog roditelja.
+(2) O zahtjevu iz stavka 1. ovog članka odlučuje rješenjem nadležna ustrojbena jedinica Zavoda na čijem području zaposleni roditelj ili samozaposleni roditelj ima prebivalište ili odobreni stalni, odnosno privremeni boravak, a na temelju nalaza, mišljenja i ocjene liječničkog povjerenstva nadležne ustrojbene jedinice Zavoda.
+(3) Zaposleni roditelj ili samozaposleni roditelj pravo iz članka 4. stavka 1. ovoga Pravilnika stječe s danom konačnosti rješenja iz stavka 2. ovoga članka, a prema potvrdi o konačnosti koju ustrojbena jedinica Zavoda stavlja i ovjerava na samom rješenju.
+(4) Iznimno od stavka 3. ovoga članka kad zaposleni roditelj ili samozaposleni roditelj u času podnošenja zahtjeva iz stavka 1. ovog članka koristi roditeljski dopust, korištenje pravom na dopust ili na rad u skraćenom radnom vremenu radi njege djeteta s težim smetnjama u razvoju stječe se s prvim narednim danom nakon iskorištenog prava na roditeljski dopust.
+(5) Nakon stavljanja potvrde konačnosti, rješenje iz stavka 2. ovoga članka nadležna ustrojbena jedinica Zavoda dostavlja i poslodavcu zaposlenog roditelja.

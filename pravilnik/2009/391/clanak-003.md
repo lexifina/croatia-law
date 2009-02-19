@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Težinu tjelesnog ili mentalnog oštećenja ili psihičke bolesti iz članka 2. stavka 2. ovoga Pravilnika utvrđuje nadležno liječničko povjerenstvo nadležne ustrojbene jedinice, Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu - Zavod).
+(2) Nadležno liječničko povjerenstvo Zavoda iz stavka 1. ovoga članka o postojanju tjelesnog ili mentalnog oštećenja ili psihičke bolesti iz stavka 1. ovoga članka, donosi nalaz, mišljenje i ocjenu u sastavu i na način propisan općim aktom o sastavu, ovlastima i načinu rada liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje.

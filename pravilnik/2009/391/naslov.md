@@ -1,0 +1,1 @@
+Pravilnik o uvjetima i postupku za stjecanje prava zaposlenog roditelja ili samozaposlenog roditelja djeteta s težim smetnjama u razvoju na dopust ili na rad u skraćenom radnom vremenu radi njege djeteta
