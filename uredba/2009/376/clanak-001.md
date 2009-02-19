@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o unutarnjem ustrojstvu Ministarstva vanjskih poslova i europskih integracija te diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu (Narodne novine, broj 64/2008), u članku 2. riječi: »Uprava za koordinaciju i praćenje prilagodba sustavu Europske unije i praćenje provedbe Sporazuma o stabilizaciji i pridruživanju;« zamjenjuju se riječima: »Uprava za koordinaciju prilagodba pravnom sustavu Europske unije i praćenje provedbe Sporazuma o stabilizaciji i pridruživanju;«.
