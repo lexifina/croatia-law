@@ -1,0 +1,1 @@
+[1] Zakonom su preuzete odredbe Direktive Vijeća 93/42/EEZ od 14. lipnja 1993. o medicinskim proizvodima i Direktive 98/79/EEZ Europskog parlamenta i Vijeća od 27. listopada 1998. godine o »in vitro« dijagnostičkim medicinskim proizvodima
