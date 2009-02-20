@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Marko Babić, Snježana Bagić, Mario Jelušić, Mario Kos, Davor Krapac, Željko Potočnjak, Agata Račan, Aldo Radolović, Duška Šarin i Nevenka Šernhorst, rješavajući o prijedlozima za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj 10. veljače 2009. godine, donio je
