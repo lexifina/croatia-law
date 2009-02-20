@@ -1,0 +1,1 @@
+Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih preživača i genetskog materijala podrijetlom od preživača iz država članica Europske unije radi sprječavanja unošenja u Republiku Hrvatsku bolesti plavog jezika
