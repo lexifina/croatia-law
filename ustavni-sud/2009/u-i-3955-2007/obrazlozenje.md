@@ -1,0 +1,55 @@
+Obrazloženje
+1. Mirjana Čerin iz Zagreba podnijela je prijedlog za ocjenu suglasnosti s Ustavom članka 40. stavka 5. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 36/01. i 135/06.)
+1.1. Članak 40. Zakona o Hrvatskoj narodnoj banci (»Narodne novine« broj 36/01.) glasi:
+(1) Guvernera Hrvatske narodne banke imenuje Hrvatski sabor na prijedlog Odbora za izbor, imenovanja i upravne poslove uz mišljenje Odbora za financije i državni proračun.
+(2) Hrvatska narodna banka ima jednog zamjenika guvernera i najviše četiri viceguvernera.
+(3) Zamjenika guvernera i viceguvernere imenuje Hrvatski sabor na prijedlog guvernera Hrvatske narodne banke.
+(4) Vanjske članove Savjeta Hrvatske narodne banke imenuje Hrvatski sabor na prijedlog Odbora za izbor, imenovanja i upravne poslove uz mišljenje Odbora za financije i državni proračun.
+(5) Članovi Savjeta Hrvatske narodne banke moraju biti državljani Republike Hrvatske s priznatim osobnim ugledom i profesionalnim iskustvom na monetarnom, financijskom, bankarskom i pravnom području.
+(6) Članovi Savjeta Hrvatske narodne banke imenuju se na šest godina.
+1.2. Članak 40. Zakona o Hrvatskoj narodnoj banci izmijenjena je Zakonom o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci 1. prosinca 2006. godine člankom 10., koji glasi:
+U članku 40. stavci 2. i 3. mijenjaju se i glase:
+»(2) Hrvatska narodna banka ima osam viceguvernera.
+(3) Viceguvernere imenuje Hrvatski sabor na prijedlog Odbora za izbor, imenovanja i upravne poslove uz mišljenje Odbora za financije i državni proračun.«
+Stavak 4. briše se.
+Dosadašnji stavci 5. i 6. postaju stavci 4. i 5.
+1.3. Iz navedenog slijedi da je osporena odredba članka 40. stavka 6. (sada stavka 5.) Zakona o Hrvatskoj narodnoj banci ostala neizmijenjena i glasi:
+(5) Članovi Savjeta Hrvatske narodne banke imenuju se na šest godina.
+1.4. Predlagateljica navodi da u osporenoj odredbi članka 40. stavka 5. Zakona o Hrvatskoj narodnoj banci nije navedeno na koliko mandatnih razdoblja od šest godina mogu biti imenovani članovi Savjeta Hrvatske narodne banke. Smatra da se osporenom odredbom, kojom nije ograničen broj mandata, pogoduje pojedincima i skupinama stavljajući ih u povoljniji položaj u odnosu na moguće druge kandidate.
+Zbog navedenog, predlagateljica smatra da je osporena odredba u nesuglasnosti s člankom 14. stavkom 2. Ustava Republike Hrvatske.
+2. Predlagateljica osporava i članak 29. Zakona o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci, koji glasi:
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama« osim članka 8. stavka 1., članka 9. do 12., članka 13. stavka 1., članka 14. do 17. i članka 23. te Glave VIII. koji će stupiti na snagu danom pristupanja Republike Hrvatske Europskoj uniji i Glave IX. koja će stupiti na snagu danom uvođenja eura kao novčane jedinice Republike Hrvatske.
+Predlagateljica smatra da ta odredba nije suglasna s načelom vladavine prava i s odredbom članka 89. stavka 4. Ustava, a prema njezinom mišljenju suprotna je i s Izvješćem Ustavnog suda o stupanju na snagu i početku primjene zakona i drugih propisa broj: U-X-80/2005 od 1. lipnja 2006. godine (»Narodne novine« broj 64/06.).
+3. Na temelju članka 25. (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon), od Hrvatske narodne banke zatraženo je i dobiveno očitovanje o prijedlogu predlagateljice.
+Prijedlog nije osnovan.
+4. Za ocjenu suglasnosti osporenih zakonskih odredaba s Ustavom mjerodavni su članak 3., članak 5. stavak 1. i članak 53. Ustava.
+Člankom 3. Ustava utvrđene su najviše vrednote ustavnog poretka Republike Hrvatske, a među inima i vladavina prava.
+Prema odredbi članka 5. stavka 1. Ustava, u Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom.
+Člankom 53. Ustava propisano je:
+Hrvatska narodna banka je središnja banka Republike Hrvatske.
+Položaj, prava i dužnosti Hrvatske narodne banke uređuju se zakonom.
+Hrvatska narodna banka u svom je radu samostalna i odgovorna Hrvatskom saboru.
+5. Zakonom o Hrvatskoj narodnoj banci uređuje se položaj, poslovi, vlasnički status, ovlaštenja i ustroj Hrvatske narodne banke te odnos Hrvatske narodne banke s Republikom Hrvatskom, bankama i međunarodnim institucijama i organizacijama.
+Prema odredbama članka 53. Ustava Republike Hrvatske i članka 2. stavaka 1. i 2. Zakona o Hrvatskoj narodnoj banci, Hrvatska narodna banka središnja je banka Republike Hrvatske i u obavljanju svojih poslova samostalna je, neovisna i odgovorna Hrvatskom saboru.
+Odredbama glave IV. Zakona o Hrvatskoj narodnoj banci propisan je ustroj Hrvatske narodne banke (organizacija Hrvatske narodne banke, zadaci i ovlasti Savjeta Hrvatske narodne banke, ovlasti guvernere Hrvatske narodne banke, imenovanje članova Savjeta, osobe koje ne mogu biti članovi Savjeta i druga ograničenja, razrješenja.... i dr.).
+Tijela Hrvatske narodne banke su Savjet Hrvatske narodne banke i guverner Hrvatske narodne banke (članak 37.). Člankom 38. stavkom 1. Zakona o Hrvatskoj narodnoj banci propisano je da se Savjet Hrvatske narodne banke sastoji od devet članova, a čini ga guverner Hrvatske narodne banke i viceguverneri.
+Odredbama članka 40. Zakona o Hrvatskoj narodnoj banci propisano je da guvernera Hrvatske narodne banke imenuje Hrvatski sabor na prijedlog Odbora za izbor, imenovanja i upravne poslove uz mišljenje Odbora za financije i državni proračun (stavak 1.), a viceguvernere, kojih ima osam, imenuje također Hrvatski sabor na prijedlog Odbora za izbor, imenovanja i upravne poslove uz mišljenje Odbora za financije i državni proračun (stavak 3.). Članovi Savjeta Hrvatske narodne banke moraju biti državljani Republike Hrvatske s priznatim osobnim ugledom i profesionalnim iskustvom na monetarnom, financijskom, bankarskom i pravnom području (stavak 4.), a stavkom 5. propisano je da se članovi Savjeta Hrvatske narodne banke imenuju na šest godina.
+5.1. Pored odredaba članka 40. Zakona o Hrvatskoj narodnoj banci (kojima je propisan postupak imenovanja članova Savjeta), odredbama članka 41. (osobe koje ne mogu biti članovi Savjeta i druga ograničenja) i članka 42. (razrješenje) istog Zakona propisani su slučajevi kada osoba ne može biti član Savjeta Hrvatske narodne banke, te slučajevi u kojima će Hrvatski sabor razriješiti dužnosti članove Savjeta Hrvatske narodne banke i prije razdoblja na koje su imenovani.
+6. Hrvatski sabor je na temelju članka 2. stavka 4. alineje 1. Ustava ovlašten samostalno odlučivati o uređivanju gospodarskih, pravnih i političkih odnosa u Republici Hrvatskoj, uključujući i one koji se tiču ograničenja određenih prava pojedinih zaposlenika, odnosno prava pojedinih zaposlenika uređivati na različite načine ovisno o potrebama i uvjetima poslova koje obavljaju u određenim sredinama.
+U konkretnom slučaju odredbama članka 40. Zakona o Hrvatskoj narodnoj banci propisani su uvjeti kao i postupak za imenovanje članova Savjeta Hrvatske narodne banke, koji kao tijelo Hrvatske narodne banke uređuje politike koje su vezane uz Hrvatsku narodnu banku i nadležan je i odgovoran za ostvarivanje ciljeva i zadataka Hrvatske narodne banke, što znači da se radi o poslovima koji su u pravilu po svojoj naravi stručno visoko zahtjevni.
+Mandat je vrijeme na koje je neka osoba imenovana ili izabrana radi obavljanja određenih poslova. U konkretnom slučaju, prema osporenoj odredbi članka 40. stavka 5. Zakona o Hrvatskoj narodnoj banci, vrijeme na koje se imenuju članovi Savjeta Hrvatske narodne banke traje šest godine. Broj mandata nije ograničen, pa članovi Savjeta Hrvatske narodne banke mogu biti ponovno imenovani na isto vrijeme ako se u postupku imenovanja utvrdi da nema zapreka za njihovo ponovno imenovanje. Imenovani član može biti razriješen i prije isteka mandata iz razloga i prema postupku koji su utvrđeni člankom 42. Zakona o Hrvatskoj narodnoj banci.
+Prema stajalištu ovog Suda ne postoje ustavnopravne zapreke zbog kojih bi zakonodavcu posebnim propisom bilo zabranjeno propisivati takav postupak u kojem nije propisano ograničenje broja mandata pri izboru pojedinog člana Savjeta Hrvatske narodne banke. Ustavni sud ocjenjuje da se osporenom odredbom, kojom su propisani uvjeti i postupak za imenovanje članova Savjeta Hrvatske narodne banke, ni na bilo koji način pojedinci ili određene skupine ne stavljaju u povoljniji položaj, a što bi dovelo do nejednakosti pred zakonom.
+6.1. Predlagateljica ukazuju na nesuglasnost osporene zakonske odredbe s člankom 14. stavkom 2. Ustava, Ustavni sud je razmotrio razloge podnositeljice u odnosu na sadržaj navedene ustavne odredbe.
+Članak 14. stavak 2. Ustava propisuje:
+Svi su pred zakonom jednaki.
+Stajalište je Ustavnog suda da bi se eventualna nesuglasnost s Ustavom zbog nejednakosti pred zakonom mogla ispitati tek u situaciji kad bi zakonodavac pravio neprihvatljive razlike unutar iste skupine subjekata.
+Osporenom odredbom, prema stajalištu ovog Suda to nije učinjeno, jer ona ne priječi nikome tko ispunjava propisane uvjete da se javi kao kandidat za člana Savjeta Hrvatske narodne banke.
+7. U odnosu na osporenu odredbu članka 29. Zakona o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci Ustavni sud je u Izvješću Hrvatskom saboru, broj: U-X-80/2005 od 1. lipnja 2006. godine (»Narodne novine« broj 64/06.), izrazio sljedeće stajalište:
+Stupanje na snagu zakona jest vremenski određen trenutak od kojega zakon počinje pravno djelovati, obvezujući svojim odredbama, uz mogućnost primjene sankcije u slučaju njihovog nepoštivanja, one na koje se odnosi.
+Ustav Republike Hrvatske poznaje samo institut stupanja na snagu zakona, ali ne i institut (odgođene) primjene zakona koji je stupio na snagu. (...)
+Sukladno navedenom, ustavno je pravilo da zakoni stupaju na snagu najranije osmog dana od dana objave u »Narodnim novinama«. Vremensko razdoblje od dana objave zakona do dana njegova stupanja na snagu (vakacija) potrebno je da bi se s odredbama novog zakona upoznali i za njegovu primjenu pripremili adresati na koje se odnosi.
+Zakonodavac može iz osobito opravdanih razloga odrediti drugačije vakacijsko razdoblje, tako da zakon može stupiti na snagu na dan objave u »Narodnim novinama«, ali i na određeni dan u budućnosti koji zakonodavac propisuje ovisno o potrebama usklađivanja (harmoniziranja) zakonodavnog poretka radi osiguranja njegove jedinstvenosti. (...)
+Sukladno prethodnim navodima, Ustavni sud izvješćuje Hrvatski sabor o potrebi izmjene dosadašnje zakonodavne prakse radi njezina usklađivanja s člankom 89. stavcima 1. i 3. Ustava Republike Hrvatske, na način da u svim zakonima propisuje samo njihovo stupanje na snagu koje će ujedno značiti i početak njihove primjene.
+7.1. Ustavni sud ocjenjuje da je zakonodavac donoseći Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci i propisujući odredbe o stupanju na snagu tog Zakona postupio sukladno stajalištu Ustavnog suda.
+8. Slijedom navedenog, na temelju odredbe članka 43. Ustavnog zakona, riješeno je kao u izreci.
+9. Odluka o objavi temelji se na odredbi članka 29. Ustavnog zakona.
