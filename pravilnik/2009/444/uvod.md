@@ -1,0 +1,1 @@
+Na temelju članka 63a. stavak 2. Zakona o javnim cestama (»Narodne novine« broj 180/04, 138/06 i 146/08), ministar mora, prometa i infrastrukture uz suglasnost ministrice nadležne za obitelj, branitelje i međugeneracijsku solidarnost i ministra nadležnog za zdravstvo i socijalnu skrb, donosi
