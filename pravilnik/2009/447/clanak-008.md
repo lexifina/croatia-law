@@ -1,0 +1,2 @@
+# Članak 8.
+Pri označavanju koncentriranog voćnog soka iz točke 2. poglavlja I. Priloga 1. ovoga Pravilnika koji nije namijenjen distribuciji krajnjem potrošaču, mora biti navedena količina dodanog šećera odnosno količina dodanog limunovog soka ili tvari za reguliranje kiselosti sukladno odredbama Pravilnika o prehrambenim aditivima (»Narodne novine« br. 81/08)2 koja se navodi na ambalaži, privjesnici odnosno uz ostale podatke kojima se označava koncentrirani voćni sok, a koji se nalaze uz ambalažu ili na popratnom dokumentu.

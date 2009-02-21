@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ne dovodeći u pitanje odredbe Pravilnika o prehrambenim aditivima (»Narodne novine« br. 81/08)[2], u proizvodnji proizvoda iz poglavlja I. Priloga 1. ovoga Pravilnika dopušteni su samo postupci i tvari propisani u poglavlju II. Prilogu 1. ovoga Pravilnika te sirovine propisane u Prilogu 2. ovoga Pravilnika, dok se pri proizvodnji voćnih nektara mora udovoljiti zahtjevima propisanim u Prilogu 4. ovoga Pravilnika.
+(2) U proizvodnji proizvoda iz članka 1. ovoga Pravilnika dopušteno je dodavanje vitamina i minerala sukladno odredbama Pravilnika o navođenju hranjivih vrijednosti hrane (»Narodne novine« br. 60/08, 74/08)[3].
