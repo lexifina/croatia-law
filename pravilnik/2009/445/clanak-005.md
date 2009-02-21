@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Naziv »mlijeko« i nazivi koji se koriste za mliječne proizvode, tamo gdje je to primjenjivo, mogu se koristiti s riječju ili riječima kako bi se označili proizvodi kojima su dodani i drugi sastojci osim sastojaka mliječnih proizvoda. Drugi sastojci ne smiju zamijeniti bilo koju mliječnu komponentu. U proizvodima kojima su dodani drugi sastojci osim sastojaka mliječnih proizvoda mlijeko ili mliječni proizvod je bitan dio u pogledu količine ili određivanja karakteristika proizvoda.
+(2) Za mlijeko, osim kravljeg, i mliječne proizvode koji nisu proizvedeni od kravljeg mlijeka, obvezno je navođenje vrste životinje od koje potječu.

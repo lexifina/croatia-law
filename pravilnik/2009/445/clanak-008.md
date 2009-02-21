@@ -1,0 +1,2 @@
+# Članak 8.
+Toplinski obrađeno mlijeko koje ne udovoljava zahtjevima za udjelom mliječne masti iz članka 7. točke 2., 3. i 4. ovoga Pravilnika, smatra se mlijekom namijenjenim konzumaciji ukoliko je udio mliječne masti na pretpakovini lako čitljiv i jasno označen na razini točnosti od jednog decimalnog mjesta oznakom »…% mliječne masti». Takvo mlijeko ne smije biti označeno kao punomasno, djelomično obrano ili obrano.

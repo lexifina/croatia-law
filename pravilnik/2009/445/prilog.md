@@ -1,0 +1,3 @@
+[1] Pravilnikom su preuzete odredbe Direktive 2000/13/EZ Europskog parlamenta i Vijeća od 20. ožujka 2000. o usklađivanju propisa država članica koji se odnose na označavanje, prezentaciju i reklamiranje prehrambenih proizvoda.
+[2] Zakonom su preuzete odredbe Direktive Vijeća 84/450/EEC od 10. rujna 1984. koja se odnosi na usklađivanje zakona, uredbi i upravnih postupaka država članica vezanih uz zavaravajuće oglašavanje.
+[3] Pravilnikom su preuzete odredbe Direktive Vijeća (EEZ) br. 496/90 od 24. rujna 1990. o obilježavanju hranjive vrijednosti prehrambenih proizvoda, koja je dopunjena Direktivom Komisije (EZ) br. 2003/120 od 5. prosinca 2003.
