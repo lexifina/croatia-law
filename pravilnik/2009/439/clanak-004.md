@@ -1,0 +1,2 @@
+# Članak 4.
+Proračunski nadzor obavlja se kod proračunskih i izvanproračunskih korisnika državnog proračuna, jedinica lokalne i područne (regionalne) samouprave i njihovih proračunskih i izvanproračunskih korisnika, pravnih i fizičkih osoba kojima su doznačena sredstva iz proračuna i financijskih planova izvanproračunskih korisnika kao i pravnih osoba kojima su dana jamstva države i jedinica lokalne i područne (regionalne) samouprave (dalje u tekstu: subjekti nadzora).
