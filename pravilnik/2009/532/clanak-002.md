@@ -1,0 +1,7 @@
+# Članak 2.
+(1) Zaposlena majka i samozaposlena majka, koja namjerava koristiti pravo na stanku iz članka 19. Zakona o rodiljnim i roditeljskim potporama (u daljnjem tekstu: Zakon), dužna je o svojoj namjeri obavijestiti poslodavca i podnijeti zahtjev nadležnoj ustrojbenoj jedinici Hrvatskog zavoda za zdravstveno osiguranje, na čijem području ima prebivalište ili stalni, odnosno privremeni boravak (u daljnjem tekstu: nadležna ustrojbena jedinica Zavoda), najmanje 30 dana prije dana početka korištenja toga prava.
+(2) Na temelju pisanog zahtjeva iz stavka 1. ovoga članka, potvrde izabranog doktora/ice medicine specijaliste/ice pedijatra/ice da majka doji dijete, potvrde poslodavca da majka radi u punom radnom vremenu, nadležna ustrojbena jedinica Zavoda donosi rješenje o pravu na stanku.
+(3) Tijekom korištenja prava na stanku majka je dužna svaka dva mjeseca dostaviti nadležnoj ustrojbenoj jedinici Zavoda novu potvrdu izabranog/ne doktora/ice medicine specijaliste/ice pedijatra/ice da doji dijete.
+(4) Majka je dužna nadležnoj ustrojbenoj jedinici Zavoda u roku od 8 dana pisanim putem prijaviti svaku promjenu koja utječe na gubitak prava na stanku.
+(5) O prestanku prava na stanku prije isteka razdoblja utvrđenog za korištenje tog prava nadležna ustrojbena jedinica Zavoda donosi rješenje.
+(6) Rješenje iz stavka 2. i 5. ovoga članka, nadležna ustrojbena jedinica Zavoda donosi u roku od 8 dana od dana zaprimanja prijave o promjeni i dostavlja se majci i njezinom poslodavcu.

@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Zaposlena majka i samozaposlena majka za vrijeme korištenja prava na stanku iz članka 2. ovoga Pravilnika, ima pravo na naknadu plaće koja iznosi 100% proračunske osnovice, preračunate na satnu osnovicu za mjesec za koji se obračunava naknada plaće, pod uvjetom da ispunjava staž osiguranja propisan člankom 24. stavkom 9. Zakona.
+(2) Zaposlena majka i samozaposlena majka, koja ne ispunjava uvjet staža osiguranja iz stavka 1. ovoga članka, ima pravo na naknadu plaće koja iznosi 50% proračunske osnovice, preračunate na satnu osnovicu za mjesec za koji se obračunava naknada plaće.
+(3) Pod proračunskom satnom osnovicom iz stavka 1. i 2. ovoga članka podrazumijeva se propisani postotni iznos proračunske osnovice obračunat na svoju satnu vrijednost s obzirom na puno radno vrijeme u mjesecu za koji se obračunava naknada plaće.
