@@ -1,0 +1,3 @@
+# Članak 5.
+Iznimno, natječaj se može raspisivati i unutar razdoblja od pet godina utvrđenih Programom za ona zaštićena područja - zone za koje je ostalo slobodnih mjesta u okviru Programa, ako nositelj dopuštenja odustane od korištenja ili ako niti jedan pristupnik ne ispuni uvjete Natječaja odnosno ako se kome oduzme već izdano dopuštenje.
+Natječaj se može raspisivati unutar razdoblja od pet godina i za zaštićena područja - zone koje nisu utvrđene Programom, ako je riječ o novootkrivenim zaštićenim područjima - zonama, s time da se dopuštenje izdaje do isteka roka određenog petogodišnjim programom.

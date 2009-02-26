@@ -1,0 +1,2 @@
+# Članak 7.
+Ako nositelj dopuštenja odustane od korištenja dopuštenja, dužan je o tome pisano obavijestiti nadležni konzervatorski odjel Ministarstva kulture koji je izdao dopuštenje. Ukoliko je u tekućoj godini obavljeno barem jedno ronjenje, nositelj dopuštenja je dužan uplatiti utvrđenu godišnju naknadu, a dopuštenje se može izdati sljedećoj prijavljenoj osobi na natječaj koja najviše udovoljava uvjetima iz članka 6. stavak 3. ovoga Pravilnika, do isteka roka određenog za prethodnog nositelja dopuštenja.
