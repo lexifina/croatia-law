@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Obvezno mirovinsko društvo obvezno je za svakih deset tisuća članova iznad pedeset tisuća članova obveznog fonda na račun jamstvenog pologa uplatiti milijun kuna.
+(2) Sredstva jamstvenog pologa iz članka 1. ove Odluke usklađuju se s troškovima života na način da se iznos sredstava jamstvenog pologa koje je obvezno mirovinsko društvo, u skladu sa Zakonom a ovisno o broju članova, obvezno držati na računu jamstvenog pologa na dan 31. prosinca 2008. pomnoži s koeficijentom potrošačkih cijena, a koji je pokazatelj indeksa troškova života u 2008. po objavi Državnog zavoda za statistiku.
+(3) Državni zavod za statistiku objavio je indeks potrošačkih cijena koji za 2008. iznosi 102,9 pa je koeficijent iz stavka 2. ovoga članka 1,029.
+(4) Usklađenje sredstava jamstvenog pologa s troškovima života odnosno indeksom potrošačkih cijena za 2008. godinu obvezno mirovinsko društvo mora izvršiti kunskom uplatom iznosa iz stavka 2. ovoga članka na račun jamstvenog pologa u roku 15 dana, od dana stupanja na snagu ove Odluke.
+(5) Obvezno mirovinsko društvo, dokaze o stanju sredstava računa jamstvenog pologa na dan 31. prosinca 2008. i uplati izvršenoj u skladu s ovom Odlukom, obvezno je dostaviti Hrvatskoj agenciji za nadzor financijskih usluga.
