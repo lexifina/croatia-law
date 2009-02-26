@@ -1,0 +1,1 @@
+Odluka o dodjeli koncesije društvu Kalničke vode Bio natura d.d., Križevci, za crpljenje mineralnih voda radi prodaje (prirodne mineralne vode) na tržištu i korištenja u proizvodnom postupku (za tehnološke i slične potrebe)
