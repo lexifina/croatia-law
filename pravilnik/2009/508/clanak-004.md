@@ -1,0 +1,3 @@
+# Članak 4.
+Članak 1. Pravilnika mijenja se i glasi:
+»Ovim se Pravilnikom propisuje način izdavanja diplomatskih i službenih putovnica Republike Hrvatske, određuju nositelji i uvjeti izdavanja ovih vrsta putovnica, utvrđuje rok njihova važenja, propisuju obrasci diplomatske i službene putovnice, obrazac zahtjeva za njihovo izdavanje, obrazac na kojem se ovlaštenoj pravnoj osobi dostavljaju podaci radi upisa u diplomatsku ili službenu putovnicu, kao i način vođenja upisnika o izdatim diplomatskim i službenim putovnicama, nestalim diplomatskim i službenim putovnicama te način vođenja i sadržaj evidencije o izrađenim diplomatskim i službenim putovnicama koje vodi ovlaštena pravna osoba«.
