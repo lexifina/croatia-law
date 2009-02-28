@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) i točke I. Odluke o prestanku važenja Odluke o posebnoj obveznoj pričuvi na obveze po izdanim vrijednosnim papirima (»Narodne novine«, br. 18/2009.) guverner Hrvatske narodne banke donio je 17. veljače 2009.
