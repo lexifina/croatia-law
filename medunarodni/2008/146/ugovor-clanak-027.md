@@ -1,0 +1,5 @@
+# Članak 27.
+Izuzeća od dokazivanja podrijetla
+1. Proizvodi koje u malim paketima pojedinac šalje pojedincu ili koji čine osobnu prtljagu putnika prihvaćat će se kao proizvodi podrijetlom iz ugovornih stranaka bez podnošenja dokaza o podrijetlu, pod uvjetom da takvi proizvodi nisu trgovačke naravi, da su deklarirani kao proizvodi koji zadovoljavaju zahtjeve ovoga Protokola i da ne postoji sumnja u istinitost takve izjave. U slučaju proizvoda koji su poslani poštom ova se izjava može unijeti u carinsku deklaraciju CN22/CN23 ili na list papira koji se prilaže toj ispravi.
+2. Uvoz proizvoda koji je povremene naravi i koji obuhvaća isključivo proizvode za osobnu uporabu primatelja ili putnika ili članova njihovih obitelji neće se smatrati uvozom trgovačke naravi ako je iz naravi i količine proizvoda očito da ne postoji namjera njihove komercijalne uporabe.
+3. Nadalje, ukupna vrijednost takvih proizvoda ne smije prelaziti 500 eura u slučaju malih paketa ili 1 200 eura u slučaju proizvoda koji čine dio osobne prtljage putnika.

@@ -1,0 +1,9 @@
+# Članak 31.
+Iznosi iskazani u eurima
+1. Za primjenu odredaba članka 22. stavka 1. točke (b) i članka 27. stavka 3. u slučajevima kada su proizvodi fakturirani u valuti koja nije euro, Hrvatska ili države članice Zajednice jednom će godišnje utvrditi iznos u svojoj nacionalnoj valuti koji predstavlja protuvrijednost iznosa iskazanoga u eurima.
+2. Na pošiljke će se primjenjivati povlastica iz odredaba članka 22. stavka 1. točke (b), ili članka 27. stavka 3. pozivanjem na valutu u kojoj je račun ispostavljen, a u skladu s iznosom koji je utvrdila predmetna zemlja.
+3. Iznosi koji će se rabiti u nekoj nacionalnoj valuti predstavljat će protuvrijednost u toj valuti iznosa iskazanih u eurima prvoga radnog dana u listopadu. Ti će se iznosi Komisiji Europskih zajednica priopćiti do 15. listopada, a primjenjivat će se od 1. siječnja sljedeće godine. Komisija Europskih zajednica obavijestit će sve predmetne zemlje o odgovarajućim iznosima.
+4. Predmetna zemlja može naviše ili naniže zaokružiti iznos koji nastane zbog konverzije iznosa iskazanoga u eurima u svoju nacionalnu valutu. Takav zaokruženi iznos ne smije odstupati od iznosa koji je dobiven konverzijom više od 5%. Predmetna zemlja može zadržati nepromijenjenom protuvrijednost u nacionalnoj valuti iznosa koji je iskazan u eurima ako je u trenutku godišnjega usklađivanja predviđenoga u stavku 3. rezultat konverzije toga iznosa prije zaokruživanja povećanje manje od 15% u protuvrijednosti u nacionalnoj valuti. Protuvrijednost se u nacionalnoj valuti može zadržati nepromijenjenom ako je rezultat konverzije smanjenje te protuvrijednosti.
+5. Iznose u eurima preispitivat će Odbor za stabilizaciju i pridruživanje na zahtjev Hrvatske ili Zajednice. Pri preispitivanju Odbor za stabilizaciju i pridruživanje u obzir će uzimati poželjnost očuvanja realnoga učinka ograničenja. U tu svrhu Odbor može donijeti odluku o preinaci iznosa koji su iskazani u eurima.
+Glava VI.
+ORGANIZACIJA UPRAVNE SURADNJE
