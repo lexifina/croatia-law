@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Danom upisa Centra u sudski registar prestaje važiti Uredba o osnivanju Hrvatskog zavoda za vinogradarstvo i vinarstvo (»Narodne novine«, br. 22/96., 85/96., 11/97., 48/00. i 96/03.), Uredba o osnivanju Zavoda za voćarstvo (»Narodne novine«, br. 100/01.), Uredba o osnivanju Zavoda za tlo (»Narodne novine«, br. 100/01.) te Rješenje o osnivanju Zavoda za zaštitu bilja u poljoprivredi i šumarstvu Republike Hrvatske klasa: 011-02/94-01/91, urbroj: 525-01-94-01 od 14. 7. 1994 i klasa: 011-02/00-01/4, urbroj: 525-01-00-01 od 4. svibnja 2000.
+(2) Opći akti ustanova iz članka 16. stavka 2. ovoga Zakona, ako nisu u suprotnosti s odredbama ovoga Zakona, ostaju na snazi do stupanja na snagu općih akata iz članka 7. stavka 2. podstavka 1., 2. i 3. ovoga Zakona.
