@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, broj 85/08 i 110/08) ministar zdravstva i socijalne skrbi uz suglasnost ministrice obitelji, branitelja i međugeneracijske solidarnosti donosi

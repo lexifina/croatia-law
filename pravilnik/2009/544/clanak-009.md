@@ -1,0 +1,2 @@
+# Članak 9.
+Pravo roditelja na rad u skraćenom radnom vremenu iz članka 4. ovoga Pravilnika prestaje istekom roka na koje je priznato, odnosno kad liječničko povjerenstvo, na temelju prijedloga izabranog doktora medicine primarne zdravstvene zaštite djeteta, odnosno na zahtjev roditelja ocijeni da djetetu zbog promjena zdravstvenog stanja nije više potrebna pojačana briga i njega, te kada nastupe okolnosti utvrđene člankom 5. ovoga Pravilnika.
