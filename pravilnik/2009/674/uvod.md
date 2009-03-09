@@ -1,0 +1,1 @@
+Na temelju odredbi članka 59. stavak 2., članka 88. stavak 7. i članka 90. stavak 1. i 2. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 49/99, 63/00, 103/03, 177/04 i 71/07), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 26. veljače 2009. godine
