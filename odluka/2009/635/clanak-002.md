@@ -1,0 +1,2 @@
+# Članak 2.
+Mirovina u visini najniže mirovine, koja se priznaje hrvatskom branitelju iz Domovinskog rata, kada navrši 65 godina starosti (muškarac), odnosno 60 godina starosti (žena), a ne ispunjava uvjete mirovinskog staža za priznavanje prava na starosnu mirovinu, prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 102/98., 127/00., 59/01.,109/01., 147/02., 117/03., 30/04., 177/04., 92/05., 79/07. i 35/08.) od 1. siječnja 2009. iznosi 2.330,10 kn mjesečno.
