@@ -1,0 +1,11 @@
+# Članak 3.
+U točki e) Radna mjesta SSS u rednom broju 15. dodaje se:
+NAZIV RADNOG MJESTA
+NAZIV ZVANJA
+KOEF.
+SLOŽENOSTI
+DODACI
+POLICIJSKI SLUŽBENIK - REFERENT ZA OBRADU OPERATIVNIH PODATAKA
+policajac
+0,8
+20
