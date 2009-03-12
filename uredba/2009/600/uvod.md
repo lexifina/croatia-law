@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o tehničkim zahtjevima za proizvode i ocjeni sukladnosti (»Narodne novine«, br. 158/2003 i 79/2007), Vlada Republike Hrvatske je na sjednici održanoj 26. veljače 2009. godine donijela
