@@ -1,0 +1,20 @@
+# Članak 3.
+Zavod obavlja sljedeće poslove:
+- predlaže, planira, prati i analizira mjere hitne medicine u Republici Hrvatskoj,
+- predlaže ministru nadležnom za zdravstvo mrežu hitne medicine,
+- utvrđuje standarde opreme, vozila te vizualnog identiteta vozila i zdravstvenih radnika, sukladno standardima suvremene hitne medicine,
+- utvrđuje obvezujuće standarde operativnih postupaka, protokole rada i algoritme postupanja, za sve oblike hitne medicine, te usklađuje njihovu primjenu,
+- utvrđuje standarde hitne medicine za hitni medicinski prijevoz cestom, zrakom i vodom,
+- prati, analizira i nadzire ujednačenu provedbu standarda kvalitete rada i opremljenosti u svim županijskim zavodima za hitnu medicinu,
+- predlaže i oblikuje edukacijske programe cjeloživotnog obrazovanja/trajne izobrazbe, te sudjeluje u provedbi i nadzire edukaciju i stručno usavršavanje zdravstvenih radnika hitne medicine,
+- sudjeluje u obrazovanju zdravstvenih radnika,
+- oblikuje doktrinu u djelatnosti hitne medicine,
+- predlaže program mjera zdravstvene zaštite iz područja rada hitne medicine,
+- planira i provodi aktivnosti u svrhu uspostave informatizacije sustava hitne medicine kompatibilne s informatičkim sustavom Hrvatskog zavoda za zdravstveno osiguranje,
+- provodi edukaciju stanovništva iz svog područja rada,
+- surađuje s drugim zdravstvenim ustanovama i zdravstvenim radnicima, u svrhu unaprjeđenja liječenja i dijagnostike iz područja hitne medicine,
+- prati i provodi stručna i znanstvena istraživanja iz hitne medicine,
+- prikuplja podatke za godišnju analizu rada hitne medicine, analizira ih i dostavlja ministarstvu nadležnom za zdravstvo, Hrvatskom zavodu za javno zdravstvo i Hrvatskom zavodu za zdravstveno osiguranje,
+- prikuplja podatke i vodi registre iz područja hitne medicine,
+- planira i sudjeluje u izradi i provedbi pojedinih projekata zdravstvene zaštite u izvanrednim prilikama u koordinaciji s Kriznim stožerom ministarstva nadležnog za zdravstvo, Državnom upravom za zaštitu i spašavanje, Ministarstvom unutarnjih poslova, Ministarstvom obrane, Hrvatskim Crvenim križem, Hrvatskom gorskom službom spašavanja te ostalim službama za spašavanje,
+- koordinira, stručno usmjerava i nadzire rad županijskih zavoda za hitnu medicinu.
