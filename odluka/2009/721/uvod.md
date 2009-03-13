@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine«, br. 109/2007.), članka 47. stavka 2. Zakona o kreditnim unijama (»Narodne novine«, br. 141/2006. i 25/2009.) te članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donosi
