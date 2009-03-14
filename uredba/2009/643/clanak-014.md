@@ -1,0 +1,11 @@
+# Članak 14.
+Članak 37. mijenja se i glasi:
+»Služba za nadzor obavlja upravne i druge stručne poslove koji se odnose na koordiniranje provođenja i provođenje inspekcijskog nadzora velikih poreznih obveznika i institucija financijskog tržišta; koordiniranje provođenja i provođenje inspekcijskog nadzora srednjih i malih poreznih obveznika, koordiniranje provođenja i provođenje inspekcijskog nadzora igara na sreću, zabavnih i nagradnih igara.
+5.1. Odjel za nadzor velikih poreznih obveznika
+Odjel za nadzor velikih poreznih obveznika obavlja upravne i druge stručne poslove koji se odnose na koordiniranje provođenja i provođenje inspekcijskog nadzora velikih poreznih obveznika i institucija financijskog tržišta.
+5.2. Odjel za nadzor srednjih i malih poreznih obveznika
+Odjel za nadzor srednjih i malih poreznih obveznika obavlja upravne i druge stručne poslove koji se odnose na koordiniranje provođenja i provođenje inspekcijskog nadzora srednjih i malih poreznih obveznika.
+5.3. Odjel za nadzor poreza na dodanu vrijednost
+Odjel za nadzor poreza na dodanu vrijednost obavlja upravne i druge stručne poslove koji se odnose na koordiniranje provođenja i provođenje inspekcijskog nadzora poreza na dodanu vrijednost.
+5.4. Odjel za nadzor igara na sreću, zabavnih i nagradnih igra
+Odjel za nadzor igara na sreću, zabavnih i nagradnih igra obavlja upravne i druge stručne poslove koji se odnose na koordiniranje provođenja i provođenje inspekcijskog nadzora igara na sreću, zabavnih i nagradnih igara.«
