@@ -1,0 +1,7 @@
+# Članak 2.
+U članku 4. Pravilnika, mijenja se stavak 3. i glasi:
+»U slučaju provedbe obrazovnog programa, prvi ispitni rok za brokere, održat će se najkasnije 60 (šezdeset) dana, a drugi ispitni rok, u skladu s odredbom iz članka 11., stavka 5. ovog Pravilnika, najkasnije 120 (sto dvadeset) dana od dana završetka predavanja predviđenih obrazovnim programom.
+Prvi ispitni rok za investicijske savjetnike, održat će se najkasnije 90 (devedeset) dana od dana provedbe drugog ispitnog roka za brokere.
+Drugi ispitni rok za investicijske savjetnike, sukladno odredbi iz članka 11. stavka 5. ovog Pravilnika, održat će se najkasnije 150 (sto pedeset) dana od dana provedbe drugog ispitnog roka za brokere.
+Prvi ispitni rok za ovlaštene upravitelje mirovinskim fondovima održat će se najkasnije 60 (šezdeset) dana nakon odslušanih kolegija 1. i 2. iz članka 8 stavka 3. Pravilnika, unutar programa za polaganje ispita, a drugi ispitni rok najkasnije 120 dana nakon odslušanih kolegija 1. i 2. iz članka 8 stavka 3. Pravilnika.
+Prvi ispitni rok za ovlaštene upravitelje mirovinskih osiguravajućih društava održat će se najkasnije 60 (šezdeset) dana nakon odslušanih kolegija 1. i 2. te sadržaja »Aktuarstvo u mirovinskom osiguranju« iz kolegija 6., članka 8. stavka 4. Pravilnika, a drugi ispitni rok najkasnije 120 dana nakon odslušanih kolegija 1. i 2. te sadržaja »Aktuarstvo u mirovinskom osiguranju« iz kolegija 6., članka 8. stavka 4. Pravilnika.«

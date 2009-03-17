@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje dozvole ili licence za obavljanje poslova brokera, investicijskog savjetnika, ovlaštenog upravitelja mirovinskim fondovima i ovlaštenog upravitelja mirovinskih osiguravajućih društava, »Narodne novine« 5/2009«, (dalje u tekstu: Pravilnik), članak 2, stavak 5. mijenja se i glasi:
+»Pohađanje obrazovnog programa nije uvjet za pristupanje ispitu za provjeru stručnih znanja potrebnih za dobivanje dozvole ili licence za obavljanje poslova brokera i investicijskog savjetnika.
+Pohađanje kolegija 1. i 2. iz članka 8 stavak 3., unutar programa za polaganje ispita, uvjet je za pristupanje ispitu za ovlaštenog upravitelja mirovinskim fondovima, a kandidatima koji odslušaju navedene kolegije Agencija će o tome izdati potvrdu.
+Pohađanje kolegija 1. i 2. iz članka 8, stavak 4., te sadržaja »Aktuarstvo u mirovinskom osiguranju« iz kolegija 6. unutar programa za polaganje ispita je uvjet za pristupanje ispitu za ovlaštenog upravitelja mirovinskih osiguravajućih društava, a kandidatima koji odslušaju navedene kolegije i sadržaj Agencija će o tome izdati potvrdu.«
