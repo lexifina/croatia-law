@@ -1,0 +1,8 @@
+## VII. NASTAVNICI
+# Članak 37.
+(1) Poslove nastavnika strukovnih predmeta obavljaju nastavnici stručno-teorijskih sadržaja, nastavnici praktične nastave i vježbi, strukovni učitelji i suradnici u nastavi.
+(2) Poslove nastavnika stručno-teorijskih sadržaja može obavljati osoba koji je završila studij odgovarajuće vrste kojim se stječe najmanje 180 ECTS bodova ili više, ako je tako propisano kurikulumom, i ima potrebno pedagoško-psihološko-didaktičko-metodičko obrazovanje kojim se stječe 60 ECTS bodova (u daljnjem tekstu: pedagoške kompetencije) te koja ispunjava ostale uvjete propisane kurikulumom.
+(3) Poslove nastavnika praktične nastave i vježbi može obavljati nastavnik koji je završio preddiplomski sveučilišni studij ili preddiplomski stručni studij odgovarajuće vrste kojim se stječe najmanje 180 ECTS bodova i ima pedagoške kompetencije te prethodno stečenu kvalifikaciju odgovarajućeg profila.
+(4) Poslove strukovnog učitelja može obavljati osoba koja ima razinu obrazovanja propisanu kurikulumom, a ima najmanje srednje strukovno obrazovanje odgovarajućeg profila, pedagoške kompetencije te radni staž u struci u trajanju od najmanje pet godina.
+(5) Poslove suradnika u nastavi može obavljati osoba koja je završila odgovarajuće srednje obrazovanje, stekla pedagoške kompetencije te ima radni staž u struci u trajanju od najmanje pet godina, osim ako strukovnim kurikulumom nije drugačije propisano.
+(6) Strukovni učitelji, suradnici u nastavi i mentori iz članka 26. ovoga Zakona pedagoške kompetencije stječu po posebnom programu koji donosi Ministarstvo, a organizira i provodi institucija koju ovlasti Ministarstvo.
