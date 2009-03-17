@@ -1,0 +1,3 @@
+# Članak 11.
+Stručne poslove zaštite od buke utvrđene pravilnikom iz stavka 2. ovoga članka mogu obavljati pravne osobe registrirane za obavljanje te djelatnosti koje imaju ovlaštenje ministra, a akreditirane su prema normi HRN EN ISO/IEC 17025 uz prijelazni period za dobivanje akreditacije od dvije godine.
+Pravilnik o uvjetima glede prostora, opreme i radnika pravnih osoba iz stavka 1. ovoga članka, kao i o stručnim poslovima zaštite od buke te o stručnom nadzoru nad pravnim osobama koje obavljaju te poslove uz prethodno pribavljeno mišljenje ministra nadležnog za zaštitu okoliša, prostorno uređenje i graditeljstvo donosi ministar.

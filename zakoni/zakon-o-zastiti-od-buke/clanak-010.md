@@ -1,0 +1,3 @@
+# Članak 10.
+Radi zadovoljavanja potreba za održavanjem javnih skupova i organiziranja razonode, zabavnih i športskih priredbi i drugih aktivnosti na otvorenom ili u zatvorenom prostoru za stanovništvo i goste, kada postoji mogućnost prekoračenja dopuštenih razina buke, jedinice lokalne samouprave odlukom predstavničkih tijela određuju ulice, dijelove ulica i naselja, trgove i druge lokacije u kojima je moguće prekoračiti dopuštene razine buke. Istom odlukom određuju se i putovi za dolaženje i odlaženje sudionika navedenih događanja.
+Buka koja nastaje uslijed događanja iz stavka 1. ovoga članka ne smije u drugim ulicama ili dijelovima ulica, u ostalim dijelovima istog naselja i drugim naseljima prelaziti dopuštene granice.
