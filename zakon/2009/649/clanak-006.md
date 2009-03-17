@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Nadležno tijelo iz članka 11. ovoga Zakona rješenjem će zabraniti stavljanje na tržište proizvoda, odnosno odrediti njihovo povlačenje s tržišta i /ili povrat proizvoda od potrošača ako utvrdi da ti proizvodi, iako ispunjavaju odredbe članka 5. stavka 2. do 4. ovoga Zakona, ugrožavaju sigurnost i zdravlje potrošača i drugih korisnika.
+(2) U roku od 20 dana od dana objave odluke Europske komisije u službenom glasilu Europskih zajednica kojom se zabranjuje, odnosno ograničava stavljanje na tržište i izvoz određenog proizvoda ili serije proizvoda koji predstavljaju ozbiljnu opasnost, čelnik središnjeg tijela državne uprave nadležnog za poslove opće sigurnosti proizvoda naredbom će propisati način postupanja proizvođača odnosno distributera.
+(3) Nadležno tijelo iz članka 11. ovoga Zakona pri nadzoru provedbe naredbe iz stavka 2. ovoga članka ima ovlasti poduzeti sve mjere iz članka 11. ovoga Zakona.
