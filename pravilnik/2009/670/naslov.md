@@ -1,0 +1,1 @@
+Pravilnik kojim se propisuje sadržaj zahtjeva za izdavanje odobrenja društvu za upravljanje investicijskim fondovima za obavljanje poslova upravljanja imovinom-portfeljom i investicijskog savjetovanja
