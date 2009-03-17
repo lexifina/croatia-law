@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Aldo Radolović, zamjenik predsjednice Suda, te suci Marko Babić, Snježana Bagić, Mario Jelušić, Mario Kos, Davor Krapac, Ivan Matija, Željko Potočnjak, Agata Račan, Duška Šarin i Nevenka Šernhorst, rješavajući o prijedlozima za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom, na sjednici 17. ožujka 2009. godine, donio je
