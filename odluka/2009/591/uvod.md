@@ -1,0 +1,1 @@
+Na osnovi članka 24. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 2. sjednici održanoj 26. veljače 2009. godine donijelo je
