@@ -1,0 +1,5 @@
+# Članak 18.
+Danom stupanja na snagu ovoga Zakona u Zakonu o poljoprivredi (»Narodne novine«, br. 66/01. i 83/02.)
+– u članku 38. stavku 1. riječi: »Ravnateljstva za tržišnu i strukturnu potporu u poljoprivredi (u daljnjem tekstu: Ravnateljstvo), kao ustrojstvene jedinice Ministarstva« zamjenjuju se riječima: »Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija)«, a u stavku 2. riječ: »Ravnateljstvo« zamjenjuje se riječju: »Agencija«,
+– u članku 40. stavku 1. i 3. riječi: »tijela državne uprave nadležna za poljoprivredu« zamjenjuju se riječju: »Agencija«,
+– u članku 40.a stavku 1. riječi: »uredima državne uprave u jedinicama područne (regionalne) samouprave, odnosno upravnom tijelu Grada Zagreba nadležnim za poslove poljoprivrede« zamjenjuju se riječima: »Agenciji«, a u stavku 2. riječi: »Uredi državne uprave u jedinicama područne (regionalne) samouprave, odnosno upravno tijelo Grada Zagreba nadležni za poslove poljoprivrede izdaju« zamjenjuju se riječima: »Agencija izdaje«.

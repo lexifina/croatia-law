@@ -1,0 +1,7 @@
+# Članak 17.
+(1) Agencija započinje s radom danom upisa u sudski registar nakon donošenja akata iz članka 16. stavka 2. ovoga Zakona.
+(2) Danom upisa Agencije u sudski registar povjeravaju se poslovi Ravnateljstva za tržišnu i strukturnu potporu u poljoprivredi kao ustrojstvene jedinice unutar Ministarstva poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: Ravnateljstvo) i poslovi ureda državne uprave u jedinicama područne (regionalne) samouprave, odnosno upravnog tijela Grada Zagreba, u okviru djelatnosti iz članka 3. stavka 2. ovoga Zakona, Agenciji.
+(3) U postupku iz stavka 2. ovoga članka Agencija preuzima poslove, pismohranu i ostalu dokumentaciju, materijalno-tehnička sredstva te financijska prava i obveze Ravnateljstva, kao i ureda državne uprave u jedinicama područne (regionalne) samouprave, odnosno upravnog tijela Grada Zagreba.
+(4) Nakon donošenja akata iz članka 16. stavka 2. ovoga Zakona i upisa Agencije u sudski registar, Agencija preuzima državne službenike i namještenike zatečene na obavljanju poslova iz stavka 2. ovoga članka, uz njihov pristanak, te ih raspoređuje na odgovarajuće poslove u Agenciji.
+(5) Na državne službenike i namještenike koji ne pristanu na raspored iz stavka 4. ovoga članka, primjenjuju se propisi o državnim službenicima o stavljanju na raspolaganje.
+(6) Do upisa Agencije u sudski registar poslove Agencije prema odredbama ovoga Zakona, obavljat će Ravnateljstvo i uredi državne uprave u jedinicama područne (regionalne) samouprave, odnosno upravno tijelo Grada Zagreba.
