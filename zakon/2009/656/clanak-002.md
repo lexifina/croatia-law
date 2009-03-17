@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 17. mijenja se i glasi:
+»Isključiva prava na davanje odobrenja ili zabranu radnji iz članka 14. stavka 1. točke b) ovoga Zakona iscrpljuju se za područje Republike Hrvatske nakon što je zaštićenu topografiju ili poluvodički proizvod koji je proizveden korištenjem zaštićene topografije stavila u promet na području Republike Hrvatske, odnosno nakon pristupanja Republike Hrvatske Europskoj uniji na području neke od država Europske unije, odnosno država koje su stranke ugovornice Ugovora o Europskom ekonomskom prostoru, osoba koja je ovlaštena odobriti komercijalno iskorištavanje topografije ili netko drugi uz njezinu suglasnost.«
