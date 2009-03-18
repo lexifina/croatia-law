@@ -1,0 +1,1 @@
+Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2009. godinu (NN br. 149/2008) u Razdjelu 020 Vlada Republike Hrvatske, Glavi 21 Aktivnost A7320003 Nacionalne manjine, pozicija 3811: Tekuće donacije u novcu
