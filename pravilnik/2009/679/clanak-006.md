@@ -1,0 +1,4 @@
+# Članak 6.
+1) U slučaju sumnje, primarnog ili sekundarnog izbijanja bilo koje bolesti navedene u Dodatku I. Dijelu B. ovoga Pravilnika, doktor veterinarske medicine (u daljnjem tekstu: veterinar), koji utvrdi sumnju na zaraznu bolest, primarno ili sekundarno izbijanje bolesti, mora o tome bez odgađanja, a najkasnije u roku 24 sata telefonom i telefaksom, izvijestiti državnog veterinarskog inspektora u nadležnoj ispostavi veterinarskog ureda.
+2) Veterinar mora dostaviti državnom veterinarskom inspektoru u nadležnoj ispostavi veterinarskog ureda informaciju o sumnji/potvrđenom slučaju bolesti navedene u Dodatku I. Dijelu B. ovoga Pravilnika, na propisanom obrascu iz Dodatka III. ovoga Pravilnika.
+3) Izvješće o pojavi bolesti iz stavka 2. ovoga članka veterinar treba dostaviti državnom veterinarskom inspektoru u nadležnoj ispostavi veterinarskog ureda jedanput mjesečno do 10. u mjesecu, za protekli mjesec.

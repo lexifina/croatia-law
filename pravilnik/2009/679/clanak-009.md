@@ -1,0 +1,7 @@
+# Članak 9.
+1) O rezultatu dijagnostičke pretrage na bilo koju bolest iz Dodatka I. Dijela A. ovoga Pravilnika, ovlašteni laboratorij mora odmah, bez odgađanja, telefonom i telefaksom ili elektronskom poštom izvijestiti Upravu za veterinarstvo, Upravu za veterinarske inspekcije i nadležnu ispostavu veterinarskog ureda.
+2) Ako se radi o prvoj potvrđenoj pojavi neke od bolesti iz Dodatka I. ovoga Pravilnika, u zemlji, ovlašteni laboratorij mora odmah, bez odgađanja, telefonom i telefaksom ili elektronskom poštom, izvijestiti Upravu za veterinarstvo, Upravu za veterinarske inspekcije i nadležnu ispostavu veterinarskog ureda.
+3) O rezultatu dijagnostičke pretrage na bilo koju bolest iz Dodatka I. ovoga Pravilnika ovlašteni laboratorij mora izvijestiti pošiljatelja, Upravu za veterinarstvo, Upravu za veterinarske inspekcije i nadležnu ispostavu veterinarskog ureda.
+4) Ovlašteni laboratorij mora jedanput mjesečno, a najkasnije do 15. u mjesecu, dostaviti izvješće Upravi za veterinarstvo i Upravi za veterinarske inspekcije o rezultatima provedenih dijagnostičkih pretraga bolesti iz Dodatka I. ovoga Pravilnika.
+5) Rezultate dijagnostičkih pretraga na bjesnoću ovlašteni laboratorij mora dostaviti Upravi za veterinarstvo i Upravi za veterinarske inspekcije najkasnije do 3. u mjesecu za protekli mjesec.
+6) Jedanput mjesečno, a najkasnije do 20. u mjesecu, veterinarski uredi moraju dostaviti Upravi za veterinarstvo i Upravi za veterinarske inspekcije izvješće o pojavi zaraznih bolesti životinja.
