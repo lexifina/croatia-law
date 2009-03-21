@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/2005 i 35/2008) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 10. ožujka 2009. godine donijela
