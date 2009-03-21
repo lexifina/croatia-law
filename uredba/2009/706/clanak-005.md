@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Kod gradnje nove luke ili proširenja i nadogradnje pristana postojeće luke, potrebno je izraditi prometno-tehnološki elaborat koji mora obuhvaćati: navigacijska i hidrografska obilježja lučkog akvatorija, tehničko-tehnološka obilježja pristana i plovila koja će ga koristiti, postupke manevriranja i uplovljavanja, sigurnosne mjere koje se moraju poduzeti na mjestu priveza te postupke u slučaju izvanrednih događaja.
+(2) Prometno-tehnološki elaborat mora se izraditi prije dobivanja dozvole za gradnju ili, ako dozvola nije potrebna, prije korištenja luke i mora biti prihvaćen i odobren od nadležne lučke kapetanije.
+(3) Lučka kapetanija može zahtijevati izradu elaborata iz stavka 1. ovoga članka i u slučaju postojećih luka kada ocijeni da je to potrebno iz razloga sigurnosti plovidbe i sigurnog boravka plovila u luci.
