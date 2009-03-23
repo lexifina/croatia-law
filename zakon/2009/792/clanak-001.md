@@ -1,0 +1,3 @@
+## O IZMJENI ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI (»Narodne novine«, br. 109/07.)
+# Članak 1.
+U članku 26. Zakona o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 109/07.) riječi: »17. svibnja 2009.« zamjenjuju se riječima: »na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnja općinska, gradska i županijska poglavarstva nastavljaju s radom do stupanja na dužnost općinskog načelnika, gradonačelnika i župana izabranih na neposrednim izborima.«
