@@ -1,0 +1,3 @@
+## O IZMJENI ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRADU ZAGREBU (»Narodne novine«, br. 125/08.)
+# Članak 1.
+U članku 12. Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu (»Narodne novine«, br. 125/08.) riječi: »18. svibnja 2009.« zamjenjuju se riječima: »na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora članova općinskih i gradskih vijeća, županijskih skupština i Gradske skupštine Grada Zagreba te općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, a dosadašnje Gradsko poglavarstvo nastavlja s radom do stupanja na dužnost gradonačelnika Grada Zagreba.«
