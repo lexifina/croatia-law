@@ -1,0 +1,4 @@
+# Članak 27.
+(1) Povjerenstvo iz članka 26. stavak 2. ovoga Pravilnika čini predsjednik i dva člana. Predsjednik i članovi imaju zamjenike.
+(2) Sastav Povjerenstva iz stavka 1. ovoga članka rješenjem imenuje glavni tajnik Hrvatskog autokluba ili osoba koju on ovlasti na rok od dvije godine.
+(3) Za člana Povjerenstva može biti imenovana osoba koja ima najmanje preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij prometnog, odgojno-obrazovnog ili pravnog smjera te je stekla odgovarajući naziv u skladu s posebnim propisom ili visoku stručnu spremu odgovarajućeg smjera i najmanje pet godina radnog iskustva na poslovima obrazovanja ili osposobljavanja u cestovnom prometu ili na poslovima stručnog nadzora ili na poslovima organiziranja i provedbe vozačkih ispita.

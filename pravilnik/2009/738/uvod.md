@@ -1,0 +1,1 @@
+Na temelju članka 206. stavak 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj: 67/08.) i članka 40. Pravilnika o stručnom ispitu za stručnog voditelja u autoškoli, predavača, ovlaštenog ispitivača i ovlaštenog nadzornika (»Narodne novine«, broj: 155/08.), Upravni odbor Hrvatskog autokluba dana 12. ožujka 2009. godine donio je

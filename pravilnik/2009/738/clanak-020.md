@@ -1,0 +1,3 @@
+# Članak 20.
+(1) U usmenom dijelu stručnog ispita osoba koja polaže stručni ispit obrazlaže navode iz svoga pisanog rada o provedbi ispita, odgovara na pitanja članova Povjerenstva, objašnjava svoja zapažanja, odluke te obrazlaže ocjenu kojom je ocijenila vožnju kandidata za vozača.
+(2) Povjerenstvo osobi koja polaže Stručni ispit za ovlaštenog ispitivača postavlja i druga pitanja koja su u uskoj vezi s provedbom vozačkih ispita, a koja se odnose na poznavanje sadržaja vezanih za propise koji uređuju djelatnost osposobljavanja kandidata za vozače i provedbu vozačkih ispita, Prometne propise i sigurnosna pravila, Psihologiju poučavanja kandidata za vozače, Dokimologiju na vozačkom ispitu, Prometnu tehniku, Poznavanje vozila i Metodiku nastave upravljanja vozilom.
