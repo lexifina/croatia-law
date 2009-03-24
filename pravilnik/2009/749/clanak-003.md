@@ -1,0 +1,2 @@
+# Članak 3.
+Podaci o tehničkim pregledima, registraciji vozila i ovjeri produljenja valjanosti prometne dozvole koji su u stanicama prikupljeni primjenom jedinstvenoga programskog rješenja, dostavljaju se Ministarstvu unutarnjih poslova, Hrvatskom autoklubu, tijelima državne uprave te zainteresiranim fizičkim i pravnim osobama putem Centra za vozila Hrvatske, sukladno propisima koji uređuju pravo na pristup informacijama.
