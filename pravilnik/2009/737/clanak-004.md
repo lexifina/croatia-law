@@ -1,0 +1,2 @@
+# Članak 4.
+Za predavača na stručnim savjetovanjima i seminarima glavni tajnik Hrvatskog autokluba može imenovati i sveučilišnog profesora ili istaknutog srednjoškolskog nastavnika struke predviđene programom stručnog usavršavanja i provjere stručne osposobljenosti ili osobu s visokom stručnom spremom i najmanje 5 godina radnog iskustva na poslovima obrazovanja ili osposobljavanja u cestovnom prometu.

@@ -1,0 +1,3 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 27.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o provedbi stručnog usavršavanja i provjeri stručne osposobljenosti djelatnika autoškola i ovlaštenih ispitivača (»Narodne novine«, broj 99/98.), Pravilnik Hrvatskog autokluba o organiziranju i provedbi stručnog usavršavanja i provjeri stručne osposobljenosti stručnih voditelja autoškola, predavača u autoškolama i instruktora vožnje broj 1103/3. od 9. veljače 2005. godine te Pravilnik Hrvatskog autokluba o organiziranju i provedbi stručnog usavršavanja i provjere stručne osposobljenosti ovlaštenih ispitivača broj 1103/4. od 9. veljače 2005. godine

@@ -1,0 +1,2 @@
+# Članak 2.
+Stručno usavršavanje i provjeru stručne osposobljenosti stručnih voditelja autoškola, predavača, instruktora vožnje, ovlaštenih ispitivača i ovlaštenih nadzornika obavlja Hrvatski autoklub, na temelju Programa stručnog usavršavanja i provjere stručne osposobljenosti stručnih voditelja autoškola, predavača, instruktora vožnje, ovlaštenih ispitivača i ovlaštenih nadzornika (»Narodne novine«, broj: 148/08.).
