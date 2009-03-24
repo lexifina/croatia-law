@@ -1,0 +1,2 @@
+# Članak 38.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o organiziranju i provedbi vozačkih ispita (»Narodne novine«, broj 99/98.), Pravilnik o organiziranju i provedbi vozačkih ispita Hrvatskog autokluba broj 9848/1. od 16. studenoga 2004., broj 1027/1. od 1. veljače 2006., broj 10845/4. od 16. rujna 2006., broj 15005/4. od 22. prosinca 2006., broj 4477/5. od 03. svibnja 2007. i broj 11535/5. od 11. listopada 2007.

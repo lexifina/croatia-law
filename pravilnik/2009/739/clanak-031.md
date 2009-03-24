@@ -1,0 +1,6 @@
+# Članak 31.
+(1) Evidencija o izdanim uvjerenjima o položenom vozačkom ispitu vodi se po knjigama (blok) izdanih uvjerenja o položenom vozačkom ispitu na način da ovlašteni ispitivač uz vlastoručni potpis u knjizi zaduženja odnosno razduženja od voditelja Regionalnog ispitnog centra zadužuje po jednu knjigu (blok) uvjerenja koja sadrži 50 obrazaca s preslikama.
+(2) U knjizi uvjerenja iz stavka 1. ovoga članka obrasci su numerirani serijskim brojevima, a na kraju knjige nalazi se obrazac evidencije o izdanim uvjerenjima, koji sadrži serijski broj uvjerenja, kategoriju, datum polaganja, ime i prezime kandidata, datum rođenja, datum izdavanja i potpis kandidata koji je položio ispit i preuzeo izvornik Uvjerenja te potpis i faksimil ovlaštenog ispitivača. U knjizi izdanih uvjerenja o položenom vozačkom ispitu ostaje preslika izdanog Uvjerenja.
+(3) Ovlašteni ispitivač, nakon što izda sve obrasce uvjerenja iz knjige (bloka) uvjerenja, razdužuje u knjizi zaduženja odnosno razduženja knjigu uvjerenja kod voditelja Regionalnog ispitnog centra.
+(4) Hrvatski autoklub knjige uvjerenja iz stavka 3. ovoga članka za svaku kalendarsku godinu po ovlaštenom ispitivaču čuva trajno u arhivi.
+(5) Obrazac evidencije iz stavka 2. ovoga članka sastavni je dio ovog Pravilnika.

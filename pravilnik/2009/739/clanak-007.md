@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Kandidat za vozača koji ne može pristupiti polaganju ispita obvezan je najkasnije 48 sati prije zakazanog termina polaganja ispita, računajući samo radne dane, Hrvatskom autoklubu odjaviti pristupanje polaganju ispita.
+(2) Kandidat koji je na vrijeme odgodio pristupanje ispitu ili mu nije pristupio zbog razloga više sile ili bolesti može pristupiti polaganju ispita bez ponovne uplate naknade.
+(3) Kandidat koji nije na vrijeme, odnosno u propisanom roku prijavio odgodu pristupanja ispitu, može pristupiti polaganju ispita bez ponovne uplate naknada, nakon što izostanak potkrijepi pisanim dokazom i pripadajućom dokumentacijom voditelju regionalnog ispitnog centra ili ovlaštenom ispitivaču. U protivnom, ispitu može pristupiti u propisanom roku nakon što ponovno uplati naknadu za polaganje ispita.
