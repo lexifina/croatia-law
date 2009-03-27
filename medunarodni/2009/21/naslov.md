@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Komisije Europskih zajednica za višegodišnji Operativni program "Razvoj ljudskih potencijala" za pomoć Zajednice iz Instrumenta pretpristupne pomoći u sklopu komponente "Razvoj ljudskih potencijala" u Hrvatskoj

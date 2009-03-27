@@ -1,0 +1,5 @@
+# Članak 15.
+KRAJNJI KORISNIK I OPERACIJE
+1. Sukladno odredbama članka 2. stavka 8. IPA Provedbene uredbe, u svrhu ovog Sporazuma, pojam »krajnji korisnik« odnosi se na tijelo ili trgovačko društvo, javno ili privatno, koje je odgovorno za pokretanje ili za pokretanje i provedbu operacija. U kontekstu shema pomoći, krajnji korisnici jesu javna ili privatna trgovačka društva koja izvršavaju određeni projekt i primaju javnu potporu.
+2. S obzirom da Operativna struktura zadržava izravnu odgovornost za provedbu operacija u sklopu programa, naime za sve ugovorne aranžmane i financijske transakcije povezane s programom, smatra se da se pojam »krajnji korisnik« odnosi na Operativnu strukturu ili na bilo koje tijelo koje je izričito navedeno u odluci o prijenosu upravljanja.
+3. U svrhu ovog Sporazuma, operacije se sastoje od projekta ili skupine projekata, pokrenutih ili pokrenutih i provedenih od strane jednog ili više krajnjih korisnika, čime se omogućava realizacija ciljeva mjere i/ili prioritetne osi na koju se odnose.

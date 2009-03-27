@@ -1,0 +1,7 @@
+# Članak 27.
+DODJELA ZADATAKA
+1. U sklopu ukupnog okvira definiranog prijenosom ovlasti za upravljanje, voditelj Operativne strukture može dodijeliti određene zadatke ili grupe zadataka pojedinim tijelima unutar ili izvan Operativne strukture. Grupiranje i dodjela moraju se odvijati sukladno načelima podjele dužnosti predviđenih Financijskom uredbom. Voditelj Operativne strukture i odnosna tijela potpisat će odgovarajuće pismene aranžmane. Konačnu odgovornost za dodijeljene zadatke snosi voditelj Operativne strukture.
+2. U sporazumima je potrebno jasno definirati funkcije koje će nadležno tijelo provoditi, kao i vrstu pripadajuće dokumentacije i izvješća koji se moraju slati voditelju Operativne strukture.
+3. U sporazumima je također potrebno predvidjeti pristup propisno ovlaštenih zastupnika ili predstavnika Zajednice ili Operativne strukture informacijama u rukama nadležnog tijela, kao i ispitivanje od strane ovlaštenih zastupnika ili predstavnika operacija financiranih kroz program, što uključuje provjere pojedinačnih projekata i primatelja potpore.
+4. Korisnik će omogućiti voditelju Operativne strukture da obavlja dužnosti povezane s njegovim odgovornostima, čak i kada ne postoji hijerarhijska veza između voditelja Operativne strukture i tijela uključenih u provedbu programa.
+5. Korisnik će osigurati da postoji sustav zamjena kako bi se osigurao kontinuitet funkcija dodijeljenih relevantnim tijelima.
