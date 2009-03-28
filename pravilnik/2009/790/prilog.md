@@ -1,0 +1,1 @@
+[1]* Ovim se izmjenama i dopunama Pravilnika u nacionalno zakonodavstvo Republike Hrvatske prenosi Smjernica 2007/45 Europskog parlamenta i Vijeća od 5. rujna 2007. godine kojom se utvrđuju pravila o nazivnoj vrijednosti pretpakiranih proizvoda i kojom se ukidaju Smjernice Vijeća 75/106/EEC i 80/232/EEC te mijenja i dopunjuje Smjernica Vijeća 76/211/EEC.

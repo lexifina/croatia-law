@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 1. mijenja se i glasi:
+»Ovim se pravilnikom propisuje postupci ispitivanja pretpakovina, nadzor pretpakovina, nazivne količine punjenja, dopuštena odstupanja količine punjenja, označivanje nazivnih količina punjenja, mjeriteljske zahtjeve za skupne i bezomotne pretpakovine, način označivanja ocijeđenom masom, označivanje pretpakovina jediničnom cijenom proizvoda, veličinu oznaka za nazivnu količinu na pretpakovinama, mjeriteljske zahtjeve za zakonita mjerila s kojima se nadziru količine punjenja, način i postupak zaštite neispravnih pretpakovina kako ih se ne bi stavilo u promet te mjeriteljske zahtjeve za boce kao mjerne spremnike, dopuštena odstupanja nazivnog i vršnog obujma te natpise i oznake na bocama kao mjernim spremnicima.«

@@ -1,0 +1,1 @@
+Na temelju članka 35. stavak 4., članka 36. stavak 2., članka 39. stavak 2. i članka 40. stavak 5. Zakona o mjeriteljstvu (»Narodne novine« br. 163/03, 194/03 i 111/07), ravnatelj Državnog zavoda za mjeriteljstvo donosi

@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 20. stavak 1. mjenja se i glasi:
+»(1) Znakom »e« mogu se označiti pretpakovine istih nazivnih količina punjenja koje udovoljavaju zahtjevima iz članka 6., 11., 12., 13., 18. stavaka 1., 2. i 6., članka 19. stavka 1. i članka 26. ovog pravilnika čije nazivne količine punjenja nisu manje od 5 g ili 5 ml, ni veće od 10 kg ili 10 l te nakon što obavijesti Državni zavod za mjeriteljstvo i dostavi propisanu dokumentaciju o usklađenosti pretpakovine s propisanim mjeriteljskim zahtjevima. Ako se na pakovini mora označiti ocijeđena masa proizvoda zajedno sa sveukupnom masom punjenja, znak »e« odnosit će se samo na sveukupnu masu punjenja.«
