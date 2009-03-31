@@ -1,0 +1,2 @@
+# Članak 7.
+U cijelom tekstu Zakona o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07.) riječi: »središnja depozitarna agencija«, »burza i uređeno javno tržište« te riječ: »banka«, odnosno riječi: »poslovna banka« u određenom rodu, broju i padežu zamjenjuju se riječima: »središnje klirinško depozitarno društvo«, »uređeno tržište i multilateralna trgovinska platforma« te »kreditna institucija« u odgovarajućem rodu, broju i padežu.
