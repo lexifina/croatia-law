@@ -1,0 +1,6 @@
+# Članak 2.
+ODREDBE I UVJETI KOJI SE ODNOSE NA SUDJELOVANJE U PROGRAMU
+1. Hrvatska će sudjelovati u aktivnostima Programa u skladu s ciljevima, kriterijima, postupcima i rokovima određenim u Odluci br. 1350/2007/EZ Europskog parlamenta i Europskog vijeća od 23. listopada 2007. i pod odredbama i uvjetima navedenim u dodacima I. i II. ovom Memorandumu o razumijevanju.
+2. Odredbe i uvjeti primjenjivi na podnošenje, ocjenu i odabir zahtjeva od strane ovlaštenih institucija, organizacija i pojedinaca u Hrvatskoj bit će isti kao i oni koji se primjenjuju na ovlaštene institucije, organizacije i pojedince iz zemalja članica Europske unije.
+3. Za sudjelovanje u Programu Hrvatska će svake godine uplatiti financijski doprinos u Opći proračun Europske unije u skladu s donjim člankom 3. Financijski doprinos Hrvatske za njezino sudjelovanje i provedbu Programa dodat će se iznosu predviđenom za svaku godinu u Općem proračunu Europske unije za raspodjelu preuzetih obveza kako bi se ispunile financijske obveze nastale iz različitih mjera neophodnih za izvršenje, upravljanje i provedbu Programa.
+4. Jedan od službenih jezika Zajednice koristit će se za postupke vezano uz zahtjeve, ugovore i izvješća, kao i za ostale administrativne aspekte Programa.
