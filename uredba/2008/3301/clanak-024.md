@@ -1,0 +1,5 @@
+## Postupak nakon pribavljenog mišljenja na Analizu i Elaborat
+# Članak 24.
+(1) Postupak utvrđivanja objedinjenih uvjeta za postojeća postrojenja provodi se kao objedinjeni postupak sukladno ovoj Uredbi u slučaju kada je mišljenjem Ministarstva iz članka 23. ove Uredbe predviđeno da se postupak usklađivanja postrojenja sa Zakonom i ovom Uredbom provede tako da postupak utvrđivanja objedinjenih uvjeta zaštite okoliša obuhvati i procjenu utjecaja na okoliš.
+(2) Na postupak utvrđivanja objedinjenih uvjeta zaštite okoliša postojećih postrojenja nakon pribavljenog mišljenja na Analizu i Elaborat, odnosno na Analizu uključujući i zahtjev podnositelja zahvata odgovarajuće se primjenjuju odredbe ove Uredbe kojima je uređen postupak utvrđivanja objedinjenih uvjeta zaštite okoliša za nova i rekonstrukciju postojećih postrojenja, a prema smjernicama za daljnji postupak koje se daju mišljenjem iz članka 23. ove Uredbe.
+(3) U postupku iz stavka 1. ovoga članka Ministarstvo će osigurati informiranje i sudjelovanje javnosti i zainteresirane javnosti sukladno Zakonu i uredbi kojom se uređuje informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite.

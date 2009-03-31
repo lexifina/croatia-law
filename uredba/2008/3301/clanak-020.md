@@ -1,0 +1,5 @@
+## Obvezni sadržaj Analize i Elaborata
+# Članak 20.
+(1) Obvezni sadržaj Analize i Elaborata pobliže su utvrđeni u Prilogu V. ove Uredbe.
+(2) Pojedina poglavlja u Elaboratu iz stavka 1. ovoga članka izrađuju stručnjaci najmanje razine visokog obrazovanja sa završenim diplomskim stupnjem prema propisu kojim se uređuje razina obrazovanja odgovarajuće struke za područje koje se poglavljem obrađuje (primjerice: za područje investicija stručnjak ekonomske struke, za područje tehnologije odgovarajući stručnjak tehnološkog profila ovisno o vrsti djelatnosti, za područje lokacije zahvata stručnjak profila prostornog planera, za područje vodnoga gospodarstva stručnjak hidrotehničke struke).
+(3) Analiza i Elaborat moraju biti izrađeni na temelju najnovijih, vjerodostojnih i dostupnih podataka, te se moraju temeljiti na stvarnom činjeničnom stanju zatečenom u postrojenju u vrijeme početka njihove izrade, moraju biti stručno utemeljeni i udovoljiti svim zahtjevima glede propisanog sadržaja, a za što je odgovoran operater, odnosno ovlaštenik.
