@@ -1,0 +1,1 @@
+Na temelju članka 164. stavka 3. Zakona o zaštiti okoliša (»Narodne novine«, broj 110/07) uz suglasnost ministra kulture i ministra regionalnog razvoja, šumarstva i vodnoga gospodarstva te po pribavljenom mišljenju Državne uprave za zaštitu i spašavanje, ministrica zaštite okoliša, prostornog uređenja i graditeljstva, donosi

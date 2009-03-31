@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Kada sanacijski program može imati značajan utjecaj na ekološku mrežu prema posebnim propisima kojima se uređuje zaštita prirode, sadržaj sanacijskog programa uključuje i poglavlje koje obrađuje utjecaje sanacijskih mjera na ekološku mrežu sukladno tim propisima.
+(2) Pojedina poglavlja u sanacijskom programu izrađuju stručnjaci najmanje razine visokog obrazovanja sa završenim diplomskim stupnjem prema propisu kojim se uređuje razina obrazovanja odgovarajuće struke za područje koje se poglavljem obrađuje (primjerice: za područje utjecaja sanacijskih mjera na ptice - stručnjak profila ornitologa, za područje analize isplativosti i rizika pojedinih metoda sanacije - stručnjak profila ekonomist).
+(3) Mjere predviđene sanacijskim programom moraju obuhvatiti zahtjeve iz odredbi članka 5. stavka 2. ovog Pravilnika te moraju biti temeljene na najnovijim dostupnim tehnikama i vjerodostojnim i ažuriranim podacima.
