@@ -1,0 +1,2 @@
+# Članak 2.
+Ured, sukladno zakonu, izvješćuje javnost o politici i aktivnostima Vlade Republike Hrvatske - predsjednika i potpredsjednika Vlade, informira Vladu o sadržaju i stajalištima medija i javnosti, obavlja izravnu komunikaciju s građanima, koordinira komunikacijske aktivnosti središnjih državnih ureda, Vladinih ureda i ministarstava, vodi dokumentaciju koja se odnosi na priopćenja za javnost, poslove akreditacije novinara, druge poslove s tim u vezi, te obavlja i druge poslove koje mu povjeri Vlada, sukladno Zakonu o medijima i Zakonu o elektroničkim medijima.
