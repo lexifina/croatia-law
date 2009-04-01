@@ -1,0 +1,2 @@
+# Članak 29.
+Pri preuzimanju kupljenog prijevoznog sredstva, za koji postoji mogućnost registracije, pod uvjetom da isto udovolji svim propisanim tehničkim i formalnim uvjetima koji prethode registraciji, HAK kupcu predaje potvrdu proizvođača ili drugi homologacijski dokument, iz članka 19. stavka 3. točke 3. i stavka 4. ovog Pravilnika, potreban za provođenje postupka homologacije pojedinačnog vozila.

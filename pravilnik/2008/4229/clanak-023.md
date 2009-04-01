@@ -1,0 +1,6 @@
+# Članak 23.
+Javnu prodaju stranih prijevoznih sredstava HAK objavljuje u najmanje jednim dnevnim novinama i to najkasnije osam dana prije dana održavanja javne prodaje.
+Oglas o javnoj prodaji obvezno sadrži evidencijski broj stranog prijevoznog sredstva (broj kontrolnika) namijenjenog javnoj prodaji, uvjete javne prodaje, podatke o vrsti i stanju predmetnog prijevoznog sredstva, početnu cijenu, visinu i način polaganja jamčevine za sudjelovanje u javnoj prodaji, mjesto i vrijeme za razgledavanje predmetnog prijevoznog sredstva, te mjesto, vrijeme i redni broj javne prodaje, odnosno napomenu da je riječ o završnoj javnoj prodaji neposrednom pogodbom.
+Na javnoj prodaji mogu sudjelovati sve pravne i fizičke osobe pod uvjetom da uplate oglasom određenu visinu jamčevine, koja iznosi 25% početne cijene predmetnog prijevoznog sredstva iz stavka 2. ovog članka. Uplata jamčevine vrši se isključivo uplatom gotovine.
+Uplata jamčevine iz stavka 3. ovog članka vrši se nakon izvršenog razgledavanja na dan razgledavanja stranog prijevoznog sredstva koje se izlaže javnoj prodaji, o čemu evidenciju vodi HAK, odnosno određeni autoklub u njegovom sklopu.
+O zaprimljenoj uplati za pojedinu jamčevinu HAK, odnosno određeni autoklub u njegovom sklopu izdaje Potvrdu o uplaćenoj jamčevini u tri primjerka izvornika, od kojih dva zadržava a jedan predaje uplatitelju.

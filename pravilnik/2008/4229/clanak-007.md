@@ -1,0 +1,4 @@
+# Članak 7.
+Ako se prilikom preuzimanja ili prikupljanja stranog prijevoznog sredstva u istome pronađu predmeti koji se ne smatraju rezervnim dijelovima ili pripadajućim dijelovima odnosno opremom predmetnog prijevoznog sredstva, stručna komisija iz članka 6. stavak 1. ovoga Pravilnika dužna je o pronađenim predmetima sastaviti Zapisnik o nađenim stvarima u stranom prijevoznom sredstvu u četiri primjerka izvornika od kojih dva zadržava.
+Jedan primjerak Zapisnika iz stavka 1. ovoga članka HAK, odnosno određeni autoklub u njegovom sklopu, dostavlja nadležnoj carinarnici zajedno sa Zapisnikom o preuzimanju stranog prijevoznog sredstva na čuvanje, a jedan primjerak zadržava osoba koja predaje strano prijevozno sredstvo na čuvanje HAK-u, odnosno određenom autoklubu u njegovom sklopu.
+O daljnjem postupanju s pronađenim stvarima nadležna carinarnica daje pisani nalog HAK-u, odnosno određenom autoklubu u njegovom sklopu, u roku od osam dana od dana zaprimanja Zapisnika.

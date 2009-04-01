@@ -1,0 +1,6 @@
+# Članak 26.
+Javnu prodaju stranog prijevoznog sredstva neposredno vodi predsjednik Komisije iz članka 25. stavak 1. ovog Pravilnika uz sudjelovanje članova komisije Predsjednik Komisije je odgovoran za zakonitost postupka i regularnost tijeka javne prodaje.
+Predsjednik komisije, nakon konzultacije sa članovima komisije, može prije ili za vrijeme javne prodaje predmetnog prijevoznog sredstva od organizatora iste zatražiti angažiranje zaštitarske službe, ukoliko procijeni da je regularnost tijeka javne prodaje i sigurnost sudionika ugrožena ili da bi mogla biti ugrožena. U slučaju ugrožavanja regularnosti tijeka javne prodaje ili sigurnosti sudionika javne prodaje predsjednik Komisije obvezan je prekinuti javnu prodaju.
+O tijeku javne prodaje stranog prijevoznog sredstva Komisija vodi Zapisnik o javnoj prodaji stranog prijevoznog sredstva u četiri primjerka izvornika.
+Dva primjerka Zapisnik o javnoj prodaji stranog prijevoznog sredstva zadržava Komisija, jedan primjerak se predaje kupcu predmetnog prijevoznog sredstva, a jedan primjerak se dostavlja nadležnoj carinarnici.
+Pri potpisivanju Zapisnika, ukoliko je ostvarena prodaja predmetnog prijevoznog sredstva, Komisija uručuje kupcu posebnu uplatnicu s naznačenim iznosom kupoprodajne cijene i brojem posebnog računa HAK-a na koji treba uplatiti iznos.

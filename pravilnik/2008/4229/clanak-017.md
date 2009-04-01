@@ -1,0 +1,4 @@
+# Članak 17.
+HAK, odnosno određeni autoklub u njegovom sklopu, predaje odnosno vraća predmetno strano prijevozno sredstvo vlasniku ili zadnjem posjedniku, sukladno odredbama članka 16. ovog Pravilnika, pod uvjetom da osoba koja preuzima predano odnosno vraćeno prijevozno sredstvo, preuzimanje istog potvrdi svojim potpisom na Potvrdi kojom se potvrđuje preuzimanje predanog odnosno vraćenog stranog prijevoznog sredstva. Potvrda se izdaje u četiri primjerka izvornika.
+Dva primjerka Potvrde iz stavka 1. ovog članka zadržava HAK, odnosno određeni autoklub u njegovom sklopu, jedan primjerak osoba koja je preuzela predmetno prijevozno sredstvo, dok se jedan primjerak potvrde dostavlja nadležnoj carinarnici u roku od tri dana od dana predaje odnosno vraćanja prijevoznog sredstva.
+Na temelju rješenja ili drugog akta iz članka 16. stavak 1. i 2. ovog Pravilnika i potvrde iz stavka 1. ovog članka, razdužuje se kontrolnik iz članka 12. ovoga Pravilnika, koji se arhivira.

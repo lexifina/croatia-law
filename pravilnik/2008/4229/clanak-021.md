@@ -1,0 +1,2 @@
+# Članak 21.
+Ukoliko se na stranom prijevoznom sredstvu, za koje su se stekli uvjeti za javnu prodaju, nalaze registarske pločice iste će biti demontirane i uništene od strane stručne komisije iz članka 19. ovog Pravilnika, pri čemu će stručna komisija sačiniti Zapisnik o uništavanju registarskih pločica u tri primjerka izvornika, od kojih dva zadržava stručna komisija, a jedan dostavlja nadležnoj carinarnici.

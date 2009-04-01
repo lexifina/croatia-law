@@ -1,0 +1,4 @@
+# Članak 28.
+Kupac stranog prijevoznog sredstva u svezi s čijom prodajom nije podnesen prigovor, odnosno po kojem je postupak po prigovoru završen, preuzima predmetno prijevozno sredstvo u roku od osam dana od dana okončane javne prodaje, odnosno od dana završetka postupka (izdavanja rješenja) po prigovoru, pod uvjetom da je kupoprodajni iznos u navedenom roku uplatio na poseban račun Hrvatskog autokluba.
+Ako kupac u roku iz stavka 1. ovog članka ne uplati kupoprodajni iznos u navedenom roku, gubi pravo na vraćanje jamčevine, a predmetno prijevozno sredstvo se ponovno izlaže javnoj prodaji.
+Pri preuzimanju predmetnog prijevoznog sredstva kupac potpisom u kontrolniku potvrđuje da je isto preuzeo, a HAK izdaje Račun u pet primjeraka izvornika, od kojih tri primjerka zadržava kupac predmetnog prijevoznog sredstva, a dva primjerka zadržava HAK, odnosno određeni autoklub u njegovom sklopu.
