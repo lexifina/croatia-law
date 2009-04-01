@@ -1,0 +1,2 @@
+# Članak 10.
+Stranke mogu, jednoglasnom odlukom, pozvati bilo koju drugu europsku državu, koja je u mogućnosti promicati načela ovoga Ugovora i pridonositi sigurnosti sjevernoatlantskog područja, da pristupi ovom Ugovoru. Svaka tako pozvana država može postati strankom Ugovora polaganjem svoje isprave o pristupu kod Vlade Sjedinjenih Američkih Država. Vlada Sjedinjenih Američkih Država obavijestit će svaku od stranaka o polaganju svake takve isprave o pristupu.

@@ -1,0 +1,2 @@
+# Članak 12.
+Nakon što Ugovor bude na snazi deset godina, ili u bilo koje doba nakon toga, strane će se, ako bilo koja od njih to zatraži, zajednički savjetovati u cilju ponovnog razmatranja Ugovora, uzimajući u obzir čimbenike koji utječu na mir i sigurnost u sjevernoatlantskom području, uključujući razvitak općih kao i regionalnih sporazuma prema Povelji Ujedinjenih naroda radi održavanja međunarodnog mira i sigurnosti.
