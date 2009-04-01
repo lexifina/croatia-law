@@ -1,0 +1,2 @@
+# Članak 3.
+Danom stupanja na snagu ovoga Zakona prestaju važiti odredbe članka 5. stavka 2. i 3. Zakona o plaćama u javnim službama (»Narodne novine«, br. 27/01.) i sve odredbe drugih zakona, kolektivnih ugovora i drugih sporazuma, bez obzira na njihov naziv i potpisnike, kojima je propisana osnovica plaće u javnim službama, odnosno način njenog određivanja, a koji su donesen na temelju Zakona o plaćama u javnim službama ili na bilo kojem drugom pravnom temelju.
