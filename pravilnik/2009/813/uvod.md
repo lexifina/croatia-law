@@ -1,0 +1,1 @@
+Na temelju članka 164. Zakona o zračnom prometu (»Narodne novine«, broj 132/98, 178/04 i 46/07), ministar mora, prometa i infrastrukture uz suglasnost ministra nadležnog za vanjske poslove i ministra nadležnog za poslove obrane donosi
