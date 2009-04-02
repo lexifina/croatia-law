@@ -1,0 +1,6 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Propisi koji prestaju vrijediti
+# Članak 14.
+(1) Nakon provedenog Testa tri mjerila i/ili postupka analize pojedinog mjerodavnog tržišta, koji završava donošenjem odluke iz članka 56. Zakona o elektroničkim komunikacijama, prestaju vrijediti odredbe Pravilnika o telekomunikacijskim uslugama (»Narodne novine« broj 183/04 i 185/05) koje se odnose na regulatorne obveze operatora sa značajnom tržišnom snagom i to na način da prestaju vrijediti samo odredbe koje se odnose na to mjerodavno tržište.
+(2) Nakon provedenog Testa tri mjerila i/ili postupka analize pojedinog mjerodavnog tržišta, koji završava donošenjem odluke iz članka 56. Zakona o elektroničkim komunikacijama, prestaju vrijediti pojedine odredbe Pravilnika o pristupu mreži i međusobnom povezivanju (»Narodne novine« broj 185/03) i to one koje se odnose na regulatorne obveze operatora sa značajnom tržišnom snagom na tom mjerodavnom tržištu.
+(3) Nakon provedenog postupka analize mjerodavnog tržišta veleprodajnog pristupa mrežnoj infrastrukturi (uključujući dijeljeni ili potpuni izdvojeni pristup) na fiksnoj lokaciji, a koji završava donošenjem odluke iz članka 56. Zakona o elektroničkim komunikacijama prestaje vrijediti Pravilnik o pristupu izdvojenoj lokalnoj petlji (»Narodne novine« broj 45/05, 99/05).

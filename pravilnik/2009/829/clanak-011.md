@@ -1,0 +1,3 @@
+## Ukidanje regulatornih obveza i prestanak valjanosti standardnih ponuda
+# Članak 11.
+(1) Ako HAKOM u postupku provođenja analize tržišta iz članka 52. Zakona o elektroničkim komunikacijama utvrdi postojanje djelotvornog tržišnog natjecanja na određenom mjerodavnom tržištu iz članka 3. stavka 1. i članka 10. stavka 2. ovog pravilnika, HAKOM će donijeti odluku o ukidanju regulatornih obveza na tom mjerodavnom tržištu, a što osobito uključuje ukidanje regulatorne obveze nediskriminacije i transparentnosti uz obvezu objave standardne ponude, a danom donošenja te odluke standardna ponuda će prestati proizvoditi pravne učinke.
