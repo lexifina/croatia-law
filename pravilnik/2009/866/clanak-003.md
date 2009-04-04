@@ -1,0 +1,7 @@
+## Zahtjevi pri premještanju
+# Članak 3.
+(1) Određeno bilje, bilo da je podrijetlom iz Republike Hrvatske ili je uvezeno u Republiku Hrvatsku u skladu s člankom 2. ovoga Pravilnika, osim malih količina bilja koje koristi posjednik ili primatelj u nekomercijalne svrhe, pod uvjetom da pritom nema opasnosti od širenja štetnog organizma, dopušteno je premještati na teritoriju Republike Hrvatske samo ako ga prati biljna putovnica pripremljena i izdana u skladu s Pravilnikom o fitosanitarnom upisniku i biljnim putovnicama[4] (»Narodne novine«, br. 54/07) i ako je tijekom svoga cijelog životnog ciklusa ili od trenutka njegova unošenja u Republiku Hrvatsku raslo na mjestu proizvodnje:
+a) u nezaraženom području, koje je odredio ministar poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: ministar), u skladu s odgovarajućim Međunarodnim normama za fitosanitarne mjere, ili
+b) u kojem je testiranjem svih partija određenog bilja prije premještanja utvrđeno da ono nije zaraženo štetnim organizmom, ili
+c) u kojem je testiranjem svih povezanih matičnih biljaka određenog bilja, prije premještanja toga bilja, utvrđeno da nisu zaražene štetnim organizmom. Nakon testiranja moraju se osigurati uvjeti za rast u kojima će povezane matične biljke i određeno bilje ostati nezaraženi prije premještanja.
+(2) Određeno bilje dopušteno je premještati samo ako su ispunjeni uvjeti iz točke 2. Priloga ovoga Pravilnika.
