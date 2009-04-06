@@ -1,0 +1,4 @@
+# Članak 19.
+NASTAVNICI I ISTRAŽIVAČI
+1. Fizička osoba koja je neposredno prije posjete državi ugovornici rezident druge države ugovornice i koja, na poziv vlade prvospomenute države, ili sveučilišta, visoke škole, škole, muzeja ili druge kulturne ustanove prvospomenute države ili na temelju službenog programa kulturne razmjene, boravi u toj državi ugovornici u razdoblju koje ne traje dulje od tri uzastopne godine, isključivo s ciljem podučavanja, predavanja ili znanstvenog istraživanja pri toj ustanovi, u toj će državi biti izuzeta od oporezivanja primanja za te djelatnosti, pod uvjetom da takva primanja ostvaruje izvan te države ugovornice.
+2. Odredbe stavka 1. ovog članka neće se primjenjivati na dohodak od istraživačkog rada ako se taj istraživački rad provodi ne u javnom interesu već prvenstveno za privatnu korist određene osobe ili osoba.
