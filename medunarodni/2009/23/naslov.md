@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Komisije Europskih zajednica u svezi s Nacionalnim programom za Hrvatsku u okviru programa IPA - komponenta Pomoć u tranziciji i jačanje institucija za 2007. godinu
