@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se oblici prodaje za specijalizirane prodavaonice prehrambenih i neprehrambenih proizvoda, tvorničke prodavaonice prehrambenih i neprehrambenih proizvoda, klasične prodavaonice, mini markete, supermarkete, hipermarkete, diskontne prodavaonice, cash & carry prodavaonice, benzinske postaje i prodavaonice na benzinskim postajama, nespecijalizirane prodavaonice pretežno neprehrambenih proizvoda, robne kuće, outlet centre, outlet prodavaonice, kioske, prodaju putem automata, štandove i klupe, pokretnu prodaju, direktnu prodaju, prodaju na daljinu, prodaju putem kataloga, TV prodaju, prodaju putem Interneta, prodaju putem telefona, trgovačke centre, tržnice i ostale oblike prodaje izvan prodavaonica.
