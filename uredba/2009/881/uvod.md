@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 3. i članka 103. podstavka 2. Zakona o otpadu (»Narodne novine«, br. 178/2004, 111/2006 i 60/2008), Vlada Republike Hrvatske je na sjednici održanoj 25. ožujka 2009. godine donijela
