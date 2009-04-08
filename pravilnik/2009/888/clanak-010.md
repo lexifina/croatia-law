@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Fizičkoj ili pravnoj osobi iz članka 4. stavka 2. ovoga Pravilnika ministarstvo će izdati prethodnu suglasnost za izdavanje dozvole iz članka 2. stavka 4. ovoga Pravilnika, ukoliko uz zahtjev dostavi akt o osnivanju i dokaz o ispunjavanju uvjeta iz članka 4. stavka 1. točke 3. ovoga Pravilnika.
+(2) Za pravnu osobu koja namjerava osnovati trgovačko društvo iz članka 4. stavka 2. ovoga Pravilnika dokaz o ispunjavanju uvjeta iz članka 4. stavka 1. točke 2. ovoga Pravilnika ministarstvo će pribaviti po službenoj dužnosti.
+(3) Fizička ili pravna osoba iz stavka 1. ovoga članka dužna je u roku od 3 mjeseca od dana izdavanja prethodne suglasnosti ministarstva upisati trgovačko društvo u odgovarajući registar.
+(4) Fizičkoj ili pravnoj osobi iz stavka 1. ovoga članka ministarstvo će izdati dozvolu iz članka 2. stavka 4. ovoga Pravilnika nakon dostave dokaza o ispunjavanju uvjeta iz članka 4. stavka 1. točke 1. ovoga Pravilnika, dok će dokaz o upisu u odgovarajući registar ministarstvo pribaviti po službenoj dužnosti.

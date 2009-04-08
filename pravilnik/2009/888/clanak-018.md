@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Posrednik koji obavlja djelatnosti posredovanja pri zapošljavanju u inozemstvu, dužan ih je obavljati u suradnji s nadležnim tijelima pojedinih zemalja.
+(2) U postupku posredovanja pri zapošljavanju u inozemstvu posrednik je dužan izvijestiti osobe za koje posreduje o uvjetima života i rada, pravima i obvezama po osnovi rada i drugim bitnim elementima zakonitostima rada i radnim uvjetima.
+(3) Posrednik snosi odgovornost prema osobama za koje je posredovao u inozemstvu za zakonitost njihovog zapošljavanja i rad sukladno zakonodavstvu zemlje u koju posreduje, te snosi troškove prijevremenog povratka osobe za koju je posredovao ukoliko je isti uzrokovan nezakonitim zapošljavanjem ili radom, a odgovora i za eventualnu štetu koji bi osoba mogla pretrpjeti zbog pogrešnih informacija o bitnim elementima uvjeta života i rada.
+(4) Posrednik je dužan pružiti osobama za koje je posredovao u inozemstvu svu potrebnu pomoć u ostvarivanju njihovih prava po osnovi rada nakon povratka s rada u inozemstvu.

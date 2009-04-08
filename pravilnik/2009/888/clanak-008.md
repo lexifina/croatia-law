@@ -1,0 +1,2 @@
+# Članak 8.
+Fizičkoj osobi iz članka 3. stavka 2. ovoga Pravilnika ministarstvo će izdati dozvolu iz članka 2. stavka 4. ovoga Pravilnika, ukoliko uz zahtjev dostavi dokaze o ispunjavanju uvjeta iz članka 3. stavka 1. točke 1., 2. i 4. ovoga Pravilnika, dok će dokaz o ispunjavanju uvjeta iz članka 3. stavka 1. točke 3. i članka 2. stavka 2. ovoga Pravilnika ministarstvo pribaviti po službenoj dužnosti.

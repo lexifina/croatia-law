@@ -1,0 +1,2 @@
+# Članak 9.
+Trgovačkom društvu iz članka 4. stavka 1. ovoga Pravilnika ministarstvo će izdati dozvolu iz članka 2. stavka 4. ovoga Pravilnika, ukoliko uz zahtjev dostavi dokaze o ispunjavanju uvjeta iz članka 4. stavka 1. točke 1. i 3. ovoga Pravilnika, dok će dokaz o ispunjavanju uvjeta iz članka 4. stavka 1. točke 2. i 4. i članka 3. stavka 1. točke 3. ovoga Pravilnika ministarstvo pribaviti po službenoj dužnosti.
