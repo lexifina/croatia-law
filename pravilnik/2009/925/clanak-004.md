@@ -1,0 +1,2 @@
+# Članak 4.
+Početna cijena na natječaju za prodaju i zakup poljoprivrednog zemljišta i početna visina naknade za dugogodišnji zakup poljoprivrednog zemljišta umanjuje se 50% za neobrađeno poljoprivredno zemljište obraslo višegodišnjim raslinjem, prema nalazu povjerenstva sastavljenog od tri člana pravne, geodetske i agronomske struke imenovanog od strane upravnog tijela općine, grada, odnosno Grada Zagreba nadležnog za poljoprivredu.
