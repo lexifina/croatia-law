@@ -1,0 +1,3 @@
+# Članak 5.
+U Uputi za primjenu Odluke o efektivnoj kamatnoj stopi kreditnih institucija i kreditnih unija te ugovaranju usluga s potrošačima, a koja je sastavni dio Odluke, u točki 4.2. podtočki 15. Diskontirani tokovi sigurnosnog pologa, drugi odlomak mijenja se i glasi:
+»Pritom DTSPk označava diskontirani tok sigurnosnog pologa u određenom razdoblju, TSPk tok sigurnosnog pologa u određenom razdoblju, dok ostali simboli imaju značenja kao u točki 13. Zbroj diskontiranih tokova sigurnosnog pologa, UDTSP = ∑kDTSPk, koji se koristi u izračunu EKS opisanom u točki 13., nalazi se na sjecištu retka Ukupno i stupca Diskontirani tokovi sigurnosnog pologa.«

@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o efektivnoj kamatnoj stopi kreditnih institucija i kreditnih unija te ugovaranju usluga s potrošačima (»Narodne novine«, br. 1/2009.), u cijelom tekstu, riječi »otplatna tablica« u određenom broju i padežu zamjenjuju se riječima »otplatni plan« u odgovarajućem broju i padežu, a riječi »otplatna rata« u određenom broju i padežu zamjenjuju se riječima »otplatni obrok« u odgovarajućem broju i padežu.

@@ -1,0 +1,1 @@
+Na temelju članka 307. točke 1. i 3. Zakona o kreditnim institucijama (»Narodne novine«, br. 117/2008.) i članka 13. stavka 3. Zakona o kreditnim unijama (»Narodne novine«, br. 141/2006.) te članka 43. stavka 2. točke 9. i stavka 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donosi
