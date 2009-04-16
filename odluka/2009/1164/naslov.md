@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste na dijelu katastarske čestice zemlje 10359 k.o. Omišalj
