@@ -1,0 +1,5 @@
+# Članak 3.
+U članku 6. stavci 2., 3. i 4. mijenjaju se i glase:
+»(2) Redarsku službu mogu činiti zaposlenici organizatora športskog natjecanja, redari dragovoljci, članovi klubova navijača, koji su osposobljeni za obavljanje poslova redara na športskom natjecanju.
+(3) Organizator športskog natjecanja može za poslove redarske službe koristiti čuvare i zaštitare koji imaju odobrenje (licenciju) za obavljanje poslova privatne zaštite.
+(4) Pravilima športskog saveza ili druge športske udruge više razine propisuju se, sukladno propisima iz članka 5. stavka 1. ovoga Zakona i ovisno o kriterijima iz stavka 1. ovoga članka, mjerila za opremanje športskih objekata uređajima za kontrolu i brojanje ulaznica i videonadzorom, mjerila za određivanje minimalnog broja redara za pojedina športska natjecanja te ovisno o razini športskog natjecanja kada redarsku službu moraju činiti redari zaposlenici organizatora športskog natjecanja, redari dragovoljci, članovi klubova navijača i/ili čuvari i zaštitari koji imaju odobrenje (licenciju) za obavljanje poslova privatne zaštite.«.
