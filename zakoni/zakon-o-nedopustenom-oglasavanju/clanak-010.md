@@ -1,0 +1,6 @@
+## Utvrđivanje spornih činjenica
+# Članak 10.
+(1) Prilikom odlučivanja o zahtjevu iz članka 7. ovoga Zakona, sud će voditi računa o opravdanim interesima svih osoba koje sudjeluju u postupku te poglavito o javnom interesu.
+(2) Prilikom odlučivanja o zahtjevu iz članka 7. ovoga Zakona, sud neće uzimati u obzir je li spornim oglašavanjem nekome počinjena šteta, odnosno je li vjerojatno da će nekome biti počinjena šteta, kao niti je li oglašivač kriv za to što je oglašavanje zavaravajuće, odnosno je li kriv što je usporedno oglašavanje nedopušteno.
+(3) Sud će zahtijevati od tuženika da na prvom ročištu u primjerenom roku podnese, odnosno predloži dokaze koji potvrđuju točnost osporenih činjeničnih navoda u oglašavanju, vodeći računa o opravdanim interesima tuženika i ostalih osoba koje sudjeluju u postupku, ako na temelju okolnosti slučaja i navoda iz tužbe smatra da je to opravdano, a osobito ako ima razloga za osnovanu sumnju u točnost spornih činjeničnih navoda u oglašavanju.
+(4) Ako tuženik ne podnese, odnosno ne predloži tražene dokaze u roku iz stavka 3. ovoga članka ili ako sud smatra da su ti dokazi nedovoljni, smatrat će da su sporni činjenični navodi izneseni u oglašavanju netočni.
