@@ -1,0 +1,3 @@
+# Članak 9.
+Izvođač zadruga koja podnosi zahtjev za izdavanje ovlaštenja na način propisan člankom 42. Zakona uz zahtjev prilaže dokumente i dokaze iz članka 7. ovoga pravilnika za sve članove zadruge (zadrugare) i njihove zaposlenike te pravila zadruge iz kojih je vidljivo da članovi zadruge (zadrugari) zajedno sa zadrugom obavljaju djelatnost građenja i da zadruga svojim članovima nije samo posrednik u pronalaženju i naplati poslova.
+U slučaju iz stavka 1. ovoga članka izjavu iz članka 7. stavka 1. podstavka 4. ovoga Pravilnika potpisuju odgovorne osobe izvođača (zadruge) i njezinih članova (zadrugara), a njihove potpise ovjerava javni bilježnik.

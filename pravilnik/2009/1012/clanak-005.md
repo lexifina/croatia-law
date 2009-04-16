@@ -1,0 +1,3 @@
+# Članak 5.
+Izvođaču koji ispunjava uvjete stručne osposobljenosti i broja zaposlenika propisane člankom 44. stavkom 1. podstavkom 2. Zakona suglasnost se daje za izvođenje manje složenih radova iz jednog od podstavaka stavka 1. članka 4. ovoga Pravilnika ili manje složenih radova iz stavka 2. tog članka.
+U uvjete stručne osposobljenosti i broja zaposlenika iz stavka 1. ovoga članka ubrajaju se i uvjeti u pogledu kojih se izvođaču daje ili je već dana suglasnost za započinjanje obavljanja djelatnosti građenja građevina određene skupine, ali se ne ubrajaju uvjeti u pogledu kojih se izvođaču daje ili je već dana suglasnost za započinjanje obavljanja djelatnosti izvođenja drugih manje složenih radova ili pojedinih radova.

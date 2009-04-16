@@ -1,0 +1,3 @@
+# Članak 3.
+Izvođaču koji ispunjava uvjete stručne osposobljenosti i broja zaposlenika propisane člankom 44. stavkom 1. podstavkom 1. Zakona suglasnost se daje za izvođenje pojedinih radova iz jednog od podstavaka stavka 1. članka 2 ovoga Pravilnika ili pojedinih radova iz stavka 2. tog članka.
+U uvjete stručne osposobljenosti i broja zaposlenika iz stavka 1. ovoga članka ubrajaju se i uvjeti u pogledu kojih se izvođaču daje ili je već dana suglasnost za započinjanje obavljanja djelatnosti građenja građevina određene skupine, ali se ne ubrajaju uvjeti u pogledu kojih se izvođaču daje ili je već dana suglasnost za započinjanje obavljanja djelatnosti izvođenja drugih pojedinih radova ili manje složenih radova.

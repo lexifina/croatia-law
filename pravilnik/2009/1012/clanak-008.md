@@ -1,0 +1,3 @@
+# Članak 8.
+Izvođač pojedinačno društvo povezano s više drugih pojedinačnih društava koji podnosi zahtjev za izdavanje ovlaštenja na način propisan člankom 41. Zakona, uz zahtjev prilaže dokumente i dokaze iz članka 7. ovoga pravilnika za sva povezana društva i njihove zaposlenike te odgovarajući dokaz o povezanosti s drugim društvima (izvod iz sudskog registra s upisanim dokazima o povezanosti, poduzetnički ugovor, preslika izvatka iz Knjige poslovnih udjela ovjerena po javnom bilježniku, odnosno izvod iz Središnje depozitarne agencije - izvod o visini udjela),
+U slučaju iz stavka 1. ovoga članka izjavu iz članka 7. stavka 1. podstavka 4. ovoga Pravilnika potpisuju odgovorne osobe izvođača i povezanih društava, a njihove potpise ovjerava javni bilježnik.
