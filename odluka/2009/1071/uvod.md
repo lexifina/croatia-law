@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/1998, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 28. Zakona o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba (»Narodne novine«, br. 109/2007 i 125/2008), Vlada Republike Hrvatske je na sjednici održanoj 16. travnja 2009. godine, donijela
