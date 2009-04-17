@@ -1,0 +1,4 @@
+## DRUGE STAVKE DOPUNSKOG KAPITALA II
+# Članak 10.
+(1) Investicijsko društvo može u dopunski kapital II uključiti neto dobit iz knjige trgovanja, nakon odbitka svih predvidivih naknada ili dividendi, umanjenu za neto gubitke iz poslovanja, pod uvjetom da niti jedan od tih iznosa nije prethodno uključen u osnovni kapital investicijskog društva kao jedna od stavki iz članka 157. stavka 1. točke 5. ili članka 157. stavka 2. točke 4. Zakona, pri čemu se drugi dobici/gubici koji proizlaze iz vrijednosnog usklađenja uključuju u izračun neto dobiti iz knjige trgovanja.
+(2) Investicijsko društvo može u dopunski kapital II uključiti pozitivni iznos koji proizlazi iz izračuna kreditnim rizikom ponderiranih izloženosti korištenjem IRB pristupa, u skladu s Pravilnikom o adekvatnosti kapitala investicijskih društava (Glava IV. Kreditni rizik, Poglavlje 2. Pristup temeljen na internim rejting sustavima), do 0,6% kao druge stavke.

@@ -1,0 +1,1 @@
+Na temelju odredbi članka 156. stavka 2, članka 158. stavka 3, članka 159. stavka 2. i članka 161. stavka 5. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08 i 146/08, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija), na sjednici održanoj 26. ožujka 2009. godine donijela je

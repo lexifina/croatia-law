@@ -1,0 +1,6 @@
+## DRUGE ODBITNE STAVKE
+# Članak 11.
+(1) Druge odbitne stavke iz članka 161. stavka 1. točke 5. Zakona su:
+1. za investicijsko društvo koje izračunava kreditnim rizikom ponderirani iznos izloženosti korištenjem IRB pristupa, u skladu s Pravilnikom o adekvatnosti kapitala investicijskih društava (Glava IV. Kreditni rizik, Poglavlje 2. Pristup temeljen na internim rejting sustavima), negativni iznos koji proizlazi iz izračuna u skladu s člancima 268. i 269, i iznos očekivanog gubitka izračunatog prema članku 270. stavcima 1. i 2. Pravilnika o adekvatnosti kapitala investicijskih društava,
+2. za investicijsko društvo koje izračunava kapitalni zahtjeva za rizik namire, u skladu s Pravilnikom o adekvatnosti kapitala investicijskih društava (Glava II. Tržišni rizici, Poglavlje 8. Izračunavanje kapitalnog zahtjeva za rizik namire i rizik druge ugovorne strane), prenesena vrijednost uvećana za trenutni iznos pozitivne izloženosti u slučaju slobodne isporuke, kad je prošlo više od 5 radnih dana nakon drugog ugovornog datuma plaćanja/isporuke, u skladu s člankom 82. Pravilnika o adekvatnosti kapitala investicijskih društava.
+(2) Kad iz vrijednosnog usklađenja pozicija u knjizi trgovanja proizlazi gubitak tekuće godine, isti će se, pri izračunu kapitala investicijskog društva, tretirati kao odbitna stavka od osnovnog kapitala.
