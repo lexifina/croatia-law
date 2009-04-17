@@ -1,0 +1,21 @@
+## DODATNO OBJAVLJIVANJE ZA INVESTICIJSKA DRUŠTVA KOJA KORISTE IRB PRISTUP MJERENJA KREDITNOG RIZIKA
+# Članak 9.
+(1) Investicijsko društvo koje kreditnim rizikom ponderirani iznos izloženosti izračunava korištenjem IRB pristupa, dužno je objaviti iznose izloženosti razvrstane u pojedine kategorije izloženosti, kako je propisano u Pravilniku o adekvatnosti kapitala investicijskih društava (Glava IV. Kreditni rizik, Poglavlje 2. IRB pristup).
+(2) Investicijsko društvo iz stavka 1. ovog članka, dužno je objaviti i sljedeće informacije:
+1. datum izdavanja odobrenja Agencije za korištenje IRB pristupa ili postupnog uvođenja IRB pristupa;
+2. objašnjenje i pregled:
+a. strukture internih rejting sustava i povezanosti između internih i vanjskih rejtinga,
+b. interne ocjene parametara rizika koji se ne koriste samo za potrebe izračuna kreditnim rizikom ponderiranog iznosa izloženosti primjenom IRB pristupa, nego i u druge svrhe,
+c. procesa upravljanja i priznavanja tehnika umanjenja kreditnog rizika,
+d. kontrolnih mehanizama za sustave dodjeljivanja rejtinga, uključujući opis neovisnosti, nadležnosti i preispitivanja sustava dodjeljivanja rejtinga;
+3. opis procesa dodjeljivanja internih rejtinga, zasebno za svaku kategoriju izloženosti;
+4. iznose izloženosti za svaku od kategorija izloženosti, razlikujući izloženosti prema središnjim državama i središnjim bankama, institucijama i trgovačkim društvima za koje investicijsko društvo upotrebljava vlastite procjene gubitaka zbog nastanka statusa neispunjavanja obveza (engl. loss given default; dalje: LGD) ili konverzijskih faktora od izloženosti za koje investicijsko društvo ne upotrebljava takve procjene;
+5. za svaku od kategorija izloženosti prema središnjim državama i središnjim bankama, institucijama, trgovačkim društvima i izloženosti po vlasničkim ulaganjima, i na temelju dovoljnog broja rejting kategorija dužnika (uključujući rejting kategorije za dužnike u statusu neispunjavanja obveza) koje omogućuju smislenu diferencijaciju kreditnog rizika:
+a. ukupne iznose izloženosti (zbroj bilančnih izloženosti i neiskorištenih potencijalnih obveza za kategorije izloženosti prema središnjim državama i središnjim bankama, institucijama i trgovačkim društvima, a za vlasnička ulaganja preostali iznos izloženosti),
+b. prosječni LGD ponderiran iznosom izloženosti, izražen u postotku ako su korištene vlastite procjene LGD,
+c. prosječni ponder rizika ponderiran iznosom izloženosti,
+d. iznos neiskorištenih potencijalnih obveza i prosječnih iskorištenih iznosa ponderiranih izloženošću za svaku kategoriju izloženosti, ako su korištene vlastite procjene konverzijskih faktora;
+6. za kategoriju izloženosti prema stanovništvu, informacije iz točke 5. ovog stavka, ili analizu izloženosti (bilančne izloženosti i iznose izloženosti po neiskorištenim obvezama) prema dovoljnom broju kategorija očekivanih gubitaka (engl. expected loss; dalje: EL) koje omogućuju smislenu diferencijaciju kreditnog rizika i ako je primjenjivo, po pojedinim skupovima izloženosti;
+7. ispravke vrijednosti ili rezervacije formirane u izvještajnom razdoblju, za svaku kategoriju izloženosti i usporedbu s prethodnim razdobljem;
+8. opis čimbenika koji su utjecali na ostvarene gubitke u prethodnom izvještajnom razdoblju (na primjer, je li investicijsko društvo ostvarilo stope neispunjavanja obveza, LGD-ove ili konverzijske faktore koji su viši od prosjeka);
+9. procjene investicijskog društva u usporedbi s ostvarenim rezultatima za dovoljno dugo vremensko razdoblje što minimalno uključuje informacije o procjenama gubitaka u usporedbi s ostvarenim gubicima u svakoj kategoriji izloženosti, tijekom razdoblja koje je dovoljno dugo da omogućuje smislenu procjenu kvalitete procesa dodjeljivanja internih rejtinga za svaku kategoriju izloženosti. U slučajevima kada je to moguće, investicijsko društvo dužno je ove informacije detaljnije raščlaniti kako bi dobilo analizu vjerojatnosti nastanka statusa neispunjavanja obveza (engl. probability of default; dalje: PD), i za investicijsko društvo koje koristi vlastite procjene LGD-a i/ili konverzijskih faktora, analizu ostvarenih LGD-a i konverzijskih faktora u odnosu na prethodno objavljene kvantitativne procjene PD-a, LGD-a i/ili konverzijskih faktora.
