@@ -1,0 +1,2 @@
+# Članak 11.
+Zdravstvene ustanove kojima je do stupanja na snagu ovoga Zakona dano odobrenje za obavljanje djelatnosti uzimanja i presađivanja organa i tkiva te pohranjivanja i razmjene tkiva iz članka 27. Zakona o uzimanju i presađivanju dijelova ljudskog tijela u svrhu liječenja (»Narodne novine«, br., 177/04.) obvezne su uskladiti svoj rad i poslovanje s odredbama ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona.
