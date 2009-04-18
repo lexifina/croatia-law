@@ -1,0 +1,7 @@
+## Vanjska neovisna periodična prosudba unutarnjega sustava osiguravanja kvalitete (audit)
+# Članak 23.
+(1) Svi predmeti vrednovanja svakih pet godina podliježu vanjskoj neovisnoj periodičnoj prosudbi unutarnjega sustava osiguravanja kvalitete.
+(2) Vanjska neovisna periodična prosudba unutarnjega sustava osiguravanja kvalitete obavlja se na temelju općeg akta koji donosi Agencija.
+(3) Agencija obavlja vanjsku neovisnu periodičnu prosudbu unutarnjeg sustava osiguravanja kvalitete prema svom godišnjem planu.
+(4) Nakon provedenog postupka vanjske neovisne periodične prosudbe unutarnjega sustava osiguravanja kvalitete, Agencija objavljuje izvješće na mrežnim stranicama Agencije s ocjenom razvijenosti i učinkovitosti unutarnjega sustava osiguravanja kvalitete.
+(5) Ako se u postupku vanjske neovisne periodične prosudbe utvrdi da je unutarnji sustav osiguravanja kvalitete predmeta vrednovanja učinkovit, Agencija izdaje certifikat o razvijenosti i učinkovitosti unutarnjeg sustava osiguravanja kvalitete. Ako se u postupku vanjske neovisne periodične prosudbe utvrde nedostaci u ispunjavanju preporuka za poboljšavanje učinkovitosti unutarnjeg sustava osiguravanja kvalitete predmeta vrednovanja, Agencija ne izdaje certifikat te može pokrenuti vanjsku prosudbu u razdoblju kraćem od razdoblja propisanog stavkom 1. ovoga članka ili pokrenuti postupak reakreditacije predmeta vrednovanja, ili tematsko vrednovanje.

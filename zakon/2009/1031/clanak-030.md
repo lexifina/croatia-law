@@ -1,0 +1,2 @@
+# Članak 30.
+Stupanjem na snagu ovoga Zakona prestaju važiti odredbe članka 6. stavka 2. točke 3., članka 7. stavka 2. točke 2., 4., 5. i 6., članka 15., 16., 17. i 18., članka 22. stavaka 3. i 4., članka 23 stavaka 3., 4., 5. i 6. i članka 51. stavaka 2., 3., 4., 5., 7., 8., 9. i 12. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. - Odluka USRH i 46/07.).
