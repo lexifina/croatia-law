@@ -1,0 +1,2 @@
+# Članak 5.
+Odredbe ovoga Pravilnika primjenjuju se i na sredstva ostvarena po ugovorima o koncesiji poljoprivrednog zemljišta u vlasništvu Republike Hrvatske koji su zaključeni do stupanja na snagu Zakona o poljoprivrednom zemljištu (»Narodne novine« broj 152/08) i na ugovore o koncesiji poljoprivrednog zemljišta u vlasništvu Republike Hrvatske koji su zaključeni na temelju članka 99. toga Zakona.

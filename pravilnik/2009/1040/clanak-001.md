@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti i način korištenja sredstava ostvarenih od prodaje, zakupa, dugogodišnjeg zakupa poljoprivrednog zemljišta u vlasništvu Republike Hrvatske i koncesije za ribnjake (u daljnjem tekstu: sredstva), koja su prihod proračuna jedinice lokalne samouprave, odnosno Grada Zagreba i područne (regionalne) samouprave, na čijem području se poljoprivredno zemljište nalazi sukladno odredbama članka 74. stavka 1. i 2. Zakona o poljoprivrednom zemljištu.
