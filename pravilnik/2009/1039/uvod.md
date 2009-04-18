@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 152/08) ministar poljoprivrede, ribarstva i ruralnog razvoja uz prethodnu suglasnost ministra nadležnog za šumarstvo i vodno gospodarstvo, ministra nadležnog za promet i Državnog odvjetništva Republike Hrvatske, donosi
