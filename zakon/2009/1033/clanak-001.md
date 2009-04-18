@@ -1,0 +1,11 @@
+# Članak 1.
+U Carinskom zakonu (»Narodne novine«, br. 78/99., 117/99., 73/00., 92/01., 47/03., 140/05., 138/06. i 60/08.) članak 224. mijenja se i glasi:
+»Kad svota davanja proizišla iz carinskoga duga nije proknjižena u skladu sa člankom 222. i 223. ovoga Zakona ili je proknjižena u nižemu iznosu od zakonski dugovanog, svota davanja ili njezin preostali dio proknjižit će se u roku od dva dana od dana kada carinarnica to utvrdi i bude u mogućnosti izračunati zakonski dugovani iznos i utvrditi dužnika (naknadno knjiženje). Ti rokovi mogu se produljiti u skladu sa člankom 223. ovoga Zakona.
+Osim slučajeva iz stavka 2., 3. i 5. članka 221. ovoga Zakona, naknadno knjiženje neće se provesti:
+a) ako je odluka o tome, da se davanja ne proknjiže ili da se proknjiže u iznosu manjem od zakonski dugovanih, donesena na temelju naknadno poništenih akata,
+b) ako iznos zakonski dugovanih davanja nije proknjižen uslijed pogreške carinskih tijela koju osoba odgovorna za plaćanje, postupajući u dobroj vjeri i u skladu s važećim odredbama o carinskim deklaracijama, nije mogla otkriti;
+Kada je povlašteno podrijetlo robe ustanovljeno na temelju sustava administrativne suradnje koji uključuje tijela treće zemlje, izdavanje potvrde od strane tih tijela koja se pokaže nepravilnom, predstavlja pogrešku koja se nije mogla otkriti u smislu odredaba ove točke;
+Izdavanje nepravilne potvrde, međutim, ne predstavlja pogrešku ako se potvrda temelji na netočnom prikazu činjenica koje je dao izvoznik, osim ako je nedvojbeno da su tijela koja su izdala potvrdu znala ili trebala znati da roba ne zadovoljava propisane uvjete za povlašteno postupanje;
+Odgovorna osoba može se pozvati na dobru vjeru ukoliko može dokazati da je u obavljanju odnosnog trgovinskog posla s dužnom pažnjom poduzela potrebne mjere kako bi osigurala ispunjavanje svih uvjeta za povlašteno postupanje;
+Odgovorna osoba se, međutim, ne može pozivati na dobru vjeru, ako je u Službenom listu Republike Hrvatske objavljena obavijest o postojanju osnove za sumnju u pravilnu primjenu mjera povlaštenog postupanja u zemlji korisnici.
+c) ako je iznos davanja manji od iznosa za koji je Vlada Repub-like Hrvatske propisala da se neće naknadno knjižiti.«
