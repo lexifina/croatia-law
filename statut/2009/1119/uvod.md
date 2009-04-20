@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine« br. 80/08.) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« br. 76/93, 29/97, 47/99 i 35/08) Upravno vijeće Hrvatskoga zavoda za zapošljavanje na sjednici održanoj dana 31. ožujka 2009. godine donijelo je

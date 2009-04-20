@@ -1,0 +1,20 @@
+# Članak 17.
+Središnja služba Zavoda obavlja sljedeće poslove:
+1) koordinacija i nadzor u primjeni Zakona, Statuta i drugih općih akata Zavoda,
+2) praćenje, analiziranje i istraživanje gospodarskih, socijalnih i drugih kretanja, zaposlenosti, zapošljavanja i nezaposlenosti, njihove međusobne utjecaje, te predlaganje mjera za unapređenje zapošljavanja,
+3) utvrđivanje jedinstvenih standarda, postupaka, metodologije i instrumentarija stručnog rada za područne službe,
+4) izrada uputa za rad, te koordinacija i nadzor poslova posredovanja pri zapošljavanju, profesionalnog usmjeravanja, obrazovanja, aktivne politike zapošljavanja, te ostvarivanja prava za vrijeme nezaposlenosti,
+5) predlaganje plana rada Zavoda,
+6) izrada zakonom propisanih izvješća i drugih izvješća o poslovanju Zavoda potrebnih za donošenje poslovnih odluka,
+7) rješavanje u drugom stupnju o pravu za vrijeme nezaposlenosti,
+8) upravljanje imovinom Zavoda, te provođenje imovinsko pravnih poslova u svezi s imovinom Zavoda,
+9) provedba međunarodnih ugovora o socijalnom osiguranju u dijelu koji de odnosi na prava za vrijeme nezaposlenosti,
+10) razmjena podataka i dokumenata za provedbu uredbi Europske unije o naknadama za vrijeme nezaposlenosti,
+11) provedba međunarodnih ugovora o zapošljavanju, te razmjena podataka o slobodnim radnim mjestima u okviru mreže Europskih službi za zapošljavanje (EURES),
+12) zapošljavanje hrvatskih državljana u inozemstvu i ostvarivanje njihovih prava,
+13) planiranje prihoda, te planiranje raspodjele sredstava ostvarenih po osnovi doprinosa za zapošljavanje i iz drugih izvora za namjene utvrđene Zakonom,
+14) izrada prijedloga općih akata za provedbu Zakona, te drugih općih akata Zavoda,
+15) izdavanje stručno-informativnih publikacija,
+16) priprema sjednica tijela Zavoda i davanje službenih priopćenja sredstvima javnog priopćavanja,
+17) administrativno-tehnički poslovi i drugi poslovi utvrđeni općim aktom o unutarnjem ustrojstvu Zavoda,
+18) obavljanje i drugih poslova utvrđenih ovim Statutom i aktima Zavoda.
