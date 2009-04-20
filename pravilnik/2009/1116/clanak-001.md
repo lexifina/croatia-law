@@ -1,0 +1,2 @@
+# Članak 1.
+Prilozi II. i III. Pravilnika o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla (»Narodne novine«, br. 148/08) mijenjaju se i nadopunjuju vezano uz maksimalne razine ostataka pesticida (MDK) za azoksistrobin i fludioksonil za određene proizvode iz Priloga I. Pravilnika o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla.
