@@ -1,0 +1,3 @@
+# Članak 30.
+(1) U slučaju izvanrednog poremećaja u radu transportnog sustava, distribucijskog sustava, sustava skladišta plina, mreže proizvodnih plinovoda i/ili opreme krajnjeg kupca priključenog na transportni sustav, kao i u slučaju izvanrednog poremećaja uvoza plina, operator sustava skladišta plina će odmah o istome obavijestiti korisnika sustava skladišta plina na kojeg poremećaj ima utjecaj i voditelja bilančne skupine čiji je korisnik sustava skladišta plina član, te mu omogućiti izmjenu prihvaćene dnevne nominacije.
+(2) Rok za renominaciju iz stavka 1. ovoga članka određuje operator sustava skladišta plina.

@@ -1,0 +1,4 @@
+## Pravila za korištenje nenominiranim rezerviranim kapacitetima
+# Članak 32.
+(1) Ukoliko korisnik sustava skladišta plina ne nominira korištenje sustava skladišta plina, operator sustava skladišta plina može kapacitet sustava skladišta plina koji je rezerviran za naredni plinski dan ili naredne plinske dane ponuditi drugim korisnicima sustava skladišta plina na primarnom tržištu kapaciteta kao prekidivi kapacitet, isključujući rezervirani kapacitet sustava skladišta plina za operativnu zalihu.
+(2) Operator sustava skladišta plina može ponuditi prekidivi kapacitet iz stavka 1. ovoga članka u razdoblju od 14,30 do 15,00 sati tekućeg dana za naredni plinski dan ili naredne plinske dane, uz prethodnu obavijest korisniku sustava skladišta plina čiji kapacitet sustava skladišta plina je ponudio na primarnom tržištu kapaciteta.

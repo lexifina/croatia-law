@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Ukoliko operator transportnog sustava smatra da je neki od podataka koje je dužan objaviti povjerljiv, može zatražiti od Agencije odobrenje za izuzeće od obveze objavljivanja tog podatka.
+(2) Agencija će prilikom odlučivanja o davanju odobrenja za izuzeće iz stavka 1. ovoga članka uzeti u obzir okolnost da li je podatak za koji se traži izuzeće od obveze objavljivanja povjerljiv podatak komercijalne prirode i da li bi objavljivanje tog podatka narušilo konkurentnost tržišta plina.
+(3) Ako je Agencija dala odobrenje za izuzeće od obveze objavljivanja određenog podatka, operator transportnog sustava ima pravo objaviti slobodni kapacitet transportnog sustava bez navođenja brojčanog iznosa slobodnog kapaciteta za koji je dobio odobrenje Agencije.
+(4) Odobrenje za izuzeće od obveze objavljivanja određenog podatka neće se dati u slučaju u kojem su tri ili više korisnika transportnog sustava rezervirali kapacitete transportnog sustava na istom ulazu u transportni sustav ili na istom izlazu iz transportnog sustava.
