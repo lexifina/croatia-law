@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine« br. 86/08) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« br. 76/93, 29/97, 47/99 i 35/08) Upravno vijeće Agencije za osiguranje radničkih potraživanja u slučaju stečaja poslodavca na sjednici održanoj 10. ožujka 2009. godine, donijelo je
