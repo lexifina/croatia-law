@@ -1,0 +1,8 @@
+I. Poništava se dio Javnog natječaja za dodjelu koncesija za obavljanje djelatnosti radija i/ili televizije - tablica 2. djelatnost televizije - točka 2. Grad Jastrebarsko (G-JA).
+II. Ova odluka stupa na snagu danom donošenja i objavit će se u »Narodnim novinama«.
+Obrazloženje
+Vijeće za elektroničke medije na svojoj 04-09 sjednici održanoj dana 10. veljače 2009. godine donijelo je Odluku o raspisivanju Javnog natječaja broj 01/09 za davanje koncesija za obavljanje djelatnosti radija. Javni natječaj objavljen je u »Narodnim novinama« broj 21/09 od 16. veljače 2009. godine i u propisanom roku na javni natječaj za davanje koncesija u tablici 2. pod točkom 2. Grad Jastrebarsko ponudu je dostavio ponuditelj TV Plus d.o.o.
+Vijeće je razmatranjem, usporedbom i ocjenom zaprimljenih ponuda utvrdilo da jedini ponuditelj za davanje koncesije za obavljanje djelatnosti radija na području Grada Jastrebarskog - TV Plus d.o.o. nije podnijela prijavu koja ispunjava sve uvjete propisane Javnim natječajem. Utvrđeno je da ponudi ne udovoljava u dijelu koji se odnosi na financijsku i kadrovsku sposobnosti ponuđača u skladu s Pravilnikom o posebnim tehničkim, prostornim, financijskim i kadrovskim uvjetima za obavljanje djelatnosti radija i televizije (»Narodne novine« broj 111/07).
+Slijedom navedenoga odlučeno je kao u dispozitivu.
+UPUTA O PRAVNOM LIJEKU
+Protiv ove odluke nije dopuštena žalba, jer je ona konačna, ali se može pokrenuti upravni spor pred Upravnim sudom Republike Hrvatske u roku od 30 dana od dana primitka odluke. Tužba se predaje ili šalje neposredno sudu Republike Hrvatske u Zagrebu, a može se podnijeti i na zapisnik kod redovnog suda nadležnog za obavljanje pravne pomoći.
