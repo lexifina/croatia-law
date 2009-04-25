@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 8. Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03. - pročišćeni tekst, 76/07. i 27/08.), ministar pravosuđa donosi
