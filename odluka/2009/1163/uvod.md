@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 3. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, br. 177/2004 i 76/2007), Vlada Republike Hrvatske je na sjednici održanoj 16. travnja 2009. godine donijela
