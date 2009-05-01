@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Revizija Ugovora između Republike Austrije, Republike Bugarske, Republike Hrvatske, Češke Republike, Republike Mađarske, Republike Poljske, Rumunjske, Slovačke Republike i Republike Slovenije za promicanje suradnje u području visokog obrazovanja u okviru Srednjoeuropskog programa razmjene za sveučilišne studije (CEEPUS II), jednoglasno usvojena u Zagrebu, 16. ožujka 2007. godine, na 13. sastanku Zajedničkog odbora ministara CEEPUS-a.
