@@ -1,0 +1,2 @@
+# Članak 2.
+Komora je samostalna strukovna organizacija koja čuva ugled, čast i prava ovlaštenih inženjera građevinarstva, promiče, zastupa i usklađuje njihove zajedničke interese pred državnim i drugim tijelima u zemlji i inozemstvu te skrbi da ovlašteni inženjeri građevinarstva savjesno i u skladu sa zakonom i javnim interesom obavljaju svoje poslove i pritom štite i unaprjeđuju hrvatsku graditeljsku baštinu.

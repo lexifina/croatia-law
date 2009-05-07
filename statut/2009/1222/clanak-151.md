@@ -1,0 +1,2 @@
+# Članak 151.
+Ovaj Statut stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, uz pribavljenu suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, osim članaka 7. stavka 2. podstavaka 2., 8. i 9., 32., 33. stavka 1. podstavaka 2. i 3., 61. stavaka 1. i 2., 73. stavka 1. podstavka 2. i stavka 3. podstavaka 2. i 3. koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
