@@ -1,0 +1,3 @@
+# Članak 82.
+(1) Suglasnost iz stavka 1. ovoga članka Državna geodetska uprava oduzet će rješenjem ako ovlašteni inženjer geodezije koji stručne geodetske poslove obavlja samostalno u uredu ovlaštenog inženjera geodezije ili u zajedničkome geodetskom uredu odnosno pravnoj osobi, prestane ispunjavati uvjete propisane za davanje suglasnosti ili ako stručne geodetske poslove obavlja protivno Zakonu, propisima donesenim na temelju Zakona ili protivno propisima kojima se uređuje pojedino od područja navedenih u članku 2. Zakona.
+(2) Protiv rješenja o oduzimanju suglasnosti žalba nije dopuštena, ali se može pokrenuti upravni spor. U tom slučaju postupak je hitan.

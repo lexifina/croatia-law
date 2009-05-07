@@ -1,0 +1,2 @@
+# Članak 140.
+Glavni tajnik Komore, u skladu s aktom iz prethodnog članka, donosi organizacijske i ostale odgovarajuće mjere, na osnovu kojih Komora sprječava neovlašteni ili neregistrirani pristup poslovnim prostorijama službe koje služe za obavljanje javnih ovlasti Komore, namjerno uništavanje podataka upisanih u Imenik ovlaštenih inženjera geodezije, njihovu izmjenu ili gubitak, kao i neovlašteni pristup, obradu i dostavljanje tih podataka te njihovo korištenje.

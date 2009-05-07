@@ -1,0 +1,36 @@
+# Članak 12.
+(1) Skupština Komore:
+- donosi Statut Komore,
+- donosi Kodeks strukovne etike Komore,
+- donosi Cjenik usluga Komore,
+- donosi Pravilnik o arbitraži i arbitražnom postupku,
+- donosi Pravilnik o stegovnom postupanju,
+- donosi Pravilnik o radu,
+- donosi Pravilnik o počasnim članovima Komore,
+- donosi Pravilnik o upisima, odlukama, odobrenjima i potvrdama
+- donosi Pravilnik o javnim knjigama i evidencijama Komore,
+- donosi Pravilnik o znaku Komore,
+- donosi Pravilnik o izborima za tijela Komore,
+- donosi Pravilnik o jubilarnim nagradama i drugim priznanjima Komore,
+- donosi Pravilnik o plaćanju članarine i ostalih davanja Komore,
+- donosi odluku o visini članarine, upisnine i naknade za poslove kojima Komora ostvaruje vlastite prihode,
+- donosi Poslovnik o radu Skupštine Komore,
+- donosi Poslovnik o radu Upravnog odbora Komore,
+- donosi Poslovnik o radu Nadzornog odbora Komore,
+- utvrđuje opću politiku rada i djelovanja, te donosi Program rada Komore,
+- donosi godišnji proračun prihoda i rashoda Komore i prihvaća izvješće o izvršenju tog proračuna,
+- odlučuje o raspisivanju izbora te provodi imenovanja i razrješenja u skladu s posebnim aktima Komore,
+- bira predsjednika Komore,
+- bira članove Odbora za upis Komore,
+- bira članove Nadzornog odbora Komore,
+- na prijedlog Upravnog odbora Komore imenuje članove Stegovnog suda, Višeg stegovnog suda, stegovnog tužitelja i zamjenike stegovnog tužitelja, arbitre Arbitražnog suda,
+- bira članove Upravnog odbora Komore,
+- raspravlja i prihvaća Izvještaj o radu Komore i tijela Komore,
+- prihvaća Izvještaj o radu Nadzornog odbora Komore,
+- raspravlja o svim tematskim pitanjima od zajedničkog interesa, vezanim uz rad, uvjete rada i stručnu problematiku na područjima obavljanja stručnih geodetskih poslova, te u svezi s tim pitanjima donosi stajališta i preporuke,
+- odlučuje o međusobnim odnosima i udruživanju s drugim komorama,
+- odlučuje o suradnji s drugim komorama i udrugama radi provedbe programa od zajedničkog interesa,
+- raspravlja i o ostalim pitanjima u sklopu zadaća Komore utvrđenih propisima, te o tome oblikuje odgovarajuće odluke,
+- odlučuje i o drugim pitanjima na prijedlog predsjednika Komore i drugih tijela Komore.
+(2) Po potrebi Skupština može donijeti i druge opće akte te osnivati i imenovati odgovarajuća povjerenstva kada je to potrebno radi rješavanja pojedinih pitanja, u skladu sa Zakonom i ovim statutom.
+(3) Skupština Komore odgovara na sva pitanja koja joj upute tijela Komore te može razmatrati svako pitanje iz djelokruga drugih tijela Komore i odlučivati o njemu.

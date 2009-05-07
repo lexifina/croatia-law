@@ -1,0 +1,1 @@
+Na temelju članka 85. stavka 2. Zakona o obavljanju geodetske djelatnosti (»Narodne novine«, br. 152/08.), Odbor za konstituiranje Hrvatske komore ovlaštenih inženjera geodezije, uz suglasnost Državne geodetske uprave klasa: 930-03/09-01/07, urbroj: 541-02-1/1-09-2, na sjednici održanoj 22. travnja 2009. godine, donio je

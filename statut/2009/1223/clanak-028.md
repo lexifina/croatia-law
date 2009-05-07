@@ -1,0 +1,5 @@
+## Odbor za upis
+# Članak 28.
+(1) Odbor za upis čine četiri (4) člana koje iz reda svojih članova bira Skupština Komore i predsjednik Komore.
+(2) Radom Odbora za upis rukovodi i predstavlja ga predsjednik Komore, koji ga u svako doba može sazvati i koji potpisuje pojedinačne akte koje donosi Odbor za upis.
+(3) Odbor za upis provodi svoje zadaće u sklopu dobivenih javnih ovlasti na temelju Zakona.

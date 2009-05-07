@@ -1,0 +1,3 @@
+# Članak 132.
+(1) Za stjecanje, opterećenje ili otuđenje nekretnina do 500.000,00 kuna (slovima: pet stotina tisuća kuna) ovlašten je Upravni odbor Komore a iznad tog iznosa Upravni odbor Komore uz suglasnost Nadzornog odbora Komore.
+(2) Za stjecanje, opterećenje ili otuđenje pokretnina ovlašten je predsjednik Komore do vrijednosti od 30.000,00 kuna (slovima: trideset tisuća kuna), iznad te vrijednosti do 500.000,00 kuna (slovima: pet stotina tisuća kuna) Upravni odbor Komore a iznad vrijednosti od 500.000,00 kuna (slovima: pet stotina tisuća kuna) Upravni odbor Komore uz suglasnost Nadzornog odbora Komore.

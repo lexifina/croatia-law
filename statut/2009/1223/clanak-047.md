@@ -1,0 +1,3 @@
+# Članak 47.
+(1) Postupak u povodu zahtjeva za upis u Imenik ovlaštenih inženjera geodezije prekinut će se ako je protiv podnositelja zahtjeva otvorena istraga zbog kaznenog djela koje bi ga činilo nedostojnim za obavljanje geodetskih inženjerskih poslova ili ako je protiv njega iz istog razloga pokrenut stegovni postupak u tijelu ili pravnoj osobi u kojoj radi ili koje je član.
+(2) Ako Odbor za upis utvrdi da ovlašteni inženjer geodezije pri upisu u Imenik ovlaštenih inženjera geodezije nije udovoljavao uvjetima iz članka 42. Zakona ili da je prestao ispunjavati te uvjete, donijet će po službenoj dužnosti rješenje o brisanju iz Imenika te mu oduzeti iskaznicu i pečat.
