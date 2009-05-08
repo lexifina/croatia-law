@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 3., članka 52. stavka 3., članka 53. stavka 4. i članka 54. stavka 3. Zakona o hrani (»Narodne novine«, broj 46/07 i 155/08) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
