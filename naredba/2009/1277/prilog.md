@@ -1,0 +1,3 @@
+[1]Naredbom se preuzimaju odredbe Odluke Komisije 98/109//EZ od 2. veljače 1998. kojom se privremeno dopušta državama članicama poduzimanje hitnih mjera za sprječavanje unošenja i širenja štetnog organizma Thrips palmi Karny iz Tajlanda
+[2]Zakonom se preuzimaju odredbe Direktive Vijeća 2000/29/EZ od 8. svibnja 2000. o mjerama zaštite od unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i njihova širenja unutar Zajednice
+[3]Pravilnikom se preuzimaju odredbe Direktive Vijeća 2000/29/EZ od 8. svibnja 2000. o mjerama zaštite od unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i njihova širenja unutar Zajednice
