@@ -1,0 +1,1 @@
+Na temelju članka 16. i 25. Pravilnika Hrvatskog autokluba o stručnom nadzoru nad radom autoškola (»Narodne novine«, broj 33/09), Upravni odbor Hrvatskog autokluba na svojoj 12. sjednici održanoj 29. travnja 2009. godine donio je
