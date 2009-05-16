@@ -1,0 +1,6 @@
+## Priručna, međufazna i glavna skladišta
+# Članak 85.
+Uvjeti, mjere sigurnosti i način skladištenja eksplozivnih tvari propisani su odredbama Zakona o eksplozivnim tvarima, Pravilnika o uvjetima i načinu provedbe sigurnosnih mjera kod skladištenja eksplozivnih tvari te drugim podzakonskim aktima.
+Priručna skladišta su manji objekti u blizini proizvodnog objekta ili odgovarajući prostor u proizvodnom objektu, za čuvanje opasnih tvari u malim količinama za potrebe proizvodnje ili prerade, odnosno povrat neuporabljenih eksplozivnih tvari iz proizvodnje.
+Međufazna skladišta su posebne zgrade u kojima se eksplozivna tvar čuva u međufaznoj ambalaži na putu između dvije faze proizvodnje. Priručno skladište ako je zasebna zgrada, kao i međufazno skladište, može biti nadzemna, poluukopana ili ukopana zgrada ili zgrada tipa bunkera, bez podruma, od materijala otpornog prema vatri i atmosferskim utjecajima. Na izgradnju, sigurnu udaljenosti, provjetravanja i grijanja priručnih skladišta i međufaznih skladišta primjenjuju se odredbe ovog Pravilnika koje se odnose na opasne objekte.
+Glavno skladište su odvojene zgrade u kojima se čuvaju eksplozivne tvari u ambalaži propisanoj za javni prijevoz.

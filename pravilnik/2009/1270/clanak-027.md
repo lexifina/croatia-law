@@ -1,0 +1,112 @@
+# Članak 27.
+Za određivanje sigurnosne udaljenosti između opasnih objekata i između opasnih objekata i objekata izvan proizvodnog, odnosno skladišnog prostora primjenjuju se odredbe Pravilnika o uvjetima i načinu provedbe sigurnosnih mjera kod skladištenja eksplozivnih tvari.
+Sigurnosna udaljenost između opasnih i neopasnih objekata opasnog dijela pogona i između opasnih objekata i objekata neopasnog dijela pogona određuje se prema sljedećoj tablici.
+A
+B
+C
+broj
+kg
+M
+m
+1.
+10
+9
+17
+2.
+20
+11
+21
+3.
+40
+14
+27
+4.
+60
+16
+31
+5.
+80
+18
+34
+6.
+100
+19
+37
+7.
+150
+22
+43
+8.
+200
+24
+46
+9.
+400
+30
+59
+10.
+500
+32
+64
+11.
+600
+34
+68
+12.
+800
+37
+74
+13.
+1000
+40
+80
+14.
+2000
+51
+102
+15.
+4000
+64
+128
+16.
+5000
+69
+137
+17.
+6000
+73
+146
+18.
+8000
+80
+160
+19.
+10.000
+87
+173
+20.
+20.000
+109
+217
+21.
+30.000
+125
+249
+22.
+40.000
+137
+274
+23.
+50.000
+147
+294
+M
+1/3
+4 M
+1/3
+8 M
+A - Masa eksploziva u objektu (u kilogramima)
+B - Udaljenost objekata sa zaštitnim nasipom ugroženih od eksplozije od objekata ugroženih od požara i neopasnih objekata opasnog dijela pogona (u metrima)
+C - Udaljenost objekata sa zaštitnim nasipom ugroženih od od eksplozije od objekata neopasnog dijela pogona (u metrima)
+M - Količina eksplozivne tvari ekvivalent TNT i izračunava se po formuli 1/3 M= q * Q *10, gdje je q = količina eksploziva u kg, Q = toplina eksplozije, u KJ/kg
+Kod opasnih zgrada bez zaštitnih nasipa udaljenost se mora udvostručiti.

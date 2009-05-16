@@ -1,0 +1,5 @@
+# Članak 82.
+Pokusni hodnici su objekti s potrebnim uređajima za ispitivanje metanskih rudarskih eksploziva i električnih detonatora. Pokusni hodnik mora se nalaziti u ograđenom dijelu ispitne stanice udaljenosti najmanje 100 m od drugih zgrada u krugu ispitne stanice, a 250 m od proizvodnih zgrada.
+Ispušna strana pokusnog hodnika mora biti usmjerena prema zaštitnom nasipu ili zidu, na udaljenosti od 10 m od otvorene strane pokusnog hodnika ili prema otvorenom prostoru, pri čemu mora postojati ograda udaljena najmanje 100 m od ispušne strane. Osmatračnica mora biti postavljena paralelno s pokusnim hodnikom i mora osigurati osmatraču sigurnost od povrede eksplozijom tijekom trajanja ispitivanja.
+Nasuprot ispušnoj strani pokusnog hodnika, na udaljenosti od najmanje 10 m, postavlja se uređaj za mjerenje i puštanje metana, zaštićeno mjesto za smještaj čelične boce s metanom i priručno skladište za čuvanje ugljene prašine.
+Za vrijeme ispitivanja u pokusnom hodniku, mora biti upaljena svjetlosna signalizacija ili se ugovorenim znakom sprječava drugim osobama pristup pokusnom hodniku.

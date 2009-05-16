@@ -1,0 +1,3 @@
+# Članak 42.
+Pod u prostorijama izloženim opasnosti od požara ili eksplozije mora biti ravan, gladak ali ne klizav ili porozan, bez napuklina, koja je podesna za pranje i čišćenje. Pod mora biti u skladu s radnim procesom odnosno s opasnom tvari koja se u prostoriji nalazi i ne smije omogućiti stvaranje iskre kada postoji opasnosti od iniciranja eksplozivne tvari iskrom. Površina poda mora biti na rubovima zaobljena i izvedena uz zidove.
+U podu se mogu nalaziti kanali, ako to zahtijeva tehnološki postupak i ako to posebnim propisima nije izričito zabranjeno, koji sprječavaju eventualno taloženje opasnih tvari.

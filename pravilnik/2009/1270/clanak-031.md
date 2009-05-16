@@ -1,0 +1,3 @@
+# Članak 31.
+Konstrukcija građevine izložene opasnosti od eksplozije mora dozvoljavati u slučaju eksplozije oslobođenje tlaka produkata eksplozije na način da kruti produkti eksplozije i materijali iz građevine ne budu razbacani izvan granica sigurnosti.
+Građevine iz stavka 1. ovog članka, u pravilu moraju biti prizemne, a ako tehnološki postupak izričito zahtijeva drugačije, dozvoljene su i višekatne građevine. Podesti i nosive konstrukcije kata ne smatraju se katovima. Postojanje potkrovlja na takvim zgradama nije dozvoljeno. Prostorije na katu moraju imati nužni izlaz neposredno na otvoreni prostor ili zaštitni prolaz.

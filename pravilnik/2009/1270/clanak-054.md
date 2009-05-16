@@ -1,0 +1,2 @@
+# Članak 54.
+Elektromotorni pogoni i električni uređaji, u pravilu se postavljaju izvan opasne prostorije ili na neugroženim unutarnjim mjestima. Ako takva mjesta nisu privremeno ili trajno spojena sa opasnim prostorijama vratima, prozorima ili drugim otvorima, nije potrebno primijeniti električne instalacije izvedene u protueksplozijskoj izvedbi. U protivnom, obavezno se primjenjuje izvođenje instalacije i uređaja u protueksplozijskoj izvedbi, osim kad se posebnim propisima drugačije određuje.

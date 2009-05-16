@@ -1,0 +1,2 @@
+# Članak 117.
+Pojava poremećaja u tehnološkom procesu mora se odmah prijaviti nadležnom rukovoditelju (odstupanja od propisanih tehnoloških parametara, neuobičajeni zvukovi, vibracije ili mirisi, izmijenjen izgled i ponašanje predmeta proizvodnje ili sirovina, neuobičajeno ponašanje ili neispravnost sredstava za proizvodnju i zaštitu, zagađenje zraka, neodgovarajuća vlažnost zraka, neodgovarajući tlakovi ili protoci fluida, neodgovarajuća radna sposobnost pojedinih zaposlenika u procesu i sl.).

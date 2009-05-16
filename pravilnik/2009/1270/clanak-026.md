@@ -1,0 +1,5 @@
+# Članak 26.
+Raspored opasnih objekata mora biti takav da se izbjegne mogućnost prijenosa detonacije i požara na susjedne objekte, kao i rušenje susjednih objekata zračnim, udarnim i seizmičkim valom prouzrokovanim eksplozijom u određenom opasnom objektu.
+Opasni objekti mogu se smjestiti u granicama zone srednjih oštećenja. U zoni teških oštećenja mogu biti smješteni samo neopasni objekti u kojima se ne zadržavaju ljudi i čije eventualno razaranje ne dovodi do povećane opasnosti po ostale objekte odnosno pogone.
+Dva ili više opasnih objekata koji međusobno mogu biti ugroženi, mogu se smatrati kao jedan objekt, ako to izričito zahtijeva tehnološki postupak, pri čemu je dozvoljeno da takvi objekti međusobno budu smješteni u zoni teških oštećenja, ali kao jedinstvena grupa u odnosu na susjedne objekte moraju biti u skladu s odredbom stavka 2. ovoga članka.
+Neopasni objekti opasnog pogona u kojima se nalaze veće grupe ljudi, kao restorani, garderobe, skloništa za sklanjanje ljudi u izvanrednim uvjetima, laboratoriji, mehaničke radionice i sl. moraju biti smješteni u granicama sigurne zone.

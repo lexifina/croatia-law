@@ -1,0 +1,2 @@
+# Članak 6.
+Neopasan dio pogona čine tehničko-administrativni objekti, objekti društvenog standarda i pomoćni objekti pogona (neopasni objekti), koji samo posredno služe za rad s eksplozivnim tvarima, ali u kojima eksplozivnih tvari nema (pogonska administracija, garderobe, društvene prostorije, restorani, mehaničke radionice, kotlovnice, trafostanice, skladišta neopasnih materija, proizvodnja ambalaže i sl).

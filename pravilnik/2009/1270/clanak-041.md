@@ -1,0 +1,2 @@
+# Članak 41.
+Zidovi radnih prostorija opasnog objekta u kojima se pojavljuje prašina ili dolazi do isparavanja opasnih tvari moraju biti glatko obrađeni, neporozni i podesni za pranje. Za premazivanje ili oblaganje zidova mogu se upotrebljavati samo materijali koji se lako čiste, koji se ne ljušte i ne pucaju. Materijali koji sa opasnom tvari stvaraju osjetljive eksplozivne spojeve ne smiju se upotrebljavati.

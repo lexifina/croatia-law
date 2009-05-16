@@ -1,0 +1,3 @@
+# Članak 61.
+Zatvarači na poklopcima i elementi za učvršćivanje, kao i vijci, matice i sl. na vanjskim i unutarnjim pokretnim dijelovima moraju biti osigurani od ispadanja. Dijelovi koji se povremeno ili stalno dodiruju ili klize međusobno moraju biti čisti, bez prašine i lako pristupačni radi kontrole. Strojevi i aparati koji tijekom rada zahtijevaju stalan nadzor, moraju imati dva prekidača za uključenje i isključenje napona. Jedan se prekidač treba nalaziti u proizvodnoj prostoriji.
+Svi strojevi i aparati i njihovi motori moraju biti propisno uzemljeni i galvanski spojeni s ostalim metalnim masama objekta. Strojevi i aparati moraju imati neophodne kontrolno-mjerne instrumente.
