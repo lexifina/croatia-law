@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se postupak zaprimanja izjave od fizičke osobe o određenoj adresi na koju osoba želi da joj se obavlja dostava u sudskim postupcima ili izjave o određenoj osobi na određenoj adresi kojoj želi da se obavlja dostava u sudskim postupcima, kao i uvjeti i način davanja podataka iz Evidencije prebivališta i boravišta za osobe protiv kojih je pokrenut parnični postupak.
