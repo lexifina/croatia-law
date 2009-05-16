@@ -1,0 +1,4 @@
+# Članak 2.
+Odredbe ovoga Pravilnika odnose se na:
+1. davanje suglasnosti Vlade Republike Hrvatske za zaduživanje općine, grada ili županije uzimanjem kredita ili zajmova te izdavanjem vrijednosnih papira, u skladu s odredbama članaka 86. - 88. Zakona o proračunu, Zakona o tržištu kapitala i propisa donesenih na temelju toga Zakona, te za davanje jamstva županije gradu ili općini u skladu s člankom 91. stavkom 1. Zakona o proračunu;
+2. davanje suglasnosti ministra financija općini, gradu i županiji za davanje jamstva pravnoj osobi u njezinu većinskom izravnom ili neizravnom vlasništvu i ustanovi čiji je ona osnivač, u skladu s člankom 91. stavkom 2. Zakona o proračunu, te za davanje suglasnosti za zaduživanje i davanje jamstva izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave u skladu s člankom 94. Zakona o proračunu.

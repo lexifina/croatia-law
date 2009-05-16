@@ -1,0 +1,3 @@
+# Članak 4.
+Pod pojmom investicija, u smislu ovoga Pravilnika, podrazumijevaju se rashodi za nabavu nefinancijske imovine (osim prijevoznog sredstva u cestovnom prometu - osobnog automobila) koje općina, grad ili županija financira iz svoga proračuna, u skladu sa Zakonom o proračunu i člancima 19., 19.a. i 20. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi.
+Investicija iz stavka 1. ovoga članka mora biti planirana u proračunu općine, grada ili županije za proračunsku godinu za koju se traži suglasnost za zaduživanje, a u skladu s člankom 16. Zakona o proračunu, te utvrđena u odluci o izvršavanju proračuna u skladu s člankom 14. stavkom 2. Zakona o proračunu.
