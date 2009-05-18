@@ -1,0 +1,3 @@
+# Članak 1.
+Vlada Republike Hrvatske i Vlada Talijanske Republike ovime uspostavljaju Koordinacijski odbor ministara nadležnih za vanjske poslove, gospodarsku i industrijsku suradnju, energetiku, okoliš, infrastrukturu, promet, poljoprivredu, sveučilišta i znanstveno istraživanje.
+Prema potrebi, te u suglasju s drugom strankom, područje aktivnosti može se proširiti na druga područja od interesa dviju država. Posebno težište stavit će se na oblikovanje sjevernojadranskoga područja razvitka, uzimajući također u obzir oblike koordinacije i zajedničke politike prema gospodarskim resursima regije, razvitak i zaštitu okoliša, s obzirom na sjevernojadransku suradnju u okviru instrumenata ekološkog zakonodavstva i dobre prakse Europske unije.
