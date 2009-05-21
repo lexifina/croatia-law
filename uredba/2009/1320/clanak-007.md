@@ -1,0 +1,9 @@
+## Opravdanost primjene modela javno-privatnog partnerstva
+# Članak 7.
+Kriteriji za ocjenu i odobravanje opravdanosti primjene modela javno-privatnog partnerstva u provedbi predloženog projekta su:
+a) raspodjela obveza između javnog i privatnog partnera:
+- na taj način da privatni partner uz obvezu projektiranja, gradnje i/ili rekonstrukcije javne infrastrukture i/ili javnog informacijskog - komunikacijskog sustava i/ili građevine od javnog interesa, preuzima jednu ili više obveza, kao što su financiranje, upravljanje i održavanje, a u svrhu pružanja krajnjim korisnicima javnih usluga iz okvira nadležnosti javnog partnera, ili u svrhu osiguranja javnom partneru potrebnih preduvjeta za pružanje javnih usluga iz okvira njegovih nadležnosti, ili
+- da privatni partner preuzima obvezu pružanja krajnjim korisnicima javne usluge iz okvira nadležnosti javnog sektora,
+b) da privatni partner preuzimajući obvezu građenja, uz rizik građenja preuzima i najmanje jedan od dva sljedeća rizika: rizik raspoloživosti izgrađene ili rekonstruirane građevine i/ili tržišni rizik dostatne potražnje za pruženim uslugama,
+c) pozitivna vrijednost za novac, izračunata primjenom metode usporedbe troškova javnog sektora (PSC) tijekom cijelog predloženog ugovorenog razdoblja, a što razumijeva usporedbu svih planiranih troškova javnog sektora, ukoliko se u provedbi predloženog projekta primjeni model javno-privatnog partnerstva s planiranim troškovima koje bi javni sektor imao u provedbi istog projekta u istom razdoblju, u slučaju klasičnog (proračunskog) financiranja tih troškova, uključujući pritom, uz troškove građenja i/ili rekonstrukcije, i sve druge troškove koje u modelu javno-privatnog partnerstva snosi privatni partner, kao što su troškovi uporabe i održavanja objekta, ili troškovi nastanka rizičnih događaja,
+d) predloženo ugovorno razdoblje, koje ne može biti kraće od 5, niti duže od 40 godina.

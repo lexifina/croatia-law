@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Nadležno javno tijelo, prije obveze dostavljanja iz članka 14. ove Uredbe, dužno je ministarstvu nadležnom za financije dostaviti konačni nacrt ugovora sa svim prilozima, kao i sve druge postojeće ugovore povezane s konačnim nacrtom ugovora, te o tome u pisanom obliku obavijestiti Agenciju.
+(2) Ministarstvo nadležno za financije u okviru svojih nadležnosti daje suglasnost o sukladnosti konačnog nacrta ugovora s proračunskim projekcijama i planovima, te fiskalnim rizicima i ograničenjima, kao i o financijskoj i fiskalnoj održivosti projekta javno-privatnog partnerstva.
+(3) Suglasnost iz stavka 2. ovoga članka na Konačni nacrt ugovora ministarstvo nadležno za financije dostavlja nadležnom javnom tijelu u roku 30 dana od dana zaprimanja dokumentacije iz stavka 1. ovoga članka.
