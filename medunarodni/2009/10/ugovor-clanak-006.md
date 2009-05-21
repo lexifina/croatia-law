@@ -1,0 +1,3 @@
+# Članak 6.
+1. Svaka stranka zadržava pravo, iz razloga nacionalne sigurnosti, javnog reda ili javnoga zdravlja, obustaviti privremeno, u cijelosti ili djelomice, primjenu ovog Sporazuma. O odluci o obustavi primjene ovog Sporazuma ili o ukidanju obustave, pisano se, diplomatskim putem, izvješćuje druga stranka, najkasnije sedamdeset i dva (72) sata prije stupanja odluke na snagu.
+2. Obustava primjene ovog Sporazuma koju je uvela jedna od stranaka ne utječe na prava državljana države druge stranke, navedenih u člancima 1. i 2. ovog Sporazuma, koji već borave na državnom području države dotične stranke.
