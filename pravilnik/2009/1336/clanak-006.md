@@ -1,0 +1,4 @@
+# Članak 6.
+Na zahtjev ravnatelja uprava Ministarstva kulture nadležnih za zaštitu kulturnih dobara na moru, morskom dnu i podmorju te za zaštitu prirode, temeljem ukazane potrebe za pružanjem potpore, zapovjednik Obalne straže može odobriti ukrcavanje njihovog predstavnika na plovni objekt (brod) ili zrakoplov Obalne straže u svrhu izvršenja zadaće.
+Zahtjev se podnosi u pisanom obliku Zapovjedništvu Obalne straže, a iznimno u slučaju potrebe hitne intervencije zahtjev se upućuje usmeno uz obvezu naknadne dostave zahtjeva u pisanom obliku.
+Na zahtjev zapovjednika Obalne straže, temeljem ukazane potrebe, tijela nadležna za zaštitu kulturnih dobara na moru, morskom dnu i podmorju te tijela nadležna za zaštitu prirode mogu ukrcati svog predstavnika na plovni objekt (brod) ili zrakoplov Obalne straže radi pružanja potpore u izvršenju zadaće iz nadležnosti Obalne straže.
