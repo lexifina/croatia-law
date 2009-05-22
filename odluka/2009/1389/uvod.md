@@ -1,0 +1,1 @@
+Na osnovi članka 18. stavak 2. Pravila uspostavljanja i provođenja dopunskog zdravstvenog osiguranja (»Narodne novine« broj 2/09. i 32/09.) i članka 27. točke 3. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 4. sjednici održanoj 11. svibnja 2009. godine donijelo je
