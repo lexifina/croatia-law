@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 1. i 2. Zakona o državnom odvjetništvu (»Narodne novine« br. 51/01, 58/06, 16/07, 20/07 i 146/08, u daljnjem tekstu: Zakon), na prijedlog Glavnog državnog odvjetnika Republike Hrvatske, ministar pravosuđa donosi
