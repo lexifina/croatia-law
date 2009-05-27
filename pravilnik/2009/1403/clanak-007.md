@@ -1,0 +1,5 @@
+# Članak 7.
+Uz zahtjev za produženje poslovne dozvole strani poduzetnici iz članka 5. ovog Pravilnika, kao i obrtnici obveznici poreza na dobit prilažu sljedeću dokumentaciju:
+- potvrdu nadležnog ureda Porezne uprave - Ministarstva financija kojom se dokazuje da je poslodavac (trgovačko društvo odnosno obrtnik obveznik poreza na dobit) podmirio sve obveze na ime poreza i drugih javnih davanja,
+- godišnji financijski izvještaj poduzetnika propisan Zakonom o računovodstvu kojim dokazuje da je ulaganje kroz materijalnu i nematerijalnu imovinu uključeno u imovinu društva, te dokaz o broju zaposlenih državljana Republike Hrvatske u trgovačkom društvu na obrascu POD-DOP, a koji se predaje uz godišnji financijski izvještaj i
+- izvješće o realizaciji plana za razdoblje za koje je izdana prethodna poslovna dozvola na temelju Poslovnog plana, odnosno Elaborata o ulaganju za poslovne dozvole izdane sukladno ranije važećem Pravilniku o uvjetima izdavanja suglasnosti (»Narodne novine« broj: 26/08.).

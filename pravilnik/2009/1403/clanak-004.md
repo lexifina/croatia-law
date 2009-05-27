@@ -1,0 +1,3 @@
+# Članak 4.
+Uvjeti za izdavanje suglasnosti za pružatelje usluga u ime inozemnog poslodavca su da je pružatelj usluga zaposlen kod inozemnog poslodavca i ima odgovarajuće kvalifikacije, a inozemni poslodavac ima sklopljen ugovor s trgovačkim društvom, odnosno obrtom u Republici Hrvatskoj pod uvjetom da se radi o specifičnom pružanju usluga u djelatnosti visoke tehnologije, te da pružanje usluga predstavlja interes za Republiku Hrvatsku.
+Suglasnost za izdavanje poslovne dozvole za pružatelja usluga u ime inozemnog poslodavca izdaje se na vrijeme izvršenja ugovora o pružanju usluga, odnosno najduže do godine dana.
