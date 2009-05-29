@@ -1,0 +1,2 @@
+# Članak 28.
+Održavanje ostalih objekata sigurnosti plovidbe za poboljšanje uvjeta plovidbe iz članka 107. stavak 1. alineja 1. Zakona, kao što su: brodske prevodnice, brane, zimovnici, sidrišta, okretišta, pera, uzdužne građevine, pragovi i sl.), obavlja Agencija, a ako postoji njihovo višenamjensko korištenje, Agencija će održavanje ugovorno regulirati s ostalim korisnicima. Održavanje se obavlja prema projektima održavanja i sukladno odredbama propisa koji reguliraju održavanje građevina.

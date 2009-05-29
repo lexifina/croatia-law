@@ -1,0 +1,1 @@
+Na temelju članka 244. stavak 4. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« broj 109/07 i 132/07), ministar mora, prometa i infrastrukture uz prethodnu suglasnost Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi

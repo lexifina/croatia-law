@@ -1,0 +1,2 @@
+# Članak 7.
+Godišnji program snimanja vodnih putova i izrade tehničke dokumentacije održavanja razrađuje se po pojedinim vodnim putovima. Obuhvaća godišnje snimanje svih vodnih putova, te glavna snimanja kritičnih dionica i objekata na kojima se planiraju izvoditi radovi održavanja, te snimanja pojasa vodotoka radi izrade geodetskih i morfoloških podloga u cilju ažuriranja tehničke dokumentacije. Program obuhvaća obradu snimljenih podataka i izradu tehničke dokumentacije održavanja po vodotocima za pojedine dionice i pojedine objekte.

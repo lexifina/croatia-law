@@ -1,0 +1,3 @@
+# Članak 43.
+Izvođači za obavljanje poslova održavanja vodnih putova iz članka 8. ovog Pravilnika moraju biti registrirani za: tehničko i gospodarsko održavanje vodnog dobra, regulacijskih i vodnih građevina i uređaja i/ili uređenje vodotoka i drugih voda (regulacijski radovi), te moraju imati Suglasnost za obavljanje djelatnosti građenja izdano od Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva kojim su ovlašteni za: A) građenje građevina pod 26.6 - Luke, vodni putovi, pregrade, nasipi i druge vodne gradnje. Najmanju skupinu zahtjevanosti obzirom na složenost građevine definirat će naručitelj u dokumentaciji za nadmetanje.
+Za ostale poslove tehničkog održavanja uvjeti registracije i poslovne sposobnosti definirat će se dokumentacijom za nadmetanje.

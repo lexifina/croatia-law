@@ -1,0 +1,3 @@
+# Članak 27.
+Uklonjeni nanosi iz plovnog puta će se sukladno odredbama Zakona o vodama izmjestiti unutar korita vodotoka van plovnog puta na mjesta koje odrede Hrvatske vode, ili koristiti za održavanje postojećih ili građenje novih objekata za poboljšanje uvjeta plovidbe ili za osposobljavanje plovnih putova, a sukladno odredbama Zakona o vodama.
+U slučaju da nema tehničkih mogućnosti, ekonomske opravdanosti ni potreba za postupanjem kako je navedeno u prethodnom stavku uklonjeni materijal će se deponirati na vodnom dobru radi korištenja za ugradnju u zaštitne regulacijske građevine ili ugradnju u druge javne građevine od interesa za R Hrvatsku sukladno odredbama Zakona o vodama.

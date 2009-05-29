@@ -1,0 +1,4 @@
+# Članak 26.
+Uklanjanje nanosa obavlja se na dionicama plovnog puta na kojima se dno u projektom definiranom gabaritu zapuni za više od 20 cm od projektom definirane kote. Uklanjanjem nanosa potrebno je osigurati takvu plovnost da se gaz plovila kod niskog plovnog vodostaja ne mora smanjivati za više od 30 % u odnosu na gaz punih plovila.
+Na dionicama na kojima se količine vučenog nanosa značajnije obnavljaju (lokacije nizvodno od ušća pritoka, u infleksijama krivina i sl.) i ako je radi toga neophodno učestalo uklanjanje nanosa, Agencija može organizirati uklanjanje vučenog nanosa i na kotu nižu od kote definirane osnovnom projektnom dokumentacijom plovnog puta radi stvaranja rezervnog prostora za nanos koji se donosi ili će predložiti uklanjanje putem instrumenta koncesija sukladno Zakonu o vodama.
+Uklanjanjem nanosa iz akvatorija u lučkom području osigurava se dubina za stajanje plovila s maksimalnim gazom kod najnižeg vodostaja na lokaciji akvatorija.
