@@ -1,0 +1,2 @@
+# Članak 9.
+Stručno zvanje konzervator savjetnik i konzervator-restaurator savjetnik može steći osoba čija stručnost jamči da može obavljati najsloženije poslove na zaštiti i očuvanju kulturnih dobara uz uvjet da je nakon stjecanja stručnog zvanja višeg konzervatora ili višeg konzervatora-restauratora najmanje pet godina radila u struci te da je u tom razdoblju bila zapažena po obavljenim znanstvenim i stručnim radovima koji se mogu izraziti s najmanje 250 bodova.

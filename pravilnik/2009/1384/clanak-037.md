@@ -1,0 +1,2 @@
+# Članak 37.
+Pri stjecanju ili dodjeli stručnih zvanja iz ovoga Pravilnika radno iskustvo na stručnim poslovnima u konzervatorskoj djelatnosti stečeno u Upravi priznaje se kao radno iskustvo u konzervatorskoj struci potrebno za stjecanje temeljnih i viših stručnih zvanja prema ovom Pravilniku, a položeni državni stručni ispit za vrijeme obavljanja poslova u konzervatorskoj struci u Upravi priznaje se kao opći dio stručnog ispita prema ovom Pravilniku.

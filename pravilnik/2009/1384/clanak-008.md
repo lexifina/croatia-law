@@ -1,0 +1,2 @@
+# Članak 8.
+Stručno zvanje restaurator majstor i viši konzervator tehničar II stupnja može steći osoba koja je nakon stjecanja stručnog zvanja viši restaurator tehničar ili viši konzervator tehničar najmanje pet godina obavljala stručne konzervatorsko-restauratorske poslove u tom zvanju te je u tom razdoblju dala izuzetno vrijedan stručni doprinos i bila zapažena po stručnim radovima koji se mogu izraziti sa najmanje 200 bodova.
