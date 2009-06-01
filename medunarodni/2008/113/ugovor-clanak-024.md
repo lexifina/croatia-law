@@ -1,0 +1,5 @@
+# Članak 24.
+TERITORIJALNA PRIMJENA
+1. Svaka država ili Europska zajednica može, u trenutku potpisivanja ili prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu odrediti područje ili područja na koja se Konvencija primjenjuje.
+2. Svaka stranka može kasnije u svako doba, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na svako drugo područje određeno u izjavi i za čije je međunarodne odnose odgovorna ili u čije je ime ovlaštena preuzimati obveze. U odnosu na to područje, Konvencija stupa na snagu prvog dana mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca nakon datuma kada je glavni tajnik primio takvu izjavu.
+3. Svaka izjava dana sukladno prethodna dva stavka može, u odnosu na bilo koje područje određeno tom izjavom, biti povučena obaviješću upućenom glavnom tajniku Vijeća Europe. Povlačenje proizvodi učinak prvog dana mjeseca koji slijedi po isteku razdoblja od tri mjeseca nakon datuma kada je glavni tajnik primio takvu izjavu.

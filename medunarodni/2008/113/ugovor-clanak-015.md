@@ -1,0 +1,3 @@
+# Članak 15.
+UVJETI ZA PROVEDBU ODLUKA O PREKOGRANIČNIM KONTAKTIMA
+Pravosudno tijelo države stranke u kojoj se treba provesti odluka o prekograničnim kontaktima koju je donijela druga država stranka, prilikom priznanja ili proglašenja te odluke izvršnom, odnosno u svako drugo vrijeme, može utvrditi ili prilagoditi uvjete za njezinu provedbu, kao i sve mjere osiguranja i jamstva koje se odnose na to, ako je potrebno radi olakšanja vršenja tog kontakta, uz uvjet da se poštuju bitni elementi odluke, i da se posebno u obzir uzmu promijenjene okolnosti i dogovori koje su postigle dotične osobe. Ni pod kojim okolnostima strana odluka ne može biti preispitivana u pogledu svog merituma.
