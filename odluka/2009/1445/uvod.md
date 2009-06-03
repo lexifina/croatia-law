@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 3. Pravilnika o uvjetima i načinu stavljanja u promet riba i drugih morskih organizama (»Narodne novine«, broj 154/08) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
