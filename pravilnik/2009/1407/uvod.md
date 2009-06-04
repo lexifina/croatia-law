@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 12/01, 14/01, 79/07), ministar poljoprivrede, ribarstva i ruralnog razvoja uz suglasnost ravnatelja Hrvatske akreditacijske agencije, donosi
