@@ -1,0 +1,10 @@
+# Članak 9.
+Posebne odredbe vezane uz nazive jakih alkoholnih pića
+(1) Jaka alkoholna pića koja udovoljavaju uvjetima za proizvode definirane u kategorijama od 1. do 46. Priloga 2. ovoga Pravilnika moraju kod opisivanja, prezentiranja i označavanja nositi naziv koji je za njih predviđen.
+(2) Ukoliko jako alkoholno piće zadovoljava definiciju utvrđenu u članku 2. ovoga Pravilnika, ali ne zadovoljava kriterije za uvrštavanje u kategorije od 1. do 46. Priloga 2. ovoga Pravilnika, ono kod opisivanja, prezentiranja i označavanja mora nositi naziv »jako alkoholno piće«. Iznimno od stavka 5. ovoga članka taj naziv se ne može zamijeniti ili promijeniti.
+(3) Ukoliko jako alkoholno piće zadovoljava definicije više kategorija iz Priloga 2. ovoga Pravilnika, ono se može stavljati na tržište pod jednim ili više naziva navedenih za te kategorije u Prilogu 2. ovoga Pravilnika.
+(4) Iznimno od stavka 8. ovoga članka i članka 10. stavka 1. ovoga Pravilnika nazivi navedeni u stavku 1. ovoga članka ne mogu se koristiti za opisivanje ili prezentiranje drugog pića osim jakih alkoholnih pića za koje su ti nazivi navedeni u Prilogu 2. i Prilogu 3. ovoga Pravilnika.
+(5) Nazivi jakih alkoholnih pića mogu se dopuniti ili zamijeniti zemljopisnim oznakama registriranim u Prilogu 3. ovoga Pravilnika.
+(6) Alkoholno piće koje ne udovoljava niti jednoj definiciji navedenoj pod kategorijama od 1. do 46. Priloga 2. ovoga Pravilnika ne može se opisivati, prezentirati ili označiti izrazima kao što su »poput«, »vrsta«, »u stilu«, »proizvedeno«, »aroma« ili drugim sličnim izrazima koji su povezani s bilo kojim nazivom jakih alkoholnih pića navedenim u ovom Pravilniku i/ili s zemljopisnim oznakama registriranim u Prilogu 3. ovoga Pravilnika.
+(7) Naziv jakog alkoholnog pića ne može se nadomjestiti zaštitnim znakom (žigom), nazivom marke proizvoda ili izmišljenim nazivom.
+(8) Nazivi navedeni u kategorijama od 1. do 46. Priloga 2. ovoga Pravilnika mogu se uvrstiti u popis sastojaka za hranu pod uvjetom da je popis u skladu s Pravilnikom o označavanju, reklamiranju i prezentiranju hrane.

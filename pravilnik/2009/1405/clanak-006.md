@@ -1,0 +1,2 @@
+# Članak 6.
+Iznimno od članka 5. ovoga Pravilnika za jaka alkoholnih pića proizvedena na području Republike Hrvatske, a posebno za zemljopisne oznake registrirane u Prilogu 3. ovoga Pravilnika ili zemljopisne oznake koje će se registrirati, mogu se donijeti stroža pravila u pogledu proizvodnje, opisivanja, prezentiranja i označavanja jakih alkoholnih pića u odnosu na ona iz Priloga 2. ovoga Pravilnika.

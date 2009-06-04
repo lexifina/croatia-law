@@ -1,0 +1,6 @@
+# Članak 18.
+Odnos prema žigovima
+(1) Neće se registrirati žig koji sadržava ili se sastoji od zemljopisne oznake registrirane u Prilogu 3. ovoga Pravilnika u slučaju da registracija žiga odgovara jednoj od situacija navedenih u članku 16. ovoga Pravilnika, ako je zahtjev za registraciju žiga podnesen nakon datuma podnošenja zahtjeva za registraciju zemljopisne oznake.
+(2) Žigovi koji su registrirani u suprotnosti s odredbom stavka 1. ovoga članka, mogu se proglasiti ništavnim u postupcima propisanim posebnim propisima.
+(3) Žig čija uporaba odgovara jednoj od situacija navedenih u članku 16. ovoga Pravilnika, a koji je registriran na području Republike Hrvatske, u dobroj vjeri u skladu s Zakonom o žigu (»Narodne novine« br. 173/03, 76/07, 30/09)[4], prije datuma podnošenja zahtjeva za registraciju zemljopisne oznake u skladu s odredbama ovoga Pravilnika koje se odnose na zemljopisne oznake, može se nastaviti koristiti pod uvjetom da ne postoji nikakva osnova za njegovo proglašavanje ništavnim ili za njegov opoziv prema Zakonu o žigu.
+(4) Zemljopisne oznake ne mogu se registrirati ukoliko ta registracija dovodi potrošača u zabludu o pravom identitetu proizvoda, a u smislu ugleda te dužine vremena korištenja žiga na području Republike Hrvatske.
