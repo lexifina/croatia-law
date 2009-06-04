@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom određuju granični prijelazi za unošenje kućnih ljubimaca preko državne granice Republike Hrvatske i propisuje način obavljanja odgovarajućih pregleda pri unošenju navedenih kućnih ljubimaca.
+(2) Ovaj se Pravilnik ne primjenjuje na kućne ljubimce zaštićene Konvencijom o međunarodnoj trgovini ugroženim vrstama divlje faune i flore (engl. Convention on International Trade in Endangered Species of Wild Fauna and Flora) koja je potvrđena Zakonom o potvrđivanju Konvencije o međunarodnoj trgovini ugroženim vrstama divlje faune i flore (»Narodne novine - Međunarodni ugovori«, broj 12/99), (u daljnjem tekstu: CITES konvencija).
