@@ -1,0 +1,1 @@
+Na temelju članka 91. podstavka 7. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 71/00., 129/00., 9/01. - pročišćeni tekst, 117/01., 6/02. - pročišćeni tekst, 41/02., 91/03., 58/04., 39/08. i 86/08.), Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora je na 32. sjednici, održanoj 5. lipnja 2009., donio
