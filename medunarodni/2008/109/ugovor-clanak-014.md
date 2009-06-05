@@ -1,0 +1,4 @@
+# Članak 14.
+SIGURNOST PODATAKA
+1. Eurojust će osigurati zaštitu primljenih osobnih podataka protiv slučajnog ili nezakonitog uništavanja, slučajnog gubitka ili neovlaštenog otkrivanja, promjene ili pristupa ili bilo kakvog drugog neovlaštenog načina obrade u skladu sa člankom 22. Odluke o Eurojustu. Tehničke mjere i organizacija predviđeni Pravilnikom Eurojusta o zaštiti podataka i bilo kojim mjerodavnim dokumentom primjenjuju se na informacije koje daje Republika Hrvatska.
+2. Republika Hrvatska će osigurati zaštitu primljenih osobnih podataka od slučajnog ili nezakonitog uništavanja, slučajnog gubitka ili neovlaštenog otkrivanja, promjene ili pristupa ili bilo kojeg drugog neovlaštenog načina obrade u mjeri koja je jednaka načelima sadržanim u članku 22. Odluke o Eurojustu. Republika Hrvatska primjenjuje zaštitne tehničke mjere i organizaciju koja je barem jednaka onima koje primjenjuje Eurojust.
