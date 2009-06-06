@@ -1,0 +1,1 @@
+Na temelju članka 56. stavak (4) Zakona o Državnom inspektoratu (»Narodne novine«, br. 116/08. i 123/08.) uz prethodno pribavljeno mišljenje Ministarstva gospodarstva, rada i poduzetništva, glavni inspektor Državnog inspektorata donosi
