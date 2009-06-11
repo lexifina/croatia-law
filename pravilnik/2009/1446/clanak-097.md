@@ -1,0 +1,2 @@
+# Članak 97.
+Dom za psihički bolesne odrasle osobe ili druga pravna osoba koja pruža usluge skrbi psihički bolesnim odraslim osobama obvezni su izraditi individualni plan rehabilitacije, provesti implementaciju i evaluaciju plana u cilju postizanja veće razine socijalnog nivoa funkcioniranja korisnika, uspješnije adaptacije, usvajanja vještina samozbrinjavanja, aktivnog uključivanja korisnika i njihovih članova obitelji u rehabilitaciju, te razvijanje njihove odgovornosti.

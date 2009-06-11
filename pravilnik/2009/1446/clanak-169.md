@@ -1,0 +1,2 @@
+# Članak 169.
+Broj pomoćno-tehničkog osoblja u domu i drugoj pravnoj osobi, koji smještava više od 200 korisnika ili obavlja djelatnost na više međusobno udaljenih lokacija, te domu u kojem je na boravku više od 100 korisnika, može se povećavati razmjerno broju radnika propisanog u Prilogu I. Mjerila potrebnih radnika, točki 12. Mjerila potrebnih radnika na zajedničkim poslovima u domu i drugoj pravnoj osobi ovoga Pravilnika.

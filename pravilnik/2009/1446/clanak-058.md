@@ -1,0 +1,2 @@
+# Članak 58.
+Tjedno radno vrijeme stručnih radnika koji rade s korisnicima na smještaju je 30 sati neposrednog stručnog rada, a ostatak do punog radnog vremena na poslovima planiranja, programiranja i vrednovanje rada, rad u stručnim tijelima doma, suradnja sa sudovima za mladež i centrima za socijalnu skrb, savjetodavni rad s roditeljima i drugim stručnjacima, poslovi stručnog usavršavanja, vođenja evidencije i dokumentacije i dr.

@@ -1,0 +1,1 @@
+Na temelju članka 93. stavka 2., članka 105. stavka 3. i članka 108. stavka 2. Zakona o socijalnoj skrbi (»Narodne novine« broj 73/97, 27/01, 59/01, 82/01, 103/03, 44/06 i 79/07) i članka 22. Zakona o prostornom uređenju i gradnji (»Narodne novine« broj 76/07) ministar zdravstva i socijalne skrbi uz suglasnost ministrice zaštite okoliša, prostornog uređenja i graditeljstva donosi

@@ -1,0 +1,5 @@
+# Članak 62.
+Dom za djecu ovisnu o alkoholu, drogama i drugim opojnim sredstvima (u daljnjem tekstu: dom za djecu ovisnike) prema procjeni nadležne zdravstvene službe i utvrđenom programu psihosocijalne rehabilitacije, pruža skrb izvan vlastite obitelji korisnicima iz članka 61. ovoga Pravilnika na:
+- smještaju (privremeni), u okviru kojeg se osigurava pružanje usluga stanovanja, prehrane, brige o zdravlju i njege, zabrinjavanja, odgoja, psihosocijalne rehabilitacije, savjetodavnog rada s djecom i članovima njihovih obitelji, pomoć pri društvenoj reintegraciji rehabilitiranog djeteta, u trajanju najduljem do godinu dana.
+- boravku (cjelodnevni, poludnevni i povremeni), u okviru kojeg se korisnicima osigurava pružanje usluga prehrane, brige o zdravlju i njege, odgoja, psihosocijalne rehabilitacije i savjetodavnog rada s djecom i članovima njihovih obitelji, pomoć pri društvenoj reintegraciji rehabilitiranog djeteta u trajanju u pravilu do godinu dana.
+Dom za djecu ovisnike u okviru svoje djelatnosti može organizirati savjetovalište za rad s djecom iz članka 61. ovoga Pravilnika, koja nisu na smještaju ili boravku.

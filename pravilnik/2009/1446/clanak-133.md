@@ -1,0 +1,3 @@
+## Posebni uvjeti opreme
+# Članak 133.
+Dom ili druga pravna osoba koja skrbi o korisnicima iz članka 119. ovoga Pravilnika mora osigurati minimum opreme i pomagala za njegu korisnika kao što su: termofori, vrećice za led, zračne blazine, irigatori, posude za umivanje, posude za stavljanje obloga, veliki umivaonik za umivanje u krevetu, vaga, invalidska kolica, nosila, servisna kolica i stolići, toplomjeri, tlakomjeri, plahte, pokrivači, gumirane plahte, čaše, hladnjaci, posude za mokrenje, sušila za kosu, brijaći aparat, gumene pregače, sredstva za dezinfekciju, te drugu opremu neophodnu ovisno o vrsti i stupnju oštećenja.

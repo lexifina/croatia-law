@@ -1,0 +1,3 @@
+# Članak 46.
+Djelatnost posebne odgojne ustanove je pružanje skrbi izvan vlastite obitelji i obrazovanja korisnicima iz članka 45. ovoga Pravilnika u dobi od 14. do navršene 21. godine života na:
+- smještaju (stalni i privremeni - prihvat), u okviru kojeg se osigurava stalna briga i nadzor, pružanje usluga stanovanja, prehrane, brige o zdravlju i njege, odgoja, stručna pomoć kroz odgojne sadržaje i rad usmjeren na razvijanje osjećaja odgovornosti i radnih navika, socijalna i psihosocijalna podrška, stručna pomoć u učenju i radno osposobljavanje, provođenje programa slobodnih i radno-okupacijskih aktivnosti te organiziranje provođenja slobodnog vremena.

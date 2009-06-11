@@ -1,0 +1,9 @@
+## Vrste i način pružanja usluga
+# Članak 161.
+Pravne osobe iz članka 159. ovoga Pravilnika pruža korisnicima skrbi sljedeće usluge:
+- prehrane - osiguranje potrebnih namirnica, osiguranje prostora i tehničkih uređaja za pripremu hrane, sudjelovanje pri planiranju izrade jelovnika, nadzor nad preuzimanjem namirnica i pripremanjem namirnica za kuhanje, nadzor nad održavanjem čistoće kuhinje, nadzor nad sortiranjem i pranjem kuhinjskog suđa, pribora i alata potrebnog za pripremu hrane
+- brige o zdravlju - praćenje općeg zdravstvenog stanja (tjelesnog i psihičkog) korisnika, pratnja u zdravstvenu ustanovu i liječnički pregledi u ustanovi, organiziranje specijalističkih pregleda, nadzor nad pravilnim distribuiranjem i uzimanjem lijekova i sanitetskog materijala, vođenje propisane evidencije i dokumentacije
+- održavanja njege i osobne higijene - osiguranje sredstava za osobnu higijenu, nadzor nad pripremanjem rublja za pranje/glačanje, predavanjem i preuzimanjem rublja iz praonice, nadzor nad uređivanjem kreveta i promjenom posteljnog rublja, nadzor nad brigom o higijeni u prostorijama gdje žive i borave korisnici
+- psihosocijalne potpore - pružanje pomoći i podrške u razdoblju adaptacije, izrada sigurnosnog plana, tretman traume, psihološko osnaživanje korisnika, savjetovanje o tekućoj problematici, pomoć pri rješavanju kriznih situacija, pomoć u ostvarivanju različitih prava, pomoć pri upisu djece u školu, odnosno vrtić, uključivanje u programe doškolovanja ili prekvalifikacije po potrebi, suradnja sa nadležnim centrom za socijalnu skrb i ostalim ustanovama.
+Pravna osoba iz članka 159. ovoga Pravilnika obvezna je osigurati pružanje usluga pravne pomoći u rješavanju pravnog statusa i ostvarivanju prava korisnika i usluga prevođenja žrtvama trgovanja stranim državljanima
+Pravna osoba koja pruža usluge obvezna je surađivati s nadležnim centrom za socijalnu skrb glede daljnje skrbi o smještenom korisniku.

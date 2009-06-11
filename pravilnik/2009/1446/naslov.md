@@ -1,0 +1,1 @@
+Pravilnik o vrsti i djelatnosti doma socijalne skrbi, načinu pružanja skrbi izvan vlastite obitelji, uvjetima prostora, opreme i radnika doma socijalne skrbi, terapijske zajednice, vjerske zajednice, udruge i drugih pravnih osoba te centra za pomoć i njegu u kući

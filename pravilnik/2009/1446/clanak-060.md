@@ -1,0 +1,2 @@
+# Članak 60.
+Tjedno radno vrijeme stručnih radnika koji pružaju usluge cjelodnevnog i poludnevnog boravka u domu ili školama, je 25 sati neposrednog stručnog rada u boravku, 5 sati neposrednog stručnog rada s korisnicima na smještaju, a ostatak do punog radnog vremena na poslovima planiranja, programiranja i vrednovanje rada, rad u stručnim tijelima doma, suradnja sa sudovima za mladež i centrima za socijalnu skrb, savjetodavni rad s roditeljima i drugim stručnjacima, poslovi stručnog usavršavanja, vođenja evidencije i dokumentacije i dr.

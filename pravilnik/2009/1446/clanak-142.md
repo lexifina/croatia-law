@@ -1,0 +1,7 @@
+# Članak 142.
+Za poslove za koje je potrebno donošenje zajedničke odluke više stručnjaka, potrebno je formirati stručni tim između zaposlenih stručnih radnika.
+Procjenu trajanja i učestalosti stručne podrške pri uključivanju djeteta ili mlađe punoljetne osobe s tjelesnim ili mentalnim oštećenjem u programe redovnih predškolskih i školskih ustanova (integracija) te izbor vrste stručnjaka koji provodi psihosocijalnu rehabilitaciju obavlja stručni tim u kojem su stručni radnici sa završenim diplomskim sveučilišnim studijem edukacijske rehabilitacije, logopedije, psihologije i socijalnog rada.
+Procjenu trajanja i učestalosti povremenog boravka te izbor vrste stručnjaka koji provodi psihosocijalnu rehabilitaciju, obavlja stručni tim u kojem su stručni radnici sa završenim diplomskim sveučilišnim studijem edukacijske rehabilitacije, logopedije, psihologije i socijalnog rada.
+Procjenu trajanja i učestalosti pružanja stručne pomoći u obitelji (patronaže) te izbor vrste stručnjaka koji pruža stručnu pomoć u obitelji, obavlja stručni tim u kojem su stručni radnici sa završenim diplomskim sveučilišnim studijem edukacijske rehabilitacije, logopedije, psihologije i socijalnog rada.
+Postupak procjene iz stavka 2., 3. i 4. ovoga članka traje do 4 sata rada po korisniku.
+Za ostale poslove koji nisu obuhvaćeni stavkom 2., 3. i 4. ovoga članka, a za koje je potrebno donošenje zajedničke odluke više stručnjaka, u stručni tim mogu se uključiti i drugi stručni radnici.

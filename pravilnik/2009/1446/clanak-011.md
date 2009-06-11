@@ -1,0 +1,2 @@
+# Članak 11.
+Građevina doma i druge pravne osobe te centra za pomoć i njegu u kući mora ispunjavati minimalne zahtjeve prema posebnim propisima za radne i pomoćne prostorije glede sigurnosti i zaštite zdravlja radnika za sve radne i pomoćne prostorije i prostore u kojima se stalno ili povremeno obavlja rad, povremeno zadržavaju osobe na radu i u koje dolaze druge osobe po bilo kojem osnovu rada ili korištenja usluga.

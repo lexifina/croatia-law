@@ -1,0 +1,2 @@
+# Članak 179.
+Za postojeće građevine domova socijalne skrbi i drugih pravnih osoba koje ne ispunjavaju propisane uvjete pristupačnosti osobama s invaliditetom i smanjene pokretljivosti, ministar zdravstva i socijalne skrbi donijet će program uklanjanja građevinskih i drugih prepreka sa svrhom iskazivanja planiranih i utrošenih financijskih sredstava za njihovo uklanjanje, sukladno točki 2.6. podtočki 4. Nacionalne strategije izjednačavanja osoba s invaliditetom od 2007. do 2015. godine.

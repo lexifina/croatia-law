@@ -1,0 +1,3 @@
+# Članak 31.
+Mlađoj punoljetnoj osobi kojoj se do punoljetnosti osiguravala skrb izvan vlastite obitelji osigurava se smještaj i nakon završetka redovnog obrazovanja i to u okviru organiziranog stanovanja u dislociranoj stambenoj jedinici (u daljnjem tekstu: stambena zajednica) koja se ustrojava na način da omogućuje osposobljavanje korisnika za samostalan život uz dnevno praćenje i pomoć u njegovom osamostaljivanju.
+U jednu stambenu zajednicu može se smjestiti najviše četiri korisnika u dobi od 16 - 18 godina, uz suglasnost roditelja/skrbnika, temeljem rješenja nadležnog centra za socijalnu skrb, u skladu s procjenom njegove mentalne zrelosti, uz uvjet da je u istoj stambenoj jedinici smješten i punoljetni korisnik.

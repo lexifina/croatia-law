@@ -1,0 +1,3 @@
+# Članak 89.
+Dom za psihički bolesne odrasle osobe u okviru smještaja pruža sljedeće usluge: stanovanje i prehranu, brigu o zdravlju, njegu, održavanje osobne higijene i pomoć pri obavljanju svakodnevnih aktivnosti, usluge socijalnog rada, psihosocijalne rehabilitacije, radne terapije, usluge organiziranja slobodnog vremena, pratnje i organiziranog prijevoza, savjetodavnog rada i drugih programa u lokalnoj sredini u cilju poboljšanja kvalitete života psihički bolesnih odraslih osoba.
+Dom iz stavka 1. ovoga članka pruža usluge pomoći i njege iz članka 171., a može pružati i usluge psihosocijalne rehabilitacije kao stručnu pomoć u obitelji (patronaža) iz članka 95. ovoga Pravilnika i usluge boravka iz članka 90. ovoga Pravilnika.

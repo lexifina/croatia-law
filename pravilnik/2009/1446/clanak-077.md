@@ -1,0 +1,2 @@
+# Članak 77.
+Tjedno radno vrijeme stručnih radnika koji rade u neposrednom stručnom radu s ovisnicima na smještaju i boravku je 30 sati, a ostatak do punog radnog vremena na poslovima planiranja, programiranja i vrednovanje rada, rad u stručnim tijelima doma, suradnja sa sudovima i centrima za socijalnu skrb, savjetodavni rad s obitelji, suradnja s drugim stručnjacima, poslovi stručnog usavršavanja, vođenja evidencije i dokumentacije i dr.

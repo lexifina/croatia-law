@@ -1,0 +1,3 @@
+# Članak 6.
+Dom i druga pravna osoba, u suradnji s korisnikom i/ili zakonskim zastupnikom korisnika, izrađuje individualni plan rada, pruža korisniku sve potrebne usluge skrbi i podrške, uključuje korisnika u odgovarajuće programe rehabilitacije ovisno o njegovim sposobnostima i interesima, razvija i unapređuje mrežu socijalnih odnosa, osobito s obitelji, u cilju osposobljavanja korisnika za samostalni život izvan doma ili druge pravne osobe.
+Za korisnike kojima je pravo na skrb izvan vlastite obitelji priznato rješenjem centra za socijalnu skrb, u izradi individualnog plana rada sudjeluje osim osoba iz stavka 1. ovoga članka i centar za socijalnu skrb.

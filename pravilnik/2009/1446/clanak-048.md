@@ -1,0 +1,3 @@
+# Članak 48.
+Domovi iz članka 36. ovoga Pravilnika pružaju usluge privremenog smještaja (prihvata) djeci i mlađim punoljetnim osobama s poremećajima u ponašanju koje se zateknu u skitnji bez nadzora roditelja ili drugih odraslih osoba, do povratka u vlastitu ili udomiteljsku obitelj, dom socijalne skrbi ili dok im se ne osigura smještaj na drugi način, a najduže 48 sati, te djeci i mladeži koji su, u tijeku pripremnog postupka, rješenjem suca za mladež upućeni na privremeni smještaj u ustanovu, do okončanja pripremnog postupka pred sudom.
+Prihvatna stanica može se ustrojiti kao posebna organizacijska cjelina pri centru za socijalnu skrb.
