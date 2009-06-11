@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Ako ovlaštenom arhitektu prestane pravo na obavljanje strukovnih zadataka iz područja arhitekture, rješenjem o utvrđivanju prestanka prava na obavljanje arhitektonske djelatnosti Odbor za upis, na njegov zahtjev, određuje i preuzimatelja samostalnog ureda iz redova ovlaštenih arhitekata.
+(2) U slučaju iz stavka 1. ovog članka preuzimatelj je dužan odmah, a najkasnije u roku od 30 dana, obavijestiti stranke (investitora, naručitelja) o gubitku prava prijašnjeg izvršitelja (ovlašteni arhitekt) na obavljanje arhitektonske djelatnosti i staviti im na raspolaganje sve projekte i drugu dokumentaciju.
+(3) Preuzimatelj je ovlašten i dužan pružati strankama stručnu uslugu te savjesno obavljati strukovne zadatke koji se moraju obaviti, sve dok stranke ne otkažu vođenje određenog projektnog zadatka, odnosno stručne usluge ili dok ne nastupe pravne posljedice otkaza pružanja stručne usluge, odnosno raskida ugovora.

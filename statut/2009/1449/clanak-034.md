@@ -1,0 +1,4 @@
+# Članak 34.
+(1) Nakon dovršene likvidacije poslova samostalnog ureda bivšeg ovlaštenog arhitekta preuzimatelj predaje čisti prihod u gotovu novcu i preostale naplaćene tražbine s ispravama koje se odnose na potraživanja bivšem ovlaštenom arhitektu, odnosno njegovim nasljednicima.
+(2) Preuzimatelj samostalnog ureda ugovara s bivšim ovlaštenim arhitektom, odnosno s njegovim nasljednicima, uvjete likvidacije ureda. Ukoliko taj ugovor nije sklopljen u primjerenom roku, uvjete za izvršenje likvidacije samostalnog ureda utvrdit će predsjednik Komore. Protiv rješenja predsjednika Komore može se podnijeti žalba Upravnom odboru u roku petnaest dana. Žalba protiv rješenja kojim su utvrđeni uvjeti likvidacije samostalnog ureda ne odgađa njegovo izvršenje.
+(3) Preuzimatelj je dužan nakon završene likvidacije samostalnog ureda o tome podnijeti izvješće Komori.

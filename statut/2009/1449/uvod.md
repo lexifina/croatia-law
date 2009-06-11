@@ -1,0 +1,1 @@
+Na temelju članka 155. stavka 2. Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08), Odbor za konstituiranje Hrvatske komore arhitekata na sjednici održanoj 22. svibnja 2009. godine, donio je
