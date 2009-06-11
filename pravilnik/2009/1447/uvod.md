@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 5. i 28. stavka 2. Zakona o kemikalijama (»Narodne novine« br. 150/05 i 53/08) ministar zdravstva i socijalne skrbi uz suglasnost ministra gospodarstva, rada i poduzetništva donosi
