@@ -1,0 +1,1 @@
+Na temelju članka 48. stavka 3. točke 3. Zakona o morskom ribarstvo (»Narodne novine« br. 74/94, 57/96, 46/97 - pročišćeni tekst i 48/05) i članka 10. stavka 4. Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus) (»Narodne novine« 39/09 i 67/09) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
