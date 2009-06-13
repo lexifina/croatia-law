@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 28. mijenja se i glasi:
+»Ravnateljem muzeja može biti imenovana osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij i najmanje pet godina rada u muzejskoj struci, kao i osoba koja je stekla visoku stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 198/03., 105/04., 174/04. i 46/07.) te je istaknuti i priznati stručnjak na području kulture s najmanje deset godina rada u kulturi.«
