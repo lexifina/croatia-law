@@ -1,0 +1,10 @@
+## Program obveznika stavljanja biogoriva na tržište
+# Članak 14.
+(1) Program obveznika stavljanja biogoriva na tržište je planski dokument obveznika stavljanja biogoriva na tržište koji se donosi za vrijeme od tri godine u skladu s Nacionalnim akcijskim planom, (u daljnjem tekstu: program obveznika) koji sadrži sljedeće podatke:
+1. predviđene godišnje količine i vrste goriva koje namjerava staviti na tržište,
+2. predviđene godišnje količine biogoriva i vrste biogoriva koje namjerava staviti na tržište,
+3. prosječni godišnji udio biogoriva u pojedinoj vrsti goriva koje namjerava staviti na tržište,
+4. druge podatke o distribuciji biogoriva.
+(2) Obveznik stavljanja biogoriva na tržište je dužan do kraja listopada tekuće godine dostaviti Ministarstvu program obveznika koji će važiti tri godine. Program se dostavlja Ministarstvu u elektroničkom ili pisanom obliku na obrascu propisanom pravilnikom iz stavka 3. ovog članka.
+(3) Pravilnik o mjerama za poticanje korištenja biogoriva koji donosi ministar propisuje način izrade programa i plana obveznika stavljanja biogoriva na tržište, vođenja registra obveznika stavljanja biogoriva na tržište, vođenja evidencija o stavljanju biogoriva na tržište, izrade izvješća obveznika stavljanja biogoriva na tržište i odgovarajuće obrasce, vođenja registra korisnika goriva u javnom prijevozu i javnom sektoru, vođenja evidencija korisnika goriva u javnom prijevozu i javnom sektoru o broju i vrsti unajmljenih ili novokupljenih vozila ili brodova koji koriste biogoriva, izrade izvješća korisnika goriva u javnom prijevozu i javnom sektoru o korištenju biogoriva u prijevozu te odgovarajuće obrasce i druge uvjete o načinu primjene mjera za poticanje korištenja biogoriva.
+(4) Pravilnikom iz stavka 3. ovog članka utvrđuje se i način izračuna postotka udjela biogoriva na tržištu u jednoj godini uzimajući u obzir energijske vrijednosti svih dizelskih goriva i motornih benzina za potrebe prijevoza na tržištu i propisane prosječne energijske vrijednosti i gustoću goriva, a služi za određivanje nacionalnog cilja stavljanja na tržište biogoriva.

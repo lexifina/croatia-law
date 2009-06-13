@@ -1,0 +1,3 @@
+## Supsidijarnost
+# Članak 3.
+Na odnose koji nisu uređeni ovim Zakonom supsidijarno se primjenjuju posebni propisi kojima se uređuje: energetika, zaštita okoliša, zaštita zraka, zaštita od opasnih kemikalija, gospodarenje otpadom, Fond za zaštitu okoliša i energetsku učinkovitost, tehnički zahtjevi za proizvode i ocjena sukladnosti, prijevoz u cestovnom prometu i obalnom pomorskom prijevozu, poljoprivreda, državna potpora, državna potpora u poljoprivredi i ribarstvu, državni inspektorat, državna uprava, lokalna i područna (regionalna) samouprava, proračun, porezi i trošarine, opći upravni postupak i drugi propisi u vezi s proizvodnjom i korištenjem goriva za pogon motornih vozila i brodova.

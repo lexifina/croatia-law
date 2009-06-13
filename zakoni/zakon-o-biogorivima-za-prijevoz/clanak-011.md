@@ -1,0 +1,5 @@
+## Program županije i velikog grada
+# Članak 11.
+(1) Program poticanja proizvodnje i korištenja biogoriva u prijevozu županije i velikog grada je planski dokument koji se donosi za vrijeme od tri godine, u skladu s Nacionalnim programom i Nacionalnim akcijskim planom, kojim se utvrđuje politika poticanja povećanja proizvodnje i korištenja biogoriva u prijevozu na području županije i velikog grada (u daljnjem tekstu: program županije i velikog grada).
+(2) Program županije i velikog grada sadrži prikaz i ocjenu stanja te potrebe tržišta u potrošnji goriva za prijevoz na području županije i velikog grada, usporedne analize, dugoročne ciljeve, mjere za poticanje povećanja proizvodnje i korištenja biogoriva u prijevozu te druge potrebne podatke.
+(3) Program županije i velikog grada predlaže izvršno tijelo, a donosi predstavničko tijelo županije i velikog grada. Županija i veliki grad su dužni do kraja rujna tekuće godine dostaviti Program županije i velikog grada Ministarstvu koji će važiti tri godine.

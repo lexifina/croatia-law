@@ -1,0 +1,6 @@
+## Izvješće obveznika
+# Članak 26.
+(1) Obveznik stavljanja biogoriva na tržište izrađuje Izvješće o provedbi godišnjeg plana obveznika koje sadrži podatke i analizu ispunjenja obveze stavljanja biogoriva na tržište u prethodnoj godini i buduće mjere. Ukoliko je obveznik stavio na tržište manju količinu biogoriva u odnosu na količinu za koju je obvezan, dužan je u godišnjem izvješću naznačiti da će tu nedostajuću količinu staviti na tržište u tekućoj godini (u daljnjem tekstu: Izvješće obveznika).
+(2) Izvješće iz stavka 1. ovoga članka se podnosi Ministarstvu do kraja veljače tekuće godine za prethodnu godinu. Izvješće se dostavlja Ministarstvu u elektroničkom i pisanom obliku na propisanom obrascu.
+(3) Ukoliko je obveza stavljanja biogoriva na tržište prenesena na treću osobu, obveznik stavljanja biogoriva na tržište dužan je u izvješću iz stavka 1. ovoga članka naznačiti količinu koju je treća osoba stavila na tržište u ispunjenju ugovornih obveza prema obvezniku stavljanja biogoriva na tržište.
+(4) Sastavni dio izvješća iz stavka 1. ovoga članka je izvješće o provedbi monitoringa količine biogoriva za prethodnu godinu koje je izradila ovlaštena osoba za monitoring količine biogoriva.

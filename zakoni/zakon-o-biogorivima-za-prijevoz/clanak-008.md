@@ -1,0 +1,5 @@
+## Nacionalni cilj
+# Članak 8.
+(1) Nacionalni cilj stavljanja na tržište biogoriva je minimalni planirani cilj stavljanja na tržište biogoriva za potrebe prijevoza u Republici Hrvatskoj, a određuje se kao postotak udjela biogoriva na tržištu u jednoj godini na temelju izračuna energijske vrijednosti svih dizelskih goriva i motornih benzina za potrebe prijevoza na tržištu uzimajući u obzir propisane prosječne energijske vrijednosti i gustoću goriva.
+(2) Prosječne energijske vrijednosti i gustoću goriva propisuje ministar pravilnikom.
+(3) Za izračun i utvrđivanje ispunjenja nacionalnog cilja ne uzima se u obzir količina dizelskog goriva ili motornog benzina koju pojedini distributer stavlja na tržište radi punjenja obveznih zaliha nafte i naftnih derivata, u skladu s posebnim zakonom koji uređuje tržište nafte i naftnih derivata niti ona količina dizelskog goriva ili motornog benzina koju stavlja na tržište za obrambene potrebe Hrvatske vojske ili za namjene u skladu s međunarodnim obvezama Republike Hrvatske.

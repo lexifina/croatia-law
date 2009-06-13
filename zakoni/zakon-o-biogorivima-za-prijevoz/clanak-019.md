@@ -1,0 +1,11 @@
+## Poticanje proizvodnje biogoriva
+# Članak 19.
+(1) Proizvodnja biogoriva potiče se isplatom novčanih sredstava korisniku poticaja po količini proizvedenog, prodanog i isporučenog biogoriva na tržište Republike Hrvatske.
+(2) Poticanje proizvodnje biogoriva provodi se u skladu s nacionalnim programom, nacionalnim akcijskim planom, uredbom o poticanju proizvodnje biogoriva i pravilnikom o uvjetima i postupku za ostvarivanje prava na poticaj za proizvodnju biogoriva.
+(3) Novčani poticaji za proizvodnju biogoriva određuju se na temelju razlike između domaćeg proizvodnog troška biogoriva kada se stavlja na tržište i uvozne cijene biogoriva kod puštanja u slobodni promet.
+(4) Domaći proizvodni trošak biogoriva izračunava se na temelju cijene sirovine na tržištu Republike Hrvatske, cijene pretvorbe te sirovine u biogorivo, cijene prijevoza, skladištenja i drugih predviđenih troškova. Uvozna cijena biogoriva računa se na temelju cijena na međunarodnom tržištu te cijena prijevoza tog biogoriva.
+(5) Uredbom o poticanju proizvodnje biogoriva detaljno se propisuju ostali elementi i način za određivanje visine novčanih poticaja za proizvodnju biogoriva iz stavka 3. i 4. ovoga članka.
+(6) Uredbu iz stavka 5. ovoga članka donosi Vlada na prijedlog Ministarstva, u suradnji s ministarstvom nadležnim za zaštitu okoliša, ministarstvom nadležnim za poljoprivredu, ministarstvom nadležnim za šumarstvo, ministarstvom nadležnim za promet i ministarstvom nadležnim za financije.
+(7) Visinu novčanih poticaja za proizvodnju biogoriva propisuje Vlada odlukom na prijedlog Ministarstva.
+(8) Pravilnikom o uvjetima i postupku za ostvarivanje prava na poticaj za proizvodnju biogoriva propisuju se ostali uvjeti i postupak za ostvarivanje prava na novčani poticaj, uključujući i dokumentaciju za dokazivanje ispunjavanja uvjeta za ostvarivanje prava na poticaj te odgovarajuće obrasce za provođenje postupka, uvjete i postupak vraćanja novčanih sredstava poticaja kada je to propisano ovim Zakonom.
+(9) Pravilnik iz stavka 8. ovoga članka donosi ministar, u suradnji s ministrom nadležnim za zaštitu okoliša, ministrom nadležnim za poljoprivredu, ministrom nadležnim za šumarstvo, ministrom nadležnim za promet i ministrom nadležnim za financije.
