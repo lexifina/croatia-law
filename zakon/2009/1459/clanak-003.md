@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 54. stavak 2. mijenja se i glasi:
+»Za ravnatelja arhiva može se imenovati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, kao i osoba koja je stekla visoku stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 198/03., 105/04., 174/04. i 46/07.), te položen stručni ispit iz arhivske struke, objavljene vrijedne stručne ili znanstvene radove i odlikuje se stručnim, radnim i organizacijskim sposobnostima.«
