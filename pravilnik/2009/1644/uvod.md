@@ -1,0 +1,1 @@
+Na temelju članka 38., stavka 4. Zakona o stočarstvu (»Narodne novine« br. 70/97, 36/98, 151/03 i 132/06) te članka 94., stavka 2. Zakona o hrani (»Narodne novine« br. 46/07), ministar poljoprivrede, ribarstva i ruralnog razvoja, donosi
