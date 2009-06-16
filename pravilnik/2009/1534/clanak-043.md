@@ -1,0 +1,5 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 43.
+(1) Prodajni objekt, oprema i sredstva koji na dan stupanja na snagu ovog Pravilnika za obavljanje trgovačke djelatnosti ispunjavaju uvjete propisane Pravilnikom o minimalnim tehničkim uvjetima za poslovne prostorije u kojima se obavlja trgovina i uvjetima za prodaju robe izvan prostorija (»Narodne novine«, broj 37/98., 73/02., 153/02. i 12/06), nastavljaju s radom prema uvjetima iz toga Pravilnika.
+(2) Iznimno od stavka 1. ovog članka ako su se stekli uvjeti koji utječu na prodajni objekt, opremu i sredstva potrebno je uskladiti uvjete za obavljanje trgovine prema odredbama ovog Pravilnika i Pravilnika o klasifikaciji prodavaonica i drugih oblika trgovine na malo u roku od šest (6) mjeseci od dana stupanja na snagu ovog Pravilnika.
+(3) Danom stupanja na snagu ovog Pravilnika u skladu sa odredbom stavka 2. ovog članka, Rješenja o udovoljavanju minimalnih tehničkih, općih sanitarnih, zdravstvenih i drugih uvjeta sadržavat će podatke iz članka 42. ovog Pravilnika u svrhu statističkog praćenja i izrade podataka u trgovini na malo.

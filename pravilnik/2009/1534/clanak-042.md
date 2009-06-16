@@ -1,0 +1,2 @@
+# Članak 42.
+(1) Mjesno nadležni ured državne uprave u županiji, odnosno gradski ured Grada Zagreba nadležan za gospodarstvo u postupku donošenja rješenja da prodajni objekt, oprema i sredstva ispunjavaju minimalne uvjete, temeljem Pravilnika o klasifikaciji prodavaonica i drugih oblika trgovine na malo i Nacionalne klasifikacije djelatnosti u dispozitiv će navesti sljedeće podatke: adresa prodajnog objekta, oblik prodajnog objekta, površinu prodajnog objekta, vrstu djelatnosti sukladno NKD-u.

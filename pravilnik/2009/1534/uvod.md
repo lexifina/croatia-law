@@ -1,0 +1,1 @@
+Na temelju članka 12. stavak 2. i 3. Zakona o trgovini (»Narodne novine«, br. 87/08. i 116/08.) ministar gospodarstva, rada i poduzetništva uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva, ministra poljoprivrede, ribarstva i ruralnog razvoja i ministra zdravstva i socijalne skrbi donio je

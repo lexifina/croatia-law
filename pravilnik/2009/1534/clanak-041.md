@@ -1,0 +1,2 @@
+# Članak 41.
+Stranke iz članka 40. uz zahtjev prilažu sljedeće dokumente: zahtjev, upravnu pristojbu, rješenje Trgovačkog suda o upisu u sudski registar (za pravne osobe) ili rješenje o upisu u Obrtni registar (za fizičke osobe) ili dokaz u Upisnik sukladno posebnim propisima, dokaz o pravu korištenja poslovnog prostora (Ugovor o zakupu prostora ili Vlasnički list); dokaz o ispunjavanju uvjeta poslovnog prostora temeljem Zakona o prostornom uređenju i gradnji, rješenje Gradskog zavoda za zaštitu spomenika kulture i prirode, ostale isprave sukladno posebnim propisima.
