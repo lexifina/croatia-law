@@ -1,0 +1,3 @@
+# Članak 12.
+Glavni projekt prema kojem je u svrhu građenja projektirane građevine potrebno ukloniti postojeću građevinu čijim se uklanjanjem može utjecati na stabilnost okolnog i drugog zemljišta i/ili ispunjavanje bitnih zahtjeva okolnih i drugih građevina i/ili ugroziti javni interes mora sadržavati i projekt uklanjanja građevine te potvrde javnopravnih tijela određene posebnim propisima ako se uklanjanjem postojeće građevine može ugroziti javni interes.
+Na izdavanje potvrda iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe ovoga Zakona kojima je uređeno utvrđivanje posebnih uvjeta.
