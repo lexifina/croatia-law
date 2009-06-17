@@ -1,0 +1,15 @@
+## 3. UPRAVA ZA MEĐUNARODNU KULTURNU SURADNJU
+# Članak 5.
+Uprava za međunarodnu kulturnu suradnju obavlja upravne i stručne poslove međunarodne kulturne suradnje, pripreme međunarodnih sporazuma, programa i protokola o kulturnoj suradnji, te osigurava njihovo izvršavanje, izrade stručnih analiza i informacija o međunarodnoj kulturnoj suradnji, skrbi o ostvarivanju kulturnih veza s Europskom unijom, UNESCO-om, Vijećem Europe i drugim Vladinim i nevladinim međunarodnim organizacijama, valorizira ostvarenu suradnju, pomaže programe kulturne suradnje s pripadnicima hrvatskog naroda u drugim zemljama i potiče programe zadovoljavanja njihovih kulturnih potreba, obavlja i druge poslove po nalogu i naputku ministra, odnosno čelnika/ce Uprave.
+U Upravi se ustrojavaju:
+3.1. Odjel za međunarodnu kulturnu suradnju
+U Odjelu za međunarodnu kulturnu suradnju obavljaju se poslovi vezani uz bilateralnu kulturnu suradnju s europskim državama, poslovi vezani uz suradnju na multilateralnom planu (Vijeće Europe, Europska unija), poslovi vezani uz suradnju s europskim i izvaneuropskim međunarodnim organizacijama i asocijacijama, kao i drugi poslovi sukladno nalogu i naputku čelnika/ce Odjela, odnosno čelnika/ce Uprave.
+U Odjelu se ustrojavaju:
+3.1.1. Odsjek za bilateralnu kulturnu suradnju
+U Odsjeku se obavljaju poslovi vezani uz bilateralnu kulturnu suradnju s europskim i izvaneuropskim državama, te drugi poslovi sukladno nalogu i naputku čelnika/ce Odjela, odnosno čelnika/ce Uprave.
+3.1.2. Odsjek za multilateralnu kulturnu suradnju
+U Odsjeku se obavljaju poslovi vezani uz multilateralnu kulturnu suradnju, poslovi suradnje s međunarodnim organizacijama i asocijacijama, te drugi poslovi sukladno nalogu i naputku čelnika/ce Odjela, odnosno čelnika/ce Uprave.
+3.2. Odjel za UNESCO
+U Odjelu za UNESCO obavljaju se poslovi u vezi s usklađivanjem djelatnosti Hrvatskog povjerenstva za UNESCO i Stalne misije Republike Hrvatske pri UNESCO-u, koordinacijom rada i sudjelovanjem članova Povjerenstva u aktivnostima UNESCO-a na međunarodnoj razini, koordinacijom aktivnosti između Povjerenstva, Vlade Republike Hrvatske, nadležnih ministarstava i odgovarajućih institucija sa Stalnom misijom pri UNESCO-u, Tajništvom UNESCO-a i nacionalnih povjerenstava država članica, kao i drugi poslovi sukladno nalogu i naputku čelnika/ce Odjela, odnosno čelnika/ce Uprave.
+3.3. Odjel za kulturno-kontaktnu točku
+Odjel za kulturno-kontaktnu točku obavlja poslove promicanja programa i sudjelovanja hrvatskih predstavnika u programu Kultura, održava redovite kontakte s različitim institucijama, brine za komplementarnost između aktivnosti programa Kultura i nacionalnih mjera potpore, širi informacije o programima Europske zajednice, ažurira baze podataka o kulturnim korisnicima određene zemlje, objavljuje pozive za prijavu programa, pruža tehničku pomoć za prezentaciju prijavnice za program Kultura, iznosi iskustva kao pomoć Programu poticanja budućih sudionika/ca na sudjelovanje, približava rezultate građanima, te obavlja ostale poslove sukladno nalogu i naputku čelnika/ce Odjela, odnosno čelnika/ce Uprave.
