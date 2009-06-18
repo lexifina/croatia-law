@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 5. Zakona o sredstvima za zaštitu bilja (»Narodne novine«, br. 70/05), ministar poljoprivrede, ribarstva i ruralnog razvoja, uz suglasnost ministra zdravstva i socijalne skrbi i ministra zaštite okoliša, prostornog uređenja i graditeljstva, donosi
