@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Propisano sudjelovanje u troškovima zdravstvene zaštite iz članka 19. ovog Pravilnika naplaćuju neposredno osiguranoj osobi ugovorni subjekti Zavoda.
+(2) Ugovorni subjekti Zavoda obvezni su osiguranoj osobi prilikom naplate sudjelovanja iz stavka 1. ovog članka izdati potvrdu čiji je oblik i sadržaj propisan općim aktima Zavoda o ugovaranju zdravstvene zaštite sa zdravstvenim ustanovama i zdravstvenim radnicima privatne prakse.
+(3) Sudjelovanje u troškovima zdravstvene zaštite za liječenje u inozemstvu iz članka 16. stavka 3. točke 6. Zakona osigurana osoba plaća neposredno zdravstvenoj ustanovi u inozemstvu ili nadležnom područnom uredu Zavoda u skladu s općim aktom Zavoda.
+(4) Osiguranoj osobi koja je osobno u cijelosti snosila troškove za zdravstvenu zaštitu korištenu u inozemstvu, te u postupku pokrenutom prema njezinom zahtjevu ostvarila pravo na povrat tih troškova u skladu s općim aktom Zavoda, Zavod će na osnovi rješenja izvršiti povrat sredstava umanjen za iznos sudjelovanja utvrđenog člankom 16. stavkom 3. Zakona.

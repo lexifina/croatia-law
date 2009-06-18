@@ -1,0 +1,8 @@
+# Članak 84.
+(1) Osnovica za naknadu plaće utvrđena prema člancima 83. i 85. ovog Pravilnika, konačna je i ne može se mijenjati.
+(2) Iznimno od stavka 1. ovog članka kad je osnovica za naknadu utvrđena na osnovi pogrješnih ili nepotpunih podataka, osiguranik - korisnik naknade plaće ima pravo tražiti ponovno utvrđivanje osnovice za naknadu plaće i pripadajući iznos naknade plaće od tako utvrđene osnovice za naknadu plaće.
+(3) Zavod ima pravo kontrole točnosti iskazanih podataka o isplaćenim plaćama na tiskanici potvrde o plaćama na osnovi kojih se utvrđuje osnovica za naknadu plaće, ako se posumnja u njihovu valjanost.
+(4) Ako se u postupku kontrole utvrdi da plaće iskazane na potvrdi o plaći nisu isplaćene osiguraniku, osnovica za naknadu plaće utvrdit će se u skladu s člankom 83. stavkom 3. ovog Pravilnika.
+(5) Ako se u postupku kontrole utvrdi da je u šestomjesečnom razdoblju koje prethodi mjesecu u kojem je nastupio osigurani slučaj na osnovi kojeg se stječe pravo na naknadu plaće osiguraniku neprimjereno uvećana plaća u odnosu na ranije ostvarivane plaće, a radi ostvarivanja prava na viši iznos naknade plaće na teret sredstava obveznog zdravstvenog osiguranja, odnosno državnog proračuna osnovica za naknadu plaće utvrdit će se sporazumno s poslodavcem koji je izdao potvrdu o plaći, uzimajući u obzir do tada isplaćivane plaće osiguraniku i ostalim radnicima poslodavca za istovrsne poslove i zadatke.
+(6) Ako se osnovica za naknadu ne može utvrditi u skladu sa stavkom 5. ovog članka osnovica će se utvrditi u skladu s člankom 83. stavkom 3. ovog Pravilnika.
+(7) Kontrola iz stavka 3. ovog članka provodi se u skladu s člankom 61. Zakona.

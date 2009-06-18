@@ -1,0 +1,4 @@
+# Članak 66.
+(1) Liječničko povjerenstvo područnog ureda Zavoda nalaz, mišljenje i ocjenu donosi na osnovi dokumentacije iz članka 65. stavka 4. ovog Pravilnika i pregleda osiguranika.
+(2) Nalazom, mišljenjem i ocjenom liječničko povjerenstvo iz stavka 1. ovog članka utvrđuje početak, trajanje, odnosno prestanak privremene nesposobnosti osiguranika za obavljanje ugovorenih poslova, određujući pri tome da li je nastala bolest od utjecaja na obavljanje ugovorenih poslova s obzirom na vrstu posla, te rok njegovog izvršenja.
+(3) Osiguraniku koji nije podnio zahtjev u roku iz članka 65. stavka 3. ovog Pravilnika, odnosno koji se nije javio liječničkom povjerenstvu u roku iz članka 65. stavka 4. ovog Pravilnika, liječničko povjerenstvo može utvrditi početak privremene nesposobnosti najviše za 6 dana koji prethode danu donošenja nalaza, mišljenja i ocjene iz stavka 1. ovog članka.

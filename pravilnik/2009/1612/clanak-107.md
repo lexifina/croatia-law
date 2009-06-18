@@ -1,0 +1,3 @@
+# Članak 107.
+(1) Pravo na novčane naknade, kao i druga prava iz obveznog zdravstvenog osiguranja osigurana osoba, u pravilu, ostvaruje pri nadležnom područnom uredu, odnosno ispostavi područnog ureda Zavoda prema mjestu prebivališta, odnosno boravka osigurane osobe ako Zakonom, ovim Pravilnikom ili drugim općim aktom Zavoda nije drukčije propisano.
+(2) Područni ured, odnosno ispostava područnog ureda Zavoda obvezna je zaprimiti svaki pisani zahtjev osigurane osobe za ostvarivanje prava iz obveznog zdravstvenog osiguranja, te ga u slučaju nemogućnosti rješavanja po službenoj dužnosti proslijediti nadležnom područnom uredu, odnosno ispostavi područnog ureda Zavoda iz stavka 1. ovog članka.

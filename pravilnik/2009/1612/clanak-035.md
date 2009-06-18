@@ -1,0 +1,3 @@
+# Članak 35.
+Ako je na osnovi provedenog pregleda doktor specijalist ugovorne bolničke zdravstvene ustanove utvrdio potrebu za daljnjom specijalističko - konzilijarnom obradom u svezi s uputnom dijagnozom, osigurana osoba ima pravo specijalističko - konzilijarnu zdravstvenu zaštitu, koja se može provesti u toj ugovornoj bolničkoj ustanovi, ostvariti na osnovi internih uputnica koje izdaje doktor specijalist koji je utvrdio potrebu za daljnjom obradom.
+Osigurana osoba kojoj se u roku od 60 dana od dana izdavanja internih uputnica ne osigura zdravstvena zaštita koju je indicirao doktor specijalist iz stavka 1. ovog članka, ima pravo na izdavanje uputnice iz članka 34. stavka 1. ovog Pravilnika.

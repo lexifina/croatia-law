@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Osigurana osoba primarnu zdravstvenu zaštitu ostvaruje kod izabranog doktora primarne zdravstvene zaštite, obiteljske (opće) medicine, ginekologa, stomatologa i pedijatra kojeg bira na način propisan općim aktom Zavoda.
+(2) Iznimno od stavka 1. ovog članka osigurana osoba koja privremeno boravi izvan mjesta prebivališta, odnosno boravka (npr. službeni put, godišnji odmor) ima pravo u slučaju npr. traume, akutne upalne i zarazne bolesti, akutnog poremećaja koji zahtijeva terapijsko zbrinjavanje i sl. koristiti primarnu zdravstvenu zaštitu, osim utvrđivanja prava na bolovanje, kod bilo kojeg ugovornog doktora primarne zdravstvene zaštite u mjestu privremenog boravka, u istom opsegu kao i kod izabranog doktora primarne zdravstvene zaštite.

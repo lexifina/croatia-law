@@ -1,0 +1,4 @@
+# Članak 74.
+(1) Pod troškovima prijevoza iz članka 72. ovog Pravilnika podrazumijevaju se troškovi prijevoza javnim prijevoznim sredstvima gradskog, međugradskog, odnosno međunarodnog prometa po najnižoj cijeni i prema najkraćoj relaciji prema službenom daljinomjeru javnog prijevoznika.
+(2) Iznimno od stavka 1. ovoga članka osiguranoj osobi se zbog njezinog zdravstvenog stanja prema prethodnom odobrenju nadležnog liječničkog povjerenstva Zavoda, a na prijedlog izabranog doktora može odobriti korištenje skupljeg javnog prijevoznog sredstva (spavaća kola u vlaku, zrakoplov).
+(3) Osigurana osoba kojoj je na osnovi ocjene liječničkog povjerenstva iz stavka 2. ovog članka odobreno skuplje prijevozno sredstvo ima pravo na naknadu troškova u visini cijene putne karte odobrenog prijevoznog sredstva.

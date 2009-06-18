@@ -1,0 +1,2 @@
+# Članak 115.
+Danom primjene ovog Pravilnika prestaje vrijediti Pravilnik o pravima, uvjetima i načinu ostvarivanja prava na osnovno zdravstveno osiguranje (»Narodne novine« broj 120/06., 136/06., 56/07., 80/07., 96/07. i 45/08.) osim tiskanica iz članaka 34., 52., 108., 120. i 125. koje se uz tiskanice iz članaka 33., 50., 91., 100., 101. i 104. ovog Pravilnika primjenjuju do zaključno 31. prosinca 2009. godine.

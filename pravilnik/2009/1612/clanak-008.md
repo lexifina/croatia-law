@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ako je stjecanje statusa osigurane osobe - člana obitelji osiguranika uvjetovano nesposobnošću za samostalan život i rad i uzdržavanjem od strane osiguranika, osobe moraju ispunjavati uvjete propisane člankom 9. i 10. ovog Pravilnika.
+(2) Osim uvjeta propisanih u stavku 1. ovog članka za stjecanje statusa osigurane osobe - člana obitelji osiguranika, osobe iz članka 8. stavka 1. točke 3. i 4. Zakona (roditelji, unuci, braća, sestre, djed i baka) moraju živjeti u zajedničkom kućanstvu s osiguranikom što dokazuju osobnom iskaznicom, odnosno potvrdom nadležne policijske uprave o prebivalištu, odnosno boravku na istoj adresi.

@@ -1,0 +1,2 @@
+# Članak 88.
+Iznimno od članka 87. ovog Pravilnika u slučajevima kad se prema odredbi članka 41. stavka 5. Zakona i članka 83. stavka 3., odnosno članka 85. stavka 3. ovog Pravilnika za utvrđivanje naknade plaće kao osnovica za naknadu plaće uzima najniža osnovica osiguranja, naknada plaće obračunava se od te najniže osnovice osiguranja neovisno da li je u posljednjih šest mjeseci prije mjeseca u kojem je nastupio slučaj na osnovi kojeg se stječe pravo na naknadu osiguranik ostvario primitke od kojih se, prema propisima o porezu na dohodak, utvrđuje drugi dohodak.
