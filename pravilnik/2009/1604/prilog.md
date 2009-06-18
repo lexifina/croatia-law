@@ -1,0 +1,1 @@
+[1]1 Pravilnikom se preuzimaju odredbe Direktiva komisije 2006/130/EZ od 11. prosinca 2006. o provedbi Direktive 2001/82/EZ Europskoga parlamenta i Vijeća u vezi s određivanjem kriterija za izuzimanje određenih veterinarskih lijekova za životinje od kojih se proizvodi hrana od obveze izdavanja na veterinarski recept,

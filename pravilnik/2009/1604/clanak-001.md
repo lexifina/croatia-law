@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom određuju kriteriji na temelju kojih nadležno tijelo, u skladu s člankom 63. stavkom 1. točkama 1.2. i 1.3. Pravilnika o veterinarsko-medicinskim proizvodima (»Narodne novine«, broj 30/09), odobrava izuzeće od izdavanja na veterinarski recept veterinarsko-medicinskih proizvoda (u daljnjem tekstu: VMP) koji se primjenjuju na životinjama namijenjenim za prehranu ljudi.
