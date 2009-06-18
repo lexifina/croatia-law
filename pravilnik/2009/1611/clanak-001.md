@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom se propisuje sadržaj i način vođenja Upisnika obavljanja geodetske djelatnosti (u daljnjem tekstu: Upisnik) za koju je pravna osoba registrirana za obavljanje stručnih geodetskih poslova, ovlašteni inženjer geodezije koji stručne geodetske poslove obavlja samostalno u uredu ovlaštenog inženjera geodezije ili u zajedničkom geodetskom uredu (u daljnjem tekstu: ovlaštena osoba), kao i fizička osoba iz članka 93. Zakona o obavljanju geodetske djelatnosti (u daljnjem tekstu: Zakon), dobila suglasnost Državne geodetske uprave.
