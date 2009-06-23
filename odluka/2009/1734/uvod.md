@@ -1,0 +1,1 @@
+Na temelju članka 37. stavak 2. Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine« broj 60/08) ministar mora, prometa i infrastrukture donosi
