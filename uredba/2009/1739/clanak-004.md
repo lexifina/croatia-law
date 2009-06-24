@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 8. stavak 1. mijenja se i glasi:
+»Zakupnina se uplaćuje na žiro-račun trgovačkog društva Hrvatske šume d.o.o., Zagreb. Zakupnina u iznosu do 1.000,00 kuna se plaća jednokratno, prije sklapanja ugovora o zakupu šumskog zemljišta (u daljnjem tekstu: Ugovor o zakupu). Ukoliko obračun iznosi više od 1.000,00 kuna, zakupoprimac mora platiti 1.000,00 kuna jednokratno prije sklapanja Ugovora o zakupu, a preostali iznos u najviše 4 jednogodišnje rate, s time da iznos pojedine rate ne može biti manji od 1.000,00 kuna. Zakupnina se obračunava na temelju posebnog propisa kojim se uređuje naknada za prenesena ili ograničena prava na šumi ili šumskom zemljištu.«.

@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003 i 30/2004) i članka 58. stavka 2. Zakona o šumama (»Narodne novine«, br. 140/2005, 82/2006 i 129/2008), Vlada Republike Hrvatske je na sjednici održanoj 19. lipnja 2009. godine donijela
