@@ -1,0 +1,9 @@
+## DIO OSMI NESREĆE I OZBILJNE NEZGODE ZRAKOPLOVA, IZVJEŠTAVANJE O DOGAĐAJIMA KOJI UGROŽAVAJU SIGURNOST, POTRAGA I SPAŠAVANJE ZRAKOPLOVA
+## Glava 1. Istraživanje nesreća i ozbiljnih nezgoda zrakoplova
+## Cilj i svrha istraživanja
+# Članak 106.
+(1) Svaka osoba koja sazna za nesreću i ozbiljnu nezgodu zrakoplova obvezna je o tome odmah izvijestiti ministarstvo nadležno za unutarnje poslove ili nadležnu kontrolu zračnog prometa na najbližem aerodromu, ili središnje tijelo državne uprave nadležno za zaštitu i spašavanje putem pozivnog broja 112 za hitne službe ili Agenciju za istraživanje.
+(2) Ako inozemni zrakoplov pretrpi nesreću ili ozbiljnu nezgodu u zračnom prostoru ili na teritoriju Republike Hrvatske, Ministarstvo će o tome izvijestiti ministarstva nadležna za unutarnje i vanjske poslove te nadležna tijela države u kojoj je zrakoplov registriran, države organizacije koja je projektirala zrakoplov, države operatora zrakoplova i države proizvođača zrakoplova te i nadležna tijela drugih država ako je u zrakoplovu koji je pretrpio nesreću ili ozbiljnu nezgodu bilo osoba iz tih država.
+(3) Ako hrvatski civilni zrakoplov pretrpi nesreću na teritoriju druge države, ili ako hrvatski civilni zrakoplov ili zrakoplov kojim operira osoba iz članka 48. ovog Zakona pretrpi ozbiljnu nezgodu, istraživanje te nesreće ili ozbiljne nezgode provest će se prema odredbama ovog Zakona ako ta država ne provede istraživanje.
+(4) Ako je u nesreći ili ozbiljnoj nezgodi sudjelovao i vojni zrakoplov, povjerenstvo za istraživanje imenuju ministar i ministar nadležan za poslove obrane, a ako je u nesreći ili ozbiljnoj nezgodi sudjelovao vojni ili inozemni vojni zrakoplov, nesreću ili ozbiljnu nezgodu istražuje povjerenstvo koje imenuje ministar nadležan za poslove obrane.
+(5) Istraživanje nesreće i ozbiljne nezgode i izvješćivanje provodi se u skladu s propisom donesenim na temelju ovog Zakona i u skladu s odgovarajućim EU propisima.

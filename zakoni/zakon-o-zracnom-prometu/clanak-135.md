@@ -1,0 +1,5 @@
+## Ovlasti u obavljanju nadzora sigurnosti
+# Članak 135.
+(1) U obavljanju nadzora sigurnosti, zrakoplovni inspektor je ovlašten obaviti pregled zrakoplova, zrakoplovne komponente, aerodroma i objekata, sredstava i opreme za sigurnost zračnog prometa, isprava, knjiga i druge dokumentacije, koji mu omogućuje da utvrdi obavljaju li se stručni poslovi nadziranih fizičkih i pravnih osoba na propisan način.
+(2) Ako po nalogu obavlja nadzor sigurnosti nad radom posade zrakoplova i ispravnošću zrakoplova u letu, zrakoplovni inspektor je ovlašten koristiti se slobodnim mjestom u pilotskoj kabini zrakoplova.
+(3) Pri obavljanju nadzora sigurnosti, zrakoplovni inspektor ima pravo pregledati dozvole zrakoplovnog, pomoćnog zrakoplovnog i drugog stručnog osoblja, kontrolirati primjenu propisa o radu i načinu obavljanja stručnih poslova, zahtijevati izvanrednu provjeru stručne i zdravstvene sposobnosti tog osoblja i saslušati odgovorne osobe ili osobe čiji rad podliježe nadzoru sigurnosti, kao i svjedoke.

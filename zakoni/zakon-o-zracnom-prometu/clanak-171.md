@@ -1,0 +1,3 @@
+# Članak 171.
+(1) Odobrenja, dozvole, svjedodžbe i druge isprave izdane pojedinim pravnim i fizičkim osobama na temelju propisa koji su bili na snazi do stupanja na snagu ovog Zakona, ostaju na snazi do isteka roka njihovog važenja.
+(2) Do stupanja na snagu podzakonskih propisa koji se donose na temelju ovog Zakona, odobrenja, dozvole, svjedodžbe i druge isprave će se stjecati, izdavati, obnavljati i produžavati prema podzakonskim propisima donesenima na temelju Zakona o zračnom prometu (»Narodne novine«, br. 132/98., 178/04. i 46/07.), a najduže jednu godinu od dana stupanja na snagu ovog Zakona.

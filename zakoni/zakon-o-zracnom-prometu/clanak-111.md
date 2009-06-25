@@ -1,0 +1,4 @@
+## Obveza sudjelovanja u postupku potrage i spašavanja zrakoplova
+# Članak 111.
+(1) U postupku potrage i spašavanja zrakoplova, ovisno o opsegu, zahtjevima i potrebama, a u skladu sa svojim pravima, obvezama i odgovornostima, sudjeluju postrojbe Oružanih snaga Republike Hrvatske, ministarstva nadležnog za unutarnje poslove, službe i postrojbe središnjeg tijela državne uprave nadležnog za zaštitu i spašavanje, koordinativna tijela zaštite i spašavanja, službe pravnih osoba koje se zaštitom i spašavanjem bave u redovitoj djelatnosti te fizičke osobe.
+(2) Operator ili vlasnik zrakoplova, zapovjednik zrakoplova, operator aerodroma te nadležne zdravstvene ustanove, obvezni su na zahtjev središnjeg tijela državne uprave nadležnog za zaštitu i spašavanje sudjelovati u postupku potrage i spašavanja, odnosno staviti na raspolaganje sredstva potrebna za potragu i spašavanje, te pružiti hitnu medicinsku pomoć i poduzeti mjere za prijevoz preživjelih osoba.

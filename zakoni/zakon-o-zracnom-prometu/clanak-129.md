@@ -1,0 +1,5 @@
+## Odjeljak 2. Obavljanje nadzora sigurnosti
+## Nadzor sigurnosti zrakoplova, zrakoplovne komponente i zračnog prometa
+# Članak 129.
+(1) Poslovi nadzora sigurnosti koji se odnose na zrakoplov, zrakoplovnu komponentu i zračni promet obuhvaćaju osobito nadzor nad primjenom propisa o: zrakoplovima, posebno u pogledu uvjeta za sigurnu uporabu zrakoplova i zrakoplovne komponente, te plovidbenosti zrakoplova, gradnji, preinaci, obnovi i održavanju zrakoplova i zrakoplovne komponente, opremi zrakoplova, ispravama, knjigama i priručnicima zrakoplova, zračnom prometu u pogledu udovoljavanja propisanim uvjetima za sigurno obavljanje prijevoza i udovoljavanju uvjetima za obavljanje drugih djelatnosti u zračnom prometu.
+(2) Procjena sigurnosti inozemnih zrakoplova (SAFA) koji slijeću i/ili uzlijeću sa hrvatskih zračnih luka obavlja Agencija u skladu s ICAO pravilima i odgovarajućim EU propisima o provedbi SAFA pregleda. Pregledi će se dalje obavljati sukladno propisu donesenom na temelju ovog Zakona i u skladu s odgovarajućim EU propisima.

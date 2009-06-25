@@ -1,0 +1,3 @@
+## Propisi koje donosi ministar uz suglasnost ministra nadležnog za zaštitu okoliša, prostornog uređenja i graditeljstva
+# Članak 144.
+Ministar, uz suglasnost ministra nadležnog za poslove zaštite okoliša, prostornog uređenja i graditeljstva, donosi propise o: uvjetima za projektiranje, gradnju, i označavanje aerodroma (članak 76. stavak 3.), gradnji i postavljanju prepreka na području aerodroma (članak 78. stavak 1.), najvećim dopuštenim razinama emisije ispušnih plinova kod uzlijetanja i slijetanja zrakoplova (članak 123.), uvjetima i načinu utvrđivanja područja zaštite od buke te uvjetima građenja u tim područjima (članak 125. stavak 2.).

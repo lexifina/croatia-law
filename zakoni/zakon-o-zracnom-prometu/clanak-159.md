@@ -1,0 +1,3 @@
+## Prekršaji zrakoplovnoga i pomoćnoga zrakoplovnog osoblja
+# Članak 159.
+Novčanom kaznom od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj osoba koja prema odredbama ovog Zakona pripada zrakoplovnome osoblju ili pomoćnome zrakoplovnome osoblju, ako nema propisane dozvole i ovlaštenja iz te dozvole, odnosno ako je tijekom obavljanja svojih poslova pod utjecajem alkohola ili omamljujućih sredstava ili lijekova koji mogu utjecati na psihičko ili fizičko stanje toga osoblja, odnosno ako zbog psihofizičkoga stanja poslove nije u mogućnosti pravilno obavljati, odnosno ako poslodavcu ne omogući provjeru psihofizičkoga stanja (članak 81. stavak 2., članak 86., članak 87. stavak 3. i članak 93. stavak 5.).

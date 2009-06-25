@@ -1,0 +1,3 @@
+## Nadzor sigurnosti pružatelja usluga u zračnoj plovidbi
+# Članak 132.
+Poslovi nadzora sigurnosti pružatelja usluga u zračnoj plovidbi obuhvaćaju poglavito nadzor nad primjenom propisa o: uvjetima kojima mora udovoljavati pružatelj usluga u zračnoj plovidbi, tehničkim sustavima i objektima značajnim za sigurnost zračnog prometa, posebno u pogledu ispravnosti, održavanja i pravilnog rada tehničkih sustava te načinu izvršenja operativnih usluga u zračnom prometu, usluga komunikacije, navigacije i nadzora, usluga zrakoplovnog informiranja i usluga zrakoplovne meteorologije, te primjene propisanih postupaka, preporučene prakse i međunarodnih standarda.

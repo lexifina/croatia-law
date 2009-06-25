@@ -1,0 +1,4 @@
+## DIO DVANAESTI OVLASTI ZA DONOŠENJE PROVEDBENIH PROPISA
+## Propisi koje donosi Vlada
+# Članak 141.
+Vlada Republike Hrvatske donosi propise o: visini naknade za sudjelovanje u radu Nacionalnog povjerenstva za olakšice (članak 37. stavak 2.), visini naknade za sudjelovanje u radu Povjerenstva za upravljanje sigurnošću u zračnom promet (članak 58. stavak 3.), visini naknade za sudjelovanje u radu Nacionalnog povjerenstva za upravljanje zračnim prostorom (članak 95. stavak 3.), o uvjetima i načinu visini naknade za sudjelovanje u radu Nacionalnog povjerenstva za zaštitu zračnog prometa (članak 114. stavak 3.), uvjetima i načinu obavljanja potrage i spašavanja zrakoplova (članak 110. stavak 1. i članak 112. stavak 1.), visini, te načinu i postupku ostvarivanja prava na naknadu zbog zabrane ili uvjetovanja gradnje u područjima zaštite od buke (članak 126. stavak 3.).

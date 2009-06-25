@@ -1,0 +1,4 @@
+## Priručnik za sustav upravljanja sigurnošću
+# Članak 57.
+(1) Subjekti iz članka 55. stavka 2. ovog Zakona izrađuju i primjenjuju Priručnik za sustav upravljanja sigurnošću kao sastavni dio svojeg sustava upravljanja sigurnošću, a njegovi elementi mogu biti sadržani i u drugim dokumentima zrakoplovnog subjekta.
+(2) Priručnik za sustav upravljanja sigurnošću osobito sadrži operativne procedure zrakoplovnog subjekta i postupke za njihovu primjenu; praćenje i nadzor svih područja operacija; prepoznavanje opasnosti i procjenu i ublažavanje rizika; prikupljanje podataka o nesrećama, ozbiljnim nezgodama i događajima koji ugrožavaju sigurnost; način izvješćivanja i predlaganja korektivnih akcija Agenciji; osobe odgovorne za izvješćivanje Agencije o događajima koji ugrožavaju sigurnost; analiziranje događaja koji ugrožavaju sigurnost s naglaskom na prepoznavanje njihovih uzroka; te mjere za nepredviđene slučajeve.

@@ -1,0 +1,16 @@
+## Prekršaji zapovjednika zrakoplova ili druge osobe koja je upravljala ili sudjelovala u upravljanju zrakoplovom
+# Članak 156.
+Novčanom kaznom od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj zapovjednik zrakoplova ili druga osoba koja je upravljala ili sudjelovala u upravljanju zrakoplovom:
+1) ako upravlja zrakoplovom suprotno uvjetima, načinu, pravilima i postupcima letenja zrakoplova utvrđenima propisom donesenim na temelju ovog Zakona i odgovarajućim EU propisima (članak 13. stavak 2.),
+2) ako obavi slijetanje ili uzlijetanje zrakoplovom u međunarodnome zračnome prometu izvan međunarodnoga aerodroma ili izvan drugih aerodroma koji nisu određeni za međunarodni zračni promet, ali za koje je operator aerodroma osigurao na drugi način i na vlastiti trošak provedbu propisa o prelasku državne granice (članak 14. stavak 1.),
+3) ako zračni promet obavlja u zabranjenome području i području s ograničenjem letenja, odnosno ako leti suprotno uvjetima i načinima utvrđenima za navedena područja (članak 18.),
+4) ako obavi izvanaerodromsko slijetanje ili uzlijetanje bez odobrenja Agencije (članak 19. stavak 2. i 4.),
+5) ako na zahtjev zrakoplovnoga inspektora ne pokaže isprave, knjige i drugu dokumentaciju ili ako na bilo koji drugi način onemogući zrakoplovnoga inspektora u obavljanju nadzora sigurnosti, ili ako ne omogući zrakoplovnome inspektoru korištenje slobodnoga mjesta u pilotskoj kabini zrakoplova pri obavljanju nadzora sigurnosti nad radom posade zrakoplova i ispravnošću zrakoplova u letu (članak 135.),
+6) ako let obavlja ispod minimalne sigurne razine za letenje zrakoplovom iznad prepreka (članak 102.),
+7) ako uspostavljanje i održavanje radiokomunikacije ne obavlja na propisan način (članak 104.),
+8) ako sazna za nesreću i ozbiljnu nezgodu zrakoplova, a o tome odmah ne izvijesti ministarstvo nadležno za unutarnje poslove ili nadležnu kontrolu zračnoga prometa na najbližemu aerodromu ili središnje tijelo državne uprave nadležno za zaštitu i spašavanje ili Agenciju za istraživanje, odnosno ako ne izvijesti u propisanoj formi Agenciju i Agenciju za istraživanje o svim događajima koji ugrožavaju sigurnost, a izvješćivanje kojih je propisano kao obvezno propisom donesenim na temelju ovog Zakona i u skladu s odgovarajućim EU propisima (članak 106. stavak 1. i članak 108. stavak 1.),
+9) ako na zahtjev središnjeg tijela državne uprave nadležnog za zaštitu i spašavanje ne sudjeluje svojim zrakoplovom u potrazi i spašavanju (članak 111. stavak 2.).
+10) ako ne ispuni obvezu poduzimanja mjera zaštite od buke zrakoplova i od ispušnih plinova zrakoplova prilikom uzlijetanja i slijetanja, u skladu s propisom donesenim na temelju ovog Zakona i odgovarajućim EU propisima (članak 122.),
+11) ako se zrakoplovom po stajanci ne kreće prema uputama operatora aerodroma (članak 100. stavak 2.),
+12) ako obavlja let bez propisanih odobrenja odnosno protivno uvjetima iz tih odobrenja, te ako ne postupi prema odobrenju ili uputi nadležne kontrole zračnoga prometa, kao i ako ne postupi u skladu sa zabranom uzlijetanja ili slijetanja od strane aerodromske kontrole zračnoga prometa (članak 103.),
+13) ako u slučajevima ugrožavanja sigurnosti ne postupi u skladu sa svojim ovlastima i obvezama na način određen propisom donesenim na temelju ovog Zakona i odgovarajućim EU propisima (članak 92.).

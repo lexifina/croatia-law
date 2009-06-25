@@ -1,0 +1,4 @@
+## Nadzor sigurnosti zrakoplovnog osoblja, pomoćnog zrakoplovnog i drugog stručnog osoblja
+# Članak 131.
+(1) Poslovi nadzora sigurnosti koji se odnose na zrakoplovno osoblje obuhvaćaju poglavito nadzor nad primjenom propisa o: radu i načinu obavljanja stručnih poslova zrakoplovnog osoblja, stručnom osposobljavanju i dozvolama tog osoblja, njihovoj stručnoj i zdravstvenoj sposobnosti, trajanju radnog vremena i vremena letenja, trajanju putovanja i obveze dežurstva, broju uzlijetanja i slijetanja (u tijeku radnog vremena), dužini dnevnog, tjednog i godišnjeg odmora te zdravstvenim i mjerama zaštite na radu u svezi s obavljanjem dužnosti članova posade zrakoplova.
+(2) Kod obavljanja poslova nadzora sigurnosti koji se odnose na pomoćno zrakoplovno i drugo stručno osoblje iz članka 79. ovog Zakona, odgovarajuće se primjenjuju odredbe stavka 1. ovog članka.

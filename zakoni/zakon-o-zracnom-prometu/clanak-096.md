@@ -1,0 +1,16 @@
+## Glava 3. Usluge u zračnoj plovidbi
+## Odjeljak 1. Opće odredbe
+## Usluge u zračnoj plovidbi
+# Članak 96.
+(1) Usluge u zračnoj plovidbi pružaju se u području letnih informacija Republike Hrvatske u skladu s odredbama ovog Zakona, propisa donesenih na temelju ovog Zakona i u skladu s odgovarajućim EU propisima te uvjetima i načinima utvrđenima međunarodnim ugovorima koji obvezuju Republiku Hrvatsku.
+(2) Usluge u zračnoj plovidbi obavljaju se i izvan hrvatskoga zračnog prostora do granica utvrđenoga funkcionalnog bloka zračnog prostora, pod uvjetima i na način utvrđenima međunarodnim ugovorima koji obvezuju Republiku Hrvatsku.
+(3) Republika Hrvatska može povjeriti drugoj državi, ili druga država može povjeriti Republici Hrvatskoj, odgovornost za uspostavljanje i pružanje operativnih usluga u zračnom prometu unutar svojeg teritorija. Takvo povjeravanje izvršit će se međusobnim ugovorom odnosnih država u skladu s međunarodnim ugovorima koji obvezuju Republiku Hrvatsku.
+(4) Ugovor iz stavka 3. ovog članka sklapa Vlada ili osoba koju Vlada u svakom pojedinom slučaju ovlasti za potpisivanje takvog ugovora.
+(5) Pravnoj osobi koja podnese dokaze da udovoljava zahtjevima iz stavka 1. ovog članka, Agencija izdaje Svjedodžbu pružatelja usluga u zračnoj plovidbi.
+(6) Za pružanje određenih usluga u zračnoj plovidbi Ministarstvo će imenovati pružatelja usluga u zračnoj plovidbi, u skladu s propisom iz stavka 7. ovog članka.
+(7) Uvjeti i način izdavanja Svjedodžbe pružatelja usluga u zračnoj plovidbi i imenovanja pružatelja usluga u zračnoj plovidbi utvrđuju se propisom donesenim na temelju ovog Zakona i u skladu s odgovarajućim EU propisima.
+(8) Pružatelj usluga u zračnoj plovidbi kojem je izdana svjedodžba iz stavka 5. ovog članka u svakom trenutku mora udovoljavati primjenjivim zajedničkim zahtjevima ili ograničenjima vezanima uz svjedodžbu i obavijestit će Agenciju o planiranim promjenama vezanima za pružanje usluga koje mogu utjecati na udovoljavanje primjenjivim zajedničkim zahtjevima ili ograničenjima vezanima uz svjedodžbu.
+(9) Ukoliko se utvrdi da pružatelj usluga u zračnoj plovidbi kojem je izdana Svjedodžba više ne udovoljava primjenjivim zajedničkim zahtjevima ili ograničenjima vezanima uz svjedodžbu, Agencija će tražiti od njega da poduzme korektivne mjere, odredit će rok za njihovu provedbu, provjeravati provedbu i poduzeti odgovarajuće mjere ukoliko je to potrebno, na način utvrđen propisom donesenim na temelju ovog Zakona i u skladu s odgovarajućim EU propisima.
+(10) Za obavljanje pregleda radi utvrđivanja udovoljavanja zahtjevima za izdavanje Svjedodžbe pružatelja usluga u zračnoj plovidbi, te za kontinuirani nadzor nad odnosnim pružateljem usluga radi osiguravanja kontinuiranog udovoljavanja tim zahtjevima, plaća se propisana naknada.
+(11) Pružanje usluga u zračnoj plovidbi za potrebe Oružanih snaga Republike Hrvatske, obavlja se uz uvjete, na način i u opsegu utvrđenom posebnim ugovorima između ministarstva nadležnog za poslove obrane i pružatelja usluga u zračnoj plovidbi, uz prethodnu suglasnost Vlade.
+(12) Pružatelji usluga u zračnoj plovidbi imaju pravo na rutnu i terminalnu naknadu koju plaćaju korisnici zračnog prostora, a koje se utvrđuju na način utvrđen propisom donesenim na temelju ovog Zakona i u skladu s međunarodnim ugovorima koji obvezuju Republiku Hrvatsku i odgovarajućim EU propisima.
