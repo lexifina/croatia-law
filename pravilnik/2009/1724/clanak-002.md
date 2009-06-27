@@ -1,0 +1,5 @@
+# Članak 2.
+Članak 4. stavak 1. mijenja se i glasi:
+»Nakon obavljenog veterinarskog pregleda u skladu s člankom 4. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske, granični veterinarski inspektor nadležan je za popunjavanje Dijela 2. ZVDU-a te potpisivanje obrasca.«
+Stavak 5. mijenja se i glasi:,
+»Granični veterinarski inspektor mora čuvati izvornik veterinarskog certifikata ili dokumentaciju koja prati pošiljku, kao i presliku ZVDU-a, najmanje tri godine. Za pošiljke u provozu, čije se konačno odredište nalazi izvan područja Republike Hrvatske ili koje se istovaruju u skladišta odobrena u skladu s člankom 12. stavkom 4. ili člankom 13. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske, izvornik uvoznog veterinarskog certifikata mora i dalje pratiti pošiljku do konačnog odredišta, a na graničnom veterinarskom prijelazu čuvaju se samo preslike.«

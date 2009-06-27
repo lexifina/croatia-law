@@ -1,0 +1,4 @@
+# Članak 4.
+Članak 10. mijenja se i glasi:
+»1) Proizvodi biljnog podrijetla navedeni u Dodatku IV. ovoga Pravilnika iz zemalja odobrenih i navedenih u Dodatku V. ovoga Pravilnika, podliježu dokumentacijskom pregledu iz članka 2. stavka 1. ovoga Pravilnika i ukoliko je potrebno, laboratorijskim pregledima iz članka 2. stavka 2. ovog Pravilnika te drugim fizičkim pregledima određenim u Dodatku III. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske.
+2) Zahtjevi Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske i ovoga Pravilnika primjenjuju se na sve biljne proizvode navedene u Dodatku IV. ovog Pravilnika, koji na temelju svog podrijetla i narednog odredišta, mogu uzrokovati opasnost od širenja zaraznih ili nametničkih bolesti životinja.«
