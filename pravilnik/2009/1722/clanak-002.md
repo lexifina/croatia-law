@@ -1,0 +1,4 @@
+# Članak 2.
+Način izračuna adekvatnosti jamstvenog kapitala reguliranih subjekta unutar financijskog konglomerata propisan je sektorskim propisima.
+Propisana adekvatnost jamstvenog kapitala za neregulirane subjekte financijskog sektora unutar financijskog konglomerata izračunava se na isti način kao što bi taj neregulirani subjekt morao izračunavati propisanu adekvatnost jamstvenog kapitala da je regulirani subjekt financijskog sektora.
+Ako nije moguće izračunati propisanu adekvatnost jamstvenog kapitala na način iz stavka 2. ovoga članka, propisana se adekvatnost jamstvenog kapitala nereguliranog subjekta iz stavka 2. ovoga članka, uz prethodnu suglasnost nadležnog tijela, a imajući na umu vrstu financijskih usluga koje taj neregulirani subjekt pruža, izračunava sukladno propisima koji uređuju najznačajniji sektor unutar financijskog konglomerata.

@@ -1,0 +1,3 @@
+# Članak 4.
+Neovisno o primijenjenoj metodi pri izračunu dodatnih kapitalnih zahtjeva, podaci za nadređenu osobu i podređeno društvo, regulirane i neregulirane subjekte financijskog konglomerata uključuju se u cijelosti.
+Ako adekvatnost jamstvenog kapitala reguliranih subjekata financijskog konglomerata izračunanog temeljem sektorskih propisa ili adekvatnost jamstvenog kapitala podređenih nereguliranih subjekata financijskog sektora izračunatog temeljem članka 2. ovoga Pravilnika padne ispod iznosa određenog sektorskim propisom, odnosno ispod iznosa određenog člankom 2. stavcima 2. i 3. ovoga Pravilnika, utvrđena razlika adekvatnosti jamstvenog kapitala u cijelosti ulazi u izračun dopunskih kapitalnih zahtjeva financijskog konglomerata.
