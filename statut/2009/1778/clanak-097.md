@@ -1,0 +1,5 @@
+# Članak 97.
+(1) Na području svake županije i Grada Zagreba osniva se odvjetnički zbor odvjetnika čiji se uredi nalaze na području županije odnosno grada Zagreba. Ako odvjetnički ured ima više pisarnica, odvjetnici koji rade u pojedinim pisarnicama članovi su onih zborova na području kojih se nalaze pisarnice u kojima rade.
+(2) Ako na području koje županije ima manje od dvadeset pet odvjetnika, ne osniva se poseban zbor te županije, već se odvjetnici s područja te županije priključuju zboru susjedne županije koji odredi Upravni odbor.
+(3) Zaključkom Skupštine odvjetničkih zborova može se predložiti i za područje dviju ili više županija osnivanje jednog odvjetničkog zbora. Zaključkom većine odvjetnika koji imaju svoje urede na području Županije za koju nije osnovan poseban zbor, odvjetnici te Županije mogu predložiti Skupštini izdvajanje iz zajedničkog zbora i osnivanje vlastitog zbora ako za to ispunjavaju uvjete utvrđene ovim Statutom.
+(4) Odvjetnički su zborovi područna tijela Komore.
