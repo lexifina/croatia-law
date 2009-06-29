@@ -1,0 +1,3 @@
+RJEŠENJE
+I. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Odluke o prijenosu 7% dionica HT - Hrvatskih telekomunikacija d.d. u Fond hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, bez naplate, klasa: 561-01/05-02/01, urbroj: 5030116-05-4 od 17. veljače 2005. godine i Odluke o dopuni Odluke o prijenosu 7% dionica HT - Hrvatskih telekomunikacija d.d. u Fond hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, bez naplate, klasa: 561-01/05-02/01, urbroj: 5030120-05-6 od 31. ožujka 2005. godine.
+II. Ovo rješenje objavit će se u »Narodnim novinama«.
