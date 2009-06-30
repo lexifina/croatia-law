@@ -1,0 +1,1 @@
+Na temelju članka 29. i 43. stavak 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008), a u svezi sa člankom 16. stavak 1. Zakona o platnom prometu u zemlji (»Narodne novine«, br. 117/2001) te člancima 261. stavak 2. i 270. stavak 2. Zakona o kreditnim institucijama (»Narodne novine«, br. 117/2008), guverner Hrvatske narodne banke donosi
