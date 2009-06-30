@@ -1,7 +1,7 @@
 # Članak 99.
-Ovaj Statut stupa na snagu danom donošenja, a primjenjuje se od 22. svibnja 2002. godine, dana kojeg je Ministarstvo za obrt, malo i srednje poduzetništvo utvrdilo usklađenost Statuta sa Zakonom o obrtu.
 Ovaj Statut objavljuje se u »Narodnim novinama«.
+Broj: 40-502-5028/2-13-2009
+Zagreb, 15. srpnja 2009.
 Predsjednik
-Odbora za praćenje i razvoj
-komorskog sustava i Statut
-Vitomir Pap, v. r.
+Odbora za praćenje i razvoj komorskog sustava i Statut
+Ivan Klarić, v. r.

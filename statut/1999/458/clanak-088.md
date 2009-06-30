@@ -1,2 +1,3 @@
 # Članak 88.
-Po ovlaštenju predsjednika Komore tajnik Komore osigurava provedbu financijskog proračuna i brine se o upotrebi drugih sredstava, te zastupa Komoru u imovinskim i drugim poslovima.
+Glavni tajnik Komore i tajnik Komorskog ureda djelatnici su s posebnim ovlaštenjima.
+Po ovlaštenju predsjednika Komore glavni tajnik Komore i tajnik Komorskog ureda mogu zastupati Komoru pred tijelima državne i sudbene vlasti te u drugim poslovima.

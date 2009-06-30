@@ -1,4 +1,4 @@
-## PREDSJEDNIK KOMORE
+## Predsjednik Komore
 # Članak 36.
 Predsjednika Komore imenuje i razrješava Skupština iz redova članova Komore.
 Predsjednik Komore za svoj rad odgovara Skupštini.

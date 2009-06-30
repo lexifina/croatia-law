@@ -1,4 +1,4 @@
-## PODRUČNE OBRTNIČKE KOMORE
+## Područne obrtničke komore
 # Članak 61.
 Područna obrtnička komora osniva se za područje jedne ili više županija.
 Područna obrtnička komora osniva se radi promicanja, usklađivanja i zastupanja zajedničkih interesa obrtnika pred tijelima jedinica lokalne i područne (regionalne) samouprave.

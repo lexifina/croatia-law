@@ -16,4 +16,4 @@ Prava, obveze i odgovornosti članova Komore jesu:
 14. pridržavati se odredbi Statuta, odluka, zaključaka i drugih akata tijela Komore, te razvijati međusobnu odgovornost za njihovu dosljednu provedbu, kao i za provedbu dogovorene politike komorskog sustava;
 15. uredno podmirivati komorski doprinos;
 16. druga prava i obveze utvrđene zakonom i ovim Statutom.
-Član Komore koji nije izvršio obvezu podmirenja komorskog doprinosa za razdoblje od devet (9) mjeseci ne može biti član tijela u komorskom sustavu.
+Član Komore koji nije izvršio obvezu podmirenja komorskog doprinosa za razdoblje od devet (9) mjeseci ne može biti član tijela u komorskom sustavu. Član tijela komorskog sustava mora biti obrtnik koji obavlja dopuštenu gospodarsku djelatnost u skladu sa Zakonom.
