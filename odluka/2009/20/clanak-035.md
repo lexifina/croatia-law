@@ -1,0 +1,9 @@
+## 3.4.4. REZERVIRANJA ZA IDENTIFICIRANE GUBITKE S OSNOVE IZVANBILANČNIH OBVEZA
+## Rezerviranja za identificirane gubitke
+# Članak 35.
+(1) Za izvanbilančne obveze iz članka 33. i 34. ove Odluke određuju se rezerviranja za identificirane gubitke u visini najbolje procjene temeljene na procedurama i politikama kreditne institucije i načelima MRS-a 37.
+(2) Iznos rezerviranja iz stavka 1. ovog članka jednak je iznosu očekivanih budućih izdataka za podmirenje izvanbilančnih obveza koje kreditna institucija neće moći nadoknaditi.
+(3) Iznimno od stavka 2. ovog članka, ako je učinak vremenske vrijednosti novca značajan, iznos rezerviranja iz stavka 1. ovog članka jednak je diskontiranoj vrijednosti očekivanih budućih nenadoknadivih odljeva za podmirenje izvanbilančne obveze (sadašnja vrijednost nenadoknadivih budućih odljeva). Iznos očekivanih izdataka svodi se na njihovu sadašnju vrijednost na svaki datum bilance, primjenom diskontne stope koja odgovara tekućoj tržišnoj cijeni novca.
+(4) U smislu stavka 3. ovog članka smatra se da je učinak vremenske vrijednosti novca značajan kad se procjeni da će odljev sredstava za podmirenje izvanbilančne obveze uslijediti u roku koji je duži od jedne godine računajući od datuma bilance.
+(5) Odljevima (koje kreditna institucija neće moći nadoknaditi) smatra se nominalni iznos očekivanih odljeva za podmirenje izvanbilančne obveze umanjen za iznos za koji se osnovano procjenjuje da će biti nadoknađen od druge ugovorne strane ili unovčenjem raspoloživog instrumenta osiguranja.
+(6) Iznos rezerviranja za gubitke povezane s izvanbilančnim obvezama rizične skupine B-1/B-2/B-3, kao i rizične skupine C, knjiži se na teret troškova kreditne institucije za razdoblje u kojem je gubitak utvrđen, te u korist odgovarajućega računa rezerviranja u pasivi bilance.

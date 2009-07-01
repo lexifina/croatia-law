@@ -1,0 +1,13 @@
+## Djelomično nadoknadivi plasmani
+# Članak 19.
+(1) Djelomično nadoknadivim plasmanima smatraju se oni plasmani za koje se, zbog smanjene kreditne sposobnosti dužnika, zakašnjenja u podmirivanju obveza prema kreditnoj instituciji i smanjenja vrijednosti raspoloživih instrumenata osiguranja, procjenjuje da neće biti moguće naplatiti glavnicu i kamate u ugovorenoj visini. To su plasmani za koje postoje dokazi da je sadašnja vrijednost očekivanih budućih novčanih tokova po tim plasmanima manja od njihove nominalne knjigovodstvene vrijednosti.
+(2) Kreditna institucija dužna je djelomično nadoknadive plasmane klasificirati prema visini utvrđenoga gubitka u sljedeće rizične skupine:
+1) u rizičnu skupinu B-1 (plasmani za koje utvrđeni gubitak ne prelazi 30% nominalnoga knjigovodstvenog iznosa pojedinog plasmana),
+2) u rizičnu skupinu B-2 (plasmani za koje utvrđeni gubitak iznosi više od 30% do 70% nominalnoga knjigovodstvenog iznosa pojedinog plasmana) i
+3) u rizičnu skupinu B-3 (plasmani za koje utvrđeni gubitak iznosi više od 70% a manje od 100% nominalnoga knjigovodstvenog iznosa pojedinog plasmana).
+(3) Gubitak iz stavka 2. ovog članka je razlika između nominalnoga knjigovodstvenog iznosa pojedinog plasmana i sadašnje vrijednosti očekivanih budućih novčanih tokova, diskontiranih uz primjenu efektivne kamatne stope iz članka 20. ove Odluke.
+(4) Iznimno od stavka 3. ovog članka, ako je rok u kojem se očekuju budući novčani tokovi po pojedinom plasmanu kraći od jedne godine, računajući od datuma bilance, kreditna institucija nije dužna izračunavati sadašnju (diskontiranu) vrijednost očekivanih budućih novčanih tokova. U tom slučaju kreditna institucija može gubitak utvrditi kao razliku između nominalnoga knjigovodstvenog iznosa plasmana i očekivanih budućih novčanih tokova po dotičnom plasmanu.
+(5) Visinu gubitka po djelomično nadoknadivim plasmanima kreditna institucija dužna je utvrditi posebno za svaki plasman koji je dio pojedinačno značajne izloženosti čija je knjigovodstvena vrijednost veća od iznosa iz članka 9. ove Odluke.
+(6) Iznimno od stavka 5. ovog članka, gubitak po plasmanima kreditna institucija može utvrđivati za više plasmana zajedno, i to:
+1) za plasmane koji pripadaju portfelju malih kredita iz članka 11. ove Odluke, a koji imaju slična svojstva s obzirom na namjenu, dospijeće, kamatnu stopu, instrumente osiguranja i druga slična obilježja i
+2) za sve plasmane jednom dužniku nad kojim je pokrenut stečajni postupak, osim potraživanja od stečajnog dužnika po kojima kreditna institucija ima status razlučnog vjerovnika, za koje se nadoknadivi iznos, odnosno iznos gubitka, utvrđuje na pojedinačnoj osnovi.

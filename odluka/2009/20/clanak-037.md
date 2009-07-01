@@ -1,0 +1,25 @@
+# Članak 37.
+(1) Primjerene instrumente osiguranja naplate u obliku nekretnine ili pokretnine kreditna institucija može uzeti u obzir pri klasifikaciji plasmana ili preuzetih izvanbilančnih obveza ako raspolaže cjelokupnom potrebnom dokumentacijom iz koje je vidljivo da je dotična nekretnina ili pokretnina učinkovit i prikladan sekundarni izvor naplate. Instrument osiguranja u obliku nekretnine ili pokretnine ima ova obilježja ako kreditna institucija ima dokaze da postoji tržište koje omogućava brzo i učinkovito (po primjerenoj cijeni) unovčenje instrumenta osiguranja.
+(2) Kreditna institucija dužna je pri procjenjivanju novčanih tokova uzeti u obzir onaj dio vrijednosti instrumenta osiguranja u obliku nekretnine koji ostane nakon oduzimanja svih obveza osiguranih istom nekretninom a koje su u zemljišnim knjigama upisane prije u prvenstvenom redu ili nakon oduzimanja proporcionalnog dijela obveza koje se nalaze u istom prvenstvenom redu s potraživanjem kreditne institucije.
+(3) Kao vrijednost instrumenta osiguranja u obliku nekretnina uzima se tržišna cijena. Ako za pojedinu vrstu nekretnina nema aktivnog tržišta, odnosno ako nije poznata tržišna cijena, uzima se posljednja procjena tržišne vrijednosti nekretnine koju je izradio neovisni procjenitelj. Pri toj procjeni procjenitelj je dužan uzeti u obzir sve troškove povezane s prodajom. Za poslovne nekretnine kao alternativni način određivanja vrijednosti nekretnine može se uzeti i kupoprodajni ugovor koji ne smije biti stariji od godinu dana.
+(4) Kreditna institucija dužna je imati sljedeću dokumentaciju u vezi s nekretninom koja služi kao instrument osiguranja potraživanja:
+1) javnobilježnički sporazum o uknjižbi hipoteke ili fiducijarnog prijenosa prava vlasništva nad dotičnom nekretninom,
+2) rješenje suda o dozvoli uknjižbe hipoteke ili fiducijarnog prijenosa prava vlasništva nad dotičnom nekretninom u zemljišnim knjigama,
+3) ažurirani zemljišnoknjižni izvadak, s uknjiženom hipotekom ili fiducijarnim prijenosom prava vlasništva,
+4) policu osiguranja dotične nekretnine koja je vinkulirana u korist kreditne institucije (osim kad je nekretnina neizgrađeno zemljište) i
+5) procjenu vrijednosti izrađenu od neovisnog procjenitelja ili kupoprodajni ugovor za dotičnu nekretninu.
+(5) Za vrijeme trajanja ugovornog odnosa kreditna institucija dužna je kontinuirano pratiti vrijednost nekretnina koje služe kao instrument osiguranja njezinih potraživanja i to za poslovne nekretnine barem jednom godišnje, a za stambene nekretnine jednom u tri godine. Kreditna institucija dužna je pratiti vrijednost nekretnina i češće ako su tržišni uvjeti podložni značajnim promjenama. Za praćenje vrijednosti nekretnina i utvrđivanja potrebe ponovne procjene kreditna institucija može se koristiti statističkim metodama. Ako kreditna institucija na temelju praćenja utvrdi da bi moglo doći do značajnog smanjenja vrijednosti nekretnina u odnosu na uobičajene tržišne cijene, dužna je od neovisnog procjenitelja zatražiti provođenje ponovne procjene njihove vrijednosti.
+(6) Za plasmane koji čine više od pet posto jamstvenog kapitala kreditne institucije ili prelaze iznos od 20 milijuna kuna, kreditna institucija dužna je osigurati da neovisni procjenitelj izvrši procjenu vrijednosti nekretnina najmanje svake treće godine.
+(7) Kreditna institucija pri izračunu umanjenja vrijednosti plasmana i rezerviranja za gubitke povezane s izvanbilančnim obvezama može upotrijebiti pokretninu kao adekvatni instrument osiguranja naplate ako su ispunjeni sljedeći uvjeti:
+1) postoji likvidno tržište koje omogućava brzo i učinkovito (po primjerenoj cijeni) unovčenje instrumenta osiguranja,
+2) dostupne su tržišne cijene dotične pokretnine,
+3) ispunjeni su operativni uvjeti za izvršenje prodaje,
+4) ugovor o osiguranju omogućava namiru iz instrumenta osiguranja u prihvatljivom razdoblju,
+5) postoji pravo prvenstva u redoslijedu naplate pred ostalim vjerovnicima,
+6) postoji primjerena kontrola vrijednosti instrumenta osiguranja najmanje jedanput godišnje, a češće u slučaju znatnijih promjena cijena na tržištu,
+7) ugovor o kreditu odnosno izvanbilančnoj obvezi sadržava opis instrumenta osiguranja,
+8) kreditna institucija ima popis prikladnih vrsta instrumenata osiguranja u obliku pokretnina te je u svojem internom aktu utvrdila postupke i procedure glede potrebnog pokrića za pojedinu vrstu instrumenta osiguranja, uključujući i omjer vrijednosti potraživanja i instrumenta osiguranja,
+9) kreditna institucija ima u svojim kreditnim politikama utvrđene zahtjeve vezane uz opseg izloženosti prema dužniku, zahtjeve glede pravodobnog unovčenja instrumenta osiguranja i glede prikladnosti cijene ili tržišne vrijednosti instrumenta osiguranja,
+10) početna procjena vrijednosti dotične pokretnine i sljedeće procjene vrijednosti moraju u cijelosti uzimati u obzir umanjenje vrijednosti pokretnine i zastarjelost procjene,
+11) kreditna institucija ima uspostavljene postupke za pravnu provjeru valjanosti zaloga nad dotičnim pokretninama i
+12) zalog mora biti upisan u registar založnih prava nad pokretninama pri instituciji nadležnoj za vođenje tog registra.
