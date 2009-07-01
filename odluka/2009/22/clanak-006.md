@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Ako kreditna institucija koristi derivatni financijski instrument iz knjige trgovanja za potrebe upravljanja kamatnim rizikom u knjizi banke takav derivatni financijski instrument može uključiti u izračun promjene ekonomske vrijednosti kreditne institucije iz knjige banke.
+(2) Kreditna institucija je dužna derivatni financijski instrument iz stavka 1. ovog članka od trenutka uspostavljanja odnosa zaštite označiti kao instrument interne zaštite u smislu dijela 2.2. Glave III. Odluke o adekvatnosti jamstvenog kapitala kreditnih institucija pri čemu je dužna i ispunjavati uvjete iz tog dijela Odluke.
