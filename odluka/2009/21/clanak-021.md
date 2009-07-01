@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Kreditna institucija je dužna pratiti i izvještavati Hrvatsku narodnu banku o minimalnom koeficijentu likvidnosti u kunama, u svim konvertibilnim valutama ukupno te u nekonvertibilnim valutama (u kojima kreditna institucija ima stvarne ili potencijalne odljeve) pojedinačno.
+(2) Ako kreditna institucija procijeni da stvarni ili potencijalni odljevi u nekonvertibilnim valutama nisu značajni u odnosu na njezinu poslovnu aktivnost te ako su isti u 100% iznosu pokriveni likvidnom imovinom ili odgovarajućim potraživanjima u toj nekonvertibilnoj valuti, za takve nekonvertibilne valute kreditna institucija nije dužna izvještavati Hrvatsku narodnu banku o minimalnom koeficijentu likvidnosti na pojedinačnoj osnovi.

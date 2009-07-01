@@ -1,0 +1,8 @@
+# Članak 9.
+(1) U politici za upravljanje likvidnosnim rizikom kreditna institucija je dužna definirati testiranja otpornosti na stres (analize scenarija i osjetljivosti) te pretpostavke na kojima se temelji sustav upravljanja likvidnosnim rizikom, na sljedeći način:
+1. propisati i usvojiti procedure za provođenje i analizu različitih testiranja otpornosti na stres te učestalost njihova provođenja, uzimajući u obzir faktore specifične za kreditnu instituciju (unutarnje faktore) i tržišne faktore (vanjske faktore);
+2. propisati provođenje testiranja likvidnosti pod uobičajenim i predvidivim (normalnim) okolnostima i neuobičajenim (ekstremnim) okolnostima te testiranja i za dulje razdoblje stresnih okolnosti, odnosno dulje razdoblje podnošenja stresnih okolnosti za kreditnu instituciju;
+3. propisati procedure za postupke koje bi trebali poduzeti uprava i više rukovodstvo u slučajevima određenih nepovoljnih rezultata testiranja otpornosti na stres;
+4. utvrditi raspored testiranja otpornosti na stres pri planiranju za iduću godinu te osigurati izvještavanje uprave kreditne institucije o rezultatima planiranih ispitivanja na godišnjoj razini i
+5. propisati i redovito preispitivati pretpostavke koje se koriste za upravljanje likvidnošću kreditne institucije (koje se odnose na ponašanje imovine, obveza i izvanbilančnih stavki kreditne institucije te neke druge pretpostavke) kako bi se osigurala njihova primjerenost aktivnostima kreditne institucije i tržišnim okolnostima.
+(2) Kreditna institucija je dužna koristiti se rezultatima testiranja otpornosti na stres u prilagođavanju strategije upravljanja likvidnosnim rizikom, donošenju politika, određivanja limita, zauzimanju pozicija te prilikom donošenju planova postupanja u kriznim situacijama.

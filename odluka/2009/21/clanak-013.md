@@ -1,0 +1,8 @@
+## Pretpostavke o ponašanju određenih pozicija imovine i obveza kreditne institucije
+# Članak 13.
+(1) Kreditna institucija može koristiti pretpostavke o ponašanju novčanih tokova za sljedeće pozicije:
+1. transakcije bez ugovorom utvrđenog datuma dospijeća i
+2. transakcije sa ugovorom utvrđenim datumom dospijeća.
+(2) Pretpostavke o ponašanju novčanih tokova pozicija iz stavka 1. ovoga članka kreditna institucija je dužna u potpunosti dokumentirati, propisati svojim internim aktima te ih zajedno s njihovim financijskim učinkom na novčane tokove uključivati u redovita Izvješća koja se dostavljaju Hrvatskoj narodnoj banci. Kreditna institucija dužna je dokazati opravdanost korištenja usvojenih pretpostavki, potkrijepiti ih podacima o ponašanju pojedinih novčanih tokova u prošlosti te ih redovito revidirati.
+(3) Ako kreditna institucija započne s korištenjem pretpostavki o ponašanju novčanih tokova pojedinih pozicija iste je dužna kontinuirano primjenjivati te ih kao takve uključivati u sklopu redovitih Izvješća koja se dostavljaju Hrvatskoj narodnoj banci.
+(4) Kreditna institucija je dužna koristiti korektivne faktore za svaku kategorija imovine i obveza i to na način kako je određeno u članku 14. i 15. ove Odluke, ovisno o tome koristi li pretpostavke o ponašanju navedenih stavki ili ne. Ako kreditna institucija koristi pretpostavke o ponašanju određenih stavki, pri određivanju konačnog iznosa novčanog toka koji će biti uključen u Izvješća, dužna je, s ciljem konzervativnosti, dobiveni procijenjeni postotni iznos od ukupnog iznosa ispraviti (uvećati ili umanjiti) za dodatni korektivni faktor propisan ovom Odlukom.
