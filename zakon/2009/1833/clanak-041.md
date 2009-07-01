@@ -1,0 +1,6 @@
+# Članak 41.
+(1) Državna odvjetništva podnose višem državnom odvjetništvu izvješća svaki mjesec. Izvješće sadrži podatke o završenim postupcima, o postupcima koji su u tijeku te radnjama koje su poduzeli ili će ih poduzeti. Više državno odvjetništvo može tražiti da se izvješća izrade posebno po vrstama predmeta.
+(2) Godišnje izvješće koje državna odvjetništva podnose višem državnom odvjetništvu sadrži pregled primljenih, riješenih i neriješenih predmeta, pregled strukture kaznenih, građanskih i upravnih predmeta, optužnih akata i poslova zastupanja i pregled pravnih lijekova koji su podneseni i s kakvim uspjehom.
+(3) Glavni državni odvjetnik dužan je svake godine dostaviti ministarstvu nadležnom za poslove pravosuđa izvješće o primljenim, riješenim i neriješenim predmetima s obrazloženjem, te o pokrenutim postupcima zbog počinjenoga teškoga stegovnog djela dužnosnika i stegovnim postupcima prema službenicima i namještenicima u državnim odvjetništvima.
+(4) U godišnjem izvješću državna odvjetništva mogu ukazati na poteškoće koje imaju u radu, nedostatke u zakonodavstvu, unutarnjem poslovanju državnog odvjetništva ili sudova, te prema potrebi dostaviti i odgovarajuće prijedloge za izmjene.
+3. Posebna izvješća

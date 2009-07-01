@@ -1,0 +1,5 @@
+# Članak 64.
+(1) Godišnju listu istražitelja kojima se u prethodnom kaznenom postupku može povjeravati provođenje dokaznih radnji (članak 213. stavak 1. i 2. i članak 219. stavak 2. ZKP) određuje županijski državni odvjetnik za područje nadležnosti tog državnog odvjetništva.
+(2) Prije sastavljanja godišnje liste istražitelja županijski državni odvjetnik zatražit će od policije i drugih državnih tijela dostavljanje popisa istražitelja koji su imenovani (određeni) za obavljanje tih poslova u skladu s posebnim zakonom.
+(3) Državno odvjetništvo Republike Hrvatske dostavlja godišnje liste istražitelja čelnicima državnih tijela čiji se službenici na tim listama nalaze.
+(4) Na godišnju listu istražitelja određuju se osobe koje s obzirom na predmete istraživanja i posebne propise koji se primjenjuju imaju odgovarajuće iskustvo i sposobnosti za istraživanje kaznenih djela u svezi kojih se dokazne radnje provode, kao i za suradnju s drugim državnim tijelima koja sudjeluju u provođenju prethodnog postupka.

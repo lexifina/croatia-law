@@ -1,0 +1,2 @@
+# Članak 75.
+Glavni državni odvjetnik daje naputke za sporazumijevanje o sankciji s okrivljenikom. Napucima se propisuje način vođenja pregovora, pisani oblik i sadržaj sporazuma čiji je sastavni dio izjava za donošenje presude na temelju sporazuma stranaka te način izračunavanja umanjene zakonske kazne koja bi se trebala primijeniti u konkretnom slučaju. Napucima se mogu propisati slučajevi u kojima se državni odvjetnici ne mogu sporazumijevati o donošenju presude na temelju sporazuma stranaka.

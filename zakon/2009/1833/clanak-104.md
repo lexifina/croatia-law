@@ -1,0 +1,3 @@
+# Članak 104.
+(1) Razriješeni državni odvjetnik nastavlja s radom kao zamjenik državnog odvjetnika u državnom odvjetništvu u kojem je imenovan za zamjenika državnog odvjetnika.
+(2) Kada Glavni državni odvjetnik smatra da razriješenoga Glavnoga državnog odvjetnika ili državnog odvjetnika, koji je nastavio raditi kao zamjenik državnog odvjetnika treba razriješiti zbog počinjenoga teškoga stegovnog djela (članak 138. stavak 2.), podnijet će zahtjev za pokretanje stegovnog postupka, kao i donijeti odluku o njegovom udaljenju od dužnosti, odnosno po potrebi predložiti njezino donošenje (članak 173.).

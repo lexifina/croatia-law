@@ -1,0 +1,4 @@
+# Članak 28.
+(1) Ministar nadležan za poslove pravosuđa donosi Poslovnik državnog odvjetništva na prijedlog Glavnoga državnog odvjetnika.
+(2) Poslovnikom državnog odvjetništva propisuju se pravila o unutarnjem ustroju, uredskom poslovanju, vođenju upisnika i pomoćnih knjiga, o vođenju evidencija, obrascima za rad, pravila o priopćenjima za javnost, provedbena pravila o vođenju postupka i dostavljanju odluka na jeziku i pismu etničke i nacionalne zajednice ili manjine, pravila o nadzoru materijalnog i financijskog poslovanja i redovitog obavljanja poslova u državnim odvjetništvima, rasporedu radnog vremena u toku radnog dana ili tjedna, pravila o vođenju statistika, standardi poslovnog prostora i opreme i druga pitanja od značaja za unutarnje poslovanje državnih odvjetništva.
+(3) Poslovnikom državnog odvjetništva propisuje se i način obavljanja zajedničkih poslova za više državnih odvjetništva, kao i s drugim tijelima ako imaju sjedište u istoj zgradi.

@@ -1,0 +1,8 @@
+# Članak 158.
+(1) Nakon proteka roka iz članka 157. stavka 3. ovoga Zakona, odnosno prije isteka roka iz članka 157. stavka 4. ovoga Zakona, Glavni državni odvjetnik zatražit će mišljenje o svim kandidatima za zamjenike državnog odvjetnika od nadležnih državnih odvjetnika i kolegija. Uz poziv na davanje mišljenja, Glavni državni odvjetnik će dostaviti prijave s dokazima i podacima koje su kandidati priložili te podatke o radu kandidata kojima raspolaže Državno odvjetništvo Republike Hrvatske.
+(2) Mišljenje o kandidatima daju:
+- za zamjenika općinskoga državnog odvjetnika, županijski državni odvjetnik, državni odvjetnik toga državnog odvjetništva i kolegij općinskoga državnog odvjetništva u kojem je oglašeno slobodno mjesto zamjenika,
+- za zamjenika županijskoga državnog odvjetnika Glavni državni odvjetnik, državni odvjetnik toga državnog odvjetništva i kolegij županijskoga državnog odvjetništva u kojem je oglašeno slobodno mjesto zamjenika,
+- za zamjenika Glavnoga državnog odvjetnika, Glavni državni odvjetnik i Kolegij Državnoga odvjetništva Republike Hrvatske.
+(3) Glavni državni odvjetnik će od nadležnoga državnog tijela zatražiti za kandidate koji su dali pisanu izjavu da na to pristaju, provođenje sigurnosne provjere. Podaci o rezultatima sigurnosne provjere službena su tajna i mogu se koristiti samo u postupku imenovanja zamjenika državnih odvjetnika.
+(4) Glavni državni odvjetnik dostavit će Vijeću listu kandidata koji ispunjavaju uvjete za imenovanje s mišljenjima iz članka 159. stavka 3. ovoga Zakona. Uz listu kandidata koji ispunjavaju uvjete Vijeće će se izvijestiti o svim prijavljenim kandidatima, a dostavit će mu se i prijave kandidata sa svim relevantnim podacima prikupljenima u postupku davanja mišljenja.«

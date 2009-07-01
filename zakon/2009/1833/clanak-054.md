@@ -1,0 +1,5 @@
+# Članak 54.
+(1) Državni je odvjetnik ovlašten zamjeniku državnog odvjetnika istoga državnog odvjetništva ili nižem državnom odvjetništvu dati obvezatni naputak za rad i postupanje kada je to potrebno radi jedinstvene primjene zakona, kao i nalog i uputu za rješavanje pojedinog predmeta.
+(2) Državni je odvjetnik ovlašten preuzeti obavljanje svih ili pojedinih poslova od zamjenika državnog odvjetnika istoga državnog odvjetništva ili od nižega državnog odvjetništva. Iz opravdanih razloga državni odvjetnik može povjeriti postupanje u pojedinačnom predmetu drugom zamjeniku državnog odvjetnika istoga državnog odvjetništva ili drugom nižem državnom odvjetništvu.
+(3) Obvezatni naputak u pojedinačnom predmetu ili odluka o preuzimanju pojedinačnog predmeta od nižega državnog odvjetništva ili o njegovom povjeravanju drugom nižem državnom odvjetništvu, daje se u pisanom obliku s obrazloženjem.
+(4) Ako obvezatni naputak ili odluku iz stavka 3. ovoga članka iz posebnih razloga, a naročito uslijed opasnosti od odgode, odmah nije bilo moguće dati u pisanom obliku, takav usmeni naputak će se naknadno potvrditi u pisanom obliku.

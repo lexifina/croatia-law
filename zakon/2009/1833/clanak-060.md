@@ -1,0 +1,4 @@
+# Članak 60.
+(1) Ako su ispunjeni uvjeti pod kojima nadležni sud prema Kaznenom zakonu počinitelja kaznenog djela mora osloboditi kazne, državni odvjetnik može odustati od kaznenog progona.
+(2) Ako su ispunjeni uvjeti pod kojima prema Kaznenom zakonu nadležni sud počinitelja može osloboditi od kazne državni odvjetnik može, uz suglasnost suca istrage ili drugog nadležnog suca u postupku, odustati od kaznenog progona. Sudac će prije rješenja o suglasnosti, ispitati žrtvu odnosno oštećenika. Protiv toga rješenja žalba nije dopuštena.
+(3) Državni odvjetnik može sukladno stavku 2. ovoga članka odustati od kaznenog progona za kazneno djelo protiv državljana Republike Hrvatske počinjeno u inozemstvu ili kada je protiv državljana Republike Hrvatske pred inozemnim ili međunarodnim kaznenim sudom pokrenut kazneni postupak.

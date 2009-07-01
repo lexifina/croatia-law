@@ -1,0 +1,7 @@
+# Članak 184.
+(1) Državno odvjetništvo može imati savjetnike i više savjetnike.
+(2) Savjetnici pomažu državnom odvjetniku ili njegovom zamjeniku u radu, izrađuju nacrte odluka, uzimaju na zapisnik prijave, podneske i izjave građana te obavljaju samostalno ili pod nadzorom i po uputama državnog odvjetnika ili njegova zamjenika druge stručne poslove predviđene zakonom i propisima donesenim na osnovi zakona.
+(3) Za savjetnika u općinskom i županijskom državnom odvjetništvu može biti primljena osoba koja ima završen sveučilišni diplomski studij prava i položen pravosudni ispit.
+(4) Za višeg državnoodvjetničkog savjetnika u općinskom i županijskom državnom odvjetništvu može biti imenovana osoba koja ima završen sveučilišni diplomski studij prava, položen pravosudni ispit i koja je radila najmanje dvije godine kao državnoodvjetnički ili sudski savjetnik, državni odvjetnik ili zamjenik državnog odvjetnika, odvjetnik ili javni bilježnik, odnosno osoba koja je radila na drugim pravnim poslovima nakon položenoga pravosudnog ispita najmanje pet godina.
+(5) Državnoodvjetnički savjetnik u Državnom odvjetništvu Republike Hrvatske, može biti osoba koja ima položen pravosudni ispit i najmanje dvije godina radila kao državnoodvjetnički savjetnik.
+(6) Viši državnoodvjetnički savjetnik u Državnom odvjetništvu Republike Hrvatske može biti osoba koja je najmanje šest godina radila kao pravosudni dužnosnik ili bila državnoodvjetnički savjetnik najmanje osam godina nakon položenog pravosudnog ispita.

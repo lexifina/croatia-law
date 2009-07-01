@@ -1,0 +1,2 @@
+# Članak 6.
+Glavni državni odvjetnik Republike Hrvatske (u daljnjem tekstu: Glavni državni odvjetnik), državni odvjetnik te zamjenik Glavnoga državnog odvjetnika ili zamjenik državnog odvjetnika (u daljnjem tekstu: zamjenik državnog odvjetnika) ne smije biti pozvan na odgovornost za izraženo pravno mišljenje u predmetu koji mu je dodijeljen u rad, osim ako se radi o kršenju zakona od strane Glavnoga državnog odvjetnika, državnog odvjetnika ili zamjenika državnog odvjetnika koje je kažnjivo djelo.
