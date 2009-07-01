@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Prikupljanje obavijesti od djeteta poduzima posebno osposobljeni policijski službenik, u pravilu u nazočnosti roditelja, skrbnika, udomitelja, osobe kojoj je dijete povjereno na čuvanje i odgoj ili stručne osobe centra za socijalnu skrb, po mogućnosti u domu djeteta.
+(2) Roditelj, skrbnik, udomitelj, osoba kojoj je dijete povjereno na čuvanje i odgoj ili stručna osoba centra za socijalnu skrb neće biti nazočni prikupljanju obavijesti od djeteta ili maloljetnika ako postoji sumnja da su počinili kazneno djelo ili prekršaj na štetu djeteta ili maloljetnika.
+(3) Iznimno od stavka 1. ovog članka, prikupljanje obavijesti od djeteta smije se obaviti i u školskim prostorima u prisutnosti ravnatelja škole ili pedagoga, odnosno psihologa kojeg on odredi i to samo ako osoba iz stavka 1. ovog članka ne može ili ne želi doći.
