@@ -1,0 +1,2 @@
+# Članak 92.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti odredbe: Pravilnika o postupku i načinu davanja odobrenja za stavljanje u promet gotovog veterinarskog lijeka, ljekovitog dodatka i veterinarsko-medicinskog proizvoda (»Narodne novine« 142/2003) i Pravilnika o načinu provjere kakvoće veterinarskog lijeka, ljekovitog dodatka i veterinarsko-medicinskog proizvoda, te o načinu njihova čuvanja i vođenja očevidnika o provedenoj provjeri kakvoće (»Narodne novine« 148/1999).

@@ -1,0 +1,4 @@
+# Članak 2.
+1) Ovaj se Pravilnik primjenjuje na VMP, uključujući i premikse za izradu ljekovite hrane za životinje, koji se stavljaju u promet, a pripremljeni su industrijski ili koristeći metodu koja uključuje određene industrijske procese.
+2) Ovaj se Pravilnik primjenjuje u slučajevima kada se proizvod, uzimajući u obzir sva njegova svojstva, može istodobno smatrati VMP i proizvodom koji uređuju posebni propisi.
+3) Ne dovodeći u pitanje odredbe stavka 1. ovoga članka, ovaj se Pravilnik primjenjuje na djelatne tvari koje se koriste kao polazni materijal u skladu s člancima 46., 47. i 75. ovoga Pravilnika, te na određene tvari koje se mogu koristiti kao VMP koji imaju anabolična, antinfektivna, antiparazitska, protuupalna, hormonalna ili psihotropna svojstva u skladu s člankom 64. ovoga Pravilnika.

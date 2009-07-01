@@ -1,0 +1,7 @@
+# Članak 33.
+1) Ne dovodeći u pitanje odredbe stavaka 4. i 5. ovoga članka odobrenje za stavljanje VMP u promet važi 5 godina.
+2) Odobrenje se može produljiti na daljnjih 5 godina nakon isteka prethodnog odobrenja na temelju ponovne procjene odnosa rizika i koristi. Radi izdavanja odobrenja ovoga stavka nositelj odobrenja mora nadležnom tijelu dostaviti ažurirane dokumente glede kakvoće, neškodljivosti i djelotvornosti, uključujući i sve izmjene i dopune u odnosu na izdano odobrenje za stavljanje VMP u promet najmanje 6 mjeseci prije isteka roka važenja odobrenja za stavljanje VMP u promet u skladu sa stavkom 1. ovoga članka. Nadležno tijelo u svako doba može tražiti od podnositelja zahtjeva dostavu navedenih podataka.
+3) Nakon produljenja odobrenja za stavljanje VMP u promet, odobrenje se izdaje na neograničeno vrijeme, osim ako nadležno tijelo na temelju opravdanih razloga u odnosu na farmakovigilanciju u skladu sa stavkom 2. ovoga članka izda odobrenje za razdoblje od 5 godina.
+4) Odobrenje prestaje važiti ako nositelj odobrenja 3 godine od njegovog izdavanja VMP ne stavi u promet.
+5) Ako odobreni VMP, koji je prethodno bio stavljen u promet, nije u prometu 3 uzastopne godine, odobrenje izdano za taj VMP prestaje važiti.
+6) U iznimnim okolnostima i iz opravdanih razloga, posebice radi zaštite zdravlja ljudi i životinja, nadležno tijelo može odobriti odstupanja od stavaka 4. i 5. ovoga članka.

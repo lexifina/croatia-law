@@ -1,0 +1,9 @@
+# Članak 66.
+Iznimno od odredaba članka 9. i ne dovodeći u pitanje odredbe članka 63.ovoga Pravilnika, veterinari koji pružaju usluge u Republici Hrvatskoj, a nakon pristupanja Republike Hrvatske Europskoj uniji, u državi članici, mogu sa sobom uzeti i primijeniti na životinjama male količine VMP koje ne prelaze dnevne količine, uz iznimku imunoloških VMP koji nisu odobreni za uporabu u Republici Hrvatskoj pod uvjetom da je udovoljeno sljedećim uvjetima:
+(a) da su odobrenja za stavljanje VMP u promet u skladu sa člancima 5., 7. i 8. ovoga Pravilnika, izdala nadležna tijela države članice u kojoj veterinar ima poslovni nastan;
+(b) da VMP veterinar prevozi u originalnom pakovanju;
+(c) da VMP namijenjeni primjeni na životinjama od kojih se proizvodi hrana imaju isti kvalitativni i kvantitativni sastav djelatne tvari kao i VMP koji su odobreni u skladu s člancima 5., 7. i 8. ovoga Pravilnika u Republici Hrvatskoj;
+(d) da je veterinar koji pruža usluge u Republici Hrvatskoj dobro upoznat s dobrom veterinarskom praksom u Republici Hrvatskoj i da poštuje navedenu karenciju za odnosni VMP, osim ako se od njega opravdano očekuje da zna da je potrebno odrediti dužu karenciju kako bi se udovoljilo načelima te dobre veterinarske prakse;
+(e) da veterinar neće opskrbljivati VMP vlasnika ili posjednika životinja liječenih u Republici Hrvatskoj, osim ako je to dopušteno posebnim propisom. U navedenom slučaju veterinar može samo u tom slučaju i samo za životinje koje liječi isporučiti najmanju količinu VMP koje su nužne za izlječenje odnosne životinje;
+(f) veterinar mora voditi evidenciju o liječenim životinjama, dijagnozi, primijenjenim VMP, primijenjenim dozama, trajanju liječenja i karencijama. Ova evidencija mora biti dostupna za inspekciju nadležnom tijelu najmanje 5 godina;
+(g) izbor i količina VMP koje veterinar može ponijeti sa sobom ne smije prelaziti uobičajene dnevne potrebe dobre veterinarske prakse.

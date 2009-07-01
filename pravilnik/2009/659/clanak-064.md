@@ -1,0 +1,3 @@
+# Članak 64.
+1) VMP ili tvari koje se mogu uporabljivati kao VMP koji imaju anabolična, protuzarazna, antiparazitska, protuupalna, hormonalna ili psihotropna svojstva mogu posjedovati ili nadzirati samo ovlaštene osobe
+2) Nadležno tijelo vodi upisnik proizvođača i trgovaca koji imaju odobrenje za posjedovanje djelatnih tvari koje se mogu koristiti u proizvodnji VMP, a koje imaju svojstva navedena u stavku 1 ovoga članka. Navedene osobe moraju voditi evidenciju o svakoj trgovini tvarima koje se mogu koristiti u proizvodnji VMP, te je osigurati nadležnom tijelu za inspekciju najmanje tri godine.

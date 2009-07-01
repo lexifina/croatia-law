@@ -1,0 +1,11 @@
+# Članak 77.
+1) Zbog zaštite zdravlja ljudi i životinja, nositelj odobrenja za stavljanje imunoloških VMP u promet, na zahtjev nadležnog tijela, mora dostaviti Službenom medicinskom kontrolnom laboratoriju uzorke serija imunoloških VMP i/ili VMP u rasutom stanju radi kontrole prije stavljanja proizvoda u promet.
+2) Na zahtjev nadležnog tijela, nositelj odobrenja za stavljanje VMP u promet mora uz uzorke iz stavka 1. ovoga članka odmah dostaviti i izvješća o kontroli navedena u članku 76. stavku 2. ovoga Pravilnika.
+3) Nadležno tijelo obavještava države članice u kojima je VMP odobren za stavljanje u promet, kao i Europsko ravnateljstvo za kakvoću lijekova i zdravstvenu skrb (EDQM&HealthCare - engl. European Directorate for the Quality of Medicines & HealthCare) o namjeri da izvrši kontrolu odnosne serije ili serija.
+4) Nakon dostave izvješća o kontroli iz članka 76. stavka 2. ovoga Pravilnika, laboratorij odgovoran za kontrolu ponavlja na dostavljenim uzorcima sva ispitivanja koja je proizvođač izvršio na gotovom VMP sukladno s odobrenjem za stavljanje VMP u promet
+Ispitivanja koja laboratorij mora ponoviti u svrhu kontrole, ograničava se na opravdana ispitivanja, pod uvjetom da se s navedenim slože sve odnosne države članice, i prema potrebi Europsko ravnateljstvo za kakvoću lijekova.
+Za imunološke VMP odobrene temeljem posebnog propisa[37]32, ispitivanja koja se moraju ponoviti ograničavaju se uz suglasnost EMEA-e, mogu se smanjiti.
+Rezultati ispitivanja priznaju se u svim odnosnim državama članicama.
+5) Kontrola se obavlja u roku od 60 dana od zaprimanja uzoraka, osim ako se Europska komisija ne obavijesti da je za obavljanje ispitivanja nužno dulje razdoblje.
+6) Nadležno tijelo u navedenom roku, o rezultatima ispitivanja obavještava odnosne države članice, Europsko ravnateljstvo za kakvoću lijekova, nositelja odobrenja za stavljanje VMP u promet i, prema potrebi, proizvođača.
+7) Ukoliko nadležno tijelo utvrdi da serija VMP nije u skladu s kontrolnim izvješćem proizvođača ili specifikacijama u skladu s odobrenjem za stavljanje VMP u promet, poduzima nužne mjere protiv nositelja odobrenja za stavljanje VMP u promet, i prema potrebi proizvođača, te o navedenom obavještava države članice u kojima je VMP odobren.

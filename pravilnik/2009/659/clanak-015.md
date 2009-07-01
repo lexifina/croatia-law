@@ -1,0 +1,2 @@
+# Članak 15.
+U slučaju VMP koji sadržavaju djelatne tvari koje se rabe u sastavu odobrenih VMP, ali koje do sada nisu bile primijenjene u kombinaciji u terapijske svrhe nije nužno osigurati znanstvene reference za svaku pojedinačnu djelatnu tvar. Potrebno je dostaviti rezultate novih predklinička ili klinička ispitivanja koja se odnose na navedenu kombinaciju, a ako je nužno ispitivanja neškodljivosti i na rezidue u skladu s člankom 12. stavkom 4. točkom (j) alinejom prvom ovoga Pravilnika.

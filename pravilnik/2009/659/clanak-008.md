@@ -1,0 +1,4 @@
+# Članak 8.
+1) U slučaju osobito opasne zarazne bolesti, nadležno tijelo može privremeno dozvoliti uporabu imunoloških VMP koji nemaju odobrenje za stavljanje u promet kada ne postoji odgovarajući medicinski proizvod.
+2) U slučaju postupanja u skladu sa stavkom 1. ovoga članka nadležno tijelo prethodno obavještava Europsku komisiju o detaljnim uvjetima za uporabu.
+3) Kada se životinja uvozi iz treće države ili izvozi u treću državu u skladu s važećim veterinarsko-zdravstvenim propisima, nadležno tijelo može dozvoliti uporabu, za pojedinu životinju, imunološkog VMP koji nema odobrenje za stavljanje u promet, u Republici Hrvatskoj, ukoliko je odobren u skladu sa propisima treće države. Nadležno tijelo mora poduzeti sve odgovarajuće mjere u odnosu na nadzor uvoza i uporabe navedenog imunološkog proizvoda.

@@ -1,0 +1,6 @@
+# Članak 27.
+U postupku koji se provodi na temelju zahtjeva podnesenog u skladu s člancima 12. do 17. ovoga Pravilnika, nadležno tijelo:
+1. provjerava da li je dostavljena dokumentacija u skladu s člancima 12. - 17. ovoga Pravilnika i utvrđuje da li su ispunjeni uvjeti za izdavanje odobrenja za stavljanje VMP u promet.
+2. može poslati medicinski proizvod, polazni materijal za izradu VMP i međuproizvode ili druge sastojke na ispitivanje u neki ovlašteni laboratorij za VMP, radi utvrđivanja da su metode ispitivanja koje je koristio proizvođač i opisao u dokumentaciji priloženoj zahtjevu u skladu s člankom 12. stavkom 4. točkom (i) ovoga Pravilnika;
+3. može provjeriti, savjetujući se s nacionalnim referentnim laboratorijem ili referentnim laboratorijem Europske unije prikladnost analitičke metode koja se primjenjuje za otkrivanje rezidua, koju je naveo podnositelj zahtjeva za potrebe članka 12. stavka 4. točke (j) alineje druge ovoga Pravilnika;
+4. može zatražiti od podnositelja zahtjeva da podnese dodatne podatke u skladu člancima 12. do 17. ovoga Pravilnika. U navedenom slučaju rok naveden u članku 25. ovoga Pravilnika ne teče dok se ne dostave traženi dodatni podaci, kao ni u razdoblju određenom podnositelju zahtjeva za davanje usmenog ili pismenog obrazloženja.

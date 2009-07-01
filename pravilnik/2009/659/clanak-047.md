@@ -1,0 +1,2 @@
+# Članak 47.
+Za potrebe ovoga Pravilnika, proizvodnja djelatnih tvari koje se uporabljuju kao polazni materijali podrazumijeva cjelovitu ili djelomičnu proizvodnju ili uvoz djelatne tvari koja se uporabljuje kao polazni materijal, u smislu Priloga Glave I. Dijela 2. Odjeljka C ovoga Pravilnika te razne postupke dijeljenja ili pakiranja prije ugrađivanja u VMP, uključujući i ponovno pakiranje i označavanje koje provodi distributer polaznog materijala.
