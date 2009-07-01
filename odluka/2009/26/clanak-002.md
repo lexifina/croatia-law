@@ -1,0 +1,6 @@
+## Definicija jamstvenoga kapitala
+# Članak 2.
+(1) Jamstveni kapital kreditne institucije jest iznos izvora sredstava koji je kreditna institucija dužna održavati radi sigurnoga i stabilnog poslovanja, odnosno ispunjenja obveza prema svojim vjerovnicima.
+(2) Jamstveni kapital kreditne institucije jest zbroj osnovnoga kapitala i dopunskoga kapitala I, umanjen za odbitne stavke.
+(3) Iznimno od stavka 2. ovog članka, u smislu odredbi Zakona o kreditnim institucijama kojima se uređuje velika izloženost odnosno ulaganje u kapital nefinancijskih institucija i materijalnu imovinu, jamstveni kapital kreditne institucije jest zbroj osnovnoga kapitala i dopunskoga kapitala I, umanjen za odbitne stavke, pri čemu se pri izračunu dopunskoga kapitala I ne uključuje stavka iz članka 15. točke 4. ove Odluke, dok se kao odbitne stavke ne uzimaju u obzir stavke iz članka 27. stavka 1. točaka 6. i 7. ove Odluke.
+(4) Iznimno od stavaka 2. i 3. ovog članka, jamstveni kapital kreditne institucije koja se koristi dopunskim kapitalom II za pokrivanje kapitalnih zahtjeva za tržišne rizike jest zbroj osnovnoga kapitala, dopunskoga kapitala I i dopunskoga kapitala II, umanjen za odbitne stavke. Izračun jamstvenoga kapitala definiran ovim stavkom primjenjuje se samo u svrhu pokrivanja kapitalnih zahtjeva za tržišne rizike i izračuna stope adekvatnosti jamstvenoga kapitala.
