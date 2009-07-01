@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Kreditna institucija dužna je izvješće iz članka 7. ove Odluke dostaviti Hrvatskoj narodnoj banci za svako tromjesečje i to u obliku i na način koje Odlukom o nadzornim izvještajima kreditnih institucija propiše Hrvatska narodna banka. Pri tome tromjesečja završavaju na dane 31. ožujka, 30. lipnja, 30. rujna i 31. prosinca.
+(2) Kreditna institucija dužna je izvješće iz članka 7. ove Odluke dostaviti petnaest dana od završetka svakog tromjesečja odnosno najkasnije do 15. travnja, 15. srpnja, 15. listopada odnosno 15. siječnja. Smatra se da je banka dostavila izvješća u propisanim rokovima ako su izvješća prošla formalnu i logičku kontrolu Hrvatske narodne banke.

@@ -1,0 +1,2 @@
+# Članak 4.
+Pod dugom pojedinog dužnika za potrebe ove Odluke podrazumijevaju se svi dospjeli i nedospjeli kratkoročni i dugoročni krediti, potraživanja s osnove obračunatih kamata i naknada, ulaganja u dužničke vrijednosne papire, ostala potraživanja koja se odnose na pojedinog dužnika i potencijalne obveze koje je kreditna institucija preuzela prema pojedinoj osobi odnosno po nalogu pojedine osobe.
