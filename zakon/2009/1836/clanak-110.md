@@ -1,0 +1,3 @@
+# Članak 110.
+U članku 543. stavak 2. mijenja se i glasi:
+»(2) Ako sudac pojedinac ocijeni da podaci u optužnici ne pružaju dovoljno osnova za izdavanje kaznenog naloga ili da se prema tim podacima može očekivati izricanje neke druge kazne ili mjere, a ne one koju je zatražio državni odvjetnik, po primitku optužnice u sudu postupit će prema članku 542. stavku 4. ovog Zakona. Optuženiku će se dostaviti optužnica uz pouku o pravu na odgovor, uz obavijest da sud nije prihvatio zahtjev državnog odvjetnika za izdavanje kaznenog naloga. Optužno vijeće će ispitati optužnicu prema članku 542. stavku 5. ovog Zakona.«

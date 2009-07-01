@@ -1,0 +1,5 @@
+# Članak 16.
+U članku 76. stavak 2. mijenja se i glasi:
+»(2) Ako drukčije nije određeno ovim Zakonom, na obrazloženi prijedlog državnog odvjetnika sudac istrage može, do podizanja optužnice, odlučiti da se pisma, poruke i razgovori okrivljenika i branitelja nadziru:
+1) u postupku za sljedeća kaznena djela iz Kaznenog zakona: ubojstva (članak 90.), teškog ubojstva (članak 91.), otmice (članak 125.), ubojstva najviših državnih dužnosnika (članak 138.), otmice najviših državnih dužnosnika (članak 139.), kaznenih djela protiv vrijednosti zaštićenih međunarodnim pravom (Glava XIII.), krivotvorenja novca (članak 274.) i pranja novca (članak 279.),
+2) u postupku za kaznena djela za koja postoje osnove sumnje da ih je počinila grupa ljudi ili zločinačka organizacija ako postoji vjerojatnost da bi razgovor okrivljenika s braniteljem doveo do prikrivanja kaznenih djela, pomoći počinitelju nakon kaznenog djela ili ako u pogledu okrivljenika postoje okolnosti koje upućuju na opasnost da će ponoviti kazneno djelo, dovršiti pokušano kazneno djelo ili počiniti teže kazneno djelo kojim prijeti.«

@@ -1,0 +1,2 @@
+# Članak 33.
+U članku 129. stavku 2. na kraju stavka dodaje se rečenica koja glasi: »Ako drukčije nije propisano ovim Zakonom (članak 118. stavak 1.) sjednica vijeća održat će se i ako uredno pozvani državni odvjetnik i branitelj ne dođu na sjednicu, ili ako branitelj nije uredno primio poziv zbog toga jer je promijenio boravište ne obavijestivši o tome sud, ili zbog toga što mu dostava nije bila moguća zbog njegove nedostupnosti.«
