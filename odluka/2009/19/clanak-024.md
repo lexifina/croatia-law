@@ -1,0 +1,5 @@
+## Proces klasifikacije plasmana
+# Članak 24.
+(1) Radi procjenjivanja kreditnog rizika kreditna je institucija dužna uspostaviti odgovarajući proces klasifikacije plasmana u skupine prema nadoknadivosti, uzimajući u obzir minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditne institucije. Proces klasifikacije plasmana je prikladan ako se temelji na kvantitativnim, i gdje je moguće, kvalitativnim kriterijima, pri čemu treba uzeti u obzir obilježja određenog plasmana. Spomenuti kriteriji trebaju omogućiti jasnu klasifikaciju rizika u odgovarajuće skupine.
+(2) Kreditna institucija dužna je osigurati kontinuirano praćenje i preispitivanje primjerenosti procesa klasifikacije plasmana u skupine prema nadoknadivosti.
+(3) Kreditna institucija dužna je provoditi ispravke vrijednosti za bilančne stavke i rezerviranja za rizične izvanbilančne stavke u skladu s Međunarodnim računovodstvenim standardima odnosno Međunarodnim standardima financijskog izvještavanja, uzimajući u obzir minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditne institucije.

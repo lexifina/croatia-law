@@ -1,0 +1,6 @@
+## Praćenje i izvješćivanje o rizicima
+# Članak 14.
+(1) Kreditna institucija dužna je uspostaviti sustav redovitog praćenja i izvješćivanja o izloženosti rizicima i profilu rizičnosti kreditne institucije.
+(2) Kreditna institucija dužna je uspostaviti sustav praćenja i izvješćivanja o rizicima na način da svim relevantnim razinama upravljanja u kreditnoj instituciji omogući pravodobne, točne i dovoljno detaljne informacije koje su potrebne za donošenje poslovnih odluka odnosno sigurno i stabilno poslovanje kreditne institucije.
+(3) Informacije iz stavka 2. ovog članka trebaju najmanje sadržavati odgovarajuće informacije o izloženosti rizicima iz članka 4. stavka 2. ove Odluke, uključujući informacije o profilu rizičnosti i njegovim promjenama, podatke o značajnim internim gubicima, informacije o mjerama i aktivnostima koje se namjeravaju poduzeti ili jesu poduzete radi ovladavanja rizikom, informacije o iznimkama od postupanja u skladu s internim aktima, uključujući i iznimke od utvrđene sklonosti preuzimanju rizika te informacije o pozitivnim i negativnim promjenama u pokazateljima poslovanja koje ukazuju ili mogu ukazivati na promjenu izloženosti riziku.
+(4) Kreditna institucija dužna je na odgovarajući način pratiti rizike koje je prenijela na treću stranu.
