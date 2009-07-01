@@ -1,0 +1,6 @@
+## Ulaganje u kapital nefinancijskih institucija i materijalnu imovinu grupe kreditnih institucija u RH
+# Članak 17.
+(1) Ulaganje grupe kreditnih institucija u RH u kapital jedne nefinancijske institucije i ukupna ulaganja grupe kreditnih institucija u RH u kapital nefinancijskih institucija ne smiju prelaziti ograničenja iz članka 157. stavaka 1. i 2. Zakona o kreditnim institucijama.
+(2) Ukupna ulaganja grupe kreditnih institucija u RH u materijalnu imovinu ne smiju prelaziti ograničenje iz članka 157. stavka 3. Zakona o kreditnim institucijama.
+(3) Za izračun ograničenja ulaganja grupe kreditnih institucija u RH u kapital nefinancijskih institucija uzima se konsolidirani jamstveni kapital grupe kreditnih institucija u RH. Iznos ulaganja grupe kreditnih institucija u RH izračunava se iz konsolidiranih financijskih izvještaja grupe kreditnih institucija u RH i u skladu s Odlukom o ograničenju ulaganja kreditnih institucija u kapital nefinancijskih institucija i materijalnu imovinu.
+(4) Izuzeci od ograničenja ulaganja i dopuštena prekoračenja iz članaka 158. i 159. Zakona o kreditnim institucijama na odgovarajući način se primjenjuju za izračun ograničenja ulaganja na konsolidiranoj osnovi za grupu kreditnih institucija u RH.

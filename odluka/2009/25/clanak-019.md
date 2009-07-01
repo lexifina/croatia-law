@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Kreditna institucija iz članka 127. stavka 3. i 4. Zakona o kreditnim institucijama kao i značajna podređena kreditna institucija koju je kao takvu, na temelju članka 127. stavka 6. istoga Zakona i članka 6. Odluke o javnoj objavi bonitetnih zahtjeva kreditnih institucija, odredila Hrvatska narodna banka dužne su javno objavljivati informacije iz područja određenih člankom 176. Zakona o kreditnim institucijama na razini grupe kreditnih institucija u RH i to u skladu s odredbama Glave XIV. Zakona o kreditnim institucijama.
+(2) Odredbe Odluke o javnoj objavi bonitetnih zahtjeva kreditnih institucija na odgovarajući se način primjenjuju na grupu kreditnih institucija u RH.

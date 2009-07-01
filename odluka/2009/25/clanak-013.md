@@ -1,0 +1,12 @@
+## Prebijanje pozicija kod izračuna konsolidiranih kapitalnih zahtjeva za tržišne rizike
+# Članak 13.
+(1) Kod izračuna konsolidiranih inicijalnih kapitalnih zahtjeva za pozicijske rizike te prekoračenje dopuštenih izloženosti dopušteno je prebijanje pozicija istih stavaka različitih predznaka iz knjiga trgovanja institucija iz grupe kreditnih institucija iz RH ako su utvrđene u skladu s Glavom III. Odluke o adekvatnosti jamstvenog kapitala kreditnih institucija.
+(2) Kod izračuna konsolidiranih inicijalnih kapitalnih zahtjeva za valutni rizik dopušteno je prebijanje dugih i kratkih otvorenih pozicija u pojedinoj valuti između institucija iz grupe kreditnih institucija iz RH ako su utvrđene u skladu s Glavom III. Odluke o adekvatnosti jamstvenog kapitala kreditnih institucija.
+(3) Kod izračuna konsolidiranih inicijalnih kapitalnih zahtjeva za robni rizik dopušteno je prebijanje pozicija u istoj robi različitih predznaka između institucija iz grupe kreditnih institucija iz RH ako su utvrđene u skladu s dijelom 5. ili dijelom 7. Glave III. Odluke o adekvatnosti jamstvenog kapitala kreditnih institucija.
+(4) Prebijanja pozicija iz stavaka 1. do 3. ovog članka dopuštena su između osoba iz grupe kreditnih institucija u RH sa sjedištem u Republici Hrvatskoj ili državi članici i drugih članica grupe sa sjedištem u Republici Hrvatskoj ili državi članici koje su dobile odobrenje za rad od nadležnog nadzornog tijela ako su ispunjeni svi sljedeći uvjeti:
+1) navedene osobe održavaju propisanu adekvatnost jamstvenog kapitala/kapitala na pojedinačnoj osnovi i
+2) ne postoje stvarna ili pravna ograničenja za zaključivanje ugovora kojima se jamči uzajamna financijska potpora između tih institucija.
+(5) Za potrebe izračuna konsolidiranih inicijalnih kapitalnih zahtjeva iz stavka 1. do 3. ovog članka članica grupe može prebiti pozicije s drugom osobom iz iste grupe sa sjedištem u trećoj državi ako su ispunjeni svi sljedeći uvjeti:
+1) osoba iz grupe sa sjedištem u trećoj državi je institucija koja ima odobrenje za rad nadležnog tijela i ispunjava bonitetne zahtjeve koje bi prema propisima Europske unije bila dužna ispunjavati,
+2) osoba na pojedinačnoj osnovi posluje u skladu s propisima koji na jednak način uređuju adekvatnost jamstvenog kapitala kao i propisi Europske unije i
+3) ne postoje prema pravu te treće države stvarna ili pravna ograničenja za prijenos kapitala unutar te grupe.
