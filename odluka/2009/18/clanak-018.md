@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Kreditna institucija koja se za izračun iznosa osiguranja iz članka 13. ove Odluke koristi metodama iz članka 16. ove Odluke, dužna je provoditi periodično testiranje otpornosti na stres koncentracije kreditnog rizika, uključujući i testiranje otpornosti na stres iznosa naplate po pojedinim instrumentima osiguranja.
+(2) Periodični testovi otpornosti na stres moraju uzeti u obzir rizike koji proizlaze iz potencijalnih promjena na tržištu koje mogu negativno utjecati na adekvatnost jamstvenoga kapitala kreditne institucije i rizike koji proizlaze iz naplate kolaterala u stresnim uvjetima.
+(3) Kreditna institucija dužna je osigurati da su testovi otpornosti na stres koje primjenjuje, odgovarajući i prikladni za procjenu rizika iz stavaka 1. i 2. ovog članka.
+(4) Ako rezultati testiranja na stres pokazuju da bi iznos naplate u slučaju realizacije kolaterala bio manji od iznosa izračunatoga u skladu s metodama iz članka 16. ove Odluke, kreditna institucija je dužna prilagoditi iznos osiguranja iz članka 13. ove Odluke.

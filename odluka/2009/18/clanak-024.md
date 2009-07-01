@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Kreditna institucija iz članka 1. stavka 4. ove Odluke dužna je polugodišnje izvješćivati Hrvatsku narodnu banku o velikim izloženostima te davateljima kolaterala i pružateljima nematerijalne kreditne zaštite na konsolidiranoj osnovi na obrascima na način i u rokovima kako je to propisano Odlukom o nadzornim izvještajima kreditnih institucija.
+(2) Kreditna institucija koja za izračun kapitalnoga zahtjeva za kreditni rizik primjenjuje IRB pristup, dužna je u izvješću na konsolidiranoj osnovi iz stavka 1. ovog članka navesti 20 najvećih izloženosti prema jednoj osobi ili grupi povezanih osoba.
+(3) U izvještaj iz stavka 2. ovog članka kreditna institucija dužna je uključiti 20 najvećih izloženosti nakon umanjenja za iznimke iz članka 10. do članka 15. ove Odluke, odnosno nakon primjene metoda iz članka 16. ove Odluke.

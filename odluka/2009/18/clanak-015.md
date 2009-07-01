@@ -1,0 +1,2 @@
+# Članak 15.
+Iznimno od članka 13. stavka 1. ove Odluke, kreditna institucija može priznati izuzeća iz stavka 1. tog članka i ako postoji valutna neusklađenost izloženosti i instrumenata osiguranja, pod uvjetom da je izloženost, odnosno dio izloženosti za koju se priznaje izuzeće, pokrivena instrumentima osiguranja iz članka 13. stavka 1. ove Odluke u iznosu od najmanje 120% u odnosu na izloženost.

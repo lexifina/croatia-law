@@ -1,0 +1,2 @@
+# Članak 11.
+Iznimno od članka 150. do 152. Zakona o kreditnim institucijama, ograničenje izloženosti ne odnosi se na izloženosti prema središnjim državama, središnjim bankama, međunarodnim organizacijama, multilateralnim razvojnim bankama i javnim državnim tijelima koje bi, u skladu s odredbama dijela 2.2. glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija, neosigurane dobile ponder 0%.

@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Kreditna institucija je dužna donijeti i primjenjivati politike i postupke kojima će propisati način identificiranja, analize i praćenja izloženosti prema davateljima kolaterala i pružateljima nematerijalne kreditne zaštite radi utvrđivanja potencijalnoga koncentracijskog rizika te propisati postupke, ako se takav rizik utvrdi.
+(2) Za potrebe izračuna koncentracijskog rizika iz stavka 1. ovog članka:
+1) kolateral je instrument kreditne zaštite propisan u dijelu 4.2.1. glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija osim potraživanja, ostale materijalne imovine i najma/leasinga iz članka 338. iste Odluke, neovisno o stupnju kreditne kvalitete i minimalnim zahtjevima za priznavanje,
+2) nematerijalna kreditna zaštita jesu garancije/jamstva, kontragarancije i kreditne izvedenice propisane u dijelu 4.3. glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija, neovisno o stupnju kreditne kvalitete te minimalnim zahtjevima za priznavanje,
+3) davatelj kolaterala je osoba koja izdaje vrijednosni papir dan u zalog kreditnoj instituciji ili osoba koja daje svoj depozit, nekretninu ili drugi oblik kolaterala kreditnoj instituciji u zalog odnosno dopušta fiducijarni prijenos vlasništva i
+4) pružatelj nematerijalne zaštite je osoba propisana u dijelu 4.3. glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija, neovisno o stupnju kreditne kvalitete pružatelja.
