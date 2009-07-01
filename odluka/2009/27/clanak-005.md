@@ -1,0 +1,7 @@
+## Obveznici javnog objavljivanja na konsolidiranoj osnovi
+# Članak 5.
+(1) Kreditna institucija sa sjedištem u Republici Hrvatskoj koja ima položaj nadređene kreditne institucije u EU dužna je na konsolidiranoj osnovi ispunjavati obveze iz ove Odluke u skladu sa člankom 127. stavkom 3. Zakona o kreditnim institucijama.
+(2) Kreditna institucija sa sjedištem u Republici Hrvatskoj koja je podređena financijskom holdingu koji ima položaj nadređenog financijskog holdinga u EU dužna je na konsolidiranoj osnovi ispunjavati obveze iz ove Odluke u skladu sa člankom 127. stavkom 4. Zakona o kreditnim institucijama. Ako je više kreditnih institucija u Republici Hrvatskoj podređeno istom nadređenom financijskom holdingu u EU, obveza javnog objavljivanja informacija odnosi se na onu kreditnu instituciju koja ima najveći bilančni iznos.
+(3) Iznimno od stavka 1. i 2. ovog članka, Hrvatska narodna banka može od kreditne institucije sa sjedištem u Republici Hrvatskoj koja je podređena kreditnoj instituciji koja ima položaj nadređene kreditne institucije u EU ili financijskom holdingu koji ima položaj nadređenog financijskog holdinga u EU i koja je značajna za bankovni sustav Republike Hrvatske (u nastavku teksta: značajna podređena kreditna institucija) zahtijevati ispunjavanje obveza iz članka 13. i 14. ove Odluke u skladu sa člankom 127. stavkom 5. Zakona o kreditnim institucijama.
+Kriteriji za utvrđivanje značajnosti podređene
+kreditne institucije

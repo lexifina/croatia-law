@@ -1,0 +1,13 @@
+## Rizik druge ugovorne strane
+# Članak 15.
+(1) Kreditna institucija dužna je objaviti kvalitativne i kvantitativne informacije o izloženosti riziku druge ugovorne strane iz dijela 6.2. Glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija.
+(2) Kvalitativne informacije o izloženosti riziku druge ugovorne strane jesu:
+1) opis metodologije korištene za interno raspoređivanje kapitala i dodjeljivanje kreditnih limita izloženostima riziku druge ugovorne strane,
+2) politike za upravljanje instrumentima osiguranja te prilagodbu izloženosti zbog rizika druge ugovorne strane,
+3) politike koje se odnose na izloženost općem i specifičnom korelacijskom riziku i
+4) utjecaj pada kreditnog rejtinga kreditne institucije na iznos instrumenta osiguranja zbog kojeg bi trebala povećati iznos postojećeg instrumenta osiguranja.
+(3) Kvantitativne informacije o izloženosti riziku druge ugovorne strane jesu:
+1) bruto pozitivna fer vrijednost ugovora, pozitivni učinci netiranja, netirane tekuće izloženosti riziku druge ugovorne strane, iznosi instrumenata osiguranja koje drži kreditna institucija i neto izloženost riziku druge ugovorne strane proizašla iz izvedenih financijskih instrumenata. Bruto pozitivna fer vrijednost ugovora zbroj je fer vrijednosti svih ugovora na temelju kojih je kreditna institucija izložena prema drugoj ugovornoj strani, osim učinka zaključenih ugovora o netiranju odnosno maksimalni iznos gubitka kreditne institucije koji bi mogao nastati u slučaju neizvršavanja obveza svih drugih ugovornih strana i to pod uvjetom da ne postoji mogućnost netiranja ugovora i da kreditna institucija nije primila nikakav instrument osiguranja od druge ugovorne strane. Neto izloženost riziku druge ugovorne strane proizašla iz izvedenih financijskih instrumenata izloženost je na osnovi transakcija koje se odnose na izvedene financijske instrumente nakon uzimanja u obzir pozitivnih učinaka zaključenih ugovora o netiranju i ugovora o instrumentu osiguranja,
+2) iznosi izloženosti riziku druge ugovorne strane u skladu s metodama iz dijela 6.2.2. do 6.2.5. Glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija, neovisno o primijenjenoj metodi,
+3) zamišljena vrijednost kreditnih izvedenica koje se koriste kao instrument zaštite i podjela tekuće izloženosti riziku druge ugovorne strane prema vrstama izloženosti riziku druge ugovorne strane i
+4) zamišljena vrijednost kreditnih izvedenica, podijeljenih prema korištenju (za vlastiti kreditni portfelj ili za aktivnosti posredovanja), uključujući daljnju razradu u okviru pojedine vrste kreditnih izvedenica s obzirom na to je li kreditna institucija primatelj ili pružatelj kreditne zaštite.
