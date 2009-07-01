@@ -1,0 +1,2 @@
+# Članak 2.
+Hrvatska narodna banka obavlja superviziju kreditnih institucija u skladu sa Zakonom o kreditnim institucijama, propisima donesenim na temelju tog Zakona, drugim zakonima i propisima donesenim na temelju tih zakona, sporazumom o suradnji sklopljenim s nadležnim nadzornim tijelom države članice ili nadležnim nadzornim tijelom treće države te sporazumom sklopljenim s drugim nadležnim nadzornim tijelom u Republici Hrvatskoj.

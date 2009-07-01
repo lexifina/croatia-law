@@ -1,0 +1,4 @@
+## Dodatak zapisniku o obavljenom izravnom nadzoru
+# Članak 12.
+(1) Ako ovlaštena osoba utvrdi da su primjedbe kreditne institucije osnovane, sastavit će dodatak zapisniku kojim će izmijeniti nalaz iznesen u zapisniku. Ako ovlaštena osoba utvrdi da primljene primjedbe na zapisnik kreditne institucije nisu osnovane, niti su dokazi dostatni za izmjenu nalaza izravnog nadzora, u roku od 8 radnih dana od dana primitka primjedaba pismeno će obavijestiti predsjednika uprave kreditne institucije da se primjedbe ne prihvaćaju.
+(2) Dodatak zapisniku sastavlja se u roku od 8 radnih dana od dana primitka primjedaba koje su uzete u obzir i dostavlja se osobama navedenima u članku 11. stavku 1. ove Odluke. Na dodatak zapisniku na odgovarajući se način primjenjuje članak 11. stavak 2. i 3. ove Odluke. Na dodatak zapisniku kreditna institucija ne može stavljati primjedbe.
