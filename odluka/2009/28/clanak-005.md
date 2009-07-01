@@ -1,0 +1,6 @@
+## Ograničenje ulaganja
+# Članak 5.
+(1) Ulaganje kreditne institucije u kapital jedne nefinancijske institucije ne smije prelaziti 15% jamstvenoga kapitala kreditne institucije.
+(2) Ukupna ulaganja kreditne institucije u kapital svih nefinancijskih institucija ne smiju prelaziti 30% jamstvenoga kapitala kreditne institucije.
+(3) Pod ulaganjima iz stavka 1. i 2. ovog članka smatra se izravno ulaganje na osnovi kojeg kreditna institucija stječe udio u kapitalu ili glasačkim pravima u nefinancijskoj instituciji.
+(4) Sva ulaganja kreditne institucije u dionice, druge vlasničke vrijednosne papire ili udjele u kapitalu nefinancijskih institucija, osim ulaganja iz članka 6. ove Odluke, uključuju se u izračun ograničenja iz stavka 1. i 2. ovog članka neovisno o tome je li riječ o ulaganjima na temelju kojih kreditna institucija nema kontrolu ni značajan utjecaj na pravnu osobu čije je dionice, druge vlasničke papire ili udjele stekla (ulaganja svrstana u financijsku imovinu raspoloživu za prodaju i financijsku imovinu koja se pri početnom priznavanju definira kao imovina koja se vrednuje po fer vrijednosti kroz račun dobiti i gubitka) ili je riječ o ulaganjima u povezana društva, ovisna društva, odnosno o drugim ulaganjima, a koja se računovodstveno iskazuju u skladu s Međunarodnim računovodstvenim standardima (u nastavku teksta: MRS) 27, 28 i 31.
