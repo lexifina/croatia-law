@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Na zahtjev zainteresirane stranke Ministarstvo izdaje potvrdu da su primjerci stečeni prije datuma stupanja na snagu odredbi Konvencije za predmetnu vrstu, odnosno odredbi ovoga Pravilnika (pretkonvencijski status).
+(2) Pod datumom stjecanja živih ili mrtvih primjeraka uzetih iz prirode podrazumijeva se onaj datum kada su isti uzeti iz prirodnog okruženja, a pod datumom stjecanja dijelova i derivata podrazumijeva se datum kada su legalno postali nečije vlasništvo. Ako nije moguće utvrditi datum stjecanja primjerka, za takav primjerak ne može se utvrditi pretkonvencijski status.

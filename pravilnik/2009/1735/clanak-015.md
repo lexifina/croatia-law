@@ -1,0 +1,6 @@
+## Etiketa za razmjenu znanstvenog materijala
+# Članak 15.
+(1) Dopuštenja iz članaka 3., 4., 5., 6., 8. i 9. ovoga Pravilnika nisu obvezna ako se radi o konzerviranim, osušenim ili na neki drugi način pohranjenim muzejskim primjercima, primjercima iz herbarija, te živom biljnom materijalu, u slučaju kada se oni posuđuju, daruju ili razmjenjuju u nekomercijalne svrhe među znanstvenicima i znanstvenim ustanovama koje su registrirane pri nadležnom tijelu države u kojoj se nalaze, a pošiljka predmetnih primjeraka je označena etiketom iz Priloga XIV ovoga Pravilnika. Znanstvenici i znanstvene ustanove moraju popuniti sva polja etikete te o upotrebi svake etikete obavijestiti Ministarstvo, na način da mu dostave za to predviđeni dio etikete.
+(2) Znanstvenike i znanstvene ustanove iz stavka 1. ovoga članka Ministarstvo upisuje u evidenciju, tako da im dodjeljuje evidencijski broj koji se sastoji od pet znakova, od kojih su prva dva dvoslovni ISO-kôd države, a zadnje tri znamenke su jedinstveni broj znanstvenika ili znanstvene ustanove.
+(3) Znanstvenici i znanstvene ustanove dužni su voditi inventar primjeraka iz Priloga I do IV ovoga Pravilnika te omogućiti Ministarstvu uvid u isti.
+(4) Ministarstvo obavještava Tajništvo Konvencije o znanstvenicima ili znanstvenim ustanovama registriranim za razmjenu znanstvenog materijala.

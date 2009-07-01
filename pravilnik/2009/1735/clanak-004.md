@@ -1,0 +1,9 @@
+# Članak 4.
+(1) Primjerci vrsta navedenih u Prilogu II mogu se unijeti u Republiku Hrvatsku nakon predočenja uvoznog dopuštenja koje je izdalo Ministarstvo i okončanja postupka u graničnoj carinskoj ispostavi na mjestu unošenja.
+(2) Uvozno dopuštenje može se izdati samo u skladu s propisanim ograničenjima iz ovoga Pravilnika i uz sljedeće uvjete:
+- da je podnositelj zahtjeva dostavio dokumentaciju kojom se dokazuje kako su primjerci nabavljeni u skladu sa zakonskim propisima o zaštiti predmetnih vrsta u državi izvoza ili ponovnog izvoza. U slučaju uvoza primjeraka vrsta navedenih u Dodacima Konvencije, podnositelj zahtjeva prilaže izvozno dopuštenje ili potvrdu o ponovnom izvozu koju je u skladu s Konvencijom izdalo nadležno tijelo države izvoza ili države ponovnog izvoza, ili njihov preslik,
+- da je podnositelj zahtjeva predočio dokumente kojima se dokazuje da je smještaj za žive primjerke u odredištu odgovarajuće opremljen za njihovo primjereno držanje i skrb,
+- da je podnositelj zahtjeva pružio zadovoljavajući dokaz da će svaki živi primjerak biti otpremljen na način koji na najmanju moguću mjeru smanjuje rizik ozljede, narušavanja zdravlja ili okrutnog postupanja,
+- da je nadležno znanstveno tijelo, na osnovi dostupnih podataka i dokumentacije, utvrdilo da unošenje u Republiku Hrvatsku nema štetan utjecaj na status očuvanja vrste ili na veličinu teritorija koji zauzima odgovarajuća populacija te vrste uzimajući u obzir sadašnju ili predviđenu razinu trgovine. Ovo mišljenje vrijedi za sljedeće uvoze sve dok se naprijed navedene okolnosti značajno ne promijene,
+- da je Ministarstvo nakon savjetovanja s nadležnim znanstvenim tijelom utvrdilo da nema nikakvih drugih čimbenika koji se odnose na očuvanje vrsta, a koji su protivni uvjetima izdavanja uvozne dozvole.
+(3) Uvozno dopuštenje iz stavka 2. ovoga članka izdaje Ministarstvo na zahtjev stranke. Zahtjev se podnosi sukladno članku 36. Pravilnika.

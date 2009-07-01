@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuje se postupak i uvjeti za izdavanje rješenja o unosu, iznosu, izvozu ili uvozu i unosu s mora te potvrda za ponovni izvoz divljih svojti, utvrđuju popisi svojti za koje se donose rješenja ili izdaju potvrde, propisuje sadržaj i način podnošenja zahtjeva, sadržaj i način podnošenja Obavijesti o uvozu, opća i posebna ograničenja pri uvozu, način označavanja životinja ili pošiljki, način zbrinjavanja oduzetih primjeraka, tijela nadležna za provedbu i nadzor, vođenje evidencije, izrada izvješća te drugi uvjeti potrebni za odvijanje prekograničnog prometa divljim svojtama sukladno Konvenciji o međunarodnoj trgovini ugroženim vrstama divlje faune i flore kojeg je Republika Hrvatska stranka kao i uvjeti trgovine i uzgoja.
+(2) Odredbe ovoga Pravilnika primjenjuju se i na derivate i dijelove divljih svojti.
+(3) Odredbe ovoga Pravilnika kojima se uređuje uzgoj i trgovina divljih svojti ne primjenjuju se na vrste iz Priloga I za koje postoji oznaka da su lovne vrste. Na trgovinu i uzgoj ovih vrsta primjenjuju se odredbe Zakona o lovstvu.
