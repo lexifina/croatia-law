@@ -1,0 +1,6 @@
+# Članak 24.
+(1) Ako se uz osnove sumnje da je počinjeno kazneno djelo za koje se progon poduzima po službenoj dužnosti, pojave naznake organiziranog kriminaliteta ili korupcije, policija će odmah o tome izvijestiti nadležno državno odvjetništvo i u dogovoru s tim državnim odvjetništvom poduzeti bez odgode potrebne radnje i o tome izvijestiti Ured.
+(2) Nakon primitka obavijesti iz stavka 1. ovoga članka, Ured može, ako ocijeni da je počinjeno kazneno djelo iz njegove nadležnosti, preuzeti rad u predmetu. O tome izvješćuje policiju i državno odvjetništvo koje je do tada postupalo u predmetu.
+(3) Glavni državni odvjetnik može naputkom odrediti da se u državnim odvjetništvima koja imaju u radu veći broj predmeta iz stavka 1. ovoga članka, odredi zamjenik koji će policiji davati upute i za poduzimanje potrebnih radnji i mjera, te po potrebi provoditi druge izvide.
+(4) Ako državno odvjetništvo iz stavka 1. ovoga članka smatra da ne postoje naznake organiziranog kriminaliteta ili korupcije o tome izvješćuje Ured. Ured može zatražiti da Glavni državni odvjetnik da naputak iz članka 54. stavka 3. Zakona o državnom odvjetništvu.
+(5) Po dovršetku izvida, državno odvjetništvo iz stavka 1. ovoga članka ustupa predmet Uredu, ako smatra da je počinjeno kazneno djelo iz njegove nadležnosti ili izvješćuje Ured da će nastaviti postupak.

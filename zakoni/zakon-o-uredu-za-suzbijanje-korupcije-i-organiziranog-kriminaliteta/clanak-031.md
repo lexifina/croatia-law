@@ -1,0 +1,5 @@
+# Članak 31.
+(1) Za predmete kaznenih djela iz članka 21. ovoga Zakona u kojima je tužitelj Ured stvarno i mjesno su nadležni županijski sudovi u Osijeku, Rijeci, Splitu i Zagrebu, osim ako ovim Zakonom nije propisano drugačije.
+(2) Županijski sud u Osijeku nadležan je i za područja županijskih sudova u Požegi, Slavonskom Brodu, Virovitici i Vukovaru. Županijski sud u Rijeci nadležan je i za područja županijskih sudova u Gospiću i Puli. Županijski sud u Splitu nadležan je i za područja županijskih sudova u Dubrovniku, Šibeniku i Zadru. Županijski sud u Zagrebu nadležan je i za područja županijskih sudova u Bjelovaru, Čakovcu, Koprivnici, Karlovcu, Sisku, Varaždinu, Velikoj Gorici i Zlataru.
+(3) Sud iz stavka 1. ovoga članka nadležan je za suđenje u slučaju sudioništva u kaznenom djelu iz članka 21. ovoga Zakona, kao i u slučaju stjecaja s drugim kaznenim djelom.
+(4) Ako je više osoba optuženo za više kaznenih djela iz članka 21. ovoga Zakona i drugih kaznenih djela, a između počinitelja kaznenih djela postoji međusobna veza, provest će se jedinstveni postupak pred sudom iz stavka 1. ovoga članka.

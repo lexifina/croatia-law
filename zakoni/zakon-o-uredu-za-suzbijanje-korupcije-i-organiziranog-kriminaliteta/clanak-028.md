@@ -1,0 +1,4 @@
+# Članak 28.
+(1) Nadležni sudac izvršenja (članak 43. Zakona o izvršavanju kazne zatvora) dostavlja Uredu sva rješenja u postupku izvršavanja kazne zatvora osuđenika za kaznena djela iz članka 21. ovoga Zakona.
+(2) Po primitku rješenja o upućivanju na izdržavanje kazne zatvora, Ured može Zatvoru u Zagrebu – Odjelu za psihosocijalnu dijagnostiku i Središnjem uredu Uprave za zatvorski sustav, dostaviti mišljenje o povezanosti osuđenika s drugim članovima zločinačke organizacije, koje se koristi za izradu pojedinačnog programa izvršavanja kazne zatvora i za donošenje odluke o kaznionici ili zatvoru gdje će se kazna izvršavati.
+(3) Upravitelj kaznionice ili zatvora obavješćuje bez odgode Ured o svim važnim podacima o osuđeniku za kazneno djelo iz članka 21. ovoga Zakona za koje je saznao tijekom izdržavanja kazne zatvora.

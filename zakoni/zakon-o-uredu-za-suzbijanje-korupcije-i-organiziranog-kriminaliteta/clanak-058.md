@@ -1,0 +1,2 @@
+# Članak 58.
+Protiv rješenja iz članka 56. stavka 2. i članka 57. stavka 2. ovoga Zakona stranke se mogu žaliti u roku od tri dana od donošenja. Ako povodom žalbe protivnika protiv rješenja o mjeri osiguranja iz članka 55. ovoga Zakona sud to rješenje ukine, može izdati nalog pravnoj osobi koja obavlja poslove platnoga prometa da protivniku ili trećoj osobi na temelju naloga protivnika, uskrati s računa isplatu novčanog iznosa za koji je određena privremena mjera.
