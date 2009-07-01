@@ -1,0 +1,3 @@
+# Članak 3.
+(1) U smislu ove Odluke sudski sporovi koji se vode protiv kreditne institucije su postupci pokrenuti pred sudom ili drugim nadležnim tijelom u kojima je kreditna institucija pasivno legitimirana strana te čija posljedica, ako ih kreditna institucija izgubi, može biti povećanje obveza kreditne institucije i odljev novčanih sredstava za podmirenje tih obveza (u nastavku teksta: sudski sporovi).
+(2) Sudski sporovi u kojima je dužnik podnio protutužbu ili prijedlog radi proglašenja ovrhe nedopuštenom a koji se odnose na smanjenje njegovih obveza prema kreditnoj instituciji, nisu predmet ove Odluke.
