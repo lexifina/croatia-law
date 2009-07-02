@@ -1,0 +1,3 @@
+## Obavijesti o izvozu primljene od stranaka i drugih država
+# Članak 7.
+Obavijesti o izvozu koje Ministarstvo primi od nadležnih tijela stranaka Konvencije ili odgovarajućih nadležnih tijela drugih država za izvoz u Republiku Hrvatsku kemikalije čija proizvodnja, uporaba, rukovanje, potrošnja, prijevoz ili prodaja zabranjena ili strogo ograničena prema važećim propisima te stranke Konvencije ili druge države dostupne su u elektroničkom obliku u bazi podataka koju održava ministarstvo. Ministarstvo potvrđuje primitak prve obavijesti o izvozu koju primi za svaku kemikaliju od svake stranke Konvencije ili druge države.

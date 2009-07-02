@@ -1,0 +1,6 @@
+## Podaci o kretanju u provozu
+# Članak 14.
+Stranke Konvencije koje za kemikalije na koje se primjenjuje PIC postupak zajedno s podacima koje svaka stranka Konvencije zahtijeva posredstvom Tajništva zahtijevaju i podatke o kretanju u provozu iz Priloga VI. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+Kad se kemikalija iz popisa iz Dijela 3. Priloga I. ovoga Pravilnika prevozi kroz područje stranke Konvencije navedene u Prilogu VI. ovoga Pravilnika, izvoznik u mjeri do koje je to praktično, Ministarstvu dostavlja podatke koje stranka Konvencije zahtijeva u skladu s Prilogom VI. ovoga Pravilnika najkasnije 30 dana prije nego se dogodi prvo kretanje u provozu, a najkasnije osam dana prije svakog sljedećeg kretanja u provozu.
+Ministarstvo podatke koje je primilo od izvoznika prema stavku 2. ovoga članka zajedno sa svim dodatnim podacima koji su dostupni dostavlja Tajništvu.
+Ministarstvo podatke primljene prema stavku 3. ovoga članka upućuje imenovanim nacionalnim nadležnim tijelima stranaka Konvencije koje su te podatke tražile, zajedno sa svim dodatnim podacima koji su dostupni, najkasnije 15 dana prije prvoga kretanja u provozu odnosno prije svakog daljnjeg kretanja u provozu.
