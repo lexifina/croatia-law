@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Kada liječnik koji je liječio osiguranika smatra da je liječenje i medicinska rehabilitacija završena i da je nastala trajna nesposobnost za rad na poslovima koje osiguranik obavlja, upućuje osiguranika nadležnoj ustrojstvenoj jedinici Zavoda, kojoj dostavlja na utvrđenom obrascu svoje izvješće s nalazom i mišljenjem o zdravstvenom stanju i radnoj sposobnosti osiguranika i opće podatke o osiguraniku s opisom poslova koje obavlja.
+(2) »Izvješće s nalazom i mišljenjem liječnika« (obrazac: 1-IN) sadrži: anamnestičke i katamnestičke podatke o bolestima, podatke o mjestu, načinu i trajanju liječenja, podatke o sadašnjem zdravstvenom stanju osiguranika s nalazima o anatomsko-funkcionalnim oštećenjima, stupnju oštećenja, te prognozi, uz prilaganje odgovarajuće medicinske dokumentacije.
+(3) »Opći podaci o osiguraniku s opisom poslova koje obavlja« (obrazac: 2-IN) sadrži: opće podatke o osiguraniku, stručnoj spremi, mirovinskom stažu i podatke o poslovima koje obavlja.
+(4) Medicinska dokumentacija koju pribavlja liječnik mora biti u skladu s propisom Vlade Republike Hrvatske iz članka 112. stavka 2. Zakona.

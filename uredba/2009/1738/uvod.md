@@ -1,0 +1,1 @@
+Na temelju članka 114. i članka 116. stavka 6. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 102/98, 127/2000, 59/2001, 109/2001, 147/2002, 117/2003, 30/2004, 177/2004, 92/2005, 79/2007 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 19. lipnja 2009. godine donijela

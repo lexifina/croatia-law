@@ -1,0 +1,8 @@
+# Članak 21.
+(1) Nalaz i mišljenje o invalidnosti na temelju koje se stječe pravo prema Zakonu, zajedno s medicinskom i drugom dokumentacijom, ustrojstvena jedinica Zavoda dostavlja stručnom povjerenstvu radi revizije.
+(2) Revizija nalaza i mišljenja o invalidnosti obavlja se na temelju medicinske i druge dokumentacije u predmetu, a iznimno na temelju neposrednog pregleda osiguranika.
+(3) U slučaju iz stavka 2. ovoga članka, ako stručno povjerenstvo ocijeni da je to potrebno radi cjelovitog utvrđivanja stanja radne sposobnosti, uputit će osiguranika na pregled odnosno obradu medicinskoj ustanovi ili liječniku-specijalisti određenim od strane Ministarstva zdravstva i socijalne skrbi.
+(4) U obavljanju revizije donosi se mišljenje kojim se potvrđuje nalaz i mišljenje vještaka o invalidnosti ili daju primjedbe s uputom vještaku za izmjenu nalaza i mišljenja o invalidnosti.
+(5) Revizija nalaza i mišljenja o invalidnosti mora biti obavljena u roku od 10 dana od dana davanja nalaza i mišljenja vještaka o invalidnosti, a iznimno, u slučaju iz stavka 3. ovoga članka, u roku od 20 dana po dostavi dokumentacije.
+(6) Nakon obavljene revizije stručno povjerenstvo za reviziju vraća predmet, zajedno sa svojim mišljenjem, ustrojstvenoj jedinici Zavoda koja mu je dostavila predmet. Primjerak mišljenja stručno povjerenstvo za reviziju zadržava u svojoj evidenciji.
+(7) Po primitku predmeta, nadležna ustrojstvena jedinica Zavoda nastavlja s postupkom za ostvarivanje prava u Zavodu i o nalazu i mišljenju bez odgađanja obavještava izabranog doktora medicine primarne zdravstvene zaštite i nadležni područni ured Hrvatskog zavoda za zdravstveno osiguranje.
