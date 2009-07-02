@@ -1,0 +1,3 @@
+# Članak 17.
+1) Stručnjaci Europske zajednice mogu, kad je to potrebno u svrhu ujednačene primjene mjera na koje se odnosi ovaj Pravilnik te u suradnji s nadležnim tijelom, provoditi kontrole na licu mjesta. U tu svrhu mogu pregledati reprezentativan broj gospodarstava kako bi potvrdili da nadležno tijelo prati udovoljavanje odredbama ovoga Pravilnika. O rezultatima provedenih kontrola Europska komisija izvješćuje nadležno tijelo.
+2) Nadležno tijelo pruža stručnjacima Europske komisije svu potrebnu pomoć prilikom provedbe njihove zadaće. Opća pravila za provedbu ovoga članka donose se u skladu s posebnim postupkom*1.
