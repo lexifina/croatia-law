@@ -1,0 +1,15 @@
+## Uvjeti u pogledu prostora
+# Članak 12.
+Banka tkiva mora imati odgovarajuće prostore za izvođenje djelatnosti za koje se zahtijeva odobrenje. Ovisno o tkivu, trebaju postojati odijeljeni prostori ili sigurnosni sustav za odvajanje tkiva u karanteni, od tkiva koja su odbačena, i od tkiva prihvaćenih za primjenu.
+Ako navedena djelatnost uključuje obradu tkiva pod uvjetima izravne izloženosti okolišu, mora se osigurati odgovarajuća kvaliteta zraka i čistoće kako bi se opasnost od kontaminacije, uključujući međusobnu kontaminaciju, svela na najmanju moguću mjeru. Učinkovitost spomenutih mjera treba validirati i nadzirati.
+Kada su tijekom obrade tkiva izložena okolišu, bez naknadnog postupka mikrobiološke inaktivacije, zahtijeva se takva kvaliteta zraka u kojoj broj čestica i broj mikrobnih kolonija odgovara klasi A, kako je definirano u Prilogu 1. Europskih smjernica dobre proizvodne prakse (GMP), zajedno s prikladnim okolišem za obradu dotičnih tkiva, ali koji odgovara barem klasi D GMP-a u smislu broja čestica i mikrobnih kolonija.
+Manje stroži uvjeti za okoliš od uvjeta navedenih u stavku 3. ovoga članka mogu se dozvoliti ako:
+a) se primjenjuje validirana mikrobiološka inaktivacija ili validirana završna sterilizacija ili
+b) ako se dokaže da izloženost okolišu iz razreda A štetno utječe na zatražena svojstva tkiva ili
+c) ako se dokaže da način i tijek primjene tkiva predstavlja značajno manji rizik od prijenosa bakterijske ili gljivične infekcije na primatelja, nego u slučaju nepresađivanja tkiva ili
+d) ako je tehnički nemoguće izvesti zahtijevani postupak u okolišu iz razreda A (na primjer ako prostor u kojem se odvija obrada zahtijeva posebnu opremu koja nije u potpunosti usklađena s razredom A).
+Pri odobravanju manje strožih uvjeta iz stavka 4. ovoga članka potrebno je navesti na temelju koje točke se odobrenje traži te dokazati da odabrani okoliš postiže zahtijevanu kvalitetu i sigurnost uzimajući u obzir namjenu, način primjene i imunološko stanje primatelja.
+Ako djelatnosti za koje se zahtijeva ovlaštenje uključuju skladištenje tkiva, moraju se odrediti uvjeti skladištenja potrebni za održavanje zahtijevanih svojstava tkiva, uključujući relevantne parametre kao što je temperatura, vlažnost ili kvaliteta zraka.
+Kritični parametri (npr. temperatura, vlažnost, kvaliteta zraka) trebaju se nadzirati, pratiti i bilježiti kako bi se dokazala sukladnost s propisanim uvjetima skladištenja.
+U skladišnome prostoru treba jasno odvojiti i razlikovati tkiva prije otpuštanja, u karanteni, od onih koje su otpuštena i onih koja su odbačena, kako bi se spriječila zamjena i međusobna kontaminacija. U objektima za skladištenje tkiva u karanteni te otpuštenih tkiva moraju se prirediti fizički odvojeni prostori ili naprave za skladištenje, ili osigurati sigurna odvojenost unutar naprave za čuvanje određenih tkiva prikupljenih u skladu s posebnim kriterijima.
+Banka tkiva mora imati pisana pravila i postupke za kontrolirani pristup, čišćenje i održavanje, odlaganje otpada te za reorganizaciju rada u slučaju potrebe.

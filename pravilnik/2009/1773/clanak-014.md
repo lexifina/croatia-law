@@ -1,0 +1,16 @@
+## Uvjeti u pogledu medicinsko-tehničke opreme
+# Članak 14.
+Banka tkiva mora raspolagati odgovarajućom opremom i materijalima za djelatnost pohranjivanja tkiva.
+Oprema i materijali koji se upotrebljavaju trebaju biti dizajnirani i održavani isključivo u svrhe za koje su namijenjeni.
+Sva kritična oprema i tehnički uređaji moraju biti identificirani i validirani, redovito pregledani i preventivno održavani u skladu s uputama proizvođača. Ako oprema ili materijali utječu na kritične parametre obrade ili skladištenja (kao što su temperatura, tlak, broj čestica, razine mikrobiološke kontaminacije), moraju se identificirati i, po potrebi, biti predmet nadzora, upozorenja, alarma i korektivnih djelovanja kako bi se otkrile nepravilnosti i nedostaci te osiguralo održavanje kritičnih parametara u okviru prihvatljivih granica u svakome trenutku. Sva oprema s kritičnom mjernom funkcijom treba se baždariti na dostupni standard, ako postoji.
+Nova i popravljena oprema treba biti testirana prilikom instalacije i validirana prije uporabe. Rezultati testiranja moraju biti dokumentirani.
+Sva kritična oprema mora se redovito održavati, servisirati, čistiti, dezinficirati i sanitirati te se o tome mora voditi odgovarajuća evidencija.
+U banci tkiva moraju biti dostupni priručnici za rukovanje opremom te propisane detaljne upute o postupcima u slučaju neispravnosti ili kvara kritične opreme.
+U banci tkiva moraju biti određeni postupci za uporabu svih dijelova kritične opreme uz detaljne upute za postupanje u slučaju nepravilnosti ili kvara. U postupcima za djelatnosti za koje se zahtijeva odobrenje, moraju biti detaljno opisane specifikacije za sve kritične materijale i reagense. Osobito se moraju definirati specifikacije za aditive (npr. otopine) i ambalažni materijal. Kritični reagensi i materijali moraju ispuniti dokumentirane zahtjeve i specifikacije.
+Postupci održavanja, čišćenja, dezinfekcije, popravljanja i kontrole kritične opreme trebaju biti propisani a podaci o obavljanju tih postupaka trebaju biti dokumentirani. Treba raspolagati odgovarajućom osobnom opremom i odjećom za zaštitu osoblja te čuvanja higijene.
+Banka tkiva treba imati propisane uvjete pohranjivanja tkiva i roka valjanosti za svaku vrstu tkiva posebno, uključujući i granične vrijednosti parametara koji su bitni za očuvanje svojstava stanica ili tkiva poput temperature, vlage ili kvalitete zraka.
+Banka tkiva treba raspolagati odgovarajućim prijenosnim spremnicima koji osiguravaju čuvanje tkiva u propisanim i kontroliranim uvjetima.
+Banka tkiva treba raspolagati sustavom za elektroničko vođenje propisane evidencije na način da se osigura identifikacija i sljedivost svih tkiva u bilo kojoj fazi djelatnosti za koju se traži ovlaštenje. Postupak identifikacije tkiva treba biti usklađen s nacionalnim sustavom šifriranja.
+Banka tkiva treba raspolagati sredstvima za kontrolu kvalitete okoliša u prostorima za pohranjivanje kako bi se izbjegla bilo kakva situacija koja bi mogla negativno utjecati na valjanost, integritet ili biološke karakteristike tkiva i sigurnost osoblja.
+Banka tkiva treba imati učinkovit i provjeren sustav za praćenje i dojavu ozbiljnih štetnih događaja i reakcija, te sustav za povlačenje tkiva.
+Banka tkiva treba imati standardizirani operativni postupak za svaki postupak za koje se traži ovlaštenje.
