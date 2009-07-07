@@ -1,0 +1,3 @@
+# Članak 111.
+Pododsjek za pisarnicu i arhivu obavlja poslove vođenja jedinstvenog urudžbenog zapisnika i upisnika predmeta upravnog postupka, organizira i provodi poslove statističke pismohrane, pismohrane pravnih poslova, računovodstva i tekućeg poslovanja, vodi arhivske knjige i popise gradiva, organizira predaju arhivskoga gradiva nadležnom arhivu, obavlja poslove vezane za izlučivanje gradiva, surađuje s djelatnicima nadležnog arhiva, kontrolira i pruža stručnu pomoć pismohranama statistika na lokalnoj (regionalnoj) razini te poslove prijama, dostave, otpreme, distribucije, poslove prijevoza, kontrole ispravnosti i održavanja službenih automobila.
+13.6.2. Pododsjek za opće i tehničke poslove

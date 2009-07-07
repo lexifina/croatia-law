@@ -1,0 +1,3 @@
+# Članak 95.
+Odsjek izrade programske podrške za diseminaciju podataka obavlja sljedeće stručne poslove: izrađuje kontrolne, dokumentacijske i publikacije tablice, kreira i održava web stranice, brine o zaštiti podataka, izrađuje programe za diseminaciju statističkih informacija putem različitih medija u tiskanoj i elektronskoj formi, odgovara na upite, šalje podatke u traženim formatu statističkim odjelima, Eurostatu i drugim korisnicima, prati informacije na web stranicama, tisku i ostalim medijima drugih statističkih ureda, obučava korisnike za korištenje statističkih podataka. To uključuje stalno učenje i primjenu novih informacijskih tehnologija i alata.
+12.4. Odjel informatičkih infrastruktura i podrške

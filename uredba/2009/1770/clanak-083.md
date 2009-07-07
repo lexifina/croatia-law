@@ -1,0 +1,8 @@
+# Članak 83.
+Odjel za odnose s korisnicima obavlja poslove koji se odnose na upravljanje odnosima s korisnicima, na odnose s javnošću i na uređenje internetskih stranica Zavoda.
+Odjel obavlja sljedeće stručne poslove: oglašavanje, organiziranje radionica i seminara za korisnike, priprema RSS-a, marketinška istraživanja, obuhvat postojećih i potencijalnih korisnika, odabir prikladnih promotivnih materijala, rad na jedinstvenom i standardiziranom vizualnom identitetu Zavoda, razvoj sustava za upravljanje odnosima s korisnicima i izvještajnim jedinicama, organizacija i izvedba konferencija za novinare, oblikovanje obavijesti za medije i priopćenja za javnost, priprema internih glasila ili biltena, uređivanje intranetske stranice Zavoda; zaprimanje zahtjeva za kupnju publikacija, pisanje ponuda, upisivanje u bazu korisnika, provjera plaćenih ponuda, slanje plaćenih publikacija poštom, elektroničkom poštom ili pouzećem, distribucija publikacija institucijama koje ih primaju bez naplate kao i njihova distribucija unutar odjela u Zavodu, evidencija zaliha te dostavljanje izvještaja o prodaji Odjelu za publicistiku kako bi se mogle planirati naklade, pretplata na publikacije, zaprimanje svih zahtjeva za posebnom obradom. Rješavanje jednostavnijih zahtjeva u Odsjeku prodaje i distribucije (podaci vanjske trgovine i drugi podaci kojima Odsjek raspolaže) te prosljeđivanje kompleksnijih zahtjeva stručnim odjelima.
+Za obavljanje dijela poslova iz stavka 1. ovog članka ustrojavaju se:
+11.3.1. Odsjek za odnose s javnošću i komunikaciju s korisnicima
+11.3.2. Odsjek prodaje i distribucije.
+11.3.1. Odsjek za odnose s javnošću i komunikaciju
+s korisnicima

@@ -1,0 +1,4 @@
+# Članak 61.
+Odjel obračuna BDP-a rashodna metoda obavlja sljedeće stručne poslove: obračun godišnjeg BDP-a u tekućim i stalnim cijenama te obračun i uključivanje sive ekonomije u službeni BDP, usklađivanje obračuna BDP-a prema rashodnoj metodi s obračunom BDP-a prema proizvodnoj metodi, obračun tromjesečne procjene BDP-a u tekućim i stalnim cijenama i usklađivanje tromjesečnog obračuna BDP-a s konačnim godišnjim podacima te izrada regionalnih računa kućanstava. Odjel radi izračun tromjesečne realne stope rasta i implicitnog deflatora BDP-a.
+Odjel surađuje s Odjelom za metodologije i baze podataka nacionalnih računa na razvoju i primjeni metodologija iz svog djelokruga rada, definira nove i redefinira postojeće izvore podataka. Aktivno surađuje i priprema podatke za sve odjele unutar Sektora ekonomskih statistika te surađuje sa ostalim Sektorima u Zavodu glede usklađivanja metodoloških pristupa i razmjene podataka.
+9.4. Odjel sektorskih računa

@@ -1,0 +1,4 @@
+# Članak 52.
+Odsjek statistike ekonomske aktivnosti stanovništva obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija, i obradu statističkih istraživanja, publiciranje i diseminaciju statis¬tičkih podataka i pokazatelja o ekonomski aktivnom stanovništvu, zaposlenim, nezaposlenim i neaktivnim osobama, te demografskim, obrazovnim i ekonomskim karakteristikama aktivnosti koje obavljaju, kao i o kvaliteti života i ekonomskom blagostanju stanovništva u Republici Hrvatskoj. Odsjek osigurava podatke koji se prikupljaju sljedećim istraživanjima: Anketa o radnoj snazi u tromjesečnoj periodici i na regionalnoj razini; godišnji Ad hoc modul kojega zakonski i metodološki propisuje Europska unija; Anketa o korištenju vremena, te osigurava izračun pripadajućih ekonomskih i socijalnih indikatora.
+8.6.2. Odsjek administrativne zaposlenosti,
+zarada i troška rada

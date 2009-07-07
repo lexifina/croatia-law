@@ -1,0 +1,6 @@
+# Članak 104.
+Odjel za ljudske resurse brine se o upravljanju kadrovima i njihovom razvoju, daje stručna mišljenja koja se odnose na državnu službu, obavlja kadrovske poslove za potrebe Zavoda vezane za pripremu plana prijama u državnu službu, prijam, raspoređivanje, premještaj i prestanak državne služe, izrađuje sva rješenja, odluke i ugovore iz radnih odnosa, brine o drugim pravima, obvezama i odgovornostima državnih službenika i namještenika, vodi očevidnik državnih službenika i namještenika i druge kadrovske evidencije, koordinira obavljanje kadrovskih poslova za Zavod, izrađuje i sudjeluje u izradi prijedloga uredbe o unutarnjem ustrojstvu Zavoda i pravilnika o unutarnjem redu, sudjeluje u izradi strategija, programa i planova izobrazbe za Zavod, sudjeluje u realizaciji programa stručnog usavršavanja i osposobljavanja službenika i namještenika, daje stručna mišljenja koja se odnose na državnu službu, izrađuje izvješća o stanju kadrova, daje stručnu pravnu pomoć svim ustrojstvenim jedinicama Zavoda.
+Za obavljanje dijela poslova iz stavka 1. ovoga članka ustrojavaju se:
+13.2.1. Odsjek za službeničke odnose
+13.2.2. Odsjek za razvoj i upravljanje kadrovima.
+13.2.1. Odsjek za službeničke odnose

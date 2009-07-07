@@ -1,0 +1,4 @@
+# Članak 73.
+Odsjek prostornih i ostalih statističkih registara obavlja sljedeće stručne poslove: vodi, ažurira i održava statistički registar prostornih jedinica; vodi nacionalnu klasifikaciju prostornih jedinica za statistiku (NKPJS) i razvija i primjenjuje geografski informacijski sustav (GIS); izrađuje grafičke prikaze statističkih podataka (iz područja demografije, statistike industrije i energije, građevinarstva, ugostiteljstva i turizma, robne razmjene, statistike cijena, poljoprivrede, šumarstva i ribarstva); izrađuje različite tematske karte i analize, temeljem statističkih podataka; priprema i izrađuje tehničku dokumentaciju za provedbu popisa i drugih statističkih istraživanja. Vodi projekte razvitka regionalnih, urbanih i lokalnih statistika te portreta regija, registra stanovništva i ostalih statističkih registara.
+10.3. Odjel klasifikacija, uzorkovanja, statističkih
+metoda i analiza

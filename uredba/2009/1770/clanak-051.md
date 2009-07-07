@@ -1,0 +1,7 @@
+# Članak 51.
+Odjel statistike tržišta rada obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija i klasifikacija, provedbu i obradu statističkih istraživanja, publiciranje i diseminaciju statističkih podataka i pokazatelja o ekonomski aktivnom stanovništvu, zaposlenima i nezaposlenima, te zaradama i trošku rada koji se ostvaruju u obavljanju ekonomskih aktivnosti. Razvija i implementira metodologije za statistike slobodnih radnih mjesta, strukture zarada, kvalitete života i korištenja vremena. Statističkim istraživanjima osiguravaju se u mjesečnoj periodici podaci o zaposlenima i nezaposlenima, stopi registrirane nezaposlenosti, prosječnim bruto i neto plaćama, u kvartalnoj periodici o indeksu troška rada, a u godišnjoj periodici podaci prema djelatnostima i razinama teritorijalnog ustrojstva o broju i strukturi zaposlenih prema demografskim, obrazovnim i ekonomskim obilježjima i plaće prema stupnju stručne spreme i prema spolu. U tromjesečnoj periodici i na regionalnoj razini osiguravaju se podaci Ankete o radnoj snazi.
+U četverogodišnjoj periodici osiguravaju se podaci o strukturi zarada, strukturi i visini troška rada.
+Za obavljanje dijela poslova iz stavka 1. ovoga članka ustrojavaju se:
+8.6.1. Odsjek statistike ekonomske aktivnosti stanovništva
+8.6.2. Odsjek administrativne zaposlenosti, zarada i troška rada.
+8.6.1. Odsjek statistike ekonomske aktivnosti stanovništva

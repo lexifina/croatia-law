@@ -1,0 +1,4 @@
+# Članak 62.
+Odjel sektorskih računa obavlja sljedeće stručne poslove: izrada tekućih računa po čistim djelatnostima za sve institucionalne sektore, izrada kapitalnog računa za sve institucionalne sektore, izrada bilance i njihovo usklađivanje s tekućim računima, s posebnim naglaskom na izradi nefinancijskih računa za sektor države neophodnih za izradu Izvješća o postupku prekomjernog deficita (EDP - Excessive deficit procedure notification).
+Odjel surađuje s Odjelom za metodologije i baze podataka nacionalnih računa na razvoju i primjeni metodologija iz svog djelokruga rada, definira nove i redefinira postojeće izvore podataka. Aktivno surađuje i priprema podatke za sve odjele unutar Sektora ekonomskih statistika te surađuje sa ostalim Sektorima u Zavodu glede usklađivanja metodoloških pristupa i razmjene podataka.
+9.5. Odjel za Tablice ponude i uporabe te Input/

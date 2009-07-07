@@ -1,0 +1,11 @@
+## 13. SEKTOR PRAVNIH, FINANCIJSKIH I OPĆIH POSLOVA
+# Članak 102.
+Sektor pravnih, financijskih i općih poslova obavlja upravne, pravne, financijsko planske, računovodstvene i opće poslove, poslove javne nabave, stručne poslove iz djelokruga Zavoda koji se odnose na pripremu i izradu nacrta prijedloga zakona, uredbi, pravilnika, naredbi, naputaka i ostalih provedbenih akata, daje stručna mišljenja po pitanjima primjene i provedbe zakona i drugih propisa, obavlja poslove planiranja i upravljanja kadrovima, obavlja upravne i stručne poslove koji se odnose na planiranje i zapošljavanje, praćenje stanja i predlaganje mjera za unaprjeđenje upravljanja kadrovima, sudjeluje u izradi i realizaciji programa stručnog usavršavanja i osposobljavanja službenika i namještenika, izrađuje planove potrebnih financijskih sredstava za rad Zavoda, brine o zakonitoj primjeni važećih materijalno-financijskih propisa, organizira i koordinira rad računovodstvenih poslova, sastavlja glavne financijske i statističke periodične izvještaje, izrađuje proračun kroz sustav Državne riznice, brine o racionalnom i svrsishodnom korištenju sredstava osiguranih u državnom proračunu, vodi financijsko knjigovodstvo Zavoda, obavlja i druge poslove u svezi s financiranjem i računovodstvenim poslovima, obavlja poslove nabave roba, usluga i radova, obavlja poslove upravljanja i gospodarenja nekretninama u vlasništvu Republike Hrvatske, koje su dane Zavodu na upravljanje i korištenje, vodi i ažurira dokumentaciju o nekretninama i očevidnik nekretnina, sudjeluje u pripremi i izradi izvješća i prijedloga za osiguranje potrebnih sredstava za adaptaciju i rekonstrukciju poslovnih objekata koje koristi Zavod, obavlja poslove provođenja mjera zaštite od požara sukladno Zakonu o zaštiti od požara, obavlja poslove koji proizlaze iz Zakona o zaštiti na radu, obavlja poslove ekonomata, održavanja poslovnih objekata, poslove sigurnosti, poslove jedinstvene pisarnice, pismohrane, distribucije, telefonske centrale i kantine.
+U Sektoru pravnih, financijskih i općih poslova ustrojavaju se:
+13.1. Odjel za pravne poslove
+13.2. Odjel za ljudske resurse
+13.3. Odjel za planiranje i izvršavanje proračuna
+13.4. Odjel za financijske i računovodstvene poslove
+13.5. Odjel za javnu nabavu
+13.6. Odjel za pisarnicu, opće poslove i zaštitu na radu.
+13.1. Odjel za pravne poslove

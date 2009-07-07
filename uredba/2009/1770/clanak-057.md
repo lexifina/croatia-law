@@ -1,0 +1,4 @@
+# Članak 57.
+Odsjek za investicije obavlja sljedeće stručne poslove: provodi godišnje istraživanje o investicijama u dugotrajnu imovinu od poduzeća i drugih organizacija u zemlji, ako su neposredni investitori. U istraživanju se prikupljaju podaci o izvršenim isplatama za investicije u dugotrajnu imovinu, vremenskom razgraničenju između isplata za investicije i ostvarenih investicija, investicija u novu dugotrajnu imovinu prema namjeni, prema Nacionalnoj klasifikaciji djelatnosti i prema tehničkoj strukturi. Odsjek obavlja pripremu, izradu i razvoj metodologija za potrebe istraživanja investicija, predlaže sadržaj obrasca i određuje reprezentativni dirigirani uzorak. Rezultati istraživanja omogućuju izračun BDP-a prema rashodnoj metodi, izračun Kapitalnog računa te služe kao podloga ostalim odjelima Sektora u njihovim izračunima.
+9.2. Odjel obračuna BDP-a proizvodna i
+dohodovna metoda

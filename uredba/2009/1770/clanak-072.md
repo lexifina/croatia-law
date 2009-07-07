@@ -1,0 +1,3 @@
+# Članak 72.
+Odsjek administrativnog poslovnog registra vodi Registar poslovnih subjekata u koji se upisuju svi poslovni subjekti (pravne osobe, tijela državne vlasti i tijela jedinica lokalne i područne (regionalne) samouprave) i njihovi dijelovi temeljem prijave i prateće dokumentacije. Razvrstava poslovne subjekte i njihove dijelove prema djelatnosti koju pretežito obavljaju u skladu s Nacionalnom klasifikacijom djelatnosti; vodi jedinstvenu bazu podataka i kartoteku za poslovne subjekte; izdaje svakom poslovnom subjektu obavijest o razvrstavanju, priprema i objavljuje podatke o broju i strukturi poslovnih subjekata upisanih u Registar.
+10.2.2. Odsjek prostornih i ostalih statističkih registara

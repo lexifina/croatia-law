@@ -1,0 +1,4 @@
+# Članak 43.
+Odjel statistike znanosti i tehnologije obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija i klasifikacija u skladu s međunarodnim statističkim standardima i nacionalnim interesima, pripremu, organizaciju i provedbu statističkih istraživanja, pripremu i izradu statističkih standarda, te primjenu istih, obradu i analizu podataka, izradu publikacija, diseminaciju i međunarodnu razmjenu podataka za područje statistika znanosti i tehnologije, istraživanja i razvoja.
+Statistike znanosti i tehnologije obuhvaćaju prikupljanje, obradu i diseminaciju podataka za područja istraživanja i razvoja (pravne osobe koje obavljaju aktivnost istraživanja i razvoja, i to u poslovnom i državnom sektoru, te u sektoru visokog obrazovanja), statistika inovacija (praćenje inovativnih aktivnosti poduzeća), proračunskih izdvajanja za istraživanje i razvoj, patenata, ljudskih resursa u znanosti i tehnologiji.
+8.4. Odjel statistike pravosuđa i uprave
