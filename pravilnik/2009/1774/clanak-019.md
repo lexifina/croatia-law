@@ -1,0 +1,3 @@
+## VII. ZAHTJEVI I SMJERNICE DOBRE PROIZVOĐAČKE PRAKSE
+# Članak 19.
+U proizvodnji lijekova uz odredbe ovoga Pravilnika u Republici Hrvatskoj primjenjuju se i Načela i smjernice dobre proizvođačke prakse za lijekove kao i dodatne posebnosti za pojedine postupke i oblike lijekova »The Rules Governing Medicinal Products in the European Union, Volume 4 - Good Manufacturing Practices, Medicinal Products for Human and Veterinary use, 1998 Edition, European Commission, Directorate General III - Industry, Pharmaceutical and Cosmetics« sa svim dopunama, koje su sastavni dio ovoga Pravilnika te se u prijevodu na hrvatski jezik objavljuju na web-stranici ministarstva.

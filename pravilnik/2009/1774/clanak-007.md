@@ -1,0 +1,9 @@
+## Osoblje
+# Članak 7.
+Na svakom mjestu proizvodnje proizvođač je obvezan osigurati dovoljan broj odgovarajuće osposobljenih radnika za postizanje ciljeva farmaceutskog osiguranja kakvoće, i to:
+- zaposlenu odgovornu osobu za puštanje serije lijeka u promet - magistra farmacije sa specijalizacijom iz ispitivanja i kontrole lijekova ili s najmanje pet godina iskustva na poslovima provjere kakvoće lijekova, a po čijem odobrenju se pojedine serije gotovog lijeka mogu staviti u promet. Odgovorna osoba za puštanje serije lijeka u promet za proizvodnju specifičnih lijekova i specifičnih farmaceutskih oblika može iznimno imati obrazovanje i iz drugih znanstvenih disciplina kao što su medicina, kemija, veterina, biologija i slično s najmanje pet godina iskustva na poslovima provjere kakvoće lijekova,
+- zaposlenu odgovornu osobu za kontrolu kakvoće lijeka koja ima odgovarajuće obrazovanje iz podstavka 1. ovoga članka s najmanje pet godina iskustva na poslovima provjere kakvoće lijekova. Odgovorna osoba za puštanje serije lijeka u promet može ujedno biti odgovorna osoba za provjeru kakvoće lijeka,
+- zaposlenu odgovornu osobu za proizvodnju gotovog lijeka - magistra farmacije sa specijalizacijom iz farmaceutske tehnologije ili s najmanje pet godina iskustva na poslovima proizvodnje lijekova,
+- zaposlenog magistra farmacije s najmanje jednogodišnjim iskustvom, pod čijim nadzorom se obavlja skladištenje i isporučivanje gotovih lijekova te skladištenje i izdavanje polaznih materijala,
+- zapošljavati radnike visoke stručne spreme odgovarajućeg usmjerenja najmanje s jednogodišnjim iskustvom, pod čijim nadzorom se proizvode gotovi lijekovi te obavlja ulazna, procesna i završna provjera kakvoće,
+- zapošljavati radnike sa završenim srednjoškolskim obrazovanjem odgovarajućeg usmjerenja, osposobljene za poslove tehničara i pomoćne tehničke poslove u svezi s neposrednom proizvodnjom i provjerom kakvoće lijekova.

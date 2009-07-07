@@ -1,0 +1,7 @@
+# Članak 16.
+U slučaju lijeka namijenjenog kliničkom ispitivanju, proizvođač je u suradnji s nositeljem odobrenja za provođenje kliničkog ispitivanja obvezan uspostaviti i primjenjivati sustav bilježenja i ocjenjivanja svih prigovora na ispitivani lijek, kao i djelotvoran sustav za brzo povlačenje lijeka.
+Proizvođač lijeka obvezan je evidentirati i ispitati svaki prigovor koji se odnosi na manjkavost lijeka iz stavka 1. ovoga članka te mora obavijestiti ministarstvo o svakom nedostatku koji može imati za posljedicu povlačenje ili neuobičajena ograničenja u primjeni lijeka.
+Za lijekove namijenjene kliničkom ispitivanju navode se sva mjesta ispitivanja, te ako je moguće i odredišne države.
+Ako lijek namijenjen kliničkom ispitivanju ima odobrenje za stavljanje u promet, proizvođač lijeka za kliničko ispitivanje u suradnji s nositeljem odobrenja za kliničko ispitivanje obvezan je obavijestiti nositelja odobrenja za stavljanje lijeka u promet o svim manjkavostima, koje bi mogle biti povezane s odobrenim lijekom.
+Nositelj odobrenja za provođenje kliničkog ispitivanje obvezan je uspostaviti mehanizam koji omogućuje brzu identifikaciju lijeka maskiranog za kliničko ispitivanje, u slučajevima kada je neophodno hitno povlačenje lijeka.
+Nositelj odobrenja za provođenje kliničkog ispitivanja osigurat će da u postupku iz stavka 5. ovoga članka identifikacija maskiranog lijeka bude provedena samo u onoj mjeri u kojoj je potrebno za zaštitu dobrobiti ispitanika.

@@ -1,0 +1,12 @@
+## Kontrola kakvoće
+# Članak 13.
+Proizvođač mora uspostaviti i održavati sustav kontrole kakvoće, a pod rukovođenjem osobe koja ima potrebne kvalifikacije i neovisna je od proizvodnje.
+Osoba iz stavka 1. ovog članka mora raspolagati s jednim ili više laboratorija provjere kakvoće s odgovarajućim osobljem i opremom za provođenje potrebnih ispitivanja (polaznih i pakovnih materijala, međuproizvoda i gotovih proizvoda). U te svrhe mogu se koristiti i usluge drugih za to osposobljenih laboratorija, koji ispunjavaju uvjete dobre proizvođačke prakse i odobreni su u postupku davanja proizvodne dozvole, a s kojima proizvođač ima sklopljen važeći pisani ugovor.
+U slučaju lijeka namijenjenog kliničkom ispitivanju naručitelj kliničkog ispitivanja mora osigurati da ugovorni laboratorij provede sve postupke sukladno dokumentaciji priloženoj uz zahtjev za provođenje kliničkog ispitivanja. Kada su lijekovi za kliničko ispitivanje uvezeni iz drugih država, nije obvezna dodatna provjera kakvoće.
+U okviru završne provjere gotovih lijekova, prije nego se pusti serija gotovog lijeka u promet ili lijeka za klinička ispitivanja, uz analitičke rezultate moraju se uzeti u obzir i sve druge informacije kao što su proizvodni uvjeti, rezultati procesne kontrole, provjera proizvodne dokumentacije i udovoljavanje lijeka postavljenim zahtjevima kakvoće uključujući i završno opremanje lijeka.
+Uzorke svake serije gotovog lijeka proizvođač je obvezan čuvati najmanje godinu dana nakon isteka roka valjanosti.
+Potrebno je čuvati dovoljno uzoraka svake serije lijeka za kliničko ispitivanje u zbirnom pakiranju i glavnih sastavnih dijelova ambalaže korištene za svaku seriju gotovog proizvoda, najmanje dvije godine po završetku ili službenom prekidu posljednjeg kliničkog ispitivanja, u kojem je bila serija korištena, ovisno o tome koje je razdoblje duže.
+Uzorke sirovina (osim otapala, plinova i vode) korištene za proizvodnju proizvođač je obvezan čuvati najmanje dvije godine nakon stavljanja lijeka u promet.
+Rok iz stavka 7. ovoga članka može biti kraći za sirovine koje nisu stabilne, a što mora biti navedeno u odgovarajućim zahtjevima kakvoće.
+Svi navedeni uzorci moraju biti na raspolaganju nadležnom tijelu.
+Za polazne sirovine i proizvode koji se proizvode pojedinačno ili u malim količinama ili njihovo čuvanje može izazvati posebne poteškoće, dogovorno s nadležnim tijelom mogu se utvrditi drugi uvjeti uzorkovanja i čuvanja.
