@@ -1,0 +1,7 @@
+## Nadležnost Službenog tijela
+# Članak 36.
+(1) Službeno tijelo provodi specifične poslove vezane uz kontrolu proizvodnje, stavljanja na tržište i kakvoće šumskog reprodukcijskog materijala pod uvjetom da nije, kao ni njegovi djelatnici, ni na koji način u sukobu interesa u odnosu na mjere koje na temelju ovoga Zakona poduzima.
+(2) Službeno tijelo može, uz suglasnost Ministarstva, dio poslova koje obavlja na temelju ovoga Zakona, putem pisanog sporazuma prenijeti na drugu pravnu osobu koja je posebnim propisom ovlaštena provoditi specifične poslove vezane uz kontrolu proizvodnje, stavljanja na tržište i kakvoće šumskog reprodukcijskog materijala, pod uvjetom da takva pravna osoba i njezini djelatnici ni na koji način nisu u sukobu interesa u odnosu na mjere koje na temelju ovoga Zakona poduzimaju.
+(3) Službeno tijelo za provođenje poslova iz stavka 1. ovoga članka mora biti stručno, prostorno i tehnički osposobljeno, što utvrđuje i nadzire Ministarstvo.
+(4) Službeno tijelo ne može, kao ni pravna osoba koja za njega obavlja dio poslova na temelju stavka 2. ovoga članka, registrirati šumski sjemenski objekt i ne smije se baviti poslovima proizvodnje, stavljanja na tržište i uvoza šumskog reprodukcijskog materijala, osim uvoza šumskog reprodukcijskog materijala za potrebe znanstvenoistraživačkog rada u šumarstvu.
+(5) Ministarstvo je u obvezi dostaviti Europskoj komisiji podatak o Službenom tijelu u Republici Hrvatskoj. Europska komisija taj podatak prosljeđuje svim državama članicama Europske unije.

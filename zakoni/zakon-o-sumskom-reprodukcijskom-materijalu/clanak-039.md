@@ -1,0 +1,5 @@
+## Posebni uvjeti uvoza šumskog reprodukcijskog materijala
+# Članak 39.
+(1) Kad je na teritoriju Republike Hrvatske zbog pomanjkanja odgovarajućeg šumskog reprodukcijskog materijala ugrožena opskrba krajnjih korisnika šumskim reprodukcijskim materijalom, može se uvoziti i šumski reprodukcijski materijal koji ne odgovara svim uvjetima za stavljanje na tržište u skladu s ovim Zakonom.
+(2) Ministar na prijedlog dobavljača, a na temelju mišljenja Povjerenstva rješenjem odobrava uvoz šumskog reprodukcijskog materijala iz stavka 1. ovoga članka. U rješenju se navode: naziv svojte, odnosno križanca, kategorija, namjena, količina i podrijetlo šumskog reprodukcijskog materijala te rok do kojeg se taj šumski reprodukcijski materijal smije stavljati na tržište na teritoriju Republike Hrvatske.
+(3) Pri stavljanju na tržište šumskog reprodukcijskog materijala, koji je uvezen u skladu sa stavkom 1. ovoga članka, u deklaraciji mora biti navedeno: »Ne ispunjava sve propisane uvjete«, a iz podataka u deklaraciji mora se vidjeti koje uvjete šumski reprodukcijski materijal ne ispunjava.

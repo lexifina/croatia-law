@@ -1,0 +1,6 @@
+## Iznimke pri stavljanju na tržište
+# Članak 10.
+(1) Dozvoljeno je znanstvenim i znanstvenonastavnim ustanovama u ograničenim količinama uvoziti sjemenski materijal, biljne dijelove ili sadni materijal šumskih svojti i križanaca, koji ne udovoljava svim uvjetima iz članka 8. stavka 2., a namijenjen je testiranju, istraživanju i znanstvenom radu, selekciji, odnosno oplemenjivanju ili očuvanju šumskih genetskih izvora«.
+(2) Uvoz materijala iz stavka 1. ovoga članka, na temelju mišljenja Povjerenstva za šumski reprodukcijski materijal (u daljnjem tekstu: Povjerenstvo) rješenjem odobrava ministar.
+(3) U slučaju šumskog reprodukcijskog materijala, proizašlog iz šumskog sjemenskog objekta koji ne udovoljava svim zahtjevima za razvrstavanje u kategorije iz članka 6. ovoga Zakona i ne može im udovoljiti u prihvatljivom roku zbog dugačkog životnog ciklusa svojte, a radi sprječavanja nedostatka registriranih šumskih sjemenskih objekata namijenjenih za proizvodnju šumskog reprodukcijskog materijala tih svojti, mogu se uz posebne uvjete dopustiti odstupanja na ograničeni rok.
+(4) Ministar će za svaku pojedinu šumsku svojtu iz stavka 3. ovoga članka propisati vremenski period važenja, te posebne uvjete odstupanja za određivanje kategorije i stavljanje na tržište takvog šumskog reprodukcijskog materijala.

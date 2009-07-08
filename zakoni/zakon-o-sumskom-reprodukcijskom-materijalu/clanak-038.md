@@ -1,0 +1,6 @@
+## Utvrđivanje jednakovaljanosti šumskog reprodukcijskog materijala
+# Članak 38.
+(1) Šumski reprodukcijski materijal koji nije proizveden na teritoriju Republike Hrvatske jednakovaljan je šumskom reprodukcijskom materijalu proizvedenom na teritoriju Republike Hrvatske, ako su uvjeti proizvodnje i stavljanja na tržište šumskog reprodukcijskog materijala, te postupci službenog odobravanja šumskih sjemenskih objekata i nadzora dobavljača koji su propisani u državi izvoznici, jednakovaljani kao uvjeti i postupci određeni ovim Zakonom.
+(2) Kad se uvozi šumski reprodukcijski materijal iz stavka 1. ovoga članka mora ga pratiti dokument koji je izdalo nadležno službeno tijelo u državi izvoznici, a kojim se jamči da je šumski reprodukcijski materijal jednakovaljan kao šumski reprodukcijski materijal proizveden na teritoriju Republike Hrvatske i u skladu s propisanim uvjetima za šumski reprodukcijski materijal u državi izvoznici, te dokument dobavljača iz države izvoznice.
+(3) Ministarstvo može po službenoj dužnosti ili na prijedlog dobavljača provjeriti jesu li ispunjeni uvjeti za priznavanje jednakovaljanosti šumskog reprodukcijskog materijala.
+(4) Države iz kojih se može uvoziti jednakovaljan šumski reprodukcijski materijal te uvjete za priznavanje jednakovaljanosti propisuje ministar.

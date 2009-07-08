@@ -1,0 +1,6 @@
+## Evidencije šumskog reprodukcijskog materijala i božićnih drvaca
+# Članak 17.
+(1) Ministarstvo nadležno za poslove šumarstva (u daljnjem tekstu: Ministarstvo) vodi evidenciju o proizvodnji i uvozu šumskog reprodukcijskog materijala i božićnih drvaca.
+(2) Evidencija o proizvodnji i uvozu šumskog reprodukcijskog materijala sadržava po kalendarskim godinama podatke o dobavljačima, količinama, oblicima šumskog reprodukcijskog materijala, šumskim svojtama, odnosno križancima, kategorijama i provenijencijama za sav šumski reprodukcijski materijal koji se proizvodi ili uvozi na teritoriju Republike Hrvatske.
+(3) Evidencija o proizvodnji i uvozu božićnih drvaca sadržava po kalendarskim godinama podatke o dobavljaču, osobnom identifikacijskom broju, upisnom broju i organizacijskom obliku dobavljača, uredu državne uprave u županiji/ispostavi dobavljača, katastarskoj općini, broju katastarske čestice i površini (ha) na kojoj se proizvode božićna drvca, opisu proizvodnje (vrsta božićnog drvca, uzrast, podrijetlo sadnog materijala i ukupna količina proizvedenih božićnih drvaca).
+(4) Dobavljači iz članka 21. ovoga Zakona u obvezi su podatke o proizvodnji i uvozu iz stavka 1. ovoga članka dostaviti Ministarstvu zaključno do 1. ožujka tekuće godine za prethodnu godinu.
