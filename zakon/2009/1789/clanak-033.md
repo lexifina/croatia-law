@@ -1,0 +1,3 @@
+# Članak 33.
+U članku 109. stavku 1. podstavak 9. mijenja se i glasi:
+»- ako ne provodi potrebne mjere za zaštitu zdravlja i sigurnost radnika, uključujući planiranje, pripremu i provedbu radnog procesa, uvažavajući najvišu moguću razinu zaštite radnika i okoliša i uključujući zaštitu od profesionalnih opasnosti osiguravajući potrebnu zaštitu i tehnološke uvjete, ili ako ne skrbi da su radni postupci tako pripremljeni i organizirani te da se provode na način da se njima ne utječe štetno na sigurnost i zdravlje radnika ili ako tamo gdje je potrebno, ne izradi odgovarajuće upute na hrvatskom jeziku (članak 44. stavak 1. i 2.).«
