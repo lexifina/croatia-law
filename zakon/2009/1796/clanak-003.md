@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 16. stavak 1. mijenja se i glasi:
+»(1) Upravljanje željezničkom infrastrukturom djelatnost je od javnog interesa. Osnovne funkcije upravitelja infrastrukture su: izgradnja željezničke infrastrukture i investiranje u željezničku infrastrukturu, održavanje i osuvremenjivanje željezničke infrastrukture, upravljanje sustavom sigurnosti željezničke infrastrukture, osiguravanje pristupa i dodjela infrastrukturnih kapaciteta svim željezničkim prijevoznicima koji ispunjavaju uvjete propisane ovim Zakonom, određivanje pristojbi za korištenje infrastrukturnih kapaciteta, izrada i objavljivanje voznog reda te organiziranje i reguliranje željezničkog prijevoza.«
