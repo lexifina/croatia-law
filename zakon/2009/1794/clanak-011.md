@@ -1,0 +1,2 @@
+# Članak 11.
+Danom stupanja na snagu ovoga Zakona prestaju važiti odredbe članka 3. točke 5., članka 7. i članka 12. Pravilnika o zdravstvenoj ispravnosti predmeta široke potrošnje te zdravstvenoj ispravnosti i sigurnosti igračaka (»Narodne novine«, br. 47/08.), u dijelu u kojem se odnose na kozmetiku s posebnom namjenom, te Glava VI. »KOZMETIKA S POSEBNOM NAMJENOM«, članci 52. do 57. i Lista IX. istoga Pravilnika.
