@@ -1,0 +1,7 @@
+# Članak 7.
+U članku 9. stavku 1. iza riječi »drugom stupnju« briše se riječ »te«, a iza riječi« ispostava« briše se točka i dodaju se riječi »te obavlja poslove geodetske inspekcije.«
+U stavku 2. iza točke 4.3. dodaje se točka »4.4. Odjel geodetske inspekcije«.
+U točki 4.2. Odjel izradbe i održavanja katastarskih operata u nazivu podtočke 4.2.1. riječ »Pododsjek« zamjenjuje se riječju »Odsjek«, te u nazivu podtočke 4.2.2. riječ »Pododsjek« zamjenjuje se riječju »Odsjek«, kao i u dijelu opisa djelokruga rada točaka 4.2.1. i 4.2.2. riječ »Pododsjek« zamjenjuje se riječju »Odsjek«.
+Iza točke 4.3.2. dodaje se točka 4.4. koja glasi:
+»4.4. Odjel geodetske inspekcije
+Odjel geodetske inspekcije obavlja inspekcijske i druge stručne poslove koji se odnose na nadzor nad zakonitošću i načinom rada te uvjetima koje moraju ispunjavati fizičke i pravne osoba koje su ovlaštene obavljati stručne geodetske poslove, kao i nadzor nad obavljanjem geodetskih poslova u lokalnoj samoupravi, izrađuje i provodi godišnji plan provođenja inspekcijskog nadzora, izrađuje izvješća o obavljenim nadzorima i poduzetim mjerama, vodi evidenciju obavljenih inspekcijskih nadzora, izrađuje upute za rad geodetskih inspektora, pruža stručnu pomoć nadziranim osobama, priprema prijedloge za oduzimanje suglasnosti ovlaštenim osobama koje ne ispunjavaju propisane uvjete, izrađuje godišnji plan rada i izvješće o njegovom ostvarenju.«
