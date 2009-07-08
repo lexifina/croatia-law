@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o određivanju visine stvarnih troškova uporabe podataka dokumentacije državne izmjere i katastra nekretnina (»Narodne novine«, br. 148/08) u članku 8. iza stavka 2. dodaje se stavak koji glasi:
+»Prilikom izdavanja podataka iz katastarske evidencije, po pojedinačnim zahtjevima tijela državne uprave i tijela sudske vlasti, kada izdana uvjerenja i druge isprave imaju značaj javnih isprava u smislu Zakona o općem upravnom postupku (prijepisi i izvodi iz posjedovnih listova, kopije katastarskog plana, različite potvrde i uvjerenja), stvarni troškovi uporabe podataka dokumentacije državne izmjere i katastra nekretnina se ne naplaćuju«.
