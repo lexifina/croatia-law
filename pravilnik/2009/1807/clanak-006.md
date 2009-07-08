@@ -1,0 +1,6 @@
+## Službene veterinarske kontrole
+# Članak 6.
+1) Službene kontrole zdravlja životinja moraju osigurati udovoljavanje zahtjevima propisa o zdravlju životinja, odredbama ovoga Pravilnika, i svim mjerama zaštite koje se odnose na proizvode životinjskog podrijetla, a koje su donesene u skladu s odredbama ovoga Pravilnika. Svaka inspekcija mora biti nenajavljena.
+2) Kontrole se moraju provoditi u skladu s odredbama Pravilnika o veterinarskim pregledima u prometu s državama članicama Europske unije s ciljem stvaranja jedinstvenog tržišta9.
+3) U slučaju utvrđenih nepropisnih postupanja u odnosu na zaštitu zdravlja životinja, nadležno tijelo poduzima sve mjere u skladu s odredbama Pravilnika o veterinarskim pregledima u prometu s državama članicama Europske unije s ciljem stvaranja jedinstvenog tržišta10.
+4) Stručnjaci Europske komisije mogu, u suradnji s nadležnim tijelom, obavljati preglede na licu mjesta, uključujući reviziju, ukoliko je navedeno potrebno za osiguranje ujednačene primjene odredbi ovoga Pravilnika. Nadležno tijelo osigurava stručnjacima svu potrebnu pomoć pri obavljanju navedenih pregleda. Ukoliko se tijekom revizije ili inspekcije Europske komisije utvrdi ozbiljna opasnost za zdravlje životinja, nadležno tijelo odmah poduzima sve mjere za osiguranje zdravlja životinja.
