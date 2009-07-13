@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. stavka 1. točke 5. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, broj 140/05, dalje u tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija), u cilju poticanja učinkovitog funkcioniranja financijskog tržišta, na sjednici održanoj 2. srpnja 2009. godine donijela je
