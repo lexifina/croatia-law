@@ -1,0 +1,6 @@
+# Članak 10.
+1) Iznimno od odredbe članka 8. stavka 1. točke (a) ovoga Pravilnika, a na temelju rezultata procjene rizika i uzimajući u obzir entomološke i epidemiološke uvjete za uvođenje životinja, nadležno tijelo odredišta može zahtijevati da premještanje životinja na koje se odnosi izuzeće iz članka 8. stavka 1. ovoga Pravilnika koje udovoljavaju najmanje jednom od uvjeta propisanih Dodatkom III Dijelom A točkama 1. do 4. ovoga Pravilnika, a ne udovoljavaju odredbama točaka 5., 6. i 7. navedenog Dijela, do 31. prosinca 2009. udovoljavaju sljedećim dodatnim uvjetima:
+(a) navedene životinje moraju biti mlađe od 90 dana;
+(b) navedene životinje moraju biti držane u zatvorenom prostoru zaštićenom od vektora;
+(c) testovi navedeni u Dodatku III Dijelu A točkama 1., 3. i 4. ovoga Pravilnika moraju biti provedeni na uzorcima uzetim ne ranije od 7 dana prije dana premještanja.
+2) Uprava za veterinarstvo mora izvijestiti Europsku komisiju prije primjene dodatnih uvjeta iz stavka 1. ovoga članka, te kao obrazloženje zahtjeva dostaviti informacije i podatke, u odnosu na entomološku i epidemiološku situaciju, a posebno o prisutnim vrstama vektora i serotipova virusa bolesti plavog jezika, klimatskim uvjetima i načinu držanja prijemljivih preživača.

@@ -1,0 +1,11 @@
+## Uvjeti za kretanje unutar iste zone pod ograničenjem
+# Članak 7.
+1) Kretanje životinja unutar iste zone pod ograničenjem u kojoj kruži isti serotip ili serotipovi virusa bolesti plavog jezika dopušteno je pod uvjetom da životinje koje se trebaju premještati na dan prijevoza ne pokazuju kliničke znakove bolesti plavog jezika.
+2) Kretanje životinja iz zaražene u ugroženu zonu dopušteno je ako:
+(a) životinje udovoljavaju uvjetima određenim u Dodatku III ovoga Pravilnika; ili
+(b) životinje udovoljavaju bilo kojim drugim primjerenim jamstvima u pogledu zdravlja životinja temeljenim na povoljnim rezultatima procjene rizika u odnosu na provedbu mjera za sprječavanje širenja virusa bolesti plavog jezika i zaštite od vektora, kako zahtijeva nadležno tijelo mjesta podrijetla i odobrava nadležno tijelo odredišta, a prije premještanja takvih životinja;
+(c) su životinje namijenjene klanju bez odgode.
+3) Uprava za veterinarstvo odmah izvješćuje Europsku komisiju i države članice EU o jamstvima u pogledu zdravlja životinja kako je određeno u stavku 2. točki (b) ovoga Pravilnika.
+4) Za životinje na koje se odnose stavci 1. i 2. ovog članka, u odgovarajuće veterinarske certifikate kako je određeno Pravilnikom o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, br. 154/2008)[6], Pravilnikom o veterinarsko-zdravstvenim uvjetima za stavljanje u promet ovaca i koza na unutarnje tržište europske zajednice (»Narodne novine«, br. 51/2009)[7] i posebnim propisom kojim se utvrđuju veterinarski uvjeti za stavljanje u promet i uvoz životinja, sjemena, jajnih stanica i zametaka na koje ne odnose veterinarski uvjeti utvrđeni posebnim propisima Zajednice[8] ili na koje se odnose odredbe Pravilnika o detaljnim pravilima u prometu unutar Europske unije za određene životinje i proizvode životinjskog podrijetla namjenjene izvozu u treće zemlje (»Narodne novine«, br. 154/2008)[9] dodaje se sljedeći dopunski tekst:
+»Životinje koje udovoljavaju …. (članku 7. stavku 1. ili članku 7. stavku 2. točki (a) ili članku 7. stavku 2. točki (b) ili članku 7. stavku 2. točki (c) (naznačiti odgovarajuće) Uredbe (EZ-a) br. 1266/2007«1.
+Uvjeti za izuzeće od zabrane izlaska propisane Pravilnikom o mjerama za kontrolu i iskorjenjivanje bolesti plavog jezika (»Narodne novine«, br. 73/2009)2
