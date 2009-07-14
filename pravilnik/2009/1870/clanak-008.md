@@ -1,0 +1,3 @@
+# Članak 8.
+U slučaju prestanka rada pravne osobe koja provodi osposobljavanje kandidata iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći, matična knjiga pohranjuje se kod pravnog slijednika. Ako nema pravnog slijednika matična knjiga pohranjuje se kod Hrvatskog Crvenog križa.
+Ministarstvo vodi evidenciju o društvima Hrvatskog Crvenog križa, zdravstvenim ustanovama iz članka 200. stavka 3. Zakona o sigurnosti prometa na cestama, koje su ovlaštene osposobljavati kandidate za vozače iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći.

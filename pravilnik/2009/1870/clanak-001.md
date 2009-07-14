@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti u pogledu prostora, opreme i nastavnih sredstava, evidencije i načina vođenja evidencija i drugi uvjeti koje moraju osigurati Hrvatski Crveni križ i zdravstvene ustanove iz članka 200. stavka 3. Zakona o sigurnosti prometa na cestama prilikom osposobljavanja kandidata za vozače iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći.
