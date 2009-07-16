@@ -1,0 +1,1 @@
+Odluka o davanju preporuke nadzornim odborima i upravama trgovačkih društava u većinskom vlasništvu Republike Hrvatske za pokretanje postupka pregovaranja o izmjenama kolektivnih ugovora, a u skladu s trenutačnom gospodarskom situacijom
