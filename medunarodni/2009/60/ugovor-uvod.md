@@ -1,0 +1,12 @@
+SPORAZUM IZMEĐU KOMISIJE EUROPSKIH ZAJEDNICA U IME EUROPSKE ZAJEDNICE I VLADE REPUBLIKE HRVATSKE KOJI IZMJENJUJE I DOPUNJUJE GODIŠNJI SPORAZUM O FINANCIRANJU ZA 2006. GODINU
+IZMJENA I DOPUNA GODIŠNJEG SPORAZUMA O FINANCIRANJU ZA 2006. GODINU
+Komisija Europskih zajednica, u daljnjem tekstu: »Komisija«, djelujući za i u ime Europske zajednice, dalje u tekstu: »Zajednica« s jedne strane, i
+Vlada Republike Hrvatske, djelujući za i u ime Republike Hrvatske, u daljnjem tekstu: »Hrvatska« s druge strane,
+u daljnjem tekstu zajednički nazvane: »ugovorne stranke«,
+Budući da:
+(1) je uspostavljen Poseban pristupni program za poljoprivredu i ruralni razvoj (u daljnjem tekstu: »SAPARD«) kojim se uređuju financijski doprinosi Zajednice na temelju Uredbe Vijeća (EZ-a) br. 1268/1999 o potpori Zajednice za pretpristupne mjere za poljoprivredu i ruralni razvoj u zemljama kandidatkinjama u Srednjoj i Istočnoj Europi u pretpristupnom razdoblju[1].
+(2) je plan, koji je podnijela Hrvatska, odobren kao Program za poljoprivredu i ruralni razvoj (u daljnjem tekstu: »Program«) odlukom donesenom u skladu s člankom 4.(5) Uredbe Vijeća (EZ-a) br. 1268/1999 na dan 8. veljače 2006.[2] Program je (posljednji puta) izmijenjen i dopunjen Odlukom donesenom 14. kolovoza 2008.[3]
+(3) je Višegodišnji sporazum o financiranju (u daljnjem tekstu: »MAFA«) između Komisije koja djeluje u ime Zajednice i Vlade Republike Hrvatske koja djeluje u ime Hrvatske, izmijenjen i dopunjen Godišnjim sporazumom o financiranju za 2006. godinu (u daljnjem tekstu: »GSF 2006«), stupio na snagu na dan 6. travnja 2006. i svojim člankom 2. uređuje da će se financijske obaveze Zajednice urediti godišnjim sporazumom o financiranju.
+(4) je Godišnji sporazum o financiranju za 2006. godinu između Komisije koja djeluje u ime Zajednice i Vlade Republike Hrvatske koja djeluje u ime Hrvatske stupio na snagu 7. ožujka 2007. i svojim člankom 3. uređuje da će Komisija automatski ukinuti obvezu svakog dijela financijske obveze Zajednice za 2006. godinu koja nije podmirena plaćanjem na račun ili za koju najkasnije do 31. prosinca 2008. nije zaprimljen valjani zahtjev za plaćanje.
+(5) U pogledu problema na koje Hrvatska, kao novo pridošla pristupu programiranja Zajednice, te njegovoj decentraliziranoj provedbi, nailazi u provedbi programa, neophodno je produžiti vremenski rok valjanosti financijske obveze postavljen u GSF 2006 za jednu godinu. Nadalje, ovo produženje je u skladu s člankom 166.(3)(a) Uredbe Vijeća (EZ-a) br. 1605/2002,
+SPORAZUMJELE SU SE KAKO SLIJEDI:
