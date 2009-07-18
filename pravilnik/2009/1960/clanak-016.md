@@ -1,0 +1,2 @@
+# Članak 16.
+Povjerenici, voditelji skloništa i pripadnici postrojbi civilne zaštite opće namjene, prilikom obavljanja zadaća zaštite i spašavanja nose samo reflektirajući prsluk narančaste boje koji na prednjoj lijevoj strani ima oznaku pripadnosti civilne zaštite, međunarodni znak civilne zaštite i natpis »CIVILNA ZAŠTITA« a na leđima natpis »POVJERENIK«, »VODITELJ SKLONIŠTA« ili »OPĆA NAMJENA«.

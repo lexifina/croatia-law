@@ -1,0 +1,2 @@
+# Članak 10.
+Službenik i namještenik kojemu je iz bilo kojeg razloga prestao radni odnos u Državnoj upravi za zaštitu i spašavanje (u daljnjem tekstu: Državna uprava), odnosno koji je raspoređen na drugo radno mjesto u Državnoj upravi, kao i osoba koja uslijed promjene rasporeda, godina starosti, zdravstvenih ili drugih razloga prestane biti obveznik civilne zaštite, dužna je vratiti posebne oznake.
