@@ -1,0 +1,1 @@
+Na temelju članka 237. stavka 4. Zakona o tržištu kapitala (»Narodne novine« broj 88/08 i 146/08 - ispravak), Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija), na sjednici održanoj 18. lipnja 2009. godine, uz prethodnu suglasnost Ministra financija, donijela je
