@@ -1,0 +1,2 @@
+# Članak 109.
+Ovaj statut stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, uz pribavljenu suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, osim članka 6. stavka 2. podstavaka 2., 8. i 9.; članka 13. stavaka 2. i 4.; članka 21. stavka 1. podstavka 2., stavka 3. podstavaka 2. i 3. i članka 65. stavka 1. podstavaka 7., 8. i 9. koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
