@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4. i članka 14. stavka 2. Zakona o ugostiteljskoj djelatnosti (»Narodne novine« broj 138/06 i 43/09) ministar turizma, uz suglasnost ministra nadležnog za zdravstvo, donosi
