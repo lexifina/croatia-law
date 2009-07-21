@@ -1,0 +1,2 @@
+# Članak 145.
+Ovaj statut stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, uz pribavljenu suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, osim članka 6. stavka 2. podstavaka 2., 8. i 9., članka 32. stavka 1. podstavka 3., članka 57. stavaka 2. i 3., članka 70. stavka 1. podstavka 2. i stavka 3. podstavaka 2. i 3. koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.
