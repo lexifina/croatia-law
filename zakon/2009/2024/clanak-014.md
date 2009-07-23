@@ -1,0 +1,6 @@
+# Članak 14.
+Članak 53. mijenja se i glasi:
+»(1) Zatvorenik kojemu je određen istražni zatvor može podnijeti zahtjev za upućivanje na izdržavanje kazne prije pravomoćnosti presude izjavom na zapisnik. Odluku o zahtjevu donijet će sudac pojedinac ili predsjednik vijeća koji je donio presudu u prvom stupnju. Prilikom davanja izjave na zapisnik zatvorenika kojemu je određen istražni zatvor upozorit će se da će u kaznionici, odnosno zatvoru u pravima i obvezama biti izjednačen sa zatvorenicima koji izdržavaju kaznu zatvora.
+(2) Predsjednik vijeća koje je donijelo odluku u prvom stupnju prilikom odlučivanja o zahtjevu uzet će u obzir razmjer između vremena provedenog u istražnom zatvoru i duljini izrečene kazne zatvora te procjenu potrebe nazočnosti zatvorenika kojemu je određen istražni zatvor na sudu.
+(3) Pravomoćno rješenje o upućivanju na izdržavanje kazne prije pravomoćnosti presude zajedno s pismenima iz članka 48. stavka 1. ovoga Zakona predsjednik vijeća koji je donio presudu u prvom stupnju dostavit će sucu izvršenja prema sjedištu zatvora u kojem se zatvorenik kojemu je određen istražni zatvor nalazi.
+(4) Izdržavanje kazne zatvora na temelju rješenja iz stavka 3. ovoga članka može trajati najdulje do isteka roka za istražni zatvor propisanog Zakonom o kaznenom postupku.«.
