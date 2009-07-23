@@ -1,0 +1,3 @@
+# Članak 36.
+U članku 69. stavak 3. mijenja se i glasi:
+» (3) Do stupanja na snagu odluke Vlade Republike Hrvatske o određivanju dobavljača plina iz stavka 1. članka 38. ovoga Zakona, za nositelja obveze javne usluge dobave plina za opskrbljivača iz stavka 2. ovoga članka, određuje se opskrbljivač plinom koji je na dan 31. srpnja 2008. obavljao djelatnost dobave plina, a nakon toga Vlada Republike Hrvatske, odlukom o određivanju dobavljača plina iz stavka 1. članka 38. ovoga Zakona, određuje nositelja obveze javne usluge dobave plina za opskrbljivača iz stavka 2. ovoga članka na razdoblje do 31. srpnja 2013.«.
