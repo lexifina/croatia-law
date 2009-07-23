@@ -1,0 +1,7 @@
+# Članak 19.
+(1) Uvjet za ostvarenje izravnih plaćanja za obiteljska poljoprivredna gospodarstva koja su u prethodnoj kalendarskoj godini ostvarila više od 7.200,00 kuna primitaka od izravnih plaćanja jest status obveznika poreza na dohodak nositelja gospodarstva po osnovi obavljanja djelatnosti poljoprivrede.
+(2) Iznimno od stavka 1. ovoga članka, uvjet za ostvarenje izravnih plaćanja za obiteljska poljoprivredna gospodarstva koja su u 2009. godini ostvarila više od 12.000,00 kuna primitaka od izravnih plaćanja jest status obveznika poreza na dohodak nositelja gospodarstva po osnovi obavljanja djelatnosti poljoprivrede.
+(3) Za potrebe utvrđivanja ispunjavanja uvjeta iz stavka 1. ovoga članka uračunat će se primici od izravnih plaćanja, sukladno ovom Zakonu.
+(4) Za potrebe utvrđivanja ispunjavanja uvjeta iz stavka 2. ovoga članka u 2010. godini, u primitke od izravnih plaćanja u 2009. godini uračunat će se primici od poticaja, sukladno Zakonu o državnoj potpori u poljoprivredi i ribarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04., 12/05. - ispravak, 85/06., 141/06., 134/07., 85/08. i 4/09.) i primici od izravnih plaćanja, sukladno ovom Zakonu.
+(5) Nositelji gospodarstva iz stavka 1. i 2. ovoga članka obvezni su pri podnošenju zahtjeva za izravna plaćanja u tekućoj godini priložiti dokaz Agenciji da su upisani u Registar obveznika poreza na dohodak pri Poreznoj upravi, sukladno propisima o porezu na dohodak.
+(6) Odredbe ovoga članka primjenjuju se od 1. siječnja 2011., osim odredbe stavka 2. ovoga članka koja se primjenjuje od 1. siječnja 2010.

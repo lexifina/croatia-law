@@ -1,0 +1,9 @@
+# Članak 4.
+(1) Korisnici državne potpore ostvaruju pravo na državnu potporu sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega.
+(2) Korisnik državne potpore ne smije davati netočne podatke u namjeri ostvarivanja sredstava državne potpore.
+(3) Korisnik državne potpore dužan je vratiti sredstva državne potpore dobivena na temelju netočnih podataka i/ili ako ih je ostvario protivno uvjetima i odredbama ovoga Zakona i propisa donesenih na temelju njega.
+(4) U slučaju da korisnik državne potpore iz stavka 3. ovoga članka ne vrati sredstva državne potpore u naređenom roku, dužan je platiti zakonske zatezne kamate u roku od 30 dana od konačnosti rješenja kojim poljoprivredni inspektor naređuje korisniku povrat sredstava.
+(5) Korisnik državne potpore koji nije vratio novčana sredstva iz stavka 3. i 4. ovoga članka na jedinstveni račun državnog proračuna ne ostvaruje pravo na isplatu državne potpore određene ovim Zakonom do podmirenja nastalih novčanih obveza.
+(6) Korisnik državne potpore iz stavka 3. ovoga članka ne može podnijeti novi zahtjev za stjecanje prava na državnu potporu određenu ovim Zakonom u roku od jedne godine računajući od dana konačnosti rješenja kojim poljoprivredni inspektor naređuje korisniku povrat sredstava.
+(7) Za državne potpore koje se ostvaruju po poljoprivrednoj površini, nezasijanost ili nezasađenost površine manja od prijavljene površine u zahtjevu za potporu do uključujući 5% za pojedinu poljoprivrednu kulturu ne stvara posljedicu iz stavka 6. ovoga članka niti se smatra prekršajem, a pravo na državnu potporu utvrđuje se u skladu sa stvarnim stanjem.
+(8) Korisnici državne potpore moraju čuvati isprave na temelju kojih su ostvarili državnu potporu četiri godine od dana podnošenja zahtjeva na temelju kojeg su ostvarili pravo na državnu potporu.

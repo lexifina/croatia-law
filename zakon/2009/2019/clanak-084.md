@@ -1,0 +1,3 @@
+# Članak 84.
+(1) Postupci započeti po odredbama Zakona o državnoj potpori u poljoprivredi i ribarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04., 12/05. - ispravak, 85/06., 141/06., 134/07., 85/08. i 04/09.) dovršit će se po odredbama toga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, postupci vezani uz ostvarivanje poticaja po proizvodnoj površini za 2009. godinu, a započeti po odredbama Zakona o državnoj potpori u poljoprivredi i ribarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04., 12/05. - ispravak, 85/06., 141/06., 134/07., 85/08. i 04/09.) dovršit će se po odredbama ovoga Zakona.
