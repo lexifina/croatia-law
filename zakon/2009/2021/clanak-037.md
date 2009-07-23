@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Ovlašteni carinski službenici u provođenju nadzora i provjere radi osiguranja naplate nedospjelog carinskog duga te duga s osnova posebnih poreza, poreza na dodanu vrijednost i drugih davanja, imaju pravo poduzimati mjere za osiguranje naplate prema odredbama Općeg poreznog zakona.
+(2) Kod obavljanja poslova iz stavka 1. ovoga članka ovlašteni carinski službenik ima pravo pregleda i pretrage poslovnih i drugih prostora, objekata i zemljišta koji se koriste za obavljanje djelatnosti, uređaja, robe, stvari, predmeta, poslovnih knjiga, ugovora, cjenika i drugih isprava potrebnih za provedbu postupka osiguranja naplate.

@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Ako ovlašteni carinski službenik pri obavljanju carinske i porezne provjere naiđe na fizički otpor ili može takav otpor očekivati, na njegovo traženje pomoć u obavljanju radnji carinske i porezne provjere pružit će mu nadležna policijska uprava.
+(2) Državna i druga tijela s javnim ovlastima koja pri obavljanju poslova iz svoga djelokruga utvrde da su prekršeni carinski, porezni ili drugi propisi čije provođenje je u nadležnosti Carinske uprave, odnosno da postoji mogućnost da bi se to moglo dogoditi, dužni su o svojim saznanjima bez odgađanja izvijestiti najbližu ustrojstvenu jedinicu Carinske uprave.

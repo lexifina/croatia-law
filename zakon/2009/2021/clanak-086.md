@@ -1,0 +1,3 @@
+# Članak 86.
+(1) Na temelju sporazuma između ministra financija i čelnika drugog tijela, Ministarstvo financija, Carinska uprava može ovlaštenog carinskog službenika uputiti na obrazovanje ili usavršavanje u drugo državno tijelo ili ustanovu u Republici Hrvatskoj ili u inozemstvo sukladno potrebama njegovog radnog mjesta.
+(2) Na temelju sporazuma između ministra financija i čelnika drugog tijela, službenici iz drugog državnog tijela ili ustanove mogu se obrazovati i stručno usavršavati u Ministarstvu financija, Carinskoj upravi, a u cilju stjecanja znanja iz nadležnosti i djelokruga rada Ministarstva financija, Carinske uprave.

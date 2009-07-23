@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Osobe iz članka 31. stavka 3. ovoga Zakona dužne su ovlaštenom carinskom službeniku koji obavlja carinsku ili poreznu provjeru, dopustiti pristup zemljištu i prostorima u kojima se obavlja djelatnost, utovar, istovar ili skladištenje robe.
+(2) Ovlašteni carinski službenik ima pravo prilikom obavljanja zadaća službe ući i u bilo koji drugi objekt i prostor u zračnoj luci, željezničkom kolodvoru, morskoj ili riječnoj luci, stupiti na zemljište na kojem se nalazi ili bi se mogla nalaziti roba, na zemljište preko kojega je ili je mogla biti izvedena neka instalacija koja omogućava prenošenje robe, odnosno drugo zemljište gdje bi moglo biti mjesto za pristajanje plovila ili zrakoplova.
+(3) Prilikom obavljanja zadaća sukladno stavku 2. ovoga članka ovlašteni carinski službenici imaju pravo koristiti službena prijevozna sredstva te drugu tehničku opremu.

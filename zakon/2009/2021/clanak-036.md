@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Zapisnici o činjenicama utvrđenim pregledom osoba, pregledom i pretragom prijevoznih i prijenosnih sredstava i poslovnih prostora, pregledom poslovnih knjiga, evidencija i drugih isprava te predmeti, isprave i drugi dokumenti oduzeti tijekom provođenja mjera carinske i porezne provjere mogu koristiti kao dokazno sredstvo u prekršajnom ili kaznenom postupku.
+(2) Izjave sudionika unutar provođenja mjera carinske i porezne provjere mogu služiti kao dokazno sredstvo u prekršajnom postupku i kaznenom postupku ako su dane pod uvjetima i na način kako je propisano Zakonom o kaznenom postupku i Prekršajnim zakonom.
