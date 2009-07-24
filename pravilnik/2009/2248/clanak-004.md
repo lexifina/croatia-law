@@ -1,0 +1,4 @@
+# Članak 4.
+1) Način i opseg sudjelovanja pravosudnih dužnosnika i državnih službenika u međunarodnim organizacijama i misijama u inozemstvu određen je pravilima pojedine misije.
+2) Pravosudni dužnosnici i državni službenici upućeni u inozemstvo radi sudjelovanja u međunarodnoj organizaciji i misiji dužni su poštivati unutarnji pravni poredak države u kojoj djeluju, te ugovore, propise i pravila koja je za provođenje pojedine misije potpisala i donijela međunarodna organizacija ili nadležno tijelo.
+3) Pravosudni dužnosnici dužni su djelovati po načelu nepristranosti, poštivati sudački i državnoodvjetnički etički kodeks i čuvati ugled hrvatskih pravosudnih dužnosnika, a državni službenici dužni su sudjelovati po načelu nepristranosti, poštivati kodeks državnih službenika i čuvati ugled državnih službenika.

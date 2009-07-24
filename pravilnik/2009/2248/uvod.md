@@ -1,0 +1,1 @@
+Na temelju članka 105. Zakona o sudovima (»Narodne novine«, br. 150/05, 16/07 i 113/08), članka 126. Zakona o državnom odvjetništvu (»Narodne novine« br. 76/09) i Uredbe o upućivanju državnog službenika na rad izvan državne službe (»Narodne novine«, br. 33/06), ministar pravosuđa donosi
