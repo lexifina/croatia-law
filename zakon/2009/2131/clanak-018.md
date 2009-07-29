@@ -1,0 +1,3 @@
+# Članak 18.
+Članak 60. mijenja se i glasi:
+»Odluka o odabiru najpovoljnijeg ponuditelja sadrži osobito: djelatnost gospodarenja otpadom za koju se daje koncesija, područje na kojem će se koncesija obavljati, način i uvjete obavljanja djelatnosti, rok trajanja koncesije, ovlaštenja davatelja koncesije, prava i obveze koncesionara, rok u kojem je najpovoljniji ponuditelj obvezan potpisati ugovor o koncesiji, naknadu za koncesiju i/ili cijenu usluge te druga pitanja od značenja za obavljanje djelatnosti za koju se daje koncesija sukladno ovom Zakonu i posebnim propisima donesenim na temelju ovoga Zakona te zakonu kojim se uređuju koncesije.«
