@@ -1,0 +1,20 @@
+# Članak 77.
+Pored javnih ovlasti iz članka 76. ovoga Zakona Komora obavlja i sljedeće poslove:
+– čuva i unapređuje položaj i ugled zvanja svojih članova,
+– donosi etički kodeks,
+– surađuje s Ministarstvom na svim područjima od interesa za djelatnosti članova Komore,
+– predlaže ministru standarde i normative za djelatnosti članova Komore,
+– donosi opći akt kojim se utvrđuju sadržaj, rokovi i postupak trajnog stručnog usavršavanja i provjere stručnosti nad djelatnostima članova Komore,
+– predlaže ministru sadržaj dokumentacije za djelatnosti članova Komore,
+– propisuje način i uvjete pod kojima se obavlja stručni nadzor nad djelatnostima članova Komore,
+– u suradnji s visokim učilištima te stručnim društvima organizira i nadzire trajno stručno usavršavanje svojih članova,
+– utvrđuje najniže cijene rada zdravstvenih radnika – svojih članova za rad izvan mreže javne zdravstvene službe,
+– utvrđuje cijene rada zdravstvenih radnika – svojih članova iz opsega privatnog zdravstvenog osiguranja,
+– utvrđuje povrede radnih dužnosti zdravstvenih radnika – svojih članova,
+– provodi disciplinski postupak i izriče disciplinske mjere za povrede dužnosti zdravstvenih radnika – svojih članova,
+– surađuje sa zdravstvenom inspekcijom Ministarstva,
+– brine se za pravnu pomoć svojim članovima,
+– brine se o drugim interesima svojih članova,
+– koordinira odnose medu članovima te aktivno sudjeluje u rješavanju eventualno nastalih sporova,
+– surađuje sa Svjetskom zdravstvenom organizacijom i drugim međunarodnim organizacijama od interesa za djelatnosti koje su članovi Komore,
+– obavlja i druge poslove u skladu sa zakonom, Statutom i drugim općim aktima Komore.
