@@ -1,0 +1,9 @@
+# Članak 51.
+Prema točnosti, točke horizontalne geodetske osnove Republike Hrvatske pripadaju u sljedeće razrede:
+1. Osnovna mreža:
+- državna mreža referentnih GNSS stanica CROPOS - Hrvatski pozicijski sustav (razred I),
+- referentna mreža 0. reda (razred II),
+- referentna mreža 1. reda (razred II),
+- referentna mreža 2. reda (razred III).
+2. Dopunska ili popunjavajuća mreža:
+- referentna mreža 3. reda (razred IV).

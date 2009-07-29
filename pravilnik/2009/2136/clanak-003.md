@@ -1,0 +1,4 @@
+# Članak 3.
+Poslove iz. članka 2. ovog Pravilnika obavlja Državna geodetska uprava i Hrvatski geodetski institut, sukladno posebnom zakonu kojim se uređuje državna izmjera i katastar nekretnina.
+Pravne osobe registrirane za obavljanje stručnih geodetskih poslova i ovlašteni inženjeri geodezije koji stručne geodetske poslove obavljaju samostalno u uredu ovlaštenog inženjera geodezije ili zajedničkom geodetskom uredu, mogu obavljati poslove iz članka 2. ovog Pravilnika ako imaju suglasnost Državne geodetske uprave za izradbu elaborata uspostavljanja stalnih točaka geodetske osnove za potrebe osnovnih geodetskih radova, sukladno posebnom zakonu kojim se uređuje obavljanje geodetske djelatnosti.
+Uvjeti i mjerila za davanje i oduzimanje suglasnosti za obavljanje tih poslova propisani su posebnim pravilnikom kojeg donosi ravnatelj Državne geodetske uprave.

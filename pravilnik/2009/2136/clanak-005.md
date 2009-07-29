@@ -1,0 +1,2 @@
+# Članak 5.
+Rezultat osnovnih geodetskih radova jesu položajne koordinate, visine, ubrzanje sile teže i geomagnetska deklinacija i njena godišnja promjena pojedinih u prostoru određenih stalnih točaka geodetske osnove koje se određuju i iskazuju u odnosu na službene geodetske datume Republike Hrvatske sukladno posebnoj odluci Vlade Republike Hrvatske kojom se utvrđuju službeni geodetski datumi i ravninske kartografske projekcije Republike Hrvatske.

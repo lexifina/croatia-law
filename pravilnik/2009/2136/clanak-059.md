@@ -1,0 +1,4 @@
+# Članak 59.
+Rad relativnog gravimetra koji se planira koristiti pri razvoju gravimetrijske mreže I. i II. reda treba se pratiti i kontrolirati u skladu s uputama proizvođača najmanje jednu godinu prije njegove upotrebe za ovakve namjene. Neposredno prije i nakon mjerne kampanje gravimetar je neophodno kalibrirati na službenoj kalibracijskoj bazi Republike Hrvatske.
+Plan relativnih mjerenja mora uključiti dovoljan broj ponovljenih mjerenja na istoj točki u toku mjernog dana da bi se osigurala kvalitetna kontrola i eliminacija hoda gravimetra iz mjerenja. Minimalan broj ponovljenih mjerenja mora biti 3.
+Pri relativnim mjerenjima nužno je istovremeno koristiti dva gravimetra iz razloga otkrivanja grubih odstupanja u radu jednog od njih u toku mjernog dana te povećanja kvalitete samih mjerenja.
