@@ -1,0 +1,2 @@
+# Članak 4.
+Sredstva naknade koja su prihod proračuna jedinice lokalne samouprave, odnosno Grada Zagreba mogu se udružiti sa sredstvima ostvarenim od prodaje, zakupa, dugogodišnjeg zakupa poljoprivrednog zemljišta u vlasništvu Republike Hrvatske i koncesije za ribnjake, a koja su prihod proračuna te jedinice lokalne samouprave, odnosno Grada Zagreba i koristiti za namjene utvrđene u članku 3. ovoga Pravilnika.

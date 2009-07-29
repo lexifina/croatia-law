@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti i način korištenja sredstava naknade, koja se plaća zbog promjene namjene poljoprivrednog zemljišta (u daljnjem tekstu: sredstva naknade), a prihod su proračuna jedinice lokalne samouprave, odnosno Grada Zagreba na čijem području se poljoprivredno zemljište nalazi sukladno odredbama članka 25. stavka 10. Zakona o poljoprivrednom zemljištu (u daljnjem tekstu: Zakon).
