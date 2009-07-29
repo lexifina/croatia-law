@@ -1,0 +1,10 @@
+## Otprema nusproizvoda životinjskog podrijetla i prerađenih proizvoda
+# Članak 8.
+1) Nusproizvodi životinjskog podrijetla i prerađeni proizvodi mogu se dopremiti u Republiku Hrvatsku odnosno otpremiti u države članice samo u skladu s uvjetima određenim u stavcima 2. do 6. ovoga članka.
+2) Republika Hrvatska ili jedna od država članica, koje su zemlje odredišta, prethodno odobravaju prihvat materijala Kategorije 1, materijala Kategorije 2, odnosno prerađenih proizvoda dobivenih od materijala Kategorije 1 ili Kategorije 2 i prerađenih životinjskih bjelančevina. Prije otpreme zemlja odredišta može kao uvjet za izdavanje odobrenja zahtijevati primjenu metode prerade 1.
+3) Nusproizvodi životinjskog podrijetla i prerađeni proizvodi iz stavka 2. ovoga članka moraju:
+(a) biti praćeni komercijalnim dokumentom ili, kada je propisano ovim Pravilnikom, zdravstvenim certifikatom,
+(b) se prevoziti izravno u objekt odredišta, koji je odobren u skladu s odredbama ovoga Pravilnika.
+4) U slučaju otpreme materijala Kategorije 1, materijala Kategorije 2 ili prerađenih proizvoda dobivenih od materijala Kategorije 1 ili materijala Kategorije 2 i prerađenih životinjskih bjelančevina u Republiku Hrvatsku ili jednu od država članica, nadležno tijelo u mjestu podrijetla mora obavijestiti nadležno tijelo u mjestu odredišta o svakoj pošiljci pomoću stručnog sustava za kontrolu prometa (eng. Trade Control and Expert System, u daljnjem tekstu: TRACES sustav) ili na drugi međusobno dogovoreni način. Obavijest mora sadržavati podatke navedene u Dodatku II. Poglavlju I. točki 2. ovoga Pravilnika.
+5) Po primitku obavijesti o otpremi, u skladu sa stavkom 4. ovoga članka, nadležno tijelo u mjestu odredišta mora obavijestiti nadležno tijelo o prispijeću svake navedene pošiljke putem TRACES sustava ili na drugi međusobno dogovoreni način.
+6) Nadležno tijelo osigurava, redovitim pregledima da objekti dopremljene pošiljke koriste jedino za odobrene namjene i da vode evidencije kojima se može dokazati udovoljavanje odredbama ovoga Pravilnika.

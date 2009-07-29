@@ -1,0 +1,1 @@
+Na temelju članka 46. stavaka 4. i 5. te članka 48. stavka 2. Zakona o veterinarstvu (»Narodne novine«, broj 41/07 i 155/08) i na temelju članka 56. stavka 2. podstavka 6. Zakona o hrani (»Narodne novine«, broj 46/07 i 155/07), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
