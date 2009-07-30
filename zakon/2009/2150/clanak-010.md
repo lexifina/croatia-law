@@ -1,0 +1,6 @@
+# Članak 10.
+Dijete rođeno nakon medicinske oplodnje darivanom sjemenom stanicom ili darivanom jajnom stanicom nakon svoje punoljetnosti stječe pravo uvida u upisnik podataka o začeću i darivateljima koji se vodi pri Državnom registru o medicinskoj oplodnji ministarstva nadležnog za zdravstvo (u daljnjem tekstu: Državni registar).
+Ovlaštena osoba u Državnom registru obvezna je provjeriti zahtjev punoljetne osobe za uvid u upisnik te kada utvrdi da se radi o osobi iz stavka 1. ovoga članka, omogućit će joj uvid u upisnik o začeću primjenom medicinske oplodnje i darivatelju spolnih stanica.
+Ovlaštena osoba u Državnom registru omogućit će uvid u upisnik zakonskom zastupniku djeteta ili liječniku djeteta rođenog nakon oplodnje darivanom spolnom stanicom, ako je to na njihov zahtjev, iznimno i zbog medicinski opravdanog razloga i dobrobiti djeteta prethodno odobrilo Nacionalno povjerenstvo za medicinsku oplodnju (u daljnjem tekstu: Nacionalno povjerenstvo).
+Pravo na uvid u upisnik i podatke o djetetu i darivatelju spolnih stanica ima sud i tijelo državne uprave kada je to potrebno u vezi s primjenom ovoga Zakona.
+Osobe iz stavka 3. i 4. ovoga članka s pravom uvida u upisnik obvezne su podatke o djetetu i darivatelju spolnih stanica te dostupne podatke iz upisnika čuvati kao profesionalnu tajnu.

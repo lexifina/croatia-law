@@ -1,0 +1,5 @@
+# Članak 8.
+Prije provedbe svih postupaka medicinske oplodnje za bračne drugove obvezno je prethodno pravno te psihološko ili psihoterapijsko savjetovanje.
+Magistar psihologije ili liječnik specijalist psihijatrije mora bračne drugove upoznati s mogućim psihičkim učincima postupka medicinske oplodnje. O provedenom savjetovanju magistar psihologije ili liječnik specijalist psihijatrije izdaje pisanu potvrdu.
+Magistar prava mora bračne drugove upoznati s pravnim značenjem i učincima pristanka na planirani postupak medicinske oplodnje te obiteljskopravnim učincima koji proizlaze iz određenog medicinskog postupka. O provedenom savjetovanju magistar prava izdaje pisanu potvrdu.
+Zdravstvena ustanova u kojoj se provodi medicinska oplodnja može sama osigurati provođenje pravnog i psihološkog ili psihoterapijskog savjetovanja, a ako to ne može obvezna je uputiti bračne drugove u drugu zdravstvenu ustanovu u kojoj se provode ova savjetovanja ili kod osoba ovlaštenih za psihološko ili psihoterapijsko savjetovanje te kod magistra prava zbog pravnog savjetovanja.
