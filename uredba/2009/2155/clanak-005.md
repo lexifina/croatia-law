@@ -1,0 +1,2 @@
+# Članak 5.
+Za stranca koji nije u mogućnosti dokazati da sredstva za uzdržavanje, iz članaka 2., 3. ili 4. ove Uredbe ima osigurana mjesečno, smatrat će se da je ispunio uvjet o posjedovanju najmanjeg iznosa potrebnih sredstava za uzdržavanje ako dokaže da na bankovnom računu raspolaže s financijskim sredstvima u visini od dvanaest puta uvećanog iznosa propisanog ovom Uredbom, ovisno o svrsi boravka i broju članova obitelji.

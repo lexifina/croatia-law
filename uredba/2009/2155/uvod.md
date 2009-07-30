@@ -1,0 +1,1 @@
+Na temelju članka 209. Zakona o strancima (»Narodne novine«, br. 79/2007 i 36/2009), te članka 29. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009), Vlada Republike Hrvatske je na sjednici održanoj 16. srpnja 2009. godine donijela

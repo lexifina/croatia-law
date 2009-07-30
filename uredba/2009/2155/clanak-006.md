@@ -1,0 +1,2 @@
+# Članak 6.
+Ukoliko stranac posjedovanje sredstava za uzdržavanje dokazuje jamstvom neke druge osobe da će ga uzdržavati za vrijeme njegovog boravka na području Republike Hrvatske, osoba koja daje izjavu o uzdržavanju mora priložiti dokaz da raspolaže sredstvima na način da je ukupan iznos po članu kućanstva te osobe, uključujući u to i stranca/e za koje se jamči uzdržavanje, u iznosu i uz priloženu dokumentaciju sukladno odredbama ove Uredbe.
