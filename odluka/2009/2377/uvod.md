@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009) i članka 15. stavka 1. Uredbe o osnivanju Hrvatske akreditacijske agencije (»Narodne novine«, br. 158/2004 i 44/2005), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2009. godine donijela
