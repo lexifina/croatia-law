@@ -1,0 +1,1 @@
+Na temelju članka 107. stavka 1. točke 11. i stavka 3. Zakona o oružju (»Narodne novine« broj 63/07., 146/08.), ministar unutarnjih poslova uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva, donosi
