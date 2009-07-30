@@ -1,0 +1,8 @@
+## Nadležna tijela za davanje odobrenja za istraživanje mineralnih sirovina
+# Članak 21.
+(1) Odobrenje za istraživanje mineralnih sirovina iz članka 5. točke 1., 2., 4. i 5. ovoga Zakona, izdaje ministarstvo nadležno za rudarstvo.
+(2) Odobrenje za istraživanje mineralnih sirovina iz članka 5. točke 1., 2., 4. i 5. ovoga Zakona, ukoliko se istraživanje mineralnih sirovina obavlja u području zona sanitarne zaštite crpilišta voda za piće i/ili u području značajnom za vodni režim, izdaje ministarstvo nadležno za rudarstvo uz suglasnost ministarstva nadležnog za vodno gospodarstvo.
+(3) Odobrenje za istraživanje mineralnih sirovina iz članka 5. točke 3. ovoga Zakona, izdaje ured državne uprave u jedinici područne (regionalne) samouprave nadležan za poslove rudarstva (u daljnjem tekstu: ured državne uprave), odnosno gradski ured Grada Zagreba nadležan za poslove rudarstva (u daljnjem tekstu: ured Grada Zagreba).
+(4) Odobrenje za istraživanje mineralnih sirovina iz članka 5. točke 3. ovoga Zakona, ukoliko se istraživanje mineralnih sirovina obavlja u području zona sanitarne zaštite crpilišta voda za piće ili u području značajnom za vodni režim, izdaje ured državne uprave, odnosno ured Grada Zagreba, uz suglasnost ministarstva nadležnog za vodno gospodarstvo.
+(5) Odobrenje za istraživanje mineralne i geotermalne vode, (kada je konačna namjena korištenja mineralne i geotermalne vode u energetske svrhe), izdaje ministarstvo nadležno za rudarstvo uz suglasnost ministarstva nadležnog za vodno gospodarstvo.
+(6) Odobrenje za istraživanje mineralnih sirovina, ukoliko se istraživanje mineralnih sirovina obavlja na pomorskom dobru izdaje nadležno tijelo, uz suglasnost nadležne lučke kapetanije s naslova sigurnosti plovidbe.

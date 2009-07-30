@@ -1,0 +1,4 @@
+## Rješavanje imovinskopravnih odnosa
+# Članak 135.
+(1) Fizičke i pravne osobe kojima je dano odobrenje za istraživanje mineralnih sirovina i/ili odobrenje odnosno koncesija za eksploataciju mineralnih sirovina sukladno propisima na temelju kojeg su stekli odobrenje, odnosno koncesiju, a nemaju riješene imovinskopravne odnose s vlasnicima zemljišnih čestica unutar odobrenih istražnih prostora, odnosno eksploatacijskih polja, dužni su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona dostaviti davateljima odobrenja, odnosno koncesije dokaz o riješenim imovinskopravnim odnosima.
+(2) Ukoliko fizičke i pravne osobe iz stavka 1. ovoga članka u propisanom roku ne dostave dokaz o riješenim imovinskopravnim odnosima, davatelj odobrenja, oduzet će im odobrenje odnosno davatelj koncesije raskinut će ugovor o koncesiji.

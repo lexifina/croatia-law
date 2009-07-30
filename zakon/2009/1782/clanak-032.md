@@ -1,0 +1,4 @@
+## Otklanjanje nedostataka i provedba drugih mjera osiguranja na trošak nositelja odobrenja
+# Članak 32.
+(1) Ako Državni inspektorat i Inspekcija zaštite okoliša utvrde da provedene mjere osiguranja iz članka 31. stavka 1. ovoga Zakona nisu dovoljne, naredit će nositelju odobrenja za istraživanje mineralnih sirovina, da u određenom roku, koji ne može biti duži od šest mjeseci, otkloni utvrđene nedostatke, a po potrebi da provede i druge mjere osiguranja.
+(2) Ako nositelj odobrenja za istraživanje mineralnih sirovina ne postupi po naređenju iz stavka 1. ovoga članka, Državni inspektorat i Inspekcija zaštite okoliša izvijestit će o tome ministarstvo nadležno za rudarstvo ili ured državne uprave, odnosno ured Grada Zagreb, koji će provesti potrebne mjere osiguranja na trošak nositelja odobrenja za istraživanje mineralnih sirovina.

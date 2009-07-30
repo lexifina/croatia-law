@@ -1,0 +1,4 @@
+## Privremeni prekid eksploatacije
+# Članak 68.
+(1) Ako se rad na eksploataciji mineralnih sirovina, mora privremeno prekinuti zbog nepredviđenih okolnosti koncesionar je dužan u roku od 24 sata nakon obustave radova, o tim okolnostima izvijestiti Državni inspektorat, te lučku kapetaniju, odnosno kapetaniju pristaništa, ako se eksploatacija mineralnih sirovina obavlja na plovnom putu.
+(2) O privremenom prekidu radova na eksploataciji mineralnih sirovina, koji je unaprijed planiran, koncesionar je dužan najmanje 15 dana prije dana prekida radova, izvijestiti Državni inspektorat, te lučku kapetaniju, odnosno kapetaniju pristaništa, ako se eksploatacija mineralnih sirovina obavlja na plovnom putu, dostaviti im zapisnik o uzrocima prekida i poduzetim mjerama za uklanjanje opasnosti šteta koje bi mogle nastati za vrijeme prekida radova i ponovnog započinjanja radova te otkopane prostore održavati u stanju u kojem se osigurava siguran prolaz.

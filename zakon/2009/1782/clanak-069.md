@@ -1,0 +1,5 @@
+## Obustava eksploatacije
+# Članak 69.
+(1) Ako dođe do potpune i trajne obustave eksploatacije mineralnih sirovina na eksploatacijskom polju, koncesionar je dužan najmanje 15 dana prije dana obustave radova o tome izvijestiti ministarstvo nadležno za rudarstvo ured državne uprave, odnosno ured Grada Zagreba, Državni inspektorat i lučku kapetaniju, odnosno kapetaniju pristaništa, ako se eksploatacija mineralnih sirovina obavlja na plovnom putu.
+(2) Ministarstvo nadležno za rudarstvo i ured državne uprave, odnosno ured Grada Zagreba mogu u slučaju obustave radova iz stavka 1. ovoga članka osnovati povjerenstvo koje će ispitati razloge za obustavu radova, postojanje rezervi mineralnih sirovina te njihovu iskorištenost.
+(3) Ako povjerenstvo iz stavka 2. ovoga članka utvrdi da rezerve mineralnih sirovina nisu iskorištene i da postoji mogućnost daljnje eksploatacije mineralnih sirovina, ministarstvo nadležno za rudarstvo ili ured državne uprave, odnosno ured Grada Zagreba, odredit će mjere zaštite preostalih rezervi mineralnih sirovina.

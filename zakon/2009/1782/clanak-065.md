@@ -1,0 +1,5 @@
+## Zabrana sklapanja određenih dodataka ugovoru o koncesiji
+# Članak 65.
+(1) Davatelj koncesije i koncesionar ne mogu sklapati dodatak ugovoru o koncesiji koji po svom sadržaju bitno odstupa od temeljnog ugovora o koncesiji, a posebno ne mogu povećavati količinu mineralnih sirovina, povećavati eksploatacijsko polje niti produživati rok važenja koncesije, osim u slučaju više sile.
+(2) Iznimno od odredbe stavka 1. ovoga članka, može se dodatkom ugovora o koncesiji povećati količina eksploatirane mineralne sirovine unutar postojećeg eksploatacijskog polja najviše 10% u odnosu na onu koja mu je odobrena ugovorom o koncesiji, uz uvjet da zahtjevu priloži rudarski projekt, koji je u skladu s lokacijskom dozvolom te da su ishođene suglasnosti rudarske inspekcije, inspekcije zaštite okoliša i uz uvjet da se protiv koncesionara ne vodi nikakav postupak propisan ovim Zakonom.
+(3) Pravo iz stavka 2. ovoga članka može se ostvariti isključivo u slučaju nastupa nepredviđenih i promijenjenih okolnosti sukladno odredbama obveznog prava.

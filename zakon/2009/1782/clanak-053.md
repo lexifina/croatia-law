@@ -1,0 +1,4 @@
+## Prosudba tehničke, stručne i financijske sposobnosti podnositelja
+# Članak 53.
+(1) Prilikom davanja koncesije za eksploataciju mineralnih sirovina davatelj koncesije treba prosuditi tehničku, stručnu i financijsku sposobnost podnositelja ponude za ostvarivanje koncesije kao i utjecaj ostvarivanja koncesije za eksploataciju mineralnih sirovina na očuvanje i zaštitu prirodnog okoliša.
+(2) Ispunjavanje stručnih, tehničkih i financijskih uvjeta ponuditelj može dokazati dokumentima da raspolaže potrebnim financijskim sredstvima ili da može pribaviti potrebna financija sredstva za ispunjenje ovih obveza. Ispunjenje stručnih i tehničkih uvjeta ponuditelj može dokazivati i prikazom zaposlenih stručnih radnika, oprema i uređajima kojima raspolaže i prikazom rudarskih radova koje obavlja ili je obavljao do podnošenja prijave.
