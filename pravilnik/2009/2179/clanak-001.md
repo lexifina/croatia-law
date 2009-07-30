@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina (»Narodne novine« br. 102/04, 91/05, 71/06, 73/07, 8/08) članak 9. stavak 1. mijenja se i glasi: »Proizvođači koji su upisani u Upisnik proizvođača grožđa, vina i voćnih vina dužni su do 31. prosinca 2011. ishoditi rješenje iz članka 8. stavka 4. ovog Pravilnika.«
