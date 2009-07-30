@@ -1,0 +1,21 @@
+# Članak 2.
+Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama iskazanim u metrima u Gauss-Kruegerovoj projekciji:
+Y X
+TOČKA 1 5 449 894.706 4 973 815.483
+TOČKA 2 5 449 886.909 4 973 810.913
+TOČKA 3 5 449 914.652 4 973 585.998
+TOČKA 4 5 449 925.148 4 973 564.013
+TOČKA 5 5 449 954.856 4 973 518.025
+TOČKA 6 5 449 956.847 4 973 520.768
+TOČKA 7 5 449 970.282 4 973 509.313
+TOČKA 8 5 449 968.779 4 973 507.345
+TOČKA 9 5 450 042.627 4 973 420.982
+TOČKA 10 5 450 064.329 4 973 392.961
+TOČKA 11 5 450 078.361 4 973 384.345
+TOČKA 12 5 450 086.137 4 973 383.811
+TOČKA 13 5 450 137.904 4 973 387.311
+TOČKA 14 5 450 151.297 4 973 384.906
+TOČKA 15 5 450 174.003 4 973 398.746
+TOČKA 16 5 450 242.601 4 973 487.270
+TOČKA 17 5 450 242.251 4 973 495.069
+a sve kako je nacrtano i označeno u grafičkom prilogu, na snimci stvarnog stanja, u mjerilu 1:1000.
