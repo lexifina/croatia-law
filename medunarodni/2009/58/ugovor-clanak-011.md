@@ -1,0 +1,5 @@
+# Članak 11.
+FINANCIJSKE ODREDBE
+1. Svaki određeni zračni prijevoznik imat će pravo izravno prodavati i izdavati svoje vlastite prijevozne dokumente na državnom području druge ugovorne stranke i, prema vlastitom nahođenju, posredstvom svojih zastupnika. Takvi zračni prijevoznici imat će pravo prodavati navedeni prijevoz, a svaka osoba bit će slobodna kupovati takav prijevoz u domaćoj valuti ili u bilo kojoj drugoj konvertibilnoj valuti.
+2. Svaki određeni zračni prijevoznik imat će pravo promijeniti i doznačiti u svoju zemlju, na zahtjev po službenom deviznom tečaju višak prihoda iznad rashoda koji je ostvaren u svezi s prijevozom putnika, tereta i pošte. Gore navedeni prijenos bit će proveden u konvertibilnim valutama te u skladu s nacionalnim zakonima o deviznom poslovanju i drugim mjerodavnim propisima.
+3. U slučaju postojanja posebnih sporazuma koji uređuju namirenje plaćanja i koji su na snazi između ugovornih stranaka, odredbe takvih sporazuma primjenjivat će se na prijenos sredstava iz stavka 2. ovog članka.

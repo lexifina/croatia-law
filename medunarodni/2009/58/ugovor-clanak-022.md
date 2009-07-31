@@ -1,0 +1,3 @@
+# Članak 22.
+OTKAZ
+Bilo koja ugovorna stranka može u bilo kojem trenutku obavijestiti drugu ugovornu stranku u pisanom obliku, diplomatskim putem, o svojoj odluci da otkaže ovaj Sporazum. U takvom slučaju ovaj će Sporazum prestati dvanaest (12) mjeseci nakon datuma primitka obavijesti druge ugovorne stranke, osim ako se obavijest o otkazu ne povuče dogovorom, prije isteka tog razdoblja. Obavijest o otkazu istovremeno će se uputiti Međunarodnoj organizaciji civilnog zrakoplovstva. U slučaju izostanka potvrde primitka pismene obavijesti druge ugovorne stranke smatrat će se da je obavijest primljena četrnaest (14) dana nakon primitka obavijesti od strane Međunarodne organizacije civilnog zrakoplovstva.

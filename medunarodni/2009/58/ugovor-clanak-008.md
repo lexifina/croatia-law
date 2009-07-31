@@ -1,0 +1,4 @@
+# Članak 8.
+KORISNIČKE NAKNADE
+1. Niti jedna ugovorna stranka neće određenom zračnom prijevozniku (zračnim prijevoznicima) druge ugovorne stranke nametnuti ili dozvoliti nametanje korisničke naknade veće od onih koje su nametnute njenim vlastitim zračnim prijevoznicima koja obavlja sličan međunarodni zračni promet.
+2. Svaka ugovorna stranka će potaknuti konzultacije o korisničkim naknadama između svojih nadležnih vlasti zaduženih za naplate i zračnih prijevoznika koji koriste njihove usluge i uređaje, koji su u nadležnosti tih vlasti zaduženih za naknade, ako je to moguće, putem organizacija koje zastupaju te zračne prijevoznike. Obavijesti s bilo kakvim razumnim prijedlozima za promjene korisničkih naknada može se dostaviti tim korisnicima kako bi im se omogućilo izražavanje njihovog mišljenja prije uvođenja promjena.
