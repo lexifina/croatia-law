@@ -1,0 +1,17 @@
+## Računalna aplikacija
+# Članak 5.
+1) Putem računalne aplikacije nadležnog tijela subjekt je obvezan:
+- za objekte iz članka 4. točke 1. ovoga Pravilnika, 24 sata prije klanja odnosno obrade u objektu, prijaviti odnosno evidentirati vrstu i broj životinja namijenjenih klanju odnosno obradi,
+- za objekte iz članka 4. točke 2. ovoga Pravilnika, najkasnije 24 sata po dopremi u objekt, prijaviti odnosno evidentirati količinu ulazne sirovine životinjskog podrijetla odnosno hrane životinjskog podrijetla;
+- za objekte iz članka 4. točke 3. ovoga Pravilnika, najkasnije 24 sata po dopremi u objekt, prijaviti odnosno evidentirati količinu ulazne sirovine životinjskog podrijetla odnosno hrane životinjskog podrijetla;
+- za objekte iz članka 4. točke 4. ovoga Pravilnika, najkasnije 24 sata po preradi, proizvodnji ili pakiranju, prijaviti odnosno evidentirati svaku seriju hrane životinjskog podrijetla;
+- za odobrene objekte iz članka 4. točke 5. ovoga Pravilnika najkasnije do 31. prosinca tekuće godine prijaviti odnosno evidentirati vrstu i količinu proizvedene odnosno na tržište stavljene hrane za životinje, sukladno djelatnostima navedenim u članku 18. stavku 1. ovoga Pravilnika;
+- za registrirane objekte iz članka 4. točke 5. ovoga Pravilnika najkasnije do 31. prosinca tekuće godine prijaviti odnosno evidentirati vrstu i količinu proizvedene i/ili na tržište stavljene i/ili prevezene i/ili uskladištene i/ili uvezene hrane za životinje, osim za djelatnosti koje su izuzete u skladu s člankom 18. stavkom 3 ovoga Pravilnika,
+- za registrirane objekte iz članka 18. stavka 4. ovoga Pravilnika najkasnije do 31. prosinca tekuće godine prijaviti odnosno evidentirati vrstu i količinu proizvedene hrane za životinje.
+2) Iznimno od stavka 1. ovoga članka:
+- u slučaju nemogućnosti pristupa računalnoj aplikaciji, subjekti mogu podatke iz stavka 1. alineje prve, druge i treće ovoga članka, 24 sata prije klanja ili obrade odnosno najkasnije 24 sata po dopremi sirovine u objekt odnosno 24 sata po uskladištenju dostaviti na odgovarajućem obrascu iz Priloga IV. ovoga Pravilnika, putem telefaksa, nadležnom tijelu - Upravi za veterinarske inspekcije, a po dostavi podaci sa obrasca upisuju se u računalnu aplikaciju;
+- u slučaju objekata iz članka 4. točke 4. ovoga Pravilnika, subjekti mogu podatke iz stavka 1. alineje treće ovoga članka, najkasnije 24 sata po preradi, proizvodnji ili pakiranju serije hrane životinjskog podrijetla, dostaviti na obrascu I. iz Priloga IV. ovoga Pravilnika, putem telefaksa, nadležnom tijelu - Upravi za veterinarske inspekcije, a po dostavi podaci sa obrasca upisuju se u računalnu aplikaciju;
+- u slučaju objekata iz članka 18. stavka 4. ovoga Pravilnika, subjekti mogu podatke iz stavka 1. alineje sedme dostaviti na obrascu I. iz Priloga IV. ovoga Pravilnika, nadležnom tijelu - Upravi za veterinarske inspekcije, a po dostavi podaci sa obrasca upisuju se u računalnu aplikaciju.
+3) Na temelju podataka iz stavaka 1. i 2. ovoga članka putem računalne aplikacije obračunavaju se pristojbe iz članka 3. ovoga Pravilnika.
+4) Subjekt je obvezan nadležnom tijelu na obrascu iz Priloga II. ovoga Pravilnika dostaviti odgovarajuće podatke, koji uključuju i podatak o osobi ovlaštenoj za pristup računalnoj aplikaciji iz stavaka 1. i 3. ovoga članka.
+5) Nadležno tijelo po dostavi obrasca iz stavka 4. ovoga članka dodjeljuje subjektu korisničko ime i lozinku za pristup računalnoj aplikaciji.

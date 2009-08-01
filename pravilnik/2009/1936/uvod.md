@@ -1,0 +1,1 @@
+Na temelju članka 78. stavka 2. Zakona o hrani (»Narodne novine«, broj 46/07 i 155/08) te članka 73. stavka 8. i članka 116. stavka 7. Zakona o veterinarstvu (»Narodne novine«, broj 41/07 i 155/08), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi

@@ -1,0 +1,4 @@
+## Odstupanja
+# Članak 25.
+1) Ukoliko se ante mortem pregled i post mortem pregled obavljaju u klaonicama u kojima se djelatnost klanja ne obavlja puno radno vrijeme u trajanju od 8 sati, kao i u slučajevima kada se pregledi obavljaju po pozivu stranke, uz naknadu iz članka 23. stavka 2. alineje druge ovoga Pravilnika naplaćuju se troškovi prijevoza od radnog mjesta osobe koja obavlja navedene preglede do objekta u kojem se obavlja ante mortem i post mortem pregled životinja u iznosu od 2,00 kn po prijeđenom kilometru.
+2) Ukoliko djelatnici objekta ili tehničke nesukladnosti pri provođenju ante mortem pregleda i post mortem pregleda u objektu uzrokuju kašnjenje u obavljanju pregleda u planirano vrijeme, subjektu se naplaćuje dodatna pristojba od 300,00 kn, po satu kašnjenja, koju subjekt uplaćuje u Državni proračun Republike Hrvatske.
