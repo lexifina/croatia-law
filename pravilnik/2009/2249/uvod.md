@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 140/05, 35/08), ministar poljoprivrede, ribarstva i ruralnog razvoja, donosi

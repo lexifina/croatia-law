@@ -1,0 +1,2 @@
+# Članak 5.
+Sudionici u Nacionalnom programu su predstavnici Ministarstva, subjekata koji čuvaju kolekcije uključene u Nacionalnu banku biljnih gena, sveučilišta, istraživačkih instituta, oplemenjivača bilja, tvrtki koje se bave sjemenarstvom, nevladinih organizacija, poljoprivrednih proizvođača i drugih pravnih i fizičkih osoba koje su svojim radom vezane za očuvanje i uporabu biljnih genetskih izvora.
