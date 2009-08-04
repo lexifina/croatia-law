@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja na zdravstvenu njegu u kući osigurane osobe (»Narodne novine«, broj 40/07.) u članku 9. stavku 1. iza riječi: »tjedno« dodaju se riječi: »kroz 30 dana«, a iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»Iznimno od stavka 1. ovog članka kod najtežih bolesnika, posebno onih s definiranim trajnim stanjima, provođenje zdravstvene njege u kući može se odobriti u trajanju od 90 dana u jednom odobrenju, prema dijagnozama utvrđenim u popisu bolesti i stanja za odobrenje zdravstvene njege u kući kroz 90 dana, koji je sastavni dio ovog Pravilnika.«
