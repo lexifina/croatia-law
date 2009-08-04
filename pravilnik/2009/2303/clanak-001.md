@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući (»Narodne novine« broj 46/07. - pročišćeni tekst i 64/08.: u daljnjem tekstu: Pravilnik) u članku 4. stavak 1. mijenja se i glasi:
+»Osigurana osoba bolničku medicinsku rehabilitaciju ostvaruje, u pravilu, u najbližoj specijalnoj bolnici za medicinsku rehabilitaciju prema mjestu njezinog prebivališta, odnosno boravka koja sa Zavodom ima ugovorenu i osiguranoj osobi može pružiti traženu zdravstvenu zaštitu, kada je takvo liječenje medicinski opravdano u skladu s ovim Pravilnikom i drugim općim aktima Zavoda.«
