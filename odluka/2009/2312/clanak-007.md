@@ -1,0 +1,6 @@
+## Iznimke
+# Članak 7.
+(1) Redistribuiranje novčanica i kovanog novca putem isplatnih bankomata ili drugih uređaja kojima rukuju klijenti, a čiju su autentičnost i prikladnost za daljnji promet ručno provjerili osposobljeni zaposlenici kreditnih institucija, iznimno je dopuštena u udaljenim poslovnim jedinicama kreditnih institucija s vrlo malim opsegom gotovinskih transakcija.
+(2) Ručnom provjerom novčanica i kovanog novca obavljenom u skladu sa stavkom 1. ovog članka može biti obuhvaćen samo onaj obujam novčanica i kovanog novca koji je za svaku kreditnu instituciju utvrdio HNB, a koji ni u kojem slučaju ne može biti viši od 5% ukupnog obujma novčanica i kovanog novca koje kreditna institucija distribuira u cjelokupnoj poslovnoj mreži putem isplatnih bankomata ili drugih uređaja kojima rukuju klijenti.
+(3) Ručna provjera autentičnosti i prikladnosti novčanica za daljnji promet koje se redistribuiraju putem isplatnih bankomata ili drugih uređaja kojima rukuju klijenti dopuštena je i u slučaju više sile.
+(4) Obveznici su dužni u slučaju nastanka više sile odmah o ručnoj obradi novčanica i kovanog novca izvijestiti HNB. Pritom dostavljaju i detaljne podatke o točnoj naravi više sile te očekivanom trajanju ručne obrade.

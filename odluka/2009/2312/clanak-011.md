@@ -1,0 +1,2 @@
+# Članak 11.
+Uređaji za obradu novčanica navedeni u članku 9. i članku 10. stavku 1. točki 1. ove Odluke, kao i budući uređaji koji će se upotrebljavati za obradu novčanica, moraju zadovoljiti standarde za sortiranje novčanica koje će se redistribuirati putem isplatnih bankomata ili drugih vrsta uređaja kojima rukuju klijenti, a koje propisuje HNB. Navedeni uređaji moraju biti prilagodljivi kako bi se osigurala primjena promijenjenih standarda za sortiranje.
