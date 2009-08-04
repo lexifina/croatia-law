@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« br. 59/09.) u članku 1. stavku 2. u Tablici 1. pod grupom: »Lijekovi za liječenje multiple skleroze« pod šifrom L03AB07 u stupcu 4. »Oblik i jačina lijeka« dodaje se novi oblik: »šprica 1x44 mcg/12 mil.i.j. - Rebif 44«, te u stupcu 5. »Najviša cijena« upisuje se iznos: »485,00«.
