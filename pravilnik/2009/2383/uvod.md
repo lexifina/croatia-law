@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 5., članka 10. stavka 2., članka 12. stavka 2., članka 13. stavaka 4. i 5. Zakona o vježbenicima u pravosudnim tijelima i pravosudnom ispitu (»Narodne novine«, broj: 84/08 i 75/09), ministar pravosuđa donosi
