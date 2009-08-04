@@ -1,0 +1,3 @@
+# Članak 66.
+(1) Članovi posade ratnog broda i vojnog zrakoplova mogu napustiti oštećeni brod ili zrakoplov isključivo po zapovijedi nadređenog, a iznimno i bez zapovijedi ako im je neposredno ugrožen život. Prije napuštanja broda ili zrakoplova dužni su poduzeti sve radnje i postupke predviđene za slučaj napuštanja prema propisima o brodskoj službi, odnosno uporabi zrakoplova, osim u slučaju neposredne životne opasnosti.
+(3) Kada se iscrpe sve mogućnosti za obranu, vojna je osoba obvezna uništiti ili oštetiti vojno skladište, ratni brod, vojni zrakoplov, tenk ili drugo borbeno sredstvo kako ne bi neoštećeno palo u ruke protivniku.
