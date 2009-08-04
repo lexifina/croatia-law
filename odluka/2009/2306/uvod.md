@@ -1,0 +1,1 @@
+Na osnovi članka 103. stavka 4., a u svezi s člankom 131. i 132. točkom 21. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08.), i članka 26. točke 4. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 5. sjednici održanoj 15. srpnja 2009. godine donijelo je
