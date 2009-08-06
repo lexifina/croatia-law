@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Administrativni prostor, odnosno ured u kojem se obavljaju poslovi zastupanja u osiguranju u Stanici mora biti posebno odijeljen od prostora u kojem se obavlja djelatnost tehničkog pregleda vozila, te funkcionalan i opremljen odgovarajućom računalnom i uredskom opremom.
+(2) Pod odgovarajućom računalnom opremom iz stavka 1. ovoga članka podrazumijeva se oprema koja omogućava rad s bazom podataka Središnje evidencije štetnika i Informacijskim centrom Hrvatskog ureda za osiguranje te omogućava rad s cjenicima i uvjetima osiguranja svih društava za osiguranje koja obavljaju poslove osiguranja od automobilske odgovornosti u Republici Hrvatskoj.
