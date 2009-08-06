@@ -1,0 +1,7 @@
+# Članak 16.
+(1) U svim drugim slučajevima kada se snima iskaz okrivljenika ili svjedoka u prethodnom postupku osnovna snimka se pečati i potpisuje na način opisan u članku 13. stavak 2. ovog Pravilnika i sastavni je dio zapisnika o ispitivanju.
+(2) Oblik, veličina i sadržaj teksta na omotnici nalazi se na obrascu II. koji je sastavni dio ovog Pravilnika. Omotnica mora biti tako izrađena da ostaje trag u slučaju otvaranja.
+(3) Ako se ispituje okrivljenik, jedna nezapečaćena snimka se odmah predaje okrivljeniku, dok jednu snimku zadržava državni odvjetnik. Ako je ispitivanje proveo istražitelj, osnovnu zapečaćenu snimku i jednu nezapečaćenu snimku uz zapisnik o provedenom ispitivanju dostavlja državnom odvjetniku.
+(4) Ako se ispituje svjedok, jednu nezapečaćenu snimku zadržava državni odvjetnik, dok se druga nezapečaćena snimka predaje okrivljeniku ako je prisutan ispitivanju, a u protivnom se čuva u spisu i predaje se okrivljeniku na njegov zahtjev i kada mu Zakon dozvoljava uvid u spis. Ako je ispitivanje proveo istražitelj osnovnu zapečaćenu snimku i nezapečaćene snimke uz zapisnik predaje državnom odvjetniku. Ako je prisutan okrivljenik, predaje mu odmah jednu nezapečaćenu snimku.
+(5) Ako ima više okrivljenika, na njihov zahtjev ili zahtjev njihovih branitelja napravit će se kopija snimke.
+(6) Zapečaćena snimka se može otvoriti po nalogu suda i čuva se dok se čuva i kazneni spis.
