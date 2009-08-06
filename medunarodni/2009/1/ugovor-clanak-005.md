@@ -1,0 +1,10 @@
+# Članak 5.
+OČUVANJE, ISTRAŽIVANJE, PRIKUPLJANJE, KARAKTERIZIRANJE, OCJENJIVANJE I DOKUMENTIRANJE BILJNIH GENETSKIH RESURSA ZA HRANU I POLJOPRIVREDU
+5. 1. Svaka će ugovorna stranka, ovisno o nacionalnom zakonodavstvu, i u suradnji s drugim ugovornim strankama gdje to odgovara, promicati integrirani pristup istraživanju, očuvanju i održivoj uporabi biljnih genetskih resursa za hranu i poljoprivredu, a osobito će, gdje je to primjereno:
+a) istražiti i popisati biljne genetske resurse za hranu i poljoprivredu, uzimajući u obzir status i stupanj varijacije kod postojećih populacija, uključujući one koje imaju potencijalnu vrijednost za uporabu te, koliko je moguće, ocijeniti sve što bi ih ugrožavalo;
+b) promicati prikupljanje biljnih genetskih resursa za hranu i poljoprivredu i relevantnih s tim povezanih informacija o onim biljnim genetskim resursima koji su ugroženi ili su potencijalno za uporabu;
+c) poticati ili podupirati, prema potrebi, nastojanja poljoprivrednika i lokalnih zajednica da upravljaju svojim biljnim genetskim resursima za hranu i poljoprivredu i očuvaju ih na poljoprivrednim imanjima;
+d) promicati očuvanje in situ divljih srodnika poljoprivrednih kultura i divljih biljaka za proizvodnju hrane, uključujući pri tome i zaštićena područja, podupiranjem, među ostalim, nastojanja domorodačkih i lokalnih zajednica;
+e) surađivati radi promicanja razvitka učinkovitog i održivog sustava očuvanja ex situ, posvećujući dužnu pozornost potrebi za odgovarajućim dokumentiranjem, karakteriziranjem, regeneriranjem i ocjenjivanjem, te promicati razvitak i transfer odgovarajućih tehnologija za tu svrhu imajući u vidu poboljšavanje održive uporabe biljnih genetskih resursa za hranu i poljoprivredu;
+f) nadgledati očuvanje vitalnosti, stupnja varijacije i genetskog integriteta kolekcija biljnih genetskih resursa za hranu i poljoprivredu.
+5.2. Prema potrebi, ugovorne stranke, poduzet će korake da svedu na najmanju mjeru ili po mogućnosti uklone ono što ugrožava biljne genetske resurse za hranu i poljoprivredu

@@ -1,0 +1,15 @@
+# Članak 18.
+IZVORI FINANCIRANJA
+18. 1. Ugovorne stranke obvezuju se primijeniti strategiju financiranja za provedbu ovog Ugovora sukladno odredbama ovoga članka.
+18. 2. Ciljevi strategije financiranja bit će povećavanje dostupnosti, transparentnosti, djelotvornosti i učinkovitosti osiguravanja financijskih sredstava za provedbu aktivnosti na temelju ovog Ugovora.
+18. 3. Radi mobiliziranja financiranja za prioritetne aktivnosti, planove i programe, osobito u zemljama u razvoju i zemljama s gospodarstvom u tranziciji, i uzimajući u obzir Globalni plan akcije, Rukovodeće tijelo će periodički određivati cilj takvog financiranja.
+18. 4. U skladu s ovom strategijom financiranja:
+a) ugovorne stranke poduzet će potrebne i odgovarajuće mjere unutar rukovodećih tijela relevantnih međunarodnih mehanizama, fondova i tijela, da bi osigurale primjereni prioritet i pozornost učinkovitom dodjeljivanju predviđenih i dogovorenih sredstava za provedbu planova i programa na temelju ovog Ugovora;
+b) mjera u kojoj će ugovorne stranke koje su zemlje u razvoju i ugovorne stranke s gospodarstvom u tranziciji učinkovito ostvarivati svoje obveze na temelju ovog Ugovora, ovisit će o učinkovitom dodjeljivanju sredstava spomenutih u ovom članku, osobito od ugovornih stranaka koje su razvijene zemlje. Ugovorne stranke koje su zemlje u razvoju i ugovorne stranke s gospodarstvom u tranziciji dat će u svojim vlastitim planovima i programima potrebni prioritet građenju sposobnosti glede biljnih genetskih resursa za hranu i poljoprivredu;
+c) ugovorne stranke koje su razvijene zemlje također osiguravaju, a ugovorne stranke koje su zemlje u razvoju i ugovorne stranke s gospodarstvom u tranziciji koriste, financijske resurse za provedbu ovog Ugovora putem bilateralnih, regionalnih i multilateralnih putova. Takvi putovi uključuju mehanizam spomenut u članku 19. 3. f);
+d) svaka je ugovorna stranka suglasna poduzeti nacionalne aktivnosti za očuvanje i održivu uporabu biljnih genetskih resursa za hranu i poljoprivredu i osigurati za njih financijska sredstva u skladu sa svojim nacionalnim mogućnostima i financijskim sredstvima. Osigurana financijska sredstva ne smiju se koristiti za ciljeve koji nisu u skladu s ovim Ugovorom, osobito u područjima koja su povezana s međunarodnom trgovinom robama;
+e) ugovorne stranke suglasne su da financijske koristi koje proizlaze iz članka 13. 2. d) jesu dio strategije financiranja;
+f) dobrovoljne doprinose mogu također davati ugovorne stranke, privatni sektor, uzimajući u obzir odredbe članka 13., nevladine organizacije i drugi izvori. Ugovorne stranke suglasne su da Rukovodeće tijelo treba razmotriti modalitete strategije da se potaknu takvi doprinosi.
+18. 5. Ugovorne stranke suglasne su da se prioritet dade provedbi dogovorenih planova i programa za poljoprivrednike u zemljama u razvoju, osobito u najmanje razvijenim zemljama, i u zemljama s gospodarstvom u tranziciji, koji čuvaju i održivo koriste biljne genetske resurse za hranu i poljoprivredu.
+Dio VII.
+INSTITUCIONALNE ODREDBE

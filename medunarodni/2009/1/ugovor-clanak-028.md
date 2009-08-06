@@ -1,0 +1,4 @@
+# Članak 28.
+STUPANJE NA SNAGU
+28. 1. Uz uvjet odredaba članka 29. 2., ovaj Ugovor stupa na snagu devedesetog dana nakon polaganja četrdesete isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, pod uvjetom da su najmanje dvadeset isprava o ratifikaciji, prihvatu, odobrenju ili pristupu položile članice FAO-a.
+28. 2. Za svaku članicu FAO-a ili svaku državu koja nije članica FAO-a, ali je članica Organizacije Ujedinjenih naroda ili bilo koje od njezinih specijaliziranih ustanova ili Međunarodne agencije za atomsku energiju, i koja ratificira, prihvati, odobri ili pristupi ovom Ugovoru nakon što sukladno članku 28. 1. bude položena četrdeseta isprava o ratifikaciji, prihvatu, odobrenju ili pristupu, Ugovor stupa na snagu dvadesetog dana nakon polaganja njezine isprave o ratifikaciji, prihvatu, odobrenju ili pristupu.
