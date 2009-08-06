@@ -1,0 +1,52 @@
+## A
+## A
+## A
+## A
+## B
+## A
+## A
+## C
+## B
+## A
+## D
+## C
+## B
+## A
+## A
+## B
+## B
+## B
+## B
+## C
+## B
+## B
+## D
+## C
+## C
+## A
+## B
+## C
+## B
+## B
+## C
+## C
+## C
+## C
+## D
+## C
+## D
+## A
+## C
+## D
+## B
+## C
+## D
+## C
+## C
+## D
+## D
+## D
+# Članak 13.
+(1) Sva naselja u nekoj općini ili gradu koja nisu razvrstana u A, B ili C razred razvrstavaju se u razred D.
+(2) Naselja, za koja prema službenim podacima Državnog zavoda za statistiku nisu prikazana turistička noćenja niti je prikazan promet u ugostiteljskoj djelatnosti, razvrstavaju se prema kvantitativnim kriterijima u razred D, ako prema kvalitativnim kriterijima ispunjavaju najmanje uvjet za razvrstavanje u razred B.
+(3) Turistička zajednica općine, grada, odnosno turistička zajednica mjesta i županije može predložiti Ministarstvu turizma da se naselje koje je razvrstano u razred A, B, C ili D, razvrsta u sljedeći viši ili niži razred ako su u naselju nastale promjene u obujmu i kvaliteti turističke ponude.
