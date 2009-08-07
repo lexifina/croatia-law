@@ -1,0 +1,6 @@
+# Članak 8.
+U članku 130. stavku 1. točka 6. mijenja se i glasi:
+»6. iznos računa - naknade odnosno naknade s porezom. Iznos iz ovog retka razvrstava se u isporuke koje ne podliježu oporezivanju (stupac 7); isporuke koje su oslobođene poreza: izvoz (stupac 8), oslobođenja poreza u tuzemstvu (stupac 9), ostala oslobođenja (stupac 10); isporuke koje se oporezuju po stopi 0% (stupac 11); isporuke oporezive po stopi od 10% (stupci 12 i 13), isporuke oporezivane po stopi od 22% (stupci 14 i 15) i isporuke oporezive po stopi od 23% (stupci 16 i 17). Izdani računi u kojima su zaračunane usluge npr. (prijevoz iz članka 5. stavak 4. točka 2. Zakona) koje se dijelom oporezuju, a dijelom ne, zatim računi za isporuke novosagrađenih nekretnina kao i rabljenih osobnih vozila ako je osnovica za obračun poreza na dodanu vrijednost (u smislu članka 8. stavak 7. Zakona) manja od iznosa naknade za isporučena dobra, u knjizi će biti evidentirani na sljedeći način: u stupcu 6 ukupan iznos računa s porezom; u stupcu 7 dio naknade za obavljenu isporuku odnosno uslugu koja ne podliježe oporezivanju te podaci o oporezivom dijelu u stupcima 14, 15, 16 i 17,«
+Iza točke 13. dodaje se nova točka 14. koja glasi:
+»14. oporezive isporuke po stopi od 23% (stupac 16 i 17).«
+U stavku 2. točki 1. riječi: »14 i 15« zamjenjuju se riječima: »14, 15, 16 i 17«.
