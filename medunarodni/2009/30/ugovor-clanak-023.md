@@ -1,0 +1,4 @@
+# Članak 23.
+PRAVILA ULASKA, IZLASKA I BORAVKA
+(1) Ukoliko ovim Sporazumom nije drugačije propisano, policijski službenici tijela jedne ugovorne stranke mogu ući na državno područje države druge ugovorne stranke u cilju obavljanja zadataka prema ovom Sporazumu s valjanom službenom iskaznicom koja ima fotografiju te mogu boraviti na tom državnom području toliko vremena koliko je potrebno za obavljanje njihovih zadataka, a zatim se moraju vratiti.
+(2) Prikriveni istražitelji iz članka 15. ovoga Sporazuma mogu i bez posebnog odobrenja ući na državno područje države druge ugovorne stranke s ispravama koje prikrivaju njegov identitet te tamo boraviti toliko vremena koliko je potrebno za obavljanje njihovih zadataka, no najdulje do roka utvrđenog člankom 15. stavkom 6. ovoga Sporazuma. Središnje kontaktne točke ugovornih stranaka međusobno razmjenjuju uzorke isprava kojima se prikriva istražiteljev identitet.

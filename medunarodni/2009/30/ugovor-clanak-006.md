@@ -1,0 +1,10 @@
+# Članak 6.
+RAZMJENA INFORMACIJA
+U cilju učinkovitog suzbijanja kriminala kao i otklanjanja konkretne prijetnje javnom poretku, policijska tijela ugovornih stranaka u odgovoru na zahtjev posebno šalju sljedeće:
+a) podatke o osobama koje sudjeluju u organiziranom kriminalu, podatke o povezanosti počinitelja s počinjenim kaznenim djelom, o zločinačkim organizacijama i kriminalnim skupinama, o tipičnim oblicima ponašanja počinitelja i skupina, o planiranim kaznenim djelima, o kaznenim djelima u pokušaju te o počinjenim kaznenim djelima, posebno podatke koji se odnose na vrijeme, mjesto, način počinjenja kaznenog djela, te o napadnutim objektima, informacije o specifičnim okolnostima te poduzetim mjerama ukoliko je to potrebno za suzbijanje kriminaliteta;
+b) informacije o metodama te o novim oblicima međunarodnog kriminaliteta;
+c) podatke o planiranim ili počinjenim kaznenim djelima terorizma, osobama koje u njima sudjeluju, metodama njihova počinjenja i uporabljenoj tehničkoj opremi, kao i podatke o terorističkim skupinama te članovima takvih skupina koje planiraju, čine ili su počinile djela na državnom području država jedne od ugovornih stranaka, a na štetu druge stranke, kao i informacije i podatke koji su potrebni za borbu protiv terorizma i suzbijanje kaznenih djela koja ozbiljno ugrožavaju javnu sigurnost;
+d) svoja dostignuća u kriminalistici i kriminologiji te drugim istraživanjima na području kriminaliteta te informacije o praksi, metodama i sredstvima policijskog rada koje se koriste u istragama u cilju njihova daljnjeg razvijanja;
+e) podatke ili reprodukciju predmeta zbog kojih je kazneno djelo počinjeno, ili koji na sebi imaju inkriminirajuće tragove kaznenog djela, ili koji su bili korišteni, ili su trebali biti korišteni pri počinjenju kaznenog djela, ili koji su nastali počinjenjem kaznenoga djela;
+f) informacije o pravnim propisima koji se odnose na kaznena djela obuhvaćena ovim Sporazumom;
+g) podatke o imovinskoj koristi stečenoj počinjenjem kaznenog djela.

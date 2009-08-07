@@ -1,0 +1,3 @@
+# Članak 36.
+ODNOS PREMA DRUGIM MEĐUNARODNIM OBVEZAMA
+Odredbe ovoga Sporazuma ne utječu na obveze koje su ugovorne stranke preuzele na temelju drugih dvostranih ili mnogostranih međunarodnih ugovora. Ovaj Sporazum ne utječe na obveze Republike Mađarske koje proizlaze iz njezinog članstva u Europskoj uniji. Slijedom toga, odredbe ovoga Sporazuma se ne mogu navoditi, niti zajednički niti pojedinačno, niti se mogu tumačiti na način koji bi mogao poništiti, izmijeniti ili dopuniti ili na bilo koji način utjecati na obveze Republike Mađarske preuzete Ugovorom o pristupanju ili koje proizlaze iz Ugovora o osnivanju Europskih zajednica, iz Ugovora o Europskoj uniji i općenito iz primarnog i sekundarnog zakonodavstva Europske unije.

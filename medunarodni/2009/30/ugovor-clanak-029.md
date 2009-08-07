@@ -1,0 +1,12 @@
+# Članak 29.
+PRAVILA POSTUPANJA S PODACIMA
+U okviru suradnje predviđene ovim Sporazumom, policijska tijela ugovornih stranaka postupaju sukladno niže navedenim odredbama o postupanju s podacima, uzimajući u obzir Konvenciju Vijeća Europe za zaštitu osoba glede automatizirane obrade osobnih podataka, sastavljenu u Strasbourgu, 28. siječnja 1981. te njezin Dodatni protokol u vezi nadzornih tijela i međunarodne razmjene podataka, sastavljen u Strasbourgu, 8. studenoga 2001.:
+a) u zahtjevu mora biti naznačena vrsta traženih podataka, svrha te pravni temelj njihova korištenja;
+b) policijsko tijelo koje prima podatke (dalje: »primatelj«) smije koristiti osobne podatke samo u svrhe predviđene ovim Sporazumom i pod uvjetima koje određuje policijsko tijelo koje šalje podatke (dalje: »pošiljatelj»). Primatelj će na zahtjev obavještavati pošiljatelja o korištenju primljenih osobnih podataka;
+c) prije nego što pošalje podatke, pošiljatelj, koji je utvrdio da je slanje podataka nužno potrebno i razmjerno navedenoj svrsi te da je u skladu s njegovim nacionalnim zakonima i propisima, provjerit će točnost podataka koji se trebaju proslijediti točni;
+d) pri slanju podataka, pošiljatelj je dužan naznačiti rok brisanja ili uništavanja podataka u skladu sa svojim nacionalnim zakonima i propisima. Ako pošiljatelj naznači primatelju rok za pohranu podataka, primatelj ga se dužan pridržavati;
+e) osobni se podaci smiju slati isključivo tijelima iz članka 1. ovoga Sporazuma. Takvi se podaci smiju slati drugim tijelima samo uz prethodno pisano odobrenje pošiljatelja te nakon razmatranja uvjeta iz točke c);
+f) tijela koja obrađuju podatke dužna su voditi zapise o podacima koji su poslani i primljeni sukladno ovom Sporazumu, a koji sadrže najmanje: svrhu dostavljanja podataka, pravni temelj, sadržaj, vrstu dostavljenih podataka, osobne podatke o osobi koja dostavlja podatke, imena osoba na koje utječe dostava podataka, tijelo koje šalje i koje prima podatke, datum dostave podataka i rok do kojeg se podaci moraju izbrisati;
+g) slanje elektroničkom poštom automatski se zapisuje;
+h) zapisi se pohranjuju na rok od najmanje pet godina, a zapisi koji se odnose na prijenos posebnih kategorija osobnih podataka pohranjuju se na rok koji određuju nacionalni zakoni i propisi koji se odnose na te podatke;
+i) podaci iz tih zapisa mogu se koristiti isključivo u svrhu nadzora poštivanja pravila o zaštiti podataka.
