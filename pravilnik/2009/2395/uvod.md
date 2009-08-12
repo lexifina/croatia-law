@@ -1,0 +1,1 @@
+Na temelju članka 86. stavka 4. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08. i 86/09.), ministar znanosti, obrazovanja i športa donosi

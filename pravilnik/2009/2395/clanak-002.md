@@ -1,0 +1,2 @@
+# Članak 2.
+Pedagoška mjera odgojno-obrazovnog tretmana produženog stručnog postupka u osnovnim i srednjim školama oblik je odgojnog postupanja koji se provodi s ciljem utvrđivanja razloga neprihvatljivog ponašanja, složenijih oblika poremećaja u ponašanju i/ili visokorizičnih ponašanja učenika, te poduzimanje mjera za uklanjanje istih, odnosno do vraćanja uravnoteženog i društveno prihvatljivog ponašanja.

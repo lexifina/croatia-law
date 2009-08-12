@@ -1,0 +1,3 @@
+# Članak 12.
+Članovi Povjerenstva ravnatelju će, prema potrebi, predložiti uključivanje jednoga do dva stručnjaka iz područja odgoja, zdravstva i /ili socijalne skrbi i drugih, u provođenje pedagoške mjere odgojno-obrazovnog tretmana produženog stručnog postupka, s ciljem pružanja pomoći i podrške učeniku te osiguravanja integracije učenika uz primjenu načela interdisciplinarnosti/multidisciplinarnosti i odgovarajućih odgojnih ili restitucijskih mjera i intervencija.
+U okviru provođenja pedagoške mjere odgojno-obrazovnog tretmana produženog stručnog postupka, učenika se može uputiti u savjetovališta ili druge ustanove koje se bave problemima djece i adolescenata.
