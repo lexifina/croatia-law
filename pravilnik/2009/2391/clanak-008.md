@@ -1,0 +1,3 @@
+## Spaljivanje i zakapanje pčela i pčelinjih proizvoda
+# Članak 8.
+U slučaju pčela i pčelinjih proizvoda na koje se odnosi članak 5. stavak 1. točka (g) Pravilnika o nusproizvodima životinjskog podrijetla koji nisu za prehranu ljudi[8] nadležno tijelo može, ukoliko je potrebno, odlučiti da se oni mogu ukloniti kao otpad spaljivanjem ili zakapanjem na mjestu nastanka, pod uvjetom da su poduzete sve potrebne mjere kako bi se osiguralo da spaljivanje ili zakapanje pčela i pčelinjih proizvoda neće ugroziti zdravlje životinja i ljudi te okoliš, u skladu s odredbama posebnih propisa[9] i smjernicama o zaštiti okoliša i javnom zdravstvu.
