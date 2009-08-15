@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o izdavanju certifikata za žive životinje i proizvode životinjskog podrijetla u međunarodnom prometu (»Narodne novine«, broj 137/08) u članku 1. iza riječi: »prometu« briše se točka i dodaju se riječi: »te određuje visina naknada za izdavanje certifikata za žive životinje, proizvode životinjskog podrijetla, nusproizvode životinjskog podrijetla i hranu za životinje u međunarodnom prometu.«
