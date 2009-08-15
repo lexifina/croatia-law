@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Naručitelj je dužan na način i u zatraženom roku a najkasnije u roku 8 (osam) dana od primitka zahtjeva tijela nadležnog za sustav javne nabave dostaviti traženu dokumentaciju.
+(2) Ovisno o fazi postupka javne nabave, dokumentaciju u smislu stavka 1. ovoga članka čini plan nabave, dokumentacija za nadmetanje ili pojedini njezini dijelovi, odluke, zapisnici, ponude, ugovor o javnoj nabavi, okvirni sporazum, objašnjenja, obrazloženja ili očitovanja naručitelja i ostala dokumentacija i podaci povezani s pojedinom nabavom.
+(3) Nakon što zaprimi dokumentaciju iz stavka 1. ovoga članka, tijelo nadležno za sustav javne nabave može zatražiti dodatnu dokumentaciju, objašnjenja, obrazloženja ili očitovanja naručitelja.
+(4) Kada tijelo nadležno za sustav javne nabave provodi nadzor kroz obavljanje preventivno-instruktivne djelatnosti za vrijeme trajanja postupka javne nabave, tada smije zahtijevati samo preslike dokumentacije, osim objašnjenja, obrazloženja ili očitovanja naručitelja.
+(5) Nakon provedbe nadzora kroz obavljanje preventivno-instruktivne djelatnosti, tijelo nadležno za sustav javne nabave vraća naručitelju izvornike dokumentacije, osim objašnjenja, obrazloženja ili očitovanja naručitelja.

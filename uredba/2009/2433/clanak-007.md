@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Nakon provedenog nadzora kroz obavljanje preventivno-instruktivne djelatnosti, a temeljem zapisnika iz članka 6. ove Uredbe, tijelo nadležno za sustav javne nabave dostavlja naručitelju i predlagatelju nadzora mišljenje o uočenim nepravilnostima, kao i preporuku o načinu sprječavanja ili otklanjanja uočenih nepravilnosti.
+(2) Naručitelj je obvezan u roku i na način koji odredi tijelo nadležno za sustav javne nabave, a najkasnije u roku od 8 (osam) dana od dana primitka mišljenja i preporuke, izvijestiti tijelo nadležno za sustav javne nabave o postupanju u skladu s mišljenjem i preporukom o načinu sprječavanja ili otklanjanja nepravilnosti.
+(3) Ako tijelo nadležno za sustav javne nabave u provođenju nadzora kroz obavljanje preventivno-instruktivne djelatnosti utvrdi jednu ili više nepravilnosti koje imaju obilježja prekršaja opisanih u članku 172. Zakona, pokrenut će protiv naručitelja prekršajni postupak pred nadležnim prekršajnim sudom.
+(4) Ako tijelo nadležno za sustav javne nabave u provođenju nadzora kroz obavljanje preventivno-instruktivne djelatnosti ne utvrdi nepravilnosti, o tome će izvijestiti naručitelja i predlagatelja nadzora.
