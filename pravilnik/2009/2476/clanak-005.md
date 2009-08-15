@@ -1,0 +1,2 @@
+# Članak 5.
+Društva za osiguranje, društva za reosiguranje, društva za zastupanje u osiguranju, obrti za zastupanje u osiguranju i društava za posredovanje u osiguranju i reosiguranju dostavljaju Agenciji dokumentaciju propisanu ovim Pravilnikom u izvorniku ili preslici ovjerenoj kod javnog bilježnika, osim dokumentaciju iz članka 2. stavka 1. točke 1. ovog Pravilnika. Dostavljena dokumentacija se ne vraća.

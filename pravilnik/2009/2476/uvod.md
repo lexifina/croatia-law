@@ -1,0 +1,1 @@
+Na temelju odredbi članka 158. stavak 5., članka 21. stavak 6. i članka 263. točka 3. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj dana 23. srpnja 2009. godine
