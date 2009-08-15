@@ -1,0 +1,13 @@
+## III. TIJELA ZA OCJENU SUKLADNOSTI
+# Članak 14.
+(1) Provedbu postupaka iz članka 10. ovoga Pravilnika mogu obavljati tijela za ocjenu sukladnosti na temelju rješenja ministarstva nadležna za gospodarstvo ako je njihova osposobljenost u skladu s kriterijima propisanim u Dodatku VII. ovoga Pravilnika. Pretpostavlja se da tijela koja zadovoljavaju zahtjeve za ocjenu prema usklađenim normama ispunjavaju kriterije iz Dodatka VII. ovoga Pravilnika.
+(2) Ministarstvo nadležno za gospodarstvo obavještava Europsku komisiju (u daljnjem tekstu: Komisija) i ostale države članice o tijelima koje je prema članku 11. Zakona o tehničkim zahtjevima za proizvode i ocjenu sukladnosti, ovlastilo za provedbu postupaka prema stavku 1. ovog članka i identifikacijskim brojevima koje im je dodijelila Komisija. Komisija objavljuje i obnavlja u Službenom listu Europske unije popis prijavljenih tijela zajedno s njihovim identifikacijskim brojevima i ovlastima.
+(3) Ministarstvo nadležno za gospodarstvo primjenjuju kriterije određene u Dodatku XI. kod ocjenjivanja tijela za prijavu ili tijela koja su već prijavljena.
+(4) Za tijela koja ispunjavaju kriterije za ocjenjivanje propisane odgovarajućim harmoniziranim standardima, čije se preporuke objavljuju u Službenom listu Europske unije, smatra se da ispunjavaju odgovarajuće kriterije.
+(5) Ako prijavljeno tijelo utvrdi da proizvođač ne ispunjava ili ne nastavlja ispunjavati odgovarajuće zahtjeve ove Direktive ili da nije trebalo izdati EZ certifikat o pregledu tipa ili odobrenje sustava za osiguranje kvalitete, uzimajući u obzir načelo proporcionalnosti, tijelo obustavlja ili povlači izdani certifikat ili odobrenje ili uvodi na njih ograničenja, iznoseći iscrpne razloge tome, ukoliko se poštivanje takvih zahtjeva osigurava provođenjem odgovarajućih korektivnih mjera od strane proizvođača.
+U slučaju obustave ili povlačenja certifikata ili odobrenja ili uvođenja bilo kakvih ograničenja na njih ili, u slučajevima kada je potrebno djelovanje nadležnih inspekcijskih tijela, prijavljeno tijelo obavještava nadležna inspekcijska tijela sukladno članku 4. Država članica obavještava ostale države članice i Komisiju bez odlaganja. Postoji mogućnost žalbenog postupka.
+(6) Ministarstvo nadležno za gospodarstvo mora odmah povući prijavu ako utvrdi
+- da tijelo više ne ispunjava kriterije navedene u Dodatku XI.; ili
+- da tijelo čini ozbiljne propuste u ispunjavanju svojih odgovornosti.
+Sukladno tome, država članica odmah obavještava Komisiju i ostale države članice.
+(7) Ministarstvo nadležno za gospodarstvo objavljuje popis prijavljenih tijela u Narodnim novinama.

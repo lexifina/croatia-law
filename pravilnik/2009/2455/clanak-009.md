@@ -1,0 +1,6 @@
+# Članak 9.
+Posebne mjere za potencijalno opasne strojeve
+(1) Ako, u skladu s postupkom na koji upućuje članak 10., Komisija smatra da harmonizirani standard ne ispunjava u potpunosti temeljne zdravstvene i sigurnosne zahtjeve koje uključuje i koji su određeni u Dodatku I., Komisija može, u skladu sa stavkom 3. ovog članka, poduzeti mjere koje zahtijevaju od država članica da zabrane ili ograniče stavljanje na tržište strojeva s tehničkim karakteristikama koji predstavljaju rizik zbog nedostataka standarda ili da takve strojeve učine podložnim posebnim uvjetima.
+Kada, u skladu s postupkom na koji upućuje članak 11., Komisija smatra da su mjere poduzete od neke države članice opravdane, Komisija može, u skladu sa stavkom 3. ovog članka, poduzeti mjere koje zahtijevaju od država članica da zabrane ili ograniče stavljanje na tržište strojeva koji predstavljaju isti rizik zbog tehničkih karakteristika ili da takve strojeve učine podložnim posebnim uvjetima.
+(2) Bilo koja država članica može zatražiti od Komisije da ispita potrebu usvajanja mjera na koje upućuje stavak 1.
+(3) U slučajevima na koje upućuje stavak 1., Komisija se savjetuje s državama članicama ili drugim interesnim stranama, ukazuje koje mjere namjerava poduzeti, kako bi osigurala, na razini Zajednice, visoku razinu zaštite zdravlja i sigurnosti ljudi.

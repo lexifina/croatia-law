@@ -1,0 +1,3 @@
+# Članak 10.
+Postupak osporavanja harmoniziranog standarda
+Kada država članica ili Komisija smatraju da harmonizirani standard ne ispunjava u potpunosti temeljne zdravstvene i sigurnosne zahtjeve koje uređuje i koji su određeni u Dodatku I., Komisija ili država članica iznose slučaj odboru kojeg uspostavlja direktiva 98/34/EZ te iznose razloge tomu. Odbor iznosi mišljenje bez odlaganja. Imajući u vidu mišljenje odbora, Komisija odlučuje o objavljivanju, neobjavljivanju, objavljivanju uz ograničenja, obnavljanju, obnavljanju uz ograničenja ili povlačenju uputa za dotični harmonizirani standard u Službenom listu Europske unije.
