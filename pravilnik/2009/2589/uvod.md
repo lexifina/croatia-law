@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 100. i 101. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj dana 30. srpnja 2009.
