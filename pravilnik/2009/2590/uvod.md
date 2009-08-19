@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 2. Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br.163/03, 82/04 i 41/08), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 30. srpnja 2009., donijela je
