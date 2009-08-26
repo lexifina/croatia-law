@@ -1,0 +1,1 @@
+Na temelju članka 34. Zakona o trgovini (»Narodne novine«, br. 87/2008 i 116/2008) i članka 15. stavka 2. Uredbe o mjerama zaštite domaće proizvodnje od prekomjernog uvoza (»Narodne novine«, br. 73/2002 i 33/2003), Vlada Republike Hrvatske je na sjednici održanoj 20. kolovoza 2009. godine donijela
