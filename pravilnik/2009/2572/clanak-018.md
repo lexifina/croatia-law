@@ -1,0 +1,5 @@
+# Članak 18.
+1) Prilikom stavljanja na tržište reprodukcijski sadni materijal i sadnice svih kategorija moraju:
+- imati Certifikat o sadnom materijalu na pakiranju ili Certifikat proizvođača od odgovarajućeg materijala koji prethodno nije korišten i sadrži podatke propisane u članku 19. ovoga Pravilnika, otisnute na hrvatskom jeziku i/ili jednom od službenih jezika Zajednice, bez posebnih zahtjeva u odnosu na boju certifikata za pojedinu kategoriju sadnog materijala;
+- pratiti Certifikat o sadnom materijalu uz otpremnicu ili prateći dokument, bez posebnih zahtjeva u odnosu na boju certifikata za pojedinu kategoriju sadnog materijala, a koji sadrži najmanje podatke sa Certifikata o sadnom materijalu na pakiranju ili Certifikata proizvođača propisane u članku 19. ovoga Pravilnika na hrvatskom jeziku i/ili jednom od službenih jezika Zajednice.
+2) Za pakiranje reprodukcijskog sadnog materijala i sadnica upotrebljava se ambalaža od materijala koji su najprikladniji da zaštite reprodukcijski sadni materijal i sadnice od oštećenja pri prijevozu, rukovanju i skladištenju.

@@ -1,0 +1,4 @@
+# Članak 23.
+1) Reprodukcijski sadni materijal i sadnice u prijevozu te trgovini na veliko i malo moraju se držati u uvjetima (trap, hladnjača, skladište i sl.) koji osiguravaju održavanje njegove kvalitete, zaštićuju ga od oštećenja i izdvajaju od drugih roba koje na bilo koji način mogu umanjiti kvalitetu.
+2) Pravne i fizičke osobe registrirane za obavljanje djelatnosti trgovine moraju imati odvojeni prostor u skladištu i/ili trapu i/ili hladnjači u kojemu će reprodukcijski sadni materijal i sadnice biti vidno odvojene po vrstama, sortama i hibridima na način da je omogućen lagan pristup i kontrola sadnog materijala.
+3) Reprodukcijski sadni materijal i sadnice koje se u trgovini pojavljuju s golim korijenom moraju biti utrapljene u odgovarajući supstrat na način kojim se osigurava održavanje kvalitete.
