@@ -1,0 +1,1 @@
+Na temelju odredbi članka 101. točka 7., članka 129., članka 130. Zakona o osiguranju (»Narodne novine« br. 151/05, 87/08, 82/09) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 30. srpnja 2009.
