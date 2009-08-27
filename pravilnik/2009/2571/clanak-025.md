@@ -1,0 +1,4 @@
+# Članak 25.
+(1) Zahtjev za sva plaćanja u stočarstvu podnosi se na Obrascu 2 iz Priloga 3. ovoga Pravilnika.
+(2) Uz Zahtjev iz stavka 1. ovog članka, korisnik plaćanja po grlu stoke (krave dojilje, krave dojilje u ekstenzivnom uzgoju, ovce i koze), posebnih plaćanja po grlu stoke (mliječne krave, krmače), dodatnih plaćanja za proizvodnju rasplodnog materijala (mliječne krave - dodatno, ovce i koze - dodatno, krmače - dodatno) i pčelinje zajednice podnosi prijavu na Obrascu 2A iz Priloga 3. ovoga Pravilnika od 1. ožujka do 15. svibnja.
+(3) Korisnici plaćanja u stočarstvu jesu ona poljoprivredna gospodarstva koja su posjednici životinja, odnosno pravne i fizičke osobe upisane u Registar farmi sukladno odredbama Pravilnika o obveznom označavanju i registraciji svinja (»Narodne novine«, br. 51/07, 50/08 i 156/08), a drže stoku u vlastitom ili unajmljenom objektu.

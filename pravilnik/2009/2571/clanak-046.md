@@ -1,0 +1,4 @@
+# Članak 46.
+(1) Nakon utvrđivanja svih obračunskih prava na izravna plaćanja na razini pojedinačnih Korisnika u jednoj proizvodnoj godini, Agencija za plaćanja će onim Korisnicima čija ukupna obračunska prava na razini proizvodne godine prelaze iznos od 36.000,00 kuna, primjenjujući stope modulacije sukladno članku 18. stavku 2. Zakona, utvrditi konačno pravo na isplatu izravnih plaćanja.
+(2) Konačni obračun prava na isplatu izravnih plaćanja po Korisniku za proizvodnu godinu provodi se do 15. svibnja iduće godine i to na način da se u izračunu obuhvate sva prava na izravna plaćanja u proizvodnoj godini za koju se podnosi Zahtjev.
+(3) Ukoliko se Korisniku predujmom iz članka 50. ovoga Pravilnika isplati više od konačnog prava na isplatu, Korisnik je dužan na zahtjev Ministarstva razliku uplatiti na račun Državnog proračuna.

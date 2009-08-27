@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Korisnik posebnog plaćanja u biljnoj proizvodnji za ekološku proizvodnju - oranice, višegodišnji nasadi, livade i pašnjaci, mora prijaviti površine pod oranicama, višegodišnjim nasadima, livadama i pašnjacima i podnijeti Zahtjev za posebno plaćanje u biljnoj proizvodnji na Obrascu 1 iz Priloga 2. ovoga Pravilnika.
+(2) Korisnik iz stavka 1. ovoga članka, na dan podnošenja Zahtjeva za posebno plaćanje u biljnoj proizvodnji za oranice, višegodišnje nasade, livade i pašnjake, mora biti upisan u Upisnik proizvođača u ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda pri Ministarstvu.
+(3) Korisnik iz stavka 1. ovoga članka, najkasnije do 31. prosinca tekuće godine, mora Agenciji za plaćanja putem ureda HPA dostaviti potvrdnicu o sukladnosti s temeljnim Zahtjevima za ekološku proizvodnju izdanu od ovlaštene pravne osobe za postupak potvrđivanja u ekološkoj proizvodnji odnosno potvrdu o statusu prijelaznog razdoblja u ekološkoj proizvodnji izdanu od ovlaštene nadzorne stanice.
+2.2.3. Dodatni uvjeti za ostala plaćanja u biljnoj proizvodnji
