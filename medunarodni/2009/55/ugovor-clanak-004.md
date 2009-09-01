@@ -1,0 +1,4 @@
+# Članak 4.
+IMUNITET OD KAZNENE SUDBENOSTI
+U slučaju kada se radi o članovima obitelji koji uživaju imunitet od kaznene sudbenosti u državi primateljici u skladu s odredbama gore navedenih Bečkih konvencija ili bilo kojeg drugog primjenjivog međunarodnog instrumenta, država šiljateljica odreći će se imuniteta od kaznene sudbenosti kojeg uživa korisnik dopuštenja glede države primateljice u odnosu na bilo koje djelo ili propust koji proizlazi iz dohodovne djelatnosti, osim u posebnim slučajevima kad država šiljateljica smatra da bi takvo odricanje bilo suprotno njezinim vlastitim interesima.
+Takvo odricanje od imuniteta od kaznene sudbenosti neće se tumačiti na način da se odnosi na imunitet od izvršenja kazni, za koje je potrebno posebno odricanje. U slučaju takvog zahtjeva, država šiljateljica ozbiljno će razmotriti zahtjev države primateljice.
