@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Kandidata koji na pisanom dijelu ispita koristi nedopuštena pomagala, kao što su primjerci sudskih odluka, tehnička pomagala i komunikacijske uređaje ili remeti uredni tijek ispita, osoba koja nadzire pisani dio ispita udaljit će iz prostorije i preuzet do tada izrađen pisani dio radnje, koja će se ocijeniti uzimajući u obzir sve okolnosti. Ova činjenica upisuje se u zapisnik o tijeku pravosudnog ispita.
+(2) Kandidatu koji, bez prethodne dozvole osobe koja nadzire pisani dio ispita, napusti prostoriju u kojoj se održava ispit, neće se dopustiti da nastavi pisanje radnje. U tom slučaju postupit će se sukladno stavku 1. ovog članka.
