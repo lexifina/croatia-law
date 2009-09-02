@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o javnim cestama (»Narodne novine« broj 180/04 i 136/06) i Uredbe o mjerilima za razvrstavanje javnih cesta (»Narodne novine«, broj 57/07), ministar mora, prometa i infrastrukture donosi
