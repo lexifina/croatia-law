@@ -1,0 +1,4 @@
+# Članak 1.
+Pravilnikom o posebnim uvjetima za obavljanje poslova direktne prodaje putem zastupnika (u daljnjem tekstu: Pravilnik) propisuju se uvjeti za obavljanje poslova direktne prodaje. Za potrebe ovog Pravilnika određeni pojmovi imaju sljedeće značenje:
+a) »Direktna prodaja« predstavlja poseban oblik prodaje proizvoda i usluga kupcima izravno od proizvođača ili registriranog trgovca (u daljnjem tekstu: trgovac), putem zastupnika, najčešće u njihovim domovima ili domovima drugih osoba te na ostalim mjestima izvan stalnih maloprodajnih mjesta.
+b) »Zastupnik direktne prodaje« je fizička ili pravna osoba ili fizička osoba građanin koja je s trgovcem iz točke a) ovoga članka sklopila ugovor za obavljanje poslova direktne prodaje, u ime i za račun trgovca, sukladno odredbama ovoga Pravilnika, odredbama Zakona o trgovini i odredbama Zakona o zaštiti potrošača.
