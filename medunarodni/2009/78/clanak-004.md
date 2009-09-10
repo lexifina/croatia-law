@@ -1,0 +1,2 @@
+# Članak 4.
+Za provedbu ovoga Zakona nadležna su središnja tijela državne uprave nadležna za poslove pravosuđa, financija, poljoprivrede, ribarstva i ruralnog razvoja, regionalnog razvoja, šumarstva i vodnoga gospodarstva, gospodarstva, rada i poduzetništva, zaštite okoliša, prostornog uređenja i graditeljstva, mora, prometa i infrastrukture, unutarnjih poslova, zdravstva i socijalne skrbi, razvojnu strategiju i koordinaciju fondova EU, upravu, nacionalne manjine, udruge, zapošljavanje i državna upravna organizacija nadležna za statistiku.
