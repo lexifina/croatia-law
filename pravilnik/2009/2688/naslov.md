@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o uvjetima za obavljanje poslova upravljanja prometom, nadzora i premještanja nepropisno zaustavljenih i parkiranih vozila kada te poslove obavljanju jedinice lokalne samouprave te Programu i načinu osposobljavanja službenika
