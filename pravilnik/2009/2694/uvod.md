@@ -1,0 +1,1 @@
+Na temelju članka 28. stavak 3. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08 i 82/09) Uprava Hrvatske agencije za nadzor financijskih usluga na sjednici održanoj 27. kolovoza 2009. donijela je

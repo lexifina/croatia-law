@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj dokumentacije koja se dostavlja Hrvatskoj agenciji za nadzor financijskih usluga (dalje u tekstu: Agencija) uz zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave društva za osiguranje, odnosno društva za reosiguranje (dalje u tekstu: Društvo), a kojom se dokazuje da kandidat za člana uprave Društva ispunjava uvjete iz članka 27. Zakona o osiguranju za obavljanje te funkcije.

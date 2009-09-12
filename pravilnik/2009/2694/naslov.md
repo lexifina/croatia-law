@@ -1,0 +1,1 @@
+Pravilnik o sadržaju potrebne dokumentacije koja se dostavlja uz zahtjev za izdavanje odobrenja za obavljanje funkcije predsjednika, odnosno člana Uprave društva za osiguranje, odnosno društva za reosiguranje
