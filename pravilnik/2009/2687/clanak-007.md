@@ -1,0 +1,2 @@
+# Članak 7.
+Ako postoji osnovana sumnja da je u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske došlo do kršenja odredbi medunarodnog prava i propisa Republike Hrvatske koje reguliraju zaštitu morskog okoliša i kada tijelo nadležno za postupanje nije u mogućnosti postupka Obalna straža ima pravo poduzeti mjere prisile i druge radnje potrebne za pokretanje postupka protiv prekršitelja propisa.
