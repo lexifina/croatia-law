@@ -1,0 +1,7 @@
+# Članak 26.
+RAZMJENA OBAVIJESTI
+1. Nadležna tijela država ugovornica razmjenjuju obavijesti potrebne za provedbu odredaba ovog Ugovora ili unutrašnjih propisa država ugovornica koji se odnose na poreze obuhvaćene ovim Ugovorom, ako je oporezivanje prema tim propisima u skladu s ovim Ugovorom kao i za sprečavanje izbjegavanja plaćanja poreza. Razmjena obavijesti nije ograničena člankom 1. Svaka obavijest koju primi država ugovornica smatrat će se tajnom na isti način kao i obavijesti dobivene prema unutarnjim propisima te države, te se mogu priopćiti samo osobama ili tijelima (uključujući sudove i upravna tijela) uključenima u postupak određivanja ili ubiranja poreza iz ovog Ugovora, odnosno postupak ovrhe ili kaznenog progona ili odlučivanja po pravnim lijekovima koji se odnose na te poreze. Spomenute osobe ili tijela koristit će se tim obavijestima samo u navedene svrhe. Takve podatke mogu otkrivati u javnom sudskom postupku ili sudskoj odluci.
+2. Odredbe stavka 1. ne mogu se ni u kojem slučaju tumačiti tako da državi ugovornici nameću obvezu da:
+(a) poduzima upravne mjere suprotne propisima ili upravnoj praksi te ili druge države ugovornice;
+(b) daje obavijesti koje se prema propisima ili uobičajenom upravnom postupku te ili druge države ugovornice ne mogu dobiti;
+(c) daje obavijesti čije bi otkrivanje povrijedilo obvezu čuvanja trgovačke, poslovne, industrijske, komercijalne ili profesionalne tajne ili trgovačkih postupaka ili obavijesti čije bi otkrivanje bilo suprotno javnom poretku.
