@@ -1,0 +1,11 @@
+# Članak 7.
+U članku 19. stavak 1. mijenja se i glasi:
+»(1) U slučaju podjele energetskog subjekta pravne osobe koja se prema posebnim propisima provodi odvajanjem ili razdvajanjem, dozvola za obavljanje energetske djelatnosti može se prenijeti samo na jednu pravnu osobu koja je sveopći pravni sljednik energetskog subjekta pod uvjetom da, u roku od 30 dana od dana registracije nove pravne osobe, odnosno registracije podjele, energetski subjekt i nova pravna osoba odnosno društvo preuzimatelj u slučaju odvajanja, te nova pravna osoba, odnosno društvo preuzimatelj u slučaju razdvajanja, podnesu Agenciji zahtjev za prijenos dozvole za obavljanje energetske djelatnosti.«
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+»(2) U slučaju pripajanja energetskog subjekta drugoj pravnoj osobi ili spajanja energetskog subjekta s drugom pravnom osobom, dozvola za obavljanje energetske djelatnosti može se prenijeti na društvo preuzimatelja pod uvjetom da, u roku od 30 dana od dana registracije pripajanja energetskog subjekta drugoj pravnoj osobi odnosno od dana registracije nove pravne osobe u slučaju spajanja, društvo preuzimatelj podnese Agenciji zahtjev za prijenos dozvole za obavljanje energetske djelatnosti.«
+Iza dosadašnjeg stavka 2. koji postaje stavak 3. dodaje se stavak 4. koji glasi:
+»(4) Zahtjev za prijenos dozvole iz stavka 1. i 2. ovoga članka podnosi se Agenciji na obrascu ZPDOED - PRIJENOS koji se nalazi u Prilogu IV.a ovoga Pravilnika i njegov je sastavni dio.«
+Dosadašnji stavak 3. koji postaje stavak 5. mijenja se i glasi:
+»(5) Agencija će rješenjem prenijeti dozvolu za obavljanje energetske djelatnosti ako uz uvjete iz stavka 1. ovoga članka pravna osoba iz stavka 1. ovoga članka i fizička osoba iz stavka 3. ovoga članka ispunjava i uvjete za obavljanje energetske djelatnosti propisane ovim Pravilnikom.«
+Iza dosadašnjeg stavka 3. koji postaje stavak 5. dodaje se stavak 6. koji glasi:
+»(6) Agencija će rješenjem prenijeti dozvolu za obavljanje energetske djelatnosti ako uz uvjete iz stavka 2. ovoga članka pravna osoba iz stavka 2. ovoga članka ispunjava i uvjete za obavljanje energetske djelatnosti propisane člankom 9. stavkom 1. podstavkom 1., 5. i 6. ovoga Pravilnika.«
