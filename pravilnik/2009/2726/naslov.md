@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje manometara, vakuumometara, manovakuumometara, uređaja za mjerenje krvnog tlaka i tlakomjera za gume za ovjeravanje
