@@ -1,0 +1,7 @@
+## Rješenje o ispunjavanju uvjeta dobre istraživačke prakse
+# Članak 5.
+(1) Za službeno priznavanje istraživanja učinkovitosti za registraciju sredstava, pravna ili fizička osoba koja ta istraživanja obavlja mora imati rješenje Ministarstva poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu Ministarstvo) o ispunjavanju uvjeta propisanih ovim Pravilnikom.
+(2) Prijedlog za izdavanje rješenja o ispunjavanju uvjeta dobre istraživačke prakse donosi Povjerenstvo koje imenuje ministar nadležan za poljoprivredu za svaki pojedini podneseni zahtjev. Prijedlog o izdavanju rješenja se donosi na temelju podnesenih dokumenata, pregleda na terenu te razgovora s odgovornom osobom za istraživanja.
+(3) Na temelju pozitivne ocjene Povjerenstva u prijedlogu za izdavanje rješenja o ispunjavanju uvjeta dobre istraživačke prakse nadležna uprava donosi rješenje o ispunjavanju uvjeta dobre istraživačke prakse. U slučaju negativne ocjene Povjerenstva, nadležna uprava donosi rješenje o odbijanju zahtjeva.
+(4) Rješenje o ispunjavanju uvjeta dobre istraživačke prakse se izdaje za razdoblje od pet godina i može se produžiti.
+(5) Nadležna uprava može provesti nadzor nositelja rješenja vezano uz ispunjavanje uvjeta iz ovoga Pravilnika. Ako se pri nadzoru utvrde nepravilnosti, nadležna uprava će nositelju rješenja narediti otklanjanje istih u primjerenom roku ili ukinuti rješenje o ispunjavanju uvjeta dobre istraživačke prakse.
