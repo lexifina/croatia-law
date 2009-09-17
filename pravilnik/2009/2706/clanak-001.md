@@ -1,0 +1,5 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje način suradnje ovlaštenih osoba Obalne straže Republike Hrvatske (u daljnjem tekstu: Obalna straža) s tijelima Službe traganja i spašavanje Republike Hrvatske na moru te način razmjene informacija potrebnih za njihovo učinkovito i usklađeno djelovanje.
+Služba traganja i spašavanja sastoji se od Stožera službe traganja i spašavanja, Nacionalne središnjice za usklađivanje traganja i spašavanja na moru, podsredišnjica traganja i spašavanja (lučke kapetanije Pula, Rijeka, Senj, Zadar, Šibenik, Split, Ploče i Dubrovnik), obalnih promatračkih jedinica (lučke ispostave svih lučkih kapetanija, obalne radiopostaje, čuvani svjetionici, motrilačke postaje Hrvatske ratne mornarice), te jedinica traganja i spašavanja (pomorske, zrakoplovne i kopnene jedinice).
+Tijelo nadležno za usklađivanje akcija traganja i spašavanje na moru u smislu ovog Pravilnika je Nacionalna središnjica za usklađivanje traganja i spašavanja na moru u Rijeci (u daljnjem tekstu: Nacionalna središnjica).
