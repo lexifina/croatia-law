@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009) i članka 42.c stavka 1. Zakona o reviziji (»Narodne novine«, br. 146/2005 i 138/2008), Vlada Republike Hrvatske je na sjednici održanoj 22. rujna 2009. godine donijela
