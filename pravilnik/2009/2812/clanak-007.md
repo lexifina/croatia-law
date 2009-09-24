@@ -1,0 +1,5 @@
+## Centralizirana infrastruktura
+# Članak 7.
+(1) Centraliziranom infrastrukturom koja se koristi za pružanje zemaljskih usluga, čija kompleksnost, troškovi ili utjecaj na okoliš ne dopuštaju podjelu ili dupliranje, kao što su sustavi za sortiranje prtljage, odmrzavanje, pročišćavanje vode i distribuciju goriva, upravlja operator zračne luke, ili drugo tijelo koje upravlja centraliziranom infrastrukturom.
+(2) Operator zračne luke ili drugi pravni subjekt koji upravlja nekim od sustava iz stavka 1. ovoga članka, obvezan je osigurati slobodan pristup te transparentno, objektivno i nediskriminirajuće korištenje te infrastrukture svim pružateljima zemaljskih usluga, i svim korisnicima zračne luke koji samostalno obavljaju zemaljske usluge, uz uvjet da se poštuju svi propisi o sigurnosti i zaštiti zračnog prometa te ograničenja propisana ovim Pravilnikom.
+(3) Osim centralizirane infrastrukture iz stavka 1. ovoga članka, Agencija može i druge objekte zračne luke odrediti centraliziranom infrastrukturom, imajući na umu postojeća ograničenja raspoloživog prostora i kapaciteta na toj zračnoj luci.
