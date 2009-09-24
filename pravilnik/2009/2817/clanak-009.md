@@ -1,0 +1,8 @@
+# Članak 9.
+(1) Postupke medicinske oplodnje iz članka 8. stavka 1. ovoga Pravilnika može obavljati zdravstvena ustanova koja ispunjava uvjete u pogledu prostora iz članka 2. i 4. ovoga Pravilnika te koja ima i odgovarajuće prostore za pohranjivanje spolnih stanica. U zdravstvenoj ustanovi moraju biti odijeljeni prostori ili sigurnosni sustav za odvajanje spolnih stanica koje su u obradi od spolnih stanica koje su prihvaćene za korištenje i od spolnih stanica koje su odbačene.
+(2) Ako pohranjivanje uključuje obradu pod uvjetima izravne izloženosti okolišu, mora se osigurati odgovarajuća kvaliteta zraka i čistoće kako bi se opasnost od kontaminacije, uključujući unakrsnu kontaminaciju, svela na najmanju moguću mjeru. Učinkovitost tih mjera treba validirati i nadzirati.
+(3) Kod obrade spolnih stanica zahtijeva se najmanje kvaliteta zraka u kojoj broj čestica i broj mikrobnih kolonija odgovara klasi C, kako je određeno u Prilogu 1. Europskih smjernica dobre proizvođačke prakse (GMP), zajedno s prikladnim okolišem za obradu tih spolnih stanica, a koji odgovara barem klasi D GMP-a u smislu broja čestica i mikrobnih kolonija.
+(4) Ako pohranjivanje uključuje skladištenje spolnih stanica, moraju se odrediti uvjeti skladištenja potrebni za održavanje zahtijevanih svojstava spolnih stanica.
+(5) Kritični parametri (npr. temperatura, vlažnost, kvaliteta zraka) trebaju se nadzirati, pratiti i bilježiti kako bi se dokazala sukladnost s određenim uvjetima skladištenja.
+(6) U spremnicima treba osigurati sigurnu odvojenost spolnih stanica u obradi od otpuštenih spolnih stanica.
+(7) Banka spolnih stanica mora imati pisana pravila i postupke za kontrolirani pristup, čišćenje i održavanje, odlaganje otpada te za reorganizaciju usluga u slučaju nužde.

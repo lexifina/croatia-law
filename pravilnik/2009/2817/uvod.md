@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 3. Zakona o medicinskoj oplodnji (»Narodne novine«, br. 88/09), uz prethodno pribavljeno mišljenje Nacionalnog povjerenstva za medicinsku oplodnju i Hrvatske liječničke komore, ministar zdravstva i socijalne skrbi donosi

@@ -1,0 +1,2 @@
+# Članak 18.
+Umjesto magistra biologije poslove iz članka 5. stavka 1. točke 3. ovoga Pravilnika mogu obavljati i stručnjaci druge biomedicinske struke s doktoratom znanosti iz humane preimplantacijske embriologije i najmanje pet godina radnog iskustva te dokumentiranom edukacijom iz humane preimplantacijske embriologije, ako su do dana stupanja na snagu ovoga Pravilnika radili na navedenim poslovima.
