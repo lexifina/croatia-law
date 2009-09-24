@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 1. i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 16. stavka 3. Zakona o muzejima (»Narodne novine«, br. 142/98 i 65/2009), Vlada Republike Hrvatske je na sjednici održanoj 10. rujna 2009. godine donijela
