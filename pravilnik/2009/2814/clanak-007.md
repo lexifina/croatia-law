@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Ustanove za stručno osposobljavanja vozača moraju imati osiguranog najmanje jednog djelatnika sa završenim sveučilišnim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem tehničke struke s položenim ispitom za sigurnosnog savjetnika za prijevoz opasnih tvari cestom.
+(2) Predavač mora na stručan i kvalitetan način prenijeti potrebna znanja kandidatima osposobljavanja.
+(3) Za potrebe predavanja uz djelatnika iz stavka 1. ovog članka ustanova, prema potrebi, može osigurati više djelatnika sa završenim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem prometne (cestovnog smjera), kemijske, strojarske, tehnološke, rudarske, medicinske ili pravne struke za određena područja prijevoza opasnih tvari.
