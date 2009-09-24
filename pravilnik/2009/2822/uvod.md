@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. i 4. Zakona o medicinskoj oplodnji (»Narodne novine«, br. 88/09) na prijedlog Nacionalnog povjerenstva za medicinsku oplodnju ministar zdravstva i socijalne skrbi donosi
