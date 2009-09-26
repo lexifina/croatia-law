@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Škola, koja u sastavu ima centar novih tehnologija prema rješenju MZOŠ-a ili nadležne Agencije i pruža usluge učenicima drugih škola, sistematizira radno mjesto voditelja centra novih tehnologija, čije se radno vrijeme vrednuje s najviše 20 sati rada tjedno u okviru 40-satnog radnog vremena.
+(2) Voditelj centra novih tehnologija obavlja sljedeće poslove: organizira popravke opreme i uređaja, nabavlja alate, rezervne dijelove i materijal za obradu, osposobljava nastavnike u školi i regiji u okviru mreže centara novih tehnologija i pripadajućih ustanova za strukovno obrazovanje, organizira i provodi ogledna predavanja i demonstrira rad novih strojeva i uređaja, skrbi o održavanju prostora centra.

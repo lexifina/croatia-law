@@ -1,0 +1,2 @@
+# Članak 10.
+Ako se praktična nastava izvodi izvan srednjoškolske ustanove (u drugim pravnim osobama, kod obrtnika i sl.), norma rada nastavnika praktične nastave koji organizira, prati ostvarivanje programa, pruža pedagoško-metodičku pomoć majstorima i sudjeluje u izradi izvedbenih planova i programa praktične nastave iznosi 25% od broja sati praktične nastave tjedno po jednom razrednom odjelu, a u okviru tjedne nastavne norme nastavnika praktične nastave.
