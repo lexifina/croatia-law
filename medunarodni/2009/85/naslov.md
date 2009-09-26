@@ -1,0 +1,1 @@
+Uredba o objavi Protokola između Vlade Republike Hrvatske i Vlade Republike Mađarske o izmjeni Protokola između Vlade Republike Hrvatske i Vlade Republike Mađarske o provedbi Ugovora između Republike Hrvatske i Republike Mađarske o obavljanju granične kontrole u cestovnom, željezničkom i vodnom prometu

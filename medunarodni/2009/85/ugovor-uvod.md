@@ -1,0 +1,3 @@
+PROTOKOL IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE MAĐARSKE O IZMJENI PROTOKOLA IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE MAĐARSKE O PROVEDBI UGOVORA IZMEĐU REPUBLIKE HRVATSKE I REPUBLIKE MAĐARSKE O OBAVLJANJU GRANIČNE KONTROLE U CESTOVNOM, ŽELJEZNIČKOM I
+VODNOM PROMETU
+Vlada Republike Hrvatske i Vlada Republike Mađarske (u daljnjem tekstu: ugovorne stranke), vođene namjerom da izmijene i dopune pojedine odredbe Protokola između Vlade Republike Hrvatske i Vlade Republike Mađarske o provedbi Ugovora između Republike Hrvatske i Republike Mađarske o obavljanju granične kontrole u cestovnom, željezničkom i vodnom prometu, potpisanog u Budimpešti 29. rujna 2003. (u daljnjem tekstu: Protokol), sporazumjele su se kako slijedi:

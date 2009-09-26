@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Protokol između Vlade Republike Hrvatske i Vlade Republike Mađarske o izmjeni Protokola između Vlade Republike Hrvatske i Vlade Republike Mađarske o provedbi Ugovora između Republike Hrvatske i Republike Mađarske o obavljanju granične kontrole u cestovnom, željezničkom i vodnom prometu, potpisan u Zagrebu, 25. svibnja 2009. godine, u izvorniku na hrvatskom, mađarskom i engleskom jeziku.
