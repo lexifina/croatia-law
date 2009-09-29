@@ -1,0 +1,2 @@
+# Članak 1.
+Osigurana osoba Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod), kojoj Zavod izdaje iskaznicu zdravstveno osigurane osobe - ispravu 2 (u daljnjem tekstu: iskaznica), u skladu s Odlukom o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje plaća naknadu za troškove izdavanja iskaznice u iznosu od 25,00 kuna.
