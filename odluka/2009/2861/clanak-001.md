@@ -1,0 +1,5 @@
+# Članak 1.
+U Odluci o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 27/09. i 91/09., u Dopunskoj listi lijekova iz članka 2. stavka 6.:
+- za lijekove pod šiframa anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije - šifra ATK: »N04BA03 161«, »N04BA03 162«, »N04BA03 163«, »N04BC05 161«, »N04BC05 162« i »N04BX02 161« smjernica upisana pod oznakom »Rak« mijenja se i glasi: »Indikacija: Samo za liječenje uznapredovalog stadija Parkinsonove bolesti s razvojem jenjavanja učinka levodope i/ili pojave oscilacija.«
+- za lijek pod šifrom anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije - šifra ATK: »N04BD02 161« smjernica upisana pod oznakom: »Rak« zamjenjuje se oznakom: »Rat«.
+Iza smjernice: »Rak« dodaje se nova smjernica: »Rat« koja glasi: Rat »Indikacija: 1. Kao monoterapija u ranoj fazi Parkinsonove bolesti; 2. Za liječenje uznapredovalog stadija Parkinsonove bolesti s razvojem jenjavanja učinka levodope i/ili pojave oscilacija.«
