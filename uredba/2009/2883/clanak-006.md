@@ -1,0 +1,3 @@
+# Članak 6.
+Odjel za politički sustav obavlja upravne i stručne poslove koji se odnose na izborni sustav na državnoj i lokalnoj razini; financiranje političkih stranaka, nezavisnih lista i kandidata; ostvarivanje političkog prava sudjelovanja na izborima, pravo glasa i kandidature; praćenje stanja i predlaganje mjera za unapređenje izbornog sustava i financiranja političkih stranaka; izradu nacrta prijedloga zakona i drugih propisa iz područja političkog i izbornog sustava; davanje stručnih mišljenja i objašnjenja o načinu njihove provedbe; praćenje i predlaganje usklađivanja propisa iz djelokruga Odjela sa standardima i pravom Europske unije te obavlja i druge poslove u okviru svojega djelokruga.
+2.1.2. Odjel za nacionalne manjine

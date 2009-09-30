@@ -1,0 +1,3 @@
+# Članak 28.
+Odjel za inspekciju državne uprave obavlja inspekcijske poslove koji se odnose na primjenu zakona i drugih propisa o ustrojstvu, djelokrugu i načinu rada tijela državne uprave i drugih državnih tijela; nadzor u provedbi zakona i drugih propisa o državnim službenicima i namještenicima; nadzor u provedbi općeg upravnog postupka, posebnih upravnih postupaka, uredskog poslovanja u tijelima državne uprave, drugim državnim tijelima i pravnim osobama s javnim ovlastima; po potrebi sudjeluje sa drugim ustrojstvenim jedinicama u provedbi upravnog nadzora te obavlja i druge upravne i stručne poslove koji su posebnim zakonima i drugim propisima stavljeni u djelokrug upravne inspekcije.
+5.2. Odjel za inspekciju lokalne i područne (regionalne) samouprave
