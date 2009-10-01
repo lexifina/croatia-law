@@ -1,0 +1,2 @@
+# Članak 9.
+U smislu ovoga Zakona, primitkom iz članka 4. točke 5. ovoga Zakona od kojeg se obračunava, obustavlja i plaća poseban porez na primitke od samostalne djelatnosti i ostale primitke, smatra se ostvareni primitak po osnovi kamata, izuzimanja imovine i korištenja usluga na teret dobiti tekućeg razdoblja i udjela u dobiti ostvarenih dodjelom ili opcijskom kupnjom vlastitih dionica, a koji čini izvor oporezivog dohotka, umanjen za predujam poreza na dohodak i prireza porezu na dohodak prema Zakonu o porezu na dohodak.

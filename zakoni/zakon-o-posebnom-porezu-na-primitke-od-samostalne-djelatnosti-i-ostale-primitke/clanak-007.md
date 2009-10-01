@@ -1,0 +1,2 @@
+# Članak 7.
+U smislu ovoga Zakona, primitkom iz članka 4. točke 3. ovoga Zakona od kojeg se obračunava, obustavlja i plaća poseban porez na primitke od samostalne djelatnosti i ostale primitke, smatra se ostvareni primitak od vremenski ograničenog ustupa autorskih prava, prava industrijskog vlasništva i drugih imovinskih prava umanjen za predujam poreza na dohodak i prireza porezu na dohodak prema Zakonu o porezu na dohodak.
