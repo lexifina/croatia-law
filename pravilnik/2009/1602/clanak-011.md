@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Na svaki lot mora biti pričvršćena naljepnica na kojoj je označena kategorija veličine i način izlaganja tog lota. Slova moraju biti jasno vidljiva, najmanje veličine 5 cm te moraju biti neizbrisiva.
+(2) Neto masa u kilogramima mora biti jasno i čitko označena na svakom lotu. Kada se lotovi stavljaju u prodaju u standardnoj ambalaži neto masa ne mora biti vidljiva ako je očito da sadržaj ambalaže, izvagan prije stavljanja u prodaju, odgovara predviđenom sadržaju izraženom u kilogramima. Neto masa u navedenom slučaju može varirati 5% ispod ili iznad navedene ili pretpostavljene mase, što se provjerava tako da se za svaki stoti lot u standardnim kutijama izvrši vaganje.
+(3) Standardnom ambalažom, u smislu ovog Pravilnika, smatraju se stiroporne i plastične kutije namijenjene prezentiranju proizvoda ribarstva.

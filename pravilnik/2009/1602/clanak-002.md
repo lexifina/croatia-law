@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Proizvodi ribarstva mogu se stavljati na tržište ukoliko zadovoljavaju odredbe ovoga Pravilnika.
+(2) Na proizvode ribarstva sukladno se primjenjuju odredbe Pravilnika o higijeni hrane životinjskog podrijetla (»Narodne novine«, br. 99/07), Pravilnika o službenim kontrolama hrane životinjskog podrijetla (»Narodne novine«, br. 99/07), Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine«, br. 41/08), Pravilnika o provedbenim mjerama za određene proizvode na koje se primjenjuju propisi o hrani (»Narodne novine«, br. 154/08) te Naredbe o zaštiti riba i drugih morskih organizama (»Narodne novine«, br. 101/02, 96/05, 53/06 i 30/07).

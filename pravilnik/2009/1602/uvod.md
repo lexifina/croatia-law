@@ -1,0 +1,1 @@
+Na temelju članka 6a. stavka 2. Zakona o morskom ribarstvu (»Narodne novine«, br. 74/94, 57/96, 46/97 - pročišćeni tekst i 48/05) i članka 94. Zakona o hrani (»Narodne novine«, br. 46/07 i 155/08) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
