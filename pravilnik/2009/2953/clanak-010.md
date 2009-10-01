@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Uprava društva za osiguranje, odnosno društva za reosiguranje dužna je, najkasnije u roku od 24 sata nakon utvrđivanja nelikvidnosti u skladu sa člankom 7. stavkom 2. ovoga Pravilnika, o istome obavijestiti Agenciju.
+(2) Obavijest iz prethodnog stavka ovog članka mora sadržavati podatke o ukupnoj visini i strukturi likvidnih sredstava i dospjelih neplaćenih obveza društva za osiguranje, odnosno društva za reosiguranje, kao i razloge nemogućnosti plaćanja te poduzete i planirane aktivnosti za otklanjanje privremene nemogućnosti plaćanja, odnosno za otklanjanje uzroka nelikvidnosti.
+(3) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je u obavijesti posebno navesti poduzete mjere, odnosno pojedinosti o izvoru sredstava koje je društvo koristilo ili namjerava koristiti za premošćivanje nelikvidnosti kao i plan priljeva i odljeva za narednih mjesec dana.
+(4) Društvo za osiguranje, odnosno društvo za reosiguranje uz obavijest mora priložiti izračun pokazatelja likvidnosti na Obrascu 1 na promatrani dan kada je društvo iskazalo nelikvidnost.
+(5) Stavak 1. ovoga članka na odgovarajući se način primjenjuju na izvršne direktore društva za osiguranje, odnosno društva za reosiguranje.
