@@ -1,0 +1,9 @@
+## Vrste zrakoplovnih informacija
+# Članak 27.
+(1) Zbornik zrakoplovnih informacija Republike Hrvatske je temeljni informacijski dokument, načelno namijenjen ispunjenju međunarodnih zahtjeva za razmjenu zrakoplovnih informacija trajnog karaktera, bitnih za sigurnost zračne plovidbe. Postupcima utvrđenim operativnim priručnikom osigurava se objava zrakoplovnih informacija u skladu s odgovarajućim razdobljima primjene, ovisno o njihovom operativnom značaju.
+(2) Zbornik zrakoplovnih informacija ažurira se putem dvije vrste izmjena (AIP AMDT):
+1. redovite izmjene (AIP AMDT) koje obuhvaćaju stalne promjene u Zborniku na naznačeni datum objave;
+2. izmjene koje se objavljuju u skladu s AIRAC (Aeronautical Informattion Regulation and Control) sustavom i uključuju stalne promjene od operativnog značaja, na naznačeni AIRAC datum stupanja na snagu.
+(3) Privremene promjene u trajanju tri mjeseca ili duže i informacije kraćeg trajanja, koje sadrže opsežan tekst i/ili grafiku, te dopunjuju stalne informacije sadržane u Zborniku, objavljuju se kao dopuna Zborniku (AIP SUP). Privremene promjene Zbornika od operativnog značaja objavljuju se u skladu sa AIRAC sustavom i utvrđenim AIRAC datumima, te su jasno označene akronimom »AIRAC AIP SUP«.
+(4) NOTAM-om se objavljuju zrakoplovne informacije privremenog karaktera i kratkog trajanja, te one informacije čije su trajne promjene ili privremene promjene dužeg trajanja od operativnog značaja nastale u periodu prekratkom za objavu iz stavka 2. ovoga članka. NOTAM-om se ne objavljuju opsežni tekstovi i/ili grafički prikazi.
+(5) Okružnice zrakoplovnih informacija sadrže informacije dugoročnih predviđanja bilo kakvih većih promjena propisa, postupaka ili uređaja, informacije u obliku pojašnjenja ili preporuke, a koje utječu na sigurnost zračne plovidbe, te informacije ili upozorenja u svrhu pojašnjenja ili preporuke, koje se odnose na tehnička, zakonska ili administrativna pitanja.
