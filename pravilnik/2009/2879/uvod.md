@@ -1,0 +1,1 @@
+Na osnovi članka 131. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08. i 94/09.) i članka 26. točke 1. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 6. sjednici održanoj 7. rujna 2009. godine donijelo je
