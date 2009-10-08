@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 5. i članka 37a. stavka 5. Zakona o zaštiti prirode (»Narodne novine«, broj 70/2005 i 139/2008) ministar kulture, uz prethodnu suglasnost ministra nadležnog za poslove zaštite okoliša, donosi

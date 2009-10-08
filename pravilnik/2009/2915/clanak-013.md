@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Za zahvate iz članka 2. stavka 1. ovoga Pravilnika, za koje nije propisana odnosno utvrđena procjena utjecaja zahvata na okoliš, a za koje se izdaju akti prema posebnom propisu kojim se uređuje prostorno uređenje i gradnja, prije podnošenja zahtjeva za iste, Nositelj zahvata dužan je pribaviti akt (potvrda, mišljenje, rješenje) nadležnog tijela o provedenoj Ocjeni prihvatljivosti zahvata za ekološku mrežu sukladno ovom Pravilniku.
+(2) Za zahvat za koji je propisana procjena utjecaja zahvata na okoliš kao i za zahvat za koji je potreba procjene utvrđena u postupku ocjene o potrebi procjene, Glavna ocjena zahvata provodi se u okviru postupka procjene utjecaja zahvata na okoliš.
