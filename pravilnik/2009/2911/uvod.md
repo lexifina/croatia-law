@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08), ministrica zaštite okoliša, prostornog uređenja i graditeljstva, donosi
