@@ -1,0 +1,3 @@
+## Odobravanje i registriranje
+# Članak 2.
+Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: nadležno tijelo) odobrava/registrira sakupljanje, prijevoz, preradu, upotrebu i skladištenje mlijeka, mliječnih proizvoda i proizvoda na bazi mlijeka koji se, u skladu s člankom 6. stavkom 1. točkama (e), (f) i (g) Pravilnika o nusproizvodima životinjskog podrijetla koji nisu za prehranu ljudi (Narodne novine, broj 87/09)[2] smatraju nusproizvodima materijala Kategorije 3, koji nisu bili prerađeni u skladu s odredbama Dodatka VII. Poglavlja V. navedenog Pravilnika[3] (proizvodi), ukoliko navedene aktivnosti i proizvodi udovoljavaju zahtjevima iz ovoga Pravilnika.
