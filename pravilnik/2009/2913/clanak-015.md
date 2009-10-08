@@ -1,0 +1,5 @@
+# Članak 15.
+Svako oglašavanje o lijeku prema zdravstvenim radnicima mora sadržavati bitne podatke o lijeku istovjetne onima iz sažetka opisa svojstava lijeka, a najmanje sljedeće podatke: broj odobrenja za stavljanje lijeka u promet, način izdavanja, ime i adresa nositelja odobrenja za stavljanje lijeka u promet, naziv lijeka i međunarodni naziv djelatne/ih tvari, odobrene indikacije, kontraindikacije, mjere opreza i učestale nuspojave, doziranje i način uporabe i upozorenja te mora uputiti zdravstvene radnike na zadnji odobreni sažetak opisa svojstava lijeka i uputu o lijeku.
+Svi promidžbeni materijali iz stavka 1. ovoga članka moraju sadržavati datum sastavljanja ili datum posljednje izmjene.
+Svi podaci iz promidžbenih materijala iz stavka 1. ovog članka, koja je dio oglašavanja o lijeku, moraju biti točni, novog datuma, provjerljivi i dostatni kako bi omogućili zdravstvenom radniku uobličavanje vlastitog stava o terapijskoj vrijednosti lijeka.
+Navodi, tablice ili druga građa preuzeti iz medicinskih časopisa ili drugih znanstvenih radova koji su dio promidžbenih materijala moraju biti vjerno preneseni uz naznaku točnog izvornika.
