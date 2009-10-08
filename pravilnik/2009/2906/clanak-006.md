@@ -1,0 +1,11 @@
+# Članak 6.
+1) Kada službeni laboratorij u uzorku uzorkovanom u proizvodnoj zoni utvrdi vrijednost rezultata pretrage više od 46000 MPN E. coli u 100 g mesa školjkaša i međuljušturne tekućine, obvezan je o nalazu odmah po saznanju, obavijestiti nadležnu ispostavu veterinarske inspekcije, a najkasnije 24 sata od završene pretrage dostaviti i nalaz.
+2) U slučaju iz stavka 1. ovoga članka:
+1. Veterinarski inspektor o nalazu u odnosnoj zoni odmah po saznanju obavještava registrirane proizvođače i sakupljače, odgovorne osobe u odobrenim centrima za pročišćavanje i otpremnim centrima te ovlaštene veterinarske organizacije.
+2. Odmah po dostavi nalaza od strane službenog laboratorija iz stavka 1. ovoga članka, veterinarski inspektor donosi rješenje kojim naređuje:
+- zabranu stavljanja u promet školjkaša izlovljenih i/ili sakupljenih u odnosnoj zoni;
+- uzorkovanje školjkaša 7. i 10. dana od dana uzimanja uzorka čiji je nalaz bio pozitivan.
+3. Osoba ovlaštena za uzorkovanje uzorke iz točke 2. podstavka 2. ovoga stavka dostavlja u laboratorij poštom najkasnije u roku 24 sata od provedenog uzorkovanja, a temperatura unutar prenosivog hladnjaka s uzorkom mora biti niža od 10 °C u roku od 4 sata od uzorkovanja.
+4. Ukoliko su vrijednosti rezultata pretraga u oba uzorka iz točke 2. podstavka 2. ovoga stavka niže od 46000 MPN E. coli veterinarski inspektor donosi rješenje o razvrstavanju proizvodne zone u mikrobiološki razred sukladno rezultatu pretrage u skladu s Prilogom II. Poglavljem II. Dijelom A točkom 3., 4. i 5. Pravilnika o službenim kontrolama hrane životinjskog podrijetla.
+5. Ukoliko su vrijednosti rezultata pretraga u jednom od uzoraka iz točke 2. podstavka 2. ovoga stavka više od 46000 MPN E. coli veterinarski inspektor rješenjem zabranjuje izlov i/ili sakupljanje u odnosnoj zoni.
+6. Ukoliko nakon tri uzastopna službena mjesečna uzorkovanja u odnosnoj zoni vrijednost rezultata pretraga svih uzoraka udovoljava propisanim zahtjevima za razvrstavanje u viši mikrobiološki razred, veterinarski inspektor donosi rješenje o razvrstavanju u odgovarajući razred u skladu s Prilogom II. Poglavljem II. Dijelom A točkama 3. 4. i 5. Pravilnika o službenim kontrolama hrane životinjskog podrijetla.
