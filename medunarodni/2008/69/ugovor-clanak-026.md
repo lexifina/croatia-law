@@ -1,0 +1,6 @@
+# Članak 26.
+RATIFIKACIJA, PRIHVAT, ODOBRENJE I PRISTUP
+1. Ovaj Protokol podliježe ratifikaciji, prihvatu ili odobrenju od strane država potpisnica i regionalnih organizacija gospodarske integracije iz članka 24.
+2. Protokol je otvoren za pristup od 1. siječnja 2004. državama i regionalnim organizacijama gospodarske integracije iz članka 24.
+3. Svaka regionalna organizacija gospodarske integracije iz članka 24. koja postane strankom, a da niti jedna od njezinih država članica to nije, podliježe svim obvezama iz ovog Protokola. Ako jedna ili više država članica takve organizacije jest stranka Protokola, ta organizacija i njezine države članice donose odluku o odgovarajućim odgovornostima vezanim uz ispunjenje obveza iz ovog Protokola. U takvim slučajevima, odnosna organizacija i države članice nemaju pravo istodobno izvršavati svoja prava na temelju ovog Protokola.
+4. U svojim ispravama o ratifikaciji, prihvatu, odobrenju ili pristupu regionalne organizacije gospodarske integracije iz članka 24. izjavljuju opseg svojih ovlaštenja u pogledu pitanja koja uređuje ovaj Protokol. Ove organizacije također su dužne obavijestiti depozitara o svakoj značajnoj promjeni opsega njihovih ovlaštenja.
