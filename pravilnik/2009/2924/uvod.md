@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 48. i 145. stavka 1. točke 9. Zakona o zdravstvenoj zaštiti (»Narodne novine« broj 150/08.) i članka 26. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 6. sjednici održanoj 7. rujna 2009. godine, uz suglasnost ministra nadležnog za zdravstvo, donijelo je
