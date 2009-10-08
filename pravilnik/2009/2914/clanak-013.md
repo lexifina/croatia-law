@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Na zahtjev učenika koji je zakasnio ili nije pristupio Obrani, Prosudbeni odbor razmatrat će opravdanost razloga izostanka učenika te donijeti odluku kojom će učeniku dozvoliti Obranu u tome roku ili odluku kojom će učenika uputiti na sljedeći rok i smatrati da nije iskoristio taj rok za Obranu.
+(2) Zahtjev iz stavka 1. ovoga članka i dokaze o opravdanosti kašnjenja ili izostanka, učenik mora dostaviti Prosudbenome odboru u roku 24 sata od termina Obrane na koji je zakasnio, odnosno kojemu nije pristupio.
+(3) Kao opravdani razlozi za kašnjenje ili nepristupanje Obrani smatraju se: bolest, okolnosti u prometu koje su uzrokovale nepravovremeni dolazak i koje se mogu dokazati, izvanredne okolnosti (elementarna nepogoda, smrt u obitelji, prometna nesreća s posljedicama) i drugi izvanredni događaji.

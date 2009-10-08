@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Vremenik izradbe i obrane završnog rada, sukladno članku 8. stavku 4. i 5. i članku 16. stavku 1. ovoga pravilnika donosi školski odbor na prijedlog ravnatelja škole do 30. rujna za tekuću školsku godinu, odnosno upravno tijelo ustanove koja provodi programe obrazovanja odraslih, na prijedlog ravnatelja, sukladno godišnjem planu i programu rada ustanove. Vremenik izradbe i obrane završnoga rada sastavni je dio godišnjega plana i programa rada ustanove, odnosno školskoga kurikuluma.
+(2) Vremenik izradbe i obrane završnoga rada sadrži rokove za izbor tema, izradbu i predaju završnoga rada, rokove obrane završnoga rada te datum uručivanja svjedodžbi o završnome radu.
+(3) Škola, na oglasnoj ploči ili drugome vidljivom mjestu, kao i na mrežnoj stranici, najkasnije do 5. listopada za tekuću školsku godinu, objavljuje vremenik izradbe i obrane završnoga rada.
+(4) Ustanova koja provodi programe obrazovanja odraslih na oglasnoj ploči ili na drugome vidljivom mjestu, kao i na mrežnoj stranici, najkasnije deset dana od početka nastavne godine objavljuje vremenik izradbe i obrane završnoga rada.

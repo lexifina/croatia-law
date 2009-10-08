@@ -1,0 +1,2 @@
+# Članak 29.
+Na dan stupanja na snagu ovoga pravilnika prestaje važiti Pravilnik o polaganju mature i završnog ispita (»Narodne novine«, broj 29/94., 15/95. i 24/95.), osim za učenike koji su do veljače 2010. godine stekli uvjete za polaganje mature ili završnog ispita, a koji mogu polagati maturu ili završni ispit po odredbama Pravilnika o polaganju mature i završnog ispita najkasnije do kraja 2010. godine.
