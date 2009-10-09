@@ -1,0 +1,2 @@
+# Članak 5.
+Društvo za osiguranje, odnosno društvo za reosiguranje dužno je voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze te sastavljati financijske izvještaje u skladu sa Zakonom o trgovačkim društvima, Zakonom o računovodstvu i drugim propisima, poštujući pri tome računovodstvene i financijske standarde i načela te opće računovodstvene pretpostavke ako to Zakonom o osiguranju nije drukčije propisano.

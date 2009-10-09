@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Struktura i sadržaj financijskih izvještaja navedenih u članku 2. stavku 1. alinejama 1. do 4. ovoga Pravilnika definirani su obrascima - Financijski izvještaji društva za osiguranje, odnosno društva za reosiguranje, koji se nalaze u Prilogu 1. ovoga Pravilnika. Prilikom sastavljanja financijskih izvještaja društvo za osiguranje, odnosno društvo za reosiguranje dužno je pridržavati se oblika i sadržaja propisanog za pojedini izvještaj iz Priloga 1.
+(2) Bilješke uz financijske izvještaje iz članka 2. stavka 1. alineje 5. ovoga Pravilnika sastavljaju se u skladu s odredbama Međunarodnih standarda financijskog izvještavanja (dalje u tekstu: MSFI) na način da pružaju:
+- informacije o osnovi za sastavljanje financijskih izvještaja i određenim računovodstvenim politikama primijenjenim u skladu s točkama 108. do 115. Međunarodnog računovodstvenog standarda 1 (dalje u tekstu: MRS 1),
+- informacije prema zahtjevima MSFI-a koje nisu prezentirane u bilanci, računu dobiti i gubitka, izvještaju o promjenama kapitala ili izvještaju o novčanom toku,
+- dodatne informacije koje nisu prezentirane u bilanci, računu dobiti i gubitka, izvještaju o promjenama kapitala ili izvještaju o novčanom toku, ali su važne za razumijevanje bilo kojeg od njih.

@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Društvo za osiguranje, odnosno društvo za reosiguranje koje ima vladajući odnos u grupi osiguravatelja dužno je sastavljati konsolidirane financijske izvještaje.
+(2) Struktura i sadržaj konsolidiranih financijskih izvještaja definirani su obrascima - Konsolidirani financijski izvještaji društva za osiguranje, odnosno društva za reosiguranje, koji se nalaze u Prilogu 2. ovoga Pravilnika (dalje u tekstu: Prilog 2). Prilikom sastavljanja konsolidiranih financijskih izvještaja društvo za osiguranje, odnosno društvo za reosiguranje dužno je pridržavati se oblika i sadržaja propisanog za pojedini izvještaj iz Priloga 2.
