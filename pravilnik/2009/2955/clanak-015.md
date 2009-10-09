@@ -1,0 +1,5 @@
+## III. ODBIJANJE REVIZORSKOG PREGLEDA, ODNOSNO REVIZORSKOG IZVJEŠĆA
+# Članak 15.
+(1) Agencija će odbiti revizorski pregled, odnosno revizorsko izvješće o provedenoj reviziji financijskih izvještaja ako utvrdi da je isto sastavljeno protivno odredbama Zakona o osiguranju te odredbama ovog Pravilnika.
+(2) Revizorski pregled, odnosno revizorsko izvješće protivno je odredbama Zakona o osiguranju te odredbama ovog Pravilnika ako korisnika može navesti na pogrešnu poslovnu odluku, ili ako postoje značajna odstupanja između revidiranih financijskih izvještaja i stanja koje je Agencija utvrdila neposrednim i/ili posrednim nadzorom.
+(3) U slučaju odbijanja revizorskog pregleda, odnosno revizorskog izvješća, Agencija donosi rješenje o odbijanju revizorskog pregleda, odnosno revizorskog izvješća kojim nalaže društvu za osiguranje, odnosno društvu za reosiguranje da odredi drugo revizorsko društvo koje će obaviti reviziju financijskih izvještaja te kojim određuje rok za dostavu novog revizorskog pregleda, odnosno revizorskog izvješća.

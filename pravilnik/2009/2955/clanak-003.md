@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Revizija financijskih izvještaja je postupak provjere koji prije svega uključuje ispitivanje, davanje mišljenja, odnosno ocjenu financijskih izvještaja društva za osiguranje, odnosno društva za reosiguranje koja su sastavljena na temelju Zakona o računovodstvu i koja su namijenjena vanjskim korisnicima, uključujući i Agenciju.
+(2) Godišnji financijski izvještaji moraju se revidirati za svaku poslovnu godinu.
+(3) Revizija financijskih izvještaja obavlja se u skladu sa Zakonom o reviziji, Međunarodnim revizijskim standardima i drugim pravilima revizorske struke, Zakonom o računovodstvu te Zakonom o osiguranju i propisima donesenim na temelju tog Zakona.
+(4) U revizorskom izvješću iz ovog članka revizorsko društvo dužno je dati mišljenje o tome jesu li financijski izvještaji društva za osiguranje, odnosno društva za reosiguranje sastavljeni u skladu s propisima i standardima struke. Revizorsko društvo dužno je u mišljenju iskazati pružaju li godišnji financijski izvještaji istinit i objektivan prikaz financijskog položaja društva za osiguranje, odnosno društva za reosiguranje u skladu sa Zakonom o računovodstvu, odnosno Međunarodnim standardima financijskog izvještavanja.
+2. Revizorsko izvješće za potrebe Agencije

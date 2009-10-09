@@ -1,0 +1,1 @@
+Na temelju članka 154. stavka 2. Zakona o osiguranju (Narodne novine br. 151/2005, 87/08 i 82/09), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 17. rujna 2009. godine donijela je
