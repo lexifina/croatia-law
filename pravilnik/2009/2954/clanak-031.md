@@ -1,0 +1,5 @@
+## Financijska imovina koja se vrednuje po fer vrijednosti
+# Članak 31.
+(1) Za dionice i obveznice, kao i druge dužničke vrijednosne papire kojima se trguje u Republici Hrvatskoj, fer vrijednost na dan vrednovanja imovine za pokriće tehničke, odnosno matematičke pričuve izračunava se primjenom prosječne cijene trgovanja ponderirane količinom vrijednosnog papira protrgovanog na uređenom tržištu.
+(2) Za dionice i obveznice, kao i druge dužničke vrijednosne papire kojima se trguje na uređenim tržištima država članica Europske unije i država članica OECD-a, fer vrijednost se definira na temelju cijene zadnje ponude na kupnju ostvarene tog dana na matičnoj burzi izdavatelja ili burzi koja je definirana kao primarni izvor cijene, odnosne dionice, a cijena je službeno uvrštena na financijsko-informacijskom servisu.
+(3) Kratkoročni dužnički vrijednosni papiri čiji izdavatelj ima sjedište u Republici Hrvatskoj klasificirani kao financijska imovina po fer vrijednosti, vrednuju se primjenom efektivne kamatne stope po prinosu do dospijeća relevantnom do trenutka nove transakcije, iste serije ali različitog prinosa do dospijeća.

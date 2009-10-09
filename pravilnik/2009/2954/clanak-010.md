@@ -1,0 +1,3 @@
+## Financijski instrumenti
+# Članak 10.
+U financijske instrumente iz članka 115. stavka 1. točaka 1. do 10. Zakona i članka 122. stavka 1. točaka 1. do 7. Zakona, jednog ili više izdavatelja koji su međusobno povezane osobe, društvo za osiguranje, odnosno društvo za reosiguranje može uložiti najviše 10% imovine za pokriće tehničke pričuve, odnosno najviše 10% imovine za pokriće matematičke pričuve, osim ako su izdavatelji Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj i Hrvatska narodna banka, Hrvatska banka za obnovu i razvoj, kao i država članica Europske unije, država članica OECD-a.

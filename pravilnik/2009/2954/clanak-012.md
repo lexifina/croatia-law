@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Ulaganja u financijske instrumente u skladu sa člankom 115. stavkom 1. točkama 6. i 8. Zakona kojima se ne trguje na uređenom tržištu, dopuštena su samo ako se mogu realizirati u kratkom roku ili ako je njihov izdavatelj kreditna institucija, društvo za osiguranje, odnosno društvo za reosiguranje ili drugo investicijsko društvo sa sjedištem u Republici Hrvatskoj.
+(2) Odluku o ulaganju imovine za pokriće tehničke pričuve u financijske instrumente iz stavka 1. ovoga članka, društvo za osiguranje, odnosno društvo za reosiguranje donosi na temelju prethodno obavljene ocjene poslovanja društva čije financijske instrumente namjerava steći.

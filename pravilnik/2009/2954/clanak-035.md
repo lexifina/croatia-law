@@ -1,0 +1,6 @@
+## Terminski ugovori, opcije i ostali izvedeni financijski instrumenti
+# Članak 35.
+(1) Terminski ugovori - forward vrednuju se po fer vrijednosti na način da se cijene zadnje ponude na kupnju koje službeno kotiraju na financijsko-informacijskom servisu primjenjuju za terminske prodaje, dok se službeno kotirane cijene zadnje ponude za prodaju primjenjuju za terminske kupnje.
+(2) Devizne terminske transakcije vrednuju se po fer vrijednosti primjenom jedinstvene međubankarske referentne ponudbene kamatne stope za određenu valutu (Zibor, Euribor, Libor i sl.) koja službeno kotira na financijsko-informacijskom servisu
+(3) Fer vrijednost spot transakcije na dan vrednovanja utvrđuje se izračunom razlike između ugovorenog tečaja i srednjeg tečaja Hrvatske narodne banke na dan vrednovanja imovine za pokriće tehničke, odnosno matematičke pričuve.
+(4) Za terminske i opcijske transakcije te ostale izvedenice za koje nije moguće utvrditi tržišnu cijenu, društvo za osiguranje, odnosno društvo za reosiguranje obvezno je Agenciji dostaviti na provjeru interne procedure za vrednovanje terminskih ugovora i ostalih izvedenica koje su prethodno kontrolirane i potvrđene od revizorskog društva prema stavku 151. stavku 3. Zakona.

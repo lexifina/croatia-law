@@ -1,0 +1,3 @@
+# Članak 30.
+(1) Kupnja i prodaja financijskog instrumenta kao imovine za pokriće tehničke, odnosno matematičke pričuve računovodstveno se priznaje na datum trgovanja. Zaključena transakcija kupnje priznaje se u imovini društva za osiguranje, odnosno društva za reosiguranje prema vrsti imovine uz istodobno evidentiranje obveze za namiru. Na dan zaključenja transakcije prodaje, u imovini društva za osiguranje, odnosno društva za reosiguranje ta imovina prestaje se iskazivati.
+(2) Financijski instrumenti za koje je društvo za osiguranje, odnosno društvo za reosiguranje prihvatilo uvjete iz javne ponude za kupnju vrijednosnog papira, vrednuju se od datuma odluke društva o prihvaćanju ponude po cijeni iz javne ponude.

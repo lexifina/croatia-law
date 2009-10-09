@@ -1,0 +1,3 @@
+# Članak 46.
+(1) Do 31. ožujka 2010. na odgovarajući se način primjenjuju propisi doneseni na temelju Pravilnika o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravila za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovo vrednovanje, usklađenost, pravila za upotrebu izvedenih financijskih instrumenata te način i rok izvještavanja (»Narodne novine« br. 78/06).
+(2) Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravila za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovo vrednovanje, usklađenost, pravila za upotrebu izvedenih financijskih instrumenata te način i rok izvještavanja (»Narodne novine« br. 78/06).

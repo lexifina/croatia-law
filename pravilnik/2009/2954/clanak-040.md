@@ -1,0 +1,8 @@
+## Glava V.
+## NAČIN I ROKOVI IZVJEŠĆIVANJA
+# Članak 40.
+(1) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je izvijestiti Agenciju o stanju imovine za pokriće matematičke pričuve na obrascu Pregled ulaganja imovine za pokriće matematičke pričuve na dan __________ - Obrazac PU-1 (dalje u tekstu: obrazac PU-1) koji je sastavni dio ovog Pravilnika (Prilog 1).
+(2) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je izvijestiti Agenciju o stanju imovine za pokriće tehničke pričuve, osim matematičke pričuve, na obrascu Pregled ulaganja imovine za pokriće tehničke pričuve osim matematičke pričuve na dan _________ - Obrazac PU-2 (dalje u tekstu: obrazac PU-2) koji je sastavni dio ovog Pravilnika (Prilog 2).
+(3) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je obrasce iz stavka 1. i stavka 2. ovoga članka sastaviti sa stanjem na posljednji dan svakog tromjesečja, i to na dan 31. ožujka, 30. lipnja, 30. rujna i 31. prosinca te dostaviti Agenciji u roku od 30 dana od proteka tromjesečja za koje se izvješće sastavilo, odnosno najkasnije do 30. travnja, 31. srpnja, 31. listopada i 31. siječnja.
+(4) Obrasce iz stavka 1. i stavka 2. ovoga članka sa stanjem na dan 31. prosinca u sklopu godišnjeg financijskog izvješća, društvo za osiguranje, dostavlja najkasnije u roku od tri mjeseca nakon isteka kalendarske godine, odnosno najkasnije do 31. ožujka. Društvo za reosiguranje izvješće sa stanjem na dan 31. prosinca dostavlja najkasnije u roku od četiri mjeseca nakon isteka kalendarske godine. odnosno najkasnije do 30. travnja.
+(5) Iznimno od stavka 4. ovog članka, društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti propisano izvješće na zahtjev Agencije u roku kojeg ista odredi.
