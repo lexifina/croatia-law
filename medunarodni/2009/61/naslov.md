@@ -1,0 +1,1 @@
+Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Sjedinjenih Meksičkih Država o ukidanju viza za nositelje hrvatskih diplomatskih i službenih putovnica i za nositelje meksičkih diplomatskih i službenih putovnica
