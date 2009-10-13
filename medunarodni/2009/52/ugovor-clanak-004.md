@@ -1,0 +1,2 @@
+# Članak 4.
+Svaka ugovorna stranka obavještava drugu ugovornu stranku da sukladno članku 3. stavku 1. ovog Sporazuma namjerava predati osobu koja zbog svoje dobi, lošeg zdravstvenog stanja ili bilo kojih drugih bitnih razloga zahtijeva posebnu skrb ili posebne zaštitne mjere. Odgovor druge ugovorne stranke u kojem se navodi mjesto i datum predaje te osobe uputit će se najkasnije u roku od sedam (7) dana od dana zaprimanja zahtjeva za prihvat te osobe.

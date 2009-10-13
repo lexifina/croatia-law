@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Ako se državljanstvo dokaže ili se opravdano pretpostavi, diplomatska misija ili konzularni ured države ugovorne stranke od koje se zahtijeva prihvat, na zahtjev ugovorne stranke koja zahtijeva prihvat, odmah izdaje zamjensku putnu ispravu potrebnu za povratak osobe koja se treba predati u skladu sa stavkom 1. ili 2. članka 1. ovog Sporazuma.
+(2) Postoji li sumnja u pretpostavljeno državljanstvo, diplomatska misija ili konzularni ured države ugovorne stranke od koje se zahtijeva prihvat će razgovarati s osobom u roku tri (3) dana od podnošenja zahtjeva za prihvat. Na zahtjev diplomatske misije ili konzularnog ureda ugovorne stranke od koje se zahtijeva prihvat, ugovorna stranka koja zahtjeva prihvat omogućit će razgovor s osobom u najkraćem mogućem roku. Utvrdi li se u razgovoru da osoba posjeduje državljanstvo države ugovorne stranke od koje se zahtijeva prihvat, diplomatska misija ili konzularni ured države te ugovorne stranke odmah izdaje zamjensku putnu ispravu.
+II.
+PREDAJA I PRIHVAT DRŽAVLJANA TREĆIH DRŽAVA I OSOBA BEZ DRŽAVLJANSTVA
