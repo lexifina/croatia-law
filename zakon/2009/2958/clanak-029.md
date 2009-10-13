@@ -1,0 +1,2 @@
+# Članak 29.
+U cijelom tekstu Zakona o stomatološkoj djelatnosti (»Narodne novine«, br. 121/03. i 117/08.) riječi: »stomatološkoj djelatnosti« zamjenjuju se riječima: »dentalnoj medicini«, riječi: »doktor stomatologije« zamjenjuju se riječima: »doktor dentalne medicine«, riječi: »stomatološki studij« zamjenjuju se riječima: »studij dentalne medicine«, riječ: »stomatološki« zamjenjuje se riječju: »dentalni«, a riječi: »osnovna mreža stomatološke djelatnosti« riječima: »mreža javne zdravstvene službe za dentalnu medicinu« u odgovarajućem broju i padežu.

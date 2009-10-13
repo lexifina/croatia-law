@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Zubni tehničari koji na dan stupanja na snagu ovoga Zakona obavljaju zubotehničku djelatnost, a koji obavljaju rad po do sada važećim propisima mogu i dalje obavljati tu djelatnost pod uvjetom da u roku od godine dana od dana stupanja na snagu ovoga Zakona steknu odobrenje za samostalan rad sukladno ovome Zakonu.
+(2) Stomatološki asistenti koji na dan stupanja na snagu ovoga Zakona obavljaju djelatnost stomatoloških asistenata, a koji obavljaju rad po do sada važećim propisima mogu i dalje obavljati tu djelatnost pod uvjetom da u roku od godine dana od dana stupanja na snagu ovoga Zakona steknu dozvolu za rad sukladno ovome Zakonu.
