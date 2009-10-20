@@ -1,0 +1,20 @@
+O b r a z l o ž e n j e
+1. Milena Jeličić i Oleg Prelas, oboje iz Splita (u daljnjem tekstu: predlagatelji) podnijeli su 10. siječnja 2006. godine prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom točke I. c) Odluke o izmjeni i dopuni Odluke o privatizaciji društva Slobodna Dalmacija d.d., Split, (u daljnjem tekstu: Odluka).
+2. Osporenom točkom I. c) Odluke Vlada Republike Hrvatske odredila je prodaju dionica radnicima/dioničarima sukladno listi ovlaštenika koju će zajednički utvrditi Zaposleničko vijeće Društva, te sindikati i udruge koje djeluju u tom Društvu.
+3. Predlagatelji ističu da je Vlada Republike Hrvatske donoseći osporenu točku nezakonito postupala, prenoseći ovlast sastavljanja popisa ovlaštenika za kupnju dionica Društva Slobodna Dalmacija d.d., Split pod povoljnijim uvjetima na tri sindikata, Udrugu malih dioničara, Udrugu polagatelja prava na dionice i na Zaposleničko vijeće Društva, čime su oni i ostalih četrdesetak radnika, unatoč dugogodišnjem stažu u Društvu, stavljeni u nepovoljniji položaj u odnosu na druge radnike koji su uvršteni na listu ovlaštenika za kupnju dionica Društva.
+Predlaže pokretanje postupka ocjene ustavnosti i zakonitosti osporene Odluke.
+Ustavni sud nije nadležan za odlučivanje.
+4. Prema članku 128. alineji 2. Ustava, Ustavni sud odlučuje o suglasnosti drugih propisa s Ustavom i zakonom.
+Pod drugim propisom u smislu navedene ustavne odredbe podrazumijeva se općenormativni akt donesen unutar zakonskog ovlaštenja od strane nadležnog tijela državne vlasti radi provedbe zakona, odnosno propis koji tijela jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe s javnim ovlastima donose unutar svog djelokruga poslova utvrđenog Ustavom i zakonom (stajalište Suda izraženo u odluci broj: U-III-4950/2004, "Narodne novine" broj 31/05. i odluci broj: U-III-1953/2003, "Narodne novine" broj 78/08.).
+Dakle, pod drugim propisom podrazumijeva se općenormativni akt obvezatnog karaktera donesen od nadležnih tijela državne vlasti ili tijela jedinica lokalne i područne (regionalne) samouprave te drugih pravnih osoba s javnim ovlastima, koji uređuje odnose na općenit način i koji se odnosi, u pravilu, na neodređeni krug adresata.
+5. Ocjenjujući jesu li osporene odluke drugi propis u smislu članka 128. alineje 2. Ustava, Ustavni sud je utvrdio da osporena odluka nema obilježje drugog propisa.
+Vlada Republike Hrvatske na sjednici održanoj 23. lipnja 2005. godine, na temelju članka 10. i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske ("Narodne novine" broj 101/98., 15/00., 117/01., 199/03. i 30/04.) te članka 3. stavka 2. i članka 9. Zakona o privatizaciji ("Narodne novine" broj 21/96., 71/97., 16/98. i 73/00.) donijela je Odluku o izmjeni i dopuni Odluke o privatizaciji društva Slobodna Dalmacija d.d., Split.
+Članak 10. Zakona o Vladi propisuje da Vlada ili od nje ovlašteno tijelo upravlja, raspolaže i koristi se imovinom Republike Hrvatske, ako posebnim zakonom nije drukčije određeno.
+Članak 3. stavak 2. i članak 9. Zakona o privatizaciji propisuje da je Vlada Republike Hrvatske ovlaštena odrediti svojom odlukom način korištenja dionica u postupku privatizacije, odnosno odrediti posebne uvjete privatizacije.
+Iz navedenog je razvidno da Vlada Republike Hrvatske nije donijela provedbeni propis, već akt kojim je odredila da će kriterije stjecanja dionica i popis ovlaštenika na kupnju odrediti sindikati, udruge i Zaposleničko vijeće.
+Ustavni sud utvrđuje da osporena odluka nema obilježja drugog propisa te ne podliježe ustavnosudskoj ocjeni u smislu članka 128. alineje 2. Ustava Republike Hrvatske.
+6. Prema odredbi članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst), između ostaloga, Ustavni sud će rješenjem odbaciti prijedlog kad nije nadležan za odlučivanje.
+Slijedom utvrđenja da osporena odluka nije drugi propis u smislu članka 128. alineje 2. Ustava, a na temelju članka 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-118/2006
+Zagreb, 20. listopada 2009.
