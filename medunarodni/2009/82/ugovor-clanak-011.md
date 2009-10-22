@@ -1,0 +1,3 @@
+# Članak 11.
+1. Sukladno odredbama članka VIII. Sporazuma, vrhovno zapovjedništvo može sudjelovati u sudskom postupku kao tužitelj ili tuženi. Međutim, država primateljica i vrhovno zapovjedništvo, ili bilo koje podređeno savezničko zapovjedništvo koje je dobilo od njega ovlast, mogu se sporazumjeti da će država primateljica zastupati vrhovno zapovjedništvo u svakom sudskom postupku u kojem je to zapovjedništvo stranka pred sudovima države primateljice.
+2. U odnosu na bilo koje savezničko zapovjedništvo neće se poduzimati nikakve mjere ovrhe ili mjere usmjerene na oduzimanje ili preuzimanje njegove imovine ili sredstava, osim u svrhe stavka 6.(a) članka VII. i članka XIII. Sporazuma.

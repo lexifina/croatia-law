@@ -1,0 +1,2 @@
+# Članak 2.
+Sukladno sljedećim odredbama ovoga Protokola, Sporazum će se primjenjivati na savezničko zapovjedništvo na državnom području stranke ovoga Protokola na području Sjevernoatlantskog ugovora, i na vojno i civilno osoblje takvog zapovjedništva i članove njihovih obitelji koji su obuhvaćeni definicijama iz točaka (a), (b) i (c) stavka 1. članka 3. ovoga Protokola, kada je takvo osoblje prisutno na bilo kojem takvom državnom području u svezi s njihovim službenim dužnostima ili, u slučaju članova njihovih obitelji, službenim dužnostima njihovih supružnika ili roditelja.

@@ -1,0 +1,5 @@
+# Članak 16.
+1. Članci XV. i XVII. do XX. Sporazuma primjenjuju se u odnosu na ovaj Protokol kao da su njegov sastavni dio, no na način da se Protokol može izmijeniti, suspendirati, ratificirati, pristupiti mu, otkazati ili proširiti u skladu s tim odredbama neovisno o Sporazumu.
+2. Ovaj Protokol može se dopuniti dvostranim ugovorom između države primateljice i vrhovnog zapovjedništva, a vlasti države primateljice i vrhovnog zapovjedništva mogu se sporazumjeti o primjeni, upravnim sredstvima prije ratifikacije, bilo kojih odredaba ovoga Protokola ili Sporazuma kako je njime primijenjen.
+U potvrdu gore navedenog, dolje potpisani opunomoćenici potpisali su ovaj Protokol.
+Sastavljeno u Parizu 28. kolovoza 1952., na engleskom i francuskom jeziku, pri čemu su oba teksta jednako vjerodostojna, u jednom izvorniku koji će biti pohranjen u arhivu Vlade Sjedinjenih Američkih Država. Vlada Sjedinjenih Američkih Država dostavit će njegove ovjerene preslike svim državama potpisnicama i državama koje mu pristupe.

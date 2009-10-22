@@ -1,0 +1,2 @@
+# Članak 15.
+Sve razlike između stranaka ovoga Protokola ili između bilo koje takve stranke i bilo kojeg savezničkog zapovjedništva u svezi s tumačenjem i primjenom ovoga Protokola, rješavat će se pregovorima između stranaka u sporu bez obraćanja trećem. Osim ukoliko izričitom odredbom ovoga Protokola ili Sporazuma nije određeno drugačije, razlike koje se ne mogu riješiti neposrednim pregovorima podnijet će se Sjevernoatlantskom vijeću.

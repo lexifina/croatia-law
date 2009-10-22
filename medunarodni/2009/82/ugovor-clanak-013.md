@@ -1,0 +1,2 @@
+# Članak 13.
+Arhivi i drugi službeni dokumenti savezničkog zapovjedništva pohranjeni u objektima koje koristi to zapovjedništvo ili u posjedu bilo kojeg odgovarajuće ovlaštenog pripadnika zapovjedništva nepovredivi su, osim ukoliko se zapovjedništvo odreklo ovoga imuniteta. Zapovjedništvo će, na zahtjev države primateljice i u nazočnosti predstavnika te države, potvrditi vrstu bilo kojih dokumenata radi potvrde da oni podliježu imunitetu prema ovom članku.
