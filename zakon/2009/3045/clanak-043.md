@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Odredbe članaka 26-42. koje propisuju minimalne uvjete osposobljavanja za profesije uređene prema pojedinim područjima u djelatnosti zdravstva na odgovarajući način će se uzimati u obzir prilikom vrednovanja kvalifikacije u općem sustavu priznavanja stručnih kvalifikacija.
+(2) U slučaju kada je druga država članica EU državljaninu države članice EU već priznala kvalifikaciju stečenu izvan teritorija EEP-a Republika Hrvatska će priznati navedenu odluku druge države članice EU uz ispunjenje uvjeta stvarnog i zakonitog obavljanja profesionalne djelatnosti na teritoriju EU najmanje tri uzastopne godine unutar posljednjih pet godina.

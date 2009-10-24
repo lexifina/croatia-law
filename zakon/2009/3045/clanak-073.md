@@ -1,0 +1,9 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 73.
+(1) Visinu naknade troškova i način plaćanja i raspodjele naknade iz članka 20. stavka 2. ovoga Zakona nadležni ministri propisat će u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(2) Nadležna tijela dužna su odrediti osobu iz članka 67. stavka 4. ovoga Zakona čija zadaća je davati potrebne informacije kontakt točki iz članka 66. ovoga Zakona te popunjavati bazu podataka iz članka 67. stavka 1. podstavka 2.-5. ovoga Zakona, u roku od 8 dana od dana pristupanja Republike Hrvatske Europskoj uniji.
+(3) Detaljni sadržaj baze podataka te način i postupak popunjavanja baze podataka iz članka 67. ovoga Zakona kontakt točka iz članka 66. ovoga Zakona dužna je propisati svojim općim aktom u roku od 8 mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Bazu podataka iz članka 67. ovoga Zakona, sa sadržajem iz podstavka 1. i 5. istog članka, kontakt točka iz članka 66. ovoga Zakona dužna je uspostaviti u roku od 10 mjeseci od dana stupanja na snagu ovoga Zakona.
+(5) Vlada Republike Hrvatske donijet će popise iz članka 72. ovoga Zakona u roku od 6 mjeseci od dana stupanja ovoga Zakona na snagu.
+(6) Ministar nadležan za zdravstvo donijet će Pravilnik o specijalističkom usavršavanju doktora medicine i Pravilnik o specijalističkom usavršavanju doktora dentalne medicine iz članaka 28. stavka 2. i članka 33. stavka 2. ovoga Zakona, u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona.
+(7) Rektorski zbor uskladit će popis akademskih naziva i akademskih stupnjeva i njihovih kratica, u dijelu koji se odnosi na akademski naziv doktor stomatologije s ovim Zakonom, a visoka učilišta koja izvode studij stomatologije uskladit će svoje opće akte u dijelu koji se odnosi na akademski naziv doktor stomatologije s ovim Zakonom, u roku od 2 mjeseca od dana stupanja ovog Zakona na snagu.

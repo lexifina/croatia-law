@@ -1,0 +1,3 @@
+# Članak 74.
+(1) Postupci priznavanja stručnih kvalifikacija osobama iz članka 2. stavka 1., 2. i 3. ovoga Zakona započet će se provoditi od dana pristupanja Republike Hrvatske Europskoj uniji.
+(2) Od dana pristupanja Republike Hrvatske Europskoj uniji, na osobe iz članka 2. ovoga Zakona, a koje u Republici Hrvatskoj žele obavljati određenu reguliranu profesiju sukladno bazi podataka iz članka 67. ovoga Zakona, prestaju se primjenjivati odredbe Zakona o priznavanju inozemnih obrazovnih kvalifikacija (»Narodne novine«, br. 158/03. i 138/06.) koje se odnose na priznavanje inozemnih obrazovnih kvalifikacija u svrhu zapošljavanja u Republici Hrvatskoj.

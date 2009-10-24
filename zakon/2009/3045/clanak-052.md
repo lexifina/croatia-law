@@ -1,0 +1,3 @@
+## Stečena prava za doktore medicine
+# Članak 52.
+Republika Hrvatska može od doktora medicine specijalista, čije je specijalističko usavršavanje bilo uređeno zakonskim i drugim propisima u državi članici EU koji su na snazi od 20. lipnja 1975. godine, a koji su započeli specijalističko usavršavanje najkasnije do 31. prosinca 1983. godine, zahtijevati da uz dokaz o formalnoj osposobljenosti prilože i potvrdu da su stvarno i zakonito obavljali odgovarajuću specijalističku djelatnost na području države članice EU najmanje tri uzastopne godine unutar posljednjih pet godina prije njezinog izdavanja.

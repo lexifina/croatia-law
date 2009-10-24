@@ -1,0 +1,9 @@
+## Stečena prava specifična za arhitekte
+# Članak 62.
+(1) Dokaz o formalnoj osposobljenosti za arhitekte naveden u točki 6. Prilogu VI. Direktive izdan od druge države članice EU, a koji dokaz potvrđuje program osposobljavanja koji je počeo najkasnije u referentnoj akademskoj godini iz tog Priloga, čak i ako on ne ispunjava uvjete iz članka 46. ovoga Zakona, priznaje se u svrhu pristupa obavljanju poslova i obavljanja poslova arhitekata istovrijednim dokazom kao i dokazom o ispunjavanju uvjeta za obavljanje poslova arhitekata izdanih od strane odgovarajućih tijela Republike Hrvatske.
+(2) Dokazom iz stavka 1. ovoga članka smatra se i potvrda izdana od strane nadležnog tijela Savezne Republike Njemačke kojom se potvrđuje formalna osposobljenost izdana nakon 8. svibnja 1945. godine od nadležnog tijela Njemačke Demokratske Republike.
+(3) Neovisno o odredbama stavka 1. i 2. ovoga članka, sljedeći dokazi o formalnoj osposobljenosti priznaju se, u svrhu pristupa obavljanja poslova i obavljanja poslova arhitekata istovrijednim dokazom kao i dokazom o ispunjavanju uvjeta za obavljanje poslova arhitekata izdanim od strane odgovarajućih tijela Republike Hrvatske, i to potvrde izdane državljanima drugih država članica EU koje izdaju te države članice, a koje su usvojile pravila koja uređuju pristup obavljanju poslova i obavljanje poslova arhitekata na sljedeće datume:
+- 1. siječnja 1995. godine za Austriju, Finsku i Švedsku,
+- 1. svibnja 2004. godine za Češku, Estoniju, Cipar, Latviju, Litvu, Mađarsku, Maltu, Poljsku, Sloveniju i Slovačku,
+- 5. kolovoza 1987. godine za sve ostale države članice EU.
+(4) Potvrde iz stavka 3. ovoga članka potvrđuju da je nositelj te potvrde bio ovlašten, ne kasnije od navedenog datuma, pravo rabiti profesionalni naziv »arhitekt«, te da je u okviru tih pravila stvarno obavljao poslove arhitekata najmanje tri uzastopne godine u razdoblju od pet godina koje su prethodile izdavanju potvrde.

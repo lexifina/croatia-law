@@ -1,0 +1,4 @@
+## V. KORIŠTENJE PROFESIONALNIH NAZIVA I NAZIVA STEČENIH NAKON ZAVRŠETKA VISOKOG OBRAZOVANJA
+# Članak 63.
+(1) Ako je u Republici Hrvatskoj propisano korištenje profesionalnih naziva za neku od reguliranih profesija, kandidati koji su ovlašteni za obavljanje neke regulirane profesije na temelju priznanja stručnih kvalifikacija sukladno ovom Zakonu, koriste profesionalne nazive koji se za tu reguliranu profesiju koriste u Republici Hrvatskoj kao i odgovarajuće kratice.
+(2) Ako je u Republici Hrvatskoj određena profesija regulirana općim aktom strukovne organizacije ili drugoga nadležnog tijela ili organizacije, kandidat može koristiti profesionalni naziv koji dodjeljuje ta strukovna organizacija ili drugo nadležno tijelo ili organizacija, kao i odgovarajuću kraticu, ako podnese dokaz da je član tog tijela, odnosno organizacije.

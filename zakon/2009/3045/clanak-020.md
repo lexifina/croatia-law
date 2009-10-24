@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Za podneske i upravne radnje obavljene sukladno ovome Zakonu plaća se pristojba sukladno propisima koji uređuju upravne pristojbe, a plaća ju kandidat kod podnošenja podneska.
+(2) Visinu naknade za troškove obavljanja razdoblja prilagodbe pod vodstvom osposobljenoga stručnjaka, odnosno visinu naknade za troškove za eventualno dodatno obrazovanje ili stručno usavršavanje i osposobljavanje u razdoblju prilagodbe te za provjeru osposobljenosti u profesiji kandidata, kao i način plaćanja te raspodjelu naknade, propisuje nadležni ministar, a plaća je kandidat prije početka obavljanja razdoblja prilagodbe, eventualnog dodatnog obrazovanja ili stručnog usavršavanja i osposobljavanja, odnosno provjere osposobljenosti.
+(3) Naknade troškova iz stavka 2. ovoga članka ne smiju biti više od naknada koje su za istu namjenu obavljanja profesije utvrđene za državljane i državljanke Republike Hrvatske te ne smiju prelaziti stvarne troškove postupka.

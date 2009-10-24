@@ -1,0 +1,13 @@
+# Članak 13.
+(1) Ako su pristup reguliranoj profesiji ili bavljenje tom profesijom u Republici Hrvatskoj uvjetovani određenim stručnim kvalifikacijama, nadležno tijelo dužno je dopustiti pristup toj profesiji i bavljenje tom profesijom pod istim uvjetima koji se primjenjuju na državljane i državljanke Republike Hrvatske i to kandidatu koji:
+a) je stekao stručnu kvalifikaciju u državi ugovornici EEP-a i posjeduje potvrdu o kompetencijama ili dokaz o formalnoj osposobljenosti koji traži država ugovornica EEP-a za obavljanje regulirane profesije, ili
+b) je obavljao tu profesiju u punom radnom vremenu najmanje dvije godine u zadnjih deset godina u državi ugovornici EEP-a u kojoj ta profesija nije regulirana, pod uvjetom da kandidat posjeduje jednu ili više potvrda o kompetencijama ili dokaza o formalnoj osposobljenosti.
+(2) Nadležno tijelo dužno je dopustiti pristup reguliranoj profesiji i bavljenje tom profesijom pod istim uvjetima koji se primjenjuju na državljane i državljanke Republike Hrvatske i to kandidatu koji:
+a) je stekao stručnu kvalifikaciju u trećoj državi te
+b) ima tri godine stručnog iskustva u određenoj profesiji na području države ugovornice EEP-a koja je priznala formalnu osposobljenost stečenu u trećoj državi time što je dopustila kandidatu da obavlja tu profesiju unutar njezinih granica i prema važećim propisima i ako je potvrđena od strane te države.
+(3) Potvrde o kompetencijama ili dokaz o formalnoj osposobljenosti moraju ispunjavati sljedeće uvjete:
+a) moraju ih izdati nadležna tijela države ugovornice EEP-a,
+b) moraju potvrđivati minimalno onu razinu stručne kvalifikacije koja neposredno prethodi razini kvalifikacije koja se zahtijeva u Republici Hrvatskoj i
+c) u slučajevima iz stavka 1. podstavka b) ovoga članka, moraju potvrđivati da je kandidat bio osposobljen za bavljenje određenom profesijom.
+(4) Nadležno tijelo ne smije zahtijevati dvogodišnje stručno iskustvo iz stavka 1. podstavka b) ovoga članka ako dokaz o formalnoj osposobljenosti koji kandidat posjeduje potvrđuje profesionalnu osposobljenost i ako je potvrđena profesionalna osposobljenost na razini stručnih kvalifikacija iz članka 11. podstavaka b), c), d) ili e) ovoga Zakona.
+(5) Iznimno, nadležno tijelo je dužno odobriti obavljanje i mogućnost obavljanja regulirane profesije u slučajevima kada je mogućnost obavljanja te profesije u Republici Hrvatskoj uvjetovana kvalifikacijom koja potvrđuje uspješan završetak visokog obrazovanja (na sveučilištu, veleučilištu ili visokoj školi) u trajanju od četiri godine, u slučaju da kandidat posjeduje kvalifikaciju iz članka 11. podstavka c) ovoga Zakona.

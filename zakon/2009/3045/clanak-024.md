@@ -1,0 +1,7 @@
+# Članak 24.
+(1) U slučaju djelatnosti iz popisa III. Priloga IV. Direktive, nadležno tijelo priznat će prethodno bavljenje tom djelatnošću u drugoj državi članici EU kao dovoljan dokaz znanja i sposobnosti za obavljanje takve djelatnosti ako se kandidat tom djelatnošću prethodno bavio:
+a) tijekom tri uzastopne godine samostalno (kao trgovac pojedinac) ili kao menadžer trgovačkog društva, ili
+b) tijekom dvije uzastopne godine, samostalno (kao trgovac pojedinac) ili kao menadžer trgovačkog društva, ako kandidat može dokazati da je prethodno prošao osposobljavanje za djelatnost o kojoj je riječ, što potvrđuje svjedodžba (javna isprava) koju je priznala država članica EU ili čiju je punu valjanost ocijenilo nadležno tijelo, ili
+c) tijekom dvije uzastopne godine, samostalno (kao trgovac pojedinac) ili kao menadžer trgovačkog društva, ako kandidat može dokazati da se bavio djelatnošću o kojoj je riječ samostalno najmanje tri godine, ili
+d) tijekom tri uzastopne godine, na osnovi zaposlenja, ako kandidat može dokazati da je prethodno prošao osposobljavanje za djelatnost o kojoj je riječ, što potvrđuje svjedodžba (javna isprava) koju je priznala država članica EU ili čiju je punu valjanost ocijenilo nadležno tijelo.
+(2) U slučajevima iz stavka 1. podstavka a) i c) ovoga članka bavljenje djelatnošću nije smjelo završiti prije više od deset godina računajući od datuma kad je kandidat podnio potpun zahtjev nadležnom tijelu.

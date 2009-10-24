@@ -1,0 +1,2 @@
+# Članak 60.
+Dokazi o formalnoj osposobljenosti za primalje izdani državljanima država članica EU u Rumunjskoj (asistent medical obsterricã-ginecologie/obstetrics-ginecology nurse), prije datuma pristupanja Rumunjske u EU, koji ne udovoljavaju minimalnim uvjetima osposobljavanja iz članka 40. ovoga Zakona, priznaju se kao dovoljan dokaz u svrhu obavljanja profesije primalje, ako uz taj dokaz kandidat priloži ispravu da je stvarno i zakonito obavljao profesiju primalje u Rumunjskoj i to najmanje pet godina uzastopno tijekom sedam godina prije izdavanja te isprave.

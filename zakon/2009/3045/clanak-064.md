@@ -1,0 +1,4 @@
+# Članak 64.
+(1) Neovisno o članku 7., članku 8. stavku 10. i članku 63. ovoga Zakona, kandidat ima pravo koristiti stručni i akademski naziv, odnosno akademski stupanj i odgovarajuću kraticu, koje je stekao u državi članici podrijetla na jeziku države članice podrijetla.
+(2) U slučaju iz stavka 1. ovoga članka nadležno tijelo od kandidata može u rješenju iz članka 18. ovoga Zakona zahtijevati da iza naziva iz stavka 1. ovoga članka slijedi naziv i adresa ustanove koja je naziv dodijelila.
+(3) U slučaju kada postoji mogućnost da se naziv iz stavka 1. ovoga članka zamijeni za naziv za koji je u Republici Hrvatskoj potrebno dodatno obrazovanje koje kandidat nije stekao u državi članici podrijetla, nadležno tijelo može zahtijevati od kandidata da koristi naziv države članice podrijetla na odgovarajući način koji utvrdi nadležno tijelo rješenjem iz članka 18. ovoga Zakona.

@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Diplome, svjedodžbe i druge javne isprave kojima se potvrđuje uspješno završeno formalno obrazovanje i po potrebi stručno usavršavanje i osposobljavanje, a koje je izdalo nadležno tijelo na području bivše Jugoslavije prije 8. listopada 1991. godine, izjednačene su po pravnoj snazi s diplomama, svjedodžbama i drugim javnim ispravama izdanima od nadležnih tijela Republike Hrvatske te ne podliježu provjeri u postupku priznavanja inozemnih stručnih kvalifikacija.
+(2) Nadležno ministarstvo izdaje potvrde o valjanosti javnih isprava o formalnoj osposobljenosti iz stavka 1. ovoga članka koje su hrvatski ili strani državljani stekli u republikama bivše Jugoslavije prije 8. listopada 1991. godine.

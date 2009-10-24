@@ -1,0 +1,10 @@
+## II. PRUŽANJE USLUGA NA PRIVREMENOJ I POVREMENOJ OSNOVI NA TEMELJU INOZEMNIH STRUČNIH KVALIFIKACIJA
+# Članak 4.
+(1) Fizička osoba koja u Republici Hrvatskoj želi pružati usluge na privremenoj ili povremenoj osnovi obavljanjem određene regulirane profesije, bilo kao osoba zaposlena kod određenog poslodavca ili osoba koja obavlja samostalnu djelatnost može pružati takve usluge obavljanjem regulirane profesije ako:
+a) je stekla stručnu kvalifikaciju u državi ugovornici EEP-a ili u trećoj državi,
+b) je poslovno nastanjena u državi ugovornici EEP-a prema propisima za bavljenje istom reguliranom profesijom u toj državi te
+c) je u državi poslovnog nastana obavljala istu reguliranu profesiju najmanje dvije godine tijekom zadnjih deset godina koje je prethodilo pružanju usluga, u slučaju da niti ta profesija niti usavršavanje niti osposobljavanje za tu profesiju nisu regulirani u državi poslovnog nastana.
+(2) Sukladno odredbama ove glave Zakona, nadležno tijelo ne smije niti iz jednog razloga vezanog uz stručne kvalifikacije ograničavati kandidata iz stavka 1. ovoga članka u pružanju usluga u Republici Hrvatskoj:
+a) ako je kandidat poslovno nastanjen u državi ugovornici EEP-a u svrhu obavljanja određene profesije prema propisima za bavljenje istom profesijom u toj državi (u daljnjem tekstu: država članica poslovnog nastana),
+b) ako se kandidat u državi članici poslovnog nastana bavio određenom profesijom najmanje dvije godine tijekom zadnjih deset godina, u slučaju da ta profesija u državi članici poslovnog nastana nije regulirana.
+(3) Kandidat iz stavka 1. ovoga članka podliježe posebnim propisima iz djelokruga nadležnih tijela kojima se uređuju stručne kvalifikacije za obavljanje reguliranih profesija, primjerice s definicijom regulirane profesije, uporabom profesionalnog naziva i s grubom profesionalnom nepažnjom koji su izravno i posebno povezani sa zaštitom potrošača i sigurnošću te s disciplinskim odredbama koje su na snazi u Republici Hrvatskoj za stručnjake koji se bave istom profesijom u Republici Hrvatskoj.
