@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Na temelju broja učenika ured državne uprave u županiji odnosno Gradski ured Grada Zagreba nadležan za poslove obrazovanja, utvrđuje za svaku pojedinu školu broj redovitih i kombiniranih razrednih odjela za školsku godinu i o tome donosi odluku.
+(2) Odluka iz stavka 1. ovog članka sadrži ukupan broj razrednih odjela, broj redovitih razrednih odjela i broj kombiniranih razrednih odjela, ukupan broj učenika, broj učenika u pojedinom razrednom odjelu, ukupan broj učenika s teškoćama koji imaju rješenje o primjerenom programu obrazovanja (u daljnjem tekstu: učenici s teškoćama), broj razrednih odjela posebnog programa i broj učenika s teškoćama u određenom redovitom odnosno kombiniranom razrednom odjelu te razrednom odjelu posebnog programa.
+(3) Broj odgojno-obrazovnih skupina utvrđuje škola godišnjim planom i programom rada.
