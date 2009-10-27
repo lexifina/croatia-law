@@ -1,0 +1,4 @@
+# Članak 51.
+U proizvodnji duhanskih prerađevina ne smiju se koristiti sljedeće aromatične tvari: agaricinska kiselina, Oleum Betulae empyreumaticum, Oleum Amygdali amarae koje sadrži slobodnu ili vezanu cijanovodičnu kiselinu, Oleum Sassafras, Oleum Juniperi empyreumaticum, Oleum camphoratum, kamfor, kumarin, safrol, tujon, aromatične tvari iz biljke Stipites Dulcamarae, Lignum Camphorae, Rhizoma Polypodii, Rhizoma Filicis dulcis, Herba Pulegii, Lignum Quassiae, Cortex Quillaiae, Herba Tanaceti, Herba Rutae, Lignum -, Folia - i Cortex Sassafras, Melilotus officinalis, Semen Toncae, Liatris odoratissima i Asperula odorata.
+Iznimno od odredbe iz stavka 1. ovoga članka u proizvodnji duhana za šmrkanje može se dodavati kamfor i to do najviše 2,0%, izraženo na gotovi proizvod.
+Duhanskim prerađevinama mogu se dodavati druge aromatične tvari, uz uvjet da nisu štetne za zdravlje i da odgovaraju zahtjevima propisanim za prehrambene arome.

@@ -1,0 +1,2 @@
+# Članak 9.
+Kozmetički proizvod, ako se primjenjuje prema normalnom ili razumno predviđenom načinu uporabe, uzimajući u obzir njegov izgled, označavanje, uputu za uporabu i njegovo odlaganje kao i ostale podatke koje navodi proizvođač, njegov ovlašteni zastupnik ili druga osoba odgovorna za stavljanje proizvoda na tržište, ne smije biti štetan za zdravlje ljudi niti neposredno nakon uporabe, niti na dulje vrijeme.

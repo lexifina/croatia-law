@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o predmetima opće uporabe (»Narodne novine«, br. 85/06 i 75/09), ministar zdravstva i socijalne skrbi, uz prethodno pribavljeno mišljenje ministra gospodarstva, rada i poduzetništva donosi

@@ -1,0 +1,4 @@
+# Članak 50.
+Za očuvanje vlažnosti duhana u proizvodnji duhana za pušenje, cigara, cigareta i duhanskih folija mogu se koristiti: glicerol, hidrirani glukozni sirup, 1,2-propilenglikol, 1,3-butilenglikol, trietilenglikol, ortofosforna kiselina, glicerin-fosforna kiselina i njeni natrijevi -, kalijevi - i magnezijevi spojevi, u ukupnoj količini do 5,0%, izraženo na suhu tvar gotovog proizvoda.
+Od aditiva iz stavka 1. ovoga članka u proizvodnji duhana za žvakanje mogu se koristiti samo glicerin u količini do 10,0%, izraženo na suhu tvar gotovog proizvoda i hidrirani glukozni sirup.
+Od aditiva iz stavka 1. ovoga članka u proizvodnji duhana za šmrkanje mogu se koristiti hidrirani glukozni sirup, tekući parafin u količini do 25,0%, izraženo na suhu tvar gotovog proizvoda, glicerin u količini do 10,0%, izraženo na suhu tvar gotovog proizvoda, 1,2-propilenglikol i 1,3-butilenglikol.

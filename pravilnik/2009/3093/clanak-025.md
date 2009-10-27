@@ -1,0 +1,2 @@
+# Članak 25.
+Ambalaža iz članka 23. ovoga Pravilnika mora biti izrađena od materijala koji ne utječu nepovoljno na organoleptička, kemijska ili fizikalna svojstva predmeta široke potrošnje s kojima su u neposrednom dodiru, ne sadrže, niti ne otpuštaju tvari koje mogu biti štetne za zdravlje ili u količinama štetnim za zdravlje te ne utječu nepovoljno na održavanje predmeta široke potrošnje u zdravstveno ispravnom stanju. Bojila i punila koja se koriste u proizvodnji ambalaže moraju biti zdravstveno ispravna.

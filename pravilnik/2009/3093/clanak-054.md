@@ -1,0 +1,4 @@
+# Članak 54.
+U proizvodnji duhana za žvakanje mogu se koristiti i ovi dodaci: amonijev klorid, kalijev aluminijev sulfat, kalcijev klorid, monokalijev tartarat i saharin.
+Ako je duhanu za žvakanje dodan saharin u okviru deklaracije mora biti navedeno da sadrži umjetno sladilo.
+U proizvodnji duhana za šmrkanje mogu se koristiti i ovi dodaci: jestive masti i ulja, kvasci, sjemenke tonkovca iz kojih je odstranjen kumarin (sadržaj kumarina u duhanu za šmrkanje smije iznositi najviše 0,003%), amonijev karbamat, natrijev -, kalijev - i kalcijev karbonat, amonijev klorid, amonijev hidroksid, kalcijev klorid, kalcijev hidroksid, monokalijev tartarat i 1,3-butilenglikol; za bijeli prah za šmrkanje mogu se koristiti i ovi dodaci: amonijev karbamat, natrijev i kalcijev karbonat te amonijev - i kalcijev klorid.
