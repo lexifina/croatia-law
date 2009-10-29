@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06, 73/08) i članka 37. Statuta Grada Čabra (»Službene novine Primorsko-goranske županije« broj 33/09), Gradsko vijeće grada Čabra na sjednici održanoj 4. rujna 2009. godine donosi
