@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2009. godinu (»Narodne novine«, br. 149/2008, 44/2009, 86/2009 i 95/2009) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009), Vlada Republike Hrvatske je na sjednici održanoj 30. listopada 2009. godine donijela
