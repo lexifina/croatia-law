@@ -1,0 +1,5 @@
+# Članak 5.
+U poglavlju IX. »Ostala materijalna prava radnika« u članku 86. u stavku (9) tekst: »10 litara« zamjenjuje se tekstom: »8,5 litara«, a stavci 10. i 12. mijenjaju se tako da sada glase:
+»Članak 86.
+(10) Maksimalni mjesečni iznos naknade troškova prijevoza na posao i s posla je 1.275,00 kuna. Pravo na naknadu u maksimalnom iznosu ima radnik koji je u mjesecu ostvario najmanje 15 dolazaka na posao.
+(12) Ako analiza ostvarenja ukupnih troškova za prijevoz radnika, koju će Poslodavac napraviti nakon 3 mjeseca primjene obračuna i isplate naknade troškova prijevoza na posao i s posla prema odredbama ovoga članka, pokaže da su ostvareni ukupni troškovi veći od troškova koji bi bili ostvareni primjenom načina obračuna naknade po ranijem Kolektivnom ugovoru za isti broj radnika, Sindikati su suglasni da se bez odgode pristupi pregovorima o izmjeni ovoga članka Ugovora sa svrhom da se ukupna razina navedenih troškova zadrži na granici od 520,00 kuna prosječne mjesečne isplate naknade po radniku.«
