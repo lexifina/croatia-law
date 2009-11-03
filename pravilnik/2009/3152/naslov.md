@@ -1,0 +1,1 @@
+Pravilnik o utvrđivanju proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave te o načinu vođenja Registra proračunskih i izvanproračunskih korisnika
