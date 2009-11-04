@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 1. i članka 4. Zakona o izboru predsjednika Republike Hrvatske (»Narodne novine«, br. 22/92, 42/92, 71/97, 69/2004, 99/2004 i 44/2006), Vlada Republike Hrvatske je na sjednici održanoj 30. listopada 2009. godine donijela
