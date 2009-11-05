@@ -1,0 +1,4 @@
+# Članak 3.
+OPĆA PRAVILA ZA PROIZVODNJU EKOLOŠKIH KVASACA
+1) Za proizvodnju ekoloških kvasaca koriste se samo ekološki proizvedeni supstrati. Ostali proizvodi i tvari mogu se koristiti samo ukoliko su odobreni za uporabu u ekološkoj proizvodnji u skladu s Prilozima I. i II. ovoga Pravilnika. Ekološki kvasci ne smiju biti prisutni u ekološkoj hrani ili hrani za životinje zajedno s konvencionalnim kvascima.
+2) U slučaju nedostatka ekstrakta kvasca koji nije ekološki ili autolizata za proizvodnju ekoloških kvasaca dozvoljeno je dodavanje 5% autolizata ili ekstrakta kvasca koji nije ekološki. Povjerenstvo za odobrenje uporabe pojedinih sastojaka u preradi ekoloških proizvoda (u daljnjem tekstu: Povjerenstvo) će procjenjivati dostupnost autolizata ili ekstrakta kvasca do 31. prosinca 2013. godine.
