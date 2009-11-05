@@ -1,0 +1,10 @@
+[1]under UNSCR 1244/99
+[2]The adoption of the Multi-Beneficiary Programme 2b, for projects requiring a Financing Agreement, under the IPA Transition Assistance and Institution Building Component does not prejudge the position of each individual Member State on the status of Kosovo under UNSCR 1244/99, which will be decided in accordance with their national practice and international law.
+[3]Southeast European Law Enforcement Centre. SELEC is the new name of SECI.
+[4]Support to the operational budget of the Secretariat of the Regional Cooperation Council (RCC) for the period from January 2008 to June 2009 under the IPA-Transition Assistance and Institution Building component for 2008, C(2008)729, 27.02.2008; Obligation of the European Community to pay its contribution to the budget of the Energy Community under the IPA Transition Assistance and Institution Building Component for 2008, C(2008)800, 06.03.2008; Support to the operational budget of the Office of the High Representative (OHR) in Bosnia and Herzegovina from July 2008 to June 2009 under the IPA-Transition Assistance and Institution Building component in 2008, C(2008) 2754, 19.06.2008; IPA monitoring programme under the IPA-Transition Assistance and Institution Building component for 2008, C(2008)3569, 16.07.2008
+[5]Note: The CARDS figures indicated include assistance from Phare and Obnova where relevant in 2000 and from CARDS 2001 and onwards. In 2005 and 2006, the amounts indicated for Phare include those allocated to multi-country programmes from the Turkey pre-accession instrument. The CARDS Regional Programmes of 2004, 2005 and 2006 include respectively €15m, €15m and €11.9m for Cross-Border Cooperation.
+[6]OJ L 248, 16.9.2002, p.1.
+[7]OJ L 357, 31.12.2002, p. 1
+[8]http://ec.europa.eu/europeaid/work/procedures/implementation/practical_guide/index_en.htm
+[9]OJ L 292; 15.11.1996; p. 2
+[10]These essential elements of an indicative nature are, for grants, the indicative amount of the call for proposals and, for procurement, the indicative number and type of contracts envisaged and the indicative time frame for launching the procurement procedures.
