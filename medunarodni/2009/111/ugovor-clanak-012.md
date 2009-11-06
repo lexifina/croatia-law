@@ -1,0 +1,3 @@
+# Članak 12.
+Tijela nadležna za sigurnost plovidbe ugovornih stranaka zajednički ispituju i donose odluke o poduzimanju potrebnih mjera u slučaju havarija brodova i sastava iz članka 8. ovog Ugovora nastalih za vrijeme plovidbe na međudržavnim plovnim putovima, kada se te havarije dogode na državnom području druge ugovorne stranke.
+Stvari istovarene ili spašene s broda jedne ugovorne stranke koji je pretrpio havariju na državnom području druge ugovorne stranke ne podliježu carinjenju uz uvjet da se iste dostave na državno područje ugovorne stranke čiju zastavu brod vijori, radi iskorištenja ili potrošnje.

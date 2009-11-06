@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Ugovorom uređuju se odnosi ugovornih stranaka koji se odnose na plovidbu plovnim putovima rijeka Save, Kupe, Une, Vrbasa, Bosne, Dunava i Drave u granicama njihove plovnosti i obilježavanje i održavanje plovnih putova rijeka Save i Une na dijelovima koji čine državnu granicu između ugovornih stranaka ili su njome presječeni, a koji nisu regulirani drugim međunarodnim ugovorima koji se odnose na navedene plovne putove.

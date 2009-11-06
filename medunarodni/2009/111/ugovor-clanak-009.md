@@ -1,0 +1,2 @@
+# Članak 9.
+Sidrenje, stajanje i noćenje brodova i sastava tijekom plovidbe na međudržavnim plovnim putovima slobodno je na za to određenim mjestima bez obveze obavljanja graničnih formalnosti, uz uvjet da se ne ostvaruje kontakt s obalom ili drugim plovilima na državnom području druge ugovorne stranke, te da se poštuju unutarnji propisi ugovorne stranke na čijem se državnom području sidrište nalazi.
