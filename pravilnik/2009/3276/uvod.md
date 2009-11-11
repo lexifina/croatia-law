@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 3. i članka 6. stavaka 2. i 3. Zakona o posebnim uvjetima za stavljanje brašna na tržište (»Narodne novine«, br. 48/04., 130/04, 140/05, 143/05, 83/09), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
