@@ -1,0 +1,1 @@
+Odluka o objavljivanju Međunarodnih standarda financijskog izvještavanja
