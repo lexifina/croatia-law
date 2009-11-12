@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (Narodne novine, broj 152/08.), u daljnjem tekstu: Zakon, Skupština turističke zajednice grada Zagreba uz prethodnu suglasnost Ministarstva turizma, na sjednici održanoj 29. 10. 2009. godine donijela je ovaj

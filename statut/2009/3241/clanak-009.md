@@ -1,0 +1,2 @@
+# Članak 9.
+Zajednica može za pojedino naselje na području Grada radi racionalnosti osnivati turistička društva. Turističko društvo osniva se odlukom Skupštine kao podružnica Zajednice, radi obavljanja dijela poslova usmjerenih na ostvarivanje zadaća Zajednice u naselju u kojem se turističko društvo osniva. Odlukom o osnivanju turističkog društva, Skupština utvrđuje poslove iz područja rada Zajednice koje će obavljati Turističko društvo, kao i ostala prava i obaveze Turističkog društva sukladno Zakonu.
