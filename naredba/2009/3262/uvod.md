@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 5., članka 18. stavka 4., članka 21. stavka 6., članka 26. stavka 2. i članka 27. stavka 2. Zakona o mjeriteljstvu (»Narodne novine« br. 163/03, 194/03 i 111/07), ravnatelj Državnog zavoda za mjeriteljstvo donosi
