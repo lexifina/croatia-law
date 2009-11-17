@@ -1,0 +1,3 @@
+## A) UVJETI ZA IZDAVANJE ODOBRENJA ZA KORIŠTENJE
+# Članak 51.
+Minimalni dokumenti navedeni su u prilogu D. ovoga Pravilnika i čine njegov sastavni dio koji s obzirom na zahtjeve ovog Pravilnika moraju biti osigurani u trenutku završetka svih radova na sustavu (završnih provjera i ispitivanja, provjere u uvjetima početnog puštanja u rad sustava za opskrbu SPP-a i dr.), a koji su kao takvi minimalno potrebni, te prethode davanju odobrenja kojim se dopušta rad korištenje sustava za opskrbu motornih vozila SPP-om u svrhu prodaje SPP-a i/ili opskrbe motornih vozila SPP-om na prostoru javne ili interne postaje za opskrbu prijevoznih sredstava gorivom.

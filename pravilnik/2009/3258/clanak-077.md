@@ -1,0 +1,3 @@
+# Članak 77.
+Sustav za opskrbu motornih vozila SPP-om mora proći periodičko ispitivanje ispravnosti i funkcionalnosti najmanje jednom godišnje od strane odgovorne stručne osobe i/ili tvrtke određene za takvu vrstu ispitivanja.
+Ispitivanje mora obuhvaćati sve funkcije sustava za opskrbu motornih vozila SPP-om uključujući uređaje za mjerenje upravljanje i nadzor i zaštitnu mjernu i kontrolnu opremu, posebice sigurnosne mehanizme koji se aktiviraju u slučaju nužde (mjerna i kontrolna zaštitna oprema, zaustavljanje u slučaju nužde, isključenje sustava u slučaju nužde, sustavi za prisilno provjetravanje, sigurnosni ventili, odušne i otpusne cijevi i dr.).

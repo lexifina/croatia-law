@@ -1,0 +1,7 @@
+# Članak 57.
+Prije ispitivanja ispravnosti rada cijelog sustava za opskrbu motornih vozila SPP-om kao što je to određeno člankom 58. ovoga Pravilnika sustav se mora zrakom, inertnim ili prirodnim plinom provjeriti ispitivanjem na nepropusnost.
+Provjeru nepropusnosti mora provesti proizvođač sustava za opskrbu motornih vozila SPP-om ili od njega ovlaštena odgovorna stručna osoba ili tvrtka tehnički kvalificirana za provjere i ispitivanja, po sljedećim točkama i uz dokumentiranje rezultata provjera i ispitivanja:
+- Prije spajanja visokotlačnog sustava plinovoda između skladišta plina i agregata za opskrbu motornih vozila SPP-om s komponentama sustava za opskrbu SPP-om, provodi se inicijalno ispitivanje nepropusnosti probom na tlak pri tlaku plina 1.1 puta većem od maksimalno dopuštenog radnog tlaka.
+- Potom se probom na tlak u potpunosti sastavljen sustav za opskrbu motornih vozila SPP-om optereti maksimalno dopuštenim radnim tlakom, koji se održava sve dok se sa sigurnošću ne utvrdi da je sustav za opskrbu motornih vozila SPP-om u potpunosti nepropusan.
+- Pri tom svi spojevi, prirubnice i ležišta ventila, plinovodi i spojni elementi moraju biti ispitani na propusnost koristeći tekućinu za ispitivanje nepropusnosti ili neko drugo odgovarajuće sredstvo za detekciju plina.
+- U slučaju utvrđene propusnosti, ista se mora ukloniti i nakon toga se gore navedena provjera mora ponoviti istim redoslijedom.
