@@ -1,0 +1,4 @@
+# Članak 9.
+KORISNIČKE NAKNADE
+1. Niti jedna ugovorna stranka neće nametnuti niti će dopustiti nametanje određenom zračnom prijevozniku (određenim zračnim prijevoznicima) druge ugovorne stranke korisničkih naknada koje su više od onih koje su nametnule svojim vlastitim zračnim prijevoznicima koji sudjeluju u sličnom međunarodnom zračnom prometu.
+2. Svaka ugovorna stranka će potaknuti konzultacije o korisničkim naknadama između svojih vlasti nadležnih za naknade i zračnih prijevoznika koji koriste usluge i uređaje koje im osiguravaju te vlasti nadležne za naknade, ako je moguće, kroz organizacije predstavnika tih zračnih prijevoznika. Razumna će se pisana obavijest o bilo kakvom prijedlogu promjena korisničkih naknada moći dostaviti tim korisnicima kako bi im se omogućilo izražavanje njihovog mišljenja prije provođenja promjena.
