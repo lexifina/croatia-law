@@ -1,0 +1,9 @@
+# Članak 3.
+U članku 10. stavku 1. iza riječi: »o začeću i« riječ: »darivateljima« zamjenjuje se riječima: »svim podacima o svom biološkom podrijetlu, osim o podatku o identitetu darivatelja sjemene stanice, odnosno darivateljice jajne stanice,«.
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+»Iznimno od stavka 1. ovoga članka, dijete rođeno nakon medicinske oplodnje darivanom sjemenom stanicom ili darivanom jajnom stanicom nakon svoje punoljetnosti stječe pravo uvida i u podatak o identitetu darivatelja sjemene stanice, odnosno darivateljice jajne stanice, uz uvjet da je svoj pristanak na to u pisanom obliku dao darivatelj sjemene stanice, odnosno darivateljica jajne stanice.
+Darivatelj sjemenih stanica, odnosno darivateljica jajnih stanica daje svoj pristanak iz stavka 2. ovoga članka prije darivanja spolnih stanica, a najkasnije do unosa darivanih spolnih stanica u tijelo žene ili do trenutka provođenja postupka izvantjelesne oplodnje, do kada ima pravo i povući, u pisanom obliku, prethodno dani pristanak iz stavka 2. ovoga članka.«
+Dosadašnji stavak 2. koji postaje stavak 4. mijenja se i glasi:
+»Ovlaštena osoba u Državnom registru dužna je provjeriti je li punoljetna osoba koja je podnijela zahtjev ovlaštenik prava uvida u upisnik podataka Državnog registra. Utvrdi li da je riječ o osobi iz stavka 1. ovoga članka, omogućit će joj uvid u upisnik podataka o začeću i u sve podatke o njezinom biološkom podrijetlu, osim u podatak o identitetu darivatelja sjemene stanice, odnosno darivateljice jajne stanice, a ako je ispunjen uvjet iz stavka 2. ovoga članka omogućit će joj uvid, ako to ona želi, i u podatak o identitetu darivatelja sjemene stanice, odnosno darivateljice jajne stanice.«.
+Dosadašnji stavci 3. i 4. postaju stavci 5. i 6.
+U dosadašnjem stavku 5. koji postaje stavak 7. brojke: »3. i 4.« zamjenjuju se brojkama: »5. i 6.«.
