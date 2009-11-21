@@ -1,0 +1,2 @@
+# Članak 20.
+Opći i posebni uvjeti koegzistencije genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda utvrdit će se Nacionalnom strategijom koegzistencije genetski modificiranih usjeva i konvencionalnog i ekološkog uzgoja poljoprivrednih proizvoda koju na temelju stručnog mišljenja Odbora za uvođenje u okoliš, uz prethodno održanu javnu raspravu sukladno posebnim propisima koji uređuju informiranje i sudjelovanje zainteresirane javnosti u pitanjima zaštite okoliša, na prijedlog Vlade Republike Hrvatske donosi Hrvatski sabor.
