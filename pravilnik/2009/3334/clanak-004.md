@@ -1,0 +1,4 @@
+# Članak 4.
+Normativ mikrobiološke čistoće u smislu ovoga Pravilnika jest normativ kojim se propisuje granica prihvatljivosti uzorka obzirom na prisutnost, vrstu i broj mikroorganizama.
+Prihvatljivost uzorka utvrđuje se uspoređivanjem dobivenih rezultata ispitivanja s normativima mikrobiološke čistoće navedenim u Prilogu I. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+Metodama određivanja mikrobiološke čistoće podrazumijevaju se postupci uzimanja uzoraka brisa, otiska ili ispirka za određivanje broja i vrste bakterija na površinama postrojenja, opreme, uređaja, pribora, prijevoznih sredstava i ruku osoba koje u tijeku proizvodnje i prometa dolaze u dodir sa hranom i predmetima opće uporabe u čistom stanju pripremljenim za uporabu ili za početak rada. Metode se provode u skladu s međunarodnom normom ISO 18593 ili odgovarajućom hrvatskom normom kao referentnom metodom.
