@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 16. stavak 1. mijenja se i glasi:
+»(1) Vrijednosni bod radi određivanja invalidske mirovine HRVI iz Domovinskog rata za invalidnost (opća ili profesionalna nesposobnost za rad) koja je u cijelosti ili u dijelu nastala kao posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti odnosno pojavom bolesti zadobivene u obrani suvereniteta Republike Hrvatske utvrđuje se na temelju pripadajuće osnovice za čin i ustrojbeno mjesto HRVI iz Domovinskog rata iz članka 20. ovoga Zakona, tako da se osnovica utvrđena za godinu koja prethodi godini u kojoj se ostvaruje pravo na mirovinu podijeli s prosječnom godišnjom plaćom svih zaposlenih u Republici Hrvatskoj za tu kalendarsku godinu.«
