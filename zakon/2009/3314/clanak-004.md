@@ -1,0 +1,7 @@
+# Članak 4.
+Nasilje u obitelji je svaki oblik tjelesnog, psihičkog, spolnog ili ekonomskog nasilja, a osobito:
+- tjelesno nasilje, odnosno primjena fizičke sile bez obzira je li nastupila tjelesna ozljeda ili nije,
+- tjelesno kažnjavanje i drugi načini ponižavajućeg postupanja prema djeci u odgojne svrhe,
+- psihičko nasilje, odnosno primjena psihičke prisile koja je prouzročila osjećaj straha, ugroženosti, uznemirenosti ili povrede dostojanstva, verbalno nasilje, verbalni napadi, vrijeđanje, psovanje, nazivanje pogrdnim imenima ili na drugi način grubo verbalno uznemiravanje, uhođenje ili uznemiravanje preko svih sredstava za komuniciranje ili preko elektroničkih i tiskanih medija ili na drugi način ili komuniciranja s trećim osobama, protupravna izolacija ili ugrožavanje slobode kretanja (u daljnjem tekstu: uhođenje i uznemiravanje),
+- spolno nasilje, odnosno spolno uznemiravanje,
+- ekonomsko nasilje pod kojim se podrazumijeva oštećenje ili uništenje osobne i zajedničke imovine ili zabrana ili onemogućavanje korištenja osobne i zajedničke imovine ili pokušaj da se to učini te oduzimanje prava ili zabrana raspolaganja osobnim prihodima ili imovinom stečenom osobnim radom ili nasljeđivanjem, onemogućavanje zapošljavanja ili rada, prisiljavanje na ekonomsku ovisnost, uskraćivanje sredstava za održavanje zajedničkog kućanstva i skrb o djeci ili drugim uzdržavanim članovima zajedničkog kućanstva.

@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Ministar nadležan za poslove obitelji osnovat će Stručno povjerenstvo za praćenje i unapređivanje rada tijela kaznenog i prekršajnog postupka te izvršenja sankcija vezanih za zaštitu od nasilja u obitelji i donijeti Poslovnik o njegovu radu.
+(2) Članovi Stručnog povjerenstva imenuju se iz reda sudaca, državnih odvjetnika, odvjetnika, državnih službenika ministarstva nadležnog za unutarnje poslove specijaliziranih za područje kriminaliteta nasilja u obitelji, državnih službenika ministarstva nadležnog za poslove pravosuđa, ministarstva nadležnog za poslove zdravstva i socijalne skrbi i ministarstva nadležnog za poslove obitelji.
+(3) Stručno povjerenstvo, u okviru svog djelokruga, ima ovlasti podnositi ministrima nadležnim za poslove pravosuđa, unutarnjih poslova, socijalne skrbi, zdravstva i obitelji prijedloge i mišljenja u vezi s primjenom ovoga Zakona i drugih zakona kojima se štite žrtve nasilja u obitelji.

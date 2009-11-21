@@ -1,0 +1,2 @@
+# Članak 8.
+Zdravstveni radnici, stručni radnici u djelatnosti socijalne skrbi, obiteljske prevencije i zaštite, odgoja i obrazovanja te stručni radnici zaposleni u vjerskim ustanovama, humanitarnim organizacijama, udrugama civilnog društva u djelokrugu djece i obitelji obvezni su prijaviti policiji ili državnom odvjetništvu počinjenje nasilja u obitelji iz članka 4. ovoga Zakona za koje su saznali u obavljanju svojih poslova.
