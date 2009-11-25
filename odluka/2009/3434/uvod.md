@@ -1,0 +1,1 @@
+Na osnovi članka 14. Pravila uspostavljanja i provođenja dopunskog zdravstvenog osiguranja (»Narodne novine« 2/09., 32/09., 59/09., 91/09. i 118/09.) i članka 27. točka 4. Statuta Hrvatskog zavoda za zdravstveno osiguranje na 7. sjednici održanoj 9. studenoga 2009. godine, donijelo je
