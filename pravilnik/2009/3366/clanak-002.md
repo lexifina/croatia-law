@@ -1,0 +1,3 @@
+# Članak 2.
+Prijedlog za stavljanje pomagala na Popis pomagala Zavoda Povjerenstvu za ortopedska pomagala Zavoda (u daljnjem tekstu: Povjerenstvo) podnosi pravna osoba, odnosno fizička osoba iz članka 3. ovoga Pravilnika, osim za stomatološka pomagala koja se uvrštavaju na Popis pomagala u skladu s općim aktom Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) donesenim na temelju Zakona o obveznom zdravstvenom osiguranju.
+Odluku o stavljanju pomagala na Popis pomagala Zavoda donosi Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Upravno vijeće Zavoda)

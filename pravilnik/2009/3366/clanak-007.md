@@ -1,0 +1,3 @@
+# Članak 7.
+Rezultat studije utjecaja na proračun Zavoda jest procjena financijskog učinka uvrštenja novog pomagala na Popis pomagala Zavoda, ili proširenje medicinske indikacije, odnosno promjena smjernice već uvrštenog pomagala na Popis pomagala Zavoda. Rezultati studije utjecaja na proračun Zavoda određuju raspon vrijednosti u kojima odobrenje prijedloga može utjecati na potrošnju Zavoda.
+Prilikom procjene financijskog učinka pri izradi studije iz članka 6. ovoga Pravilnika u obzir se uzimaju samo direktni troškovi Zavoda. Troškovi koji nisu izravno povezani s Zavodom ne uzimaju se u obzir.

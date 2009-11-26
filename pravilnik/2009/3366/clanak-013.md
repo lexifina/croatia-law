@@ -1,0 +1,4 @@
+# Članak 13.
+Za pomagala uporaba kojih, kod svih ili kod dijela osiguranih osoba, uz sebe veže uporabu komplementarnih proizvoda i/ili usluga ti proizvodi i usluge trebaju biti jasno i nedvosmisleno nabrojani i navedeni u prilogu studije utjecaja na proračun Zavoda. Udio osiguranih osoba kod kojih se očekuje uporaba komplementarnih proizvoda i/ili usluga treba biti jasno definiran.
+Trošak proizvoda iz stavka 1. ovoga članka treba biti uključen u studiju utjecaja na proračun Zavoda. Svi navedeni troškovi grupiraju se u skup troškova koje snosi Zavod i skup troškova koje snose ostali subjekti u zdravstvenom sustavu te se prijavljuju zasebno i skupno.
+U studiju utjecaja na proračun Zavoda uključuju se i iznosi sudjelovanja kojeg u dijelu troškova za pomagala, u skladu sa Zakonom o obveznom zdravstvenom osiguranju, plaća osigurana osoba Zavoda.

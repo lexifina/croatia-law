@@ -1,0 +1,2 @@
+# Članak 12.
+Prilikom izrade studija utjecaja na proračun Zavoda koristi se vremensko razdoblje od tri kalendarske godine, počevši od 1. siječnja kalendarske godine koja slijedi nakon trenutka u kojem se predviđa stavljanje pomagala na Popis pomagala Zavoda. Rezultati trebaju biti zasebno prijavljeni za svaku od tri navedene godine. Dodatno, u studiju utjecaja na proračun Zavoda se uključuje i period od trenutka u kom se predviđa odobrenje prijedloga do 31. prosinca iste godine.

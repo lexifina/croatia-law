@@ -1,0 +1,3 @@
+# Članak 8.
+Podaci koji se koriste prilikom izrada studija utjecaja na proračun Zavoda primarno trebaju biti objavljeni hrvatski podaci, a u nedostatku hrvatskih podataka koriste se objavljeni strani podaci i procjene stručnjaka. Prihvatljiva je i uporaba neobjavljenih podataka, primjerice marketinških analiza i slično. Svi podaci moraju biti referencirani.
+Za sve izračune studije utjecaja na proračun Zavoda koriste se cijene izračunate prema Pravilniku o mjerila za određivanje cijena ortopedskih i drugih pomagala. Troškovi drugih materijala kao i zdravstvenih usluga vezanih uz promjenu i uporabu pomagala (komplementarni proizvodi i/ili usluge) određuju se prema cijenama koje općim aktima utvrđuje Zavod.

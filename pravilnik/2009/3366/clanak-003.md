@@ -1,0 +1,4 @@
+# Članak 3.
+Prijedlog za stavljanje pomagala na Popis pomagala Zavoda može podnijeti pravna, odnosno fizička osoba sa sjedištem u Republici Hrvatskoj koja je nositelj upisa u očevidnik medicinskih proizvoda i očevidnik proizvođača medicinskih proizvoda u Republici Hrvatskoj pri Agenciji za lijekove i medicinske proizvode (u daljnjem tekstu: nositelj upisa).
+Prijedlog za izmjenu ili dopunu medicinske indikacije, odnosno smjernice za ostvarivanje prava na pomagalo koje se već nalazi na Popisu pomagala Zavoda mogu, uz nositelje upisa iz stavka 1. ovoga članka, podnijeti i stručna društva Hrvatskog liječničkog zbora i referentni centri ministarstva nadležnog za zdravstvo.
+Povjerenstvo može predložiti stavljanje pomagala na Popis pomagala Zavoda po generičkom imenu ako postoji opravdana potreba za njegovu primjenu.

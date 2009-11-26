@@ -1,0 +1,2 @@
+# Članak 11.
+Populacija osiguranih osoba kojoj je pomagalo namijenjeno mora biti precizno definirana u skladu s dostupnim javno zdravstvenim i epidemiološkim podacima. Projekcije trebaju uključivati kako osigurane osobe Zavoda s već dijagnosticiranom bolešću, odnosno stanjem tako i one osigurane osobe kojima će bolest, odnosno stanje tek biti utvrđeni kroz dani period promatranja učinka pomagala na proračun Zavoda. Navedene procjene trebaju biti utvrđene po godinama.
