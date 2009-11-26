@@ -1,0 +1,1 @@
+Odluka o obvezi izrade financijskih planova agencija koje su obveznice primjene Uredbe o računovodstvu neprofitnih organizacija, a koje se dijelom ili u cijelosti financiraju iz državnog proračuna Republike Hrvatske
