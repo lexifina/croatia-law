@@ -1,0 +1,5 @@
+## Sudionici, postupci i sredstva
+# Članak 20.
+(1) U upravljanju zračnim prostorom na ASM razini 3 sudjeluju kontrolori zračnog prometa nadležni za vođenje GAT zračnog prometa i kontrolori zračnog prometa nadležni za vođenje OAT zračnog prometa, te središta i postrojbe Hrvatskog ratnog zrakoplovstva i protuzračne obrane (kontrolna vojna jedinica), u skladu sa sporazumom između ministarstva nadležnog za poslove obrane i pružatelja operativnih usluga u zračnom prometu.
+(2) Postupci, kriteriji, potrebna komunikacijska sredstva te sustavi za podršku za aktiviranje ili deaktiviranje te ponovnu dodjelu zračnog prostora već dodijeljenog na ASM razini 2, utvrđuju se sporazumom iz stavka 1. ovoga članka, a koji mora osigurati visoki stupanj sigurnosti civilnog i vojnog zračnog prometa.
+(3) Postupci, sustavi za podršku i komunikacijska sredstva iz stavka 2. ovoga članka, moraju osigurati pravovremenu i djelotvornu izmjenu podataka o modifikaciji planiranih aktivnosti u zračnom prostoru između svih sudionika u upravljanju zračnim prostorom na ASM razini 3, te pravovremeno obavještavanje svih zainteresiranih korisnika o statusu zračnog prostora.
