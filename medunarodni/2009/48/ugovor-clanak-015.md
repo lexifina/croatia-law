@@ -1,0 +1,3 @@
+# Članak 15.
+U građanskim ili trgovačkim stvarima, diplomatski službenik ili konzularni agent države ugovornice može, na državnom području druge države ugovornice i na području na kojem on obnaša svoje dužnosti, izvoditi dokaze bez prisile u odnosu na državljane države koju predstavlja, kao pomoć za potrebe postupka pokrenutog pred sudovima države koju predstavlja.
+Država ugovornica može izjaviti da diplomatski službenik ili konzularni agent može izvoditi dokaze samo ako mu je, na zahtjev koji je podnio ili je podnesen u njegovo ime, odobrenje za to izdalo odgovarajuće tijelo koje je odredila država koja daje tu izjavu, postupajući po zahtjevu koji je podnio on sâm ili koji je podnesen u njegovo ime.

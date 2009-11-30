@@ -1,0 +1,2 @@
+# Članak 19.
+Prilikom davanja odobrenja iz članaka 15., 16. ili 17. ili odobravanja zahtjeva iz članka 18. nadležno tijelo može utvrditi one uvjete koje smatra prikladnim inter alia i u pogledu vremena i mjesta izvođenja dokaza. Jednako tako, ono može zahtijevati da ga se u razumnom roku unaprijed obavijesti o vremenu, datumu i mjestu izvođenja dokaza; u tom slučaju, predstavnik tog tijela ima pravo nazočiti izvođenju dokaza.

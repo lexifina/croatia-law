@@ -1,0 +1,6 @@
+# Članak 4.
+Zamolnica treba biti na jeziku tijela zamoljenog za njezino izvršenje, ili se uz nju mora priložiti prijevod na taj jezik.
+Unatoč tome, država ugovornica prihvatit će zamolnicu i ako je na engleskom ili francuskom jeziku, odnosno u prijevodu na neki od tih jezika, osim ako ona nije stavila rezervu predviđenu člankom 33.
+Država ugovornica koja ima više od jednog službenog jezika i ne može, zbog svojeg unutarnjega prava, primati zamolnice na jednom od tih jezika za čitavo njezino državno područje, izjavom će odrediti jezik na kojem zamolnica mora biti sastavljena ili na koji jezik mora biti prevedena, u svrhu izvršenja u određenim dijelovima njezinog državnog područja. U slučaju nepoštivanja te izjave bez opravdanog razloga, troškove prijevoda na zatražen jezik snosi država podrijetla.
+Država ugovornica može izjavom odrediti jezik ili jezike, pored onih iz prethodnih stavaka, na kojima se zamolnica može poslati njezinom središnjem tijelu.
+Točnost svakoga prijevoda koji se prilaže uz zamolnicu treba biti ovjerena bilo od strane diplomatskog službenika ili konzularnog agenta, odnosno od strane sudskog tumača ili bilo koje druge osobe koja je za to ovlaštena u jednoj ili drugoj državi.
