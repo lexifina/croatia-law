@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ostvarivanje ukupnog godišnjeg fonda sati općeobrazovnog, stručno-teorijskog i praktičnog dijela kurikuluma, ustanova planira izvedbenim nastavnim planom i programom, ovisno o vrsti kurikuluma i uvjetima okruženja, u pravilu po modelu jedan tjedan teorijske nastave te jedan tjedan praktične nastave ili po modelu dan za dan odnosno za pojedine kvalifikacije sezonski.
+(2) Ustanova koja ne izvodi nastavu po jednom od navedenih modela dužna je ostvariti planirani godišnji fond sati po predmetima odnosno modulima po modelu koji je najprimjereniji za izvođenje nastave određenog kurikuluma.

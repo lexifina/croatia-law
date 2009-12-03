@@ -1,0 +1,1 @@
+Temeljem članka 53. stavka 3. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/08. i 86/09.), članka 26. stavka 2. i članka 30. stavka 3. Zakona o strukovnom obrazovanju (»Narodne novine«, broj 30/09.) ministar znanosti, obrazovanja i športa donosi
