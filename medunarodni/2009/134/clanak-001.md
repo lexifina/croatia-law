@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Sporazum o financiranju između Vlade Republike Hrvatske i Komisije Europskih zajednica koji se odnosi na dio Višekorisničkog programa za nuklearnu sigurnost i zaštitu od zračenja u okviru Instrumenta pretpristupne pomoći za 2008. godinu (zajedničko upravljanje), potpisan u Bruxellesu, dana 29. lipnja 2009. i Zagrebu, dana 30. rujna 2009. godine, u izvorniku na engleskom jeziku.
