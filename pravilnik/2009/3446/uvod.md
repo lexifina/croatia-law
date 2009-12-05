@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 1. Zakona o izvršavanju kazne zatvora (»Narodne novine«, broj 128/99., 55/00., 129/00., 59/01., 67/01.,11/02., 190/03. - pročišćeni tekst, 76/07., 27/08. i 83/09.) ministar pravosuđa donosi
