@@ -1,0 +1,5 @@
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje način i postupak utvrđivanja uvjeta za početak rada osnovne i srednje škole te učeničkoga doma (u daljnjem tekstu: školska ustanova), odnosno način i postupak utvrđivanja uvjeta za nastavak rada u promijenjenim uvjetima (promjena sjedišta školske ustanove ili prostora u kojem obavlja djelatnost ili dio djelatnosti, proširenje djelatnosti izvođenjem novih programa obrazovanja osnovnog ili srednjeg školstva te promjena programa obrazovanja).
+(2) Odredbe ovoga Pravilnika primjenjuju se na odgovarajući način i na druge javne ustanove te na ustrojbene jedinice ministarstva nadležnog za pravosuđe i ustrojbene jedinice ministarstva nadležnog za unutarnje poslove koje provode programe obrazovanja.
+(3) Postupak utvrđivanja uvjeta za početak rada školske ustanove odnosno nastavak rada školske ustanove u promijenjenim uvjetima (u daljnjem tekstu: nastavak rada) provodi se prema odredbama Zakona o općem upravnom postupku.
+(4) Izrazi koji se u ovom pravilniku koriste za osobe u muškome rodu neutralni su i odnose se i na muške i ženske osobe.
