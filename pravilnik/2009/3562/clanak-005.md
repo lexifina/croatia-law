@@ -1,0 +1,4 @@
+# Članak 5.
+U članku 58. iza stavka 14. dodaju se stavci 15. i 16. koji glase:
+»(15) Iznimno od stavka 1. točke 3. ovoga članka porezni obveznik rezident nije obvezan godišnjoj poreznoj prijavi priložiti isprave iz stavka 10. točke 1. podtočke 1.1., 1.3., 1.4. i 1.5. i točke 2. podtočke 2.1. i 2.2. ovoga članka ako je iste porezni obveznik već dostavio Poreznoj upravi kao prilog uz godišnju poreznu prijavu i koristio dio osobnog odbitka po toj osnovi u prethodnim poreznim razdobljima te ako nije došlo do promjene podataka iz tih isprava. Isto se odnosi i na isprave iz stavka 10. točke 2. podtočke 2.4. i 2.5. ovoga članka u dijelu kojim se propisuju isprave iz stavka 10. točke 1. podtočke 1.3., 1.4. i 1.5.
+(16) Porezna uprava može u slučaju iz stavka 15. ovoga članka iznimno i iz opravdanih razloga zatražiti od poreznog obveznika isprave kojima se dokazuje pravo na korištenje osobnog odbitka neovisno o tome što su te isprave već dostavljene Poreznoj upravi.«.

@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 42. u stavku 11. iza točke dodaje se rečenica koja glasi:
+»Iznimno, porezni obveznici za koje je Hrvatski zavod za zdravstveno osiguranje Poreznoj upravi dostavio podatke o uplaćenim premijama dopunskog zdravstvenog osiguranja u roku propisanom za podnošenje godišnje porezne prijave, nisu obvezni uz godišnju poreznu prijavu priložiti potvrdu Hrvatskog zavoda za zdravstveno osiguranje o uplaćenim premijama dopunskog zdravstvenog osiguranja, uz uvjet da Hrvatski zavod za zdravstveno osiguranje omogući poreznim obveznicima dostupnost podataka o uplaćenim premijama dopunskog zdravstvenog osiguranja u roku propisanom za podnošenje godišnje porezne prijave.«.
