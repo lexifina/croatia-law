@@ -1,0 +1,1 @@
+Na temelju članka 108. stavka 1. točka 5. i članka 108. stavak 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj: 174/04., 92/05., 2/07., 107/07. i 65/09.) uz suglasnost ministra zdravstva i socijalne skrbi, ministar obitelji, branitelja i međugeneracijske solidarnosti, donosi
