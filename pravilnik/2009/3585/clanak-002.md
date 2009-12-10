@@ -1,0 +1,4 @@
+# Članak 2.
+Tražbinama iz članka 1. stavak 1. ovoga Pravilnika smatraju se:
+- naknada plaće za vrijeme bolovanja kao pravo iz obveznog osiguranja što ju je poslodavac dužan obračunati i isplatiti radniku - osiguraniku po osnovi radnog odnosa kada se naknada isplaćuje na teret sredstava obveznog zdravstvenog osiguranja ili zdravstvenog osiguranja zaštite zdravlja na radu, te poslodavac ima pravo na povrat tako obračunane i isplaćene naknade plaće, sve sukladno Zakonu o obveznom zdravstvenom osiguranju ili Zakonu o zdravstvenom osiguranju zaštite zdravlja na radu, i
+- naknada plaće za vrijeme bolovanja kao pravo iz obveznog osiguranja a ta se naknada neposredno isplaćuje osiguranicima na teret sredstava obveznog zdravstvenog osiguranja ili zdravstvenog osiguranja zaštite zdravlja na radu, sukladno Zakonu o obveznom zdravstvenom osiguranju ili Zakonu o zdravstvenom osiguranju zaštite zdravlja na radu.
