@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Zavod provodi kontrolu nadzornika u skladu s člankom 22. stavkom 3. i člankom 41. stavkom 1. podstavkom 4. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (u daljnjem tekstu: Zakon) kako bi se provjerilo udovoljava li sjeme ili sadni materijal uvjetima kvalitete propisanim pravilnicima o stavljanju na tržište sjemena i sadnog materijala pojedine skupine ili vrste bilja.
+(2) U slučaju povrede pravila o stručnom nadzoru i nadzoru pod stručnom kontrolom propisanih ovim Pravilnikom nadzorniku za kojeg se utvrdi da je kriv bilo namjerno ili nenamjerno Zavod će oduzeti ovlaštenje na najduži period od jedne proizvodne godine, a u slučaju ponovljene povrede pravila trajno.
