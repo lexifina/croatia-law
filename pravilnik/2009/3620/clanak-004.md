@@ -1,0 +1,2 @@
+# Članak 4.
+U cijelom tekstu Pravilnika, obrascima (u prilozima I. - VIII.) i na samoj oznaci ušne markice riječi: »Ministarstvo poljoprivrede šumarstva i vodnog gospodarstva (u daljnjem tekstu: MPŠVG)« zamjenjuju se riječima: »Ministarstvo poljoprivrede, ribarstava i ruralnog razvoja (u daljnjem tekstu: MPRRR)«, a riječi: »Hrvatski stočarski centar« zamjenjuju se riječima: »Hrvatska poljoprivredna agencija (u daljnjem tekstu HPA).«
