@@ -1,0 +1,4 @@
+## SASTAVLJANJE I DULJINA VLAKOVA
+# Članak 7.
+(1) U vlak se smiju uvrstiti samo ona željeznička vozila (u daljnjem tekstu: vozila) koja glede sigurnosti prometa udovoljavaju propisanim tehničkim uvjetima i propisima o održavanju tih vozila i koja, prazna ili s teretom, ne prekoračuju dopuštenu masu po osovini, masu po duljinskom metru i profil vozila za željezničku prugu (u daljnjem tekstu: pruga), osim ako se prevoze u skladu s posebnim uvjetima prijevoza (izvanredne pošiljke).
+(2) Lokomotive i ostala pojedinačna vozila, koja prekoračuju dopuštenu masu po osovini ili masu po duljinskom metru pruge, ne smatraju se izvanrednim pošiljkama ako to prekoračenje nije veće od dopuštenoga za ta vozila. Upravitelj infrastrukture, ovisno o svojstvima vozila i pruge, određuje vrstu, broj i raspored takvih vozila u vlaku i dopušteno prekoračenje mase po osovini i mase po duljinskom metru za ta vozila.

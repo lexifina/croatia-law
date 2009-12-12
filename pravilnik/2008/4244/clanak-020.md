@@ -1,0 +1,3 @@
+# Članak 20.
+(1) O svim iznimnim situacijama i postupcima o kojima ovisi sigurnost prometa (smanjivanje brzine, iznimno zaustavljanje, ulazak na zauzeti kolosijek, neispravnost odnosno neuporabivost signala ili uređaja za osiguravanje prometa na prijelazima preko pruge i sl.), strojovođa mora biti obaviješten signalima ili posebnim nalogom.
+(2) Posebni nalozi ispostavljaju se u pisanom obliku. Posebni nalozi mogu se davati telekomunikacijskim uređajima s memoriranjem (registriranjem) ili u nazočnosti svjedoka. Sadržaj posebnih naloga danih telekomunikacijskim uređajima mora se evidentirati u odgovarajuće evidencije.

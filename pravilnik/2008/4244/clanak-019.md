@@ -1,0 +1,2 @@
+# Članak 19.
+Ako u kolodvorima ili na stajalištima dvokolosiječnih pruga odnosno na zajedničkim stajalištima usporednih pruga putnici moraju radi ulaska u vlak odnosno izlaska iz vlaka prelaziti preko kolosijeka, po tim kolosijecima se prilikom dolaska, zadržavanja i odlaska vlaka za prijevoz putnika ne smiju obavljati nikakve vožnje, osim ako se sigurnost putnika osigura propisanim mjerama i tehničkim rješenjima.
