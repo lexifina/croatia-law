@@ -1,0 +1,6 @@
+# Članak 19.
+1) Tehnički pregled serijskog vagona i vagona za posebne namjene obavlja se u stanju mirovanja i kretanja (pokusna vožnja).
+2) Tehnički pregled serijskog vozila iz stavka 1. ovoga članka u mirovanju obavlja se pregledom tehničke dokumentacije i vizualnim pregledom vozila.
+3) Tehnički pregled serijskog vagona i vagona za posebne namjene u pokusnoj vožnji mora se obaviti na dionici pruge koja omogućava provjeravanje svih predviđenih tehničkih i eksploatacijskih svojstava vozila i da li je vozilo sposobno za sigurnu uporabu u prometu i pri najvećoj dopuštenoj brzini predviđenoj za to vozilo, a prema uvjetima za obavljanje pokusne vožnje utvrđenim ovim Pravilnikom.
+4) Izuzetno od stavka 1. ovoga članka, tehnički pregled vagona ili vagona za posebne namjene, koji odgovara međunarodnim propisima, a koji je uzet u zakup ili uvezen iz inozemstva i za koji je izdano odobrenje za uporabu u državi iz koje se uvozi, obavlja se u stanju mirovanja.
+5) Ako proizvođač serijskog vozila izda garancijsku ispravu da je vozilo proizvedeno, odnosno rekonstruirano, sukladno s odobrenim prototipom koji je sukladan međunarodnim propisima odnosno TSI te da je sposobno za siguran promet, tehnički pregled takvog vozila može se obaviti samo provjeravanjem u pokusnoj vožnji.
