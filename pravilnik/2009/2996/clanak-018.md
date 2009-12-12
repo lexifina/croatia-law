@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Pri svođenju pješačkoga prijelaza preko pruge odnosno dvaju ili više pješačkih prijelaza preko pruge na zajedničko mjesto križanja, mora se odabrati mjesto gdje cesta odnosno pješačka staza prelazi željezničku prugu izvan razine ili željezničko-cestovni prijelaz odnosno pješački prijelaz preko pruge koji je osiguran uređajima za osiguravanje prijelaza.
+(2) Ako niti jedno mjesto križanja na odgovarajućoj udaljenosti ne ispunjava uvjete iz stavka 1. ovoga članka, križanje se mora svesti na željezničko-cestovni prijelaz odnosno pješački prijelaz preko pruge na kojem postoji propisana preglednost s ceste odnosno pješačke staze na željezničku prugu.

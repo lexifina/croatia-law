@@ -1,0 +1,6 @@
+# Članak 23.
+(1) U slučaju promjene lokalnih prometnih i infrastrukturnih uvjeta, kojima se ostvaruju uvjeti za zatvaranje prijelaza navedeni u članku 22. stavku 1. ovoga Pravilnika, upravitelj infrastrukture predlaže zatvaranje željezničko-cestovnih prijelaza i pješačkih prijelaza preko pruge koji nisu uvršteni u Program rješavanja željezničko-cestovnih prijelaza i pješačkih prijelaza preko pruge.
+(2) Agencija za sigurnost željezničkog prometa, na zahtjev upravitelja infrastrukture, uz prethodne suglasnosti pravne osobe koja gospodari cestom, policije i lokalne samouprave odobrava zatvaranje za promet postojećega željezničko-cestovnog prijelaza odnosno pješačkog prijelaza preko pruge, ili odbija zahtjev.
+(3) Agencija za sigurnost željezničkog prometa određuje preduvjete pod kojima se prijelaz može zatvoriti za promet.
+(4) Odluku o zatvaranju za javni promet postojećega željezničko-cestovnog prijelaza odnosno pješačkoga prijelaza preko pruge, Agencija za sigurnost željezničkoga prometa objavljuje u javnom službenom glasilu.
+(5) Zatvaranje za promet prijelaza iz stavka 1. ovoga članka smije se provesti kada su ispunjeni svi preduvjeti pod kojima se prijelaz može zatvoriti za promet iz stavka 3. ovoga članka.
