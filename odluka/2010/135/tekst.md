@@ -1,0 +1,9 @@
+1. Daje se prethodna suglasnost na članak 9. st. 3. i 4. Pravilnika o priređivanju nagradnih igara, u tekstu koji je Hrvatskoj agenciji za poštu i elektroničke komunikacije dostavilo Ministarstvo financija aktom klase: 461-01/09-01/449, urbroj: 513-07-21-07/09-04, od 14. prosinca 2009. godine.
+2. Ova odluka stupa na snagu danom donošenja.
+3. Ova odluka objavit će se u »Narodnim novinama« i na internetskim stranicama Hrvatske agencije za poštu i elektroničke komunikacije.
+Obrazloženje
+Hrvatska agencija za poštu i elektroničke komunikacije (u daljnjem tekstu: HAKOM) je 14. prosinca 2009. g. zaprimila zahtjev Ministarstva financija za izdavanjem suglasnosti na odredbe na članka 9. st. 3. i 4. Pravilnika o priređivanju nagradnih igara.
+Naime, člankom 69. st. 2. Zakona o igrama za sreću (»Narodne novine« br. 87/09), propisano je da se prijavljivanje sudionika u nagradnim igrama putem poziva u svim oblicima elektroničkih komunikacijskih mreža te putem SMS usluga ne smatra posebnom uplatom za sudjelovanje, pod uvjetom da cijena po pozivu odnosno SMS usluzi ne prelazi iznos utvrđen posebnim propisom koji donosi ministar financija, a u suglasnosti s nadležnim regulatornim tijelom za elektroničke komunikacije.
+Stoga, Ministarstvo financija zatražilo je od HAKOM-a izdavanje suglasnosti na odredbe članka 9. st. 3. i 4. Pravilnika o priređivanju nagradnih igara, kojim su propisani iznosi cijena po pozivu, odnosno SMS usluzi, kako je određeno prethodno navedenom odredbom Zakona o igrama za sreću.
+S obzirom na to da je Vijeće HAKOM-a predmetne iznose ocijenilo osnovanim, izdalo je suglasnost na predložene odredbe članka 9. st. 3. i 4. Pravilnika o priređivanju nagradnih igara i odlučilo kako u izreci.
+Slijedom svega navedenog, na temelju članka 69. st. 2. Zakona o igrama na sreću, te članaka 14. i 18. Zakona o elektroničkim komunikacijama, Vijeće HAKOM-a je odlučilo kao u izreci.
