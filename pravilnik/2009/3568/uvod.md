@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 4., članka 76. stavka 4. i članka 78. stavka 3. Zakona o veterinarsko-medicinskim proizvodima (»Narodne novine«, broj 84/08) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi

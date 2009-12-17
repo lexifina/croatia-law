@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Oglašavanje VMP mora biti izvedeno tako, da je informacija jasna i prepoznatljiva i da je proizvod nedvosmisleno predstavljen kao VMP.
+(2) Oglašavanje VMP mora sadržavati sljedeće podatke:
+a) naziv VMP i INN, ako VMP sadržava jednu djelatnu tvar;
+b) koji su nužni za pažljivu, ispravnu i racionalnu primjenu VMP;
+c) vidljivo i čitko napisano, slikovno ili govorno upozorenje o značenju upute o VMP, koja je priložena VMP i koja glasi: »Prije primjene pažljivo pročitajte uputu o VMP! O rizicima i nuspojavama posavjetujete se s veterinarom.«. Pisano upozorenje mora biti mora biti istaknuto (npr. upadljivom bojom ili u okviru) i u veličini najmanje 1/10 veličine oglasa, pisano odgovarajućom veličinom slova tako da ga je moguće bez poteškoća pročitati i da ga nije moguće previdjeti. Pri televizijskom oglašavanju upozorenje na zaslonu mora biti prikazano samostalno (u zasebnom kadru), u slikovnom ili govornom obliku. Govorno upozorenje mora biti izrečeno jasno i razumljivo. Pri oglašavanju na Internetu upozorenje mora biti prikazano kao sastavni dio glavne stranice oglasa, a ne kao veza na nju (link). Upozorenje mora biti naglašeno u veličini koja pri prikazu na cijelom zaslonu ne smije biti manja od 1/4 zaslona i pisana odgovarajućom veličinom slova koja nije manja od 1/10 stranice polja upozorenja.
