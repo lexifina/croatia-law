@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/1993, 48/1999, 15/2000, 127/2000, 59/2001, 199/2003 i 79/2007), Vlada Republike Hrvatske je na sjednici održanoj 3. prosinca 2009. godine donijela
