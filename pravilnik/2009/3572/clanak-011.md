@@ -1,0 +1,4 @@
+# Članak 11.
+Domovi zdravlja obvezni su uskladiti svoj rad i poslovanje vezano uz obavljanje djelatnosti sanitetskog prijevoza s odredbama ovoga Pravilnika u roku od godine dana od dana stupanja na snagu ovoga Pravilnika.
+Trgovačka društva i ustanove za zdravstvenu njegu kojima je na temelju ranije važećih propisa do dana stupanja na snagu ovoga Pravilnika odobreno obavljanje djelatnosti prijevoza u svrhu pružanja zdravstvenih usluga, odnosno sanitetskog prijevoza danom stupanja na snagu ovoga Pravilnika nastavljaju obavljati tu djelatnost.
+Trgovačka društva i ustanove za zdravstvenu njegu iz stavka 2. ovoga članka obvezne su svoj rad i poslovanje u pogledu radnika, tehničkih karakteristika i medicinsko-tehničke opreme vozila uskladiti s odredbama ovoga Pravilnika u roku od godine dana od dana stupanja na snagu ovoga Pravilnika, a u protivnom im prestaje rad.
