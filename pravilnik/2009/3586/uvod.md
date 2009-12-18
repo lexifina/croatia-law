@@ -1,0 +1,1 @@
+Na temelju članaka 22. stavak 2. Zakona o carinskoj službi (»Narodne novine« broj 83/09) a u vezi sa člankom 4. stavak 6. Zakona o sigurnosti prometa na cestama (»Narodne novine" broj 67/08), ministar financija, uz suglasnost ministra unutarnjih poslova, broj 511-01-152-51149/7-09 od 11. studenoga 2009. godine, donosi
