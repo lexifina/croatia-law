@@ -1,0 +1,4 @@
+# Članak 6.
+(a) Ovaj Sporazum otvoren je za potpisivanje strankama Sjevernoatlantskog ugovora i podliježe ratifikaciji, prihvatu ili odobrenju. Isprave o ratifikaciji, prihvatu ili odobrenju polažu se kod Vlade Sjedinjenih Američkih Država.
+(b) Ovaj Sporazum stupa na snagu trideset dana nakon datuma polaganja isprava o ratifikaciji, prihvatu ili odobrenju dviju država potpisnica. On stupa na snagu za svaku drugu državu potpisnicu trideset dana nakon polaganja njezine isprave o ratifikaciji, prihvatu ili odobrenju.
+(c) Ovaj Sporazum, u odnosu na stranke za koje je stupio na snagu, zamjenjuje »Sigurnosni sporazum između stranaka Organizacije Sjevernoatlantskog ugovora« koji je odobrilo Sjevernoatlantsko vijeće u Dodatku A (stavak 1.) Priloga Privitku D.C. 2/7 19. travnja 1952. i naknadno uvrstilo u Privitak »A« (stavak 1.) C-M(55)15(konačno), koji je odobrilo Sjevernoatlantsko vijeće, 2. ožujka 1955.
