@@ -1,0 +1,1 @@
+Odluka o neprihvaćanju ponuda pristiglih na javno prikupljanje ponuda za dodjelu koncesije za gospodarsko korištenje luke posebne namjene - brodogradilište na dijelu k.o. Solin, predio Brodoremontno brodogradilište Vranjic
