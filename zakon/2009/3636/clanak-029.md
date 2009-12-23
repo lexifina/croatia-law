@@ -1,0 +1,6 @@
+## Stručni uvjeti za raspored na radno mjesto inspektora
+# Članak 29.
+(1) Poslove poljoprivrednog i stočarskog inspektora može obavljati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij poljoprivredne struke, položen državni stručni ispit za inspektora i najmanje četiri (4) godine radnog iskustva na odgovarajućim poslovima.
+(2) Poslove višeg poljoprivrednog i višeg stočarskog inspektora može obavljati osoba koja ispunjava uvjete iz stavka 1. ovoga članka te ima najmanje pet (5) godina radnog iskustva na odgovarajućim poslovima.
+(3) Poslove vinarskog inspektora i inspektora za kakvoću hrane može obavljati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij poljoprivredne, odnosno prehrambene struke, položen državni stručni ispit za inspektora i najmanje četiri (4) godine radnog iskustva na odgovarajućim poslovima.
+(4) Poslove višeg vinarskog inspektora i višeg inspektora za kakvoću hrane može obavljati osoba koja ispunjava uvjete iz stavka 3. ovoga članka te ima najmanje pet (5) godina radnog iskustva na odgovarajućim poslovima.
