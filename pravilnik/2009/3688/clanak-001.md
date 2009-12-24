@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine« broj 97/09 i 135/09) u Minimalnim standardima, načinu obračuna i mjerilima za matematičku pričuvu životnih osiguranja i drugih osiguranja za koje se obračunava matematička pričuva te posebnu pričuvu životnih osiguranja kod kojih osiguranik preuzima na sebe investicijski rizik u glavi VI. KAMATNA STOPA točki 1. dodaje se nova točka iv. koja glasi:
+»iv. Iznimno od točke 1.i. ove glave, Agencija može, na temelju obrazloženog i dokumentiranog zahtjeva društva za osiguranje, odobriti društvu za osiguranje, u slučaju kada to ocijeni opravdanim, da određeno vrijeme pri izračunu matematičke pričuve koristi višu kamatnu stopu od one propisane točkom 1.i. kako bi se postupno uskladilo s odredbama točke 1.i.«
+Stara točka 1.iv. postaje točka 1.v.
