@@ -1,0 +1,7 @@
+# Članak 63.
+Pravo sudjelovanja na Javnom pozivu za komplementarne djelatnosti imaju fizičke i pravne osobe koje su registrirane i bave se komplementarnim djelatnostima sa sjedištem u Republici Hrvatskoj.
+U provođenju Javnog poziva za komplementarne djelatnosti osobito će se podupirati programi koji su od interesa za Republiku Hrvatsku, i to programi koji:
+- hrvatsku audiovizualnu kulturu stavljaju u europski kontekst;
+- promiču interkulturni dijalog i razvoj civilnog društva;
+- stručno utemeljeni, visoke razine kvalitete, profilirani u odnosu na osnovnu djelatnost organizatora te
+- se odvijaju kontinuirano.

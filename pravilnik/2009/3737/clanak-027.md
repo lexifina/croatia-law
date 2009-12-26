@@ -1,0 +1,7 @@
+# Članak 27.
+Producent/-ica je obvezan u roku 90 dana po proizvodnji filma, a najkasnije u roku od 30 dana nakon zahtjeva HAVC-a, dostaviti HAVC-u:
+- izvješće sa specifikacijom ukupno utrošenih sredstava (ostvarivanja prihoda i izvršenje rashoda za cjelokupnu realizaciju filma, kopije ugovora i računa do iznosa sredstava dodijeljenih od HAVC-a, konačni plan financiranja u kojem moraju biti navedeni svi iznosi i izvori financiranja filma te plan podjele ostvarene dobiti);
+- nakon prve godine prikazivanja besplatno jednu kopiju filma s podnaslovima na jednom stranom jeziku radi nekomercijalnog prikazivanja u sklopu Dana/Tjedana hrvatske kulture, odnosno prezentacije i promidžbe hrvatske kinematografije u svijetu, koja se zbog odgovarajućih uvjeta čuvanja pohranjuje u Hrvatskoj kinoteci;
+- promidžbeni materijal (10 plakata filma i 50 DVD-eva s engleskim podnaslovima, press kit koji sadrži fotografije iz filma, biografiju, filmografiju redatelja/-ice i producenta/-ice, sinopsis filma na hrvatskom i engleskom jeziku u elektroničkom obliku),
+Hrvatskoj kinoteci dužan je dostaviti u prvoj godini prikazivanja besplatno jednu nekorištenu kopiju filma s odgovarajućom dokumentacijom, a godinu dana nakon snimanja filma na trajno čuvanje izvorno gradivo snimljenoga filma (originalne zapise/negative slike i tona), sukladno Zakonu o arhivskom gradivu i arhivima.
+Sva dokumentacija koja se dostavlja HAVC-u treba biti ovjerena i potpisana od strane nositelja projekta - producenta/-ice i redatelja/-ice.

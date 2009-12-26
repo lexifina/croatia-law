@@ -1,0 +1,5 @@
+# Članak 30.
+Ako redatelj/-ica u tijeku izvršavanja ugovora odbije završiti svoje obveze u realizaciji filma ili ako zbog više sile to ne može učiniti, ne može se protiviti da se njegov/njezin dosadašnji doprinos upotrijebi za dovršenje filma.
+Na već dani doprinos za realizaciju filma redatelj/-ica ima odgovarajuća autorska prava sukladno posebnom ugovoru s producentom/-icom i Zakonom o autorskom pravu i srodnim pravima i razmjerno količini snimljenog materijala.
+Ako se doprinos redatelja/-ice može iskoristiti za dovršenje filma te je realizacija filma moguća bez njegova/njezina daljnjeg sudjelovanja i dodatnih troškova, HAVC u dogovoru s producentom/-icom neće zahtijevati povrat redatelju/-ici već odobrenih i isplaćenih sredstava koji odgovaraju njegovu/njezinu doprinosu realizaciji filma.
+Ako se doprinos redatelja/-ice ne može iskoristiti za dovršenje filma ili realizacija filma nije moguća bez njegova/njezina daljnjeg doprinosa ili dodatnih troškova, a ne postoje ni okolnosti koje bi ga/nju objektivno sprečavale da završi svoj doprinos realizaciji filma (viša sila), na povrat sredstava i naknadu prouzročene štete primjenjuju se odredbe ugovora.
