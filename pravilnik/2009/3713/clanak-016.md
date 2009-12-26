@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Proizvođač uređaja namijenjenog za ugradnju u veći broj vozila, mora za uređaj posjedovati ovjerenu tehničku dokumentaciju, obrazac iz članka 11. stavka 1. ovoga Pravilnika izdan od ovlaštene stručne ustanove i upute o načinu ugradnje uređaja u određeni tip i kategoriju vozila.
+(2) Pojedinačno proizveden uređaj namijenjen za ugradnju u vozilo, mora posjedovati ovjerenu tehničku dokumentaciju, a prilikom ispitivanja vozila potrebno je izraditi dodatne skice s točnim izmjerama montaže uređaja te provesti ispitivanje funkcionalnosti i pravilnost ugradnje određenog sklopa ili uređaja zbog kojeg se vozilo ispituje te obrazac iz stavka 1. ovoga članka.
+(3) Postupak ispitivanja vozila s ugrađenim uređajem provodi se sukladno ovom Pravilniku i drugim propisima, kojima se uređuje provjera ugradnje i funkcionalnosti uređaja prema uputama proizvođača uređaja.
