@@ -1,0 +1,2 @@
+# Članak 3.
+Kad se za potrebe iz članka 6. stavka 2. točke (b) Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 154/08)[4], koristi jedan od testova iz članka 2. ovoga Pravilnika, test treba biti naveden u stupcu »test« tablice u točki 3., alineja druga, i u točki 5. Odjeljka A, Dodatka F, Obrazac 1 (Certifikat o zdravlju za goveda za klanje(1) / uzgoj(1) / proizvodnju (1)) Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 154/08)[5].

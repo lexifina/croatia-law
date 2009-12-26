@@ -1,0 +1,5 @@
+[1] Pravilnikom se preuzima Odluka Komisije 2004/226/EZ od 4. ožujka 2004. o odobravanju testova za utvrđivanje protutijela za brucelozu goveda u okviru Direktive Vijeća 64/432/EEZ;
+[2] Pravilnikom o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 154/08) preuzete su odredbe Direktive vijeća 64/432/EEZ;
+[3] Dodatkom C Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 154/08) preuzete su odredbe Dodatka C Direktive vijeća 64/432/EEZ;
+[4] Člankom 6. stavkom 2. točkom (b) Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 154/08) preuzete su odredbe članka 6. stavka 2. točke (b) Direktive vijeća 64/432/EEZ;
+[5] Točkom 3., alineja druga i točkom 5., Odjeljka A, Dodatka F, Obrazac 1 (Certifikat o zdravlju za goveda za klanje/ uzgoj/ proizvodnju) Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 154/08) preuzete su odredbe točke 3., alineje druge i točke 5. Odjeljka A, Dodatka F, Model 1(certifikat) Direktive vijeća 64/432/EEZ.
