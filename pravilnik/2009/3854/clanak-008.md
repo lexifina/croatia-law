@@ -1,0 +1,2 @@
+# Članak 8.
+Danom stupanja na snagu ovog Pravilnika prestaju važiti Pravilnik o sadržaju izvješća dioničara i imatelja udjela u fondu i vođenju poslovnih knjiga društva za upravljanje investicijskim fondovima (»Narodne novine«, broj 45/06 i 26/09) i Pravilnik o obveznom sadržaju, rokovima i obliku obveznih izvješća o radu investicijskih fondova, društva za upravljanje i depozitne banke (»Narodne novine«, broj 08/07)
