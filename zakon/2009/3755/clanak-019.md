@@ -1,0 +1,4 @@
+# Članak 19.
+Članak 67. mijenja se i glasi:
+»(1) Naknada za financiranje građenja i održavanja javnih cesta iz članka 62. točke 10. ovoga Zakona, iz državnog proračuna uplaćuje se, u skladu s odredbom članka 64. ovoga Zakona, na račune Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o. i predstavlja kapital (dalje u tekstu: javni kapital) kojim Republika Hrvatska financira građenje i održavanje javnih cesta, povrat kredita kojima se financira građenje autocesta i državnih cesta te dokapitalizaciju Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o., u skladu s programom iz članka 12. ovoga Zakona.
+(2) Razlika između vlastitih prihoda i rashoda ostvarenih u poslovnoj godini nadoknađuje se na teret javnog kapitala iz stavka 1. ovoga članka u skladu s odobrenim planom poslovanja Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o.«

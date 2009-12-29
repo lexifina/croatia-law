@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Odredba članka 12. u dijelu koji se odnosi na članak 28.a ovoga Zakona primjenjuje se i na zemljišta koja se po posebnom zakonu smatraju pomorskim dobrom ili lučkim područjem na kojima je već izgrađena javna cesta ili je započeta gradnja ili je po posebnim propisima izdana dozvola za građenje i rekonstrukciju javne ceste do dana stupanja na snagu ovoga Zakona.
+(2) Postupak izuzimanja iz područja pomorskog dobra, odnosno lučkog područja iz stavka 1. ovoga članka ovlaštena je pokrenuti osoba koja upravlja javnom cestom, odnosno osoba koja je na temelju članka 8. u dijelu koji se odnosi na članak 26. ovoga Zakona ovlaštena podnijeti prijedlog za izvlaštenje radi građenja, rekonstrukcije i održavanja javne ceste.
+(3) Na zemljišta koja su na temelju ovoga članka izuzeta iz područja pomorskog dobra, odnosno lučkog područja na odgovarajući se način primjenjuju odredbe iz članka 12. u dijelu koji se odnosi na članak 28.a ovoga Zakona.

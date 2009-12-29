@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Odredba članka 12. u dijelu koji se odnosi na članak 28.b ovoga Zakona primjenjuje se i na zemljišta koja se po posebnom zakonu smatraju javnim vodnim dobrom na kojima je već izgrađena javna cesta ili je započeta gradnja ili je po posebnim propisima izdana dozvola za građenje i rekonstrukciju javne ceste do dana stupanja na snagu ovoga Zakona.
+(2) Postupak ukidanja statusa vodnog dobra ovlaštena je pokrenuti osoba koja je na temelju članka 8. u dijelu koji se odnosi na članak 26. ovoga Zakona ovlaštena podnijeti prijedlog za izvlaštenje radi građenja, rekonstrukcije i održavanja javne ceste.
+(3) Na zemljišta na kojima je na temelju ovoga članka ukinut status javnog vodnog dobra na odgovarajući način primjenjuju se odredbe iz članka 12. u dijelu koji se odnosi na članak 28.b ovoga Zakona.
+(4) Odredbe ovoga članka na odgovarajući način primjenjuju se i na izdvajanje i drugih zemljišta koje se na temelju posebnog propisa smatraju javnim dobrom u vlasništvu Republike Hrvatske.
