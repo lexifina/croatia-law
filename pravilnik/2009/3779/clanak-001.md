@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuju se rokovi do kojih može trajati privremena nesposobnost za rad zbog bolesti, ozljede ili drugih okolnosti (u daljnjem tekstu: bolovanje) osiguranika Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) koje utvrđuje izabrani doktor medicine primarne zdravstvene zaštite u zdravstvenoj ustanovi, odnosno u privatnoj praksi koji ima ugovor sa Zavodom.

@@ -1,0 +1,2 @@
+# Članak 4.
+Izabrani doktor medicine primarne zdravstvene zaštite obvezan je prekinuti bolovanje osiguranika i prije isteka roka iz članka 2. ovoga Pravilnika, odnosno prije isteka roka koji je utvrdio ovlašteni doktor Zavoda iz članka 3. ovoga Pravilnika ako utvrdi da se zdravstveno stanje osiguranika poboljšalo tako da može nastupiti na rad, odnosno ako je nadzorom iz članka 6. ovog Pravilnika utvrđeno da više ne postoje medicinske indikacije za bolovanje.

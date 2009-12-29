@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 2. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08. i 94/09.) na prijedlog Hrvatske liječničke komore i Hrvatske stomatološke komore, po prethodno pribavljenom mišljenju stručnih društava Hrvatskog liječničkog zbora ministar zdravstva i socijalne skrbi donosi
