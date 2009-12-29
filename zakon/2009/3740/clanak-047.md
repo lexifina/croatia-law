@@ -1,0 +1,9 @@
+## Povezivanje audiovizualnih i radijskih programa u mreže
+# Članak 47.
+(1) Nakladnici televizije i/ili radija mogu se uz prethodnu suglasnost Vijeća za elektroničke medije programski povezivati u regionalne ili nacionalne mreže, s regionalnim i širim pokrivanjem područja, pod sljedećim uvjetima:
+- da povezani nakladnici televizije i/ili radija posebnim aktom imenuju odgovornog urednika zajedničkog programa koji odgovara za prenošenje audiovizualnog i/ili radijskog programa u skladu s ovim Zakonom, a akt o imenovanju dostave Vijeću za elektroničke medije 15 dana prije početka objavljivanja zajedničkog audiovizualnog i/ili radijskog programa,
+- da svaki od povezanih nakladnika objavljuje na području za koje mu je bila dana radijska koncesija najmanje dva sata radijskog programa vlastite proizvodnje dnevno u vremenu između 7 i 22 sata,
+- da je zajednička vlastita proizvodnja povezanih nakladnika televizije i/ili radija na hrvatskom jeziku, u koju se ne uračunava program iz prethodnog podstavka, te da dnevno iznosi najmanje 25% audiovizualnog i/ili radijskog programa koji se objavljuju putem mreže,
+- da povezani nakladnici televizije i/ili radija oblikuju zajedničku programsku osnovu i pisani akt o načinu izvršavanja programske osnove te oba dokumenta dostave Vijeću za elektroničke medije radi pribavljanja prethodne suglasnosti.
+(2) Nacionalna mreža programa je audiovizualni ili radijski program iz ovoga članka koji je dostupan za više od 60% stanovništva Republike Hrvatske. Regionalna mreža programa je audiovizualni ili radijski program iz ovoga članka koji je dostupan za više od 70% stanovništva regije.
+(3) Regionalna ili nacionalna mreža iz ovoga članka u pogledu programskih zahtjeva i ograničenja iz ovoga Zakona smatra se kao jedinstveni audiovizualni ili radijski program.

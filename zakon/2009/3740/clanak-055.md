@@ -1,0 +1,2 @@
+# Članak 55.
+Smatra se da postoji nedopuštena koncentracija u području medija i u slučajevima iz članka 54. ovoga Zakona ako u kapitalu drugog nakladnika televizije i/ili radija, novinskog nakladnika dnevnog tiska ili novinske agencije ima udjel iznad utvrđene visine kapitala, fizička ili pravna osoba koja je osnivač nakladnika televizije i/ili radija ili pružatelja medijskih usluga iz članka 79. ovoga Zakona, odnosno osnivač, ili s njim povezane osobe u smislu članka 53. ovoga Zakona.

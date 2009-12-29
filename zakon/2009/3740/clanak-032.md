@@ -1,0 +1,8 @@
+# Članak 32.
+(1) Trajanje spotova za oglašavanje i spotova za teletrgovinu unutar pojedinog sata, uz izuzeće za televizijske programske kanale koji su isključivo posvećeni oglašavanju i teletrgovini te za televizijske programske kanale koji su isključivo posvećeni samopromidžbi iz članka 34. stavka 2. ovoga Zakona, ne smije prijeći 12 minuta.
+(2) Odredba stavka 1. ovoga članka ne primjenjuje se na najave nakladnika televizije vezane uz vlastite programe i sporedne proizvode neposredno proizišle iz tih programa, najave sponzorstava i plasman proizvoda.
+(3) Oglašavanje i teletrgovina u audiovizualnom programu umetat će se između programa. Promidžbeni spotovi i teletrgovina mogu se umetati i za vrijeme audiovizualnog programa ali tako da integritet programa i prava nositelja prava ne budu oštećeni, uzimajući u obzir prirodne stanke u programu kao i trajanje i značaj programa.
+(4) Prijenos filmova snimljenih za televiziju (isključujući serije, serijale i dokumentarne emisije), kinematografskih djela i informativnih programa može se prekidati oglašavanjem i/ili teletrgovinom jednom u svakom predviđenom razdoblju od 30 minuta.
+(5) Oglašavanje i teletrgovina neće se umetati u prijenos vjerskih službi.
+(6) Programi za djecu, ako su kraći od 30 minuta, neće se prekidati promidžbenim spotovima i/ili spotovima za teletrgovinu. Programi za djecu mogu se prekinuti oglašavanjem i/ili teletrgovinom jednom za svako predviđeno razdoblje od najmanje 30 minuta, pod uvjetom da je predviđeno trajanje programa dulje od 30 minuta.
+(7) Odredbe ovoga članka ne odnose se na oglašavanje u radijskim programima.

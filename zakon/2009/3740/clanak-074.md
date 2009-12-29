@@ -1,0 +1,6 @@
+# Članak 74.
+(1) Pravo obavljanja djelatnosti pružanja medijskih usluga nakladnika televizije i/ili radija stječe se na temelju odluke o odabiru najpovoljnijeg ponuditelja i potpisanog ugovora o koncesiji.
+(2) Na temelju odluke o odabiru najpovoljnijeg ponuditelja Vijeće i Hrvatska agencija za poštu i elektroničke komunikacije potpisuju s najpovoljnijim ponuditeljem ugovor o koncesiji.
+(3) Ugovor o koncesiji, osim uvjeta bitnih za ostvarivanje koncesije, mora sadržavati programsku osnovu i druge uvjete iz ponude za dobivanje koncesije.
+(4) Ako u roku utvrđenom u odluci iz stavka 2. ovoga članka, najpovoljniji ponuditelj ne potpiše ugovor o koncesiji koji je sastavljen u pisanom obliku u skladu s dokumentacijom za javni natječaj, svim podacima iz javnog natječaja, odabranom ponudom te odlukom o odabiru najpovoljnijeg ponuditelja, Vijeće će poništiti odluku o odabiru najpovoljnijeg ponuditelja, a ponuditelj nema pravo na naknadu štete.
+(5) Koncesija se može prenijeti na drugu osobu zajedno s imovinom, pravima i obvezama prijeko potrebnim za neprekinuti nastavak ostvarivanja koncesije, a uz prethodnu suglasnost Vijeća sukladno ovom Zakonu. Zahtjev za prethodnu suglasnost Vijeća može se podnijeti tek nakon 3 godine od dana sklapanja ugovora o koncesiji. U tom će se slučaju sklopiti dodatak ugovoru o koncesiji ili odgovarajući novi ugovor.

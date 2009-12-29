@@ -1,0 +1,5 @@
+# Članak 57.
+(1) Svaku promjenu vlasničke strukture nakladnik televizije i/ili radija i pružatelj medijskih usluga iz članka 79. ovoga Zakona mora pisanim putem prijaviti Vijeću za elektroničke medije.
+(2) Ako Vijeće za elektroničke medije utvrdi da je nastalim promjenama vlasničke strukture ostvarena nedopuštena koncentracija u području medija, naložit će nakladniku televizije i/ili radija i pružatelju medijskih usluga iz članka 79. ovoga Zakona da u određenom roku uskladi svoju vlasničku strukturu na način koji nije u suprotnosti s odredbama ovoga Zakona.
+(3) Ako nakladnik televizije i/ili radija ne postupi u skladu s nalogom Vijeća za elektroničke medije, primijenit će se odredbe ovoga Zakona o prestanku važenja koncesije prije isteka roka na koji je dana, a odluku o oduzimanju koncesije donosi Vijeće za elektroničke medije.
+(4) Ako pružatelj medijskih usluga iz članka 79. ovoga Zakona ne postupi u skladu s nalogom Vijeća za elektroničke medije, primjenjivat će se odredbe ovoga Zakona o prestanku važenja dopuštenja za satelitski, internetski, kabelski i drugi oblik prijenosa audiovizualnog i/ili radijskog programa.
