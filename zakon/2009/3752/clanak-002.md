@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 65. stavak 3. mijenja se i glasi:
+»(3) Poslove poljoprivredne inspekcije u prvom stupnju obavljaju poljoprivredni inspektori u Ministarstvu i poljoprivredni inspektori u područnim jedinicama Ministarstva sukladno Uredbi o unutarnjem ustrojstvu Ministarstva, a u drugom stupnju poslove obavlja posebno povjerenstvo Ministarstva čije članove imenuje ministar. Povjerenstvo čine tri člana koja se imenuju iz reda državnih službenika u Ministarstvu koji imaju završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij i najmanje pet (5) godina radnog iskustva na odgovarajućim poslovima.«
