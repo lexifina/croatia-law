@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 3. Zakona o Obalnoj straži Republike Hrvatske (»Narodne novine«, broj 109/07) uz suglasnost ministra nadležnog za unutarnje poslove, ministra nadležnog za pomorstvo i ministra nadležnog za vanjske poslove, donosim

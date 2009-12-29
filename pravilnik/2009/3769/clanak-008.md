@@ -1,0 +1,2 @@
+# Članak 8.
+Postupanje ovlaštenih osoba Obalne straže u ostvarivanju suradnje s međunarodnim institucijama preko nadležnih ministarstava te u rješavanju konkretnih situacija na moru, u slučajevima postupanja prema plovnim objektima strane državne pripadnosti, razradit će se i utvrditi standardnim operativnim postupcima koje na prijedlog Zapovjedništva Obalne straže donosi Stručno tijelo Središnje koordinacije za nadzor i zaštitu prava i interesa Republike Hrvatske na moru.
