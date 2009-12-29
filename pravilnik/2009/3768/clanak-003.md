@@ -1,0 +1,3 @@
+# Članak 3.
+Na zahtjev Stožera za provedbu Plana intervencija zapovjednik Obalne straže zapovjedit će aktiviranje raspoloživih tehničkih i ljudskih resursa Obalne straže, uporabu osoblja, plovila, zrakoplova i ostalih sredstava Obalne straže te po potrebi ukrcati predstavnika nadležnog tijela na plovilo ili zrakoplov Obalne straže radi sudjelovanja u obavljanju zadaća predviđenih Planom intervencija.
+Zahtjev se podnosi Zapovjedništvu Obalne straže u pisanom obliku, osim u slučaju potrebe hitne intervencije, kada se može uputiti usmeni zahtjev, uz obvezu naknadne dostave zahtjeva u pisanom obliku.
