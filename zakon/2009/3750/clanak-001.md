@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o državnom odvjetništvu (»Narodne novine«, br. 76/09.) u članku 110. stavak 3. mijenja se i glasi:
+»(3) Za zamjenika državnog odvjetnika u Državnom odvjetništvu Republike Hrvatske može se imenovati osoba koja je kao dužnosnik u pravosudnim tijelima obnašala pravosudnu dužnost najmanje 15 godina ili isto toliko godina bila odvjetnik, javni bilježnik, sveučilišni profesor pravnih znanosti koji ima položen pravosudni ispit i najmanje 15 godina radnog iskustva nakon položenog pravosudnog ispita i ugledni pravnik s položenim pravosudnim ispitom i najmanje 20 godina radnog iskustva koji se je dokazao svojim stručnim radom i na određenom pravnom području kao i stručnim i znanstvenim radovima.«
