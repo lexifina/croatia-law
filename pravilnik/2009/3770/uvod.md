@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 2. Zakona o Obalnoj straži Republike Hrvatske (»Narodne novine«, broj 109/07) uz suglasnost ministra nadležnog za unutarnje poslove i ministra nadležnog za pomorstvo donosim

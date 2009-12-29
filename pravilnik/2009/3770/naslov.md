@@ -1,0 +1,1 @@
+Pravilnik o primjeni mjera i sredstava prisile, zaustavljanju i pregledu sumnjivog plovila, uzapćenju plovila, privremenom zadržavanju osoba, službenim evidencijama i drugim radnjama potrebnim za pokretanje postupka protiv prekršitelja propisa

@@ -1,0 +1,4 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se način i uvjeti pod kojima ovlaštene osobe Obalne straže Republike Hrvatske (u daljnjem tekstu: Obalna straža) u nadzoru i zaštiti prava i interesa Republike Hrvatske na moru primjenjuju odredene mjere i sredstva prisile, zaustavljaju i pregledavaju sumnjiva plovila, uzapćuju plovila, privremeno zadržavaju osobe te vode službene evidencije i provode druge radnje potrebne za pokretanje postupka protiv prekršitelja propisa.
+Ovlaštene osobe Obalne straže (u daljnjem tekstu: ovlaštene osobe) primjenjuju odredene mjere i sredstva prisile u obavljanju temeljnih poslova i zadaća u zaštićenom ekološko-ribolovnom pojasu, epikontinentalnom pojasu i na otvorenom moru, a u teritorijalnom moru i unutarnjim morskim vodama Republike Hrvatske prilikom pružanja potpore drugim nadležnim tijelima državne uprave.

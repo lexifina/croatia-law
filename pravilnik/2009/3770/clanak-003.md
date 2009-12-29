@@ -1,0 +1,3 @@
+# Članak 3.
+U slučaju kada zatekne osobu koja čini ili je počinila prekršaj kazneno djelo ili koja svojim ponašanjem dovodi ili može dovesti u opasnost osobnu sigurnost, sigurnost drugih osoba ili imovine, ili može dovesti do nastanka drugih štetnih posljedica ovlaštena osoba može tim osobama izdavati zapovijedi kojima se traži odredeno ponašanje, djelovanje ili propuštanje radnje.
+Ovlaštena osoba može zapovjediti samo ono ponašanje, djelovanje ili propuštanje radnje koje izravno utječe na sprječavanje protupravnog ponašanja odnosno na izvršenje zadaće i to samo na vrijeme koje je nužno za obavljanje te zadaće.
