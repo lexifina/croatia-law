@@ -1,0 +1,1 @@
+Na temelju članka 17. stavaka 1. i 2. Zakona o izboru predsjednika Republike Hrvatske (»Narodne novine« broj 22/92, 042/92 - ispr., 71/97, 69/04 - Odluka USRH i 99/04 - ispr. Odluke USRH) Državno izborno povjerenstvo Republike Hrvatske donijelo je
