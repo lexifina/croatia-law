@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu obavljanja veterinarskih pregleda i kontrola živih životinja u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 154/08) u članku 2. točka (f) mijenja se i glasi:
+»(f) granična veterinarska postaja - veterinarska postaja na graničnom prijelazu, smještena u neposrednoj blizini mjesta ulaska u Republiku Hrvatsku, a nakon pristupanja Republike Hrvatske u članstvo Europske unije, smještena na područjima država navedenih u Dodatku I. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 132/08), koja je određena i odobrena za obavljanje veterinarskih pregleda živih životinja u skladu s člankom 6. ovoga Pravilnika;«
