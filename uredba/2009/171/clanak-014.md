@@ -1,0 +1,6 @@
+## Otvaranje pošiljki
+# Članak 14.
+(1) Pošiljke primljene u zatvorenim omotnicama naslovljene na tijelo otvara službenik pisarnice. Iznimno, pošiljke koje su označene određenim stupnjem tajnosti otvara čelnik tijela ili druga službena osoba toga tijela koju on za to ovlasti.
+(2) Službenik pisarnice koji otvara pošiljke ne smije potvrditi primitak niti otvoriti pošiljke na čijoj je omotnici pored naziva tijela naznačeno osobno ime čelnika tijela ili druge službene osobe toga tijela, kao niti pošiljke u vezi s raspisanom licitacijom, natječajima i druge pošiljke ako je na omotnici naznačeno da ih može otvoriti samo čelnik tijela, druga službena osoba ili komisija. Takve pošiljke upisat će se u knjigu primljene pošte (Obrazac broj 1. - Knjiga primljene pošte) i uz potpis predati naslovljenoj osobi, odnosno komisiji.
+(3) Izuzetno, čelnik tijela može ovlastiti drugu službenu osobu da potvrdi i otvori pošiljke naznačene na njegovo osobno ime.
+(4) U tijelu u kojem postoji služba dežurstva, pošiljke primljene izvan redovnog radnog vremena prima dežurni službenik. Ako dežurni službenik nije ovlašten za otvaranje pošiljki, a razvidno je da se radi o hitnoj pošiljci, o primitku takve pošiljke odmah će na prikladan način obavijestiti službenu osobu toga tijela ovlaštenu za otvaranje te vrste pošiljki.

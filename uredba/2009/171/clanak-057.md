@@ -1,0 +1,4 @@
+## Rješavanje više predmeta jednim aktom
+# Članak 57.
+(1) Ako je jednim aktom riješeno više predmeta koji se odnose na istu osobu ili tijelo, isto pitanje ili cjelinu, a koji su upisani u upisnik predmeta upravnog postupka odnosno u urudžbeni zapisnik pod različitim klasifikacijskim oznakama, takav akt treba donijeti pod prvom upisanom klasifikacijskom oznakom, s time da se izvrši povezivanje klasifikacijskih oznaka u upisniku predmeta upravnog postupka odnosno urudžbenom zapisniku. U tom slučaju sva pismena koja se odnose na taj predmet odlažu se u omot spisa predmeta koji je prvi upisan, a na omote spisa drugih predmeta stavlja se bilješka pod kojom klasifikacijskom oznakom je predmet riješen.
+(2) Kad je jednim aktom riješeno više zasebnih predmeta, službenik je dužan na vrhu prve stranice primjerka akta koji ostaje u spisu, na vidnom mjestu ispisati klasifikacijske oznake svih zajedno riješenih predmeta.

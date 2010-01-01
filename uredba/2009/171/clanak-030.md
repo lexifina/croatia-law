@@ -1,0 +1,3 @@
+## Brojčana oznaka stvaratelja pismena
+# Članak 30.
+Brojčana oznaka stvaratelja pismena označava osobe ili tijela koja su se podneskom obratila tijelu, odnosno tijela koja su sastavila akte. U sastavu brojčane oznake stvaratelja pismena može se utvrditi i brojčana oznaka za pojedine unutarnje ustrojstvene jedinice tijela, tako da se iza brojčane oznake tijela stavi ravna crtica (-) i brojčana oznaka unutarnje ustrojstvene jedinice. Ako se brojčana oznaka stvaratelja pismena razrađuje i po užim unutarnjim ustrojstvenim jedinicama u tijelu, te se oznake međusobno također odvajaju crticama (-), a ako se razrađuju i po pojedinim službenicima, broj službenika odvaja se kosom crtom (/) od oznake unutarnje ustrojstvene jedinice.
