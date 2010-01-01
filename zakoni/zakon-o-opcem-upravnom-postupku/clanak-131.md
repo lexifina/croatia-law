@@ -1,0 +1,6 @@
+## Nadležnost i postupak poništavanja ili ukidanja rješenja
+# Članak 131.
+(1) Rješenje može poništiti ili ukinuti javnopravno tijelo koje ga je donijelo. Kad je rješenje donijelo prvostupanjsko tijelo, može ga poništiti ili ukinuti i drugostupanjsko tijelo. Ako nema drugostupanjskog tijela, rješenje može poništiti ili ukinuti tijelo koje na temelju zakona obavlja nadzor nad tim tijelom.
+(2) Nezakonito rješenje može se poništiti u roku od dvije godine, a ukinuti u roku od jedne godine od dana dostave rješenja stranci, u kojim slučajevima rješenje mora biti u tom roku otpremljeno iz tijela koje je rješenje donijelo.
+(3) Javnopravno tijelo donosi rješenje o poništavanju ili ukidanju rješenja po službenoj dužnosti, na prijedlog stranke ili ovlaštenoga državnog tijela. Ako je prijedlog za poništavanje ili ukidanje rješenja podnijela stranka ili ovlašteno državno tijelo, a javnopravno tijelo ne prihvati prijedlog, obavijestit će o tome podnositelja prijedloga.
+(4) Protiv rješenja o poništavanju ili ukidanju koje je donijelo prvostupanjsko tijelo može se uložiti žalba, a kad žalba nije dopuštena, može se pokrenuti upravni spor. Protiv rješenja drugostupanjskog tijela može se pokrenuti upravni spor.

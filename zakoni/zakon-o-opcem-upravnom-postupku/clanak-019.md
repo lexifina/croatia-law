@@ -1,0 +1,4 @@
+## Sukob nadležnosti
+# Članak 19.
+(1) Kad se dva javnopravna tijela ili više njih izjasne kao stvarno ili mjesno nadležna ili nenadležna u istoj upravnoj stvari, o tijelu nadležnom za rješavanje u toj upravnoj stvari odlučit će rješenjem nadležno javnopravno tijelo drugog stupnja u djelokrugu kojeg se nalazi ta upravna stvar, a ako takvog tijela nema, o sukobu nadležnosti odlučit će središnje tijelo državne uprave nadležno za poslove opće uprave, po službenoj dužnosti ili na zahtjev stranke.
+(2) Ako su u sukobu nadležnosti tijela državne uprave i druga državna tijela, odnosno tijela državne uprave i tijela jedinica lokalne i područne (regionalne) samouprave ili druga državna tijela i tijela jedinica lokalne i područne (regionalne) samouprave, o sukobu nadležnosti odlučit će bez odgode sud nadležan za upravne sporove.

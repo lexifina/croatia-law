@@ -1,0 +1,8 @@
+## Osobna dostava
+# Članak 85.
+(1) Dostava se obavlja osobno naslovljenoj osobi kad od obavljanja dostave počinje teći rok koji se ne može produžiti ili kad je takva dostava propisana (osobna dostava).
+(2) Kad se naslovljena osoba ne zatekne na mjestu dostave, dostavljač će u poštanskom sandučiću ili pretincu ili kod osobe zatečene na mjestu dostave ostaviti pisanu obavijest da u određeni dan i sat bude na mjestu dostave radi primanja pismena i gdje do toga dana sama može podići pismeno.
+(3) Ako dostavljač u naznačeno vrijeme ne pronađe naslovljenu osobu ili ako ona odbije primiti pismeno, dostavljač će ostaviti pismeno u njezinom poštanskom sandučiću ili pretincu ili ako toga nema, na vratima ili drugom za primatelja vidljivom mjestu. Na dostavnici uz ostavljeno pismeno dostavljač će naznačiti razlog takve dostave, dan i sat kad je ostavio pismeno i potpisati se.
+(4) Kad dostavljač prilikom pokušaja dostave sazna da postoje razlozi zbog kojih pismeno uopće nije moguće uručiti naslovljenoj osobi, pismeno će vratiti pošiljatelju uz naznaku razloga zbog kojih pismeno nije moguće dostaviti.
+(5) Dostava se smatra obavljenom danom uručenja, odnosno danom kad je pismeno ostavljeno u poštanskom sandučiću ili pretincu ili ako toga nema, na vratima ili drugom za primatelja vidljivom mjestu, osim ako stranka dokaže da iz opravdanih razloga nije mogla primiti pismeno.
+(6) Dostavom pismena osobi ovlaštenoj za zastupanje stranke ili opunomoćeniku za primanje pismena smatra se da je dostava izvršena samoj stranci. Dostava odvjetniku koji zastupa stranku može se obaviti i tako da se pismeno uruči zaposleniku odvjetničkog ureda.

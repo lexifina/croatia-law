@@ -1,0 +1,5 @@
+## Zastupanje stranke
+# Članak 32.
+(1) U postupku stranku može zastupati osoba ovlaštena za zastupanje, odnosno zakonski zastupnik, privremeni zastupnik, zajednički predstavnik i opunomoćenik (u daljnjem tekstu: osoba ovlaštena za zastupanje stranke). Osoba ovlaštena za zastupanje stranke dužna je podnijeti dokaz o ovlasti za zastupanje stranke, a ako su zakonom propisani i dodatni uvjeti za oblik ovlasti, ovlast mora biti dana prema tim uvjetima.
+(2) Službena osoba u tijeku postupka obraća se osobi ovlaštenoj za zastupanje stranke, kad je takva osoba određena. Iznimno, kad je to nužno za utvrđivanje činjenica i okolnosti u postupku, službena osoba može zatražiti neposrednu nazočnost, odnosno drugo sudjelovanje stranke u postupku. Ako službena osoba zatraži neposrednu nazočnost ili drugo sudjelovanje stranke u postupku, o tome je dužna istodobno obavijestiti i osobu ovlaštenu za zastupanje.
+(3) Odredbe ovoga Zakona koje se odnose na stranke primjenjuju se na odgovarajući način i na osobe ovlaštene za zastupanje stranke.

@@ -1,0 +1,7 @@
+## Nagrade i naknade troškova drugim osobama koje sudjeluju u postupku
+# Članak 162.
+(1) Svjedoci, vještaci, prevoditelji, tumači i privremeni zastupnici imaju pravo na nagradu, odnosno naknadu stvarnih troškova nastalih u vezi s postupkom. Protivna stranka u dvostranačkim ili višestranačkim upravnim stvarima ima pravo na naknadu putnih troškova i izgubljene zarade, ako je postupak okončan povoljno za tu stranku.
+(2) Službena osoba dužna je osobe koje imaju pravo na naknadu troškova na to upozoriti. O iznosu nagrade, odnosno naknade troškova odlučuje se rješenjem, u skladu s propisima, a ako takvih nema, prema stvarno nastalim i dokumentiranim troškovima.
+(3) Kad osoba koja sudjeluje u postupku uzrokuje svojom krivnjom ili obiješću troškove pojedinih radnji u postupku, dužna je snositi te troškove.
+(4) Vještaci, prevoditelji i tumači dužni su podnijeti zahtjev za naknadu troškova odnosno nagradu ili naknadu u roku od 30 dana od dana poduzimanja tražene radnje, s priloženim troškovnikom. Kad zahtjev nije podnesen u propisanom roku ili nije dokumentiran, a službena je osoba upozorila podnositelja zahtjeva na posljedice tog propuštanja, podnositelj zahtjeva gubi to pravo.
+(5) Troškove postupka, kao što su putni troškovi službenih osoba, izdaci za svjedoke, vještake, tumače, uviđaj, oglase i drugo koji su nastali u postupku, snosi stranka koja je cijeli postupak izazvala svojim postupanjem.
