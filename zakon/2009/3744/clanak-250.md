@@ -1,0 +1,28 @@
+## Prestanak važenja provedbenih akata
+# Članak 250.
+Do stupanja na snagu propisa iz ovoga Zakona ostaju na snazi propisi i drugi provedbeni akti doneseni na temelju Zakona o vodama (»Narodne novine«, br. 107/95. i 150/05.), i to:
+1. Uredba o klasifikaciji voda (»Narodne novine«, br. 77/98. i 137/08.),
+2. Uredba o opasnim tvarima u vodama (»Narodne novine«, br. 137/08.),
+3. Uredba o uvjetima i postupku za dodjelu koncesija na vodama i javnom vodnom dobru (»Narodne novine«, br. 99/96. i 11/98.),
+4. Državni plan za zaštitu voda (»Narodne novine«, br. 8/99.),
+5. Državni plan obrane od poplava (»Narodne novine«, br. 8/97., 32/97., 43/98., 93/99., 14/03., 188/03., 2/05., 125/05. i 28/06.),
+6. Odluka o popisu voda I. reda (»Narodne novine«, br. 97/07.),
+7. Odluka o utvrđivanju granica vodnih područja (»Narodne novine«, br. 109/08.),
+8. Odluka o utvrđivanju slivnih područja (»Narodne novine«, br. 20/96., 98/98. i 5/99.),
+9. Odluka o načinu vođenja evidencije o izvršenim inspekcijskim pregledima u vodoprivredi (»Narodne novine«, br. 3/89.),
+10. Odluka o visini i obračunu naknade za vađenje pijeska i šljunka (»Narodne novine«, br. 103/02.), osim u dijelu ukinutom člankom 126. točkom 1. Zakona o izmjenama i dopunama Zakona o vodama (»Narodne novine«, br. 150/05.),
+11. Pravilnik o očevidniku zahvaćenih i crpljenih količina vode (»Narodne novine«, br. 57/96.),
+12. Pravilnik o posebnim uvjetima za obavljanje vodoopskrbne djelatnosti (»Narodne novine«, br. 82/96., 102/97. i 147/08.),
+13. Pravilnik o vođenju očevidnika o količini i kakvoći izvađenih tvari (»Narodne novine«, br. 78/97.),
+14. Pravilnik o posebnim uvjetima koje moraju ispunjavati pravne osobe koje obavljaju poslove osobito značajne za upravljanje vodama (»Narodne novine«, br. 43/08.),
+15. Pravilnik o uvjetima koje moraju ispunjavati ovlašteni laboratoriji (»Narodne novine«, br. 78/97., 92/97. i 65/05.),
+16. Pravilnik o tehničkim, gospodarskim i drugim uvjetima za uređenje sustava melioracijske odvodnje (»Narodne novine«, br. 4/98.),
+17. Pravilnik o posebnim uvjetima koje moraju ispunjavati pravne osobe koje obavljaju djelatnosti odvodnje otpadnih voda (»Narodne novine«, br. 93/96., 53/97., 102/97., 145/08.),
+18. Pravilnik o graničnim vrijednostima opasnih i drugih tvari u otpadnim vodama (»Narodne novine«, br. 94/08.),
+19. Pravilnik o službenoj iskaznici i znački vodopravnih inspektora (»Narodne novine«, br. 17/07.),
+20. Pravilnik o utvrđivanju zona sanitarne zaštite izvorišta (»Narodne novine«, br. 55/02.),
+21. Pravilnik o vodnoj dokumentaciji (»Narodne novine«, br. 13/06.),
+22. Pravilnik o izdavanju vodopravnih akata (»Narodne novine«, br. 28/06.),
+23. Pravilnik o postupku i obavljanju obveznog informiranja javnosti i sudjelovanja korisnika voda u izradi planskih osnova upravljanja vodama (»Narodne novine«, br. 70/08.),
+24. Pravilnik o izradi vodnogospodarske osnove Hrvatske (»Narodne novine«, br. 120/03.),
+25. Sporazum o utvrđivanju crte razgraničenja kopnenih voda i voda mora (»Narodne novine«, br. 104/00.).

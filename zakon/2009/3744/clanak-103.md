@@ -1,0 +1,5 @@
+## Očevidnik deponiranoga šljunka i pijeska
+# Članak 103.
+Od primopredaje šljunka i pijeska iz članka 101. stavka 3. ovoga Zakona, naručitelj iz članka 99. stavka 1. ovoga Zakona dužan je voditi očevidnik deponiranoga šljunka i pijeska, na propisanom obrascu.
+Propis o obliku i sadržaju očevidnika, načinu vođenja očevidnika, rokovima čuvanja očevidnika, rokovima podnošenja izvješća iz stavka 3. ovoga članka donosi ministar. Sadržaj obvezatno uključuje i podatke o količinama šljunka i pijeska ugrađenim u regulacijsko-zaštitne vodne građevine, osim količina iz članka 100. stavak 7. ovoga Zakona, prodanim količinama radi ugradnje u druge javne građevine te količinama prodanim na javnom nadmetanju.
+O količinama šljunka i pijeska ugrađenim u regulacijsko-zaštitne vodne građevine, osim količina iz članka 100. stavka 7. ovoga Zakona, prodanim količinama radi ugradnje u druge javne građevine te količinama prodanim na javnom nadmetanju, naručitelj iz članka 99. stavka 1. ovoga Zakona podnosi izvješće Ministarstvu i ministarstvu nadležnom za financije.

@@ -1,0 +1,10 @@
+## Šljunak i pijesak izvađen tijekom radova na vodama i vodnom dobru
+# Članak 99.
+Ako je tijekom radova građenja regulacijskih i zaštitnih vodnih građevina i građevina osnovne melioracijske odvodnje ili radova održavanja voda iz članka 107. ovoga Zakona, koje izvođači izvode na temelju ugovora s Hrvatskim vodama, kao naručiteljem, odnosno tijekom radova građenja i održavanja vodnih putova na unutarnjim vodama, akvatorija luka i pristaništa unutarnje plovidbe i objekata sigurnosti unutarnje plovidbe, koji izvode izvođači na temelju ugovora s Agencijom za vodne putove, kao naručiteljem, sukladno zakonu kojim se uređuju luke i plovidba unutarnjim vodama, nužno izvaditi šljunak i pijesak iz vodotoka ili kanala, isti se može koristiti isključivo po odredbama ovoga Zakona.
+Za radove građenja i održavanja vodnih putova na unutarnjim vodama, akvatorija luka i pristaništa unutarnje plovidbe i objekata sigurnosti unutarnje plovidbe koji se izvode sukladno zakonu kojim se uređuju luke i plovidba unutarnjim vodama, Agencija za vodne putove, mora od Hrvatskih voda ishoditi vodopravne akte.
+Prije početka vađenja izvođač radova iz stavka 1. ovoga članka dužan je:
+- izraditi geodetsku snimku na mjestima vađenja i mjestima mogućeg razmještanja iz članka 102. stavka 1. ovoga Zakona te
+- izraditi analizu granulometrijskog sastava nanosa šljunka i pijeska s mjesta vađenja, osim ako nanos nije predviđen samo za razmještanje iz članka 102. stavka 1. ovoga Zakona.
+Nakon završetka vađenja izvođač radova iz stavka 1. ovoga članka dužan je izraditi geodetsku snimku na mjestima vađenja i na mjestima razmještanja iz članka 102. stavka 1. ovoga Zakona, ako je bilo razmještanja.
+Izvođač radova iz stavka 2. ovoga članka dužan je, na temelju geodetske snimke i analize granulometrijskog sastava nanosa iz stavka 3. ovoga članka, izraditi elaborat s dokaznicom količina šljunka i pijeska.
+Geodetske snimke, analiza granulometrijskog sastava nanosa i elaborat iz stavka 3., 4. odnosno 5. ovoga članka dostavljaju se državnoj vodopravnoj inspekciji, rudarskoj inspekciji i Hrvatskim vodama.

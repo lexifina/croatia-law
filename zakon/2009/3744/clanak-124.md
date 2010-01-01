@@ -1,0 +1,4 @@
+## Pojas za održavanje
+# Članak 124.
+Uz građevine detaljne melioracijske odvodnje i građevine za navodnjavanje uspostavlja se pojas u širini od 3 metra od vanjskoga ruba te građevine koji služi održavanju građevine (pojas za održavanje). U pojasu za održavanje poljoprivredna proizvodnja se obavlja na rizik vlasnika, odnosno zakonitoga posjednika zemljišta.
+Izvođač radova održavanja u obvezi je dogovoriti vrijeme održavanja i mjesta pristupa građevinama iz stavka 1. ovoga članka s vlasnikom, odnosno zakonitim posjednikom susjednoga zemljišta, koji je dužan omogućiti pristup u dobroj vjeri i u razumnom roku. Ako se dogovor ne postigne izvođač je ovlašten pristupiti građevinama iz stavka 1. ovoga članka i izvesti radove održavanja, na način kojim se čini najmanja šteta vlasniku, odnosno zakonitom posjedniku susjednoga zemljišta.

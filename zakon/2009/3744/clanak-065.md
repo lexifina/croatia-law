@@ -1,0 +1,6 @@
+## Uzorkovanje i ispitivanje sastava otpadnih voda
+# Članak 65.
+Pravne i fizičke osobe koje su u obvezi imati vodopravnu dozvolu za ispuštanje otpadnih voda prema odredbama ovoga Zakona ili rješenje o objedinjenim uvjetima zaštite okoliša prema posebnim propisima o okolišu obvezni su osigurati redovito uzorkovanje i ispitivanje sastava otpadnih voda te o tome voditi očevidnik.
+Djelatnost uzorkovanja i ispitivanja sastava otpadnih voda obavljaju ovlašteni laboratoriji.
+Propisom iz članka 60. stavka 3. ovoga Zakona uređuje se i metodologija uzorkovanja i ispitivanja sastava otpadnih voda, učestalost uzorkovanja i ispitivanja, obrazac očevidnika ispuštenih otpadnih voda, njegov oblik i način vođenja, rokovi i oblici dostavljanja podataka o tome Hrvatskim vodama, pitanja iz stavka 4. ovoga članka i druga pitanja u neposrednoj vezi s prethodnim.
+Pravne i fizičke osobe iz stavka 1. ovoga članka koje, tijekom jednoga dana ili u kraćem vremenu u kojem se odvija tehnološki postupak, ispuštaju otpadne vode u prosjeku deset litara u sekundi (10 l/s) dužne su imati, koristiti, održavati u ispravnom stanju, uređaj za mjerenje protoka vode i za automatsko uzimanje uzoraka pri promjeni protoka vode te ga učiniti svakodobno dostupnim vodnom nadzoru, sukladno propisu iz stavka 3. ovoga članka.
