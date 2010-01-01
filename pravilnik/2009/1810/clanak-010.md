@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Subjekti u poslovanju s hranom trebaju osigurati da formiranje lota od svih nezapakiranih komada mesa koji su u isto vrijeme ponuđeni na prodajnom mjestu krajnjem potrošaču bude u skladu s člankom 4. stavkom 2. ovoga Pravilnika.
+(2) Iznimno od članka 5. stavka. 3. alineja b i c na mjestu prodaje krajnjem potrošaču subjekti u poslovanju s hranom moraju označiti sve nezapakirano rasječeno meso ponuđeno na prodaju nazivom države u kojoj su životinje od kojih meso potječe rođene, tovljene i zaklane, iza čega slijedi naziv države u kojoj su trupovi rasječeni.
+(3) Meso životinja rođenih i/ili tovljenih i/ili zaklanih u različitim državama koje se nudi na prodaju treba jasno odvojiti jedno od drugoga. Na prodajnom mjestu ovi podaci trebaju biti navedeni tako da krajnji potrošač može lako razlikovati meso različitog podrijetla.
+(4) Subjekti u poslovanju s hranom koji svaki dan na prodaju nude nezapakirano rasječeno meso trebaju evidentirati, zajedno s datumom, odobreni broj klaonica u kojima su životinje zaklane i rasjekaone u kojima su rasječene. Takve podatke subjekt daje potrošaču na njegov zahtjev.
+(5) Iznimno od odredbi članka 4. stavka 2. alineja b veličina lota kod nezapakiranog rasječenog mesa koje se nudi na prodajnom mjestu može premašiti proizvodnju jednog dana ako su ispunjeni uvjeti iz stavka 2. ovoga članka.
