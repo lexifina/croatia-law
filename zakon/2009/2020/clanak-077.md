@@ -1,0 +1,10 @@
+## Korištenje plinskih ulja za namjene u poljoprivredi, ribolovu i akvakulturi
+# Članak 77.
+(1) Korisnici prava na potrošnju plinskog ulja iz članka 70. stavka 9. ovoga Zakona za namjene u poljoprivredi su poljoprivredna gospodarstva upisana u Upisnik poljoprivrednih gospodarstava pri ministarstvu nadležnom za poljoprivredu, a koji su definirani sukladno posebnim propisima.
+(2) Korisnici prava na potrošnju plinskog ulja iz članka 70. stavka 9. ovoga Zakona za namjene u ribarstvu su:
+1. fizičke i pravne osobe koje posjeduju povlasticu za obavljanje gospodarskog ribolova na moru - za ulov ribe,
+2. fizičke i pravne osobe koje posjeduju povlasticu za gospodarski ribolov i/ili povlasticu za uzgoj morske ribe i drugih morskih organizama, sukladno posebnom propisu o morskom ribarstvu, ili povlasticu za akvakulturu sukladno posebnom propisu o slatkovodnom ribarstvu.
+(3) Korisnici prava na godišnju količinu potrošnje plinskog ulja iz stavka 1. i 2. ovoga članka, ostvaruju to pravo prema posebnim propisima, temeljem odobrenja i kartice goriva izdane od strane nadležnog tijela za poslove poljoprivrede i ribarstva.
+(4) Korisnici iz stavka 1. i 2. ovoga članka, plinsko ulje koriste za pogon poljoprivrednih strojeva poljoprivrednih gospodarstava i za rad pogonskih i pomoćnih motora ribarskih plovila kojima se obavlja gospodarski ribolov na moru te za rad pogonskih i pomoćnih motora plovila i strojeva u akvakulturi.
+(5) Trošarinski obveznici te druge pravne ili fizičke osobe koje prodaju plinsko ulje iz članka 70. stavka 9. ovoga Zakona korisnicima iz stavka 1. i 2. ovoga članka, dužne su ispuniti uvjete za elektroničku razmjenu podataka iz centralne baze podataka o korisnicima iz stavka 1. i 2. ovoga članka, te prodaju plinskog ulja iz članka 70. stavka 9. vršiti samo uz predočenje kartice goriva.
+(6) Ministar financija, uz prethodno mišljenje ministra nadležnog za poslove poljoprivrede i ribarstva, pravilnikom propisuje sadržaj, oblik, način korištenja kartice goriva kao i način korištenja i kontrolu potrošnje plinskog ulja iz članka 70. stavka 9. ovoga Zakona.

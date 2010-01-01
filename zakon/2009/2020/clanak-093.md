@@ -1,0 +1,3 @@
+# Članak 93.
+(1) Visina trošarine za pojedine trošarinske proizvode usklađuje se jednom godišnje s vrijednošću eura. Primjenjuje se srednji tečaj Hrvatske narodne banke koji vrijedi prvog radnog dana u mjesecu listopadu. Novi iznosi trošarina, usklađeni s tečajem eura počinju se primjenjivati 1. siječnja sljedeće kalendarske godine i objavljuju se u Narodnim novinama.
+(2) Ako preračunavanjem iznosa trošarine izražene u eurima dođe do porasta trošarine izražene u nacionalnoj valuti za manje od 5%, može se zadržati visina trošarine koja je na snazi u vrijeme godišnjeg usklađivanja, kako je predviđeno stavkom 1. ovoga članka.

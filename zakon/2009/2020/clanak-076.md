@@ -1,0 +1,7 @@
+## Nadzor nad korištenjem i prodajom označenih plinskih ulja
+# Članak 76.
+(1) Porezni nadzor nad korištenjem i prodajom označenog plinskog ulja obavljaju osobe ovlaštene za obavljanje nadzora sukladno odredbama ovoga Zakona i posebnim propisima.
+(2) Ako se pri nadzoru motornih vozila, plovnih objekata, plovila, drugih motora ili strojeva, odnosno pri kontroli knjigovodstvenih i drugih isprava, utvrdi da se označena plinska ulja iz članka 73. ovoga Zakona koriste u druge svrhe osim u svrhe i na način propisan člankom 74. ovoga Zakona, vlasniku motornog vozila, plovnog objekta, plovila, drugog motora ili stroja, trošarina se obračunava na količine koje odgovaraju obujmu spremnika pogonskog goriva uvećane sto puta, odnosno tvrtki i/ili vlasniku obrta trošarina se obračunava na količine za koje se temeljem knjigovodstvenih i drugih isprava utvrdi da su korištene suprotno odredbama ovoga Zakona, uvećane deset puta. Trošarina se obračunava prema visini propisanoj člankom 70. stavkom 3. točkom 2.2.1. ovoga Zakona.
+(3) Plinska ulja u spremniku motornih vozila, plovnih objekata, plovila, ili drugih motora ili strojeva smatraju se označenima, ako sadrže sredstvo za označavanje iz članka 73. stavka 1. ovoga Zakona, u bilo kojoj koncentraciji.
+(4) Trošarinu iz stavka 2. ovoga članka, na temelju nalaza o nenamjenskom korištenju označenog plinskog ulja nadzornog tijela iz stavka 1. ovoga članka, obračunava nadležna carinarnica i Financijska policija.
+(5) Ministar financija pravilnikom propisuje postupak utvrđivanja prisutnosti sredstava za označavanje.

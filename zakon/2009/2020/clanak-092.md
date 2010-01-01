@@ -1,0 +1,7 @@
+# Članak 92.
+(1) Do uspostave kartičnog poslovanja trošarinski obveznici dužni su plinska ulja za namjene u poljoprivredi, ribolovu i akvakulturi prije isporuke iz trošarinskog skladišta odnosno pri uvozu, označiti propisanim indikatorom prema propisima o normi i obojiti plavom bojom.
+(2) Do uspostave kartičnog poslovanja za korisnike plinskih ulja za namjene u poljoprivredi, ribolovu i akvakulturi propisanog odredbama članka 70. stavka 9. i članka 77. stavka 3. i stavka 5. ovoga Zakona, primjenjivat će se obrazac za kontrolu potrošnje plinskog ulja obojanog plavom bojom koje će korisnicima toga prava, prema povlasticama propisanim posebnim propisima, izdavati i upisivati odobrene količine nadležno tijelo za poslove poljoprivrede i ribarstva.
+(3) Trošarinski obveznici i druge pravne ili fizičke osobe koje vrše prodaju plinskog ulja za namjene u poljoprivredi, ribolovu i akvakulturi dužni su voditi evidencije o kupcima, na način da kupcu upišu i ovjere prodane količine u obrascu za kontrolu potrošnje plinskog ulja obojanog plavom bojom.
+(4) Odredbe članka 76. ovoga Zakona u pogledu poreznog nadzora nad korištenjem označenih plinskih ulja odgovarajuće se primjenjuje u pogledu nadzora nad korištenjem plinskog ulja obojanog plavom bojom.
+(5) Odredbe članka 90. stavka 2., 3., 4. i 5. ovoga Zakona neće se primjenjivati do uspostave kartičnog poslovanja.
+(6) Ministar financija, uz prethodno mišljenje ministra nadležnog za poslove poljoprivrede i ribarstva, pravilnikom propisuje sadržaj, oblik i način korištenja obrasca za kontrolu potrošnje plinskog ulja.

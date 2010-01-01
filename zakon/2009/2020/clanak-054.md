@@ -1,0 +1,12 @@
+# Članak 54.
+(1) Malim proizvođačem jakog alkoholnog pića za potrebe ovoga članka, smatra se fizička osoba vlasnik ili korisnik poljoprivrednog zemljišta te vlasnik tvari za proizvodnju jakog alkoholnog pića koji proizvodi za vlastite potrebe i to u količini koja ne prelazi 20 litara čistog alkohola godišnje po domaćinstvu.
+(2) Proizvođaču iz stavka 1. ovoga članka nije dozvoljena prodaja jakog alkoholnog pića.
+(3) Jakim alkoholnim pićima se u smislu ovoga članka smatraju proizvodi obuhvaćeni tarifnom oznakom KN 2208.
+(4) Mali proizvođač jakog alkoholnog pića mora carinarnici nadležnoj prema svome prebivalištu podnijeti prijavu za upis u registar trošarinskih obveznika i to najkasnije 8 dana prije početka proizvodnje, te istovremeno dostaviti podatak o volumenu pojedinog uređaja za proizvodnju alkohola-kotla (u daljnjem tekstu: kotao) kojeg ima u vlasništvu odnosno uporabi.
+(5) Mali proizvođač jakog alkoholnog pića plaća trošarinu ovisno o zapremini kotla. Trošarina za svaki kotao zapremine 40 do 100 litara iznosi 100,00 kuna, a za kotao zapremine preko 100 litara iznosi 200,00 kuna.
+(6) Ako mali proizvođač jakog alkoholnog pića proizvede jako alkoholno piće u količini većoj od one propisane u stavku 1. ovoga članka, na tu količinu obračunava i plaća trošarinu u iznosu propisanom člankom 46. stavkom 6. ovoga Zakona.
+(7) Mali proizvođač jakog alkoholnog pića obvezan je carinarnici nadležnoj prema prebivalištu, dostaviti godišnje izvješće s podacima o ukupno proizvedenoj količini jakog alkoholnog pića za vlastite potrebe, zapremini kotla i obračunatoj trošarini do 20. siječnja tekuće godine za proteklu godinu. Trošarinu obračunatu sukladno stavku 5. i 6. ovoga članka dužan je platiti do 31. siječnja tekuće godine za proteklu godinu.
+(8) Ako mali proizvođač jakog alkoholnog pića najkasnije do 31. siječnja tekuće godine obavijesti nadležnu carinarnicu da kotao nije u uporabi i zatraži da se zapečati, u sljedećim poreznim razdobljima ne nastaje trošarinska obveza dok je kotao zapečaćen. Za godinu u kojoj nadležna carinarnica skine pečat ili utvrdi da je pečat bio skinut bez suglasnosti nadležne carinarnice, nastaje trošarinska obveza u skladu sa stavkom 5. i 6. ovoga članka.
+(9) Pečaćenje i skidanje pečata s kotla obavlja nadležna carinarnica na zahtjev i trošak malog proizvođača jakog alkoholnog pića.
+(10) Mali proizvođač jakog alkoholnog pića oslobađa se uvjeta propisanih u odredbama Glave IX ovoga Zakona.
+(11) Ministar financija pravilnikom propisuje provedbu ovoga članka.

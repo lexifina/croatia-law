@@ -1,0 +1,3 @@
+## XX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 87.
+Porezni obveznici posebnog poreza prema Zakonu o posebnom porezu na duhanske proizvode (»Narodne novine«, br. 51/94, 56/95,67/99, 105/99, 55/00, 107/01, 95/04, 152/08 i 38/09), Zakonu o posebnom porezu na alkohol (»Narodne novine«, br. 51/94, 141/98, 55/00, 67/01, 107/01 i 107/07), Zakonu o posebnom porezu na pivo (»Narodne novine«, br. 51/94, 139/97, 55/00 i 107/01) i Zakonu o posebnom porezu na naftne derivate (»Narodne novine«, br. 55/00, 101/00, 27/01, 107/01,123/03 i 57/06) a koji će biti trošarinski obveznici prema odredbama ovoga Zakona, obvezni su do 31. siječnja 2010. carinarnici nadležnoj prema sjedištu odnosno prebivalištu obveznika, podnijeti prijavu za upis u registar trošarinskih obveznika.

@@ -1,0 +1,4 @@
+# Članak 91.
+(1) Posebna skladišta za opskrbu zrakoplova koja prodaju mlazno gorivo i zrakoplovni benzin sukladno članku 15. stavak 4. Zakona o posebnom porezu na naftne derivate, obvezna su popisati zalihe mlaznog goriva i zrakoplovnog benzina sa stanjem na dan stupanja na snagu ovoga Zakona i o tome sastaviti zapisnik po vrstama i količinama te ga dostaviti nadležnoj carinarnici u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+(2) Prodaja popisanih zaliha iz stavka 1. ovoga članka moguća je do isteka zaliha, a najkasnije do 30. lipnja 2010. godine i to samo za namjene iz članka 79. stavka 1. točke 1. ovoga Zakona, uz obvezu vođenja evidencije o prodaji.
+(3) Nakon prodaje ukupnih količina zaliha iz stavka 1. ovoga članka, posebna skladišta za opskrbu zrakoplova koja obavljaju prodaju mlaznog goriva i zrakoplovnog benzina moraju u roku od 8 dana nadležnoj carinarnici dostaviti evidenciju iz stavka 2. ovoga članka.

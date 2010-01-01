@@ -1,0 +1,2 @@
+# Članak 55.
+Proizvođači etilnog alkohola, međuproizvoda i ostalih pića dobivenih vrenjem koji za komercijalne svrhe godišnje proizvode alkohol, međuproizvode i ostala pića dobivena vrenjem u količini manjoj od 1.000,00 litara, odnosno proizvođači piva koji za komercijalne svrhe godišnje proizvode pivo u količini manjoj od 50.000,00 litara, oslobađaju se uvjeta propisanih u odredbama Glave IX ovoga Zakona.
