@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Kada se prijava i odjava turista obavlja elektroničkim načinom, osobe iz članka 5. ovog Pravilnika, prijavu i odjavu obavljaju prema korisničkom protokolu elektroničke prijave i odjave turista.
+(2) Korisnički protokol obavljanja elektroničke prijave i odjave sadrži cjelokupni proces ispravnog obavljanja elektroničke prijave i odjave turističkoj zajednici i sastavni je dio korisničkih uputa turističke zajednice.
+(3) Kada se prijava i odjava turista obavlja elektroničkim načinom, turistička zajednica i osobe iz članka 5. ovog Pravilnika, moraju ispravno zaprimljene prijave i odjave, zaštitno pohraniti, odnosno sigurnosno kopirati na odgovarajući prenosivi medij i čuvati najmanje dvije godine.
+(4) Zaštitno pohranjivanje ispravno zaprimljenih prijava i odjava, odnosno podataka obavlja se tjedno, mjesečno i godišnje i to na prenosivom magnetskom mediju, optičkom mediju, ili arhiviranjem ispisanih podataka. U slučaju arhiviranja ispisanih podataka, ovlaštena osoba ih mora ovjeriti pečatom i potpisom.
+(5) Kada se prijava i odjava turista obavlja elektroničkim načinom, ispravno zaprimljenom prijavom i odjavom se smatra ona prijava i odjava koja je u potpunosti zaprimljena (provedena) prema korisničkom protokolu turističke zajednice.
