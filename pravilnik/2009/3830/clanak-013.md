@@ -1,0 +1,3 @@
+# Članak 13.
+Pravne osobe iz članka 3. ovoga Pravilnika obvezne su cijene lijekova na veliko odrediti u skladu s mjerilima iz ovoga Pravilnika te o istima izvijestiti Zavod prema obrascu 1. iz Priloga 3., koji je sastavni dio ovoga Pravilnika, u pisanom obliku i na elektroničkom mediju u roku od 30 dana od dana objave godišnjeg izračuna na web-stranicama Zavoda iz članka 17. stavka 1. ovoga Pravilnika.
+Pravne osobe iz članka 3. ovoga Pravilnika obvezne su najkasnije u roku od 30 dana od dana davanja odobrenja za stavljanje u promet gotovog lijeka o predloženoj cijeni lijeka na veliko izvijestiti Zavod prema obrascu 2. iz Priloga 3., koji je sastavni dio ovoga Pravilnika, u pisanom obliku i na elektroničkom mediju.
