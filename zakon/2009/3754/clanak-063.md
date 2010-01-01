@@ -1,0 +1,4 @@
+# Članak 63.
+Članak 291. mijenja se i glasi:
+»(1) Ako unutar grupe kreditnih institucija u EU za koju je Hrvatska narodna banka konsolidirajući supervizor nastupi izvanredno stanje koje bi moglo ugroziti likvidnost tržišta ili stabilnost financijskog sustava u bilo kojoj državi članici u kojoj su članice te grupe kreditnih institucija dobile odobrenje za rad ili u kojima značajne podružnice kreditne institucije iz Republike Hrvatske pružaju usluge, Hrvatska narodna banka odmah će o tome obavijestiti osobe iz članka 225. stavka 1. točke 7. i 8. ovoga Zakona i proslijediti im informacije koje su bitne za njihov rad.
+(2) Kada Hrvatska narodna banka nije konsolidirajući supervizor, a u okviru svojih zakonom danih ovlasti procijeni da bi moglo nastupiti izvanredno stanje iz stavka 1. ovoga članka, obavijestit će o tome konsolidirajućeg supervizora u drugoj državi članici koristeći se pritom uspostavljenim kanalima komuniciranja.«.

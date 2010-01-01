@@ -1,0 +1,6 @@
+# Članak 58.
+Članak 287. mijenja se i glasi:
+»U slučajevima kada je Hrvatska narodna banka konsolidirajući supervizor, Hrvatska narodna banka će osim ispunjavanja postojećih obveza iz ovoga Zakona, još i:
+1) koordinirati prikupljanje i distribuciju relevantnih i bitnih informacija između nadležnih tijela koja su uključena u superviziju na konsolidiranoj osnovi u okviru redovitih aktivnosti i izvanrednih stanja,
+2) planirati i koordinirati obavljanje supervizije, a osobito u vezi sa člankom 48. stavkom 3., člankom 111., člancima 176. do 179., člankom 197., člankom 236. i člankom 237. ovoga Zakona, a u suradnji s drugim nadležnim tijelima u okviru redovitih aktivnosti i
+3) planirati i koordinirati obavljanje supervizije, a u suradnji s drugim nadležnim tijelima i, ako je to potrebno, u suradnji sa središnjim bankama, u pripremi za izvanredna stanja i tijekom izvanrednih stanja, uključujući nepovoljna kretanja u kreditnim institucijama ili na financijskim tržištima, primjenjujući, ako je moguće, uspostavljene kanale komuniciranja za upravljanje krizom. Planiranje i koordiniranje supervizije uključuje važnije mjere iz članka 293. stavka 3. točke 4. ovoga Zakona, pripreme zajedničkih ocjena stanja, provođenje planova postupanja u kriznim situacijama i obavještavanje javnosti.«.
