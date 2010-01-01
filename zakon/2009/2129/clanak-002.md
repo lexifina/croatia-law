@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 3. iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Isporukama dobara uz naknadu smatra se ako porezni obveznik ili njegovi zaposlenici u privatne svrhe izuzimaju dobra koja čine dio poduzetničke imovine, ako raspolažu njima bez naknade ili ih izuzimaju u druge nepoduzetničke svrhe, a za ta dobra se u cijelosti ili djelomično mogao iskoristiti odbitak pretporeza. Isporukama dobara uz naknadu ne smatra se besplatno davanje uzoraka u razumnim količinama kupcima ili budućim kupcima, i davanje poklona u vrijednosti do 80,00 kuna u okviru obavljanja gospodarske djelatnosti, uz uvjet da se daju povremeno i ne istim osobama.«
