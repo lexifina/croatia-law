@@ -1,0 +1,2 @@
+# Članak 2.
+Godišnja minimalna visina novčane naknade za zauzetu površinu odobrenog eksploatacijskog polja neenergetskih mineralnih sirovina iz članka 61. stavka 3. Zakona o rudarstvu iznosi 2.000,00 kn/ha zauzete površine odobrenog eksploatacijskog polja za eksploatacijska polja čija površina nije veća od 20 ha, 2.500,00 kn/ha zauzete površine odobrenog eksploatacijskog polja za eksploatacijska polja čija je površina od 20 ha do 50 ha i 3.000,00 kn/ha zauzete površine odobrenog eksploatacijskog polja za eksploatacijska polja čija je površina veća od 50 ha.

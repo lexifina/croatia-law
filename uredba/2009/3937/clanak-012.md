@@ -1,0 +1,2 @@
+# Članak 12.
+Godišnja minimalna visina novčane naknade za zauzetu površinu bušotinskih krugova eksploatacijskog polja energetskih mineralnih sirovina iz članka 61., stavka 4. Zakona o rudarstvu iznosi 4.000,00 kn/ha zauzete površine bušotinskih krugova eksploatacijskog polja čija površina nije veća od 20 ha, 5.000,00 kn/ha zauzete površine bušotinskih krugova eksploatacijskog polja čija je površina od 20 ha do 50 ha, i 6.000,00 kn/ha zauzete površine bušotinskih krugova eksploatacijskog polja čija je površina veća od 50 ha.
