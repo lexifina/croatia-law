@@ -1,0 +1,9 @@
+## V. DOKUMENTI KOMBINIRANOG PRIJEVOZA
+# Članak 10.
+(1) Tijekom prethodnog i naknadnog prijevoza vozač teretnog automobila dokazuje da dio kombiniranog prijevoza uključuje ili će uključivati željeznicu, unutarnje plovne putove ili pomorski prijevoz sljedećim prijevoznim dokumentima:
+- kopija CMR teretnog lista koja prati teret tijekom čitavog kombiniranog prijevoza kada se teretni automobil dijelom puta prevozi željeznicom, unutarnjim plovnim putovima ili pomorskim prijevozom, a teret ostaje u teretnom automobilu. Osim podataka o prethodnom i naknadnom prijevozu, sadrži i podatke o ukrcajnom i odredišnom terminalu za kombinirani prijevoz ili pretovarnom kolodvoru,
+- kopija K504-K, teretnog lista CIM za kombinirani prijevoz, u kombiniranom prijevozu koji uključuje željeznicu,
+- kopija teretnice za kombinirani prijevoz, u kombiniranom prijevozu koji uključuje pomorski prijevoz, koja osim podataka o ukrcajnoj i odredišnoj luci sadrži i podatke o naknadnom prijevozu,
+- kopija zaključnice, u kombiniranom prijevozu koji uključuje pomorski prijevoz, koja osim podataka o ukrcajnoj i odredišnoj luci sadrži i podatke o prethodnom prijevozu,
+- kopija bilo kojeg drugog prijevoznog dokumenta koja prati teret tijekom čitavog kombiniranog prijevoza, i koja osim podataka o ukrcajnom i odredišnom terminalu za kombinirani prijevoz ili pretovarnom kolodvoru, sadrži i podatke o prethodnom i naknadnom prijevozu. Obavljeni kombinirani prijevoz na kojem se rabila željeznica, ili unutarnji plovni putovi ili pomorski prijevoz je u takvom dokumentu potvrđen pečatom terminala za kombinirani prijevoz ili pretovarnog kolodvora.
+(2) Dokumentima iz stavka 1. ovoga članka vozač teretnog automobila ostvaruje tijekom prethodnog i naknadnog prijevoza pravo na oslobađanje od kvota i dozvola te oslobađanje od ograničenja prometa na cestama iz članka 8. i 9. ovoga Zakona.
