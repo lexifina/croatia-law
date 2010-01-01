@@ -1,0 +1,3 @@
+# Članak 1.
+(1) U Pravilniku o djelatnostima iznajmljivanja stanova, soba i postelja putnicima i turistima te organiziranja kampova koje će se paušalno oporezivati, o visini paušalnog poreza i načinu plaćanja paušalnog poreza (»Narodne novine«, br. 48/05) u cijelom tekstu riječi: »matični broj građana« zamjenjuju se riječima: »osobni identifikacijski broj« u odgovarajućem broju i padežu, a kratica: »MBG« zamjenjuje se kraticom »OIB«.
+(2) Stavak 1. ovoga članka primjenjuje se i na obrasce koji su sastavni dio Pravilnika o djelatnostima iznajmljivanja stanova, soba i postelja putnicima i turistima te organiziranja kampova koje će se paušalno oporezivati, o visini paušalnog poreza i načinu plaćanja paušalnog poreza.
