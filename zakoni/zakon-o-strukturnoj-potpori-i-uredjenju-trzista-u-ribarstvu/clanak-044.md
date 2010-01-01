@@ -1,0 +1,2 @@
+# Članak 44.
+Do stupanja na snagu odredbi iz članka 31. ovoga Zakona ostaje na snazi Uredba o raspodjeli carinskih kvota za poljoprivredno-prehrambene proizvode podrijetlom iz zemalja članica Svjetske trgovinske organizacije i zemalja s kojima je Republika Hrvatska sklopila Ugovor o slobodnoj trgovini i Sporazum o stabilizaciji i pridruživanju (»Narodne novine«, br. 55/04., 146/04. i 138/05.), donesena na temelju Zakona o poljoprivredi (»Narodne novine«, br. 66/01. i 83/02.).

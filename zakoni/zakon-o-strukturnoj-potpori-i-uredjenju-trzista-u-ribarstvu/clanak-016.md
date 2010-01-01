@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Korisnik ne smije prodati, dati u najam ili dati na bilo koje drugo raspolaganje i korištenje drugim pravnim ili fizičkim osobama, poslovne, proizvodne i druge prostorije i prostore, zgrade, objekte, uzgajališta, luke, ribarska plovila i ribarske alate, prijevozna sredstva, zemljište, uređaje, robu i druge stvari, kupljene na temelju odredbi ovoga Zakona i propisa donesenih na temelju njega, pet godina od zadnje primljene uplate financijskih sredstava.
+(2) Iznimno od odredbi iz stavka 1. korisnik uslijed nepredviđenih okolnosti ili više sile može obaviti navedene radnje uz prethodno pribavljeno odobrenje upravne direkcije.
+(3) Korisnik je obvezan obavještavati upravnu direkciju iz članka 18. stavka 1. točke 1. ovoga Zakona o svim eventualnim promjenama nastalim tijekom provedbe i do pet godina od zadnje primljene uplate financijskih sredstava ostvarenih na temelju odredbi ovoga Zakona i propisa donesenih na temelju njega u sklopu mjera strukturne politike.
+(4) O promjenama iz stavka 2. ovoga članka korisnik je dužan obavijestiti upravnu direkciju iz članka 18. stavka 1. točke 1. ovoga Zakona u roku od mjesec dana od nastanka promjena.
