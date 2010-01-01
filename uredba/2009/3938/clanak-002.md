@@ -1,0 +1,2 @@
+# Članak 2.
+Godišnja minimalna visina novčane naknade za istraživanje energetskih mineralnih sirovina iz članka 5., točke 1. Zakona o rudarstvu iznosi 3.000,00 kn/ha površine bušotinskih krugova unutar odobrenog istražnog prostora za prvu godinu istraživanja, 4.000,00 kn/ha površine bušotinskih krugova unutar odobrenog istražnog prostora za drugu godinu istraživanja i 5.000,00 kn/ha površine bušotinskih krugova unutar odobrenog istražnog prostora za treću, četvrtu i petu godinu istraživanja mineralnih sirovina.

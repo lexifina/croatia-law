@@ -1,0 +1,2 @@
+# Članak 1.
+Godišnja minimalna visina novčane naknade za istraživanje neenergetskih mineralnih sirovina iz članka 5. točaka 2., 3., 4. i 5. Zakona o rudarstvu, iznosi 1.500,00 kn/ha površine odobrenog istražnog prostora za prvu godinu istraživanja, 2.000,00 kn/ha površine odobrenog istražnog prostora za drugu godinu istraživanja i 2.500,00 kn/ha površne odobrenog istražnog prostora za treću godinu istraživanja mineralnih sirovina.
