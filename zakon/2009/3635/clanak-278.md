@@ -1,0 +1,11 @@
+## Pravila o poslovima koji se ne smiju prekidati
+# Članak 278.
+(1) Na prijedlog poslodavca, sindikat i poslodavac sporazumno izrađuju i donose pravila o proizvodno-održavajućim i nužnim poslovima koji se ne smiju prekidati za vrijeme štrajka ili isključenja s rada.
+(2) Pravila iz stavka 1. ovoga članka sadrže osobito odredbe o poslovima i broju radnika koji će ih obavljati za vrijeme štrajka ili isključenja s rada, a s ciljem omogućivanja obnavljanja rada neposredno nakon završetka štrajka (proizvodno-održavajući poslovi), odnosno s ciljem obavljanja poslova koji su prijeko potrebni radi sprječavanja ugrožavanja života, osobne sigurnosti ili zdravlja pučanstva (nužni poslovi).
+(3) Određivanjem poslova iz stavka 1. ovoga članka ne smije se onemogućiti ili bitno ograničiti pravo na štrajk.
+(4) Ako sindikat i poslodavac ne postignu sporazum o određivanju poslova iz stavka 1. ovoga članka u roku od petnaest dana od dana dostave prijedloga poslodavca, poslodavac odnosno sindikat može u roku od daljnjih petnaest dana tražiti da o tim poslovima odluči arbitraža.
+(5) Arbitraža iz stavka 4. ovoga članka sastoji se od jednog predstavnika sindikata i jednog predstavnika poslodavca te od neovisnog predsjednika kojeg sporazumno određuju sindikat i poslodavac.
+(6) Ako se sindikat i poslodavac ne mogu sporazumjeti o imenovanju predsjednika arbitražnog vijeća, a ta pitanja nisu drukčije uređena kolektivnim ugovorom ili sporazumom stranaka, njega će imenovati predsjednik suda, nadležnost kojeg se određuje sukladno odredbama ovoga Zakona o određivanju nadležnosti u prvom stupnju za zabranu štrajka ili isključenja s rada.
+(7) Ako jedna stranka odbija sudjelovati u arbitražnom postupku utvrđivanja poslova koji se ne smiju prekidati, postupak će se provesti bez njezinog sudjelovanja, a odluku o poslovima iz stavka 1. ovoga članka donosi predsjednik arbitražnog vijeća.
+(8) Odluku o poslovima iz stavka 1. ovoga članka arbitraža mora donijeti u roku od petnaest dana od dana pokretanja arbitražnog postupka.
+(9) Ako poslodavac nije predložio utvrđivanje poslova iz stavka 1. ovoga članka do dana početka postupka mirenja, postupak utvrđivanja tih poslova ne može pokrenuti do dana okončanja štrajka.

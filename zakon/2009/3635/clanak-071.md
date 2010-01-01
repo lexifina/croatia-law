@@ -1,0 +1,5 @@
+## Zabrana otkaza
+# Članak 71.
+(1) Za vrijeme trudnoće, korištenja rodiljnog, roditeljskog, posvojiteljskog dopusta, rada s polovicom punog radnog vremena, rada u skraćenom radnom vremenu zbog pojačane njege djeteta, dopusta trudnice ili majke koja doji dijete, te dopusta ili rada u skraćenom radnom vremenu radi skrbi i njege djeteta s težim smetnjama u razvoju, odnosno u roku od petnaest dana od prestanka trudnoće ili prestanka korištenja tih prava, poslodavac ne može otkazati ugovor o radu trudnici i osobi koja se koristi nekim od spomenutih prava.
+(2) Otkaz je ništetan ako je na dan davanja otkaza poslodavcu bilo poznato postojanje okolnosti iz stavka 1. ovoga članka, ili ako radnik u roku od petnaest dana od dostave otkaza obavijesti poslodavca o postojanju okolnosti iz stavka 1. ovoga članka te o tome dostavi odgovarajuću potvrdu ovlaštenog liječnika ili drugog ovlaštenog tijela.
+(3) Okolnosti iz stavka 1. ovoga članka ne sprječavaju prestanak ugovora o radu sklopljenog na određeno vrijeme, istekom vremena za koje je sklopljen taj ugovor.

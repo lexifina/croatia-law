@@ -1,0 +1,3 @@
+## Pravo povratka na prethodne ili odgovarajuće poslove radnika koji je privremeno bio nesposoban za rad
+# Članak 76.
+Radnik koji je privremeno bio nesposoban za rad zbog ozljede ili ozljede na radu, bolesti ili profesionalne bolesti, a za kojega nakon liječenja, odnosno oporavka, ovlašteni specijalist medicine rada, odnosno ovlašteno tijelo sukladno posebnom propisu, utvrdi da je sposoban za rad, ima se pravo vratiti na poslove na kojima je prethodno radio, a ako je prestala potreba za obavljanjem tih poslova, poslodavac mu je dužan ponuditi sklapanje ugovora o radu za obavljanje drugih odgovarajućih poslova.

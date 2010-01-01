@@ -1,0 +1,7 @@
+# Članak 299.
+(1) Danom pristupanja Republike Hrvatske Europskoj uniji, prestaju važiti odredbe članka 291. ovoga Zakona i članka 294. stavka 1. podstavka 59. ovoga Zakona.
+(2) Poslodavac je, najkasnije u roku od tri mjeseca od dana pristupanja Republike Hrvatske Europskoj uniji, dužan radniku vratiti radnu knjižicu.
+(3) Prije izvršenja povrata radne knjižice, ovlaštena osoba poslodavca je dužna u radnoj knjižici radnika precrtati sve nepopunjene rubrike uz potpis i pečat, te isto evidentirati u rubriku »Bilješke«.
+(4) Poslodavac koji u roku iz stavka 2. ovoga članka nije u mogućnosti radniku vratiti radnu knjižicu, dužan je radnu knjižicu dostaviti uredu državne uprave u županiji, odnosno uredu Grada Zagreba nadležnom za poslove rada, prema mjestu prebivališta radnika, a ako je prebivalište radnika nepoznato, uredu državne uprave u županiji, odnosno uredu Grada Zagreba nadležnom za poslove rada prema mjestu izdavanja radne knjižice.
+(5) Radnom knjižicom vraćenom radniku na način predviđen ovim člankom, radnik se može koristiti u svrhu dokazivanja u postupcima utvrđivanja prava iz mirovinskog, zdravstvenog osiguranja i osiguranja u slučaju nezaposlenosti.
+(6) Svi postupci izdavanja radne knjižice, upisa podataka u radnu knjižicu i zamjene radne knjižice, koji do dana pristupanja Republike Hrvatske Europskoj uniji nisu konačno i pravomoćno dovršeni, obustavit će se po službenoj dužnosti, a radna knjižica vratiti radniku na način predviđen ovim člankom.

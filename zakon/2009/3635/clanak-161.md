@@ -1,0 +1,6 @@
+## Poništenje izbora, raspuštanje radničkog vijeća i isključenje njegova člana
+# Članak 161.
+(1) Radničko vijeće, izborni odbor, poslodavac, sindikati koji imaju svoje članove zaposlene kod određenog poslodavca ili kandidat za radničko vijeće, može od nadležnog suda zahtijevati da u slučaju teške povrede obveze iz ovoga Zakona o provođenju izbora za radničko vijeće, koja je utjecala na rezultate izbora, poništi provedene izbore.
+(2) Ako radničko vijeće ili neki njegov član teško povrijedi obveze dane mu ovim Zakonom, drugim propisom ili kolektivnim ugovorom, ili ako za vrijeme izbornog razdoblja, u odnosu na nekog člana nastupe zapreke za njegovo članstvo u radničkom vijeću, sindikati koji imaju svoje članove zaposlene kod određenoga poslodavca, mogu zatražiti od nadležnog suda da raspusti radničko vijeće ili da isključi određenoga člana, a isto može zatražiti i najmanje dvadeset pet posto radnika zaposlenih kod poslodavca ili poslodavac.
+(3) Ako pri izboru članova radničkog vijeća nije osigurana primjena odredbe članka 138. stavka 3. ovoga Zakona, raspuštanje radničkog vijeća može zatražiti najmanje dvadeset pet posto svih radnika zaposlenih kod poslodavca.
+(4) Sudska nadležnost i rokovi za donošenje odluke o poništenju izbora, raspuštanju radničkog vijeća i isključenju njegovog člana utvrđuju se odgovarajućom primjenom odredbi članka 283. ovoga Zakona.

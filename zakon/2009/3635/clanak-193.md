@@ -1,0 +1,4 @@
+## Primjena glave XVII. poglavlja 5. ovoga Zakona
+# Članak 193.
+(1) Odredbe poglavlja 5. ove glave Zakona primjenjuju se na europsko društvo koje ima ili će imati sjedište u Republici Hrvatskoj.
+(2) Odredbe članka 195. stavka 1. i 3. o odgovornosti poslodavaca iz Republike Hrvatske, članka 196. stavka 6. o utvrđivanju broja radnika, članka 197. o predstavniku radnika iz Republike Hrvatske u pregovaračkom odboru, članka 201. o zaštiti predstavnika radnika u Republici Hrvatskoj, članka 206. stavka 4. o sastavu vijeća radnika europskog društva, članka 210. o suradnji nadležnog organa europskog društva i vijeća radnika europskog društva, primjenjivat će se, bez obzira na sjedište europskog društva, na radnike europskog društva koji su u Republici Hrvatskoj zaposleni kod poslodavca sudionika, ovisnog poslodavca ili zainteresiranog poslodavca europskog društva, koji ima ili će imati sjedište u drugoj državi članici.

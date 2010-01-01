@@ -1,0 +1,6 @@
+## Teret dokazivanja u radnim sporovima
+# Članak 131.
+(1) U slučaju spora iz radnog odnosa, teret dokazivanja leži na osobi koja smatra da joj je neko pravo iz radnog odnosa povrijeđeno, odnosno koja pokreće spor, ako ovim ili drugim zakonom nije drukčije uređeno.
+(2) U slučaju spora oko stavljanja radnika u nepovoljniji položaj od drugih radnika radi obraćanja radnika zbog opravdane sumnje na korupciju ili u dobroj vjeri podnošenja prijave o toj sumnji odgovornim osobama ili nadležnim tijelima državne vlasti, a što je dovelo do povrede nekog od prava radnika iz radnog odnosa, ako radnik učini vjerojatnim da je stavljen u nepovoljniji položaj i da mu je povrijeđeno neko od njegovih prava iz radnog odnosa, teret dokazivanja prelazi na poslodavca, koji mora dokazati da radnika nije stavio u nepovoljniji položaj od drugih radnika odnosno da mu nije povrijedio pravo iz radnog odnosa.
+(3) U slučaju spora zbog otkaza ugovora o radu, teret dokazivanja postojanja opravdanog razloga za otkaz ugovora o radu je na poslodavcu ako je ugovor o radu otkazao poslodavac, a na radniku samo ako je radnik ugovor o radu otkazao izvanrednim otkazom ugovora o radu.
+(4) U slučaju spora u svezi s radnim vremenom, ako poslodavac ne vodi evidenciju iz članka 4. stavka 1. ovoga Zakona na propisani način, teret dokazivanja radnog vremena leži na poslodavcu.
