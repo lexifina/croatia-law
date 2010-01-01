@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Društva za zastupanje u osiguranju, obrti za zastupanje u osiguranju, društva za posredovanje u osiguranju i reosiguranju, banke, Financijska agencija i HP-Hrvatska pošta d.d. iz članka 2. stavka 1. točke 2. ovoga Pravilnika dužni su Agenciji platiti naknadu u visini od 0,8‰ (tisućinki) računano od ostvarenog prihoda odnosno fakturiranog iznosa provizije osiguranja odnosno reosiguranja, koji prethodno navedene pravne i fizičke osobe zaračunavaju za pružene usluge zastupanja u osiguranju ili posredovanja u osiguranju i reosiguranju.
+(2) Naknada iz stavka 1. ovoga članka za društva za zastupanje u osiguranju i društva za posredovanje u osiguranju i reosiguranju, obračunava se na temelju podataka o ostvarenom prihodu od usluga zastupanja u osiguranju ili posredovanja u osiguranju i reosiguranju, po godišnjem izvješću za prethodnu godinu.
+(3) Naknada iz stavka 1. ovoga članka, za obrte za zastupanje u osiguranju, Financijsku agenciju HP - Hrvatsku poštu d.d. te banke, obračunava se na temelju ostvarenoga fakturiranog iznosa provizije po ugovorima o osiguranju, po godišnjem statističkom izvješću za prethodnu godinu.
+(4) Obveznici plaćanja naknade iz stavka 1. ovog članka naknadu izračunavaju primjenom sljedećeg izračuna:
+Ostvaren godišnji prihod po osnovi zastupanja u osiguranju i posredovanja u osiguranju odnosno reosiguranju odnosno fakturirani iznos provizije po ugovorima osiguranju pomnožiti s 0,8‰ (tisućinki)
+(5) Izračunata naknada iz stavka 3. ovoga članka godišnji je iznos obveze plaćanja naknade Agenciji.
+(6) Obveznici plaćanja naknade iz stavka 1. ovog članka, naknadu Agenciji uplaćuju u roku od 15 dana od roka za dostavu godišnjeg financijskog odnosno statističkog izvješća.
