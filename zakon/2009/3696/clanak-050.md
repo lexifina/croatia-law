@@ -1,0 +1,3 @@
+## IX. ZAVRŠNA ODREDBA
+# Članak 50.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2010.
