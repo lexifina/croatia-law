@@ -1,0 +1,9 @@
+# Članak 93.
+(1) Isporuke dobara, osim naftnih derivata, koja putnici u okviru putničkog prometa sami otpreme ili prevezu iz Republike Hrvatske ili to netko obavi u njihovo ime, oslobođene su poreza na dodanu vrijednost. Oslobođenje se ostvaruje kad porezni obveznik koji isporučuje dobra primi dokaz o izvozu dobara.
+(2) Putnik iz stavka 1. ovoga članka odnosno kupac koji u okviru putničkog prometa iznosi dobra kupljena u tuzemstvu pri naknadnom oslobođenju od poreza na dodanu vrijednost ima pravo tražiti povrat poreza za iznesena dobra ako su ispunjeni sljedeći uvjeti:
+a) da putnik nema prebivalište ni uobičajeno boravište na području Republike Hrvatske, što dokazuje putovnicom ili osobnom iskaznicom,
+b) da je ukupna vrijednost kupljenih dobara s porezom na dodanu vrijednost iskazana na jednom računu veća od 740,00 kuna,
+c) da je kupac ili netko u njegovo ime prevezao dobra kupljena u Republici Hrvatskoj u inozemstvo prije isteka roka od tri mjeseca od datuma navedenog na računu za isporučena dobra. Navedena dobra mogu se izvesti iz Republike Hrvatske i putem pošte ili na drugi odgovarajući način.
+d) da postoji dokaz o izvozu, izvornik računa i obrazac PDV-P potvrđen od carinarnice na području koje su dobra iznesena iz Republike Hrvatske. Carinarnica nakon uvida i provedenog carinskog postupka ovjerava otiskom pečata te potpisom i faksimilom ovlaštenog carinskog službenika obrazac PDV-P i upisuje broj evidencije carinarnice i datum prelaska dobara preko granice Republike Hrvatske.
+(3) Oblik i sadržaj obrasca PDV-P je sastavni dio ovoga Pravilnika.
+(4) Na zahtjev kupca koji nema prebivalište ni uobičajeno boravište na području Republike Hrvatske, prodavatelj izdaje obrazac PDV-P. Obrazac PDV-P popunjava se u dva primjerka od kojih se izvornik daje kupcu, a presliku prodavatelj odlaže u svoju dokumentaciju.

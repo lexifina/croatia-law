@@ -1,0 +1,11 @@
+## XI. ISPOSTAVLJANJE RAČUNA
+## 1. OPĆENITO
+# Članak 104.
+(1) Poduzetnik mora za isporučena dobra i obavljene usluge ispostaviti pisani račun najmanje u dva primjerka od kojih se jedan uručuje kupcu, a drugi služi kao isprava za knjiženje.
+(2) Iznimno od odredbe stavka 1. ovoga članka, račun koji se odnosi isključivo na isporuke koje su prema odredbi članka 11.a stavka 1. točke b) do g) Zakona oslobođene plaćanja poreza na dodanu vrijednost može biti ispostavljen elektroničkim putem.
+(3) Poduzetnici koji isporuke dobara i obavljene usluge naplaćuju u gotovini, obvezni su promet iskazivati preko naplatnih uređaja ili na drugi odgovarajući način s tim da za svaku isporuku obvezno izdaju račun.
+(4) Računi za gotovinski promet iz stavka 3. ovoga članka, isječci vrpce ili potvrdnice iz naplatnih uređaja, moraju sadržavati najmanje podatke koji su propisani člankom 15. stavkom 6. Zakona.
+(5) Poduzetnici iz stavka 3. ovoga članka obvezni su na svakom prodajnom mjestu vidno istaknuti obavijest o obvezi izdavanja i uzimanja računa, a kupci su obvezni uzeti račun, isječak vrpce ili potvrdnicu iz naplatnog uređaja i imati ih pri izlasku iz radnje ili drugog poslovnog prostora te ih pokazati na zahtjev ovlaštene osobe.
+(6) Računi iz stavka 4. ovoga članka ne moraju se ispostavljati ako se pretežni dio vrijednosti (preko 50%) isporuka prodajnog mjesta u prethodnoj kalendarskoj godini odnosi na maloprodaju dnevnog tiska, duhana i duhanskih prerađevina, lutrije, športske prognoze, lota, velda, maraka i drugih poštanskih vrijednosnica, kao ni pri prodaji na tržnicama i otvorenim prostorima. Poduzetnici koji počinju poslovati tijekom godine, utvrđuju uvjete iz ovoga stavka na temelju očekivanog odnosa vrijednosti isporuka.
+(7) Pod tržnicama i otvorenim prostorima u smislu Zakona i ovoga Pravilnika, razumijevaju se mjesta koja su određena od strane nadležnih tijela kao tržnice ili mjesta gdje se može prigodno trgovati odnosno obavljati usluge. Prodajom na otvorenim prostorima u smislu ovoga Pravilnika razumijeva se i prodaja karata u sredstvima javnog prijevoza. S prodajom na otvorenim prostorima izjednačena je i prodaja putem automata.
+(8) Oblik i sadržaj obavijesti iz stavka 5. ovoga članka sastavni je dio ovoga Pravilnika.

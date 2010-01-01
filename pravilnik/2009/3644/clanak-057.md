@@ -1,0 +1,5 @@
+## 3. POREZNA OSNOVICA PRI RAZMJENI
+# Članak 57.
+(1) Pri razmjeni i drugim sličnim poslovima porezna osnovica je tržišna vrijednost svakog dobra ili usluge koja je predmet razmjene. Ako se prilikom razmjene dobara ili usluga izvrši i nadoplata u novcu, radi se o razmjeni sličnim poslovima. U tim slučajevima u naknadu se ubraja i primljeno dobro ili obavljena usluga i zaračunani (primljeni) novčani iznos. Kod sudionika koji daje dobro ili uslugu i novac u naknadu ulazi samo isporučeno dobro ili obavljena usluga.
+(2) U naknadu za uslugu dorade može se uračunati pored ugovorene naknade u novcu i vrijednost otpadnog materijala, koji je proizašao iz posla i kojeg naručitelj usluge prepušta davatelju usluge. U tom slučaju postupa se prema članku 12. stavku 2. ovoga Pravilnika.
+(3) Pod razmjenom sličnim poslovima iz stavka 1. ovoga članka smatraju se i poslovi zamjene osobnih automobila »staro za novo«. Kod poduzetnika koji isporučuje novo vozilo u poreznu osnovicu ulazi tržišna vrijednost starog vozila i iznos nadoplate.

@@ -1,0 +1,7 @@
+# Članak 74.
+(1) Usluge u kulturi i s njima usko povezane isporuke dobara javnih ustanova u kulturi ili drugih organizacija u kulturi koje djeluju u javnom interesu oslobođene su plaćanja poreza na dodanu vrijednost i to: muzeja, galerija, arhiva, knjižnica, kazališta, orkestara i drugih glazbeno-scenskih te konzervatorskih i restauratorskih ustanova, ustanova za zaštitu spomenika kulture, umjetničkih organizacija te samostalnih umjetnika uz uvjet da djelatnost obavljaju u skladu s posebnim propisima koji uređuju obavljanje tih djelatnosti.
+(2) Samostalnim umjetnicima iz stavka 1. ovoga članka smatraju se umjetnici koji samostalno obavljaju umjetničku djelatnost kao trajnu ili povremenu djelatnost uz potvrdu strukovne organizacije.
+(3) Umjetničkim organizacijama iz stavka 1. ovoga članka smatraju se umjetničke organizacije upisane u Registar umjetničkih organizacija pri Ministarstvu kulture.
+(4) Uslugama i isporukama iz stavka 1. ovoga članka ne smatraju se usluge i isporuke dobara koje ustanove i druge organizacije za trajnu naobrazbu i kulturu obavljaju kao komercijalne programe (razni tečajevi, radionice i slično).
+(5) Iznimno, poduzetnici iz članka 11. stavka 1. točke m) Zakona mogu odlučiti hoće li s isporukama dobara i usluga koje obavljaju, postupati kao s oporezivim isporukama. O tome su dužni u pisanom obliku izvijestiti nadležnu ispostavu Porezne uprave, u roku iz članka 30. stavka 2. ovoga Pravilnika.
+1.1.12. Usluge i isporuke dobara u vezi s priredbama

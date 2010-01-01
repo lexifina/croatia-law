@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Ako tijela državne vlasti, tijela državne, lokalne i područne (regionalne) samouprave, političke stranke, sindikati i komore koji se prema članku 6. stavku 2. Zakona ne smatraju poduzetnicima, obavljaju gospodarsku ili drugu djelatnost a neoporezivanje te djelatnosti dovelo bi do stjecanja neopravdanih povlastica, Porezna uprava će rješenjem utvrditi da su porezni obveznici za tu djelatnost.
+(2) Jesu li se stekli uvjeti iz stavka 1. ovoga članka procjenjuje Porezna uprava na vlastitu inicijativu ili na prijedlog nekog od poreznih obveznika ili druge zainteresirane osobe s tim da taj prijedlog podrži i komora nadležna za obavljanje te djelatnosti.

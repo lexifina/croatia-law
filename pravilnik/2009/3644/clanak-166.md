@@ -1,0 +1,6 @@
+## XVII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 166.
+(1) Porezni obveznici koji zalihe dobara iskazuju po prodajnim cijenama s uračunanim porezom, pri smanjenju, povećanju ili ukidanju poreza, obvezni su na dan početka primjene propisa kojim se povećava, smanjuje ili ukida porez, obaviti popis dobara na zalihama i utvrditi cijene s uračunanim porezom po novim poreznim stopama.
+(2) Humanitarne organizacije, zdravstvene, obrazovne, kulturne, znanstvene, vjerske i socijalne ustanove, športski amaterski klubovi te tijela državne, lokalne i područne (regionalne) samouprave mogu primljene iznose inozemnih novčanih donacija, za koje su izdane potvrde o primljenim inozemnim novčanim donacijama do 31. prosinca 2009. iskoristiti bez plaćanja poreza na dodanu vrijednost najkasnije do 31. prosinca 2010., a navedene potvrde obvezni su vratiti najkasnije do 15. siječnja 2011. nadležnom Područnom uredu Porezne uprave koja im je potvrdu izdala.
+(3) Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o porezu na dodanu vrijednost »Narodne novine«, br. 60/96., 113/97., 7/99., 112/99., 119/99. -ispravak, 44/00., 63/00., 80/00., 109/00., 54/01., 58/03., 198/03., 55/04., 77/04. -ispravak, 153/05., 79/07., 34/08. i 97/09.)
+(4) Ovaj Pravilnik se objavljuje u »Narodnim novinama«, a stupa na snagu 1. siječnja 2010.

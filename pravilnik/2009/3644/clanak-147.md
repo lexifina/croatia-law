@@ -1,0 +1,3 @@
+# Članak 147.
+(1) Ako tijela državne vlasti, tijela državne, lokalne i područne (regionalne) samouprave, političke stranke, sindikati i komore koji se ne smatraju poduzetnicima iz članka 6. stavka 2. Zakona, obavljaju gospodarsku ili drugu djelatnost a neoporezivanje te djelatnosti dovelo bi do stjecanja neopravdanih povlastica, tada će Porezna uprava rješenjem utvrditi da su porezni obveznici za tu djelatnost.
+(2) U slučaju iz stavka 1. ovoga članka, porezni obveznici moraju podijeliti pretporez u smislu odredbi članka 146. ovoga Pravilnika na dio koji se odnosi na poduzetničku djelatnost koji mogu odbiti i na dio koji se odnosi na obavljanje poslova u okvirima svojeg zakonom utvrđenog djelokruga ili ovlasti koji ne mogu odbiti.

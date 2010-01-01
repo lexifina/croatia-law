@@ -1,0 +1,2 @@
+# Članak 56.
+Porezna osnovica se povećava kada se ostvari viša naknada od ugovorene kao u slučaju dobrovoljne nadoplate primatelja dobra odnosno korisnika usluga ili nekog trećeg. Razlozi koji su doveli do povišenja naknade nisu bitni. Zbog povišenja naknade ispravlja se poreznu osnovicu a time i porez odnosno odbitak pretporeza. Odbitak pretporeza kod primatelja moguć je samo ako je isporučitelj za to povećanje naknade izdao račun prema članku 15. stavku 3. Zakona.

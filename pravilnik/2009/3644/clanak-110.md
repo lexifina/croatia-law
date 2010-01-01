@@ -1,0 +1,4 @@
+## 3. RAČUNI PODUZETNIKA KOJI NISU OBVEZNICI POREZA NA DODANU VRIJEDNOST
+# Članak 110.
+(1) Poduzetnici iz članka 22. stavka 1. Zakona kao i svi drugi poduzetnici i osobe koje nisu obveznici poreza na dodanu vrijednost ne smiju izdavati račune s posebno iskazanim porezom što znači da na računima koje izdaju ne mogu iskazivati podatke iz članka 15. stavka 3. točke 7. i 8. Zakona već samo iznos naknade, a na računu su obvezni naznačiti da nisu u sustavu poreza na dodanu vrijednost.
+(2) Ako poduzetnik ili izdavatelj računa iz stavka 1. ovoga članka, u računu za isporučena dobra i obavljene usluge izdvojeno iskaže porez, iako nije bio ovlašten za izdavanje računa u smislu članka 15. stavka 5. Zakona, obvezan je platiti iskazani iznos poreza. Ova odredba se ne odnosi na izdavatelja računa koji obavi ispravak računa prema članku 8. stavku 3. Zakona.

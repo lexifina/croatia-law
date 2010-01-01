@@ -1,0 +1,4 @@
+# Članak 120.
+(1) U obrascu PDV, pod točkom IV., iskazuje se podatak o poreznoj obvezi obračunskog razdoblja za uplatu ili za povrat. Ako je porez po obavljenim isporukama pod II. veći od iznosa pretporeza u primljenim isporukama iz točke III. ovoga obrasca iskazuje se obveza za uplatu i obrnuto, ako je iznos pretporeza pod III. veći od iznosa obveze pod II. iskazuje se pravo na povrat poreza.
+(2) U obrascu PDV, pod točkom V., iskazuju se podaci o neuplaćenom porezu do dana podnošenja porezne prijave po prethodnom obračunu odnosno o pretplati poreza (poreznom kreditu) iz ranijeg obračunskog razdoblja.
+(3) U obrascu PDV, pod točkom VI., iskazuju se podaci o ukupnoj razlici poreza za uplatu odnosno povrat. Ova razlika rezultat je obračuna poreza za obračunsko razdoblje i prenesene obveze odnosno preplate (kredita) iz prethodne prijave.

@@ -1,0 +1,4 @@
+# Članak 75.
+(1) Plaćanja poreza na dodanu vrijednost oslobođene su usluge i isporuke dobara usko povezane s njima koje obave organizacije iz članka 11. stavka 1. točaka b), g), h), i), l) i m) Zakona u vezi s priredbama ili događanjima organiziranim za prikupljanje sredstava pod uvjetom da se prikupljena sredstva nakon podmirenja troškova vezanih za organizaciju tih priredbi ili događanja koriste u dobrotvorne svrhe odnosno svrhe za koje su te organizacije osnovane. Svrha tih priredbi ili događanja mora biti određena unaprijed što može biti označeno na kartama, plakatima ili oglašeno u javnim medijima. Oslobođenje se odnosi i na prodaju karata za te priredbe ili događanja.
+(2) Pojedina organizacija iz članka 11. stavka 1. točaka b), g), h), i), l) i m) Zakona godišnje može organizirati najviše dvije priredbe ili događanja iz stavka 1. ovoga članka.
+1.1.13. Pretplata za obavljanje djelatnosti javnog radija i televizije

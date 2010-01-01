@@ -1,0 +1,4 @@
+# Članak 37.
+(1) Porezni obveznik, prema članku 6. stavku 1. točki 4. Zakona, je i izdavatelj računa za isporučeno dobro ili obavljenu uslugu na kome je odvojeno iskazan porez na dodanu vrijednost a za izdavanje takvog računa nije ovlašten.
+(2) Izdavateljem računa iz stavka 1. ovoga članka, smatra se poduzetnik iz članka 22. stavka 1. Zakona, kao i svaka druga pravna ili fizička osoba koja inače nije obveznik poreza na dodanu vrijednost pa zbog toga nije ni ovlaštena izdavati račune s posebno iskazanim porezom na dodanu vrijednost.
+(3) Izdavateljem računa iz stavka 1. ovoga članka smatra se i poduzetnik koji obavlja isporuke dobara ili usluga oslobođene poreza na dodanu vrijednost ako na računu za te isporuke iskaže odvojeno porez na dodanu vrijednost, osim u slučaju iz članka 11.a stavka 3. Zakona.

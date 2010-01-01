@@ -1,0 +1,3 @@
+# Članak 130.
+(1) Ako domaćem poduzetniku uslugu obavi poduzetnik sa sjedištem u inozemstvu, domaći poduzetnik obveznik je poreza na dodanu vrijednost prema članku 6. stavku 1. točki 5. Zakona.
+(2) Poduzetnik iz stavka 1. ovoga članka, koji nije stalni porezni obveznik, ne podnosi poreznu prijavu, a porez na vrijednost usluga koje mu je obavio inozemni poduzetnik, a koje se prema odredbama o mjestu oporezivanja oporezuju u tuzemstvu, plaća na propisani uplatni račun do zadnjeg dana u tekućem mjesecu po proteku mjeseca u kome su usluge inozemnog poduzetnika obavljene ili plaćene (predujmljene).

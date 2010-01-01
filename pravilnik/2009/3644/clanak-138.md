@@ -1,0 +1,3 @@
+# Članak 138.
+Ako se porezna osnovica (naknada) promijeni naknadno zbog različitih vrsta popusta ili nemogućnosti naplate, tada poduzetnik koji je isporučio dobro ili obavio uslugu može ispraviti (smanjiti) iznos poreza, tek nakon što poduzetnik kome su isporučena dobra ili obavljene usluge ispravi (smanji) odbitak pretporeza i o tome pisano izvijesti isporučitelja. Ako je porez na dodanu vrijednost obračunan i plaćen pri uvozu odbijen kao pretporez, a naknadno je snižen ili nadoknađen, tada uvoznik mora za pripadni iznos ispraviti odbitak pretporeza. Ispravci se moraju obaviti u obračunskom razdoblju u kojem je promijenjena porezna osnovica.
+1.8. Odbitak pretporeza kod usluga koje poduzetnik sa sjedištem u inozemstvu obavi domaćem poduzetniku
