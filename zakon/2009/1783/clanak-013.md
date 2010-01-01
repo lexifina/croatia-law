@@ -1,0 +1,6 @@
+## Ugovori o kreditu bez roka dospijeća (revolving)
+# Članak 13.
+(1) Potrošač može otkazati ugovor o kreditu bez roka dospijeća, bez naknade, u svakom trenutku, osim ako su stranke ugovorile rok otkazivanja ugovora o kreditu. Navedeni rok ne može biti dulji od mjesec dana.
+(2) Vjerovnik može otkazati ugovor bez roka dospijeća najmanje dva mjeseca unaprijed i o tome je u pisanom obliku ili nekom drugom trajnom mediju dužan obavijestiti potrošača.
+(3) Ako je tako dogovoreno u ugovoru o kreditu, vjerovnik može iz opravdanih razloga otkazati pravo potrošača na povlačenje iznosa iskorištenog kredita kod ugovora o kreditu bez roka dospijeća. Vjerovnik je dužan o otkazivanju i razlozima otkazivanja obavijestiti potrošača u pisanom obliku ili nekom drugom trajnom mediju, kada je to moguće, prije samog otkazivanja, a najkasnije odmah nakon otkazivanja, osim ako je pružanje informacija zabranjeno posebnim propisima.
+(4) Opravdani razlozi iz stavka 3. ovoga članka mogu obuhvaćati opravdanu sumnju o neovlaštenom korištenju kredita, opravdanu sumnju o prijevari vezanoj za kredit, značajno povećanje rizika da potrošač neće ispuniti svoju obvezu otplate kredita vjerovniku i druge slične situacije.

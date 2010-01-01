@@ -1,0 +1,9 @@
+## V. EFEKTIVNA KAMATNA STOPA
+## Izračun efektivne kamatne stope
+# Članak 20.
+(1) Efektivna kamatna stopa, izjednačujući na godišnjoj osnovi sadašnju vrijednost svih obveza (iskorišteni iznos kredita, otplata i naknada), budućih ili postojećih, dogovorenih između vjerovnika i potrošača, izračunava se u skladu s metodologijom definiranom aktom Hrvatske narodne banke kojim se uređuje EKS.
+(2) U svrhu izračuna EKS-a moraju se odrediti ukupni troškovi kredita za potrošača, uz iznimku naknada koje je potrošač dužan platiti za nepoštovanje obveza ugovora o kreditu i drugih naknada osim kupovne cijene za kupnju proizvoda ili usluga koju je potrošač obvezan platiti neovisno o tome provodi li se transakcija u gotovini ili na kredit.
+Troškove upravljanja računom na kojemu su vidljive i transakcije uplata i iskorišteni iznos kredita, troškove uporabe sredstava plaćanja i za transakcije uplata i iskorišteni iznos kredita te sve druge troškove koji se odnose na transakcije uplata potrebno je obuhvatiti ukupnim troškovima kredita za potrošača osim ako je otvaranje računa opcionalno i ako su troškovi računa jasno i zasebno pokazani u ugovoru o kreditu ili u kojemu drugom ugovoru sklopljenom s potrošačem.
+(3) Izračun EKS-a temelji se na pretpostavci da će ugovor o kreditu ostati valjanim tijekom dogovorenog razdoblja te će vjerovnik i potrošač ispuniti svoje obveze prema uvjetima i datumima navedenima u ugovoru o kreditu.
+(4) Kod ugovora o kreditu s promjenjivom kamatnom stopom, pristojbe sadržane u EKS-u, a koje se ne mogu izmjeriti u trenutku izračuna, EKS se izračunava prema pretpostavci da će kamatna stopa i ostale naknade ostati fiksnima u odnosu na početnu kamatnu stopu i da će se primjenjivati do kraja ugovora o kreditu.
+(5) Ako je potrebno, mogu se koristiti i dodatne pretpostavke za izračun EKS-a navedene u Pravilniku.

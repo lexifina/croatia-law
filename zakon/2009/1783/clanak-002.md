@@ -1,0 +1,25 @@
+## Pojmovi
+# Članak 2.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+1. potrošač je fizička osoba koja u transakcijama obuhvaćenima ovim Zakonom djeluje izvan poslovne djelatnosti ili slobodnog zanimanja;
+2. vjerovnik je fizička ili pravna osobu koja na području Republike Hrvatske odobrava ili obećava odobriti kredit u okviru poslovne djelatnosti ili slobodnog zanimanja, a posebno je to:
+- pravna osoba koja posluje prema zakonima koji uređuju poslovanje kreditnih institucija ili kreditnih unija, pravna osoba koja posluje prema zakonima koji uređuju poslovanje institucija za elektronički novac, institucija za platni promet koje pružaju usluge platnog prometa u skladu s posebnim zakonom, pravna osoba koja posluje prema zakonima koji uređuju poslovanje poduzetnika,
+- fizička osoba koja posluje prema zakonima koji uređuju poslovanje obrtnika ili slobodnih zanimanja;
+3. ugovor o kreditu, u smislu ovoga Zakona, je ugovor u kojem vjerovnik odobrava ili obećava odobriti potrošaču kredit u obliku odgode plaćanja, zajma ili slične financijske nagodbe, osim ugovora o trajnom pružanju usluge ili isporuke proizvoda iste vrste kada potrošač plaća za takve usluge ili proizvode tijekom cjelokupne njihove isporuke u obliku obroka;
+4. dopušteno prekoračenje je iznos sredstava koji vjerovnik stavlja na raspolaganje potrošaču na temelju ugovora o tekućem računu sklopljenog u pisanom obliku;
+5. prešutno prihvaćeno prekoračenje je prekoračenje pri kojemu vjerovnik potrošaču stavlja na raspolaganje sredstva koja nadmašuju trenutačno stanje tekućeg računa potrošača ili dogovoreno prekoračenje;
+6. kreditni posrednik je fizička ili pravna osoba koja nije vjerovnik i koja u okviru svojeg posla ili zanimanja, za naknadu u novcu ili u drugom dogovorenom financijskom obliku:
+- prezentira ili nudi ugovore o kreditu potrošačima
+- pomaže potrošačima poduzimanjem pripremnih radnji u vezi s drugim ugovorima o kreditu osim onih iz alineje 1. ove točke, ili
+- sklapa ugovore o kreditu s potrošačima u ime vjerovnika;
+7. ukupni troškovi kredita za potrošača uključuju kamate, naknade, poreze i sve druge naknade koje potrošač mora platiti u vezi s ugovorom o kreditu te koji su poznati vjerovniku, osim troškova javnog bilježnika. Troškovi dodatnih usluga koje se odnose na ugovor o kreditu, posebice premije osiguranja, također su uključeni ako je sklapanje ugovora o pružanju drugih usluga obvezno u cilju dobivanja kredita ili dobivanja kredita prema uvjetima koji vrijede na tržištu;
+8. ukupan iznos koji plaća potrošač jest zbroj ukupnog iznosa kredita i ukupnih troškova kredita za potrošača;
+9. efektivna kamatna stopa (dalje u tekstu: EKS) iskazuje ukupne troškove kredita za potrošača, izražene kao godišnji postotak ukupnog iznosa kredita, uključujući troškove iz članka 20. stavka 2. ovoga Zakona. Određena je metodologijom definiranom aktom Hrvatske narodne banke kojim se uređuje EKS;
+10. kamatna stopa jest kamatna stopa izražena kao fiksni ili varijabilni postotak koja se primjenjuje godišnje na iznos dobivenog kredita;
+11. fiksna kamatna stopa iskazuje da su vjerovnik i potrošač u ugovoru o kreditu dogovorili jedinstvenu kamatnu stopu za cjelokupno trajanje ugovora o kreditu ili nekoliko kamatnih stopa za pojedina razdoblja koristeći se isključivo određenim fiksnim postotkom. Ako u ugovoru o kreditu nisu utvrđene sve kamatne stope, smatra se da je kamatna stopa fiksna samo za djelomična razdoblja za koja se kamatne stope određuju isključivo određenim fiksnim postotkom koji je dogovoren prilikom sklapanja ugovora o kreditu;
+12. ukupan iznos kredita jest gornja granica ili ukupan iznos koji se potrošaču stavlja na raspolaganje prema ugovoru o kreditu;
+13. trajni medij je Pravilnikom propisan instrument koji potrošaču omogućuje pohranu isključivo njemu upućenih informacija na način da ih može koristiti u razdoblju relevantnom za te informacije i koji omogućuje reprodukciju pohranjenih informacija bez ikakve promjene;
+14. povezani ugovor o kreditu jest ugovor u kojem:
+- predmetni kredit služi isključivo za financiranje ugovora o prodaji određenih proizvoda ili o pružanju određenih usluga, te u kojem
+- oba ugovora tvore poslovnu cjelinu. Poslovna cjelina postoji kada dobavljač proizvoda ili pružatelj usluga sam financira kredit za potrošača ili, ako ga financira neka treća strana, kada se vjerovnik koristi uslugama dobavljača proizvoda ili pružatelja usluga u vezi sa sklapanjem ili pripremom ugovora o kreditu, odnosno kada su u ugovoru o kreditu izričito navedeni predmetni proizvodi ili pružanje predmetnih usluga;
+15. potrošačko kreditiranje je pravni posao kojim se jedna ugovorna strana obvezuje drugoj staviti na raspolaganje određeni iznos novčanih sredstava, na određeno ili neodređeno vrijeme, za neku namjenu ili bez utvrđene namjene, a druga se ugovorna strana obvezuje plaćati ugovorene kamate, odnosno ugovorene naknade, te iskorišteni iznos novca vratiti u vrijeme i na način kako je ugovoreno, kao i svaki drugi pravni posao, koji je po svojoj gospodarskoj biti jednak ovome pravnome poslu.
