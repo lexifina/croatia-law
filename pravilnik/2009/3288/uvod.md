@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o prikupljanju podataka po osiguranicima o doprinosima za obvezna mirovinska osiguranja (»Narodne novine« broj 177/04), Upravno vijeće Središnjeg registra osiguranika, na sjednici održanoj 26. listopada 2009. godine donijelo je
