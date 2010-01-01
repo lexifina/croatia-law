@@ -1,0 +1,2 @@
+# Članak 4.
+Predmet izvješćivanja u okviru ove Odluke jesu prihodi koje rezidenti ostvare od usluga obavljenih nerezidentima i rashodi za usluge primljene od nerezidenata. Način izvješćivanja i opis usluga obuhvaćenih istraživanjem sadržan je u Uputi o izvješćivanju o prihodima i rashodima od razmjene usluga s inozemstvom, koja je objavljena na internetskoj stranici Hrvatske narodne banke (www.hnb.hr).
