@@ -1,0 +1,33 @@
+## Glava XII. KAZNENE ODREDBE
+# Članak 72.
+(1) Novčanom kaznom od 50.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. ako priredi igre na sreću iz članka 5. stavka 1. ovoga Zakona a nema odluku Vlade Republike Hrvatske o pravu priređivanja ili odobrenje (članak 3.),
+2. ako priredi igre odnosno djelatnost kod kojih sudionici uplaćuju novčane iznose sudionicima koji su se prije ili poslije njih uključili u igru – lanci sreće (članak 6.),
+3. ako priredi lutrijsku igru na sreću, na što na temelju ovoga Zakona nema pravo (članak 9. stavak 2.),
+4. ako priredi lutrijsku igru na sreću protivno odredbama ovoga Zakona (članak 10., 11., 12., 14., 15. i 19.),
+5. ako ne utvrdi jednogodišnje i trogodišnje planove poslovanja i ne dostavi ih na prethodno mišljenje odnosno suglasnost (članak 9. i 34.),
+6. ako ne utvrdi fond dobitaka prema pravilima igara i sukladno ovom Zakonu (članak 16.),
+7. ako mjesečnu naknadu za priređivanje lutrijskih igara netočno obračuna, ne uplati i dokaz o uplati ne dostavi u propisanim rokovima (članak 17.),
+8. ako pri isplati dobitaka ne obračuna i ne uplati porez na dobitke (članak 18.),
+9. ako prigodnu jednokratnu lutrijsku igru na sreću priredi bez posebnog odobrenja mjerodavnog tijela (članak 20. stavak 2.),
+10. ako prigodne jednokratne igre na sreću priredi protivno odredbama ovoga Zakona (članak 20., 21. i 22.),
+11. ako proda društvo ili promijeni vlasničku strukturu bez odobrenja mjerodavnog tijela (članak 28. stavak 2. i 3.),
+12. ako u propisanom roku ne plati godišnju naknadu (članak 31., članak 38. stavak 1. i 2., članak 51. stavak 1. i 2. te članak 58. stavak 1.),
+13. ako priredi igre na sreću u casinu a nema odluku Vlade Republike Hrvatske i odobrenje za priređivanje igara na sreću u casinu te nije sklopila ugovor o pravu priređivanja (članak 29. i 35.),
+14. ako igre na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja priredi bez odobrenja, sklopljenog ugovora i odobrenja mjerodavnog tijela (članak 29. i 35.),
+15. ako priredi igru na sreću u casinu protivno ovom Zakonu, ugovoru i odobrenju mjerodavnog tijela (članak 30., 36., 37., 40., 41., 42., 44., 45., 62., 63. i 64.),
+16. ako mjesečnu naknadu za priređivanje igara na sreću u casinima netočno obračuna, ne uplati i dokaz o uplati ne dostavi u propisnim rokovima i na propisanim obrascima (članak 38. u svezi s člankom 39. stavkom 1. i 2.),
+17. ako postupi protivno odredbi o utvrđivanju i provjeri identiteta posjetitelja, te ako nastavi priređivati igre u casinu a ne ispunjava neki od propisanih uvjeta (članka 43.),
+18. ako priredi igre klađenja a nema odluku Vlade Republike Hrvatske, odobrenje za priređivanje i nije sklopila ugovor o pravu priređivanja (članak 29. i 46.),
+19. ako priredi igre klađenja protivno odredbama ovoga Zakona, ugovora o pravu priređivanja i odobrenja Ministarstva financija (članak 30., 46., 47., 48., 49., 50., 53., 54. i 55.),
+20. ako mjesečnu naknadu za priređivanje igre klađenja netočno obračuna, ne uplati i dokaz o uplati ne dostavi u propisanim rokovima i na propisanim obrascima (članak 51.u svezi s člankom 55. stavkom 2.),
+21. ako pri isplati dobitaka ne obračuna i ne uplati porez na dobitke (članak 52.),
+22. ako priredi igre na automatima a nema odluku Vlade Republike Hrvatske, odobrenje ili nije sklopila ugovor o pravu priređivanja (članak 29. i 56.),
+23. ako priredi igre na sreću na automatima protivno odredbama ovoga Zakona, ugovoru o pravu priređivanja i odobrenju Ministarstva financija (članak 30., 56., 57., 59., 60., 61., 62., 63. i 64.),
+24. ako mjesečnu naknadu za priređivanje igara na sreću na automatima netočno obračuna, ne uplati i ne dostavi u propisanim rokovima i na propisanim obrascima (članak 58. i 61.),
+25. ako pravna osoba ovlaštena za obavljanje tehničkog pregleda postupi protivno odredbama ovoga Zakona (članak 63. i 64.),
+26. ako postupi protivno odredbama ovoga Zakona koje se odnose na tajnost podataka o igračima i njihovim dobicima (članak 66.),
+27. ako u tiskanim i elektroničkim medijima za mlade oglašava i reklamira igre na sreću (članak 67.),
+28. ako postupa protivno zabrani u svezi s inozemnim igrama na sreću (članak 68.),
+29. ako ovlaštenim djelatnicima prilikom obavljanja nadzora ne omogući pregled poslovne dokumentacije, poslovnih prostorija, pomagala i naprava, ili ako onemogući svakodnevni nadzor cjelokupnoga materijalno – financijskog poslovanja, te nadzor provedbe odredbi koje se odnose na sprečavanje pranja novca i financiranje terorizma (članak 70.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 50.000,00 kuna.

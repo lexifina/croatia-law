@@ -1,0 +1,6 @@
+## Glava IV. IGRE U CASINIMA
+## Pravo priređivanja
+# Članak 35.
+(1) Igre na sreću iz članka 5. stavka 1. točke 2. i 4. ovoga Zakona mogu osim Hrvatske Lutrije d.o.o. priređivati i trgovačka društva koja su na temelju odluke Vlade Republike Hrvatske stekla pravo priređivanja igara na sreću u casinima i koja su sukladno članku 29. ovoga Zakona sklopila ugovor o pravu priređivanja.
+(2) Trgovačkim društvima koja na temelju ovoga Zakona ili odluke iz stavka 1. ovoga članka imaju pravo na priređivanje igara na sreću u casinima može se odobriti pravo priređivanja igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja. Ministar financija propisat će standarde o tehničkim uvjetima sustava priređivanja igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja i to, postupak registracije i identifikacije igrača, uvjete programske podrške (softver) i opreme, certificiranje sustava i igara, postupanje s transakcijama uplata i isplata, sigurnosna načela, uvjete nadzora, načela odgovornog priređivanja i ostalo. Priređivač koji želi na taj način priređivati igre mora svoj sustav priređivanja uskladiti s tehničkim standardima koje propisuje ministar financija.
+(3) Odobrenje za početak priređivanja igara na sreću iz stavka 1. i 2. ovoga članka donosi Ministarstvo financija.

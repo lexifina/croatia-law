@@ -1,0 +1,6 @@
+# Članak 71.
+(1) Ako se u obavljanju nadzora utvrdi da se igre na sreću iz članka 5. i nagradna igra iz članka 69. ovoga Zakona priređuju protivno odredbama ovoga Zakona ili ugovora iz članka 29. ovoga Zakona te protivno pravilima igara, ili da priređivači priređuju igre i unatoč tome što više ne ispunjavaju sve uvjete utvrđene ovim Zakonom ili ugovorom, može se privremeno, a najdulje do osam dana, naredbom odrediti jednu ili više mjera opreza, te u roku od osam dana od dana određivanja mjere opreza podnijeti optužni prijedlog sudu da produlji primjenu mjere opreza.
+(2) Mjera opreza iz stavka 1. ovoga članka izvršava se pečaćenjem ili privremenim oduzimanjem stolova, automata za igre na sreću i opreme, odnosno pečaćenjem poslovnog prostora casina, automat kluba ili uplatnog mjesta kladionice ili bilo kojeg drugog prostora gdje se te igre priređuju.
+(3) Nakon okončanja postupka privremeno oduzeti predmeti trajno se oduzimaju i uništavaju.
+(4) Na utvrđivanje, naplatu i povrat godišnje i mjesečne naknade, žalbeni postupak, zastaru, prekršajni postupak i druge mjere u pogledu obveza i prava propisanih ovim Zakonom na odgovarajući se način primjenjuju odredbe Općega poreznog zakona i Zakona o prekršajima.
+(5) Troškove oduzimanja predmeta, pohranjivanja i uništavanja automata i stolova iz stavka 2. ovoga članka snosi priređivač ili vlasnik.

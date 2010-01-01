@@ -1,0 +1,4 @@
+## Prostorni i tehnički uvjeti za primanje uplata klađenja
+# Članak 47.
+(1) Priređivač koji prima uplate za klađenje na uplatnim mjestima i putem samoposlužnih terminala dužan je ispuniti prostorne i tehničke uvjete propisane ovim Zakonom i propisima donesenima na temelju Zakona.
+(2) Ministar financija propisat će standarde o tehničkim uvjetima sustava priređivanja igara klađenja putem interaktivnih prodajnih kanala on-line igranja, i to postupak registracije i identifikacije igrača, uvjete programske podrške (softvera) i opreme, certificiranje sustava i igara, postupanje s transakcijama uplata i isplata, sigurnosna načela, uvjete nadzora, načela odgovornog priređivanja, broja uplatnih mjesta, broja zaposlenih i ostalo. Priređivač koji na taj način želi priređivati igre klađenja mora svoj sustav priređivanja uskladiti s tehničkim standardima koje propisuje ministar financija.
