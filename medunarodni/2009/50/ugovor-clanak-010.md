@@ -1,0 +1,5 @@
+# Članak 10.
+1. Ne dovodeći u pitanje odredbe članaka od 5. do 9., tijela države ugovornice koja su nadležna za odlučivanje o zahtjevu za razvod braka ili o zakonskom razdvajanju roditelja djeteta koje ima redovito boravište u nekoj drugoj državi ugovornici, ili za poništaj njihova braka, mogu, ako tako predviđa pravo njihove države, poduzeti mjere usmjerene na zaštitu osobe i imovine tog djeteta ako
+a) u vrijeme započinjanja tog postupka jedan od djetetovih roditelja ima redovito boravište u toj državi i ako jedan od njih ima roditeljsku odgovornost glede tog djeteta, i
+b) su nadležnost tih tijela za poduzimanje takvih mjera prihvatili roditelji, odnosno neka druga osoba koja ima roditeljsku odgovornost glede tog djeteta te ako je to u najboljem djetetovom interesu.
+2. Nadležnost predviđena stavkom 1. za poduzimanje mjera za zaštitu djeteta prestaje čim odluka kojom se odobrava ili odbija zahtjev za razvod braka, zakonskim razdvajanjem ili poništajem braka postane konačna, ili se postupci okončaju iz nekog drugog razloga.

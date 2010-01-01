@@ -1,0 +1,4 @@
+# Članak 12.
+1. Sukladno članku 7., tijela države ugovornice na čijem se državnom području nalazi dijete ili imovina koja tom djetetu pripada nadležna su poduzimati privremene mjere za zaštitu osobe ili imovine djeteta kojima je učinak ograničen na područje odnosne države, ako te mjere nisu u suprotnosti s mjerama koje su već poduzela tijela nadležna na temelju članaka 5. do 10.
+2. Mjere poduzete na temelju prethodnog stavka u odnosu na dijete koje ima redovito boravište u državi ugovornici prestaju važiti čim tijela nadležna na temelju članaka 5. - 10. donesu odluku o mjerama zaštite koje može nalagati situacija.
+3. Mjere poduzete na temelju stavka 1. u odnosu na dijete koje ima redovito boravište u državi koja nije ugovornica, prestaju važiti u državi ugovornici u kojoj su te mjere poduzete čim se mjere koje nalaže situacija i koje poduzmu tijela druge države, priznaju u državi ugovornici.

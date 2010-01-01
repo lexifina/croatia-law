@@ -1,0 +1,2 @@
+# Članak 36.
+U svim slučajevima kad je dijete izloženo ozbiljnoj opasnosti nadležna tijela države ugovornice u kojoj su mjere za zaštitu djeteta poduzete ili su u postupku razmatranja, ako su obaviještena da se djetetovo boravište promijenilo, ili da se dijete nalazi u nekoj drugoj državi, obavijestit će tijela te druge države o toj opasnosti i o mjerama koje su poduzete ili koje su u postupku razmatranja.

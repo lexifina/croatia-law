@@ -1,0 +1,3 @@
+# Članak 33.
+1. Ako neko tijelo nadležno na temelju članaka 5. do 10. razmatra smještaj djeteta u obitelj udomitelja ili u ustanovu, ili se predviđa pružanje skrbi putem kafale, ili slične ustanove, i ako bi takav smještaj ili pružanje skrbi bio u drugoj državi ugovornici, to će se tijelo ponajprije konzultirati sa središnjim tijelom ili drugim nadležnim tijelom potonje države. U tu svrhu to će tijelo predati izvješće o djetetu zajedno s razlozima predloženog smještaja ili pružanja skrbi.
+2. Odluka o smještaju ili određivanju skrbi može se donijeti u državi kojoj se zahtjev podnosi samo ako se središnje tijelo ili drugo nadležno tijelo te države suglasilo sa smještajem ili određivanjem skrbi, vodeći računa o najboljim interesima djeteta.

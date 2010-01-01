@@ -1,0 +1,3 @@
+# Članak 19.
+1. Valjanost pravnog posla zaključenog između treće strane i one osobe koja je imala ovlasti postupiti kao djetetov zakonski zastupnik na temelju zakona države u kojoj je pravni posao zaključen ne može se osporavati, a treća strana ne može se smatrati odgovornom samo na temelju toga što ta osoba nije imala ovlast djelovati kao djetetov zakonski zastupnik prema pravu iz odredaba ovoga poglavlja, osim ako je treća strana znala ili je trebala znati da je za roditeljsku odgovornost mjerodavno drugo pravo.
+2. Prethodni se stavak primjenjuje samo ako su pravni posao sklopile osobe koje se nalaze na državnom području iste države.
