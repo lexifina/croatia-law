@@ -1,0 +1,2 @@
+# Članak 96.
+Prihod iz članka 28. stavka 3. i članka 95. stavka 3. ovoga Zakona dijeli se između države i jedinica lokalne samouprave na području gdje se nalaze izvorišta na koje se obračunava naknada za korištenje voda sukladno Zakonu o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93., 69/97., 33/00., 73/00., 127/00., 59/01., 107/01., 117/01., 150/02., 147/03., 132/06., 26/07. – Odluka Ustavnog suda Republike Hrvatske i 73/08.).

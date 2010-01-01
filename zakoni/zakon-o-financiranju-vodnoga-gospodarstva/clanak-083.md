@@ -1,0 +1,6 @@
+# Članak 83.
+Hrvatske vode su ovlaštene provesti kontrolu obračuna i naplate naknade za uređenje voda nad jedinicama lokalne samouprave ili pravnim osobama kojima je povjeren obračun i naplata komunalne naknade te kontrolu obračuna i naplate naknade za korištenje voda i naknade za zaštitu voda nad isporučiteljima vodnih usluga.
+U provedbi kontrole iz stavka 1. ovoga članka ovlašteni zaposlenici Hrvatskih voda imaju pravo pregledati temeljna financijska izvješća i ostale poslovne spise, mjerne uređaje kontroliranih osoba i zabilježiti iskaz zaposlenika kontroliranih osoba.
+O provedenoj kontroli ovlašteni zaposlenik Hrvatskih voda sastavlja zapisnik. Primjerak zapisnika se dostavlja kontroliranoj osobi i Državnoj vodopravnoj inspekciji.
+Ukoliko se utvrde nepravilnosti u obračunu i naplati naknade za uređenje voda ili naknade za zaštitu voda, Hrvatske vode su ovlaštene, sukladno Općem poreznom zakonu, protiv kontroliranih osoba donijeti rješenje o ovrsi neplaćenih iznosa vodnih naknada na temelju vjerodostojne isprave. Vjerodostojna isprava je zapisnik iz stavka 3. ovoga članka ili zapisnik o obavljenoj inspekciji.
+Ako je ovlašteni zaposlenik Hrvatskih voda onemogućen u provedbi kontrole iz ovoga članka, obavijestit će Državnu vodopravnu inspekciju radi provedbe inspekcijskog nadzora.

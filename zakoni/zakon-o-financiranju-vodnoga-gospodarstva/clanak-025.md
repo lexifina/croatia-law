@@ -1,0 +1,6 @@
+# Članak 25.
+Naknadu za korištenje voda obračunavaju i naplaćuju od obveznika Hrvatske vode.
+Naknada za korištenje voda obračunava se i plaća prema stvarno zahvaćenim količinama vode u slučajevima iz članka 23. točke 1. i 3. ovoga Zakona, ali se za kraće razdoblje od jedne godine može plaćati i po procijenjenim količinama zahvaćene vode (privremeni obračun).
+Pravne, odnosno fizičke osobe korisnici vodne snage za proizvodnju električne energije samostalno tj. bez izdavanja posebnoga rješenja ili drugoga pravnog akta obračunavaju i plaćaju naknadu za korištenje voda prema ukupno proizvedenoj količini električne energije izraženoj u kilovatsatu (kWh) u proteklom mjesecu, u rokovima određenim propisom iz članka 76. ovoga Zakona, a po konačnom obračunu naknade za korištenje voda, u rokovima određenim rješenjem iz stavka 5. ovoga članka.
+Pravne, odnosno fizičke osobe korisnici vodne snage, osim korisnika iz stavka 3. ovoga članka, plaćaju naknadu za korištenje voda prema snazi postrojenja izraženoj u kilovatu (kW), u rokovima određenim rješenjem iz stavka 5. ovoga članka.
+Naknada za korištenje voda iz stavka 1. ovoga članka obračunava se rješenjem Hrvatskih voda, po konačnom obračunu, odnosno putem uplatnica, uz koje se izdaje zaseban iskaz obračuna i obračunskih elemenata, po privremenom obračunu.
