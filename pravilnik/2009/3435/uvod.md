@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 5. i članka 51. stavka 4. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine« br. 106/99, 63/00 i 107/07), Upravno vijeće Središnjeg registra osiguranika na svojoj 80. sjednici, uz suglasnost Hrvatske agencije za nadzor financijskih usluga, donijelo je
