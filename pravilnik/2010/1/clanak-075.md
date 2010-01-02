@@ -1,0 +1,7 @@
+# Članak 75.
+(1) Ovlašteni držatelji trošarinskog skladišta i uvoznici energenata obvezni su do 20. dana u mjesecu za protekli mjesec, carinarnici nadležnoj prema svome sjedištu, odnosno prebivalištu, dostaviti Mjesečno izvješće o stanju zaliha, primljenim, proizvedenim, otpremljenim i uvezenim količinama, te obračunatoj trošarini na energente na Obrascu MI-EN, koji je tiskan u Prilogu 29 ovoga Pravilnika i njegov je sastavni dio.
+(2) Uvoznici energenata dostavljaju mjesečno izvješće iz stavka 1. ovoga članka samo za mjesec u kojem su ostvarili uvoz.
+(3) Ovlašteni držatelji trošarinskog skladišta - proizvođači naftnih derivata dostavljaju i Mjesečno izvješće o stanju zaliha, proizvedenim, uvezenim, otpremljenim i prerađenim količinama sirove nafte te uslužnoj preradi sirove nafte na Obrascu MI-NA, koji je tiskan u Prilogu 30 ovoga Pravilnika i njegov je sastavni dio.
+(4) Ovlašteni držatelji trošarinskog skladišta i uvoznici energenata obvezni su do 8. dana u mjesecu za prethodni mjesec podnijeti Izvješće o uplaćenim trošarinama na motorne benzine i plinska ulja za pogon na Obrascu MI-UTE, koji je tiskan u Prilogu 31 ovoga Pravilnika i njegov je sastavni dio.
+(5) Ovlašteni držatelji trošarinskog skladišta obvezni su uz mjesečno izvješće iz stavka 1. i 3. ovoga članka za mjesec prosinac priložiti i popis zaliha sa stanjem na dan 31. prosinca.
+8. Obračunavanje duga i mogućeg trošarinskog duga

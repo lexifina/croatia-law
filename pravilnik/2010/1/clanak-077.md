@@ -1,0 +1,12 @@
+# Članak 77.
+(1) Visina trošarine za ukapljeni naftni plin (u daljnjem tekstu: UNP) obračunava se u iznosu od 0,00 kuna za namjenu grijanja pod sljedećim uvjetima:
+1. da je prilikom uvoza ili otpreme iz trošarinskog skladišta iz dokumentacije i pregleda robe vidljivo da je UNP upakiran u ambalažu prikladnu za grijanje (boce koje se pune za namjenu grijanja),
+2. da je prilikom otpreme UNP iz trošarinskog skladišta ovlaštenog držatelja trošarinskog skladišta korisnicima uz priloženu izjavu u pisanom obliku da će UNP koristiti isključivo za namjenu grijanja, naveden i broj registriranog spremnika u koji se skladišti UNP,
+3. da se UNP za grijanje može iz trošarinskog skladišta otpremati cjevovodima kupcima u stambenim zgradama pripojenim na plinsku mrežu, ili produktovod, koji su direktno spojeni sa mjerilom, postavljenom na izlazu iz trošarinskog skladišta uz uvjet da predstavnik zgrade priloži izjavu u pisanom obliku da se UNP koristi isključivo za namjenu grijanja.
+(2) Ovlašteni držatelj trošarinskog skladišta kada otprema iz trošarinskog skladišta UNP korisnicima iz stavka 1. točke 2. ovoga članka, mora voditi evidenciju o kupcima UNP za namjenu grijanja, na način da pri svakoj prodaji upiše ime i prezime, odnosno naziv kupca, adresu, OIB kupca, serijski broj spremnika ili broj certifikata posude, količinu prodanog UNP za namjenu grijanja, te datum prodaje.
+UNP za grijanje može se otpremati samo kupcima koji posjeduju za spremnike vjerodostojan certifikat posude izdan od strane nadležnog tijela za ocjenu sukladnosti opreme pod tlakom.
+(3) Trošarina se prilikom uvoza UNP za namjenu grijanja obračunava u iznosu od 0,00 kuna i kad je uvoznik krajnji korisnik odnosno kad uvozi za poznatog kupca uz sljedeće uvjete:
+1. uvoznik koji je i krajnji korisnik podnosi izjavu da UNP koristi isključivo za vlastite potrebe i prilaže vjerodostojan certifikat posude izdan od strane nadležnog tijela za ocjenu sukladnosti opreme pod tlakom,
+2. uvoznik koji uvozi UNP za poznatog kupca za namjenu grijanja prilaže narudžbu iz koje je vidljiv serijski broj spremnika ili broj certifikata posude izdan od strane nadležnog tijela za ocjenu sukladnosti opreme pod tlakom i izjavu u pisanom obliku da će UNP koristiti isključivo za namjenu grijanja.
+(4) Evidenciju iz stavka 2 ovoga članka trošarinski obveznik dostavlja na zahtjev nadležnoj carinarnici.
+10. Oslobođenja od plaćanja trošarine na energente u zračnom prometu

@@ -1,0 +1,7 @@
+# Članak 78.
+(1) Ovlašteni držatelj trošarinskog skladišta može otpremati energente iz trošarinskog skladišta za namjene iz članka 79. stavka 1. točka 1. Zakona, oslobođene od plaćanja trošarine pod sljedećim uvjetima:
+1. da osobe koje obavljaju djelatnost zračnog prometa prilože dokumentaciju iz koje se vidi predmet poslovanja, odnosno broj i datum registracije djelatnosti i ime tijela koje je registriralo djelatnost. Dokumentacija mora sadržavati tip zrakoplova za koji se pogonsko gorivo nabavlja, uključivo s njegovim brojem upisa u odgovarajući registar, iz kojeg je vidljivo, da se radi o obavljanju djelatnosti u cilju stjecanja dobiti, odnosno za potrebe javnih tijela, te prijevozne dokumente,
+2. da za svaku otpremu energenta iz trošarinskog skladišta ovlašteni držatelj trošarinskog skladišta ispostavlja račun, ili drugi komercijalni dokument, koji uz ostalo sadrži i napomenu, da su energenti otpremljeni uz oslobođenje od plaćanja trošarine temeljem članka 79. stavka 1. točka 1. Zakona.
+(2) Kod otpreme energenata iz trošarinskog skladišta u izvoz, ukoliko ovlašteni držatelj trošarinskog skladišta neposredno otprema energente iz trošarinskog skladišta u zrakoplov nije obvezan ispostaviti PTD.
+(3) Ovlašteni držatelj trošarinskog skladišta obvezan je voditi evidenciju o kupcima, prodanim količinama i vrstama energenata prema ovom članku, te istu na traženje dostaviti nadležnoj carinarnici.
+11. Oslobođenja od plaćanja trošarine na energente za plovidbu u međunarodnom prometu

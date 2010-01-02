@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Od plaćanja trošarine oslobođeni su trošarinski proizvodi koje ovlašteni držatelj trošarinskog skladišta i oslobođeni korisnik trošarinskih proizvoda koriste kao uzorke za analize za probnu proizvodnju odnosno za kontrolu kvalitete proizvoda u svrhu utvrđivanja i provjere sastava, svojstava, kvalitete ili drugih karakteristika, radi pridobivanja podataka bitnih za industrijska ili komercijalna istraživanja, a u količinama propisanim posebnim propisima.
+(2) Od plaćanja trošarine oslobođeni su trošarinski proizvodi koje ovlašteni držatelj trošarinskog skladišta i oslobođeni korisnik trošarinskih proizvoda unište pod carinskim nadzorom, a što se ne može izvršiti bez prisustvovanja ovlaštenog službenika nadležne carinarnice.
+(3) O namjeri uništenja proizvoda, osobe iz stavka 2. ovoga članka dužne su prethodno nadležnoj carinarnici podnijeti prijavu za uništenje u pisanom obliku. Ovlašteni službenik nadležne carinarnice mora sastaviti zapisnik i u njemu navesti razloge uništenja trošarinskih proizvoda. Primjerak zapisnika treba uručiti ovlaštenom držatelju trošarinskog skladišta i oslobođenom korisniku trošarinskih proizvoda, a izvornik pohraniti u carinarnici.
+VI. OPĆI UVJETI RADA TROŠARINSKOG SKLADIŠTA
+1. Proizvodnja trošarinskih proizvoda

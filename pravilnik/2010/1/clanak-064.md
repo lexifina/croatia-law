@@ -1,0 +1,6 @@
+# Članak 64.
+(1) Bankovnu garanciju moguće je prije isteka roka valjanosti produžiti.
+(2) Ako trošarinski obveznik duhanskih proizvoda podnosi novu garanciju, dug koji je bio osiguran prethodnom garancijom a nije u cijelosti podmiren odnosno mogući dug koji može još nastati, mora novom bankovnom garancijom biti osiguran. Nova bankovna garancija mora sadržavati klauzulu da se iz nje mogu naplatiti i dugovi koji su bili osigurani prethodnom garancijom.
+(3) Ako trošarinski obveznik duhanskih proizvoda prvi puta podnosi bankovnu garanciju za osiguranje plaćanja duga, bankovna garancija neće sadržavati klauzulu iz stavka 2. ovoga članka.
+(4) Izdavatelj garancije može opozvati bankovnu garanciju. Opoziv bankovne garancije dostavlja se u pisanom obliku Carinskoj upravi, poštom preporučeno s povratnicom. Opoziv stupa na snagu osmoga dana od dana njegova prijema od strane Carinske uprave.
+(5) U slučaju opoziva odnosna bankovna garancija vrijedi za sva davanja koja su do dana stupanja na snagu bila osigurana opozvanom garancijom, a izdavatelja garancije može se pozvati na plaćanje duga do isteka produženoga roka važenja garancije iz članka 63. ovoga Pravilnika, računajući od dana stupanja opoziva garancije na snagu.

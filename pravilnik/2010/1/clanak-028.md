@@ -1,0 +1,4 @@
+# Članak 28.
+(1) Ovlašteni držatelj trošarinskog skladišta i oslobođeni korisnik trošarinskih proizvoda obvezni su nadležnu carinarnicu obavijestiti o svim izmjenama koje se tiču podataka u odobrenju kao i statusnih promjena, u roku od osam dana od dana nastanka promjene, odnosno od dana saznanja za izvršenu promjenu.
+(2) Trošarinsko odobrenje prestaje važiti kada ovlašteni držatelj trošarinskog skladišta- fizička osoba, odnosno oslobođeni korisnik, umre, kada pravna osoba koja je nositelj toga statusa prestane postojati, te u slučaju vraćanja trošarinskog odobrenja nadležnoj carinarnici i kada carinarnica ukida trošarinsko odobrenje.
+(3) Nadležna carinarnica ukida odobrenje po službenoj dužnosti u slučajevima propisanim člankom 25. stavkom 2. i člankom 29. stavkom 2. Zakona. Kod ocjene o postojanju razloga za pokretanje postupka po službenoj dužnosti, nadležna carinarnica uzima u obzir sve činjenice i dokaze koje upućuju na potrebu zaštite javnog interesa.

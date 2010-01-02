@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Bankovnu garanciju moguće je prije isteka roka valjanosti produžiti.
+(2) Ako ovlašteni držatelj trošarinskog skladišta podnosi novu garanciju, trošarinski dug koji je bio osiguran prethodnom garancijom a nije u cijelosti podmiren odnosno mogući trošarinski dug koji može još nastati, moraju novom bankovnom garancijom biti osigurani. Nova bankovna garancija mora sadržavati klauzulu da se iz nje mogu naplatiti i trošarinski dugovi koji su bili osigurani prethodnom garancijom.
+(3) Ako ovlašteni držatelj trošarinskog skladišta prvi puta podnosi bankovnu garanciju za osiguranje plaćanja trošarinskog duga, bankovna garancija neće sadržavati klauzulu iz stavka 2. ovoga članka.
+(4) Izdavatelj garancije može opozvati bankovnu garanciju. Opoziv bankovne garancije dostavlja se u pisanom obliku Carinskoj upravi, poštom preporučeno s povratnicom. Opoziv stupa na snagu osmoga dana od dana njegova prijema od strane Carinske uprave.
+(5) U slučaju opoziva odnosna bankovna garancija vrijedi za sva davanja koja su do dana stupanja na snagu bila osigurana opozvanom garancijom, a izdavatelja garancije može se pozvati na plaćanje trošarinskog duga do isteka produženog roka važenja garancije iz članka 21. ovoga Pravilnika, računajući od dana stupanja opoziva garancije na snagu.

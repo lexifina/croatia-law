@@ -1,0 +1,5 @@
+# Članak 10.
+(1) U trošarinskom skladištu se mogu proizvoditi, obrađivati, prerađivati i dorađivati samo trošarinski proizvodi, a drugi proizvodi samo ukoliko su nusproizvodi te djelatnosti. Zadržavanje tih drugih proizvoda u trošarinskom skladištu je dozvoljeno samo uz prethodno odobrenje nadležne carinarnice, navedeno u trošarinskom odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište.
+(2) U trošarinskom skladištu se mogu nalaziti samo one sirovine i poluproizvodi te drugi proizvodi koji su potrebni za proizvodnju, obradu, preradu i doradu trošarinskih proizvoda. Zadržavanje tih sirovina, odnosno poluproizvoda te drugih proizvoda u trošarinskom skladištu je dozvoljeno samo uz prethodno odobrenje nadležne carinarnice, navedeno u trošarinskom odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište.
+(3) U istom trošarinskom skladištu se može proizvoditi samo jedna kategorija trošarinskih proizvoda (alkohol i alkoholna pića, ili duhanski proizvodi, ili energenti).
+2. Skladištenje trošarinskih proizvoda
