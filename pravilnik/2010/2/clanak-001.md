@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se, do uspostave kartičnog poslovanja, sadržaj, oblik i način korištenja obrazaca za kontrolu potrošnje plinskih ulja za namjene u poljoprivredi, ribolovu i akvakulturi, te označavanje i bojanje plinskih ulja.
+(2) Propisuju se i pokazatelji prava na godišnju potrošnju plinskog ulja obojanog plavom bojom na koje ostvaruju pravo korisnici izravnih plaćanja u poljoprivredi radi obavljanja poljoprivredne djelatnosti, definirani prema posebnim propisima, te korisnici prava na potrošnju plinskog ulja za namjene u ribarstvu iz članka 77. stavka 2. Zakona o trošarinama (u daljnjem tekstu: Zakon).
