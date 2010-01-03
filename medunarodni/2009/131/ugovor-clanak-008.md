@@ -1,0 +1,3 @@
+# Članak 8.
+1. Ovaj Ugovor ostaje na snazi za razdoblje od jedne godine (1) i nakon toga se prešutno produžuje za sljedeće razdoblje od jedne godine (1), ukoliko jedna ugovorna stranka diplomatskim putem, u pisanom obliku, ne obavijesti drugu ugovornu stranku o svojoj namjeri da otkaže ovaj Ugovor, najmanje tri (3) mjeseca prije isteka ovoga Ugovora.
+2. Svaka ugovorna stranka može, iz razloga nacionalne sigurnosti, unutarnjeg reda i javnog zdravlja, potpuno ili djelomice suspendirati provedbu ovog Ugovora. Ova suspenzija i njen prestanak bit će priopćeni diplomatskim putem, u pisanom obliku drugoj ugovornoj stranci.
