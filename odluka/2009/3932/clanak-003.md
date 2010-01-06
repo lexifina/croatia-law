@@ -1,0 +1,2 @@
+# Članak 3.
+Prirez porezu na dohodak plaćaju fizičke osobe, rezidenti, obveznici poreza na dohodak od nesamostalnog rada, poreza na dohodak od samostalne djelatnosti, poreza na dohodak od imovine i imovinskih prava, poreza na dohodak od kapitala, poreza na dohodak od osiguranja i drugog dohotka koji imaju prebivalište ili uobičajeno boravište na području Grada Našica, i nerezidenti koji su na području Grada Našica ostvarili dohodak, sukladno odredbama Zakona o porezu na dohodak i Pravilnika o porezu na dohodak.
