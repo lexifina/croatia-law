@@ -1,0 +1,9 @@
+# Članak 5.
+Zbirka DNK profila sadrži:
+- naziv tijela nadležnog za unos podataka,
+- mjesto i vrijeme uzimanja bioloških uzoraka,
+- DNK profil,
+- Potpune ili djelomične DNK profile tragova izuzetih s mjesta događaja,
+- podatke o osobi kojoj su uzeti uzorci radi molekularno - genetske analize: ime i prezime, matični broj, osobni identifikacijski broj, spol, ime i prezime oca, datum rođenja, ime i prezime te djevojačko prezime majke, mjesto rođenja, država rođenja, mjesto prebivališta, ulica i kućni broj, nadimak, lažno ime ili alias, zanimanje, zvanje, bračno stanje, državljanstvo, za stranca vrsta isprave za prelazak državne granice, broj i datum izdavanja te isprave, podatak o tijelu koje je tu ispravu izdalo te rok važenja isprave,
+- naziv kaznenog djela za koje je osoba osumnjičena,
+- podatke o tome da li je DNK profil u sustavu CODIS (Combined DNA Indeks System).
