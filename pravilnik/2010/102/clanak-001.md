@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o teorijskom i praktičnom stručnom obrazovanju vježbenika u pravosudnim tijelima (»Narodne novine«, broj 96/09) u članku 7. stavak 2. podstavak 1. riječi: »5 dana« zamjenjuju se riječima: »2 dana«, u podstavku 2. riječi: »17 dana« zamjenjuju se riječima: »20 dana«, u podstavku 3. riječi: »17 dana« zamjenjuju se riječima: »20 dana« i u podstavku 9. riječi: »5 dana« zamjenjuju se riječima: »2 dana«.
