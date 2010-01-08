@@ -1,0 +1,5 @@
+## Pohrana dokumentacije
+# Članak 58.
+(1) Dokumentaciju žičare koja se navodi u članku 57. stavku 1. ovog Pravilnika mora dostaviti glavni izvođač ili njegov ovlašteni predstavnik tijelu koje je odgovorno za izdavanje odobrenja za građenje žičara, a njihova preslika će se čuvati na žičarama, sukladno članku 57. stavku 2. ovog Pravilnika.
+(2) Dokumentacija iz stavka 1. ovog članka treba sadržati sve podatke koji se odnose na karakteristike ugradnje i, ovisno o slučaju, sve dokumente koji potvrđuju sukladnost podsustava žičara koji se navode u članku 3. stavku 4. ovog Pravilnika i sigurnosnih komponenti koje se navode u članku 3. stavku 5. ovog Pravilnika. Dokumentacija treba sadržavati i upute koje utvrđuju neophodne radne uvjete i radna ograničenja i sve podatke za nadzor, servisiranje, prilagodbe i održavanje.
+(3) Dokumentaciju žičare iz stavka 1. i 2. ovog članka te »Knjigu žičare« i »Dnevnik žičare« prema članku 51. ovog Pravilnika, treba čuvati najmanje 5 godina od dana uklanjanja žičare.
