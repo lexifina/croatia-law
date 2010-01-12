@@ -1,0 +1,8 @@
+## II. PRIJAVA DRŽAVNE POTPORE
+## Obrazac prijave državne potpore
+# Članak 2.
+(1) Prijedlog akta koji sadrži prijedlog državne potpore i koji se dostavlja na usvajanje Vladi Republike Hrvatske iz članka 11. stavka 1. Zakona o državnim potporama, te prijedlog državnih potpora iz članka 12. stavka 1. Zakona o državnim potporama (dalje: prijedlog akta), davatelj državne potpore dužan je dostaviti Agenciji u pisanom obliku.
+(2) Uz prijedlog akta koji sadrži prijedlog državne potpore odnosno uz prijedlog državne potpore iz stavka 1. ovog članka, davatelj državne potpore dužan je dostaviti Agenciji i Obrazac prijave državne potpore (dalje: Obrazac prijave) u pisanom i elektroničkom obliku. Obrazac prijave nalazi se u Dodatku I.1. ovog Pravilnika a preuzima se na internetskoj stranici Agencije www.aztn.hr.
+(3) Davatelj državne potpore ispunjava Obrazac prijave sukladno Uputi za popunjavanje Obrasca koja se nalazi u Dodatku I.2. ovog Pravilnika i čini njegov sastavni dio te je objavljena na internetskoj stranici Agencije www.aztn.hr.
+(4) Prijedlog akta koji sadrži prijedlog državne potpore odnosno prijedlog državne potpore iz stavka 1. ovog članka i Obrazac prijave iz stavka 2. ovog članka, koji su dostavljeni u pisanom obliku, potpisuje i ovjerava ovlaštena osoba davatelja državne potpore. Obrazac prijave iz stavka 2. ovog članka u elektroničkom obliku dostavlja se na odgovarajućem elektroničkom mediju.
+(5) Uz prijedlog akta koji sadrži prijedlog državne potpore odnosno uz prijedlog državne potpore iz stavka 1. ovog članka, te Obrasca prijave iz stavka 2. ovog članka, davatelj državne potpore dužan je dostaviti Agenciji i sve podatke i isprave koje su potrebne za provedbu postupka sukladnosti državne potpore s odredbama Zakona o državnim potporama.
