@@ -1,0 +1,2 @@
+# Članak 2.
+Od dana stupanja na snagu ovog Pravilnika, uz tiskanice Prijava/Odjava/Promjena u obveznom zdravstvenom osiguranju iz članka 1. ovog Pravilnika primjenjuju se i tiskanice iz članka 4. Pravilnika o izmjenama i dopunama Pravilnika o načinu prijavljivanja i odjavljivanja te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju (»Narodne novine« broj 91/09.) zaključno do 31. prosinca 2010. godine.
