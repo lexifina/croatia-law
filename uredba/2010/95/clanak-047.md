@@ -1,0 +1,4 @@
+## VI. ZAMJENA BRODA
+# Članak 47.
+Kada to zahtijevaju prometne potrebe za vrijeme trajanja koncesije davatelj koncesije može odobriti na zahtjev koncesionara da se na nekoj liniji umjesto broda za koji je dana koncesija koristi brod manjeg ili većeg kapaciteta, uz uvjet da se radi o manjem odstupanju i da to ne utječe na kvalitetu prijevoza, sve u cilju redovitog obavljanja javnog prijevoza na toj liniji.
+U cilju racionalizacije, davatelj koncesije može odobriti na zahtjev koncesionara da se na nekoj liniji veći broj brodova manjeg kapaciteta zamijeni sa manjim brojem mlađih i tehnološki novijih brodova većeg kapaciteta iznimno uz odgovarajuće smanjenje broja putovanja, pod uvjetom poštivanja zadanog kapaciteta odnosno da ne dođe do smanjenja ukupnog kapaciteta, da se ne ugrozi odnosno pogorša povezivanje otoka s kopnom i da se ne poveća potpora.

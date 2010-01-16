@@ -1,0 +1,1 @@
+Na temelju članka 39. i članka 46. stavka 3. Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine« br. 33/2006, 38/2009 i 87/2009), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 2009. godine donijela
