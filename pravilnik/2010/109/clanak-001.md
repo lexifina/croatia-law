@@ -1,0 +1,12 @@
+# Članak 1.
+U Pravilniku o pošiljkama koje se mogu uvoziti bez rješenja kojim se utvrđuju veterinarski uvjeti za uvoz pošiljaka (»Narodne novine«, broj 73/09 i 100/09) članak 3. mijenja se i glasi:
+»Pošiljke živih životinja koje se mogu uvoziti bez rješenja su:
+1. Pošiljke svih vrsta živih životinja podrijetlom iz Europske unije, osim životinja namijenjenih za rasplod, centre za sakupljanje sjemena, jajnih stanica i zametaka, te životinja namijenjenih cirkusima, zoološkim vrtovima i trgovinama za prodaju kućnih ljubimaca;
+2. Pošiljke sljedećih vrsta živih životinja podrijetlom iz trećih zemalja:
+a) Registrirani kopitari ukoliko ih pri unošenju na područje Republike Hrvatske prati identifikacijski dokument propisan od nadležnog tijela zemlje izvoznice, odnosno putovnica i veterinarski certifikat. Registrirane kopitare podrijetlom iz Republike Hrvatske mora pratiti identifikacijski dokument, odnosno putovnica propisana Pravilnikom o identifikaciji i registraciji kopitara (»Narodne novine«, broj 123/09);
+b) Insekti oprašivači i predatori za biološko suzbijanje štetnika, za oprašivanje voća i povrća ili biološko suzbijanje štetnika na voću i povrću isključivo u staklenicima i plastenicima, ukoliko ih prati rješenje za uvoz oprašivača i predatora za biološko suzbijanje štetnika izdano od Ministarstva kulture, Uprave za zaštitu prirode;
+c) Pčele i bumbari koji se koriste za oprašivanje voća i povrća isključivo u staklenicima i plastenicima, pod uvjetom da ih prati rješenje za uvoz oprašivača izdano od Ministarstva kulture, Uprave za zaštitu prirode;
+d) Insekti koji se uvoze u znanstvene svrhe;
+e) Živi mamci za primamu ribe ukoliko uvoznici imaju rješenje o odobrenju ili registraciji objekta uvoznika u skladu s Pravilnikom o registraciji i odobravanju objekata u kojima posluju subjekti u poslovanju s hranom za životinje (»Narodne novine«, broj 72/08) i Pravilnikom o higijeni hrane za životinje (»Narodne novine«, broj 41/08) i ukoliko ih prati rješenje za uvoz živih mamaca za primamu ribe izdano od Ministarstva kulture, Uprave za zaštitu prirode;
+f) Laboratorijske životinje koje se koriste u znanstvenim istraživanjima;
+g) Kućni ljubimci na koje se ne odnosi Pravilnik o veterinarskim uvjetima za nekomercijalno kretanje kućnih ljubimaca (»Narodne novine« 72/07, 102/07, 04/08, 30/08, 39/08 i 52/08) osim kućnih ljubimaca namijenjenih trgovinama za prodaju kućnih ljubimaca.«
