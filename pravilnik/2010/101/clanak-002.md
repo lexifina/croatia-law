@@ -1,0 +1,24 @@
+# Članak 2.
+Uvjeti iz članka 1. ovoga Pravilnika osigurat će se u sljedećim rokovima:
+- u Prekršajnom sudu u Delnicama, kojem je spojen Prekršajni sud u Čabru, do 31. prosinca 2010. godine.
+- u Prekršajnom sudu u Ivanić Gradu, kojem je spojen Prekršajni sud u Čazmi, do 31. prosinca 2010. godine.
+- u Prekršajnom sudu u Kninu, kojem je spojen Prekršajni sud u Drnišu, do 31. prosinca 2010. godine.
+- u Prekršajnom sudu u Vukovaru, kojem je spojen Prekršajni sud u Iloku, do 31. prosinca 2011. godine.
+- u Prekršajnom sudu u Metkoviću, kojem su spojeni Prekršajni sud u Vrgorcu i Pločama, do 31. prosinca 2011. godine.
+- u Prekršajnom sudu u Zadru, kojem su spojeni Prekršajni sud u Biogradu n/M, Benkovcu i Obrovcu, do 31. prosinca 2011. godine.
+- u Prekršajnom sudu u Čakovcu, kojem je spojen Prekršajni sud u Prelogu, do 31. prosinca 2012. godine.
+- u Prekršajnom sudu u Zaboku, kojem je spojen Prekršajni sud u Klanjcu, do 31. prosinca 2012. godine.
+- u Prekršajnom sudu u Gospiću, kojem su spojeni Prekršajni sud u Korenici, Gračacu i Otočcu, do 31. prosinca 2012. godine.
+- u Prekršajnom sudu u Pazinu, kojem su spojeni Prekršajni sud u Buzetu i Labinu, do 31. prosinca 2013. godine.
+- u Prekršajnom sudu u Valpovu, kojem je spojen Prekršajni sud u Donjem Miholjcu, do 31. prosinca 2013. godine.
+- u Prekršajnom sudu u Kutini, kojem je spojen Prekršajni sud u Novskoj, do 31. prosinca 2014. godine.
+- u Prekršajnom sudu u Koprivnici, kojem je spojen Prekršajni sud u Đurđevcu, do 31. prosinca 2015. godine.
+- u Prekršajnom sudu u Daruvaru, kojem su spojeni Prekršajni sud u Garešnici, Grubišnom Polju i Pakracu, do 31. prosinca 2016. godine.
+- u Prekršajnom sudu u Virovitici, kojem su spojeni Prekršajni sud u Pitomači, Orahovici i Slatini, do 31. prosinca 2017. godine.
+- u Prekršajnom sudu u Zlataru, kojem je spojen Prekršajni sud u Donjoj Stubici, do 31. prosinca 2017. godine.
+- u Prekršajnom sudu u Sisku, kojem su spojeni Prekršajni sud u Glini, Hrvatskoj Kostajnici i Petrinji, do 31. prosinca 2018. godine.
+- u Prekršajnom sudu u Varaždinu, kojem su spojeni Prekršajni sud u Ivancu, Ludbregu i Novom Marofu, do 31. prosinca 2018. godine.
+- u Prekršajnom sudu u Karlovcu, kojem su spojeni Prekršajni sud u Ogulinu, Ozlju, Slunju, Jastrebarskom i Dugoj Resi, do 31. prosinca 2018. godine.
+- u Prekršajnom sudu u Krapini, kojem je spojen Prekršajni sud u Pregradi, do 31. prosinca 2018. godine.
+- u Prekršajnom sudu u Splitu, kojem su spojeni Prekršajni sud u Solinu, Trogiru, Kaštel Sućurcu i Omišu, do 31. prosinca 2019. godine.
+- u Prekršajnom sudu u Vrbovcu, kojem su spojeni Prekršajni sud u Sv. Ivanu Zelini i Dugom Selu, do 31. prosinca 2019. godine.
