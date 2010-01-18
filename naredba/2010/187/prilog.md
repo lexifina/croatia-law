@@ -1,0 +1,25 @@
+PRILOG 1
+POPIS RAČUNA ZA REDOVNO POSLOVANJE PRORAČUNA ŽUPANIJA I GRADOVA/OPĆINA PO ŽUPANIJAMA
+- za uplatu javnih prihoda -
+Naziv županije/grada/općine
+Broj računa
+Oznaka grada/općine
+Mjerodavna ispostava Porezne uprave
+III. SISAČKO-MOSLAVAČKA ŽUPANIJA
+(sjedište u Sisku)
+GVOZD
+2340009-1851000007
+510
+GVOZD
+IV. KARLOVAČKA ŽUPANIJA
+(sjedište u Karlovcu)
+SABORSKO
+2500009-1837800000
+378
+OGULIN
+XVIII. ISTARSKA ŽUPANIJA
+(sjedište u Pazinu)
+MOTOVUN - MONTONA
+2380006-1827400001
+274
+PAZIN
