@@ -1,0 +1,7 @@
+# Članak 7.
+Pošiljke živih mekušaca i rakova namijenjene centrima za pročišćavanje, otpremnim centrima i sličnim djelatnostima prije uporabe za prehranu ljudi mora pratiti certifikat o zdravlju životinja ispunjen u skladu s obrascem iz Dodatka II. Dijela B i odredbama Dodatka V. ovoga Pravilnika, ukoliko:
+(a) se unose u zemlju, zone ili kompartmente odnosno nakon pristupanja Republike Hrvatske u članstvo Europske unije, na područje država članica:
+- koji su proglašeni slobodnim od jedne ili više neegzotičnih bolesti navedenih u Dodatku IV. Dijelu II. Pravilnika o uvjetima zdravlja životinja koji se primjenjuju na životinje akvakulture i njihove proizvode te sprječavanju i suzbijanju određenih bolesti akvatičnih životinja4 u skladu s člancima 49. i 50. navedenog Pravilnika; ili
+- u kojima se provodi program nadziranja ili iskorjenjivanja bolesti u skladu s člankom 44. stavkom 1. ili 2. Pravilnika o uvjetima zdravlja životinja koji se primjenjuju na životinje akvakulture i njihove proizvode te sprječavanju i suzbijanju određenih bolesti akvatičnih životinja5;
+(b) pripadaju vrstama prijemljivim na jednu ili više bolesti za koje je zemlja, država članica, zona ili kompartment proglašen slobodnim od bolesti ili za koje se primjenjuje program nadziranja ili iskorjenjivanja bolesti u skladu s točkom (a) ovoga članka.
+Životinje akvakulture i njihovi proizvodi koji se otpremaju iz zemlje, zona i kompartmenta u kojima se provode mjere kontrole bolesti te programi iskorjenjivanja bolesti.
