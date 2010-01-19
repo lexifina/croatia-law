@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o elektromagnetskoj kompatibilnosti (EMC) (»Narodne novine«, broj 112/08.) u članku 8. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Rješenjem o ovlasti iz stavka 1. ovoga članka tijelu za ocjenjivanje sukladnosti određuje se identifikacijski broj pod kojim se ovlašteno tijelo za ocjenjivanje sukladnosti vodi na popisu ovlaštenih tijela za obavljanje postupka ocjenjivanja sukladnosti električne i druge tehničke opreme. Ovlašteno tijelo upisuje svoj identifikacijski broj u izdanu potvrdu o sukladnosti električne i druge tehničke opreme. Popis ovlaštenih tijela za obavljanje postupka ocjenjivanja sukladnosti električne i druge tehničke opreme vodi Ministarstvo, koje ga redovito dopunjuje i objavljuje na svojim internetskim stranicama.«
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »važi do ukidanja« zamjenjuju se riječima: »može se vremenski ograničiti ili važiti do ukidanja«.
+Dosadašnji stavci 6., 7., 8., 9., 10., 11. i 12. postaju stavci 7., 8., 9., 10., 11., 12. i 13.
+U dosadašnjem stavku 10., koji je postao stavak 11., riječi: »stavka 9.« zamjenjuju se riječima: »stavka 10.«, a u dosadašnjem stavku 12., koji je postao stavak 13., riječi: »stavka 11.« zamjenjuju se riječima: »stavka 12.«.
