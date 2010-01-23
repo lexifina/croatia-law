@@ -1,0 +1,4 @@
+## II. ZAŠTITA PRAVA
+# Članak 6.
+(1) Zatvorenik može podnijeti usmenu ili pisanu pritužbu ili određeni zahtjev upravitelju. O poduzetom u povodu pritužbe, odnosno zahtjeva upravitelj će u roku od tri dana obavijestiti zatvorenika.
+(2) Protiv odluke, mjere ili postupka upravitelja ili drugog zatvorskog službenika za koje zatvorenik smatra da mu se nezakonito prikraćuje ili ograničava njegovo pravo, zatvorenik može podnijeti usmenu ili pisanu pritužbu predsjedniku suda koji je odredio istražni zatvor radi ostvarivanja zaštite o dokazivim povredama njegovih prava tijekom istražnog zatvora (u daljnjem tekstu: nadležni sud). Predsjednik nadležnog suda će donijeti odluku primjenjujući ovlasti suca izvršenja u svezi sa zahtjevom za zaštitu prava zatvorenika propisanih Zakonom o izvršavanju kazne zatvora.

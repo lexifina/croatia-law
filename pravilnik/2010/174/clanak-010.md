@@ -1,0 +1,6 @@
+## IV. DOPUŠTENE STVARI
+# Članak 10.
+(1) Zatvoreniku je u istražnom zatvoru dopušteno koristiti predmete za osobnu uporabu: rublje, odjeću i obuću, posteljno rublje (plahte, jastučnice, deke i ručnici), naočale, sat, vjenčani prsten, prsten, ogrlica, narukvica, ortopedska pomagala, fotografije, pribor za pisanje, medicinsku dokumentaciju i dokumentaciju vezanu za kazneni postupak, cigarete i pribor za pušenje, sredstva i pribor za održavanje osobne higijene (osim boca pod pritiskom), radio prijamnik, u količini i veličini koja ne ometa boravak u prostoriji i ne remeti kućni red i sigurnost, a nakon izvršene detaljne pretrage stvari.
+(2) Osobne isprave zatvorenika pohranjuju se na polog, o čemu se zatvoreniku daje potvrda.
+(3) Stvari iz stavka 1. ovoga članka mogu se privremeno oduzeti i čuvati na pologu iz razloga sigurnosti, o čemu se zatvoreniku daje potvrda. Zatvorenik u odnosu na privremeno oduzimanje stvari ima pravo pritužbe upravitelju zatvora. Ukoliko upravitelj ne odobri vraćanje stvari, zatvorenik ima pravo podnijeti pritužbu nadležnom sudu.
+(4) Upravitelj zatvora može odobriti zatvoreniku korištenje i drugih stvari koje nisu navedene u stavku 1. ovoga članka, u količini i veličini koja ne ometa boravak u prostoriji i ne remeti kućni red i sigurnost.

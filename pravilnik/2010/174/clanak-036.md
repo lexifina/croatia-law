@@ -1,0 +1,2 @@
+# Članak 36.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama« u odnosu na istražni zatvor određen na temelju Zakona o kaznenom postupku (»Narodne novine« broj: 152/08. i 76/09.) za kaznena djela iz članka 21. Zakona o uredu za suzbijanje korupcije i organiziranog kriminaliteta (»Narodne novine« br. 82/01, 12/02, 33/05. i 43/05. - ispravak), a u odnosu na ostala kaznena djela stupa na snagu 1. rujna 2011. godine.
