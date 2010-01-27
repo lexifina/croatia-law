@@ -1,0 +1,1 @@
+Na temelju članka 33. točke 3. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 163/98. i 86/03.) i članka 32. stavka 2. Uredbe o medicinskom vještačenju u mirovinskom osiguranju (»Narodne novine«, broj 73/09.), ravnatelj Hrvatskog zavoda za mirovinsko osiguranje donosi
