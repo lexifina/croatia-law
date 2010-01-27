@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Mirovinsko društvo dostavlja izvještaje iz članka 3. ovog Pravilnika Agenciji u elektronskom obliku na način propisan u tehničkoj uputi Agencije.
+(2) Iznimno od stavka 1. ovog članka mirovinsko društvo dostavlja Agenciji u pisanom obliku revidirane godišnje financijske izvještaje, odnosno izvješće ovlaštenog revizora o obavljenoj reviziji godišnjih financijskih izvještaja i godišnje izvješće.
+(3) Mirovinsko društvo obvezno je dostaviti sukladno stavku 1. ovog članka u elektronskom obliku revidirane godišnje financijske izvještaje do 30. travnja sljedeće godine samo ako se podaci iz istih razlikuju od podataka iz nerevidiranih godišnjih financijskih izvještaja dostavljenih u roku iz članka 5. stavak 3. ovog Pravilnika.
+(4) Mirovinsko društvo je obvezno svakom članu mirovinskog fonda kojim mirovinsko društvo upravlja dostaviti godišnje financijske izvještaje iz članka 3. ovog Pravilnika na njegov zahtjev bez naplate u roku 15 dana od dana zahtjeva. Član može podnijeti zahtjev samo za godišnje financijske izvještaje čiji je rok iz članka 5. stavak 4. ovog Pravilnika istekao na dan podnošenja zahtjeva.
