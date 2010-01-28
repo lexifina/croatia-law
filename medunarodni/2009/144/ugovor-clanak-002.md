@@ -1,0 +1,3 @@
+# Članak 2.
+(a) Država članica na čijem državnom području Organizacija ima svoja zapovjedništva odobrit će misijama trećih država pri Organizaciji i pripadnicima njihovog osoblja imunitete i povlastice kakve se odobravaju diplomatskim misijama i njihovom osoblju;
+(b) Osim toga, država članica na čijem državnom području Organizacija ima svoja zapovjedništva odobrit će uobičajene imunitete i povlastice predstavnicima trećih država, u privremenoj misiji, koji nisu obuhvaćeni stavkom (a) ovoga članka, dok se nalaze na njihovom državnom području u svrhu predstavljanja trećih država u odnosu na postupke Organizacije.

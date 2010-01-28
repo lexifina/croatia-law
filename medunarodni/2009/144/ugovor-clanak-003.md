@@ -1,0 +1,3 @@
+# Članak 3.
+(a) Ovaj Sporazum bit će otvoren za potpisivanje državama članicama i podliježe ratifikaciji, prihvatu ili odobrenju. Isprave o ratifikaciji, prihvatu ili odobrenju polažu se kod Vlade Kraljevine Belgije koja će sve države potpisnice obavijestiti o polaganju svake takve isprave;
+(b) Nakon što dvije ili više država potpisnica, uključujući državu članicu na čijem državnom području Organizacija ima svoja zapovjedništva, polože svoje isprave o ratifikaciji, prihvatu ili odobrenju, ovaj Sporazum stupa na snagu u odnosu na te države. Za svaku drugu državu potpisnicu stupa na snagu datumom polaganja njezine isprave.
