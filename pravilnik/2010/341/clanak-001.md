@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se kadrovski, tehnički, organizacijski i ostali uvjeti koje mora ispuniti vjerovnik odnosno kreditni posrednik za dobivanje odobrenja za pružanje usluga potrošačkog kreditiranja (dalje u tekstu: odobrenje), sadržaj zahtjeva za izdavanje odobrenja (dalje u tekstu: zahtjev), dokumentacija koju je potrebno priložiti zahtjevu, razlozi za odbijanje zahtjeva, izdavanje odobrenja, rok valjanosti odobrenja, naknada za provedbu postupka izdavanja odobrenja, prestanak važenja odobrenja i obveza izvješćivanja Ministarstva financija.
+(2) Vjerovnik odnosno kreditni posrednik mora imati sposobnost, stručno znanje i odgovarajuće iskustvo za pružanje usluga potrošačkog kreditiranja odnosno za posredovanje u potrošačkom kreditiranju, a pri pružanju tih usluga mora postupati prema načelu dobroga gospodarstvenika.
