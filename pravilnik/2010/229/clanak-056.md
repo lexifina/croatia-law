@@ -1,0 +1,4 @@
+# Članak 56.
+(1) Osposobljavanja radi stjecanja dozvole, ovlaštenja i/ili posebne ovlasti koja su započela prije stupanja na snagu ovoga Pravilnika, prihvaćaju se za izdavanje dozvola, ovlaštenja i/ili posebnih ovlasti sukladno odredbama ovoga Pravilnika.
+(2) Organizacije za osposobljavanje koje nisu ishodile ovlaštenje organizacije za osposobljavanje izdano od Agencije, dužne su izraditi Operativni priručnik organizacije za osposobljavanje, programe osposobljavanja, planove osposobljavanja za lokaciju i sheme stručnosti za lokaciju i ishoditi ovlaštenje organizacije za osposobljavanje izdano od Agencije najkasnije do 31. prosinca 2010.
+(3) Obrazac dozvole izdane u skladu s ranijim propisima zamijenit će se obrascem dozvole u skladu s odredbama ovoga Pravilnika, a najkasnije do 30. lipnja 2010.
