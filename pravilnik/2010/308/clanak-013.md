@@ -1,0 +1,2 @@
+# Članak 13.
+Akreditiranim institucijama za mirenje smatraju se sve institucije koje su do stupanja na snagu ovog Pravilnika provodile obuku za izmiritelje pod uvjetom da u roku od tri mjeseca od uspostave registra za izmiritelje dostave Ministarstvu pravosuđa dokaz o uspostavi upisnika izdanih certifikata, evidenciji polaznika obuke i izgled certifikata (primjerak svakog pojedinog certifikata) te primjerak usvojenih programa obuke koji moraju biti sukladni odredbama članka 11. ovog Pravilnika.
