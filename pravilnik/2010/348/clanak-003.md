@@ -1,0 +1,2 @@
+# Članak 3.
+Ovlašteni korisnici, ovlaštene osobe iz članka 1. ovoga Pravilnika, ovlašteni proizvođači, odnosno izvršitelji održavanja programske podrške u dijelovima integralnog informacijskog sustava te svi drugi subjekti, odnosno neovlašteni korisnici koji mogu doći u doticaj sa sustavom i/ili podacima podliježu primjeni sankcija svih važećih propisa za postupanje koje nije sukladno odredbama članka 2. ovoga Pravilnika.
