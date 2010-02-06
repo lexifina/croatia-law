@@ -1,0 +1,3 @@
+# Članak 22.
+Ispitivač kao i zdravstveni radnik koji sudjeluje u kliničkom ispitivanju i sazna za štetni događaj koji se dogodio za vrijeme kliničkog ispitivanja obvezni su o tom događaju, sukladno posebnim propisima, obavijestiti podnositelja zahtjeva/naručitelja kliničkog ispitivanja osim onih za koje plan ispitivanja i uputa za ispitivača to ne zahtijevaju.
+Agencija za lijekove i medicinske proizvode obvezna je voditi evidenciju o svim prijavljenim nuspojavama tijekom provođenja odobrenog kliničkog ispitivanja i o godišnjim zbirnim izvješćima o nuspojavama te o tome obavijestiti Središnje etičko povjerenstvo i ministarstvo.
