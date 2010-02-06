@@ -1,0 +1,8 @@
+## Drugi stupanj ograničenog postupka i pregovaračkog postupka s više gospodarskih subjekata
+# Članak 9.
+(1) U drugom stupnju ograničenog postupka nabave, naručitelj otvara, pregledava i ocjenjuje ponude koje su na osnovi poziva na dostavu ponuda dostavili ponuditelji te odabire prihvatljivu ponudu koja je najpovoljnija prema kriteriju odabira.
+(2) U drugom stupnju pregovaračkog postupka nabave s više gospodarskih subjekata, naručitelj pregovara s ponuditeljima o inicijalnim ponudama koje su podnijeli kako bi ih prilagodio zahtjevima koje je odredio u dokumentaciji za nadmetanje i/ili dodatnoj dokumentaciji i dobio najbolju ponudu u skladu s kriterijem odabira.
+(3) Naručitelj može u dokumentaciji za nadmetanje predvidjeti da se pregovaranje odvija u sukcesivnim fazama kako bi postupno smanjio broj inicijalnih ponuda o kojima treba pregovarati.
+(4) Kada naručitelj koristi mogućnost smanjivanja inicijalnih ponuda o kojima treba pregovarati, on to čini primjenom kriterija odabira navedenih u dokumentaciji za nadmetanje, a one ponuditelje čije inicijalne ponude neće dalje razmatrati o tome odmah obavještava odlukom. U konačnoj fazi, broj do kojega se došlo mora omogućiti pravo natjecanje u onoj mjeri u kojoj postoji dovoljan broj ponuda ili sposobnih natjecatelja.
+(5) Naručitelj je obvezan tijekom pregovora osigurati jednaki tretman svim sudionicima te ne smije prosljeđivati podatke na diskriminirajući način koji nekim sudionicima mogu pružiti prednost u odnosu na druge.
+(6) Naručitelj je obvezan sudionike pregovaračkog postupka prethodno obavijestiti o zaključenju pregovora. To može učiniti tako da jedan krug pregovora proglasi zaključnom fazom ili da preostalog sudionika ili sudionike pozove na dostavu konačnih ponuda u razumnom roku.

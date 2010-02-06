@@ -1,0 +1,17 @@
+# Članak 11.
+Naručitelj smije sklapati ugovore o javnim radovima, putem izravnog pregovaračkog postupka, u sljedećim slučajevima:
+1. ako u provedenom ograničenom postupku ili pregovaračkom postupku s više gospodarskih subjekata nije dostavljena nijedna ponuda ili nijedna pravilna ponuda, ili ako nije dostavljen nijedan zahtjev za sudjelovanje, pod uvjetom da prvobitni uvjeti za ugovor nisu bitno promijenjeni i da je Europskoj komisiji poslano izvješće, ukoliko ga zatraži;
+2. ako su u provedenom ograničenom postupku ili pregovaračkom postupku s više gospodarskih subjekata dostavljene ponude bile neprikladne ili neprihvatljive, te ako izvorni uvjeti ugovora nisu bitno promijenjeni, i ako naručitelj u izravni pregovarački postupak uključi sve, i samo one, ponuditelje koji ispunjavaju uvjete i dokaze sposobnosti i koji su, tijekom prethodnog postupka, dostavili ponude koje su u skladu s formalnim zahtjevima postupka nabave;
+3. ako su rokovi određeni za ograničeni postupak i pregovarački postupak s više gospodarskih subjekata, uključujući i skraćene rokove propisane člankom 16. ove Uredbe, nespojivi s žurnošću prouzrokovanom krizom;
+4. ako se zbog razloga iznimne žurnosti izazvane događajima koje naručitelj nije mogao predvidjeti, u mjeri u kojoj je to nužno potrebno, rok za ograničeni postupak ili pregovarački postupak s više gospodarskih subjekata, uključujući i skraćene rokove propisane člankom 16. ove Uredbe, ne može primijeniti. Okolnosti na koje se naručitelj poziva radi opravdanja iznimne žurnosti ne smiju ni u kojem slučaju biti uzrokovane njegovim postupanjem;
+5. ako ugovor zbog tehničkih razloga ili razloga povezanih sa zaštitom isključivih prava može izvršiti samo određeni gospodarski subjekt;
+6. za dodatne radove koji nisu uključeni u osnovni projekt, niti u osnovni ugovor, ali koji su zbog nepredviđenih okolnosti, postali nužni za izvršenje radova određenih tim projektom ili ugovorom, pod uvjetom da se ugovor sklopi s gospodarskim subjektom koji iz osnovnog ugovora te da ukupna vrijednost ugovora sklopljenih za dodatne radove ne prelazi 50% vrijednosti osnovnog ugovora, ako:
+a) razdvajanje takvih dodatnih radova od osnovnog ugovora nije moguće u tehničkom ili gospodarskom smislu, a da naručitelju ne uzrokuje velike poteškoće, ili
+b) bi razdvajanje takvih radova od osnovnog ugovora bilo moguće, ali su oni prijeko potrebni za njegov dovršetak;
+7. za nove radove koji se sastoje u ponavljanju sličnih radova, te uz ispunjenje svih sljedećih uvjeta:
+a) da se novi radovi povjeravaju gospodarskom subjektu s kojim je isti naručitelj sklopio osnovni ugovor,
+b) da su takvi radovi sukladni osnovnom projektu prema kojem je sklopljen osnovni ugovor u ograničenom postupku ili pregovaračkom postupku s više gospodarskih subjekata,
+c) da je naručitelj u prvom pozivu na dostavu zahtjeva za sudjelovanje predvidio mogućnost korištenja ovog postupka,
+d) da je cjelokupna vrijednost naknadnih radova uzeta u obzir pri izračunu procijenjene vrijednosti nabave,
+e) da se ovaj postupak odvija unutar pet godina nakon sklapanja osnovnog ugovora, a nakon toga razdoblja samo u iznimnim okolnostima koje se utvrđuju uzimajući u obzir očekivani životni ciklus bilo kojeg isporučenog proizvoda, instalacije ili sustava, i tehničke poteškoće koje bi rezultirale promjenom isporučitelja.
+Posebni slučajevi i okolnosti koji opravdavaju korištenje izravnog pregovaračkog postupka nabave kod ugovora o javnoj nabavi robe

@@ -1,0 +1,21 @@
+## Tehnička i stručna sposobnost
+# Članak 23.
+(1) Naručitelj može, kao dokaz tehničke i stručne sposobnosti, ovisno o prirodi, opsegu, količini, važnosti ili namjeni radova, robe ili usluga, zahtijevati jedan ili više sljedećih dokaza:
+1. popis radova izvedenih tijekom posljednjih pet godina, popraćen potvrdama o urednoj izvedbi radova. Ove potvrde navode vrijednost, datum, mjesto izvođenja radova, ugovorne strane te jesu li radovi izvedeni prema pravilima struke i pravilno završeni. Po potrebi, ako je ugovorna strana bio naručitelj, on podnosi ove potvrde direktno naručitelju koji provodi postupak nabave;
+2. popis glavnih isporuka robe obavljenih ili glavnih usluga pruženih u posljednjih pet godina, s iznosima, datumima i ugovornim stranama, bilo javnim ili privatnim. Dokaz o isporuci robe i pruženim uslugama daje se:
+a) ukoliko je ugovorna strana bio naručitelj, u obliku potvrda izdanih ili supotpisanih od strane tog naručitelja,
+b) ukoliko je ugovorna strana bio privatni kupac, potvrdom kupca ili, u nedostatku navedenog, izjavom gospodarskog subjekta;
+3. popis tehničkih stručnjaka ili tehničkih odjela, bez obzira pripadaju li oni izravno gospodarskom subjektu, posebno onih odgovornih za kontrolu kvalitete i, u slučaju ugovora o javnim radovima, onih koje izvođač radova može pozvati da izvedu radove;
+4. opis tehničkih pogona i mjera koje koriste gospodarski subjekti za osiguravanje kvalitete te pogona poduzeća za studije i istraživanja kao i internih pravila vezanih za intelektualno vlasništvo;
+5. provjera koju provodi naručitelj ili u njegovo ime nadležno tijelo zemlje sjedišta gospodarskog subjekta, prema sporazumu s tim tijelom, o proizvodnim kapacitetima dobavljača ili tehničkim sposobnostima gospodarskog subjekta i, ako je potrebno, o načinu izrade studija i istraživanja koje koristi, te o mjerama za kontrolu kvalitete kojima će se koristiti;
+6. u slučaju ugovora o javnim radovima, ugovora o javnim uslugama ili ugovora o javnoj nabavi robe koji također obuhvaća i poslove postavljanja i instalacije ili usluge, obrazovne i stručne kvalifikacije gospodarskog subjekta i/ili upravljačkog osoblja poduzeća, a posebno kvalifikacije osobe ili osoba zaduženih za pružanje usluga ili upravljanje radovima;
+7. za ugovore o javnim radovima i ugovore o javnim uslugama, i samo u odgovarajućim slučajevima, naznaka o mjerama upravljanja okolišem koje će gospodarski subjekt biti u mogućnosti primijeniti prilikom izvršenja ugovora;
+8. izjava o prosječnom godišnjem broju radnika pružatelja usluga ili ugovaratelja i broju upravljačkog osoblja za posljednje tri godine;
+9. opis alata, materijala i tehničke opreme, broj osoblja i tehnološko znanje i iskustvo i/ili izvori isporuke, kao i naznaka geografskog položaja ako je izvan teritorija Republike Hrvatske i Europske unije, kojima gospodarski subjekt raspolaže za izvršenje ugovora, za obavljanje bilo kojih dopunskih potreba koje zahtijeva naručitelj kao rezultat krize ili za održavanje, modernizaciju ili prilagođavanje isporuka obuhvaćenih ugovorom;
+10. u odnosu na robu:
+a) uzorci, opisi i/ili fotografije čija autentičnost mora biti potvrđena ukoliko to zahtijeva naručitelj;
+b) izvještaji (certifikati) koje su sastavili nadležni instituti ili agencije za kontrolu kvalitete kojima se potvrđuje usklađenost proizvoda s tehničkim specifikacijama ili normama;
+11. u slučaju ugovora koji uključuje, podrazumijeva i/ili sadrži klasificirane podatke, dokaz o sposobnosti za primjenu propisanih standarda za postupanje, obradu, pohranu i prijenos klasificiranih podataka određenog stupnja tajnosti (certifikat o sigurnosnoj akreditaciji informacijskog sustava i certifikat o poslovnoj sigurnosti pravne osobe).
+(2) U slučaju iz točke 11. stavka 1. ovoga članka naručitelj može, ako je potrebno, odobriti gospodarskim subjektima koji još ne posjeduju certifikat dodatno vrijeme za njegovo pribavljanje. U tom slučaju, on navodi tu mogućnost i rok u dokumentaciji.
+(3) Naručitelj navodi u pozivu na dostavu zahtjeva za sudjelovanje koje dokaze iz stavka 1. ovoga članka zahtijeva i koji ostali dokazi se još moraju podnijeti.
+(4) Ako, iz bilo kojeg opravdanog razloga, gospodarski subjekt nije u mogućnosti dostaviti dokaze koje naručitelj zahtijeva, on može dokazati svoju tehničku i stručnu sposobnost bilo kojim drugim dokumentom koji naručitelj ocijeni prihvatljivim.

@@ -1,0 +1,8 @@
+## Natjecatelji u postupku nabave
+# Članak 7.
+(1) Natjecatelje koji su pravodobno dostavili zahtjeve za sudjelovanje i koji su zadovoljili uvjete sposobnosti te udovoljili ostalim zahtjevima iz poziva, naručitelj poziva u drugi stupanj postupka nabave.
+(2) Iznimno od stavka 1. ovoga članka, ako naručitelj koristi opciju smanjivanja broja natjecatelja koje će pozvati u drugi stupanj postupka nabave, broj sposobnih natjecatelja koje će pozvati mora odgovarati minimalnom broju unaprijed utvrđenom u pozivu na dostavu zahtjeva za sudjelovanje. Taj broj ne smije biti manji od tri.
+(3) Na odabir natjecatelja u slučaju iz stavka 2. ovoga članka naručitelj obvezno primjenjuje objektivna i nediskriminirajuća pravila navedena u pozivu na dostavu zahtjeva za sudjelovanje.
+(4) Ukoliko je broj natjecatelja koji zadovoljavaju uvjete sposobnosti manji od minimalnog broja određenog u pozivu na dostavu zahtjeva za sudjelovanje, naručitelj može nastaviti postupak pozivajući natjecatelja(e) s traženim sposobnostima.
+(5) Ukoliko naručitelj smatra da je broj natjecatelja koji zadovoljavaju uvjete sposobnosti prenizak da osigura istinsko natjecanje, on može obustaviti postupak i ponovo poslati poziv na dostavu zahtjeva za sudjelovanje u kojem određuje novi rok za dostavu zahtjeva za sudjelovanje. U tom slučaju, natjecatelji koji su odabrani nakon prvog poziva te oni odabrani nakon drugog poziva moraju biti pozvani na dostavu ponuda ili na pregovaranje u skladu s člankom 8. ove Uredbe.
+(6) Opcija navedena u stavku 5. ovoga članka ne utječe na mogućnost naručitelja da poništi postupak nabave koji je u tijeku i pokrene novi postupak nabave.
