@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE DRŽAVE KATAR O ZRAČNOM PROMETU
+Vlada Republike Hrvatske i Vlada Države Katar, u daljnjem tekstu navođene kao ugovorne stranke, kao stranke Konvencije o međunarodnom civilnom zrakoplovstvu otvorene za potpis u Chicagu dana 7. prosinca 1944. godine, želeći sklopiti Sporazum u svrhu uspostavljanja zračnog prometa između i izvan njihovih teritorija, sporazumjele su se kako slijedi:

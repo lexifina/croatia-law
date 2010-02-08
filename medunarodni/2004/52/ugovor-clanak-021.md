@@ -1,0 +1,3 @@
+# Članak 21.
+OTKAZ
+Ovaj je Sporazum sklopljen na neodređeno vrijeme. Svaka ugovorna stranka može u bilo kojem trenutku u pisanom obliku i diplomatskim putem obavijestiti drugu ugovornu stranku o svojoj odluci da otkaže ovaj Sporazum. U tom će slučaju ovaj Sporazum prestati vrijediti nakon dvanaest (12) mjeseci od datuma primitka obavijesti od druge ugovorne stranke, osim ako se obavijest o otkazu ne povuče dogovorom prije isteka tog perioda. Obavijest o otkazu istovremeno će se uputiti i Međunarodnoj organizaciji civilnog zrakoplovstva. Ako druga ugovorna stranka ne potvrdi primitak obavijesti o otkazu, smatrat će se da je obavijest primljena četrnaest (14) dana nakon primitka iste od strane Međunarodne organizacije civilnog zrakoplovstva.

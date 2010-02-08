@@ -1,0 +1,8 @@
+# Članak 4.
+DOZVOLE ZA RAD
+1. Svaka ugovorna stranka imat će pravo odrediti u pisanom obliku drugoj ugovornoj stranci zračnog prijevoznika ili zračne prijevoznike u svrhu obavljanja zračnog prometa na određenim zračnim linijama.
+2. Po primitku obavijesti o takvom određenju, druga ugovorna stranka će, sukladno odredbama stavaka 3. i 4. ovog članka, bez odlaganja dodijeliti zračnom prijevozniku koji je određen odgovarajuća ovlaštenja za rad.
+3. Zrakoplovne vlasti jedne ugovorne stranke mogu od zračnog prijevoznika kojeg je odredila druga ugovorna stranka zatražiti pružanje dokaza da je isti kvalificiran za ispunjavanje uvjeta propisanih zakonom i pravnim propisima navedenih vlasti koji se uobičajeno i razumno primjenjuju na letenje u međunarodnom zračnom prometu.
+4. Svaka Ugovorna stranka imat će pravo odbiti izdati ovlaštenja za rad koja su navedena u stavku 2. ovog članka, ili pak nametnuti zračnom prijevozniku uvjete koje smatra neophodnim i to uvijek kada navedena ugovorna stranka nije uvjerena da druga ugovorna stranka koja je odredila zračnog prijevoznika, ili njeni državljani, imaju većinsko vlasništvo i stvarnu kontrolu nad tim zračnim prijevoznikom.
+5. Kada je zračni prijevoznik na taj način određen i ovlašten, on može u bilo koje vrijeme započeti sa zračnim prometom, pod uvjetom da su tarifa i redovi letenja utvrđeni sukladno odredbama članka 13. i članka 14.
+6. Svaka ugovorna stranka može odrediti Zajedničku tvrtku za obavljanje zračnog prometa osnovanu u skladu s člancima 77. i 79. Konvencije, a takva će Zajednička tvrtka biti prihvaćena od druge ugovorne stranke.

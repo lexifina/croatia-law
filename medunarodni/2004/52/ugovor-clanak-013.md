@@ -1,0 +1,8 @@
+# Članak 13.
+PRINCIPI KOJI UREĐUJU OBAVLJANJE UGOVORENOG ZRAČNOG PROMETA
+1. Postojat će pravedna i jednaka prilika za određene zračne prijevoznike obiju ugovornih stranaka da obavljaju ugovoreni zračni promet na određenim linijama između njihovih teritorija.
+2. U obavljanju ugovorenog zračnom prometa, određeni zračni prijevoznici svake od ugovornih stranaka uzimat će u obzir interese određenih zračnih prijevoznika druge ugovorne stranke tako da ne utječu nepravedno na obavljanje njihovih letova koje oni obavljaju u cijelosti ili na dijelu istih zračnih linija.
+3. Ugovoreni zračni promet kojeg obavljaju određeni zračni prijevoznici ugovornih stranaka vodit će računa o općim potrebama za prijevozom na određenim linijama i imat će kao svoj primarni zadatak osiguranje kapaciteta, sukladno razumnom faktoru popunjenosti, odgovarajućeg sadašnjim i razumno predviđenim zahtjevima za prijevozom putnika i/ili tereta, uključujući poštu, koji dolazi sa ili je upućen na teritorij ugovorne stranke koja je odredila navedenog zračnog prijevoznika. Odredbe o prijevozu putnika i tereta, uključujući poštu, ukrcanog i iskrcanog u mjestima određenih linija na teritoriju drugih država, osim one koja je odredila tog zračnog prijevoznika, sastavit će se sukladno općim principima prema kojima kapacitet treba biti usklađen sa:
+(a) zahtjevima za zračnim prometom na i sa teritorija ugovorne stranke koja je odredila zračnog prijevoznika;
+(b) zahtjevima za zračnim prometom područja kroz koja ugovoreni zračni promet prolazi, i to uzimajući u obzir zračni promet koji su uspostavili zračni prijevoznici država koje obuhvaćaju navedeno područje; i
+(c) zahtjevima za zračnim prometom na nastavnim letovima.

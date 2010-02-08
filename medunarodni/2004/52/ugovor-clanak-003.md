@@ -1,0 +1,8 @@
+# Članak 3.
+PROMETNA PRAVA
+1. Svaka ugovorna stranka dodjeljuje drugoj ugovornoj stranci prava navedena u ovom Sporazumu u svrhu uspostavljanja ugovorenog zračnog prometa na linijama koje su određene u Dodatku ovog Sporazuma. Zračni prijevoznici koje je odredila bilo koja od ugovornih stranaka će, za vrijeme obavljanja ugovorenog zračnog prometa na određenoj liniji, imati sljedeća prava:
+a) pravo letenja preko teritorija druge ugovorne stranke bez slijetanja;
+b) pravo zaustavljanja na navedenom teritoriju u neprometne svrhe; i
+2. Svaka ugovorna stranka dodjeljuje drugoj ugovornoj stranci prava navedena u ovom Sporazumu u svrhu uspostavljanja redovitog međunarodnog zračnog prometa na linijama koje su određene u odgovarajućem dijelu rasporeda zračnih linija koji se nalazi u Dodatku ovog Sporazuma. Za vrijeme obavljanja ugovorenog zračnog prometa na određenoj liniji zračni prijevoznici koje je odredila bilo koja od ugovornih stranaka će imati, osim prava navedenih u stavku 1. ovog članka, pravo zaustavljanja na teritoriju druge ugovorne stranke u mjestima određenim za navedenu liniju u Dodatku ovog Sporazuma sa svhom ukrcaja i iskrcaja putnika i utovara i istovara tereta, uključujući poštu, u kombinaciji ili svakog posebno.
+3. Ništa od navedenog u stavku 2. ovog članka neće se smatrati dodjeljivanjem povlastice određenim zračnim prijevoznicima jedne ugovorne stranke da na teritoriju druge ugovorne stranke vrše ukrcaj prometa koji se prevozi za naknadu ili najamninu, a koji je upućen prema nekom drugom mjestu na teritoriju te druge ugovorne stranke.
+4. Drugi zračni prijevoznik svake od ugovornih stranaka isto će tako imati prava navedena u stavcima 1. a) i b) ovog članka.
