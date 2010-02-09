@@ -1,0 +1,2 @@
+# Članak 14.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti Pravilnik o veterinarsko-zdravstvenim uvjetima kojima moraju udovoljavati objekti registrirani za obradu, preradu i uskladištenje proizvoda životinjskog podrijetla na obiteljskim poljoprivrednim gospodarstvima (»Narodne novine«, broj 149/03 i 09/07) te članak 13. stavak 9. Pravilnika o vođenju upisnika registriranih i odobrenih objekata te o postupcima registriranja i odobravanja objekata u poslovanju s hranom (»Narodne novine«, broj 125/08 i 55/09).
