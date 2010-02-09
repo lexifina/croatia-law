@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuje obim i učestalost uzorkovanja u svrhu monitoringa određenih tvari i njihovih rezidua u mlijeku, jajima, mesu kunića, mesu divljači iz slobodne prirode, mesu divljači iz uzgoja te u medu, utvrđene Dodatkom I ovoga Pravilnika, čime se dopunjuje obim i učestalost uzorkovanja utvrđena Dodatkom IV Pravilnika o monitoringu određenih tvari i njihovih rezidua u živim životinjama i proizvodima životinjskoga podrijetla (»Narodne novine« br 79/08)[2].
