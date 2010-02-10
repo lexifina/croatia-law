@@ -1,0 +1,3 @@
+# Članak 5.
+Sredstva za lijekove utvrđene u Tablici 1. iz članka 1. ove Odluke, iskazuju se u računima za izvršeno liječenje osiguranih osoba u okviru prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja u provođenju ugovorene bolničke i specijalističko-konzilijarne zdravstvene zaštite u bolničkim zdravstvenim ustanovama (u daljnjem tekstu: računi za izvršeno liječenje osiguranih osoba Zavoda) najviše do iznosa utvrđenog za pojedini lijek u Tablici 1. iz članka 1. ove Odluke.
+Sredstva iz stavka 1. ovog članka ne uračunavaju se u maksimalno utvrđeni iznos novčanih sredstava iz obveznog zdravstvenog osiguranja za pojedine ugovorne bolničke zdravstvene ustanove.

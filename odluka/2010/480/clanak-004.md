@@ -1,0 +1,2 @@
+# Članak 4.
+Opskrba osiguranih osoba Zavoda koje boluju od hemofilije, a za koje je liječničko povjerenstvo za lijekove Direkcije Zavoda odobrilo kućno liječenje s lijekovima koji su utvrđeni u Tablici 3. iz članka 1. ove Odluke za kućno liječenje hemofilije, provodi se u ljekarni prema odabiru osigurane osobe oboljele od hemofilije, kojoj ovlašteni distributeri, utvrđeni na osnovi provedenog javnog nadmetanja, dostavljaju odobreni lijek za osiguranu osobu.
