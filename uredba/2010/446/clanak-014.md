@@ -1,0 +1,5 @@
+# Članak 14.
+Županije, Grad Zagreb, gradovi i općine dužni su resorno ministarstvo ili nadležno tijelo državne uprave izvješćivati o utrošenim sredstvima krajnjih korisnika (ustanova) u roku i na način propisan u odlukama o minimalnim financijskim standardima.
+Resorno ministarstvo ili nadležno tijelo državne uprave dužno je pratiti izvršenje odluke o minimalnim financijskim standardima i po potrebi, a najkasnije do 30. rujna 2010. godine, Vladi Republike Hrvatske predložiti njezine izmjene i dopune.
+Ako korisnik pomoći izravnanja iz stavka 1. ovoga članka ne dostavi izvješće resornom ministarstvu ili nadležnom tijelu državne uprave na propisani način i u roku iz stavka 1. ovoga članka, Ministarstvo financija na zahtjev će resornog ministarstva ili nadležnog tijela državne uprave privremeno obustaviti doznaku pomoći izravnanja.
+Nadležno ministarstvo ili nadležno tijelo državne uprave dužno je izraditi konsolidirana izvješća o korištenju sredstava doznačenih za financiranje decentraliziranih funkcija.
