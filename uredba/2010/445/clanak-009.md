@@ -1,0 +1,4 @@
+# Članak 9.
+Ostvarivanje carinskih i poreznih olakšica prema članku 60. stavcima 2. i 3. Zakona, primjenjuje se na carinsku vrijednost osobnog automobila iz tarifnog broja 87.03 Carinske tarife do najviše 20.000,00 EUR u kunskoj protuvrijednosti.
+Ukoliko korisnik olakšica iz članka 60. stavaka 2. i 3. Zakona uvozi osobni automobil kojemu je carinska vrijednost viša od iznosa navedenog u stavku 1. ovoga članka, na razliku iznad navedenog iznosa obračunavaju se i plaćaju uvozna davanja.
+Motornim vozilom pri korištenju carinskih i poreznih olakšica prema članku 61. stavku 2. Zakona smatraju se osobni automobili, motorna vozila za kombinirani prijevoz robe i osoba, terenski automobili, kao i druga motorna vozila iz Poglavlja 87. Carinske tarife koji neposredno služe za obavljanje registrirane djelatnosti neovisno o tipu ili obujmu cilindra motora.

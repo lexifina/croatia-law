@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 9. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/2004, 92/2005, 2/2007, 107/2007, 65/2009 i 137/2009), Vlada Republike Hrvatske je na sjednici održanoj 4. veljače 2010. godine donijela

@@ -1,0 +1,5 @@
+# Članak 17.
+Ako je posjedovanje opreme koja se uvozi uvjet za ishođenje akta za obavljanje djelatnosti, korisnik carinskih i poreznih olakšica uz zahtjev za ostvarivanje olakšice podnosi i potvrdu ovlaštenog tijela o ispunjavanju drugih propisima utvrđenih uvjeta za obavljanje odnosne djelatnosti.
+Nadležna carinarnica, temeljem zahtjeva iz stavka 1. ovog članka, donijet će privremeno rješenje o ostvarivanju predmetne carinske i poreznih olakšica, uz naznaku roka za dostavu isprave o registraciji djelatnosti i izvješća o početku obavljanja djelatnosti.
+Ako korisnik olakšice ne dostavi dokaze u određenom roku iz stavka 2. ovog članka, nadležna carinarnica će poništiti rješenje o ostvarivanju carinskih i poreznih olakšica i odbiti zahtjev korisnika za ostvarivanje tih olakšica, te izvršiti obračun i provesti naplatu carine i poreza na dodanu vrijednost.
+Ako korisnik olakšice ne dostavi dokaz o zaposlenosti, sukladno roku iz članka 15. stavka 1. točke h) ove Uredbe, nadležna carinarnica postupit će sukladno članku 20. stavku 2. ove Uredbe.

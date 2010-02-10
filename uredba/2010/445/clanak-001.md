@@ -1,0 +1,3 @@
+## ZAJEDNIČKE ODREDBE
+# Članak 1.
+Ovom Uredbom utvrđuju se uvjeti i postupak ostvarivanja carinskih i poreznih olakšica hrvatskih branitelja iz Domovinskog rata (u daljnjem tekstu: hrvatski branitelji) i članova obitelji smrtno stradaloga, zatočenog ili nestaloga hrvatskog branitelja iz Domovinskog rata (u daljnjem tekstu: članovi obitelji hrvatskog branitelja), najviša vrijednost osobnog automobila kojeg uvoze hrvatski branitelji i članovi obitelji hrvatskog branitelja uz carinske i porezne olakšice, uvjeti za naknadni obračun i plaćanja carine, posebnog poreza, poreza na dodanu vrijednost kojih su bili oslobođeni hrvatski branitelji i članovi obitelji hrvatskih branitelja pri korištenju carinskih i poreznih olakšica.
