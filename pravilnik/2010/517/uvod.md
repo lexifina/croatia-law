@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine«, broj 109/07) i članka 116. stavka 5. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08, 146/08 i 74/09) Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 4. veljače 2010. donijela je
