@@ -1,0 +1,3 @@
+# Članak 12.
+(1) U sklopu ukupnih tjednih radnih obveza u neposrednome nastavnom i odgojno-obrazovnom radu s učenicima iz članka 11. ovoga pravilnika učitelji se zadužuju redovitom, odnosno izbornom nastavom utvrđenom nastavnim planom i programom najmanje 20, a najviše 22 sata tjedno.
+(2) Ako jedan od dvaju ili više učitelja odnosno jedini učitelj nastavnoga predmeta s ugovorom o radu na puno radno vrijeme ne može biti zadužen prema odredbama stavka 1. ovoga članka, zadržava pravo na puno radno vrijeme ako je u okviru količine neposrednoga nastavnog i odgojno-obrazovnog rada utvrđene člankom 11. stavak 1. ovoga Pravilnika zadužen redovitom, odnosno izbornom nastavom najmanje 18 sati tjedno.
