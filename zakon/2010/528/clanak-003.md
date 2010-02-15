@@ -1,0 +1,5 @@
+# Članak 3.
+Jedinice lokalne samouprave koje nisu donijele Program raspolaganja poljoprivrednim zemljištem u vlasništvu države i počele raspolagati poljoprivrednim zemljištem u roku iz članka 97. stavka 1. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 152/08.), odnosno do dana stupanja na snagu ovoga Zakona, dužne su navedene poslove obaviti u sljedećim rokovima:
+- u roku od 6 mjeseci od stupanja na snagu ovoga Zakona jedinice lokalne samouprave donijet će Program raspolaganja poljoprivrednim zemljištem u vlasništvu države,
+- u roku od godine dana od stupanja na snagu ovoga Zakona jedinice lokalne samouprave počet će s raspolaganjem poljoprivrednim zemljištem u vlasništvu države.
+Ukoliko jedinica lokalne samouprave ne donese Program raspolaganja poljoprivrednim zemljištem u vlasništvu države u roku iz stavka 1. podstavka 1. ovoga članka, Program će donijeti Agencija za poljoprivredno zemljište, uz suglasnost Ministarstva poljoprivrede, ribarstva i ruralnog razvoja, na trošak sredstava proračuna jedinice lokalne samouprave.
