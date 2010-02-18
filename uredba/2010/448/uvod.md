@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), a u svezi s člankom 68. stavkom 2. Zakona o šumama (»Narodne novine«, br. 140/2005, 82/2006 i 129/2008), Vlada Republike Hrvatske je na sjednici održanoj 4. veljače 2010. godine donijela
