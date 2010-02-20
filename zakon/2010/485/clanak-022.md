@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Inspekcijski nadzor nad provođenjem ovoga Zakona i propisa donesenih na temelju ovoga Zakona te propisa koji se primjenjuju na temelju članka 39. stavka 1. i 2. ovoga Zakona obavljaju inspektori u skladu s nadležnostima koje proizlaze iz propisa o ustrojstvu i djelokrugu rada središnjih tijela državne uprave te drugih propisa koji određuju njihovu nadležnost.
+(2) Inspektori su dužni obavljati svoje dužnosti neovisno, pošteno i nepristrano te čuvati povjerljivost podataka kad je to potrebno kako bi zaštitili poslovne tajne ili sačuvali osobne podatke u skladu s propisima Republike Hrvatske.

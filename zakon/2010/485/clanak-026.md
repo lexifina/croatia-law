@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Tijelo za koordinaciju inspekcijskog nadzora mora dostaviti Europskoj komisiji podatke s kojima raspolaže o proizvodima koji predstavljaju rizik, posebno s obzirom na identifikaciju proizvoda, podrijetlo i opskrbni lanac proizvoda, identifikaciju rizika, rezultate ispitivanja koja se provode, prirodu i trajanje poduzetih mjera, poduzete dragovoljne mjere, stupanje u vezu s gospodarskim subjektima kojih se to tiče i opravdanje za djelovanja i nedjelovanja.
+(2) Postupak obavješćivanja Europske komisije o proizvodima koji predstavljaju ozbiljan rizik za koji se zahtijeva brza intervencija, uključujući ozbiljni rizik čije posljedice nisu trenutačne, propisan je posebnim propisom.

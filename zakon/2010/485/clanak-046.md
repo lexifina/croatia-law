@@ -1,0 +1,2 @@
+# Članak 46.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredaba članka 5. stavka 5. i 6., članka 17. stavka 7., članka 25. stavka 2., 3. i 4., članka 26. i članka 31. stavka 5. i 6. ovoga Zakona koje stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji, ili danom stupanja na snagu međunarodnog sporazuma o ocjenjivanju sukladnosti i prihvaćanju industrijskih proizvoda (ACAA) za proizvode obuhvaćene tim sporazumom, ukoliko ta činjenica nastupi ranije.

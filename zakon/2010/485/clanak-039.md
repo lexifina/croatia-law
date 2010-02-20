@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Do stupanja na snagu propisa koji se donose na temelju ovoga Zakona i dalje se primjenjuju propisi koji su doneseni i preuzeti na temelju Zakona o normizaciji (»Narodne novine«, br. 55/96.).
+(2) Postupke ocjenjivanja sukladnosti proizvoda koji su određeni preuzetim propisima iz stavka 1. ovoga članka mogu provoditi pravne osobe registrirane za odgovarajuću djelatnost i/ili ovlaštene od strane nadležnog čelnika središnjeg tijela državne uprave sukladno njegovu djelokrugu ako za te postupke nema pravnih osoba ovlaštenih na temelju ovoga Zakona, odnosno drugih zakona.
+(3) Za stavljanje izvan snage propisa koji su doneseni i preuzeti na temelju Zakona o normizaciji (»Narodne novine«, br. 55/96.) nadležni su čelnici središnjih tijela državne uprave sukladno njihovom djelokrugu rada.
+(4) Čelnici središnjih tijela državne uprave stavit će izvan snage sve propise koji su doneseni i preuzeti na temelju Zakona o normizaciji (»Narodne novine«, br. 55/96.), do dana prijema Republike Hrvatske u članstvo u Europskoj uniji, izuzev propisa koji nisu predmet usklađivanja s usklađenim zakonodavstvom Zajednice.

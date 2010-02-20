@@ -1,0 +1,6 @@
+## VII. INSPEKCIJSKI NADZOR
+# Članak 21.
+(1) Provođenjem inspekcijskog nadzora osigurava se da proizvodi stavljeni na tržište i/ili na raspolaganje zadovoljavaju zahtjeve koji osiguravaju visoku razinu zaštite javnih interesa kao što su: zaštita zdravlja i sigurnosti općenito, zaštita zdravlja i sigurnosti na radnom mjestu, zaštita potrošača, zaštita okoliša i sigurnosti.
+(2) Inspekcijski nadzor mora osigurati da se spriječi distribucija ili zabrani ili ograniči dostupnost na tržištu proizvoda koji su obuhvaćeni važećim propisima koji prenose usklađeno zakonodavstvo Zajednice, a koji bi, kad se upotrebljavaju u skladu s njihovom predviđenom svrhom ili u uvjetima koji se mogu razumno predvidjeti te kad su ispravno ugrađeni i kad se ispravno održavaju, mogli ugroziti zdravlje ili sigurnost korisnika ili na koji drugi način nisu u skladu s primjenjivim zahtjevima utvrđenim u važećim propisima koji prenose usklađeno zakonodavstvo Zajednice.
+(3) Odredbe o inspekcijskom nadzoru se primjenjuju i na proizvode koji se sklapaju ili proizvode za vlastitu uporabu proizvođača, kad je to određeno posebnim zakonom ili drugim propisom.
+(4) Odredbe o inspekcijskom nadzoru primjenjuju se ukoliko ne postoje posebne odredbe s istim ciljem u drugim važećim propisima koji prenose usklađeno zakonodavstvo Zajednice.
