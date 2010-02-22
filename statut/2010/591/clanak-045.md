@@ -1,0 +1,23 @@
+# Članak 45.
+Upravni odbor:
+- provodi odluke i zaključke Skupštine,
+- izrađuje prijedlog Statuta i drugih općih akata Komore,
+- predlaže odluke i zaključke, zauzima stavove te daje mišljenja o pitanjima o kojima će raspravljati Skupština,
+- utvrđuje i usklađuje interese članova Komore,
+- predlaže Skupštini imenovanja i razrješenja u skladu sa Statutom,
+- odlučuje o prijamu i prestanku članstva u Komori,
+- donosi potrebne pravilnike,
+- odlučuje o osnivanju i pravilnikom određuje rad odbora za pojedine sektore u poljoprivredi,
+- imenuje glavnog tajnika i tajnika stručne službe,
+- ustanovljuje listu arbitara te imenuje i razrješava članove arbitraže,
+- za specifična pitanja može osnovati posebne komisije i pravilnikom odrediti njihov rad,
+- odlučuje o drugom stupnju o žalbama na odluke Suda časti,
+- donosi odluke o osnivanju stalnih i povremenih tijela Komore,
+- osniva glasilo Komore i druge publikacije,
+- odlučuje o sjedištu Komore,
+- pribavlja i raspoređuje sredstva za rad Komore,
+- odlučuje o tome što je službena odnosno poslovna tajna Komore,
+- donosi odluke o osnivanju pravnih osoba (poduzeća) i raspolaže njima uz suglasnost Skupštine Komore,
+- donosi odluke o ulaganju kapitala
+- imenuje osobe u upravne odbore pravnih osoba koje je osnovala ili odbore drugih pravnih osoba
+- obavlja i druge potrebne poslove u skladu sa Statutom i drugim općim aktima Komore.
