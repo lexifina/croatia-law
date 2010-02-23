@@ -1,0 +1,5 @@
+## ČLANOVI DRŽAVNE KOMISIJE
+# Članak 10.
+(1) Za predsjednika Državne komisije imenuje se osoba koja ima zvaršen sveučilišni studij prava, odnosno visoku stručnu spremu, stručni naziv diplomirani pravnik, stečenu na temelju ranije važećih propisa, položen pravosudni ispit, najmanje šest godina rada kao sudac, državni odvjetnik, zamjenik državnog odvjetnika, javni bilježnik ili odvjetnik, odnosno 10 godina na drugim pravnim poslovima nakon položenog pravosudnog ispita.
+(2) Osim predsjednika Državne komisije, još najmanje dva člana Državne komisije moraju biti osobe koje imaju završen sveučilišni studij prava, odnosno visoku stručnu spremu stečenu na temelju ranije važećih propisa, od kojih se jedan imenuje za zamjenika predsjednika, te radno iskustvo u struci najmanje 10 godina.
+(3) Ostali članovi Državne komisije moraju imati završen sveučilišni studij ekonomije, prava ili tehničkog usmjerenja, odnosno visoku stručnu spremu na temelju ranije važećih propisa, te radno iskustvo u struci najmanje 10 godina.
