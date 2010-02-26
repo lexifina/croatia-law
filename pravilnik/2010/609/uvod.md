@@ -1,0 +1,1 @@
+Na temelju članka 12. Zakona o posebnim porezima na osobne automobile, ostala motorna vozila, plovila i zrakoplove (»Narodne novine«, broj 139/97., 105/99., 55/00., 127/00., 107/01., 95/04., 94/09. i 21/10.), ministar financija donosi
