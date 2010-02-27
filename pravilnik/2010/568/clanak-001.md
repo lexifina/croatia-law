@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o zaštitnim mjerama radi visoko patogene influence ptica i kretanju ptica kućnih ljubimaca u pratnji vlasnika pri ulasku u Republiku Hrvatsku (»Narodne novine«, broj 28/09) članak 5. mijenja se i glasi: »Do ulaska Republike Hrvatske u članstvo Europske unije umjesto popisa trećih zemalja iz odgovarajućeg propisa iz članka 2. točke (b) alineje prve primjenjuje se popis trećih zemalja koji se nalazi u Dodatku IV. ovoga Pravilnika«.
