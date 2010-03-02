@@ -1,0 +1,10 @@
+# Članak 3.
+U točki d) Radna mjesta VŠS u rednom broju 12. dodaje se:
+NAZIV RADNOG MJESTA
+NAZIV ZVANJA
+KOEFICIJENT SLOŽENOSTI
+DODACI
+POLICIJSKI SLUŽBENIK - OPERATIVNI ANALITIČAR
+Policijski inspektor
+1,13
+20
