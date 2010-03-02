@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Studijski programi u područjima reguliranih profesija za koje je Direktivom 2005/36/EC Europskog parlamenta i Vijeća o priznavanju stručnih kvalifikacija od 7. rujna 2005. godine (u daljnjem tekstu: Direktiva) propisano automatsko priznavanje stručnih kvalifikacija, moraju biti usklađeni s minimalnim uvjetima osposobljavanja propisanim Direktivom i Zakonom o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija.
+(2) Usklađenost studijskih programa iz stavka 1. ovog članka s Direktivom i Zakonom o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija utvrđuje ministarstvo nadležno za visoko obrazovanje.
+(3) Studijski program iz stavka 1. ovog članka koji nema pozitivno mišljenje ministarstva iz stavka 2. ovoga članka nije usporediv s akreditiranim studijskim programima u zemljama Europske unije.
+(4) Studijski programi iz stavka 1. ovog članka za koje nije zatražena procjena usklađenosti s Direktivom i Zakonom o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija prije njihova usvajanja neće se financirati sredstvima državnog proračuna.

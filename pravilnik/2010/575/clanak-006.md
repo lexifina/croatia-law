@@ -1,0 +1,17 @@
+## Dopusnica za obavljanje djelatnosti visokog obrazovanja - sveučilišta
+# Članak 6.
+(1) Dopusnica za obavljanje djelatnosti visokog obrazovanja izdat će se sveučilištu koje ima:
+1. potvrdu postojećeg sveučilišta da je sveučilište koje traži izdavanje dopusnice za obavljanje djelatnosti visokog obrazovanja izvodilo studijski program najmanje dvije godine, u skladu s ugovorom iz članka 3. ovog Pravilnika;
+2. najmanje šest zaposlenika u znanstveno-nastavnom ili/i umjetničko-nastavnom zvanju s punim radnim vremenom za preddiplomski studijski program;
+3. najmanje tri zaposlenika u znanstveno-nastavnom ili/i umjetničko-nastavnom zvanju s punim radnim vremenom za diplomski studijski program, uz uvjet da je već akreditiran preddiplomski studij iz znanstvenog ili umjetničkog polja za koji se traži dopusnica;
+4. najmanje devet zaposlenika u znanstveno-nastavnom ili/i umjetničko-nastavnom zvanju s punim radnim vremenom za integrirani preddiplomski i diplomski studijski program;
+5. najmanje dva zaposlenika u znanstveno-nastavnom ili/i umjetničko-nastavnom zvanju s punim radnim vremenom za poslijediplomski specijalistički studijski program uz uvjet da je već akreditiran diplomski odnosno integrirani preddiplomski i diplomski studij iz znanstvenog ili umjetničkog polja za koji se traži dopusnica;
+6. najmanje pet zaposlenika u znanstveno-nastavnom ili/i umjetničko-nastavnom zvanju s punim radnim vremenom za poslijediplomski sveučilišni studijski program, uz uvjet da je već akreditiran diplomski odnosno integrirani preddiplomski i diplomski studij iz znanstvenog ili umjetničkog polja za koji se traži dopusnica;
+7. dokaze o osiguranju odgovarajućeg prostora i opreme u skladu s člankom 5. ovog Pravilnika;
+8. dokaz o osiguranim potrebnim sredstvima, odnosno troškovnik s projekcijom troškova za provođenje studijskih programa, odnosno organizaciju rada sveučilišta, te dokaz o osiguranim sredstvima sukladno troškovniku.
+(2) U postupku inicijalne akreditacije, kao i kod pokretanja svakog novog studijskog programa potrebno je, osim uvjeta propisanih u stavku 1., ispuniti i uvjet propisan u stavku 3. ovog članka.
+(3) Omjer između ukupnog broja stalno zaposlenih nastavnika i ukupnog broja upisanih studenata ne smije biti veći od 1:30, pri čemu se broj redovitih studenata množi s koeficijentom 1, a broj izvanrednih studenata s koeficijentom 0,5.
+(4) Radi utvrđivanja omjera iz prethodnog stavka ovog članka, a u postupku inicijalne akreditacije, uzimat će se u obzir isključivo predviđeni broj upisanih studenata u prvoj i drugoj godini izvođenja planiranih studijskih programa.
+(5) U slučajevima bitnog odstupanja od omjera iz stavka 3. ovog članka u obzir se mogu uzeti i suradnici koji sudjeluju u izvođenju nastave, pri čemu se njihov broj množi s koeficijentom 0,5.
+(6) Nositelji kolegija za preddiplomski, diplomski, integrirani preddiplomski i diplomski studijski program mogu biti isključivo zaposlenici u znanstveno-nastavnim ili/i umjetničko-nastavnim zvanjima, dok nositelji kolegija za stručni i specijalistički diplomski stručni studijski program mogu biti i zaposlenici izabrani u nastavna zvanja.
+(7) Nositelji kolegija za poslijediplomski specijalistički i poslijediplomski sveučilišni studijski program osim zaposlenika u znanstveno-nastavnom ili/i umjetničko-nastavnom zvanju mogu biti svi nastavnici u znanstveno-nastavnom zvanju koji sudjeluju u ustroju i djelovanju tih programa (npr. vijeće poslijediplomskog studija).
