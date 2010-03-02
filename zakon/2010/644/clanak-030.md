@@ -1,0 +1,5 @@
+# Članak 30.
+(1) Svim školama, uključujući sve učitelje, nastavnike, ravnatelje i ostalo stručno osoblje škola zabranjuje se primanje svih oblika donacija i drugih oblika materijalnih potpora od strane nakladnika čiji se udžbenici i pripadajuća dopunska nastavna sredstva nalaze na Popisu i/ili Katalogu i/ili Konačnoj listi iz članka 23. stavka 2. ovog Zakona, ili koji na bilo koji drugi izravan ili posredan način u bilo koje vrijeme sudjeluju u postupku uvrštavanja, odnosno odabira udžbenika i pripadajućih dopunskih nastavnih sredstava.
+(2) Svim nakladnicima zabranjuje se davanje donacija i drugih oblika materijalnih potpora školama, uključujući učitelje, nastavnike, ravnatelje i ostalo stručno osoblje škola.
+(3) Zabrana iz stavka 1. i 2. ovog članaka primjenjuje se trajno, odnosno i u vrijeme kada se ne provode postupci uvrštavanja na Popis, u Katalog ili na Konačnu listu iz članka 23. stavka 1. ovog Zakona.
+(4) Donacijama i drugim oblicima materijalnih potpora ne smatraju se stručna usavršavanja u trajanju od jednog dana, niti promotivni pokloni zanemarive vrijednosti koja ne prelazi 100 kn po osobi, primjerice, blokovi za pisanje ili olovke.

@@ -1,0 +1,7 @@
+## Primjena Pravilnika o obveznim udžbenicima i dopunskim nastavnim sredstvima u postupku uvrštavanja na Popis
+# Članak 15.
+(1) Ako je Pravilnikom propisano da udžbenik obvezno prati i dopunsko nastavno sredstvo, u postupku uvrštavanja udžbenika na Popis procjenjuje se i dopunsko nastavno sredstvo koje treba biti usklađeno s Udžbeničkim standardom i udžbenikom.
+(2) Iznimno od stavka 1. ovog članka usklađenost geografskog i povijesnog atlasa s nacionalnim i predmetnim kurikulumom i Udžbeničkim standardom, u postupku uvrštavanja na Popis, procjenjuje se neovisno o udžbeniku.
+(3) Ako se u postupku uvrštavanja udžbenika na Popis, koji je kao obvezan propisan Pravilnikom, utvrdi da udžbenik nije usklađen s nacionalnim i predmetnim kurikulumom i Udžbeničkim standardom neće se razmatrati niti pripadajuće dopunsko nastavno sredstvo.
+(4) Ako se u postupku uvrštavanja udžbenika na Popis, koji je kao obvezan propisan Pravilnikom, utvrdi da je udžbenik usklađen s nacionalnim i predmetnim kurikulumom i Udžbeničkim standardom, ali da dopunsko nastavno sredstvo koje ga obvezno prati nije usklađeno s Udžbeničkim standardom i/ili udžbenikom, na Popis se neće uvrstiti niti udžbenik.
+(5) Ako se u postupku uvrštavanja na Popis utvrdi da je zahtjev iz članka 11. stavaka 1. i 2. ovog Zakona podnesen u vezi s udžbenikom i/ili dopunskim nastavnim sredstvom koje nije kao obvezno propisano Pravilnikom, zahtjev će se proslijediti Agencijima radi provođenja postupka odobrenja nastavnog sredstva kao pomoćnog nastavnog sredstva sukladno članku 29. ovog Zakona.

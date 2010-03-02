@@ -1,0 +1,5 @@
+## Sprečavanje sukoba interesa
+# Članak 14.
+(1) Radi sprečavanja sukoba interesa, član stručnog povjerenstva prije početka rada potpisuje izjavu da nije autor udžbenika i pripadajućega dopunskog nastavnog sredstva te da nije rodbinski ili poslovno povezan s autorom, odnosno rodbinski ili poslovno povezan s bilo kojim nakladnikom udžbenika.
+(2) U smislu odredbe stavka 1. ovog članka smatrat će se da je član stručnog povjerenstva rodbinski povezan s autorom, odnosno s nakladnikom ako su u bračnoj ili izvanbračnoj vezi, srodnici po krvi u uspravnoj lozi, posvojitelj i posvojenik, srodnici u pobočnoj lozi do drugog stupnja ili srodnici po tazbini do drugog stupnja.
+(3) U smislu odredbe stavka 1. ovog članka smatrat će se da je član stručnog povjerenstva poslovno povezan s nakladnikom, odnosno autorom ako on ili s njim rodbinski povezana osoba, u smislu odredbe stavka 2. ovog članka, ima dionice ili poslovni udio nakladnika odnosno autora, ako su u radnom odnosu kod nakladnika, odnosno autora te ako su u odnosu bilo kakve poslovne ovisnosti prema nakladniku, odnosno autoru.

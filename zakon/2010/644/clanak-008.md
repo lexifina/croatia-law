@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Postupak odobravanja udžbenika i dopunskih nastavnih sredstava za škole koje provode nastavu svih nastavnih predmeta na stranom jeziku, udžbenika i dopunskih nastavnih sredstava s malom nakladom i udžbenika i dopunskih nastavnih sredstava za učenike s teškoćama u razvoju, provodi Ministarstvo.
+(2) U postupku odobravanja udžbenika i dopunskih nastavnih sredstava iz stavka 1. ovog članka Ministarstvo imenuje stručne prosudbene skupine.
+(3) Kada je predmet odobravanja udžbenik, odnosno dopunsko nastavno sredstvo za učenike s teškoćama u razvoju, jedan od članova stručne prosudbene skupine mora biti učitelj ili nastavnik s iskustvom u radu s učenicima s teškoćama u razvoju, dok preostale članove, u pravilu čine:
+a) znanstvenik, odnosno stručnjak edukacijsko-rehabilitacijskog profila i
+b) metodičar za nastavni predmet ili odgojno-obrazovno područje ili znanstvenik, odnosno stručnjak iz područja pedagogije, školske pedagogije, psihologije odgoja i obrazovanja/edukacijske psihologije ili didaktike ili savjetnik za određeni nastavni predmet ili odgojno-obrazovno područje na koje se udžbenik odnosi ili savjetnik za rad s učenicima s teškoćama u razvoju.
+(4) Pojedinosti postupka odobravanja udžbenika i dopunskih nastavnih sredstava iz stavka 1. ovog članka, rokove odobravanja te pobliže odredbe o utvrđivanju sastava, imenovanju i načinu rada stručnih prosudbenih skupina propisuje ministar.
