@@ -1,0 +1,10 @@
+# Članak 25.
+(1) Banka je obvezna u roku 45 dana od dana aukcije dostaviti HBOR-u popis kredita za koje se traži jamstvo na propisanom obrascu s pripadajućom dokumentacijom.
+(2) Standardizirani obrazac i popis potrebne dokumentacije sastavni je dio Uputa iz članka 18. stavka 3. ove Uredbe.
+(3) Banka je obvezna u roku 5 dana od poziva HBOR-a, dostaviti i drugu dokumentaciju, s kojom se dokazuje ispunjenje uvjeta za dobivanje jamstva propisanih Zakonom i ovom Uredbom.
+(4) Ako HBOR utvrdi da neki od kredita s popisa ne ispunjavaju uvjete iz Zakona i ove Uredbe, o tome će obavijestiti banku. Banka može u roku 5 dana od primitka obavijesti, ali ne kasnije od roka iz stavka 1. ovoga članka, ponuditi zamjenski kredit.
+(5) Potpuni popis kredita, uključujući i zamjenski kredit iz stavka 3. ovoga članka, s pripadajućom dokumentacijom mora biti zaprimljen u HBOR-u najkasnije u roku iz stavka 1. ovoga članka.
+(6) HBOR će najkasnije u roku od 8 dana od isteka roka iz stavka 1. ovoga članka provjeriti ispunjavaju li krediti uvjete iz Zakona i ove Uredbe i obavijestiti banku o prihvaćanju popisa kredita.
+(7) Banka će u roku 5 dana od obavijesti HBOR-a iz stavka 6. ovoga članka, potpisati ugovor o kreditu s korisnikom kredita i jedan izvorni primjerak ugovora dostaviti HBOR-u.
+(8) Ako banka u roku iz stavka 3. ovoga članka ne dostavi zatražene podatke i dokumentaciju za određeni kredit ili više kredita, ili ako krediti ne ispunjavaju uvjete iz Zakona i ove Uredbe, ti krediti ne ulaze u jamstvenu kvotu te se za iznos tih kredita umanjuje iznos odobrene jamstvene kvote i primjenjuju odredbe članka 26. ove Uredbe, o čemu HBOR odmah obavještava banku.
+(9) Ako banka u roku iz stavka 7. ovoga članka ne dostavi HBOR-u primjerak ugovora o kreditu, smatrat će se da je banka odustala od zahtjeva za jamstvo za navedenog korisnika kredita, te će se za iznos jamstva koje je trebalo biti dano za taj kredit, umanjiti jamstvena kvota banke i primijeniti odredbe članka 26. ove Uredbe o čemu HBOR odmah obavještava banku.

@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Jamstva se daju korisnicima kredita iz članka 9. ove Uredbe uz uvjet ograničenja najvišeg iznosa kredita koji se odobrava uz jamstvo i koji ne može iznositi više od ukupnog godišnjeg iznosa plaća korisnika kredita za 2008. godinu uključujući i zaposlene kod podizvođača, ako rade na zajedničkom projektu koji se financira kreditom za koji se daje jamstvo.
+(2) U slučaju korisnika kredita iz stavka 1. ovoga članka osnovanih nakon 1. siječnja 2008. godine, najviši iznos kredita ne smije prijeći procijenjeni godišnji iznos plaća za prve dvije godine poslovanja uključujući i zaposlene kod podizvođača, ako rade na projektu koji se financira kreditom za koji se daje jamstvo.
+(3) Prilikom izračuna godišnjeg iznosa plaća korisnika kredita iz stavaka 1. i 2. ovoga članka primjenjuju se odredbe propisa koje uređuju državne potpore i Priopćenje Komisije o Privremenom okviru Zajednice za mjere državnih potpora kojima se podupire pristup financiranju u trenutnoj financijskoj i gospodarskoj krizi (2009/C303/09).
+(4) Godišnji iznos plaća utvrđuje se primjenom mjesečne osnovice plaće u iznosu od 3.028,00 eura po zaposlenom odnosno zadnjim objavljenim podacima Ureda za statistiku Europske unije (EUROSTAT), izračunatoj u kunskoj protuvrijednosti po srednjem tečaju Hrvatske narodne banke na dan odobrenja kredita.
+(5) Godišnji iznos plaća korisnika kredita uključuje i sva davanja iz i na plaće.
+(6) Zajednički projekt iz stavka 1. ovoga članka je projekt u kojem je udio podizvođača na temelju projektne dokumentacije veći od 20 posto vrijednosti projekta.

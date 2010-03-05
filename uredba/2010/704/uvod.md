@@ -1,0 +1,1 @@
+Na temelju članka 19. Zakona o jamstvenom fondu za gospodarski oporavak i razvitak (»Narodne novine«, broj 20/2010) i članka 10. stavka 4. Zakona o Hrvatskoj banci za obnovu i razvitak (»Narodne novine«, broj 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 4. ožujka 2010. godine donijela

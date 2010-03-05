@@ -1,0 +1,8 @@
+# Članak 31.
+(1) HBOR zajedno s ugovorom o jamstvu i obavijesti o potvrđivanju popisa kredita, dostavlja banci broj račun za plaćanje naknade koja je prihod državnog proračuna za sve korisnike kredita iz popisa kredita.
+(2) Osnovicu za obračun naknade iz stavka 1. ovoga članka koja se plaća odmah po davanju jamstva predstavlja odobreni i potvrđeni iznos glavnice kredita za koje je dano jamstvo, a za obračun daljnjih naknada osnovica je stanje glavnice kredita, u dijelu pokrivenom jamstvom na zadnji dan kvartala kalendarske godine koji prethodi kvartalu za koji se plaća naknada, u cijelom razdoblju trajanja jamstva.
+(3) Naknada koja se plaća odmah po davanju jamstva, umanjuje se razmjerno preostalom broju dana u tom kvartalu.
+(4) HBOR ispostavlja bankama obračun naknade iz stavka 1. ovoga članka do petnaestog u prvom mjesecu kvartala za koji se naknada obračunava. HBOR dostavlja Ministarstvu financija popis o izdanim obračunima koji sadrži podatke o banci koja plaća naknadu i iznosu naknade po pojedinoj banci.
+(5) Banke su dužne naknade koje su prihod državnog proračuna uplaćivati na račun državnog proračuna u roku deset dana od dana primitka računa, a najkasnije do dvadeset petog u prvom mjesecu kvartala za koji je obračun ispostavljen.
+(6) Banke su dužne HBOR-u dostaviti podatke o stanju glavnice kredita na kraju svakog kvartala, kao i druge podatke iz tabele koja je sadržana u pozivu na aukciju i to najkasnije do desetog u mjesecu nakon završetka svakoga kvartala.
+(7) Ako korisnik kredita nije iskoristio cijeli iznos odobrenog kredita za koji je dano jamstvo obračunata provizija i plaćena naknada se ne vraćaju.

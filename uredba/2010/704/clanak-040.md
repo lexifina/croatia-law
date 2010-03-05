@@ -1,0 +1,3 @@
+## V. ZAVRŠNA ODREDBA
+# Članak 40.
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
