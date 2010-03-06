@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 2. Zakona o genetski modificiranim organizmima (»Narodne novine« broj 70/05 i 137/09) ministar zdravstva i socijalne skrbi uz suglasnost ministra kulture, ministrice zaštite okoliša, prostornog uređenja i graditeljstva, ministra poljoprivrede, ribarstva i ruralnog razvoja i ministra regionalnog razvoja, šumarstva i vodnoga gospodarstva, donosi
