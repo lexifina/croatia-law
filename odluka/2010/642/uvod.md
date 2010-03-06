@@ -1,0 +1,1 @@
+Na temelju odredbe članka 53. stavka 2. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje, (»Narodne novine« broj 106/99, 63/00 i 107/07) Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici održanoj 18. veljače 2010. godine
