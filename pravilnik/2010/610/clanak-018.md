@@ -1,0 +1,10 @@
+# Članak 18.
+Izvori financiranja jesu: opći prihodi i primici, doprinosi, vlastiti prihodi, prihodi za posebne namjene, pomoći, donacije, prihodi od prodaje ili zamjene nefinancijske imovine, naknade s naslova osiguranja i namjenski primici.
+1. U izvor financiranja - opći prihodi i primici proračun uključuje prihode koji se ostvaruju temeljem posebnih propisa u kojima za prikupljene prihode nije definirana namjena korištenja, a to su: prihodi od poreza, prihodi od financijske imovine, prihodi od nefinancijske imovine, prihodi od administrativnih (upravnih) pristojbi, prihodi državne uprave, prihodi od kazni te primici od financijske imovine i zaduživanja za koje nije definirana namjena korištenja. U izvor financiranja - opći prihodi i primici proračunski korisnik uključuje prihode koje ostvari iz nadležnog proračuna.
+2. U izvor financiranja - doprinosi uključuju se prihodi od uplaćenih doprinosa za zdravstveno osiguranje, mirovinsko osiguranje i doprinosa za zapošljavanje.
+3. U izvor financiranja - vlastiti prihodi uključuju se prihodi koje proračunski korisnik ostvari obavljanjem poslova na tržištu i u tržišnim uvjetima, a koje poslove mogu obavljati i drugi pravni subjekti izvan općeg proračuna.
+4. U izvor financiranja - prihodi za posebne namjene uključuju se prihodi čije su korištenje i namjena utvrđeni posebnim zakonima i propisima koje donosi Vlada Republike Hrvatske.
+5. U izvor financiranja - pomoći uključuju se prihodi koji se ostvaruju od inozemnih vlada, međunarodnih organizacija, drugih proračuna i od ostalih subjekata unutar općeg proračuna.
+6. U izvor financiranja - donacije uključuju se prihodi koji se ostvaruju od fizičkih osoba, neprofitnih organizacija, trgovačkih društava i od ostalih subjekata izvan općeg proračuna.
+7. U izvor financiranja - prihodi od prodaje ili zamjene nefinancijske imovine i naknade s naslova osiguranja uključuju se prihodi koji se ostvaruju prodajom ili zamjenom nefinancijske imovine i od naknade štete s osnove osiguranja.
+8. U izvor financiranja - namjenski primici uključuju se primici od financijske imovine i zaduživanja, čija je namjena utvrđena posebnim ugovorima i/ili propisima.

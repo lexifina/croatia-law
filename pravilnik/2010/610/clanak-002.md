@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Odredbe ovoga Pravilnika odnose se na državni proračun i proračune jedinica lokalne i područne (regionalne) samouprave, proračunske korisnike državnog proračuna i proračunske korisnike proračuna jedinica lokalne i područne (regionalne) samouprave te na izvanproračunske korisnike u skladu s odredbama članka 2. stavaka 1. i 2. Zakona o proračunu (dalje u tekstu: proračunski i izvanproračunski korisnici).
+(2) Proračunske klasifikacije čine okvir kojim se iskazuju i sustavno prate prihodi i primici te rashodi i izdaci po nositelju, cilju, namjeni, vrsti, lokaciji i izvoru financiranja.
+(3) Proračuni i proračunski korisnici dužni su u procesima planiranja, izvršavanja, računovodstvenog evidentiranja i izvještavanja iskazivati prihode i primitke te rashode i izdatke prema proračunskim klasifikacijama u skladu s odredbama Zakona o proračunu i ovoga Pravilnika.
+(4) Izvanproračunski korisnici dužni su u procesima planiranja i izvještavanja iskazivati prihode i primitke te rashode i izdatke prema proračunskim klasifikacijama u skladu s odredbama Zakona o proračunu i ovoga Pravilnika.
