@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 2. stavak 2., mijenja se i glasi:
+»Odredba stavka 1. ovoga članka ne odnosi se na goriva u pakiranjima do 200 litara i na gorivo iz tarifne oznake 2711190010, za mješavinu propana i butana, gorivo iz tarifne oznake 271112 - naftni plinovi i ostali plinoviti ugljikovodici: propan, gorivo iz tarifne oznake 271113 - naftni plinovi i ostali plinoviti ugljikovodici: butan, u hermetički zatvorenoj metalnoj posudi, mase 190 grama, predviđeno isključivo za primjenu u grijalicama za lemljenje, kao gorivo za kamperska kuhala, kamperske svjetiljke i sl.«
+Stavak 3. mijenja se i glasi:
+»U skladištima u kojima se obavlja trgovina na veliko i trgovina s inozemstvom, odnosno čuvaju goriva iz članka 1. ove Uredbe, minimalni ukupni volumen jednog ili više spremnika za skladištenje pojedine vrste naftnog derivata ne može biti manji od 300 m3 za sva goriva, osim za gorivo monoalkilni esteri masnih kiselina, s volumnim udjelom estera 96,5% ili većim (FAME) za dizelske motore (BIODIZEL) iz tarifne oznake 38249091, za koje najmanji ukupni volumen jednog ili više spremnika ne može biti manji od 100 m3.«
