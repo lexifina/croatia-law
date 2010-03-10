@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Visina novčane naknade za koncesiju za distribuciju plina i koncesiju za izgradnju distribucijskog sustava određuje se u iznosu od 0,5% do 1,5% od ostvarenog prihoda koncesionara ostvarenog obavljanjem energetske djelatnosti distribucije plina u prethodnoj godini na području za koje se daje koncesija.
+(2) Iznimno od stavka 1. ovoga članka, koncesionaru koji nije obavljao energetsku djelatnost distribucije plina u prethodnoj godini na području za koje se daje koncesija, novčana naknada za koncesiju određuje se u iznosu od 0,3% od planiranog prihoda, prema ponudi koja je sastavni dio ugovora o koncesiji, za godinu u kojoj počinje obavljati djelatnost distribucije plina.
