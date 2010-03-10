@@ -1,0 +1,1 @@
+Pravilnik o utvrđivanju prevalencije i otpornosti bakterija roda Compylobacter spp. na antimikrobne pripravke u jatima tovnih pilića i utvrđivanju prevalencije bakterija Compylobacter spp. i Salmonella spp. u trupovima tovnih pilića
