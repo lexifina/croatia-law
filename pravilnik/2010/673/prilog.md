@@ -1,0 +1,1 @@
+[1] Pravinikom o službenim kontrolama hrane životinjskog podrijetla(»Narodne novine« broj 99/07) preuzete su odredbe Uredbe (EZ-a) br. 854/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. kojom se utvrđuju posebna pravila za obavljanje službenih kontrola proizvoda životinjskog podrijetla namijenjenih prehrani ljudi
