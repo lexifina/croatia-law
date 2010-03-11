@@ -1,0 +1,3 @@
+# Članak 11.
+Plaća pročelnika upravnog odjela ili službe, bez uvećanja za radni staž, ne smije se odrediti u iznosu većem od umnoška osnovice i koeficijenta za obračun plaće župana, gradonačelnika ili općinskog načelnika koji svoju dužnost obnaša profesionalno u istoj jedinici lokalne i područne (regionalne) samouprave.
+U jedinici lokalne samouprave u kojoj gradonačelnik, odnosno općinski načelnik svoju dužnost ne obnaša profesionalno, plaća pročelnika upravnog odjela ili službe, bez uvećanja za radni staž, ne smije biti veća od najvišeg dopuštenog iznosa plaće gradonačelnika, odnosno općinskog načelnika utvrđenog u članku 4. ovoga Zakona.

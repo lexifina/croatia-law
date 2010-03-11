@@ -1,0 +1,3 @@
+# Članak 16.
+U jedinicama lokalne i područne (regionalne) samouprave iz članka 15. ovoga Zakona, u kojima iznos tekućih pomoći prelazi 10% prihoda poslovanja jedinice, osnovica za obračun plaće službenika i namještenika u upravnim odjelima i službama ne smije biti veća od osnovice za obračun plaće državnih službenika i namještenika.
+U jedinicama lokalne i područne (regionalne) samouprave iz stavka 1. ovoga članka koeficijenti za obračun plaće službenika i namještenika ne smiju biti veći od koeficijenata složenosti poslova radnih mjesta s odgovarajućim nazivima u državnoj službi, a koeficijent za obračun plaće pročelnika upravnog odjela ili službe ne smije biti veći od koeficijenta složenosti poslova načelnika sektora ili službe.

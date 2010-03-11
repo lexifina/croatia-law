@@ -1,0 +1,7 @@
+# Članak 4.
+Plaće župana, gradonačelnika i općinskih načelnika, bez uvećanja za radni staž, ne smiju se odrediti u iznosima većim od:
+– plaća gradonačelnika Grada Zagreba, u iznosu većem od umnoška koeficijenta 7,14 i osnovice za izračun plaće državnih dužnosnika, prema propisima kojima se uređuju obveze i prava državnih dužnosnika,
+– plaća župana i plaća gradonačelnika velikog grada i grada sjedišta županije, u iznosu većem od umnoška koeficijenta 6,42 i osnovice za izračun plaće državnih dužnosnika, prema propisima kojima se uređuju obveze i prava državnih dužnosnika,
+– plaća gradonačelnika i općinskog načelnika u jedinicama lokalne samouprave koje imaju više od 10.000 stanovnika, u iznosu većem od umnoška koeficijenta 5,27 i osnovice za izračun plaće državnih dužnosnika, prema propisima kojima se uređuju obveze i prava državnih dužnosnika,
+– plaća gradonačelnika i općinskih načelnika u jedinicama lokalne samouprave koje imaju od 3.001 do 10.000 stanovnika, u iznosu većem od umnoška koeficijenta 4,55 i osnovice za izračun plaće državnih dužnosnika, prema propisima kojima se uređuju obveze i prava državnih dužnosnika,
+– plaća gradonačelnika i općinskog načelnika u jedinicama lokalne samouprave koje imaju do 3.000 stanovnika, u iznosu većem od umnoška koeficijenta 4,26 i osnovice za izračun plaće državnih dužnosnika, prema propisima kojima se uređuju obveze i prava državnih dužnosnika.
