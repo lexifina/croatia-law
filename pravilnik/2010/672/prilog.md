@@ -1,0 +1,1 @@
+[1] Pravilnikom o higijeni hrane životinjskog podrijetla (»Narodne novine« broj 99/07) preuzete su odredbe Uredbe (EZ-a) br. 853/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. kojom se utvrđuju posebna pravila higijene hrane životinjskog podrijetla
