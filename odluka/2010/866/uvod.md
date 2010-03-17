@@ -1,0 +1,1 @@
+Na osnovi članka 87. stavka 1. točke 1. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 150/08. i 94/09.) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« broj 76/93., 29/97., 47/99. i 35/08.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 6. sjednici održanoj 7. rujna 2009. godine donijelo je
