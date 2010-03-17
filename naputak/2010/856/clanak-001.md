@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Naputkom određuju se uvjeti i način ostvarivanja prava na povrat poreza na dodanu vrijednost (dalje u tekstu: porez) koji su ovlaštene znanstvene ustanove platile za uvezenu opremu i opremu nabavljenu u Republici Hrvatskoj za realizaciju tehnologijskoistraživačkih i znanstvenoistraživačkih projekata u 2010. godini, u skladu s člankom 36. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2010. godinu.

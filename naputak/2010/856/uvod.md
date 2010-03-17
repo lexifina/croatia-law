@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 6. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2010. godinu (»Narodne novine«, br. 151/2009), Ministarstvo financija, u suglasnosti s Ministarstvom znanosti, obrazovanja i športa klasa: 410-01/10-01/00004, urbroj: 533-08-10-0004 od 24. veljače 2010. godine, donosi
