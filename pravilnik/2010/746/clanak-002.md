@@ -1,0 +1,6 @@
+# Članak 2.
+U smislu ovog Pravilnika pojedini pojmovi imaju sljedeće značenje:
+1. »Integrirana proizvodnja poljoprivrednih proizvoda« (u daljnjem tekstu: integrirana proizvodnja) podrazumijeva uravnoteženu primjenu agrotehničkih mjera uz uvažavanje ekonomskih, ekoloških i toksikoloških čimbenika pri čemu se kod jednakog ekonomskog učinka prednost daje ekološki i toksikološki prihvatljivim mjerama.
+2. »Integrirana zaštita bilja« je sustav zaštite bilja koji podrazumijeva primjenu bioloških, biotehničkih, kemijskih i fizikalnih mjera zaštite bilja, te ostalih agrotehničkih mjera pri čemu je uporaba kemijskih sredstava za zaštitu bilja ograničena na najnužniju mjeru potrebnu za održanje populacije štetnih organizama ispod razine gospodarske štete.
+3. »Proizvođač u integriranoj proizvodnji« (u daljnjem tekstu: proizvođač) jest pravna ili fizička osoba koja proizvodi proizvode iz integrirane proizvodnje sukladno ovom Pravilniku i upisana je u Upisnik proizvođača u integriranoj proizvodnji.
+4. »Proizvod iz integrirane proizvodnje« (u daljnjem tekstu: integrirani proizvod) jest svaki poljoprivredni proizvod proizveden i označen sukladno odredbama ovoga Pravilnika i odredbama propisa o hrani.
