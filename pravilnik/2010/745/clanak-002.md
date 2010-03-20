@@ -1,0 +1,4 @@
+# Članak 2.
+Zaštita poljoprivrednog zemljišta od onečišćenja provodi se zabranom, ograničavanjem i spriječavanjem unošenja onečišćujučih tvari u zemljištu kao i poduzimanjem drugih mjera za očuvanje poljoprivrednog zemljišta.
+Onečišćujuće tvari su teški metali i potencijalno toksični elementi (Cd, Cr, Cu, Hg, Ni, Pb i Zn), organske onečišćujuće tvari (pesticidi, industrijske kemikalije, nusproizvodi izgaranja i industrijskih procesa), radionuklidi i patogeni organizmi. Onečišćujućim tvarima smatraju se i tvari koje se uobičajeno unose u poljoprivredno zemljište, ali neadekvatno primjenjene (količine, vrijeme primjene, uvjeti u zemljištu i drugo) mogu prouzročiti štete po okoliš i/ili zdravlje ljudi.
+Izvori onečišćenja su: industrijska proizvodnja i usluge, industrijski otpad, gradski otpad, naftna industrija, rudarstvo, elektrane, skladišta, vojna djelatnost, promet, transportni izljevi i ostalo.
