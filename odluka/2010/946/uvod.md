@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009), a u vezi članka 99. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 152/2008 i 21/2010), Vlada Republike Hrvatske je na sjednici održanoj 24. ožujka 2010. godine donijela
