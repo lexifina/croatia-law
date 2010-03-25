@@ -1,0 +1,1 @@
+Uredba o dopuni Uredbe o razini genetski modificiranih organizama u proizvodima ispod koje proizvodi koji se stavljaju na tržište ne moraju biti označeni ko proizvodi koji sadrže genetski modificirane organizme
