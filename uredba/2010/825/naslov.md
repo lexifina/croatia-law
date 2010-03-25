@@ -1,0 +1,1 @@
+Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jadranovo, područje mjesto Havišće
