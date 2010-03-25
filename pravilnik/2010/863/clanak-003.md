@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Podaci o darivatelju/ici spolnih stanica dostavljaju se u Državni registar na obrascu Podaci o darivatelju/ici (Obrazac D) koji je tiskan u Prilogu 1. ovoga Pravilnika i čini njegov sastavni dio.
+(2) Podatke o primateljici spolnih stanica ovlaštena zdravstvena ustanova obvezna je dostaviti Državnom registru na obrascu Podaci o primateljici (Obrazac P) koji je tiskan u Prilogu 2. ovoga Pravilnika i čini njegov sastavni dio.
+(3) Podatke o djetetu začetom medicinskom oplodnjom darivanim spolnim stanicama zdravstvena ustanova u kojoj se dijete rodilo obvezna je odmah po rođenju djeteta dostaviti Državnom registru na obrascu Podaci o djetetu začetom medicinskom oplodnjom darivanim spolnim stanicama (Obrazac N) koji je tiskan u Prilogu 3. ovoga Pravilnika i čini njegov sastavni dio.
+(4) Obrasci iz stavka 1., 2. i 3. ovoga članka dostavljaju se Državnom registru.
+(5) Podaci obrazaca iz Priloga 1., 2. i 3. ovoga Pravilnika upisuju se u upisnik podataka Državnog registra, a popratna medicinska dokumentacija i obrazac trajno se čuvaju u ministarstvu nadležnom za zdravstvo (u daljnjem tekstu: ministarstvo). Preslika obrasca vraća se ovlaštenoj zdravstvenoj ustanovi s upisanim odgovarajućim jedinstvenim identifikacijskim brojem iz članka 5. stavka 1. ovoga Pravilnika.
