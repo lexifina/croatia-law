@@ -1,0 +1,1 @@
+Uredba o objavi Ugovora između Vlade Republike Hrvatske i Vlade Japana koji se odnosi na Projekt identifikacije rizika i planiranja korištenja zemljišta za ublažavanje nepogoda kod odrona zemlje i poplava u Hrvatskoj
