@@ -1,0 +1,1 @@
+Odluka o rasporedu sredstava osiguranih u državnom proračunu Republike Hrvatske za 2010. godinu ("Narodne novine" broj 151/2009) u razdjelu 020 Vlada Republike Hrvatske, Glava 21 Savjet za nacionalne manjine, Aktivnost A732003 nacionalne manjine, pozicija 3811 Tekuće donacije u novcu
