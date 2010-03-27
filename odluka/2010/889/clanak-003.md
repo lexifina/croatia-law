@@ -1,0 +1,2 @@
+# Članak 3.
+Najniža mirovina određuje se hrvatskom branitelju iz Domovinskog rata kojemu je priznato pravo na mirovinu zbog profesionalne nesposobnosti za rad prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 174/04., 92/05., 2/07., 107/07., 65/09 i 137/09.). uz primjenu mirovinskog faktora iz članka 80. Zakona o mirovinskom osiguranju i od l. siječnja 2010. iznosi 1911,96 kn mjesečno.
