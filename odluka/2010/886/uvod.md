@@ -1,0 +1,1 @@
+Na temelju članka 40.a Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003., 140/2005., 132/2006., 150/2008., 92/2009. i 153/2009.) te članka 28. i članka 42. stavka 3. točke 12. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) Savjet Hrvatske narodne banke na sjednici održanoj 10. ožujka 2010. donio je
