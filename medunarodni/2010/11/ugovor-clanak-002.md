@@ -1,0 +1,2 @@
+# Članak 2.
+Državljani bilo koje od ugovornih stranaka koji su nositelji valjanih diplomatskih i službenih putovnica ugovornih stranaka, a koji su članovi diplomatske misije, konzularnog ureda ili predstavnici pri međunarodnim organizacijama sa sjedištem na državnom području druge ugovorne stranke, kao i članovi njihove obitelji koji s njima žive u zajedničkom domaćinstvu i koji su nositelji valjanih diplomatskih i službenih putovnica, mogu tijekom trajanja njihove službene dužnosti ući, boraviti i napustiti državno područje druge ugovorne stranke bez vize.
