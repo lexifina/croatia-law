@@ -1,0 +1,3 @@
+# Članak 6.
+1. Svaka će ugovorna stranka osigurati tajnost informacija ili sredstava prenesenih od druge ugovorne stranke, kao i zahtjeva sačinjenog prema članku 3. ovog Sporazuma, ukoliko je navedeno tajno prema nacionalnom zakonodavstvu države druge ugovorne stranke. Ugovorne stranke će odrediti najmanje istu razinu tajnosti takve informacije kao što se primjenjuje na njihove vlastite tajne informacije odgovarajuće sigurnosne razine.
+2. U postupanju s informacijama, sredstvima ili zahtjevima koji su tajni prema nacionalnom zakonodavstvu ugovorne stranke koja daje podatke primijenit će se odredbe članka 5. ovog Sporazuma, kao i nacionalna zakonodavstva država ugovornih stranaka.

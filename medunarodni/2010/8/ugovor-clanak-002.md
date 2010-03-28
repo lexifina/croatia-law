@@ -1,0 +1,17 @@
+# Članak 2.
+Ugovorne stranke će surađivati u sprječavanju, otkrivanju i istrazi kaznenih djela navedenih u članku 1. ovog Sporazuma, u skladu s nacionalnim zakonodavstvima svojih država, osobito na sljedeće načine:
+a) razmjenom informacija o: osobama za koje postoji sumnja da su sudjelovale u izvršenju kaznenih djela; organizaciji kriminalnih skupina; karakterističnom ponašanju pojedinih počinitelja kaznenih djela i skupina; činjenicama vezanim uz vrijeme, mjesto i način počinjenja kaznenih djela; objektima-ciljevima napada; putevima i mjestima skrivanja, porijeklu i odredištu stvari čije je držanje nezakonito; posebnim okolnostima; obavijesti o prekršenim zakonima te mjerama poduzetim u svrhu sprječavanja takvih kaznenih djela;
+b) razmjenom informacija o planiranim terorističkim radnjama protiv interesa ugovornih stranaka i terorističkim skupinama čiji članovi planiraju počiniti, čine ili su počinili kaznena djela na državnom području jedne od ugovornih stranaka;
+c) suradnjom u potrazi za osobama koje su osumnjičene da su počinile kaznena djela i osobama koje izbjegavaju kaznenu odgovornost ili služenje kazne;
+d) suradnjom u potrazi za nestalim osobama i izvršavanju postupaka potrebnih za identifikaciju osoba ili ostataka nepoznatih osoba;
+e) suradnjom u provedbi mjera na temelju programa za zaštitu svjedoka i drugih osoba koje su u očitoj opasnosti od povrede za njihovo zdravlje ili pod bilo kojom vrstom ozbiljne prijetnje vezane uz kaznene postupke; razmjenom informacija i iskustva u vezi s navedenim;
+g) suradnjom u potrazi za ukradenim stvarima i drugim predmetima, uključujući motorna vozila koja mogu biti povezana s kaznenim djelima;
+h) na zahtjev druge ugovorne stranke poduzeti bilo koje druge primjerene policijske mjere, posebno nadzor predmeta u svrhu određivanja primatelja, pod uvjetom da je takav zahtjev od druge ugovorne strane podnesen ne kasnije od 48 sati prije poduzimanja mjere;
+i) međusobnom koordinacijom suradnje u pružanju kadrovske, tehničke i organizacijske pomoći u otkrivanju i istrazi kaznenih djela, uključujući formiranje zajedničkih radnih grupa za koordinaciju djelovanja;
+j) po potrebi i u svrhu pripremanja koordiniranih mjera, organizirati radne sastanke na kojima će se baviti određenim slučajevima kojih je istraga u tijeku;
+k) razmjenom informacija o rezultatima kriminalističkih i kriminoloških istraživanja, o tehnikama otkrivanja kaznenih djela i istražnim tehnikama, o organizacijskim strukturama policijskih jedinica, o njihovim radnim metodama i sredstvima kojima se koriste;
+l) razmjenom informacija i iskustava o načinima počinjenja kaznenih djela koja sežu izvan državnih granica ugovornih stranaka, kao i o sredstvima korištenim od strane osoba koje čine ili su uključene u počinjenje kaznenih djela;
+m) osigurati dostupnost informacija o predmetima ili uzorcima predmeta koji su korišteni za počinjenje kaznenih djela ili koji proizlaze iz kaznenih djela, uključujući uzorke opojnih droga i psihotropnih tvari prirodnog ili sintetičkog porijekla ukoliko to zahtijeva druga ugovorna stranka;
+n) organiziranjem uzajamne razmjene stručnjaka u cilju usavršavanja njihove stručnosti; uzajamnim upoznavanjem sa sredstvima i metodama suzbijanja kaznenih djela;
+o) razmjenjivanjem pravnih propisa, analiza, strategija i relevantne literature;
+p) razmjenjivanjem iskustava kod pravnog reguliranja opojnih droga i psihotropnih tvari i njihovih prekursora uz posebnu pozornost na njihovu moguću zlouporabu.

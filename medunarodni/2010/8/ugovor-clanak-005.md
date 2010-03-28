@@ -1,0 +1,11 @@
+# Članak 5.
+U svrhu zaštite osobnih podataka (u daljnjem tekstu »podaci«) koji se razmjenjuju u okviru suradnje između ugovornih stranaka u skladu s nacionalnim zakonodavstvima njihovih država, postupit će se na sljedeći način:
+a) ugovorna stranka koja prima podatke smije ih koristiti samo u svrhu i pod uvjetima određenim od strane ugovorne stranke koja daje podatke;
+b) na zahtjev ugovorne stranke koja daje podatke, ugovorna stranka koja prima podatke pružit će informacije o korištenju danih podataka i rezultatima dobivenim na taj način;
+c) podaci se mogu proslijediti isključivo tijelima koja su nadležna za borbu protiv kriminala. Podaci se mogu prenijeti drugim tijelima samo u slučaju pisanog odobrenja ugovorne stranke koja daje podatke;
+d) ugovorna stranka koja daje podatke dužna je osigurati dostavu točnih podataka i utvrditi je li ta dostava neophodna i odgovarajuća. U slučaju da se naknadno utvrdi da su dani podaci netočni ili podaci koji se nisu smjeli dati, o tome se mora odmah obavijestiti ugovornu stranku koja prima podatke. Ugovorna stranka koja prima podatke ispravit će pogreške ili, ukoliko podaci nisu smjeli biti dani, uništiti podatke;
+e) osoba čiji su podaci dani ili će biti dani dobit će na vlastiti zahtjev informaciju o danim podacima i svrsi njihovog korištenja, ukoliko je to dozvoljeno nacionalnim zakonodavstvom države zatražene ugovorne stranke. Takve se informacije neće dati ukoliko javni interes za nepružanjem informacija prevladava nad interesima osobe čiji se podaci daju;
+f) pri prijenosu podataka, ugovorna stranka koja daje podatke obavijestit će drugu ugovornu stranku o vremenskom roku za brisanje podataka u skladu s nacionalnim zakonodavstvom njezine države. Bez obzira na vremenski rok, podaci koji se odnose na pojedinu osobu moraju se izbrisati čim prestanu biti potrebni. Ugovorna stranka koja daje podatke mora biti obaviještena o brisanju dostavljenih podataka i razlozima brisanja;
+g) obje ugovorne stranke dužne su voditi evidenciju o davanju, primitku i brisanju osobnih podataka;
+h) ugovorne stranke dužne su djelotvorno štititi podatke o pojedinim osobama kako bi se spriječio neovlašten pristup, neovlašteno daljnje dostavljanje te neovlašteno mijenjanje ili objavljivanje podataka;
+i) u slučaju prestanka važenja ovog Sporazuma, uništit će se svi podaci stečeni na osnovi primjene Sporazuma.
