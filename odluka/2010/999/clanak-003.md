@@ -1,0 +1,8 @@
+# Članak 3.
+Kreditna institucija dužna je u otvorenu deviznu poziciju u pojedinoj stranoj valuti (i u otvorenu poziciju u zlatu) uključiti sljedeće elemente:
+1) neto promptnu (engl. spot) poziciju u valuti (razlika između imovine i obveza u toj valuti, uključujući i nedospjele kamate i promptnu poziciju valutnih ugovora o razmjeni i promptne transakcije koje su ugovorene, ali nisu bilančno uknjižene) odnosno neto promptnu poziciju u zlatu,
+2) neto terminsku (engl. forward) poziciju (razlika između svih iznosa koji će biti primljeni i svih iznosa koji će biti plaćeni na temelju valutnih forvarda ili forvarda na zlato, uključujući i valutne ročnice ili ročnice na zlato te nominalni iznos valutnih ugovora o razmjeni koji nije uključen u promptnu poziciju),
+3) neopozive garancije/jamstva, nepokrivene akreditive i slične instrumente na temelju kojih će kreditna institucija zasigurno morati izvršiti plaćanje, a postoji vjerojatnost da ta sredstva kreditna institucija neće moći namiriti,
+4) buduće neto prihode/rashode koji još nisu obračunati, ali su zaštićeni na način da odnos zaštite udovoljava zahtjevima računovodstva zaštite u skladu s Međunarodnim računovodstvenim standardom 39 pod uvjetom da se dosljedno uključuju,
+5) neto delta-ekvivalent ukupne knjige valutnih opcija i opcija na zlato, izračunat u skladu s dijelom 6.3. Glave III. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija (»Narodne novine« br. 1/2009., 75/2009. i 2/2010.) i
+6) tržišnu vrijednost bilo koje druge opcije (koja se ne odnosi na zamjenu valuta ili zlato) čiji je odnosni financijski instrument iskazan u stranoj valuti.
