@@ -1,0 +1,3 @@
+# Članak 80.
+Odjel za izručenja i međunarodnu pravnu pomoć u kaznenim stvarima obavlja stručne i upravne poslove pripreme međunarodnih ugovora u pitanjima izručenja i međunarodne pravne pomoći u kaznenim stvarima; izrade nacrta prijedloga zakona i podzakonskih akata i provođenje međunarodnih ugovora i konvencija iz područja međunarodne pravne pomoći u kaznenim stvarima; poslove izručenja i prenošenja izvršenja kaznenih sankcija, djeluje kao središnje tijelo za zaprimanje i odašiljanje zamolnica za međunarodnu pravnu pomoć u kaznenim stvarima sukladno međunarodnim ugovorima i domaćim zakonodavstvom te obavlja i druge poslove iz svojega djelokruga.
+5.5.2. Odjel za međunarodnu pravnu pomoć u građanskim stvarima

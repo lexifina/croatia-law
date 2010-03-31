@@ -1,0 +1,3 @@
+# Članak 70.
+Odjel za koordinaciju pravosudnih projekata na temelju podataka dobivenih od Odjela za projekte Europske Unije i Odjela za bilateralne projekte i projekte s međunarodnim organizacijama i financijskim institucijama izrađuje analize stanja dostupnih izvora sredstava pomoći i planove za prikupljanje sredstava pomoći, te informira predstavnike međunarodne zajednice o potrebama financiranja; organizira i priprema materijale za konferencije, treninge, seminare i radionice vezano za planiranje, pripremu i provedbu projekata; te obavlja i druge poslove iz svojega djelokruga.
+5.2.2. Odjel za projekte Europske Unije

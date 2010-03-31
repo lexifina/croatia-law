@@ -1,0 +1,3 @@
+# Članak 12.
+Odjel za organizacijske propise u pravosudnim tijelima i posebne upravne postupke izrađuje prijedloge zakona i drugih propisa za ustanovljavanje, djelokrug, sastav, ustrojstvo i unutarnje poslovanje sudova i državnog odvjetništva i sudjeluje u osiguranju provedbe tih propisa. Donosi drugostupanjske odluke u postupku imenovanja stalnih sudskih tumača, vještaka i procjenitelja, te na zahtjev državnog odvjetništva daje mišljenje u pokrenutim sudskim postupcima protiv Republike Hrvatske i mišljenje povodom zahtjeva za mirno rješenje spora prije pokretanja sudskog postupka protiv Republike Hrvatske. Obavlja i druge poslove u okviru svojega djelokruga.
+2.2.2. Odjel za propise javnog bilježništva, odvjetništva, sudskih vještaka i tumača

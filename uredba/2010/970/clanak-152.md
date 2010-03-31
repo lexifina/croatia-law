@@ -1,0 +1,3 @@
+# Članak 152.
+Odjel za izvršavanje zaštitnog nadzora i rada za opće dobro na slobodi obavlja upravne i stručne poslove koji se odnose na izvršavanje zaštitnog nadzora i rada za opće dobro na slobodi, utvrđuje potrebe i mjere za unapređenje izvršavanja istih, pruža stručnu pomoć i obavlja nadzor nad njihovim izvršavanjem. Provodi nadzor iz svog djelokruga. Izrađuje prijedloge programa izobrazbe probacijskih službenika i povjerenika iz područja izvršavanja zaštitnog nadzora i rada za opće dobro na slobodi.
+8.1.1.3. Odjel za probacijske poslove tijekom izvršavanja kazne zatvora i uvjetnog otpusta

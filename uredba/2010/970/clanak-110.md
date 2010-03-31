@@ -1,0 +1,10 @@
+# Članak 110.
+Odjel za dijagnostiku obavlja poslove medicinske, socijalne, psihološke, pedagoške i kriminološke obrade zatvorenika u svrhu njihove klasifikacije, predlaganja donošenja orijentacijskog programa izvršavanja kazne zatvora, predlaganja kaznenog tijela u kome će zatvorenik izdržavati kaznu zatvora. Obavlja stručne poslove organizacije boravka zatvorenika u Odjelu, njihovih dnevnih aktivnosti i doticaja s vanjskim svijetom. Prikuplja i obrađuje kvalitativne i kvantitativne podatke o zatvoreniku i kaznenim djelima, surađuje sa sucem izvršenja i drugim državnim tijelima u pitanjima koji su od značenja za predlaganje kaznenog tijela u kojem će zatvorenik izdržavati kaznu zatvora. Obavlja poslove matice zatvorenika i izrađuje statistička i druga izvješća.
+Za obavljanje poslova iz djelokruga Odjela za dijagnostiku ustrojavaju se:
+7.1.2.1.1. Odsjek za prijam i maticu zatvorenika,
+7.1.2.1.2. Odsjek za dijagnostiku
+7.1.2.1.1. Odsjek za prijam i maticu zatvorenika
+Odsjek za prijam i maticu zatvorenika obavlja stručne poslove organizacije boravka zatvorenika u Odjelu, njihovih dnevnih aktivnosti i doticaja s vanjskim svijetom. Prikuplja od državnih tijela i obrađuje kvalitativne i kvantitativne podatke o zatvoreniku i kaznenim djelima. Surađuje sa sucem izvršenja i drugim državnim tijelima u pitanjima koja su od značaja za predlaganja kaznionice, odnosno zatvora u kojem će zatvorenik nastaviti izdržavati kaznu zatvora. Sudjeluje u izradi orijentacijskog programa izvršavanja kazne zatvora i predlaganju kaznionice, odnosno zatvora u kojem će zatvorenik nastaviti izdržavati kaznu. Obavlja poslove matice zatvorenika i izrađuje statistička i druga izvješća.
+7.1.2.1.2. Odsjek za dijagnostiku
+Odsjek za dijagnostiku obavlja stručne poslove psihološke, socijalne, medicinske i kriminološke obrade zatvorenika radi izrade orijentacijskog programa izvršavanja kazne zatvora i uvjeta izvršavanja kazne zatvora te predlaganja kaznionice, odnosno zatvora u kojem će zatvorenik nastaviti izdržavati kaznu zatvora. Prati evaluaciju dijagnostičkih nalaza i predloženih programa izvršavanja kazne zatvora.
+7.1.2.2. Odjel za opće programe tretmana

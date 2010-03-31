@@ -1,0 +1,3 @@
+# Članak 153.
+Odjel za probacijske poslove u izvršavanju kazne zatvora i uvjetnog otpusta obavlja upravne i stručne poslove koji se odnose na izvršavanje kazne zatvora i izvršavanje nadzora nad uvjetno otpuštenim osuđenicima, utvrđivanje potreba i mjera za unapređenje izvršavanja istih, pružanje stručne pomoći i provođenje nadzora nad njihovim izvršavanjem. Provodi nadzor iz svog djelokruga. Izrađuje prijedloge programa izobrazbe probacijskih službenika i povjerenika iz područja izvršavanja kazne zatvora i izvršavanja nadzora nad uvjetno otpuštenim osuđenicima.
+8.1.1.4. Odjel za probacijske poslove tijekom kaznenog postupka

@@ -1,0 +1,2 @@
+# Članak 78.
+Odjel za multilateralnu suradnju sudjeluje u multilateralnim programima globalnih, europskih i regionalnih organizacija i inicijativa u području pravosuđa, predlaže smjernice rada Republike Hrvatske u međunarodnim institucijama i tijelima iz područja pravosuđa, priprema, podnosi izvješća te koordinira nastup hrvatskih pravosudnih tijela u međunarodnim institucijama i tijelima te obavlja i druge poslove iz svojega djelokruga.

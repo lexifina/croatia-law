@@ -1,0 +1,3 @@
+# Članak 87.
+Odjel za odnose s javnošću izvješćuje javnost o stavovima Ministarstva; u suradnji s glasnogovornikom, priprema i koordinira nastupe ministra, državnih tajnika, ravnatelja i čelnika pravosudnih tijela u medijima; obavlja poslove u vezi s pravom građana na pristup informacijama, objavljuje priopćenja, obavijesti i najave; obavlja poslove unutarnjeg, informiranja Ministarstva, pripreme i provođenja promotivnih aktivnosti Ministarstva, organizira (tiskovne) konferencije za potrebe Ministarstva, te obavlja i druge poslove iz svojega djelokruga.
+6.2.2. Odjel za interno informiranje i web-stranice

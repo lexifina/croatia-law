@@ -1,0 +1,2 @@
+# Članak 54.
+Odjel za propise maloljetničkog kaznenog prava obavlja upravne i stručne poslove vezano za izradu nacrta zakona i podzakonskih akta iz područja maloljetničkog kaznenog prava, analizira i prati primjenu navedenih propisa, daje mišljenje na prijedloge za usklađenja tih propisa s pravom Europske unije, priprema stručna mišljenja o nacrtima prijedloga zakona i podzakonskih akata iz drugih oblasti prava u odnosu na maloljetničko kazneno pravo te obavlja i druge poslove iz svojega djelokruga.

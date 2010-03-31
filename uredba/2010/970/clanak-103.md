@@ -1,0 +1,9 @@
+# Članak 103.
+Služba za upravne poslove i ljudske resurse obavlja upravne i stručne poslove koji se odnose na: jedinstveni način postupanja u obavljanju poslova iz djelokruga Službe, organiziranje izvršavanja kaznenopravnih sankcija i mjera, utvrđivanje potreba, prioriteta i mjera unaprjeđenja zatvorskog sustava, smještaj i prehranu zatvorenika i maloljetnika u kaznenim tijelima (kaznionicama, zatvorima i odgojnim zavodima), gospodarske aktivnosti i materijalne resurse, planiranje i raspoređivanje sredstava ostvarenih radom zatvorenika i maloljetnika, zaštitu prava zatvorenika i maloljetnika, zakonitost rada kaznenih tijela i postupanja prema zatvorenicima i maloljetnicima, rad zatvorenika i maloljetnika, zahtjeve za naknadu štete zatvorenika, službenika, namještenika i trećih osoba, profesionalnu sposobnost i praćenje negativnih učinaka službe na psihičko i fizičko zdravlje ovlaštenih službenih osoba, transfer i izručenja zatvorenika, poslove upravljanja kaznenim tijelima, upravljanja ljudskim resursima, službeničke odnose, planiranje, izgradnju, adaptaciju, investicijsko održavanje zgrada za smještaj zatvorenika i maloljetnika i rad zatvorenika i maloljetnika na ovim poslovima, predstavke i pritužbe u odnosu na zakonitost rada kaznenih tijela i Centra za izobrazbu, te zakonitost rada i postupanja državnih službenika, provođenje unutarnjeg nadzora iz svog djelokruga, međunarodnu suradnju i izradu nacrta propisa iz svog djelokruga.
+Za obavljanje poslova Službe za upravne poslove i ljudske resurse ustrojavaju se sljedeći odjeli:
+7.1.1.1. Odjel za upravljanje kaznenim tijelima i ljudskim resursima,
+7.1.1.2. Odjel za gospodarske aktivnosti i materijalne resurse,
+7.1.1.3. Odjel za investicijske poslove,
+7.1.1.4. Odjel za predstavke i pritužbe,
+7.1.1.5. Odjel za inspekcijski nadzor.
+7.1.1.1. Odjel za upravljanje kaznenim tijelima i ljudskim resursima

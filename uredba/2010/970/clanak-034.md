@@ -1,0 +1,2 @@
+# Članak 34.
+Odjel za trgovačko pravo i pravo društava obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i podzakonskih akata i drugih propisa iz područja trgovačkog prava, prava društava, stečajnog prava i upisa u sudski registar, analizira i daje prijedloge za usklađenje tih propisa s pravom Europske unije, provodi u okviru djelokruga rada Odjela ove zakone, daje stručna mišljenja, priprema stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga središnja tijela državne uprave te obavlja i druge poslove iz svojega djelokruga.

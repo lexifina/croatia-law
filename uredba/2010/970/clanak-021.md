@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel za informacijske tehnologije određuje standarde i norme IT opreme i usluga, izrađuje pravilnike vezane uz korištenje informatičkih resursa pravosudnih tijela, prati razvoj informacijskih tehnologija u funkciji pravosudnog sustava, prati potrebe te inicira nabavu i implementaciju nove opreme i programa, nadzire stabilnost i sigurnost informatičkog sustava te korištenja i održavanja opreme, koordinira rad davatelja usluga održavanja sistemske podrške za opremu i mreže pravosudnih tijela, organizira održavanje informatičke opreme za potrebe pravosudnih tijela, te obavlja i druge poslove iz svojega djelokruga za pravosudna tijela i Ministarstvo.
+2.4.3. Odjel za informatičku potporu

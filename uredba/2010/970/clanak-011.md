@@ -1,0 +1,7 @@
+## 2.2. SEKTOR ZA ORGANIZACIJSKE PROPISE
+# Članak 11.
+Sektor za organizacijske propise, izrađuje prijedloge zakona i drugih propisa za ustanovljavanje, djelokrug, sastav i ustrojstvo sudova i državnih odvjetništava i sudjeluje u osiguranju provedbe tih propisa. Izrađuje nacrte prijedloga propisa u vezi s radom odvjetničke i javnobilježničke službe, stalnih sudskih vještaka, tumača i procjenitelja. Obavlja administrativne i tehničke poslove u postupku imenovanja javnih bilježnika, te sve druge poslove vezane za javnobilježničku službu, prati i proučava rad odvjetništva i surađuje s Hrvatskom javnobilježničkom komorom i Hrvatskom odvjetničkom komorom. Vodi posebne upravne postupke i izrađuje prijedlog drugostupanjskih odluka u postupku imenovanja stalnih sudskih vještaka, tumača i procjenitelja, te na zahtjev državnog odvjetništva daje mišljenje u pokrenutim sudskim postupcima protiv Republike Hrvatske, te mišljenje povodom zahtjeva za mirno rješenje spora prije pokretanja sudskog postupka protiv Republike Hrvatske. Obavlja i druge poslove u okviru svojega djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za organizacijske propise ustrojavaju se sljedeći odjeli:
+2.2.1. Odjel za organizacijske propise u pravosudnim tijelima i posebne upravne postupke
+2.2.2. Odjel za propise javnog bilježništva, odvjetništva, sudskih vještaka i tumača
+2.2.1. Odjel za organizacijske propise u pravosudnim tijelima i posebne upravne postupke

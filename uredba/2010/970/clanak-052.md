@@ -1,0 +1,3 @@
+# Članak 52.
+Odjel za propise kaznenog procesnog prava i izvršavanja kaznenih sankcija obavlja upravne i stručne poslove vezano za izradu nacrta zakona i podzakonskih akta iz područja kaznenog procesnog prava i izvršavanja kaznenih sankcija, analizira i prati primjenu navedenih propisa, daje mišljenje na prijedloge za usklađenja tih propisa s pravom Europske unije, priprema stručna mišljenja o nacrtima prijedloga zakona i podzakonskih akata iz drugih oblasti prava u odnosu na kazneno procesno pravo i izvršavanja kaznenih sankcija te obavlja i druge poslove iz svojega djelokruga.
+4.1.3. Odjel za propise prekršajnog prava

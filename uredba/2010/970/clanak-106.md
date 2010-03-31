@@ -1,0 +1,3 @@
+# Članak 106.
+Odjel za investicijske poslove obavlja upravne i stručne poslove vezane za planiranje izgradnje, adaptacije i investicijskog održavanja zgrada za smještaj zatvorenika i maloljetnika i njihovu prilagodbu europskim standardima. Organizira rad zatvorenika raspoređenih na rad u radionici održavanja građevinskih objekata. Organizira stručne i administrativno-tehničke poslove na realizaciji izgradnje i adaptacije objekata, provodi nadzor nad izvođenjem radova i nadzor nad izvršenjem ugovora, ovjerava račune i obračunske situacije izvedenih radova i vodi evidencije. Odjel sudjeluje u izradi prijedloga državnog proračuna. Odjel sudjeluje u obavljanju unutarnjeg nadzora iz svojeg djelokruga.
+7.1.1.4. Odjel za predstavke i pritužbe

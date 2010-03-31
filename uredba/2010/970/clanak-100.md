@@ -1,0 +1,2 @@
+# Članak 100.
+Odjel materijalnog poslovanja obavlja upravne i stručne poslove vezane za organiziranje nabave i skladištenja opreme i materijala za potrebe ministarstva, kontrolu i nadzor nad propisanom i namjenskom uporabom i smještajem opreme, sudjelovanje u izradi državnog proračuna, financijskih planova i programa po korisnicima i namjenama, prikupljanje i obrada ponuda, vođenje potrebne dokumentacije i usklađivanje stanja s materijalnim knjigovodstvom, te obavlja druge poslove iz svojega djelokruga.

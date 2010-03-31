@@ -1,0 +1,2 @@
+# Članak 122.
+Odjel za provedbu programa usavršavanja obavlja upravne i stručne poslove koji se odnose na provođenje programa izobrazbe u Centru organiziranjem tečaja, seminara i drugih oblika izobrazbe, osiguranjem prostornih i drugih uvjeta za provedbu izobrazbe, sastavljanje popisa polaznika izobrazbe, nadzorom nazočnosti polaznika i provođenja izobrazbe, evidencija o pohađanju izobrazbe i održanoj satnici. Izrađuje izvješća o provedbi izobrazbe i uvjerenja o završenoj izobrazbi.

@@ -1,0 +1,3 @@
+# Članak 151.
+U odjelu za razvoj i analitiku obavljaju se upravni i stručni poslovi koji se odnose na razvoj profesionalne prakse unapređenja probacijskih poslova u odnosu na sudove, suca izvršenja, državna odvjetništva, povjerenstvo za uvjetni otpust i druge dionike, poslovi statističke obrade podataka, vođenje središnje matice osoba uključenih u postupke probacije i potrebnih evidencija, poslovi planiranja i raspoređivanja opreme i sredstava za rad, poslovi vođenja evidencije zaposlenika, plana prijama i druge poslove vezane uz službenike probacije, te provodi nadzora iz svoga djelokruga.
+8.1.1.2. Odjel za zaštitni nadzor i rad za opće dobro

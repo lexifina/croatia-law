@@ -1,0 +1,9 @@
+## 5.1. SEKTOR ZA EUROPSKU UNIJU
+# Članak 65.
+Sektor za Europsku uniju obavlja stručne poslove vezane uz vođenje dijaloga s institucijama Europske unije u dijelu koji se odnosi na pravosuđe, a posebice u pogledu pitanja koja iz nadležnosti Ministarstva ulaze u kriterije za članstvo u Europskoj uniji, priprema materijale te sudjeluje u radu zajedničkih tijela osnovanih temeljem Sporazuma o stabilizaciji i pridruživanju, koordinira izradu izvješća o ostvarenom napretku na provođenju reformi iz nadležnosti Ministarstva, prati razvoj pravne stečevine Europske unije iz nadležnosti Ministarstva, koordinira usklađivanje nacionalnog zakonodavstva s pravnom stečevinom Europske unije u područjima iz djelokruga Ministarstva, sudjeluje u izradi propisa iz nadležnosti Ministarstva radi osiguranja njihove usklađenosti s pravnom stečevinom Europske unije, surađuje s nadležnim domaćim i inozemnim ustanovama u postupku usklađivanja, izrađuje potrebna izvješća i nacrte programa mjera, obavlja poslove usmjerene na razvijanje bilateralnih i multilateralnih odnosa s državama članicama Europske unije u području pravosuđa, pruža informacije javnosti o pitanjima iz nadležnosti Sektora.
+Nadalje, Sektor za Europsku uniju provodi Strategiju reforme pravosudnog sustava i ostale strateške dokumente koji se odnose na reformu pravosuđa te koordinira rad svih tijela uključenih u reformu pravosuđa, sustavno prati ispunjene mjera vezanih uz provedbu strategije reforme pravosuđa, izrađuje potrebna izvješća i nacrte dokumenata u području reforme pravosuđa te obavlja i druge poslove iz svojega djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za Europsku uniju ustrojavaju se sljedeći odjeli:
+5.1.1. Odjel za pregovore s Europskom unijom
+5.1.2. Odjel za prilagodbu hrvatskoga pravnog sustava europskome pravnom sustavu
+5.1.3. Odjel za provedbu strategije reforme pravosuđa
+5.1.1. Odjel za pregovore s Europskom unijom

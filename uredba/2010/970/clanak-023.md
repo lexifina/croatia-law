@@ -1,0 +1,7 @@
+## 2.5. SEKTOR INVESTICIJSKIH POSLOVA I PLANIRANJA OPREME U PRAVOSUDNOM SUSTAVU
+# Članak 23.
+Sektor investicijskih poslova i planiranja opreme u pravosudnom sustavu obavlja upravne i stručne poslove vezane za planiranje opreme za potrebe pravosudnih tijela, kontrolu i nadzor nad propisanom i namjenskom uporabom i smještajem opreme, sudjelovanje u izradi prijedloga za državni proračun, financijskih planova i programa po korisnicima i namjenama, ispitivanje tržišta, vođenje potrebne dokumentacije, obavlja upravne i stručne poslove vezane za planiranje izgradnje, adaptacije i investicijskog održavanja poslovnih objekata pravosudnih tijela, poslove koji se odnose na kapitalna ulaganja u mrežu pravosudnih tijela; daje prijedloge za potrebnim sredstvima za realizaciju projekata iz djelokruga rada, obavlja poslove zakupa poslovnog prostora za potrebe pravosudnih tijela, organizira stručne i administrativno-tehničke poslove na realizaciji izgradnje i adaptacije objekata, provodi nadzor nad izvođenjem radova, ovjerava račune i obračunske situacije izvedenih radova i nadzor nad izvršavanjem ugovora, vodi evidencije, te obavlja i druge poslove iz svojega djelokruga za pravosudna tijela i Ministarstvo.
+Za obavljanje poslova iz djelokruga Sektora investicijskih poslova i planiranja opreme u pravosudnom sustavu ustrojavaju se sljedeći odjeli:
+2.5.1. Odjel investicijskih poslova
+2.5.2. Odjel planiranja opreme
+2.5.1.Odjel investicijskih poslova

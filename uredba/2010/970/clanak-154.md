@@ -1,0 +1,3 @@
+# Članak 154.
+Odjel za probacijske poslove tijekom kaznenog postupka obavlja upravne i stručne poslove koji se odnose na probacijske poslove kod odlučivanja o kaznenom postupku, odnosno kod odlučivanju o postupanju prema osobama kojima je uvjetno odgođen kazneni progon, odlučivanja o mjeri pritvora, te poslove koji se odnose na izvršavanje mjera opreza i istražnog zatvora u domu, utvrđivanje potreba i mjera za unapređenje izvršavanja istih, pružanje stručne pomoći i provođenje nadzora nad njihovim izvršavanjem. Provodi nadzor iz svog djelokruga. Izrađuje prijedloge programa izobrazbe probacijskih službenika i povjerenika iz područja izvršavanja probacijskih poslova tijekom kaznenog postupka.
+8.1.2. Sektor za podršku žrtvama i svjedocima
