@@ -1,0 +1,2 @@
+# Članak 14.
+Ograničenje izloženosti ne odnosi se na izloženosti prema tijelima lokalne i područne (regionalne) samouprave država članica ako bi im u skladu s dijelom 2.2. glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija, bio dodijeljen ponder rizika 0%; te izloženosti osigurane garancijama/jamstvima i kreditnim izvedenicama koje se priznaju u skladu s dijelom 4. glave II. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija, osim kreditnih zapisa (engl. credit linked notes) tih tijela.

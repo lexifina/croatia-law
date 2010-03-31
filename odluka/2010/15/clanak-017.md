@@ -1,0 +1,2 @@
+# Članak 17.
+Ograničenje izloženosti ne odnosi se na preuzete izvanbilančne obveze koje proizlaze iz ugovorenih a neiskorištenih kredita koje se u skladu s člankom 18. Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija smatraju stavkama niskog rizika i pod uvjetom da je s tim klijentom ili grupom s njim povezanih osoba sklopljen ugovor na temelju kojeg se neiskorišteni dio može povući samo ako zbog toga neće doći do prekoračenja najveće dopuštene izloženosti iz članka 150. do 155. Zakona o kreditnim institucijama.

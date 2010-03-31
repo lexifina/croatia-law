@@ -1,0 +1,2 @@
+# Članak 15.
+Ograničenje izloženosti ne odnosi se na izloženosti prema dužniku u Republici Hrvatskoj koji može biti nadređena osoba kreditne institucije, podređeno društvo kreditne institucije, podređeno društvo nadređene osobe kreditne institucije ili društvo povezano zajedničkim vođenjem u skladu s člankom 23. točkama 1. i 3. Zakona o kreditnim institucijama, a koje ispunjava uvjete iz članka 21. Odluke o adekvatnosti jamstvenog kapitala kreditnih institucija za dodjelu pondera rizika 0%.
