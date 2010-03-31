@@ -1,0 +1,6 @@
+# Članak 4.
+Članak 32 mijenja se i glasi:
+»(1) Rezerviranja za gubitke na skupnoj osnovi povezane s izvanbilančnim obvezama rizične skupine A provode se u visini koju prema svojoj unaprijed pripremljenoj i testiranoj internoj metodologiji utvrdi kreditna institucija za pojedinu kategoriju srodnih izvanbilančnih obveza unutar skupine A.
+(2) Do početka primjene interne metodologije procjene latentnih gubitaka sadržanih u izvanbilančnim obvezama rizične skupine A kreditna je institucija dužna održavati razinu rezerviranja za te izvanbilančne obveze u svoti koja nije manja od 0,85% ni veća od 1,20% ukupnog stanja izvanbilančnih obveza rizične skupine A.
+(3) Iznos rezerviranja za gubitke na skupnoj osnovi povezane s izvanbilančnim obvezama rizične skupine A knjigovodstveno se provodi na teret troškova kreditne institucije za razdoblje u kojem su gubici utvrđeni i u korist odgovarajućih računa rezerviranja u pasivi bilance.
+(4) Kreditna je institucija dužna najmanje jedanput godišnje preispitati internu metodologiju procjene kreditnog rizika s osnove izvanbilančnih obveza i po potrebi je revidirati, a sve radi smanjenja razlika između procijenjenih i stvarnih latentnih gubitaka koji su povezani s izvanbilančnim obvezama rizične skupine A.«.
