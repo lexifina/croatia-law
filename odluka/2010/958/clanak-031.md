@@ -1,0 +1,2 @@
+# Članak 31.
+Kreditna institucija je dužna, u skladu s procjenom rizika i procijenjenim utjecajem neraspoloživosti pojedinih procesa odnosno resursa informacijskog sustava potrebnih za odvijanje tih procesa na poslovanje kreditne institucije, osigurati raspoloživost pričuvnoga računalnog centra s odgovarajućom opremljenošću, funkcionalnošću i razinom sigurnosti koji je na odgovarajućoj udaljenosti od primarnoga računalnog centra.

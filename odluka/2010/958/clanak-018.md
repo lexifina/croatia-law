@@ -1,0 +1,2 @@
+# Članak 18.
+Kreditna institucija je dužna kontrolirati pristup resursima informacijskog sustava, prostorijama s resursima informacijskog sustava kao i sustavima koji su podrška funkcioniranju informacijskog sustava te primijeniti odgovarajuće upravljačke, logičke i fizičke kontrole pristupa. Posebnu pozornost potrebno je posvetiti povlaštenom i udaljenom pristupu resursima informacijskog sustava.

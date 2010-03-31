@@ -1,0 +1,3 @@
+# Članak 30.
+(1) Kreditna institucija je dužna uspostaviti proces upravljanja pričuvnom pohranom koji obuhvaća postupke izrade, pohrane i testiranja pričuvnih kopija podataka te restauracije podataka s pričuvnih kopija podataka kako bi se osigurala raspoloživost podataka u slučaju potrebe te omogućio oporavak odnosno ponovna uspostava kritičnih i/ili ključnih poslovnih procesa u zahtijevanom vremenu.
+(2) Pričuvne kopije podataka moraju biti ažurne i pohranjene na primjeren način na jednoj ili više lokacija, od kojih najmanje jedna mora biti, u skladu s procjenom rizika, dovoljno udaljena od lokacije na kojoj se nalaze izvorni podaci (od kojih su izrađene pričuvne kopije podataka).
