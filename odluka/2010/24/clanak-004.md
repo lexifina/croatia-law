@@ -1,0 +1,2 @@
+# Članak 4.
+Kreditna institucija je dužna u roku od 30 dana od dana stupanja na snagu ove Odluke obavijestiti Hrvatsku narodnu banku o svim sudskim sporovima iz članka 8. stavka 1. Odluke o obvezi rezerviranja za sudske sporove (»Narodne novine«, br. 1/2009. i 75/2009) za koje procijeni da je očito riječ o obijesnom parničenju, a koji su pokrenuti prije stupanja na snagu ove Odluke. Osim obavijesti kreditna institucija dužna je priložiti odgovarajuće obrazloženje.
