@@ -1,0 +1,14 @@
+# Članak 1.
+U Odluci o superviziji grupe kreditnih institucija na konsolidiranoj osnovi (»Narodne novine«, br. 1/2009. i 75/2009.) u članku 16. stavci 3. do 8. mijenjaju se i glase:
+"(3) Konsolidirana izloženost grupe kreditnih institucija u RH prema jednoj osobi ili grupi povezanih osoba, nakon primjene tehnika smanjenja kreditnog rizika, ne smije prelaziti 25 posto konsolidiranoga jamstvenoga kapitala te grupe.
+(4) Iznimno od stavka 3. ovoga članka, kada je grupa kreditnih institucija u RH izložena prema kreditnoj instituciji ili investicijskom društvu i grupi s njima povezanih osoba, ta konsolidirana izloženost ne smije prelaziti veći od sljedeća dva iznosa:
+- iznos od 25 posto konsolidiranog jamstvenog kapitala te grupe ili
+- iznos od 3 milijuna kuna.
+(5) U slučaju iz stavka 4. ovoga članka ukupna konsolidirana izloženost grupe kreditnih institucija u RH prema povezanim osobama koje nisu kreditna institucija ili investicijsko društvo, nakon primjene tehnika smanjenja kreditnog rizika, ne smije prelaziti 25 posto konsolidiranoga jamstvenog kapitala te grupe.
+(6) U slučaju iz stavka 4. ovoga članka, ako je iznos od 3 milijuna kuna veći od 25 posto konsolidiranoga jamstvenoga kapitala grupe kreditne institucije u RH, iznos konsolidirane izloženosti prema drugoj kreditnoj instituciji ili investijskom društvu i grupi s njima povezanih osoba nakon primjene tehnika smanjenja kreditnog rizika, ne smije prelaziti iznos od 100 posto konsolidiranog jamstvenoga kapitala grupe kreditnih institucija u RH odnosno iznos od 3 milijuna kuna, ovisno o tome koji je iznos manji.
+(7) Iznimno od odredbi stavaka 3. do 6. ovoga članka, konsolidirana izloženost grupe kreditnih institucija u RH nakon primjene tehnika smanjenja kreditnog rizika prema osobi iz članka 153. Zakona o kreditnim institucijama ili grupi s njom povezanih osoba ne smije prelaziti 10 posto konsolidiranoga jamstvenoga kapitala grupe kreditnih institucija u RH.
+(8) Zbroj svih konsolidiranih velikih izloženosti grupe kreditnih institucija u RH ne smije prelaziti 600 posto konsolidiranoga jamstvenoga kapitala grupe kreditnih institucija u RH.«.
+Iza stavka 8. dodaju se stavci 9. do 11., koji glase:
+»(9) Zbroj svih konsolidiranih izloženosti grupe kreditnih institucija u RH prema osobama u posebnom odnosu iz članka 153. Zakona o kreditnim institucijama ne smije prelaziti 50 posto konsolidiranoga jamstvenoga kapitala grupe kreditnih institucija u RH.
+(10) Ograničenja propisana u stavcima 7. i 9. ove Odluke ne odnose se na konsolidiranu izloženost grupe kreditnih institucija u RH prema nadređenom društvu nadređene kreditne institucije, njoj podređenim društvima i s njima povezanim osobama.
+(11) Na ukupnu konsolidiranu izloženost iz stavka 10. ovoga članka primjenjuju se ograničenja propisana stavcima 3. do 6. i stavkom 8. ovoga članka.«.
