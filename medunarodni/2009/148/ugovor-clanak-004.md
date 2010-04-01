@@ -1,0 +1,2 @@
+# Članak 4.
+Republika Mađarska dužna je zaštititi podatke prikupljene tijekom obavljanja aktivnosti iz članka 1.a) ovoga Sporazuma, osobito one koji se odnose na osobne podatke podnositelja zahtjeva u skladu sa svojim nacionalnim zakonima o zaštiti podataka i relevantnim odredbama Europske unije o zaštiti podataka. Republika Mađarska može koristiti prikupljene podatke isključivo u okviru obavljanja aktivnosti iz članka 1.a) ovoga Sporazuma.

@@ -1,0 +1,2 @@
+# Članak 3.
+Republika Mađarska djelovat će u ime Republike Hrvatske isključivo u zaprimanju, bilježenju i prosljeđivanju zahtjeva za izdavanje vize, pristojbi i podataka o podnositeljima zahtjeva hrvatskom konzularnom službeniku, i obavljanju bilo koje druge aktivnosti izričito predviđene protokolom navedenim u članku 5. ovoga Sporazuma. U svim drugim aspektima Republika Hrvatska nadležna je za obradu zahtjeva.
