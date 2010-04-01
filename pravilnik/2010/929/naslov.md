@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o visini naknada i načinu raspodjele sredstava u postupku registracije sredstava za zaštitu bilja, ocjene aktivne tvari i izdavanja dozvola za sredstva za zaštitu bilja
