@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Banka dostavlja Središnjem prihvatnom mjestu za narudžbe (FINA gotovinski servisi d.o.o.) dokumentaciju vezanu uz podizanje gotovog novca koja je propisana ovom Odlukom, osobnom dostavom, telefaksom ili elektroničkim putem.
+(2) Banka je dužna, radi ovjeravanja dokumentacije iz stavka 1. ovoga članka, dostaviti Središnjem prihvatnom mjestu za narudžbe popunjeni obrazac Prijava potpisa. Središnje prihvatno mjesto za narudžbe proslijedit će kopiju Prijave potpisa gotovinskom centru preko kojeg banka podiže ili polaže gotov novac. Banka preuzima obrazac Prijava potpisa u gotovinskom centru.
+(3) Potpis i pečat na dokumentaciji iz stavka 1. ovoga članka moraju odgovarati potpisima i pečatu na Prijavi potpisa koju banka dostavlja u skladu sa stavkom 2. ovoga članka.
+(4) Banka dostavlja Hrvatskoj narodnoj banci popis ovlaštenih osoba banke za ovjeravanje obrasca Prijava potpisa te sve izmjene i dopune tih podataka. Hrvatska narodna banka dostavlja Središnjem prihvatnom mjestu za narudžbe na postupanje podatke o ovlaštenim osobama banaka te sve izmjene i dopune tih podataka.
+(5) Kada se dokumentacija iz stavka 1. ovoga članka dostavlja elektroničkim putem, mora biti ovjerena na način i uz uvjete definirane tehničkom uputom za dostavu elektroničkim putem koju, uz prethodnu suglasnost Hrvatske narodne banke, donosi FINA gotovinski servisi d.o.o.
+(6) FINA gotovinski servisi d.o.o. dostavlja banci uputu iz stavka 5. ovoga članka na njezin zahtjev.

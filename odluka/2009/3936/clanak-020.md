@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Banka polaže gotov novac u gotovinskom centru u koji je dostavila Specifikaciju položenoga gotovog novca iz članka 19. ove Odluke, u vremenu od 7.00 do 17.00 sati.
+(2) Ako je Specifikacija položenoga gotovog novca dostavljena telefaksom, ovlaštena osoba za polaganje gotovog novca u ime banke predaje gotovinskom centru prije polaganja gotovog novca Specifikaciju položenoga gotovog novca popunjenu u dva primjerka.
+(3) Gotovinski centar utvrđuje identitet ovlaštene osobe za polaganje gotovog novca u ime banke. Utvrđivanje identiteta obavlja se uvidom u osobne dokumente ovlaštene osobe za polaganje gotovog novca u ime banke i usporedbom podataka s tih dokumenata s podacima o ovlaštenoj osobi za polaganje gotovog novca u ime banke upisanima u popis ovlaštenih osoba koji je banka dostavila gotovinskom centru, u skladu s člankom 13. stavkom 1. ove Odluke.

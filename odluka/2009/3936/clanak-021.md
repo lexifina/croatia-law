@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Banka polaže gotov novac u iznosu koji je upisan u Specifikaciju položenoga gotovog novca iz članka 19. ove Odluke.
+(2) Nakon provedbe postupaka propisanih člancima 19. i 20. ove Odluke gotovinski centar preuzima i obavlja kontrolno brojenje gotovog novca koji banka polaže. Gotovinski centar dužan je omogućiti ovlaštenoj osobi za polaganje gotovog novca u ime banke uvid u obavljanje kontrolnog brojenja.
+(3) Kontrolno brojenje gotovog novca iz prethodnog stavka obavlja se na način iz članka 17. stavka 3. ove Odluke.
+(4) Ako se kontrolnim brojenjem utvrdi razlika u odnosu na iznos ili količine iskazane na Specifikaciji položenoga gotovog novca, gotovinski će centar precrtati podatke na Specifikaciji položenoga gotovog novca i upisati podatke utvrđene kontrolnim brojenjem. Izvršeni upis ovjerava gotovinski centar i potpisuje ovlaštena osoba za polaganje gotovog novca u ime banke.
+(5) Gotovinski centar i ovlaštena osoba za polaganje gotovog novca u ime banke potvrđuju da je izvršeno polaganje gotovog novca ovjerom Specifikacije položenoga gotovog novca. Gotovinski centar predaje prvi primjerak Specifikacije položenoga gotovog novca ovlaštenoj osobi za polaganje gotovog novca u ime banke, a drugi primjerak ostaje u gotovinskom centru.

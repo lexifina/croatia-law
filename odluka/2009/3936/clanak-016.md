@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Prije predaje gotovog novca gotovinski centar utvrđuje identitet ovlaštene osobe za podizanje gotovog novca u ime banke. Utvrđivanje identiteta obavlja se uvidom u osobne dokumente ovlaštene osobe za podizanje gotovog novca u ime banke i usporedbom podataka s tih dokumenata s podacima o ovlaštenoj osobi za podizanje gotovog novca u ime banke upisanima u popis ovlaštenih osoba koji je banka dostavila gotovinskom centru, u skladu s člankom 13. stavkom 1. ove Odluke.
+(2) Gotovinski centar predaje gotov novac nakon utvrđivanja identiteta ovlaštene osobe za podizanje gotovog novca u ime banke.
