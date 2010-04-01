@@ -1,0 +1,2 @@
+[1] Ovim Pravilnikom preuzimaju se odredbe Direktive Komisije 2008/53 EZ od 30. travnja 2008. koja izmjenjuje i dopunjuje Dodatak IV. Direktive Vijeća 2006/88/EZ o proljetnoj viremiji šarana (PVŠ)
+[2] Pravilnikom su preuzete odredbe Direktive Vijeća 2006/88/EZ od 24. listopada 2006. o veterinarsko-zdravstvenim uvjetima za životinje i proizvode akvakulture, te o sprječavanju i suzbijanju određenih bolesti vodenih organizama
