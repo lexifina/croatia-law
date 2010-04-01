@@ -1,0 +1,5 @@
+## Uvjeti za prostor i uređaje
+# Članak 33.
+(1) Prostor, uređaji i postrojenja u kojima su smješteni izvori ionizirajućeg zračenja ili se obavljaju djelatnosti s izvorima ionizirajućeg zračenja, izvori ionizirajućeg zračenja, zaštitna oprema i osobna zaštitna oprema, moraju ispunjavati uvjete kojima se osigurava radiološka sigurnost te zaštita ljudi i okoliša od ionizirajućeg zračenja i od onečišćenja radioaktivnim tvarima.
+(2) Uvjeti iz stavka 1. ovoga članka utvrdit će se pravilnikom koji donosi ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost, uz suglasnost ministra nadležnog za zdravstvo.
+(3) Pravilnik kojim se određuju uvjeti za projektiranje, gradnju, uporabu te uklanjanje građevina u kojima su smješteni izvori ionizirajućeg zračenja ili se obavljaju djelatnosti s izvorima ionizirajućeg zračenja donosi ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost, uz suglasnost ministra nadležnog za graditeljstvo i ministra nadležnog za zdravstvo, a u dijelu koji se odnosi na fizičku sigurnost i ministra nadležnog za unutarnje poslove.

@@ -1,0 +1,22 @@
+# Članak 102.
+Do stupanja na snagu pravilnika iz članka 101. ovoga Zakona, osim odredbi koje su protivne ovome Zakonu ostaju na snazi:
+1. Pravilnik o zdravstvenim uvjetima kojima moraju udovoljavati izloženi radnici, učestalosti pregleda te sadržaja, načinu i rokovima čuvanja podataka o tim pregledima (»Narodne novine«, br. 117/07.),
+2. Pravilnik o uvjetima, rokovima i načinu stjecanja potrebnog stručnog obrazovanja i obnove znanja o primjeni mjera zaštite od ionizirajućeg zračenja (»Narodne novine«, br. 30/08.),
+3. Pravilnik o načinu, opsegu i rokovima mjerenja osobnog ozračenja izloženih radnika i osoba izloženih medicinskom ozračenju, pregleda izvora ionizirajućeg zračenja i uvjeta rada te mjerenja propisanih elemenata i provjere kvalitete, provjeri ispravnosti osobnih zaštitnih sredstava i opreme, provjeri ispravnosti mjernih instrumenata, mjerama osiguranja kvalitete, provjeri radioaktivnog onečišćenja osoba, predmeta, okoliša, prostorija i zraka u prostorijama u kojima se obavljaju djelatnosti ili su smješteni radioaktivni izvori te sadržaju izvješća o nadzoru i mjerenjima, postupku izvješćivanja te obvezi vođenja evidencija, sadržaju, načinu vođenja i rokovima čuvanja (»Narodne novine«, br. 127/07.),
+4. Pravilnik o uvjetima za primjenu izvora ionizirajućeg zračenja u medicini i stomatologiji (»Narodne novine«, br. 125/06.),
+5. Pravilnik o granicama izlaganja ionizirajućem zračenju te o uvjetima izlaganja u posebnim okolnostima i za provedbe intervencija u izvanrednom događaju (»Narodne novine«, br. 125/06.),
+6. Pravilnik o mjerama radiološke i fizičke sigurnosti izvora ionizirajućeg zračenja (»Narodne novine«, br. 39/08.),
+7. Pravilnik o uvjetima, načinu, mjestima te rokovima sustavnog ispitivanja i praćenja vrste i aktivnosti radioaktivnih tvari u zraku, tlu, moru, rijekama, jezerima, podzemnim vodama, krutim i tekućim oborinama, vodi za piće, hrani i predmetima opće uporabe te stambenim i radnim prostorijama (»Narodne novine«, br. 60/08.),
+8. Pravilnik o uvjetima i mjerama zaštite od ionizirajućeg zračenja za obavljanje djelatnosti s rendgenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuće zračenje (»Narodne novine«, br. 125/06.),
+9. Pravilnik o uvjetima za projektiranje, gradnju te uklanjanje građevina u kojima su smješteni izvori ionizirajućeg zračenja ili se obavljaju djelatnosti s izvorima ionizirajućeg zračenja (»Narodne novin«, br. 99/08.),
+10. Pravilnik o popisu djelatnosti, uvjetima i načinu izdavanja te rokovima važenja odobrenja za djelatnost s izvorima ionizirajućeg zračenja i za korištenje izvora ionizirajućeg zračenja (»Narodne novine«, br. 125/06.),
+11. Pravilnik o načinu uklanjanja radioaktivnog onečišćenja, zbrinjavanja radioaktivnog izvora, odnosno poduzimanja svih drugih prijeko potrebnih mjera radi smanjenja štete za ljude i okoliš ili uklanjanja daljnjih rizika, opasnosti ili šteta (»Narodne novine«, br. 53/08.),
+12. Pravilnik o obavljanju nuklearne djelatnosti (»Narodne novine«, br. 74/06.),
+13. Pravilnik o kontroli nuklearnog materijala i posebne opreme (»Narodne novine«, br. 15/08.),
+14. Pravilnik o posebnim uvjetima koje moraju ispunjavati stručne organizacije za obavljanje određenih poslova iz područja nuklearne sigurnosti (»Narodne novine«, br. 74/06.),
+15. Pravilnik o uvjetima nuklearne sigurnosti i zaštite za smještaj, projektiranje, gradnju, uporabu i razgradnju objekta u kojem se obavlja nuklearna djelatnost (»Narodne novine«, br. 71/08.),
+16. Pravilnik o popisu stručnih poslova zaštite od ionizirajućeg zračenja, uvjetima koje trebaju ispunjavati ovlašteni stručni tehnički servisi i načinu ovlašćivanja (»Narodne novine«, br. 127/07.),
+17. Pravilnik o načinu i postupku nadzora prilikom uvoza ili izvoza materijala za koji postoji opravdana sumnja da je onečišćen radionuklidima ili sadrži radioaktivne izvore (»Narodne novine«, br. 114/07.),
+18. Pravilnik o tajnosti podataka Državnog zavoda za nuklearnu sigurnost (»Narodne novine«, br. 15/09.),
+19. Pravilnik o uvjetima i mjerama zaštite od ionizirajućeg zračenja za obavljanje djelatnosti s radioaktivnim izvorima (»Narodne novine«, br. 125/06.),
+20. Pravilnik o visini naknada, vrstama i visini dodatnih troškova te načinu plaćanja za poslove koje obavlja Državni zavod za zaštitu od zračenja (»Narodne novine«, br. 89/09.).

@@ -1,0 +1,6 @@
+## Sanacija
+# Članak 68.
+(1) Nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj odobrenja za obavljanje nuklearne djelatnosti i korisnik koji svojim djelovanjem prouzroči radioaktivno onečišćenje okoliša, prostorija, površina, predmeta i osoba radioaktivnim tvarima iznad granica utvrđenih pravilnikom ili zbog gubitka kontrole nad izvorom ili nekog drugog razloga prouzroči štetu, odgovara za nastalu štetu i obvezan je bez odgađanja provesti sanaciju o svome trošku.
+(2) Pravilnik iz stavka 1. ovoga članka donosi ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost uz suglasnost ministra nadležnog za zdravstvo.
+(3) Nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj odobrenja za obavljanje nuklearne djelatnosti i korisnik obvezni su bez odgode izvijestiti Državni zavod za radiološku i nuklearnu sigurnost o opasnosti ili šteti koja je nastala zbog gubitka kontrole nad radioaktivnim izvorom ili zbog radioaktivnog onečišćenja koje je prouzročio svojim djelovanjem.
+(4) Ako nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj odobrenja za obavljanje nuklearne djelatnosti i korisnik ne osiguraju sanaciju iz stavka 1. ovoga članka, Državni zavod za radiološku i nuklearnu sigurnost naredit će provedbu sanacije o trošku nositelja odobrenja.

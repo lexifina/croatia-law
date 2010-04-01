@@ -1,0 +1,25 @@
+# Članak 98.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+1. koristi izvor ionizirajućeg zračenja protivno načelima zaštite od zračenja (članci 20.-23.),
+2. pri obavljanju djelatnosti ne poduzme sve potrebne mjere kako bi ozračenje stanovništva bilo sukladno načelu optimizacije (članak 22.),
+3. ne osigura da ozračenje izloženog radnika, osoba koje se obučavaju ili obrazuju za rad s izvorima ionizirajućeg zračenja bude niže od propisane granice (članak 24.),
+4. izvore ionizirajućeg zračenja primjenjuje u medicinske svrhe protivno propisanim uvjetima (članak 27.),
+5. ne osigura mjerenje osobnog ozračenja izloženih radnika ili polaznika (članak 28.),
+6. izvorima ionizirajućeg zračenja rukuju radnici koji nemaju posebno stručno obrazovanje za rukovanje izvorima ionizirajućeg zračenja (članak 29. stavak 1.),
+7. izloženi radnici nemaju posebno stručno obrazovanje o primjeni mjera zaštite od ionizirajućeg zračenja (članak 29. stavak 2.),
+8. izloženi radnici periodično ne obnavljaju znanje o primjeni mjera zaštite od ionizirajućeg zračenja (članak 29. stavak 4.),
+9. u području izloženosti rade osobe bez prethodnog zdravstvenog pregleda ili koje ne udovoljavaju posebnim zdravstvenim uvjetima (članak 30. stavak 1.),
+10. ne osigura redoviti zdravstveni pregled izloženih radnika i/ili polaznika ili ne zabrani rad u području izloženosti (članak 30. stavak 3. i članak 32. stavak 1.),
+11. provodi provjeru zdravstvene sposobnosti izloženih radnika, učenika i studenata te izloženih pripravnika bez ovlaštenja ministra nadležnog za zdravstvo (članak 31.),
+12. upišu kandidate koji ne ispunjavaju propisane uvjete (članak 32. stavak 2.),
+13. ne osigura program osiguranja kvalitete i/ili provođenje istog (članak 35. i članak 46. stavak 2.),
+14. ne osigura osobna zaštitna sredstva i opremu za izložene radnike te provjeru ispravnosti tih sredstava (članak 34.),
+15. ne osigura redovito umjeravanje i provjeru ispravnosti mjernih instrumenata (članak 34.),
+16. ne osigura provjeru radioaktivnog onečišćenja osoba, predmeta, okoliša, prostorija i zraka u prostorijama u kojima se obavljaju djelatnosti ili su smješteni izvori ionizirajućeg zračenja (članak 34.),
+17. ne imenuje osobu odgovornu za zaštitu od ionizirajućeg zračenja odgovarajućeg stručnog obrazovanja (članak 37.),
+18. obavlja poslove zaštite od ionizirajućeg zračenja bez ovlaštenja Državnog zavoda za radiološku i nuklearnu sigurnost ili protivno odredbama ovoga Zakona i pravilnika donesenih na temelju ovoga Zakona (članak 38.),
+19. o važnim činjenicama iz Plana i programa iz članka 66. stavka 1. ovoga Zakona ne izvješćuje javnost (članak 66. stavak 3.),
+20. ne vodi propisane očevidnike (članak 77. stavak 1.),
+21. ako na propisan način i u propisanom roku ne izvještava Državni zavod za radiološku i nuklearnu sigurnost (članak 35., članak 41. stavak 2., članak 42. stavak 3., članak 43. stavak 3., članak 57. stavak 2., članak 58. stavak 1., članak 59. stavak 4., članak 77. stavak 3.),
+22. ne izvrši naređene mjere iz članka 89. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi i fizička osoba novčanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna.

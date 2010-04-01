@@ -1,0 +1,6 @@
+## Obveze nositelja odobrenja u planiranju odgovora na izvanredni događaj
+# Članak 66.
+(1) Nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj odobrenja za obavljanje nuklearne djelatnosti te nositelj uporabne dozvole za nuklearni objekt, obvezni su izraditi Plan i program mjera za slučaj izvanrednog događaja koji odobrava Državni zavod za radiološku i nuklearnu sigurnost.
+(2) Troškove provedbe Plana i programa iz stavka 1. ovoga članka osigurava i snosi nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj odobrenja za obavljanje nuklearne djelatnosti te nositelj uporabne dozvole za nuklearni objekt.
+(3) Nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj odobrenja za obavljanje nuklearne djelatnosti te nositelj uporabne dozvole za nuklearni objekt obvezni su o važnim činjenicama iz Plana i programa iz stavka 1. ovoga članka izvješćivati javnost.
+(4) Opseg i sadržaj Plana i programa iz stavka 1. ovoga članka, obvezu, učestalost i rokove provjere učinkovitosti te način, opseg i rokove izvješćivanja javnosti i nadležnih tijela, kao i način odobravanja propisat će ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost.

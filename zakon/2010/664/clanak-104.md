@@ -1,0 +1,2 @@
+# Članak 104.
+Nositelji odobrenja za obavljanje djelatnosti na temelju Zakona o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja (»Narodne novine«, br. 64/06.) i Zakona o nuklearnoj sigurnosti (»Narodne novine«, br. 173/03.) obvezni su uskladiti svoj rad i poslovanje s odredbama ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona, a u protivnom im prestaje važiti dano odobrenje.
