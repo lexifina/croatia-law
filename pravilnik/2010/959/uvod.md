@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 5., članka 17., članka 26. stavka 2., članka 27. stavka 5., članka 28. stavka 3. i članka 36. stavka 4. Zakona o poštanskim uslugama (»Narodne novine«, broj 88/09) Vijeće Hrvatske agencije za poštu i elektroničke komunikacije donosi

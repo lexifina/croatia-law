@@ -1,0 +1,5 @@
+## 1. OPĆE ODREDBE
+## Sadržaj Pravilnika
+# Članak 1.
+(1) Pravilnikom o obavljanju univerzalnih poštanskih usluga (u daljnjem tekstu: Pravilnik) se propisuju mjerila i kriteriji koje mora ispunjavati poštanska mreža javnog operatora, uvjeti, način i postupak za obavljanje poštanskih usluga, uvjeti i postupak uručenja putem skupnih kovčežića, odstupanja od rokova uručenja pošiljaka, popis hrvatskih norma za mjerenje kakvoće obavljanja univerzalnih poštanskih usluga, sastavni dijelovi godišnjeg izvješća o kakvoći obavljanja univerzalnih poštanskih usluga, mjesta i uvjeti pristupa poštanskoj mreži javnog operatora, sadržaj zahtjeva i ugovora, načela određivanja cijena pristupa poštanskoj mreži javnog operatora i druga pitanja u vezi s pristupom poštanskoj mreži javnog operatora i druga pitanja vezana uz obavljanje univerzalnih poštanskih usluga.
+(2) Odredbe ovoga pravilnika primjenjuju se na javnog operatora i druge davatelje poštanskih usluga koji obavljaju univerzalne poštanske usluge te na univerzalne poštanske usluge u međunarodnom poštanskom prometu, ako aktima Svjetske poštanske unije nije drukčije određeno.

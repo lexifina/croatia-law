@@ -1,0 +1,8 @@
+## Vrste poštanskih pošiljaka
+# Članak 5.
+(1) Poštanske pošiljke su pismovne pošiljke, paketi, preporučene pošiljke, pošiljke s označenom vrijednosti, sekogrami, izravna pošta i tiskanice.
+(2) Pod pismovnom pošiljkom smatra se komunikacija u pisanom obliku otisnuta na papiru ili drugom odgovarajućem nositelju podataka, koju je potrebno poslati i dostaviti na adresu koju je naveo pošiljatelj na samoj pismovnoj pošiljci ili njezinu omotu. Računi za komunalne i druge usluge, kao i drugi računi, financijska i druga izvješća smatraju se pismovnom pošiljkom. Izravna pošta i poštanske pošiljke koje sadržavaju tiskanice ne smatraju se pismovnom pošiljkom.
+(3) Pod preporučenom pošiljkom smatra se poštanska pošiljka za koju se pošiljatelju izdaje potvrda o primitku i uručuje se primatelju uz potpis, a u slučaju gubitka, oštećenja ili umanjenja sadržaja isplaćuje propisana naknada štete. Pod preporučenom pošiljkom smatra se i pošiljka za koju pošiljatelj, nakon njezina uručenja, dobije dokument - dostavnicu ili povratnicu na kojoj se nalaze podaci vezani uz uručenje pošiljke, a osobito nadnevak uručenja i potpis primatelja.
+(4) Pod pošiljkom s označenom vrijednosti smatra se pošiljka čiji je sadržaj pošiljatelj osigurao do označene vrijednosti na pošiljci za slučaj gubitka, krađe ili oštećenja.
+(5) Pod paketom smatra se poštanska pošiljka koja sadrži robu i predmete.
+(6) Pod sekogramom smatra se adresirana poštanska pošiljka namijenjena slijepim i slabovidnim osobama, otisnuta na papiru ili odgovarajućem nositelju podataka, ili snimljena na nekom od pogodnih elektroničkih nositelja podataka.

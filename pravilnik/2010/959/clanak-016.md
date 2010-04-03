@@ -1,0 +1,13 @@
+## Zatvaranje i preseljenje poštanskog ureda
+# Članak 16.
+(1) Javni operator može poštanski ured zatvoriti ili preseliti pod uvjetom da za korisnike poštanskih usluga osigura razinu kakvoće obavljanja poštanskih usluga propisanu ovim pravilnikom.
+(2) Ukoliko javni operator odluči zatvoriti poštanski ured iz razloga njegovog nerentabilnog poslovanja treba postupiti na sljedeći način:
+1. Raspisati natječaj za zasnivanje ugovornog odnosa s fizičkom ili pravnom osobom i preustrojiti poštanski ured u ugovorni poštanski ured.
+2. Ukoliko na natječaj ne prispije niti jedna odgovarajuća prijava, odnosno ukoliko proces ugovaranja uvjeta rada ugovornog poštanskog ureda ne uspije, javni operator treba izračun gubitka u poslovanju poštanskog ureda predočiti tijelima lokalne i područne (regionalne) samouprave i predložiti model sufinanciranja.
+3. Ukoliko ne uspije sufinanciranje rada poštanskog ureda od strane tijela lokalne i područne (regionalne) samouprave, javni operator donosi odluku o zatvaranju poštanskog ureda.
+(3) Prije odluke o zatvaranju ili preseljenju poštanskog ureda javni operator je obvezan izraditi elaborat o načinu obavljanja univerzalnih poštanskih usluga nakon zatvaranja ili preseljenja poštanskog ureda.
+(4) Javni operator je obvezan izvijestiti HAKOM o svakoj odluci o zatvaranju ili preseljenju poštanskog ureda, najmanje 15 dana prije stupanja na snagu. Uz odluku o zatvaranju ili preseljenju poštanskog ureda potrebno je priložiti svu dokumentaciju koja je nastala u postupku koji je prethodio odluci o zatvaranju ili preseljenju poštanskog ureda.
+(5) Ukoliko HAKOM utvrdi postupanje koje je u suprotnosti s odredbama Pravilnika vezanim uz zatvaranje ili preseljenje poštanskog ureda, odnosno značajan pad razine kakvoće obavljanja univerzalnih poštanskih usluga koji je nastao zatvaranjem ili preseljenjem poštanskog ureda, može javnom operatoru naložiti preispitivanje ili ukidanje odluke o zatvaranju ili preseljenju poštanskog ureda.
+(6) Javni operator može privremeno zatvoriti ili privremeno preseliti poštanski ured (zbog preuređenja i sl.), ali ne dulje od 90 dana, pod uvjetom da za korisnike poštanskih usluga osigura propisanu razinu kakvoće obavljanja univerzalnih poštanskih usluga.
+(7) Iznimno od stavka 6. ovoga članka, javni operator može privremeno zatvoriti ili privremeno preseliti poštanski ured i na razdoblje dulje od 90 dana ako se poštanski ured nalazi u zgradi koja se smatra kulturnim dobrom, radi obavljanja radova u svezi s očuvanjem i održavanjem kulturnog dobra.
+(8) Javni operator je obvezan o namjeri privremenog zatvaranja ili privremenog preseljenja poštanskog ureda iz stavka 6. i 7. ovoga članka, te o njegovom ponovnom otvaranju izvijestiti HAKOM.

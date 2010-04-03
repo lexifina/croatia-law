@@ -1,0 +1,7 @@
+## Standardna ponuda pristupa poštanskoj mreži
+# Članak 22.
+(1) Javni operator će korisnicima pristupa omogućiti pristup poštanskoj mreži na jedan od načina predviđenih člankom 21. stavkom 1. ovoga pravilnika
+(2) Pristup poštanskoj mreži u smislu članka 21. stavka 1. točke 1. ovoga pravilnika, podrazumijeva da korisnik pristupa obavlja prijam poštanskih pošiljaka od korisnika usluga, a zatim ih predaje u ugovorenu točku pristupa poštanskoj mreži radi eventualnog daljnjeg usmjeravanja, daljnjeg prijenosa i uručenja na adrese primatelja, ili da na isti način postupi s vlastitim pošiljkama. Korisnik pristupa može obaviti usmjeravanje pošiljaka na način kako to zahtijeva javni operator.
+(3) Pristup poštanskoj mreži u smislu članka 21. stavka 1. točke 2. ovoga pravilnika, podrazumijeva da korisnik pristupa obavi prijam pošiljaka, njihovo usmjeravanje na način kako to zahtijeva javni operator, a zatim ih predaje u ugovorenu točku pristupa poštanskoj mreži radi daljnjeg prijenosa i uručenja na adrese primatelja, ili da na isti način postupi s vlastitim pošiljkama.
+(4) Javni operator će korisnicima pristupa osigurati razinu kakvoće usluge u skladu s odredbama Zakona.
+(5) Za gubitak, potpuno oštećenje ili umanjenje sadržaja poštanskih pošiljaka te za prekoračenje rokova uručenja javni operator odgovara korisnicima pristupa, od trenutka preuzimanja poštanskih pošiljaka od korisnika pristupa do trenutka uručenja primateljima, sukladno odredbama Zakona.
