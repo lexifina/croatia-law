@@ -1,0 +1,2 @@
+# Članak 14.
+Porez na korištenje javnih površina plaćaju pravne ili fizičke osobe kojima je nadležno tijelo Općine Tribunj odobrilo korištenje javne površine. Pod javnom površinom u smislu ove odluke smatraju se trgovi, ulice, ceste, trotoari, obala, šetnica, javne zelene površine kao i ostale uređenje i neuređene javne površine koje su u vlasništvu Općine i koje je moguće koristiti a da ne dolazi u pitanje njihova osnovna namjena.
