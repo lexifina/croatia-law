@@ -1,0 +1,3 @@
+# Članak 39.
+Arbitar mora biti nezavisan i nepristran u odnosu na stranke u sporu. Arbitar je dužan obavijestiti o svim okolnostima koje bi njegovu nezavisnost i nepristranost mogle dovesti u pitanje. Povjerenstvo može, uzimajući u obzir sve okolnosti, na zahtjev arbitra ili po službenoj dužnosti umjesto imenovanog arbitra odrediti drugu osobu.
+Stranke mogu iz važnih razloga zatražiti izuzeće arbitra. O zahtjevu za izuzeće odlučuje Povjerenstvo. Odluka Povjerenstva je konačna. Podnošenje zahtjeva za izuzeće ne sprječava arbitra da nastavi poduzimati radnje u postupku, ali ne može donijeti odluku prije nego Povjerenstvo odluči o zahtjevu za izuzeće.

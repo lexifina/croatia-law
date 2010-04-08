@@ -1,0 +1,1 @@
+Na temelju članka 79. stavka 2. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08), na prijedlog Upravnog vijeća Hrvatske akademske i istraživačke mreže - CARNet, uz prethodnu suglasnost ministra mora, prometa i infrastrukture i državnog tajnika Središnjeg državnog ureda za e-Hrvatsku ministar znanosti, obrazovanja i športa donosi

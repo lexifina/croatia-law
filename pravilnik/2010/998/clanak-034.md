@@ -1,0 +1,3 @@
+# Članak 34.
+Ako u arbitražnom postupku prema odredbama ovih arbitražnih pravila bude utvrđeno da je povrijeđeno pravo treće osobe, donijet će se odluka kojom se korisniku domene oduzima pravo korištenja domene o kojoj se vodi spor i dodjeljuje pravo na korištenje domene podnositelju zahtjeva.
+U arbitražnom postupku prema odredbama ovog Pravilnika ne mogu se donositi nikakve druge odluke, a osobito odluke o naknadi ugovorne ili izvanugovorne štete, odluke kojima se korisniku domene nalaže da nešto učini, trpi ili propusti, odluke o naknadi troškova postupka i slično, osim ako stranke u postupku zaključe valjani arbitražni sporazum kojim arbitra ili arbitre ovlašćuju da takvu odluku donesu.
