@@ -1,0 +1,1 @@
+Na temelju članka 259.a stavka 5. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08 i 82/09), Hrvatska agencija za nadzor financijskih usluga na sjednici Uprave održanoj dana 25. ožujka 2010. godine donijela je
