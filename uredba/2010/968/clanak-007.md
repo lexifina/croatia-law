@@ -1,0 +1,2 @@
+# Članak 7.
+Administrativne i stručne poslove za potrebe rada partnerskih vijeća obavljat će Agencija za regionalni razvoj Republike Hrvatske, te u skladu s navedenim, koordinirati rad partnerskih vijeća, kao i pojedinog partnerskog vijeća u odnosu na dionike, a posebno će organizirati sastanke partnerskih vijeća, osiguravati transparentnost rada partnerskih vijeća, te obavljati druge administrativno-tehničke poslove radi nesmetanog i pravodobnog rada partnerskih vijeća.
