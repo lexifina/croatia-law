@@ -1,0 +1,9 @@
+# Članak 3.
+Članak 3. Ugovora mijenja se i glasi:
+»Članak 3.
+TRETMAN NAJPOVLAŠTENIJE DRŽAVE I ODREDBE NACIONALNOG TRETMANA
+1. Nijedna ugovorna stranka ne smije podvrgnuti ulaganja ulagatelja druge ugovorne stranke nepovoljnijim uvjetima od onih koje ona odobrava za ulaganja njezinih vlastitih ulagatelja ili ulaganja ulagatelja bilo koje treće države.
+2. Nijedna ugovorna stranka ne smije podvrgnuti ulagatelje druge ugovorne stranke, glede njihovih aktivnosti koje vrše u svezi ulaganja na njezinom teritoriju, nepovoljnijim uvjetima od onih koje ona odobrava za njezine vlastite ulagatelje ili ulagatelje bilo koje treće države.
+3. Odredbe nacionalnog tretmana i tretmana najpovlaštenije države ovog članka ne primjenjuju se na pogodnosti koje ugovorna stranka odobrava sukladno svojim obvezama kao članica carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine.
+4. Odredbe ovog Ugovora neće se tumačiti tako da obvezuju jednu ugovornu stranku da na ulagatelje druge ugovorne stranke proširi pogodnosti bilo kojeg tretmana, prednosti ili povlastice koje je odobrila ulagateljima bilo koje treće države slijedom obveza te ugovorne stranke kao članice neke carinske, ekonomske iil monetarne unije, zajedničkog tržišta ili područja slobodne trgovine, koje proizlaze temeljem nekog međunarodnog ugovora ili utanačenja o uzajamnosti te carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine.
+5. Odredbe ovog Ugovora neće se tumačiti tako da obvezuju jednu ugovornu stranku da proširi na ulagatelje druge ugovorne stranke, ili na ulaganja ili povrate tih ulagatelja, pogodnosti bilo kojeg tretmana, prednosti ili povlastice koje ugovorna stranka može pružiti na temelju bilo kojeg međunarodnog ugovora ili dogovora koji se u potpunosti ili djelomično odnosi na oporezivanje.«
