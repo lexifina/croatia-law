@@ -1,0 +1,7 @@
+## III. PROSTORNI I TEHNIČKI UVJETI ZA PRIREĐIVANJE IGARA NA SREĆU NA AUTOMATIMA
+## Prostorni uvjeti
+# Članak 28.
+(1) Igre na sreću na automatima iz članka 5. stavka 1. točke 4. Zakona mogu se, osim u casinu priređivati i u posebno uređenim prostorima s vlastitim ulazom ili u prostorima koji se smatraju zasebnom cjelinom, a za koje priređivač posjeduje dokaz o ispunjavanju uvjeta u pogledu uređenja, opreme i prostora te drugih propisanih uvjeta.
+(2) Priređivač koji ima pravo priređivanja igara na sreću na automatima iz članka 5. stavka 1. točke 4. Zakona može te igre priređivati i na uplatnim mjestima kladionica koje imaju odobrenja za primanje uplata klađenja. Na uplatno mjesto kladionice iz članka 36. stavka 1. ovoga Pravilnika može se postaviti najviše jedan automat nakon što su ispunjeni uvjeti propisani odredbama Zakona i ovoga Pravilnika i nakon dobivenog odobrenja Ministarstva financija. Prostor za postavljanje automata mora biti najmanje 2 m². Priređivač koji ima pravo priređivanja igara na sreću na automatima može na uplatna mjesta kladionica postaviti najviše 150 automata.
+(3) Priređivač može postavljati automate na uplatna mjesta kladionica iz članka 36. stavka 1. ovoga Pravilnika koja se nalaze na udaljenosti većoj od 200 m od obrazovnih ustanova (osnovne i srednje škole).
+(4) Automat klub u kojem se priređuju igre na sreću na automatima mora biti uređen tako da prostor za igru i za goste bude ukupne površine najmanje 100 m².

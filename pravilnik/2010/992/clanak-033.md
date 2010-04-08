@@ -1,0 +1,4 @@
+## Zahtjev za izdavanje odobrenja za priređivanje igara na sreću na automatima
+# Članak 33.
+(1) Trgovačka društva koja imaju pravo priređivanja igara na sreću na automatima na temelju Zakona ili odluke Vlade Republike Hrvatske te su sklopila ugovor o pravu priređivanja moraju, prije dobivanja odobrenja za početak priređivanja igara na sreću na automatima dostaviti zahtjev i dokaze o ispunjavanju uvjeta u pogledu lokacije, uređenja, opreme, prostora i drugih propisanih uvjeta.
+(2) Odredbe članka 26. stavka 1., točaka 1. - 12., 15., 16. i 18. i stavka 2. istoga članka ovoga Pravilnika, koje se odnose na zahtjev za izdavanje odobrenja za priređivanje igara na sreću u casinima, na odgovarajući se način primjenjuju i na zahtjev za izdavanje odobrenja za priređivanje igara na sreću na automatima.
