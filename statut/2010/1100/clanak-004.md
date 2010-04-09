@@ -1,0 +1,47 @@
+# Članak 4.
+Komora:
+1. prevodi i objavljuje Međunarodne revizijske standarde (International Standards on Auditing (ISAs) i daje mišljenja u vezi s njima;
+2. prevodi i objavljuje Smjernice međunarodne revizijske prakse (International Auditing Practice Statements (IAPSs) i daje mišljenja u vezi s njima;
+3. prevodi i objavljuje Međunarodne standarde za izražavanje uvjerenja (International Standards on Assurance Engagements (ISAE) i daje mišljenja u vezi s njima;
+4. prevodi i objavljuje Međunarodne standarde kontrole kvalitete (International Standard on Quality Control (ISQC) i daje mišljenja u vezi s njima;
+5. prevodi i objavljuje Međunarodne standarde za obavljanje uvida (International Standards on Review Engagements (ISREs) i daje mišljenja u vezi s njima;
+6. prevodi i objavljuje Međunarodne standarde za povezane usluge (International Standards on Related Services (ISRSs) i daje mišljenja u vezi s njima;
+7. prevodi, objavljuje, odnosno donosi Kodeks profesionalne etike revizora;
+8. utvrđuje jedinstvena stajališta i objavljuje tumačenja u vezi s primjenom propisa o reviziji;
+9. daje stručna mišljenja i obrazloženja članovima Komore i trećim osobama na njihov zahtjev;
+10. donosi godišnji plan nadzora i provjere kvalitete rada, uz prethodnu suglasnost Odbora za javni nadzor revizije;
+11. donosi programe, te organizira i provodi stručno osposobljavanje ovlaštenih revizora, te stalno stručno usavršavanje;
+12. utvrđuje program revizorskih ispita, uz prethodnu suglasnost Odbora za javni nadzor revizije;
+13. utvrđuje širi program obrazovanja za osobe koje nemaju visoko stručno obrazovanje ekonomske struke, a žele steći certifikat ovlaštenog revizora;
+14. utvrđuje program provjere poznavanja zakonodavstva Republike Hrvatske na hrvatskom jeziku za strane državljane, koji podnose zahtjeve za nostrifikaciju isprave, uz prethodnu suglasnost Odbora za javni nadzor revizije;
+15. organizira i provodi ispite za stjecanje zvanja ovlaštenog revizora;
+16. izdaje certifikat ovlaštenog revizora;
+17. propisuje uvjete i provodi nostrifikaciju stranih isprava - certifikata ovlaštenih revizora;
+18. vodi registre ovlaštenih revizora, samostalnih revizora, zajedničkih revizorskih ureda, revizorskih društava i asistenata zaposlenih u revizorskim društvima, kod samostalnih revizora i u zajedničkim revizorskim uredima;
+19. daje prethodnu dozvolu za upis osnivanja revizorskih društava u sudski registar i upis promjena u vezi s tim društvima u sudski registar;
+20. odlučuje o zahtjevu za osnivanje zajedničkog revizorskog ureda;
+21. izdaje i oduzima dozvolu za rad revizorskom društvu, zajedničkom revizorskom uredu i samostalnom revizoru;
+22. utvrđuje stopu doprinosa i članarine, te druge prihode uz prethodnu suglasnost Odbora za javni nadzor revizije;
+23. utvrđuje naknadu koju plaćaju kandidati za stjecanje zvanja ovlaštenog revizora za provedbu stručnog obrazovanja i polaganje ispita za ovlaštenog revizora;
+24. utvrđuje naknadu za organiziranje i provedbu postupka nostrifikacije isprave;
+25. utvrđuje iznos pretplate na glasilo Komore;
+26. utvrđuje naknade kojima se ostvaruju drugi prihodi;
+27. objavljuje u Narodnim novinama: Statut, Međunarodne revizijske standarde, Odluku o stopi doprinosa i iznosu članarine;
+28. objavljuje u glasilu Komore i na internetskoj stranici Komore opće akte i druge dokumente koje donosi u skladu sa Statutom;
+29. objavljuje jednom godišnje u glasilu Komore i na internetskoj stranici Komore sveukupne rezultate provjere kvalitete rada, uz prethodnu suglasnost Odbora za javni nadzor revizije;
+30. objavljuje u glasilu Komore i na internetskoj stranici Komore: Registar samostalnih revizora, zajedničkih revizorskih ureda, revizorskih društava, ovlaštenih revizora i asistenata u revizorskom društvu, podatke o članovima uprave i članovima odnosno dioničarima revizorskih društava;
+31. utvrđuje minimalnu metodologiju obavljanja provjere kvalitete rada revizorskih društava, samostalnih revizora, zajedničkih revizorskih ureda i ovlaštenih revizora, uz prethodnu suglasnost Odbora za javni nadzor revizije;
+32. utvrđuje minimalni oblik i sadržaj radne dokumentacije obavljanja revizije;
+33. nadzire rad i provjerava kvalitetu rada revizorskih društava, samostalnih revizora, zajedničkih revizorskih ureda i ovlaštenih revizora, te poduzima potrebne mjere da se utvrđene nepravilnosti uklone i sankcioniraju, o čemu svakih šest mjeseci obavještava Odbor za javni nadzor revizije;
+34. utvrđuje Pravila za obavljanje revizije, kvantitativne i kvalitativne kriterije angažiranih ljudskih potencijala, te ostalih sredstava za obavljanje revizije;
+35. vodi stegovne i arbitražne postupke;
+36. prati provedbu propisa, predlaže izmjenu propisa i sudjeluje u postupku donošenja ili izmjene propisa;
+37. poduzima mjere u slučaju kada primi obavijest o neopravdanom raskidu ugovora od predstavnika pravne osobe kod koje se obavlja revizija ili od revizorskog društva, samostalnog revizora, te zajedničkog revizorskog ureda;
+38. poduzima mjere u slučaju kada primi obavijest da pravna osoba onemogućava obavljanje revizije u skladu s odredbama čl. 14. st. 1. do 3. Zakona;
+39. prati i proučava odnose i pojave koji su od interesa za uređenje, položaj i rad te unapređenje revizorske struke i djelatnosti;
+40. promiče materijalne, strukovne i druge interese revizorske struke;
+41. brine o ugledu revizijske profesije;
+42. uspostavlja i razvija suradnju s drugim revizorskim komorama i međunarodnim organizacijama revizora, te domaćim i stranim organizacijama računovođa i drugima srodnim organizacijama;
+43. donosi financijski plan, uz prethodnu suglasnost Odbora za javni nadzor revizije;
+44. surađuje i pruža pomoć Odboru za javni nadzor revizije u njegovim ovlastima, te razmjenjuje informacije i surađuje u nadzornim radnjama koje se odnose na obavljanje revizije u skladu s odredbama Zakona;
+45. obavlja druge poslove utvrđene Zakonom, podzakonskim propisom, ovim Statutom ili drugim općim aktom Komore.

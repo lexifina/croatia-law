@@ -1,0 +1,1 @@
+Na temelju članka 35., članka 38. stavka 2. točke 1. Zakona o reviziji (»Narodne novine« broj 146/05 i 139/08, dalje u tekstu: Zakon), Skupština Hrvatske revizorske Komore, na sjednici održanoj 20. ožujka 2010., usvojila je

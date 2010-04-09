@@ -1,0 +1,6 @@
+# Članak 15.
+1) Upravno vijeće čini sedam članova, i to: predsjednik Komore koji je po funkciji i član Upravnog vijeća, jedan član imenovan od strane Ministarstva financija i pet članova koje bira Skupština između ovlaštenih revizora upisanih u registar Komore, uz uvjet da su zaposleni u revizorskom društvu, kod samostalnog revizora ili u zajedničkom revizorskom uredu. Iz istoga revizorskog društva, samostalnog revizora, odnosno iz zajedničkog revizorskog ureda može se birati samo jedan član.
+2) Iz revizorskog društva, samostalnog revizora i zajedničkog revizorskog ureda iz kojeg je izabran član Odbora za javni nadzor revizije, ne može se birati član Upravnog vijeća.
+3) Članovi Upravnog vijeća imenuju se na razdoblje od četiri godine. Nakon isteka mandata mogu biti ponovno imenovani samo na još jedno mandatno razdoblje.
+4) Za izbor članova Upravnog vijeća, osim predsjednika i predstavnika Ministarstva financija, predlažu se kandidacijske liste od pet članova. Izabrana je ona lista koja dobije natpolovićnu većinu glasova.
+5) Članovi Upravnog vijeća odgovorni su i upravljaju sljedećim temeljnim funkcijama: registri, edukacija, certifikacija, Međunarodni standardi (ISRS, ISA, Etika, ISQC), nadzor i provjera kvalitete rada, odnosi s međunarodnim institucijama, odnosi s javnošću, riznica, statistika.
