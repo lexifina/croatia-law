@@ -1,0 +1,1 @@
+Na temelju članaka 29. i 30. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine« 143/02 i 33/05) i članka 19. Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom Ravnatelj Fonda donosi
