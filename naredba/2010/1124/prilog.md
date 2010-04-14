@@ -1,0 +1,50 @@
+PRILOG 1
+POPIS RAČUNA ZA REDOVNO POSLOVANJE PRORAČUNA ŽUPANIJA I GRADOVA/OPĆINA PO ŽUPANIJAMA
+- za uplatu javnih prihoda -
+Naziv Županije/grada/općine
+Broj računa
+Oznaka Grada/općine
+Mjerodavna ispostava Porezne uprave
+XVII. SPLITSKO-DALMATINSKA ŽUPANIJA
+(sjedište u Splitu)
+LEĆEVICA
+2500009
+-
+1858600007
+586
+KAŠTELA
+LOKVIČIĆI
+2485003
+-
+1858700008
+587
+IMOTSKI
+XVIII. ISTARSKA ŽUPANIJA
+(sjedište u Pazinu)
+PULA - POLA
+2360000
+-
+1835900006
+359
+PULA
+SVETVINČENAT
+2390001
+-
+1843500002
+435
+PULA
+PRILOG 4
+POPIS DOPUŠTENIH MODELA ZA ZAJEDNIČKE PRIHODE
+(proračuna i druge prihode za financiranje javnih potreba)
+A. ZAJEDNIČKI PRIHODI PRORAČUNA
+4. ZAJEDNIČKI PRIHODI ŽUPANIJSKIH I GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun/naziv računa
+Model
+05
+12
+67
+1001005-17...2935K
+Prihod od zakupa poljoprivrednog zemljišta u vlasništvu države u 2010. godini
+05
+12
+67
