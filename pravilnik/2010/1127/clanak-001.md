@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o obavljanju gospodarskog ribolova na moru (»Narodne novine«, br. 6/06, 46/06, 66/07, 121/08,. 146/08, 130/09 i 152/09) u članku 33. dodaje se stavak 6. koji glasi:
+»(6). Iznimno od odredbe iz stavka 1. ovoga članka, u povlasticu će se upisati plivarica palamidara na zahtjev ovlaštenika povlastice kada ovlaštenik povlastice istovremeno zatraži brisanje iz povlastice plivarice tunolovke, kao i u slučaju brisanja iz povlastice plivarice tunolovke u postupku otkupa povlastica za tunolov plivaricom tunolovkom, pri čemu plivarica palamidara ne smije biti duža od 800 m i viša od jedne trećine dužine armane mreže.«
