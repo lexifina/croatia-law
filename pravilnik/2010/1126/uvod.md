@@ -1,0 +1,1 @@
+Na temelju članka 48. stavka 3. točaka 1. i 2., članka 49. stavka 1. točke 9., članka 57. stavka 5. te članka 58. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 74/94, 57/96 i 48/05) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
