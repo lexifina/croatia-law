@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Proizvođač ili njegov ovlašteni predstavnik osnovani u Republici Hrvatskoj ili u Europskoj uniji odgovorni su da su tekstilni proizvodi iz članka 2. ovoga Pravilnika, koji se stavljaju na tržište, sukladni s odredbama ovoga Pravilnika i odgovorni su za točnost navedenih podataka. Kada proizvođač ili njegov ovlašteni predstavnik nisu osnovani u Republici Hrvatskoj ili u Europskoj uniji, za stavljanje tekstilnih proizvoda iz članka 2. ovoga Pravilnik na tržište i za točnost navedenih podataka odgovorna je osoba koja stavlja proizvod na tržište.
+(2) Distributer je odgovoran da tekstilni proizvodi imaju propisane nazive, opise i pojedinosti o sastavu tekstilnih vlakana, sukladno odredbama ovoga Pravilnika.
