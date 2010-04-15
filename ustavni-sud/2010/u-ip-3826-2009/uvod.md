@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Davor Krapac, Ivan Matija, Antun Palarić, Aldo Radolović, Duška Šarin, Miroslav Šeparović i Nevenka Šernhorst, na sjednici održanoj 24. ožujka 2010. godine donio je
