@@ -1,0 +1,5 @@
+## IV. TVARI KOJE SE UPOTREBLJAVAJU U PROIZVODNJI HRANE ZA POSEBNE PREHRAMBENE POTREBE
+# Članak 18.
+(1) Tvari i njihovi kemijski oblici koje se dodaju u hranu za posebne prehrambene potrebe moraju biti sukladni Prilogu I. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio, a njihova uporaba mora biti sukladna svim specifičnim odredbama koje su propisane posebnim propisima.
+(2) Ne dovodeći u pitanje odredbe Pravilnika o uvjetima i postupku izdavanja dopuštenja za stavljanje nove hrane prvi puta na tržište Republike Hrvatske i zahtjevima za posebno označavanje nove hrane (»Narodne novine«, br. 118/09), ostale tvari dodane za posebne prehrambene potrebe, a koje ne pripadaju ni jednoj od kategorija navedenih u Prilogu I. ovoga Pravilnika, mogu biti korištene u proizvodnji hrane za posebne prehrambene potrebe.
+(3) Uporaba hranjivih tvari u hrani za posebne prehrambene potrebe mora dovesti do proizvodnje zdravstveno ispravne hrane koja ispunjava posebne prehrambene potrebe osoba kojima su namijenjene kako je uspostavljeno opće prihvaćenim znanstvenim podacima.

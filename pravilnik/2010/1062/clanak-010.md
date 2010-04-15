@@ -1,0 +1,6 @@
+## III. STAVLJANJE NA TRŽIŠTE
+# Članak 10.
+(1) Za učinkovito praćenje hrane za posebne prehrambene potrebe koja se nalazi na tržištu Republike Hrvatske primjenjuju se sljedeće odredbe:
+a) za hranu za posebne prehrambene potrebe iz članka 3. stavka 1. točke 1. do 6. ovoga Pravilnika koja se prvi puta stavlja na tržište Republike Hrvatske subjekt u poslovanju s hranom mora o tome obavijestiti Ministarstvo zdravstva i socijalne skrbi (u daljnjem tekstu: Ministarstvo) u roku od sedam dana od prvog stavljanja na tržište
+b) za hranu za posebne prehrambene potrebe iz članka 3. stavka 1. točke 7. i 8. ovoga Pravilnika subjekt u poslovanju s hranom prije prvog stavljanja na tržište Republike Hrvatske mora dobiti odobrenje Ministarstva.
+(2) Iznimno od odredbe stavka 1. podstavka b) ovoga članka subjekt u poslovanju s hranom može stavljati na tržište hranu za posebne prehrambene potrebe iz članka 3. stavka 1. točke 7. ovoga Pravilnika bez odobrenja, ako Ministarstvu podnese obavijest o stavljanju iste na tržište, te uz obavijest priloži potvrdu o prijavi hrane nadležnom tijelu zemlje članice EU i tekst koji označava proizvod na hrvatskom jeziku. U tu svrhu subjektu u poslovanju s hranom izdaje se pisana potvrda o zaprimljenoj obavijesti.

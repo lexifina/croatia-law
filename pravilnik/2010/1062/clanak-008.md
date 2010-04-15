@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Za označavanje, reklamiranje i prezentiranje hrane za posebne prehrambene potrebe primjenjuju se odredbe Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine«, br. 41/08)[2] i navodi se sljedeće:
+- uz naziv pod kojim se hrana iz članka 2. ovoga Pravilnika stavlja na tržište navode se njezina posebna prehrambena svojstva, osim u slučaju hrane za posebne prehrambene potrebe iz članka 2. stavka 2. podstavka c) ovoga Pravilnika, kada se navodi namjena tih proizvoda.
+(2) Kod označavanja hrane iz članka 3. ovoga Pravilnika mora se navesti, ako nije drugačije propisano posebnim propisima i sljedeće:
+a) pojedine sastojke izražene kvalitativno i kvantitativno ili posebni postupak prerade koji hrani daje posebna prehrambena svojstva,
+b) energetsku vrijednost izraženu u kJ i kcal te sadržaj ugljikohidrata, bjelančevina i masti na 100 g ili 100 mL gotovog proizvoda i ako je potrebno na jedan obrok. Ako je energetska vrijednost manja od 50 kJ (12 kcal) na 100 g ili 100 ml gotovog proizvoda, navedeni se podaci mogu zamijeniti riječima: »energetska vrijednost manja od 50 kJ (12 kcal) na 100 g« ili riječima: »energetska vrijednost manja od 50 kJ (12 kcal) na 100 mL«.
