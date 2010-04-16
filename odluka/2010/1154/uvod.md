@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus) (»Narodne novine« br. 39/09, 67/09, 9/10 i 44/10), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
