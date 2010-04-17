@@ -1,0 +1,2 @@
+# Članak 77.
+Ova Odluka stupa na snagu osmog dana od dana objave u »Narodnim novinama«, osim odredbi članka 42., 43., 44., 45., 46., 47., 48., 50., 51., 52., 53., 56. i godišnje vrijednosti standardnog tima i iznosa po osiguranoj osobi za djelatnost laboratorijske dijagnostike utvrđenih pod rednim brojevima 4., 4.1. i 4.2. u Tablici 1.8. iz članka 58. ove Odluke koje se primjenjuju na ugovorne subjekte Zavoda od trenutka dobivanja rješenja o koncesiji i s time u vezi sklapanja ugovora sa Zavodom.

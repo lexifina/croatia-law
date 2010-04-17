@@ -1,0 +1,2 @@
+# Članak 55.
+Cijena rada zubotehničara za izradu stomatološkog pomagala utvrđuje se na osnovi broja bodova iz Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi (u daljnjem tekstu: Popis postupaka) koji su utvrđeni za zubotehničara za svako pojedino stomatološko pomagalo i vrijedeće cijene boda iz Tablice 1.9. iz članka 58. ove Odluke, odnosno Tablice 2.1 iz članak 65. ove Odluke te cijene materijala zubotehničara za izradu pomagala iz Pravilnika o ortopedskim i drugim pomagalima.

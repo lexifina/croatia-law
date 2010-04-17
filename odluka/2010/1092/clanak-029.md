@@ -1,0 +1,5 @@
+# Članak 29.
+Zavod u skladu s odredbama članka 6. ove Odluke sklapa ugovore s ljekarnama za opskrbu osiguranih osoba lijekovima utvrđenim Osnovnom listom lijekova i Dopunskom listom lijekova, te za opskrbu osiguranih osoba zavojnim materijalom za potrebe kućnog liječenja.
+Ljekarne su obvezne nabavljati i isporučivati osiguranim osobama Zavoda sve lijekove utvrđene listama lijekova iz stavka 1. ovog članka koji se izdaju na recept, te zavojni materijal za potrebe kućnog liječenja koji doktori primarne zdravstvene zaštite propisuju na recept.
+Ljekarnik ima pravo izdati na recept samo onaj lijek koji je propisan receptom i pod uvjetom da je propisan u skladu s odredbama Zakona, Zakona o lijekovima, Zakona o ljekarništvu, Pravilnika o načinu razvrstavanja lijekova, te propisivanju i izdavanju lijekova, Pravilnika o načinu propisivanju i izdavanju lijekova na recept i drugih općih akata Zavoda.
+Ako ljekarna nema propisan lijek obvezna je postupiti u skladu s odredbama Pravilnika o načinu propisivanja i izdavanja lijekova na recept.

@@ -1,0 +1,3 @@
+# Članak 52.
+Provođenje preventivnih programa iz članka 50. ove Odluke obvezno obuhvaćaju sudjelovanje u provođenju nacionalnih i županijskih preventivnih programa kao i preventivnih programa iz Plana i programa mjera zdravstvene zaštite iz obveznog zdravstvenog osiguranja.
+Preventivni programi u djelatnosti stomatološke zdravstvene zaštite (polivalentne) obvezno obuhvaćaju i provođenje preventivnih pregleda utvrđenih u članku 18. Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja u Tablici b-preventivna stomatološka zaštita djece do 18. godina i Tablici b-preventivna stomatološka zaštita osiguranih osoba iznad 18 godina.

@@ -1,0 +1,6 @@
+# Članak 72.
+Za pružnu zdravstvenu zaštitu koja je posljedica bolesti, tjelesne ozljede prouzročene od strane druge osobe i prometne nesreće prouzročene uporabom vozila inozemne registracije ugovorna zdravstvena ustanova, odnosno ugovorni zdravstveni radnici privatne prakse obvezni su ispostavljati pojedinačne račune Zavodu radi provedbe postupaka naknade štete u skladu s odredbom članka 113. i 118. Zakona.
+Cijena zdravstvene zaštite iz stavka 1. ovog članka obračunava se za:
+- specijalističko-konzilijarnu zdravstvenu zaštitu primjenom Popisa postupaka, utvrđene cijene boda za specijalističko-konzilijarnu zdravstvenu zaštitu, cijene lijeka iz Osnovne liste lijekova i cijene lijeka iz Dopunske liste lijekova koju pokriva obvezno zdravstveno osiguranje, kao i cijene potrošnog materijala primijenjenog u liječenju osigurane osobe ili primjenom plaćanja DTP-u
+- bolničku zdravstvenu zaštitu bolesnika oboljelih od akutnih bolesti primjenom dijagnostičko terapijskih skupina (u daljnjem tekstu: DTS) iz tablice 3.1 iz članka 66. ove Odluke u koje se razvrstavaju bolesnici koji imaju sličnu bolničku potrošnju i slične kliničke osobitosti i osnovne vrijednosti iz članka 66.. stavka 3. ove Odluke.
+- bolničku zdravstvenu zaštitu bolesnika oboljelih od subakutnih i kroničnih bolesti prema cijeni dana bolničkog liječenja iz tablice 3.2. iz članak 67. ove Odluke.

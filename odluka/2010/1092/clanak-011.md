@@ -1,0 +1,3 @@
+# Članak 11.
+Zavod s Hrvatskim crvenim križem, odnosno državnim zavodima, te drugim zdravstvenim ustanovama koje u svrhu unapređenja zdravstvene zaštite iz obveznog zdravstvenog osiguranja provode posebne zadaće u djelatnosti zdravstvene zaštite, sklapa ugovore za provođenje programa koje je posebnom odlukom usvojilo Upravno vijeće Zavoda. Programom se utvrđuju poslovi i zadaće od interesa za zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja s rokovima izvršenja, naznakom potrebnih radnika i novčanom naknadom.
+Radi provođenja primarne zdravstvene zaštite osiguranih osoba koje obavljaju poslove u svezi s osiguranjem i zaštitom integriteta Republike Hrvatske Zavod će u skladu s posebnom odlukom Upravnog vijeća Zavoda ugovorima urediti međusobna prava i obveze.

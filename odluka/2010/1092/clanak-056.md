@@ -1,0 +1,3 @@
+# Članak 56.
+Zavod u skladu s odredbama ove Odluke, općim aktima Zavoda i posebnim Odlukama Upravnog vijeća Zavoda utvrđuje domovima zdravlja maksimalni iznos novčanih sredstava iz obveznog zdravstvenog osiguranja.
+Makismalni iznos novčanih sredstava iz stavka 1. ovog članka domovima zdravlja utvrđuje se u skladu s ugovorenim sadržajima pojedinog doma zdravlja s time da se za sve timove doma zdravlja ugovorene u djelatnostima opće/obiteljske medicine, zdravstvene zaštite predškolske djece, zdravstvene zaštite žena i stomatološke zdravstvene zaštite (polivalentne) utvrđuje iznos godišnje novčane vrijednosti standardnog tima.
