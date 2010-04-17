@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se način i postupak provedbe javnog natječaja (u daljnjem tekstu: natječaj) za sufinanciranje audiovizualnih i radijskih programa iz sredstava Fonda za poticanje pluralizma i raznovrsnosti elektroničkih medija (u daljnjem tekstu: Fond), kriteriji za dodjelu sredstava iz članka 64. stavka 4. Zakona o elektroničkim medijima, te način praćenja trošenja sredstava i ostvarivanja programa za koji su dodijeljena.

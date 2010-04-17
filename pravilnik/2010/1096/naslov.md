@@ -1,0 +1,1 @@
+Pravilnik o načinu i postupku provedbe javnog natječaja za sufinanciranje audiovizualnih i radijskih programa iz sredstava Fonda za poticanje pluralizma i raznovrsnosti elektroničkih medija, kriterijima za dodjelu sredstava te načinu praćenja trošenja sredstava i ostvarivanja programa za koja su dodijeljena
