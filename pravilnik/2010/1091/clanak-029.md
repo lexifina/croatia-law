@@ -1,0 +1,2 @@
+# Članak 29.
+Standardi i normativi za posebno dežurstvo kao i dežurstvo u stomatološkoj zdravstvenoj zaštiti (polivalentnoj) utvrđeni u tablici iz članka 10. ovog Pravilnika primjenjuju se privremeno do osnivanja centra opće medicine, odnosno centra dentalne medicine koji organizira dom zdravlja nakon završetka postupka dodijele koncesije za obavljanje javne zdravstvene službe na primarnoj razini u skladu s odredbama Zakona o zdravstvenoj zaštiti i s time u vezi sklapanja ugovora sa Zavodom.

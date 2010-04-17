@@ -1,0 +1,2 @@
+# Članak 20.
+Zdravstvenu zaštitu u djelatnostima na sekundarnoj razini u smislu ovog Pravilnika provode klinički bolnički centri, kliničke bolnice, klinike, opće bolnice, specijalne bolnice i poliklinike, ugovorni privatni zdravstveni radnici specijalisti, te zdravstvene ustanove i privatni zdravstveni radnici više i srednje stručne spreme koji obavljaju djelatnosti fizikalne terapije u kući bolesnika koji su u mreži i iznimno domovi zdravlja u skladu s odredbama Zakona o zdravstvenoj zaštiti.
