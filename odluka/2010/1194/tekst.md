@@ -1,0 +1,10 @@
+1. Hrvatska narodna banka izdaje prigodni optjecajni kovani novac od 25 kuna u povodu održavanja Godišnje skupštine Europske banke za obnovu i razvoj u Zagrebu 14. i 15. svibnja 2010.
+2. Prigodni optjecajni kovani novac iz točke 1. ove Odluke izdaje se u količini od 20.000 komada i u ukupnom iznosu od 500.000,00 kuna.
+3. Prigodni optjecajni kovani novac od 25 kuna izrađen je od dvodijelne kovine. Jezgra novca izrađena je od slitine 92% bakra, 6% aluminija i 2% nikla, a prsten od slitine srebrnasta sjaja, koja se sastoji od 75% bakra i 25% nikla.
+4. Prigodni optjecajni kovani novac od 25 kuna ima oblik pravilnog dvanaesterokuta, kojemu opisana kružnica ima promjer 32 milimetra. Prigodni optjecajni kovani novac od 25 kuna ima masu od 12,75 grama. Jezgra ovog novca ima promjer od 18 milimetara i masu od 4,05 grama. Prsten ima unutarnji promjer od 18 milimetara i masu od 8,70 grama.
+5. Prigodni optjecajni kovani novac od 25 kuna s lica izgleda ovako: unutar jezgre kovanog novca prikaz je službenog amblema skupa na kojemu je prikaz panorame grada Zagreba, s natpisom u dva retka »ZAGREB« i »2010«. Kružno, unutar prstena, u dva retka ispisan je tekst »GODIŠNJA SKUPŠTINA EUROPSKE BANKE ZA OBNOVU I RAZVOJ« i »EBRD Annual Meeting and Business Forum''. U donjem središnjem dijelu prstena prikaz je amblema Europske banke za obnovu i razvoj.
+6. Prigodni optjecajni kovani novac od 25 kuna s naličja izgleda ovako: u središnjem dijelu jezgre kovanog novca nalazi se brojčana oznaka nominalne vrijednosti »25«. Kroz konture brojaka vidi se kuna zlatica okrenuta nadesno, a njezino je tijelo ukomponirano u brojčanu oznaku nominalne vrijednosti. U donjem središnjem dijelu prstena kovanog novca smješten je grb Republike Hrvatske. Na kružnu površinu prstena, lijevo od grba, položena je grančica lovora u cvatu, a desno grančica hrasta lužnjaka s plodovima. U gornjoj kružnoj površini prstena istaknut je natpis »REPUBLIKA HRVATSKA«.
+7. Obod je prigodnoga optjecajnoga kovanog novca od 25 kuna gladak.
+8. Autor idejnoga i likovnog rješenja jest Damir Mataušić, akademski kipar.
+9. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 744/2010.
