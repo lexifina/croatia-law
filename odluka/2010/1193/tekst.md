@@ -1,0 +1,11 @@
+1. Hrvatska narodna banka u suradnji s Hrvatskim novčarskim zavodom d.o.o. iz Zagreba izdaje, u sklopu serije »Minikovanice«, prigodni zlatni kovani novac u povodu obilježavanja 200. obljetnice rođenja Louisa Braillea, tvorca pisma za slijepe osobe.
+2. Prigodni zlatni kovani novac iz točke 1. ove Odluke izdaje se u apoenu od 10 kuna, u količini ne većoj od 5000 komada i u ukupnom iznosu ne većem od 50.000,00 kuna.
+3. Prigodni zlatni kovani novac iz točke 2. ove Odluke bit će izrađen od zlata stupnja čistoće 999/1000, u specijalnoj tehnici kovanja kojom se postiže kakvoća polirane ploče, s visokosjajnim ravnim površinama i matiranim reljefnim detaljima prigodnih motiva. Zlatni kovani novac imat će masu od 0,5 grama i promjer od 11 milimetra.
+4. Prigodni zlatni kovani novac od 10 kuna s lica izgleda ovako: u središnjem dijelu prikaz je papilarnih linija na jagodici ljudskog prsta, koji simbolizira dodir kojim slijepi čitaju Brailleovo pismo. Iznad prikaza je natpis »10 KUNA« ispisan pismom za slijepe osobe. Polukružno, uz gornji rub, ispisan je natpis »LOUIS BRAILLE 1809. - 2009.«. Polukružno, uz donji rub, izmjenjuju se udubljene i ispupčene točke, simboli na kojima se zasniva Brailleovo pismo za slijepe osobe.
+5. Prigodni zlatni kovani novac od 10 kuna s naličja izgleda ovako: u središnjem dijelu prikaz je papilarnih linija na jagodici ljudskog prsta, koji simbolizira dodir kojim slijepi čitaju Brailleovo pismo, iznad kojeg je natpis »10 kuna«. Polukružno, uz gornji rub, ispisan je natpis »REPUBLIKA HRVATSKA« razdijeljen prikazom grba Republike Hrvatske. Polukružno, uz donji rub, izmjenjuju se ispupčene i udubljene točke, simboli na kojima se zasniva Brailleovo pismo za slijepe osobe.
+6. Autor je idejnoga i likovnog rješenja prigodnoga zlatnoga kovanog novca od 10 kuna Damir Mataušić, akademski kipar.
+7. Prigodni zlatni kovani novac iz točke 2. ove Odluke prodavat će se po cijeni od 220,00 kuna za komad, uvećanoj za PDV.
+8. Prodaju prigodnoga zlatnoga kovanog novca iz točke 2. ove Odluke obavljat će Hrvatski novčarski zavod d.o.o. iz Zagreba.
+9. Prigodni zlatni kovani novac iz točke 2. ove Odluke pustit će se u prodaju 26. travnja 2010.
+10. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 743/2010.
