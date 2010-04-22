@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009), a u vezi sa člankom 1.a Zakona o privatizaciji (»Narodne novine«, br. 21/96, 71/97 i 73/2000) Vlada Republike Hrvatske je na sjednici održanoj 22. travnja 2010. godine, donijela
