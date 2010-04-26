@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna, posvećen održavanju Godišnje skupštine Europske banke za obnovu i razvoj u Zagrebu 14. i 15. svibnja 2010., izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenima u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »Godišnja skupština Europske banke za obnovu i razvoj, Zagreb 2010.« (»Narodne novine«, br. 48/2010.), pušta se u optjecaj 12. svibnja 2010.
+2. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 746/2010.
