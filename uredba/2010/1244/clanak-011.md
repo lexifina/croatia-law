@@ -1,0 +1,8 @@
+# Članak 11.
+Podnaslov iznad članka 71. i članak 71. mijenjaju se i glase:
+»10.2. Odjel administrativnog poslovnog registra, prostornog statističkog registra i statističke obrade
+Članak 71.
+Odjel administrativnog poslovnog registra, prostornog statističkog registra i statističke obrade obavlja sljedeće stručne poslove: vodi Registar poslovnih subjekata u koji se upisuju svi poslovni subjekti i njihovi dijelovi prema Nacionalnoj klasifikaciji djelatnosti; priprema i objavljuje podatke o broju i strukturi poslovnih subjekata upisanih u Registar; vodi, ažurira i održava statistički registar prostornih jedinica; vodi nacionalnu klasifikaciju prostornih jedinica za statistiku (NKPJS); razvija i primjenjuje geografski informacijski sustav (GIS); priprema i izrađuje tehničku dokumentaciju za provedbu popisa i drugih statističkih istraživanja. Sudjeluje u projektima razvitka regionalnih, urbanih i lokalnih statistika te portreta regija, registra stanovništva i ostalih statističkih registara; obavlja poslove manipulacije s prikupljenim obrascima statističkih istraživanja, šifriranje, kontrole potpunosti i logičnosti, ispravljanje podataka koji su pronađeni pogrešnima, praćenje koncentracije i obuhvata za svako istraživanje, obradu istraživanja pomoću uredskih računskih strojeva, sudjelovanje u izradi logičko-računske kontrole podataka, izradi uputa za šifriranje podataka i uputa za ispravljanje grešaka, suradnju sa stručnim odjelima, prema planiranim terminima i dinamici, te praćenje i izvješćivanje o statusu pojedinih poslova
+Za obavljanje dijela poslova iz stavka 1. ovog članka ustrojavaju se:
+10.2.1. Odsjek administrativnog poslovnog registra
+10.2.2. Odsjek prostornog statističkog registra i statističke obrade.«

@@ -1,0 +1,6 @@
+# Članak 8.
+Podnaslov iznad članka 65. i članak 65. mijenjaju se i glase:
+»9.6.1. Odsjek za Indeks potrošačkih cijena
+Članak 65.
+Odsjek za Indeks potrošačkih cijena obavlja sljedeće stručne poslove: pripremu, izradu, razvoj metodologija i klasifikacija u skladu s međunarodnim preporukama i standardima Europske unije, mjesečnu provedbu i obradu statističkih istraživanja, mjesečno objavljivanje i diseminaciju podataka i pokazatelja o kretanju cijena, suradnja s mjerodavnim institucijama u zemlji i inozemstvu na području dostave statističkih podataka o cijenama i rješavanja posebnih zahtjeva vezanih za izračun podataka o kretanju indeksa, sudjelovanje u radu međunarodnih radnih skupina iz navedenog područja. Odsjek također obavlja poslove iz navedenog djelokruga vezanih za provedbu projekata financiranih od strane Europske unije.
+Statističkim istraživanjem o kretanju indeksa potrošačkih cijena osiguravaju se mjesečni podaci čija je osnovna namjena mjerenje inflacije, a služi i za očuvanje vrijednosti kod ugovora s indeksnim klauzulama, usporedbu kretanja cijena unutar zemlje između određenih gospodarskih sektora, kao osnova za deflacioniranje pojedinih kategorija nacionalnih računa i drugih statističkih serija te za analitičke svrhe.«

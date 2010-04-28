@@ -1,0 +1,5 @@
+# Članak 5.
+Podnaslov iznad članka 21. i članak 21. mijenjaju se i glase:
+»6.4.1.2. Pododsjek statistike ostalih usluga
+Članak 21.
+Pododsjek statistike ostalih usluga obavlja sljedeće stručne poslove: pripremu, izradu i razvoj metodologija i klasifikacija statistike ostalih usluga, pripremu i provedbu statističkih istraživanja, obradu prikupljenih podataka, analizu, objavu i druge oblike diseminacije rezultata statističkih istraživanja iz područja statistike ostalih usluga. Pododsjek primjenjuje metodološke smjernice i preporuke Eurostata i vodi računa o primjeni nacionalnih propisa iz područja ostalih usluga, unaprjeđuje metode rada i primjenjuje nove tehnologije u cilju poboljšanja kvalitete dobivenih rezultata. Pododsjek prikuplja i obrađuje kratkoročne (tromjesečne) podatke o prometu, te godišnje podatke o zalihama, zaposlenima, broju ugostiteljskih objekata itd., potrošnji energije. Pododsjek izrađuje i ostale relevantne pokazatelje o ostalim uslugama te redovito dostavlja propisane setove podataka u Eurostat.«

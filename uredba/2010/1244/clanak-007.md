@@ -1,0 +1,7 @@
+# Članak 7.
+Članak 64. mijenja se i glasi:
+»Odjel statistike cijena i pariteta kupovne moći obavlja sljedeće stručne poslove: pripremu, izradu, razvoj metodologija i klasifikacija, provodi i obrađuje statistička istraživanja poštujući smjernice Eurostata, provodi mjesečno publiciranje i diseminaciju statističkih podataka i pokazatelja o cijenama, provodi godišnje izmjene ponderacijske strukture i oblikovanje indeksne liste za izračunavanje svih indeksa cijena te sudjeluje na poslovima međunarodne suradnje. Statističkim istraživanjima osiguravaju se podaci u mjesečnoj periodici po grupama i podgrupama dobara i usluga za Indeks potrošačkih cijena (CPI - Consumer price index) i Harmonizirani indeks potrošačkih cijena (HICP - Harmonized index of consumer prices). Odjel provodi pred-istraživanja i istraživanja za definirane liste potrošnih proizvoda i usluga te za područje investicijske opreme i građevinskih projekata prema dinamici određenoj od strane Eurostata sa svrhom izračuna pariteta kupovne moći koji se koristi kao deflator pri obračunu BDP-a po paritetu kupovne moći prema potrošnoj metodi. Odjel definira nove i redefinira postojeće izvore podataka, aktivno surađuje i priprema podatke za sve odjele unutar Sektora ekonomskih statistika te surađuje sa ostalim Sektorima u Zavodu glede usklađivanja metodoloških pristupa i razmjene podataka.
+Za obavljanje dijela poslova iz stavka 1. ovoga članka ustrojavaju se:
+9.6.1. Odsjek za Indeks potrošačkih cijena
+9.6.2. Odsjek za Harmonizirani indeks potrošačkih cijena
+9.6.3. Odsjek pariteta kupovne moći.«
