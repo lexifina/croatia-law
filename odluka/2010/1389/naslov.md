@@ -1,0 +1,1 @@
+Odluka o koncesiji za posebnu upotrebu pomorskog dobra u svrhu izgradnje objekata za veterinarski i fitopatološki nadzor, s pratećim prometnim površinama i internom pristupnom prometnicom u luci Ploče
