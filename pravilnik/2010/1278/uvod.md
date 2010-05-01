@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 5.i članka 94. stavka 2. Zakona o hrani (»Narodne novine« broj 46/07.) i članka 18. stavka 5. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine« broj 149/09.), ministar poljoprivrede, ribarstva i ruralnog razvoja, donosi
