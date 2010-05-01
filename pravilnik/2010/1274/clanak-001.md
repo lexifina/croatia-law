@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima za obavljanje poslova upravljanja prometom, nadzora i premještanja nepropisno zaustavljenih i parkiranih vozila kada te poslove obavljaju jedinice lokalne samouprave te programu i načinu osposobljavanja službenika (»Narodne novine« broj: 143/08 i 105/09) u člancima 4. i 5. iza riječi »poslova«, dodaju se riječi »premještanja nepropisno zaustavljenih i parkiranih vozila«.
