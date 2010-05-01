@@ -1,0 +1,3 @@
+# Članak 50.
+Posebni standard primjenjuje se na ugovorne bolničke zdravstvene ustanove koje provode liječenje bolesnika oboljelih od akutnih bolesti kod kojih je zadovoljeno jedno od mjerila iz članka 9. ove Odluke.
+Dodatna sredstva za bolničke zdravstvene ustanove iz stavka 1. ovog članka obračunavaju kao razlika utvrđenog maksimalnog iznosa sredstava za provođenje bolničke i specijalističko-konzilijarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja i iznosa računa ispostavljenih za provedenu bolničku i specijalističko-konzilijarnu zdravstvenu zaštitu bolesnika oboljelih od akutnih bolesti.

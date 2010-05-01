@@ -1,0 +1,4 @@
+## II. SEKUNDARNA I TERCIJARNA RAZINA ZDRAVSTVENE DJELATNOSTI
+# Članak 46.
+Posebni standard primjenjuje se za timove koji provode specijalističko-konzilijarnu zdravstvenu zaštitu na hrvatskim otocima.
+Dodatna sredstava za timove iz stavka 1. ovog članka utvrđuju se kao razlika izvršene zdravstvene zaštite prema ispostavljenim i zaprimljenim računima obračunatim prema broju bodova iz Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi, te cijeni boda za izvanbolničku specijalističko-konzilijarnu zdravstvenu zaštitu i mjesečnog iznosa sredstava u visini novčanog ekvivalenta od 3.695 bodova obračunatog prema vrijedećoj cijeni boda za izvanbolničku specijalističko-konzilijarnu zdravstvenu zaštitu umanjenog za iznos sudjelovanja osigurane osobe utvrđenog prema zaprimljenim računima.

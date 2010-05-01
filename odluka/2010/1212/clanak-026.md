@@ -1,0 +1,3 @@
+# Članak 26.
+Posebni standard primjenjuje se na ginekološke timove na hrvatskim otocima kojima u pravilu gravitira više od 4200 osiguranih osoba žena starijih od 15 godina.
+Dodatna sredstva za tim iz stavka 1. ovog članka utvrđuju se na način da se pripadajući godišnji iznos novčanih sredstava za tim, utvrđen u skladu s odredbama Odluke o ugovaranju obračuna s koeficijentom 0,1, s time da ukupni godišnji novčani iznos sredstava za tim ne može biti viši od godišnje novčane vrijednosti standardnog tima za djelatnost zdravstvene zaštite žena utvrđene u članku 44. Tablici 1.3. Odluke o ugovaranju.
