@@ -1,0 +1,1 @@
+Na temelju članka 8. stavaka 4. i 6., i članka 64. stavka 1. i stavka 4. točke 1. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01, 7/03, 174/04, 10/05 - ispravak i 49/05 - pročišćeni tekst), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
