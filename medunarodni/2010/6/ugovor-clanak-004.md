@@ -1,0 +1,8 @@
+# Članak 4.
+Obveza prihvata prema članku 3. ovoga Sporazuma ne postoji u slučaju:
+1.) državljana trećih država koje imaju zajedničku državnu granicu s ugovornom strankom moliteljicom;
+2.) državljana trećih država ili osoba bez državljanstva koje su u vrijeme ulaska imale važeću ulaznu vizu ili odobrenje boravka izdano od ugovorne stranke moliteljice ili su nakon ulaska dobile odobrenje boravka u toj državi;
+3.) državljana trećih država ili osoba bez državljanstva koje na dan primitka zahtjeva za prihvat duže od dvanaest (12) mjeseci borave na državnom području države ugovorne stranke moliteljice, osim u slučaju da posjeduju važeće odobrenje boravka izdano od zamoljene ugovorne stranke;
+4.) državljana trećih država ili osoba bez državljanstva kojima je ugovorna stranka moliteljica pravomoćnom odlukom priznala status izbjeglice na temelju odredaba Konvencije o pravnom položaju izbjeglica, sastavljene u Ženevi dana 28. srpnja 1951. izmijenjene i dopunjene Protokolom o pravnom položaju izbjeglica, sastavljenim u New Yorku dana 31. siječnja 1967. ili status osobe bez državljanstva na temelju Konvencije o pravnom položaju osoba bez državljanstva, sastavljene u New Yorku dana 28. rujna 1954.;
+5.) državljana trećih država ili osoba bez državljanstva za koje je ugovorna stranka moliteljica započela postupak priznavanja statusa izbjeglice, do donošenja konačne odluke;
+6.) državljana trećih država ili osoba bez državljanstva koje su napustile državno područje države zamoljene ugovorne stranke i ušle na državno područje države ugovorne stranke moliteljice s državnog područja treće države u koju ugovorna stranka moliteljica može vratiti te osobe prema međunarodnom ugovoru o predaji i prihvatu.
