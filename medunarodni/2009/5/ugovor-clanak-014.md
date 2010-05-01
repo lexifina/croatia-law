@@ -1,0 +1,6 @@
+# Članak 14.
+1. Zamoljena ugovorna stranka obvezna je odgovoriti na zahtjev za prihvat pisano, bez odgode, a u svakom slučaju najkasnije u roku od petnaest (15) kalendarskih dana od datuma primitka zahtjeva. Iznimno, ako postoje pravne ili stvarne smetnje, ovaj rok može biti produžen za najviše šest (6) radnih dana. Ako u navedenom roku zamoljena ugovorna stranka ne odgovori, smatrat će se da postoji suglasnost za prihvat. Svako odbijanje prihvata mora se pisano obrazložiti.
+2. Zamoljena ugovorna stranka prihvatit će osobu čiji je prihvat potvrdila bez odgode, a najkasnije u roku od pet (5) radnih dana od datuma potvrde prihvata.
+3. Zamoljena ugovorna stranka mora odmah i bez odgode preuzeti osobu koju se vraća u skraćenom postupku, a najkasnije u roku od dvadeset četiri (24) sata od primitka najave.
+4. Iznimno, rok iz stavka 2. ovog članka može se produljiti radi uklanjanja pravnih ili stvarnih smetnji, ali ne dulje od šest (6) radnih dana od isteka roka iz stavka 2. ovoga članka.
+5. Zamoljena ugovorna stranka od koje se zahtijeva tranzit prema članku 6. stavku 1. ovoga Sporazuma, na zahtjev za tranzit odgovorit će u najkraćem mogućem roku, a najkasnije u roku od tri (3) radna dana od datuma primitka zahtjeva.
