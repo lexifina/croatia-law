@@ -1,0 +1,4 @@
+# Članak 8.
+Savjetovanje o fizičkom i psihičkom zdravlju, sigurnosti, organizaciji i zaštitnim sredstvima provodi se kao specifičan oblik zdravstvenog prosvjećivanja u cilju podizanja svijesti pripadnika, očuvanja zdravlja te osobne/grupne sigurnosti pri obavljanju dužnosti.
+Savjetovanje iz stavka 1. ovog članka provode kao kontinuirani proces vojni doktori u suradnji sa stručnjacima iz područja zaštite na radu i nadležnim ustrojstvenim jedinicama (obuka, školstvo, personalna služba), a obuhvaća kontrolu tehničko-tehnoloških i organizacijskih mjera tijekom obavljanja dužnosti, uporabe osobnih zaštitnih sredstava, ergonomskih uvjeta pod kojima se obavlja dužnost i drugih čimbenika koji utječu na zdravlje i sigurnost pripadnika.
+6. Zaštita od ozljeda na radu i profesionalnih bolesti u vezi s radom

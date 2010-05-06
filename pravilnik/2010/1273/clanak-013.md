@@ -1,0 +1,4 @@
+# Članak 13.
+Zdravstveni odgoj i prosvjećivanje pripadnika provodi se kao kontinuirana aktivnost s ciljem podizanja svijesti o mogućnostima i neophodnosti očuvanja fizičkog i mentalnog zdravlja, koje je direktno u vezi s obavljanjem dužnosti.
+Zdravstveni odgoj i prosvjećivanje pripadnika obuhvaća edukaciju pripadnika o štetnim utjecajima ustrojbenog mjesta i obavljanju dužnosti na siguran način, a provodi se kao individualni rad s grupama pripadnika uz izradu brošura, letaka i ostalog edukativnog materijala o problemima koji nastaju kao posljedica obavljanja dužnosti, a mogu dovesti do pojave profesionalnih bolesti, bolesti u vezi s obavljanjem dužnosti i ozljeda pri obavljanju dužnosti.
+Zdravstveni odgoj i prosvjećivanje pripadnika provode vojni doktori medicine, vojni psiholozi, instruktori i kineziolozi.
