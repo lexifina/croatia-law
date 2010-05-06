@@ -1,0 +1,2 @@
+# Članak 62.
+(1) Podmorski cjevovodi (kao i bušotinske glave i ostali uređaji za eksploataciju položeni na morskom dnu, spremnici za podmorsko skladištenje, krute i savitljive cijevi za povezivanje navedenih uređaja za eksploataciju i spremnika s površinskim instalacijama, zajedno sa spojnim uređajima) moraju odgovarati zahtjevima otpornosti i potpune nepropusnosti u odnosu na radne uvjete i moraju biti odgovarajuće zaštićeni od korozije, djelovanja morskih struja kao i drugih vanjskih čimbenika sukladno važećim propisima.

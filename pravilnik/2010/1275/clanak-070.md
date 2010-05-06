@@ -1,0 +1,4 @@
+## Obveza prijave početka izvođenje simultanih operacija
+# Članak 70.
+(1) Koncesionar je obvezan najmanje 15 dana prije početka izvođenja simultanih operacija ili nastavka izvođenja simultanih operacija nakon prekida dužeg od tri mjeseca, pisano prijaviti početak izvođenja simultanih operacija, odnosno nastavak radova, ministarstvu nadležnom za rudarstvo, Državnom inspektoratu, nadležnoj organizaciji zaduženoj za izdavanje statutarnih dokumenata izdanih sukladno pomorskim propisima, te svim ostalim subjektima kojima je to u odobrenju za izvođenje simultanih operacija određeno.
+(2) U slučaju prekida izvođenja simultanih operacija koncesionar je obvezan poduzeti mjere radi osiguranja rudarskih objekata i postrojenja, te isto prijaviti ministarstvu nadležnom za rudarstvo, Državnom inspektoratu, te svim subjektim kojima je to u odobrenju za izvođenje simultanih operacija određeno.

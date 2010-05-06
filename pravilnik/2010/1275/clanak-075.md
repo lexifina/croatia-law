@@ -1,0 +1,3 @@
+# Članak 75.
+(1) Pored iskazanog u članku 74. ovoga Pravilnika pri izvođenju simultanih operacija na platformi iz poglavlja B, potpoglavlja B4, članaka 66. do 72. ovoga Pravilnika koncesionar imenuje i voditelja simultanih operacija koji je odgovoran za cjelovitost i međusobnu usklađenost simultanih radova, za međusobnu usklađenost provedbe obveza iz članaka 66. i 83. Zakona o rudarstvu, te ujedno koordinira primjenu propisa kojima se uređuje sigurnost i zdravlje radnika tijekom izvođenja simultanih radova.
+(2) Voditelj simultanih operacija može biti fizička osoba koja ispunjava uvjete propisane pravilnikom iz članka 85. Zakona o rudarstvu.

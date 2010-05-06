@@ -1,0 +1,4 @@
+# Članak 48.
+(1) Tijekom izvođenja radova na sanaciji havarija u bušotini (instrumentacije i zaglave niza bušaćeg alata i/ili niza zaštitnih cijevi i/ili sondi i kabela EK i/ili DST opreme i dr.) osobitu pozornost treba posvetiti dodatnim mjerama sigurnosti i zaštite.
+(2) Alat i oprema za instrumentacije moraju biti u funkciji, servisirani i ispitani, s valjanim popratnim certifikatima.
+(3) Ako su instrumentacije dugotrajnije, a osobito ako se u tom vremenu učestalo koriste specijalni alati (sve vrste udarača) potrebno je svakodnevno vršiti pregled bušaćeg tornja i kontrolu rada bušaćeg užeta, a po potrebi i zamijeniti niz i/ili dio niza bušaćeg alata. Ako se za saniranje zaglave (prihvata) niza bušaćeg alata koriste kupke (sirove nafte, plinskog ulja, otežane kupke, kiseline) moraju se poduzeti dodatne mjere sigurnosti i zaštite.

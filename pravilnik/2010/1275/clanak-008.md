@@ -1,0 +1,2 @@
+# Članak 8.
+Pri izvođenju rudarskih radova zabranjeno je bacanje i ispuštanje u more čvrstog neraspadljivog otpada (plastičnih, metalnih i staklenih predmeta), uljne isplake, motornih ulja, nabušenog materijala iz uljne isplake, tekućih ugljikovodika, otrovnih i štetnih tvari, a nositelj odobrenja za istraživanje mineralnih sirovina i koncesionar za eksploataciju mineralnih sirovina (u daljnjem tekstu: koncesionar) dužni su poduzeti i mjere potrebne za zaštitu života i zdravlja ljudi te zaštitu imovine i okoliša prema važećim propisima.

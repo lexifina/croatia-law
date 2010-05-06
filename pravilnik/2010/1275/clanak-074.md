@@ -1,0 +1,5 @@
+# Članak 74.
+(1) Na temelju odredbi Zakona o rudarstvu platforme moraju imati odgovorne stručne osobe za izvođenje rudarskih radova, za primjenu propisanih mjera sigurnosti i zaštite na radu, kao i za ispravnost i održavanje platforme.
+(2) Odgovorne osobe koje obavljaju poslove vezane za izvođenje rudarskih radova, te za primjenu propisanih mjera sigurnosti i zaštite na radu, kao i za ispravnost i održavanje platforme mogu biti fizičke osobe koje ispunjavaju uvjete propisane pravilnikom iz članka 85. Zakona o rudarstvu.
+(3) Građenje rudarskih objekata i postrojenja i stručni nadzor građenja rudarskih objekata i postrojenja na platformi koncesionar mora povjeriti osobama koje ispunjavaju uvjete za obavljanje tih djelatnosti propisane Zakonom o rudarstvu.
+(4) Izvođač radova iz stavka 3. ovog članka imenuje voditelja građenja rudarskih objekata i postrojenja na platformi u svojstvu odgovorne osobe. Voditelj građenja rudarskih objekata i postrojenja na platformi odgovoran je za provedbu obveza iz članka 83. Zakona o rudarstvu.
