@@ -1,0 +1,6 @@
+## Suradnja i plan skrbi
+# Članak 11.
+(1) Predstavnik obiteljskog doma obvezan je u cilju pružanja najprimjerenijih usluga korisnicima skrbi izvan vlastite obitelji kojima je to pravo priznato temeljem rješenja centra za socijalnu skrb surađivati s nadležnim centrima za socijalnu skrb te ih najmanje jedanput godišnje izvješćivati o svim promjenama u odnosu na pojedinog korisnika.
+(2) Predstavnik obiteljskog doma obvezan je najmanje svakih 6 mjeseci organizirati u obiteljskom domu stručni sastanak za svakog korisnika, na kojem će sudjelovati po mogućnosti korisnik, socijalni radnik nadležnog centra za socijalnu skrb, pojedini članovi obitelji korisnika te sve druge osobe koje su u okviru djelovanja obiteljskog doma uključene u skrb za korisnika.
+(3) Cilj stručnog sastanka iz stavka 2. ovoga članka je izrada procjene uspješnosti plana skrbi za korisnika u proteklom razdoblju, izrada plana daljnjeg zbrinjavanja, te vrste usluga koje mu se trebaju pružati u sljedećem polugodišnjem razdoblju.
+(4) Predstavnik obiteljskog doma obvezan je sastaviti zapisnik sa stručnog sastanka iz stavka 2. ovoga članka u knjigu zapisnika, koji treba sadržavati podatke o sudionicima sastanka, kratak tijek sastanka i zaključke u svezi daljnjeg plana skrbi o korisniku.

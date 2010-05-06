@@ -1,0 +1,5 @@
+## Vrste usluga
+# Članak 24.
+Korisnicima iz članka 2. stavka 1. podstavka 3. ovoga Pravilnika, temeljem izrečene mjere obiteljsko-pravne zaštite kojom se korisnik povjerava na čuvanje i odgoj obiteljski dom pruža usluga skrbi izvan vlastite obitelji:
+- na smještaju (stalni, tjedni i privremeni) u okviru kojeg se korisnicima osigurava stalna briga i nadzor, stanovanje, prehrana, briga o zdravlju i njega, odgoj, stručna pomoć kroz odgojne sadržaje i rad usmjeren na razvijanje osjećaja odgovornosti i radnih navika, socijalna i psihosocijalna podrška, stručna pomoć u učenju, provođenje programa slobodnih i radno-okupacijskih aktivnosti, organiziranje provođenja slobodnog vremena te razvijanje kontakata s članovima obitelji radi povratka korisnika u obitelj odnosno njegovog osposobljavanja za samostalan život,
+- na boravku (cjelodnevni i poludnevni), u okviru kojeg se korisnicima osigurava pružanje usluga prehrane, brige o zdravlju i njege, odgoja, stručna pomoć kroz odgojne sadržaje i rad usmjeren na razvijanje osjećaja odgovornosti i radnih navika, socijalna i psihosocijalna podrška te stručna pomoć u učenju.
