@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 6. Zakona o sprječavanju sukoba interesa u obnašanju javnih dužnosti (»Narodne novine«, br. 163/03., 94/04., 48/05., 141/06., 60/08. i 38/09.), Hrvatski sabor na sjednici 30. travnja 2010., donio je
