@@ -1,0 +1,2 @@
+[1]Pravilnikom se preuzimaju odredbe Uredbe Komisije (EZ-a) br. 141/2007 od 14. veljače 2007. o zahtjevu za odobrenje u skladu s Uredbom (EZ-a) br. 183/2005 Europskoga parlamenta i Vijeća za objekte u poslovanju s hranom za životinje koji proizvode ili stavljaju na tržište dodatke hrani za životinje kategorije »kokcidiostatici i histomonostatici«.
+[2]Pravilnikom o higijeni hrane za životinje (»Narodne novine«, broj 41/08) preuzete su odredbe Uredbe (EZ) br. 183/2005 Europskog parlamenta i Vijeća od 12. siječnja 2005. kojom se utvrđuju uvjeti za higijenu hrane za životinje.
