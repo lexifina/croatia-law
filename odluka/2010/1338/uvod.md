@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 2. Zakona o zdravstvenom osiguranju zaštite zdravlja na radu (»Narodne novine« br. 58/06 i 67/08) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« br. 76/93, 29/97, 47/99 i 35/08) Upravno vijeće Hrvatskoga zavoda za zdravstveno osiguranje zaštite zdravlja na radu na sjednici održanoj 18. ožujka 2010. godine donijelo je
