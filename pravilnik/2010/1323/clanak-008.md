@@ -1,0 +1,3 @@
+# Članak 8.
+1) Ovlašteni skladištar i vlasnik robe predane na skladištenje svoje međusobne odnose vezane na skladištenje robe, cijenu skladištenja, načine postupanja s uskladištenom robom za koju je izdana skladišnica, pravo raspolaganja uskladištenom robom za koju je izdana skladišnica osobi na koju glasi skladišnica ili osobi na koju je skladišnica prenesena ili osobi na koju glasi upisano založno pravo na skladišnici, regulirat će Ugovorom.
+2) Ovlašteni skladištar i vlasnik robe predane na skladištenje će Ugovorom iz stavka 1. ovoga članka, međusobno regulirati da obavljanje kontrole robe na prijemu u skladište prije izdavanja skladišnice, kao i kontrolu robe pri isporuci po izdanoj skladišnici obavlja neovisni ovlašteni kontrolni laboratorij.

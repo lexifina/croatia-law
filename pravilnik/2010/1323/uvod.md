@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. i članka 10. stavka 3. Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje (»Narodne novine«, br. 79/09) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
