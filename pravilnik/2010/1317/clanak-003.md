@@ -1,0 +1,2 @@
+# Članak 3.
+Raspored javnobilježničkih mjesta i njihovih službenih sjedišta sastavni je dio ovog Pravilnika. Javni bilježnici, imenovani do dana stupanja na snagu ovog Pravilnika, nastavljaju obavljati svoju službu u službenim sjedištima za koje su imenovani, osim javnih bilježnika imenovanih u službenim sjedištima, koja su ovim Pravilnikom ukinuta. Isti će se, bez posebnog natječaja, uz svoj pristanak, premjestiti na novootvorena ili još uvijek upražnjena javnobilježnička mjesta, u mjestu sjedišta općinskog suda, za područje kojeg su imenovani.

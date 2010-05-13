@@ -1,0 +1,2 @@
+# Članak 2.
+Javni bilježnik ima svoj ured u javnobilježničkom službenom sjedištu. Javni bilježnik može održavati uredovne dane u sjedištu općina ili gradova na području istog suda, ako u njima nije utvrđeno službeno sjedište javnog bilježnika. Ako je u sjedištu općine ili grada, na području istog suda, utvrđeno službeno sjedište javnog bilježnika, uredovni se dani mogu u tim sjedištima održavati samo ako nema javnog bilježnika ili još nije imenovan, ili ako je spriječen obavljati javnobilježničku službu.
