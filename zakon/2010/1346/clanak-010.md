@@ -1,0 +1,6 @@
+# Članak 10.
+Iza članka 65. dodaje se članak 65.a koji glasi:
+»Članak 65.a
+Iznimno od članka 4., članka 16. stavka 1., članka 18. stavka 2., članka 28. stavka 1., 2. i 3. ovoga Zakona i ne dovodeći u pitanje propise o sustavu ispitivanja tvari koje su se nalazile na tržištu Europske unije na dan 14. svibnja 2000. i postupak uvrštavanja ili neuvrštavanja aktivnih tvari u popise aktivnih tvari usklađenih na razini Europske unije, postupak propisan člankom 65. ovoga Zakona primjenjivat će se do 14. svibnja 2014. godine.
+Ako se odlukom na razini Europske unije o uvrštavanju neke aktivne tvari u Popis I. ili I.A utvrdi neki datum nakon 14. svibnja 2014. godine, to odstupanje za biocidne pripravke koji sadrže predmetnu aktivnu tvar važi do datuma utvrđenoga tom odlukom.
+U skladu s člankom 65. ovoga Zakona ministar će odobriti stavljanje na tržište Republike Hrvatske biocidnog pripravka koji sadrži aktivne tvari koje za tu vrstu pripravka nisu navedene u Popisu I. ili I.A. Uvjet jest da su takve aktivne tvari bile na tržištu na dan 26. lipnja 2007. godine kao aktivne tvari u biocidnim pripravcima predviđenim za namjene različite od namjene za znanstveno istraživanje i razvoj i primijenjeno istraživanje i razvoj.«.
