@@ -1,0 +1,5 @@
+## Predstavka pravne ili fizičke osobe na rad subjekta
+# Članak 95.
+(1) Predstavku pravne ili fizičke osobe inspektor i ovlaštene osobe iz članka 86. ovoga Zakona dužni uzeti u obzir samo ako ih predstavka upozorava na činjenično stanje koje im nameće obvezu pokretanja postupka po službenoj dužnosti.
+(2) Inspektor i ovlaštene osobe iz članka 86. ovoga Zakona dužne su obavijestiti podnositelja predstavke o poduzetim radnjama ako je povodom predstavke obavljen inspekcijski nadzor. Ukoliko nije obavljen inspekcijski nadzor, inspektor i ovlaštene osobe iz članka 86. ovoga Zakona obavijestit će podnositelja predstavke o razlozima neobavljanja, odnosno o nepostojanju uvjeta za provedbu inspekcijskog nadzora.
+(3) Dokumentaciju, činjenice, podatke i identitet podnositelja predstavke utvrđene u inspekcijskom nadzoru inspektor i ovlaštene osobe iz članka 86. ovoga Zakona, odnosno drugi državni službenici, mogu dati samo sudovima, tijelima državne uprave koja vode prekršajni postupak i drugim državnim tijelima, na njihov obrazloženi pisani zahtjev, u sudskim i upravnim postupcima iz njihove nadležnosti.

@@ -1,0 +1,10 @@
+## Obveza oduzimanja predmeta i postupanje
+# Članak 92.
+(1) Inspektor i ovlaštene osobe iz članka 86. ovoga Zakona su dužne, ako je to ovim Zakonom ili drugim propisom predviđeno, privremeno oduzeti ulovljenu ribu i druge morske organizme, plovilo, alate i opremu za ribolov ili privremeno zapečatiti alate i opremu za ribolov koji su bili predmet izvršenja prekršaja ili kaznenog djela, a mogu u prekršajnom ili kaznenom postupku biti kao dokaz.
+(2) Inspektor i ovlaštene osobe iz članka 86. ovoga Zakona moraju izvaditi neoznačene ribolovne alate iz ribolovnog mora.
+(3) Osobi od koje se oduzimaju predmeti izdaje se potvrda s točno označenim oduzetim predmetima po vrsti i količini.
+(4) O oduzetim predmetima inspektor i ovlaštene osobe iz članka 86. ovoga Zakona u roku od 24 sata donose odluku kojom odlučuju o čuvanju predmeta do odluke suda, koju prilaže optužnom prijedlogu ili prijavi za kazneno djelo.
+(5) U slučaju kada se privremeno do odluke nadležnog sudbenog tijela oduzimaju predmeti podložni kvarenju i životinje, inspektor i ovlaštene osobe iz članka 86. ovoga Zakona su dužne optužni prijedlog, odnosno prijavu podnijeti najkasnije u roku od 48 sati od oduzimanja, odnosno prvog radnog dana ukoliko rok od 48 sati istječe na blagdan ili neradni dan, a nadležno sudbeno tijelo o prijavi, odnosno optužnom prijedlogu odlučuje u hitnom postupku.
+(6) S privremeno oduzetim predmetima, do pravomoćne odluke o prekršaju, inspektor i ovlaštene osobe iz članka 86. ovoga Zakona ne mogu raspolagati (predmet uništiti, prodati, predati, darovati, zamijeniti i sl.), osim ako posebnim zakonom ili drugim propisom nije drukčije određeno.
+(7) Ako inspektor i ovlaštene osobe iz članka 86. ovoga Zakona umjesto podnošenja optužnog prijedloga izdaju prekršajni nalog, tim nalogom, sukladno Prekršajnom zakonu, odlučit će i o zaštitnoj mjeri oduzimanja predmeta.
+(8) Način pečaćenja alata iz stavka 1. ovoga članka kao i obrazac Potvrde o privremeno oduzetim predmetima iz stavka 1. i 2. ovoga članka te način postupanja s alatom iz stavka 3. ovoga članka propisuje ministar.

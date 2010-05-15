@@ -1,0 +1,2 @@
+# Članak 116.
+Na dan stupanja na snagu ovoga Zakona prestaje važiti Zakon o morskom ribarstvu (»Narodne novine«, br. 74/94., 57/96., 46/97. - pročišćeni tekst i 49/05.), osim odredaba poglavlja III. MALI RIBOLOV i odredaba poglavlja XI. KAZNENE ODREDBE u dijelu koje se odnose na mali ribolov koje prestaju važiti 31. prosinca 2014. te odredbe članka 73. koje prestaju važiti na dan pristupanja Republike Hrvatske Europskoj uniji.

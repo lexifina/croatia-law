@@ -1,0 +1,6 @@
+## Dužnosti osobe koja podliježe inspekciji
+# Članak 93.
+(1) Pravne i fizičke osobe koje podliježu nadzoru inspektora i ovlaštene osobe iz članka 86. ovoga Zakona dužne su im omogućiti obavljanje nadzora i osigurati mu uvjete za neometan rad.
+(2) Smatra se da nadzirana pravna ili fizička osoba nije omogućila obavljanje nadzora iz stavka 1. ovoga članka i u slučaju kada u roku određenom u zapisniku inspektora i ovlaštene osobe iz članka 86. ovoga Zakona ili roku određenom u pozivu za saslušanje stranke ne osigura uvid u alate, traženu poslovnu dokumentaciju i druge isprave potrebne za utvrđivanje činjeničnog stanja u započetu nadzoru.
+(3) Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su na traženje inspektora i ovlaštene osobe iz članka 86. ovoga Zakona privremeno prekinuti rad za vrijeme inspekcijskog nadzora ili kontrole ako inspektor ne bi mogao na drugi način obaviti inspekcijski nadzor ili kontrolu ili utvrditi činjenično stanje. Zahtjev za privremenu obustavu poslovanja inspektor i ovlaštene osobe iz članka 86. ovoga Zakona dužni su unijeti u zapisnik o obavljenom inspekcijskom nadzoru.
+(4) Inspektor i ovlaštene osobe iz članka 86. ovoga Zakona mogu od nadzirane pravne i fizičke osobe tražiti izvršenje pojedine radnje u postupku radi potpunog utvrđivanja činjeničnog stanja i odrediti rok izvršenja te radnje.

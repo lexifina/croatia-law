@@ -1,0 +1,4 @@
+## Posebne zabrane ribolova
+# Članak 17.
+(1) Radi zaštite hridinaste obale, kao posebnog staništa ribolovnog mora, zabranjeno je sakupljanje, zadržavanje na plovilu, prekrcavanje, iskrcavanje, prevoženje, skladištenje, posjedovanje, prodaja, izlaganje ili pokušaj stavljanja u promet prstaca (Litophaga litophaga) na cijelom teritoriju Republike Hrvatske, kao i njihov izvoz i uvoz.
+(2) Radi zaštite tuna i tuni sličnih vrsta, te morskih pasa, zabranjena je upotreba pridnenih mreža stajačica za ulov sljedećih vrsta riba: tunja dugokrilca (Thunnus alalunga), atlantske tune (Thunnus thynnus), igluna (Xiphias gladius), grboglavke (Brama brama), morskih pasa vrsta glavonja (Hexanchus griseus) i psine goleme (Cetorhinus maximus), te morskih pasa iz porodica lisice (Alopiidae); modrulji (Carcharhinidae); mlatovi (Sphyrnidae) i kučine (Lamnidae).
