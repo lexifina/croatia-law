@@ -1,0 +1,3 @@
+# Članak 2.
+Obuku i osposobljavanje pirotehničara, voditelja pirotehničke skupine/radilišta, nadzornika i djelatnika za protueksplozijsku zaštitu za obavljanje poslova humanitarnog razminiranja vojnih objekata provodi inženjerijska postrojba Oružanih snaga (u daljnjem tekstu Inženjerijska postrojba) prema programima koji se nalaze u prilogu ovoga Pravilnika i njegov su sastavni dio (prilozi 1, 2, 3 i 4).
+Obuku vodiča službenih pasa za detekciju eksploziva provodi Središte za obuku vodiča i službenih pasa »satnik Krešimir Ivošević« u Pukovniji Vojne policije Hrvatske kopnene vojske (u daljnjem tekstu: Središte) prema programu koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio (Prilog 5).

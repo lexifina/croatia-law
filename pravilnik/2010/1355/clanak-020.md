@@ -1,0 +1,2 @@
+# Članak 20.
+Voditelj pirotehničke skupine/radilišta za obavljanje poslova humanitarnog razminiranja u Oružanim snagama, nadzornik za obavljanje poslova humanitarnog razminiranja u Oružanim snagama i djelatnik za protueksplozijsku zaštitu u Oružanim snagama obavezni su jednom godišnje pristupiti internoj provjeri znanja i sposobnosti u obavljanju poslova humanitarnog razminiranja pred stručnim timom Inženjerijske postrojbe.

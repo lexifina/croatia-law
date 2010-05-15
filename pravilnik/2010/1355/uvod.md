@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. Zakona o obrani (»Narodne novine«, broj: 33/02, 58/02, 76/07 i 153/09) i članka 76. stavka 2. podstavka 7. Zakona o humanitarnom razminiranju (»Narodne novine« broj 153/05, 63/07 i 152/08) donosim
