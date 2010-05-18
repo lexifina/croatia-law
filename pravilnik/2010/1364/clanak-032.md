@@ -1,0 +1,8 @@
+## Strana osoba - ovlaštenik
+# Članak 32.
+(1) Strana osoba (u daljnjem tekstu: strani ovlaštenik) koja ima sjedište odnosno prebivalište u državi ugovornici Ugovora o Europskom ekonomskom prostoru (u daljnjem tekstu: država ugovornica EEP-a) može u Republici Hrvatskoj obavljati pojedine stručne poslove određene ovim Pravilnikom i to poslove one vrste, koje je ovlaštena izvoditi prema propisima države u kojoj ima prebivalište odnosno sjedište.
+(2) Strani ovlaštenik sa sjedištem odnosno prebivalištem u državi ugovornici EEP-a za obavljanje poslova iz stavka 1. ovoga članka dužan je o namjeri zaključivanja ugovora s naručiteljem iz Republike Hrvatske Ministarstvu dostaviti obavijest s odgovarajućim dokazima:
+1. da ima registriranu djelatnost prema kojoj u državi svoga sjedišta odnosno prebivališta ima pravo obavljanja poslova iz područja zaštite okoliša i područja zaštite prirode,
+2. da prema registriranoj djelatnosti iz točke 1. ovoga stavka u državi svoga sjedišta smije obavljati poslove u svezi kojih zaključuje ugovor s naručiteljem iz Republike Hrvatske odnosno da u tom pogledu nema ograničenja.
+(3) Obavijest iz stavka 2. ovoga članka strani ovlaštenik dostavlja na hrvatskom jeziku a dokaze dostavlja u originalu i prevedene na hrvatski jezik po ovlaštenoj osobi.
+(4) Ukoliko obavijest sadrži dokaze u skladu sa stavkom 2. ovoga članka stranom ovlašteniku će se izdati potvrda o prihvaćanju obavijesti. Ukoliko obavijest ne sadrži propisane dokaze ova potvrda se neće izdati o čemu će strani ovlaštenik biti obaviješten posebnim dopisom u kojem će se navesti razlozi za neizdavanje potvrde.

@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 7. Zakona o zaštiti okoliša (»Narodne novine« broj 110/07), uz suglasnost ministra nadležnog za poslove zaštite prirode, ministrica zaštite okoliša, prostornog uređenja i graditeljstva, donosi

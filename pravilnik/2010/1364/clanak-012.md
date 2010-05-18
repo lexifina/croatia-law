@@ -1,0 +1,7 @@
+## D) stručne poslove izrade Izvješća o sigurnosti i poslove izrade procjena šteta nastalih u okolišu
+## Za stručne poslove prema točkama C)1., C)2., D)1., D)2., D)3, D)4 i D)5
+# Članak 12.
+(1) Pravna osoba za obavljanje stručnih poslova iz članka 4. stavka 2. ovoga Pravilnika iz točaka: C)1., C)2., D)1., D)2., D)3, D)4 i D)5, osim voditelja stručnih poslova, mora za svaki od stručnih poslova imati i najmanje dva stručnjaka iz područja neke od tehničkih odnosno biotehničkih znanosti ili struka, koji imaju najmanje pet godina radnog iskustva u struci i položen stručni ispit iz područja zaštite okoliša. Pojedini od ovih stručnjaka mogu pokrivati i više stručnih područja koja odgovaraju različitim vrstama stručnih poslova iz ovoga stavka.
+(2) Osim uvjeta iz stavka 1. ovoga članka, pravna osoba - ovlaštenik koja prilikom izvršenja nekog od stručnih poslova iz stavka 1. ovoga članka nema potrebitog odgovarajućeg stručnjaka specijalistu za područje prema specifičnim zahtjevima konkretnog naručenog posla, dužna je osigurati usluge vanjskih stručnjaka koji imaju uspješno završen odgovarajući studijski program ili specijalizaciju u struci odnosno koji imaju odgovarajuće ovlaštenje, te imaju najmanje pet godina radnog iskustva u struci i položen stručni ispit iz područja zaštite okoliša.
+2.2.4. E) Za stručne poslove izrade i provjere - verifikacije (revizije) posebnih elaborata, proračuna i projekcija za potrebe sastavnica okoliša i za potrebe Registra onečišćavanja okoliša
+Za stručne poslove prema točkama E)1., E)2.,E)3. i E)4.
