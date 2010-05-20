@@ -1,0 +1,11 @@
+## Zahtjevi pri premještanju
+# Članak 4.
+(1) Određeno bilje koje potječe iz demarkiranih područja u Republici Hrvatskoj uspostavljenih na temelju članka 7. ovoga Pravilnika, dopušteno je premještati na teritoriju Republike Hrvatske samo ako ga prati biljna putovnica pripremljena i izdana u skladu s odredbama Pravilnika o Fitosanitarnom upisniku i biljnim putovnicama[4] (»Narodne novine«, br. 54/07) i ako je tijekom razdoblja od najmanje dvije godine prije premještanja raslo na mjestu proizvodnje:
+- koje je registrirano u Fitosanitarnom upisniku u skladu s odredbama Pravilnika o Fitosanitarnom upisniku i biljnim putovnicama; i
+- na kojem su godišnje obavljena dva detaljna službena pregleda u odgovarajuće vrijeme i pri čemu nisu pronađeni znakovi prisutnosti štetnog organizma; kad je to potrebno, pregled uključuje uzimanje uzoraka destrukcijskom metodom odnosno metodom u kojoj je neizbježno da se biljka iz koje se uzorak uzima uništi; i
+- gdje je bilje raslo na mjestu:
+- koje je fizički potpuno zaštićeno od unošenja štetnog organizma; ili
+- na kojem se obavljaju odgovarajuća preventivna tretiranja i koje je okruženo sigurnosnim područjem širine najmanje 2 km računajući od granice zaraženog područja, unutar kojeg se godišnje u odgovarajuće vrijeme obavljaju službena istraživanja radi otkrivanja znakova prisutnosti štetnog organizma. U slučaju otkrivanja znakova prisutnosti štetnog organizma, odmah se poduzimaju mjere iskorjenjivanja radi ponovnog uspostavljanja nezaraženog sigurnosnog područja.
+(2) Određeno bilje koje je u skladu s člankom 3. ovoga Pravilnika uvezeno iz trećih zemalja za koje je poznato da je u njima prisutan štetni organizam, dopušteno je premještati unutar Republike Hrvatske samo ako su ispunjeni uvjeti iz stavka 1. ovoga članka.
+(3) Određeno bilje koje potječe iz demarkiranih područja u Europskoj uniji uspostavljenih na temelju članka 7. ovoga Pravilnika, dopušteno je premještati unutar Europske unije samo ako su ispunjeni zahtjevi iz točke 1. odjeljka II. Priloga I. ovoga Pravilnika
+(4) Određeno bilje koje je uvezeno u skladu s člankom 3. ovoga Pravilnika iz trećih zemalja za koje je poznato da je u njima prisutan štetni organizam, dopušteno je premještati samo ako su ispunjeni uvjeti navedeni u točki 2. odjeljka II. Priloga I. ovoga Pravilnika.
