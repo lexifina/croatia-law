@@ -1,0 +1,6 @@
+## Glava I.
+## OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuje se postupak povezivanja knjige položenih ugovora i zemljišne knjige, (u daljnjem tekstu: postupak povezivanja).
+(2) Predmet postupka povezivanja je upis katastarske čestice, upis promjene izgrađenosti nekretnine na kojoj postoje posebni dijelovi, upis posebnih dijelova nekretnine, upis prava koja mogu biti predmet upisa u zemljišne knjige na toj nekretnini i njenim posebnim dijelovima i pripacima, upis prava vlasništva na posebnim dijelovima nekretnine koja prava su stečena do stupanja na snagu Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, broj 91/96, 68/98, 137/99, 22/00, 73/00, 129/00, 114/01, 79/06, 141/06, 146/08, 38/09 i 153/09 - dalje: ZV) i Zakona o zemljišnim knjigama (»Narodne novine«, broj 91/96, 68/98, 137/99, 114/01, 100/04, 107/07 i 152/08 - dalje: ZZK) i upis posebnih dijelova vraćenih ranijim vlasnicima po odredbama posebnog zakona.
+(3) Postupak upisa čestica i građevina sagrađenih na njima koje se sastoje od jednog ili više posebnih dijelova te prava vlasništva na posebnim dijelovima koje je stečeno po propisima koji su bili na snazi prije stupanja na snagu ZV i ZZK, te posebnih dijelova vraćenih ranijim vlasnicima po odredbama posebnog zakona, provodi se u postupku propisanom odredbama ovoga Pravilnika.

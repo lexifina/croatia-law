@@ -1,0 +1,2 @@
+# Članak 4.
+Za upis vlasništva posebnog dijela nekretnine koji nije bio upisan u knjigu položenih ugovora a stečen je na temelju propisa donesenih prije stupanja na snagu Zakona o vlasništvu i drugim stvarnim pravima (1. 1. 1997.) nije potrebna pisana suglasnost svih suvlasnika te nekretnine iz članka 73. stavka 1. ZV, niti potvrda da je posebni dio samostalna uporabna cjelina iz stavka 3. istoga članka.
