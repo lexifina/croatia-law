@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Svako ribarsko plovilo koje prelazi duljinu od 15 metara preko svega, mora od 31. prosinca 2010. godine imati instaliran uređaj sposoban automatski prenositi podatke FMC-u.
+(2) Iznimno od odredbe stavka 1. ovoga članka, sva ribarska plovila kojima je Ministarstvo instaliralo uređaj do stupanja na snagu ovoga Pravilnika i ribarska plovila namijenjena ribolovu tunja (Thunnus thynnus) i ostale krupne plave ribe plivaricom tunolovkom kao i plovila koja sudjeluju kao ispomoć u ribolovu tunja, uzgoju tunja ili tegljači kaveza s tunama moraju osigurati stalno funkcioniranje uređaja i prijenos podataka iz članka 3. stavka 1. ovoga Pravilnika danom objave ovoga Pravilnika.
+(3) Plovila iz stavaka 1. i 2. ovoga članka ne smiju obavljati ribolov i poslove vezane uz ribolov, uzgoj i prijevoz tunja ukoliko nemaju instaliran uređaj za praćenje nakon isteka rokova određenih ovim člankom.
