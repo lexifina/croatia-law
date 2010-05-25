@@ -1,0 +1,5 @@
+# Članak 6.
+PRIMJENA ZAKONA I PROPISA
+1. Zakoni i propisi jedne ugovorne stranke koji uređuju ulazak na, boravak i odlazak s njezinog državnog područja zrakoplova koji obavlja međunarodnu zračnu plovidbu ili letove na njeno državno područje, njihov boravak na tom području, te izlazak iz njega ili letove takvih zrakoplova preko tog državnog područja primjenjivat će se na određene zračne prijevoznike druge ugovorne stranke.
+2. Zakoni i propisi jedne ugovore stanke koji uređuju ulazak na, boravak i odlazak s njezinog državnog područja, putnika, posade, prtljage, tereta ili pošte, kao što su formalnosti vezane uz ulazak, izlazak, emigraciju, i imigraciju, kao i carinu i sanitarne mjere primjenjivat će se na putnike, posadu, prtljagu, teret ili poštu koje prevoze zrakoplovom određenih zračnih prijevoznika druge ugovorne stranke dok su unutar navedenog državnog područja.
+3. Niti jedna ugovorna stranka ne može dodijeliti nikakvu povlasticu svojim vlastitim zračnim prijevoznicima s obzirom na određene zračne prijevoznike druge ugovorne stranke u primjeni zakona i propisa predviđenih u ovom članku.

@@ -1,0 +1,5 @@
+# Članak 3.
+IZVRŠAVANJE PRAVA
+1. Određeni zračni prijevoznici imat će pravedne i jednake mogućnosti za natjecanje u pružanju dogovorenog prometa obuhvaćenog ovim Sporazumom.
+2. Niti jedna ugovorna stranka neće ograničiti pravo svakog od određenih zračnih prijevoznika da obavlja međunarodni promet između odnosnih državnih područja ugovornih stranaka ili između državnog područja jedne ugovorne stranke i državnih područja trećih zemalja.
+3. Svaka će ugovorna stranka dopustiti određenim zračnim prijevoznicima da odrede učestalost i kapacitet međunarodnog zračnog prometa koji nude na temelju komercijalnih okolnosti na tržištu. U skladu s ovim pravom, niti jedna ugovorna stranka neće jednostrano ograničiti opseg prometa, učestalost, broj odredišta ili redovitost usluge, ili tip ili tipove zrakoplova koje koriste određeni zračni prijevoznici druge ugovorne stranke, ako je to potrebno zbog carinskih, tehničkih i operativnih razloga ili razloga zaštite okoliša prema jedinstvenim uvjetima sukladnim s člankom 15. Konvencije.

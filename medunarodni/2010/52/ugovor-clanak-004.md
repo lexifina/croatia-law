@@ -1,0 +1,10 @@
+# Članak 4.
+ODREĐIVANJE I OPERATIVNE OVLASTI
+1. Svaka ugovorna stranka ima pravo odrediti onoliko zračnih prijevoznika koliko želi u svrhu obavljanja dogovorenog prometa, te povući ili izmijeniti takvo određenje. Takvo će se određenje izvršiti pisanom obaviješću između zrakoplovnih vlasti obiju ugovornih stranaka.
+2. Po primitku takvog određenja i zahtjeva određenog zračnog prijevoznika, u obliku i na način propisan za ovlaštenje za rad, zrakoplovna vlast druge ugovorne stranke dodijelit će zračnom prijevozniku uz minimalno postupovno kašnjenje odgovarajuće ovlaštenje za letenje, pod uvjetom da:
+a. je zračni prijevoznik osnovan na državnom području ugovorne stranke koja ga je odredila i da ima važeću svjedodžbu o sposobnosti zračnog prijevoznika u skladu s primjenjivim zakonima; i
+b. je zračni prijevoznik u vlasništvu i nastavit će biti u vlasništvu, izravno ili kroz većinsko vlasništvo, jedne od ugovornih stranaka ili države članice Europske unije i/ili državljana ugovornih stranaka ili država članica Europske unije, te će uvijek biti pod prevladavajućom kontrolom takvih država i/ili njihovih državljana; i
+c. prevladavajuću regulatornu kontrolu takvog zračnog prijevoznika provodi i održava jedna od ugovornih stranaka ili država članica Europske unije odgovorna za izdavanje svjedodžbe o sposobnosti zračnom prijevozniku, a odgovarajuća zrakoplovna vlast je jasno navedena u određenju.
+d. ugovorna stranka koja je odredila zračnog prijevoznika primjenjuje odredbe navedene u članku 7. (Zaštita zračnog prometa) i članku 8. (Sigurnost zračnog prometa).
+3. Zrakoplovne vlasti jedne ugovorne stranke mogu tražiti od zračnih prijevoznika koje je odredila druga ugovorna stranka da dokažu da su kvalificirani ispuniti uvjete propisane prema zakonima i propisima koji se uobičajeno primjenjuju na obavljanje međunarodnog zračnog prometa od strane spomenutih vlasti u skladu s odredbama Konvencije.
+4. Nakon primitka ovlaštenja za rad, dobivenog sukladno stavku 2. ovog članka, određeni zračni prijevoznici mogu u svako doba obavljati dogovoreni promet.

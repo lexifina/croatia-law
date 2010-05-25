@@ -1,0 +1,3 @@
+# Članak 17.
+KONZULTACIJE
+Bilo koja ugovorna stranka može u svako doba zatražiti konzultacije o provedbi, tumačenju, primjeni ili izmjenama i dopunama ovog Sporazuma. Takve konzultacije, koje mogu biti između zrakoplovnih vlasti, počet će na najraniji mogući datum, ali ne kasnije od šezdeset (60) dana od datuma na koji druga ugovorna stranka primi pisani zahtjev, osim ako se ugovorne stranke ne dogovore drugačije. Svaka će ugovorna stranka tijekom takvih konzultacija pripremiti i predstaviti relevantne dokaze koji podupiru njezin stav kako bi olakšala donošenje, na informacijama utemeljenih, razumnih i ekonomičnih odluka.
