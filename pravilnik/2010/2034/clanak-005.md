@@ -1,0 +1,2 @@
+# Članak 5.
+Arhivskim gradivom Hrvatske javnobilježničke komore smatra se sve gradivo ili dokumentacija nastala djelovanjem tijela i stručne službe Komore u okviru njihovih nadležnosti propisnih zakonom i drugim propisima, a koje su od trajnog značenja za kulturu, povijest i druge znanosti, bez obzira na mjesto i vrijeme njihova nastanka, neovisno o obliku i nosaču na kojem su sačuvane, te koje je nastalo odabiranjem iz registraturnog gradiva nakon provedenog postupka odabiranja.

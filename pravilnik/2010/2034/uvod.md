@@ -1,0 +1,1 @@
+Na temelju odredbe članka 17. Pravilnika o zaštiti i čuvanju arhivskog i registraturnog gradiva izvan arhiva (»Narodne novine« 63/04), te članka 11. stavka 3. Pravilnika o vrednovanju te postupku odabiranja i izlučivanja arhivskog gradiva (»Narodne novine« 90/02), Upravni odbor Hrvatske javnobilježničke komore na svojoj sjednici održanoj dana 19. 3. 2010., usvojio je
