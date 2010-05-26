@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 2. i članka 34. stavka 3. Zakona o računovodstvu (»Narodne novine«, broj 109/07.) te članka 16. Pravilnika o načinu rada Odbora za standarde financijskog izvještavanja, Odbor za standarde financijskog izvještavanja donio je na sjednici održanoj 10. svibnja 2010.
