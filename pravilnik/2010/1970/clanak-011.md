@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Ulaganja moraju udovoljavati relevantnim standardima Zajednice kako je određeno člankom 170 (1) Uredbe Komisije (EC) br. 718/2007 na kraju svoje realizacije u pogledu zaštite okoliša.
+(2) Ulaganje treba udovoljavati relevantnim nacionalnim minimalnim standardima što se tiče zaštite okoliša u vrijeme kad je Odluka o dodjeli sredstava iz IPARD programa donesena.
+(3) Prethodnu procjenu nacionalnih tijela odgovornih za očuvanje okoliša o projektu treba predati zajedno s projektnim/poslovnim planom. Za projekte određene veličine Procjena učinka na okoliš izvršit će se prije ulaganja sukladno Uredbi o procjeni utjecaja zahvata na okoliš (»Narodne novine« br. 64/08 i 67/09)(u skladu s EU direktivama 85/337/EEC i 97/11/ EC, uključujući dodatak I i II).
+(4) Ako su strategije lokalnog razvoja odobrene od strane Ministarstva, kako je regulirano člankom 171(3)(b) IPA provedbene Uredbe (EC) br. 718/2007, ulaganje treba biti usklađeno s ovim strategijama.
+(5) Aktivnosti koje se sufinanciraju u okviru IPA komponente III (Mjera 2.1 -Uspostava modernih vodoopskrbnih sustava i mreža i Mjera 2.2 - Izgradnja uređaja za pročišćavanje otpadnih voda za otpadne vode iz domaćinstava i industrije i poboljšanje kanalizacijske mreže), sukladno Operativnom programu za okoliš 2007 - 2009. bit će isključene iz potpore u okviru ove Mjere.

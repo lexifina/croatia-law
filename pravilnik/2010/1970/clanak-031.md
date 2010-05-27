@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Kontrola na terenu provodi se prije ugovaranja, prije isplate i najmanje jednom tijekom sedam (7) godina od datuma konačne isplate potpore navedenog u Potvrdi izdanoj od strane Agencije za plaćanje. Ulaganje kojem je isplaćeno više od 50% prihvatljivog troška bit će kontrolirano dva puta, jednom unutar 4 godine i drugi put tijekom sedme godine nakon dana konačne isplate. Kontrolu obavljaju zaposlenici Sektora za kontrolu.
+(2) Osim zaposlenika navedenih u stavku 1. ovoga članka kontrolu na terenu svakog IPARD ulaganja mogu obavljati i zaposlenici Službe za unutarnju reviziju Agencije za plaćanje, službenici Nacionalnog fonda, Agencije za reviziju sustava provedbe programa EU, revizori Europske komisije i Europski revizorski sud.
