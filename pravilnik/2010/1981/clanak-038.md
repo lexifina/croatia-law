@@ -1,0 +1,36 @@
+# Članak 38.
+(1) Ako nije drugačije propisano ovim Pravilnikom, zabranjeno je dodavanje bojila sljedećoj hrani:
+- neprerađenoj hrani;
+- svim vrstama zapakiranih voda;
+- mlijeku, djelomično obranom i obranom mlijeku, pasteriziranom ili steriliziranom (uključujući i UHT) (nearomatiziranom);
+- čokoladnom mlijeku;
+- fermentiranom mlijeku (nearomatiziranom);
+- konzerviranom mlijeku kako je definirano Pravilnikom o ugušćenom (kondenziranom) mlijeku i mlijeku u prahu (»Narodne novine« broj 80/07)15
+- mlaćenici (nearomatizirana);
+- vrhnju i vrhnju u prahu (nearomatizirano);
+- uljima i mastima životinjskog ili biljnog podrijetla;
+- jajima i proizvodima od jaja kako su definirani Pravilnikom o higijeni hrane životinjskog podrijetla (»Narodne novine« broj 99/07)12
+- brašnu i drugim mlinarskim proizvodima te raznim vrstama škroba;
+- kruhu i sličnim proizvodima;
+- tjestenini i njokima;
+- šećerima, uključujući mono i disaharide;
+- koncentratu rajčice i proizvodima od rajčice u konzervi ili staklenkama;
+- umacima na bazi rajčice;
+- voćnim sokovima i nektarima kako su definirani Pravilnikom o voćnim sokovima i njima srodnim proizvodima namijenjenim za konzumaciju (»Narodne novine« broj 20/09)16 te soku od povrća;
+- voću, povrću (uključujući krumpir) i gljivama i njihovim prerađevinama u konzervama ili bocama kao i u sušenom obliku;
+- ekstra džemu, estra želeu te kesten pireu kako su definirani Pravilnikom o voćnim džemovima, želeima, marmeladama, pekmezu te zaslađenom kesten pireu (»Narodne novine« broj 76/06)17;
+- riba, mekušci, rakovi, meso, meso peradi i divljači kao i njihovi proizvodi, osim gotovih jela koja sadrže te sastojke;
+- kakau i proizvodima, čokoladi i čokoladnim dijelovima u proizvodima kako su definirani Pravilnikom o kakau i čokoladnim proizvodima (»Narodne novine« broj 73/05)18;
+- prženoj kavi, čaju i cikoriji, čajnom ekstraktu i ekstraktu cikorije, pripravcima od čaja, bilja, voća kao pojedinačnoj sirovini ili u smjesi u originalnom ili instant obliku;
+- soli i nadomjescima za sol, začinima i mješavine začina;
+- vinu i drugim proizvodima od grožđa i vina definiranim Zakonom o vinu (»Narodne novine« broj 96/03)19 sukladno Zakonu o vinu;
+- Korn ili Kornbrand, rakijama od voća, Ouzo, Grappa, Tsikoudia s Krete , Tsipouro iz Makedonije, Tsipouro iz Tesalije, Tsipouro iz Tirnavosa, Eau de vie de marc Marque nationale luxembourgeoise, Eau de vie de seigle Marque nationale luxembourgeoise te London gin, sukladno Pravilniku o jakim alkoholnim pićima (»Narodne novine« broj 61/09 i 141/09)29;
+- Sambuca; Marschino i Mistra sukladno Pravilniku o jakim alkoholnim pićima (»Narodne novine« broj 61/09 i 141/09)29;
+- Sangria; Clarea i Zurra;
+- vinskom octu;
+- hrani za dojenčad i malu djecu uključujući i hranu za djecu sa zdravstvenim poteškoćama koja je definirana posebnim propisom o hrani za posebne prehrambene potrebe10
+- fermentiranom i nezrelom siru;
+- sladu i proizvodima od slada; i
+- maslacu od ovčjeg i kozjeg mlijeka
+- medu.
+(2) Kada se u hrani nađe bojilo koje se nalazi na listi dopuštenih bojila, a nema utjecaja na promjenu boje hrane, koristi se princip »carry overa«.
