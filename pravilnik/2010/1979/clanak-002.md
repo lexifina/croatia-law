@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Maloljetnik može, osim na poslovima na kojima se sukladno posebnom propisu ne smije zaposliti, raditi na drugim poslovima samo nakon prethodnog utvrđivanja zdravstvene sposobnosti za obavljanje tih poslova (u daljnjem tekstu: zdravstvena sposobnost).
+(2) Zdravstvena sposobnost iz stavka 1. ovoga članka utvrđuje se zdravstvenim pregledom prije početka rada te tijekom rada, najkasnije protekom godine dana rada maloljetnika, a i prije isteka toga roka kada to ocijeni izabrani doktor opće/obiteljske medicine ili nadležni specijalist medicine rada ili kada to zatraži maloljetnik, odnosno njegov zakonski zastupnik.

@@ -1,0 +1,9 @@
+# Članak 5.
+(1) Na ocjenu zdravstvene sposobnosti, maloljetnik odnosno poslodavac imaju pravo žalbe u pisanom obliku, u roku od petnaest dana od dana primitka svjedodžbe o zdravstvenoj sposobnosti maloljetnika. Žalba se podnosi povjerenstvu pri Hrvatskom zavodu za zaštitu zdravlja i sigurnost na radu (u daljnjem tekstu: Povjerenstvo), koje ravnatelj toga Zavoda imenuje za svaki pojedini slučaj podnošenja žalbe.
+(2) Povjerenstvo se sastoji od predsjednika i dva člana, doktora medicine specijalista medicine rada iz zdravstvene ustanove koja u svom sastavu ima djelatnost medicine rada ili privatne ordinacije medicine rada.
+(3) Svi doktori medicine specijalisti medicine rada, koji obavljaju djelatnost medicine rada, osim onih koji su sudjelovali u zdravstvenom pregledu maloljetnika u prvom stupnju, dužni su na poziv sudjelovati u radu Povjerenstva.
+(4) Povjerenstvo može donijeti ocjenu zdravstvene sposobnosti i bez ponovnog zdravstvenog pregleda maloljetnika, samo na osnovi priložene medicinske dokumentacije, a o žalbi iz stavka 1. ovoga članka, dužno je odlučiti u roku od trideset dana od dana primitka žalbe.
+(5) Povjerenstvu mora biti dostupna medicinska dokumentacija o prethodnim zdravstvenim pregledima maloljetnika, a po potrebi i medicinska dokumentacija od izabranog doktora opće/obiteljske medicine maloljetnika o čijoj se zdravstvenoj sposobnosti odlučuje.
+(6) Ako Povjerenstvo zatraži medicinsku dokumentaciju maloljetnika, nadležni doktor iz stavka 5. ovoga članka dužan je Povjerenstvu istu dostaviti najkasnije u roku od osam dana od dana primitka zahtjeva.
+(7) Ocjena zdravstvene sposobnosti Povjerenstva je konačna i dostavlja se pregledanom maloljetniku, poslodavcu i Hrvatskom zavodu za zaštitu zdravlja i sigurnost na radu.
+(8) Odluku o visini naknade za rad Povjerenstva donosi Upravno vijeće Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu.
