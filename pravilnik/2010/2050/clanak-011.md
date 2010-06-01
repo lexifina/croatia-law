@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Poslodavac je dužan na odgovarajući način voditi odgovarajuće podatke iz članka 8. ovoga Pravilnika i za:
+1) radnike koji su kao rukovodeće osoblje statutom, društvenim ugovorom, izjavom o osnivanju ili drugim pravilima poslodavca ovlašteni voditi poslove poslodavca i koji samostalno donose odluke o organizaciji rada i poslovanja poslodavca, te za radnike članove obitelji poslodavca fizičke osobe koji žive u zajedničkom kućanstvu s poslodavcem i koji u radnom odnosu obavljaju određene poslove za poslodavca ako s njima nije ugovorio samostalnost u određivanju radnog vremena, stanke te dnevnog i tjednog odmora,
+2) punoljetne radnike za koje je kolektivnim ugovorom uređena iznimka od primjene odredbi o dnevnom i tjednom odmoru uz osiguranje zamjenskog odmora u skladu s člankom 3. stavkom 5. Zakona o radu.
