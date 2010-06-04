@@ -1,0 +1,1 @@
+Na temelju članka 3. Uredbe o Uredu za središnju javnu nabavu Vlade Republike Hrvatske (»Narodne novine«, broj 138/2009), Vlada Republike Hrvatske je na sjednici održanoj 4. lipnja 2010. godine donijela
