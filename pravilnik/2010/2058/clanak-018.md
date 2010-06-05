@@ -1,0 +1,2 @@
+# Članak 18.
+Ako Vijeće utvrdi da pružatelj audio i audiovizualnih medijskih usluga više ne ispunjava uvjete za obavljanje djelatnosti propisane ovim Pravilnikom, odlukom će utvrditi primjereni rok u kojem je obvezan uskladiti obavljanje svoje djelatnosti s propisanim uvjetima. Ako pružatelj medijske usluge ne postupi prema odluci Vijeća u utvrđenom roku, Vijeće će donijeti odluku o privremenom ili trajnom oduzimanju koncesije ili dopuštenja.
