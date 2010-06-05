@@ -1,0 +1,5 @@
+## OVLAŠTENI UNOSITELJ PODATAKA I NOSITELJI RAZVOJNOG PROJEKTA
+# Članak 5.
+(1) Ovlašteni unositelji podataka (u daljnjem tekstu: OUP) jesu subjekti upisani u Upisnik ustrojstvenih jedinica lokalne i područne (regionalne) samouprave, agencija i drugih pravnih osoba osnovanih s ciljem učinkovite koordinacije i poticanja regionalnog razvoja, koji vodi Agencija za regionalni razvoj Republike Hrvatske, Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo) te druga ministarstva i njihova provedbena tijela (u daljnjem tekstu: Središnja tijela i njihove agencije)
+(2) Svaki OUP od Ministarstva dobiva svoj jedinstveni identifikacijski broj.
+(3) Nositelji razvojnih projekata, ovisno o vrsti projekta iz članka 2. stavka 2. ovog Pravilnika, jesu: jedinice lokalne samouprave, jedinice područne (regionalne) samouprave, županijske razvojne agencije, Ministarstvo ili Središnja tijela i njihove agencije, a za koje upis u Bazu obavljaju tijela navedena u stavku 1. ovog članka.
