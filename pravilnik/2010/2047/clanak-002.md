@@ -1,0 +1,7 @@
+# Članak 2.
+Članak 4. mijenja se i glasi:
+»Članak 4.
+1) Nosive konstrukcije, zidovi na granicama požarnih sektora, podovi i krovovi trebaju biti izgrađeni od građevnih proizvoda najmanje razreda otpornosti na požar REI 30, vrata na granici požarnih sektora, elementi pokrova, pregradni zidovi i vanjski ne nosivi zidovi moraju biti najmanje razreda otpornosti na požar EI 30 prema normama HRN EN 1365, 1364, 1634 ili normama skupine HRN DIN 4102.
+2) Prodori kroz zidove i stropove, obloge kanala, požarne zaklopke postavljene na granicama požarnih sektora moraju biti od građevnih proizvoda koji imaju istu otpornost na požar kao i konstruktivni elementi kroz koje prolaze prema normama skupine HRN EN 1366, ili normama skupine HRN DIN 4102, odnosno Naputku o postupku ispitivanja i o klasama otpornosti prema požaru zaklopki za zaštitu od požara u ventilacijskim i klimatizacijskim kanalima (»Narodne novine« broj 10/94.).
+3) Zidne i stropne obloge moraju biti izrađene od građevnih proizvoda razreda reakcije na požar A1 ili A2,-s1,d0 sukladno razredbi prema normi HRN EN 13501-1 ili klasama gorivosti A1 ili A2 prema normama skupine HRN DIN 4102.
+4) Završni sloj podne obloge mora biti od građevnih proizvoda razreda reakcije na požar A1fl, ili, A2fl-s1, odnosno A2fl -s2 sukladno razredbi prema normi HRN EN 13501-1. Iznimno, završni sloj podne obloge može biti od građevnih proizvoda razreda reakcije na požar Bfl-s1, Bfl-s2 ili Cfl-s1 sukladno razredbi prema normi HRN EN 13 501-1, ili u klasi B1 sukladno normama skupine HRN DIN 4102.«.

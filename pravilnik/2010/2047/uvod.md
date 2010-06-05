@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 8. Zakona o eksplozivnim tvarima (»Narodne novine«, broj: 178/04., 109/07. i 67/08.), ministar unutarnjih poslova, uz suglasnost ministrice zaštite okoliša, prostornog uređenja i graditeljstva, donosi
