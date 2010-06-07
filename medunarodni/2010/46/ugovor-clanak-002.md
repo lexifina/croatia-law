@@ -1,0 +1,3 @@
+# Članak 2.
+Korištenje iznosa iz članka 1., uvjete, pod kojim se on stavlja na raspolaganje, kao i postupak odobravanja pojedinačnih zajmova utvrđuju se ugovorom koji trebaju sklopiti Kreditna banka za obnovu i zajmoprimac, a koji podliježe pravnim propisima koji vrijede u Saveznoj Republici Njemačkoj. Iznos iz članka 1. stavka 1. neće biti odobren ukoliko se u roku od osam godina od godine odobrenja ne sklopi odgovarajući ugovor o zajmu. Rok za ovaj iznos istječe s 31. prosinca 2011. godine.
+Vlada Republike Hrvatske će, ukoliko sama nije zajmoprimac, Kreditnoj banci za obnovu jamčiti za eventualna potraživanja u svezi s povratom iznosa u eurima, a koja mogu nastati na temelju ugovora o zajmu koji se treba sklopiti prema stavku 1. ovog članka.
