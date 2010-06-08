@@ -1,0 +1,2 @@
+# Članak 5.
+Poslodavac koji iz opravdanih razloga ne može pravilnik i posebne pravilnike objaviti na način utvrđen člankom 4. ovoga Pravilnika dužan je, odmah po njihovom donošenju, obavijestiti radnike o donošenju pravilnika pisanom objavom na vidljivom mjestu u svojim prostorijama ili putem osobe koja rukovodi pojedinom skupinom radnika, te odrediti osobu ili osobe kod kojih radnici tijekom radnog vremena mogu iste dobiti na uvid, a može ih objaviti i preko interne računalne mreže.
