@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Način i metodologija prikupljanja podataka na točkama Razine 1 i plohama Razine 2 opisani su u Prilogu I. Poglavlje 2. do 12. ovoga Pravilnika i njegov su sastavni dio.
+(2) Za prikupljanje podataka na točkama Razine 1 i plohama Razine 2 na područjima koja su zaštićena temeljem posebnog propisa potrebno je ishoditi dopuštenje nadležnog tijela samo na onim zaštićenim područjima na kojima nisu dopuštene gospodarske djelatnosti sukladno posebnom propisu.
+(3) Da bi se uskladile aktivnosti iz članka 3. stavak 6. i članka 5. ovoga Pravilnika te osigurala usporedivost podataka, priručnici koji propisuju metodologiju i način prikupljanja podataka moraju specificirati obvezne i neobvezne parametre te utvrditi nadzorne metode i formate koji će se upotrijebiti za prijenos podataka. Priručnici se trebaju razvijati na osnovi postojećih sustava kad su sustavi dostupni i prikladni.

@@ -1,0 +1,8 @@
+## X. PROVJERE, REVIZIJE I STRUČNI POSJETI
+# Članak 48.
+(1) Europska komisija može provjeriti na koji se način financijskim doprinosom Europske unije koriste nadležno tijelo, Nacionalni centar ili podizvođači odgovorni za provedbu mjera koje se provode u okviru Nacionalnog programa.
+(2) Europska komisija ili bilo koji predstavnik kojega ona ovlasti može obaviti reviziju nadležnog tijela, Nacionalnog centra ili podizvođača, odgovornih za potpunu provedbu mjera koje se provode u okviru Nacionalnog programa, u bilo kojem trenutku tijekom trajanja ugovora i do pet godina nakon posljednjih uplata financijskog doprinosa Europske unije za Nacionalni program.
+(3) Europska komisija ili bilo koji ovlašteni predstavnik treba imati pristup dokumentaciji potrebnoj za utvrđivanje prihvatljivosti troškova sudionika Nacionalnog programa, kao što su na primjer računi ili izvaci iz platnih lista.
+(4) Revizija se provodi na povjerljivoj osnovi. Europska komisija mora poduzeti odgovarajuće mjere kako bi osigurala da njezin ovlašteni predstavnik s podacima do kojih ima pristup ili koji su mu osigurani postupa kao s povjerljivima.
+(5) Izvješće o nalazima revizije šalje se nadležnom tijelu, Nacionalnom centru i podizvođačima. Oni svoje primjedbe mogu priopćiti Europskoj komisiji u roku od jednog mjeseca nakon njegova primitka. Europska komisija može odlučiti da primjedbe predane nakon roka ne uzme u obzir.
+(6) Na temelju zaključaka revizije, Europska komisija poduzima odgovarajuće mjere koje smatra potrebnima, uključujući izdavanje naloga za povrat sredstava koji se odnosi na cjelokupan iznos njezinih isplata ili na njihov dio.
