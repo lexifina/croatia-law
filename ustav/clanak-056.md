@@ -1,3 +1,5 @@
 # Članak 56.
-Pravo zaposlenih i članova njihovih obitelji na socijalnu sigurnost i socijalno osiguranje uređuje se zakonom i kolektivnim ugovorom.
-Prava u svezi s porođajem, materinstvom i njegom djece uređuju se zakonom.
+Svaki zaposleni ima pravo na zaradu kojom može osigurati sebi i obitelji slobodan i dostojan život.
+Najduže radno vrijeme određuje se zakonom.
+Svaki zaposleni ima pravo na tjedni odmor i plaćeni godišnji odmor i ovih se prava ne može odreći.
+Zaposleni mogu imati, u skladu sa zakonom, udjela pri odlučivanju u poduzeću.

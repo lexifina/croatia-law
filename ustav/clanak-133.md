@@ -1,5 +1,6 @@
+## VI. MJESNA, LOKALNA I PODRUČNA (REGIONALNA) SAMOUPRAVA
 # Članak 133.
-Jedinice lokalne samouprave su općine i gradovi i njihovo područje određuje se na način propisan zakonom. Zakonom se mogu ustanoviti i druge jedinice lokalne samouprave.
-Jedinice područne (regionalne) samouprave su županije. Područje županije određuje se na način propisan zakonom.
-Zakonom se može glavnom gradu Zagrebu utvrditi položaj županije. Većim gradovima u Republici Hrvatskoj zakonom se mogu dati ovlasti županije.
-U naselju ili dijelu naselja mogu se, u skladu sa zakonom, osnivati oblici mjesne samouprave.
+Građanima se jamči pravo na lokalnu i područnu (regionalnu) samoupravu.
+Pravo na samoupravu ostvaruje se preko lokalnih, odnosno područnih (regionalnih) predstavničkih tijela koja su sastavljena od članova izabranih na slobodnim i tajnim izborima na temelju neposrednog, jednakog i općega biračkog prava.
+Građani mogu neposredno sudjelovati u upravljanju lokalnim poslovima, putem zborova, referenduma i drugih oblika neposrednog odlučivanja u skladu sa zakonom i statutom.
+Prava iz ovoga članka u Republici Hrvatskoj ostvaruju i građani Europske unije, u skladu sa zakonom i pravnom stečevinom Europske unije.

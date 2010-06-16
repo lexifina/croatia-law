@@ -1,4 +1,3 @@
 # Članak 57.
-Slabim, nemoćnima i drugim, zbog nezaposlenosti ili nesposobnosti za rad, nezbrinutim osobama država osigurava pravo na pomoć za podmirenje osnovnih životnih potreba.
-Posebnu skrb država posvećuje zaštiti invalidnih osoba i njihovu uključivanju u društveni život.
-Ne može se zabraniti primanje humanitarne pomoći iz inozemstva.
+Pravo zaposlenih i članova njihovih obitelji na socijalnu sigurnost i socijalno osiguranje uređuje se zakonom i kolektivnim ugovorom.
+Prava u svezi s porođajem, materinstvom i njegom djece uređuju se zakonom.

@@ -1,2 +1,3 @@
 # Članak 111.
-Ako Vlada ne bude sastavljena u skladu s člankom 109. i 110. Ustava, Predsjednik Republike će imenovati privremenu nestranačku Vladu i istodobno raspisati prijevremene izbore za Hrvatski sabor.
+Ako mandatar ne sastavi Vladu u roku od 30 dana od dana prihvaćanja mandata, Predsjednik Republike mu može produžiti mandat za najviše još 30 dana.
+Ako ni u tom roku mandatar ne uspije sastaviti Vladu ili ako predložena Vlada ne dobije povjerenje Hrvatskoga sabora, Predsjednik Republike povjerit će mandat za sastav Vlade drugoj osobi.

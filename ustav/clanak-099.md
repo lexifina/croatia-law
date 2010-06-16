@@ -1,5 +1,5 @@
 # Članak 99.
-Predsjednik Republike vrhovni je zapovjednik oružanih snaga Republike Hrvatske.
-Predsjednik Republike imenuje i razrješuje vojne zapovjednike, u skladu sa zakonom.
-Na temelju odluke Hrvatskoga sabora Predsjednik Republike objavljuje rat i zaključuje mir.
-U slučaju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti države Predsjednik Republike može, uz supotpis predsjednika Vlade, narediti uporabu oružanih snaga iako nije proglašeno ratno stanje.
+Predsjednik Republike i Vlada Republike Hrvatske surađuju u oblikovanju i provođenju vanjske politike.
+Predsjednik Republike, na prijedlog Vlade i uz supotpis predsjednika Vlade, odlučuje o osnivanju diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu.
+Predsjednik Republike, na prijedlog Vlade i uz mišljenje nadležnog odbora Hrvatskoga sabora, donosi odluku o postavljanju i opozivu šefova diplomatskih misija Republike Hrvatske u inozemstvu, uz prethodni supotpis predsjednika Vlade Republike Hrvatske.
+Predsjednik Republike prima vjerodajnice i opozivna pisma inozemnih šefova diplomatskih misija.

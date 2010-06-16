@@ -1,4 +1,5 @@
+## 4. SUDBENA VLAST
 # Članak 118.
-Vrhovni sud Republike Hrvatske, kao najviši sud, osigurava jedinstvenu primjenu zakona i ravnopravnost građana.
-Predsjednika Vrhovnog suda Republike Hrvatske, uz prethodno mišljenje Opće sjednice Vrhovnog suda Republike Hrvatske i nadležnog odbora Hrvatskoga sabora, na prijedlog Predsjednika Republike bira i razrješuje Hrvatski sabor. Predsjednik Vrhovnog suda Republike Hrvatske bira se na četiri godine.
-Ustanovljavanje, djelokrug, sastav i ustrojstvo sudova te postupak pred sudovima uređuje se zakonom.
+Sudbenu vlast obavljaju sudovi.
+Sudbena vlast je samostalna i neovisna.
+Sudovi sude na temelju Ustava, zakona, međunarodnih ugovora i drugih važećih izvora prava.

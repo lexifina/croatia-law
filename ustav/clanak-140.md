@@ -1,2 +1,5 @@
 # Članak 140.
-Međunarodni ugovori koji su sklopljeni i potvrđeni u skladu s Ustavom i objavljeni, a koji su na snazi, čine dio unutarnjega pravnog poretka Republike Hrvatske, a po pravnoj su snazi iznad zakona. Njihove se odredbe mogu mijenjati ili ukidati samo uz uvjete i na način koji su u njima utvrđeni, ili suglasno općim pravilima međunarodnog prava.
+Hrvatski sabor potvrđuje međunarodne ugovore koji traže donošenje ili izmjenu zakona, međunarodne ugovore vojne i političke naravi i međunarodne ugovore koji financijski obvezuju Republiku Hrvatsku.
+Međunarodne ugovore kojima se međunarodnoj organizaciji ili savezu daju ovlasti izvedene iz Ustava Republike Hrvatske Hrvatski sabor potvrđuje dvotrećinskom većinom glasova svih zastupnika.
+Predsjednik Republike potpisuje isprave o ratifikaciji, pristupu, odobrenju ili prihvatu međunarodnih ugovora koje je Hrvatski sabor potvrdio na temelju stavka 1. i 2. ovoga članka.
+Međunarodne ugovore koji ne podliježu potvrđivanju Hrvatskoga sabora sklapa Predsjednik Republike na prijedlog Vlade ili Vlada Republike Hrvatske.

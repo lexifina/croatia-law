@@ -1,2 +1,3 @@
 # Članak 62.
-Država štiti materinstvo, djecu i mladež te stvara socijalne, kulturne, odgojne, materijalne i druge uvjete kojima se promiče ostvarivanje prava na dostojan život.
+Obitelj je pod osobitom zaštitom države.
+Brak i pravni odnosi u braku, izvanbračnoj zajednici i obitelji uređuju se zakonom.

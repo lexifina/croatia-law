@@ -1,3 +1,4 @@
 # Članak 119.
-Sudske su rasprave javne i presude se izriču javno, u ime Republike Hrvatske.
-Javnost se može isključiti iz cijele rasprave ili njezina dijela zbog razloga koji su nužni u demokratskom društvu radi interesa morala, javnog reda ili državne sigurnosti, posebno ako se sudi maloljetnicima, ili radi zaštite privatnog života stranaka, ili u bračnim sporovima i postupcima u svezi sa skrbništvom i posvojenjem, ili radi čuvanja vojne, službene ili poslovne tajne i zaštite sigurnosti i obrane Republike Hrvatske, ali samo u opsegu koji je po mišljenju suda bezuvjetno potreban u posebnim okolnostima u kojima bi javnost mogla biti štetna za interese pravde.
+Vrhovni sud Republike Hrvatske, kao najviši sud, osigurava jedinstvenu primjenu prava i ravnopravnost svih u njegovoj primjeni.
+Predsjednika Vrhovnog suda Republike Hrvatske, uz prethodno mišljenje Opće sjednice Vrhovnog suda Republike Hrvatske i nadležnog odbora Hrvatskoga sabora, na prijedlog Predsjednika Republike bira i razrješuje Hrvatski sabor. Predsjednik Vrhovnog suda Republike Hrvatske bira se na četiri godine.
+Ustanovljavanje, djelokrug, sastav i ustrojstvo sudova te postupak pred sudovima uređuje se zakonom.

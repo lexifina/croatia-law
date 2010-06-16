@@ -1,2 +1,3 @@
+## IX. PROMJENA USTAVA
 # Članak 147.
-Hrvatski sabor donijet će Ustavni zakon za provedbu Ustava Republike Hrvatske.
+Pravo da predloži promjenu Ustava Republike Hrvatske ima najmanje jedna petina zastupnika u Hrvatskom saboru, Predsjednik Republike i Vlada Republike Hrvatske.

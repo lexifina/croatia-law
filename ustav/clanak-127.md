@@ -1,2 +1,3 @@
 # Članak 127.
-Sudac Ustavnog suda Republike Hrvatske može biti razriješen dužnosti prije isteka vremena na koje je izabran ako zatraži da bude razriješen, ako bude osuđen na zatvorsku kaznu, ili ako trajno, što utvrđuje sam Sud, izgubi sposobnost da obavlja svoju dužnost.
+Suci Ustavnog suda Republike Hrvatske ne mogu obavljati nijednu drugu javnu ni profesionalnu dužnost.
+Suci Ustavnog suda Republike Hrvatske imaju imunitet kao i zastupnici u Hrvatskom saboru.

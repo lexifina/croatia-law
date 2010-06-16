@@ -1,2 +1,3 @@
 # Članak 66.
-Uz uvjete propisane zakonom mogu se osnivati privatne škole i učilišta.
+Obrazovanje je u Republici Hrvatskoj svakomu dostupno, pod jednakim uvjetima, u skladu s njegovim sposobnostima.
+Obvezno obrazovanje je besplatno u skladu sa zakonom.

@@ -1,3 +1,3 @@
-## 3. Vlada Republike Hrvatske
 # Članak 107.
-Vlada Republike Hrvatske obavlja izvršnu vlast u skladu s Ustavom i zakonom.
+Predsjedniku Republike u obavljanju njegovih dužnosti pomažu savjetodavna tijela. Članove tih tijela imenuje i razrješuje Predsjednik Republike. Nisu dopuštena imenovanja koja su u suprotnosti s načelom diobe vlasti.
+Savjetodavni, stručni i drugi poslovi obavljaju se u Uredu Predsjednika Republike. Ustrojstvo i djelokrug Ureda uređuje Predsjednik Republike svojom odlukom. Ured Predsjednika Republike i stručne službe Vlade Republike Hrvatske surađuju u obavljanju poslova od zajedničkog interesa. Sredstva za rad Ureda Predsjednika Republike osiguravaju se u okviru državnog proračuna Republike Hrvatske.

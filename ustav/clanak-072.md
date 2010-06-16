@@ -1,3 +1,2 @@
 # Članak 72.
-Zastupnici se u Hrvatski sabor biraju na vrijeme od četiri godine.
-Zakonom se određuje broj, uvjeti i postupak izbora zastupnika u Hrvatski sabor.
+Hrvatski sabor ima najmanje 100, a najviše 160 zastupnika koji se, na temelju općeg i jednakoga biračkog prava, biraju neposredno tajnim glasovanjem.

@@ -1,2 +1,2 @@
 # Članak 136.
-U obavljanju poslova iz svojeg djelokruga tijela jedinica lokalne i područne (regionalne) samouprave samostalna su i podliježu samo nadzoru ustavnosti i zakonitosti ovlaštenih državnih tijela.
+Jedinice lokalne i područne (regionalne) samouprave imaju pravo u okviru zakona, svojim statutima samostalno urediti unutarnje ustrojstvo i djelokrug svojih tijela te ih prilagoditi lokalnim potrebama i mogućnostima.

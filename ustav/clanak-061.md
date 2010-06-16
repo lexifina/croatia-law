@@ -1,3 +1,3 @@
 # Članak 61.
-Obitelj je pod osobitom zaštitom države.
-Brak i pravni odnosi u braku, izvanbračnoj zajednici i obitelji uređuju se zakonom.
+Jamči se pravo na štrajk.
+U oružanim snagama, redarstvu, državnoj upravi i javnim službama određenima zakonom može se ograničiti pravo na štrajk.

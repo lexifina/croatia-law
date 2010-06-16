@@ -1,5 +1,4 @@
-## VI. MJESNA, LOKALNA I PODRUČNA (REGIONALNA) SAMOUPRAVA
 # Članak 132.
-Građanima se jamči pravo na lokalnu i područnu (regionalnu) samoupravu.
-Pravo na samoupravu ostvaruje se preko lokalnih, odnosno područnih (regionalnih) predstavničkih tijela koja su sastavljena od članova izabranih na slobodnim i tajnim izborima na temelju neposrednog, jednakog i općega biračkog prava.
-Građani mogu neposredno sudjelovati u upravljanju lokalnim poslovima, putem zborova, referenduma i drugih oblika neposrednog odlučivanja u skladu sa zakonom i statutom.
+Postupak i uvjeti za izbor sudaca Ustavnog suda Republike Hrvatske i prestanak njihove dužnosti, uvjeti i rokovi za pokretanje postupka ocjene ustavnosti i zakonitosti, postupak i pravno djelovanje njegovih odluka, zaštita ljudskih prava i temeljnih sloboda zajamčenih Ustavom i druga pitanja važna za izvršavanje dužnosti i rad Ustavnog suda Republike Hrvatske uređuju se ustavnim zakonom.
+Ustavni zakon donosi se po postupku određenom za promjenu Ustava.
+Unutarnje ustrojstvo Ustavnog suda Republike Hrvatske uređuje se njegovim poslovnikom.

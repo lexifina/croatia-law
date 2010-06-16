@@ -1,2 +1,4 @@
+## IV. USTROJSTVO DRŽAVNE VLASTI
+## 1. HRVATSKI SABOR
 # Članak 71.
-Hrvatski sabor ima najmanje 100, a najviše 160 zastupnika koji se, na temelju općeg i jednakoga biračkog prava, biraju neposredno tajnim glasovanjem.
+Hrvatski sabor je predstavničko tijelo građana i nositelj zakonodavne vlasti u Republici Hrvatskoj.

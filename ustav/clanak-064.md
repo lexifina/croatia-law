@@ -1,4 +1,6 @@
 # Članak 64.
-Dužnost je svih da štite djecu i nemoćne osobe.
-Djeca ne mogu biti primljena na rad prije zakonom određene dobi niti smiju biti prisiljavana na rad koji štetno utječe na njihovo zdravlje ili ćudoređe, niti im se takav rad smije dopustiti.
-Mladež, majke i invalidne osobe imaju pravo na osobitu zaštitu na radu.
+Roditelji su dužni odgajati, uzdržavati i školovati djecu te imaju pravo i slobodu da samostalno odlučuju o odgoju djece.
+Roditelji su odgovorni osigurati pravo djetetu na potpun i skladan razvoj njegove osobnosti.
+Tjelesno i duševno oštećeno i socijalno zapušteno dijete ima pravo na osobitu njegu, obrazovanje i skrb.
+Djeca su dužna brinuti se za stare i nemoćne roditelje.
+Država osobitu skrb posvećuje maloljetnicima bez roditelja i onima za koje se ne brinu roditelji.

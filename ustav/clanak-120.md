@@ -1,2 +1,3 @@
 # Članak 120.
-U suđenju sudjeluju i suci porotnici, u skladu sa zakonom.
+Sudske su rasprave javne i presude se izriču javno, u ime Republike Hrvatske.
+Javnost se može isključiti iz cijele rasprave ili njezina dijela zbog razloga koji su nužni u demokratskom društvu radi interesa morala, javnog reda ili državne sigurnosti, posebno ako se sudi maloljetnicima, ili radi zaštite privatnog života stranaka, ili u bračnim sporovima i postupcima u svezi sa skrbništvom i posvojenjem, ili radi čuvanja vojne, službene ili poslovne tajne i zaštite sigurnosti i obrane Republike Hrvatske, ali samo u opsegu koji je po mišljenju suda bezuvjetno potreban u posebnim okolnostima u kojima bi javnost mogla biti štetna za interese pravde.
