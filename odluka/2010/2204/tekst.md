@@ -1,0 +1,12 @@
+1. Hrvatska narodna banka u suradnji s Hrvatskim novčarskim zavodom d.o.o. iz Zagreba izdaje prigodni srebrni kovani novac u povodu 100 godina od prvog leta avionom u Hrvatskoj. Dragutin Novak (1892. - 1978.) poletio je u Zagrebu 22. i 23. lipnja 1910. avionom na motorni pogon, što je bio prvi let avionom u Hrvatskoj.
+2. Prigodni srebrni kovani novac iz točke 1. ove Odluke izdaje se u apoenu od 150 kuna, u količini ne većoj od 5000 komada i u ukupnom iznosu ne većem od 750.000,00 kuna.
+3. Prigodni srebrni kovani novac iz točke 2. ove Odluke bit će izrađen od srebra stupnja čistoće 925/1000, u specijalnoj tehnici kovanja kojom se postiže kakvoća polirane ploče, s visokosjajnim ravnim površinama i matiranim reljefnim detaljima prigodnih motiva. Srebrni kovani novac imat će masu od 24 grama i promjer od 37 milimetara.
+4. Prigodni srebrni kovani novac od 150 kuna s lica izgleda ovako: u središnjem dijelu prikaz je poprsja prvog hrvatskog pilota Dragutina Novaka, u pilotskoj odori. Kružno uz gornji rub ispisan je tekst »PRVI LET AVIONOM U HRVATSKOJ 1910.«. U gornjoj polovini plohe, između poprsja i kružnog natpisa, ispisan je tekst ''Dragutin Novak''.
+5. Prigodni srebrni kovani novac od 150 kuna s naličja izgleda ovako: u središnjem dijelu prikazan je avion konstruktora Slavoljuba Penkale kojim je 1910. ostvaren prvi let u Hrvatskoj. Kružno uz gornji rub ispisan je tekst »REPUBLIKA HRVATSKA«. U ravnini središnje osi plohe, uz desni rub, ispisana je godina izdanja »2010.«. Ispod teksta prikaz je grba Republike Hrvatske. Uz donji rub u središnjem dijelu nalaze se oznaka nominalne vrijednosti »150« i naziv novčane jedinice »KUNA«.
+6. Obod je prigodnoga srebrnoga kovanog novca od 150 kuna gladak i ima utisnute tehničke podatke »Ag 925/1000 24 g ø 37 mm PP HNZ«.
+7. Autor je idejnoga i likovnog rješenja za lice prigodnoga srebrnoga kovanog novca od 150 kuna Matej Pašalić, a autor idejnoga likovnog rješenja za naličje Stjepan Divković, obojica akademski kipari.
+8. Prigodni srebrni kovani novac iz točke 2. ove Odluke prodavat će se u Republici Hrvatskoj po cijeni od 220,00 kuna za komad, uvećanoj za PDV.
+9. Prodaju prigodnoga srebrnoga kovanog novca iz točke 2. ove Odluke obavljat će Hrvatski novčarski zavod d.o.o. iz Zagreba.
+10. Prigodni srebrni kovani novac iz točke 2. ove Odluke pustit će se u prodaju 5. srpnja 2010.
+11. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 747/2010.
