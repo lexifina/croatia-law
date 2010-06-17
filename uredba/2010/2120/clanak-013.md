@@ -1,0 +1,10 @@
+## Referentno razdoblje
+# Članak 13.
+(1) Godišnji maksimalni iznos potpore za operativne programe iz članka 15. stavaka 2. i 3. ove Uredbe izračunava se svake godine na osnovi vrijednosti utržene proizvodnje tijekom 12-mjesečnog referentnog razdoblja, u skladu sa stavkom 2. ovoga članka.
+(2) Referentno razdoblje utvrđuje se za svaku proizvođačku organizaciju kao 12-mjesečno razdoblje, koje počinje najranije 1. siječnja tri godine prije godine u kojoj se provodi operativni program i završava najkasnije 1. kolovoza prije godine u kojoj se provodi operativni program.
+(3) Računovodstveno razdoblje proizvođačke organizacije predstavlja 12-mjesečno razdoblje.
+(4) Ako je iz opravdanih razloga došlo do smanjenja vrijednosti proizvoda proizvođačke organizacije zbog razloga koji su izvan utjecaja proizvođačke organizacije, vrijednost utržene proizvodnje iz stavka 1. ovoga članka ne smije biti manja od 65% vrijednosti toga proizvoda u prethodnom referentnom razdoblju.
+(5) Opravdanim razlogom iz stavka 4. ovoga članka smatra se šteta od elementarne nepogode u skladu sa Zakonom o zaštiti od elementarnih nepogoda (»Narodne novine«, broj 73/97).
+(6) Ako proizvođačke organizacije nemaju povijesne podatke o utrženoj proizvodnji, za primjenu stavka 2. ovoga članka, kao vrijednost utržene proizvodnje može se uzeti u obzir vrijednost utržive proizvodnje koju je proizvođačka organizacija dostavila u svrhu priznavanja. U tom slučaju se vrijednost utržene proizvodnje izračunava kao prosječna vrijednost onih triju godina u kojima su proizvođači, koji su članovi proizvođačke organizacije, u vrijeme kada se podnosio zahtjev za priznavanje proizvođačke organizacije, stvarno i proizvodili.
+(7) Agencija za plaćanja prikupit će informacije o vrijednosti utržene proizvodnje proizvođačke organizacije koja nije podnijela operativni program.
+(8) Iznimno od odredaba stavaka 1. i 7. ovoga članka, vrijednost utržene proizvodnje za referentno razdoblje bit će izračunata u skladu sa zakonodavstvom primjenjivim u ovom referentnom razdoblju.

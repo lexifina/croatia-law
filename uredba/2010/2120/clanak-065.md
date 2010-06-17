@@ -1,0 +1,17 @@
+# Članak 65.
+(1) U okviru kontrola navedenih u članku 62. ove Uredbe, Agencija za plaćanja obavlja dodatne kontrole povlačenja proizvoda s tržišta.
+(2) Agencija za plaćanja utvrđuje kriterije za analiziranje i procjenu rizika svake proizvođačke organizacije čiji postupci povlačenja su neusklađeni. Takvi se kriteriji odnose, između ostaloga, na nalaze prethodnih kontrola iz članka 64. stavka 3. ove Uredbe i stavka 3. ovoga članka, te na činjenicu ima li proizvođačka organizacija neki oblik postupka osiguranja kvalitete ili nema. Agencija za plaćanja koristit će ove kriterije da bi utvrdila minimalnu učestalost dodatnih kontrola za svaku proizvođačku organizaciju.
+(3) Kontrole navedene u stavku 1. ovoga članka obuhvaćaju kontrole na terenu u prostorima proizvođačkih organizacija i primatelja povučenih proizvoda, kako bi se osigurala sukladnost s nužnim uvjetima za plaćanje javne potpore. Kontrole uključuju:
+(a) posebnu evidenciju zaliha i računovodstvenu evidenciju koju trebaju voditi sve proizvođačke organizacije koje obavljaju jedan ili više postupaka povlačenja tijekom dotične tržišne godine;
+(b) kontrolu količina prodanih na tržištu koje su deklarirane u zahtjevima za dodjelu potpore, kontrolirajući posebice evidenciju zaliha i računovodstvenu evidenciju, račune i, ako je potrebno, njihovu vjerodostojnost te provjeru da li se izjave slažu s računovodstvenim i/ili poreznim podatcima dotičnih proizvođačkih organizacija;
+(c) kontrole ispravnosti računa, posebice vjerodostojnost primljenih neto iznosa od strane proizvođačkih organizacija u usporedbi s onim što je prijavljeno u njihovim zahtjevima za dodjelu potpore, razmjernost svakog troška povlačenja, stavke u računima vezane za primitak javne potpore od strane proizvođačkih organizacija i svaki njezin iznos isplaćen članovima, radi osiguranja da se oni slažu;
+(d) kontrole odredišta povučenih proizvoda u usporedbi s onim što je prijavljeno u zahtjevu za dodjelu potpore, te kontrole odgovarajuće promjene prirodnih svojstava kako bi se osiguralo da su proizvođačke organizacije i primatelji udovoljili ovoj Uredbi.
+(4) Kontrole navedene u stavku 3. ovoga članka obavit će se u proizvođačkim organizacijama i primateljima udruženima s ovim organizacijama. Svaka kontrola uključuje uzorak koji predstavlja najmanje 5% količina povučenih tijekom tržne godine od strane proizvođačke organizacije.
+(5) Evidencija zaliha i računovodstvena evidencija navedene u stavku 3. podstavku (a) ovoga članka treba pokazati za svaki povučeni proizvod kretanje iznosa, izraženih u količini:
+(a) proizvodnje dostavljene od strane članova proizvođačke organizacije i članova drugih proizvođačkih organizacija,
+(b) prodaje od strane proizvođačke organizacije, raščlanjene po proizvodima pripremljenim za tržište svježim proizvodima i druge tipove proizvoda uključujući i sirove materijale za preradu;
+(c) proizvoda povučenih s tržišta.
+(6) Kontrole odredišta proizvoda navedenih u stavku 5. podstavku (c) ovoga članka uključuju, napose:
+(a) kontrolu uzorka na posebnim računima koje trebaju voditi primatelji i, ako je potrebno, kontrolu da se računi slažu s nacionalnim propisima;
+(b) provjere sukladnosti s odgovarajućim zahtjevima za zaštitu okoliša.
+(7) Ako kontrole iz stavka 3. ovoga članka otkriju značajne nepravilnosti, Agencija za plaćanja obavit će detaljnije kontrole u skladu s ovim člankom za tu tržišnu godinu i povećat će učestalost kontrola proizvođačkih organizacija ili njihovih udruženja tijekom sljedeće tržišne godine.

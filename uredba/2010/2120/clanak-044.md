@@ -1,0 +1,5 @@
+## Potpora za povlačenje s tržišta
+# Članak 44.
+(1) Potpora koja sadrži doprinos Europske unije i doprinos proizvođačke organizacije za povlačenje s tržišta ne smije biti veća od iznosa utvrđenih u Dodatku III. koji je sastavni dio ove Uredbe, za proizvode navedene u tom Dodatku. Za druge proizvode Agencija za plaćanja uz prethodnu suglasnost Ministarstva utvrđuje maksimalne iznose potpore.
+(2) Povlačenja s tržišta ne smiju prijeći 5% obujma utržene proizvodnje bilo kojeg proizvoda bilo koje proizvođačke organizacije. Iznimno, iznosi raspoloživi na jedan od načina iz članka 15. stavka 5. ove Uredbe ili bilo koji drugi način odobren od Ministarstva u skladu s člankom 45. stavkom 3. ove Uredbe, neće se računati u obujam utržene proizvodnje.
+(3) Obujam utržene proizvodnje izračunava se kao prosjek obujma utržene proizvodnje u prethodne tri godine. Ako ova informacija nije na raspolaganju, koristi se obujam utržene proizvodnje za koju je proizvođačka organizacija priznata. Postotci navedeni u stavku 2. ovoga članka godišnji su prosjeci tijekom razdoblja od tri godine s 3% godišnjom granicom dozvoljenih prekoračenja.
