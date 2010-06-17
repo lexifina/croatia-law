@@ -1,0 +1,2 @@
+# Članak 3.
+Radnici koji upravljaju i rukuju energetskim postrojenjima, odnosno energetskim strojevima i uređajima, za koje ovim Pravilnikom nije propisana stručna osposobljenost i provjera znanja, mogu obavljati te poslove i radne zadatke nakon što prouče tehničke upute za pravilan i siguran pogon, tehničke propise i upute za učinkovito korištenje energije te obavljene interne provjere znanja (interni ispit).

@@ -1,0 +1,5 @@
+## VOĐA SMJENE HIDROELEKTRANE, VOĐA BLOKA TERMOELEKTRANE, VODEĆI OPERATER I OPERATER U KOMANDI LANCA HIDROELEKTRANA
+# Članak 9.
+Poslove i radne zadatke vođe smjene hidroelektrane, vođe bloka termoelektrane, vodećeg operatera i operatera u komandi lanca hidroelektrana može obavljati:
+1. radnik s visokom stručnom spremom, prvostupnik (baccalaureus) inženjer - dodiplomski studij u trajanju tri (četiri) godine (VI. stupanj obrazovanja) elektrotehničkog ili strojarskog usmjerenja s najmanje dvije godine radnog iskustva na poslovima u vezi s proizvodnjom, prijenosom ili distribucijom električne energije, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku, ili
+2. radnik sa srednjom stručnom spremom - (IV. stupanj obrazovanja) četverogodišnji nastavni program, srednja tehnička škola strojarskog ili elektrotehničkog usmjerenja s najmanje pet godina radnog iskustva u struci, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku.

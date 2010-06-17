@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom se zbog zadovoljavanja uvjeta za sigurnost i kvalitetu opskrbe i korištenja energije, propisuju stručna sprema i radno iskustvo, potrebno za radnike koji obavljaju poslove upravljanja i rukovanja energetskim postrojenjima, te program stručnog osposobljavanja i provjere znanja, koje moraju obaviti u svezi sa sigurnim i učinkovitim upravljanjem i rukovanjem energetskim postrojenjima, s ciljem ispravnosti rada energetskih objekata i postrojenja, kao i osiguravanja sigurnosti energetskih pogona, te omogućavanja njihovog održavanja te pregleda i ispitivanja.

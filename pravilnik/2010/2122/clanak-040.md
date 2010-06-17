@@ -1,0 +1,3 @@
+# Članak 40.
+Provjere znanja - Stručni ispiti koji su propisani ovim Pravilnikom obavljaju se u redovitim i izvanrednim rokovima. Redoviti rokovi određuju se za svaku godinu i obavljaju se prema godišnjem rasporedu osim od 15. srpnja do 31. kolovoza i od 15. prosinca do 15. siječnja.
+Po potrebi i želji poslodavaca, koji imaju radnike koji obavljaju poslove na energetskim strojevima i uređajima, za koje je ovim Pravilnikom određeno stručno osposobljavanje i polaganje stručnog ispita, predsjednik Ispitne komisije može odrediti i izvanredni rok za Stručni ispit, koji se može obaviti u sjedištu Ispitne komisije ili izvan sjedišta Ispitne komisije. Troškove izvanredne provjere znanja snosi kandidat ili poslodavac koji je zatražio tu provjeru znanja.

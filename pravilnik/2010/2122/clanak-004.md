@@ -1,0 +1,26 @@
+## II. RADNA MJESTA I POSLOVI NA TIM RADNIM MJESTIMA
+# Članak 4.
+Radnici koji obavljaju poslove upravljanja i rukovanja energetskim postrojenjima za koje se ovim Pravilnikom propisuje stručna sprema, stručna osposobljenost i provjera znanja jesu:
+1. strojar male elektrane,
+2. strojar parnih turbina,
+3. strojar plinskih turbina,
+4. strojar hidroturbina,
+5. vođa smjene hidroelektrane, vođa bloka termoelektrane, vodeći operater i operater u komandi lanca hidroelektrana,
+6. voditelj pogona obnovljivih izvora,
+7. strojar kogeneracijskog postrojenja,
+8. strojar kotlovskog postrojenja,
+9. strojar kotla,
+10. rukovatelj industrijske peći,
+11. rukovatelj motora s unutarnjim izgaranjem,
+12. strojar kompresorske stanice,
+13. strojar crpne stanice,
+14. rukovatelj plinskim uređajima i napravama,
+15. rukovatelj klimatizacije i prozračivanja,
+16. rukovatelj centralnog grijanja i termoventilacije,
+17. ložač centralnog grijanja,
+18. rukovatelj pripremom vode,
+19. ložač - rukovatelj kotlom,
+20. rukovatelj posudama tehničkih plinova,
+21. dispečer u elektroenergetskom sustavu,
+22. uklopničar u elektroenergetskom sustavu,
+23. uklopničar u industriji.
