@@ -1,0 +1,13 @@
+O DAVANJU SUGLASNOSTI ZA PRIJENOS PRAVA I OBVEZA KORISNIKA KONCESIJE USTANOVE ZA ZDRAVSTVENU NJEGU I REHABILITACIJU U KUĆI, VARAŽDIN ZA CRPLJENJE TERMALNE VODE NA DRUŠTVO TERME JEZERČICA d.o.o., VARAŽDIN - PODRUŽNICA JEZERČICA ZA TURIZAM I UGOSTITELJSTVO, DONJA STUBICA
+I.
+Temeljem Odluke Vlade Republike Hrvatske o dodjeli koncesije za crpljenje termalne vode za potrebe zdravstvene rehabilitacije invalidnih osoba Ustanovi za zdravstvenu njegu i rehabilitaciju u kući, Varaždin (»Narodne novine«, broj 5/2000), Ustanova je stekla pravo crpljenja termalne vode u svrhu zdravstvene rehabilitacije invalidnih osoba, u ukupnoj količini od najviše 5,0 l/sec, odnosno najviše 50.000 m3/godišnje, iz izvora-bunara na k.č.br. 313/1-9, k.o. Andraševac u Donjoj Stubici, na vremensko razdoblje od 30 (trideset) godina od dana sklapanja Ugovora o koncesiji, odnosno do 20. siječnja 2030. godine.
+II.
+Ovom Odlukom utvrđuje se da se izvor-bunar, iz kojeg se crpi voda na temelju Odluke iz točke I. ove Odluke, u naravi nalazi na k.č.br. 313/3., k.o. Donja Stubica, kako je to utvrđeno stručnim mišljenjem Hrvatskih voda, klase: 325-03/99-02/0000020, urbroja: 374-21-3-10-13, od 9. lipnja 2010. godine.
+Daje se suglasnost za prijenos svih prava i obveza u cijelosti, sa Korisnika koncesije Ustanove za zdravstvenu njegu i rehabilitaciju u kući, Varaždin, iz točke I. ove Odluke, na društvo Terme Jezerčica d.o.o., Varaždin - Podružnica Jezerčica za turizam i ugostiteljstvo, Donja Stubica, Toplička 80, odnosno za crpljenje termalne vode u ukupnoj količini do najviše 5,0 l/sec ili do najviše 50.000 m3/godišnje, iz izvora-bunara na k.č.br. 313/3., k.o. Donja Stubica, radi gospodarskog korištenja u svrhu zdravstvene rehabilitacije, rekreacije i turizma.
+Termalne vode, koje su predmet ove Odluke, crpit će se u skladu s vodopravnim uvjetima Hrvatskih voda, Vodnogospodarskog odjela za vodno područje sliva Save, Zagreb, klase: 325-03/99-02/0000020, urbroja: 374-21-3-10-14, od 9. lipnja 2010. godine.
+III.
+Društvo Terme Jezerčica d.o.o. Varaždin - Podružnica Jezerčica za turizam i ugostiteljstvo, dužno je radi promjene namjene koncesije, prije potpisa Dodatka Ugovoru o koncesiji, platiti razliku jednokratne naknade u iznosu od 22.700,00 kuna.
+IV.
+Zadužuje se Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva da u roku 30 dana od donošenja ove Odluke, provede prijenos prava i obveza iz točke I. ove Odluke na društvo Terme Jezerčica d.o.o., Varaždin - Podružnica Jezerčica za turizam i ugostiteljstvo, Donja Stubica.
+V.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.

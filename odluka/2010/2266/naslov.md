@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti za prijenos prava i obveza korisnika koncesije Ustanove za zdravstvenu njegu i rehabilitaciju u kući, Varaždin za crpljenje termalne vode na društvo Terme Jezerčica d.o.o., Varaždin - Podružnica Jezerčica za turizam i ugostiteljstvo, Donja Stubica
