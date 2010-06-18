@@ -1,0 +1,3 @@
+# Članak 20.
+Hrvatski Crveni križ i nadležna tijela u Republici Hrvatskoj obavljaju nadzor i osiguravaju u svako doba poštivanje pravila koja se odnose na korištenje znakova crvenog križa, crvenog polumjeseca i crvenog kristala, naziva »Crveni križ«, »Crveni polumjesec« i »Crveni kristal« i signala raspoznavanja te će poduzeti mjere za sprečavanje zlouporabe i pokrenuti prekršajni ili kazneni postupak.
+Nadležna tijela naredit će zapljenu predmeta i materijala kojima je prekršen ovaj Zakon, uklanjanje znakova o trošku počinitelja, uništavanje instrumenata korištenih za reprodukciju, odbiti registraciju udruga, zaštitnih imena i zaštitnih znakova crvenog križa, crvenog polumjeseca i crvenog kristala.

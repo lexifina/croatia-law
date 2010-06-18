@@ -1,0 +1,15 @@
+# Članak 10.
+Hrvatski Crveni križ i njegovi ustrojstveni oblici osim javnih ovlasti iz članka 8. i 9. ovoga Zakona, sukladno potrebama lokalne zajednice i osiguranim sredstvima obavljaju i sljedeće djelatnosti:
+1. sudjeluju u prihvatu, smještaju, organizaciji života i poduzimanju drugih mjera koje pridonose zbrinjavanju ugroženog i nastradalog stanovništva,
+2. rade na zdravstvenom odgoju, prosvjećivanju i informiranju svojih članova i drugih građana, a posebno djece i mladeži. Potiču i osposobljavaju za zdravstvenu samozaštitu i suzaštitu, kao i pružanje pomoći građanima.
+Sudjeluju u promociji zdravog načina života te prevenciji bolesti ovisnosti, rehabilitaciji i resocijalizaciji ovisnika,
+3. organiziraju prijevoz, pružaju usluge smještaja i prehrane osobama kojima je takav oblik pomoći potreban iz zdravstvenih, socijalnih ili drugih sličnih razloga (kuhinje Hrvatskog Crvenog križa, dostava hrane u kuću, usluge u centrima, odmaralištima i kampovima Hrvatskog Crvenog križa, škola u prirodi, obuka neplivača, oporavak djece i mladeži iz socijalno ugroženih obitelji i članova Hrvatskoga Crvenog križa i dr.), te usluge iste vrste za svoje članove, članove Crvenog križa i Crvenog polumjeseca, drugih država ili međunarodnih organizacija, osobito u sklopu međunarodne razmjene, ostvarivanje programa edukacije, odgoja i osposobljavanja djece, mladih i stanovništva za obavljanje zadaća Crvenog križa.
+Pružanje usluga iz stavka 1. ove točke, bez obzira na vrijeme trajanja, ne smatra se turističkom i ugostiteljskom djelatnošću,
+4. organiziraju službu za njegu i pomoć bolesnih i nemoćnih u kući, osposobljavaju djelatnike za rad u službi te obučavaju građane i članove obitelji za njegu bolesnika,
+5. organiziraju i provode prijevoz robe u humanitarne i druge svrhe, prijevoz osoba s invaliditetom, kroničnih bolesnika, starih i nemoćnih te osoba s tjelesnim ili mentalnim oštećenjem, dobrovoljnih davatelja krvi i članova Crvenog križa,
+6. provode programe pomoći i njege starijih i nemoćnih osoba te osoba s posebnim potrebama putem mobilnih timova i ostalih vidova pomoći u lokalnim zajednicama te pružaju i druge organizirane oblike pomoći starim i nemoćnim osobama,
+7. organiziraju pružanje pomoći prijevoza alkoholiziranih vozača u dane vikenda i blagdana s ciljem smanjivanja broja prometnih nesreća,
+8. organiziraju razne oblike solidarnosti i međusobnog pomaganja građana,
+9. organiziraju i provode programe humanističkog odgoja djece i mladeži, rade na usvajanju vrlina solidarnosti, nepristranosti i suosjećanja, promiču poštovanje ljudskog bića i života, potiču razvoj samopoštovanja te pridonose razvoju životnih vještina (dobre komunikacije, mirnog rješavanja sukoba, timskog rada i suradnje i slično),
+10. organiziraju i provode programe pomoći i zaštite tražitelja azila, azilanata i drugih skupina migranata u potrebi i žrtava trgovanja ljudima. Provode edukaciju sa svrhom upoznavanja društvene zajednice i podizanja svijesti javnosti o navedenim pojavama,
+11. obavljaju i druge poslove utvrđene zakonima i drugim propisima.
