@@ -1,0 +1,2 @@
+# Članak 43.
+U svrhu izrade projekcije proračunskih izdataka s naslova troškova iz članka 40. ovoga Pravilnika najkasnije do 15. rujna tekuće godine HAK je dužan Carinskoj upravi, Središnjem uredu u dva primjerka dostaviti okvirnu procjenu troškova carinske djelatnosti Hrvatskog autokluba koje, sukladno odredbama ovoga Pravilnika i ugovora iz članka 510. stavka 3. Uredbe za provedbu Carinskog zakona, valja namiriti na teret odgovarajuće stavke državnog proračuna.

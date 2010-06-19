@@ -1,0 +1,7 @@
+## DIO I.
+## OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom se propisuju uvjeti i procedure koje prilikom preuzimanja, prikupljanja, čuvanja, organiziranja uništenja i prodaje privremeno uvezenih ili u prekršajnom ili kaznenom postupku oduzetih, stranih prijevoznih sredstava i njihovih dijelova iz članka 511. i 512. Uredbe za provedbu Carinskog zakona (u daljnjem tekstu: stranih prijevoznih sredstava) pod carinskim nadzorom provodi Hrvatski autoklub (u daljnjem tekstu: HAK).
+Ovim Pravilnikom se propisuje i postupanje nadležnih carinarnica, te drugih nadležnih tijela prilikom smještaja privremeno uvezenih ili oduzetih stranih prijevoznih sredstava glede kojih se vodi odgovarajući upravni ili pravosudni postupak, odnosno carinsko-upravni ili prekršajni postupak, u smjestišta HAK-a, do okončanja predmetnog postupka ili određenja carinsko-pravnog statusa prijevoznog sredstva. Pravilnikom se, također, uređuje i način obračuna i raspodjele sredstava dobivenih prodajom stranih prijevoznih sredstava.
+Smjestištem HAK-a se smatraju prostori u koje HAK smješta i čuva privremeno uvezena prijevozna sredstva, koja su pod carinskim nadzorom.
+HAK sukladno odredbama svog Statuta može na Statutom propisan način povjeriti udruženim autoklubovima u svome sklopu obavljanje određenih operativnih poslova, ako isti za to ispunjavaju kadrovske, materijalno-tehničke i organizacijske uvjete koje propisuje HAK.

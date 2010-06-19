@@ -1,0 +1,4 @@
+# Članak 34.
+Glavni tajnik HAK-a je ovlašten u roku od 30 dana od dana kada je nadležni autoklub u sklopu HAK-a zaprimio zapisnik i odgovarajući obvezujući mjesečni obračun iz članka 33. stavka 4. ovoga Pravilnika pokrenuti postupak preispitivanja odluke nadležne carinarnice.
+Postupak iz stavka 1. ovoga članka se pokreće pisanim podneskom kojim glavni tajnik Hrvatskog autokluba sporno pitanje iznosi Carinskoj upravi, Središnjem uredu uz navođenje razloga koji upućuju da meritorno utvrđenje carinarnice nije osnovano.
+U slučaju nastupa okolnosti iz stavka 2. ovoga članka, utvrđenje u spornoj stvari donosi Povjerenstvo za rješavanje spornih pitanja obračuna sredstava dobivenih prodajom i troškova carinske djelatnosti HAK-a (u daljnjem tekstu: Povjerenstvo) kojeg imenuje ravnatelj Carinske uprave u roku od 30 dana od dana stupanja na snagu ovoga Pravilnika.
