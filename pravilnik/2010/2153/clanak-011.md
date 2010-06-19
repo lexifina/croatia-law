@@ -1,0 +1,28 @@
+# Članak 11.
+Središnji upisnik pasa sadržava sljedeće podatke:
+- Identifikacijski broj mikročipa;
+- Datum aplikacije mikročipa.
+- Broj putovnice;
+- Datum izdavanja putovnice;
+- Ime i prezime vlasnika;
+- Broj osobne iskaznice;
+- OIB;
+- Ime psa;
+- Datum štenjenja;
+- Pasminu;
+- Spol;
+- Datum cijepljenja;
+- Naziv cjepiva;
+- Serijski broj cjepiva;
+- Ulicu i kućni broj;
+- Mjesto;
+- Epizootiološku jedinicu (općinu);
+- Epizootiološko područje (županija);
+- Trokratni pregled (da/ne);
+- Odjava psa (datum);
+- Razlog odjave (uginuće, promjena vlasnika, promjena izdavatelja);
+- Broj prethodne putovnice;
+- Veterinarska organizacija/veterinarska praksa/veterinarska služba;
+- Broj telefona/mobitela;
+- Opasan pas (DA/NE);
+- Kastracija (DA/NE).
