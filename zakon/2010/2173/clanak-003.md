@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti rješenja Ministarstva mora, prometa i infrastrukture o pravu na oslobađanje plaćanja godišnje naknade za uporabu javnih cesta i cestarine, izdana prema odredbama Zakona o javnim cestama (»Narodne novine«, br. 180/04., 82/06., 138/06., 146/08., 152/08., 38/09., 124/09. i 153/09.), u dijelu koji se odnosi na ostvarivanje prava na oslobađanje plaćanja cestarine.
+(2) Danom stupanja na snagu ovoga Zakona prestaju važiti potvrde/smart kartice izdane prema odredbama Pravilnika o postupku i načinu ostvarivanja prava na oslobađanje plaćanja godišnje naknade za uporabu javnih cesta i cestarine (»Narodne novine«, br. 143/06., 66/07. i 20/09.).
+(3) Osobama koje su prema odredbama ovoga Zakona oslobođene plaćanja cestarine izdat će se nove potvrde/smart kartice, sukladno odredbama propisa iz članka 63.a stavka 3. ovoga Zakona.
