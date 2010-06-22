@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« 152/08), Skupština Turističke zajednice Istarske županije, uz prethodnu suglasnost Ministarstva turizma, na sjednici održanoj 7. lipnja 2010. godine, donijela je

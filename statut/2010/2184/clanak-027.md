@@ -1,0 +1,23 @@
+# Članak 27.
+Turističko vijeće:
+1. provodi odluke i zaključke Skupštine Zajednice,
+2. predlaže Skupštini godišnji program rada i financijski plan Zajednice,
+3. podnosi Skupštini izvješće o izvršenju programa rada i financijskom poslovanju Zajednice,
+4. podnosi Skupštini izvješće o svom radu najmanje jednom godišnje,
+5. upravlja imovinom Zajednice sukladno Zakonu, Statutu te sukladno programu rada i financijskom planu,
+6. donosi opće akte za Turistički ured na prijedlog direktora Turističkog ureda,
+7. imenuje direktora Turističkog ureda na temelju javnog natječaja i razrješava direktora Turističkog ureda,
+8. utvrđuje granice ovlasti za zastupanje i raspolaganje financijskim sredstvima Zajednice,
+9. daje ovlasti za zastupanje turističke zajednice u slučaju spriječenosti direktora,
+10. priprema prijedloge i daje mišljenja o pitanjima o kojima odlučuje Skupština,
+11. utvrđuje prijedlog Statuta i drugih akata koje donosi Skupština,
+12. odlučuje o korištenju sredstava za izgradnju, adaptaciju i kupnju poslovnog prostora u skladu s financijskim planom,
+13. donosi opće akte koje ne donosi Skupština,
+14. donosi poslovnik o svom radu,
+15. potiče suradnju s drugim turističkim zajednicama i pravnim i fizičkim osobama koje su neposredno ili posredno uključene u turistički promet,
+16. razmatra godišnje programe rada i financijske planove kao i godišnja financijska izvješća turističkih zajednica općina, gradova, mjesta i područja,
+17. rješava žalbe protiv prvostupanjskih rješenja iz područja radnog prava djelatnika u Turističkom uredu,
+18. delegira jednog člana u nadzorne odbore turističkih zajednica općina, gradova, mjesta i područja u Istarskoj županiji,
+19. zahtjeva i razmatra izvješće direktora Turističkog ureda o svom radu i o radu Turističkog ureda,
+20. odlučuje o prihvaćanju izvješća o radu direktora Turističkog ureda i o radu Turističkog ureda,
+21. obavlja i odlučuje o drugim poslovima koji prema Zakonu, ovom Statutu i drugim općim aktima spadaju u djelokrug rada ili za koje ga ovlasti Skupštine Zajednice.
