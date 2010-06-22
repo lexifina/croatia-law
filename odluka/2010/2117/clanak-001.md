@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom utvrđuje se Osnovna lista lijekova Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Osnovna lista lijekova) koja u skladu s člankom 17. stavkom 3. Zakona o obveznom zdravstvenom osiguranju sadržava medikoekonomski najsvrsishodnije lijekove za liječenje svih bolesti, a koji se osiguranim osobama Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) u cijelosti osiguravaju u okviru prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja.
