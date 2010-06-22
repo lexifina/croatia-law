@@ -1,0 +1,38 @@
+# Članak 5.
+Područni uredi za katastar, odnosno Gradski ured za katastar i geodetske poslove Grada Zagreba, trajno čuvaju u analognom i/ili digitalnom obliku za područja iz svoje nadležnosti sljedeću dokumentaciju i podatke:
+- elaborate geodetskih osnova:
+- izvorne podatke i rezultate mjerenja pri uspostavi dopunskog polja stalnih točaka geodetske osnove (obrasci geodetskih mjerenja i računanja i dr.) i
+- tehničku dokumentaciju stalnih točaka geodetske osnove (pregledne karte, popisi koordinata, položajni opisi, i dr.).
+- podatke iz katastra nekretnina, odnosno katastra zemljišta:
+- digitalne ortofotoplanove i digitalne modele terena,
+- pregledne skice podjele na detaljne listove katastarskog plana,
+- skice izmjere,
+- dopunske skice izmjere,
+- katastarske planove,
+- pregledne katastarske karte,
+- popise (katastarskih čestica, zgrada i drugih građevina, područja pojedinih vrsta uporabe, područja posebnih pravnih režima i adresa katastarskih čestica),
+- popisne i posjedovne listove,
+- pomoćne popise (popis kućnih brojeva, popis osoba upisanih u popisne listove/posjedovne listove i popis promjena),
+- tehnička izvješća,
+- zbirke isprava,
+- zbirke parcelacijskih i drugih geodetskih elaborata,
+- i dr. dokumentacija iz katastra nekretnina, odnosno katastra zemljišta (elaborati obilježavanja granica katastarskih općina, grupne dopunske skice održavanja, računanja površina katastarskih čestica, kartice parcela, popisi prezimena i sl.).
+- podatke područnog registra prostornih jedinica:
+- popisi prostornih jedinica (popis jedinica područne (regionalne) samouprave, popis gradova i općina, popis naselja, popis katastarskih općina i katastarskih područja na moru, popis područja mjesne nadležnosti općinskih sudova, popis statističkih krugova, popis popisnih krugova, popis ulica i trgova, popis zgrada, popis jedinica mjesne samouprave, popis dostavnih područja poštanskih ureda, popis područja mjesne nadležnosti katastarskih ureda, popis prostornih jedinica za statistiku 2. razine, popis zaštićenih i štićenih područja),
+- podaci popisnih krugova - PK obrasci,
+- skice SK,
+- skice PK,
+- karte registra prostornih jedinica,
+- zbirke elaborata promjena,
+- zbirke rješenja o određivanju, mijenjanju ili ukidanju kućnih brojeva
+- i druga dokumentacija područnog registra prostornih jedinica
+- podatke registra katastra vodova:
+- popisi vodova, popisi upravitelja vodova,
+- skice vodova, planovi vodova, pregledne karte vodova, zbirke elaborata vodova,
+- ostali podaci registra katastra vodova,
+- Hrvatsku osnovnu kartu (HOK) 1:5 000 ili 1:10000, otiske,
+- detaljne topografske karte (DTK) u mjerilima 1:25 000 do 1:250 000, otiske,
+- pregledne topografske karte (PTK) u mjerilu 1:300 000 i sitnijem, otiske,
+- digitalne modele reljefa,
+- preslike podataka o državnoj granici,
+- ostale prostorne podatke iz nadležnosti područnih ureda za katastar.
