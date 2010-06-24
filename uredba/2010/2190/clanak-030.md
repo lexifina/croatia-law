@@ -1,0 +1,9 @@
+## Objašnjenje elemenata opisa radnog mjesta
+# Članak 30.
+(1) Osnovni podaci o radnom mjestu sadrže: naziv kategorije, potkategorije i razine potkategorije u koju se radno mjesto razvrstava, naziv radnog mjesta, klasifikacijski rang, broj radnog mjesta u pravilniku o unutarnjem redu i naziv unutarnje ustrojstvene jedinice.
+(2) Opis poslova radnog mjesta sadrži opis poslova i zadataka koji se pretežno obavljaju na radnom mjestu.
+(3) U opisu poslova navodi se i približan postotak vremena koji je potreban za obavljanje svakog posla pojedinačno.
+(4) Opis razine standardnih mjerila za klasifikaciju radnih mjesta sadrži opis razine odnosno opsega standardnih mjerila za klasifikaciju radnih mjesta koji se odnosi na većinu poslova iz opisa poslova radnog mjesta.
+(5) Opis standardnog mjerila potrebnog stručnog znanja sadrži određeni stupanj obrazovanja i određenu ili odredivu struku koja se zahtjeva za obavljanje poslova radnog mjesta; propisano radno iskustvo za obavljanje poslova radnog mjesta; vrstu i stupanj potrebnog stručnog usavršavanja (npr. položen pravosudni ispit, stručna izobrazba za zvanje ovlaštenog unutarnjeg revizora u javnom sektoru) te potrebna znanja, sposobnosti i vještine potrebna za učinkovito obavljanje poslova radnog mjesta.
+(6) Iznimno od odredaba ove Uredbe, u opisu standardnog mjerila stručnog znanja za radna mjesta I. i II. kategorije može se, ovisno o vrsti poslova i zahtjevima radnog mjesta, utvrditi stupanj obrazovanja doktora struke, ako je za obavljanje poslova potreban završen diplomski sveučilišni studij medicine, stomatologije ili veterine (na primjer: doktor/doktorica medicine).
+(7) Pod većinom poslova iz stavka 4. ovoga članka razumijeva se većina opisanih poslova, čiji je približan postotak vremena koji se provede u njihovom obavljanju veći od 60%.

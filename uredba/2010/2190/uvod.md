@@ -1,0 +1,1 @@
+Na temelju članka 79. Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, broj 86/2008), Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 2010. godine donijela
