@@ -1,0 +1,1 @@
+Na temelju članka 49. Zakona o trgovini (»Narodne novine«, br. 87/2008 i 116/2008) i članaka 3. i 4. Zakona o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava (»Narodne novine«, broj 86/2008), Vlada Republike Hrvatske je na sjednici održanoj 20. svibnja 2010. godine donijela
