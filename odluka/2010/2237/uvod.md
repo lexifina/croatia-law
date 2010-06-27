@@ -1,0 +1,1 @@
+Na temelju članka 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00,127/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06, 26/07, - Odluka USRH i 73/08) i članka 36. Statuta Grada Novske (»Službeni vjesnik« br. 24/09) Gradsko vijeće Grada Novske na sjednici održanoj dana 10. lipnja 2010. godine donijelo je
