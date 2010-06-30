@@ -1,0 +1,5 @@
+# Članak 56.
+Članak 117. i naslov iznad njega mijenjaju se i glase:
+»13.2.1. Odsjek za pripremu i provedbu projekata iz područja rada i socijalne sigurnosti
+Članak 117.
+Odsjek za pripremu i provedbu projekata iz područja rada i socijalne sigurnosti koordinira unutar Ministarstva provedbu pretpristupnih programa pomoći EU, te koordinira provedbu Operativnog programa razvoj ljudskih potencijala u području rada i socijalne sigurnosti. Odsjek sudjeluje u procesu programiranja u svom djelokrugu. Utvrđuje planirane krajnje korisnike i modalitete odabira i provedbe istih, osigurava da se aktivnosti u okviru sektorske nadležnosti Ministarstva odaberu za financiranje i odobre sukladno kriterijima navedenim u Operativnom programu. Organizira redovne mjesečne sastanke s predstavnicima svih tijela unutar strukture, kao i predstavnicima tijela horizontalne razine (Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske Unije), s ciljem praćenja provedbe projekata. Priprema izvješća i planove iz svoga djelokruga te obavlja i druge poslove u okviru svoga djelokruga.«.

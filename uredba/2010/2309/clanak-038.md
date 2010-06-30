@@ -1,0 +1,3 @@
+# Članak 38.
+Članak 68. mijenja se i glasi:
+»Odsjek za međunarodne ugovore obavlja stručne poslove vezane uz sklapanje, objavljivanje i stavljanje van snage međunarodnih ugovora o gospodarskoj suradnji i ugovora o poticanju i uzajamnoj zaštiti ulaganja; prati provedbu navedenih ugovora; surađuje s nadležnim tijelima u pripremi dokumentacije za arbitraže pokrenute temeljem ugovora o poticanju i uzajamnoj zaštiti ulaganja; prati proces prilagodbe hrvatskog zakonodavstva pravnoj stečevini EU te sudjeluje u aktivnostima prilagodbe zakonodavstva u nadležnosti Ministarstva te obavlja i druge poslove u okviru svoga djelokruga.«.
