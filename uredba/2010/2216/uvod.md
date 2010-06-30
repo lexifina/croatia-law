@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2., a u vezi s člankom 71. točkom 4. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 17. lipnja 2010. godine donijela
