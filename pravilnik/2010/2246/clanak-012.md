@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Odobrenje (licencija) valjano je za cijelo vrijeme dok imatelj odobrenja (licencije) ispunjava uvjete iz članaka 4. i 5. ovoga Pravilnika.
+(2) Ako priređivač utvrdi da je imatelj odobrenja (licencije) prestao ispunjavati bilo koji od uvjeta na temelju kojih mu je odobrenje (licencija) dano, obvezan je o tome u roku od osam dana pisanim putem obavijestiti Ministarstvo financija.
+(3) Ako priređivač ima opravdani razlog za oduzimanje odobrenja (licencije), primjerice ako nastupe teške povrede obveza iz radnog odnosa ili neke druge osobito važne činjenice, uz uvažavanje svih okolnosti i interesa obiju ugovornih stranaka, podnosi zahtjev Ministarstvu financija za oduzimanje odobrenja (licencije).
+(4) Ako Ministarstvo financija ustanovi da su opravdani razlozi za oduzimanje odobrenja (licencije), donosi odluku o oduzimanju. Odluka o oduzimanju odobrenja (licencije) dostavlja se svim priređivačima igara na sreću na području Republike Hrvatske, a zaposlenik kojem je oduzeto odobrenje (licencija) briše se iz registra odobrenja (licencija).
+(5) Zaposlenik iz stavka 4. ovoga članka može ponovno polagati stručni ispit na zahtjev priređivača, nakon proteka tri godine od dana brisanja iz registra odobrenja (licencija), ukoliko su ispunjeni svi uvjeti iz članka 7. ovoga Pravilnika.
