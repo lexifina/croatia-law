@@ -1,0 +1,3 @@
+# Članak 8.
+1) Izobrazbu službenika probacije prema ovom Pravilniku provode službenici probacije sa završenim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem i s najmanje četiri godine rada na odgovarajućim poslovima, koji se rješenjem ministra imenuju predavačima, instruktorima i trenerima.
+2) Radi osiguranja potrebne razine stručnosti i specifičnih znanja, u provedbi programa izobrazbe pojedine zadaće mogu se povjeriti i visoko obrazovnim ustanovama i drugim stručnjacima za pojedina područja.
