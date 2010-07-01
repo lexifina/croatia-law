@@ -1,0 +1,6 @@
+## PROCJENA KRIMINOGENIH RIZIKA I TRETMANSKIH POTREBA POČINITELJA
+# Članak 2.
+(1) Procjena kriminogenih rizika i tretmanskih potreba počinitelja (dalje u tekstu: Procjena) provodi se u svrhu određivanja sadržaja pojedinačnog programa postupanja, njegove evaluacije, radi izrade izvješća sudu prilikom odlučivanja o izboru kaznenopravne sankcije i kada nadležno tijelo to izričito zatraži.
+(2) Procjenu provodi službenik probacije koji je prethodno završio program izobrazbe, sukladno Pravilniku o izobrazbi službenika probacije.
+(3) Procjena se obavlja analizom podataka iz sljedećih područja: kriminalno ponašanje, smještaj, obrazovanje, stručna osposobljenost i zaposlenje, upravljanje financijama i prihodima, stil života i socijalne veze, zlouporaba droga i alkohola, emocionalno stanje i prilagodba, ponašanje i stavovi, zdravstveno stanje i drugih podataka koji mogu doprinijeti kvaliteti procjene.
+(4) Za izradu Procjene koriste se podaci dobiveni od počinitelja, članova njegove obitelji, a po potrebi i od osoba koje bi mogle imati saznanja o podacima važnim za Procjenu te podaci iz postojeće relevantne dokumentacije o osobi uključenoj u probaciju (presuda, sudska rješenja, nalazi i mišljenja liječnika i drugih stručnjaka, izvješća centra za socijalnu skrb, izvješća o tijeku izvršavanja kazne zatvora i dr.).

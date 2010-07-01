@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Na zahtjev kaznionice odnosno zatvora u postupku obrade prijedloga za uvjetni otpust zatvorenika, Ured će sačiniti izvješće o procjeni uvjeta za poslijepenalni prihvat i resocijalizaciju koje sadržava: opće podatke o zatvoreniku, obiteljski status, socio-ekonomski status obitelji, podatke o smještaju nakon otpusta, zaposlenju, mogućnostima nastavka obveza utvrđenih pojedinačnim programom izvršavanja kazne zatvora, mišljenje žrtve, procjenu rizika u zajednici gdje se zatvorenik otpušta, eventualne dodatne napomene i zaključak.
+(2) Izvješće iz stavka 1. ovog članka Ured će kaznionici odnosno zatvoru dostaviti u roku od 15 dana od zaprimanja zahtjeva.

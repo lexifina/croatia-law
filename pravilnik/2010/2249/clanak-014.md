@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Ustanova ili pravna osoba će odmah, pisanim putem, izvijestiti Ured ako osuđenik odnosno počinitelj iz bilo kojeg razloga ne obavlja rad za opće dobro na slobodi te dostaviti evidenciju o broju odrađenih sati.
+(2) U slučaju iz stavka 1. Ured će odmah, a najkasnije u roku od 3 dana, pozvati osuđenika odnosno počinitelja, utvrditi razloge neobavljanja rada, upozoriti na posljedice neizvršavanja sudske presude odnosno preuzete obveze, i savjetovati ga. O učinjenom Ured će sastaviti službenu zabilješku i po potrebi izvijestiti nadležni sud odnosno državnog odvjetnika i predložiti preispitivanje izvršavanja izrečene sankcije odnosno preuzete obveze.
+(3) Ako se osuđenik odnosno počinitelj ne odazove pozivu iz stavka 2. ovog članka, postupit će se u skladu s člankom 10. stavak 2. i 3. ovog Pravilnika.
