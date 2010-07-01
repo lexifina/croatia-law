@@ -1,0 +1,2 @@
+# Članak 5.
+Javnopravna tijela koja vode postupak izdavanja akata kojima se odobrava građenje, odnosno izvedeno stanje, dostavljaju Hrvatskim vodama, po službenoj dužnosti, dokumentaciju potrebnu za obračun vodnoga doprinosa (preslik zahtjeva za izdavanje akta kojim se odobrava građenje, odnosno izvedeno stanje i projektnu dokumentaciju), te od investitora, odnosno projektanta popunjene obrasce, propisane propisom iz članka 76. Zakona o financiranju vodnoga gospodarstva, koji se odnosi na obračun i naplatu vodnoga doprinosa (»Narodne novine«, broj 153/2009).
