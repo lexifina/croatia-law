@@ -1,0 +1,4 @@
+## Uzimanje uzoraka i testiranje
+# Članak 5.
+(1) Službeno istraživanje iz članka 4. stavka 1. ovoga Pravilnika na poljima na kojima će se saditi ili skladištiti sjemenski krumpir ili bilje navedeno u točki 1. Priloga I. ovoga Pravilnika namijenjeno proizvodnji bilja za sadnju, mora uključiti uzimanje uzoraka i testiranje na prisutnost krumpirovih cistolikih nematoda u skladu s Prilogom II., koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(2) Službeno istraživanje iz članka 4. stavka 1. ovoga Pravilnika na poljima na kojima će se saditi ili skladištiti bilje navedeno u točki 2. Priloga I. ovoga Pravilnika namijenjeno proizvodnji bilja za sadnju, mora uključiti uzimanje uzoraka i testiranje na prisutnost krumpirovih cistolikih nematoda u skladu s Prilogom II. ovoga Pravilnika ili provjeru kao što je navedeno u Odjeljku I. Priloga III. ovoga Pravilnika.
