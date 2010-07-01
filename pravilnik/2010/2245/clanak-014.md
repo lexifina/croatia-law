@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Za primanje uplata za lutrijske igre putem samoposlužnih terminala priređivač je dužan osigurati ispunjenje uvjeta propisanih člancima 9., 10., 12. stavak 1. i 3. i 13. ovoga Pravilnika, a ako se samoposlužni terminal postavlja u ugostiteljski objekt ili trgovački centar priređivač mora dostaviti i dokaz o ispunjavanju uvjeta propisanih posebnim propisima za tu djelatnost.
+(2) Kada se uplate za lutrijske igre primaju putem samoposlužnih terminala, oprema i uvjeti propisani člankom 9. stavcima 1. i 3. ovoga Pravilnika moraju biti sadržani u terminalu.
+(3) Priređivač pisanom izjavom dokazuje ispunjavanje uvjeta propisanih člancima 9., 10. stavak 1. i 12. stavak 3., te člankom 13. ovoga Pravilnika.
+(4) Izjavu o ispunjenju uvjeta iz članaka 9., 10. stavak 1., članka 12. i članka 13. ovoga Pravilnika, dokaz o ispunjenju uvjeta propisanih posebnim propisom iz članka 14. stavak 1. ovoga Pravilnika, te obavijest o datumu početka primanja uplata, priređivač je dužan Ministarstvu financija dostaviti najkasnije tri dana prije početka primanja uplata putem samoposlužnih terminala.
+3. Primanje uplata za lutrijske igre putem interneta, SMS-a ili drugih interaktivnih komunikacijskih uređaja
