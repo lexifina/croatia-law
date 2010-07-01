@@ -1,0 +1,12 @@
+# Članak 2.
+(1) Smanjuju se sljedeće pripadajuće mirovine i mirovinska primanja:
+- mirovine zastupnika u Hrvatskom saboru, bivših članova Vlade Republike Hrvatske, sudaca Ustavnog suda Republike Hrvatske i glavnog državnog revizora, koje se ostvaruju i određuju na temelju Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru,
+- mirovine Predsjednika Republike, koje se ostvaruju i određuju na temelju Zakona o obvezama i pravima državnih dužnosnika,
+- mirovine hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, koje se ostvaruju i određuju prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji,
+- mirovine bivših političkih zatvorenika, koje se određuju na temelju Zakona o pravima bivših političkih zatvorenika,
+- mirovine sudionika NOR-a od 6. travnja 1941. do 15. svibnja 1945., mirovine pripadnika Hrvatske domovinske vojske od 17. travnja 1941. do 15. svibnja 1945., mirovine bivših pripadnika MUP-a i pravosuđa, mirovine bivših članova Izvršnog vijeća Sabora i mirovine administrativno umirovljenih saveznih javnih službenika, ostvarene prema propisima o mirovinskom osiguranju, koji su važili prije stupanja na snagu Zakona o mirovinskom osiguranju, čije je korištenje osigurano na temelju toga Zakona,
+- mirovine pripadnika bivše JNA, preuzete sukcesijom bivše SFRJ, čije je korištenje osigurano na temelju Zakona o mirovinskom osiguranju,
+- mirovine djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba pravosuđa i radnika na poslovima razminiranja, koje se ostvaruju i određuju na temelju Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba, Zakona o humanitarnom razminiranju i Zakona o posebnim pravima iz mirovinskog osiguranja zaposlenika na poslovima razminiranja,
+- mirovine pripadnika Hrvatskog vijeća obrane i članova njihovih obitelji, koje se ostvaruju na temelju Ugovora između Republike Hrvatske i Bosne i Hercegovine o suradnji na području prava stradalnika rata u Bosni i Hercegovini koji su bili pripadnici Hrvatskog vijeća obrane i članova njihovih obitelji, koje se ostvaruju i određuju prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji,
+- dodatak mirovini koji se ostvaruje i određuje prema Zakonu o Hrvatskoj akademiji znanosti i umjetnosti.
+(2) Smanjenje mirovina prema ovome Zakonu obuhvaća mirovine i mirovinska primanja članova obitelji ostvarena na temelju propisa o mirovinskom osiguranju iz stavka 1. ovoga članka.
