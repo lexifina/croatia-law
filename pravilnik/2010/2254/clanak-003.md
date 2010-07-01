@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 18. stavak 1. podstavak 8. mijenja se i glasi:
+»- pratiti Certifikat o sjemenu uz otpremnicu, odnosno službeni dokument koji sadrži najmanje podatke s Certifikata o sjemenu na pakiranju propisane u Dodatku 4. dio A. Službeni Certifikat o sjemenu na pakiranju (osnovno sjeme i certificirano sjeme, isključujući sitna pakiranja) I. Potrebni podaci točke 3., 4., 5. i 6. ovoga Pravilnika na hrvatskom jeziku. Certifikat o sjemenu uz otpremnicu, odnosno službeni dokument nije neophodan ako su ti podaci neizbrisivo otisnuti na pakiranju ili ako je pakiranje označeno certifikatom smještenim unutar prozirnog pakiranja, certifikatom u vidu naljepnice ili certifikatom od nepoderivog materijala s kojeg se podaci ne mogu obrisati.«.
+U stavku 7. rečenica »Pored ovih podataka na svakom pakiranju dobavljač mora otisnuti službeno dodijeljen serijski broj Certifikata o sjemenu na pakiranju.« briše se.
