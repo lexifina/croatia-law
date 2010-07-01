@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 1. točke 4. Zakona o putnim ispravama hrvatskih državljana (»Narodne novine« broj: 77/99, 133/02, 48/05 i 74/09) ministar vanjskih poslova i europskih integracija, uz suglasnost ministra unutarnjih poslova, donosi
