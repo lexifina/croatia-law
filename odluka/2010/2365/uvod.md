@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009), a u vezi s člankom 3. stavkom 5. Zakona o Financijskoj agenciji (»Narodne novine«, br. 117/2001, 60/2004 i 42/2005), Vlada Republike Hrvatske je na sjednici održanoj 10. lipnja 2010. godine donijela
