@@ -1,0 +1,2 @@
+# Članak 9.
+Proizvodi namijenjeni za hranu za životinje koji udovoljavaju uvjetima ovoga Pravilnika ne podliježu nikakvim ograničenjima prilikom stavljanja na tržište u pogledu prisustva nepoželjnih tvari propisanih ovim Pravilnikom i Pravilnikom o službenim kontrolama koje se provode radi verifikacije postupanja u skladu s odredbama propisa o hrani i hrani za životinje, te propisa o zdravlju i zaštiti životinja (»Narodne novine«, broj 99/07).5

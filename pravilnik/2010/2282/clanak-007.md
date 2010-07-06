@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Na temelju novih informacija ili ponovnog razmatranja postojećih informacija nakon stupanja na snagu ovoga Pravilnika, a koje ukazuju da najveća dopuštena količina utvrđena u Prilogu I. ovoga Pravilnika, ili nepoželjna tvar koja nije navedena u Prilogu I. ovoga Pravilnika, predstavlja opasnost za zdravlje životinja ili ljudi ili za okoliš, nadležno tijelo može privremeno smanjiti postojeću najveću dopuštenu količinu, utvrditi najveću dopuštenu količinu ili zabraniti prisustvo takve nepoželjne tvari u proizvodima namijenjenim za hranu za životinje.
+(2) U slučaju iz stavka 1. ovoga članka, nadležno tijelo će o tome odmah obavijestiti države članice i Komisiju, navodeći razloge svoje odluke.
