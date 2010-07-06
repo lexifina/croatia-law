@@ -1,0 +1,4 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 7.
+(1) Osobe koje su tijekom 2006. i 2007. godine položile ispit za ovlaštenog upravitelja mirovinskim fondovima i dobile uvjerenje o položenom ispitu za ovlaštenog upravitelja mirovinskim fondovima mogu u roku od tri mjeseca od dana stupanja na snagu ovog Pravilnika podnijeti zahtjev za izdavanje licence ako udovoljavaju uvjetima iz članka 4. stavka 2. ovog Pravilnika i prilože odgovarajuće dokaze iz članka 6. stavka 2. ovog Pravilnika.
+(2) Osobe koje su tijekom 2010. godine položile ispit za ovlaštenog upravitelja mirovinskim fondovima i dobile uvjerenje o položenom ispitu za ovlaštenog upravitelja mirovinskim fondovima mogu u roku od tri mjeseca od dana stupanja na snagu ovog Pravilnika podnijeti zahtjev za izdavanje licence ako udovoljavaju uvjetima iz članka 2. stavaka 1., 2., 3., 4. i 5. ovog Pravilnika i prilože dokaze iz članka 3. ovog Pravilnika.
