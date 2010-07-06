@@ -1,0 +1,2 @@
+# Članak 6.
+Osobe koje su do dana stupanja na snagu ovoga Zakona stekle zanimanje vatrogasac, odnosno vatrogasni tehničar, kao i osobe koje u vrijeme stupanja na snagu ovoga Zakona pohađaju program prekvalifikacije za zanimanje vatrogasac, odnosno vatrogasni tehničar, prilikom prvog zaposlenja na poslovima vatrogasca, odnosno vatrogasnog tehničara ne moraju ispunjavati uvjet kojim je propisana dob za prvo zaposlenje na tim poslovima.
