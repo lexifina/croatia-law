@@ -1,0 +1,5 @@
+## METODOLOGIJA IZRADE GEODETSKIH SNIMKI
+# Članak 7.
+Geodetska snimka iz članka 99. stavka 3. podstavka 1. i stavka 4. Zakona o vodama mora biti digitalna (hidrografska) snimka. Snimka mora obuhvatiti poprečne profile s maksimalnim razmakom profila od 50 metara, a po potrebi i manje ako se radi o koritu vodotoka s većim neravninama dna, kada će razmak profila odrediti naručitelj radova ili široki pojas snimanja, kada se snima cjelokupna površina dna na mjestu vađenja s maksimalnim rasterom mreže točaka 2,0/2,0 metara.
+Obrada snimljenih podataka obuhvaća izradu kartografskog prikaza mjesta vađenja na podlozi karte 1: 25 000 i situacije u mjerilu 1: 5 000 s ucrtanim rasterom poprečnih profila, granica područja iskopa (rubovi plovnog puta ili sl.), te izradu poprečnih i uzdužnih profila u mjerilu 1:1000/100.
+Geodetsko snimanje prostora obalne deponije prije početka odlaganja materijala i deponije nakon dovršetka odlaganja materijala obavlja se s maksimalnim razmakom profila od 10 metara i razmakom točaka od 5,0 metara, a po potrebi i gušće, ovisno o lokalnim neravninama.
