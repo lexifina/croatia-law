@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. stavka 1. točke 1. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« br. 140/05), te članka 24. stavaka 4. i 5. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09), Hrvatska agencija za nadzor financijskih usluga je na sjednici održanoj 17. lipnja 2010. godine donijela
