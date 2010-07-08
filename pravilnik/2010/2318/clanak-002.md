@@ -1,0 +1,5 @@
+## OBVEZA PRIKUPLJANJA PODATKA, UGRADNJE VODOMJERA, OPREME I VOĐENJA OČEVIDNIKA
+# Članak 2.
+(1) Obveznik iz članka 1. stavka 1. ovog Pravilnika je dužan putem mjernog uređaja (vodomjera) registrirati količine voda iz Priloga 1, Priloga 2 odnosno Priloga 3 ovoga Pravilnika i o tome voditi očevidnik.
+(2) Obveznici iz članka 1. stavka 1. ovog Pravilnika kao i svi ostali obveznici koji, temeljem vodopravne dozvole ili ugovora o koncesiji, zahvaćaju vodu u količini iznad 10.000 m3 godišnje, dužni su ugraditi opremu za telemetrijski nadzor, prikupljanje, kontrolu i registraciju obračunskih podataka (u daljem tekstu: Oprema za telemetrijski nadzor), koja će registrirati podatke iz Priloga 1, Priloga 2 odnosno Priloga 3 ovoga Pravilnika.
+(3) Telemetrija u smislu ovog Pravilnika predstavlja očitavanje i mjerenje vrijednosti i potrebnih fizikalnih veličina iz Priloga 1, Priloga 2 i Priloga 3 ovog Pravilnika, te elektronski prijenos tih podataka prema središnjem mjestu gdje se ti podaci mogu koristiti.
