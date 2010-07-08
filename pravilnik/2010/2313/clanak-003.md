@@ -1,0 +1,5 @@
+## Raspisivanje redovitih izbora za radničko vijeće
+# Članak 3.
+(1) Odluku o raspisivanju redovitih izbora za radničko vijeće donosi radničko vijeće najkasnije pet tjedana prije isteka svog izbornog razdoblja. Odluka se objavljuje na svim oglasnim mjestima poslodavca i dostavlja se sindikatima koji imaju svoje članove kod poslodavca te poslodavcu. Odluka sadrži i obavijest da je svaki sindikat i svaka skupina od najmanje deset posto radnika koja namjerava podnijeti listu kandidata za članove radničkog vijeća (članak 6. ovoga Pravilnika), dužna u roku od pet radnih dana od dana objavljivanja, odnosno od dana dostavljanja odluke, odrediti u pisanom obliku svog predstavnika i zamjenika u izbornom odboru.
+(2) Odluka radničkog vijeća o imenovanju izbornog odbora dostavlja se predsjedniku i članovima toga odbora i njihovim zamjenicima.
+(3) Ako radničko vijeće ne donese odluku o raspisivanju redovitih izbora u roku iz stavka 1. ovoga članka, na postupak izbora za radničko vijeće na odgovarajući se način primjenjuju odredbe članka 2. ovoga Pravilnika.
