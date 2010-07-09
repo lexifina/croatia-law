@@ -1,0 +1,2 @@
+# Članak 7.
+Najviše dopuštene količine određene u Dodatku ovoga Pravilnika ne dovode u pitanje odredbe i najviše dopuštene količine određene u Pravilniku o najvećim dopuštenim količinama rezidua veterinarsko-medicinskih proizvoda u hrani životinjskog podrijetla (»Narodne novine« br. 75/08, 25/09, 15/2010)[2] i najviše dopuštene količine navedene u Pravilniku o dodacima hrani za životinje (»Narodne novine« br. 9/07)[3].
