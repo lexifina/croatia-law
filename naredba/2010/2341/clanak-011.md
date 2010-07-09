@@ -1,0 +1,2 @@
+# Članak 11.
+Ako se na temelju rezultata provedenih kontrola u zemlji članici utvrdi da zemlja podrijetla životinja ili njihovih proizvoda ne udovoljava zahtjevima propisanim odredbama ove Naredbe, nadležno tijelo postupa u skladu s Pravilnikom o međusobnoj suradnji nadležnog tijela s nadležnim tijelima država članica i Europskom komisijom u svrhu osiguranja pravilne primjene veterinarskih propisa (»Narodne novine«, broj 68/09)[6].
