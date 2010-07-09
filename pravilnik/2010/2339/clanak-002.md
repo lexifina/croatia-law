@@ -1,0 +1,2 @@
+# Članak 2.
+Zahtjevi i pregledi propisani člankom 12. stavkom 1. točkom (b) Pravilnika o veterinarskim uvjetima za nekomercijalno kretanje kućnih ljubimaca2 primjenjuju se u slučaju premještanja kućnih ljubimaca iz Dodatka I. Dijelova A i B navedenog Pravilnika2, ukoliko je ukupan broj životinja koje se premještaju u Republiku Hrvatsku iz bilo koje države članice Europske unije ili treće zemlje iz Dodatka II. Dijela B Odjeljka 2. navedenog Pravilnika22 veći od pet.
