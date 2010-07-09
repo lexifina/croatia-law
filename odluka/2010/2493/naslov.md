@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u vezi privatizacije INA- Industrija nafte d.d. te svih ugovora i dodataka ugovora između Vlade Republike Hrvatske i strateškog partnera Mol Hungarian Oil and Gas Plc.
