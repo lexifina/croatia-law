@@ -1,0 +1,7 @@
+# Članak 23.
+RATIFIKACIJA, PRIHVAT, ODOBRENJE I PRISTUP
+1. Ovaj Protokol podliježe ratifikaciji, prihvatu ili odobrenju od strane država potpisnica i organizacija regionalnih gospodarskih integracija iz članka 21.
+2. Ovaj Protokol otvoren je za pristup država i organizacija regionalnih gospodarskih integracija iz članka 21. počevši od 1. siječnja 2004.
+3. Svaka druga država, koja nije navedena u stavku 2. gore, a koja je članica Ujedinjenih naroda može pristupiti Protokolu temeljem suglasnosti Sastanka stranaka Konvencije koji služi kao Sastanak stranaka Protokola.
+4. Svaka organizacija regionalnih gospodarskih integracija navedena u članku 21. koja postane stranka ovog Protokola, a da niti jedna od njezinih država članica nije stranka, vezana je svim obvezama iz ovog Protokola. Ako je jedna ili više država članica takve organizacije stranka Protokola, organizacija i njezine države članice odlučuju o odnosnim odgovornostima za izvršenje njihovih obveza iz ovog Protokola. U takvim slučajevima organizacija i njezine države članice nemaju pravo istovremeno ostvarivati prava iz Protokola.
+5. U svojim ispravama o ratifikaciji, prihvatu, odobrenju ili pristupu organizacije regionalnih gospodarskih integracija navedene u članku 21. navest će se opseg svoje nadležnosti u odnosu na pitanja koja se uređuju ovim Protokolom. Ove organizacije također će obavijestiti depozitara o svakoj bitnoj promjeni u opsegu njihove nadležnosti.

@@ -1,0 +1,6 @@
+# Članak 24.
+STUPANJE NA SNAGU
+1. Ovaj Protokol stupa na snagu devedeseti dan od datuma polaganja šesnaeste isprave o ratifikaciji, prihvatu, odobrenju ili pristupu.
+2. Za potrebe stavka 1. gore ispravu koju položi organizacija regionalnih gospodarskih integracija navedena u članku 21. ne smatra se kao dodatna na onu koju su položile države članice takve organizacije.
+3. Za svaku državu ili organizaciju regionalnih gospodarskih integracija navedenu u članku 21. koja ratificira, prihvati ili odobri Protokol ili pristupi istome nakon polaganja šesnaeste isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, ovaj Protokol stupa na snagu devedesetog dana nakon datuma kada ta država ili organizacija položi svoju ispravu o ratifikaciji, prihvatu, odobrenju ili pristupu.
+4. Ovaj Protokol primjenjuje se na planove, programe, politike i propise čiji prvi službeni pripremni akt uslijedi nakon datuma stupanja na snagu ovog Protokola. Ako je stranka pod čijom nadležnošću se predviđa izrada plana, programa, politike ili propisa jedna od onih na koje se odnosi stavak 3., ovaj Protokol primjenjuje se na planove, programe, politike i propise čiji prvi formalni pripremni akt uslijedi nakon datuma stupanja na snagu ovog Protokola za tu stranku.

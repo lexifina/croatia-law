@@ -1,0 +1,3 @@
+# Članak 21.
+POTPISIVANJE
+Ovaj Protokol otvoren je za potpisivanje od 21. do 23. svibnja 2003. u Kijevu (Ukrajina), a nakon toga u sjedištu Ujedinjenih naroda u New Yorku do 31. prosinca 2003. državama članicama Gospodarske komisije za Europu, kao i državama koje imaju savjetodavni status u Gospodarskoj komisiji za Europu u skladu sa stavkom 8. i 11. Odluke Gospodarskog i socijalnog vijeća br. 36 (IV) od 28. ožujka 1947., te organizacijama regionalnih gospodarskih integracija koje su osnovale suverene države članice Gospodarske komisije za Europu, a na koje su njihove države članice prenijele nadležnost u pogledu pitanja koja se uređuju Protokolom, uključujući nadležnost za sklapanje ugovora u vezi ovih pitanja.
