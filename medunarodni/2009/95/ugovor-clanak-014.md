@@ -1,0 +1,9 @@
+# Članak 14.
+TARIFE
+1. Tarife koje će naplaćivati zračni prijevoznici ugovornih stranaka za ugovoreni promet utvrdit će se uzimajući u obzir sve relevantne čimbenike uključujući troškove letenja, razumnu dobit, značajke prijevoza i tarife drugih zračnih prijevoznika.
+2. Tarife spomenute u stavku 1. ovog članka uspostavit će odnosni određeni zračni prijevoznici.
+3. Na opisani način usuglašene tarife podnijet će se na odobrenje zrakoplovnim vlastima ugovornih stranaka najmanje šezdeset (60) dana prije predloženog datuma njihova uvođenja. Ovo se razdoblje može skratiti temeljem suglasnosti navedenih vlasti.
+4. Ako se određeni zračni prijevoznici ugovornih stranka ne uspiju usuglasiti o tarifama koje se trebaju naplaćivati, ili kada ugovorna stranka nije odredila svog zračnog prijevoznika za obavljanje ugovorenog prometa, ili kada tijekom prvih trideset (30) dana od gore spomenutog roka od šezdeset (60) dana, zrakoplovne vlasti jedne ugovorne stranke dostave zrakoplovnim vlastima druge ugovorne stranke obavijest o njihovom nezadovoljstvu s bilo kojom tarifom usuglašenom između zračnih prijevoznika ugovornih stranaka sukladno odredbama ovog članka, zrakoplovne vlasti ugovornih stranaka nastojat će postići sporazum o odgovarajućim tarifama koje će se naplaćivati.
+5. Niti jedna tarifa neće stupiti na snagu ako je zrakoplovne vlasti bilo koje ugovorne stranke ne odobre.
+6. Tarife utvrđene sukladno odredbama ovog članka ostat će na snazi dok se ne utvrde nove tarife. Međutim, tarifa se na temelju ovog stavka neće produljiti za više od dvanaest (12) mjeseci nakon datuma kada bi u protivnom istekla.
+7. Ako se zrakoplovne vlasti ne mogu usuglasiti niti oko jedne tarife koja im je predana prema odredbama ovog članka ili oko određivanja bilo koje tarife spor će se riješiti sukladno odredbama članka 16. (Konzultacije) ovog Sporazuma.

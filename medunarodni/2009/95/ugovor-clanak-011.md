@@ -1,0 +1,14 @@
+# Članak 11.
+CARINE I NAPLATE
+1. Zrakoplov kojim određeni zračni prijevoznici jedne ugovorne stranke obavljaju međunarodni zračni promet, kao i njegova uobičajena oprema, gorivo i maziva, zalihe zrakoplova (uključujući hranu, pića i alkoholnih pića, te duhan) bit će, pri ulasku na državno područje druge ugovorne stranke, izuzeti od svih uvoznih ograničenja, poreza na imovinu i kapitalnih nameta, carina, trošarina i sličnih naknada i naplata, pod uvjetom da takva oprema i zalihe ostaju u zrakoplovu dok se nalaze na tom državnom području.
+2. Isto će tako biti izuzeti od poreza, trošarina, carina, naknada i naplata spomenutih u stavku 1. ovog članka, s izuzetkom naplata koje se temelje na trošku za pružene usluge:
+a) zalihe zrakoplova unesene ili isporučene na državno područje ugovorne stranke i ukrcane u zrakoplov za uporabu u odlazećem zrakoplovu kojeg u međunarodnom zračnom prometu koristi zračni prijevoznik druge ugovorne stranke;
+b) zemaljska oprema i rezervni dijelovi uneseni na državno područje ugovorne stranke radi servisiranja, održavanja ili popravka zrakoplova kojeg u međunarodnom zračnom prometu koristi određeni zračni prijevoznik druge ugovorne stranke;
+c) gorivo i maziva unesena ili isporučena na državno područje ugovorne stranke za korištenje u zrakoplovu kojeg u međunarodnom zračnom prometu koristi zračni prijevoznik druge ugovorne stranke, čak i kada se te zalihe koriste na dijelu putovanja koje se odvija preko državnog područja ugovorne stranke na kojem su ukrcane.
+3. Za opremu i zalihe spomenute u stavcima 1., 2. i 3. ovog članka može se zatražiti da ostanu pod nadzorom ili kontrolom nadležnih vlasti.
+4. Uobičajena zrakoplovna oprema, kao i materijali i zalihe koji se uobičajeno zadržavaju u zrakoplovu određenog zračnog prijevoznika bilo koje ugovorne stranke mogu se iskrcati na državnom području druge ugovorne stranke isključivo uz odobrenje carinskih vlasti te ugovorne stranke. U tom slučaju mogu biti pod nadzorom navedenih vlasti do trenutka njihovog ponovnog izvoza ili njihovog zbrinjavanja na neki drugi način sukladan carinskim propisima.
+5. Pojedine stvari određenog zračnog prijevoznika bilo koje ugovorne stranke uneseni na državno područje druge ugovorne stranke, zrakoplovne karte, zračni tovarni listovi kao i promotivni materijali zračnog prijevoznika bit će izuzeti od svih carina, naknada za pregled i drugih naknada i naplata.
+6. Prtljaga, teret i pošta u izravnom tranzitu bit će izuzeta od carina i drugih uvoznih naknada i pristojbi.
+7. Sljedeće će isto tako biti izuzeto od svih carina i/ili poreza:
+a) telekomunikacijska oprema kao što je oprema za prijenos i ispis podataka i oprema za bežičnu komunikaciju ili druga bežična oprema za korištenje na zračnim lukama;
+b) računalna oprema zračnog prijevoznika koja se isključivo koristi za rezervacije i operativne svrhe kao što su računalni terminali, telepisači.
