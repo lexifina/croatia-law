@@ -1,0 +1,2 @@
+# Članak 10.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o uvjetima i postupku za izdavanje dopusnice za obavljanje znanstvene djelatnosti (»Narodne novine« broj 97/07 i 98/07-ispr.) i Pravilnik o vrednovanju znanstvenih organizacija (»Narodne novine« broj 104/08), osim u postupcima izdavanja dopusnica i vrednovanja znanstvenih organizacija koji su započeti prije stupanja na snagu Zakona o osiguravanju kvalitete u znanosti i visokom obrazovanju.
