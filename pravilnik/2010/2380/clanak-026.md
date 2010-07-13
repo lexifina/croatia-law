@@ -1,0 +1,9 @@
+## Prestanak važenja suglasnosti i rješenja izdanih po ranijim propisima
+# Članak 26.
+Suglasnosti izdane temeljem Zakona o vodama (»Narodne novine« broj 107/95) i Pravilnika o posebnim uvjetima koje moraju ispunjavati pravne osobe koje obavljaju poslove osobito značajne za upravljanje vodama (»Narodne novine« broj 34/96) odnosno rješenja o ispunjenju posebnih uvjeta izdana temeljem Zakona o vodama (»Narodne novine« broj 107/95 i 150/05) i Pravilnika o posebnim uvjetima koje moraju ispunjavati pravne osobe koje obavljaju poslove osobito značajne za upravljanje vodama (»Narodne novine« broj 34/96) i Pravilnika o posebnim uvjetima koje moraju ispunjavati pravne osobe koje obavljaju poslove osobito značajne za upravljanje vodama (»Narodne novine« broj 43/08), prestaju važiti:
+(a) u odnosu na imatelja suglasnosti odnosno rješenja za poslove iz članka 172. točaka 2., 3. i 4. Zakona o vodama (»Narodne novine« broj 107/95) i članka 172. točaka 2., 3. i 4. Zakona o vodama (»Narodne novine«, broj 107/95 i 150/05), koji je podnio zahtjev iz članka 12. ovoga Pravilnika do 30. rujna 2010. ranijim od sljedećih datuma:
+1. danom izvršnosti rješenja o odbacivanju zahtjeva,
+2. danom izvršnosti rješenja o odbijanju zahtjeva,
+3. danom izvršnosti rješenja o ispunjenju uvjeta iz članaka 6., 7. i 8. ovoga Pravilnika.
+(b) u odnosu na imatelja suglasnosti odnosno rješenja za poslove iz članka 172. točaka 2., 3. i 4. Zakona o vodama (»Narodne novine« broj 107/95) i članka 172. točaka 2., 3. i 4. Zakona o vodama (»Narodne novine« broj 107/95 i 150/05), koji nije podnio zahtjev iz članka 8. ovoga Pravilnika do 30. rujna 2010. na dan 1. listopada 2010.
+(c) u odnosu na imatelja suglasnosti odnosno rješenja za poslove iz članka 172. točka 1. Zakona o vodama (»Narodne novine« broj 107/95) i članka 172. točka 1. Zakona o vodama (»Narodne novine« broj 107/95 i 150/05) - na dan stupanja na snagu ovoga Pravilnika.
