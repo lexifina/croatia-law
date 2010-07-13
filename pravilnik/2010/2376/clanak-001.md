@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju uvjeti i mjerila za sufinanciranje gradnje građevina za navodnjavanje u vlasništvu fizičkih i pravnih osoba iz državnog proračuna u okviru provedbe Nacionalnog programa navodnjavanja i gospodarenja poljoprivrednim zemljištem i vodama u Republici Hrvatskoj.
+(2) Sufinanciranje gradnje građevina za navodnjavanje u vlasništvu fizičkih i pravnih osoba podrazumijeva dodjelu nepovratnih sredstava iz državnog proračuna Republike Hrvatske za gradnju građevina za navodnjavanje u vlasništvu fizičkih i pravnih osoba.
+(3) Sufinanciranje iz stavka 1. ovog članka obuhvaća: sufinanciranje izrade tehničke dokumentacije, izgradnju i sanaciju građevina ili dijelova građevina za navodnjavanje i to za usluge i radove izvedene u tekućoj i dvije prethodne financijske godine u odnosu na datum podnošenja zahtjeva za sufinanciranje za prvu godinu prijave po javnom natječaju, a svaka sljedeća prijava odnosit će se na usluge i radove izvedene u prethodnoj godini u odnosu na datum podnošenja zahtjeva za sufinanciranje.
