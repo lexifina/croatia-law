@@ -1,0 +1,2 @@
+# Članak 9.
+Temeljem godišnjeg programa održavanja sustava javnog navodnjavanja, predstavničko tijelo jedinice područne (regionalne) samouprave donosi odluku o godišnjoj visini naknade za navodnjavanje iz članka 50. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« broj 153/09). U odluci o godišnjoj visini naknade za navodnjavanje posebno se iskazuje naknada za fiksne, a posebno za varijabilne troškove.

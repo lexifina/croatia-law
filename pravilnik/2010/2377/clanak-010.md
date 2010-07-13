@@ -1,0 +1,3 @@
+# Članak 10.
+Temeljem prihvaćenog izvješća o realizaciji godišnjeg programa održavanja, te godišnjeg obračuna prihoda i rashoda javnih sustava navodnjavanja, izvršno tijelo jedinica područne (regionalne) samouprave može odobriti podmirivanje dijela troškova javnih sustava navodnjavanja iz sredstava proračuna jedinica područne (regionalne) samouprave.
+Izvješće iz stavka 1. ovog članka jedinice područne (regionalne) samouprave dužne su dostaviti ministarstvu nadležnom za vodno gospodarstvo i Hrvatskim vodama jednom godišnje, a najkasnije do donošenja programa održavanja sustava javnog navodnjavanja za naredno razdoblje.
