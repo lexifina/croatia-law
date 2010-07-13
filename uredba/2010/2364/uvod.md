@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje (»Narodne novine«, broj 79/2009), Vlada Republike Hrvatske je na sjednici održanoj 10. lipnja 2010. godine donijela
