@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 2. Zakona o poštanskim uslugama (»Narodne novine«, broj 88/09.) ministar mora, prometa i infrastrukture, na prijedlog HP - Hrvatske pošte d.d. kao javnog operatora, donosi
