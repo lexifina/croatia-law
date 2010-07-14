@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o potpori za očuvanje radnih mjesta (»Narodne novine«, br. 94/09.), članak 3. mijenja se i glasi:
+»(1) Poslodavac koji u cilju očuvanja radnih mjesta skrati trajanje punog radnog vremena i kao puno radno vrijeme odredi prosječno radno vrijeme u trajanju do 32 sata tjedno, može koristiti potporu u visini razlike plaće i doprinosa na plaće radnika prije skraćivanja radnog vremena i nakon skraćivanja radnog vremena, a najviše do 20% ukupnog iznosa plaće i doprinosa iz i na plaću radnika prije skraćivanja radnog vremena.
+(2) Skraćeno radno vrijeme u trajanju do 32 sata tjedno tijekom razdoblja ostvarivanja potpore iz stavka 1. ovoga članka ne mora biti raspoređeno jednako po danima, tjednima i mjesecima, te se u tom slučaju skraćeno radno vrijeme utvrđuje kao prosječno skraćeno tjedno radno vrijeme unutar razdoblja ostvarivanja potpore.
+(3) Plaća iz stavka 1. ovoga članka, u smislu ovoga Zakona, smatra se plaćom utvrđenom u bruto iznosu iz kojeg je poslodavac obvezan obračunati, obustaviti i uplatiti doprinose za obvezna osiguranja, porez na dohodak i prirez porezu na dohodak te ostala davanja prema posebnim propisima.«
