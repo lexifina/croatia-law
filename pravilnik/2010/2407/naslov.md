@@ -1,0 +1,1 @@
+Pravilnik o ukidanju Pravilnika o obvezatnom atestiranju ormara za čuvanje papirnate dokumentacije na otpornost prema požaru te o uvjetima kojima moraju udovoljiti pravne osobe ovlaštene za atestiranje tih ormara
