@@ -1,0 +1,1 @@
+Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o suradnji u vezi građenja, korištenja, održavanja, rekonstrukcije i otklanjanja pogonskih smetnji električnih dalekovoda koji prelaze preko zajedničke državne granice
