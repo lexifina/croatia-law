@@ -1,0 +1,1 @@
+[1] Pravilnikom se preuzimaju odredbe Uredbe (EZ-a) br. 365/2010 kojom se mijenja Uredba (EZ-a) br. 2073/2005 o mikrobiološkim kriterijima za hranu u pogledu Enterobacteriaceae u pasteriziranom mlijeku i drugim drugim pasteriziranim tekućim mliječnim proizvodima i Listeria monocytogenes u soli namijenjenoj za konzumaciju
