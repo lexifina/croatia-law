@@ -1,0 +1,1 @@
+Odluka o provođenju mjera utvrđenih rezolucijom Vijeća sigurnosti Ujedinjenih naroda 1636 (2005) u svezi sa sankcijama protiv osoba koje povjerenstvo ili Vlada Libanonske Republike odrede kao sumnjive da su umiješane u planiranje, sponzoriranje, organizaciju ili počinjenje terorističkog bombaškog napada u Beirutu, Libanonska Republika, 14. veljače 2005.
