@@ -1,0 +1,2 @@
+# Članak 3.
+Uvjeti za pojedinog pristupnika u natječaju dokumentirani su i obrazloženi od strane Povjerenstava za izradu izvješća, koje je dužno utvrditi ispunjava li pristupnik uvjete za izbor u zvanje. Ta izvješća prethodno potvrđena na nadležnim vijećima akademija i fakulteta, ocjenjuju se na nadležnom Matičnom odboru. Matični odbor donosi odluku o ispunjavanju uvjeta i temelj je za izbor u umjetničko-nastavno zvanje.
