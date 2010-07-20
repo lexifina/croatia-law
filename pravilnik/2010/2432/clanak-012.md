@@ -1,0 +1,6 @@
+## Označavanje enzima i pripravaka enzima koji su namijenjeni za prodaju krajnjem potrošaču
+# Članak 12.
+(1) Ne dovodeći u pitanje odredbe Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine« broj 41/08)6 i Pravilnika o uvjetima i postupku izdavanja dopuštenja za stavljanje genetski modificirane hrane ili genetski modificirane hrane za životinje prvi puta na tržište Republike Hrvatske i zahtjevima koji se odnose na sljedivost, posebno označavanje genetski modificirane hrane i genetski modificirane hrane za životinje (»Narodne novine« broj 110/08)5, enzimi i pripravci enzima koji se prodaju pojedinačno ili pomiješani međusobno i/ili s drugim sastojcima hrane, koji su namijenjeni za prodaju krajnjem potrošaču, mogu se stavljati na tržište samo ako njihova ambalaža sadrži sljedeće podatke:
+(a) naziv iz Popisa odobrenih enzima za svaki enzim ili trgovački naziv uz koji se moraju navesti nazivi svih enzima utvrđeni u nomenklaturi Međunarodne unije za biokemiju i molekularnu biologiju (IUBMB);
+(b) navod »za hranu« ili navod »ograničena uporaba u hrani« ili detaljnije upućivanje na hranu za koju je enzim ili pripravak enzima namijenjen.
+(2) Podaci iz stavka 1. ovoga članka, navode se sukladno članku 4. stavku 2. podstavku 2. Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine« broj 41/08)6.
