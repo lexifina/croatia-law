@@ -1,0 +1,5 @@
+# Članak 30.
+(1) Rješenje kojim je odobren primarni proizvod izdaje se na rok od 10 godina i obnavlja se sukladno članku 32. ovoga Pravilnika
+(2) Nakon što je rješenjem odobren primarni proizvod, nositelj odobrenja, kao i bilo koji subjekt u poslovanju hranom koji upotrebljava odobreni primarni proizvod ili derivirane arome dima, obvezan je pridržavati se svih uvjeta ili zabrana navedenih u rješenju.
+(3) Nositelj odobrenja obvezan je pravodobno izvještavati Povjerenstvo o novim znanstvenim ili tehničkim spoznajama koje bi mogle utjecati na procjenu sigurnosti odobrenog primarnog proizvoda ili deriviranih aroma dima u vezi s ljudskim zdravljem. Ako je potrebno, Povjerenstvo će tada ponovo razmotriti mišljenje Agencije iz članka 28. stavka 2. ovoga Pravilnika.
+(4) Rješenje o odobrenju primarnog proizvoda ne isključuje građansku i kaznenu odgovornost bilo kojeg subjekta u poslovanju hranom s obzirom na odobreni primarni proizvod, deriviranu aromu dima ili hranu koja sadrži odobreni primarni proizvod ili deriviranu aromu dima.
