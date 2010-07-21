@@ -1,0 +1,2 @@
+# Članak 1.
+Prvo petogodišnje razdoblje za praćenje stručnog usavršavanja propisano člankom 36. stavkom 3. Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva (»Narodne novine« br. 24/08 i 141/09) produžuje se za godinu dana za obveznike stručnog usavršavanja čija je obveza stručnog usavršavanja počela teći u razdoblju od 1. listopada 2005. godine do 31. srpnja 2010. godine.
