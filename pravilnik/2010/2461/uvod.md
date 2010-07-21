@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 5. Zakona o lovstvu (»Narodne novine« broj 140/05 i 75/09) i prethodnog mišljenja središnjeg tijela državne uprave nadležnog za poslove zaštite prirode ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi
