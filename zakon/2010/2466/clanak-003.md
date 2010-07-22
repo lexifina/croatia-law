@@ -1,0 +1,8 @@
+# Članak 3.
+Članak 49. mijenja se i glasi:
+»(1) Turističke usluge radi odmora i rekreacije turista mogu se pružati na obiteljskom poljoprivrednom gospodarstvu upisanom u Upisnik poljoprivrednih gospodarstava i u šumama šumoposjednika upisanih u Upisnik šumoposjednika sukladno propisima iz nadležnosti ministarstva nadležnog za poljoprivredu, odnosno šumarstvo (u daljnjem tekstu: seljačko gospodarstvo).
+(2) Turističke usluge iz stavka 1. ovoga članka su poljoprivredne, šumarske, športsko-rekreativne, edukativne i slične aktivnosti koje su vezane uz seljačko gospodarstvo (sudjelovanje u poljoprivrednim aktivnostima kao što su berba voća i povrća, ubiranje ljetine i sl., lov i ribolov, vožnja kočijom, čamcem, biciklom, jahanje, pješačenje i slične aktivnosti kao i iznajmljivanje sredstava, pribora i opreme za te aktivnosti, provođenje programa kreativnih i edukativnih radionica vezanih za poljoprivredu, tradicijske obrte i sl., prezentacija poljoprivrednoga gospodarstva te prirodnih i kulturnih vrijednosti u okviru istog, posjete registriranim privatnim etnozbirkama i sl.).
+(3) Na seljačkom gospodarstvu se za goste koji koriste usluge smještaja, sukladno zakonu kojim je uređeno pružanje tih usluga, mogu pružati usluge organiziranja izleta uz, na odgovarajući način, ispunjavanje uvjeta iz članka 14. do 17. ovoga Zakona.
+(4) Turističke usluge iz stavka 2. ovoga članka mogu se pružati za najviše 80 turista istodobno, a turističke usluge iz stavka 3. ovoga članka za najviše 50 turista istodobno.
+(5) Na pružanje usluga iz stavka 2. ovoga članka primjenjuju se odredbe članka 4. stavka 1. točke 1. do 3. ovoga Zakona.
+(6) Ministar može za usluge iz stavka 1. ovoga članka pravilnikom propisati minimalne uvjete za njihovo pružanje.«
