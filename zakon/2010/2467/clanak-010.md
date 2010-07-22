@@ -1,0 +1,9 @@
+# Članak 10.
+Članak 41. mijenja se i glasi:
+»(1) Gospodarski inspektor usmenim će rješenjem, koje će izreći odmah ugostitelju, zabraniti pružanje ugostiteljskih usluga ugostitelju koji se ne pridržava propisanog radnog vremena u trajanju od 30 dana od dana izricanja usmenog rješenja.
+(2) Kada ugostitelj iz stavka 1. ovoga članka nije nazočan inspekcijskom nadzoru gospodarski inspektor će usmeno rješenje o zabrani daljnjeg obavljanja ugostiteljske djelatnosti izreći njegovom zaposleniku i bez prethodnog izjašnjavanja ugostitelja.
+(3) Usmeno rješenje iz stavka 1. ovoga članka izvršava se pečaćenjem prostorija, postrojenja, uređaja i druge opreme za rad kojom se obavlja ugostiteljska djelatnost najkasnije u roku od 24 sata od izricanja usmenog rješenja, do kada je ugostitelj ili zatečeni sudionik dužan osigurati iznošenje pokvarljivih namirnica, te poduzeti i osigurati sve sigurnosne i druge mjere kako ne bi došlo do bilo kakve štete. U slučaju da ugostitelj ili zatečeni sudionik propusti poduzeti navedene mjere, odgovoran je za nastanak bilo kakve štete.
+(4) Iznimno, usmeno rješenje iz stavka 1. ovoga članka neće se izvršiti, odnosno zapečaćene prostorije, postrojenja, uređaji i druga oprema za rad će se otpečatiti i prije isteka roka od 30 dana, ukoliko ugostitelj nadležnom inspektoru dostavi dokaz o izvršenoj uplati novčanog iznosa od 30.000,00 kuna u korist državnog proračuna.
+(5) U slučaju iz stavka 4. ovoga članka, gospodarski inspektor obustavit će upravni postupak, a izvršene radnje poništiti.
+(6) Rješenje iz stavka 1. ovoga članka inspektor je dužan u pisanom obliku otpremiti stranki u roku od osam dana od dana izricanja zabrane usmenim rješenjem, osim u slučaju iz stavka 5. ovoga članka. Žalba se može izjaviti samo na pisani otpravak rješenja.
+(7) Žalba protiv rješenja ne zadržava izvršenje rješenja.«
