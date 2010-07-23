@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o posebnom porezu na plaće, mirovine i druge primitke (»Narodne novine«, br. 96/09) u članku 3. stavku 1. riječi »uplaćene porezno priznate premije osiguranja iz članka 12. stavka 9. Zakona o porezu na dohodak« brišu se, iza riječi »prirez porezu na dohodak« umjesto zareza stavlja se točka, a riječi »pri čemu se premije osiguranja priznaju samo ukoliko su porezno priznati izdatak pri utvrđivanju predujma poreza na dohodak od nesamostalnog rada sukladno Zakonu o porezu na dohodak.« brišu se.
