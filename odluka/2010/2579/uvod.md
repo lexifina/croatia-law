@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o sigurnosti u željezničkom prometu (»Narodne novine« br. 40/07), te članka 22. stavka 3. i članka 27. Pravilnika o uvjetima za određivanje križanja željezničke pruge i drugih prometnica i za svođenje i određivanje zajedničkoga mjesta i načina križanja željezničke pruge i ceste (»Narodne novine« br. 121/09) donosim
