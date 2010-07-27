@@ -1,0 +1,2 @@
+# Članak 50.
+Policijski službenik će provjeriti identitet osobe na zahtjev službenih tijela državne uprave, pravnih ili fizičkih osoba ukoliko je povrijeđeno neko njihovo pravo. U slučaju sumnje da se radi o namjeri zlouporabe osobnih podataka, policijski službenik će provjeriti identitet osobe, ali podatke neće pripoćiti podnositelju zahtjeva već će ga uputiti da te podatke zatraži pisanim, obrazloženim zahtjevom od nadležne ustrojstvene jedinice policije.

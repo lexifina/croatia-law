@@ -1,0 +1,2 @@
+# Članak 171.
+Policijski službenici u policijskim postajama, policijskim upravama i ustrojstvenim jedinicama Ministarstva u kojima se izravno obavljaju policijski poslovi, raspoređuju se u službu dnevnim rasporedom rada kojeg u pisanom obliku donosi rukovoditelj ustrojstvene jedinice tjedan dana unaprijed, osim u izvanrednim situacijama koje nije moguće unaprijed predvidjeti i hitnog prekovremenog rada.

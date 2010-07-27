@@ -1,0 +1,3 @@
+# Članak 99.
+Policijski službenik će prilikom zaprimanja dojave prikupiti sva dostupna saznanja vezana za mjesto događaja, a posebno saznanja o mogućem otporu, napadu ili opasnosti, kako bi se na siguran i koordiniran način na mjesto događaja uputilo potreban broj policijskih službenika i sredstava.
+Policijski službenik će prilikom dolaska na mjesto događaja pažnju usmjeriti na eventualna vozila i osobe koje se udaljavaju od pretpostavljenog mjesta događaja, kao i druge okolnosti i pojave koje mogu biti od značaja za utvrđivanja činjenica vezanih za kazneno djelo ili prekršaj na čije mjesto događaja je upućen.

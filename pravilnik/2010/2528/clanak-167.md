@@ -1,0 +1,9 @@
+# Članak 167.
+Ukoliko je plovni objekt zatečen u počinjenju prekršaja ili kaznenog dijela odnosno ukoliko postoji osnova sumnje da je korištenjem plovnog objekta počinjen prekršaj ili kazneno djelo policijski službenici mogu narediti zapovjedniku tog plovnog objekta uplovljavanje u najbližu luku u kojoj je moguće provesti kriminalističko istraživanje, pri čemu policijsko plovilo prati plovidbu uzapćenog plovnog objekta.
+U slučaju kada zapovjednik plovnog objekta ili članovi posade uzapćenog plovnog objekta odbiju naredbu o plovidbi u određenu luku ili svojim radnjama onemogućavaju sprovođenje, policijski službenici se prekrcavaju na uzapćeni plovni objekt te mogu preuzeti zapovijedanje nad uzapćenim plovnim objektom. Radi preuzimanja zapovijedanja nad uzapćenim plovnim objektom na moru, na uzapćeni plovni objekt prekrcat će se najmanje dva naoružana policijska službenika.
+Odluka o uzapćenju plovnog objekta odmah se priopćava zapovjedniku uzapćenog plovnog objekta pri čemu se privremeno oduzimaju isprave plovnog objekta i osoba uz izdavanje potvrde o privremenom oduzimanju predmeta.
+Ukoliko je uzapćeni plovni objekt u kvaru, sprovođenje u luku obavlja se organiziranjem tegljenja plovilom specijaliziranim za tu djelatnost, a izuzetno tegljenje može obaviti policijsko plovilo ako se time ne ugrožava sigurnost plovnog objekta i osoba na njemu.
+O uzapćenju se sastavlja zapisnik koji sadrži slijedeće podatke: dan i vrijeme uzapćenja, ime i registarska oznaka uzapćenog plovnog objekta, zastava pripadnosti, ime i prezime zapovjednika, poziciju osmotrenja, poziciju početka progona, poziciju uzapćenja te pravna osnova uzapćenja.
+Na zahtjev zapovjednika uzapćenog plovnog objekta policijski službenici dužni su podatke o uzapćenju unijeti u dnevnik uzapćenog plovnog objekta.
+Policijski službenici dužni su odmah po uzapćenju plovnog objekta izvijestiti operativno-komunikacijski centar nadležne policijske uprave.
+25. Radnje poduzete iz sigurnosnih razloga

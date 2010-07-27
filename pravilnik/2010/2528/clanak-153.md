@@ -1,0 +1,4 @@
+# Članak 153.
+Rukovoditelj iz članka 152. stavka 1. ovog Pravilnika dužan je odmah prikupiti potrebne obavijesti o okolnostima uporabe sredstava prisile te ih zajedno s pisanim izvješćem i mišljenjem dostaviti na ocjenu načelniku policijske uprave.
+Ukoliko je sredstva prisile uporabio policijski službenik ustrojstvene jedinice u sjedištu Ministarstva, nadležni rukovoditelj (ravnatelj uprave, načelnik uprave, zapovjednik jedinice, načelnik odjela i dr.) će organizirati prikupljanje potrebnih obavijesti o okolnostima uporabe, te ih zajedno s pisanim izvješćem i mišljenjem bez odlaganja dostaviti na ocjenu glavnom ravnatelju policije.
+Načelnik policijske uprave organizirat će prikupljanje svih relevantnih saznanja vezanih za uporabu sredstava prisile koju je osobno zapovjedio ili uporabio, te ih zajedno s pisanim izvješćem i mišljenjem bez odlaganja dostaviti na ocjenu glavnom ravnatelju policije.

@@ -1,0 +1,6 @@
+# Članak 6.
+Zahtjev za pružanjem pomoći podnosi se u pisanom obliku mjesno nadležnoj policijskoj upravi u roku od najmanje osam dana prije podnositeljeve radnje, a u kraćem roku, odnosno odmah, ukoliko se radi o zahtjevu za pružanjem pomoći na temelju propisa kojim je taj rok drukčije određen.
+Iznimno, ukoliko se radi o pružanju pomoći iz članka 5. stavka 2., 3. i 4. ovog Pravilnika, zahtjev se može podnijeti usmeno s obvezom naknadne dostave u pisanom obliku. O zaprimljenom usmenom zahtjevu sastavlja se službena zabilješka i postupa kao i s pisanim zahtjevom.
+Zahtjev mora sadržavati podatke o podnositelju, mjestu, vremenu, sudionicima i odgovornim osobama koje u ime podnositelja provode radnju, obrazloženo pravno utemeljenje za pružanjem pomoći, činjenice koje ukazuju na mogućnost pružanja otpora i opasnost te druge činjenice koje su od značaja za donošenje i provođenje odluke o pružanju pomoći.
+Tijekom razmatranja zahtjeva od podnositelja će se pisanim, a iznimno i usmenim putem zatražiti da ga nadopuni ukoliko ne sadrži dovoljno činjenica za donošenje odluke o pružanju pomoći.
+Pomoć iz stavka 1. ovog članka pruža se na temelju podnositeljevog zahtjeva, procjene rizika, odluke o pružanju pomoći i plana postupanja.

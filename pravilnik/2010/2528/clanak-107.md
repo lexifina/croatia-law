@@ -1,0 +1,4 @@
+# Članak 107.
+Pregled objekata i prostora poduzima se na temelju plana koji odobrava nadležni rukovoditelj ili osoba koju on za to ovlasti. Sukladno prosuđenom riziku planom je, između ostalog, potrebno predvidjeti snage i sredstva za provođenje pregleda.
+Nadležni rukovoditelj donijet će odluku o pregledu objekata i prostora na temelju plana iz stavka 1. ovog članka, a izravno nadležni rukovoditelj je prije pregleda dužan o prosuđenom riziku upoznati policijske službenike koji će sudjelovati u pregledu, te poslovima i zadaćama koje će tom prilikom obavljati.
+Policijski službenici, ako za to postoji opravdani razlog, mogu i samoinicijativno bez pisanog plana obaviti pregled objekata i prostora uz prethodno odobrenje operativno-komunikacijskog centra policijske uprave ili operativnog dežurstva policijske postaje.

@@ -1,0 +1,2 @@
+# Članak 14.
+Policijski službenik razdužuje osnovano oružje i streljivo prelaskom na rad u drugu ustrojstvenu jedinicu Ministarstva unutarnjih poslova (u daljnjem tekstu: Ministarstvo) i to: u drugu policijsku upravu; ustrojstvenu jedinicu koja je opremljena posebnim tipom/markom oružja; iz policijske uprave u Ravnateljstvo policije ili upravu u Ministarstvu; iz Ravnateljstva policije ili uprave u Ministarstvu u policijsku upravu; iz uprave u Ministarstvu u drugu upravu u Ministarstvu, odlaskom u mirovinu, udaljenjem iz službe ili prestankom radnog odnosa u Ministarstvu.

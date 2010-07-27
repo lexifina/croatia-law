@@ -1,0 +1,3 @@
+# Članak 100.
+Policijski službenik dužan je po dolasku na mjesto događaja poduzeti mjere i radnje radi otklanjanja opasnosti za život i zdravlje ljudi ili imovinu te pružanja pomoći ozlijeđenim osobama ako ih ima.
+Radi zaštite osoba od opasnosti i mjesta događaja od nepotrebnih promjena te osiguranja predmeta i tragova na mjestu događaja te radi zaštite dostojanstva žrtve, policijski službenik će postavljanjem privremenih prometnih znakova, signalizacije, trake s natpisom »STOP POLICIJA« ili drugog podesnog sredstva izdavanjem upozorenja i naredbi privremeno ograničiti pristup i kretanje na prostoru kojeg će odrediti sukladno pravilima struke i zabraniti snimanje mjesta događaja.

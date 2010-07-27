@@ -1,0 +1,6 @@
+# Članak 142.
+Ako postoji osnova sumnje da će osoba prema kojoj treba primjeniti policijske ovlasti ili obaviti policijski posao pružiti otpor te da se može očekivati uporaba vatrenog oružja prema osobi, policija će sačiniti plan postupanja koji odobrava nadležni rukovoditelj.
+Ako zbog okolnosti slučaja nije moguće sastaviti pisani plan, neposredni rukovoditelj će usmeno izložiti plan postupanja policijskim službenicima koji su određeni za postupanje, a ako to okolnosti dozvoljavaju s bitnim značajkama plana postupanja upoznat će nadležnog rukovoditelja.
+Planom iz stavka 1. i 2. ovog članka obvezno će se odrediti potreban broj policijskih službenika, njihovo naoružanje, zaštitna oprema, stupanj pripravnosti za uporabu vatrenog oružja i drugi elementi u ovisnosti od prosudbe te odrediti neposredni rukovoditelj.
+Policijski službenik koji sudjeluje u provedbi plana iz stavka 1. i 2. ovog članka mora biti upoznat s prosudbom očekivanog otpora, situacijskim planom, rasporedom i zadaćama drugih policijskih službenika te vlastitom službenom zadaćom.
+Policijski službenik smije uporabiti vatreno oružje i prije izdane zapovjedi nadređenog rukovoditelja za uporabu vatrenog oružja ako je uporaba vatrenog oružja jedino sredstvo za obranu od izravnog napada ili opasnosti.
