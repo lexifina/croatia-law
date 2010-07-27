@@ -1,0 +1,3 @@
+# Članak 10.
+Postupak registracije tradicionalnog biljnog lijeka provodi se po nacionalnom postupku za davanje odobrenja za stavljanje gotovog lijeka u promet u Republici Hrvatskoj sukladno odredbama Pravilnika o postupku i načinu davanja odobrenja za stavljanje gotovog lijeka u promet.
+Iznimno od odredbe stavka 1. ovoga članka kada je Povjerenstvo usvojilo monografiju Zajednice za biljnu tvar ili pripravak sadržane u predmetnom biljnom lijeku ili kada biljni lijek sadrži biljne tvari, pripravke ili njihovu kombinaciju sa Popisa Zajednice postupak registracije tradicionalnog biljnog lijeka provodi se sukladno odredbama koje propisuju postupak međusobnog priznavanja ili decentralizirani postupak davanja odobrenja za stavljanje gotovog lijeka u promet.

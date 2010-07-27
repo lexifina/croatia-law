@@ -1,0 +1,2 @@
+# Članak 12.
+Kada biljna tvar, pripravak ili njihova kombinacija bude uvrštena na Popis Zajednice, odnosno nakon usvajanja njihove monografije Zajednice, nositelj odobrenja za tradicionalni biljni lijek koji sadrži predmetne djelatne tvari obvezan je uskladiti podatke o lijeku (Sažetak opisa svojstava lijeka, uputu o lijeku i označavanje) s navedenim dokumentima te Agenciji podnijeti zahtjev za odobrenje izmjene registracije.

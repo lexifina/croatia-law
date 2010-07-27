@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom utvrđuje se postupak, oblik i sadržaj dokumentacije za davanje odobrenja za stavljanje tradicionalnih biljnih lijekova u promet, potrebni dokazi o medicinskoj uporabi u razdoblju od 30 godina te pravila označavanja i oglašavanja tradicionalnih biljnih lijekova.
+Odredbe Zakona o lijekovima (»Narodne novine«, br. 71/07 i 45/09 - u daljnjem tekstu: Zakon), odredbe Pravilnika o postupku i načinu davanja odobrenja za stavljanje gotovog lijeka u promet (»Narodne novine«, br. 113/08 i 155/09) i Pravilnika o posebnim uvjetima za stavljanje gotovog lijeka u promet u Republici Hrvatskoj koji ima odobrenje za stavljanje u promet u državama Europske unije (»Narodne novine«, br. 10/08) te ostalih podzakonskih propisa donesenih na temelju Zakona odgovarajuće se primjenjuju i na tradicionalne biljne lijekove ako ovim Pravilnikom nije drukčije propisano.
