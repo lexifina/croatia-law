@@ -1,0 +1,9 @@
+# Članak 6.
+(1) OZO iz članka 8. stavka 6. ovoga Pravilnika, smatra se usklađenom s bitnim zahtjevima iz članka 3. ovoga Pravilnika, ako nosi propisanu oznaku sukladnosti, te za koju proizvođač može, na zahtjev, osigurati izjavu o sukladnosti iz članka 15. ovoga Pravilnika.
+(2) OZO iz članka 8. stavka 5. ovoga Pravilnika, smatra se usklađenom s bitnim zahtjevima iz članka 3. ovoga Pravilnika, ako nosi propisanu oznaku sukladnosti, te za koju proizvođač može, na zahtjev, osigurati izjavu o sukladnosti iz članka 15. ovoga Pravilnika, i priložiti potvrdu izdanu od ovlaštenog tijela iz članka 9. ovoga Pravilnika.
+(3) Potvrdom iz stavka 2. ovoga članka potvrđuje se da je OZO usklađena s odgovarajućim hrvatskim normama kojima su prihvaćene usklađene europske norme (u daljnjem tekstu: usklađene norme), te da je ocijenjena na razini pregleda tipa sukladno članku 10. stavku 4., podstavku 1. i 2. ovoga Pravilnika.
+(4) Ako proizvođač nije primijenio ili je samo djelomično primijenio usklađene norme ili takvih normi nema, potvrda izdana od ovlaštenog tijela iz članka 9. ovoga Pravilnika, mora potvrditi sukladnost OZO s bitnim zahtjevima u skladu s člankom 10. stavkom 4. podstavkom 1. i 2. ovoga Pravilnika.
+(5) Popis usklađenih normi objavit će ministarstvo nadležno za gospodarstvo u »Narodnim novinama«.
+(6) Ako OZO mora ispunjavati i tehničke zahtjeve drugih propisa s drugih gledišta koji također predviđaju postavljanje oznake sukladnosti, smatra se da je OZO također usklađena i s odredbama tih propisa.
+(7) Ako posebni propisi dopuštaju prijelazno razdoblje u kojem proizvođač može izabrati kako će postupati, oznaka sukladnosti će označavati usklađenost OZO s odredbama samo onih propisa koje je primijenio proizvođač.
+(8) U slučajevima iz stavka 7. ovoga članka, podaci o primijenjenim propisima moraju biti sadržani u dokumentima, obavijestima ili uputama zahtijevanim primijenjenim propisima i priložene uz tu OZO.

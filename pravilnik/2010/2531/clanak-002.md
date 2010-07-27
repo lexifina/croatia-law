@@ -1,0 +1,3 @@
+# Članak 2.
+(1) OZO se može staviti na tržište i u uporabu ako uz pravilno održavanje i uporabu za namijenjenu svrhu, čuva zdravlje i jamči sigurnost korisnika i nema utjecaja na zdravlje i sigurnost drugih osoba, domaćih životinja ili dobara.
+(2) Iznimno od stavka 1. ovoga članka, OZO koja nije usklađena sa zahtjevima ovoga Pravilnika može se prezentirati na sajmovima, izložbama, odnosno predstaviti javnosti ako je vidno označena upozorenjem o neusklađenosti sa zahtjevima ovoga Pravilnika i zabranom njezine kupnje odnosno uporabe za bilo koju svrhu sve dok ju proizvođač ili njegov ovlašteni zastupnik ne uskladi sa zahtjevima ovoga Pravilnika.

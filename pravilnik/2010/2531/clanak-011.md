@@ -1,0 +1,2 @@
+# Članak 11.
+Tijekom proizvodnje OZO iz članka 8. stavka 7. podstavka 1. ovoga Pravilnika, a radi provjere sukladnosti izrađene OZO s tipom opisanim u potvrdi o pregledu tipa i odgovarajućim bitnim zahtjevima, proizvođač je, prema svom izboru, dužan provoditi jedan od sustava upravljanja kvalitetom za OZO - sustav upravljanja kvalitetom konačnog proizvoda prema postupku propisanom odredbom članka 12. ili sustav osiguranja kvalitete proizvodnje nadzorom prema postupku propisanom odredbama članka 13. i 14. ovoga Pravilnika.

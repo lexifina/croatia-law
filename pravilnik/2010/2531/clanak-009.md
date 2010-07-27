@@ -1,0 +1,8 @@
+# Članak 9.
+(1) Tijelo za ocjenjivanje sukladnosti može započeti pregled tipa sukladno članku 10. ovoga Pravilnika i provedbom postupaka upravljanja kvalitetom sukladno članku 11. ovoga Pravilnika, nakon ispunjavanja uvjeta iz Priloga IV ovoga Pravilnika i dobivenoga ovlaštenja u skladu s odredbama posebnog propisa kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti.
+(2) Tijelo nadležno za davanje ovlaštenja prijavit će Europskoj komisiji i u državama članicama Europske unije (u daljnjem tekstu: država članica), ona tijela za ocjenjivanje sukladnosti koja su ovlaštena za obavljanje postupaka iz članka 8. ovoga Pravilnika, poslove za koje su ovlaštena te njihove identifikacijske brojeve.
+(3) Pri ocjenjivanju tijela koja su podnijela zahtjev za ovlaštenje potrebno je pridržavati se uvjeta iz Priloga IV ovoga Pravilnika.
+(4) Smatrat će se da tijela udovoljavaju utvrđenim uvjetima ako su usklađena s odgovarajućim usklađenim normama.
+(5) Ako tijelo za ocjenjivanje sukladnosti ne ispunjava jedan ili više kriterija iz Priloga IV ovoga Pravilnika, nadležno tijelo prema posebnom propisu mora donijeti rješenje kojim se ovlaštenje ukida i o tome odmah, po propisanom postupku izvijestiti Europsku komisiju i države članice.
+(6) Ako se utvrdi da tijelo za ocjenjivanje sukladnosti iz stavka 5. ovoga članka više ne ispunjava jedan ili više kriterija iz Priloga IV ovoga Pravilnika, tijelo nadležno prema posebnom propisu, ukinut će ovlaštenje te o tome u najkraćem roku, izvijestiti Europsku komisiju i države članice.
+(7) Popis tijela za ocjenjivanje sukladnosti, njihovi identifikacijski brojevi te djelokrug za koje su ovlaštena, objavit će se u »Narodnim novinama«.
