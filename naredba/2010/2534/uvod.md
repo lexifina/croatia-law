@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 3. Pravilnika o kriterijima za dodjelu dijelova ljudskoga tijela i vođenja nacionalne liste čekanja (»Narodne novine«, br. 152/05 i 84/07) ministar zdravstva i socijalne skrbi donosi
