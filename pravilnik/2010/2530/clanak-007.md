@@ -1,0 +1,3 @@
+# Članak 7.
+U Pravilniku o registraciji vozila (»Narodne novine«, broj 5/05, 19/05, 41/05, 8/06, 130/06, 13/07 i 68/07), u obrascu prometne dozvole (Obrazac 3) koji je njegov sastavni dio, riječi: »Godina proizvodnje« zamjenjuju se riječima: »U prometu od«, ispod riječi »prezime« dodaju se slova: »OIB«, slova: »MB« zamjenjuju se slovima: »OIB«, a u Obrascu 5, riječi: »Godina proizvodnje« zamjenjuju se riječima: »U prometu od«, a slova: »MB« zamjenjuju se slovima: »OIB«.
+Prometne dozvole i knjižice vozila usklađivat će se sa stavkom 1. ovog članka kod prvog tehničkog pregleda vozila nakon popunjenosti prometne dozvole.«
