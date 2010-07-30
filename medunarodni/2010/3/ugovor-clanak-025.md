@@ -1,0 +1,3 @@
+# Članak 25.
+Strojevi i ostala sredstva rada koja su namijenjena za tehničko održavanje zajedničkog vodnog puta, a koja se s državnog područja jedne ugovorne stranke privremeno uvoze na državno područje druge ugovorne stranke, oslobođena su svih uvoznih i izvoznih pristojbi i ne podliježu ni uvoznim ni izvoznim ograničenjima.
+Objekti sigurnosti plovidbe, prije svega plovci i bove, koji uslijed više sile dospiju s državnog područja jedne, na državno područje druge ugovorne stranke, ne podliježu uvozno - izvoznim ograničenjima i bit će vraćeni ovlaštenoj pravnoj osobi koja obavlja poslove tehničkog održavanja zajedničkog vodnog puta uz prethodnu najavu i odobrenje tijela nadležnog za sigurnost plovidbe na državnom području države gdje će se primopredaja obaviti.

@@ -1,0 +1,3 @@
+# Članak 11.
+Tijela nadležna za sigurnost plovidbe ugovornih stranaka zajednički ispituju i donose odluke o poduzimanju potrebnih mjera za sigurnost plovidbe u slučaju plovidbenih nesreća plovila i sastava, nastalih za vrijeme plovidbe na zajedničkom vodnom putu, kada se te plovidbene nesreće dogode na državnom području druge ugovorne stranke.
+Stvari spašene s plovila jedne ugovorne stranke koje je pretrpjelo plovidbenu nesreću na državnom području druge ugovorne stranke ne podliježu obvezi plaćanja uvoznih davanja, pod uvjetom da se pod carinskim nadzorom iznesu s carinskog područja iste, te da su nakon nesreće bile smještene pod carinski nadzor.

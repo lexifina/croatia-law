@@ -1,0 +1,5 @@
+# Članak 20.
+Članovi posade plovila ugovornih stranaka radi prijelaza državne granice ugovornih stranaka moraju imati valjanu ispravu koja je propisana za prelazak državne granice ugovornih stranaka.
+Na plovilu, zajedno s članovima posade, mogu se nalaziti njihovi supružnici i maloljetna djeca, uz uvjet da posjeduju isprave koje su navedene u stavku 1. ovoga članka.
+Na vodnim putovima iz članka 1. ovog Sporazuma članovi posade plovila ugovornih stranaka kod prelaska državne granice ugovornih stranaka, ukrcaja i iskrcaja na/s plovila i na području luka, odnosno pristaništa, otvorenih za međunarodni promet ne moraju imati vizu, uz uvjet da imaju valjanu brodarsku knjižicu. Ove odredbe vrijede i za članove obitelji posade plovila iz stavka 2. ovoga članka, upisane u brodarsku knjižicu i za članove posade plovila ugovornih stranaka koji imaju brodarsku knjižicu koju su izdale druge države u skladu s odgovarajućim međunarodnim ugovorima. Odredbe ovog stavka ne odnose se na čamce.
+Sve osobe iz stavaka 1. i 2. ovoga članka moraju biti upisane u popis članova posade.

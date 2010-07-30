@@ -1,0 +1,2 @@
+# Članak 13.
+Članovi povjerenstva za ispitivanje plovidbenih nesreća, državljani jedne ugovorne stranke, mogu ploviti na državnom području druge ugovorne stranke radi obavljanja zajedničkog očevida i ispitivanja plovidbene nesreće, na temelju popisa članova povjerenstva izdanog od nadležnog tijela za sigurnost plovidbe koji se mora dostaviti tijelu nadležnom za nadzor državne granice druge ugovorne stranke, prije početka očevida.
