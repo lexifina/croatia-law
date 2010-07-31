@@ -1,0 +1,3 @@
+## Primjena ovoga Zakona na provedbu ovrhe na novčanoj tražbini po računima ovršenika
+# Članak 36.
+Od 1. siječnja 2011. na provedbu ovrhe na novčanoj tražbini ovršenika i osiguranja prethodnim i privremenim mjerama te na postupak izvansudske ovrhe uređene Ovršnim zakonom (»Narodne novine«, br. 57/96., 29/99., 173/03., 194/03., 151/04., 88/05. i 67/08.) i Općim poreznim zakonom (»Narodne novine«, br. 147/08.) odgovarajuće se primjenjuju odredbe ovoga Zakona, a posebno pri dostavi rješenja o ovrsi, traženju podataka o računima i štednim ulozima ovršenika, određivanju ovrhe na novčanoj tražbini ovršenika, provedbi ovrhe po računima ovršenika, provedbi ovrhe po zadužnici, odgovornosti u provedbi ovrhe i redoslijedu naplate.

@@ -1,0 +1,7 @@
+## Izvršenje naloga
+# Članak 11.
+(1) Ako je određen prijenos novčanih sredstava na račun ovrhovoditelja ili drugi račun naveden u osnovi za plaćanje, odnosno ako je određen drugi način isplate, smatra se da je nalog izvršen onda kada je banka teretila ovršenikov račun u skladu sa standardima korištenja bankovnih tehnologija. Banka je dužna bez odgađanja o tome obavijestiti Agenciju.
+(2) Ako ovršenik ima račun u istoj banci u kojoj ovrhovoditelj ima otvoren račun, banka je dužna isti dan teretiti račun ovršenika i odobriti račun ovrhovoditelja.
+(3) Ako su račun ovršenika i račun ovrhovoditelja u različitim bankama, banka koja provodi nalog dužna je isti radni dan, a najkasnije sljedeći radni dan odobriti račun banke u kojoj ovrhovoditelj ima otvoren račun, a ta je banka dužna isti radni dan odobriti račun ovrhovoditelja i omogućiti mu raspolaganje novčanim sredstvima.
+(4) Ako je određena pljenidba novčanih sredstava ili mjera osiguranja, smatra se da je nalog izvršen onda kada je banka zaplijenila novčana sredstva na računu ovršenika i/ili oročena novčana sredstva ili kada je ovršeniku ili trećoj osobi na temelju naloga ovršenika zabranila odnosno uskratila isplatu s računa i/ili oročenih novčanih sredstava. Banka je dužna bez odgađanja o tome obavijestiti Agenciju.
+(5) Agencija je dužna izdati specifikaciju izvršenja osnove za plaćanje na zahtjev ovrhovoditelja odnosno ovršenika i nadležnog tijela.
