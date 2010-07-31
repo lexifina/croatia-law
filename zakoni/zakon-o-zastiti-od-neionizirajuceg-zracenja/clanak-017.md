@@ -1,0 +1,3 @@
+# Članak 17.
+Pravna, odnosno fizička osoba kojoj je dana dozvola za uporabu i stavljanje u promet izvora neionizirajućeg zračenja obvezna je izloženim osobama osigurati potrebna zaštitna sredstva, provjeru ispravnosti tih sredstava od strane ovlaštene pravne osobe te mjerenje razina neionizirajućeg zračenja u propisanim rokovima.
+Pravna, odnosno fizička osoba iz stavka 1. ovoga članka obvezna je provesti ispitivanje izvora neionizirajućeg zračenja te osigurati provedbu posebnog stručnog obrazovanja rukovatelja o primjeni mjera zaštite od neionizirajućeg zračenja te zdravstvene preglede izloženih radnika u rokovima propisanim pravilnikom koji donosi ministar nadležan za zdravstvo.

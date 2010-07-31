@@ -1,0 +1,3 @@
+# Članak 8.
+Izvori elektromagnetskih polja ili uređaji, postrojenja i građevine koji sadrže izvore elektromagnetskih polja smiju se upotrebljavati i stavljati u promet samo ako ispunjavaju temeljne zahtjeve sukladno njihovoj namjeni i u uvjetima primjene ne zrače i ne izlažu ljude zračenju iznad graničnih razina propisanih za elektromagnetska polja.
+Temeljne zahtjeve za izvore, uređaje, postrojenja i građevine koje sadrže izvore elektromagnetskih polja iz stavka 1. ovoga članka te granične razine tih polja, postupke njihova provjeravanja i uvjete za dobivanje ovlasti za obavljanje tih postupaka propisat će pravilnikom, uz prethodno pribavljeno mišljenje ministra nadležnog za elektroničke komunikacije, ministar nadležan za zdravstvo.
