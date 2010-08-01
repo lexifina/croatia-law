@@ -1,0 +1,2 @@
+# Članak 13.
+Popisom kućanstava iz članka 4. točke 2. ovog Zakona prikupit će se sljedeći podaci: prezime i ime osobe prema kojoj se određuju odnosi članova kućanstva (referentna osoba); srodnički i obiteljski sastav kućanstva; tip kućanstva; osnova po kojoj se kućanstvo koristi stanom; posjedovanje osobnog računala; korištenje interneta; površina korištenoga poljoprivrednog zemljišta te broj stoke i peradi.

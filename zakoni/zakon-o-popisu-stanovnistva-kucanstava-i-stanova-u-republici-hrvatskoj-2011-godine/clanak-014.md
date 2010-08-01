@@ -1,0 +1,2 @@
+# Članak 14.
+Popisom stanova i ostalih stambenih jedinica iz članka 4. točke 3. ovog Zakona prikupit će se sljedeći podaci: vrsta i način korištenja stambene jedinice; vlasništvo stana; površina stana; broj soba u stanu; površina kuhinje; kupaonica i zahod u stanu; vrste instalacija u stanu; način grijanja stana; vrsta energenata; klimatizacija; vrsta zgrade u kojoj se nalazi stan; položaj stana u zgradi; godina izgradnje zgrade u kojoj se nalazi stan.
