@@ -1,0 +1,6 @@
+## VII. ZAŠTITA OD POŽARA U SUSTAVU ZAŠTITE OKOLIŠA, PROSTORNOG UREĐENJA I GRADNJE
+# Članak 22.
+(1) Ministarstvo, kao subjekt zaštite okoliša prema posebnom propisu, sudjeluje u donošenju dokumenata održivog razvitka i zaštite okoliša državne razine, a nadležna policijska uprava područne (regionalne) i lokalne razine, prema odredbama propisa kojim se uređuje područje zaštite okoliša, u dijelu koji se odnosi na zaštitu od požara.
+(2) Ministarstvo daje mišljenje u postupku strateške procjene utjecaja na okoliš državne razine, a nadležna policijska uprava područne (regionalne) i lokalne razne, sukladno posebnom propisu iz područja zaštite okoliša, u dijelu koji se odnosi na zaštitu od požara.
+(3) Ministarstvo sudjeluje u postupku kojim se provodi procjena utjecaja zahvata na okoliš, odnosno utvrđuju objedinjeni uvjeti zaštite okoliša državne razine, a nadležna policijska uprava područne (regionalne) i lokalne razine, sukladno posebnom propisu iz područja zaštite okoliša, u dijelu koji se odnosi na zaštitu od požara.
+(4) Ministar, uz prethodno mišljenje ministra nadležnog za zaštitu okoliša, donijet će pravilnik kojim se određuju zahvati u prostoru u kojima Ministarstvo odnosno nadležna policijska uprava ne sudjeluje u postupcima iz stavka 3. ovoga članka.

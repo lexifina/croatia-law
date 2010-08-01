@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Ministarstvo, odnosno nadležna policijska uprava sudjeluje u radu Povjerenstva za tehnički pregled u postupku izdavanja uporabne dozvole za izgrađenu građevinu, prema posebnom propisu kojim se uređuje područje građenja samo u slučajevima u kojima su sudjelovali u postupcima izdavanja rješenja o uvjetima građenja, odnosno lokacijske dozvole i rješenja za građenje iz članka 24. ovoga Zakona.
+(2) Ministarstvo, odnosno nadležna policijska uprava u postupku iz stavka 1. ovoga članka daje mišljenje o tome može li se izgrađena građevina koristiti ili se prethodno moraju otkloniti utvrđeni nedostaci ili se ne može izdati uporabna dozvola.
+(3) Odredbe ovoga članka odgovarajuće se primjenjuju i na postupak izdavanja uvjerenja za uporabu prema posebnom propisu kojim se uređuje područje prostornog uređenja i graditeljstva.

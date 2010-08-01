@@ -1,0 +1,2 @@
+# Članak 7.
+Ispunjavanje zahtjeva iz članka 5. i 6. ovoga Zakona proizvoda za zaštitu od požara stavljenih na tržište i/ili na raspolaganje u Republici Hrvatskoj, osigurava se provođenjem inspekcijskog nadzora nad tržištem, koji obavljaju inspekcijska tijela državne uprave, samostalno ili u međusobnoj koordinaciji, na način i u skladu s propisanim nadležnostima, ovim Zakonom i propisom kojim se uređuje sustav državne uprave.

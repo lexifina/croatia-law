@@ -1,0 +1,8 @@
+# Članak 24.
+(1) Nadležna policijska uprava, na traženje nadležnog tijela, sudjeluje u postupku izdavanja rješenja o uvjetima građenja prema propisu kojim se uređuje područje prostornog uređenja i gradnje, radi izdavanja potvrde o usklađenosti idejnog projekta s posebnim propisima iz područja zaštite od požara.
+(2) Nadležna policijska uprava, na traženje nadležnog tijela, sudjeluje u postupku izdavanja lokacijske dozvole za zahvat u prostoru prema propisu kojim se uređuje područje prostornog uređenja i gradnje, radi određivanja posebnih uvjeta zaštite od požara.
+(3) Nadležna policijska uprava, na zahtjev projektanta, odnosno investitora i/ili na traženje nadležnog tijela određuje posebne uvjete zaštite od požara prije i/ili tijekom postupka izdavanja rješenja za građenje prema propisu kojim se uređuje područje prostornog uređenja i gradnje.
+(4) Kada lokacijsku dozvolu iz stavka 2. ovoga članka izdaje ministarstvo nadležno za poslove prostornog uređenja i gradnje, u postupku izdavanja lokacijske dozvole sudjeluje Ministarstvo.
+(5) Kada rješenje za građenje iz stavka 3. ovoga članka izdaje ministarstvo nadležno za poslove prostornog uređenja i gradnje, posebne uvjete zaštite od požara određuje Ministarstvo.
+(6) Ministar, u suglasnosti s ministrom nadležnim za poslove prostornog uređenja i gradnje, određuje zahvate u prostoru u kojima nadležna policijska uprava, odnosno Ministarstvo ne sudjeluje u postupku izdavanja rješenja o uvjetima građenja, odnosno lokacijske dozvole.
+(7) Odredbe ovoga članka na odgovarajući se način primjenjuju i na izmjene i/ili dopune rješenja o uvjetima građenja, odnosno lokacijske dozvole te rješenja o izvedenom stanju koja se izdaju prema propisu kojim se uređuje područje prostornog uređenja i gradnje.

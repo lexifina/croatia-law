@@ -1,0 +1,8 @@
+## X. UNAPREĐENJE ZAŠTITE OD POŽARA
+# Članak 57.
+(1) Pravne osobe dužne su analizirati svaki događaj koji je mogao dovesti do požara te poduzimati mjere potrebne da do takvih događaja više ne dođe, o čemu su dužne voditi evidenciju te obavještavati nadležne službe sukladno posebnim propisima.
+(2) Pravne osobe dužne su voditi evidenciju svih požara koji su nastali na njihovom vlasništvu, kao i razlozima njihova nastanka.
+(3) Za potrebe analize stanja zaštite od požara i poduzimanja mjera njezina unapređenja policijska uprava obavlja stručno istraživanje uzroka nastalih požara, o čemu vodi evidenciju na informacijskom sustavu. U slučaju požara sa posljedicama po ljudski život ili s većom materijalnom štetom ili iz drugih razloga Ministarstvo obavlja vještačenje požara, pri čemu može obavljanje pojedinih stručnih radnji povjeriti znanstvenim ili drugim stručnim ustanovama ili osobama.
+(4) Vještačenje požara obavlja se i na zahtjev državnog odvjetništva prema posebnom propisu.
+(5) Kada se utvrdi da je zbog neprovođenja zaštite od požara došlo do požara s većom materijalnom štetom, Ministarstvo, odnosno nadležna policijska uprava obavještava jedinicu lokalne i područne (regionalne) samouprave na čijem području je došlo do požara radi traženja povrata troškova vatrogasne intervencije u skladu sa propisom kojim se uređuje područje vatrogastva.
+(6) Osiguravajuća društva će pratiti i analizirati stanje predmeta osiguranja zaštite od požara ovisno o uzroku požara i materijalnoj šteti te mogu predlagati mjere i financijski poticati stručne studije, projekte i programe razvoja sigurnih tehnologija, kao i primjenu inženjerskih metoda kojima se smanjuje ili sprječava nastanak i širenje požara.

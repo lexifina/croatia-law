@@ -1,0 +1,4 @@
+## VI. ORGANIZACIJA I USTROJ ZAŠTITE OD POŽARA
+# Članak 19.
+(1) Jedinice lokalne i područne (regionalne) samouprave organiziraju zaštitu od požara na svom području kao javnu službu te skrbe o stanju zaštite od požara na svom području sukladno odredbama ovoga Zakona, propisima donesenim na temelju njega, planovima zaštite od požara, općim aktima i drugim odlukama, kao i priznatim pravilima tehničke prakse.
+(2) Vlasnici odnosno korisnici građevina i drugih nekretnina te prostora odnosno upravitelji zgrada organiziraju zaštitu od požara te skrbe o stanju zaštite od požara sukladno odredbama ovoga Zakona, propisima donesenim na temelju njega, odlukama i planovima tijela državne uprave i jedinica lokalne i područne (regionalne) samouprave, općim aktima pravnih osoba, procjenama ugroženosti i planovima zaštite od požara.

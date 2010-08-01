@@ -1,0 +1,4 @@
+# Članak 68.
+Pravne i fizičke osobe ovlaštene za obavljanje poslova na temelju Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) nastavljaju s obavljanjem poslova kao osobe ovlaštene prema odredbama ovoga Zakona, osim:
+– pravnih ili fizičkih osoba odnosno stručnih službi iz članka 41. ovoga Zakona ovlaštenih na temelju članka 22. stavka 5. Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) za obavljanje poslova održavanja vatrogasnih aparata, koje su dužne uskladiti svoje poslovanje s odredbom članka 41. ovoga Zakona do 1. listopada 2011. godine,
+– pravnih osoba ovlaštenih na temelju članka 21. stavka 7. Zakona o zaštiti od požara (»Narodne novine«, br. 58/93., 33/05., 107/07. i 38/09.) za izdavanje isprava o ispravnosti i podobnosti za namijenjenu svrhu kojima prestaje ovlaštenje danom pristupanja Republike Hrvatske Europskoj uniji.

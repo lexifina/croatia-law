@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su posjedovati uređaje, opremu i sredstva za gašenje požara.
+(2) Vlasnici, odnosno korisnici građevina, građevinskih dijelova i drugih nekretnina te prostora, odnosno upravitelji zgrada dužni su sukladno propisima, tehničkim normativima, normama i uputama proizvođača održavati u ispravnom stanju postrojenja, uređaje i instalacije električne, plinske, ventilacijske i druge namjene, dimnjake i ložišta, kao i druge uređaje i instalacije, koji mogu prouzročiti nastajanje i širenje požara te o održavanju moraju posjedovati dokumentaciju.

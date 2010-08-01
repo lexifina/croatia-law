@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Svatko tko primijeti neposrednu opasnost od nastanka požara ili požar odmah će sukladno svojim psihofizičkim sposobnostima pristupiti otklanjanju opasnosti, odnosno gašenju požara, vodeći pri tome računa da ne dovede u opasnost sebe ili drugu osobu.
+(2) Ukoliko osoba iz stavka 1. ovoga članka nije uspjela otkloniti opasnosti, odnosno ugasiti požar, dužna je obavijestiti Centar 112, najbližu vatrogasnu postrojbu ili policiju, odnosno postupiti prema planu zaštite od požara.
+(3) Pravne osobe i jedinice lokalne i područne (regionalne) samouprave dužne su, na način i pod uvjetima utvrđenim zakonom i propisima donesenim na temelju njega te planovima zaštite od požara, svojim alatom, opremom, tehničkim i prijevoznim sredstvima, a fizičke osobe i svojim radom, sudjelovati u gašenju požara i spašavanju ljudi i imovine ugroženih požarom.

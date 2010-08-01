@@ -1,0 +1,6 @@
+# Članak 40.
+(1) Ispravnost i funkcionalnost izvedenih stabilnih sustava, uređaja i instalacija za otkrivanje i dojavu te gašenje požara, sustava, uređaja i instalacija za otkrivanje i dojavu prisutnosti zapaljivih plinova i para, kao i drugih ugrađenih sustava, uređaja i instalacija za sprječavanje širenja požara (u daljnjem tekstu: stabilni sustavi zaštite od požara) provjerava korisnik, sukladno uputi proizvođača, o čemu mora postojati evidencija, a pravna osoba ovlaštena od strane ministra, najmanje jednom godišnje, o čemu se izdaje uvjerenje.
+(2) Način provjere ispravnosti i funkcionalnosti izvedenih stabilnih sustava zaštite od požara, kao i uvjete za davanje ovlaštenja iz stavka 1. ovoga članka propisuje ministar.
+(3) Ocjenu ispunjavanja propisanih uvjeta iz stavka 2. ovoga članka ministar može povjeriti drugoj, za to osposobljenoj, pravnoj osobi.
+(4) Stabilni sustavi zaštite od požara iz stavka 1. ovoga članka moraju biti propisno označeni, uvijek dostupni te se namjenski koristiti.
+(5) Ministar će rješenjem oduzeti ovlast pravnoj osobi iz stavka 1. ovoga članka ako se u provedbi inspekcijskog nadzora utvrdi da ne ispunjava uvjete propisane za davanje ovlaštenja ili da stručne poslove za koje je ovlašten obavlja protivno ovom Zakonu ili propisima donesenim na temelju njega.
