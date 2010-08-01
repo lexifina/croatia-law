@@ -1,0 +1,2 @@
+# Članak 13.
+Dužnosnici koji su članovi nadzornih odbora trgovačkih društava od posebnog državnog interesa, prema Odluci o popisu trgovačkih društava od posebnog državnog interesa (»Narodne novine«, br. 132/09.), te trgovačkih društava u kojima Republika Hrvatska ima dionice ili udjele nastavljaju obavljati dužnost člana nadzornog odbora do imenovanja članova nadzornih odbora na temelju provedenog javnog natječaja.
