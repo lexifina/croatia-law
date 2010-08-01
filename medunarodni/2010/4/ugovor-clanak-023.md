@@ -1,0 +1,5 @@
+# Članak 23.
+TERITORIJALNA PRIMJENA
+1. Bilo koja država može, u vrijeme potpisivanja ili prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, odrediti državno područje ili državna područja na koja će se Konvencija primjenjivati.
+2. Bilo koja stranka može bilo kojeg kasnijeg datuma, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na bilo koje drugo u izjavi određeno državno područje za čije je međunarodne odnose ona odgovorna ili u čije je ime ovlaštena preuzimati obveze. Glede takvog državnog područja Konvencija stupa na snagu prvog datuma mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca od datuma kad glavni tajnik primi takvu izjavu.
+3. Bilo koja izjava dana prema dva prethodna stavka može se, glede bilo kojeg državnog područja određenog u takvoj izjavi, povući obaviješću upućenom glavnom tajniku. Povlačenje proizvodi učinak prvog datuma mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca od datuma kad glavni tajnik primi takvu obavijest.
