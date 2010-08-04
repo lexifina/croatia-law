@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009) i članka 17. stavka 1. Uredbe o osnivanju Hrvatskog zavoda za norme (»Narodne novine«, br. 154/2004, 44/2005 i 30/2010), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2010. godine donijela
