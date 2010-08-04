@@ -1,0 +1,1 @@
+Na temelju članka 11.a Zakona o sprječavanju sukoba interesa u obnašanju javnih dužnosti (»Narodne novine«, br. 163/2003, 94/2004, 48/2005, 141/2006, 60/2008, 38/2009 i 92/2010), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2010. godine donijela
