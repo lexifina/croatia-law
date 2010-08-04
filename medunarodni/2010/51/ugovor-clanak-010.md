@@ -1,0 +1,5 @@
+# Članak 10.
+PREDSTAVNIŠTVO
+1. Svaka ugovorna stranka dodijelit će određenim zračnim prijevoznicima druge ugovorne stranke pravo da u svrhu obavljanja ugovorenog prometa na njezino državno područje dovede i zadrži tehničko i komercijalno osoblje u mjeri potrebnoj za obavljanje tog prometa. Navedeno osoblje podlijegat će zakonima i drugim propisima te ugovorne stranke koji se odnose na ulazak i boravak na njezinom državnom području, te će mu se, na osnovu uzajamnosti, i s minimalnim kašnjenjem, dodijeliti potrebne dozvole za rad, radne vize ili drugi slični dokumenti.
+2. Potrebe za osobljem, prema mišljenju određenog zračnog prijevoznika, mogu biti zadovoljene njegovim vlastitim osobljem ili korištenjem usluga neke druge organizacije, tvrtke ili zračnog prijevoznika koji posluje na državnom području druge ugovorne stranke i koji je ovlašten za pružanje takvih usluga na državnom području te ugovorne stranke.
+3. U slučaju imenovanja glavnog zastupnika ili glavnog prodajnog zastupnika, taj će zastupnik biti imenovan u skladu s odgovarajućim primjenjivim zakonima i drugim propisima obiju ugovornih stranaka.

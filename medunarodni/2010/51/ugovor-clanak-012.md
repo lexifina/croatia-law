@@ -1,0 +1,6 @@
+# Članak 12.
+ODREDBE O KAPACITETU
+1. Postojat će pravedna i jednaka mogućnost za određene zračne prijevoznike obiju ugovornih stranaka za obavljanje ugovorenog zračnog prometa između njihovih državnih područja na bilo kojoj liniji navedenoj u Dodatku ovom Sporazumu.
+2. U obavljanju ugovorenog zračnog prometa, određeni zračni prijevoznici svake ugovorne stranke uzet će u obzir interese određenih zračnih prijevoznika druge ugovorne stranke tako da ne utječu neopravdano na promet koji potonji obavljaju u cijelosti ili na dijelu istih linija.
+3. Ugovoreni promet kojeg obavljaju određeni zračni prijevoznici ugovornih stranaka strogo će voditi računa o općim potrebama za prijevozom na određenim linijama i imat će kao svoj primarni zadatak osiguranje kapaciteta, sukladno razumnom faktoru popunjenosti, odgovarajućeg prijevozu sadašnjih i razumno predviđenih zahtjeva za budućim prijevozom prometa upućenog s državnog područja ili usmjerenog na državno područje ugovorne stranke koja je odredila zračne prijevoznike.
+4. Kapacitet koji će pružati i učestalost prijevoza koji će obavljati određeni zračni prijevoznici svake ugovorne stranke bit će dogovoreni između zrakoplovnih vlasti ugovornih stranaka.

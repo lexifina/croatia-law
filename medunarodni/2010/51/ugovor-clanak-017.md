@@ -1,0 +1,4 @@
+# Članak 17.
+INFORMACIJE I STATISTIKA
+1. Zrakoplovna vlast bilo koje od ugovornih stranaka će se pobrinuti da njezini određeni zračni prijevoznici dostave zrakoplovnoj vlasti druge ugovorne stranke, na njihov zahtjev, takva periodična ili druga statistička izvješća koja mogu biti razumno zatražena u svrhu pregleda kapaciteta koje u zračnom prometu pružaju određeni zračni prijevoznici prve ugovorne stranke. Takva će izvješća uključivati sve zatražene informacije kako bi se odredila količina prometa koju su prevezli ti zračni prijevoznici u ugovorenom zračnom prometu.
+2. Zrakoplovna vlast svake od ugovornih stranaka će, na zahtjev, dostaviti ili će se pobrinuti da njezini određeni zračni prijevoznici dostave zrakoplovnoj vlasti druge ugovorne stranke statističke podatke koji se odnose na promet prevezen na i s državnog područja te druge ugovorne stranke tijekom razdoblja koje je navedeno u zahtjevu, ali koje ne premašuje jednu prometnu sezonu IATA-e.

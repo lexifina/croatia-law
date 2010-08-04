@@ -1,0 +1,3 @@
+# Članak 22.
+OTKAZ
+Ovaj se Sporazum sklapa na neodređeno vrijeme. Bilo koja ugovorna stranka može u bilo kojem trenutku, u pisanom obliku obavijestiti drugu ugovornu stranku diplomatskim putem o svojoj odluci da otkaže ovaj Sporazum. U tom slučaju ovaj Sporazum prestaje dvanaest (12) mjeseci nakon datuma primitka obavijesti od druge ugovorne stranke, osim ako se obavijest o otkazu dogovorno ne povuče prije isteka tog razdoblja. Obavijest o otkazu istodobno se dostavlja i ICAO-u. U nedostatku potvrde primitka obavijesti o otkazu od strane druge ugovorne stranke, smatra se da je obavijest primljena četrnaest (14) dana nakon što je obavijest primio ICAO.
