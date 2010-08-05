@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom propisuje praćenje, analiza i predviđanje potreba tržišta rada za pojedinim zvanjima, te izrada i uzimanje u obzir preporuka za obrazovnu upisnu politiku, a u cilju provedbe dugoročne mjere pod točkom 8. Obrazovanje i znanost - Provedba reforma sustava obrazovanja u skladu s nalazima analiza potrebe tržišta rada, iz Plana provedbenih aktivnosti Programa gospodarskog oporavka, donijetog Zaključkom Vlade Republike Hrvatske, klase: 302-01/10-03/02, urbroja: 5030105-10-10, od 6. svibnja 2010. godine.
