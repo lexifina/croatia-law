@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 12. iza stavka 1. dodaje se stavak 2. koji glasi: »Iznimno od stavka 1. ovoga članka, odredbe ovoga Pravilnika ne primjenjuju se na slobodne zone, slobodna skladišta, carinska skladišta ili subjekte koji opskrbljuju pomorska prijevozna sredstva u prekograničnom prometu u koja se unose pošiljke koje se provoze preko područja Republike Hrvatske u neku treću zemlju, a potječu iz odobrenih objekata iz država članica Europske unije.«
