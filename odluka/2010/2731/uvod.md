@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 6. i članka 92. stavka 6. Zakona o trošarinama (»Narodne novine«, broj 83/09.) te članka 14b. Pravilnika o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu i akvakulturi (»Narodne novine«, broj 1/10., 44/10., 65/10. ispr. i 78/10.) ministar financija donosi
