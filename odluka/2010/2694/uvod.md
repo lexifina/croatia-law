@@ -1,0 +1,1 @@
+Temeljem članka 62. točke 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99, 15/2000, 127/2000, 59/2001, 199/2003 i 79/2007), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2010. godine donijela
