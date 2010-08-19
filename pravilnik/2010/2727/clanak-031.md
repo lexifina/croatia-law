@@ -1,0 +1,5 @@
+## VI. POLAGANJE DOPUNSKOG STRUČNOG ISPITA I PRIZNAVANJE INOZEMNE STRUČNE KVALIFIKACIJE
+# Članak 31.
+(1) Zaposlenicima u muzejima, te muzejima, galerijama i zbirkama unutar ustanova i drugih pravnih osoba, koji su položili stručni ispit u srodnim strukama, priznaje se stručni ispit sukladno ovom Pravilniku, te oni imaju pravo polagati dopunski stručni ispit iz muzejske struke.
+(2) Na traženje pristupnika iz stavka 1. ovoga članka, Povjerenstvo određuje koja će ispitna područja pristupnik polagati u dopunskom stručnom ispitu, kao i ispitno gradivo u okviru ispitnog programa za odgovarajuće zvanje, imajući u vidu program po kojem je pristupnik polagao stručni ispit u srodnoj struci.
+(3) Ako ispitni program prema kojem je pristupnik položio stručni ispit u srodnoj struci u potpunosti obuhvaća odgovarajući ispitni program iz ovoga Pravilnika, pristupnik ne polaže dopunski stručni ispit. Rješenje o priznavanju stručnog ispita u srodnoj struci donosi na prijedlog Povjerenstva ministar kulture.
