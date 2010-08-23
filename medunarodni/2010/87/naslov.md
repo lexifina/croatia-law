@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Europske komisije u vezi s Pripremnim mjerama za sudjelovanje Hrvatske u Programu za cjeloživotno učenje i programu Mladi na djelu u okviru programa IPA - komponenta Pomoć u tranziciji i jačanje institucija za 2009. godinu

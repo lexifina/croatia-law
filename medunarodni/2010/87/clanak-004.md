@@ -1,0 +1,2 @@
+# Članak 4.
+Provedba ovoga Zakona u nadležnosti je Ministarstva znanosti, obrazovanja i športa, te Ministarstva obitelji, branitelja i međugeneracijske solidarnosti, kao središnjih tijela državne uprave nadležnih za politike cjeloživotnog obrazovanja i politika vezanih uz mlade, te Agencije za mobilnost i programe Europske unije kao Agencije nadležne za provedbu Programa za cjeloživotno učenje i programa Mladi na djelu.

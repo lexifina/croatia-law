@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o financiranju između Vlade Republike Hrvatske i Europske komisije u vezi s Pripremnim mjerama za sudjelovanje Hrvatske u Programu za cjeloživotno učenje i programu Mladi na djelu u okviru programa IPA - komponenta Pomoć u tranziciji i jačanje institucija za 2009. godinu, potpisan u Bruxellesu 8. veljače 2010. godine i u Zagrebu 6. svibnja 2010. u izvorniku na engleskom jeziku.
