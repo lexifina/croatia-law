@@ -1,0 +1,4 @@
+# Članak 3.
+POSTUPCI
+1. U Hrvatskoj, zahtjev za odobrenje za obavljanje dohodovne djelatnosti šalje Švicarsko veleposlanstvo Ministarstvu vanjskih poslova i europskih integracija. Ministarstvo vanjskih poslova i europskih integracija obavještava Veleposlanstvo, pisano, najdulje u roku od trideset (30) dana da je osobi koja je u pratnji odobreno obavljanje takve dohodovne djelatnosti.
+2. U Švicarskoj, na zahtjev osobe koja je u pratnji, Ministarstvo vanjskih poslova izdaje ispravu koja potvrđuje da osoba u pitanju ne podliježe kvoti stranih radnika. Po predočenju ugovora o radu, ponude za zaposlenje ili izjave kojom se utvrđuje namjera samozapošljavanja i detaljno određuje potonje, osoba koja je u pratnji dobit će Ci dozvolu od nadležnih vlasti okruga kojom se odobrava početak obavljanja dohodovne djelatnosti. Ci dozvola daje se najdulje za razdoblje od dvije godine i može se produljiti pod uvjetom da su utvrđeni uvjeti zadovoljeni u vrijeme obnavljanja.
