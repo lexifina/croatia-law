@@ -1,0 +1,1 @@
+Na temelju članka 90. stavka 3. i članka 91. stavka 3. Zakona o veterinarstvu (»Narodne novine«, broj 41/07), te članka 70. stavka 4. Zakona o veterinarsko-medicinskim proizvodima (»Narodne novine«, broj 84/08) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
