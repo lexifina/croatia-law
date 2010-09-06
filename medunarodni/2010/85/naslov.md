@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Ugovora između Republike Hrvatske i Razvojne banke Vijeća Europe o izmjenama i dopunama Okvirnog ugovora o zajmu između Razvojne banke Vijeća Europe i Republike Hrvatske koji se odnosi na F/P 1498 (2004) - Projekt izgradnje objekata komunalne i društvene infrastrukture na hrvatskim otocima

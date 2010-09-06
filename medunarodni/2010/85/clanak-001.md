@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Ugovor između Republike Hrvatske i Razvojne banke Vijeća Europe o izmjenama i dopunama Okvirnog ugovora o zajmu između Razvojne banke Vijeća Europe i Republike Hrvatske koji se odnosi na F/P 1498 (2004) - Projekt izgradnje objekata komunalne i društvene infrastrukture na hrvatskim otocima, potpisan u Zagrebu 1. veljače 2010. i Parizu 19. veljače 2010., u izvorniku na engleskom jeziku.
