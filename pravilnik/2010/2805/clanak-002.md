@@ -1,0 +1,4 @@
+# Članak 2.
+Izrazi upotrijebljeni u ovom Pravilniku imaju slijedeće značenje:
+a) »upozorenje« je radnja kojom ovlašteni carinski službenik tijekom provođenja carinskog nadzora i carinske provjere, ukazuje osobi, da ona svojim ponašanjem, djelovanjem ili propuštanjem određene radnje može dovesti u opasnost svoju sigurnost, sigurnost druge osobe i sigurnost imovine, može počiniti kazneno djelo, carinski, trošarinski ili drugi prekršaj, odnosno može dovesti do nastanka drugih štetnih posljedica,
+b) »zapovijed« je radnja kojom ovlašteni carinski službenik, tijekom provođenja carinskog nadzora i carinske provjere, obvezuje osobu na određeno ponašanje, djelovanje, zabranu obavljanja ili propuštanje određene radnje u slučajevima utvrđenim carinskim, trošarinskim i drugim propisima za čije provođenje je nadležna Carinska uprava.
