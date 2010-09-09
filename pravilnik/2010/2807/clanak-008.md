@@ -1,0 +1,7 @@
+## 2. IZVIJEŠĆE O UPORABI VATRENOG ORUŽJA
+# Članak 8.
+Ovlašteni carinski službenik koji je upotrijebio vatreno oružje dužan je o tome bez odlaganja usmeno obavijestiti neposredno nadređenog službenika, Carinsku upravu, Središnji ured - Odsjek za operativnu komunikaciju i policiju, a u najkraćem roku podnijeti i pisano izviješće.
+Pisano izviješće iz stavka 1. ovog članka mora sadržavati: vrijeme i mjesto uporabe vatrenog oružja, ime i osobne podatke osobe protiv koje je vatreno oružje upotrijebljeno, pravnu osnovu, opis događaja, eventualno nastale posljedice, ime i prezime ovlaštenog carinskog službenika koji je vatreno oružje upotrijebio i podatke o očevicima.
+Neposredno nadređeni službenik iz stavka 1. ovog članka po primitku pisanog izvješća dužan je odmah, nakon primitka pisanog izvješća prikupiti potrebne obavijesti o okolnostima uporabe vatrenog oružja te ih zajedno s pisanim izvješćem i mišljenjem dostaviti na ocjenu pročelniku carinarnice u kojoj je službenik raspoređen i pomoćniku ravnatelja nadležne Službe.
+Pročelnik carinarnice i pomoćnik ravnatelja nadležne Službe, iz stavka 3. ovog članka, dužan je odmah, a najkasnije u roku od 24 sata od primitka pisanog izvješća o događaju, izvijestiti ravnatelja Carinske uprave o opravdanosti uporabe vatrenog oružja od strane ovlaštenog carinskog službenika, te poduzetim mjerama.
+Ovlašteni carinski službenik dužan je sastaviti službeno izvješće o uporabi vatrenog oružja koje dostavlja rukovoditelju ustrojstvene jedinice.
