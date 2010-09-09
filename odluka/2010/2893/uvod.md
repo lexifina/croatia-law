@@ -1,0 +1,1 @@
+Na temelju članka 100. Ustava Republike Hrvatske (»Narodne novine«, broj 85/10 - pročišćeni tekst) i članka 166. stavka 3., u vezi s člankom 166. stavkom 1. podstavkom 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, broj 33/02, 58/02, 175/03, 136/04, 76/07, 88/09 i 124/09), donosim
