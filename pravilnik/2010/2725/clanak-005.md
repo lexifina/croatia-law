@@ -1,0 +1,9 @@
+# Članak 5.
+U članku 10. stavku 1. riječi: »naknade za dozvolu za uporabu radiofrekvencijskog spektra i naknade za pokretne radijske postaje u pretplatničkom sustavu plaćanja usluge« zamjenjuju se riječima: »jednokratne ili godišnje naknade za dozvolu za uporabu radiofrekvencijskog spektra i naknade za krajnje radijske postaje u pretplatničkom sustavu plaćanja usluge«.
+Stavak 4. mijenja se i glasi:
+»(4) Visina jednokratne naknade za dozvolu za uporabu radiofrekvencijskog spektra iznosi 50.000.000 kuna. Jednokratna naknada plaća se najkasnije prigodom preuzimanja dozvole za uporabu radiofrekvencijskog spektra. Jednokratna naknada ne plaća se u slučaju izdavanja nove dozvole za uporabu radiofrekvencijskog spektra u svrhu usklađivanja uvjeta dodjele i uporabe radiofrekvencijskog spektra.«
+Stavak 5. mijenja se i glasi:
+»(5) Nositelj dozvole plaća godišnju naknadu za dozvolu za uporabu radiofrekvencijskog spektra u iznosu od 0,5% od ukupnoga godišnjeg bruto prihoda, ostvarenog obavljanjem djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu putem dodijeljenog radiofrekvencijskog spektra za javnu pokretnu komunikacijsku mrežu druge i treće generacije, u prethodnoj kalendarskoj godini. Godišnja naknada ne plaća se za prvu godinu valjanosti dozvole.«
+Stavak 6. mijenja se i glasi:
+»(6) Izvješće o iznosu ukupnoga godišnjeg bruto prihoda iz stavka 5. ovoga članka za prethodnu kalendarsku godinu nositelj dozvole obvezan je dostaviti Agenciji najkasnije do 31. ožujka tekuće godine. Ako nositelj dozvole posjeduje više od jedne dozvole za uporabu radiofrekvencijskog spektra za javne pokretne komunikacijske mreže druge i treće generacije, može dostaviti Agenciji jedno zajedničko izvješće o iznosu ukupnoga godišnjeg bruto prihoda u vezi s tim dozvolama.«
+U stavku 7. riječi: »svaku pokretnu radijsku postaju« zamjenjuju se riječima: »svaku krajnju radijsku postaju«.
