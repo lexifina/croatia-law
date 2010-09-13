@@ -1,0 +1,3 @@
+# Članak 2.
+Bazu zemljišnih podataka (BZP) na državnoj razini obuhvaća organizacijski i tehnološki objedinjeni skup harmoniziranih podataka koji se sastoje od podataka zemljišne knjige vođene elektroničkom obradom (skraćeno: »EOP zemljišna knjiga«) i od podataka katastra nekretnina vođenog elektroničkom obradom.
+Zajednički informacijski sustav (ZIS), osim podataka iz prethodnog stavka ovog Pravilnika, obuhvaća na državnoj razini i organizacijski i tehnološki objedinjeni skup ne harmoniziranih podataka koji se vode u digitalno vođenim zemljišnim knjigama i katastru zemljišta vođenog elektroničkom obradom podataka.
