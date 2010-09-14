@@ -1,0 +1,9 @@
+## Nadzor
+# Članak 11.
+1) Nadzor nad proizvodnjom reprodukcijskog sadnog materijala povrća i presadnica povrća u skladu s člankom 39. Zakona provodi ovlašteni dobavljač.
+2) Stručnu kontrolu dobavljača sadnog materijala u skladu s člankom 41. stavak 1. podstavak 2. Zakona provodi Zavod nasumičnom kontrolom kako bi se provjerilo udovoljavaju li reprodukcijski sadni materijal povrća i presadnice povrća uvjetima kvalitete propisanim ovim Pravilnikom.
+3) U slučaju povrede pravila prilikom provođenja nadzora pod stručnom kontrolom, za nadzornika za kojeg se utvrdi da je kriv, Zavod će u skladu s člankom 41. stavcima 4. i 5. Zakona predložiti Ministarstvu mjeru privremenog ili trajnog brisanja iz Upisnika.
+4) U slučaju povrede pravila o nadzoru iz stavka 4. ovoga članka svako certificiranje reprodukcijskog sadnog materijala povrća i presadnica povrća bit će poništeno uz zabranu stavljanja na tržište i povlačenja s tržišta reprodukcijskog sadnog materijala povrća i presadnica povrća, osim u slučaju da se dokaže da takav materijal i dalje ispunjava sve propisane zahtjeve.
+5) Naknadnu kontrolu reprodukcijskog sadnog materijala povrća i presadnica povrća u skladu s člankom 41. stavak 1. podstavak 4. Zakona provodi Zavod.
+6) Za naknadnu kontrolu iz stavka 5. ovoga članka uzima se uzorak od određenog broja partija reprodukcijskog sadnog materijala povrća i presadnica povrća. Uzorak uzima stručno osposobljena osoba Zavoda. Uzorci za naknadnu kontrolu provjeravaju se u poljskim pokusima i laboratorijskim analizama. Poljski pokusi i laboratorijske analize autentičnosti sorte provode se pri Zavodu, a analize na prisutnost štetnih organizama u ovlaštenom laboratoriju za analizu zdravstvenog stanja reprodukcijskog sadnog materijala povrća i presadnica povrća.
+7) Opseg naknadne kontrole iz stavka 5. ovoga članka utvrđuje se godišnjim planom kontrole koji donosi Zavod uz suglasnost Ministarstva.
