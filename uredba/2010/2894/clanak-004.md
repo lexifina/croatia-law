@@ -1,0 +1,5 @@
+# Članak 4.
+Naslov iznad članka 16. i članak 16. mijenjaju se i glase:
+»14. Samostalni odjel za pripremu i provedbu projekata Europske unije
+Članak 16.
+Samostalni odjel za pripremu i provedbu projekata Europske unije, u suradnji s ostalim upravama i odjelima Ministarstva, obavlja poslove pripreme i koordinacije izrade strateških dokumenata i operativnih programa za korištenje sredstava iz programa pomoći i fondova Europske unije, obavlja poslove vezane uz pripremu i prijavu projekata te izradu potrebne dokumentacije, koordinira i izrađuje izvješća o provedbi projekata, koordinira aktivnosti vezane uz osiguranje financijskih sredstava za provedbu projekata, prati provedbu programa prekogranične suradnje na području kulture i zaštite prirode, informira potencijalne korisnike o mogućnostima sufinanciranja projekata iz programa pomoći Europske unije, prati nacionalne propise i pravila Europske unije, zakonsku regulativu i procedure, te vodi dokumentaciju radi provođenja postupka revizije.«.
