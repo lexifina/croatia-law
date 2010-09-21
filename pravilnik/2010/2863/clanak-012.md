@@ -1,0 +1,5 @@
+## Promjene u obavljanju usluga
+# Članak 12.
+(1) U slučaju nastanka promjene podatka iz prijave davatelja usluga certificiranja, koji je upisan u Evidenciju, kao i promjene uvjeta za obavljanje certificiranja, nastale izmjene i dopune podataka ili uvjeta iz Evidencije moraju se prijaviti Ministarstvu u roku od 24 sata od trenutka nastanka promjene.
+(2) Prijavu izmjena i dopuna podataka ili uvjeta iz Evidencije podnosi davatelj usluga certificiranja ili njegov ovlašteni zastupnik u papirnatom obliku na propisanom obrascu, koji se nalazi u Prilogu 2. ovoga Pravilnika, koji je njegov sastavni dio.
+(3) Ministarstvo može objaviti sadržaj, oblik i format prihvatljivog zapisa elektroničkog oblika strukturiranog obrasca i sadržaja prijave za upis promjena odnosno dopunu podataka ili uvjeta u Evidenciji uz tehnološko rješenje kojim se osigurava pristup sadržaju kroz elektroničku komunikacijsku mrežu s raspoloživom i u javnosti prihvatljivim tehnologijama primjenom dostupnih računalnih programa i opreme na svojoj web-stranici.
