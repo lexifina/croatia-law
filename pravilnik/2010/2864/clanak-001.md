@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuju se mjere, postupci i oblici zaštite elektroničkog potpisa, i naprednog elektroničkog potpisa, sredstava za izradu elektroničkog potpisa i naprednog elektroničkog potpisa, ugradnja vremenskog žiga i naprednog vremenskog žiga, obavljanje usluga izdavanja vremenskog žiga i naprednog vremenskog žiga, zaštite sustava za obavljanje usluga certificiranja i podataka o potpisnicima, postupci provjere identiteta potpisnika prilikom izdavanja elektroničkih certifikata kao i najniži iznos svote za koju se osigurava rizik od odgovornosti za štete koji se kod davatelja usluga certificiranja koji izdaju kvalificirane certifikate pojavljuje kao obvezno osiguranje.

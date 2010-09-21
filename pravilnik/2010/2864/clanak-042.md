@@ -1,0 +1,5 @@
+# Članak 42.
+(1) Potpisnik koji traži uslugu certificiranja zahtjev za izdavanje certifikata podnosi osobno, poštom ili na drugi posredan način, u prijavnoj službi davatelja usluga certificiranja ili na drugom za to određenom mjestu.
+(2) Potpisnik pravno i materijalno odgovara za točnost i ispravnost podataka.
+(3) Davatelj usluga certificiranja može drugoj pravnoj osobi ugovorom povjeriti obavljanje poslova provjere identiteta i prikupljanja zahtjeva za izdavanje certifikata i osobnih podataka potpisnika.
+(4) Davatelj usluga certificiranja koji izdaje kvalificirane certifikate dužan je u cijelosti razmotriti i provjeriti podatke koje je potpisnik predao u zahtjevu za izdavanje certifikata te u prisustvu potpisnika provesti fizičku identifikaciju potpisnika temeljem osobne iskaznice ili druge javne isprave s fotografijom potpisnika kojima se potvrđuje identitet potpisnika koji traži uslugu certificiranja. U slučaju podnošenja zahtjeva za izdavanje certifikata poštom ili na drugi posredan način, fizička identifikacija potpisnika provodi se prilikom preuzimanja izdanog certifikata.

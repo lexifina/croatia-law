@@ -1,0 +1,3 @@
+# Članak 40.
+(1) Oprema koju koristi davatelj usluga certificiranja koji izdaje kvalificirane certifikate mora imati odgovarajući nivo zaštite. Smatrat će se da oprema udovoljava propisanim zahtjevima zaštite ukoliko su primjenjeni odgovarajući hrvatski normizacijski dokumenti, čiji je popis objavljen u »Narodnim novinama«, te ukoliko je ista usklađena najmanje s FIPS 140-1 (gornje razine).
+(2) Davatelj usluga certificiranja koji izdaje kvalificirane certifikate mora postupke i oblike zaštite sustava za cijelo vrijeme davanja usluga certificiranja usklađivati s trenutno važećim preporukama i normama u području zaštite i sigurnosti djelovanja informatičkih sredstava i sustava.
