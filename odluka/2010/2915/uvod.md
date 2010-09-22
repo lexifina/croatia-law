@@ -1,0 +1,1 @@
+Na osnovi članka 26. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09. i 33/10.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 14. sjednici održanoj 13. rujna 2010. godine donijelo je
