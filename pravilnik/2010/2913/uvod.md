@@ -1,0 +1,1 @@
+Na osnovi članka 19. stavka 3. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08., 94/09., 153/09. i 71/10.) i članka 26. točke 8. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09. i 33/10.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 14. sjednici održanoj 13. rujna 2010. godine donijelo je
