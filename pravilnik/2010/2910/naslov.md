@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjera strukturne politike u ribarstvu kroz "sufinanciranje troškova kupnje opreme, ribolovnih alata, plovila i pogonskih strojeva za obavljanje gospodarskog ribolova na moru" u 2010. godini
