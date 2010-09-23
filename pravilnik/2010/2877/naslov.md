@@ -1,0 +1,1 @@
+Pravilnik o uvjetima pod kojima se mogu unositi ili premještati određeni štetni organizmi, bilje, biljni proizvodi i drugi nadzirani predmeti namijenjeni za pokuse i znanstvene svrhe ili za potrebe sortne selekcije
