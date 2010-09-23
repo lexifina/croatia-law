@@ -1,0 +1,5 @@
+## Premještanje iz demarkiranih područja
+# Članak 6.
+(1) Pri premještanju osjetljivog bilja, drva i kore iz demarkiranih područja propisanih člankom 5. stavkom 2. ovoga Pravilnika u područja koja nisu demarkirana, kao i pri njihovom izvozu u treće zemlje, moraju biti ispunjeni zahtjevi iz Priloga, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(2) Prije premještanja osjetljivog drva, kore i bilja iz demarkiranih područja u ona koja nisu demarkirana nadležni će inspektor obaviti službene preglede radi provjere jesu li ispunjeni uvjeti iz točke 1. Priloga ovoga Pravilnika kako se premještanjem iz demarkiranih područja ne bi prenijela živa borova nematoda. Službeni pregledi moraju se obavljati na mjestima iz kojih osjetljivo drvo, kora i bilje napuštaju demarkirano područje. O rezultatima službenih pregleda nadležni inspektor izvješćuje nadležnu upravu u pisanom obliku jednom tjedno.
+(3) O rezultatima službenih pregleda iz stavka 2. ovoga članka nadležna uprava izvješćuje Europsku komisiju i druge članice Europske unije.

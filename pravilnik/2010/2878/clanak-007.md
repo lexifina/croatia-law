@@ -1,0 +1,6 @@
+## Premještanje osjetljivog drva, kore i bilja podrijetlom iz Portugala
+# Članak 7.
+(1) Nadležni inspektor obavlja službene preglede osjetljivog drva, kore i bilja podrijetlom iz Portugala koji se premještaju unutar teritorija Republike Hrvatske. Ovi pregledi uključuju provjeru isprava, provjeru jesu li stavljene oznake u skladu s odredbama propisanim ovim Pravilnikom, provjeru identiteta i, kad je to potrebno, provjeru zdravstvenog stanja koja može uključiti i testiranje na prisutnost borove nematode.
+(2) Učestalost obavljanja službenih pregleda iz stavka 1. ovoga članka ovisi o riziku koji postoji obzirom na unošenje različitih vrsta osjetljivog drva, kore i bilja i o tome koliko je stranka odgovorna za izvoz osjetljivog drva, kore i bilja udovoljavala zahtjevima propisanim ovim Pravilnikom u prethodnom poslovanju.
+(3) Kad se službenim pregledom iz stavka 2. ovoga članka utvrdi da nisu ispunjeni zahtjevi iz stavka 1. i 2. ovoga članka, nadležni će inspektor narediti mjere iz članka 23. Zakona.
+(4) Europska komisija će sastaviti popis područja za koja je poznato da se u njima ne pojavljuje borova nematoda i dostaviti ga Stalnom odboru za biljno zdravstvo i državama članicama. Sva područja u Portugalu koja neće biti na tom popisu smatrat će se demarkiranim područjima.
