@@ -1,0 +1,6 @@
+# Članak 3.
+Načini, postupci i elementi vrednovanja
+(1) Načini, postupci i elementi vrednovanja postignute razine kompetencija proizlaze iz nacionalnoga i predmetnoga kurikuluma, nastavnoga plana i programa, strukovnoga kurikuluma, školskoga kurikuluma te ovoga Pravilnika i pravila ponašanja učenika koje donosi škola.
+(2) Elemente ocjenjivanja određenoga nastavnoga predmeta te načine i postupke vrednovanja izrađuje učitelj/nastavnik određenoga nastavnoga predmeta s učiteljima/nastavnicima istoga nastavnoga predmeta, odnosno odgojno-obrazovnoga područja na lokalnoj, regionalnoj, odnosno nacionalnoj razini.
+(3) Uspjeh učenika u ocjenjivanju uratka, praktičnoga rada, pokusa, izvođenja laboratorijske i druge vježbe, nastupa (umjetničke: glazbene, plesne i likovne škole), ocjenjuje se temeljem primjene učenikova znanja u izvođenju zadatka, samostalnosti i pokazanih vještina, korištenju materijala, alata, instrumenata i drugih pomagala te primjeni sigurnosnih mjera prema sebi, drugima i okolišu.
+(4) Načine, postupke i elemente vrednovanja u umjetničkim školama određuju stručna povjerenstva umjetničkih škola. Vrednovanje provodi ispitno povjerenstvo na javnim i internim nastupima te godišnjim ispitima.
