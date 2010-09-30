@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Za potrebe primjene ovoga Pravilnika, nadležno tijelo omogućuje veterinarskim stručnjacima Komisije da, u slučaju gdje je to potrebno, u suradnji s nadležnim tijelom provedu nadzore na licu mjesta. Osobe koje provode ove nadzore moraju provoditi posebne mjere osobne higijene potrebne da bi se isključila opasnost prijenosa bolesti.
+(2) Nadležno tijelo osigurava veterinarskim stručnjacima Komisije svaku potrebnu pomoć prilikom obavljanja nadzora iz stavka 1. ovoga članka. Prije sastavljanja i objave konačnog izvješća, nadležno tijelo je dužno sa stručnjacima Komisije raspraviti ishod nadzora.
+(3) Nadležno tijelo poduzima sve potrebne mjere u svrhu uklanjanja nesukladnosti utvrđenih tijekom nadzora iz stavka 1. ovoga članka.
+(4) S obzirom na odnose s trećim zemljama primjenjuju se odredbe Poglavlja III. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola živih životinja u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 154/08, 154/09 i 28/10)[2].
