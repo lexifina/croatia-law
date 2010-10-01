@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točke 4. i članka 36. stavka 3. točke. 2. Zakona o elektroničkim komunikacijama (»Narodne novine« broj 73/08), u postupku javnog natječaja za odabir operatora za pružanje univerzalnih usluga, Vijeće Hrvatske agencije za poštu i elektroničke komunikacije, na sjednici održanoj 1. listopada 2010. godine donijelo je
