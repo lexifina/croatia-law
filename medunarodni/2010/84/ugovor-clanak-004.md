@@ -1,0 +1,2 @@
+# Članak 4.
+Parametre plinovoda, uključivo njegov kapacitet, trasu i opseg potrebne infrastrukture određuju osnivači tijekom pripreme studije izvedivosti imajući u vidu parametre sustava plinovoda. Na prijedlog društva ili njegovih osnivača, hrvatska stranka će, u najkraćem mogućem roku, u skladu sa zakonodavstvom Republike Hrvatske, odobriti trasu plinovoda na državnom području Republike Hrvatske.

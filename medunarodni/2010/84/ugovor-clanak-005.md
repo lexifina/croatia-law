@@ -1,0 +1,5 @@
+# Članak 5.
+Stranke polaze od suglasnosti da će osnivači pripremiti studiju izvedivosti najkasnije do 30. prosinca 2010. godine. Osnivači će donijeti odluku o izgradnji plinovoda najkasnije 24 mjeseca od datuma primitka studije izvedivosti, ovisno o rezultatima te studije.
+Ruski osnivač će razmotriti mogućnost povećanja količina isporuke prirodnog plina iz Ruske Federacije u Republiku Hrvatsku kroz plinovod po tržišnim uvjetima, uključujući mogućnost isporuke plina pravnom subjektu kojeg odredi hrvatska stranka. Konkretne količine, uvjeti i rokovi takvih isporuka prirodnog plina određuju se odgovarajućim posebnim ugovorima.
+Jedan od uvjeta za početak izgradnje plinovoda je sklapanje dugoročnog ugovora između društva i ruskog osnivača ili pravne osobe ovlaštene od strane ruskog osnivača za transportiranje količina prirodnog plina kroz plinovod za unutarnje potrebe Republike Hrvatske.
+Na zahtjev društva ili osnivača hrvatska stranka će pružiti svu potrebnu pomoć za dobivanje izuzeća u odnosu na prava pristupa treće stranke kapacitetima plinovoda, na reguliranje tarifa i na pravila razdvajanja operatora sustava u cilju provedbe projekta.
