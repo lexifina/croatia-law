@@ -1,0 +1,3 @@
+# Članak 2.
+Sukladno svom unutarnjem zakonodavstvu ugovorne stranke će posebnu pozornost posvetiti razmjeni know-howa i praktičnih iskustava u različitim područjima turističke djelatnosti, kao što je suradnja na području turističke promidžbe, istraživanje i izrada promotivnih materijala.
+Ugovorne stranke će poticati suradnju na području obrazovanja za zanimanja u turističko-ugostiteljskoj djelatnosti i stručnog usavršavanja zaposlenih u turističkom sektoru, razmjenom informacija o obrazovnim programima/institucijama, profesionalnim usavršavanjem, i razmjenom studenata, predavača i stručnjaka iz obrazovnih institucija s područja turizma, te organiziranjem seminara za turističke čelnike i profesionalce.
