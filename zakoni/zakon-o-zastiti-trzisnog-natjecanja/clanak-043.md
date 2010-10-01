@@ -1,0 +1,2 @@
+# Članak 43.
+Ukoliko poduzetnik odbija dopustiti ulaz ovlaštenim osobama u poslovne prostorije, odnosno ukoliko sprječava uvid u poslovne knjige i drugu dokumentaciju, ili na bilo koji drugi način otežava provedbu nenajavljene pretrage, ovlaštene osobe mogu, uz pomoć djelatnika ministarstva nadležnog za unutarnje poslove, i protiv volje poduzetnika ući u poslovne prostorije i izvršiti uvid u poslovne knjige i drugu dokumentaciju.

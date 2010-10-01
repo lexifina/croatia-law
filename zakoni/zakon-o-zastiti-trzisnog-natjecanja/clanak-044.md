@@ -1,0 +1,3 @@
+# Članak 44.
+(1) Ukoliko postoji osnovana sumnja da se poslovne knjige i/ili druga dokumentacija koja se odnosi na postupak koji se vodi u Agenciji nalazi u prostorijama poduzetnika protiv kojeg nije pokrenut postupak, ili u stanu ili drugoj prostoriji koja ima istu, sličnu ili povezanu namjenu članova Uprave i radnika poduzetnika protiv kojeg je pokrenut postupak ili drugih osoba, nenajavljenoj pretrazi tih prostorija obvezno moraju nazočiti i dvije punoljetne osobe kao svjedoci.
+(2) Na nenajavljenu pretragu iz stavka 1. ovoga članka na odgovarajući način se primjenjuju odredbe članka 42.,43., 45. i 46. ovoga Zakona.

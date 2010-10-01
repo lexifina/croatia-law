@@ -1,0 +1,10 @@
+## Obveza prijave namjere provedbe koncentracije
+# Članak 17.
+(1) Radi ocjene dopuštenosti koncentracije, u smislu ovoga Zakona, sudionici koncentracije obvezni su Agenciji prijaviti svaku namjeru provedbe koncentracije ako su kumulativno ostvareni sljedeći uvjeti:
+1. ukupan godišnji konsolidirani prihod svih poduzetnika sudionika koncentracije ostvaren prodajom robe i/ili usluga (u daljnjem tekstu: ukupan prihod) na svjetskom tržištu, iznosi najmanje jednu milijardu kuna sukladno financijskim izvješćima za financijsku godinu koja je prethodila koncentraciji, ako najmanje jedan sudionik koncentracije ima sjedište i/ili podružnicu u Republici Hrvatskoj, i
+2. ukupan prihod svakog od najmanje dva sudionika koncentracije, u Republici Hrvatskoj, sukladno financijskim izvještajima iznosi najmanje 100.000.000 kuna, u financijskoj godini koja je prethodila koncentraciji.
+(2) Ako do podnošenja prijave koncentracije sudionici koncentracije nemaju zaključena godišnja financijska izvješća, kao mjerodavna godina u postupku ocjene koncentracije smatrat će se posljednja godina za koju sudionici koncentracije imaju zaključena godišnja financijska izvješća.
+(3) Prihod ostvaren prodajom robe odnosno pružanjem usluga između društava unutar koncerna (prihod unutar grupe) ne uzima se u obzir prilikom izračunavanja ukupnog godišnjeg prihoda iz stavka 1. ovoga članka.
+(4) U slučaju kad se koncentracija iz članka 15. stavka 1. ovoga Zakona odnosi na pripajanje ili spajanje dijela ili dijelova jednog ili više poduzetnika, neovisno o njihovom pravnom statusu, pri izračunu prihoda u smislu stavka 1. ovoga članka, obračunava se samo prihod onih dijelova poduzetnika koji su predmet koncentracije.
+(5) Dvije ili više transakcija u smislu stavka 4. ovoga članka koje su provedene u razdoblju od dvije godine, smatrat će se jednom koncentracijom, provedenom na dan posljednje transakcije.
+(6) Agencija ocjenjuje dopuštenost samo onih koncentracija koje podliježu obvezi prijave namjere provedbe koncentracije iz stavka 1. ovoga članka.
