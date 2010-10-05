@@ -1,0 +1,2 @@
+[1](*) Pravilnik preuzima sadržaj Direktive Komisije 2009/108/EZ od 17. prosinca 2009. kojom se radi prilagođavanja tehničkom napretku mijenja Direktiva 2002/24/EZ Europskog parlamenta i Vijeća o određenim sastavnim dijelovima i značajkama motornih vozila na dva ili tri kotača.
+(**) Radi jednostavnije uporabe, Pravilnik TPV 212, razdijeljen je na 12 dijelova od kojih se svaki odnosi na jednu zasebnu cjelinu. Ovaj dio odnosi se na dopuštenu razinu buke i ispušne sustave za motorna vozila na dva ili tri kotača, Poglavlje 9. Direktive 97/24/EZ.
