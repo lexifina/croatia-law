@@ -1,0 +1,1 @@
+Odluka o o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na području posebnog rezervata Malostonskog zaljeva i Malog mora
