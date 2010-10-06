@@ -1,0 +1,1 @@
+Na temelju članka 26. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2010. godinu (»Narodne novine«, br. 151/2009 i 103/2010), Vlada Republike Hrvatske je na sjednici održanoj 6. listopada 2010. godine donijela
