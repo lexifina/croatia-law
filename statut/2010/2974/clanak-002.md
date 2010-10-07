@@ -1,0 +1,3 @@
+# Članak 2.
+Turistička zajednica Primorsko-goranske županije (u daljnjem tekstu: Zajednica) smatra se osnovanom danom stupanja na snagu ovoga Statuta, a svojstvo pravne osobe stječe danom upisa u upisnik Ministarstva turizma. Prava i obveze Zajednice utvrđene su Zakonom o turističkim zajednicama i promicanju hrvatskog turizma (u daljnjem tekstu: Zakon) i ovim Statutom.
+Turistička zajednica Primorsko-goranske županije pravni je sljednik Turističke zajednice Primorsko-goranske županije upisane u Upisnik turističkih zajednica Ministarstva turizma, list broj 72, stranica A, upisni broj 58 (klasa: 334-03/94-03/76, urbroj. 529-02/94-0002) od 9. studenoga 1994. godine.

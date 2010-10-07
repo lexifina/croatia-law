@@ -1,0 +1,1 @@
+Na temelju odredbe članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« broj 152/08.), Skupština Turističke zajednice Primorsko-goranske županije, uz prethodnu suglasnost Ministarstva turizma, na sjednici održanoj 22. rujna 2010. godine, donijela je
