@@ -1,0 +1,1 @@
+Na temelju članka 206. stavka 8. Zakona o vodama (»Narodne novine«, broj 153/2009), na prijedlog Vijeća za vodne usluge, Vlada Republike Hrvatske je na sjednici održanoj 16. rujna 2010. godine donijela
