@@ -1,0 +1,3 @@
+# Članak 73.
+(1) Kada se prihodi koje naplate proračunski korisnici uplaćuju na račun nadležnog proračuna, proračunski korisnici evidentiraju potraživanje iz proračuna za uplaćena sredstva uz odobravanje analitičkog računa novčanih sredstava.
+(2) Kada se prihodi proračunskih korisnika uplaćuju izravno na račun nadležnog proračuna, proračunski korisnici evidentiraju prihode na odgovarajućem računu prihoda uz zaduživanje potraživanja iz proračuna za uplaćena sredstva. Nadležni proračun dužan je mjesečno dostaviti proračunskim korisnicima nalog za knjiženje prihoda u roku od 5 dana po isteku mjeseca u kojem su sredstva uplaćena na račun nadležnog proračuna.

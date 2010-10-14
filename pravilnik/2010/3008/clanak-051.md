@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Rashodi koji nastaju kontinuirano i obračunavaju se za kalendarska razdoblja tijekom proračunske godine (u pravilu mjesečno) kao što su: rashodi za zaposlene, komunalne usluge, opskrba energentima, telekomunikacijske usluge, najamnine i zakupnine, naknade za rad predstavničkih i izvršnih tijela, naknade građanima i kućanstvima na temelju osiguranja i druge naknade i slično, uključuju se u rashode razmjerno broju mjeseci u razdoblju za koje se izvještaji sastavljaju.
+(2) Rashodi iz prethodnog stavka koji se ne uključuju u tekuće izvještajno razdoblje iskazuju se kao aktivna vremenska razgraničenja - rashodi budućih razdoblja.

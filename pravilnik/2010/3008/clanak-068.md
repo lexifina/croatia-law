@@ -1,0 +1,2 @@
+# Članak 68.
+Skupine računa 63 - Pomoći iz inozemstva (darovnice) i od subjekata unutar općeg proračuna, 64 - Prihodi od imovine, 65 - Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada, 66 - Prihodi od prodaje proizvoda i robe te pruženih usluga i prihodi od donacija, 67 - Prihodi iz proračuna, 68 - Kazne i upravne mjere obuhvaćaju neporezne prihode proračuna i proračunskih korisnika.
