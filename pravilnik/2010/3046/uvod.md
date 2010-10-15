@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o audiovizualnim djelatnostima (»Narodne novine« br. 76/07) Hrvatsko audiovizualno vijeće na prijedlog ravnatelja Hrvatskog audiovizualnog centra, a uz prethodno pribavljeno mišljenje Ministarstva kulture, donosi

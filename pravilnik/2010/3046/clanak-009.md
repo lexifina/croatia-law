@@ -1,0 +1,4 @@
+## KOPRODUKCIJE FILMOVA S MANJINSKIM HRVATSKIM UDJELOM
+# Članak 9.
+Pri proizvodnji filmova s manjinskim hrvatskim udjelom (u daljnjem tekstu: manjinske koprodukcije) primjenjuju se pravila Europske konvencije o filmskoj koprodukciji (u daljnjem tekstu: Europska konvencija) i/ili važećih bilateralnih koprodukcijskih sporazuma koje je Republika Hrvatska sklopila s drugim zemljama.
+Pod manjinskim koprodukcijama podrazumijevaju se one koprodukcije u kojima je udio hrvatskog producenta/ice (uključujući potporu HAVC-a, vlastito ulaganje producenta/ice, ulaganje televizija, prodaju televizijskih prava, distribucijske ugovore, neizravna ulaganja itd.) najmanje 10% ukupnog proračuna filma i koje se mogu kvalificirati kao službene koprodukcije prema odredbama Europske konvencije i/ili važećim bilateralnim koprodukcijskim sporazumima koje je Republika Hrvatska sklopila s drugim zemljama.

@@ -1,0 +1,5 @@
+# Članak 50.
+Ukoliko umjetnički savjetnik u postupku razmatranja i vrednovanja utvrdi da je scenarij promijenjen bez znanja umjetničkog savjetnika tako da se bitno mijenja smisao odobrenog teksta, predložit će AV Vijeću odbijanje scenarija. Ako Vijeće odbije scenarij, nositelj projekta obvezan je vratiti HAVC-u dotad isplaćena sredstva.
+Ako se u tijeku rada na pisanju scenarija ukažu objektivne smetnje koje onemogućuju izvršenje preuzetih ugovornih obveza do ugovorenog roka (viša sila ili slične teškoće), nositelj projekta obvezan je o tome bez odlaganja obavijestiti HAVC.
+Ako nositelj projekta ne dostavi završen scenarij i ne zatraži procjenu u utvrđenom roku ili AV Vijeće na prijedlog umjetničkog savjetnika odbije završenu verziju scenarija, HAVC neće isplatiti 40% preostalih sredstava, a nositelj projekta obvezan je primljena sredstva vratiti u roku od 15 dana od dana primitka zahtjeva za povrat.
+Nositelj projekta obvezan je u svakom trenutku na traženje HAVC-a i umjetničkog savjetnika dati informacije o tijeku rada na scenariju te dati na uvid do tada napisan scenarij ili dijelove scenarija.
