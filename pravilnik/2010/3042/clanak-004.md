@@ -1,0 +1,2 @@
+# Članak 4.
+Novčana vrijednost standarda utvrđuje se u ukupnom godišnjem iznosu za pojedino pravo na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu na način i u visini utvrđenoj Zakonom, Zakonom o obveznom zdravstvenom osiguranju, Zakonom o zdravstvenoj zaštiti, posebnim propisima, općim aktima Zavoda i općim aktima Hrvatskog zavoda za zdravstveno osiguranje, a utvrđuje se na osnovi osiguranih sredstava u državnom proračunu Republike Hrvatske za tekuću kalendarsku godinu.

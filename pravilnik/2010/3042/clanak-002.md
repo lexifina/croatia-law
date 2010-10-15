@@ -1,0 +1,5 @@
+## II. ZDRAVSTVENI STANDARD
+# Članak 2.
+Standardi i normativi prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu utvrđeni ovim Pravilnikom, drugim općim aktima Zavoda, i općim aktima Hrvatskog zavoda za zdravstveno osiguranje, čine standard prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu u Republici Hrvatskoj (u daljnjem tekstu: standard), koji se pod jednakim uvjetima osigurava svim osiguranim osobama iz članaka 8. 9. i 10. Zakona prema vrsti i opsegu prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu utvrđenih člancima 4., 5. i 12. Zakona.
+Standard je uvjetovan strukturom zaposlenih, epidemiološkim pokazateljima, pobolom u pojedinoj grani gospodarstvene ili neke druge djelatnosti, veličinom trgovačkog društva, druge pravne osobe i fizičke osobe, odnosno tijela državne vlasti (u daljnjem tekstu: poslovni subjekti), raspoloživim zdravstvenim kapacitetima i osiguranim financijskim sredstvima.
+1. Pravo na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja zaštite zdravlja na radu
