@@ -1,0 +1,4 @@
+# Članak 51.
+(1) Za suca prekršajnog, općinskog, trgovačkog i upravnog suda može biti imenovana osoba koja je završila Državnu školu za pravosudne dužnosnike.
+(2) Za suca županijskog suda, Visokog prekršajnog suda Republike Hrvatske, Visokog trgovačkog suda Republike Hrvatske i Visokog upravnog suda Republike Hrvatske može biti imenovana osoba koja radi kao pravosudni dužnosnik najmanje 8 godina.
+(3) Za suca Vrhovnog suda Republike Hrvatske može biti imenovana osoba koja je najmanje 15 godina radila kao pravosudni dužnosnik, isto toliko godina bila odvjetnik, javni bilježnik, sveučilišni profesor pravnih znanosti koji ima položen pravosudni ispit i najmanje 15 godina radnog iskustva nakon položenog pravosudnog ispita i ugledni pravnik s položenim pravosudnim ispitom i najmanje 20 godina radnog iskustva, koji se dokazao svojim stručnim radom na određenom pravnom području, kao i stručnim i znanstvenim radovima.
