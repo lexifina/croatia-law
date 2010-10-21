@@ -1,2 +1,3 @@
 # Članak 81.
-Metodologiju izrade ocjene utvrdit će vijeće kojeg čine predsjednici svih sudačkih vijeća u Republici Hrvatskoj. Tom vijeću predsjeda predsjednik sudačkog vijeća Vrhovnog suda Republike Hrvatske, koji saziva sjednice tog vijeća. Sjednice vijeća moraju se sazivati kada to pisano zahtijeva jedna četvrtina svih predsjednika sudačkih vijeća u državi.
+Metodologiju izrade ocjene sudaca donosi Državno sudbeno vijeće, uz prethodno mišljenje Vijeća kojeg čine predsjednici svih sudačkih vijeća u Republici Hrvatskoj i Opće sjednice Vrhovnog suda Republike Hrvatske.
+Odredbom članka 21. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 153/09, stupio na snagu 29. prosinca 2009., izmijenjen članak 81.

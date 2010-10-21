@@ -2,5 +2,11 @@
 (1) Sud može imati sudske savjetnike i više sudske savjetnike.
 (2) Za sudskog savjetnika u sudu može biti primljena osoba koja ima završen sveučilišni diplomski studij prava i položen pravosudni ispit.
 (3) Za višega sudskog savjetnika u sudovima može biti imenovana osoba koja ima završen sveučilišni diplomski studij prava, položen pravosudni ispit i koja je radila najmanje dvije godine kao sudski savjetnik, državni odvjetnik ili zamjenik državnog odvjetnika, odvjetnik ili javni bilježnik, odnosno osoba koja je radila na drugim pravnim poslovima nakon položenoga pravosudnog ispita najmanje pet godina.
-(4) Sudski savjetnik u Vrhovnom sudu Republike Hrvatske, može biti osoba koja ispunjava uvjete propisane za suca općinskog suda.
-(5) Viši sudski savjetnik u Vrhovnom sudu Republike Hrvatske može biti osoba koja ispunjava uvjete propisane za suca županijskog suda.
+(4) Sudski savjetnik u Vrhovnom sudu Republike Hrvatske može biti osoba koja ima položen pravosudni ispit i koja je najmanje dvije godine radila kao sudski savjetnik, a viši sudski savjetnik u Vrhovnom sudu može biti osoba koja je najmanje 6 godina radila kao pravosudni dužnosnik ili bila sudski savjetnik najmanje 8 godina nakon položenog pravosudnog ispita, ili osoba koja je najmanje 12 godina nakon položenog pravosudnog ispita radila na drugim pravnim poslovima.
+Odredbom članka 32. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 116/10, stupio na snagu 21. listopada 2010., dio teksta dodan.
+(5) Polaznici Državne škole za pravosudne dužnosnike u sudu za koji su primljeni u Državnu školu za pravosudne dužnosnike zapošljavaju se na vrijeme od dvije godine kao viši sudski savjetnici.
+Odredbom članka 28. stavka 1. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 153/09, stupio na snagu 29. prosinca 2009., izmijenjeni stavci 4. i 5.
+(6) Nakon završetka Državne škole za pravosudne dužnosnike, višim savjetnicima iz stavka 5. ovoga članka vrijeme od dvije godine produžuje se do završetka postupka imenovanja za suca.
+(7) Ako viši savjetnik iz stavka 5. ovoga članka u roku utvrđenom posebnim zakonom ne završi Državnu školu za pravosudne dužnosnike, prestaje mu radni odnos u sudu u kojem je viši savjetnik primljen kao polaznik Državne škole za pravosudne dužnosnike.
+(8) Ako savjetnik i viši savjetnik iz stavka 1. i 2. ovoga članka koji je zaposlen u sudu pohađa Državnu školu za pravosudne dužnosnike, a u roku utvrđenom posebnim zakonom ne završi Državnu školu za pravosudne dužnosnike, nastavlja raditi u sudu u kojem je primljen.
+Odredbom članka 28. stavka 2. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 153/09, stupio na snagu 29. prosinca 2009., dodani stavci 6., 7. i 8.

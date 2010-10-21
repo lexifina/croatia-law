@@ -1,4 +1,4 @@
-## V. POSEBNE ODREDBE O UNUTARNJEM USTROJSTVU VRHOVNOG SUDAREPUBLIKE HRVATSKE
+## V. POSEBNE ODREDBE O UNUTARNJEM USTROJSTVU VRHOVNOG SUDA REPUBLIKE HRVATSKE
 # Članak 51.
 (1) U Vrhovnom sudu Republike Hrvatske osnivaju se Kazneni odjel, Građanski odjel, ustanovljuju se službe za praćenje, proučavanje i bilježenje sudske prakse pri odjelima, Ured predsjednika, odjel ili služba za informatiku, te jedinice stručnih i pomoćno-tehničkih službi.
 (2) Građanski odjel obuhvaća područja građanskoga, trgovačkog i upravnog prava.

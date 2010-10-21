@@ -1,7 +1,3 @@
 # Članak 77.
-U sudu u kojem sudac obnaša sudačku dužnost predsjednik suda utvrđuje za prethodnu kalendarsku godinu:
-1. je li sudac donio broj odluka koje je trebao donijeti na temelju okvirnih mjerila za rad sudaca, pri čemu će se utvrditi rezultat rada po vrstama predmeta, u apsolutnim brojevima i postotku, te navesti opravdane razloge ako sudac nije donio broj odluka na temelju okvirnih mjerila za rad sudaca,
-2. je li sudac poštovao rokove za donošenje i izradu odluka,
-3. kakve su odluke donesene u žalbenom postupku (potvrđene, ukinute ili preinačene), u apsolutnom broju, i u odnosu na ukupan broj donesenih odluka, te koliko je odluka ukinuto zbog bitnih povreda postupka,
-4. je li sudac sudjelovao u oblicima stručnog usavršavanja u Pravosudnoj akademiji, u postdiplomskim studijima, u kojima i kako, kao sudionik-polaznik ili kao predavač, je li objavljivao znanstvene i stručne radove ili sudjelovao kao nastavnik ili suradnik u nastavi na sveučilišnom diplomskom studiju prava, je li sudjelovao u radnim tijelima za pripremu nacrta propisa, te da li je upućen na rad u viši sud u smislu članka 103. i 104. ovoga Zakona. U takvim slučajevima sudac je najkasnije do 31. prosinca kalendarske godine dužan pisano izvijestiti predsjednika suda o obliku i trajanju aktivnosti,
-5. ostale aktivnosti i postupke koji omogućuju da se što potpunije utvrdi kako sudac ispunjava svoje sudačke obveze.
+Brisan.
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 153/09, stupio na snagu 29. prosinca 2009., brisan članak 77.

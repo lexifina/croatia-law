@@ -1,2 +1,3 @@
 # Članak 110.
-Postupak za imenovanje predsjednika suda pokreće ministar pravosuđa najkasnije tri mjeseca prije isteka mandata predsjednika suda, odnosno najkasnije 30 dana nakon prestanka dužnosti predsjednika suda iz drugih zakonom određenih razloga.
+Brisan.
+Odredbom članka 26. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 116/10, stupio na snagu 21. listopada 2010., brisan članak 110.

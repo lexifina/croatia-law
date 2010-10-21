@@ -5,5 +5,6 @@
 (4) Protiv odluke kojom se zahtjev za imenovanje sudskim tumačem odbija podnositelj ima pravo žalbe Ministarstvu pravosuđa u roku od 15 dana od dostave odluke.
 (5) Ministar pravosuđa propisat će pravilnikom način na koji će se utvrditi ispunjava li osoba uvjete za stalnoga sudskog tumača, njihova prava i dužnosti, te visinu nagrade i naknade troškova za njihov rad.
 (6) Županijski, odnosno trgovački sud vodi popis stalnih sudskih tumača imenovanih za njegovo područje.
-(7) Popis stalnih sudskih tumača za sve sudove objavljuje prema potrebi Ministarstvo pravosuđa u »Narodnim novinama«.
+(7) Popis stalnih sudskih tumača za sve sudove objavljuje se na web-stranicama Ministarstva pravosuđa.
+Odredbom članka 35. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 116/10, stupio na snagu 21. listopada 2010., izmijenjen stavak 7.
 2. Stalni sudski vještaci

@@ -1,2 +1,3 @@
 # Članak 73.
-Za suca može biti imenovan državljanin Republike Hrvatske, koji ima završen sveučilišni diplomski studij prava i položen pravosudni ispit, radno iskustvo u skladu s ovim Zakonom, stručnu sposobnost i iskazane radne sposobnosti.
+Brisan.
+Odredbom članka 12. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 116/10, stupio na snagu 21. listopada 2010., brisan članak 73.

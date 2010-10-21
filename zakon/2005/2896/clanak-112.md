@@ -1,3 +1,3 @@
 # Članak 112.
-(1) Na temelju podataka i mišljenja iz članka 111. ovoga Zakona sudačko vijeće utvrđuje kandidate koji ispunjavaju uvjete za predsjednika suda, i predlaže ministru pravosuđa da jednog od njih imenuje za predsjednika suda.
-(2) Prijedlog sudačkog vijeća mora biti obrazložen za svakog kandidata i mora sadržavati ocjenu obnašanja sudačke dužnosti iz članka 88. ovoga Zakona.
+Brisan.
+Odredbom članka 28. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 116/10, stupio na snagu 21. listopada 2010., brisan članak 112.

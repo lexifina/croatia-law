@@ -1,5 +1,6 @@
 # Članak 90.
-(1) Poslovi u sudu raspoređuju se na početku svake kalendarske godine.
+(1) Poslovi u sudu raspoređuju se na kraju svake kalendarske godine za sljedeću kalendarsku godinu.
+Odredbom članka 20. Zakona o izmjenama i dopunama Zakona o sudovima, »Narodne novine« br. 113/08, stupio na snagu 11. listopada 2008., izmijenjen stavak 1.
 (2) U sudovima u kojima nisu ustrojeni odjeli predmeti se raspoređuju po abecednom redu imena sudaca tako da svaki sudac dobije iz svakog upisnika po jedan predmet sve dok se svi predmeti ne rasporede sucima vodeći računa o ravnomjernoj podjeli predmeta u tijeku godine. Prilikom rasporeda poslova iz istog upisnika vodit će se računa o vrsti i složenosti predmeta.
 (3) U sudovima u kojima su ustanovljeni odjeli predmeti se dodjeljuju u rad po abecednom redu imena sudaca u odjelu po istom načelu kao u stavku 2. ovoga članka. Na isti način postupa se i sa preostalim predmetima sve dok se svi predmeti ne rasporede u rad vodeći računa o ravnomjernoj podjeli predmeta u tijeku godine.
-(4) Sudskim vijećima sudova drugog i trećeg stupanja predmeti se raspoređuju po abecednom redu imena predsjednika vijeća. Predsjednik sudskog vijeća drugog i trećeg stupnja predmete dodjeljuje u rad članovima vijeća po abecednom redu njihovih imena.
+(4) Sudskim vijećima sudova drugog i trećeg stupnja predmeti se raspoređuju po abecednom redu imena predsjednika vijeća. Predsjednik sudskog vijeća drugog i trećeg stupnja predmete dodjeljuje u rad članovima vijeća po abecednom redu njihovih imena.
