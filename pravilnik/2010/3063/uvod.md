@@ -1,0 +1,1 @@
+Na temelju članka 6. st. 6. i članka 32. st. 5. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« br. 123/03, 198/03, 105/04, 174/04 i 46/07) Nacionalno vijeće za znanost RH je na svojoj 60. sjednici, održanoj 9. rujna 2010. godine, donijelo
