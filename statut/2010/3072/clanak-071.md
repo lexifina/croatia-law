@@ -1,0 +1,7 @@
+# Članak 71.
+Opći akti Turističkog ureda su:
+- o ustrojstvu,
+- o organizaciji i sistematizaciji radnih mjesta,
+- o radnim odnosima, disciplinskoj i materijalnoj odgovornosti zaposlenih,
+- o obračunu i isplati plaća, naknada plaća i ostala primanja,
+- drugi akti utvrđeni Statutom ili odlukom Turističkog vijeća
