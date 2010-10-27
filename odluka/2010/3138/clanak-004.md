@@ -1,0 +1,8 @@
+# Članak 4.
+U Međunarodnom standardu financijskog izvještavanja 7 - Financijski instrumenti: objavljivanje, mijenja se točka 44.G (novi tekst je podcrtan, a brisani tekst precrtan) i dodaje se fusnota koje glase:
+»DATUM STUPANJA NA SNAGU I PRIJELAZNE ODREDBE
+44.G Izmjenama i dopunama MSFI-ja 7 iz ožujka 2009. godine »Dorada podataka koji se objavljuju o financijskim instrumentima« izmijenjene su točke 27., 39. i B11. i dodane točke 27A., 27B., B10.A. te B11A.-B11F. Subjekt je dužan navedene izmjene i dopune primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. siječnja 2009. godine. Subjekt nije dužan objaviti podatke propisane izmjenama i dopunama za:
+a) bilo koje godišnje razdoblje ili razdoblje unutar izvještajne godine, uključujući izvještaj o financijskom položaju za razdoblje unutar izvještajne godine koji je prikazan u sklopu godišnjeg usporednog razdoblja koje završava prije 31. prosinca 2009. godine niti
+b) bilo koji izvještaj o financijskom položaju s danom početka najranijeg usporednog razdoblja koje je započelo s danom prije 31. prosinca 2009. godine.
+Dopuštena je ranija primjena. Ako subjekt primijeni spomenute izmjene i dopune na neko ranije razdoblje, dužan je tu činjenicu objaviti.(*)
+(*) Točka 44.G izmijenjena je i dopunjena kao posljedica izmjene i dopune »Ograničeno izuzeće od objavljivanja usporednih podataka po MSFI-ju 7 »Objavljivanje podataka za subjekte koji prvi puta primjenjuju MSFI-jeve« (izmjena i dopuna MSFI-ja 1) objavljene u siječnju 2010. godine. Odbor je izmijenio i dopunio točku 44.G kako bi pojasnio svoje zaključke i namjere koje se tiču prijelaznog razdoblja za primjenu izmjena i dopuna MSFI-ja 7 »Dorada podataka koji se objavljuju o financijskim izvještajima».«
