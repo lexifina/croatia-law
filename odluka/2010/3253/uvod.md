@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točke 4. i članka 36. stavaka 4. Zakona o elektroničkim komunikacijama (»Narodne novine« broj 73/08), u predmetu određivanja operatora univerzalnih usluga, Vijeće Hrvatske agencije za poštu i elektroničke komunikacije, na sjednici održanoj 27. listopada 2010. godine donijelo je
