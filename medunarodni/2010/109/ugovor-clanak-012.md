@@ -1,0 +1,2 @@
+# Članak 12.
+Svaka osoba koju država članica odredi za svog glavnog stalnog predstavnika pri Organizaciji na državnom području druge države članice te oni članovi njegovog službenog osoblja s boravištem na tom državnom području kako mogu biti dogovoreni između države koja ih je imenovala i Organizacije te između Organizacije i države u kojoj će oni imati boravište, uživat će imunitete i povlastice koje se odobravaju diplomatskim predstavnicima i njihovom službenom osoblju odgovarajućeg ranga.

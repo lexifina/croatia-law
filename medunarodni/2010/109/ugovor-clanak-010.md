@@ -1,0 +1,2 @@
+# Članak 10.
+Iako Organizacija, u načelu, neće zahtijevati oslobođenje od davanja i poreza koji ulaze u cijenu pokretne i nepokretne imovine koja se prodaje, ipak će države članice u slučaju kad Organizacija u službene svrhe kupuje imovinu veće vrijednosti u čiju su cijenu uračunati ili se mogu uračunati takva davanja ili porezi usvojiti, kad god je to moguće, prikladne administrativne mjere radi naknade ili povrata iznosa tih davanja ili poreza.

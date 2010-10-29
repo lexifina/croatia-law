@@ -1,0 +1,2 @@
+# Članak 22.
+Povlastice i imuniteti odobravaju se službenim osobama i stručnjacima u interesu Organizacije, a ne radi njihove osobne koristi. Predsjedavajući zamjenika članova Vijeća ima pravo i dužnost odreći se imuniteta svake službene osobe ili stručnjaka u svakom slučaju kad bi, po njegovom mišljenju, imunitet ometao izvršenje pravde i kad ga se može odreći bez da šteti interesima Organizacije.

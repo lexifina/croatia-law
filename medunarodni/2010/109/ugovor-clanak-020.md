@@ -1,0 +1,2 @@
+# Članak 20.
+Pored imuniteta i povlastica predviđenih člancima 18. i 19., izvršnom tajniku Organizacije i koordinatoru Sjevernoatlantske obrambene proizvodnje, te drugim stalnim službenim osobama sličnog ranga kako može biti utvrđeno između predsjedavajućeg zamjenika članova Vijeća i vlada država članica, odobravaju se povlastice i imuniteti koji se uobičajeno odobravaju diplomatskim predstavnicima odgovarajućeg ranga.

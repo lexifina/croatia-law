@@ -1,0 +1,2 @@
+# Članak 5.
+Organizacija, njezina imovina i sredstva, bez obzira na to gdje se nalaze i u čijem su posjedu, uživaju imunitet od bilo kojeg pravnog postupka osim ako u pojedinom slučaju predsjedavajući zamjenika članova Vijeća, u ime Organizacije, izrijekom ne odobri odricanje od ovog imuniteta. Podrazumijeva se, međutim, da se odricanje od imuniteta ne proteže na bilo koju mjeru ovrhe ili zadržavanja imovine.

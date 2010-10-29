@@ -1,0 +1,4 @@
+# Članak 3.
+Organizacija i države članice u svako doba će surađivati, kako bi olakšale djelovanje pravosuđa, osigurale pridržavanje propisa koja uređuju rad policije i spriječile slučajeve zlouporabe vezane za imunitete i povlastice utvrđene u ovom Sporazumu. Smatra li neka država članica da je došlo do zlouporabe imuniteta ili povlastica dodijeljenih ovim Sporazumom, održat će se konzultacije između te države i Organizacije, ili između odnosnih država, kako bi se utvrdilo je li došlo do bilo kakve zlouporabe i, ukoliko jest, nastojat će se osigurati da se ne dogode ponovni slučajevi. Unatoč gore navedenome ili bilo kojim drugim odredbama ovoga Sporazuma, država članica koja smatra da je neka osoba zlouporabila svoju povlasticu boravka ili bilo koju drugu povlasticu ili imunitet koji su joj odobreni na temelju ovog Sporazuma može zatražiti od te osobe da napusti njezino državno područje.
+Dio II.
+ORGANIZACIJA

@@ -1,0 +1,2 @@
+# Članak 15.
+Povlastice i imuniteti ne odobravaju se predstavnicima država članica i njihovom osoblju radi njihove osobne koristi već radi osiguranja neovisnosti u obavljanju njihovih zadaća u vezi sa Sjevernoatlantskim ugovorom. Prema tome, država članica ne samo da ima pravo, nego i dužnost odreći se imuniteta svojih predstavnika i članova njihovog osoblja u svakom slučaju kad bi, po njezinu mišljenju, imunitet ometao izvršenje pravde i kad ga se može odreći bez da šteti svrsi za koju je odobren.
