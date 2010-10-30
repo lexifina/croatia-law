@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 152/08) Skupština Turističke zajednice Šibensko-kninske županije, uz prethodnu suglasnost ministra turizma, na sjednici održanoj 5. listopada 2010, donijela je
