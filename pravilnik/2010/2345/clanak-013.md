@@ -1,0 +1,4 @@
+# Članak 13.
+Doktor iz članka 10. ovoga Pravilnika obvezan je čuvati tajnost, odnosno povjerljivost podataka iz medicinske dokumentacije pacijenta u Centralnom informacijskom sustavu zdravstva Republike Hrvatske (u daljnjem tekstu: CEZIH) sukladno Pravilniku o uporabi i zaštiti podataka iz medicinske dokumentacije pacijenata u Centralnom informacijskom sustavu zdravstva Republike Hrvatske.
+Osim doktora iz članka 10. ovoga Pravilnika, sukladno stavku 1. ovoga članka obvezni su postupati i ovlašteni proizvođači, odnosno izvršitelji održavanja programske podrške u dijelovima integralnog informacijskog sustava te svi drugi subjekti, odnosno neovlašteni korisnici koji mogu doći u doticaj sa sustavom i/ili podacima.
+Doktor iz članka 10. ovoga Pravilnika obvezan je čuvati tajnost, odnosno povjerljivost podataka iz medicinske dokumentacije pacijenta u CEZIH-u i nakon prestanka ovlaštenja temeljem kojega ima pravo pristupa tim podacima.
