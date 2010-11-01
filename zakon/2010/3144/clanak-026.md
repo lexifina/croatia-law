@@ -1,0 +1,22 @@
+# Članak 26.
+Iznimno od članka 30. Zakona o mirovinskom osiguranju (članak 8. ovoga Zakona), pravo na starosnu mirovinu stječe osiguranik (žena) kada navrši 15 godina mirovinskog staža i
+- u 2010. godini - 60 godina života,
+- u 2011. godini - 60 godina i 3 mjeseca života,
+- u 2012. godini - 60 godina i 6 mjeseci života,
+- u 2013. godini - 60 godina i 9 mjeseci života,
+- u 2014. godini - 61 godinu života,
+- u 2015. godini - 61 godinu i 3 mjeseca života,
+- u 2016. godini - 61 godinu i 6 mjeseci života,
+- u 2017. godini - 61 godinu i 9 mjeseci života,
+- u 2018. godini - 62 godine života,
+- u 2019. godini - 62 godine i 3 mjeseca života,
+- u 2020. godini - 62 godine i 6 mjeseci života,
+- u 2021. godini - 62 godine i 9 mjeseci života,
+- u 2022. godini - 63 godine života,
+- u 2023. godini - 63 godine i 3 mjeseca života,
+- u 2024. godini - 63 godine i 6 mjeseci života,
+- u 2025. godini - 63 godine i 9 mjeseci života,
+- u 2026. godini - 64 godine života,
+- u 2027. godini - 64 godine i 3 mjeseca života,
+- u 2028. godini - 64 godine i 6 mjeseci života,
+- u 2029. godini - 64 godine i 9 mjeseci života.
