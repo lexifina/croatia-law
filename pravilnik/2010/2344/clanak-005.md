@@ -1,0 +1,2 @@
+# Članak 5.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o provedbi Zakona o evidencijama u oblasti zdravstva za primarnu i specijalističko-konzilijarnu zdravstvenu zaštitu (»Narodne novine«, br. 4/95) u dijelu koji se odnosi na način izrade izvješća tima opće/obiteljske medicine, dentalne medicine, zdravstvene zaštite dojenčadi i predškolske djece, zdravstvene zaštite žena i specijalističko konzilijarnu zdravstvenu zaštitu.

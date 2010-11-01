@@ -1,0 +1,4 @@
+# Članak 4.
+Ovlaštene osobe iz članka 3. ovoga Pravilnika obvezne su čuvati tajnost, odnosno povjerljivost podataka iz medicinske dokumentacije pacijenta iz CEZIH-a sukladno odredbama Zakona o tajnosti podataka (»Narodne novine« 79/07, odnosno odredbama Zakona o zaštiti osobnih podataka (»Narodne novine« br. 103/03, 118/06 i 41/08).
+Osim ovlaštenih osoba iz članka 3. ovoga Pravilnika, sukladno stavku 1. ovoga članka obvezni su postupati i ovlašteni proizvođači, odnosno izvršitelji održavanja programske podrške u dijelovima integralnog informacijskog sustava te svi drugi subjekti, odnosno neovlašteni korisnici koji mogu doći u doticaj sa sustavom i/ili podacima.
+Ovlaštene osobe iz članka 3. ovoga Pravilnika obvezne su čuvati tajnost, odnosno povjerljivost podataka iz medicinske dokumentacije pacijenta u CEZIH-u i nakon prestanka ovlaštenja temeljem kojega imaju pravo pristupa tim podacima.
