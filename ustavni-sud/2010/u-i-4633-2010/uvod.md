@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Mato Arlović, Slavica Banić, Mario Jelušić, Davor Krapac, Ivan Matija, Antun Palarić, Aldo Radolović, Duška Šarin i Miroslav Šeparović, rješavajući o prijedlogu za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj 28. listopada 2010. donio je
