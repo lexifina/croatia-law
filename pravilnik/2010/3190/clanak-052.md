@@ -1,0 +1,2 @@
+# Članak 52.
+U članku 82. stavku 5. točki 1. riječi: »iznosa ukupnog godišnjeg dohotka« zamjenjuju se riječima: »iznosa ukupno u godišnjoj poreznoj prijavi iskazanog godišnjeg dohotka«, riječi: »i nagrade učenicima za vrijeme praktičnog rada i naukovanja« brišu se, a riječi: »za iznos izdataka za školovanje i stručno usavršavanje« zamjenjuju se riječima: »za iznos državne potpore za obrazovanje i izobrazbu te za naukovanje za obrtnička zanimanja prema posebnim propisima«.
