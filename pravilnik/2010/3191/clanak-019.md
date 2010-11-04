@@ -1,0 +1,20 @@
+# Članak 19.
+U članku 47. stavku 3. točka 5. mijenja se i glasi:
+»5. Amortizacija. Na ovome rednom broju upisuje se iznos amortizacije iznad svote propisane u članku 12. stavku 13. Zakona, a koji je utvrđen na način propisan i u članku 22. stavku 3. ovoga Pravilnika. Na ovom rednom broju upisuje se i iznos amortizacije dugotrajne imovine iz članka 12. stavka 16. Zakona i svih pripadajućih troškova, te troškova najma i svih pripadajućih troškova za koje se uvećava porezna osnovica sukladno članku 12. stavcima 17., 18. i 19. Zakona.«
+Točka 8. mijenja se i glasi:
+»8. Manjkovi na imovini iznad visine utvrđene odlukom Hrvatske gospodarske komore, odnosno Hrvatske obrtničke komore, u smislu propisa o porezu na dodanu vrijednost, po kojoj osnovi se ne plaća porez na dohodak sukladno članku 7. stavku 1. točki 5. Zakona, te članku 26. Pravilnika. Na ovome rednom broju upisuje se iznos utvrđenih manjkova na imovini iznad visine utvrđene navedenim odlukama, a za koje se uvećava porezna osnovica sukladno navedenim člancima.«
+Točka 9. mijenja se i glasi:
+»9. Rashodi utvrđeni u postupku nadzora s pripadajućim porezom na dodanu vrijednost, porezom na dohodak, prirezom porezu na dohodak, te obveznim doprinosima koji su nastali u svezi skrivenih isplata dobiti, te izuzimanja dioničara, članova društva i fizičkih osoba koje obavljaju samostalnu djelatnost od koje se plaća porez na dobit, te s njima povezanim osobama sukladno članku 7. Zakona. Na ovome rednom broju upisuje se iznos takvih rashoda utvrđenih u postupku nadzora za koje se povećava porezna osnovica.«
+U točki 10. riječi »stavak 1. točka 7.« zamjenjuju se riječima »stavku 1. točki 6.«.
+U točki 11. riječi »stavak 1. točka 8.« zamjenjuju se riječima »stavku 1. točki 7.«.
+U točki 12. riječi »stavak 1. točka 9.« zamjenjuju se riječima »stavku 1. točki 8.«.
+U točki 13. riječi »stavak 1. točka 10.« zamjenjuju se riječima »stavku 1. točki 9.«.
+U točki 14. riječi »stavak 1. točka 11.« zamjenjuju se riječima »stavku 1. točki 10.«.
+Točka 25. mijenja se i glasi:
+»25. Povećanja dobiti za ostale prihode, te porezni gubitak za koji je prestalo pravo korištenja. Na ovome rednom broju iskazuju se povećanja dobiti ili smanjenja gubitka za prihode koji nisu iskazani računovodstvenoj dobiti, a uključuju se u poreznu osnovicu. Na ovome rednom broju iskazuje se i povećanje porezne osnovice za iznos poreznog gubitka za koji je prestalo pravo korištenja sukladno članku 17. stavku 6. Zakona, te članku 38. ovoga Pravilnika, a za koji je prestalo pravo korištenja sukladno članku 17. stavcima 5. i 7. Zakona.«
+Točka 31. mijenja se i glasi:
+»31. Smanjenje dobiti za ostale prihode. Na ovome rednom broju iskazuju se prihodi i druga povećanja porezne osnovice koja nisu iskazana u računovodstvenoj dobiti, te rashodi koji su kao privremeno porezno nepriznati bili uključeni u poreznu osnovicu u ranijim razdobljima, a ne iskazuju se posebno na drugom rednom broju. Trgovačka društva koja su registrirana i obavljaju brodarsku djelatnost, sukladno posebnim propisima, na ovom rednom broju iskazuju podatak od dobiti koju su ostvarili od iskorištavanja brodova u međunarodnoj plovidbi, te dobit koju ostvare od prodaje brodova, od prodaje dionica ili udjela u trgovačkim brodarskim društvima koja posluju u međunarodnoj plovidbi, kao niti na dobit od dividende od dionica koje imaju u trgovačkim brodarskim društvima koja posluju u međunarodnoj plovidbi. Porezni obveznici - trgovačka društva koja su registrirana i obavljaju brodarsku djelatnost sukladno posebnim propisima, ne mogu temeljem iskazanog podatka na ovom rednom broju, iskazati porezni gubitak.«
+Točka 34. mijenja se i glasi:
+»34. Ukupan iznos državne potpore za istraživačko-razvojne projekte i državne potpore za obrazovanje i izobrazbu. Na ovome rednom broju iskazuje se ukupni iznos državnih potpora iskazanih na rednim brojevima 34.1. i 34.2. prema članku 6. stavku 1. točki 5. Zakona.«
+Točka 34.3. briše se.
+U točki 56. riječi »rednom bruju upisuje se podatak u« zamjenjuju se riječima »rednom broju upisuje se podatak o«.

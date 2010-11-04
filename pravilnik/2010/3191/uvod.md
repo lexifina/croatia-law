@@ -1,0 +1,1 @@
+Na temelju članka 37. Zakona o porezu na dobit (»Narodne novine« broj 177/04, 90/05, 57/06, 146/08 i 80/10) i članka 14. stavka 2. Zakona o izmjenama i dopunama Zakona o porezu na dobit (»Narodne novine« broj 80/10) donosim

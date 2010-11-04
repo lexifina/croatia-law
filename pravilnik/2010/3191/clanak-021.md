@@ -1,0 +1,3 @@
+# Članak 21.
+U članku 49. iza stavka 8. dodaje se stavak 9. koji glasi:
+»(9) U naknade za autorska prava i druga prava intelektualnog vlasništva prema članku 31. Zakona spadaju i naknade za softver, stoga se porez po odbitku plaća ako naknada za softver ima elemente autorskih prava ili drugih prava intelektualnog vlasništva odnosno ako se radi o ustupanju autorskih prava na korištenje softvera radi prodaje ili radi daljnjeg razvitka pri čemu se ustupa na vremenski ograničeno korištenje zaštićeno autorsko pravo. Porez po odbitku ne plaća se na naknade za softver ako se radi o kupnji softvera za korištenje.«
