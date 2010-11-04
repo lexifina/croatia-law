@@ -1,0 +1,11 @@
+1. Ovim naputkom utvrđuje se način provedbe popisa osoba iz članaka 25. do 28. Zakona u objektima u nadležnosti ministarstava te provedba prethodnog popisa tih osoba.
+2. Popis osoba iz članaka 25. do 28. Zakona provodi se prema Metodologiji kojom se uređuje priprema, organizacija, provedba i obrada podataka Popisa, koju donosi ravnatelj Državnog zavoda za statistiku.
+3. Popis osoba iz članaka 25. do 28. Zakona provode povjerenstva za provedbu Popisa koje imenuju nadležni ministri. Predsjednik povjerenstva za provedbu Popisa jest ministar ili osoba koju ministar za to ovlasti.
+4. Organizaciju provedbe popisa osoba iz članaka 25. do 28. Zakona ministarstva određuju samostalno. Ministar će odrediti jednog člana povjerenstva koji će biti odgovoran za koordinaciju pripreme i provedbe Popisa.
+5. Radi osiguranja ispravne primjene Metodologije u pripremi, organizaciji i provedbi Popisa osoba iz članaka 25. do 28. Zakona ravnatelj Državnog zavoda za statistiku odredit će koordinatora, koji po potrebi može sudjelovati u radu povjerenstva Ministarstva.
+6. Ministarstva će prije redovitog Popisa provesti prethodni Popis osoba iz članaka 25. do 28. Zakona.
+7. Prethodni Popis osoba iz članaka 25. do 28. Zakona provodi se u razdoblju od 1. do 31. ožujka 2011., a redoviti popis u razdoblju od 1. do 28. travnja 2011. u skladu s člankom 3. Zakona.
+8. Za prethodni popis Ministarstvo vanjskih poslova i europskih integracija koristi se tzv. pomoćnom popisnicom, a Ministarstvo unutarnjih poslova, Ministarstvo obrane i Ministarstvo pravosuđa tzv. prethodnom popisnicom u skladu s Uputama Državnog zavoda za statistiku za provedbu prethodnog popisa.
+9. Državni zavod za statistiku organizirat će, u dogovoru s ministarstvima, stručno-metodološko osposobljavanje sudionika prethodnog popisa osoba iz članaka 25. do 28. Zakona, a redovitog popisa tih osoba u sklopu osposobljavanja ostalih sudionika Popisa.
+10. Zbog specifičnosti pojedinih kategorija osoba i zbog toga različitih postupaka pripreme i provedbe prethodnog i redovitog popisa Državni zavod za statistiku će za svako ministarstvo pripremiti posebne organizacijske upute za provedbu prethodnog i redovitog popisa.
+11. Ovaj naputak stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
