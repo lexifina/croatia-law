@@ -1,0 +1,1 @@
+Na temelju članka 14., stavka 2. točke 1. Zakona o morskom ribarstvu (»Narodne novine«, br. 56/10) i članka 6., stavka 1. Pravilnika o ulovu, uzgoju i prometu tuna (Thunnus thynnus) (»Narodne novine« br. 60/10 i 107/10), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
