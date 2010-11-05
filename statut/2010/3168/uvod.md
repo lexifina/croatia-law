@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 152/08) Skupština Turističke zajednice Međimurske županije na sjednici održanoj 11. listopada 2010. godine, uz prethodnu suglasnost Ministarstva turizma Republike Hrvatske (klasa: 334-03/10-03/96 urbroj: 529-05-10-04 od 2. srpnja 2010. godine) donijela je
