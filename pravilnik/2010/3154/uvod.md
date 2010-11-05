@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 2. i članka 34. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine« br. 149/09) i članka 42. stavka 3. Zakona o vinu (»Narodne novine« br. 96/03) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
