@@ -1,0 +1,9 @@
+# Članak 2.
+(1) Danom stupanja na snagu ovoga Zakona, Hrvatski centar za poljoprivredu, hranu i selo preuzima poslove, zaposlene, opremu, prava i obveze te financijska sredstva potrebna za obavljanje preuzetih poslova od Zavoda za sjemenarstvo i rasadničarstvo.
+(2) Upravno vijeće Centra dužno je u roku od 30 dana od stupanja na snagu ovoga Zakona donijeti Statut i druge opće akte Centra u skladu s odredbama ovoga Zakona.
+(3) Do stupanja na snagu akata iz stavka 2. ovoga članka i upisa promjena Centra u sudski registar na temelju ovoga Zakona, ostaju na snazi Statut i drugi opći akti Zavoda za sjemenarstvo i rasadničarstvo, ako nisu u suprotnosti s odredbama ovoga Zakona.
+(4) Nakon donošenja akata iz stavka 2. ovoga članka i upisa promjena Centra u sudski registar na temelju ovoga Zakona, prestaje s radom Zavod za sjemenarstvo i rasadničarstvo.
+(5) Stupanjem na snagu akata iz stavka 2. ovoga članka i upisa promjena Centra u sudski registar na temelju ovoga Zakona prestaje mandat ravnatelju Zavoda za sjemenarstvo i rasadničarstvo.
+(6) Nakon donošenja akata iz stavka 2. ovoga članka i upisa promjena Centra u sudski registar na temelju ovoga Zakona, Centar će preuzetim službenicima i namještenicima zatečenim na obavljanju poslova koji se preuzimaju ovim Zakonom ponuditi sklapanje ugovora o radu, a onima kojima se ne može ponuditi sklapanje ugovora o radu jer se ne mogu rasporediti otkazat će se radni odnos sukladno Zakonu o radu (»Narodne novine«, br. 149/09.).
+(7) Do sklapanja novih ugovora o radu, odnosno otkazivanja ugovora o radu, preuzeti službenici i namještenici nastavit će obavljati poslove utvrđene dosadašnjim ugovorima o radu i druge poslove po nalogu ravnatelja Centra.
+(8) Do sklapanja novih ugovora o radu, odnosno otkazivanju ugovora o radu, preuzeti službenici i namještenici zadržavaju pravo na plaću i druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
