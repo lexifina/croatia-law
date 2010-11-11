@@ -1,0 +1,1 @@
+Na temelju članka 7d. stavka 5. Zakona o brdsko-planinskim područjima (»Narodne novine« broj 12/02, 32/02, 117/03, 42/05, 90/05 i 80/08), ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva uz suglasnost ministra financija donosi
