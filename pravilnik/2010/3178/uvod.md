@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 4. Zakona o područjima posebne državne skrbi (»Narodne novine« broj 86/08), ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva uz suglasnost ministra financija donosi
