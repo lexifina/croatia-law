@@ -1,0 +1,1 @@
+Na temelju članka 30.b. stavak 5. Zakona o obnovi i razvoju Grada Vukovara (»Narodne novine« broj 44/01, 90/05, 80/08 i 38/09), ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva uz suglasnost ministra financija donosi
