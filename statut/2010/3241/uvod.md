@@ -1,0 +1,1 @@
+Na temelju članka. 12. i 14. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 152/08) Skupština Turističke zajednice Krapinsko-zagorske županije, uz prethodnu suglasnost Ministarstva turizma na sjednici održanoj 28. listopada 2010. godine donijela je
