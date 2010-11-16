@@ -1,0 +1,1 @@
+Naputak u svezi primjene pojedinih odredbi Zakona o poljoprivrednom zemljištu ("Narodne novine", broj 152/08 i 21/10) koje se odnose na raspolaganje poljoprivrednim zemljištem u vlasništvu Republike Hrvatske
