@@ -1,0 +1,6 @@
+## IV. NAČIN PRIJAVLJIVANJA ZA SUDJELOVANJE U POJEDINIM VRSTAMA STRUČNOG USAVRŠAVANJA
+# Članak 6.
+(1) Pravosudna akademija dostavlja poziv za sudjelovanje u pojedinoj vrsti stručnog usavršavanja predsjedniku suda odnosno Glavnom državnom odvjetniku RH, što je moguće ranije, a najkasnije 20 dana prije održavanja obrazovne aktivnosti. U pozivu je određen broj sudaca odnosno državnih odvjetnika koji mogu sudjelovati u konkretnoj obrazovnoj aktivnosti.
+(2) Predsjednik suda odnosno Glavni državni odvjetnik RH, na poziv Pravosudne akademije, odabire one suce odnosno državne odvjetnike koji su pokazali interes za sudjelovanje u pojedinoj obrazovnoj aktivnosti te o istima izvještava Pravosudnu akademiju.
+(3) Pri odabiru sudaca odnosno državnih odvjetnika koji će prisustvovati pojedinoj obrazovnoj aktivnosti Pravosudne akademije, predsjednik suda odnosno Glavni državni odvjetnik RH vodi računa o ravnomjernom prisustvovanju sudaca odnosno državnih odvjetnika sa svojega suda odnosno državnog odvjetništva, o području kojim se sudac odnosno državni odvjetnik bavi, kao i o ciljnoj skupini kojoj je pojedina obrazovna aktivnost namijenjena.
+(4) Naknadne prijave, u smislu odredbe stavka 3. ovoga članka, uzimaju se u obzir samo ako ima slobodnih mjesta.

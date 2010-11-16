@@ -1,0 +1,1 @@
+Na temelju članka 96. stavka 4. Zakona o sudovima (»Narodne novine« br. 150/05, 16/07, 113/08, 153/09) i članka 122. Zakona o državnom odvjetništvu (»Narodne novine« br. 76/09, 153/09), ministar pravosuđa donosi
