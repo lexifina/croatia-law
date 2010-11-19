@@ -1,0 +1,1 @@
+Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja industrijske djelatnosti proizvodnje električnih strojeva i uređaja u brodogradnji, na području koje je utvrđeno kao lučko područje luke posebne namjene - Brodogradilišta Uljanik
