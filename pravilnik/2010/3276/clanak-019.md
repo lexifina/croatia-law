@@ -1,0 +1,12 @@
+## Uravnoteženje transportnog sustava
+# Članak 19.
+(1) Operator transportnog sustava provodi uravnoteženje transportnog sustava na razini plinskog dana.
+(2) Operator transportnog sustava koristi operativnu akumulaciju u cilju održavanja redovnog pogona transportnog sustava i u cilju uravnoteženja transportnog sustava.
+(3) Operator transportnog sustava dužan je koristiti energiju uravnoteženja od ponuditelja energije uravnoteženja na godišnjoj razini i od ponuditelja energije uravnoteženja na dnevnoj razini, prema listi ponuda za energiju uravnoteženja.
+(4) Iznimno od stavka 3. ovoga članka, u svrhu opstojnosti transportnog sustava te uslijed tehničkih ograničenja, operator transportnog sustava ima pravo koristiti energiju uravnoteženja uzevši u obzir količinu i ulaz energije uravnoteženja u transportni sustav, odnosno količinu i izlaz energije uravnoteženja iz transportnog sustava, pri čemu ne mora poštivati redoslijed iz liste ponuda za energiju uravnoteženja.
+(5) U slučaju iz stavka 4. ovoga članka operator transportnog sustava ima obvezu dostaviti pisano obrazloženje operatoru tržišta plina o razlozima i načinu korištenja energije uravnoteženja.
+(6) Ukoliko energija uravnoteženja iz stavka 3. ovoga članka nije dostatna, operator transportnog sustava ima pravo i obvezu koristiti raspoloživu operativnu zalihu.
+(7) Ukoliko operativna zaliha nije raspoloživa ili nije dostatna za uravnoteženje transportnog sustava, operator transportnog sustava dužan je bez odlaganja o tome informirati voditelje bilančnih skupina, nakon čega su voditelji bilančnih skupina dužni sami poduzeti odgovarajuće mjere za uravnoteženje bilančne skupine koju organiziraju i vode.
+(8) Ukoliko je i nakon korištenja operativne akumulacije, energije uravnoteženja i operativne zalihe te mjera iz stavka 7. ovoga članka poduzetih od strane voditelja bilančnih skupina, ugrožen redovan pogon transportnog sustava, operator transportnog sustava ima pravo i obvezu smanjiti ili obustaviti preuzimanje ili predaju prirodnog plina pojedinim korisnicima transportnog sustava prema redoslijedu kojeg je unaprijed dostavio svaki voditelj bilančne skupine za bilančnu skupinu koju organizira i vodi.
+(9) Ukoliko voditelj bilančne skupine ne dostavi operatoru transportnog sustava listu korisnika sukladno članku 19. stavku 8. ovoga Pravilnika, operator transportnog sustava o tome obavještava Ministarstvo koje utvrđuje daljnje mjere.
+(10) Operator transportnog sustava dužan je o poduzetim mjerama iz stavka 8. ovoga članka bez odlaganja obavijestiti Ministarstvo.

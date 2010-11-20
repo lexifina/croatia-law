@@ -1,0 +1,3 @@
+# Članak 15.
+(1) U slučaju izvanrednog poremećaja u radu transportnog sustava, distribucijskog sustava, sustava skladišta plina, mreže proizvodnih plinovoda i/ili opreme krajnjeg kupca priključenog na transportni sustav, kao i u slučaju izvanrednog poremećaja uvoza plina, operator transportnog sustava dužan je odmah o istome obavijestiti korisnika transportnog sustava na kojega poremećaj ima utjecaj i voditelja bilančne skupine čiji je korisnik transportnog sustava član, te mu omogućiti izmjenu prihvaćene nominacije ili renominacije.
+(2) Rok za renominaciju iz stavka 1. ovoga članka određuje operator transportnog sustava.

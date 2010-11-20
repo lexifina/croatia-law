@@ -1,0 +1,5 @@
+# Članak 44.
+(1) U razdoblju do 30. rujna 2011. godine operator transportnog sustava za svaku bilančnu skupinu, izuzev bilančne skupine koju organizira i vodi opskrbljivač plinom iz članka 43. stavka 1. ovoga Pravilnika, određuje maksimalni kumulativ dnevnih odstupanja.
+(2) U razdoblju do 30. rujna 2011. godine, operator transportnog sustava dužan je o utvrđenom iznosu maksimalnog kumulativa dnevnih odstupanja bez odlaganja obavijestiti operatora tržišta plina koji će na osnovi tog podatka odrediti visinu potrebnih sredstava osiguranja plaćanja za pojedinog voditelja bilančne skupine te s njim sklopiti ugovor o reguliranju međusobnih odnosa.
+(3) Maksimalni kumulativ dnevnih odstupanja je u apsolutnom iznosu jednak za pozitivni i negativni kumulativ dnevnih odstupanja.
+(4) U razdoblju do 30. rujna 2011. godine, apsolutni iznos maksimalnog kumulativa dnevnih odstupanja za pojedinu bilančnu skupinu, za pojedini mjesec, iznosi 3% od ukupnog rezerviranog dnevnog kapaciteta na ulazima u transportni sustav korisnika transportnog sustava koji su članovi iste bilančne skupine ili 100.000 m3, pri čemu se u obzir uzima veći iznos.

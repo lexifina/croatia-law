@@ -1,0 +1,9 @@
+## Nominacija korištenja transportnog sustava
+# Članak 13.
+(1) Voditelj bilančne skupine dužan je operatoru transportnog sustava svakodnevno dostavljati nominaciju sumarno za sve članove i pojedinačno za svakog korisnika transportnog sustava člana bilančne skupine koju organizira i vodi, a koja mora sadržavati planiranu dnevnu količinu prirodnog plina u kWh, razrađenu za svaki sat u kWh/h za naredni plinski dan.
+(2) Nominacija iz stavka 1. ovoga članka dostavlja se zasebno za svaki ulaz u transportni sustav i zasebno za svaki izlaz iz transportnog sustava, pri čemu nominirana dnevna količina prirodnog plina u kWh za naredni plinski dan ne može biti veća od sume rezerviranih dnevnih kapaciteta iz svih ugovora o transportu plina.
+(3) Nominacija iz stavka 1. ovoga članka sadrži i nominaciju za robnu namiru plina.
+(4) Nominacija iz stavka 1. ovoga članka, za izlaz iz transportnog sustava koji je ujedno i ulaz u sustav skladišta plina i za ulaz u transportni sustav koji je ujedno i izlaz iz sustava skladišta plina, mora biti usklađena s nominacijom korištenja sustava skladišta plina iz članka 31. stavka 1. ovoga Pravilnika.
+(5) Opskrbljivači plinom dužni su voditelju bilančne skupine koje su članovi svakodnevno dostavljati prednominaciju za sve svoje kupce, za naredni plinski dan.
+(6) Prednominacija iz stavka 5. ovoga članka za krajnjeg kupca priključenog na transportni sustav mora sadržavati planiranu dnevnu količinu prirodnog plina u kWh, razrađenu za svaki sat u kWh/h za naredni plinski dan.
+(7) Prednominacija iz stavka 5. ovoga članka za krajnje kupce priključene na distribucijski sustav mora sadržavati, zasebno za svaku primopredajnu mjerno-redukcijsku stanicu, planiranu ukupnu dnevnu količinu prirodnog plina u kWh, razrađenu za svaki sat u kWh/h za naredni plinski dan.

@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Operator tržišta plina i ponuditelj energije uravnoteženja iz članka 43. stavka 1. ovoga Pravilnika dužni su najkasnije 30 dana od stupanja na snagu ovog Pravilnika sklopiti ugovor o reguliranju međusobnih odnosa. Ugovorom se između ostalog utvrđuju financijske obveze nastale sukladno članku 45. ovoga Pravilnika.
+(2) Operator tržišta plina i voditelj bilančne skupine, izuzev voditelja bilančne skupine koji je ponuditelj energije uravnoteženja iz članka 43. stavka 1. ovoga Pravilnika dužni su najkasnije do zadnjeg dana u mjesecu koji prethodi razdoblju na koje se odnose ugovori o transportu plina sklopiti ugovor o reguliranju međusobnih odnosa. Ugovorom se između ostalog utvrđuju financijske obveze nastale sukladno članku 45. ovoga Pravilnika.

@@ -1,0 +1,2 @@
+# Članak 20.
+Operator tržišta plina dužan je utvrditi dnevno odstupanje pojedine bilančne skupine te raspodijeliti po bilančnim skupinama operativnu akumulaciju, uključujući dozvoljene pogonske gubitke plina i dozvoljenu razliku u mjerenju, energiju uravnoteženja od ponuditelja na godišnjoj i ponuditelja na dnevnoj razini te operativnu zalihu, iskorištene za uravnoteženje transportnog sustava u plinskom danu, sukladno metodologiji za pružanje usluga uravnoteženja prirodnog plina u plinskom sustavu.

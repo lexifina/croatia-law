@@ -1,0 +1,5 @@
+## Pravila za korištenje nenominiranim rezerviranim kapacitetima transportnog sustava
+# Članak 17.
+(1) Voditelj bilančne skupine dužan je operatoru transportnog sustava uz nominaciju dostaviti podatke o korisniku transportnog sustava koji neće koristiti rezervirani kapacitet transportnog sustava na pojedinom ulazu u transportni sustav i na pojedinom izlazu iz transportnog sustava u narednom plinskom danu ili narednim plinskim danima.
+(2) U slučaju iz stavka 1. ovoga članka, operator transportnog sustava može rezervirani kapacitet korisnika transportnog sustava koji se neće koristiti, ponuditi drugim korisnicima transportnog sustava na primarnom tržištu kapaciteta kao prekidivi kapacitet.
+(3) Operator transportnog sustava može ponuditi prekidivi kapacitet iz stavka 2. ovoga članka u razdoblju od 16.00 do 16.30 sati tekućeg dana, za naredni plinski dan ili naredne plinske dane, uz prethodnu obavijest korisniku transportnog sustava čiji kapacitet je ponudio na primarnom tržištu kapaciteta.

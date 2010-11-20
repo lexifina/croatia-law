@@ -1,0 +1,8 @@
+# Članak 28.
+(1) Zahtjev za rezervaciju kapaciteta iz članka 27. stavka 1. ovoga Pravilnika podnosi se u elektroničkom ili pisanom obliku na obrascu kojega je operator sustava skladišta plina dužan objaviti na svojoj internetskoj stranici te mora sadržavati naročito sljedeće podatke:
+- naziv podnositelja zahtjeva, uključivo službene i operativne kontakte,
+- naziv korisnika sustava skladišta plina, uključivo službene i operativne kontakte,
+- zahtijevani kapacitet sustava skladišta plina, zasebno za radni volumen, kapacitet utiskivanja i kapacitet povlačenja, s najvećim dnevnim kapacitetom utiskivanja i najvećim dnevnim kapacitetom povlačenja izraženim u kWh/dan za svaki pojedini mjesec i radnim volumenom izraženim u kWh te najvećim satnim kapacitetom utiskivanja i najvećim satnim kapacitetom povlačenja za vremensko razdoblje na koji se odnosi zahtjev izraženim u kWh/h.
+- namjenu korištenja kapaciteta (operativna zaliha, zaštićeni kupci, ostali kupci),
+- vremensko razdoblje na koji se odnosi zahtjev, zasebno za radni volumen, kapacitet utiskivanja i kapacitet povlačenja.
+(2) Uz zahtjev za rezervaciju kapaciteta za izlaz iz transportnog sustava koji je ujedno i ulaz u sustav skladišta plina i za ulaz u transportni sustav koji je ujedno i izlaz iz sustava skladišta plina voditelj bilančne skupine, za bilančnu skupinu koju organizira i vodi, prilaže podatke potrebne za rezervaciju kapaciteta iz sklopljenih ugovora o dobavi plina, ugovora o prodaji plina i ugovora o opskrbi plinom krajnjih kupaca koji su izravno priključeni na transportni sustav, s posebno navedenim podacima o zaštićenim kupcima.
