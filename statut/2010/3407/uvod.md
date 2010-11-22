@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« broj 152/08) Skupština Turističke zajednice Županije Koprivničko-križevačke, uz prethodnu suglasnost ministra turizma, na sjednici održanoj 8. studenoga 2010. godine, donijela je
