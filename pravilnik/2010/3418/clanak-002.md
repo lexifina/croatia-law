@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 15. mijenja se i glasi:
+»Ljekarnik ima pravo izdati na recept iz članka 5. kao i na e-recept iz članka 5a ovog Pravilnika samo onaj lijek koji je propisan na receptu i pod uvjetom da je propisan u skladu s odredbama Zakona, Zakona o lijekovima, Pravilnika o načinu razvrstavanja lijekova, te propisivanju i izdavanju lijekova, ovog Pravilnika i drugih općih akata Zavoda.
+U slučaju kada je lijek propisan na e-recept, a zbog nemogućnosti uspostave komunikacijske veze sa Centralnim informacijskim sustavom Republike Hrvatske (CEZIH), nije privremeno moguće provesti postupak po e-receptu, ljekarnik postupa na način propisan provedbenim naputkom Zavoda, pod uvjetom da osigurana osoba može ljekarniku predočiti ovjerenu tiskanicu Povijesti bolesti iz ordinacije PZZ-a, čiji sadržaj je propisan općim aktom Zavoda.«
