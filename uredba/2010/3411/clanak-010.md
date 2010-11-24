@@ -1,0 +1,5 @@
+# Članak 10.
+Članak 13. i naslov iznad njega mijenjaju se i glase:
+»2.3.1.1. Odsjek za kadrovske poslove
+Članak 13.
+Odsjek za kadrovske poslove utvrđuje godišnji plan rada Ministarstva, obavlja poslove za potrebe Ministarstva vezane za prijam, raspoređivanje, napredovanje, premještaj i prestanak državne službe, obavlja poslove u svezi s ostvarivanjem prava službenika i namještenika temeljem Kolektivnog ugovora za državne službenike i namještenike, daje mišljenja o pitanjima koja se odnose na državnu službu te izrađuje rješenja za službenike, ugovore o radu za namještenike, kao i ugovore o djelu. Obavlja pripremne radnje potrebne za pokretanje postupka zbog pokretanja povrede službene dužnosti. Obavlja poslove vezane za izradu nacrta prijedloga uredbe o unutanjem ustrojstvu Ministarstva i pravilnika o unutarnjem redu Ministarstva, vodi osobne očevidnike i odgovrajuće evidencije iz radnopravnog statusa službenika i namještenika temeljem čega izdaje odgovarajuće potvrde, te obavlja i druge poslove u okviru svoga djelokruga.«.
