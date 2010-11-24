@@ -1,0 +1,16 @@
+## VIII. PRIJAVA I POSTUPAK
+# Članak 25.
+(1) Prijave će se podnositi na temelju javnog natječaja koji raspisuje Agencija.
+(2) Natječaj iz stavka 1. ovog članka objavljuje se u »Narodnim novinama«, na službenim web-stranicama Ministarstva (www.mps.hr) i Agencije (www.apprrr.hr).
+(3) Natječajem iz stavka 1. ovog članka određuju se rokovi i uvjeti za podnošenje prijava za dodjelu sredstava iz IPARD programa.
+(4) Prije podnošenja prijave iz stavka 1. ovog članka podnositelj je dužan prikupiti, najmanje tri (3) sadržajno usporedive ponude za svaku pojedinačnu nabavu roba, usluga i radova čija vrijednost prelazi 10.000 €, odnosno jedne (1) ponude za svaku pojedinačnu nabavu roba, usluga i radova čija vrijednost ne prelazi 10.000 €, sukladno obrascu I-OOP-7 (Prilog IV C) uz prilaganje tehničke specifikacije.
+(5) Svaka pojedinačna nabava iz stavka 4. ovoga članka mora sadržavati izdatke koji se nalaze na Listi prihvatljivih izdataka (Prilog IV F) te biti podrijetlom iz zemalja navedenih u članku 23, točka e, za što je potrebno priložiti dokaz. Zemlja podrijetla mora biti navedena u svakoj ponudi, a potrebno je priložiti i izjavu/deklaraciju/potvrdu o podrijetlu koju izdaje dobavljač/proizvođač/izvođač radova. Izjava/deklaracija/potvrda o podrijetlu mora sadržavati jasnu poveznicu s odgovarajućom ponudom.
+(6) Prilikom podnošenja prijave podnositelj je dužan prikupljene ponude za svaku pojedinačnu nabavu iz stavaka 4. i 5. ovoga članka priložiti prijavi te ih prikazati na obrascu I-OOP-8, Prilog IV D.
+(7) Odabrane ponude moraju biti u skladu s tržišnim cijenama. U slučaju da cijene iz odabranih ponuda nisu u skladu s tržišnim, Agencija može umanjiti iznos odobrene potpore.
+(8) Ako podnositelj izabere ponudu koja nije cjenovno najpovoljnija dužan je Agenciji dostaviti pisano obrazloženje.
+(9) Prikupljene ponude moraju biti izražene u eurima (EUR) ili u hrvatskim kunama (HRK).
+(10) Ako su ponude za pojedinačne nabave iskazane u eurima, podnositelj je dužan izvršiti obračun u kunama prema mjesečnom tečaju Europske komisije (ECB), iskazanom na šest (6) decimala u mjesecu u kojem je podnesena prijava. Web adresa na kojoj se može dobiti uvid u navedeni tečaj je: http://ec.europa.eu/budget/inforeuro/. Ponude moraju biti važeće na dan podnošenja prijave.
+(11) Korisnik ne smije pribavljati ponude od dobavljača i izvođača radova s kojima je povezan vlasničkim odnosima, odnosno od dobavljača/izvođača radova koji su međusobno povezani vlasničkim odnosima.
+(12) Uz svaku ponudu potrebno je priložiti dokaz o vlasničkoj strukturi dobavljača/proizvođača(Izvod iz sudskog registra, Izvod iz obrtnog registra, Popis prvih 10 dioničara iz registra Središnjeg klirinškog depozitarnog društva, ili drugi odgovarajući dokument kao dokaz vlasništva, ukoliko se radi o dobavljaču/proizvođaču iz inozemstva, ne stariji od 6 mjeseci na dan podnošenja prijave).
+(13) Ako se tijekom provjere ponuda utvrdi da su informacije dostavljene od strane podnositelja i/ili ponuditelja lažne ili pogrešne, da su cijene u dostavljenim ponudama namjerno uvećane, ili da postoji sukob interesa između podnositelja i ponuditelja, te sukob interesa između ponuditelja, Agencija izdaje Odluku o odbijanju prijave.
+(14) Ako je ponuditelj roba, radova i usluga iz inozemstva, ponude, izjave o podrijetlu, te dokazi o vlasništvu moraju biti na hrvatskom ili engleskom jeziku.
